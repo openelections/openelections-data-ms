@@ -1,4 +1,4 @@
-openelections-data-ms
+OpenElections Data Mississippi
 =====================
 
-Converted CSVs of Mississippi election results
+Converted CSVs of Mississippi election results.
