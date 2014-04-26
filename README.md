@@ -21,7 +21,7 @@ Where totals are included, we use "Total" as the county name and mark the overal
 
 ![MS county CSV total example](ms_county_csv_example_total.png "MS county csv total example")
 
-### Tips
+### Instructions
 
 * We're only interested in federal, statewide and state legislative offices. No local offices.
 * Don't include precincts which have "X" in the vote totals.
