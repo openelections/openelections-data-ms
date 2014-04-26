@@ -9,6 +9,6 @@ Mississippi stores election results in PDF files at [the Secretary of State's si
 
 ![MS county example](ms_county_example.png "MS county example")
 
-The OpenElections CSV layout approach is to mirror the results file as much as possible, with one exception: we try to have a single result on each line, rather than multiple candidates or precincts. And we add an overall winner column, which is a boolean:
+The OpenElections CSV layout approach is to mirror the results file as much as possible, with one exception: we try to have a single result on each line, rather than multiple candidates or precincts. And we add an overall winner column, which is a boolean. We also standardize the office name to the names to match those in [our base fixtures](https://github.com/openelections/core/blob/dev/openelex/us/fixtures/office.csv).
 
 ![MS county CSV example](ms_county_csv_example.png "MS county csv example")
