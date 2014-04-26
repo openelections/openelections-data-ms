@@ -26,6 +26,7 @@ Where totals are included, we use "Total" as the county name and mark the overal
 * Don't include "County" in the county name.
 * Don't include "Precinct" in the name of the precinct.
 * For precincts with numbers in the name, remove any leading zeros (005 becomes 5).
+* Even within the same election, the order of candidates will differ between counties.
 
 ### How to Contribute
 
