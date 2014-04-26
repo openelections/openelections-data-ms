@@ -24,6 +24,7 @@ Where totals are included, we use "Total" as the county name and mark the overal
 ### Tips
 
 * We're only interested in federal, statewide and state legislative offices. No local offices.
+* Don't include precincts which have "X" in the vote totals.
 * Don't include "County" in the county name.
 * Don't include "Precinct" in the name of the precinct.
 * For precincts with numbers in the name, remove any leading zeros (005 becomes 5).
