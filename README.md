@@ -21,4 +21,16 @@ Where totals are included, we use "Total" as the county name and mark the overal
 
 ### How to Contribute
 
-1. Pick an election
+##### The Git Way
+
+1. Fork this repository.
+2. Pick an election and add it and your name to the [contributors file](contributors.csv).
+3. Add CSV results files to your repository.
+4. Submit a pull request when done.
+
+##### The Non-Git Way
+
+1. Pick an election.
+2. Email openelections@gmail.com to let us know what you're working on.
+3. Create CSV files.
+4. Email openelections@gmail.com with the files attached or a link to the files.
