@@ -21,6 +21,12 @@ Where totals are included, we use "Total" as the county name and mark the overal
 
 ![MS county CSV total example](ms_county_csv_example_total.png "MS county csv total example")
 
+### Tips
+
+* Don't include "County" in the county name.
+* Don't include "Precinct" in the name of the precinct.
+* For precincts with numbers in the name, remove any leading zeros (005 becomes 5).
+
 ### How to Contribute
 
 ##### The Git Way
