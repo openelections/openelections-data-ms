@@ -5,6 +5,8 @@ Converted CSVs of Mississippi election results.
 
 ### The Process
 
+TO BE CLEAR: This is data entry work. There is no magic here.
+
 Mississippi stores election results in PDF files at [the Secretary of State's site](http://www.sos.ms.gov/elections4.aspx). The files are stored by year, and then either by race (for special elections) or by county (for primary and general elections). The county files contain precinct-level results, organized by office, with precincts labeled vertically across the top. Here's a file from the Nov. 6, 2012 general election in Chickasaw County:
 
 ![MS county example](ms_county_example.png "MS county example")
@@ -34,3 +36,7 @@ Where totals are included, we use "Total" as the county name and mark the overal
 2. Email openelections@gmail.com to let us know what you're working on.
 3. Create CSV files.
 4. Email openelections@gmail.com with the files attached or a link to the files.
+
+### Questions
+
+If you run into questions about the PDFs or how to enter the results, check out the [Issues](https://github.com/openelections/openelections-data-ms/issues) or file a new one.
