@@ -25,6 +25,8 @@ For elections that have only county-level results, total rows will leave the cou
 
 ![MS multi-county CSV total example](ms_multi_county_csv_example_total.png "MS multi-county csv total example")
 
+For elections in which two candidates advance to a runoff, both candidates are marked as `winner`.
+
 ### Instructions
 
 * We're only interested in federal, statewide and state legislative offices. No local offices.
