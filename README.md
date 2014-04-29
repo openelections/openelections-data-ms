@@ -21,6 +21,10 @@ Where totals are included, leave the precinct column blank and mark the overall 
 
 ![MS county CSV total example](ms_county_csv_example_total.png "MS county csv total example")
 
+For elections that have only county-level results, total rows will leave the county blank for races that involve more than one county:
+
+![MS multi-county CSV total example](ms_multi_county_csv_example_total.png "MS multi-county csv total example")
+
 ### Instructions
 
 * We're only interested in federal, statewide and state legislative offices. No local offices.
