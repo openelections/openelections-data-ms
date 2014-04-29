@@ -17,7 +17,7 @@ The OpenElections CSV layout approach is to mirror the results file as much as p
 
 ![MS county CSV example](ms_county_csv_example.png "MS county csv example")
 
-Where totals are included, we use "Total" as the county name and mark the overall winner in each race in the `winner` column, which takes a boolean value:
+Where totals are included, leave the precinct column blank and mark the overall winner in each race in the `winner` column, which takes a boolean value:
 
 ![MS county CSV total example](ms_county_csv_example_total.png "MS county csv total example")
 
