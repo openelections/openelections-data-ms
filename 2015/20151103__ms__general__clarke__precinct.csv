@@ -1,0 +1,625 @@
+county,precinct,office,district,party,candidate,votes
+Clarke,Beaverdam,Governor,,Republican,Phil Bryant,48
+Clarke,Beaverdam,Governor,,Democrat,Robert Gray,93
+Clarke,Beaverdam,Governor,,Reform,Shawn O'Hara,1
+Clarke,Beaverdam,Lieutenant Governor,,Democrat,Tim Johnson,94
+Clarke,Beaverdam,Lieutenant Governor,,Republican,Tate Reeves,39
+Clarke,Beaverdam,Lieutenant Governor,,Libertarian,Ron Williams,3
+Clarke,Beaverdam,Lieutenant Governor,,Reform,Rosa B. Williams,2
+Clarke,Beaverdam,Secretary of State,,Democrat,Charles E. Graham,99
+Clarke,Beaverdam,Secretary of State,,Republican,Delbert Hosemann,40
+Clarke,Beaverdam,Secretary of State,,Reform,Randy Walker,3
+Clarke,Beaverdam,Attorney General,,Democrat,Jim Hood,117
+Clarke,Beaverdam,Attorney General,,Republican,Mike Hurst,22
+Clarke,Beaverdam,State Auditor,,Republican,Stacey E. Pickering,44
+Clarke,Beaverdam,State Auditor,,Democrat,"Jocelyn ""Joce"" Pepper Pritchett",93
+Clarke,Beaverdam,State Auditor,,Reform,Lajena Walley,2
+Clarke,Carmichael,Governor,,Republican,Phil Bryant,156
+Clarke,Carmichael,Governor,,Democrat,Robert Gray,44
+Clarke,Carmichael,Governor,,Reform,Shawn O'Hara,2
+Clarke,Carmichael,Lieutenant Governor,,Democrat,Tim Johnson,48
+Clarke,Carmichael,Lieutenant Governor,,Republican,Tate Reeves,148
+Clarke,Carmichael,Lieutenant Governor,,Libertarian,Ron Williams,3
+Clarke,Carmichael,Lieutenant Governor,,Reform,Rosa B. Williams,3
+Clarke,Carmichael,Secretary of State,,Democrat,Charles E. Graham,56
+Clarke,Carmichael,Secretary of State,,Republican,Delbert Hosemann,141
+Clarke,Carmichael,Secretary of State,,Reform,Randy Walker,4
+Clarke,Carmichael,Attorney General,,Democrat,Jim Hood,91
+Clarke,Carmichael,Attorney General,,Republican,Mike Hurst,106
+Clarke,Carmichael,State Auditor,,Republican,Stacey E. Pickering,153
+Clarke,Carmichael,State Auditor,,Democrat,"Jocelyn ""Joce"" Pepper Pritchett",46
+Clarke,Carmichael,State Auditor,,Reform,Lajena Walley,2
+Clarke,Desoto,Governor,,Republican,Phil Bryant,113
+Clarke,Desoto,Governor,,Democrat,Robert Gray,57
+Clarke,Desoto,Governor,,Reform,Shawn O'Hara,3
+Clarke,Desoto,Lieutenant Governor,,Democrat,Tim Johnson,72
+Clarke,Desoto,Lieutenant Governor,,Republican,Tate Reeves,99
+Clarke,Desoto,Lieutenant Governor,,Libertarian,Ron Williams,1
+Clarke,Desoto,Lieutenant Governor,,Reform,Rosa B. Williams,0
+Clarke,Desoto,Secretary of State,,Democrat,Charles E. Graham,79
+Clarke,Desoto,Secretary of State,,Republican,Delbert Hosemann,89
+Clarke,Desoto,Secretary of State,,Reform,Randy Walker,7
+Clarke,Desoto,Attorney General,,Democrat,Jim Hood,110
+Clarke,Desoto,Attorney General,,Republican,Mike Hurst,62
+Clarke,Desoto,State Auditor,,Republican,Stacey E. Pickering,97
+Clarke,Desoto,State Auditor,,Democrat,"Jocelyn ""Joce"" Pepper Pritchett",73
+Clarke,Desoto,State Auditor,,Reform,Lajena Walley,2
+Clarke,East Quitman,Governor,,Republican,Phil Bryant,902
+Clarke,East Quitman,Governor,,Democrat,Robert Gray,73
+Clarke,East Quitman,Governor,,Reform,Shawn O'Hara,5
+Clarke,East Quitman,Lieutenant Governor,,Democrat,Tim Johnson,80
+Clarke,East Quitman,Lieutenant Governor,,Republican,Tate Reeves,878
+Clarke,East Quitman,Lieutenant Governor,,Libertarian,Ron Williams,14
+Clarke,East Quitman,Lieutenant Governor,,Reform,Rosa B. Williams,1
+Clarke,East Quitman,Secretary of State,,Democrat,Charles E. Graham,96
+Clarke,East Quitman,Secretary of State,,Republican,Delbert Hosemann,843
+Clarke,East Quitman,Secretary of State,,Reform,Randy Walker,32
+Clarke,East Quitman,Attorney General,,Democrat,Jim Hood,402
+Clarke,East Quitman,Attorney General,,Republican,Mike Hurst,571
+Clarke,East Quitman,State Auditor,,Republican,Stacey E. Pickering,885
+Clarke,East Quitman,State Auditor,,Democrat,"Jocelyn ""Joce"" Pepper Pritchett",79
+Clarke,East Quitman,State Auditor,,Reform,Lajena Walley,7
+Clarke,Energy,Governor,,Republican,Phil Bryant,121
+Clarke,Energy,Governor,,Democrat,Robert Gray,7
+Clarke,Energy,Governor,,Reform,Shawn O'Hara,0
+Clarke,Energy,Lieutenant Governor,,Democrat,Tim Johnson,10
+Clarke,Energy,Lieutenant Governor,,Republican,Tate Reeves,112
+Clarke,Energy,Lieutenant Governor,,Libertarian,Ron Williams,4
+Clarke,Energy,Lieutenant Governor,,Reform,Rosa B. Williams,0
+Clarke,Energy,Secretary of State,,Democrat,Charles E. Graham,10
+Clarke,Energy,Secretary of State,,Republican,Delbert Hosemann,114
+Clarke,Energy,Secretary of State,,Reform,Randy Walker,2
+Clarke,Energy,Attorney General,,Democrat,Jim Hood,32
+Clarke,Energy,Attorney General,,Republican,Mike Hurst,93
+Clarke,Energy,State Auditor,,Republican,Stacey E. Pickering,116
+Clarke,Energy,State Auditor,,Democrat,"Jocelyn ""Joce"" Pepper Pritchett",8
+Clarke,Energy,State Auditor,,Reform,Lajena Walley,1
+Clarke,Enterprise,Governor,,Republican,Phil Bryant,669
+Clarke,Enterprise,Governor,,Democrat,Robert Gray,120
+Clarke,Enterprise,Governor,,Reform,Shawn O'Hara,7
+Clarke,Enterprise,Lieutenant Governor,,Democrat,Tim Johnson,138
+Clarke,Enterprise,Lieutenant Governor,,Republican,Tate Reeves,635
+Clarke,Enterprise,Lieutenant Governor,,Libertarian,Ron Williams,11
+Clarke,Enterprise,Lieutenant Governor,,Reform,Rosa B. Williams,4
+Clarke,Enterprise,Secretary of State,,Democrat,Charles E. Graham,140
+Clarke,Enterprise,Secretary of State,,Republican,Delbert Hosemann,638
+Clarke,Enterprise,Secretary of State,,Reform,Randy Walker,12
+Clarke,Enterprise,Attorney General,,Democrat,Jim Hood,280
+Clarke,Enterprise,Attorney General,,Republican,Mike Hurst,515
+Clarke,Enterprise,State Auditor,,Republican,Stacey E. Pickering,648
+Clarke,Enterprise,State Auditor,,Democrat,"Jocelyn ""Joce"" Pepper Pritchett",140
+Clarke,Enterprise,State Auditor,,Reform,Lajena Walley,7
+Clarke,Hopewell,Governor,,Republican,Phil Bryant,51
+Clarke,Hopewell,Governor,,Democrat,Robert Gray,46
+Clarke,Hopewell,Governor,,Reform,Shawn O'Hara,6
+Clarke,Hopewell,Lieutenant Governor,,Democrat,Tim Johnson,51
+Clarke,Hopewell,Lieutenant Governor,,Republican,Tate Reeves,44
+Clarke,Hopewell,Lieutenant Governor,,Libertarian,Ron Williams,5
+Clarke,Hopewell,Lieutenant Governor,,Reform,Rosa B. Williams,0
+Clarke,Hopewell,Secretary of State,,Democrat,Charles E. Graham,49
+Clarke,Hopewell,Secretary of State,,Republican,Delbert Hosemann,47
+Clarke,Hopewell,Secretary of State,,Reform,Randy Walker,7
+Clarke,Hopewell,Attorney General,,Democrat,Jim Hood,66
+Clarke,Hopewell,Attorney General,,Republican,Mike Hurst,35
+Clarke,Hopewell,State Auditor,,Republican,Stacey E. Pickering,47
+Clarke,Hopewell,State Auditor,,Democrat,"Jocelyn ""Joce"" Pepper Pritchett",49
+Clarke,Hopewell,State Auditor,,Reform,Lajena Walley,3
+Clarke,Harmony Dist. 1,Governor,,Republican,Phil Bryant,61
+Clarke,Harmony Dist. 1,Governor,,Democrat,Robert Gray,26
+Clarke,Harmony Dist. 1,Governor,,Reform,Shawn O'Hara,1
+Clarke,Harmony Dist. 1,Lieutenant Governor,,Democrat,Tim Johnson,30
+Clarke,Harmony Dist. 1,Lieutenant Governor,,Republican,Tate Reeves,57
+Clarke,Harmony Dist. 1,Lieutenant Governor,,Libertarian,Ron Williams,0
+Clarke,Harmony Dist. 1,Lieutenant Governor,,Reform,Rosa B. Williams,0
+Clarke,Harmony Dist. 1,Secretary of State,,Democrat,Charles E. Graham,30
+Clarke,Harmony Dist. 1,Secretary of State,,Republican,Delbert Hosemann,54
+Clarke,Harmony Dist. 1,Secretary of State,,Reform,Randy Walker,4
+Clarke,Harmony Dist. 1,Attorney General,,Democrat,Jim Hood,51
+Clarke,Harmony Dist. 1,Attorney General,,Republican,Mike Hurst,36
+Clarke,Harmony Dist. 1,State Auditor,,Republican,Stacey E. Pickering,60
+Clarke,Harmony Dist. 1,State Auditor,,Democrat,"Jocelyn ""Joce"" Pepper Pritchett",23
+Clarke,Harmony Dist. 1,State Auditor,,Reform,Lajena Walley,4
+Clarke,Harmony Dist. 2,Governor,,Republican,Phil Bryant,138
+Clarke,Harmony Dist. 2,Governor,,Democrat,Robert Gray,59
+Clarke,Harmony Dist. 2,Governor,,Reform,Shawn O'Hara,1
+Clarke,Harmony Dist. 2,Lieutenant Governor,,Democrat,Tim Johnson,68
+Clarke,Harmony Dist. 2,Lieutenant Governor,,Republican,Tate Reeves,118
+Clarke,Harmony Dist. 2,Lieutenant Governor,,Libertarian,Ron Williams,6
+Clarke,Harmony Dist. 2,Lieutenant Governor,,Reform,Rosa B. Williams,1
+Clarke,Harmony Dist. 2,Secretary of State,,Democrat,Charles E. Graham,72
+Clarke,Harmony Dist. 2,Secretary of State,,Republican,Delbert Hosemann,108
+Clarke,Harmony Dist. 2,Secretary of State,,Reform,Randy Walker,10
+Clarke,Harmony Dist. 2,Attorney General,,Democrat,Jim Hood,116
+Clarke,Harmony Dist. 2,Attorney General,,Republican,Mike Hurst,82
+Clarke,Harmony Dist. 2,State Auditor,,Republican,Stacey E. Pickering,125
+Clarke,Harmony Dist. 2,State Auditor,,Democrat,"Jocelyn ""Joce"" Pepper Pritchett",69
+Clarke,Harmony Dist. 2,State Auditor,,Reform,Lajena Walley,3
+Clarke,Langsdale,Governor,,Republican,Phil Bryant,21
+Clarke,Langsdale,Governor,,Democrat,Robert Gray,17
+Clarke,Langsdale,Governor,,Reform,Shawn O'Hara,0
+Clarke,Langsdale,Lieutenant Governor,,Democrat,Tim Johnson,13
+Clarke,Langsdale,Lieutenant Governor,,Republican,Tate Reeves,22
+Clarke,Langsdale,Lieutenant Governor,,Libertarian,Ron Williams,1
+Clarke,Langsdale,Lieutenant Governor,,Reform,Rosa B. Williams,1
+Clarke,Langsdale,Secretary of State,,Democrat,Charles E. Graham,20
+Clarke,Langsdale,Secretary of State,,Republican,Delbert Hosemann,15
+Clarke,Langsdale,Secretary of State,,Reform,Randy Walker,1
+Clarke,Langsdale,Attorney General,,Democrat,Jim Hood,27
+Clarke,Langsdale,Attorney General,,Republican,Mike Hurst,9
+Clarke,Langsdale,State Auditor,,Republican,Stacey E. Pickering,17
+Clarke,Langsdale,State Auditor,,Democrat,"Jocelyn ""Joce"" Pepper Pritchett",20
+Clarke,Langsdale,State Auditor,,Reform,Lajena Walley,0
+Clarke,Manassa,Governor,,Republican,Phil Bryant,95
+Clarke,Manassa,Governor,,Democrat,Robert Gray,5
+Clarke,Manassa,Governor,,Reform,Shawn O'Hara,0
+Clarke,Manassa,Lieutenant Governor,,Democrat,Tim Johnson,5
+Clarke,Manassa,Lieutenant Governor,,Republican,Tate Reeves,92
+Clarke,Manassa,Lieutenant Governor,,Libertarian,Ron Williams,2
+Clarke,Manassa,Lieutenant Governor,,Reform,Rosa B. Williams,1
+Clarke,Manassa,Secretary of State,,Democrat,Charles E. Graham,9
+Clarke,Manassa,Secretary of State,,Republican,Delbert Hosemann,84
+Clarke,Manassa,Secretary of State,,Reform,Randy Walker,4
+Clarke,Manassa,Attorney General,,Democrat,Jim Hood,39
+Clarke,Manassa,Attorney General,,Republican,Mike Hurst,59
+Clarke,Manassa,State Auditor,,Republican,Stacey E. Pickering,90
+Clarke,Manassa,State Auditor,,Democrat,"Jocelyn ""Joce"" Pepper Pritchett",7
+Clarke,Manassa,State Auditor,,Reform,Lajena Walley,1
+Clarke,North Quitman,Governor,,Republican,Phil Bryant,197
+Clarke,North Quitman,Governor,,Democrat,Robert Gray,45
+Clarke,North Quitman,Governor,,Reform,Shawn O'Hara,6
+Clarke,North Quitman,Lieutenant Governor,,Democrat,Tim Johnson,58
+Clarke,North Quitman,Lieutenant Governor,,Republican,Tate Reeves,182
+Clarke,North Quitman,Lieutenant Governor,,Libertarian,Ron Williams,3
+Clarke,North Quitman,Lieutenant Governor,,Reform,Rosa B. Williams,2
+Clarke,North Quitman,Secretary of State,,Democrat,Charles E. Graham,58
+Clarke,North Quitman,Secretary of State,,Republican,Delbert Hosemann,178
+Clarke,North Quitman,Secretary of State,,Reform,Randy Walker,7
+Clarke,North Quitman,Attorney General,,Democrat,Jim Hood,135
+Clarke,North Quitman,Attorney General,,Republican,Mike Hurst,112
+Clarke,North Quitman,State Auditor,,Republican,Stacey E. Pickering,188
+Clarke,North Quitman,State Auditor,,Democrat,"Jocelyn ""Joce"" Pepper Pritchett",53
+Clarke,North Quitman,State Auditor,,Reform,Lajena Walley,4
+Clarke,Oakgrove,Governor,,Republican,Phil Bryant,56
+Clarke,Oakgrove,Governor,,Democrat,Robert Gray,125
+Clarke,Oakgrove,Governor,,Reform,Shawn O'Hara,6
+Clarke,Oakgrove,Lieutenant Governor,,Democrat,Tim Johnson,126
+Clarke,Oakgrove,Lieutenant Governor,,Republican,Tate Reeves,47
+Clarke,Oakgrove,Lieutenant Governor,,Libertarian,Ron Williams,3
+Clarke,Oakgrove,Lieutenant Governor,,Reform,Rosa B. Williams,4
+Clarke,Oakgrove,Secretary of State,,Democrat,Charles E. Graham,140
+Clarke,Oakgrove,Secretary of State,,Republican,Delbert Hosemann,31
+Clarke,Oakgrove,Secretary of State,,Reform,Randy Walker,9
+Clarke,Oakgrove,Attorney General,,Democrat,Jim Hood,150
+Clarke,Oakgrove,Attorney General,,Republican,Mike Hurst,31
+Clarke,Oakgrove,State Auditor,,Republican,Stacey E. Pickering,47
+Clarke,Oakgrove,State Auditor,,Democrat,"Jocelyn ""Joce"" Pepper Pritchett",127
+Clarke,Oakgrove,State Auditor,,Reform,Lajena Walley,7
+Clarke,Pachuta,Governor,,Republican,Phil Bryant,82
+Clarke,Pachuta,Governor,,Democrat,Robert Gray,104
+Clarke,Pachuta,Governor,,Reform,Shawn O'Hara,2
+Clarke,Pachuta,Lieutenant Governor,,Democrat,Tim Johnson,115
+Clarke,Pachuta,Lieutenant Governor,,Republican,Tate Reeves,67
+Clarke,Pachuta,Lieutenant Governor,,Libertarian,Ron Williams,0
+Clarke,Pachuta,Lieutenant Governor,,Reform,Rosa B. Williams,2
+Clarke,Pachuta,Secretary of State,,Democrat,Charles E. Graham,113
+Clarke,Pachuta,Secretary of State,,Republican,Delbert Hosemann,68
+Clarke,Pachuta,Secretary of State,,Reform,Randy Walker,5
+Clarke,Pachuta,Attorney General,,Democrat,Jim Hood,141
+Clarke,Pachuta,Attorney General,,Republican,Mike Hurst,48
+Clarke,Pachuta,State Auditor,,Republican,Stacey E. Pickering,68
+Clarke,Pachuta,State Auditor,,Democrat,"Jocelyn ""Joce"" Pepper Pritchett",115
+Clarke,Pachuta,State Auditor,,Reform,Lajena Walley,1
+Clarke,Rolling Creek,Governor,,Republican,Phil Bryant,142
+Clarke,Rolling Creek,Governor,,Democrat,Robert Gray,14
+Clarke,Rolling Creek,Governor,,Reform,Shawn O'Hara,0
+Clarke,Rolling Creek,Lieutenant Governor,,Democrat,Tim Johnson,13
+Clarke,Rolling Creek,Lieutenant Governor,,Republican,Tate Reeves,139
+Clarke,Rolling Creek,Lieutenant Governor,,Libertarian,Ron Williams,5
+Clarke,Rolling Creek,Lieutenant Governor,,Reform,Rosa B. Williams,0
+Clarke,Rolling Creek,Secretary of State,,Democrat,Charles E. Graham,18
+Clarke,Rolling Creek,Secretary of State,,Republican,Delbert Hosemann,137
+Clarke,Rolling Creek,Secretary of State,,Reform,Randy Walker,2
+Clarke,Rolling Creek,Attorney General,,Democrat,Jim Hood,58
+Clarke,Rolling Creek,Attorney General,,Republican,Mike Hurst,99
+Clarke,Rolling Creek,State Auditor,,Republican,Stacey E. Pickering,140
+Clarke,Rolling Creek,State Auditor,,Democrat,"Jocelyn ""Joce"" Pepper Pritchett",15
+Clarke,Rolling Creek,State Auditor,,Reform,Lajena Walley,1
+Clarke,Shubuta,Governor,,Republican,Phil Bryant,118
+Clarke,Shubuta,Governor,,Democrat,Robert Gray,257
+Clarke,Shubuta,Governor,,Reform,Shawn O'Hara,12
+Clarke,Shubuta,Lieutenant Governor,,Democrat,Tim Johnson,267
+Clarke,Shubuta,Lieutenant Governor,,Republican,Tate Reeves,90
+Clarke,Shubuta,Lieutenant Governor,,Libertarian,Ron Williams,14
+Clarke,Shubuta,Lieutenant Governor,,Reform,Rosa B. Williams,10
+Clarke,Shubuta,Secretary of State,,Democrat,Charles E. Graham,286
+Clarke,Shubuta,Secretary of State,,Republican,Delbert Hosemann,80
+Clarke,Shubuta,Secretary of State,,Reform,Randy Walker,20
+Clarke,Shubuta,Attorney General,,Democrat,Jim Hood,323
+Clarke,Shubuta,Attorney General,,Republican,Mike Hurst,63
+Clarke,Shubuta,State Auditor,,Republican,Stacey E. Pickering,88
+Clarke,Shubuta,State Auditor,,Democrat,"Jocelyn ""Joce"" Pepper Pritchett",282
+Clarke,Shubuta,State Auditor,,Reform,Lajena Walley,14
+Clarke,Snell,Governor,,Republican,Phil Bryant,129
+Clarke,Snell,Governor,,Democrat,Robert Gray,2
+Clarke,Snell,Governor,,Reform,Shawn O'Hara,2
+Clarke,Snell,Lieutenant Governor,,Democrat,Tim Johnson,4
+Clarke,Snell,Lieutenant Governor,,Republican,Tate Reeves,126
+Clarke,Snell,Lieutenant Governor,,Libertarian,Ron Williams,1
+Clarke,Snell,Lieutenant Governor,,Reform,Rosa B. Williams,1
+Clarke,Snell,Secretary of State,,Democrat,Charles E. Graham,9
+Clarke,Snell,Secretary of State,,Republican,Delbert Hosemann,120
+Clarke,Snell,Secretary of State,,Reform,Randy Walker,3
+Clarke,Snell,Attorney General,,Democrat,Jim Hood,41
+Clarke,Snell,Attorney General,,Republican,Mike Hurst,93
+Clarke,Snell,State Auditor,,Republican,Stacey E. Pickering,129
+Clarke,Snell,State Auditor,,Democrat,"Jocelyn ""Joce"" Pepper Pritchett",4
+Clarke,Snell,State Auditor,,Reform,Lajena Walley,1
+Clarke,Souinlovie,Governor,,Republican,Phil Bryant,102
+Clarke,Souinlovie,Governor,,Democrat,Robert Gray,15
+Clarke,Souinlovie,Governor,,Reform,Shawn O'Hara,3
+Clarke,Souinlovie,Lieutenant Governor,,Democrat,Tim Johnson,17
+Clarke,Souinlovie,Lieutenant Governor,,Republican,Tate Reeves,98
+Clarke,Souinlovie,Lieutenant Governor,,Libertarian,Ron Williams,1
+Clarke,Souinlovie,Lieutenant Governor,,Reform,Rosa B. Williams,2
+Clarke,Souinlovie,Secretary of State,,Democrat,Charles E. Graham,20
+Clarke,Souinlovie,Secretary of State,,Republican,Delbert Hosemann,95
+Clarke,Souinlovie,Secretary of State,,Reform,Randy Walker,4
+Clarke,Souinlovie,Attorney General,,Democrat,Jim Hood,48
+Clarke,Souinlovie,Attorney General,,Republican,Mike Hurst,69
+Clarke,Souinlovie,State Auditor,,Republican,Stacey E. Pickering,100
+Clarke,Souinlovie,State Auditor,,Democrat,"Jocelyn ""Joce"" Pepper Pritchett",18
+Clarke,Souinlovie,State Auditor,,Reform,Lajena Walley,1
+Clarke,South Quitman,Governor,,Republican,Phil Bryant,280
+Clarke,South Quitman,Governor,,Democrat,Robert Gray,271
+Clarke,South Quitman,Governor,,Reform,Shawn O'Hara,10
+Clarke,South Quitman,Lieutenant Governor,,Democrat,Tim Johnson,306
+Clarke,South Quitman,Lieutenant Governor,,Republican,Tate Reeves,222
+Clarke,South Quitman,Lieutenant Governor,,Libertarian,Ron Williams,12
+Clarke,South Quitman,Lieutenant Governor,,Reform,Rosa B. Williams,13
+Clarke,South Quitman,Secretary of State,,Democrat,Charles E. Graham,323
+Clarke,South Quitman,Secretary of State,,Republican,Delbert Hosemann,206
+Clarke,South Quitman,Secretary of State,,Reform,Randy Walker,23
+Clarke,South Quitman,Attorney General,,Democrat,Jim Hood,421
+Clarke,South Quitman,Attorney General,,Republican,Mike Hurst,133
+Clarke,South Quitman,State Auditor,,Republican,Stacey E. Pickering,228
+Clarke,South Quitman,State Auditor,,Democrat,"Jocelyn ""Joce"" Pepper Pritchett",308
+Clarke,South Quitman,State Auditor,,Reform,Lajena Walley,9
+Clarke,Springs,Governor,,Republican,Phil Bryant,62
+Clarke,Springs,Governor,,Democrat,Robert Gray,31
+Clarke,Springs,Governor,,Reform,Shawn O'Hara,1
+Clarke,Springs,Lieutenant Governor,,Democrat,Tim Johnson,38
+Clarke,Springs,Lieutenant Governor,,Republican,Tate Reeves,55
+Clarke,Springs,Lieutenant Governor,,Libertarian,Ron Williams,1
+Clarke,Springs,Lieutenant Governor,,Reform,Rosa B. Williams,0
+Clarke,Springs,Secretary of State,,Democrat,Charles E. Graham,42
+Clarke,Springs,Secretary of State,,Republican,Delbert Hosemann,47
+Clarke,Springs,Secretary of State,,Reform,Randy Walker,5
+Clarke,Springs,Attorney General,,Democrat,Jim Hood,67
+Clarke,Springs,Attorney General,,Republican,Mike Hurst,26
+Clarke,Springs,State Auditor,,Republican,Stacey E. Pickering,55
+Clarke,Springs,State Auditor,,Democrat,"Jocelyn ""Joce"" Pepper Pritchett",37
+Clarke,Springs,State Auditor,,Reform,Lajena Walley,2
+Clarke,Stonewall Dist. 3,Governor,,Republican,Phil Bryant,240
+Clarke,Stonewall Dist. 3,Governor,,Democrat,Robert Gray,37
+Clarke,Stonewall Dist. 3,Governor,,Reform,Shawn O'Hara,3
+Clarke,Stonewall Dist. 3,Lieutenant Governor,,Democrat,Tim Johnson,46
+Clarke,Stonewall Dist. 3,Lieutenant Governor,,Republican,Tate Reeves,217
+Clarke,Stonewall Dist. 3,Lieutenant Governor,,Libertarian,Ron Williams,11
+Clarke,Stonewall Dist. 3,Lieutenant Governor,,Reform,Rosa B. Williams,1
+Clarke,Stonewall Dist. 3,Secretary of State,,Democrat,Charles E. Graham,47
+Clarke,Stonewall Dist. 3,Secretary of State,,Republican,Delbert Hosemann,220
+Clarke,Stonewall Dist. 3,Secretary of State,,Reform,Randy Walker,8
+Clarke,Stonewall Dist. 3,Attorney General,,Democrat,Jim Hood,131
+Clarke,Stonewall Dist. 3,Attorney General,,Republican,Mike Hurst,146
+Clarke,Stonewall Dist. 3,State Auditor,,Republican,Stacey E. Pickering,233
+Clarke,Stonewall Dist. 3,State Auditor,,Democrat,"Jocelyn ""Joce"" Pepper Pritchett",39
+Clarke,Stonewall Dist. 3,State Auditor,,Reform,Lajena Walley,5
+Clarke,Stonewall Dist. 1,Governor,,Republican,Phil Bryant,98
+Clarke,Stonewall Dist. 1,Governor,,Democrat,Robert Gray,136
+Clarke,Stonewall Dist. 1,Governor,,Reform,Shawn O'Hara,6
+Clarke,Stonewall Dist. 1,Lieutenant Governor,,Democrat,Tim Johnson,138
+Clarke,Stonewall Dist. 1,Lieutenant Governor,,Republican,Tate Reeves,88
+Clarke,Stonewall Dist. 1,Lieutenant Governor,,Libertarian,Ron Williams,7
+Clarke,Stonewall Dist. 1,Lieutenant Governor,,Reform,Rosa B. Williams,6
+Clarke,Stonewall Dist. 1,Secretary of State,,Democrat,Charles E. Graham,153
+Clarke,Stonewall Dist. 1,Secretary of State,,Republican,Delbert Hosemann,74
+Clarke,Stonewall Dist. 1,Secretary of State,,Reform,Randy Walker,9
+Clarke,Stonewall Dist. 1,Attorney General,,Democrat,Jim Hood,194
+Clarke,Stonewall Dist. 1,Attorney General,,Republican,Mike Hurst,45
+Clarke,Stonewall Dist. 1,State Auditor,,Republican,Stacey E. Pickering,86
+Clarke,Stonewall Dist. 1,State Auditor,,Democrat,"Jocelyn ""Joce"" Pepper Pritchett",151
+Clarke,Stonewall Dist. 1,State Auditor,,Reform,Lajena Walley,2
+Clarke,Union,Governor,,Republican,Phil Bryant,372
+Clarke,Union,Governor,,Democrat,Robert Gray,11
+Clarke,Union,Governor,,Reform,Shawn O'Hara,5
+Clarke,Union,Lieutenant Governor,,Democrat,Tim Johnson,16
+Clarke,Union,Lieutenant Governor,,Republican,Tate Reeves,367
+Clarke,Union,Lieutenant Governor,,Libertarian,Ron Williams,2
+Clarke,Union,Lieutenant Governor,,Reform,Rosa B. Williams,2
+Clarke,Union,Secretary of State,,Democrat,Charles E. Graham,20
+Clarke,Union,Secretary of State,,Republican,Delbert Hosemann,359
+Clarke,Union,Secretary of State,,Reform,Randy Walker,5
+Clarke,Union,Attorney General,,Democrat,Jim Hood,110
+Clarke,Union,Attorney General,,Republican,Mike Hurst,274
+Clarke,Union,State Auditor,,Republican,Stacey E. Pickering,365
+Clarke,Union,State Auditor,,Democrat,"Jocelyn ""Joce"" Pepper Pritchett",17
+Clarke,Union,State Auditor,,Reform,Lajena Walley,3
+Clarke,,Governor,,Republican,Phil Bryant,4253
+Clarke,,Governor,,Democrat,Robert Gray,1595
+Clarke,,Governor,,Reform,Shawn O'Hara,82
+Clarke,,Lieutenant Governor,,Democrat,Tim Johnson,1753
+Clarke,,Lieutenant Governor,,Republican,Tate Reeves,3942
+Clarke,,Lieutenant Governor,,Libertarian,Ron Williams,110
+Clarke,,Lieutenant Governor,,Reform,Rosa B. Williams,56
+Clarke,,Secretary of State,,Democrat,Charles E. Graham,1889
+Clarke,,Secretary of State,,Republican,Delbert Hosemann,3788
+Clarke,,Secretary of State,,Reform,Randy Walker,186
+Clarke,,Attorney General,,Democrat,Jim Hood,3150
+Clarke,,Attorney General,,Republican,Mike Hurst,2729
+Clarke,,State Auditor,,Republican,Stacey E. Pickering,4009
+Clarke,,State Auditor,,Democrat,"Jocelyn ""Joce"" Pepper Pritchett",1773
+Clarke,,State Auditor,,Reform,Lajena Walley,82
+Clarke,Beaverdam,State Treasurer,,Republican,Lynn Fitch,54
+Clarke,Beaverdam,State Treasurer,,Reform,Viola V. McFarland,52
+Clarke,Beaverdam,Commissioner of Agriculture & Commerce,,Democrat,Addie Lee Green,107
+Clarke,Beaverdam,Commissioner of Agriculture & Commerce,,Republican,Cindy Hyde-Smith,37
+Clarke,Beaverdam,Commissioner of Agriculture & Commerce,,Reform,Cathy L. Toole,0
+Clarke,Beaverdam,Commissioner of Insurance,,Republican,Mike Chaney,86
+Clarke,Carmichael,State Treasurer,,Republican,Lynn Fitch,156
+Clarke,Carmichael,State Treasurer,,Reform,Viola V. McFarland,34
+Clarke,Carmichael,Commissioner of Agriculture & Commerce,,Democrat,Addie Lee Green,55
+Clarke,Carmichael,Commissioner of Agriculture & Commerce,,Republican,Cindy Hyde-Smith,142
+Clarke,Carmichael,Commissioner of Agriculture & Commerce,,Reform,Cathy L. Toole,3
+Clarke,Carmichael,Commissioner of Insurance,,Republican,Mike Chaney,181
+Clarke,Desoto,State Treasurer,,Republican,Lynn Fitch,99
+Clarke,Desoto,State Treasurer,,Reform,Viola V. McFarland,54
+Clarke,Desoto,Commissioner of Agriculture & Commerce,,Democrat,Addie Lee Green,83
+Clarke,Desoto,Commissioner of Agriculture & Commerce,,Republican,Cindy Hyde-Smith,89
+Clarke,Desoto,Commissioner of Agriculture & Commerce,,Reform,Cathy L. Toole,3
+Clarke,Desoto,Commissioner of Insurance,,Republican,Mike Chaney,142
+Clarke,East Quitman,State Treasurer,,Republican,Lynn Fitch,891
+Clarke,East Quitman,State Treasurer,,Reform,Viola V. McFarland,64
+Clarke,East Quitman,Commissioner of Agriculture & Commerce,,Democrat,Addie Lee Green,102
+Clarke,East Quitman,Commissioner of Agriculture & Commerce,,Republican,Cindy Hyde-Smith,853
+Clarke,East Quitman,Commissioner of Agriculture & Commerce,,Reform,Cathy L. Toole,7
+Clarke,East Quitman,Commissioner of Insurance,,Republican,Mike Chaney,946
+Clarke,Energy,State Treasurer,,Republican,Lynn Fitch,115
+Clarke,Energy,State Treasurer,,Reform,Viola V. McFarland,5
+Clarke,Energy,Commissioner of Agriculture & Commerce,,Democrat,Addie Lee Green,12
+Clarke,Energy,Commissioner of Agriculture & Commerce,,Republican,Cindy Hyde-Smith,110
+Clarke,Energy,Commissioner of Agriculture & Commerce,,Reform,Cathy L. Toole,2
+Clarke,Energy,Commissioner of Insurance,,Republican,Mike Chaney,116
+Clarke,Enterprise,State Treasurer,,Republican,Lynn Fitch,670
+Clarke,Enterprise,State Treasurer,,Reform,Viola V. McFarland,90
+Clarke,Enterprise,Commissioner of Agriculture & Commerce,,Democrat,Addie Lee Green,143
+Clarke,Enterprise,Commissioner of Agriculture & Commerce,,Republican,Cindy Hyde-Smith,634
+Clarke,Enterprise,Commissioner of Agriculture & Commerce,,Reform,Cathy L. Toole,10
+Clarke,Enterprise,Commissioner of Insurance,,Republican,Mike Chaney,726
+Clarke,Hopewell,State Treasurer,,Republican,Lynn Fitch,55
+Clarke,Hopewell,State Treasurer,,Reform,Viola V. McFarland,25
+Clarke,Hopewell,Commissioner of Agriculture & Commerce,,Democrat,Addie Lee Green,52
+Clarke,Hopewell,Commissioner of Agriculture & Commerce,,Republican,Cindy Hyde-Smith,49
+Clarke,Hopewell,Commissioner of Agriculture & Commerce,,Reform,Cathy L. Toole,1
+Clarke,Hopewell,Commissioner of Insurance,,Republican,Mike Chaney,70
+Clarke,Harmony Dist. 1,State Treasurer,,Republican,Lynn Fitch,61
+Clarke,Harmony Dist. 1,State Treasurer,,Reform,Viola V. McFarland,21
+Clarke,Harmony Dist. 1,Commissioner of Agriculture & Commerce,,Democrat,Addie Lee Green,24
+Clarke,Harmony Dist. 1,Commissioner of Agriculture & Commerce,,Republican,Cindy Hyde-Smith,55
+Clarke,Harmony Dist. 1,Commissioner of Agriculture & Commerce,,Reform,Cathy L. Toole,7
+Clarke,Harmony Dist. 1,Commissioner of Insurance,,Republican,Mike Chaney,72
+Clarke,Harmony Dist. 2,State Treasurer,,Republican,Lynn Fitch,133
+Clarke,Harmony Dist. 2,State Treasurer,,Reform,Viola V. McFarland,58
+Clarke,Harmony Dist. 2,Commissioner of Agriculture & Commerce,,Democrat,Addie Lee Green,71
+Clarke,Harmony Dist. 2,Commissioner of Agriculture & Commerce,,Republican,Cindy Hyde-Smith,122
+Clarke,Harmony Dist. 2,Commissioner of Agriculture & Commerce,,Reform,Cathy L. Toole,6
+Clarke,Harmony Dist. 2,Commissioner of Insurance,,Republican,Mike Chaney,182
+Clarke,Langsdale,State Treasurer,,Republican,Lynn Fitch,20
+Clarke,Langsdale,State Treasurer,,Reform,Viola V. McFarland,13
+Clarke,Langsdale,Commissioner of Agriculture & Commerce,,Democrat,Addie Lee Green,20
+Clarke,Langsdale,Commissioner of Agriculture & Commerce,,Republican,Cindy Hyde-Smith,15
+Clarke,Langsdale,Commissioner of Agriculture & Commerce,,Reform,Cathy L. Toole,3
+Clarke,Langsdale,Commissioner of Insurance,,Republican,Mike Chaney,29
+Clarke,Manassa,State Treasurer,,Republican,Lynn Fitch,89
+Clarke,Manassa,State Treasurer,,Reform,Viola V. McFarland,7
+Clarke,Manassa,Commissioner of Agriculture & Commerce,,Democrat,Addie Lee Green,8
+Clarke,Manassa,Commissioner of Agriculture & Commerce,,Republican,Cindy Hyde-Smith,89
+Clarke,Manassa,Commissioner of Agriculture & Commerce,,Reform,Cathy L. Toole,1
+Clarke,Manassa,Commissioner of Insurance,,Republican,Mike Chaney,94
+Clarke,North Quitman,State Treasurer,,Republican,Lynn Fitch,195
+Clarke,North Quitman,State Treasurer,,Reform,Viola V. McFarland,41
+Clarke,North Quitman,Commissioner of Agriculture & Commerce,,Democrat,Addie Lee Green,57
+Clarke,North Quitman,Commissioner of Agriculture & Commerce,,Republican,Cindy Hyde-Smith,176
+Clarke,North Quitman,Commissioner of Agriculture & Commerce,,Reform,Cathy L. Toole,12
+Clarke,North Quitman,Commissioner of Insurance,,Republican,Mike Chaney,229
+Clarke,Oakgrove,State Treasurer,,Republican,Lynn Fitch,45
+Clarke,Oakgrove,State Treasurer,,Reform,Viola V. McFarland,108
+Clarke,Oakgrove,Commissioner of Agriculture & Commerce,,Democrat,Addie Lee Green,146
+Clarke,Oakgrove,Commissioner of Agriculture & Commerce,,Republican,Cindy Hyde-Smith,34
+Clarke,Oakgrove,Commissioner of Agriculture & Commerce,,Reform,Cathy L. Toole,5
+Clarke,Oakgrove,Commissioner of Insurance,,Republican,Mike Chaney,126
+Clarke,Pachuta,State Treasurer,,Republican,Lynn Fitch,84
+Clarke,Pachuta,State Treasurer,,Reform,Viola V. McFarland,76
+Clarke,Pachuta,Commissioner of Agriculture & Commerce,,Democrat,Addie Lee Green,122
+Clarke,Pachuta,Commissioner of Agriculture & Commerce,,Republican,Cindy Hyde-Smith,60
+Clarke,Pachuta,Commissioner of Agriculture & Commerce,,Reform,Cathy L. Toole,4
+Clarke,Pachuta,Commissioner of Insurance,,Republican,Mike Chaney,131
+Clarke,Rolling Creek,State Treasurer,,Republican,Lynn Fitch,146
+Clarke,Rolling Creek,State Treasurer,,Reform,Viola V. McFarland,9
+Clarke,Rolling Creek,Commissioner of Agriculture & Commerce,,Democrat,Addie Lee Green,15
+Clarke,Rolling Creek,Commissioner of Agriculture & Commerce,,Republican,Cindy Hyde-Smith,139
+Clarke,Rolling Creek,Commissioner of Agriculture & Commerce,,Reform,Cathy L. Toole,0
+Clarke,Rolling Creek,Commissioner of Insurance,,Republican,Mike Chaney,154
+Clarke,Shubuta,State Treasurer,,Republican,Lynn Fitch,121
+Clarke,Shubuta,State Treasurer,,Reform,Viola V. McFarland,236
+Clarke,Shubuta,Commissioner of Agriculture & Commerce,,Democrat,Addie Lee Green,291
+Clarke,Shubuta,Commissioner of Agriculture & Commerce,,Republican,Cindy Hyde-Smith,77
+Clarke,Shubuta,Commissioner of Agriculture & Commerce,,Reform,Cathy L. Toole,16
+Clarke,Shubuta,Commissioner of Insurance,,Republican,Mike Chaney,291
+Clarke,Snell,State Treasurer,,Republican,Lynn Fitch,128
+Clarke,Snell,State Treasurer,,Reform,Viola V. McFarland,4
+Clarke,Snell,Commissioner of Agriculture & Commerce,,Democrat,Addie Lee Green,3
+Clarke,Snell,Commissioner of Agriculture & Commerce,,Republican,Cindy Hyde-Smith,125
+Clarke,Snell,Commissioner of Agriculture & Commerce,,Reform,Cathy L. Toole,1
+Clarke,Snell,Commissioner of Insurance,,Republican,Mike Chaney,133
+Clarke,Souinlovie,State Treasurer,,Republican,Lynn Fitch,103
+Clarke,Souinlovie,State Treasurer,,Reform,Viola V. McFarland,12
+Clarke,Souinlovie,Commissioner of Agriculture & Commerce,,Democrat,Addie Lee Green,25
+Clarke,Souinlovie,Commissioner of Agriculture & Commerce,,Republican,Cindy Hyde-Smith,94
+Clarke,Souinlovie,Commissioner of Agriculture & Commerce,,Reform,Cathy L. Toole,2
+Clarke,Souinlovie,Commissioner of Insurance,,Republican,Mike Chaney,116
+Clarke,South Quitman,State Treasurer,,Republican,Lynn Fitch,263
+Clarke,South Quitman,State Treasurer,,Reform,Viola V. McFarland,228
+Clarke,South Quitman,Commissioner of Agriculture & Commerce,,Democrat,Addie Lee Green,333
+Clarke,South Quitman,Commissioner of Agriculture & Commerce,,Republican,Cindy Hyde-Smith,204
+Clarke,South Quitman,Commissioner of Agriculture & Commerce,,Reform,Cathy L. Toole,16
+Clarke,South Quitman,Commissioner of Insurance,,Republican,Mike Chaney,421
+Clarke,Springs,State Treasurer,,Republican,Lynn Fitch,62
+Clarke,Springs,State Treasurer,,Reform,Viola V. McFarland,25
+Clarke,Springs,Commissioner of Agriculture & Commerce,,Democrat,Addie Lee Green,43
+Clarke,Springs,Commissioner of Agriculture & Commerce,,Republican,Cindy Hyde-Smith,48
+Clarke,Springs,Commissioner of Agriculture & Commerce,,Reform,Cathy L. Toole,3
+Clarke,Springs,Commissioner of Insurance,,Republican,Mike Chaney,82
+Clarke,Stonewall Dist. 3,State Treasurer,,Republican,Lynn Fitch,233
+Clarke,Stonewall Dist. 3,State Treasurer,,Reform,Viola V. McFarland,33
+Clarke,Stonewall Dist. 3,Commissioner of Agriculture & Commerce,,Democrat,Addie Lee Green,46
+Clarke,Stonewall Dist. 3,Commissioner of Agriculture & Commerce,,Republican,Cindy Hyde-Smith,213
+Clarke,Stonewall Dist. 3,Commissioner of Agriculture & Commerce,,Reform,Cathy L. Toole,11
+Clarke,Stonewall Dist. 3,Commissioner of Insurance,,Republican,Mike Chaney,259
+Clarke,Stonewall Dist. 1,State Treasurer,,Republican,Lynn Fitch,95
+Clarke,Stonewall Dist. 1,State Treasurer,,Reform,Viola V. McFarland,107
+Clarke,Stonewall Dist. 1,Commissioner of Agriculture & Commerce,,Democrat,Addie Lee Green,153
+Clarke,Stonewall Dist. 1,Commissioner of Agriculture & Commerce,,Republican,Cindy Hyde-Smith,76
+Clarke,Stonewall Dist. 1,Commissioner of Agriculture & Commerce,,Reform,Cathy L. Toole,7
+Clarke,Stonewall Dist. 1,Commissioner of Insurance,,Republican,Mike Chaney,167
+Clarke,Union,State Treasurer,,Republican,Lynn Fitch,361
+Clarke,Union,State Treasurer,,Reform,Viola V. McFarland,17
+Clarke,Union,Commissioner of Agriculture & Commerce,,Democrat,Addie Lee Green,20
+Clarke,Union,Commissioner of Agriculture & Commerce,,Republican,Cindy Hyde-Smith,357
+Clarke,Union,Commissioner of Agriculture & Commerce,,Reform,Cathy L. Toole,6
+Clarke,Union,Commissioner of Insurance,,Republican,Mike Chaney,374
+Clarke,,State Treasurer,,Republican,Lynn Fitch,4179
+Clarke,,State Treasurer,,Reform,Viola V. McFarland,1319
+Clarke,,Commissioner of Agriculture & Commerce,,Democrat,Addie Lee Green,1931
+Clarke,,Commissioner of Agriculture & Commerce,,Republican,Cindy Hyde-Smith,3798
+Clarke,,Commissioner of Agriculture & Commerce,,Reform,Cathy L. Toole,126
+Clarke,,Commissioner of Insurance,,Republican,Mike Chaney,5127
+Clarke,Beaverdam,State Senate,33,Democrat,Chase Callahan,102
+Clarke,Beaverdam,State Senate,33,Republican,Videt Carmichael,40
+Clarke,Carmichael,State Senate,33,Democrat,Chase Callahan,48
+Clarke,Carmichael,State Senate,33,Republican,Videt Carmichael,152
+Clarke,Desoto,State Senate,33,Democrat,Chase Callahan,81
+Clarke,Desoto,State Senate,33,Republican,Videt Carmichael,93
+Clarke,East Quitman,State Senate,33,Democrat,Chase Callahan,100
+Clarke,East Quitman,State Senate,33,Republican,Videt Carmichael,864
+Clarke,Energy,State Senate,33,Democrat,Chase Callahan,15
+Clarke,Energy,State Senate,33,Republican,Videt Carmichael,108
+Clarke,Enterprise,State Senate,33,Democrat,Chase Callahan,154
+Clarke,Enterprise,State Senate,33,Republican,Videt Carmichael,633
+Clarke,Hopewell,State Senate,33,Democrat,Chase Callahan,53
+Clarke,Hopewell,State Senate,33,Republican,Videt Carmichael,48
+Clarke,Harmony Dist. 1,State Senate,33,Democrat,Chase Callahan,27
+Clarke,Harmony Dist. 1,State Senate,33,Republican,Videt Carmichael,61
+Clarke,Harmony Dist. 2,State Senate,33,Democrat,Chase Callahan,76
+Clarke,Harmony Dist. 2,State Senate,33,Republican,Videt Carmichael,120
+Clarke,Langsdale,State Senate,33,Democrat,Chase Callahan,18
+Clarke,Langsdale,State Senate,33,Republican,Videt Carmichael,19
+Clarke,Manassa,State Senate,33,Democrat,Chase Callahan,5
+Clarke,Manassa,State Senate,33,Republican,Videt Carmichael,94
+Clarke,North Quitman,State Senate,33,Democrat,Chase Callahan,56
+Clarke,North Quitman,State Senate,33,Republican,Videt Carmichael,187
+Clarke,Oakgrove,State Senate,33,Democrat,Chase Callahan,132
+Clarke,Oakgrove,State Senate,33,Republican,Videt Carmichael,46
+Clarke,Pachuta,State Senate,33,Democrat,Chase Callahan,120
+Clarke,Pachuta,State Senate,33,Republican,Videt Carmichael,62
+Clarke,Rolling Creek,State Senate,33,Democrat,Chase Callahan,19
+Clarke,Rolling Creek,State Senate,33,Republican,Videt Carmichael,136
+Clarke,Shubuta,State Senate,33,Democrat,Chase Callahan,286
+Clarke,Shubuta,State Senate,33,Republican,Videt Carmichael,97
+Clarke,Snell,State Senate,33,Democrat,Chase Callahan,7
+Clarke,Snell,State Senate,33,Republican,Videt Carmichael,126
+Clarke,Souinlovie,State Senate,33,Democrat,Chase Callahan,23
+Clarke,Souinlovie,State Senate,33,Republican,Videt Carmichael,95
+Clarke,South Quitman,State Senate,33,Democrat,Chase Callahan,302
+Clarke,South Quitman,State Senate,33,Republican,Videt Carmichael,236
+Clarke,Springs,State Senate,33,Democrat,Chase Callahan,41
+Clarke,Springs,State Senate,33,Republican,Videt Carmichael,53
+Clarke,Stonewall Dist. 3,State Senate,33,Democrat,Chase Callahan,48
+Clarke,Stonewall Dist. 3,State Senate,33,Republican,Videt Carmichael,228
+Clarke,Stonewall Dist. 1,State Senate,33,Democrat,Chase Callahan,146
+Clarke,Stonewall Dist. 1,State Senate,33,Republican,Videt Carmichael,87
+Clarke,Union,State Senate,33,Democrat,Chase Callahan,22
+Clarke,Union,State Senate,33,Republican,Videt Carmichael,360
+Clarke,,State Senate,33,Democrat,Chase Callahan,1881
+Clarke,,State Senate,33,Republican,Videt Carmichael,3945
+Clarke,Beaverdam,State House,80,Democrat,Omeria McDonald Scott,134
+Clarke,Beaverdam,State House,81,Republican,"Stephen A. ""Steve"" Horne",x
+Clarke,Beaverdam,State House,84,Republican,William E. Shirley Jr.,x
+Clarke,Carmichael,State House,80,Democrat,Omeria McDonald Scott,x
+Clarke,Carmichael,State House,81,Republican,"Stephen A. ""Steve"" Horne",x
+Clarke,Carmichael,State House,84,Republican,William E. Shirley Jr.,170
+Clarke,Desoto,State House,80,Democrat,Omeria McDonald Scott,x
+Clarke,Desoto,State House,81,Republican,"Stephen A. ""Steve"" Horne",x
+Clarke,Desoto,State House,84,Republican,William E. Shirley Jr.,141
+Clarke,East Quitman,State House,80,Democrat,Omeria McDonald Scott,x
+Clarke,East Quitman,State House,81,Republican,"Stephen A. ""Steve"" Horne",x
+Clarke,East Quitman,State House,84,Republican,William E. Shirley Jr.,931
+Clarke,Energy,State House,80,Democrat,Omeria McDonald Scott,x
+Clarke,Energy,State House,81,Republican,"Stephen A. ""Steve"" Horne",120
+Clarke,Energy,State House,84,Republican,William E. Shirley Jr.,x
+Clarke,Enterprise,State House,80,Democrat,Omeria McDonald Scott,x
+Clarke,Enterprise,State House,81,Republican,"Stephen A. ""Steve"" Horne",x
+Clarke,Enterprise,State House,84,Republican,William E. Shirley Jr.,707
+Clarke,Hopewell,State House,80,Democrat,Omeria McDonald Scott,x
+Clarke,Hopewell,State House,81,Republican,"Stephen A. ""Steve"" Horne",x
+Clarke,Hopewell,State House,84,Republican,William E. Shirley Jr.,69
+Clarke,Harmony Dist. 1,State House,80,Democrat,Omeria McDonald Scott,x
+Clarke,Harmony Dist. 1,State House,81,Republican,"Stephen A. ""Steve"" Horne",x
+Clarke,Harmony Dist. 1,State House,84,Republican,William E. Shirley Jr.,70
+Clarke,Harmony Dist. 2,State House,80,Democrat,Omeria McDonald Scott,x
+Clarke,Harmony Dist. 2,State House,81,Republican,"Stephen A. ""Steve"" Horne",x
+Clarke,Harmony Dist. 2,State House,84,Republican,William E. Shirley Jr.,179
+Clarke,Langsdale,State House,80,Democrat,Omeria McDonald Scott,35
+Clarke,Langsdale,State House,81,Republican,"Stephen A. ""Steve"" Horne",x
+Clarke,Langsdale,State House,84,Republican,William E. Shirley Jr.,x
+Clarke,Manassa,State House,80,Democrat,Omeria McDonald Scott,x
+Clarke,Manassa,State House,81,Republican,"Stephen A. ""Steve"" Horne",x
+Clarke,Manassa,State House,84,Republican,William E. Shirley Jr.,97
+Clarke,North Quitman,State House,80,Democrat,Omeria McDonald Scott,x
+Clarke,North Quitman,State House,81,Republican,"Stephen A. ""Steve"" Horne",x
+Clarke,North Quitman,State House,84,Republican,William E. Shirley Jr.,223
+Clarke,Oakgrove,State House,80,Democrat,Omeria McDonald Scott,172
+Clarke,Oakgrove,State House,81,Republican,"Stephen A. ""Steve"" Horne",x
+Clarke,Oakgrove,State House,84,Republican,William E. Shirley Jr.,x
+Clarke,Pachuta,State House,80,Democrat,Omeria McDonald Scott,163
+Clarke,Pachuta,State House,81,Republican,"Stephen A. ""Steve"" Horne",x
+Clarke,Pachuta,State House,84,Republican,William E. Shirley Jr.,x
+Clarke,Rolling Creek,State House,80,Democrat,Omeria McDonald Scott,x
+Clarke,Rolling Creek,State House,81,Republican,"Stephen A. ""Steve"" Horne",x
+Clarke,Rolling Creek,State House,84,Republican,William E. Shirley Jr.,150
+Clarke,Shubuta,State House,80,Democrat,Omeria McDonald Scott,363
+Clarke,Shubuta,State House,81,Republican,"Stephen A. ""Steve"" Horne",x
+Clarke,Shubuta,State House,84,Republican,William E. Shirley Jr.,x
+Clarke,Snell,State House,80,Democrat,Omeria McDonald Scott,x
+Clarke,Snell,State House,81,Republican,"Stephen A. ""Steve"" Horne",132
+Clarke,Snell,State House,84,Republican,William E. Shirley Jr.,x
+Clarke,Souinlovie,State House,80,Democrat,Omeria McDonald Scott,x
+Clarke,Souinlovie,State House,81,Republican,"Stephen A. ""Steve"" Horne",x
+Clarke,Souinlovie,State House,84,Republican,William E. Shirley Jr.,113
+Clarke,South Quitman,State House,80,Democrat,Omeria McDonald Scott,x
+Clarke,South Quitman,State House,81,Republican,"Stephen A. ""Steve"" Horne",x
+Clarke,South Quitman,State House,84,Republican,William E. Shirley Jr.,415
+Clarke,Springs,State House,80,Democrat,Omeria McDonald Scott,x
+Clarke,Springs,State House,81,Republican,"Stephen A. ""Steve"" Horne",x
+Clarke,Springs,State House,84,Republican,William E. Shirley Jr.,83
+Clarke,Stonewall Dist. 3,State House,80,Democrat,Omeria McDonald Scott,x
+Clarke,Stonewall Dist. 3,State House,81,Republican,"Stephen A. ""Steve"" Horne",x
+Clarke,Stonewall Dist. 3,State House,84,Republican,William E. Shirley Jr.,254
+Clarke,Stonewall Dist. 1,State House,80,Democrat,Omeria McDonald Scott,x
+Clarke,Stonewall Dist. 1,State House,81,Republican,"Stephen A. ""Steve"" Horne",x
+Clarke,Stonewall Dist. 1,State House,84,Republican,William E. Shirley Jr.,165
+Clarke,Union,State House,80,Democrat,Omeria McDonald Scott,x
+Clarke,Union,State House,81,Republican,"Stephen A. ""Steve"" Horne",x
+Clarke,Union,State House,84,Republican,William E. Shirley Jr.,369
+Clarke,,State House,80,Democrat,Omeria McDonald Scott,867
+Clarke,,,81,Republican,"Stephen A. ""Steve"" Horne",252
+Clarke,,,84,Republican,William E. Shirley Jr.,4136
