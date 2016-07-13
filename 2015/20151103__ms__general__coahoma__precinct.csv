@@ -1,0 +1,521 @@
+county,precinct,office,district,party,candidate,votes
+Coahoma,Bobo,Governor,,Republican,Phil Bryant,30
+Coahoma,Bobo,Governor,,Democrat,Robert Gray,46
+Coahoma,Bobo,Governor,,Reform,Shawn O'Hara,2
+Coahoma,Bobo,Lieutenant Governor,,Democrat,Tim Johnson,46
+Coahoma,Bobo,Lieutenant Governor,,Republican,Tate Reeves,30
+Coahoma,Bobo,Lieutenant Governor,,Libertarian,Ron Williams,1
+Coahoma,Bobo,Lieutenant Governor,,Reform,Rosa B. Williams,1
+Coahoma,Bobo,Secretary of State,,Democrat,Charles E. Graham,47
+Coahoma,Bobo,Secretary of State,,Republican,Delbert Hosemann,28
+Coahoma,Bobo,Secretary of State,,Reform,Randy Walker,2
+Coahoma,Bobo,Attorney General,,Democrat,Jim Hood,60
+Coahoma,Bobo,Attorney General,,Republican,Mike Hurst,21
+Coahoma,Bobo,State Auditor,,Republican,Stacey E. Pickering,33
+Coahoma,Bobo,State Auditor,,Democrat,"Jocelyn ""Joce"" Pepper Pritchett",45
+Coahoma,Bobo,State Auditor,,Reform,Lajena Walley,0
+Coahoma,Cagle Crossing,Governor,,Republican,Phil Bryant,28
+Coahoma,Cagle Crossing,Governor,,Democrat,Robert Gray,8
+Coahoma,Cagle Crossing,Governor,,Reform,Shawn O'Hara,0
+Coahoma,Cagle Crossing,Lieutenant Governor,,Democrat,Tim Johnson,16
+Coahoma,Cagle Crossing,Lieutenant Governor,,Republican,Tate Reeves,20
+Coahoma,Cagle Crossing,Lieutenant Governor,,Libertarian,Ron Williams,0
+Coahoma,Cagle Crossing,Lieutenant Governor,,Reform,Rosa B. Williams,0
+Coahoma,Cagle Crossing,Secretary of State,,Democrat,Charles E. Graham,12
+Coahoma,Cagle Crossing,Secretary of State,,Republican,Delbert Hosemann,21
+Coahoma,Cagle Crossing,Secretary of State,,Reform,Randy Walker,1
+Coahoma,Cagle Crossing,Attorney General,,Democrat,Jim Hood,19
+Coahoma,Cagle Crossing,Attorney General,,Republican,Mike Hurst,15
+Coahoma,Cagle Crossing,State Auditor,,Republican,Stacey E. Pickering,26
+Coahoma,Cagle Crossing,State Auditor,,Democrat,"Jocelyn ""Joce"" Pepper Pritchett",10
+Coahoma,Cagle Crossing,State Auditor,,Reform,Lajena Walley,0
+Coahoma,Clarksdale Courthouse,Governor,,Republican,Phil Bryant,174
+Coahoma,Clarksdale Courthouse,Governor,,Democrat,Robert Gray,112
+Coahoma,Clarksdale Courthouse,Governor,,Reform,Shawn O'Hara,4
+Coahoma,Clarksdale Courthouse,Lieutenant Governor,,Democrat,Tim Johnson,134
+Coahoma,Clarksdale Courthouse,Lieutenant Governor,,Republican,Tate Reeves,144
+Coahoma,Clarksdale Courthouse,Lieutenant Governor,,Libertarian,Ron Williams,2
+Coahoma,Clarksdale Courthouse,Lieutenant Governor,,Reform,Rosa B. Williams,9
+Coahoma,Clarksdale Courthouse,Secretary of State,,Democrat,Charles E. Graham,140
+Coahoma,Clarksdale Courthouse,Secretary of State,,Republican,Delbert Hosemann,135
+Coahoma,Clarksdale Courthouse,Secretary of State,,Reform,Randy Walker,8
+Coahoma,Clarksdale Courthouse,Attorney General,,Democrat,Jim Hood,186
+Coahoma,Clarksdale Courthouse,Attorney General,,Republican,Mike Hurst,96
+Coahoma,Clarksdale Courthouse,State Auditor,,Republican,Stacey E. Pickering,157
+Coahoma,Clarksdale Courthouse,State Auditor,,Democrat,"Jocelyn ""Joce"" Pepper Pritchett",121
+Coahoma,Clarksdale Courthouse,State Auditor,,Reform,Lajena Walley,1
+Coahoma,Clarksdale #2,Governor,,Republican,Phil Bryant,374
+Coahoma,Clarksdale #2,Governor,,Democrat,Robert Gray,177
+Coahoma,Clarksdale #2,Governor,,Reform,Shawn O'Hara,4
+Coahoma,Clarksdale #2,Lieutenant Governor,,Democrat,Tim Johnson,201
+Coahoma,Clarksdale #2,Lieutenant Governor,,Republican,Tate Reeves,325
+Coahoma,Clarksdale #2,Lieutenant Governor,,Libertarian,Ron Williams,13
+Coahoma,Clarksdale #2,Lieutenant Governor,,Reform,Rosa B. Williams,8
+Coahoma,Clarksdale #2,Secretary of State,,Democrat,Charles E. Graham,198
+Coahoma,Clarksdale #2,Secretary of State,,Republican,Delbert Hosemann,334
+Coahoma,Clarksdale #2,Secretary of State,,Reform,Randy Walker,8
+Coahoma,Clarksdale #2,Attorney General,,Democrat,Jim Hood,342
+Coahoma,Clarksdale #2,Attorney General,,Republican,Mike Hurst,203
+Coahoma,Clarksdale #2,State Auditor,,Republican,Stacey E. Pickering,341
+Coahoma,Clarksdale #2,State Auditor,,Democrat,"Jocelyn ""Joce"" Pepper Pritchett",203
+Coahoma,Clarksdale #2,State Auditor,,Reform,Lajena Walley,2
+Coahoma,Clarksdale #3,Governor,,Republican,Phil Bryant,47
+Coahoma,Clarksdale #3,Governor,,Democrat,Robert Gray,145
+Coahoma,Clarksdale #3,Governor,,Reform,Shawn O'Hara,2
+Coahoma,Clarksdale #3,Lieutenant Governor,,Democrat,Tim Johnson,148
+Coahoma,Clarksdale #3,Lieutenant Governor,,Republican,Tate Reeves,25
+Coahoma,Clarksdale #3,Lieutenant Governor,,Libertarian,Ron Williams,4
+Coahoma,Clarksdale #3,Lieutenant Governor,,Reform,Rosa B. Williams,13
+Coahoma,Clarksdale #3,Secretary of State,,Democrat,Charles E. Graham,157
+Coahoma,Clarksdale #3,Secretary of State,,Republican,Delbert Hosemann,24
+Coahoma,Clarksdale #3,Secretary of State,,Reform,Randy Walker,4
+Coahoma,Clarksdale #3,Attorney General,,Democrat,Jim Hood,165
+Coahoma,Clarksdale #3,Attorney General,,Republican,Mike Hurst,18
+Coahoma,Clarksdale #3,State Auditor,,Republican,Stacey E. Pickering,28
+Coahoma,Clarksdale #3,State Auditor,,Democrat,"Jocelyn ""Joce"" Pepper Pritchett",148
+Coahoma,Clarksdale #3,State Auditor,,Reform,Lajena Walley,5
+Coahoma,Clarksdale #4,Governor,,Republican,Phil Bryant,116
+Coahoma,Clarksdale #4,Governor,,Democrat,Robert Gray,398
+Coahoma,Clarksdale #4,Governor,,Reform,Shawn O'Hara,10
+Coahoma,Clarksdale #4,Lieutenant Governor,,Democrat,Tim Johnson,396
+Coahoma,Clarksdale #4,Lieutenant Governor,,Republican,Tate Reeves,62
+Coahoma,Clarksdale #4,Lieutenant Governor,,Libertarian,Ron Williams,20
+Coahoma,Clarksdale #4,Lieutenant Governor,,Reform,Rosa B. Williams,17
+Coahoma,Clarksdale #4,Secretary of State,,Democrat,Charles E. Graham,436
+Coahoma,Clarksdale #4,Secretary of State,,Republican,Delbert Hosemann,39
+Coahoma,Clarksdale #4,Secretary of State,,Reform,Randy Walker,22
+Coahoma,Clarksdale #4,Attorney General,,Democrat,Jim Hood,468
+Coahoma,Clarksdale #4,Attorney General,,Republican,Mike Hurst,39
+Coahoma,Clarksdale #4,State Auditor,,Republican,Stacey E. Pickering,73
+Coahoma,Clarksdale #4,State Auditor,,Democrat,"Jocelyn ""Joce"" Pepper Pritchett",412
+Coahoma,Clarksdale #4,State Auditor,,Reform,Lajena Walley,12
+Coahoma,Clarksdale #4 North,Governor,,Republican,Phil Bryant,53
+Coahoma,Clarksdale #4 North,Governor,,Democrat,Robert Gray,39
+Coahoma,Clarksdale #4 North,Governor,,Reform,Shawn O'Hara,1
+Coahoma,Clarksdale #4 North,Lieutenant Governor,,Democrat,Tim Johnson,43
+Coahoma,Clarksdale #4 North,Lieutenant Governor,,Republican,Tate Reeves,43
+Coahoma,Clarksdale #4 North,Lieutenant Governor,,Libertarian,Ron Williams,3
+Coahoma,Clarksdale #4 North,Lieutenant Governor,,Reform,Rosa B. Williams,2
+Coahoma,Clarksdale #4 North,Secretary of State,,Democrat,Charles E. Graham,42
+Coahoma,Clarksdale #4 North,Secretary of State,,Republican,Delbert Hosemann,46
+Coahoma,Clarksdale #4 North,Secretary of State,,Reform,Randy Walker,3
+Coahoma,Clarksdale #4 North,Attorney General,,Democrat,Jim Hood,70
+Coahoma,Clarksdale #4 North,Attorney General,,Republican,Mike Hurst,22
+Coahoma,Clarksdale #4 North,State Auditor,,Republican,Stacey E. Pickering,42
+Coahoma,Clarksdale #4 North,State Auditor,,Democrat,"Jocelyn ""Joce"" Pepper Pritchett",43
+Coahoma,Clarksdale #4 North,State Auditor,,Reform,Lajena Walley,2
+Coahoma,Clarksdale #5,Governor,,Republican,Phil Bryant,210
+Coahoma,Clarksdale #5,Governor,,Democrat,Robert Gray,333
+Coahoma,Clarksdale #5,Governor,,Reform,Shawn O'Hara,7
+Coahoma,Clarksdale #5,Lieutenant Governor,,Democrat,Tim Johnson,375
+Coahoma,Clarksdale #5,Lieutenant Governor,,Republican,Tate Reeves,144
+Coahoma,Clarksdale #5,Lieutenant Governor,,Libertarian,Ron Williams,6
+Coahoma,Clarksdale #5,Lieutenant Governor,,Reform,Rosa B. Williams,21
+Coahoma,Clarksdale #5,Secretary of State,,Democrat,Charles E. Graham,388
+Coahoma,Clarksdale #5,Secretary of State,,Republican,Delbert Hosemann,133
+Coahoma,Clarksdale #5,Secretary of State,,Reform,Randy Walker,16
+Coahoma,Clarksdale #5,Attorney General,,Democrat,Jim Hood,452
+Coahoma,Clarksdale #5,Attorney General,,Republican,Mike Hurst,90
+Coahoma,Clarksdale #5,State Auditor,,Republican,Stacey E. Pickering,160
+Coahoma,Clarksdale #5,State Auditor,,Democrat,"Jocelyn ""Joce"" Pepper Pritchett",362
+Coahoma,Clarksdale #5,State Auditor,,Reform,Lajena Walley,11
+Coahoma,Coahoma,Governor,,Republican,Phil Bryant,19
+Coahoma,Coahoma,Governor,,Democrat,Robert Gray,72
+Coahoma,Coahoma,Governor,,Reform,Shawn O'Hara,2
+Coahoma,Coahoma,Lieutenant Governor,,Democrat,Tim Johnson,80
+Coahoma,Coahoma,Lieutenant Governor,,Republican,Tate Reeves,8
+Coahoma,Coahoma,Lieutenant Governor,,Libertarian,Ron Williams,3
+Coahoma,Coahoma,Lieutenant Governor,,Reform,Rosa B. Williams,1
+Coahoma,Coahoma,Secretary of State,,Democrat,Charles E. Graham,85
+Coahoma,Coahoma,Secretary of State,,Republican,Delbert Hosemann,7
+Coahoma,Coahoma,Secretary of State,,Reform,Randy Walker,1
+Coahoma,Coahoma,Attorney General,,Democrat,Jim Hood,85
+Coahoma,Coahoma,Attorney General,,Republican,Mike Hurst,8
+Coahoma,Coahoma,State Auditor,,Republican,Stacey E. Pickering,7
+Coahoma,Coahoma,State Auditor,,Democrat,"Jocelyn ""Joce"" Pepper Pritchett",81
+Coahoma,Coahoma,State Auditor,,Reform,Lajena Walley,2
+Coahoma,Dublin,Governor,,Republican,Phil Bryant,57
+Coahoma,Dublin,Governor,,Democrat,Robert Gray,14
+Coahoma,Dublin,Governor,,Reform,Shawn O'Hara,1
+Coahoma,Dublin,Lieutenant Governor,,Democrat,Tim Johnson,22
+Coahoma,Dublin,Lieutenant Governor,,Republican,Tate Reeves,47
+Coahoma,Dublin,Lieutenant Governor,,Libertarian,Ron Williams,1
+Coahoma,Dublin,Lieutenant Governor,,Reform,Rosa B. Williams,1
+Coahoma,Dublin,Secretary of State,,Democrat,Charles E. Graham,28
+Coahoma,Dublin,Secretary of State,,Republican,Delbert Hosemann,40
+Coahoma,Dublin,Secretary of State,,Reform,Randy Walker,2
+Coahoma,Dublin,Attorney General,,Democrat,Jim Hood,43
+Coahoma,Dublin,Attorney General,,Republican,Mike Hurst,30
+Coahoma,Dublin,State Auditor,,Republican,Stacey E. Pickering,46
+Coahoma,Dublin,State Auditor,,Democrat,"Jocelyn ""Joce"" Pepper Pritchett",21
+Coahoma,Dublin,State Auditor,,Reform,Lajena Walley,1
+Coahoma,Farrell,Governor,,Republican,Phil Bryant,21
+Coahoma,Farrell,Governor,,Democrat,Robert Gray,43
+Coahoma,Farrell,Governor,,Reform,Shawn O'Hara,2
+Coahoma,Farrell,Lieutenant Governor,,Democrat,Tim Johnson,48
+Coahoma,Farrell,Lieutenant Governor,,Republican,Tate Reeves,13
+Coahoma,Farrell,Lieutenant Governor,,Libertarian,Ron Williams,0
+Coahoma,Farrell,Lieutenant Governor,,Reform,Rosa B. Williams,3
+Coahoma,Farrell,Secretary of State,,Democrat,Charles E. Graham,53
+Coahoma,Farrell,Secretary of State,,Republican,Delbert Hosemann,13
+Coahoma,Farrell,Secretary of State,,Reform,Randy Walker,1
+Coahoma,Farrell,Attorney General,,Democrat,Jim Hood,54
+Coahoma,Farrell,Attorney General,,Republican,Mike Hurst,13
+Coahoma,Farrell,State Auditor,,Republican,Stacey E. Pickering,15
+Coahoma,Farrell,State Auditor,,Democrat,"Jocelyn ""Joce"" Pepper Pritchett",50
+Coahoma,Farrell,State Auditor,,Reform,Lajena Walley,1
+Coahoma,Friars Point,Governor,,Republican,Phil Bryant,55
+Coahoma,Friars Point,Governor,,Democrat,Robert Gray,132
+Coahoma,Friars Point,Governor,,Reform,Shawn O'Hara,1
+Coahoma,Friars Point,Lieutenant Governor,,Democrat,Tim Johnson,153
+Coahoma,Friars Point,Lieutenant Governor,,Republican,Tate Reeves,23
+Coahoma,Friars Point,Lieutenant Governor,,Libertarian,Ron Williams,4
+Coahoma,Friars Point,Lieutenant Governor,,Reform,Rosa B. Williams,5
+Coahoma,Friars Point,Secretary of State,,Democrat,Charles E. Graham,147
+Coahoma,Friars Point,Secretary of State,,Republican,Delbert Hosemann,31
+Coahoma,Friars Point,Secretary of State,,Reform,Randy Walker,4
+Coahoma,Friars Point,Attorney General,,Democrat,Jim Hood,167
+Coahoma,Friars Point,Attorney General,,Republican,Mike Hurst,19
+Coahoma,Friars Point,State Auditor,,Republican,Stacey E. Pickering,35
+Coahoma,Friars Point,State Auditor,,Democrat,"Jocelyn ""Joce"" Pepper Pritchett",150
+Coahoma,Friars Point,State Auditor,,Reform,Lajena Walley,2
+Coahoma,Jonestown,Governor,,Republican,Phil Bryant,32
+Coahoma,Jonestown,Governor,,Democrat,Robert Gray,201
+Coahoma,Jonestown,Governor,,Reform,Shawn O'Hara,1
+Coahoma,Jonestown,Lieutenant Governor,,Democrat,Tim Johnson,220
+Coahoma,Jonestown,Lieutenant Governor,,Republican,Tate Reeves,6
+Coahoma,Jonestown,Lieutenant Governor,,Libertarian,Ron Williams,2
+Coahoma,Jonestown,Lieutenant Governor,,Reform,Rosa B. Williams,8
+Coahoma,Jonestown,Secretary of State,,Democrat,Charles E. Graham,224
+Coahoma,Jonestown,Secretary of State,,Republican,Delbert Hosemann,7
+Coahoma,Jonestown,Secretary of State,,Reform,Randy Walker,8
+Coahoma,Jonestown,Attorney General,,Democrat,Jim Hood,229
+Coahoma,Jonestown,Attorney General,,Republican,Mike Hurst,8
+Coahoma,Jonestown,State Auditor,,Republican,Stacey E. Pickering,15
+Coahoma,Jonestown,State Auditor,,Democrat,"Jocelyn ""Joce"" Pepper Pritchett",217
+Coahoma,Jonestown,State Auditor,,Reform,Lajena Walley,4
+Coahoma,Lula,Governor,,Republican,Phil Bryant,55
+Coahoma,Lula,Governor,,Democrat,Robert Gray,47
+Coahoma,Lula,Governor,,Reform,Shawn O'Hara,0
+Coahoma,Lula,Lieutenant Governor,,Democrat,Tim Johnson,46
+Coahoma,Lula,Lieutenant Governor,,Republican,Tate Reeves,45
+Coahoma,Lula,Lieutenant Governor,,Libertarian,Ron Williams,2
+Coahoma,Lula,Lieutenant Governor,,Reform,Rosa B. Williams,2
+Coahoma,Lula,Secretary of State,,Democrat,Charles E. Graham,52
+Coahoma,Lula,Secretary of State,,Republican,Delbert Hosemann,45
+Coahoma,Lula,Secretary of State,,Reform,Randy Walker,1
+Coahoma,Lula,Attorney General,,Democrat,Jim Hood,70
+Coahoma,Lula,Attorney General,,Republican,Mike Hurst,27
+Coahoma,Lula,State Auditor,,Republican,Stacey E. Pickering,45
+Coahoma,Lula,State Auditor,,Democrat,"Jocelyn ""Joce"" Pepper Pritchett",50
+Coahoma,Lula,State Auditor,,Reform,Lajena Walley,0
+Coahoma,Lyon,Governor,,Republican,Phil Bryant,385
+Coahoma,Lyon,Governor,,Democrat,Robert Gray,118
+Coahoma,Lyon,Governor,,Reform,Shawn O'Hara,0
+Coahoma,Lyon,Lieutenant Governor,,Democrat,Tim Johnson,132
+Coahoma,Lyon,Lieutenant Governor,,Republican,Tate Reeves,354
+Coahoma,Lyon,Lieutenant Governor,,Libertarian,Ron Williams,4
+Coahoma,Lyon,Lieutenant Governor,,Reform,Rosa B. Williams,8
+Coahoma,Lyon,Secretary of State,,Democrat,Charles E. Graham,141
+Coahoma,Lyon,Secretary of State,,Republican,Delbert Hosemann,344
+Coahoma,Lyon,Secretary of State,,Reform,Randy Walker,6
+Coahoma,Lyon,Attorney General,,Democrat,Jim Hood,259
+Coahoma,Lyon,Attorney General,,Republican,Mike Hurst,237
+Coahoma,Lyon,State Auditor,,Republican,Stacey E. Pickering,364
+Coahoma,Lyon,State Auditor,,Democrat,"Jocelyn ""Joce"" Pepper Pritchett",129
+Coahoma,Lyon,State Auditor,,Reform,Lajena Walley,0
+Coahoma,Rena Lara,Governor,,Republican,Phil Bryant,146
+Coahoma,Rena Lara,Governor,,Democrat,Robert Gray,19
+Coahoma,Rena Lara,Governor,,Reform,Shawn O'Hara,2
+Coahoma,Rena Lara,Lieutenant Governor,,Democrat,Tim Johnson,24
+Coahoma,Rena Lara,Lieutenant Governor,,Republican,Tate Reeves,131
+Coahoma,Rena Lara,Lieutenant Governor,,Libertarian,Ron Williams,3
+Coahoma,Rena Lara,Lieutenant Governor,,Reform,Rosa B. Williams,1
+Coahoma,Rena Lara,Secretary of State,,Democrat,Charles E. Graham,33
+Coahoma,Rena Lara,Secretary of State,,Republican,Delbert Hosemann,120
+Coahoma,Rena Lara,Secretary of State,,Reform,Randy Walker,2
+Coahoma,Rena Lara,Attorney General,,Democrat,Jim Hood,69
+Coahoma,Rena Lara,Attorney General,,Republican,Mike Hurst,91
+Coahoma,Rena Lara,State Auditor,,Republican,Stacey E. Pickering,130
+Coahoma,Rena Lara,State Auditor,,Democrat,"Jocelyn ""Joce"" Pepper Pritchett",24
+Coahoma,Rena Lara,State Auditor,,Reform,Lajena Walley,1
+Coahoma,Roundaway,Governor,,Republican,Phil Bryant,25
+Coahoma,Roundaway,Governor,,Democrat,Robert Gray,13
+Coahoma,Roundaway,Governor,,Reform,Shawn O'Hara,1
+Coahoma,Roundaway,Lieutenant Governor,,Democrat,Tim Johnson,17
+Coahoma,Roundaway,Lieutenant Governor,,Republican,Tate Reeves,20
+Coahoma,Roundaway,Lieutenant Governor,,Libertarian,Ron Williams,0
+Coahoma,Roundaway,Lieutenant Governor,,Reform,Rosa B. Williams,1
+Coahoma,Roundaway,Secretary of State,,Democrat,Charles E. Graham,20
+Coahoma,Roundaway,Secretary of State,,Republican,Delbert Hosemann,17
+Coahoma,Roundaway,Secretary of State,,Reform,Randy Walker,0
+Coahoma,Roundaway,Attorney General,,Democrat,Jim Hood,31
+Coahoma,Roundaway,Attorney General,,Republican,Mike Hurst,8
+Coahoma,Roundaway,State Auditor,,Republican,Stacey E. Pickering,23
+Coahoma,Roundaway,State Auditor,,Democrat,"Jocelyn ""Joce"" Pepper Pritchett",12
+Coahoma,Roundaway,State Auditor,,Reform,Lajena Walley,1
+Coahoma,Sasse Street Fire Station,Governor,,Republican,Phil Bryant,35
+Coahoma,Sasse Street Fire Station,Governor,,Democrat,Robert Gray,173
+Coahoma,Sasse Street Fire Station,Governor,,Reform,Shawn O'Hara,6
+Coahoma,Sasse Street Fire Station,Lieutenant Governor,,Democrat,Tim Johnson,177
+Coahoma,Sasse Street Fire Station,Lieutenant Governor,,Republican,Tate Reeves,16
+Coahoma,Sasse Street Fire Station,Lieutenant Governor,,Libertarian,Ron Williams,4
+Coahoma,Sasse Street Fire Station,Lieutenant Governor,,Reform,Rosa B. Williams,10
+Coahoma,Sasse Street Fire Station,Secretary of State,,Democrat,Charles E. Graham,176
+Coahoma,Sasse Street Fire Station,Secretary of State,,Republican,Delbert Hosemann,24
+Coahoma,Sasse Street Fire Station,Secretary of State,,Reform,Randy Walker,6
+Coahoma,Sasse Street Fire Station,Attorney General,,Democrat,Jim Hood,201
+Coahoma,Sasse Street Fire Station,Attorney General,,Republican,Mike Hurst,9
+Coahoma,Sasse Street Fire Station,State Auditor,,Republican,Stacey E. Pickering,29
+Coahoma,Sasse Street Fire Station,State Auditor,,Democrat,"Jocelyn ""Joce"" Pepper Pritchett",170
+Coahoma,Sasse Street Fire Station,State Auditor,,Reform,Lajena Walley,6
+Coahoma,Sherard,Governor,,Republican,Phil Bryant,5
+Coahoma,Sherard,Governor,,Democrat,Robert Gray,5
+Coahoma,Sherard,Governor,,Reform,Shawn O'Hara,0
+Coahoma,Sherard,Lieutenant Governor,,Democrat,Tim Johnson,5
+Coahoma,Sherard,Lieutenant Governor,,Republican,Tate Reeves,5
+Coahoma,Sherard,Lieutenant Governor,,Libertarian,Ron Williams,0
+Coahoma,Sherard,Lieutenant Governor,,Reform,Rosa B. Williams,0
+Coahoma,Sherard,Secretary of State,,Democrat,Charles E. Graham,6
+Coahoma,Sherard,Secretary of State,,Republican,Delbert Hosemann,3
+Coahoma,Sherard,Secretary of State,,Reform,Randy Walker,0
+Coahoma,Sherard,Attorney General,,Democrat,Jim Hood,7
+Coahoma,Sherard,Attorney General,,Republican,Mike Hurst,3
+Coahoma,Sherard,State Auditor,,Republican,Stacey E. Pickering,3
+Coahoma,Sherard,State Auditor,,Democrat,"Jocelyn ""Joce"" Pepper Pritchett",6
+Coahoma,Sherard,State Auditor,,Reform,Lajena Walley,0
+Coahoma,,Governor,,Republican,Phil Bryant,1867
+Coahoma,,Governor,,Democrat,Robert Gray,2095
+Coahoma,,Governor,,Reform,Shawn O'Hara,46
+Coahoma,,Lieutenant Governor,,Democrat,Tim Johnson,2283
+Coahoma,,Lieutenant Governor,,Republican,Tate Reeves,1461
+Coahoma,,Lieutenant Governor,,Libertarian,Ron Williams,72
+Coahoma,,Lieutenant Governor,,Reform,Rosa B. Williams,111
+Coahoma,,Secretary of State,,Democrat,Charles E. Graham,2385
+Coahoma,,Secretary of State,,Republican,Delbert Hosemann,1411
+Coahoma,,Secretary of State,,Reform,Randy Walker,95
+Coahoma,,Attorney General,,Democrat,Jim Hood,2977
+Coahoma,,Attorney General,,Republican,Mike Hurst,957
+Coahoma,,State Auditor,,Republican,Stacey E. Pickering,1572
+Coahoma,,State Auditor,,Democrat,"Jocelyn ""Joce"" Pepper Pritchett",2254
+Coahoma,,State Auditor,,Reform,Lajena Walley,51
+Coahoma,Bobo,State Treasurer,,Republican,Lynn Fitch,38
+Coahoma,Bobo,State Treasurer,,Reform,Viola V. McFarland,22
+Coahoma,Bobo,Commissioner of Agriculture & Commerce,,Democrat,Addie Lee Green,49
+Coahoma,Bobo,Commissioner of Agriculture & Commerce,,Republican,Cindy Hyde-Smith,28
+Coahoma,Bobo,Commissioner of Agriculture & Commerce,,Reform,Cathy L. Toole,2
+Coahoma,Bobo,Commissioner of Insurance,,Republican,Mike Chaney,52
+Coahoma,Cagle Crossing,State Treasurer,,Republican,Lynn Fitch,24
+Coahoma,Cagle Crossing,State Treasurer,,Reform,Viola V. McFarland,9
+Coahoma,Cagle Crossing,Commissioner of Agriculture & Commerce,,Democrat,Addie Lee Green,15
+Coahoma,Cagle Crossing,Commissioner of Agriculture & Commerce,,Republican,Cindy Hyde-Smith,20
+Coahoma,Cagle Crossing,Commissioner of Agriculture & Commerce,,Reform,Cathy L. Toole,1
+Coahoma,Cagle Crossing,Commissioner of Insurance,,Republican,Mike Chaney,33
+Coahoma,Clarksdale Courthouse,State Treasurer,,Republican,Lynn Fitch,168
+Coahoma,Clarksdale Courthouse,State Treasurer,,Reform,Viola V. McFarland,84
+Coahoma,Clarksdale Courthouse,Commissioner of Agriculture & Commerce,,Democrat,Addie Lee Green,142
+Coahoma,Clarksdale Courthouse,Commissioner of Agriculture & Commerce,,Republican,Cindy Hyde-Smith,126
+Coahoma,Clarksdale Courthouse,Commissioner of Agriculture & Commerce,,Reform,Cathy L. Toole,7
+Coahoma,Clarksdale Courthouse,Commissioner of Insurance,,Republican,Mike Chaney,228
+Coahoma,Clarksdale #2,State Treasurer,,Republican,Lynn Fitch,389
+Coahoma,Clarksdale #2,State Treasurer,,Reform,Viola V. McFarland,108
+Coahoma,Clarksdale #2,Commissioner of Agriculture & Commerce,,Democrat,Addie Lee Green,198
+Coahoma,Clarksdale #2,Commissioner of Agriculture & Commerce,,Republican,Cindy Hyde-Smith,317
+Coahoma,Clarksdale #2,Commissioner of Agriculture & Commerce,,Reform,Cathy L. Toole,10
+Coahoma,Clarksdale #2,Commissioner of Insurance,,Republican,Mike Chaney,443
+Coahoma,Clarksdale #3,State Treasurer,,Republican,Lynn Fitch,58
+Coahoma,Clarksdale #3,State Treasurer,,Reform,Viola V. McFarland,91
+Coahoma,Clarksdale #3,Commissioner of Agriculture & Commerce,,Democrat,Addie Lee Green,154
+Coahoma,Clarksdale #3,Commissioner of Agriculture & Commerce,,Republican,Cindy Hyde-Smith,21
+Coahoma,Clarksdale #3,Commissioner of Agriculture & Commerce,,Reform,Cathy L. Toole,5
+Coahoma,Clarksdale #3,Commissioner of Insurance,,Republican,Mike Chaney,108
+Coahoma,Clarksdale #4,State Treasurer,,Republican,Lynn Fitch,142
+Coahoma,Clarksdale #4,State Treasurer,,Reform,Viola V. McFarland,228
+Coahoma,Clarksdale #4,Commissioner of Agriculture & Commerce,,Democrat,Addie Lee Green,440
+Coahoma,Clarksdale #4,Commissioner of Agriculture & Commerce,,Republican,Cindy Hyde-Smith,44
+Coahoma,Clarksdale #4,Commissioner of Agriculture & Commerce,,Reform,Cathy L. Toole,17
+Coahoma,Clarksdale #4,Commissioner of Insurance,,Republican,Mike Chaney,278
+Coahoma,Clarksdale #4 North,State Treasurer,,Republican,Lynn Fitch,56
+Coahoma,Clarksdale #4 North,State Treasurer,,Reform,Viola V. McFarland,23
+Coahoma,Clarksdale #4 North,Commissioner of Agriculture & Commerce,,Democrat,Addie Lee Green,44
+Coahoma,Clarksdale #4 North,Commissioner of Agriculture & Commerce,,Republican,Cindy Hyde-Smith,39
+Coahoma,Clarksdale #4 North,Commissioner of Agriculture & Commerce,,Reform,Cathy L. Toole,2
+Coahoma,Clarksdale #4 North,Commissioner of Insurance,,Republican,Mike Chaney,68
+Coahoma,Clarksdale #5,State Treasurer,,Republican,Lynn Fitch,221
+Coahoma,Clarksdale #5,State Treasurer,,Reform,Viola V. McFarland,225
+Coahoma,Clarksdale #5,Commissioner of Agriculture & Commerce,,Democrat,Addie Lee Green,383
+Coahoma,Clarksdale #5,Commissioner of Agriculture & Commerce,,Republican,Cindy Hyde-Smith,140
+Coahoma,Clarksdale #5,Commissioner of Agriculture & Commerce,,Reform,Cathy L. Toole,13
+Coahoma,Clarksdale #5,Commissioner of Insurance,,Republican,Mike Chaney,349
+Coahoma,Coahoma,State Treasurer,,Republican,Lynn Fitch,13
+Coahoma,Coahoma,State Treasurer,,Reform,Viola V. McFarland,30
+Coahoma,Coahoma,Commissioner of Agriculture & Commerce,,Democrat,Addie Lee Green,82
+Coahoma,Coahoma,Commissioner of Agriculture & Commerce,,Republican,Cindy Hyde-Smith,9
+Coahoma,Coahoma,Commissioner of Agriculture & Commerce,,Reform,Cathy L. Toole,1
+Coahoma,Coahoma,Commissioner of Insurance,,Republican,Mike Chaney,28
+Coahoma,Dublin,State Treasurer,,Republican,Lynn Fitch,45
+Coahoma,Dublin,State Treasurer,,Reform,Viola V. McFarland,14
+Coahoma,Dublin,Commissioner of Agriculture & Commerce,,Democrat,Addie Lee Green,21
+Coahoma,Dublin,Commissioner of Agriculture & Commerce,,Republican,Cindy Hyde-Smith,41
+Coahoma,Dublin,Commissioner of Agriculture & Commerce,,Reform,Cathy L. Toole,3
+Coahoma,Dublin,Commissioner of Insurance,,Republican,Mike Chaney,57
+Coahoma,Farrell,State Treasurer,,Republican,Lynn Fitch,25
+Coahoma,Farrell,State Treasurer,,Reform,Viola V. McFarland,25
+Coahoma,Farrell,Commissioner of Agriculture & Commerce,,Democrat,Addie Lee Green,51
+Coahoma,Farrell,Commissioner of Agriculture & Commerce,,Republican,Cindy Hyde-Smith,14
+Coahoma,Farrell,Commissioner of Agriculture & Commerce,,Reform,Cathy L. Toole,0
+Coahoma,Farrell,Commissioner of Insurance,,Republican,Mike Chaney,32
+Coahoma,Friars Point,State Treasurer,,Republican,Lynn Fitch,56
+Coahoma,Friars Point,State Treasurer,,Reform,Viola V. McFarland,68
+Coahoma,Friars Point,Commissioner of Agriculture & Commerce,,Democrat,Addie Lee Green,156
+Coahoma,Friars Point,Commissioner of Agriculture & Commerce,,Republican,Cindy Hyde-Smith,23
+Coahoma,Friars Point,Commissioner of Agriculture & Commerce,,Reform,Cathy L. Toole,2
+Coahoma,Friars Point,Commissioner of Insurance,,Republican,Mike Chaney,92
+Coahoma,Jonestown,State Treasurer,,Republican,Lynn Fitch,49
+Coahoma,Jonestown,State Treasurer,,Reform,Viola V. McFarland,118
+Coahoma,Jonestown,Commissioner of Agriculture & Commerce,,Democrat,Addie Lee Green,222
+Coahoma,Jonestown,Commissioner of Agriculture & Commerce,,Republican,Cindy Hyde-Smith,7
+Coahoma,Jonestown,Commissioner of Agriculture & Commerce,,Reform,Cathy L. Toole,6
+Coahoma,Jonestown,Commissioner of Insurance,,Republican,Mike Chaney,96
+Coahoma,Lula,State Treasurer,,Republican,Lynn Fitch,57
+Coahoma,Lula,State Treasurer,,Reform,Viola V. McFarland,31
+Coahoma,Lula,Commissioner of Agriculture & Commerce,,Democrat,Addie Lee Green,52
+Coahoma,Lula,Commissioner of Agriculture & Commerce,,Republican,Cindy Hyde-Smith,41
+Coahoma,Lula,Commissioner of Agriculture & Commerce,,Reform,Cathy L. Toole,3
+Coahoma,Lula,Commissioner of Insurance,,Republican,Mike Chaney,75
+Coahoma,Lyon,State Treasurer,,Republican,Lynn Fitch,396
+Coahoma,Lyon,State Treasurer,,Reform,Viola V. McFarland,65
+Coahoma,Lyon,Commissioner of Agriculture & Commerce,,Democrat,Addie Lee Green,140
+Coahoma,Lyon,Commissioner of Agriculture & Commerce,,Republican,Cindy Hyde-Smith,346
+Coahoma,Lyon,Commissioner of Agriculture & Commerce,,Reform,Cathy L. Toole,3
+Coahoma,Lyon,Commissioner of Insurance,,Republican,Mike Chaney,431
+Coahoma,Rena Lara,State Treasurer,,Republican,Lynn Fitch,130
+Coahoma,Rena Lara,State Treasurer,,Reform,Viola V. McFarland,18
+Coahoma,Rena Lara,Commissioner of Agriculture & Commerce,,Democrat,Addie Lee Green,33
+Coahoma,Rena Lara,Commissioner of Agriculture & Commerce,,Republican,Cindy Hyde-Smith,117
+Coahoma,Rena Lara,Commissioner of Agriculture & Commerce,,Reform,Cathy L. Toole,3
+Coahoma,Rena Lara,Commissioner of Insurance,,Republican,Mike Chaney,137
+Coahoma,Roundaway,State Treasurer,,Republican,Lynn Fitch,24
+Coahoma,Roundaway,State Treasurer,,Reform,Viola V. McFarland,12
+Coahoma,Roundaway,Commissioner of Agriculture & Commerce,,Democrat,Addie Lee Green,19
+Coahoma,Roundaway,Commissioner of Agriculture & Commerce,,Republican,Cindy Hyde-Smith,20
+Coahoma,Roundaway,Commissioner of Agriculture & Commerce,,Reform,Cathy L. Toole,0
+Coahoma,Roundaway,Commissioner of Insurance,,Republican,Mike Chaney,33
+Coahoma,Sasse Street Fire Station,State Treasurer,,Republican,Lynn Fitch,53
+Coahoma,Sasse Street Fire Station,State Treasurer,,Reform,Viola V. McFarland,85
+Coahoma,Sasse Street Fire Station,Commissioner of Agriculture & Commerce,,Democrat,Addie Lee Green,188
+Coahoma,Sasse Street Fire Station,Commissioner of Agriculture & Commerce,,Republican,Cindy Hyde-Smith,13
+Coahoma,Sasse Street Fire Station,Commissioner of Agriculture & Commerce,,Reform,Cathy L. Toole,7
+Coahoma,Sasse Street Fire Station,Commissioner of Insurance,,Republican,Mike Chaney,99
+Coahoma,Sherard,State Treasurer,,Republican,Lynn Fitch,6
+Coahoma,Sherard,State Treasurer,,Reform,Viola V. McFarland,2
+Coahoma,Sherard,Commissioner of Agriculture & Commerce,,Democrat,Addie Lee Green,7
+Coahoma,Sherard,Commissioner of Agriculture & Commerce,,Republican,Cindy Hyde-Smith,3
+Coahoma,Sherard,Commissioner of Agriculture & Commerce,,Reform,Cathy L. Toole,0
+Coahoma,Sherard,Commissioner of Insurance,,Republican,Mike Chaney,8
+Coahoma,,State Treasurer,,Republican,Lynn Fitch,1950
+Coahoma,,State Treasurer,,Reform,Viola V. McFarland,1258
+Coahoma,,Commissioner of Agriculture & Commerce,,Democrat,Addie Lee Green,2396
+Coahoma,,Commissioner of Agriculture & Commerce,,Republican,Cindy Hyde-Smith,1369
+Coahoma,,Commissioner of Agriculture & Commerce,,Reform,Cathy L. Toole,85
+Coahoma,,Commissioner of Insurance,,Republican,Mike Chaney,2647
+Coahoma,Bobo,State Senate,11,Democrat,Robert L. Jackson,x
+Coahoma,Cagle Crossing,State Senate,11,Democrat,Robert L. Jackson,x
+Coahoma,Clarksdale Courthouse,State Senate,11,Democrat,Robert L. Jackson,239
+Coahoma,Clarksdale #2,State Senate,11,Democrat,Robert L. Jackson,444
+Coahoma,Clarksdale #3,State Senate,11,Democrat,Robert L. Jackson,178
+Coahoma,Clarksdale #4,State Senate,11,Democrat,Robert L. Jackson,493
+Coahoma,Clarksdale #4 North,State Senate,11,Democrat,Robert L. Jackson,77
+Coahoma,Clarksdale #5,State Senate,11,Democrat,Robert L. Jackson,498
+Coahoma,Coahoma,State Senate,11,Democrat,Robert L. Jackson,x
+Coahoma,Dublin,State Senate,11,Democrat,Robert L. Jackson,x
+Coahoma,Farrell,State Senate,11,Democrat,Robert L. Jackson,x
+Coahoma,Friars Point,State Senate,11,Democrat,Robert L. Jackson,x
+Coahoma,Jonestown,State Senate,11,Democrat,Robert L. Jackson,234
+Coahoma,Lula,State Senate,11,Democrat,Robert L. Jackson,x
+Coahoma,Lyon,State Senate,11,Democrat,Robert L. Jackson,393
+Coahoma,Rena Lara,State Senate,11,Democrat,Robert L. Jackson,x
+Coahoma,Roundaway,State Senate,11,Democrat,Robert L. Jackson,x
+Coahoma,Sasse Street Fire Station,State Senate,11,Democrat,Robert L. Jackson,212
+Coahoma,Sherard,State Senate,11,Democrat,Robert L. Jackson,x
+Coahoma,,State Senate,11,Democrat,Robert L. Jackson,2768
+Coahoma,Bobo,State Senate,12,Democrat,Derrick T. Simmons,62
+Coahoma,Cagle Crossing,State Senate,12,Democrat,Derrick T. Simmons,24
+Coahoma,Clarksdale Courthouse,State Senate,12,Democrat,Derrick T. Simmons,x
+Coahoma,Clarksdale #2,State Senate,12,Democrat,Derrick T. Simmons,x
+Coahoma,Clarksdale #3,State Senate,12,Democrat,Derrick T. Simmons,x
+Coahoma,Clarksdale #4,State Senate,12,Democrat,Derrick T. Simmons,x
+Coahoma,Clarksdale #4 North,State Senate,12,Democrat,Derrick T. Simmons,x
+Coahoma,Clarksdale #5,State Senate,12,Democrat,Derrick T. Simmons,x
+Coahoma,Coahoma,State Senate,12,Democrat,Derrick T. Simmons,68
+Coahoma,Dublin,State Senate,12,Democrat,Derrick T. Simmons,47
+Coahoma,Farrell,State Senate,12,Democrat,Derrick T. Simmons,61
+Coahoma,Friars Point,State Senate,12,Democrat,Derrick T. Simmons,170
+Coahoma,Jonestown,State Senate,12,Democrat,Derrick T. Simmons,x
+Coahoma,Lula,State Senate,12,Democrat,Derrick T. Simmons,82
+Coahoma,Lyon,State Senate,12,Democrat,Derrick T. Simmons,x
+Coahoma,Rena Lara,State Senate,12,Democrat,Derrick T. Simmons,99
+Coahoma,Roundaway,State Senate,12,Democrat,Derrick T. Simmons,32
+Coahoma,Sasse Street Fire Station,State Senate,12,Democrat,Derrick T. Simmons,x
+Coahoma,Sherard,State Senate,12,Democrat,Derrick T. Simmons,8
+Coahoma,,State Senate,12,Democrat,Derrick T. Simmons,653
+Coahoma,Bobo,State House,9,Democrat,Cedric 'Bam Bam' Burnett,x
+Coahoma,Bobo,State House,9,Republican,Christopher Thomas Sr.,x
+Coahoma,Cagle Crossing,State House,9,Democrat,Cedric 'Bam Bam' Burnett,x
+Coahoma,Cagle Crossing,State House,9,Republican,Christopher Thomas Sr.,x
+Coahoma,Clarksdale Courthouse,State House,9,Democrat,Cedric 'Bam Bam' Burnett,x
+Coahoma,Clarksdale Courthouse,State House,9,Republican,Christopher Thomas Sr.,x
+Coahoma,Clarksdale #2,State House,9,Democrat,Cedric 'Bam Bam' Burnett,x
+Coahoma,Clarksdale #2,State House,9,Republican,Christopher Thomas Sr.,x
+Coahoma,Clarksdale #3,State House,9,Democrat,Cedric 'Bam Bam' Burnett,x
+Coahoma,Clarksdale #3,State House,9,Republican,Christopher Thomas Sr.,x
+Coahoma,Clarksdale #4,State House,9,Democrat,Cedric 'Bam Bam' Burnett,x
+Coahoma,Clarksdale #4,State House,9,Republican,Christopher Thomas Sr.,x
+Coahoma,Clarksdale #4 North,State House,9,Democrat,Cedric 'Bam Bam' Burnett,x
+Coahoma,Clarksdale #4 North,State House,9,Republican,Christopher Thomas Sr.,x
+Coahoma,Clarksdale #5,State House,9,Democrat,Cedric 'Bam Bam' Burnett,x
+Coahoma,Clarksdale #5,State House,9,Republican,Christopher Thomas Sr.,x
+Coahoma,Coahoma,State House,9,Democrat,Cedric 'Bam Bam' Burnett,52
+Coahoma,Coahoma,State House,9,Republican,Christopher Thomas Sr.,37
+Coahoma,Dublin,State House,9,Democrat,Cedric 'Bam Bam' Burnett,x
+Coahoma,Dublin,State House,9,Republican,Christopher Thomas Sr.,x
+Coahoma,Farrell,State House,9,Democrat,Cedric 'Bam Bam' Burnett,x
+Coahoma,Farrell,State House,9,Republican,Christopher Thomas Sr.,x
+Coahoma,Friars Point,State House,9,Democrat,Cedric 'Bam Bam' Burnett,160
+Coahoma,Friars Point,State House,9,Republican,Christopher Thomas Sr.,26
+Coahoma,Jonestown,State House,9,Democrat,Cedric 'Bam Bam' Burnett,7
+Coahoma,Jonestown,State House,9,Republican,Christopher Thomas Sr.,0
+Coahoma,Lula,State House,9,Democrat,Cedric 'Bam Bam' Burnett,57
+Coahoma,Lula,State House,9,Republican,Christopher Thomas Sr.,39
+Coahoma,Lyon,State House,9,Democrat,Cedric 'Bam Bam' Burnett,18
+Coahoma,Lyon,State House,9,Republican,Christopher Thomas Sr.,33
+Coahoma,Rena Lara,State House,9,Democrat,Cedric 'Bam Bam' Burnett,x
+Coahoma,Rena Lara,State House,9,Republican,Christopher Thomas Sr.,x
+Coahoma,Roundaway,State House,9,Democrat,Cedric 'Bam Bam' Burnett,x
+Coahoma,Roundaway,State House,9,Republican,Christopher Thomas Sr.,x
+Coahoma,Sasse Street Fire Station,State House,9,Democrat,Cedric 'Bam Bam' Burnett,x
+Coahoma,Sasse Street Fire Station,State House,9,Republican,Christopher Thomas Sr.,x
+Coahoma,Sherard,State House,9,Democrat,Cedric 'Bam Bam' Burnett,x
+Coahoma,Sherard,State House,9,Republican,Christopher Thomas Sr.,x
+Coahoma,,State House,9,Democrat,Cedric 'Bam Bam' Burnett,294
+Coahoma,,State House,9,Republican,Christopher Thomas Sr.,135
+Coahoma,Bobo,State House,26,Democrat,Orlando W. Paden,66
+Coahoma,Cagle Crossing,State House,26,Democrat,Orlando W. Paden,26
+Coahoma,Clarksdale Courthouse,State House,26,Democrat,Orlando W. Paden,246
+Coahoma,Clarksdale #2,State House,26,Democrat,Orlando W. Paden,447
+Coahoma,Clarksdale #3,State House,26,Democrat,Orlando W. Paden,182
+Coahoma,Clarksdale #4,State House,26,Democrat,Orlando W. Paden,497
+Coahoma,Clarksdale #4 North,State House,26,Democrat,Orlando W. Paden,81
+Coahoma,Clarksdale #5,State House,26,Democrat,Orlando W. Paden,508
+Coahoma,Coahoma,State House,26,Democrat,Orlando W. Paden,x
+Coahoma,Dublin,State House,26,Democrat,Orlando W. Paden,48
+Coahoma,Farrell,State House,26,Democrat,Orlando W. Paden,59
+Coahoma,Friars Point,State House,26,Democrat,Orlando W. Paden,x
+Coahoma,Jonestown,State House,26,Democrat,Orlando W. Paden,227
+Coahoma,Lula,State House,26,Democrat,Orlando W. Paden,x
+Coahoma,Lyon,State House,26,Democrat,Orlando W. Paden,338
+Coahoma,Rena Lara,State House,26,Democrat,Orlando W. Paden,105
+Coahoma,Roundaway,State House,26,Democrat,Orlando W. Paden,29
+Coahoma,Sasse Street Fire Station,State House,26,Democrat,Orlando W. Paden,212
+Coahoma,Sherard,State House,26,Democrat,Orlando W. Paden,9
+Coahoma,,State House,26,Democrat,Orlando W. Paden,3080
