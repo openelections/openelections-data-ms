@@ -1,0 +1,621 @@
+county,precinct,office,district,party,candidate,votes
+Copiah,Beauregard,Governor,,Republican,Phil Bryant,243
+Copiah,Beauregard,Governor,,Democrat,Robert Gray,56
+Copiah,Beauregard,Governor,,Reform,Shawn O'Hara,5
+Copiah,Beauregard,Lieutenant Governor,,Democrat,Tim Johnson,58
+Copiah,Beauregard,Lieutenant Governor,,Republican,Tate Reeves,234
+Copiah,Beauregard,Lieutenant Governor,,Libertarian,Ron Williams,6
+Copiah,Beauregard,Lieutenant Governor,,Reform,Rosa B. Williams,2
+Copiah,Beauregard,Secretary of State,,Democrat,Charles E. Graham,64
+Copiah,Beauregard,Secretary of State,,Republican,Delbert Hosemann,233
+Copiah,Beauregard,Secretary of State,,Reform,Randy Walker,6
+Copiah,Beauregard,Attorney General,,Democrat,Jim Hood,169
+Copiah,Beauregard,Attorney General,,Republican,Mike Hurst,137
+Copiah,Beauregard,State Auditor,,Republican,Stacey E. Pickering,239
+Copiah,Beauregard,State Auditor,,Democrat,"Jocelyn ""Joce"" Pepper Pritchett",61
+Copiah,Beauregard,State Auditor,,Reform,Lajena Walley,2
+Copiah,Carpenter,Governor,,Republican,Phil Bryant,40
+Copiah,Carpenter,Governor,,Democrat,Robert Gray,64
+Copiah,Carpenter,Governor,,Reform,Shawn O'Hara,3
+Copiah,Carpenter,Lieutenant Governor,,Democrat,Tim Johnson,61
+Copiah,Carpenter,Lieutenant Governor,,Republican,Tate Reeves,36
+Copiah,Carpenter,Lieutenant Governor,,Libertarian,Ron Williams,2
+Copiah,Carpenter,Lieutenant Governor,,Reform,Rosa B. Williams,3
+Copiah,Carpenter,Secretary of State,,Democrat,Charles E. Graham,67
+Copiah,Carpenter,Secretary of State,,Republican,Delbert Hosemann,35
+Copiah,Carpenter,Secretary of State,,Reform,Randy Walker,3
+Copiah,Carpenter,Attorney General,,Democrat,Jim Hood,85
+Copiah,Carpenter,Attorney General,,Republican,Mike Hurst,22
+Copiah,Carpenter,State Auditor,,Republican,Stacey E. Pickering,42
+Copiah,Carpenter,State Auditor,,Democrat,"Jocelyn ""Joce"" Pepper Pritchett",64
+Copiah,Carpenter,State Auditor,,Reform,Lajena Walley,1
+Copiah,Centerpoint,Governor,,Republican,Phil Bryant,324
+Copiah,Centerpoint,Governor,,Democrat,Robert Gray,149
+Copiah,Centerpoint,Governor,,Reform,Shawn O'Hara,7
+Copiah,Centerpoint,Lieutenant Governor,,Democrat,Tim Johnson,163
+Copiah,Centerpoint,Lieutenant Governor,,Republican,Tate Reeves,289
+Copiah,Centerpoint,Lieutenant Governor,,Libertarian,Ron Williams,12
+Copiah,Centerpoint,Lieutenant Governor,,Reform,Rosa B. Williams,5
+Copiah,Centerpoint,Secretary of State,,Democrat,Charles E. Graham,166
+Copiah,Centerpoint,Secretary of State,,Republican,Delbert Hosemann,291
+Copiah,Centerpoint,Secretary of State,,Reform,Randy Walker,12
+Copiah,Centerpoint,Attorney General,,Democrat,Jim Hood,279
+Copiah,Centerpoint,Attorney General,,Republican,Mike Hurst,194
+Copiah,Centerpoint,State Auditor,,Republican,Stacey E. Pickering,322
+Copiah,Centerpoint,State Auditor,,Democrat,"Jocelyn ""Joce"" Pepper Pritchett",139
+Copiah,Centerpoint,State Auditor,,Reform,Lajena Walley,3
+Copiah,Crystal Springs East,Governor,,Republican,Phil Bryant,707
+Copiah,Crystal Springs East,Governor,,Democrat,Robert Gray,309
+Copiah,Crystal Springs East,Governor,,Reform,Shawn O'Hara,11
+Copiah,Crystal Springs East,Lieutenant Governor,,Democrat,Tim Johnson,321
+Copiah,Crystal Springs East,Lieutenant Governor,,Republican,Tate Reeves,665
+Copiah,Crystal Springs East,Lieutenant Governor,,Libertarian,Ron Williams,18
+Copiah,Crystal Springs East,Lieutenant Governor,,Reform,Rosa B. Williams,13
+Copiah,Crystal Springs East,Secretary of State,,Democrat,Charles E. Graham,323
+Copiah,Crystal Springs East,Secretary of State,,Republican,Delbert Hosemann,684
+Copiah,Crystal Springs East,Secretary of State,,Reform,Randy Walker,18
+Copiah,Crystal Springs East,Attorney General,,Democrat,Jim Hood,581
+Copiah,Crystal Springs East,Attorney General,,Republican,Mike Hurst,441
+Copiah,Crystal Springs East,State Auditor,,Republican,Stacey E. Pickering,691
+Copiah,Crystal Springs East,State Auditor,,Democrat,"Jocelyn ""Joce"" Pepper Pritchett",310
+Copiah,Crystal Springs East,State Auditor,,Reform,Lajena Walley,16
+Copiah,Crystal Springs North,Governor,,Republican,Phil Bryant,72
+Copiah,Crystal Springs North,Governor,,Democrat,Robert Gray,106
+Copiah,Crystal Springs North,Governor,,Reform,Shawn O'Hara,5
+Copiah,Crystal Springs North,Lieutenant Governor,,Democrat,Tim Johnson,113
+Copiah,Crystal Springs North,Lieutenant Governor,,Republican,Tate Reeves,61
+Copiah,Crystal Springs North,Lieutenant Governor,,Libertarian,Ron Williams,1
+Copiah,Crystal Springs North,Lieutenant Governor,,Reform,Rosa B. Williams,3
+Copiah,Crystal Springs North,Secretary of State,,Democrat,Charles E. Graham,115
+Copiah,Crystal Springs North,Secretary of State,,Republican,Delbert Hosemann,63
+Copiah,Crystal Springs North,Secretary of State,,Reform,Randy Walker,3
+Copiah,Crystal Springs North,Attorney General,,Democrat,Jim Hood,139
+Copiah,Crystal Springs North,Attorney General,,Republican,Mike Hurst,42
+Copiah,Crystal Springs North,State Auditor,,Republican,Stacey E. Pickering,69
+Copiah,Crystal Springs North,State Auditor,,Democrat,"Jocelyn ""Joce"" Pepper Pritchett",108
+Copiah,Crystal Springs North,State Auditor,,Reform,Lajena Walley,1
+Copiah,Crystal Springs South,Governor,,Republican,Phil Bryant,329
+Copiah,Crystal Springs South,Governor,,Democrat,Robert Gray,513
+Copiah,Crystal Springs South,Governor,,Reform,Shawn O'Hara,9
+Copiah,Crystal Springs South,Lieutenant Governor,,Democrat,Tim Johnson,521
+Copiah,Crystal Springs South,Lieutenant Governor,,Republican,Tate Reeves,300
+Copiah,Crystal Springs South,Lieutenant Governor,,Libertarian,Ron Williams,15
+Copiah,Crystal Springs South,Lieutenant Governor,,Reform,Rosa B. Williams,14
+Copiah,Crystal Springs South,Secretary of State,,Democrat,Charles E. Graham,524
+Copiah,Crystal Springs South,Secretary of State,,Republican,Delbert Hosemann,320
+Copiah,Crystal Springs South,Secretary of State,,Reform,Randy Walker,8
+Copiah,Crystal Springs South,Attorney General,,Democrat,Jim Hood,678
+Copiah,Crystal Springs South,Attorney General,,Republican,Mike Hurst,176
+Copiah,Crystal Springs South,State Auditor,,Republican,Stacey E. Pickering,333
+Copiah,Crystal Springs South,State Auditor,,Democrat,"Jocelyn ""Joce"" Pepper Pritchett",511
+Copiah,Crystal Springs South,State Auditor,,Reform,Lajena Walley,6
+Copiah,Crystal Springs West,Governor,,Republican,Phil Bryant,299
+Copiah,Crystal Springs West,Governor,,Democrat,Robert Gray,141
+Copiah,Crystal Springs West,Governor,,Reform,Shawn O'Hara,2
+Copiah,Crystal Springs West,Lieutenant Governor,,Democrat,Tim Johnson,155
+Copiah,Crystal Springs West,Lieutenant Governor,,Republican,Tate Reeves,275
+Copiah,Crystal Springs West,Lieutenant Governor,,Libertarian,Ron Williams,7
+Copiah,Crystal Springs West,Lieutenant Governor,,Reform,Rosa B. Williams,0
+Copiah,Crystal Springs West,Secretary of State,,Democrat,Charles E. Graham,148
+Copiah,Crystal Springs West,Secretary of State,,Republican,Delbert Hosemann,287
+Copiah,Crystal Springs West,Secretary of State,,Reform,Randy Walker,7
+Copiah,Crystal Springs West,Attorney General,,Democrat,Jim Hood,257
+Copiah,Crystal Springs West,Attorney General,,Republican,Mike Hurst,185
+Copiah,Crystal Springs West,State Auditor,,Republican,Stacey E. Pickering,297
+Copiah,Crystal Springs West,State Auditor,,Democrat,"Jocelyn ""Joce"" Pepper Pritchett",141
+Copiah,Crystal Springs West,State Auditor,,Reform,Lajena Walley,1
+Copiah,Dentville,Governor,,Republican,Phil Bryant,87
+Copiah,Dentville,Governor,,Democrat,Robert Gray,8
+Copiah,Dentville,Governor,,Reform,Shawn O'Hara,1
+Copiah,Dentville,Lieutenant Governor,,Democrat,Tim Johnson,12
+Copiah,Dentville,Lieutenant Governor,,Republican,Tate Reeves,79
+Copiah,Dentville,Lieutenant Governor,,Libertarian,Ron Williams,3
+Copiah,Dentville,Lieutenant Governor,,Reform,Rosa B. Williams,0
+Copiah,Dentville,Secretary of State,,Democrat,Charles E. Graham,13
+Copiah,Dentville,Secretary of State,,Republican,Delbert Hosemann,81
+Copiah,Dentville,Secretary of State,,Reform,Randy Walker,2
+Copiah,Dentville,Attorney General,,Democrat,Jim Hood,54
+Copiah,Dentville,Attorney General,,Republican,Mike Hurst,41
+Copiah,Dentville,State Auditor,,Republican,Stacey E. Pickering,87
+Copiah,Dentville,State Auditor,,Democrat,"Jocelyn ""Joce"" Pepper Pritchett",8
+Copiah,Dentville,State Auditor,,Reform,Lajena Walley,0
+Copiah,Gallman,Governor,,Republican,Phil Bryant,443
+Copiah,Gallman,Governor,,Democrat,Robert Gray,383
+Copiah,Gallman,Governor,,Reform,Shawn O'Hara,3
+Copiah,Gallman,Lieutenant Governor,,Democrat,Tim Johnson,397
+Copiah,Gallman,Lieutenant Governor,,Republican,Tate Reeves,390
+Copiah,Gallman,Lieutenant Governor,,Libertarian,Ron Williams,16
+Copiah,Gallman,Lieutenant Governor,,Reform,Rosa B. Williams,12
+Copiah,Gallman,Secretary of State,,Democrat,Charles E. Graham,407
+Copiah,Gallman,Secretary of State,,Republican,Delbert Hosemann,399
+Copiah,Gallman,Secretary of State,,Reform,Randy Walker,16
+Copiah,Gallman,Attorney General,,Democrat,Jim Hood,546
+Copiah,Gallman,Attorney General,,Republican,Mike Hurst,284
+Copiah,Gallman,State Auditor,,Republican,Stacey E. Pickering,413
+Copiah,Gallman,State Auditor,,Democrat,"Jocelyn ""Joce"" Pepper Pritchett",394
+Copiah,Gallman,State Auditor,,Reform,Lajena Walley,10
+Copiah,Georgetown North,Governor,,Republican,Phil Bryant,61
+Copiah,Georgetown North,Governor,,Democrat,Robert Gray,94
+Copiah,Georgetown North,Governor,,Reform,Shawn O'Hara,1
+Copiah,Georgetown North,Lieutenant Governor,,Democrat,Tim Johnson,93
+Copiah,Georgetown North,Lieutenant Governor,,Republican,Tate Reeves,52
+Copiah,Georgetown North,Lieutenant Governor,,Libertarian,Ron Williams,7
+Copiah,Georgetown North,Lieutenant Governor,,Reform,Rosa B. Williams,3
+Copiah,Georgetown North,Secretary of State,,Democrat,Charles E. Graham,101
+Copiah,Georgetown North,Secretary of State,,Republican,Delbert Hosemann,51
+Copiah,Georgetown North,Secretary of State,,Reform,Randy Walker,3
+Copiah,Georgetown North,Attorney General,,Democrat,Jim Hood,114
+Copiah,Georgetown North,Attorney General,,Republican,Mike Hurst,41
+Copiah,Georgetown North,State Auditor,,Republican,Stacey E. Pickering,58
+Copiah,Georgetown North,State Auditor,,Democrat,"Jocelyn ""Joce"" Pepper Pritchett",90
+Copiah,Georgetown North,State Auditor,,Reform,Lajena Walley,3
+Copiah,Georgetown South,Governor,,Republican,Phil Bryant,129
+Copiah,Georgetown South,Governor,,Democrat,Robert Gray,48
+Copiah,Georgetown South,Governor,,Reform,Shawn O'Hara,4
+Copiah,Georgetown South,Lieutenant Governor,,Democrat,Tim Johnson,55
+Copiah,Georgetown South,Lieutenant Governor,,Republican,Tate Reeves,115
+Copiah,Georgetown South,Lieutenant Governor,,Libertarian,Ron Williams,3
+Copiah,Georgetown South,Lieutenant Governor,,Reform,Rosa B. Williams,3
+Copiah,Georgetown South,Secretary of State,,Democrat,Charles E. Graham,54
+Copiah,Georgetown South,Secretary of State,,Republican,Delbert Hosemann,115
+Copiah,Georgetown South,Secretary of State,,Reform,Randy Walker,11
+Copiah,Georgetown South,Attorney General,,Democrat,Jim Hood,110
+Copiah,Georgetown South,Attorney General,,Republican,Mike Hurst,74
+Copiah,Georgetown South,State Auditor,,Republican,Stacey E. Pickering,118
+Copiah,Georgetown South,State Auditor,,Democrat,"Jocelyn ""Joce"" Pepper Pritchett",56
+Copiah,Georgetown South,State Auditor,,Reform,Lajena Walley,5
+Copiah,Hazlehurst East,Governor,,Republican,Phil Bryant,119
+Copiah,Hazlehurst East,Governor,,Democrat,Robert Gray,503
+Copiah,Hazlehurst East,Governor,,Reform,Shawn O'Hara,18
+Copiah,Hazlehurst East,Lieutenant Governor,,Democrat,Tim Johnson,522
+Copiah,Hazlehurst East,Lieutenant Governor,,Republican,Tate Reeves,78
+Copiah,Hazlehurst East,Lieutenant Governor,,Libertarian,Ron Williams,12
+Copiah,Hazlehurst East,Lieutenant Governor,,Reform,Rosa B. Williams,23
+Copiah,Hazlehurst East,Secretary of State,,Democrat,Charles E. Graham,552
+Copiah,Hazlehurst East,Secretary of State,,Republican,Delbert Hosemann,65
+Copiah,Hazlehurst East,Secretary of State,,Reform,Randy Walker,24
+Copiah,Hazlehurst East,Attorney General,,Democrat,Jim Hood,610
+Copiah,Hazlehurst East,Attorney General,,Republican,Mike Hurst,32
+Copiah,Hazlehurst East,State Auditor,,Republican,Stacey E. Pickering,113
+Copiah,Hazlehurst East,State Auditor,,Democrat,"Jocelyn ""Joce"" Pepper Pritchett",510
+Copiah,Hazlehurst East,State Auditor,,Reform,Lajena Walley,8
+Copiah,Hazlehurst North,Governor,,Republican,Phil Bryant,43
+Copiah,Hazlehurst North,Governor,,Democrat,Robert Gray,47
+Copiah,Hazlehurst North,Governor,,Reform,Shawn O'Hara,2
+Copiah,Hazlehurst North,Lieutenant Governor,,Democrat,Tim Johnson,45
+Copiah,Hazlehurst North,Lieutenant Governor,,Republican,Tate Reeves,38
+Copiah,Hazlehurst North,Lieutenant Governor,,Libertarian,Ron Williams,4
+Copiah,Hazlehurst North,Lieutenant Governor,,Reform,Rosa B. Williams,1
+Copiah,Hazlehurst North,Secretary of State,,Democrat,Charles E. Graham,42
+Copiah,Hazlehurst North,Secretary of State,,Republican,Delbert Hosemann,45
+Copiah,Hazlehurst North,Secretary of State,,Reform,Randy Walker,2
+Copiah,Hazlehurst North,Attorney General,,Democrat,Jim Hood,77
+Copiah,Hazlehurst North,Attorney General,,Republican,Mike Hurst,14
+Copiah,Hazlehurst North,State Auditor,,Republican,Stacey E. Pickering,43
+Copiah,Hazlehurst North,State Auditor,,Democrat,"Jocelyn ""Joce"" Pepper Pritchett",45
+Copiah,Hazlehurst North,State Auditor,,Reform,Lajena Walley,0
+Copiah,Hazlehurst South,Governor,,Republican,Phil Bryant,86
+Copiah,Hazlehurst South,Governor,,Democrat,Robert Gray,113
+Copiah,Hazlehurst South,Governor,,Reform,Shawn O'Hara,3
+Copiah,Hazlehurst South,Lieutenant Governor,,Democrat,Tim Johnson,112
+Copiah,Hazlehurst South,Lieutenant Governor,,Republican,Tate Reeves,80
+Copiah,Hazlehurst South,Lieutenant Governor,,Libertarian,Ron Williams,4
+Copiah,Hazlehurst South,Lieutenant Governor,,Reform,Rosa B. Williams,8
+Copiah,Hazlehurst South,Secretary of State,,Democrat,Charles E. Graham,114
+Copiah,Hazlehurst South,Secretary of State,,Republican,Delbert Hosemann,82
+Copiah,Hazlehurst South,Secretary of State,,Reform,Randy Walker,6
+Copiah,Hazlehurst South,Attorney General,,Democrat,Jim Hood,157
+Copiah,Hazlehurst South,Attorney General,,Republican,Mike Hurst,47
+Copiah,Hazlehurst South,State Auditor,,Republican,Stacey E. Pickering,94
+Copiah,Hazlehurst South,State Auditor,,Democrat,"Jocelyn ""Joce"" Pepper Pritchett",106
+Copiah,Hazlehurst South,State Auditor,,Reform,Lajena Walley,2
+Copiah,Hazlehurst West,Governor,,Republican,Phil Bryant,238
+Copiah,Hazlehurst West,Governor,,Democrat,Robert Gray,393
+Copiah,Hazlehurst West,Governor,,Reform,Shawn O'Hara,11
+Copiah,Hazlehurst West,Lieutenant Governor,,Democrat,Tim Johnson,416
+Copiah,Hazlehurst West,Lieutenant Governor,,Republican,Tate Reeves,207
+Copiah,Hazlehurst West,Lieutenant Governor,,Libertarian,Ron Williams,2
+Copiah,Hazlehurst West,Lieutenant Governor,,Reform,Rosa B. Williams,10
+Copiah,Hazlehurst West,Secretary of State,,Democrat,Charles E. Graham,422
+Copiah,Hazlehurst West,Secretary of State,,Republican,Delbert Hosemann,208
+Copiah,Hazlehurst West,Secretary of State,,Reform,Randy Walker,6
+Copiah,Hazlehurst West,Attorney General,,Democrat,Jim Hood,540
+Copiah,Hazlehurst West,Attorney General,,Republican,Mike Hurst,109
+Copiah,Hazlehurst West,State Auditor,,Republican,Stacey E. Pickering,236
+Copiah,Hazlehurst West,State Auditor,,Democrat,"Jocelyn ""Joce"" Pepper Pritchett",390
+Copiah,Hazlehurst West,State Auditor,,Reform,Lajena Walley,4
+Copiah,Martinsville,Governor,,Republican,Phil Bryant,145
+Copiah,Martinsville,Governor,,Democrat,Robert Gray,129
+Copiah,Martinsville,Governor,,Reform,Shawn O'Hara,4
+Copiah,Martinsville,Lieutenant Governor,,Democrat,Tim Johnson,120
+Copiah,Martinsville,Lieutenant Governor,,Republican,Tate Reeves,141
+Copiah,Martinsville,Lieutenant Governor,,Libertarian,Ron Williams,7
+Copiah,Martinsville,Lieutenant Governor,,Reform,Rosa B. Williams,9
+Copiah,Martinsville,Secretary of State,,Democrat,Charles E. Graham,130
+Copiah,Martinsville,Secretary of State,,Republican,Delbert Hosemann,138
+Copiah,Martinsville,Secretary of State,,Reform,Randy Walker,11
+Copiah,Martinsville,Attorney General,,Democrat,Jim Hood,199
+Copiah,Martinsville,Attorney General,,Republican,Mike Hurst,76
+Copiah,Martinsville,State Auditor,,Republican,Stacey E. Pickering,156
+Copiah,Martinsville,State Auditor,,Democrat,"Jocelyn ""Joce"" Pepper Pritchett",119
+Copiah,Martinsville,State Auditor,,Reform,Lajena Walley,1
+Copiah,Shady Grove,Governor,,Republican,Phil Bryant,200
+Copiah,Shady Grove,Governor,,Democrat,Robert Gray,59
+Copiah,Shady Grove,Governor,,Reform,Shawn O'Hara,0
+Copiah,Shady Grove,Lieutenant Governor,,Democrat,Tim Johnson,66
+Copiah,Shady Grove,Lieutenant Governor,,Republican,Tate Reeves,189
+Copiah,Shady Grove,Lieutenant Governor,,Libertarian,Ron Williams,5
+Copiah,Shady Grove,Lieutenant Governor,,Reform,Rosa B. Williams,0
+Copiah,Shady Grove,Secretary of State,,Democrat,Charles E. Graham,56
+Copiah,Shady Grove,Secretary of State,,Republican,Delbert Hosemann,194
+Copiah,Shady Grove,Secretary of State,,Reform,Randy Walker,7
+Copiah,Shady Grove,Attorney General,,Democrat,Jim Hood,135
+Copiah,Shady Grove,Attorney General,,Republican,Mike Hurst,124
+Copiah,Shady Grove,State Auditor,,Republican,Stacey E. Pickering,205
+Copiah,Shady Grove,State Auditor,,Democrat,"Jocelyn ""Joce"" Pepper Pritchett",49
+Copiah,Shady Grove,State Auditor,,Reform,Lajena Walley,2
+Copiah,Stronghope Union,Governor,,Republican,Phil Bryant,193
+Copiah,Stronghope Union,Governor,,Democrat,Robert Gray,14
+Copiah,Stronghope Union,Governor,,Reform,Shawn O'Hara,1
+Copiah,Stronghope Union,Lieutenant Governor,,Democrat,Tim Johnson,20
+Copiah,Stronghope Union,Lieutenant Governor,,Republican,Tate Reeves,182
+Copiah,Stronghope Union,Lieutenant Governor,,Libertarian,Ron Williams,5
+Copiah,Stronghope Union,Lieutenant Governor,,Reform,Rosa B. Williams,1
+Copiah,Stronghope Union,Secretary of State,,Democrat,Charles E. Graham,15
+Copiah,Stronghope Union,Secretary of State,,Republican,Delbert Hosemann,187
+Copiah,Stronghope Union,Secretary of State,,Reform,Randy Walker,6
+Copiah,Stronghope Union,Attorney General,,Democrat,Jim Hood,77
+Copiah,Stronghope Union,Attorney General,,Republican,Mike Hurst,130
+Copiah,Stronghope Union,State Auditor,,Republican,Stacey E. Pickering,195
+Copiah,Stronghope Union,State Auditor,,Democrat,"Jocelyn ""Joce"" Pepper Pritchett",13
+Copiah,Stronghope Union,State Auditor,,Reform,Lajena Walley,1
+Copiah,Wesson,Governor,,Republican,Phil Bryant,330
+Copiah,Wesson,Governor,,Democrat,Robert Gray,33
+Copiah,Wesson,Governor,,Reform,Shawn O'Hara,4
+Copiah,Wesson,Lieutenant Governor,,Democrat,Tim Johnson,45
+Copiah,Wesson,Lieutenant Governor,,Republican,Tate Reeves,308
+Copiah,Wesson,Lieutenant Governor,,Libertarian,Ron Williams,10
+Copiah,Wesson,Lieutenant Governor,,Reform,Rosa B. Williams,2
+Copiah,Wesson,Secretary of State,,Democrat,Charles E. Graham,33
+Copiah,Wesson,Secretary of State,,Republican,Delbert Hosemann,326
+Copiah,Wesson,Secretary of State,,Reform,Randy Walker,8
+Copiah,Wesson,Attorney General,,Democrat,Jim Hood,153
+Copiah,Wesson,Attorney General,,Republican,Mike Hurst,216
+Copiah,Wesson,State Auditor,,Republican,Stacey E. Pickering,332
+Copiah,Wesson,State Auditor,,Democrat,"Jocelyn ""Joce"" Pepper Pritchett",31
+Copiah,Wesson,State Auditor,,Reform,Lajena Walley,3
+Copiah,,Governor,,Republican,Phil Bryant,4088
+Copiah,,Governor,,Democrat,Robert Gray,3162
+Copiah,,Governor,,Reform,Shawn O'Hara,94
+Copiah,,Lieutenant Governor,,Democrat,Tim Johnson,3295
+Copiah,,Lieutenant Governor,,Republican,Tate Reeves,3719
+Copiah,,Lieutenant Governor,,Libertarian,Ron Williams,139
+Copiah,,Lieutenant Governor,,Reform,Rosa B. Williams,112
+Copiah,,Secretary of State,,Democrat,Charles E. Graham,3346
+Copiah,,Secretary of State,,Republican,Delbert Hosemann,3804
+Copiah,,Secretary of State,,Reform,Randy Walker,159
+Copiah,,Attorney General,,Democrat,Jim Hood,4960
+Copiah,,Attorney General,,Republican,Mike Hurst,2385
+Copiah,,State Auditor,,Republican,Stacey E. Pickering,4043
+Copiah,,State Auditor,,Democrat,"Jocelyn ""Joce"" Pepper Pritchett",3145
+Copiah,,State Auditor,,Reform,Lajena Walley,69
+Copiah,Beauregard,State Treasurer,,Republican,Lynn Fitch,257
+Copiah,Beauregard,State Treasurer,,Reform,Viola V. McFarland,33
+Copiah,Beauregard,Commissioner of Agriculture & Commerce,,Democrat,Addie Lee Green,52
+Copiah,Beauregard,Commissioner of Agriculture & Commerce,,Republican,Cindy Hyde-Smith,250
+Copiah,Beauregard,Commissioner of Agriculture & Commerce,,Reform,Cathy L. Toole,2
+Copiah,Beauregard,Commissioner of Insurance,,Republican,Mike Chaney,281
+Copiah,Beauregard,State Senate,35,Republican,Chris Caughman,x
+Copiah,Beauregard,State Senate,36,Democrat,Albert Butler,249
+Copiah,Carpenter,State Treasurer,,Republican,Lynn Fitch,52
+Copiah,Carpenter,State Treasurer,,Reform,Viola V. McFarland,28
+Copiah,Carpenter,Commissioner of Agriculture & Commerce,,Democrat,Addie Lee Green,70
+Copiah,Carpenter,Commissioner of Agriculture & Commerce,,Republican,Cindy Hyde-Smith,31
+Copiah,Carpenter,Commissioner of Agriculture & Commerce,,Reform,Cathy L. Toole,5
+Copiah,Carpenter,Commissioner of Insurance,,Republican,Mike Chaney,68
+Copiah,Carpenter,State Senate,35,Republican,Chris Caughman,x
+Copiah,Carpenter,State Senate,36,Democrat,Albert Butler,85
+Copiah,Centerpoint,State Treasurer,,Republican,Lynn Fitch,335
+Copiah,Centerpoint,State Treasurer,,Reform,Viola V. McFarland,94
+Copiah,Centerpoint,Commissioner of Agriculture & Commerce,,Democrat,Addie Lee Green,149
+Copiah,Centerpoint,Commissioner of Agriculture & Commerce,,Republican,Cindy Hyde-Smith,308
+Copiah,Centerpoint,Commissioner of Agriculture & Commerce,,Reform,Cathy L. Toole,13
+Copiah,Centerpoint,Commissioner of Insurance,,Republican,Mike Chaney,397
+Copiah,Centerpoint,State Senate,35,Republican,Chris Caughman,x
+Copiah,Centerpoint,State Senate,36,Democrat,Albert Butler,393
+Copiah,Crystal Springs East,State Treasurer,,Republican,Lynn Fitch,784
+Copiah,Crystal Springs East,State Treasurer,,Reform,Viola V. McFarland,162
+Copiah,Crystal Springs East,Commissioner of Agriculture & Commerce,,Democrat,Addie Lee Green,342
+Copiah,Crystal Springs East,Commissioner of Agriculture & Commerce,,Republican,Cindy Hyde-Smith,658
+Copiah,Crystal Springs East,Commissioner of Agriculture & Commerce,,Reform,Cathy L. Toole,20
+Copiah,Crystal Springs East,Commissioner of Insurance,,Republican,Mike Chaney,874
+Copiah,Crystal Springs East,State Senate,35,Republican,Chris Caughman,457
+Copiah,Crystal Springs East,State Senate,36,Democrat,Albert Butler,410
+Copiah,Crystal Springs North,State Treasurer,,Republican,Lynn Fitch,92
+Copiah,Crystal Springs North,State Treasurer,,Reform,Viola V. McFarland,67
+Copiah,Crystal Springs North,Commissioner of Agriculture & Commerce,,Democrat,Addie Lee Green,119
+Copiah,Crystal Springs North,Commissioner of Agriculture & Commerce,,Republican,Cindy Hyde-Smith,61
+Copiah,Crystal Springs North,Commissioner of Agriculture & Commerce,,Reform,Cathy L. Toole,1
+Copiah,Crystal Springs North,Commissioner of Insurance,,Republican,Mike Chaney,133
+Copiah,Crystal Springs North,State Senate,35,Republican,Chris Caughman,x
+Copiah,Crystal Springs North,State Senate,36,Democrat,Albert Butler,168
+Copiah,Crystal Springs South,State Treasurer,,Republican,Lynn Fitch,455
+Copiah,Crystal Springs South,State Treasurer,,Reform,Viola V. McFarland,274
+Copiah,Crystal Springs South,Commissioner of Agriculture & Commerce,,Democrat,Addie Lee Green,544
+Copiah,Crystal Springs South,Commissioner of Agriculture & Commerce,,Republican,Cindy Hyde-Smith,303
+Copiah,Crystal Springs South,Commissioner of Agriculture & Commerce,,Reform,Cathy L. Toole,6
+Copiah,Crystal Springs South,Commissioner of Insurance,,Republican,Mike Chaney,587
+Copiah,Crystal Springs South,State Senate,35,Republican,Chris Caughman,x
+Copiah,Crystal Springs South,State Senate,36,Democrat,Albert Butler,798
+Copiah,Crystal Springs West,State Treasurer,,Republican,Lynn Fitch,322
+Copiah,Crystal Springs West,State Treasurer,,Reform,Viola V. McFarland,73
+Copiah,Crystal Springs West,Commissioner of Agriculture & Commerce,,Democrat,Addie Lee Green,155
+Copiah,Crystal Springs West,Commissioner of Agriculture & Commerce,,Republican,Cindy Hyde-Smith,285
+Copiah,Crystal Springs West,Commissioner of Agriculture & Commerce,,Reform,Cathy L. Toole,3
+Copiah,Crystal Springs West,Commissioner of Insurance,,Republican,Mike Chaney,355
+Copiah,Crystal Springs West,State Senate,35,Republican,Chris Caughman,x
+Copiah,Crystal Springs West,State Senate,36,Democrat,Albert Butler,373
+Copiah,Dentville,State Treasurer,,Republican,Lynn Fitch,88
+Copiah,Dentville,State Treasurer,,Reform,Viola V. McFarland,4
+Copiah,Dentville,Commissioner of Agriculture & Commerce,,Democrat,Addie Lee Green,13
+Copiah,Dentville,Commissioner of Agriculture & Commerce,,Republican,Cindy Hyde-Smith,81
+Copiah,Dentville,Commissioner of Agriculture & Commerce,,Reform,Cathy L. Toole,3
+Copiah,Dentville,Commissioner of Insurance,,Republican,Mike Chaney,90
+Copiah,Dentville,State Senate,35,Republican,Chris Caughman,x
+Copiah,Dentville,State Senate,36,Democrat,Albert Butler,81
+Copiah,Gallman,State Treasurer,,Republican,Lynn Fitch,521
+Copiah,Gallman,State Treasurer,,Reform,Viola V. McFarland,212
+Copiah,Gallman,Commissioner of Agriculture & Commerce,,Democrat,Addie Lee Green,409
+Copiah,Gallman,Commissioner of Agriculture & Commerce,,Republican,Cindy Hyde-Smith,405
+Copiah,Gallman,Commissioner of Agriculture & Commerce,,Reform,Cathy L. Toole,8
+Copiah,Gallman,Commissioner of Insurance,,Republican,Mike Chaney,636
+Copiah,Gallman,State Senate,35,Republican,Chris Caughman,x
+Copiah,Gallman,State Senate,36,Democrat,Albert Butler,719
+Copiah,Georgetown North,State Treasurer,,Republican,Lynn Fitch,82
+Copiah,Georgetown North,State Treasurer,,Reform,Viola V. McFarland,56
+Copiah,Georgetown North,Commissioner of Agriculture & Commerce,,Democrat,Addie Lee Green,98
+Copiah,Georgetown North,Commissioner of Agriculture & Commerce,,Republican,Cindy Hyde-Smith,52
+Copiah,Georgetown North,Commissioner of Agriculture & Commerce,,Reform,Cathy L. Toole,4
+Copiah,Georgetown North,Commissioner of Insurance,,Republican,Mike Chaney,115
+Copiah,Georgetown North,State Senate,35,Republican,Chris Caughman,x
+Copiah,Georgetown North,State Senate,36,Democrat,Albert Butler,134
+Copiah,Georgetown South,State Treasurer,,Republican,Lynn Fitch,136
+Copiah,Georgetown South,State Treasurer,,Reform,Viola V. McFarland,32
+Copiah,Georgetown South,Commissioner of Agriculture & Commerce,,Democrat,Addie Lee Green,56
+Copiah,Georgetown South,Commissioner of Agriculture & Commerce,,Republican,Cindy Hyde-Smith,118
+Copiah,Georgetown South,Commissioner of Agriculture & Commerce,,Reform,Cathy L. Toole,7
+Copiah,Georgetown South,Commissioner of Insurance,,Republican,Mike Chaney,149
+Copiah,Georgetown South,State Senate,35,Republican,Chris Caughman,x
+Copiah,Georgetown South,State Senate,36,Democrat,Albert Butler,x
+Copiah,Hazlehurst East,State Treasurer,,Republican,Lynn Fitch,227
+Copiah,Hazlehurst East,State Treasurer,,Reform,Viola V. McFarland,305
+Copiah,Hazlehurst East,Commissioner of Agriculture & Commerce,,Democrat,Addie Lee Green,557
+Copiah,Hazlehurst East,Commissioner of Agriculture & Commerce,,Republican,Cindy Hyde-Smith,78
+Copiah,Hazlehurst East,Commissioner of Agriculture & Commerce,,Reform,Cathy L. Toole,7
+Copiah,Hazlehurst East,Commissioner of Insurance,,Republican,Mike Chaney,420
+Copiah,Hazlehurst East,State Senate,35,Republican,Chris Caughman,x
+Copiah,Hazlehurst East,State Senate,36,Democrat,Albert Butler,630
+Copiah,Hazlehurst North,State Treasurer,,Republican,Lynn Fitch,57
+Copiah,Hazlehurst North,State Treasurer,,Reform,Viola V. McFarland,25
+Copiah,Hazlehurst North,Commissioner of Agriculture & Commerce,,Democrat,Addie Lee Green,45
+Copiah,Hazlehurst North,Commissioner of Agriculture & Commerce,,Republican,Cindy Hyde-Smith,41
+Copiah,Hazlehurst North,Commissioner of Agriculture & Commerce,,Reform,Cathy L. Toole,0
+Copiah,Hazlehurst North,Commissioner of Insurance,,Republican,Mike Chaney,69
+Copiah,Hazlehurst North,State Senate,35,Republican,Chris Caughman,x
+Copiah,Hazlehurst North,State Senate,36,Democrat,Albert Butler,85
+Copiah,Hazlehurst South,State Treasurer,,Republican,Lynn Fitch,134
+Copiah,Hazlehurst South,State Treasurer,,Reform,Viola V. McFarland,54
+Copiah,Hazlehurst South,Commissioner of Agriculture & Commerce,,Democrat,Addie Lee Green,119
+Copiah,Hazlehurst South,Commissioner of Agriculture & Commerce,,Republican,Cindy Hyde-Smith,85
+Copiah,Hazlehurst South,Commissioner of Agriculture & Commerce,,Reform,Cathy L. Toole,1
+Copiah,Hazlehurst South,Commissioner of Insurance,,Republican,Mike Chaney,160
+Copiah,Hazlehurst South,State Senate,35,Republican,Chris Caughman,x
+Copiah,Hazlehurst South,State Senate,36,Democrat,Albert Butler,190
+Copiah,Hazlehurst West,State Treasurer,,Republican,Lynn Fitch,339
+Copiah,Hazlehurst West,State Treasurer,,Reform,Viola V. McFarland,218
+Copiah,Hazlehurst West,Commissioner of Agriculture & Commerce,,Democrat,Addie Lee Green,416
+Copiah,Hazlehurst West,Commissioner of Agriculture & Commerce,,Republican,Cindy Hyde-Smith,219
+Copiah,Hazlehurst West,Commissioner of Agriculture & Commerce,,Reform,Cathy L. Toole,7
+Copiah,Hazlehurst West,Commissioner of Insurance,,Republican,Mike Chaney,474
+Copiah,Hazlehurst West,State Senate,35,Republican,Chris Caughman,x
+Copiah,Hazlehurst West,State Senate,36,Democrat,Albert Butler,609
+Copiah,Martinsville,State Treasurer,,Republican,Lynn Fitch,179
+Copiah,Martinsville,State Treasurer,,Reform,Viola V. McFarland,66
+Copiah,Martinsville,Commissioner of Agriculture & Commerce,,Democrat,Addie Lee Green,129
+Copiah,Martinsville,Commissioner of Agriculture & Commerce,,Republican,Cindy Hyde-Smith,146
+Copiah,Martinsville,Commissioner of Agriculture & Commerce,,Reform,Cathy L. Toole,3
+Copiah,Martinsville,Commissioner of Insurance,,Republican,Mike Chaney,217
+Copiah,Martinsville,State Senate,35,Republican,Chris Caughman,x
+Copiah,Martinsville,State Senate,36,Democrat,Albert Butler,253
+Copiah,Shady Grove,State Treasurer,,Republican,Lynn Fitch,213
+Copiah,Shady Grove,State Treasurer,,Reform,Viola V. McFarland,35
+Copiah,Shady Grove,Commissioner of Agriculture & Commerce,,Democrat,Addie Lee Green,58
+Copiah,Shady Grove,Commissioner of Agriculture & Commerce,,Republican,Cindy Hyde-Smith,196
+Copiah,Shady Grove,Commissioner of Agriculture & Commerce,,Reform,Cathy L. Toole,5
+Copiah,Shady Grove,Commissioner of Insurance,,Republican,Mike Chaney,236
+Copiah,Shady Grove,State Senate,35,Republican,Chris Caughman,x
+Copiah,Shady Grove,State Senate,36,Democrat,Albert Butler,x
+Copiah,Stronghope Union,State Treasurer,,Republican,Lynn Fitch,195
+Copiah,Stronghope Union,State Treasurer,,Reform,Viola V. McFarland,9
+Copiah,Stronghope Union,Commissioner of Agriculture & Commerce,,Democrat,Addie Lee Green,15
+Copiah,Stronghope Union,Commissioner of Agriculture & Commerce,,Republican,Cindy Hyde-Smith,193
+Copiah,Stronghope Union,Commissioner of Agriculture & Commerce,,Reform,Cathy L. Toole,2
+Copiah,Stronghope Union,Commissioner of Insurance,,Republican,Mike Chaney,201
+Copiah,Stronghope Union,State Senate,35,Republican,Chris Caughman,x
+Copiah,Stronghope Union,State Senate,36,Democrat,Albert Butler,x
+Copiah,Wesson,State Treasurer,,Republican,Lynn Fitch,336
+Copiah,Wesson,State Treasurer,,Reform,Viola V. McFarland,19
+Copiah,Wesson,Commissioner of Agriculture & Commerce,,Democrat,Addie Lee Green,22
+Copiah,Wesson,Commissioner of Agriculture & Commerce,,Republican,Cindy Hyde-Smith,340
+Copiah,Wesson,Commissioner of Agriculture & Commerce,,Reform,Cathy L. Toole,4
+Copiah,Wesson,Commissioner of Insurance,,Republican,Mike Chaney,347
+Copiah,Wesson,State Senate,35,Republican,Chris Caughman,x
+Copiah,Wesson,State Senate,36,Democrat,Albert Butler,25
+Copiah,,State Treasurer,,Republican,Lynn Fitch,4804
+Copiah,,State Treasurer,,Reform,Viola V. McFarland,1766
+Copiah,,Commissioner of Agriculture & Commerce,,Democrat,Addie Lee Green,3368
+Copiah,,Commissioner of Agriculture & Commerce,,Republican,Cindy Hyde-Smith,3850
+Copiah,,Commissioner of Agriculture & Commerce,,Reform,Cathy L. Toole,101
+Copiah,,Commissioner of Insurance,,Republican,Mike Chaney,5809
+Copiah,,State Senate,35,Republican,Chris Caughman,457
+Copiah,,State Senate,36,Democrat,Albert Butler,5202
+Copiah,Beauregard,State Senate,39,Republican,Sally Doty,x
+Copiah,Beauregard,State Senate,39,Democrat,Michael Smith,x
+Copiah,Beauregard,State House,62,Republican,Tom Weathersby,x
+Copiah,Beauregard,State House,62,Democrat,Stephen Walson,x
+Copiah,Beauregard,State House,76,Democrat,Gregory L. Holloway Sr.,111
+Copiah,Beauregard,State House,91,Republican,Charles E. Bufkin,x
+Copiah,Beauregard,State House,91,Democrat,Bob Evans,x
+Copiah,Beauregard,State House,92,Republican,Becky Currie,163
+Copiah,Carpenter,State Senate,39,Republican,Sally Doty,x
+Copiah,Carpenter,State Senate,39,Democrat,Michael Smith,x
+Copiah,Carpenter,State House,62,Republican,Tom Weathersby,x
+Copiah,Carpenter,State House,62,Democrat,Stephen Walson,x
+Copiah,Carpenter,State House,76,Democrat,Gregory L. Holloway Sr.,87
+Copiah,Carpenter,State House,91,Republican,Charles E. Bufkin,x
+Copiah,Carpenter,State House,91,Democrat,Bob Evans,x
+Copiah,Carpenter,State House,92,Republican,Becky Currie,x
+Copiah,Centerpoint,State Senate,39,Republican,Sally Doty,x
+Copiah,Centerpoint,State Senate,39,Democrat,Michael Smith,x
+Copiah,Centerpoint,State House,62,Republican,Tom Weathersby,x
+Copiah,Centerpoint,State House,62,Democrat,Stephen Walson,x
+Copiah,Centerpoint,State House,76,Democrat,Gregory L. Holloway Sr.,272
+Copiah,Centerpoint,State House,91,Republican,Charles E. Bufkin,x
+Copiah,Centerpoint,State House,91,Democrat,Bob Evans,x
+Copiah,Centerpoint,State House,92,Republican,Becky Currie,122
+Copiah,Crystal Springs East,State Senate,39,Republican,Sally Doty,x
+Copiah,Crystal Springs East,State Senate,39,Democrat,Michael Smith,x
+Copiah,Crystal Springs East,State House,62,Republican,Tom Weathersby,472
+Copiah,Crystal Springs East,State House,62,Democrat,Stephen Walson,182
+Copiah,Crystal Springs East,State House,76,Democrat,Gregory L. Holloway Sr.,315
+Copiah,Crystal Springs East,State House,91,Republican,Charles E. Bufkin,6
+Copiah,Crystal Springs East,State House,91,Democrat,Bob Evans,2
+Copiah,Crystal Springs East,State House,92,Republican,Becky Currie,x
+Copiah,Crystal Springs North,State Senate,39,Republican,Sally Doty,x
+Copiah,Crystal Springs North,State Senate,39,Democrat,Michael Smith,x
+Copiah,Crystal Springs North,State House,62,Republican,Tom Weathersby,x
+Copiah,Crystal Springs North,State House,62,Democrat,Stephen Walson,x
+Copiah,Crystal Springs North,State House,76,Democrat,Gregory L. Holloway Sr.,170
+Copiah,Crystal Springs North,State House,91,Republican,Charles E. Bufkin,x
+Copiah,Crystal Springs North,State House,91,Democrat,Bob Evans,x
+Copiah,Crystal Springs North,State House,92,Republican,Becky Currie,x
+Copiah,Crystal Springs South,State Senate,39,Republican,Sally Doty,x
+Copiah,Crystal Springs South,State Senate,39,Democrat,Michael Smith,x
+Copiah,Crystal Springs South,State House,62,Republican,Tom Weathersby,48
+Copiah,Crystal Springs South,State House,62,Democrat,Stephen Walson,13
+Copiah,Crystal Springs South,State House,76,Democrat,Gregory L. Holloway Sr.,751
+Copiah,Crystal Springs South,State House,91,Republican,Charles E. Bufkin,x
+Copiah,Crystal Springs South,State House,91,Democrat,Bob Evans,x
+Copiah,Crystal Springs South,State House,92,Republican,Becky Currie,x
+Copiah,Crystal Springs West,State Senate,39,Republican,Sally Doty,x
+Copiah,Crystal Springs West,State Senate,39,Democrat,Michael Smith,x
+Copiah,Crystal Springs West,State House,62,Republican,Tom Weathersby,x
+Copiah,Crystal Springs West,State House,62,Democrat,Stephen Walson,x
+Copiah,Crystal Springs West,State House,76,Democrat,Gregory L. Holloway Sr.,376
+Copiah,Crystal Springs West,State House,91,Republican,Charles E. Bufkin,x
+Copiah,Crystal Springs West,State House,91,Democrat,Bob Evans,x
+Copiah,Crystal Springs West,State House,92,Republican,Becky Currie,x
+Copiah,Dentville,State Senate,39,Republican,Sally Doty,x
+Copiah,Dentville,State Senate,39,Democrat,Michael Smith,x
+Copiah,Dentville,State House,62,Republican,Tom Weathersby,x
+Copiah,Dentville,State House,62,Democrat,Stephen Walson,x
+Copiah,Dentville,State House,76,Democrat,Gregory L. Holloway Sr.,85
+Copiah,Dentville,State House,91,Republican,Charles E. Bufkin,x
+Copiah,Dentville,State House,91,Democrat,Bob Evans,x
+Copiah,Dentville,State House,92,Republican,Becky Currie,x
+Copiah,Gallman,State Senate,39,Republican,Sally Doty,x
+Copiah,Gallman,State Senate,39,Democrat,Michael Smith,x
+Copiah,Gallman,State House,62,Republican,Tom Weathersby,x
+Copiah,Gallman,State House,62,Democrat,Stephen Walson,x
+Copiah,Gallman,State House,76,Democrat,Gregory L. Holloway Sr.,751
+Copiah,Gallman,State House,91,Republican,Charles E. Bufkin,x
+Copiah,Gallman,State House,91,Democrat,Bob Evans,x
+Copiah,Gallman,State House,92,Republican,Becky Currie,x
+Copiah,Georgetown North,State Senate,39,Republican,Sally Doty,x
+Copiah,Georgetown North,State Senate,39,Democrat,Michael Smith,x
+Copiah,Georgetown North,State House,62,Republican,Tom Weathersby,x
+Copiah,Georgetown North,State House,62,Democrat,Stephen Walson,x
+Copiah,Georgetown North,State House,76,Democrat,Gregory L. Holloway Sr.,x
+Copiah,Georgetown North,State House,91,Republican,Charles E. Bufkin,49
+Copiah,Georgetown North,State House,91,Democrat,Bob Evans,98
+Copiah,Georgetown North,State House,92,Republican,Becky Currie,x
+Copiah,Georgetown South,State Senate,39,Republican,Sally Doty,93
+Copiah,Georgetown South,State Senate,39,Democrat,Michael Smith,79
+Copiah,Georgetown South,State House,62,Republican,Tom Weathersby,x
+Copiah,Georgetown South,State House,62,Democrat,Stephen Walson,x
+Copiah,Georgetown South,State House,76,Democrat,Gregory L. Holloway Sr.,x
+Copiah,Georgetown South,State House,91,Republican,Charles E. Bufkin,29
+Copiah,Georgetown South,State House,91,Democrat,Bob Evans,41
+Copiah,Georgetown South,State House,92,Republican,Becky Currie,87
+Copiah,Hazlehurst East,State Senate,39,Republican,Sally Doty,x
+Copiah,Hazlehurst East,State Senate,39,Democrat,Michael Smith,x
+Copiah,Hazlehurst East,State House,62,Republican,Tom Weathersby,x
+Copiah,Hazlehurst East,State House,62,Democrat,Stephen Walson,x
+Copiah,Hazlehurst East,State House,76,Democrat,Gregory L. Holloway Sr.,647
+Copiah,Hazlehurst East,State House,91,Republican,Charles E. Bufkin,x
+Copiah,Hazlehurst East,State House,91,Democrat,Bob Evans,x
+Copiah,Hazlehurst East,State House,92,Republican,Becky Currie,x
+Copiah,Hazlehurst North,State Senate,39,Republican,Sally Doty,x
+Copiah,Hazlehurst North,State Senate,39,Democrat,Michael Smith,x
+Copiah,Hazlehurst North,State House,62,Republican,Tom Weathersby,x
+Copiah,Hazlehurst North,State House,62,Democrat,Stephen Walson,x
+Copiah,Hazlehurst North,State House,76,Democrat,Gregory L. Holloway Sr.,84
+Copiah,Hazlehurst North,State House,91,Republican,Charles E. Bufkin,x
+Copiah,Hazlehurst North,State House,91,Democrat,Bob Evans,x
+Copiah,Hazlehurst North,State House,92,Republican,Becky Currie,x
+Copiah,Hazlehurst South,State Senate,39,Republican,Sally Doty,x
+Copiah,Hazlehurst South,State Senate,39,Democrat,Michael Smith,x
+Copiah,Hazlehurst South,State House,62,Republican,Tom Weathersby,x
+Copiah,Hazlehurst South,State House,62,Democrat,Stephen Walson,x
+Copiah,Hazlehurst South,State House,76,Democrat,Gregory L. Holloway Sr.,195
+Copiah,Hazlehurst South,State House,91,Republican,Charles E. Bufkin,x
+Copiah,Hazlehurst South,State House,91,Democrat,Bob Evans,x
+Copiah,Hazlehurst South,State House,92,Republican,Becky Currie,x
+Copiah,Hazlehurst West,State Senate,39,Republican,Sally Doty,x
+Copiah,Hazlehurst West,State Senate,39,Democrat,Michael Smith,x
+Copiah,Hazlehurst West,State House,62,Republican,Tom Weathersby,x
+Copiah,Hazlehurst West,State House,62,Democrat,Stephen Walson,x
+Copiah,Hazlehurst West,State House,76,Democrat,Gregory L. Holloway Sr.,627
+Copiah,Hazlehurst West,State House,91,Republican,Charles E. Bufkin,x
+Copiah,Hazlehurst West,State House,91,Democrat,Bob Evans,x
+Copiah,Hazlehurst West,State House,92,Republican,Becky Currie,x
+Copiah,Martinsville,State Senate,39,Republican,Sally Doty,x
+Copiah,Martinsville,State Senate,39,Democrat,Michael Smith,x
+Copiah,Martinsville,State House,62,Republican,Tom Weathersby,x
+Copiah,Martinsville,State House,62,Democrat,Stephen Walson,x
+Copiah,Martinsville,State House,76,Democrat,Gregory L. Holloway Sr.,253
+Copiah,Martinsville,State House,91,Republican,Charles E. Bufkin,x
+Copiah,Martinsville,State House,91,Democrat,Bob Evans,x
+Copiah,Martinsville,State House,92,Republican,Becky Currie,x
+Copiah,Shady Grove,State Senate,39,Republican,Sally Doty,180
+Copiah,Shady Grove,State Senate,39,Democrat,Michael Smith,75
+Copiah,Shady Grove,State House,62,Republican,Tom Weathersby,x
+Copiah,Shady Grove,State House,62,Democrat,Stephen Walson,x
+Copiah,Shady Grove,State House,76,Democrat,Gregory L. Holloway Sr.,x
+Copiah,Shady Grove,State House,91,Republican,Charles E. Bufkin,x
+Copiah,Shady Grove,State House,91,Democrat,Bob Evans,x
+Copiah,Shady Grove,State House,92,Republican,Becky Currie,233
+Copiah,Stronghope Union,State Senate,39,Republican,Sally Doty,173
+Copiah,Stronghope Union,State Senate,39,Democrat,Michael Smith,34
+Copiah,Stronghope Union,State House,62,Republican,Tom Weathersby,x
+Copiah,Stronghope Union,State House,62,Democrat,Stephen Walson,x
+Copiah,Stronghope Union,State House,76,Democrat,Gregory L. Holloway Sr.,x
+Copiah,Stronghope Union,State House,91,Republican,Charles E. Bufkin,x
+Copiah,Stronghope Union,State House,91,Democrat,Bob Evans,x
+Copiah,Stronghope Union,State House,92,Republican,Becky Currie,200
+Copiah,Wesson,State Senate,39,Republican,Sally Doty,279
+Copiah,Wesson,State Senate,39,Democrat,Michael Smith,51
+Copiah,Wesson,State House,62,Republican,Tom Weathersby,x
+Copiah,Wesson,State House,62,Democrat,Stephen Walson,x
+Copiah,Wesson,State House,76,Democrat,Gregory L. Holloway Sr.,x
+Copiah,Wesson,State House,91,Republican,Charles E. Bufkin,x
+Copiah,Wesson,State House,91,Democrat,Bob Evans,x
+Copiah,Wesson,State House,92,Republican,Becky Currie,343
+Copiah,,State Senate,39,Republican,Sally Doty,725
+Copiah,,State Senate,39,Democrat,Michael Smith,239
+Copiah,,State House,62,Republican,Tom Weathersby,520
+Copiah,,State House,62,Democrat,Stephen Walson,195
+Copiah,,State House,76,Democrat,Gregory L. Holloway Sr.,4724
+Copiah,,State House,91,Republican,Charles E. Bufkin,84
+Copiah,,State House,91,Democrat,Bob Evans,141
+Copiah,,State House,92,Republican,Becky Currie,1148
