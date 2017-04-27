@@ -1,0 +1,463 @@
+county,precinct,office,district,party,candidate,votes
+Wayne,Beat Four,Governor,,Republican,Phil Bryant,362
+Wayne,Beat Four,Governor,,Democrat,Robert Gray,54
+Wayne,Beat Four,Governor,,Reform,Shawn O'Hara,8
+Wayne,Beat Four,Lieutenant Governor,,Democrat,Tim Johnson,62
+Wayne,Beat Four,Lieutenant Governor,,Republican,Tate Reeves,331
+Wayne,Beat Four,Lieutenant Governor,,Libertarian,Ron Williams,14
+Wayne,Beat Four,Lieutenant Governor,,Reform,Rosa B. Williams,8
+Wayne,Beat Four,Secretary of State,,Democrat,Charles E. Graham,63
+Wayne,Beat Four,Secretary of State,,Republican,Delbert Hosemann,325
+Wayne,Beat Four,Secretary of State,,Reform,Randy Walker,32
+Wayne,Beat Four,Attorney General,,Democrat,Jim Hood,192
+Wayne,Beat Four,Attorney General,,Republican,Mike Hurst,227
+Wayne,Beat Four,State Auditor,,Republican,Stacey E. Pickering,364
+Wayne,Beat Four,State Auditor,,Democrat,Jocelyn 'Joce' Pepper Pritchett,45
+Wayne,Beat Four,State Auditor,,Reform,Lajena Walley,11
+Wayne,Beat Four,State Treasurer,,Republican,Lynn Fitch,368
+Wayne,Beat Four,State Treasurer,,Reform,Viola V. McFarland,44
+Wayne,Beat Four,Commissioner of Agriculture & Commerce,,Democrat,Addie Lee Green,69
+Wayne,Beat Four,Commissioner of Agriculture & Commerce,,Republican,Cindy Hyde-Smith,337
+Wayne,Beat Four,Commissioner of Agriculture & Commerce,,Reform,Cathy L. Toole,13
+Wayne,Beat Four,Commissioner of Insurance,,Republican,Mike Chaney,402
+Wayne,Big Rock,Governor,,Republican,Phil Bryant,59
+Wayne,Big Rock,Governor,,Democrat,Robert Gray,38
+Wayne,Big Rock,Governor,,Reform,Shawn O'Hara,0
+Wayne,Big Rock,Lieutenant Governor,,Democrat,Tim Johnson,42
+Wayne,Big Rock,Lieutenant Governor,,Republican,Tate Reeves,55
+Wayne,Big Rock,Lieutenant Governor,,Libertarian,Ron Williams,1
+Wayne,Big Rock,Lieutenant Governor,,Reform,Rosa B. Williams,0
+Wayne,Big Rock,Secretary of State,,Democrat,Charles E. Graham,43
+Wayne,Big Rock,Secretary of State,,Republican,Delbert Hosemann,53
+Wayne,Big Rock,Secretary of State,,Reform,Randy Walker,3
+Wayne,Big Rock,Attorney General,,Democrat,Jim Hood,59
+Wayne,Big Rock,Attorney General,,Republican,Mike Hurst,38
+Wayne,Big Rock,State Auditor,,Republican,Stacey E. Pickering,55
+Wayne,Big Rock,State Auditor,,Democrat,Jocelyn 'Joce' Pepper Pritchett,41
+Wayne,Big Rock,State Auditor,,Reform,Lajena Walley,0
+Wayne,Big Rock,State Treasurer,,Republican,Lynn Fitch,63
+Wayne,Big Rock,State Treasurer,,Reform,Viola V. McFarland,26
+Wayne,Big Rock,Commissioner of Agriculture & Commerce,,Democrat,Addie Lee Green,42
+Wayne,Big Rock,Commissioner of Agriculture & Commerce,,Republican,Cindy Hyde-Smith,55
+Wayne,Big Rock,Commissioner of Agriculture & Commerce,,Reform,Cathy L. Toole,1
+Wayne,Big Rock,Commissioner of Insurance,,Republican,Mike Chaney,79
+Wayne,Buckatunna,Governor,,Republican,Phil Bryant,218
+Wayne,Buckatunna,Governor,,Democrat,Robert Gray,146
+Wayne,Buckatunna,Governor,,Reform,Shawn O'Hara,8
+Wayne,Buckatunna,Lieutenant Governor,,Democrat,Tim Johnson,152
+Wayne,Buckatunna,Lieutenant Governor,,Republican,Tate Reeves,190
+Wayne,Buckatunna,Lieutenant Governor,,Libertarian,Ron Williams,5
+Wayne,Buckatunna,Lieutenant Governor,,Reform,Rosa B. Williams,9
+Wayne,Buckatunna,Secretary of State,,Democrat,Charles E. Graham,176
+Wayne,Buckatunna,Secretary of State,,Republican,Delbert Hosemann,170
+Wayne,Buckatunna,Secretary of State,,Reform,Randy Walker,13
+Wayne,Buckatunna,Attorney General,,Democrat,Jim Hood,217
+Wayne,Buckatunna,Attorney General,,Republican,Mike Hurst,139
+Wayne,Buckatunna,State Auditor,,Republican,Stacey E. Pickering,191
+Wayne,Buckatunna,State Auditor,,Democrat,Jocelyn 'Joce' Pepper Pritchett,148
+Wayne,Buckatunna,State Auditor,,Reform,Lajena Walley,8
+Wayne,Buckatunna,State Treasurer,,Republican,Lynn Fitch,228
+Wayne,Buckatunna,State Treasurer,,Reform,Viola V. McFarland,93
+Wayne,Buckatunna,Commissioner of Agriculture & Commerce,,Democrat,Addie Lee Green,163
+Wayne,Buckatunna,Commissioner of Agriculture & Commerce,,Republican,Cindy Hyde-Smith,192
+Wayne,Buckatunna,Commissioner of Agriculture & Commerce,,Reform,Cathy L. Toole,3
+Wayne,Buckatunna,Commissioner of Insurance,,Republican,Mike Chaney,297
+Wayne,Chapparal/Diamond,Governor,,Republican,Phil Bryant,59
+Wayne,Chapparal/Diamond,Governor,,Democrat,Robert Gray,106
+Wayne,Chapparal/Diamond,Governor,,Reform,Shawn O'Hara,1
+Wayne,Chapparal/Diamond,Lieutenant Governor,,Democrat,Tim Johnson,99
+Wayne,Chapparal/Diamond,Lieutenant Governor,,Republican,Tate Reeves,60
+Wayne,Chapparal/Diamond,Lieutenant Governor,,Libertarian,Ron Williams,1
+Wayne,Chapparal/Diamond,Lieutenant Governor,,Reform,Rosa B. Williams,4
+Wayne,Chapparal/Diamond,Secretary of State,,Democrat,Charles E. Graham,109
+Wayne,Chapparal/Diamond,Secretary of State,,Republican,Delbert Hosemann,47
+Wayne,Chapparal/Diamond,Secretary of State,,Reform,Randy Walker,7
+Wayne,Chapparal/Diamond,Attorney General,,Democrat,Jim Hood,123
+Wayne,Chapparal/Diamond,Attorney General,,Republican,Mike Hurst,38
+Wayne,Chapparal/Diamond,State Auditor,,Republican,Stacey E. Pickering,59
+Wayne,Chapparal/Diamond,State Auditor,,Democrat,Jocelyn 'Joce' Pepper Pritchett,104
+Wayne,Chapparal/Diamond,State Auditor,,Reform,Lajena Walley,0
+Wayne,Chapparal/Diamond,State Treasurer,,Republican,Lynn Fitch,75
+Wayne,Chapparal/Diamond,State Treasurer,,Reform,Viola V. McFarland,72
+Wayne,Chapparal/Diamond,Commissioner of Agriculture & Commerce,,Democrat,Addie Lee Green,109
+Wayne,Chapparal/Diamond,Commissioner of Agriculture & Commerce,,Republican,Cindy Hyde-Smith,52
+Wayne,Chapparal/Diamond,Commissioner of Agriculture & Commerce,,Reform,Cathy L. Toole,2
+Wayne,Chapparal/Diamond,Commissioner of Insurance,,Republican,Mike Chaney,130
+Wayne,Chicora,Governor,,Republican,Phil Bryant,168
+Wayne,Chicora,Governor,,Democrat,Robert Gray,38
+Wayne,Chicora,Governor,,Reform,Shawn O'Hara,2
+Wayne,Chicora,Lieutenant Governor,,Democrat,Tim Johnson,45
+Wayne,Chicora,Lieutenant Governor,,Republican,Tate Reeves,147
+Wayne,Chicora,Lieutenant Governor,,Libertarian,Ron Williams,4
+Wayne,Chicora,Lieutenant Governor,,Reform,Rosa B. Williams,3
+Wayne,Chicora,Secretary of State,,Democrat,Charles E. Graham,58
+Wayne,Chicora,Secretary of State,,Republican,Delbert Hosemann,131
+Wayne,Chicora,Secretary of State,,Reform,Randy Walker,11
+Wayne,Chicora,Attorney General,,Democrat,Jim Hood,95
+Wayne,Chicora,Attorney General,,Republican,Mike Hurst,107
+Wayne,Chicora,State Auditor,,Republican,Stacey E. Pickering,154
+Wayne,Chicora,State Auditor,,Democrat,Jocelyn 'Joce' Pepper Pritchett,39
+Wayne,Chicora,State Auditor,,Reform,Lajena Walley,6
+Wayne,Chicora,State Treasurer,,Republican,Lynn Fitch,158
+Wayne,Chicora,State Treasurer,,Reform,Viola V. McFarland,28
+Wayne,Chicora,Commissioner of Agriculture & Commerce,,Democrat,Addie Lee Green,46
+Wayne,Chicora,Commissioner of Agriculture & Commerce,,Republican,Cindy Hyde-Smith,149
+Wayne,Chicora,Commissioner of Agriculture & Commerce,,Reform,Cathy L. Toole,7
+Wayne,Chicora,Commissioner of Insurance,,Republican,Mike Chaney,183
+Wayne,Clara,Governor,,Republican,Phil Bryant,807
+Wayne,Clara,Governor,,Democrat,Robert Gray,43
+Wayne,Clara,Governor,,Reform,Shawn O'Hara,7
+Wayne,Clara,Lieutenant Governor,,Democrat,Tim Johnson,59
+Wayne,Clara,Lieutenant Governor,,Republican,Tate Reeves,753
+Wayne,Clara,Lieutenant Governor,,Libertarian,Ron Williams,12
+Wayne,Clara,Lieutenant Governor,,Reform,Rosa B. Williams,5
+Wayne,Clara,Secretary of State,,Democrat,Charles E. Graham,82
+Wayne,Clara,Secretary of State,,Republican,Delbert Hosemann,722
+Wayne,Clara,Secretary of State,,Reform,Randy Walker,41
+Wayne,Clara,Attorney General,,Democrat,Jim Hood,318
+Wayne,Clara,Attorney General,,Republican,Mike Hurst,535
+Wayne,Clara,State Auditor,,Republican,Stacey E. Pickering,792
+Wayne,Clara,State Auditor,,Democrat,Jocelyn 'Joce' Pepper Pritchett,39
+Wayne,Clara,State Auditor,,Reform,Lajena Walley,13
+Wayne,Clara,State Treasurer,,Republican,Lynn Fitch,791
+Wayne,Clara,State Treasurer,,Reform,Viola V. McFarland,38
+Wayne,Clara,Commissioner of Agriculture & Commerce,,Democrat,Addie Lee Green,58
+Wayne,Clara,Commissioner of Agriculture & Commerce,,Republican,Cindy Hyde-Smith,758
+Wayne,Clara,Commissioner of Agriculture & Commerce,,Reform,Cathy L. Toole,19
+Wayne,Clara,Commissioner of Insurance,,Republican,Mike Chaney,829
+Wayne,Corinth,Governor,,Republican,Phil Bryant,162
+Wayne,Corinth,Governor,,Democrat,Robert Gray,14
+Wayne,Corinth,Governor,,Reform,Shawn O'Hara,1
+Wayne,Corinth,Lieutenant Governor,,Democrat,Tim Johnson,18
+Wayne,Corinth,Lieutenant Governor,,Republican,Tate Reeves,149
+Wayne,Corinth,Lieutenant Governor,,Libertarian,Ron Williams,3
+Wayne,Corinth,Lieutenant Governor,,Reform,Rosa B. Williams,6
+Wayne,Corinth,Secretary of State,,Democrat,Charles E. Graham,31
+Wayne,Corinth,Secretary of State,,Republican,Delbert Hosemann,142
+Wayne,Corinth,Secretary of State,,Reform,Randy Walker,2
+Wayne,Corinth,Attorney General,,Democrat,Jim Hood,82
+Wayne,Corinth,Attorney General,,Republican,Mike Hurst,95
+Wayne,Corinth,State Auditor,,Republican,Stacey E. Pickering,156
+Wayne,Corinth,State Auditor,,Democrat,Jocelyn 'Joce' Pepper Pritchett,18
+Wayne,Corinth,State Auditor,,Reform,Lajena Walley,2
+Wayne,Corinth,State Treasurer,,Republican,Lynn Fitch,164
+Wayne,Corinth,State Treasurer,,Reform,Viola V. McFarland,10
+Wayne,Corinth,Commissioner of Agriculture & Commerce,,Democrat,Addie Lee Green,26
+Wayne,Corinth,Commissioner of Agriculture & Commerce,,Republican,Cindy Hyde-Smith,146
+Wayne,Corinth,Commissioner of Agriculture & Commerce,,Reform,Cathy L. Toole,3
+Wayne,Corinth,Commissioner of Insurance,,Republican,Mike Chaney,173
+Wayne,Denham,Governor,,Republican,Phil Bryant,179
+Wayne,Denham,Governor,,Democrat,Robert Gray,41
+Wayne,Denham,Governor,,Reform,Shawn O'Hara,3
+Wayne,Denham,Lieutenant Governor,,Democrat,Tim Johnson,54
+Wayne,Denham,Lieutenant Governor,,Republican,Tate Reeves,163
+Wayne,Denham,Lieutenant Governor,,Libertarian,Ron Williams,1
+Wayne,Denham,Lieutenant Governor,,Reform,Rosa B. Williams,5
+Wayne,Denham,Secretary of State,,Democrat,Charles E. Graham,61
+Wayne,Denham,Secretary of State,,Republican,Delbert Hosemann,158
+Wayne,Denham,Secretary of State,,Reform,Randy Walker,5
+Wayne,Denham,Attorney General,,Democrat,Jim Hood,91
+Wayne,Denham,Attorney General,,Republican,Mike Hurst,130
+Wayne,Denham,State Auditor,,Republican,Stacey E. Pickering,174
+Wayne,Denham,State Auditor,,Democrat,Jocelyn 'Joce' Pepper Pritchett,41
+Wayne,Denham,State Auditor,,Reform,Lajena Walley,6
+Wayne,Denham,State Treasurer,,Republican,Lynn Fitch,176
+Wayne,Denham,State Treasurer,,Reform,Viola V. McFarland,29
+Wayne,Denham,Commissioner of Agriculture & Commerce,,Democrat,Addie Lee Green,44
+Wayne,Denham,Commissioner of Agriculture & Commerce,,Republican,Cindy Hyde-Smith,170
+Wayne,Denham,Commissioner of Agriculture & Commerce,,Reform,Cathy L. Toole,7
+Wayne,Denham,Commissioner of Insurance,,Republican,Mike Chaney,205
+Wayne,Eucutta,Governor,,Republican,Phil Bryant,91
+Wayne,Eucutta,Governor,,Democrat,Robert Gray,25
+Wayne,Eucutta,Governor,,Reform,Shawn O'Hara,2
+Wayne,Eucutta,Lieutenant Governor,,Democrat,Tim Johnson,29
+Wayne,Eucutta,Lieutenant Governor,,Republican,Tate Reeves,79
+Wayne,Eucutta,Lieutenant Governor,,Libertarian,Ron Williams,3
+Wayne,Eucutta,Lieutenant Governor,,Reform,Rosa B. Williams,0
+Wayne,Eucutta,Secretary of State,,Democrat,Charles E. Graham,36
+Wayne,Eucutta,Secretary of State,,Republican,Delbert Hosemann,74
+Wayne,Eucutta,Secretary of State,,Reform,Randy Walker,3
+Wayne,Eucutta,Attorney General,,Democrat,Jim Hood,44
+Wayne,Eucutta,Attorney General,,Republican,Mike Hurst,71
+Wayne,Eucutta,State Auditor,,Republican,Stacey E. Pickering,84
+Wayne,Eucutta,State Auditor,,Democrat,Jocelyn 'Joce' Pepper Pritchett,28
+Wayne,Eucutta,State Auditor,,Reform,Lajena Walley,1
+Wayne,Eucutta,State Treasurer,,Republican,Lynn Fitch,88
+Wayne,Eucutta,State Treasurer,,Reform,Viola V. McFarland,22
+Wayne,Eucutta,Commissioner of Agriculture & Commerce,,Democrat,Addie Lee Green,31
+Wayne,Eucutta,Commissioner of Agriculture & Commerce,,Republican,Cindy Hyde-Smith,80
+Wayne,Eucutta,Commissioner of Agriculture & Commerce,,Reform,Cathy L. Toole,1
+Wayne,Eucutta,Commissioner of Insurance,,Republican,Mike Chaney,100
+Wayne,Hiwannee,Governor,,Republican,Phil Bryant,65
+Wayne,Hiwannee,Governor,,Democrat,Robert Gray,98
+Wayne,Hiwannee,Governor,,Reform,Shawn O'Hara,4
+Wayne,Hiwannee,Lieutenant Governor,,Democrat,Tim Johnson,100
+Wayne,Hiwannee,Lieutenant Governor,,Republican,Tate Reeves,62
+Wayne,Hiwannee,Lieutenant Governor,,Libertarian,Ron Williams,3
+Wayne,Hiwannee,Lieutenant Governor,,Reform,Rosa B. Williams,0
+Wayne,Hiwannee,Secretary of State,,Democrat,Charles E. Graham,104
+Wayne,Hiwannee,Secretary of State,,Republican,Delbert Hosemann,52
+Wayne,Hiwannee,Secretary of State,,Reform,Randy Walker,8
+Wayne,Hiwannee,Attorney General,,Democrat,Jim Hood,121
+Wayne,Hiwannee,Attorney General,,Republican,Mike Hurst,47
+Wayne,Hiwannee,State Auditor,,Republican,Stacey E. Pickering,60
+Wayne,Hiwannee,State Auditor,,Democrat,Jocelyn 'Joce' Pepper Pritchett,100
+Wayne,Hiwannee,State Auditor,,Reform,Lajena Walley,5
+Wayne,Hiwannee,State Treasurer,,Republican,Lynn Fitch,88
+Wayne,Hiwannee,State Treasurer,,Reform,Viola V. McFarland,58
+Wayne,Hiwannee,Commissioner of Agriculture & Commerce,,Democrat,Addie Lee Green,108
+Wayne,Hiwannee,Commissioner of Agriculture & Commerce,,Republican,Cindy Hyde-Smith,54
+Wayne,Hiwannee,Commissioner of Agriculture & Commerce,,Reform,Cathy L. Toole,3
+Wayne,Hiwannee,Commissioner of Insurance,,Republican,Mike Chaney,128
+Wayne,Matherville/Coyt,Governor,,Republican,Phil Bryant,70
+Wayne,Matherville/Coyt,Governor,,Democrat,Robert Gray,17
+Wayne,Matherville/Coyt,Governor,,Reform,Shawn O'Hara,4
+Wayne,Matherville/Coyt,Lieutenant Governor,,Democrat,Tim Johnson,13
+Wayne,Matherville/Coyt,Lieutenant Governor,,Republican,Tate Reeves,75
+Wayne,Matherville/Coyt,Lieutenant Governor,,Libertarian,Ron Williams,1
+Wayne,Matherville/Coyt,Lieutenant Governor,,Reform,Rosa B. Williams,0
+Wayne,Matherville/Coyt,Secretary of State,,Democrat,Charles E. Graham,15
+Wayne,Matherville/Coyt,Secretary of State,,Republican,Delbert Hosemann,71
+Wayne,Matherville/Coyt,Secretary of State,,Reform,Randy Walker,4
+Wayne,Matherville/Coyt,Attorney General,,Democrat,Jim Hood,28
+Wayne,Matherville/Coyt,Attorney General,,Republican,Mike Hurst,63
+Wayne,Matherville/Coyt,State Auditor,,Republican,Stacey E. Pickering,75
+Wayne,Matherville/Coyt,State Auditor,,Democrat,Jocelyn 'Joce' Pepper Pritchett,12
+Wayne,Matherville/Coyt,State Auditor,,Reform,Lajena Walley,2
+Wayne,Matherville/Coyt,State Treasurer,,Republican,Lynn Fitch,79
+Wayne,Matherville/Coyt,State Treasurer,,Reform,Viola V. McFarland,7
+Wayne,Matherville/Coyt,Commissioner of Agriculture & Commerce,,Democrat,Addie Lee Green,17
+Wayne,Matherville/Coyt,Commissioner of Agriculture & Commerce,,Republican,Cindy Hyde-Smith,72
+Wayne,Matherville/Coyt,Commissioner of Agriculture & Commerce,,Reform,Cathy L. Toole,1
+Wayne,Matherville/Coyt,Commissioner of Insurance,,Republican,Mike Chaney,77
+Wayne,Mozingo,Governor,,Republican,Phil Bryant,199
+Wayne,Mozingo,Governor,,Democrat,Robert Gray,34
+Wayne,Mozingo,Governor,,Reform,Shawn O'Hara,1
+Wayne,Mozingo,Lieutenant Governor,,Democrat,Tim Johnson,46
+Wayne,Mozingo,Lieutenant Governor,,Republican,Tate Reeves,175
+Wayne,Mozingo,Lieutenant Governor,,Libertarian,Ron Williams,10
+Wayne,Mozingo,Lieutenant Governor,,Reform,Rosa B. Williams,2
+Wayne,Mozingo,Secretary of State,,Democrat,Charles E. Graham,47
+Wayne,Mozingo,Secretary of State,,Republican,Delbert Hosemann,171
+Wayne,Mozingo,Secretary of State,,Reform,Randy Walker,16
+Wayne,Mozingo,Attorney General,,Democrat,Jim Hood,87
+Wayne,Mozingo,Attorney General,,Republican,Mike Hurst,146
+Wayne,Mozingo,State Auditor,,Republican,Stacey E. Pickering,179
+Wayne,Mozingo,State Auditor,,Democrat,Jocelyn 'Joce' Pepper Pritchett,40
+Wayne,Mozingo,State Auditor,,Reform,Lajena Walley,13
+Wayne,Mozingo,State Treasurer,,Republican,Lynn Fitch,197
+Wayne,Mozingo,State Treasurer,,Reform,Viola V. McFarland,25
+Wayne,Mozingo,Commissioner of Agriculture & Commerce,,Democrat,Addie Lee Green,41
+Wayne,Mozingo,Commissioner of Agriculture & Commerce,,Republican,Cindy Hyde-Smith,180
+Wayne,Mozingo,Commissioner of Agriculture & Commerce,,Reform,Cathy L. Toole,8
+Wayne,Mozingo,Commissioner of Insurance,,Republican,Mike Chaney,212
+Wayne,Pleasant Grove,Governor,,Republican,Phil Bryant,242
+Wayne,Pleasant Grove,Governor,,Democrat,Robert Gray,69
+Wayne,Pleasant Grove,Governor,,Reform,Shawn O'Hara,2
+Wayne,Pleasant Grove,Lieutenant Governor,,Democrat,Tim Johnson,86
+Wayne,Pleasant Grove,Lieutenant Governor,,Republican,Tate Reeves,212
+Wayne,Pleasant Grove,Lieutenant Governor,,Libertarian,Ron Williams,5
+Wayne,Pleasant Grove,Lieutenant Governor,,Reform,Rosa B. Williams,4
+Wayne,Pleasant Grove,Secretary of State,,Democrat,Charles E. Graham,77
+Wayne,Pleasant Grove,Secretary of State,,Republican,Delbert Hosemann,220
+Wayne,Pleasant Grove,Secretary of State,,Reform,Randy Walker,8
+Wayne,Pleasant Grove,Attorney General,,Democrat,Jim Hood,150
+Wayne,Pleasant Grove,Attorney General,,Republican,Mike Hurst,161
+Wayne,Pleasant Grove,State Auditor,,Republican,Stacey E. Pickering,220
+Wayne,Pleasant Grove,State Auditor,,Democrat,Jocelyn 'Joce' Pepper Pritchett,83
+Wayne,Pleasant Grove,State Auditor,,Reform,Lajena Walley,8
+Wayne,Pleasant Grove,State Treasurer,,Republican,Lynn Fitch,241
+Wayne,Pleasant Grove,State Treasurer,,Reform,Viola V. McFarland,48
+Wayne,Pleasant Grove,Commissioner of Agriculture & Commerce,,Democrat,Addie Lee Green,74
+Wayne,Pleasant Grove,Commissioner of Agriculture & Commerce,,Republican,Cindy Hyde-Smith,230
+Wayne,Pleasant Grove,Commissioner of Agriculture & Commerce,,Reform,Cathy L. Toole,1
+Wayne,Pleasant Grove,Commissioner of Insurance,,Republican,Mike Chaney,274
+Wayne,State Line,Governor,,Republican,Phil Bryant,279
+Wayne,State Line,Governor,,Democrat,Robert Gray,145
+Wayne,State Line,Governor,,Reform,Shawn O'Hara,7
+Wayne,State Line,Lieutenant Governor,,Democrat,Tim Johnson,169
+Wayne,State Line,Lieutenant Governor,,Republican,Tate Reeves,230
+Wayne,State Line,Lieutenant Governor,,Libertarian,Ron Williams,7
+Wayne,State Line,Lieutenant Governor,,Reform,Rosa B. Williams,13
+Wayne,State Line,Secretary of State,,Democrat,Charles E. Graham,204
+Wayne,State Line,Secretary of State,,Republican,Delbert Hosemann,197
+Wayne,State Line,Secretary of State,,Reform,Randy Walker,21
+Wayne,State Line,Attorney General,,Democrat,Jim Hood,243
+Wayne,State Line,Attorney General,,Republican,Mike Hurst,179
+Wayne,State Line,State Auditor,,Republican,Stacey E. Pickering,247
+Wayne,State Line,State Auditor,,Democrat,Jocelyn 'Joce' Pepper Pritchett,155
+Wayne,State Line,State Auditor,,Reform,Lajena Walley,15
+Wayne,State Line,State Treasurer,,Republican,Lynn Fitch,306
+Wayne,State Line,State Treasurer,,Reform,Viola V. McFarland,88
+Wayne,State Line,Commissioner of Agriculture & Commerce,,Democrat,Addie Lee Green,182
+Wayne,State Line,Commissioner of Agriculture & Commerce,,Republican,Cindy Hyde-Smith,233
+Wayne,State Line,Commissioner of Agriculture & Commerce,,Reform,Cathy L. Toole,7
+Wayne,State Line,Commissioner of Insurance,,Republican,Mike Chaney,368
+Wayne,Strengthford,Governor,,Republican,Phil Bryant,98
+Wayne,Strengthford,Governor,,Democrat,Robert Gray,4
+Wayne,Strengthford,Governor,,Reform,Shawn O'Hara,3
+Wayne,Strengthford,Lieutenant Governor,,Democrat,Tim Johnson,6
+Wayne,Strengthford,Lieutenant Governor,,Republican,Tate Reeves,94
+Wayne,Strengthford,Lieutenant Governor,,Libertarian,Ron Williams,2
+Wayne,Strengthford,Lieutenant Governor,,Reform,Rosa B. Williams,1
+Wayne,Strengthford,Secretary of State,,Democrat,Charles E. Graham,5
+Wayne,Strengthford,Secretary of State,,Republican,Delbert Hosemann,98
+Wayne,Strengthford,Secretary of State,,Reform,Randy Walker,1
+Wayne,Strengthford,Attorney General,,Democrat,Jim Hood,37
+Wayne,Strengthford,Attorney General,,Republican,Mike Hurst,66
+Wayne,Strengthford,State Auditor,,Republican,Stacey E. Pickering,98
+Wayne,Strengthford,State Auditor,,Democrat,Jocelyn 'Joce' Pepper Pritchett,1
+Wayne,Strengthford,State Auditor,,Reform,Lajena Walley,4
+Wayne,Strengthford,State Treasurer,,Republican,Lynn Fitch,97
+Wayne,Strengthford,State Treasurer,,Reform,Viola V. McFarland,5
+Wayne,Strengthford,Commissioner of Agriculture & Commerce,,Democrat,Addie Lee Green,9
+Wayne,Strengthford,Commissioner of Agriculture & Commerce,,Republican,Cindy Hyde-Smith,91
+Wayne,Strengthford,Commissioner of Agriculture & Commerce,,Reform,Cathy L. Toole,3
+Wayne,Strengthford,Commissioner of Insurance,,Republican,Mike Chaney,102
+Wayne,Waynesboro City 1,Governor,,Republican,Phil Bryant,32
+Wayne,Waynesboro City 1,Governor,,Democrat,Robert Gray,289
+Wayne,Waynesboro City 1,Governor,,Reform,Shawn O'Hara,1
+Wayne,Waynesboro City 1,Lieutenant Governor,,Democrat,Tim Johnson,290
+Wayne,Waynesboro City 1,Lieutenant Governor,,Republican,Tate Reeves,27
+Wayne,Waynesboro City 1,Lieutenant Governor,,Libertarian,Ron Williams,2
+Wayne,Waynesboro City 1,Lieutenant Governor,,Reform,Rosa B. Williams,11
+Wayne,Waynesboro City 1,Secretary of State,,Democrat,Charles E. Graham,308
+Wayne,Waynesboro City 1,Secretary of State,,Republican,Delbert Hosemann,15
+Wayne,Waynesboro City 1,Secretary of State,,Reform,Randy Walker,4
+Wayne,Waynesboro City 1,Attorney General,,Democrat,Jim Hood,335
+Wayne,Waynesboro City 1,Attorney General,,Republican,Mike Hurst,7
+Wayne,Waynesboro City 1,State Auditor,,Republican,Stacey E. Pickering,31
+Wayne,Waynesboro City 1,State Auditor,,Democrat,Jocelyn 'Joce' Pepper Pritchett,295
+Wayne,Waynesboro City 1,State Auditor,,Reform,Lajena Walley,4
+Wayne,Waynesboro City 1,State Treasurer,,Republican,Lynn Fitch,102
+Wayne,Waynesboro City 1,State Treasurer,,Reform,Viola V. McFarland,177
+Wayne,Waynesboro City 1,Commissioner of Agriculture & Commerce,,Democrat,Addie Lee Green,307
+Wayne,Waynesboro City 1,Commissioner of Agriculture & Commerce,,Republican,Cindy Hyde-Smith,17
+Wayne,Waynesboro City 1,Commissioner of Agriculture & Commerce,,Reform,Cathy L. Toole,4
+Wayne,Waynesboro City 1,Commissioner of Insurance,,Republican,Mike Chaney,247
+Wayne,Waynesboro City 2,Governor,,Republican,Phil Bryant,294
+Wayne,Waynesboro City 2,Governor,,Democrat,Robert Gray,185
+Wayne,Waynesboro City 2,Governor,,Reform,Shawn O'Hara,7
+Wayne,Waynesboro City 2,Lieutenant Governor,,Democrat,Tim Johnson,207
+Wayne,Waynesboro City 2,Lieutenant Governor,,Republican,Tate Reeves,264
+Wayne,Waynesboro City 2,Lieutenant Governor,,Libertarian,Ron Williams,6
+Wayne,Waynesboro City 2,Lieutenant Governor,,Reform,Rosa B. Williams,6
+Wayne,Waynesboro City 2,Secretary of State,,Democrat,Charles E. Graham,201
+Wayne,Waynesboro City 2,Secretary of State,,Republican,Delbert Hosemann,271
+Wayne,Waynesboro City 2,Secretary of State,,Reform,Randy Walker,12
+Wayne,Waynesboro City 2,Attorney General,,Democrat,Jim Hood,280
+Wayne,Waynesboro City 2,Attorney General,,Republican,Mike Hurst,207
+Wayne,Waynesboro City 2,State Auditor,,Republican,Stacey E. Pickering,283
+Wayne,Waynesboro City 2,State Auditor,,Democrat,Jocelyn 'Joce' Pepper Pritchett,196
+Wayne,Waynesboro City 2,State Auditor,,Reform,Lajena Walley,6
+Wayne,Waynesboro City 2,State Treasurer,,Republican,Lynn Fitch,325
+Wayne,Waynesboro City 2,State Treasurer,,Reform,Viola V. McFarland,134
+Wayne,Waynesboro City 2,Commissioner of Agriculture & Commerce,,Democrat,Addie Lee Green,211
+Wayne,Waynesboro City 2,Commissioner of Agriculture & Commerce,,Republican,Cindy Hyde-Smith,268
+Wayne,Waynesboro City 2,Commissioner of Agriculture & Commerce,,Reform,Cathy L. Toole,9
+Wayne,Waynesboro City 2,Commissioner of Insurance,,Republican,Mike Chaney,417
+Wayne,Waynesboro City 3,Governor,,Republican,Phil Bryant,456
+Wayne,Waynesboro City 3,Governor,,Democrat,Robert Gray,83
+Wayne,Waynesboro City 3,Governor,,Reform,Shawn O'Hara,10
+Wayne,Waynesboro City 3,Lieutenant Governor,,Democrat,Tim Johnson,132
+Wayne,Waynesboro City 3,Lieutenant Governor,,Republican,Tate Reeves,403
+Wayne,Waynesboro City 3,Lieutenant Governor,,Libertarian,Ron Williams,9
+Wayne,Waynesboro City 3,Lieutenant Governor,,Reform,Rosa B. Williams,6
+Wayne,Waynesboro City 3,Secretary of State,,Democrat,Charles E. Graham,105
+Wayne,Waynesboro City 3,Secretary of State,,Republican,Delbert Hosemann,427
+Wayne,Waynesboro City 3,Secretary of State,,Reform,Randy Walker,15
+Wayne,Waynesboro City 3,Attorney General,,Democrat,Jim Hood,236
+Wayne,Waynesboro City 3,Attorney General,,Republican,Mike Hurst,317
+Wayne,Waynesboro City 3,State Auditor,,Republican,Stacey E. Pickering,429
+Wayne,Waynesboro City 3,State Auditor,,Democrat,Jocelyn 'Joce' Pepper Pritchett,108
+Wayne,Waynesboro City 3,State Auditor,,Reform,Lajena Walley,9
+Wayne,Waynesboro City 3,State Treasurer,,Republican,Lynn Fitch,478
+Wayne,Waynesboro City 3,State Treasurer,,Reform,Viola V. McFarland,56
+Wayne,Waynesboro City 3,Commissioner of Agriculture & Commerce,,Democrat,Addie Lee Green,110
+Wayne,Waynesboro City 3,Commissioner of Agriculture & Commerce,,Republican,Cindy Hyde-Smith,427
+Wayne,Waynesboro City 3,Commissioner of Agriculture & Commerce,,Reform,Cathy L. Toole,9
+Wayne,Waynesboro City 3,Commissioner of Insurance,,Republican,Mike Chaney,509
+Wayne,Waynesboro City 4,Governor,,Republican,Phil Bryant,94
+Wayne,Waynesboro City 4,Governor,,Democrat,Robert Gray,131
+Wayne,Waynesboro City 4,Governor,,Reform,Shawn O'Hara,5
+Wayne,Waynesboro City 4,Lieutenant Governor,,Democrat,Tim Johnson,141
+Wayne,Waynesboro City 4,Lieutenant Governor,,Republican,Tate Reeves,77
+Wayne,Waynesboro City 4,Lieutenant Governor,,Libertarian,Ron Williams,8
+Wayne,Waynesboro City 4,Lieutenant Governor,,Reform,Rosa B. Williams,5
+Wayne,Waynesboro City 4,Secretary of State,,Democrat,Charles E. Graham,142
+Wayne,Waynesboro City 4,Secretary of State,,Republican,Delbert Hosemann,85
+Wayne,Waynesboro City 4,Secretary of State,,Reform,Randy Walker,5
+Wayne,Waynesboro City 4,Attorney General,,Democrat,Jim Hood,171
+Wayne,Waynesboro City 4,Attorney General,,Republican,Mike Hurst,61
+Wayne,Waynesboro City 4,State Auditor,,Republican,Stacey E. Pickering,92
+Wayne,Waynesboro City 4,State Auditor,,Democrat,Jocelyn 'Joce' Pepper Pritchett,132
+Wayne,Waynesboro City 4,State Auditor,,Reform,Lajena Walley,7
+Wayne,Waynesboro City 4,State Treasurer,,Republican,Lynn Fitch,115
+Wayne,Waynesboro City 4,State Treasurer,,Reform,Viola V. McFarland,96
+Wayne,Waynesboro City 4,Commissioner of Agriculture & Commerce,,Democrat,Addie Lee Green,145
+Wayne,Waynesboro City 4,Commissioner of Agriculture & Commerce,,Republican,Cindy Hyde-Smith,81
+Wayne,Waynesboro City 4,Commissioner of Agriculture & Commerce,,Reform,Cathy L. Toole,4
+Wayne,Waynesboro City 4,Commissioner of Insurance,,Republican,Mike Chaney,194
+Wayne,Waynesboro City 5,Governor,,Republican,Phil Bryant,79
+Wayne,Waynesboro City 5,Governor,,Democrat,Robert Gray,96
+Wayne,Waynesboro City 5,Governor,,Reform,Shawn O'Hara,8
+Wayne,Waynesboro City 5,Lieutenant Governor,,Democrat,Tim Johnson,102
+Wayne,Waynesboro City 5,Lieutenant Governor,,Republican,Tate Reeves,70
+Wayne,Waynesboro City 5,Lieutenant Governor,,Libertarian,Ron Williams,4
+Wayne,Waynesboro City 5,Lieutenant Governor,,Reform,Rosa B. Williams,3
+Wayne,Waynesboro City 5,Secretary of State,,Democrat,Charles E. Graham,112
+Wayne,Waynesboro City 5,Secretary of State,,Republican,Delbert Hosemann,63
+Wayne,Waynesboro City 5,Secretary of State,,Reform,Randy Walker,6
+Wayne,Waynesboro City 5,Attorney General,,Democrat,Jim Hood,136
+Wayne,Waynesboro City 5,Attorney General,,Republican,Mike Hurst,46
+Wayne,Waynesboro City 5,State Auditor,,Republican,Stacey E. Pickering,71
+Wayne,Waynesboro City 5,State Auditor,,Democrat,Jocelyn 'Joce' Pepper Pritchett,101
+Wayne,Waynesboro City 5,State Auditor,,Reform,Lajena Walley,7
+Wayne,Waynesboro City 5,State Treasurer,,Republican,Lynn Fitch,96
+Wayne,Waynesboro City 5,State Treasurer,,Reform,Viola V. McFarland,64
+Wayne,Waynesboro City 5,Commissioner of Agriculture & Commerce,,Democrat,Addie Lee Green,106
+Wayne,Waynesboro City 5,Commissioner of Agriculture & Commerce,,Republican,Cindy Hyde-Smith,68
+Wayne,Waynesboro City 5,Commissioner of Agriculture & Commerce,,Reform,Cathy L. Toole,6
+Wayne,Waynesboro City 5,Commissioner of Insurance,,Republican,Mike Chaney,137
+Wayne,Winchester,Governor,,Republican,Phil Bryant,163
+Wayne,Winchester,Governor,,Democrat,Robert Gray,165
+Wayne,Winchester,Governor,,Reform,Shawn O'Hara,1
+Wayne,Winchester,Lieutenant Governor,,Democrat,Tim Johnson,175
+Wayne,Winchester,Lieutenant Governor,,Republican,Tate Reeves,138
+Wayne,Winchester,Lieutenant Governor,,Libertarian,Ron Williams,4
+Wayne,Winchester,Lieutenant Governor,,Reform,Rosa B. Williams,4
+Wayne,Winchester,Secretary of State,,Democrat,Charles E. Graham,177
+Wayne,Winchester,Secretary of State,,Republican,Delbert Hosemann,145
+Wayne,Winchester,Secretary of State,,Reform,Randy Walker,7
+Wayne,Winchester,Attorney General,,Democrat,Jim Hood,226
+Wayne,Winchester,Attorney General,,Republican,Mike Hurst,102
+Wayne,Winchester,State Auditor,,Republican,Stacey E. Pickering,150
+Wayne,Winchester,State Auditor,,Democrat,Jocelyn 'Joce' Pepper Pritchett,172
+Wayne,Winchester,State Auditor,,Reform,Lajena Walley,4
+Wayne,Winchester,State Treasurer,,Republican,Lynn Fitch,190
+Wayne,Winchester,State Treasurer,,Reform,Viola V. McFarland,104
+Wayne,Winchester,Commissioner of Agriculture & Commerce,,Democrat,Addie Lee Green,180
+Wayne,Winchester,Commissioner of Agriculture & Commerce,,Republican,Cindy Hyde-Smith,139
+Wayne,Winchester,Commissioner of Agriculture & Commerce,,Reform,Cathy L. Toole,5
+Wayne,Winchester,Commissioner of Insurance,,Republican,Mike Chaney,262
+Wayne,Yellow Creek,Governor,,Republican,Phil Bryant,201
+Wayne,Yellow Creek,Governor,,Democrat,Robert Gray,108
+Wayne,Yellow Creek,Governor,,Reform,Shawn O'Hara,4
+Wayne,Yellow Creek,Lieutenant Governor,,Democrat,Tim Johnson,118
+Wayne,Yellow Creek,Lieutenant Governor,,Republican,Tate Reeves,184
+Wayne,Yellow Creek,Lieutenant Governor,,Libertarian,Ron Williams,4
+Wayne,Yellow Creek,Lieutenant Governor,,Reform,Rosa B. Williams,4
+Wayne,Yellow Creek,Secretary of State,,Democrat,Charles E. Graham,123
+Wayne,Yellow Creek,Secretary of State,,Republican,Delbert Hosemann,175
+Wayne,Yellow Creek,Secretary of State,,Reform,Randy Walker,15
+Wayne,Yellow Creek,Attorney General,,Democrat,Jim Hood,182
+Wayne,Yellow Creek,Attorney General,,Republican,Mike Hurst,129
+Wayne,Yellow Creek,State Auditor,,Republican,Stacey E. Pickering,196
+Wayne,Yellow Creek,State Auditor,,Democrat,Jocelyn 'Joce' Pepper Pritchett,113
+Wayne,Yellow Creek,State Auditor,,Reform,Lajena Walley,6
+Wayne,Yellow Creek,State Treasurer,,Republican,Lynn Fitch,216
+Wayne,Yellow Creek,State Treasurer,,Reform,Viola V. McFarland,71
+Wayne,Yellow Creek,Commissioner of Agriculture & Commerce,,Democrat,Addie Lee Green,121
+Wayne,Yellow Creek,Commissioner of Agriculture & Commerce,,Republican,Cindy Hyde-Smith,187
+Wayne,Yellow Creek,Commissioner of Agriculture & Commerce,,Reform,Cathy L. Toole,6
+Wayne,Yellow Creek,Commissioner of Insurance,,Republican,Mike Chaney,265
