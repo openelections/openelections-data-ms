@@ -1,0 +1,421 @@
+county,precinct,office,district,party,candidate,votes
+Walthall,Tylertown,Governor,3rd District,Republican,Phil Bryant,273
+Walthall,Tylertown,Governor,3rd District,Democrat,Robert Gray,73
+Walthall,Tylertown,Governor,3rd District,Reform,Shawn O'Hara,3
+Walthall,Tylertown,Lieutenant Governor,3rd District,Democrat,Tim Johnson,75
+Walthall,Tylertown,Lieutenant Governor,3rd District,Republican,Tate Reeves,259
+Walthall,Tylertown,Lieutenant Governor,3rd District,Libertarian,Ron Williams,5
+Walthall,Tylertown,Lieutenant Governor,3rd District,Reform,Rosa B. Williams,1
+Walthall,Tylertown,Secretary of State,3rd District,Democrat,Charles E. Graham,63
+Walthall,Tylertown,Secretary of State,3rd District,Republican,Delbert Hosemann,271
+Walthall,Tylertown,Secretary of State,3rd District,Reform,Randy Walker,7
+Walthall,Tylertown,Attorney General,3rd District,Democrat,Jim Hood,174
+Walthall,Tylertown,Attorney General,3rd District,Republican,Mike Hurst,152
+Walthall,Tylertown,State Auditor,3rd District,Republican,Stacey E. Pickering,272
+Walthall,Tylertown,State Auditor,3rd District,Democrat,Jocelyn 'Joce' Pepper Pritchett,65
+Walthall,Tylertown,State Auditor,3rd District,Reform,Lajena Walley,2
+Walthall,Tylertown,State Treasurer,3rd District,Republican,Lynn Fitch,283
+Walthall,Tylertown,State Treasurer,3rd District,Reform,Viola V. McFarland,34
+Walthall,Tylertown,Commissioner of Agriculture & Commerce,3rd District,Democrat,Addie Lee Green,66
+Walthall,Tylertown,Commissioner of Agriculture & Commerce,3rd District,Republican,Cindy Hyde-Smith,268
+Walthall,Tylertown,Commissioner of Agriculture & Commerce,3rd District,Reform,Cathy L. Toole,8
+Walthall,Tylertown,Commissioner of Insurance,3rd District,Republican,Mike Chaney,304
+Walthall,Tylertown,Governor,4th District West,Republican,Phil Bryant,195
+Walthall,Tylertown,Governor,4th District West,Democrat,Robert Gray,52
+Walthall,Tylertown,Governor,4th District West,Reform,Shawn O'Hara,2
+Walthall,Tylertown,Lieutenant Governor,4th District West,Democrat,Tim Johnson,54
+Walthall,Tylertown,Lieutenant Governor,4th District West,Republican,Tate Reeves,183
+Walthall,Tylertown,Lieutenant Governor,4th District West,Libertarian,Ron Williams,7
+Walthall,Tylertown,Lieutenant Governor,4th District West,Reform,Rosa B. Williams,2
+Walthall,Tylertown,Secretary of State,4th District West,Democrat,Charles E. Graham,59
+Walthall,Tylertown,Secretary of State,4th District West,Republican,Delbert Hosemann,187
+Walthall,Tylertown,Secretary of State,4th District West,Reform,Randy Walker,4
+Walthall,Tylertown,Attorney General,4th District West,Democrat,Jim Hood,118
+Walthall,Tylertown,Attorney General,4th District West,Republican,Mike Hurst,122
+Walthall,Tylertown,State Auditor,4th District West,Republican,Stacey E. Pickering,195
+Walthall,Tylertown,State Auditor,4th District West,Democrat,Jocelyn 'Joce' Pepper Pritchett,52
+Walthall,Tylertown,State Auditor,4th District West,Reform,Lajena Walley,1
+Walthall,Tylertown,State Treasurer,4th District West,Republican,Lynn Fitch,207
+Walthall,Tylertown,State Treasurer,4th District West,Reform,Viola V. McFarland,31
+Walthall,Tylertown,Commissioner of Agriculture & Commerce,4th District West,Democrat,Addie Lee Green,50
+Walthall,Tylertown,Commissioner of Agriculture & Commerce,4th District West,Republican,Cindy Hyde-Smith,194
+Walthall,Tylertown,Commissioner of Agriculture & Commerce,4th District West,Reform,Cathy L. Toole,5
+Walthall,Tylertown,Commissioner of Insurance,4th District West,Republican,Mike Chaney,227
+Walthall,Tylertown,Governor,4th District,Republican,Phil Bryant,253
+Walthall,Tylertown,Governor,4th District,Democrat,Robert Gray,21
+Walthall,Tylertown,Governor,4th District,Reform,Shawn O'Hara,3
+Walthall,Tylertown,Lieutenant Governor,4th District,Democrat,Tim Johnson,30
+Walthall,Tylertown,Lieutenant Governor,4th District,Republican,Tate Reeves,234
+Walthall,Tylertown,Lieutenant Governor,4th District,Libertarian,Ron Williams,4
+Walthall,Tylertown,Lieutenant Governor,4th District,Reform,Rosa B. Williams,2
+Walthall,Tylertown,Secretary of State,4th District,Democrat,Charles E. Graham,30
+Walthall,Tylertown,Secretary of State,4th District,Republican,Delbert Hosemann,230
+Walthall,Tylertown,Secretary of State,4th District,Reform,Randy Walker,11
+Walthall,Tylertown,Attorney General,4th District,Democrat,Jim Hood,137
+Walthall,Tylertown,Attorney General,4th District,Republican,Mike Hurst,134
+Walthall,Tylertown,State Auditor,4th District,Republican,Stacey E. Pickering,250
+Walthall,Tylertown,State Auditor,4th District,Democrat,Jocelyn 'Joce' Pepper Pritchett,20
+Walthall,Tylertown,State Auditor,4th District,Reform,Lajena Walley,2
+Walthall,Tylertown,State Treasurer,4th District,Republican,Lynn Fitch,252
+Walthall,Tylertown,State Treasurer,4th District,Reform,Viola V. McFarland,22
+Walthall,Tylertown,Commissioner of Agriculture & Commerce,4th District,Democrat,Addie Lee Green,25
+Walthall,Tylertown,Commissioner of Agriculture & Commerce,4th District,Republican,Cindy Hyde-Smith,241
+Walthall,Tylertown,Commissioner of Agriculture & Commerce,4th District,Reform,Cathy L. Toole,5
+Walthall,Tylertown,Commissioner of Insurance,4th District,Republican,Mike Chaney,265
+Walthall,Darbun,Governor,,Republican,Phil Bryant,73
+Walthall,Darbun,Governor,,Democrat,Robert Gray,5
+Walthall,Darbun,Governor,,Reform,Shawn O'Hara,1
+Walthall,Darbun,Lieutenant Governor,,Democrat,Tim Johnson,10
+Walthall,Darbun,Lieutenant Governor,,Republican,Tate Reeves,68
+Walthall,Darbun,Lieutenant Governor,,Libertarian,Ron Williams,0
+Walthall,Darbun,Lieutenant Governor,,Reform,Rosa B. Williams,1
+Walthall,Darbun,Secretary of State,,Democrat,Charles E. Graham,8
+Walthall,Darbun,Secretary of State,,Republican,Delbert Hosemann,68
+Walthall,Darbun,Secretary of State,,Reform,Randy Walker,2
+Walthall,Darbun,Attorney General,,Democrat,Jim Hood,30
+Walthall,Darbun,Attorney General,,Republican,Mike Hurst,46
+Walthall,Darbun,State Auditor,,Republican,Stacey E. Pickering,72
+Walthall,Darbun,State Auditor,,Democrat,Jocelyn 'Joce' Pepper Pritchett,4
+Walthall,Darbun,State Auditor,,Reform,Lajena Walley,1
+Walthall,Darbun,State Treasurer,,Republican,Lynn Fitch,72
+Walthall,Darbun,State Treasurer,,Reform,Viola V. McFarland,4
+Walthall,Darbun,Commissioner of Agriculture & Commerce,,Democrat,Addie Lee Green,5
+Walthall,Darbun,Commissioner of Agriculture & Commerce,,Republican,Cindy Hyde-Smith,72
+Walthall,Darbun,Commissioner of Agriculture & Commerce,,Reform,Cathy L. Toole,0
+Walthall,Darbun,Commissioner of Insurance,,Republican,Mike Chaney,74
+Walthall,Dexter,Governor,,Republican,Phil Bryant,346
+Walthall,Dexter,Governor,,Democrat,Robert Gray,52
+Walthall,Dexter,Governor,,Reform,Shawn O'Hara,6
+Walthall,Dexter,Lieutenant Governor,,Democrat,Tim Johnson,74
+Walthall,Dexter,Lieutenant Governor,,Republican,Tate Reeves,321
+Walthall,Dexter,Lieutenant Governor,,Libertarian,Ron Williams,2
+Walthall,Dexter,Lieutenant Governor,,Reform,Rosa B. Williams,2
+Walthall,Dexter,Secretary of State,,Democrat,Charles E. Graham,76
+Walthall,Dexter,Secretary of State,,Republican,Delbert Hosemann,318
+Walthall,Dexter,Secretary of State,,Reform,Randy Walker,11
+Walthall,Dexter,Attorney General,,Democrat,Jim Hood,176
+Walthall,Dexter,Attorney General,,Republican,Mike Hurst,227
+Walthall,Dexter,State Auditor,,Republican,Stacey E. Pickering,323
+Walthall,Dexter,State Auditor,,Democrat,Jocelyn 'Joce' Pepper Pritchett,71
+Walthall,Dexter,State Auditor,,Reform,Lajena Walley,5
+Walthall,Dexter,State Treasurer,,Republican,Lynn Fitch,341
+Walthall,Dexter,State Treasurer,,Reform,Viola V. McFarland,34
+Walthall,Dexter,Commissioner of Agriculture & Commerce,,Democrat,Addie Lee Green,74
+Walthall,Dexter,Commissioner of Agriculture & Commerce,,Republican,Cindy Hyde-Smith,324
+Walthall,Dexter,Commissioner of Agriculture & Commerce,,Reform,Cathy L. Toole,4
+Walthall,Dexter,Commissioner of Insurance,,Republican,Mike Chaney,364
+Walthall,Dinan,Governor,,Republican,Phil Bryant,166
+Walthall,Dinan,Governor,,Democrat,Robert Gray,233
+Walthall,Dinan,Governor,,Reform,Shawn O'Hara,13
+Walthall,Dinan,Lieutenant Governor,,Democrat,Tim Johnson,243
+Walthall,Dinan,Lieutenant Governor,,Republican,Tate Reeves,147
+Walthall,Dinan,Lieutenant Governor,,Libertarian,Ron Williams,8
+Walthall,Dinan,Lieutenant Governor,,Reform,Rosa B. Williams,7
+Walthall,Dinan,Secretary of State,,Democrat,Charles E. Graham,256
+Walthall,Dinan,Secretary of State,,Republican,Delbert Hosemann,132
+Walthall,Dinan,Secretary of State,,Reform,Randy Walker,19
+Walthall,Dinan,Attorney General,,Democrat,Jim Hood,333
+Walthall,Dinan,Attorney General,,Republican,Mike Hurst,74
+Walthall,Dinan,State Auditor,,Republican,Stacey E. Pickering,149
+Walthall,Dinan,State Auditor,,Democrat,Jocelyn 'Joce' Pepper Pritchett,250
+Walthall,Dinan,State Auditor,,Reform,Lajena Walley,6
+Walthall,Dinan,State Treasurer,,Republican,Lynn Fitch,234
+Walthall,Dinan,State Treasurer,,Reform,Viola V. McFarland,124
+Walthall,Dinan,Commissioner of Agriculture & Commerce,,Democrat,Addie Lee Green,256
+Walthall,Dinan,Commissioner of Agriculture & Commerce,,Republican,Cindy Hyde-Smith,141
+Walthall,Dinan,Commissioner of Agriculture & Commerce,,Reform,Cathy L. Toole,6
+Walthall,Dinan,Commissioner of Insurance,,Republican,Mike Chaney,296
+Walthall,East Tylertown,Governor,,Republican,Phil Bryant,48
+Walthall,East Tylertown,Governor,,Democrat,Robert Gray,6
+Walthall,East Tylertown,Governor,,Reform,Shawn O'Hara,1
+Walthall,East Tylertown,Lieutenant Governor,,Democrat,Tim Johnson,10
+Walthall,East Tylertown,Lieutenant Governor,,Republican,Tate Reeves,43
+Walthall,East Tylertown,Lieutenant Governor,,Libertarian,Ron Williams,2
+Walthall,East Tylertown,Lieutenant Governor,,Reform,Rosa B. Williams,0
+Walthall,East Tylertown,Secretary of State,,Democrat,Charles E. Graham,7
+Walthall,East Tylertown,Secretary of State,,Republican,Delbert Hosemann,46
+Walthall,East Tylertown,Secretary of State,,Reform,Randy Walker,2
+Walthall,East Tylertown,Attorney General,,Democrat,Jim Hood,27
+Walthall,East Tylertown,Attorney General,,Republican,Mike Hurst,28
+Walthall,East Tylertown,State Auditor,,Republican,Stacey E. Pickering,46
+Walthall,East Tylertown,State Auditor,,Democrat,Jocelyn 'Joce' Pepper Pritchett,7
+Walthall,East Tylertown,State Auditor,,Reform,Lajena Walley,1
+Walthall,East Tylertown,State Treasurer,,Republican,Lynn Fitch,51
+Walthall,East Tylertown,State Treasurer,,Reform,Viola V. McFarland,3
+Walthall,East Tylertown,Commissioner of Agriculture & Commerce,,Democrat,Addie Lee Green,8
+Walthall,East Tylertown,Commissioner of Agriculture & Commerce,,Republican,Cindy Hyde-Smith,43
+Walthall,East Tylertown,Commissioner of Agriculture & Commerce,,Reform,Cathy L. Toole,1
+Walthall,East Tylertown,Commissioner of Insurance,,Republican,Mike Chaney,53
+Walthall,Enon,Governor,,Republican,Phil Bryant,123
+Walthall,Enon,Governor,,Democrat,Robert Gray,21
+Walthall,Enon,Governor,,Reform,Shawn O'Hara,1
+Walthall,Enon,Lieutenant Governor,,Democrat,Tim Johnson,27
+Walthall,Enon,Lieutenant Governor,,Republican,Tate Reeves,117
+Walthall,Enon,Lieutenant Governor,,Libertarian,Ron Williams,0
+Walthall,Enon,Lieutenant Governor,,Reform,Rosa B. Williams,0
+Walthall,Enon,Secretary of State,,Democrat,Charles E. Graham,24
+Walthall,Enon,Secretary of State,,Republican,Delbert Hosemann,117
+Walthall,Enon,Secretary of State,,Reform,Randy Walker,1
+Walthall,Enon,Attorney General,,Democrat,Jim Hood,55
+Walthall,Enon,Attorney General,,Republican,Mike Hurst,83
+Walthall,Enon,State Auditor,,Republican,Stacey E. Pickering,118
+Walthall,Enon,State Auditor,,Democrat,Jocelyn 'Joce' Pepper Pritchett,23
+Walthall,Enon,State Auditor,,Reform,Lajena Walley,1
+Walthall,Enon,State Treasurer,,Republican,Lynn Fitch,116
+Walthall,Enon,State Treasurer,,Reform,Viola V. McFarland,11
+Walthall,Enon,Commissioner of Agriculture & Commerce,,Democrat,Addie Lee Green,21
+Walthall,Enon,Commissioner of Agriculture & Commerce,,Republican,Cindy Hyde-Smith,120
+Walthall,Enon,Commissioner of Agriculture & Commerce,,Reform,Cathy L. Toole,4
+Walthall,Enon,Commissioner of Insurance,,Republican,Mike Chaney,127
+Walthall,Hope,Governor,,Republican,Phil Bryant,35
+Walthall,Hope,Governor,,Democrat,Robert Gray,110
+Walthall,Hope,Governor,,Reform,Shawn O'Hara,1
+Walthall,Hope,Lieutenant Governor,,Democrat,Tim Johnson,110
+Walthall,Hope,Lieutenant Governor,,Republican,Tate Reeves,31
+Walthall,Hope,Lieutenant Governor,,Libertarian,Ron Williams,2
+Walthall,Hope,Lieutenant Governor,,Reform,Rosa B. Williams,5
+Walthall,Hope,Secretary of State,,Democrat,Charles E. Graham,117
+Walthall,Hope,Secretary of State,,Republican,Delbert Hosemann,19
+Walthall,Hope,Secretary of State,,Reform,Randy Walker,7
+Walthall,Hope,Attorney General,,Democrat,Jim Hood,133
+Walthall,Hope,Attorney General,,Republican,Mike Hurst,16
+Walthall,Hope,State Auditor,,Republican,Stacey E. Pickering,27
+Walthall,Hope,State Auditor,,Democrat,Jocelyn 'Joce' Pepper Pritchett,117
+Walthall,Hope,State Auditor,,Reform,Lajena Walley,2
+Walthall,Hope,State Treasurer,,Republican,Lynn Fitch,56
+Walthall,Hope,State Treasurer,,Reform,Viola V. McFarland,57
+Walthall,Hope,Commissioner of Agriculture & Commerce,,Democrat,Addie Lee Green,119
+Walthall,Hope,Commissioner of Agriculture & Commerce,,Republican,Cindy Hyde-Smith,24
+Walthall,Hope,Commissioner of Agriculture & Commerce,,Reform,Cathy L. Toole,4
+Walthall,Hope,Commissioner of Insurance,,Republican,Mike Chaney,91
+Walthall,Improve,Governor,,Republican,Phil Bryant,255
+Walthall,Improve,Governor,,Democrat,Robert Gray,58
+Walthall,Improve,Governor,,Reform,Shawn O'Hara,4
+Walthall,Improve,Lieutenant Governor,,Democrat,Tim Johnson,63
+Walthall,Improve,Lieutenant Governor,,Republican,Tate Reeves,228
+Walthall,Improve,Lieutenant Governor,,Libertarian,Ron Williams,10
+Walthall,Improve,Lieutenant Governor,,Reform,Rosa B. Williams,5
+Walthall,Improve,Secretary of State,,Democrat,Charles E. Graham,69
+Walthall,Improve,Secretary of State,,Republican,Delbert Hosemann,217
+Walthall,Improve,Secretary of State,,Reform,Randy Walker,9
+Walthall,Improve,Attorney General,,Democrat,Jim Hood,132
+Walthall,Improve,Attorney General,,Republican,Mike Hurst,171
+Walthall,Improve,State Auditor,,Republican,Stacey E. Pickering,229
+Walthall,Improve,State Auditor,,Democrat,Jocelyn 'Joce' Pepper Pritchett,68
+Walthall,Improve,State Auditor,,Reform,Lajena Walley,4
+Walthall,Improve,State Treasurer,,Republican,Lynn Fitch,239
+Walthall,Improve,State Treasurer,,Reform,Viola V. McFarland,35
+Walthall,Improve,Commissioner of Agriculture & Commerce,,Democrat,Addie Lee Green,68
+Walthall,Improve,Commissioner of Agriculture & Commerce,,Republican,Cindy Hyde-Smith,222
+Walthall,Improve,Commissioner of Agriculture & Commerce,,Reform,Cathy L. Toole,8
+Walthall,Improve,Commissioner of Insurance,,Republican,Mike Chaney,248
+Walthall,Lexie,Governor,,Republican,Phil Bryant,347
+Walthall,Lexie,Governor,,Democrat,Robert Gray,57
+Walthall,Lexie,Governor,,Reform,Shawn O'Hara,6
+Walthall,Lexie,Lieutenant Governor,,Democrat,Tim Johnson,71
+Walthall,Lexie,Lieutenant Governor,,Republican,Tate Reeves,326
+Walthall,Lexie,Lieutenant Governor,,Libertarian,Ron Williams,10
+Walthall,Lexie,Lieutenant Governor,,Reform,Rosa B. Williams,3
+Walthall,Lexie,Secretary of State,,Democrat,Charles E. Graham,76
+Walthall,Lexie,Secretary of State,,Republican,Delbert Hosemann,306
+Walthall,Lexie,Secretary of State,,Reform,Randy Walker,24
+Walthall,Lexie,Attorney General,,Democrat,Jim Hood,198
+Walthall,Lexie,Attorney General,,Republican,Mike Hurst,205
+Walthall,Lexie,State Auditor,,Republican,Stacey E. Pickering,333
+Walthall,Lexie,State Auditor,,Democrat,Jocelyn 'Joce' Pepper Pritchett,63
+Walthall,Lexie,State Auditor,,Reform,Lajena Walley,10
+Walthall,Lexie,State Treasurer,,Republican,Lynn Fitch,348
+Walthall,Lexie,State Treasurer,,Reform,Viola V. McFarland,44
+Walthall,Lexie,Commissioner of Agriculture & Commerce,,Democrat,Addie Lee Green,62
+Walthall,Lexie,Commissioner of Agriculture & Commerce,,Republican,Cindy Hyde-Smith,324
+Walthall,Lexie,Commissioner of Agriculture & Commerce,,Reform,Cathy L. Toole,18
+Walthall,Lexie,Commissioner of Insurance,,Republican,Mike Chaney,383
+Walthall,Mesa,Governor,,Republican,Phil Bryant,40
+Walthall,Mesa,Governor,,Democrat,Robert Gray,6
+Walthall,Mesa,Governor,,Reform,Shawn O'Hara,0
+Walthall,Mesa,Lieutenant Governor,,Democrat,Tim Johnson,3
+Walthall,Mesa,Lieutenant Governor,,Republican,Tate Reeves,42
+Walthall,Mesa,Lieutenant Governor,,Libertarian,Ron Williams,1
+Walthall,Mesa,Lieutenant Governor,,Reform,Rosa B. Williams,0
+Walthall,Mesa,Secretary of State,,Democrat,Charles E. Graham,6
+Walthall,Mesa,Secretary of State,,Republican,Delbert Hosemann,39
+Walthall,Mesa,Secretary of State,,Reform,Randy Walker,0
+Walthall,Mesa,Attorney General,,Democrat,Jim Hood,21
+Walthall,Mesa,Attorney General,,Republican,Mike Hurst,26
+Walthall,Mesa,State Auditor,,Republican,Stacey E. Pickering,40
+Walthall,Mesa,State Auditor,,Democrat,Jocelyn 'Joce' Pepper Pritchett,6
+Walthall,Mesa,State Auditor,,Reform,Lajena Walley,0
+Walthall,Mesa,State Treasurer,,Republican,Lynn Fitch,44
+Walthall,Mesa,State Treasurer,,Reform,Viola V. McFarland,3
+Walthall,Mesa,Commissioner of Agriculture & Commerce,,Democrat,Addie Lee Green,5
+Walthall,Mesa,Commissioner of Agriculture & Commerce,,Republican,Cindy Hyde-Smith,41
+Walthall,Mesa,Commissioner of Agriculture & Commerce,,Reform,Cathy L. Toole,0
+Walthall,Mesa,Commissioner of Insurance,,Republican,Mike Chaney,44
+Walthall,Midway,Governor,,Republican,Phil Bryant,126
+Walthall,Midway,Governor,,Democrat,Robert Gray,37
+Walthall,Midway,Governor,,Reform,Shawn O'Hara,1
+Walthall,Midway,Lieutenant Governor,,Democrat,Tim Johnson,36
+Walthall,Midway,Lieutenant Governor,,Republican,Tate Reeves,118
+Walthall,Midway,Lieutenant Governor,,Libertarian,Ron Williams,3
+Walthall,Midway,Lieutenant Governor,,Reform,Rosa B. Williams,0
+Walthall,Midway,Secretary of State,,Democrat,Charles E. Graham,43
+Walthall,Midway,Secretary of State,,Republican,Delbert Hosemann,108
+Walthall,Midway,Secretary of State,,Reform,Randy Walker,7
+Walthall,Midway,Attorney General,,Democrat,Jim Hood,74
+Walthall,Midway,Attorney General,,Republican,Mike Hurst,85
+Walthall,Midway,State Auditor,,Republican,Stacey E. Pickering,121
+Walthall,Midway,State Auditor,,Democrat,Jocelyn 'Joce' Pepper Pritchett,37
+Walthall,Midway,State Auditor,,Reform,Lajena Walley,2
+Walthall,Midway,State Treasurer,,Republican,Lynn Fitch,132
+Walthall,Midway,State Treasurer,,Reform,Viola V. McFarland,21
+Walthall,Midway,Commissioner of Agriculture & Commerce,,Democrat,Addie Lee Green,39
+Walthall,Midway,Commissioner of Agriculture & Commerce,,Republican,Cindy Hyde-Smith,120
+Walthall,Midway,Commissioner of Agriculture & Commerce,,Reform,Cathy L. Toole,2
+Walthall,Midway,Commissioner of Insurance,,Republican,Mike Chaney,147
+Walthall,North Kirklin,Governor,,Republican,Phil Bryant,165
+Walthall,North Kirklin,Governor,,Democrat,Robert Gray,115
+Walthall,North Kirklin,Governor,,Reform,Shawn O'Hara,5
+Walthall,North Kirklin,Lieutenant Governor,,Democrat,Tim Johnson,121
+Walthall,North Kirklin,Lieutenant Governor,,Republican,Tate Reeves,147
+Walthall,North Kirklin,Lieutenant Governor,,Libertarian,Ron Williams,7
+Walthall,North Kirklin,Lieutenant Governor,,Reform,Rosa B. Williams,7
+Walthall,North Kirklin,Secretary of State,,Democrat,Charles E. Graham,128
+Walthall,North Kirklin,Secretary of State,,Republican,Delbert Hosemann,138
+Walthall,North Kirklin,Secretary of State,,Reform,Randy Walker,11
+Walthall,North Kirklin,Attorney General,,Democrat,Jim Hood,201
+Walthall,North Kirklin,Attorney General,,Republican,Mike Hurst,82
+Walthall,North Kirklin,State Auditor,,Republican,Stacey E. Pickering,151
+Walthall,North Kirklin,State Auditor,,Democrat,Jocelyn 'Joce' Pepper Pritchett,121
+Walthall,North Kirklin,State Auditor,,Reform,Lajena Walley,3
+Walthall,North Kirklin,State Treasurer,,Republican,Lynn Fitch,190
+Walthall,North Kirklin,State Treasurer,,Reform,Viola V. McFarland,63
+Walthall,North Kirklin,Commissioner of Agriculture & Commerce,,Democrat,Addie Lee Green,127
+Walthall,North Kirklin,Commissioner of Agriculture & Commerce,,Republican,Cindy Hyde-Smith,148
+Walthall,North Kirklin,Commissioner of Agriculture & Commerce,,Reform,Cathy L. Toole,9
+Walthall,North Kirklin,Commissioner of Insurance,,Republican,Mike Chaney,219
+Walthall,North Knoxo,Governor,,Republican,Phil Bryant,93
+Walthall,North Knoxo,Governor,,Democrat,Robert Gray,298
+Walthall,North Knoxo,Governor,,Reform,Shawn O'Hara,10
+Walthall,North Knoxo,Lieutenant Governor,,Democrat,Tim Johnson,283
+Walthall,North Knoxo,Lieutenant Governor,,Republican,Tate Reeves,85
+Walthall,North Knoxo,Lieutenant Governor,,Libertarian,Ron Williams,8
+Walthall,North Knoxo,Lieutenant Governor,,Reform,Rosa B. Williams,8
+Walthall,North Knoxo,Secretary of State,,Democrat,Charles E. Graham,306
+Walthall,North Knoxo,Secretary of State,,Republican,Delbert Hosemann,62
+Walthall,North Knoxo,Secretary of State,,Reform,Randy Walker,20
+Walthall,North Knoxo,Attorney General,,Democrat,Jim Hood,365
+Walthall,North Knoxo,Attorney General,,Republican,Mike Hurst,36
+Walthall,North Knoxo,State Auditor,,Republican,Stacey E. Pickering,81
+Walthall,North Knoxo,State Auditor,,Democrat,Jocelyn 'Joce' Pepper Pritchett,290
+Walthall,North Knoxo,State Auditor,,Reform,Lajena Walley,12
+Walthall,North Knoxo,State Treasurer,,Republican,Lynn Fitch,163
+Walthall,North Knoxo,State Treasurer,,Reform,Viola V. McFarland,161
+Walthall,North Knoxo,Commissioner of Agriculture & Commerce,,Democrat,Addie Lee Green,313
+Walthall,North Knoxo,Commissioner of Agriculture & Commerce,,Republican,Cindy Hyde-Smith,64
+Walthall,North Knoxo,Commissioner of Agriculture & Commerce,,Reform,Cathy L. Toole,13
+Walthall,North Knoxo,Commissioner of Insurance,,Republican,Mike Chaney,247
+Walthall,Sartinsville,Governor,,Republican,Phil Bryant,111
+Walthall,Sartinsville,Governor,,Democrat,Robert Gray,30
+Walthall,Sartinsville,Governor,,Reform,Shawn O'Hara,0
+Walthall,Sartinsville,Lieutenant Governor,,Democrat,Tim Johnson,39
+Walthall,Sartinsville,Lieutenant Governor,,Republican,Tate Reeves,96
+Walthall,Sartinsville,Lieutenant Governor,,Libertarian,Ron Williams,4
+Walthall,Sartinsville,Lieutenant Governor,,Reform,Rosa B. Williams,1
+Walthall,Sartinsville,Secretary of State,,Democrat,Charles E. Graham,41
+Walthall,Sartinsville,Secretary of State,,Republican,Delbert Hosemann,90
+Walthall,Sartinsville,Secretary of State,,Reform,Randy Walker,6
+Walthall,Sartinsville,Attorney General,,Democrat,Jim Hood,79
+Walthall,Sartinsville,Attorney General,,Republican,Mike Hurst,55
+Walthall,Sartinsville,State Auditor,,Republican,Stacey E. Pickering,100
+Walthall,Sartinsville,State Auditor,,Democrat,Jocelyn 'Joce' Pepper Pritchett,37
+Walthall,Sartinsville,State Auditor,,Reform,Lajena Walley,1
+Walthall,Sartinsville,State Treasurer,,Republican,Lynn Fitch,111
+Walthall,Sartinsville,State Treasurer,,Reform,Viola V. McFarland,14
+Walthall,Sartinsville,Commissioner of Agriculture & Commerce,,Democrat,Addie Lee Green,39
+Walthall,Sartinsville,Commissioner of Agriculture & Commerce,,Republican,Cindy Hyde-Smith,103
+Walthall,Sartinsville,Commissioner of Agriculture & Commerce,,Reform,Cathy L. Toole,2
+Walthall,Sartinsville,Commissioner of Insurance,,Republican,Mike Chaney,113
+Walthall,South Kirklin,Governor,,Republican,Phil Bryant,93
+Walthall,South Kirklin,Governor,,Democrat,Robert Gray,16
+Walthall,South Kirklin,Governor,,Reform,Shawn O'Hara,4
+Walthall,South Kirklin,Lieutenant Governor,,Democrat,Tim Johnson,20
+Walthall,South Kirklin,Lieutenant Governor,,Republican,Tate Reeves,89
+Walthall,South Kirklin,Lieutenant Governor,,Libertarian,Ron Williams,4
+Walthall,South Kirklin,Lieutenant Governor,,Reform,Rosa B. Williams,0
+Walthall,South Kirklin,Secretary of State,,Democrat,Charles E. Graham,24
+Walthall,South Kirklin,Secretary of State,,Republican,Delbert Hosemann,85
+Walthall,South Kirklin,Secretary of State,,Reform,Randy Walker,5
+Walthall,South Kirklin,Attorney General,,Democrat,Jim Hood,59
+Walthall,South Kirklin,Attorney General,,Republican,Mike Hurst,54
+Walthall,South Kirklin,State Auditor,,Republican,Stacey E. Pickering,85
+Walthall,South Kirklin,State Auditor,,Democrat,Jocelyn 'Joce' Pepper Pritchett,24
+Walthall,South Kirklin,State Auditor,,Reform,Lajena Walley,4
+Walthall,South Kirklin,State Treasurer,,Republican,Lynn Fitch,100
+Walthall,South Kirklin,State Treasurer,,Reform,Viola V. McFarland,9
+Walthall,South Kirklin,Commissioner of Agriculture & Commerce,,Democrat,Addie Lee Green,24
+Walthall,South Kirklin,Commissioner of Agriculture & Commerce,,Republican,Cindy Hyde-Smith,87
+Walthall,South Kirklin,Commissioner of Agriculture & Commerce,,Reform,Cathy L. Toole,2
+Walthall,South Kirklin,Commissioner of Insurance,,Republican,Mike Chaney,100
+Walthall,St. Paul,Governor,,Republican,Phil Bryant,62
+Walthall,St. Paul,Governor,,Democrat,Robert Gray,85
+Walthall,St. Paul,Governor,,Reform,Shawn O'Hara,3
+Walthall,St. Paul,Lieutenant Governor,,Democrat,Tim Johnson,84
+Walthall,St. Paul,Lieutenant Governor,,Republican,Tate Reeves,57
+Walthall,St. Paul,Lieutenant Governor,,Libertarian,Ron Williams,3
+Walthall,St. Paul,Lieutenant Governor,,Reform,Rosa B. Williams,1
+Walthall,St. Paul,Secretary of State,,Democrat,Charles E. Graham,97
+Walthall,St. Paul,Secretary of State,,Republican,Delbert Hosemann,48
+Walthall,St. Paul,Secretary of State,,Reform,Randy Walker,3
+Walthall,St. Paul,Attorney General,,Democrat,Jim Hood,112
+Walthall,St. Paul,Attorney General,,Republican,Mike Hurst,35
+Walthall,St. Paul,State Auditor,,Republican,Stacey E. Pickering,52
+Walthall,St. Paul,State Auditor,,Democrat,Jocelyn 'Joce' Pepper Pritchett,90
+Walthall,St. Paul,State Auditor,,Reform,Lajena Walley,4
+Walthall,St. Paul,State Treasurer,,Republican,Lynn Fitch,69
+Walthall,St. Paul,State Treasurer,,Reform,Viola V. McFarland,46
+Walthall,St. Paul,Commissioner of Agriculture & Commerce,,Democrat,Addie Lee Green,100
+Walthall,St. Paul,Commissioner of Agriculture & Commerce,,Republican,Cindy Hyde-Smith,46
+Walthall,St. Paul,Commissioner of Agriculture & Commerce,,Reform,Cathy L. Toole,3
+Walthall,St. Paul,Commissioner of Insurance,,Republican,Mike Chaney,100
+Walthall,Varnel,Governor,,Republican,Phil Bryant,339
+Walthall,Varnel,Governor,,Democrat,Robert Gray,76
+Walthall,Varnel,Governor,,Reform,Shawn O'Hara,4
+Walthall,Varnel,Lieutenant Governor,,Democrat,Tim Johnson,86
+Walthall,Varnel,Lieutenant Governor,,Republican,Tate Reeves,307
+Walthall,Varnel,Lieutenant Governor,,Libertarian,Ron Williams,14
+Walthall,Varnel,Lieutenant Governor,,Reform,Rosa B. Williams,4
+Walthall,Varnel,Secretary of State,,Democrat,Charles E. Graham,97
+Walthall,Varnel,Secretary of State,,Republican,Delbert Hosemann,293
+Walthall,Varnel,Secretary of State,,Reform,Randy Walker,18
+Walthall,Varnel,Attorney General,,Democrat,Jim Hood,202
+Walthall,Varnel,Attorney General,,Republican,Mike Hurst,208
+Walthall,Varnel,State Auditor,,Republican,Stacey E. Pickering,323
+Walthall,Varnel,State Auditor,,Democrat,Jocelyn 'Joce' Pepper Pritchett,82
+Walthall,Varnel,State Auditor,,Reform,Lajena Walley,3
+Walthall,Varnel,State Treasurer,,Republican,Lynn Fitch,353
+Walthall,Varnel,State Treasurer,,Reform,Viola V. McFarland,43
+Walthall,Varnel,Commissioner of Agriculture & Commerce,,Democrat,Addie Lee Green,91
+Walthall,Varnel,Commissioner of Agriculture & Commerce,,Republican,Cindy Hyde-Smith,304
+Walthall,Varnel,Commissioner of Agriculture & Commerce,,Reform,Cathy L. Toole,11
+Walthall,Varnel,Commissioner of Insurance,,Republican,Mike Chaney,368
+Walthall,West Tylertown,Governor,,Republican,Phil Bryant,159
+Walthall,West Tylertown,Governor,,Democrat,Robert Gray,109
+Walthall,West Tylertown,Governor,,Reform,Shawn O'Hara,8
+Walthall,West Tylertown,Lieutenant Governor,,Democrat,Tim Johnson,105
+Walthall,West Tylertown,Lieutenant Governor,,Republican,Tate Reeves,151
+Walthall,West Tylertown,Lieutenant Governor,,Libertarian,Ron Williams,8
+Walthall,West Tylertown,Lieutenant Governor,,Reform,Rosa B. Williams,7
+Walthall,West Tylertown,Secretary of State,,Democrat,Charles E. Graham,115
+Walthall,West Tylertown,Secretary of State,,Republican,Delbert Hosemann,149
+Walthall,West Tylertown,Secretary of State,,Reform,Randy Walker,15
+Walthall,West Tylertown,Attorney General,,Democrat,Jim Hood,187
+Walthall,West Tylertown,Attorney General,,Republican,Mike Hurst,91
+Walthall,West Tylertown,State Auditor,,Republican,Stacey E. Pickering,164
+Walthall,West Tylertown,State Auditor,,Democrat,Jocelyn 'Joce' Pepper Pritchett,105
+Walthall,West Tylertown,State Auditor,,Reform,Lajena Walley,4
+Walthall,West Tylertown,State Treasurer,,Republican,Lynn Fitch,189
+Walthall,West Tylertown,State Treasurer,,Reform,Viola V. McFarland,55
+Walthall,West Tylertown,Commissioner of Agriculture & Commerce,,Democrat,Addie Lee Green,122
+Walthall,West Tylertown,Commissioner of Agriculture & Commerce,,Republican,Cindy Hyde-Smith,146
+Walthall,West Tylertown,Commissioner of Agriculture & Commerce,,Reform,Cathy L. Toole,4
+Walthall,West Tylertown,Commissioner of Insurance,,Republican,Mike Chaney,216
