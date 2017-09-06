@@ -1,1 +1,934 @@
-county,office,district,party,candidate,votesAdams,President,,Democrat,Hillary Clinton,7757Adams,President,,Republican,Donald J. Trump,5874Adams,President,,Constitution,Darrell Castle,27Adams,President,,American Delta,Roque 'Rocky' De La Fuente,12Adams,President,,Prohibition,Jim Hedges,9Adams,President,,Libertarian,Gary Johnson,125Adams,President,,Green,Jill Stein,32Alcorn,President,,Democrat,Hillary Clinton,2684Alcorn,President,,Republican,Donald J. Trump,11819Alcorn,President,,Constitution,Darrell Castle,56Alcorn,President,,American Delta,Roque 'Rocky' De La Fuente,7Alcorn,President,,Prohibition,Jim Hedges,12Alcorn,President,,Libertarian,Gary Johnson,167Alcorn,President,,Green,Jill Stein,38Amite,President,,Democrat,Hillary Clinton,2697Amite,President,,Republican,Donald J. Trump,4289Amite,President,,Constitution,Darrell Castle,9Amite,President,,American Delta,Roque 'Rocky' De La Fuente,4Amite,President,,Prohibition,Jim Hedges,5Amite,President,,Libertarian,Gary Johnson,38Amite,President,,Green,Jill Stein,8Attala,President,,Democrat,Hillary Clinton,3242Attala,President,,Republican,Donald J. Trump,4897Attala,President,,Constitution,Darrell Castle,32Attala,President,,American Delta,Roque 'Rocky' De La Fuente,3Attala,President,,Prohibition,Jim Hedges,8Attala,President,,Libertarian,Gary Johnson,57Attala,President,,Green,Jill Stein,17Benton,President,,Democrat,Hillary Clinton,1719Benton,President,,Republican,Donald J. Trump,2251Benton,President,,Constitution,Darrell Castle,5Benton,President,,American Delta,Roque 'Rocky' De La Fuente,1Benton,President,,Prohibition,Jim Hedges,0Benton,President,,Libertarian,Gary Johnson,28Benton,President,,Green,Jill Stein,9Bolivar,President,,Democrat,Hillary Clinton,9046Bolivar,President,,Republican,Donald J. Trump,4590Bolivar,President,,Constitution,Darrell Castle,32Bolivar,President,,American Delta,Roque 'Rocky' De La Fuente,7Bolivar,President,,Prohibition,Jim Hedges,11Bolivar,President,,Libertarian,Gary Johnson,100Bolivar,President,,Green,Jill Stein,38Calhoun,President,,Democrat,Hillary Clinton,1910Calhoun,President,,Republican,Donald J. Trump,4390Calhoun,President,,Constitution,Darrell Castle,26Calhoun,President,,American Delta,Roque 'Rocky' De La Fuente,5Calhoun,President,,Prohibition,Jim Hedges,5Calhoun,President,,Libertarian,Gary Johnson,49Calhoun,President,,Green,Jill Stein,11Carroll,President,,Democrat,Hillary Clinton,1680Carroll,President,,Republican,Donald J. Trump,3799Carroll,President,,Constitution,Darrell Castle,6Carroll,President,,American Delta,Roque 'Rocky' De La Fuente,3Carroll,President,,Prohibition,Jim Hedges,2Carroll,President,,Libertarian,Gary Johnson,29Carroll,President,,Green,Jill Stein,9Chickasaw,President,,Democrat,Hillary Clinton,3649Chickasaw,President,,Republican,Donald J. Trump,4127Chickasaw,President,,Constitution,Darrell Castle,25Chickasaw,President,,American Delta,Roque 'Rocky' De La Fuente,6Chickasaw,President,,Prohibition,Jim Hedges,10Chickasaw,President,,Libertarian,Gary Johnson,61Chickasaw,President,,Green,Jill Stein,12Choctaw,President,,Democrat,Hillary Clinton,1218Choctaw,President,,Republican,Donald J. Trump,2788Choctaw,President,,Constitution,Darrell Castle,12Choctaw,President,,American Delta,Roque 'Rocky' De La Fuente,6Choctaw,President,,Prohibition,Jim Hedges,3Choctaw,President,,Libertarian,Gary Johnson,26Choctaw,President,,Green,Jill Stein,12Claiborne,President,,Democrat,Hillary Clinton,3708Claiborne,President,,Republican,Donald J. Trump,540Claiborne,President,,Constitution,Darrell Castle,6Claiborne,President,,American Delta,Roque 'Rocky' De La Fuente,4Claiborne,President,,Prohibition,Jim Hedges,2Claiborne,President,,Libertarian,Gary Johnson,7Claiborne,President,,Green,Jill Stein,5Clarke,President,,Democrat,Hillary Clinton,2585Clarke,President,,Republican,Donald J. Trump,5137Clarke,President,,Constitution,Darrell Castle,21Clarke,President,,American Delta,Roque 'Rocky' De La Fuente,3Clarke,President,,Prohibition,Jim Hedges,1Clarke,President,,Libertarian,Gary Johnson,29Clarke,President,,Green,Jill Stein,15Clay,President,,Democrat,Hillary Clinton,5722Clay,President,,Republican,Donald J. Trump,4150Clay,President,,Constitution,Darrell Castle,25Clay,President,,American Delta,Roque 'Rocky' De La Fuente,8Clay,President,,Prohibition,Jim Hedges,9Clay,President,,Libertarian,Gary Johnson,69Clay,President,,Green,Jill Stein,20Coahoma,President,,Democrat,Hillary Clinton,6378Coahoma,President,,Republican,Donald J. Trump,2426Coahoma,President,,Constitution,Darrell Castle,31Coahoma,President,,American Delta,Roque 'Rocky' De La Fuente,4Coahoma,President,,Prohibition,Jim Hedges,7Coahoma,President,,Libertarian,Gary Johnson,53Coahoma,President,,Green,Jill Stein,13Copiah,President,,Democrat,Hillary Clinton,6741Copiah,President,,Republican,Donald J. Trump,6103Copiah,President,,Constitution,Darrell Castle,26Copiah,President,,American Delta,Roque 'Rocky' De La Fuente,7Copiah,President,,Prohibition,Jim Hedges,16Copiah,President,,Libertarian,Gary Johnson,73Copiah,President,,Green,Jill Stein,16Covington,President,,Democrat,Hillary Clinton,3276Covington,President,,Republican,Donald J. Trump,5435Covington,President,,Constitution,Darrell Castle,20Covington,President,,American Delta,Roque 'Rocky' De La Fuente,4Covington,President,,Prohibition,Jim Hedges,3Covington,President,,Libertarian,Gary Johnson,61Covington,President,,Green,Jill Stein,12Desoto,President,,Democrat,Hillary Clinton,20591Desoto,President,,Republican,Donald J. Trump,43089Desoto,President,,Constitution,Darrell Castle,335Desoto,President,,American Delta,Roque 'Rocky' De La Fuente,31Desoto,President,,Prohibition,Jim Hedges,12Desoto,President,,Libertarian,Gary Johnson,1329Desoto,President,,Green,Jill Stein,308Forrest,President,,Democrat,Hillary Clinton,11716Forrest,President,,Republican,Donald J. Trump,15461Forrest,President,,Constitution,Darrell Castle,115Forrest,President,,American Delta,Roque 'Rocky' De La Fuente,9Forrest,President,,Prohibition,Jim Hedges,16Forrest,President,,Libertarian,Gary Johnson,598Forrest,President,,Green,Jill Stein,149Franklin,President,,Democrat,Hillary Clinton,1502Franklin,President,,Republican,Donald J. Trump,2721Franklin,President,,Constitution,Darrell Castle,23Franklin,President,,American Delta,Roque 'Rocky' De La Fuente,2Franklin,President,,Prohibition,Jim Hedges,4Franklin,President,,Libertarian,Gary Johnson,22Franklin,President,,Green,Jill Stein,16George,President,,Democrat,Hillary Clinton,1027George,President,,Republican,Donald J. Trump,8696George,President,,Constitution,Darrell Castle,44George,President,,American Delta,Roque 'Rocky' De La Fuente,6George,President,,Prohibition,Jim Hedges,7George,President,,Libertarian,Gary Johnson,91George,President,,Green,Jill Stein,20Greene,President,,Democrat,Hillary Clinton,974Greene,President,,Republican,Donald J. Trump,4335Greene,President,,Constitution,Darrell Castle,21Greene,President,,American Delta,Roque 'Rocky' De La Fuente,4Greene,President,,Prohibition,Jim Hedges,3Greene,President,,Libertarian,Gary Johnson,28Greene,President,,Green,Jill Stein,4Grenada,President,,Democrat,Hillary Clinton,4424Grenada,President,,Republican,Donald J. Trump,5970Grenada,President,,Constitution,Darrell Castle,17Grenada,President,,American Delta,Roque 'Rocky' De La Fuente,3Grenada,President,,Prohibition,Jim Hedges,8Grenada,President,,Libertarian,Gary Johnson,69Grenada,President,,Green,Jill Stein,22Hancock,President,,Democrat,Hillary Clinton,3344Hancock,President,,Republican,Donald J. Trump,13811Hancock,President,,Constitution,Darrell Castle,68Hancock,President,,American Delta,Roque 'Rocky' De La Fuente,9Hancock,President,,Prohibition,Jim Hedges,10Hancock,President,,Libertarian,Gary Johnson,312Hancock,President,,Green,Jill Stein,83Harrison,President,,Democrat,Hillary Clinton,21169Harrison,President,,Republican,Donald J. Trump,40354Harrison,President,,Constitution,Darrell Castle,184Harrison,President,,American Delta,Roque 'Rocky' De La Fuente,28Harrison,President,,Prohibition,Jim Hedges,18Harrison,President,,Libertarian,Gary Johnson,1230Harrison,President,,Green,Jill Stein,330Hinds,President,,Democrat,Hillary Clinton,67594Hinds,President,,Republican,Donald J. Trump,25275Hinds,President,,Constitution,Darrell Castle,270Hinds,President,,American Delta,Roque 'Rocky' De La Fuente,36Hinds,President,,Prohibition,Jim Hedges,23Hinds,President,,Libertarian,Gary Johnson,1013Hinds,President,,Green,Jill Stein,470Holmes,President,,Democrat,Hillary Clinton,6689Holmes,President,,Republican,Donald J. Trump,1309Holmes,President,,Constitution,Darrell Castle,20Holmes,President,,American Delta,Roque 'Rocky' De La Fuente,4Holmes,President,,Prohibition,Jim Hedges,10Holmes,President,,Libertarian,Gary Johnson,25Holmes,President,,Green,Jill Stein,19Humphreys,President,,Democrat,Hillary Clinton,3071Humphreys,President,,Republican,Donald J. Trump,1151Humphreys,President,,Constitution,Darrell Castle,8Humphreys,President,,American Delta,Roque 'Rocky' De La Fuente,4Humphreys,President,,Prohibition,Jim Hedges,4Humphreys,President,,Libertarian,Gary Johnson,12Humphreys,President,,Green,Jill Stein,3Issaquena,President,,Democrat,Hillary Clinton,395Issaquena,President,,Republican,Donald J. Trump,298Issaquena,President,,Constitution,Darrell Castle,0Issaquena,President,,American Delta,Roque 'Rocky' De La Fuente,1Issaquena,President,,Prohibition,Jim Hedges,1Issaquena,President,,Libertarian,Gary Johnson,4Issaquena,President,,Green,Jill Stein,0Itawamba,President,,Democrat,Hillary Clinton,1117Itawamba,President,,Republican,Donald J. Trump,8470Itawamba,President,,Constitution,Darrell Castle,36Itawamba,President,,American Delta,Roque 'Rocky' De La Fuente,5Itawamba,President,,Prohibition,Jim Hedges,5Itawamba,President,,Libertarian,Gary Johnson,84Itawamba,President,,Green,Jill Stein,20Jackson,President,,Democrat,Hillary Clinton,14657Jackson,President,,Republican,Donald J. Trump,33629Jackson,President,,Constitution,Darrell Castle,168Jackson,President,,American Delta,Roque 'Rocky' De La Fuente,26Jackson,President,,Prohibition,Jim Hedges,24Jackson,President,,Libertarian,Gary Johnson,901Jackson,President,,Green,Jill Stein,162Jasper,President,,Democrat,Hillary Clinton,4368Jasper,President,,Republican,Donald J. Trump,4038Jasper,President,,Constitution,Darrell Castle,22Jasper,President,,American Delta,Roque 'Rocky' De La Fuente,6Jasper,President,,Prohibition,Jim Hedges,7Jasper,President,,Libertarian,Gary Johnson,28Jasper,President,,Green,Jill Stein,6Jefferson Davis,President,,Democrat,Hillary Clinton,3720Jefferson Davis,President,,Republican,Donald J. Trump,2466Jefferson Davis,President,,Constitution,Darrell Castle,20Jefferson Davis,President,,American Delta,Roque 'Rocky' De La Fuente,2Jefferson Davis,President,,Prohibition,Jim Hedges,5Jefferson Davis,President,,Libertarian,Gary Johnson,21Jefferson Davis,President,,Green,Jill Stein,3Jefferson,President,,Democrat,Hillary Clinton,3337Jefferson,President,,Republican,Donald J. Trump,490Jefferson,President,,Constitution,Darrell Castle,7Jefferson,President,,American Delta,Roque 'Rocky' De La Fuente,1Jefferson,President,,Prohibition,Jim Hedges,5Jefferson,President,,Libertarian,Gary Johnson,13Jefferson,President,,Green,Jill Stein,7Jones,President,,Democrat,Hillary Clinton,7791Jones,President,,Republican,Donald J. Trump,20133Jones,President,,Constitution,Darrell Castle,81Jones,President,,American Delta,Roque 'Rocky' De La Fuente,16Jones,President,,Prohibition,Jim Hedges,10Jones,President,,Libertarian,Gary Johnson,268Jones,President,,Green,Jill Stein,53Kemper,President,,Democrat,Hillary Clinton,2827Kemper,President,,Republican,Donald J. Trump,1778Kemper,President,,Constitution,Darrell Castle,11Kemper,President,,American Delta,Roque 'Rocky' De La Fuente,1Kemper,President,,Prohibition,Jim Hedges,3Kemper,President,,Libertarian,Gary Johnson,18Kemper,President,,Green,Jill Stein,1Lafayette,President,,Democrat,Hillary Clinton,7969Lafayette,President,,Republican,Donald J. Trump,10872Lafayette,President,,Constitution,Darrell Castle,68Lafayette,President,,American Delta,Roque 'Rocky' De La Fuente,15Lafayette,President,,Prohibition,Jim Hedges,8Lafayette,President,,Libertarian,Gary Johnson,577Lafayette,President,,Green,Jill Stein,134Lamar,President,,Democrat,Hillary Clinton,5190Lamar,President,,Republican,Donald J. Trump,18751Lamar,President,,Constitution,Darrell Castle,104Lamar,President,,American Delta,Roque 'Rocky' De La Fuente,13Lamar,President,,Prohibition,Jim Hedges,7Lamar,President,,Libertarian,Gary Johnson,452Lamar,President,,Green,Jill Stein,75Lauderdale,President,,Democrat,Hillary Clinton,11269Lauderdale,President,,Republican,Donald J. Trump,17741Lauderdale,President,,Constitution,Darrell Castle,90Lauderdale,President,,American Delta,Roque 'Rocky' De La Fuente,11Lauderdale,President,,Prohibition,Jim Hedges,17Lauderdale,President,,Libertarian,Gary Johnson,307Lauderdale,President,,Green,Jill Stein,71Lawrence,President,,Democrat,Hillary Clinton,2195Lawrence,President,,Republican,Donald J. Trump,4091Lawrence,President,,Constitution,Darrell Castle,13Lawrence,President,,American Delta,Roque 'Rocky' De La Fuente,3Lawrence,President,,Prohibition,Jim Hedges,7Lawrence,President,,Libertarian,Gary Johnson,40Lawrence,President,,Green,Jill Stein,15Leake,President,,Democrat,Hillary Clinton,3584Leake,President,,Republican,Donald J. Trump,4782Leake,President,,Constitution,Darrell Castle,24Leake,President,,American Delta,Roque 'Rocky' De La Fuente,2Leake,President,,Prohibition,Jim Hedges,4Leake,President,,Libertarian,Gary Johnson,40Leake,President,,Green,Jill Stein,13Lee,President,,Democrat,Hillary Clinton,10029Lee,President,,Republican,Donald J. Trump,22220Lee,President,,Constitution,Darrell Castle,109Lee,President,,American Delta,Roque 'Rocky' De La Fuente,15Lee,President,,Prohibition,Jim Hedges,14Lee,President,,Libertarian,Gary Johnson,405Lee,President,,Green,Jill Stein,121Leflore,President,,Democrat,Hillary Clinton,7787Leflore,President,,Republican,Donald J. Trump,3212Leflore,President,,Constitution,Darrell Castle,25Leflore,President,,American Delta,Roque 'Rocky' De La Fuente,7Leflore,President,,Prohibition,Jim Hedges,6Leflore,President,,Libertarian,Gary Johnson,78Leflore,President,,Green,Jill Stein,25Lincoln,President,,Democrat,Hillary Clinton,4458Lincoln,President,,Republican,Donald J. Trump,10550Lincoln,President,,Constitution,Darrell Castle,50Lincoln,President,,American Delta,Roque 'Rocky' De La Fuente,12Lincoln,President,,Prohibition,Jim Hedges,8Lincoln,President,,Libertarian,Gary Johnson,89Lincoln,President,,Green,Jill Stein,26Lowndes,President,,Democrat,Hillary Clinton,11819Lowndes,President,,Republican,Donald J. Trump,13271Lowndes,President,,Constitution,Darrell Castle,72Lowndes,President,,American Delta,Roque 'Rocky' De La Fuente,14Lowndes,President,,Prohibition,Jim Hedges,9Lowndes,President,,Libertarian,Gary Johnson,295Lowndes,President,,Green,Jill Stein,95Madison,President,,Democrat,Hillary Clinton,20343Madison,President,,Republican,Donald J. Trump,28265Madison,President,,Constitution,Darrell Castle,168Madison,President,,American Delta,Roque 'Rocky' De La Fuente,24Madison,President,,Prohibition,Jim Hedges,27Madison,President,,Libertarian,Gary Johnson,842Madison,President,,Green,Jill Stein,133Marion,President,,Democrat,Hillary Clinton,3677Marion,President,,Republican,Donald J. Trump,7836Marion,President,,Constitution,Darrell Castle,29Marion,President,,American Delta,Roque 'Rocky' De La Fuente,4Marion,President,,Prohibition,Jim Hedges,8Marion,President,,Libertarian,Gary Johnson,107Marion,President,,Green,Jill Stein,32Marshall,President,,Democrat,Hillary Clinton,8023Marshall,President,,Republican,Donald J. Trump,6587Marshall,President,,Constitution,Darrell Castle,58Marshall,President,,American Delta,Roque 'Rocky' De La Fuente,9Marshall,President,,Prohibition,Jim Hedges,12Marshall,President,,Libertarian,Gary Johnson,95Marshall,President,,Green,Jill Stein,55Monroe,President,,Democrat,Hillary Clinton,5524Monroe,President,,Republican,Donald J. Trump,10167Monroe,President,,Constitution,Darrell Castle,38Monroe,President,,American Delta,Roque 'Rocky' De La Fuente,6Monroe,President,,Prohibition,Jim Hedges,11Monroe,President,,Libertarian,Gary Johnson,110Monroe,President,,Green,Jill Stein,28Montgomery,President,,Democrat,Hillary Clinton,2115Montgomery,President,,Republican,Donald J. Trump,2818Montgomery,President,,Constitution,Darrell Castle,14Montgomery,President,,American Delta,Roque 'Rocky' De La Fuente,3Montgomery,President,,Prohibition,Jim Hedges,6Montgomery,President,,Libertarian,Gary Johnson,32Montgomery,President,,Green,Jill Stein,8Neshoba,President,,Democrat,Hillary Clinton,2715Neshoba,President,,Republican,Donald J. Trump,7679Neshoba,President,,Constitution,Darrell Castle,31Neshoba,President,,American Delta,Roque 'Rocky' De La Fuente,10Neshoba,President,,Prohibition,Jim Hedges,15Neshoba,President,,Libertarian,Gary Johnson,83Neshoba,President,,Green,Jill Stein,20Newton,President,,Democrat,Hillary Clinton,2756Newton,President,,Republican,Donald J. Trump,6548Newton,President,,Constitution,Darrell Castle,31Newton,President,,American Delta,Roque 'Rocky' De La Fuente,6Newton,President,,Prohibition,Jim Hedges,8Newton,President,,Libertarian,Gary Johnson,67Newton,President,,Green,Jill Stein,22Noxubee,President,,Democrat,Hillary Clinton,4347Noxubee,President,,Republican,Donald J. Trump,1200Noxubee,President,,Constitution,Darrell Castle,6Noxubee,President,,American Delta,Roque 'Rocky' De La Fuente,0Noxubee,President,,Prohibition,Jim Hedges,3Noxubee,President,,Libertarian,Gary Johnson,12Noxubee,President,,Green,Jill Stein,6Oktibbeha,President,,Democrat,Hillary Clinton,8859Oktibbeha,President,,Republican,Donald J. Trump,8576Oktibbeha,President,,Constitution,Darrell Castle,99Oktibbeha,President,,American Delta,Roque 'Rocky' De La Fuente,8Oktibbeha,President,,Prohibition,Jim Hedges,17Oktibbeha,President,,Libertarian,Gary Johnson,464Oktibbeha,President,,Green,Jill Stein,101Panola,President,,Democrat,Hillary Clinton,7431Panola,President,,Republican,Donald J. Trump,7449Panola,President,,Constitution,Darrell Castle,47Panola,President,,American Delta,Roque 'Rocky' De La Fuente,9Panola,President,,Prohibition,Jim Hedges,12Panola,President,,Libertarian,Gary Johnson,96Panola,President,,Green,Jill Stein,20Pearl River,President,,Democrat,Hillary Clinton,3604Pearl River,President,,Republican,Donald J. Trump,17782Pearl River,President,,Constitution,Darrell Castle,83Pearl River,President,,American Delta,Roque 'Rocky' De La Fuente,12Pearl River,President,,Prohibition,Jim Hedges,9Pearl River,President,,Libertarian,Gary Johnson,315Pearl River,President,,Green,Jill Stein,78Perry,President,,Democrat,Hillary Clinton,1220Perry,President,,Republican,Donald J. Trump,4135Perry,President,,Constitution,Darrell Castle,17Perry,President,,American Delta,Roque 'Rocky' De La Fuente,4Perry,President,,Prohibition,Jim Hedges,4Perry,President,,Libertarian,Gary Johnson,47Perry,President,,Green,Jill Stein,5Pike,President,,Democrat,Hillary Clinton,8043Pike,President,,Republican,Donald J. Trump,8009Pike,President,,Constitution,Darrell Castle,45Pike,President,,American Delta,Roque 'Rocky' De La Fuente,10Pike,President,,Prohibition,Jim Hedges,18Pike,President,,Libertarian,Gary Johnson,142Pike,President,,Green,Jill Stein,43Pontotoc,President,,Democrat,Hillary Clinton,2386Pontotoc,President,,Republican,Donald J. Trump,10336Pontotoc,President,,Constitution,Darrell Castle,57Pontotoc,President,,American Delta,Roque 'Rocky' De La Fuente,9Pontotoc,President,,Prohibition,Jim Hedges,10Pontotoc,President,,Libertarian,Gary Johnson,150Pontotoc,President,,Green,Jill Stein,36Prentiss,President,,Democrat,Hillary Clinton,2067Prentiss,President,,Republican,Donald J. Trump,7648Prentiss,President,,Constitution,Darrell Castle,33Prentiss,President,,American Delta,Roque 'Rocky' De La Fuente,9Prentiss,President,,Prohibition,Jim Hedges,11Prentiss,President,,Libertarian,Gary Johnson,79Prentiss,President,,Green,Jill Stein,25Quitman,President,,Democrat,Hillary Clinton,2312Quitman,President,,Republican,Donald J. Trump,1001Quitman,President,,Constitution,Darrell Castle,9Quitman,President,,American Delta,Roque 'Rocky' De La Fuente,3Quitman,President,,Prohibition,Jim Hedges,13Quitman,President,,Libertarian,Gary Johnson,20Quitman,President,,Green,Jill Stein,7Rankin,President,,Democrat,Hillary Clinton,14110Rankin,President,,Republican,Donald J. Trump,47178Rankin,President,,Constitution,Darrell Castle,245Rankin,President,,American Delta,Roque 'Rocky' De La Fuente,29Rankin,President,,Prohibition,Jim Hedges,21Rankin,President,,Libertarian,Gary Johnson,967Rankin,President,,Green,Jill Stein,218Scott,President,,Democrat,Hillary Clinton,4268Scott,President,,Republican,Donald J. Trump,6122Scott,President,,Constitution,Darrell Castle,19Scott,President,,American Delta,Roque 'Rocky' De La Fuente,5Scott,President,,Prohibition,Jim Hedges,8Scott,President,,Libertarian,Gary Johnson,81Scott,President,,Green,Jill Stein,19Sharkey,President,,Democrat,Hillary Clinton,1479Sharkey,President,,Republican,Donald J. Trump,692Sharkey,President,,Constitution,Darrell Castle,5Sharkey,President,,American Delta,Roque 'Rocky' De La Fuente,XSharkey,President,,Prohibition,Jim Hedges,2Sharkey,President,,Libertarian,Gary Johnson,10Sharkey,President,,Green,Jill Stein,2Simpson,President,,Democrat,Hillary Clinton,3874Simpson,President,,Republican,Donald J. Trump,7393Simpson,President,,Constitution,Darrell Castle,42Simpson,President,,American Delta,Roque 'Rocky' De La Fuente,4Simpson,President,,Prohibition,Jim Hedges,10Simpson,President,,Libertarian,Gary Johnson,74Simpson,President,,Green,Jill Stein,22Smith,President,,Democrat,Hillary Clinton,1617Smith,President,,Republican,Donald J. Trump,5928Smith,President,,Constitution,Darrell Castle,15Smith,President,,American Delta,Roque 'Rocky' De La Fuente,3Smith,President,,Prohibition,Jim Hedges,5Smith,President,,Libertarian,Gary Johnson,51Smith,President,,Green,Jill Stein,8Stone,President,,Democrat,Hillary Clinton,1573Stone,President,,Republican,Donald J. Trump,5306Stone,President,,Constitution,Darrell Castle,35Stone,President,,American Delta,Roque 'Rocky' De La Fuente,4Stone,President,,Prohibition,Jim Hedges,3Stone,President,,Libertarian,Gary Johnson,108Stone,President,,Green,Jill Stein,16Sunflower,President,,Democrat,Hillary Clinton,6725Sunflower,President,,Republican,Donald J. Trump,2794Sunflower,President,,Constitution,Darrell Castle,16Sunflower,President,,American Delta,Roque 'Rocky' De La Fuente,9Sunflower,President,,Prohibition,Jim Hedges,7Sunflower,President,,Libertarian,Gary Johnson,27Sunflower,President,,Green,Jill Stein,20Tallahatchie,President,,Democrat,Hillary Clinton,3337Tallahatchie,President,,Republican,Donald J. Trump,2462Tallahatchie,President,,Constitution,Darrell Castle,15Tallahatchie,President,,American Delta,Roque 'Rocky' De La Fuente,2Tallahatchie,President,,Prohibition,Jim Hedges,15Tallahatchie,President,,Libertarian,Gary Johnson,31Tallahatchie,President,,Green,Jill Stein,8Tate,President,,Democrat,Hillary Clinton,3926Tate,President,,Republican,Donald J. Trump,7495Tate,President,,Constitution,Darrell Castle,55Tate,President,,American Delta,Roque 'Rocky' De La Fuente,8Tate,President,,Prohibition,Jim Hedges,8Tate,President,,Libertarian,Gary Johnson,115Tate,President,,Green,Jill Stein,20Tippah,President,,Democrat,Hillary Clinton,1842Tippah,President,,Republican,Donald J. Trump,7240Tippah,President,,Constitution,Darrell Castle,45Tippah,President,,American Delta,Roque 'Rocky' De La Fuente,8Tippah,President,,Prohibition,Jim Hedges,6Tippah,President,,Libertarian,Gary Johnson,72Tippah,President,,Green,Jill Stein,22Tishomingo,President,,Democrat,Hillary Clinton,999Tishomingo,President,,Republican,Donald J. Trump,7166Tishomingo,President,,Constitution,Darrell Castle,28Tishomingo,President,,American Delta,Roque 'Rocky' De La Fuente,5Tishomingo,President,,Prohibition,Jim Hedges,5Tishomingo,President,,Libertarian,Gary Johnson,140Tishomingo,President,,Green,Jill Stein,28Tunica,President,,Democrat,Hillary Clinton,2667Tunica,President,,Republican,Donald J. Trump,853Tunica,President,,Constitution,Darrell Castle,13Tunica,President,,American Delta,Roque 'Rocky' De La Fuente,5Tunica,President,,Prohibition,Jim Hedges,3Tunica,President,,Libertarian,Gary Johnson,18Tunica,President,,Green,Jill Stein,8Union,President,,Democrat,Hillary Clinton,2012Union,President,,Republican,Donald J. Trump,9235Union,President,,Constitution,Darrell Castle,74Union,President,,American Delta,Roque 'Rocky' De La Fuente,6Union,President,,Prohibition,Jim Hedges,16Union,President,,Libertarian,Gary Johnson,133Union,President,,Green,Jill Stein,20Walthall,President,,Democrat,Hillary Clinton,2790Walthall,President,,Republican,Donald J. Trump,4056Walthall,President,,Constitution,Darrell Castle,24Walthall,President,,American Delta,Roque 'Rocky' De La Fuente,2Walthall,President,,Prohibition,Jim Hedges,6Walthall,President,,Libertarian,Gary Johnson,31Walthall,President,,Green,Jill Stein,10Warren,President,,Democrat,Hillary Clinton,9284Warren,President,,Republican,Donald J. Trump,9767Warren,President,,Constitution,Darrell Castle,54Warren,President,,American Delta,Roque 'Rocky' De La Fuente,10Warren,President,,Prohibition,Jim Hedges,16Warren,President,,Libertarian,Gary Johnson,229Warren,President,,Green,Jill Stein,56Washington,President,,Democrat,Hillary Clinton,11380Washington,President,,Republican,Donald J. Trump,5244Washington,President,,Constitution,Darrell Castle,33Washington,President,,American Delta,Roque 'Rocky' De La Fuente,17Washington,President,,Prohibition,Jim Hedges,10Washington,President,,Libertarian,Gary Johnson,106Washington,President,,Green,Jill Stein,35Wayne,President,,Democrat,Hillary Clinton,3524Wayne,President,,Republican,Donald J. Trump,5990Wayne,President,,Constitution,Darrell Castle,20Wayne,President,,American Delta,Roque 'Rocky' De La Fuente,7Wayne,President,,Prohibition,Jim Hedges,9Wayne,President,,Libertarian,Gary Johnson,46Wayne,President,,Green,Jill Stein,3Webster,President,,Democrat,Hillary Clinton,1019Webster,President,,Republican,Donald J. Trump,3976Webster,President,,Constitution,Darrell Castle,26Webster,President,,American Delta,Roque 'Rocky' De La Fuente,5Webster,President,,Prohibition,Jim Hedges,1Webster,President,,Libertarian,Gary Johnson,27Webster,President,,Green,Jill Stein,15Wilkinson,President,,Democrat,Hillary Clinton,2857Wilkinson,President,,Republican,Donald J. Trump,1318Wilkinson,President,,Constitution,Darrell Castle,19Wilkinson,President,,American Delta,Roque 'Rocky' De La Fuente,4Wilkinson,President,,Prohibition,Jim Hedges,1Wilkinson,President,,Libertarian,Gary Johnson,15Wilkinson,President,,Green,Jill Stein,4Winston,President,,Democrat,Hillary Clinton,3850Winston,President,,Republican,Donald J. Trump,4910Winston,President,,Constitution,Darrell Castle,23Winston,President,,American Delta,Roque 'Rocky' De La Fuente,7Winston,President,,Prohibition,Jim Hedges,6Winston,President,,Libertarian,Gary Johnson,55Winston,President,,Green,Jill Stein,30Yalobusha,President,,Democrat,Hillary Clinton,2582Yalobusha,President,,Republican,Donald J. Trump,3376Yalobusha,President,,Constitution,Darrell Castle,19Yalobusha,President,,American Delta,Roque 'Rocky' De La Fuente,2Yalobusha,President,,Prohibition,Jim Hedges,4Yalobusha,President,,Libertarian,Gary Johnson,70Yalobusha,President,,Green,Jill Stein,24Yazoo,President,,Democrat,Hillary Clinton,5369Yazoo,President,,Republican,Donald J. Trump,4598Yazoo,President,,Constitution,Darrell Castle,33Yazoo,President,,American Delta,Roque 'Rocky' De La Fuente,6Yazoo,President,,Prohibition,Jim Hedges,11Yazoo,President,,Libertarian,Gary Johnson,47Yazoo,President,,Green,Jill Stein,6,President,,Democrat,Hillary Clinton,485131,President,,Republican,Donald J. Trump,700714,President,,Constitution,Darrell Castle,3987,President,,American Delta,Roque 'Rocky' De La Fuente,644,President,,Prohibition,Jim Hedges,715,President,,Libertarian,Gary Johnson,14435,President,,Green,Jill Stein,3731Alcorn,U.S. House,1,Republican ,Trent Kelly ,11262Alcorn,U.S. House,1,Democrat ,Jacob Owens ,2337Alcorn,U.S. House,1,Reform ,Cathy L. Toole ,160Alcorn,U.S. House,1,Libertarian ,Chase Wilson ,274Benton,U.S. House,1,Republican ,Trent Kelly ,2168Benton,U.S. House,1,Democrat ,Jacob Owens ,1397Benton,U.S. House,1,Reform ,Cathy L. Toole ,106Benton,U.S. House,1,Libertarian ,Chase Wilson ,89Calhoun,U.S. House,1,Republican ,Trent Kelly ,4616Calhoun,U.S. House,1,Democrat ,Jacob Owens ,1534Calhoun,U.S. House,1,Reform ,Cathy L. Toole ,67Calhoun,U.S. House,1,Libertarian ,Chase Wilson ,70Chickasaw,U.S. House,1,Republican ,Trent Kelly ,4441Chickasaw,U.S. House,1,Democrat ,Jacob Owens ,2950Chickasaw,U.S. House,1,Reform ,Cathy L. Toole ,110Chickasaw,U.S. House,1,Libertarian ,Chase Wilson ,106Choctaw,U.S. House,1,Republican ,Trent Kelly ,2866Choctaw,U.S. House,1,Democrat ,Jacob Owens ,930Choctaw,U.S. House,1,Reform ,Cathy L. Toole ,52Choctaw,U.S. House,1,Libertarian ,Chase Wilson ,60Itawamba,U.S. House,1,Republican ,Trent Kelly ,8374Itawamba,U.S. House,1,Democrat ,Jacob Owens ,903Itawamba,U.S. House,1,Reform ,Cathy L. Toole ,111Itawamba,U.S. House,1,Libertarian ,Chase Wilson ,171Lafayette,U.S. House,1,Republican ,Trent Kelly ,11466Lafayette,U.S. House,1,Democrat ,Jacob Owens ,6676Lafayette,U.S. House,1,Reform ,Cathy L. Toole ,259Lafayette,U.S. House,1,Libertarian ,Chase Wilson ,529Lee,U.S. House,1,Republican ,Trent Kelly ,23897Lee,U.S. House,1,Democrat ,Jacob Owens ,7562Lee,U.S. House,1,Reform ,Cathy L. Toole ,248Lee,U.S. House,1,Libertarian ,Chase Wilson ,471Lowndes,U.S. House,1,Republican ,Trent Kelly ,13853Lowndes,U.S. House,1,Democrat ,Jacob Owens ,10037Lowndes,U.S. House,1,Reform ,Cathy L. Toole ,296Lowndes,U.S. House,1,Libertarian ,Chase Wilson ,550Marshall,U.S. House,1,Republican ,Trent Kelly ,6697Marshall,U.S. House,1,Democrat ,Jacob Owens ,6514Marshall,U.S. House,1,Reform ,Cathy L. Toole ,317Marshall,U.S. House,1,Libertarian ,Chase Wilson ,300Monroe,U.S. House,1,Republican ,Trent Kelly ,10586Monroe,U.S. House,1,Democrat ,Jacob Owens ,4465Monroe,U.S. House,1,Reform ,Cathy L. Toole ,166Monroe,U.S. House,1,Libertarian ,Chase Wilson ,206Oktibbeha,U.S. House,1,Republican ,Trent Kelly ,950Oktibbeha,U.S. House,1,Democrat ,Jacob Owens ,606Oktibbeha,U.S. House,1,Reform ,Cathy L. Toole ,16Oktibbeha,U.S. House,1,Libertarian ,Chase Wilson ,35Pontotoc,U.S. House,1,Republican ,Trent Kelly ,10515Pontotoc,U.S. House,1,Democrat ,Jacob Owens ,1790Pontotoc,U.S. House,1,Reform ,Cathy L. Toole ,126Pontotoc,U.S. House,1,Libertarian ,Chase Wilson ,229Prentiss,U.S. House,1,Republican ,Trent Kelly ,7778Prentiss,U.S. House,1,Democrat ,Jacob Owens ,1633Prentiss,U.S. House,1,Reform ,Cathy L. Toole ,86Prentiss,U.S. House,1,Libertarian ,Chase Wilson ,107Tate,U.S. House,1,Republican ,Trent Kelly ,7306Tate,U.S. House,1,Democrat ,Jacob Owens ,3404Tate,U.S. House,1,Reform ,Cathy L. Toole ,171Tate,U.S. House,1,Libertarian ,Chase Wilson ,267Tippah,U.S. House,1,Republican ,Trent Kelly ,6973Tippah,U.S. House,1,Democrat ,Jacob Owens ,1677Tippah,U.S. House,1,Reform ,Cathy L. Toole ,118Tippah,U.S. House,1,Libertarian ,Chase Wilson ,133Tishomingo,U.S. House,1,Republican ,Trent Kelly ,6841Tishomingo,U.S. House,1,Democrat ,Jacob Owens ,960Tishomingo,U.S. House,1,Reform ,Cathy L. Toole ,117Tishomingo,U.S. House,1,Libertarian ,Chase Wilson ,170Union,U.S. House,1,Republican ,Trent Kelly ,9295Union,U.S. House,1,Democrat ,Jacob Owens ,1636Union,U.S. House,1,Reform ,Cathy L. Toole ,103Union,U.S. House,1,Libertarian ,Chase Wilson ,180Webster,U.S. House,1,Republican ,Trent Kelly ,3995Webster,U.S. House,1,Democrat ,Jacob Owens ,817Webster,U.S. House,1,Reform ,Cathy L. Toole ,60Webster,U.S. House,1,Libertarian ,Chase Wilson ,88Winston,U.S. House,1,Republican ,Trent Kelly ,5107Winston,U.S. House,1,Democrat ,Jacob Owens ,3370Winston,U.S. House,1,Reform ,Cathy L. Toole ,98Winston,U.S. House,1,Libertarian ,Chase Wilson ,144Total,U.S. House,1,Republican ,Trent Kelly ,206455Total,U.S. House,1,Democrat ,Jacob Owens ,83947Total,U.S. House,1,Reform ,Cathy L. Toole ,3840Total,U.S. House,1,Libertarian ,Chase Wilson ,6181Attala,U.S. House,2,Republican ,John Bouie II,3830Bolivar,U.S. House,2,Republican ,John Bouie II,3515Carroll,U.S. House,2,Republican ,John Bouie II,2949Claiborne,U.S. House,2,Republican ,John Bouie II,455Coahoma,U.S. House,2,Republican ,John Bouie II,1882Copiah,U.S. House,2,Republican ,John Bouie II,4925Grenada,U.S. House,2,Republican ,John Bouie II,4614Hinds,U.S. House,2,Republican ,John Bouie II,17773Holmes,U.S. House,2,Republican ,John Bouie II,930Humphreys,U.S. House,2,Republican ,John Bouie II,765Issaquena,U.S. House,2,Republican ,John Bouie II,227Jefferson,U.S. House,2,Republican ,John Bouie II,396Leake,U.S. House,2,Republican ,John Bouie II,3625Leflore,U.S. House,2,Republican ,John Bouie II,2688Madison,U.S. House,2,Republican ,John Bouie II,2030Montgomery,U.S. House,2,Republican ,John Bouie II,2201Panola,U.S. House,2,Republican ,John Bouie II,5968Quitman,U.S. House,2,Republican ,John Bouie II,770Sharkey,U.S. House,2,Republican ,John Bouie II,500Sunflower,U.S. House,2,Republican ,John Bouie II,2084Tallahatchie,U.S. House,2,Republican ,John Bouie II,1732Tunica,U.S. House,2,Republican ,John Bouie II,731Warren,U.S. House,2,Republican ,John Bouie II,8324Washington,U.S. House,2,Republican ,John Bouie II,4204Yalobusha,U.S. House,2,Republican ,John Bouie II,2791Yazoo,U.S. House,2,Republican ,John Bouie II,3633,U.S. House,2,Republican ,John Bouie II,83542Attala,U.S. House,2,Democrat,Bennie G. Thompson ,3642Attala,U.S. House,2,Reform,Johnny McLeod ,134Attala,U.S. House,2,Independent,Troy Ray ,444Bolivar,U.S. House,2,Democrat,Bennie G. Thompson ,9492Bolivar,U.S. House,2,Reform,Johnny McLeod ,128Bolivar,U.S. House,2,Independent,Troy Ray ,360Carroll,U.S. House,2,Democrat,Bennie G. Thompson ,2026Carroll,U.S. House,2,Reform,Johnny McLeod ,99Carroll,U.S. House,2,Independent,Troy Ray ,343Chickasaw,U.S. House,2,Democrat,Bennie G. Thompson ,3733Chickasaw,U.S. House,2,Reform,Johnny McLeod ,38Chickasaw,U.S. House,2,Independent,Troy Ray ,53Adams,U.S. House,3,Republican,Gregg Harper ,6236Adams,U.S. House,3,Democrat,Dennis C. Quinn ,6366Adams,U.S. House,3,Veterans,Roger I. Gerrard ,367Adams,U.S. House,3,Reform,Lajena Sheets ,108Amite,U.S. House,3,Republican,Gregg Harper ,4249Amite,U.S. House,3,Democrat,Dennis C. Quinn ,2352Amite,U.S. House,3,Veterans,Roger I. Gerrard ,210Amite,U.S. House,3,Reform,Lajena Sheets ,44Coahoma,U.S. House,2,Democrat,Bennie G. Thompson ,6524Coahoma,U.S. House,2,Reform,Johnny McLeod ,115Coahoma,U.S. House,2,Independent,Troy Ray ,166Copiah,U.S. House,2,Democrat,Bennie G. Thompson ,7279Copiah,U.S. House,2,Reform,Johnny McLeod ,279Copiah,U.S. House,2,Independent,Troy Ray ,247Grenada,U.S. House,2,Democrat,Bennie G. Thompson ,513Grenada,U.S. House,2,Reform,Johnny McLeod ,15Grenada,U.S. House,2,Independent,Troy Ray ,28Clarke,U.S. House,3,Republican,Gregg Harper ,4810Clarke,U.S. House,3,Democrat,Dennis C. Quinn ,1649Clarke,U.S. House,3,Veterans,Roger I. Gerrard ,155Clarke,U.S. House,3,Reform,Lajena Sheets ,37Covington,U.S. House,3,Republican,Gregg Harper ,5503Covington,U.S. House,3,Democrat,Dennis C. Quinn ,2740Covington,U.S. House,3,Veterans,Roger I. Gerrard ,282Covington,U.S. House,3,Reform,Lajena Sheets ,63Franklin,U.S. House,3,Republican,Gregg Harper ,2744Franklin,U.S. House,3,Democrat,Dennis C. Quinn ,1190Franklin,U.S. House,3,Veterans,Roger I. Gerrard ,169Franklin,U.S. House,3,Reform,Lajena Sheets ,29Clarke,U.S. House,4,Democrat,Mark Gladney ,505Clarke,U.S. House,4,Republican,Steven Palazzo ,458Clarke,U.S. House,4,Libertarian,Richard Blake McCluskey ,13Clarke,U.S. House,4,Reform,Shawn O'Hara ,24Forrest,U.S. House,4,Democrat,Mark Gladney ,10402Forrest,U.S. House,4,Republican,Steven Palazzo ,14943Forrest,U.S. House,4,Libertarian,Richard Blake McCluskey ,1734Forrest,U.S. House,4,Reform,Shawn O'Hara ,619George,U.S. House,4,Democrat,Mark Gladney ,996George,U.S. House,4,Republican,Steven Palazzo ,8213George,U.S. House,4,Libertarian,Richard Blake McCluskey ,354George,U.S. House,4,Reform,Shawn O'Hara ,157Greene,U.S. House,4,Democrat,Mark Gladney ,829Greene,U.S. House,4,Republican,Steven Palazzo ,3801Greene,U.S. House,4,Libertarian,Richard Blake McCluskey ,572Greene,U.S. House,4,Reform,Shawn O'Hara ,87Hinds,U.S. House,2,Democrat,Bennie G. Thompson ,61779Hinds,U.S. House,2,Reform,Johnny McLeod ,584Hinds,U.S. House,2,Independent,Troy Ray ,1588Holmes,U.S. House,2,Democrat,Bennie G. Thompson ,6725Holmes,U.S. House,2,Reform,Johnny McLeod ,64Holmes,U.S. House,2,Independent,Troy Ray ,268Humphreys,U.S. House,2,Democrat,Bennie G. Thompson ,2900Humphreys,U.S. House,2,Reform,Johnny McLeod ,48Humphreys,U.S. House,2,Independent,Troy Ray ,80Issaquena,U.S. House,2,Democrat,Bennie G. Thompson ,421Issaquena,U.S. House,2,Reform,Johnny McLeod ,11Issaquena,U.S. House,2,Independent,Troy Ray ,19Jefferson,U.S. House,2,Democrat,Bennie G. Thompson ,334Jefferson,U.S. House,2,Reform,Johnny McLeod ,3Jefferson,U.S. House,2,Independent,Troy Ray ,4Hinds,U.S. House,3,Republican,Gregg Harper ,7478Hinds,U.S. House,3,Democrat,Dennis C. Quinn ,5031Hinds,U.S. House,3,Veterans,Roger I. Gerrard ,216Hinds,U.S. House,3,Reform,Lajena Sheets ,121Jasper,U.S. House,3,Republican,Gregg Harper ,4235Jasper,U.S. House,3,Democrat,Dennis C. Quinn ,3782Jasper,U.S. House,3,Veterans,Roger I. Gerrard ,202Jasper,U.S. House,3,Reform,Lajena Sheets ,60Jefferson Davis,U.S. House,3,Republican,Gregg Harper ,2802Jefferson Davis,U.S. House,3,Democrat,Dennis C. Quinn ,3028Jefferson Davis,U.S. House,3,Veterans,Roger I. Gerrard ,166Jefferson Davis,U.S. House,3,Reform,Lajena Sheets ,47Hancock,U.S. House,4,Democrat,Mark Gladney ,4000Hancock,U.S. House,4,Republican,Steven Palazzo ,11932Hancock,U.S. House,4,Libertarian,Richard Blake McCluskey ,883Hancock,U.S. House,4,Reform,Shawn O'Hara ,381Harrison,U.S. House,4,Democrat,Mark Gladney ,21796Harrison,U.S. House,4,Republican,Steven Palazzo ,35463Harrison,U.S. House,4,Libertarian,Richard Blake McCluskey ,3680Harrison,U.S. House,4,Reform,Shawn O'Hara ,1146Jackson,U.S. House,4,Democrat,Mark Gladney ,14392Jackson,U.S. House,4,Republican,Steven Palazzo ,30831Jackson,U.S. House,4,Libertarian,Richard Blake McCluskey ,2703Jackson,U.S. House,4,Reform,Shawn O'Hara ,820Leake,U.S. House,2,Democrat,Bennie G. Thompson ,4041Leake,U.S. House,2,Reform,Johnny McLeod ,239Leake,U.S. House,2,Independent,Troy Ray ,301Leflore,U.S. House,2,Democrat,Bennie G. Thompson ,7894Leflore,U.S. House,2,Reform,Johnny McLeod ,85Leflore,U.S. House,2,Independent,Troy Ray ,286Kemper,U.S. House,3,Republican,Gregg Harper ,2204Kemper,U.S. House,3,Democrat,Dennis C. Quinn ,2113Kemper,U.S. House,3,Veterans,Roger I. Gerrard ,105Kemper,U.S. House,3,Reform,Lajena Sheets ,28Lauderdale,U.S. House,3,Republican,Gregg Harper ,19196Lauderdale,U.S. House,3,Democrat,Dennis C. Quinn ,8517Lauderdale,U.S. House,3,Veterans,Roger I. Gerrard ,798Lauderdale,U.S. House,3,Reform,Lajena Sheets ,199Lawrence,U.S. House,3,Republican,Gregg Harper ,4212Lawrence,U.S. House,3,Democrat,Dennis C. Quinn ,1834Lawrence,U.S. House,3,Veterans,Roger I. Gerrard ,161Lawrence,U.S. House,3,Reform,Lajena Sheets ,42Lincoln,U.S. House,3,Republican,Gregg Harper ,10762Lincoln,U.S. House,3,Democrat,Dennis C. Quinn ,3897Lincoln,U.S. House,3,Veterans,Roger I. Gerrard ,320Lincoln,U.S. House,3,Reform,Lajena Sheets ,73Jones,U.S. House,4,Democrat,Mark Gladney ,7124Jones,U.S. House,4,Republican,Steven Palazzo ,19108Jones,U.S. House,4,Libertarian,Richard Blake McCluskey ,1252Jones,U.S. House,4,Reform,Shawn O'Hara ,539Lamar,U.S. House,4,Democrat,Mark Gladney ,4910Lamar,U.S. House,4,Republican,Steven Palazzo ,17753Lamar,U.S. House,4,Libertarian,Richard Blake McCluskey ,1374Lamar,U.S. House,4,Reform,Shawn O'Hara ,376Madison,U.S. House,2,Democrat,Bennie G. Thompson ,9415Madison,U.S. House,2,Reform,Johnny McLeod ,115Madison,U.S. House,2,Independent,Troy Ray ,162Montgomery,U.S. House,2,Democrat,Bennie G. Thompson ,2426Montgomery,U.S. House,2,Reform,Johnny McLeod ,89Montgomery,U.S. House,2,Independent,Troy Ray ,137Panola,U.S. House,2,Democrat,Bennie G. Thompson ,7974Panola,U.S. House,2,Reform,Johnny McLeod ,358Panola,U.S. House,2,Independent,Troy Ray ,319Madison,U.S. House,3,Republican,Gregg Harper ,27997Madison,U.S. House,3,Democrat,Dennis C. Quinn ,8272Madison,U.S. House,3,Veterans,Roger I. Gerrard ,813Madison,U.S. House,3,Reform,Lajena Sheets ,266Neshoba,U.S. House,3,Republican,Gregg Harper ,7901Neshoba,U.S. House,3,Democrat,Dennis C. Quinn ,2149Neshoba,U.S. House,3,Veterans,Roger I. Gerrard ,275Neshoba,U.S. House,3,Reform,Lajena Sheets ,53Newton,U.S. House,3,Republican,Gregg Harper ,6752Newton,U.S. House,3,Democrat,Dennis C. Quinn ,2199Newton,U.S. House,3,Veterans,Roger I. Gerrard ,259Newton,U.S. House,3,Reform,Lajena Sheets ,53Noxubee,U.S. House,3,Republican,Gregg Harper ,1515Noxubee,U.S. House,3,Democrat,Dennis C. Quinn ,3292Noxubee,U.S. House,3,Veterans,Roger I. Gerrard ,132Noxubee,U.S. House,3,Reform,Lajena Sheets ,28Oktibbeha,U.S. House,3,Republican,Gregg Harper ,8794Oktibbeha,U.S. House,3,Democrat,Dennis C. Quinn ,6807Oktibbeha,U.S. House,3,Veterans,Roger I. Gerrard ,353Oktibbeha,U.S. House,3,Reform,Lajena Sheets ,200Marion,U.S. House,4,Democrat,Mark Gladney ,3326Marion,U.S. House,4,Republican,Steven Palazzo ,7758Marion,U.S. House,4,Libertarian,Richard Blake McCluskey ,292Marion,U.S. House,4,Reform,Shawn O'Hara ,187Pearl River,U.S. House,4,Democrat,Mark Gladney ,3426Pearl River,U.S. House,4,Republican,Steven Palazzo ,16613Pearl River,U.S. House,4,Libertarian,Richard Blake McCluskey ,911Pearl River,U.S. House,4,Reform,Shawn O'Hara ,337Quitman,U.S. House,2,Democrat,Bennie G. Thompson ,2379Quitman,U.S. House,2,Reform,Johnny McLeod ,59Quitman,U.S. House,2,Independent,Troy Ray ,74Sharkey,U.S. House,2,Democrat,Bennie G. Thompson ,1581Sharkey,U.S. House,2,Reform,Johnny McLeod ,27Sharkey,U.S. House,2,Independent,Troy Ray ,33Pike,U.S. House,3,Republican,Gregg Harper ,8311Pike,U.S. House,3,Democrat,Dennis C. Quinn ,7123Pike,U.S. House,3,Veterans,Roger I. Gerrard ,459Pike,U.S. House,3,Reform,Lajena Sheets ,123Rankin,U.S. House,3,Republican,Gregg Harper ,48160Rankin,U.S. House,3,Democrat,Dennis C. Quinn ,11015Rankin,U.S. House,3,Veterans,Roger I. Gerrard ,2227Rankin,U.S. House,3,Reform,Lajena Sheets ,326Scott,U.S. House,3,Republican,Gregg Harper ,6570Scott,U.S. House,3,Democrat,Dennis C. Quinn ,3420Scott,U.S. House,3,Veterans,Roger I. Gerrard ,218Scott,U.S. House,3,Reform,Lajena Sheets ,70Simpson,U.S. House,3,Republican,Gregg Harper ,7575Simpson,U.S. House,3,Democrat,Dennis C. Quinn ,3269Simpson,U.S. House,3,Veterans,Roger I. Gerrard ,278Simpson,U.S. House,3,Reform,Lajena Sheets ,69Smith,U.S. House,3,Republican,Gregg Harper ,5836Smith,U.S. House,3,Democrat,Dennis C. Quinn ,1405Smith,U.S. House,3,Veterans,Roger I. Gerrard ,237Smith,U.S. House,3,Reform,Lajena Sheets ,28Perry,U.S. House,4,Democrat,Mark Gladney ,1102Perry,U.S. House,4,Republican,Steven Palazzo ,3762Perry,U.S. House,4,Libertarian,Richard Blake McCluskey ,337Perry,U.S. House,4,Reform,Shawn O'Hara ,145Stone,U.S. House,4,Democrat,Mark Gladney ,1559Stone,U.S. House,4,Republican,Steven Palazzo ,4848Stone,U.S. House,4,Libertarian,Richard Blake McCluskey ,330Stone,U.S. House,4,Reform,Shawn O'Hara ,198Sunflower,U.S. House,2,Democrat,Bennie G. Thompson ,7052Sunflower,U.S. House,2,Reform,Johnny McLeod ,109Sunflower,U.S. House,2,Independent,Troy Ray ,245Tallahatchie,U.S. House,2,Democrat,Bennie G. Thompson ,3744Tallahatchie,U.S. House,2,Reform,Johnny McLeod ,108Tallahatchie,U.S. House,2,Independent,Troy Ray ,171Tunica,U.S. House,2,Democrat,Bennie G. Thompson ,2611Tunica,U.S. House,2,Reform,Johnny McLeod ,41Tunica,U.S. House,2,Independent,Troy Ray ,63Warren,U.S. House,2,Democrat,Bennie G. Thompson ,9780Warren,U.S. House,2,Reform,Johnny McLeod ,458Warren,U.S. House,2,Independent,Troy Ray ,489Washington,U.S. House,2,Democrat,Bennie G. Thompson ,11781Washington,U.S. House,2,Reform,Johnny McLeod ,143Washington,U.S. House,2,Independent,Troy Ray ,386Walthall,U.S. House,3,Republican,Gregg Harper ,4093Walthall,U.S. House,3,Democrat,Dennis C. Quinn ,2317Walthall,U.S. House,3,Veterans,Roger I. Gerrard ,190Walthall,U.S. House,3,Reform,Lajena Sheets ,39Wayne,U.S. House,4,Democrat,Mark Gladney ,3138Wayne,U.S. House,4,Republican,Steven Palazzo ,5840Wayne,U.S. House,4,Libertarian,Richard Blake McCluskey ,252Wayne,U.S. House,4,Reform,Shawn O'Hara ,248Yalobusha,U.S. House,2,Democrat,Bennie G. Thompson ,2925Yalobusha,U.S. House,2,Reform,Johnny McLeod ,94Yalobusha,U.S. House,2,Independent,Troy Ray ,140Yazoo,U.S. House,2,Democrat,Bennie G. Thompson ,5740Yazoo,U.S. House,2,Reform,Johnny McLeod ,209Yazoo,U.S. House,2,Independent,Troy Ray ,208,U.S. House,2,Democrat,Bennie G. Thompson ,192343,U.S. House,2,Reform,Johnny McLeod ,3823,U.S. House,2,Independent,Troy Ray ,6918Wilkinson,U.S. House,3,Republican,Gregg Harper ,1555Wilkinson,U.S. House,3,Democrat,Dennis C. Quinn ,2334Wilkinson,U.S. House,3,Veterans,Roger I. Gerrard ,104Wilkinson,U.S. House,3,Reform,Lajena Sheets ,52,U.S. House,3,Republican,Gregg Harper ,209490,U.S. House,3,Democrat,Dennis C. Quinn ,96101,U.S. House,3,Veterans,Roger I. Gerrard ,8696,U.S. House,3,Reform,Lajena Sheets ,2158,U.S. House,4,Democrat,Mark Gladney ,77505,U.S. House,4,Republican,Steven Palazzo ,181323,U.S. House,4,Libertarian,Richard Blake McCluskey ,14687,U.S. House,4,Reform,Shawn O'Hara ,5264
+county,office,district,party,candidate,votes
+Adams,President,,Democrat,Hillary Clinton,7757
+Adams,President,,Republican,Donald J. Trump,5874
+Adams,President,,Constitution,Darrell Castle,27
+Adams,President,,American Delta,Roque 'Rocky' De La Fuente,12
+Adams,President,,Prohibition,Jim Hedges,9
+Adams,President,,Libertarian,Gary Johnson,125
+Adams,President,,Green,Jill Stein,32
+Alcorn,President,,Democrat,Hillary Clinton,2684
+Alcorn,President,,Republican,Donald J. Trump,11819
+Alcorn,President,,Constitution,Darrell Castle,56
+Alcorn,President,,American Delta,Roque 'Rocky' De La Fuente,7
+Alcorn,President,,Prohibition,Jim Hedges,12
+Alcorn,President,,Libertarian,Gary Johnson,167
+Alcorn,President,,Green,Jill Stein,38
+Amite,President,,Democrat,Hillary Clinton,2697
+Amite,President,,Republican,Donald J. Trump,4289
+Amite,President,,Constitution,Darrell Castle,9
+Amite,President,,American Delta,Roque 'Rocky' De La Fuente,4
+Amite,President,,Prohibition,Jim Hedges,5
+Amite,President,,Libertarian,Gary Johnson,38
+Amite,President,,Green,Jill Stein,8
+Attala,President,,Democrat,Hillary Clinton,3242
+Attala,President,,Republican,Donald J. Trump,4897
+Attala,President,,Constitution,Darrell Castle,32
+Attala,President,,American Delta,Roque 'Rocky' De La Fuente,3
+Attala,President,,Prohibition,Jim Hedges,8
+Attala,President,,Libertarian,Gary Johnson,57
+Attala,President,,Green,Jill Stein,17
+Benton,President,,Democrat,Hillary Clinton,1719
+Benton,President,,Republican,Donald J. Trump,2251
+Benton,President,,Constitution,Darrell Castle,5
+Benton,President,,American Delta,Roque 'Rocky' De La Fuente,1
+Benton,President,,Prohibition,Jim Hedges,0
+Benton,President,,Libertarian,Gary Johnson,28
+Benton,President,,Green,Jill Stein,9
+Bolivar,President,,Democrat,Hillary Clinton,9046
+Bolivar,President,,Republican,Donald J. Trump,4590
+Bolivar,President,,Constitution,Darrell Castle,32
+Bolivar,President,,American Delta,Roque 'Rocky' De La Fuente,7
+Bolivar,President,,Prohibition,Jim Hedges,11
+Bolivar,President,,Libertarian,Gary Johnson,100
+Bolivar,President,,Green,Jill Stein,38
+Calhoun,President,,Democrat,Hillary Clinton,1910
+Calhoun,President,,Republican,Donald J. Trump,4390
+Calhoun,President,,Constitution,Darrell Castle,26
+Calhoun,President,,American Delta,Roque 'Rocky' De La Fuente,5
+Calhoun,President,,Prohibition,Jim Hedges,5
+Calhoun,President,,Libertarian,Gary Johnson,49
+Calhoun,President,,Green,Jill Stein,11
+Carroll,President,,Democrat,Hillary Clinton,1680
+Carroll,President,,Republican,Donald J. Trump,3799
+Carroll,President,,Constitution,Darrell Castle,6
+Carroll,President,,American Delta,Roque 'Rocky' De La Fuente,3
+Carroll,President,,Prohibition,Jim Hedges,2
+Carroll,President,,Libertarian,Gary Johnson,29
+Carroll,President,,Green,Jill Stein,9
+Chickasaw,President,,Democrat,Hillary Clinton,3649
+Chickasaw,President,,Republican,Donald J. Trump,4127
+Chickasaw,President,,Constitution,Darrell Castle,25
+Chickasaw,President,,American Delta,Roque 'Rocky' De La Fuente,6
+Chickasaw,President,,Prohibition,Jim Hedges,10
+Chickasaw,President,,Libertarian,Gary Johnson,61
+Chickasaw,President,,Green,Jill Stein,12
+Choctaw,President,,Democrat,Hillary Clinton,1218
+Choctaw,President,,Republican,Donald J. Trump,2788
+Choctaw,President,,Constitution,Darrell Castle,12
+Choctaw,President,,American Delta,Roque 'Rocky' De La Fuente,6
+Choctaw,President,,Prohibition,Jim Hedges,3
+Choctaw,President,,Libertarian,Gary Johnson,26
+Choctaw,President,,Green,Jill Stein,12
+Claiborne,President,,Democrat,Hillary Clinton,3708
+Claiborne,President,,Republican,Donald J. Trump,540
+Claiborne,President,,Constitution,Darrell Castle,6
+Claiborne,President,,American Delta,Roque 'Rocky' De La Fuente,4
+Claiborne,President,,Prohibition,Jim Hedges,2
+Claiborne,President,,Libertarian,Gary Johnson,7
+Claiborne,President,,Green,Jill Stein,5
+Clarke,President,,Democrat,Hillary Clinton,2585
+Clarke,President,,Republican,Donald J. Trump,5137
+Clarke,President,,Constitution,Darrell Castle,21
+Clarke,President,,American Delta,Roque 'Rocky' De La Fuente,3
+Clarke,President,,Prohibition,Jim Hedges,1
+Clarke,President,,Libertarian,Gary Johnson,29
+Clarke,President,,Green,Jill Stein,15
+Clay,President,,Democrat,Hillary Clinton,5722
+Clay,President,,Republican,Donald J. Trump,4150
+Clay,President,,Constitution,Darrell Castle,25
+Clay,President,,American Delta,Roque 'Rocky' De La Fuente,8
+Clay,President,,Prohibition,Jim Hedges,9
+Clay,President,,Libertarian,Gary Johnson,69
+Clay,President,,Green,Jill Stein,20
+Coahoma,President,,Democrat,Hillary Clinton,6378
+Coahoma,President,,Republican,Donald J. Trump,2426
+Coahoma,President,,Constitution,Darrell Castle,31
+Coahoma,President,,American Delta,Roque 'Rocky' De La Fuente,4
+Coahoma,President,,Prohibition,Jim Hedges,7
+Coahoma,President,,Libertarian,Gary Johnson,53
+Coahoma,President,,Green,Jill Stein,13
+Copiah,President,,Democrat,Hillary Clinton,6741
+Copiah,President,,Republican,Donald J. Trump,6103
+Copiah,President,,Constitution,Darrell Castle,26
+Copiah,President,,American Delta,Roque 'Rocky' De La Fuente,7
+Copiah,President,,Prohibition,Jim Hedges,16
+Copiah,President,,Libertarian,Gary Johnson,73
+Copiah,President,,Green,Jill Stein,16
+Covington,President,,Democrat,Hillary Clinton,3276
+Covington,President,,Republican,Donald J. Trump,5435
+Covington,President,,Constitution,Darrell Castle,20
+Covington,President,,American Delta,Roque 'Rocky' De La Fuente,4
+Covington,President,,Prohibition,Jim Hedges,3
+Covington,President,,Libertarian,Gary Johnson,61
+Covington,President,,Green,Jill Stein,12
+DeSoto,President,,Democrat,Hillary Clinton,20591
+DeSoto,President,,Republican,Donald J. Trump,43089
+DeSoto,President,,Constitution,Darrell Castle,335
+DeSoto,President,,American Delta,Roque 'Rocky' De La Fuente,31
+DeSoto,President,,Prohibition,Jim Hedges,12
+DeSoto,President,,Libertarian,Gary Johnson,1329
+DeSoto,President,,Green,Jill Stein,308
+Forrest,President,,Democrat,Hillary Clinton,11716
+Forrest,President,,Republican,Donald J. Trump,15461
+Forrest,President,,Constitution,Darrell Castle,115
+Forrest,President,,American Delta,Roque 'Rocky' De La Fuente,9
+Forrest,President,,Prohibition,Jim Hedges,16
+Forrest,President,,Libertarian,Gary Johnson,598
+Forrest,President,,Green,Jill Stein,149
+Franklin,President,,Democrat,Hillary Clinton,1502
+Franklin,President,,Republican,Donald J. Trump,2721
+Franklin,President,,Constitution,Darrell Castle,23
+Franklin,President,,American Delta,Roque 'Rocky' De La Fuente,2
+Franklin,President,,Prohibition,Jim Hedges,4
+Franklin,President,,Libertarian,Gary Johnson,22
+Franklin,President,,Green,Jill Stein,16
+George,President,,Democrat,Hillary Clinton,1027
+George,President,,Republican,Donald J. Trump,8696
+George,President,,Constitution,Darrell Castle,44
+George,President,,American Delta,Roque 'Rocky' De La Fuente,6
+George,President,,Prohibition,Jim Hedges,7
+George,President,,Libertarian,Gary Johnson,91
+George,President,,Green,Jill Stein,20
+Greene,President,,Democrat,Hillary Clinton,974
+Greene,President,,Republican,Donald J. Trump,4335
+Greene,President,,Constitution,Darrell Castle,21
+Greene,President,,American Delta,Roque 'Rocky' De La Fuente,4
+Greene,President,,Prohibition,Jim Hedges,3
+Greene,President,,Libertarian,Gary Johnson,28
+Greene,President,,Green,Jill Stein,4
+Grenada,President,,Democrat,Hillary Clinton,4424
+Grenada,President,,Republican,Donald J. Trump,5970
+Grenada,President,,Constitution,Darrell Castle,17
+Grenada,President,,American Delta,Roque 'Rocky' De La Fuente,3
+Grenada,President,,Prohibition,Jim Hedges,8
+Grenada,President,,Libertarian,Gary Johnson,69
+Grenada,President,,Green,Jill Stein,22
+Hancock,President,,Democrat,Hillary Clinton,3344
+Hancock,President,,Republican,Donald J. Trump,13811
+Hancock,President,,Constitution,Darrell Castle,68
+Hancock,President,,American Delta,Roque 'Rocky' De La Fuente,9
+Hancock,President,,Prohibition,Jim Hedges,10
+Hancock,President,,Libertarian,Gary Johnson,312
+Hancock,President,,Green,Jill Stein,83
+Harrison,President,,Democrat,Hillary Clinton,21169
+Harrison,President,,Republican,Donald J. Trump,40354
+Harrison,President,,Constitution,Darrell Castle,184
+Harrison,President,,American Delta,Roque 'Rocky' De La Fuente,28
+Harrison,President,,Prohibition,Jim Hedges,18
+Harrison,President,,Libertarian,Gary Johnson,1230
+Harrison,President,,Green,Jill Stein,330
+Hinds,President,,Democrat,Hillary Clinton,67594
+Hinds,President,,Republican,Donald J. Trump,25275
+Hinds,President,,Constitution,Darrell Castle,270
+Hinds,President,,American Delta,Roque 'Rocky' De La Fuente,36
+Hinds,President,,Prohibition,Jim Hedges,23
+Hinds,President,,Libertarian,Gary Johnson,1013
+Hinds,President,,Green,Jill Stein,470
+Holmes,President,,Democrat,Hillary Clinton,6689
+Holmes,President,,Republican,Donald J. Trump,1309
+Holmes,President,,Constitution,Darrell Castle,20
+Holmes,President,,American Delta,Roque 'Rocky' De La Fuente,4
+Holmes,President,,Prohibition,Jim Hedges,10
+Holmes,President,,Libertarian,Gary Johnson,25
+Holmes,President,,Green,Jill Stein,19
+Humphreys,President,,Democrat,Hillary Clinton,3071
+Humphreys,President,,Republican,Donald J. Trump,1151
+Humphreys,President,,Constitution,Darrell Castle,8
+Humphreys,President,,American Delta,Roque 'Rocky' De La Fuente,4
+Humphreys,President,,Prohibition,Jim Hedges,4
+Humphreys,President,,Libertarian,Gary Johnson,12
+Humphreys,President,,Green,Jill Stein,3
+Issaquena,President,,Democrat,Hillary Clinton,395
+Issaquena,President,,Republican,Donald J. Trump,298
+Issaquena,President,,Constitution,Darrell Castle,0
+Issaquena,President,,American Delta,Roque 'Rocky' De La Fuente,1
+Issaquena,President,,Prohibition,Jim Hedges,1
+Issaquena,President,,Libertarian,Gary Johnson,4
+Issaquena,President,,Green,Jill Stein,0
+Itawamba,President,,Democrat,Hillary Clinton,1117
+Itawamba,President,,Republican,Donald J. Trump,8470
+Itawamba,President,,Constitution,Darrell Castle,36
+Itawamba,President,,American Delta,Roque 'Rocky' De La Fuente,5
+Itawamba,President,,Prohibition,Jim Hedges,5
+Itawamba,President,,Libertarian,Gary Johnson,84
+Itawamba,President,,Green,Jill Stein,20
+Jackson,President,,Democrat,Hillary Clinton,14657
+Jackson,President,,Republican,Donald J. Trump,33629
+Jackson,President,,Constitution,Darrell Castle,168
+Jackson,President,,American Delta,Roque 'Rocky' De La Fuente,26
+Jackson,President,,Prohibition,Jim Hedges,24
+Jackson,President,,Libertarian,Gary Johnson,901
+Jackson,President,,Green,Jill Stein,162
+Jasper,President,,Democrat,Hillary Clinton,4368
+Jasper,President,,Republican,Donald J. Trump,4038
+Jasper,President,,Constitution,Darrell Castle,22
+Jasper,President,,American Delta,Roque 'Rocky' De La Fuente,6
+Jasper,President,,Prohibition,Jim Hedges,7
+Jasper,President,,Libertarian,Gary Johnson,28
+Jasper,President,,Green,Jill Stein,6
+Jefferson Davis,President,,Democrat,Hillary Clinton,3720
+Jefferson Davis,President,,Republican,Donald J. Trump,2466
+Jefferson Davis,President,,Constitution,Darrell Castle,20
+Jefferson Davis,President,,American Delta,Roque 'Rocky' De La Fuente,2
+Jefferson Davis,President,,Prohibition,Jim Hedges,5
+Jefferson Davis,President,,Libertarian,Gary Johnson,21
+Jefferson Davis,President,,Green,Jill Stein,3
+Jefferson,President,,Democrat,Hillary Clinton,3337
+Jefferson,President,,Republican,Donald J. Trump,490
+Jefferson,President,,Constitution,Darrell Castle,7
+Jefferson,President,,American Delta,Roque 'Rocky' De La Fuente,1
+Jefferson,President,,Prohibition,Jim Hedges,5
+Jefferson,President,,Libertarian,Gary Johnson,13
+Jefferson,President,,Green,Jill Stein,7
+Jones,President,,Democrat,Hillary Clinton,7791
+Jones,President,,Republican,Donald J. Trump,20133
+Jones,President,,Constitution,Darrell Castle,81
+Jones,President,,American Delta,Roque 'Rocky' De La Fuente,16
+Jones,President,,Prohibition,Jim Hedges,10
+Jones,President,,Libertarian,Gary Johnson,268
+Jones,President,,Green,Jill Stein,53
+Kemper,President,,Democrat,Hillary Clinton,2827
+Kemper,President,,Republican,Donald J. Trump,1778
+Kemper,President,,Constitution,Darrell Castle,11
+Kemper,President,,American Delta,Roque 'Rocky' De La Fuente,1
+Kemper,President,,Prohibition,Jim Hedges,3
+Kemper,President,,Libertarian,Gary Johnson,18
+Kemper,President,,Green,Jill Stein,1
+Lafayette,President,,Democrat,Hillary Clinton,7969
+Lafayette,President,,Republican,Donald J. Trump,10872
+Lafayette,President,,Constitution,Darrell Castle,68
+Lafayette,President,,American Delta,Roque 'Rocky' De La Fuente,15
+Lafayette,President,,Prohibition,Jim Hedges,8
+Lafayette,President,,Libertarian,Gary Johnson,577
+Lafayette,President,,Green,Jill Stein,134
+Lamar,President,,Democrat,Hillary Clinton,5190
+Lamar,President,,Republican,Donald J. Trump,18751
+Lamar,President,,Constitution,Darrell Castle,104
+Lamar,President,,American Delta,Roque 'Rocky' De La Fuente,13
+Lamar,President,,Prohibition,Jim Hedges,7
+Lamar,President,,Libertarian,Gary Johnson,452
+Lamar,President,,Green,Jill Stein,75
+Lauderdale,President,,Democrat,Hillary Clinton,11269
+Lauderdale,President,,Republican,Donald J. Trump,17741
+Lauderdale,President,,Constitution,Darrell Castle,90
+Lauderdale,President,,American Delta,Roque 'Rocky' De La Fuente,11
+Lauderdale,President,,Prohibition,Jim Hedges,17
+Lauderdale,President,,Libertarian,Gary Johnson,307
+Lauderdale,President,,Green,Jill Stein,71
+Lawrence,President,,Democrat,Hillary Clinton,2195
+Lawrence,President,,Republican,Donald J. Trump,4091
+Lawrence,President,,Constitution,Darrell Castle,13
+Lawrence,President,,American Delta,Roque 'Rocky' De La Fuente,3
+Lawrence,President,,Prohibition,Jim Hedges,7
+Lawrence,President,,Libertarian,Gary Johnson,40
+Lawrence,President,,Green,Jill Stein,15
+Leake,President,,Democrat,Hillary Clinton,3584
+Leake,President,,Republican,Donald J. Trump,4782
+Leake,President,,Constitution,Darrell Castle,24
+Leake,President,,American Delta,Roque 'Rocky' De La Fuente,2
+Leake,President,,Prohibition,Jim Hedges,4
+Leake,President,,Libertarian,Gary Johnson,40
+Leake,President,,Green,Jill Stein,13
+Lee,President,,Democrat,Hillary Clinton,10029
+Lee,President,,Republican,Donald J. Trump,22220
+Lee,President,,Constitution,Darrell Castle,109
+Lee,President,,American Delta,Roque 'Rocky' De La Fuente,15
+Lee,President,,Prohibition,Jim Hedges,14
+Lee,President,,Libertarian,Gary Johnson,405
+Lee,President,,Green,Jill Stein,121
+Leflore,President,,Democrat,Hillary Clinton,7787
+Leflore,President,,Republican,Donald J. Trump,3212
+Leflore,President,,Constitution,Darrell Castle,25
+Leflore,President,,American Delta,Roque 'Rocky' De La Fuente,7
+Leflore,President,,Prohibition,Jim Hedges,6
+Leflore,President,,Libertarian,Gary Johnson,78
+Leflore,President,,Green,Jill Stein,25
+Lincoln,President,,Democrat,Hillary Clinton,4458
+Lincoln,President,,Republican,Donald J. Trump,10550
+Lincoln,President,,Constitution,Darrell Castle,50
+Lincoln,President,,American Delta,Roque 'Rocky' De La Fuente,12
+Lincoln,President,,Prohibition,Jim Hedges,8
+Lincoln,President,,Libertarian,Gary Johnson,89
+Lincoln,President,,Green,Jill Stein,26
+Lowndes,President,,Democrat,Hillary Clinton,11819
+Lowndes,President,,Republican,Donald J. Trump,13271
+Lowndes,President,,Constitution,Darrell Castle,72
+Lowndes,President,,American Delta,Roque 'Rocky' De La Fuente,14
+Lowndes,President,,Prohibition,Jim Hedges,9
+Lowndes,President,,Libertarian,Gary Johnson,295
+Lowndes,President,,Green,Jill Stein,95
+Madison,President,,Democrat,Hillary Clinton,20343
+Madison,President,,Republican,Donald J. Trump,28265
+Madison,President,,Constitution,Darrell Castle,168
+Madison,President,,American Delta,Roque 'Rocky' De La Fuente,24
+Madison,President,,Prohibition,Jim Hedges,27
+Madison,President,,Libertarian,Gary Johnson,842
+Madison,President,,Green,Jill Stein,133
+Marion,President,,Democrat,Hillary Clinton,3677
+Marion,President,,Republican,Donald J. Trump,7836
+Marion,President,,Constitution,Darrell Castle,29
+Marion,President,,American Delta,Roque 'Rocky' De La Fuente,4
+Marion,President,,Prohibition,Jim Hedges,8
+Marion,President,,Libertarian,Gary Johnson,107
+Marion,President,,Green,Jill Stein,32
+Marshall,President,,Democrat,Hillary Clinton,8023
+Marshall,President,,Republican,Donald J. Trump,6587
+Marshall,President,,Constitution,Darrell Castle,58
+Marshall,President,,American Delta,Roque 'Rocky' De La Fuente,9
+Marshall,President,,Prohibition,Jim Hedges,12
+Marshall,President,,Libertarian,Gary Johnson,95
+Marshall,President,,Green,Jill Stein,55
+Monroe,President,,Democrat,Hillary Clinton,5524
+Monroe,President,,Republican,Donald J. Trump,10167
+Monroe,President,,Constitution,Darrell Castle,38
+Monroe,President,,American Delta,Roque 'Rocky' De La Fuente,6
+Monroe,President,,Prohibition,Jim Hedges,11
+Monroe,President,,Libertarian,Gary Johnson,110
+Monroe,President,,Green,Jill Stein,28
+Montgomery,President,,Democrat,Hillary Clinton,2115
+Montgomery,President,,Republican,Donald J. Trump,2818
+Montgomery,President,,Constitution,Darrell Castle,14
+Montgomery,President,,American Delta,Roque 'Rocky' De La Fuente,3
+Montgomery,President,,Prohibition,Jim Hedges,6
+Montgomery,President,,Libertarian,Gary Johnson,32
+Montgomery,President,,Green,Jill Stein,8
+Neshoba,President,,Democrat,Hillary Clinton,2715
+Neshoba,President,,Republican,Donald J. Trump,7679
+Neshoba,President,,Constitution,Darrell Castle,31
+Neshoba,President,,American Delta,Roque 'Rocky' De La Fuente,10
+Neshoba,President,,Prohibition,Jim Hedges,15
+Neshoba,President,,Libertarian,Gary Johnson,83
+Neshoba,President,,Green,Jill Stein,20
+Newton,President,,Democrat,Hillary Clinton,2756
+Newton,President,,Republican,Donald J. Trump,6548
+Newton,President,,Constitution,Darrell Castle,31
+Newton,President,,American Delta,Roque 'Rocky' De La Fuente,6
+Newton,President,,Prohibition,Jim Hedges,8
+Newton,President,,Libertarian,Gary Johnson,67
+Newton,President,,Green,Jill Stein,22
+Noxubee,President,,Democrat,Hillary Clinton,4347
+Noxubee,President,,Republican,Donald J. Trump,1200
+Noxubee,President,,Constitution,Darrell Castle,6
+Noxubee,President,,American Delta,Roque 'Rocky' De La Fuente,0
+Noxubee,President,,Prohibition,Jim Hedges,3
+Noxubee,President,,Libertarian,Gary Johnson,12
+Noxubee,President,,Green,Jill Stein,6
+Oktibbeha,President,,Democrat,Hillary Clinton,8859
+Oktibbeha,President,,Republican,Donald J. Trump,8576
+Oktibbeha,President,,Constitution,Darrell Castle,99
+Oktibbeha,President,,American Delta,Roque 'Rocky' De La Fuente,8
+Oktibbeha,President,,Prohibition,Jim Hedges,17
+Oktibbeha,President,,Libertarian,Gary Johnson,464
+Oktibbeha,President,,Green,Jill Stein,101
+Panola,President,,Democrat,Hillary Clinton,7431
+Panola,President,,Republican,Donald J. Trump,7449
+Panola,President,,Constitution,Darrell Castle,47
+Panola,President,,American Delta,Roque 'Rocky' De La Fuente,9
+Panola,President,,Prohibition,Jim Hedges,12
+Panola,President,,Libertarian,Gary Johnson,96
+Panola,President,,Green,Jill Stein,20
+Pearl River,President,,Democrat,Hillary Clinton,3604
+Pearl River,President,,Republican,Donald J. Trump,17782
+Pearl River,President,,Constitution,Darrell Castle,83
+Pearl River,President,,American Delta,Roque 'Rocky' De La Fuente,12
+Pearl River,President,,Prohibition,Jim Hedges,9
+Pearl River,President,,Libertarian,Gary Johnson,315
+Pearl River,President,,Green,Jill Stein,78
+Perry,President,,Democrat,Hillary Clinton,1220
+Perry,President,,Republican,Donald J. Trump,4135
+Perry,President,,Constitution,Darrell Castle,17
+Perry,President,,American Delta,Roque 'Rocky' De La Fuente,4
+Perry,President,,Prohibition,Jim Hedges,4
+Perry,President,,Libertarian,Gary Johnson,47
+Perry,President,,Green,Jill Stein,5
+Pike,President,,Democrat,Hillary Clinton,8043
+Pike,President,,Republican,Donald J. Trump,8009
+Pike,President,,Constitution,Darrell Castle,45
+Pike,President,,American Delta,Roque 'Rocky' De La Fuente,10
+Pike,President,,Prohibition,Jim Hedges,18
+Pike,President,,Libertarian,Gary Johnson,142
+Pike,President,,Green,Jill Stein,43
+Pontotoc,President,,Democrat,Hillary Clinton,2386
+Pontotoc,President,,Republican,Donald J. Trump,10336
+Pontotoc,President,,Constitution,Darrell Castle,57
+Pontotoc,President,,American Delta,Roque 'Rocky' De La Fuente,9
+Pontotoc,President,,Prohibition,Jim Hedges,10
+Pontotoc,President,,Libertarian,Gary Johnson,150
+Pontotoc,President,,Green,Jill Stein,36
+Prentiss,President,,Democrat,Hillary Clinton,2067
+Prentiss,President,,Republican,Donald J. Trump,7648
+Prentiss,President,,Constitution,Darrell Castle,33
+Prentiss,President,,American Delta,Roque 'Rocky' De La Fuente,9
+Prentiss,President,,Prohibition,Jim Hedges,11
+Prentiss,President,,Libertarian,Gary Johnson,79
+Prentiss,President,,Green,Jill Stein,25
+Quitman,President,,Democrat,Hillary Clinton,2312
+Quitman,President,,Republican,Donald J. Trump,1001
+Quitman,President,,Constitution,Darrell Castle,9
+Quitman,President,,American Delta,Roque 'Rocky' De La Fuente,3
+Quitman,President,,Prohibition,Jim Hedges,13
+Quitman,President,,Libertarian,Gary Johnson,20
+Quitman,President,,Green,Jill Stein,7
+Rankin,President,,Democrat,Hillary Clinton,14110
+Rankin,President,,Republican,Donald J. Trump,47178
+Rankin,President,,Constitution,Darrell Castle,245
+Rankin,President,,American Delta,Roque 'Rocky' De La Fuente,29
+Rankin,President,,Prohibition,Jim Hedges,21
+Rankin,President,,Libertarian,Gary Johnson,967
+Rankin,President,,Green,Jill Stein,218
+Scott,President,,Democrat,Hillary Clinton,4268
+Scott,President,,Republican,Donald J. Trump,6122
+Scott,President,,Constitution,Darrell Castle,19
+Scott,President,,American Delta,Roque 'Rocky' De La Fuente,5
+Scott,President,,Prohibition,Jim Hedges,8
+Scott,President,,Libertarian,Gary Johnson,81
+Scott,President,,Green,Jill Stein,19
+Sharkey,President,,Democrat,Hillary Clinton,1479
+Sharkey,President,,Republican,Donald J. Trump,692
+Sharkey,President,,Constitution,Darrell Castle,5
+Sharkey,President,,American Delta,Roque 'Rocky' De La Fuente,0
+Sharkey,President,,Prohibition,Jim Hedges,2
+Sharkey,President,,Libertarian,Gary Johnson,10
+Sharkey,President,,Green,Jill Stein,2
+Simpson,President,,Democrat,Hillary Clinton,3874
+Simpson,President,,Republican,Donald J. Trump,7393
+Simpson,President,,Constitution,Darrell Castle,42
+Simpson,President,,American Delta,Roque 'Rocky' De La Fuente,4
+Simpson,President,,Prohibition,Jim Hedges,10
+Simpson,President,,Libertarian,Gary Johnson,74
+Simpson,President,,Green,Jill Stein,22
+Smith,President,,Democrat,Hillary Clinton,1617
+Smith,President,,Republican,Donald J. Trump,5928
+Smith,President,,Constitution,Darrell Castle,15
+Smith,President,,American Delta,Roque 'Rocky' De La Fuente,3
+Smith,President,,Prohibition,Jim Hedges,5
+Smith,President,,Libertarian,Gary Johnson,51
+Smith,President,,Green,Jill Stein,8
+Stone,President,,Democrat,Hillary Clinton,1573
+Stone,President,,Republican,Donald J. Trump,5306
+Stone,President,,Constitution,Darrell Castle,35
+Stone,President,,American Delta,Roque 'Rocky' De La Fuente,4
+Stone,President,,Prohibition,Jim Hedges,3
+Stone,President,,Libertarian,Gary Johnson,108
+Stone,President,,Green,Jill Stein,16
+Sunflower,President,,Democrat,Hillary Clinton,6725
+Sunflower,President,,Republican,Donald J. Trump,2794
+Sunflower,President,,Constitution,Darrell Castle,16
+Sunflower,President,,American Delta,Roque 'Rocky' De La Fuente,9
+Sunflower,President,,Prohibition,Jim Hedges,7
+Sunflower,President,,Libertarian,Gary Johnson,27
+Sunflower,President,,Green,Jill Stein,20
+Tallahatchie,President,,Democrat,Hillary Clinton,3337
+Tallahatchie,President,,Republican,Donald J. Trump,2462
+Tallahatchie,President,,Constitution,Darrell Castle,15
+Tallahatchie,President,,American Delta,Roque 'Rocky' De La Fuente,2
+Tallahatchie,President,,Prohibition,Jim Hedges,15
+Tallahatchie,President,,Libertarian,Gary Johnson,31
+Tallahatchie,President,,Green,Jill Stein,8
+Tate,President,,Democrat,Hillary Clinton,3926
+Tate,President,,Republican,Donald J. Trump,7495
+Tate,President,,Constitution,Darrell Castle,55
+Tate,President,,American Delta,Roque 'Rocky' De La Fuente,8
+Tate,President,,Prohibition,Jim Hedges,8
+Tate,President,,Libertarian,Gary Johnson,115
+Tate,President,,Green,Jill Stein,20
+Tippah,President,,Democrat,Hillary Clinton,1842
+Tippah,President,,Republican,Donald J. Trump,7240
+Tippah,President,,Constitution,Darrell Castle,45
+Tippah,President,,American Delta,Roque 'Rocky' De La Fuente,8
+Tippah,President,,Prohibition,Jim Hedges,6
+Tippah,President,,Libertarian,Gary Johnson,72
+Tippah,President,,Green,Jill Stein,22
+Tishomingo,President,,Democrat,Hillary Clinton,999
+Tishomingo,President,,Republican,Donald J. Trump,7166
+Tishomingo,President,,Constitution,Darrell Castle,28
+Tishomingo,President,,American Delta,Roque 'Rocky' De La Fuente,5
+Tishomingo,President,,Prohibition,Jim Hedges,5
+Tishomingo,President,,Libertarian,Gary Johnson,140
+Tishomingo,President,,Green,Jill Stein,28
+Tunica,President,,Democrat,Hillary Clinton,2667
+Tunica,President,,Republican,Donald J. Trump,853
+Tunica,President,,Constitution,Darrell Castle,13
+Tunica,President,,American Delta,Roque 'Rocky' De La Fuente,5
+Tunica,President,,Prohibition,Jim Hedges,3
+Tunica,President,,Libertarian,Gary Johnson,18
+Tunica,President,,Green,Jill Stein,8
+Union,President,,Democrat,Hillary Clinton,2012
+Union,President,,Republican,Donald J. Trump,9235
+Union,President,,Constitution,Darrell Castle,74
+Union,President,,American Delta,Roque 'Rocky' De La Fuente,6
+Union,President,,Prohibition,Jim Hedges,16
+Union,President,,Libertarian,Gary Johnson,133
+Union,President,,Green,Jill Stein,20
+Walthall,President,,Democrat,Hillary Clinton,2790
+Walthall,President,,Republican,Donald J. Trump,4056
+Walthall,President,,Constitution,Darrell Castle,24
+Walthall,President,,American Delta,Roque 'Rocky' De La Fuente,2
+Walthall,President,,Prohibition,Jim Hedges,6
+Walthall,President,,Libertarian,Gary Johnson,31
+Walthall,President,,Green,Jill Stein,10
+Warren,President,,Democrat,Hillary Clinton,9284
+Warren,President,,Republican,Donald J. Trump,9767
+Warren,President,,Constitution,Darrell Castle,54
+Warren,President,,American Delta,Roque 'Rocky' De La Fuente,10
+Warren,President,,Prohibition,Jim Hedges,16
+Warren,President,,Libertarian,Gary Johnson,229
+Warren,President,,Green,Jill Stein,56
+Washington,President,,Democrat,Hillary Clinton,11380
+Washington,President,,Republican,Donald J. Trump,5244
+Washington,President,,Constitution,Darrell Castle,33
+Washington,President,,American Delta,Roque 'Rocky' De La Fuente,17
+Washington,President,,Prohibition,Jim Hedges,10
+Washington,President,,Libertarian,Gary Johnson,106
+Washington,President,,Green,Jill Stein,35
+Wayne,President,,Democrat,Hillary Clinton,3524
+Wayne,President,,Republican,Donald J. Trump,5990
+Wayne,President,,Constitution,Darrell Castle,20
+Wayne,President,,American Delta,Roque 'Rocky' De La Fuente,7
+Wayne,President,,Prohibition,Jim Hedges,9
+Wayne,President,,Libertarian,Gary Johnson,46
+Wayne,President,,Green,Jill Stein,3
+Webster,President,,Democrat,Hillary Clinton,1019
+Webster,President,,Republican,Donald J. Trump,3976
+Webster,President,,Constitution,Darrell Castle,26
+Webster,President,,American Delta,Roque 'Rocky' De La Fuente,5
+Webster,President,,Prohibition,Jim Hedges,1
+Webster,President,,Libertarian,Gary Johnson,27
+Webster,President,,Green,Jill Stein,15
+Wilkinson,President,,Democrat,Hillary Clinton,2857
+Wilkinson,President,,Republican,Donald J. Trump,1318
+Wilkinson,President,,Constitution,Darrell Castle,19
+Wilkinson,President,,American Delta,Roque 'Rocky' De La Fuente,4
+Wilkinson,President,,Prohibition,Jim Hedges,1
+Wilkinson,President,,Libertarian,Gary Johnson,15
+Wilkinson,President,,Green,Jill Stein,4
+Winston,President,,Democrat,Hillary Clinton,3850
+Winston,President,,Republican,Donald J. Trump,4910
+Winston,President,,Constitution,Darrell Castle,23
+Winston,President,,American Delta,Roque 'Rocky' De La Fuente,7
+Winston,President,,Prohibition,Jim Hedges,6
+Winston,President,,Libertarian,Gary Johnson,55
+Winston,President,,Green,Jill Stein,30
+Yalobusha,President,,Democrat,Hillary Clinton,2582
+Yalobusha,President,,Republican,Donald J. Trump,3376
+Yalobusha,President,,Constitution,Darrell Castle,19
+Yalobusha,President,,American Delta,Roque 'Rocky' De La Fuente,2
+Yalobusha,President,,Prohibition,Jim Hedges,4
+Yalobusha,President,,Libertarian,Gary Johnson,70
+Yalobusha,President,,Green,Jill Stein,24
+Yazoo,President,,Democrat,Hillary Clinton,5369
+Yazoo,President,,Republican,Donald J. Trump,4598
+Yazoo,President,,Constitution,Darrell Castle,33
+Yazoo,President,,American Delta,Roque 'Rocky' De La Fuente,6
+Yazoo,President,,Prohibition,Jim Hedges,11
+Yazoo,President,,Libertarian,Gary Johnson,47
+Yazoo,President,,Green,Jill Stein,6
+,President,,Democrat,Hillary Clinton,485131
+,President,,Republican,Donald J. Trump,700714
+,President,,Constitution,Darrell Castle,3987
+,President,,American Delta,Roque 'Rocky' De La Fuente,644
+,President,,Prohibition,Jim Hedges,715
+,President,,Libertarian,Gary Johnson,14435
+,President,,Green,Jill Stein,3731
+Alcorn,U.S. House,1,Republican ,Trent Kelly ,11262
+Alcorn,U.S. House,1,Democrat ,Jacob Owens ,2337
+Alcorn,U.S. House,1,Reform ,Cathy L. Toole ,160
+Alcorn,U.S. House,1,Libertarian ,Chase Wilson ,274
+Benton,U.S. House,1,Republican ,Trent Kelly ,2168
+Benton,U.S. House,1,Democrat ,Jacob Owens ,1397
+Benton,U.S. House,1,Reform ,Cathy L. Toole ,106
+Benton,U.S. House,1,Libertarian ,Chase Wilson ,89
+Calhoun,U.S. House,1,Republican ,Trent Kelly ,4616
+Calhoun,U.S. House,1,Democrat ,Jacob Owens ,1534
+Calhoun,U.S. House,1,Reform ,Cathy L. Toole ,67
+Calhoun,U.S. House,1,Libertarian ,Chase Wilson ,70
+Chickasaw,U.S. House,1,Republican ,Trent Kelly ,4441
+Chickasaw,U.S. House,1,Democrat ,Jacob Owens ,2950
+Chickasaw,U.S. House,1,Reform ,Cathy L. Toole ,110
+Chickasaw,U.S. House,1,Libertarian ,Chase Wilson ,106
+Choctaw,U.S. House,1,Republican ,Trent Kelly ,2866
+Choctaw,U.S. House,1,Democrat ,Jacob Owens ,930
+Choctaw,U.S. House,1,Reform ,Cathy L. Toole ,52
+Choctaw,U.S. House,1,Libertarian ,Chase Wilson ,60
+Itawamba,U.S. House,1,Republican ,Trent Kelly ,8374
+Itawamba,U.S. House,1,Democrat ,Jacob Owens ,903
+Itawamba,U.S. House,1,Reform ,Cathy L. Toole ,111
+Itawamba,U.S. House,1,Libertarian ,Chase Wilson ,171
+Lafayette,U.S. House,1,Republican ,Trent Kelly ,11466
+Lafayette,U.S. House,1,Democrat ,Jacob Owens ,6676
+Lafayette,U.S. House,1,Reform ,Cathy L. Toole ,259
+Lafayette,U.S. House,1,Libertarian ,Chase Wilson ,529
+Lee,U.S. House,1,Republican ,Trent Kelly ,23897
+Lee,U.S. House,1,Democrat ,Jacob Owens ,7562
+Lee,U.S. House,1,Reform ,Cathy L. Toole ,248
+Lee,U.S. House,1,Libertarian ,Chase Wilson ,471
+Lowndes,U.S. House,1,Republican ,Trent Kelly ,13853
+Lowndes,U.S. House,1,Democrat ,Jacob Owens ,10037
+Lowndes,U.S. House,1,Reform ,Cathy L. Toole ,296
+Lowndes,U.S. House,1,Libertarian ,Chase Wilson ,550
+Marshall,U.S. House,1,Republican ,Trent Kelly ,6697
+Marshall,U.S. House,1,Democrat ,Jacob Owens ,6514
+Marshall,U.S. House,1,Reform ,Cathy L. Toole ,317
+Marshall,U.S. House,1,Libertarian ,Chase Wilson ,300
+Monroe,U.S. House,1,Republican ,Trent Kelly ,10586
+Monroe,U.S. House,1,Democrat ,Jacob Owens ,4465
+Monroe,U.S. House,1,Reform ,Cathy L. Toole ,166
+Monroe,U.S. House,1,Libertarian ,Chase Wilson ,206
+Oktibbeha,U.S. House,1,Republican ,Trent Kelly ,950
+Oktibbeha,U.S. House,1,Democrat ,Jacob Owens ,606
+Oktibbeha,U.S. House,1,Reform ,Cathy L. Toole ,16
+Oktibbeha,U.S. House,1,Libertarian ,Chase Wilson ,35
+Pontotoc,U.S. House,1,Republican ,Trent Kelly ,10515
+Pontotoc,U.S. House,1,Democrat ,Jacob Owens ,1790
+Pontotoc,U.S. House,1,Reform ,Cathy L. Toole ,126
+Pontotoc,U.S. House,1,Libertarian ,Chase Wilson ,229
+Prentiss,U.S. House,1,Republican ,Trent Kelly ,7778
+Prentiss,U.S. House,1,Democrat ,Jacob Owens ,1633
+Prentiss,U.S. House,1,Reform ,Cathy L. Toole ,86
+Prentiss,U.S. House,1,Libertarian ,Chase Wilson ,107
+Tate,U.S. House,1,Republican ,Trent Kelly ,7306
+Tate,U.S. House,1,Democrat ,Jacob Owens ,3404
+Tate,U.S. House,1,Reform ,Cathy L. Toole ,171
+Tate,U.S. House,1,Libertarian ,Chase Wilson ,267
+Tippah,U.S. House,1,Republican ,Trent Kelly ,6973
+Tippah,U.S. House,1,Democrat ,Jacob Owens ,1677
+Tippah,U.S. House,1,Reform ,Cathy L. Toole ,118
+Tippah,U.S. House,1,Libertarian ,Chase Wilson ,133
+Tishomingo,U.S. House,1,Republican ,Trent Kelly ,6841
+Tishomingo,U.S. House,1,Democrat ,Jacob Owens ,960
+Tishomingo,U.S. House,1,Reform ,Cathy L. Toole ,117
+Tishomingo,U.S. House,1,Libertarian ,Chase Wilson ,170
+Union,U.S. House,1,Republican ,Trent Kelly ,9295
+Union,U.S. House,1,Democrat ,Jacob Owens ,1636
+Union,U.S. House,1,Reform ,Cathy L. Toole ,103
+Union,U.S. House,1,Libertarian ,Chase Wilson ,180
+Webster,U.S. House,1,Republican ,Trent Kelly ,3995
+Webster,U.S. House,1,Democrat ,Jacob Owens ,817
+Webster,U.S. House,1,Reform ,Cathy L. Toole ,60
+Webster,U.S. House,1,Libertarian ,Chase Wilson ,88
+Winston,U.S. House,1,Republican ,Trent Kelly ,5107
+Winston,U.S. House,1,Democrat ,Jacob Owens ,3370
+Winston,U.S. House,1,Reform ,Cathy L. Toole ,98
+Winston,U.S. House,1,Libertarian ,Chase Wilson ,144
+Total,U.S. House,1,Republican ,Trent Kelly ,206455
+Total,U.S. House,1,Democrat ,Jacob Owens ,83947
+Total,U.S. House,1,Reform ,Cathy L. Toole ,3840
+Total,U.S. House,1,Libertarian ,Chase Wilson ,6181
+Attala,U.S. House,2,Republican ,John Bouie II,3830
+Bolivar,U.S. House,2,Republican ,John Bouie II,3515
+Carroll,U.S. House,2,Republican ,John Bouie II,2949
+Claiborne,U.S. House,2,Republican ,John Bouie II,455
+Coahoma,U.S. House,2,Republican ,John Bouie II,1882
+Copiah,U.S. House,2,Republican ,John Bouie II,4925
+Grenada,U.S. House,2,Republican ,John Bouie II,4614
+Hinds,U.S. House,2,Republican ,John Bouie II,17773
+Holmes,U.S. House,2,Republican ,John Bouie II,930
+Humphreys,U.S. House,2,Republican ,John Bouie II,765
+Issaquena,U.S. House,2,Republican ,John Bouie II,227
+Jefferson,U.S. House,2,Republican ,John Bouie II,396
+Leake,U.S. House,2,Republican ,John Bouie II,3625
+Leflore,U.S. House,2,Republican ,John Bouie II,2688
+Madison,U.S. House,2,Republican ,John Bouie II,2030
+Montgomery,U.S. House,2,Republican ,John Bouie II,2201
+Panola,U.S. House,2,Republican ,John Bouie II,5968
+Quitman,U.S. House,2,Republican ,John Bouie II,770
+Sharkey,U.S. House,2,Republican ,John Bouie II,500
+Sunflower,U.S. House,2,Republican ,John Bouie II,2084
+Tallahatchie,U.S. House,2,Republican ,John Bouie II,1732
+Tunica,U.S. House,2,Republican ,John Bouie II,731
+Warren,U.S. House,2,Republican ,John Bouie II,8324
+Washington,U.S. House,2,Republican ,John Bouie II,4204
+Yalobusha,U.S. House,2,Republican ,John Bouie II,2791
+Yazoo,U.S. House,2,Republican ,John Bouie II,3633
+,U.S. House,2,Republican ,John Bouie II,83542
+Attala,U.S. House,2,Democrat,Bennie G. Thompson ,3642
+Attala,U.S. House,2,Reform,Johnny McLeod ,134
+Attala,U.S. House,2,Independent,Troy Ray ,444
+Bolivar,U.S. House,2,Democrat,Bennie G. Thompson ,9492
+Bolivar,U.S. House,2,Reform,Johnny McLeod ,128
+Bolivar,U.S. House,2,Independent,Troy Ray ,360
+Carroll,U.S. House,2,Democrat,Bennie G. Thompson ,2026
+Carroll,U.S. House,2,Reform,Johnny McLeod ,99
+Carroll,U.S. House,2,Independent,Troy Ray ,343
+Chickasaw,U.S. House,2,Democrat,Bennie G. Thompson ,3733
+Chickasaw,U.S. House,2,Reform,Johnny McLeod ,38
+Chickasaw,U.S. House,2,Independent,Troy Ray ,53
+Adams,U.S. House,3,Republican,Gregg Harper ,6236
+Adams,U.S. House,3,Democrat,Dennis C. Quinn ,6366
+Adams,U.S. House,3,Veterans,Roger I. Gerrard ,367
+Adams,U.S. House,3,Reform,Lajena Sheets ,108
+Amite,U.S. House,3,Republican,Gregg Harper ,4249
+Amite,U.S. House,3,Democrat,Dennis C. Quinn ,2352
+Amite,U.S. House,3,Veterans,Roger I. Gerrard ,210
+Amite,U.S. House,3,Reform,Lajena Sheets ,44
+Coahoma,U.S. House,2,Democrat,Bennie G. Thompson ,6524
+Coahoma,U.S. House,2,Reform,Johnny McLeod ,115
+Coahoma,U.S. House,2,Independent,Troy Ray ,166
+Copiah,U.S. House,2,Democrat,Bennie G. Thompson ,7279
+Copiah,U.S. House,2,Reform,Johnny McLeod ,279
+Copiah,U.S. House,2,Independent,Troy Ray ,247
+Grenada,U.S. House,2,Democrat,Bennie G. Thompson ,513
+Grenada,U.S. House,2,Reform,Johnny McLeod ,15
+Grenada,U.S. House,2,Independent,Troy Ray ,28
+Clarke,U.S. House,3,Republican,Gregg Harper ,4810
+Clarke,U.S. House,3,Democrat,Dennis C. Quinn ,1649
+Clarke,U.S. House,3,Veterans,Roger I. Gerrard ,155
+Clarke,U.S. House,3,Reform,Lajena Sheets ,37
+Covington,U.S. House,3,Republican,Gregg Harper ,5503
+Covington,U.S. House,3,Democrat,Dennis C. Quinn ,2740
+Covington,U.S. House,3,Veterans,Roger I. Gerrard ,282
+Covington,U.S. House,3,Reform,Lajena Sheets ,63
+Franklin,U.S. House,3,Republican,Gregg Harper ,2744
+Franklin,U.S. House,3,Democrat,Dennis C. Quinn ,1190
+Franklin,U.S. House,3,Veterans,Roger I. Gerrard ,169
+Franklin,U.S. House,3,Reform,Lajena Sheets ,29
+Clarke,U.S. House,4,Democrat,Mark Gladney ,505
+Clarke,U.S. House,4,Republican,Steven Palazzo ,458
+Clarke,U.S. House,4,Libertarian,Richard Blake McCluskey ,13
+Clarke,U.S. House,4,Reform,Shawn O'Hara ,24
+Forrest,U.S. House,4,Democrat,Mark Gladney ,10402
+Forrest,U.S. House,4,Republican,Steven Palazzo ,14943
+Forrest,U.S. House,4,Libertarian,Richard Blake McCluskey ,1734
+Forrest,U.S. House,4,Reform,Shawn O'Hara ,619
+George,U.S. House,4,Democrat,Mark Gladney ,996
+George,U.S. House,4,Republican,Steven Palazzo ,8213
+George,U.S. House,4,Libertarian,Richard Blake McCluskey ,354
+George,U.S. House,4,Reform,Shawn O'Hara ,157
+Greene,U.S. House,4,Democrat,Mark Gladney ,829
+Greene,U.S. House,4,Republican,Steven Palazzo ,3801
+Greene,U.S. House,4,Libertarian,Richard Blake McCluskey ,572
+Greene,U.S. House,4,Reform,Shawn O'Hara ,87
+Hinds,U.S. House,2,Democrat,Bennie G. Thompson ,61779
+Hinds,U.S. House,2,Reform,Johnny McLeod ,584
+Hinds,U.S. House,2,Independent,Troy Ray ,1588
+Holmes,U.S. House,2,Democrat,Bennie G. Thompson ,6725
+Holmes,U.S. House,2,Reform,Johnny McLeod ,64
+Holmes,U.S. House,2,Independent,Troy Ray ,268
+Humphreys,U.S. House,2,Democrat,Bennie G. Thompson ,2900
+Humphreys,U.S. House,2,Reform,Johnny McLeod ,48
+Humphreys,U.S. House,2,Independent,Troy Ray ,80
+Issaquena,U.S. House,2,Democrat,Bennie G. Thompson ,421
+Issaquena,U.S. House,2,Reform,Johnny McLeod ,11
+Issaquena,U.S. House,2,Independent,Troy Ray ,19
+Jefferson,U.S. House,2,Democrat,Bennie G. Thompson ,334
+Jefferson,U.S. House,2,Reform,Johnny McLeod ,3
+Jefferson,U.S. House,2,Independent,Troy Ray ,4
+Hinds,U.S. House,3,Republican,Gregg Harper ,7478
+Hinds,U.S. House,3,Democrat,Dennis C. Quinn ,5031
+Hinds,U.S. House,3,Veterans,Roger I. Gerrard ,216
+Hinds,U.S. House,3,Reform,Lajena Sheets ,121
+Jasper,U.S. House,3,Republican,Gregg Harper ,4235
+Jasper,U.S. House,3,Democrat,Dennis C. Quinn ,3782
+Jasper,U.S. House,3,Veterans,Roger I. Gerrard ,202
+Jasper,U.S. House,3,Reform,Lajena Sheets ,60
+Jefferson Davis,U.S. House,3,Republican,Gregg Harper ,2802
+Jefferson Davis,U.S. House,3,Democrat,Dennis C. Quinn ,3028
+Jefferson Davis,U.S. House,3,Veterans,Roger I. Gerrard ,166
+Jefferson Davis,U.S. House,3,Reform,Lajena Sheets ,47
+Hancock,U.S. House,4,Democrat,Mark Gladney ,4000
+Hancock,U.S. House,4,Republican,Steven Palazzo ,11932
+Hancock,U.S. House,4,Libertarian,Richard Blake McCluskey ,883
+Hancock,U.S. House,4,Reform,Shawn O'Hara ,381
+Harrison,U.S. House,4,Democrat,Mark Gladney ,21796
+Harrison,U.S. House,4,Republican,Steven Palazzo ,35463
+Harrison,U.S. House,4,Libertarian,Richard Blake McCluskey ,3680
+Harrison,U.S. House,4,Reform,Shawn O'Hara ,1146
+Jackson,U.S. House,4,Democrat,Mark Gladney ,14392
+Jackson,U.S. House,4,Republican,Steven Palazzo ,30831
+Jackson,U.S. House,4,Libertarian,Richard Blake McCluskey ,2703
+Jackson,U.S. House,4,Reform,Shawn O'Hara ,820
+Leake,U.S. House,2,Democrat,Bennie G. Thompson ,4041
+Leake,U.S. House,2,Reform,Johnny McLeod ,239
+Leake,U.S. House,2,Independent,Troy Ray ,301
+Leflore,U.S. House,2,Democrat,Bennie G. Thompson ,7894
+Leflore,U.S. House,2,Reform,Johnny McLeod ,85
+Leflore,U.S. House,2,Independent,Troy Ray ,286
+Kemper,U.S. House,3,Republican,Gregg Harper ,2204
+Kemper,U.S. House,3,Democrat,Dennis C. Quinn ,2113
+Kemper,U.S. House,3,Veterans,Roger I. Gerrard ,105
+Kemper,U.S. House,3,Reform,Lajena Sheets ,28
+Lauderdale,U.S. House,3,Republican,Gregg Harper ,19196
+Lauderdale,U.S. House,3,Democrat,Dennis C. Quinn ,8517
+Lauderdale,U.S. House,3,Veterans,Roger I. Gerrard ,798
+Lauderdale,U.S. House,3,Reform,Lajena Sheets ,199
+Lawrence,U.S. House,3,Republican,Gregg Harper ,4212
+Lawrence,U.S. House,3,Democrat,Dennis C. Quinn ,1834
+Lawrence,U.S. House,3,Veterans,Roger I. Gerrard ,161
+Lawrence,U.S. House,3,Reform,Lajena Sheets ,42
+Lincoln,U.S. House,3,Republican,Gregg Harper ,10762
+Lincoln,U.S. House,3,Democrat,Dennis C. Quinn ,3897
+Lincoln,U.S. House,3,Veterans,Roger I. Gerrard ,320
+Lincoln,U.S. House,3,Reform,Lajena Sheets ,73
+Jones,U.S. House,4,Democrat,Mark Gladney ,7124
+Jones,U.S. House,4,Republican,Steven Palazzo ,19108
+Jones,U.S. House,4,Libertarian,Richard Blake McCluskey ,1252
+Jones,U.S. House,4,Reform,Shawn O'Hara ,539
+Lamar,U.S. House,4,Democrat,Mark Gladney ,4910
+Lamar,U.S. House,4,Republican,Steven Palazzo ,17753
+Lamar,U.S. House,4,Libertarian,Richard Blake McCluskey ,1374
+Lamar,U.S. House,4,Reform,Shawn O'Hara ,376
+Madison,U.S. House,2,Democrat,Bennie G. Thompson ,9415
+Madison,U.S. House,2,Reform,Johnny McLeod ,115
+Madison,U.S. House,2,Independent,Troy Ray ,162
+Montgomery,U.S. House,2,Democrat,Bennie G. Thompson ,2426
+Montgomery,U.S. House,2,Reform,Johnny McLeod ,89
+Montgomery,U.S. House,2,Independent,Troy Ray ,137
+Panola,U.S. House,2,Democrat,Bennie G. Thompson ,7974
+Panola,U.S. House,2,Reform,Johnny McLeod ,358
+Panola,U.S. House,2,Independent,Troy Ray ,319
+Madison,U.S. House,3,Republican,Gregg Harper ,27997
+Madison,U.S. House,3,Democrat,Dennis C. Quinn ,8272
+Madison,U.S. House,3,Veterans,Roger I. Gerrard ,813
+Madison,U.S. House,3,Reform,Lajena Sheets ,266
+Neshoba,U.S. House,3,Republican,Gregg Harper ,7901
+Neshoba,U.S. House,3,Democrat,Dennis C. Quinn ,2149
+Neshoba,U.S. House,3,Veterans,Roger I. Gerrard ,275
+Neshoba,U.S. House,3,Reform,Lajena Sheets ,53
+Newton,U.S. House,3,Republican,Gregg Harper ,6752
+Newton,U.S. House,3,Democrat,Dennis C. Quinn ,2199
+Newton,U.S. House,3,Veterans,Roger I. Gerrard ,259
+Newton,U.S. House,3,Reform,Lajena Sheets ,53
+Noxubee,U.S. House,3,Republican,Gregg Harper ,1515
+Noxubee,U.S. House,3,Democrat,Dennis C. Quinn ,3292
+Noxubee,U.S. House,3,Veterans,Roger I. Gerrard ,132
+Noxubee,U.S. House,3,Reform,Lajena Sheets ,28
+Oktibbeha,U.S. House,3,Republican,Gregg Harper ,8794
+Oktibbeha,U.S. House,3,Democrat,Dennis C. Quinn ,6807
+Oktibbeha,U.S. House,3,Veterans,Roger I. Gerrard ,353
+Oktibbeha,U.S. House,3,Reform,Lajena Sheets ,200
+Marion,U.S. House,4,Democrat,Mark Gladney ,3326
+Marion,U.S. House,4,Republican,Steven Palazzo ,7758
+Marion,U.S. House,4,Libertarian,Richard Blake McCluskey ,292
+Marion,U.S. House,4,Reform,Shawn O'Hara ,187
+Pearl River,U.S. House,4,Democrat,Mark Gladney ,3426
+Pearl River,U.S. House,4,Republican,Steven Palazzo ,16613
+Pearl River,U.S. House,4,Libertarian,Richard Blake McCluskey ,911
+Pearl River,U.S. House,4,Reform,Shawn O'Hara ,337
+Quitman,U.S. House,2,Democrat,Bennie G. Thompson ,2379
+Quitman,U.S. House,2,Reform,Johnny McLeod ,59
+Quitman,U.S. House,2,Independent,Troy Ray ,74
+Sharkey,U.S. House,2,Democrat,Bennie G. Thompson ,1581
+Sharkey,U.S. House,2,Reform,Johnny McLeod ,27
+Sharkey,U.S. House,2,Independent,Troy Ray ,33
+Pike,U.S. House,3,Republican,Gregg Harper ,8311
+Pike,U.S. House,3,Democrat,Dennis C. Quinn ,7123
+Pike,U.S. House,3,Veterans,Roger I. Gerrard ,459
+Pike,U.S. House,3,Reform,Lajena Sheets ,123
+Rankin,U.S. House,3,Republican,Gregg Harper ,48160
+Rankin,U.S. House,3,Democrat,Dennis C. Quinn ,11015
+Rankin,U.S. House,3,Veterans,Roger I. Gerrard ,2227
+Rankin,U.S. House,3,Reform,Lajena Sheets ,326
+Scott,U.S. House,3,Republican,Gregg Harper ,6570
+Scott,U.S. House,3,Democrat,Dennis C. Quinn ,3420
+Scott,U.S. House,3,Veterans,Roger I. Gerrard ,218
+Scott,U.S. House,3,Reform,Lajena Sheets ,70
+Simpson,U.S. House,3,Republican,Gregg Harper ,7575
+Simpson,U.S. House,3,Democrat,Dennis C. Quinn ,3269
+Simpson,U.S. House,3,Veterans,Roger I. Gerrard ,278
+Simpson,U.S. House,3,Reform,Lajena Sheets ,69
+Smith,U.S. House,3,Republican,Gregg Harper ,5836
+Smith,U.S. House,3,Democrat,Dennis C. Quinn ,1405
+Smith,U.S. House,3,Veterans,Roger I. Gerrard ,237
+Smith,U.S. House,3,Reform,Lajena Sheets ,28
+Perry,U.S. House,4,Democrat,Mark Gladney ,1102
+Perry,U.S. House,4,Republican,Steven Palazzo ,3762
+Perry,U.S. House,4,Libertarian,Richard Blake McCluskey ,337
+Perry,U.S. House,4,Reform,Shawn O'Hara ,145
+Stone,U.S. House,4,Democrat,Mark Gladney ,1559
+Stone,U.S. House,4,Republican,Steven Palazzo ,4848
+Stone,U.S. House,4,Libertarian,Richard Blake McCluskey ,330
+Stone,U.S. House,4,Reform,Shawn O'Hara ,198
+Sunflower,U.S. House,2,Democrat,Bennie G. Thompson ,7052
+Sunflower,U.S. House,2,Reform,Johnny McLeod ,109
+Sunflower,U.S. House,2,Independent,Troy Ray ,245
+Tallahatchie,U.S. House,2,Democrat,Bennie G. Thompson ,3744
+Tallahatchie,U.S. House,2,Reform,Johnny McLeod ,108
+Tallahatchie,U.S. House,2,Independent,Troy Ray ,171
+Tunica,U.S. House,2,Democrat,Bennie G. Thompson ,2611
+Tunica,U.S. House,2,Reform,Johnny McLeod ,41
+Tunica,U.S. House,2,Independent,Troy Ray ,63
+Warren,U.S. House,2,Democrat,Bennie G. Thompson ,9780
+Warren,U.S. House,2,Reform,Johnny McLeod ,458
+Warren,U.S. House,2,Independent,Troy Ray ,489
+Washington,U.S. House,2,Democrat,Bennie G. Thompson ,11781
+Washington,U.S. House,2,Reform,Johnny McLeod ,143
+Washington,U.S. House,2,Independent,Troy Ray ,386
+Walthall,U.S. House,3,Republican,Gregg Harper ,4093
+Walthall,U.S. House,3,Democrat,Dennis C. Quinn ,2317
+Walthall,U.S. House,3,Veterans,Roger I. Gerrard ,190
+Walthall,U.S. House,3,Reform,Lajena Sheets ,39
+Wayne,U.S. House,4,Democrat,Mark Gladney ,3138
+Wayne,U.S. House,4,Republican,Steven Palazzo ,5840
+Wayne,U.S. House,4,Libertarian,Richard Blake McCluskey ,252
+Wayne,U.S. House,4,Reform,Shawn O'Hara ,248
+Yalobusha,U.S. House,2,Democrat,Bennie G. Thompson ,2925
+Yalobusha,U.S. House,2,Reform,Johnny McLeod ,94
+Yalobusha,U.S. House,2,Independent,Troy Ray ,140
+Yazoo,U.S. House,2,Democrat,Bennie G. Thompson ,5740
+Yazoo,U.S. House,2,Reform,Johnny McLeod ,209
+Yazoo,U.S. House,2,Independent,Troy Ray ,208
+,U.S. House,2,Democrat,Bennie G. Thompson ,192343
+,U.S. House,2,Reform,Johnny McLeod ,3823
+,U.S. House,2,Independent,Troy Ray ,6918
+Wilkinson,U.S. House,3,Republican,Gregg Harper ,1555
+Wilkinson,U.S. House,3,Democrat,Dennis C. Quinn ,2334
+Wilkinson,U.S. House,3,Veterans,Roger I. Gerrard ,104
+Wilkinson,U.S. House,3,Reform,Lajena Sheets ,52
+,U.S. House,3,Republican,Gregg Harper ,209490
+,U.S. House,3,Democrat,Dennis C. Quinn ,96101
+,U.S. House,3,Veterans,Roger I. Gerrard ,8696
+,U.S. House,3,Reform,Lajena Sheets ,2158
+,U.S. House,4,Democrat,Mark Gladney ,77505
+,U.S. House,4,Republican,Steven Palazzo ,181323
+,U.S. House,4,Libertarian,Richard Blake McCluskey ,14687
+,U.S. House,4,Reform,Shawn O'Hara ,5264
