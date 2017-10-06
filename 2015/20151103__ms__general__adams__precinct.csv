@@ -1,1 +1,571 @@
-county,precinct,office,district,party,candidate,votesAdams,"Dist 1, Bellemont",Governor,,Republican,Phil Bryant,773Adams,"Dist 1, By-Pass Fire",Governor,,Republican,Phil Bryant,148Adams,"Dist 1, Courthouse",Governor,,Republican,Phil Bryant,287Adams,"Dist 2, Beau Pre",Governor,,Republican,Phil Bryant,282Adams,"Dist 2, Duncan Park",Governor,,Republican,Phil Bryant,290Adams,"Dist 2, Kingston",Governor,,Republican,Phil Bryant,294Adams,"Dist 2, Liberty Park",Governor,,Republican,Phil Bryant,333Adams,"Dist 3, Concord",Governor,,Republican,Phil Bryant,20Adams,"Dist 3, Maryland Hgts",Governor,,Republican,Phil Bryant,32Adams,"Dist 3, NPS Multi Purpose Bldg.",Governor,,Republican,Phil Bryant,117Adams,"Dist 3, Palestine",Governor,,Republican,Phil Bryant,155Adams,"Dist 4, Carpenter",Governor,,Republican,Phil Bryant,100Adams,"Dist 4, Morgantown",Governor,,Republican,Phil Bryant,86Adams,"Dist 4, Northside",Governor,,Republican,Phil Bryant,64Adams,"Dist 4, Pine Ridge",Governor,,Republican,Phil Bryant,47Adams,"Dist 5, Airport",Governor,,Republican,Phil Bryant,128Adams,"Dist 5, Foster Mound",Governor,,Republican,Phil Bryant,54Adams,Dist 5. Oakland,Governor,,Republican,Phil Bryant,357Adams,Dist 5. Washington,Governor,,Republican,Phil Bryant,200Adams,"Dist 1, Bellemont",Governor,,Democrat,Robert Gray,184Adams,"Dist 1, By-Pass Fire",Governor,,Democrat,Robert Gray,230Adams,"Dist 1, Courthouse",Governor,,Democrat,Robert Gray,95Adams,"Dist 2, Beau Pre",Governor,,Democrat,Robert Gray,120Adams,"Dist 2, Duncan Park",Governor,,Democrat,Robert Gray,126Adams,"Dist 2, Kingston",Governor,,Democrat,Robert Gray,52Adams,"Dist 2, Liberty Park",Governor,,Democrat,Robert Gray,66Adams,"Dist 3, Concord",Governor,,Democrat,Robert Gray,200Adams,"Dist 3, Maryland Hgts",Governor,,Democrat,Robert Gray,203Adams,"Dist 3, NPS Multi Purpose Bldg.",Governor,,Democrat,Robert Gray,131Adams,"Dist 3, Palestine",Governor,,Democrat,Robert Gray,211Adams,"Dist 4, Carpenter",Governor,,Democrat,Robert Gray,144Adams,"Dist 4, Morgantown",Governor,,Democrat,Robert Gray,150Adams,"Dist 4, Northside",Governor,,Democrat,Robert Gray,521Adams,"Dist 4, Pine Ridge",Governor,,Democrat,Robert Gray,181Adams,"Dist 5, Airport",Governor,,Democrat,Robert Gray,205Adams,"Dist 5, Foster Mound",Governor,,Democrat,Robert Gray,445Adams,Dist 5. Oakland,Governor,,Democrat,Robert Gray,200Adams,Dist 5. Washington,Governor,,Democrat,Robert Gray,75Adams,"Dist 1, Bellemont",Governor,,Reform,Shawn O'Hara,7Adams,"Dist 1, By-Pass Fire",Governor,,Reform,Shawn O'Hara,3Adams,"Dist 1, Courthouse",Governor,,Reform,Shawn O'Hara,5Adams,"Dist 2, Beau Pre",Governor,,Reform,Shawn O'Hara,3Adams,"Dist 2, Duncan Park",Governor,,Reform,Shawn O'Hara,9Adams,"Dist 2, Kingston",Governor,,Reform,Shawn O'Hara,3Adams,"Dist 2, Liberty Park",Governor,,Reform,Shawn O'Hara,2Adams,"Dist 3, Concord",Governor,,Reform,Shawn O'Hara,2Adams,"Dist 3, Maryland Hgts",Governor,,Reform,Shawn O'Hara,2Adams,"Dist 3, NPS Multi Purpose Bldg.",Governor,,Reform,Shawn O'Hara,1Adams,"Dist 3, Palestine",Governor,,Reform,Shawn O'Hara,6Adams,"Dist 4, Carpenter",Governor,,Reform,Shawn O'Hara,0Adams,"Dist 4, Morgantown",Governor,,Reform,Shawn O'Hara,1Adams,"Dist 4, Northside",Governor,,Reform,Shawn O'Hara,7Adams,"Dist 4, Pine Ridge",Governor,,Reform,Shawn O'Hara,4Adams,"Dist 5, Airport",Governor,,Reform,Shawn O'Hara,2Adams,"Dist 5, Foster Mound",Governor,,Reform,Shawn O'Hara,7Adams,Dist 5. Oakland,Governor,,Reform,Shawn O'Hara,4Adams,Dist 5. Washington,Governor,,Reform,Shawn O'Hara,3Adams,"Dist 1, Bellemont",Lieutenant Governor,,Democrat,Tim Johnson,214Adams,"Dist 1, By-Pass Fire",Lieutenant Governor,,Democrat,Tim Johnson,235Adams,"Dist 1, Courthouse",Lieutenant Governor,,Democrat,Tim Johnson,105Adams,"Dist 2, Beau Pre",Lieutenant Governor,,Democrat,Tim Johnson,128Adams,"Dist 2, Duncan Park",Lieutenant Governor,,Democrat,Tim Johnson,142Adams,"Dist 2, Kingston",Lieutenant Governor,,Democrat,Tim Johnson,63Adams,"Dist 2, Liberty Park",Lieutenant Governor,,Democrat,Tim Johnson,75Adams,"Dist 3, Concord",Lieutenant Governor,,Democrat,Tim Johnson,203Adams,"Dist 3, Maryland Hgts",Lieutenant Governor,,Democrat,Tim Johnson,207Adams,"Dist 3, NPS Multi Purpose Bldg.",Lieutenant Governor,,Democrat,Tim Johnson,140Adams,"Dist 3, Palestine",Lieutenant Governor,,Democrat,Tim Johnson,215Adams,"Dist 4, Carpenter",Lieutenant Governor,,Democrat,Tim Johnson,145Adams,"Dist 4, Morgantown",Lieutenant Governor,,Democrat,Tim Johnson,155Adams,"Dist 4, Northside",Lieutenant Governor,,Democrat,Tim Johnson,503Adams,"Dist 4, Pine Ridge",Lieutenant Governor,,Democrat,Tim Johnson,177Adams,"Dist 5, Airport",Lieutenant Governor,,Democrat,Tim Johnson,225Adams,"Dist 5, Foster Mound",Lieutenant Governor,,Democrat,Tim Johnson,439Adams,Dist 5. Oakland,Lieutenant Governor,,Democrat,Tim Johnson,212Adams,Dist 5. Washington,Lieutenant Governor,,Democrat,Tim Johnson,74Adams,"Dist 1, Bellemont",Lieutenant Governor,,Republican,Tate Reeves,722Adams,"Dist 1, By-Pass Fire",Lieutenant Governor,,Republican,Tate Reeves,121Adams,"Dist 1, Courthouse",Lieutenant Governor,,Republican,Tate Reeves,273Adams,"Dist 2, Beau Pre",Lieutenant Governor,,Republican,Tate Reeves,256Adams,"Dist 2, Duncan Park",Lieutenant Governor,,Republican,Tate Reeves,270Adams,"Dist 2, Kingston",Lieutenant Governor,,Republican,Tate Reeves,268Adams,"Dist 2, Liberty Park",Lieutenant Governor,,Republican,Tate Reeves,323Adams,"Dist 3, Concord",Lieutenant Governor,,Republican,Tate Reeves,10Adams,"Dist 3, Maryland Hgts",Lieutenant Governor,,Republican,Tate Reeves,15Adams,"Dist 3, NPS Multi Purpose Bldg.",Lieutenant Governor,,Republican,Tate Reeves,99Adams,"Dist 3, Palestine",Lieutenant Governor,,Republican,Tate Reeves,136Adams,"Dist 4, Carpenter",Lieutenant Governor,,Republican,Tate Reeves,85Adams,"Dist 4, Morgantown",Lieutenant Governor,,Republican,Tate Reeves,72Adams,"Dist 4, Northside",Lieutenant Governor,,Republican,Tate Reeves,50Adams,"Dist 4, Pine Ridge",Lieutenant Governor,,Republican,Tate Reeves,42Adams,"Dist 5, Airport",Lieutenant Governor,,Republican,Tate Reeves,104Adams,"Dist 5, Foster Mound",Lieutenant Governor,,Republican,Tate Reeves,49Adams,Dist 5. Oakland,Lieutenant Governor,,Republican,Tate Reeves,325Adams,Dist 5. Washington,Lieutenant Governor,,Republican,Tate Reeves,190Adams,"Dist 1, Bellemont",Lieutenant Governor,,Libertarian,Ron Williams,11Adams,"Dist 1, By-Pass Fire",Lieutenant Governor,,Libertarian,Ron Williams,6Adams,"Dist 1, Courthouse",Lieutenant Governor,,Libertarian,Ron Williams,9Adams,"Dist 2, Beau Pre",Lieutenant Governor,,Libertarian,Ron Williams,8Adams,"Dist 2, Duncan Park",Lieutenant Governor,,Libertarian,Ron Williams,7Adams,"Dist 2, Kingston",Lieutenant Governor,,Libertarian,Ron Williams,6Adams,"Dist 2, Liberty Park",Lieutenant Governor,,Libertarian,Ron Williams,4Adams,"Dist 3, Concord",Lieutenant Governor,,Libertarian,Ron Williams,2Adams,"Dist 3, Maryland Hgts",Lieutenant Governor,,Libertarian,Ron Williams,3Adams,"Dist 3, NPS Multi Purpose Bldg.",Lieutenant Governor,,Libertarian,Ron Williams,4Adams,"Dist 3, Palestine",Lieutenant Governor,,Libertarian,Ron Williams,9Adams,"Dist 4, Carpenter",Lieutenant Governor,,Libertarian,Ron Williams,8Adams,"Dist 4, Morgantown",Lieutenant Governor,,Libertarian,Ron Williams,4Adams,"Dist 4, Northside",Lieutenant Governor,,Libertarian,Ron Williams,6Adams,"Dist 4, Pine Ridge",Lieutenant Governor,,Libertarian,Ron Williams,4Adams,"Dist 5, Airport",Lieutenant Governor,,Libertarian,Ron Williams,1Adams,"Dist 5, Foster Mound",Lieutenant Governor,,Libertarian,Ron Williams,8Adams,Dist 5. Oakland,Lieutenant Governor,,Libertarian,Ron Williams,11Adams,Dist 5. Washington,Lieutenant Governor,,Libertarian,Ron Williams,6Adams,"Dist 1, Bellemont",Lieutenant Governor,,Reform,Rosa B. Williams,4Adams,"Dist 1, By-Pass Fire",Lieutenant Governor,,Reform,Rosa B. Williams,6Adams,"Dist 1, Courthouse",Lieutenant Governor,,Reform,Rosa B. Williams,0Adams,"Dist 2, Beau Pre",Lieutenant Governor,,Reform,Rosa B. Williams,4Adams,"Dist 2, Duncan Park",Lieutenant Governor,,Reform,Rosa B. Williams,4Adams,"Dist 2, Kingston",Lieutenant Governor,,Reform,Rosa B. Williams,3Adams,"Dist 2, Liberty Park",Lieutenant Governor,,Reform,Rosa B. Williams,2Adams,"Dist 3, Concord",Lieutenant Governor,,Reform,Rosa B. Williams,9Adams,"Dist 3, Maryland Hgts",Lieutenant Governor,,Reform,Rosa B. Williams,7Adams,"Dist 3, NPS Multi Purpose Bldg.",Lieutenant Governor,,Reform,Rosa B. Williams,2Adams,"Dist 3, Palestine",Lieutenant Governor,,Reform,Rosa B. Williams,6Adams,"Dist 4, Carpenter",Lieutenant Governor,,Reform,Rosa B. Williams,4Adams,"Dist 4, Morgantown",Lieutenant Governor,,Reform,Rosa B. Williams,3Adams,"Dist 4, Northside",Lieutenant Governor,,Reform,Rosa B. Williams,20Adams,"Dist 4, Pine Ridge",Lieutenant Governor,,Reform,Rosa B. Williams,6Adams,"Dist 5, Airport",Lieutenant Governor,,Reform,Rosa B. Williams,6Adams,"Dist 5, Foster Mound",Lieutenant Governor,,Reform,Rosa B. Williams,10Adams,Dist 5. Oakland,Lieutenant Governor,,Reform,Rosa B. Williams,1Adams,Dist 5. Washington,Lieutenant Governor,,Reform,Rosa B. Williams,1Adams,"Dist 1, Bellemont",Secretary of State,,Democrat,Charles E. Graham,194Adams,"Dist 1, By-Pass Fire",Secretary of State,,Democrat,Charles E. Graham,235Adams,"Dist 1, Courthouse",Secretary of State,,Democrat,Charles E. Graham,81Adams,"Dist 2, Beau Pre",Secretary of State,,Democrat,Charles E. Graham,129Adams,"Dist 2, Duncan Park",Secretary of State,,Democrat,Charles E. Graham,131Adams,"Dist 2, Kingston",Secretary of State,,Democrat,Charles E. Graham,61Adams,"Dist 2, Liberty Park",Secretary of State,,Democrat,Charles E. Graham,71Adams,"Dist 3, Concord",Secretary of State,,Democrat,Charles E. Graham,201Adams,"Dist 3, Maryland Hgts",Secretary of State,,Democrat,Charles E. Graham,210Adams,"Dist 3, NPS Multi Purpose Bldg.",Secretary of State,,Democrat,Charles E. Graham,131Adams,"Dist 3, Palestine",Secretary of State,,Democrat,Charles E. Graham,226Adams,"Dist 4, Carpenter",Secretary of State,,Democrat,Charles E. Graham,130Adams,"Dist 4, Morgantown",Secretary of State,,Democrat,Charles E. Graham,157Adams,"Dist 4, Northside",Secretary of State,,Democrat,Charles E. Graham,517Adams,"Dist 4, Pine Ridge",Secretary of State,,Democrat,Charles E. Graham,185Adams,"Dist 5, Airport",Secretary of State,,Democrat,Charles E. Graham,218Adams,"Dist 5, Foster Mound",Secretary of State,,Democrat,Charles E. Graham,441Adams,Dist 5. Oakland,Secretary of State,,Democrat,Charles E. Graham,210Adams,Dist 5. Washington,Secretary of State,,Democrat,Charles E. Graham,85Adams,"Dist 1, Bellemont",Secretary of State,,Republican,Delbert Hosemann,747Adams,"Dist 1, By-Pass Fire",Secretary of State,,Republican,Delbert Hosemann,137Adams,"Dist 1, Courthouse",Secretary of State,,Republican,Delbert Hosemann,297Adams,"Dist 2, Beau Pre",Secretary of State,,Republican,Delbert Hosemann,257Adams,"Dist 2, Duncan Park",Secretary of State,,Republican,Delbert Hosemann,276Adams,"Dist 2, Kingston",Secretary of State,,Republican,Delbert Hosemann,271Adams,"Dist 2, Liberty Park",Secretary of State,,Republican,Delbert Hosemann,323Adams,"Dist 3, Concord",Secretary of State,,Republican,Delbert Hosemann,15Adams,"Dist 3, Maryland Hgts",Secretary of State,,Republican,Delbert Hosemann,13Adams,"Dist 3, NPS Multi Purpose Bldg.",Secretary of State,,Republican,Delbert Hosemann,108Adams,"Dist 3, Palestine",Secretary of State,,Republican,Delbert Hosemann,130Adams,"Dist 4, Carpenter",Secretary of State,,Republican,Delbert Hosemann,104Adams,"Dist 4, Morgantown",Secretary of State,,Republican,Delbert Hosemann,73Adams,"Dist 4, Northside",Secretary of State,,Republican,Delbert Hosemann,49Adams,"Dist 4, Pine Ridge",Secretary of State,,Republican,Delbert Hosemann,41Adams,"Dist 5, Airport",Secretary of State,,Republican,Delbert Hosemann,108Adams,"Dist 5, Foster Mound",Secretary of State,,Republican,Delbert Hosemann,48Adams,Dist 5. Oakland,Secretary of State,,Republican,Delbert Hosemann,314Adams,Dist 5. Washington,Secretary of State,,Republican,Delbert Hosemann,190Adams,"Dist 1, Bellemont",Secretary of State,,Reform,Randy Walter,12Adams,"Dist 1, By-Pass Fire",Secretary of State,,Reform,Randy Walter,7Adams,"Dist 1, Courthouse",Secretary of State,,Reform,Randy Walter,6Adams,"Dist 2, Beau Pre",Secretary of State,,Reform,Randy Walter,14Adams,"Dist 2, Duncan Park",Secretary of State,,Reform,Randy Walter,4Adams,"Dist 2, Kingston",Secretary of State,,Reform,Randy Walter,14Adams,"Dist 2, Liberty Park",Secretary of State,,Reform,Randy Walter,3Adams,"Dist 3, Concord",Secretary of State,,Reform,Randy Walter,7Adams,"Dist 3, Maryland Hgts",Secretary of State,,Reform,Randy Walter,7Adams,"Dist 3, NPS Multi Purpose Bldg.",Secretary of State,,Reform,Randy Walter,5Adams,"Dist 3, Palestine",Secretary of State,,Reform,Randy Walter,8Adams,"Dist 4, Carpenter",Secretary of State,,Reform,Randy Walter,7Adams,"Dist 4, Morgantown",Secretary of State,,Reform,Randy Walter,7Adams,"Dist 4, Northside",Secretary of State,,Reform,Randy Walter,17Adams,"Dist 4, Pine Ridge",Secretary of State,,Reform,Randy Walter,3Adams,"Dist 5, Airport",Secretary of State,,Reform,Randy Walter,6Adams,"Dist 5, Foster Mound",Secretary of State,,Reform,Randy Walter,10Adams,Dist 5. Oakland,Secretary of State,,Reform,Randy Walter,23Adams,Dist 5. Washington,Secretary of State,,Reform,Randy Walter,3Adams,"Dist 1, Bellemont",Attomey General,,Democrat,Jim Hood,466Adams,"Dist 1, By-Pass Fire",Attomey General,,Democrat,Jim Hood,293Adams,"Dist 1, Courthouse",Attomey General,,Democrat,Jim Hood,183Adams,"Dist 2, Beau Pre",Attomey General,,Democrat,Jim Hood,218Adams,"Dist 2, Duncan Park",Attomey General,,Democrat,Jim Hood,237Adams,"Dist 2, Kingston",Attomey General,,Democrat,Jim Hood,139Adams,"Dist 2, Liberty Park",Attomey General,,Democrat,Jim Hood,201Adams,"Dist 3, Concord",Attomey General,,Democrat,Jim Hood,221Adams,"Dist 3, Maryland Hgts",Attomey General,,Democrat,Jim Hood,224Adams,"Dist 3, NPS Multi Purpose Bldg.",Attomey General,,Democrat,Jim Hood,182Adams,"Dist 3, Palestine",Attomey General,,Democrat,Jim Hood,277Adams,"Dist 4, Carpenter",Attomey General,,Democrat,Jim Hood,178Adams,"Dist 4, Morgantown",Attomey General,,Democrat,Jim Hood,197Adams,"Dist 4, Northside",Attomey General,,Democrat,Jim Hood,577Adams,"Dist 4, Pine Ridge",Attomey General,,Democrat,Jim Hood,206Adams,"Dist 5, Airport",Attomey General,,Democrat,Jim Hood,271Adams,"Dist 5, Foster Mound",Attomey General,,Democrat,Jim Hood,489Adams,Dist 5. Oakland,Attomey General,,Democrat,Jim Hood,330Adams,Dist 5. Washington,Attomey General,,Democrat,Jim Hood,157Adams,"Dist 1, Bellemont",Attomey General,,Republican,Mike Hurst,501Adams,"Dist 1, By-Pass Fire",Attomey General,,Republican,Mike Hurst,86Adams,"Dist 1, Courthouse",Attomey General,,Republican,Mike Hurst,203Adams,"Dist 2, Beau Pre",Attomey General,,Republican,Mike Hurst,190Adams,"Dist 2, Duncan Park",Attomey General,,Republican,Mike Hurst,183Adams,"Dist 2, Kingston",Attomey General,,Republican,Mike Hurst,205Adams,"Dist 2, Liberty Park",Attomey General,,Republican,Mike Hurst,205Adams,"Dist 3, Concord",Attomey General,,Republican,Mike Hurst,7Adams,"Dist 3, Maryland Hgts",Attomey General,,Republican,Mike Hurst,11Adams,"Dist 3, NPS Multi Purpose Bldg.",Attomey General,,Republican,Mike Hurst,64Adams,"Dist 3, Palestine",Attomey General,,Republican,Mike Hurst,89Adams,"Dist 4, Carpenter",Attomey General,,Republican,Mike Hurst,67Adams,"Dist 4, Morgantown",Attomey General,,Republican,Mike Hurst,40Adams,"Dist 4, Northside",Attomey General,,Republican,Mike Hurst,21Adams,"Dist 4, Pine Ridge",Attomey General,,Republican,Mike Hurst,27Adams,"Dist 5, Airport",Attomey General,,Republican,Mike Hurst,67Adams,"Dist 5, Foster Mound",Attomey General,,Republican,Mike Hurst,22Adams,Dist 5. Oakland,Attomey General,,Republican,Mike Hurst,226Adams,Dist 5. Washington,Attomey General,,Republican,Mike Hurst,122Adams,"Dist 1, Bellemont",State Auditor,,Republican,Stacey E. Pickering,738Adams,"Dist 1, By-Pass Fire",State Auditor,,Republican,Stacey E. Pickering,139Adams,"Dist 1, Courthouse",State Auditor,,Republican,Stacey E. Pickering,284Adams,"Dist 2, Beau Pre",State Auditor,,Republican,Stacey E. Pickering,259Adams,"Dist 2, Duncan Park",State Auditor,,Republican,Stacey E. Pickering,287Adams,"Dist 2, Kingston",State Auditor,,Republican,Stacey E. Pickering,283Adams,"Dist 2, Liberty Park",State Auditor,,Republican,Stacey E. Pickering,326Adams,"Dist 3, Concord",State Auditor,,Republican,Stacey E. Pickering,17Adams,"Dist 3, Maryland Hgts",State Auditor,,Republican,Stacey E. Pickering,19Adams,"Dist 3, NPS Multi Purpose Bldg.",State Auditor,,Republican,Stacey E. Pickering,97Adams,"Dist 3, Palestine",State Auditor,,Republican,Stacey E. Pickering,141Adams,"Dist 4, Carpenter",State Auditor,,Republican,Stacey E. Pickering,103Adams,"Dist 4, Morgantown",State Auditor,,Republican,Stacey E. Pickering,75Adams,"Dist 4, Northside",State Auditor,,Republican,Stacey E. Pickering,57Adams,"Dist 4, Pine Ridge",State Auditor,,Republican,Stacey E. Pickering,50Adams,"Dist 5, Airport",State Auditor,,Republican,Stacey E. Pickering,114Adams,"Dist 5, Foster Mound",State Auditor,,Republican,Stacey E. Pickering,49Adams,Dist 5. Oakland,State Auditor,,Republican,Stacey E. Pickering,338Adams,Dist 5. Washington,State Auditor,,Republican,Stacey E. Pickering,190Adams,"Dist 1, Bellemont",State Auditor,,Democrat,Jocelyn 'Joce' Pepper Pritchett,203Adams,"Dist 1, By-Pass Fire",State Auditor,,Democrat,Jocelyn 'Joce' Pepper Pritchett,232Adams,"Dist 1, Courthouse",State Auditor,,Democrat,Jocelyn 'Joce' Pepper Pritchett,98Adams,"Dist 2, Beau Pre",State Auditor,,Democrat,Jocelyn 'Joce' Pepper Pritchett,135Adams,"Dist 2, Duncan Park",State Auditor,,Democrat,Jocelyn 'Joce' Pepper Pritchett,123Adams,"Dist 2, Kingston",State Auditor,,Democrat,Jocelyn 'Joce' Pepper Pritchett,55Adams,"Dist 2, Liberty Park",State Auditor,,Democrat,Jocelyn 'Joce' Pepper Pritchett,72Adams,"Dist 3, Concord",State Auditor,,Democrat,Jocelyn 'Joce' Pepper Pritchett,199Adams,"Dist 3, Maryland Hgts",State Auditor,,Democrat,Jocelyn 'Joce' Pepper Pritchett,203Adams,"Dist 3, NPS Multi Purpose Bldg.",State Auditor,,Democrat,Jocelyn 'Joce' Pepper Pritchett,141Adams,"Dist 3, Palestine",State Auditor,,Democrat,Jocelyn 'Joce' Pepper Pritchett,214Adams,"Dist 4, Carpenter",State Auditor,,Democrat,Jocelyn 'Joce' Pepper Pritchett,141Adams,"Dist 4, Morgantown",State Auditor,,Democrat,Jocelyn 'Joce' Pepper Pritchett,156Adams,"Dist 4, Northside",State Auditor,,Democrat,Jocelyn 'Joce' Pepper Pritchett,514Adams,"Dist 4, Pine Ridge",State Auditor,,Democrat,Jocelyn 'Joce' Pepper Pritchett,175Adams,"Dist 5, Airport",State Auditor,,Democrat,Jocelyn 'Joce' Pepper Pritchett,217Adams,"Dist 5, Foster Mound",State Auditor,,Democrat,Jocelyn 'Joce' Pepper Pritchett,434Adams,Dist 5. Oakland,State Auditor,,Democrat,Jocelyn 'Joce' Pepper Pritchett,203Adams,Dist 5. Washington,State Auditor,,Democrat,Jocelyn 'Joce' Pepper Pritchett,83Adams,"Dist 1, Bellemont",State Auditor,,Reform,Lajena Walley,6Adams,"Dist 1, By-Pass Fire",State Auditor,,Reform,Lajena Walley,1Adams,"Dist 1, Courthouse",State Auditor,,Reform,Lajena Walley,3Adams,"Dist 2, Beau Pre",State Auditor,,Reform,Lajena Walley,5Adams,"Dist 2, Duncan Park",State Auditor,,Reform,Lajena Walley,4Adams,"Dist 2, Kingston",State Auditor,,Reform,Lajena Walley,1Adams,"Dist 2, Liberty Park",State Auditor,,Reform,Lajena Walley,0Adams,"Dist 3, Concord",State Auditor,,Reform,Lajena Walley,4Adams,"Dist 3, Maryland Hgts",State Auditor,,Reform,Lajena Walley,2Adams,"Dist 3, NPS Multi Purpose Bldg.",State Auditor,,Reform,Lajena Walley,4Adams,"Dist 3, Palestine",State Auditor,,Reform,Lajena Walley,4Adams,"Dist 4, Carpenter",State Auditor,,Reform,Lajena Walley,1Adams,"Dist 4, Morgantown",State Auditor,,Reform,Lajena Walley,3Adams,"Dist 4, Northside",State Auditor,,Reform,Lajena Walley,8Adams,"Dist 4, Pine Ridge",State Auditor,,Reform,Lajena Walley,0Adams,"Dist 5, Airport",State Auditor,,Reform,Lajena Walley,2Adams,"Dist 5, Foster Mound",State Auditor,,Reform,Lajena Walley,7Adams,Dist 5. Oakland,State Auditor,,Reform,Lajena Walley,8Adams,Dist 5. Washington,State Auditor,,Reform,Lajena Walley,1Adams,"Dist 1, Bellemont",State Treasurer,,Republican,Lynn Fitch,786Adams,"Dist 1, By-Pass Fire",State Treasurer,,Republican,Lynn Fitch,175Adams,"Dist 1, Courthouse",State Treasurer,,Republican,Lynn Fitch,318Adams,"Dist 2, Beau Pre",State Treasurer,,Republican,Lynn Fitch,302Adams,"Dist 2, Duncan Park",State Treasurer,,Republican,Lynn Fitch,318Adams,"Dist 2, Kingston",State Treasurer,,Republican,Lynn Fitch,288Adams,"Dist 2, Liberty Park",State Treasurer,,Republican,Lynn Fitch,336Adams,"Dist 3, Concord",State Treasurer,,Republican,Lynn Fitch,45Adams,"Dist 3, Maryland Hgts",State Treasurer,,Republican,Lynn Fitch,53Adams,"Dist 3, NPS Multi Purpose Bldg.",State Treasurer,,Republican,Lynn Fitch,130Adams,"Dist 3, Palestine",State Treasurer,,Republican,Lynn Fitch,168Adams,"Dist 4, Carpenter",State Treasurer,,Republican,Lynn Fitch,119Adams,"Dist 4, Morgantown",State Treasurer,,Republican,Lynn Fitch,106Adams,"Dist 4, Northside",State Treasurer,,Republican,Lynn Fitch,147Adams,"Dist 4, Pine Ridge",State Treasurer,,Republican,Lynn Fitch,69Adams,"Dist 5, Airport",State Treasurer,,Republican,Lynn Fitch,149Adams,"Dist 5, Foster Mound",State Treasurer,,Republican,Lynn Fitch,113Adams,Dist 5. Oakland,State Treasurer,,Republican,Lynn Fitch,371Adams,Dist 5. Washington,State Treasurer,,Republican,Lynn Fitch,208Adams,"Dist 1, Bellemont",State Treasurer,,Reform,Viola V. McFarland,98Adams,"Dist 1, By-Pass Fire",State Treasurer,,Reform,Viola V. McFarland,92Adams,"Dist 1, Courthouse",State Treasurer,,Reform,Viola V. McFarland,46Adams,"Dist 2, Beau Pre",State Treasurer,,Reform,Viola V. McFarland,67Adams,"Dist 2, Duncan Park",State Treasurer,,Reform,Viola V. McFarland,66Adams,"Dist 2, Kingston",State Treasurer,,Reform,Viola V. McFarland,41Adams,"Dist 2, Liberty Park",State Treasurer,,Reform,Viola V. McFarland,40Adams,"Dist 3, Concord",State Treasurer,,Reform,Viola V. McFarland,100Adams,"Dist 3, Maryland Hgts",State Treasurer,,Reform,Viola V. McFarland,91Adams,"Dist 3, NPS Multi Purpose Bldg.",State Treasurer,,Reform,Viola V. McFarland,60Adams,"Dist 3, Palestine",State Treasurer,,Reform,Viola V. McFarland,110Adams,"Dist 4, Carpenter",State Treasurer,,Reform,Viola V. McFarland,78Adams,"Dist 4, Morgantown",State Treasurer,,Reform,Viola V. McFarland,79Adams,"Dist 4, Northside",State Treasurer,,Reform,Viola V. McFarland,219Adams,"Dist 4, Pine Ridge",State Treasurer,,Reform,Viola V. McFarland,80Adams,"Dist 5, Airport",State Treasurer,,Reform,Viola V. McFarland,96Adams,"Dist 5, Foster Mound",State Treasurer,,Reform,Viola V. McFarland,204Adams,Dist 5. Oakland,State Treasurer,,Reform,Viola V. McFarland,106Adams,Dist 5. Washington,State Treasurer,,Reform,Viola V. McFarland,38Adams,"Dist 1, Bellemont",Commissioner of Agriculture & Commerce,,Democrat,Addie Lee Green,196Adams,"Dist 1, By-Pass Fire",Commissioner of Agriculture & Commerce,,Democrat,Addie Lee Green,242Adams,"Dist 1, Courthouse",Commissioner of Agriculture & Commerce,,Democrat,Addie Lee Green,86Adams,"Dist 2, Beau Pre",Commissioner of Agriculture & Commerce,,Democrat,Addie Lee Green,128Adams,"Dist 2, Duncan Park",Commissioner of Agriculture & Commerce,,Democrat,Addie Lee Green,124Adams,"Dist 2, Kingston",Commissioner of Agriculture & Commerce,,Democrat,Addie Lee Green,52Adams,"Dist 2, Liberty Park",Commissioner of Agriculture & Commerce,,Democrat,Addie Lee Green,69Adams,"Dist 3, Concord",Commissioner of Agriculture & Commerce,,Democrat,Addie Lee Green,209Adams,"Dist 3, Maryland Hgts",Commissioner of Agriculture & Commerce,,Democrat,Addie Lee Green,207Adams,"Dist 3, NPS Multi Purpose Bldg.",Commissioner of Agriculture & Commerce,,Democrat,Addie Lee Green,132Adams,"Dist 3, Palestine",Commissioner of Agriculture & Commerce,,Democrat,Addie Lee Green,231Adams,"Dist 4, Carpenter",Commissioner of Agriculture & Commerce,,Democrat,Addie Lee Green,139Adams,"Dist 4, Morgantown",Commissioner of Agriculture & Commerce,,Democrat,Addie Lee Green,163Adams,"Dist 4, Northside",Commissioner of Agriculture & Commerce,,Democrat,Addie Lee Green,536Adams,"Dist 4, Pine Ridge",Commissioner of Agriculture & Commerce,,Democrat,Addie Lee Green,183Adams,"Dist 5, Airport",Commissioner of Agriculture & Commerce,,Democrat,Addie Lee Green,224Adams,"Dist 5, Foster Mound",Commissioner of Agriculture & Commerce,,Democrat,Addie Lee Green,454Adams,Dist 5. Oakland,Commissioner of Agriculture & Commerce,,Democrat,Addie Lee Green,207Adams,Dist 5. Washington,Commissioner of Agriculture & Commerce,,Democrat,Addie Lee Green,78Adams,"Dist 1, Bellemont",Commissioner of Agriculture & Commerce,,Republican,Cindy Hyde-Smith,737Adams,"Dist 1, By-Pass Fire",Commissioner of Agriculture & Commerce,,Republican,Cindy Hyde-Smith,128Adams,"Dist 1, Courthouse",Commissioner of Agriculture & Commerce,,Republican,Cindy Hyde-Smith,283Adams,"Dist 2, Beau Pre",Commissioner of Agriculture & Commerce,,Republican,Cindy Hyde-Smith,263Adams,"Dist 2, Duncan Park",Commissioner of Agriculture & Commerce,,Republican,Cindy Hyde-Smith,283Adams,"Dist 2, Kingston",Commissioner of Agriculture & Commerce,,Republican,Cindy Hyde-Smith,281Adams,"Dist 2, Liberty Park",Commissioner of Agriculture & Commerce,,Republican,Cindy Hyde-Smith,326Adams,"Dist 3, Concord",Commissioner of Agriculture & Commerce,,Republican,Cindy Hyde-Smith,13Adams,"Dist 3, Maryland Hgts",Commissioner of Agriculture & Commerce,,Republican,Cindy Hyde-Smith,19Adams,"Dist 3, NPS Multi Purpose Bldg.",Commissioner of Agriculture & Commerce,,Republican,Cindy Hyde-Smith,110Adams,"Dist 3, Palestine",Commissioner of Agriculture & Commerce,,Republican,Cindy Hyde-Smith,130Adams,"Dist 4, Carpenter",Commissioner of Agriculture & Commerce,,Republican,Cindy Hyde-Smith,101Adams,"Dist 4, Morgantown",Commissioner of Agriculture & Commerce,,Republican,Cindy Hyde-Smith,65Adams,"Dist 4, Northside",Commissioner of Agriculture & Commerce,,Republican,Cindy Hyde-Smith,43Adams,"Dist 4, Pine Ridge",Commissioner of Agriculture & Commerce,,Republican,Cindy Hyde-Smith,45Adams,"Dist 5, Airport",Commissioner of Agriculture & Commerce,,Republican,Cindy Hyde-Smith,108Adams,"Dist 5, Foster Mound",Commissioner of Agriculture & Commerce,,Republican,Cindy Hyde-Smith,48Adams,Dist 5. Oakland,Commissioner of Agriculture & Commerce,,Republican,Cindy Hyde-Smith,332Adams,Dist 5. Washington,Commissioner of Agriculture & Commerce,,Republican,Cindy Hyde-Smith,197Adams,"Dist 1, Bellemont",Commissioner of Agriculture & Commerce,,Reform,Cathy L. Toole,11Adams,"Dist 1, By-Pass Fire",Commissioner of Agriculture & Commerce,,Reform,Cathy L. Toole,4Adams,"Dist 1, Courthouse",Commissioner of Agriculture & Commerce,,Reform,Cathy L. Toole,10Adams,"Dist 2, Beau Pre",Commissioner of Agriculture & Commerce,,Reform,Cathy L. Toole,6Adams,"Dist 2, Duncan Park",Commissioner of Agriculture & Commerce,,Reform,Cathy L. Toole,6Adams,"Dist 2, Kingston",Commissioner of Agriculture & Commerce,,Reform,Cathy L. Toole,7Adams,"Dist 2, Liberty Park",Commissioner of Agriculture & Commerce,,Reform,Cathy L. Toole,2Adams,"Dist 3, Concord",Commissioner of Agriculture & Commerce,,Reform,Cathy L. Toole,5Adams,"Dist 3, Maryland Hgts",Commissioner of Agriculture & Commerce,,Reform,Cathy L. Toole,3Adams,"Dist 3, NPS Multi Purpose Bldg.",Commissioner of Agriculture & Commerce,,Reform,Cathy L. Toole,2Adams,"Dist 3, Palestine",Commissioner of Agriculture & Commerce,,Reform,Cathy L. Toole,5Adams,"Dist 4, Carpenter",Commissioner of Agriculture & Commerce,,Reform,Cathy L. Toole,2Adams,"Dist 4, Morgantown",Commissioner of Agriculture & Commerce,,Reform,Cathy L. Toole,3Adams,"Dist 4, Northside",Commissioner of Agriculture & Commerce,,Reform,Cathy L. Toole,5Adams,"Dist 4, Pine Ridge",Commissioner of Agriculture & Commerce,,Reform,Cathy L. Toole,2Adams,"Dist 5, Airport",Commissioner of Agriculture & Commerce,,Reform,Cathy L. Toole,1Adams,"Dist 5, Foster Mound",Commissioner of Agriculture & Commerce,,Reform,Cathy L. Toole,3Adams,Dist 5. Oakland,Commissioner of Agriculture & Commerce,,Reform,Cathy L. Toole,11Adams,Dist 5. Washington,Commissioner of Agriculture & Commerce,,Reform,Cathy L. Toole,4Adams,"Dist 1, Bellemont",Commissioner of Insurance,,Republican,Mike Chaney,799Adams,"Dist 1, By-Pass Fire",Commissioner of Insurance,,Republican,Mike Chaney,200Adams,"Dist 1, Courthouse",Commissioner of Insurance,,Republican,Mike Chaney,339Adams,"Dist 2, Beau Pre",Commissioner of Insurance,,Republican,Mike Chaney,322Adams,"Dist 2, Duncan Park",Commissioner of Insurance,,Republican,Mike Chaney,339Adams,"Dist 2, Kingston",Commissioner of Insurance,,Republican,Mike Chaney,295Adams,"Dist 2, Liberty Park",Commissioner of Insurance,,Republican,Mike Chaney,345Adams,"Dist 3, Concord",Commissioner of Insurance,,Republican,Mike Chaney,83Adams,"Dist 3, Maryland Hgts",Commissioner of Insurance,,Republican,Mike Chaney,92Adams,"Dist 3, NPS Multi Purpose Bldg.",Commissioner of Insurance,,Republican,Mike Chaney,142Adams,"Dist 3, Palestine",Commissioner of Insurance,,Republican,Mike Chaney,215Adams,"Dist 4, Carpenter",Commissioner of Insurance,,Republican,Mike Chaney,150Adams,"Dist 4, Morgantown",Commissioner of Insurance,,Republican,Mike Chaney,137Adams,"Dist 4, Northside",Commissioner of Insurance,,Republican,Mike Chaney,235Adams,"Dist 4, Pine Ridge",Commissioner of Insurance,,Republican,Mike Chaney,100Adams,"Dist 5, Airport",Commissioner of Insurance,,Republican,Mike Chaney,181Adams,"Dist 5, Foster Mound",Commissioner of Insurance,,Republican,Mike Chaney,207Adams,Dist 5. Oakland,Commissioner of Insurance,,Republican,Mike Chaney,402Adams,Dist 5. Washington,Commissioner of Insurance,,Republican,Mike Chaney,116Adams,"Dist 1, Bellemont",State Senate,37,Democrat,Bob M. Deanng,614Adams,"Dist 1, By-Pass Fire",State Senate,37,Democrat,Bob M. Deanng,XAdams,"Dist 1, Courthouse",State Senate,37,Democrat,Bob M. Deanng,288Adams,"Dist 2, Beau Pre",State Senate,37,Democrat,Bob M. Deanng,248Adams,"Dist 2, Duncan Park",State Senate,37,Democrat,Bob M. Deanng,302Adams,"Dist 2, Kingston",State Senate,37,Democrat,Bob M. Deanng,115Adams,"Dist 2, Liberty Park",State Senate,37,Democrat,Bob M. Deanng,241Adams,"Dist 3, Concord",State Senate,37,Democrat,Bob M. Deanng,218Adams,"Dist 3, Maryland Hgts",State Senate,37,Democrat,Bob M. Deanng,221Adams,"Dist 3, NPS Multi Purpose Bldg.",State Senate,37,Democrat,Bob M. Deanng,183Adams,"Dist 3, Palestine",State Senate,37,Democrat,Bob M. Deanng,278Adams,"Dist 4, Carpenter",State Senate,37,Democrat,Bob M. Deanng,198Adams,"Dist 4, Morgantown",State Senate,37,Democrat,Bob M. Deanng,198Adams,"Dist 4, Northside",State Senate,37,Democrat,Bob M. Deanng,XAdams,"Dist 4, Pine Ridge",State Senate,37,Democrat,Bob M. Deanng,XAdams,"Dist 5, Airport",State Senate,37,Democrat,Bob M. Deanng,245Adams,"Dist 5, Foster Mound",State Senate,37,Democrat,Bob M. Deanng,XAdams,Dist 5. Oakland,State Senate,37,Democrat,Bob M. Deanng,337Adams,Dist 5. Washington,State Senate,37,Democrat,Bob M. Deanng,166Adams,"Dist 1, Bellemont",State Senate,37,Republican,Melanie Sojourner,347Adams,"Dist 1, By-Pass Fire",State Senate,37,Republican,Melanie Sojourner,XAdams,"Dist 1, Courthouse",State Senate,37,Republican,Melanie Sojourner,108Adams,"Dist 2, Beau Pre",State Senate,37,Republican,Melanie Sojourner,162Adams,"Dist 2, Duncan Park",State Senate,37,Republican,Melanie Sojourner,119Adams,"Dist 2, Kingston",State Senate,37,Republican,Melanie Sojourner,237Adams,"Dist 2, Liberty Park",State Senate,37,Republican,Melanie Sojourner,165Adams,"Dist 3, Concord",State Senate,37,Republican,Melanie Sojourner,10Adams,"Dist 3, Maryland Hgts",State Senate,37,Republican,Melanie Sojourner,11Adams,"Dist 3, NPS Multi Purpose Bldg.",State Senate,37,Republican,Melanie Sojourner,59Adams,"Dist 3, Palestine",State Senate,37,Republican,Melanie Sojourner,88Adams,"Dist 4, Carpenter",State Senate,37,Republican,Melanie Sojourner,52Adams,"Dist 4, Morgantown",State Senate,37,Republican,Melanie Sojourner,40Adams,"Dist 4, Northside",State Senate,37,Republican,Melanie Sojourner,XAdams,"Dist 4, Pine Ridge",State Senate,37,Republican,Melanie Sojourner,XAdams,"Dist 5, Airport",State Senate,37,Republican,Melanie Sojourner,90Adams,"Dist 5, Foster Mound",State Senate,37,Republican,Melanie Sojourner,XAdams,Dist 5. Oakland,State Senate,37,Republican,Melanie Sojourner,222Adams,Dist 5. Washington,State Senate,37,Republican,Melanie Sojourner,115Adams,"Dist 1, Bellemont",State Senate,38,Independent,Bente Hess Johnson,XAdams,"Dist 1, By-Pass Fire",State Senate,38,Independent,Bente Hess Johnson,13Adams,"Dist 1, Courthouse",State Senate,38,Independent,Bente Hess Johnson,XAdams,"Dist 2, Beau Pre",State Senate,38,Independent,Bente Hess Johnson,XAdams,"Dist 2, Duncan Park",State Senate,38,Independent,Bente Hess Johnson,XAdams,"Dist 2, Kingston",State Senate,38,Independent,Bente Hess Johnson,XAdams,"Dist 2, Liberty Park",State Senate,38,Independent,Bente Hess Johnson,XAdams,"Dist 3, Concord",State Senate,38,Independent,Bente Hess Johnson,XAdams,"Dist 3, Maryland Hgts",State Senate,38,Independent,Bente Hess Johnson,XAdams,"Dist 3, NPS Multi Purpose Bldg.",State Senate,38,Independent,Bente Hess Johnson,XAdams,"Dist 3, Palestine",State Senate,38,Independent,Bente Hess Johnson,XAdams,"Dist 4, Carpenter",State Senate,38,Independent,Bente Hess Johnson,XAdams,"Dist 4, Morgantown",State Senate,38,Independent,Bente Hess Johnson,XAdams,"Dist 4, Northside",State Senate,38,Independent,Bente Hess Johnson,19Adams,"Dist 4, Pine Ridge",State Senate,38,Independent,Bente Hess Johnson,11Adams,"Dist 5, Airport",State Senate,38,Independent,Bente Hess Johnson,XAdams,"Dist 5, Foster Mound",State Senate,38,Independent,Bente Hess Johnson,15Adams,Dist 5. Oakland,State Senate,38,Independent,Bente Hess Johnson,XAdams,Dist 5. Washington,State Senate,38,Independent,Bente Hess Johnson,XAdams,"Dist 1, Bellemont",State Senate,38,Republican,Dennis C. Quinn,58Adams,"Dist 1, By-Pass Fire",State Senate,38,Republican,Dennis C. Quinn,99Adams,"Dist 1, Courthouse",State Senate,38,Republican,Dennis C. Quinn,XAdams,"Dist 2, Beau Pre",State Senate,38,Republican,Dennis C. Quinn,XAdams,"Dist 2, Duncan Park",State Senate,38,Republican,Dennis C. Quinn,XAdams,"Dist 2, Kingston",State Senate,38,Republican,Dennis C. Quinn,XAdams,"Dist 2, Liberty Park",State Senate,38,Republican,Dennis C. Quinn,XAdams,"Dist 3, Concord",State Senate,38,Republican,Dennis C. Quinn,XAdams,"Dist 3, Maryland Hgts",State Senate,38,Republican,Dennis C. Quinn,XAdams,"Dist 3, NPS Multi Purpose Bldg.",State Senate,38,Republican,Dennis C. Quinn,XAdams,"Dist 3, Palestine",State Senate,38,Republican,Dennis C. Quinn,XAdams,"Dist 4, Carpenter",State Senate,38,Republican,Dennis C. Quinn,XAdams,"Dist 4, Morgantown",State Senate,38,Republican,Dennis C. Quinn,XAdams,"Dist 4, Northside",State Senate,38,Republican,Dennis C. Quinn,24Adams,"Dist 4, Pine Ridge",State Senate,38,Republican,Dennis C. Quinn,33Adams,"Dist 5, Airport",State Senate,38,Republican,Dennis C. Quinn,XAdams,"Dist 5, Foster Mound",State Senate,38,Republican,Dennis C. Quinn,24Adams,Dist 5. Oakland,State Senate,38,Republican,Dennis C. Quinn,XAdams,Dist 5. Washington,State Senate,38,Republican,Dennis C. Quinn,XAdams,"Dist 1, Bellemont",State Senate,38,Democrat,Tammy Felder Witherspoon,180Adams,"Dist 1, By-Pass Fire",State Senate,38,Democrat,Tammy Felder Witherspoon,244Adams,"Dist 1, Courthouse",State Senate,38,Democrat,Tammy Felder Witherspoon,XAdams,"Dist 2, Beau Pre",State Senate,38,Democrat,Tammy Felder Witherspoon,XAdams,"Dist 2, Duncan Park",State Senate,38,Democrat,Tammy Felder Witherspoon,XAdams,"Dist 2, Kingston",State Senate,38,Democrat,Tammy Felder Witherspoon,XAdams,"Dist 2, Liberty Park",State Senate,38,Democrat,Tammy Felder Witherspoon,XAdams,"Dist 3, Concord",State Senate,38,Democrat,Tammy Felder Witherspoon,XAdams,"Dist 3, Maryland Hgts",State Senate,38,Democrat,Tammy Felder Witherspoon,XAdams,"Dist 3, NPS Multi Purpose Bldg.",State Senate,38,Democrat,Tammy Felder Witherspoon,XAdams,"Dist 3, Palestine",State Senate,38,Democrat,Tammy Felder Witherspoon,XAdams,"Dist 4, Carpenter",State Senate,38,Democrat,Tammy Felder Witherspoon,XAdams,"Dist 4, Morgantown",State Senate,38,Democrat,Tammy Felder Witherspoon,XAdams,"Dist 4, Northside",State Senate,38,Democrat,Tammy Felder Witherspoon,529Adams,"Dist 4, Pine Ridge",State Senate,38,Democrat,Tammy Felder Witherspoon,172Adams,"Dist 5, Airport",State Senate,38,Democrat,Tammy Felder Witherspoon,XAdams,"Dist 5, Foster Mound",State Senate,38,Democrat,Tammy Felder Witherspoon,459Adams,Dist 5. Oakland,State Senate,38,Democrat,Tammy Felder Witherspoon,XAdams,Dist 5. Washington,State Senate,38,Democrat,Tammy Felder Witherspoon,XAdams,"Dist 1, Bellemont",State House,94,Democrat,"Robert L. Johnson, III",17Adams,"Dist 1, By-Pass Fire",State House,94,Democrat,"Robert L. Johnson, III",XAdams,"Dist 1, Courthouse",State House,94,Democrat,"Robert L. Johnson, III",0Adams,"Dist 2, Beau Pre",State House,94,Democrat,"Robert L. Johnson, III",XAdams,"Dist 2, Duncan Park",State House,94,Democrat,"Robert L. Johnson, III",25Adams,"Dist 2, Kingston",State House,94,Democrat,"Robert L. Johnson, III",XAdams,"Dist 2, Liberty Park",State House,94,Democrat,"Robert L. Johnson, III",XAdams,"Dist 3, Concord",State House,94,Democrat,"Robert L. Johnson, III",221Adams,"Dist 3, Maryland Hgts",State House,94,Democrat,"Robert L. Johnson, III",234Adams,"Dist 3, NPS Multi Purpose Bldg.",State House,94,Democrat,"Robert L. Johnson, III",211Adams,"Dist 3, Palestine",State House,94,Democrat,"Robert L. Johnson, III",314Adams,"Dist 4, Carpenter",State House,94,Democrat,"Robert L. Johnson, III",220Adams,"Dist 4, Morgantown",State House,94,Democrat,"Robert L. Johnson, III",219Adams,"Dist 4, Northside",State House,94,Democrat,"Robert L. Johnson, III",591Adams,"Dist 4, Pine Ridge",State House,94,Democrat,"Robert L. Johnson, III",207Adams,"Dist 5, Airport",State House,94,Democrat,"Robert L. Johnson, III",294Adams,"Dist 5, Foster Mound",State House,94,Democrat,"Robert L. Johnson, III",493Adams,Dist 5. Oakland,State House,94,Democrat,"Robert L. Johnson, III",446Adams,Dist 5. Washington,State House,94,Democrat,"Robert L. Johnson, III",216Adams,"Dist 1, Bellemont",State House,96,Democrat,Angela Cockerham,157Adams,"Dist 1, By-Pass Fire",State House,96,Democrat,Angela Cockerham,329Adams,"Dist 1, Courthouse",State House,96,Democrat,Angela Cockerham,XAdams,"Dist 2, Beau Pre",State House,96,Democrat,Angela Cockerham,85Adams,"Dist 2, Duncan Park",State House,96,Democrat,Angela Cockerham,XAdams,"Dist 2, Kingston",State House,96,Democrat,Angela Cockerham,XAdams,"Dist 2, Liberty Park",State House,96,Democrat,Angela Cockerham,XAdams,"Dist 3, Concord",State House,96,Democrat,Angela Cockerham,XAdams,"Dist 3, Maryland Hgts",State House,96,Democrat,Angela Cockerham,XAdams,"Dist 3, NPS Multi Purpose Bldg.",State House,96,Democrat,Angela Cockerham,XAdams,"Dist 3, Palestine",State House,96,Democrat,Angela Cockerham,XAdams,"Dist 4, Carpenter",State House,96,Democrat,Angela Cockerham,XAdams,"Dist 4, Morgantown",State House,96,Democrat,Angela Cockerham,XAdams,"Dist 4, Northside",State House,96,Democrat,Angela Cockerham,XAdams,"Dist 4, Pine Ridge",State House,96,Democrat,Angela Cockerham,XAdams,"Dist 5, Airport",State House,96,Democrat,Angela Cockerham,XAdams,"Dist 5, Foster Mound",State House,96,Democrat,Angela Cockerham,XAdams,Dist 5. Oakland,State House,96,Democrat,Angela Cockerham,XAdams,Dist 5. Washington,State House,96,Democrat,Angela Cockerham,XAdams,"Dist 1, Bellemont",State House,97,Republican,"Sam C. Mims, V",611Adams,"Dist 1, By-Pass Fire",State House,97,Republican,"Sam C. Mims, V",XAdams,"Dist 1, Courthouse",State House,97,Republican,"Sam C. Mims, V",270Adams,"Dist 2, Beau Pre",State House,97,Republican,"Sam C. Mims, V",240Adams,"Dist 2, Duncan Park",State House,97,Republican,"Sam C. Mims, V",71Adams,"Dist 2, Kingston",State House,97,Republican,"Sam C. Mims, V",262Adams,"Dist 2, Liberty Park",State House,97,Republican,"Sam C. Mims, V",304Adams,"Dist 3, Concord",State House,97,Republican,"Sam C. Mims, V",XAdams,"Dist 3, Maryland Hgts",State House,97,Republican,"Sam C. Mims, V",XAdams,"Dist 3, NPS Multi Purpose Bldg.",State House,97,Republican,"Sam C. Mims, V",XAdams,"Dist 3, Palestine",State House,97,Republican,"Sam C. Mims, V",1Adams,"Dist 4, Carpenter",State House,97,Republican,"Sam C. Mims, V",XAdams,"Dist 4, Morgantown",State House,97,Republican,"Sam C. Mims, V",XAdams,"Dist 4, Northside",State House,97,Republican,"Sam C. Mims, V",XAdams,"Dist 4, Pine Ridge",State House,97,Republican,"Sam C. Mims, V",XAdams,"Dist 5, Airport",State House,97,Republican,"Sam C. Mims, V",XAdams,"Dist 5, Foster Mound",State House,97,Republican,"Sam C. Mims, V",XAdams,Dist 5. Oakland,State House,97,Republican,"Sam C. Mims, V",XAdams,Dist 5. Washington,State House,97,Republican,"Sam C. Mims, V",XAdams,"Dist 1, Bellemont",State House,97,Democrat,Kitty Sasser,133Adams,"Dist 1, By-Pass Fire",State House,97,Democrat,Kitty Sasser,XAdams,"Dist 1, Courthouse",State House,97,Democrat,Kitty Sasser,118Adams,"Dist 2, Beau Pre",State House,97,Democrat,Kitty Sasser,75Adams,"Dist 2, Duncan Park",State House,97,Democrat,Kitty Sasser,33Adams,"Dist 2, Kingston",State House,97,Democrat,Kitty Sasser,81Adams,"Dist 2, Liberty Park",State House,97,Democrat,Kitty Sasser,96Adams,"Dist 3, Concord",State House,97,Democrat,Kitty Sasser,XAdams,"Dist 3, Maryland Hgts",State House,97,Democrat,Kitty Sasser,XAdams,"Dist 3, NPS Multi Purpose Bldg.",State House,97,Democrat,Kitty Sasser,XAdams,"Dist 3, Palestine",State House,97,Democrat,Kitty Sasser,2Adams,"Dist 4, Carpenter",State House,97,Democrat,Kitty Sasser,XAdams,"Dist 4, Morgantown",State House,97,Democrat,Kitty Sasser,XAdams,"Dist 4, Northside",State House,97,Democrat,Kitty Sasser,XAdams,"Dist 4, Pine Ridge",State House,97,Democrat,Kitty Sasser,XAdams,"Dist 5, Airport",State House,97,Democrat,Kitty Sasser,XAdams,"Dist 5, Foster Mound",State House,97,Democrat,Kitty Sasser,XAdams,Dist 5. Oakland,State House,97,Democrat,Kitty Sasser,XAdams,Dist 5. Washington,State House,97,Democrat,Kitty Sasser,X
+county,precinct,office,district,party,candidate,votes
+Adams,"Dist 1, Bellemont",Governor,,Republican,Phil Bryant,773
+Adams,"Dist 1, By-Pass Fire",Governor,,Republican,Phil Bryant,148
+Adams,"Dist 1, Courthouse",Governor,,Republican,Phil Bryant,287
+Adams,"Dist 2, Beau Pre",Governor,,Republican,Phil Bryant,282
+Adams,"Dist 2, Duncan Park",Governor,,Republican,Phil Bryant,290
+Adams,"Dist 2, Kingston",Governor,,Republican,Phil Bryant,294
+Adams,"Dist 2, Liberty Park",Governor,,Republican,Phil Bryant,333
+Adams,"Dist 3, Concord",Governor,,Republican,Phil Bryant,20
+Adams,"Dist 3, Maryland Hgts",Governor,,Republican,Phil Bryant,32
+Adams,"Dist 3, NPS Multi Purpose Bldg.",Governor,,Republican,Phil Bryant,117
+Adams,"Dist 3, Palestine",Governor,,Republican,Phil Bryant,155
+Adams,"Dist 4, Carpenter",Governor,,Republican,Phil Bryant,100
+Adams,"Dist 4, Morgantown",Governor,,Republican,Phil Bryant,86
+Adams,"Dist 4, Northside",Governor,,Republican,Phil Bryant,64
+Adams,"Dist 4, Pine Ridge",Governor,,Republican,Phil Bryant,47
+Adams,"Dist 5, Airport",Governor,,Republican,Phil Bryant,128
+Adams,"Dist 5, Foster Mound",Governor,,Republican,Phil Bryant,54
+Adams,Dist 5. Oakland,Governor,,Republican,Phil Bryant,357
+Adams,Dist 5. Washington,Governor,,Republican,Phil Bryant,200
+Adams,"Dist 1, Bellemont",Governor,,Democrat,Robert Gray,184
+Adams,"Dist 1, By-Pass Fire",Governor,,Democrat,Robert Gray,230
+Adams,"Dist 1, Courthouse",Governor,,Democrat,Robert Gray,95
+Adams,"Dist 2, Beau Pre",Governor,,Democrat,Robert Gray,120
+Adams,"Dist 2, Duncan Park",Governor,,Democrat,Robert Gray,126
+Adams,"Dist 2, Kingston",Governor,,Democrat,Robert Gray,52
+Adams,"Dist 2, Liberty Park",Governor,,Democrat,Robert Gray,66
+Adams,"Dist 3, Concord",Governor,,Democrat,Robert Gray,200
+Adams,"Dist 3, Maryland Hgts",Governor,,Democrat,Robert Gray,203
+Adams,"Dist 3, NPS Multi Purpose Bldg.",Governor,,Democrat,Robert Gray,131
+Adams,"Dist 3, Palestine",Governor,,Democrat,Robert Gray,211
+Adams,"Dist 4, Carpenter",Governor,,Democrat,Robert Gray,144
+Adams,"Dist 4, Morgantown",Governor,,Democrat,Robert Gray,150
+Adams,"Dist 4, Northside",Governor,,Democrat,Robert Gray,521
+Adams,"Dist 4, Pine Ridge",Governor,,Democrat,Robert Gray,181
+Adams,"Dist 5, Airport",Governor,,Democrat,Robert Gray,205
+Adams,"Dist 5, Foster Mound",Governor,,Democrat,Robert Gray,445
+Adams,Dist 5. Oakland,Governor,,Democrat,Robert Gray,200
+Adams,Dist 5. Washington,Governor,,Democrat,Robert Gray,75
+Adams,"Dist 1, Bellemont",Governor,,Reform,Shawn O'Hara,7
+Adams,"Dist 1, By-Pass Fire",Governor,,Reform,Shawn O'Hara,3
+Adams,"Dist 1, Courthouse",Governor,,Reform,Shawn O'Hara,5
+Adams,"Dist 2, Beau Pre",Governor,,Reform,Shawn O'Hara,3
+Adams,"Dist 2, Duncan Park",Governor,,Reform,Shawn O'Hara,9
+Adams,"Dist 2, Kingston",Governor,,Reform,Shawn O'Hara,3
+Adams,"Dist 2, Liberty Park",Governor,,Reform,Shawn O'Hara,2
+Adams,"Dist 3, Concord",Governor,,Reform,Shawn O'Hara,2
+Adams,"Dist 3, Maryland Hgts",Governor,,Reform,Shawn O'Hara,2
+Adams,"Dist 3, NPS Multi Purpose Bldg.",Governor,,Reform,Shawn O'Hara,1
+Adams,"Dist 3, Palestine",Governor,,Reform,Shawn O'Hara,6
+Adams,"Dist 4, Carpenter",Governor,,Reform,Shawn O'Hara,0
+Adams,"Dist 4, Morgantown",Governor,,Reform,Shawn O'Hara,1
+Adams,"Dist 4, Northside",Governor,,Reform,Shawn O'Hara,7
+Adams,"Dist 4, Pine Ridge",Governor,,Reform,Shawn O'Hara,4
+Adams,"Dist 5, Airport",Governor,,Reform,Shawn O'Hara,2
+Adams,"Dist 5, Foster Mound",Governor,,Reform,Shawn O'Hara,7
+Adams,Dist 5. Oakland,Governor,,Reform,Shawn O'Hara,4
+Adams,Dist 5. Washington,Governor,,Reform,Shawn O'Hara,3
+Adams,"Dist 1, Bellemont",Lieutenant Governor,,Democrat,Tim Johnson,214
+Adams,"Dist 1, By-Pass Fire",Lieutenant Governor,,Democrat,Tim Johnson,235
+Adams,"Dist 1, Courthouse",Lieutenant Governor,,Democrat,Tim Johnson,105
+Adams,"Dist 2, Beau Pre",Lieutenant Governor,,Democrat,Tim Johnson,128
+Adams,"Dist 2, Duncan Park",Lieutenant Governor,,Democrat,Tim Johnson,142
+Adams,"Dist 2, Kingston",Lieutenant Governor,,Democrat,Tim Johnson,63
+Adams,"Dist 2, Liberty Park",Lieutenant Governor,,Democrat,Tim Johnson,75
+Adams,"Dist 3, Concord",Lieutenant Governor,,Democrat,Tim Johnson,203
+Adams,"Dist 3, Maryland Hgts",Lieutenant Governor,,Democrat,Tim Johnson,207
+Adams,"Dist 3, NPS Multi Purpose Bldg.",Lieutenant Governor,,Democrat,Tim Johnson,140
+Adams,"Dist 3, Palestine",Lieutenant Governor,,Democrat,Tim Johnson,215
+Adams,"Dist 4, Carpenter",Lieutenant Governor,,Democrat,Tim Johnson,145
+Adams,"Dist 4, Morgantown",Lieutenant Governor,,Democrat,Tim Johnson,155
+Adams,"Dist 4, Northside",Lieutenant Governor,,Democrat,Tim Johnson,503
+Adams,"Dist 4, Pine Ridge",Lieutenant Governor,,Democrat,Tim Johnson,177
+Adams,"Dist 5, Airport",Lieutenant Governor,,Democrat,Tim Johnson,225
+Adams,"Dist 5, Foster Mound",Lieutenant Governor,,Democrat,Tim Johnson,439
+Adams,Dist 5. Oakland,Lieutenant Governor,,Democrat,Tim Johnson,212
+Adams,Dist 5. Washington,Lieutenant Governor,,Democrat,Tim Johnson,74
+Adams,"Dist 1, Bellemont",Lieutenant Governor,,Republican,Tate Reeves,722
+Adams,"Dist 1, By-Pass Fire",Lieutenant Governor,,Republican,Tate Reeves,121
+Adams,"Dist 1, Courthouse",Lieutenant Governor,,Republican,Tate Reeves,273
+Adams,"Dist 2, Beau Pre",Lieutenant Governor,,Republican,Tate Reeves,256
+Adams,"Dist 2, Duncan Park",Lieutenant Governor,,Republican,Tate Reeves,270
+Adams,"Dist 2, Kingston",Lieutenant Governor,,Republican,Tate Reeves,268
+Adams,"Dist 2, Liberty Park",Lieutenant Governor,,Republican,Tate Reeves,323
+Adams,"Dist 3, Concord",Lieutenant Governor,,Republican,Tate Reeves,10
+Adams,"Dist 3, Maryland Hgts",Lieutenant Governor,,Republican,Tate Reeves,15
+Adams,"Dist 3, NPS Multi Purpose Bldg.",Lieutenant Governor,,Republican,Tate Reeves,99
+Adams,"Dist 3, Palestine",Lieutenant Governor,,Republican,Tate Reeves,136
+Adams,"Dist 4, Carpenter",Lieutenant Governor,,Republican,Tate Reeves,85
+Adams,"Dist 4, Morgantown",Lieutenant Governor,,Republican,Tate Reeves,72
+Adams,"Dist 4, Northside",Lieutenant Governor,,Republican,Tate Reeves,50
+Adams,"Dist 4, Pine Ridge",Lieutenant Governor,,Republican,Tate Reeves,42
+Adams,"Dist 5, Airport",Lieutenant Governor,,Republican,Tate Reeves,104
+Adams,"Dist 5, Foster Mound",Lieutenant Governor,,Republican,Tate Reeves,49
+Adams,Dist 5. Oakland,Lieutenant Governor,,Republican,Tate Reeves,325
+Adams,Dist 5. Washington,Lieutenant Governor,,Republican,Tate Reeves,190
+Adams,"Dist 1, Bellemont",Lieutenant Governor,,Libertarian,Ron Williams,11
+Adams,"Dist 1, By-Pass Fire",Lieutenant Governor,,Libertarian,Ron Williams,6
+Adams,"Dist 1, Courthouse",Lieutenant Governor,,Libertarian,Ron Williams,9
+Adams,"Dist 2, Beau Pre",Lieutenant Governor,,Libertarian,Ron Williams,8
+Adams,"Dist 2, Duncan Park",Lieutenant Governor,,Libertarian,Ron Williams,7
+Adams,"Dist 2, Kingston",Lieutenant Governor,,Libertarian,Ron Williams,6
+Adams,"Dist 2, Liberty Park",Lieutenant Governor,,Libertarian,Ron Williams,4
+Adams,"Dist 3, Concord",Lieutenant Governor,,Libertarian,Ron Williams,2
+Adams,"Dist 3, Maryland Hgts",Lieutenant Governor,,Libertarian,Ron Williams,3
+Adams,"Dist 3, NPS Multi Purpose Bldg.",Lieutenant Governor,,Libertarian,Ron Williams,4
+Adams,"Dist 3, Palestine",Lieutenant Governor,,Libertarian,Ron Williams,9
+Adams,"Dist 4, Carpenter",Lieutenant Governor,,Libertarian,Ron Williams,8
+Adams,"Dist 4, Morgantown",Lieutenant Governor,,Libertarian,Ron Williams,4
+Adams,"Dist 4, Northside",Lieutenant Governor,,Libertarian,Ron Williams,6
+Adams,"Dist 4, Pine Ridge",Lieutenant Governor,,Libertarian,Ron Williams,4
+Adams,"Dist 5, Airport",Lieutenant Governor,,Libertarian,Ron Williams,1
+Adams,"Dist 5, Foster Mound",Lieutenant Governor,,Libertarian,Ron Williams,8
+Adams,Dist 5. Oakland,Lieutenant Governor,,Libertarian,Ron Williams,11
+Adams,Dist 5. Washington,Lieutenant Governor,,Libertarian,Ron Williams,6
+Adams,"Dist 1, Bellemont",Lieutenant Governor,,Reform,Rosa B. Williams,4
+Adams,"Dist 1, By-Pass Fire",Lieutenant Governor,,Reform,Rosa B. Williams,6
+Adams,"Dist 1, Courthouse",Lieutenant Governor,,Reform,Rosa B. Williams,0
+Adams,"Dist 2, Beau Pre",Lieutenant Governor,,Reform,Rosa B. Williams,4
+Adams,"Dist 2, Duncan Park",Lieutenant Governor,,Reform,Rosa B. Williams,4
+Adams,"Dist 2, Kingston",Lieutenant Governor,,Reform,Rosa B. Williams,3
+Adams,"Dist 2, Liberty Park",Lieutenant Governor,,Reform,Rosa B. Williams,2
+Adams,"Dist 3, Concord",Lieutenant Governor,,Reform,Rosa B. Williams,9
+Adams,"Dist 3, Maryland Hgts",Lieutenant Governor,,Reform,Rosa B. Williams,7
+Adams,"Dist 3, NPS Multi Purpose Bldg.",Lieutenant Governor,,Reform,Rosa B. Williams,2
+Adams,"Dist 3, Palestine",Lieutenant Governor,,Reform,Rosa B. Williams,6
+Adams,"Dist 4, Carpenter",Lieutenant Governor,,Reform,Rosa B. Williams,4
+Adams,"Dist 4, Morgantown",Lieutenant Governor,,Reform,Rosa B. Williams,3
+Adams,"Dist 4, Northside",Lieutenant Governor,,Reform,Rosa B. Williams,20
+Adams,"Dist 4, Pine Ridge",Lieutenant Governor,,Reform,Rosa B. Williams,6
+Adams,"Dist 5, Airport",Lieutenant Governor,,Reform,Rosa B. Williams,6
+Adams,"Dist 5, Foster Mound",Lieutenant Governor,,Reform,Rosa B. Williams,10
+Adams,Dist 5. Oakland,Lieutenant Governor,,Reform,Rosa B. Williams,1
+Adams,Dist 5. Washington,Lieutenant Governor,,Reform,Rosa B. Williams,1
+Adams,"Dist 1, Bellemont",Secretary of State,,Democrat,Charles E. Graham,194
+Adams,"Dist 1, By-Pass Fire",Secretary of State,,Democrat,Charles E. Graham,235
+Adams,"Dist 1, Courthouse",Secretary of State,,Democrat,Charles E. Graham,81
+Adams,"Dist 2, Beau Pre",Secretary of State,,Democrat,Charles E. Graham,129
+Adams,"Dist 2, Duncan Park",Secretary of State,,Democrat,Charles E. Graham,131
+Adams,"Dist 2, Kingston",Secretary of State,,Democrat,Charles E. Graham,61
+Adams,"Dist 2, Liberty Park",Secretary of State,,Democrat,Charles E. Graham,71
+Adams,"Dist 3, Concord",Secretary of State,,Democrat,Charles E. Graham,201
+Adams,"Dist 3, Maryland Hgts",Secretary of State,,Democrat,Charles E. Graham,210
+Adams,"Dist 3, NPS Multi Purpose Bldg.",Secretary of State,,Democrat,Charles E. Graham,131
+Adams,"Dist 3, Palestine",Secretary of State,,Democrat,Charles E. Graham,226
+Adams,"Dist 4, Carpenter",Secretary of State,,Democrat,Charles E. Graham,130
+Adams,"Dist 4, Morgantown",Secretary of State,,Democrat,Charles E. Graham,157
+Adams,"Dist 4, Northside",Secretary of State,,Democrat,Charles E. Graham,517
+Adams,"Dist 4, Pine Ridge",Secretary of State,,Democrat,Charles E. Graham,185
+Adams,"Dist 5, Airport",Secretary of State,,Democrat,Charles E. Graham,218
+Adams,"Dist 5, Foster Mound",Secretary of State,,Democrat,Charles E. Graham,441
+Adams,Dist 5. Oakland,Secretary of State,,Democrat,Charles E. Graham,210
+Adams,Dist 5. Washington,Secretary of State,,Democrat,Charles E. Graham,85
+Adams,"Dist 1, Bellemont",Secretary of State,,Republican,Delbert Hosemann,747
+Adams,"Dist 1, By-Pass Fire",Secretary of State,,Republican,Delbert Hosemann,137
+Adams,"Dist 1, Courthouse",Secretary of State,,Republican,Delbert Hosemann,297
+Adams,"Dist 2, Beau Pre",Secretary of State,,Republican,Delbert Hosemann,257
+Adams,"Dist 2, Duncan Park",Secretary of State,,Republican,Delbert Hosemann,276
+Adams,"Dist 2, Kingston",Secretary of State,,Republican,Delbert Hosemann,271
+Adams,"Dist 2, Liberty Park",Secretary of State,,Republican,Delbert Hosemann,323
+Adams,"Dist 3, Concord",Secretary of State,,Republican,Delbert Hosemann,15
+Adams,"Dist 3, Maryland Hgts",Secretary of State,,Republican,Delbert Hosemann,13
+Adams,"Dist 3, NPS Multi Purpose Bldg.",Secretary of State,,Republican,Delbert Hosemann,108
+Adams,"Dist 3, Palestine",Secretary of State,,Republican,Delbert Hosemann,130
+Adams,"Dist 4, Carpenter",Secretary of State,,Republican,Delbert Hosemann,104
+Adams,"Dist 4, Morgantown",Secretary of State,,Republican,Delbert Hosemann,73
+Adams,"Dist 4, Northside",Secretary of State,,Republican,Delbert Hosemann,49
+Adams,"Dist 4, Pine Ridge",Secretary of State,,Republican,Delbert Hosemann,41
+Adams,"Dist 5, Airport",Secretary of State,,Republican,Delbert Hosemann,108
+Adams,"Dist 5, Foster Mound",Secretary of State,,Republican,Delbert Hosemann,48
+Adams,Dist 5. Oakland,Secretary of State,,Republican,Delbert Hosemann,314
+Adams,Dist 5. Washington,Secretary of State,,Republican,Delbert Hosemann,190
+Adams,"Dist 1, Bellemont",Secretary of State,,Reform,Randy Walter,12
+Adams,"Dist 1, By-Pass Fire",Secretary of State,,Reform,Randy Walter,7
+Adams,"Dist 1, Courthouse",Secretary of State,,Reform,Randy Walter,6
+Adams,"Dist 2, Beau Pre",Secretary of State,,Reform,Randy Walter,14
+Adams,"Dist 2, Duncan Park",Secretary of State,,Reform,Randy Walter,4
+Adams,"Dist 2, Kingston",Secretary of State,,Reform,Randy Walter,14
+Adams,"Dist 2, Liberty Park",Secretary of State,,Reform,Randy Walter,3
+Adams,"Dist 3, Concord",Secretary of State,,Reform,Randy Walter,7
+Adams,"Dist 3, Maryland Hgts",Secretary of State,,Reform,Randy Walter,7
+Adams,"Dist 3, NPS Multi Purpose Bldg.",Secretary of State,,Reform,Randy Walter,5
+Adams,"Dist 3, Palestine",Secretary of State,,Reform,Randy Walter,8
+Adams,"Dist 4, Carpenter",Secretary of State,,Reform,Randy Walter,7
+Adams,"Dist 4, Morgantown",Secretary of State,,Reform,Randy Walter,7
+Adams,"Dist 4, Northside",Secretary of State,,Reform,Randy Walter,17
+Adams,"Dist 4, Pine Ridge",Secretary of State,,Reform,Randy Walter,3
+Adams,"Dist 5, Airport",Secretary of State,,Reform,Randy Walter,6
+Adams,"Dist 5, Foster Mound",Secretary of State,,Reform,Randy Walter,10
+Adams,Dist 5. Oakland,Secretary of State,,Reform,Randy Walter,23
+Adams,Dist 5. Washington,Secretary of State,,Reform,Randy Walter,3
+Adams,"Dist 1, Bellemont",Attomey General,,Democrat,Jim Hood,466
+Adams,"Dist 1, By-Pass Fire",Attomey General,,Democrat,Jim Hood,293
+Adams,"Dist 1, Courthouse",Attomey General,,Democrat,Jim Hood,183
+Adams,"Dist 2, Beau Pre",Attomey General,,Democrat,Jim Hood,218
+Adams,"Dist 2, Duncan Park",Attomey General,,Democrat,Jim Hood,237
+Adams,"Dist 2, Kingston",Attomey General,,Democrat,Jim Hood,139
+Adams,"Dist 2, Liberty Park",Attomey General,,Democrat,Jim Hood,201
+Adams,"Dist 3, Concord",Attomey General,,Democrat,Jim Hood,221
+Adams,"Dist 3, Maryland Hgts",Attomey General,,Democrat,Jim Hood,224
+Adams,"Dist 3, NPS Multi Purpose Bldg.",Attomey General,,Democrat,Jim Hood,182
+Adams,"Dist 3, Palestine",Attomey General,,Democrat,Jim Hood,277
+Adams,"Dist 4, Carpenter",Attomey General,,Democrat,Jim Hood,178
+Adams,"Dist 4, Morgantown",Attomey General,,Democrat,Jim Hood,197
+Adams,"Dist 4, Northside",Attomey General,,Democrat,Jim Hood,577
+Adams,"Dist 4, Pine Ridge",Attomey General,,Democrat,Jim Hood,206
+Adams,"Dist 5, Airport",Attomey General,,Democrat,Jim Hood,271
+Adams,"Dist 5, Foster Mound",Attomey General,,Democrat,Jim Hood,489
+Adams,Dist 5. Oakland,Attomey General,,Democrat,Jim Hood,330
+Adams,Dist 5. Washington,Attomey General,,Democrat,Jim Hood,157
+Adams,"Dist 1, Bellemont",Attomey General,,Republican,Mike Hurst,501
+Adams,"Dist 1, By-Pass Fire",Attomey General,,Republican,Mike Hurst,86
+Adams,"Dist 1, Courthouse",Attomey General,,Republican,Mike Hurst,203
+Adams,"Dist 2, Beau Pre",Attomey General,,Republican,Mike Hurst,190
+Adams,"Dist 2, Duncan Park",Attomey General,,Republican,Mike Hurst,183
+Adams,"Dist 2, Kingston",Attomey General,,Republican,Mike Hurst,205
+Adams,"Dist 2, Liberty Park",Attomey General,,Republican,Mike Hurst,205
+Adams,"Dist 3, Concord",Attomey General,,Republican,Mike Hurst,7
+Adams,"Dist 3, Maryland Hgts",Attomey General,,Republican,Mike Hurst,11
+Adams,"Dist 3, NPS Multi Purpose Bldg.",Attomey General,,Republican,Mike Hurst,64
+Adams,"Dist 3, Palestine",Attomey General,,Republican,Mike Hurst,89
+Adams,"Dist 4, Carpenter",Attomey General,,Republican,Mike Hurst,67
+Adams,"Dist 4, Morgantown",Attomey General,,Republican,Mike Hurst,40
+Adams,"Dist 4, Northside",Attomey General,,Republican,Mike Hurst,21
+Adams,"Dist 4, Pine Ridge",Attomey General,,Republican,Mike Hurst,27
+Adams,"Dist 5, Airport",Attomey General,,Republican,Mike Hurst,67
+Adams,"Dist 5, Foster Mound",Attomey General,,Republican,Mike Hurst,22
+Adams,Dist 5. Oakland,Attomey General,,Republican,Mike Hurst,226
+Adams,Dist 5. Washington,Attomey General,,Republican,Mike Hurst,122
+Adams,"Dist 1, Bellemont",State Auditor,,Republican,Stacey E. Pickering,738
+Adams,"Dist 1, By-Pass Fire",State Auditor,,Republican,Stacey E. Pickering,139
+Adams,"Dist 1, Courthouse",State Auditor,,Republican,Stacey E. Pickering,284
+Adams,"Dist 2, Beau Pre",State Auditor,,Republican,Stacey E. Pickering,259
+Adams,"Dist 2, Duncan Park",State Auditor,,Republican,Stacey E. Pickering,287
+Adams,"Dist 2, Kingston",State Auditor,,Republican,Stacey E. Pickering,283
+Adams,"Dist 2, Liberty Park",State Auditor,,Republican,Stacey E. Pickering,326
+Adams,"Dist 3, Concord",State Auditor,,Republican,Stacey E. Pickering,17
+Adams,"Dist 3, Maryland Hgts",State Auditor,,Republican,Stacey E. Pickering,19
+Adams,"Dist 3, NPS Multi Purpose Bldg.",State Auditor,,Republican,Stacey E. Pickering,97
+Adams,"Dist 3, Palestine",State Auditor,,Republican,Stacey E. Pickering,141
+Adams,"Dist 4, Carpenter",State Auditor,,Republican,Stacey E. Pickering,103
+Adams,"Dist 4, Morgantown",State Auditor,,Republican,Stacey E. Pickering,75
+Adams,"Dist 4, Northside",State Auditor,,Republican,Stacey E. Pickering,57
+Adams,"Dist 4, Pine Ridge",State Auditor,,Republican,Stacey E. Pickering,50
+Adams,"Dist 5, Airport",State Auditor,,Republican,Stacey E. Pickering,114
+Adams,"Dist 5, Foster Mound",State Auditor,,Republican,Stacey E. Pickering,49
+Adams,Dist 5. Oakland,State Auditor,,Republican,Stacey E. Pickering,338
+Adams,Dist 5. Washington,State Auditor,,Republican,Stacey E. Pickering,190
+Adams,"Dist 1, Bellemont",State Auditor,,Democrat,Jocelyn 'Joce' Pepper Pritchett,203
+Adams,"Dist 1, By-Pass Fire",State Auditor,,Democrat,Jocelyn 'Joce' Pepper Pritchett,232
+Adams,"Dist 1, Courthouse",State Auditor,,Democrat,Jocelyn 'Joce' Pepper Pritchett,98
+Adams,"Dist 2, Beau Pre",State Auditor,,Democrat,Jocelyn 'Joce' Pepper Pritchett,135
+Adams,"Dist 2, Duncan Park",State Auditor,,Democrat,Jocelyn 'Joce' Pepper Pritchett,123
+Adams,"Dist 2, Kingston",State Auditor,,Democrat,Jocelyn 'Joce' Pepper Pritchett,55
+Adams,"Dist 2, Liberty Park",State Auditor,,Democrat,Jocelyn 'Joce' Pepper Pritchett,72
+Adams,"Dist 3, Concord",State Auditor,,Democrat,Jocelyn 'Joce' Pepper Pritchett,199
+Adams,"Dist 3, Maryland Hgts",State Auditor,,Democrat,Jocelyn 'Joce' Pepper Pritchett,203
+Adams,"Dist 3, NPS Multi Purpose Bldg.",State Auditor,,Democrat,Jocelyn 'Joce' Pepper Pritchett,141
+Adams,"Dist 3, Palestine",State Auditor,,Democrat,Jocelyn 'Joce' Pepper Pritchett,214
+Adams,"Dist 4, Carpenter",State Auditor,,Democrat,Jocelyn 'Joce' Pepper Pritchett,141
+Adams,"Dist 4, Morgantown",State Auditor,,Democrat,Jocelyn 'Joce' Pepper Pritchett,156
+Adams,"Dist 4, Northside",State Auditor,,Democrat,Jocelyn 'Joce' Pepper Pritchett,514
+Adams,"Dist 4, Pine Ridge",State Auditor,,Democrat,Jocelyn 'Joce' Pepper Pritchett,175
+Adams,"Dist 5, Airport",State Auditor,,Democrat,Jocelyn 'Joce' Pepper Pritchett,217
+Adams,"Dist 5, Foster Mound",State Auditor,,Democrat,Jocelyn 'Joce' Pepper Pritchett,434
+Adams,Dist 5. Oakland,State Auditor,,Democrat,Jocelyn 'Joce' Pepper Pritchett,203
+Adams,Dist 5. Washington,State Auditor,,Democrat,Jocelyn 'Joce' Pepper Pritchett,83
+Adams,"Dist 1, Bellemont",State Auditor,,Reform,Lajena Walley,6
+Adams,"Dist 1, By-Pass Fire",State Auditor,,Reform,Lajena Walley,1
+Adams,"Dist 1, Courthouse",State Auditor,,Reform,Lajena Walley,3
+Adams,"Dist 2, Beau Pre",State Auditor,,Reform,Lajena Walley,5
+Adams,"Dist 2, Duncan Park",State Auditor,,Reform,Lajena Walley,4
+Adams,"Dist 2, Kingston",State Auditor,,Reform,Lajena Walley,1
+Adams,"Dist 2, Liberty Park",State Auditor,,Reform,Lajena Walley,0
+Adams,"Dist 3, Concord",State Auditor,,Reform,Lajena Walley,4
+Adams,"Dist 3, Maryland Hgts",State Auditor,,Reform,Lajena Walley,2
+Adams,"Dist 3, NPS Multi Purpose Bldg.",State Auditor,,Reform,Lajena Walley,4
+Adams,"Dist 3, Palestine",State Auditor,,Reform,Lajena Walley,4
+Adams,"Dist 4, Carpenter",State Auditor,,Reform,Lajena Walley,1
+Adams,"Dist 4, Morgantown",State Auditor,,Reform,Lajena Walley,3
+Adams,"Dist 4, Northside",State Auditor,,Reform,Lajena Walley,8
+Adams,"Dist 4, Pine Ridge",State Auditor,,Reform,Lajena Walley,0
+Adams,"Dist 5, Airport",State Auditor,,Reform,Lajena Walley,2
+Adams,"Dist 5, Foster Mound",State Auditor,,Reform,Lajena Walley,7
+Adams,Dist 5. Oakland,State Auditor,,Reform,Lajena Walley,8
+Adams,Dist 5. Washington,State Auditor,,Reform,Lajena Walley,1
+Adams,"Dist 1, Bellemont",State Treasurer,,Republican,Lynn Fitch,786
+Adams,"Dist 1, By-Pass Fire",State Treasurer,,Republican,Lynn Fitch,175
+Adams,"Dist 1, Courthouse",State Treasurer,,Republican,Lynn Fitch,318
+Adams,"Dist 2, Beau Pre",State Treasurer,,Republican,Lynn Fitch,302
+Adams,"Dist 2, Duncan Park",State Treasurer,,Republican,Lynn Fitch,318
+Adams,"Dist 2, Kingston",State Treasurer,,Republican,Lynn Fitch,288
+Adams,"Dist 2, Liberty Park",State Treasurer,,Republican,Lynn Fitch,336
+Adams,"Dist 3, Concord",State Treasurer,,Republican,Lynn Fitch,45
+Adams,"Dist 3, Maryland Hgts",State Treasurer,,Republican,Lynn Fitch,53
+Adams,"Dist 3, NPS Multi Purpose Bldg.",State Treasurer,,Republican,Lynn Fitch,130
+Adams,"Dist 3, Palestine",State Treasurer,,Republican,Lynn Fitch,168
+Adams,"Dist 4, Carpenter",State Treasurer,,Republican,Lynn Fitch,119
+Adams,"Dist 4, Morgantown",State Treasurer,,Republican,Lynn Fitch,106
+Adams,"Dist 4, Northside",State Treasurer,,Republican,Lynn Fitch,147
+Adams,"Dist 4, Pine Ridge",State Treasurer,,Republican,Lynn Fitch,69
+Adams,"Dist 5, Airport",State Treasurer,,Republican,Lynn Fitch,149
+Adams,"Dist 5, Foster Mound",State Treasurer,,Republican,Lynn Fitch,113
+Adams,Dist 5. Oakland,State Treasurer,,Republican,Lynn Fitch,371
+Adams,Dist 5. Washington,State Treasurer,,Republican,Lynn Fitch,208
+Adams,"Dist 1, Bellemont",State Treasurer,,Reform,Viola V. McFarland,98
+Adams,"Dist 1, By-Pass Fire",State Treasurer,,Reform,Viola V. McFarland,92
+Adams,"Dist 1, Courthouse",State Treasurer,,Reform,Viola V. McFarland,46
+Adams,"Dist 2, Beau Pre",State Treasurer,,Reform,Viola V. McFarland,67
+Adams,"Dist 2, Duncan Park",State Treasurer,,Reform,Viola V. McFarland,66
+Adams,"Dist 2, Kingston",State Treasurer,,Reform,Viola V. McFarland,41
+Adams,"Dist 2, Liberty Park",State Treasurer,,Reform,Viola V. McFarland,40
+Adams,"Dist 3, Concord",State Treasurer,,Reform,Viola V. McFarland,100
+Adams,"Dist 3, Maryland Hgts",State Treasurer,,Reform,Viola V. McFarland,91
+Adams,"Dist 3, NPS Multi Purpose Bldg.",State Treasurer,,Reform,Viola V. McFarland,60
+Adams,"Dist 3, Palestine",State Treasurer,,Reform,Viola V. McFarland,110
+Adams,"Dist 4, Carpenter",State Treasurer,,Reform,Viola V. McFarland,78
+Adams,"Dist 4, Morgantown",State Treasurer,,Reform,Viola V. McFarland,79
+Adams,"Dist 4, Northside",State Treasurer,,Reform,Viola V. McFarland,219
+Adams,"Dist 4, Pine Ridge",State Treasurer,,Reform,Viola V. McFarland,80
+Adams,"Dist 5, Airport",State Treasurer,,Reform,Viola V. McFarland,96
+Adams,"Dist 5, Foster Mound",State Treasurer,,Reform,Viola V. McFarland,204
+Adams,Dist 5. Oakland,State Treasurer,,Reform,Viola V. McFarland,106
+Adams,Dist 5. Washington,State Treasurer,,Reform,Viola V. McFarland,38
+Adams,"Dist 1, Bellemont",Commissioner of Agriculture & Commerce,,Democrat,Addie Lee Green,196
+Adams,"Dist 1, By-Pass Fire",Commissioner of Agriculture & Commerce,,Democrat,Addie Lee Green,242
+Adams,"Dist 1, Courthouse",Commissioner of Agriculture & Commerce,,Democrat,Addie Lee Green,86
+Adams,"Dist 2, Beau Pre",Commissioner of Agriculture & Commerce,,Democrat,Addie Lee Green,128
+Adams,"Dist 2, Duncan Park",Commissioner of Agriculture & Commerce,,Democrat,Addie Lee Green,124
+Adams,"Dist 2, Kingston",Commissioner of Agriculture & Commerce,,Democrat,Addie Lee Green,52
+Adams,"Dist 2, Liberty Park",Commissioner of Agriculture & Commerce,,Democrat,Addie Lee Green,69
+Adams,"Dist 3, Concord",Commissioner of Agriculture & Commerce,,Democrat,Addie Lee Green,209
+Adams,"Dist 3, Maryland Hgts",Commissioner of Agriculture & Commerce,,Democrat,Addie Lee Green,207
+Adams,"Dist 3, NPS Multi Purpose Bldg.",Commissioner of Agriculture & Commerce,,Democrat,Addie Lee Green,132
+Adams,"Dist 3, Palestine",Commissioner of Agriculture & Commerce,,Democrat,Addie Lee Green,231
+Adams,"Dist 4, Carpenter",Commissioner of Agriculture & Commerce,,Democrat,Addie Lee Green,139
+Adams,"Dist 4, Morgantown",Commissioner of Agriculture & Commerce,,Democrat,Addie Lee Green,163
+Adams,"Dist 4, Northside",Commissioner of Agriculture & Commerce,,Democrat,Addie Lee Green,536
+Adams,"Dist 4, Pine Ridge",Commissioner of Agriculture & Commerce,,Democrat,Addie Lee Green,183
+Adams,"Dist 5, Airport",Commissioner of Agriculture & Commerce,,Democrat,Addie Lee Green,224
+Adams,"Dist 5, Foster Mound",Commissioner of Agriculture & Commerce,,Democrat,Addie Lee Green,454
+Adams,Dist 5. Oakland,Commissioner of Agriculture & Commerce,,Democrat,Addie Lee Green,207
+Adams,Dist 5. Washington,Commissioner of Agriculture & Commerce,,Democrat,Addie Lee Green,78
+Adams,"Dist 1, Bellemont",Commissioner of Agriculture & Commerce,,Republican,Cindy Hyde-Smith,737
+Adams,"Dist 1, By-Pass Fire",Commissioner of Agriculture & Commerce,,Republican,Cindy Hyde-Smith,128
+Adams,"Dist 1, Courthouse",Commissioner of Agriculture & Commerce,,Republican,Cindy Hyde-Smith,283
+Adams,"Dist 2, Beau Pre",Commissioner of Agriculture & Commerce,,Republican,Cindy Hyde-Smith,263
+Adams,"Dist 2, Duncan Park",Commissioner of Agriculture & Commerce,,Republican,Cindy Hyde-Smith,283
+Adams,"Dist 2, Kingston",Commissioner of Agriculture & Commerce,,Republican,Cindy Hyde-Smith,281
+Adams,"Dist 2, Liberty Park",Commissioner of Agriculture & Commerce,,Republican,Cindy Hyde-Smith,326
+Adams,"Dist 3, Concord",Commissioner of Agriculture & Commerce,,Republican,Cindy Hyde-Smith,13
+Adams,"Dist 3, Maryland Hgts",Commissioner of Agriculture & Commerce,,Republican,Cindy Hyde-Smith,19
+Adams,"Dist 3, NPS Multi Purpose Bldg.",Commissioner of Agriculture & Commerce,,Republican,Cindy Hyde-Smith,110
+Adams,"Dist 3, Palestine",Commissioner of Agriculture & Commerce,,Republican,Cindy Hyde-Smith,130
+Adams,"Dist 4, Carpenter",Commissioner of Agriculture & Commerce,,Republican,Cindy Hyde-Smith,101
+Adams,"Dist 4, Morgantown",Commissioner of Agriculture & Commerce,,Republican,Cindy Hyde-Smith,65
+Adams,"Dist 4, Northside",Commissioner of Agriculture & Commerce,,Republican,Cindy Hyde-Smith,43
+Adams,"Dist 4, Pine Ridge",Commissioner of Agriculture & Commerce,,Republican,Cindy Hyde-Smith,45
+Adams,"Dist 5, Airport",Commissioner of Agriculture & Commerce,,Republican,Cindy Hyde-Smith,108
+Adams,"Dist 5, Foster Mound",Commissioner of Agriculture & Commerce,,Republican,Cindy Hyde-Smith,48
+Adams,Dist 5. Oakland,Commissioner of Agriculture & Commerce,,Republican,Cindy Hyde-Smith,332
+Adams,Dist 5. Washington,Commissioner of Agriculture & Commerce,,Republican,Cindy Hyde-Smith,197
+Adams,"Dist 1, Bellemont",Commissioner of Agriculture & Commerce,,Reform,Cathy L. Toole,11
+Adams,"Dist 1, By-Pass Fire",Commissioner of Agriculture & Commerce,,Reform,Cathy L. Toole,4
+Adams,"Dist 1, Courthouse",Commissioner of Agriculture & Commerce,,Reform,Cathy L. Toole,10
+Adams,"Dist 2, Beau Pre",Commissioner of Agriculture & Commerce,,Reform,Cathy L. Toole,6
+Adams,"Dist 2, Duncan Park",Commissioner of Agriculture & Commerce,,Reform,Cathy L. Toole,6
+Adams,"Dist 2, Kingston",Commissioner of Agriculture & Commerce,,Reform,Cathy L. Toole,7
+Adams,"Dist 2, Liberty Park",Commissioner of Agriculture & Commerce,,Reform,Cathy L. Toole,2
+Adams,"Dist 3, Concord",Commissioner of Agriculture & Commerce,,Reform,Cathy L. Toole,5
+Adams,"Dist 3, Maryland Hgts",Commissioner of Agriculture & Commerce,,Reform,Cathy L. Toole,3
+Adams,"Dist 3, NPS Multi Purpose Bldg.",Commissioner of Agriculture & Commerce,,Reform,Cathy L. Toole,2
+Adams,"Dist 3, Palestine",Commissioner of Agriculture & Commerce,,Reform,Cathy L. Toole,5
+Adams,"Dist 4, Carpenter",Commissioner of Agriculture & Commerce,,Reform,Cathy L. Toole,2
+Adams,"Dist 4, Morgantown",Commissioner of Agriculture & Commerce,,Reform,Cathy L. Toole,3
+Adams,"Dist 4, Northside",Commissioner of Agriculture & Commerce,,Reform,Cathy L. Toole,5
+Adams,"Dist 4, Pine Ridge",Commissioner of Agriculture & Commerce,,Reform,Cathy L. Toole,2
+Adams,"Dist 5, Airport",Commissioner of Agriculture & Commerce,,Reform,Cathy L. Toole,1
+Adams,"Dist 5, Foster Mound",Commissioner of Agriculture & Commerce,,Reform,Cathy L. Toole,3
+Adams,Dist 5. Oakland,Commissioner of Agriculture & Commerce,,Reform,Cathy L. Toole,11
+Adams,Dist 5. Washington,Commissioner of Agriculture & Commerce,,Reform,Cathy L. Toole,4
+Adams,"Dist 1, Bellemont",Commissioner of Insurance,,Republican,Mike Chaney,799
+Adams,"Dist 1, By-Pass Fire",Commissioner of Insurance,,Republican,Mike Chaney,200
+Adams,"Dist 1, Courthouse",Commissioner of Insurance,,Republican,Mike Chaney,339
+Adams,"Dist 2, Beau Pre",Commissioner of Insurance,,Republican,Mike Chaney,322
+Adams,"Dist 2, Duncan Park",Commissioner of Insurance,,Republican,Mike Chaney,339
+Adams,"Dist 2, Kingston",Commissioner of Insurance,,Republican,Mike Chaney,295
+Adams,"Dist 2, Liberty Park",Commissioner of Insurance,,Republican,Mike Chaney,345
+Adams,"Dist 3, Concord",Commissioner of Insurance,,Republican,Mike Chaney,83
+Adams,"Dist 3, Maryland Hgts",Commissioner of Insurance,,Republican,Mike Chaney,92
+Adams,"Dist 3, NPS Multi Purpose Bldg.",Commissioner of Insurance,,Republican,Mike Chaney,142
+Adams,"Dist 3, Palestine",Commissioner of Insurance,,Republican,Mike Chaney,215
+Adams,"Dist 4, Carpenter",Commissioner of Insurance,,Republican,Mike Chaney,150
+Adams,"Dist 4, Morgantown",Commissioner of Insurance,,Republican,Mike Chaney,137
+Adams,"Dist 4, Northside",Commissioner of Insurance,,Republican,Mike Chaney,235
+Adams,"Dist 4, Pine Ridge",Commissioner of Insurance,,Republican,Mike Chaney,100
+Adams,"Dist 5, Airport",Commissioner of Insurance,,Republican,Mike Chaney,181
+Adams,"Dist 5, Foster Mound",Commissioner of Insurance,,Republican,Mike Chaney,207
+Adams,Dist 5. Oakland,Commissioner of Insurance,,Republican,Mike Chaney,402
+Adams,Dist 5. Washington,Commissioner of Insurance,,Republican,Mike Chaney,116
+Adams,"Dist 1, Bellemont",State Senate,37,Democrat,Bob M. Deanng,614
+Adams,"Dist 1, By-Pass Fire",State Senate,37,Democrat,Bob M. Deanng,X
+Adams,"Dist 1, Courthouse",State Senate,37,Democrat,Bob M. Deanng,288
+Adams,"Dist 2, Beau Pre",State Senate,37,Democrat,Bob M. Deanng,248
+Adams,"Dist 2, Duncan Park",State Senate,37,Democrat,Bob M. Deanng,302
+Adams,"Dist 2, Kingston",State Senate,37,Democrat,Bob M. Deanng,115
+Adams,"Dist 2, Liberty Park",State Senate,37,Democrat,Bob M. Deanng,241
+Adams,"Dist 3, Concord",State Senate,37,Democrat,Bob M. Deanng,218
+Adams,"Dist 3, Maryland Hgts",State Senate,37,Democrat,Bob M. Deanng,221
+Adams,"Dist 3, NPS Multi Purpose Bldg.",State Senate,37,Democrat,Bob M. Deanng,183
+Adams,"Dist 3, Palestine",State Senate,37,Democrat,Bob M. Deanng,278
+Adams,"Dist 4, Carpenter",State Senate,37,Democrat,Bob M. Deanng,198
+Adams,"Dist 4, Morgantown",State Senate,37,Democrat,Bob M. Deanng,198
+Adams,"Dist 4, Northside",State Senate,37,Democrat,Bob M. Deanng,X
+Adams,"Dist 4, Pine Ridge",State Senate,37,Democrat,Bob M. Deanng,X
+Adams,"Dist 5, Airport",State Senate,37,Democrat,Bob M. Deanng,245
+Adams,"Dist 5, Foster Mound",State Senate,37,Democrat,Bob M. Deanng,X
+Adams,Dist 5. Oakland,State Senate,37,Democrat,Bob M. Deanng,337
+Adams,Dist 5. Washington,State Senate,37,Democrat,Bob M. Deanng,166
+Adams,"Dist 1, Bellemont",State Senate,37,Republican,Melanie Sojourner,347
+Adams,"Dist 1, By-Pass Fire",State Senate,37,Republican,Melanie Sojourner,X
+Adams,"Dist 1, Courthouse",State Senate,37,Republican,Melanie Sojourner,108
+Adams,"Dist 2, Beau Pre",State Senate,37,Republican,Melanie Sojourner,162
+Adams,"Dist 2, Duncan Park",State Senate,37,Republican,Melanie Sojourner,119
+Adams,"Dist 2, Kingston",State Senate,37,Republican,Melanie Sojourner,237
+Adams,"Dist 2, Liberty Park",State Senate,37,Republican,Melanie Sojourner,165
+Adams,"Dist 3, Concord",State Senate,37,Republican,Melanie Sojourner,10
+Adams,"Dist 3, Maryland Hgts",State Senate,37,Republican,Melanie Sojourner,11
+Adams,"Dist 3, NPS Multi Purpose Bldg.",State Senate,37,Republican,Melanie Sojourner,59
+Adams,"Dist 3, Palestine",State Senate,37,Republican,Melanie Sojourner,88
+Adams,"Dist 4, Carpenter",State Senate,37,Republican,Melanie Sojourner,52
+Adams,"Dist 4, Morgantown",State Senate,37,Republican,Melanie Sojourner,40
+Adams,"Dist 4, Northside",State Senate,37,Republican,Melanie Sojourner,X
+Adams,"Dist 4, Pine Ridge",State Senate,37,Republican,Melanie Sojourner,X
+Adams,"Dist 5, Airport",State Senate,37,Republican,Melanie Sojourner,90
+Adams,"Dist 5, Foster Mound",State Senate,37,Republican,Melanie Sojourner,X
+Adams,Dist 5. Oakland,State Senate,37,Republican,Melanie Sojourner,222
+Adams,Dist 5. Washington,State Senate,37,Republican,Melanie Sojourner,115
+Adams,"Dist 1, Bellemont",State Senate,38,Independent,Bente Hess Johnson,X
+Adams,"Dist 1, By-Pass Fire",State Senate,38,Independent,Bente Hess Johnson,13
+Adams,"Dist 1, Courthouse",State Senate,38,Independent,Bente Hess Johnson,X
+Adams,"Dist 2, Beau Pre",State Senate,38,Independent,Bente Hess Johnson,X
+Adams,"Dist 2, Duncan Park",State Senate,38,Independent,Bente Hess Johnson,X
+Adams,"Dist 2, Kingston",State Senate,38,Independent,Bente Hess Johnson,X
+Adams,"Dist 2, Liberty Park",State Senate,38,Independent,Bente Hess Johnson,X
+Adams,"Dist 3, Concord",State Senate,38,Independent,Bente Hess Johnson,X
+Adams,"Dist 3, Maryland Hgts",State Senate,38,Independent,Bente Hess Johnson,X
+Adams,"Dist 3, NPS Multi Purpose Bldg.",State Senate,38,Independent,Bente Hess Johnson,X
+Adams,"Dist 3, Palestine",State Senate,38,Independent,Bente Hess Johnson,X
+Adams,"Dist 4, Carpenter",State Senate,38,Independent,Bente Hess Johnson,X
+Adams,"Dist 4, Morgantown",State Senate,38,Independent,Bente Hess Johnson,X
+Adams,"Dist 4, Northside",State Senate,38,Independent,Bente Hess Johnson,19
+Adams,"Dist 4, Pine Ridge",State Senate,38,Independent,Bente Hess Johnson,11
+Adams,"Dist 5, Airport",State Senate,38,Independent,Bente Hess Johnson,X
+Adams,"Dist 5, Foster Mound",State Senate,38,Independent,Bente Hess Johnson,15
+Adams,Dist 5. Oakland,State Senate,38,Independent,Bente Hess Johnson,X
+Adams,Dist 5. Washington,State Senate,38,Independent,Bente Hess Johnson,X
+Adams,"Dist 1, Bellemont",State Senate,38,Republican,Dennis C. Quinn,58
+Adams,"Dist 1, By-Pass Fire",State Senate,38,Republican,Dennis C. Quinn,99
+Adams,"Dist 1, Courthouse",State Senate,38,Republican,Dennis C. Quinn,X
+Adams,"Dist 2, Beau Pre",State Senate,38,Republican,Dennis C. Quinn,X
+Adams,"Dist 2, Duncan Park",State Senate,38,Republican,Dennis C. Quinn,X
+Adams,"Dist 2, Kingston",State Senate,38,Republican,Dennis C. Quinn,X
+Adams,"Dist 2, Liberty Park",State Senate,38,Republican,Dennis C. Quinn,X
+Adams,"Dist 3, Concord",State Senate,38,Republican,Dennis C. Quinn,X
+Adams,"Dist 3, Maryland Hgts",State Senate,38,Republican,Dennis C. Quinn,X
+Adams,"Dist 3, NPS Multi Purpose Bldg.",State Senate,38,Republican,Dennis C. Quinn,X
+Adams,"Dist 3, Palestine",State Senate,38,Republican,Dennis C. Quinn,X
+Adams,"Dist 4, Carpenter",State Senate,38,Republican,Dennis C. Quinn,X
+Adams,"Dist 4, Morgantown",State Senate,38,Republican,Dennis C. Quinn,X
+Adams,"Dist 4, Northside",State Senate,38,Republican,Dennis C. Quinn,24
+Adams,"Dist 4, Pine Ridge",State Senate,38,Republican,Dennis C. Quinn,33
+Adams,"Dist 5, Airport",State Senate,38,Republican,Dennis C. Quinn,X
+Adams,"Dist 5, Foster Mound",State Senate,38,Republican,Dennis C. Quinn,24
+Adams,Dist 5. Oakland,State Senate,38,Republican,Dennis C. Quinn,X
+Adams,Dist 5. Washington,State Senate,38,Republican,Dennis C. Quinn,X
+Adams,"Dist 1, Bellemont",State Senate,38,Democrat,Tammy Felder Witherspoon,180
+Adams,"Dist 1, By-Pass Fire",State Senate,38,Democrat,Tammy Felder Witherspoon,244
+Adams,"Dist 1, Courthouse",State Senate,38,Democrat,Tammy Felder Witherspoon,X
+Adams,"Dist 2, Beau Pre",State Senate,38,Democrat,Tammy Felder Witherspoon,X
+Adams,"Dist 2, Duncan Park",State Senate,38,Democrat,Tammy Felder Witherspoon,X
+Adams,"Dist 2, Kingston",State Senate,38,Democrat,Tammy Felder Witherspoon,X
+Adams,"Dist 2, Liberty Park",State Senate,38,Democrat,Tammy Felder Witherspoon,X
+Adams,"Dist 3, Concord",State Senate,38,Democrat,Tammy Felder Witherspoon,X
+Adams,"Dist 3, Maryland Hgts",State Senate,38,Democrat,Tammy Felder Witherspoon,X
+Adams,"Dist 3, NPS Multi Purpose Bldg.",State Senate,38,Democrat,Tammy Felder Witherspoon,X
+Adams,"Dist 3, Palestine",State Senate,38,Democrat,Tammy Felder Witherspoon,X
+Adams,"Dist 4, Carpenter",State Senate,38,Democrat,Tammy Felder Witherspoon,X
+Adams,"Dist 4, Morgantown",State Senate,38,Democrat,Tammy Felder Witherspoon,X
+Adams,"Dist 4, Northside",State Senate,38,Democrat,Tammy Felder Witherspoon,529
+Adams,"Dist 4, Pine Ridge",State Senate,38,Democrat,Tammy Felder Witherspoon,172
+Adams,"Dist 5, Airport",State Senate,38,Democrat,Tammy Felder Witherspoon,X
+Adams,"Dist 5, Foster Mound",State Senate,38,Democrat,Tammy Felder Witherspoon,459
+Adams,Dist 5. Oakland,State Senate,38,Democrat,Tammy Felder Witherspoon,X
+Adams,Dist 5. Washington,State Senate,38,Democrat,Tammy Felder Witherspoon,X
+Adams,"Dist 1, Bellemont",State House,94,Democrat,"Robert L. Johnson, III",17
+Adams,"Dist 1, By-Pass Fire",State House,94,Democrat,"Robert L. Johnson, III",X
+Adams,"Dist 1, Courthouse",State House,94,Democrat,"Robert L. Johnson, III",0
+Adams,"Dist 2, Beau Pre",State House,94,Democrat,"Robert L. Johnson, III",X
+Adams,"Dist 2, Duncan Park",State House,94,Democrat,"Robert L. Johnson, III",25
+Adams,"Dist 2, Kingston",State House,94,Democrat,"Robert L. Johnson, III",X
+Adams,"Dist 2, Liberty Park",State House,94,Democrat,"Robert L. Johnson, III",X
+Adams,"Dist 3, Concord",State House,94,Democrat,"Robert L. Johnson, III",221
+Adams,"Dist 3, Maryland Hgts",State House,94,Democrat,"Robert L. Johnson, III",234
+Adams,"Dist 3, NPS Multi Purpose Bldg.",State House,94,Democrat,"Robert L. Johnson, III",211
+Adams,"Dist 3, Palestine",State House,94,Democrat,"Robert L. Johnson, III",314
+Adams,"Dist 4, Carpenter",State House,94,Democrat,"Robert L. Johnson, III",220
+Adams,"Dist 4, Morgantown",State House,94,Democrat,"Robert L. Johnson, III",219
+Adams,"Dist 4, Northside",State House,94,Democrat,"Robert L. Johnson, III",591
+Adams,"Dist 4, Pine Ridge",State House,94,Democrat,"Robert L. Johnson, III",207
+Adams,"Dist 5, Airport",State House,94,Democrat,"Robert L. Johnson, III",294
+Adams,"Dist 5, Foster Mound",State House,94,Democrat,"Robert L. Johnson, III",493
+Adams,Dist 5. Oakland,State House,94,Democrat,"Robert L. Johnson, III",446
+Adams,Dist 5. Washington,State House,94,Democrat,"Robert L. Johnson, III",216
+Adams,"Dist 1, Bellemont",State House,96,Democrat,Angela Cockerham,157
+Adams,"Dist 1, By-Pass Fire",State House,96,Democrat,Angela Cockerham,329
+Adams,"Dist 1, Courthouse",State House,96,Democrat,Angela Cockerham,X
+Adams,"Dist 2, Beau Pre",State House,96,Democrat,Angela Cockerham,85
+Adams,"Dist 2, Duncan Park",State House,96,Democrat,Angela Cockerham,X
+Adams,"Dist 2, Kingston",State House,96,Democrat,Angela Cockerham,X
+Adams,"Dist 2, Liberty Park",State House,96,Democrat,Angela Cockerham,X
+Adams,"Dist 3, Concord",State House,96,Democrat,Angela Cockerham,X
+Adams,"Dist 3, Maryland Hgts",State House,96,Democrat,Angela Cockerham,X
+Adams,"Dist 3, NPS Multi Purpose Bldg.",State House,96,Democrat,Angela Cockerham,X
+Adams,"Dist 3, Palestine",State House,96,Democrat,Angela Cockerham,X
+Adams,"Dist 4, Carpenter",State House,96,Democrat,Angela Cockerham,X
+Adams,"Dist 4, Morgantown",State House,96,Democrat,Angela Cockerham,X
+Adams,"Dist 4, Northside",State House,96,Democrat,Angela Cockerham,X
+Adams,"Dist 4, Pine Ridge",State House,96,Democrat,Angela Cockerham,X
+Adams,"Dist 5, Airport",State House,96,Democrat,Angela Cockerham,X
+Adams,"Dist 5, Foster Mound",State House,96,Democrat,Angela Cockerham,X
+Adams,Dist 5. Oakland,State House,96,Democrat,Angela Cockerham,X
+Adams,Dist 5. Washington,State House,96,Democrat,Angela Cockerham,X
+Adams,"Dist 1, Bellemont",State House,97,Republican,"Sam C. Mims, V",611
+Adams,"Dist 1, By-Pass Fire",State House,97,Republican,"Sam C. Mims, V",X
+Adams,"Dist 1, Courthouse",State House,97,Republican,"Sam C. Mims, V",270
+Adams,"Dist 2, Beau Pre",State House,97,Republican,"Sam C. Mims, V",240
+Adams,"Dist 2, Duncan Park",State House,97,Republican,"Sam C. Mims, V",71
+Adams,"Dist 2, Kingston",State House,97,Republican,"Sam C. Mims, V",262
+Adams,"Dist 2, Liberty Park",State House,97,Republican,"Sam C. Mims, V",304
+Adams,"Dist 3, Concord",State House,97,Republican,"Sam C. Mims, V",X
+Adams,"Dist 3, Maryland Hgts",State House,97,Republican,"Sam C. Mims, V",X
+Adams,"Dist 3, NPS Multi Purpose Bldg.",State House,97,Republican,"Sam C. Mims, V",X
+Adams,"Dist 3, Palestine",State House,97,Republican,"Sam C. Mims, V",1
+Adams,"Dist 4, Carpenter",State House,97,Republican,"Sam C. Mims, V",X
+Adams,"Dist 4, Morgantown",State House,97,Republican,"Sam C. Mims, V",X
+Adams,"Dist 4, Northside",State House,97,Republican,"Sam C. Mims, V",X
+Adams,"Dist 4, Pine Ridge",State House,97,Republican,"Sam C. Mims, V",X
+Adams,"Dist 5, Airport",State House,97,Republican,"Sam C. Mims, V",X
+Adams,"Dist 5, Foster Mound",State House,97,Republican,"Sam C. Mims, V",X
+Adams,Dist 5. Oakland,State House,97,Republican,"Sam C. Mims, V",X
+Adams,Dist 5. Washington,State House,97,Republican,"Sam C. Mims, V",X
+Adams,"Dist 1, Bellemont",State House,97,Democrat,Kitty Sasser,133
+Adams,"Dist 1, By-Pass Fire",State House,97,Democrat,Kitty Sasser,X
+Adams,"Dist 1, Courthouse",State House,97,Democrat,Kitty Sasser,118
+Adams,"Dist 2, Beau Pre",State House,97,Democrat,Kitty Sasser,75
+Adams,"Dist 2, Duncan Park",State House,97,Democrat,Kitty Sasser,33
+Adams,"Dist 2, Kingston",State House,97,Democrat,Kitty Sasser,81
+Adams,"Dist 2, Liberty Park",State House,97,Democrat,Kitty Sasser,96
+Adams,"Dist 3, Concord",State House,97,Democrat,Kitty Sasser,X
+Adams,"Dist 3, Maryland Hgts",State House,97,Democrat,Kitty Sasser,X
+Adams,"Dist 3, NPS Multi Purpose Bldg.",State House,97,Democrat,Kitty Sasser,X
+Adams,"Dist 3, Palestine",State House,97,Democrat,Kitty Sasser,2
+Adams,"Dist 4, Carpenter",State House,97,Democrat,Kitty Sasser,X
+Adams,"Dist 4, Morgantown",State House,97,Democrat,Kitty Sasser,X
+Adams,"Dist 4, Northside",State House,97,Democrat,Kitty Sasser,X
+Adams,"Dist 4, Pine Ridge",State House,97,Democrat,Kitty Sasser,X
+Adams,"Dist 5, Airport",State House,97,Democrat,Kitty Sasser,X
+Adams,"Dist 5, Foster Mound",State House,97,Democrat,Kitty Sasser,X
+Adams,Dist 5. Oakland,State House,97,Democrat,Kitty Sasser,X
+Adams,Dist 5. Washington,State House,97,Democrat,Kitty Sasser,X

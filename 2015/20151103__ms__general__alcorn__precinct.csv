@@ -1,1 +1,468 @@
-county,precinct,office,district,candidate,party,votesAlcorn,2nd District Central precint,Governor,,Phil Bryant,Republican,818Alcorn,2nd District Central precint,Governor,,Robert Gray,Democrat,103Alcorn,2nd District Central precint,Governor,,Shawn O'Hara,Reform,11Alcorn,Bethel,Governor,,Phil Bryant,Republican,55Alcorn,Bethel,Governor,,Robert Gray,Democrat,5Alcorn,Bethel,Governor,,Shawn O'Hara,Reform,1Alcorn,Biggersville,Governor,,Phil Bryant,Republican,438Alcorn,Biggersville,Governor,,Robert Gray,Democrat,95Alcorn,Biggersville,Governor,,Shawn O'Hara,Reform,6Alcorn,College Hill,Governor,,Phil Bryant,Republican,903Alcorn,College Hill,Governor,,Robert Gray,Democrat,91Alcorn,College Hill,Governor,,Shawn O'Hara,Reform,8Alcorn,East Corinth,Governor,,Phil Bryant,Republican,689Alcorn,East Corinth,Governor,,Robert Gray,Democrat,142Alcorn,East Corinth,Governor,,Shawn O'Hara,Reform,7Alcorn,Five Points 1st District,Governor,,Phil Bryant,Republican,921Alcorn,Five Points 1st District,Governor,,Robert Gray,Democrat,140Alcorn,Five Points 1st District,Governor,,Shawn O'Hara,Reform,4Alcorn,Glen,Governor,,Phil Bryant,Republican,655Alcorn,Glen,Governor,,Robert Gray,Democrat,113Alcorn,Glen,Governor,,Shawn O'Hara,Reform,11Alcorn,Jacinto,Governor,,Phil Bryant,Republican,226Alcorn,Jacinto,Governor,,Robert Gray,Democrat,34Alcorn,Jacinto,Governor,,Shawn O'Hara,Reform,3Alcorn,Kossuth,Governor,,Phil Bryant,Republican,1070Alcorn,Kossuth,Governor,,Robert Gray,Democrat,98Alcorn,Kossuth,Governor,,Shawn O'Hara,Reform,13Alcorn,North Corinth,Governor,,Phil Bryant,Republican,539Alcorn,North Corinth,Governor,,Robert Gray,Democrat,72Alcorn,North Corinth,Governor,,Shawn O'Hara,Reform,9Alcorn,Pinecrest,Governor,,Phil Bryant,Republican,291Alcorn,Pinecrest,Governor,,Robert Gray,Democrat,64Alcorn,Pinecrest,Governor,,Shawn O'Hara,Reform,6Alcorn,2nd District Central precint,Lieutenant Governor,,Tim Johnson,Democrat,146Alcorn,2nd District Central precint,Lieutenant Governor,,Tabe Reeves,Republican,728Alcorn,2nd District Central precint,Lieutenant Governor,,Ron Williams,Libertarian,18Alcorn,2nd District Central precint,Lieutenant Governor,,Rosa S. Williams,Reform,12Alcorn,Bethel,Lieutenant Governor,,Tim Johnson,Democrat,10Alcorn,Bethel,Lieutenant Governor,,Tabe Reeves,Republican,50Alcorn,Bethel,Lieutenant Governor,,Ron Williams,Libertarian,0Alcorn,Bethel,Lieutenant Governor,,Rosa S. Williams,Reform,0Alcorn,Biggersville,Lieutenant Governor,,Tim Johnson,Democrat,128Alcorn,Biggersville,Lieutenant Governor,,Tabe Reeves,Republican,389Alcorn,Biggersville,Lieutenant Governor,,Ron Williams,Libertarian,9Alcorn,Biggersville,Lieutenant Governor,,Rosa S. Williams,Reform,7Alcorn,College Hill,Lieutenant Governor,,Tim Johnson,Democrat,110Alcorn,College Hill,Lieutenant Governor,,Tabe Reeves,Republican,254Alcorn,College Hill,Lieutenant Governor,,Ron Williams,Libertarian,11Alcorn,College Hill,Lieutenant Governor,,Rosa S. Williams,Reform,14Alcorn,East Corinth,Lieutenant Governor,,Tim Johnson,Democrat,182Alcorn,East Corinth,Lieutenant Governor,,Tabe Reeves,Republican,623Alcorn,East Corinth,Lieutenant Governor,,Ron Williams,Libertarian,16Alcorn,East Corinth,Lieutenant Governor,,Rosa S. Williams,Reform,7Alcorn,Five Points 1st District,Lieutenant Governor,,Tim Johnson,Democrat,182Alcorn,Five Points 1st District,Lieutenant Governor,,Tabe Reeves,Republican,828Alcorn,Five Points 1st District,Lieutenant Governor,,Ron Williams,Libertarian,21Alcorn,Five Points 1st District,Lieutenant Governor,,Rosa S. Williams,Reform,12Alcorn,Glen,Lieutenant Governor,,Tim Johnson,Democrat,171Alcorn,Glen,Lieutenant Governor,,Tabe Reeves,Republican,553Alcorn,Glen,Lieutenant Governor,,Ron Williams,Libertarian,16Alcorn,Glen,Lieutenant Governor,,Rosa S. Williams,Reform,15Alcorn,Jacinto,Lieutenant Governor,,Tim Johnson,Democrat,44Alcorn,Jacinto,Lieutenant Governor,,Tabe Reeves,Republican,206Alcorn,Jacinto,Lieutenant Governor,,Ron Williams,Libertarian,4Alcorn,Jacinto,Lieutenant Governor,,Rosa S. Williams,Reform,4Alcorn,Kossuth,Lieutenant Governor,,Tim Johnson,Democrat,189Alcorn,Kossuth,Lieutenant Governor,,Tabe Reeves,Republican,919Alcorn,Kossuth,Lieutenant Governor,,Ron Williams,Libertarian,16Alcorn,Kossuth,Lieutenant Governor,,Rosa S. Williams,Reform,16Alcorn,North Corinth,Lieutenant Governor,,Tim Johnson,Democrat,96Alcorn,North Corinth,Lieutenant Governor,,Tabe Reeves,Republican,506Alcorn,North Corinth,Lieutenant Governor,,Ron Williams,Libertarian,7Alcorn,North Corinth,Lieutenant Governor,,Rosa S. Williams,Reform,9Alcorn,Pinecrest,Lieutenant Governor,,Tim Johnson,Democrat,81Alcorn,Pinecrest,Lieutenant Governor,,Tabe Reeves,Republican,259Alcorn,Pinecrest,Lieutenant Governor,,Ron Williams,Libertarian,9Alcorn,Pinecrest,Lieutenant Governor,,Rosa S. Williams,Reform,6Alcorn,2nd District Central precint,Secretary of State,,Charles E. Graham,Democrat,188Alcorn,2nd District Central precint,Secretary of State,,Delbert Hosemann,Republican,663Alcorn,2nd District Central precint,Secretary of State,,Randy Walker,Reform,36Alcorn,Bethel,Secretary of State,,Charles E. Graham,Democrat,10Alcorn,Bethel,Secretary of State,,Delbert Hosemann,Republican,40Alcorn,Bethel,Secretary of State,,Randy Walker,Reform,4Alcorn,Biggersville,Secretary of State,,Charles E. Graham,Democrat,153Alcorn,Biggersville,Secretary of State,,Delbert Hosemann,Republican,361Alcorn,Biggersville,Secretary of State,,Randy Walker,Reform,17Alcorn,College Hill,Secretary of State,,Charles E. Graham,Democrat,129Alcorn,College Hill,Secretary of State,,Delbert Hosemann,Republican,228Alcorn,College Hill,Secretary of State,,Randy Walker,Reform,28Alcorn,East Corinth,Secretary of State,,Charles E. Graham,Democrat,179Alcorn,East Corinth,Secretary of State,,Delbert Hosemann,Republican,613Alcorn,East Corinth,Secretary of State,,Randy Walker,Reform,26Alcorn,Five Points 1st District,Secretary of State,,Charles E. Graham,Democrat,217Alcorn,Five Points 1st District,Secretary of State,,Delbert Hosemann,Republican,778Alcorn,Five Points 1st District,Secretary of State,,Randy Walker,Reform,31Alcorn,Glen,Secretary of State,,Charles E. Graham,Democrat,227Alcorn,Glen,Secretary of State,,Delbert Hosemann,Republican,484Alcorn,Glen,Secretary of State,,Randy Walker,Reform,50Alcorn,Jacinto,Secretary of State,,Charles E. Graham,Democrat,63Alcorn,Jacinto,Secretary of State,,Delbert Hosemann,Republican,184Alcorn,Jacinto,Secretary of State,,Randy Walker,Reform,9Alcorn,Kossuth,Secretary of State,,Charles E. Graham,Democrat,231Alcorn,Kossuth,Secretary of State,,Delbert Hosemann,Republican,823Alcorn,Kossuth,Secretary of State,,Randy Walker,Reform,55Alcorn,North Corinth,Secretary of State,,Charles E. Graham,Democrat,112Alcorn,North Corinth,Secretary of State,,Delbert Hosemann,Republican,482Alcorn,North Corinth,Secretary of State,,Randy Walker,Reform,15Alcorn,Pinecrest,Secretary of State,,Charles E. Graham,Democrat,89Alcorn,Pinecrest,Secretary of State,,Delbert Hosemann,Republican,252Alcorn,Pinecrest,Secretary of State,,Randy Walker,Reform,11Alcorn,2nd District Central precint,Attorney General,,Jim Hood,Democrat,417Alcorn,2nd District Central precint,Attorney General,,Mike Hurst,Republican,492Alcorn,Bethel,Attorney General,,Jim Hood,Democrat,35Alcorn,Bethel,Attorney General,,Mike Hurst,Republican,26Alcorn,Biggersville,Attorney General,,Jim Hood,Democrat,281Alcorn,Biggersville,Attorney General,,Mike Hurst,Republican,259Alcorn,College Hill,Attorney General,,Jim Hood,Democrat,230Alcorn,College Hill,Attorney General,,Mike Hurst,Republican,167Alcorn,East Corinth,Attorney General,,Jim Hood,Democrat,411Alcorn,East Corinth,Attorney General,,Mike Hurst,Republican,424Alcorn,Five Points 1st District,Attorney General,,Jim Hood,Democrat,457Alcorn,Five Points 1st District,Attorney General,,Mike Hurst,Republican,590Alcorn,Glen,Attorney General,,Jim Hood,Democrat,418Alcorn,Glen,Attorney General,,Mike Hurst,Republican,350Alcorn,Jacinto,Attorney General,,Jim Hood,Democrat,129Alcorn,Jacinto,Attorney General,,Mike Hurst,Republican,130Alcorn,Kossuth,Attorney General,,Jim Hood,Democrat,548Alcorn,Kossuth,Attorney General,,Mike Hurst,Republican,600Alcorn,North Corinth,Attorney General,,Jim Hood,Democrat,255Alcorn,North Corinth,Attorney General,,Mike Hurst,Republican,364Alcorn,Pinecrest,Attorney General,,Jim Hood,Democrat,178Alcorn,Pinecrest,Attorney General,,Mike Hurst,Republican,175Alcorn,2nd District Central precint,State Auditor,,Stacey E. Pickering,Republican,769Alcorn,2nd District Central precint,State Auditor,,Jocelyn 'Joce' Pepper Pritchett,Democrat,124Alcorn,2nd District Central precint,State Auditor,,Lajena Walley,Reform,11Alcorn,Bethel,State Auditor,,Stacey E. Pickering,Republican,46Alcorn,Bethel,State Auditor,,Jocelyn 'Joce' Pepper Pritchett,Democrat,9Alcorn,Bethel,State Auditor,,Lajena Walley,Reform,3Alcorn,Biggersville,State Auditor,,Stacey E. Pickering,Republican,420Alcorn,Biggersville,State Auditor,,Jocelyn 'Joce' Pepper Pritchett,Democrat,102Alcorn,Biggersville,State Auditor,,Lajena Walley,Reform,5Alcorn,College Hill,State Auditor,,Stacey E. Pickering,Republican,277Alcorn,College Hill,State Auditor,,Jocelyn 'Joce' Pepper Pritchett,Democrat,99Alcorn,College Hill,State Auditor,,Lajena Walley,Reform,8Alcorn,East Corinth,State Auditor,,Stacey E. Pickering,Republican,660Alcorn,East Corinth,State Auditor,,Jocelyn 'Joce' Pepper Pritchett,Democrat,150Alcorn,East Corinth,State Auditor,,Lajena Walley,Reform,11Alcorn,Five Points 1st District,State Auditor,,Stacey E. Pickering,Republican,861Alcorn,Five Points 1st District,State Auditor,,Jocelyn 'Joce' Pepper Pritchett,Democrat,162Alcorn,Five Points 1st District,State Auditor,,Lajena Walley,Reform,11Alcorn,Glen,State Auditor,,Stacey E. Pickering,Republican,600Alcorn,Glen,State Auditor,,Jocelyn 'Joce' Pepper Pritchett,Democrat,152Alcorn,Glen,State Auditor,,Lajena Walley,Reform,7Alcorn,Jacinto,State Auditor,,Stacey E. Pickering,Republican,217Alcorn,Jacinto,State Auditor,,Jocelyn 'Joce' Pepper Pritchett,Democrat,38Alcorn,Jacinto,State Auditor,,Lajena Walley,Reform,1Alcorn,Kossuth,State Auditor,,Stacey E. Pickering,Republican,994Alcorn,Kossuth,State Auditor,,Jocelyn 'Joce' Pepper Pritchett,Democrat,131Alcorn,Kossuth,State Auditor,,Lajena Walley,Reform,8Alcorn,North Corinth,State Auditor,,Stacey E. Pickering,Republican,525Alcorn,North Corinth,State Auditor,,Jocelyn 'Joce' Pepper Pritchett,Democrat,80Alcorn,North Corinth,State Auditor,,Lajena Walley,Reform,5Alcorn,Pinecrest,State Auditor,,Stacey E. Pickering,Republican,268Alcorn,Pinecrest,State Auditor,,Jocelyn 'Joce' Pepper Pritchett,Democrat,75Alcorn,Pinecrest,State Auditor,,Lajena Walley,Reform,6Alcorn,Rienzi,Governor,,Phil Bryant,Republican,535Alcorn,Rienzi,Governor,,Robert Gray,Democrat,107Alcorn,Rienzi,Governor,,Shawn O'Hara,Reform,4Alcorn,Shady Groove,Governor,,Phil Bryant,Republican,526Alcorn,Shady Groove,Governor,,Robert Gray,Democrat,69Alcorn,Shady Groove,Governor,,Shawn O'Hara,Reform,3Alcorn,South Corinth,Governor,,Phil Bryant,Republican,390Alcorn,South Corinth,Governor,,Robert Gray,Democrat,251Alcorn,South Corinth,Governor,,Shawn O'Hara,Reform,12Alcorn,Union Center,Governor,,Phil Bryant,Republican,594Alcorn,Union Center,Governor,,Robert Gray,Democrat,107Alcorn,Union Center,Governor,,Shawn O'Hara,Reform,7Alcorn,Wenasoga,Governor,,Phil Bryant,Republican,465Alcorn,Wenasoga,Governor,,Robert Gray,Democrat,93Alcorn,Wenasoga,Governor,,Shawn O'Hara,Reform,5Alcorn,West Corinth,Governor,,Phil Bryant,Republican,301Alcorn,West Corinth,Governor,,Robert Gray,Democrat,65Alcorn,West Corinth,Governor,,Shawn O'Hara,Reform,3Alcorn,ALCORN MS,Governor,,Phil Bryant,Republican,8817Alcorn,ALCORN MS,Governor,,Robert Gray,Democrat,1649Alcorn,ALCORN MS,Governor,,Shawn O'Hara,Reform,113Alcorn,Rienzi,Lieutenant Governor,,Tim Johnson,Democrat,143Alcorn,Rienzi,Lieutenant Governor,,Tabe Reeves,Republican,469Alcorn,Rienzi,Lieutenant Governor,,Ron Williams,Libertarian,13Alcorn,Rienzi,Lieutenant Governor,,Rosa S. Williams,Reform,9Alcorn,Shady Groove,Lieutenant Governor,,Tim Johnson,Democrat,102Alcorn,Shady Groove,Lieutenant Governor,,Tabe Reeves,Republican,458Alcorn,Shady Groove,Lieutenant Governor,,Ron Williams,Libertarian,7Alcorn,Shady Groove,Lieutenant Governor,,Rosa S. Williams,Reform,9Alcorn,South Corinth,Lieutenant Governor,,Tim Johnson,Democrat,276Alcorn,South Corinth,Lieutenant Governor,,Tabe Reeves,Republican,311Alcorn,South Corinth,Lieutenant Governor,,Ron Williams,Libertarian,26Alcorn,South Corinth,Lieutenant Governor,,Rosa S. Williams,Reform,15Alcorn,Union Center,Lieutenant Governor,,Tim Johnson,Democrat,169Alcorn,Union Center,Lieutenant Governor,,Tabe Reeves,Republican,502Alcorn,Union Center,Lieutenant Governor,,Ron Williams,Libertarian,9Alcorn,Union Center,Lieutenant Governor,,Rosa S. Williams,Reform,8Alcorn,Wenasoga,Lieutenant Governor,,Tim Johnson,Democrat,129Alcorn,Wenasoga,Lieutenant Governor,,Tabe Reeves,Republican,401Alcorn,Wenasoga,Lieutenant Governor,,Ron Williams,Libertarian,11Alcorn,Wenasoga,Lieutenant Governor,,Rosa S. Williams,Reform,7Alcorn,West Corinth,Lieutenant Governor,,Tim Johnson,Democrat,70Alcorn,West Corinth,Lieutenant Governor,,Tabe Reeves,Republican,271Alcorn,West Corinth,Lieutenant Governor,,Ron Williams,Libertarian,12Alcorn,West Corinth,Lieutenant Governor,,Rosa S. Williams,Reform,11Alcorn,ALCORN MS,Lieutenant Governor,,Tim Johnson,Democrat,2228Alcorn,ALCORN MS,Lieutenant Governor,,Tabe Reeves,Republican,7727Alcorn,ALCORN MS,Lieutenant Governor,,Ron Williams,Libertarian,205Alcorn,ALCORN MS,Lieutenant Governor,,Rosa S. Williams,Reform,161Alcorn,Rienzi,Secretary of State,,Charles E. Graham,Democrat,156Alcorn,Rienzi,Secretary of State,,Delbert Hosemann,Republican,437Alcorn,Rienzi,Secretary of State,,Randy Walker,Reform,35Alcorn,Shady Groove,Secretary of State,,Charles E. Graham,Democrat,137Alcorn,Shady Groove,Secretary of State,,Delbert Hosemann,Republican,413Alcorn,Shady Groove,Secretary of State,,Randy Walker,Reform,26Alcorn,South Corinth,Secretary of State,,Charles E. Graham,Democrat,280Alcorn,South Corinth,Secretary of State,,Delbert Hosemann,Republican,298Alcorn,South Corinth,Secretary of State,,Randy Walker,Reform,47Alcorn,Union Center,Secretary of State,,Charles E. Graham,Democrat,199Alcorn,Union Center,Secretary of State,,Delbert Hosemann,Republican,441Alcorn,Union Center,Secretary of State,,Randy Walker,Reform,43Alcorn,Wenasoga,Secretary of State,,Charles E. Graham,Democrat,150Alcorn,Wenasoga,Secretary of State,,Delbert Hosemann,Republican,356Alcorn,Wenasoga,Secretary of State,,Randy Walker,Reform,30Alcorn,West Corinth,Secretary of State,,Charles E. Graham,Democrat,80Alcorn,West Corinth,Secretary of State,,Delbert Hosemann,Republican,261Alcorn,West Corinth,Secretary of State,,Randy Walker,Reform,14Alcorn,ALCORN MS,Secretary of State,,Charles E. Graham,Democrat,2600Alcorn,ALCORN MS,Secretary of State,,Delbert Hosemann,Republican,7114Alcorn,ALCORN MS,Secretary of State,,Randy Walker,Reform,477Alcorn,Rienzi,Attorney General,,Jim Hood,Democrat,362Alcorn,Rienzi,Attorney General,,Mike Hurst,Republican,267Alcorn,Shady Groove,Attorney General,,Jim Hood,Democrat,275Alcorn,Shady Groove,Attorney General,,Mike Hurst,Republican,314Alcorn,South Corinth,Attorney General,,Jim Hood,Democrat,420Alcorn,South Corinth,Attorney General,,Mike Hurst,Republican,220Alcorn,Union Center,Attorney General,,Jim Hood,Democrat,381Alcorn,Union Center,Attorney General,,Mike Hurst,Republican,313Alcorn,Wenasoga,Attorney General,,Jim Hood,Democrat,287Alcorn,Wenasoga,Attorney General,,Mike Hurst,Republican,266Alcorn,West Corinth,Attorney General,,Jim Hood,Democrat,189Alcorn,West Corinth,Attorney General,,Mike Hurst,Republican,179Alcorn,ALCORN MS,Attorney General,,Jim Hood,Democrat,5273Alcorn,ALCORN MS,Attorney General,,Mike Hurst,Republican,5136Alcorn,Rienzi,State Auditor,,Stacey E. Pickering,Republican,504Alcorn,Rienzi,State Auditor,,Jocelyn 'Joce' Pepper Pritchett,Democrat,112Alcorn,Rienzi,State Auditor,,Lajena Walley,Reform,6Alcorn,Shady Groove,State Auditor,,Stacey E. Pickering,Republican,493Alcorn,Shady Groove,State Auditor,,Jocelyn 'Joce' Pepper Pritchett,Democrat,79Alcorn,Shady Groove,State Auditor,,Lajena Walley,Reform,10Alcorn,South Corinth,State Auditor,,Stacey E. Pickering,Republican,346Alcorn,South Corinth,State Auditor,,Jocelyn 'Joce' Pepper Pritchett,Democrat,258Alcorn,South Corinth,State Auditor,,Lajena Walley,Reform,20Alcorn,Union Center,State Auditor,,Stacey E. Pickering,Republican,541Alcorn,Union Center,State Auditor,,Jocelyn 'Joce' Pepper Pritchett,Democrat,124Alcorn,Union Center,State Auditor,,Lajena Walley,Reform,19Alcorn,Wenasoga,State Auditor,,Stacey E. Pickering,Republican,413Alcorn,Wenasoga,State Auditor,,Jocelyn 'Joce' Pepper Pritchett,Democrat,118Alcorn,Wenasoga,State Auditor,,Lajena Walley,Reform,11Alcorn,West Corinth,State Auditor,,Stacey E. Pickering,Republican,300Alcorn,West Corinth,State Auditor,,Jocelyn 'Joce' Pepper Pritchett,Democrat,56Alcorn,West Corinth,State Auditor,,Lajena Walley,Reform,6Alcorn,ALCORN MS,State Auditor,,Stacey E. Pickering,Republican,8234Alcorn,ALCORN MS,State Auditor,,Jocelyn 'Joce' Pepper Pritchett,Democrat,1869Alcorn,ALCORN MS,State Auditor,,Lajena Walley,Reform,148Alcorn,2nd District Central precint,Treasurer,,Lynn Fitch,Republican,767Alcorn,2nd District Central precint,Treasurer,,Viola V. McFarland,Reform,92Alcorn,Bethel,Treasurer,,Lynn Fitch,Republican,45Alcorn,Bethel,Treasurer,,Viola V. McFarland,Reform,3Alcorn,Biggersville,Treasurer,,Lynn Fitch,Republican,441Alcorn,Biggersville,Treasurer,,Viola V. McFarland,Reform,48Alcorn,College Hill,Treasurer,,Lynn Fitch,Republican,306Alcorn,College Hill,Treasurer,,Viola V. McFarland,Reform,64Alcorn,East Corinth,Treasurer,,Lynn Fitch,Republican,681Alcorn,East Corinth,Treasurer,,Viola V. McFarland,Reform,78Alcorn,Five Points 1st District,Treasurer,,Lynn Fitch,Republican,900Alcorn,Five Points 1st District,Treasurer,,Viola V. McFarland,Reform,84Alcorn,Glen,Treasurer,,Lynn Fitch,Republican,647Alcorn,Glen,Treasurer,,Viola V. McFarland,Reform,74Alcorn,Jacinto,Treasurer,,Lynn Fitch,Republican,226Alcorn,Jacinto,Treasurer,,Viola V. McFarland,Reform,25Alcorn,Kossuth,Treasurer,,Lynn Fitch,Republican,1010Alcorn,Kossuth,Treasurer,,Viola V. McFarland,Reform,84Alcorn,North Corinth,Treasurer,,Lynn Fitch,Republican,537Alcorn,North Corinth,Treasurer,,Viola V. McFarland,Reform,45Alcorn,Pinecrest,Treasurer,,Lynn Fitch,Republican,291Alcorn,Pinecrest,Treasurer,,Viola V. McFarland,Reform,46Alcorn,2nd District Central precint,Commissioner of Agriculture & Commerce,,Addie Lee Green,Democrat,201Alcorn,2nd District Central precint,Commissioner of Agriculture & Commerce,,Andy Hyde-Smith,Republican,607Alcorn,2nd District Central precint,Commissioner of Agriculture & Commerce,,Cathy L. Toole,Reform,37Alcorn,Bethel,Commissioner of Agriculture & Commerce,,Addie Lee Green,Democrat,15Alcorn,Bethel,Commissioner of Agriculture & Commerce,,Andy Hyde-Smith,Republican,35Alcorn,Bethel,Commissioner of Agriculture & Commerce,,Cathy L. Toole,Reform,2Alcorn,Biggersville,Commissioner of Agriculture & Commerce,,Addie Lee Green,Democrat,160Alcorn,Biggersville,Commissioner of Agriculture & Commerce,,Andy Hyde-Smith,Republican,326Alcorn,Biggersville,Commissioner of Agriculture & Commerce,,Cathy L. Toole,Reform,19Alcorn,College Hill,Commissioner of Agriculture & Commerce,,Addie Lee Green,Democrat,145Alcorn,College Hill,Commissioner of Agriculture & Commerce,,Andy Hyde-Smith,Republican,217Alcorn,College Hill,Commissioner of Agriculture & Commerce,,Cathy L. Toole,Reform,14Alcorn,East Corinth,Commissioner of Agriculture & Commerce,,Addie Lee Green,Democrat,213Alcorn,East Corinth,Commissioner of Agriculture & Commerce,,Andy Hyde-Smith,Republican,539Alcorn,East Corinth,Commissioner of Agriculture & Commerce,,Cathy L. Toole,Reform,30Alcorn,Five Points 1st District,Commissioner of Agriculture & Commerce,,Addie Lee Green,Democrat,254Alcorn,Five Points 1st District,Commissioner of Agriculture & Commerce,,Andy Hyde-Smith,Republican,710Alcorn,Five Points 1st District,Commissioner of Agriculture & Commerce,,Cathy L. Toole,Reform,23Alcorn,Glen,Commissioner of Agriculture & Commerce,,Addie Lee Green,Democrat,238Alcorn,Glen,Commissioner of Agriculture & Commerce,,Andy Hyde-Smith,Republican,473Alcorn,Glen,Commissioner of Agriculture & Commerce,,Cathy L. Toole,Reform,16Alcorn,Jacinto,Commissioner of Agriculture & Commerce,,Addie Lee Green,Democrat,67Alcorn,Jacinto,Commissioner of Agriculture & Commerce,,Andy Hyde-Smith,Republican,167Alcorn,Jacinto,Commissioner of Agriculture & Commerce,,Cathy L. Toole,Reform,12Alcorn,Kossuth,Commissioner of Agriculture & Commerce,,Addie Lee Green,Democrat,264Alcorn,Kossuth,Commissioner of Agriculture & Commerce,,Andy Hyde-Smith,Republican,796Alcorn,Kossuth,Commissioner of Agriculture & Commerce,,Cathy L. Toole,Reform,33Alcorn,North Corinth,Commissioner of Agriculture & Commerce,,Addie Lee Green,Democrat,112Alcorn,North Corinth,Commissioner of Agriculture & Commerce,,Andy Hyde-Smith,Republican,455Alcorn,North Corinth,Commissioner of Agriculture & Commerce,,Cathy L. Toole,Reform,17Alcorn,Pinecrest,Commissioner of Agriculture & Commerce,,Addie Lee Green,Democrat,93Alcorn,Pinecrest,Commissioner of Agriculture & Commerce,,Andy Hyde-Smith,Republican,227Alcorn,Pinecrest,Commissioner of Agriculture & Commerce,,Cathy L. Toole,Reform,16Alcorn,2nd District Central precint,Commissioner of Insurance,,Mike Chaney,Republican,796Alcorn,Bethel,Commissioner of Insurance,,Mike Chaney,Republican,49Alcorn,Biggersville,Commissioner of Insurance,,Mike Chaney,Republican,468Alcorn,College Hill,Commissioner of Insurance,,Mike Chaney,Republican,342Alcorn,East Corinth,Commissioner of Insurance,,Mike Chaney,Republican,717Alcorn,Five Points 1st District,Commissioner of Insurance,,Mike Chaney,Republican,935Alcorn,Glen,Commissioner of Insurance,,Mike Chaney,Republican,683Alcorn,Jacinto,Commissioner of Insurance,,Mike Chaney,Republican,215Alcorn,Kossuth,Commissioner of Insurance,,Mike Chaney,Republican,1051Alcorn,North Corinth,Commissioner of Insurance,,Mike Chaney,Republican,553Alcorn,Pinecrest,Commissioner of Insurance,,Mike Chaney,Republican,323Alcorn,2nd District Central precint,State Senate 04-District 04,4,Rita Potts Parks,Republican,645Alcorn,2nd District Central precint,State Senate 04-District 04,4,Eric Powell,Democrat,306Alcorn,Bethel,State Senate 04-District 04,4,Rita Potts Parks,Republican,25Alcorn,Bethel,State Senate 04-District 04,4,Eric Powell,Democrat,36Alcorn,Biggersville,State Senate 04-District 04,4,Rita Potts Parks,Republican,303Alcorn,Biggersville,State Senate 04-District 04,4,Eric Powell,Democrat,253Alcorn,College Hill,State Senate 04-District 04,4,Rita Potts Parks,Republican,200Alcorn,College Hill,State Senate 04-District 04,4,Eric Powell,Democrat,203Alcorn,East Corinth,State Senate 04-District 04,4,Rita Potts Parks,Republican,460Alcorn,East Corinth,State Senate 04-District 04,4,Eric Powell,Democrat,397Alcorn,Five Points 1st District,State Senate 04-District 04,4,Rita Potts Parks,Republican,726Alcorn,Five Points 1st District,State Senate 04-District 04,4,Eric Powell,Democrat,359Alcorn,Glen,State Senate 04-District 04,4,Rita Potts Parks,Republican,482Alcorn,Glen,State Senate 04-District 04,4,Eric Powell,Democrat,300Alcorn,Jacinto,State Senate 04-District 04,4,Rita Potts Parks,Republican,160Alcorn,Jacinto,State Senate 04-District 04,4,Eric Powell,Democrat,101Alcorn,Kossuth,State Senate 04-District 04,4,Rita Potts Parks,Republican,847Alcorn,Kossuth,State Senate 04-District 04,4,Eric Powell,Democrat,345Alcorn,North Corinth,State Senate 04-District 04,4,Rita Potts Parks,Republican,391Alcorn,North Corinth,State Senate 04-District 04,4,Eric Powell,Democrat,240Alcorn,Pinecrest,State Senate 04-District 04,4,Rita Potts Parks,Republican,178Alcorn,Pinecrest,State Senate 04-District 04,4,Eric Powell,Democrat,185Alcorn,Rienzi,Treasurer,,Lynn Fitch,Republican,534Alcorn,Rienzi,Treasurer,,Viola V. McFarland,Democrat,56Alcorn,Shady Groove,Treasurer,,Lynn Fitch,Republican,501Alcorn,Shady Groove,Treasurer,,Viola V. McFarland,Democrat,48Alcorn,South Corinth,Treasurer,,Lynn Fitch,Republican,393Alcorn,South Corinth,Treasurer,,Viola V. McFarland,Democrat,122Alcorn,Union Center,Treasurer,,Lynn Fitch,Republican,582Alcorn,Union Center,Treasurer,,Viola V. McFarland,Democrat,64Alcorn,Wenasoga,Treasurer,,Lynn Fitch,Republican,440Alcorn,Wenasoga,Treasurer,,Viola V. McFarland,Democrat,59Alcorn,West Corinth,Treasurer,,Lynn Fitch,Republican,300Alcorn,West Corinth,Treasurer,,Viola V. McFarland,Democrat,46Alcorn,ALCORN MS,Treasurer,,Lynn Fitch,Republican,8601Alcorn,ALCORN MS,Treasurer,,Viola V. McFarland,Democrat,1038Alcorn,Rienzi,Commissioner of Agriculture & Commerce,,Addie Lee Green,Democrat,184Alcorn,Rienzi,Commissioner of Agriculture & Commerce,,Cindy Hyde-Smith,Republican,415Alcorn,Rienzi,Commissioner of Agriculture & Commerce,,Cathy L. Toole,Reform,16Alcorn,Shady Groove,Commissioner of Agriculture & Commerce,,Addie Lee Green,Democrat,142Alcorn,Shady Groove,Commissioner of Agriculture & Commerce,,Cindy Hyde-Smith,Republican,404Alcorn,Shady Groove,Commissioner of Agriculture & Commerce,,Cathy L. Toole,Reform,20Alcorn,South Corinth,Commissioner of Agriculture & Commerce,,Addie Lee Green,Democrat,311Alcorn,South Corinth,Commissioner of Agriculture & Commerce,,Cindy Hyde-Smith,Republican,267Alcorn,South Corinth,Commissioner of Agriculture & Commerce,,Cathy L. Toole,Reform,23Alcorn,Union Center,Commissioner of Agriculture & Commerce,,Addie Lee Green,Democrat,231Alcorn,Union Center,Commissioner of Agriculture & Commerce,,Cindy Hyde-Smith,Republican,425Alcorn,Union Center,Commissioner of Agriculture & Commerce,,Cathy L. Toole,Reform,16Alcorn,Wenasoga,Commissioner of Agriculture & Commerce,,Addie Lee Green,Democrat,171Alcorn,Wenasoga,Commissioner of Agriculture & Commerce,,Cindy Hyde-Smith,Republican,314Alcorn,Wenasoga,Commissioner of Agriculture & Commerce,,Cathy L. Toole,Reform,20Alcorn,West Corinth,Commissioner of Agriculture & Commerce,,Addie Lee Green,Democrat,105Alcorn,West Corinth,Commissioner of Agriculture & Commerce,,Cindy Hyde-Smith,Republican,232Alcorn,West Corinth,Commissioner of Agriculture & Commerce,,Cathy L. Toole,Reform,10Alcorn,ALCORN MS,Commissioner of Agriculture & Commerce,,Addie Lee Green,Democrat,2906Alcorn,ALCORN MS,Commissioner of Agriculture & Commerce,,Cindy Hyde-Smith,Republican,6609Alcorn,ALCORN MS,Commissioner of Agriculture & Commerce,,Cathy L. Toole,Reform,324Alcorn,Rienzi,Commissioner of Insurance,,Mike Chaney,Republican,562Alcorn,Shady Groove,Commissioner of Insurance,,Mike Chaney,Republican,517Alcorn,South Corinth,Commissioner of Insurance,,Mike Chaney,Republican,445Alcorn,Union Center,Commissioner of Insurance,,Mike Chaney,Republican,617Alcorn,Wenasoga,Commissioner of Insurance,,Mike Chaney,Republican,458Alcorn,West Corinth,Commissioner of Insurance,,Mike Chaney,Republican,330Alcorn,ALCORN MS,Commissioner of Insurance,,Mike Chaney,Republican,9061Alcorn,Rienzi,State Senate 04-District 04,4,Rita Potts Parks,Republican,385Alcorn,Rienzi,State Senate 04-District 04,4,Eric Powell,Democrat,264Alcorn,Shady Groove,State Senate 04-District 04,4,Rita Potts Parks,Republican,372Alcorn,Shady Groove,State Senate 04-District 04,4,Eric Powell,Democrat,229Alcorn,South Corinth,State Senate 04-District 04,4,Rita Potts Parks,Republican,262Alcorn,South Corinth,State Senate 04-District 04,4,Eric Powell,Democrat,421Alcorn,Union Center,State Senate 04-District 04,4,Rita Potts Parks,Republican,471Alcorn,Union Center,State Senate 04-District 04,4,Eric Powell,Democrat,235Alcorn,Wenasoga,State Senate 04-District 04,4,Rita Potts Parks,Republican,360Alcorn,Wenasoga,State Senate 04-District 04,4,Eric Powell,Democrat,207Alcorn,West Corinth,State Senate 04-District 04,4,Rita Potts Parks,Republican,223Alcorn,West Corinth,State Senate 04-District 04,4,Eric Powell,Democrat,150Alcorn,ALCORN MS,State Senate 04-District 04,4,Rita Potts Parks,Republican,6490Alcorn,ALCORN MS,State Senate 04-District 04,4,Eric Powell,Democrat,4231Alcorn,2nd District Central precint,State House,1,Lester E. 'Bubba' Carpenter,Republican,392Alcorn,2nd District Central precint,State House,1,Lisa Benderman Wigginton,Democrat,166Alcorn,Five Points 1st District,State House,1,Lester E. 'Bubba' Carpenter,Republican,756Alcorn,Five Points 1st District,State House,1,Lisa Benderman Wigginton,Democrat,318Alcorn,Glen,State House,1,Lester E. 'Bubba' Carpenter,Republican,463Alcorn,Glen,State House,1,Lisa Benderman Wigginton,Democrat,208Alcorn,Jacinto,State House,1,Lester E. 'Bubba' Carpenter,Republican,9Alcorn,Jacinto,State House,1,Lisa Benderman Wigginton,Democrat,5Alcorn,North Corinth,State House,1,Lester E. 'Bubba' Carpenter,Republican,384Alcorn,North Corinth,State House,1,Lisa Benderman Wigginton,Democrat,153Alcorn,Pinecrest,State House,1,Lester E. 'Bubba' Carpenter,Republican,201Alcorn,Pinecrest,State House,1,Lisa Benderman Wigginton,Democrat,76Alcorn,2nd District Central precint,State House,2,Nick Bain,Democrat,285Alcorn,2nd District Central precint,State House,2,Billy Miller,Republican,104Alcorn,Biggersville,State House,2,Nick Bain,Democrat,432Alcorn,Biggersville,State House,2,Billy Miller,Republican,122Alcorn,College Hill,State House,2,Nick Bain,Democrat,300Alcorn,College Hill,State House,2,Billy Miller,Republican,95Alcorn,East Corinth,State House,2,Nick Bain,Democrat,654Alcorn,East Corinth,State House,2,Billy Miller,Republican,192Alcorn,Glen,State House,2,Nick Bain,Democrat,12Alcorn,Glen,State House,2,Billy Miller,Republican,3Alcorn,Kossuth,State House,2,Nick Bain,Democrat,852Alcorn,Kossuth,State House,2,Billy Miller,Republican,332Alcorn,North Corinth,State House,2,Nick Bain,Democrat,384Alcorn,North Corinth,State House,2,Billy Miller,Republican,153Alcorn,Pinecrest,State House,2,Nick Bain,Democrat,201Alcorn,Pinecrest,State House,2,Billy Miller,Republican,76Alcorn,Glen,State House,3,William Tracy Arnold,Republican,40Alcorn,Glen,State House,3,Lauren Childers,Democrat,46Alcorn,Jacinto,State House,3,William Tracy Arnold,Republican,153Alcorn,Jacinto,State House,3,Lauren Childers,Democrat,96Alcorn,Bethel,State House,4,Joseph F. 'Jody' Steverson,Democrat,38Alcorn,ALCORN MS,State House,1,Lester E. 'Bubba' Carpenter,Republican,2205Alcorn,ALCORN MS,State House,1,Lisa Benderman Wigginton,Democrat,926Alcorn,Shady Groove,State House,2,Nick Bain,Democrat,438Alcorn,Shady Groove,State House,2,Billy Miller,Republican,160Alcorn,South Corinth,State House,2,Nick Bain,Democrat,529Alcorn,South Corinth,State House,2,Billy Miller,Republican,138Alcorn,Union Center,State House,2,Nick Bain,Democrat,414Alcorn,Union Center,State House,2,Billy Miller,Republican,106Alcorn,Wenasoga,State House,2,Nick Bain,Democrat,433Alcorn,Wenasoga,State House,2,Billy Miller,Republican,132Alcorn,West Corinth,State House,2,Nick Bain,Democrat,268Alcorn,West Corinth,State House,2,Billy Miller,Republican,103Alcorn,ALCORN MS,State House,2,Nick Bain,Democrat,4751Alcorn,ALCORN MS,State House,2,Billy Miller,Republican,1520Alcorn,Rienzi,State House,3,William Tracy Arnold,Republican,391Alcorn,Rienzi,State House,3,Lauren Childers,Democrat,249Alcorn,ALCORN MS,State House,3,William Tracy Arnold,Republican,584Alcorn,ALCORN MS,State House,3,Lauren Childers,Democrat,391Alcorn,Union Center,State House,4,Joseph F. 'Jody' Steverson,Democrat,150Alcorn,ALCORN MS,State House,4,Joseph F. 'Jody' Steverson,Democrat,188
+county,precinct,office,district,candidate,party,votes
+Alcorn,2nd District Central precint,Governor,,Phil Bryant,Republican,818
+Alcorn,2nd District Central precint,Governor,,Robert Gray,Democrat,103
+Alcorn,2nd District Central precint,Governor,,Shawn O'Hara,Reform,11
+Alcorn,Bethel,Governor,,Phil Bryant,Republican,55
+Alcorn,Bethel,Governor,,Robert Gray,Democrat,5
+Alcorn,Bethel,Governor,,Shawn O'Hara,Reform,1
+Alcorn,Biggersville,Governor,,Phil Bryant,Republican,438
+Alcorn,Biggersville,Governor,,Robert Gray,Democrat,95
+Alcorn,Biggersville,Governor,,Shawn O'Hara,Reform,6
+Alcorn,College Hill,Governor,,Phil Bryant,Republican,903
+Alcorn,College Hill,Governor,,Robert Gray,Democrat,91
+Alcorn,College Hill,Governor,,Shawn O'Hara,Reform,8
+Alcorn,East Corinth,Governor,,Phil Bryant,Republican,689
+Alcorn,East Corinth,Governor,,Robert Gray,Democrat,142
+Alcorn,East Corinth,Governor,,Shawn O'Hara,Reform,7
+Alcorn,Five Points 1st District,Governor,,Phil Bryant,Republican,921
+Alcorn,Five Points 1st District,Governor,,Robert Gray,Democrat,140
+Alcorn,Five Points 1st District,Governor,,Shawn O'Hara,Reform,4
+Alcorn,Glen,Governor,,Phil Bryant,Republican,655
+Alcorn,Glen,Governor,,Robert Gray,Democrat,113
+Alcorn,Glen,Governor,,Shawn O'Hara,Reform,11
+Alcorn,Jacinto,Governor,,Phil Bryant,Republican,226
+Alcorn,Jacinto,Governor,,Robert Gray,Democrat,34
+Alcorn,Jacinto,Governor,,Shawn O'Hara,Reform,3
+Alcorn,Kossuth,Governor,,Phil Bryant,Republican,1070
+Alcorn,Kossuth,Governor,,Robert Gray,Democrat,98
+Alcorn,Kossuth,Governor,,Shawn O'Hara,Reform,13
+Alcorn,North Corinth,Governor,,Phil Bryant,Republican,539
+Alcorn,North Corinth,Governor,,Robert Gray,Democrat,72
+Alcorn,North Corinth,Governor,,Shawn O'Hara,Reform,9
+Alcorn,Pinecrest,Governor,,Phil Bryant,Republican,291
+Alcorn,Pinecrest,Governor,,Robert Gray,Democrat,64
+Alcorn,Pinecrest,Governor,,Shawn O'Hara,Reform,6
+Alcorn,2nd District Central precint,Lieutenant Governor,,Tim Johnson,Democrat,146
+Alcorn,2nd District Central precint,Lieutenant Governor,,Tabe Reeves,Republican,728
+Alcorn,2nd District Central precint,Lieutenant Governor,,Ron Williams,Libertarian,18
+Alcorn,2nd District Central precint,Lieutenant Governor,,Rosa S. Williams,Reform,12
+Alcorn,Bethel,Lieutenant Governor,,Tim Johnson,Democrat,10
+Alcorn,Bethel,Lieutenant Governor,,Tabe Reeves,Republican,50
+Alcorn,Bethel,Lieutenant Governor,,Ron Williams,Libertarian,0
+Alcorn,Bethel,Lieutenant Governor,,Rosa S. Williams,Reform,0
+Alcorn,Biggersville,Lieutenant Governor,,Tim Johnson,Democrat,128
+Alcorn,Biggersville,Lieutenant Governor,,Tabe Reeves,Republican,389
+Alcorn,Biggersville,Lieutenant Governor,,Ron Williams,Libertarian,9
+Alcorn,Biggersville,Lieutenant Governor,,Rosa S. Williams,Reform,7
+Alcorn,College Hill,Lieutenant Governor,,Tim Johnson,Democrat,110
+Alcorn,College Hill,Lieutenant Governor,,Tabe Reeves,Republican,254
+Alcorn,College Hill,Lieutenant Governor,,Ron Williams,Libertarian,11
+Alcorn,College Hill,Lieutenant Governor,,Rosa S. Williams,Reform,14
+Alcorn,East Corinth,Lieutenant Governor,,Tim Johnson,Democrat,182
+Alcorn,East Corinth,Lieutenant Governor,,Tabe Reeves,Republican,623
+Alcorn,East Corinth,Lieutenant Governor,,Ron Williams,Libertarian,16
+Alcorn,East Corinth,Lieutenant Governor,,Rosa S. Williams,Reform,7
+Alcorn,Five Points 1st District,Lieutenant Governor,,Tim Johnson,Democrat,182
+Alcorn,Five Points 1st District,Lieutenant Governor,,Tabe Reeves,Republican,828
+Alcorn,Five Points 1st District,Lieutenant Governor,,Ron Williams,Libertarian,21
+Alcorn,Five Points 1st District,Lieutenant Governor,,Rosa S. Williams,Reform,12
+Alcorn,Glen,Lieutenant Governor,,Tim Johnson,Democrat,171
+Alcorn,Glen,Lieutenant Governor,,Tabe Reeves,Republican,553
+Alcorn,Glen,Lieutenant Governor,,Ron Williams,Libertarian,16
+Alcorn,Glen,Lieutenant Governor,,Rosa S. Williams,Reform,15
+Alcorn,Jacinto,Lieutenant Governor,,Tim Johnson,Democrat,44
+Alcorn,Jacinto,Lieutenant Governor,,Tabe Reeves,Republican,206
+Alcorn,Jacinto,Lieutenant Governor,,Ron Williams,Libertarian,4
+Alcorn,Jacinto,Lieutenant Governor,,Rosa S. Williams,Reform,4
+Alcorn,Kossuth,Lieutenant Governor,,Tim Johnson,Democrat,189
+Alcorn,Kossuth,Lieutenant Governor,,Tabe Reeves,Republican,919
+Alcorn,Kossuth,Lieutenant Governor,,Ron Williams,Libertarian,16
+Alcorn,Kossuth,Lieutenant Governor,,Rosa S. Williams,Reform,16
+Alcorn,North Corinth,Lieutenant Governor,,Tim Johnson,Democrat,96
+Alcorn,North Corinth,Lieutenant Governor,,Tabe Reeves,Republican,506
+Alcorn,North Corinth,Lieutenant Governor,,Ron Williams,Libertarian,7
+Alcorn,North Corinth,Lieutenant Governor,,Rosa S. Williams,Reform,9
+Alcorn,Pinecrest,Lieutenant Governor,,Tim Johnson,Democrat,81
+Alcorn,Pinecrest,Lieutenant Governor,,Tabe Reeves,Republican,259
+Alcorn,Pinecrest,Lieutenant Governor,,Ron Williams,Libertarian,9
+Alcorn,Pinecrest,Lieutenant Governor,,Rosa S. Williams,Reform,6
+Alcorn,2nd District Central precint,Secretary of State,,Charles E. Graham,Democrat,188
+Alcorn,2nd District Central precint,Secretary of State,,Delbert Hosemann,Republican,663
+Alcorn,2nd District Central precint,Secretary of State,,Randy Walker,Reform,36
+Alcorn,Bethel,Secretary of State,,Charles E. Graham,Democrat,10
+Alcorn,Bethel,Secretary of State,,Delbert Hosemann,Republican,40
+Alcorn,Bethel,Secretary of State,,Randy Walker,Reform,4
+Alcorn,Biggersville,Secretary of State,,Charles E. Graham,Democrat,153
+Alcorn,Biggersville,Secretary of State,,Delbert Hosemann,Republican,361
+Alcorn,Biggersville,Secretary of State,,Randy Walker,Reform,17
+Alcorn,College Hill,Secretary of State,,Charles E. Graham,Democrat,129
+Alcorn,College Hill,Secretary of State,,Delbert Hosemann,Republican,228
+Alcorn,College Hill,Secretary of State,,Randy Walker,Reform,28
+Alcorn,East Corinth,Secretary of State,,Charles E. Graham,Democrat,179
+Alcorn,East Corinth,Secretary of State,,Delbert Hosemann,Republican,613
+Alcorn,East Corinth,Secretary of State,,Randy Walker,Reform,26
+Alcorn,Five Points 1st District,Secretary of State,,Charles E. Graham,Democrat,217
+Alcorn,Five Points 1st District,Secretary of State,,Delbert Hosemann,Republican,778
+Alcorn,Five Points 1st District,Secretary of State,,Randy Walker,Reform,31
+Alcorn,Glen,Secretary of State,,Charles E. Graham,Democrat,227
+Alcorn,Glen,Secretary of State,,Delbert Hosemann,Republican,484
+Alcorn,Glen,Secretary of State,,Randy Walker,Reform,50
+Alcorn,Jacinto,Secretary of State,,Charles E. Graham,Democrat,63
+Alcorn,Jacinto,Secretary of State,,Delbert Hosemann,Republican,184
+Alcorn,Jacinto,Secretary of State,,Randy Walker,Reform,9
+Alcorn,Kossuth,Secretary of State,,Charles E. Graham,Democrat,231
+Alcorn,Kossuth,Secretary of State,,Delbert Hosemann,Republican,823
+Alcorn,Kossuth,Secretary of State,,Randy Walker,Reform,55
+Alcorn,North Corinth,Secretary of State,,Charles E. Graham,Democrat,112
+Alcorn,North Corinth,Secretary of State,,Delbert Hosemann,Republican,482
+Alcorn,North Corinth,Secretary of State,,Randy Walker,Reform,15
+Alcorn,Pinecrest,Secretary of State,,Charles E. Graham,Democrat,89
+Alcorn,Pinecrest,Secretary of State,,Delbert Hosemann,Republican,252
+Alcorn,Pinecrest,Secretary of State,,Randy Walker,Reform,11
+Alcorn,2nd District Central precint,Attorney General,,Jim Hood,Democrat,417
+Alcorn,2nd District Central precint,Attorney General,,Mike Hurst,Republican,492
+Alcorn,Bethel,Attorney General,,Jim Hood,Democrat,35
+Alcorn,Bethel,Attorney General,,Mike Hurst,Republican,26
+Alcorn,Biggersville,Attorney General,,Jim Hood,Democrat,281
+Alcorn,Biggersville,Attorney General,,Mike Hurst,Republican,259
+Alcorn,College Hill,Attorney General,,Jim Hood,Democrat,230
+Alcorn,College Hill,Attorney General,,Mike Hurst,Republican,167
+Alcorn,East Corinth,Attorney General,,Jim Hood,Democrat,411
+Alcorn,East Corinth,Attorney General,,Mike Hurst,Republican,424
+Alcorn,Five Points 1st District,Attorney General,,Jim Hood,Democrat,457
+Alcorn,Five Points 1st District,Attorney General,,Mike Hurst,Republican,590
+Alcorn,Glen,Attorney General,,Jim Hood,Democrat,418
+Alcorn,Glen,Attorney General,,Mike Hurst,Republican,350
+Alcorn,Jacinto,Attorney General,,Jim Hood,Democrat,129
+Alcorn,Jacinto,Attorney General,,Mike Hurst,Republican,130
+Alcorn,Kossuth,Attorney General,,Jim Hood,Democrat,548
+Alcorn,Kossuth,Attorney General,,Mike Hurst,Republican,600
+Alcorn,North Corinth,Attorney General,,Jim Hood,Democrat,255
+Alcorn,North Corinth,Attorney General,,Mike Hurst,Republican,364
+Alcorn,Pinecrest,Attorney General,,Jim Hood,Democrat,178
+Alcorn,Pinecrest,Attorney General,,Mike Hurst,Republican,175
+Alcorn,2nd District Central precint,State Auditor,,Stacey E. Pickering,Republican,769
+Alcorn,2nd District Central precint,State Auditor,,Jocelyn 'Joce' Pepper Pritchett,Democrat,124
+Alcorn,2nd District Central precint,State Auditor,,Lajena Walley,Reform,11
+Alcorn,Bethel,State Auditor,,Stacey E. Pickering,Republican,46
+Alcorn,Bethel,State Auditor,,Jocelyn 'Joce' Pepper Pritchett,Democrat,9
+Alcorn,Bethel,State Auditor,,Lajena Walley,Reform,3
+Alcorn,Biggersville,State Auditor,,Stacey E. Pickering,Republican,420
+Alcorn,Biggersville,State Auditor,,Jocelyn 'Joce' Pepper Pritchett,Democrat,102
+Alcorn,Biggersville,State Auditor,,Lajena Walley,Reform,5
+Alcorn,College Hill,State Auditor,,Stacey E. Pickering,Republican,277
+Alcorn,College Hill,State Auditor,,Jocelyn 'Joce' Pepper Pritchett,Democrat,99
+Alcorn,College Hill,State Auditor,,Lajena Walley,Reform,8
+Alcorn,East Corinth,State Auditor,,Stacey E. Pickering,Republican,660
+Alcorn,East Corinth,State Auditor,,Jocelyn 'Joce' Pepper Pritchett,Democrat,150
+Alcorn,East Corinth,State Auditor,,Lajena Walley,Reform,11
+Alcorn,Five Points 1st District,State Auditor,,Stacey E. Pickering,Republican,861
+Alcorn,Five Points 1st District,State Auditor,,Jocelyn 'Joce' Pepper Pritchett,Democrat,162
+Alcorn,Five Points 1st District,State Auditor,,Lajena Walley,Reform,11
+Alcorn,Glen,State Auditor,,Stacey E. Pickering,Republican,600
+Alcorn,Glen,State Auditor,,Jocelyn 'Joce' Pepper Pritchett,Democrat,152
+Alcorn,Glen,State Auditor,,Lajena Walley,Reform,7
+Alcorn,Jacinto,State Auditor,,Stacey E. Pickering,Republican,217
+Alcorn,Jacinto,State Auditor,,Jocelyn 'Joce' Pepper Pritchett,Democrat,38
+Alcorn,Jacinto,State Auditor,,Lajena Walley,Reform,1
+Alcorn,Kossuth,State Auditor,,Stacey E. Pickering,Republican,994
+Alcorn,Kossuth,State Auditor,,Jocelyn 'Joce' Pepper Pritchett,Democrat,131
+Alcorn,Kossuth,State Auditor,,Lajena Walley,Reform,8
+Alcorn,North Corinth,State Auditor,,Stacey E. Pickering,Republican,525
+Alcorn,North Corinth,State Auditor,,Jocelyn 'Joce' Pepper Pritchett,Democrat,80
+Alcorn,North Corinth,State Auditor,,Lajena Walley,Reform,5
+Alcorn,Pinecrest,State Auditor,,Stacey E. Pickering,Republican,268
+Alcorn,Pinecrest,State Auditor,,Jocelyn 'Joce' Pepper Pritchett,Democrat,75
+Alcorn,Pinecrest,State Auditor,,Lajena Walley,Reform,6
+Alcorn,Rienzi,Governor,,Phil Bryant,Republican,535
+Alcorn,Rienzi,Governor,,Robert Gray,Democrat,107
+Alcorn,Rienzi,Governor,,Shawn O'Hara,Reform,4
+Alcorn,Shady Groove,Governor,,Phil Bryant,Republican,526
+Alcorn,Shady Groove,Governor,,Robert Gray,Democrat,69
+Alcorn,Shady Groove,Governor,,Shawn O'Hara,Reform,3
+Alcorn,South Corinth,Governor,,Phil Bryant,Republican,390
+Alcorn,South Corinth,Governor,,Robert Gray,Democrat,251
+Alcorn,South Corinth,Governor,,Shawn O'Hara,Reform,12
+Alcorn,Union Center,Governor,,Phil Bryant,Republican,594
+Alcorn,Union Center,Governor,,Robert Gray,Democrat,107
+Alcorn,Union Center,Governor,,Shawn O'Hara,Reform,7
+Alcorn,Wenasoga,Governor,,Phil Bryant,Republican,465
+Alcorn,Wenasoga,Governor,,Robert Gray,Democrat,93
+Alcorn,Wenasoga,Governor,,Shawn O'Hara,Reform,5
+Alcorn,West Corinth,Governor,,Phil Bryant,Republican,301
+Alcorn,West Corinth,Governor,,Robert Gray,Democrat,65
+Alcorn,West Corinth,Governor,,Shawn O'Hara,Reform,3
+Alcorn,ALCORN MS,Governor,,Phil Bryant,Republican,8817
+Alcorn,ALCORN MS,Governor,,Robert Gray,Democrat,1649
+Alcorn,ALCORN MS,Governor,,Shawn O'Hara,Reform,113
+Alcorn,Rienzi,Lieutenant Governor,,Tim Johnson,Democrat,143
+Alcorn,Rienzi,Lieutenant Governor,,Tabe Reeves,Republican,469
+Alcorn,Rienzi,Lieutenant Governor,,Ron Williams,Libertarian,13
+Alcorn,Rienzi,Lieutenant Governor,,Rosa S. Williams,Reform,9
+Alcorn,Shady Groove,Lieutenant Governor,,Tim Johnson,Democrat,102
+Alcorn,Shady Groove,Lieutenant Governor,,Tabe Reeves,Republican,458
+Alcorn,Shady Groove,Lieutenant Governor,,Ron Williams,Libertarian,7
+Alcorn,Shady Groove,Lieutenant Governor,,Rosa S. Williams,Reform,9
+Alcorn,South Corinth,Lieutenant Governor,,Tim Johnson,Democrat,276
+Alcorn,South Corinth,Lieutenant Governor,,Tabe Reeves,Republican,311
+Alcorn,South Corinth,Lieutenant Governor,,Ron Williams,Libertarian,26
+Alcorn,South Corinth,Lieutenant Governor,,Rosa S. Williams,Reform,15
+Alcorn,Union Center,Lieutenant Governor,,Tim Johnson,Democrat,169
+Alcorn,Union Center,Lieutenant Governor,,Tabe Reeves,Republican,502
+Alcorn,Union Center,Lieutenant Governor,,Ron Williams,Libertarian,9
+Alcorn,Union Center,Lieutenant Governor,,Rosa S. Williams,Reform,8
+Alcorn,Wenasoga,Lieutenant Governor,,Tim Johnson,Democrat,129
+Alcorn,Wenasoga,Lieutenant Governor,,Tabe Reeves,Republican,401
+Alcorn,Wenasoga,Lieutenant Governor,,Ron Williams,Libertarian,11
+Alcorn,Wenasoga,Lieutenant Governor,,Rosa S. Williams,Reform,7
+Alcorn,West Corinth,Lieutenant Governor,,Tim Johnson,Democrat,70
+Alcorn,West Corinth,Lieutenant Governor,,Tabe Reeves,Republican,271
+Alcorn,West Corinth,Lieutenant Governor,,Ron Williams,Libertarian,12
+Alcorn,West Corinth,Lieutenant Governor,,Rosa S. Williams,Reform,11
+Alcorn,ALCORN MS,Lieutenant Governor,,Tim Johnson,Democrat,2228
+Alcorn,ALCORN MS,Lieutenant Governor,,Tabe Reeves,Republican,7727
+Alcorn,ALCORN MS,Lieutenant Governor,,Ron Williams,Libertarian,205
+Alcorn,ALCORN MS,Lieutenant Governor,,Rosa S. Williams,Reform,161
+Alcorn,Rienzi,Secretary of State,,Charles E. Graham,Democrat,156
+Alcorn,Rienzi,Secretary of State,,Delbert Hosemann,Republican,437
+Alcorn,Rienzi,Secretary of State,,Randy Walker,Reform,35
+Alcorn,Shady Groove,Secretary of State,,Charles E. Graham,Democrat,137
+Alcorn,Shady Groove,Secretary of State,,Delbert Hosemann,Republican,413
+Alcorn,Shady Groove,Secretary of State,,Randy Walker,Reform,26
+Alcorn,South Corinth,Secretary of State,,Charles E. Graham,Democrat,280
+Alcorn,South Corinth,Secretary of State,,Delbert Hosemann,Republican,298
+Alcorn,South Corinth,Secretary of State,,Randy Walker,Reform,47
+Alcorn,Union Center,Secretary of State,,Charles E. Graham,Democrat,199
+Alcorn,Union Center,Secretary of State,,Delbert Hosemann,Republican,441
+Alcorn,Union Center,Secretary of State,,Randy Walker,Reform,43
+Alcorn,Wenasoga,Secretary of State,,Charles E. Graham,Democrat,150
+Alcorn,Wenasoga,Secretary of State,,Delbert Hosemann,Republican,356
+Alcorn,Wenasoga,Secretary of State,,Randy Walker,Reform,30
+Alcorn,West Corinth,Secretary of State,,Charles E. Graham,Democrat,80
+Alcorn,West Corinth,Secretary of State,,Delbert Hosemann,Republican,261
+Alcorn,West Corinth,Secretary of State,,Randy Walker,Reform,14
+Alcorn,ALCORN MS,Secretary of State,,Charles E. Graham,Democrat,2600
+Alcorn,ALCORN MS,Secretary of State,,Delbert Hosemann,Republican,7114
+Alcorn,ALCORN MS,Secretary of State,,Randy Walker,Reform,477
+Alcorn,Rienzi,Attorney General,,Jim Hood,Democrat,362
+Alcorn,Rienzi,Attorney General,,Mike Hurst,Republican,267
+Alcorn,Shady Groove,Attorney General,,Jim Hood,Democrat,275
+Alcorn,Shady Groove,Attorney General,,Mike Hurst,Republican,314
+Alcorn,South Corinth,Attorney General,,Jim Hood,Democrat,420
+Alcorn,South Corinth,Attorney General,,Mike Hurst,Republican,220
+Alcorn,Union Center,Attorney General,,Jim Hood,Democrat,381
+Alcorn,Union Center,Attorney General,,Mike Hurst,Republican,313
+Alcorn,Wenasoga,Attorney General,,Jim Hood,Democrat,287
+Alcorn,Wenasoga,Attorney General,,Mike Hurst,Republican,266
+Alcorn,West Corinth,Attorney General,,Jim Hood,Democrat,189
+Alcorn,West Corinth,Attorney General,,Mike Hurst,Republican,179
+Alcorn,ALCORN MS,Attorney General,,Jim Hood,Democrat,5273
+Alcorn,ALCORN MS,Attorney General,,Mike Hurst,Republican,5136
+Alcorn,Rienzi,State Auditor,,Stacey E. Pickering,Republican,504
+Alcorn,Rienzi,State Auditor,,Jocelyn 'Joce' Pepper Pritchett,Democrat,112
+Alcorn,Rienzi,State Auditor,,Lajena Walley,Reform,6
+Alcorn,Shady Groove,State Auditor,,Stacey E. Pickering,Republican,493
+Alcorn,Shady Groove,State Auditor,,Jocelyn 'Joce' Pepper Pritchett,Democrat,79
+Alcorn,Shady Groove,State Auditor,,Lajena Walley,Reform,10
+Alcorn,South Corinth,State Auditor,,Stacey E. Pickering,Republican,346
+Alcorn,South Corinth,State Auditor,,Jocelyn 'Joce' Pepper Pritchett,Democrat,258
+Alcorn,South Corinth,State Auditor,,Lajena Walley,Reform,20
+Alcorn,Union Center,State Auditor,,Stacey E. Pickering,Republican,541
+Alcorn,Union Center,State Auditor,,Jocelyn 'Joce' Pepper Pritchett,Democrat,124
+Alcorn,Union Center,State Auditor,,Lajena Walley,Reform,19
+Alcorn,Wenasoga,State Auditor,,Stacey E. Pickering,Republican,413
+Alcorn,Wenasoga,State Auditor,,Jocelyn 'Joce' Pepper Pritchett,Democrat,118
+Alcorn,Wenasoga,State Auditor,,Lajena Walley,Reform,11
+Alcorn,West Corinth,State Auditor,,Stacey E. Pickering,Republican,300
+Alcorn,West Corinth,State Auditor,,Jocelyn 'Joce' Pepper Pritchett,Democrat,56
+Alcorn,West Corinth,State Auditor,,Lajena Walley,Reform,6
+Alcorn,ALCORN MS,State Auditor,,Stacey E. Pickering,Republican,8234
+Alcorn,ALCORN MS,State Auditor,,Jocelyn 'Joce' Pepper Pritchett,Democrat,1869
+Alcorn,ALCORN MS,State Auditor,,Lajena Walley,Reform,148
+Alcorn,2nd District Central precint,Treasurer,,Lynn Fitch,Republican,767
+Alcorn,2nd District Central precint,Treasurer,,Viola V. McFarland,Reform,92
+Alcorn,Bethel,Treasurer,,Lynn Fitch,Republican,45
+Alcorn,Bethel,Treasurer,,Viola V. McFarland,Reform,3
+Alcorn,Biggersville,Treasurer,,Lynn Fitch,Republican,441
+Alcorn,Biggersville,Treasurer,,Viola V. McFarland,Reform,48
+Alcorn,College Hill,Treasurer,,Lynn Fitch,Republican,306
+Alcorn,College Hill,Treasurer,,Viola V. McFarland,Reform,64
+Alcorn,East Corinth,Treasurer,,Lynn Fitch,Republican,681
+Alcorn,East Corinth,Treasurer,,Viola V. McFarland,Reform,78
+Alcorn,Five Points 1st District,Treasurer,,Lynn Fitch,Republican,900
+Alcorn,Five Points 1st District,Treasurer,,Viola V. McFarland,Reform,84
+Alcorn,Glen,Treasurer,,Lynn Fitch,Republican,647
+Alcorn,Glen,Treasurer,,Viola V. McFarland,Reform,74
+Alcorn,Jacinto,Treasurer,,Lynn Fitch,Republican,226
+Alcorn,Jacinto,Treasurer,,Viola V. McFarland,Reform,25
+Alcorn,Kossuth,Treasurer,,Lynn Fitch,Republican,1010
+Alcorn,Kossuth,Treasurer,,Viola V. McFarland,Reform,84
+Alcorn,North Corinth,Treasurer,,Lynn Fitch,Republican,537
+Alcorn,North Corinth,Treasurer,,Viola V. McFarland,Reform,45
+Alcorn,Pinecrest,Treasurer,,Lynn Fitch,Republican,291
+Alcorn,Pinecrest,Treasurer,,Viola V. McFarland,Reform,46
+Alcorn,2nd District Central precint,Commissioner of Agriculture & Commerce,,Addie Lee Green,Democrat,201
+Alcorn,2nd District Central precint,Commissioner of Agriculture & Commerce,,Andy Hyde-Smith,Republican,607
+Alcorn,2nd District Central precint,Commissioner of Agriculture & Commerce,,Cathy L. Toole,Reform,37
+Alcorn,Bethel,Commissioner of Agriculture & Commerce,,Addie Lee Green,Democrat,15
+Alcorn,Bethel,Commissioner of Agriculture & Commerce,,Andy Hyde-Smith,Republican,35
+Alcorn,Bethel,Commissioner of Agriculture & Commerce,,Cathy L. Toole,Reform,2
+Alcorn,Biggersville,Commissioner of Agriculture & Commerce,,Addie Lee Green,Democrat,160
+Alcorn,Biggersville,Commissioner of Agriculture & Commerce,,Andy Hyde-Smith,Republican,326
+Alcorn,Biggersville,Commissioner of Agriculture & Commerce,,Cathy L. Toole,Reform,19
+Alcorn,College Hill,Commissioner of Agriculture & Commerce,,Addie Lee Green,Democrat,145
+Alcorn,College Hill,Commissioner of Agriculture & Commerce,,Andy Hyde-Smith,Republican,217
+Alcorn,College Hill,Commissioner of Agriculture & Commerce,,Cathy L. Toole,Reform,14
+Alcorn,East Corinth,Commissioner of Agriculture & Commerce,,Addie Lee Green,Democrat,213
+Alcorn,East Corinth,Commissioner of Agriculture & Commerce,,Andy Hyde-Smith,Republican,539
+Alcorn,East Corinth,Commissioner of Agriculture & Commerce,,Cathy L. Toole,Reform,30
+Alcorn,Five Points 1st District,Commissioner of Agriculture & Commerce,,Addie Lee Green,Democrat,254
+Alcorn,Five Points 1st District,Commissioner of Agriculture & Commerce,,Andy Hyde-Smith,Republican,710
+Alcorn,Five Points 1st District,Commissioner of Agriculture & Commerce,,Cathy L. Toole,Reform,23
+Alcorn,Glen,Commissioner of Agriculture & Commerce,,Addie Lee Green,Democrat,238
+Alcorn,Glen,Commissioner of Agriculture & Commerce,,Andy Hyde-Smith,Republican,473
+Alcorn,Glen,Commissioner of Agriculture & Commerce,,Cathy L. Toole,Reform,16
+Alcorn,Jacinto,Commissioner of Agriculture & Commerce,,Addie Lee Green,Democrat,67
+Alcorn,Jacinto,Commissioner of Agriculture & Commerce,,Andy Hyde-Smith,Republican,167
+Alcorn,Jacinto,Commissioner of Agriculture & Commerce,,Cathy L. Toole,Reform,12
+Alcorn,Kossuth,Commissioner of Agriculture & Commerce,,Addie Lee Green,Democrat,264
+Alcorn,Kossuth,Commissioner of Agriculture & Commerce,,Andy Hyde-Smith,Republican,796
+Alcorn,Kossuth,Commissioner of Agriculture & Commerce,,Cathy L. Toole,Reform,33
+Alcorn,North Corinth,Commissioner of Agriculture & Commerce,,Addie Lee Green,Democrat,112
+Alcorn,North Corinth,Commissioner of Agriculture & Commerce,,Andy Hyde-Smith,Republican,455
+Alcorn,North Corinth,Commissioner of Agriculture & Commerce,,Cathy L. Toole,Reform,17
+Alcorn,Pinecrest,Commissioner of Agriculture & Commerce,,Addie Lee Green,Democrat,93
+Alcorn,Pinecrest,Commissioner of Agriculture & Commerce,,Andy Hyde-Smith,Republican,227
+Alcorn,Pinecrest,Commissioner of Agriculture & Commerce,,Cathy L. Toole,Reform,16
+Alcorn,2nd District Central precint,Commissioner of Insurance,,Mike Chaney,Republican,796
+Alcorn,Bethel,Commissioner of Insurance,,Mike Chaney,Republican,49
+Alcorn,Biggersville,Commissioner of Insurance,,Mike Chaney,Republican,468
+Alcorn,College Hill,Commissioner of Insurance,,Mike Chaney,Republican,342
+Alcorn,East Corinth,Commissioner of Insurance,,Mike Chaney,Republican,717
+Alcorn,Five Points 1st District,Commissioner of Insurance,,Mike Chaney,Republican,935
+Alcorn,Glen,Commissioner of Insurance,,Mike Chaney,Republican,683
+Alcorn,Jacinto,Commissioner of Insurance,,Mike Chaney,Republican,215
+Alcorn,Kossuth,Commissioner of Insurance,,Mike Chaney,Republican,1051
+Alcorn,North Corinth,Commissioner of Insurance,,Mike Chaney,Republican,553
+Alcorn,Pinecrest,Commissioner of Insurance,,Mike Chaney,Republican,323
+Alcorn,2nd District Central precint,State Senate 04-District 04,4,Rita Potts Parks,Republican,645
+Alcorn,2nd District Central precint,State Senate 04-District 04,4,Eric Powell,Democrat,306
+Alcorn,Bethel,State Senate 04-District 04,4,Rita Potts Parks,Republican,25
+Alcorn,Bethel,State Senate 04-District 04,4,Eric Powell,Democrat,36
+Alcorn,Biggersville,State Senate 04-District 04,4,Rita Potts Parks,Republican,303
+Alcorn,Biggersville,State Senate 04-District 04,4,Eric Powell,Democrat,253
+Alcorn,College Hill,State Senate 04-District 04,4,Rita Potts Parks,Republican,200
+Alcorn,College Hill,State Senate 04-District 04,4,Eric Powell,Democrat,203
+Alcorn,East Corinth,State Senate 04-District 04,4,Rita Potts Parks,Republican,460
+Alcorn,East Corinth,State Senate 04-District 04,4,Eric Powell,Democrat,397
+Alcorn,Five Points 1st District,State Senate 04-District 04,4,Rita Potts Parks,Republican,726
+Alcorn,Five Points 1st District,State Senate 04-District 04,4,Eric Powell,Democrat,359
+Alcorn,Glen,State Senate 04-District 04,4,Rita Potts Parks,Republican,482
+Alcorn,Glen,State Senate 04-District 04,4,Eric Powell,Democrat,300
+Alcorn,Jacinto,State Senate 04-District 04,4,Rita Potts Parks,Republican,160
+Alcorn,Jacinto,State Senate 04-District 04,4,Eric Powell,Democrat,101
+Alcorn,Kossuth,State Senate 04-District 04,4,Rita Potts Parks,Republican,847
+Alcorn,Kossuth,State Senate 04-District 04,4,Eric Powell,Democrat,345
+Alcorn,North Corinth,State Senate 04-District 04,4,Rita Potts Parks,Republican,391
+Alcorn,North Corinth,State Senate 04-District 04,4,Eric Powell,Democrat,240
+Alcorn,Pinecrest,State Senate 04-District 04,4,Rita Potts Parks,Republican,178
+Alcorn,Pinecrest,State Senate 04-District 04,4,Eric Powell,Democrat,185
+Alcorn,Rienzi,Treasurer,,Lynn Fitch,Republican,534
+Alcorn,Rienzi,Treasurer,,Viola V. McFarland,Democrat,56
+Alcorn,Shady Groove,Treasurer,,Lynn Fitch,Republican,501
+Alcorn,Shady Groove,Treasurer,,Viola V. McFarland,Democrat,48
+Alcorn,South Corinth,Treasurer,,Lynn Fitch,Republican,393
+Alcorn,South Corinth,Treasurer,,Viola V. McFarland,Democrat,122
+Alcorn,Union Center,Treasurer,,Lynn Fitch,Republican,582
+Alcorn,Union Center,Treasurer,,Viola V. McFarland,Democrat,64
+Alcorn,Wenasoga,Treasurer,,Lynn Fitch,Republican,440
+Alcorn,Wenasoga,Treasurer,,Viola V. McFarland,Democrat,59
+Alcorn,West Corinth,Treasurer,,Lynn Fitch,Republican,300
+Alcorn,West Corinth,Treasurer,,Viola V. McFarland,Democrat,46
+Alcorn,ALCORN MS,Treasurer,,Lynn Fitch,Republican,8601
+Alcorn,ALCORN MS,Treasurer,,Viola V. McFarland,Democrat,1038
+Alcorn,Rienzi,Commissioner of Agriculture & Commerce,,Addie Lee Green,Democrat,184
+Alcorn,Rienzi,Commissioner of Agriculture & Commerce,,Cindy Hyde-Smith,Republican,415
+Alcorn,Rienzi,Commissioner of Agriculture & Commerce,,Cathy L. Toole,Reform,16
+Alcorn,Shady Groove,Commissioner of Agriculture & Commerce,,Addie Lee Green,Democrat,142
+Alcorn,Shady Groove,Commissioner of Agriculture & Commerce,,Cindy Hyde-Smith,Republican,404
+Alcorn,Shady Groove,Commissioner of Agriculture & Commerce,,Cathy L. Toole,Reform,20
+Alcorn,South Corinth,Commissioner of Agriculture & Commerce,,Addie Lee Green,Democrat,311
+Alcorn,South Corinth,Commissioner of Agriculture & Commerce,,Cindy Hyde-Smith,Republican,267
+Alcorn,South Corinth,Commissioner of Agriculture & Commerce,,Cathy L. Toole,Reform,23
+Alcorn,Union Center,Commissioner of Agriculture & Commerce,,Addie Lee Green,Democrat,231
+Alcorn,Union Center,Commissioner of Agriculture & Commerce,,Cindy Hyde-Smith,Republican,425
+Alcorn,Union Center,Commissioner of Agriculture & Commerce,,Cathy L. Toole,Reform,16
+Alcorn,Wenasoga,Commissioner of Agriculture & Commerce,,Addie Lee Green,Democrat,171
+Alcorn,Wenasoga,Commissioner of Agriculture & Commerce,,Cindy Hyde-Smith,Republican,314
+Alcorn,Wenasoga,Commissioner of Agriculture & Commerce,,Cathy L. Toole,Reform,20
+Alcorn,West Corinth,Commissioner of Agriculture & Commerce,,Addie Lee Green,Democrat,105
+Alcorn,West Corinth,Commissioner of Agriculture & Commerce,,Cindy Hyde-Smith,Republican,232
+Alcorn,West Corinth,Commissioner of Agriculture & Commerce,,Cathy L. Toole,Reform,10
+Alcorn,ALCORN MS,Commissioner of Agriculture & Commerce,,Addie Lee Green,Democrat,2906
+Alcorn,ALCORN MS,Commissioner of Agriculture & Commerce,,Cindy Hyde-Smith,Republican,6609
+Alcorn,ALCORN MS,Commissioner of Agriculture & Commerce,,Cathy L. Toole,Reform,324
+Alcorn,Rienzi,Commissioner of Insurance,,Mike Chaney,Republican,562
+Alcorn,Shady Groove,Commissioner of Insurance,,Mike Chaney,Republican,517
+Alcorn,South Corinth,Commissioner of Insurance,,Mike Chaney,Republican,445
+Alcorn,Union Center,Commissioner of Insurance,,Mike Chaney,Republican,617
+Alcorn,Wenasoga,Commissioner of Insurance,,Mike Chaney,Republican,458
+Alcorn,West Corinth,Commissioner of Insurance,,Mike Chaney,Republican,330
+Alcorn,ALCORN MS,Commissioner of Insurance,,Mike Chaney,Republican,9061
+Alcorn,Rienzi,State Senate 04-District 04,4,Rita Potts Parks,Republican,385
+Alcorn,Rienzi,State Senate 04-District 04,4,Eric Powell,Democrat,264
+Alcorn,Shady Groove,State Senate 04-District 04,4,Rita Potts Parks,Republican,372
+Alcorn,Shady Groove,State Senate 04-District 04,4,Eric Powell,Democrat,229
+Alcorn,South Corinth,State Senate 04-District 04,4,Rita Potts Parks,Republican,262
+Alcorn,South Corinth,State Senate 04-District 04,4,Eric Powell,Democrat,421
+Alcorn,Union Center,State Senate 04-District 04,4,Rita Potts Parks,Republican,471
+Alcorn,Union Center,State Senate 04-District 04,4,Eric Powell,Democrat,235
+Alcorn,Wenasoga,State Senate 04-District 04,4,Rita Potts Parks,Republican,360
+Alcorn,Wenasoga,State Senate 04-District 04,4,Eric Powell,Democrat,207
+Alcorn,West Corinth,State Senate 04-District 04,4,Rita Potts Parks,Republican,223
+Alcorn,West Corinth,State Senate 04-District 04,4,Eric Powell,Democrat,150
+Alcorn,ALCORN MS,State Senate 04-District 04,4,Rita Potts Parks,Republican,6490
+Alcorn,ALCORN MS,State Senate 04-District 04,4,Eric Powell,Democrat,4231
+Alcorn,2nd District Central precint,State House,1,Lester E. 'Bubba' Carpenter,Republican,392
+Alcorn,2nd District Central precint,State House,1,Lisa Benderman Wigginton,Democrat,166
+Alcorn,Five Points 1st District,State House,1,Lester E. 'Bubba' Carpenter,Republican,756
+Alcorn,Five Points 1st District,State House,1,Lisa Benderman Wigginton,Democrat,318
+Alcorn,Glen,State House,1,Lester E. 'Bubba' Carpenter,Republican,463
+Alcorn,Glen,State House,1,Lisa Benderman Wigginton,Democrat,208
+Alcorn,Jacinto,State House,1,Lester E. 'Bubba' Carpenter,Republican,9
+Alcorn,Jacinto,State House,1,Lisa Benderman Wigginton,Democrat,5
+Alcorn,North Corinth,State House,1,Lester E. 'Bubba' Carpenter,Republican,384
+Alcorn,North Corinth,State House,1,Lisa Benderman Wigginton,Democrat,153
+Alcorn,Pinecrest,State House,1,Lester E. 'Bubba' Carpenter,Republican,201
+Alcorn,Pinecrest,State House,1,Lisa Benderman Wigginton,Democrat,76
+Alcorn,2nd District Central precint,State House,2,Nick Bain,Democrat,285
+Alcorn,2nd District Central precint,State House,2,Billy Miller,Republican,104
+Alcorn,Biggersville,State House,2,Nick Bain,Democrat,432
+Alcorn,Biggersville,State House,2,Billy Miller,Republican,122
+Alcorn,College Hill,State House,2,Nick Bain,Democrat,300
+Alcorn,College Hill,State House,2,Billy Miller,Republican,95
+Alcorn,East Corinth,State House,2,Nick Bain,Democrat,654
+Alcorn,East Corinth,State House,2,Billy Miller,Republican,192
+Alcorn,Glen,State House,2,Nick Bain,Democrat,12
+Alcorn,Glen,State House,2,Billy Miller,Republican,3
+Alcorn,Kossuth,State House,2,Nick Bain,Democrat,852
+Alcorn,Kossuth,State House,2,Billy Miller,Republican,332
+Alcorn,North Corinth,State House,2,Nick Bain,Democrat,384
+Alcorn,North Corinth,State House,2,Billy Miller,Republican,153
+Alcorn,Pinecrest,State House,2,Nick Bain,Democrat,201
+Alcorn,Pinecrest,State House,2,Billy Miller,Republican,76
+Alcorn,Glen,State House,3,William Tracy Arnold,Republican,40
+Alcorn,Glen,State House,3,Lauren Childers,Democrat,46
+Alcorn,Jacinto,State House,3,William Tracy Arnold,Republican,153
+Alcorn,Jacinto,State House,3,Lauren Childers,Democrat,96
+Alcorn,Bethel,State House,4,Joseph F. 'Jody' Steverson,Democrat,38
+Alcorn,ALCORN MS,State House,1,Lester E. 'Bubba' Carpenter,Republican,2205
+Alcorn,ALCORN MS,State House,1,Lisa Benderman Wigginton,Democrat,926
+Alcorn,Shady Groove,State House,2,Nick Bain,Democrat,438
+Alcorn,Shady Groove,State House,2,Billy Miller,Republican,160
+Alcorn,South Corinth,State House,2,Nick Bain,Democrat,529
+Alcorn,South Corinth,State House,2,Billy Miller,Republican,138
+Alcorn,Union Center,State House,2,Nick Bain,Democrat,414
+Alcorn,Union Center,State House,2,Billy Miller,Republican,106
+Alcorn,Wenasoga,State House,2,Nick Bain,Democrat,433
+Alcorn,Wenasoga,State House,2,Billy Miller,Republican,132
+Alcorn,West Corinth,State House,2,Nick Bain,Democrat,268
+Alcorn,West Corinth,State House,2,Billy Miller,Republican,103
+Alcorn,ALCORN MS,State House,2,Nick Bain,Democrat,4751
+Alcorn,ALCORN MS,State House,2,Billy Miller,Republican,1520
+Alcorn,Rienzi,State House,3,William Tracy Arnold,Republican,391
+Alcorn,Rienzi,State House,3,Lauren Childers,Democrat,249
+Alcorn,ALCORN MS,State House,3,William Tracy Arnold,Republican,584
+Alcorn,ALCORN MS,State House,3,Lauren Childers,Democrat,391
+Alcorn,Union Center,State House,4,Joseph F. 'Jody' Steverson,Democrat,150
+Alcorn,ALCORN MS,State House,4,Joseph F. 'Jody' Steverson,Democrat,188

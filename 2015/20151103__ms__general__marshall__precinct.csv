@@ -1,1 +1,716 @@
-county,precinct,office,district,candidate,party,totalMarshall,1 Holly Springs,Governor,,Robert Gray,Democrat,159Marshall,1 Holly Springs,Governor,,Phil Bryant,Republican,58Marshall,1 Holly Springs,Governor,,Shawn O'Hara,Reform,4Marshall,1 Holly Springs,Lieutenant Governor,,Tim Johnson,Democrat,179Marshall,1 Holly Springs,Lieutenant Governor,,Tate Reeves,Republican,24Marshall,1 Holly Springs,Lieutenant Governor,,Ron Williams,Libertarian,6Marshall,1 Holly Springs,Lieutenant Governor,,Rosa B. Williams,Reform,11Marshall,1 Holly Springs,Secretary of State,,Charles E. Graham,Democrat,189Marshall,1 Holly Springs,Secretary of State,,Delbert Hosemann,Republican,21Marshall,1 Holly Springs,Secretary of State,,Randy Walker,Reform,10Marshall,1 Holly Springs,Attorney General,,Jim Hood,Democrat,208Marshall,1 Holly Springs,Attorney General,,Mike Hurst,Republican,15Marshall,1 Holly Springs,State Auditor,,Jocelyn Pepper Pritchett,Democrat,185Marshall,1 Holly Springs,State Auditor,,Stacey E. Pickering,Republican,30Marshall,1 Holly Springs,State Auditor,,Lajena Walley,Reform,6Marshall,1 Holly Springs,State Treasurer,,Lynn Fitch,Republican,84Marshall,1 Holly Springs,State Treasurer,,Viola McFarland,Reform,93Marshall,1 Holly Springs,Commissioner of Agriculture & Commerce,,Addie Lee Green,Democrat,186Marshall,1 Holly Springs,Commissioner of Agriculture & Commerce,,Cindy Hyde-Smith,Republican,26Marshall,1 Holly Springs,Commissioner of Agriculture & Commerce,,Cathy L Toole,Reform,6Marshall,1 Holly Springs,Commissioner of Insurance,,Mike Chaney,Republican,134Marshall,1 Holly Springs,State Senate,10,Bill Stone,Democrat,211Marshall,1 Holly Springs,State House,5,John Faulkner,Republican,199Marshall,1 Red Banks - BS9,Governor,,Robert Gray,Democrat,38Marshall,1 Red Banks - BS9,Governor,,Phil Bryant,Republican,22Marshall,1 Red Banks - BS9,Governor,,Shawn O'Hara,Reform,1Marshall,1 Red Banks - BS9,Lieutenant Governor,,Tim Johnson,Democrat,42Marshall,1 Red Banks - BS9,Lieutenant Governor,,Tate Reeves,Republican,17Marshall,1 Red Banks - BS9,Lieutenant Governor,,Ron Williams,Libertarian,2Marshall,1 Red Banks - BS9,Lieutenant Governor,,Rosa B. Williams,Reform,0Marshall,1 Red Banks - BS9,Secretary of State,,Charles E. Graham,Democrat,47Marshall,1 Red Banks - BS9,Secretary of State,,Delbert Hosemann,Republican,14Marshall,1 Red Banks - BS9,Secretary of State,,Randy Walker,Reform,0Marshall,1 Red Banks - BS9,Attorney General,,Jim Hood,Democrat,50Marshall,1 Red Banks - BS9,Attorney General,,Mike Hurst,Republican,11Marshall,1 Red Banks - BS9,State Auditor,,Jocelyn Pepper Pritchett,Democrat,43Marshall,1 Red Banks - BS9,State Auditor,,Stacey E. Pickering,Republican,16Marshall,1 Red Banks - BS9,State Auditor,,Lajena Walley,Reform,1Marshall,1 Red Banks - BS9,State Treasurer,,Lynn Fitch,Republican,29Marshall,1 Red Banks - BS9,State Treasurer,,Viola McFarland,Reform,19Marshall,1 Red Banks - BS9,Commissioner of Agriculture & Commerce,,Addie Lee Green,Democrat,43Marshall,1 Red Banks - BS9,Commissioner of Agriculture & Commerce,,Cindy Hyde-Smith,Republican,15Marshall,1 Red Banks - BS9,Commissioner of Agriculture & Commerce,,Cathy L Toole,Reform,3Marshall,1 Red Banks - BS9,Commissioner of Insurance,,Mike Chaney,Republican,36Marshall,1 Red Banks,State Senate,10,Bill Stone,Democrat,189Marshall,1 Red Banks,State Senate,19,Kevin Blackwell,Republican,34Marshall,1 Red Banks,State House,5,John Faulkner,Democrat,58Marshall,1 Red Banks - BS4,Governor,,Robert Gray,Democrat,17Marshall,1 Red Banks - BS4,Governor,,Phil Bryant,Republican,39Marshall,1 Red Banks - BS4,Governor,,Shawn O'Hara,Reform,0Marshall,1 Red Banks - BS4,Lieutenant Governor,,Tim Johnson,Democrat,22Marshall,1 Red Banks - BS4,Lieutenant Governor,,Tate Reeves,Republican,27Marshall,1 Red Banks - BS4,Lieutenant Governor,,Ron Williams,Libertarian,5Marshall,1 Red Banks - BS4,Lieutenant Governor,,Rosa B. Williams,Reform,1Marshall,1 Red Banks - BS4,Secretary of State,,Charles E. Graham,Democrat,21Marshall,1 Red Banks - BS4,Secretary of State,,Delbert Hosemann,Republican,28Marshall,1 Red Banks - BS4,Secretary of State,,Randy Walker,Reform,6Marshall,1 Red Banks - BS4,Attorney General,,Jim Hood,Democrat,27Marshall,1 Red Banks - BS4,Attorney General,,Mike Hurst,Republican,27Marshall,1 Red Banks - BS4,State Auditor,,Jocelyn Pepper Pritchett,Democrat,22Marshall,1 Red Banks - BS4,State Auditor,,Stacey E. Pickering,Republican,31Marshall,1 Red Banks - BS4,State Auditor,,Lajena Walley,Reform,2Marshall,1 Red Banks - BS4,State Treasurer,,Lynn Fitch,Republican,37Marshall,1 Red Banks - BS4,State Treasurer,,Viola McFarland,Reform,13Marshall,1 Red Banks - BS4,Commissioner of Agriculture & Commerce,,Addie Lee Green,Democrat,21Marshall,1 Red Banks - BS4,Commissioner of Agriculture & Commerce,,Cindy Hyde-Smith,Republican,30Marshall,1 Red Banks - BS4,Commissioner of Agriculture & Commerce,,Cathy L Toole,Reform,0Marshall,1 Red Banks - BS4,Commissioner of Insurance,,Mike Chaney,Republican,44Marshall,1 Red Banks - BS22,Governor,,Robert Gray,Democrat,47Marshall,1 Red Banks - BS22,Governor,,Phil Bryant,Republican,116Marshall,1 Red Banks - BS22,Governor,,Shawn O'Hara,Reform,2Marshall,1 Red Banks - BS22,Lieutenant Governor,,Tim Johnson,Democrat,58Marshall,1 Red Banks - BS22,Lieutenant Governor,,Tate Reeves,Republican,100Marshall,1 Red Banks - BS22,Lieutenant Governor,,Ron Williams,Libertarian,2Marshall,1 Red Banks - BS22,Lieutenant Governor,,Rosa B. Williams,Reform,2Marshall,1 Red Banks - BS22,Secretary of State,,Charles E. Graham,Democrat,59Marshall,1 Red Banks - BS22,Secretary of State,,Delbert Hosemann,Republican,91Marshall,1 Red Banks - BS22,Secretary of State,,Randy Walker,Reform,11Marshall,1 Red Banks - BS22,Attorney General,,Jim Hood,Democrat,87Marshall,1 Red Banks - BS22,Attorney General,,Mike Hurst,Republican,77Marshall,1 Red Banks - BS22,State Auditor,,Jocelyn Pepper Pritchett,Democrat,55Marshall,1 Red Banks - BS22,State Auditor,,Stacey E. Pickering,Republican,105Marshall,1 Red Banks - BS22,State Auditor,,Lajena Walley,Reform,3Marshall,1 Red Banks - BS22,State Treasurer,,Lynn Fitch,Republican,118Marshall,1 Red Banks - BS22,State Treasurer,,Viola McFarland,Reform,25Marshall,1 Red Banks - BS22,Commissioner of Agriculture & Commerce,,Addie Lee Green,Democrat,58Marshall,1 Red Banks - BS22,Commissioner of Agriculture & Commerce,,Cindy Hyde-Smith,Republican,100Marshall,1 Red Banks - BS22,Commissioner of Agriculture & Commerce,,Cathy L Toole,Reform,1Marshall,1 Red Banks - BS22,Commissioner of Insurance,,Mike Chaney,Republican,129Marshall,1 Red Banks - BS22,State House,52,William Kincade,Republican,161Marshall,1 W Holly Springs,Governor,,Robert Gray,Democrat,366Marshall,1 W Holly Springs,Governor,,Phil Bryant,Republican,103Marshall,1 W Holly Springs,Governor,,Shawn O'Hara,Reform,3Marshall,1 W Holly Springs,Lieutenant Governor,,Tim Johnson,Democrat,384Marshall,1 W Holly Springs,Lieutenant Governor,,Tate Reeves,Republican,56Marshall,1 W Holly Springs,Lieutenant Governor,,Ron Williams,Libertarian,7Marshall,1 W Holly Springs,Lieutenant Governor,,Rosa B. Williams,Reform,8Marshall,1 W Holly Springs,Secretary of State,,Charles E. Graham,Democrat,380Marshall,1 W Holly Springs,Secretary of State,,Delbert Hosemann,Republican,61Marshall,1 W Holly Springs,Secretary of State,,Randy Walker,Reform,14Marshall,1 W Holly Springs,Attorney General,,Jim Hood,Democrat,418Marshall,1 W Holly Springs,Attorney General,,Mike Hurst,Republican,45Marshall,1 W Holly Springs,State Auditor,,Jocelyn Pepper Pritchett,Democrat,371Marshall,1 W Holly Springs,State Auditor,,Stacey E. Pickering,Republican,79Marshall,1 W Holly Springs,State Auditor,,Lajena Walley,Reform,6Marshall,1 W Holly Springs,State Treasurer,,Lynn Fitch,Republican,169Marshall,1 W Holly Springs,State Treasurer,,Viola McFarland,Reform,184Marshall,1 W Holly Springs,Commissioner of Agriculture & Commerce,,Addie Lee Green,Democrat,388Marshall,1 W Holly Springs,Commissioner of Agriculture & Commerce,,Cindy Hyde-Smith,Republican,60Marshall,1 W Holly Springs,Commissioner of Agriculture & Commerce,,Cathy L Toole,Reform,11Marshall,1 W Holly Springs,Commissioner of Insurance,,Mike Chaney,Republican,245Marshall,1 W Holly Springs,State Senate,10,Bill Stone,Democrat,443Marshall,1 W Holly Springs,State House,5,John Faulkner,Democrat,425Marshall,2 Early Grove,Governor,,Robert Gray,Democrat,64Marshall,2 Early Grove,Governor,,Phil Bryant,Republican,58Marshall,2 Early Grove,Governor,,Shawn O'Hara,Reform,2Marshall,2 Early Grove,Lieutenant Governor,,Tim Johnson,Democrat,69Marshall,2 Early Grove,Lieutenant Governor,,Tate Reeves,Republican,45Marshall,2 Early Grove,Lieutenant Governor,,Ron Williams,Libertarian,1Marshall,2 Early Grove,Lieutenant Governor,,Rosa B. Williams,Reform,1Marshall,2 Early Grove,Secretary of State,,Charles E. Graham,Democrat,73Marshall,2 Early Grove,Secretary of State,,Delbert Hosemann,Republican,36Marshall,2 Early Grove,Secretary of State,,Randy Walker,Reform,11Marshall,2 Early Grove,Attorney General,,Jim Hood,Democrat,86Marshall,2 Early Grove,Attorney General,,Mike Hurst,Republican,34Marshall,2 Early Grove,State Auditor,,Jocelyn Pepper Pritchett,Democrat,60Marshall,2 Early Grove,State Auditor,,Stacey E. Pickering,Republican,55Marshall,2 Early Grove,State Auditor,,Lajena Walley,Reform,1Marshall,2 Early Grove,State Treasurer,,Lynn Fitch,Republican,74Marshall,2 Early Grove,State Treasurer,,Viola McFarland,Reform,21Marshall,2 Early Grove,Commissioner of Agriculture & Commerce,,Addie Lee Green,Democrat,71Marshall,2 Early Grove,Commissioner of Agriculture & Commerce,,Cindy Hyde-Smith,Republican,46Marshall,2 Early Grove,Commissioner of Agriculture & Commerce,,Cathy L Toole,Reform,1Marshall,2 Early Grove,Commissioner of Insurance,,Mike Chaney,Republican,80Marshall,2 Early Grove,State Senate,10,Bill Stone,Democrat,104Marshall,2 Early Grove,State House,13,Justin Cluck,Democrat,80Marshall,2 Early Grove,State House,13,Steve Massengill,Republican,40Marshall,2 Hudsonville,Governor,,Robert Gray,Democrat,104Marshall,2 Hudsonville,Governor,,Phil Bryant,Republican,77Marshall,2 Hudsonville,Governor,,Shawn O'Hara,Reform,2Marshall,2 Hudsonville,Lieutenant Governor,,Tim Johnson,Democrat,107Marshall,2 Hudsonville,Lieutenant Governor,,Tate Reeves,Republican,59Marshall,2 Hudsonville,Lieutenant Governor,,Ron Williams,Libertarian,3Marshall,2 Hudsonville,Lieutenant Governor,,Rosa B. Williams,Reform,7Marshall,2 Hudsonville,Secretary of State,,Charles E. Graham,Democrat,117Marshall,2 Hudsonville,Secretary of State,,Delbert Hosemann,Republican,48Marshall,2 Hudsonville,Secretary of State,,Randy Walker,Reform,14Marshall,2 Hudsonville,Attorney General,,Jim Hood,Democrat,138Marshall,2 Hudsonville,Attorney General,,Mike Hurst,Republican,39Marshall,2 Hudsonville,State Auditor,,Jocelyn Pepper Pritchett,Democrat,106Marshall,2 Hudsonville,State Auditor,,Stacey E. Pickering,Republican,60Marshall,2 Hudsonville,State Auditor,,Lajena Walley,Reform,6Marshall,2 Hudsonville,State Treasurer,,Lynn Fitch,Republican,102Marshall,2 Hudsonville,State Treasurer,,Viola McFarland,Reform,44Marshall,2 Hudsonville,Commissioner of Agriculture & Commerce,,Addie Lee Green,Democrat,119Marshall,2 Hudsonville,Commissioner of Agriculture & Commerce,,Cindy Hyde-Smith,Republican,52Marshall,2 Hudsonville,Commissioner of Agriculture & Commerce,,Cathy L Toole,Reform,7Marshall,2 Hudsonville,Commissioner of Insurance,,Mike Chaney,Republican,118Marshall,2 Hudsonville,State Senate,10,Bill Stone,Democrat,154Marshall,2 Hudsonville,State House,5,John Faulkner,Democrat,151Marshall,2 Mt Pleasant,Governor,,Robert Gray,Democrat,116Marshall,2 Mt Pleasant,Governor,,Phil Bryant,Republican,267Marshall,2 Mt Pleasant,Governor,,Shawn O'Hara,Reform,3Marshall,2 Mt Pleasant,Lieutenant Governor,,Tim Johnson,Democrat,139Marshall,2 Mt Pleasant,Lieutenant Governor,,Tate Reeves,Republican,223Marshall,2 Mt Pleasant,Lieutenant Governor,,Ron Williams,Libertarian,12Marshall,2 Mt Pleasant,Lieutenant Governor,,Rosa B. Williams,Reform,3Marshall,2 Mt Pleasant,Secretary of State,,Charles E. Graham,Democrat,140Marshall,2 Mt Pleasant,Secretary of State,,Delbert Hosemann,Republican,220Marshall,2 Mt Pleasant,Secretary of State,,Randy Walker,Reform,16Marshall,2 Mt Pleasant,Attorney General,,Jim Hood,Democrat,196Marshall,2 Mt Pleasant,Attorney General,,Mike Hurst,Republican,181Marshall,2 Mt Pleasant,State Auditor,,Jocelyn Pepper Pritchett,Democrat,125Marshall,2 Mt Pleasant,State Auditor,,Stacey E. Pickering,Republican,246Marshall,2 Mt Pleasant,State Auditor,,Lajena Walley,Reform,4Marshall,2 Mt Pleasant,State Treasurer,,Lynn Fitch,Republican,293Marshall,2 Mt Pleasant,State Treasurer,,Viola McFarland,Reform,53Marshall,2 Mt Pleasant,Commissioner of Agriculture & Commerce,,Addie Lee Green,Democrat,140Marshall,2 Mt Pleasant,Commissioner of Agriculture & Commerce,,Cindy Hyde-Smith,Republican,229Marshall,2 Mt Pleasant,Commissioner of Agriculture & Commerce,,Cathy L Toole,Reform,8Marshall,2 Mt Pleasant,Commissioner of Insurance,,Mike Chaney,Republican,300Marshall,2 Mt Pleasant,State Senate,10,Bill Stone,Democrat,289Marshall,2 Mt Pleasant,State House,52,William Kincade,Republican,267Marshall,2 North Cayce,Governor,,Robert Gray,Democrat,69Marshall,2 North Cayce,Governor,,Phil Bryant,Republican,83Marshall,2 North Cayce,Governor,,Shawn O'Hara,Reform,4Marshall,2 North Cayce,Lieutenant Governor,,Tim Johnson,Democrat,76Marshall,2 North Cayce,Lieutenant Governor,,Tate Reeves,Republican,63Marshall,2 North Cayce,Lieutenant Governor,,Ron Williams,Libertarian,5Marshall,2 North Cayce,Lieutenant Governor,,Rosa B. Williams,Reform,2Marshall,2 North Cayce,Secretary of State,,Charles E. Graham,Democrat,74Marshall,2 North Cayce,Secretary of State,,Delbert Hosemann,Republican,65Marshall,2 North Cayce,Secretary of State,,Randy Walker,Reform,7Marshall,2 North Cayce,Attorney General,,Jim Hood,Democrat,84Marshall,2 North Cayce,Attorney General,,Mike Hurst,Republican,63Marshall,2 North Cayce,State Auditor,,Jocelyn Pepper Pritchett,Democrat,74Marshall,2 North Cayce,State Auditor,,Stacey E. Pickering,Republican,73Marshall,2 North Cayce,State Auditor,,Lajena Walley,Reform,2Marshall,2 North Cayce,State Treasurer,,Lynn Fitch,Republican,79Marshall,2 North Cayce,State Treasurer,,Viola McFarland,Reform,42Marshall,2 North Cayce,Commissioner of Agriculture & Commerce,,Addie Lee Green,Democrat,73Marshall,2 North Cayce,Commissioner of Agriculture & Commerce,,Cindy Hyde-Smith,Republican,65Marshall,2 North Cayce,Commissioner of Agriculture & Commerce,,Cathy L Toole,Reform,6Marshall,2 North Cayce,Commissioner of Insurance,,Mike Chaney,Republican,97Marshall,2 North Cayce,State Senate,19,Kevin Blackwell,Republican,87Marshall,2 North Cayce,State House,52,William Kincade,Republican,88Marshall,2 North Holly Springs - BS18,Governor,,Robert Gray,Democrat,133Marshall,2 North Holly Springs - BS18,Governor,,Phil Bryant,Republican,85Marshall,2 North Holly Springs - BS18,Governor,,Shawn O'Hara,Reform,2Marshall,2 North Holly Springs - BS18,Lieutenant Governor,,Tim Johnson,Democrat,145Marshall,2 North Holly Springs - BS18,Lieutenant Governor,,Tate Reeves,Republican,61Marshall,2 North Holly Springs - BS18,Lieutenant Governor,,Ron Williams,Libertarian,3Marshall,2 North Holly Springs - BS18,Lieutenant Governor,,Rosa B. Williams,Reform,9Marshall,2 North Holly Springs - BS18,Secretary of State,,Charles E. Graham,Democrat,141Marshall,2 North Holly Springs - BS18,Secretary of State,,Delbert Hosemann,Republican,57Marshall,2 North Holly Springs - BS18,Secretary of State,,Randy Walker,Reform,19Marshall,2 North Holly Springs - BS18,Attorney General,,Jim Hood,Democrat,168Marshall,2 North Holly Springs - BS18,Attorney General,,Mike Hurst,Republican,47Marshall,2 North Holly Springs - BS18,State Auditor,,Jocelyn Pepper Pritchett,Democrat,136Marshall,2 North Holly Springs - BS18,State Auditor,,Stacey E. Pickering,Republican,71Marshall,2 North Holly Springs - BS18,State Auditor,,Lajena Walley,Reform,4Marshall,2 North Holly Springs - BS18,State Treasurer,,Lynn Fitch,Republican,120Marshall,2 North Holly Springs - BS18,State Treasurer,,Viola McFarland,Reform,65Marshall,2 North Holly Springs - BS18,Commissioner of Agriculture & Commerce,,Addie Lee Green,Democrat,146Marshall,2 North Holly Springs - BS18,Commissioner of Agriculture & Commerce,,Cindy Hyde-Smith,Republican,57Marshall,2 North Holly Springs - BS18,Commissioner of Agriculture & Commerce,,Cathy L Toole,Reform,11Marshall,2 North Holly Springs - BS18,Commissioner of Insurance,,Mike Chaney,Republican,150Marshall,2 North Holly Springs,State Senate,10,Bill Stone,Democrat,239Marshall,2 North Holly Springs - BS18,State House,5,John Faulkner,Democrat,202Marshall,2 North Holly Springs - BS21,Governor,,Robert Gray,Democrat,16Marshall,2 North Holly Springs - BS21,Governor,,Phil Bryant,Republican,9Marshall,2 North Holly Springs - BS21,Governor,,Shawn O'Hara,Reform,0Marshall,2 North Holly Springs - BS21,Lieutenant Governor,,Tim Johnson,Democrat,15Marshall,2 North Holly Springs - BS21,Lieutenant Governor,,Tate Reeves,Republican,8Marshall,2 North Holly Springs - BS21,Lieutenant Governor,,Ron Williams,Libertarian,0Marshall,2 North Holly Springs - BS21,Lieutenant Governor,,Rosa B. Williams,Reform,Marshall,2 North Holly Springs - BS21,Secretary of State,,Charles E. Graham,Democrat,17Marshall,2 North Holly Springs - BS21,Secretary of State,,Delbert Hosemann,Republican,6Marshall,2 North Holly Springs - BS21,Secretary of State,,Randy Walker,Reform,1Marshall,2 North Holly Springs - BS21,Attorney General,,Jim Hood,Democrat,20Marshall,2 North Holly Springs - BS21,Attorney General,,Mike Hurst,Republican,6Marshall,2 North Holly Springs - BS21,State Auditor,,Jocelyn Pepper Pritchett,Democrat,16Marshall,2 North Holly Springs - BS21,State Auditor,,Stacey E. Pickering,Republican,7Marshall,2 North Holly Springs - BS21,State Auditor,,Lajena Walley,Reform,0Marshall,2 North Holly Springs - BS21,State Treasurer,,Lynn Fitch,Republican,11Marshall,2 North Holly Springs - BS21,State Treasurer,,Viola McFarland,Reform,11Marshall,2 North Holly Springs - BS21,Commissioner of Agriculture & Commerce,,Addie Lee Green,Democrat,17Marshall,2 North Holly Springs - BS21,Commissioner of Agriculture & Commerce,,Cindy Hyde-Smith,Republican,6Marshall,2 North Holly Springs - BS21,Commissioner of Agriculture & Commerce,,Cathy L Toole,Reform,0Marshall,2 North Holly Springs - BS21,Commissioner of Insurance,,Mike Chaney,Republican,15Marshall,2 North Holly Springs - BS21,State House,52,William Kincade,Republican,Marshall,2 North Holly Springs - BS3,Governor,,Robert Gray,Democrat,0Marshall,2 North Holly Springs - BS3,Governor,,Phil Bryant,Republican,5Marshall,2 North Holly Springs - BS3,Governor,,Shawn O'Hara,Reform,0Marshall,2 North Holly Springs - BS3,Lieutenant Governor,,Tim Johnson,Democrat,1Marshall,2 North Holly Springs - BS3,Lieutenant Governor,,Tate Reeves,Republican,4Marshall,2 North Holly Springs - BS3,Lieutenant Governor,,Ron Williams,Libertarian,0Marshall,2 North Holly Springs - BS3,Lieutenant Governor,,Rosa B. Williams,Reform,0Marshall,2 North Holly Springs - BS3,Secretary of State,,Charles E. Graham,Democrat,1Marshall,2 North Holly Springs - BS3,Secretary of State,,Delbert Hosemann,Republican,4Marshall,2 North Holly Springs - BS3,Secretary of State,,Randy Walker,Reform,0Marshall,2 North Holly Springs - BS3,Attorney General,,Jim Hood,Democrat,2Marshall,2 North Holly Springs - BS3,Attorney General,,Mike Hurst,Republican,3Marshall,2 North Holly Springs - BS3,State Auditor,,Jocelyn Pepper Pritchett,Democrat,0Marshall,2 North Holly Springs - BS3,State Auditor,,Stacey E. Pickering,Republican,5Marshall,2 North Holly Springs - BS3,State Auditor,,Lajena Walley,Reform,0Marshall,2 North Holly Springs - BS3,State Treasurer,,Lynn Fitch,Republican,5Marshall,2 North Holly Springs - BS3,State Treasurer,,Viola McFarland,Reform,0Marshall,2 North Holly Springs - BS3,Commissioner of Agriculture & Commerce,,Addie Lee Green,Democrat,1Marshall,2 North Holly Springs - BS3,Commissioner of Agriculture & Commerce,,Cindy Hyde-Smith,Republican,4Marshall,2 North Holly Springs - BS3,Commissioner of Agriculture & Commerce,,Cathy L Toole,Reform,0Marshall,2 North Holly Springs - BS3,Commissioner of Insurance,,Mike Chaney,Republican,5Marshall,2 Slayden,Governor,,Robert Gray,Democrat,107Marshall,2 Slayden,Governor,,Phil Bryant,Republican,145Marshall,2 Slayden,Governor,,Shawn O'Hara,Reform,3Marshall,2 Slayden,Lieutenant Governor,,Tim Johnson,Democrat,109Marshall,2 Slayden,Lieutenant Governor,,Tate Reeves,Republican,124Marshall,2 Slayden,Lieutenant Governor,,Ron Williams,Libertarian,7Marshall,2 Slayden,Lieutenant Governor,,Rosa B. Williams,Reform,1Marshall,2 Slayden,Secretary of State,,Charles E. Graham,Democrat,111Marshall,2 Slayden,Secretary of State,,Delbert Hosemann,Republican,117Marshall,2 Slayden,Secretary of State,,Randy Walker,Reform,14Marshall,2 Slayden,Attorney General,,Jim Hood,Democrat,153Marshall,2 Slayden,Attorney General,,Mike Hurst,Republican,96Marshall,2 Slayden,State Auditor,,Jocelyn Pepper Pritchett,Democrat,102Marshall,2 Slayden,State Auditor,,Stacey E. Pickering,Republican,133Marshall,2 Slayden,State Auditor,,Lajena Walley,Reform,4Marshall,2 Slayden,State Treasurer,,Lynn Fitch,Republican,158Marshall,2 Slayden,State Treasurer,,Viola McFarland,Reform,45Marshall,2 Slayden,Commissioner of Agriculture & Commerce,,Addie Lee Green,Democrat,108Marshall,2 Slayden,Commissioner of Agriculture & Commerce,,Cindy Hyde-Smith,Republican,125Marshall,2 Slayden,Commissioner of Agriculture & Commerce,,Cathy L Toole,Reform,5Marshall,2 Slayden,Commissioner of Insurance,,Mike Chaney,Republican,166Marshall,2 Slayden,State Senate,10,Bill Stone,Democrat,209Marshall,2 Slayden,State House,52,William Kincade,Republican,147Marshall,3 Barton,Governor,,Robert Gray,Democrat,26Marshall,3 Barton,Governor,,Phil Bryant,Republican,229Marshall,3 Barton,Governor,,Shawn O'Hara,Reform,0Marshall,3 Barton,Lieutenant Governor,,Tim Johnson,Democrat,38Marshall,3 Barton,Lieutenant Governor,,Tate Reeves,Republican,197Marshall,3 Barton,Lieutenant Governor,,Ron Williams,Libertarian,10Marshall,3 Barton,Lieutenant Governor,,Rosa B. Williams,Reform,0Marshall,3 Barton,Secretary of State,,Charles E. Graham,Democrat,41Marshall,3 Barton,Secretary of State,,Delbert Hosemann,Republican,198Marshall,3 Barton,Secretary of State,,Randy Walker,Reform,6Marshall,3 Barton,Attorney General,,Jim Hood,Democrat,77Marshall,3 Barton,Attorney General,,Mike Hurst,Republican,172Marshall,3 Barton,State Auditor,,Jocelyn Pepper Pritchett,Democrat,33Marshall,3 Barton,State Auditor,,Stacey E. Pickering,Republican,211Marshall,3 Barton,State Auditor,,Lajena Walley,Reform,2Marshall,3 Barton,State Treasurer,,Lynn Fitch,Republican,221Marshall,3 Barton,State Treasurer,,Viola McFarland,Reform,14Marshall,3 Barton,Commissioner of Agriculture & Commerce,,Addie Lee Green,Democrat,35Marshall,3 Barton,Commissioner of Agriculture & Commerce,,Cindy Hyde-Smith,Republican,196Marshall,3 Barton,Commissioner of Agriculture & Commerce,,Cathy L Toole,Reform,8Marshall,3 Barton,Commissioner of Insurance,,Mike Chaney,Republican,217Marshall,3 Barton,State Senate,19,Kevin Blackwell,Republican,219Marshall,3 Barton,State House,52,William Kincade,Republican,217Marshall,3 Byhalia,Governor,,Robert Gray,Democrat,161Marshall,3 Byhalia,Governor,,Phil Bryant,Republican,370Marshall,3 Byhalia,Governor,,Shawn O'Hara,Reform,7Marshall,3 Byhalia,Lieutenant Governor,,Tim Johnson,Democrat,179Marshall,3 Byhalia,Lieutenant Governor,,Tate Reeves,Republican,312Marshall,3 Byhalia,Lieutenant Governor,,Ron Williams,Libertarian,20Marshall,3 Byhalia,Lieutenant Governor,,Rosa B. Williams,Reform,6Marshall,3 Byhalia,Secretary of State,,Charles E. Graham,Democrat,195Marshall,3 Byhalia,Secretary of State,,Delbert Hosemann,Republican,300Marshall,3 Byhalia,Secretary of State,,Randy Walker,Reform,24Marshall,3 Byhalia,Attorney General,,Jim Hood,Democrat,271Marshall,3 Byhalia,Attorney General,,Mike Hurst,Republican,250Marshall,3 Byhalia,State Auditor,,Jocelyn Pepper Pritchett,Democrat,185Marshall,3 Byhalia,State Auditor,,Stacey E. Pickering,Republican,319Marshall,3 Byhalia,State Auditor,,Lajena Walley,Reform,6Marshall,3 Byhalia,State Treasurer,,Lynn Fitch,Republican,367Marshall,3 Byhalia,State Treasurer,,Viola McFarland,Reform,89Marshall,3 Byhalia,Commissioner of Agriculture & Commerce,,Addie Lee Green,Democrat,193Marshall,3 Byhalia,Commissioner of Agriculture & Commerce,,Cindy Hyde-Smith,Republican,316Marshall,3 Byhalia,Commissioner of Agriculture & Commerce,,Cathy L Toole,Reform,11Marshall,3 Byhalia,Commissioner of Insurance,,Mike Chaney,Republican,407Marshall,3 Byhalia,State Senate,19,Kevin Blackwell,Republican,380Marshall,3 Byhalia,State House,52,William Kincade,Republican,397Marshall,3 Cayce - BS8,Governor,,Robert Gray,Democrat,91Marshall,3 Cayce - BS8,Governor,,Phil Bryant,Republican,41Marshall,3 Cayce - BS8,Governor,,Shawn O'Hara,Reform,2Marshall,3 Cayce - BS8,Lieutenant Governor,,Tim Johnson,Democrat,94Marshall,3 Cayce - BS8,Lieutenant Governor,,Tate Reeves,Republican,32Marshall,3 Cayce - BS8,Lieutenant Governor,,Ron Williams,Libertarian,5Marshall,3 Cayce - BS8,Lieutenant Governor,,Rosa B. Williams,Reform,2Marshall,3 Cayce - BS8,Secretary of State,,Charles E. Graham,Democrat,94Marshall,3 Cayce - BS8,Secretary of State,,Delbert Hosemann,Republican,34Marshall,3 Cayce - BS8,Secretary of State,,Randy Walker,Reform,3Marshall,3 Cayce - BS8,Attorney General,,Jim Hood,Democrat,102Marshall,3 Cayce - BS8,Attorney General,,Mike Hurst,Republican,30Marshall,3 Cayce - BS8,State Auditor,,Jocelyn Pepper Pritchett,Democrat,95Marshall,3 Cayce - BS8,State Auditor,,Stacey E. Pickering,Republican,36Marshall,3 Cayce - BS8,State Auditor,,Lajena Walley,Reform,1Marshall,3 Cayce - BS8,State Treasurer,,Lynn Fitch,Republican,50Marshall,3 Cayce - BS8,State Treasurer,,Viola McFarland,Reform,43Marshall,3 Cayce - BS8,Commissioner of Agriculture & Commerce,,Addie Lee Green,Democrat,96Marshall,3 Cayce - BS8,Commissioner of Agriculture & Commerce,,Cindy Hyde-Smith,Republican,34Marshall,3 Cayce - BS8,Commissioner of Agriculture & Commerce,,Cathy L Toole,Reform,4Marshall,3 Cayce - BS8,Commissioner of Insurance,,Mike Chaney,Republican,70Marshall,3 Cayce,State Senate,19,Kevin Blackwell,Republican,103Marshall,3 Cayce - BS8,State House,5,John Faulkner,Democrat,118Marshall,3 Cayce - BS1,Governor,,Robert Gray,Democrat,10Marshall,3 Cayce - BS1,Governor,,Phil Bryant,Republican,36Marshall,3 Cayce - BS1,Governor,,Shawn O'Hara,Reform,0Marshall,3 Cayce - BS1,Lieutenant Governor,,Tim Johnson,Democrat,12Marshall,3 Cayce - BS1,Lieutenant Governor,,Tate Reeves,Republican,32Marshall,3 Cayce - BS1,Lieutenant Governor,,Ron Williams,Libertarian,2Marshall,3 Cayce - BS1,Lieutenant Governor,,Rosa B. Williams,Reform,0Marshall,3 Cayce - BS1,Secretary of State,,Charles E. Graham,Democrat,11Marshall,3 Cayce - BS1,Secretary of State,,Delbert Hosemann,Republican,27Marshall,3 Cayce - BS1,Secretary of State,,Randy Walker,Reform,4Marshall,3 Cayce - BS1,Attorney General,,Jim Hood,Democrat,21Marshall,3 Cayce - BS1,Attorney General,,Mike Hurst,Republican,23Marshall,3 Cayce - BS1,State Auditor,,Jocelyn Pepper Pritchett,Democrat,11Marshall,3 Cayce - BS1,State Auditor,,Stacey E. Pickering,Republican,31Marshall,3 Cayce - BS1,State Auditor,,Lajena Walley,Reform,0Marshall,3 Cayce - BS1,State Treasurer,,Lynn Fitch,Republican,31Marshall,3 Cayce - BS1,State Treasurer,,Viola McFarland,Reform,8Marshall,3 Cayce - BS1,Commissioner of Agriculture & Commerce,,Addie Lee Green,Democrat,13Marshall,3 Cayce - BS1,Commissioner of Agriculture & Commerce,,Cindy Hyde-Smith,Republican,26Marshall,3 Cayce - BS1,Commissioner of Agriculture & Commerce,,Cathy L Toole,Reform,4Marshall,3 Cayce - BS1,Commissioner of Insurance,,Mike Chaney,Republican,38Marshall,3 Cayce - BS1,State House,52,William Kincade,Republican,35Marshall,4 Chulahoma,Governor,,Robert Gray,Democrat,221Marshall,4 Chulahoma,Governor,,Phil Bryant,Republican,40Marshall,4 Chulahoma,Governor,,Shawn O'Hara,Reform,3Marshall,4 Chulahoma,Lieutenant Governor,,Tim Johnson,Democrat,227Marshall,4 Chulahoma,Lieutenant Governor,,Tate Reeves,Republican,26Marshall,4 Chulahoma,Lieutenant Governor,,Ron Williams,Libertarian,1Marshall,4 Chulahoma,Lieutenant Governor,,Rosa B. Williams,Reform,2Marshall,4 Chulahoma,Secretary of State,,Charles E. Graham,Democrat,226Marshall,4 Chulahoma,Secretary of State,,Delbert Hosemann,Republican,20Marshall,4 Chulahoma,Secretary of State,,Randy Walker,Reform,12Marshall,4 Chulahoma,Attorney General,,Jim Hood,Democrat,235Marshall,4 Chulahoma,Attorney General,,Mike Hurst,Republican,21Marshall,4 Chulahoma,State Auditor,,Jocelyn Pepper Pritchett,Democrat,217Marshall,4 Chulahoma,State Auditor,,Stacey E. Pickering,Republican,32Marshall,4 Chulahoma,State Auditor,,Lajena Walley,Reform,6Marshall,4 Chulahoma,State Treasurer,,Lynn Fitch,Republican,66Marshall,4 Chulahoma,State Treasurer,,Viola McFarland,Reform,76Marshall,4 Chulahoma,Commissioner of Agriculture & Commerce,,Addie Lee Green,Democrat,229Marshall,4 Chulahoma,Commissioner of Agriculture & Commerce,,Cindy Hyde-Smith,Republican,27Marshall,4 Chulahoma,Commissioner of Agriculture & Commerce,,Cathy L Toole,Reform,2Marshall,4 Chulahoma,Commissioner of Insurance,,Mike Chaney,Republican,95Marshall,4 Chulahoma,State Senate,10,Bill Stone,Democrat,206Marshall,4 Chulahoma,State House,5,John Faulkner,Democrat,202Marshall,4 Laws Hill,Governor,,Robert Gray,Democrat,49Marshall,4 Laws Hill,Governor,,Phil Bryant,Republican,65Marshall,4 Laws Hill,Governor,,Shawn O'Hara,Reform,0Marshall,4 Laws Hill,Lieutenant Governor,,Tim Johnson,Democrat,53Marshall,4 Laws Hill,Lieutenant Governor,,Tate Reeves,Republican,52Marshall,4 Laws Hill,Lieutenant Governor,,Ron Williams,Libertarian,2Marshall,4 Laws Hill,Lieutenant Governor,,Rosa B. Williams,Reform,2Marshall,4 Laws Hill,Secretary of State,,Charles E. Graham,Democrat,56Marshall,4 Laws Hill,Secretary of State,,Delbert Hosemann,Republican,47Marshall,4 Laws Hill,Secretary of State,,Randy Walker,Reform,4Marshall,4 Laws Hill,Attorney General,,Jim Hood,Democrat,66Marshall,4 Laws Hill,Attorney General,,Mike Hurst,Republican,44Marshall,4 Laws Hill,State Auditor,,Jocelyn Pepper Pritchett,Democrat,51Marshall,4 Laws Hill,State Auditor,,Stacey E. Pickering,Republican,56Marshall,4 Laws Hill,State Auditor,,Lajena Walley,Reform,1Marshall,4 Laws Hill,State Treasurer,,Lynn Fitch,Republican,70Marshall,4 Laws Hill,State Treasurer,,Viola McFarland,Reform,14Marshall,4 Laws Hill,Commissioner of Agriculture & Commerce,,Addie Lee Green,Democrat,49Marshall,4 Laws Hill,Commissioner of Agriculture & Commerce,,Cindy Hyde-Smith,Republican,58Marshall,4 Laws Hill,Commissioner of Agriculture & Commerce,,Cathy L Toole,Reform,1Marshall,4 Laws Hill,Commissioner of Insurance,,Mike Chaney,Republican,76Marshall,4 Laws Hill,State Senate,10,Bill Stone,Democrat,96Marshall,4 Laws Hill,State House,5,John Faulkner,Republican,90Marshall,4 Marianna,Governor,,Robert Gray,Democrat,149Marshall,4 Marianna,Governor,,Phil Bryant,Republican,94Marshall,4 Marianna,Governor,,Shawn O'Hara,Reform,5Marshall,4 Marianna,Lieutenant Governor,,Tim Johnson,Democrat,149Marshall,4 Marianna,Lieutenant Governor,,Tate Reeves,Republican,81Marshall,4 Marianna,Lieutenant Governor,,Ron Williams,Libertarian,3Marshall,4 Marianna,Lieutenant Governor,,Rosa B. Williams,Reform,8Marshall,4 Marianna,Secretary of State,,Charles E. Graham,Democrat,152Marshall,4 Marianna,Secretary of State,,Delbert Hosemann,Republican,70Marshall,4 Marianna,Secretary of State,,Randy Walker,Reform,18Marshall,4 Marianna,Attorney General,,Jim Hood,Democrat,170Marshall,4 Marianna,Attorney General,,Mike Hurst,Republican,73Marshall,4 Marianna,State Auditor,,Jocelyn Pepper Pritchett,Democrat,150Marshall,4 Marianna,State Auditor,,Stacey E. Pickering,Republican,84Marshall,4 Marianna,State Auditor,,Lajena Walley,Reform,5Marshall,4 Marianna,State Treasurer,,Lynn Fitch,Republican,121Marshall,4 Marianna,State Treasurer,,Viola McFarland,Reform,60Marshall,4 Marianna,Commissioner of Agriculture & Commerce,,Addie Lee Green,Democrat,154Marshall,4 Marianna,Commissioner of Agriculture & Commerce,,Cindy Hyde-Smith,Republican,80Marshall,4 Marianna,Commissioner of Agriculture & Commerce,,Cathy L Toole,Reform,8Marshall,4 Marianna,Commissioner of Insurance,,Mike Chaney,Republican,149Marshall,4 Marianna,State Senate,10,Bill Stone,Democrat,216Marshall,4 Marianna,State House,5,John Faulkner,Republican,217Marshall,4 Victoria,Governor,,Robert Gray,Democrat,130Marshall,4 Victoria,Governor,,Phil Bryant,Republican,45Marshall,4 Victoria,Governor,,Shawn O'Hara,Reform,1Marshall,4 Victoria,Lieutenant Governor,,Tim Johnson,Democrat,128Marshall,4 Victoria,Lieutenant Governor,,Tate Reeves,Republican,38Marshall,4 Victoria,Lieutenant Governor,,Ron Williams,Libertarian,3Marshall,4 Victoria,Lieutenant Governor,,Rosa B. Williams,Reform,2Marshall,4 Victoria,Secretary of State,,Charles E. Graham,Democrat,130Marshall,4 Victoria,Secretary of State,,Delbert Hosemann,Republican,37Marshall,4 Victoria,Secretary of State,,Randy Walker,Reform,7Marshall,4 Victoria,Attorney General,,Jim Hood,Democrat,140Marshall,4 Victoria,Attorney General,,Mike Hurst,Republican,31Marshall,4 Victoria,State Auditor,,Jocelyn Pepper Pritchett,Democrat,122Marshall,4 Victoria,State Auditor,,Stacey E. Pickering,Republican,49Marshall,4 Victoria,State Auditor,,Lajena Walley,Reform,2Marshall,4 Victoria,State Treasurer,,Lynn Fitch,Republican,58Marshall,4 Victoria,State Treasurer,,Viola McFarland,Reform,20Marshall,4 Victoria,Commissioner of Agriculture & Commerce,,Addie Lee Green,Democrat,131Marshall,4 Victoria,Commissioner of Agriculture & Commerce,,Cindy Hyde-Smith,Republican,40Marshall,4 Victoria,Commissioner of Agriculture & Commerce,,Cathy L Toole,Reform,1Marshall,4 Victoria,Commissioner of Insurance,,Mike Chaney,Republican,60Marshall,4 Victoria,State Senate,19,William Kincade,Republican,67Marshall,4 Victoria,State House,5,John Faulkner,Democrat,111Marshall,4 Wall Hill,Governor,,Robert Gray,Democrat,176Marshall,4 Wall Hill,Governor,,Phil Bryant,Republican,79Marshall,4 Wall Hill,Governor,,Shawn O'Hara,Reform,2Marshall,4 Wall Hill,Lieutenant Governor,,Tim Johnson,Democrat,184Marshall,4 Wall Hill,Lieutenant Governor,,Tate Reeves,Republican,54Marshall,4 Wall Hill,Lieutenant Governor,,Ron Williams,Libertarian,12Marshall,4 Wall Hill,Lieutenant Governor,,Rosa B. Williams,Reform,2Marshall,4 Wall Hill,Secretary of State,,Charles E. Graham,Democrat,190Marshall,4 Wall Hill,Secretary of State,,Delbert Hosemann,Republican,51Marshall,4 Wall Hill,Secretary of State,,Randy Walker,Reform,8Marshall,4 Wall Hill,Attorney General,,Jim Hood,Democrat,198Marshall,4 Wall Hill,Attorney General,,Mike Hurst,Republican,49Marshall,4 Wall Hill,State Auditor,,Jocelyn Pepper Pritchett,Democrat,184Marshall,4 Wall Hill,State Auditor,,Stacey E. Pickering,Republican,62Marshall,4 Wall Hill,State Auditor,,Lajena Walley,Reform,2Marshall,4 Wall Hill,State Treasurer,,Lynn Fitch,Republican,96Marshall,4 Wall Hill,State Treasurer,,Viola McFarland,Reform,71Marshall,4 Wall Hill,Commissioner of Agriculture & Commerce,,Addie Lee Green,Democrat,185Marshall,4 Wall Hill,Commissioner of Agriculture & Commerce,,Cindy Hyde-Smith,Republican,52Marshall,4 Wall Hill,Commissioner of Agriculture & Commerce,,Cathy L Toole,Reform,12Marshall,4 Wall Hill,Commissioner of Insurance,,Mike Chaney,Republican,129Marshall,4 Wall Hill,State Senate,10,Bill Stone,Democrat,221Marshall,4 Wall Hill,State House,5,John Faulkner,Democrat,219Marshall,4 Warsaw,Governor,,Robert Gray,Democrat,121Marshall,4 Warsaw,Governor,,Phil Bryant,Republican,79Marshall,4 Warsaw,Governor,,Shawn O'Hara,Reform,2Marshall,4 Warsaw,Lieutenant Governor,,Tim Johnson,Democrat,123Marshall,4 Warsaw,Lieutenant Governor,,Tate Reeves,Republican,63Marshall,4 Warsaw,Lieutenant Governor,,Ron Williams,Libertarian,5Marshall,4 Warsaw,Lieutenant Governor,,Rosa B. Williams,Reform,3Marshall,4 Warsaw,Secretary of State,,Charles E. Graham,Democrat,129Marshall,4 Warsaw,Secretary of State,,Delbert Hosemann,Republican,57Marshall,4 Warsaw,Secretary of State,,Randy Walker,Reform,11Marshall,4 Warsaw,Attorney General,,Jim Hood,Democrat,135Marshall,4 Warsaw,Attorney General,,Mike Hurst,Republican,54Marshall,4 Warsaw,State Auditor,,Jocelyn Pepper Pritchett,Democrat,125Marshall,4 Warsaw,State Auditor,,Stacey E. Pickering,Republican,67Marshall,4 Warsaw,State Auditor,,Lajena Walley,Reform,2Marshall,4 Warsaw,State Treasurer,,Lynn Fitch,Republican,98Marshall,4 Warsaw,State Treasurer,,Viola McFarland,Reform,40Marshall,4 Warsaw,Commissioner of Agriculture & Commerce,,Addie Lee Green,Democrat,132Marshall,4 Warsaw,Commissioner of Agriculture & Commerce,,Cindy Hyde-Smith,Republican,57Marshall,4 Warsaw,Commissioner of Agriculture & Commerce,,Cathy L Toole,Reform,6Marshall,4 Warsaw,Commissioner of Insurance,,Mike Chaney,Republican,108Marshall,4 Warsaw,State Senate,10,Bill Stone,Democrat,161Marshall,4 Warsaw,State House,5,John Faulkner,Democrat,155Marshall,4 Watson,Governor,,Robert Gray,Democrat,77Marshall,4 Watson,Governor,,Phil Bryant,Republican,122Marshall,4 Watson,Governor,,Shawn O'Hara,Reform,2Marshall,4 Watson,Lieutenant Governor,,Tim Johnson,Democrat,81Marshall,4 Watson,Lieutenant Governor,,Tate Reeves,Republican,107Marshall,4 Watson,Lieutenant Governor,,Ron Williams,Libertarian,4Marshall,4 Watson,Lieutenant Governor,,Rosa B. Williams,Reform,1Marshall,4 Watson,Secretary of State,,Charles E. Graham,Democrat,86Marshall,4 Watson,Secretary of State,,Delbert Hosemann,Republican,103Marshall,4 Watson,Secretary of State,,Randy Walker,Reform,6Marshall,4 Watson,Attorney General,,Jim Hood,Democrat,109Marshall,4 Watson,Attorney General,,Mike Hurst,Republican,85Marshall,4 Watson,State Auditor,,Jocelyn Pepper Pritchett,Democrat,77Marshall,4 Watson,State Auditor,,Stacey E. Pickering,Republican,115Marshall,4 Watson,State Auditor,,Lajena Walley,Reform,3Marshall,4 Watson,State Treasurer,,Lynn Fitch,Republican,133Marshall,4 Watson,State Treasurer,,Viola McFarland,Reform,31Marshall,4 Watson,Commissioner of Agriculture & Commerce,,Addie Lee Green,Democrat,89Marshall,4 Watson,Commissioner of Agriculture & Commerce,,Cindy Hyde-Smith,Republican,105Marshall,4 Watson,Commissioner of Agriculture & Commerce,,Cathy L Toole,Reform,2Marshall,4 Watson,Commissioner of Insurance,,Mike Chaney,Republican,145Marshall,4 Watson,State Senate,10,Bill Stone,Democrat,160Marshall,4 Watson,State House,5,John Faulkner,Democrat,155Marshall,5 Bethlehem,Governor,,Robert Gray,Democrat,18Marshall,5 Bethlehem,Governor,,Phil Bryant,Republican,174Marshall,5 Bethlehem,Governor,,Shawn O'Hara,Reform,0Marshall,5 Bethlehem,Lieutenant Governor,,Tim Johnson,Democrat,30Marshall,5 Bethlehem,Lieutenant Governor,,Tate Reeves,Republican,151Marshall,5 Bethlehem,Lieutenant Governor,,Ron Williams,Libertarian,4Marshall,5 Bethlehem,Lieutenant Governor,,Rosa B. Williams,Reform,0Marshall,5 Bethlehem,Secretary of State,,Charles E. Graham,Democrat,29Marshall,5 Bethlehem,Secretary of State,,Delbert Hosemann,Republican,136Marshall,5 Bethlehem,Secretary of State,,Randy Walker,Reform,19Marshall,5 Bethlehem,Attorney General,,Jim Hood,Democrat,88Marshall,5 Bethlehem,Attorney General,,Mike Hurst,Republican,99Marshall,5 Bethlehem,State Auditor,,Jocelyn Pepper Pritchett,Democrat,20Marshall,5 Bethlehem,State Auditor,,Stacey E. Pickering,Republican,157Marshall,5 Bethlehem,State Auditor,,Lajena Walley,Reform,3Marshall,5 Bethlehem,State Treasurer,,Lynn Fitch,Republican,171Marshall,5 Bethlehem,State Treasurer,,Viola McFarland,Reform,8Marshall,5 Bethlehem,Commissioner of Agriculture & Commerce,,Addie Lee Green,Democrat,39Marshall,5 Bethlehem,Commissioner of Agriculture & Commerce,,Cindy Hyde-Smith,Republican,135Marshall,5 Bethlehem,Commissioner of Agriculture & Commerce,,Cathy L Toole,Reform,4Marshall,5 Bethlehem,Commissioner of Insurance,,Mike Chaney,Republican,160Marshall,5 Bethlehem,State Senate,10,Bill Stone,Democrat,163Marshall,5 Bethlehem,State House,13,Justin Cluck,Democrat,57Marshall,5 Bethlehem,State House,13,Steve Massengill,Republican,134Marshall,5 Connersville,Governor,,Robert Gray,Democrat,6Marshall,5 Connersville,Governor,,Phil Bryant,Republican,74Marshall,5 Connersville,Governor,,Shawn O'Hara,Reform,0Marshall,5 Connersville,Lieutenant Governor,,Tim Johnson,Democrat,10Marshall,5 Connersville,Lieutenant Governor,,Tate Reeves,Republican,65Marshall,5 Connersville,Lieutenant Governor,,Ron Williams,Libertarian,0Marshall,5 Connersville,Lieutenant Governor,,Rosa B. Williams,Reform,1Marshall,5 Connersville,Secretary of State,,Charles E. Graham,Democrat,8Marshall,5 Connersville,Secretary of State,,Delbert Hosemann,Republican,54Marshall,5 Connersville,Secretary of State,,Randy Walker,Reform,12Marshall,5 Connersville,Attorney General,,Jim Hood,Democrat,20Marshall,5 Connersville,Attorney General,,Mike Hurst,Republican,56Marshall,5 Connersville,State Auditor,,Jocelyn Pepper Pritchett,Democrat,6Marshall,5 Connersville,State Auditor,,Stacey E. Pickering,Republican,67Marshall,5 Connersville,State Auditor,,Lajena Walley,Reform,1Marshall,5 Connersville,State Treasurer,,Lynn Fitch,Republican,74Marshall,5 Connersville,State Treasurer,,Viola McFarland,Reform,2Marshall,5 Connersville,Commissioner of Agriculture & Commerce,,Addie Lee Green,Democrat,10Marshall,5 Connersville,Commissioner of Agriculture & Commerce,,Cindy Hyde-Smith,Republican,65Marshall,5 Connersville,Commissioner of Agriculture & Commerce,,Cathy L Toole,Reform,0Marshall,5 Connersville,Commissioner of Insurance,,Mike Chaney,Republican,73Marshall,5 Connersville,State Senate,10,Bill Stone,Democrat,61Marshall,5 Connersville,State House,13,Justin Cluck,Democrat,16Marshall,5 Connersville,State House,13,Steve Massengill,Republican,64Marshall,5 Potts Camp - BS10,Governor,,Robert Gray,Democrat,0Marshall,5 Potts Camp - BS10,Governor,,Phil Bryant,Republican,1Marshall,5 Potts Camp - BS10,Governor,,Shawn O'Hara,Reform,0Marshall,5 Potts Camp - BS10,Lieutenant Governor,,Tim Johnson,Democrat,0Marshall,5 Potts Camp - BS10,Lieutenant Governor,,Tate Reeves,Republican,1Marshall,5 Potts Camp - BS10,Lieutenant Governor,,Ron Williams,Libertarian,0Marshall,5 Potts Camp - BS10,Lieutenant Governor,,Rosa B. Williams,Reform,0Marshall,5 Potts Camp - BS10,Secretary of State,,Charles E. Graham,Democrat,0Marshall,5 Potts Camp - BS10,Secretary of State,,Delbert Hosemann,Republican,1Marshall,5 Potts Camp - BS10,Secretary of State,,Randy Walker,Reform,0Marshall,5 Potts Camp - BS10,Attorney General,,Jim Hood,Democrat,0Marshall,5 Potts Camp - BS10,Attorney General,,Mike Hurst,Republican,1Marshall,5 Potts Camp - BS10,State Auditor,,Jocelyn Pepper Pritchett,Democrat,0Marshall,5 Potts Camp - BS10,State Auditor,,Stacey E. Pickering,Republican,1Marshall,5 Potts Camp - BS10,State Auditor,,Lajena Walley,Reform,0Marshall,5 Potts Camp - BS10,State Treasurer,,Lynn Fitch,Republican,1Marshall,5 Potts Camp - BS10,State Treasurer,,Viola McFarland,Reform,0Marshall,5 Potts Camp - BS10,Commissioner of Agriculture & Commerce,,Addie Lee Green,Democrat,0Marshall,5 Potts Camp - BS10,Commissioner of Agriculture & Commerce,,Cindy Hyde-Smith,Republican,0Marshall,5 Potts Camp - BS10,Commissioner of Agriculture & Commerce,,Cathy L Toole,Reform,0Marshall,5 Potts Camp - BS10,Commissioner of Insurance,,Mike Chaney,Republican,0Marshall,5 Potts Camp - BS10,State House,13,Justin Cluck,Democrat,0Marshall,5 Potts Camp - BS10,State House,13,Steve Massengill,Republican,0Marshall,5 Potts Camp - BS5,Governor,,Robert Gray,Democrat,117Marshall,5 Potts Camp - BS5,Governor,,Phil Bryant,Republican,284Marshall,5 Potts Camp - BS5,Governor,,Shawn O'Hara,Reform,4Marshall,5 Potts Camp - BS5,Lieutenant Governor,,Tim Johnson,Democrat,164Marshall,5 Potts Camp - BS5,Lieutenant Governor,,Tate Reeves,Republican,223Marshall,5 Potts Camp - BS5,Lieutenant Governor,,Ron Williams,Libertarian,7Marshall,5 Potts Camp - BS5,Lieutenant Governor,,Rosa B. Williams,Reform,6Marshall,5 Potts Camp - BS5,Secretary of State,,Charles E. Graham,Democrat,144Marshall,5 Potts Camp - BS5,Secretary of State,,Delbert Hosemann,Republican,213Marshall,5 Potts Camp - BS5,Secretary of State,,Randy Walker,Reform,46Marshall,5 Potts Camp - BS5,Attorney General,,Jim Hood,Democrat,260Marshall,5 Potts Camp - BS5,Attorney General,,Mike Hurst,Republican,151Marshall,5 Potts Camp - BS5,State Auditor,,Jocelyn Pepper Pritchett,Democrat,122Marshall,5 Potts Camp - BS5,State Auditor,,Stacey E. Pickering,Republican,267Marshall,5 Potts Camp - BS5,State Auditor,,Lajena Walley,Reform,10Marshall,5 Potts Camp - BS5,State Treasurer,,Lynn Fitch,Republican,322Marshall,5 Potts Camp - BS5,State Treasurer,,Viola McFarland,Reform,56Marshall,5 Potts Camp - BS5,Commissioner of Agriculture & Commerce,,Addie Lee Green,Democrat,177Marshall,5 Potts Camp - BS5,Commissioner of Agriculture & Commerce,,Cindy Hyde-Smith,Republican,207Marshall,5 Potts Camp - BS5,Commissioner of Agriculture & Commerce,,Cathy L Toole,Reform,13Marshall,5 Potts Camp - BS5,Commissioner of Insurance,,Mike Chaney,Republican,324Marshall,5 Potts Camp,State Senate,10,Bill Stone,Democrat,363Marshall,5 Potts Camp - BS5,State House,13,Justin Cluck,Democrat,215Marshall,5 Potts Camp - BS5,State House,13,Steve Massengill,Republican,202Marshall,5 South Holly Sprs,Governor,,Robert Gray,Democrat,425Marshall,5 South Holly Sprs,Governor,,Phil Bryant,Republican,439Marshall,5 South Holly Sprs,Governor,,Shawn O'Hara,Reform,11Marshall,5 South Holly Sprs,Lieutenant Governor,,Tim Johnson,Democrat,468Marshall,5 South Holly Sprs,Lieutenant Governor,,Tate Reeves,Republican,350Marshall,5 South Holly Sprs,Lieutenant Governor,,Ron Williams,Libertarian,15Marshall,5 South Holly Sprs,Lieutenant Governor,,Rosa B. Williams,Reform,21Marshall,5 South Holly Sprs,Secretary of State,,Charles E. Graham,Democrat,455Marshall,5 South Holly Sprs,Secretary of State,,Delbert Hosemann,Republican,339Marshall,5 South Holly Sprs,Secretary of State,,Randy Walker,Reform,55Marshall,5 South Holly Sprs,Attorney General,,Jim Hood,Democrat,607Marshall,5 South Holly Sprs,Attorney General,,Mike Hurst,Republican,247Marshall,5 South Holly Sprs,State Auditor,,Jocelyn Pepper Pritchett,Democrat,432Marshall,5 South Holly Sprs,State Auditor,,Stacey E. Pickering,Republican,400Marshall,5 South Holly Sprs,State Auditor,,Lajena Walley,Reform,13Marshall,5 South Holly Sprs,State Treasurer,,Lynn Fitch,Republican,527Marshall,5 South Holly Sprs,State Treasurer,,Viola McFarland,Reform,188Marshall,5 South Holly Sprs,Commissioner of Agriculture & Commerce,,Addie Lee Green,Democrat,472Marshall,5 South Holly Sprs,Commissioner of Agriculture & Commerce,,Cindy Hyde-Smith,Republican,351Marshall,5 South Holly Sprs,Commissioner of Agriculture & Commerce,,Cathy L Toole,Reform,21Marshall,5 South Holly Sprs,Commissioner of Insurance,,Mike Chaney,Republican,618Marshall,5 South Holly Sprs,State Senate,10,Bill Stone,Democrat,822Marshall,5 South Holly Sprs,State House,5,John Faulkner,Democrat,765Marshall,5 Waterford,Governor,,Robert Gray,Democrat,92Marshall,5 Waterford,Governor,,Phil Bryant,Republican,173Marshall,5 Waterford,Governor,,Shawn O'Hara,Reform,3Marshall,5 Waterford,Lieutenant Governor,,Tim Johnson,Democrat,106Marshall,5 Waterford,Lieutenant Governor,,Tate Reeves,Republican,148Marshall,5 Waterford,Lieutenant Governor,,Ron Williams,Libertarian,6Marshall,5 Waterford,Lieutenant Governor,,Rosa B. Williams,Reform,2Marshall,5 Waterford,Secretary of State,,Charles E. Graham,Democrat,110Marshall,5 Waterford,Secretary of State,,Delbert Hosemann,Republican,133Marshall,5 Waterford,Secretary of State,,Randy Walker,Reform,18Marshall,5 Waterford,Attorney General,,Jim Hood,Democrat,154Marshall,5 Waterford,Attorney General,,Mike Hurst,Republican,106Marshall,5 Waterford,State Auditor,,Jocelyn Pepper Pritchett,Democrat,103Marshall,5 Waterford,State Auditor,,Stacey E. Pickering,Republican,153Marshall,5 Waterford,State Auditor,,Lajena Walley,Reform,4Marshall,5 Waterford,State Treasurer,,Lynn Fitch,Republican,194Marshall,5 Waterford,State Treasurer,,Viola McFarland,Reform,48Marshall,5 Waterford,Commissioner of Agriculture & Commerce,,Addie Lee Green,Democrat,108Marshall,5 Waterford,Commissioner of Agriculture & Commerce,,Cindy Hyde-Smith,Republican,142Marshall,5 Waterford,Commissioner of Agriculture & Commerce,,Cathy L Toole,Reform,10Marshall,5 Waterford,Commissioner of Insurance,,Mike Chaney,Republican,213Marshall,5 Waterford,State Senate,10,Bill Stone,Democrat,226Marshall,5 Waterford,State House,5,John Faulkner,Democrat,205Marshall,,Governor,,Robert Gray,Democrat,3105Marshall,,Governor,,Phil Bryant,Republican,3412Marshall,,Governor,,Shawn O'Hara,Reform,68Marshall,,Lieutenant Governor,,Tim Johnson,Democrat,3392Marshall,,Lieutenant Governor,,Tate Reeves,Republican,2744Marshall,,Lieutenant Governor,,Ron Williams,Libertarian,152Marshall,,Lieutenant Governor,,Rosa B. Williams,Reform,103Marshall,,Secretary of State,,Charles E. Graham,Democrat,3426Marshall,,Secretary of State,,Delbert Hosemann,Republican,2588Marshall,,Secretary of State,,Randy Walker,Reform,376Marshall,,Attorney General,,Jim Hood,Democrat,4290Marshall,,Attorney General,,Mike Hurst,Republican,2136Marshall,,State Auditor,,Jocelyn Pepper Pritchett,Democrat,3228Marshall,,State Auditor,,Stacey E. Pickering,Republican,3018Marshall,,State Auditor,,Lajena Walley,Reform,100Marshall,,State Treasurer,,Lynn Fitch,Republican,3879Marshall,,State Treasurer,,Viola McFarland,Reform,1383Marshall,,Commissioner of Agriculture & Commerce,,Addie Lee Green,Democrat,3483Marshall,,Commissioner of Agriculture & Commerce,,Cindy Hyde-Smith,Republican,2706Marshall,,Commissioner of Agriculture & Commerce,,Cathy L Toole,Reform,169Marshall,,Commissioner of Insurance,,Mike Chaney,Republican,4401Marshall,,State Senate,10,Bill Stone,Democrat,4533Marshall,,State Senate,19,William Kincade,Republican,890Marshall,,State House,5,John Faulkner,Democrat,3272Marshall,,State House,13,Justin Cluck,Democrat,368Marshall,,State House,13,Steve Massengill,Republican,440Marshall,,State House,52,William Kincade,Republican,1331
+county,precinct,office,district,candidate,party,votes
+Marshall,1 Holly Springs,Governor,,Robert Gray,Democrat,159
+Marshall,1 Holly Springs,Governor,,Phil Bryant,Republican,58
+Marshall,1 Holly Springs,Governor,,Shawn O'Hara,Reform,4
+Marshall,1 Holly Springs,Lieutenant Governor,,Tim Johnson,Democrat,179
+Marshall,1 Holly Springs,Lieutenant Governor,,Tate Reeves,Republican,24
+Marshall,1 Holly Springs,Lieutenant Governor,,Ron Williams,Libertarian,6
+Marshall,1 Holly Springs,Lieutenant Governor,,Rosa B. Williams,Reform,11
+Marshall,1 Holly Springs,Secretary of State,,Charles E. Graham,Democrat,189
+Marshall,1 Holly Springs,Secretary of State,,Delbert Hosemann,Republican,21
+Marshall,1 Holly Springs,Secretary of State,,Randy Walker,Reform,10
+Marshall,1 Holly Springs,Attorney General,,Jim Hood,Democrat,208
+Marshall,1 Holly Springs,Attorney General,,Mike Hurst,Republican,15
+Marshall,1 Holly Springs,State Auditor,,Jocelyn Pepper Pritchett,Democrat,185
+Marshall,1 Holly Springs,State Auditor,,Stacey E. Pickering,Republican,30
+Marshall,1 Holly Springs,State Auditor,,Lajena Walley,Reform,6
+Marshall,1 Holly Springs,State Treasurer,,Lynn Fitch,Republican,84
+Marshall,1 Holly Springs,State Treasurer,,Viola McFarland,Reform,93
+Marshall,1 Holly Springs,Commissioner of Agriculture & Commerce,,Addie Lee Green,Democrat,186
+Marshall,1 Holly Springs,Commissioner of Agriculture & Commerce,,Cindy Hyde-Smith,Republican,26
+Marshall,1 Holly Springs,Commissioner of Agriculture & Commerce,,Cathy L Toole,Reform,6
+Marshall,1 Holly Springs,Commissioner of Insurance,,Mike Chaney,Republican,134
+Marshall,1 Holly Springs,State Senate,10,Bill Stone,Democrat,211
+Marshall,1 Holly Springs,State House,5,John Faulkner,Republican,199
+Marshall,1 Red Banks - BS9,Governor,,Robert Gray,Democrat,38
+Marshall,1 Red Banks - BS9,Governor,,Phil Bryant,Republican,22
+Marshall,1 Red Banks - BS9,Governor,,Shawn O'Hara,Reform,1
+Marshall,1 Red Banks - BS9,Lieutenant Governor,,Tim Johnson,Democrat,42
+Marshall,1 Red Banks - BS9,Lieutenant Governor,,Tate Reeves,Republican,17
+Marshall,1 Red Banks - BS9,Lieutenant Governor,,Ron Williams,Libertarian,2
+Marshall,1 Red Banks - BS9,Lieutenant Governor,,Rosa B. Williams,Reform,0
+Marshall,1 Red Banks - BS9,Secretary of State,,Charles E. Graham,Democrat,47
+Marshall,1 Red Banks - BS9,Secretary of State,,Delbert Hosemann,Republican,14
+Marshall,1 Red Banks - BS9,Secretary of State,,Randy Walker,Reform,0
+Marshall,1 Red Banks - BS9,Attorney General,,Jim Hood,Democrat,50
+Marshall,1 Red Banks - BS9,Attorney General,,Mike Hurst,Republican,11
+Marshall,1 Red Banks - BS9,State Auditor,,Jocelyn Pepper Pritchett,Democrat,43
+Marshall,1 Red Banks - BS9,State Auditor,,Stacey E. Pickering,Republican,16
+Marshall,1 Red Banks - BS9,State Auditor,,Lajena Walley,Reform,1
+Marshall,1 Red Banks - BS9,State Treasurer,,Lynn Fitch,Republican,29
+Marshall,1 Red Banks - BS9,State Treasurer,,Viola McFarland,Reform,19
+Marshall,1 Red Banks - BS9,Commissioner of Agriculture & Commerce,,Addie Lee Green,Democrat,43
+Marshall,1 Red Banks - BS9,Commissioner of Agriculture & Commerce,,Cindy Hyde-Smith,Republican,15
+Marshall,1 Red Banks - BS9,Commissioner of Agriculture & Commerce,,Cathy L Toole,Reform,3
+Marshall,1 Red Banks - BS9,Commissioner of Insurance,,Mike Chaney,Republican,36
+Marshall,1 Red Banks,State Senate,10,Bill Stone,Democrat,189
+Marshall,1 Red Banks,State Senate,19,Kevin Blackwell,Republican,34
+Marshall,1 Red Banks,State House,5,John Faulkner,Democrat,58
+Marshall,1 Red Banks - BS4,Governor,,Robert Gray,Democrat,17
+Marshall,1 Red Banks - BS4,Governor,,Phil Bryant,Republican,39
+Marshall,1 Red Banks - BS4,Governor,,Shawn O'Hara,Reform,0
+Marshall,1 Red Banks - BS4,Lieutenant Governor,,Tim Johnson,Democrat,22
+Marshall,1 Red Banks - BS4,Lieutenant Governor,,Tate Reeves,Republican,27
+Marshall,1 Red Banks - BS4,Lieutenant Governor,,Ron Williams,Libertarian,5
+Marshall,1 Red Banks - BS4,Lieutenant Governor,,Rosa B. Williams,Reform,1
+Marshall,1 Red Banks - BS4,Secretary of State,,Charles E. Graham,Democrat,21
+Marshall,1 Red Banks - BS4,Secretary of State,,Delbert Hosemann,Republican,28
+Marshall,1 Red Banks - BS4,Secretary of State,,Randy Walker,Reform,6
+Marshall,1 Red Banks - BS4,Attorney General,,Jim Hood,Democrat,27
+Marshall,1 Red Banks - BS4,Attorney General,,Mike Hurst,Republican,27
+Marshall,1 Red Banks - BS4,State Auditor,,Jocelyn Pepper Pritchett,Democrat,22
+Marshall,1 Red Banks - BS4,State Auditor,,Stacey E. Pickering,Republican,31
+Marshall,1 Red Banks - BS4,State Auditor,,Lajena Walley,Reform,2
+Marshall,1 Red Banks - BS4,State Treasurer,,Lynn Fitch,Republican,37
+Marshall,1 Red Banks - BS4,State Treasurer,,Viola McFarland,Reform,13
+Marshall,1 Red Banks - BS4,Commissioner of Agriculture & Commerce,,Addie Lee Green,Democrat,21
+Marshall,1 Red Banks - BS4,Commissioner of Agriculture & Commerce,,Cindy Hyde-Smith,Republican,30
+Marshall,1 Red Banks - BS4,Commissioner of Agriculture & Commerce,,Cathy L Toole,Reform,0
+Marshall,1 Red Banks - BS4,Commissioner of Insurance,,Mike Chaney,Republican,44
+Marshall,1 Red Banks - BS22,Governor,,Robert Gray,Democrat,47
+Marshall,1 Red Banks - BS22,Governor,,Phil Bryant,Republican,116
+Marshall,1 Red Banks - BS22,Governor,,Shawn O'Hara,Reform,2
+Marshall,1 Red Banks - BS22,Lieutenant Governor,,Tim Johnson,Democrat,58
+Marshall,1 Red Banks - BS22,Lieutenant Governor,,Tate Reeves,Republican,100
+Marshall,1 Red Banks - BS22,Lieutenant Governor,,Ron Williams,Libertarian,2
+Marshall,1 Red Banks - BS22,Lieutenant Governor,,Rosa B. Williams,Reform,2
+Marshall,1 Red Banks - BS22,Secretary of State,,Charles E. Graham,Democrat,59
+Marshall,1 Red Banks - BS22,Secretary of State,,Delbert Hosemann,Republican,91
+Marshall,1 Red Banks - BS22,Secretary of State,,Randy Walker,Reform,11
+Marshall,1 Red Banks - BS22,Attorney General,,Jim Hood,Democrat,87
+Marshall,1 Red Banks - BS22,Attorney General,,Mike Hurst,Republican,77
+Marshall,1 Red Banks - BS22,State Auditor,,Jocelyn Pepper Pritchett,Democrat,55
+Marshall,1 Red Banks - BS22,State Auditor,,Stacey E. Pickering,Republican,105
+Marshall,1 Red Banks - BS22,State Auditor,,Lajena Walley,Reform,3
+Marshall,1 Red Banks - BS22,State Treasurer,,Lynn Fitch,Republican,118
+Marshall,1 Red Banks - BS22,State Treasurer,,Viola McFarland,Reform,25
+Marshall,1 Red Banks - BS22,Commissioner of Agriculture & Commerce,,Addie Lee Green,Democrat,58
+Marshall,1 Red Banks - BS22,Commissioner of Agriculture & Commerce,,Cindy Hyde-Smith,Republican,100
+Marshall,1 Red Banks - BS22,Commissioner of Agriculture & Commerce,,Cathy L Toole,Reform,1
+Marshall,1 Red Banks - BS22,Commissioner of Insurance,,Mike Chaney,Republican,129
+Marshall,1 Red Banks - BS22,State House,52,William Kincade,Republican,161
+Marshall,1 W Holly Springs,Governor,,Robert Gray,Democrat,366
+Marshall,1 W Holly Springs,Governor,,Phil Bryant,Republican,103
+Marshall,1 W Holly Springs,Governor,,Shawn O'Hara,Reform,3
+Marshall,1 W Holly Springs,Lieutenant Governor,,Tim Johnson,Democrat,384
+Marshall,1 W Holly Springs,Lieutenant Governor,,Tate Reeves,Republican,56
+Marshall,1 W Holly Springs,Lieutenant Governor,,Ron Williams,Libertarian,7
+Marshall,1 W Holly Springs,Lieutenant Governor,,Rosa B. Williams,Reform,8
+Marshall,1 W Holly Springs,Secretary of State,,Charles E. Graham,Democrat,380
+Marshall,1 W Holly Springs,Secretary of State,,Delbert Hosemann,Republican,61
+Marshall,1 W Holly Springs,Secretary of State,,Randy Walker,Reform,14
+Marshall,1 W Holly Springs,Attorney General,,Jim Hood,Democrat,418
+Marshall,1 W Holly Springs,Attorney General,,Mike Hurst,Republican,45
+Marshall,1 W Holly Springs,State Auditor,,Jocelyn Pepper Pritchett,Democrat,371
+Marshall,1 W Holly Springs,State Auditor,,Stacey E. Pickering,Republican,79
+Marshall,1 W Holly Springs,State Auditor,,Lajena Walley,Reform,6
+Marshall,1 W Holly Springs,State Treasurer,,Lynn Fitch,Republican,169
+Marshall,1 W Holly Springs,State Treasurer,,Viola McFarland,Reform,184
+Marshall,1 W Holly Springs,Commissioner of Agriculture & Commerce,,Addie Lee Green,Democrat,388
+Marshall,1 W Holly Springs,Commissioner of Agriculture & Commerce,,Cindy Hyde-Smith,Republican,60
+Marshall,1 W Holly Springs,Commissioner of Agriculture & Commerce,,Cathy L Toole,Reform,11
+Marshall,1 W Holly Springs,Commissioner of Insurance,,Mike Chaney,Republican,245
+Marshall,1 W Holly Springs,State Senate,10,Bill Stone,Democrat,443
+Marshall,1 W Holly Springs,State House,5,John Faulkner,Democrat,425
+Marshall,2 Early Grove,Governor,,Robert Gray,Democrat,64
+Marshall,2 Early Grove,Governor,,Phil Bryant,Republican,58
+Marshall,2 Early Grove,Governor,,Shawn O'Hara,Reform,2
+Marshall,2 Early Grove,Lieutenant Governor,,Tim Johnson,Democrat,69
+Marshall,2 Early Grove,Lieutenant Governor,,Tate Reeves,Republican,45
+Marshall,2 Early Grove,Lieutenant Governor,,Ron Williams,Libertarian,1
+Marshall,2 Early Grove,Lieutenant Governor,,Rosa B. Williams,Reform,1
+Marshall,2 Early Grove,Secretary of State,,Charles E. Graham,Democrat,73
+Marshall,2 Early Grove,Secretary of State,,Delbert Hosemann,Republican,36
+Marshall,2 Early Grove,Secretary of State,,Randy Walker,Reform,11
+Marshall,2 Early Grove,Attorney General,,Jim Hood,Democrat,86
+Marshall,2 Early Grove,Attorney General,,Mike Hurst,Republican,34
+Marshall,2 Early Grove,State Auditor,,Jocelyn Pepper Pritchett,Democrat,60
+Marshall,2 Early Grove,State Auditor,,Stacey E. Pickering,Republican,55
+Marshall,2 Early Grove,State Auditor,,Lajena Walley,Reform,1
+Marshall,2 Early Grove,State Treasurer,,Lynn Fitch,Republican,74
+Marshall,2 Early Grove,State Treasurer,,Viola McFarland,Reform,21
+Marshall,2 Early Grove,Commissioner of Agriculture & Commerce,,Addie Lee Green,Democrat,71
+Marshall,2 Early Grove,Commissioner of Agriculture & Commerce,,Cindy Hyde-Smith,Republican,46
+Marshall,2 Early Grove,Commissioner of Agriculture & Commerce,,Cathy L Toole,Reform,1
+Marshall,2 Early Grove,Commissioner of Insurance,,Mike Chaney,Republican,80
+Marshall,2 Early Grove,State Senate,10,Bill Stone,Democrat,104
+Marshall,2 Early Grove,State House,13,Justin Cluck,Democrat,80
+Marshall,2 Early Grove,State House,13,Steve Massengill,Republican,40
+Marshall,2 Hudsonville,Governor,,Robert Gray,Democrat,104
+Marshall,2 Hudsonville,Governor,,Phil Bryant,Republican,77
+Marshall,2 Hudsonville,Governor,,Shawn O'Hara,Reform,2
+Marshall,2 Hudsonville,Lieutenant Governor,,Tim Johnson,Democrat,107
+Marshall,2 Hudsonville,Lieutenant Governor,,Tate Reeves,Republican,59
+Marshall,2 Hudsonville,Lieutenant Governor,,Ron Williams,Libertarian,3
+Marshall,2 Hudsonville,Lieutenant Governor,,Rosa B. Williams,Reform,7
+Marshall,2 Hudsonville,Secretary of State,,Charles E. Graham,Democrat,117
+Marshall,2 Hudsonville,Secretary of State,,Delbert Hosemann,Republican,48
+Marshall,2 Hudsonville,Secretary of State,,Randy Walker,Reform,14
+Marshall,2 Hudsonville,Attorney General,,Jim Hood,Democrat,138
+Marshall,2 Hudsonville,Attorney General,,Mike Hurst,Republican,39
+Marshall,2 Hudsonville,State Auditor,,Jocelyn Pepper Pritchett,Democrat,106
+Marshall,2 Hudsonville,State Auditor,,Stacey E. Pickering,Republican,60
+Marshall,2 Hudsonville,State Auditor,,Lajena Walley,Reform,6
+Marshall,2 Hudsonville,State Treasurer,,Lynn Fitch,Republican,102
+Marshall,2 Hudsonville,State Treasurer,,Viola McFarland,Reform,44
+Marshall,2 Hudsonville,Commissioner of Agriculture & Commerce,,Addie Lee Green,Democrat,119
+Marshall,2 Hudsonville,Commissioner of Agriculture & Commerce,,Cindy Hyde-Smith,Republican,52
+Marshall,2 Hudsonville,Commissioner of Agriculture & Commerce,,Cathy L Toole,Reform,7
+Marshall,2 Hudsonville,Commissioner of Insurance,,Mike Chaney,Republican,118
+Marshall,2 Hudsonville,State Senate,10,Bill Stone,Democrat,154
+Marshall,2 Hudsonville,State House,5,John Faulkner,Democrat,151
+Marshall,2 Mt Pleasant,Governor,,Robert Gray,Democrat,116
+Marshall,2 Mt Pleasant,Governor,,Phil Bryant,Republican,267
+Marshall,2 Mt Pleasant,Governor,,Shawn O'Hara,Reform,3
+Marshall,2 Mt Pleasant,Lieutenant Governor,,Tim Johnson,Democrat,139
+Marshall,2 Mt Pleasant,Lieutenant Governor,,Tate Reeves,Republican,223
+Marshall,2 Mt Pleasant,Lieutenant Governor,,Ron Williams,Libertarian,12
+Marshall,2 Mt Pleasant,Lieutenant Governor,,Rosa B. Williams,Reform,3
+Marshall,2 Mt Pleasant,Secretary of State,,Charles E. Graham,Democrat,140
+Marshall,2 Mt Pleasant,Secretary of State,,Delbert Hosemann,Republican,220
+Marshall,2 Mt Pleasant,Secretary of State,,Randy Walker,Reform,16
+Marshall,2 Mt Pleasant,Attorney General,,Jim Hood,Democrat,196
+Marshall,2 Mt Pleasant,Attorney General,,Mike Hurst,Republican,181
+Marshall,2 Mt Pleasant,State Auditor,,Jocelyn Pepper Pritchett,Democrat,125
+Marshall,2 Mt Pleasant,State Auditor,,Stacey E. Pickering,Republican,246
+Marshall,2 Mt Pleasant,State Auditor,,Lajena Walley,Reform,4
+Marshall,2 Mt Pleasant,State Treasurer,,Lynn Fitch,Republican,293
+Marshall,2 Mt Pleasant,State Treasurer,,Viola McFarland,Reform,53
+Marshall,2 Mt Pleasant,Commissioner of Agriculture & Commerce,,Addie Lee Green,Democrat,140
+Marshall,2 Mt Pleasant,Commissioner of Agriculture & Commerce,,Cindy Hyde-Smith,Republican,229
+Marshall,2 Mt Pleasant,Commissioner of Agriculture & Commerce,,Cathy L Toole,Reform,8
+Marshall,2 Mt Pleasant,Commissioner of Insurance,,Mike Chaney,Republican,300
+Marshall,2 Mt Pleasant,State Senate,10,Bill Stone,Democrat,289
+Marshall,2 Mt Pleasant,State House,52,William Kincade,Republican,267
+Marshall,2 North Cayce,Governor,,Robert Gray,Democrat,69
+Marshall,2 North Cayce,Governor,,Phil Bryant,Republican,83
+Marshall,2 North Cayce,Governor,,Shawn O'Hara,Reform,4
+Marshall,2 North Cayce,Lieutenant Governor,,Tim Johnson,Democrat,76
+Marshall,2 North Cayce,Lieutenant Governor,,Tate Reeves,Republican,63
+Marshall,2 North Cayce,Lieutenant Governor,,Ron Williams,Libertarian,5
+Marshall,2 North Cayce,Lieutenant Governor,,Rosa B. Williams,Reform,2
+Marshall,2 North Cayce,Secretary of State,,Charles E. Graham,Democrat,74
+Marshall,2 North Cayce,Secretary of State,,Delbert Hosemann,Republican,65
+Marshall,2 North Cayce,Secretary of State,,Randy Walker,Reform,7
+Marshall,2 North Cayce,Attorney General,,Jim Hood,Democrat,84
+Marshall,2 North Cayce,Attorney General,,Mike Hurst,Republican,63
+Marshall,2 North Cayce,State Auditor,,Jocelyn Pepper Pritchett,Democrat,74
+Marshall,2 North Cayce,State Auditor,,Stacey E. Pickering,Republican,73
+Marshall,2 North Cayce,State Auditor,,Lajena Walley,Reform,2
+Marshall,2 North Cayce,State Treasurer,,Lynn Fitch,Republican,79
+Marshall,2 North Cayce,State Treasurer,,Viola McFarland,Reform,42
+Marshall,2 North Cayce,Commissioner of Agriculture & Commerce,,Addie Lee Green,Democrat,73
+Marshall,2 North Cayce,Commissioner of Agriculture & Commerce,,Cindy Hyde-Smith,Republican,65
+Marshall,2 North Cayce,Commissioner of Agriculture & Commerce,,Cathy L Toole,Reform,6
+Marshall,2 North Cayce,Commissioner of Insurance,,Mike Chaney,Republican,97
+Marshall,2 North Cayce,State Senate,19,Kevin Blackwell,Republican,87
+Marshall,2 North Cayce,State House,52,William Kincade,Republican,88
+Marshall,2 North Holly Springs - BS18,Governor,,Robert Gray,Democrat,133
+Marshall,2 North Holly Springs - BS18,Governor,,Phil Bryant,Republican,85
+Marshall,2 North Holly Springs - BS18,Governor,,Shawn O'Hara,Reform,2
+Marshall,2 North Holly Springs - BS18,Lieutenant Governor,,Tim Johnson,Democrat,145
+Marshall,2 North Holly Springs - BS18,Lieutenant Governor,,Tate Reeves,Republican,61
+Marshall,2 North Holly Springs - BS18,Lieutenant Governor,,Ron Williams,Libertarian,3
+Marshall,2 North Holly Springs - BS18,Lieutenant Governor,,Rosa B. Williams,Reform,9
+Marshall,2 North Holly Springs - BS18,Secretary of State,,Charles E. Graham,Democrat,141
+Marshall,2 North Holly Springs - BS18,Secretary of State,,Delbert Hosemann,Republican,57
+Marshall,2 North Holly Springs - BS18,Secretary of State,,Randy Walker,Reform,19
+Marshall,2 North Holly Springs - BS18,Attorney General,,Jim Hood,Democrat,168
+Marshall,2 North Holly Springs - BS18,Attorney General,,Mike Hurst,Republican,47
+Marshall,2 North Holly Springs - BS18,State Auditor,,Jocelyn Pepper Pritchett,Democrat,136
+Marshall,2 North Holly Springs - BS18,State Auditor,,Stacey E. Pickering,Republican,71
+Marshall,2 North Holly Springs - BS18,State Auditor,,Lajena Walley,Reform,4
+Marshall,2 North Holly Springs - BS18,State Treasurer,,Lynn Fitch,Republican,120
+Marshall,2 North Holly Springs - BS18,State Treasurer,,Viola McFarland,Reform,65
+Marshall,2 North Holly Springs - BS18,Commissioner of Agriculture & Commerce,,Addie Lee Green,Democrat,146
+Marshall,2 North Holly Springs - BS18,Commissioner of Agriculture & Commerce,,Cindy Hyde-Smith,Republican,57
+Marshall,2 North Holly Springs - BS18,Commissioner of Agriculture & Commerce,,Cathy L Toole,Reform,11
+Marshall,2 North Holly Springs - BS18,Commissioner of Insurance,,Mike Chaney,Republican,150
+Marshall,2 North Holly Springs,State Senate,10,Bill Stone,Democrat,239
+Marshall,2 North Holly Springs - BS18,State House,5,John Faulkner,Democrat,202
+Marshall,2 North Holly Springs - BS21,Governor,,Robert Gray,Democrat,16
+Marshall,2 North Holly Springs - BS21,Governor,,Phil Bryant,Republican,9
+Marshall,2 North Holly Springs - BS21,Governor,,Shawn O'Hara,Reform,0
+Marshall,2 North Holly Springs - BS21,Lieutenant Governor,,Tim Johnson,Democrat,15
+Marshall,2 North Holly Springs - BS21,Lieutenant Governor,,Tate Reeves,Republican,8
+Marshall,2 North Holly Springs - BS21,Lieutenant Governor,,Ron Williams,Libertarian,0
+Marshall,2 North Holly Springs - BS21,Lieutenant Governor,,Rosa B. Williams,Reform,
+Marshall,2 North Holly Springs - BS21,Secretary of State,,Charles E. Graham,Democrat,17
+Marshall,2 North Holly Springs - BS21,Secretary of State,,Delbert Hosemann,Republican,6
+Marshall,2 North Holly Springs - BS21,Secretary of State,,Randy Walker,Reform,1
+Marshall,2 North Holly Springs - BS21,Attorney General,,Jim Hood,Democrat,20
+Marshall,2 North Holly Springs - BS21,Attorney General,,Mike Hurst,Republican,6
+Marshall,2 North Holly Springs - BS21,State Auditor,,Jocelyn Pepper Pritchett,Democrat,16
+Marshall,2 North Holly Springs - BS21,State Auditor,,Stacey E. Pickering,Republican,7
+Marshall,2 North Holly Springs - BS21,State Auditor,,Lajena Walley,Reform,0
+Marshall,2 North Holly Springs - BS21,State Treasurer,,Lynn Fitch,Republican,11
+Marshall,2 North Holly Springs - BS21,State Treasurer,,Viola McFarland,Reform,11
+Marshall,2 North Holly Springs - BS21,Commissioner of Agriculture & Commerce,,Addie Lee Green,Democrat,17
+Marshall,2 North Holly Springs - BS21,Commissioner of Agriculture & Commerce,,Cindy Hyde-Smith,Republican,6
+Marshall,2 North Holly Springs - BS21,Commissioner of Agriculture & Commerce,,Cathy L Toole,Reform,0
+Marshall,2 North Holly Springs - BS21,Commissioner of Insurance,,Mike Chaney,Republican,15
+Marshall,2 North Holly Springs - BS21,State House,52,William Kincade,Republican,
+Marshall,2 North Holly Springs - BS3,Governor,,Robert Gray,Democrat,0
+Marshall,2 North Holly Springs - BS3,Governor,,Phil Bryant,Republican,5
+Marshall,2 North Holly Springs - BS3,Governor,,Shawn O'Hara,Reform,0
+Marshall,2 North Holly Springs - BS3,Lieutenant Governor,,Tim Johnson,Democrat,1
+Marshall,2 North Holly Springs - BS3,Lieutenant Governor,,Tate Reeves,Republican,4
+Marshall,2 North Holly Springs - BS3,Lieutenant Governor,,Ron Williams,Libertarian,0
+Marshall,2 North Holly Springs - BS3,Lieutenant Governor,,Rosa B. Williams,Reform,0
+Marshall,2 North Holly Springs - BS3,Secretary of State,,Charles E. Graham,Democrat,1
+Marshall,2 North Holly Springs - BS3,Secretary of State,,Delbert Hosemann,Republican,4
+Marshall,2 North Holly Springs - BS3,Secretary of State,,Randy Walker,Reform,0
+Marshall,2 North Holly Springs - BS3,Attorney General,,Jim Hood,Democrat,2
+Marshall,2 North Holly Springs - BS3,Attorney General,,Mike Hurst,Republican,3
+Marshall,2 North Holly Springs - BS3,State Auditor,,Jocelyn Pepper Pritchett,Democrat,0
+Marshall,2 North Holly Springs - BS3,State Auditor,,Stacey E. Pickering,Republican,5
+Marshall,2 North Holly Springs - BS3,State Auditor,,Lajena Walley,Reform,0
+Marshall,2 North Holly Springs - BS3,State Treasurer,,Lynn Fitch,Republican,5
+Marshall,2 North Holly Springs - BS3,State Treasurer,,Viola McFarland,Reform,0
+Marshall,2 North Holly Springs - BS3,Commissioner of Agriculture & Commerce,,Addie Lee Green,Democrat,1
+Marshall,2 North Holly Springs - BS3,Commissioner of Agriculture & Commerce,,Cindy Hyde-Smith,Republican,4
+Marshall,2 North Holly Springs - BS3,Commissioner of Agriculture & Commerce,,Cathy L Toole,Reform,0
+Marshall,2 North Holly Springs - BS3,Commissioner of Insurance,,Mike Chaney,Republican,5
+Marshall,2 Slayden,Governor,,Robert Gray,Democrat,107
+Marshall,2 Slayden,Governor,,Phil Bryant,Republican,145
+Marshall,2 Slayden,Governor,,Shawn O'Hara,Reform,3
+Marshall,2 Slayden,Lieutenant Governor,,Tim Johnson,Democrat,109
+Marshall,2 Slayden,Lieutenant Governor,,Tate Reeves,Republican,124
+Marshall,2 Slayden,Lieutenant Governor,,Ron Williams,Libertarian,7
+Marshall,2 Slayden,Lieutenant Governor,,Rosa B. Williams,Reform,1
+Marshall,2 Slayden,Secretary of State,,Charles E. Graham,Democrat,111
+Marshall,2 Slayden,Secretary of State,,Delbert Hosemann,Republican,117
+Marshall,2 Slayden,Secretary of State,,Randy Walker,Reform,14
+Marshall,2 Slayden,Attorney General,,Jim Hood,Democrat,153
+Marshall,2 Slayden,Attorney General,,Mike Hurst,Republican,96
+Marshall,2 Slayden,State Auditor,,Jocelyn Pepper Pritchett,Democrat,102
+Marshall,2 Slayden,State Auditor,,Stacey E. Pickering,Republican,133
+Marshall,2 Slayden,State Auditor,,Lajena Walley,Reform,4
+Marshall,2 Slayden,State Treasurer,,Lynn Fitch,Republican,158
+Marshall,2 Slayden,State Treasurer,,Viola McFarland,Reform,45
+Marshall,2 Slayden,Commissioner of Agriculture & Commerce,,Addie Lee Green,Democrat,108
+Marshall,2 Slayden,Commissioner of Agriculture & Commerce,,Cindy Hyde-Smith,Republican,125
+Marshall,2 Slayden,Commissioner of Agriculture & Commerce,,Cathy L Toole,Reform,5
+Marshall,2 Slayden,Commissioner of Insurance,,Mike Chaney,Republican,166
+Marshall,2 Slayden,State Senate,10,Bill Stone,Democrat,209
+Marshall,2 Slayden,State House,52,William Kincade,Republican,147
+Marshall,3 Barton,Governor,,Robert Gray,Democrat,26
+Marshall,3 Barton,Governor,,Phil Bryant,Republican,229
+Marshall,3 Barton,Governor,,Shawn O'Hara,Reform,0
+Marshall,3 Barton,Lieutenant Governor,,Tim Johnson,Democrat,38
+Marshall,3 Barton,Lieutenant Governor,,Tate Reeves,Republican,197
+Marshall,3 Barton,Lieutenant Governor,,Ron Williams,Libertarian,10
+Marshall,3 Barton,Lieutenant Governor,,Rosa B. Williams,Reform,0
+Marshall,3 Barton,Secretary of State,,Charles E. Graham,Democrat,41
+Marshall,3 Barton,Secretary of State,,Delbert Hosemann,Republican,198
+Marshall,3 Barton,Secretary of State,,Randy Walker,Reform,6
+Marshall,3 Barton,Attorney General,,Jim Hood,Democrat,77
+Marshall,3 Barton,Attorney General,,Mike Hurst,Republican,172
+Marshall,3 Barton,State Auditor,,Jocelyn Pepper Pritchett,Democrat,33
+Marshall,3 Barton,State Auditor,,Stacey E. Pickering,Republican,211
+Marshall,3 Barton,State Auditor,,Lajena Walley,Reform,2
+Marshall,3 Barton,State Treasurer,,Lynn Fitch,Republican,221
+Marshall,3 Barton,State Treasurer,,Viola McFarland,Reform,14
+Marshall,3 Barton,Commissioner of Agriculture & Commerce,,Addie Lee Green,Democrat,35
+Marshall,3 Barton,Commissioner of Agriculture & Commerce,,Cindy Hyde-Smith,Republican,196
+Marshall,3 Barton,Commissioner of Agriculture & Commerce,,Cathy L Toole,Reform,8
+Marshall,3 Barton,Commissioner of Insurance,,Mike Chaney,Republican,217
+Marshall,3 Barton,State Senate,19,Kevin Blackwell,Republican,219
+Marshall,3 Barton,State House,52,William Kincade,Republican,217
+Marshall,3 Byhalia,Governor,,Robert Gray,Democrat,161
+Marshall,3 Byhalia,Governor,,Phil Bryant,Republican,370
+Marshall,3 Byhalia,Governor,,Shawn O'Hara,Reform,7
+Marshall,3 Byhalia,Lieutenant Governor,,Tim Johnson,Democrat,179
+Marshall,3 Byhalia,Lieutenant Governor,,Tate Reeves,Republican,312
+Marshall,3 Byhalia,Lieutenant Governor,,Ron Williams,Libertarian,20
+Marshall,3 Byhalia,Lieutenant Governor,,Rosa B. Williams,Reform,6
+Marshall,3 Byhalia,Secretary of State,,Charles E. Graham,Democrat,195
+Marshall,3 Byhalia,Secretary of State,,Delbert Hosemann,Republican,300
+Marshall,3 Byhalia,Secretary of State,,Randy Walker,Reform,24
+Marshall,3 Byhalia,Attorney General,,Jim Hood,Democrat,271
+Marshall,3 Byhalia,Attorney General,,Mike Hurst,Republican,250
+Marshall,3 Byhalia,State Auditor,,Jocelyn Pepper Pritchett,Democrat,185
+Marshall,3 Byhalia,State Auditor,,Stacey E. Pickering,Republican,319
+Marshall,3 Byhalia,State Auditor,,Lajena Walley,Reform,6
+Marshall,3 Byhalia,State Treasurer,,Lynn Fitch,Republican,367
+Marshall,3 Byhalia,State Treasurer,,Viola McFarland,Reform,89
+Marshall,3 Byhalia,Commissioner of Agriculture & Commerce,,Addie Lee Green,Democrat,193
+Marshall,3 Byhalia,Commissioner of Agriculture & Commerce,,Cindy Hyde-Smith,Republican,316
+Marshall,3 Byhalia,Commissioner of Agriculture & Commerce,,Cathy L Toole,Reform,11
+Marshall,3 Byhalia,Commissioner of Insurance,,Mike Chaney,Republican,407
+Marshall,3 Byhalia,State Senate,19,Kevin Blackwell,Republican,380
+Marshall,3 Byhalia,State House,52,William Kincade,Republican,397
+Marshall,3 Cayce - BS8,Governor,,Robert Gray,Democrat,91
+Marshall,3 Cayce - BS8,Governor,,Phil Bryant,Republican,41
+Marshall,3 Cayce - BS8,Governor,,Shawn O'Hara,Reform,2
+Marshall,3 Cayce - BS8,Lieutenant Governor,,Tim Johnson,Democrat,94
+Marshall,3 Cayce - BS8,Lieutenant Governor,,Tate Reeves,Republican,32
+Marshall,3 Cayce - BS8,Lieutenant Governor,,Ron Williams,Libertarian,5
+Marshall,3 Cayce - BS8,Lieutenant Governor,,Rosa B. Williams,Reform,2
+Marshall,3 Cayce - BS8,Secretary of State,,Charles E. Graham,Democrat,94
+Marshall,3 Cayce - BS8,Secretary of State,,Delbert Hosemann,Republican,34
+Marshall,3 Cayce - BS8,Secretary of State,,Randy Walker,Reform,3
+Marshall,3 Cayce - BS8,Attorney General,,Jim Hood,Democrat,102
+Marshall,3 Cayce - BS8,Attorney General,,Mike Hurst,Republican,30
+Marshall,3 Cayce - BS8,State Auditor,,Jocelyn Pepper Pritchett,Democrat,95
+Marshall,3 Cayce - BS8,State Auditor,,Stacey E. Pickering,Republican,36
+Marshall,3 Cayce - BS8,State Auditor,,Lajena Walley,Reform,1
+Marshall,3 Cayce - BS8,State Treasurer,,Lynn Fitch,Republican,50
+Marshall,3 Cayce - BS8,State Treasurer,,Viola McFarland,Reform,43
+Marshall,3 Cayce - BS8,Commissioner of Agriculture & Commerce,,Addie Lee Green,Democrat,96
+Marshall,3 Cayce - BS8,Commissioner of Agriculture & Commerce,,Cindy Hyde-Smith,Republican,34
+Marshall,3 Cayce - BS8,Commissioner of Agriculture & Commerce,,Cathy L Toole,Reform,4
+Marshall,3 Cayce - BS8,Commissioner of Insurance,,Mike Chaney,Republican,70
+Marshall,3 Cayce,State Senate,19,Kevin Blackwell,Republican,103
+Marshall,3 Cayce - BS8,State House,5,John Faulkner,Democrat,118
+Marshall,3 Cayce - BS1,Governor,,Robert Gray,Democrat,10
+Marshall,3 Cayce - BS1,Governor,,Phil Bryant,Republican,36
+Marshall,3 Cayce - BS1,Governor,,Shawn O'Hara,Reform,0
+Marshall,3 Cayce - BS1,Lieutenant Governor,,Tim Johnson,Democrat,12
+Marshall,3 Cayce - BS1,Lieutenant Governor,,Tate Reeves,Republican,32
+Marshall,3 Cayce - BS1,Lieutenant Governor,,Ron Williams,Libertarian,2
+Marshall,3 Cayce - BS1,Lieutenant Governor,,Rosa B. Williams,Reform,0
+Marshall,3 Cayce - BS1,Secretary of State,,Charles E. Graham,Democrat,11
+Marshall,3 Cayce - BS1,Secretary of State,,Delbert Hosemann,Republican,27
+Marshall,3 Cayce - BS1,Secretary of State,,Randy Walker,Reform,4
+Marshall,3 Cayce - BS1,Attorney General,,Jim Hood,Democrat,21
+Marshall,3 Cayce - BS1,Attorney General,,Mike Hurst,Republican,23
+Marshall,3 Cayce - BS1,State Auditor,,Jocelyn Pepper Pritchett,Democrat,11
+Marshall,3 Cayce - BS1,State Auditor,,Stacey E. Pickering,Republican,31
+Marshall,3 Cayce - BS1,State Auditor,,Lajena Walley,Reform,0
+Marshall,3 Cayce - BS1,State Treasurer,,Lynn Fitch,Republican,31
+Marshall,3 Cayce - BS1,State Treasurer,,Viola McFarland,Reform,8
+Marshall,3 Cayce - BS1,Commissioner of Agriculture & Commerce,,Addie Lee Green,Democrat,13
+Marshall,3 Cayce - BS1,Commissioner of Agriculture & Commerce,,Cindy Hyde-Smith,Republican,26
+Marshall,3 Cayce - BS1,Commissioner of Agriculture & Commerce,,Cathy L Toole,Reform,4
+Marshall,3 Cayce - BS1,Commissioner of Insurance,,Mike Chaney,Republican,38
+Marshall,3 Cayce - BS1,State House,52,William Kincade,Republican,35
+Marshall,4 Chulahoma,Governor,,Robert Gray,Democrat,221
+Marshall,4 Chulahoma,Governor,,Phil Bryant,Republican,40
+Marshall,4 Chulahoma,Governor,,Shawn O'Hara,Reform,3
+Marshall,4 Chulahoma,Lieutenant Governor,,Tim Johnson,Democrat,227
+Marshall,4 Chulahoma,Lieutenant Governor,,Tate Reeves,Republican,26
+Marshall,4 Chulahoma,Lieutenant Governor,,Ron Williams,Libertarian,1
+Marshall,4 Chulahoma,Lieutenant Governor,,Rosa B. Williams,Reform,2
+Marshall,4 Chulahoma,Secretary of State,,Charles E. Graham,Democrat,226
+Marshall,4 Chulahoma,Secretary of State,,Delbert Hosemann,Republican,20
+Marshall,4 Chulahoma,Secretary of State,,Randy Walker,Reform,12
+Marshall,4 Chulahoma,Attorney General,,Jim Hood,Democrat,235
+Marshall,4 Chulahoma,Attorney General,,Mike Hurst,Republican,21
+Marshall,4 Chulahoma,State Auditor,,Jocelyn Pepper Pritchett,Democrat,217
+Marshall,4 Chulahoma,State Auditor,,Stacey E. Pickering,Republican,32
+Marshall,4 Chulahoma,State Auditor,,Lajena Walley,Reform,6
+Marshall,4 Chulahoma,State Treasurer,,Lynn Fitch,Republican,66
+Marshall,4 Chulahoma,State Treasurer,,Viola McFarland,Reform,76
+Marshall,4 Chulahoma,Commissioner of Agriculture & Commerce,,Addie Lee Green,Democrat,229
+Marshall,4 Chulahoma,Commissioner of Agriculture & Commerce,,Cindy Hyde-Smith,Republican,27
+Marshall,4 Chulahoma,Commissioner of Agriculture & Commerce,,Cathy L Toole,Reform,2
+Marshall,4 Chulahoma,Commissioner of Insurance,,Mike Chaney,Republican,95
+Marshall,4 Chulahoma,State Senate,10,Bill Stone,Democrat,206
+Marshall,4 Chulahoma,State House,5,John Faulkner,Democrat,202
+Marshall,4 Laws Hill,Governor,,Robert Gray,Democrat,49
+Marshall,4 Laws Hill,Governor,,Phil Bryant,Republican,65
+Marshall,4 Laws Hill,Governor,,Shawn O'Hara,Reform,0
+Marshall,4 Laws Hill,Lieutenant Governor,,Tim Johnson,Democrat,53
+Marshall,4 Laws Hill,Lieutenant Governor,,Tate Reeves,Republican,52
+Marshall,4 Laws Hill,Lieutenant Governor,,Ron Williams,Libertarian,2
+Marshall,4 Laws Hill,Lieutenant Governor,,Rosa B. Williams,Reform,2
+Marshall,4 Laws Hill,Secretary of State,,Charles E. Graham,Democrat,56
+Marshall,4 Laws Hill,Secretary of State,,Delbert Hosemann,Republican,47
+Marshall,4 Laws Hill,Secretary of State,,Randy Walker,Reform,4
+Marshall,4 Laws Hill,Attorney General,,Jim Hood,Democrat,66
+Marshall,4 Laws Hill,Attorney General,,Mike Hurst,Republican,44
+Marshall,4 Laws Hill,State Auditor,,Jocelyn Pepper Pritchett,Democrat,51
+Marshall,4 Laws Hill,State Auditor,,Stacey E. Pickering,Republican,56
+Marshall,4 Laws Hill,State Auditor,,Lajena Walley,Reform,1
+Marshall,4 Laws Hill,State Treasurer,,Lynn Fitch,Republican,70
+Marshall,4 Laws Hill,State Treasurer,,Viola McFarland,Reform,14
+Marshall,4 Laws Hill,Commissioner of Agriculture & Commerce,,Addie Lee Green,Democrat,49
+Marshall,4 Laws Hill,Commissioner of Agriculture & Commerce,,Cindy Hyde-Smith,Republican,58
+Marshall,4 Laws Hill,Commissioner of Agriculture & Commerce,,Cathy L Toole,Reform,1
+Marshall,4 Laws Hill,Commissioner of Insurance,,Mike Chaney,Republican,76
+Marshall,4 Laws Hill,State Senate,10,Bill Stone,Democrat,96
+Marshall,4 Laws Hill,State House,5,John Faulkner,Republican,90
+Marshall,4 Marianna,Governor,,Robert Gray,Democrat,149
+Marshall,4 Marianna,Governor,,Phil Bryant,Republican,94
+Marshall,4 Marianna,Governor,,Shawn O'Hara,Reform,5
+Marshall,4 Marianna,Lieutenant Governor,,Tim Johnson,Democrat,149
+Marshall,4 Marianna,Lieutenant Governor,,Tate Reeves,Republican,81
+Marshall,4 Marianna,Lieutenant Governor,,Ron Williams,Libertarian,3
+Marshall,4 Marianna,Lieutenant Governor,,Rosa B. Williams,Reform,8
+Marshall,4 Marianna,Secretary of State,,Charles E. Graham,Democrat,152
+Marshall,4 Marianna,Secretary of State,,Delbert Hosemann,Republican,70
+Marshall,4 Marianna,Secretary of State,,Randy Walker,Reform,18
+Marshall,4 Marianna,Attorney General,,Jim Hood,Democrat,170
+Marshall,4 Marianna,Attorney General,,Mike Hurst,Republican,73
+Marshall,4 Marianna,State Auditor,,Jocelyn Pepper Pritchett,Democrat,150
+Marshall,4 Marianna,State Auditor,,Stacey E. Pickering,Republican,84
+Marshall,4 Marianna,State Auditor,,Lajena Walley,Reform,5
+Marshall,4 Marianna,State Treasurer,,Lynn Fitch,Republican,121
+Marshall,4 Marianna,State Treasurer,,Viola McFarland,Reform,60
+Marshall,4 Marianna,Commissioner of Agriculture & Commerce,,Addie Lee Green,Democrat,154
+Marshall,4 Marianna,Commissioner of Agriculture & Commerce,,Cindy Hyde-Smith,Republican,80
+Marshall,4 Marianna,Commissioner of Agriculture & Commerce,,Cathy L Toole,Reform,8
+Marshall,4 Marianna,Commissioner of Insurance,,Mike Chaney,Republican,149
+Marshall,4 Marianna,State Senate,10,Bill Stone,Democrat,216
+Marshall,4 Marianna,State House,5,John Faulkner,Republican,217
+Marshall,4 Victoria,Governor,,Robert Gray,Democrat,130
+Marshall,4 Victoria,Governor,,Phil Bryant,Republican,45
+Marshall,4 Victoria,Governor,,Shawn O'Hara,Reform,1
+Marshall,4 Victoria,Lieutenant Governor,,Tim Johnson,Democrat,128
+Marshall,4 Victoria,Lieutenant Governor,,Tate Reeves,Republican,38
+Marshall,4 Victoria,Lieutenant Governor,,Ron Williams,Libertarian,3
+Marshall,4 Victoria,Lieutenant Governor,,Rosa B. Williams,Reform,2
+Marshall,4 Victoria,Secretary of State,,Charles E. Graham,Democrat,130
+Marshall,4 Victoria,Secretary of State,,Delbert Hosemann,Republican,37
+Marshall,4 Victoria,Secretary of State,,Randy Walker,Reform,7
+Marshall,4 Victoria,Attorney General,,Jim Hood,Democrat,140
+Marshall,4 Victoria,Attorney General,,Mike Hurst,Republican,31
+Marshall,4 Victoria,State Auditor,,Jocelyn Pepper Pritchett,Democrat,122
+Marshall,4 Victoria,State Auditor,,Stacey E. Pickering,Republican,49
+Marshall,4 Victoria,State Auditor,,Lajena Walley,Reform,2
+Marshall,4 Victoria,State Treasurer,,Lynn Fitch,Republican,58
+Marshall,4 Victoria,State Treasurer,,Viola McFarland,Reform,20
+Marshall,4 Victoria,Commissioner of Agriculture & Commerce,,Addie Lee Green,Democrat,131
+Marshall,4 Victoria,Commissioner of Agriculture & Commerce,,Cindy Hyde-Smith,Republican,40
+Marshall,4 Victoria,Commissioner of Agriculture & Commerce,,Cathy L Toole,Reform,1
+Marshall,4 Victoria,Commissioner of Insurance,,Mike Chaney,Republican,60
+Marshall,4 Victoria,State Senate,19,William Kincade,Republican,67
+Marshall,4 Victoria,State House,5,John Faulkner,Democrat,111
+Marshall,4 Wall Hill,Governor,,Robert Gray,Democrat,176
+Marshall,4 Wall Hill,Governor,,Phil Bryant,Republican,79
+Marshall,4 Wall Hill,Governor,,Shawn O'Hara,Reform,2
+Marshall,4 Wall Hill,Lieutenant Governor,,Tim Johnson,Democrat,184
+Marshall,4 Wall Hill,Lieutenant Governor,,Tate Reeves,Republican,54
+Marshall,4 Wall Hill,Lieutenant Governor,,Ron Williams,Libertarian,12
+Marshall,4 Wall Hill,Lieutenant Governor,,Rosa B. Williams,Reform,2
+Marshall,4 Wall Hill,Secretary of State,,Charles E. Graham,Democrat,190
+Marshall,4 Wall Hill,Secretary of State,,Delbert Hosemann,Republican,51
+Marshall,4 Wall Hill,Secretary of State,,Randy Walker,Reform,8
+Marshall,4 Wall Hill,Attorney General,,Jim Hood,Democrat,198
+Marshall,4 Wall Hill,Attorney General,,Mike Hurst,Republican,49
+Marshall,4 Wall Hill,State Auditor,,Jocelyn Pepper Pritchett,Democrat,184
+Marshall,4 Wall Hill,State Auditor,,Stacey E. Pickering,Republican,62
+Marshall,4 Wall Hill,State Auditor,,Lajena Walley,Reform,2
+Marshall,4 Wall Hill,State Treasurer,,Lynn Fitch,Republican,96
+Marshall,4 Wall Hill,State Treasurer,,Viola McFarland,Reform,71
+Marshall,4 Wall Hill,Commissioner of Agriculture & Commerce,,Addie Lee Green,Democrat,185
+Marshall,4 Wall Hill,Commissioner of Agriculture & Commerce,,Cindy Hyde-Smith,Republican,52
+Marshall,4 Wall Hill,Commissioner of Agriculture & Commerce,,Cathy L Toole,Reform,12
+Marshall,4 Wall Hill,Commissioner of Insurance,,Mike Chaney,Republican,129
+Marshall,4 Wall Hill,State Senate,10,Bill Stone,Democrat,221
+Marshall,4 Wall Hill,State House,5,John Faulkner,Democrat,219
+Marshall,4 Warsaw,Governor,,Robert Gray,Democrat,121
+Marshall,4 Warsaw,Governor,,Phil Bryant,Republican,79
+Marshall,4 Warsaw,Governor,,Shawn O'Hara,Reform,2
+Marshall,4 Warsaw,Lieutenant Governor,,Tim Johnson,Democrat,123
+Marshall,4 Warsaw,Lieutenant Governor,,Tate Reeves,Republican,63
+Marshall,4 Warsaw,Lieutenant Governor,,Ron Williams,Libertarian,5
+Marshall,4 Warsaw,Lieutenant Governor,,Rosa B. Williams,Reform,3
+Marshall,4 Warsaw,Secretary of State,,Charles E. Graham,Democrat,129
+Marshall,4 Warsaw,Secretary of State,,Delbert Hosemann,Republican,57
+Marshall,4 Warsaw,Secretary of State,,Randy Walker,Reform,11
+Marshall,4 Warsaw,Attorney General,,Jim Hood,Democrat,135
+Marshall,4 Warsaw,Attorney General,,Mike Hurst,Republican,54
+Marshall,4 Warsaw,State Auditor,,Jocelyn Pepper Pritchett,Democrat,125
+Marshall,4 Warsaw,State Auditor,,Stacey E. Pickering,Republican,67
+Marshall,4 Warsaw,State Auditor,,Lajena Walley,Reform,2
+Marshall,4 Warsaw,State Treasurer,,Lynn Fitch,Republican,98
+Marshall,4 Warsaw,State Treasurer,,Viola McFarland,Reform,40
+Marshall,4 Warsaw,Commissioner of Agriculture & Commerce,,Addie Lee Green,Democrat,132
+Marshall,4 Warsaw,Commissioner of Agriculture & Commerce,,Cindy Hyde-Smith,Republican,57
+Marshall,4 Warsaw,Commissioner of Agriculture & Commerce,,Cathy L Toole,Reform,6
+Marshall,4 Warsaw,Commissioner of Insurance,,Mike Chaney,Republican,108
+Marshall,4 Warsaw,State Senate,10,Bill Stone,Democrat,161
+Marshall,4 Warsaw,State House,5,John Faulkner,Democrat,155
+Marshall,4 Watson,Governor,,Robert Gray,Democrat,77
+Marshall,4 Watson,Governor,,Phil Bryant,Republican,122
+Marshall,4 Watson,Governor,,Shawn O'Hara,Reform,2
+Marshall,4 Watson,Lieutenant Governor,,Tim Johnson,Democrat,81
+Marshall,4 Watson,Lieutenant Governor,,Tate Reeves,Republican,107
+Marshall,4 Watson,Lieutenant Governor,,Ron Williams,Libertarian,4
+Marshall,4 Watson,Lieutenant Governor,,Rosa B. Williams,Reform,1
+Marshall,4 Watson,Secretary of State,,Charles E. Graham,Democrat,86
+Marshall,4 Watson,Secretary of State,,Delbert Hosemann,Republican,103
+Marshall,4 Watson,Secretary of State,,Randy Walker,Reform,6
+Marshall,4 Watson,Attorney General,,Jim Hood,Democrat,109
+Marshall,4 Watson,Attorney General,,Mike Hurst,Republican,85
+Marshall,4 Watson,State Auditor,,Jocelyn Pepper Pritchett,Democrat,77
+Marshall,4 Watson,State Auditor,,Stacey E. Pickering,Republican,115
+Marshall,4 Watson,State Auditor,,Lajena Walley,Reform,3
+Marshall,4 Watson,State Treasurer,,Lynn Fitch,Republican,133
+Marshall,4 Watson,State Treasurer,,Viola McFarland,Reform,31
+Marshall,4 Watson,Commissioner of Agriculture & Commerce,,Addie Lee Green,Democrat,89
+Marshall,4 Watson,Commissioner of Agriculture & Commerce,,Cindy Hyde-Smith,Republican,105
+Marshall,4 Watson,Commissioner of Agriculture & Commerce,,Cathy L Toole,Reform,2
+Marshall,4 Watson,Commissioner of Insurance,,Mike Chaney,Republican,145
+Marshall,4 Watson,State Senate,10,Bill Stone,Democrat,160
+Marshall,4 Watson,State House,5,John Faulkner,Democrat,155
+Marshall,5 Bethlehem,Governor,,Robert Gray,Democrat,18
+Marshall,5 Bethlehem,Governor,,Phil Bryant,Republican,174
+Marshall,5 Bethlehem,Governor,,Shawn O'Hara,Reform,0
+Marshall,5 Bethlehem,Lieutenant Governor,,Tim Johnson,Democrat,30
+Marshall,5 Bethlehem,Lieutenant Governor,,Tate Reeves,Republican,151
+Marshall,5 Bethlehem,Lieutenant Governor,,Ron Williams,Libertarian,4
+Marshall,5 Bethlehem,Lieutenant Governor,,Rosa B. Williams,Reform,0
+Marshall,5 Bethlehem,Secretary of State,,Charles E. Graham,Democrat,29
+Marshall,5 Bethlehem,Secretary of State,,Delbert Hosemann,Republican,136
+Marshall,5 Bethlehem,Secretary of State,,Randy Walker,Reform,19
+Marshall,5 Bethlehem,Attorney General,,Jim Hood,Democrat,88
+Marshall,5 Bethlehem,Attorney General,,Mike Hurst,Republican,99
+Marshall,5 Bethlehem,State Auditor,,Jocelyn Pepper Pritchett,Democrat,20
+Marshall,5 Bethlehem,State Auditor,,Stacey E. Pickering,Republican,157
+Marshall,5 Bethlehem,State Auditor,,Lajena Walley,Reform,3
+Marshall,5 Bethlehem,State Treasurer,,Lynn Fitch,Republican,171
+Marshall,5 Bethlehem,State Treasurer,,Viola McFarland,Reform,8
+Marshall,5 Bethlehem,Commissioner of Agriculture & Commerce,,Addie Lee Green,Democrat,39
+Marshall,5 Bethlehem,Commissioner of Agriculture & Commerce,,Cindy Hyde-Smith,Republican,135
+Marshall,5 Bethlehem,Commissioner of Agriculture & Commerce,,Cathy L Toole,Reform,4
+Marshall,5 Bethlehem,Commissioner of Insurance,,Mike Chaney,Republican,160
+Marshall,5 Bethlehem,State Senate,10,Bill Stone,Democrat,163
+Marshall,5 Bethlehem,State House,13,Justin Cluck,Democrat,57
+Marshall,5 Bethlehem,State House,13,Steve Massengill,Republican,134
+Marshall,5 Connersville,Governor,,Robert Gray,Democrat,6
+Marshall,5 Connersville,Governor,,Phil Bryant,Republican,74
+Marshall,5 Connersville,Governor,,Shawn O'Hara,Reform,0
+Marshall,5 Connersville,Lieutenant Governor,,Tim Johnson,Democrat,10
+Marshall,5 Connersville,Lieutenant Governor,,Tate Reeves,Republican,65
+Marshall,5 Connersville,Lieutenant Governor,,Ron Williams,Libertarian,0
+Marshall,5 Connersville,Lieutenant Governor,,Rosa B. Williams,Reform,1
+Marshall,5 Connersville,Secretary of State,,Charles E. Graham,Democrat,8
+Marshall,5 Connersville,Secretary of State,,Delbert Hosemann,Republican,54
+Marshall,5 Connersville,Secretary of State,,Randy Walker,Reform,12
+Marshall,5 Connersville,Attorney General,,Jim Hood,Democrat,20
+Marshall,5 Connersville,Attorney General,,Mike Hurst,Republican,56
+Marshall,5 Connersville,State Auditor,,Jocelyn Pepper Pritchett,Democrat,6
+Marshall,5 Connersville,State Auditor,,Stacey E. Pickering,Republican,67
+Marshall,5 Connersville,State Auditor,,Lajena Walley,Reform,1
+Marshall,5 Connersville,State Treasurer,,Lynn Fitch,Republican,74
+Marshall,5 Connersville,State Treasurer,,Viola McFarland,Reform,2
+Marshall,5 Connersville,Commissioner of Agriculture & Commerce,,Addie Lee Green,Democrat,10
+Marshall,5 Connersville,Commissioner of Agriculture & Commerce,,Cindy Hyde-Smith,Republican,65
+Marshall,5 Connersville,Commissioner of Agriculture & Commerce,,Cathy L Toole,Reform,0
+Marshall,5 Connersville,Commissioner of Insurance,,Mike Chaney,Republican,73
+Marshall,5 Connersville,State Senate,10,Bill Stone,Democrat,61
+Marshall,5 Connersville,State House,13,Justin Cluck,Democrat,16
+Marshall,5 Connersville,State House,13,Steve Massengill,Republican,64
+Marshall,5 Potts Camp - BS10,Governor,,Robert Gray,Democrat,0
+Marshall,5 Potts Camp - BS10,Governor,,Phil Bryant,Republican,1
+Marshall,5 Potts Camp - BS10,Governor,,Shawn O'Hara,Reform,0
+Marshall,5 Potts Camp - BS10,Lieutenant Governor,,Tim Johnson,Democrat,0
+Marshall,5 Potts Camp - BS10,Lieutenant Governor,,Tate Reeves,Republican,1
+Marshall,5 Potts Camp - BS10,Lieutenant Governor,,Ron Williams,Libertarian,0
+Marshall,5 Potts Camp - BS10,Lieutenant Governor,,Rosa B. Williams,Reform,0
+Marshall,5 Potts Camp - BS10,Secretary of State,,Charles E. Graham,Democrat,0
+Marshall,5 Potts Camp - BS10,Secretary of State,,Delbert Hosemann,Republican,1
+Marshall,5 Potts Camp - BS10,Secretary of State,,Randy Walker,Reform,0
+Marshall,5 Potts Camp - BS10,Attorney General,,Jim Hood,Democrat,0
+Marshall,5 Potts Camp - BS10,Attorney General,,Mike Hurst,Republican,1
+Marshall,5 Potts Camp - BS10,State Auditor,,Jocelyn Pepper Pritchett,Democrat,0
+Marshall,5 Potts Camp - BS10,State Auditor,,Stacey E. Pickering,Republican,1
+Marshall,5 Potts Camp - BS10,State Auditor,,Lajena Walley,Reform,0
+Marshall,5 Potts Camp - BS10,State Treasurer,,Lynn Fitch,Republican,1
+Marshall,5 Potts Camp - BS10,State Treasurer,,Viola McFarland,Reform,0
+Marshall,5 Potts Camp - BS10,Commissioner of Agriculture & Commerce,,Addie Lee Green,Democrat,0
+Marshall,5 Potts Camp - BS10,Commissioner of Agriculture & Commerce,,Cindy Hyde-Smith,Republican,0
+Marshall,5 Potts Camp - BS10,Commissioner of Agriculture & Commerce,,Cathy L Toole,Reform,0
+Marshall,5 Potts Camp - BS10,Commissioner of Insurance,,Mike Chaney,Republican,0
+Marshall,5 Potts Camp - BS10,State House,13,Justin Cluck,Democrat,0
+Marshall,5 Potts Camp - BS10,State House,13,Steve Massengill,Republican,0
+Marshall,5 Potts Camp - BS5,Governor,,Robert Gray,Democrat,117
+Marshall,5 Potts Camp - BS5,Governor,,Phil Bryant,Republican,284
+Marshall,5 Potts Camp - BS5,Governor,,Shawn O'Hara,Reform,4
+Marshall,5 Potts Camp - BS5,Lieutenant Governor,,Tim Johnson,Democrat,164
+Marshall,5 Potts Camp - BS5,Lieutenant Governor,,Tate Reeves,Republican,223
+Marshall,5 Potts Camp - BS5,Lieutenant Governor,,Ron Williams,Libertarian,7
+Marshall,5 Potts Camp - BS5,Lieutenant Governor,,Rosa B. Williams,Reform,6
+Marshall,5 Potts Camp - BS5,Secretary of State,,Charles E. Graham,Democrat,144
+Marshall,5 Potts Camp - BS5,Secretary of State,,Delbert Hosemann,Republican,213
+Marshall,5 Potts Camp - BS5,Secretary of State,,Randy Walker,Reform,46
+Marshall,5 Potts Camp - BS5,Attorney General,,Jim Hood,Democrat,260
+Marshall,5 Potts Camp - BS5,Attorney General,,Mike Hurst,Republican,151
+Marshall,5 Potts Camp - BS5,State Auditor,,Jocelyn Pepper Pritchett,Democrat,122
+Marshall,5 Potts Camp - BS5,State Auditor,,Stacey E. Pickering,Republican,267
+Marshall,5 Potts Camp - BS5,State Auditor,,Lajena Walley,Reform,10
+Marshall,5 Potts Camp - BS5,State Treasurer,,Lynn Fitch,Republican,322
+Marshall,5 Potts Camp - BS5,State Treasurer,,Viola McFarland,Reform,56
+Marshall,5 Potts Camp - BS5,Commissioner of Agriculture & Commerce,,Addie Lee Green,Democrat,177
+Marshall,5 Potts Camp - BS5,Commissioner of Agriculture & Commerce,,Cindy Hyde-Smith,Republican,207
+Marshall,5 Potts Camp - BS5,Commissioner of Agriculture & Commerce,,Cathy L Toole,Reform,13
+Marshall,5 Potts Camp - BS5,Commissioner of Insurance,,Mike Chaney,Republican,324
+Marshall,5 Potts Camp,State Senate,10,Bill Stone,Democrat,363
+Marshall,5 Potts Camp - BS5,State House,13,Justin Cluck,Democrat,215
+Marshall,5 Potts Camp - BS5,State House,13,Steve Massengill,Republican,202
+Marshall,5 South Holly Sprs,Governor,,Robert Gray,Democrat,425
+Marshall,5 South Holly Sprs,Governor,,Phil Bryant,Republican,439
+Marshall,5 South Holly Sprs,Governor,,Shawn O'Hara,Reform,11
+Marshall,5 South Holly Sprs,Lieutenant Governor,,Tim Johnson,Democrat,468
+Marshall,5 South Holly Sprs,Lieutenant Governor,,Tate Reeves,Republican,350
+Marshall,5 South Holly Sprs,Lieutenant Governor,,Ron Williams,Libertarian,15
+Marshall,5 South Holly Sprs,Lieutenant Governor,,Rosa B. Williams,Reform,21
+Marshall,5 South Holly Sprs,Secretary of State,,Charles E. Graham,Democrat,455
+Marshall,5 South Holly Sprs,Secretary of State,,Delbert Hosemann,Republican,339
+Marshall,5 South Holly Sprs,Secretary of State,,Randy Walker,Reform,55
+Marshall,5 South Holly Sprs,Attorney General,,Jim Hood,Democrat,607
+Marshall,5 South Holly Sprs,Attorney General,,Mike Hurst,Republican,247
+Marshall,5 South Holly Sprs,State Auditor,,Jocelyn Pepper Pritchett,Democrat,432
+Marshall,5 South Holly Sprs,State Auditor,,Stacey E. Pickering,Republican,400
+Marshall,5 South Holly Sprs,State Auditor,,Lajena Walley,Reform,13
+Marshall,5 South Holly Sprs,State Treasurer,,Lynn Fitch,Republican,527
+Marshall,5 South Holly Sprs,State Treasurer,,Viola McFarland,Reform,188
+Marshall,5 South Holly Sprs,Commissioner of Agriculture & Commerce,,Addie Lee Green,Democrat,472
+Marshall,5 South Holly Sprs,Commissioner of Agriculture & Commerce,,Cindy Hyde-Smith,Republican,351
+Marshall,5 South Holly Sprs,Commissioner of Agriculture & Commerce,,Cathy L Toole,Reform,21
+Marshall,5 South Holly Sprs,Commissioner of Insurance,,Mike Chaney,Republican,618
+Marshall,5 South Holly Sprs,State Senate,10,Bill Stone,Democrat,822
+Marshall,5 South Holly Sprs,State House,5,John Faulkner,Democrat,765
+Marshall,5 Waterford,Governor,,Robert Gray,Democrat,92
+Marshall,5 Waterford,Governor,,Phil Bryant,Republican,173
+Marshall,5 Waterford,Governor,,Shawn O'Hara,Reform,3
+Marshall,5 Waterford,Lieutenant Governor,,Tim Johnson,Democrat,106
+Marshall,5 Waterford,Lieutenant Governor,,Tate Reeves,Republican,148
+Marshall,5 Waterford,Lieutenant Governor,,Ron Williams,Libertarian,6
+Marshall,5 Waterford,Lieutenant Governor,,Rosa B. Williams,Reform,2
+Marshall,5 Waterford,Secretary of State,,Charles E. Graham,Democrat,110
+Marshall,5 Waterford,Secretary of State,,Delbert Hosemann,Republican,133
+Marshall,5 Waterford,Secretary of State,,Randy Walker,Reform,18
+Marshall,5 Waterford,Attorney General,,Jim Hood,Democrat,154
+Marshall,5 Waterford,Attorney General,,Mike Hurst,Republican,106
+Marshall,5 Waterford,State Auditor,,Jocelyn Pepper Pritchett,Democrat,103
+Marshall,5 Waterford,State Auditor,,Stacey E. Pickering,Republican,153
+Marshall,5 Waterford,State Auditor,,Lajena Walley,Reform,4
+Marshall,5 Waterford,State Treasurer,,Lynn Fitch,Republican,194
+Marshall,5 Waterford,State Treasurer,,Viola McFarland,Reform,48
+Marshall,5 Waterford,Commissioner of Agriculture & Commerce,,Addie Lee Green,Democrat,108
+Marshall,5 Waterford,Commissioner of Agriculture & Commerce,,Cindy Hyde-Smith,Republican,142
+Marshall,5 Waterford,Commissioner of Agriculture & Commerce,,Cathy L Toole,Reform,10
+Marshall,5 Waterford,Commissioner of Insurance,,Mike Chaney,Republican,213
+Marshall,5 Waterford,State Senate,10,Bill Stone,Democrat,226
+Marshall,5 Waterford,State House,5,John Faulkner,Democrat,205
+Marshall,,Governor,,Robert Gray,Democrat,3105
+Marshall,,Governor,,Phil Bryant,Republican,3412
+Marshall,,Governor,,Shawn O'Hara,Reform,68
+Marshall,,Lieutenant Governor,,Tim Johnson,Democrat,3392
+Marshall,,Lieutenant Governor,,Tate Reeves,Republican,2744
+Marshall,,Lieutenant Governor,,Ron Williams,Libertarian,152
+Marshall,,Lieutenant Governor,,Rosa B. Williams,Reform,103
+Marshall,,Secretary of State,,Charles E. Graham,Democrat,3426
+Marshall,,Secretary of State,,Delbert Hosemann,Republican,2588
+Marshall,,Secretary of State,,Randy Walker,Reform,376
+Marshall,,Attorney General,,Jim Hood,Democrat,4290
+Marshall,,Attorney General,,Mike Hurst,Republican,2136
+Marshall,,State Auditor,,Jocelyn Pepper Pritchett,Democrat,3228
+Marshall,,State Auditor,,Stacey E. Pickering,Republican,3018
+Marshall,,State Auditor,,Lajena Walley,Reform,100
+Marshall,,State Treasurer,,Lynn Fitch,Republican,3879
+Marshall,,State Treasurer,,Viola McFarland,Reform,1383
+Marshall,,Commissioner of Agriculture & Commerce,,Addie Lee Green,Democrat,3483
+Marshall,,Commissioner of Agriculture & Commerce,,Cindy Hyde-Smith,Republican,2706
+Marshall,,Commissioner of Agriculture & Commerce,,Cathy L Toole,Reform,169
+Marshall,,Commissioner of Insurance,,Mike Chaney,Republican,4401
+Marshall,,State Senate,10,Bill Stone,Democrat,4533
+Marshall,,State Senate,19,William Kincade,Republican,890
+Marshall,,State House,5,John Faulkner,Democrat,3272
+Marshall,,State House,13,Justin Cluck,Democrat,368
+Marshall,,State House,13,Steve Massengill,Republican,440
+Marshall,,State House,52,William Kincade,Republican,1331

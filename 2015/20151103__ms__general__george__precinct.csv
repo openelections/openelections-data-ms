@@ -1,1 +1,668 @@
-county,precinct,office,district,candidate,party,votesGeorge,Rocky Creek,Governor,,Phil  Bryant,Republican,743George,Rocky Creek,Governor,,Robert  Gray,Democrat,38George,Rocky Creek,Governor,,Shawn  O'Hara,Reform,11George,Rocky Creek,Lieutenant Governor,,Tim  Johnson,Democrat,61George,Rocky Creek,Lieutenant Governor,,Tate  Reeves,Republican,671George,Rocky Creek,Lieutenant Governor,,Ron  Williams,Libertarian,40George,Rocky Creek,Lieutenant Governor,,Rosa  B.  Williams,Reform,7George,Rocky Creek,Secretary of State,,Charles  E.  Graham,Democrat,97George,Rocky Creek,Secretary of State,,Delbert  Hosemann,Republican,627George,Rocky Creek,Secretary of State,,Randy  Walker,Reform,52George,Rocky Creek,Attorney General,,Jim  Hood,Democrat,245George,Rocky Creek,Attorney General,,Mike  Hurst,Republican,535George,Rocky Creek,State Auditor,,Stacey  E.  Pickering,Republican,698George,Rocky Creek,State Auditor,,Jocelyn  'Joce'  Pepper  Pritchett,Democrat,59George,Rocky Creek,State Auditor,,Lajena  Walley,Reform,22George,Multi Mart,Governor,,Phil  Bryant,Republican,140George,Multi Mart,Governor,,Robert  Gray,Democrat,11George,Multi Mart,Governor,,Shawn  O'Hara,Reform,5George,Multi Mart,Lieutenant Governor,,Tim  Johnson,Democrat,24George,Multi Mart,Lieutenant Governor,,Tate  Reeves,Republican,126George,Multi Mart,Lieutenant Governor,,Ron  Williams,Libertarian,3George,Multi Mart,Lieutenant Governor,,Rosa  B.  Williams,Reform,3George,Multi Mart,Secretary of State,,Charles  E.  Graham,Democrat,16George,Multi Mart,Secretary of State,,Delbert  Hosemann,Republican,126George,Multi Mart,Secretary of State,,Randy  Walker,Reform,10George,Multi Mart,Attorney General,,Jim  Hood,Democrat,52George,Multi Mart,Attorney General,,Mike  Hurst,Republican,102George,Multi Mart,State Auditor,,Stacey  E.  Pickering,Republican,134George,Multi Mart,State Auditor,,Jocelyn  'Joce'  Pepper  Pritchett,Democrat,16George,Multi Mart,State Auditor,,Lajena  Walley,Reform,2George,Ward,Governor,,Phil  Bryant,Republican,181George,Ward,Governor,,Robert  Gray,Democrat,5George,Ward,Governor,,Shawn  O'Hara,Reform,4George,Ward,Lieutenant Governor,,Tim  Johnson,Democrat,10George,Ward,Lieutenant Governor,,Tate  Reeves,Republican,167George,Ward,Lieutenant Governor,,Ron  Williams,Libertarian,5George,Ward,Lieutenant Governor,,Rosa  B.  Williams,Reform,1George,Ward,Secretary of State,,Charles  E.  Graham,Democrat,20George,Ward,Secretary of State,,Delbert  Hosemann,Republican,157George,Ward,Secretary of State,,Randy  Walker,Reform,9George,Ward,Attorney General,,Jim  Hood,Democrat,48George,Ward,Attorney General,,Mike  Hurst,Republican,136George,Ward,State Auditor,,Stacey  E.  Pickering,Republican,171George,Ward,State Auditor,,Jocelyn  'Joce'  Pepper  Pritchett,Democrat,13George,Ward,State Auditor,,Lajena  Walley,Reform,1George,Shipman,Governor,,Phil  Bryant,Republican,153George,Shipman,Governor,,Robert  Gray,Democrat,17George,Shipman,Governor,,Shawn  O'Hara,Reform,4George,Shipman,Lieutenant Governor,,Tim  Johnson,Democrat,24George,Shipman,Lieutenant Governor,,Tate  Reeves,Republican,132George,Shipman,Lieutenant Governor,,Ron  Williams,Libertarian,11George,Shipman,Lieutenant Governor,,Rosa  B.  Williams,Reform,4George,Shipman,Secretary of State,,Charles  E.  Graham,Democrat,33George,Shipman,Secretary of State,,Delbert  Hosemann,Republican,127George,Shipman,Secretary of State,,Randy  Walker,Reform,11George,Shipman,Attorney General,,Jim  Hood,Democrat,48George,Shipman,Attorney General,,Mike  Hurst,Republican,121George,Shipman,State Auditor,,Stacey  E.  Pickering,Republican,146George,Shipman,State Auditor,,Jocelyn  'Joce'  Pepper  Pritchett,Democrat,21George,Shipman,State Auditor,,Lajena  Walley,Reform,1George,Courthouse,Governor,,Phil  Bryant,Republican,130George,Courthouse,Governor,,Robert  Gray,Democrat,13George,Courthouse,Governor,,Shawn  O'Hara,Reform,3George,Courthouse,Lieutenant Governor,,Tim  Johnson,Democrat,18George,Courthouse,Lieutenant Governor,,Tate  Reeves,Republican,119George,Courthouse,Lieutenant Governor,,Ron  Williams,Libertarian,4George,Courthouse,Lieutenant Governor,,Rosa  B.  Williams,Reform,2George,Courthouse,Secretary of State,,Charles  E.  Graham,Democrat,21George,Courthouse,Secretary of State,,Delbert  Hosemann,Republican,114George,Courthouse,Secretary of State,,Randy  Walker,Reform,9George,Courthouse,Attorney General,,Jim  Hood,Democrat,49George,Courthouse,Attorney General,,Mike  Hurst,Republican,94George,Courthouse,State Auditor,,Stacey  E.  Pickering,Republican,121George,Courthouse,State Auditor,,Jocelyn  'Joce'  Pepper  Pritchett,Democrat,17George,Courthouse,State Auditor,,Lajena  Walley,Reform,3George,Pine Level,Governor,,Phil  Bryant,Republican,211George,Pine Level,Governor,,Robert  Gray,Democrat,16George,Pine Level,Governor,,Shawn  O'Hara,Reform,9George,Pine Level,Lieutenant Governor,,Tim  Johnson,Democrat,18George,Pine Level,Lieutenant Governor,,Tate  Reeves,Republican,200George,Pine Level,Lieutenant Governor,,Ron  Williams,Libertarian,13George,Pine Level,Lieutenant Governor,,Rosa  B.  Williams,Reform,1George,Pine Level,Secretary of State,,Charles  E.  Graham,Democrat,23George,Pine Level,Secretary of State,,Delbert  Hosemann,Republican,195George,Pine Level,Secretary of State,,Randy  Walker,Reform,13George,Pine Level,Attorney General,,Jim  Hood,Democrat,47George,Pine Level,Attorney General,,Mike  Hurst,Republican,183George,Pine Level,State Auditor,,Stacey  E.  Pickering,Republican,202George,Pine Level,State Auditor,,Jocelyn  'Joce'  Pepper  Pritchett,Democrat,20George,Pine Level,State Auditor,,Lajena  Walley,Reform,4George,Agricola,Governor,,Phil  Bryant,Republican,423George,Agricola,Governor,,Robert  Gray,Democrat,31George,Agricola,Governor,,Shawn  O'Hara,Reform,8George,Agricola,Lieutenant Governor,,Tim  Johnson,Democrat,44George,Agricola,Lieutenant Governor,,Tate  Reeves,Republican,377George,Agricola,Lieutenant Governor,,Ron  Williams,Libertarian,24George,Agricola,Lieutenant Governor,,Rosa  B.  Williams,Reform,5George,Agricola,Secretary of State,,Charles  E.  Graham,Democrat,62George,Agricola,Secretary of State,,Delbert  Hosemann,Republican,353George,Agricola,Secretary of State,,Randy  Walker,Reform,30George,Agricola,Attorney General,,Jim  Hood,Democrat,128George,Agricola,Attorney General,,Mike  Hurst,Republican,321George,Agricola,State Auditor,,Stacey  E.  Pickering,Republican,389George,Agricola,State Auditor,,Jocelyn  'Joce'  Pepper  Pritchett,Democrat,42George,Agricola,State Auditor,,Lajena  Walley,Reform,10George,Howell,Governor,,Phil  Bryant,Republican,166George,Howell,Governor,,Robert  Gray,Democrat,15George,Howell,Governor,,Shawn  O'Hara,Reform,3George,Howell,Lieutenant Governor,,Tim  Johnson,Democrat,25George,Howell,Lieutenant Governor,,Tate  Reeves,Republican,144George,Howell,Lieutenant Governor,,Ron  Williams,Libertarian,9George,Howell,Lieutenant Governor,,Rosa  B.  Williams,Reform,3George,Howell,Secretary of State,,Charles  E.  Graham,Democrat,22George,Howell,Secretary of State,,Delbert  Hosemann,Republican,149George,Howell,Secretary of State,,Randy  Walker,Reform,9George,Howell,Attorney General,,Jim  Hood,Democrat,45George,Howell,Attorney General,,Mike  Hurst,Republican,139George,Howell,State Auditor,,Stacey  E.  Pickering,Republican,163George,Howell,State Auditor,,Jocelyn  'Joce'  Pepper  Pritchett,Democrat,17George,Howell,State Auditor,,Lajena  Walley,Reform,2George,Movella,Governor,,Phil  Bryant,Republican,161George,Movella,Governor,,Robert  Gray,Democrat,9George,Movella,Governor,,Shawn  O'Hara,Reform,7George,Movella,Lieutenant Governor,,Tim  Johnson,Democrat,15George,Movella,Lieutenant Governor,,Tate  Reeves,Republican,148George,Movella,Lieutenant Governor,,Ron  Williams,Libertarian,11George,Movella,Lieutenant Governor,,Rosa  B.  Williams,Reform,1George,Movella,Secretary of State,,Charles  E.  Graham,Democrat,23George,Movella,Secretary of State,,Delbert  Hosemann,Republican,132George,Movella,Secretary of State,,Randy  Walker,Reform,13George,Movella,Attorney General,,Jim  Hood,Democrat,46George,Movella,Attorney General,,Mike  Hurst,Republican,121George,Movella,State Auditor,,Stacey  E.  Pickering,Republican,155George,Movella,State Auditor,,Jocelyn  'Joce'  Pepper  Pritchett,Democrat,11George,Movella,State Auditor,,Lajena  Walley,Reform,4George,Multi-Purpose,Governor,,Phil  Bryant,Republican,89George,Multi-Purpose,Governor,,Robert  Gray,Democrat,5George,Multi-Purpose,Governor,,Shawn  O'Hara,Reform,1George,Multi-Purpose,Lieutenant Governor,,Tim  Johnson,Democrat,8George,Multi-Purpose,Lieutenant Governor,,Tate  Reeves,Republican,82George,Multi-Purpose,Lieutenant Governor,,Ron  Williams,Libertarian,5George,Multi-Purpose,Lieutenant Governor,,Rosa  B.  Williams,Reform,0George,Multi-Purpose,Secretary of State,,Charles  E.  Graham,Democrat,11George,Multi-Purpose,Secretary of State,,Delbert  Hosemann,Republican,80George,Multi-Purpose,Secretary of State,,Randy  Walker,Reform,3George,Multi-Purpose,Attorney General,,Jim  Hood,Democrat,32George,Multi-Purpose,Attorney General,,Mike  Hurst,Republican,62George,Multi-Purpose,State Auditor,,Stacey  E.  Pickering,Republican,88George,Multi-Purpose,State Auditor,,Jocelyn  'Joce'  Pepper  Pritchett,Democrat,4George,Multi-Purpose,State Auditor,,Lajena  Walley,Reform,2George,Basin,Governor,,Phil  Bryant,Republican,392George,Basin,Governor,,Robert  Gray,Democrat,83George,Basin,Governor,,Shawn  O'Hara,Reform,9George,Basin,Lieutenant Governor,,Tim  Johnson,Democrat,97George,Basin,Lieutenant Governor,,Tate  Reeves,Republican,351George,Basin,Lieutenant Governor,,Ron  Williams,Libertarian,20George,Basin,Lieutenant Governor,,Rosa  B.  Williams,Reform,7George,Basin,Secretary of State,,Charles  E.  Graham,Democrat,116George,Basin,Secretary of State,,Delbert  Hosemann,Republican,326George,Basin,Secretary of State,,Randy  Walker,Reform,30George,Basin,Attorney General,,Jim  Hood,Democrat,202George,Basin,Attorney General,,Mike  Hurst,Republican,279George,Basin,State Auditor,,Stacey  E.  Pickering,Republican,367George,Basin,State Auditor,,Jocelyn  'Joce'  Pepper  Pritchett,Democrat,85George,Basin,State Auditor,,Lajena  Walley,Reform,20George,Davis,Governor,,Phil  Bryant,Republican,199George,Davis,Governor,,Robert  Gray,Democrat,15George,Davis,Governor,,Shawn  O'Hara,Reform,3George,Davis,Lieutenant Governor,,Tim  Johnson,Democrat,18George,Davis,Lieutenant Governor,,Tate  Reeves,Republican,191George,Davis,Lieutenant Governor,,Ron  Williams,Libertarian,4George,Davis,Lieutenant Governor,,Rosa  B.  Williams,Reform,3George,Davis,Secretary of State,,Charles  E.  Graham,Democrat,31George,Davis,Secretary of State,,Delbert  Hosemann,Republican,178George,Davis,Secretary of State,,Randy  Walker,Reform,8George,Davis,Attorney General,,Jim  Hood,Democrat,79George,Davis,Attorney General,,Mike  Hurst,Republican,138George,Davis,State Auditor,,Stacey  E.  Pickering,Republican,193George,Davis,State Auditor,,Jocelyn  'Joce'  Pepper  Pritchett,Democrat,18George,Davis,State Auditor,,Lajena  Walley,Reform,4George,Barton,Governor,,Phil  Bryant,Republican,343George,Barton,Governor,,Robert  Gray,Democrat,34George,Barton,Governor,,Shawn  O'Hara,Reform,5George,Barton,Lieutenant Governor,,Tim  Johnson,Democrat,40George,Barton,Lieutenant Governor,,Tate  Reeves,Republican,319George,Barton,Lieutenant Governor,,Ron  Williams,Libertarian,11George,Barton,Lieutenant Governor,,Rosa  B.  Williams,Reform,6George,Barton,Secretary of State,,Charles  E.  Graham,Democrat,47George,Barton,Secretary of State,,Delbert  Hosemann,Republican,311George,Barton,Secretary of State,,Randy  Walker,Reform,19George,Barton,Attorney General,,Jim  Hood,Democrat,97George,Barton,Attorney General,,Mike  Hurst,Republican,283George,Barton,State Auditor,,Stacey  E.  Pickering,Republican,330George,Barton,State Auditor,,Jocelyn  'Joce'  Pepper  Pritchett,Democrat,43George,Barton,State Auditor,,Lajena  Walley,Reform,5George,City Hall,Governor,,Phil  Bryant,Republican,434George,City Hall,Governor,,Robert  Gray,Democrat,52George,City Hall,Governor,,Shawn  O'Hara,Reform,15George,City Hall,Lieutenant Governor,,Tim  Johnson,Democrat,67George,City Hall,Lieutenant Governor,,Tate  Reeves,Republican,390George,City Hall,Lieutenant Governor,,Ron  Williams,Libertarian,20George,City Hall,Lieutenant Governor,,Rosa  B.  Williams,Reform,11George,City Hall,Secretary of State,,Charles  E.  Graham,Democrat,71George,City Hall,Secretary of State,,Delbert  Hosemann,Republican,394George,City Hall,Secretary of State,,Randy  Walker,Reform,25George,City Hall,Attorney General,,Jim  Hood,Democrat,168George,City Hall,Attorney General,,Mike  Hurst,Republican,322George,City Hall,State Auditor,,Stacey  E.  Pickering,Republican,418George,City Hall,State Auditor,,Jocelyn  'Joce'  Pepper  Pritchett,Democrat,67George,City Hall,State Auditor,,Lajena  Walley,Reform,8George,Shady Grove,Governor,,Phil  Bryant,Republican,414George,Shady Grove,Governor,,Robert  Gray,Democrat,36George,Shady Grove,Governor,,Shawn  O'Hara,Reform,9George,Shady Grove,Lieutenant Governor,,Tim  Johnson,Democrat,56George,Shady Grove,Lieutenant Governor,,Tate  Reeves,Republican,371George,Shady Grove,Lieutenant Governor,,Ron  Williams,Libertarian,22George,Shady Grove,Lieutenant Governor,,Rosa  B.  Williams,Reform,3George,Shady Grove,Secretary of State,,Charles  E.  Graham,Democrat,77George,Shady Grove,Secretary of State,,Delbert  Hosemann,Republican,338George,Shady Grove,Secretary of State,,Randy  Walker,Reform,35George,Shady Grove,Attorney General,,Jim  Hood,Democrat,167George,Shady Grove,Attorney General,,Mike  Hurst,Republican,286George,Shady Grove,State Auditor,,Stacey  E.  Pickering,Republican,389George,Shady Grove,State Auditor,,Jocelyn  'Joce'  Pepper  Pritchett,Democrat,49George,Shady Grove,State Auditor,,Lajena  Walley,Reform,14George,Bexley,Governor,,Phil  Bryant,Republican,246George,Bexley,Governor,,Robert  Gray,Democrat,45George,Bexley,Governor,,Shawn  O'Hara,Reform,7George,Bexley,Lieutenant Governor,,Tim  Johnson,Democrat,70George,Bexley,Lieutenant Governor,,Tate  Reeves,Republican,218George,Bexley,Lieutenant Governor,,Ron  Williams,Libertarian,8George,Bexley,Lieutenant Governor,,Rosa  B.  Williams,Reform,0George,Bexley,Secretary of State,,Charles  E.  Graham,Democrat,86George,Bexley,Secretary of State,,Delbert  Hosemann,Republican,188George,Bexley,Secretary of State,,Randy  Walker,Reform,23George,Bexley,Attorney General,,Jim  Hood,Democrat,151George,Bexley,Attorney General,,Mike  Hurst,Republican,145George,Bexley,State Auditor,,Stacey  E.  Pickering,Republican,235George,Bexley,State Auditor,,Jocelyn  'Joce'  Pepper  Pritchett,Democrat,58George,Bexley,State Auditor,,Lajena  Walley,Reform,7George,Salem,Governor,,Phil  Bryant,Republican,47George,Salem,Governor,,Robert  Gray,Democrat,6George,Salem,Governor,,Shawn  O'Hara,Reform,1George,Salem,Lieutenant Governor,,Tim  Johnson,Democrat,6George,Salem,Lieutenant Governor,,Tate  Reeves,Republican,42George,Salem,Lieutenant Governor,,Ron  Williams,Libertarian,2George,Salem,Lieutenant Governor,,Rosa  B.  Williams,Reform,0George,Salem,Secretary of State,,Charles  E.  Graham,Democrat,15George,Salem,Secretary of State,,Delbert  Hosemann,Republican,36George,Salem,Secretary of State,,Randy  Walker,Reform,1George,Salem,Attorney General,,Jim  Hood,Democrat,19George,Salem,Attorney General,,Mike  Hurst,Republican,31George,Salem,State Auditor,,Stacey  E.  Pickering,Republican,44George,Salem,State Auditor,,Jocelyn  'Joce'  Pepper  Pritchett,Democrat,7George,Salem,State Auditor,,Lajena  Walley,Reform,0George,Middle School,Governor,,Phil  Bryant,Republican,190George,Middle School,Governor,,Robert  Gray,Democrat,95George,Middle School,Governor,,Shawn  O'Hara,Reform,7George,Middle School,Lieutenant Governor,,Tim  Johnson,Democrat,107George,Middle School,Lieutenant Governor,,Tate  Reeves,Republican,170George,Middle School,Lieutenant Governor,,Ron  Williams,Libertarian,13George,Middle School,Lieutenant Governor,,Rosa  B.  Williams,Reform,3George,Middle School,Secretary of State,,Charles  E.  Graham,Democrat,100George,Middle School,Secretary of State,,Delbert  Hosemann,Republican,174George,Middle School,Secretary of State,,Randy  Walker,Reform,18George,Middle School,Attorney General,,Jim  Hood,Democrat,173George,Middle School,Attorney General,,Mike  Hurst,Republican,122George,Middle School,State Auditor,,Stacey  E.  Pickering,Republican,175George,Middle School,State Auditor,,Jocelyn  'Joce'  Pepper  Pritchett,Democrat,106George,Middle School,State Auditor,,Lajena  Walley,Reform,10George,Central,Governor,,Phil  Bryant,Republican,147George,Central,Governor,,Robert  Gray,Democrat,6George,Central,Governor,,Shawn  O'Hara,Reform,1George,Central,Lieutenant Governor,,Tim  Johnson,Democrat,18George,Central,Lieutenant Governor,,Tate  Reeves,Republican,129George,Central,Lieutenant Governor,,Ron  Williams,Libertarian,4George,Central,Lieutenant Governor,,Rosa  B.  Williams,Reform,1George,Central,Secretary of State,,Charles  E.  Graham,Democrat,26George,Central,Secretary of State,,Delbert  Hosemann,Republican,114George,Central,Secretary of State,,Randy  Walker,Reform,12George,Central,Attorney General,,Jim  Hood,Democrat,60George,Central,Attorney General,,Mike  Hurst,Republican,94George,Central,State Auditor,,Stacey  E.  Pickering,Republican,128George,Central,State Auditor,,Jocelyn  'Joce'  Pepper  Pritchett,Democrat,20George,Central,State Auditor,,Lajena  Walley,Reform,4George,Benndale,Governor,,Phil  Bryant,Republican,296George,Benndale,Governor,,Robert  Gray,Democrat,75George,Benndale,Governor,,Shawn  O'Hara,Reform,8George,Benndale,Lieutenant Governor,,Tim  Johnson,Democrat,77George,Benndale,Lieutenant Governor,,Tate  Reeves,Republican,264George,Benndale,Lieutenant Governor,,Ron  Williams,Libertarian,21George,Benndale,Lieutenant Governor,,Rosa  B.  Williams,Reform,12George,Benndale,Secretary of State,,Charles  E.  Graham,Democrat,99George,Benndale,Secretary of State,,Delbert  Hosemann,Republican,235George,Benndale,Secretary of State,,Randy  Walker,Reform,34George,Benndale,Attorney General,,Jim  Hood,Democrat,178George,Benndale,Attorney General,,Mike  Hurst,Republican,196George,Benndale,State Auditor,,Stacey  E.  Pickering,Republican,277George,Benndale,State Auditor,,Jocelyn  'Joce'  Pepper  Pritchett,Democrat,74George,Benndale,State Auditor,,Lajena  Walley,Reform,16George,Broome,Governor,,Phil  Bryant,Republican,97George,Broome,Governor,,Robert  Gray,Democrat,6George,Broome,Governor,,Shawn  O'Hara,Reform,2George,Broome,Lieutenant Governor,,Tim  Johnson,Democrat,7George,Broome,Lieutenant Governor,,Tate  Reeves,Republican,91George,Broome,Lieutenant Governor,,Ron  Williams,Libertarian,3George,Broome,Lieutenant Governor,,Rosa  B.  Williams,Reform,1George,Broome,Secretary of State,,Charles  E.  Graham,Democrat,14George,Broome,Secretary of State,,Delbert  Hosemann,Republican,82George,Broome,Secretary of State,,Randy  Walker,Reform,5George,Broome,Attorney General,,Jim  Hood,Democrat,46George,Broome,Attorney General,,Mike  Hurst,Republican,57George,Broome,State Auditor,,Stacey  E.  Pickering,Republican,92George,Broome,State Auditor,,Jocelyn  'Joce'  Pepper  Pritchett,Democrat,7George,Broome,State Auditor,,Lajena  Walley,Reform,3George,Twin Creek,Governor,,Phil  Bryant,Republican,146George,Twin Creek,Governor,,Robert  Gray,Democrat,21George,Twin Creek,Governor,,Shawn  O'Hara,Reform,7George,Twin Creek,Lieutenant Governor,,Tim  Johnson,Democrat,34George,Twin Creek,Lieutenant Governor,,Tate  Reeves,Republican,123George,Twin Creek,Lieutenant Governor,,Ron  Williams,Libertarian,7George,Twin Creek,Lieutenant Governor,,Rosa  B.  Williams,Reform,3George,Twin Creek,Secretary of State,,Charles  E.  Graham,Democrat,41George,Twin Creek,Secretary of State,,Delbert  Hosemann,Republican,110George,Twin Creek,Secretary of State,,Randy  Walker,Reform,17George,Twin Creek,Attorney General,,Jim  Hood,Democrat,75George,Twin Creek,Attorney General,,Mike  Hurst,Republican,93George,Twin Creek,State Auditor,,Stacey  E.  Pickering,Republican,136George,Twin Creek,State Auditor,,Jocelyn  'Joce'  Pepper  Pritchett,Democrat,23George,Twin Creek,State Auditor,,Lajena  Walley,Reform,9George,,Governor,,Phil  Bryant,Republican,5348George,,Governor,,Robert  Gray,Democrat,634George,,Governor,,Shawn  O'Hara,Reform,129George,,Lieutenant Governor,,Tim  Johnson,Democrat,844George,,Lieutenant Governor,,Tate  Reeves,Republican,4825George,,Lieutenant Governor,,Ron  Williams,Libertarian,260George,,Lieutenant Governor,,Rosa  B.  Williams,Reform,77George,,Secretary of State,,Charles  E.  Graham,Democrat,1051George,,Secretary of State,,Delbert  Hosemann,Republican,4546George,,Secretary of State,,Randy  Walker,Reform,386George,,Attorney General,,Jim  Hood,Democrat,2155George,,Attorney General,,Mike  Hurst,Republican,3860George,,State Auditor,,Stacey  E.  Pickering,Republican,5051George,,State Auditor,,Jocelyn  'Joce'  Pepper  Pritchett,Democrat,777George,,State Auditor,,Lajena  Walley,Reform,151George,Rocky Creek,State Treasurer,,Lynn Fitch,Republican,719George,Rocky Creek,State Treasurer,,Viola McFarland,Reform,41George,Rocky Creek,Commissioner of Agriculture & Commerce,,Addie Lee Green,Democrat,77George,Rocky Creek,Commissioner of Agriculture & Commerce,,Cindy Hyde-Smith,Republican,667George,Rocky Creek,Commissioner of Agriculture & Commerce,,Cathy L Toole,Reform,33George,Rocky Creek,Commissioner of Insurance,,Mike Chaney,Republican,757George,Rocky Creek,State Senate,43,Dennis DeBar Jr.,Republican,723George,Rocky Creek,State Senate,43,Towana A. Wright,Democrat,66George,Multi Mart,State Treasurer,,Lynn Fitch,Republican,139George,Multi Mart,State Treasurer,,Viola McFarland,Reform,12George,Multi Mart,Commissioner of Agriculture & Commerce,,Addie Lee Green,Democrat,18George,Multi Mart,Commissioner of Agriculture & Commerce,,Cindy Hyde-Smith,Republican,126George,Multi Mart,Commissioner of Agriculture & Commerce,,Cathy L Toole,Reform,6George,Multi Mart,Commissioner of Insurance,,Mike Chaney,Republican,145George,Multi Mart,State Senate,43,Dennis DeBar Jr.,Republican,132George,Multi Mart,State Senate,43,Towana A. Wright,Democrat,22George,Ward,State Treasurer,,Lynn Fitch,Republican,178George,Ward,State Treasurer,,Viola McFarland,Reform,8George,Ward,Commissioner of Agriculture & Commerce,,Addie Lee Green,Democrat,16George,Ward,Commissioner of Agriculture & Commerce,,Cindy Hyde-Smith,Republican,165George,Ward,Commissioner of Agriculture & Commerce,,Cathy L Toole,Reform,4George,Ward,Commissioner of Insurance,,Mike Chaney,Republican,183George,Ward,State Senate,43,Dennis DeBar Jr.,Republican,175George,Ward,State Senate,43,Towana A. Wright,Democrat,15George,Shipman,State Treasurer,,Lynn Fitch,Republican,152George,Shipman,State Treasurer,,Viola McFarland,Reform,12George,Shipman,Commissioner of Agriculture & Commerce,,Addie Lee Green,Democrat,29George,Shipman,Commissioner of Agriculture & Commerce,,Cindy Hyde-Smith,Republican,138George,Shipman,Commissioner of Agriculture & Commerce,,Cathy L Toole,Reform,4George,Shipman,Commissioner of Insurance,,Mike Chaney,Republican,158George,Shipman,State Senate,43,Dennis DeBar Jr.,Republican,155George,Shipman,State Senate,43,Towana A. Wright,Democrat,18George,Courthouse,State Treasurer,,Lynn Fitch,Republican,125George,Courthouse,State Treasurer,,Viola McFarland,Reform,12George,Courthouse,Commissioner of Agriculture & Commerce,,Addie Lee Green,Democrat,20George,Courthouse,Commissioner of Agriculture & Commerce,,Cindy Hyde-Smith,Republican,115George,Courthouse,Commissioner of Agriculture & Commerce,,Cathy L Toole,Reform,5George,Courthouse,Commissioner of Insurance,,Mike Chaney,Republican,134George,Courthouse,State Senate,43,Dennis DeBar Jr.,Republican,126George,Courthouse,State Senate,43,Towana A. Wright,Democrat,19George,Pine Level,State Treasurer,,Lynn Fitch,Republican,204George,Pine Level,State Treasurer,,Viola McFarland,Reform,21George,Pine Level,Commissioner of Agriculture & Commerce,,Addie Lee Green,Democrat,16George,Pine Level,Commissioner of Agriculture & Commerce,,Cindy Hyde-Smith,Republican,198George,Pine Level,Commissioner of Agriculture & Commerce,,Cathy L Toole,Reform,12George,Pine Level,Commissioner of Insurance,,Mike Chaney,Republican,222George,Pine Level,State Senate,43,Dennis DeBar Jr.,Republican,211George,Pine Level,State Senate,43,Towana A. Wright,Democrat,20George,Agricola,State Treasurer,,Lynn Fitch,Republican,406George,Agricola,State Treasurer,,Viola McFarland,Reform,30George,Agricola,Commissioner of Agriculture & Commerce,,Addie Lee Green,Democrat,48George,Agricola,Commissioner of Agriculture & Commerce,,Cindy Hyde-Smith,Republican,374George,Agricola,Commissioner of Agriculture & Commerce,,Cathy L Toole,Reform,20George,Agricola,Commissioner of Insurance,,Mike Chaney,Republican,434George,Agricola,State Senate,43,Dennis DeBar Jr.,Republican,388George,Agricola,State Senate,43,Towana A. Wright,Democrat,65George,Howell,State Treasurer,,Lynn Fitch,Republican,170George,Howell,State Treasurer,,Viola McFarland,Reform,11George,Howell,Commissioner of Agriculture & Commerce,,Addie Lee Green,Democrat,20George,Howell,Commissioner of Agriculture & Commerce,,Cindy Hyde-Smith,Republican,160George,Howell,Commissioner of Agriculture & Commerce,,Cathy L Toole,Reform,4George,Howell,Commissioner of Insurance,,Mike Chaney,Republican,174George,Howell,State Senate,43,Dennis DeBar Jr.,Republican,162George,Howell,State Senate,43,Towana A. Wright,Democrat,28George,Movella,State Treasurer,,Lynn Fitch,Republican,157George,Movella,State Treasurer,,Viola McFarland,Reform,10George,Movella,Commissioner of Agriculture & Commerce,,Addie Lee Green,Democrat,14George,Movella,Commissioner of Agriculture & Commerce,,Cindy Hyde-Smith,Republican,153George,Movella,Commissioner of Agriculture & Commerce,,Cathy L Toole,Reform,4George,Movella,Commissioner of Insurance,,Mike Chaney,Republican,168George,Movella,State Senate,43,Dennis DeBar Jr.,Republican,152George,Movella,State Senate,43,Towana A. Wright,Democrat,23George,Multi-Purpose,State Treasurer,,Lynn Fitch,Republican,88George,Multi-Purpose,State Treasurer,,Viola McFarland,Reform,2George,Multi-Purpose,Commissioner of Agriculture & Commerce,,Addie Lee Green,Democrat,6George,Multi-Purpose,Commissioner of Agriculture & Commerce,,Cindy Hyde-Smith,Republican,84George,Multi-Purpose,Commissioner of Agriculture & Commerce,,Cathy L Toole,Reform,1George,Multi-Purpose,Commissioner of Insurance,,Mike Chaney,Republican,92George,Multi-Purpose,State Senate,43,Dennis DeBar Jr.,Republican,89George,Multi-Purpose,State Senate,43,Towana A. Wright,Democrat,6George,Basin,State Treasurer,,Lynn Fitch,Republican,397George,Basin,State Treasurer,,Viola McFarland,Reform,54George,Basin,Commissioner of Agriculture & Commerce,,Addie Lee Green,Democrat,112George,Basin,Commissioner of Agriculture & Commerce,,Cindy Hyde-Smith,Republican,341George,Basin,Commissioner of Agriculture & Commerce,,Cathy L Toole,Reform,17George,Basin,Commissioner of Insurance,,Mike Chaney,Republican,424George,Basin,State Senate,43,Dennis DeBar Jr.,Republican,372George,Basin,State Senate,43,Towana A. Wright,Democrat,100George,Davis,State Treasurer,,Lynn Fitch,Republican,198George,Davis,State Treasurer,,Viola McFarland,Reform,18George,Davis,Commissioner of Agriculture & Commerce,,Addie Lee Green,Democrat,21George,Davis,Commissioner of Agriculture & Commerce,,Cindy Hyde-Smith,Republican,190George,Davis,Commissioner of Agriculture & Commerce,,Cathy L Toole,Reform,6George,Davis,Commissioner of Insurance,,Mike Chaney,Republican,208George,Davis,State Senate,43,Dennis DeBar Jr.,Republican,192George,Davis,State Senate,43,Towana A. Wright,Democrat,27George,Barton,State Treasurer,,Lynn Fitch,Republican,336George,Barton,State Treasurer,,Viola McFarland,Reform,34George,Barton,Commissioner of Agriculture & Commerce,,Addie Lee Green,Democrat,42George,Barton,Commissioner of Agriculture & Commerce,,Cindy Hyde-Smith,Republican,327George,Barton,Commissioner of Agriculture & Commerce,,Cathy L Toole,Reform,12George,Barton,Commissioner of Insurance,,Mike Chaney,Republican,361George,Barton,State Senate,43,Dennis DeBar Jr.,Republican,334George,Barton,State Senate,43,Towana A. Wright,Democrat,51George,City Hall,State Treasurer,,Lynn Fitch,Republican,439George,City Hall,State Treasurer,,Viola McFarland,Reform,42George,City Hall,Commissioner of Agriculture & Commerce,,Addie Lee Green,Democrat,77George,City Hall,Commissioner of Agriculture & Commerce,,Cindy Hyde-Smith,Republican,400George,City Hall,Commissioner of Agriculture & Commerce,,Cathy L Toole,Reform,13George,City Hall,Commissioner of Insurance,,Mike Chaney,Republican,469George,City Hall,State Senate,43,Dennis DeBar Jr.,Republican,422George,City Hall,State Senate,43,Towana A. Wright,Democrat,75George,Shady Grove,State Treasurer,,Lynn Fitch,Republican,405George,Shady Grove,State Treasurer,,Viola McFarland,Reform,37George,Shady Grove,Commissioner of Agriculture & Commerce,,Addie Lee Green,Democrat,76George,Shady Grove,Commissioner of Agriculture & Commerce,,Cindy Hyde-Smith,Republican,352George,Shady Grove,Commissioner of Agriculture & Commerce,,Cathy L Toole,Reform,20George,Shady Grove,Commissioner of Insurance,,Mike Chaney,Republican,434George,Shady Grove,State Senate,43,Dennis DeBar Jr.,Republican,399George,Shady Grove,State Senate,43,Towana A. Wright,Democrat,63George,Bexley,State Treasurer,,Lynn Fitch,Republican,253George,Bexley,State Treasurer,,Viola McFarland,Reform,36George,Bexley,Commissioner of Agriculture & Commerce,,Addie Lee Green,Democrat,80George,Bexley,Commissioner of Agriculture & Commerce,,Cindy Hyde-Smith,Republican,202George,Bexley,Commissioner of Agriculture & Commerce,,Cathy L Toole,Reform,14George,Bexley,Commissioner of Insurance,,Mike Chaney,Republican,277George,Bexley,State Senate,43,Dennis DeBar Jr.,Republican,241George,Bexley,State Senate,43,Towana A. Wright,Democrat,60George,Salem,State Treasurer,,Lynn Fitch,Republican,46George,Salem,State Treasurer,,Viola McFarland,Reform,2George,Salem,Commissioner of Agriculture & Commerce,,Addie Lee Green,Democrat,13George,Salem,Commissioner of Agriculture & Commerce,,Cindy Hyde-Smith,Republican,38George,Salem,Commissioner of Agriculture & Commerce,,Cathy L Toole,Reform,1George,Salem,Commissioner of Insurance,,Mike Chaney,Republican,46George,Salem,State Senate,43,Dennis DeBar Jr.,Republican,42George,Salem,State Senate,43,Towana A. Wright,Democrat,12George,Middle School,State Treasurer,,Lynn Fitch,Republican,220George,Middle School,State Treasurer,,Viola McFarland,Reform,58George,Middle School,Commissioner of Agriculture & Commerce,,Addie Lee Green,Democrat,125George,Middle School,Commissioner of Agriculture & Commerce,,Cindy Hyde-Smith,Republican,161George,Middle School,Commissioner of Agriculture & Commerce,,Cathy L Toole,Reform,9George,Middle School,Commissioner of Insurance,,Mike Chaney,Republican,254George,Middle School,State Senate,43,Dennis DeBar Jr.,Republican,181George,Middle School,State Senate,43,Towana A. Wright,Democrat,104George,Central,State Treasurer,,Lynn Fitch,Republican,141George,Central,State Treasurer,,Viola McFarland,Reform,11George,Central,Commissioner of Agriculture & Commerce,,Addie Lee Green,Democrat,21George,Central,Commissioner of Agriculture & Commerce,,Cindy Hyde-Smith,Republican,122George,Central,Commissioner of Agriculture & Commerce,,Cathy L Toole,Reform,8George,Central,Commissioner of Insurance,,Mike Chaney,Republican,146George,Central,State Senate,43,Dennis DeBar Jr.,Republican,126George,Central,State Senate,43,Towana A. Wright,Democrat,27George,Benndale,State Treasurer,,Lynn Fitch,Republican,302George,Benndale,State Treasurer,,Viola McFarland,Reform,53George,Benndale,Commissioner of Agriculture & Commerce,,Addie Lee Green,Democrat,103George,Benndale,Commissioner of Agriculture & Commerce,,Cindy Hyde-Smith,Republican,234George,Benndale,Commissioner of Agriculture & Commerce,,Cathy L Toole,Reform,30George,Benndale,Commissioner of Insurance,,Mike Chaney,Republican,332George,Benndale,State Senate,43,Dennis DeBar Jr.,Republican,243George,Benndale,State Senate,43,Towana A. Wright,Democrat,123George,Broome,State Treasurer,,Lynn Fitch,Republican,89George,Broome,State Treasurer,,Viola McFarland,Reform,12George,Broome,Commissioner of Agriculture & Commerce,,Addie Lee Green,Democrat,13George,Broome,Commissioner of Agriculture & Commerce,,Cindy Hyde-Smith,Republican,81George,Broome,Commissioner of Agriculture & Commerce,,Cathy L Toole,Reform,8George,Broome,Commissioner of Insurance,,Mike Chaney,Republican,99George,Broome,State Senate,43,Dennis DeBar Jr.,Republican,76George,Broome,State Senate,43,Towana A. Wright,Democrat,22George,Twin Creek,State Treasurer,,Lynn Fitch,Republican,147George,Twin Creek,State Treasurer,,Viola McFarland,Reform,13George,Twin Creek,Commissioner of Agriculture & Commerce,,Addie Lee Green,Democrat,33George,Twin Creek,Commissioner of Agriculture & Commerce,,Cindy Hyde-Smith,Republican,122George,Twin Creek,Commissioner of Agriculture & Commerce,,Cathy L Toole,Reform,12George,Twin Creek,Commissioner of Insurance,,Mike Chaney,Republican,152George,Twin Creek,State Senate,43,Dennis DeBar Jr.,Republican,149George,Twin Creek,State Senate,43,Towana A. Wright,Democrat,23George,,State Treasurer,,Lynn Fitch,Republican,5311George,,State Treasurer,,Viola McFarland,Reform,529George,,Commissioner of Agriculture & Commerce,,Addie Lee Green,Democrat,980George,,Commissioner of Agriculture & Commerce,,Cindy Hyde-Smith,Republican,4750George,,Commissioner of Agriculture & Commerce,,Cathy L Toole,Reform,243George,,Commissioner of Insurance,,Mike Chaney,Republican,5669George,,State Senate,43,Dennis DeBar Jr.,Republican,5090George,,State Senate,43,Towana A. Wright,Democrat,969George,Rocky Creek,State House,105,Dennis Cochran,Democrat,222George,Rocky Creek,State House,105,Roun McNeal,Republican,565George,Rocky Creek,State House,107,Austin Howell,Democrat,XGeorge,Rocky Creek,State House,107,Doug McLeod,Republican,XGeorge,Rocky Creek,State House,109,Manly Barton,Republican,XGeorge,Rocky Creek,State House,109,Joshua Hardy,Libertarian,XGeorge,Multi Mart,State House,105,Dennis Cochran,Democrat,XGeorge,Multi Mart,State House,105,Roun McNeal,Republican,XGeorge,Multi Mart,State House,107,Austin Howell,Democrat,35George,Multi Mart,State House,107,Doug McLeod,Republican,123George,Multi Mart,State House,109,Manly Barton,Republican,XGeorge,Multi Mart,State House,109,Joshua Hardy,Libertarian,XGeorge,Ward,State House,105,Dennis Cochran,Democrat,XGeorge,Ward,State House,105,Roun McNeal,Republican,XGeorge,Ward,State House,107,Austin Howell,Democrat,29George,Ward,State House,107,Doug McLeod,Republican,159George,Ward,State House,109,Manly Barton,Republican,XGeorge,Ward,State House,109,Joshua Hardy,Libertarian,XGeorge,Shipman,State House,105,Dennis Cochran,Democrat,XGeorge,Shipman,State House,105,Roun McNeal,Republican,XGeorge,Shipman,State House,107,Austin Howell,Democrat,XGeorge,Shipman,State House,107,Doug McLeod,Republican,XGeorge,Shipman,State House,109,Manly Barton,Republican,147George,Shipman,State House,109,Joshua Hardy,Libertarian,17George,Courthouse,State House,105,Dennis Cochran,Democrat,XGeorge,Courthouse,State House,105,Roun McNeal,Republican,XGeorge,Courthouse,State House,107,Austin Howell,Democrat,25George,Courthouse,State House,107,Doug McLeod,Republican,120George,Courthouse,State House,109,Manly Barton,Republican,XGeorge,Courthouse,State House,109,Joshua Hardy,Libertarian,XGeorge,Pine Level,State House,105,Dennis Cochran,Democrat,XGeorge,Pine Level,State House,105,Roun McNeal,Republican,XGeorge,Pine Level,State House,107,Austin Howell,Democrat,XGeorge,Pine Level,State House,107,Doug McLeod,Republican,XGeorge,Pine Level,State House,109,Manly Barton,Republican,209George,Pine Level,State House,109,Joshua Hardy,Libertarian,17George,Agricola,State House,105,Dennis Cochran,Democrat,XGeorge,Agricola,State House,105,Roun McNeal,Republican,XGeorge,Agricola,State House,107,Austin Howell,Democrat,XGeorge,Agricola,State House,107,Doug McLeod,Republican,XGeorge,Agricola,State House,109,Manly Barton,Republican,406George,Agricola,State House,109,Joshua Hardy,Libertarian,41George,Howell,State House,105,Dennis Cochran,Democrat,XGeorge,Howell,State House,105,Roun McNeal,Republican,XGeorge,Howell,State House,107,Austin Howell,Democrat,XGeorge,Howell,State House,107,Doug McLeod,Republican,XGeorge,Howell,State House,109,Manly Barton,Republican,168George,Howell,State House,109,Joshua Hardy,Libertarian,17George,Movella,State House,105,Dennis Cochran,Democrat,XGeorge,Movella,State House,105,Roun McNeal,Republican,XGeorge,Movella,State House,107,Austin Howell,Democrat,3George,Movella,State House,107,Doug McLeod,Republican,14George,Movella,State House,109,Manly Barton,Republican,138George,Movella,State House,109,Joshua Hardy,Libertarian,14George,Multi-Purpose,State House,105,Dennis Cochran,Democrat,XGeorge,Multi-Purpose,State House,105,Roun McNeal,Republican,XGeorge,Multi-Purpose,State House,107,Austin Howell,Democrat,20George,Multi-Purpose,State House,107,Doug McLeod,Republican,75George,Multi-Purpose,State House,109,Manly Barton,Republican,XGeorge,Multi-Purpose,State House,109,Joshua Hardy,Libertarian,XGeorge,Basin,State House,105,Dennis Cochran,Democrat,XGeorge,Basin,State House,105,Roun McNeal,Republican,XGeorge,Basin,State House,107,Austin Howell,Democrat,122George,Basin,State House,107,Doug McLeod,Republican,355George,Basin,State House,109,Manly Barton,Republican,XGeorge,Basin,State House,109,Joshua Hardy,Libertarian,XGeorge,Davis,State House,105,Dennis Cochran,Democrat,XGeorge,Davis,State House,105,Roun McNeal,Republican,XGeorge,Davis,State House,107,Austin Howell,Democrat,56George,Davis,State House,107,Doug McLeod,Republican,164George,Davis,State House,109,Manly Barton,Republican,XGeorge,Davis,State House,109,Joshua Hardy,Libertarian,XGeorge,Barton,State House,105,Dennis Cochran,Democrat,XGeorge,Barton,State House,105,Roun McNeal,Republican,XGeorge,Barton,State House,107,Austin Howell,Democrat,62George,Barton,State House,107,Doug McLeod,Republican,274George,Barton,State House,109,Manly Barton,Republican,47George,Barton,State House,109,Joshua Hardy,Libertarian,3George,City Hall,State House,105,Dennis Cochran,Democrat,XGeorge,City Hall,State House,105,Roun McNeal,Republican,XGeorge,City Hall,State House,107,Austin Howell,Democrat,115George,City Hall,State House,107,Doug McLeod,Republican,372George,City Hall,State House,109,Manly Barton,Republican,XGeorge,City Hall,State House,109,Joshua Hardy,Libertarian,XGeorge,Shady Grove,State House,105,Dennis Cochran,Democrat,XGeorge,Shady Grove,State House,105,Roun McNeal,Republican,XGeorge,Shady Grove,State House,107,Austin Howell,Democrat,98George,Shady Grove,State House,107,Doug McLeod,Republican,364George,Shady Grove,State House,109,Manly Barton,Republican,XGeorge,Shady Grove,State House,109,Joshua Hardy,Libertarian,XGeorge,Bexley,State House,105,Dennis Cochran,Democrat,XGeorge,Bexley,State House,105,Roun McNeal,Republican,XGeorge,Bexley,State House,107,Austin Howell,Democrat,73George,Bexley,State House,107,Doug McLeod,Republican,231George,Bexley,State House,109,Manly Barton,Republican,XGeorge,Bexley,State House,109,Joshua Hardy,Libertarian,XGeorge,Salem,State House,105,Dennis Cochran,Democrat,XGeorge,Salem,State House,105,Roun McNeal,Republican,XGeorge,Salem,State House,107,Austin Howell,Democrat,24George,Salem,State House,107,Doug McLeod,Republican,30George,Salem,State House,109,Manly Barton,Republican,XGeorge,Salem,State House,109,Joshua Hardy,Libertarian,XGeorge,Middle School,State House,105,Dennis Cochran,Democrat,XGeorge,Middle School,State House,105,Roun McNeal,Republican,XGeorge,Middle School,State House,107,Austin Howell,Democrat,98George,Middle School,State House,107,Doug McLeod,Republican,200George,Middle School,State House,109,Manly Barton,Republican,XGeorge,Middle School,State House,109,Joshua Hardy,Libertarian,XGeorge,Central,State House,105,Dennis Cochran,Democrat,XGeorge,Central,State House,105,Roun McNeal,Republican,XGeorge,Central,State House,107,Austin Howell,Democrat,30George,Central,State House,107,Doug McLeod,Republican,125George,Central,State House,109,Manly Barton,Republican,XGeorge,Central,State House,109,Joshua Hardy,Libertarian,XGeorge,Benndale,State House,105,Dennis Cochran,Democrat,XGeorge,Benndale,State House,105,Roun McNeal,Republican,XGeorge,Benndale,State House,107,Austin Howell,Democrat,181George,Benndale,State House,107,Doug McLeod,Republican,200George,Benndale,State House,109,Manly Barton,Republican,XGeorge,Benndale,State House,109,Joshua Hardy,Libertarian,XGeorge,Broome,State House,105,Dennis Cochran,Democrat,XGeorge,Broome,State House,105,Roun McNeal,Republican,XGeorge,Broome,State House,107,Austin Howell,Democrat,44George,Broome,State House,107,Doug McLeod,Republican,60George,Broome,State House,109,Manly Barton,Republican,XGeorge,Broome,State House,109,Joshua Hardy,Libertarian,XGeorge,Twin Creek,State House,105,Dennis Cochran,Democrat,XGeorge,Twin Creek,State House,105,Roun McNeal,Republican,XGeorge,Twin Creek,State House,107,Austin Howell,Democrat,42George,Twin Creek,State House,107,Doug McLeod,Republican,133George,Twin Creek,State House,109,Manly Barton,Republican,XGeorge,Twin Creek,State House,109,Joshua Hardy,Libertarian,XGeorge,,State House,105,Dennis Cochran,Democrat,222George,,State House,105,Roun McNeal,Republican,565George,,State House,107,Austin Howell,Democrat,1057George,,State House,107,Doug McLeod,Republican,2999George,,State House,109,Manly Barton,Republican,1115George,,State House,109,Joshua Hardy,Libertarian,109
+county,precinct,office,district,candidate,party,votes
+George,Rocky Creek,Governor,,Phil  Bryant,Republican,743
+George,Rocky Creek,Governor,,Robert  Gray,Democrat,38
+George,Rocky Creek,Governor,,Shawn  O'Hara,Reform,11
+George,Rocky Creek,Lieutenant Governor,,Tim  Johnson,Democrat,61
+George,Rocky Creek,Lieutenant Governor,,Tate  Reeves,Republican,671
+George,Rocky Creek,Lieutenant Governor,,Ron  Williams,Libertarian,40
+George,Rocky Creek,Lieutenant Governor,,Rosa  B.  Williams,Reform,7
+George,Rocky Creek,Secretary of State,,Charles  E.  Graham,Democrat,97
+George,Rocky Creek,Secretary of State,,Delbert  Hosemann,Republican,627
+George,Rocky Creek,Secretary of State,,Randy  Walker,Reform,52
+George,Rocky Creek,Attorney General,,Jim  Hood,Democrat,245
+George,Rocky Creek,Attorney General,,Mike  Hurst,Republican,535
+George,Rocky Creek,State Auditor,,Stacey  E.  Pickering,Republican,698
+George,Rocky Creek,State Auditor,,Jocelyn  'Joce'  Pepper  Pritchett,Democrat,59
+George,Rocky Creek,State Auditor,,Lajena  Walley,Reform,22
+George,Multi Mart,Governor,,Phil  Bryant,Republican,140
+George,Multi Mart,Governor,,Robert  Gray,Democrat,11
+George,Multi Mart,Governor,,Shawn  O'Hara,Reform,5
+George,Multi Mart,Lieutenant Governor,,Tim  Johnson,Democrat,24
+George,Multi Mart,Lieutenant Governor,,Tate  Reeves,Republican,126
+George,Multi Mart,Lieutenant Governor,,Ron  Williams,Libertarian,3
+George,Multi Mart,Lieutenant Governor,,Rosa  B.  Williams,Reform,3
+George,Multi Mart,Secretary of State,,Charles  E.  Graham,Democrat,16
+George,Multi Mart,Secretary of State,,Delbert  Hosemann,Republican,126
+George,Multi Mart,Secretary of State,,Randy  Walker,Reform,10
+George,Multi Mart,Attorney General,,Jim  Hood,Democrat,52
+George,Multi Mart,Attorney General,,Mike  Hurst,Republican,102
+George,Multi Mart,State Auditor,,Stacey  E.  Pickering,Republican,134
+George,Multi Mart,State Auditor,,Jocelyn  'Joce'  Pepper  Pritchett,Democrat,16
+George,Multi Mart,State Auditor,,Lajena  Walley,Reform,2
+George,Ward,Governor,,Phil  Bryant,Republican,181
+George,Ward,Governor,,Robert  Gray,Democrat,5
+George,Ward,Governor,,Shawn  O'Hara,Reform,4
+George,Ward,Lieutenant Governor,,Tim  Johnson,Democrat,10
+George,Ward,Lieutenant Governor,,Tate  Reeves,Republican,167
+George,Ward,Lieutenant Governor,,Ron  Williams,Libertarian,5
+George,Ward,Lieutenant Governor,,Rosa  B.  Williams,Reform,1
+George,Ward,Secretary of State,,Charles  E.  Graham,Democrat,20
+George,Ward,Secretary of State,,Delbert  Hosemann,Republican,157
+George,Ward,Secretary of State,,Randy  Walker,Reform,9
+George,Ward,Attorney General,,Jim  Hood,Democrat,48
+George,Ward,Attorney General,,Mike  Hurst,Republican,136
+George,Ward,State Auditor,,Stacey  E.  Pickering,Republican,171
+George,Ward,State Auditor,,Jocelyn  'Joce'  Pepper  Pritchett,Democrat,13
+George,Ward,State Auditor,,Lajena  Walley,Reform,1
+George,Shipman,Governor,,Phil  Bryant,Republican,153
+George,Shipman,Governor,,Robert  Gray,Democrat,17
+George,Shipman,Governor,,Shawn  O'Hara,Reform,4
+George,Shipman,Lieutenant Governor,,Tim  Johnson,Democrat,24
+George,Shipman,Lieutenant Governor,,Tate  Reeves,Republican,132
+George,Shipman,Lieutenant Governor,,Ron  Williams,Libertarian,11
+George,Shipman,Lieutenant Governor,,Rosa  B.  Williams,Reform,4
+George,Shipman,Secretary of State,,Charles  E.  Graham,Democrat,33
+George,Shipman,Secretary of State,,Delbert  Hosemann,Republican,127
+George,Shipman,Secretary of State,,Randy  Walker,Reform,11
+George,Shipman,Attorney General,,Jim  Hood,Democrat,48
+George,Shipman,Attorney General,,Mike  Hurst,Republican,121
+George,Shipman,State Auditor,,Stacey  E.  Pickering,Republican,146
+George,Shipman,State Auditor,,Jocelyn  'Joce'  Pepper  Pritchett,Democrat,21
+George,Shipman,State Auditor,,Lajena  Walley,Reform,1
+George,Courthouse,Governor,,Phil  Bryant,Republican,130
+George,Courthouse,Governor,,Robert  Gray,Democrat,13
+George,Courthouse,Governor,,Shawn  O'Hara,Reform,3
+George,Courthouse,Lieutenant Governor,,Tim  Johnson,Democrat,18
+George,Courthouse,Lieutenant Governor,,Tate  Reeves,Republican,119
+George,Courthouse,Lieutenant Governor,,Ron  Williams,Libertarian,4
+George,Courthouse,Lieutenant Governor,,Rosa  B.  Williams,Reform,2
+George,Courthouse,Secretary of State,,Charles  E.  Graham,Democrat,21
+George,Courthouse,Secretary of State,,Delbert  Hosemann,Republican,114
+George,Courthouse,Secretary of State,,Randy  Walker,Reform,9
+George,Courthouse,Attorney General,,Jim  Hood,Democrat,49
+George,Courthouse,Attorney General,,Mike  Hurst,Republican,94
+George,Courthouse,State Auditor,,Stacey  E.  Pickering,Republican,121
+George,Courthouse,State Auditor,,Jocelyn  'Joce'  Pepper  Pritchett,Democrat,17
+George,Courthouse,State Auditor,,Lajena  Walley,Reform,3
+George,Pine Level,Governor,,Phil  Bryant,Republican,211
+George,Pine Level,Governor,,Robert  Gray,Democrat,16
+George,Pine Level,Governor,,Shawn  O'Hara,Reform,9
+George,Pine Level,Lieutenant Governor,,Tim  Johnson,Democrat,18
+George,Pine Level,Lieutenant Governor,,Tate  Reeves,Republican,200
+George,Pine Level,Lieutenant Governor,,Ron  Williams,Libertarian,13
+George,Pine Level,Lieutenant Governor,,Rosa  B.  Williams,Reform,1
+George,Pine Level,Secretary of State,,Charles  E.  Graham,Democrat,23
+George,Pine Level,Secretary of State,,Delbert  Hosemann,Republican,195
+George,Pine Level,Secretary of State,,Randy  Walker,Reform,13
+George,Pine Level,Attorney General,,Jim  Hood,Democrat,47
+George,Pine Level,Attorney General,,Mike  Hurst,Republican,183
+George,Pine Level,State Auditor,,Stacey  E.  Pickering,Republican,202
+George,Pine Level,State Auditor,,Jocelyn  'Joce'  Pepper  Pritchett,Democrat,20
+George,Pine Level,State Auditor,,Lajena  Walley,Reform,4
+George,Agricola,Governor,,Phil  Bryant,Republican,423
+George,Agricola,Governor,,Robert  Gray,Democrat,31
+George,Agricola,Governor,,Shawn  O'Hara,Reform,8
+George,Agricola,Lieutenant Governor,,Tim  Johnson,Democrat,44
+George,Agricola,Lieutenant Governor,,Tate  Reeves,Republican,377
+George,Agricola,Lieutenant Governor,,Ron  Williams,Libertarian,24
+George,Agricola,Lieutenant Governor,,Rosa  B.  Williams,Reform,5
+George,Agricola,Secretary of State,,Charles  E.  Graham,Democrat,62
+George,Agricola,Secretary of State,,Delbert  Hosemann,Republican,353
+George,Agricola,Secretary of State,,Randy  Walker,Reform,30
+George,Agricola,Attorney General,,Jim  Hood,Democrat,128
+George,Agricola,Attorney General,,Mike  Hurst,Republican,321
+George,Agricola,State Auditor,,Stacey  E.  Pickering,Republican,389
+George,Agricola,State Auditor,,Jocelyn  'Joce'  Pepper  Pritchett,Democrat,42
+George,Agricola,State Auditor,,Lajena  Walley,Reform,10
+George,Howell,Governor,,Phil  Bryant,Republican,166
+George,Howell,Governor,,Robert  Gray,Democrat,15
+George,Howell,Governor,,Shawn  O'Hara,Reform,3
+George,Howell,Lieutenant Governor,,Tim  Johnson,Democrat,25
+George,Howell,Lieutenant Governor,,Tate  Reeves,Republican,144
+George,Howell,Lieutenant Governor,,Ron  Williams,Libertarian,9
+George,Howell,Lieutenant Governor,,Rosa  B.  Williams,Reform,3
+George,Howell,Secretary of State,,Charles  E.  Graham,Democrat,22
+George,Howell,Secretary of State,,Delbert  Hosemann,Republican,149
+George,Howell,Secretary of State,,Randy  Walker,Reform,9
+George,Howell,Attorney General,,Jim  Hood,Democrat,45
+George,Howell,Attorney General,,Mike  Hurst,Republican,139
+George,Howell,State Auditor,,Stacey  E.  Pickering,Republican,163
+George,Howell,State Auditor,,Jocelyn  'Joce'  Pepper  Pritchett,Democrat,17
+George,Howell,State Auditor,,Lajena  Walley,Reform,2
+George,Movella,Governor,,Phil  Bryant,Republican,161
+George,Movella,Governor,,Robert  Gray,Democrat,9
+George,Movella,Governor,,Shawn  O'Hara,Reform,7
+George,Movella,Lieutenant Governor,,Tim  Johnson,Democrat,15
+George,Movella,Lieutenant Governor,,Tate  Reeves,Republican,148
+George,Movella,Lieutenant Governor,,Ron  Williams,Libertarian,11
+George,Movella,Lieutenant Governor,,Rosa  B.  Williams,Reform,1
+George,Movella,Secretary of State,,Charles  E.  Graham,Democrat,23
+George,Movella,Secretary of State,,Delbert  Hosemann,Republican,132
+George,Movella,Secretary of State,,Randy  Walker,Reform,13
+George,Movella,Attorney General,,Jim  Hood,Democrat,46
+George,Movella,Attorney General,,Mike  Hurst,Republican,121
+George,Movella,State Auditor,,Stacey  E.  Pickering,Republican,155
+George,Movella,State Auditor,,Jocelyn  'Joce'  Pepper  Pritchett,Democrat,11
+George,Movella,State Auditor,,Lajena  Walley,Reform,4
+George,Multi-Purpose,Governor,,Phil  Bryant,Republican,89
+George,Multi-Purpose,Governor,,Robert  Gray,Democrat,5
+George,Multi-Purpose,Governor,,Shawn  O'Hara,Reform,1
+George,Multi-Purpose,Lieutenant Governor,,Tim  Johnson,Democrat,8
+George,Multi-Purpose,Lieutenant Governor,,Tate  Reeves,Republican,82
+George,Multi-Purpose,Lieutenant Governor,,Ron  Williams,Libertarian,5
+George,Multi-Purpose,Lieutenant Governor,,Rosa  B.  Williams,Reform,0
+George,Multi-Purpose,Secretary of State,,Charles  E.  Graham,Democrat,11
+George,Multi-Purpose,Secretary of State,,Delbert  Hosemann,Republican,80
+George,Multi-Purpose,Secretary of State,,Randy  Walker,Reform,3
+George,Multi-Purpose,Attorney General,,Jim  Hood,Democrat,32
+George,Multi-Purpose,Attorney General,,Mike  Hurst,Republican,62
+George,Multi-Purpose,State Auditor,,Stacey  E.  Pickering,Republican,88
+George,Multi-Purpose,State Auditor,,Jocelyn  'Joce'  Pepper  Pritchett,Democrat,4
+George,Multi-Purpose,State Auditor,,Lajena  Walley,Reform,2
+George,Basin,Governor,,Phil  Bryant,Republican,392
+George,Basin,Governor,,Robert  Gray,Democrat,83
+George,Basin,Governor,,Shawn  O'Hara,Reform,9
+George,Basin,Lieutenant Governor,,Tim  Johnson,Democrat,97
+George,Basin,Lieutenant Governor,,Tate  Reeves,Republican,351
+George,Basin,Lieutenant Governor,,Ron  Williams,Libertarian,20
+George,Basin,Lieutenant Governor,,Rosa  B.  Williams,Reform,7
+George,Basin,Secretary of State,,Charles  E.  Graham,Democrat,116
+George,Basin,Secretary of State,,Delbert  Hosemann,Republican,326
+George,Basin,Secretary of State,,Randy  Walker,Reform,30
+George,Basin,Attorney General,,Jim  Hood,Democrat,202
+George,Basin,Attorney General,,Mike  Hurst,Republican,279
+George,Basin,State Auditor,,Stacey  E.  Pickering,Republican,367
+George,Basin,State Auditor,,Jocelyn  'Joce'  Pepper  Pritchett,Democrat,85
+George,Basin,State Auditor,,Lajena  Walley,Reform,20
+George,Davis,Governor,,Phil  Bryant,Republican,199
+George,Davis,Governor,,Robert  Gray,Democrat,15
+George,Davis,Governor,,Shawn  O'Hara,Reform,3
+George,Davis,Lieutenant Governor,,Tim  Johnson,Democrat,18
+George,Davis,Lieutenant Governor,,Tate  Reeves,Republican,191
+George,Davis,Lieutenant Governor,,Ron  Williams,Libertarian,4
+George,Davis,Lieutenant Governor,,Rosa  B.  Williams,Reform,3
+George,Davis,Secretary of State,,Charles  E.  Graham,Democrat,31
+George,Davis,Secretary of State,,Delbert  Hosemann,Republican,178
+George,Davis,Secretary of State,,Randy  Walker,Reform,8
+George,Davis,Attorney General,,Jim  Hood,Democrat,79
+George,Davis,Attorney General,,Mike  Hurst,Republican,138
+George,Davis,State Auditor,,Stacey  E.  Pickering,Republican,193
+George,Davis,State Auditor,,Jocelyn  'Joce'  Pepper  Pritchett,Democrat,18
+George,Davis,State Auditor,,Lajena  Walley,Reform,4
+George,Barton,Governor,,Phil  Bryant,Republican,343
+George,Barton,Governor,,Robert  Gray,Democrat,34
+George,Barton,Governor,,Shawn  O'Hara,Reform,5
+George,Barton,Lieutenant Governor,,Tim  Johnson,Democrat,40
+George,Barton,Lieutenant Governor,,Tate  Reeves,Republican,319
+George,Barton,Lieutenant Governor,,Ron  Williams,Libertarian,11
+George,Barton,Lieutenant Governor,,Rosa  B.  Williams,Reform,6
+George,Barton,Secretary of State,,Charles  E.  Graham,Democrat,47
+George,Barton,Secretary of State,,Delbert  Hosemann,Republican,311
+George,Barton,Secretary of State,,Randy  Walker,Reform,19
+George,Barton,Attorney General,,Jim  Hood,Democrat,97
+George,Barton,Attorney General,,Mike  Hurst,Republican,283
+George,Barton,State Auditor,,Stacey  E.  Pickering,Republican,330
+George,Barton,State Auditor,,Jocelyn  'Joce'  Pepper  Pritchett,Democrat,43
+George,Barton,State Auditor,,Lajena  Walley,Reform,5
+George,City Hall,Governor,,Phil  Bryant,Republican,434
+George,City Hall,Governor,,Robert  Gray,Democrat,52
+George,City Hall,Governor,,Shawn  O'Hara,Reform,15
+George,City Hall,Lieutenant Governor,,Tim  Johnson,Democrat,67
+George,City Hall,Lieutenant Governor,,Tate  Reeves,Republican,390
+George,City Hall,Lieutenant Governor,,Ron  Williams,Libertarian,20
+George,City Hall,Lieutenant Governor,,Rosa  B.  Williams,Reform,11
+George,City Hall,Secretary of State,,Charles  E.  Graham,Democrat,71
+George,City Hall,Secretary of State,,Delbert  Hosemann,Republican,394
+George,City Hall,Secretary of State,,Randy  Walker,Reform,25
+George,City Hall,Attorney General,,Jim  Hood,Democrat,168
+George,City Hall,Attorney General,,Mike  Hurst,Republican,322
+George,City Hall,State Auditor,,Stacey  E.  Pickering,Republican,418
+George,City Hall,State Auditor,,Jocelyn  'Joce'  Pepper  Pritchett,Democrat,67
+George,City Hall,State Auditor,,Lajena  Walley,Reform,8
+George,Shady Grove,Governor,,Phil  Bryant,Republican,414
+George,Shady Grove,Governor,,Robert  Gray,Democrat,36
+George,Shady Grove,Governor,,Shawn  O'Hara,Reform,9
+George,Shady Grove,Lieutenant Governor,,Tim  Johnson,Democrat,56
+George,Shady Grove,Lieutenant Governor,,Tate  Reeves,Republican,371
+George,Shady Grove,Lieutenant Governor,,Ron  Williams,Libertarian,22
+George,Shady Grove,Lieutenant Governor,,Rosa  B.  Williams,Reform,3
+George,Shady Grove,Secretary of State,,Charles  E.  Graham,Democrat,77
+George,Shady Grove,Secretary of State,,Delbert  Hosemann,Republican,338
+George,Shady Grove,Secretary of State,,Randy  Walker,Reform,35
+George,Shady Grove,Attorney General,,Jim  Hood,Democrat,167
+George,Shady Grove,Attorney General,,Mike  Hurst,Republican,286
+George,Shady Grove,State Auditor,,Stacey  E.  Pickering,Republican,389
+George,Shady Grove,State Auditor,,Jocelyn  'Joce'  Pepper  Pritchett,Democrat,49
+George,Shady Grove,State Auditor,,Lajena  Walley,Reform,14
+George,Bexley,Governor,,Phil  Bryant,Republican,246
+George,Bexley,Governor,,Robert  Gray,Democrat,45
+George,Bexley,Governor,,Shawn  O'Hara,Reform,7
+George,Bexley,Lieutenant Governor,,Tim  Johnson,Democrat,70
+George,Bexley,Lieutenant Governor,,Tate  Reeves,Republican,218
+George,Bexley,Lieutenant Governor,,Ron  Williams,Libertarian,8
+George,Bexley,Lieutenant Governor,,Rosa  B.  Williams,Reform,0
+George,Bexley,Secretary of State,,Charles  E.  Graham,Democrat,86
+George,Bexley,Secretary of State,,Delbert  Hosemann,Republican,188
+George,Bexley,Secretary of State,,Randy  Walker,Reform,23
+George,Bexley,Attorney General,,Jim  Hood,Democrat,151
+George,Bexley,Attorney General,,Mike  Hurst,Republican,145
+George,Bexley,State Auditor,,Stacey  E.  Pickering,Republican,235
+George,Bexley,State Auditor,,Jocelyn  'Joce'  Pepper  Pritchett,Democrat,58
+George,Bexley,State Auditor,,Lajena  Walley,Reform,7
+George,Salem,Governor,,Phil  Bryant,Republican,47
+George,Salem,Governor,,Robert  Gray,Democrat,6
+George,Salem,Governor,,Shawn  O'Hara,Reform,1
+George,Salem,Lieutenant Governor,,Tim  Johnson,Democrat,6
+George,Salem,Lieutenant Governor,,Tate  Reeves,Republican,42
+George,Salem,Lieutenant Governor,,Ron  Williams,Libertarian,2
+George,Salem,Lieutenant Governor,,Rosa  B.  Williams,Reform,0
+George,Salem,Secretary of State,,Charles  E.  Graham,Democrat,15
+George,Salem,Secretary of State,,Delbert  Hosemann,Republican,36
+George,Salem,Secretary of State,,Randy  Walker,Reform,1
+George,Salem,Attorney General,,Jim  Hood,Democrat,19
+George,Salem,Attorney General,,Mike  Hurst,Republican,31
+George,Salem,State Auditor,,Stacey  E.  Pickering,Republican,44
+George,Salem,State Auditor,,Jocelyn  'Joce'  Pepper  Pritchett,Democrat,7
+George,Salem,State Auditor,,Lajena  Walley,Reform,0
+George,Middle School,Governor,,Phil  Bryant,Republican,190
+George,Middle School,Governor,,Robert  Gray,Democrat,95
+George,Middle School,Governor,,Shawn  O'Hara,Reform,7
+George,Middle School,Lieutenant Governor,,Tim  Johnson,Democrat,107
+George,Middle School,Lieutenant Governor,,Tate  Reeves,Republican,170
+George,Middle School,Lieutenant Governor,,Ron  Williams,Libertarian,13
+George,Middle School,Lieutenant Governor,,Rosa  B.  Williams,Reform,3
+George,Middle School,Secretary of State,,Charles  E.  Graham,Democrat,100
+George,Middle School,Secretary of State,,Delbert  Hosemann,Republican,174
+George,Middle School,Secretary of State,,Randy  Walker,Reform,18
+George,Middle School,Attorney General,,Jim  Hood,Democrat,173
+George,Middle School,Attorney General,,Mike  Hurst,Republican,122
+George,Middle School,State Auditor,,Stacey  E.  Pickering,Republican,175
+George,Middle School,State Auditor,,Jocelyn  'Joce'  Pepper  Pritchett,Democrat,106
+George,Middle School,State Auditor,,Lajena  Walley,Reform,10
+George,Central,Governor,,Phil  Bryant,Republican,147
+George,Central,Governor,,Robert  Gray,Democrat,6
+George,Central,Governor,,Shawn  O'Hara,Reform,1
+George,Central,Lieutenant Governor,,Tim  Johnson,Democrat,18
+George,Central,Lieutenant Governor,,Tate  Reeves,Republican,129
+George,Central,Lieutenant Governor,,Ron  Williams,Libertarian,4
+George,Central,Lieutenant Governor,,Rosa  B.  Williams,Reform,1
+George,Central,Secretary of State,,Charles  E.  Graham,Democrat,26
+George,Central,Secretary of State,,Delbert  Hosemann,Republican,114
+George,Central,Secretary of State,,Randy  Walker,Reform,12
+George,Central,Attorney General,,Jim  Hood,Democrat,60
+George,Central,Attorney General,,Mike  Hurst,Republican,94
+George,Central,State Auditor,,Stacey  E.  Pickering,Republican,128
+George,Central,State Auditor,,Jocelyn  'Joce'  Pepper  Pritchett,Democrat,20
+George,Central,State Auditor,,Lajena  Walley,Reform,4
+George,Benndale,Governor,,Phil  Bryant,Republican,296
+George,Benndale,Governor,,Robert  Gray,Democrat,75
+George,Benndale,Governor,,Shawn  O'Hara,Reform,8
+George,Benndale,Lieutenant Governor,,Tim  Johnson,Democrat,77
+George,Benndale,Lieutenant Governor,,Tate  Reeves,Republican,264
+George,Benndale,Lieutenant Governor,,Ron  Williams,Libertarian,21
+George,Benndale,Lieutenant Governor,,Rosa  B.  Williams,Reform,12
+George,Benndale,Secretary of State,,Charles  E.  Graham,Democrat,99
+George,Benndale,Secretary of State,,Delbert  Hosemann,Republican,235
+George,Benndale,Secretary of State,,Randy  Walker,Reform,34
+George,Benndale,Attorney General,,Jim  Hood,Democrat,178
+George,Benndale,Attorney General,,Mike  Hurst,Republican,196
+George,Benndale,State Auditor,,Stacey  E.  Pickering,Republican,277
+George,Benndale,State Auditor,,Jocelyn  'Joce'  Pepper  Pritchett,Democrat,74
+George,Benndale,State Auditor,,Lajena  Walley,Reform,16
+George,Broome,Governor,,Phil  Bryant,Republican,97
+George,Broome,Governor,,Robert  Gray,Democrat,6
+George,Broome,Governor,,Shawn  O'Hara,Reform,2
+George,Broome,Lieutenant Governor,,Tim  Johnson,Democrat,7
+George,Broome,Lieutenant Governor,,Tate  Reeves,Republican,91
+George,Broome,Lieutenant Governor,,Ron  Williams,Libertarian,3
+George,Broome,Lieutenant Governor,,Rosa  B.  Williams,Reform,1
+George,Broome,Secretary of State,,Charles  E.  Graham,Democrat,14
+George,Broome,Secretary of State,,Delbert  Hosemann,Republican,82
+George,Broome,Secretary of State,,Randy  Walker,Reform,5
+George,Broome,Attorney General,,Jim  Hood,Democrat,46
+George,Broome,Attorney General,,Mike  Hurst,Republican,57
+George,Broome,State Auditor,,Stacey  E.  Pickering,Republican,92
+George,Broome,State Auditor,,Jocelyn  'Joce'  Pepper  Pritchett,Democrat,7
+George,Broome,State Auditor,,Lajena  Walley,Reform,3
+George,Twin Creek,Governor,,Phil  Bryant,Republican,146
+George,Twin Creek,Governor,,Robert  Gray,Democrat,21
+George,Twin Creek,Governor,,Shawn  O'Hara,Reform,7
+George,Twin Creek,Lieutenant Governor,,Tim  Johnson,Democrat,34
+George,Twin Creek,Lieutenant Governor,,Tate  Reeves,Republican,123
+George,Twin Creek,Lieutenant Governor,,Ron  Williams,Libertarian,7
+George,Twin Creek,Lieutenant Governor,,Rosa  B.  Williams,Reform,3
+George,Twin Creek,Secretary of State,,Charles  E.  Graham,Democrat,41
+George,Twin Creek,Secretary of State,,Delbert  Hosemann,Republican,110
+George,Twin Creek,Secretary of State,,Randy  Walker,Reform,17
+George,Twin Creek,Attorney General,,Jim  Hood,Democrat,75
+George,Twin Creek,Attorney General,,Mike  Hurst,Republican,93
+George,Twin Creek,State Auditor,,Stacey  E.  Pickering,Republican,136
+George,Twin Creek,State Auditor,,Jocelyn  'Joce'  Pepper  Pritchett,Democrat,23
+George,Twin Creek,State Auditor,,Lajena  Walley,Reform,9
+George,,Governor,,Phil  Bryant,Republican,5348
+George,,Governor,,Robert  Gray,Democrat,634
+George,,Governor,,Shawn  O'Hara,Reform,129
+George,,Lieutenant Governor,,Tim  Johnson,Democrat,844
+George,,Lieutenant Governor,,Tate  Reeves,Republican,4825
+George,,Lieutenant Governor,,Ron  Williams,Libertarian,260
+George,,Lieutenant Governor,,Rosa  B.  Williams,Reform,77
+George,,Secretary of State,,Charles  E.  Graham,Democrat,1051
+George,,Secretary of State,,Delbert  Hosemann,Republican,4546
+George,,Secretary of State,,Randy  Walker,Reform,386
+George,,Attorney General,,Jim  Hood,Democrat,2155
+George,,Attorney General,,Mike  Hurst,Republican,3860
+George,,State Auditor,,Stacey  E.  Pickering,Republican,5051
+George,,State Auditor,,Jocelyn  'Joce'  Pepper  Pritchett,Democrat,777
+George,,State Auditor,,Lajena  Walley,Reform,151
+George,Rocky Creek,State Treasurer,,Lynn Fitch,Republican,719
+George,Rocky Creek,State Treasurer,,Viola McFarland,Reform,41
+George,Rocky Creek,Commissioner of Agriculture & Commerce,,Addie Lee Green,Democrat,77
+George,Rocky Creek,Commissioner of Agriculture & Commerce,,Cindy Hyde-Smith,Republican,667
+George,Rocky Creek,Commissioner of Agriculture & Commerce,,Cathy L Toole,Reform,33
+George,Rocky Creek,Commissioner of Insurance,,Mike Chaney,Republican,757
+George,Rocky Creek,State Senate,43,Dennis DeBar Jr.,Republican,723
+George,Rocky Creek,State Senate,43,Towana A. Wright,Democrat,66
+George,Multi Mart,State Treasurer,,Lynn Fitch,Republican,139
+George,Multi Mart,State Treasurer,,Viola McFarland,Reform,12
+George,Multi Mart,Commissioner of Agriculture & Commerce,,Addie Lee Green,Democrat,18
+George,Multi Mart,Commissioner of Agriculture & Commerce,,Cindy Hyde-Smith,Republican,126
+George,Multi Mart,Commissioner of Agriculture & Commerce,,Cathy L Toole,Reform,6
+George,Multi Mart,Commissioner of Insurance,,Mike Chaney,Republican,145
+George,Multi Mart,State Senate,43,Dennis DeBar Jr.,Republican,132
+George,Multi Mart,State Senate,43,Towana A. Wright,Democrat,22
+George,Ward,State Treasurer,,Lynn Fitch,Republican,178
+George,Ward,State Treasurer,,Viola McFarland,Reform,8
+George,Ward,Commissioner of Agriculture & Commerce,,Addie Lee Green,Democrat,16
+George,Ward,Commissioner of Agriculture & Commerce,,Cindy Hyde-Smith,Republican,165
+George,Ward,Commissioner of Agriculture & Commerce,,Cathy L Toole,Reform,4
+George,Ward,Commissioner of Insurance,,Mike Chaney,Republican,183
+George,Ward,State Senate,43,Dennis DeBar Jr.,Republican,175
+George,Ward,State Senate,43,Towana A. Wright,Democrat,15
+George,Shipman,State Treasurer,,Lynn Fitch,Republican,152
+George,Shipman,State Treasurer,,Viola McFarland,Reform,12
+George,Shipman,Commissioner of Agriculture & Commerce,,Addie Lee Green,Democrat,29
+George,Shipman,Commissioner of Agriculture & Commerce,,Cindy Hyde-Smith,Republican,138
+George,Shipman,Commissioner of Agriculture & Commerce,,Cathy L Toole,Reform,4
+George,Shipman,Commissioner of Insurance,,Mike Chaney,Republican,158
+George,Shipman,State Senate,43,Dennis DeBar Jr.,Republican,155
+George,Shipman,State Senate,43,Towana A. Wright,Democrat,18
+George,Courthouse,State Treasurer,,Lynn Fitch,Republican,125
+George,Courthouse,State Treasurer,,Viola McFarland,Reform,12
+George,Courthouse,Commissioner of Agriculture & Commerce,,Addie Lee Green,Democrat,20
+George,Courthouse,Commissioner of Agriculture & Commerce,,Cindy Hyde-Smith,Republican,115
+George,Courthouse,Commissioner of Agriculture & Commerce,,Cathy L Toole,Reform,5
+George,Courthouse,Commissioner of Insurance,,Mike Chaney,Republican,134
+George,Courthouse,State Senate,43,Dennis DeBar Jr.,Republican,126
+George,Courthouse,State Senate,43,Towana A. Wright,Democrat,19
+George,Pine Level,State Treasurer,,Lynn Fitch,Republican,204
+George,Pine Level,State Treasurer,,Viola McFarland,Reform,21
+George,Pine Level,Commissioner of Agriculture & Commerce,,Addie Lee Green,Democrat,16
+George,Pine Level,Commissioner of Agriculture & Commerce,,Cindy Hyde-Smith,Republican,198
+George,Pine Level,Commissioner of Agriculture & Commerce,,Cathy L Toole,Reform,12
+George,Pine Level,Commissioner of Insurance,,Mike Chaney,Republican,222
+George,Pine Level,State Senate,43,Dennis DeBar Jr.,Republican,211
+George,Pine Level,State Senate,43,Towana A. Wright,Democrat,20
+George,Agricola,State Treasurer,,Lynn Fitch,Republican,406
+George,Agricola,State Treasurer,,Viola McFarland,Reform,30
+George,Agricola,Commissioner of Agriculture & Commerce,,Addie Lee Green,Democrat,48
+George,Agricola,Commissioner of Agriculture & Commerce,,Cindy Hyde-Smith,Republican,374
+George,Agricola,Commissioner of Agriculture & Commerce,,Cathy L Toole,Reform,20
+George,Agricola,Commissioner of Insurance,,Mike Chaney,Republican,434
+George,Agricola,State Senate,43,Dennis DeBar Jr.,Republican,388
+George,Agricola,State Senate,43,Towana A. Wright,Democrat,65
+George,Howell,State Treasurer,,Lynn Fitch,Republican,170
+George,Howell,State Treasurer,,Viola McFarland,Reform,11
+George,Howell,Commissioner of Agriculture & Commerce,,Addie Lee Green,Democrat,20
+George,Howell,Commissioner of Agriculture & Commerce,,Cindy Hyde-Smith,Republican,160
+George,Howell,Commissioner of Agriculture & Commerce,,Cathy L Toole,Reform,4
+George,Howell,Commissioner of Insurance,,Mike Chaney,Republican,174
+George,Howell,State Senate,43,Dennis DeBar Jr.,Republican,162
+George,Howell,State Senate,43,Towana A. Wright,Democrat,28
+George,Movella,State Treasurer,,Lynn Fitch,Republican,157
+George,Movella,State Treasurer,,Viola McFarland,Reform,10
+George,Movella,Commissioner of Agriculture & Commerce,,Addie Lee Green,Democrat,14
+George,Movella,Commissioner of Agriculture & Commerce,,Cindy Hyde-Smith,Republican,153
+George,Movella,Commissioner of Agriculture & Commerce,,Cathy L Toole,Reform,4
+George,Movella,Commissioner of Insurance,,Mike Chaney,Republican,168
+George,Movella,State Senate,43,Dennis DeBar Jr.,Republican,152
+George,Movella,State Senate,43,Towana A. Wright,Democrat,23
+George,Multi-Purpose,State Treasurer,,Lynn Fitch,Republican,88
+George,Multi-Purpose,State Treasurer,,Viola McFarland,Reform,2
+George,Multi-Purpose,Commissioner of Agriculture & Commerce,,Addie Lee Green,Democrat,6
+George,Multi-Purpose,Commissioner of Agriculture & Commerce,,Cindy Hyde-Smith,Republican,84
+George,Multi-Purpose,Commissioner of Agriculture & Commerce,,Cathy L Toole,Reform,1
+George,Multi-Purpose,Commissioner of Insurance,,Mike Chaney,Republican,92
+George,Multi-Purpose,State Senate,43,Dennis DeBar Jr.,Republican,89
+George,Multi-Purpose,State Senate,43,Towana A. Wright,Democrat,6
+George,Basin,State Treasurer,,Lynn Fitch,Republican,397
+George,Basin,State Treasurer,,Viola McFarland,Reform,54
+George,Basin,Commissioner of Agriculture & Commerce,,Addie Lee Green,Democrat,112
+George,Basin,Commissioner of Agriculture & Commerce,,Cindy Hyde-Smith,Republican,341
+George,Basin,Commissioner of Agriculture & Commerce,,Cathy L Toole,Reform,17
+George,Basin,Commissioner of Insurance,,Mike Chaney,Republican,424
+George,Basin,State Senate,43,Dennis DeBar Jr.,Republican,372
+George,Basin,State Senate,43,Towana A. Wright,Democrat,100
+George,Davis,State Treasurer,,Lynn Fitch,Republican,198
+George,Davis,State Treasurer,,Viola McFarland,Reform,18
+George,Davis,Commissioner of Agriculture & Commerce,,Addie Lee Green,Democrat,21
+George,Davis,Commissioner of Agriculture & Commerce,,Cindy Hyde-Smith,Republican,190
+George,Davis,Commissioner of Agriculture & Commerce,,Cathy L Toole,Reform,6
+George,Davis,Commissioner of Insurance,,Mike Chaney,Republican,208
+George,Davis,State Senate,43,Dennis DeBar Jr.,Republican,192
+George,Davis,State Senate,43,Towana A. Wright,Democrat,27
+George,Barton,State Treasurer,,Lynn Fitch,Republican,336
+George,Barton,State Treasurer,,Viola McFarland,Reform,34
+George,Barton,Commissioner of Agriculture & Commerce,,Addie Lee Green,Democrat,42
+George,Barton,Commissioner of Agriculture & Commerce,,Cindy Hyde-Smith,Republican,327
+George,Barton,Commissioner of Agriculture & Commerce,,Cathy L Toole,Reform,12
+George,Barton,Commissioner of Insurance,,Mike Chaney,Republican,361
+George,Barton,State Senate,43,Dennis DeBar Jr.,Republican,334
+George,Barton,State Senate,43,Towana A. Wright,Democrat,51
+George,City Hall,State Treasurer,,Lynn Fitch,Republican,439
+George,City Hall,State Treasurer,,Viola McFarland,Reform,42
+George,City Hall,Commissioner of Agriculture & Commerce,,Addie Lee Green,Democrat,77
+George,City Hall,Commissioner of Agriculture & Commerce,,Cindy Hyde-Smith,Republican,400
+George,City Hall,Commissioner of Agriculture & Commerce,,Cathy L Toole,Reform,13
+George,City Hall,Commissioner of Insurance,,Mike Chaney,Republican,469
+George,City Hall,State Senate,43,Dennis DeBar Jr.,Republican,422
+George,City Hall,State Senate,43,Towana A. Wright,Democrat,75
+George,Shady Grove,State Treasurer,,Lynn Fitch,Republican,405
+George,Shady Grove,State Treasurer,,Viola McFarland,Reform,37
+George,Shady Grove,Commissioner of Agriculture & Commerce,,Addie Lee Green,Democrat,76
+George,Shady Grove,Commissioner of Agriculture & Commerce,,Cindy Hyde-Smith,Republican,352
+George,Shady Grove,Commissioner of Agriculture & Commerce,,Cathy L Toole,Reform,20
+George,Shady Grove,Commissioner of Insurance,,Mike Chaney,Republican,434
+George,Shady Grove,State Senate,43,Dennis DeBar Jr.,Republican,399
+George,Shady Grove,State Senate,43,Towana A. Wright,Democrat,63
+George,Bexley,State Treasurer,,Lynn Fitch,Republican,253
+George,Bexley,State Treasurer,,Viola McFarland,Reform,36
+George,Bexley,Commissioner of Agriculture & Commerce,,Addie Lee Green,Democrat,80
+George,Bexley,Commissioner of Agriculture & Commerce,,Cindy Hyde-Smith,Republican,202
+George,Bexley,Commissioner of Agriculture & Commerce,,Cathy L Toole,Reform,14
+George,Bexley,Commissioner of Insurance,,Mike Chaney,Republican,277
+George,Bexley,State Senate,43,Dennis DeBar Jr.,Republican,241
+George,Bexley,State Senate,43,Towana A. Wright,Democrat,60
+George,Salem,State Treasurer,,Lynn Fitch,Republican,46
+George,Salem,State Treasurer,,Viola McFarland,Reform,2
+George,Salem,Commissioner of Agriculture & Commerce,,Addie Lee Green,Democrat,13
+George,Salem,Commissioner of Agriculture & Commerce,,Cindy Hyde-Smith,Republican,38
+George,Salem,Commissioner of Agriculture & Commerce,,Cathy L Toole,Reform,1
+George,Salem,Commissioner of Insurance,,Mike Chaney,Republican,46
+George,Salem,State Senate,43,Dennis DeBar Jr.,Republican,42
+George,Salem,State Senate,43,Towana A. Wright,Democrat,12
+George,Middle School,State Treasurer,,Lynn Fitch,Republican,220
+George,Middle School,State Treasurer,,Viola McFarland,Reform,58
+George,Middle School,Commissioner of Agriculture & Commerce,,Addie Lee Green,Democrat,125
+George,Middle School,Commissioner of Agriculture & Commerce,,Cindy Hyde-Smith,Republican,161
+George,Middle School,Commissioner of Agriculture & Commerce,,Cathy L Toole,Reform,9
+George,Middle School,Commissioner of Insurance,,Mike Chaney,Republican,254
+George,Middle School,State Senate,43,Dennis DeBar Jr.,Republican,181
+George,Middle School,State Senate,43,Towana A. Wright,Democrat,104
+George,Central,State Treasurer,,Lynn Fitch,Republican,141
+George,Central,State Treasurer,,Viola McFarland,Reform,11
+George,Central,Commissioner of Agriculture & Commerce,,Addie Lee Green,Democrat,21
+George,Central,Commissioner of Agriculture & Commerce,,Cindy Hyde-Smith,Republican,122
+George,Central,Commissioner of Agriculture & Commerce,,Cathy L Toole,Reform,8
+George,Central,Commissioner of Insurance,,Mike Chaney,Republican,146
+George,Central,State Senate,43,Dennis DeBar Jr.,Republican,126
+George,Central,State Senate,43,Towana A. Wright,Democrat,27
+George,Benndale,State Treasurer,,Lynn Fitch,Republican,302
+George,Benndale,State Treasurer,,Viola McFarland,Reform,53
+George,Benndale,Commissioner of Agriculture & Commerce,,Addie Lee Green,Democrat,103
+George,Benndale,Commissioner of Agriculture & Commerce,,Cindy Hyde-Smith,Republican,234
+George,Benndale,Commissioner of Agriculture & Commerce,,Cathy L Toole,Reform,30
+George,Benndale,Commissioner of Insurance,,Mike Chaney,Republican,332
+George,Benndale,State Senate,43,Dennis DeBar Jr.,Republican,243
+George,Benndale,State Senate,43,Towana A. Wright,Democrat,123
+George,Broome,State Treasurer,,Lynn Fitch,Republican,89
+George,Broome,State Treasurer,,Viola McFarland,Reform,12
+George,Broome,Commissioner of Agriculture & Commerce,,Addie Lee Green,Democrat,13
+George,Broome,Commissioner of Agriculture & Commerce,,Cindy Hyde-Smith,Republican,81
+George,Broome,Commissioner of Agriculture & Commerce,,Cathy L Toole,Reform,8
+George,Broome,Commissioner of Insurance,,Mike Chaney,Republican,99
+George,Broome,State Senate,43,Dennis DeBar Jr.,Republican,76
+George,Broome,State Senate,43,Towana A. Wright,Democrat,22
+George,Twin Creek,State Treasurer,,Lynn Fitch,Republican,147
+George,Twin Creek,State Treasurer,,Viola McFarland,Reform,13
+George,Twin Creek,Commissioner of Agriculture & Commerce,,Addie Lee Green,Democrat,33
+George,Twin Creek,Commissioner of Agriculture & Commerce,,Cindy Hyde-Smith,Republican,122
+George,Twin Creek,Commissioner of Agriculture & Commerce,,Cathy L Toole,Reform,12
+George,Twin Creek,Commissioner of Insurance,,Mike Chaney,Republican,152
+George,Twin Creek,State Senate,43,Dennis DeBar Jr.,Republican,149
+George,Twin Creek,State Senate,43,Towana A. Wright,Democrat,23
+George,,State Treasurer,,Lynn Fitch,Republican,5311
+George,,State Treasurer,,Viola McFarland,Reform,529
+George,,Commissioner of Agriculture & Commerce,,Addie Lee Green,Democrat,980
+George,,Commissioner of Agriculture & Commerce,,Cindy Hyde-Smith,Republican,4750
+George,,Commissioner of Agriculture & Commerce,,Cathy L Toole,Reform,243
+George,,Commissioner of Insurance,,Mike Chaney,Republican,5669
+George,,State Senate,43,Dennis DeBar Jr.,Republican,5090
+George,,State Senate,43,Towana A. Wright,Democrat,969
+George,Rocky Creek,State House,105,Dennis Cochran,Democrat,222
+George,Rocky Creek,State House,105,Roun McNeal,Republican,565
+George,Rocky Creek,State House,107,Austin Howell,Democrat,X
+George,Rocky Creek,State House,107,Doug McLeod,Republican,X
+George,Rocky Creek,State House,109,Manly Barton,Republican,X
+George,Rocky Creek,State House,109,Joshua Hardy,Libertarian,X
+George,Multi Mart,State House,105,Dennis Cochran,Democrat,X
+George,Multi Mart,State House,105,Roun McNeal,Republican,X
+George,Multi Mart,State House,107,Austin Howell,Democrat,35
+George,Multi Mart,State House,107,Doug McLeod,Republican,123
+George,Multi Mart,State House,109,Manly Barton,Republican,X
+George,Multi Mart,State House,109,Joshua Hardy,Libertarian,X
+George,Ward,State House,105,Dennis Cochran,Democrat,X
+George,Ward,State House,105,Roun McNeal,Republican,X
+George,Ward,State House,107,Austin Howell,Democrat,29
+George,Ward,State House,107,Doug McLeod,Republican,159
+George,Ward,State House,109,Manly Barton,Republican,X
+George,Ward,State House,109,Joshua Hardy,Libertarian,X
+George,Shipman,State House,105,Dennis Cochran,Democrat,X
+George,Shipman,State House,105,Roun McNeal,Republican,X
+George,Shipman,State House,107,Austin Howell,Democrat,X
+George,Shipman,State House,107,Doug McLeod,Republican,X
+George,Shipman,State House,109,Manly Barton,Republican,147
+George,Shipman,State House,109,Joshua Hardy,Libertarian,17
+George,Courthouse,State House,105,Dennis Cochran,Democrat,X
+George,Courthouse,State House,105,Roun McNeal,Republican,X
+George,Courthouse,State House,107,Austin Howell,Democrat,25
+George,Courthouse,State House,107,Doug McLeod,Republican,120
+George,Courthouse,State House,109,Manly Barton,Republican,X
+George,Courthouse,State House,109,Joshua Hardy,Libertarian,X
+George,Pine Level,State House,105,Dennis Cochran,Democrat,X
+George,Pine Level,State House,105,Roun McNeal,Republican,X
+George,Pine Level,State House,107,Austin Howell,Democrat,X
+George,Pine Level,State House,107,Doug McLeod,Republican,X
+George,Pine Level,State House,109,Manly Barton,Republican,209
+George,Pine Level,State House,109,Joshua Hardy,Libertarian,17
+George,Agricola,State House,105,Dennis Cochran,Democrat,X
+George,Agricola,State House,105,Roun McNeal,Republican,X
+George,Agricola,State House,107,Austin Howell,Democrat,X
+George,Agricola,State House,107,Doug McLeod,Republican,X
+George,Agricola,State House,109,Manly Barton,Republican,406
+George,Agricola,State House,109,Joshua Hardy,Libertarian,41
+George,Howell,State House,105,Dennis Cochran,Democrat,X
+George,Howell,State House,105,Roun McNeal,Republican,X
+George,Howell,State House,107,Austin Howell,Democrat,X
+George,Howell,State House,107,Doug McLeod,Republican,X
+George,Howell,State House,109,Manly Barton,Republican,168
+George,Howell,State House,109,Joshua Hardy,Libertarian,17
+George,Movella,State House,105,Dennis Cochran,Democrat,X
+George,Movella,State House,105,Roun McNeal,Republican,X
+George,Movella,State House,107,Austin Howell,Democrat,3
+George,Movella,State House,107,Doug McLeod,Republican,14
+George,Movella,State House,109,Manly Barton,Republican,138
+George,Movella,State House,109,Joshua Hardy,Libertarian,14
+George,Multi-Purpose,State House,105,Dennis Cochran,Democrat,X
+George,Multi-Purpose,State House,105,Roun McNeal,Republican,X
+George,Multi-Purpose,State House,107,Austin Howell,Democrat,20
+George,Multi-Purpose,State House,107,Doug McLeod,Republican,75
+George,Multi-Purpose,State House,109,Manly Barton,Republican,X
+George,Multi-Purpose,State House,109,Joshua Hardy,Libertarian,X
+George,Basin,State House,105,Dennis Cochran,Democrat,X
+George,Basin,State House,105,Roun McNeal,Republican,X
+George,Basin,State House,107,Austin Howell,Democrat,122
+George,Basin,State House,107,Doug McLeod,Republican,355
+George,Basin,State House,109,Manly Barton,Republican,X
+George,Basin,State House,109,Joshua Hardy,Libertarian,X
+George,Davis,State House,105,Dennis Cochran,Democrat,X
+George,Davis,State House,105,Roun McNeal,Republican,X
+George,Davis,State House,107,Austin Howell,Democrat,56
+George,Davis,State House,107,Doug McLeod,Republican,164
+George,Davis,State House,109,Manly Barton,Republican,X
+George,Davis,State House,109,Joshua Hardy,Libertarian,X
+George,Barton,State House,105,Dennis Cochran,Democrat,X
+George,Barton,State House,105,Roun McNeal,Republican,X
+George,Barton,State House,107,Austin Howell,Democrat,62
+George,Barton,State House,107,Doug McLeod,Republican,274
+George,Barton,State House,109,Manly Barton,Republican,47
+George,Barton,State House,109,Joshua Hardy,Libertarian,3
+George,City Hall,State House,105,Dennis Cochran,Democrat,X
+George,City Hall,State House,105,Roun McNeal,Republican,X
+George,City Hall,State House,107,Austin Howell,Democrat,115
+George,City Hall,State House,107,Doug McLeod,Republican,372
+George,City Hall,State House,109,Manly Barton,Republican,X
+George,City Hall,State House,109,Joshua Hardy,Libertarian,X
+George,Shady Grove,State House,105,Dennis Cochran,Democrat,X
+George,Shady Grove,State House,105,Roun McNeal,Republican,X
+George,Shady Grove,State House,107,Austin Howell,Democrat,98
+George,Shady Grove,State House,107,Doug McLeod,Republican,364
+George,Shady Grove,State House,109,Manly Barton,Republican,X
+George,Shady Grove,State House,109,Joshua Hardy,Libertarian,X
+George,Bexley,State House,105,Dennis Cochran,Democrat,X
+George,Bexley,State House,105,Roun McNeal,Republican,X
+George,Bexley,State House,107,Austin Howell,Democrat,73
+George,Bexley,State House,107,Doug McLeod,Republican,231
+George,Bexley,State House,109,Manly Barton,Republican,X
+George,Bexley,State House,109,Joshua Hardy,Libertarian,X
+George,Salem,State House,105,Dennis Cochran,Democrat,X
+George,Salem,State House,105,Roun McNeal,Republican,X
+George,Salem,State House,107,Austin Howell,Democrat,24
+George,Salem,State House,107,Doug McLeod,Republican,30
+George,Salem,State House,109,Manly Barton,Republican,X
+George,Salem,State House,109,Joshua Hardy,Libertarian,X
+George,Middle School,State House,105,Dennis Cochran,Democrat,X
+George,Middle School,State House,105,Roun McNeal,Republican,X
+George,Middle School,State House,107,Austin Howell,Democrat,98
+George,Middle School,State House,107,Doug McLeod,Republican,200
+George,Middle School,State House,109,Manly Barton,Republican,X
+George,Middle School,State House,109,Joshua Hardy,Libertarian,X
+George,Central,State House,105,Dennis Cochran,Democrat,X
+George,Central,State House,105,Roun McNeal,Republican,X
+George,Central,State House,107,Austin Howell,Democrat,30
+George,Central,State House,107,Doug McLeod,Republican,125
+George,Central,State House,109,Manly Barton,Republican,X
+George,Central,State House,109,Joshua Hardy,Libertarian,X
+George,Benndale,State House,105,Dennis Cochran,Democrat,X
+George,Benndale,State House,105,Roun McNeal,Republican,X
+George,Benndale,State House,107,Austin Howell,Democrat,181
+George,Benndale,State House,107,Doug McLeod,Republican,200
+George,Benndale,State House,109,Manly Barton,Republican,X
+George,Benndale,State House,109,Joshua Hardy,Libertarian,X
+George,Broome,State House,105,Dennis Cochran,Democrat,X
+George,Broome,State House,105,Roun McNeal,Republican,X
+George,Broome,State House,107,Austin Howell,Democrat,44
+George,Broome,State House,107,Doug McLeod,Republican,60
+George,Broome,State House,109,Manly Barton,Republican,X
+George,Broome,State House,109,Joshua Hardy,Libertarian,X
+George,Twin Creek,State House,105,Dennis Cochran,Democrat,X
+George,Twin Creek,State House,105,Roun McNeal,Republican,X
+George,Twin Creek,State House,107,Austin Howell,Democrat,42
+George,Twin Creek,State House,107,Doug McLeod,Republican,133
+George,Twin Creek,State House,109,Manly Barton,Republican,X
+George,Twin Creek,State House,109,Joshua Hardy,Libertarian,X
+George,,State House,105,Dennis Cochran,Democrat,222
+George,,State House,105,Roun McNeal,Republican,565
+George,,State House,107,Austin Howell,Democrat,1057
+George,,State House,107,Doug McLeod,Republican,2999
+George,,State House,109,Manly Barton,Republican,1115
+George,,State House,109,Joshua Hardy,Libertarian,109

@@ -1,1 +1,524 @@
-county,precinct,office,district,party,candidate,vote,winnerSimpson,Bowie,Governor,,Republican,Phill Bryant,139,1Simpson,Bowie,Governor,,Democrat,Rober Gray,79,Simpson,Bowie,Governor,,Reform,Shawn O'Hara,2,Simpson,Bowie,Governor,,Democrat,Time Johnson,74,Simpson,Bowie,Governor,,Republican,Tate Reeves,137,Simpson,Braxton,Governor,,Republican,Phill Bryant,460,1Simpson,Braxton,Governor,,Democrat,Rober Gray,19,Simpson,Braxton,Governor,,Reform,Shawn O'Hara,0,Simpson,Braxton,Governor,,Democrat,Time Johnson,32,Simpson,Braxton,Governor,,Republican,Tate Reeves,431,Simpson,Brldgeport,Governor,,Republican,Phill Bryant,105,Simpson,Brldgeport,Governor,,Democrat,Rober Gray,128,Simpson,Brldgeport,Governor,,Reform,Shawn O'Hara,2,Simpson,Brldgeport,Governor,,Democrat,Time Johnson,136,1Simpson,Brldgeport,Governor,,Republican,Tate Reeves,90,Simpson,D'Lo,Governor,,Republican,Phill Bryant,191,1Simpson,D'Lo,Governor,,Democrat,Rober Gray,16,Simpson,D'Lo,Governor,,Reform,Shawn O'Hara,1,Simpson,D'Lo,Governor,,Democrat,Time Johnson,17,Simpson,D'Lo,Governor,,Republican,Tate Reeves,187,Simpson,Dry Creek,Governor,,Republican,Phill Bryant,399,1Simpson,Dry Creek,Governor,,Democrat,Rober Gray,35,Simpson,Dry Creek,Governor,,Reform,Shawn O'Hara,4,Simpson,Dry Creek,Governor,,Democrat,Time Johnson,51,Simpson,Dry Creek,Governor,,Republican,Tate Reeves,374,Simpson,Fork Church,Governor,,Republican,Phill Bryant,89,Simpson,Fork Church,Governor,,Democrat,Rober Gray,124,Simpson,Fork Church,Governor,,Reform,Shawn O'Hara,5,Simpson,Fork Church,Governor,,Democrat,Time Johnson,128,1Simpson,Fork Church,Governor,,Republican,Tate Reeves,81,Simpson,Harrisville,Governor,,Republican,Phill Bryant,379,1Simpson,Harrisville,Governor,,Democrat,Rober Gray,58,Simpson,Harrisville,Governor,,Reform,Shawn O'Hara,6,Simpson,Harrisville,Governor,,Democrat,Time Johnson,65,Simpson,Harrisville,Governor,,Republican,Tate Reeves,364,Simpson,Jupiter,Governor,,Republican,Phill Bryant,138,Simpson,Jupiter,Governor,,Democrat,Rober Gray,243,Simpson,Jupiter,Governor,,Reform,Shawn O'Hara,1,Simpson,Jupiter,Governor,,Democrat,Time Johnson,246,1Simpson,Jupiter,Governor,,Republican,Tate Reeves,115,Simpson,Magee 1,Governor,,Republican,Phill Bryant,87,Simpson,Magee 1,Governor,,Democrat,Rober Gray,242,Simpson,Magee 1,Governor,,Reform,Shawn O'Hara,7,Simpson,Magee 1,Governor,,Democrat,Time Johnson,258,1Simpson,Magee 1,Governor,,Republican,Tate Reeves,66,Simpson,Magee 2,Governor,,Republican,Phill Bryant,582,1Simpson,Magee 2,Governor,,Democrat,Rober Gray,98,Simpson,Magee 2,Governor,,Reform,Shawn O'Hara,7,Simpson,Magee 2,Governor,,Democrat,Time Johnson,113,Simpson,Magee 2,Governor,,Republican,Tate Reeves,556,Simpson,Magee 4 North,Governor,,Republican,Phill Bryant,273,1Simpson,Magee 4 North,Governor,,Democrat,Rober Gray,23,Simpson,Magee 4 North,Governor,,Reform,Shawn O'Hara,4,Simpson,Magee 4 North,Governor,,Democrat,Time Johnson,30,Simpson,Magee 4 North,Governor,,Republican,Tate Reeves,260,Simpson,Magee 4 South,Governor,,Republican,Phill Bryant,452,1Simpson,Magee 4 South,Governor,,Democrat,Rober Gray,89,Simpson,Magee 4 South,Governor,,Reform,Shawn O'Hara,10,Simpson,Magee 4 South,Governor,,Democrat,Time Johnson,110,Simpson,Magee 4 South,Governor,,Republican,Tate Reeves,428,Simpson,Mendenhall 1,Governor,,Republican,Phill Bryant,70,Simpson,Mendenhall 1,Governor,,Democrat,Rober Gray,109,1Simpson,Mendenhall 1,Governor,,Reform,Shawn O'Hara,4,Simpson,Mendenhall 1,Governor,,Democrat,Time Johnson,101,Simpson,Mendenhall 1,Governor,,Republican,Tate Reeves,66,Simpson,Mendenhall 3,Governor,,Republican,Phill Bryant,521,1Simpson,Mendenhall 3,Governor,,Democrat,Rober Gray,66,Simpson,Mendenhall 3,Governor,,Reform,Shawn O'Hara,8,Simpson,Mendenhall 3,Governor,,Democrat,Time Johnson,83,Simpson,Mendenhall 3,Governor,,Republican,Tate Reeves,490,Simpson,Merit,Governor,,Republican,Phill Bryant,398,1Simpson,Merit,Governor,,Democrat,Rober Gray,27,Simpson,Merit,Governor,,Reform,Shawn O'Hara,1,Simpson,Merit,Governor,,Democrat,Time Johnson,40,Simpson,Merit,Governor,,Republican,Tate Reeves,372,Simpson,New Hope,Governor,,Republican,Phill Bryant,94,1Simpson,New Hope,Governor,,Democrat,Rober Gray,49,Simpson,New Hope,Governor,,Reform,Shawn O'Hara,2,Simpson,New Hope,Governor,,Democrat,Time Johnson,53,Simpson,New Hope,Governor,,Republican,Tate Reeves,89,Simpson,Oak Grove,Governor,,Republican,Phill Bryant,241,1Simpson,Oak Grove,Governor,,Democrat,Rober Gray,142,Simpson,Oak Grove,Governor,,Reform,Shawn O'Hara,4,Simpson,Oak Grove,Governor,,Democrat,Time Johnson,142,Simpson,Oak Grove,Governor,,Republican,Tate Reeves,223,Simpson,Pearl,Governor,,Republican,Phill Bryant,246,1Simpson,Pearl,Governor,,Democrat,Rober Gray,44,Simpson,Pearl,Governor,,Reform,Shawn O'Hara,3,Simpson,Pearl,Governor,,Democrat,Time Johnson,45,Simpson,Pearl,Governor,,Republican,Tate Reeves,239,Simpson,Pinola,Governor,,Republican,Phill Bryant,167,1Simpson,Pinola,Governor,,Democrat,Rober Gray,65,Simpson,Pinola,Governor,,Reform,Shawn O'Hara,1,Simpson,Pinola,Governor,,Democrat,Time Johnson,65,Simpson,Pinola,Governor,,Republican,Tate Reeves,150,Simpson,Saratoga,Governor,,Republican,Phill Bryant,125,1Simpson,Saratoga,Governor,,Democrat,Rober Gray,80,Simpson,Saratoga,Governor,,Reform,Shawn O'Hara,6,Simpson,Saratoga,Governor,,Democrat,Time Johnson,84,Simpson,Saratoga,Governor,,Republican,Tate Reeves,114,Simpson,Shivers,Governor,,Republican,Phill Bryant,129,1Simpson,Shivers,Governor,,Democrat,Rober Gray,75,Simpson,Shivers,Governor,,Reform,Shawn O'Hara,2,Simpson,Shivers,Governor,,Democrat,Time Johnson,79,Simpson,Shivers,Governor,,Republican,Tate Reeves,111,Simpson,Sumrall,Governor,,Republican,Phill Bryant,242,1Simpson,Sumrall,Governor,,Democrat,Rober Gray,38,Simpson,Sumrall,Governor,,Reform,Shawn O'Hara,1,Simpson,Sumrall,Governor,,Democrat,Time Johnson,46,Simpson,Sumrall,Governor,,Republican,Tate Reeves,226,Simpson,Weathersby,Governor,,Republican,Phill Bryant,129,Simpson,Weathersby,Governor,,Democrat,Rober Gray,228,Simpson,Weathersby,Governor,,Reform,Shawn O'Hara,6,Simpson,Weathersby,Governor,,Democrat,Time Johnson,233,1Simpson,Weathersby,Governor,,Republican,Tate Reeves,105,Simpson,Bowie,Lieutenant Governor,,Libertarian,Ron Williams,6,1Simpson,Bowie,Lieutenant Governor,,Reform,Rosa B. Williams,2,Simpson,Braxton,Lieutenant Governor,,Libertarian,Ron Williams,8,1Simpson,Braxton,Lieutenant Governor,,Reform,Rosa B. Williams,2,Simpson,Brldgeport,Lieutenant Governor,,Libertarian,Ron Williams,2,Simpson,Brldgeport,Lieutenant Governor,,Reform,Rosa B. Williams,4,1Simpson,D'Lo,Lieutenant Governor,,Libertarian,Ron Williams,0,Simpson,D'Lo,Lieutenant Governor,,Reform,Rosa B. Williams,0,Simpson,Dry Creek,Lieutenant Governor,,Libertarian,Ron Williams,7,1Simpson,Dry Creek,Lieutenant Governor,,Reform,Rosa B. Williams,1,Simpson,Fork Church,Lieutenant Governor,,Libertarian,Ron Williams,4,Simpson,Fork Church,Lieutenant Governor,,Reform,Rosa B. Williams,4,Simpson,Harrisville,Lieutenant Governor,,Libertarian,Ron Williams,7,1Simpson,Harrisville,Lieutenant Governor,,Reform,Rosa B. Williams,3,Simpson,Jupiter,Lieutenant Governor,,Libertarian,Ron Williams,8,1Simpson,Jupiter,Lieutenant Governor,,Reform,Rosa B. Williams,6,Simpson,Magee 1,Lieutenant Governor,,Libertarian,Ron Williams,5,Simpson,Magee 1,Lieutenant Governor,,Reform,Rosa B. Williams,8,1Simpson,Magee 2,Lieutenant Governor,,Libertarian,Ron Williams,11,1Simpson,Magee 2,Lieutenant Governor,,Reform,Rosa B. Williams,4,Simpson,Magee 4 North,Lieutenant Governor,,Libertarian,Ron Williams,3,1Simpson,Magee 4 North,Lieutenant Governor,,Reform,Rosa B. Williams,2,Simpson,Magee 4 South,Lieutenant Governor,,Libertarian,Ron Williams,12,1Simpson,Magee 4 South,Lieutenant Governor,,Reform,Rosa B. Williams,3,Simpson,Mendenhall 1,Lieutenant Governor,,Libertarian,Ron Williams,7,Simpson,Mendenhall 1,Lieutenant Governor,,Reform,Rosa B. Williams,8,1Simpson,Mendenhall 3,Lieutenant Governor,,Libertarian,Ron Williams,16,1Simpson,Mendenhall 3,Lieutenant Governor,,Reform,Rosa B. Williams,1,Simpson,Merit,Lieutenant Governor,,Libertarian,Ron Williams,9,1Simpson,Merit,Lieutenant Governor,,Reform,Rosa B. Williams,2,Simpson,New Hope,Lieutenant Governor,,Libertarian,Ron Williams,3,1Simpson,New Hope,Lieutenant Governor,,Reform,Rosa B. Williams,1,Simpson,Oak Grove,Lieutenant Governor,,Libertarian,Ron Williams,7,Simpson,Oak Grove,Lieutenant Governor,,Reform,Rosa B. Williams,7,Simpson,Pearl,Lieutenant Governor,,Libertarian,Ron Williams,2,Simpson,Pearl,Lieutenant Governor,,Reform,Rosa B. Williams,7,1Simpson,Pinola,Lieutenant Governor,,Libertarian,Ron Williams,7,1Simpson,Pinola,Lieutenant Governor,,Reform,Rosa B. Williams,4,Simpson,Saratoga,Lieutenant Governor,,Libertarian,Ron Williams,4,1Simpson,Saratoga,Lieutenant Governor,,Reform,Rosa B. Williams,3,Simpson,Shivers,Lieutenant Governor,,Libertarian,Ron Williams,8,1Simpson,Shivers,Lieutenant Governor,,Reform,Rosa B. Williams,2,Simpson,Sumrall,Lieutenant Governor,,Libertarian,Ron Williams,3,1Simpson,Sumrall,Lieutenant Governor,,Reform,Rosa B. Williams,1,Simpson,Weathersby,Lieutenant Governor,,Libertarian,Ron Williams,10,1Simpson,Weathersby,Lieutenant Governor,,Reform,Rosa B. Williams,5,Simpson,Bowie,Secretary of State,,Democrat,Charles E. Graham,75,Simpson,Bowie,Secretary of State,,Republican,Delbert Hosemann,139,1Simpson,Bowie,Secretary of State,,Reform,Rnady Walker,4,Simpson,Braxton,Secretary of State,,Democrat,Charles E. Graham,24,Simpson,Braxton,Secretary of State,,Republican,Delbert Hosemann,439,1Simpson,Braxton,Secretary of State,,Reform,Rnady Walker,10,Simpson,Brldgeport,Secretary of State,,Democrat,Charles E. Graham,138,1Simpson,Brldgeport,Secretary of State,,Republican,Delbert Hosemann,89,Simpson,Brldgeport,Secretary of State,,Reform,Rnady Walker,5,Simpson,D'Lo,Secretary of State,,Democrat,Charles E. Graham,16,Simpson,D'Lo,Secretary of State,,Republican,Delbert Hosemann,187,1Simpson,D'Lo,Secretary of State,,Reform,Rnady Walker,3,Simpson,Dry Creek,Secretary of State,,Democrat,Charles E. Graham,42,Simpson,Dry Creek,Secretary of State,,Republican,Delbert Hosemann,381,1Simpson,Dry Creek,Secretary of State,,Reform,Rnady Walker,8,Simpson,Fork Church,Secretary of State,,Democrat,Charles E. Graham,131,1Simpson,Fork Church,Secretary of State,,Republican,Delbert Hosemann,78,Simpson,Fork Church,Secretary of State,,Reform,Rnady Walker,8,Simpson,Harrisville,Secretary of State,,Democrat,Charles E. Graham,77,Simpson,Harrisville,Secretary of State,,Republican,Delbert Hosemann,354,1Simpson,Harrisville,Secretary of State,,Reform,Rnady Walker,11,Simpson,Jupiter,Secretary of State,,Democrat,Charles E. Graham,257,1Simpson,Jupiter,Secretary of State,,Republican,Delbert Hosemann,111,Simpson,Jupiter,Secretary of State,,Reform,Rnady Walker,11,Simpson,Magee 1,Secretary of State,,Democrat,Charles E. Graham,273,1Simpson,Magee 1,Secretary of State,,Republican,Delbert Hosemann,58,Simpson,Magee 1,Secretary of State,,Reform,Rnady Walker,6,Simpson,Magee 2,Secretary of State,,Democrat,Charles E. Graham,103,Simpson,Magee 2,Secretary of State,,Republican,Delbert Hosemann,568,1Simpson,Magee 2,Secretary of State,,Reform,Rnady Walker,17,Simpson,Magee 4 North,Secretary of State,,Democrat,Charles E. Graham,27,Simpson,Magee 4 North,Secretary of State,,Republican,Delbert Hosemann,266,1Simpson,Magee 4 North,Secretary of State,,Reform,Rnady Walker,3,Simpson,Magee 4 South,Secretary of State,,Democrat,Charles E. Graham,103,Simpson,Magee 4 South,Secretary of State,,Republican,Delbert Hosemann,441,1Simpson,Magee 4 South,Secretary of State,,Reform,Rnady Walker,9,Simpson,Mendenhall 1,Secretary of State,,Democrat,Charles E. Graham,109,1Simpson,Mendenhall 1,Secretary of State,,Republican,Delbert Hosemann,62,Simpson,Mendenhall 1,Secretary of State,,Reform,Rnady Walker,13,Simpson,Mendenhall 3,Secretary of State,,Democrat,Charles E. Graham,68,Simpson,Mendenhall 3,Secretary of State,,Republican,Delbert Hosemann,518,1Simpson,Mendenhall 3,Secretary of State,,Reform,Rnady Walker,9,Simpson,Merit,Secretary of State,,Democrat,Charles E. Graham,29,Simpson,Merit,Secretary of State,,Republican,Delbert Hosemann,383,1Simpson,Merit,Secretary of State,,Reform,Rnady Walker,14,Simpson,New Hope,Secretary of State,,Democrat,Charles E. Graham,57,Simpson,New Hope,Secretary of State,,Republican,Delbert Hosemann,84,1Simpson,New Hope,Secretary of State,,Reform,Rnady Walker,4,Simpson,Oak Grove,Secretary of State,,Democrat,Charles E. Graham,148,Simpson,Oak Grove,Secretary of State,,Republican,Delbert Hosemann,220,1Simpson,Oak Grove,Secretary of State,,Reform,Rnady Walker,16,Simpson,Pearl,Secretary of State,,Democrat,Charles E. Graham,43,Simpson,Pearl,Secretary of State,,Republican,Delbert Hosemann,246,1Simpson,Pearl,Secretary of State,,Reform,Rnady Walker,3,Simpson,Pinola,Secretary of State,,Democrat,Charles E. Graham,68,Simpson,Pinola,Secretary of State,,Republican,Delbert Hosemann,156,1Simpson,Pinola,Secretary of State,,Reform,Rnady Walker,6,Simpson,Saratoga,Secretary of State,,Democrat,Charles E. Graham,89,Simpson,Saratoga,Secretary of State,,Republican,Delbert Hosemann,108,1Simpson,Saratoga,Secretary of State,,Reform,Rnady Walker,14,Simpson,Shivers,Secretary of State,,Democrat,Charles E. Graham,88,Simpson,Shivers,Secretary of State,,Republican,Delbert Hosemann,106,1Simpson,Shivers,Secretary of State,,Reform,Rnady Walker,8,Simpson,Sumrall,Secretary of State,,Democrat,Charles E. Graham,45,Simpson,Sumrall,Secretary of State,,Republican,Delbert Hosemann,228,1Simpson,Sumrall,Secretary of State,,Reform,Rnady Walker,5,Simpson,Weathersby,Secretary of State,,Democrat,Charles E. Graham,249,1Simpson,Weathersby,Secretary of State,,Republican,Delbert Hosemann,91,Simpson,Weathersby,Secretary of State,,Reform,Rnady Walker,17,Simpson,Bowie,Attorney General,,Democrat,Jim Hood,128,1Simpson,Bowie,Attorney General,,Republican,Mike Hurst,91,Simpson,Braxton,Attorney General,,Democrat,Jim Hood,166,Simpson,Braxton,Attorney General,,Republican,Mike Hurst,305,1Simpson,Brldgeport,Attorney General,,Democrat,Jim Hood,165,1Simpson,Brldgeport,Attorney General,,Republican,Mike Hurst,68,Simpson,D'Lo,Attorney General,,Democrat,Jim Hood,77,Simpson,D'Lo,Attorney General,,Republican,Mike Hurst,130,1Simpson,Dry Creek,Attorney General,,Democrat,Jim Hood,184,Simpson,Dry Creek,Attorney General,,Republican,Mike Hurst,256,1Simpson,Fork Church,Attorney General,,Democrat,Jim Hood,176,1Simpson,Fork Church,Attorney General,,Republican,Mike Hurst,45,Simpson,Harrisville,Attorney General,,Democrat,Jim Hood,163,Simpson,Harrisville,Attorney General,,Republican,Mike Hurst,277,1Simpson,Jupiter,Attorney General,,Democrat,Jim Hood,313,1Simpson,Jupiter,Attorney General,,Republican,Mike Hurst,73,Simpson,Magee 1,Attorney General,,Democrat,Jim Hood,318,1Simpson,Magee 1,Attorney General,,Republican,Mike Hurst,22,Simpson,Magee 2,Attorney General,,Democrat,Jim Hood,275,Simpson,Magee 2,Attorney General,,Republican,Mike Hurst,406,1Simpson,Magee 4 North,Attorney General,,Democrat,Jim Hood,113,Simpson,Magee 4 North,Attorney General,,Republican,Mike Hurst,179,1Simpson,Magee 4 South,Attorney General,,Democrat,Jim Hood,245,Simpson,Magee 4 South,Attorney General,,Republican,Mike Hurst,306,1Simpson,Mendenhall 1,Attorney General,,Democrat,Jim Hood,135,1Simpson,Mendenhall 1,Attorney General,,Republican,Mike Hurst,46,Simpson,Mendenhall 3,Attorney General,,Democrat,Jim Hood,249,Simpson,Mendenhall 3,Attorney General,,Republican,Mike Hurst,345,1Simpson,Merit,Attorney General,,Democrat,Jim Hood,150,Simpson,Merit,Attorney General,,Republican,Mike Hurst,273,1Simpson,New Hope,Attorney General,,Democrat,Jim Hood,84,1Simpson,New Hope,Attorney General,,Republican,Mike Hurst,60,Simpson,Oak Grove,Attorney General,,Democrat,Jim Hood,233,1Simpson,Oak Grove,Attorney General,,Republican,Mike Hurst,149,Simpson,Pearl,Attorney General,,Democrat,Jim Hood,101,Simpson,Pearl,Attorney General,,Republican,Mike Hurst,191,1Simpson,Pinola,Attorney General,,Democrat,Jim Hood,132,1Simpson,Pinola,Attorney General,,Republican,Mike Hurst,94,Simpson,Saratoga,Attorney General,,Democrat,Jim Hood,148,1Simpson,Saratoga,Attorney General,,Republican,Mike Hurst,61,Simpson,Shivers,Attorney General,,Democrat,Jim Hood,130,1Simpson,Shivers,Attorney General,,Republican,Mike Hurst,75,Simpson,Sumrall,Attorney General,,Democrat,Jim Hood,132,Simpson,Sumrall,Attorney General,,Republican,Mike Hurst,149,1Simpson,Weathersby,Attorney General,,Democrat,Jim Hood,309,1Simpson,Weathersby,Attorney General,,Republican,Mike Hurst,48,Simpson,Bowie,State Auditor,,Republican,Stacey E. Pickering,141,1Simpson,Bowie,State Auditor,,Democrat,Jocelyn 'Joce' Pepper Pritchett,73,Simpson,Bowie,State Auditor,,Reform,Lajena Walley,2,Simpson,Braxton,State Auditor,,Republican,Stacey E. Pickering,451,1Simpson,Braxton,State Auditor,,Democrat,Jocelyn 'Joce' Pepper Pritchett,21,Simpson,Braxton,State Auditor,,Reform,Lajena Walley,3,Simpson,Brldgeport,State Auditor,,Republican,Stacey E. Pickering,91,Simpson,Brldgeport,State Auditor,,Democrat,Jocelyn 'Joce' Pepper Pritchett,134,1Simpson,Brldgeport,State Auditor,,Reform,Lajena Walley,6,Simpson,D'Lo,State Auditor,,Republican,Stacey E. Pickering,187,1Simpson,D'Lo,State Auditor,,Democrat,Jocelyn 'Joce' Pepper Pritchett,17,Simpson,D'Lo,State Auditor,,Reform,Lajena Walley,2,Simpson,Dry Creek,State Auditor,,Republican,Stacey E. Pickering,387,1Simpson,Dry Creek,State Auditor,,Democrat,Jocelyn 'Joce' Pepper Pritchett,43,Simpson,Dry Creek,State Auditor,,Reform,Lajena Walley,1,Simpson,Fork Church,State Auditor,,Republican,Stacey E. Pickering,85,Simpson,Fork Church,State Auditor,,Democrat,Jocelyn 'Joce' Pepper Pritchett,130,1Simpson,Fork Church,State Auditor,,Reform,Lajena Walley,4,Simpson,Harrisville,State Auditor,,Republican,Stacey E. Pickering,367,1Simpson,Harrisville,State Auditor,,Democrat,Jocelyn 'Joce' Pepper Pritchett,65,Simpson,Harrisville,State Auditor,,Reform,Lajena Walley,5,Simpson,Jupiter,State Auditor,,Republican,Stacey E. Pickering,113,Simpson,Jupiter,State Auditor,,Democrat,Jocelyn 'Joce' Pepper Pritchett,255,1Simpson,Jupiter,State Auditor,,Reform,Lajena Walley,5,Simpson,Magee 1,State Auditor,,Republican,Stacey E. Pickering,68,Simpson,Magee 1,State Auditor,,Democrat,Jocelyn 'Joce' Pepper Pritchett,265,1Simpson,Magee 1,State Auditor,,Reform,Lajena Walley,2,Simpson,Magee 2,State Auditor,,Republican,Stacey E. Pickering,574,1Simpson,Magee 2,State Auditor,,Democrat,Jocelyn 'Joce' Pepper Pritchett,105,Simpson,Magee 2,State Auditor,,Reform,Lajena Walley,6,Simpson,Magee 4 North,State Auditor,,Republican,Stacey E. Pickering,267,1Simpson,Magee 4 North,State Auditor,,Democrat,Jocelyn 'Joce' Pepper Pritchett,27,Simpson,Magee 4 North,State Auditor,,Reform,Lajena Walley,2,Simpson,Magee 4 South,State Auditor,,Republican,Stacey E. Pickering,455,1Simpson,Magee 4 South,State Auditor,,Democrat,Jocelyn 'Joce' Pepper Pritchett,95,Simpson,Magee 4 South,State Auditor,,Reform,Lajena Walley,4,Simpson,Mendenhall 1,State Auditor,,Republican,Stacey E. Pickering,73,Simpson,Mendenhall 1,State Auditor,,Democrat,Jocelyn 'Joce' Pepper Pritchett,105,1Simpson,Mendenhall 1,State Auditor,,Reform,Lajena Walley,5,Simpson,Mendenhall 3,State Auditor,,Republican,Stacey E. Pickering,513,1Simpson,Mendenhall 3,State Auditor,,Democrat,Jocelyn 'Joce' Pepper Pritchett,72,Simpson,Mendenhall 3,State Auditor,,Reform,Lajena Walley,5,Simpson,Merit,State Auditor,,Republican,Stacey E. Pickering,380,1Simpson,Merit,State Auditor,,Democrat,Jocelyn 'Joce' Pepper Pritchett,36,Simpson,Merit,State Auditor,,Reform,Lajena Walley,5,Simpson,New Hope,State Auditor,,Republican,Stacey E. Pickering,88,1Simpson,New Hope,State Auditor,,Democrat,Jocelyn 'Joce' Pepper Pritchett,54,Simpson,New Hope,State Auditor,,Reform,Lajena Walley,2,Simpson,Oak Grove,State Auditor,,Republican,Stacey E. Pickering,233,1Simpson,Oak Grove,State Auditor,,Democrat,Jocelyn 'Joce' Pepper Pritchett,144,Simpson,Oak Grove,State Auditor,,Reform,Lajena Walley,4,Simpson,Pearl,State Auditor,,Republican,Stacey E. Pickering,243,1Simpson,Pearl,State Auditor,,Democrat,Jocelyn 'Joce' Pepper Pritchett,42,Simpson,Pearl,State Auditor,,Reform,Lajena Walley,5,Simpson,Pinola,State Auditor,,Republican,Stacey E. Pickering,161,1Simpson,Pinola,State Auditor,,Democrat,Jocelyn 'Joce' Pepper Pritchett,61,Simpson,Pinola,State Auditor,,Reform,Lajena Walley,5,Simpson,Saratoga,State Auditor,,Republican,Stacey E. Pickering,116,1Simpson,Saratoga,State Auditor,,Democrat,Jocelyn 'Joce' Pepper Pritchett,88,Simpson,Saratoga,State Auditor,,Reform,Lajena Walley,2,Simpson,Shivers,State Auditor,,Republican,Stacey E. Pickering,115,1Simpson,Shivers,State Auditor,,Democrat,Jocelyn 'Joce' Pepper Pritchett,82,Simpson,Shivers,State Auditor,,Reform,Lajena Walley,3,Simpson,Sumrall,State Auditor,,Republican,Stacey E. Pickering,228,1Simpson,Sumrall,State Auditor,,Democrat,Jocelyn 'Joce' Pepper Pritchett,47,Simpson,Sumrall,State Auditor,,Reform,Lajena Walley,1,Simpson,Weathersby,State Auditor,,Republican,Stacey E. Pickering,106,Simpson,Weathersby,State Auditor,,Democrat,Jocelyn 'Joce' Pepper Pritchett,239,1Simpson,Weathersby,State Auditor,,Reform,Lajena Walley,4,Simpson,Bowie,State Treasurer,,Republican,Lynn Fitch,163,1Simpson,Bowie,State Treasurer,,Reform,Viola V. McFarland,42,Simpson,Braxton,State Treasurer,,Republican,Lynn Fitch,449,1Simpson,Braxton,State Treasurer,,Reform,Viola V. McFarland,17,Simpson,Brldgeport,State Treasurer,,Republican,Lynn Fitch,135,1Simpson,Brldgeport,State Treasurer,,Reform,Viola V. McFarland,59,Simpson,D'Lo,State Treasurer,,Republican,Lynn Fitch,199,1Simpson,D'Lo,State Treasurer,,Reform,Viola V. McFarland,5,Simpson,Dry Creek,State Treasurer,,Republican,Lynn Fitch,404,1Simpson,Dry Creek,State Treasurer,,Reform,Viola V. McFarland,26,Simpson,Fork Church,State Treasurer,,Republican,Lynn Fitch,130,1Simpson,Fork Church,State Treasurer,,Reform,Viola V. McFarland,56,Simpson,Harrisville,State Treasurer,,Republican,Lynn Fitch,391,1Simpson,Harrisville,State Treasurer,,Reform,Viola V. McFarland,31,Simpson,Jupiter,State Treasurer,,Republican,Lynn Fitch,164,1Simpson,Jupiter,State Treasurer,,Reform,Viola V. McFarland,128,Simpson,Magee 1,State Treasurer,,Republican,Lynn Fitch,138,Simpson,Magee 1,State Treasurer,,Reform,Viola V. McFarland,151,1Simpson,Magee 2,State Treasurer,,Republican,Lynn Fitch,595,1Simpson,Magee 2,State Treasurer,,Reform,Viola V. McFarland,65,Simpson,Magee 4 North,State Treasurer,,Republican,Lynn Fitch,274,1Simpson,Magee 4 North,State Treasurer,,Reform,Viola V. McFarland,14,Simpson,Magee 4 South,State Treasurer,,Republican,Lynn Fitch,469,1Simpson,Magee 4 South,State Treasurer,,Reform,Viola V. McFarland,67,Simpson,Mendenhall 1,State Treasurer,,Republican,Lynn Fitch,96,1Simpson,Mendenhall 1,State Treasurer,,Reform,Viola V. McFarland,56,Simpson,Mendenhall 3,State Treasurer,,Republican,Lynn Fitch,534,1Simpson,Mendenhall 3,State Treasurer,,Reform,Viola V. McFarland,44,Simpson,Merit,State Treasurer,,Republican,Lynn Fitch,398,1Simpson,Merit,State Treasurer,,Reform,Viola V. McFarland,11,Simpson,New Hope,State Treasurer,,Republican,Lynn Fitch,109,1Simpson,New Hope,State Treasurer,,Reform,Viola V. McFarland,28,Simpson,Oak Grove,State Treasurer,,Republican,Lynn Fitch,264,1Simpson,Oak Grove,State Treasurer,,Reform,Viola V. McFarland,86,Simpson,Pearl,State Treasurer,,Republican,Lynn Fitch,252,1Simpson,Pearl,State Treasurer,,Reform,Viola V. McFarland,28,Simpson,Pinola,State Treasurer,,Republican,Lynn Fitch,177,1Simpson,Pinola,State Treasurer,,Reform,Viola V. McFarland,41,Simpson,Saratoga,State Treasurer,,Republican,Lynn Fitch,146,1Simpson,Saratoga,State Treasurer,,Reform,Viola V. McFarland,46,Simpson,Shivers,State Treasurer,,Republican,Lynn Fitch,141,1Simpson,Shivers,State Treasurer,,Reform,Viola V. McFarland,33,Simpson,Sumrall,State Treasurer,,Republican,Lynn Fitch,239,1Simpson,Sumrall,State Treasurer,,Reform,Viola V. McFarland,27,Simpson,Weathersby,State Treasurer,,Republican,Lynn Fitch,186,1Simpson,Weathersby,State Treasurer,,Reform,Viola V. McFarland,115,Simpson,Bowie,Commissioner of Agriculture & Commerce,,Democrat,Addie Lee Green,73,Simpson,Bowie,Commissioner of Agriculture & Commerce,,Republican,Cindy Hyde-Simth,140,1Simpson,Bowie,Commissioner of Agriculture & Commerce,,Reform,Cathy L. Toole,4,Simpson,Braxton,Commissioner of Agriculture & Commerce,,Democrat,Addie Lee Green,20,Simpson,Braxton,Commissioner of Agriculture & Commerce,,Republican,Cindy Hyde-Simth,451,1Simpson,Braxton,Commissioner of Agriculture & Commerce,,Reform,Cathy L. Toole,5,Simpson,Brldgeport,Commissioner of Agriculture & Commerce,,Democrat,Addie Lee Green,135,1Simpson,Brldgeport,Commissioner of Agriculture & Commerce,,Republican,Cindy Hyde-Simth,98,Simpson,Brldgeport,Commissioner of Agriculture & Commerce,,Reform,Cathy L. Toole,1,Simpson,D'Lo,Commissioner of Agriculture & Commerce,,Democrat,Addie Lee Green,17,Simpson,D'Lo,Commissioner of Agriculture & Commerce,,Republican,Cindy Hyde-Simth,190,1Simpson,D'Lo,Commissioner of Agriculture & Commerce,,Reform,Cathy L. Toole,1,Simpson,Dry Creek,Commissioner of Agriculture & Commerce,,Democrat,Addie Lee Green,38,Simpson,Dry Creek,Commissioner of Agriculture & Commerce,,Republican,Cindy Hyde-Simth,395,1Simpson,Dry Creek,Commissioner of Agriculture & Commerce,,Reform,Cathy L. Toole,1,Simpson,Fork Church,Commissioner of Agriculture & Commerce,,Democrat,Addie Lee Green,135,1Simpson,Fork Church,Commissioner of Agriculture & Commerce,,Republican,Cindy Hyde-Simth,82,Simpson,Fork Church,Commissioner of Agriculture & Commerce,,Reform,Cathy L. Toole,5,Simpson,Harrisville,Commissioner of Agriculture & Commerce,,Democrat,Addie Lee Green,56,Simpson,Harrisville,Commissioner of Agriculture & Commerce,,Republican,Cindy Hyde-Simth,378,1Simpson,Harrisville,Commissioner of Agriculture & Commerce,,Reform,Cathy L. Toole,7,Simpson,Jupiter,Commissioner of Agriculture & Commerce,,Democrat,Addie Lee Green,263,1Simpson,Jupiter,Commissioner of Agriculture & Commerce,,Republican,Cindy Hyde-Simth,109,Simpson,Jupiter,Commissioner of Agriculture & Commerce,,Reform,Cathy L. Toole,3,Simpson,Magee 1,Commissioner of Agriculture & Commerce,,Democrat,Addie Lee Green,267,1Simpson,Magee 1,Commissioner of Agriculture & Commerce,,Republican,Cindy Hyde-Simth,68,Simpson,Magee 1,Commissioner of Agriculture & Commerce,,Reform,Cathy L. Toole,2,Simpson,Magee 2,Commissioner of Agriculture & Commerce,,Democrat,Addie Lee Green,108,Simpson,Magee 2,Commissioner of Agriculture & Commerce,,Republican,Cindy Hyde-Simth,566,1Simpson,Magee 2,Commissioner of Agriculture & Commerce,,Reform,Cathy L. Toole,13,Simpson,Magee 4 North,Commissioner of Agriculture & Commerce,,Democrat,Addie Lee Green,30,Simpson,Magee 4 North,Commissioner of Agriculture & Commerce,,Republican,Cindy Hyde-Simth,264,1Simpson,Magee 4 North,Commissioner of Agriculture & Commerce,,Reform,Cathy L. Toole,5,Simpson,Magee 4 South,Commissioner of Agriculture & Commerce,,Democrat,Addie Lee Green,99,Simpson,Magee 4 South,Commissioner of Agriculture & Commerce,,Republican,Cindy Hyde-Simth,444,1Simpson,Magee 4 South,Commissioner of Agriculture & Commerce,,Reform,Cathy L. Toole,11,Simpson,Mendenhall 1,Commissioner of Agriculture & Commerce,,Democrat,Addie Lee Green,114,1Simpson,Mendenhall 1,Commissioner of Agriculture & Commerce,,Republican,Cindy Hyde-Simth,66,Simpson,Mendenhall 1,Commissioner of Agriculture & Commerce,,Reform,Cathy L. Toole,4,Simpson,Mendenhall 3,Commissioner of Agriculture & Commerce,,Democrat,Addie Lee Green,69,Simpson,Mendenhall 3,Commissioner of Agriculture & Commerce,,Republican,Cindy Hyde-Simth,516,1Simpson,Mendenhall 3,Commissioner of Agriculture & Commerce,,Reform,Cathy L. Toole,10,Simpson,Merit,Commissioner of Agriculture & Commerce,,Democrat,Addie Lee Green,26,Simpson,Merit,Commissioner of Agriculture & Commerce,,Republican,Cindy Hyde-Simth,388,1Simpson,Merit,Commissioner of Agriculture & Commerce,,Reform,Cathy L. Toole,5,Simpson,New Hope,Commissioner of Agriculture & Commerce,,Democrat,Addie Lee Green,57,Simpson,New Hope,Commissioner of Agriculture & Commerce,,Republican,Cindy Hyde-Simth,85,1Simpson,New Hope,Commissioner of Agriculture & Commerce,,Reform,Cathy L. Toole,2,Simpson,Oak Grove,Commissioner of Agriculture & Commerce,,Democrat,Addie Lee Green,150,Simpson,Oak Grove,Commissioner of Agriculture & Commerce,,Republican,Cindy Hyde-Simth,232,1Simpson,Oak Grove,Commissioner of Agriculture & Commerce,,Reform,Cathy L. Toole,2,Simpson,Pearl,Commissioner of Agriculture & Commerce,,Democrat,Addie Lee Green,40,Simpson,Pearl,Commissioner of Agriculture & Commerce,,Republican,Cindy Hyde-Simth,248,1Simpson,Pearl,Commissioner of Agriculture & Commerce,,Reform,Cathy L. Toole,4,Simpson,Pinola,Commissioner of Agriculture & Commerce,,Democrat,Addie Lee Green,63,Simpson,Pinola,Commissioner of Agriculture & Commerce,,Republican,Cindy Hyde-Simth,165,1Simpson,Pinola,Commissioner of Agriculture & Commerce,,Reform,Cathy L. Toole,3,Simpson,Saratoga,Commissioner of Agriculture & Commerce,,Democrat,Addie Lee Green,90,Simpson,Saratoga,Commissioner of Agriculture & Commerce,,Republican,Cindy Hyde-Simth,114,1Simpson,Saratoga,Commissioner of Agriculture & Commerce,,Reform,Cathy L. Toole,5,Simpson,Shivers,Commissioner of Agriculture & Commerce,,Democrat,Addie Lee Green,82,Simpson,Shivers,Commissioner of Agriculture & Commerce,,Republican,Cindy Hyde-Simth,118,1Simpson,Shivers,Commissioner of Agriculture & Commerce,,Reform,Cathy L. Toole,2,Simpson,Sumrall,Commissioner of Agriculture & Commerce,,Democrat,Addie Lee Green,45,Simpson,Sumrall,Commissioner of Agriculture & Commerce,,Republican,Cindy Hyde-Simth,233,1Simpson,Sumrall,Commissioner of Agriculture & Commerce,,Reform,Cathy L. Toole,3,Simpson,Weathersby,Commissioner of Agriculture & Commerce,,Democrat,Addie Lee Green,251,1Simpson,Weathersby,Commissioner of Agriculture & Commerce,,Republican,Cindy Hyde-Simth,105,Simpson,Weathersby,Commissioner of Agriculture & Commerce,,Reform,Cathy L. Toole,4,Simpson,Bowie,State Senate,35,Republican,Chris Caughman,181,Simpson,Braxton,State Senate,35,Republican,Chris Caughman,455,Simpson,Brldgeport,State Senate,35,Republican,Chris Caughman,155,Simpson,D'Lo,State Senate,35,Republican,Chris Caughman,201,Simpson,Dry Creek,State Senate,35,Republican,Chris Caughman,416,Simpson,Fork Church,State Senate,35,Republican,Chris Caughman,150,Simpson,Harrisville,State Senate,35,Republican,Chris Caughman,413,Simpson,Jupiter,State Senate,35,Republican,Chris Caughman,210,Simpson,Magee 1,State Senate,35,Republican,Chris Caughman,227,Simpson,Magee 2,State Senate,35,Republican,Chris Caughman,637,Simpson,Magee 4 North,State Senate,35,Republican,Chris Caughman,289,Simpson,Magee 4 South,State Senate,35,Republican,Chris Caughman,511,Simpson,Mendenhall 1,State Senate,35,Republican,Chris Caughman,132,Simpson,Mendenhall 3,State Senate,35,Republican,Chris Caughman,559,Simpson,Merit,State Senate,35,Republican,Chris Caughman,404,Simpson,New Hope,State Senate,35,Republican,Chris Caughman,120,Simpson,Oak Grove,State Senate,35,Republican,Chris Caughman,297,Simpson,Pearl,State Senate,35,Republican,Chris Caughman,254,Simpson,Pinola,State Senate,35,Republican,Chris Caughman,190,Simpson,Saratoga,State Senate,35,Republican,Chris Caughman,168,Simpson,Shivers,State Senate,35,Republican,Chris Caughman,148,Simpson,Sumrall,State Senate,35,Republican,Chris Caughman,251,Simpson,Weathersby,State Senate,35,Republican,Chris Caughman,253,Simpson,Pearl,State House,62,Republican,Tom Weathersby,55,Simpson,Pearl,State House,62,Democrat,Stephen Wilson,17,Simpson,Braxton,State House,77,Republican,Andy Gipson,462,Simpson,D'Lo,State House,77,Republican,Andy Gipson,200,Simpson,Harrisville,State House,77,Republican,Andy Gipson,413,Simpson,Jupiter,State House,77,Republican,Andy Gipson,208,Simpson,Magee 1,State House,77,Republican,Andy Gipson,215,Simpson,Magee 2,State House,77,Republican,Andy Gipson,425,Simpson,Magee 4 North,State House,77,Republican,Andy Gipson,284,Simpson,Magee 4 South,State House,77,Republican,Andy Gipson,507,Simpson,Mendenhall 1,State House,77,Republican,Andy Gipson,123,Simpson,Mendenhall 3,State House,77,Republican,Andy Gipson,563,Simpson,Merit,State House,77,Republican,Andy Gipson,402,Simpson,Pearl,State House,77,Republican,Andy Gipson,197,Simpson,Pinola,State House,77,Republican,Andy Gipson,197,Simpson,Shivers,State House,77,Republican,Andy Gipson,59,Simpson,Sumrall,State House,77,Republican,Andy Gipson,254,Simpson,Weathersby,State House,77,Republican,Andy Gipson,256,Simpson,Bowie,State House,90,Democrat,John B. Pope III,94,Simpson,Dry Creek,State House,90,Democrat,John B. Pope III,49,Simpson,Magee 1,State House,90,Democrat,John B. Pope III,3,Simpson,Magee 2,State House,90,Democrat,John B. Pope III,36,Simpson,New Hope,State House,90,Democrat,John B. Pope III,61,Simpson,Oak Grove,State House,90,Democrat,John B. Pope III,49,Simpson,Saratoga,State House,90,Democrat,John B. Pope III,105,Simpson,Bowie,State House,90,Republican,Noah L. Sanford,123,Simpson,Dry Creek,State House,90,Republican,Noah L. Sanford,386,Simpson,Magee 1,State House,90,Republican,Noah L. Sanford,0,Simpson,Magee 2,State House,90,Republican,Noah L. Sanford,182,Simpson,New Hope,State House,90,Republican,Noah L. Sanford,81,Simpson,Oak Grove,State House,90,Republican,Noah L. Sanford,102,Simpson,Saratoga,State House,90,Republican,Noah L. Sanford,102,Simpson,Brldgeport,State House,91,Republican,Charles E. Bufkin,75,Simpson,Fork Church,State House,91,Republican,Charles E. Bufkin,68,Simpson,Oak Grove,State House,91,Republican,Charles E. Bufkin,88,Simpson,Shivers,State House,91,Republican,Charles E. Bufkin,45,Simpson,Brldgeport,State House,91,Democrat,Bob Evans,154,Simpson,Fork Church,State House,91,Democrat,Bob Evans,150,Simpson,Oak Grove,State House,91,Democrat,Bob Evans,144,Simpson,Shivers,State House,91,Democrat,Bob Evans,89,
+county,precinct,office,district,party,candidate,votes,winner
+Simpson,Bowie,Governor,,Republican,Phill Bryant,139,1
+Simpson,Bowie,Governor,,Democrat,Rober Gray,79,
+Simpson,Bowie,Governor,,Reform,Shawn O'Hara,2,
+Simpson,Bowie,Governor,,Democrat,Time Johnson,74,
+Simpson,Bowie,Governor,,Republican,Tate Reeves,137,
+Simpson,Braxton,Governor,,Republican,Phill Bryant,460,1
+Simpson,Braxton,Governor,,Democrat,Rober Gray,19,
+Simpson,Braxton,Governor,,Reform,Shawn O'Hara,0,
+Simpson,Braxton,Governor,,Democrat,Time Johnson,32,
+Simpson,Braxton,Governor,,Republican,Tate Reeves,431,
+Simpson,Brldgeport,Governor,,Republican,Phill Bryant,105,
+Simpson,Brldgeport,Governor,,Democrat,Rober Gray,128,
+Simpson,Brldgeport,Governor,,Reform,Shawn O'Hara,2,
+Simpson,Brldgeport,Governor,,Democrat,Time Johnson,136,1
+Simpson,Brldgeport,Governor,,Republican,Tate Reeves,90,
+Simpson,D'Lo,Governor,,Republican,Phill Bryant,191,1
+Simpson,D'Lo,Governor,,Democrat,Rober Gray,16,
+Simpson,D'Lo,Governor,,Reform,Shawn O'Hara,1,
+Simpson,D'Lo,Governor,,Democrat,Time Johnson,17,
+Simpson,D'Lo,Governor,,Republican,Tate Reeves,187,
+Simpson,Dry Creek,Governor,,Republican,Phill Bryant,399,1
+Simpson,Dry Creek,Governor,,Democrat,Rober Gray,35,
+Simpson,Dry Creek,Governor,,Reform,Shawn O'Hara,4,
+Simpson,Dry Creek,Governor,,Democrat,Time Johnson,51,
+Simpson,Dry Creek,Governor,,Republican,Tate Reeves,374,
+Simpson,Fork Church,Governor,,Republican,Phill Bryant,89,
+Simpson,Fork Church,Governor,,Democrat,Rober Gray,124,
+Simpson,Fork Church,Governor,,Reform,Shawn O'Hara,5,
+Simpson,Fork Church,Governor,,Democrat,Time Johnson,128,1
+Simpson,Fork Church,Governor,,Republican,Tate Reeves,81,
+Simpson,Harrisville,Governor,,Republican,Phill Bryant,379,1
+Simpson,Harrisville,Governor,,Democrat,Rober Gray,58,
+Simpson,Harrisville,Governor,,Reform,Shawn O'Hara,6,
+Simpson,Harrisville,Governor,,Democrat,Time Johnson,65,
+Simpson,Harrisville,Governor,,Republican,Tate Reeves,364,
+Simpson,Jupiter,Governor,,Republican,Phill Bryant,138,
+Simpson,Jupiter,Governor,,Democrat,Rober Gray,243,
+Simpson,Jupiter,Governor,,Reform,Shawn O'Hara,1,
+Simpson,Jupiter,Governor,,Democrat,Time Johnson,246,1
+Simpson,Jupiter,Governor,,Republican,Tate Reeves,115,
+Simpson,Magee 1,Governor,,Republican,Phill Bryant,87,
+Simpson,Magee 1,Governor,,Democrat,Rober Gray,242,
+Simpson,Magee 1,Governor,,Reform,Shawn O'Hara,7,
+Simpson,Magee 1,Governor,,Democrat,Time Johnson,258,1
+Simpson,Magee 1,Governor,,Republican,Tate Reeves,66,
+Simpson,Magee 2,Governor,,Republican,Phill Bryant,582,1
+Simpson,Magee 2,Governor,,Democrat,Rober Gray,98,
+Simpson,Magee 2,Governor,,Reform,Shawn O'Hara,7,
+Simpson,Magee 2,Governor,,Democrat,Time Johnson,113,
+Simpson,Magee 2,Governor,,Republican,Tate Reeves,556,
+Simpson,Magee 4 North,Governor,,Republican,Phill Bryant,273,1
+Simpson,Magee 4 North,Governor,,Democrat,Rober Gray,23,
+Simpson,Magee 4 North,Governor,,Reform,Shawn O'Hara,4,
+Simpson,Magee 4 North,Governor,,Democrat,Time Johnson,30,
+Simpson,Magee 4 North,Governor,,Republican,Tate Reeves,260,
+Simpson,Magee 4 South,Governor,,Republican,Phill Bryant,452,1
+Simpson,Magee 4 South,Governor,,Democrat,Rober Gray,89,
+Simpson,Magee 4 South,Governor,,Reform,Shawn O'Hara,10,
+Simpson,Magee 4 South,Governor,,Democrat,Time Johnson,110,
+Simpson,Magee 4 South,Governor,,Republican,Tate Reeves,428,
+Simpson,Mendenhall 1,Governor,,Republican,Phill Bryant,70,
+Simpson,Mendenhall 1,Governor,,Democrat,Rober Gray,109,1
+Simpson,Mendenhall 1,Governor,,Reform,Shawn O'Hara,4,
+Simpson,Mendenhall 1,Governor,,Democrat,Time Johnson,101,
+Simpson,Mendenhall 1,Governor,,Republican,Tate Reeves,66,
+Simpson,Mendenhall 3,Governor,,Republican,Phill Bryant,521,1
+Simpson,Mendenhall 3,Governor,,Democrat,Rober Gray,66,
+Simpson,Mendenhall 3,Governor,,Reform,Shawn O'Hara,8,
+Simpson,Mendenhall 3,Governor,,Democrat,Time Johnson,83,
+Simpson,Mendenhall 3,Governor,,Republican,Tate Reeves,490,
+Simpson,Merit,Governor,,Republican,Phill Bryant,398,1
+Simpson,Merit,Governor,,Democrat,Rober Gray,27,
+Simpson,Merit,Governor,,Reform,Shawn O'Hara,1,
+Simpson,Merit,Governor,,Democrat,Time Johnson,40,
+Simpson,Merit,Governor,,Republican,Tate Reeves,372,
+Simpson,New Hope,Governor,,Republican,Phill Bryant,94,1
+Simpson,New Hope,Governor,,Democrat,Rober Gray,49,
+Simpson,New Hope,Governor,,Reform,Shawn O'Hara,2,
+Simpson,New Hope,Governor,,Democrat,Time Johnson,53,
+Simpson,New Hope,Governor,,Republican,Tate Reeves,89,
+Simpson,Oak Grove,Governor,,Republican,Phill Bryant,241,1
+Simpson,Oak Grove,Governor,,Democrat,Rober Gray,142,
+Simpson,Oak Grove,Governor,,Reform,Shawn O'Hara,4,
+Simpson,Oak Grove,Governor,,Democrat,Time Johnson,142,
+Simpson,Oak Grove,Governor,,Republican,Tate Reeves,223,
+Simpson,Pearl,Governor,,Republican,Phill Bryant,246,1
+Simpson,Pearl,Governor,,Democrat,Rober Gray,44,
+Simpson,Pearl,Governor,,Reform,Shawn O'Hara,3,
+Simpson,Pearl,Governor,,Democrat,Time Johnson,45,
+Simpson,Pearl,Governor,,Republican,Tate Reeves,239,
+Simpson,Pinola,Governor,,Republican,Phill Bryant,167,1
+Simpson,Pinola,Governor,,Democrat,Rober Gray,65,
+Simpson,Pinola,Governor,,Reform,Shawn O'Hara,1,
+Simpson,Pinola,Governor,,Democrat,Time Johnson,65,
+Simpson,Pinola,Governor,,Republican,Tate Reeves,150,
+Simpson,Saratoga,Governor,,Republican,Phill Bryant,125,1
+Simpson,Saratoga,Governor,,Democrat,Rober Gray,80,
+Simpson,Saratoga,Governor,,Reform,Shawn O'Hara,6,
+Simpson,Saratoga,Governor,,Democrat,Time Johnson,84,
+Simpson,Saratoga,Governor,,Republican,Tate Reeves,114,
+Simpson,Shivers,Governor,,Republican,Phill Bryant,129,1
+Simpson,Shivers,Governor,,Democrat,Rober Gray,75,
+Simpson,Shivers,Governor,,Reform,Shawn O'Hara,2,
+Simpson,Shivers,Governor,,Democrat,Time Johnson,79,
+Simpson,Shivers,Governor,,Republican,Tate Reeves,111,
+Simpson,Sumrall,Governor,,Republican,Phill Bryant,242,1
+Simpson,Sumrall,Governor,,Democrat,Rober Gray,38,
+Simpson,Sumrall,Governor,,Reform,Shawn O'Hara,1,
+Simpson,Sumrall,Governor,,Democrat,Time Johnson,46,
+Simpson,Sumrall,Governor,,Republican,Tate Reeves,226,
+Simpson,Weathersby,Governor,,Republican,Phill Bryant,129,
+Simpson,Weathersby,Governor,,Democrat,Rober Gray,228,
+Simpson,Weathersby,Governor,,Reform,Shawn O'Hara,6,
+Simpson,Weathersby,Governor,,Democrat,Time Johnson,233,1
+Simpson,Weathersby,Governor,,Republican,Tate Reeves,105,
+Simpson,Bowie,Lieutenant Governor,,Libertarian,Ron Williams,6,1
+Simpson,Bowie,Lieutenant Governor,,Reform,Rosa B. Williams,2,
+Simpson,Braxton,Lieutenant Governor,,Libertarian,Ron Williams,8,1
+Simpson,Braxton,Lieutenant Governor,,Reform,Rosa B. Williams,2,
+Simpson,Brldgeport,Lieutenant Governor,,Libertarian,Ron Williams,2,
+Simpson,Brldgeport,Lieutenant Governor,,Reform,Rosa B. Williams,4,1
+Simpson,D'Lo,Lieutenant Governor,,Libertarian,Ron Williams,0,
+Simpson,D'Lo,Lieutenant Governor,,Reform,Rosa B. Williams,0,
+Simpson,Dry Creek,Lieutenant Governor,,Libertarian,Ron Williams,7,1
+Simpson,Dry Creek,Lieutenant Governor,,Reform,Rosa B. Williams,1,
+Simpson,Fork Church,Lieutenant Governor,,Libertarian,Ron Williams,4,
+Simpson,Fork Church,Lieutenant Governor,,Reform,Rosa B. Williams,4,
+Simpson,Harrisville,Lieutenant Governor,,Libertarian,Ron Williams,7,1
+Simpson,Harrisville,Lieutenant Governor,,Reform,Rosa B. Williams,3,
+Simpson,Jupiter,Lieutenant Governor,,Libertarian,Ron Williams,8,1
+Simpson,Jupiter,Lieutenant Governor,,Reform,Rosa B. Williams,6,
+Simpson,Magee 1,Lieutenant Governor,,Libertarian,Ron Williams,5,
+Simpson,Magee 1,Lieutenant Governor,,Reform,Rosa B. Williams,8,1
+Simpson,Magee 2,Lieutenant Governor,,Libertarian,Ron Williams,11,1
+Simpson,Magee 2,Lieutenant Governor,,Reform,Rosa B. Williams,4,
+Simpson,Magee 4 North,Lieutenant Governor,,Libertarian,Ron Williams,3,1
+Simpson,Magee 4 North,Lieutenant Governor,,Reform,Rosa B. Williams,2,
+Simpson,Magee 4 South,Lieutenant Governor,,Libertarian,Ron Williams,12,1
+Simpson,Magee 4 South,Lieutenant Governor,,Reform,Rosa B. Williams,3,
+Simpson,Mendenhall 1,Lieutenant Governor,,Libertarian,Ron Williams,7,
+Simpson,Mendenhall 1,Lieutenant Governor,,Reform,Rosa B. Williams,8,1
+Simpson,Mendenhall 3,Lieutenant Governor,,Libertarian,Ron Williams,16,1
+Simpson,Mendenhall 3,Lieutenant Governor,,Reform,Rosa B. Williams,1,
+Simpson,Merit,Lieutenant Governor,,Libertarian,Ron Williams,9,1
+Simpson,Merit,Lieutenant Governor,,Reform,Rosa B. Williams,2,
+Simpson,New Hope,Lieutenant Governor,,Libertarian,Ron Williams,3,1
+Simpson,New Hope,Lieutenant Governor,,Reform,Rosa B. Williams,1,
+Simpson,Oak Grove,Lieutenant Governor,,Libertarian,Ron Williams,7,
+Simpson,Oak Grove,Lieutenant Governor,,Reform,Rosa B. Williams,7,
+Simpson,Pearl,Lieutenant Governor,,Libertarian,Ron Williams,2,
+Simpson,Pearl,Lieutenant Governor,,Reform,Rosa B. Williams,7,1
+Simpson,Pinola,Lieutenant Governor,,Libertarian,Ron Williams,7,1
+Simpson,Pinola,Lieutenant Governor,,Reform,Rosa B. Williams,4,
+Simpson,Saratoga,Lieutenant Governor,,Libertarian,Ron Williams,4,1
+Simpson,Saratoga,Lieutenant Governor,,Reform,Rosa B. Williams,3,
+Simpson,Shivers,Lieutenant Governor,,Libertarian,Ron Williams,8,1
+Simpson,Shivers,Lieutenant Governor,,Reform,Rosa B. Williams,2,
+Simpson,Sumrall,Lieutenant Governor,,Libertarian,Ron Williams,3,1
+Simpson,Sumrall,Lieutenant Governor,,Reform,Rosa B. Williams,1,
+Simpson,Weathersby,Lieutenant Governor,,Libertarian,Ron Williams,10,1
+Simpson,Weathersby,Lieutenant Governor,,Reform,Rosa B. Williams,5,
+Simpson,Bowie,Secretary of State,,Democrat,Charles E. Graham,75,
+Simpson,Bowie,Secretary of State,,Republican,Delbert Hosemann,139,1
+Simpson,Bowie,Secretary of State,,Reform,Rnady Walker,4,
+Simpson,Braxton,Secretary of State,,Democrat,Charles E. Graham,24,
+Simpson,Braxton,Secretary of State,,Republican,Delbert Hosemann,439,1
+Simpson,Braxton,Secretary of State,,Reform,Rnady Walker,10,
+Simpson,Brldgeport,Secretary of State,,Democrat,Charles E. Graham,138,1
+Simpson,Brldgeport,Secretary of State,,Republican,Delbert Hosemann,89,
+Simpson,Brldgeport,Secretary of State,,Reform,Rnady Walker,5,
+Simpson,D'Lo,Secretary of State,,Democrat,Charles E. Graham,16,
+Simpson,D'Lo,Secretary of State,,Republican,Delbert Hosemann,187,1
+Simpson,D'Lo,Secretary of State,,Reform,Rnady Walker,3,
+Simpson,Dry Creek,Secretary of State,,Democrat,Charles E. Graham,42,
+Simpson,Dry Creek,Secretary of State,,Republican,Delbert Hosemann,381,1
+Simpson,Dry Creek,Secretary of State,,Reform,Rnady Walker,8,
+Simpson,Fork Church,Secretary of State,,Democrat,Charles E. Graham,131,1
+Simpson,Fork Church,Secretary of State,,Republican,Delbert Hosemann,78,
+Simpson,Fork Church,Secretary of State,,Reform,Rnady Walker,8,
+Simpson,Harrisville,Secretary of State,,Democrat,Charles E. Graham,77,
+Simpson,Harrisville,Secretary of State,,Republican,Delbert Hosemann,354,1
+Simpson,Harrisville,Secretary of State,,Reform,Rnady Walker,11,
+Simpson,Jupiter,Secretary of State,,Democrat,Charles E. Graham,257,1
+Simpson,Jupiter,Secretary of State,,Republican,Delbert Hosemann,111,
+Simpson,Jupiter,Secretary of State,,Reform,Rnady Walker,11,
+Simpson,Magee 1,Secretary of State,,Democrat,Charles E. Graham,273,1
+Simpson,Magee 1,Secretary of State,,Republican,Delbert Hosemann,58,
+Simpson,Magee 1,Secretary of State,,Reform,Rnady Walker,6,
+Simpson,Magee 2,Secretary of State,,Democrat,Charles E. Graham,103,
+Simpson,Magee 2,Secretary of State,,Republican,Delbert Hosemann,568,1
+Simpson,Magee 2,Secretary of State,,Reform,Rnady Walker,17,
+Simpson,Magee 4 North,Secretary of State,,Democrat,Charles E. Graham,27,
+Simpson,Magee 4 North,Secretary of State,,Republican,Delbert Hosemann,266,1
+Simpson,Magee 4 North,Secretary of State,,Reform,Rnady Walker,3,
+Simpson,Magee 4 South,Secretary of State,,Democrat,Charles E. Graham,103,
+Simpson,Magee 4 South,Secretary of State,,Republican,Delbert Hosemann,441,1
+Simpson,Magee 4 South,Secretary of State,,Reform,Rnady Walker,9,
+Simpson,Mendenhall 1,Secretary of State,,Democrat,Charles E. Graham,109,1
+Simpson,Mendenhall 1,Secretary of State,,Republican,Delbert Hosemann,62,
+Simpson,Mendenhall 1,Secretary of State,,Reform,Rnady Walker,13,
+Simpson,Mendenhall 3,Secretary of State,,Democrat,Charles E. Graham,68,
+Simpson,Mendenhall 3,Secretary of State,,Republican,Delbert Hosemann,518,1
+Simpson,Mendenhall 3,Secretary of State,,Reform,Rnady Walker,9,
+Simpson,Merit,Secretary of State,,Democrat,Charles E. Graham,29,
+Simpson,Merit,Secretary of State,,Republican,Delbert Hosemann,383,1
+Simpson,Merit,Secretary of State,,Reform,Rnady Walker,14,
+Simpson,New Hope,Secretary of State,,Democrat,Charles E. Graham,57,
+Simpson,New Hope,Secretary of State,,Republican,Delbert Hosemann,84,1
+Simpson,New Hope,Secretary of State,,Reform,Rnady Walker,4,
+Simpson,Oak Grove,Secretary of State,,Democrat,Charles E. Graham,148,
+Simpson,Oak Grove,Secretary of State,,Republican,Delbert Hosemann,220,1
+Simpson,Oak Grove,Secretary of State,,Reform,Rnady Walker,16,
+Simpson,Pearl,Secretary of State,,Democrat,Charles E. Graham,43,
+Simpson,Pearl,Secretary of State,,Republican,Delbert Hosemann,246,1
+Simpson,Pearl,Secretary of State,,Reform,Rnady Walker,3,
+Simpson,Pinola,Secretary of State,,Democrat,Charles E. Graham,68,
+Simpson,Pinola,Secretary of State,,Republican,Delbert Hosemann,156,1
+Simpson,Pinola,Secretary of State,,Reform,Rnady Walker,6,
+Simpson,Saratoga,Secretary of State,,Democrat,Charles E. Graham,89,
+Simpson,Saratoga,Secretary of State,,Republican,Delbert Hosemann,108,1
+Simpson,Saratoga,Secretary of State,,Reform,Rnady Walker,14,
+Simpson,Shivers,Secretary of State,,Democrat,Charles E. Graham,88,
+Simpson,Shivers,Secretary of State,,Republican,Delbert Hosemann,106,1
+Simpson,Shivers,Secretary of State,,Reform,Rnady Walker,8,
+Simpson,Sumrall,Secretary of State,,Democrat,Charles E. Graham,45,
+Simpson,Sumrall,Secretary of State,,Republican,Delbert Hosemann,228,1
+Simpson,Sumrall,Secretary of State,,Reform,Rnady Walker,5,
+Simpson,Weathersby,Secretary of State,,Democrat,Charles E. Graham,249,1
+Simpson,Weathersby,Secretary of State,,Republican,Delbert Hosemann,91,
+Simpson,Weathersby,Secretary of State,,Reform,Rnady Walker,17,
+Simpson,Bowie,Attorney General,,Democrat,Jim Hood,128,1
+Simpson,Bowie,Attorney General,,Republican,Mike Hurst,91,
+Simpson,Braxton,Attorney General,,Democrat,Jim Hood,166,
+Simpson,Braxton,Attorney General,,Republican,Mike Hurst,305,1
+Simpson,Brldgeport,Attorney General,,Democrat,Jim Hood,165,1
+Simpson,Brldgeport,Attorney General,,Republican,Mike Hurst,68,
+Simpson,D'Lo,Attorney General,,Democrat,Jim Hood,77,
+Simpson,D'Lo,Attorney General,,Republican,Mike Hurst,130,1
+Simpson,Dry Creek,Attorney General,,Democrat,Jim Hood,184,
+Simpson,Dry Creek,Attorney General,,Republican,Mike Hurst,256,1
+Simpson,Fork Church,Attorney General,,Democrat,Jim Hood,176,1
+Simpson,Fork Church,Attorney General,,Republican,Mike Hurst,45,
+Simpson,Harrisville,Attorney General,,Democrat,Jim Hood,163,
+Simpson,Harrisville,Attorney General,,Republican,Mike Hurst,277,1
+Simpson,Jupiter,Attorney General,,Democrat,Jim Hood,313,1
+Simpson,Jupiter,Attorney General,,Republican,Mike Hurst,73,
+Simpson,Magee 1,Attorney General,,Democrat,Jim Hood,318,1
+Simpson,Magee 1,Attorney General,,Republican,Mike Hurst,22,
+Simpson,Magee 2,Attorney General,,Democrat,Jim Hood,275,
+Simpson,Magee 2,Attorney General,,Republican,Mike Hurst,406,1
+Simpson,Magee 4 North,Attorney General,,Democrat,Jim Hood,113,
+Simpson,Magee 4 North,Attorney General,,Republican,Mike Hurst,179,1
+Simpson,Magee 4 South,Attorney General,,Democrat,Jim Hood,245,
+Simpson,Magee 4 South,Attorney General,,Republican,Mike Hurst,306,1
+Simpson,Mendenhall 1,Attorney General,,Democrat,Jim Hood,135,1
+Simpson,Mendenhall 1,Attorney General,,Republican,Mike Hurst,46,
+Simpson,Mendenhall 3,Attorney General,,Democrat,Jim Hood,249,
+Simpson,Mendenhall 3,Attorney General,,Republican,Mike Hurst,345,1
+Simpson,Merit,Attorney General,,Democrat,Jim Hood,150,
+Simpson,Merit,Attorney General,,Republican,Mike Hurst,273,1
+Simpson,New Hope,Attorney General,,Democrat,Jim Hood,84,1
+Simpson,New Hope,Attorney General,,Republican,Mike Hurst,60,
+Simpson,Oak Grove,Attorney General,,Democrat,Jim Hood,233,1
+Simpson,Oak Grove,Attorney General,,Republican,Mike Hurst,149,
+Simpson,Pearl,Attorney General,,Democrat,Jim Hood,101,
+Simpson,Pearl,Attorney General,,Republican,Mike Hurst,191,1
+Simpson,Pinola,Attorney General,,Democrat,Jim Hood,132,1
+Simpson,Pinola,Attorney General,,Republican,Mike Hurst,94,
+Simpson,Saratoga,Attorney General,,Democrat,Jim Hood,148,1
+Simpson,Saratoga,Attorney General,,Republican,Mike Hurst,61,
+Simpson,Shivers,Attorney General,,Democrat,Jim Hood,130,1
+Simpson,Shivers,Attorney General,,Republican,Mike Hurst,75,
+Simpson,Sumrall,Attorney General,,Democrat,Jim Hood,132,
+Simpson,Sumrall,Attorney General,,Republican,Mike Hurst,149,1
+Simpson,Weathersby,Attorney General,,Democrat,Jim Hood,309,1
+Simpson,Weathersby,Attorney General,,Republican,Mike Hurst,48,
+Simpson,Bowie,State Auditor,,Republican,Stacey E. Pickering,141,1
+Simpson,Bowie,State Auditor,,Democrat,Jocelyn 'Joce' Pepper Pritchett,73,
+Simpson,Bowie,State Auditor,,Reform,Lajena Walley,2,
+Simpson,Braxton,State Auditor,,Republican,Stacey E. Pickering,451,1
+Simpson,Braxton,State Auditor,,Democrat,Jocelyn 'Joce' Pepper Pritchett,21,
+Simpson,Braxton,State Auditor,,Reform,Lajena Walley,3,
+Simpson,Brldgeport,State Auditor,,Republican,Stacey E. Pickering,91,
+Simpson,Brldgeport,State Auditor,,Democrat,Jocelyn 'Joce' Pepper Pritchett,134,1
+Simpson,Brldgeport,State Auditor,,Reform,Lajena Walley,6,
+Simpson,D'Lo,State Auditor,,Republican,Stacey E. Pickering,187,1
+Simpson,D'Lo,State Auditor,,Democrat,Jocelyn 'Joce' Pepper Pritchett,17,
+Simpson,D'Lo,State Auditor,,Reform,Lajena Walley,2,
+Simpson,Dry Creek,State Auditor,,Republican,Stacey E. Pickering,387,1
+Simpson,Dry Creek,State Auditor,,Democrat,Jocelyn 'Joce' Pepper Pritchett,43,
+Simpson,Dry Creek,State Auditor,,Reform,Lajena Walley,1,
+Simpson,Fork Church,State Auditor,,Republican,Stacey E. Pickering,85,
+Simpson,Fork Church,State Auditor,,Democrat,Jocelyn 'Joce' Pepper Pritchett,130,1
+Simpson,Fork Church,State Auditor,,Reform,Lajena Walley,4,
+Simpson,Harrisville,State Auditor,,Republican,Stacey E. Pickering,367,1
+Simpson,Harrisville,State Auditor,,Democrat,Jocelyn 'Joce' Pepper Pritchett,65,
+Simpson,Harrisville,State Auditor,,Reform,Lajena Walley,5,
+Simpson,Jupiter,State Auditor,,Republican,Stacey E. Pickering,113,
+Simpson,Jupiter,State Auditor,,Democrat,Jocelyn 'Joce' Pepper Pritchett,255,1
+Simpson,Jupiter,State Auditor,,Reform,Lajena Walley,5,
+Simpson,Magee 1,State Auditor,,Republican,Stacey E. Pickering,68,
+Simpson,Magee 1,State Auditor,,Democrat,Jocelyn 'Joce' Pepper Pritchett,265,1
+Simpson,Magee 1,State Auditor,,Reform,Lajena Walley,2,
+Simpson,Magee 2,State Auditor,,Republican,Stacey E. Pickering,574,1
+Simpson,Magee 2,State Auditor,,Democrat,Jocelyn 'Joce' Pepper Pritchett,105,
+Simpson,Magee 2,State Auditor,,Reform,Lajena Walley,6,
+Simpson,Magee 4 North,State Auditor,,Republican,Stacey E. Pickering,267,1
+Simpson,Magee 4 North,State Auditor,,Democrat,Jocelyn 'Joce' Pepper Pritchett,27,
+Simpson,Magee 4 North,State Auditor,,Reform,Lajena Walley,2,
+Simpson,Magee 4 South,State Auditor,,Republican,Stacey E. Pickering,455,1
+Simpson,Magee 4 South,State Auditor,,Democrat,Jocelyn 'Joce' Pepper Pritchett,95,
+Simpson,Magee 4 South,State Auditor,,Reform,Lajena Walley,4,
+Simpson,Mendenhall 1,State Auditor,,Republican,Stacey E. Pickering,73,
+Simpson,Mendenhall 1,State Auditor,,Democrat,Jocelyn 'Joce' Pepper Pritchett,105,1
+Simpson,Mendenhall 1,State Auditor,,Reform,Lajena Walley,5,
+Simpson,Mendenhall 3,State Auditor,,Republican,Stacey E. Pickering,513,1
+Simpson,Mendenhall 3,State Auditor,,Democrat,Jocelyn 'Joce' Pepper Pritchett,72,
+Simpson,Mendenhall 3,State Auditor,,Reform,Lajena Walley,5,
+Simpson,Merit,State Auditor,,Republican,Stacey E. Pickering,380,1
+Simpson,Merit,State Auditor,,Democrat,Jocelyn 'Joce' Pepper Pritchett,36,
+Simpson,Merit,State Auditor,,Reform,Lajena Walley,5,
+Simpson,New Hope,State Auditor,,Republican,Stacey E. Pickering,88,1
+Simpson,New Hope,State Auditor,,Democrat,Jocelyn 'Joce' Pepper Pritchett,54,
+Simpson,New Hope,State Auditor,,Reform,Lajena Walley,2,
+Simpson,Oak Grove,State Auditor,,Republican,Stacey E. Pickering,233,1
+Simpson,Oak Grove,State Auditor,,Democrat,Jocelyn 'Joce' Pepper Pritchett,144,
+Simpson,Oak Grove,State Auditor,,Reform,Lajena Walley,4,
+Simpson,Pearl,State Auditor,,Republican,Stacey E. Pickering,243,1
+Simpson,Pearl,State Auditor,,Democrat,Jocelyn 'Joce' Pepper Pritchett,42,
+Simpson,Pearl,State Auditor,,Reform,Lajena Walley,5,
+Simpson,Pinola,State Auditor,,Republican,Stacey E. Pickering,161,1
+Simpson,Pinola,State Auditor,,Democrat,Jocelyn 'Joce' Pepper Pritchett,61,
+Simpson,Pinola,State Auditor,,Reform,Lajena Walley,5,
+Simpson,Saratoga,State Auditor,,Republican,Stacey E. Pickering,116,1
+Simpson,Saratoga,State Auditor,,Democrat,Jocelyn 'Joce' Pepper Pritchett,88,
+Simpson,Saratoga,State Auditor,,Reform,Lajena Walley,2,
+Simpson,Shivers,State Auditor,,Republican,Stacey E. Pickering,115,1
+Simpson,Shivers,State Auditor,,Democrat,Jocelyn 'Joce' Pepper Pritchett,82,
+Simpson,Shivers,State Auditor,,Reform,Lajena Walley,3,
+Simpson,Sumrall,State Auditor,,Republican,Stacey E. Pickering,228,1
+Simpson,Sumrall,State Auditor,,Democrat,Jocelyn 'Joce' Pepper Pritchett,47,
+Simpson,Sumrall,State Auditor,,Reform,Lajena Walley,1,
+Simpson,Weathersby,State Auditor,,Republican,Stacey E. Pickering,106,
+Simpson,Weathersby,State Auditor,,Democrat,Jocelyn 'Joce' Pepper Pritchett,239,1
+Simpson,Weathersby,State Auditor,,Reform,Lajena Walley,4,
+Simpson,Bowie,State Treasurer,,Republican,Lynn Fitch,163,1
+Simpson,Bowie,State Treasurer,,Reform,Viola V. McFarland,42,
+Simpson,Braxton,State Treasurer,,Republican,Lynn Fitch,449,1
+Simpson,Braxton,State Treasurer,,Reform,Viola V. McFarland,17,
+Simpson,Brldgeport,State Treasurer,,Republican,Lynn Fitch,135,1
+Simpson,Brldgeport,State Treasurer,,Reform,Viola V. McFarland,59,
+Simpson,D'Lo,State Treasurer,,Republican,Lynn Fitch,199,1
+Simpson,D'Lo,State Treasurer,,Reform,Viola V. McFarland,5,
+Simpson,Dry Creek,State Treasurer,,Republican,Lynn Fitch,404,1
+Simpson,Dry Creek,State Treasurer,,Reform,Viola V. McFarland,26,
+Simpson,Fork Church,State Treasurer,,Republican,Lynn Fitch,130,1
+Simpson,Fork Church,State Treasurer,,Reform,Viola V. McFarland,56,
+Simpson,Harrisville,State Treasurer,,Republican,Lynn Fitch,391,1
+Simpson,Harrisville,State Treasurer,,Reform,Viola V. McFarland,31,
+Simpson,Jupiter,State Treasurer,,Republican,Lynn Fitch,164,1
+Simpson,Jupiter,State Treasurer,,Reform,Viola V. McFarland,128,
+Simpson,Magee 1,State Treasurer,,Republican,Lynn Fitch,138,
+Simpson,Magee 1,State Treasurer,,Reform,Viola V. McFarland,151,1
+Simpson,Magee 2,State Treasurer,,Republican,Lynn Fitch,595,1
+Simpson,Magee 2,State Treasurer,,Reform,Viola V. McFarland,65,
+Simpson,Magee 4 North,State Treasurer,,Republican,Lynn Fitch,274,1
+Simpson,Magee 4 North,State Treasurer,,Reform,Viola V. McFarland,14,
+Simpson,Magee 4 South,State Treasurer,,Republican,Lynn Fitch,469,1
+Simpson,Magee 4 South,State Treasurer,,Reform,Viola V. McFarland,67,
+Simpson,Mendenhall 1,State Treasurer,,Republican,Lynn Fitch,96,1
+Simpson,Mendenhall 1,State Treasurer,,Reform,Viola V. McFarland,56,
+Simpson,Mendenhall 3,State Treasurer,,Republican,Lynn Fitch,534,1
+Simpson,Mendenhall 3,State Treasurer,,Reform,Viola V. McFarland,44,
+Simpson,Merit,State Treasurer,,Republican,Lynn Fitch,398,1
+Simpson,Merit,State Treasurer,,Reform,Viola V. McFarland,11,
+Simpson,New Hope,State Treasurer,,Republican,Lynn Fitch,109,1
+Simpson,New Hope,State Treasurer,,Reform,Viola V. McFarland,28,
+Simpson,Oak Grove,State Treasurer,,Republican,Lynn Fitch,264,1
+Simpson,Oak Grove,State Treasurer,,Reform,Viola V. McFarland,86,
+Simpson,Pearl,State Treasurer,,Republican,Lynn Fitch,252,1
+Simpson,Pearl,State Treasurer,,Reform,Viola V. McFarland,28,
+Simpson,Pinola,State Treasurer,,Republican,Lynn Fitch,177,1
+Simpson,Pinola,State Treasurer,,Reform,Viola V. McFarland,41,
+Simpson,Saratoga,State Treasurer,,Republican,Lynn Fitch,146,1
+Simpson,Saratoga,State Treasurer,,Reform,Viola V. McFarland,46,
+Simpson,Shivers,State Treasurer,,Republican,Lynn Fitch,141,1
+Simpson,Shivers,State Treasurer,,Reform,Viola V. McFarland,33,
+Simpson,Sumrall,State Treasurer,,Republican,Lynn Fitch,239,1
+Simpson,Sumrall,State Treasurer,,Reform,Viola V. McFarland,27,
+Simpson,Weathersby,State Treasurer,,Republican,Lynn Fitch,186,1
+Simpson,Weathersby,State Treasurer,,Reform,Viola V. McFarland,115,
+Simpson,Bowie,Commissioner of Agriculture & Commerce,,Democrat,Addie Lee Green,73,
+Simpson,Bowie,Commissioner of Agriculture & Commerce,,Republican,Cindy Hyde-Simth,140,1
+Simpson,Bowie,Commissioner of Agriculture & Commerce,,Reform,Cathy L. Toole,4,
+Simpson,Braxton,Commissioner of Agriculture & Commerce,,Democrat,Addie Lee Green,20,
+Simpson,Braxton,Commissioner of Agriculture & Commerce,,Republican,Cindy Hyde-Simth,451,1
+Simpson,Braxton,Commissioner of Agriculture & Commerce,,Reform,Cathy L. Toole,5,
+Simpson,Brldgeport,Commissioner of Agriculture & Commerce,,Democrat,Addie Lee Green,135,1
+Simpson,Brldgeport,Commissioner of Agriculture & Commerce,,Republican,Cindy Hyde-Simth,98,
+Simpson,Brldgeport,Commissioner of Agriculture & Commerce,,Reform,Cathy L. Toole,1,
+Simpson,D'Lo,Commissioner of Agriculture & Commerce,,Democrat,Addie Lee Green,17,
+Simpson,D'Lo,Commissioner of Agriculture & Commerce,,Republican,Cindy Hyde-Simth,190,1
+Simpson,D'Lo,Commissioner of Agriculture & Commerce,,Reform,Cathy L. Toole,1,
+Simpson,Dry Creek,Commissioner of Agriculture & Commerce,,Democrat,Addie Lee Green,38,
+Simpson,Dry Creek,Commissioner of Agriculture & Commerce,,Republican,Cindy Hyde-Simth,395,1
+Simpson,Dry Creek,Commissioner of Agriculture & Commerce,,Reform,Cathy L. Toole,1,
+Simpson,Fork Church,Commissioner of Agriculture & Commerce,,Democrat,Addie Lee Green,135,1
+Simpson,Fork Church,Commissioner of Agriculture & Commerce,,Republican,Cindy Hyde-Simth,82,
+Simpson,Fork Church,Commissioner of Agriculture & Commerce,,Reform,Cathy L. Toole,5,
+Simpson,Harrisville,Commissioner of Agriculture & Commerce,,Democrat,Addie Lee Green,56,
+Simpson,Harrisville,Commissioner of Agriculture & Commerce,,Republican,Cindy Hyde-Simth,378,1
+Simpson,Harrisville,Commissioner of Agriculture & Commerce,,Reform,Cathy L. Toole,7,
+Simpson,Jupiter,Commissioner of Agriculture & Commerce,,Democrat,Addie Lee Green,263,1
+Simpson,Jupiter,Commissioner of Agriculture & Commerce,,Republican,Cindy Hyde-Simth,109,
+Simpson,Jupiter,Commissioner of Agriculture & Commerce,,Reform,Cathy L. Toole,3,
+Simpson,Magee 1,Commissioner of Agriculture & Commerce,,Democrat,Addie Lee Green,267,1
+Simpson,Magee 1,Commissioner of Agriculture & Commerce,,Republican,Cindy Hyde-Simth,68,
+Simpson,Magee 1,Commissioner of Agriculture & Commerce,,Reform,Cathy L. Toole,2,
+Simpson,Magee 2,Commissioner of Agriculture & Commerce,,Democrat,Addie Lee Green,108,
+Simpson,Magee 2,Commissioner of Agriculture & Commerce,,Republican,Cindy Hyde-Simth,566,1
+Simpson,Magee 2,Commissioner of Agriculture & Commerce,,Reform,Cathy L. Toole,13,
+Simpson,Magee 4 North,Commissioner of Agriculture & Commerce,,Democrat,Addie Lee Green,30,
+Simpson,Magee 4 North,Commissioner of Agriculture & Commerce,,Republican,Cindy Hyde-Simth,264,1
+Simpson,Magee 4 North,Commissioner of Agriculture & Commerce,,Reform,Cathy L. Toole,5,
+Simpson,Magee 4 South,Commissioner of Agriculture & Commerce,,Democrat,Addie Lee Green,99,
+Simpson,Magee 4 South,Commissioner of Agriculture & Commerce,,Republican,Cindy Hyde-Simth,444,1
+Simpson,Magee 4 South,Commissioner of Agriculture & Commerce,,Reform,Cathy L. Toole,11,
+Simpson,Mendenhall 1,Commissioner of Agriculture & Commerce,,Democrat,Addie Lee Green,114,1
+Simpson,Mendenhall 1,Commissioner of Agriculture & Commerce,,Republican,Cindy Hyde-Simth,66,
+Simpson,Mendenhall 1,Commissioner of Agriculture & Commerce,,Reform,Cathy L. Toole,4,
+Simpson,Mendenhall 3,Commissioner of Agriculture & Commerce,,Democrat,Addie Lee Green,69,
+Simpson,Mendenhall 3,Commissioner of Agriculture & Commerce,,Republican,Cindy Hyde-Simth,516,1
+Simpson,Mendenhall 3,Commissioner of Agriculture & Commerce,,Reform,Cathy L. Toole,10,
+Simpson,Merit,Commissioner of Agriculture & Commerce,,Democrat,Addie Lee Green,26,
+Simpson,Merit,Commissioner of Agriculture & Commerce,,Republican,Cindy Hyde-Simth,388,1
+Simpson,Merit,Commissioner of Agriculture & Commerce,,Reform,Cathy L. Toole,5,
+Simpson,New Hope,Commissioner of Agriculture & Commerce,,Democrat,Addie Lee Green,57,
+Simpson,New Hope,Commissioner of Agriculture & Commerce,,Republican,Cindy Hyde-Simth,85,1
+Simpson,New Hope,Commissioner of Agriculture & Commerce,,Reform,Cathy L. Toole,2,
+Simpson,Oak Grove,Commissioner of Agriculture & Commerce,,Democrat,Addie Lee Green,150,
+Simpson,Oak Grove,Commissioner of Agriculture & Commerce,,Republican,Cindy Hyde-Simth,232,1
+Simpson,Oak Grove,Commissioner of Agriculture & Commerce,,Reform,Cathy L. Toole,2,
+Simpson,Pearl,Commissioner of Agriculture & Commerce,,Democrat,Addie Lee Green,40,
+Simpson,Pearl,Commissioner of Agriculture & Commerce,,Republican,Cindy Hyde-Simth,248,1
+Simpson,Pearl,Commissioner of Agriculture & Commerce,,Reform,Cathy L. Toole,4,
+Simpson,Pinola,Commissioner of Agriculture & Commerce,,Democrat,Addie Lee Green,63,
+Simpson,Pinola,Commissioner of Agriculture & Commerce,,Republican,Cindy Hyde-Simth,165,1
+Simpson,Pinola,Commissioner of Agriculture & Commerce,,Reform,Cathy L. Toole,3,
+Simpson,Saratoga,Commissioner of Agriculture & Commerce,,Democrat,Addie Lee Green,90,
+Simpson,Saratoga,Commissioner of Agriculture & Commerce,,Republican,Cindy Hyde-Simth,114,1
+Simpson,Saratoga,Commissioner of Agriculture & Commerce,,Reform,Cathy L. Toole,5,
+Simpson,Shivers,Commissioner of Agriculture & Commerce,,Democrat,Addie Lee Green,82,
+Simpson,Shivers,Commissioner of Agriculture & Commerce,,Republican,Cindy Hyde-Simth,118,1
+Simpson,Shivers,Commissioner of Agriculture & Commerce,,Reform,Cathy L. Toole,2,
+Simpson,Sumrall,Commissioner of Agriculture & Commerce,,Democrat,Addie Lee Green,45,
+Simpson,Sumrall,Commissioner of Agriculture & Commerce,,Republican,Cindy Hyde-Simth,233,1
+Simpson,Sumrall,Commissioner of Agriculture & Commerce,,Reform,Cathy L. Toole,3,
+Simpson,Weathersby,Commissioner of Agriculture & Commerce,,Democrat,Addie Lee Green,251,1
+Simpson,Weathersby,Commissioner of Agriculture & Commerce,,Republican,Cindy Hyde-Simth,105,
+Simpson,Weathersby,Commissioner of Agriculture & Commerce,,Reform,Cathy L. Toole,4,
+Simpson,Bowie,State Senate,35,Republican,Chris Caughman,181,
+Simpson,Braxton,State Senate,35,Republican,Chris Caughman,455,
+Simpson,Brldgeport,State Senate,35,Republican,Chris Caughman,155,
+Simpson,D'Lo,State Senate,35,Republican,Chris Caughman,201,
+Simpson,Dry Creek,State Senate,35,Republican,Chris Caughman,416,
+Simpson,Fork Church,State Senate,35,Republican,Chris Caughman,150,
+Simpson,Harrisville,State Senate,35,Republican,Chris Caughman,413,
+Simpson,Jupiter,State Senate,35,Republican,Chris Caughman,210,
+Simpson,Magee 1,State Senate,35,Republican,Chris Caughman,227,
+Simpson,Magee 2,State Senate,35,Republican,Chris Caughman,637,
+Simpson,Magee 4 North,State Senate,35,Republican,Chris Caughman,289,
+Simpson,Magee 4 South,State Senate,35,Republican,Chris Caughman,511,
+Simpson,Mendenhall 1,State Senate,35,Republican,Chris Caughman,132,
+Simpson,Mendenhall 3,State Senate,35,Republican,Chris Caughman,559,
+Simpson,Merit,State Senate,35,Republican,Chris Caughman,404,
+Simpson,New Hope,State Senate,35,Republican,Chris Caughman,120,
+Simpson,Oak Grove,State Senate,35,Republican,Chris Caughman,297,
+Simpson,Pearl,State Senate,35,Republican,Chris Caughman,254,
+Simpson,Pinola,State Senate,35,Republican,Chris Caughman,190,
+Simpson,Saratoga,State Senate,35,Republican,Chris Caughman,168,
+Simpson,Shivers,State Senate,35,Republican,Chris Caughman,148,
+Simpson,Sumrall,State Senate,35,Republican,Chris Caughman,251,
+Simpson,Weathersby,State Senate,35,Republican,Chris Caughman,253,
+Simpson,Pearl,State House,62,Republican,Tom Weathersby,55,
+Simpson,Pearl,State House,62,Democrat,Stephen Wilson,17,
+Simpson,Braxton,State House,77,Republican,Andy Gipson,462,
+Simpson,D'Lo,State House,77,Republican,Andy Gipson,200,
+Simpson,Harrisville,State House,77,Republican,Andy Gipson,413,
+Simpson,Jupiter,State House,77,Republican,Andy Gipson,208,
+Simpson,Magee 1,State House,77,Republican,Andy Gipson,215,
+Simpson,Magee 2,State House,77,Republican,Andy Gipson,425,
+Simpson,Magee 4 North,State House,77,Republican,Andy Gipson,284,
+Simpson,Magee 4 South,State House,77,Republican,Andy Gipson,507,
+Simpson,Mendenhall 1,State House,77,Republican,Andy Gipson,123,
+Simpson,Mendenhall 3,State House,77,Republican,Andy Gipson,563,
+Simpson,Merit,State House,77,Republican,Andy Gipson,402,
+Simpson,Pearl,State House,77,Republican,Andy Gipson,197,
+Simpson,Pinola,State House,77,Republican,Andy Gipson,197,
+Simpson,Shivers,State House,77,Republican,Andy Gipson,59,
+Simpson,Sumrall,State House,77,Republican,Andy Gipson,254,
+Simpson,Weathersby,State House,77,Republican,Andy Gipson,256,
+Simpson,Bowie,State House,90,Democrat,John B. Pope III,94,
+Simpson,Dry Creek,State House,90,Democrat,John B. Pope III,49,
+Simpson,Magee 1,State House,90,Democrat,John B. Pope III,3,
+Simpson,Magee 2,State House,90,Democrat,John B. Pope III,36,
+Simpson,New Hope,State House,90,Democrat,John B. Pope III,61,
+Simpson,Oak Grove,State House,90,Democrat,John B. Pope III,49,
+Simpson,Saratoga,State House,90,Democrat,John B. Pope III,105,
+Simpson,Bowie,State House,90,Republican,Noah L. Sanford,123,
+Simpson,Dry Creek,State House,90,Republican,Noah L. Sanford,386,
+Simpson,Magee 1,State House,90,Republican,Noah L. Sanford,0,
+Simpson,Magee 2,State House,90,Republican,Noah L. Sanford,182,
+Simpson,New Hope,State House,90,Republican,Noah L. Sanford,81,
+Simpson,Oak Grove,State House,90,Republican,Noah L. Sanford,102,
+Simpson,Saratoga,State House,90,Republican,Noah L. Sanford,102,
+Simpson,Brldgeport,State House,91,Republican,Charles E. Bufkin,75,
+Simpson,Fork Church,State House,91,Republican,Charles E. Bufkin,68,
+Simpson,Oak Grove,State House,91,Republican,Charles E. Bufkin,88,
+Simpson,Shivers,State House,91,Republican,Charles E. Bufkin,45,
+Simpson,Brldgeport,State House,91,Democrat,Bob Evans,154,
+Simpson,Fork Church,State House,91,Democrat,Bob Evans,150,
+Simpson,Oak Grove,State House,91,Democrat,Bob Evans,144,
+Simpson,Shivers,State House,91,Democrat,Bob Evans,89,

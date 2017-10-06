@@ -1,1 +1,946 @@
-county,precinct,office,district,party,candidate,totalLee,113 Auburn,Governor,,Republican,Phil Bryant,488Lee,113 Auburn,Governor,,Democrat,Robert Gray,38Lee,113 Auburn,Governor,,Reform,Shawn O'Hara,6Lee,113 Auburn,Lieutenant Governor,,Democrat,Tim Johnson,59Lee,113 Auburn,Lieutenant Governor,,Republican,Tate Reeves,457Lee,113 Auburn,Lieutenant Governor,,Libertarian,Ron Williams,6Lee,113 Auburn,Lieutenant Governor,,Reform,Rosa B. Williams,3Lee,113 Auburn,Secretary of State,,Democrat,Charles E. Graham,47Lee,113 Auburn,Secretary of State,,Republican,Delbert Hosemann,473Lee,113 Auburn,Secretary of State,,Reform,Randy Walker,7Lee,113 Auburn,Attorney General,,Democrat,Jim Hood,189Lee,113 Auburn,Attorney General,,Republican,Mike Hurst,341Lee,113 Auburn,State Auditor,,Republican,Stacey E. Pickering,486Lee,113 Auburn,State Auditor,,Democrat,Jocelyn 'Joce' Pepper Pritchett,38Lee,113 Auburn,State Auditor,,Reform,Lajena Walley,3Lee,113 Auburn,State Treasurer,,Republican,Lynn Fitch,482Lee,113 Auburn,State Treasurer,,Reform,Viola McFarland,34Lee,113 Auburn,Commissioner of Agriculture & Commerce,,Democrat,Addie Lee Green,57Lee,113 Auburn,Commissioner of Agriculture & Commerce,,Republican,Cindy Hyde-Smith,427Lee,113 Auburn,Commissioner of Agriculture & Commerce,,Reform,Cathy L Toole,14Lee,113 Auburn,Commissioner of Insurance,,Republican,Mike Chaney,445Lee,113 Auburn,State Senate,6,Republican,Chad McMahan,445Lee,113 Auburn,State House,19,Republican,Randy Boyd,323Lee,113 Auburn,State House,19,Democrat,Clint Gannon,200Lee,102 Baldwyn,Governor,,Republican,Phil Bryant,220Lee,102 Baldwyn,Governor,,Democrat,Robert Gray,158Lee,102 Baldwyn,Governor,,Reform,Shawn O'Hara,1Lee,102 Baldwyn,Lieutenant Governor,,Democrat,Tim Johnson,177Lee,102 Baldwyn,Lieutenant Governor,,Republican,Tate Reeves,196Lee,102 Baldwyn,Lieutenant Governor,,Libertarian,Ron Williams,6Lee,102 Baldwyn,Lieutenant Governor,,Reform,Rosa B. Williams,4Lee,102 Baldwyn,Secretary of State,,Democrat,Charles E. Graham,173Lee,102 Baldwyn,Secretary of State,,Republican,Delbert Hosemann,199Lee,102 Baldwyn,Secretary of State,,Reform,Randy Walker,6Lee,102 Baldwyn,Attorney General,,Democrat,Jim Hood,265Lee,102 Baldwyn,Attorney General,,Republican,Mike Hurst,119Lee,102 Baldwyn,State Auditor,,Republican,Stacey E. Pickering,199Lee,102 Baldwyn,State Auditor,,Democrat,Jocelyn 'Joce' Pepper Pritchett,175Lee,102 Baldwyn,State Auditor,,Reform,Lajena Walley,1Lee,102 Baldwyn,State Treasurer,,Republican,Lynn Fitch,235Lee,102 Baldwyn,State Treasurer,,Reform,Viola McFarland,62Lee,102 Baldwyn,Commissioner of Agriculture & Commerce,,Democrat,Addie Lee Green,188Lee,102 Baldwyn,Commissioner of Agriculture & Commerce,,Republican,Cindy Hyde-Smith,172Lee,102 Baldwyn,Commissioner of Agriculture & Commerce,,Reform,Cathy L Toole,5Lee,102 Baldwyn,Commissioner of Insurance,,Republican,Mike Chaney,289Lee,102 Baldwyn,State Senate,6,Republican,Chad McMahan,237Lee,102 Baldwyn,State House,18,Republican,Jerry Turner,276Lee,207 Beech Sprs,Governor,,Republican,Phil Bryant,232Lee,207 Beech Sprs,Governor,,Democrat,Robert Gray,78Lee,207 Beech Sprs,Governor,,Reform,Shawn O'Hara,3Lee,207 Beech Sprs,Lieutenant Governor,,Democrat,Tim Johnson,92Lee,207 Beech Sprs,Lieutenant Governor,,Republican,Tate Reeves,209Lee,207 Beech Sprs,Lieutenant Governor,,Libertarian,Ron Williams,10Lee,207 Beech Sprs,Lieutenant Governor,,Reform,Rosa B. Williams,2Lee,207 Beech Sprs,Secretary of State,,Democrat,Charles E. Graham,78Lee,207 Beech Sprs,Secretary of State,,Republican,Delbert Hosemann,228Lee,207 Beech Sprs,Secretary of State,,Reform,Randy Walker,8Lee,207 Beech Sprs,Attorney General,,Democrat,Jim Hood,147Lee,207 Beech Sprs,Attorney General,,Republican,Mike Hurst,166Lee,207 Beech Sprs,State Auditor,,Republican,Stacey E. Pickering,222Lee,207 Beech Sprs,State Auditor,,Democrat,Jocelyn 'Joce' Pepper Pritchett,84Lee,207 Beech Sprs,State Auditor,,Reform,Lajena Walley,6Lee,207 Beech Sprs,State Treasurer,,Republican,Lynn Fitch,248Lee,207 Beech Sprs,State Treasurer,,Reform,Viola McFarland,37Lee,207 Beech Sprs,Commissioner of Agriculture & Commerce,,Democrat,Addie Lee Green,82Lee,207 Beech Sprs,Commissioner of Agriculture & Commerce,,Republican,Cindy Hyde-Smith,213Lee,207 Beech Sprs,Commissioner of Agriculture & Commerce,,Reform,Cathy L Toole,7Lee,207 Beech Sprs,Commissioner of Insurance,,Republican,Mike Chaney,223Lee,207 Beech Sprs,State Senate,6,Republican,Chad McMahan,249Lee,207 Beech Sprs,State House,19,Republican,Randy Boyd,193Lee,207 Beech Sprs,State House,19,Democrat,Clint Gannon,113Lee,301 Belden,Governor,,Republican,Phil Bryant,676Lee,301 Belden,Governor,,Democrat,Robert Gray,214Lee,301 Belden,Governor,,Reform,Shawn O'Hara,12Lee,301 Belden,Lieutenant Governor,,Democrat,Tim Johnson,228Lee,301 Belden,Lieutenant Governor,,Republican,Tate Reeves,652Lee,301 Belden,Lieutenant Governor,,Libertarian,Ron Williams,12Lee,301 Belden,Lieutenant Governor,,Reform,Rosa B. Williams,7Lee,301 Belden,Secretary of State,,Democrat,Charles E. Graham,214Lee,301 Belden,Secretary of State,,Republican,Delbert Hosemann,677Lee,301 Belden,Secretary of State,,Reform,Randy Walker,16Lee,301 Belden,Attorney General,,Democrat,Jim Hood,433Lee,301 Belden,Attorney General,,Republican,Mike Hurst,478Lee,301 Belden,State Auditor,,Republican,Stacey E. Pickering,677Lee,301 Belden,State Auditor,,Democrat,Jocelyn 'Joce' Pepper Pritchett,220Lee,301 Belden,State Auditor,,Reform,Lajena Walley,7Lee,301 Belden,State Treasurer,,Republican,Lynn Fitch,730Lee,301 Belden,State Treasurer,,Reform,Viola McFarland,82Lee,301 Belden,Commissioner of Agriculture & Commerce,,Democrat,Addie Lee Green,236Lee,301 Belden,Commissioner of Agriculture & Commerce,,Republican,Cindy Hyde-Smith,635Lee,301 Belden,Commissioner of Agriculture & Commerce,,Reform,Cathy L Toole,13Lee,301 Belden,Commissioner of Insurance,,Republican,Mike Chaney,679Lee,301 Belden,State Senate,6,Republican,Chad McMahan,701Lee,301 Belden,State House,17,Republican,Shane Aguirre,233Lee,301 Belden,State House,17,Democrat,Charles Penson,120Lee,204 Birmingham,Governor,,Republican,Phil Bryant,558Lee,204 Birmingham,Governor,,Democrat,Robert Gray,69Lee,204 Birmingham,Governor,,Reform,Shawn O'Hara,5Lee,204 Birmingham,Lieutenant Governor,,Democrat,Tim Johnson,478Lee,204 Birmingham,Lieutenant Governor,,Republican,Tate Reeves,534Lee,204 Birmingham,Lieutenant Governor,,Libertarian,Ron Williams,14Lee,204 Birmingham,Lieutenant Governor,,Reform,Rosa B. Williams,2Lee,204 Birmingham,Secretary of State,,Democrat,Charles E. Graham,69Lee,204 Birmingham,Secretary of State,,Republican,Delbert Hosemann,543Lee,204 Birmingham,Secretary of State,,Reform,Randy Walker,16Lee,204 Birmingham,Attorney General,,Democrat,Jim Hood,213Lee,204 Birmingham,Attorney General,,Republican,Mike Hurst,419Lee,204 Birmingham,State Auditor,,Republican,Stacey E. Pickering,551Lee,204 Birmingham,State Auditor,,Democrat,Jocelyn 'Joce' Pepper Pritchett,71Lee,204 Birmingham,State Auditor,,Reform,Lajena Walley,3Lee,204 Birmingham,State Treasurer,,Republican,Lynn Fitch,548Lee,204 Birmingham,State Treasurer,,Reform,Viola McFarland,46Lee,204 Birmingham,Commissioner of Agriculture & Commerce,,Democrat,Addie Lee Green,76Lee,204 Birmingham,Commissioner of Agriculture & Commerce,,Republican,Cindy Hyde-Smith,518Lee,204 Birmingham,Commissioner of Agriculture & Commerce,,Reform,Cathy L Toole,14Lee,204 Birmingham,Commissioner of Insurance,,Republican,Mike Chaney,535Lee,204 Birmingham,State Senate,6,Republican,Chad McMahan,535Lee,204 Birmingham,State House,18,Republican,Jerry Turner,544Lee,302 Bissell,Governor,,Republican,Phil Bryant,1837Lee,302 Bissell,Governor,,Democrat,Robert Gray,307Lee,302 Bissell,Governor,,Reform,Shawn O'Hara,34Lee,302 Bissell,Lieutenant Governor,,Democrat,Tim Johnson,363Lee,302 Bissell,Lieutenant Governor,,Republican,Tate Reeves,1735Lee,302 Bissell,Lieutenant Governor,,Libertarian,Ron Williams,42Lee,302 Bissell,Lieutenant Governor,,Reform,Rosa B. Williams,20Lee,302 Bissell,Secretary of State,,Democrat,Charles E. Graham,297Lee,302 Bissell,Secretary of State,,Republican,Delbert Hosemann,1849Lee,302 Bissell,Secretary of State,,Reform,Randy Walker,39Lee,302 Bissell,Attorney General,,Democrat,Jim Hood,864Lee,302 Bissell,Attorney General,,Republican,Mike Hurst,1323Lee,302 Bissell,State Auditor,,Republican,Stacey E. Pickering,1832Lee,302 Bissell,State Auditor,,Democrat,Jocelyn 'Joce' Pepper Pritchett,318Lee,302 Bissell,State Auditor,,Reform,Lajena Walley,21Lee,302 Bissell,State Treasurer,,Republican,Lynn Fitch,1881Lee,302 Bissell,State Treasurer,,Reform,Viola McFarland,175Lee,302 Bissell,Commissioner of Agriculture & Commerce,,Democrat,Addie Lee Green,339Lee,302 Bissell,Commissioner of Agriculture & Commerce,,Republican,Cindy Hyde-Smith,1730Lee,302 Bissell,Commissioner of Agriculture & Commerce,,Reform,Cathy L Toole,41Lee,302 Bissell,Commissioner of Insurance,,Republican,Mike Chaney,1577Lee,302 Bissell,State Senate,6,Republican,Chad McMahan,1843Lee,302 Bissell,State House,17,Republican,Shane Aguirre,1773Lee,302 Bissell,State House,17,Democrat,Charles Penson,399Lee,501 Brewer,Governor,,Republican,Phil Bryant,267Lee,501 Brewer,Governor,,Democrat,Robert Gray,23Lee,501 Brewer,Governor,,Reform,Shawn O'Hara,1Lee,501 Brewer,Lieutenant Governor,,Democrat,Tim Johnson,27Lee,501 Brewer,Lieutenant Governor,,Republican,Tate Reeves,267Lee,501 Brewer,Lieutenant Governor,,Libertarian,Ron Williams,2Lee,501 Brewer,Lieutenant Governor,,Reform,Rosa B. Williams,1Lee,501 Brewer,Secretary of State,,Democrat,Charles E. Graham,22Lee,501 Brewer,Secretary of State,,Republican,Delbert Hosemann,261Lee,501 Brewer,Secretary of State,,Reform,Randy Walker,8Lee,501 Brewer,Attorney General,,Democrat,Jim Hood,139Lee,501 Brewer,Attorney General,,Republican,Mike Hurst,157Lee,501 Brewer,State Auditor,,Republican,Stacey E. Pickering,269Lee,501 Brewer,State Auditor,,Democrat,Jocelyn 'Joce' Pepper Pritchett,18Lee,501 Brewer,State Auditor,,Reform,Lajena Walley,1Lee,501 Brewer,State Treasurer,,Republican,Lynn Fitch,267Lee,501 Brewer,State Treasurer,,Reform,Viola McFarland,16Lee,501 Brewer,Commissioner of Agriculture & Commerce,,Democrat,Addie Lee Green,38Lee,501 Brewer,Commissioner of Agriculture & Commerce,,Republican,Cindy Hyde-Smith,239Lee,501 Brewer,Commissioner of Agriculture & Commerce,,Reform,Cathy L Toole,6Lee,501 Brewer,Commissioner of Insurance,,Republican,Mike Chaney,247Lee,501 Brewer,State Senate,7,Democrat,Hob Bryan,155Lee,501 Brewer,State Senate,7,Republican,Barry Strevel,135Lee,501 Brewer,State House,16,Democrat,Steve Holland,235Lee,201 Cedar Hill,Governor,,Republican,Phil Bryant,567Lee,201 Cedar Hill,Governor,,Democrat,Robert Gray,81Lee,201 Cedar Hill,Governor,,Reform,Shawn O'Hara,6Lee,201 Cedar Hill,Lieutenant Governor,,Democrat,Tim Johnson,98Lee,201 Cedar Hill,Lieutenant Governor,,Republican,Tate Reeves,536Lee,201 Cedar Hill,Lieutenant Governor,,Libertarian,Ron Williams,14Lee,201 Cedar Hill,Lieutenant Governor,,Reform,Rosa B. Williams,2Lee,201 Cedar Hill,Secretary of State,,Democrat,Charles E. Graham,89Lee,201 Cedar Hill,Secretary of State,,Republican,Delbert Hosemann,547Lee,201 Cedar Hill,Secretary of State,,Reform,Randy Walker,10Lee,201 Cedar Hill,Attorney General,,Democrat,Jim Hood,258Lee,201 Cedar Hill,Attorney General,,Republican,Mike Hurst,397Lee,201 Cedar Hill,State Auditor,,Republican,Stacey E. Pickering,560Lee,201 Cedar Hill,State Auditor,,Democrat,Jocelyn 'Joce' Pepper Pritchett,82Lee,201 Cedar Hill,State Auditor,,Reform,Lajena Walley,6Lee,201 Cedar Hill,State Treasurer,,Republican,Lynn Fitch,565Lee,201 Cedar Hill,State Treasurer,,Reform,Viola McFarland,42Lee,201 Cedar Hill,Commissioner of Agriculture & Commerce,,Democrat,Addie Lee Green,116Lee,201 Cedar Hill,Commissioner of Agriculture & Commerce,,Republican,Cindy Hyde-Smith,502Lee,201 Cedar Hill,Commissioner of Agriculture & Commerce,,Reform,Cathy L Toole,9Lee,201 Cedar Hill,Commissioner of Insurance,,Republican,Mike Chaney,529Lee,201 Cedar Hill,State Senate,6,Republican,Chad McMahan,531Lee,201 Cedar Hill,State House,18,Republican,Jerry Turner,565Lee,203 Davis,Governor,,Republican,Phil Bryant,73Lee,203 Davis,Governor,,Democrat,Robert Gray,44Lee,203 Davis,Governor,,Reform,Shawn O'Hara,1Lee,203 Davis,Lieutenant Governor,,Democrat,Tim Johnson,46Lee,203 Davis,Lieutenant Governor,,Republican,Tate Reeves,65Lee,203 Davis,Lieutenant Governor,,Libertarian,Ron Williams,3Lee,203 Davis,Lieutenant Governor,,Reform,Rosa B. Williams,3Lee,203 Davis,Secretary of State,,Democrat,Charles E. Graham,42Lee,203 Davis,Secretary of State,,Republican,Delbert Hosemann,72Lee,203 Davis,Secretary of State,,Reform,Randy Walker,3Lee,203 Davis,Attorney General,,Democrat,Jim Hood,68Lee,203 Davis,Attorney General,,Republican,Mike Hurst,50Lee,203 Davis,State Auditor,,Republican,Stacey E. Pickering,72Lee,203 Davis,State Auditor,,Democrat,Jocelyn 'Joce' Pepper Pritchett,41Lee,203 Davis,State Auditor,,Reform,Lajena Walley,4Lee,203 Davis,State Treasurer,,Republican,Lynn Fitch,77Lee,203 Davis,State Treasurer,,Reform,Viola McFarland,15Lee,203 Davis,Commissioner of Agriculture & Commerce,,Democrat,Addie Lee Green,43Lee,203 Davis,Commissioner of Agriculture & Commerce,,Republican,Cindy Hyde-Smith,63Lee,203 Davis,Commissioner of Agriculture & Commerce,,Reform,Cathy L Toole,6Lee,203 Davis,Commissioner of Insurance,,Republican,Mike Chaney,80Lee,203 Davis,State Senate,6,Republican,Chad McMahan,75Lee,203 Davis,State House,18,Republican,Jerry Turner,77Lee,114 East Heights,Governor,,Republican,Phil Bryant,206Lee,114 East Heights,Governor,,Democrat,Robert Gray,24Lee,114 East Heights,Governor,,Reform,Shawn O'Hara,1Lee,114 East Heights,Lieutenant Governor,,Democrat,Tim Johnson,36Lee,114 East Heights,Lieutenant Governor,,Republican,Tate Reeves,195Lee,114 East Heights,Lieutenant Governor,,Libertarian,Ron Williams,1Lee,114 East Heights,Lieutenant Governor,,Reform,Rosa B. Williams,1Lee,114 East Heights,Secretary of State,,Democrat,Charles E. Graham,30Lee,114 East Heights,Secretary of State,,Republican,Delbert Hosemann,201Lee,114 East Heights,Secretary of State,,Reform,Randy Walker,2Lee,114 East Heights,Attorney General,,Democrat,Jim Hood,90Lee,114 East Heights,Attorney General,,Republican,Mike Hurst,142Lee,114 East Heights,State Auditor,,Republican,Stacey E. Pickering,197Lee,114 East Heights,State Auditor,,Democrat,Jocelyn 'Joce' Pepper Pritchett,33Lee,114 East Heights,State Auditor,,Reform,Lajena Walley,2Lee,114 East Heights,State Treasurer,,Republican,Lynn Fitch,204Lee,114 East Heights,State Treasurer,,Reform,Viola McFarland,16Lee,114 East Heights,Commissioner of Agriculture & Commerce,,Democrat,Addie Lee Green,38Lee,114 East Heights,Commissioner of Agriculture & Commerce,,Republican,Cindy Hyde-Smith,179Lee,114 East Heights,Commissioner of Agriculture & Commerce,,Reform,Cathy L Toole,1Lee,114 East Heights,Commissioner of Insurance,,Republican,Mike Chaney,159Lee,114 East Heights,State Senate,6,Republican,Chad McMahan,192Lee,114 East Heights,State House,19,Republican,Randy Boyd,149Lee,114 East Heights,State House,19,Democrat,Clint Gannon,77Lee,110 Eggville,Governor,,Republican,Phil Bryant,253Lee,110 Eggville,Governor,,Democrat,Robert Gray,16Lee,110 Eggville,Governor,,Reform,Shawn O'Hara,1Lee,110 Eggville,Lieutenant Governor,,Democrat,Tim Johnson,25Lee,110 Eggville,Lieutenant Governor,,Republican,Tate Reeves,236Lee,110 Eggville,Lieutenant Governor,,Libertarian,Ron Williams,5Lee,110 Eggville,Lieutenant Governor,,Reform,Rosa B. Williams,0Lee,110 Eggville,Secretary of State,,Democrat,Charles E. Graham,17Lee,110 Eggville,Secretary of State,,Republican,Delbert Hosemann,243Lee,110 Eggville,Secretary of State,,Reform,Randy Walker,3Lee,110 Eggville,Attorney General,,Democrat,Jim Hood,113Lee,110 Eggville,Attorney General,,Republican,Mike Hurst,157Lee,110 Eggville,State Auditor,,Republican,Stacey E. Pickering,241Lee,110 Eggville,State Auditor,,Democrat,Jocelyn 'Joce' Pepper Pritchett,17Lee,110 Eggville,State Auditor,,Reform,Lajena Walley,3Lee,110 Eggville,State Treasurer,,Republican,Lynn Fitch,237Lee,110 Eggville,State Treasurer,,Reform,Viola McFarland,19Lee,110 Eggville,Commissioner of Agriculture & Commerce,,Democrat,Addie Lee Green,37Lee,110 Eggville,Commissioner of Agriculture & Commerce,,Republican,Cindy Hyde-Smith,214Lee,110 Eggville,Commissioner of Agriculture & Commerce,,Reform,Cathy L Toole,2Lee,110 Eggville,Commissioner of Insurance,,Republican,Mike Chaney,217Lee,110 Eggville,State Senate,6,Republican,Chad McMahan,210Lee,110 Eggville,State House,19,Republican,Randy Boyd,146Lee,110 Eggville,State House,19,Democrat,Clint Gannon,125Lee,205 Euclatubba,Governor,,Republican,Phil Bryant,150Lee,205 Euclatubba,Governor,,Democrat,Robert Gray,9Lee,205 Euclatubba,Governor,,Reform,Shawn O'Hara,1Lee,205 Euclatubba,Lieutenant Governor,,Democrat,Tim Johnson,11Lee,205 Euclatubba,Lieutenant Governor,,Republican,Tate Reeves,145Lee,205 Euclatubba,Lieutenant Governor,,Libertarian,Ron Williams,2Lee,205 Euclatubba,Lieutenant Governor,,Reform,Rosa B. Williams,0Lee,205 Euclatubba,Secretary of State,,Democrat,Charles E. Graham,7Lee,205 Euclatubba,Secretary of State,,Republican,Delbert Hosemann,149Lee,205 Euclatubba,Secretary of State,,Reform,Randy Walker,2Lee,205 Euclatubba,Attorney General,,Democrat,Jim Hood,63Lee,205 Euclatubba,Attorney General,,Republican,Mike Hurst,97Lee,205 Euclatubba,State Auditor,,Republican,Stacey E. Pickering,148Lee,205 Euclatubba,State Auditor,,Democrat,Jocelyn 'Joce' Pepper Pritchett,9Lee,205 Euclatubba,State Auditor,,Reform,Lajena Walley,0Lee,205 Euclatubba,State Treasurer,,Republican,Lynn Fitch,145Lee,205 Euclatubba,State Treasurer,,Reform,Viola McFarland,9Lee,205 Euclatubba,Commissioner of Agriculture & Commerce,,Democrat,Addie Lee Green,14Lee,205 Euclatubba,Commissioner of Agriculture & Commerce,,Republican,Cindy Hyde-Smith,134Lee,205 Euclatubba,Commissioner of Agriculture & Commerce,,Reform,Cathy L Toole,2Lee,205 Euclatubba,Commissioner of Insurance,,Republican,Mike Chaney,142Lee,205 Euclatubba,State Senate,39,Republican,Sally Doty,141Lee,205 Euclatubba,State House,18,Republican,Jerry Turner,147Lee,107 Fellowship,Governor,,Republican,Phil Bryant,245Lee,107 Fellowship,Governor,,Democrat,Robert Gray,31Lee,107 Fellowship,Governor,,Reform,Shawn O'Hara,4Lee,107 Fellowship,Lieutenant Governor,,Democrat,Tim Johnson,44Lee,107 Fellowship,Lieutenant Governor,,Republican,Tate Reeves,229Lee,107 Fellowship,Lieutenant Governor,,Libertarian,Ron Williams,4Lee,107 Fellowship,Lieutenant Governor,,Reform,Rosa B. Williams,1Lee,107 Fellowship,Secretary of State,,Democrat,Charles E. Graham,40Lee,107 Fellowship,Secretary of State,,Republican,Delbert Hosemann,226Lee,107 Fellowship,Secretary of State,,Reform,Randy Walker,6Lee,107 Fellowship,Attorney General,,Democrat,Jim Hood,112Lee,107 Fellowship,Attorney General,,Republican,Mike Hurst,169Lee,107 Fellowship,State Auditor,,Republican,Stacey E. Pickering,231Lee,107 Fellowship,State Auditor,,Democrat,Jocelyn 'Joce' Pepper Pritchett,40Lee,107 Fellowship,State Auditor,,Reform,Lajena Walley,1Lee,107 Fellowship,State Treasurer,,Republican,Lynn Fitch,233Lee,107 Fellowship,State Treasurer,,Reform,Viola McFarland,28Lee,107 Fellowship,Commissioner of Agriculture & Commerce,,Democrat,Addie Lee Green,41Lee,107 Fellowship,Commissioner of Agriculture & Commerce,,Republican,Cindy Hyde-Smith,206Lee,107 Fellowship,Commissioner of Agriculture & Commerce,,Reform,Cathy L Toole,4Lee,107 Fellowship,Commissioner of Insurance,,Republican,Mike Chaney,230Lee,107 Fellowship,State Senate,6,Republican,Chad McMahan,223Lee,107 Fellowship,State House,19,Republican,Randy Boyd,177Lee,107 Fellowship,State House,19,Democrat,Clint Gannon,90Lee,104 Friendship,Governor,,Republican,Phil Bryant,102Lee,104 Friendship,Governor,,Democrat,Robert Gray,2Lee,104 Friendship,Governor,,Reform,Shawn O'Hara,1Lee,104 Friendship,Lieutenant Governor,,Democrat,Tim Johnson,6Lee,104 Friendship,Lieutenant Governor,,Republican,Tate Reeves,94Lee,104 Friendship,Lieutenant Governor,,Libertarian,Ron Williams,3Lee,104 Friendship,Lieutenant Governor,,Reform,Rosa B. Williams,1Lee,104 Friendship,Secretary of State,,Democrat,Charles E. Graham,5Lee,104 Friendship,Secretary of State,,Republican,Delbert Hosemann,97Lee,104 Friendship,Secretary of State,,Reform,Randy Walker,2Lee,104 Friendship,Attorney General,,Democrat,Jim Hood,48Lee,104 Friendship,Attorney General,,Republican,Mike Hurst,54Lee,104 Friendship,State Auditor,,Republican,Stacey E. Pickering,103Lee,104 Friendship,State Auditor,,Democrat,Jocelyn 'Joce' Pepper Pritchett,3Lee,104 Friendship,State Auditor,,Reform,Lajena Walley,0Lee,104 Friendship,State Treasurer,,Republican,Lynn Fitch,97Lee,104 Friendship,State Treasurer,,Reform,Viola McFarland,6Lee,104 Friendship,Commissioner of Agriculture & Commerce,,Democrat,Addie Lee Green,9Lee,104 Friendship,Commissioner of Agriculture & Commerce,,Republican,Cindy Hyde-Smith,84Lee,104 Friendship,Commissioner of Agriculture & Commerce,,Reform,Cathy L Toole,6Lee,104 Friendship,Commissioner of Insurance,,Republican,Mike Chaney,95Lee,104 Friendship,State Senate,6,Republican,Chad McMahan,93Lee,104 Friendship,State House,19,Republican,Randy Boyd,77Lee,104 Friendship,State House,19,Democrat,Clint Gannon,24Lee,510 Gilvo,Governor,,Republican,Phil Bryant,75Lee,510 Gilvo,Governor,,Democrat,Robert Gray,7Lee,510 Gilvo,Governor,,Reform,Shawn O'Hara,1Lee,510 Gilvo,Lieutenant Governor,,Democrat,Tim Johnson,8Lee,510 Gilvo,Lieutenant Governor,,Republican,Tate Reeves,70Lee,510 Gilvo,Lieutenant Governor,,Libertarian,Ron Williams,2Lee,510 Gilvo,Lieutenant Governor,,Reform,Rosa B. Williams,0Lee,510 Gilvo,Secretary of State,,Democrat,Charles E. Graham,8Lee,510 Gilvo,Secretary of State,,Republican,Delbert Hosemann,71Lee,510 Gilvo,Secretary of State,,Reform,Randy Walker,3Lee,510 Gilvo,Attorney General,,Democrat,Jim Hood,37Lee,510 Gilvo,Attorney General,,Republican,Mike Hurst,45Lee,510 Gilvo,State Auditor,,Republican,Stacey E. Pickering,71Lee,510 Gilvo,State Auditor,,Democrat,Jocelyn 'Joce' Pepper Pritchett,6Lee,510 Gilvo,State Auditor,,Reform,Lajena Walley,4Lee,510 Gilvo,State Treasurer,,Republican,Lynn Fitch,74Lee,510 Gilvo,State Treasurer,,Reform,Viola McFarland,7Lee,510 Gilvo,Commissioner of Agriculture & Commerce,,Democrat,Addie Lee Green,8Lee,510 Gilvo,Commissioner of Agriculture & Commerce,,Republican,Cindy Hyde-Smith,67Lee,510 Gilvo,Commissioner of Agriculture & Commerce,,Reform,Cathy L Toole,4Lee,510 Gilvo,Commissioner of Insurance,,Republican,Mike Chaney,68Lee,510 Gilvo,State Senate,6,Republican,Chad McMahan,67Lee,510 Gilvo,State House,19,Republican,Randy Boyd,50Lee,510 Gilvo,State House,19,Democrat,Clint Gannon,33Lee,103 Guntown,Governor,,Republican,Phil Bryant,268Lee,103 Guntown,Governor,,Democrat,Robert Gray,72Lee,103 Guntown,Governor,,Reform,Shawn O'Hara,9Lee,103 Guntown,Lieutenant Governor,,Democrat,Tim Johnson,82Lee,103 Guntown,Lieutenant Governor,,Republican,Tate Reeves,242Lee,103 Guntown,Lieutenant Governor,,Libertarian,Ron Williams,11Lee,103 Guntown,Lieutenant Governor,,Reform,Rosa B. Williams,5Lee,103 Guntown,Secretary of State,,Democrat,Charles E. Graham,73Lee,103 Guntown,Secretary of State,,Republican,Delbert Hosemann,258Lee,103 Guntown,Secretary of State,,Reform,Randy Walker,11Lee,103 Guntown,Attorney General,,Democrat,Jim Hood,152Lee,103 Guntown,Attorney General,,Republican,Mike Hurst,195Lee,103 Guntown,State Auditor,,Republican,Stacey E. Pickering,262Lee,103 Guntown,State Auditor,,Democrat,Jocelyn 'Joce' Pepper Pritchett,67Lee,103 Guntown,State Auditor,,Reform,Lajena Walley,7Lee,103 Guntown,State Treasurer,,Republican,Lynn Fitch,271Lee,103 Guntown,State Treasurer,,Reform,Viola McFarland,44Lee,103 Guntown,Commissioner of Agriculture & Commerce,,Democrat,Addie Lee Green,89Lee,103 Guntown,Commissioner of Agriculture & Commerce,,Republican,Cindy Hyde-Smith,231Lee,103 Guntown,Commissioner of Agriculture & Commerce,,Reform,Cathy L Toole,7Lee,103 Guntown,Commissioner of Insurance,,Republican,Mike Chaney,284Lee,103 Guntown,State Senate,6,Republican,Chad McMahan,284Lee,103 Guntown,State House,18,Republican,Jerry Turner,279Lee,106 Hebron,Governor,,Republican,Phil Bryant,156Lee,106 Hebron,Governor,,Democrat,Robert Gray,12Lee,106 Hebron,Governor,,Reform,Shawn O'Hara,2Lee,106 Hebron,Lieutenant Governor,,Democrat,Tim Johnson,18Lee,106 Hebron,Lieutenant Governor,,Republican,Tate Reeves,150Lee,106 Hebron,Lieutenant Governor,,Libertarian,Ron Williams,3Lee,106 Hebron,Lieutenant Governor,,Reform,Rosa B. Williams,1Lee,106 Hebron,Secretary of State,,Democrat,Charles E. Graham,14Lee,106 Hebron,Secretary of State,,Republican,Delbert Hosemann,154Lee,106 Hebron,Secretary of State,,Reform,Randy Walker,5Lee,106 Hebron,Attorney General,,Democrat,Jim Hood,48Lee,106 Hebron,Attorney General,,Republican,Mike Hurst,125Lee,106 Hebron,State Auditor,,Republican,Stacey E. Pickering,155Lee,106 Hebron,State Auditor,,Democrat,Jocelyn 'Joce' Pepper Pritchett,14Lee,106 Hebron,State Auditor,,Reform,Lajena Walley,1Lee,106 Hebron,State Treasurer,,Republican,Lynn Fitch,159Lee,106 Hebron,State Treasurer,,Reform,Viola McFarland,12Lee,106 Hebron,Commissioner of Agriculture & Commerce,,Democrat,Addie Lee Green,20Lee,106 Hebron,Commissioner of Agriculture & Commerce,,Republican,Cindy Hyde-Smith,141Lee,106 Hebron,Commissioner of Agriculture & Commerce,,Reform,Cathy L Toole,3Lee,106 Hebron,Commissioner of Insurance,,Republican,Mike Chaney,145Lee,106 Hebron,State Senate,6,Republican,Chad McMahan,141Lee,106 Hebron,State House,19,Republican,Randy Boyd,115Lee,106 Hebron,State House,19,Democrat,Clint Gannon,56Lee,509 Kedron,Governor,,Republican,Phil Bryant,203Lee,509 Kedron,Governor,,Democrat,Robert Gray,54Lee,509 Kedron,Governor,,Reform,Shawn O'Hara,9Lee,509 Kedron,Lieutenant Governor,,Democrat,Tim Johnson,67Lee,509 Kedron,Lieutenant Governor,,Republican,Tate Reeves,190Lee,509 Kedron,Lieutenant Governor,,Libertarian,Ron Williams,5Lee,509 Kedron,Lieutenant Governor,,Reform,Rosa B. Williams,2Lee,509 Kedron,Secretary of State,,Democrat,Charles E. Graham,65Lee,509 Kedron,Secretary of State,,Republican,Delbert Hosemann,191Lee,509 Kedron,Secretary of State,,Reform,Randy Walker,5Lee,509 Kedron,Attorney General,,Democrat,Jim Hood,140Lee,509 Kedron,Attorney General,,Republican,Mike Hurst,125Lee,509 Kedron,State Auditor,,Republican,Stacey E. Pickering,201Lee,509 Kedron,State Auditor,,Democrat,Jocelyn 'Joce' Pepper Pritchett,60Lee,509 Kedron,State Auditor,,Reform,Lajena Walley,2Lee,509 Kedron,State Treasurer,,Republican,Lynn Fitch,201Lee,509 Kedron,State Treasurer,,Reform,Viola McFarland,31Lee,509 Kedron,Commissioner of Agriculture & Commerce,,Democrat,Addie Lee Green,71Lee,509 Kedron,Commissioner of Agriculture & Commerce,,Republican,Cindy Hyde-Smith,176Lee,509 Kedron,Commissioner of Agriculture & Commerce,,Reform,Cathy L Toole,6Lee,509 Kedron,Commissioner of Insurance,,Republican,Mike Chaney,220Lee,509 Kedron,State Senate,7,Democrat,Hob Bryan,134Lee,509 Kedron,State Senate,7,Republican,Barry Strevel,119Lee,509 Kedron,State House,19,Republican,Randy Boyd,120Lee,509 Kedron,State House,19,Democrat,Clint Gannon,133Lee,511 Mooreville,Governor,,Republican,Phil Bryant,555Lee,511 Mooreville,Governor,,Democrat,Robert Gray,56Lee,511 Mooreville,Governor,,Reform,Shawn O'Hara,11Lee,511 Mooreville,Lieutenant Governor,,Democrat,Tim Johnson,84Lee,511 Mooreville,Lieutenant Governor,,Republican,Tate Reeves,518Lee,511 Mooreville,Lieutenant Governor,,Libertarian,Ron Williams,14Lee,511 Mooreville,Lieutenant Governor,,Reform,Rosa B. Williams,8Lee,511 Mooreville,Secretary of State,,Democrat,Charles E. Graham,58Lee,511 Mooreville,Secretary of State,,Republican,Delbert Hosemann,541Lee,511 Mooreville,Secretary of State,,Reform,Randy Walker,20Lee,511 Mooreville,Attorney General,,Democrat,Jim Hood,232Lee,511 Mooreville,Attorney General,,Republican,Mike Hurst,399Lee,511 Mooreville,State Auditor,,Republican,Stacey E. Pickering,554Lee,511 Mooreville,State Auditor,,Democrat,Jocelyn 'Joce' Pepper Pritchett,58Lee,511 Mooreville,State Auditor,,Reform,Lajena Walley,8Lee,511 Mooreville,State Treasurer,,Republican,Lynn Fitch,551Lee,511 Mooreville,State Treasurer,,Reform,Viola McFarland,49Lee,511 Mooreville,Commissioner of Agriculture & Commerce,,Democrat,Addie Lee Green,80Lee,511 Mooreville,Commissioner of Agriculture & Commerce,,Republican,Cindy Hyde-Smith,504Lee,511 Mooreville,Commissioner of Agriculture & Commerce,,Reform,Cathy L Toole,15Lee,511 Mooreville,Commissioner of Insurance,,Republican,Mike Chaney,516Lee,511 Mooreville,State Senate,6,Republican,Chad McMahan,521Lee,511 Mooreville,State House,19,Republican,Randy Boyd,379Lee,511 Mooreville,State House,19,Democrat,Clint Gannon,250Lee,508 Nettleton,Governor,,Republican,Phil Bryant,364Lee,508 Nettleton,Governor,,Democrat,Robert Gray,73Lee,508 Nettleton,Governor,,Reform,Shawn O'Hara,2Lee,508 Nettleton,Lieutenant Governor,,Democrat,Tim Johnson,87Lee,508 Nettleton,Lieutenant Governor,,Republican,Tate Reeves,339Lee,508 Nettleton,Lieutenant Governor,,Libertarian,Ron Williams,8Lee,508 Nettleton,Lieutenant Governor,,Reform,Rosa B. Williams,2Lee,508 Nettleton,Secretary of State,,Democrat,Charles E. Graham,83Lee,508 Nettleton,Secretary of State,,Republican,Delbert Hosemann,345Lee,508 Nettleton,Secretary of State,,Reform,Randy Walker,7Lee,508 Nettleton,Attorney General,,Democrat,Jim Hood,242Lee,508 Nettleton,Attorney General,,Republican,Mike Hurst,198Lee,508 Nettleton,State Auditor,,Republican,Stacey E. Pickering,358Lee,508 Nettleton,State Auditor,,Democrat,Jocelyn 'Joce' Pepper Pritchett,76Lee,508 Nettleton,State Auditor,,Reform,Lajena Walley,3Lee,508 Nettleton,State Treasurer,,Republican,Lynn Fitch,369Lee,508 Nettleton,State Treasurer,,Reform,Viola McFarland,50Lee,508 Nettleton,Commissioner of Agriculture & Commerce,,Democrat,Addie Lee Green,103Lee,508 Nettleton,Commissioner of Agriculture & Commerce,,Republican,Cindy Hyde-Smith,328Lee,508 Nettleton,Commissioner of Agriculture & Commerce,,Reform,Cathy L Toole,4Lee,508 Nettleton,Commissioner of Insurance,,Republican,Mike Chaney,401Lee,508 Nettleton,State Senate,7,Democrat,Hob Bryan,208Lee,508 Nettleton,State Senate,7,Republican,Barry Strevel,228Lee,508 Nettleton,State House,20,Republican,Chris Brown,302Lee,508 Nettleton,State House,20,Democrat,William 'Bo' Miller,126Lee,108 Oak Hill,Governor,,Republican,Phil Bryant,606Lee,108 Oak Hill,Governor,,Democrat,Robert Gray,119Lee,108 Oak Hill,Governor,,Reform,Shawn O'Hara,7Lee,108 Oak Hill,Lieutenant Governor,,Democrat,Tim Johnson,128Lee,108 Oak Hill,Lieutenant Governor,,Republican,Tate Reeves,575Lee,108 Oak Hill,Lieutenant Governor,,Libertarian,Ron Williams,13Lee,108 Oak Hill,Lieutenant Governor,,Reform,Rosa B. Williams,7Lee,108 Oak Hill,Secretary of State,,Democrat,Charles E. Graham,115Lee,108 Oak Hill,Secretary of State,,Republican,Delbert Hosemann,599Lee,108 Oak Hill,Secretary of State,,Reform,Randy Walker,14Lee,108 Oak Hill,Attorney General,,Democrat,Jim Hood,314Lee,108 Oak Hill,Attorney General,,Republican,Mike Hurst,414Lee,108 Oak Hill,State Auditor,,Republican,Stacey E. Pickering,598Lee,108 Oak Hill,State Auditor,,Democrat,Jocelyn 'Joce' Pepper Pritchett,124Lee,108 Oak Hill,State Auditor,,Reform,Lajena Walley,4Lee,108 Oak Hill,State Treasurer,,Republican,Lynn Fitch,616Lee,108 Oak Hill,State Treasurer,,Reform,Viola McFarland,81Lee,108 Oak Hill,Commissioner of Agriculture & Commerce,,Democrat,Addie Lee Green,144Lee,108 Oak Hill,Commissioner of Agriculture & Commerce,,Republican,Cindy Hyde-Smith,546Lee,108 Oak Hill,Commissioner of Agriculture & Commerce,,Reform,Cathy L Toole,14Lee,108 Oak Hill,Commissioner of Insurance,,Republican,Mike Chaney,526Lee,108 Oak Hill,State Senate,6,Republican,Chad McMahan,590Lee,108 Oak Hill,State House,19,Republican,Randy Boyd,458Lee,108 Oak Hill,State House,19,Democrat,Clint Gannon,267Lee,403 Ole Union,Governor,,Republican,Phil Bryant,152Lee,403 Ole Union,Governor,,Democrat,Robert Gray,91Lee,403 Ole Union,Governor,,Reform,Shawn O'Hara,2Lee,403 Ole Union,Lieutenant Governor,,Democrat,Tim Johnson,93Lee,403 Ole Union,Lieutenant Governor,,Republican,Tate Reeves,146Lee,403 Ole Union,Lieutenant Governor,,Libertarian,Ron Williams,1Lee,403 Ole Union,Lieutenant Governor,,Reform,Rosa B. Williams,1Lee,403 Ole Union,Secretary of State,,Democrat,Charles E. Graham,94Lee,403 Ole Union,Secretary of State,,Republican,Delbert Hosemann,142Lee,403 Ole Union,Secretary of State,,Reform,Randy Walker,5Lee,403 Ole Union,Attorney General,,Democrat,Jim Hood,148Lee,403 Ole Union,Attorney General,,Republican,Mike Hurst,96Lee,403 Ole Union,State Auditor,,Republican,Stacey E. Pickering,141Lee,403 Ole Union,State Auditor,,Democrat,Jocelyn 'Joce' Pepper Pritchett,99Lee,403 Ole Union,State Auditor,,Reform,Lajena Walley,1Lee,403 Ole Union,State Treasurer,,Republican,Lynn Fitch,163Lee,403 Ole Union,State Treasurer,,Reform,Viola McFarland,39Lee,403 Ole Union,Commissioner of Agriculture & Commerce,,Democrat,Addie Lee Green,100Lee,403 Ole Union,Commissioner of Agriculture & Commerce,,Republican,Cindy Hyde-Smith,132Lee,403 Ole Union,Commissioner of Agriculture & Commerce,,Reform,Cathy L Toole,3Lee,403 Ole Union,Commissioner of Insurance,,Republican,Mike Chaney,191Lee,403 Ole Union,State Senate,8,Democrat,Russell Jolly,173Lee,403 Ole Union,State House,16,Democrat,Steve Holland,105Lee,403 Ole Union,State House,17,Republican,Shane Aguirre,96Lee,403 Ole Union,State House,17,Democrat,Charles Penson,21Lee,401 Palmetto,Governor,,Republican,Phil Bryant,250Lee,401 Palmetto,Governor,,Democrat,Robert Gray,127Lee,401 Palmetto,Governor,,Reform,Shawn O'Hara,5Lee,401 Palmetto,Lieutenant Governor,,Democrat,Tim Johnson,140Lee,401 Palmetto,Lieutenant Governor,,Republican,Tate Reeves,230Lee,401 Palmetto,Lieutenant Governor,,Libertarian,Ron Williams,7Lee,401 Palmetto,Lieutenant Governor,,Reform,Rosa B. Williams,4Lee,401 Palmetto,Secretary of State,,Democrat,Charles E. Graham,134Lee,401 Palmetto,Secretary of State,,Republican,Delbert Hosemann,242Lee,401 Palmetto,Secretary of State,,Reform,Randy Walker,8Lee,401 Palmetto,Attorney General,,Democrat,Jim Hood,218Lee,401 Palmetto,Attorney General,,Republican,Mike Hurst,165Lee,401 Palmetto,State Auditor,,Republican,Stacey E. Pickering,241Lee,401 Palmetto,State Auditor,,Democrat,Jocelyn 'Joce' Pepper Pritchett,137Lee,401 Palmetto,State Auditor,,Reform,Lajena Walley,3Lee,401 Palmetto,State Treasurer,,Republican,Lynn Fitch,264Lee,401 Palmetto,State Treasurer,,Reform,Viola McFarland,65Lee,401 Palmetto,Commissioner of Agriculture & Commerce,,Democrat,Addie Lee Green,141Lee,401 Palmetto,Commissioner of Agriculture & Commerce,,Republican,Cindy Hyde-Smith,221Lee,401 Palmetto,Commissioner of Agriculture & Commerce,,Reform,Cathy L Toole,11Lee,401 Palmetto,Commissioner of Insurance,,Republican,Mike Chaney,311Lee,401 Palmetto,State Senate,8,Democrat,Russell Jolly,286Lee,401 Palmetto,State House,16,Democrat,Steve Holland,36Lee,401 Palmetto,State House,17,Republican,Shane Aguirre,233Lee,401 Palmetto,State House,17,Democrat,Charles Penson,110Lee,507 Petersburg,Governor,,Republican,Phil Bryant,149Lee,507 Petersburg,Governor,,Democrat,Robert Gray,18Lee,507 Petersburg,Governor,,Reform,Shawn O'Hara,0Lee,507 Petersburg,Lieutenant Governor,,Democrat,Tim Johnson,22Lee,507 Petersburg,Lieutenant Governor,,Republican,Tate Reeves,136Lee,507 Petersburg,Lieutenant Governor,,Libertarian,Ron Williams,3Lee,507 Petersburg,Lieutenant Governor,,Reform,Rosa B. Williams,3Lee,507 Petersburg,Secretary of State,,Democrat,Charles E. Graham,21Lee,507 Petersburg,Secretary of State,,Republican,Delbert Hosemann,138Lee,507 Petersburg,Secretary of State,,Reform,Randy Walker,4Lee,507 Petersburg,Attorney General,,Democrat,Jim Hood,75Lee,507 Petersburg,Attorney General,,Republican,Mike Hurst,92Lee,507 Petersburg,State Auditor,,Republican,Stacey E. Pickering,140Lee,507 Petersburg,State Auditor,,Democrat,Jocelyn 'Joce' Pepper Pritchett,24Lee,507 Petersburg,State Auditor,,Reform,Lajena Walley,0Lee,507 Petersburg,State Treasurer,,Republican,Lynn Fitch,147Lee,507 Petersburg,State Treasurer,,Reform,Viola McFarland,13Lee,507 Petersburg,Commissioner of Agriculture & Commerce,,Democrat,Addie Lee Green,24Lee,507 Petersburg,Commissioner of Agriculture & Commerce,,Republican,Cindy Hyde-Smith,130Lee,507 Petersburg,Commissioner of Agriculture & Commerce,,Reform,Cathy L Toole,1Lee,507 Petersburg,Commissioner of Insurance,,Republican,Mike Chaney,148Lee,507 Petersburg,State Senate,7,Democrat,Hob Bryan,54Lee,507 Petersburg,State Senate,7,Republican,Barry Strevel,149Lee,507 Petersburg,State House,20,Republican,Chris Brown,128Lee,507 Petersburg,State House,20,Democrat,William 'Bo' Miller,29Lee,504 Plantersville,Governor,,Republican,Phil Bryant,271Lee,504 Plantersville,Governor,,Democrat,Robert Gray,206Lee,504 Plantersville,Governor,,Reform,Shawn O'Hara,4Lee,504 Plantersville,Lieutenant Governor,,Democrat,Tim Johnson,221Lee,504 Plantersville,Lieutenant Governor,,Republican,Tate Reeves,245Lee,504 Plantersville,Lieutenant Governor,,Libertarian,Ron Williams,4Lee,504 Plantersville,Lieutenant Governor,,Reform,Rosa B. Williams,2Lee,504 Plantersville,Secretary of State,,Democrat,Charles E. Graham,211Lee,504 Plantersville,Secretary of State,,Republican,Delbert Hosemann,246Lee,504 Plantersville,Secretary of State,,Reform,Randy Walker,10Lee,504 Plantersville,Attorney General,,Democrat,Jim Hood,339Lee,504 Plantersville,Attorney General,,Republican,Mike Hurst,140Lee,504 Plantersville,State Auditor,,Republican,Stacey E. Pickering,261Lee,504 Plantersville,State Auditor,,Democrat,Jocelyn 'Joce' Pepper Pritchett,201Lee,504 Plantersville,State Auditor,,Reform,Lajena Walley,2Lee,504 Plantersville,State Treasurer,,Republican,Lynn Fitch,147Lee,504 Plantersville,State Treasurer,,Reform,Viola McFarland,13Lee,504 Plantersville,Commissioner of Agriculture & Commerce,,Democrat,Addie Lee Green,24Lee,504 Plantersville,Commissioner of Agriculture & Commerce,,Republican,Cindy Hyde-Smith,130Lee,504 Plantersville,Commissioner of Agriculture & Commerce,,Reform,Cathy L Toole,1Lee,504 Plantersville,Commissioner of Insurance,,Republican,Mike Chaney,148Lee,504 Plantersville,State Senate,7,Democrat,Hob Bryan,312Lee,504 Plantersville,State Senate,7,Republican,Barry Strevel,149Lee,504 Plantersville,State House,16,Republican,Steve Holland,392Lee,402 Pleasant Grove,Governor,,Republican,Phil Bryant,207Lee,402 Pleasant Grove,Governor,,Democrat,Robert Gray,280Lee,402 Pleasant Grove,Governor,,Reform,Shawn O'Hara,2Lee,402 Pleasant Grove,Lieutenant Governor,,Democrat,Tim Johnson,291Lee,402 Pleasant Grove,Lieutenant Governor,,Republican,Tate Reeves,187Lee,402 Pleasant Grove,Lieutenant Governor,,Libertarian,Ron Williams,2Lee,402 Pleasant Grove,Lieutenant Governor,,Reform,Rosa B. Williams,6Lee,402 Pleasant Grove,Secretary of State,,Democrat,Charles E. Graham,298Lee,402 Pleasant Grove,Secretary of State,,Republican,Delbert Hosemann,178Lee,402 Pleasant Grove,Secretary of State,,Reform,Randy Walker,5Lee,402 Pleasant Grove,Attorney General,,Democrat,Jim Hood,380Lee,402 Pleasant Grove,Attorney General,,Republican,Mike Hurst,109Lee,402 Pleasant Grove,State Auditor,,Republican,Stacey E. Pickering,182Lee,402 Pleasant Grove,State Auditor,,Democrat,Jocelyn 'Joce' Pepper Pritchett,289Lee,402 Pleasant Grove,State Auditor,,Reform,Lajena Walley,4Lee,402 Pleasant Grove,State Treasurer,,Republican,Lynn Fitch,246Lee,402 Pleasant Grove,State Treasurer,,Reform,Viola McFarland,112Lee,402 Pleasant Grove,Commissioner of Agriculture & Commerce,,Democrat,Addie Lee Green,305Lee,402 Pleasant Grove,Commissioner of Agriculture & Commerce,,Republican,Cindy Hyde-Smith,148Lee,402 Pleasant Grove,Commissioner of Agriculture & Commerce,,Reform,Cathy L Toole,12Lee,402 Pleasant Grove,Commissioner of Insurance,,Republican,Mike Chaney,415Lee,402 Pleasant Grove,State Senate,8,Democrat,Russell Jolly,399Lee,402 Pleasant Grove,State House,16,Democrat,Steve Holland,328Lee,402 Pleasant Grove,State House,17,Republican,Shane Aguirre,85Lee,402 Pleasant Grove,State House,17,Democrat,Charles Penson,30Lee,101 Pratts,Governor,,Republican,Phil Bryant,159Lee,101 Pratts,Governor,,Democrat,Robert Gray,13Lee,101 Pratts,Governor,,Reform,Shawn O'Hara,4Lee,101 Pratts,Lieutenant Governor,,Democrat,Tim Johnson,17Lee,101 Pratts,Lieutenant Governor,,Republican,Tate Reeves,150Lee,101 Pratts,Lieutenant Governor,,Libertarian,Ron Williams,6Lee,101 Pratts,Lieutenant Governor,,Reform,Rosa B. Williams,1Lee,101 Pratts,Secretary of State,,Democrat,Charles E. Graham,13Lee,101 Pratts,Secretary of State,,Republican,Delbert Hosemann,163Lee,101 Pratts,Secretary of State,,Reform,Randy Walker,1Lee,101 Pratts,Attorney General,,Democrat,Jim Hood,58Lee,101 Pratts,Attorney General,,Republican,Mike Hurst,118Lee,101 Pratts,State Auditor,,Republican,Stacey E. Pickering,159Lee,101 Pratts,State Auditor,,Democrat,Jocelyn 'Joce' Pepper Pritchett,15Lee,101 Pratts,State Auditor,,Reform,Lajena Walley,1Lee,101 Pratts,State Treasurer,,Republican,Lynn Fitch,159Lee,101 Pratts,State Treasurer,,Reform,Viola McFarland,12Lee,101 Pratts,Commissioner of Agriculture & Commerce,,Democrat,Addie Lee Green,20Lee,101 Pratts,Commissioner of Agriculture & Commerce,,Republican,Cindy Hyde-Smith,149Lee,101 Pratts,Commissioner of Agriculture & Commerce,,Reform,Cathy L Toole,2Lee,101 Pratts,Commissioner of Insurance,,Republican,Mike Chaney,134Lee,101 Pratts,State Senate,6,Republican,Chad McMahan,161Lee,101 Pratts,State House,18,Republican,Jerry Turner,154Lee,503 Richmond,Governor,,Republican,Phil Bryant,209Lee,503 Richmond,Governor,,Democrat,Robert Gray,39Lee,503 Richmond,Governor,,Reform,Shawn O'Hara,4Lee,503 Richmond,Lieutenant Governor,,Democrat,Tim Johnson,44Lee,503 Richmond,Lieutenant Governor,,Republican,Tate Reeves,196Lee,503 Richmond,Lieutenant Governor,,Libertarian,Ron Williams,5Lee,503 Richmond,Lieutenant Governor,,Reform,Rosa B. Williams,1Lee,503 Richmond,Secretary of State,,Democrat,Charles E. Graham,39Lee,503 Richmond,Secretary of State,,Republican,Delbert Hosemann,201Lee,503 Richmond,Secretary of State,,Reform,Randy Walker,6Lee,503 Richmond,Attorney General,,Democrat,Jim Hood,119Lee,503 Richmond,Attorney General,,Republican,Mike Hurst,132Lee,503 Richmond,State Auditor,,Republican,Stacey E. Pickering,197Lee,503 Richmond,State Auditor,,Democrat,Jocelyn 'Joce' Pepper Pritchett,49Lee,503 Richmond,State Auditor,,Reform,Lajena Walley,0Lee,503 Richmond,State Treasurer,,Republican,Lynn Fitch,214Lee,503 Richmond,State Treasurer,,Reform,Viola McFarland,25Lee,503 Richmond,Commissioner of Agriculture & Commerce,,Democrat,Addie Lee Green,53Lee,503 Richmond,Commissioner of Agriculture & Commerce,,Republican,Cindy Hyde-Smith,181Lee,503 Richmond,Commissioner of Agriculture & Commerce,,Reform,Cathy L Toole,4Lee,503 Richmond,Commissioner of Insurance,,Republican,Mike Chaney,214Lee,503 Richmond,State Senate,6,Republican,Chad McMahan,207Lee,503 Richmond,State House,19,Republican,Randy Boyd,128Lee,503 Richmond,State House,19,Democrat,Clint Gannon,119Lee,206 Saltillo,Governor,,Republican,Phil Bryant,1011Lee,206 Saltillo,Governor,,Democrat,Robert Gray,117Lee,206 Saltillo,Governor,,Reform,Shawn O'Hara,8Lee,206 Saltillo,Lieutenant Governor,,Democrat,Tim Johnson,150Lee,206 Saltillo,Lieutenant Governor,,Republican,Tate Reeves,945Lee,206 Saltillo,Lieutenant Governor,,Libertarian,Ron Williams,30Lee,206 Saltillo,Lieutenant Governor,,Reform,Rosa B. Williams,6Lee,206 Saltillo,Secretary of State,,Democrat,Charles E. Graham,124Lee,206 Saltillo,Secretary of State,,Republican,Delbert Hosemann,986Lee,206 Saltillo,Secretary of State,,Reform,Randy Walker,14Lee,206 Saltillo,Attorney General,,Democrat,Jim Hood,430Lee,206 Saltillo,Attorney General,,Republican,Mike Hurst,704Lee,206 Saltillo,State Auditor,,Republican,Stacey E. Pickering,969Lee,206 Saltillo,State Auditor,,Democrat,Jocelyn 'Joce' Pepper Pritchett,137Lee,206 Saltillo,State Auditor,,Reform,Lajena Walley,8Lee,206 Saltillo,State Treasurer,,Republican,Lynn Fitch,1007Lee,206 Saltillo,State Treasurer,,Reform,Viola McFarland,70Lee,206 Saltillo,Commissioner of Agriculture & Commerce,,Democrat,Addie Lee Green,150Lee,206 Saltillo,Commissioner of Agriculture & Commerce,,Republican,Cindy Hyde-Smith,915Lee,206 Saltillo,Commissioner of Agriculture & Commerce,,Reform,Cathy L Toole,17Lee,206 Saltillo,Commissioner of Insurance,,Republican,Mike Chaney,999Lee,206 Saltillo,State Senate,6,Republican,Chad McMahan,975Lee,206 Saltillo,State House,18,Republican,Jerry Turner,989Lee,502 Shannon,Governor,,Republican,Phil Bryant,168Lee,502 Shannon,Governor,,Democrat,Robert Gray,173Lee,502 Shannon,Governor,,Reform,Shawn O'Hara,1Lee,502 Shannon,Lieutenant Governor,,Democrat,Tim Johnson,175Lee,502 Shannon,Lieutenant Governor,,Republican,Tate Reeves,151Lee,502 Shannon,Lieutenant Governor,,Libertarian,Ron Williams,7Lee,502 Shannon,Lieutenant Governor,,Reform,Rosa B. Williams,4Lee,502 Shannon,Secretary of State,,Democrat,Charles E. Graham,179Lee,502 Shannon,Secretary of State,,Republican,Delbert Hosemann,150Lee,502 Shannon,Secretary of State,,Reform,Randy Walker,4Lee,502 Shannon,Attorney General,,Democrat,Jim Hood,256Lee,502 Shannon,Attorney General,,Republican,Mike Hurst,87Lee,502 Shannon,State Auditor,,Republican,Stacey E. Pickering,157Lee,502 Shannon,State Auditor,,Democrat,Jocelyn 'Joce' Pepper Pritchett,175Lee,502 Shannon,State Auditor,,Reform,Lajena Walley,4Lee,502 Shannon,State Treasurer,,Republican,Lynn Fitch,183Lee,502 Shannon,State Treasurer,,Reform,Viola McFarland,62Lee,502 Shannon,Commissioner of Agriculture & Commerce,,Democrat,Addie Lee Green,188Lee,502 Shannon,Commissioner of Agriculture & Commerce,,Republican,Cindy Hyde-Smith,130Lee,502 Shannon,Commissioner of Agriculture & Commerce,,Reform,Cathy L Toole,2Lee,502 Shannon,Commissioner of Insurance,,Republican,Mike Chaney,264Lee,502 Shannon,State Senate,8,Democrat,Russell Jolly,262Lee,502 Shannon,State House,16,Democrat,Steve Holland,287Lee,109 Tupelo 1,Governor,,Republican,Phil Bryant,296Lee,109 Tupelo 1,Governor,,Democrat,Robert Gray,36Lee,109 Tupelo 1,Governor,,Reform,Shawn O'Hara,6Lee,109 Tupelo 1,Lieutenant Governor,,Democrat,Tim Johnson,48Lee,109 Tupelo 1,Lieutenant Governor,,Republican,Tate Reeves,272Lee,109 Tupelo 1,Lieutenant Governor,,Libertarian,Ron Williams,11Lee,109 Tupelo 1,Lieutenant Governor,,Reform,Rosa B. Williams,3Lee,109 Tupelo 1,Secretary of State,,Democrat,Charles E. Graham,24Lee,109 Tupelo 1,Secretary of State,,Republican,Delbert Hosemann,322Lee,109 Tupelo 1,Secretary of State,,Reform,Randy Walker,5Lee,109 Tupelo 1,Attorney General,,Democrat,Jim Hood,106Lee,109 Tupelo 1,Attorney General,,Republican,Mike Hurst,242Lee,109 Tupelo 1,State Auditor,,Republican,Stacey E. Pickering,321Lee,109 Tupelo 1,State Auditor,,Democrat,Jocelyn 'Joce' Pepper Pritchett,30Lee,109 Tupelo 1,State Auditor,,Reform,Lajena Walley,1Lee,109 Tupelo 1,State Treasurer,,Republican,Lynn Fitch,330Lee,109 Tupelo 1,State Treasurer,,Reform,Viola McFarland,15Lee,109 Tupelo 1,Commissioner of Agriculture & Commerce,,Democrat,Addie Lee Green,29Lee,109 Tupelo 1,Commissioner of Agriculture & Commerce,,Republican,Cindy Hyde-Smith,304Lee,109 Tupelo 1,Commissioner of Agriculture & Commerce,,Reform,Cathy L Toole,5Lee,109 Tupelo 1,Commissioner of Insurance,,Republican,Mike Chaney,246Lee,109 Tupelo 1,State Senate,6,Republican,Chad McMahan,297Lee,109 Tupelo 1,State House,18,Republican,Jerry Turner,304Lee,209 Tupelo 2,Governor,,Republican,Phil Bryant,1069Lee,209 Tupelo 2,Governor,,Democrat,Robert Gray,279Lee,209 Tupelo 2,Governor,,Reform,Shawn O'Hara,21Lee,209 Tupelo 2,Lieutenant Governor,,Democrat,Tim Johnson,295Lee,209 Tupelo 2,Lieutenant Governor,,Republican,Tate Reeves,1029Lee,209 Tupelo 2,Lieutenant Governor,,Libertarian,Ron Williams,28Lee,209 Tupelo 2,Lieutenant Governor,,Reform,Rosa B. Williams,13Lee,209 Tupelo 2,Secretary of State,,Democrat,Charles E. Graham,223Lee,209 Tupelo 2,Secretary of State,,Republican,Delbert Hosemann,1133Lee,209 Tupelo 2,Secretary of State,,Reform,Randy Walker,25Lee,209 Tupelo 2,Attorney General,,Democrat,Jim Hood,612Lee,209 Tupelo 2,Attorney General,,Republican,Mike Hurst,776Lee,209 Tupelo 2,State Auditor,,Republican,Stacey E. Pickering,1094Lee,209 Tupelo 2,State Auditor,,Democrat,Jocelyn 'Joce' Pepper Pritchett,265Lee,209 Tupelo 2,State Auditor,,Reform,Lajena Walley,12Lee,209 Tupelo 2,State Treasurer,,Republican,Lynn Fitch,1163Lee,209 Tupelo 2,State Treasurer,,Reform,Viola McFarland,131Lee,209 Tupelo 2,Commissioner of Agriculture & Commerce,,Democrat,Addie Lee Green,265Lee,209 Tupelo 2,Commissioner of Agriculture & Commerce,,Republican,Cindy Hyde-Smith,1022Lee,209 Tupelo 2,Commissioner of Agriculture & Commerce,,Reform,Cathy L Toole,26Lee,209 Tupelo 2,Commissioner of Insurance,,Republican,Mike Chaney,1038Lee,209 Tupelo 2,State Senate,6,Republican,Chad McMahan,1145Lee,209 Tupelo 2,State House,17,Republican,Shane Aguirre,823Lee,209 Tupelo 2,State House,17,Democrat,Charles Penson,258Lee,209 Tupelo 2,State House,18,Republican,Jerry Turner,260Lee,308 Tupelo 3,Governor,,Republican,Phil Bryant,1248Lee,308 Tupelo 3,Governor,,Democrat,Robert Gray,410Lee,308 Tupelo 3,Governor,,Reform,Shawn O'Hara,23Lee,308 Tupelo 3,Lieutenant Governor,,Democrat,Tim Johnson,449Lee,308 Tupelo 3,Lieutenant Governor,,Republican,Tate Reeves,1182Lee,308 Tupelo 3,Lieutenant Governor,,Libertarian,Ron Williams,27Lee,308 Tupelo 3,Lieutenant Governor,,Reform,Rosa B. Williams,13Lee,308 Tupelo 3,Secretary of State,,Democrat,Charles E. Graham,404Lee,308 Tupelo 3,Secretary of State,,Republican,Delbert Hosemann,1261Lee,308 Tupelo 3,Secretary of State,,Reform,Randy Walker,17Lee,308 Tupelo 3,Attorney General,,Democrat,Jim Hood,834Lee,308 Tupelo 3,Attorney General,,Republican,Mike Hurst,854Lee,308 Tupelo 3,State Auditor,,Republican,Stacey E. Pickering,1247Lee,308 Tupelo 3,State Auditor,,Democrat,Jocelyn 'Joce' Pepper Pritchett,423Lee,308 Tupelo 3,State Auditor,,Reform,Lajena Walley,7Lee,308 Tupelo 3,State Treasurer,,Republican,Lynn Fitch,1343Lee,308 Tupelo 3,State Treasurer,,Reform,Viola McFarland,212Lee,308 Tupelo 3,Commissioner of Agriculture & Commerce,,Democrat,Addie Lee Green,436Lee,308 Tupelo 3,Commissioner of Agriculture & Commerce,,Republican,Cindy Hyde-Smith,1166Lee,308 Tupelo 3,Commissioner of Agriculture & Commerce,,Reform,Cathy L Toole,21Lee,308 Tupelo 3,Commissioner of Insurance,,Republican,Mike Chaney,1220Lee,308 Tupelo 3,State Senate,6,Republican,Chad McMahan,1367Lee,308 Tupelo 3,State House,16,Democrat,Steve Holland,333Lee,308 Tupelo 3,State House,17,Republican,Shane Aguirre,997Lee,308 Tupelo 3,State House,17,Democrat,Charles Penson,295Lee,405 Tupelo 4 North,Governor,,Republican,Phil Bryant,276Lee,405 Tupelo 4 North,Governor,,Democrat,Robert Gray,492Lee,405 Tupelo 4 North,Governor,,Reform,Shawn O'Hara,6Lee,405 Tupelo 4 North,Lieutenant Governor,,Democrat,Tim Johnson,498Lee,405 Tupelo 4 North,Lieutenant Governor,,Republican,Tate Reeves,251Lee,405 Tupelo 4 North,Lieutenant Governor,,Libertarian,Ron Williams,9Lee,405 Tupelo 4 North,Lieutenant Governor,,Reform,Rosa B. Williams,14Lee,405 Tupelo 4 North,Secretary of State,,Democrat,Charles E. Graham,497Lee,405 Tupelo 4 North,Secretary of State,,Republican,Delbert Hosemann,271Lee,405 Tupelo 4 North,Secretary of State,,Reform,Randy Walker,3Lee,405 Tupelo 4 North,Attorney General,,Democrat,Jim Hood,620Lee,405 Tupelo 4 North,Attorney General,,Republican,Mike Hurst,168Lee,405 Tupelo 4 North,State Auditor,,Republican,Stacey E. Pickering,255Lee,405 Tupelo 4 North,State Auditor,,Democrat,Jocelyn 'Joce' Pepper Pritchett,507Lee,405 Tupelo 4 North,State Auditor,,Reform,Lajena Walley,7Lee,405 Tupelo 4 North,State Treasurer,,Republican,Lynn Fitch,369Lee,405 Tupelo 4 North,State Treasurer,,Reform,Viola McFarland,176Lee,405 Tupelo 4 North,Commissioner of Agriculture & Commerce,,Democrat,Addie Lee Green,524Lee,405 Tupelo 4 North,Commissioner of Agriculture & Commerce,,Republican,Cindy Hyde-Smith,213Lee,405 Tupelo 4 North,Commissioner of Agriculture & Commerce,,Reform,Cathy L Toole,3Lee,405 Tupelo 4 North,Commissioner of Insurance,,Republican,Mike Chaney,678Lee,405 Tupelo 4 North,State Senate,7,Democrat,Hob Bryan,618Lee,405 Tupelo 4 North,State Senate,7,Republican,Barry Strevel,147Lee,405 Tupelo 4 North,State House,16,Democrat,Steve Holland,395Lee,405 Tupelo 4 North,State House,17,Republican,Shane Aguirre,144Lee,405 Tupelo 4 North,State House,17,Democrat,Clint Gannon,167Lee,405 Tupelo 4 North,State House,18,Republican,Jerry Turner,10Lee,406 Tupelo 4 South,Governor,,Republican,Phil Bryant,144Lee,406 Tupelo 4 South,Governor,,Democrat,Robert Gray,524Lee,406 Tupelo 4 South,Governor,,Reform,Shawn O'Hara,5Lee,406 Tupelo 4 South,Lieutenant Governor,,Democrat,Tim Johnson,542Lee,406 Tupelo 4 South,Lieutenant Governor,,Republican,Tate Reeves,114Lee,406 Tupelo 4 South,Lieutenant Governor,,Libertarian,Ron Williams,6Lee,406 Tupelo 4 South,Lieutenant Governor,,Reform,Rosa B. Williams,8Lee,406 Tupelo 4 South,Secretary of State,,Democrat,Charles E. Graham,556Lee,406 Tupelo 4 South,Secretary of State,,Republican,Delbert Hosemann,105Lee,406 Tupelo 4 South,Secretary of State,,Reform,Randy Walker,11Lee,406 Tupelo 4 South,Attorney General,,Democrat,Jim Hood,609Lee,406 Tupelo 4 South,Attorney General,,Republican,Mike Hurst,70Lee,406 Tupelo 4 South,State Auditor,,Republican,Stacey E. Pickering,111Lee,406 Tupelo 4 South,State Auditor,,Democrat,Jocelyn 'Joce' Pepper Pritchett,553Lee,406 Tupelo 4 South,State Auditor,,Reform,Lajena Walley,6Lee,406 Tupelo 4 South,State Treasurer,,Republican,Lynn Fitch,220Lee,406 Tupelo 4 South,State Treasurer,,Reform,Viola McFarland,212Lee,406 Tupelo 4 South,Commissioner of Agriculture & Commerce,,Democrat,Addie Lee Green,561Lee,406 Tupelo 4 South,Commissioner of Agriculture & Commerce,,Republican,Cindy Hyde-Smith,84Lee,406 Tupelo 4 South,Commissioner of Agriculture & Commerce,,Reform,Cathy L Toole,8Lee,406 Tupelo 4 South,Commissioner of Insurance,,Republican,Mike Chaney,563Lee,406 Tupelo 4 South,State Senate,7,Democrat,Hob Bryan,603Lee,406 Tupelo 4 South,State Senate,7,Republican,Barry Strevel,62Lee,406 Tupelo 4 South,State House,16,Democrat,Steve Holland,621Lee,505 Tupelo 5,Governor,,Republican,Phil Bryant,201Lee,505 Tupelo 5,Governor,,Democrat,Robert Gray,138Lee,505 Tupelo 5,Governor,,Reform,Shawn O'Hara,5Lee,505 Tupelo 5,Lieutenant Governor,,Democrat,Tim Johnson,155Lee,505 Tupelo 5,Lieutenant Governor,,Republican,Tate Reeves,177Lee,505 Tupelo 5,Lieutenant Governor,,Libertarian,Ron Williams,3Lee,505 Tupelo 5,Lieutenant Governor,,Reform,Rosa B. Williams,6Lee,505 Tupelo 5,Secretary of State,,Democrat,Charles E. Graham,140Lee,505 Tupelo 5,Secretary of State,,Republican,Delbert Hosemann,192Lee,505 Tupelo 5,Secretary of State,,Reform,Randy Walker,12Lee,505 Tupelo 5,Attorney General,,Democrat,Jim Hood,229Lee,505 Tupelo 5,Attorney General,,Republican,Mike Hurst,115Lee,505 Tupelo 5,State Auditor,,Republican,Stacey E. Pickering,189Lee,505 Tupelo 5,State Auditor,,Democrat,Jocelyn 'Joce' Pepper Pritchett,149Lee,505 Tupelo 5,State Auditor,,Reform,Lajena Walley,2Lee,505 Tupelo 5,State Treasurer,,Republican,Lynn Fitch,212Lee,505 Tupelo 5,State Treasurer,,Reform,Viola McFarland,79Lee,505 Tupelo 5,Commissioner of Agriculture & Commerce,,Democrat,Addie Lee Green,155Lee,505 Tupelo 5,Commissioner of Agriculture & Commerce,,Republican,Cindy Hyde-Smith,161Lee,505 Tupelo 5,Commissioner of Agriculture & Commerce,,Reform,Cathy L Toole,8Lee,505 Tupelo 5,Commissioner of Insurance,,Republican,Mike Chaney,242Lee,505 Tupelo 5,State Senate,6,Republican,Chad McMahan,232Lee,505 Tupelo 5,State Senate,16,Democrat,Steve Holland,289Lee,105 Unity,Governor,,Republican,Phil Bryant,207Lee,105 Unity,Governor,,Democrat,Robert Gray,10Lee,105 Unity,Governor,,Reform,Shawn O'Hara,2Lee,105 Unity,Lieutenant Governor,,Democrat,Tim Johnson,15Lee,105 Unity,Lieutenant Governor,,Republican,Tate Reeves,199Lee,105 Unity,Lieutenant Governor,,Libertarian,Ron Williams,2Lee,105 Unity,Lieutenant Governor,,Reform,Rosa B. Williams,0Lee,105 Unity,Secretary of State,,Democrat,Charles E. Graham,11Lee,105 Unity,Secretary of State,,Republican,Delbert Hosemann,204Lee,105 Unity,Secretary of State,,Reform,Randy Walker,5Lee,105 Unity,Attorney General,,Democrat,Jim Hood,75Lee,105 Unity,Attorney General,,Republican,Mike Hurst,145Lee,105 Unity,State Auditor,,Republican,Stacey E. Pickering,203Lee,105 Unity,State Auditor,,Democrat,Jocelyn 'Joce' Pepper Pritchett,12Lee,105 Unity,State Auditor,,Reform,Lajena Walley,0Lee,105 Unity,State Treasurer,,Republican,Lynn Fitch,196Lee,105 Unity,State Treasurer,,Reform,Viola McFarland,11Lee,105 Unity,Commissioner of Agriculture & Commerce,,Democrat,Addie Lee Green,19Lee,105 Unity,Commissioner of Agriculture & Commerce,,Republican,Cindy Hyde-Smith,183Lee,105 Unity,Commissioner of Agriculture & Commerce,,Reform,Cathy L Toole,3Lee,105 Unity,Commissioner of Insurance,,Republican,Mike Chaney,187Lee,105 Unity,State Senate,6,Republican,Chad McMahan,177Lee,105 Unity,State House,19,Republican,Randy Boyd,178Lee,105 Unity,State House,19,Democrat,Clint Gannon,39Lee,512 Verona,Governor,,Republican,Phil Bryant,284Lee,512 Verona,Governor,,Democrat,Robert Gray,225Lee,512 Verona,Governor,,Reform,Shawn O'Hara,6Lee,512 Verona,Lieutenant Governor,,Democrat,Tim Johnson,251Lee,512 Verona,Lieutenant Governor,,Republican,Tate Reeves,243Lee,512 Verona,Lieutenant Governor,,Libertarian,Ron Williams,5Lee,512 Verona,Lieutenant Governor,,Reform,Rosa B. Williams,5Lee,512 Verona,Secretary of State,,Democrat,Charles E. Graham,235Lee,512 Verona,Secretary of State,,Republican,Delbert Hosemann,261Lee,512 Verona,Secretary of State,,Reform,Randy Walker,6Lee,512 Verona,Attorney General,,Democrat,Jim Hood,351Lee,512 Verona,Attorney General,,Republican,Mike Hurst,166Lee,512 Verona,State Auditor,,Republican,Stacey E. Pickering,262Lee,512 Verona,State Auditor,,Democrat,Jocelyn 'Joce' Pepper Pritchett,239Lee,512 Verona,State Auditor,,Reform,Lajena Walley,5Lee,512 Verona,State Treasurer,,Republican,Lynn Fitch,313Lee,512 Verona,State Treasurer,,Reform,Viola McFarland,100Lee,512 Verona,Commissioner of Agriculture & Commerce,,Democrat,Addie Lee Green,258Lee,512 Verona,Commissioner of Agriculture & Commerce,,Republican,Cindy Hyde-Smith,215Lee,512 Verona,Commissioner of Agriculture & Commerce,,Reform,Cathy L Toole,8Lee,512 Verona,Commissioner of Insurance,,Republican,Mike Chaney,369Lee,512 Verona,State Senate,7,Democrat,Hob Bryan,348Lee,512 Verona,State Senate,7,Republican,Barry Strevel,159Lee,512 Verona,State House,16,Democrat,Steve Holland,445Lee,LEE MS,Governor,,Republican,Phil Bryant,14402Lee,LEE MS,Governor,,Democrat,Robert Gray,4665Lee,LEE MS,Governor,,Reform,Shawn O'Hara,224Lee,LEE MS,Lieutenant Governor,,Democrat,Tim Johnson,5170Lee,LEE MS,Lieutenant Governor,,Republican,Tate Reeves,13487Lee,LEE MS,Lieutenant Governor,,Libertarian,Ron Williams,336Lee,LEE MS,Lieutenant Governor,,Reform,Rosa B. Williams,162Lee,LEE MS,Secretary of State,,Democrat,Charles E. Graham,4749Lee,LEE MS,Secretary of State,,Republican,Delbert Hosemann,14119Lee,LEE MS,Secretary of State,,Reform,Randy Walker,334Lee,LEE MS,Attorney General,,Democrat,Jim Hood,9626Lee,LEE MS,Attorney General,,Republican,Mike Hurst,9749Lee,LEE MS,State Auditor,,Republican,Stacey E. Pickering,14113Lee,LEE MS,State Auditor,,Democrat,Jocelyn 'Joce' Pepper Pritchett,4858Lee,LEE MS,State Auditor,,Reform,Lajena Walley,155Lee,LEE MS,State Treasurer,,Republican,Lynn Fitch,14493Lee,LEE MS,State Treasurer,,Reform,Viola McFarland,2279Lee,LEE MS,Commissioner of Agriculture & Commerce,,Democrat,Addie Lee Green,5290Lee,LEE MS,Commissioner of Agriculture & Commerce,,Republican,Cindy Hyde-Smith,12866Lee,LEE MS,Commissioner of Agriculture & Commerce,,Reform,Cathy L Toole,328Lee,LEE MS,Commissioner of Insurance,,Republican,Mike Chaney,15156Lee,LEE MS,State Senate,6,Republican,Chad McMahan,11639Lee,LEE MS,State Senate,7,Democrat,Hob Bryan,2432Lee,LEE MS,State Senate,7,Republican,Barry Strevel,1107Lee,LEE MS,State Senate,8,Democrat,Russell Jolly,1120Lee,LEE MS,State House,16,Democrat,Steve Holland,3466Lee,LEE MS,State House,17,Republican,Shane Aguirre,4384Lee,LEE MS,State House,17,Democrat,Clint Gannon,1400Lee,LEE MS,State House,18,Republican,Jerry Turner,4054Lee,LEE MS,State House,19,Republican,Randy Boyd,2493Lee,LEE MS,State House,19,Democrat,Clint Gannon,1526Lee,LEE MS,State House,20,Republican,Chris Brown,430Lee,LEE MS,State House,20,Democrat,William 'Bo' Miller,155
+county,precinct,office,district,party,candidate,votes
+Lee,113 Auburn,Governor,,Republican,Phil Bryant,488
+Lee,113 Auburn,Governor,,Democrat,Robert Gray,38
+Lee,113 Auburn,Governor,,Reform,Shawn O'Hara,6
+Lee,113 Auburn,Lieutenant Governor,,Democrat,Tim Johnson,59
+Lee,113 Auburn,Lieutenant Governor,,Republican,Tate Reeves,457
+Lee,113 Auburn,Lieutenant Governor,,Libertarian,Ron Williams,6
+Lee,113 Auburn,Lieutenant Governor,,Reform,Rosa B. Williams,3
+Lee,113 Auburn,Secretary of State,,Democrat,Charles E. Graham,47
+Lee,113 Auburn,Secretary of State,,Republican,Delbert Hosemann,473
+Lee,113 Auburn,Secretary of State,,Reform,Randy Walker,7
+Lee,113 Auburn,Attorney General,,Democrat,Jim Hood,189
+Lee,113 Auburn,Attorney General,,Republican,Mike Hurst,341
+Lee,113 Auburn,State Auditor,,Republican,Stacey E. Pickering,486
+Lee,113 Auburn,State Auditor,,Democrat,Jocelyn 'Joce' Pepper Pritchett,38
+Lee,113 Auburn,State Auditor,,Reform,Lajena Walley,3
+Lee,113 Auburn,State Treasurer,,Republican,Lynn Fitch,482
+Lee,113 Auburn,State Treasurer,,Reform,Viola McFarland,34
+Lee,113 Auburn,Commissioner of Agriculture & Commerce,,Democrat,Addie Lee Green,57
+Lee,113 Auburn,Commissioner of Agriculture & Commerce,,Republican,Cindy Hyde-Smith,427
+Lee,113 Auburn,Commissioner of Agriculture & Commerce,,Reform,Cathy L Toole,14
+Lee,113 Auburn,Commissioner of Insurance,,Republican,Mike Chaney,445
+Lee,113 Auburn,State Senate,6,Republican,Chad McMahan,445
+Lee,113 Auburn,State House,19,Republican,Randy Boyd,323
+Lee,113 Auburn,State House,19,Democrat,Clint Gannon,200
+Lee,102 Baldwyn,Governor,,Republican,Phil Bryant,220
+Lee,102 Baldwyn,Governor,,Democrat,Robert Gray,158
+Lee,102 Baldwyn,Governor,,Reform,Shawn O'Hara,1
+Lee,102 Baldwyn,Lieutenant Governor,,Democrat,Tim Johnson,177
+Lee,102 Baldwyn,Lieutenant Governor,,Republican,Tate Reeves,196
+Lee,102 Baldwyn,Lieutenant Governor,,Libertarian,Ron Williams,6
+Lee,102 Baldwyn,Lieutenant Governor,,Reform,Rosa B. Williams,4
+Lee,102 Baldwyn,Secretary of State,,Democrat,Charles E. Graham,173
+Lee,102 Baldwyn,Secretary of State,,Republican,Delbert Hosemann,199
+Lee,102 Baldwyn,Secretary of State,,Reform,Randy Walker,6
+Lee,102 Baldwyn,Attorney General,,Democrat,Jim Hood,265
+Lee,102 Baldwyn,Attorney General,,Republican,Mike Hurst,119
+Lee,102 Baldwyn,State Auditor,,Republican,Stacey E. Pickering,199
+Lee,102 Baldwyn,State Auditor,,Democrat,Jocelyn 'Joce' Pepper Pritchett,175
+Lee,102 Baldwyn,State Auditor,,Reform,Lajena Walley,1
+Lee,102 Baldwyn,State Treasurer,,Republican,Lynn Fitch,235
+Lee,102 Baldwyn,State Treasurer,,Reform,Viola McFarland,62
+Lee,102 Baldwyn,Commissioner of Agriculture & Commerce,,Democrat,Addie Lee Green,188
+Lee,102 Baldwyn,Commissioner of Agriculture & Commerce,,Republican,Cindy Hyde-Smith,172
+Lee,102 Baldwyn,Commissioner of Agriculture & Commerce,,Reform,Cathy L Toole,5
+Lee,102 Baldwyn,Commissioner of Insurance,,Republican,Mike Chaney,289
+Lee,102 Baldwyn,State Senate,6,Republican,Chad McMahan,237
+Lee,102 Baldwyn,State House,18,Republican,Jerry Turner,276
+Lee,207 Beech Sprs,Governor,,Republican,Phil Bryant,232
+Lee,207 Beech Sprs,Governor,,Democrat,Robert Gray,78
+Lee,207 Beech Sprs,Governor,,Reform,Shawn O'Hara,3
+Lee,207 Beech Sprs,Lieutenant Governor,,Democrat,Tim Johnson,92
+Lee,207 Beech Sprs,Lieutenant Governor,,Republican,Tate Reeves,209
+Lee,207 Beech Sprs,Lieutenant Governor,,Libertarian,Ron Williams,10
+Lee,207 Beech Sprs,Lieutenant Governor,,Reform,Rosa B. Williams,2
+Lee,207 Beech Sprs,Secretary of State,,Democrat,Charles E. Graham,78
+Lee,207 Beech Sprs,Secretary of State,,Republican,Delbert Hosemann,228
+Lee,207 Beech Sprs,Secretary of State,,Reform,Randy Walker,8
+Lee,207 Beech Sprs,Attorney General,,Democrat,Jim Hood,147
+Lee,207 Beech Sprs,Attorney General,,Republican,Mike Hurst,166
+Lee,207 Beech Sprs,State Auditor,,Republican,Stacey E. Pickering,222
+Lee,207 Beech Sprs,State Auditor,,Democrat,Jocelyn 'Joce' Pepper Pritchett,84
+Lee,207 Beech Sprs,State Auditor,,Reform,Lajena Walley,6
+Lee,207 Beech Sprs,State Treasurer,,Republican,Lynn Fitch,248
+Lee,207 Beech Sprs,State Treasurer,,Reform,Viola McFarland,37
+Lee,207 Beech Sprs,Commissioner of Agriculture & Commerce,,Democrat,Addie Lee Green,82
+Lee,207 Beech Sprs,Commissioner of Agriculture & Commerce,,Republican,Cindy Hyde-Smith,213
+Lee,207 Beech Sprs,Commissioner of Agriculture & Commerce,,Reform,Cathy L Toole,7
+Lee,207 Beech Sprs,Commissioner of Insurance,,Republican,Mike Chaney,223
+Lee,207 Beech Sprs,State Senate,6,Republican,Chad McMahan,249
+Lee,207 Beech Sprs,State House,19,Republican,Randy Boyd,193
+Lee,207 Beech Sprs,State House,19,Democrat,Clint Gannon,113
+Lee,301 Belden,Governor,,Republican,Phil Bryant,676
+Lee,301 Belden,Governor,,Democrat,Robert Gray,214
+Lee,301 Belden,Governor,,Reform,Shawn O'Hara,12
+Lee,301 Belden,Lieutenant Governor,,Democrat,Tim Johnson,228
+Lee,301 Belden,Lieutenant Governor,,Republican,Tate Reeves,652
+Lee,301 Belden,Lieutenant Governor,,Libertarian,Ron Williams,12
+Lee,301 Belden,Lieutenant Governor,,Reform,Rosa B. Williams,7
+Lee,301 Belden,Secretary of State,,Democrat,Charles E. Graham,214
+Lee,301 Belden,Secretary of State,,Republican,Delbert Hosemann,677
+Lee,301 Belden,Secretary of State,,Reform,Randy Walker,16
+Lee,301 Belden,Attorney General,,Democrat,Jim Hood,433
+Lee,301 Belden,Attorney General,,Republican,Mike Hurst,478
+Lee,301 Belden,State Auditor,,Republican,Stacey E. Pickering,677
+Lee,301 Belden,State Auditor,,Democrat,Jocelyn 'Joce' Pepper Pritchett,220
+Lee,301 Belden,State Auditor,,Reform,Lajena Walley,7
+Lee,301 Belden,State Treasurer,,Republican,Lynn Fitch,730
+Lee,301 Belden,State Treasurer,,Reform,Viola McFarland,82
+Lee,301 Belden,Commissioner of Agriculture & Commerce,,Democrat,Addie Lee Green,236
+Lee,301 Belden,Commissioner of Agriculture & Commerce,,Republican,Cindy Hyde-Smith,635
+Lee,301 Belden,Commissioner of Agriculture & Commerce,,Reform,Cathy L Toole,13
+Lee,301 Belden,Commissioner of Insurance,,Republican,Mike Chaney,679
+Lee,301 Belden,State Senate,6,Republican,Chad McMahan,701
+Lee,301 Belden,State House,17,Republican,Shane Aguirre,233
+Lee,301 Belden,State House,17,Democrat,Charles Penson,120
+Lee,204 Birmingham,Governor,,Republican,Phil Bryant,558
+Lee,204 Birmingham,Governor,,Democrat,Robert Gray,69
+Lee,204 Birmingham,Governor,,Reform,Shawn O'Hara,5
+Lee,204 Birmingham,Lieutenant Governor,,Democrat,Tim Johnson,478
+Lee,204 Birmingham,Lieutenant Governor,,Republican,Tate Reeves,534
+Lee,204 Birmingham,Lieutenant Governor,,Libertarian,Ron Williams,14
+Lee,204 Birmingham,Lieutenant Governor,,Reform,Rosa B. Williams,2
+Lee,204 Birmingham,Secretary of State,,Democrat,Charles E. Graham,69
+Lee,204 Birmingham,Secretary of State,,Republican,Delbert Hosemann,543
+Lee,204 Birmingham,Secretary of State,,Reform,Randy Walker,16
+Lee,204 Birmingham,Attorney General,,Democrat,Jim Hood,213
+Lee,204 Birmingham,Attorney General,,Republican,Mike Hurst,419
+Lee,204 Birmingham,State Auditor,,Republican,Stacey E. Pickering,551
+Lee,204 Birmingham,State Auditor,,Democrat,Jocelyn 'Joce' Pepper Pritchett,71
+Lee,204 Birmingham,State Auditor,,Reform,Lajena Walley,3
+Lee,204 Birmingham,State Treasurer,,Republican,Lynn Fitch,548
+Lee,204 Birmingham,State Treasurer,,Reform,Viola McFarland,46
+Lee,204 Birmingham,Commissioner of Agriculture & Commerce,,Democrat,Addie Lee Green,76
+Lee,204 Birmingham,Commissioner of Agriculture & Commerce,,Republican,Cindy Hyde-Smith,518
+Lee,204 Birmingham,Commissioner of Agriculture & Commerce,,Reform,Cathy L Toole,14
+Lee,204 Birmingham,Commissioner of Insurance,,Republican,Mike Chaney,535
+Lee,204 Birmingham,State Senate,6,Republican,Chad McMahan,535
+Lee,204 Birmingham,State House,18,Republican,Jerry Turner,544
+Lee,302 Bissell,Governor,,Republican,Phil Bryant,1837
+Lee,302 Bissell,Governor,,Democrat,Robert Gray,307
+Lee,302 Bissell,Governor,,Reform,Shawn O'Hara,34
+Lee,302 Bissell,Lieutenant Governor,,Democrat,Tim Johnson,363
+Lee,302 Bissell,Lieutenant Governor,,Republican,Tate Reeves,1735
+Lee,302 Bissell,Lieutenant Governor,,Libertarian,Ron Williams,42
+Lee,302 Bissell,Lieutenant Governor,,Reform,Rosa B. Williams,20
+Lee,302 Bissell,Secretary of State,,Democrat,Charles E. Graham,297
+Lee,302 Bissell,Secretary of State,,Republican,Delbert Hosemann,1849
+Lee,302 Bissell,Secretary of State,,Reform,Randy Walker,39
+Lee,302 Bissell,Attorney General,,Democrat,Jim Hood,864
+Lee,302 Bissell,Attorney General,,Republican,Mike Hurst,1323
+Lee,302 Bissell,State Auditor,,Republican,Stacey E. Pickering,1832
+Lee,302 Bissell,State Auditor,,Democrat,Jocelyn 'Joce' Pepper Pritchett,318
+Lee,302 Bissell,State Auditor,,Reform,Lajena Walley,21
+Lee,302 Bissell,State Treasurer,,Republican,Lynn Fitch,1881
+Lee,302 Bissell,State Treasurer,,Reform,Viola McFarland,175
+Lee,302 Bissell,Commissioner of Agriculture & Commerce,,Democrat,Addie Lee Green,339
+Lee,302 Bissell,Commissioner of Agriculture & Commerce,,Republican,Cindy Hyde-Smith,1730
+Lee,302 Bissell,Commissioner of Agriculture & Commerce,,Reform,Cathy L Toole,41
+Lee,302 Bissell,Commissioner of Insurance,,Republican,Mike Chaney,1577
+Lee,302 Bissell,State Senate,6,Republican,Chad McMahan,1843
+Lee,302 Bissell,State House,17,Republican,Shane Aguirre,1773
+Lee,302 Bissell,State House,17,Democrat,Charles Penson,399
+Lee,501 Brewer,Governor,,Republican,Phil Bryant,267
+Lee,501 Brewer,Governor,,Democrat,Robert Gray,23
+Lee,501 Brewer,Governor,,Reform,Shawn O'Hara,1
+Lee,501 Brewer,Lieutenant Governor,,Democrat,Tim Johnson,27
+Lee,501 Brewer,Lieutenant Governor,,Republican,Tate Reeves,267
+Lee,501 Brewer,Lieutenant Governor,,Libertarian,Ron Williams,2
+Lee,501 Brewer,Lieutenant Governor,,Reform,Rosa B. Williams,1
+Lee,501 Brewer,Secretary of State,,Democrat,Charles E. Graham,22
+Lee,501 Brewer,Secretary of State,,Republican,Delbert Hosemann,261
+Lee,501 Brewer,Secretary of State,,Reform,Randy Walker,8
+Lee,501 Brewer,Attorney General,,Democrat,Jim Hood,139
+Lee,501 Brewer,Attorney General,,Republican,Mike Hurst,157
+Lee,501 Brewer,State Auditor,,Republican,Stacey E. Pickering,269
+Lee,501 Brewer,State Auditor,,Democrat,Jocelyn 'Joce' Pepper Pritchett,18
+Lee,501 Brewer,State Auditor,,Reform,Lajena Walley,1
+Lee,501 Brewer,State Treasurer,,Republican,Lynn Fitch,267
+Lee,501 Brewer,State Treasurer,,Reform,Viola McFarland,16
+Lee,501 Brewer,Commissioner of Agriculture & Commerce,,Democrat,Addie Lee Green,38
+Lee,501 Brewer,Commissioner of Agriculture & Commerce,,Republican,Cindy Hyde-Smith,239
+Lee,501 Brewer,Commissioner of Agriculture & Commerce,,Reform,Cathy L Toole,6
+Lee,501 Brewer,Commissioner of Insurance,,Republican,Mike Chaney,247
+Lee,501 Brewer,State Senate,7,Democrat,Hob Bryan,155
+Lee,501 Brewer,State Senate,7,Republican,Barry Strevel,135
+Lee,501 Brewer,State House,16,Democrat,Steve Holland,235
+Lee,201 Cedar Hill,Governor,,Republican,Phil Bryant,567
+Lee,201 Cedar Hill,Governor,,Democrat,Robert Gray,81
+Lee,201 Cedar Hill,Governor,,Reform,Shawn O'Hara,6
+Lee,201 Cedar Hill,Lieutenant Governor,,Democrat,Tim Johnson,98
+Lee,201 Cedar Hill,Lieutenant Governor,,Republican,Tate Reeves,536
+Lee,201 Cedar Hill,Lieutenant Governor,,Libertarian,Ron Williams,14
+Lee,201 Cedar Hill,Lieutenant Governor,,Reform,Rosa B. Williams,2
+Lee,201 Cedar Hill,Secretary of State,,Democrat,Charles E. Graham,89
+Lee,201 Cedar Hill,Secretary of State,,Republican,Delbert Hosemann,547
+Lee,201 Cedar Hill,Secretary of State,,Reform,Randy Walker,10
+Lee,201 Cedar Hill,Attorney General,,Democrat,Jim Hood,258
+Lee,201 Cedar Hill,Attorney General,,Republican,Mike Hurst,397
+Lee,201 Cedar Hill,State Auditor,,Republican,Stacey E. Pickering,560
+Lee,201 Cedar Hill,State Auditor,,Democrat,Jocelyn 'Joce' Pepper Pritchett,82
+Lee,201 Cedar Hill,State Auditor,,Reform,Lajena Walley,6
+Lee,201 Cedar Hill,State Treasurer,,Republican,Lynn Fitch,565
+Lee,201 Cedar Hill,State Treasurer,,Reform,Viola McFarland,42
+Lee,201 Cedar Hill,Commissioner of Agriculture & Commerce,,Democrat,Addie Lee Green,116
+Lee,201 Cedar Hill,Commissioner of Agriculture & Commerce,,Republican,Cindy Hyde-Smith,502
+Lee,201 Cedar Hill,Commissioner of Agriculture & Commerce,,Reform,Cathy L Toole,9
+Lee,201 Cedar Hill,Commissioner of Insurance,,Republican,Mike Chaney,529
+Lee,201 Cedar Hill,State Senate,6,Republican,Chad McMahan,531
+Lee,201 Cedar Hill,State House,18,Republican,Jerry Turner,565
+Lee,203 Davis,Governor,,Republican,Phil Bryant,73
+Lee,203 Davis,Governor,,Democrat,Robert Gray,44
+Lee,203 Davis,Governor,,Reform,Shawn O'Hara,1
+Lee,203 Davis,Lieutenant Governor,,Democrat,Tim Johnson,46
+Lee,203 Davis,Lieutenant Governor,,Republican,Tate Reeves,65
+Lee,203 Davis,Lieutenant Governor,,Libertarian,Ron Williams,3
+Lee,203 Davis,Lieutenant Governor,,Reform,Rosa B. Williams,3
+Lee,203 Davis,Secretary of State,,Democrat,Charles E. Graham,42
+Lee,203 Davis,Secretary of State,,Republican,Delbert Hosemann,72
+Lee,203 Davis,Secretary of State,,Reform,Randy Walker,3
+Lee,203 Davis,Attorney General,,Democrat,Jim Hood,68
+Lee,203 Davis,Attorney General,,Republican,Mike Hurst,50
+Lee,203 Davis,State Auditor,,Republican,Stacey E. Pickering,72
+Lee,203 Davis,State Auditor,,Democrat,Jocelyn 'Joce' Pepper Pritchett,41
+Lee,203 Davis,State Auditor,,Reform,Lajena Walley,4
+Lee,203 Davis,State Treasurer,,Republican,Lynn Fitch,77
+Lee,203 Davis,State Treasurer,,Reform,Viola McFarland,15
+Lee,203 Davis,Commissioner of Agriculture & Commerce,,Democrat,Addie Lee Green,43
+Lee,203 Davis,Commissioner of Agriculture & Commerce,,Republican,Cindy Hyde-Smith,63
+Lee,203 Davis,Commissioner of Agriculture & Commerce,,Reform,Cathy L Toole,6
+Lee,203 Davis,Commissioner of Insurance,,Republican,Mike Chaney,80
+Lee,203 Davis,State Senate,6,Republican,Chad McMahan,75
+Lee,203 Davis,State House,18,Republican,Jerry Turner,77
+Lee,114 East Heights,Governor,,Republican,Phil Bryant,206
+Lee,114 East Heights,Governor,,Democrat,Robert Gray,24
+Lee,114 East Heights,Governor,,Reform,Shawn O'Hara,1
+Lee,114 East Heights,Lieutenant Governor,,Democrat,Tim Johnson,36
+Lee,114 East Heights,Lieutenant Governor,,Republican,Tate Reeves,195
+Lee,114 East Heights,Lieutenant Governor,,Libertarian,Ron Williams,1
+Lee,114 East Heights,Lieutenant Governor,,Reform,Rosa B. Williams,1
+Lee,114 East Heights,Secretary of State,,Democrat,Charles E. Graham,30
+Lee,114 East Heights,Secretary of State,,Republican,Delbert Hosemann,201
+Lee,114 East Heights,Secretary of State,,Reform,Randy Walker,2
+Lee,114 East Heights,Attorney General,,Democrat,Jim Hood,90
+Lee,114 East Heights,Attorney General,,Republican,Mike Hurst,142
+Lee,114 East Heights,State Auditor,,Republican,Stacey E. Pickering,197
+Lee,114 East Heights,State Auditor,,Democrat,Jocelyn 'Joce' Pepper Pritchett,33
+Lee,114 East Heights,State Auditor,,Reform,Lajena Walley,2
+Lee,114 East Heights,State Treasurer,,Republican,Lynn Fitch,204
+Lee,114 East Heights,State Treasurer,,Reform,Viola McFarland,16
+Lee,114 East Heights,Commissioner of Agriculture & Commerce,,Democrat,Addie Lee Green,38
+Lee,114 East Heights,Commissioner of Agriculture & Commerce,,Republican,Cindy Hyde-Smith,179
+Lee,114 East Heights,Commissioner of Agriculture & Commerce,,Reform,Cathy L Toole,1
+Lee,114 East Heights,Commissioner of Insurance,,Republican,Mike Chaney,159
+Lee,114 East Heights,State Senate,6,Republican,Chad McMahan,192
+Lee,114 East Heights,State House,19,Republican,Randy Boyd,149
+Lee,114 East Heights,State House,19,Democrat,Clint Gannon,77
+Lee,110 Eggville,Governor,,Republican,Phil Bryant,253
+Lee,110 Eggville,Governor,,Democrat,Robert Gray,16
+Lee,110 Eggville,Governor,,Reform,Shawn O'Hara,1
+Lee,110 Eggville,Lieutenant Governor,,Democrat,Tim Johnson,25
+Lee,110 Eggville,Lieutenant Governor,,Republican,Tate Reeves,236
+Lee,110 Eggville,Lieutenant Governor,,Libertarian,Ron Williams,5
+Lee,110 Eggville,Lieutenant Governor,,Reform,Rosa B. Williams,0
+Lee,110 Eggville,Secretary of State,,Democrat,Charles E. Graham,17
+Lee,110 Eggville,Secretary of State,,Republican,Delbert Hosemann,243
+Lee,110 Eggville,Secretary of State,,Reform,Randy Walker,3
+Lee,110 Eggville,Attorney General,,Democrat,Jim Hood,113
+Lee,110 Eggville,Attorney General,,Republican,Mike Hurst,157
+Lee,110 Eggville,State Auditor,,Republican,Stacey E. Pickering,241
+Lee,110 Eggville,State Auditor,,Democrat,Jocelyn 'Joce' Pepper Pritchett,17
+Lee,110 Eggville,State Auditor,,Reform,Lajena Walley,3
+Lee,110 Eggville,State Treasurer,,Republican,Lynn Fitch,237
+Lee,110 Eggville,State Treasurer,,Reform,Viola McFarland,19
+Lee,110 Eggville,Commissioner of Agriculture & Commerce,,Democrat,Addie Lee Green,37
+Lee,110 Eggville,Commissioner of Agriculture & Commerce,,Republican,Cindy Hyde-Smith,214
+Lee,110 Eggville,Commissioner of Agriculture & Commerce,,Reform,Cathy L Toole,2
+Lee,110 Eggville,Commissioner of Insurance,,Republican,Mike Chaney,217
+Lee,110 Eggville,State Senate,6,Republican,Chad McMahan,210
+Lee,110 Eggville,State House,19,Republican,Randy Boyd,146
+Lee,110 Eggville,State House,19,Democrat,Clint Gannon,125
+Lee,205 Euclatubba,Governor,,Republican,Phil Bryant,150
+Lee,205 Euclatubba,Governor,,Democrat,Robert Gray,9
+Lee,205 Euclatubba,Governor,,Reform,Shawn O'Hara,1
+Lee,205 Euclatubba,Lieutenant Governor,,Democrat,Tim Johnson,11
+Lee,205 Euclatubba,Lieutenant Governor,,Republican,Tate Reeves,145
+Lee,205 Euclatubba,Lieutenant Governor,,Libertarian,Ron Williams,2
+Lee,205 Euclatubba,Lieutenant Governor,,Reform,Rosa B. Williams,0
+Lee,205 Euclatubba,Secretary of State,,Democrat,Charles E. Graham,7
+Lee,205 Euclatubba,Secretary of State,,Republican,Delbert Hosemann,149
+Lee,205 Euclatubba,Secretary of State,,Reform,Randy Walker,2
+Lee,205 Euclatubba,Attorney General,,Democrat,Jim Hood,63
+Lee,205 Euclatubba,Attorney General,,Republican,Mike Hurst,97
+Lee,205 Euclatubba,State Auditor,,Republican,Stacey E. Pickering,148
+Lee,205 Euclatubba,State Auditor,,Democrat,Jocelyn 'Joce' Pepper Pritchett,9
+Lee,205 Euclatubba,State Auditor,,Reform,Lajena Walley,0
+Lee,205 Euclatubba,State Treasurer,,Republican,Lynn Fitch,145
+Lee,205 Euclatubba,State Treasurer,,Reform,Viola McFarland,9
+Lee,205 Euclatubba,Commissioner of Agriculture & Commerce,,Democrat,Addie Lee Green,14
+Lee,205 Euclatubba,Commissioner of Agriculture & Commerce,,Republican,Cindy Hyde-Smith,134
+Lee,205 Euclatubba,Commissioner of Agriculture & Commerce,,Reform,Cathy L Toole,2
+Lee,205 Euclatubba,Commissioner of Insurance,,Republican,Mike Chaney,142
+Lee,205 Euclatubba,State Senate,39,Republican,Sally Doty,141
+Lee,205 Euclatubba,State House,18,Republican,Jerry Turner,147
+Lee,107 Fellowship,Governor,,Republican,Phil Bryant,245
+Lee,107 Fellowship,Governor,,Democrat,Robert Gray,31
+Lee,107 Fellowship,Governor,,Reform,Shawn O'Hara,4
+Lee,107 Fellowship,Lieutenant Governor,,Democrat,Tim Johnson,44
+Lee,107 Fellowship,Lieutenant Governor,,Republican,Tate Reeves,229
+Lee,107 Fellowship,Lieutenant Governor,,Libertarian,Ron Williams,4
+Lee,107 Fellowship,Lieutenant Governor,,Reform,Rosa B. Williams,1
+Lee,107 Fellowship,Secretary of State,,Democrat,Charles E. Graham,40
+Lee,107 Fellowship,Secretary of State,,Republican,Delbert Hosemann,226
+Lee,107 Fellowship,Secretary of State,,Reform,Randy Walker,6
+Lee,107 Fellowship,Attorney General,,Democrat,Jim Hood,112
+Lee,107 Fellowship,Attorney General,,Republican,Mike Hurst,169
+Lee,107 Fellowship,State Auditor,,Republican,Stacey E. Pickering,231
+Lee,107 Fellowship,State Auditor,,Democrat,Jocelyn 'Joce' Pepper Pritchett,40
+Lee,107 Fellowship,State Auditor,,Reform,Lajena Walley,1
+Lee,107 Fellowship,State Treasurer,,Republican,Lynn Fitch,233
+Lee,107 Fellowship,State Treasurer,,Reform,Viola McFarland,28
+Lee,107 Fellowship,Commissioner of Agriculture & Commerce,,Democrat,Addie Lee Green,41
+Lee,107 Fellowship,Commissioner of Agriculture & Commerce,,Republican,Cindy Hyde-Smith,206
+Lee,107 Fellowship,Commissioner of Agriculture & Commerce,,Reform,Cathy L Toole,4
+Lee,107 Fellowship,Commissioner of Insurance,,Republican,Mike Chaney,230
+Lee,107 Fellowship,State Senate,6,Republican,Chad McMahan,223
+Lee,107 Fellowship,State House,19,Republican,Randy Boyd,177
+Lee,107 Fellowship,State House,19,Democrat,Clint Gannon,90
+Lee,104 Friendship,Governor,,Republican,Phil Bryant,102
+Lee,104 Friendship,Governor,,Democrat,Robert Gray,2
+Lee,104 Friendship,Governor,,Reform,Shawn O'Hara,1
+Lee,104 Friendship,Lieutenant Governor,,Democrat,Tim Johnson,6
+Lee,104 Friendship,Lieutenant Governor,,Republican,Tate Reeves,94
+Lee,104 Friendship,Lieutenant Governor,,Libertarian,Ron Williams,3
+Lee,104 Friendship,Lieutenant Governor,,Reform,Rosa B. Williams,1
+Lee,104 Friendship,Secretary of State,,Democrat,Charles E. Graham,5
+Lee,104 Friendship,Secretary of State,,Republican,Delbert Hosemann,97
+Lee,104 Friendship,Secretary of State,,Reform,Randy Walker,2
+Lee,104 Friendship,Attorney General,,Democrat,Jim Hood,48
+Lee,104 Friendship,Attorney General,,Republican,Mike Hurst,54
+Lee,104 Friendship,State Auditor,,Republican,Stacey E. Pickering,103
+Lee,104 Friendship,State Auditor,,Democrat,Jocelyn 'Joce' Pepper Pritchett,3
+Lee,104 Friendship,State Auditor,,Reform,Lajena Walley,0
+Lee,104 Friendship,State Treasurer,,Republican,Lynn Fitch,97
+Lee,104 Friendship,State Treasurer,,Reform,Viola McFarland,6
+Lee,104 Friendship,Commissioner of Agriculture & Commerce,,Democrat,Addie Lee Green,9
+Lee,104 Friendship,Commissioner of Agriculture & Commerce,,Republican,Cindy Hyde-Smith,84
+Lee,104 Friendship,Commissioner of Agriculture & Commerce,,Reform,Cathy L Toole,6
+Lee,104 Friendship,Commissioner of Insurance,,Republican,Mike Chaney,95
+Lee,104 Friendship,State Senate,6,Republican,Chad McMahan,93
+Lee,104 Friendship,State House,19,Republican,Randy Boyd,77
+Lee,104 Friendship,State House,19,Democrat,Clint Gannon,24
+Lee,510 Gilvo,Governor,,Republican,Phil Bryant,75
+Lee,510 Gilvo,Governor,,Democrat,Robert Gray,7
+Lee,510 Gilvo,Governor,,Reform,Shawn O'Hara,1
+Lee,510 Gilvo,Lieutenant Governor,,Democrat,Tim Johnson,8
+Lee,510 Gilvo,Lieutenant Governor,,Republican,Tate Reeves,70
+Lee,510 Gilvo,Lieutenant Governor,,Libertarian,Ron Williams,2
+Lee,510 Gilvo,Lieutenant Governor,,Reform,Rosa B. Williams,0
+Lee,510 Gilvo,Secretary of State,,Democrat,Charles E. Graham,8
+Lee,510 Gilvo,Secretary of State,,Republican,Delbert Hosemann,71
+Lee,510 Gilvo,Secretary of State,,Reform,Randy Walker,3
+Lee,510 Gilvo,Attorney General,,Democrat,Jim Hood,37
+Lee,510 Gilvo,Attorney General,,Republican,Mike Hurst,45
+Lee,510 Gilvo,State Auditor,,Republican,Stacey E. Pickering,71
+Lee,510 Gilvo,State Auditor,,Democrat,Jocelyn 'Joce' Pepper Pritchett,6
+Lee,510 Gilvo,State Auditor,,Reform,Lajena Walley,4
+Lee,510 Gilvo,State Treasurer,,Republican,Lynn Fitch,74
+Lee,510 Gilvo,State Treasurer,,Reform,Viola McFarland,7
+Lee,510 Gilvo,Commissioner of Agriculture & Commerce,,Democrat,Addie Lee Green,8
+Lee,510 Gilvo,Commissioner of Agriculture & Commerce,,Republican,Cindy Hyde-Smith,67
+Lee,510 Gilvo,Commissioner of Agriculture & Commerce,,Reform,Cathy L Toole,4
+Lee,510 Gilvo,Commissioner of Insurance,,Republican,Mike Chaney,68
+Lee,510 Gilvo,State Senate,6,Republican,Chad McMahan,67
+Lee,510 Gilvo,State House,19,Republican,Randy Boyd,50
+Lee,510 Gilvo,State House,19,Democrat,Clint Gannon,33
+Lee,103 Guntown,Governor,,Republican,Phil Bryant,268
+Lee,103 Guntown,Governor,,Democrat,Robert Gray,72
+Lee,103 Guntown,Governor,,Reform,Shawn O'Hara,9
+Lee,103 Guntown,Lieutenant Governor,,Democrat,Tim Johnson,82
+Lee,103 Guntown,Lieutenant Governor,,Republican,Tate Reeves,242
+Lee,103 Guntown,Lieutenant Governor,,Libertarian,Ron Williams,11
+Lee,103 Guntown,Lieutenant Governor,,Reform,Rosa B. Williams,5
+Lee,103 Guntown,Secretary of State,,Democrat,Charles E. Graham,73
+Lee,103 Guntown,Secretary of State,,Republican,Delbert Hosemann,258
+Lee,103 Guntown,Secretary of State,,Reform,Randy Walker,11
+Lee,103 Guntown,Attorney General,,Democrat,Jim Hood,152
+Lee,103 Guntown,Attorney General,,Republican,Mike Hurst,195
+Lee,103 Guntown,State Auditor,,Republican,Stacey E. Pickering,262
+Lee,103 Guntown,State Auditor,,Democrat,Jocelyn 'Joce' Pepper Pritchett,67
+Lee,103 Guntown,State Auditor,,Reform,Lajena Walley,7
+Lee,103 Guntown,State Treasurer,,Republican,Lynn Fitch,271
+Lee,103 Guntown,State Treasurer,,Reform,Viola McFarland,44
+Lee,103 Guntown,Commissioner of Agriculture & Commerce,,Democrat,Addie Lee Green,89
+Lee,103 Guntown,Commissioner of Agriculture & Commerce,,Republican,Cindy Hyde-Smith,231
+Lee,103 Guntown,Commissioner of Agriculture & Commerce,,Reform,Cathy L Toole,7
+Lee,103 Guntown,Commissioner of Insurance,,Republican,Mike Chaney,284
+Lee,103 Guntown,State Senate,6,Republican,Chad McMahan,284
+Lee,103 Guntown,State House,18,Republican,Jerry Turner,279
+Lee,106 Hebron,Governor,,Republican,Phil Bryant,156
+Lee,106 Hebron,Governor,,Democrat,Robert Gray,12
+Lee,106 Hebron,Governor,,Reform,Shawn O'Hara,2
+Lee,106 Hebron,Lieutenant Governor,,Democrat,Tim Johnson,18
+Lee,106 Hebron,Lieutenant Governor,,Republican,Tate Reeves,150
+Lee,106 Hebron,Lieutenant Governor,,Libertarian,Ron Williams,3
+Lee,106 Hebron,Lieutenant Governor,,Reform,Rosa B. Williams,1
+Lee,106 Hebron,Secretary of State,,Democrat,Charles E. Graham,14
+Lee,106 Hebron,Secretary of State,,Republican,Delbert Hosemann,154
+Lee,106 Hebron,Secretary of State,,Reform,Randy Walker,5
+Lee,106 Hebron,Attorney General,,Democrat,Jim Hood,48
+Lee,106 Hebron,Attorney General,,Republican,Mike Hurst,125
+Lee,106 Hebron,State Auditor,,Republican,Stacey E. Pickering,155
+Lee,106 Hebron,State Auditor,,Democrat,Jocelyn 'Joce' Pepper Pritchett,14
+Lee,106 Hebron,State Auditor,,Reform,Lajena Walley,1
+Lee,106 Hebron,State Treasurer,,Republican,Lynn Fitch,159
+Lee,106 Hebron,State Treasurer,,Reform,Viola McFarland,12
+Lee,106 Hebron,Commissioner of Agriculture & Commerce,,Democrat,Addie Lee Green,20
+Lee,106 Hebron,Commissioner of Agriculture & Commerce,,Republican,Cindy Hyde-Smith,141
+Lee,106 Hebron,Commissioner of Agriculture & Commerce,,Reform,Cathy L Toole,3
+Lee,106 Hebron,Commissioner of Insurance,,Republican,Mike Chaney,145
+Lee,106 Hebron,State Senate,6,Republican,Chad McMahan,141
+Lee,106 Hebron,State House,19,Republican,Randy Boyd,115
+Lee,106 Hebron,State House,19,Democrat,Clint Gannon,56
+Lee,509 Kedron,Governor,,Republican,Phil Bryant,203
+Lee,509 Kedron,Governor,,Democrat,Robert Gray,54
+Lee,509 Kedron,Governor,,Reform,Shawn O'Hara,9
+Lee,509 Kedron,Lieutenant Governor,,Democrat,Tim Johnson,67
+Lee,509 Kedron,Lieutenant Governor,,Republican,Tate Reeves,190
+Lee,509 Kedron,Lieutenant Governor,,Libertarian,Ron Williams,5
+Lee,509 Kedron,Lieutenant Governor,,Reform,Rosa B. Williams,2
+Lee,509 Kedron,Secretary of State,,Democrat,Charles E. Graham,65
+Lee,509 Kedron,Secretary of State,,Republican,Delbert Hosemann,191
+Lee,509 Kedron,Secretary of State,,Reform,Randy Walker,5
+Lee,509 Kedron,Attorney General,,Democrat,Jim Hood,140
+Lee,509 Kedron,Attorney General,,Republican,Mike Hurst,125
+Lee,509 Kedron,State Auditor,,Republican,Stacey E. Pickering,201
+Lee,509 Kedron,State Auditor,,Democrat,Jocelyn 'Joce' Pepper Pritchett,60
+Lee,509 Kedron,State Auditor,,Reform,Lajena Walley,2
+Lee,509 Kedron,State Treasurer,,Republican,Lynn Fitch,201
+Lee,509 Kedron,State Treasurer,,Reform,Viola McFarland,31
+Lee,509 Kedron,Commissioner of Agriculture & Commerce,,Democrat,Addie Lee Green,71
+Lee,509 Kedron,Commissioner of Agriculture & Commerce,,Republican,Cindy Hyde-Smith,176
+Lee,509 Kedron,Commissioner of Agriculture & Commerce,,Reform,Cathy L Toole,6
+Lee,509 Kedron,Commissioner of Insurance,,Republican,Mike Chaney,220
+Lee,509 Kedron,State Senate,7,Democrat,Hob Bryan,134
+Lee,509 Kedron,State Senate,7,Republican,Barry Strevel,119
+Lee,509 Kedron,State House,19,Republican,Randy Boyd,120
+Lee,509 Kedron,State House,19,Democrat,Clint Gannon,133
+Lee,511 Mooreville,Governor,,Republican,Phil Bryant,555
+Lee,511 Mooreville,Governor,,Democrat,Robert Gray,56
+Lee,511 Mooreville,Governor,,Reform,Shawn O'Hara,11
+Lee,511 Mooreville,Lieutenant Governor,,Democrat,Tim Johnson,84
+Lee,511 Mooreville,Lieutenant Governor,,Republican,Tate Reeves,518
+Lee,511 Mooreville,Lieutenant Governor,,Libertarian,Ron Williams,14
+Lee,511 Mooreville,Lieutenant Governor,,Reform,Rosa B. Williams,8
+Lee,511 Mooreville,Secretary of State,,Democrat,Charles E. Graham,58
+Lee,511 Mooreville,Secretary of State,,Republican,Delbert Hosemann,541
+Lee,511 Mooreville,Secretary of State,,Reform,Randy Walker,20
+Lee,511 Mooreville,Attorney General,,Democrat,Jim Hood,232
+Lee,511 Mooreville,Attorney General,,Republican,Mike Hurst,399
+Lee,511 Mooreville,State Auditor,,Republican,Stacey E. Pickering,554
+Lee,511 Mooreville,State Auditor,,Democrat,Jocelyn 'Joce' Pepper Pritchett,58
+Lee,511 Mooreville,State Auditor,,Reform,Lajena Walley,8
+Lee,511 Mooreville,State Treasurer,,Republican,Lynn Fitch,551
+Lee,511 Mooreville,State Treasurer,,Reform,Viola McFarland,49
+Lee,511 Mooreville,Commissioner of Agriculture & Commerce,,Democrat,Addie Lee Green,80
+Lee,511 Mooreville,Commissioner of Agriculture & Commerce,,Republican,Cindy Hyde-Smith,504
+Lee,511 Mooreville,Commissioner of Agriculture & Commerce,,Reform,Cathy L Toole,15
+Lee,511 Mooreville,Commissioner of Insurance,,Republican,Mike Chaney,516
+Lee,511 Mooreville,State Senate,6,Republican,Chad McMahan,521
+Lee,511 Mooreville,State House,19,Republican,Randy Boyd,379
+Lee,511 Mooreville,State House,19,Democrat,Clint Gannon,250
+Lee,508 Nettleton,Governor,,Republican,Phil Bryant,364
+Lee,508 Nettleton,Governor,,Democrat,Robert Gray,73
+Lee,508 Nettleton,Governor,,Reform,Shawn O'Hara,2
+Lee,508 Nettleton,Lieutenant Governor,,Democrat,Tim Johnson,87
+Lee,508 Nettleton,Lieutenant Governor,,Republican,Tate Reeves,339
+Lee,508 Nettleton,Lieutenant Governor,,Libertarian,Ron Williams,8
+Lee,508 Nettleton,Lieutenant Governor,,Reform,Rosa B. Williams,2
+Lee,508 Nettleton,Secretary of State,,Democrat,Charles E. Graham,83
+Lee,508 Nettleton,Secretary of State,,Republican,Delbert Hosemann,345
+Lee,508 Nettleton,Secretary of State,,Reform,Randy Walker,7
+Lee,508 Nettleton,Attorney General,,Democrat,Jim Hood,242
+Lee,508 Nettleton,Attorney General,,Republican,Mike Hurst,198
+Lee,508 Nettleton,State Auditor,,Republican,Stacey E. Pickering,358
+Lee,508 Nettleton,State Auditor,,Democrat,Jocelyn 'Joce' Pepper Pritchett,76
+Lee,508 Nettleton,State Auditor,,Reform,Lajena Walley,3
+Lee,508 Nettleton,State Treasurer,,Republican,Lynn Fitch,369
+Lee,508 Nettleton,State Treasurer,,Reform,Viola McFarland,50
+Lee,508 Nettleton,Commissioner of Agriculture & Commerce,,Democrat,Addie Lee Green,103
+Lee,508 Nettleton,Commissioner of Agriculture & Commerce,,Republican,Cindy Hyde-Smith,328
+Lee,508 Nettleton,Commissioner of Agriculture & Commerce,,Reform,Cathy L Toole,4
+Lee,508 Nettleton,Commissioner of Insurance,,Republican,Mike Chaney,401
+Lee,508 Nettleton,State Senate,7,Democrat,Hob Bryan,208
+Lee,508 Nettleton,State Senate,7,Republican,Barry Strevel,228
+Lee,508 Nettleton,State House,20,Republican,Chris Brown,302
+Lee,508 Nettleton,State House,20,Democrat,William 'Bo' Miller,126
+Lee,108 Oak Hill,Governor,,Republican,Phil Bryant,606
+Lee,108 Oak Hill,Governor,,Democrat,Robert Gray,119
+Lee,108 Oak Hill,Governor,,Reform,Shawn O'Hara,7
+Lee,108 Oak Hill,Lieutenant Governor,,Democrat,Tim Johnson,128
+Lee,108 Oak Hill,Lieutenant Governor,,Republican,Tate Reeves,575
+Lee,108 Oak Hill,Lieutenant Governor,,Libertarian,Ron Williams,13
+Lee,108 Oak Hill,Lieutenant Governor,,Reform,Rosa B. Williams,7
+Lee,108 Oak Hill,Secretary of State,,Democrat,Charles E. Graham,115
+Lee,108 Oak Hill,Secretary of State,,Republican,Delbert Hosemann,599
+Lee,108 Oak Hill,Secretary of State,,Reform,Randy Walker,14
+Lee,108 Oak Hill,Attorney General,,Democrat,Jim Hood,314
+Lee,108 Oak Hill,Attorney General,,Republican,Mike Hurst,414
+Lee,108 Oak Hill,State Auditor,,Republican,Stacey E. Pickering,598
+Lee,108 Oak Hill,State Auditor,,Democrat,Jocelyn 'Joce' Pepper Pritchett,124
+Lee,108 Oak Hill,State Auditor,,Reform,Lajena Walley,4
+Lee,108 Oak Hill,State Treasurer,,Republican,Lynn Fitch,616
+Lee,108 Oak Hill,State Treasurer,,Reform,Viola McFarland,81
+Lee,108 Oak Hill,Commissioner of Agriculture & Commerce,,Democrat,Addie Lee Green,144
+Lee,108 Oak Hill,Commissioner of Agriculture & Commerce,,Republican,Cindy Hyde-Smith,546
+Lee,108 Oak Hill,Commissioner of Agriculture & Commerce,,Reform,Cathy L Toole,14
+Lee,108 Oak Hill,Commissioner of Insurance,,Republican,Mike Chaney,526
+Lee,108 Oak Hill,State Senate,6,Republican,Chad McMahan,590
+Lee,108 Oak Hill,State House,19,Republican,Randy Boyd,458
+Lee,108 Oak Hill,State House,19,Democrat,Clint Gannon,267
+Lee,403 Ole Union,Governor,,Republican,Phil Bryant,152
+Lee,403 Ole Union,Governor,,Democrat,Robert Gray,91
+Lee,403 Ole Union,Governor,,Reform,Shawn O'Hara,2
+Lee,403 Ole Union,Lieutenant Governor,,Democrat,Tim Johnson,93
+Lee,403 Ole Union,Lieutenant Governor,,Republican,Tate Reeves,146
+Lee,403 Ole Union,Lieutenant Governor,,Libertarian,Ron Williams,1
+Lee,403 Ole Union,Lieutenant Governor,,Reform,Rosa B. Williams,1
+Lee,403 Ole Union,Secretary of State,,Democrat,Charles E. Graham,94
+Lee,403 Ole Union,Secretary of State,,Republican,Delbert Hosemann,142
+Lee,403 Ole Union,Secretary of State,,Reform,Randy Walker,5
+Lee,403 Ole Union,Attorney General,,Democrat,Jim Hood,148
+Lee,403 Ole Union,Attorney General,,Republican,Mike Hurst,96
+Lee,403 Ole Union,State Auditor,,Republican,Stacey E. Pickering,141
+Lee,403 Ole Union,State Auditor,,Democrat,Jocelyn 'Joce' Pepper Pritchett,99
+Lee,403 Ole Union,State Auditor,,Reform,Lajena Walley,1
+Lee,403 Ole Union,State Treasurer,,Republican,Lynn Fitch,163
+Lee,403 Ole Union,State Treasurer,,Reform,Viola McFarland,39
+Lee,403 Ole Union,Commissioner of Agriculture & Commerce,,Democrat,Addie Lee Green,100
+Lee,403 Ole Union,Commissioner of Agriculture & Commerce,,Republican,Cindy Hyde-Smith,132
+Lee,403 Ole Union,Commissioner of Agriculture & Commerce,,Reform,Cathy L Toole,3
+Lee,403 Ole Union,Commissioner of Insurance,,Republican,Mike Chaney,191
+Lee,403 Ole Union,State Senate,8,Democrat,Russell Jolly,173
+Lee,403 Ole Union,State House,16,Democrat,Steve Holland,105
+Lee,403 Ole Union,State House,17,Republican,Shane Aguirre,96
+Lee,403 Ole Union,State House,17,Democrat,Charles Penson,21
+Lee,401 Palmetto,Governor,,Republican,Phil Bryant,250
+Lee,401 Palmetto,Governor,,Democrat,Robert Gray,127
+Lee,401 Palmetto,Governor,,Reform,Shawn O'Hara,5
+Lee,401 Palmetto,Lieutenant Governor,,Democrat,Tim Johnson,140
+Lee,401 Palmetto,Lieutenant Governor,,Republican,Tate Reeves,230
+Lee,401 Palmetto,Lieutenant Governor,,Libertarian,Ron Williams,7
+Lee,401 Palmetto,Lieutenant Governor,,Reform,Rosa B. Williams,4
+Lee,401 Palmetto,Secretary of State,,Democrat,Charles E. Graham,134
+Lee,401 Palmetto,Secretary of State,,Republican,Delbert Hosemann,242
+Lee,401 Palmetto,Secretary of State,,Reform,Randy Walker,8
+Lee,401 Palmetto,Attorney General,,Democrat,Jim Hood,218
+Lee,401 Palmetto,Attorney General,,Republican,Mike Hurst,165
+Lee,401 Palmetto,State Auditor,,Republican,Stacey E. Pickering,241
+Lee,401 Palmetto,State Auditor,,Democrat,Jocelyn 'Joce' Pepper Pritchett,137
+Lee,401 Palmetto,State Auditor,,Reform,Lajena Walley,3
+Lee,401 Palmetto,State Treasurer,,Republican,Lynn Fitch,264
+Lee,401 Palmetto,State Treasurer,,Reform,Viola McFarland,65
+Lee,401 Palmetto,Commissioner of Agriculture & Commerce,,Democrat,Addie Lee Green,141
+Lee,401 Palmetto,Commissioner of Agriculture & Commerce,,Republican,Cindy Hyde-Smith,221
+Lee,401 Palmetto,Commissioner of Agriculture & Commerce,,Reform,Cathy L Toole,11
+Lee,401 Palmetto,Commissioner of Insurance,,Republican,Mike Chaney,311
+Lee,401 Palmetto,State Senate,8,Democrat,Russell Jolly,286
+Lee,401 Palmetto,State House,16,Democrat,Steve Holland,36
+Lee,401 Palmetto,State House,17,Republican,Shane Aguirre,233
+Lee,401 Palmetto,State House,17,Democrat,Charles Penson,110
+Lee,507 Petersburg,Governor,,Republican,Phil Bryant,149
+Lee,507 Petersburg,Governor,,Democrat,Robert Gray,18
+Lee,507 Petersburg,Governor,,Reform,Shawn O'Hara,0
+Lee,507 Petersburg,Lieutenant Governor,,Democrat,Tim Johnson,22
+Lee,507 Petersburg,Lieutenant Governor,,Republican,Tate Reeves,136
+Lee,507 Petersburg,Lieutenant Governor,,Libertarian,Ron Williams,3
+Lee,507 Petersburg,Lieutenant Governor,,Reform,Rosa B. Williams,3
+Lee,507 Petersburg,Secretary of State,,Democrat,Charles E. Graham,21
+Lee,507 Petersburg,Secretary of State,,Republican,Delbert Hosemann,138
+Lee,507 Petersburg,Secretary of State,,Reform,Randy Walker,4
+Lee,507 Petersburg,Attorney General,,Democrat,Jim Hood,75
+Lee,507 Petersburg,Attorney General,,Republican,Mike Hurst,92
+Lee,507 Petersburg,State Auditor,,Republican,Stacey E. Pickering,140
+Lee,507 Petersburg,State Auditor,,Democrat,Jocelyn 'Joce' Pepper Pritchett,24
+Lee,507 Petersburg,State Auditor,,Reform,Lajena Walley,0
+Lee,507 Petersburg,State Treasurer,,Republican,Lynn Fitch,147
+Lee,507 Petersburg,State Treasurer,,Reform,Viola McFarland,13
+Lee,507 Petersburg,Commissioner of Agriculture & Commerce,,Democrat,Addie Lee Green,24
+Lee,507 Petersburg,Commissioner of Agriculture & Commerce,,Republican,Cindy Hyde-Smith,130
+Lee,507 Petersburg,Commissioner of Agriculture & Commerce,,Reform,Cathy L Toole,1
+Lee,507 Petersburg,Commissioner of Insurance,,Republican,Mike Chaney,148
+Lee,507 Petersburg,State Senate,7,Democrat,Hob Bryan,54
+Lee,507 Petersburg,State Senate,7,Republican,Barry Strevel,149
+Lee,507 Petersburg,State House,20,Republican,Chris Brown,128
+Lee,507 Petersburg,State House,20,Democrat,William 'Bo' Miller,29
+Lee,504 Plantersville,Governor,,Republican,Phil Bryant,271
+Lee,504 Plantersville,Governor,,Democrat,Robert Gray,206
+Lee,504 Plantersville,Governor,,Reform,Shawn O'Hara,4
+Lee,504 Plantersville,Lieutenant Governor,,Democrat,Tim Johnson,221
+Lee,504 Plantersville,Lieutenant Governor,,Republican,Tate Reeves,245
+Lee,504 Plantersville,Lieutenant Governor,,Libertarian,Ron Williams,4
+Lee,504 Plantersville,Lieutenant Governor,,Reform,Rosa B. Williams,2
+Lee,504 Plantersville,Secretary of State,,Democrat,Charles E. Graham,211
+Lee,504 Plantersville,Secretary of State,,Republican,Delbert Hosemann,246
+Lee,504 Plantersville,Secretary of State,,Reform,Randy Walker,10
+Lee,504 Plantersville,Attorney General,,Democrat,Jim Hood,339
+Lee,504 Plantersville,Attorney General,,Republican,Mike Hurst,140
+Lee,504 Plantersville,State Auditor,,Republican,Stacey E. Pickering,261
+Lee,504 Plantersville,State Auditor,,Democrat,Jocelyn 'Joce' Pepper Pritchett,201
+Lee,504 Plantersville,State Auditor,,Reform,Lajena Walley,2
+Lee,504 Plantersville,State Treasurer,,Republican,Lynn Fitch,147
+Lee,504 Plantersville,State Treasurer,,Reform,Viola McFarland,13
+Lee,504 Plantersville,Commissioner of Agriculture & Commerce,,Democrat,Addie Lee Green,24
+Lee,504 Plantersville,Commissioner of Agriculture & Commerce,,Republican,Cindy Hyde-Smith,130
+Lee,504 Plantersville,Commissioner of Agriculture & Commerce,,Reform,Cathy L Toole,1
+Lee,504 Plantersville,Commissioner of Insurance,,Republican,Mike Chaney,148
+Lee,504 Plantersville,State Senate,7,Democrat,Hob Bryan,312
+Lee,504 Plantersville,State Senate,7,Republican,Barry Strevel,149
+Lee,504 Plantersville,State House,16,Republican,Steve Holland,392
+Lee,402 Pleasant Grove,Governor,,Republican,Phil Bryant,207
+Lee,402 Pleasant Grove,Governor,,Democrat,Robert Gray,280
+Lee,402 Pleasant Grove,Governor,,Reform,Shawn O'Hara,2
+Lee,402 Pleasant Grove,Lieutenant Governor,,Democrat,Tim Johnson,291
+Lee,402 Pleasant Grove,Lieutenant Governor,,Republican,Tate Reeves,187
+Lee,402 Pleasant Grove,Lieutenant Governor,,Libertarian,Ron Williams,2
+Lee,402 Pleasant Grove,Lieutenant Governor,,Reform,Rosa B. Williams,6
+Lee,402 Pleasant Grove,Secretary of State,,Democrat,Charles E. Graham,298
+Lee,402 Pleasant Grove,Secretary of State,,Republican,Delbert Hosemann,178
+Lee,402 Pleasant Grove,Secretary of State,,Reform,Randy Walker,5
+Lee,402 Pleasant Grove,Attorney General,,Democrat,Jim Hood,380
+Lee,402 Pleasant Grove,Attorney General,,Republican,Mike Hurst,109
+Lee,402 Pleasant Grove,State Auditor,,Republican,Stacey E. Pickering,182
+Lee,402 Pleasant Grove,State Auditor,,Democrat,Jocelyn 'Joce' Pepper Pritchett,289
+Lee,402 Pleasant Grove,State Auditor,,Reform,Lajena Walley,4
+Lee,402 Pleasant Grove,State Treasurer,,Republican,Lynn Fitch,246
+Lee,402 Pleasant Grove,State Treasurer,,Reform,Viola McFarland,112
+Lee,402 Pleasant Grove,Commissioner of Agriculture & Commerce,,Democrat,Addie Lee Green,305
+Lee,402 Pleasant Grove,Commissioner of Agriculture & Commerce,,Republican,Cindy Hyde-Smith,148
+Lee,402 Pleasant Grove,Commissioner of Agriculture & Commerce,,Reform,Cathy L Toole,12
+Lee,402 Pleasant Grove,Commissioner of Insurance,,Republican,Mike Chaney,415
+Lee,402 Pleasant Grove,State Senate,8,Democrat,Russell Jolly,399
+Lee,402 Pleasant Grove,State House,16,Democrat,Steve Holland,328
+Lee,402 Pleasant Grove,State House,17,Republican,Shane Aguirre,85
+Lee,402 Pleasant Grove,State House,17,Democrat,Charles Penson,30
+Lee,101 Pratts,Governor,,Republican,Phil Bryant,159
+Lee,101 Pratts,Governor,,Democrat,Robert Gray,13
+Lee,101 Pratts,Governor,,Reform,Shawn O'Hara,4
+Lee,101 Pratts,Lieutenant Governor,,Democrat,Tim Johnson,17
+Lee,101 Pratts,Lieutenant Governor,,Republican,Tate Reeves,150
+Lee,101 Pratts,Lieutenant Governor,,Libertarian,Ron Williams,6
+Lee,101 Pratts,Lieutenant Governor,,Reform,Rosa B. Williams,1
+Lee,101 Pratts,Secretary of State,,Democrat,Charles E. Graham,13
+Lee,101 Pratts,Secretary of State,,Republican,Delbert Hosemann,163
+Lee,101 Pratts,Secretary of State,,Reform,Randy Walker,1
+Lee,101 Pratts,Attorney General,,Democrat,Jim Hood,58
+Lee,101 Pratts,Attorney General,,Republican,Mike Hurst,118
+Lee,101 Pratts,State Auditor,,Republican,Stacey E. Pickering,159
+Lee,101 Pratts,State Auditor,,Democrat,Jocelyn 'Joce' Pepper Pritchett,15
+Lee,101 Pratts,State Auditor,,Reform,Lajena Walley,1
+Lee,101 Pratts,State Treasurer,,Republican,Lynn Fitch,159
+Lee,101 Pratts,State Treasurer,,Reform,Viola McFarland,12
+Lee,101 Pratts,Commissioner of Agriculture & Commerce,,Democrat,Addie Lee Green,20
+Lee,101 Pratts,Commissioner of Agriculture & Commerce,,Republican,Cindy Hyde-Smith,149
+Lee,101 Pratts,Commissioner of Agriculture & Commerce,,Reform,Cathy L Toole,2
+Lee,101 Pratts,Commissioner of Insurance,,Republican,Mike Chaney,134
+Lee,101 Pratts,State Senate,6,Republican,Chad McMahan,161
+Lee,101 Pratts,State House,18,Republican,Jerry Turner,154
+Lee,503 Richmond,Governor,,Republican,Phil Bryant,209
+Lee,503 Richmond,Governor,,Democrat,Robert Gray,39
+Lee,503 Richmond,Governor,,Reform,Shawn O'Hara,4
+Lee,503 Richmond,Lieutenant Governor,,Democrat,Tim Johnson,44
+Lee,503 Richmond,Lieutenant Governor,,Republican,Tate Reeves,196
+Lee,503 Richmond,Lieutenant Governor,,Libertarian,Ron Williams,5
+Lee,503 Richmond,Lieutenant Governor,,Reform,Rosa B. Williams,1
+Lee,503 Richmond,Secretary of State,,Democrat,Charles E. Graham,39
+Lee,503 Richmond,Secretary of State,,Republican,Delbert Hosemann,201
+Lee,503 Richmond,Secretary of State,,Reform,Randy Walker,6
+Lee,503 Richmond,Attorney General,,Democrat,Jim Hood,119
+Lee,503 Richmond,Attorney General,,Republican,Mike Hurst,132
+Lee,503 Richmond,State Auditor,,Republican,Stacey E. Pickering,197
+Lee,503 Richmond,State Auditor,,Democrat,Jocelyn 'Joce' Pepper Pritchett,49
+Lee,503 Richmond,State Auditor,,Reform,Lajena Walley,0
+Lee,503 Richmond,State Treasurer,,Republican,Lynn Fitch,214
+Lee,503 Richmond,State Treasurer,,Reform,Viola McFarland,25
+Lee,503 Richmond,Commissioner of Agriculture & Commerce,,Democrat,Addie Lee Green,53
+Lee,503 Richmond,Commissioner of Agriculture & Commerce,,Republican,Cindy Hyde-Smith,181
+Lee,503 Richmond,Commissioner of Agriculture & Commerce,,Reform,Cathy L Toole,4
+Lee,503 Richmond,Commissioner of Insurance,,Republican,Mike Chaney,214
+Lee,503 Richmond,State Senate,6,Republican,Chad McMahan,207
+Lee,503 Richmond,State House,19,Republican,Randy Boyd,128
+Lee,503 Richmond,State House,19,Democrat,Clint Gannon,119
+Lee,206 Saltillo,Governor,,Republican,Phil Bryant,1011
+Lee,206 Saltillo,Governor,,Democrat,Robert Gray,117
+Lee,206 Saltillo,Governor,,Reform,Shawn O'Hara,8
+Lee,206 Saltillo,Lieutenant Governor,,Democrat,Tim Johnson,150
+Lee,206 Saltillo,Lieutenant Governor,,Republican,Tate Reeves,945
+Lee,206 Saltillo,Lieutenant Governor,,Libertarian,Ron Williams,30
+Lee,206 Saltillo,Lieutenant Governor,,Reform,Rosa B. Williams,6
+Lee,206 Saltillo,Secretary of State,,Democrat,Charles E. Graham,124
+Lee,206 Saltillo,Secretary of State,,Republican,Delbert Hosemann,986
+Lee,206 Saltillo,Secretary of State,,Reform,Randy Walker,14
+Lee,206 Saltillo,Attorney General,,Democrat,Jim Hood,430
+Lee,206 Saltillo,Attorney General,,Republican,Mike Hurst,704
+Lee,206 Saltillo,State Auditor,,Republican,Stacey E. Pickering,969
+Lee,206 Saltillo,State Auditor,,Democrat,Jocelyn 'Joce' Pepper Pritchett,137
+Lee,206 Saltillo,State Auditor,,Reform,Lajena Walley,8
+Lee,206 Saltillo,State Treasurer,,Republican,Lynn Fitch,1007
+Lee,206 Saltillo,State Treasurer,,Reform,Viola McFarland,70
+Lee,206 Saltillo,Commissioner of Agriculture & Commerce,,Democrat,Addie Lee Green,150
+Lee,206 Saltillo,Commissioner of Agriculture & Commerce,,Republican,Cindy Hyde-Smith,915
+Lee,206 Saltillo,Commissioner of Agriculture & Commerce,,Reform,Cathy L Toole,17
+Lee,206 Saltillo,Commissioner of Insurance,,Republican,Mike Chaney,999
+Lee,206 Saltillo,State Senate,6,Republican,Chad McMahan,975
+Lee,206 Saltillo,State House,18,Republican,Jerry Turner,989
+Lee,502 Shannon,Governor,,Republican,Phil Bryant,168
+Lee,502 Shannon,Governor,,Democrat,Robert Gray,173
+Lee,502 Shannon,Governor,,Reform,Shawn O'Hara,1
+Lee,502 Shannon,Lieutenant Governor,,Democrat,Tim Johnson,175
+Lee,502 Shannon,Lieutenant Governor,,Republican,Tate Reeves,151
+Lee,502 Shannon,Lieutenant Governor,,Libertarian,Ron Williams,7
+Lee,502 Shannon,Lieutenant Governor,,Reform,Rosa B. Williams,4
+Lee,502 Shannon,Secretary of State,,Democrat,Charles E. Graham,179
+Lee,502 Shannon,Secretary of State,,Republican,Delbert Hosemann,150
+Lee,502 Shannon,Secretary of State,,Reform,Randy Walker,4
+Lee,502 Shannon,Attorney General,,Democrat,Jim Hood,256
+Lee,502 Shannon,Attorney General,,Republican,Mike Hurst,87
+Lee,502 Shannon,State Auditor,,Republican,Stacey E. Pickering,157
+Lee,502 Shannon,State Auditor,,Democrat,Jocelyn 'Joce' Pepper Pritchett,175
+Lee,502 Shannon,State Auditor,,Reform,Lajena Walley,4
+Lee,502 Shannon,State Treasurer,,Republican,Lynn Fitch,183
+Lee,502 Shannon,State Treasurer,,Reform,Viola McFarland,62
+Lee,502 Shannon,Commissioner of Agriculture & Commerce,,Democrat,Addie Lee Green,188
+Lee,502 Shannon,Commissioner of Agriculture & Commerce,,Republican,Cindy Hyde-Smith,130
+Lee,502 Shannon,Commissioner of Agriculture & Commerce,,Reform,Cathy L Toole,2
+Lee,502 Shannon,Commissioner of Insurance,,Republican,Mike Chaney,264
+Lee,502 Shannon,State Senate,8,Democrat,Russell Jolly,262
+Lee,502 Shannon,State House,16,Democrat,Steve Holland,287
+Lee,109 Tupelo 1,Governor,,Republican,Phil Bryant,296
+Lee,109 Tupelo 1,Governor,,Democrat,Robert Gray,36
+Lee,109 Tupelo 1,Governor,,Reform,Shawn O'Hara,6
+Lee,109 Tupelo 1,Lieutenant Governor,,Democrat,Tim Johnson,48
+Lee,109 Tupelo 1,Lieutenant Governor,,Republican,Tate Reeves,272
+Lee,109 Tupelo 1,Lieutenant Governor,,Libertarian,Ron Williams,11
+Lee,109 Tupelo 1,Lieutenant Governor,,Reform,Rosa B. Williams,3
+Lee,109 Tupelo 1,Secretary of State,,Democrat,Charles E. Graham,24
+Lee,109 Tupelo 1,Secretary of State,,Republican,Delbert Hosemann,322
+Lee,109 Tupelo 1,Secretary of State,,Reform,Randy Walker,5
+Lee,109 Tupelo 1,Attorney General,,Democrat,Jim Hood,106
+Lee,109 Tupelo 1,Attorney General,,Republican,Mike Hurst,242
+Lee,109 Tupelo 1,State Auditor,,Republican,Stacey E. Pickering,321
+Lee,109 Tupelo 1,State Auditor,,Democrat,Jocelyn 'Joce' Pepper Pritchett,30
+Lee,109 Tupelo 1,State Auditor,,Reform,Lajena Walley,1
+Lee,109 Tupelo 1,State Treasurer,,Republican,Lynn Fitch,330
+Lee,109 Tupelo 1,State Treasurer,,Reform,Viola McFarland,15
+Lee,109 Tupelo 1,Commissioner of Agriculture & Commerce,,Democrat,Addie Lee Green,29
+Lee,109 Tupelo 1,Commissioner of Agriculture & Commerce,,Republican,Cindy Hyde-Smith,304
+Lee,109 Tupelo 1,Commissioner of Agriculture & Commerce,,Reform,Cathy L Toole,5
+Lee,109 Tupelo 1,Commissioner of Insurance,,Republican,Mike Chaney,246
+Lee,109 Tupelo 1,State Senate,6,Republican,Chad McMahan,297
+Lee,109 Tupelo 1,State House,18,Republican,Jerry Turner,304
+Lee,209 Tupelo 2,Governor,,Republican,Phil Bryant,1069
+Lee,209 Tupelo 2,Governor,,Democrat,Robert Gray,279
+Lee,209 Tupelo 2,Governor,,Reform,Shawn O'Hara,21
+Lee,209 Tupelo 2,Lieutenant Governor,,Democrat,Tim Johnson,295
+Lee,209 Tupelo 2,Lieutenant Governor,,Republican,Tate Reeves,1029
+Lee,209 Tupelo 2,Lieutenant Governor,,Libertarian,Ron Williams,28
+Lee,209 Tupelo 2,Lieutenant Governor,,Reform,Rosa B. Williams,13
+Lee,209 Tupelo 2,Secretary of State,,Democrat,Charles E. Graham,223
+Lee,209 Tupelo 2,Secretary of State,,Republican,Delbert Hosemann,1133
+Lee,209 Tupelo 2,Secretary of State,,Reform,Randy Walker,25
+Lee,209 Tupelo 2,Attorney General,,Democrat,Jim Hood,612
+Lee,209 Tupelo 2,Attorney General,,Republican,Mike Hurst,776
+Lee,209 Tupelo 2,State Auditor,,Republican,Stacey E. Pickering,1094
+Lee,209 Tupelo 2,State Auditor,,Democrat,Jocelyn 'Joce' Pepper Pritchett,265
+Lee,209 Tupelo 2,State Auditor,,Reform,Lajena Walley,12
+Lee,209 Tupelo 2,State Treasurer,,Republican,Lynn Fitch,1163
+Lee,209 Tupelo 2,State Treasurer,,Reform,Viola McFarland,131
+Lee,209 Tupelo 2,Commissioner of Agriculture & Commerce,,Democrat,Addie Lee Green,265
+Lee,209 Tupelo 2,Commissioner of Agriculture & Commerce,,Republican,Cindy Hyde-Smith,1022
+Lee,209 Tupelo 2,Commissioner of Agriculture & Commerce,,Reform,Cathy L Toole,26
+Lee,209 Tupelo 2,Commissioner of Insurance,,Republican,Mike Chaney,1038
+Lee,209 Tupelo 2,State Senate,6,Republican,Chad McMahan,1145
+Lee,209 Tupelo 2,State House,17,Republican,Shane Aguirre,823
+Lee,209 Tupelo 2,State House,17,Democrat,Charles Penson,258
+Lee,209 Tupelo 2,State House,18,Republican,Jerry Turner,260
+Lee,308 Tupelo 3,Governor,,Republican,Phil Bryant,1248
+Lee,308 Tupelo 3,Governor,,Democrat,Robert Gray,410
+Lee,308 Tupelo 3,Governor,,Reform,Shawn O'Hara,23
+Lee,308 Tupelo 3,Lieutenant Governor,,Democrat,Tim Johnson,449
+Lee,308 Tupelo 3,Lieutenant Governor,,Republican,Tate Reeves,1182
+Lee,308 Tupelo 3,Lieutenant Governor,,Libertarian,Ron Williams,27
+Lee,308 Tupelo 3,Lieutenant Governor,,Reform,Rosa B. Williams,13
+Lee,308 Tupelo 3,Secretary of State,,Democrat,Charles E. Graham,404
+Lee,308 Tupelo 3,Secretary of State,,Republican,Delbert Hosemann,1261
+Lee,308 Tupelo 3,Secretary of State,,Reform,Randy Walker,17
+Lee,308 Tupelo 3,Attorney General,,Democrat,Jim Hood,834
+Lee,308 Tupelo 3,Attorney General,,Republican,Mike Hurst,854
+Lee,308 Tupelo 3,State Auditor,,Republican,Stacey E. Pickering,1247
+Lee,308 Tupelo 3,State Auditor,,Democrat,Jocelyn 'Joce' Pepper Pritchett,423
+Lee,308 Tupelo 3,State Auditor,,Reform,Lajena Walley,7
+Lee,308 Tupelo 3,State Treasurer,,Republican,Lynn Fitch,1343
+Lee,308 Tupelo 3,State Treasurer,,Reform,Viola McFarland,212
+Lee,308 Tupelo 3,Commissioner of Agriculture & Commerce,,Democrat,Addie Lee Green,436
+Lee,308 Tupelo 3,Commissioner of Agriculture & Commerce,,Republican,Cindy Hyde-Smith,1166
+Lee,308 Tupelo 3,Commissioner of Agriculture & Commerce,,Reform,Cathy L Toole,21
+Lee,308 Tupelo 3,Commissioner of Insurance,,Republican,Mike Chaney,1220
+Lee,308 Tupelo 3,State Senate,6,Republican,Chad McMahan,1367
+Lee,308 Tupelo 3,State House,16,Democrat,Steve Holland,333
+Lee,308 Tupelo 3,State House,17,Republican,Shane Aguirre,997
+Lee,308 Tupelo 3,State House,17,Democrat,Charles Penson,295
+Lee,405 Tupelo 4 North,Governor,,Republican,Phil Bryant,276
+Lee,405 Tupelo 4 North,Governor,,Democrat,Robert Gray,492
+Lee,405 Tupelo 4 North,Governor,,Reform,Shawn O'Hara,6
+Lee,405 Tupelo 4 North,Lieutenant Governor,,Democrat,Tim Johnson,498
+Lee,405 Tupelo 4 North,Lieutenant Governor,,Republican,Tate Reeves,251
+Lee,405 Tupelo 4 North,Lieutenant Governor,,Libertarian,Ron Williams,9
+Lee,405 Tupelo 4 North,Lieutenant Governor,,Reform,Rosa B. Williams,14
+Lee,405 Tupelo 4 North,Secretary of State,,Democrat,Charles E. Graham,497
+Lee,405 Tupelo 4 North,Secretary of State,,Republican,Delbert Hosemann,271
+Lee,405 Tupelo 4 North,Secretary of State,,Reform,Randy Walker,3
+Lee,405 Tupelo 4 North,Attorney General,,Democrat,Jim Hood,620
+Lee,405 Tupelo 4 North,Attorney General,,Republican,Mike Hurst,168
+Lee,405 Tupelo 4 North,State Auditor,,Republican,Stacey E. Pickering,255
+Lee,405 Tupelo 4 North,State Auditor,,Democrat,Jocelyn 'Joce' Pepper Pritchett,507
+Lee,405 Tupelo 4 North,State Auditor,,Reform,Lajena Walley,7
+Lee,405 Tupelo 4 North,State Treasurer,,Republican,Lynn Fitch,369
+Lee,405 Tupelo 4 North,State Treasurer,,Reform,Viola McFarland,176
+Lee,405 Tupelo 4 North,Commissioner of Agriculture & Commerce,,Democrat,Addie Lee Green,524
+Lee,405 Tupelo 4 North,Commissioner of Agriculture & Commerce,,Republican,Cindy Hyde-Smith,213
+Lee,405 Tupelo 4 North,Commissioner of Agriculture & Commerce,,Reform,Cathy L Toole,3
+Lee,405 Tupelo 4 North,Commissioner of Insurance,,Republican,Mike Chaney,678
+Lee,405 Tupelo 4 North,State Senate,7,Democrat,Hob Bryan,618
+Lee,405 Tupelo 4 North,State Senate,7,Republican,Barry Strevel,147
+Lee,405 Tupelo 4 North,State House,16,Democrat,Steve Holland,395
+Lee,405 Tupelo 4 North,State House,17,Republican,Shane Aguirre,144
+Lee,405 Tupelo 4 North,State House,17,Democrat,Clint Gannon,167
+Lee,405 Tupelo 4 North,State House,18,Republican,Jerry Turner,10
+Lee,406 Tupelo 4 South,Governor,,Republican,Phil Bryant,144
+Lee,406 Tupelo 4 South,Governor,,Democrat,Robert Gray,524
+Lee,406 Tupelo 4 South,Governor,,Reform,Shawn O'Hara,5
+Lee,406 Tupelo 4 South,Lieutenant Governor,,Democrat,Tim Johnson,542
+Lee,406 Tupelo 4 South,Lieutenant Governor,,Republican,Tate Reeves,114
+Lee,406 Tupelo 4 South,Lieutenant Governor,,Libertarian,Ron Williams,6
+Lee,406 Tupelo 4 South,Lieutenant Governor,,Reform,Rosa B. Williams,8
+Lee,406 Tupelo 4 South,Secretary of State,,Democrat,Charles E. Graham,556
+Lee,406 Tupelo 4 South,Secretary of State,,Republican,Delbert Hosemann,105
+Lee,406 Tupelo 4 South,Secretary of State,,Reform,Randy Walker,11
+Lee,406 Tupelo 4 South,Attorney General,,Democrat,Jim Hood,609
+Lee,406 Tupelo 4 South,Attorney General,,Republican,Mike Hurst,70
+Lee,406 Tupelo 4 South,State Auditor,,Republican,Stacey E. Pickering,111
+Lee,406 Tupelo 4 South,State Auditor,,Democrat,Jocelyn 'Joce' Pepper Pritchett,553
+Lee,406 Tupelo 4 South,State Auditor,,Reform,Lajena Walley,6
+Lee,406 Tupelo 4 South,State Treasurer,,Republican,Lynn Fitch,220
+Lee,406 Tupelo 4 South,State Treasurer,,Reform,Viola McFarland,212
+Lee,406 Tupelo 4 South,Commissioner of Agriculture & Commerce,,Democrat,Addie Lee Green,561
+Lee,406 Tupelo 4 South,Commissioner of Agriculture & Commerce,,Republican,Cindy Hyde-Smith,84
+Lee,406 Tupelo 4 South,Commissioner of Agriculture & Commerce,,Reform,Cathy L Toole,8
+Lee,406 Tupelo 4 South,Commissioner of Insurance,,Republican,Mike Chaney,563
+Lee,406 Tupelo 4 South,State Senate,7,Democrat,Hob Bryan,603
+Lee,406 Tupelo 4 South,State Senate,7,Republican,Barry Strevel,62
+Lee,406 Tupelo 4 South,State House,16,Democrat,Steve Holland,621
+Lee,505 Tupelo 5,Governor,,Republican,Phil Bryant,201
+Lee,505 Tupelo 5,Governor,,Democrat,Robert Gray,138
+Lee,505 Tupelo 5,Governor,,Reform,Shawn O'Hara,5
+Lee,505 Tupelo 5,Lieutenant Governor,,Democrat,Tim Johnson,155
+Lee,505 Tupelo 5,Lieutenant Governor,,Republican,Tate Reeves,177
+Lee,505 Tupelo 5,Lieutenant Governor,,Libertarian,Ron Williams,3
+Lee,505 Tupelo 5,Lieutenant Governor,,Reform,Rosa B. Williams,6
+Lee,505 Tupelo 5,Secretary of State,,Democrat,Charles E. Graham,140
+Lee,505 Tupelo 5,Secretary of State,,Republican,Delbert Hosemann,192
+Lee,505 Tupelo 5,Secretary of State,,Reform,Randy Walker,12
+Lee,505 Tupelo 5,Attorney General,,Democrat,Jim Hood,229
+Lee,505 Tupelo 5,Attorney General,,Republican,Mike Hurst,115
+Lee,505 Tupelo 5,State Auditor,,Republican,Stacey E. Pickering,189
+Lee,505 Tupelo 5,State Auditor,,Democrat,Jocelyn 'Joce' Pepper Pritchett,149
+Lee,505 Tupelo 5,State Auditor,,Reform,Lajena Walley,2
+Lee,505 Tupelo 5,State Treasurer,,Republican,Lynn Fitch,212
+Lee,505 Tupelo 5,State Treasurer,,Reform,Viola McFarland,79
+Lee,505 Tupelo 5,Commissioner of Agriculture & Commerce,,Democrat,Addie Lee Green,155
+Lee,505 Tupelo 5,Commissioner of Agriculture & Commerce,,Republican,Cindy Hyde-Smith,161
+Lee,505 Tupelo 5,Commissioner of Agriculture & Commerce,,Reform,Cathy L Toole,8
+Lee,505 Tupelo 5,Commissioner of Insurance,,Republican,Mike Chaney,242
+Lee,505 Tupelo 5,State Senate,6,Republican,Chad McMahan,232
+Lee,505 Tupelo 5,State Senate,16,Democrat,Steve Holland,289
+Lee,105 Unity,Governor,,Republican,Phil Bryant,207
+Lee,105 Unity,Governor,,Democrat,Robert Gray,10
+Lee,105 Unity,Governor,,Reform,Shawn O'Hara,2
+Lee,105 Unity,Lieutenant Governor,,Democrat,Tim Johnson,15
+Lee,105 Unity,Lieutenant Governor,,Republican,Tate Reeves,199
+Lee,105 Unity,Lieutenant Governor,,Libertarian,Ron Williams,2
+Lee,105 Unity,Lieutenant Governor,,Reform,Rosa B. Williams,0
+Lee,105 Unity,Secretary of State,,Democrat,Charles E. Graham,11
+Lee,105 Unity,Secretary of State,,Republican,Delbert Hosemann,204
+Lee,105 Unity,Secretary of State,,Reform,Randy Walker,5
+Lee,105 Unity,Attorney General,,Democrat,Jim Hood,75
+Lee,105 Unity,Attorney General,,Republican,Mike Hurst,145
+Lee,105 Unity,State Auditor,,Republican,Stacey E. Pickering,203
+Lee,105 Unity,State Auditor,,Democrat,Jocelyn 'Joce' Pepper Pritchett,12
+Lee,105 Unity,State Auditor,,Reform,Lajena Walley,0
+Lee,105 Unity,State Treasurer,,Republican,Lynn Fitch,196
+Lee,105 Unity,State Treasurer,,Reform,Viola McFarland,11
+Lee,105 Unity,Commissioner of Agriculture & Commerce,,Democrat,Addie Lee Green,19
+Lee,105 Unity,Commissioner of Agriculture & Commerce,,Republican,Cindy Hyde-Smith,183
+Lee,105 Unity,Commissioner of Agriculture & Commerce,,Reform,Cathy L Toole,3
+Lee,105 Unity,Commissioner of Insurance,,Republican,Mike Chaney,187
+Lee,105 Unity,State Senate,6,Republican,Chad McMahan,177
+Lee,105 Unity,State House,19,Republican,Randy Boyd,178
+Lee,105 Unity,State House,19,Democrat,Clint Gannon,39
+Lee,512 Verona,Governor,,Republican,Phil Bryant,284
+Lee,512 Verona,Governor,,Democrat,Robert Gray,225
+Lee,512 Verona,Governor,,Reform,Shawn O'Hara,6
+Lee,512 Verona,Lieutenant Governor,,Democrat,Tim Johnson,251
+Lee,512 Verona,Lieutenant Governor,,Republican,Tate Reeves,243
+Lee,512 Verona,Lieutenant Governor,,Libertarian,Ron Williams,5
+Lee,512 Verona,Lieutenant Governor,,Reform,Rosa B. Williams,5
+Lee,512 Verona,Secretary of State,,Democrat,Charles E. Graham,235
+Lee,512 Verona,Secretary of State,,Republican,Delbert Hosemann,261
+Lee,512 Verona,Secretary of State,,Reform,Randy Walker,6
+Lee,512 Verona,Attorney General,,Democrat,Jim Hood,351
+Lee,512 Verona,Attorney General,,Republican,Mike Hurst,166
+Lee,512 Verona,State Auditor,,Republican,Stacey E. Pickering,262
+Lee,512 Verona,State Auditor,,Democrat,Jocelyn 'Joce' Pepper Pritchett,239
+Lee,512 Verona,State Auditor,,Reform,Lajena Walley,5
+Lee,512 Verona,State Treasurer,,Republican,Lynn Fitch,313
+Lee,512 Verona,State Treasurer,,Reform,Viola McFarland,100
+Lee,512 Verona,Commissioner of Agriculture & Commerce,,Democrat,Addie Lee Green,258
+Lee,512 Verona,Commissioner of Agriculture & Commerce,,Republican,Cindy Hyde-Smith,215
+Lee,512 Verona,Commissioner of Agriculture & Commerce,,Reform,Cathy L Toole,8
+Lee,512 Verona,Commissioner of Insurance,,Republican,Mike Chaney,369
+Lee,512 Verona,State Senate,7,Democrat,Hob Bryan,348
+Lee,512 Verona,State Senate,7,Republican,Barry Strevel,159
+Lee,512 Verona,State House,16,Democrat,Steve Holland,445
+Lee,LEE MS,Governor,,Republican,Phil Bryant,14402
+Lee,LEE MS,Governor,,Democrat,Robert Gray,4665
+Lee,LEE MS,Governor,,Reform,Shawn O'Hara,224
+Lee,LEE MS,Lieutenant Governor,,Democrat,Tim Johnson,5170
+Lee,LEE MS,Lieutenant Governor,,Republican,Tate Reeves,13487
+Lee,LEE MS,Lieutenant Governor,,Libertarian,Ron Williams,336
+Lee,LEE MS,Lieutenant Governor,,Reform,Rosa B. Williams,162
+Lee,LEE MS,Secretary of State,,Democrat,Charles E. Graham,4749
+Lee,LEE MS,Secretary of State,,Republican,Delbert Hosemann,14119
+Lee,LEE MS,Secretary of State,,Reform,Randy Walker,334
+Lee,LEE MS,Attorney General,,Democrat,Jim Hood,9626
+Lee,LEE MS,Attorney General,,Republican,Mike Hurst,9749
+Lee,LEE MS,State Auditor,,Republican,Stacey E. Pickering,14113
+Lee,LEE MS,State Auditor,,Democrat,Jocelyn 'Joce' Pepper Pritchett,4858
+Lee,LEE MS,State Auditor,,Reform,Lajena Walley,155
+Lee,LEE MS,State Treasurer,,Republican,Lynn Fitch,14493
+Lee,LEE MS,State Treasurer,,Reform,Viola McFarland,2279
+Lee,LEE MS,Commissioner of Agriculture & Commerce,,Democrat,Addie Lee Green,5290
+Lee,LEE MS,Commissioner of Agriculture & Commerce,,Republican,Cindy Hyde-Smith,12866
+Lee,LEE MS,Commissioner of Agriculture & Commerce,,Reform,Cathy L Toole,328
+Lee,LEE MS,Commissioner of Insurance,,Republican,Mike Chaney,15156
+Lee,LEE MS,State Senate,6,Republican,Chad McMahan,11639
+Lee,LEE MS,State Senate,7,Democrat,Hob Bryan,2432
+Lee,LEE MS,State Senate,7,Republican,Barry Strevel,1107
+Lee,LEE MS,State Senate,8,Democrat,Russell Jolly,1120
+Lee,LEE MS,State House,16,Democrat,Steve Holland,3466
+Lee,LEE MS,State House,17,Republican,Shane Aguirre,4384
+Lee,LEE MS,State House,17,Democrat,Clint Gannon,1400
+Lee,LEE MS,State House,18,Republican,Jerry Turner,4054
+Lee,LEE MS,State House,19,Republican,Randy Boyd,2493
+Lee,LEE MS,State House,19,Democrat,Clint Gannon,1526
+Lee,LEE MS,State House,20,Republican,Chris Brown,430
+Lee,LEE MS,State House,20,Democrat,William 'Bo' Miller,155
