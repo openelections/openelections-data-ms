@@ -1,4 +1,4 @@
-county,precinct,office,district,candidate,party,total
+county,precinct,office,district,candidate,party,votes
 Holmes,1 Acoma,Governor,,Phil  Bryant,Republican,95
 Holmes,1 Acoma,Governor,,Robert  Gray,Democrat,252
 Holmes,1 Acoma,Governor,,Shawn  O'Hara,Reform,10
@@ -291,8 +291,8 @@ Holmes,2 Lexington Sandhill,Commissioner of Agriculture & Commerce,,Addie Lee Gr
 Holmes,2 Lexington Sandhill,Commissioner of Agriculture & Commerce,,Cindy Hyde-Smith,Republican,0
 Holmes,2 Lexington Sandhill,Commissioner of Agriculture & Commerce,,Cathy L Toole,Reform,0
 Holmes,2 Lexington Sandhill,Commissioner of Insurance,,Mike Chaney,Republican,0
-Holmes,2 Lexington Sandhill,State Senate,,David Jordan,Democrat,0
-Holmes,2 Lexington Sandhill,State House,,Bryant Clark,Democrat,0
+Holmes,2 Lexington Sandhill,State Senate,24,David Jordan,Democrat,0
+Holmes,2 Lexington Sandhill,State House,47,Bryant Clark,Democrat,0
 Holmes,Beat 1 Lexington,State Treasurer,,Lynn Fitch,Republican,233
 Holmes,Beat 1 Lexington,State Treasurer,,Viola McFarland,Reform,193
 Holmes,Beat 1 Lexington,Commissioner of Agriculture & Commerce,,Addie Lee Green,Democrat,453

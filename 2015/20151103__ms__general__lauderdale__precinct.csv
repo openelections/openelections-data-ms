@@ -1,4 +1,4 @@
-county,precinct,office,district,party,candidate,total
+county,precinct,office,district,party,candidate,votes
 Lauderdale,101,Governor,,Republican,Phil Bryant,739
 Lauderdale,101,Governor,,Democrat,Robert Gray,196
 Lauderdale,101,Governor,,Reform,Shawn O'Hara,9
@@ -985,8 +985,8 @@ Lauderdale,361 Suqualena,State Senate,33,Democrat,Chase Callahan,155
 Lauderdale,361 Suqualena,State Senate,33,Republican,Violet Carmichael,703
 Lauderdale,361 Suqualena,State House,81,Republican,Stephen Horne,784
 Lauderdale,407,State Senate,32,Democrat,Sampson Jackson,214
-,407,State Senate,32,Republican,Don Wiggins,98
-Lauderdale,407,State Treasurer,82,Democrat,Charles Young,298
+Lauderdale,407,State Senate,32,Republican,Don Wiggins,98
+Lauderdale,407,State House,82,Democrat,Charles Young,298
 Lauderdale,408,State Senate,32,Democrat,Sampson Jackson,240
 Lauderdale,408,State Senate,32,Republican,Don Wiggins,110
 Lauderdale,408,State House,82,Democrat,Charles Young,333
