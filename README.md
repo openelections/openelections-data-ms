@@ -3,6 +3,40 @@ OpenElections Data Mississippi
 
 Converted CSVs of Mississippi election results.
 
+## Precinct Results
+
+| year  | general  | primary  |
+|---|---|---|
+| 2016  | done  |  done |
+| 2015  | done  |  [working](https://github.com/openelections/openelections-data-ms/issues/33) |
+| 2014  |  [working](https://github.com/openelections/openelections-data-ms/issues/31) | done  |
+| 2012  |  done | done |
+| 2011  |  [working](https://github.com/openelections/openelections-data-ms/issues/34) | not started |
+| 2010  |  not started | not started |
+| 2008  |  not started | not started |
+| 2007  |  not started | not started |
+
+
+## County Results
+
+| year  | general  | primary  |
+|---|---|---|
+| 2016  | [done](https://github.com/openelections/openelections-data-ms/blob/master/2016/20161108__ms__general.csv)  |  [done](https://github.com/openelections/openelections-data-ms/blob/master/2016/20160308__ms__primary.csv) |
+| 2015  |  not started | not started |
+| 2014 |  [done](https://github.com/openelections/openelections-data-ms/blob/master/2014/20141104__ms__general.csv) | not started  |
+| 2012  |  [done](https://github.com/openelections/openelections-data-ms/blob/master/2012/20121106__ms__general.csv) | not started |
+| 2011  |  [done](https://github.com/openelections/openelections-data-ms/blob/master/2011/20111108__ms__general.csv) | not started |
+| 2010  |  [done](https://github.com/openelections/openelections-data-ms/blob/master/2010/20101102__ms__general.csv) | [done](https://github.com/openelections/openelections-data-ms/blob/master/2010/20100601__ms__primary.csv) |
+| 2008  |  [done](https://github.com/openelections/openelections-data-ms/blob/master/2008/20081104__ms__general.csv) | done |
+| 2007  | [done](https://github.com/openelections/openelections-data-ms/blob/master/2007/20071106__ms__general.csv) | not started |
+| 2006  |  [done](https://github.com/openelections/openelections-data-ms/blob/master/2006/20061107__ms__general.csv) | not started |
+| 2004  |  not started | not started |
+| 2002  |  not started | not started |
+| 2000  |  not started | not started |
+
+To contribute, email openelections@gmail.com or [find us on Twitter](https://twitter.com/openelex) and let us know what counties/elections you'd like to work on. You also can leave a comment on one of the [issues](https://github.com/openelections/openelections-data-ms/issues) in this repository. Volunteers can do as much or as little as they like - one county or all of them.
+
+
 ### The Process
 
 TO BE CLEAR: This is data entry work. There is no magic here.
