@@ -1,513 +1,513 @@
-county,precinct,office,district,party,candidate,votes
-Panola,Pleasant Mount,Governor,,Republican,Phil Bryant,157
-,Pleasant Mount,Governor,,Democrat,Johnny L. DuPree,156
-,Pleasant Mount,Lieutenant Governor,,Republican,Tate Reeves,174
-,Pleasant Mount,Lieutenant Governor,,Reform,Tracella Lou O'Hara Hill,76
-,Pleasant Mount,Secretary of State,,Republican,Delbert Hosemann,203
-,Pleasant Mount,Attorney General,,Democrat,Jim Hood,190
-,Pleasant Mount,Attorney General,,Republican,Steve Simpson,109
-,Pleasant Mount,State Auditor,,Republican,Stacey E. Pickering,157
-,Pleasant Mount,State Auditor,,Reform,Ashley Norwood,78
-,Pleasant Mount,Treasurer,,Republican,Lynn Fitch,137
-,Pleasant Mount,Treasurer,,Democrat,Connie Moran,147
-,Pleasant Mount,Treasurer,,Reform,Shawn O'Hara,11
-,Pleasant Mount,Commissioner of Agriculture & Commerce,,Democrat,Joel Gill,162
-,Pleasant Mount,Commissioner of Agriculture & Commerce,,Republican,Cindy Hyde-Smith,118
-,Pleasant Mount,Commissioner of Agriculture & Commerce,,Reform,Cathy L. Toole,12
-,Pleasant Mount,Commissioner of Insurance,,Republican,Mike Chaney,146
-,Pleasant Mount,Commissioner of Insurance,,Democrat,Louis Fondren,124
-,Pleasant Mount,Commissioner of Insurance,,Reform,Barbara Dale Washer,21
-,Pleasant Mount,State Senate,,Republican,Vann J. Branch,94
-,Pleasant Mount,State Senate,,Democrat,Steve Hale,210
-,East Sardis,Governor,,Republican,Phil Bryant,304
-,East Sardis,Governor,,Democrat,Johnny L. DuPree,55
-,East Sardis,Lieutenant Governor,,Republican,Tate Reeves,323
-,East Sardis,Lieutenant Governor,,Reform,Tracella Lou O'Hara Hill,23
-,East Sardis,Secretary of State,,Republican,Delbert Hosemann,309
-,East Sardis,Attorney General,,Democrat,Jim Hood,159
-,East Sardis,Attorney General,,Republican,Steve Simpson,189
-,East Sardis,State Auditor,,Republican,Stacey E. Pickering,289
-,East Sardis,State Auditor,,Reform,Ashley Norwood,48
-,East Sardis,Treasurer,,Republican,Lynn Fitch,256
-,East Sardis,Treasurer,,Democrat,Connie Moran,79
-,East Sardis,Treasurer,,Reform,Shawn O'Hara,13
-,East Sardis,Commissioner of Agriculture & Commerce,,Democrat,Joel Gill,97
-,East Sardis,Commissioner of Agriculture & Commerce,,Republican,Cindy Hyde-Smith,242
-,East Sardis,Commissioner of Agriculture & Commerce,,Reform,Cathy L. Toole,8
-,East Sardis,Commissioner of Insurance,,Republican,Mike Chaney,282
-,East Sardis,Commissioner of Insurance,,Democrat,Louis Fondren,53
-,East Sardis,Commissioner of Insurance,,Reform,Barbara Dale Washer,13
-,East Sardis,State Senate,,Republican,Vann J. Branch,196
-,East Sardis,State Senate,,Democrat,Steve Hale,165
-,East Sardis,State House,,Democrat,Greg Hodges,89
-,East Sardis,State House,,Republican,Nolan Mettetal,272
-,West Sardis,Governor,,Republican,Phil Bryant,87
-,West Sardis,Governor,,Democrat,Johnny L. DuPree,458
-,West Sardis,Lieutenant Governor,,Republican,Tate Reeves,166
-,West Sardis,Lieutenant Governor,,Reform,Tracella Lou O'Hara Hill,185
-,West Sardis,Secretary of State,,Republican,Delbert Hosemann,241
-,West Sardis,Attorney General,,Democrat,Jim Hood,435
-,West Sardis,Attorney General,,Republican,Steve Simpson,80
-,West Sardis,State Auditor,,Republican,Stacey E. Pickering,125
-,West Sardis,State Auditor,,Reform,Ashley Norwood,207
-,West Sardis,Treasurer,,Republican,Lynn Fitch,85
-,West Sardis,Treasurer,,Democrat,Connie Moran,415
-,West Sardis,Treasurer,,Reform,Shawn O'Hara,17
-,West Sardis,Commissioner of Agriculture & Commerce,,Democrat,Joel Gill,422
-,West Sardis,Commissioner of Agriculture & Commerce,,Republican,Cindy Hyde-Smith,77
-,West Sardis,Commissioner of Agriculture & Commerce,,Reform,Cathy L. Toole,15
-,West Sardis,Commissioner of Insurance,,Republican,Mike Chaney,95
-,West Sardis,Commissioner of Insurance,,Democrat,Louis Fondren,397
-,West Sardis,Commissioner of Insurance,,Reform,Barbara Dale Washer,16
-,West Sardis,State Senate,,Republican,Vann J. Branch,52
-,West Sardis,State Senate,,Democrat,Steve Hale,457
-,West Sardis,State House,,Democrat,Clara Henderson Burnett,19
-,Cold Springs,Governor,,Republican,Phil Bryant,72
-,Cold Springs,Governor,,Democrat,Johnny L. DuPree,169
-,Cold Springs,Lieutenant Governor,,Republican,Tate Reeves,100
-,Cold Springs,Lieutenant Governor,,Reform,Tracella Lou O'Hara Hill,65
-,Cold Springs,Secretary of State,,Republican,Delbert Hosemann,132
-,Cold Springs,Attorney General,,Democrat,Jim Hood,182
-,Cold Springs,Attorney General,,Republican,Steve Simpson,48
-,Cold Springs,State Auditor,,Republican,Stacey E. Pickering,66
-,Cold Springs,State Auditor,,Reform,Ashley Norwood,98
-,Cold Springs,Treasurer,,Republican,Lynn Fitch,60
-,Cold Springs,Treasurer,,Democrat,Connie Moran,169
-,Cold Springs,Treasurer,,Reform,Shawn O'Hara,2
-,Cold Springs,Commissioner of Agriculture & Commerce,,Democrat,Joel Gill,165
-,Cold Springs,Commissioner of Agriculture & Commerce,,Republican,Cindy Hyde-Smith,55
-,Cold Springs,Commissioner of Agriculture & Commerce,,Reform,Cathy L. Toole,10
-,Cold Springs,Commissioner of Insurance,,Republican,Mike Chaney,66
-,Cold Springs,Commissioner of Insurance,,Democrat,Louis Fondren,155
-,Cold Springs,Commissioner of Insurance,,Reform,Barbara Dale Washer,9
-,Cold Springs,State Senate,,Republican,Vann J. Branch,53
-,Cold Springs,State Senate,,Democrat,Steve Hale,175
-,Cold Springs,State House,,Democrat,Greg Hodges,159
-,Cold Springs,State House,,Republican,Nolan Mettetal,79
-,South Sardis ,Governor,,Republican,Phil Bryant,280
-,South Sardis ,Governor,,Democrat,Johnny L. DuPree,626
-,South Sardis ,Lieutenant Governor,,Republican,Tate Reeves,378
-,South Sardis ,Lieutenant Governor,,Reform,Tracella Lou O'Hara Hill,253
-,South Sardis ,Secretary of State,,Republican,Delbert Hosemann,492
-,South Sardis ,Attorney General,,Democrat,Jim Hood,658
-,South Sardis ,Attorney General,,Republican,Steve Simpson,200
-,South Sardis ,State Auditor,,Republican,Stacey E. Pickering,306
-,South Sardis ,State Auditor,,Reform,Ashley Norwood,304
-,South Sardis ,Treasurer,,Republican,Lynn Fitch,266
-,South Sardis ,Treasurer,,Democrat,Connie Moran,567
-,South Sardis ,Treasurer,,Reform,Shawn O'Hara,27
-,South Sardis ,Commissioner of Agriculture & Commerce,,Democrat,Joel Gill,594
-,South Sardis ,Commissioner of Agriculture & Commerce,,Republican,Cindy Hyde-Smith,226
-,South Sardis ,Commissioner of Agriculture & Commerce,,Reform,Cathy L. Toole,21
-,South Sardis ,Commissioner of Insurance,,Republican,Mike Chaney,279
-,South Sardis ,Commissioner of Insurance,,Democrat,Louis Fondren,556
-,South Sardis ,Commissioner of Insurance,,Reform,Barbara Dale Washer,28
-,South Sardis ,State Senate,,Republican,Vann J. Branch,172
-,South Sardis ,State Senate,,Democrat,Steve Hale,685
-,South Sardis ,State House,,Democrat,Greg Hodges,23
-,South Sardis ,State House,,Republican,Nolan Mettetal,14
-,Pleasant Grove,Governor,,Republican,Phil Bryant,132
-,Pleasant Grove,Governor,,Democrat,Johnny L. DuPree,63
-,Pleasant Grove,Lieutenant Governor,,Republican,Tate Reeves,139
-,Pleasant Grove,Lieutenant Governor,,Reform,Tracella Lou O'Hara Hill,23
-,Pleasant Grove,Secretary of State,,Republican,Delbert Hosemann,130
-,Pleasant Grove,Attorney General,,Democrat,Jim Hood,94
-,Pleasant Grove,Attorney General,,Republican,Steve Simpson,89
-,Pleasant Grove,State Auditor,,Republican,Stacey E. Pickering,119
-,Pleasant Grove,State Auditor,,Reform,Ashley Norwood,36
-,Pleasant Grove,Treasurer,,Republican,Lynn Fitch,108
-,Pleasant Grove,Treasurer,,Democrat,Connie Moran,71
-,Pleasant Grove,Treasurer,,Reform,Shawn O'Hara,4
-,Pleasant Grove,Commissioner of Agriculture & Commerce,,Democrat,Joel Gill,81
-,Pleasant Grove,Commissioner of Agriculture & Commerce,,Republican,Cindy Hyde-Smith,96
-,Pleasant Grove,Commissioner of Agriculture & Commerce,,Reform,Cathy L. Toole,4
-,Pleasant Grove,Commissioner of Insurance,,Republican,Mike Chaney,116
-,Pleasant Grove,Commissioner of Insurance,,Democrat,Louis Fondren,65
-,Pleasant Grove,Commissioner of Insurance,,Reform,Barbara Dale Washer,4
-,Pleasant Grove,State Senate,,Republican,Vann J. Branch,89
-,Pleasant Grove,State Senate,,Democrat,Steve Hale,102
-,Longtown,Governor,,Republican,Phil Bryant,94
-,Longtown,Governor,,Democrat,Johnny L. DuPree,123
-,Longtown,Lieutenant Governor,,Republican,Tate Reeves,115
-,Longtown,Lieutenant Governor,,Reform,Tracella Lou O'Hara Hill,47
-,Longtown,Secretary of State,,Republican,Delbert Hosemann,134
-,Longtown,Attorney General,,Democrat,Jim Hood,138
-,Longtown,Attorney General,,Republican,Steve Simpson,64
-,Longtown,State Auditor,,Republican,Stacey E. Pickering,103
-,Longtown,State Auditor,,Reform,Ashley Norwood,53
-,Longtown,Treasurer,,Republican,Lynn Fitch,81
-,Longtown,Treasurer,,Democrat,Connie Moran,115
-,Longtown,Treasurer,,Reform,Shawn O'Hara,6
-,Longtown,Commissioner of Agriculture & Commerce,,Democrat,Joel Gill,122
-,Longtown,Commissioner of Agriculture & Commerce,,Republican,Cindy Hyde-Smith,68
-,Longtown,Commissioner of Agriculture & Commerce,,Reform,Cathy L. Toole,7
-,Longtown,Commissioner of Insurance,,Republican,Mike Chaney,90
-,Longtown,Commissioner of Insurance,,Democrat,Louis Fondren,102
-,Longtown,Commissioner of Insurance,,Reform,Barbara Dale Washer,7
-,Longtown,State Senate,,Republican,Vann J. Branch,68
-,Longtown,State Senate,,Democrat,Steve Hale,139
-,Longtown,State House,,Democrat,Clara Henderson Burnett,158
-,Crenshaw,Governor,,Republican,Phil Bryant,141
-,Crenshaw,Governor,,Democrat,Johnny L. DuPree,162
-,Crenshaw,Lieutenant Governor,,Republican,Tate Reeves,163
-,Crenshaw,Lieutenant Governor,,Reform,Tracella Lou O'Hara Hill,72
-,Crenshaw,Secretary of State,,Republican,Delbert Hosemann,201
-,Crenshaw,Attorney General,,Democrat,Jim Hood,203
-,Crenshaw,Attorney General,,Republican,Steve Simpson,82
-,Crenshaw,State Auditor,,Republican,Stacey E. Pickering,142
-,Crenshaw,State Auditor,,Reform,Ashley Norwood,97
-,Crenshaw,Treasurer,,Republican,Lynn Fitch,123
-,Crenshaw,Treasurer,,Democrat,Connie Moran,154
-,Crenshaw,Treasurer,,Reform,Shawn O'Hara,8
-,Crenshaw,Commissioner of Agriculture & Commerce,,Democrat,Joel Gill,177
-,Crenshaw,Commissioner of Agriculture & Commerce,,Republican,Cindy Hyde-Smith,95
-,Crenshaw,Commissioner of Agriculture & Commerce,,Reform,Cathy L. Toole,9
-,Crenshaw,Commissioner of Insurance,,Republican,Mike Chaney,132
-,Crenshaw,Commissioner of Insurance,,Democrat,Louis Fondren,143
-,Crenshaw,Commissioner of Insurance,,Reform,Barbara Dale Washer,9
-,Crenshaw,State Senate,,Republican,Vann J. Branch,82
-,Crenshaw,State Senate,,Democrat,Steve Hale,208
-,Crenshaw,State House,,Democrat,Clara Henderson Burnett,246
-,Curtis,Governor,,Republican,Phil Bryant,101
-,Curtis,Governor,,Democrat,Johnny L. DuPree,339
-,Curtis,Lieutenant Governor,,Republican,Tate Reeves,146
-,Curtis,Lieutenant Governor,,Reform,Tracella Lou O'Hara Hill,127
-,Curtis,Secretary of State,,Republican,Delbert Hosemann,217
-,Curtis,Attorney General,,Democrat,Jim Hood,352
-,Curtis,Attorney General,,Republican,Steve Simpson,65
-,Curtis,State Auditor,,Republican,Stacey E. Pickering,117
-,Curtis,State Auditor,,Reform,Ashley Norwood,154
-,Curtis,Treasurer,,Republican,Lynn Fitch,82
-,Curtis,Treasurer,,Democrat,Connie Moran,328
-,Curtis,Treasurer,,Reform,Shawn O'Hara,14
-,Curtis,Commissioner of Agriculture & Commerce,,Democrat,Joel Gill,332
-,Curtis,Commissioner of Agriculture & Commerce,,Republican,Cindy Hyde-Smith,68
-,Curtis,Commissioner of Agriculture & Commerce,,Reform,Cathy L. Toole,7
-,Curtis,Commissioner of Insurance,,Republican,Mike Chaney,86
-,Curtis,Commissioner of Insurance,,Democrat,Louis Fondren,312
-,Curtis,Commissioner of Insurance,,Reform,Barbara Dale Washer,14
-,Curtis,State Senate,,Republican,Vann J. Branch,61
-,Curtis,State Senate,,Democrat,Steve Hale,359
-,Macedonia-Concord,Governor,,Republican,Phil Bryant,41
-,Macedonia-Concord,Governor,,Democrat,Johnny L. DuPree,216
-,Macedonia-Concord,Lieutenant Governor,,Republican,Tate Reeves,94
-,Macedonia-Concord,Lieutenant Governor,,Reform,Tracella Lou O'Hara Hill,75
-,Macedonia-Concord,Secretary of State,,Republican,Delbert Hosemann,130
-,Macedonia-Concord,Attorney General,,Democrat,Jim Hood,222
-,Macedonia-Concord,Attorney General,,Republican,Steve Simpson,28
-,Macedonia-Concord,State Auditor,,Republican,Stacey E. Pickering,86
-,Macedonia-Concord,State Auditor,,Reform,Ashley Norwood,86
-,Macedonia-Concord,Treasurer,,Republican,Lynn Fitch,43
-,Macedonia-Concord,Treasurer,,Democrat,Connie Moran,198
-,Macedonia-Concord,Treasurer,,Reform,Shawn O'Hara,7
-,Macedonia-Concord,Commissioner of Agriculture & Commerce,,Democrat,Joel Gill,203
-,Macedonia-Concord,Commissioner of Agriculture & Commerce,,Republican,Cindy Hyde-Smith,35
-,Macedonia-Concord,Commissioner of Agriculture & Commerce,,Reform,Cathy L. Toole,7
-,Macedonia-Concord,Commissioner of Insurance,,Republican,Mike Chaney,44
-,Macedonia-Concord,Commissioner of Insurance,,Democrat,Louis Fondren,198
-,Macedonia-Concord,Commissioner of Insurance,,Reform,Barbara Dale Washer,5
-,Macedonia-Concord,State Senate,,Republican,Vann J. Branch,34
-,Macedonia-Concord,State Senate,,Democrat,Steve Hale,218
-,Batesville # 3,Governor,,Republican,Phil Bryant,443
-,Batesville # 3,Governor,,Democrat,Johnny L. DuPree,120
-,Batesville # 3,Lieutenant Governor,,Republican,Tate Reeves,463
-,Batesville # 3,Lieutenant Governor,,Reform,Tracella Lou O'Hara Hill,25
-,Batesville # 3,Secretary of State,,Republican,Delbert Hosemann,453
-,Batesville # 3,Attorney General,,Democrat,Jim Hood,280
-,Batesville # 3,Attorney General,,Republican,Steve Simpson,269
-,Batesville # 3,State Auditor,,Republican,Stacey E. Pickering,415
-,Batesville # 3,State Auditor,,Reform,Ashley Norwood,64
-,Batesville # 3,Treasurer,,Republican,Lynn Fitch,378
-,Batesville # 3,Treasurer,,Democrat,Connie Moran,137
-,Batesville # 3,Treasurer,,Reform,Shawn O'Hara,19
-,Batesville # 3,Commissioner of Agriculture & Commerce,,Democrat,Joel Gill,183
-,Batesville # 3,Commissioner of Agriculture & Commerce,,Republican,Cindy Hyde-Smith,332
-,Batesville # 3,Commissioner of Agriculture & Commerce,,Reform,Cathy L. Toole,10
-,Batesville # 3,Commissioner of Insurance,,Republican,Mike Chaney,414
-,Batesville # 3,Commissioner of Insurance,,Democrat,Louis Fondren,108
-,Batesville # 3,Commissioner of Insurance,,Reform,Barbara Dale Washer,11
-,Batesville # 3,State Senate,,Republican,Vann J. Branch,278
-,Batesville # 3,State Senate,,Democrat,Steve Hale,276
-,Batesville # 3,State House,,Democrat,Greg Hodges,66
-,Batesville # 3,State House,,Republican,Nolan Mettetal,213
-,Courtland,Governor,,Republican,Phil Bryant,302
-,Courtland,Governor,,Democrat,Johnny L. DuPree,678
-,Courtland,Lieutenant Governor,,Republican,Tate Reeves,451
-,Courtland,Lieutenant Governor,,Reform,Tracella Lou O'Hara Hill,260
-,Courtland,Secretary of State,,Republican,Delbert Hosemann,566
-,Courtland,Attorney General,,Democrat,Jim Hood,732
-,Courtland,Attorney General,,Republican,Steve Simpson,207
-,Courtland,State Auditor,,Republican,Stacey E. Pickering,342
-,Courtland,State Auditor,,Reform,Ashley Norwood,351
-,Courtland,Treasurer,,Republican,Lynn Fitch,255
-,Courtland,Treasurer,,Democrat,Connie Moran,640
-,Courtland,Treasurer,,Reform,Shawn O'Hara,43
-,Courtland,Commissioner of Agriculture & Commerce,,Democrat,Joel Gill,675
-,Courtland,Commissioner of Agriculture & Commerce,,Republican,Cindy Hyde-Smith,233
-,Courtland,Commissioner of Agriculture & Commerce,,Reform,Cathy L. Toole,33
-,Courtland,Commissioner of Insurance,,Republican,Mike Chaney,310
-,Courtland,Commissioner of Insurance,,Democrat,Louis Fondren,597
-,Courtland,Commissioner of Insurance,,Reform,Barbara Dale Washer,35
-,Courtland,State Senate,,Republican,Vann J. Branch,189
-,Courtland,State Senate,,Democrat,Steve Hale,764
-,Courtland,State House,,Democrat,Greg Hodges,225
-,Courtland,State House,,Republican,Nolan Mettetal,129
-,Pope,Governor,,Republican,Phil Bryant,491
-,Pope,Governor,,Democrat,Johnny L. DuPree,221
-,Pope,Lieutenant Governor,,Republican,Tate Reeves,539
-,Pope,Lieutenant Governor,,Reform,Tracella Lou O'Hara Hill,84
-,Pope,Secretary of State,,Republican,Delbert Hosemann,567
-,Pope,Attorney General,,Democrat,Jim Hood,420
-,Pope,Attorney General,,Republican,Steve Simpson,266
-,Pope,State Auditor,,Republican,Stacey E. Pickering,458
-,Pope,State Auditor,,Reform,Ashley Norwood,164
-,Pope,Treasurer,,Republican,Lynn Fitch,403
-,Pope,Treasurer,,Democrat,Connie Moran,245
-,Pope,Treasurer,,Reform,Shawn O'Hara,40
-,Pope,Commissioner of Agriculture & Commerce,,Democrat,Joel Gill,270
-,Pope,Commissioner of Agriculture & Commerce,,Republican,Cindy Hyde-Smith,372
-,Pope,Commissioner of Agriculture & Commerce,,Reform,Cathy L. Toole,29
-,Pope,Commissioner of Insurance,,Republican,Mike Chaney,468
-,Pope,Commissioner of Insurance,,Democrat,Louis Fondren,199
-,Pope,Commissioner of Insurance,,Reform,Barbara Dale Washer,17
-,Pope,State Senate,,Republican,Vann J. Branch,298
-,Pope,State Senate,,Democrat,Steve Hale,396
-,Pope,State House,,Democrat,Greg Hodges,308
-,Pope,State House,,Republican,Nolan Mettetal,391
-,Tocowa,Governor,,Republican,Phil Bryant,555
-,Tocowa,Governor,,Democrat,Johnny L. DuPree,192
-,Tocowa,Lieutenant Governor,,Republican,Tate Reeves,593
-,Tocowa,Lieutenant Governor,,Reform,Tracella Lou O'Hara Hill,85
-,Tocowa,Secretary of State,,Republican,Delbert Hosemann,610
-,Tocowa,Attorney General,,Democrat,Jim Hood,413
-,Tocowa,Attorney General,,Republican,Steve Simpson,314
-,Tocowa,State Auditor,,Republican,Stacey E. Pickering,533
-,Tocowa,State Auditor,,Reform,Ashley Norwood,133
-,Tocowa,Treasurer,,Republican,Lynn Fitch,478
-,Tocowa,Treasurer,,Democrat,Connie Moran,212
-,Tocowa,Treasurer,,Reform,Shawn O'Hara,19
-,Tocowa,Commissioner of Agriculture & Commerce,,Democrat,Joel Gill,259
-,Tocowa,Commissioner of Agriculture & Commerce,,Republican,Cindy Hyde-Smith,418
-,Tocowa,Commissioner of Agriculture & Commerce,,Reform,Cathy L. Toole,31
-,Tocowa,Commissioner of Insurance,,Republican,Mike Chaney,517
-,Tocowa,Commissioner of Insurance,,Democrat,Louis Fondren,167
-,Tocowa,Commissioner of Insurance,,Reform,Barbara Dale Washer,26
-,Tocowa,State Senate,,Republican,Vann J. Branch,328
-,Tocowa,State Senate,,Democrat,Steve Hale,402
-,Tocowa,State House,,Democrat,Greg Hodges,169
-,Tocowa,State House,,Republican,Nolan Mettetal,306
-,East Batesville # 4,Governor,,Republican,Phil Bryant,414
-,East Batesville # 4,Governor,,Democrat,Johnny L. DuPree,95
-,East Batesville # 4,Lieutenant Governor,,Republican,Tate Reeves,421
-,East Batesville # 4,Lieutenant Governor,,Reform,Tracella Lou O'Hara Hill,45
-,East Batesville # 4,Secretary of State,,Republican,Delbert Hosemann,433
-,East Batesville # 4,Attorney General,,Democrat,Jim Hood,216
-,East Batesville # 4,Attorney General,,Republican,Steve Simpson,285
-,East Batesville # 4,State Auditor,,Republican,Stacey E. Pickering,402
-,East Batesville # 4,State Auditor,,Reform,Ashley Norwood,64
-,East Batesville # 4,Treasurer,,Republican,Lynn Fitch,356
-,East Batesville # 4,Treasurer,,Democrat,Connie Moran,120
-,East Batesville # 4,Treasurer,,Reform,Shawn O'Hara,12
-,East Batesville # 4,Commissioner of Agriculture & Commerce,,Democrat,Joel Gill,142
-,East Batesville # 4,Commissioner of Agriculture & Commerce,,Republican,Cindy Hyde-Smith,342
-,East Batesville # 4,Commissioner of Agriculture & Commerce,,Reform,Cathy L. Toole,9
-,East Batesville # 4,Commissioner of Insurance,,Republican,Mike Chaney,391
-,East Batesville # 4,Commissioner of Insurance,,Democrat,Louis Fondren,93
-,East Batesville # 4,Commissioner of Insurance,,Reform,Barbara Dale Washer,6
-,East Batesville # 4,State Senate,,Republican,Vann J. Branch,260
-,East Batesville # 4,State Senate,,Democrat,Steve Hale,245
-,East Batesville # 4,State House,,Democrat,Greg Hodges,149
-,East Batesville # 4,State House,,Republican,Nolan Mettetal,355
-,Eureka,Governor,,Republican,Phil Bryant,599
-,Eureka,Governor,,Democrat,Johnny L. DuPree,158
-,Eureka,Lieutenant Governor,,Republican,Tate Reeves,614
-,Eureka,Lieutenant Governor,,Reform,Tracella Lou O'Hara Hill,79
-,Eureka,Secretary of State,,Republican,Delbert Hosemann,624
-,Eureka,Attorney General,,Democrat,Jim Hood,352
-,Eureka,Attorney General,,Republican,Steve Simpson,381
-,Eureka,State Auditor,,Republican,Stacey E. Pickering,561
-,Eureka,State Auditor,,Reform,Ashley Norwood,118
-,Eureka,Treasurer,,Republican,Lynn Fitch,507
-,Eureka,Treasurer,,Democrat,Connie Moran,192
-,Eureka,Treasurer,,Reform,Shawn O'Hara,25
-,Eureka,Commissioner of Agriculture & Commerce,,Democrat,Joel Gill,246
-,Eureka,Commissioner of Agriculture & Commerce,,Republican,Cindy Hyde-Smith,448
-,Eureka,Commissioner of Agriculture & Commerce,,Reform,Cathy L. Toole,23
-,Eureka,Commissioner of Insurance,,Republican,Mike Chaney,557
-,Eureka,Commissioner of Insurance,,Democrat,Louis Fondren,142
-,Eureka,Commissioner of Insurance,,Reform,Barbara Dale Washer,19
-,Eureka,State Senate,,Republican,Vann J. Branch,415
-,Eureka,State Senate,,Democrat,Steve Hale,328
-,Eureka,State House,,Democrat,Greg Hodges,287
-,Eureka,State House,,Republican,Nolan Mettetal,458
-,North Springport,Governor,,Republican,Phil Bryant,414
-,North Springport,Governor,,Democrat,Johnny L. DuPree,203
-,North Springport,Lieutenant Governor,,Republican,Tate Reeves,465
-,North Springport,Lieutenant Governor,,Reform,Tracella Lou O'Hara Hill,90
-,North Springport,Secretary of State,,Republican,Delbert Hosemann,464
-,North Springport,Attorney General,,Democrat,Jim Hood,335
-,North Springport,Attorney General,,Republican,Steve Simpson,263
-,North Springport,State Auditor,,Republican,Stacey E. Pickering,386
-,North Springport,State Auditor,,Reform,Ashley Norwood,151
-,North Springport,Treasurer,,Republican,Lynn Fitch,339
-,North Springport,Treasurer,,Democrat,Connie Moran,217
-,North Springport,Treasurer,,Reform,Shawn O'Hara,27
-,North Springport,Commissioner of Agriculture & Commerce,,Democrat,Joel Gill,278
-,North Springport,Commissioner of Agriculture & Commerce,,Republican,Cindy Hyde-Smith,280
-,North Springport,Commissioner of Agriculture & Commerce,,Reform,Cathy L. Toole,20
-,North Springport,Commissioner of Insurance,,Republican,Mike Chaney,370
-,North Springport,Commissioner of Insurance,,Democrat,Louis Fondren,200
-,North Springport,Commissioner of Insurance,,Reform,Barbara Dale Washer,20
-,North Springport,State Senate,,Republican,Vann J. Branch,298
-,North Springport,State Senate,,Democrat,Steve Hale,309
-,North Springport,State House,,Democrat,Greg Hodges,238
-,North Springport,State House,,Republican,Nolan Mettetal,379
-,South Springport,Governor,,Republican,Phil Bryant,540
-,South Springport,Governor,,Democrat,Johnny L. DuPree,262
-,South Springport,Lieutenant Governor,,Republican,Tate Reeves,591
-,South Springport,Lieutenant Governor,,Reform,Tracella Lou O'Hara Hill,132
-,South Springport,Secretary of State,,Republican,Delbert Hosemann,629
-,South Springport,Attorney General,,Democrat,Jim Hood,447
-,South Springport,Attorney General,,Republican,Steve Simpson,330
-,South Springport,State Auditor,,Republican,Stacey E. Pickering,505
-,South Springport,State Auditor,,Reform,Ashley Norwood,193
-,South Springport,Treasurer,,Republican,Lynn Fitch,449
-,South Springport,Treasurer,,Democrat,Connie Moran,291
-,South Springport,Treasurer,,Reform,Shawn O'Hara,27
-,South Springport,Commissioner of Agriculture & Commerce,,Democrat,Joel Gill,363
-,South Springport,Commissioner of Agriculture & Commerce,,Republican,Cindy Hyde-Smith,371
-,South Springport,Commissioner of Agriculture & Commerce,,Reform,Cathy L. Toole,30
-,South Springport,Commissioner of Insurance,,Republican,Mike Chaney,499
-,South Springport,Commissioner of Insurance,,Democrat,Louis Fondren,236
-,South Springport,Commissioner of Insurance,,Reform,Barbara Dale Washer,35
-,South Springport,State Senate,,Republican,Vann J. Branch,390
-,South Springport,State Senate,,Democrat,Steve Hale,401
-,South Springport,State House,,Democrat,Greg Hodges,343
-,South Springport,State House,,Republican,Nolan Mettetal,446
-,Cole's Point,Governor,,Republican,Phil Bryant,262
-,Cole's Point,Governor,,Democrat,Johnny L. DuPree,38
-,Cole's Point,Lieutenant Governor,,Republican,Tate Reeves,261
-,Cole's Point,Lieutenant Governor,,Reform,Tracella Lou O'Hara Hill,20
-,Cole's Point,Secretary of State,,Republican,Delbert Hosemann,249
-,Cole's Point,Attorney General,,Democrat,Jim Hood,139
-,Cole's Point,Attorney General,,Republican,Steve Simpson,151
-,Cole's Point,State Auditor,,Republican,Stacey E. Pickering,218
-,Cole's Point,State Auditor,,Reform,Ashley Norwood,57
-,Cole's Point,Treasurer,,Republican,Lynn Fitch,197
-,Cole's Point,Treasurer,,Democrat,Connie Moran,60
-,Cole's Point,Treasurer,,Reform,Shawn O'Hara,23
-,Cole's Point,Commissioner of Agriculture & Commerce,,Democrat,Joel Gill,69
-,Cole's Point,Commissioner of Agriculture & Commerce,,Republican,Cindy Hyde-Smith,188
-,Cole's Point,Commissioner of Agriculture & Commerce,,Reform,Cathy L. Toole,17
-,Cole's Point,Commissioner of Insurance,,Republican,Mike Chaney,223
-,Cole's Point,Commissioner of Insurance,,Democrat,Louis Fondren,33
-,Cole's Point,Commissioner of Insurance,,Reform,Barbara Dale Washer,23
-,Cole's Point,State Senate,,Republican,Vann J. Branch,174
-,Cole's Point,State Senate,,Democrat,Steve Hale,112
-,Cole's Point,State House,,Democrat,Greg Hodges,83
-,Cole's Point,State House,,Republican,Nolan Mettetal,211
-,East Batesville,Governor,,Republican,Phil Bryant,830
-,East Batesville,Governor,,Democrat,Johnny L. DuPree,145
-,East Batesville,Lieutenant Governor,,Republican,Tate Reeves,865
-,East Batesville,Lieutenant Governor,,Reform,Tracella Lou O'Hara Hill,57
-,East Batesville,Secretary of State,,Republican,Delbert Hosemann,837
-,East Batesville,Attorney General,,Democrat,Jim Hood,421
-,East Batesville,Attorney General,,Republican,Steve Simpson,533
-,East Batesville,State Auditor,,Republican,Stacey E. Pickering,787
-,East Batesville,State Auditor,,Reform,Ashley Norwood,113
-,East Batesville,Treasurer,,Republican,Lynn Fitch,713
-,East Batesville,Treasurer,,Democrat,Connie Moran,187
-,East Batesville,Treasurer,,Reform,Shawn O'Hara,29
-,East Batesville,Commissioner of Agriculture & Commerce,,Democrat,Joel Gill,251
-,East Batesville,Commissioner of Agriculture & Commerce,,Republican,Cindy Hyde-Smith,650
-,East Batesville,Commissioner of Agriculture & Commerce,,Reform,Cathy L. Toole,23
-,East Batesville,Commissioner of Insurance,,Republican,Mike Chaney,770
-,East Batesville,Commissioner of Insurance,,Democrat,Louis Fondren,137
-,East Batesville,Commissioner of Insurance,,Reform,Barbara Dale Washer,21
-,East Batesville,State Senate,,Republican,Vann J. Branch,529
-,East Batesville,State Senate,,Democrat,Steve Hale,421
-,East Batesville,State House,,Democrat,Greg Hodges,255
-,East Batesville,State House,,Republican,Nolan Mettetal,631
-,North Batesville # A,Governor,,Republican,Phil Bryant,482
-,North Batesville # A,Governor,,Democrat,Johnny L. DuPree,202
-,North Batesville # A,Lieutenant Governor,,Republican,Tate Reeves,521
-,North Batesville # A,Lieutenant Governor,,Reform,Tracella Lou O'Hara Hill,99
-,North Batesville # A,Secretary of State,,Republican,Delbert Hosemann,560
-,North Batesville # A,Attorney General,,Democrat,Jim Hood,388
-,North Batesville # A,Attorney General,,Republican,Steve Simpson,276
-,North Batesville # A,State Auditor,,Republican,Stacey E. Pickering,461
-,North Batesville # A,State Auditor,,Reform,Ashley Norwood,149
-,North Batesville # A,Treasurer,,Republican,Lynn Fitch,421
-,North Batesville # A,Treasurer,,Democrat,Connie Moran,220
-,North Batesville # A,Treasurer,,Reform,Shawn O'Hara,25
-,North Batesville # A,Commissioner of Agriculture & Commerce,,Democrat,Joel Gill,269
-,North Batesville # A,Commissioner of Agriculture & Commerce,,Republican,Cindy Hyde-Smith,354
-,North Batesville # A,Commissioner of Agriculture & Commerce,,Reform,Cathy L. Toole,33
-,North Batesville # A,Commissioner of Insurance,,Republican,Mike Chaney,457
-,North Batesville # A,Commissioner of Insurance,,Democrat,Louis Fondren,189
-,North Batesville # A,Commissioner of Insurance,,Reform,Barbara Dale Washer,23
-,North Batesville # A,State Senate,,Republican,Vann J. Branch,298
-,North Batesville # A,State Senate,,Democrat,Steve Hale,375
-,North Batesville # A,State House,,Democrat,Greg Hodges,85
-,North Batesville # A,State House,,Republican,Nolan Mettetal,254
-,North Batesville # B,Governor,,Republican,Phil Bryant,146
-,North Batesville # B,Governor,,Democrat,Johnny L. DuPree,747
-,North Batesville # B,Lieutenant Governor,,Republican,Tate Reeves,279
-,North Batesville # B,Lieutenant Governor,,Reform,Tracella Lou O'Hara Hill,294
-,North Batesville # B,Secretary of State,,Republican,Delbert Hosemann,421
-,North Batesville # B,Attorney General,,Democrat,Jim Hood,719
-,North Batesville # B,Attorney General,,Republican,Steve Simpson,132
-,North Batesville # B,State Auditor,,Republican,Stacey E. Pickering,182
-,North Batesville # B,State Auditor,,Reform,Ashley Norwood,380
-,North Batesville # B,Treasurer,,Republican,Lynn Fitch,145
-,North Batesville # B,Treasurer,,Democrat,Connie Moran,677
-,North Batesville # B,Treasurer,,Reform,Shawn O'Hara,31
-,North Batesville # B,Commissioner of Agriculture & Commerce,,Democrat,Joel Gill,682
-,North Batesville # B,Commissioner of Agriculture & Commerce,,Republican,Cindy Hyde-Smith,143
-,North Batesville # B,Commissioner of Agriculture & Commerce,,Reform,Cathy L. Toole,23
-,North Batesville # B,Commissioner of Insurance,,Republican,Mike Chaney,133
-,North Batesville # B,Commissioner of Insurance,,Democrat,Louis Fondren,689
-,North Batesville # B,Commissioner of Insurance,,Reform,Barbara Dale Washer,35
-,North Batesville # B,State Senate,,Republican,Vann J. Branch,106
-,North Batesville # B,State Senate,,Democrat,Steve Hale,751
-,Enon,Governor,,Republican,Phil Bryant,83
-,Enon,Governor,,Democrat,Johnny L. DuPree,34
-,Enon,Lieutenant Governor,,Republican,Tate Reeves,86
-,Enon,Lieutenant Governor,,Reform,Tracella Lou O'Hara Hill,23
-,Enon,Secretary of State,,Republican,Delbert Hosemann,97
-,Enon,Attorney General,,Democrat,Jim Hood,63
-,Enon,Attorney General,,Republican,Steve Simpson,49
-,Enon,State Auditor,,Republican,Stacey E. Pickering,75
-,Enon,State Auditor,,Reform,Ashley Norwood,27
-,Enon,Treasurer,,Republican,Lynn Fitch,71
-,Enon,Treasurer,,Democrat,Connie Moran,30
-,Enon,Treasurer,,Reform,Shawn O'Hara,4
-,Enon,Commissioner of Agriculture & Commerce,,Democrat,Joel Gill,44
-,Enon,Commissioner of Agriculture & Commerce,,Republican,Cindy Hyde-Smith,62
-,Enon,Commissioner of Agriculture & Commerce,,Reform,Cathy L. Toole,4
-,Enon,Commissioner of Insurance,,Republican,Mike Chaney,72
-,Enon,Commissioner of Insurance,,Democrat,Louis Fondren,36
-,Enon,Commissioner of Insurance,,Reform,Barbara Dale Washer,3
-,Enon,State Senate,,Republican,Vann J. Branch,65
-,Enon,State Senate,,Democrat,Steve Hale,50
-,Como,Governor,,Republican,Phil Bryant,288
-,Como,Governor,,Democrat,Johnny L. DuPree,678
-,Como,Lieutenant Governor,,Republican,Tate Reeves,394
-,Como,Lieutenant Governor,,Reform,Tracella Lou O'Hara Hill,285
-,Como,Secretary of State,,Republican,Delbert Hosemann,525
-,Como,Attorney General,,Democrat,Jim Hood,643
-,Como,Attorney General,,Republican,Steve Simpson,235
-,Como,State Auditor,,Republican,Stacey E. Pickering,310
-,Como,State Auditor,,Reform,Ashley Norwood,337
-,Como,Treasurer,,Republican,Lynn Fitch,259
-,Como,Treasurer,,Democrat,Connie Moran,613
-,Como,Treasurer,,Reform,Shawn O'Hara,32
-,Como,Commissioner of Agriculture & Commerce,,Democrat,Joel Gill,650
-,Como,Commissioner of Agriculture & Commerce,,Republican,Cindy Hyde-Smith,210
-,Como,Commissioner of Agriculture & Commerce,,Reform,Cathy L. Toole,35
-,Como,Commissioner of Insurance,,Republican,Mike Chaney,295
-,Como,Commissioner of Insurance,,Democrat,Louis Fondren,574
-,Como,Commissioner of Insurance,,Reform,Barbara Dale Washer,27
-,Como,State Senate,,Republican,Vann J. Branch,170
-,Como,State Senate,,Democrat,Steve Hale,753
-,Como,State House,,Democrat,Clara Henderson Burnett,98
+"county","precinct","office","district","party","candidate","votes"
+"Panola","Pleasant Mount","Governor",,"Republican","Phil Bryant",157
+"Panola","Pleasant Mount","Governor",,"Democrat","Johnny L. DuPree",156
+"Panola","Pleasant Mount","Lieutenant Governor",,"Republican","Tate Reeves",174
+"Panola","Pleasant Mount","Lieutenant Governor",,"Reform","Tracella Lou O'Hara Hill",76
+"Panola","Pleasant Mount","Secretary of State",,"Republican","Delbert Hosemann",203
+"Panola","Pleasant Mount","Attorney General",,"Democrat","Jim Hood",190
+"Panola","Pleasant Mount","Attorney General",,"Republican","Steve Simpson",109
+"Panola","Pleasant Mount","State Auditor",,"Republican","Stacey E. Pickering",157
+"Panola","Pleasant Mount","State Auditor",,"Reform","Ashley Norwood",78
+"Panola","Pleasant Mount","Treasurer",,"Republican","Lynn Fitch",137
+"Panola","Pleasant Mount","Treasurer",,"Democrat","Connie Moran",147
+"Panola","Pleasant Mount","Treasurer",,"Reform","Shawn O'Hara",11
+"Panola","Pleasant Mount","Commissioner of Agriculture & Commerce",,"Democrat","Joel Gill",162
+"Panola","Pleasant Mount","Commissioner of Agriculture & Commerce",,"Republican","Cindy Hyde-Smith",118
+"Panola","Pleasant Mount","Commissioner of Agriculture & Commerce",,"Reform","Cathy L. Toole",12
+"Panola","Pleasant Mount","Commissioner of Insurance",,"Republican","Mike Chaney",146
+"Panola","Pleasant Mount","Commissioner of Insurance",,"Democrat","Louis Fondren",124
+"Panola","Pleasant Mount","Commissioner of Insurance",,"Reform","Barbara Dale Washer",21
+"Panola","Pleasant Mount","State Senate",10,"Republican","Vann J. Branch",94
+"Panola","Pleasant Mount","State Senate",10,"Democrat","Steve Hale",210
+"Panola","East Sardis","Governor",,"Republican","Phil Bryant",304
+"Panola","East Sardis","Governor",,"Democrat","Johnny L. DuPree",55
+"Panola","East Sardis","Lieutenant Governor",,"Republican","Tate Reeves",323
+"Panola","East Sardis","Lieutenant Governor",,"Reform","Tracella Lou O'Hara Hill",23
+"Panola","East Sardis","Secretary of State",,"Republican","Delbert Hosemann",309
+"Panola","East Sardis","Attorney General",,"Democrat","Jim Hood",159
+"Panola","East Sardis","Attorney General",,"Republican","Steve Simpson",189
+"Panola","East Sardis","State Auditor",,"Republican","Stacey E. Pickering",289
+"Panola","East Sardis","State Auditor",,"Reform","Ashley Norwood",48
+"Panola","East Sardis","Treasurer",,"Republican","Lynn Fitch",256
+"Panola","East Sardis","Treasurer",,"Democrat","Connie Moran",79
+"Panola","East Sardis","Treasurer",,"Reform","Shawn O'Hara",13
+"Panola","East Sardis","Commissioner of Agriculture & Commerce",,"Democrat","Joel Gill",97
+"Panola","East Sardis","Commissioner of Agriculture & Commerce",,"Republican","Cindy Hyde-Smith",242
+"Panola","East Sardis","Commissioner of Agriculture & Commerce",,"Reform","Cathy L. Toole",8
+"Panola","East Sardis","Commissioner of Insurance",,"Republican","Mike Chaney",282
+"Panola","East Sardis","Commissioner of Insurance",,"Democrat","Louis Fondren",53
+"Panola","East Sardis","Commissioner of Insurance",,"Reform","Barbara Dale Washer",13
+"Panola","East Sardis","State Senate",10,"Republican","Vann J. Branch",196
+"Panola","East Sardis","State Senate",10,"Democrat","Steve Hale",165
+"Panola","East Sardis","State House",10,"Democrat","Greg Hodges",89
+"Panola","East Sardis","State House",10,"Republican","Nolan Mettetal",272
+"Panola","West Sardis","Governor",,"Republican","Phil Bryant",87
+"Panola","West Sardis","Governor",,"Democrat","Johnny L. DuPree",458
+"Panola","West Sardis","Lieutenant Governor",,"Republican","Tate Reeves",166
+"Panola","West Sardis","Lieutenant Governor",,"Reform","Tracella Lou O'Hara Hill",185
+"Panola","West Sardis","Secretary of State",,"Republican","Delbert Hosemann",241
+"Panola","West Sardis","Attorney General",,"Democrat","Jim Hood",435
+"Panola","West Sardis","Attorney General",,"Republican","Steve Simpson",80
+"Panola","West Sardis","State Auditor",,"Republican","Stacey E. Pickering",125
+"Panola","West Sardis","State Auditor",,"Reform","Ashley Norwood",207
+"Panola","West Sardis","Treasurer",,"Republican","Lynn Fitch",85
+"Panola","West Sardis","Treasurer",,"Democrat","Connie Moran",415
+"Panola","West Sardis","Treasurer",,"Reform","Shawn O'Hara",17
+"Panola","West Sardis","Commissioner of Agriculture & Commerce",,"Democrat","Joel Gill",422
+"Panola","West Sardis","Commissioner of Agriculture & Commerce",,"Republican","Cindy Hyde-Smith",77
+"Panola","West Sardis","Commissioner of Agriculture & Commerce",,"Reform","Cathy L. Toole",15
+"Panola","West Sardis","Commissioner of Insurance",,"Republican","Mike Chaney",95
+"Panola","West Sardis","Commissioner of Insurance",,"Democrat","Louis Fondren",397
+"Panola","West Sardis","Commissioner of Insurance",,"Reform","Barbara Dale Washer",16
+"Panola","West Sardis","State Senate",10,"Republican","Vann J. Branch",52
+"Panola","West Sardis","State Senate",10,"Democrat","Steve Hale",457
+"Panola","West Sardis","State House",9,"Democrat","Clara Henderson Burnett",19
+"Panola","Cold Springs","Governor",,"Republican","Phil Bryant",72
+"Panola","Cold Springs","Governor",,"Democrat","Johnny L. DuPree",169
+"Panola","Cold Springs","Lieutenant Governor",,"Republican","Tate Reeves",100
+"Panola","Cold Springs","Lieutenant Governor",,"Reform","Tracella Lou O'Hara Hill",65
+"Panola","Cold Springs","Secretary of State",,"Republican","Delbert Hosemann",132
+"Panola","Cold Springs","Attorney General",,"Democrat","Jim Hood",182
+"Panola","Cold Springs","Attorney General",,"Republican","Steve Simpson",48
+"Panola","Cold Springs","State Auditor",,"Republican","Stacey E. Pickering",66
+"Panola","Cold Springs","State Auditor",,"Reform","Ashley Norwood",98
+"Panola","Cold Springs","Treasurer",,"Republican","Lynn Fitch",60
+"Panola","Cold Springs","Treasurer",,"Democrat","Connie Moran",169
+"Panola","Cold Springs","Treasurer",,"Reform","Shawn O'Hara",2
+"Panola","Cold Springs","Commissioner of Agriculture & Commerce",,"Democrat","Joel Gill",165
+"Panola","Cold Springs","Commissioner of Agriculture & Commerce",,"Republican","Cindy Hyde-Smith",55
+"Panola","Cold Springs","Commissioner of Agriculture & Commerce",,"Reform","Cathy L. Toole",10
+"Panola","Cold Springs","Commissioner of Insurance",,"Republican","Mike Chaney",66
+"Panola","Cold Springs","Commissioner of Insurance",,"Democrat","Louis Fondren",155
+"Panola","Cold Springs","Commissioner of Insurance",,"Reform","Barbara Dale Washer",9
+"Panola","Cold Springs","State Senate",10,"Republican","Vann J. Branch",53
+"Panola","Cold Springs","State Senate",10,"Democrat","Steve Hale",175
+"Panola","Cold Springs","State House",10,"Democrat","Greg Hodges",159
+"Panola","Cold Springs","State House",10,"Republican","Nolan Mettetal",79
+"Panola","South Sardis ","Governor",,"Republican","Phil Bryant",280
+"Panola","South Sardis ","Governor",,"Democrat","Johnny L. DuPree",626
+"Panola","South Sardis ","Lieutenant Governor",,"Republican","Tate Reeves",378
+"Panola","South Sardis ","Lieutenant Governor",,"Reform","Tracella Lou O'Hara Hill",253
+"Panola","South Sardis ","Secretary of State",,"Republican","Delbert Hosemann",492
+"Panola","South Sardis ","Attorney General",,"Democrat","Jim Hood",658
+"Panola","South Sardis ","Attorney General",,"Republican","Steve Simpson",200
+"Panola","South Sardis ","State Auditor",,"Republican","Stacey E. Pickering",306
+"Panola","South Sardis ","State Auditor",,"Reform","Ashley Norwood",304
+"Panola","South Sardis ","Treasurer",,"Republican","Lynn Fitch",266
+"Panola","South Sardis ","Treasurer",,"Democrat","Connie Moran",567
+"Panola","South Sardis ","Treasurer",,"Reform","Shawn O'Hara",27
+"Panola","South Sardis ","Commissioner of Agriculture & Commerce",,"Democrat","Joel Gill",594
+"Panola","South Sardis ","Commissioner of Agriculture & Commerce",,"Republican","Cindy Hyde-Smith",226
+"Panola","South Sardis ","Commissioner of Agriculture & Commerce",,"Reform","Cathy L. Toole",21
+"Panola","South Sardis ","Commissioner of Insurance",,"Republican","Mike Chaney",279
+"Panola","South Sardis ","Commissioner of Insurance",,"Democrat","Louis Fondren",556
+"Panola","South Sardis ","Commissioner of Insurance",,"Reform","Barbara Dale Washer",28
+"Panola","South Sardis ","State Senate",10,"Republican","Vann J. Branch",172
+"Panola","South Sardis ","State Senate",10,"Democrat","Steve Hale",685
+"Panola","South Sardis ","State House",10,"Democrat","Greg Hodges",23
+"Panola","South Sardis ","State House",10,"Republican","Nolan Mettetal",14
+"Panola","Pleasant Grove","Governor",,"Republican","Phil Bryant",132
+"Panola","Pleasant Grove","Governor",,"Democrat","Johnny L. DuPree",63
+"Panola","Pleasant Grove","Lieutenant Governor",,"Republican","Tate Reeves",139
+"Panola","Pleasant Grove","Lieutenant Governor",,"Reform","Tracella Lou O'Hara Hill",23
+"Panola","Pleasant Grove","Secretary of State",,"Republican","Delbert Hosemann",130
+"Panola","Pleasant Grove","Attorney General",,"Democrat","Jim Hood",94
+"Panola","Pleasant Grove","Attorney General",,"Republican","Steve Simpson",89
+"Panola","Pleasant Grove","State Auditor",,"Republican","Stacey E. Pickering",119
+"Panola","Pleasant Grove","State Auditor",,"Reform","Ashley Norwood",36
+"Panola","Pleasant Grove","Treasurer",,"Republican","Lynn Fitch",108
+"Panola","Pleasant Grove","Treasurer",,"Democrat","Connie Moran",71
+"Panola","Pleasant Grove","Treasurer",,"Reform","Shawn O'Hara",4
+"Panola","Pleasant Grove","Commissioner of Agriculture & Commerce",,"Democrat","Joel Gill",81
+"Panola","Pleasant Grove","Commissioner of Agriculture & Commerce",,"Republican","Cindy Hyde-Smith",96
+"Panola","Pleasant Grove","Commissioner of Agriculture & Commerce",,"Reform","Cathy L. Toole",4
+"Panola","Pleasant Grove","Commissioner of Insurance",,"Republican","Mike Chaney",116
+"Panola","Pleasant Grove","Commissioner of Insurance",,"Democrat","Louis Fondren",65
+"Panola","Pleasant Grove","Commissioner of Insurance",,"Reform","Barbara Dale Washer",4
+"Panola","Pleasant Grove","State Senate",10,"Republican","Vann J. Branch",89
+"Panola","Pleasant Grove","State Senate",10,"Democrat","Steve Hale",102
+"Panola","Longtown","Governor",,"Republican","Phil Bryant",94
+"Panola","Longtown","Governor",,"Democrat","Johnny L. DuPree",123
+"Panola","Longtown","Lieutenant Governor",,"Republican","Tate Reeves",115
+"Panola","Longtown","Lieutenant Governor",,"Reform","Tracella Lou O'Hara Hill",47
+"Panola","Longtown","Secretary of State",,"Republican","Delbert Hosemann",134
+"Panola","Longtown","Attorney General",,"Democrat","Jim Hood",138
+"Panola","Longtown","Attorney General",,"Republican","Steve Simpson",64
+"Panola","Longtown","State Auditor",,"Republican","Stacey E. Pickering",103
+"Panola","Longtown","State Auditor",,"Reform","Ashley Norwood",53
+"Panola","Longtown","Treasurer",,"Republican","Lynn Fitch",81
+"Panola","Longtown","Treasurer",,"Democrat","Connie Moran",115
+"Panola","Longtown","Treasurer",,"Reform","Shawn O'Hara",6
+"Panola","Longtown","Commissioner of Agriculture & Commerce",,"Democrat","Joel Gill",122
+"Panola","Longtown","Commissioner of Agriculture & Commerce",,"Republican","Cindy Hyde-Smith",68
+"Panola","Longtown","Commissioner of Agriculture & Commerce",,"Reform","Cathy L. Toole",7
+"Panola","Longtown","Commissioner of Insurance",,"Republican","Mike Chaney",90
+"Panola","Longtown","Commissioner of Insurance",,"Democrat","Louis Fondren",102
+"Panola","Longtown","Commissioner of Insurance",,"Reform","Barbara Dale Washer",7
+"Panola","Longtown","State Senate",10,"Republican","Vann J. Branch",68
+"Panola","Longtown","State Senate",10,"Democrat","Steve Hale",139
+"Panola","Longtown","State House",9,"Democrat","Clara Henderson Burnett",158
+"Panola","Crenshaw","Governor",,"Republican","Phil Bryant",141
+"Panola","Crenshaw","Governor",,"Democrat","Johnny L. DuPree",162
+"Panola","Crenshaw","Lieutenant Governor",,"Republican","Tate Reeves",163
+"Panola","Crenshaw","Lieutenant Governor",,"Reform","Tracella Lou O'Hara Hill",72
+"Panola","Crenshaw","Secretary of State",,"Republican","Delbert Hosemann",201
+"Panola","Crenshaw","Attorney General",,"Democrat","Jim Hood",203
+"Panola","Crenshaw","Attorney General",,"Republican","Steve Simpson",82
+"Panola","Crenshaw","State Auditor",,"Republican","Stacey E. Pickering",142
+"Panola","Crenshaw","State Auditor",,"Reform","Ashley Norwood",97
+"Panola","Crenshaw","Treasurer",,"Republican","Lynn Fitch",123
+"Panola","Crenshaw","Treasurer",,"Democrat","Connie Moran",154
+"Panola","Crenshaw","Treasurer",,"Reform","Shawn O'Hara",8
+"Panola","Crenshaw","Commissioner of Agriculture & Commerce",,"Democrat","Joel Gill",177
+"Panola","Crenshaw","Commissioner of Agriculture & Commerce",,"Republican","Cindy Hyde-Smith",95
+"Panola","Crenshaw","Commissioner of Agriculture & Commerce",,"Reform","Cathy L. Toole",9
+"Panola","Crenshaw","Commissioner of Insurance",,"Republican","Mike Chaney",132
+"Panola","Crenshaw","Commissioner of Insurance",,"Democrat","Louis Fondren",143
+"Panola","Crenshaw","Commissioner of Insurance",,"Reform","Barbara Dale Washer",9
+"Panola","Crenshaw","State Senate",10,"Republican","Vann J. Branch",82
+"Panola","Crenshaw","State Senate",10,"Democrat","Steve Hale",208
+"Panola","Crenshaw","State House",9,"Democrat","Clara Henderson Burnett",246
+"Panola","Curtis","Governor",,"Republican","Phil Bryant",101
+"Panola","Curtis","Governor",,"Democrat","Johnny L. DuPree",339
+"Panola","Curtis","Lieutenant Governor",,"Republican","Tate Reeves",146
+"Panola","Curtis","Lieutenant Governor",,"Reform","Tracella Lou O'Hara Hill",127
+"Panola","Curtis","Secretary of State",,"Republican","Delbert Hosemann",217
+"Panola","Curtis","Attorney General",,"Democrat","Jim Hood",352
+"Panola","Curtis","Attorney General",,"Republican","Steve Simpson",65
+"Panola","Curtis","State Auditor",,"Republican","Stacey E. Pickering",117
+"Panola","Curtis","State Auditor",,"Reform","Ashley Norwood",154
+"Panola","Curtis","Treasurer",,"Republican","Lynn Fitch",82
+"Panola","Curtis","Treasurer",,"Democrat","Connie Moran",328
+"Panola","Curtis","Treasurer",,"Reform","Shawn O'Hara",14
+"Panola","Curtis","Commissioner of Agriculture & Commerce",,"Democrat","Joel Gill",332
+"Panola","Curtis","Commissioner of Agriculture & Commerce",,"Republican","Cindy Hyde-Smith",68
+"Panola","Curtis","Commissioner of Agriculture & Commerce",,"Reform","Cathy L. Toole",7
+"Panola","Curtis","Commissioner of Insurance",,"Republican","Mike Chaney",86
+"Panola","Curtis","Commissioner of Insurance",,"Democrat","Louis Fondren",312
+"Panola","Curtis","Commissioner of Insurance",,"Reform","Barbara Dale Washer",14
+"Panola","Curtis","State Senate",10,"Republican","Vann J. Branch",61
+"Panola","Curtis","State Senate",10,"Democrat","Steve Hale",359
+"Panola","Macedonia-Concord","Governor",,"Republican","Phil Bryant",41
+"Panola","Macedonia-Concord","Governor",,"Democrat","Johnny L. DuPree",216
+"Panola","Macedonia-Concord","Lieutenant Governor",,"Republican","Tate Reeves",94
+"Panola","Macedonia-Concord","Lieutenant Governor",,"Reform","Tracella Lou O'Hara Hill",75
+"Panola","Macedonia-Concord","Secretary of State",,"Republican","Delbert Hosemann",130
+"Panola","Macedonia-Concord","Attorney General",,"Democrat","Jim Hood",222
+"Panola","Macedonia-Concord","Attorney General",,"Republican","Steve Simpson",28
+"Panola","Macedonia-Concord","State Auditor",,"Republican","Stacey E. Pickering",86
+"Panola","Macedonia-Concord","State Auditor",,"Reform","Ashley Norwood",86
+"Panola","Macedonia-Concord","Treasurer",,"Republican","Lynn Fitch",43
+"Panola","Macedonia-Concord","Treasurer",,"Democrat","Connie Moran",198
+"Panola","Macedonia-Concord","Treasurer",,"Reform","Shawn O'Hara",7
+"Panola","Macedonia-Concord","Commissioner of Agriculture & Commerce",,"Democrat","Joel Gill",203
+"Panola","Macedonia-Concord","Commissioner of Agriculture & Commerce",,"Republican","Cindy Hyde-Smith",35
+"Panola","Macedonia-Concord","Commissioner of Agriculture & Commerce",,"Reform","Cathy L. Toole",7
+"Panola","Macedonia-Concord","Commissioner of Insurance",,"Republican","Mike Chaney",44
+"Panola","Macedonia-Concord","Commissioner of Insurance",,"Democrat","Louis Fondren",198
+"Panola","Macedonia-Concord","Commissioner of Insurance",,"Reform","Barbara Dale Washer",5
+"Panola","Macedonia-Concord","State Senate",10,"Republican","Vann J. Branch",34
+"Panola","Macedonia-Concord","State Senate",10,"Democrat","Steve Hale",218
+"Panola","Batesville # 3","Governor",,"Republican","Phil Bryant",443
+"Panola","Batesville # 3","Governor",,"Democrat","Johnny L. DuPree",120
+"Panola","Batesville # 3","Lieutenant Governor",,"Republican","Tate Reeves",463
+"Panola","Batesville # 3","Lieutenant Governor",,"Reform","Tracella Lou O'Hara Hill",25
+"Panola","Batesville # 3","Secretary of State",,"Republican","Delbert Hosemann",453
+"Panola","Batesville # 3","Attorney General",,"Democrat","Jim Hood",280
+"Panola","Batesville # 3","Attorney General",,"Republican","Steve Simpson",269
+"Panola","Batesville # 3","State Auditor",,"Republican","Stacey E. Pickering",415
+"Panola","Batesville # 3","State Auditor",,"Reform","Ashley Norwood",64
+"Panola","Batesville # 3","Treasurer",,"Republican","Lynn Fitch",378
+"Panola","Batesville # 3","Treasurer",,"Democrat","Connie Moran",137
+"Panola","Batesville # 3","Treasurer",,"Reform","Shawn O'Hara",19
+"Panola","Batesville # 3","Commissioner of Agriculture & Commerce",,"Democrat","Joel Gill",183
+"Panola","Batesville # 3","Commissioner of Agriculture & Commerce",,"Republican","Cindy Hyde-Smith",332
+"Panola","Batesville # 3","Commissioner of Agriculture & Commerce",,"Reform","Cathy L. Toole",10
+"Panola","Batesville # 3","Commissioner of Insurance",,"Republican","Mike Chaney",414
+"Panola","Batesville # 3","Commissioner of Insurance",,"Democrat","Louis Fondren",108
+"Panola","Batesville # 3","Commissioner of Insurance",,"Reform","Barbara Dale Washer",11
+"Panola","Batesville # 3","State Senate",10,"Republican","Vann J. Branch",278
+"Panola","Batesville # 3","State Senate",10,"Democrat","Steve Hale",276
+"Panola","Batesville # 3","State House",10,"Democrat","Greg Hodges",66
+"Panola","Batesville # 3","State House",10,"Republican","Nolan Mettetal",213
+"Panola","Courtland","Governor",,"Republican","Phil Bryant",302
+"Panola","Courtland","Governor",,"Democrat","Johnny L. DuPree",678
+"Panola","Courtland","Lieutenant Governor",,"Republican","Tate Reeves",451
+"Panola","Courtland","Lieutenant Governor",,"Reform","Tracella Lou O'Hara Hill",260
+"Panola","Courtland","Secretary of State",,"Republican","Delbert Hosemann",566
+"Panola","Courtland","Attorney General",,"Democrat","Jim Hood",732
+"Panola","Courtland","Attorney General",,"Republican","Steve Simpson",207
+"Panola","Courtland","State Auditor",,"Republican","Stacey E. Pickering",342
+"Panola","Courtland","State Auditor",,"Reform","Ashley Norwood",351
+"Panola","Courtland","Treasurer",,"Republican","Lynn Fitch",255
+"Panola","Courtland","Treasurer",,"Democrat","Connie Moran",640
+"Panola","Courtland","Treasurer",,"Reform","Shawn O'Hara",43
+"Panola","Courtland","Commissioner of Agriculture & Commerce",,"Democrat","Joel Gill",675
+"Panola","Courtland","Commissioner of Agriculture & Commerce",,"Republican","Cindy Hyde-Smith",233
+"Panola","Courtland","Commissioner of Agriculture & Commerce",,"Reform","Cathy L. Toole",33
+"Panola","Courtland","Commissioner of Insurance",,"Republican","Mike Chaney",310
+"Panola","Courtland","Commissioner of Insurance",,"Democrat","Louis Fondren",597
+"Panola","Courtland","Commissioner of Insurance",,"Reform","Barbara Dale Washer",35
+"Panola","Courtland","State Senate",10,"Republican","Vann J. Branch",189
+"Panola","Courtland","State Senate",10,"Democrat","Steve Hale",764
+"Panola","Courtland","State House",10,"Democrat","Greg Hodges",225
+"Panola","Courtland","State House",10,"Republican","Nolan Mettetal",129
+"Panola","Pope","Governor",,"Republican","Phil Bryant",491
+"Panola","Pope","Governor",,"Democrat","Johnny L. DuPree",221
+"Panola","Pope","Lieutenant Governor",,"Republican","Tate Reeves",539
+"Panola","Pope","Lieutenant Governor",,"Reform","Tracella Lou O'Hara Hill",84
+"Panola","Pope","Secretary of State",,"Republican","Delbert Hosemann",567
+"Panola","Pope","Attorney General",,"Democrat","Jim Hood",420
+"Panola","Pope","Attorney General",,"Republican","Steve Simpson",266
+"Panola","Pope","State Auditor",,"Republican","Stacey E. Pickering",458
+"Panola","Pope","State Auditor",,"Reform","Ashley Norwood",164
+"Panola","Pope","Treasurer",,"Republican","Lynn Fitch",403
+"Panola","Pope","Treasurer",,"Democrat","Connie Moran",245
+"Panola","Pope","Treasurer",,"Reform","Shawn O'Hara",40
+"Panola","Pope","Commissioner of Agriculture & Commerce",,"Democrat","Joel Gill",270
+"Panola","Pope","Commissioner of Agriculture & Commerce",,"Republican","Cindy Hyde-Smith",372
+"Panola","Pope","Commissioner of Agriculture & Commerce",,"Reform","Cathy L. Toole",29
+"Panola","Pope","Commissioner of Insurance",,"Republican","Mike Chaney",468
+"Panola","Pope","Commissioner of Insurance",,"Democrat","Louis Fondren",199
+"Panola","Pope","Commissioner of Insurance",,"Reform","Barbara Dale Washer",17
+"Panola","Pope","State Senate",10,"Republican","Vann J. Branch",298
+"Panola","Pope","State Senate",10,"Democrat","Steve Hale",396
+"Panola","Pope","State House",10,"Democrat","Greg Hodges",308
+"Panola","Pope","State House",10,"Republican","Nolan Mettetal",391
+"Panola","Tocowa","Governor",,"Republican","Phil Bryant",555
+"Panola","Tocowa","Governor",,"Democrat","Johnny L. DuPree",192
+"Panola","Tocowa","Lieutenant Governor",,"Republican","Tate Reeves",593
+"Panola","Tocowa","Lieutenant Governor",,"Reform","Tracella Lou O'Hara Hill",85
+"Panola","Tocowa","Secretary of State",,"Republican","Delbert Hosemann",610
+"Panola","Tocowa","Attorney General",,"Democrat","Jim Hood",413
+"Panola","Tocowa","Attorney General",,"Republican","Steve Simpson",314
+"Panola","Tocowa","State Auditor",,"Republican","Stacey E. Pickering",533
+"Panola","Tocowa","State Auditor",,"Reform","Ashley Norwood",133
+"Panola","Tocowa","Treasurer",,"Republican","Lynn Fitch",478
+"Panola","Tocowa","Treasurer",,"Democrat","Connie Moran",212
+"Panola","Tocowa","Treasurer",,"Reform","Shawn O'Hara",19
+"Panola","Tocowa","Commissioner of Agriculture & Commerce",,"Democrat","Joel Gill",259
+"Panola","Tocowa","Commissioner of Agriculture & Commerce",,"Republican","Cindy Hyde-Smith",418
+"Panola","Tocowa","Commissioner of Agriculture & Commerce",,"Reform","Cathy L. Toole",31
+"Panola","Tocowa","Commissioner of Insurance",,"Republican","Mike Chaney",517
+"Panola","Tocowa","Commissioner of Insurance",,"Democrat","Louis Fondren",167
+"Panola","Tocowa","Commissioner of Insurance",,"Reform","Barbara Dale Washer",26
+"Panola","Tocowa","State Senate",10,"Republican","Vann J. Branch",328
+"Panola","Tocowa","State Senate",10,"Democrat","Steve Hale",402
+"Panola","Tocowa","State House",10,"Democrat","Greg Hodges",169
+"Panola","Tocowa","State House",10,"Republican","Nolan Mettetal",306
+"Panola","East Batesville # 4","Governor",,"Republican","Phil Bryant",414
+"Panola","East Batesville # 4","Governor",,"Democrat","Johnny L. DuPree",95
+"Panola","East Batesville # 4","Lieutenant Governor",,"Republican","Tate Reeves",421
+"Panola","East Batesville # 4","Lieutenant Governor",,"Reform","Tracella Lou O'Hara Hill",45
+"Panola","East Batesville # 4","Secretary of State",,"Republican","Delbert Hosemann",433
+"Panola","East Batesville # 4","Attorney General",,"Democrat","Jim Hood",216
+"Panola","East Batesville # 4","Attorney General",,"Republican","Steve Simpson",285
+"Panola","East Batesville # 4","State Auditor",,"Republican","Stacey E. Pickering",402
+"Panola","East Batesville # 4","State Auditor",,"Reform","Ashley Norwood",64
+"Panola","East Batesville # 4","Treasurer",,"Republican","Lynn Fitch",356
+"Panola","East Batesville # 4","Treasurer",,"Democrat","Connie Moran",120
+"Panola","East Batesville # 4","Treasurer",,"Reform","Shawn O'Hara",12
+"Panola","East Batesville # 4","Commissioner of Agriculture & Commerce",,"Democrat","Joel Gill",142
+"Panola","East Batesville # 4","Commissioner of Agriculture & Commerce",,"Republican","Cindy Hyde-Smith",342
+"Panola","East Batesville # 4","Commissioner of Agriculture & Commerce",,"Reform","Cathy L. Toole",9
+"Panola","East Batesville # 4","Commissioner of Insurance",,"Republican","Mike Chaney",391
+"Panola","East Batesville # 4","Commissioner of Insurance",,"Democrat","Louis Fondren",93
+"Panola","East Batesville # 4","Commissioner of Insurance",,"Reform","Barbara Dale Washer",6
+"Panola","East Batesville # 4","State Senate",10,"Republican","Vann J. Branch",260
+"Panola","East Batesville # 4","State Senate",10,"Democrat","Steve Hale",245
+"Panola","East Batesville # 4","State House",10,"Democrat","Greg Hodges",149
+"Panola","East Batesville # 4","State House",10,"Republican","Nolan Mettetal",355
+"Panola","Eureka","Governor",,"Republican","Phil Bryant",599
+"Panola","Eureka","Governor",,"Democrat","Johnny L. DuPree",158
+"Panola","Eureka","Lieutenant Governor",,"Republican","Tate Reeves",614
+"Panola","Eureka","Lieutenant Governor",,"Reform","Tracella Lou O'Hara Hill",79
+"Panola","Eureka","Secretary of State",,"Republican","Delbert Hosemann",624
+"Panola","Eureka","Attorney General",,"Democrat","Jim Hood",352
+"Panola","Eureka","Attorney General",,"Republican","Steve Simpson",381
+"Panola","Eureka","State Auditor",,"Republican","Stacey E. Pickering",561
+"Panola","Eureka","State Auditor",,"Reform","Ashley Norwood",118
+"Panola","Eureka","Treasurer",,"Republican","Lynn Fitch",507
+"Panola","Eureka","Treasurer",,"Democrat","Connie Moran",192
+"Panola","Eureka","Treasurer",,"Reform","Shawn O'Hara",25
+"Panola","Eureka","Commissioner of Agriculture & Commerce",,"Democrat","Joel Gill",246
+"Panola","Eureka","Commissioner of Agriculture & Commerce",,"Republican","Cindy Hyde-Smith",448
+"Panola","Eureka","Commissioner of Agriculture & Commerce",,"Reform","Cathy L. Toole",23
+"Panola","Eureka","Commissioner of Insurance",,"Republican","Mike Chaney",557
+"Panola","Eureka","Commissioner of Insurance",,"Democrat","Louis Fondren",142
+"Panola","Eureka","Commissioner of Insurance",,"Reform","Barbara Dale Washer",19
+"Panola","Eureka","State Senate",10,"Republican","Vann J. Branch",415
+"Panola","Eureka","State Senate",10,"Democrat","Steve Hale",328
+"Panola","Eureka","State House",10,"Democrat","Greg Hodges",287
+"Panola","Eureka","State House",10,"Republican","Nolan Mettetal",458
+"Panola","North Springport","Governor",,"Republican","Phil Bryant",414
+"Panola","North Springport","Governor",,"Democrat","Johnny L. DuPree",203
+"Panola","North Springport","Lieutenant Governor",,"Republican","Tate Reeves",465
+"Panola","North Springport","Lieutenant Governor",,"Reform","Tracella Lou O'Hara Hill",90
+"Panola","North Springport","Secretary of State",,"Republican","Delbert Hosemann",464
+"Panola","North Springport","Attorney General",,"Democrat","Jim Hood",335
+"Panola","North Springport","Attorney General",,"Republican","Steve Simpson",263
+"Panola","North Springport","State Auditor",,"Republican","Stacey E. Pickering",386
+"Panola","North Springport","State Auditor",,"Reform","Ashley Norwood",151
+"Panola","North Springport","Treasurer",,"Republican","Lynn Fitch",339
+"Panola","North Springport","Treasurer",,"Democrat","Connie Moran",217
+"Panola","North Springport","Treasurer",,"Reform","Shawn O'Hara",27
+"Panola","North Springport","Commissioner of Agriculture & Commerce",,"Democrat","Joel Gill",278
+"Panola","North Springport","Commissioner of Agriculture & Commerce",,"Republican","Cindy Hyde-Smith",280
+"Panola","North Springport","Commissioner of Agriculture & Commerce",,"Reform","Cathy L. Toole",20
+"Panola","North Springport","Commissioner of Insurance",,"Republican","Mike Chaney",370
+"Panola","North Springport","Commissioner of Insurance",,"Democrat","Louis Fondren",200
+"Panola","North Springport","Commissioner of Insurance",,"Reform","Barbara Dale Washer",20
+"Panola","North Springport","State Senate",10,"Republican","Vann J. Branch",298
+"Panola","North Springport","State Senate",10,"Democrat","Steve Hale",309
+"Panola","North Springport","State House",10,"Democrat","Greg Hodges",238
+"Panola","North Springport","State House",10,"Republican","Nolan Mettetal",379
+"Panola","South Springport","Governor",,"Republican","Phil Bryant",540
+"Panola","South Springport","Governor",,"Democrat","Johnny L. DuPree",262
+"Panola","South Springport","Lieutenant Governor",,"Republican","Tate Reeves",591
+"Panola","South Springport","Lieutenant Governor",,"Reform","Tracella Lou O'Hara Hill",132
+"Panola","South Springport","Secretary of State",,"Republican","Delbert Hosemann",629
+"Panola","South Springport","Attorney General",,"Democrat","Jim Hood",447
+"Panola","South Springport","Attorney General",,"Republican","Steve Simpson",330
+"Panola","South Springport","State Auditor",,"Republican","Stacey E. Pickering",505
+"Panola","South Springport","State Auditor",,"Reform","Ashley Norwood",193
+"Panola","South Springport","Treasurer",,"Republican","Lynn Fitch",449
+"Panola","South Springport","Treasurer",,"Democrat","Connie Moran",291
+"Panola","South Springport","Treasurer",,"Reform","Shawn O'Hara",27
+"Panola","South Springport","Commissioner of Agriculture & Commerce",,"Democrat","Joel Gill",363
+"Panola","South Springport","Commissioner of Agriculture & Commerce",,"Republican","Cindy Hyde-Smith",371
+"Panola","South Springport","Commissioner of Agriculture & Commerce",,"Reform","Cathy L. Toole",30
+"Panola","South Springport","Commissioner of Insurance",,"Republican","Mike Chaney",499
+"Panola","South Springport","Commissioner of Insurance",,"Democrat","Louis Fondren",236
+"Panola","South Springport","Commissioner of Insurance",,"Reform","Barbara Dale Washer",35
+"Panola","South Springport","State Senate",10,"Republican","Vann J. Branch",390
+"Panola","South Springport","State Senate",10,"Democrat","Steve Hale",401
+"Panola","South Springport","State House",10,"Democrat","Greg Hodges",343
+"Panola","South Springport","State House",10,"Republican","Nolan Mettetal",446
+"Panola","Cole's Point","Governor",,"Republican","Phil Bryant",262
+"Panola","Cole's Point","Governor",,"Democrat","Johnny L. DuPree",38
+"Panola","Cole's Point","Lieutenant Governor",,"Republican","Tate Reeves",261
+"Panola","Cole's Point","Lieutenant Governor",,"Reform","Tracella Lou O'Hara Hill",20
+"Panola","Cole's Point","Secretary of State",,"Republican","Delbert Hosemann",249
+"Panola","Cole's Point","Attorney General",,"Democrat","Jim Hood",139
+"Panola","Cole's Point","Attorney General",,"Republican","Steve Simpson",151
+"Panola","Cole's Point","State Auditor",,"Republican","Stacey E. Pickering",218
+"Panola","Cole's Point","State Auditor",,"Reform","Ashley Norwood",57
+"Panola","Cole's Point","Treasurer",,"Republican","Lynn Fitch",197
+"Panola","Cole's Point","Treasurer",,"Democrat","Connie Moran",60
+"Panola","Cole's Point","Treasurer",,"Reform","Shawn O'Hara",23
+"Panola","Cole's Point","Commissioner of Agriculture & Commerce",,"Democrat","Joel Gill",69
+"Panola","Cole's Point","Commissioner of Agriculture & Commerce",,"Republican","Cindy Hyde-Smith",188
+"Panola","Cole's Point","Commissioner of Agriculture & Commerce",,"Reform","Cathy L. Toole",17
+"Panola","Cole's Point","Commissioner of Insurance",,"Republican","Mike Chaney",223
+"Panola","Cole's Point","Commissioner of Insurance",,"Democrat","Louis Fondren",33
+"Panola","Cole's Point","Commissioner of Insurance",,"Reform","Barbara Dale Washer",23
+"Panola","Cole's Point","State Senate",10,"Republican","Vann J. Branch",174
+"Panola","Cole's Point","State Senate",10,"Democrat","Steve Hale",112
+"Panola","Cole's Point","State House",10,"Democrat","Greg Hodges",83
+"Panola","Cole's Point","State House",10,"Republican","Nolan Mettetal",211
+"Panola","East Batesville","Governor",,"Republican","Phil Bryant",830
+"Panola","East Batesville","Governor",,"Democrat","Johnny L. DuPree",145
+"Panola","East Batesville","Lieutenant Governor",,"Republican","Tate Reeves",865
+"Panola","East Batesville","Lieutenant Governor",,"Reform","Tracella Lou O'Hara Hill",57
+"Panola","East Batesville","Secretary of State",,"Republican","Delbert Hosemann",837
+"Panola","East Batesville","Attorney General",,"Democrat","Jim Hood",421
+"Panola","East Batesville","Attorney General",,"Republican","Steve Simpson",533
+"Panola","East Batesville","State Auditor",,"Republican","Stacey E. Pickering",787
+"Panola","East Batesville","State Auditor",,"Reform","Ashley Norwood",113
+"Panola","East Batesville","Treasurer",,"Republican","Lynn Fitch",713
+"Panola","East Batesville","Treasurer",,"Democrat","Connie Moran",187
+"Panola","East Batesville","Treasurer",,"Reform","Shawn O'Hara",29
+"Panola","East Batesville","Commissioner of Agriculture & Commerce",,"Democrat","Joel Gill",251
+"Panola","East Batesville","Commissioner of Agriculture & Commerce",,"Republican","Cindy Hyde-Smith",650
+"Panola","East Batesville","Commissioner of Agriculture & Commerce",,"Reform","Cathy L. Toole",23
+"Panola","East Batesville","Commissioner of Insurance",,"Republican","Mike Chaney",770
+"Panola","East Batesville","Commissioner of Insurance",,"Democrat","Louis Fondren",137
+"Panola","East Batesville","Commissioner of Insurance",,"Reform","Barbara Dale Washer",21
+"Panola","East Batesville","State Senate",10,"Republican","Vann J. Branch",529
+"Panola","East Batesville","State Senate",10,"Democrat","Steve Hale",421
+"Panola","East Batesville","State House",10,"Democrat","Greg Hodges",255
+"Panola","East Batesville","State House",10,"Republican","Nolan Mettetal",631
+"Panola","North Batesville # A","Governor",,"Republican","Phil Bryant",482
+"Panola","North Batesville # A","Governor",,"Democrat","Johnny L. DuPree",202
+"Panola","North Batesville # A","Lieutenant Governor",,"Republican","Tate Reeves",521
+"Panola","North Batesville # A","Lieutenant Governor",,"Reform","Tracella Lou O'Hara Hill",99
+"Panola","North Batesville # A","Secretary of State",,"Republican","Delbert Hosemann",560
+"Panola","North Batesville # A","Attorney General",,"Democrat","Jim Hood",388
+"Panola","North Batesville # A","Attorney General",,"Republican","Steve Simpson",276
+"Panola","North Batesville # A","State Auditor",,"Republican","Stacey E. Pickering",461
+"Panola","North Batesville # A","State Auditor",,"Reform","Ashley Norwood",149
+"Panola","North Batesville # A","Treasurer",,"Republican","Lynn Fitch",421
+"Panola","North Batesville # A","Treasurer",,"Democrat","Connie Moran",220
+"Panola","North Batesville # A","Treasurer",,"Reform","Shawn O'Hara",25
+"Panola","North Batesville # A","Commissioner of Agriculture & Commerce",,"Democrat","Joel Gill",269
+"Panola","North Batesville # A","Commissioner of Agriculture & Commerce",,"Republican","Cindy Hyde-Smith",354
+"Panola","North Batesville # A","Commissioner of Agriculture & Commerce",,"Reform","Cathy L. Toole",33
+"Panola","North Batesville # A","Commissioner of Insurance",,"Republican","Mike Chaney",457
+"Panola","North Batesville # A","Commissioner of Insurance",,"Democrat","Louis Fondren",189
+"Panola","North Batesville # A","Commissioner of Insurance",,"Reform","Barbara Dale Washer",23
+"Panola","North Batesville # A","State Senate",10,"Republican","Vann J. Branch",298
+"Panola","North Batesville # A","State Senate",10,"Democrat","Steve Hale",375
+"Panola","North Batesville # A","State House",10,"Democrat","Greg Hodges",85
+"Panola","North Batesville # A","State House",10,"Republican","Nolan Mettetal",254
+"Panola","North Batesville # B","Governor",,"Republican","Phil Bryant",146
+"Panola","North Batesville # B","Governor",,"Democrat","Johnny L. DuPree",747
+"Panola","North Batesville # B","Lieutenant Governor",,"Republican","Tate Reeves",279
+"Panola","North Batesville # B","Lieutenant Governor",,"Reform","Tracella Lou O'Hara Hill",294
+"Panola","North Batesville # B","Secretary of State",,"Republican","Delbert Hosemann",421
+"Panola","North Batesville # B","Attorney General",,"Democrat","Jim Hood",719
+"Panola","North Batesville # B","Attorney General",,"Republican","Steve Simpson",132
+"Panola","North Batesville # B","State Auditor",,"Republican","Stacey E. Pickering",182
+"Panola","North Batesville # B","State Auditor",,"Reform","Ashley Norwood",380
+"Panola","North Batesville # B","Treasurer",,"Republican","Lynn Fitch",145
+"Panola","North Batesville # B","Treasurer",,"Democrat","Connie Moran",677
+"Panola","North Batesville # B","Treasurer",,"Reform","Shawn O'Hara",31
+"Panola","North Batesville # B","Commissioner of Agriculture & Commerce",,"Democrat","Joel Gill",682
+"Panola","North Batesville # B","Commissioner of Agriculture & Commerce",,"Republican","Cindy Hyde-Smith",143
+"Panola","North Batesville # B","Commissioner of Agriculture & Commerce",,"Reform","Cathy L. Toole",23
+"Panola","North Batesville # B","Commissioner of Insurance",,"Republican","Mike Chaney",133
+"Panola","North Batesville # B","Commissioner of Insurance",,"Democrat","Louis Fondren",689
+"Panola","North Batesville # B","Commissioner of Insurance",,"Reform","Barbara Dale Washer",35
+"Panola","North Batesville # B","State Senate",10,"Republican","Vann J. Branch",106
+"Panola","North Batesville # B","State Senate",10,"Democrat","Steve Hale",751
+"Panola","Enon","Governor",,"Republican","Phil Bryant",83
+"Panola","Enon","Governor",,"Democrat","Johnny L. DuPree",34
+"Panola","Enon","Lieutenant Governor",,"Republican","Tate Reeves",86
+"Panola","Enon","Lieutenant Governor",,"Reform","Tracella Lou O'Hara Hill",23
+"Panola","Enon","Secretary of State",,"Republican","Delbert Hosemann",97
+"Panola","Enon","Attorney General",,"Democrat","Jim Hood",63
+"Panola","Enon","Attorney General",,"Republican","Steve Simpson",49
+"Panola","Enon","State Auditor",,"Republican","Stacey E. Pickering",75
+"Panola","Enon","State Auditor",,"Reform","Ashley Norwood",27
+"Panola","Enon","Treasurer",,"Republican","Lynn Fitch",71
+"Panola","Enon","Treasurer",,"Democrat","Connie Moran",30
+"Panola","Enon","Treasurer",,"Reform","Shawn O'Hara",4
+"Panola","Enon","Commissioner of Agriculture & Commerce",,"Democrat","Joel Gill",44
+"Panola","Enon","Commissioner of Agriculture & Commerce",,"Republican","Cindy Hyde-Smith",62
+"Panola","Enon","Commissioner of Agriculture & Commerce",,"Reform","Cathy L. Toole",4
+"Panola","Enon","Commissioner of Insurance",,"Republican","Mike Chaney",72
+"Panola","Enon","Commissioner of Insurance",,"Democrat","Louis Fondren",36
+"Panola","Enon","Commissioner of Insurance",,"Reform","Barbara Dale Washer",3
+"Panola","Enon","State Senate",10,"Republican","Vann J. Branch",65
+"Panola","Enon","State Senate",10,"Democrat","Steve Hale",50
+"Panola","Como","Governor",,"Republican","Phil Bryant",288
+"Panola","Como","Governor",,"Democrat","Johnny L. DuPree",678
+"Panola","Como","Lieutenant Governor",,"Republican","Tate Reeves",394
+"Panola","Como","Lieutenant Governor",,"Reform","Tracella Lou O'Hara Hill",285
+"Panola","Como","Secretary of State",,"Republican","Delbert Hosemann",525
+"Panola","Como","Attorney General",,"Democrat","Jim Hood",643
+"Panola","Como","Attorney General",,"Republican","Steve Simpson",235
+"Panola","Como","State Auditor",,"Republican","Stacey E. Pickering",310
+"Panola","Como","State Auditor",,"Reform","Ashley Norwood",337
+"Panola","Como","Treasurer",,"Republican","Lynn Fitch",259
+"Panola","Como","Treasurer",,"Democrat","Connie Moran",613
+"Panola","Como","Treasurer",,"Reform","Shawn O'Hara",32
+"Panola","Como","Commissioner of Agriculture & Commerce",,"Democrat","Joel Gill",650
+"Panola","Como","Commissioner of Agriculture & Commerce",,"Republican","Cindy Hyde-Smith",210
+"Panola","Como","Commissioner of Agriculture & Commerce",,"Reform","Cathy L. Toole",35
+"Panola","Como","Commissioner of Insurance",,"Republican","Mike Chaney",295
+"Panola","Como","Commissioner of Insurance",,"Democrat","Louis Fondren",574
+"Panola","Como","Commissioner of Insurance",,"Reform","Barbara Dale Washer",27
+"Panola","Como","State Senate",10,"Republican","Vann J. Branch",170
+"Panola","Como","State Senate",10,"Democrat","Steve Hale",753
+"Panola","Como","State House",9,"Democrat","Clara Henderson Burnett",98
