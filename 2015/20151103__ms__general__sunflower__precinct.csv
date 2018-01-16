@@ -1,7 +1,7 @@
 candidate,office,district,party,county,precinct,votes,winner
-Phil Bryant,Governor,,Republican,Sunflower,13-Inverness,342,1
-Robert Gray,Governor,,Democrat,Sunflower,13-Inverness,119,
-Shawn O'Hara,Governor,,Reform,Sunflower,13-Inverness,2,
+Phil Bryant,Governor,,Republican,Sunflower,11-Inverness,342,1
+Robert Gray,Governor,,Democrat,Sunflower,11-Inverness,119,
+Shawn O'Hara,Governor,,Reform,Sunflower,11-Inverness,2,
 Phil Bryant,Governor,,Republican,Sunflower,12-Moorhead,179,
 Robert Gray,Governor,,Democrat,Sunflower,12-Moorhead,270,1
 Shawn O'Hara,Governor,,Reform,Sunflower,12-Moorhead,7,
@@ -41,19 +41,19 @@ Shawn O'Hara,Governor,,Reform,Sunflower,45-Sunflower 4,9,
 Phil Bryant,Governor,,Republican,Sunflower,51-Ruleville North,163,1
 Robert Gray,Governor,,Democrat,Sunflower,51-Ruleville North,79,
 Shawn O'Hara,Governor,,Reform,Sunflower,51-Ruleville North,5,
-Phil Bryant,Governor,,Republican,Sunflower,52 Sunflower Plantation,89,1
-Robert Gray,Governor,,Democrat,Sunflower,52 Sunflower Plantation,9,
-Shawn O'Hara,Governor,,Reform,Sunflower,52 Sunflower Plantation,1,
-Phil Bryant,Governor,,Republican,Sunflower,53 Rome,52,1
-Robert Gray,Governor,,Democrat,Sunflower,53 Rome,39,
-Shawn O'Hara,Governor,,Reform,Sunflower,53 Rome,2,
+Phil Bryant,Governor,,Republican,Sunflower,52-Sunflower Plantation,89,1
+Robert Gray,Governor,,Democrat,Sunflower,52-Sunflower Plantation,9,
+Shawn O'Hara,Governor,,Reform,Sunflower,52-Sunflower Plantation,1,
+Phil Bryant,Governor,,Republican,Sunflower,53-Rome,52,1
+Robert Gray,Governor,,Democrat,Sunflower,53-Rome,39,
+Shawn O'Hara,Governor,,Reform,Sunflower,53-Rome,2,
 Phil Bryant,Governor,,Republican,Sunflower,54-Drew,333,
 Robert Gray,Governor,,Democrat,Sunflower,54-Drew,335,1
 Shawn O'Hara,Governor,,Reform,Sunflower,54-Drew,19,
-Tim Johnson,Lieutenant Governor,,Democrat,Sunflower,13-Inverness,143,
-Tate Reeves,Lieutenant Governor,,Republican,Sunflower,13-Inverness,305,1
-Ron Williams,Lieutenant Governor,,Libertarian,Sunflower,13-Inverness,8,
-Rosa B. Williams,Lieutenant Governor,,Reform,Sunflower,13-Inverness,6,
+Tim Johnson,Lieutenant Governor,,Democrat,Sunflower,11-Inverness,143,
+Tate Reeves,Lieutenant Governor,,Republican,Sunflower,11-Inverness,305,1
+Ron Williams,Lieutenant Governor,,Libertarian,Sunflower,11-Inverness,8,
+Rosa B. Williams,Lieutenant Governor,,Reform,Sunflower,11-Inverness,6,
 Tim Johnson,Lieutenant Governor,,Democrat,Sunflower,12-Moorhead,310,1
 Tate Reeves,Lieutenant Governor,,Republican,Sunflower,12-Moorhead,127,
 Ron Williams,Lieutenant Governor,,Libertarian,Sunflower,12-Moorhead,5,
@@ -106,21 +106,21 @@ Tim Johnson,Lieutenant Governor,,Democrat,Sunflower,51-Ruleville North,89,
 Tate Reeves,Lieutenant Governor,,Republican,Sunflower,51-Ruleville North,141,1
 Ron Williams,Lieutenant Governor,,Libertarian,Sunflower,51-Ruleville North,8,
 Rosa B. Williams,Lieutenant Governor,,Reform,Sunflower,51-Ruleville North,4,
-Tim Johnson,Lieutenant Governor,,Democrat,Sunflower,52 Sunflower Plantation,14,
-Tate Reeves,Lieutenant Governor,,Republican,Sunflower,52 Sunflower Plantation,79,1
-Ron Williams,Lieutenant Governor,,Libertarian,Sunflower,52 Sunflower Plantation,0,
-Rosa B. Williams,Lieutenant Governor,,Reform,Sunflower,52 Sunflower Plantation,3,
-Tim Johnson,Lieutenant Governor,,Democrat,Sunflower,53 Rome,46,1
-Tate Reeves,Lieutenant Governor,,Republican,Sunflower,53 Rome,41,
-Ron Williams,Lieutenant Governor,,Libertarian,Sunflower,53 Rome,5,
-Rosa B. Williams,Lieutenant Governor,,Reform,Sunflower,53 Rome,0,
+Tim Johnson,Lieutenant Governor,,Democrat,Sunflower,52-Sunflower Plantation,14,
+Tate Reeves,Lieutenant Governor,,Republican,Sunflower,52-Sunflower Plantation,79,1
+Ron Williams,Lieutenant Governor,,Libertarian,Sunflower,52-Sunflower Plantation,0,
+Rosa B. Williams,Lieutenant Governor,,Reform,Sunflower,52-Sunflower Plantation,3,
+Tim Johnson,Lieutenant Governor,,Democrat,Sunflower,53-Rome,46,1
+Tate Reeves,Lieutenant Governor,,Republican,Sunflower,53-Rome,41,
+Ron Williams,Lieutenant Governor,,Libertarian,Sunflower,53-Rome,5,
+Rosa B. Williams,Lieutenant Governor,,Reform,Sunflower,53-Rome,0,
 Tim Johnson,Lieutenant Governor,,Democrat,Sunflower,54-Drew,371,1
 Tate Reeves,Lieutenant Governor,,Republican,Sunflower,54-Drew,262,
 Ron Williams,Lieutenant Governor,,Libertarian,Sunflower,54-Drew,17,
 Rosa B. Williams,Lieutenant Governor,,Reform,Sunflower,54-Drew,25,
-Charles E. Graham,Secretary of State,,Democrat,Sunflower,13-Inverness,152,
-Delbert Hosemann,Secretary of State,,Republican,Sunflower,13-Inverness,298,1
-Randy Walker,Secretary of State,,Reform,Sunflower,13-Inverness,14,
+Charles E. Graham,Secretary of State,,Democrat,Sunflower,11-Inverness,152,
+Delbert Hosemann,Secretary of State,,Republican,Sunflower,11-Inverness,298,1
+Randy Walker,Secretary of State,,Reform,Sunflower,11-Inverness,14,
 Charles E. Graham,Secretary of State,,Democrat,Sunflower,12-Moorhead,317,1
 Delbert Hosemann,Secretary of State,,Republican,Sunflower,12-Moorhead,112,
 Randy Walker,Secretary of State,,Reform,Sunflower,12-Moorhead,22,
@@ -160,17 +160,17 @@ Randy Walker,Secretary of State,,Reform,Sunflower,45-Sunflower 4,23,
 Charles E. Graham,Secretary of State,,Democrat,Sunflower,51-Ruleville North,101,
 Delbert Hosemann,Secretary of State,,Republican,Sunflower,51-Ruleville North,126,1
 Randy Walker,Secretary of State,,Reform,Sunflower,51-Ruleville North,13,
-Charles E. Graham,Secretary of State,,Democrat,Sunflower,52 Sunflower Plantation,23,
-Delbert Hosemann,Secretary of State,,Republican,Sunflower,52 Sunflower Plantation,74,1
-Randy Walker,Secretary of State,,Reform,Sunflower,52 Sunflower Plantation,2,
-Charles E. Graham,Secretary of State,,Democrat,Sunflower,53 Rome,52,1
-Delbert Hosemann,Secretary of State,,Republican,Sunflower,53 Rome,36,
-Randy Walker,Secretary of State,,Reform,Sunflower,53 Rome,3,
+Charles E. Graham,Secretary of State,,Democrat,Sunflower,52-Sunflower Plantation,23,
+Delbert Hosemann,Secretary of State,,Republican,Sunflower,52-Sunflower Plantation,74,1
+Randy Walker,Secretary of State,,Reform,Sunflower,52-Sunflower Plantation,2,
+Charles E. Graham,Secretary of State,,Democrat,Sunflower,53-Rome,52,1
+Delbert Hosemann,Secretary of State,,Republican,Sunflower,53-Rome,36,
+Randy Walker,Secretary of State,,Reform,Sunflower,53-Rome,3,
 Charles E. Graham,Secretary of State,,Democrat,Sunflower,54-Drew,418,1
 Delbert Hosemann,Secretary of State,,Republican,Sunflower,54-Drew,227,
 Randy Walker,Secretary of State,,Reform,Sunflower,54-Drew,30,
-Jim Hood,Attorney General,,Democrat,Sunflower,13-Inverness,300,1
-Mike Hurst,Attorney General,,Republican,Sunflower,13-Inverness,169,
+Jim Hood,Attorney General,,Democrat,Sunflower,11-Inverness,300,1
+Mike Hurst,Attorney General,,Republican,Sunflower,11-Inverness,169,
 Jim Hood,Attorney General,,Democrat,Sunflower,12-Moorhead,387,1
 Mike Hurst,Attorney General,,Republican,Sunflower,12-Moorhead,64,
 Jim Hood,Attorney General,,Democrat,Sunflower,13-Indianola #1 SouthEast,226,1
@@ -197,15 +197,15 @@ Jim Hood,Attorney General,,Democrat,Sunflower,45-Sunflower 4,272,1
 Mike Hurst,Attorney General,,Republican,Sunflower,45-Sunflower 4,64,
 Jim Hood,Attorney General,,Democrat,Sunflower,51-Ruleville North,168,1
 Mike Hurst,Attorney General,,Republican,Sunflower,51-Ruleville North,73,
-Jim Hood,Attorney General,,Democrat,Sunflower,52 Sunflower Plantation,54,1
-Mike Hurst,Attorney General,,Republican,Sunflower,52 Sunflower Plantation,45,
-Jim Hood,Attorney General,,Democrat,Sunflower,53 Rome,73,1
-Mike Hurst,Attorney General,,Republican,Sunflower,53 Rome,19,
+Jim Hood,Attorney General,,Democrat,Sunflower,52-Sunflower Plantation,54,1
+Mike Hurst,Attorney General,,Republican,Sunflower,52-Sunflower Plantation,45,
+Jim Hood,Attorney General,,Democrat,Sunflower,53-Rome,73,1
+Mike Hurst,Attorney General,,Republican,Sunflower,53-Rome,19,
 Jim Hood,Attorney General,,Democrat,Sunflower,54-Drew,529,1
 Mike Hurst,Attorney General,,Republican,Sunflower,54-Drew,150,
-Stacey E. Pickering,State Auditor,,Republican,Sunflower,13-Inverness,305,1
-"Jocelyn ""Joce"" Pepper Pritchett",State Auditor,,Democrat,Sunflower,13-Inverness,152,
-Lajena Walley,State Auditor,,Reform,Sunflower,13-Inverness,3,
+Stacey E. Pickering,State Auditor,,Republican,Sunflower,11-Inverness,305,1
+"Jocelyn ""Joce"" Pepper Pritchett",State Auditor,,Democrat,Sunflower,11-Inverness,152,
+Lajena Walley,State Auditor,,Reform,Sunflower,11-Inverness,3,
 Stacey E. Pickering,State Auditor,,Republican,Sunflower,12-Moorhead,137,
 "Jocelyn ""Joce"" Pepper Pritchett",State Auditor,,Democrat,Sunflower,12-Moorhead,299,1
 Lajena Walley,State Auditor,,Reform,Sunflower,12-Moorhead,5,
@@ -245,17 +245,17 @@ Lajena Walley,State Auditor,,Reform,Sunflower,45-Sunflower 4,6,
 Stacey E. Pickering,State Auditor,,Republican,Sunflower,51-Ruleville North,147,1
 "Jocelyn ""Joce"" Pepper Pritchett",State Auditor,,Democrat,Sunflower,51-Ruleville North,88,
 Lajena Walley,State Auditor,,Reform,Sunflower,51-Ruleville North,4,
-Stacey E. Pickering,State Auditor,,Republican,Sunflower,52 Sunflower Plantation,82,1
-"Jocelyn ""Joce"" Pepper Pritchett",State Auditor,,Democrat,Sunflower,52 Sunflower Plantation,12,
-Lajena Walley,State Auditor,,Reform,Sunflower,52 Sunflower Plantation,1,
-Stacey E. Pickering,State Auditor,,Republican,Sunflower,53 Rome,47,1
-"Jocelyn ""Joce"" Pepper Pritchett",State Auditor,,Democrat,Sunflower,53 Rome,45,
-Lajena Walley,State Auditor,,Reform,Sunflower,53 Rome,1,
+Stacey E. Pickering,State Auditor,,Republican,Sunflower,52-Sunflower Plantation,82,1
+"Jocelyn ""Joce"" Pepper Pritchett",State Auditor,,Democrat,Sunflower,52-Sunflower Plantation,12,
+Lajena Walley,State Auditor,,Reform,Sunflower,52-Sunflower Plantation,1,
+Stacey E. Pickering,State Auditor,,Republican,Sunflower,53-Rome,47,1
+"Jocelyn ""Joce"" Pepper Pritchett",State Auditor,,Democrat,Sunflower,53-Rome,45,
+Lajena Walley,State Auditor,,Reform,Sunflower,53-Rome,1,
 Stacey E. Pickering,State Auditor,,Republican,Sunflower,54-Drew,283,
 "Jocelyn ""Joce"" Pepper Pritchett",State Auditor,,Democrat,Sunflower,54-Drew,374,1
 Lajena Walley,State Auditor,,Reform,Sunflower,54-Drew,16,
-Lynn Fitch,State Treasurer,,Republican,Sunflower,13-Inverness,349,1
-Viola V. McFarland,State Treasurer,,Reform,Sunflower,13-Inverness,94,
+Lynn Fitch,State Treasurer,,Republican,Sunflower,11-Inverness,349,1
+Viola V. McFarland,State Treasurer,,Reform,Sunflower,11-Inverness,94,
 Lynn Fitch,State Treasurer,,Republican,Sunflower,12-Moorhead,190,
 Viola V. McFarland,State Treasurer,,Reform,Sunflower,12-Moorhead,222,1
 Lynn Fitch,State Treasurer,,Republican,Sunflower,13-Indianola #1 SouthEast,57,
@@ -282,15 +282,15 @@ Lynn Fitch,State Treasurer,,Republican,Sunflower,45-Sunflower 4,140,
 Viola V. McFarland,State Treasurer,,Reform,Sunflower,45-Sunflower 4,163,1
 Lynn Fitch,State Treasurer,,Republican,Sunflower,51-Ruleville North,160,1
 Viola V. McFarland,State Treasurer,,Reform,Sunflower,51-Ruleville North,59,
-Lynn Fitch,State Treasurer,,Republican,Sunflower,52 Sunflower Plantation,81,1
-Viola V. McFarland,State Treasurer,,Reform,Sunflower,52 Sunflower Plantation,11,
-Lynn Fitch,State Treasurer,,Republican,Sunflower,53 Rome,55,1
-Viola V. McFarland,State Treasurer,,Reform,Sunflower,53 Rome,36,
+Lynn Fitch,State Treasurer,,Republican,Sunflower,52-Sunflower Plantation,81,1
+Viola V. McFarland,State Treasurer,,Reform,Sunflower,52-Sunflower Plantation,11,
+Lynn Fitch,State Treasurer,,Republican,Sunflower,53-Rome,55,1
+Viola V. McFarland,State Treasurer,,Reform,Sunflower,53-Rome,36,
 Lynn Fitch,State Treasurer,,Republican,Sunflower,54-Drew,332,1
 Viola V. McFarland,State Treasurer,,Reform,Sunflower,54-Drew,280,
-Addle Lee Green,Commissioner of Agriculture & Commerce,,Democrat,Sunflower,13-Inverness,142,
-Cindy Hyde-Smith,Commissioner of Agriculture & Commerce,,Republican,Sunflower,13-Inverness,310,1
-Cathy L. Toole,Commissioner of Agriculture & Commerce,,Reform,Sunflower,13-Inverness,13,
+Addle Lee Green,Commissioner of Agriculture & Commerce,,Democrat,Sunflower,11-Inverness,142,
+Cindy Hyde-Smith,Commissioner of Agriculture & Commerce,,Republican,Sunflower,11-Inverness,310,1
+Cathy L. Toole,Commissioner of Agriculture & Commerce,,Reform,Sunflower,11-Inverness,13,
 Addle Lee Green,Commissioner of Agriculture & Commerce,,Democrat,Sunflower,12-Moorhead,325,1
 Cindy Hyde-Smith,Commissioner of Agriculture & Commerce,,Republican,Sunflower,12-Moorhead,116,
 Cathy L. Toole,Commissioner of Agriculture & Commerce,,Reform,Sunflower,12-Moorhead,7,
@@ -330,16 +330,16 @@ Cathy L. Toole,Commissioner of Agriculture & Commerce,,Reform,Sunflower,45-Sunfl
 Addle Lee Green,Commissioner of Agriculture & Commerce,,Democrat,Sunflower,51-Ruleville North,96,
 Cindy Hyde-Smith,Commissioner of Agriculture & Commerce,,Republican,Sunflower,51-Ruleville North,133,1
 Cathy L. Toole,Commissioner of Agriculture & Commerce,,Reform,Sunflower,51-Ruleville North,10,
-Addle Lee Green,Commissioner of Agriculture & Commerce,,Democrat,Sunflower,52 Sunflower Plantation,15,
-Cindy Hyde-Smith,Commissioner of Agriculture & Commerce,,Republican,Sunflower,52 Sunflower Plantation,78,1
-Cathy L. Toole,Commissioner of Agriculture & Commerce,,Reform,Sunflower,52 Sunflower Plantation,1,
-Addle Lee Green,Commissioner of Agriculture & Commerce,,Democrat,Sunflower,53 Rome,48,1
-Cindy Hyde-Smith,Commissioner of Agriculture & Commerce,,Republican,Sunflower,53 Rome,39,
-Cathy L. Toole,Commissioner of Agriculture & Commerce,,Reform,Sunflower,53 Rome,4,
+Addle Lee Green,Commissioner of Agriculture & Commerce,,Democrat,Sunflower,52-Sunflower Plantation,15,
+Cindy Hyde-Smith,Commissioner of Agriculture & Commerce,,Republican,Sunflower,52-Sunflower Plantation,78,1
+Cathy L. Toole,Commissioner of Agriculture & Commerce,,Reform,Sunflower,52-Sunflower Plantation,1,
+Addle Lee Green,Commissioner of Agriculture & Commerce,,Democrat,Sunflower,53-Rome,48,1
+Cindy Hyde-Smith,Commissioner of Agriculture & Commerce,,Republican,Sunflower,53-Rome,39,
+Cathy L. Toole,Commissioner of Agriculture & Commerce,,Reform,Sunflower,53-Rome,4,
 Addle Lee Green,Commissioner of Agriculture & Commerce,,Democrat,Sunflower,54-Drew,401,1
 Cindy Hyde-Smith,Commissioner of Agriculture & Commerce,,Republican,Sunflower,54-Drew,246,
 Cathy L. Toole,Commissioner of Agriculture & Commerce,,Reform,Sunflower,54-Drew,25,
-Mike Chaney,Commissioner of Insurance,,Republican,Sunflower,13-Inverness,413,1
+Mike Chaney,Commissioner of Insurance,,Republican,Sunflower,11-Inverness,413,1
 Mike Chaney,Commissioner of Insurance,,Republican,Sunflower,12-Moorhead,339,1
 Mike Chaney,Commissioner of Insurance,,Republican,Sunflower,13-Indianola #1 SouthEast,176,1
 Mike Chaney,Commissioner of Insurance,,Republican,Sunflower,21-Indianola #2 West,275,1
@@ -353,12 +353,12 @@ Mike Chaney,Commissioner of Insurance,,Republican,Sunflower,43-Doddsville,47,1
 Mike Chaney,Commissioner of Insurance,,Republican,Sunflower,44-Ruleville,296,1
 Mike Chaney,Commissioner of Insurance,,Republican,Sunflower,45-Sunflower 4,225,1
 Mike Chaney,Commissioner of Insurance,,Republican,Sunflower,51-Ruleville North,201,1
-Mike Chaney,Commissioner of Insurance,,Republican,Sunflower,52 Sunflower Plantation,90,1
-Mike Chaney,Commissioner of Insurance,,Republican,Sunflower,53 Rome,75,1
+Mike Chaney,Commissioner of Insurance,,Republican,Sunflower,52-Sunflower Plantation,90,1
+Mike Chaney,Commissioner of Insurance,,Republican,Sunflower,53-Rome,75,1
 Mike Chaney,Commissioner of Insurance,,Republican,Sunflower,54-Drew,536,1
-Brent Bailey,Public Service Commissioner,Central,Republican,Sunflower,13-Inverness,274,1
-Cecil Brown,Public Service Commissioner,Central,Democrat,Sunflower,13-Inverness,189,
-LaTrice D. Notree,Public Service Commissioner,Central,Reform,Sunflower,13-Inverness,3,
+Brent Bailey,Public Service Commissioner,Central,Republican,Sunflower,11-Inverness,274,1
+Cecil Brown,Public Service Commissioner,Central,Democrat,Sunflower,11-Inverness,189,
+LaTrice D. Notree,Public Service Commissioner,Central,Reform,Sunflower,11-Inverness,3,
 Brent Bailey,Public Service Commissioner,Central,Republican,Sunflower,12-Moorhead,110,
 Cecil Brown,Public Service Commissioner,Central,Democrat,Sunflower,12-Moorhead,329,1
 LaTrice D. Notree,Public Service Commissioner,Central,Reform,Sunflower,12-Moorhead,11,
@@ -398,17 +398,17 @@ LaTrice D. Notree,Public Service Commissioner,Central,Reform,Sunflower,45-Sunflo
 Brent Bailey,Public Service Commissioner,Central,Republican,Sunflower,51-Ruleville North,128,1
 Cecil Brown,Public Service Commissioner,Central,Democrat,Sunflower,51-Ruleville North,109,
 LaTrice D. Notree,Public Service Commissioner,Central,Reform,Sunflower,51-Ruleville North,5,
-Brent Bailey,Public Service Commissioner,Central,Republican,Sunflower,52 Sunflower Plantation,68,1
-Cecil Brown,Public Service Commissioner,Central,Democrat,Sunflower,52 Sunflower Plantation,23,
-LaTrice D. Notree,Public Service Commissioner,Central,Reform,Sunflower,52 Sunflower Plantation,1,
-Brent Bailey,Public Service Commissioner,Central,Republican,Sunflower,53 Rome,33,
-Cecil Brown,Public Service Commissioner,Central,Democrat,Sunflower,53 Rome,56,1
-LaTrice D. Notree,Public Service Commissioner,Central,Reform,Sunflower,53 Rome,3,
+Brent Bailey,Public Service Commissioner,Central,Republican,Sunflower,52-Sunflower Plantation,68,1
+Cecil Brown,Public Service Commissioner,Central,Democrat,Sunflower,52-Sunflower Plantation,23,
+LaTrice D. Notree,Public Service Commissioner,Central,Reform,Sunflower,52-Sunflower Plantation,1,
+Brent Bailey,Public Service Commissioner,Central,Republican,Sunflower,53-Rome,33,
+Cecil Brown,Public Service Commissioner,Central,Democrat,Sunflower,53-Rome,56,1
+LaTrice D. Notree,Public Service Commissioner,Central,Reform,Sunflower,53-Rome,3,
 Brent Bailey,Public Service Commissioner,Central,Republican,Sunflower,54-Drew,240,
 Cecil Brown,Public Service Commissioner,Central,Democrat,Sunflower,54-Drew,415,1
 LaTrice D. Notree,Public Service Commissioner,Central,Reform,Sunflower,54-Drew,27,
-Mary H. Coleman,Transportation Commissioner,Central,Democrat,Sunflower,13-Inverness,145,
-Dick Hall,Transportation Commissioner,Central,Republican,Sunflower,13-Inverness,322,1
+Mary H. Coleman,Transportation Commissioner,Central,Democrat,Sunflower,11-Inverness,145,
+Dick Hall,Transportation Commissioner,Central,Republican,Sunflower,11-Inverness,322,1
 Mary H. Coleman,Transportation Commissioner,Central,Democrat,Sunflower,12-Moorhead,316,1
 Dick Hall,Transportation Commissioner,Central,Republican,Sunflower,12-Moorhead,136,
 Mary H. Coleman,Transportation Commissioner,Central,Democrat,Sunflower,13-Indianola #1 SouthEast,224,1
@@ -435,13 +435,13 @@ Mary H. Coleman,Transportation Commissioner,Central,Democrat,Sunflower,45-Sunflo
 Dick Hall,Transportation Commissioner,Central,Republican,Sunflower,45-Sunflower 4,112,1
 Mary H. Coleman,Transportation Commissioner,Central,Democrat,Sunflower,51-Ruleville North,93,
 Dick Hall,Transportation Commissioner,Central,Republican,Sunflower,51-Ruleville North,150,1
-Mary H. Coleman,Transportation Commissioner,Central,Democrat,Sunflower,52 Sunflower Plantation,13,
-Dick Hall,Transportation Commissioner,Central,Republican,Sunflower,52 Sunflower Plantation,84,1
-Mary H. Coleman,Transportation Commissioner,Central,Democrat,Sunflower,53 Rome,45,
-Dick Hall,Transportation Commissioner,Central,Republican,Sunflower,53 Rome,46,1
+Mary H. Coleman,Transportation Commissioner,Central,Democrat,Sunflower,52-Sunflower Plantation,13,
+Dick Hall,Transportation Commissioner,Central,Republican,Sunflower,52-Sunflower Plantation,84,1
+Mary H. Coleman,Transportation Commissioner,Central,Democrat,Sunflower,53-Rome,45,
+Dick Hall,Transportation Commissioner,Central,Republican,Sunflower,53-Rome,46,1
 Mary H. Coleman,Transportation Commissioner,Central,Democrat,Sunflower,54-Drew,437,1
 Dick Hall,Transportation Commissioner,Central,Republican,Sunflower,54-Drew,251,
-W. Dewayne Richardson,District Attorney,4,Democrat,Sunflower,13-Inverness,390,1
+W. Dewayne Richardson,District Attorney,4,Democrat,Sunflower,11-Inverness,390,1
 W. Dewayne Richardson,District Attorney,4,Democrat,Sunflower,12-Moorhead,416,1
 W. Dewayne Richardson,District Attorney,4,Democrat,Sunflower,13-Indianola #1 SouthEast,238,1
 W. Dewayne Richardson,District Attorney,4,Democrat,Sunflower,21-Indianola #2 West,316,1
@@ -455,10 +455,10 @@ W. Dewayne Richardson,District Attorney,4,Democrat,Sunflower,43-Doddsville,64,1
 W. Dewayne Richardson,District Attorney,4,Democrat,Sunflower,44-Ruleville,429,1
 W. Dewayne Richardson,District Attorney,4,Democrat,Sunflower,45-Sunflower 4,280,1
 W. Dewayne Richardson,District Attorney,4,Democrat,Sunflower,51-Ruleville North,190,1
-W. Dewayne Richardson,District Attorney,4,Democrat,Sunflower,52 Sunflower Plantation,73,1
-W. Dewayne Richardson,District Attorney,4,Democrat,Sunflower,53 Rome,80,1
+W. Dewayne Richardson,District Attorney,4,Democrat,Sunflower,52-Sunflower Plantation,73,1
+W. Dewayne Richardson,District Attorney,4,Democrat,Sunflower,53-Rome,80,1
 W. Dewayne Richardson,District Attorney,4,Democrat,Sunflower,54-Drew,611,1
-Willie L. Simmons,State Senate,13,Democrat,Sunflower,13-Inverness,381,1
+Willie L. Simmons,State Senate,13,Democrat,Sunflower,11-Inverness,381,1
 Willie L. Simmons,State Senate,13,Democrat,Sunflower,12-Moorhead,414,1
 Willie L. Simmons,State Senate,13,Democrat,Sunflower,13-Indianola #1 SouthEast,235,1
 Willie L. Simmons,State Senate,13,Democrat,Sunflower,21-Indianola #2 West,320,1
@@ -472,15 +472,15 @@ Willie L. Simmons,State Senate,13,Democrat,Sunflower,43-Doddsville,64,1
 Willie L. Simmons,State Senate,13,Democrat,Sunflower,44-Ruleville,437,1
 Willie L. Simmons,State Senate,13,Democrat,Sunflower,45-Sunflower 4,270,1
 Willie L. Simmons,State Senate,13,Democrat,Sunflower,51-Ruleville North,188,1
-Willie L. Simmons,State Senate,13,Democrat,Sunflower,52 Sunflower Plantation,70,1
-Willie L. Simmons,State Senate,13,Democrat,Sunflower,53 Rome,72,1
+Willie L. Simmons,State Senate,13,Democrat,Sunflower,52-Sunflower Plantation,70,1
+Willie L. Simmons,State Senate,13,Democrat,Sunflower,53-Rome,72,1
 Willie L. Simmons,State Senate,13,Democrat,Sunflower,54-Drew,627,1
-Linda F. Coleman,State House,29,Democrat,Sunflower,52 Sunflower Plantation,73,1
+Linda F. Coleman,State House,29,Democrat,Sunflower,52-Sunflower Plantation,73,1
 Robert E. Huddleston,State House ,30,Democrat,Sunflower,44-Ruleville,427,1
 Robert E. Huddleston,State House ,30,Democrat,Sunflower,51-Ruleville North,193,1
-Robert E. Huddleston,State House ,30,Democrat,Sunflower,53 Rome,75,1
+Robert E. Huddleston,State House ,30,Democrat,Sunflower,53-Rome,75,1
 Robert E. Huddleston,State House ,30,Democrat,Sunflower,54-Drew,611,1
-Sara Richardson Thomas,State House,31,Democrat,Sunflower,13-Inverness,386,1
+Sara Richardson Thomas,State House,31,Democrat,Sunflower,11-Inverness,386,1
 Sara Richardson Thomas,State House,31,Democrat,Sunflower,12-Moorhead,395,1
 Sara Richardson Thomas,State House,31,Democrat,Sunflower,13-Indianola #1 SouthEast,240,1
 Sara Richardson Thomas,State House,31,Democrat,Sunflower,21-Indianola #2 West,311,1

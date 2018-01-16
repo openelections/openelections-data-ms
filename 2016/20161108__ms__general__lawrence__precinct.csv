@@ -1,4 +1,4 @@
-candidate,office,district,party,county,precinct,votes,winner,page
+candidate,office,District,party,county,precinct,votes,winner,page
 Hillary Clinton,President,,Democrat,Lawrence,Armory,19,,2
 Donald J. Trump,President,,Republican,Lawrence,Armory,92,,2
 Darrell Castle,President,,Constitution,Lawrence,Armory,0,,2
@@ -263,17 +263,17 @@ Gregg Harper,U.S. House,3,Republican,Lawrence,West Arm,91,,4
 Dennis C. Quinn,U.S. House,3,Democrat,Lawrence,West Arm,102,,4
 Roger I. Gerrard,U.S. House,3,Veterans,Lawrence,West Arm,6,,4
 Lajena Sheets,U.S. House,3,Reform,Lawrence,West Arm,4,,4
-Hillary Clinton,President,,Democrat,Lawrence,West district 1,11,,4
-Donald J. Trump,President,,Republican,Lawrence,West district 1,150,,4
-Darrell Castle,President,,Constitution,Lawrence,West district 1,3,,4
-Rocky' Roque De La Fuente,President,,American Delta,Lawrence,West district 1,0,,4
-Jim Hedges,President,,Prohibition,Lawrence,West district 1,0,,4
-Gary Johnson,President,,Libertarian,Lawrence,West district 1,0,,4
-Jill Stein,President,,Green,Lawrence,West district 1,1,,4
-Gregg Harper,U.S. House,3,Republican,Lawrence,West district 1,152,,4
-Dennis C. Quinn,U.S. House,3,Democrat,Lawrence,West district 1,8,,4
-Roger I. Gerrard,U.S. House,3,Veterans,Lawrence,West district 1,5,,4
-Lajena Sheets,U.S. House,3,Reform,Lawrence,West district 1,0,,4
+Hillary Clinton,President,,Democrat,Lawrence,West District 1,11,,4
+Donald J. Trump,President,,Republican,Lawrence,West District 1,150,,4
+Darrell Castle,President,,Constitution,Lawrence,West District 1,3,,4
+Rocky' Roque De La Fuente,President,,American Delta,Lawrence,West District 1,0,,4
+Jim Hedges,President,,Prohibition,Lawrence,West District 1,0,,4
+Gary Johnson,President,,Libertarian,Lawrence,West District 1,0,,4
+Jill Stein,President,,Green,Lawrence,West District 1,1,,4
+Gregg Harper,U.S. House,3,Republican,Lawrence,West District 1,152,,4
+Dennis C. Quinn,U.S. House,3,Democrat,Lawrence,West District 1,8,,4
+Roger I. Gerrard,U.S. House,3,Veterans,Lawrence,West District 1,5,,4
+Lajena Sheets,U.S. House,3,Reform,Lawrence,West District 1,0,,4
 Hillary Clinton,President,,Democrat,Lawrence,West Monticello (A-Z),243,,4
 Donald J. Trump,President,,Republican,Lawrence,West Monticello (A-Z),298,,4
 Darrell Castle,President,,Constitution,Lawrence,West Monticello (A-Z),1,,4
