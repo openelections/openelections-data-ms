@@ -1,53 +1,53 @@
 county,precinct,office,district,party,candidate,votes
-Leflore,Central Greenwood,Governor,,Democrat,Robert Gray,150
-Leflore,Central Greenwood,Governor,,Republican,Phil Bryant,85
-Leflore,Central Greenwood,Governor,,Reform,Shawn O'Hara,2
-Leflore,Central Greenwood,Lieutenant Governor,,Democrat,Tim Johnson,159
-Leflore,Central Greenwood,Lieutenant Governor,,Republican,Tate Reeves,59
-Leflore,Central Greenwood,Lieutenant Governor,,Libertarian,Ron Williams,4
-Leflore,Central Greenwood,Lieutenant Governor,,Reform,Rosa B. Williams,8
-Leflore,Central Greenwood,Secretary of State,,Democrat,Charles E. Graham,142
-Leflore,Central Greenwood,Secretary of State,,Republican,Delbert Hosemann,76
-Leflore,Central Greenwood,Secretary of State,,Reform,Randy Walker,12
-Leflore,Central Greenwood,Attorney General,,Democrat,Jim Hood,200
-Leflore,Central Greenwood,Attorney General,,Republican,Mike Hurst,40
-Leflore,Central Greenwood,State Auditor,,Republican,Stacey E. Pickering,149
-Leflore,Central Greenwood,State Auditor,,Democrat,Jocelyn 'Joce' Pepper Pritchett,67
-Leflore,Central Greenwood,State Auditor,,Reform,Lajena Walley,2
-Leflore,Central Greenwood,State Treasurer,,Republican,Lynn Fitch,86
-Leflore,Central Greenwood,State Treasurer,,Reform,Viola McFarland,86
-Leflore,Central Greenwood,Commissioner of Agriculture & Commerce,,Democrat,Addie Lee Green,160
-Leflore,Central Greenwood,Commissioner of Agriculture & Commerce,,Republican,Cindy Hyde-Smith,53
-Leflore,Central Greenwood,Commissioner of Agriculture & Commerce,,Reform,Cathy L Toole,5
-Leflore,Central Greenwood,Commissioner of Insurance,,Republican,Mike Chaney,138
-Leflore,Central Greenwood,State Senate,14,Democrat,Georgio Proctor,19
-Leflore,Central Greenwood,State Senate,14,Republican,Lydia Graves Chassanoil,27
-Leflore,Central Greenwood,State Senate,14,Independent,Donny Ryals,2
-Leflore,Central Greenwood,State Senate,24,Democrat,David Jordan,163
-Leflore,Central Greenwood,State House,32,Democrat,Willie J Perkins Sr,181
-Leflore,East Greeenwood,Governor,,Democrat,Robert Gray,551
-Leflore,East Greeenwood,Governor,,Republican,Phil Bryant,96
-Leflore,East Greeenwood,Governor,,Reform,Shawn O'Hara,13
-Leflore,East Greeenwood,Lieutenant Governor,,Democrat,Tim Johnson,544
-Leflore,East Greeenwood,Lieutenant Governor,,Republican,Tate Reeves,62
-Leflore,East Greeenwood,Lieutenant Governor,,Libertarian,Ron Williams,15
-Leflore,East Greeenwood,Lieutenant Governor,,Reform,Rosa B. Williams,18
-Leflore,East Greeenwood,Secretary of State,,Democrat,Charles E. Graham,552
-Leflore,East Greeenwood,Secretary of State,,Republican,Delbert Hosemann,49
-Leflore,East Greeenwood,Secretary of State,,Reform,Randy Walker,29
-Leflore,East Greeenwood,Attorney General,,Democrat,Jim Hood,571
-Leflore,East Greeenwood,Attorney General,,Republican,Mike Hurst,57
-Leflore,East Greeenwood,State Auditor,,Republican,Stacey E. Pickering,555
-Leflore,East Greeenwood,State Auditor,,Democrat,Jocelyn 'Joce' Pepper Pritchett,62
-Leflore,East Greeenwood,State Auditor,,Reform,Lajena Walley,13
-Leflore,East Greeenwood,State Treasurer,,Republican,Lynn Fitch,151
-Leflore,East Greeenwood,State Treasurer,,Reform,Viola McFarland,271
-Leflore,East Greeenwood,Commissioner of Agriculture & Commerce,,Democrat,Addie Lee Green,564
-Leflore,East Greeenwood,Commissioner of Agriculture & Commerce,,Republican,Cindy Hyde-Smith,40
-Leflore,East Greeenwood,Commissioner of Agriculture & Commerce,,Reform,Cathy L Toole,17
-Leflore,East Greeenwood,Commissioner of Insurance,,Republican,Mike Chaney,311
-Leflore,East Greeenwood,State Senate,24,Democrat,David Jordan,655
-Leflore,East Greeenwood,State Senate,32,Democrat,Willie J Perkins Sr,640
+Leflore,Central Gwd,Governor,,Democrat,Robert Gray,150
+Leflore,Central Gwd,Governor,,Republican,Phil Bryant,85
+Leflore,Central Gwd,Governor,,Reform,Shawn O'Hara,2
+Leflore,Central Gwd,Lieutenant Governor,,Democrat,Tim Johnson,159
+Leflore,Central Gwd,Lieutenant Governor,,Republican,Tate Reeves,59
+Leflore,Central Gwd,Lieutenant Governor,,Libertarian,Ron Williams,4
+Leflore,Central Gwd,Lieutenant Governor,,Reform,Rosa B. Williams,8
+Leflore,Central Gwd,Secretary of State,,Democrat,Charles E. Graham,142
+Leflore,Central Gwd,Secretary of State,,Republican,Delbert Hosemann,76
+Leflore,Central Gwd,Secretary of State,,Reform,Randy Walker,12
+Leflore,Central Gwd,Attorney General,,Democrat,Jim Hood,200
+Leflore,Central Gwd,Attorney General,,Republican,Mike Hurst,40
+Leflore,Central Gwd,State Auditor,,Republican,Stacey E. Pickering,149
+Leflore,Central Gwd,State Auditor,,Democrat,Jocelyn 'Joce' Pepper Pritchett,67
+Leflore,Central Gwd,State Auditor,,Reform,Lajena Walley,2
+Leflore,Central Gwd,State Treasurer,,Republican,Lynn Fitch,86
+Leflore,Central Gwd,State Treasurer,,Reform,Viola McFarland,86
+Leflore,Central Gwd,Commissioner of Agriculture & Commerce,,Democrat,Addie Lee Green,160
+Leflore,Central Gwd,Commissioner of Agriculture & Commerce,,Republican,Cindy Hyde-Smith,53
+Leflore,Central Gwd,Commissioner of Agriculture & Commerce,,Reform,Cathy L Toole,5
+Leflore,Central Gwd,Commissioner of Insurance,,Republican,Mike Chaney,138
+Leflore,Central Gwd,State Senate,14,Democrat,Georgio Proctor,19
+Leflore,Central Gwd,State Senate,14,Republican,Lydia Graves Chassanoil,27
+Leflore,Central Gwd,State Senate,14,Independent,Donny Ryals,2
+Leflore,Central Gwd,State Senate,24,Democrat,David Jordan,163
+Leflore,Central Gwd,State House,32,Democrat,Willie J Perkins Sr,181
+Leflore,East Gwd,Governor,,Democrat,Robert Gray,551
+Leflore,East Gwd,Governor,,Republican,Phil Bryant,96
+Leflore,East Gwd,Governor,,Reform,Shawn O'Hara,13
+Leflore,East Gwd,Lieutenant Governor,,Democrat,Tim Johnson,544
+Leflore,East Gwd,Lieutenant Governor,,Republican,Tate Reeves,62
+Leflore,East Gwd,Lieutenant Governor,,Libertarian,Ron Williams,15
+Leflore,East Gwd,Lieutenant Governor,,Reform,Rosa B. Williams,18
+Leflore,East Gwd,Secretary of State,,Democrat,Charles E. Graham,552
+Leflore,East Gwd,Secretary of State,,Republican,Delbert Hosemann,49
+Leflore,East Gwd,Secretary of State,,Reform,Randy Walker,29
+Leflore,East Gwd,Attorney General,,Democrat,Jim Hood,571
+Leflore,East Gwd,Attorney General,,Republican,Mike Hurst,57
+Leflore,East Gwd,State Auditor,,Republican,Stacey E. Pickering,555
+Leflore,East Gwd,State Auditor,,Democrat,Jocelyn 'Joce' Pepper Pritchett,62
+Leflore,East Gwd,State Auditor,,Reform,Lajena Walley,13
+Leflore,East Gwd,State Treasurer,,Republican,Lynn Fitch,151
+Leflore,East Gwd,State Treasurer,,Reform,Viola McFarland,271
+Leflore,East Gwd,Commissioner of Agriculture & Commerce,,Democrat,Addie Lee Green,564
+Leflore,East Gwd,Commissioner of Agriculture & Commerce,,Republican,Cindy Hyde-Smith,40
+Leflore,East Gwd,Commissioner of Agriculture & Commerce,,Reform,Cathy L Toole,17
+Leflore,East Gwd,Commissioner of Insurance,,Republican,Mike Chaney,311
+Leflore,East Gwd,State Senate,24,Democrat,David Jordan,655
+Leflore,East Gwd,State Senate,32,Democrat,Willie J Perkins Sr,640
 Leflore,Minter City,Governor,,Democrat,Robert Gray,44
 Leflore,Minter City,Governor,,Republican,Phil Bryant,104
 Leflore,Minter City,Governor,,Reform,Shawn O'Hara,1
@@ -143,57 +143,57 @@ Leflore,MVSU,Commissioner of Agriculture & Commerce,,Reform,Cathy L Toole,3
 Leflore,MVSU,Commissioner of Insurance,,Republican,Mike Chaney,80
 Leflore,MVSU,State Senate,24,Democrat,David Jordan,98
 Leflore,MVSU,State House,32,Democrat,Willie J Perkins Sr,98
-Leflore,NE Greenwood,Governor,,Republican,Phil Bryant,106
-Leflore,NE Greenwood,Governor,,Democrat,Robert Gray,285
-Leflore,NE Greenwood,Governor,,Reform,Shawn O'Hara,0
-Leflore,NE Greenwood,Lieutenant Governor,,Democrat,Tim Johnson,289
-Leflore,NE Greenwood,Lieutenant Governor,,Republican,Tate Reeves,83
-Leflore,NE Greenwood,Lieutenant Governor,,Libertarian,Ron Williams,6
-Leflore,NE Greenwood,Lieutenant Governor,,Reform,Rosa B. Williams,4
-Leflore,NE Greenwood,Secretary of State,,Democrat,Charles E. Graham,300
-Leflore,NE Greenwood,Secretary of State,,Republican,Delbert Hosemann,71
-Leflore,NE Greenwood,Secretary of State,,Reform,Randy Walker,9
-Leflore,NE Greenwood,Attorney General,,Democrat,Jim Hood,326
-Leflore,NE Greenwood,Attorney General,,Republican,Mike Hurst,51
-Leflore,NE Greenwood,State Auditor,,Republican,Stacey E. Pickering,287
-Leflore,NE Greenwood,State Auditor,,Democrat,Jocelyn 'Joce' Pepper Pritchett,80
-Leflore,NE Greenwood,State Auditor,,Reform,Lajena Walley,2
-Leflore,NE Greenwood,State Treasurer,,Republican,Lynn Fitch,128
-Leflore,NE Greenwood,State Treasurer,,Reform,Viola McFarland,132
-Leflore,NE Greenwood,Commissioner of Agriculture & Commerce,,Democrat,Addie Lee Green,300
-Leflore,NE Greenwood,Commissioner of Agriculture & Commerce,,Republican,Cindy Hyde-Smith,74
-Leflore,NE Greenwood,Commissioner of Agriculture & Commerce,,Reform,Cathy L Toole,6
-Leflore,NE Greenwood,Commissioner of Insurance,,Republican,Mike Chaney,196
-Leflore,NE Greenwood,State Senate,24,Democrat,David Jordan,335
-Leflore,NE Greenwood,State Senate,32,Democrat,Willie J Perkins Sr,342
-Leflore,North Greenwood,Governor,,Republican,Phil Bryant,1674
-Leflore,North Greenwood,Governor,,Democrat,Robert Gray,245
-Leflore,North Greenwood,Governor,,Reform,Shawn O'Hara,14
-Leflore,North Greenwood,Lieutenant Governor,,Democrat,Tim Johnson,297
-Leflore,North Greenwood,Lieutenant Governor,,Republican,Tate Reeves,1574
-Leflore,North Greenwood,Lieutenant Governor,,Libertarian,Ron Williams,29
-Leflore,North Greenwood,Lieutenant Governor,,Reform,Rosa B. Williams,12
-Leflore,North Greenwood,Secretary of State,,Democrat,Charles E. Graham,229
-Leflore,North Greenwood,Secretary of State,,Republican,Delbert Hosemann,1646
-Leflore,North Greenwood,Secretary of State,,Reform,Randy Walker,43
-Leflore,North Greenwood,Attorney General,,Democrat,Jim Hood,870
-Leflore,North Greenwood,Attorney General,,Republican,Mike Hurst,1046
-Leflore,North Greenwood,State Auditor,,Republican,Stacey E. Pickering,277
-Leflore,North Greenwood,State Auditor,,Democrat,Jocelyn 'Joce' Pepper Pritchett,1613
-Leflore,North Greenwood,State Auditor,,Reform,Lajena Walley,15
-Leflore,North Greenwood,State Treasurer,,Republican,Lynn Fitch,1688
-Leflore,North Greenwood,State Treasurer,,Reform,Viola McFarland,144
-Leflore,North Greenwood,Commissioner of Agriculture & Commerce,,Democrat,Addie Lee Green,240
-Leflore,North Greenwood,Commissioner of Agriculture & Commerce,,Republican,Cindy Hyde-Smith,1614
-Leflore,North Greenwood,Commissioner of Agriculture & Commerce,,Reform,Cathy L Toole,39
-Leflore,North Greenwood,Commissioner of Insurance,,Republican,Mike Chaney,1773
-Leflore,North Greenwood,State Senate,14,Democrat,Georgio Proctor,121
-Leflore,North Greenwood,State Senate,14,Republican,Lydia Graves Chassanoil,1467
-Leflore,North Greenwood,State Senate,14,Independent,Donny Ryals,74
-Leflore,North Greenwood,State Senate,24,Democrat,David Jordan,154
-Leflore,North Greenwood,State House,32,Democrat,Willie J Perkins Sr,259
-Leflore,North Greenwood,State House,46,Democrat,Ken Strachan,336
-Leflore,North Greenwood,State House,46,Republican,Karl Oliver,1068
+Leflore,Ne Gwd,Governor,,Republican,Phil Bryant,106
+Leflore,Ne Gwd,Governor,,Democrat,Robert Gray,285
+Leflore,Ne Gwd,Governor,,Reform,Shawn O'Hara,0
+Leflore,Ne Gwd,Lieutenant Governor,,Democrat,Tim Johnson,289
+Leflore,Ne Gwd,Lieutenant Governor,,Republican,Tate Reeves,83
+Leflore,Ne Gwd,Lieutenant Governor,,Libertarian,Ron Williams,6
+Leflore,Ne Gwd,Lieutenant Governor,,Reform,Rosa B. Williams,4
+Leflore,Ne Gwd,Secretary of State,,Democrat,Charles E. Graham,300
+Leflore,Ne Gwd,Secretary of State,,Republican,Delbert Hosemann,71
+Leflore,Ne Gwd,Secretary of State,,Reform,Randy Walker,9
+Leflore,Ne Gwd,Attorney General,,Democrat,Jim Hood,326
+Leflore,Ne Gwd,Attorney General,,Republican,Mike Hurst,51
+Leflore,Ne Gwd,State Auditor,,Republican,Stacey E. Pickering,287
+Leflore,Ne Gwd,State Auditor,,Democrat,Jocelyn 'Joce' Pepper Pritchett,80
+Leflore,Ne Gwd,State Auditor,,Reform,Lajena Walley,2
+Leflore,Ne Gwd,State Treasurer,,Republican,Lynn Fitch,128
+Leflore,Ne Gwd,State Treasurer,,Reform,Viola McFarland,132
+Leflore,Ne Gwd,Commissioner of Agriculture & Commerce,,Democrat,Addie Lee Green,300
+Leflore,Ne Gwd,Commissioner of Agriculture & Commerce,,Republican,Cindy Hyde-Smith,74
+Leflore,Ne Gwd,Commissioner of Agriculture & Commerce,,Reform,Cathy L Toole,6
+Leflore,Ne Gwd,Commissioner of Insurance,,Republican,Mike Chaney,196
+Leflore,Ne Gwd,State Senate,24,Democrat,David Jordan,335
+Leflore,Ne Gwd,State Senate,32,Democrat,Willie J Perkins Sr,342
+Leflore,North Gwd,Governor,,Republican,Phil Bryant,1674
+Leflore,North Gwd,Governor,,Democrat,Robert Gray,245
+Leflore,North Gwd,Governor,,Reform,Shawn O'Hara,14
+Leflore,North Gwd,Lieutenant Governor,,Democrat,Tim Johnson,297
+Leflore,North Gwd,Lieutenant Governor,,Republican,Tate Reeves,1574
+Leflore,North Gwd,Lieutenant Governor,,Libertarian,Ron Williams,29
+Leflore,North Gwd,Lieutenant Governor,,Reform,Rosa B. Williams,12
+Leflore,North Gwd,Secretary of State,,Democrat,Charles E. Graham,229
+Leflore,North Gwd,Secretary of State,,Republican,Delbert Hosemann,1646
+Leflore,North Gwd,Secretary of State,,Reform,Randy Walker,43
+Leflore,North Gwd,Attorney General,,Democrat,Jim Hood,870
+Leflore,North Gwd,Attorney General,,Republican,Mike Hurst,1046
+Leflore,North Gwd,State Auditor,,Republican,Stacey E. Pickering,277
+Leflore,North Gwd,State Auditor,,Democrat,Jocelyn 'Joce' Pepper Pritchett,1613
+Leflore,North Gwd,State Auditor,,Reform,Lajena Walley,15
+Leflore,North Gwd,State Treasurer,,Republican,Lynn Fitch,1688
+Leflore,North Gwd,State Treasurer,,Reform,Viola McFarland,144
+Leflore,North Gwd,Commissioner of Agriculture & Commerce,,Democrat,Addie Lee Green,240
+Leflore,North Gwd,Commissioner of Agriculture & Commerce,,Republican,Cindy Hyde-Smith,1614
+Leflore,North Gwd,Commissioner of Agriculture & Commerce,,Reform,Cathy L Toole,39
+Leflore,North Gwd,Commissioner of Insurance,,Republican,Mike Chaney,1773
+Leflore,North Gwd,State Senate,14,Democrat,Georgio Proctor,121
+Leflore,North Gwd,State Senate,14,Republican,Lydia Graves Chassanoil,1467
+Leflore,North Gwd,State Senate,14,Independent,Donny Ryals,74
+Leflore,North Gwd,State Senate,24,Democrat,David Jordan,154
+Leflore,North Gwd,State House,32,Democrat,Willie J Perkins Sr,259
+Leflore,North Gwd,State House,46,Democrat,Ken Strachan,336
+Leflore,North Gwd,State House,46,Republican,Karl Oliver,1068
 Leflore,North Itta Bena,Governor,,Republican,Phil Bryant,186
 Leflore,North Itta Bena,Governor,,Democrat,Robert Gray,535
 Leflore,North Itta Bena,Governor,,Reform,Shawn O'Hara,7
@@ -286,29 +286,29 @@ Leflore,Sidon,Commissioner of Agriculture & Commerce,,Reform,Cathy L Toole,7
 Leflore,Sidon,Commissioner of Insurance,,Republican,Mike Chaney,116
 Leflore,Sidon,State Senate,24,Democrat,David Jordan,129
 Leflore,Sidon,State House,32,Democrat,Willie J Perkins Sr,130
-Leflore,South Greenwood,Governor,,Republican,Phil Bryant,169
-Leflore,South Greenwood,Governor,,Democrat,Robert Gray,30
-Leflore,South Greenwood,Governor,,Reform,Shawn O'Hara,1
-Leflore,South Greenwood,Lieutenant Governor,,Democrat,Tim Johnson,173
-Leflore,South Greenwood,Lieutenant Governor,,Republican,Tate Reeves,14
-Leflore,South Greenwood,Lieutenant Governor,,Libertarian,Ron Williams,5
-Leflore,South Greenwood,Lieutenant Governor,,Reform,Rosa B. Williams,5
-Leflore,South Greenwood,Secretary of State,,Democrat,Charles E. Graham,165
-Leflore,South Greenwood,Secretary of State,,Republican,Delbert Hosemann,6
-Leflore,South Greenwood,Secretary of State,,Reform,Randy Walker,11
-Leflore,South Greenwood,Attorney General,,Democrat,Jim Hood,173
-Leflore,South Greenwood,Attorney General,,Republican,Mike Hurst,11
-Leflore,South Greenwood,State Auditor,,Republican,Stacey E. Pickering,163
-Leflore,South Greenwood,State Auditor,,Democrat,Jocelyn 'Joce' Pepper Pritchett,20
-Leflore,South Greenwood,State Auditor,,Reform,Lajena Walley,2
-Leflore,South Greenwood,State Treasurer,,Republican,Lynn Fitch,36
-Leflore,South Greenwood,State Treasurer,,Reform,Viola McFarland,86
-Leflore,South Greenwood,Commissioner of Agriculture & Commerce,,Democrat,Addie Lee Green,174
-Leflore,South Greenwood,Commissioner of Agriculture & Commerce,,Republican,Cindy Hyde-Smith,7
-Leflore,South Greenwood,Commissioner of Agriculture & Commerce,,Reform,Cathy L Toole,5
-Leflore,South Greenwood,Commissioner of Insurance,,Republican,Mike Chaney,82
-Leflore,South Greenwood,State Senate,24,Democrat,David Jordan,194
-Leflore,South Greenwood,State House,32,Democrat,Willie J Perkins Sr,189
+Leflore,South Gwd,Governor,,Republican,Phil Bryant,169
+Leflore,South Gwd,Governor,,Democrat,Robert Gray,30
+Leflore,South Gwd,Governor,,Reform,Shawn O'Hara,1
+Leflore,South Gwd,Lieutenant Governor,,Democrat,Tim Johnson,173
+Leflore,South Gwd,Lieutenant Governor,,Republican,Tate Reeves,14
+Leflore,South Gwd,Lieutenant Governor,,Libertarian,Ron Williams,5
+Leflore,South Gwd,Lieutenant Governor,,Reform,Rosa B. Williams,5
+Leflore,South Gwd,Secretary of State,,Democrat,Charles E. Graham,165
+Leflore,South Gwd,Secretary of State,,Republican,Delbert Hosemann,6
+Leflore,South Gwd,Secretary of State,,Reform,Randy Walker,11
+Leflore,South Gwd,Attorney General,,Democrat,Jim Hood,173
+Leflore,South Gwd,Attorney General,,Republican,Mike Hurst,11
+Leflore,South Gwd,State Auditor,,Republican,Stacey E. Pickering,163
+Leflore,South Gwd,State Auditor,,Democrat,Jocelyn 'Joce' Pepper Pritchett,20
+Leflore,South Gwd,State Auditor,,Reform,Lajena Walley,2
+Leflore,South Gwd,State Treasurer,,Republican,Lynn Fitch,36
+Leflore,South Gwd,State Treasurer,,Reform,Viola McFarland,86
+Leflore,South Gwd,Commissioner of Agriculture & Commerce,,Democrat,Addie Lee Green,174
+Leflore,South Gwd,Commissioner of Agriculture & Commerce,,Republican,Cindy Hyde-Smith,7
+Leflore,South Gwd,Commissioner of Agriculture & Commerce,,Reform,Cathy L Toole,5
+Leflore,South Gwd,Commissioner of Insurance,,Republican,Mike Chaney,82
+Leflore,South Gwd,State Senate,24,Democrat,David Jordan,194
+Leflore,South Gwd,State House,32,Democrat,Willie J Perkins Sr,189
 Leflore,South Itta Bena,Governor,,Republican,Phil Bryant,154
 Leflore,South Itta Bena,Governor,,Democrat,Robert Gray,73
 Leflore,South Itta Bena,Governor,,Reform,Shawn O'Hara,2
@@ -332,52 +332,52 @@ Leflore,South Itta Bena,Commissioner of Agriculture & Commerce,,Reform,Cathy L T
 Leflore,South Itta Bena,Commissioner of Insurance,,Republican,Mike Chaney,151
 Leflore,South Itta Bena,State Senate,24,Democrat,David Jordan,196
 Leflore,South Itta Bena,State House,34,Democrat,Kevin Horan,198
-Leflore,Southeast Greenwood,Governor,,Republican,Phil Bryant,552
-Leflore,Southeast Greenwood,Governor,,Democrat,Robert Gray,236
-Leflore,Southeast Greenwood,Governor,,Reform,Shawn O'Hara,5
-Leflore,Southeast Greenwood,Lieutenant Governor,,Democrat,Tim Johnson,555
-Leflore,Southeast Greenwood,Lieutenant Governor,,Republican,Tate Reeves,200
-Leflore,Southeast Greenwood,Lieutenant Governor,,Libertarian,Ron Williams,4
-Leflore,Southeast Greenwood,Lieutenant Governor,,Reform,Rosa B. Williams,18
-Leflore,Southeast Greenwood,Secretary of State,,Democrat,Charles E. Graham,559
-Leflore,Southeast Greenwood,Secretary of State,,Republican,Delbert Hosemann,193
-Leflore,Southeast Greenwood,Secretary of State,,Reform,Randy Walker,21
-Leflore,Southeast Greenwood,Attorney General,,Democrat,Jim Hood,668
-Leflore,Southeast Greenwood,Attorney General,,Republican,Mike Hurst,113
-Leflore,Southeast Greenwood,State Auditor,,Republican,Stacey E. Pickering,556
-Leflore,Southeast Greenwood,State Auditor,,Democrat,Jocelyn 'Joce' Pepper Pritchett,205
-Leflore,Southeast Greenwood,State Auditor,,Reform,Lajena Walley,9
-Leflore,Southeast Greenwood,State Treasurer,,Republican,Lynn Fitch,308
-Leflore,Southeast Greenwood,State Treasurer,,Reform,Viola McFarland,280
-Leflore,Southeast Greenwood,Commissioner of Agriculture & Commerce,,Democrat,Addie Lee Green,582
-Leflore,Southeast Greenwood,Commissioner of Agriculture & Commerce,,Republican,Cindy Hyde-Smith,170
-Leflore,Southeast Greenwood,Commissioner of Agriculture & Commerce,,Reform,Cathy L Toole,17
-Leflore,Southeast Greenwood,Commissioner of Insurance,,Republican,Mike Chaney,479
-Leflore,Southeast Greenwood,State Senate,24,Democrat,David Jordan,677
-Leflore,Southeast Greenwood,State House,32,Democrat,Willie J Perkins Sr,671
-Leflore,Southwest Greenwood,Governor,,Republican,Phil Bryant,169
-Leflore,Southwest Greenwood,Governor,,Democrat,Robert Gray,41
-Leflore,Southwest Greenwood,Governor,,Reform,Shawn O'Hara,4
-Leflore,Southwest Greenwood,Lieutenant Governor,,Democrat,Tim Johnson,172
-Leflore,Southwest Greenwood,Lieutenant Governor,,Republican,Tate Reeves,24
-Leflore,Southwest Greenwood,Lieutenant Governor,,Libertarian,Ron Williams,8
-Leflore,Southwest Greenwood,Lieutenant Governor,,Reform,Rosa B. Williams,6
-Leflore,Southwest Greenwood,Secretary of State,,Democrat,Charles E. Graham,177
-Leflore,Southwest Greenwood,Secretary of State,,Republican,Delbert Hosemann,20
-Leflore,Southwest Greenwood,Secretary of State,,Reform,Randy Walker,6
-Leflore,Southwest Greenwood,Attorney General,,Democrat,Jim Hood,166
-Leflore,Southwest Greenwood,Attorney General,,Republican,Mike Hurst,32
-Leflore,Southwest Greenwood,State Auditor,,Republican,Stacey E. Pickering,174
-Leflore,Southwest Greenwood,State Auditor,,Democrat,Jocelyn 'Joce' Pepper Pritchett,23
-Leflore,Southwest Greenwood,State Auditor,,Reform,Lajena Walley,1
-Leflore,Southwest Greenwood,State Treasurer,,Republican,Lynn Fitch,42
-Leflore,Southwest Greenwood,State Treasurer,,Reform,Viola McFarland,90
-Leflore,Southwest Greenwood,Commissioner of Agriculture & Commerce,,Democrat,Addie Lee Green,181
-Leflore,Southwest Greenwood,Commissioner of Agriculture & Commerce,,Republican,Cindy Hyde-Smith,16
-Leflore,Southwest Greenwood,Commissioner of Agriculture & Commerce,,Reform,Cathy L Toole,5
-Leflore,Southwest Greenwood,Commissioner of Insurance,,Republican,Mike Chaney,99
-Leflore,Southwest Greenwood,State Senate,24,Democrat,David Jordan,212
-Leflore,Southwest Greenwood,State House,32,Democrat,Willie J Perkins Sr,203
+Leflore,Southeast Gwd,Governor,,Republican,Phil Bryant,552
+Leflore,Southeast Gwd,Governor,,Democrat,Robert Gray,236
+Leflore,Southeast Gwd,Governor,,Reform,Shawn O'Hara,5
+Leflore,Southeast Gwd,Lieutenant Governor,,Democrat,Tim Johnson,555
+Leflore,Southeast Gwd,Lieutenant Governor,,Republican,Tate Reeves,200
+Leflore,Southeast Gwd,Lieutenant Governor,,Libertarian,Ron Williams,4
+Leflore,Southeast Gwd,Lieutenant Governor,,Reform,Rosa B. Williams,18
+Leflore,Southeast Gwd,Secretary of State,,Democrat,Charles E. Graham,559
+Leflore,Southeast Gwd,Secretary of State,,Republican,Delbert Hosemann,193
+Leflore,Southeast Gwd,Secretary of State,,Reform,Randy Walker,21
+Leflore,Southeast Gwd,Attorney General,,Democrat,Jim Hood,668
+Leflore,Southeast Gwd,Attorney General,,Republican,Mike Hurst,113
+Leflore,Southeast Gwd,State Auditor,,Republican,Stacey E. Pickering,556
+Leflore,Southeast Gwd,State Auditor,,Democrat,Jocelyn 'Joce' Pepper Pritchett,205
+Leflore,Southeast Gwd,State Auditor,,Reform,Lajena Walley,9
+Leflore,Southeast Gwd,State Treasurer,,Republican,Lynn Fitch,308
+Leflore,Southeast Gwd,State Treasurer,,Reform,Viola McFarland,280
+Leflore,Southeast Gwd,Commissioner of Agriculture & Commerce,,Democrat,Addie Lee Green,582
+Leflore,Southeast Gwd,Commissioner of Agriculture & Commerce,,Republican,Cindy Hyde-Smith,170
+Leflore,Southeast Gwd,Commissioner of Agriculture & Commerce,,Reform,Cathy L Toole,17
+Leflore,Southeast Gwd,Commissioner of Insurance,,Republican,Mike Chaney,479
+Leflore,Southeast Gwd,State Senate,24,Democrat,David Jordan,677
+Leflore,Southeast Gwd,State House,32,Democrat,Willie J Perkins Sr,671
+Leflore,Southwest Gwd,Governor,,Republican,Phil Bryant,169
+Leflore,Southwest Gwd,Governor,,Democrat,Robert Gray,41
+Leflore,Southwest Gwd,Governor,,Reform,Shawn O'Hara,4
+Leflore,Southwest Gwd,Lieutenant Governor,,Democrat,Tim Johnson,172
+Leflore,Southwest Gwd,Lieutenant Governor,,Republican,Tate Reeves,24
+Leflore,Southwest Gwd,Lieutenant Governor,,Libertarian,Ron Williams,8
+Leflore,Southwest Gwd,Lieutenant Governor,,Reform,Rosa B. Williams,6
+Leflore,Southwest Gwd,Secretary of State,,Democrat,Charles E. Graham,177
+Leflore,Southwest Gwd,Secretary of State,,Republican,Delbert Hosemann,20
+Leflore,Southwest Gwd,Secretary of State,,Reform,Randy Walker,6
+Leflore,Southwest Gwd,Attorney General,,Democrat,Jim Hood,166
+Leflore,Southwest Gwd,Attorney General,,Republican,Mike Hurst,32
+Leflore,Southwest Gwd,State Auditor,,Republican,Stacey E. Pickering,174
+Leflore,Southwest Gwd,State Auditor,,Democrat,Jocelyn 'Joce' Pepper Pritchett,23
+Leflore,Southwest Gwd,State Auditor,,Reform,Lajena Walley,1
+Leflore,Southwest Gwd,State Treasurer,,Republican,Lynn Fitch,42
+Leflore,Southwest Gwd,State Treasurer,,Reform,Viola McFarland,90
+Leflore,Southwest Gwd,Commissioner of Agriculture & Commerce,,Democrat,Addie Lee Green,181
+Leflore,Southwest Gwd,Commissioner of Agriculture & Commerce,,Republican,Cindy Hyde-Smith,16
+Leflore,Southwest Gwd,Commissioner of Agriculture & Commerce,,Reform,Cathy L Toole,5
+Leflore,Southwest Gwd,Commissioner of Insurance,,Republican,Mike Chaney,99
+Leflore,Southwest Gwd,State Senate,24,Democrat,David Jordan,212
+Leflore,Southwest Gwd,State House,32,Democrat,Willie J Perkins Sr,203
 Leflore,Swiftown,Governor,,Republican,Phil Bryant,13
 Leflore,Swiftown,Governor,,Democrat,Robert Gray,24
 Leflore,Swiftown,Governor,,Reform,Shawn O'Hara,0
@@ -401,29 +401,29 @@ Leflore,Swiftown,Commissioner of Agriculture & Commerce,,Reform,Cathy L Toole,2
 Leflore,Swiftown,Commissioner of Insurance,,Republican,Mike Chaney,29
 Leflore,Swiftown,State Senate,24,Democrat,David Jordan,26
 Leflore,Swiftown,State House,34,Democrat,Kevin Horan,26
-Leflore,West Greenwood,Governor,,Republican,Phil Bryant,462
-Leflore,West Greenwood,Governor,,Democrat,Robert Gray,153
-Leflore,West Greenwood,Governor,,Reform,Shawn O'Hara,11
-Leflore,West Greenwood,Lieutenant Governor,,Democrat,Tim Johnson,473
-Leflore,West Greenwood,Lieutenant Governor,,Republican,Tate Reeves,115
-Leflore,West Greenwood,Lieutenant Governor,,Libertarian,Ron Williams,16
-Leflore,West Greenwood,Lieutenant Governor,,Reform,Rosa B. Williams,14
-Leflore,West Greenwood,Secretary of State,,Democrat,Charles E. Graham,451
-Leflore,West Greenwood,Secretary of State,,Republican,Delbert Hosemann,132
-Leflore,West Greenwood,Secretary of State,,Reform,Randy Walker,23
-Leflore,West Greenwood,Attorney General,,Democrat,Jim Hood,531
-Leflore,West Greenwood,Attorney General,,Republican,Mike Hurst,87
-Leflore,West Greenwood,State Auditor,,Republican,Stacey E. Pickering,465
-Leflore,West Greenwood,State Auditor,,Democrat,Jocelyn 'Joce' Pepper Pritchett,122
-Leflore,West Greenwood,State Auditor,,Reform,Lajena Walley,10
-Leflore,West Greenwood,State Treasurer,,Republican,Lynn Fitch,212
-Leflore,West Greenwood,State Treasurer,,Reform,Viola McFarland,240
-Leflore,West Greenwood,Commissioner of Agriculture & Commerce,,Democrat,Addie Lee Green,464
-Leflore,West Greenwood,Commissioner of Agriculture & Commerce,,Republican,Cindy Hyde-Smith,110
-Leflore,West Greenwood,Commissioner of Agriculture & Commerce,,Reform,Cathy L Toole,23
-Leflore,West Greenwood,Commissioner of Insurance,,Republican,Mike Chaney,353
-Leflore,West Greenwood,State Senate,24,Democrat,David Jordan,517
-Leflore,West Greenwood,State House,32,Democrat,Willie J Perkins Sr,541
+Leflore,West Gwd,Governor,,Republican,Phil Bryant,462
+Leflore,West Gwd,Governor,,Democrat,Robert Gray,153
+Leflore,West Gwd,Governor,,Reform,Shawn O'Hara,11
+Leflore,West Gwd,Lieutenant Governor,,Democrat,Tim Johnson,473
+Leflore,West Gwd,Lieutenant Governor,,Republican,Tate Reeves,115
+Leflore,West Gwd,Lieutenant Governor,,Libertarian,Ron Williams,16
+Leflore,West Gwd,Lieutenant Governor,,Reform,Rosa B. Williams,14
+Leflore,West Gwd,Secretary of State,,Democrat,Charles E. Graham,451
+Leflore,West Gwd,Secretary of State,,Republican,Delbert Hosemann,132
+Leflore,West Gwd,Secretary of State,,Reform,Randy Walker,23
+Leflore,West Gwd,Attorney General,,Democrat,Jim Hood,531
+Leflore,West Gwd,Attorney General,,Republican,Mike Hurst,87
+Leflore,West Gwd,State Auditor,,Republican,Stacey E. Pickering,465
+Leflore,West Gwd,State Auditor,,Democrat,Jocelyn 'Joce' Pepper Pritchett,122
+Leflore,West Gwd,State Auditor,,Reform,Lajena Walley,10
+Leflore,West Gwd,State Treasurer,,Republican,Lynn Fitch,212
+Leflore,West Gwd,State Treasurer,,Reform,Viola McFarland,240
+Leflore,West Gwd,Commissioner of Agriculture & Commerce,,Democrat,Addie Lee Green,464
+Leflore,West Gwd,Commissioner of Agriculture & Commerce,,Republican,Cindy Hyde-Smith,110
+Leflore,West Gwd,Commissioner of Agriculture & Commerce,,Reform,Cathy L Toole,23
+Leflore,West Gwd,Commissioner of Insurance,,Republican,Mike Chaney,353
+Leflore,West Gwd,State Senate,24,Democrat,David Jordan,517
+Leflore,West Gwd,State House,32,Democrat,Willie J Perkins Sr,541
 Leflore,,Governor,,Republican,Phil Bryant,3177
 Leflore,,Governor,,Democrat,Robert Gray,3858
 Leflore,,Governor,,Reform,Shawn O'Hara,77

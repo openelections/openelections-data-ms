@@ -1,34 +1,34 @@
 county,precinct,office,district,party,candidate,votes
-Issaquena,Addie,Governor,,Republican,Phil Bryant,57
-Issaquena,Addie,Governor,,Democrat,Robert Gray,54
-Issaquena,Addie,Governor,,Reform,Shawn O'Hara,1
-Issaquena,Addie,Lieutenant Governor,,Democrat,Tim Johnson,45
-Issaquena,Addie,Lieutenant Governor,,Republican,Tate Reeves,53
-Issaquena,Addie,Lieutenant Governor,,Libertarian,Ron Williams,2
-Issaquena,Addie,Lieutenant Governor,,Reform,Rosa B. Williams,8
-Issaquena,Addie,Secretary of State,,Democrat,Charles E. Graham,59
-Issaquena,Addie,Secretary of State,,Republican,Delbert Hosemann,47
-Issaquena,Addie,Secretary of State,,Reform,Randy Walker,4
-Issaquena,Addie,Attorney General,,Democrat,Jim Hood,84
-Issaquena,Addie,Attorney General,,Republican,Mike Hurst,27
-Issaquena,Addie,State Auditor,,Republican,Stacey E. Pickering,49
-Issaquena,Addie,State Auditor,,Democrat,"Jocelyn ""Joce"" Pepper Pritchett",54
-Issaquena,Addie,State Auditor,,Reform,Lajena Walley,2
-Issaquena,Grace,Governor,,Republican,Phil Bryant,91
-Issaquena,Grace,Governor,,Democrat,Robert Gray,29
-Issaquena,Grace,Governor,,Reform,Shawn O'Hara,0
-Issaquena,Grace,Lieutenant Governor,,Democrat,Tim Johnson,28
-Issaquena,Grace,Lieutenant Governor,,Republican,Tate Reeves,85
-Issaquena,Grace,Lieutenant Governor,,Libertarian,Ron Williams,4
-Issaquena,Grace,Lieutenant Governor,,Reform,Rosa B. Williams,5
-Issaquena,Grace,Secretary of State,,Democrat,Charles E. Graham,28
-Issaquena,Grace,Secretary of State,,Republican,Delbert Hosemann,82
-Issaquena,Grace,Secretary of State,,Reform,Randy Walker,7
-Issaquena,Grace,Attorney General,,Democrat,Jim Hood,80
-Issaquena,Grace,Attorney General,,Republican,Mike Hurst,42
-Issaquena,Grace,State Auditor,,Republican,Stacey E. Pickering,90
-Issaquena,Grace,State Auditor,,Democrat,"Jocelyn ""Joce"" Pepper Pritchett",24
-Issaquena,Grace,State Auditor,,Reform,Lajena Walley,0
+Issaquena,Addie Voting Precinct Voting President,Governor,,Republican,Phil Bryant,57
+Issaquena,Addie Voting Precinct,Governor,,Democrat,Robert Gray,54
+Issaquena,Addie Voting Precinct,Governor,,Reform,Shawn O'Hara,1
+Issaquena,Addie Voting Precinct,Lieutenant Governor,,Democrat,Tim Johnson,45
+Issaquena,Addie Voting Precinct,Lieutenant Governor,,Republican,Tate Reeves,53
+Issaquena,Addie Voting Precinct,Lieutenant Governor,,Libertarian,Ron Williams,2
+Issaquena,Addie Voting Precinct,Lieutenant Governor,,Reform,Rosa B. Williams,8
+Issaquena,Addie Voting Precinct,Secretary of State,,Democrat,Charles E. Graham,59
+Issaquena,Addie Voting Precinct,Secretary of State,,Republican,Delbert Hosemann,47
+Issaquena,Addie Voting Precinct,Secretary of State,,Reform,Randy Walker,4
+Issaquena,Addie Voting Precinct,Attorney General,,Democrat,Jim Hood,84
+Issaquena,Addie Voting Precinct,Attorney General,,Republican,Mike Hurst,27
+Issaquena,Addie Voting Precinct,State Auditor,,Republican,Stacey E. Pickering,49
+Issaquena,Addie Voting Precinct,State Auditor,,Democrat,"Jocelyn ""Joce"" Pepper Pritchett",54
+Issaquena,Addie Voting Precinct,State Auditor,,Reform,Lajena Walley,2
+Issaquena,Grace Voting Precinct,Governor,,Republican,Phil Bryant,91
+Issaquena,Grace Voting Precinct,Governor,,Democrat,Robert Gray,29
+Issaquena,Grace Voting Precinct,Governor,,Reform,Shawn O'Hara,0
+Issaquena,Grace Voting Precinct,Lieutenant Governor,,Democrat,Tim Johnson,28
+Issaquena,Grace Voting Precinct,Lieutenant Governor,,Republican,Tate Reeves,85
+Issaquena,Grace Voting Precinct,Lieutenant Governor,,Libertarian,Ron Williams,4
+Issaquena,Grace Voting Precinct,Lieutenant Governor,,Reform,Rosa B. Williams,5
+Issaquena,Grace Voting Precinct,Secretary of State,,Democrat,Charles E. Graham,28
+Issaquena,Grace Voting Precinct,Secretary of State,,Republican,Delbert Hosemann,82
+Issaquena,Grace Voting Precinct,Secretary of State,,Reform,Randy Walker,7
+Issaquena,Grace Voting Precinct,Attorney General,,Democrat,Jim Hood,80
+Issaquena,Grace Voting Precinct,Attorney General,,Republican,Mike Hurst,42
+Issaquena,Grace Voting Precinct,State Auditor,,Republican,Stacey E. Pickering,90
+Issaquena,Grace Voting Precinct,State Auditor,,Democrat,"Jocelyn ""Joce"" Pepper Pritchett",24
+Issaquena,Grace Voting Precinct,State Auditor,,Reform,Lajena Walley,0
 Issaquena,Mayersville Courthouse,Governor,,Republican,Phil Bryant,49
 Issaquena,Mayersville Courthouse,Governor,,Democrat,Robert Gray,85
 Issaquena,Mayersville Courthouse,Governor,,Reform,Shawn O'Hara,5
@@ -89,25 +89,25 @@ Issaquena,,Attorney General,,Republican,Mike Hurst,165
 Issaquena,,State Auditor,,Republican,Stacey E. Pickering,304
 Issaquena,,State Auditor,,Democrat,"Jocelyn ""Joce"" Pepper Pritchett",227
 Issaquena,,State Auditor,,Reform,Lajena Walley,7
-Issaquena,Addie,State Treasurer,,Republican,Lynn Fitch,60
-Issaquena,Addie,State Treasurer,,Reform,Viola V. McFarland,29
-Issaquena,Addie,Commissioner of Agriculture & Commerce,,Democrat,Addie Lee Green,57
-Issaquena,Addie,Commissioner of Agriculture & Commerce,,Republican,Cindy Hyde-Smith,48
-Issaquena,Addie,Commissioner of Agriculture & Commerce,,Reform,Cathy L. Toole,1
-Issaquena,Addie,Commissioner of Insurance,,Republican,Mike Chaney,73
-Issaquena,Addie,State Senate,23,Republican,Briggs Hopson,64
-Issaquena,Addie,State House,50,Democrat,John Hices Sr.,87
-Issaquena,Grace,State Treasurer,,Republican,Lynn Fitch,93
-Issaquena,Grace,State Treasurer,,Reform,Viola V. McFarland,23
-Issaquena,Grace,Commissioner of Agriculture & Commerce,,Democrat,Addie Lee Green,28
-Issaquena,Grace,Commissioner of Agriculture & Commerce,,Republican,Cindy Hyde-Smith,84
-Issaquena,Grace,Commissioner of Agriculture & Commerce,,Reform,Cathy L. Toole,5
-Issaquena,Grace,Commissioner of Insurance,,Republican,Mike Chaney,110
-Issaquena,Grace,State Senate,23,Republican,Briggs Hopson,101
-Issaquena,Grace,State House,50,Democrat,John Hices Sr.,97
+Issaquena,Addie Voting Precinct,State Treasurer,,Republican,Lynn Fitch,60
+Issaquena,Addie Voting Precinct,State Treasurer,,Reform,Viola V. McFarland,29
+Issaquena,Addie Voting Precinct,Commissioner of Agriculture & Commerce,,Democrat,Addie Voting Precinct Lee Green,57
+Issaquena,Addie Voting Precinct,Commissioner of Agriculture & Commerce,,Republican,Cindy Hyde-Smith,48
+Issaquena,Addie Voting Precinct,Commissioner of Agriculture & Commerce,,Reform,Cathy L. Toole,1
+Issaquena,Addie Voting Precinct,Commissioner of Insurance,,Republican,Mike Chaney,73
+Issaquena,Addie Voting Precinct,State Senate,23,Republican,Briggs Hopson,64
+Issaquena,Addie Voting Precinct,State House,50,Democrat,John Hices Sr.,87
+Issaquena,Grace Voting Precinct,State Treasurer,,Republican,Lynn Fitch,93
+Issaquena,Grace Voting Precinct,State Treasurer,,Reform,Viola V. McFarland,23
+Issaquena,Grace Voting Precinct,Commissioner of Agriculture & Commerce,,Democrat,Addie Voting Precinct Lee Green,28
+Issaquena,Grace Voting Precinct,Commissioner of Agriculture & Commerce,,Republican,Cindy Hyde-Smith,84
+Issaquena,Grace Voting Precinct,Commissioner of Agriculture & Commerce,,Reform,Cathy L. Toole,5
+Issaquena,Grace Voting Precinct,Commissioner of Insurance,,Republican,Mike Chaney,110
+Issaquena,Grace Voting Precinct,State Senate,23,Republican,Briggs Hopson,101
+Issaquena,Grace Voting Precinct,State House,50,Democrat,John Hices Sr.,97
 Issaquena,Mayersville Courthouse,State Treasurer,,Republican,Lynn Fitch,43
 Issaquena,Mayersville Courthouse,State Treasurer,,Reform,Viola V. McFarland,70
-Issaquena,Mayersville Courthouse,Commissioner of Agriculture & Commerce,,Democrat,Addie Lee Green,110
+Issaquena,Mayersville Courthouse,Commissioner of Agriculture & Commerce,,Democrat,Addie Voting Precinct Lee Green,110
 Issaquena,Mayersville Courthouse,Commissioner of Agriculture & Commerce,,Republican,Cindy Hyde-Smith,24
 Issaquena,Mayersville Courthouse,Commissioner of Agriculture & Commerce,,Reform,Cathy L. Toole,1
 Issaquena,Mayersville Courthouse,Commissioner of Insurance,,Republican,Mike Chaney,87
@@ -115,7 +115,7 @@ Issaquena,Mayersville Courthouse,State Senate,23,Republican,Briggs Hopson,86
 Issaquena,Mayersville Courthouse,State House,50,Democrat,John Hices Sr.,120
 Issaquena,Tallula Community Center,State Treasurer,,Republican,Lynn Fitch,75
 Issaquena,Tallula Community Center,State Treasurer,,Reform,Viola V. McFarland,21
-Issaquena,Tallula Community Center,Commissioner of Agriculture & Commerce,,Democrat,Addie Lee Green,32
+Issaquena,Tallula Community Center,Commissioner of Agriculture & Commerce,,Democrat,Addie Voting Precinct Lee Green,32
 Issaquena,Tallula Community Center,Commissioner of Agriculture & Commerce,,Republican,Cindy Hyde-Smith,71
 Issaquena,Tallula Community Center,Commissioner of Agriculture & Commerce,,Reform,Cathy L. Toole,3
 Issaquena,Tallula Community Center,Commissioner of Insurance,,Republican,Mike Chaney,94
@@ -123,7 +123,7 @@ Issaquena,Tallula Community Center,State Senate,23,Republican,Briggs Hopson,84
 Issaquena,Tallula Community Center,State House,50,Democrat,John Hices Sr.,10
 Issaquena,Valley Park Community Center,State Treasurer,,Republican,Lynn Fitch,67
 Issaquena,Valley Park Community Center,State Treasurer,,Reform,Viola V. McFarland,7
-Issaquena,Valley Park Community Center,Commissioner of Agriculture & Commerce,,Democrat,Addie Lee Green,15
+Issaquena,Valley Park Community Center,Commissioner of Agriculture & Commerce,,Democrat,Addie Voting Precinct Lee Green,15
 Issaquena,Valley Park Community Center,Commissioner of Agriculture & Commerce,,Republican,Cindy Hyde-Smith,63
 Issaquena,Valley Park Community Center,Commissioner of Agriculture & Commerce,,Reform,Cathy L. Toole,0
 Issaquena,Valley Park Community Center,Commissioner of Insurance,,Republican,Mike Chaney,70
@@ -131,14 +131,14 @@ Issaquena,Valley Park Community Center,State Senate,23,Republican,Briggs Hopson,
 Issaquena,Valley Park Community Center,State House,50,Democrat,John Hices Sr.,x
 Issaquena,,State Treasurer,,Republican,Lynn Fitch,338
 Issaquena,,State Treasurer,,Reform,Viola V. McFarland,150
-Issaquena,,Commissioner of Agriculture & Commerce,,Democrat,Addie Lee Green,242
+Issaquena,,Commissioner of Agriculture & Commerce,,Democrat,Addie Voting Precinct Lee Green,242
 Issaquena,,Commissioner of Agriculture & Commerce,,Republican,Cindy Hyde-Smith,290
 Issaquena,,Commissioner of Agriculture & Commerce,,Reform,Cathy L. Toole,10
 Issaquena,,Commissioner of Insurance,,Republican,Mike Chaney,434
 Issaquena,,State Senate,23,Republican,Briggs Hopson,401
 Issaquena,,State House,50,Democrat,John Hices Sr.,314
-Issaquena,Addie,State House,54,Republican,Alex Monsour,x
-Issaquena,Grace,State House,54,Republican,Alex Monsour,1
+Issaquena,Addie Voting Precinct,State House,54,Republican,Alex Monsour,x
+Issaquena,Grace Voting Precinct,State House,54,Republican,Alex Monsour,1
 Issaquena,Mayersville Courthouse,State House,54,Republican,Alex Monsour,x
 Issaquena,Tallula Community Center,State House,54,Republican,Alex Monsour,71
 Issaquena,Valley Park Community Center,State House,54,Republican,Alex Monsour,65
