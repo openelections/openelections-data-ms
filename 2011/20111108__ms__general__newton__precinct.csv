@@ -1,0 +1,415 @@
+county,precinct,office,district,party,candidate,votes
+Newton,Chapel Hill,Governor,,Republican,Phil Bryant,235
+Newton,Chapel Hill,Governor,,Democrat,Johnny L. DuPree,32
+Newton,Chapel Hill,Lieutenant Governor,,Republican,Tate Reeves,244
+Newton,Chapel Hill,Lieutenant Governor,,Reform,Tracella Lou O'Hara Hill,12
+Newton,Chapel Hill,Secretary of State,,Republican,Delbert Hosemann,248
+Newton,Chapel Hill,Attorney General,,Democrat,Jim Hood,143
+Newton,Chapel Hill,Attorney General,,Republican,Steve Simpson,122
+Newton,Chapel Hill,State Auditor,,Republican,Stacey E. Pickering,241
+Newton,Chapel Hill,State Auditor,,Reform,Ashley Norwood,19
+Newton,Chapel Hill,Treasurer,,Republican,Lynn Fitch,235
+Newton,Chapel Hill,Treasurer,,Democrat,Connie Moran,28
+Newton,Chapel Hill,Treasurer,,Reform,Shawn O'Hara,1
+Newton,Chapel Hill,Commissioner of Agriculture & Commerce,,Democrat,Joel Gill,52
+Newton,Chapel Hill,Commissioner of Agriculture & Commerce,,Republican,Cindy Hyde-Smith,213
+Newton,Chapel Hill,Commissioner of Agriculture & Commerce,,Reform,Cathy L. Toole,1
+Newton,Chapel Hill,Commissioner of Insurance,,Republican,Mike Chaney,239
+Newton,Chapel Hill,Commissioner of Insurance,,Democrat,Louis Fondren,23
+Newton,Chapel Hill,Commissioner of Insurance,,Reform,Barbara Dale Washer,3
+Newton,Chapel Hill,State Senate,31,Republican,Terry C. Burton,234
+Newton,Chapel Hill,State Senate,31,Democrat,Melvin J. Hendricks,32
+Newton,Chapel Hill,State House,78,Republican,Randy Rushing,249
+Newton,Duffee,Governor,,Republican,Phil Bryant,287
+Newton,Duffee,Governor,,Democrat,Johnny L. DuPree,43
+Newton,Duffee,Lieutenant Governor,,Republican,Tate Reeves,297
+Newton,Duffee,Lieutenant Governor,,Reform,Tracella Lou O'Hara Hill,22
+Newton,Duffee,Secretary of State,,Republican,Delbert Hosemann,302
+Newton,Duffee,Attorney General,,Democrat,Jim Hood,154
+Newton,Duffee,Attorney General,,Republican,Steve Simpson,176
+Newton,Duffee,State Auditor,,Republican,Stacey E. Pickering,289
+Newton,Duffee,State Auditor,,Reform,Ashley Norwood,30
+Newton,Duffee,Treasurer,,Republican,Lynn Fitch,278
+Newton,Duffee,Treasurer,,Democrat,Connie Moran,43
+Newton,Duffee,Treasurer,,Reform,Shawn O'Hara,9
+Newton,Duffee,Commissioner of Agriculture & Commerce,,Democrat,Joel Gill,65
+Newton,Duffee,Commissioner of Agriculture & Commerce,,Republican,Cindy Hyde-Smith,254
+Newton,Duffee,Commissioner of Agriculture & Commerce,,Reform,Cathy L. Toole,11
+Newton,Duffee,Commissioner of Insurance,,Republican,Mike Chaney,290
+Newton,Duffee,Commissioner of Insurance,,Democrat,Louis Fondren,33
+Newton,Duffee,Commissioner of Insurance,,Reform,Barbara Dale Washer,5
+Newton,Duffee,State Senate,31,Republican,Terry C. Burton,282
+Newton,Duffee,State Senate,31,Democrat,Melvin J. Hendricks,50
+Newton,Duffee,State House,78,Republican,Randy Rushing,306
+Newton,Hazel,Governor,,Republican,Phil Bryant,215
+Newton,Hazel,Governor,,Democrat,Johnny L. DuPree,8
+Newton,Hazel,Lieutenant Governor,,Republican,Tate Reeves,215
+Newton,Hazel,Lieutenant Governor,,Reform,Tracella Lou O'Hara Hill,4
+Newton,Hazel,Secretary of State,,Republican,Delbert Hosemann,218
+Newton,Hazel,Attorney General,,Democrat,Jim Hood,121
+Newton,Hazel,Attorney General,,Republican,Steve Simpson,98
+Newton,Hazel,State Auditor,,Republican,Stacey E. Pickering,209
+Newton,Hazel,State Auditor,,Reform,Ashley Norwood,7
+Newton,Hazel,Treasurer,,Republican,Lynn Fitch,205
+Newton,Hazel,Treasurer,,Democrat,Connie Moran,8
+Newton,Hazel,Treasurer,,Reform,Shawn O'Hara,5
+Newton,Hazel,Commissioner of Agriculture & Commerce,,Democrat,Joel Gill,44
+Newton,Hazel,Commissioner of Agriculture & Commerce,,Republican,Cindy Hyde-Smith,168
+Newton,Hazel,Commissioner of Agriculture & Commerce,,Reform,Cathy L. Toole,7
+Newton,Hazel,Commissioner of Insurance,,Republican,Mike Chaney,210
+Newton,Hazel,Commissioner of Insurance,,Democrat,Louis Fondren,5
+Newton,Hazel,Commissioner of Insurance,,Reform,Barbara Dale Washer,3
+Newton,Hazel,State Senate,31,Republican,Terry C. Burton,196
+Newton,Hazel,State Senate,31,Democrat,Melvin J. Hendricks,23
+Newton,Hazel,State House,78,Republican,Randy Rushing,214
+Newton,Chunky,Governor,,Republican,Phil Bryant,274
+Newton,Chunky,Governor,,Democrat,Johnny L. DuPree,31
+Newton,Chunky,Lieutenant Governor,,Republican,Tate Reeves,289
+Newton,Chunky,Lieutenant Governor,,Reform,Tracella Lou O'Hara Hill,13
+Newton,Chunky,Secretary of State,,Republican,Delbert Hosemann,292
+Newton,Chunky,Attorney General,,Democrat,Jim Hood,134
+Newton,Chunky,Attorney General,,Republican,Steve Simpson,171
+Newton,Chunky,State Auditor,,Republican,Stacey E. Pickering,287
+Newton,Chunky,State Auditor,,Reform,Ashley Norwood,14
+Newton,Chunky,Treasurer,,Republican,Lynn Fitch,275
+Newton,Chunky,Treasurer,,Democrat,Connie Moran,27
+Newton,Chunky,Treasurer,,Reform,Shawn O'Hara,6
+Newton,Chunky,Commissioner of Agriculture & Commerce,,Democrat,Joel Gill,44
+Newton,Chunky,Commissioner of Agriculture & Commerce,,Republican,Cindy Hyde-Smith,255
+Newton,Chunky,Commissioner of Agriculture & Commerce,,Reform,Cathy L. Toole,5
+Newton,Chunky,Commissioner of Insurance,,Republican,Mike Chaney,280
+Newton,Chunky,Commissioner of Insurance,,Democrat,Louis Fondren,18
+Newton,Chunky,Commissioner of Insurance,,Reform,Barbara Dale Washer,7
+Newton,Chunky,State Senate,31,Republican,Terry C. Burton,256
+Newton,Chunky,State Senate,31,Democrat,Melvin J. Hendricks,47
+Newton,Chunky,State House,78,Republican,Randy Rushing,40
+Newton,Chunky,State House,84,Democrat,William G. Lee,22
+Newton,Chunky,State House,84,Republican,"William E. Shirley, Jr.",234
+Newton,Lawrence,Governor,,Republican,Phil Bryant,250
+Newton,Lawrence,Governor,,Democrat,Johnny L. DuPree,225
+Newton,Lawrence,Lieutenant Governor,,Republican,Tate Reeves,318
+Newton,Lawrence,Lieutenant Governor,,Reform,Tracella Lou O'Hara Hill,119
+Newton,Lawrence,Secretary of State,,Republican,Delbert Hosemann,388
+Newton,Lawrence,Attorney General,,Democrat,Jim Hood,333
+Newton,Lawrence,Attorney General,,Republican,Steve Simpson,142
+Newton,Lawrence,State Auditor,,Republican,Stacey E. Pickering,293
+Newton,Lawrence,State Auditor,,Reform,Ashley Norwood,130
+Newton,Lawrence,Treasurer,,Republican,Lynn Fitch,261
+Newton,Lawrence,Treasurer,,Democrat,Connie Moran,203
+Newton,Lawrence,Treasurer,,Reform,Shawn O'Hara,6
+Newton,Lawrence,Commissioner of Agriculture & Commerce,,Democrat,Joel Gill,240
+Newton,Lawrence,Commissioner of Agriculture & Commerce,,Republican,Cindy Hyde-Smith,227
+Newton,Lawrence,Commissioner of Agriculture & Commerce,,Reform,Cathy L. Toole,4
+Newton,Lawrence,Commissioner of Insurance,,Republican,Mike Chaney,259
+Newton,Lawrence,Commissioner of Insurance,,Democrat,Louis Fondren,204
+Newton,Lawrence,Commissioner of Insurance,,Reform,Barbara Dale Washer,9
+Newton,Lawrence,State Senate,31,Republican,Terry C. Burton,277
+Newton,Lawrence,State Senate,31,Democrat,Melvin J. Hendricks,195
+Newton,Lawrence,State House,78,Republican,Randy Rushing,8
+Newton,Lawrence,State House,87,Republican,Daniel Kilpatrick,127
+Newton,Lawrence,State House,87,Democrat,Johnny W. Stringer,332
+Newton,Newton #1,Governor,,Republican,Phil Bryant,70
+Newton,Newton #1,Governor,,Democrat,Johnny L. DuPree,468
+Newton,Newton #1,Lieutenant Governor,,Republican,Tate Reeves,180
+Newton,Newton #1,Lieutenant Governor,,Reform,Tracella Lou O'Hara Hill,190
+Newton,Newton #1,Secretary of State,,Republican,Delbert Hosemann,274
+Newton,Newton #1,Attorney General,,Democrat,Jim Hood,466
+Newton,Newton #1,Attorney General,,Republican,Steve Simpson,51
+Newton,Newton #1,State Auditor,,Republican,Stacey E. Pickering,147
+Newton,Newton #1,State Auditor,,Reform,Ashley Norwood,218
+Newton,Newton #1,Treasurer,,Republican,Lynn Fitch,98
+Newton,Newton #1,Treasurer,,Democrat,Connie Moran,414
+Newton,Newton #1,Treasurer,,Reform,Shawn O'Hara,15
+Newton,Newton #1,Commissioner of Agriculture & Commerce,,Democrat,Joel Gill,429
+Newton,Newton #1,Commissioner of Agriculture & Commerce,,Republican,Cindy Hyde-Smith,80
+Newton,Newton #1,Commissioner of Agriculture & Commerce,,Reform,Cathy L. Toole,11
+Newton,Newton #1,Commissioner of Insurance,,Republican,Mike Chaney,95
+Newton,Newton #1,Commissioner of Insurance,,Democrat,Louis Fondren,413
+Newton,Newton #1,Commissioner of Insurance,,Reform,Barbara Dale Washer,15
+Newton,Newton #1,State Senate,31,Republican,Terry C. Burton,152
+Newton,Newton #1,State Senate,31,Democrat,Melvin J. Hendricks,367
+Newton,Newton #1,State House,78,Republican,Randy Rushing,97
+Newton,Newton #1,State House,87,Republican,Daniel Kilpatrick,25
+Newton,Newton #1,State House,87,Democrat,Johnny W. Stringer,304
+Newton,Newton #5,Governor,,Republican,Phil Bryant,296
+Newton,Newton #5,Governor,,Democrat,Johnny L. DuPree,121
+Newton,Newton #5,Lieutenant Governor,,Republican,Tate Reeves,332
+Newton,Newton #5,Lieutenant Governor,,Reform,Tracella Lou O'Hara Hill,65
+Newton,Newton #5,Secretary of State,,Republican,Delbert Hosemann,368
+Newton,Newton #5,Attorney General,,Democrat,Jim Hood,241
+Newton,Newton #5,Attorney General,,Republican,Steve Simpson,178
+Newton,Newton #5,State Auditor,,Republican,Stacey E. Pickering,326
+Newton,Newton #5,State Auditor,,Reform,Ashley Norwood,69
+Newton,Newton #5,Treasurer,,Republican,Lynn Fitch,301
+Newton,Newton #5,Treasurer,,Democrat,Connie Moran,105
+Newton,Newton #5,Treasurer,,Reform,Shawn O'Hara,10
+Newton,Newton #5,Commissioner of Agriculture & Commerce,,Democrat,Joel Gill,138
+Newton,Newton #5,Commissioner of Agriculture & Commerce,,Republican,Cindy Hyde-Smith,269
+Newton,Newton #5,Commissioner of Agriculture & Commerce,,Reform,Cathy L. Toole,7
+Newton,Newton #5,Commissioner of Insurance,,Republican,Mike Chaney,306
+Newton,Newton #5,Commissioner of Insurance,,Democrat,Louis Fondren,98
+Newton,Newton #5,Commissioner of Insurance,,Reform,Barbara Dale Washer,9
+Newton,Newton #5,State Senate,31,Republican,Terry C. Burton,320
+Newton,Newton #5,State Senate,31,Democrat,Melvin J. Hendricks,99
+Newton,Newton #5,State House,87,Republican,Daniel Kilpatrick,117
+Newton,Newton #5,State House,87,Democrat,Johnny W. Stringer,302
+Newton,Prospect,Governor,,Republican,Phil Bryant,253
+Newton,Prospect,Governor,,Democrat,Johnny L. DuPree,22
+Newton,Prospect,Lieutenant Governor,,Republican,Tate Reeves,259
+Newton,Prospect,Lieutenant Governor,,Reform,Tracella Lou O'Hara Hill,12
+Newton,Prospect,Secretary of State,,Republican,Delbert Hosemann,258
+Newton,Prospect,Attorney General,,Democrat,Jim Hood,116
+Newton,Prospect,Attorney General,,Republican,Steve Simpson,154
+Newton,Prospect,State Auditor,,Republican,Stacey E. Pickering,253
+Newton,Prospect,State Auditor,,Reform,Ashley Norwood,18
+Newton,Prospect,Treasurer,,Republican,Lynn Fitch,250
+Newton,Prospect,Treasurer,,Democrat,Connie Moran,21
+Newton,Prospect,Treasurer,,Reform,Shawn O'Hara,3
+Newton,Prospect,Commissioner of Agriculture & Commerce,,Democrat,Joel Gill,58
+Newton,Prospect,Commissioner of Agriculture & Commerce,,Republican,Cindy Hyde-Smith,212
+Newton,Prospect,Commissioner of Agriculture & Commerce,,Reform,Cathy L. Toole,3
+Newton,Prospect,Commissioner of Insurance,,Republican,Mike Chaney,251
+Newton,Prospect,Commissioner of Insurance,,Democrat,Louis Fondren,16
+Newton,Prospect,Commissioner of Insurance,,Reform,Barbara Dale Washer,6
+Newton,Prospect,State Senate,31,Republican,Terry C. Burton,227
+Newton,Prospect,State Senate,31,Democrat,Melvin J. Hendricks,45
+Newton,Prospect,State House,78,Republican,Randy Rushing,254
+Newton,Scanlan,Governor,,Republican,Phil Bryant,412
+Newton,Scanlan,Governor,,Democrat,Johnny L. DuPree,116
+Newton,Scanlan,Lieutenant Governor,,Republican,Tate Reeves,447
+Newton,Scanlan,Lieutenant Governor,,Reform,Tracella Lou O'Hara Hill,60
+Newton,Scanlan,Secretary of State,,Republican,Delbert Hosemann,467
+Newton,Scanlan,Attorney General,,Democrat,Jim Hood,329
+Newton,Scanlan,Attorney General,,Republican,Steve Simpson,197
+Newton,Scanlan,State Auditor,,Republican,Stacey E. Pickering,429
+Newton,Scanlan,State Auditor,,Reform,Ashley Norwood,72
+Newton,Scanlan,Treasurer,,Republican,Lynn Fitch,413
+Newton,Scanlan,Treasurer,,Democrat,Connie Moran,101
+Newton,Scanlan,Treasurer,,Reform,Shawn O'Hara,10
+Newton,Scanlan,Commissioner of Agriculture & Commerce,,Democrat,Joel Gill,164
+Newton,Scanlan,Commissioner of Agriculture & Commerce,,Republican,Cindy Hyde-Smith,356
+Newton,Scanlan,Commissioner of Agriculture & Commerce,,Reform,Cathy L. Toole,5
+Newton,Scanlan,Commissioner of Insurance,,Republican,Mike Chaney,419
+Newton,Scanlan,Commissioner of Insurance,,Democrat,Louis Fondren,95
+Newton,Scanlan,Commissioner of Insurance,,Reform,Barbara Dale Washer,7
+Newton,Scanlan,State Senate,31,Republican,Terry C. Burton,417
+Newton,Scanlan,State Senate,31,Democrat,Melvin J. Hendricks,106
+Newton,Scanlan,State House,78,Republican,Randy Rushing,477
+Newton,Union #1,Governor,,Republican,Phil Bryant,86
+Newton,Union #1,Governor,,Democrat,Johnny L. DuPree,131
+Newton,Union #1,Lieutenant Governor,,Republican,Tate Reeves,122
+Newton,Union #1,Lieutenant Governor,,Reform,Tracella Lou O'Hara Hill,57
+Newton,Union #1,Secretary of State,,Republican,Delbert Hosemann,154
+Newton,Union #1,Attorney General,,Democrat,Jim Hood,169
+Newton,Union #1,Attorney General,,Republican,Steve Simpson,45
+Newton,Union #1,State Auditor,,Republican,Stacey E. Pickering,111
+Newton,Union #1,State Auditor,,Reform,Ashley Norwood,64
+Newton,Union #1,Treasurer,,Republican,Lynn Fitch,92
+Newton,Union #1,Treasurer,,Democrat,Connie Moran,117
+Newton,Union #1,Treasurer,,Reform,Shawn O'Hara,4
+Newton,Union #1,Commissioner of Agriculture & Commerce,,Democrat,Joel Gill,128
+Newton,Union #1,Commissioner of Agriculture & Commerce,,Republican,Cindy Hyde-Smith,83
+Newton,Union #1,Commissioner of Agriculture & Commerce,,Reform,Cathy L. Toole,4
+Newton,Union #1,Commissioner of Insurance,,Republican,Mike Chaney,99
+Newton,Union #1,Commissioner of Insurance,,Democrat,Louis Fondren,111
+Newton,Union #1,Commissioner of Insurance,,Reform,Barbara Dale Washer,3
+Newton,Union #1,State Senate,31,Republican,Terry C. Burton,99
+Newton,Union #1,State Senate,31,Democrat,Melvin J. Hendricks,118
+Newton,Union #1,State House,78,Republican,Randy Rushing,147
+Newton,Union #2,Governor,,Republican,Phil Bryant,298
+Newton,Union #2,Governor,,Democrat,Johnny L. DuPree,33
+Newton,Union #2,Lieutenant Governor,,Republican,Tate Reeves,302
+Newton,Union #2,Lieutenant Governor,,Reform,Tracella Lou O'Hara Hill,23
+Newton,Union #2,Secretary of State,,Republican,Delbert Hosemann,318
+Newton,Union #2,Attorney General,,Democrat,Jim Hood,166
+Newton,Union #2,Attorney General,,Republican,Steve Simpson,164
+Newton,Union #2,State Auditor,,Republican,Stacey E. Pickering,304
+Newton,Union #2,State Auditor,,Reform,Ashley Norwood,22
+Newton,Union #2,Treasurer,,Republican,Lynn Fitch,297
+Newton,Union #2,Treasurer,,Democrat,Connie Moran,31
+Newton,Union #2,Treasurer,,Reform,Shawn O'Hara,1
+Newton,Union #2,Commissioner of Agriculture & Commerce,,Democrat,Joel Gill,68
+Newton,Union #2,Commissioner of Agriculture & Commerce,,Republican,Cindy Hyde-Smith,259
+Newton,Union #2,Commissioner of Agriculture & Commerce,,Reform,Cathy L. Toole,4
+Newton,Union #2,Commissioner of Insurance,,Republican,Mike Chaney,311
+Newton,Union #2,Commissioner of Insurance,,Democrat,Louis Fondren,20
+Newton,Union #2,Commissioner of Insurance,,Reform,Barbara Dale Washer,2
+Newton,Union #2,State Senate,31,Republican,Terry C. Burton,279
+Newton,Union #2,State Senate,31,Democrat,Melvin J. Hendricks,54
+Newton,Union #2,State House,78,Republican,Randy Rushing,312
+Newton,Union #3,Governor,,Republican,Phil Bryant,244
+Newton,Union #3,Governor,,Democrat,Johnny L. DuPree,52
+Newton,Union #3,Lieutenant Governor,,Republican,Tate Reeves,262
+Newton,Union #3,Lieutenant Governor,,Reform,Tracella Lou O'Hara Hill,23
+Newton,Union #3,Secretary of State,,Republican,Delbert Hosemann,259
+Newton,Union #3,Attorney General,,Democrat,Jim Hood,155
+Newton,Union #3,Attorney General,,Republican,Steve Simpson,138
+Newton,Union #3,State Auditor,,Republican,Stacey E. Pickering,246
+Newton,Union #3,State Auditor,,Reform,Ashley Norwood,33
+Newton,Union #3,Treasurer,,Republican,Lynn Fitch,229
+Newton,Union #3,Treasurer,,Democrat,Connie Moran,53
+Newton,Union #3,Treasurer,,Reform,Shawn O'Hara,6
+Newton,Union #3,Commissioner of Agriculture & Commerce,,Democrat,Joel Gill,85
+Newton,Union #3,Commissioner of Agriculture & Commerce,,Republican,Cindy Hyde-Smith,202
+Newton,Union #3,Commissioner of Agriculture & Commerce,,Reform,Cathy L. Toole,5
+Newton,Union #3,Commissioner of Insurance,,Republican,Mike Chaney,240
+Newton,Union #3,Commissioner of Insurance,,Democrat,Louis Fondren,46
+Newton,Union #3,Commissioner of Insurance,,Reform,Barbara Dale Washer,5
+Newton,Union #3,State Senate,31,Republican,Terry C. Burton,225
+Newton,Union #3,State Senate,31,Democrat,Melvin J. Hendricks,65
+Newton,Union #3,State House,78,Republican,Randy Rushing,257
+Newton,Conehatta,Governor,,Republican,Phil Bryant,211
+Newton,Conehatta,Governor,,Democrat,Johnny L. DuPree,83
+Newton,Conehatta,Lieutenant Governor,,Republican,Tate Reeves,258
+Newton,Conehatta,Lieutenant Governor,,Reform,Tracella Lou O'Hara Hill,36
+Newton,Conehatta,Secretary of State,,Republican,Delbert Hosemann,272
+Newton,Conehatta,Attorney General,,Democrat,Jim Hood,186
+Newton,Conehatta,Attorney General,,Republican,Steve Simpson,112
+Newton,Conehatta,State Auditor,,Republican,Stacey E. Pickering,250
+Newton,Conehatta,State Auditor,,Reform,Ashley Norwood,42
+Newton,Conehatta,Treasurer,,Republican,Lynn Fitch,214
+Newton,Conehatta,Treasurer,,Democrat,Connie Moran,70
+Newton,Conehatta,Treasurer,,Reform,Shawn O'Hara,13
+Newton,Conehatta,Commissioner of Agriculture & Commerce,,Democrat,Joel Gill,100
+Newton,Conehatta,Commissioner of Agriculture & Commerce,,Republican,Cindy Hyde-Smith,189
+Newton,Conehatta,Commissioner of Agriculture & Commerce,,Reform,Cathy L. Toole,9
+Newton,Conehatta,Commissioner of Insurance,,Republican,Mike Chaney,236
+Newton,Conehatta,Commissioner of Insurance,,Democrat,Louis Fondren,54
+Newton,Conehatta,Commissioner of Insurance,,Reform,Barbara Dale Washer,8
+Newton,Conehatta,State Senate,31,Republican,Terry C. Burton,218
+Newton,Conehatta,State Senate,31,Democrat,Melvin J. Hendricks,78
+Newton,Conehatta,State House,78,Republican,Randy Rushing,275
+Newton,Decatur #1,Governor,,Republican,Phil Bryant,225
+Newton,Decatur #1,Governor,,Democrat,Johnny L. DuPree,60
+Newton,Decatur #1,Lieutenant Governor,,Republican,Tate Reeves,241
+Newton,Decatur #1,Lieutenant Governor,,Reform,Tracella Lou O'Hara Hill,25
+Newton,Decatur #1,Secretary of State,,Republican,Delbert Hosemann,251
+Newton,Decatur #1,Attorney General,,Democrat,Jim Hood,162
+Newton,Decatur #1,Attorney General,,Republican,Steve Simpson,118
+Newton,Decatur #1,State Auditor,,Republican,Stacey E. Pickering,237
+Newton,Decatur #1,State Auditor,,Reform,Ashley Norwood,30
+Newton,Decatur #1,Treasurer,,Republican,Lynn Fitch,212
+Newton,Decatur #1,Treasurer,,Democrat,Connie Moran,61
+Newton,Decatur #1,Treasurer,,Reform,Shawn O'Hara,6
+Newton,Decatur #1,Commissioner of Agriculture & Commerce,,Democrat,Joel Gill,75
+Newton,Decatur #1,Commissioner of Agriculture & Commerce,,Republican,Cindy Hyde-Smith,200
+Newton,Decatur #1,Commissioner of Agriculture & Commerce,,Reform,Cathy L. Toole,5
+Newton,Decatur #1,Commissioner of Insurance,,Republican,Mike Chaney,231
+Newton,Decatur #1,Commissioner of Insurance,,Democrat,Louis Fondren,45
+Newton,Decatur #1,Commissioner of Insurance,,Reform,Barbara Dale Washer,4
+Newton,Decatur #1,State Senate,31,Republican,Terry C. Burton,210
+Newton,Decatur #1,State Senate,31,Democrat,Melvin J. Hendricks,66
+Newton,Decatur #1,State House,78,Republican,Randy Rushing,257
+Newton,Decatur #1a,Governor,,Republican,Phil Bryant,193
+Newton,Decatur #1a,Governor,,Democrat,Johnny L. DuPree,78
+Newton,Decatur #1a,Lieutenant Governor,,Republican,Tate Reeves,199
+Newton,Decatur #1a,Lieutenant Governor,,Reform,Tracella Lou O'Hara Hill,50
+Newton,Decatur #1a,Secretary of State,,Republican,Delbert Hosemann,230
+Newton,Decatur #1a,Attorney General,,Democrat,Jim Hood,162
+Newton,Decatur #1a,Attorney General,,Republican,Steve Simpson,101
+Newton,Decatur #1a,State Auditor,,Republican,Stacey E. Pickering,198
+Newton,Decatur #1a,State Auditor,,Reform,Ashley Norwood,48
+Newton,Decatur #1a,Treasurer,,Republican,Lynn Fitch,190
+Newton,Decatur #1a,Treasurer,,Democrat,Connie Moran,71
+Newton,Decatur #1a,Treasurer,,Reform,Shawn O'Hara,6
+Newton,Decatur #1a,Commissioner of Agriculture & Commerce,,Democrat,Joel Gill,93
+Newton,Decatur #1a,Commissioner of Agriculture & Commerce,,Republican,Cindy Hyde-Smith,168
+Newton,Decatur #1a,Commissioner of Agriculture & Commerce,,Reform,Cathy L. Toole,5
+Newton,Decatur #1a,Commissioner of Insurance,,Republican,Mike Chaney,187
+Newton,Decatur #1a,Commissioner of Insurance,,Democrat,Louis Fondren,72
+Newton,Decatur #1a,Commissioner of Insurance,,Reform,Barbara Dale Washer,7
+Newton,Decatur #1a,State Senate,31,Republican,Terry C. Burton,190
+Newton,Decatur #1a,State Senate,31,Democrat,Melvin J. Hendricks,77
+Newton,Decatur #1a,State House,78,Republican,Randy Rushing,230
+Newton,Little Rock,Governor,,Republican,Phil Bryant,504
+Newton,Little Rock,Governor,,Democrat,Johnny L. DuPree,56
+Newton,Little Rock,Lieutenant Governor,,Republican,Tate Reeves,521
+Newton,Little Rock,Lieutenant Governor,,Reform,Tracella Lou O'Hara Hill,26
+Newton,Little Rock,Secretary of State,,Republican,Delbert Hosemann,523
+Newton,Little Rock,Attorney General,,Democrat,Jim Hood,273
+Newton,Little Rock,Attorney General,,Republican,Steve Simpson,281
+Newton,Little Rock,State Auditor,,Republican,Stacey E. Pickering,501
+Newton,Little Rock,State Auditor,,Reform,Ashley Norwood,41
+Newton,Little Rock,Treasurer,,Republican,Lynn Fitch,477
+Newton,Little Rock,Treasurer,,Democrat,Connie Moran,53
+Newton,Little Rock,Treasurer,,Reform,Shawn O'Hara,17
+Newton,Little Rock,Commissioner of Agriculture & Commerce,,Democrat,Joel Gill,87
+Newton,Little Rock,Commissioner of Agriculture & Commerce,,Republican,Cindy Hyde-Smith,442
+Newton,Little Rock,Commissioner of Agriculture & Commerce,,Reform,Cathy L. Toole,23
+Newton,Little Rock,Commissioner of Insurance,,Republican,Mike Chaney,493
+Newton,Little Rock,Commissioner of Insurance,,Democrat,Louis Fondren,42
+Newton,Little Rock,Commissioner of Insurance,,Reform,Barbara Dale Washer,15
+Newton,Little Rock,State Senate,31,Republican,Terry C. Burton,490
+Newton,Little Rock,State Senate,31,Democrat,Melvin J. Hendricks,69
+Newton,Little Rock,State House,78,Republican,Randy Rushing,529
+Newton,Hickory,Governor,,Republican,Phil Bryant,612
+Newton,Hickory,Governor,,Democrat,Johnny L. DuPree,212
+Newton,Hickory,Lieutenant Governor,,Republican,Tate Reeves,671
+Newton,Hickory,Lieutenant Governor,,Reform,Tracella Lou O'Hara Hill,121
+Newton,Hickory,Secretary of State,,Republican,Delbert Hosemann,738
+Newton,Hickory,Attorney General,,Democrat,Jim Hood,488
+Newton,Hickory,Attorney General,,Republican,Steve Simpson,333
+Newton,Hickory,State Auditor,,Republican,Stacey E. Pickering,642
+Newton,Hickory,State Auditor,,Reform,Ashley Norwood,138
+Newton,Hickory,Treasurer,,Republican,Lynn Fitch,603
+Newton,Hickory,Treasurer,,Democrat,Connie Moran,191
+Newton,Hickory,Treasurer,,Reform,Shawn O'Hara,24
+Newton,Hickory,Commissioner of Agriculture & Commerce,,Democrat,Joel Gill,256
+Newton,Hickory,Commissioner of Agriculture & Commerce,,Republican,Cindy Hyde-Smith,544
+Newton,Hickory,Commissioner of Agriculture & Commerce,,Reform,Cathy L. Toole,17
+Newton,Hickory,Commissioner of Insurance,,Republican,Mike Chaney,619
+Newton,Hickory,Commissioner of Insurance,,Democrat,Louis Fondren,179
+Newton,Hickory,Commissioner of Insurance,,Reform,Barbara Dale Washer,20
+Newton,Hickory,State Senate,31,Republican,Terry C. Burton,593
+Newton,Hickory,State Senate,31,Democrat,Melvin J. Hendricks,222
+Newton,Hickory,State House,78,Republican,Randy Rushing,711
+Newton,Hickory,State House,84,Democrat,William G. Lee,1
+Newton,Hickory,State House,84,Republican,"William E. Shirley, Jr.",13
+Newton,Hickory,State House,87,Republican,Daniel Kilpatrick,3
+Newton,Hickory,State House,87,Democrat,Johnny W. Stringer,3
+Newton,Liberty,Governor,,Republican,Phil Bryant,76
+Newton,Liberty,Governor,,Democrat,Johnny L. DuPree,40
+Newton,Liberty,Lieutenant Governor,,Republican,Tate Reeves,83
+Newton,Liberty,Lieutenant Governor,,Reform,Tracella Lou O'Hara Hill,26
+Newton,Liberty,Secretary of State,,Republican,Delbert Hosemann,97
+Newton,Liberty,Attorney General,,Democrat,Jim Hood,78
+Newton,Liberty,Attorney General,,Republican,Steve Simpson,37
+Newton,Liberty,State Auditor,,Republican,Stacey E. Pickering,82
+Newton,Liberty,State Auditor,,Reform,Ashley Norwood,23
+Newton,Liberty,Treasurer,,Republican,Lynn Fitch,77
+Newton,Liberty,Treasurer,,Democrat,Connie Moran,37
+Newton,Liberty,Treasurer,,Reform,Shawn O'Hara,1
+Newton,Liberty,Commissioner of Agriculture & Commerce,,Democrat,Joel Gill,40
+Newton,Liberty,Commissioner of Agriculture & Commerce,,Republican,Cindy Hyde-Smith,72
+Newton,Liberty,Commissioner of Agriculture & Commerce,,Reform,Cathy L. Toole,1
+Newton,Liberty,Commissioner of Insurance,,Republican,Mike Chaney,77
+Newton,Liberty,Commissioner of Insurance,,Democrat,Louis Fondren,36
+Newton,Liberty,Commissioner of Insurance,,Reform,Barbara Dale Washer,1
+Newton,Liberty,State Senate,31,Republican,Terry C. Burton,77
+Newton,Liberty,State Senate,31,Democrat,Melvin J. Hendricks,38
+Newton,Liberty,State House,78,Republican,Randy Rushing,1
+Newton,Liberty,State House,87,Republican,Daniel Kilpatrick,36
+Newton,Liberty,State House,87,Democrat,Johnny W. Stringer,78
+Newton,Newton #4,Governor,,Republican,Phil Bryant,428
+Newton,Newton #4,Governor,,Democrat,Johnny L. DuPree,242
+Newton,Newton #4,Lieutenant Governor,,Republican,Tate Reeves,484
+Newton,Newton #4,Lieutenant Governor,,Reform,Tracella Lou O'Hara Hill,117
+Newton,Newton #4,Secretary of State,,Republican,Delbert Hosemann,544
+Newton,Newton #4,Attorney General,,Democrat,Jim Hood,424
+Newton,Newton #4,Attorney General,,Republican,Steve Simpson,236
+Newton,Newton #4,State Auditor,,Republican,Stacey E. Pickering,464
+Newton,Newton #4,State Auditor,,Reform,Ashley Norwood,126
+Newton,Newton #4,Treasurer,,Republican,Lynn Fitch,419
+Newton,Newton #4,Treasurer,,Democrat,Connie Moran,227
+Newton,Newton #4,Treasurer,,Reform,Shawn O'Hara,20
+Newton,Newton #4,Commissioner of Agriculture & Commerce,,Democrat,Joel Gill,265
+Newton,Newton #4,Commissioner of Agriculture & Commerce,,Republican,Cindy Hyde-Smith,381
+Newton,Newton #4,Commissioner of Agriculture & Commerce,,Reform,Cathy L. Toole,14
+Newton,Newton #4,Commissioner of Insurance,,Republican,Mike Chaney,443
+Newton,Newton #4,Commissioner of Insurance,,Democrat,Louis Fondren,204
+Newton,Newton #4,Commissioner of Insurance,,Reform,Barbara Dale Washer,11
+Newton,Newton #4,State Senate,31,Republican,Terry C. Burton,448
+Newton,Newton #4,State Senate,31,Democrat,Melvin J. Hendricks,217
+Newton,Newton #4,State House,78,Republican,Randy Rushing,175
+Newton,Newton #4,State House,87,Republican,Daniel Kilpatrick,130
+Newton,Newton #4,State House,87,Democrat,Johnny W. Stringer,319
