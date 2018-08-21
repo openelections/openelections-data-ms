@@ -26,7 +26,7 @@ Converted CSVs of Mississippi election results.
 | 2015  |  [done](https://github.com/openelections/openelections-data-ms/blob/master/2015/20151103__ms__general.csv) | [done](https://github.com/openelections/openelections-data-ms/blob/master/2015/20150804__ms__primary.csv) |
 | 2014 |  [done](https://github.com/openelections/openelections-data-ms/blob/master/2014/20141104__ms__general.csv) | working  |
 | 2012  |  [done](https://github.com/openelections/openelections-data-ms/blob/master/2012/20121106__ms__general.csv) | working |
-| 2011  |  [done](https://github.com/openelections/openelections-data-ms/blob/master/2011/20111108__ms__general.csv) | not started |
+| 2011  |  [done](https://github.com/openelections/openelections-data-ms/blob/master/2011/20111108__ms__general.csv) | working |
 | 2010  |  [done](https://github.com/openelections/openelections-data-ms/blob/master/2010/20101102__ms__general.csv) | [done](https://github.com/openelections/openelections-data-ms/blob/master/2010/20100601__ms__primary.csv) |
 | 2008  |  [done](https://github.com/openelections/openelections-data-ms/blob/master/2008/20081104__ms__general.csv) | done |
 | 2007  | [done](https://github.com/openelections/openelections-data-ms/blob/master/2007/20071106__ms__general.csv) | not started |
