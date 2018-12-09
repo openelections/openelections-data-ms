@@ -1,68 +1,68 @@
 county,precinct,office,district,Candidate,party,Votes
-Perry,Arlington 4100,U.S. Senate�,,David Baria,Democrat,41
-Perry,Beaumont District 1 1030,U.S. Senate�,,David Baria,Democrat,210
-Perry,Beaumont Senior  Citizens 5120,U.S. Senate�,,David Baria,Democrat,26
-Perry,Courthouse 5110,U.S. Senate�,,David Baria,Democrat,18
-Perry,Deep Creek 5150,U.S. Senate�,,David Baria,Democrat,12
-Perry,Hintonville 4090,U.S. Senate�,,David Baria,Democrat,56
-Perry,Indian Springs 1010,U.S. Senate�,,David Baria,Democrat,95
-Perry,Janice 5140,U.S. Senate�,,David Baria,Democrat,47
-Perry,Miracle Temple COGIC 1040,U.S. Senate�,,David Baria,Democrat,72
-Perry,New Augusta Community Center,U.S. Senate�,,David Baria,Democrat,70
-Perry,Prospect 2050,U.S. Senate�,,David Baria,Democrat,15
-Perry,Richton Holly Street 3060,U.S. Senate�,,David Baria,Democrat,95
-Perry,Richton Multi Purpose 4080,U.S. Senate�,,David Baria,Democrat,54
-Perry,Runnelstown 2040,U.S. Senate�,,David Baria,Democrat,36
-Perry,Thompson Hill 5130,U.S. Senate�,,David Baria,Democrat,6
-Perry,Total,U.S. Senate�,,David Baria,Democrat,853
-Perry,Arlington 4100,U.S. Senate�,,Roger F. Wicker,Republican,271
-Perry,Beaumont District 1 1030,U.S. Senate�,,Roger F. Wicker,Republican,74
-Perry,Beaumont Senior  Citizens 5120,U.S. Senate�,,Roger F. Wicker,Republican,81
-Perry,Courthouse 5110,U.S. Senate�,,Roger F. Wicker,Republican,174
-Perry,Deep Creek 5150,U.S. Senate�,,Roger F. Wicker,Republican,45
-Perry,Hintonville 4090,U.S. Senate�,,Roger F. Wicker,Republican,126
-Perry,Indian Springs 1010,U.S. Senate�,,Roger F. Wicker,Republican,108
-Perry,Janice 5140,U.S. Senate�,,Roger F. Wicker,Republican,316
-Perry,Miracle Temple COGIC 1040,U.S. Senate�,,Roger F. Wicker,Republican,15
-Perry,New Augusta Community Center,U.S. Senate�,,Roger F. Wicker,Republican,84
-Perry,Prospect 2050,U.S. Senate�,,Roger F. Wicker,Republican,136
-Perry,Richton Holly Street 3060,U.S. Senate�,,Roger F. Wicker,Republican,698
-Perry,Richton Multi Purpose 4080,U.S. Senate�,,Roger F. Wicker,Republican,172
-Perry,Runnelstown 2040,U.S. Senate�,,Roger F. Wicker,Republican,572
-Perry,Thompson Hill 5130,U.S. Senate�,,Roger F. Wicker,Republican,41
-Perry,Total,U.S. Senate�,,Roger F. Wicker,Republican,2913
-Perry,Arlington 4100,U.S. Senate�,,Danny Bedwell,Libertarian,3
-Perry,Beaumont District 1 1030,U.S. Senate�,,Danny Bedwell,Libertarian,5
-Perry,Beaumont Senior  Citizens 5120,U.S. Senate�,,Danny Bedwell,Libertarian,3
-Perry,Courthouse 5110,U.S. Senate�,,Danny Bedwell,Libertarian,3
-Perry,Deep Creek 5150,U.S. Senate�,,Danny Bedwell,Libertarian,1
-Perry,Hintonville 4090,U.S. Senate�,,Danny Bedwell,Libertarian,1
-Perry,Indian Springs 1010,U.S. Senate�,,Danny Bedwell,Libertarian,2
-Perry,Janice 5140,U.S. Senate�,,Danny Bedwell,Libertarian,7
-Perry,Miracle Temple COGIC 1040,U.S. Senate�,,Danny Bedwell,Libertarian,1
-Perry,New Augusta Community Center,U.S. Senate�,,Danny Bedwell,Libertarian,2
-Perry,Prospect 2050,U.S. Senate�,,Danny Bedwell,Libertarian,0
-Perry,Richton Holly Street 3060,U.S. Senate�,,Danny Bedwell,Libertarian,22
-Perry,Richton Multi Purpose 4080,U.S. Senate�,,Danny Bedwell,Libertarian,2
-Perry,Runnelstown 2040,U.S. Senate�,,Danny Bedwell,Libertarian,10
-Perry,Thompson Hill 5130,U.S. Senate�,,Danny Bedwell,Libertarian,0
-Perry,Total,U.S. Senate�,,Danny Bedwell,Libertarian,62
-Perry,Arlington 4100,U.S. Senate�,,Shawn O'Hara,Reform,4
-Perry,Beaumont District 1 1030,U.S. Senate�,,Shawn O'Hara,Reform,4
-Perry,Beaumont Senior  Citizens 5120,U.S. Senate�,,Shawn O'Hara,Reform,5
-Perry,Courthouse 5110,U.S. Senate�,,Shawn O'Hara,Reform,0
-Perry,Deep Creek 5150,U.S. Senate�,,Shawn O'Hara,Reform,0
-Perry,Hintonville 4090,U.S. Senate�,,Shawn O'Hara,Reform,1
-Perry,Indian Springs 1010,U.S. Senate�,,Shawn O'Hara,Reform,0
-Perry,Janice 5140,U.S. Senate�,,Shawn O'Hara,Reform,2
-Perry,Miracle Temple COGIC 1040,U.S. Senate�,,Shawn O'Hara,Reform,2
-Perry,New Augusta Community Center,U.S. Senate�,,Shawn O'Hara,Reform,3
-Perry,Prospect 2050,U.S. Senate�,,Shawn O'Hara,Reform,4
-Perry,Richton Holly Street 3060,U.S. Senate�,,Shawn O'Hara,Reform,5
-Perry,Richton Multi Purpose 4080,U.S. Senate�,,Shawn O'Hara,Reform,3
-Perry,Runnelstown 2040,U.S. Senate�,,Shawn O'Hara,Reform,3
-Perry,Thompson Hill 5130,U.S. Senate�,,Shawn O'Hara,Reform,0
-Perry,Total,U.S. Senate�,,Shawn O'Hara,Reform,36
+Perry,Arlington 4100,U.S. Senate,,David Baria,Democrat,41
+Perry,Beaumont District 1 1030,U.S. Senate,,David Baria,Democrat,210
+Perry,Beaumont Senior  Citizens 5120,U.S. Senate,,David Baria,Democrat,26
+Perry,Courthouse 5110,U.S. Senate,,David Baria,Democrat,18
+Perry,Deep Creek 5150,U.S. Senate,,David Baria,Democrat,12
+Perry,Hintonville 4090,U.S. Senate,,David Baria,Democrat,56
+Perry,Indian Springs 1010,U.S. Senate,,David Baria,Democrat,95
+Perry,Janice 5140,U.S. Senate,,David Baria,Democrat,47
+Perry,Miracle Temple COGIC 1040,U.S. Senate,,David Baria,Democrat,72
+Perry,New Augusta Community Center,U.S. Senate,,David Baria,Democrat,70
+Perry,Prospect 2050,U.S. Senate,,David Baria,Democrat,15
+Perry,Richton Holly Street 3060,U.S. Senate,,David Baria,Democrat,95
+Perry,Richton Multi Purpose 4080,U.S. Senate,,David Baria,Democrat,54
+Perry,Runnelstown 2040,U.S. Senate,,David Baria,Democrat,36
+Perry,Thompson Hill 5130,U.S. Senate,,David Baria,Democrat,6
+Perry,Total,U.S. Senate,,David Baria,Democrat,853
+Perry,Arlington 4100,U.S. Senate,,Roger F. Wicker,Republican,271
+Perry,Beaumont District 1 1030,U.S. Senate,,Roger F. Wicker,Republican,74
+Perry,Beaumont Senior  Citizens 5120,U.S. Senate,,Roger F. Wicker,Republican,81
+Perry,Courthouse 5110,U.S. Senate,,Roger F. Wicker,Republican,174
+Perry,Deep Creek 5150,U.S. Senate,,Roger F. Wicker,Republican,45
+Perry,Hintonville 4090,U.S. Senate,,Roger F. Wicker,Republican,126
+Perry,Indian Springs 1010,U.S. Senate,,Roger F. Wicker,Republican,108
+Perry,Janice 5140,U.S. Senate,,Roger F. Wicker,Republican,316
+Perry,Miracle Temple COGIC 1040,U.S. Senate,,Roger F. Wicker,Republican,15
+Perry,New Augusta Community Center,U.S. Senate,,Roger F. Wicker,Republican,84
+Perry,Prospect 2050,U.S. Senate,,Roger F. Wicker,Republican,136
+Perry,Richton Holly Street 3060,U.S. Senate,,Roger F. Wicker,Republican,698
+Perry,Richton Multi Purpose 4080,U.S. Senate,,Roger F. Wicker,Republican,172
+Perry,Runnelstown 2040,U.S. Senate,,Roger F. Wicker,Republican,572
+Perry,Thompson Hill 5130,U.S. Senate,,Roger F. Wicker,Republican,41
+Perry,Total,U.S. Senate,,Roger F. Wicker,Republican,2913
+Perry,Arlington 4100,U.S. Senate,,Danny Bedwell,Libertarian,3
+Perry,Beaumont District 1 1030,U.S. Senate,,Danny Bedwell,Libertarian,5
+Perry,Beaumont Senior  Citizens 5120,U.S. Senate,,Danny Bedwell,Libertarian,3
+Perry,Courthouse 5110,U.S. Senate,,Danny Bedwell,Libertarian,3
+Perry,Deep Creek 5150,U.S. Senate,,Danny Bedwell,Libertarian,1
+Perry,Hintonville 4090,U.S. Senate,,Danny Bedwell,Libertarian,1
+Perry,Indian Springs 1010,U.S. Senate,,Danny Bedwell,Libertarian,2
+Perry,Janice 5140,U.S. Senate,,Danny Bedwell,Libertarian,7
+Perry,Miracle Temple COGIC 1040,U.S. Senate,,Danny Bedwell,Libertarian,1
+Perry,New Augusta Community Center,U.S. Senate,,Danny Bedwell,Libertarian,2
+Perry,Prospect 2050,U.S. Senate,,Danny Bedwell,Libertarian,0
+Perry,Richton Holly Street 3060,U.S. Senate,,Danny Bedwell,Libertarian,22
+Perry,Richton Multi Purpose 4080,U.S. Senate,,Danny Bedwell,Libertarian,2
+Perry,Runnelstown 2040,U.S. Senate,,Danny Bedwell,Libertarian,10
+Perry,Thompson Hill 5130,U.S. Senate,,Danny Bedwell,Libertarian,0
+Perry,Total,U.S. Senate,,Danny Bedwell,Libertarian,62
+Perry,Arlington 4100,U.S. Senate,,Shawn O'Hara,Reform,4
+Perry,Beaumont District 1 1030,U.S. Senate,,Shawn O'Hara,Reform,4
+Perry,Beaumont Senior  Citizens 5120,U.S. Senate,,Shawn O'Hara,Reform,5
+Perry,Courthouse 5110,U.S. Senate,,Shawn O'Hara,Reform,0
+Perry,Deep Creek 5150,U.S. Senate,,Shawn O'Hara,Reform,0
+Perry,Hintonville 4090,U.S. Senate,,Shawn O'Hara,Reform,1
+Perry,Indian Springs 1010,U.S. Senate,,Shawn O'Hara,Reform,0
+Perry,Janice 5140,U.S. Senate,,Shawn O'Hara,Reform,2
+Perry,Miracle Temple COGIC 1040,U.S. Senate,,Shawn O'Hara,Reform,2
+Perry,New Augusta Community Center,U.S. Senate,,Shawn O'Hara,Reform,3
+Perry,Prospect 2050,U.S. Senate,,Shawn O'Hara,Reform,4
+Perry,Richton Holly Street 3060,U.S. Senate,,Shawn O'Hara,Reform,5
+Perry,Richton Multi Purpose 4080,U.S. Senate,,Shawn O'Hara,Reform,3
+Perry,Runnelstown 2040,U.S. Senate,,Shawn O'Hara,Reform,3
+Perry,Thompson Hill 5130,U.S. Senate,,Shawn O'Hara,Reform,0
+Perry,Total,U.S. Senate,,Shawn O'Hara,Reform,36
 Perry,Arlington 4100,U.S. Senate�Special,,Tobey Bernard Bartee,,0
 Perry,Beaumont District 1 1030,U.S. Senate�Special,,Tobey Bernard Bartee,,6
 Perry,Beaumont Senior  Citizens 5120,U.S. Senate�Special,,Tobey Bernard Bartee,,0
