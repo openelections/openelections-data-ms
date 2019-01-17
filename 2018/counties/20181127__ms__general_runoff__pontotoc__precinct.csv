@@ -1,59 +1,59 @@
-Page,candidate,office,district,party,county,precinct,votes,winner
-2,Mike Espy,U.S. Senate,Unexpired Term,,Pontotoc,Algoma AI,54,
-2,Cindy Hyde-Smith,U.S. Senate,Unexpired Term,,Pontotoc,Algoma AI,351,
-2,Mike Espy,U.S. Senate,Unexpired Term,,Pontotoc,Bankhead Ba,234,
-2,Cindy Hyde-Smith,U.S. Senate,Unexpired Term,,Pontotoc,Bankhead Ba,242,
-2,Mike Espy,U.S. Senate,Unexpired Term,,Pontotoc,Beckham Bec,68,
-2,Cindy Hyde-Smith,U.S. Senate,Unexpired Term,,Pontotoc,Beckham Bec,274,
-2,Mike Espy,U.S. Senate,Unexpired Term,,Pontotoc,Bethel/Endville Be,68,
-2,Cindy Hyde-Smith,U.S. Senate,Unexpired Term,,Pontotoc,Bethel/Endville Be,311,
-2,Mike Espy,U.S. Senate,Unexpired Term,,Pontotoc,Buchanan Bu,27,
-2,Cindy Hyde-Smith,U.S. Senate,Unexpired Term,,Pontotoc,Buchanan Bu,252,
-2,Mike Espy,U.S. Senate,Unexpired Term,,Pontotoc,Cherry Creek Cc,41,
-2,Cindy Hyde-Smith,U.S. Senate,Unexpired Term,,Pontotoc,Cherry Creek Cc,324,
-2,Mike Espy,U.S. Senate,Unexpired Term,,Pontotoc,Ecru Ec,120,
-2,Cindy Hyde-Smith,U.S. Senate,Unexpired Term,,Pontotoc,Ecru Ec,349,
-2,Mike Espy,U.S. Senate,Unexpired Term,,Pontotoc,Friendship Fr,22,
-2,Cindy Hyde-Smith,U.S. Senate,Unexpired Term,,Pontotoc,Friendship Fr,117,
-2,Mike Espy,U.S. Senate,Unexpired Term,,Pontotoc,Hoyle Ho,229,
-2,Cindy Hyde-Smith,U.S. Senate,Unexpired Term,,Pontotoc,Hoyle Ho,262,
-2,Mike Espy,U.S. Senate,Unexpired Term,,Pontotoc,Hurricane Hu,19,
-2,Cindy Hyde-Smith,U.S. Senate,Unexpired Term,,Pontotoc,Hurricane Hu,282,
-2,Mike Espy,U.S. Senate,Unexpired Term,,Pontotoc,Judah Ju,9,
-2,Cindy Hyde-Smith,U.S. Senate,Unexpired Term,,Pontotoc,Judah Ju,175,
-3,Mike Espy,U.S. Senate,Unexpired Term,,Pontotoc,Longview Lo,114,
-3,Cindy Hyde-Smith,U.S. Senate,Unexpired Term,,Pontotoc,Longview Lo,119,
-3,Mike Espy,U.S. Senate,Unexpired Term,,Pontotoc,Oakhill Oh,29,
-3,Cindy Hyde-Smith,U.S. Senate,Unexpired Term,,Pontotoc,Oakhill Oh,186,
-3,Mike Espy,U.S. Senate,Unexpired Term,,Pontotoc,Pontotoc 1 P1,58,
-3,Cindy Hyde-Smith,U.S. Senate,Unexpired Term,,Pontotoc,Pontotoc 1 P1,211,
-3,Mike Espy,U.S. Senate,Unexpired Term,,Pontotoc,Pontotoc 2 P2,83,
-3,Cindy Hyde-Smith,U.S. Senate,Unexpired Term,,Pontotoc,Pontotoc 2 P2,270,
-3,Mike Espy,U.S. Senate,Unexpired Term,,Pontotoc,Pontotoc 3 P3,152,
-3,Cindy Hyde-Smith,U.S. Senate,Unexpired Term,,Pontotoc,Pontotoc 3 P3,417,
-3,Mike Espy,U.S. Senate,Unexpired Term,,Pontotoc,Pontotoc 4 P4,112,
-3,Cindy Hyde-Smith,U.S. Senate,Unexpired Term,,Pontotoc,Pontotoc 4 P4,282,
-3,Mike Espy,U.S. Senate,Unexpired Term,,Pontotoc,Pontotoc 5 P5,211,
-3,Cindy Hyde-Smith,U.S. Senate,Unexpired Term,,Pontotoc,Pontotoc 5 P5,579,
-3,Mike Espy,U.S. Senate,Unexpired Term,,Pontotoc,Randolph,28,
-3,Cindy Hyde-Smith,U.S. Senate,Unexpired Term,,Pontotoc,Randolph,431,
-3,Mike Espy,U.S. Senate,Unexpired Term,,Pontotoc,Robbs Ro,18,
-3,Cindy Hyde-Smith,U.S. Senate,Unexpired Term,,Pontotoc,Robbs Ro,28,
-3,Mike Espy,U.S. Senate,Unexpired Term,,Pontotoc,Sherman Sh,34,
-3,Cindy Hyde-Smith,U.S. Senate,Unexpired Term,,Pontotoc,Sherman Sh,201,
-3,Mike Espy,U.S. Senate,Unexpired Term,,Pontotoc,Springville Sp,83,
-3,Cindy Hyde-Smith,U.S. Senate,Unexpired Term,,Pontotoc,Springville Sp,363,
-4,Mike Espy,U.S. Senate,Unexpired Term,,Pontotoc,Thaxton Th,39,
-4,Cindy Hyde-Smith,U.S. Senate,Unexpired Term,,Pontotoc,Thaxton Th,297,
-4,Mike Espy,U.S. Senate,Unexpired Term,,Pontotoc,Toccopola To,41,
-4,Cindy Hyde-Smith,U.S. Senate,Unexpired Term,,Pontotoc,Toccopola To,100,
-4,Mike Espy,U.S. Senate,Unexpired Term,,Pontotoc,Troy Tr,50,
-4,Cindy Hyde-Smith,U.S. Senate,Unexpired Term,,Pontotoc,Troy Tr,336,
-4,Mike Espy,U.S. Senate,Unexpired Term,,Pontotoc,Turnpike Tu,27,
-4,Cindy Hyde-Smith,U.S. Senate,Unexpired Term,,Pontotoc,Turnpike Tu,224,
-4,Mike Espy,U.S. Senate,Unexpired Term,,Pontotoc,Woodland Wo,11,
-4,Cindy Hyde-Smith,U.S. Senate,Unexpired Term,,Pontotoc,Woodland Wo,92,
-4,Mike Espy,U.S. Senate,Unexpired Term,,Pontotoc,Zion Z,81,
-4,Cindy Hyde-Smith,U.S. Senate,Unexpired Term,,Pontotoc,Zion Z,229,
-4,Mike Espy,U.S. Senate,Unexpired Term,,Pontotoc,TOTAL,2062,
-4,Cindy Hyde-Smith,U.S. Senate,Unexpired Term,,Pontotoc,TOTAL,7304,
+county,precinct,office,district,party,candidate,votes
+Pontotoc,Algoma AI,U.S. Senate,Unexpired Term,,Cindy Hyde-Smith,351
+Pontotoc,Algoma AI,U.S. Senate,Unexpired Term,,Mike Espy,54
+Pontotoc,Bankhead Ba,U.S. Senate,Unexpired Term,,Cindy Hyde-Smith,242
+Pontotoc,Bankhead Ba,U.S. Senate,Unexpired Term,,Mike Espy,234
+Pontotoc,Beckham Bec,U.S. Senate,Unexpired Term,,Cindy Hyde-Smith,274
+Pontotoc,Beckham Bec,U.S. Senate,Unexpired Term,,Mike Espy,68
+Pontotoc,Bethel/Endville Be,U.S. Senate,Unexpired Term,,Cindy Hyde-Smith,311
+Pontotoc,Bethel/Endville Be,U.S. Senate,Unexpired Term,,Mike Espy,68
+Pontotoc,Buchanan Bu,U.S. Senate,Unexpired Term,,Cindy Hyde-Smith,252
+Pontotoc,Buchanan Bu,U.S. Senate,Unexpired Term,,Mike Espy,27
+Pontotoc,Cherry Creek Cc,U.S. Senate,Unexpired Term,,Cindy Hyde-Smith,324
+Pontotoc,Cherry Creek Cc,U.S. Senate,Unexpired Term,,Mike Espy,41
+Pontotoc,Ecru Ec,U.S. Senate,Unexpired Term,,Cindy Hyde-Smith,349
+Pontotoc,Ecru Ec,U.S. Senate,Unexpired Term,,Mike Espy,120
+Pontotoc,Friendship Fr,U.S. Senate,Unexpired Term,,Cindy Hyde-Smith,117
+Pontotoc,Friendship Fr,U.S. Senate,Unexpired Term,,Mike Espy,22
+Pontotoc,Hoyle Ho,U.S. Senate,Unexpired Term,,Cindy Hyde-Smith,262
+Pontotoc,Hoyle Ho,U.S. Senate,Unexpired Term,,Mike Espy,229
+Pontotoc,Hurricane Hu,U.S. Senate,Unexpired Term,,Cindy Hyde-Smith,282
+Pontotoc,Hurricane Hu,U.S. Senate,Unexpired Term,,Mike Espy,19
+Pontotoc,Judah Ju,U.S. Senate,Unexpired Term,,Cindy Hyde-Smith,175
+Pontotoc,Judah Ju,U.S. Senate,Unexpired Term,,Mike Espy,9
+Pontotoc,Longview Lo,U.S. Senate,Unexpired Term,,Cindy Hyde-Smith,119
+Pontotoc,Longview Lo,U.S. Senate,Unexpired Term,,Mike Espy,114
+Pontotoc,Oakhill Oh,U.S. Senate,Unexpired Term,,Cindy Hyde-Smith,186
+Pontotoc,Oakhill Oh,U.S. Senate,Unexpired Term,,Mike Espy,29
+Pontotoc,Pontotoc 1 P1,U.S. Senate,Unexpired Term,,Cindy Hyde-Smith,211
+Pontotoc,Pontotoc 1 P1,U.S. Senate,Unexpired Term,,Mike Espy,58
+Pontotoc,Pontotoc 2 P2,U.S. Senate,Unexpired Term,,Cindy Hyde-Smith,270
+Pontotoc,Pontotoc 2 P2,U.S. Senate,Unexpired Term,,Mike Espy,83
+Pontotoc,Pontotoc 3 P3,U.S. Senate,Unexpired Term,,Cindy Hyde-Smith,417
+Pontotoc,Pontotoc 3 P3,U.S. Senate,Unexpired Term,,Mike Espy,152
+Pontotoc,Pontotoc 4 P4,U.S. Senate,Unexpired Term,,Cindy Hyde-Smith,282
+Pontotoc,Pontotoc 4 P4,U.S. Senate,Unexpired Term,,Mike Espy,112
+Pontotoc,Pontotoc 5 P5,U.S. Senate,Unexpired Term,,Cindy Hyde-Smith,579
+Pontotoc,Pontotoc 5 P5,U.S. Senate,Unexpired Term,,Mike Espy,211
+Pontotoc,Randolph,U.S. Senate,Unexpired Term,,Cindy Hyde-Smith,431
+Pontotoc,Randolph,U.S. Senate,Unexpired Term,,Mike Espy,28
+Pontotoc,Robbs Ro,U.S. Senate,Unexpired Term,,Cindy Hyde-Smith,28
+Pontotoc,Robbs Ro,U.S. Senate,Unexpired Term,,Mike Espy,18
+Pontotoc,Sherman Sh,U.S. Senate,Unexpired Term,,Cindy Hyde-Smith,201
+Pontotoc,Sherman Sh,U.S. Senate,Unexpired Term,,Mike Espy,34
+Pontotoc,Springville Sp,U.S. Senate,Unexpired Term,,Cindy Hyde-Smith,363
+Pontotoc,Springville Sp,U.S. Senate,Unexpired Term,,Mike Espy,83
+Pontotoc,Thaxton Th,U.S. Senate,Unexpired Term,,Cindy Hyde-Smith,297
+Pontotoc,Thaxton Th,U.S. Senate,Unexpired Term,,Mike Espy,39
+Pontotoc,Toccopola To,U.S. Senate,Unexpired Term,,Cindy Hyde-Smith,100
+Pontotoc,Toccopola To,U.S. Senate,Unexpired Term,,Mike Espy,41
+Pontotoc,Total,U.S. Senate,Unexpired Term,,Cindy Hyde-Smith,7304
+Pontotoc,Total,U.S. Senate,Unexpired Term,,Mike Espy,2062
+Pontotoc,Troy Tr,U.S. Senate,Unexpired Term,,Cindy Hyde-Smith,336
+Pontotoc,Troy Tr,U.S. Senate,Unexpired Term,,Mike Espy,50
+Pontotoc,Turnpike Tu,U.S. Senate,Unexpired Term,,Cindy Hyde-Smith,224
+Pontotoc,Turnpike Tu,U.S. Senate,Unexpired Term,,Mike Espy,27
+Pontotoc,Woodland Wo,U.S. Senate,Unexpired Term,,Cindy Hyde-Smith,92
+Pontotoc,Woodland Wo,U.S. Senate,Unexpired Term,,Mike Espy,11
+Pontotoc,Zion Z,U.S. Senate,Unexpired Term,,Cindy Hyde-Smith,229
+Pontotoc,Zion Z,U.S. Senate,Unexpired Term,,Mike Espy,81

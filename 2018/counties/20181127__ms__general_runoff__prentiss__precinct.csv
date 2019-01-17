@@ -1,33 +1,33 @@
-Page,candidate,office,district,party,county,precinct,votes,winner
-2,Mike Espy,U.S. Senate,Unexpired Term,,Prentiss,Baldwyn,384,
-2,Cindy Hyde-Smith,U.S. Senate,Unexpired Term,,Prentiss,Baldwyn,341,
-2,Mike Espy,U.S. Senate,Unexpired Term,,Prentiss,Blackland,46,
-2,Cindy Hyde-Smith,U.S. Senate,Unexpired Term,,Prentiss,Blackland,240,
-2,Mike Espy,U.S. Senate,Unexpired Term,,Prentiss,Booneville/Ag-Ctr,112,
-2,Cindy Hyde-Smith,U.S. Senate,Unexpired Term,,Prentiss,Booneville/Ag-Ctr,586,
-2,Mike Espy,U.S. Senate,Unexpired Term,,Prentiss,Cairo,42,
-2,Cindy Hyde-Smith,U.S. Senate,Unexpired Term,,Prentiss,Cairo,208,
-2,Mike Espy,U.S. Senate,Unexpired Term,,Prentiss,Cross Roads,63,
-2,Cindy Hyde-Smith,U.S. Senate,Unexpired Term,,Prentiss,Cross Roads,310,
-2,Mike Espy,U.S. Senate,Unexpired Term,,Prentiss,East Booneville,133,
-2,Cindy Hyde-Smith,U.S. Senate,Unexpired Term,,Prentiss,East Booneville,335,
-2,Mike Espy,U.S. Senate,Unexpired Term,,Prentiss,Hills Chapel-New Hope,61,
-2,Cindy Hyde-Smith,U.S. Senate,Unexpired Term,,Prentiss,Hills Chapel-New Hope,450,
-2,Mike Espy,U.S. Senate,Unexpired Term,,Prentiss,Ingram,16,
-2,Cindy Hyde-Smith,U.S. Senate,Unexpired Term,,Prentiss,Ingram,156,
-2,Mike Espy,U.S. Senate,Unexpired Term,,Prentiss,Marietta,62,
-2,Cindy Hyde-Smith,U.S. Senate,Unexpired Term,,Prentiss,Marietta,353,
-2,Mike Espy,U.S. Senate,Unexpired Term,,Prentiss,New Site,48,
-2,Cindy Hyde-Smith,U.S. Senate,Unexpired Term,,Prentiss,New Site,306,
-2,Mike Espy,U.S. Senate,Unexpired Term,,Prentiss,North Booneville/Sunflower,349,
-2,Cindy Hyde-Smith,U.S. Senate,Unexpired Term,,Prentiss,North Booneville/Sunflower,110,
-3,Mike Espy,U.S. Senate,Unexpired Term,,Prentiss,Thrasher,115,
-3,Cindy Hyde-Smith,U.S. Senate,Unexpired Term,,Prentiss,Thrasher,210,
-3,Mike Espy,U.S. Senate,Unexpired Term,,Prentiss,Tuscumbia-New Candler,73,
-3,Cindy Hyde-Smith,U.S. Senate,Unexpired Term,,Prentiss,Tuscumbia-New Candler,297,
-3,Mike Espy,U.S. Senate,Unexpired Term,,Prentiss,West Booneville,228,
-3,Cindy Hyde-Smith,U.S. Senate,Unexpired Term,,Prentiss,West Booneville,971,
-3,Mike Espy,U.S. Senate,Unexpired Term,,Prentiss,Wheeler,104,
-3,Cindy Hyde-Smith,U.S. Senate,Unexpired Term,,Prentiss,Wheeler,333,
-3,Mike Espy,U.S. Senate,Unexpired Term,,Prentiss,TOTAL ,1836,
-3,Cindy Hyde-Smith,U.S. Senate,Unexpired Term,,Prentiss,TOTAL ,5206,
+county,precinct,office,district,party,candidate,votes
+Prentiss,Baldwyn,U.S. Senate,Unexpired Term,,Cindy Hyde-Smith,341
+Prentiss,Baldwyn,U.S. Senate,Unexpired Term,,Mike Espy,384
+Prentiss,Blackland,U.S. Senate,Unexpired Term,,Cindy Hyde-Smith,240
+Prentiss,Blackland,U.S. Senate,Unexpired Term,,Mike Espy,46
+Prentiss,Booneville/Ag-Ctr,U.S. Senate,Unexpired Term,,Cindy Hyde-Smith,586
+Prentiss,Booneville/Ag-Ctr,U.S. Senate,Unexpired Term,,Mike Espy,112
+Prentiss,Cairo,U.S. Senate,Unexpired Term,,Cindy Hyde-Smith,208
+Prentiss,Cairo,U.S. Senate,Unexpired Term,,Mike Espy,42
+Prentiss,Cross Roads,U.S. Senate,Unexpired Term,,Cindy Hyde-Smith,310
+Prentiss,Cross Roads,U.S. Senate,Unexpired Term,,Mike Espy,63
+Prentiss,East Booneville,U.S. Senate,Unexpired Term,,Cindy Hyde-Smith,335
+Prentiss,East Booneville,U.S. Senate,Unexpired Term,,Mike Espy,133
+Prentiss,Hills Chapel-New Hope,U.S. Senate,Unexpired Term,,Cindy Hyde-Smith,450
+Prentiss,Hills Chapel-New Hope,U.S. Senate,Unexpired Term,,Mike Espy,61
+Prentiss,Ingram,U.S. Senate,Unexpired Term,,Cindy Hyde-Smith,156
+Prentiss,Ingram,U.S. Senate,Unexpired Term,,Mike Espy,16
+Prentiss,Marietta,U.S. Senate,Unexpired Term,,Cindy Hyde-Smith,353
+Prentiss,Marietta,U.S. Senate,Unexpired Term,,Mike Espy,62
+Prentiss,New Site,U.S. Senate,Unexpired Term,,Cindy Hyde-Smith,306
+Prentiss,New Site,U.S. Senate,Unexpired Term,,Mike Espy,48
+Prentiss,North Booneville/Sunflower,U.S. Senate,Unexpired Term,,Cindy Hyde-Smith,110
+Prentiss,North Booneville/Sunflower,U.S. Senate,Unexpired Term,,Mike Espy,349
+Prentiss,Thrasher,U.S. Senate,Unexpired Term,,Cindy Hyde-Smith,210
+Prentiss,Thrasher,U.S. Senate,Unexpired Term,,Mike Espy,115
+Prentiss,Total,U.S. Senate,Unexpired Term,,Cindy Hyde-Smith,5206
+Prentiss,Total,U.S. Senate,Unexpired Term,,Mike Espy,1836
+Prentiss,Tuscumbia-New Candler,U.S. Senate,Unexpired Term,,Cindy Hyde-Smith,297
+Prentiss,Tuscumbia-New Candler,U.S. Senate,Unexpired Term,,Mike Espy,73
+Prentiss,West Booneville,U.S. Senate,Unexpired Term,,Cindy Hyde-Smith,971
+Prentiss,West Booneville,U.S. Senate,Unexpired Term,,Mike Espy,228
+Prentiss,Wheeler,U.S. Senate,Unexpired Term,,Cindy Hyde-Smith,333
+Prentiss,Wheeler,U.S. Senate,Unexpired Term,,Mike Espy,104

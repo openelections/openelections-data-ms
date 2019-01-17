@@ -1,43 +1,43 @@
-Page,candidate,office,district,party,county,precinct,votes,winner
-2,Mike Espy,U.S. Senate,Unexpired Term,,Tate,Arkabutla,179,
-2,Cindy Hyde-Smith,U.S. Senate,Unexpired Term,,Tate,Arkabutla,268,
-2,Mike Espy,U.S. Senate,Unexpired Term,,Tate,Coldwater 3,614,
-2,Cindy Hyde-Smith,U.S. Senate,Unexpired Term,,Tate,Coldwater 3,265,
-2,Mike Espy,U.S. Senate,Unexpired Term,,Tate,Evansville,45,
-2,Cindy Hyde-Smith,U.S. Senate,Unexpired Term,,Tate,Evansville,82,
-2,Mike Espy,U.S. Senate,Unexpired Term,,Tate,Independence,337,
-2,Cindy Hyde-Smith,U.S. Senate,Unexpired Term,,Tate,Independence,635,
-2,Mike Espy,U.S. Senate,Unexpired Term,,Tate,Looxahoma,247,
-2,Cindy Hyde-Smith,U.S. Senate,Unexpired Term,,Tate,Looxahoma,311,
-2,Mike Espy,U.S. Senate,Unexpired Term,,Tate,Palestine,21,
-2,Cindy Hyde-Smith,U.S. Senate,Unexpired Term,,Tate,Palestine,164,
-2,Mike Espy,U.S. Senate,Unexpired Term,,Tate,Poagville 4,92,
-2,Cindy Hyde-Smith,U.S. Senate,Unexpired Term,,Tate,Poagville 4,379,
-2,Mike Espy,U.S. Senate,Unexpired Term,,Tate,Poagville 5,76,
-2,Cindy Hyde-Smith,U.S. Senate,Unexpired Term,,Tate,Poagville 5,101,
-2,Mike Espy,U.S. Senate,Unexpired Term,,Tate,Sarah,9,
-2,Cindy Hyde-Smith,U.S. Senate,Unexpired Term,,Tate,Sarah,77,
-2,Mike Espy,U.S. Senate,Unexpired Term,,Tate,Senatobia 1,484,
-2,Cindy Hyde-Smith,U.S. Senate,Unexpired Term,,Tate,Senatobia 1,855,
-2,Mike Espy,U.S. Senate,Unexpired Term,,Tate,Senatobia 2,272,
-2,Cindy Hyde-Smith,U.S. Senate,Unexpired Term,,Tate,Senatobia 2,479,
-3,Mike Espy,U.S. Senate,Unexpired Term,,Tate,Senatobia 3,328,
-3,Cindy Hyde-Smith,U.S. Senate,Unexpired Term,,Tate,Senatobia 3,57,
-3,Mike Espy,U.S. Senate,Unexpired Term,,Tate,Senatobia 4,145,
-3,Cindy Hyde-Smith,U.S. Senate,Unexpired Term,,Tate,Senatobia 4,415,
-3,Mike Espy,U.S. Senate,Unexpired Term,,Tate,Sherrod,147,
-3,Cindy Hyde-Smith,U.S. Senate,Unexpired Term,,Tate,Sherrod,157,
-3,Mike Espy,U.S. Senate,Unexpired Term,,Tate,Strayhorn 1,31,
-3,Cindy Hyde-Smith,U.S. Senate,Unexpired Term,,Tate,Strayhorn 1,207,
-3,Mike Espy,U.S. Senate,Unexpired Term,,Tate,Strayhorn 2,19,
-3,Cindy Hyde-Smith,U.S. Senate,Unexpired Term,,Tate,Strayhorn 2,172,
-3,Mike Espy,U.S. Senate,Unexpired Term,,Tate,Taylor,104,
-3,Cindy Hyde-Smith,U.S. Senate,Unexpired Term,,Tate,Taylor,39,
-3,Mike Espy,U.S. Senate,Unexpired Term,,Tate,Thyatira,42,
-3,Cindy Hyde-Smith,U.S. Senate,Unexpired Term,,Tate,Thyatira,107,
-3,Mike Espy,U.S. Senate,Unexpired Term,,Tate,Tyro,114,
-3,Cindy Hyde-Smith,U.S. Senate,Unexpired Term,,Tate,Tyro,82,
-3,Mike Espy,U.S. Senate,Unexpired Term,,Tate,Wyatte,50,
-3,Cindy Hyde-Smith,U.S. Senate,Unexpired Term,,Tate,Wyatte,83,
-3,Mike Espy,U.S. Senate,Unexpired Term,,Tate,TOTAL ,3223,
-3,Cindy Hyde-Smith,U.S. Senate,Unexpired Term,,Tate,TOTAL ,4935,
+county,precinct,office,district,party,candidate,votes
+Tate,Arkabutla,U.S. Senate,Unexpired Term,,Cindy Hyde-Smith,268
+Tate,Arkabutla,U.S. Senate,Unexpired Term,,Mike Espy,179
+Tate,Coldwater 3,U.S. Senate,Unexpired Term,,Cindy Hyde-Smith,265
+Tate,Coldwater 3,U.S. Senate,Unexpired Term,,Mike Espy,614
+Tate,Evansville,U.S. Senate,Unexpired Term,,Cindy Hyde-Smith,82
+Tate,Evansville,U.S. Senate,Unexpired Term,,Mike Espy,45
+Tate,Independence,U.S. Senate,Unexpired Term,,Cindy Hyde-Smith,635
+Tate,Independence,U.S. Senate,Unexpired Term,,Mike Espy,337
+Tate,Looxahoma,U.S. Senate,Unexpired Term,,Cindy Hyde-Smith,311
+Tate,Looxahoma,U.S. Senate,Unexpired Term,,Mike Espy,247
+Tate,Palestine,U.S. Senate,Unexpired Term,,Cindy Hyde-Smith,164
+Tate,Palestine,U.S. Senate,Unexpired Term,,Mike Espy,21
+Tate,Poagville 4,U.S. Senate,Unexpired Term,,Cindy Hyde-Smith,379
+Tate,Poagville 4,U.S. Senate,Unexpired Term,,Mike Espy,92
+Tate,Poagville 5,U.S. Senate,Unexpired Term,,Cindy Hyde-Smith,101
+Tate,Poagville 5,U.S. Senate,Unexpired Term,,Mike Espy,76
+Tate,Sarah,U.S. Senate,Unexpired Term,,Cindy Hyde-Smith,77
+Tate,Sarah,U.S. Senate,Unexpired Term,,Mike Espy,9
+Tate,Senatobia 1,U.S. Senate,Unexpired Term,,Cindy Hyde-Smith,855
+Tate,Senatobia 1,U.S. Senate,Unexpired Term,,Mike Espy,484
+Tate,Senatobia 2,U.S. Senate,Unexpired Term,,Cindy Hyde-Smith,479
+Tate,Senatobia 2,U.S. Senate,Unexpired Term,,Mike Espy,272
+Tate,Senatobia 3,U.S. Senate,Unexpired Term,,Cindy Hyde-Smith,57
+Tate,Senatobia 3,U.S. Senate,Unexpired Term,,Mike Espy,328
+Tate,Senatobia 4,U.S. Senate,Unexpired Term,,Cindy Hyde-Smith,415
+Tate,Senatobia 4,U.S. Senate,Unexpired Term,,Mike Espy,145
+Tate,Sherrod,U.S. Senate,Unexpired Term,,Cindy Hyde-Smith,157
+Tate,Sherrod,U.S. Senate,Unexpired Term,,Mike Espy,147
+Tate,Strayhorn 1,U.S. Senate,Unexpired Term,,Cindy Hyde-Smith,207
+Tate,Strayhorn 1,U.S. Senate,Unexpired Term,,Mike Espy,31
+Tate,Strayhorn 2,U.S. Senate,Unexpired Term,,Cindy Hyde-Smith,172
+Tate,Strayhorn 2,U.S. Senate,Unexpired Term,,Mike Espy,19
+Tate,Taylor,U.S. Senate,Unexpired Term,,Cindy Hyde-Smith,39
+Tate,Taylor,U.S. Senate,Unexpired Term,,Mike Espy,104
+Tate,Thyatira,U.S. Senate,Unexpired Term,,Cindy Hyde-Smith,107
+Tate,Thyatira,U.S. Senate,Unexpired Term,,Mike Espy,42
+Tate,Total,U.S. Senate,Unexpired Term,,Cindy Hyde-Smith,4935
+Tate,Total,U.S. Senate,Unexpired Term,,Mike Espy,3223
+Tate,Tyro,U.S. Senate,Unexpired Term,,Cindy Hyde-Smith,82
+Tate,Tyro,U.S. Senate,Unexpired Term,,Mike Espy,114
+Tate,Wyatte,U.S. Senate,Unexpired Term,,Cindy Hyde-Smith,83
+Tate,Wyatte,U.S. Senate,Unexpired Term,,Mike Espy,50

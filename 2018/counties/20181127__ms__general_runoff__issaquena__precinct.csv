@@ -1,25 +1,13 @@
-Page,candidate,office,district,party,county,precinct,votes,winner
-2,Mike Espy,U.S. Senate,Unexpired Term,,Issaquena,Addie Voting Precinct,70,
-2,Cindy Hyde-Smith,U.S. Senate,Unexpired Term,,Issaquena,Addie Voting Precinct,42,
-2,Mike Espy,U.S. Senate,Unexpired Term,,Issaquena,Grace Voting Precinct,38,
-2,Cindy Hyde-Smith,U.S. Senate,Unexpired Term,,Issaquena,Grace Voting Precinct,60,
-2,Mike Espy,U.S. Senate,Unexpired Term,,Issaquena,Mayersville Courthouse,120,
-2,Cindy Hyde-Smith,U.S. Senate,Unexpired Term,,Issaquena,Mayersville Courthouse,9,
-2,Mike Espy,U.S. Senate,Unexpired Term,,Issaquena,Tallula Community Center,54,
-2,Cindy Hyde-Smith,U.S. Senate,Unexpired Term,,Issaquena,Tallula Community Center,60,
-2,Mike Espy,U.S. Senate,Unexpired Term,,Issaquena,Valley Park Community Center,23,
-2,Cindy Hyde-Smith,U.S. Senate,Unexpired Term,,Issaquena,Valley Park Community Center,56,
-2,Mike Espy,U.S. Senate,Unexpired Term,,Issaquena,TOTAL,305,
-2,Cindy Hyde-Smith,U.S. Senate,Unexpired Term,,Issaquena,TOTAL,227,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
+county,precinct,office,district,party,candidate,votes
+Issaquena,Addie Voting,U.S. Senate,Unexpired Term,,Cindy Hyde-Smith,42
+Issaquena,Addie Voting,U.S. Senate,Unexpired Term,,Mike Espy,70
+Issaquena,Grace Voting,U.S. Senate,Unexpired Term,,Cindy Hyde-Smith,60
+Issaquena,Grace Voting,U.S. Senate,Unexpired Term,,Mike Espy,38
+Issaquena,Mayersville Courthouse,U.S. Senate,Unexpired Term,,Cindy Hyde-Smith,9
+Issaquena,Mayersville Courthouse,U.S. Senate,Unexpired Term,,Mike Espy,120
+Issaquena,Tallula Community Center,U.S. Senate,Unexpired Term,,Cindy Hyde-Smith,60
+Issaquena,Tallula Community Center,U.S. Senate,Unexpired Term,,Mike Espy,54
+Issaquena,Total,U.S. Senate,Unexpired Term,,Cindy Hyde-Smith,227
+Issaquena,Total,U.S. Senate,Unexpired Term,,Mike Espy,305
+Issaquena,Valley Park Community Center,U.S. Senate,Unexpired Term,,Cindy Hyde-Smith,56
+Issaquena,Valley Park Community Center,U.S. Senate,Unexpired Term,,Mike Espy,23

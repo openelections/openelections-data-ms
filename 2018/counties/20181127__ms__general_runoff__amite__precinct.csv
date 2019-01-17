@@ -1,61 +1,45 @@
-Page,candidate,office,district,party,county,precinct,votes,winner
-2,Mike Espy,U.S. Senate,Unexpired Term,,Amite,Amite River,145,
-2,Cindy Hyde-Smith,U.S. Senate,Unexpired Term,,Amite,Amite River,90,
-2,Mike Espy,U.S. Senate,Unexpired Term,,Amite,Ariel,183,
-2,Cindy Hyde-Smith,U.S. Senate,Unexpired Term,,Amite,Ariel,38,
-2,Mike Espy,U.S. Senate,Unexpired Term,,Amite,Berwick,175,
-2,Cindy Hyde-Smith,U.S. Senate,Unexpired Term,,Amite,Berwick,53,
-2,Mike Espy,U.S. Senate,Unexpired Term,,Amite,Crosby,70,
-2,Cindy Hyde-Smith,U.S. Senate,Unexpired Term,,Amite,Crosby,64,
-2,Mike Espy,U.S. Senate,Unexpired Term,,Amite,East Centreville,98,
-2,Cindy Hyde-Smith,U.S. Senate,Unexpired Term,,Amite,East Centreville,144,
-2,Mike Espy,U.S. Senate,Unexpired Term,,Amite,East Fork,65,
-2,Cindy Hyde-Smith,U.S. Senate,Unexpired Term,,Amite,East Fork,245,
-2,Mike Espy,U.S. Senate,Unexpired Term,,Amite,East Gloster,47,
-2,Cindy Hyde-Smith,U.S. Senate,Unexpired Term,,Amite,East Gloster,108,
-2,Mike Espy,U.S. Senate,Unexpired Term,,Amite,East Liberty,56,
-2,Cindy Hyde-Smith,U.S. Senate,Unexpired Term,,Amite,East Liberty,129,
-2,Mike Espy,U.S. Senate,Unexpired Term,,Amite,Gloster,351,
-2,Cindy Hyde-Smith,U.S. Senate,Unexpired Term,,Amite,Gloster,89,
-2,Mike Espy,U.S. Senate,Unexpired Term,,Amite,Homochitto,8,
-2,Cindy Hyde-Smith,U.S. Senate,Unexpired Term,,Amite,Homochitto,47,
-2,Mike Espy,U.S. Senate,Unexpired Term,,Amite,Liberty,124,
-2,Cindy Hyde-Smith,U.S. Senate,Unexpired Term,,Amite,Liberty,288,
-3,Mike Espy,U.S. Senate,Unexpired Term,,Amite,New Zion,32,
-3,Cindy Hyde-Smith,U.S. Senate,Unexpired Term,,Amite,New Zion,190,
-3,Mike Espy,U.S. Senate,Unexpired Term,,Amite,Oneil,4,
-3,Cindy Hyde-Smith,U.S. Senate,Unexpired Term,,Amite,Oneil,159,
-3,Mike Espy,U.S. Senate,Unexpired Term,,Amite,Riceville,109,
-3,Cindy Hyde-Smith,U.S. Senate,Unexpired Term,,Amite,Riceville,122,
-3,Mike Espy,U.S. Senate,Unexpired Term,,Amite,Smithdale,121,
-3,Cindy Hyde-Smith,U.S. Senate,Unexpired Term,,Amite,Smithdale,157,
-3,Mike Espy,U.S. Senate,Unexpired Term,,Amite,South Liberty ,161,
-3,Cindy Hyde-Smith,U.S. Senate,Unexpired Term,,Amite,South Liberty ,73,
-3,Mike Espy,U.S. Senate,Unexpired Term,,Amite,Tangipahoa,44,
-3,Cindy Hyde-Smith,U.S. Senate,Unexpired Term,,Amite,Tangipahoa,274,
-3,Mike Espy,U.S. Senate,Unexpired Term,,Amite,Tickfaw ,92,
-3,Cindy Hyde-Smith,U.S. Senate,Unexpired Term,,Amite,Tickfaw ,79,
-3,Mike Espy,U.S. Senate,Unexpired Term,,Amite,Vance Park,20,
-3,Cindy Hyde-Smith,U.S. Senate,Unexpired Term,,Amite,Vance Park,116,
-3,Mike Espy,U.S. Senate,Unexpired Term,,Amite,Walls,143,
-3,Cindy Hyde-Smith,U.S. Senate,Unexpired Term,,Amite,Walls,236,
-3,Mike Espy,U.S. Senate,Unexpired Term,,Amite,Zion Hill,51,
-3,Cindy Hyde-Smith,U.S. Senate,Unexpired Term,,Amite,Zion Hill,211,
-3,Mike Espy,U.S. Senate,Unexpired Term,,Amite,TOTAL ,2099,
-3,Cindy Hyde-Smith,U.S. Senate,Unexpired Term,,Amite,TOTAL ,2912,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
+county,precinct,office,district,party,candidate,votes
+Amite,Amite River,U.S. Senate,Unexpired Term,,Cindy Hyde-Smith,90
+Amite,Amite River,U.S. Senate,Unexpired Term,,Mike Espy,145
+Amite,Ariel,U.S. Senate,Unexpired Term,,Cindy Hyde-Smith,38
+Amite,Ariel,U.S. Senate,Unexpired Term,,Mike Espy,183
+Amite,Berwick,U.S. Senate,Unexpired Term,,Cindy Hyde-Smith,53
+Amite,Berwick,U.S. Senate,Unexpired Term,,Mike Espy,175
+Amite,Crosby,U.S. Senate,Unexpired Term,,Cindy Hyde-Smith,64
+Amite,Crosby,U.S. Senate,Unexpired Term,,Mike Espy,70
+Amite,East Centreville,U.S. Senate,Unexpired Term,,Cindy Hyde-Smith,144
+Amite,East Centreville,U.S. Senate,Unexpired Term,,Mike Espy,98
+Amite,East Fork,U.S. Senate,Unexpired Term,,Cindy Hyde-Smith,245
+Amite,East Fork,U.S. Senate,Unexpired Term,,Mike Espy,65
+Amite,East Gloster,U.S. Senate,Unexpired Term,,Cindy Hyde-Smith,108
+Amite,East Gloster,U.S. Senate,Unexpired Term,,Mike Espy,47
+Amite,East Liberty,U.S. Senate,Unexpired Term,,Cindy Hyde-Smith,129
+Amite,East Liberty,U.S. Senate,Unexpired Term,,Mike Espy,56
+Amite,Gloster,U.S. Senate,Unexpired Term,,Cindy Hyde-Smith,89
+Amite,Gloster,U.S. Senate,Unexpired Term,,Mike Espy,351
+Amite,Homochitto,U.S. Senate,Unexpired Term,,Cindy Hyde-Smith,47
+Amite,Homochitto,U.S. Senate,Unexpired Term,,Mike Espy,8
+Amite,Liberty,U.S. Senate,Unexpired Term,,Cindy Hyde-Smith,288
+Amite,Liberty,U.S. Senate,Unexpired Term,,Mike Espy,124
+Amite,New Zion,U.S. Senate,Unexpired Term,,Cindy Hyde-Smith,190
+Amite,New Zion,U.S. Senate,Unexpired Term,,Mike Espy,32
+Amite,Oneil,U.S. Senate,Unexpired Term,,Cindy Hyde-Smith,159
+Amite,Oneil,U.S. Senate,Unexpired Term,,Mike Espy,4
+Amite,Riceville,U.S. Senate,Unexpired Term,,Cindy Hyde-Smith,122
+Amite,Riceville,U.S. Senate,Unexpired Term,,Mike Espy,109
+Amite,Smithdale,U.S. Senate,Unexpired Term,,Cindy Hyde-Smith,157
+Amite,Smithdale,U.S. Senate,Unexpired Term,,Mike Espy,121
+Amite,South Liberty,U.S. Senate,Unexpired Term,,Cindy Hyde-Smith,73
+Amite,South Liberty,U.S. Senate,Unexpired Term,,Mike Espy,161
+Amite,Tangipahoa,U.S. Senate,Unexpired Term,,Cindy Hyde-Smith,274
+Amite,Tangipahoa,U.S. Senate,Unexpired Term,,Mike Espy,44
+Amite,Tickfaw,U.S. Senate,Unexpired Term,,Cindy Hyde-Smith,79
+Amite,Tickfaw,U.S. Senate,Unexpired Term,,Mike Espy,92
+Amite,Total,U.S. Senate,Unexpired Term,,Cindy Hyde-Smith,2912
+Amite,Total,U.S. Senate,Unexpired Term,,Mike Espy,2099
+Amite,Vance Park,U.S. Senate,Unexpired Term,,Cindy Hyde-Smith,116
+Amite,Vance Park,U.S. Senate,Unexpired Term,,Mike Espy,20
+Amite,Walls,U.S. Senate,Unexpired Term,,Cindy Hyde-Smith,236
+Amite,Walls,U.S. Senate,Unexpired Term,,Mike Espy,143
+Amite,Zion Hill,U.S. Senate,Unexpired Term,,Cindy Hyde-Smith,211
+Amite,Zion Hill,U.S. Senate,Unexpired Term,,Mike Espy,51

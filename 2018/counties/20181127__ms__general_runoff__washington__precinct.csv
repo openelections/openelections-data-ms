@@ -1,81 +1,47 @@
-Page,candidate,office,district,party,county,precinct,votes,winner
-2,Mike Espy,U.S. Senate,Unexpired Term,,Washington,Arcola Tehcnology Center,199,
-2,Cindy Hyde-Smith,U.S. Senate,Unexpired Term,,Washington,Arcola Tehcnology Center,97,
-2,Otis L. Anthony,State House,31,,Washington,Arcola Tehcnology Center,x,
-2,Barbara Rose Brooks,State House,31,,Washington,Arcola Tehcnology Center,x,
-2,Mike Espy,U.S. Senate,Unexpired Term,,Washington,Buster Brown Community Center,1137,
-2,Cindy Hyde-Smith,U.S. Senate,Unexpired Term,,Washington,Buster Brown Community Center,236,
-2,Otis L. Anthony,State House,31,,Washington,Buster Brown Community Center,x,
-2,Barbara Rose Brooks,State House,31,,Washington,Buster Brown Community Center,x,
-2,Mike Espy,U.S. Senate,Unexpired Term,,Washington,Covenant Presbyterian Church,285,
-2,Cindy Hyde-Smith,U.S. Senate,Unexpired Term,,Washington,Covenant Presbyterian Church,593,
-2,Otis L. Anthony,State House,31,,Washington,Covenant Presbyterian Church,x,
-2,Barbara Rose Brooks,State House,31,,Washington,Covenant Presbyterian Church,x,
-2,Mike Espy,U.S. Senate,Unexpired Term,,Washington,Darlove,28,
-2,Cindy Hyde-Smith,U.S. Senate,Unexpired Term,,Washington,Darlove,33,
-2,Otis L. Anthony,State House,31,,Washington,Darlove,x,
-2,Barbara Rose Brooks,State House,31,,Washington,Darlove,x,
-2,Mike Espy,U.S. Senate,Unexpired Term,,Washington,Elks Lodge,1035,
-2,Cindy Hyde-Smith,U.S. Senate,Unexpired Term,,Washington,Elks Lodge,28,
-2,Otis L. Anthony,State House,31,,Washington,Elks Lodge,x,
-2,Barbara Rose Brooks,State House,31,,Washington,Elks Lodge,x,
-2,Mike Espy,U.S. Senate,Unexpired Term,,Washington,Extension Building,354,
-2,Cindy Hyde-Smith,U.S. Senate,Unexpired Term,,Washington,Extension Building,8,
-2,Otis L. Anthony,State House,31,,Washington,Extension Building,x,
-2,Barbara Rose Brooks,State House,31,,Washington,Extension Building,x,
-2,Mike Espy,U.S. Senate,Unexpired Term,,Washington,Glen Allan Library,135,
-2,Cindy Hyde-Smith,U.S. Senate,Unexpired Term,,Washington,Glen Allan Library,186,
-2,Otis L. Anthony,State House,31,,Washington,Glen Allan Library,x,
-2,Barbara Rose Brooks,State House,31,,Washington,Glen Allan Library,x,
-2,Mike Espy,U.S. Senate,Unexpired Term,,Washington,Hollandale City Hall,676,
-2,Cindy Hyde-Smith,U.S. Senate,Unexpired Term,,Washington,Hollandale City Hall,155,
-2,Otis L. Anthony,State House,31,,Washington,Hollandale City Hall,x,
-2,Barbara Rose Brooks,State House,31,,Washington,Hollandale City Hall,x,
-2,Mike Espy,U.S. Senate,Unexpired Term,,Washington,Jake's Chapel MB Church,723,
-2,Cindy Hyde-Smith,U.S. Senate,Unexpired Term,,Washington,Jake's Chapel MB Church,3,
-2,Otis L. Anthony,State House,31,,Washington,Jake's Chapel MB Church,x,
-2,Barbara Rose Brooks,State House,31,,Washington,Jake's Chapel MB Church,x,
-2,Mike Espy,U.S. Senate,Unexpired Term,,Washington,Lake Vista Masonic Lodge,595,
-2,Cindy Hyde-Smith,U.S. Senate,Unexpired Term,,Washington,Lake Vista Masonic Lodge,159,
-2,Otis L. Anthony,State House,31,,Washington,Lake Vista Masonic Lodge,x,
-2,Barbara Rose Brooks,State House,31,,Washington,Lake Vista Masonic Lodge,x,
-2,Mike Espy,U.S. Senate,Unexpired Term,,Washington,Leland Health Department,700,
-2,Cindy Hyde-Smith,U.S. Senate,Unexpired Term,,Washington,Leland Health Department,318,
-2,Otis L. Anthony,State House,31,,Washington,Leland Health Department,397,
-2,Barbara Rose Brooks,State House,31,,Washington,Leland Health Department,584,
-3,Mike Espy,U.S. Senate,Unexpired Term,,Washington,Leland Rotary Club,511,
-3,Cindy Hyde-Smith,U.S. Senate,Unexpired Term,,Washington,Leland Rotary Club,319,
-3,Otis L. Anthony,State House,31,,Washington,Leland Rotary Club,370,
-3,Barbara Rose Brooks,State House,31,,Washington,Leland Rotary Club,430,
-3,Mike Espy,U.S. Senate,Unexpired Term,,Washington,Metcalfe Bethel Baptist Church,325,
-3,Cindy Hyde-Smith,U.S. Senate,Unexpired Term,,Washington,Metcalfe Bethel Baptist Church,3,
-3,Otis L. Anthony,State House,31,,Washington,Metcalfe Bethel Baptist Church,x,
-3,Barbara Rose Brooks,State House,31,,Washington,Metcalfe Bethel Baptist Church,x,
-3,Mike Espy,U.S. Senate,Unexpired Term,,Washington,Mount Bethel Baptist Church,420,
-3,Cindy Hyde-Smith,U.S. Senate,Unexpired Term,,Washington,Mount Bethel Baptist Church,3,
-3,Otis L. Anthony,State House,31,,Washington,Mount Bethel Baptist Church,x,
-3,Barbara Rose Brooks,State House,31,,Washington,Mount Bethel Baptist Church,x,
-3,Mike Espy,U.S. Senate,Unexpired Term,,Washington,St. James Episcopal Church,998,
-3,Cindy Hyde-Smith,U.S. Senate,Unexpired Term,,Washington,St. James Episcopal Church,412,
-3,Otis L. Anthony,State House,31,,Washington,St. James Episcopal Church,x,
-3,Barbara Rose Brooks,State House,31,,Washington,St. James Episcopal Church,x,
-3,Mike Espy,U.S. Senate,Unexpired Term,,Washington,Swiftwater Baptist Church,61,
-3,Cindy Hyde-Smith,U.S. Senate,Unexpired Term,,Washington,Swiftwater Baptist Church,351,
-3,Otis L. Anthony,State House,31,,Washington,Swiftwater Baptist Church,x,
-3,Barbara Rose Brooks,State House,31,,Washington,Swiftwater Baptist Church,x,
-3,Mike Espy,U.S. Senate,Unexpired Term,,Washington,Tampa Drive,241,
-3,Cindy Hyde-Smith,U.S. Senate,Unexpired Term,,Washington,Tampa Drive,70,
-3,Otis L. Anthony,State House,31,,Washington,Tampa Drive,x,
-3,Barbara Rose Brooks,State House,31,,Washington,Tampa Drive,x,
-3,Mike Espy,U.S. Senate,Unexpired Term,,Washington,Ward's Recreation Center,684,
-3,Cindy Hyde-Smith,U.S. Senate,Unexpired Term,,Washington,Ward's Recreation Center,491,
-3,Otis L. Anthony,State House,31,,Washington,Ward's Recreation Center,x,
-3,Barbara Rose Brooks,State House,31,,Washington,Ward's Recreation Center,x,
-3,Mike Espy,U.S. Senate,Unexpired Term,,Washington,Washington County Convention Center,522,
-3,Cindy Hyde-Smith,U.S. Senate,Unexpired Term,,Washington,Washington County Convention Center,118,
-3,Otis L. Anthony,State House,31,,Washington,Washington County Convention Center,x,
-3,Barbara Rose Brooks,State House,31,,Washington,Washington County Convention Center,x,
-3,Mike Espy,U.S. Senate,Unexpired Term,,Washington,TOTAL ,9629,
-3,Cindy Hyde-Smith,U.S. Senate,Unexpired Term,,Washington,TOTAL ,3583,
-3,Otis L. Anthony,State House,31,,Washington,TOTAL ,767,
-3,Barbara Rose Brooks,State House,31,,Washington,TOTAL ,1014,
+county,precinct,office,district,party,candidate,votes
+Washington,Arcola Tehcnology Center,U.S. Senate,Unexpired Term,,Cindy Hyde-Smith,97
+Washington,Arcola Tehcnology Center,U.S. Senate,Unexpired Term,,Mike Espy,199
+Washington,Buster Brown Community Center,U.S. Senate,Unexpired Term,,Cindy Hyde-Smith,236
+Washington,Buster Brown Community Center,U.S. Senate,Unexpired Term,,Mike Espy,1137
+Washington,Covenant Presbyterian Church,U.S. Senate,Unexpired Term,,Cindy Hyde-Smith,593
+Washington,Covenant Presbyterian Church,U.S. Senate,Unexpired Term,,Mike Espy,285
+Washington,Darlove,U.S. Senate,Unexpired Term,,Cindy Hyde-Smith,33
+Washington,Darlove,U.S. Senate,Unexpired Term,,Mike Espy,28
+Washington,Elks Lodge,U.S. Senate,Unexpired Term,,Cindy Hyde-Smith,28
+Washington,Elks Lodge,U.S. Senate,Unexpired Term,,Mike Espy,1035
+Washington,Extension Building,U.S. Senate,Unexpired Term,,Cindy Hyde-Smith,8
+Washington,Extension Building,U.S. Senate,Unexpired Term,,Mike Espy,354
+Washington,Glen Allan Library,U.S. Senate,Unexpired Term,,Cindy Hyde-Smith,186
+Washington,Glen Allan Library,U.S. Senate,Unexpired Term,,Mike Espy,135
+Washington,Hollandale City Hall,U.S. Senate,Unexpired Term,,Cindy Hyde-Smith,155
+Washington,Hollandale City Hall,U.S. Senate,Unexpired Term,,Mike Espy,676
+Washington,Jake's Chapel MB Church,U.S. Senate,Unexpired Term,,Cindy Hyde-Smith,3
+Washington,Jake's Chapel MB Church,U.S. Senate,Unexpired Term,,Mike Espy,723
+Washington,Lake Vista Masonic Lodge,U.S. Senate,Unexpired Term,,Cindy Hyde-Smith,159
+Washington,Lake Vista Masonic Lodge,U.S. Senate,Unexpired Term,,Mike Espy,595
+Washington,Leland Health Department,State House,31,,Barbara Rose Brooks,584
+Washington,Leland Health Department,State House,31,,Otis L. Anthony,397
+Washington,Leland Health Department,U.S. Senate,Unexpired Term,,Cindy Hyde-Smith,318
+Washington,Leland Health Department,U.S. Senate,Unexpired Term,,Mike Espy,700
+Washington,Leland Rotary Club,State House,31,,Barbara Rose Brooks,430
+Washington,Leland Rotary Club,State House,31,,Otis L. Anthony,370
+Washington,Leland Rotary Club,U.S. Senate,Unexpired Term,,Cindy Hyde-Smith,319
+Washington,Leland Rotary Club,U.S. Senate,Unexpired Term,,Mike Espy,511
+Washington,Metcalfe Bethel Baptist Church,U.S. Senate,Unexpired Term,,Cindy Hyde-Smith,3
+Washington,Metcalfe Bethel Baptist Church,U.S. Senate,Unexpired Term,,Mike Espy,325
+Washington,Mount Bethel Baptist Church,U.S. Senate,Unexpired Term,,Cindy Hyde-Smith,3
+Washington,Mount Bethel Baptist Church,U.S. Senate,Unexpired Term,,Mike Espy,420
+Washington,St. James Episcopal Church,U.S. Senate,Unexpired Term,,Cindy Hyde-Smith,412
+Washington,St. James Episcopal Church,U.S. Senate,Unexpired Term,,Mike Espy,998
+Washington,Swiftwater Baptist Church,U.S. Senate,Unexpired Term,,Cindy Hyde-Smith,351
+Washington,Swiftwater Baptist Church,U.S. Senate,Unexpired Term,,Mike Espy,61
+Washington,Tampa Drive,U.S. Senate,Unexpired Term,,Cindy Hyde-Smith,70
+Washington,Tampa Drive,U.S. Senate,Unexpired Term,,Mike Espy,241
+Washington,Total,State House,31,,Barbara Rose Brooks,1014
+Washington,Total,State House,31,,Otis L. Anthony,767
+Washington,Total,U.S. Senate,Unexpired Term,,Cindy Hyde-Smith,3583
+Washington,Total,U.S. Senate,Unexpired Term,,Mike Espy,9629
+Washington,Ward's Recreation Center,U.S. Senate,Unexpired Term,,Cindy Hyde-Smith,491
+Washington,Ward's Recreation Center,U.S. Senate,Unexpired Term,,Mike Espy,684
+Washington,Washington County Convention Center,U.S. Senate,Unexpired Term,,Cindy Hyde-Smith,118
+Washington,Washington County Convention Center,U.S. Senate,Unexpired Term,,Mike Espy,522

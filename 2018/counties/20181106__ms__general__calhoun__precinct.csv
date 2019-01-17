@@ -1,375 +1,122 @@
-page,candidate,office,district,party,county,precinct,votes,winner
-2,David Baria,U.S. Senate,,Democrat,Calhoun,Banner,27,
-2,Roger F. Wicker,U.S. Senate,,Republican,Calhoun,Banner,275,
-2,Danny Bedwell,U.S. Senate,,Libertarian,Calhoun,Banner,6,
-2,Shawn O'Hara,U.S. Senate,,Reform,Calhoun,Banner,2,
-2,Tobey Bernard Bartee,U.S. Senate,Unexpired Term,,Calhoun,Banner,2,
-2,Mike Espy,U.S. Senate,Unexpired Term,,Calhoun,Banner,37,
-2,Cindy Hyde-Smith,U.S. Senate,Unexpired Term,,Calhoun,Banner,192,
-2,Chris McDaniel,U.S. Senate,Unexpired Term,,Calhoun,Banner,77,
-2,Trent Kelly,U.S. House,1,Democrat,Calhoun,Banner,281,
-2,Randy Mack Wadkins,U.S. House,1,Reform,Calhoun,Banner,28,
-2,Tracella Lou O'Hara Hill ,U.S. House,1,Independent ,Calhoun,Banner,2,
-2,David Baria,U.S. Senate,,Democrat,Calhoun,Bruce #3,138,
-2,Roger F. Wicker,U.S. Senate,,Republican,Calhoun,Bruce #3,532,
-2,Danny Bedwell,U.S. Senate,,Libertarian,Calhoun,Bruce #3,6,
-2,Shawn O'Hara,U.S. Senate,,Reform,Calhoun,Bruce #3,2,
-2,Tobey Bernard Bartee,U.S. Senate,Unexpired Term,,Calhoun,Bruce #3,13,
-2,Mike Espy,U.S. Senate,Unexpired Term,,Calhoun,Bruce #3,155,
-2,Cindy Hyde-Smith,U.S. Senate,Unexpired Term,,Calhoun,Bruce #3,382,
-2,Chris McDaniel,U.S. Senate,Unexpired Term,,Calhoun,Bruce #3,123,
-2,Trent Kelly,U.S. House,1,Democrat,Calhoun,Bruce #3,530,
-2,Randy Mack Wadkins,U.S. House,1,Reform,Calhoun,Bruce #3,149,
-2,Tracella Lou O'Hara Hill ,U.S. House,1,Independent ,Calhoun,Bruce #3,4,
-2,David Baria,U.S. Senate,,Democrat,Calhoun,Calhoun City #1,273,
-2,Roger F. Wicker,U.S. Senate,,Republican,Calhoun,Calhoun City #1,229,
-2,Danny Bedwell,U.S. Senate,,Libertarian,Calhoun,Calhoun City #1,5,
-2,Shawn O'Hara,U.S. Senate,,Reform,Calhoun,Calhoun City #1,3,
-2,Tobey Bernard Bartee,U.S. Senate,Unexpired Term,,Calhoun,Calhoun City #1,4,
-2,Mike Espy,U.S. Senate,Unexpired Term,,Calhoun,Calhoun City #1,283,
-2,Cindy Hyde-Smith,U.S. Senate,Unexpired Term,,Calhoun,Calhoun City #1,173,
-2,Chris McDaniel,U.S. Senate,Unexpired Term,,Calhoun,Calhoun City #1,58,
-2,Trent Kelly,U.S. House,1,Democrat,Calhoun,Calhoun City #1,232,
-2,Randy Mack Wadkins,U.S. House,1,Reform,Calhoun,Calhoun City #1,287,
-2,Tracella Lou O'Hara Hill ,U.S. House,1,Independent ,Calhoun,Calhoun City #1,2,
-2,David Baria,U.S. Senate,,Democrat,Calhoun,Calhoun City #4,156,
-2,Roger F. Wicker,U.S. Senate,,Republican,Calhoun,Calhoun City #4,596,
-2,Danny Bedwell,U.S. Senate,,Libertarian,Calhoun,Calhoun City #4,8,
-2,Shawn O'Hara,U.S. Senate,,Reform,Calhoun,Calhoun City #4,4,
-2,Tobey Bernard Bartee,U.S. Senate,Unexpired Term,,Calhoun,Calhoun City #4,4,
-2,Mike Espy,U.S. Senate,Unexpired Term,,Calhoun,Calhoun City #4,183,
-2,Cindy Hyde-Smith,U.S. Senate,Unexpired Term,,Calhoun,Calhoun City #4,454,
-2,Chris McDaniel,U.S. Senate,Unexpired Term,,Calhoun,Calhoun City #4,126,
-2,Trent Kelly,U.S. House,1,Democrat,Calhoun,Calhoun City #4,606,
-2,Randy Mack Wadkins,U.S. House,1,Reform,Calhoun,Calhoun City #4,159,
-2,Tracella Lou O'Hara Hill ,U.S. House,1,Independent ,Calhoun,Calhoun City #4,4,
-2,David Baria,U.S. Senate,,Democrat,Calhoun,Derma # 4,46,
-2,Roger F. Wicker,U.S. Senate,,Republican,Calhoun,Derma # 4,229,
-2,Danny Bedwell,U.S. Senate,,Libertarian,Calhoun,Derma # 4,4,
-2,Shawn O'Hara,U.S. Senate,,Reform,Calhoun,Derma # 4,2,
-2,Tobey Bernard Bartee,U.S. Senate,Unexpired Term,,Calhoun,Derma # 4,4,
-2,Mike Espy,U.S. Senate,Unexpired Term,,Calhoun,Derma # 4,57,
-2,Cindy Hyde-Smith,U.S. Senate,Unexpired Term,,Calhoun,Derma # 4,174,
-2,Chris McDaniel,U.S. Senate,Unexpired Term,,Calhoun,Derma # 4,45,
-2,Trent Kelly,U.S. House,1,Democrat,Calhoun,Derma # 4,233,
-2,Randy Mack Wadkins,U.S. House,1,Reform,Calhoun,Derma # 4,45,
-2,Tracella Lou O'Hara Hill ,U.S. House,1,Independent ,Calhoun,Derma # 4,2,
-2,David Baria,U.S. Senate,,Democrat,Calhoun,Derma # 5,56,
-2,Roger F. Wicker,U.S. Senate,,Republican,Calhoun,Derma # 5,274,
-2,Danny Bedwell,U.S. Senate,,Libertarian,Calhoun,Derma # 5,1,
-2,Shawn O'Hara,U.S. Senate,,Reform,Calhoun,Derma # 5,2,
-2,Tobey Bernard Bartee,U.S. Senate,Unexpired Term,,Calhoun,Derma # 5,2,
-2,Mike Espy,U.S. Senate,Unexpired Term,,Calhoun,Derma # 5,67,
-2,Cindy Hyde-Smith,U.S. Senate,Unexpired Term,,Calhoun,Derma # 5,222,
-2,Chris McDaniel,U.S. Senate,Unexpired Term,,Calhoun,Derma # 5,46,
-2,Trent Kelly,U.S. House,1,Democrat,Calhoun,Derma # 5,278,
-2,Randy Mack Wadkins,U.S. House,1,Reform,Calhoun,Derma # 5,59,
-2,Tracella Lou O'Hara Hill ,U.S. House,1,Independent ,Calhoun,Derma # 5,4,
-2,David Baria,U.S. Senate,,Democrat,Calhoun,Northeast Calhoun,57,
-2,Roger F. Wicker,U.S. Senate,,Republican,Calhoun,Northeast Calhoun,456,
-2,Danny Bedwell,U.S. Senate,,Libertarian,Calhoun,Northeast Calhoun,10,
-2,Shawn O'Hara,U.S. Senate,,Reform,Calhoun,Northeast Calhoun,1,
-2,Tobey Bernard Bartee,U.S. Senate,Unexpired Term,,Calhoun,Northeast Calhoun,6,
-2,Mike Espy,U.S. Senate,Unexpired Term,,Calhoun,Northeast Calhoun,78,
-2,Cindy Hyde-Smith,U.S. Senate,Unexpired Term,,Calhoun,Northeast Calhoun,317,
-2,Chris McDaniel,U.S. Senate,Unexpired Term,,Calhoun,Northeast Calhoun,130,
-2,Trent Kelly,U.S. House,1,Democrat,Calhoun,Northeast Calhoun,468,
-2,Randy Mack Wadkins,U.S. House,1,Reform,Calhoun,Northeast Calhoun,67,
-2,Tracella Lou O'Hara Hill ,U.S. House,1,Independent ,Calhoun,Northeast Calhoun,2,
-2,David Baria,U.S. Senate,,Democrat,Calhoun,Pittsboro # 1,275,
-2,Roger F. Wicker,U.S. Senate,,Republican,Calhoun,Pittsboro # 1,82,
-2,Danny Bedwell,U.S. Senate,,Libertarian,Calhoun,Pittsboro # 1,4,
-2,Shawn O'Hara,U.S. Senate,,Reform,Calhoun,Pittsboro # 1,1,
-2,Tobey Bernard Bartee,U.S. Senate,Unexpired Term,,Calhoun,Pittsboro # 1,12,
-2,Mike Espy,U.S. Senate,Unexpired Term,,Calhoun,Pittsboro # 1,282,
-2,Cindy Hyde-Smith,U.S. Senate,Unexpired Term,,Calhoun,Pittsboro # 1,58,
-2,Chris McDaniel,U.S. Senate,Unexpired Term,,Calhoun,Pittsboro # 1,20,
-2,Trent Kelly,U.S. House,1,Democrat,Calhoun,Pittsboro # 1,77,
-2,Randy Mack Wadkins,U.S. House,1,Reform,Calhoun,Pittsboro # 1,288,
-2,Tracella Lou O'Hara Hill ,U.S. House,1,Independent ,Calhoun,Pittsboro # 1,5,
-2,David Baria,U.S. Senate,,Democrat,Calhoun,Pittsboro # 2,84,
-2,Roger F. Wicker,U.S. Senate,,Republican,Calhoun,Pittsboro # 2,268,
-2,Danny Bedwell,U.S. Senate,,Libertarian,Calhoun,Pittsboro # 2,4,
-2,Shawn O'Hara,U.S. Senate,,Reform,Calhoun,Pittsboro # 2,2,
-2,Tobey Bernard Bartee,U.S. Senate,Unexpired Term,,Calhoun,Pittsboro # 2,5,
-2,Mike Espy,U.S. Senate,Unexpired Term,,Calhoun,Pittsboro # 2,100,
-2,Cindy Hyde-Smith,U.S. Senate,Unexpired Term,,Calhoun,Pittsboro # 2,180,
-2,Chris McDaniel,U.S. Senate,Unexpired Term,,Calhoun,Pittsboro # 2,85,
-2,Trent Kelly,U.S. House,1,Democrat,Calhoun,Pittsboro # 2,271,
-2,Randy Mack Wadkins,U.S. House,1,Reform,Calhoun,Pittsboro # 2,91,
-2,Tracella Lou O'Hara Hill ,U.S. House,1,Independent ,Calhoun,Pittsboro # 2,2,
-2,David Baria,U.S. Senate,,Democrat,Calhoun,Vardaman ,118,
-2,Roger F. Wicker,U.S. Senate,,Republican,Calhoun,Vardaman ,355,
-2,Danny Bedwell,U.S. Senate,,Libertarian,Calhoun,Vardaman ,4,
-2,Shawn O'Hara,U.S. Senate,,Reform,Calhoun,Vardaman ,2,
-2,Tobey Bernard Bartee,U.S. Senate,Unexpired Term,,Calhoun,Vardaman ,8,
-2,Mike Espy,U.S. Senate,Unexpired Term,,Calhoun,Vardaman ,140,
-2,Cindy Hyde-Smith,U.S. Senate,Unexpired Term,,Calhoun,Vardaman ,275,
-2,Chris McDaniel,U.S. Senate,Unexpired Term,,Calhoun,Vardaman ,62,
-2,Trent Kelly,U.S. House,1,Democrat,Calhoun,Vardaman ,356,
-2,Randy Mack Wadkins,U.S. House,1,Reform,Calhoun,Vardaman ,130,
-2,Tracella Lou O'Hara Hill ,U.S. House,1,Independent ,Calhoun,Vardaman ,7,
-2,David Baria,U.S. Senate,,Democrat,Calhoun,TOTAL ,1230,
-2,Roger F. Wicker,U.S. Senate,,Republican,Calhoun,TOTAL ,3296,
-2,Danny Bedwell,U.S. Senate,,Libertarian,Calhoun,TOTAL ,52,
-2,Shawn O'Hara,U.S. Senate,,Reform,Calhoun,TOTAL ,21,
-2,Tobey Bernard Bartee,U.S. Senate,Unexpired Term,,Calhoun,TOTAL ,60,
-2,Mike Espy,U.S. Senate,Unexpired Term,,Calhoun,TOTAL ,1382,
-2,Cindy Hyde-Smith,U.S. Senate,Unexpired Term,,Calhoun,TOTAL ,2427,
-2,Chris McDaniel,U.S. Senate,Unexpired Term,,Calhoun,TOTAL ,772,
-2,Trent Kelly,U.S. House,1,Democrat,Calhoun,TOTAL ,3332,
-2,Randy Mack Wadkins,U.S. House,1,Reform,Calhoun,TOTAL ,1303,
-2,Tracella Lou O'Hara Hill ,U.S. House,1,Independent ,Calhoun,TOTAL ,34,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
+county,precinct,office,district,party,candidate,votes
+Calhoun,Banner,U.S. House,1,DEM,Trent Kelly,281
+Calhoun,Banner,U.S. House,1,IND,Tracella Lou O'Hara Hill,2
+Calhoun,Banner,U.S. House,1,REF,Randy Mack Wadkins,28
+Calhoun,Banner,U.S. Senate,Unexpired Term,,Chris McDaniel,77
+Calhoun,Banner,U.S. Senate,Unexpired Term,,Cindy Hyde-Smith,192
+Calhoun,Banner,U.S. Senate,Unexpired Term,,Mike Espy,37
+Calhoun,Banner,U.S. Senate,Unexpired Term,,Tobey Bernard Bartee,2
+Calhoun,Banner,U.S. Senate,,DEM,David Baria,27
+Calhoun,Banner,U.S. Senate,,LIB,Danny Bedwell,6
+Calhoun,Banner,U.S. Senate,,REF,Shawn O'Hara,2
+Calhoun,Banner,U.S. Senate,,REP,Roger F. Wicker,275
+Calhoun,Bruce #3,U.S. House,1,DEM,Trent Kelly,530
+Calhoun,Bruce #3,U.S. House,1,IND,Tracella Lou O'Hara Hill,4
+Calhoun,Bruce #3,U.S. House,1,REF,Randy Mack Wadkins,149
+Calhoun,Bruce #3,U.S. Senate,Unexpired Term,,Chris McDaniel,123
+Calhoun,Bruce #3,U.S. Senate,Unexpired Term,,Cindy Hyde-Smith,382
+Calhoun,Bruce #3,U.S. Senate,Unexpired Term,,Mike Espy,155
+Calhoun,Bruce #3,U.S. Senate,Unexpired Term,,Tobey Bernard Bartee,13
+Calhoun,Bruce #3,U.S. Senate,,DEM,David Baria,138
+Calhoun,Bruce #3,U.S. Senate,,LIB,Danny Bedwell,6
+Calhoun,Bruce #3,U.S. Senate,,REF,Shawn O'Hara,2
+Calhoun,Bruce #3,U.S. Senate,,REP,Roger F. Wicker,532
+Calhoun,Calhoun City #1,U.S. House,1,DEM,Trent Kelly,232
+Calhoun,Calhoun City #1,U.S. House,1,IND,Tracella Lou O'Hara Hill,2
+Calhoun,Calhoun City #1,U.S. House,1,REF,Randy Mack Wadkins,287
+Calhoun,Calhoun City #1,U.S. Senate,Unexpired Term,,Chris McDaniel,58
+Calhoun,Calhoun City #1,U.S. Senate,Unexpired Term,,Cindy Hyde-Smith,173
+Calhoun,Calhoun City #1,U.S. Senate,Unexpired Term,,Mike Espy,283
+Calhoun,Calhoun City #1,U.S. Senate,Unexpired Term,,Tobey Bernard Bartee,4
+Calhoun,Calhoun City #1,U.S. Senate,,DEM,David Baria,273
+Calhoun,Calhoun City #1,U.S. Senate,,LIB,Danny Bedwell,5
+Calhoun,Calhoun City #1,U.S. Senate,,REF,Shawn O'Hara,3
+Calhoun,Calhoun City #1,U.S. Senate,,REP,Roger F. Wicker,229
+Calhoun,Calhoun City #4,U.S. House,1,DEM,Trent Kelly,606
+Calhoun,Calhoun City #4,U.S. House,1,IND,Tracella Lou O'Hara Hill,4
+Calhoun,Calhoun City #4,U.S. House,1,REF,Randy Mack Wadkins,159
+Calhoun,Calhoun City #4,U.S. Senate,Unexpired Term,,Chris McDaniel,126
+Calhoun,Calhoun City #4,U.S. Senate,Unexpired Term,,Cindy Hyde-Smith,454
+Calhoun,Calhoun City #4,U.S. Senate,Unexpired Term,,Mike Espy,183
+Calhoun,Calhoun City #4,U.S. Senate,Unexpired Term,,Tobey Bernard Bartee,4
+Calhoun,Calhoun City #4,U.S. Senate,,DEM,David Baria,156
+Calhoun,Calhoun City #4,U.S. Senate,,LIB,Danny Bedwell,8
+Calhoun,Calhoun City #4,U.S. Senate,,REF,Shawn O'Hara,4
+Calhoun,Calhoun City #4,U.S. Senate,,REP,Roger F. Wicker,596
+Calhoun,Derma # 4,U.S. House,1,DEM,Trent Kelly,233
+Calhoun,Derma # 4,U.S. House,1,IND,Tracella Lou O'Hara Hill,2
+Calhoun,Derma # 4,U.S. House,1,REF,Randy Mack Wadkins,45
+Calhoun,Derma # 4,U.S. Senate,Unexpired Term,,Chris McDaniel,45
+Calhoun,Derma # 4,U.S. Senate,Unexpired Term,,Cindy Hyde-Smith,174
+Calhoun,Derma # 4,U.S. Senate,Unexpired Term,,Mike Espy,57
+Calhoun,Derma # 4,U.S. Senate,Unexpired Term,,Tobey Bernard Bartee,4
+Calhoun,Derma # 4,U.S. Senate,,DEM,David Baria,46
+Calhoun,Derma # 4,U.S. Senate,,LIB,Danny Bedwell,4
+Calhoun,Derma # 4,U.S. Senate,,REF,Shawn O'Hara,2
+Calhoun,Derma # 4,U.S. Senate,,REP,Roger F. Wicker,229
+Calhoun,Derma # 5,U.S. House,1,DEM,Trent Kelly,278
+Calhoun,Derma # 5,U.S. House,1,IND,Tracella Lou O'Hara Hill,4
+Calhoun,Derma # 5,U.S. House,1,REF,Randy Mack Wadkins,59
+Calhoun,Derma # 5,U.S. Senate,Unexpired Term,,Chris McDaniel,46
+Calhoun,Derma # 5,U.S. Senate,Unexpired Term,,Cindy Hyde-Smith,222
+Calhoun,Derma # 5,U.S. Senate,Unexpired Term,,Mike Espy,67
+Calhoun,Derma # 5,U.S. Senate,Unexpired Term,,Tobey Bernard Bartee,2
+Calhoun,Derma # 5,U.S. Senate,,DEM,David Baria,56
+Calhoun,Derma # 5,U.S. Senate,,LIB,Danny Bedwell,1
+Calhoun,Derma # 5,U.S. Senate,,REF,Shawn O'Hara,2
+Calhoun,Derma # 5,U.S. Senate,,REP,Roger F. Wicker,274
+Calhoun,Northeast Calhoun,U.S. House,1,DEM,Trent Kelly,468
+Calhoun,Northeast Calhoun,U.S. House,1,IND,Tracella Lou O'Hara Hill,2
+Calhoun,Northeast Calhoun,U.S. House,1,REF,Randy Mack Wadkins,67
+Calhoun,Northeast Calhoun,U.S. Senate,Unexpired Term,,Chris McDaniel,130
+Calhoun,Northeast Calhoun,U.S. Senate,Unexpired Term,,Cindy Hyde-Smith,317
+Calhoun,Northeast Calhoun,U.S. Senate,Unexpired Term,,Mike Espy,78
+Calhoun,Northeast Calhoun,U.S. Senate,Unexpired Term,,Tobey Bernard Bartee,6
+Calhoun,Northeast Calhoun,U.S. Senate,,DEM,David Baria,57
+Calhoun,Northeast Calhoun,U.S. Senate,,LIB,Danny Bedwell,10
+Calhoun,Northeast Calhoun,U.S. Senate,,REF,Shawn O'Hara,1
+Calhoun,Northeast Calhoun,U.S. Senate,,REP,Roger F. Wicker,456
+Calhoun,Pittsboro # 1,U.S. House,1,DEM,Trent Kelly,77
+Calhoun,Pittsboro # 1,U.S. House,1,IND,Tracella Lou O'Hara Hill,5
+Calhoun,Pittsboro # 1,U.S. House,1,REF,Randy Mack Wadkins,288
+Calhoun,Pittsboro # 1,U.S. Senate,Unexpired Term,,Chris McDaniel,20
+Calhoun,Pittsboro # 1,U.S. Senate,Unexpired Term,,Cindy Hyde-Smith,58
+Calhoun,Pittsboro # 1,U.S. Senate,Unexpired Term,,Mike Espy,282
+Calhoun,Pittsboro # 1,U.S. Senate,Unexpired Term,,Tobey Bernard Bartee,12
+Calhoun,Pittsboro # 1,U.S. Senate,,DEM,David Baria,275
+Calhoun,Pittsboro # 1,U.S. Senate,,LIB,Danny Bedwell,4
+Calhoun,Pittsboro # 1,U.S. Senate,,REF,Shawn O'Hara,1
+Calhoun,Pittsboro # 1,U.S. Senate,,REP,Roger F. Wicker,82
+Calhoun,Pittsboro # 2,U.S. House,1,DEM,Trent Kelly,271
+Calhoun,Pittsboro # 2,U.S. House,1,IND,Tracella Lou O'Hara Hill,2
+Calhoun,Pittsboro # 2,U.S. House,1,REF,Randy Mack Wadkins,91
+Calhoun,Pittsboro # 2,U.S. Senate,Unexpired Term,,Chris McDaniel,85
+Calhoun,Pittsboro # 2,U.S. Senate,Unexpired Term,,Cindy Hyde-Smith,180
+Calhoun,Pittsboro # 2,U.S. Senate,Unexpired Term,,Mike Espy,100
+Calhoun,Pittsboro # 2,U.S. Senate,Unexpired Term,,Tobey Bernard Bartee,5
+Calhoun,Pittsboro # 2,U.S. Senate,,DEM,David Baria,84
+Calhoun,Pittsboro # 2,U.S. Senate,,LIB,Danny Bedwell,4
+Calhoun,Pittsboro # 2,U.S. Senate,,REF,Shawn O'Hara,2
+Calhoun,Pittsboro # 2,U.S. Senate,,REP,Roger F. Wicker,268
+Calhoun,Total,U.S. House,1,DEM,Trent Kelly,3332
+Calhoun,Total,U.S. House,1,IND,Tracella Lou O'Hara Hill,34
+Calhoun,Total,U.S. House,1,REF,Randy Mack Wadkins,1303
+Calhoun,Total,U.S. Senate,Unexpired Term,,Chris McDaniel,772
+Calhoun,Total,U.S. Senate,Unexpired Term,,Cindy Hyde-Smith,2427
+Calhoun,Total,U.S. Senate,Unexpired Term,,Mike Espy,1382
+Calhoun,Total,U.S. Senate,Unexpired Term,,Tobey Bernard Bartee,60
+Calhoun,Total,U.S. Senate,,DEM,David Baria,1230
+Calhoun,Total,U.S. Senate,,LIB,Danny Bedwell,52
+Calhoun,Total,U.S. Senate,,REF,Shawn O'Hara,21
+Calhoun,Total,U.S. Senate,,REP,Roger F. Wicker,3296
+Calhoun,Vardaman,U.S. House,1,DEM,Trent Kelly,356
+Calhoun,Vardaman,U.S. House,1,IND,Tracella Lou O'Hara Hill,7
+Calhoun,Vardaman,U.S. House,1,REF,Randy Mack Wadkins,130
+Calhoun,Vardaman,U.S. Senate,Unexpired Term,,Chris McDaniel,62
+Calhoun,Vardaman,U.S. Senate,Unexpired Term,,Cindy Hyde-Smith,275
+Calhoun,Vardaman,U.S. Senate,Unexpired Term,,Mike Espy,140
+Calhoun,Vardaman,U.S. Senate,Unexpired Term,,Tobey Bernard Bartee,8
+Calhoun,Vardaman,U.S. Senate,,DEM,David Baria,118
+Calhoun,Vardaman,U.S. Senate,,LIB,Danny Bedwell,4
+Calhoun,Vardaman,U.S. Senate,,REF,Shawn O'Hara,2
+Calhoun,Vardaman,U.S. Senate,,REP,Roger F. Wicker,355

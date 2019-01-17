@@ -1,55 +1,53 @@
-Page,candidate,office,district,party,county,precinct,votes,winner
-2,Mike Espy,U.S. Senate,Unexpired Term,,Pearl River,Amackertown 2,12,
-2,Cindy Hyde-Smith,U.S. Senate,Unexpired Term,,Pearl River,Amackertown 2,156,
-2,Mike Espy,U.S. Senate,Unexpired Term,,Pearl River,Carriere 3,101,
-2,Cindy Hyde-Smith,U.S. Senate,Unexpired Term,,Pearl River,Carriere 3,454,
-2,Mike Espy,U.S. Senate,Unexpired Term,,Pearl River,Carriere 5,141,
-2,Cindy Hyde-Smith,U.S. Senate,Unexpired Term,,Pearl River,Carriere 5,786,
-2,Mike Espy,U.S. Senate,Unexpired Term,,Pearl River,Ceasar 3,8,
-2,Cindy Hyde-Smith,U.S. Senate,Unexpired Term,,Pearl River,Ceasar 3,105,
-2,Mike Espy,U.S. Senate,Unexpired Term,,Pearl River,Crossroads 2,39,
-2,Cindy Hyde-Smith,U.S. Senate,Unexpired Term,,Pearl River,Crossroads 2,336,
-2,Mike Espy,U.S. Senate,Unexpired Term,,Pearl River,Derby 1,61,
-2,Cindy Hyde-Smith,U.S. Senate,Unexpired Term,,Pearl River,Derby 1,207,
-2,Mike Espy,U.S. Senate,Unexpired Term,,Pearl River,F Z Goss 4,118,
-2,Cindy Hyde-Smith,U.S. Senate,Unexpired Term,,Pearl River,F Z Goss 4,824,
-2,Mike Espy,U.S. Senate,Unexpired Term,,Pearl River,Gumpond/Hickory Grove 3,61,
-2,Cindy Hyde-Smith,U.S. Senate,Unexpired Term,,Pearl River,Gumpond/Hickory Grove 3,468,
-2,Mike Espy,U.S. Senate,Unexpired Term,,Pearl River,Henleyfield 2,51,
-2,Cindy Hyde-Smith,U.S. Senate,Unexpired Term,,Pearl River,Henleyfield 2,405,
-2,Mike Espy,U.S. Senate,Unexpired Term,,Pearl River,Mcneill 3,34,
-2,Cindy Hyde-Smith,U.S. Senate,Unexpired Term,,Pearl River,Mcneill 3,343,
-2,Mike Espy,U.S. Senate,Unexpired Term,,Pearl River,Mill Creek 2,36,
-2,Cindy Hyde-Smith,U.S. Senate,Unexpired Term,,Pearl River,Mill Creek 2,278,
-3,Mike Espy,U.S. Senate,Unexpired Term,,Pearl River,Nicholson 4,56,
-3,Cindy Hyde-Smith,U.S. Senate,Unexpired Term,,Pearl River,Nicholson 4,281,
-3,Mike Espy,U.S. Senate,Unexpired Term,,Pearl River,PIC/HAWL/NH 5,229,
-3,Cindy Hyde-Smith,U.S. Senate,Unexpired Term,,Pearl River,PIC/HAWL/NH 5,1345,
-3,Mike Espy,U.S. Senate,Unexpired Term,,Pearl River,Picayune 1 Eastside,353,
-3,Cindy Hyde-Smith,U.S. Senate,Unexpired Term,,Pearl River,Picayune 1 Eastside,260,
-3,Mike Espy,U.S. Senate,Unexpired Term,,Pearl River,Picayune 1 Southside,657,
-3,Cindy Hyde-Smith,U.S. Senate,Unexpired Term,,Pearl River,Picayune 1 Southside,113,
-3,Mike Espy,U.S. Senate,Unexpired Term,,Pearl River,Picayune 2,138,
-3,Cindy Hyde-Smith,U.S. Senate,Unexpired Term,,Pearl River,Picayune 2,663,
-3,Mike Espy,U.S. Senate,Unexpired Term,,Pearl River,Picayune 4,50,
-3,Cindy Hyde-Smith,U.S. Senate,Unexpired Term,,Pearl River,Picayune 4,366,
-3,Mike Espy,U.S. Senate,Unexpired Term,,Pearl River,Pine Grove 4,57,
-3,Cindy Hyde-Smith,U.S. Senate,Unexpired Term,,Pearl River,Pine Grove 4,430,
-3,Mike Espy,U.S. Senate,Unexpired Term,,Pearl River,Poplarville 1,151,
-3,Cindy Hyde-Smith,U.S. Senate,Unexpired Term,,Pearl River,Poplarville 1,204,
-3,Mike Espy,U.S. Senate,Unexpired Term,,Pearl River,Poplarville 2,119,
-3,Cindy Hyde-Smith,U.S. Senate,Unexpired Term,,Pearl River,Poplarville 2,749,
-3,Mike Espy,U.S. Senate,Unexpired Term,,Pearl River,Poplarville 3,83,
-3,Cindy Hyde-Smith,U.S. Senate,Unexpired Term,,Pearl River,Poplarville 3,457,
-3,Mike Espy,U.S. Senate,Unexpired Term,,Pearl River,Progress 3,10,
-3,Cindy Hyde-Smith,U.S. Senate,Unexpired Term,,Pearl River,Progress 3,153,
-4,Mike Espy,U.S. Senate,Unexpired Term,,Pearl River,Steep Hollow 3,39,
-4,Cindy Hyde-Smith,U.S. Senate,Unexpired Term,,Pearl River,Steep Hollow 3,457,
-4,Mike Espy,U.S. Senate,Unexpired Term,,Pearl River,Sycamore 5,58,
-4,Cindy Hyde-Smith,U.S. Senate,Unexpired Term,,Pearl River,Sycamore 5,413,
-4,Mike Espy,U.S. Senate,Unexpired Term,,Pearl River,Whitesand 1,168,
-4,Cindy Hyde-Smith,U.S. Senate,Unexpired Term,,Pearl River,Whitesand 1,69,
-4,Mike Espy,U.S. Senate,Unexpired Term,,Pearl River,TOTAL ,2830,
-4,Cindy Hyde-Smith,U.S. Senate,Unexpired Term,,Pearl River,TOTAL ,10322,
-,,,,,,,,
-,,,,,,,,
+county,precinct,office,district,party,candidate,votes
+Pearl River,Amackertown 2,U.S. Senate,Unexpired Term,,Cindy Hyde-Smith,156
+Pearl River,Amackertown 2,U.S. Senate,Unexpired Term,,Mike Espy,12
+Pearl River,Carriere 3,U.S. Senate,Unexpired Term,,Cindy Hyde-Smith,454
+Pearl River,Carriere 3,U.S. Senate,Unexpired Term,,Mike Espy,101
+Pearl River,Carriere 5,U.S. Senate,Unexpired Term,,Cindy Hyde-Smith,786
+Pearl River,Carriere 5,U.S. Senate,Unexpired Term,,Mike Espy,141
+Pearl River,Ceasar 3,U.S. Senate,Unexpired Term,,Cindy Hyde-Smith,105
+Pearl River,Ceasar 3,U.S. Senate,Unexpired Term,,Mike Espy,8
+Pearl River,Crossroads 2,U.S. Senate,Unexpired Term,,Cindy Hyde-Smith,336
+Pearl River,Crossroads 2,U.S. Senate,Unexpired Term,,Mike Espy,39
+Pearl River,Derby 1,U.S. Senate,Unexpired Term,,Cindy Hyde-Smith,207
+Pearl River,Derby 1,U.S. Senate,Unexpired Term,,Mike Espy,61
+Pearl River,F Z Goss 4,U.S. Senate,Unexpired Term,,Cindy Hyde-Smith,824
+Pearl River,F Z Goss 4,U.S. Senate,Unexpired Term,,Mike Espy,118
+Pearl River,Gumpond/Hickory Grove 3,U.S. Senate,Unexpired Term,,Cindy Hyde-Smith,468
+Pearl River,Gumpond/Hickory Grove 3,U.S. Senate,Unexpired Term,,Mike Espy,61
+Pearl River,Henleyfield 2,U.S. Senate,Unexpired Term,,Cindy Hyde-Smith,405
+Pearl River,Henleyfield 2,U.S. Senate,Unexpired Term,,Mike Espy,51
+Pearl River,Mcneill 3,U.S. Senate,Unexpired Term,,Cindy Hyde-Smith,343
+Pearl River,Mcneill 3,U.S. Senate,Unexpired Term,,Mike Espy,34
+Pearl River,Mill Creek 2,U.S. Senate,Unexpired Term,,Cindy Hyde-Smith,278
+Pearl River,Mill Creek 2,U.S. Senate,Unexpired Term,,Mike Espy,36
+Pearl River,Nicholson 4,U.S. Senate,Unexpired Term,,Cindy Hyde-Smith,281
+Pearl River,Nicholson 4,U.S. Senate,Unexpired Term,,Mike Espy,56
+Pearl River,PIC/HAWL/NH 5,U.S. Senate,Unexpired Term,,Cindy Hyde-Smith,1345
+Pearl River,PIC/HAWL/NH 5,U.S. Senate,Unexpired Term,,Mike Espy,229
+Pearl River,Picayune 1 Eastside,U.S. Senate,Unexpired Term,,Cindy Hyde-Smith,260
+Pearl River,Picayune 1 Eastside,U.S. Senate,Unexpired Term,,Mike Espy,353
+Pearl River,Picayune 1 Southside,U.S. Senate,Unexpired Term,,Cindy Hyde-Smith,113
+Pearl River,Picayune 1 Southside,U.S. Senate,Unexpired Term,,Mike Espy,657
+Pearl River,Picayune 2,U.S. Senate,Unexpired Term,,Cindy Hyde-Smith,663
+Pearl River,Picayune 2,U.S. Senate,Unexpired Term,,Mike Espy,138
+Pearl River,Picayune 4,U.S. Senate,Unexpired Term,,Cindy Hyde-Smith,366
+Pearl River,Picayune 4,U.S. Senate,Unexpired Term,,Mike Espy,50
+Pearl River,Pine Grove 4,U.S. Senate,Unexpired Term,,Cindy Hyde-Smith,430
+Pearl River,Pine Grove 4,U.S. Senate,Unexpired Term,,Mike Espy,57
+Pearl River,Poplarville 1,U.S. Senate,Unexpired Term,,Cindy Hyde-Smith,204
+Pearl River,Poplarville 1,U.S. Senate,Unexpired Term,,Mike Espy,151
+Pearl River,Poplarville 2,U.S. Senate,Unexpired Term,,Cindy Hyde-Smith,749
+Pearl River,Poplarville 2,U.S. Senate,Unexpired Term,,Mike Espy,119
+Pearl River,Poplarville 3,U.S. Senate,Unexpired Term,,Cindy Hyde-Smith,457
+Pearl River,Poplarville 3,U.S. Senate,Unexpired Term,,Mike Espy,83
+Pearl River,Progress 3,U.S. Senate,Unexpired Term,,Cindy Hyde-Smith,153
+Pearl River,Progress 3,U.S. Senate,Unexpired Term,,Mike Espy,10
+Pearl River,Steep Hollow 3,U.S. Senate,Unexpired Term,,Cindy Hyde-Smith,457
+Pearl River,Steep Hollow 3,U.S. Senate,Unexpired Term,,Mike Espy,39
+Pearl River,Sycamore 5,U.S. Senate,Unexpired Term,,Cindy Hyde-Smith,413
+Pearl River,Sycamore 5,U.S. Senate,Unexpired Term,,Mike Espy,58
+Pearl River,Total,U.S. Senate,Unexpired Term,,Cindy Hyde-Smith,10322
+Pearl River,Total,U.S. Senate,Unexpired Term,,Mike Espy,2830
+Pearl River,Whitesand 1,U.S. Senate,Unexpired Term,,Cindy Hyde-Smith,69
+Pearl River,Whitesand 1,U.S. Senate,Unexpired Term,,Mike Espy,168

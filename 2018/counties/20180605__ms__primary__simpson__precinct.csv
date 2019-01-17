@@ -1,489 +1,385 @@
-page,candidate,office,district,party,county,precinct,votes,winner
-2,Richard Warren Boyanton,U.S. Senate,,R,Simpson,Bowie,7,
-2,Roger F. Wicker,U.S. Senate,,R,Simpson,Bowie,49,
-2,Richard Warren Boyanton,U.S. Senate,,R,Simpson,Braxton,49,
-2,Roger F. Wicker,U.S. Senate,,R,Simpson,Braxton,167,
-2,Richard Warren Boyanton,U.S. Senate,,R,Simpson,Bridgeport,4,
-2,Roger F. Wicker,U.S. Senate,,R,Simpson,Bridgeport,27,
-2,Richard Warren Boyanton,U.S. Senate,,R,Simpson,D'Lo,17,
-2,Roger F. Wicker,U.S. Senate,,R,Simpson,D'Lo,100,
-2,Richard Warren Boyanton,U.S. Senate,,R,Simpson,Dry Creek,30,
-2,Roger F. Wicker,U.S. Senate,,R,Simpson,Dry Creek,136,
-2,Richard Warren Boyanton,U.S. Senate,,R,Simpson,Fork Church,3,
-2,Roger F. Wicker,U.S. Senate,,R,Simpson,Fork Church,24,
-2,Richard Warren Boyanton,U.S. Senate,,R,Simpson,Harrisville,30,
-2,Roger F. Wicker,U.S. Senate,,R,Simpson,Harrisville,136,
-2,Richard Warren Boyanton,U.S. Senate,,R,Simpson,Jupiter,7,
-2,Roger F. Wicker,U.S. Senate,,R,Simpson,Jupiter,50,
-2,Richard Warren Boyanton,U.S. Senate,,R,Simpson,Magee 1,5,
-2,Roger F. Wicker,U.S. Senate,,R,Simpson,Magee 1,23,
-2,Richard Warren Boyanton,U.S. Senate,,R,Simpson,Magee 2,33,
-2,Roger F. Wicker,U.S. Senate,,R,Simpson,Magee 2,229,
-2,Richard Warren Boyanton,U.S. Senate,,R,Simpson,Magee 4 North ,11,
-2,Roger F. Wicker,U.S. Senate,,R,Simpson,Magee 4 North ,187,
-3,Richard Warren Boyanton,U.S. Senate,,R,Simpson,Magee 4 South,44,
-3,Roger F. Wicker,U.S. Senate,,R,Simpson,Magee 4 South,204,
-3,Richard Warren Boyanton,U.S. Senate,,R,Simpson,Mendenhall 1,2,
-3,Roger F. Wicker,U.S. Senate,,R,Simpson,Mendenhall 1,14,
-3,Richard Warren Boyanton,U.S. Senate,,R,Simpson,Mendenhall 3,39,
-3,Roger F. Wicker,U.S. Senate,,R,Simpson,Mendenhall 3,218,
-3,Richard Warren Boyanton,U.S. Senate,,R,Simpson,Merit ,40,
-3,Roger F. Wicker,U.S. Senate,,R,Simpson,Merit ,166,
-3,Richard Warren Boyanton,U.S. Senate,,R,Simpson,New Hope,5,
-3,Roger F. Wicker,U.S. Senate,,R,Simpson,New Hope,32,
-3,Richard Warren Boyanton,U.S. Senate,,R,Simpson,Oak Grove,9,
-3,Roger F. Wicker,U.S. Senate,,R,Simpson,Oak Grove,94,
-3,Richard Warren Boyanton,U.S. Senate,,R,Simpson,Pearl,16,
-3,Roger F. Wicker,U.S. Senate,,R,Simpson,Pearl,78,
-3,Richard Warren Boyanton,U.S. Senate,,R,Simpson,Pinola,8,
-3,Roger F. Wicker,U.S. Senate,,R,Simpson,Pinola,73,
-3,Richard Warren Boyanton,U.S. Senate,,R,Simpson,Saratoga,8,
-3,Roger F. Wicker,U.S. Senate,,R,Simpson,Saratoga,40,
-3,Richard Warren Boyanton,U.S. Senate,,R,Simpson,Shivers,10,
-3,Roger F. Wicker,U.S. Senate,,R,Simpson,Shivers,43,
-3,Richard Warren Boyanton,U.S. Senate,,R,Simpson,Sumrall,25,
-3,Roger F. Wicker,U.S. Senate,,R,Simpson,Sumrall,94,
-4,Richard Warren Boyanton,U.S. Senate,,R,Simpson,Weathersby ,3,
-4,Roger F. Wicker,U.S. Senate,,R,Simpson,Weathersby ,29,
-4,Richard Warren Boyanton,U.S. Senate,,R,Simpson,TOTAL ,405,
-4,Roger F. Wicker,U.S. Senate,,R,Simpson,TOTAL ,2213,
-2,Sally Doty,U.S. House,03,R,Simpson,Bowie,5,
-2,Morgan Dunn,U.S. House,03,R,Simpson,Bowie,12,
-2,Michael Guest,U.S. House,03,R,Simpson,Bowie,29,
-2,Whit Hughes,U.S. House,03,R,Simpson,Bowie,1,
-2,Perry Parker,U.S. House,03,R,Simpson,Bowie,10,
-2,Katherine 'Bitzi' Tate,U.S. House,03,R,Simpson,Bowie,0,
-2,Sally Doty,U.S. House,03,R,Simpson,Braxton,19,
-2,Morgan Dunn,U.S. House,03,R,Simpson,Braxton,14,
-2,Michael Guest,U.S. House,03,R,Simpson,Braxton,88,
-2,Whit Hughes,U.S. House,03,R,Simpson,Braxton,60,
-2,Perry Parker,U.S. House,03,R,Simpson,Braxton,40,
-2,Katherine 'Bitzi' Tate,U.S. House,03,R,Simpson,Braxton,0,
-2,Sally Doty,U.S. House,03,R,Simpson,Bridgeport,2,
-2,Morgan Dunn,U.S. House,03,R,Simpson,Bridgeport,3,
-2,Michael Guest,U.S. House,03,R,Simpson,Bridgeport,13,
-2,Whit Hughes,U.S. House,03,R,Simpson,Bridgeport,2,
-2,Perry Parker,U.S. House,03,R,Simpson,Bridgeport,10,
-2,Katherine 'Bitzi' Tate,U.S. House,03,R,Simpson,Bridgeport,0,
-2,Sally Doty,U.S. House,03,R,Simpson,D'Lo,7,
-2,Morgan Dunn,U.S. House,03,R,Simpson,D'Lo,13,
-2,Michael Guest,U.S. House,03,R,Simpson,D'Lo,65,
-2,Whit Hughes,U.S. House,03,R,Simpson,D'Lo,12,
-2,Perry Parker,U.S. House,03,R,Simpson,D'Lo,20,
-2,Katherine 'Bitzi' Tate,U.S. House,03,R,Simpson,D'Lo,1,
-2,Sally Doty,U.S. House,03,R,Simpson,Dry Creek,7,
-2,Morgan Dunn,U.S. House,03,R,Simpson,Dry Creek,28,
-2,Michael Guest,U.S. House,03,R,Simpson,Dry Creek,88,
-2,Whit Hughes,U.S. House,03,R,Simpson,Dry Creek,19,
-2,Perry Parker,U.S. House,03,R,Simpson,Dry Creek,23,
-2,Katherine 'Bitzi' Tate,U.S. House,03,R,Simpson,Dry Creek,1,
-2,Sally Doty,U.S. House,03,R,Simpson,Fork Church,1,
-2,Morgan Dunn,U.S. House,03,R,Simpson,Fork Church,2,
-2,Michael Guest,U.S. House,03,R,Simpson,Fork Church,12,
-2,Whit Hughes,U.S. House,03,R,Simpson,Fork Church,3,
-2,Perry Parker,U.S. House,03,R,Simpson,Fork Church,8,
-2,Katherine 'Bitzi' Tate,U.S. House,03,R,Simpson,Fork Church,2,
-2,Sally Doty,U.S. House,03,R,Simpson,Harrisville,4,
-2,Morgan Dunn,U.S. House,03,R,Simpson,Harrisville,10,
-2,Michael Guest,U.S. House,03,R,Simpson,Harrisville,105,
-2,Whit Hughes,U.S. House,03,R,Simpson,Harrisville,18,
-2,Perry Parker,U.S. House,03,R,Simpson,Harrisville,33,
-2,Katherine 'Bitzi' Tate,U.S. House,03,R,Simpson,Harrisville,2,
-2,Sally Doty,U.S. House,03,R,Simpson,Jupiter,2,
-2,Morgan Dunn,U.S. House,03,R,Simpson,Jupiter,5,
-2,Michael Guest,U.S. House,03,R,Simpson,Jupiter,32,
-2,Whit Hughes,U.S. House,03,R,Simpson,Jupiter,9,
-2,Perry Parker,U.S. House,03,R,Simpson,Jupiter,9,
-2,Katherine 'Bitzi' Tate,U.S. House,03,R,Simpson,Jupiter,0,
-2,Sally Doty,U.S. House,03,R,Simpson,Magee 1,2,
-2,Morgan Dunn,U.S. House,03,R,Simpson,Magee 1,3,
-2,Michael Guest,U.S. House,03,R,Simpson,Magee 1,12,
-2,Whit Hughes,U.S. House,03,R,Simpson,Magee 1,8,
-2,Perry Parker,U.S. House,03,R,Simpson,Magee 1,4,
-2,Katherine 'Bitzi' Tate,U.S. House,03,R,Simpson,Magee 1,0,
-2,Sally Doty,U.S. House,03,R,Simpson,Magee 2,24,
-2,Morgan Dunn,U.S. House,03,R,Simpson,Magee 2,68,
-2,Michael Guest,U.S. House,03,R,Simpson,Magee 2,107,
-2,Whit Hughes,U.S. House,03,R,Simpson,Magee 2,30,
-2,Perry Parker,U.S. House,03,R,Simpson,Magee 2,39,
-2,Katherine 'Bitzi' Tate,U.S. House,03,R,Simpson,Magee 2,1,
-3,Sally Doty,U.S. House,03,R,Simpson,Magee 4 North ,11,
-3,Morgan Dunn,U.S. House,03,R,Simpson,Magee 4 North ,55,
-3,Michael Guest,U.S. House,03,R,Simpson,Magee 4 North ,80,
-3,Whit Hughes,U.S. House,03,R,Simpson,Magee 4 North ,31,
-3,Perry Parker,U.S. House,03,R,Simpson,Magee 4 North ,27,
-3,Katherine 'Bitzi' Tate,U.S. House,03,R,Simpson,Magee 4 North ,0,
-3,Sally Doty,U.S. House,03,R,Simpson,Magee 4 South,22,
-3,Morgan Dunn,U.S. House,03,R,Simpson,Magee 4 South,62,
-3,Michael Guest,U.S. House,03,R,Simpson,Magee 4 South,113,
-3,Whit Hughes,U.S. House,03,R,Simpson,Magee 4 South,26,
-3,Perry Parker,U.S. House,03,R,Simpson,Magee 4 South,31,
-3,Katherine 'Bitzi' Tate,U.S. House,03,R,Simpson,Magee 4 South,0,
-3,Sally Doty,U.S. House,03,R,Simpson,Mendenhall 1,1,
-3,Morgan Dunn,U.S. House,03,R,Simpson,Mendenhall 1,6,
-3,Michael Guest,U.S. House,03,R,Simpson,Mendenhall 1,5,
-3,Whit Hughes,U.S. House,03,R,Simpson,Mendenhall 1,1,
-3,Perry Parker,U.S. House,03,R,Simpson,Mendenhall 1,4,
-3,Katherine 'Bitzi' Tate,U.S. House,03,R,Simpson,Mendenhall 1,0,
-3,Sally Doty,U.S. House,03,R,Simpson,Mendenhall 3,14,
-3,Morgan Dunn,U.S. House,03,R,Simpson,Mendenhall 3,34,
-3,Michael Guest,U.S. House,03,R,Simpson,Mendenhall 3,135,
-3,Whit Hughes,U.S. House,03,R,Simpson,Mendenhall 3,51,
-3,Perry Parker,U.S. House,03,R,Simpson,Mendenhall 3,26,
-3,Katherine 'Bitzi' Tate,U.S. House,03,R,Simpson,Mendenhall 3,1,
-3,Sally Doty,U.S. House,03,R,Simpson,Merit ,12,
-3,Morgan Dunn,U.S. House,03,R,Simpson,Merit ,28,
-3,Michael Guest,U.S. House,03,R,Simpson,Merit ,71,
-3,Whit Hughes,U.S. House,03,R,Simpson,Merit ,31,
-3,Perry Parker,U.S. House,03,R,Simpson,Merit ,63,
-3,Katherine 'Bitzi' Tate,U.S. House,03,R,Simpson,Merit ,0,
-3,Sally Doty,U.S. House,03,R,Simpson,New Hope,3,
-3,Morgan Dunn,U.S. House,03,R,Simpson,New Hope,2,
-3,Michael Guest,U.S. House,03,R,Simpson,New Hope,14,
-3,Whit Hughes,U.S. House,03,R,Simpson,New Hope,4,
-3,Perry Parker,U.S. House,03,R,Simpson,New Hope,14,
-3,Katherine 'Bitzi' Tate,U.S. House,03,R,Simpson,New Hope,0,
-3,Sally Doty,U.S. House,03,R,Simpson,Oak Grove,8,
-3,Morgan Dunn,U.S. House,03,R,Simpson,Oak Grove,14,
-3,Michael Guest,U.S. House,03,R,Simpson,Oak Grove,46,
-3,Whit Hughes,U.S. House,03,R,Simpson,Oak Grove,9,
-3,Perry Parker,U.S. House,03,R,Simpson,Oak Grove,25,
-3,Katherine 'Bitzi' Tate,U.S. House,03,R,Simpson,Oak Grove,0,
-3,Sally Doty,U.S. House,03,R,Simpson,Pearl,4,
-3,Morgan Dunn,U.S. House,03,R,Simpson,Pearl,2,
-3,Michael Guest,U.S. House,03,R,Simpson,Pearl,59,
-3,Whit Hughes,U.S. House,03,R,Simpson,Pearl,12,
-3,Perry Parker,U.S. House,03,R,Simpson,Pearl,12,
-3,Katherine 'Bitzi' Tate,U.S. House,03,R,Simpson,Pearl,1,
-3,Sally Doty,U.S. House,03,R,Simpson,Pinola,13,
-3,Morgan Dunn,U.S. House,03,R,Simpson,Pinola,7,
-3,Michael Guest,U.S. House,03,R,Simpson,Pinola,39,
-3,Whit Hughes,U.S. House,03,R,Simpson,Pinola,4,
-3,Perry Parker,U.S. House,03,R,Simpson,Pinola,19,
-3,Katherine 'Bitzi' Tate,U.S. House,03,R,Simpson,Pinola,0,
-3,Sally Doty,U.S. House,03,R,Simpson,Saratoga,5,
-3,Morgan Dunn,U.S. House,03,R,Simpson,Saratoga,9,
-3,Michael Guest,U.S. House,03,R,Simpson,Saratoga,14,
-3,Whit Hughes,U.S. House,03,R,Simpson,Saratoga,10,
-3,Perry Parker,U.S. House,03,R,Simpson,Saratoga,12,
-3,Katherine 'Bitzi' Tate,U.S. House,03,R,Simpson,Saratoga,0,
-3,Sally Doty,U.S. House,03,R,Simpson,Shivers,11,
-3,Morgan Dunn,U.S. House,03,R,Simpson,Shivers,6,
-3,Michael Guest,U.S. House,03,R,Simpson,Shivers,17,
-3,Whit Hughes,U.S. House,03,R,Simpson,Shivers,12,
-3,Perry Parker,U.S. House,03,R,Simpson,Shivers,7,
-3,Katherine 'Bitzi' Tate,U.S. House,03,R,Simpson,Shivers,0,
-3,Sally Doty,U.S. House,03,R,Simpson,Sumrall,7,
-3,Morgan Dunn,U.S. House,03,R,Simpson,Sumrall,18,
-3,Michael Guest,U.S. House,03,R,Simpson,Sumrall,68,
-3,Whit Hughes,U.S. House,03,R,Simpson,Sumrall,12,
-3,Perry Parker,U.S. House,03,R,Simpson,Sumrall,18,
-3,Katherine 'Bitzi' Tate,U.S. House,03,R,Simpson,Sumrall,0,
-4,Sally Doty,U.S. House,03,R,Simpson,Weathersby ,2,
-4,Morgan Dunn,U.S. House,03,R,Simpson,Weathersby ,15,
-4,Michael Guest,U.S. House,03,R,Simpson,Weathersby ,10,
-4,Whit Hughes,U.S. House,03,R,Simpson,Weathersby ,2,
-4,Perry Parker,U.S. House,03,R,Simpson,Weathersby ,3,
-4,Katherine 'Bitzi' Tate,U.S. House,03,R,Simpson,Weathersby ,0,
-4,Sally Doty,U.S. House,03,R,Simpson,TOTAL ,186,
-4,Morgan Dunn,U.S. House,03,R,Simpson,TOTAL ,416,
-4,Michael Guest,U.S. House,03,R,Simpson,TOTAL ,1222,
-4,Whit Hughes,U.S. House,03,R,Simpson,TOTAL ,367,
-4,Perry Parker,U.S. House,03,R,Simpson,TOTAL ,457,
-4,Katherine 'Bitzi' Tate,U.S. House,03,R,Simpson,TOTAL ,9,
-2,David Baria,U.S. Senate,,D,Simpson,Bowie,4,
-2,Jensen Bohren,U.S. Senate,,D,Simpson,Bowie,2,
-2,Jerone Garland,U.S. Senate,,D,Simpson,Bowie,1,
-2,Victor G. Maurice Jr.,U.S. Senate,,D,Simpson,Bowie,7,
-2,Omeria Scott,U.S. Senate,,D,Simpson,Bowie,18,
-2,Howard Sherman,U.S. Senate,,D,Simpson,Bowie,5,
-2,David Baria,U.S. Senate,,D,Simpson,Braxton,0,
-2,Jensen Bohren,U.S. Senate,,D,Simpson,Braxton,1,
-2,Jerone Garland,U.S. Senate,,D,Simpson,Braxton,0,
-2,Victor G. Maurice Jr.,U.S. Senate,,D,Simpson,Braxton,0,
-2,Omeria Scott,U.S. Senate,,D,Simpson,Braxton,2,
-2,Howard Sherman,U.S. Senate,,D,Simpson,Braxton,4,
-2,David Baria,U.S. Senate,,D,Simpson,Bridgeport,16,
-2,Jensen Bohren,U.S. Senate,,D,Simpson,Bridgeport,3,
-2,Jerone Garland,U.S. Senate,,D,Simpson,Bridgeport,0,
-2,Victor G. Maurice Jr.,U.S. Senate,,D,Simpson,Bridgeport,3,
-2,Omeria Scott,U.S. Senate,,D,Simpson,Bridgeport,2,
-2,Howard Sherman,U.S. Senate,,D,Simpson,Bridgeport,26,
-2,David Baria,U.S. Senate,,D,Simpson,D'Lo,2,
-2,Jensen Bohren,U.S. Senate,,D,Simpson,D'Lo,0,
-2,Jerone Garland,U.S. Senate,,D,Simpson,D'Lo,0,
-2,Victor G. Maurice Jr.,U.S. Senate,,D,Simpson,D'Lo,0,
-2,Omeria Scott,U.S. Senate,,D,Simpson,D'Lo,4,
-2,Howard Sherman,U.S. Senate,,D,Simpson,D'Lo,1,
-2,David Baria,U.S. Senate,,D,Simpson,Dry Creek,1,
-2,Jensen Bohren,U.S. Senate,,D,Simpson,Dry Creek,0,
-2,Jerone Garland,U.S. Senate,,D,Simpson,Dry Creek,4,
-2,Victor G. Maurice Jr.,U.S. Senate,,D,Simpson,Dry Creek,1,
-2,Omeria Scott,U.S. Senate,,D,Simpson,Dry Creek,7,
-2,Howard Sherman,U.S. Senate,,D,Simpson,Dry Creek,5,
-2,David Baria,U.S. Senate,,D,Simpson,Fork Church,3,
-2,Jensen Bohren,U.S. Senate,,D,Simpson,Fork Church,1,
-2,Jerone Garland,U.S. Senate,,D,Simpson,Fork Church,0,
-2,Victor G. Maurice Jr.,U.S. Senate,,D,Simpson,Fork Church,4,
-2,Omeria Scott,U.S. Senate,,D,Simpson,Fork Church,22,
-2,Howard Sherman,U.S. Senate,,D,Simpson,Fork Church,20,
-2,David Baria,U.S. Senate,,D,Simpson,Harrisville,6,
-2,Jensen Bohren,U.S. Senate,,D,Simpson,Harrisville,1,
-2,Jerone Garland,U.S. Senate,,D,Simpson,Harrisville,2,
-2,Victor G. Maurice Jr.,U.S. Senate,,D,Simpson,Harrisville,2,
-2,Omeria Scott,U.S. Senate,,D,Simpson,Harrisville,2,
-2,Howard Sherman,U.S. Senate,,D,Simpson,Harrisville,11,
-2,David Baria,U.S. Senate,,D,Simpson,Jupiter,14,
-2,Jensen Bohren,U.S. Senate,,D,Simpson,Jupiter,2,
-2,Jerone Garland,U.S. Senate,,D,Simpson,Jupiter,4,
-2,Victor G. Maurice Jr.,U.S. Senate,,D,Simpson,Jupiter,6,
-2,Omeria Scott,U.S. Senate,,D,Simpson,Jupiter,56,
-2,Howard Sherman,U.S. Senate,,D,Simpson,Jupiter,35,
-2,David Baria,U.S. Senate,,D,Simpson,Magee 1,19,
-2,Jensen Bohren,U.S. Senate,,D,Simpson,Magee 1,5,
-2,Jerone Garland,U.S. Senate,,D,Simpson,Magee 1,6,
-2,Victor G. Maurice Jr.,U.S. Senate,,D,Simpson,Magee 1,1,
-2,Omeria Scott,U.S. Senate,,D,Simpson,Magee 1,10,
-2,Howard Sherman,U.S. Senate,,D,Simpson,Magee 1,47,
-2,David Baria,U.S. Senate,,D,Simpson,Magee 2,10,
-2,Jensen Bohren,U.S. Senate,,D,Simpson,Magee 2,0,
-2,Jerone Garland,U.S. Senate,,D,Simpson,Magee 2,2,
-2,Victor G. Maurice Jr.,U.S. Senate,,D,Simpson,Magee 2,0,
-2,Omeria Scott,U.S. Senate,,D,Simpson,Magee 2,9,
-2,Howard Sherman,U.S. Senate,,D,Simpson,Magee 2,3,
-3,David Baria,U.S. Senate,,D,Simpson,Magee 4 North ,4,
-3,Jensen Bohren,U.S. Senate,,D,Simpson,Magee 4 North ,0,
-3,Jerone Garland,U.S. Senate,,D,Simpson,Magee 4 North ,0,
-3,Victor G. Maurice Jr.,U.S. Senate,,D,Simpson,Magee 4 North ,0,
-3,Omeria Scott,U.S. Senate,,D,Simpson,Magee 4 North ,2,
-3,Howard Sherman,U.S. Senate,,D,Simpson,Magee 4 North ,4,
-3,David Baria,U.S. Senate,,D,Simpson,Magee 4 South,6,
-3,Jensen Bohren,U.S. Senate,,D,Simpson,Magee 4 South,1,
-3,Jerone Garland,U.S. Senate,,D,Simpson,Magee 4 South,2,
-3,Victor G. Maurice Jr.,U.S. Senate,,D,Simpson,Magee 4 South,1,
-3,Omeria Scott,U.S. Senate,,D,Simpson,Magee 4 South,13,
-3,Howard Sherman,U.S. Senate,,D,Simpson,Magee 4 South,11,
-3,David Baria,U.S. Senate,,D,Simpson,Mendenhall 1,8,
-3,Jensen Bohren,U.S. Senate,,D,Simpson,Mendenhall 1,2,
-3,Jerone Garland,U.S. Senate,,D,Simpson,Mendenhall 1,2,
-3,Victor G. Maurice Jr.,U.S. Senate,,D,Simpson,Mendenhall 1,2,
-3,Omeria Scott,U.S. Senate,,D,Simpson,Mendenhall 1,22,
-3,Howard Sherman,U.S. Senate,,D,Simpson,Mendenhall 1,13,
-3,David Baria,U.S. Senate,,D,Simpson,Mendenhall 3,8,
-3,Jensen Bohren,U.S. Senate,,D,Simpson,Mendenhall 3,1,
-3,Jerone Garland,U.S. Senate,,D,Simpson,Mendenhall 3,3,
-3,Victor G. Maurice Jr.,U.S. Senate,,D,Simpson,Mendenhall 3,2,
-3,Omeria Scott,U.S. Senate,,D,Simpson,Mendenhall 3,8,
-3,Howard Sherman,U.S. Senate,,D,Simpson,Mendenhall 3,12,
-3,David Baria,U.S. Senate,,D,Simpson,Merit ,2,
-3,Jensen Bohren,U.S. Senate,,D,Simpson,Merit ,1,
-3,Jerone Garland,U.S. Senate,,D,Simpson,Merit ,0,
-3,Victor G. Maurice Jr.,U.S. Senate,,D,Simpson,Merit ,0,
-3,Omeria Scott,U.S. Senate,,D,Simpson,Merit ,1,
-3,Howard Sherman,U.S. Senate,,D,Simpson,Merit ,8,
-3,David Baria,U.S. Senate,,D,Simpson,New Hope,1,
-3,Jensen Bohren,U.S. Senate,,D,Simpson,New Hope,1,
-3,Jerone Garland,U.S. Senate,,D,Simpson,New Hope,2,
-3,Victor G. Maurice Jr.,U.S. Senate,,D,Simpson,New Hope,1,
-3,Omeria Scott,U.S. Senate,,D,Simpson,New Hope,6,
-3,Howard Sherman,U.S. Senate,,D,Simpson,New Hope,10,
-3,David Baria,U.S. Senate,,D,Simpson,Oak Grove,19,
-3,Jensen Bohren,U.S. Senate,,D,Simpson,Oak Grove,0,
-3,Jerone Garland,U.S. Senate,,D,Simpson,Oak Grove,6,
-3,Victor G. Maurice Jr.,U.S. Senate,,D,Simpson,Oak Grove,4,
-3,Omeria Scott,U.S. Senate,,D,Simpson,Oak Grove,11,
-3,Howard Sherman,U.S. Senate,,D,Simpson,Oak Grove,30,
-3,David Baria,U.S. Senate,,D,Simpson,Pearl,0,
-3,Jensen Bohren,U.S. Senate,,D,Simpson,Pearl,0,
-3,Jerone Garland,U.S. Senate,,D,Simpson,Pearl,1,
-3,Victor G. Maurice Jr.,U.S. Senate,,D,Simpson,Pearl,4,
-3,Omeria Scott,U.S. Senate,,D,Simpson,Pearl,9,
-3,Howard Sherman,U.S. Senate,,D,Simpson,Pearl,8,
-3,David Baria,U.S. Senate,,D,Simpson,Pinola,2,
-3,Jensen Bohren,U.S. Senate,,D,Simpson,Pinola,0,
-3,Jerone Garland,U.S. Senate,,D,Simpson,Pinola,0,
-3,Victor G. Maurice Jr.,U.S. Senate,,D,Simpson,Pinola,3,
-3,Omeria Scott,U.S. Senate,,D,Simpson,Pinola,5,
-3,Howard Sherman,U.S. Senate,,D,Simpson,Pinola,8,
-3,David Baria,U.S. Senate,,D,Simpson,Saratoga,8,
-3,Jensen Bohren,U.S. Senate,,D,Simpson,Saratoga,3,
-3,Jerone Garland,U.S. Senate,,D,Simpson,Saratoga,2,
-3,Victor G. Maurice Jr.,U.S. Senate,,D,Simpson,Saratoga,2,
-3,Omeria Scott,U.S. Senate,,D,Simpson,Saratoga,1,
-3,Howard Sherman,U.S. Senate,,D,Simpson,Saratoga,17,
-3,David Baria,U.S. Senate,,D,Simpson,Shivers,2,
-3,Jensen Bohren,U.S. Senate,,D,Simpson,Shivers,3,
-3,Jerone Garland,U.S. Senate,,D,Simpson,Shivers,3,
-3,Victor G. Maurice Jr.,U.S. Senate,,D,Simpson,Shivers,4,
-3,Omeria Scott,U.S. Senate,,D,Simpson,Shivers,6,
-3,Howard Sherman,U.S. Senate,,D,Simpson,Shivers,9,
-3,David Baria,U.S. Senate,,D,Simpson,Sumrall,2,
-3,Jensen Bohren,U.S. Senate,,D,Simpson,Sumrall,0,
-3,Jerone Garland,U.S. Senate,,D,Simpson,Sumrall,1,
-3,Victor G. Maurice Jr.,U.S. Senate,,D,Simpson,Sumrall,0,
-3,Omeria Scott,U.S. Senate,,D,Simpson,Sumrall,0,
-3,Howard Sherman,U.S. Senate,,D,Simpson,Sumrall,3,
-4,David Baria,U.S. Senate,,D,Simpson,Weathersby ,14,
-4,Jensen Bohren,U.S. Senate,,D,Simpson,Weathersby ,5,
-4,Jerone Garland,U.S. Senate,,D,Simpson,Weathersby ,5,
-4,Victor G. Maurice Jr.,U.S. Senate,,D,Simpson,Weathersby ,9,
-4,Omeria Scott,U.S. Senate,,D,Simpson,Weathersby ,28,
-4,Howard Sherman,U.S. Senate,,D,Simpson,Weathersby ,44,
-4,David Baria,U.S. Senate,,D,Simpson,TOTAL ,151,
-4,Jensen Bohren,U.S. Senate,,D,Simpson,TOTAL ,32,
-4,Jerone Garland,U.S. Senate,,D,Simpson,TOTAL ,46,
-4,Victor G. Maurice Jr.,U.S. Senate,,D,Simpson,TOTAL ,56,
-4,Omeria Scott,U.S. Senate,,D,Simpson,TOTAL ,244,
-4,Howard Sherman,U.S. Senate,,D,Simpson,TOTAL ,334,
-2,Michael Aycox,U.S. House,03,D,Simpson,Bowie,1,
-2,Michael Ted Evans,U.S. House,03,D,Simpson,Bowie,37,
-2,Michael Aycox,U.S. House,03,D,Simpson,Braxton,3,
-2,Michael Ted Evans,U.S. House,03,D,Simpson,Braxton,3,
-2,Michael Aycox,U.S. House,03,D,Simpson,Bridgeport,16,
-2,Michael Ted Evans,U.S. House,03,D,Simpson,Bridgeport,32,
-2,Michael Aycox,U.S. House,03,D,Simpson,D'Lo,1,
-2,Michael Ted Evans,U.S. House,03,D,Simpson,D'Lo,6,
-2,Michael Aycox,U.S. House,03,D,Simpson,Dry Creek,4,
-2,Michael Ted Evans,U.S. House,03,D,Simpson,Dry Creek,13,
-2,Michael Aycox,U.S. House,03,D,Simpson,Fork Church,9,
-2,Michael Ted Evans,U.S. House,03,D,Simpson,Fork Church,34,
-2,Michael Aycox,U.S. House,03,D,Simpson,Harrisville,4,
-2,Michael Ted Evans,U.S. House,03,D,Simpson,Harrisville,20,
-2,Michael Aycox,U.S. House,03,D,Simpson,Jupiter,22,
-2,Michael Ted Evans,U.S. House,03,D,Simpson,Jupiter,86,
-2,Michael Aycox,U.S. House,03,D,Simpson,Magee 1,12,
-2,Michael Ted Evans,U.S. House,03,D,Simpson,Magee 1,68,
-2,Michael Aycox,U.S. House,03,D,Simpson,Magee 2,5,
-2,Michael Ted Evans,U.S. House,03,D,Simpson,Magee 2,21,
-3,Michael Aycox,U.S. House,03,D,Simpson,Magee 4 North ,2,
-3,Michael Ted Evans,U.S. House,03,D,Simpson,Magee 4 North ,8,
-3,Michael Aycox,U.S. House,03,D,Simpson,Magee 4 South,7,
-3,Michael Ted Evans,U.S. House,03,D,Simpson,Magee 4 South,25,
-3,Michael Aycox,U.S. House,03,D,Simpson,Mendenhall 1,9,
-3,Michael Ted Evans,U.S. House,03,D,Simpson,Mendenhall 1,37,
-3,Michael Aycox,U.S. House,03,D,Simpson,Mendenhall 3,5,
-3,Michael Ted Evans,U.S. House,03,D,Simpson,Mendenhall 3,29,
-3,Michael Aycox,U.S. House,03,D,Simpson,Merit ,0,
-3,Michael Ted Evans,U.S. House,03,D,Simpson,Merit ,10,
-3,Michael Aycox,U.S. House,03,D,Simpson,New Hope,3,
-3,Michael Ted Evans,U.S. House,03,D,Simpson,New Hope,16,
-3,Michael Aycox,U.S. House,03,D,Simpson,Oak Grove,11,
-3,Michael Ted Evans,U.S. House,03,D,Simpson,Oak Grove,56,
-3,Michael Aycox,U.S. House,03,D,Simpson,Pearl,8,
-3,Michael Ted Evans,U.S. House,03,D,Simpson,Pearl,12,
-3,Michael Aycox,U.S. House,03,D,Simpson,Pinola,6,
-3,Michael Ted Evans,U.S. House,03,D,Simpson,Pinola,10,
-3,Michael Aycox,U.S. House,03,D,Simpson,Saratoga,11,
-3,Michael Ted Evans,U.S. House,03,D,Simpson,Saratoga,16,
-3,Michael Aycox,U.S. House,03,D,Simpson,Shivers,6,
-3,Michael Ted Evans,U.S. House,03,D,Simpson,Shivers,22,
-3,Michael Aycox,U.S. House,03,D,Simpson,Sumrall,2,
-3,Michael Ted Evans,U.S. House,03,D,Simpson,Sumrall,3,
-4,Michael Aycox,U.S. House,03,D,Simpson,Weathersby ,19,
-4,Michael Ted Evans,U.S. House,03,D,Simpson,Weathersby ,82,
-4,Michael Aycox,U.S. House,03,D,Simpson,TOTAL ,166,
-4,Michael Ted Evans,U.S. House,03,D,Simpson,TOTAL ,646,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
+county,precinct,office,district,party,candidate,votes
+Simpson,Bowie,U.S. House,3,DEM,Michael Aycox,1
+Simpson,Bowie,U.S. House,3,DEM,Michael Ted Evans,37
+Simpson,Bowie,U.S. House,3,REP,Katherine 'Bitzi' Tate,0
+Simpson,Bowie,U.S. House,3,REP,Michael Guest,29
+Simpson,Bowie,U.S. House,3,REP,Morgan Dunn,12
+Simpson,Bowie,U.S. House,3,REP,Perry Parker,10
+Simpson,Bowie,U.S. House,3,REP,Sally Doty,5
+Simpson,Bowie,U.S. House,3,REP,Whit Hughes,1
+Simpson,Bowie,U.S. Senate,,DEM,David Baria,4
+Simpson,Bowie,U.S. Senate,,DEM,Howard Sherman,5
+Simpson,Bowie,U.S. Senate,,DEM,Jensen Bohren,2
+Simpson,Bowie,U.S. Senate,,DEM,Jerone Garland,1
+Simpson,Bowie,U.S. Senate,,DEM,Omeria Scott,18
+Simpson,Bowie,U.S. Senate,,DEM,Victor G. Maurice Jr.,7
+Simpson,Bowie,U.S. Senate,,REP,Richard Warren Boyanton,7
+Simpson,Bowie,U.S. Senate,,REP,Roger F. Wicker,49
+Simpson,Braxton,U.S. House,3,DEM,Michael Aycox,3
+Simpson,Braxton,U.S. House,3,DEM,Michael Ted Evans,3
+Simpson,Braxton,U.S. House,3,REP,Katherine 'Bitzi' Tate,0
+Simpson,Braxton,U.S. House,3,REP,Michael Guest,88
+Simpson,Braxton,U.S. House,3,REP,Morgan Dunn,14
+Simpson,Braxton,U.S. House,3,REP,Perry Parker,40
+Simpson,Braxton,U.S. House,3,REP,Sally Doty,19
+Simpson,Braxton,U.S. House,3,REP,Whit Hughes,60
+Simpson,Braxton,U.S. Senate,,DEM,David Baria,0
+Simpson,Braxton,U.S. Senate,,DEM,Howard Sherman,4
+Simpson,Braxton,U.S. Senate,,DEM,Jensen Bohren,1
+Simpson,Braxton,U.S. Senate,,DEM,Jerone Garland,0
+Simpson,Braxton,U.S. Senate,,DEM,Omeria Scott,2
+Simpson,Braxton,U.S. Senate,,DEM,Victor G. Maurice Jr.,0
+Simpson,Braxton,U.S. Senate,,REP,Richard Warren Boyanton,49
+Simpson,Braxton,U.S. Senate,,REP,Roger F. Wicker,167
+Simpson,Bridgeport,U.S. House,3,DEM,Michael Aycox,16
+Simpson,Bridgeport,U.S. House,3,DEM,Michael Ted Evans,32
+Simpson,Bridgeport,U.S. House,3,REP,Katherine 'Bitzi' Tate,0
+Simpson,Bridgeport,U.S. House,3,REP,Michael Guest,13
+Simpson,Bridgeport,U.S. House,3,REP,Morgan Dunn,3
+Simpson,Bridgeport,U.S. House,3,REP,Perry Parker,10
+Simpson,Bridgeport,U.S. House,3,REP,Sally Doty,2
+Simpson,Bridgeport,U.S. House,3,REP,Whit Hughes,2
+Simpson,Bridgeport,U.S. Senate,,DEM,David Baria,16
+Simpson,Bridgeport,U.S. Senate,,DEM,Howard Sherman,26
+Simpson,Bridgeport,U.S. Senate,,DEM,Jensen Bohren,3
+Simpson,Bridgeport,U.S. Senate,,DEM,Jerone Garland,0
+Simpson,Bridgeport,U.S. Senate,,DEM,Omeria Scott,2
+Simpson,Bridgeport,U.S. Senate,,DEM,Victor G. Maurice Jr.,3
+Simpson,Bridgeport,U.S. Senate,,REP,Richard Warren Boyanton,4
+Simpson,Bridgeport,U.S. Senate,,REP,Roger F. Wicker,27
+Simpson,D'Lo,U.S. House,3,DEM,Michael Aycox,1
+Simpson,D'Lo,U.S. House,3,DEM,Michael Ted Evans,6
+Simpson,D'Lo,U.S. House,3,REP,Katherine 'Bitzi' Tate,1
+Simpson,D'Lo,U.S. House,3,REP,Michael Guest,65
+Simpson,D'Lo,U.S. House,3,REP,Morgan Dunn,13
+Simpson,D'Lo,U.S. House,3,REP,Perry Parker,20
+Simpson,D'Lo,U.S. House,3,REP,Sally Doty,7
+Simpson,D'Lo,U.S. House,3,REP,Whit Hughes,12
+Simpson,D'Lo,U.S. Senate,,DEM,David Baria,2
+Simpson,D'Lo,U.S. Senate,,DEM,Howard Sherman,1
+Simpson,D'Lo,U.S. Senate,,DEM,Jensen Bohren,0
+Simpson,D'Lo,U.S. Senate,,DEM,Jerone Garland,0
+Simpson,D'Lo,U.S. Senate,,DEM,Omeria Scott,4
+Simpson,D'Lo,U.S. Senate,,DEM,Victor G. Maurice Jr.,0
+Simpson,D'Lo,U.S. Senate,,REP,Richard Warren Boyanton,17
+Simpson,D'Lo,U.S. Senate,,REP,Roger F. Wicker,100
+Simpson,Dry Creek,U.S. House,3,DEM,Michael Aycox,4
+Simpson,Dry Creek,U.S. House,3,DEM,Michael Ted Evans,13
+Simpson,Dry Creek,U.S. House,3,REP,Katherine 'Bitzi' Tate,1
+Simpson,Dry Creek,U.S. House,3,REP,Michael Guest,88
+Simpson,Dry Creek,U.S. House,3,REP,Morgan Dunn,28
+Simpson,Dry Creek,U.S. House,3,REP,Perry Parker,23
+Simpson,Dry Creek,U.S. House,3,REP,Sally Doty,7
+Simpson,Dry Creek,U.S. House,3,REP,Whit Hughes,19
+Simpson,Dry Creek,U.S. Senate,,DEM,David Baria,1
+Simpson,Dry Creek,U.S. Senate,,DEM,Howard Sherman,5
+Simpson,Dry Creek,U.S. Senate,,DEM,Jensen Bohren,0
+Simpson,Dry Creek,U.S. Senate,,DEM,Jerone Garland,4
+Simpson,Dry Creek,U.S. Senate,,DEM,Omeria Scott,7
+Simpson,Dry Creek,U.S. Senate,,DEM,Victor G. Maurice Jr.,1
+Simpson,Dry Creek,U.S. Senate,,REP,Richard Warren Boyanton,30
+Simpson,Dry Creek,U.S. Senate,,REP,Roger F. Wicker,136
+Simpson,Fork Church,U.S. House,3,DEM,Michael Aycox,9
+Simpson,Fork Church,U.S. House,3,DEM,Michael Ted Evans,34
+Simpson,Fork Church,U.S. House,3,REP,Katherine 'Bitzi' Tate,2
+Simpson,Fork Church,U.S. House,3,REP,Michael Guest,12
+Simpson,Fork Church,U.S. House,3,REP,Morgan Dunn,2
+Simpson,Fork Church,U.S. House,3,REP,Perry Parker,8
+Simpson,Fork Church,U.S. House,3,REP,Sally Doty,1
+Simpson,Fork Church,U.S. House,3,REP,Whit Hughes,3
+Simpson,Fork Church,U.S. Senate,,DEM,David Baria,3
+Simpson,Fork Church,U.S. Senate,,DEM,Howard Sherman,20
+Simpson,Fork Church,U.S. Senate,,DEM,Jensen Bohren,1
+Simpson,Fork Church,U.S. Senate,,DEM,Jerone Garland,0
+Simpson,Fork Church,U.S. Senate,,DEM,Omeria Scott,22
+Simpson,Fork Church,U.S. Senate,,DEM,Victor G. Maurice Jr.,4
+Simpson,Fork Church,U.S. Senate,,REP,Richard Warren Boyanton,3
+Simpson,Fork Church,U.S. Senate,,REP,Roger F. Wicker,24
+Simpson,Harrisville,U.S. House,3,DEM,Michael Aycox,4
+Simpson,Harrisville,U.S. House,3,DEM,Michael Ted Evans,20
+Simpson,Harrisville,U.S. House,3,REP,Katherine 'Bitzi' Tate,2
+Simpson,Harrisville,U.S. House,3,REP,Michael Guest,105
+Simpson,Harrisville,U.S. House,3,REP,Morgan Dunn,10
+Simpson,Harrisville,U.S. House,3,REP,Perry Parker,33
+Simpson,Harrisville,U.S. House,3,REP,Sally Doty,4
+Simpson,Harrisville,U.S. House,3,REP,Whit Hughes,18
+Simpson,Harrisville,U.S. Senate,,DEM,David Baria,6
+Simpson,Harrisville,U.S. Senate,,DEM,Howard Sherman,11
+Simpson,Harrisville,U.S. Senate,,DEM,Jensen Bohren,1
+Simpson,Harrisville,U.S. Senate,,DEM,Jerone Garland,2
+Simpson,Harrisville,U.S. Senate,,DEM,Omeria Scott,2
+Simpson,Harrisville,U.S. Senate,,DEM,Victor G. Maurice Jr.,2
+Simpson,Harrisville,U.S. Senate,,REP,Richard Warren Boyanton,30
+Simpson,Harrisville,U.S. Senate,,REP,Roger F. Wicker,136
+Simpson,Jupiter,U.S. House,3,DEM,Michael Aycox,22
+Simpson,Jupiter,U.S. House,3,DEM,Michael Ted Evans,86
+Simpson,Jupiter,U.S. House,3,REP,Katherine 'Bitzi' Tate,0
+Simpson,Jupiter,U.S. House,3,REP,Michael Guest,32
+Simpson,Jupiter,U.S. House,3,REP,Morgan Dunn,5
+Simpson,Jupiter,U.S. House,3,REP,Perry Parker,9
+Simpson,Jupiter,U.S. House,3,REP,Sally Doty,2
+Simpson,Jupiter,U.S. House,3,REP,Whit Hughes,9
+Simpson,Jupiter,U.S. Senate,,DEM,David Baria,14
+Simpson,Jupiter,U.S. Senate,,DEM,Howard Sherman,35
+Simpson,Jupiter,U.S. Senate,,DEM,Jensen Bohren,2
+Simpson,Jupiter,U.S. Senate,,DEM,Jerone Garland,4
+Simpson,Jupiter,U.S. Senate,,DEM,Omeria Scott,56
+Simpson,Jupiter,U.S. Senate,,DEM,Victor G. Maurice Jr.,6
+Simpson,Jupiter,U.S. Senate,,REP,Richard Warren Boyanton,7
+Simpson,Jupiter,U.S. Senate,,REP,Roger F. Wicker,50
+Simpson,Magee 1,U.S. House,3,DEM,Michael Aycox,12
+Simpson,Magee 1,U.S. House,3,DEM,Michael Ted Evans,68
+Simpson,Magee 1,U.S. House,3,REP,Katherine 'Bitzi' Tate,0
+Simpson,Magee 1,U.S. House,3,REP,Michael Guest,12
+Simpson,Magee 1,U.S. House,3,REP,Morgan Dunn,3
+Simpson,Magee 1,U.S. House,3,REP,Perry Parker,4
+Simpson,Magee 1,U.S. House,3,REP,Sally Doty,2
+Simpson,Magee 1,U.S. House,3,REP,Whit Hughes,8
+Simpson,Magee 1,U.S. Senate,,DEM,David Baria,19
+Simpson,Magee 1,U.S. Senate,,DEM,Howard Sherman,47
+Simpson,Magee 1,U.S. Senate,,DEM,Jensen Bohren,5
+Simpson,Magee 1,U.S. Senate,,DEM,Jerone Garland,6
+Simpson,Magee 1,U.S. Senate,,DEM,Omeria Scott,10
+Simpson,Magee 1,U.S. Senate,,DEM,Victor G. Maurice Jr.,1
+Simpson,Magee 1,U.S. Senate,,REP,Richard Warren Boyanton,5
+Simpson,Magee 1,U.S. Senate,,REP,Roger F. Wicker,23
+Simpson,Magee 2,U.S. House,3,DEM,Michael Aycox,5
+Simpson,Magee 2,U.S. House,3,DEM,Michael Ted Evans,21
+Simpson,Magee 2,U.S. House,3,REP,Katherine 'Bitzi' Tate,1
+Simpson,Magee 2,U.S. House,3,REP,Michael Guest,107
+Simpson,Magee 2,U.S. House,3,REP,Morgan Dunn,68
+Simpson,Magee 2,U.S. House,3,REP,Perry Parker,39
+Simpson,Magee 2,U.S. House,3,REP,Sally Doty,24
+Simpson,Magee 2,U.S. House,3,REP,Whit Hughes,30
+Simpson,Magee 2,U.S. Senate,,DEM,David Baria,10
+Simpson,Magee 2,U.S. Senate,,DEM,Howard Sherman,3
+Simpson,Magee 2,U.S. Senate,,DEM,Jensen Bohren,0
+Simpson,Magee 2,U.S. Senate,,DEM,Jerone Garland,2
+Simpson,Magee 2,U.S. Senate,,DEM,Omeria Scott,9
+Simpson,Magee 2,U.S. Senate,,DEM,Victor G. Maurice Jr.,0
+Simpson,Magee 2,U.S. Senate,,REP,Richard Warren Boyanton,33
+Simpson,Magee 2,U.S. Senate,,REP,Roger F. Wicker,229
+Simpson,Magee 4 North,U.S. House,3,DEM,Michael Aycox,2
+Simpson,Magee 4 North,U.S. House,3,DEM,Michael Ted Evans,8
+Simpson,Magee 4 North,U.S. House,3,REP,Katherine 'Bitzi' Tate,0
+Simpson,Magee 4 North,U.S. House,3,REP,Michael Guest,80
+Simpson,Magee 4 North,U.S. House,3,REP,Morgan Dunn,55
+Simpson,Magee 4 North,U.S. House,3,REP,Perry Parker,27
+Simpson,Magee 4 North,U.S. House,3,REP,Sally Doty,11
+Simpson,Magee 4 North,U.S. House,3,REP,Whit Hughes,31
+Simpson,Magee 4 North,U.S. Senate,,DEM,David Baria,4
+Simpson,Magee 4 North,U.S. Senate,,DEM,Howard Sherman,4
+Simpson,Magee 4 North,U.S. Senate,,DEM,Jensen Bohren,0
+Simpson,Magee 4 North,U.S. Senate,,DEM,Jerone Garland,0
+Simpson,Magee 4 North,U.S. Senate,,DEM,Omeria Scott,2
+Simpson,Magee 4 North,U.S. Senate,,DEM,Victor G. Maurice Jr.,0
+Simpson,Magee 4 North,U.S. Senate,,REP,Richard Warren Boyanton,11
+Simpson,Magee 4 North,U.S. Senate,,REP,Roger F. Wicker,187
+Simpson,Magee 4 South,U.S. House,3,DEM,Michael Aycox,7
+Simpson,Magee 4 South,U.S. House,3,DEM,Michael Ted Evans,25
+Simpson,Magee 4 South,U.S. House,3,REP,Katherine 'Bitzi' Tate,0
+Simpson,Magee 4 South,U.S. House,3,REP,Michael Guest,113
+Simpson,Magee 4 South,U.S. House,3,REP,Morgan Dunn,62
+Simpson,Magee 4 South,U.S. House,3,REP,Perry Parker,31
+Simpson,Magee 4 South,U.S. House,3,REP,Sally Doty,22
+Simpson,Magee 4 South,U.S. House,3,REP,Whit Hughes,26
+Simpson,Magee 4 South,U.S. Senate,,DEM,David Baria,6
+Simpson,Magee 4 South,U.S. Senate,,DEM,Howard Sherman,11
+Simpson,Magee 4 South,U.S. Senate,,DEM,Jensen Bohren,1
+Simpson,Magee 4 South,U.S. Senate,,DEM,Jerone Garland,2
+Simpson,Magee 4 South,U.S. Senate,,DEM,Omeria Scott,13
+Simpson,Magee 4 South,U.S. Senate,,DEM,Victor G. Maurice Jr.,1
+Simpson,Magee 4 South,U.S. Senate,,REP,Richard Warren Boyanton,44
+Simpson,Magee 4 South,U.S. Senate,,REP,Roger F. Wicker,204
+Simpson,Mendenhall 1,U.S. House,3,DEM,Michael Aycox,9
+Simpson,Mendenhall 1,U.S. House,3,DEM,Michael Ted Evans,37
+Simpson,Mendenhall 1,U.S. House,3,REP,Katherine 'Bitzi' Tate,0
+Simpson,Mendenhall 1,U.S. House,3,REP,Michael Guest,5
+Simpson,Mendenhall 1,U.S. House,3,REP,Morgan Dunn,6
+Simpson,Mendenhall 1,U.S. House,3,REP,Perry Parker,4
+Simpson,Mendenhall 1,U.S. House,3,REP,Sally Doty,1
+Simpson,Mendenhall 1,U.S. House,3,REP,Whit Hughes,1
+Simpson,Mendenhall 1,U.S. Senate,,DEM,David Baria,8
+Simpson,Mendenhall 1,U.S. Senate,,DEM,Howard Sherman,13
+Simpson,Mendenhall 1,U.S. Senate,,DEM,Jensen Bohren,2
+Simpson,Mendenhall 1,U.S. Senate,,DEM,Jerone Garland,2
+Simpson,Mendenhall 1,U.S. Senate,,DEM,Omeria Scott,22
+Simpson,Mendenhall 1,U.S. Senate,,DEM,Victor G. Maurice Jr.,2
+Simpson,Mendenhall 1,U.S. Senate,,REP,Richard Warren Boyanton,2
+Simpson,Mendenhall 1,U.S. Senate,,REP,Roger F. Wicker,14
+Simpson,Mendenhall 3,U.S. House,3,DEM,Michael Aycox,5
+Simpson,Mendenhall 3,U.S. House,3,DEM,Michael Ted Evans,29
+Simpson,Mendenhall 3,U.S. House,3,REP,Katherine 'Bitzi' Tate,1
+Simpson,Mendenhall 3,U.S. House,3,REP,Michael Guest,135
+Simpson,Mendenhall 3,U.S. House,3,REP,Morgan Dunn,34
+Simpson,Mendenhall 3,U.S. House,3,REP,Perry Parker,26
+Simpson,Mendenhall 3,U.S. House,3,REP,Sally Doty,14
+Simpson,Mendenhall 3,U.S. House,3,REP,Whit Hughes,51
+Simpson,Mendenhall 3,U.S. Senate,,DEM,David Baria,8
+Simpson,Mendenhall 3,U.S. Senate,,DEM,Howard Sherman,12
+Simpson,Mendenhall 3,U.S. Senate,,DEM,Jensen Bohren,1
+Simpson,Mendenhall 3,U.S. Senate,,DEM,Jerone Garland,3
+Simpson,Mendenhall 3,U.S. Senate,,DEM,Omeria Scott,8
+Simpson,Mendenhall 3,U.S. Senate,,DEM,Victor G. Maurice Jr.,2
+Simpson,Mendenhall 3,U.S. Senate,,REP,Richard Warren Boyanton,39
+Simpson,Mendenhall 3,U.S. Senate,,REP,Roger F. Wicker,218
+Simpson,Merit,U.S. House,3,DEM,Michael Aycox,0
+Simpson,Merit,U.S. House,3,DEM,Michael Ted Evans,10
+Simpson,Merit,U.S. House,3,REP,Katherine 'Bitzi' Tate,0
+Simpson,Merit,U.S. House,3,REP,Michael Guest,71
+Simpson,Merit,U.S. House,3,REP,Morgan Dunn,28
+Simpson,Merit,U.S. House,3,REP,Perry Parker,63
+Simpson,Merit,U.S. House,3,REP,Sally Doty,12
+Simpson,Merit,U.S. House,3,REP,Whit Hughes,31
+Simpson,Merit,U.S. Senate,,DEM,David Baria,2
+Simpson,Merit,U.S. Senate,,DEM,Howard Sherman,8
+Simpson,Merit,U.S. Senate,,DEM,Jensen Bohren,1
+Simpson,Merit,U.S. Senate,,DEM,Jerone Garland,0
+Simpson,Merit,U.S. Senate,,DEM,Omeria Scott,1
+Simpson,Merit,U.S. Senate,,DEM,Victor G. Maurice Jr.,0
+Simpson,Merit,U.S. Senate,,REP,Richard Warren Boyanton,40
+Simpson,Merit,U.S. Senate,,REP,Roger F. Wicker,166
+Simpson,New Hope,U.S. House,3,DEM,Michael Aycox,3
+Simpson,New Hope,U.S. House,3,DEM,Michael Ted Evans,16
+Simpson,New Hope,U.S. House,3,REP,Katherine 'Bitzi' Tate,0
+Simpson,New Hope,U.S. House,3,REP,Michael Guest,14
+Simpson,New Hope,U.S. House,3,REP,Morgan Dunn,2
+Simpson,New Hope,U.S. House,3,REP,Perry Parker,14
+Simpson,New Hope,U.S. House,3,REP,Sally Doty,3
+Simpson,New Hope,U.S. House,3,REP,Whit Hughes,4
+Simpson,New Hope,U.S. Senate,,DEM,David Baria,1
+Simpson,New Hope,U.S. Senate,,DEM,Howard Sherman,10
+Simpson,New Hope,U.S. Senate,,DEM,Jensen Bohren,1
+Simpson,New Hope,U.S. Senate,,DEM,Jerone Garland,2
+Simpson,New Hope,U.S. Senate,,DEM,Omeria Scott,6
+Simpson,New Hope,U.S. Senate,,DEM,Victor G. Maurice Jr.,1
+Simpson,New Hope,U.S. Senate,,REP,Richard Warren Boyanton,5
+Simpson,New Hope,U.S. Senate,,REP,Roger F. Wicker,32
+Simpson,Oak Grove,U.S. House,3,DEM,Michael Aycox,11
+Simpson,Oak Grove,U.S. House,3,DEM,Michael Ted Evans,56
+Simpson,Oak Grove,U.S. House,3,REP,Katherine 'Bitzi' Tate,0
+Simpson,Oak Grove,U.S. House,3,REP,Michael Guest,46
+Simpson,Oak Grove,U.S. House,3,REP,Morgan Dunn,14
+Simpson,Oak Grove,U.S. House,3,REP,Perry Parker,25
+Simpson,Oak Grove,U.S. House,3,REP,Sally Doty,8
+Simpson,Oak Grove,U.S. House,3,REP,Whit Hughes,9
+Simpson,Oak Grove,U.S. Senate,,DEM,David Baria,19
+Simpson,Oak Grove,U.S. Senate,,DEM,Howard Sherman,30
+Simpson,Oak Grove,U.S. Senate,,DEM,Jensen Bohren,0
+Simpson,Oak Grove,U.S. Senate,,DEM,Jerone Garland,6
+Simpson,Oak Grove,U.S. Senate,,DEM,Omeria Scott,11
+Simpson,Oak Grove,U.S. Senate,,DEM,Victor G. Maurice Jr.,4
+Simpson,Oak Grove,U.S. Senate,,REP,Richard Warren Boyanton,9
+Simpson,Oak Grove,U.S. Senate,,REP,Roger F. Wicker,94
+Simpson,Pearl,U.S. House,3,DEM,Michael Aycox,8
+Simpson,Pearl,U.S. House,3,DEM,Michael Ted Evans,12
+Simpson,Pearl,U.S. House,3,REP,Katherine 'Bitzi' Tate,1
+Simpson,Pearl,U.S. House,3,REP,Michael Guest,59
+Simpson,Pearl,U.S. House,3,REP,Morgan Dunn,2
+Simpson,Pearl,U.S. House,3,REP,Perry Parker,12
+Simpson,Pearl,U.S. House,3,REP,Sally Doty,4
+Simpson,Pearl,U.S. House,3,REP,Whit Hughes,12
+Simpson,Pearl,U.S. Senate,,DEM,David Baria,0
+Simpson,Pearl,U.S. Senate,,DEM,Howard Sherman,8
+Simpson,Pearl,U.S. Senate,,DEM,Jensen Bohren,0
+Simpson,Pearl,U.S. Senate,,DEM,Jerone Garland,1
+Simpson,Pearl,U.S. Senate,,DEM,Omeria Scott,9
+Simpson,Pearl,U.S. Senate,,DEM,Victor G. Maurice Jr.,4
+Simpson,Pearl,U.S. Senate,,REP,Richard Warren Boyanton,16
+Simpson,Pearl,U.S. Senate,,REP,Roger F. Wicker,78
+Simpson,Pinola,U.S. House,3,DEM,Michael Aycox,6
+Simpson,Pinola,U.S. House,3,DEM,Michael Ted Evans,10
+Simpson,Pinola,U.S. House,3,REP,Katherine 'Bitzi' Tate,0
+Simpson,Pinola,U.S. House,3,REP,Michael Guest,39
+Simpson,Pinola,U.S. House,3,REP,Morgan Dunn,7
+Simpson,Pinola,U.S. House,3,REP,Perry Parker,19
+Simpson,Pinola,U.S. House,3,REP,Sally Doty,13
+Simpson,Pinola,U.S. House,3,REP,Whit Hughes,4
+Simpson,Pinola,U.S. Senate,,DEM,David Baria,2
+Simpson,Pinola,U.S. Senate,,DEM,Howard Sherman,8
+Simpson,Pinola,U.S. Senate,,DEM,Jensen Bohren,0
+Simpson,Pinola,U.S. Senate,,DEM,Jerone Garland,0
+Simpson,Pinola,U.S. Senate,,DEM,Omeria Scott,5
+Simpson,Pinola,U.S. Senate,,DEM,Victor G. Maurice Jr.,3
+Simpson,Pinola,U.S. Senate,,REP,Richard Warren Boyanton,8
+Simpson,Pinola,U.S. Senate,,REP,Roger F. Wicker,73
+Simpson,Saratoga,U.S. House,3,DEM,Michael Aycox,11
+Simpson,Saratoga,U.S. House,3,DEM,Michael Ted Evans,16
+Simpson,Saratoga,U.S. House,3,REP,Katherine 'Bitzi' Tate,0
+Simpson,Saratoga,U.S. House,3,REP,Michael Guest,14
+Simpson,Saratoga,U.S. House,3,REP,Morgan Dunn,9
+Simpson,Saratoga,U.S. House,3,REP,Perry Parker,12
+Simpson,Saratoga,U.S. House,3,REP,Sally Doty,5
+Simpson,Saratoga,U.S. House,3,REP,Whit Hughes,10
+Simpson,Saratoga,U.S. Senate,,DEM,David Baria,8
+Simpson,Saratoga,U.S. Senate,,DEM,Howard Sherman,17
+Simpson,Saratoga,U.S. Senate,,DEM,Jensen Bohren,3
+Simpson,Saratoga,U.S. Senate,,DEM,Jerone Garland,2
+Simpson,Saratoga,U.S. Senate,,DEM,Omeria Scott,1
+Simpson,Saratoga,U.S. Senate,,DEM,Victor G. Maurice Jr.,2
+Simpson,Saratoga,U.S. Senate,,REP,Richard Warren Boyanton,8
+Simpson,Saratoga,U.S. Senate,,REP,Roger F. Wicker,40
+Simpson,Shivers,U.S. House,3,DEM,Michael Aycox,6
+Simpson,Shivers,U.S. House,3,DEM,Michael Ted Evans,22
+Simpson,Shivers,U.S. House,3,REP,Katherine 'Bitzi' Tate,0
+Simpson,Shivers,U.S. House,3,REP,Michael Guest,17
+Simpson,Shivers,U.S. House,3,REP,Morgan Dunn,6
+Simpson,Shivers,U.S. House,3,REP,Perry Parker,7
+Simpson,Shivers,U.S. House,3,REP,Sally Doty,11
+Simpson,Shivers,U.S. House,3,REP,Whit Hughes,12
+Simpson,Shivers,U.S. Senate,,DEM,David Baria,2
+Simpson,Shivers,U.S. Senate,,DEM,Howard Sherman,9
+Simpson,Shivers,U.S. Senate,,DEM,Jensen Bohren,3
+Simpson,Shivers,U.S. Senate,,DEM,Jerone Garland,3
+Simpson,Shivers,U.S. Senate,,DEM,Omeria Scott,6
+Simpson,Shivers,U.S. Senate,,DEM,Victor G. Maurice Jr.,4
+Simpson,Shivers,U.S. Senate,,REP,Richard Warren Boyanton,10
+Simpson,Shivers,U.S. Senate,,REP,Roger F. Wicker,43
+Simpson,Sumrall,U.S. House,3,DEM,Michael Aycox,2
+Simpson,Sumrall,U.S. House,3,DEM,Michael Ted Evans,3
+Simpson,Sumrall,U.S. House,3,REP,Katherine 'Bitzi' Tate,0
+Simpson,Sumrall,U.S. House,3,REP,Michael Guest,68
+Simpson,Sumrall,U.S. House,3,REP,Morgan Dunn,18
+Simpson,Sumrall,U.S. House,3,REP,Perry Parker,18
+Simpson,Sumrall,U.S. House,3,REP,Sally Doty,7
+Simpson,Sumrall,U.S. House,3,REP,Whit Hughes,12
+Simpson,Sumrall,U.S. Senate,,DEM,David Baria,2
+Simpson,Sumrall,U.S. Senate,,DEM,Howard Sherman,3
+Simpson,Sumrall,U.S. Senate,,DEM,Jensen Bohren,0
+Simpson,Sumrall,U.S. Senate,,DEM,Jerone Garland,1
+Simpson,Sumrall,U.S. Senate,,DEM,Omeria Scott,0
+Simpson,Sumrall,U.S. Senate,,DEM,Victor G. Maurice Jr.,0
+Simpson,Sumrall,U.S. Senate,,REP,Richard Warren Boyanton,25
+Simpson,Sumrall,U.S. Senate,,REP,Roger F. Wicker,94
+Simpson,Total,U.S. House,3,DEM,Michael Aycox,166
+Simpson,Total,U.S. House,3,DEM,Michael Ted Evans,646
+Simpson,Total,U.S. House,3,REP,Katherine 'Bitzi' Tate,9
+Simpson,Total,U.S. House,3,REP,Michael Guest,1222
+Simpson,Total,U.S. House,3,REP,Morgan Dunn,416
+Simpson,Total,U.S. House,3,REP,Perry Parker,457
+Simpson,Total,U.S. House,3,REP,Sally Doty,186
+Simpson,Total,U.S. House,3,REP,Whit Hughes,367
+Simpson,Total,U.S. Senate,,DEM,David Baria,151
+Simpson,Total,U.S. Senate,,DEM,Howard Sherman,334
+Simpson,Total,U.S. Senate,,DEM,Jensen Bohren,32
+Simpson,Total,U.S. Senate,,DEM,Jerone Garland,46
+Simpson,Total,U.S. Senate,,DEM,Omeria Scott,244
+Simpson,Total,U.S. Senate,,DEM,Victor G. Maurice Jr.,56
+Simpson,Total,U.S. Senate,,REP,Richard Warren Boyanton,405
+Simpson,Total,U.S. Senate,,REP,Roger F. Wicker,2213
+Simpson,Weathersby,U.S. House,3,DEM,Michael Aycox,19
+Simpson,Weathersby,U.S. House,3,DEM,Michael Ted Evans,82
+Simpson,Weathersby,U.S. House,3,REP,Katherine 'Bitzi' Tate,0
+Simpson,Weathersby,U.S. House,3,REP,Michael Guest,10
+Simpson,Weathersby,U.S. House,3,REP,Morgan Dunn,15
+Simpson,Weathersby,U.S. House,3,REP,Perry Parker,3
+Simpson,Weathersby,U.S. House,3,REP,Sally Doty,2
+Simpson,Weathersby,U.S. House,3,REP,Whit Hughes,2
+Simpson,Weathersby,U.S. Senate,,DEM,David Baria,14
+Simpson,Weathersby,U.S. Senate,,DEM,Howard Sherman,44
+Simpson,Weathersby,U.S. Senate,,DEM,Jensen Bohren,5
+Simpson,Weathersby,U.S. Senate,,DEM,Jerone Garland,5
+Simpson,Weathersby,U.S. Senate,,DEM,Omeria Scott,28
+Simpson,Weathersby,U.S. Senate,,DEM,Victor G. Maurice Jr.,9
+Simpson,Weathersby,U.S. Senate,,REP,Richard Warren Boyanton,3
+Simpson,Weathersby,U.S. Senate,,REP,Roger F. Wicker,29

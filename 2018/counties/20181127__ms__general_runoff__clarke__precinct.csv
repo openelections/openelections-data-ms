@@ -1,75 +1,49 @@
-Page,candidate,office,district,party,county,precinct,votes,winner
-2,Mike Espy,U.S. Senate,Unexpired Term,,Clarke,Beaverdam,126,
-2,Cindy Hyde-Smith,U.S. Senate,Unexpired Term,,Clarke,Beaverdam,35,
-2,Mike Espy,U.S. Senate,Unexpired Term,,Clarke,Carmichael,54,
-2,Cindy Hyde-Smith,U.S. Senate,Unexpired Term,,Clarke,Carmichael,110,
-2,Mike Espy,U.S. Senate,Unexpired Term,,Clarke,Desoto,103,
-2,Cindy Hyde-Smith,U.S. Senate,Unexpired Term,,Clarke,Desoto,78,
-2,Mike Espy,U.S. Senate,Unexpired Term,,Clarke,East Quitman,83,
-2,Cindy Hyde-Smith,U.S. Senate,Unexpired Term,,Clarke,East Quitman,691,
-2,Mike Espy,U.S. Senate,Unexpired Term,,Clarke,Energy,3,
-2,Cindy Hyde-Smith,U.S. Senate,Unexpired Term,,Clarke,Energy,115,
-2,Mike Espy,U.S. Senate,Unexpired Term,,Clarke,Enterprise,170,
-2,Cindy Hyde-Smith,U.S. Senate,Unexpired Term,,Clarke,Enterprise,619,
-2,Mike Espy,U.S. Senate,Unexpired Term,,Clarke,Hopewell,57,
-2,Cindy Hyde-Smith,U.S. Senate,Unexpired Term,,Clarke,Hopewell,41,
-2,Mike Espy,U.S. Senate,Unexpired Term,,Clarke,Harmony Dist. 1,34,
-2,Cindy Hyde-Smith,U.S. Senate,Unexpired Term,,Clarke,Harmony Dist. 1,48,
-2,Mike Espy,U.S. Senate,Unexpired Term,,Clarke,Harmony Dist. 2,78,
-2,Cindy Hyde-Smith,U.S. Senate,Unexpired Term,,Clarke,Harmony Dist. 2,118,
-2,Mike Espy,U.S. Senate,Unexpired Term,,Clarke,Langsdale,28,
-2,Cindy Hyde-Smith,U.S. Senate,Unexpired Term,,Clarke,Langsdale,11,
-2,Mike Espy,U.S. Senate,Unexpired Term,,Clarke,Manassa,3,
-2,Cindy Hyde-Smith,U.S. Senate,Unexpired Term,,Clarke,Manassa,71,
-3,Mike Espy,U.S. Senate,Unexpired Term,,Clarke,North Quitman,67,
-3,Cindy Hyde-Smith,U.S. Senate,Unexpired Term,,Clarke,North Quitman,158,
-3,Mike Espy,U.S. Senate,Unexpired Term,,Clarke,Oakgrove,173,
-3,Cindy Hyde-Smith,U.S. Senate,Unexpired Term,,Clarke,Oakgrove,25,
-3,Mike Espy,U.S. Senate,Unexpired Term,,Clarke,Pachuta,148,
-3,Cindy Hyde-Smith,U.S. Senate,Unexpired Term,,Clarke,Pachuta,53,
-3,Mike Espy,U.S. Senate,Unexpired Term,,Clarke,Rolling Creek,17,
-3,Cindy Hyde-Smith,U.S. Senate,Unexpired Term,,Clarke,Rolling Creek,134,
-3,Mike Espy,U.S. Senate,Unexpired Term,,Clarke,Shubuta,330,
-3,Cindy Hyde-Smith,U.S. Senate,Unexpired Term,,Clarke,Shubuta,70,
-3,Mike Espy,U.S. Senate,Unexpired Term,,Clarke,Snell,2,
-3,Cindy Hyde-Smith,U.S. Senate,Unexpired Term,,Clarke,Snell,123,
-3,Mike Espy,U.S. Senate,Unexpired Term,,Clarke,Souinlovie,28,
-3,Cindy Hyde-Smith,U.S. Senate,Unexpired Term,,Clarke,Souinlovie,99,
-3,Mike Espy,U.S. Senate,Unexpired Term,,Clarke,South Quitman,339,
-3,Cindy Hyde-Smith,U.S. Senate,Unexpired Term,,Clarke,South Quitman,168,
-3,Mike Espy,U.S. Senate,Unexpired Term,,Clarke,Springs,53,
-3,Cindy Hyde-Smith,U.S. Senate,Unexpired Term,,Clarke,Springs,36,
-3,Mike Espy,U.S. Senate,Unexpired Term,,Clarke,Stonewall Dist. 3,58,
-3,Cindy Hyde-Smith,U.S. Senate,Unexpired Term,,Clarke,Stonewall Dist. 3,225,
-3,Mike Espy,U.S. Senate,Unexpired Term,,Clarke,Stonewall Dist. 1,174,
-3,Cindy Hyde-Smith,U.S. Senate,Unexpired Term,,Clarke,Stonewall Dist. 1,66,
-4,Mike Espy,U.S. Senate,Unexpired Term,,Clarke,Union,28,
-4,Cindy Hyde-Smith,U.S. Senate,Unexpired Term,,Clarke,Union,392,
-4,Mike Espy,U.S. Senate,Unexpired Term,,Clarke,TOTAL ,2156,
-4,Cindy Hyde-Smith,U.S. Senate,Unexpired Term,,Clarke,TOTAL ,3486,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
+county,precinct,office,district,party,candidate,votes
+Clarke,Beaverdam,U.S. Senate,Unexpired Term,,Cindy Hyde-Smith,35
+Clarke,Beaverdam,U.S. Senate,Unexpired Term,,Mike Espy,126
+Clarke,Carmichael,U.S. Senate,Unexpired Term,,Cindy Hyde-Smith,110
+Clarke,Carmichael,U.S. Senate,Unexpired Term,,Mike Espy,54
+Clarke,Desoto,U.S. Senate,Unexpired Term,,Cindy Hyde-Smith,78
+Clarke,Desoto,U.S. Senate,Unexpired Term,,Mike Espy,103
+Clarke,East Quitman,U.S. Senate,Unexpired Term,,Cindy Hyde-Smith,691
+Clarke,East Quitman,U.S. Senate,Unexpired Term,,Mike Espy,83
+Clarke,Energy,U.S. Senate,Unexpired Term,,Cindy Hyde-Smith,115
+Clarke,Energy,U.S. Senate,Unexpired Term,,Mike Espy,3
+Clarke,Enterprise,U.S. Senate,Unexpired Term,,Cindy Hyde-Smith,619
+Clarke,Enterprise,U.S. Senate,Unexpired Term,,Mike Espy,170
+Clarke,Harmony Dist. 1,U.S. Senate,Unexpired Term,,Cindy Hyde-Smith,48
+Clarke,Harmony Dist. 1,U.S. Senate,Unexpired Term,,Mike Espy,34
+Clarke,Harmony Dist. 2,U.S. Senate,Unexpired Term,,Cindy Hyde-Smith,118
+Clarke,Harmony Dist. 2,U.S. Senate,Unexpired Term,,Mike Espy,78
+Clarke,Hopewell,U.S. Senate,Unexpired Term,,Cindy Hyde-Smith,41
+Clarke,Hopewell,U.S. Senate,Unexpired Term,,Mike Espy,57
+Clarke,Langsdale,U.S. Senate,Unexpired Term,,Cindy Hyde-Smith,11
+Clarke,Langsdale,U.S. Senate,Unexpired Term,,Mike Espy,28
+Clarke,Manassa,U.S. Senate,Unexpired Term,,Cindy Hyde-Smith,71
+Clarke,Manassa,U.S. Senate,Unexpired Term,,Mike Espy,3
+Clarke,North Quitman,U.S. Senate,Unexpired Term,,Cindy Hyde-Smith,158
+Clarke,North Quitman,U.S. Senate,Unexpired Term,,Mike Espy,67
+Clarke,Oakgrove,U.S. Senate,Unexpired Term,,Cindy Hyde-Smith,25
+Clarke,Oakgrove,U.S. Senate,Unexpired Term,,Mike Espy,173
+Clarke,Pachuta,U.S. Senate,Unexpired Term,,Cindy Hyde-Smith,53
+Clarke,Pachuta,U.S. Senate,Unexpired Term,,Mike Espy,148
+Clarke,Rolling Creek,U.S. Senate,Unexpired Term,,Cindy Hyde-Smith,134
+Clarke,Rolling Creek,U.S. Senate,Unexpired Term,,Mike Espy,17
+Clarke,Shubuta,U.S. Senate,Unexpired Term,,Cindy Hyde-Smith,70
+Clarke,Shubuta,U.S. Senate,Unexpired Term,,Mike Espy,330
+Clarke,Snell,U.S. Senate,Unexpired Term,,Cindy Hyde-Smith,123
+Clarke,Snell,U.S. Senate,Unexpired Term,,Mike Espy,2
+Clarke,Souinlovie,U.S. Senate,Unexpired Term,,Cindy Hyde-Smith,99
+Clarke,Souinlovie,U.S. Senate,Unexpired Term,,Mike Espy,28
+Clarke,South Quitman,U.S. Senate,Unexpired Term,,Cindy Hyde-Smith,168
+Clarke,South Quitman,U.S. Senate,Unexpired Term,,Mike Espy,339
+Clarke,Springs,U.S. Senate,Unexpired Term,,Cindy Hyde-Smith,36
+Clarke,Springs,U.S. Senate,Unexpired Term,,Mike Espy,53
+Clarke,Stonewall Dist. 1,U.S. Senate,Unexpired Term,,Cindy Hyde-Smith,66
+Clarke,Stonewall Dist. 1,U.S. Senate,Unexpired Term,,Mike Espy,174
+Clarke,Stonewall Dist. 3,U.S. Senate,Unexpired Term,,Cindy Hyde-Smith,225
+Clarke,Stonewall Dist. 3,U.S. Senate,Unexpired Term,,Mike Espy,58
+Clarke,Total,U.S. Senate,Unexpired Term,,Cindy Hyde-Smith,3486
+Clarke,Total,U.S. Senate,Unexpired Term,,Mike Espy,2156
+Clarke,Union,U.S. Senate,Unexpired Term,,Cindy Hyde-Smith,392
+Clarke,Union,U.S. Senate,Unexpired Term,,Mike Espy,28

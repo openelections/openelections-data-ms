@@ -1,49 +1,49 @@
-Page,candidate,office,district,party,county,precinct,votes,winner
-2,Mike Espy,U.S. Senate,Unexpired Term,,Scott,Beat 4/Branch,86,
-2,Cindy Hyde-Smith,U.S. Senate,Unexpired Term,,Scott,Beat 4/Branch,340,
-2,Mike Espy,U.S. Senate,Unexpired Term,,Scott,Beat 1/Harperville,349,
-2,Cindy Hyde-Smith,U.S. Senate,Unexpired Term,,Scott,Beat 1/Harperville,197,
-2,Mike Espy,U.S. Senate,Unexpired Term,,Scott,Beat 1/Hillsboro,384,
-2,Cindy Hyde-Smith,U.S. Senate,Unexpired Term,,Scott,Beat 1/Hillsboro,186,
-2,Mike Espy,U.S. Senate,Unexpired Term,,Scott,Beat 1/North Forest,460,
-2,Cindy Hyde-Smith,U.S. Senate,Unexpired Term,,Scott,Beat 1/North Forest,61,
-2,Mike Espy,U.S. Senate,Unexpired Term,,Scott,Beat 2/High Hill,113,
-2,Cindy Hyde-Smith,U.S. Senate,Unexpired Term,,Scott,Beat 2/High Hill,103,
-2,Mike Espy,U.S. Senate,Unexpired Term,,Scott,Beat 2/Homewood,52,
-2,Cindy Hyde-Smith,U.S. Senate,Unexpired Term,,Scott,Beat 2/Homewood,166,
-2,Mike Espy,U.S. Senate,Unexpired Term,,Scott,Beat 2/Lake,92,
-2,Cindy Hyde-Smith,U.S. Senate,Unexpired Term,,Scott,Beat 2/Lake,103,
-2,Mike Espy,U.S. Senate,Unexpired Term,,Scott,Beat 2/South Forest,421,
-2,Cindy Hyde-Smith,U.S. Senate,Unexpired Term,,Scott,Beat 2/South Forest,208,
-2,Mike Espy,U.S. Senate,Unexpired Term,,Scott,Beat 2/Usry,20,
-2,Cindy Hyde-Smith,U.S. Senate,Unexpired Term,,Scott,Beat 2/Usry,168,
-2,Mike Espy,U.S. Senate,Unexpired Term,,Scott,Beat 3/Cooperville/Springf,39,
-2,Cindy Hyde-Smith,U.S. Senate,Unexpired Term,,Scott,Beat 3/Cooperville/Springf,409,
-2,Mike Espy,U.S. Senate,Unexpired Term,,Scott,Beat 3/Eastwest Morton,303,
-2,Cindy Hyde-Smith,U.S. Senate,Unexpired Term,,Scott,Beat 3/Eastwest Morton,449,
-3,Mike Espy,U.S. Senate,Unexpired Term,,Scott,Beat 3/Northwest Forest,22,
-3,Cindy Hyde-Smith,U.S. Senate,Unexpired Term,,Scott,Beat 3/Northwest Forest,97,
-3,Mike Espy,U.S. Senate,Unexpired Term,,Scott,Beat 3/Pulaski,39,
-3,Cindy Hyde-Smith,U.S. Senate,Unexpired Term,,Scott,Beat 3/Pulaski,170,
-3,Mike Espy,U.S. Senate,Unexpired Term,,Scott,Beat 4/Clifton,15,
-3,Cindy Hyde-Smith,U.S. Senate,Unexpired Term,,Scott,Beat 4/Clifton,61,
-3,Mike Espy,U.S. Senate,Unexpired Term,,Scott,Beat 4/Contrell,142,
-3,Cindy Hyde-Smith,U.S. Senate,Unexpired Term,,Scott,Beat 4/Contrell,59,
-3,Mike Espy,U.S. Senate,Unexpired Term,,Scott,Beat 4/Forkville,12,
-3,Cindy Hyde-Smith,U.S. Senate,Unexpired Term,,Scott,Beat 4/Forkville,175,
-3,Mike Espy,U.S. Senate,Unexpired Term,,Scott,Beat 4/Ludlow,125,
-3,Cindy Hyde-Smith,U.S. Senate,Unexpired Term,,Scott,Beat 4/Ludlow,228,
-3,Mike Espy,U.S. Senate,Unexpired Term,,Scott,Beat 4/North Morton,361,
-3,Cindy Hyde-Smith,U.S. Senate,Unexpired Term,,Scott,Beat 4/North Morton,162,
-3,Mike Espy,U.S. Senate,Unexpired Term,,Scott,Beat 5/Langs Mill,113,
-3,Cindy Hyde-Smith,U.S. Senate,Unexpired Term,,Scott,Beat 5/Langs Mill,257,
-3,Mike Espy,U.S. Senate,Unexpired Term,,Scott,Beat 5/Northeast Forest,56,
-3,Cindy Hyde-Smith,U.S. Senate,Unexpired Term,,Scott,Beat 5/Northeast Forest,296,
-3,Mike Espy,U.S. Senate,Unexpired Term,,Scott,Beat 5/Salem,178,
-3,Cindy Hyde-Smith,U.S. Senate,Unexpired Term,,Scott,Beat 5/Salem,136,
-3,Mike Espy,U.S. Senate,Unexpired Term,,Scott,Beat 5/Sebastopol,17,
-3,Cindy Hyde-Smith,U.S. Senate,Unexpired Term,,Scott,Beat 5/Sebastopol,254,
-4,Mike Espy,U.S. Senate,Unexpired Term,,Scott,Beat 5/Steele,247,
-4,Cindy Hyde-Smith,U.S. Senate,Unexpired Term,,Scott,Beat 5/Steele,144,
-4,Mike Espy,U.S. Senate,Unexpired Term,,Scott,TOTAL ,3646,
-4,Cindy Hyde-Smith,U.S. Senate,Unexpired Term,,Scott,TOTAL ,4429,
+county,precinct,office,district,party,candidate,votes
+Scott,Beat 1/Harperville,U.S. Senate,Unexpired Term,,Cindy Hyde-Smith,197
+Scott,Beat 1/Harperville,U.S. Senate,Unexpired Term,,Mike Espy,349
+Scott,Beat 1/Hillsboro,U.S. Senate,Unexpired Term,,Cindy Hyde-Smith,186
+Scott,Beat 1/Hillsboro,U.S. Senate,Unexpired Term,,Mike Espy,384
+Scott,Beat 1/North Forest,U.S. Senate,Unexpired Term,,Cindy Hyde-Smith,61
+Scott,Beat 1/North Forest,U.S. Senate,Unexpired Term,,Mike Espy,460
+Scott,Beat 2/High Hill,U.S. Senate,Unexpired Term,,Cindy Hyde-Smith,103
+Scott,Beat 2/High Hill,U.S. Senate,Unexpired Term,,Mike Espy,113
+Scott,Beat 2/Homewood,U.S. Senate,Unexpired Term,,Cindy Hyde-Smith,166
+Scott,Beat 2/Homewood,U.S. Senate,Unexpired Term,,Mike Espy,52
+Scott,Beat 2/Lake,U.S. Senate,Unexpired Term,,Cindy Hyde-Smith,103
+Scott,Beat 2/Lake,U.S. Senate,Unexpired Term,,Mike Espy,92
+Scott,Beat 2/South Forest,U.S. Senate,Unexpired Term,,Cindy Hyde-Smith,208
+Scott,Beat 2/South Forest,U.S. Senate,Unexpired Term,,Mike Espy,421
+Scott,Beat 2/Usry,U.S. Senate,Unexpired Term,,Cindy Hyde-Smith,168
+Scott,Beat 2/Usry,U.S. Senate,Unexpired Term,,Mike Espy,20
+Scott,Beat 3/Cooperville/Springf,U.S. Senate,Unexpired Term,,Cindy Hyde-Smith,409
+Scott,Beat 3/Cooperville/Springf,U.S. Senate,Unexpired Term,,Mike Espy,39
+Scott,Beat 3/Eastwest Morton,U.S. Senate,Unexpired Term,,Cindy Hyde-Smith,449
+Scott,Beat 3/Eastwest Morton,U.S. Senate,Unexpired Term,,Mike Espy,303
+Scott,Beat 3/Northwest Forest,U.S. Senate,Unexpired Term,,Cindy Hyde-Smith,97
+Scott,Beat 3/Northwest Forest,U.S. Senate,Unexpired Term,,Mike Espy,22
+Scott,Beat 3/Pulaski,U.S. Senate,Unexpired Term,,Cindy Hyde-Smith,170
+Scott,Beat 3/Pulaski,U.S. Senate,Unexpired Term,,Mike Espy,39
+Scott,Beat 4/Branch,U.S. Senate,Unexpired Term,,Cindy Hyde-Smith,340
+Scott,Beat 4/Branch,U.S. Senate,Unexpired Term,,Mike Espy,86
+Scott,Beat 4/Clifton,U.S. Senate,Unexpired Term,,Cindy Hyde-Smith,61
+Scott,Beat 4/Clifton,U.S. Senate,Unexpired Term,,Mike Espy,15
+Scott,Beat 4/Contrell,U.S. Senate,Unexpired Term,,Cindy Hyde-Smith,59
+Scott,Beat 4/Contrell,U.S. Senate,Unexpired Term,,Mike Espy,142
+Scott,Beat 4/Forkville,U.S. Senate,Unexpired Term,,Cindy Hyde-Smith,175
+Scott,Beat 4/Forkville,U.S. Senate,Unexpired Term,,Mike Espy,12
+Scott,Beat 4/Ludlow,U.S. Senate,Unexpired Term,,Cindy Hyde-Smith,228
+Scott,Beat 4/Ludlow,U.S. Senate,Unexpired Term,,Mike Espy,125
+Scott,Beat 4/North Morton,U.S. Senate,Unexpired Term,,Cindy Hyde-Smith,162
+Scott,Beat 4/North Morton,U.S. Senate,Unexpired Term,,Mike Espy,361
+Scott,Beat 5/Langs Mill,U.S. Senate,Unexpired Term,,Cindy Hyde-Smith,257
+Scott,Beat 5/Langs Mill,U.S. Senate,Unexpired Term,,Mike Espy,113
+Scott,Beat 5/Northeast Forest,U.S. Senate,Unexpired Term,,Cindy Hyde-Smith,296
+Scott,Beat 5/Northeast Forest,U.S. Senate,Unexpired Term,,Mike Espy,56
+Scott,Beat 5/Salem,U.S. Senate,Unexpired Term,,Cindy Hyde-Smith,136
+Scott,Beat 5/Salem,U.S. Senate,Unexpired Term,,Mike Espy,178
+Scott,Beat 5/Sebastopol,U.S. Senate,Unexpired Term,,Cindy Hyde-Smith,254
+Scott,Beat 5/Sebastopol,U.S. Senate,Unexpired Term,,Mike Espy,17
+Scott,Beat 5/Steele,U.S. Senate,Unexpired Term,,Cindy Hyde-Smith,144
+Scott,Beat 5/Steele,U.S. Senate,Unexpired Term,,Mike Espy,247
+Scott,Total,U.S. Senate,Unexpired Term,,Cindy Hyde-Smith,4429
+Scott,Total,U.S. Senate,Unexpired Term,,Mike Espy,3646

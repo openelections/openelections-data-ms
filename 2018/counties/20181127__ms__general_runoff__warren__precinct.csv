@@ -1,97 +1,57 @@
-Page,candidate,office,district,party,county,precinct,votes,winner
-2,Mike Espy,U.S. Senate,Unexpired Term,,Warren,3-61,39,
-2,Cindy Hyde-Smith,U.S. Senate,Unexpired Term,,Warren,3-61,57,
-2,Jo Ann Collins-Smith,State House,85,,Warren,3-61,X,
-2,Jeffery Harness,State House,85,,Warren,3-61,X,
-2,Mike Espy,U.S. Senate,Unexpired Term,,Warren,American Legion Post,722,
-2,Cindy Hyde-Smith,U.S. Senate,Unexpired Term,,Warren,American Legion Post,143,
-2,Jo Ann Collins-Smith,State House,85,,Warren,American Legion Post,X,
-2,Jeffery Harness,State House,85,,Warren,American Legion Post,X,
-2,Mike Espy,U.S. Senate,Unexpired Term,,Warren,Auditorium,601,
-2,Cindy Hyde-Smith,U.S. Senate,Unexpired Term,,Warren,Auditorium,62,
-2,Jo Ann Collins-Smith,State House,85,,Warren,Auditorium,X,
-2,Jeffery Harness,State House,85,,Warren,Auditorium,X,
-2,Mike Espy,U.S. Senate,Unexpired Term,,Warren,Beechwood,302,
-2,Cindy Hyde-Smith,U.S. Senate,Unexpired Term,,Warren,Beechwood,743,
-2,Jo Ann Collins-Smith,State House,85,,Warren,Beechwood,X,
-2,Jeffery Harness,State House,85,,Warren,Beechwood,X,
-2,Mike Espy,U.S. Senate,Unexpired Term,,Warren,Bovina,187,
-2,Cindy Hyde-Smith,U.S. Senate,Unexpired Term,,Warren,Bovina,541,
-2,Jo Ann Collins-Smith,State House,85,,Warren,Bovina,X,
-2,Jeffery Harness,State House,85,,Warren,Bovina,X,
-2,Mike Espy,U.S. Senate,Unexpired Term,,Warren,Brunswick,29,
-2,Cindy Hyde-Smith,U.S. Senate,Unexpired Term,,Warren,Brunswick,171,
-3,Jo Ann Collins-Smith,State House,85,,Warren,Brunswick,X,
-3,Jeffery Harness,State House,85,,Warren,Brunswick,X,
-3,Mike Espy,U.S. Senate,Unexpired Term,,Warren,Cedar Grove,748,
-3,Cindy Hyde-Smith,U.S. Senate,Unexpired Term,,Warren,Cedar Grove,130,
-3,Jo Ann Collins-Smith,State House,85,,Warren,Cedar Grove,X,
-3,Jeffery Harness,State House,85,,Warren,Cedar Grove,X,
-3,Mike Espy,U.S. Senate,Unexpired Term,,Warren,Cherry Street,779,
-3,Cindy Hyde-Smith,U.S. Senate,Unexpired Term,,Warren,Cherry Street,245,
-3,Jo Ann Collins-Smith,State House,85,,Warren,Cherry Street,X,
-3,Jeffery Harness,State House,85,,Warren,Cherry Street,X,
-3,Mike Espy,U.S. Senate,Unexpired Term,,Warren,Culkin,673,
-3,Cindy Hyde-Smith,U.S. Senate,Unexpired Term,,Warren,Culkin,1314,
-3,Jo Ann Collins-Smith,State House,85,,Warren,Culkin,X,
-3,Jeffery Harness,State House,85,,Warren,Culkin,X,
-3,Mike Espy,U.S. Senate,Unexpired Term,,Warren,Elks Lodge ,479,
-3,Cindy Hyde-Smith,U.S. Senate,Unexpired Term,,Warren,Elks Lodge ,369,
-3,Jo Ann Collins-Smith,State House,85,,Warren,Elks Lodge ,X,
-3,Jeffery Harness,State House,85,,Warren,Elks Lodge ,X,
-3,Mike Espy,U.S. Senate,Unexpired Term,,Warren,Goodrum,177,
-3,Cindy Hyde-Smith,U.S. Senate,Unexpired Term,,Warren,Goodrum,366,
-2,Jo Ann Collins-Smith,State House,85,,Warren,Goodrum,236,
-2,Jeffery Harness,State House,85,,Warren,Goodrum,237,
-3,Mike Espy,U.S. Senate,Unexpired Term,,Warren,Jett ,520,
-3,Cindy Hyde-Smith,U.S. Senate,Unexpired Term,,Warren,Jett ,274,
-3,Jo Ann Collins-Smith,State House,85,,Warren,Jett ,X,
-3,Jeffery Harness,State House,85,,Warren,Jett ,X,
-3,Mike Espy,U.S. Senate,Unexpired Term,,Warren,Kings,362,
-3,Cindy Hyde-Smith,U.S. Senate,Unexpired Term,,Warren,Kings,188,
-3,Jo Ann Collins-Smith,State House,85,,Warren,Kings,X,
-3,Jeffery Harness,State House,85,,Warren,Kings,X,
-3,Mike Espy,U.S. Senate,Unexpired Term,,Warren,Lee Road,246,
-3,Cindy Hyde-Smith,U.S. Senate,Unexpired Term,,Warren,Lee Road,104,
-3,Jo Ann Collins-Smith,State House,85,,Warren,Lee Road,X,
-3,Jeffery Harness,State House,85,,Warren,Lee Road,X,
-3,Mike Espy,U.S. Senate,Unexpired Term,,Warren,Moose Lodge,261,
-3,Cindy Hyde-Smith,U.S. Senate,Unexpired Term,,Warren,Moose Lodge,539,
-3,Jo Ann Collins-Smith,State House,85,,Warren,Moose Lodge,375,
-3,Jeffery Harness,State House,85,,Warren,Moose Lodge,311,
-3,Mike Espy,U.S. Senate,Unexpired Term,,Warren,No. 7 Fire Station,538,
-3,Cindy Hyde-Smith,U.S. Senate,Unexpired Term,,Warren,No. 7 Fire Station,130,
-3,Jo Ann Collins-Smith,State House,85,,Warren,No. 7 Fire Station,X,
-3,Jeffery Harness,State House,85,,Warren,No. 7 Fire Station,X,
-3,Mike Espy,U.S. Senate,Unexpired Term,,Warren,Oakland,118,
-3,Cindy Hyde-Smith,U.S. Senate,Unexpired Term,,Warren,Oakland,439,
-3,Jo Ann Collins-Smith,State House,85,,Warren,Oakland,X,
-3,Jeffery Harness,State House,85,,Warren,Oakland,X,
-3,Mike Espy,U.S. Senate,Unexpired Term,,Warren,Plumbers & Pipefitters,324,
-3,Cindy Hyde-Smith,U.S. Senate,Unexpired Term,,Warren,Plumbers & Pipefitters,390,
-3,Jo Ann Collins-Smith,State House,85,,Warren,Plumbers & Pipefitters,X,
-3,Jeffery Harness,State House,85,,Warren,Plumbers & Pipefitters,X,
-3,Mike Espy,U.S. Senate,Unexpired Term,,Warren,Redwood,32,
-3,Cindy Hyde-Smith,U.S. Senate,Unexpired Term,,Warren,Redwood,167,
-3,Jo Ann Collins-Smith,State House,85,,Warren,Redwood,X,
-3,Jeffery Harness,State House,85,,Warren,Redwood,X,
-3,Mike Espy,U.S. Senate,Unexpired Term,,Warren,St Aloysius,184,
-3,Cindy Hyde-Smith,U.S. Senate,Unexpired Term,,Warren,St Aloysius,6,
-3,Jo Ann Collins-Smith,State House,85,,Warren,St Aloysius,X,
-3,Jeffery Harness,State House,85,,Warren,St Aloysius,X,
-3,Mike Espy,U.S. Senate,Unexpired Term,,Warren,Tingleville,346,
-3,Cindy Hyde-Smith,U.S. Senate,Unexpired Term,,Warren,Tingleville,235,
-3,Jo Ann Collins-Smith,State House,85,,Warren,Tingleville,X,
-3,Jeffery Harness,State House,85,,Warren,Tingleville,X,
-3,Mike Espy,U.S. Senate,Unexpired Term,,Warren,YMCA,168,
-3,Cindy Hyde-Smith,U.S. Senate,Unexpired Term,,Warren,YMCA,230,
-3,Jo Ann Collins-Smith,State House,85,,Warren,YMCA,X,
-3,Jeffery Harness,State House,85,,Warren,YMCA,X,
-4,Mike Espy,U.S. Senate,Unexpired Term,,Warren,Yokena,122,
-4,Cindy Hyde-Smith,U.S. Senate,Unexpired Term,,Warren,Yokena,239,
-4,Jo Ann Collins-Smith,State House,85,,Warren,Yokena,141,
-4,Jeffery Harness,State House,85,,Warren,Yokena,160,
-4,Mike Espy,U.S. Senate,Unexpired Term,,Warren,TOTAL ,7957,
-4,Cindy Hyde-Smith,U.S. Senate,Unexpired Term,,Warren,TOTAL ,7082,
-4,Jo Ann Collins-Smith,State House,85,,Warren,TOTAL ,752,
-4,Jeffery Harness,State House,85,,Warren,TOTAL ,708,
+county,precinct,office,district,party,candidate,votes
+Warren,3-61,U.S. Senate,Unexpired Term,,Cindy Hyde-Smith,57
+Warren,3-61,U.S. Senate,Unexpired Term,,Mike Espy,39
+Warren,American Legion Post,U.S. Senate,Unexpired Term,,Cindy Hyde-Smith,143
+Warren,American Legion Post,U.S. Senate,Unexpired Term,,Mike Espy,722
+Warren,Auditorium,U.S. Senate,Unexpired Term,,Cindy Hyde-Smith,62
+Warren,Auditorium,U.S. Senate,Unexpired Term,,Mike Espy,601
+Warren,Beechwood,U.S. Senate,Unexpired Term,,Cindy Hyde-Smith,743
+Warren,Beechwood,U.S. Senate,Unexpired Term,,Mike Espy,302
+Warren,Bovina,U.S. Senate,Unexpired Term,,Cindy Hyde-Smith,541
+Warren,Bovina,U.S. Senate,Unexpired Term,,Mike Espy,187
+Warren,Brunswick,U.S. Senate,Unexpired Term,,Cindy Hyde-Smith,171
+Warren,Brunswick,U.S. Senate,Unexpired Term,,Mike Espy,29
+Warren,Cedar Grove,U.S. Senate,Unexpired Term,,Cindy Hyde-Smith,130
+Warren,Cedar Grove,U.S. Senate,Unexpired Term,,Mike Espy,748
+Warren,Cherry Street,U.S. Senate,Unexpired Term,,Cindy Hyde-Smith,245
+Warren,Cherry Street,U.S. Senate,Unexpired Term,,Mike Espy,779
+Warren,Culkin,U.S. Senate,Unexpired Term,,Cindy Hyde-Smith,1314
+Warren,Culkin,U.S. Senate,Unexpired Term,,Mike Espy,673
+Warren,Elks Lodge,U.S. Senate,Unexpired Term,,Cindy Hyde-Smith,369
+Warren,Elks Lodge,U.S. Senate,Unexpired Term,,Mike Espy,479
+Warren,Goodrum,State House,85,,Jeffery Harness,237
+Warren,Goodrum,State House,85,,Jo Ann Collins-Smith,236
+Warren,Goodrum,U.S. Senate,Unexpired Term,,Cindy Hyde-Smith,366
+Warren,Goodrum,U.S. Senate,Unexpired Term,,Mike Espy,177
+Warren,Jett,U.S. Senate,Unexpired Term,,Cindy Hyde-Smith,274
+Warren,Jett,U.S. Senate,Unexpired Term,,Mike Espy,520
+Warren,Kings,U.S. Senate,Unexpired Term,,Cindy Hyde-Smith,188
+Warren,Kings,U.S. Senate,Unexpired Term,,Mike Espy,362
+Warren,Lee Road,U.S. Senate,Unexpired Term,,Cindy Hyde-Smith,104
+Warren,Lee Road,U.S. Senate,Unexpired Term,,Mike Espy,246
+Warren,Moose Lodge,State House,85,,Jeffery Harness,311
+Warren,Moose Lodge,State House,85,,Jo Ann Collins-Smith,375
+Warren,Moose Lodge,U.S. Senate,Unexpired Term,,Cindy Hyde-Smith,539
+Warren,Moose Lodge,U.S. Senate,Unexpired Term,,Mike Espy,261
+Warren,No. 7 Fire Station,U.S. Senate,Unexpired Term,,Cindy Hyde-Smith,130
+Warren,No. 7 Fire Station,U.S. Senate,Unexpired Term,,Mike Espy,538
+Warren,Oakland,U.S. Senate,Unexpired Term,,Cindy Hyde-Smith,439
+Warren,Oakland,U.S. Senate,Unexpired Term,,Mike Espy,118
+Warren,Plumbers & Pipefitters,U.S. Senate,Unexpired Term,,Cindy Hyde-Smith,390
+Warren,Plumbers & Pipefitters,U.S. Senate,Unexpired Term,,Mike Espy,324
+Warren,Redwood,U.S. Senate,Unexpired Term,,Cindy Hyde-Smith,167
+Warren,Redwood,U.S. Senate,Unexpired Term,,Mike Espy,32
+Warren,St Aloysius,U.S. Senate,Unexpired Term,,Cindy Hyde-Smith,6
+Warren,St Aloysius,U.S. Senate,Unexpired Term,,Mike Espy,184
+Warren,Tingleville,U.S. Senate,Unexpired Term,,Cindy Hyde-Smith,235
+Warren,Tingleville,U.S. Senate,Unexpired Term,,Mike Espy,346
+Warren,Total,State House,85,,Jeffery Harness,708
+Warren,Total,State House,85,,Jo Ann Collins-Smith,752
+Warren,Total,U.S. Senate,Unexpired Term,,Cindy Hyde-Smith,7082
+Warren,Total,U.S. Senate,Unexpired Term,,Mike Espy,7957
+Warren,YMCA,U.S. Senate,Unexpired Term,,Cindy Hyde-Smith,230
+Warren,YMCA,U.S. Senate,Unexpired Term,,Mike Espy,168
+Warren,Yokena,State House,85,,Jeffery Harness,160
+Warren,Yokena,State House,85,,Jo Ann Collins-Smith,141
+Warren,Yokena,U.S. Senate,Unexpired Term,,Cindy Hyde-Smith,239
+Warren,Yokena,U.S. Senate,Unexpired Term,,Mike Espy,122

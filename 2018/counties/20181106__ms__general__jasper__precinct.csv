@@ -1,430 +1,199 @@
-page,candidate,office,district,party,county,precinct,votes,winner
-2,David Baria,U.S. Senate,,Democrat,Jasper,Antioch,24,
-2,Roger F. Wicker,U.S. Senate,,Republican,Jasper,Antioch,154,
-2,Danny Bedwell,U.S. Senate,,Libertarian,Jasper,Antioch,5,
-2,Shawn O'Hara,U.S. Senate,,Reform,Jasper,Antioch,1,
-2,Tobey Bernard Bartee,U.S. Senate,Unexpired Term,,Jasper,Antioch,1,
-2,Mike Espy,U.S. Senate,Unexpired Term,,Jasper,Antioch,26,
-2,Cindy Hyde-Smith,U.S. Senate,Unexpired Term,,Jasper,Antioch,85,
-2,Chris McDaniel,U.S. Senate,Unexpired Term,,Jasper,Antioch,80,
-2,Michael Ted Evans,U.S. House,3,Democrat,Jasper,Antioch,33,
-2,Michael Guest,U.S. House,3,Republican,Jasper,Antioch,154,
-2,Matthew Holland,U.S. House,3,Reform,Jasper,Antioch,1,
-2,David Baria,U.S. Senate,,Democrat,Jasper,Bay Springs Beat 3,299,
-2,Roger F. Wicker,U.S. Senate,,Republican,Jasper,Bay Springs Beat 3,267,
-2,Danny Bedwell,U.S. Senate,,Libertarian,Jasper,Bay Springs Beat 3,4,
-2,Shawn O'Hara,U.S. Senate,,Reform,Jasper,Bay Springs Beat 3,7,
-2,Tobey Bernard Bartee,U.S. Senate,Unexpired Term,,Jasper,Bay Springs Beat 3,11,
-2,Mike Espy,U.S. Senate,Unexpired Term,,Jasper,Bay Springs Beat 3,305,
-2,Cindy Hyde-Smith,U.S. Senate,Unexpired Term,,Jasper,Bay Springs Beat 3,133,
-2,Chris McDaniel,U.S. Senate,Unexpired Term,,Jasper,Bay Springs Beat 3,147,
-2,Michael Ted Evans,U.S. House,3,Democrat,Jasper,Bay Springs Beat 3,329,
-2,Michael Guest,U.S. House,3,Republican,Jasper,Bay Springs Beat 3,256,
-2,Matthew Holland,U.S. House,3,Reform,Jasper,Bay Springs Beat 3,10,
-2,David Baria,U.S. Senate,,Democrat,Jasper,Bay Springs Beat 4,267,
-2,Roger F. Wicker,U.S. Senate,,Republican,Jasper,Bay Springs Beat 4,245,
-2,Danny Bedwell,U.S. Senate,,Libertarian,Jasper,Bay Springs Beat 4,3,
-2,Shawn O'Hara,U.S. Senate,,Reform,Jasper,Bay Springs Beat 4,5,
-2,Tobey Bernard Bartee,U.S. Senate,Unexpired Term,,Jasper,Bay Springs Beat 4,8,
-2,Mike Espy,U.S. Senate,Unexpired Term,,Jasper,Bay Springs Beat 4,285,
-2,Cindy Hyde-Smith,U.S. Senate,Unexpired Term,,Jasper,Bay Springs Beat 4,109,
-2,Chris McDaniel,U.S. Senate,Unexpired Term,,Jasper,Bay Springs Beat 4,139,
-2,Michael Ted Evans,U.S. House,3,Democrat,Jasper,Bay Springs Beat 4,302,
-2,Michael Guest,U.S. House,3,Republican,Jasper,Bay Springs Beat 4,234,
-2,Matthew Holland,U.S. House,3,Reform,Jasper,Bay Springs Beat 4,7,
-2,David Baria,U.S. Senate,,Democrat,Jasper,Claiborne,208,
-2,Roger F. Wicker,U.S. Senate,,Republican,Jasper,Claiborne,134,
-2,Danny Bedwell,U.S. Senate,,Libertarian,Jasper,Claiborne,4,
-2,Shawn O'Hara,U.S. Senate,,Reform,Jasper,Claiborne,5,
-2,Tobey Bernard Bartee,U.S. Senate,Unexpired Term,,Jasper,Claiborne,5,
-2,Mike Espy,U.S. Senate,Unexpired Term,,Jasper,Claiborne,210,
-2,Cindy Hyde-Smith,U.S. Senate,Unexpired Term,,Jasper,Claiborne,49,
-2,Chris McDaniel,U.S. Senate,Unexpired Term,,Jasper,Claiborne,96,
-2,Michael Ted Evans,U.S. House,3,Democrat,Jasper,Claiborne,223,
-2,Michael Guest,U.S. House,3,Republican,Jasper,Claiborne,133,
-2,Matthew Holland,U.S. House,3,Reform,Jasper,Claiborne,2,
-2,David Baria,U.S. Senate,,Democrat,Jasper,Fellowship,6,
-2,Roger F. Wicker,U.S. Senate,,Republican,Jasper,Fellowship,64,
-2,Danny Bedwell,U.S. Senate,,Libertarian,Jasper,Fellowship,0,
-2,Shawn O'Hara,U.S. Senate,,Reform,Jasper,Fellowship,0,
-2,Tobey Bernard Bartee,U.S. Senate,Unexpired Term,,Jasper,Fellowship,0,
-2,Mike Espy,U.S. Senate,Unexpired Term,,Jasper,Fellowship,7,
-2,Cindy Hyde-Smith,U.S. Senate,Unexpired Term,,Jasper,Fellowship,50,
-2,Chris McDaniel,U.S. Senate,Unexpired Term,,Jasper,Fellowship,15,
-2,Michael Ted Evans,U.S. House,3,Democrat,Jasper,Fellowship,6,
-2,Michael Guest,U.S. House,3,Republican,Jasper,Fellowship,64,
-2,Matthew Holland,U.S. House,3,Reform,Jasper,Fellowship,1,
-2,David Baria,U.S. Senate,,Democrat,Jasper,Heidelberg,633,
-2,Roger F. Wicker,U.S. Senate,,Republican,Jasper,Heidelberg,108,
-2,Danny Bedwell,U.S. Senate,,Libertarian,Jasper,Heidelberg,7,
-2,Shawn O'Hara,U.S. Senate,,Reform,Jasper,Heidelberg,8,
-2,Tobey Bernard Bartee,U.S. Senate,Unexpired Term,,Jasper,Heidelberg,38,
-2,Mike Espy,U.S. Senate,Unexpired Term,,Jasper,Heidelberg,627,
-2,Cindy Hyde-Smith,U.S. Senate,Unexpired Term,,Jasper,Heidelberg,55,
-2,Chris McDaniel,U.S. Senate,Unexpired Term,,Jasper,Heidelberg,55,
-2,Michael Ted Evans,U.S. House,3,Democrat,Jasper,Heidelberg,669,
-2,Michael Guest,U.S. House,3,Republican,Jasper,Heidelberg,97,
-2,Matthew Holland,U.S. House,3,Reform,Jasper,Heidelberg,8,
-2,David Baria,U.S. Senate,,Democrat,Jasper,Holders,177,
-2,Roger F. Wicker,U.S. Senate,,Republican,Jasper,Holders,206,
-2,Danny Bedwell,U.S. Senate,,Libertarian,Jasper,Holders,1,
-2,Shawn O'Hara,U.S. Senate,,Reform,Jasper,Holders,7,
-2,Tobey Bernard Bartee,U.S. Senate,Unexpired Term,,Jasper,Holders,9,
-2,Mike Espy,U.S. Senate,Unexpired Term,,Jasper,Holders,193,
-2,Cindy Hyde-Smith,U.S. Senate,Unexpired Term,,Jasper,Holders,107,
-2,Chris McDaniel,U.S. Senate,Unexpired Term,,Jasper,Holders,95,
-2,Michael Ted Evans,U.S. House,3,Democrat,Jasper,Holders,197,
-2,Michael Guest,U.S. House,3,Republican,Jasper,Holders,198,
-2,Matthew Holland,U.S. House,3,Reform,Jasper,Holders,3,
-2,David Baria,U.S. Senate,,Democrat,Jasper,Louin,222,
-2,Roger F. Wicker,U.S. Senate,,Republican,Jasper,Louin,192,
-2,Danny Bedwell,U.S. Senate,,Libertarian,Jasper,Louin,6,
-2,Shawn O'Hara,U.S. Senate,,Reform,Jasper,Louin,6,
-2,Tobey Bernard Bartee,U.S. Senate,Unexpired Term,,Jasper,Louin,6,
-2,Mike Espy,U.S. Senate,Unexpired Term,,Jasper,Louin,229,
-2,Cindy Hyde-Smith,U.S. Senate,Unexpired Term,,Jasper,Louin,111,
-2,Chris McDaniel,U.S. Senate,Unexpired Term,,Jasper,Louin,92,
-2,Michael Ted Evans,U.S. House,3,Democrat,Jasper,Louin,233,
-2,Michael Guest,U.S. House,3,Republican,Jasper,Louin,189,
-2,Matthew Holland,U.S. House,3,Reform,Jasper,Louin,12,
-2,David Baria,U.S. Senate,,Democrat,Jasper,Midway,127,
-2,Roger F. Wicker,U.S. Senate,,Republican,Jasper,Midway,88,
-2,Danny Bedwell,U.S. Senate,,Libertarian,Jasper,Midway,2,
-2,Shawn O'Hara,U.S. Senate,,Reform,Jasper,Midway,1,
-2,Tobey Bernard Bartee,U.S. Senate,Unexpired Term,,Jasper,Midway,10,
-2,Mike Espy,U.S. Senate,Unexpired Term,,Jasper,Midway,117,
-2,Cindy Hyde-Smith,U.S. Senate,Unexpired Term,,Jasper,Midway,59,
-2,Chris McDaniel,U.S. Senate,Unexpired Term,,Jasper,Midway,33,
-2,Michael Ted Evans,U.S. House,3,Democrat,Jasper,Midway,136,
-2,Michael Guest,U.S. House,3,Republican,Jasper,Midway,86,
-2,Matthew Holland,U.S. House,3,Reform,Jasper,Midway,2,
-2,David Baria,U.S. Senate,,Democrat,Jasper,Montrose,109,
-2,Roger F. Wicker,U.S. Senate,,Republican,Jasper,Montrose,115,
-2,Danny Bedwell,U.S. Senate,,Libertarian,Jasper,Montrose,2,
-2,Shawn O'Hara,U.S. Senate,,Reform,Jasper,Montrose,3,
-2,Tobey Bernard Bartee,U.S. Senate,Unexpired Term,,Jasper,Montrose,4,
-2,Mike Espy,U.S. Senate,Unexpired Term,,Jasper,Montrose,116,
-2,Cindy Hyde-Smith,U.S. Senate,Unexpired Term,,Jasper,Montrose,68,
-2,Chris McDaniel,U.S. Senate,Unexpired Term,,Jasper,Montrose,51,
-2,Michael Ted Evans,U.S. House,3,Democrat,Jasper,Montrose,123,
-2,Michael Guest,U.S. House,3,Republican,Jasper,Montrose,113,
-2,Matthew Holland,U.S. House,3,Reform,Jasper,Montrose,4,
-2,David Baria,U.S. Senate,,Democrat,Jasper,Moss,109,
-2,Roger F. Wicker,U.S. Senate,,Republican,Jasper,Moss,404,
-2,Danny Bedwell,U.S. Senate,,Libertarian,Jasper,Moss,6,
-2,Shawn O'Hara,U.S. Senate,,Reform,Jasper,Moss,5,
-2,Tobey Bernard Bartee,U.S. Senate,Unexpired Term,,Jasper,Moss,6,
-2,Mike Espy,U.S. Senate,Unexpired Term,,Jasper,Moss,114,
-2,Cindy Hyde-Smith,U.S. Senate,Unexpired Term,,Jasper,Moss,149,
-2,Chris McDaniel,U.S. Senate,Unexpired Term,,Jasper,Moss,272,
-2,Michael Ted Evans,U.S. House,3,Democrat,Jasper,Moss,141,
-2,Michael Guest,U.S. House,3,Republican,Jasper,Moss,394,
-2,Matthew Holland,U.S. House,3,Reform,Jasper,Moss,6,
-3,David Baria,U.S. Senate,,Democrat,Jasper,Palestine,49,
-3,Roger F. Wicker,U.S. Senate,,Republican,Jasper,Palestine,5,
-3,Danny Bedwell,U.S. Senate,,Libertarian,Jasper,Palestine,1,
-3,Shawn O'Hara,U.S. Senate,,Reform,Jasper,Palestine,2,
-3,Tobey Bernard Bartee,U.S. Senate,Unexpired Term,,Jasper,Palestine,1,
-3,Mike Espy,U.S. Senate,Unexpired Term,,Jasper,Palestine,47,
-3,Cindy Hyde-Smith,U.S. Senate,Unexpired Term,,Jasper,Palestine,10,
-3,Chris McDaniel,U.S. Senate,Unexpired Term,,Jasper,Palestine,1,
-3,Michael Ted Evans,U.S. House,3,Democrat,Jasper,Palestine,49,
-3,Michael Guest,U.S. House,3,Republican,Jasper,Palestine,9,
-3,Matthew Holland,U.S. House,3,Reform,Jasper,Palestine,0,
-3,David Baria,U.S. Senate,,Democrat,Jasper,Paulding,398,
-3,Roger F. Wicker,U.S. Senate,,Republican,Jasper,Paulding,194,
-3,Danny Bedwell,U.S. Senate,,Libertarian,Jasper,Paulding,3,
-3,Shawn O'Hara,U.S. Senate,,Reform,Jasper,Paulding,4,
-3,Tobey Bernard Bartee,U.S. Senate,Unexpired Term,,Jasper,Paulding,28,
-3,Mike Espy,U.S. Senate,Unexpired Term,,Jasper,Paulding,379,
-3,Cindy Hyde-Smith,U.S. Senate,Unexpired Term,,Jasper,Paulding,123,
-3,Chris McDaniel,U.S. Senate,Unexpired Term,,Jasper,Paulding,77,
-3,Michael Ted Evans,U.S. House,3,Democrat,Jasper,Paulding,416,
-3,Michael Guest,U.S. House,3,Republican,Jasper,Paulding,193,
-3,Matthew Holland,U.S. House,3,Reform,Jasper,Paulding,5,
-3,David Baria,U.S. Senate,,Democrat,Jasper,Philadelphia,191,
-3,Roger F. Wicker,U.S. Senate,,Republican,Jasper,Philadelphia,48,
-3,Danny Bedwell,U.S. Senate,,Libertarian,Jasper,Philadelphia,2,
-3,Shawn O'Hara,U.S. Senate,,Reform,Jasper,Philadelphia,3,
-3,Tobey Bernard Bartee,U.S. Senate,Unexpired Term,,Jasper,Philadelphia,5,
-3,Mike Espy,U.S. Senate,Unexpired Term,,Jasper,Philadelphia,192,
-3,Cindy Hyde-Smith,U.S. Senate,Unexpired Term,,Jasper,Philadelphia,15,
-3,Chris McDaniel,U.S. Senate,Unexpired Term,,Jasper,Philadelphia,33,
-3,Michael Ted Evans,U.S. House,3,Democrat,Jasper,Philadelphia,193,
-3,Michael Guest,U.S. House,3,Republican,Jasper,Philadelphia,47,
-3,Matthew Holland,U.S. House,3,Reform,Jasper,Philadelphia,4,
-3,David Baria,U.S. Senate,,Democrat,Jasper,Rose Hill,118,
-3,Roger F. Wicker,U.S. Senate,,Republican,Jasper,Rose Hill,152,
-3,Danny Bedwell,U.S. Senate,,Libertarian,Jasper,Rose Hill,5,
-3,Shawn O'Hara,U.S. Senate,,Reform,Jasper,Rose Hill,1,
-3,Tobey Bernard Bartee,U.S. Senate,Unexpired Term,,Jasper,Rose Hill,12,
-3,Mike Espy,U.S. Senate,Unexpired Term,,Jasper,Rose Hill,106,
-3,Cindy Hyde-Smith,U.S. Senate,Unexpired Term,,Jasper,Rose Hill,103,
-3,Chris McDaniel,U.S. Senate,Unexpired Term,,Jasper,Rose Hill,55,
-3,Michael Ted Evans,U.S. House,3,Democrat,Jasper,Rose Hill,120,
-3,Michael Guest,U.S. House,3,Republican,Jasper,Rose Hill,150,
-3,Matthew Holland,U.S. House,3,Reform,Jasper,Rose Hill,3,
-3,David Baria,U.S. Senate,,Democrat,Jasper,Stringer,68,
-3,Roger F. Wicker,U.S. Senate,,Republican,Jasper,Stringer,600,
-3,Danny Bedwell,U.S. Senate,,Libertarian,Jasper,Stringer,6,
-3,Shawn O'Hara,U.S. Senate,,Reform,Jasper,Stringer,10,
-3,Tobey Bernard Bartee,U.S. Senate,Unexpired Term,,Jasper,Stringer,3,
-3,Mike Espy,U.S. Senate,Unexpired Term,,Jasper,Stringer,59,
-3,Cindy Hyde-Smith,U.S. Senate,Unexpired Term,,Jasper,Stringer,235,
-3,Chris McDaniel,U.S. Senate,Unexpired Term,,Jasper,Stringer,419,
-3,Michael Ted Evans,U.S. House,3,Democrat,Jasper,Stringer,93,
-3,Michael Guest,U.S. House,3,Republican,Jasper,Stringer,603,
-3,Matthew Holland,U.S. House,3,Reform,Jasper,Stringer,11,
-3,David Baria,U.S. Senate,,Democrat,Jasper,Vossburg ,144,
-3,Roger F. Wicker,U.S. Senate,,Republican,Jasper,Vossburg ,12,
-3,Danny Bedwell,U.S. Senate,,Libertarian,Jasper,Vossburg ,1,
-3,Shawn O'Hara,U.S. Senate,,Reform,Jasper,Vossburg ,4,
-3,Tobey Bernard Bartee,U.S. Senate,Unexpired Term,,Jasper,Vossburg ,21,
-3,Mike Espy,U.S. Senate,Unexpired Term,,Jasper,Vossburg ,133,
-3,Cindy Hyde-Smith,U.S. Senate,Unexpired Term,,Jasper,Vossburg ,7,
-3,Chris McDaniel,U.S. Senate,Unexpired Term,,Jasper,Vossburg ,10,
-3,Michael Ted Evans,U.S. House,3,Democrat,Jasper,Vossburg ,153,
-3,Michael Guest,U.S. House,3,Republican,Jasper,Vossburg ,11,
-3,Matthew Holland,U.S. House,3,Reform,Jasper,Vossburg ,3,
-3,David Baria,U.S. Senate,,Democrat,Jasper,TOTAL ,3149,
-3,Roger F. Wicker,U.S. Senate,,Republican,Jasper,TOTAL ,2988,
-3,Danny Bedwell,U.S. Senate,,Libertarian,Jasper,TOTAL ,58,
-3,Shawn O'Hara,U.S. Senate,,Reform,Jasper,TOTAL ,72,
-3,Tobey Bernard Bartee,U.S. Senate,Unexpired Term,,Jasper,TOTAL ,168,
-3,Mike Espy,U.S. Senate,Unexpired Term,,Jasper,TOTAL ,3145,
-3,Cindy Hyde-Smith,U.S. Senate,Unexpired Term,,Jasper,TOTAL ,1468,
-3,Chris McDaniel,U.S. Senate,Unexpired Term,,Jasper,TOTAL ,1670,
-3,Michael Ted Evans,U.S. House,3,Democrat,Jasper,TOTAL ,3416,
-3,Michael Guest,U.S. House,3,Republican,Jasper,TOTAL ,2931,
-3,Matthew Holland,U.S. House,3,Reform,Jasper,TOTAL ,82,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
+county,precinct,office,district,party,candidate,votes
+Jasper,Antioch,U.S. House,3,DEM,Michael Ted Evans,33
+Jasper,Antioch,U.S. House,3,REF,Matthew Holland,1
+Jasper,Antioch,U.S. House,3,REP,Michael Guest,154
+Jasper,Antioch,U.S. Senate,Unexpired Term,,Chris McDaniel,80
+Jasper,Antioch,U.S. Senate,Unexpired Term,,Cindy Hyde-Smith,85
+Jasper,Antioch,U.S. Senate,Unexpired Term,,Mike Espy,26
+Jasper,Antioch,U.S. Senate,Unexpired Term,,Tobey Bernard Bartee,1
+Jasper,Antioch,U.S. Senate,,DEM,David Baria,24
+Jasper,Antioch,U.S. Senate,,LIB,Danny Bedwell,5
+Jasper,Antioch,U.S. Senate,,REF,Shawn O'Hara,1
+Jasper,Antioch,U.S. Senate,,REP,Roger F. Wicker,154
+Jasper,Bay Springs Beat 3,U.S. House,3,DEM,Michael Ted Evans,329
+Jasper,Bay Springs Beat 3,U.S. House,3,REF,Matthew Holland,10
+Jasper,Bay Springs Beat 3,U.S. House,3,REP,Michael Guest,256
+Jasper,Bay Springs Beat 3,U.S. Senate,Unexpired Term,,Chris McDaniel,147
+Jasper,Bay Springs Beat 3,U.S. Senate,Unexpired Term,,Cindy Hyde-Smith,133
+Jasper,Bay Springs Beat 3,U.S. Senate,Unexpired Term,,Mike Espy,305
+Jasper,Bay Springs Beat 3,U.S. Senate,Unexpired Term,,Tobey Bernard Bartee,11
+Jasper,Bay Springs Beat 3,U.S. Senate,,DEM,David Baria,299
+Jasper,Bay Springs Beat 3,U.S. Senate,,LIB,Danny Bedwell,4
+Jasper,Bay Springs Beat 3,U.S. Senate,,REF,Shawn O'Hara,7
+Jasper,Bay Springs Beat 3,U.S. Senate,,REP,Roger F. Wicker,267
+Jasper,Bay Springs Beat 4,U.S. House,3,DEM,Michael Ted Evans,302
+Jasper,Bay Springs Beat 4,U.S. House,3,REF,Matthew Holland,7
+Jasper,Bay Springs Beat 4,U.S. House,3,REP,Michael Guest,234
+Jasper,Bay Springs Beat 4,U.S. Senate,Unexpired Term,,Chris McDaniel,139
+Jasper,Bay Springs Beat 4,U.S. Senate,Unexpired Term,,Cindy Hyde-Smith,109
+Jasper,Bay Springs Beat 4,U.S. Senate,Unexpired Term,,Mike Espy,285
+Jasper,Bay Springs Beat 4,U.S. Senate,Unexpired Term,,Tobey Bernard Bartee,8
+Jasper,Bay Springs Beat 4,U.S. Senate,,DEM,David Baria,267
+Jasper,Bay Springs Beat 4,U.S. Senate,,LIB,Danny Bedwell,3
+Jasper,Bay Springs Beat 4,U.S. Senate,,REF,Shawn O'Hara,5
+Jasper,Bay Springs Beat 4,U.S. Senate,,REP,Roger F. Wicker,245
+Jasper,Claiborne,U.S. House,3,DEM,Michael Ted Evans,223
+Jasper,Claiborne,U.S. House,3,REF,Matthew Holland,2
+Jasper,Claiborne,U.S. House,3,REP,Michael Guest,133
+Jasper,Claiborne,U.S. Senate,Unexpired Term,,Chris McDaniel,96
+Jasper,Claiborne,U.S. Senate,Unexpired Term,,Cindy Hyde-Smith,49
+Jasper,Claiborne,U.S. Senate,Unexpired Term,,Mike Espy,210
+Jasper,Claiborne,U.S. Senate,Unexpired Term,,Tobey Bernard Bartee,5
+Jasper,Claiborne,U.S. Senate,,DEM,David Baria,208
+Jasper,Claiborne,U.S. Senate,,LIB,Danny Bedwell,4
+Jasper,Claiborne,U.S. Senate,,REF,Shawn O'Hara,5
+Jasper,Claiborne,U.S. Senate,,REP,Roger F. Wicker,134
+Jasper,Fellowship,U.S. House,3,DEM,Michael Ted Evans,6
+Jasper,Fellowship,U.S. House,3,REF,Matthew Holland,1
+Jasper,Fellowship,U.S. House,3,REP,Michael Guest,64
+Jasper,Fellowship,U.S. Senate,Unexpired Term,,Chris McDaniel,15
+Jasper,Fellowship,U.S. Senate,Unexpired Term,,Cindy Hyde-Smith,50
+Jasper,Fellowship,U.S. Senate,Unexpired Term,,Mike Espy,7
+Jasper,Fellowship,U.S. Senate,Unexpired Term,,Tobey Bernard Bartee,0
+Jasper,Fellowship,U.S. Senate,,DEM,David Baria,6
+Jasper,Fellowship,U.S. Senate,,LIB,Danny Bedwell,0
+Jasper,Fellowship,U.S. Senate,,REF,Shawn O'Hara,0
+Jasper,Fellowship,U.S. Senate,,REP,Roger F. Wicker,64
+Jasper,Heidelberg,U.S. House,3,DEM,Michael Ted Evans,669
+Jasper,Heidelberg,U.S. House,3,REF,Matthew Holland,8
+Jasper,Heidelberg,U.S. House,3,REP,Michael Guest,97
+Jasper,Heidelberg,U.S. Senate,Unexpired Term,,Chris McDaniel,55
+Jasper,Heidelberg,U.S. Senate,Unexpired Term,,Cindy Hyde-Smith,55
+Jasper,Heidelberg,U.S. Senate,Unexpired Term,,Mike Espy,627
+Jasper,Heidelberg,U.S. Senate,Unexpired Term,,Tobey Bernard Bartee,38
+Jasper,Heidelberg,U.S. Senate,,DEM,David Baria,633
+Jasper,Heidelberg,U.S. Senate,,LIB,Danny Bedwell,7
+Jasper,Heidelberg,U.S. Senate,,REF,Shawn O'Hara,8
+Jasper,Heidelberg,U.S. Senate,,REP,Roger F. Wicker,108
+Jasper,Holders,U.S. House,3,DEM,Michael Ted Evans,197
+Jasper,Holders,U.S. House,3,REF,Matthew Holland,3
+Jasper,Holders,U.S. House,3,REP,Michael Guest,198
+Jasper,Holders,U.S. Senate,Unexpired Term,,Chris McDaniel,95
+Jasper,Holders,U.S. Senate,Unexpired Term,,Cindy Hyde-Smith,107
+Jasper,Holders,U.S. Senate,Unexpired Term,,Mike Espy,193
+Jasper,Holders,U.S. Senate,Unexpired Term,,Tobey Bernard Bartee,9
+Jasper,Holders,U.S. Senate,,DEM,David Baria,177
+Jasper,Holders,U.S. Senate,,LIB,Danny Bedwell,1
+Jasper,Holders,U.S. Senate,,REF,Shawn O'Hara,7
+Jasper,Holders,U.S. Senate,,REP,Roger F. Wicker,206
+Jasper,Louin,U.S. House,3,DEM,Michael Ted Evans,233
+Jasper,Louin,U.S. House,3,REF,Matthew Holland,12
+Jasper,Louin,U.S. House,3,REP,Michael Guest,189
+Jasper,Louin,U.S. Senate,Unexpired Term,,Chris McDaniel,92
+Jasper,Louin,U.S. Senate,Unexpired Term,,Cindy Hyde-Smith,111
+Jasper,Louin,U.S. Senate,Unexpired Term,,Mike Espy,229
+Jasper,Louin,U.S. Senate,Unexpired Term,,Tobey Bernard Bartee,6
+Jasper,Louin,U.S. Senate,,DEM,David Baria,222
+Jasper,Louin,U.S. Senate,,LIB,Danny Bedwell,6
+Jasper,Louin,U.S. Senate,,REF,Shawn O'Hara,6
+Jasper,Louin,U.S. Senate,,REP,Roger F. Wicker,192
+Jasper,Midway,U.S. House,3,DEM,Michael Ted Evans,136
+Jasper,Midway,U.S. House,3,REF,Matthew Holland,2
+Jasper,Midway,U.S. House,3,REP,Michael Guest,86
+Jasper,Midway,U.S. Senate,Unexpired Term,,Chris McDaniel,33
+Jasper,Midway,U.S. Senate,Unexpired Term,,Cindy Hyde-Smith,59
+Jasper,Midway,U.S. Senate,Unexpired Term,,Mike Espy,117
+Jasper,Midway,U.S. Senate,Unexpired Term,,Tobey Bernard Bartee,10
+Jasper,Midway,U.S. Senate,,DEM,David Baria,127
+Jasper,Midway,U.S. Senate,,LIB,Danny Bedwell,2
+Jasper,Midway,U.S. Senate,,REF,Shawn O'Hara,1
+Jasper,Midway,U.S. Senate,,REP,Roger F. Wicker,88
+Jasper,Montrose,U.S. House,3,DEM,Michael Ted Evans,123
+Jasper,Montrose,U.S. House,3,REF,Matthew Holland,4
+Jasper,Montrose,U.S. House,3,REP,Michael Guest,113
+Jasper,Montrose,U.S. Senate,Unexpired Term,,Chris McDaniel,51
+Jasper,Montrose,U.S. Senate,Unexpired Term,,Cindy Hyde-Smith,68
+Jasper,Montrose,U.S. Senate,Unexpired Term,,Mike Espy,116
+Jasper,Montrose,U.S. Senate,Unexpired Term,,Tobey Bernard Bartee,4
+Jasper,Montrose,U.S. Senate,,DEM,David Baria,109
+Jasper,Montrose,U.S. Senate,,LIB,Danny Bedwell,2
+Jasper,Montrose,U.S. Senate,,REF,Shawn O'Hara,3
+Jasper,Montrose,U.S. Senate,,REP,Roger F. Wicker,115
+Jasper,Moss,U.S. House,3,DEM,Michael Ted Evans,141
+Jasper,Moss,U.S. House,3,REF,Matthew Holland,6
+Jasper,Moss,U.S. House,3,REP,Michael Guest,394
+Jasper,Moss,U.S. Senate,Unexpired Term,,Chris McDaniel,272
+Jasper,Moss,U.S. Senate,Unexpired Term,,Cindy Hyde-Smith,149
+Jasper,Moss,U.S. Senate,Unexpired Term,,Mike Espy,114
+Jasper,Moss,U.S. Senate,Unexpired Term,,Tobey Bernard Bartee,6
+Jasper,Moss,U.S. Senate,,DEM,David Baria,109
+Jasper,Moss,U.S. Senate,,LIB,Danny Bedwell,6
+Jasper,Moss,U.S. Senate,,REF,Shawn O'Hara,5
+Jasper,Moss,U.S. Senate,,REP,Roger F. Wicker,404
+Jasper,Palestine,U.S. House,3,DEM,Michael Ted Evans,49
+Jasper,Palestine,U.S. House,3,REF,Matthew Holland,0
+Jasper,Palestine,U.S. House,3,REP,Michael Guest,9
+Jasper,Palestine,U.S. Senate,Unexpired Term,,Chris McDaniel,1
+Jasper,Palestine,U.S. Senate,Unexpired Term,,Cindy Hyde-Smith,10
+Jasper,Palestine,U.S. Senate,Unexpired Term,,Mike Espy,47
+Jasper,Palestine,U.S. Senate,Unexpired Term,,Tobey Bernard Bartee,1
+Jasper,Palestine,U.S. Senate,,DEM,David Baria,49
+Jasper,Palestine,U.S. Senate,,LIB,Danny Bedwell,1
+Jasper,Palestine,U.S. Senate,,REF,Shawn O'Hara,2
+Jasper,Palestine,U.S. Senate,,REP,Roger F. Wicker,5
+Jasper,Paulding,U.S. House,3,DEM,Michael Ted Evans,416
+Jasper,Paulding,U.S. House,3,REF,Matthew Holland,5
+Jasper,Paulding,U.S. House,3,REP,Michael Guest,193
+Jasper,Paulding,U.S. Senate,Unexpired Term,,Chris McDaniel,77
+Jasper,Paulding,U.S. Senate,Unexpired Term,,Cindy Hyde-Smith,123
+Jasper,Paulding,U.S. Senate,Unexpired Term,,Mike Espy,379
+Jasper,Paulding,U.S. Senate,Unexpired Term,,Tobey Bernard Bartee,28
+Jasper,Paulding,U.S. Senate,,DEM,David Baria,398
+Jasper,Paulding,U.S. Senate,,LIB,Danny Bedwell,3
+Jasper,Paulding,U.S. Senate,,REF,Shawn O'Hara,4
+Jasper,Paulding,U.S. Senate,,REP,Roger F. Wicker,194
+Jasper,Philadelphia,U.S. House,3,DEM,Michael Ted Evans,193
+Jasper,Philadelphia,U.S. House,3,REF,Matthew Holland,4
+Jasper,Philadelphia,U.S. House,3,REP,Michael Guest,47
+Jasper,Philadelphia,U.S. Senate,Unexpired Term,,Chris McDaniel,33
+Jasper,Philadelphia,U.S. Senate,Unexpired Term,,Cindy Hyde-Smith,15
+Jasper,Philadelphia,U.S. Senate,Unexpired Term,,Mike Espy,192
+Jasper,Philadelphia,U.S. Senate,Unexpired Term,,Tobey Bernard Bartee,5
+Jasper,Philadelphia,U.S. Senate,,DEM,David Baria,191
+Jasper,Philadelphia,U.S. Senate,,LIB,Danny Bedwell,2
+Jasper,Philadelphia,U.S. Senate,,REF,Shawn O'Hara,3
+Jasper,Philadelphia,U.S. Senate,,REP,Roger F. Wicker,48
+Jasper,Rose Hill,U.S. House,3,DEM,Michael Ted Evans,120
+Jasper,Rose Hill,U.S. House,3,REF,Matthew Holland,3
+Jasper,Rose Hill,U.S. House,3,REP,Michael Guest,150
+Jasper,Rose Hill,U.S. Senate,Unexpired Term,,Chris McDaniel,55
+Jasper,Rose Hill,U.S. Senate,Unexpired Term,,Cindy Hyde-Smith,103
+Jasper,Rose Hill,U.S. Senate,Unexpired Term,,Mike Espy,106
+Jasper,Rose Hill,U.S. Senate,Unexpired Term,,Tobey Bernard Bartee,12
+Jasper,Rose Hill,U.S. Senate,,DEM,David Baria,118
+Jasper,Rose Hill,U.S. Senate,,LIB,Danny Bedwell,5
+Jasper,Rose Hill,U.S. Senate,,REF,Shawn O'Hara,1
+Jasper,Rose Hill,U.S. Senate,,REP,Roger F. Wicker,152
+Jasper,Stringer,U.S. House,3,DEM,Michael Ted Evans,93
+Jasper,Stringer,U.S. House,3,REF,Matthew Holland,11
+Jasper,Stringer,U.S. House,3,REP,Michael Guest,603
+Jasper,Stringer,U.S. Senate,Unexpired Term,,Chris McDaniel,419
+Jasper,Stringer,U.S. Senate,Unexpired Term,,Cindy Hyde-Smith,235
+Jasper,Stringer,U.S. Senate,Unexpired Term,,Mike Espy,59
+Jasper,Stringer,U.S. Senate,Unexpired Term,,Tobey Bernard Bartee,3
+Jasper,Stringer,U.S. Senate,,DEM,David Baria,68
+Jasper,Stringer,U.S. Senate,,LIB,Danny Bedwell,6
+Jasper,Stringer,U.S. Senate,,REF,Shawn O'Hara,10
+Jasper,Stringer,U.S. Senate,,REP,Roger F. Wicker,600
+Jasper,Total,U.S. House,3,DEM,Michael Ted Evans,3416
+Jasper,Total,U.S. House,3,REF,Matthew Holland,82
+Jasper,Total,U.S. House,3,REP,Michael Guest,2931
+Jasper,Total,U.S. Senate,Unexpired Term,,Chris McDaniel,1670
+Jasper,Total,U.S. Senate,Unexpired Term,,Cindy Hyde-Smith,1468
+Jasper,Total,U.S. Senate,Unexpired Term,,Mike Espy,3145
+Jasper,Total,U.S. Senate,Unexpired Term,,Tobey Bernard Bartee,168
+Jasper,Total,U.S. Senate,,DEM,David Baria,3149
+Jasper,Total,U.S. Senate,,LIB,Danny Bedwell,58
+Jasper,Total,U.S. Senate,,REF,Shawn O'Hara,72
+Jasper,Total,U.S. Senate,,REP,Roger F. Wicker,2988
+Jasper,Vossburg,U.S. House,3,DEM,Michael Ted Evans,153
+Jasper,Vossburg,U.S. House,3,REF,Matthew Holland,3
+Jasper,Vossburg,U.S. House,3,REP,Michael Guest,11
+Jasper,Vossburg,U.S. Senate,Unexpired Term,,Chris McDaniel,10
+Jasper,Vossburg,U.S. Senate,Unexpired Term,,Cindy Hyde-Smith,7
+Jasper,Vossburg,U.S. Senate,Unexpired Term,,Mike Espy,133
+Jasper,Vossburg,U.S. Senate,Unexpired Term,,Tobey Bernard Bartee,21
+Jasper,Vossburg,U.S. Senate,,DEM,David Baria,144
+Jasper,Vossburg,U.S. Senate,,LIB,Danny Bedwell,1
+Jasper,Vossburg,U.S. Senate,,REF,Shawn O'Hara,4
+Jasper,Vossburg,U.S. Senate,,REP,Roger F. Wicker,12

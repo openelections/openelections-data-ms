@@ -1,452 +1,386 @@
-page,candidate,office,district,party,county,precinct,votes,winner
-2,David Baria,U.S. Senate,,Democrat,Forrest ,Bar Mac,215,
-2,Roger F. Wicker,U.S. Senate,,Republican,Forrest ,Bar Mac,1215,
-2,Danny Bedwell,U.S. Senate,,Libertarian,Forrest ,Bar Mac,25,
-2,Shawn O'Hara,U.S. Senate,,Reform,Forrest ,Bar Mac,16,
-2,Tobey Bernard Bartee,U.S. Senate,Unexpired Term,,Forrest ,Bar Mac,16,
-2,Mike Espy,U.S. Senate,Unexpired Term,,Forrest ,Bar Mac,230,
-2,Cindy Hyde-Smith,U.S. Senate,Unexpired Term,,Forrest ,Bar Mac,730,
-2,Chris McDaniel,U.S. Senate,Unexpired Term,,Forrest ,Bar Mac,527,
-2,Jeramey Anderson,U.S. House,4,Democrat,Forrest ,Bar Mac,226,
-2,Steven Palazzo,U.S. House,4,Republican,Forrest ,Bar Mac,1267,
-2,Lajena Sheets,U.S. House,4,Reform,Forrest ,Bar Mac,5,
-2,David Baria,U.S. Senate,,Democrat,Forrest ,Brooklyn,20,
-2,Roger F. Wicker,U.S. Senate,,Republican,Forrest ,Brooklyn,305,
-2,Danny Bedwell,U.S. Senate,,Libertarian,Forrest ,Brooklyn,11,
-2,Shawn O'Hara,U.S. Senate,,Reform,Forrest ,Brooklyn,2,
-2,Tobey Bernard Bartee,U.S. Senate,Unexpired Term,,Forrest ,Brooklyn,2,
-2,Mike Espy,U.S. Senate,Unexpired Term,,Forrest ,Brooklyn,24,
-2,Cindy Hyde-Smith,U.S. Senate,Unexpired Term,,Forrest ,Brooklyn,215,
-2,Chris McDaniel,U.S. Senate,Unexpired Term,,Forrest ,Brooklyn,106,
-2,Jeramey Anderson,U.S. House,4,Democrat,Forrest ,Brooklyn,26,
-2,Steven Palazzo,U.S. House,4,Republican,Forrest ,Brooklyn,315,
-2,Lajena Sheets,U.S. House,4,Reform,Forrest ,Brooklyn,3,
-2,David Baria,U.S. Senate,,Democrat,Forrest ,Camp,266,
-2,Roger F. Wicker,U.S. Senate,,Republican,Forrest ,Camp,201,
-2,Danny Bedwell,U.S. Senate,,Libertarian,Forrest ,Camp,12,
-2,Shawn O'Hara,U.S. Senate,,Reform,Forrest ,Camp,0,
-2,Tobey Bernard Bartee,U.S. Senate,Unexpired Term,,Forrest ,Camp,13,
-2,Mike Espy,U.S. Senate,Unexpired Term,,Forrest ,Camp,260,
-2,Cindy Hyde-Smith,U.S. Senate,Unexpired Term,,Forrest ,Camp,161,
-2,Chris McDaniel,U.S. Senate,Unexpired Term,,Forrest ,Camp,50,
-2,Jeramey Anderson,U.S. House,4,Democrat,Forrest ,Camp,279,
-2,Steven Palazzo,U.S. House,4,Republican,Forrest ,Camp,197,
-2,Lajena Sheets,U.S. House,4,Reform,Forrest ,Camp,4,
-2,David Baria,U.S. Senate,,Democrat,Forrest ,Carnes,22,
-2,Roger F. Wicker,U.S. Senate,,Republican,Forrest ,Carnes,455,
-2,Danny Bedwell,U.S. Senate,,Libertarian,Forrest ,Carnes,5,
-2,Shawn O'Hara,U.S. Senate,,Reform,Forrest ,Carnes,4,
-2,Tobey Bernard Bartee,U.S. Senate,Unexpired Term,,Forrest ,Carnes,1,
-2,Mike Espy,U.S. Senate,Unexpired Term,,Forrest ,Carnes,32,
-2,Cindy Hyde-Smith,U.S. Senate,Unexpired Term,,Forrest ,Carnes,284,
-2,Chris McDaniel,U.S. Senate,Unexpired Term,,Forrest ,Carnes,171,
-2,Jeramey Anderson,U.S. House,4,Democrat,Forrest ,Carnes,24,
-2,Steven Palazzo,U.S. House,4,Republican,Forrest ,Carnes,464,
-2,Lajena Sheets,U.S. House,4,Reform,Forrest ,Carnes,1,
-2,David Baria,U.S. Senate,,Democrat,Forrest ,Court Street,273,
-2,Roger F. Wicker,U.S. Senate,,Republican,Forrest ,Court Street,69,
-2,Danny Bedwell,U.S. Senate,,Libertarian,Forrest ,Court Street,2,
-2,Shawn O'Hara,U.S. Senate,,Reform,Forrest ,Court Street,2,
-2,Tobey Bernard Bartee,U.S. Senate,Unexpired Term,,Forrest ,Court Street,11,
-2,Mike Espy,U.S. Senate,Unexpired Term,,Forrest ,Court Street,300,
-2,Cindy Hyde-Smith,U.S. Senate,Unexpired Term,,Forrest ,Court Street,48,
-2,Chris McDaniel,U.S. Senate,Unexpired Term,,Forrest ,Court Street,10,
-2,Jeramey Anderson,U.S. House,4,Democrat,Forrest ,Court Street,292,
-2,Steven Palazzo,U.S. House,4,Republican,Forrest ,Court Street,67,
-2,Lajena Sheets,U.S. House,4,Reform,Forrest ,Court Street,2,
-2,David Baria,U.S. Senate,,Democrat,Forrest ,Dantzler,21,
-2,Roger F. Wicker,U.S. Senate,,Republican,Forrest ,Dantzler,318,
-2,Danny Bedwell,U.S. Senate,,Libertarian,Forrest ,Dantzler,14,
-2,Shawn O'Hara,U.S. Senate,,Reform,Forrest ,Dantzler,1,
-2,Tobey Bernard Bartee,U.S. Senate,Unexpired Term,,Forrest ,Dantzler,2,
-2,Mike Espy,U.S. Senate,Unexpired Term,,Forrest ,Dantzler,27,
-2,Cindy Hyde-Smith,U.S. Senate,Unexpired Term,,Forrest ,Dantzler,211,
-2,Chris McDaniel,U.S. Senate,Unexpired Term,,Forrest ,Dantzler,119,
-2,Jeramey Anderson,U.S. House,4,Democrat,Forrest ,Dantzler,24,
-2,Steven Palazzo,U.S. House,4,Republican,Forrest ,Dantzler,330,
-2,Lajena Sheets,U.S. House,4,Reform,Forrest ,Dantzler,5,
-2,David Baria,U.S. Senate,,Democrat,Forrest ,Dixie,88,
-2,Roger F. Wicker,U.S. Senate,,Republican,Forrest ,Dixie,835,
-2,Danny Bedwell,U.S. Senate,,Libertarian,Forrest ,Dixie,27,
-2,Shawn O'Hara,U.S. Senate,,Reform,Forrest ,Dixie,3,
-2,Tobey Bernard Bartee,U.S. Senate,Unexpired Term,,Forrest ,Dixie,10,
-2,Mike Espy,U.S. Senate,Unexpired Term,,Forrest ,Dixie,97,
-2,Cindy Hyde-Smith,U.S. Senate,Unexpired Term,,Forrest ,Dixie,500,
-2,Chris McDaniel,U.S. Senate,Unexpired Term,,Forrest ,Dixie,346,
-2,Jeramey Anderson,U.S. House,4,Democrat,Forrest ,Dixie,105,
-2,Steven Palazzo,U.S. House,4,Republican,Forrest ,Dixie,842,
-2,Lajena Sheets,U.S. House,4,Reform,Forrest ,Dixie,13,
-2,David Baria,U.S. Senate,,Democrat,Forrest ,Dixie Pine Central,490,
-2,Roger F. Wicker,U.S. Senate,,Republican,Forrest ,Dixie Pine Central,148,
-2,Danny Bedwell,U.S. Senate,,Libertarian,Forrest ,Dixie Pine Central,3,
-2,Shawn O'Hara,U.S. Senate,,Reform,Forrest ,Dixie Pine Central,24,
-2,Tobey Bernard Bartee,U.S. Senate,Unexpired Term,,Forrest ,Dixie Pine Central,17,
-2,Mike Espy,U.S. Senate,Unexpired Term,,Forrest ,Dixie Pine Central,559,
-2,Cindy Hyde-Smith,U.S. Senate,Unexpired Term,,Forrest ,Dixie Pine Central,85,
-2,Chris McDaniel,U.S. Senate,Unexpired Term,,Forrest ,Dixie Pine Central,49,
-2,Jeramey Anderson,U.S. House,4,Democrat,Forrest ,Dixie Pine Central,542,
-2,Steven Palazzo,U.S. House,4,Republican,Forrest ,Dixie Pine Central,156,
-2,Lajena Sheets,U.S. House,4,Reform,Forrest ,Dixie Pine Central,3,
-2,David Baria,U.S. Senate,,Democrat,Forrest ,Eatonville,141,
-2,Roger F. Wicker,U.S. Senate,,Republican,Forrest ,Eatonville,435,
-2,Danny Bedwell,U.S. Senate,,Libertarian,Forrest ,Eatonville,9,
-2,Shawn O'Hara,U.S. Senate,,Reform,Forrest ,Eatonville,0,
-2,Tobey Bernard Bartee,U.S. Senate,Unexpired Term,,Forrest ,Eatonville,7,
-2,Mike Espy,U.S. Senate,Unexpired Term,,Forrest ,Eatonville,146,
-2,Cindy Hyde-Smith,U.S. Senate,Unexpired Term,,Forrest ,Eatonville,286,
-2,Chris McDaniel,U.S. Senate,Unexpired Term,,Forrest ,Eatonville,152,
-2,Jeramey Anderson,U.S. House,4,Democrat,Forrest ,Eatonville,138,
-2,Steven Palazzo,U.S. House,4,Republican,Forrest ,Eatonville,448,
-2,Lajena Sheets,U.S. House,4,Reform,Forrest ,Eatonville,3,
-2,David Baria,U.S. Senate,,Democrat,Forrest ,Eureka School,243,
-2,Roger F. Wicker,U.S. Senate,,Republican,Forrest ,Eureka School,18,
-2,Danny Bedwell,U.S. Senate,,Libertarian,Forrest ,Eureka School,0,
-2,Shawn O'Hara,U.S. Senate,,Reform,Forrest ,Eureka School,2,
-2,Tobey Bernard Bartee,U.S. Senate,Unexpired Term,,Forrest ,Eureka School,10,
-2,Mike Espy,U.S. Senate,Unexpired Term,,Forrest ,Eureka School,281,
-2,Cindy Hyde-Smith,U.S. Senate,Unexpired Term,,Forrest ,Eureka School,5,
-2,Chris McDaniel,U.S. Senate,Unexpired Term,,Forrest ,Eureka School,0,
-2,Jeramey Anderson,U.S. House,4,Democrat,Forrest ,Eureka School,263,
-2,Steven Palazzo,U.S. House,4,Republican,Forrest ,Eureka School,16,
-2,Lajena Sheets,U.S. House,4,Reform,Forrest ,Eureka School,4,
-2,David Baria,U.S. Senate,,Democrat,Forrest ,Glendale,508,
-2,Roger F. Wicker,U.S. Senate,,Republican,Forrest ,Glendale,216,
-2,Danny Bedwell,U.S. Senate,,Libertarian,Forrest ,Glendale,11,
-2,Shawn O'Hara,U.S. Senate,,Reform,Forrest ,Glendale,4,
-2,Tobey Bernard Bartee,U.S. Senate,Unexpired Term,,Forrest ,Glendale,21,
-2,Mike Espy,U.S. Senate,Unexpired Term,,Forrest ,Glendale,530,
-2,Cindy Hyde-Smith,U.S. Senate,Unexpired Term,,Forrest ,Glendale,127,
-2,Chris McDaniel,U.S. Senate,Unexpired Term,,Forrest ,Glendale,81,
-2,Jeramey Anderson,U.S. House,4,Democrat,Forrest ,Glendale,524,
-2,Steven Palazzo,U.S. House,4,Republican,Forrest ,Glendale,224,
-2,Lajena Sheets,U.S. House,4,Reform,Forrest ,Glendale,6,
-3,David Baria,U.S. Senate,,Democrat,Forrest ,Hattiesburg Cultural Center,405,
-3,Roger F. Wicker,U.S. Senate,,Republican,Forrest ,Hattiesburg Cultural Center,40,
-3,Danny Bedwell,U.S. Senate,,Libertarian,Forrest ,Hattiesburg Cultural Center,5,
-3,Shawn O'Hara,U.S. Senate,,Reform,Forrest ,Hattiesburg Cultural Center,13,
-3,Tobey Bernard Bartee,U.S. Senate,Unexpired Term,,Forrest ,Hattiesburg Cultural Center,9,
-3,Mike Espy,U.S. Senate,Unexpired Term,,Forrest ,Hattiesburg Cultural Center,439,
-3,Cindy Hyde-Smith,U.S. Senate,Unexpired Term,,Forrest ,Hattiesburg Cultural Center,22,
-3,Chris McDaniel,U.S. Senate,Unexpired Term,,Forrest ,Hattiesburg Cultural Center,13,
-3,Jeramey Anderson,U.S. House,4,Democrat,Forrest ,Hattiesburg Cultural Center,421,
-3,Steven Palazzo,U.S. House,4,Republican,Forrest ,Hattiesburg Cultural Center,52,
-3,Lajena Sheets,U.S. House,4,Reform,Forrest ,Hattiesburg Cultural Center,3,
-3,David Baria,U.S. Senate,,Democrat,Forrest ,Highland Park,379,
-3,Roger F. Wicker,U.S. Senate,,Republican,Forrest ,Highland Park,166,
-3,Danny Bedwell,U.S. Senate,,Libertarian,Forrest ,Highland Park,11,
-3,Shawn O'Hara,U.S. Senate,,Reform,Forrest ,Highland Park,9,
-3,Tobey Bernard Bartee,U.S. Senate,Unexpired Term,,Forrest ,Highland Park,19,
-3,Mike Espy,U.S. Senate,Unexpired Term,,Forrest ,Highland Park,367,
-3,Cindy Hyde-Smith,U.S. Senate,Unexpired Term,,Forrest ,Highland Park,125,
-3,Chris McDaniel,U.S. Senate,Unexpired Term,,Forrest ,Highland Park,51,
-3,Jeramey Anderson,U.S. House,4,Democrat,Forrest ,Highland Park,375,
-3,Steven Palazzo,U.S. House,4,Republican,Forrest ,Highland Park,186,
-3,Lajena Sheets,U.S. House,4,Reform,Forrest ,Highland Park,9,
-3,David Baria,U.S. Senate,,Democrat,Forrest ,Kamper Park,481,
-3,Roger F. Wicker,U.S. Senate,,Republican,Forrest ,Kamper Park,387,
-3,Danny Bedwell,U.S. Senate,,Libertarian,Forrest ,Kamper Park,21,
-3,Shawn O'Hara,U.S. Senate,,Reform,Forrest ,Kamper Park,5,
-3,Tobey Bernard Bartee,U.S. Senate,Unexpired Term,,Forrest ,Kamper Park,18,
-3,Mike Espy,U.S. Senate,Unexpired Term,,Forrest ,Kamper Park,497,
-3,Cindy Hyde-Smith,U.S. Senate,Unexpired Term,,Forrest ,Kamper Park,286,
-3,Chris McDaniel,U.S. Senate,Unexpired Term,,Forrest ,Kamper Park,123,
-3,Jeramey Anderson,U.S. House,4,Democrat,Forrest ,Kamper Park,500,
-3,Steven Palazzo,U.S. House,4,Republican,Forrest ,Kamper Park,402,
-3,Lajena Sheets,U.S. House,4,Reform,Forrest ,Kamper Park,10,
-3,David Baria,U.S. Senate,,Democrat,Forrest ,Leeville,102,
-3,Roger F. Wicker,U.S. Senate,,Republican,Forrest ,Leeville,734,
-3,Danny Bedwell,U.S. Senate,,Libertarian,Forrest ,Leeville,19,
-3,Shawn O'Hara,U.S. Senate,,Reform,Forrest ,Leeville,7,
-3,Tobey Bernard Bartee,U.S. Senate,Unexpired Term,,Forrest ,Leeville,8,
-3,Mike Espy,U.S. Senate,Unexpired Term,,Forrest ,Leeville,108,
-3,Cindy Hyde-Smith,U.S. Senate,Unexpired Term,,Forrest ,Leeville,411,
-3,Chris McDaniel,U.S. Senate,Unexpired Term,,Forrest ,Leeville,343,
-3,Jeramey Anderson,U.S. House,4,Democrat,Forrest ,Leeville,107,
-3,Steven Palazzo,U.S. House,4,Republican,Forrest ,Leeville,756,
-3,Lajena Sheets,U.S. House,4,Reform,Forrest ,Leeville,6,
-3,David Baria,U.S. Senate,,Democrat,Forrest ,Lillie Burney,988,
-3,Roger F. Wicker,U.S. Senate,,Republican,Forrest ,Lillie Burney,74,
-3,Danny Bedwell,U.S. Senate,,Libertarian,Forrest ,Lillie Burney,8,
-3,Shawn O'Hara,U.S. Senate,,Reform,Forrest ,Lillie Burney,21,
-3,Tobey Bernard Bartee,U.S. Senate,Unexpired Term,,Forrest ,Lillie Burney,28,
-3,Mike Espy,U.S. Senate,Unexpired Term,,Forrest ,Lillie Burney,1085,
-3,Cindy Hyde-Smith,U.S. Senate,Unexpired Term,,Forrest ,Lillie Burney,31,
-3,Chris McDaniel,U.S. Senate,Unexpired Term,,Forrest ,Lillie Burney,21,
-3,Jeramey Anderson,U.S. House,4,Democrat,Forrest ,Lillie Burney,1049,
-3,Steven Palazzo,U.S. House,4,Republican,Forrest ,Lillie Burney,85,
-3,Lajena Sheets,U.S. House,4,Reform,Forrest ,Lillie Burney,6,
-3,David Baria,U.S. Senate,,Democrat,Forrest ,Maxie,21,
-3,Roger F. Wicker,U.S. Senate,,Republican,Forrest ,Maxie,103,
-3,Danny Bedwell,U.S. Senate,,Libertarian,Forrest ,Maxie,4,
-3,Shawn O'Hara,U.S. Senate,,Reform,Forrest ,Maxie,4,
-3,Tobey Bernard Bartee,U.S. Senate,Unexpired Term,,Forrest ,Maxie,1,
-3,Mike Espy,U.S. Senate,Unexpired Term,,Forrest ,Maxie,28,
-3,Cindy Hyde-Smith,U.S. Senate,Unexpired Term,,Forrest ,Maxie,72,
-3,Chris McDaniel,U.S. Senate,Unexpired Term,,Forrest ,Maxie,33,
-3,Jeramey Anderson,U.S. House,4,Democrat,Forrest ,Maxie,21,
-3,Steven Palazzo,U.S. House,4,Republican,Forrest ,Maxie,109,
-3,Lajena Sheets,U.S. House,4,Reform,Forrest ,Maxie,3,
-3,David Baria,U.S. Senate,,Democrat,Forrest ,Mclaurin,31,
-3,Roger F. Wicker,U.S. Senate,,Republican,Forrest ,Mclaurin,208,
-3,Danny Bedwell,U.S. Senate,,Libertarian,Forrest ,Mclaurin,7,
-3,Shawn O'Hara,U.S. Senate,,Reform,Forrest ,Mclaurin,2,
-3,Tobey Bernard Bartee,U.S. Senate,Unexpired Term,,Forrest ,Mclaurin,6,
-3,Mike Espy,U.S. Senate,Unexpired Term,,Forrest ,Mclaurin,36,
-3,Cindy Hyde-Smith,U.S. Senate,Unexpired Term,,Forrest ,Mclaurin,128,
-3,Chris McDaniel,U.S. Senate,Unexpired Term,,Forrest ,Mclaurin,86,
-3,Jeramey Anderson,U.S. House,4,Democrat,Forrest ,Mclaurin,35,
-3,Steven Palazzo,U.S. House,4,Republican,Forrest ,Mclaurin,218,
-3,Lajena Sheets,U.S. House,4,Reform,Forrest ,Mclaurin,2,
-3,David Baria,U.S. Senate,,Democrat,Forrest ,North Heights,516,
-3,Roger F. Wicker,U.S. Senate,,Republican,Forrest ,North Heights,76,
-3,Danny Bedwell,U.S. Senate,,Libertarian,Forrest ,North Heights,5,
-3,Shawn O'Hara,U.S. Senate,,Reform,Forrest ,North Heights,4,
-3,Tobey Bernard Bartee,U.S. Senate,Unexpired Term,,Forrest ,North Heights,27,
-3,Mike Espy,U.S. Senate,Unexpired Term,,Forrest ,North Heights,537,
-3,Cindy Hyde-Smith,U.S. Senate,Unexpired Term,,Forrest ,North Heights,48,
-3,Chris McDaniel,U.S. Senate,Unexpired Term,,Forrest ,North Heights,25,
-3,Jeramey Anderson,U.S. House,4,Democrat,Forrest ,North Heights,540,
-3,Steven Palazzo,U.S. House,4,Republican,Forrest ,North Heights,84,
-3,Lajena Sheets,U.S. House,4,Reform,Forrest ,North Heights,6,
-3,David Baria,U.S. Senate,,Democrat,Forrest ,Petal Civic Center,163,
-3,Roger F. Wicker,U.S. Senate,,Republican,Forrest ,Petal Civic Center,723,
-3,Danny Bedwell,U.S. Senate,,Libertarian,Forrest ,Petal Civic Center,23,
-3,Shawn O'Hara,U.S. Senate,,Reform,Forrest ,Petal Civic Center,9,
-3,Tobey Bernard Bartee,U.S. Senate,Unexpired Term,,Forrest ,Petal Civic Center,11,
-3,Mike Espy,U.S. Senate,Unexpired Term,,Forrest ,Petal Civic Center,175,
-3,Cindy Hyde-Smith,U.S. Senate,Unexpired Term,,Forrest ,Petal Civic Center,433,
-3,Chris McDaniel,U.S. Senate,Unexpired Term,,Forrest ,Petal Civic Center,314,
-3,Jeramey Anderson,U.S. House,4,Democrat,Forrest ,Petal Civic Center,163,
-3,Steven Palazzo,U.S. House,4,Republican,Forrest ,Petal Civic Center,751,
-3,Lajena Sheets,U.S. House,4,Reform,Forrest ,Petal Civic Center,17,
-3,David Baria,U.S. Senate,,Democrat,Forrest ,Petal Masonic,148,
-3,Roger F. Wicker,U.S. Senate,,Republican,Forrest ,Petal Masonic,671,
-3,Danny Bedwell,U.S. Senate,,Libertarian,Forrest ,Petal Masonic,27,
-3,Shawn O'Hara,U.S. Senate,,Reform,Forrest ,Petal Masonic,12,
-3,Tobey Bernard Bartee,U.S. Senate,Unexpired Term,,Forrest ,Petal Masonic,8,
-3,Mike Espy,U.S. Senate,Unexpired Term,,Forrest ,Petal Masonic,150,
-3,Cindy Hyde-Smith,U.S. Senate,Unexpired Term,,Forrest ,Petal Masonic,401,
-3,Chris McDaniel,U.S. Senate,Unexpired Term,,Forrest ,Petal Masonic,314,
-3,Jeramey Anderson,U.S. House,4,Democrat,Forrest ,Petal Masonic,150,
-3,Steven Palazzo,U.S. House,4,Republican,Forrest ,Petal Masonic,708,
-3,Lajena Sheets,U.S. House,4,Reform,Forrest ,Petal Masonic,14,
-3,David Baria,U.S. Senate,,Democrat,Forrest ,Pinecrest ,528,
-3,Roger F. Wicker,U.S. Senate,,Republican,Forrest ,Pinecrest ,282,
-3,Danny Bedwell,U.S. Senate,,Libertarian,Forrest ,Pinecrest ,25,
-3,Shawn O'Hara,U.S. Senate,,Reform,Forrest ,Pinecrest ,9,
-3,Tobey Bernard Bartee,U.S. Senate,Unexpired Term,,Forrest ,Pinecrest ,32,
-3,Mike Espy,U.S. Senate,Unexpired Term,,Forrest ,Pinecrest ,528,
-3,Cindy Hyde-Smith,U.S. Senate,Unexpired Term,,Forrest ,Pinecrest ,229,
-3,Chris McDaniel,U.S. Senate,Unexpired Term,,Forrest ,Pinecrest ,53,
-3,Jeramey Anderson,U.S. House,4,Democrat,Forrest ,Pinecrest ,543,
-3,Steven Palazzo,U.S. House,4,Republican,Forrest ,Pinecrest ,297,
-3,Lajena Sheets,U.S. House,4,Reform,Forrest ,Pinecrest ,8,
-4,David Baria,U.S. Senate,,Democrat,Forrest ,Rawis Springs,310,
-4,Roger F. Wicker,U.S. Senate,,Republican,Forrest ,Rawis Springs,338,
-4,Danny Bedwell,U.S. Senate,,Libertarian,Forrest ,Rawis Springs,6,
-4,Shawn O'Hara,U.S. Senate,,Reform,Forrest ,Rawis Springs,5,
-4,Tobey Bernard Bartee,U.S. Senate,Unexpired Term,,Forrest ,Rawis Springs,10,
-4,Mike Espy,U.S. Senate,Unexpired Term,,Forrest ,Rawis Springs,315,
-4,Cindy Hyde-Smith,U.S. Senate,Unexpired Term,,Forrest ,Rawis Springs,235,
-4,Chris McDaniel,U.S. Senate,Unexpired Term,,Forrest ,Rawis Springs,121,
-4,Jeramey Anderson,U.S. House,4,Democrat,Forrest ,Rawis Springs,321,
-4,Steven Palazzo,U.S. House,4,Republican,Forrest ,Rawis Springs,355,
-4,Lajena Sheets,U.S. House,4,Reform,Forrest ,Rawis Springs,5,
-4,David Baria,U.S. Senate,,Democrat,Forrest ,Richburg,132,
-4,Roger F. Wicker,U.S. Senate,,Republican,Forrest ,Richburg,263,
-4,Danny Bedwell,U.S. Senate,,Libertarian,Forrest ,Richburg,15,
-4,Shawn O'Hara,U.S. Senate,,Reform,Forrest ,Richburg,0,
-4,Tobey Bernard Bartee,U.S. Senate,Unexpired Term,,Forrest ,Richburg,3,
-4,Mike Espy,U.S. Senate,Unexpired Term,,Forrest ,Richburg,149,
-4,Cindy Hyde-Smith,U.S. Senate,Unexpired Term,,Forrest ,Richburg,188,
-4,Chris McDaniel,U.S. Senate,Unexpired Term,,Forrest ,Richburg,80,
-4,Jeramey Anderson,U.S. House,4,Democrat,Forrest ,Richburg,140,
-4,Steven Palazzo,U.S. House,4,Republican,Forrest ,Richburg,272,
-4,Lajena Sheets,U.S. House,4,Reform,Forrest ,Richburg,3,
-4,David Baria,U.S. Senate,,Democrat,Forrest ,Rowan,380,
-4,Roger F. Wicker,U.S. Senate,,Republican,Forrest ,Rowan,18,
-4,Danny Bedwell,U.S. Senate,,Libertarian,Forrest ,Rowan,6,
-4,Shawn O'Hara,U.S. Senate,,Reform,Forrest ,Rowan,8,
-4,Tobey Bernard Bartee,U.S. Senate,Unexpired Term,,Forrest ,Rowan,6,
-4,Mike Espy,U.S. Senate,Unexpired Term,,Forrest ,Rowan,439,
-4,Cindy Hyde-Smith,U.S. Senate,Unexpired Term,,Forrest ,Rowan,5,
-4,Chris McDaniel,U.S. Senate,Unexpired Term,,Forrest ,Rowan,2,
-4,Jeramey Anderson,U.S. House,4,Democrat,Forrest ,Rowan,413,
-4,Steven Palazzo,U.S. House,4,Republican,Forrest ,Rowan,17,
-4,Lajena Sheets,U.S. House,4,Reform,Forrest ,Rowan,2,
-4,David Baria,U.S. Senate,,Democrat,Forrest ,Sheeplo,171,
-4,Roger F. Wicker,U.S. Senate,,Republican,Forrest ,Sheeplo,348,
-4,Danny Bedwell,U.S. Senate,,Libertarian,Forrest ,Sheeplo,10,
-4,Shawn O'Hara,U.S. Senate,,Reform,Forrest ,Sheeplo,4,
-4,Tobey Bernard Bartee,U.S. Senate,Unexpired Term,,Forrest ,Sheeplo,6,
-4,Mike Espy,U.S. Senate,Unexpired Term,,Forrest ,Sheeplo,177,
-4,Cindy Hyde-Smith,U.S. Senate,Unexpired Term,,Forrest ,Sheeplo,223,
-4,Chris McDaniel,U.S. Senate,Unexpired Term,,Forrest ,Sheeplo,137,
-4,Jeramey Anderson,U.S. House,4,Democrat,Forrest ,Sheeplo,179,
-4,Steven Palazzo,U.S. House,4,Republican,Forrest ,Sheeplo,367,
-4,Lajena Sheets,U.S. House,4,Reform,Forrest ,Sheeplo,3,
-4,David Baria,U.S. Senate,,Democrat,Forrest ,Sigler Center,478,
-4,Roger F. Wicker,U.S. Senate,,Republican,Forrest ,Sigler Center,156,
-4,Danny Bedwell,U.S. Senate,,Libertarian,Forrest ,Sigler Center,9,
-4,Shawn O'Hara,U.S. Senate,,Reform,Forrest ,Sigler Center,9,
-4,Tobey Bernard Bartee,U.S. Senate,Unexpired Term,,Forrest ,Sigler Center,35,
-4,Mike Espy,U.S. Senate,Unexpired Term,,Forrest ,Sigler Center,504,
-4,Cindy Hyde-Smith,U.S. Senate,Unexpired Term,,Forrest ,Sigler Center,105,
-4,Chris McDaniel,U.S. Senate,Unexpired Term,,Forrest ,Sigler Center,49,
-4,Jeramey Anderson,U.S. House,4,Democrat,Forrest ,Sigler Center,511,
-4,Steven Palazzo,U.S. House,4,Republican,Forrest ,Sigler Center,167,
-4,Lajena Sheets,U.S. House,4,Reform,Forrest ,Sigler Center,4,
-4,David Baria,U.S. Senate,,Democrat,Forrest ,Sunrise,266,
-4,Roger F. Wicker,U.S. Senate,,Republican,Forrest ,Sunrise,1368,
-4,Danny Bedwell,U.S. Senate,,Libertarian,Forrest ,Sunrise,28,
-4,Shawn O'Hara,U.S. Senate,,Reform,Forrest ,Sunrise,6,
-4,Tobey Bernard Bartee,U.S. Senate,Unexpired Term,,Forrest ,Sunrise,13,
-4,Mike Espy,U.S. Senate,Unexpired Term,,Forrest ,Sunrise,259,
-4,Cindy Hyde-Smith,U.S. Senate,Unexpired Term,,Forrest ,Sunrise,876,
-4,Chris McDaniel,U.S. Senate,Unexpired Term,,Forrest ,Sunrise,531,
-4,Jeramey Anderson,U.S. House,4,Democrat,Forrest ,Sunrise,264,
-4,Steven Palazzo,U.S. House,4,Republican,Forrest ,Sunrise,1402,
-4,Lajena Sheets,U.S. House,4,Reform,Forrest ,Sunrise,7,
-4,David Baria,U.S. Senate,,Democrat,Forrest ,Thames,441,
-4,Roger F. Wicker,U.S. Senate,,Republican,Forrest ,Thames,1021,
-4,Danny Bedwell,U.S. Senate,,Libertarian,Forrest ,Thames,23,
-4,Shawn O'Hara,U.S. Senate,,Reform,Forrest ,Thames,8,
-4,Tobey Bernard Bartee,U.S. Senate,Unexpired Term,,Forrest ,Thames,19,
-4,Mike Espy,U.S. Senate,Unexpired Term,,Forrest ,Thames,480,
-4,Cindy Hyde-Smith,U.S. Senate,Unexpired Term,,Forrest ,Thames,822,
-4,Chris McDaniel,U.S. Senate,Unexpired Term,,Forrest ,Thames,171,
-4,Jeramey Anderson,U.S. House,4,Democrat,Forrest ,Thames,457,
-4,Steven Palazzo,U.S. House,4,Republican,Forrest ,Thames,1018,
-4,Lajena Sheets,U.S. House,4,Reform,Forrest ,Thames,18,
-4,David Baria,U.S. Senate,,Democrat,Forrest ,Timberton,156,
-4,Roger F. Wicker,U.S. Senate,,Republican,Forrest ,Timberton,569,
-4,Danny Bedwell,U.S. Senate,,Libertarian,Forrest ,Timberton,5,
-4,Shawn O'Hara,U.S. Senate,,Reform,Forrest ,Timberton,3,
-4,Tobey Bernard Bartee,U.S. Senate,Unexpired Term,,Forrest ,Timberton,11,
-4,Mike Espy,U.S. Senate,Unexpired Term,,Forrest ,Timberton,163,
-4,Cindy Hyde-Smith,U.S. Senate,Unexpired Term,,Forrest ,Timberton,431,
-4,Chris McDaniel,U.S. Senate,Unexpired Term,,Forrest ,Timberton,135,
-4,Jeramey Anderson,U.S. House,4,Democrat,Forrest ,Timberton,163,
-4,Steven Palazzo,U.S. House,4,Republican,Forrest ,Timberton,570,
-4,Lajena Sheets,U.S. House,4,Reform,Forrest ,Timberton,8,
-4,David Baria,U.S. Senate,,Democrat,Forrest ,Train Depot,215,
-4,Roger F. Wicker,U.S. Senate,,Republican,Forrest ,Train Depot,45,
-4,Danny Bedwell,U.S. Senate,,Libertarian,Forrest ,Train Depot,5,
-4,Shawn O'Hara,U.S. Senate,,Reform,Forrest ,Train Depot,13,
-4,Tobey Bernard Bartee,U.S. Senate,Unexpired Term,,Forrest ,Train Depot,5,
-4,Mike Espy,U.S. Senate,Unexpired Term,,Forrest ,Train Depot,244,
-4,Cindy Hyde-Smith,U.S. Senate,Unexpired Term,,Forrest ,Train Depot,27,
-4,Chris McDaniel,U.S. Senate,Unexpired Term,,Forrest ,Train Depot,17,
-4,Jeramey Anderson,U.S. House,4,Democrat,Forrest ,Train Depot,231,
-4,Steven Palazzo,U.S. House,4,Republican,Forrest ,Train Depot,47,
-4,Lajena Sheets,U.S. House,4,Reform,Forrest ,Train Depot,9,
-4,David Baria,U.S. Senate,,Democrat,Forrest ,West Hills,139,
-4,Roger F. Wicker,U.S. Senate,,Republican,Forrest ,West Hills,267,
-4,Danny Bedwell,U.S. Senate,,Libertarian,Forrest ,West Hills,9,
-4,Shawn O'Hara,U.S. Senate,,Reform,Forrest ,West Hills,1,
-4,Tobey Bernard Bartee,U.S. Senate,Unexpired Term,,Forrest ,West Hills,9,
-4,Mike Espy,U.S. Senate,Unexpired Term,,Forrest ,West Hills,140,
-4,Cindy Hyde-Smith,U.S. Senate,Unexpired Term,,Forrest ,West Hills,212,
-4,Chris McDaniel,U.S. Senate,Unexpired Term,,Forrest ,West Hills,54,
-4,Jeramey Anderson,U.S. House,4,Democrat,Forrest ,West Hills,147,
-4,Steven Palazzo,U.S. House,4,Republican,Forrest ,West Hills,268,
-4,Lajena Sheets,U.S. House,4,Reform,Forrest ,West Hills,1,
-4,David Baria,U.S. Senate,,Democrat,Forrest ,West Petal ,104,
-4,Roger F. Wicker,U.S. Senate,,Republican,Forrest ,West Petal ,208,
-4,Danny Bedwell,U.S. Senate,,Libertarian,Forrest ,West Petal ,9,
-4,Shawn O'Hara,U.S. Senate,,Reform,Forrest ,West Petal ,6,
-4,Tobey Bernard Bartee,U.S. Senate,Unexpired Term,,Forrest ,West Petal ,12,
-4,Mike Espy,U.S. Senate,Unexpired Term,,Forrest ,West Petal ,105,
-4,Cindy Hyde-Smith,U.S. Senate,Unexpired Term,,Forrest ,West Petal ,120,
-4,Chris McDaniel,U.S. Senate,Unexpired Term,,Forrest ,West Petal ,94,
-4,Jeramey Anderson,U.S. House,4,Democrat,Forrest ,West Petal ,110,
-4,Steven Palazzo,U.S. House,4,Republican,Forrest ,West Petal ,222,
-4,Lajena Sheets,U.S. House,4,Reform,Forrest ,West Petal ,3,
-5,David Baria,U.S. Senate,,Democrat,Forrest ,Westside,293,
-5,Roger F. Wicker,U.S. Senate,,Republican,Forrest ,Westside,259,
-5,Danny Bedwell,U.S. Senate,,Libertarian,Forrest ,Westside,8,
-5,Shawn O'Hara,U.S. Senate,,Reform,Forrest ,Westside,7,
-5,Tobey Bernard Bartee,U.S. Senate,Unexpired Term,,Forrest ,Westside,13,
-5,Mike Espy,U.S. Senate,Unexpired Term,,Forrest ,Westside,314,
-5,Cindy Hyde-Smith,U.S. Senate,Unexpired Term,,Forrest ,Westside,190,
-5,Chris McDaniel,U.S. Senate,Unexpired Term,,Forrest ,Westside,56,
-5,Jeramey Anderson,U.S. House,4,Democrat,Forrest ,Westside,315,
-5,Steven Palazzo,U.S. House,4,Republican,Forrest ,Westside,253,
-5,Lajena Sheets,U.S. House,4,Reform,Forrest ,Westside,4,
-5,David Baria,U.S. Senate,,Democrat,Forrest ,TOTAL ,9134,
-5,Roger F. Wicker,U.S. Senate,,Republican,Forrest ,TOTAL ,12539,
-5,Danny Bedwell,U.S. Senate,,Libertarian,Forrest ,TOTAL ,407,
-5,Shawn O'Hara,U.S. Senate,,Reform,Forrest ,TOTAL ,223,
-5,Tobey Bernard Bartee,U.S. Senate,Unexpired Term,,Forrest ,TOTAL ,419,
-5,Mike Espy,U.S. Senate,Unexpired Term,,Forrest ,TOTAL ,9725,
-5,Cindy Hyde-Smith,U.S. Senate,Unexpired Term,,Forrest ,TOTAL ,8272,
-5,Chris McDaniel,U.S. Senate,Unexpired Term,,Forrest ,TOTAL ,4434,
-5,Jeramey Anderson,U.S. House,4,Democrat,Forrest ,TOTAL ,9598,
-5,Steven Palazzo,U.S. House,4,Republican,Forrest ,TOTAL ,12932,
-5,Lajena Sheets,U.S. House,4,Reform,Forrest ,TOTAL ,200,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
+county,precinct,office,district,party,candidate,votes
+Forrest,Bar Mac,U.S. House,4,DEM,Jeramey Anderson,226
+Forrest,Bar Mac,U.S. House,4,REF,Lajena Sheets,5
+Forrest,Bar Mac,U.S. House,4,REP,Steven Palazzo,1267
+Forrest,Bar Mac,U.S. Senate,Unexpired Term,,Chris McDaniel,527
+Forrest,Bar Mac,U.S. Senate,Unexpired Term,,Cindy Hyde-Smith,730
+Forrest,Bar Mac,U.S. Senate,Unexpired Term,,Mike Espy,230
+Forrest,Bar Mac,U.S. Senate,Unexpired Term,,Tobey Bernard Bartee,16
+Forrest,Bar Mac,U.S. Senate,,DEM,David Baria,215
+Forrest,Bar Mac,U.S. Senate,,LIB,Danny Bedwell,25
+Forrest,Bar Mac,U.S. Senate,,REF,Shawn O'Hara,16
+Forrest,Bar Mac,U.S. Senate,,REP,Roger F. Wicker,1215
+Forrest,Brooklyn,U.S. House,4,DEM,Jeramey Anderson,26
+Forrest,Brooklyn,U.S. House,4,REF,Lajena Sheets,3
+Forrest,Brooklyn,U.S. House,4,REP,Steven Palazzo,315
+Forrest,Brooklyn,U.S. Senate,Unexpired Term,,Chris McDaniel,106
+Forrest,Brooklyn,U.S. Senate,Unexpired Term,,Cindy Hyde-Smith,215
+Forrest,Brooklyn,U.S. Senate,Unexpired Term,,Mike Espy,24
+Forrest,Brooklyn,U.S. Senate,Unexpired Term,,Tobey Bernard Bartee,2
+Forrest,Brooklyn,U.S. Senate,,DEM,David Baria,20
+Forrest,Brooklyn,U.S. Senate,,LIB,Danny Bedwell,11
+Forrest,Brooklyn,U.S. Senate,,REF,Shawn O'Hara,2
+Forrest,Brooklyn,U.S. Senate,,REP,Roger F. Wicker,305
+Forrest,Camp,U.S. House,4,DEM,Jeramey Anderson,279
+Forrest,Camp,U.S. House,4,REF,Lajena Sheets,4
+Forrest,Camp,U.S. House,4,REP,Steven Palazzo,197
+Forrest,Camp,U.S. Senate,Unexpired Term,,Chris McDaniel,50
+Forrest,Camp,U.S. Senate,Unexpired Term,,Cindy Hyde-Smith,161
+Forrest,Camp,U.S. Senate,Unexpired Term,,Mike Espy,260
+Forrest,Camp,U.S. Senate,Unexpired Term,,Tobey Bernard Bartee,13
+Forrest,Camp,U.S. Senate,,DEM,David Baria,266
+Forrest,Camp,U.S. Senate,,LIB,Danny Bedwell,12
+Forrest,Camp,U.S. Senate,,REF,Shawn O'Hara,0
+Forrest,Camp,U.S. Senate,,REP,Roger F. Wicker,201
+Forrest,Carnes,U.S. House,4,DEM,Jeramey Anderson,24
+Forrest,Carnes,U.S. House,4,REF,Lajena Sheets,1
+Forrest,Carnes,U.S. House,4,REP,Steven Palazzo,464
+Forrest,Carnes,U.S. Senate,Unexpired Term,,Chris McDaniel,171
+Forrest,Carnes,U.S. Senate,Unexpired Term,,Cindy Hyde-Smith,284
+Forrest,Carnes,U.S. Senate,Unexpired Term,,Mike Espy,32
+Forrest,Carnes,U.S. Senate,Unexpired Term,,Tobey Bernard Bartee,1
+Forrest,Carnes,U.S. Senate,,DEM,David Baria,22
+Forrest,Carnes,U.S. Senate,,LIB,Danny Bedwell,5
+Forrest,Carnes,U.S. Senate,,REF,Shawn O'Hara,4
+Forrest,Carnes,U.S. Senate,,REP,Roger F. Wicker,455
+Forrest,Court Street,U.S. House,4,DEM,Jeramey Anderson,292
+Forrest,Court Street,U.S. House,4,REF,Lajena Sheets,2
+Forrest,Court Street,U.S. House,4,REP,Steven Palazzo,67
+Forrest,Court Street,U.S. Senate,Unexpired Term,,Chris McDaniel,10
+Forrest,Court Street,U.S. Senate,Unexpired Term,,Cindy Hyde-Smith,48
+Forrest,Court Street,U.S. Senate,Unexpired Term,,Mike Espy,300
+Forrest,Court Street,U.S. Senate,Unexpired Term,,Tobey Bernard Bartee,11
+Forrest,Court Street,U.S. Senate,,DEM,David Baria,273
+Forrest,Court Street,U.S. Senate,,LIB,Danny Bedwell,2
+Forrest,Court Street,U.S. Senate,,REF,Shawn O'Hara,2
+Forrest,Court Street,U.S. Senate,,REP,Roger F. Wicker,69
+Forrest,Dantzler,U.S. House,4,DEM,Jeramey Anderson,24
+Forrest,Dantzler,U.S. House,4,REF,Lajena Sheets,5
+Forrest,Dantzler,U.S. House,4,REP,Steven Palazzo,330
+Forrest,Dantzler,U.S. Senate,Unexpired Term,,Chris McDaniel,119
+Forrest,Dantzler,U.S. Senate,Unexpired Term,,Cindy Hyde-Smith,211
+Forrest,Dantzler,U.S. Senate,Unexpired Term,,Mike Espy,27
+Forrest,Dantzler,U.S. Senate,Unexpired Term,,Tobey Bernard Bartee,2
+Forrest,Dantzler,U.S. Senate,,DEM,David Baria,21
+Forrest,Dantzler,U.S. Senate,,LIB,Danny Bedwell,14
+Forrest,Dantzler,U.S. Senate,,REF,Shawn O'Hara,1
+Forrest,Dantzler,U.S. Senate,,REP,Roger F. Wicker,318
+Forrest,Dixie,U.S. House,4,DEM,Jeramey Anderson,105
+Forrest,Dixie,U.S. House,4,REF,Lajena Sheets,13
+Forrest,Dixie,U.S. House,4,REP,Steven Palazzo,842
+Forrest,Dixie,U.S. Senate,Unexpired Term,,Chris McDaniel,346
+Forrest,Dixie,U.S. Senate,Unexpired Term,,Cindy Hyde-Smith,500
+Forrest,Dixie,U.S. Senate,Unexpired Term,,Mike Espy,97
+Forrest,Dixie,U.S. Senate,Unexpired Term,,Tobey Bernard Bartee,10
+Forrest,Dixie,U.S. Senate,,DEM,David Baria,88
+Forrest,Dixie,U.S. Senate,,LIB,Danny Bedwell,27
+Forrest,Dixie,U.S. Senate,,REF,Shawn O'Hara,3
+Forrest,Dixie,U.S. Senate,,REP,Roger F. Wicker,835
+Forrest,Dixie Pine Central,U.S. House,4,DEM,Jeramey Anderson,542
+Forrest,Dixie Pine Central,U.S. House,4,REF,Lajena Sheets,3
+Forrest,Dixie Pine Central,U.S. House,4,REP,Steven Palazzo,156
+Forrest,Dixie Pine Central,U.S. Senate,Unexpired Term,,Chris McDaniel,49
+Forrest,Dixie Pine Central,U.S. Senate,Unexpired Term,,Cindy Hyde-Smith,85
+Forrest,Dixie Pine Central,U.S. Senate,Unexpired Term,,Mike Espy,559
+Forrest,Dixie Pine Central,U.S. Senate,Unexpired Term,,Tobey Bernard Bartee,17
+Forrest,Dixie Pine Central,U.S. Senate,,DEM,David Baria,490
+Forrest,Dixie Pine Central,U.S. Senate,,LIB,Danny Bedwell,3
+Forrest,Dixie Pine Central,U.S. Senate,,REF,Shawn O'Hara,24
+Forrest,Dixie Pine Central,U.S. Senate,,REP,Roger F. Wicker,148
+Forrest,Eatonville,U.S. House,4,DEM,Jeramey Anderson,138
+Forrest,Eatonville,U.S. House,4,REF,Lajena Sheets,3
+Forrest,Eatonville,U.S. House,4,REP,Steven Palazzo,448
+Forrest,Eatonville,U.S. Senate,Unexpired Term,,Chris McDaniel,152
+Forrest,Eatonville,U.S. Senate,Unexpired Term,,Cindy Hyde-Smith,286
+Forrest,Eatonville,U.S. Senate,Unexpired Term,,Mike Espy,146
+Forrest,Eatonville,U.S. Senate,Unexpired Term,,Tobey Bernard Bartee,7
+Forrest,Eatonville,U.S. Senate,,DEM,David Baria,141
+Forrest,Eatonville,U.S. Senate,,LIB,Danny Bedwell,9
+Forrest,Eatonville,U.S. Senate,,REF,Shawn O'Hara,0
+Forrest,Eatonville,U.S. Senate,,REP,Roger F. Wicker,435
+Forrest,Eureka School,U.S. House,4,DEM,Jeramey Anderson,263
+Forrest,Eureka School,U.S. House,4,REF,Lajena Sheets,4
+Forrest,Eureka School,U.S. House,4,REP,Steven Palazzo,16
+Forrest,Eureka School,U.S. Senate,Unexpired Term,,Chris McDaniel,0
+Forrest,Eureka School,U.S. Senate,Unexpired Term,,Cindy Hyde-Smith,5
+Forrest,Eureka School,U.S. Senate,Unexpired Term,,Mike Espy,281
+Forrest,Eureka School,U.S. Senate,Unexpired Term,,Tobey Bernard Bartee,10
+Forrest,Eureka School,U.S. Senate,,DEM,David Baria,243
+Forrest,Eureka School,U.S. Senate,,LIB,Danny Bedwell,0
+Forrest,Eureka School,U.S. Senate,,REF,Shawn O'Hara,2
+Forrest,Eureka School,U.S. Senate,,REP,Roger F. Wicker,18
+Forrest,Glendale,U.S. House,4,DEM,Jeramey Anderson,524
+Forrest,Glendale,U.S. House,4,REF,Lajena Sheets,6
+Forrest,Glendale,U.S. House,4,REP,Steven Palazzo,224
+Forrest,Glendale,U.S. Senate,Unexpired Term,,Chris McDaniel,81
+Forrest,Glendale,U.S. Senate,Unexpired Term,,Cindy Hyde-Smith,127
+Forrest,Glendale,U.S. Senate,Unexpired Term,,Mike Espy,530
+Forrest,Glendale,U.S. Senate,Unexpired Term,,Tobey Bernard Bartee,21
+Forrest,Glendale,U.S. Senate,,DEM,David Baria,508
+Forrest,Glendale,U.S. Senate,,LIB,Danny Bedwell,11
+Forrest,Glendale,U.S. Senate,,REF,Shawn O'Hara,4
+Forrest,Glendale,U.S. Senate,,REP,Roger F. Wicker,216
+Forrest,Hattiesburg Cultural Center,U.S. House,4,DEM,Jeramey Anderson,421
+Forrest,Hattiesburg Cultural Center,U.S. House,4,REF,Lajena Sheets,3
+Forrest,Hattiesburg Cultural Center,U.S. House,4,REP,Steven Palazzo,52
+Forrest,Hattiesburg Cultural Center,U.S. Senate,Unexpired Term,,Chris McDaniel,13
+Forrest,Hattiesburg Cultural Center,U.S. Senate,Unexpired Term,,Cindy Hyde-Smith,22
+Forrest,Hattiesburg Cultural Center,U.S. Senate,Unexpired Term,,Mike Espy,439
+Forrest,Hattiesburg Cultural Center,U.S. Senate,Unexpired Term,,Tobey Bernard Bartee,9
+Forrest,Hattiesburg Cultural Center,U.S. Senate,,DEM,David Baria,405
+Forrest,Hattiesburg Cultural Center,U.S. Senate,,LIB,Danny Bedwell,5
+Forrest,Hattiesburg Cultural Center,U.S. Senate,,REF,Shawn O'Hara,13
+Forrest,Hattiesburg Cultural Center,U.S. Senate,,REP,Roger F. Wicker,40
+Forrest,Highland Park,U.S. House,4,DEM,Jeramey Anderson,375
+Forrest,Highland Park,U.S. House,4,REF,Lajena Sheets,9
+Forrest,Highland Park,U.S. House,4,REP,Steven Palazzo,186
+Forrest,Highland Park,U.S. Senate,Unexpired Term,,Chris McDaniel,51
+Forrest,Highland Park,U.S. Senate,Unexpired Term,,Cindy Hyde-Smith,125
+Forrest,Highland Park,U.S. Senate,Unexpired Term,,Mike Espy,367
+Forrest,Highland Park,U.S. Senate,Unexpired Term,,Tobey Bernard Bartee,19
+Forrest,Highland Park,U.S. Senate,,DEM,David Baria,379
+Forrest,Highland Park,U.S. Senate,,LIB,Danny Bedwell,11
+Forrest,Highland Park,U.S. Senate,,REF,Shawn O'Hara,9
+Forrest,Highland Park,U.S. Senate,,REP,Roger F. Wicker,166
+Forrest,Kamper Park,U.S. House,4,DEM,Jeramey Anderson,500
+Forrest,Kamper Park,U.S. House,4,REF,Lajena Sheets,10
+Forrest,Kamper Park,U.S. House,4,REP,Steven Palazzo,402
+Forrest,Kamper Park,U.S. Senate,Unexpired Term,,Chris McDaniel,123
+Forrest,Kamper Park,U.S. Senate,Unexpired Term,,Cindy Hyde-Smith,286
+Forrest,Kamper Park,U.S. Senate,Unexpired Term,,Mike Espy,497
+Forrest,Kamper Park,U.S. Senate,Unexpired Term,,Tobey Bernard Bartee,18
+Forrest,Kamper Park,U.S. Senate,,DEM,David Baria,481
+Forrest,Kamper Park,U.S. Senate,,LIB,Danny Bedwell,21
+Forrest,Kamper Park,U.S. Senate,,REF,Shawn O'Hara,5
+Forrest,Kamper Park,U.S. Senate,,REP,Roger F. Wicker,387
+Forrest,Leeville,U.S. House,4,DEM,Jeramey Anderson,107
+Forrest,Leeville,U.S. House,4,REF,Lajena Sheets,6
+Forrest,Leeville,U.S. House,4,REP,Steven Palazzo,756
+Forrest,Leeville,U.S. Senate,Unexpired Term,,Chris McDaniel,343
+Forrest,Leeville,U.S. Senate,Unexpired Term,,Cindy Hyde-Smith,411
+Forrest,Leeville,U.S. Senate,Unexpired Term,,Mike Espy,108
+Forrest,Leeville,U.S. Senate,Unexpired Term,,Tobey Bernard Bartee,8
+Forrest,Leeville,U.S. Senate,,DEM,David Baria,102
+Forrest,Leeville,U.S. Senate,,LIB,Danny Bedwell,19
+Forrest,Leeville,U.S. Senate,,REF,Shawn O'Hara,7
+Forrest,Leeville,U.S. Senate,,REP,Roger F. Wicker,734
+Forrest,Lillie Burney,U.S. House,4,DEM,Jeramey Anderson,1049
+Forrest,Lillie Burney,U.S. House,4,REF,Lajena Sheets,6
+Forrest,Lillie Burney,U.S. House,4,REP,Steven Palazzo,85
+Forrest,Lillie Burney,U.S. Senate,Unexpired Term,,Chris McDaniel,21
+Forrest,Lillie Burney,U.S. Senate,Unexpired Term,,Cindy Hyde-Smith,31
+Forrest,Lillie Burney,U.S. Senate,Unexpired Term,,Mike Espy,1085
+Forrest,Lillie Burney,U.S. Senate,Unexpired Term,,Tobey Bernard Bartee,28
+Forrest,Lillie Burney,U.S. Senate,,DEM,David Baria,988
+Forrest,Lillie Burney,U.S. Senate,,LIB,Danny Bedwell,8
+Forrest,Lillie Burney,U.S. Senate,,REF,Shawn O'Hara,21
+Forrest,Lillie Burney,U.S. Senate,,REP,Roger F. Wicker,74
+Forrest,Maxie,U.S. House,4,DEM,Jeramey Anderson,21
+Forrest,Maxie,U.S. House,4,REF,Lajena Sheets,3
+Forrest,Maxie,U.S. House,4,REP,Steven Palazzo,109
+Forrest,Maxie,U.S. Senate,Unexpired Term,,Chris McDaniel,33
+Forrest,Maxie,U.S. Senate,Unexpired Term,,Cindy Hyde-Smith,72
+Forrest,Maxie,U.S. Senate,Unexpired Term,,Mike Espy,28
+Forrest,Maxie,U.S. Senate,Unexpired Term,,Tobey Bernard Bartee,1
+Forrest,Maxie,U.S. Senate,,DEM,David Baria,21
+Forrest,Maxie,U.S. Senate,,LIB,Danny Bedwell,4
+Forrest,Maxie,U.S. Senate,,REF,Shawn O'Hara,4
+Forrest,Maxie,U.S. Senate,,REP,Roger F. Wicker,103
+Forrest,Mclaurin,U.S. House,4,DEM,Jeramey Anderson,35
+Forrest,Mclaurin,U.S. House,4,REF,Lajena Sheets,2
+Forrest,Mclaurin,U.S. House,4,REP,Steven Palazzo,218
+Forrest,Mclaurin,U.S. Senate,Unexpired Term,,Chris McDaniel,86
+Forrest,Mclaurin,U.S. Senate,Unexpired Term,,Cindy Hyde-Smith,128
+Forrest,Mclaurin,U.S. Senate,Unexpired Term,,Mike Espy,36
+Forrest,Mclaurin,U.S. Senate,Unexpired Term,,Tobey Bernard Bartee,6
+Forrest,Mclaurin,U.S. Senate,,DEM,David Baria,31
+Forrest,Mclaurin,U.S. Senate,,LIB,Danny Bedwell,7
+Forrest,Mclaurin,U.S. Senate,,REF,Shawn O'Hara,2
+Forrest,Mclaurin,U.S. Senate,,REP,Roger F. Wicker,208
+Forrest,North Heights,U.S. House,4,DEM,Jeramey Anderson,540
+Forrest,North Heights,U.S. House,4,REF,Lajena Sheets,6
+Forrest,North Heights,U.S. House,4,REP,Steven Palazzo,84
+Forrest,North Heights,U.S. Senate,Unexpired Term,,Chris McDaniel,25
+Forrest,North Heights,U.S. Senate,Unexpired Term,,Cindy Hyde-Smith,48
+Forrest,North Heights,U.S. Senate,Unexpired Term,,Mike Espy,537
+Forrest,North Heights,U.S. Senate,Unexpired Term,,Tobey Bernard Bartee,27
+Forrest,North Heights,U.S. Senate,,DEM,David Baria,516
+Forrest,North Heights,U.S. Senate,,LIB,Danny Bedwell,5
+Forrest,North Heights,U.S. Senate,,REF,Shawn O'Hara,4
+Forrest,North Heights,U.S. Senate,,REP,Roger F. Wicker,76
+Forrest,Petal Civic Center,U.S. House,4,DEM,Jeramey Anderson,163
+Forrest,Petal Civic Center,U.S. House,4,REF,Lajena Sheets,17
+Forrest,Petal Civic Center,U.S. House,4,REP,Steven Palazzo,751
+Forrest,Petal Civic Center,U.S. Senate,Unexpired Term,,Chris McDaniel,314
+Forrest,Petal Civic Center,U.S. Senate,Unexpired Term,,Cindy Hyde-Smith,433
+Forrest,Petal Civic Center,U.S. Senate,Unexpired Term,,Mike Espy,175
+Forrest,Petal Civic Center,U.S. Senate,Unexpired Term,,Tobey Bernard Bartee,11
+Forrest,Petal Civic Center,U.S. Senate,,DEM,David Baria,163
+Forrest,Petal Civic Center,U.S. Senate,,LIB,Danny Bedwell,23
+Forrest,Petal Civic Center,U.S. Senate,,REF,Shawn O'Hara,9
+Forrest,Petal Civic Center,U.S. Senate,,REP,Roger F. Wicker,723
+Forrest,Petal Masonic,U.S. House,4,DEM,Jeramey Anderson,150
+Forrest,Petal Masonic,U.S. House,4,REF,Lajena Sheets,14
+Forrest,Petal Masonic,U.S. House,4,REP,Steven Palazzo,708
+Forrest,Petal Masonic,U.S. Senate,Unexpired Term,,Chris McDaniel,314
+Forrest,Petal Masonic,U.S. Senate,Unexpired Term,,Cindy Hyde-Smith,401
+Forrest,Petal Masonic,U.S. Senate,Unexpired Term,,Mike Espy,150
+Forrest,Petal Masonic,U.S. Senate,Unexpired Term,,Tobey Bernard Bartee,8
+Forrest,Petal Masonic,U.S. Senate,,DEM,David Baria,148
+Forrest,Petal Masonic,U.S. Senate,,LIB,Danny Bedwell,27
+Forrest,Petal Masonic,U.S. Senate,,REF,Shawn O'Hara,12
+Forrest,Petal Masonic,U.S. Senate,,REP,Roger F. Wicker,671
+Forrest,Pinecrest,U.S. House,4,DEM,Jeramey Anderson,543
+Forrest,Pinecrest,U.S. House,4,REF,Lajena Sheets,8
+Forrest,Pinecrest,U.S. House,4,REP,Steven Palazzo,297
+Forrest,Pinecrest,U.S. Senate,Unexpired Term,,Chris McDaniel,53
+Forrest,Pinecrest,U.S. Senate,Unexpired Term,,Cindy Hyde-Smith,229
+Forrest,Pinecrest,U.S. Senate,Unexpired Term,,Mike Espy,528
+Forrest,Pinecrest,U.S. Senate,Unexpired Term,,Tobey Bernard Bartee,32
+Forrest,Pinecrest,U.S. Senate,,DEM,David Baria,528
+Forrest,Pinecrest,U.S. Senate,,LIB,Danny Bedwell,25
+Forrest,Pinecrest,U.S. Senate,,REF,Shawn O'Hara,9
+Forrest,Pinecrest,U.S. Senate,,REP,Roger F. Wicker,282
+Forrest,Rawis Springs,U.S. House,4,DEM,Jeramey Anderson,321
+Forrest,Rawis Springs,U.S. House,4,REF,Lajena Sheets,5
+Forrest,Rawis Springs,U.S. House,4,REP,Steven Palazzo,355
+Forrest,Rawis Springs,U.S. Senate,Unexpired Term,,Chris McDaniel,121
+Forrest,Rawis Springs,U.S. Senate,Unexpired Term,,Cindy Hyde-Smith,235
+Forrest,Rawis Springs,U.S. Senate,Unexpired Term,,Mike Espy,315
+Forrest,Rawis Springs,U.S. Senate,Unexpired Term,,Tobey Bernard Bartee,10
+Forrest,Rawis Springs,U.S. Senate,,DEM,David Baria,310
+Forrest,Rawis Springs,U.S. Senate,,LIB,Danny Bedwell,6
+Forrest,Rawis Springs,U.S. Senate,,REF,Shawn O'Hara,5
+Forrest,Rawis Springs,U.S. Senate,,REP,Roger F. Wicker,338
+Forrest,Richburg,U.S. House,4,DEM,Jeramey Anderson,140
+Forrest,Richburg,U.S. House,4,REF,Lajena Sheets,3
+Forrest,Richburg,U.S. House,4,REP,Steven Palazzo,272
+Forrest,Richburg,U.S. Senate,Unexpired Term,,Chris McDaniel,80
+Forrest,Richburg,U.S. Senate,Unexpired Term,,Cindy Hyde-Smith,188
+Forrest,Richburg,U.S. Senate,Unexpired Term,,Mike Espy,149
+Forrest,Richburg,U.S. Senate,Unexpired Term,,Tobey Bernard Bartee,3
+Forrest,Richburg,U.S. Senate,,DEM,David Baria,132
+Forrest,Richburg,U.S. Senate,,LIB,Danny Bedwell,15
+Forrest,Richburg,U.S. Senate,,REF,Shawn O'Hara,0
+Forrest,Richburg,U.S. Senate,,REP,Roger F. Wicker,263
+Forrest,Rowan,U.S. House,4,DEM,Jeramey Anderson,413
+Forrest,Rowan,U.S. House,4,REF,Lajena Sheets,2
+Forrest,Rowan,U.S. House,4,REP,Steven Palazzo,17
+Forrest,Rowan,U.S. Senate,Unexpired Term,,Chris McDaniel,2
+Forrest,Rowan,U.S. Senate,Unexpired Term,,Cindy Hyde-Smith,5
+Forrest,Rowan,U.S. Senate,Unexpired Term,,Mike Espy,439
+Forrest,Rowan,U.S. Senate,Unexpired Term,,Tobey Bernard Bartee,6
+Forrest,Rowan,U.S. Senate,,DEM,David Baria,380
+Forrest,Rowan,U.S. Senate,,LIB,Danny Bedwell,6
+Forrest,Rowan,U.S. Senate,,REF,Shawn O'Hara,8
+Forrest,Rowan,U.S. Senate,,REP,Roger F. Wicker,18
+Forrest,Sheeplo,U.S. House,4,DEM,Jeramey Anderson,179
+Forrest,Sheeplo,U.S. House,4,REF,Lajena Sheets,3
+Forrest,Sheeplo,U.S. House,4,REP,Steven Palazzo,367
+Forrest,Sheeplo,U.S. Senate,Unexpired Term,,Chris McDaniel,137
+Forrest,Sheeplo,U.S. Senate,Unexpired Term,,Cindy Hyde-Smith,223
+Forrest,Sheeplo,U.S. Senate,Unexpired Term,,Mike Espy,177
+Forrest,Sheeplo,U.S. Senate,Unexpired Term,,Tobey Bernard Bartee,6
+Forrest,Sheeplo,U.S. Senate,,DEM,David Baria,171
+Forrest,Sheeplo,U.S. Senate,,LIB,Danny Bedwell,10
+Forrest,Sheeplo,U.S. Senate,,REF,Shawn O'Hara,4
+Forrest,Sheeplo,U.S. Senate,,REP,Roger F. Wicker,348
+Forrest,Sigler Center,U.S. House,4,DEM,Jeramey Anderson,511
+Forrest,Sigler Center,U.S. House,4,REF,Lajena Sheets,4
+Forrest,Sigler Center,U.S. House,4,REP,Steven Palazzo,167
+Forrest,Sigler Center,U.S. Senate,Unexpired Term,,Chris McDaniel,49
+Forrest,Sigler Center,U.S. Senate,Unexpired Term,,Cindy Hyde-Smith,105
+Forrest,Sigler Center,U.S. Senate,Unexpired Term,,Mike Espy,504
+Forrest,Sigler Center,U.S. Senate,Unexpired Term,,Tobey Bernard Bartee,35
+Forrest,Sigler Center,U.S. Senate,,DEM,David Baria,478
+Forrest,Sigler Center,U.S. Senate,,LIB,Danny Bedwell,9
+Forrest,Sigler Center,U.S. Senate,,REF,Shawn O'Hara,9
+Forrest,Sigler Center,U.S. Senate,,REP,Roger F. Wicker,156
+Forrest,Sunrise,U.S. House,4,DEM,Jeramey Anderson,264
+Forrest,Sunrise,U.S. House,4,REF,Lajena Sheets,7
+Forrest,Sunrise,U.S. House,4,REP,Steven Palazzo,1402
+Forrest,Sunrise,U.S. Senate,Unexpired Term,,Chris McDaniel,531
+Forrest,Sunrise,U.S. Senate,Unexpired Term,,Cindy Hyde-Smith,876
+Forrest,Sunrise,U.S. Senate,Unexpired Term,,Mike Espy,259
+Forrest,Sunrise,U.S. Senate,Unexpired Term,,Tobey Bernard Bartee,13
+Forrest,Sunrise,U.S. Senate,,DEM,David Baria,266
+Forrest,Sunrise,U.S. Senate,,LIB,Danny Bedwell,28
+Forrest,Sunrise,U.S. Senate,,REF,Shawn O'Hara,6
+Forrest,Sunrise,U.S. Senate,,REP,Roger F. Wicker,1368
+Forrest,Thames,U.S. House,4,DEM,Jeramey Anderson,457
+Forrest,Thames,U.S. House,4,REF,Lajena Sheets,18
+Forrest,Thames,U.S. House,4,REP,Steven Palazzo,1018
+Forrest,Thames,U.S. Senate,Unexpired Term,,Chris McDaniel,171
+Forrest,Thames,U.S. Senate,Unexpired Term,,Cindy Hyde-Smith,822
+Forrest,Thames,U.S. Senate,Unexpired Term,,Mike Espy,480
+Forrest,Thames,U.S. Senate,Unexpired Term,,Tobey Bernard Bartee,19
+Forrest,Thames,U.S. Senate,,DEM,David Baria,441
+Forrest,Thames,U.S. Senate,,LIB,Danny Bedwell,23
+Forrest,Thames,U.S. Senate,,REF,Shawn O'Hara,8
+Forrest,Thames,U.S. Senate,,REP,Roger F. Wicker,1021
+Forrest,Timberton,U.S. House,4,DEM,Jeramey Anderson,163
+Forrest,Timberton,U.S. House,4,REF,Lajena Sheets,8
+Forrest,Timberton,U.S. House,4,REP,Steven Palazzo,570
+Forrest,Timberton,U.S. Senate,Unexpired Term,,Chris McDaniel,135
+Forrest,Timberton,U.S. Senate,Unexpired Term,,Cindy Hyde-Smith,431
+Forrest,Timberton,U.S. Senate,Unexpired Term,,Mike Espy,163
+Forrest,Timberton,U.S. Senate,Unexpired Term,,Tobey Bernard Bartee,11
+Forrest,Timberton,U.S. Senate,,DEM,David Baria,156
+Forrest,Timberton,U.S. Senate,,LIB,Danny Bedwell,5
+Forrest,Timberton,U.S. Senate,,REF,Shawn O'Hara,3
+Forrest,Timberton,U.S. Senate,,REP,Roger F. Wicker,569
+Forrest,Total,U.S. House,4,DEM,Jeramey Anderson,9598
+Forrest,Total,U.S. House,4,REF,Lajena Sheets,200
+Forrest,Total,U.S. House,4,REP,Steven Palazzo,12932
+Forrest,Total,U.S. Senate,Unexpired Term,,Chris McDaniel,4434
+Forrest,Total,U.S. Senate,Unexpired Term,,Cindy Hyde-Smith,8272
+Forrest,Total,U.S. Senate,Unexpired Term,,Mike Espy,9725
+Forrest,Total,U.S. Senate,Unexpired Term,,Tobey Bernard Bartee,419
+Forrest,Total,U.S. Senate,,DEM,David Baria,9134
+Forrest,Total,U.S. Senate,,LIB,Danny Bedwell,407
+Forrest,Total,U.S. Senate,,REF,Shawn O'Hara,223
+Forrest,Total,U.S. Senate,,REP,Roger F. Wicker,12539
+Forrest,Train Depot,U.S. House,4,DEM,Jeramey Anderson,231
+Forrest,Train Depot,U.S. House,4,REF,Lajena Sheets,9
+Forrest,Train Depot,U.S. House,4,REP,Steven Palazzo,47
+Forrest,Train Depot,U.S. Senate,Unexpired Term,,Chris McDaniel,17
+Forrest,Train Depot,U.S. Senate,Unexpired Term,,Cindy Hyde-Smith,27
+Forrest,Train Depot,U.S. Senate,Unexpired Term,,Mike Espy,244
+Forrest,Train Depot,U.S. Senate,Unexpired Term,,Tobey Bernard Bartee,5
+Forrest,Train Depot,U.S. Senate,,DEM,David Baria,215
+Forrest,Train Depot,U.S. Senate,,LIB,Danny Bedwell,5
+Forrest,Train Depot,U.S. Senate,,REF,Shawn O'Hara,13
+Forrest,Train Depot,U.S. Senate,,REP,Roger F. Wicker,45
+Forrest,West Hills,U.S. House,4,DEM,Jeramey Anderson,147
+Forrest,West Hills,U.S. House,4,REF,Lajena Sheets,1
+Forrest,West Hills,U.S. House,4,REP,Steven Palazzo,268
+Forrest,West Hills,U.S. Senate,Unexpired Term,,Chris McDaniel,54
+Forrest,West Hills,U.S. Senate,Unexpired Term,,Cindy Hyde-Smith,212
+Forrest,West Hills,U.S. Senate,Unexpired Term,,Mike Espy,140
+Forrest,West Hills,U.S. Senate,Unexpired Term,,Tobey Bernard Bartee,9
+Forrest,West Hills,U.S. Senate,,DEM,David Baria,139
+Forrest,West Hills,U.S. Senate,,LIB,Danny Bedwell,9
+Forrest,West Hills,U.S. Senate,,REF,Shawn O'Hara,1
+Forrest,West Hills,U.S. Senate,,REP,Roger F. Wicker,267
+Forrest,West Petal,U.S. House,4,DEM,Jeramey Anderson,110
+Forrest,West Petal,U.S. House,4,REF,Lajena Sheets,3
+Forrest,West Petal,U.S. House,4,REP,Steven Palazzo,222
+Forrest,West Petal,U.S. Senate,Unexpired Term,,Chris McDaniel,94
+Forrest,West Petal,U.S. Senate,Unexpired Term,,Cindy Hyde-Smith,120
+Forrest,West Petal,U.S. Senate,Unexpired Term,,Mike Espy,105
+Forrest,West Petal,U.S. Senate,Unexpired Term,,Tobey Bernard Bartee,12
+Forrest,West Petal,U.S. Senate,,DEM,David Baria,104
+Forrest,West Petal,U.S. Senate,,LIB,Danny Bedwell,9
+Forrest,West Petal,U.S. Senate,,REF,Shawn O'Hara,6
+Forrest,West Petal,U.S. Senate,,REP,Roger F. Wicker,208
+Forrest,Westside,U.S. House,4,DEM,Jeramey Anderson,315
+Forrest,Westside,U.S. House,4,REF,Lajena Sheets,4
+Forrest,Westside,U.S. House,4,REP,Steven Palazzo,253
+Forrest,Westside,U.S. Senate,Unexpired Term,,Chris McDaniel,56
+Forrest,Westside,U.S. Senate,Unexpired Term,,Cindy Hyde-Smith,190
+Forrest,Westside,U.S. Senate,Unexpired Term,,Mike Espy,314
+Forrest,Westside,U.S. Senate,Unexpired Term,,Tobey Bernard Bartee,13
+Forrest,Westside,U.S. Senate,,DEM,David Baria,293
+Forrest,Westside,U.S. Senate,,LIB,Danny Bedwell,8
+Forrest,Westside,U.S. Senate,,REF,Shawn O'Hara,7
+Forrest,Westside,U.S. Senate,,REP,Roger F. Wicker,259

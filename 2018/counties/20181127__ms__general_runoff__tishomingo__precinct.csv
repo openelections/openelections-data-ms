@@ -1,31 +1,31 @@
-Page,candidate,office,district,party,county,precinct,votes,winner
-2,Mike Espy,U.S. Senate,Unexpired Term,,Tishomingo,Iuka,209,
-2,Cindy Hyde-Smith,U.S. Senate,Unexpired Term,,Tishomingo,Iuka,898,
-2,Mike Espy,U.S. Senate,Unexpired Term,,Tishomingo,Belmont,46,
-2,Cindy Hyde-Smith,U.S. Senate,Unexpired Term,,Tishomingo,Belmont,494,
-2,Mike Espy,U.S. Senate,Unexpired Term,,Tishomingo,Burnsville,53,
-2,Cindy Hyde-Smith,U.S. Senate,Unexpired Term,,Tishomingo,Burnsville,389,
-2,Mike Espy,U.S. Senate,Unexpired Term,,Tishomingo,Coles Mill,42,
-2,Cindy Hyde-Smith,U.S. Senate,Unexpired Term,,Tishomingo,Coles Mill,273,
-2,Mike Espy,U.S. Senate,Unexpired Term,,Tishomingo,Cotton Springs,12,
-2,Cindy Hyde-Smith,U.S. Senate,Unexpired Term,,Tishomingo,Cotton Springs,132,
-2,Mike Espy,U.S. Senate,Unexpired Term,,Tishomingo,Dennis,9,
-2,Cindy Hyde-Smith,U.S. Senate,Unexpired Term,,Tishomingo,Dennis,147,
-2,Mike Espy,U.S. Senate,Unexpired Term,,Tishomingo,East Iuka,157,
-2,Cindy Hyde-Smith,U.S. Senate,Unexpired Term,,Tishomingo,East Iuka,619,
-2,Mike Espy,U.S. Senate,Unexpired Term,,Tishomingo,Golden,32,
-2,Cindy Hyde-Smith,U.S. Senate,Unexpired Term,,Tishomingo,Golden,320,
-2,Mike Espy,U.S. Senate,Unexpired Term,,Tishomingo,Hubbard Salem,12,
-2,Cindy Hyde-Smith,U.S. Senate,Unexpired Term,,Tishomingo,Hubbard Salem,69,
-2,Mike Espy,U.S. Senate,Unexpired Term,,Tishomingo,North Belmont,14,
-2,Cindy Hyde-Smith,U.S. Senate,Unexpired Term,,Tishomingo,North Belmont,168,
-2,Mike Espy,U.S. Senate,Unexpired Term,,Tishomingo,North Burnsville,37,
-2,Cindy Hyde-Smith,U.S. Senate,Unexpired Term,,Tishomingo,North Burnsville,230,
-3,Mike Espy,U.S. Senate,Unexpired Term,,Tishomingo,Paden,25,
-3,Cindy Hyde-Smith,U.S. Senate,Unexpired Term,,Tishomingo,Paden,148,
-3,Mike Espy,U.S. Senate,Unexpired Term,,Tishomingo,Springhill,54,
-3,Cindy Hyde-Smith,U.S. Senate,Unexpired Term,,Tishomingo,Springhill,196,
-3,Mike Espy,U.S. Senate,Unexpired Term,,Tishomingo,Tishomingo,193,
-3,Cindy Hyde-Smith,U.S. Senate,Unexpired Term,,Tishomingo,Tishomingo,469,
-3,Mike Espy,U.S. Senate,Unexpired Term,,Tishomingo,TOTAL ,895,
-3,Cindy Hyde-Smith,U.S. Senate,Unexpired Term,,Tishomingo,TOTAL ,4552,
+county,precinct,office,district,party,candidate,votes
+Tishomingo,Belmont,U.S. Senate,Unexpired Term,,Cindy Hyde-Smith,494
+Tishomingo,Belmont,U.S. Senate,Unexpired Term,,Mike Espy,46
+Tishomingo,Burnsville,U.S. Senate,Unexpired Term,,Cindy Hyde-Smith,389
+Tishomingo,Burnsville,U.S. Senate,Unexpired Term,,Mike Espy,53
+Tishomingo,Coles Mill,U.S. Senate,Unexpired Term,,Cindy Hyde-Smith,273
+Tishomingo,Coles Mill,U.S. Senate,Unexpired Term,,Mike Espy,42
+Tishomingo,Cotton Springs,U.S. Senate,Unexpired Term,,Cindy Hyde-Smith,132
+Tishomingo,Cotton Springs,U.S. Senate,Unexpired Term,,Mike Espy,12
+Tishomingo,Dennis,U.S. Senate,Unexpired Term,,Cindy Hyde-Smith,147
+Tishomingo,Dennis,U.S. Senate,Unexpired Term,,Mike Espy,9
+Tishomingo,East Iuka,U.S. Senate,Unexpired Term,,Cindy Hyde-Smith,619
+Tishomingo,East Iuka,U.S. Senate,Unexpired Term,,Mike Espy,157
+Tishomingo,Golden,U.S. Senate,Unexpired Term,,Cindy Hyde-Smith,320
+Tishomingo,Golden,U.S. Senate,Unexpired Term,,Mike Espy,32
+Tishomingo,Hubbard Salem,U.S. Senate,Unexpired Term,,Cindy Hyde-Smith,69
+Tishomingo,Hubbard Salem,U.S. Senate,Unexpired Term,,Mike Espy,12
+Tishomingo,Iuka,U.S. Senate,Unexpired Term,,Cindy Hyde-Smith,898
+Tishomingo,Iuka,U.S. Senate,Unexpired Term,,Mike Espy,209
+Tishomingo,North Belmont,U.S. Senate,Unexpired Term,,Cindy Hyde-Smith,168
+Tishomingo,North Belmont,U.S. Senate,Unexpired Term,,Mike Espy,14
+Tishomingo,North Burnsville,U.S. Senate,Unexpired Term,,Cindy Hyde-Smith,230
+Tishomingo,North Burnsville,U.S. Senate,Unexpired Term,,Mike Espy,37
+Tishomingo,Paden,U.S. Senate,Unexpired Term,,Cindy Hyde-Smith,148
+Tishomingo,Paden,U.S. Senate,Unexpired Term,,Mike Espy,25
+Tishomingo,Springhill,U.S. Senate,Unexpired Term,,Cindy Hyde-Smith,196
+Tishomingo,Springhill,U.S. Senate,Unexpired Term,,Mike Espy,54
+Tishomingo,Tishomingo,U.S. Senate,Unexpired Term,,Cindy Hyde-Smith,469
+Tishomingo,Tishomingo,U.S. Senate,Unexpired Term,,Mike Espy,193
+Tishomingo,Total,U.S. Senate,Unexpired Term,,Cindy Hyde-Smith,4552
+Tishomingo,Total,U.S. Senate,Unexpired Term,,Mike Espy,895

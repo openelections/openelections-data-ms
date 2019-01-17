@@ -1,23 +1,23 @@
-Page,candidate,office,district,party,county,precinct,votes,winner
-2,Mike Espy,U.S. Senate,Unexpired Term,,Quitman,Crenshaw,95,
-2,Cindy Hyde-Smith,U.S. Senate,Unexpired Term,,Quitman,Crenshaw,1,
-2,Mike Espy,U.S. Senate,Unexpired Term,,Quitman,Crowder,31,
-2,Cindy Hyde-Smith,U.S. Senate,Unexpired Term,,Quitman,Crowder,157,
-2,Mike Espy,U.S. Senate,Unexpired Term,,Quitman,Darling,110,
-2,Cindy Hyde-Smith,U.S. Senate,Unexpired Term,,Quitman,Darling,25,
-2,Mike Espy,U.S. Senate,Unexpired Term,,Quitman,District 3 North,160,
-2,Cindy Hyde-Smith,U.S. Senate,Unexpired Term,,Quitman,District 3 North,127,
-2,Mike Espy,U.S. Senate,Unexpired Term,,Quitman,District 3 South,151,
-2,Cindy Hyde-Smith,U.S. Senate,Unexpired Term,,Quitman,District 3 South,129,
-2,Mike Espy,U.S. Senate,Unexpired Term,,Quitman,Lambert,225,
-2,Cindy Hyde-Smith,U.S. Senate,Unexpired Term,,Quitman,Lambert,38,
-2,Mike Espy,U.S. Senate,Unexpired Term,,Quitman,North West Marks,322,
-2,Cindy Hyde-Smith,U.S. Senate,Unexpired Term,,Quitman,North West Marks,72,
-2,Mike Espy,U.S. Senate,Unexpired Term,,Quitman,Sledge,279,
-2,Cindy Hyde-Smith,U.S. Senate,Unexpired Term,,Quitman,Sledge,31,
-2,Mike Espy,U.S. Senate,Unexpired Term,,Quitman,South West Marks,201,
-2,Cindy Hyde-Smith,U.S. Senate,Unexpired Term,,Quitman,South West Marks,54,
-2,Mike Espy,U.S. Senate,Unexpired Term,,Quitman,West Lambert,214,
-2,Cindy Hyde-Smith,U.S. Senate,Unexpired Term,,Quitman,West Lambert,50,
-2,Mike Espy,U.S. Senate,Unexpired Term,,Quitman,TOTAL,1788,
-2,Cindy Hyde-Smith,U.S. Senate,Unexpired Term,,Quitman,TOTAL,684,
+county,precinct,office,district,party,candidate,votes
+Quitman,Crenshaw,U.S. Senate,Unexpired Term,,Cindy Hyde-Smith,1
+Quitman,Crenshaw,U.S. Senate,Unexpired Term,,Mike Espy,95
+Quitman,Crowder,U.S. Senate,Unexpired Term,,Cindy Hyde-Smith,157
+Quitman,Crowder,U.S. Senate,Unexpired Term,,Mike Espy,31
+Quitman,Darling,U.S. Senate,Unexpired Term,,Cindy Hyde-Smith,25
+Quitman,Darling,U.S. Senate,Unexpired Term,,Mike Espy,110
+Quitman,District 3 North,U.S. Senate,Unexpired Term,,Cindy Hyde-Smith,127
+Quitman,District 3 North,U.S. Senate,Unexpired Term,,Mike Espy,160
+Quitman,District 3 South,U.S. Senate,Unexpired Term,,Cindy Hyde-Smith,129
+Quitman,District 3 South,U.S. Senate,Unexpired Term,,Mike Espy,151
+Quitman,Lambert,U.S. Senate,Unexpired Term,,Cindy Hyde-Smith,38
+Quitman,Lambert,U.S. Senate,Unexpired Term,,Mike Espy,225
+Quitman,North West Marks,U.S. Senate,Unexpired Term,,Cindy Hyde-Smith,72
+Quitman,North West Marks,U.S. Senate,Unexpired Term,,Mike Espy,322
+Quitman,Sledge,U.S. Senate,Unexpired Term,,Cindy Hyde-Smith,31
+Quitman,Sledge,U.S. Senate,Unexpired Term,,Mike Espy,279
+Quitman,South West Marks,U.S. Senate,Unexpired Term,,Cindy Hyde-Smith,54
+Quitman,South West Marks,U.S. Senate,Unexpired Term,,Mike Espy,201
+Quitman,Total,U.S. Senate,Unexpired Term,,Cindy Hyde-Smith,684
+Quitman,Total,U.S. Senate,Unexpired Term,,Mike Espy,1788
+Quitman,West Lambert,U.S. Senate,Unexpired Term,,Cindy Hyde-Smith,50
+Quitman,West Lambert,U.S. Senate,Unexpired Term,,Mike Espy,214

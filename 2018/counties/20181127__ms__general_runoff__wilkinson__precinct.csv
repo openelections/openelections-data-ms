@@ -1,21 +1,21 @@
-Page,candidate,office,district,party,county,precinct,votes,winner
-2,Mike Espy,U.S. Senate,Unexpired Term,,Wilkinson,Centreville 1st 1020,266,
-2,Cindy Hyde-Smith,U.S. Senate,Unexpired Term,,Wilkinson,Centreville 1st 1020,62,
-2,Mike Espy,U.S. Senate,Unexpired Term,,Wilkinson,Centreville 3rd 3010,307,
-2,Cindy Hyde-Smith,U.S. Senate,Unexpired Term,,Wilkinson,Centreville 3rd 3010,198,
-2,Mike Espy,U.S. Senate,Unexpired Term,,Wilkinson,Cold Springs 4020,75,
-2,Cindy Hyde-Smith,U.S. Senate,Unexpired Term,,Wilkinson,Cold Springs 4020,56,
-2,Mike Espy,U.S. Senate,Unexpired Term,,Wilkinson,Fort Adams 2020,194,
-2,Cindy Hyde-Smith,U.S. Senate,Unexpired Term,,Wilkinson,Fort Adams 2020,41,
-2,Mike Espy,U.S. Senate,Unexpired Term,,Wilkinson,Longmire 5020,118,
-2,Cindy Hyde-Smith,U.S. Senate,Unexpired Term,,Wilkinson,Longmire 5020,132,
-2,Mike Espy,U.S. Senate,Unexpired Term,,Wilkinson,Woodville 5th 5010,188,
-2,Cindy Hyde-Smith,U.S. Senate,Unexpired Term,,Wilkinson,Woodville 5th 5010,1367,
-2,Mike Espy,U.S. Senate,Unexpired Term,,Wilkinson,Woodville 4th 4010,406,
-2,Cindy Hyde-Smith,U.S. Senate,Unexpired Term,,Wilkinson,Woodville 4th 4010,74,
-2,Mike Espy,U.S. Senate,Unexpired Term,,Wilkinson,Woodville 1010,158,
-2,Cindy Hyde-Smith,U.S. Senate,Unexpired Term,,Wilkinson,Woodville 1010,89,
-2,Mike Espy,U.S. Senate,Unexpired Term,,Wilkinson,Woodville 2nd 2010,254,
-2,Cindy Hyde-Smith,U.S. Senate,Unexpired Term,,Wilkinson,Woodville 2nd 2010,62,
-2,Mike Espy,U.S. Senate,Unexpired Term,,Wilkinson,TOTAL ,1966,
-2,Cindy Hyde-Smith,U.S. Senate,Unexpired Term,,Wilkinson,TOTAL ,851,
+county,precinct,office,district,party,candidate,votes
+Wilkinson,Centreville 1st 1020,U.S. Senate,Unexpired Term,,Cindy Hyde-Smith,62
+Wilkinson,Centreville 1st 1020,U.S. Senate,Unexpired Term,,Mike Espy,266
+Wilkinson,Centreville 3rd 3010,U.S. Senate,Unexpired Term,,Cindy Hyde-Smith,198
+Wilkinson,Centreville 3rd 3010,U.S. Senate,Unexpired Term,,Mike Espy,307
+Wilkinson,Cold Springs 4020,U.S. Senate,Unexpired Term,,Cindy Hyde-Smith,56
+Wilkinson,Cold Springs 4020,U.S. Senate,Unexpired Term,,Mike Espy,75
+Wilkinson,Fort Adams 2020,U.S. Senate,Unexpired Term,,Cindy Hyde-Smith,41
+Wilkinson,Fort Adams 2020,U.S. Senate,Unexpired Term,,Mike Espy,194
+Wilkinson,Longmire 5020,U.S. Senate,Unexpired Term,,Cindy Hyde-Smith,132
+Wilkinson,Longmire 5020,U.S. Senate,Unexpired Term,,Mike Espy,118
+Wilkinson,Total,U.S. Senate,Unexpired Term,,Cindy Hyde-Smith,851
+Wilkinson,Total,U.S. Senate,Unexpired Term,,Mike Espy,1966
+Wilkinson,Woodville 1010,U.S. Senate,Unexpired Term,,Cindy Hyde-Smith,89
+Wilkinson,Woodville 1010,U.S. Senate,Unexpired Term,,Mike Espy,158
+Wilkinson,Woodville 2nd 2010,U.S. Senate,Unexpired Term,,Cindy Hyde-Smith,62
+Wilkinson,Woodville 2nd 2010,U.S. Senate,Unexpired Term,,Mike Espy,254
+Wilkinson,Woodville 4th 4010,U.S. Senate,Unexpired Term,,Cindy Hyde-Smith,74
+Wilkinson,Woodville 4th 4010,U.S. Senate,Unexpired Term,,Mike Espy,406
+Wilkinson,Woodville 5th 5010,U.S. Senate,Unexpired Term,,Cindy Hyde-Smith,1367
+Wilkinson,Woodville 5th 5010,U.S. Senate,Unexpired Term,,Mike Espy,188

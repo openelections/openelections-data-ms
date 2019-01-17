@@ -1,167 +1,39 @@
-Page,candidate,office,district,party,county,precinct,votes,winner
-2,Mike Espy,U.S. Senate,Unexpired Term,,Jefferson Davis,11-Granby,62,
-2,Cindy Hyde-Smith,U.S. Senate,Unexpired Term,,Jefferson Davis,11-Granby,33,
-2,Mike Espy,U.S. Senate,Unexpired Term,,Jefferson Davis,Bassfield 26,147,
-2,Cindy Hyde-Smith,U.S. Senate,Unexpired Term,,Jefferson Davis,Bassfield 26,125,
-2,Mike Espy,U.S. Senate,Unexpired Term,,Jefferson Davis,Bassfield Highway 42-31,649,
-2,Cindy Hyde-Smith,U.S. Senate,Unexpired Term,,Jefferson Davis,Bassfield Highway 42-31,143,
-2,Mike Espy,U.S. Senate,Unexpired Term,,Jefferson Davis,Carson 22,55,
-2,Cindy Hyde-Smith,U.S. Senate,Unexpired Term,,Jefferson Davis,Carson 22,115,
-2,Mike Espy,U.S. Senate,Unexpired Term,,Jefferson Davis,Clem 41,76,
-2,Cindy Hyde-Smith,U.S. Senate,Unexpired Term,,Jefferson Davis,Clem 41,71,
-2,Mike Espy,U.S. Senate,Unexpired Term,,Jefferson Davis,Good Hope/Melba 33,98,
-2,Cindy Hyde-Smith,U.S. Senate,Unexpired Term,,Jefferson Davis,Good Hope/Melba 33,143,
-2,Mike Espy,U.S. Senate,Unexpired Term,,Jefferson Davis,Green's Creek 23,83,
-2,Cindy Hyde-Smith,U.S. Senate,Unexpired Term,,Jefferson Davis,Green's Creek 23,150,
-2,Mike Espy,U.S. Senate,Unexpired Term,,Jefferson Davis,Gwinville/Old Hebron-51,144,
-2,Cindy Hyde-Smith,U.S. Senate,Unexpired Term,,Jefferson Davis,Gwinville/Old Hebron-51,75,
-2,Mike Espy,U.S. Senate,Unexpired Term,,Jefferson Davis,Mt Carmel 42,155,
-2,Cindy Hyde-Smith,U.S. Senate,Unexpired Term,,Jefferson Davis,Mt Carmel 42,9,
-2,Mike Espy,U.S. Senate,Unexpired Term,,Jefferson Davis,North East Prentiss 43,371,
-2,Cindy Hyde-Smith,U.S. Senate,Unexpired Term,,Jefferson Davis,North East Prentiss 43,130,
-2,Mike Espy,U.S. Senate,Unexpired Term,,Jefferson Davis,North West Prentiss 53,168,
-2,Cindy Hyde-Smith,U.S. Senate,Unexpired Term,,Jefferson Davis,North West Prentiss 53,50,
-3,Mike Espy,U.S. Senate,Unexpired Term,,Jefferson Davis,Purged Voters,0,
-3,Cindy Hyde-Smith,U.S. Senate,Unexpired Term,,Jefferson Davis,Purged Voters,0,
-3,Mike Espy,U.S. Senate,Unexpired Term,,Jefferson Davis,Red House 55,222,
-3,Cindy Hyde-Smith,U.S. Senate,Unexpired Term,,Jefferson Davis,Red House 55,68,
-3,Mike Espy,U.S. Senate,Unexpired Term,,Jefferson Davis,Son's Academy/Hathorn 25,201,
-3,Cindy Hyde-Smith,U.S. Senate,Unexpired Term,,Jefferson Davis,Son's Academy/Hathorn 25,129,
-3,Mike Espy,U.S. Senate,Unexpired Term,,Jefferson Davis,South Prentiss 12,210,
-3,Cindy Hyde-Smith,U.S. Senate,Unexpired Term,,Jefferson Davis,South Prentiss 12,248,
-3,Mike Espy,U.S. Senate,Unexpired Term,,Jefferson Davis,South Prentiss 13,248,
-3,Cindy Hyde-Smith,U.S. Senate,Unexpired Term,,Jefferson Davis,South Prentiss 13,120,
-3,Mike Espy,U.S. Senate,Unexpired Term,,Jefferson Davis,Whiting 56,220,
-3,Cindy Hyde-Smith,U.S. Senate,Unexpired Term,,Jefferson Davis,Whiting 56,31,
-3,Mike Espy,U.S. Senate,Unexpired Term,,Jefferson Davis,Williamson Mill 44,96,
-3,Cindy Hyde-Smith,U.S. Senate,Unexpired Term,,Jefferson Davis,Williamson Mill 44,152,
-3,Mike Espy,U.S. Senate,Unexpired Term,,Jefferson Davis,TOTAL ,3205,
-3,Cindy Hyde-Smith,U.S. Senate,Unexpired Term,,Jefferson Davis,TOTAL ,1792,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
+county,precinct,office,district,party,candidate,votes
+Jefferson Davis,11-Granby,U.S. Senate,Unexpired Term,,Cindy Hyde-Smith,33
+Jefferson Davis,11-Granby,U.S. Senate,Unexpired Term,,Mike Espy,62
+Jefferson Davis,Bassfield 26,U.S. Senate,Unexpired Term,,Cindy Hyde-Smith,125
+Jefferson Davis,Bassfield 26,U.S. Senate,Unexpired Term,,Mike Espy,147
+Jefferson Davis,Bassfield Highway 42-31,U.S. Senate,Unexpired Term,,Cindy Hyde-Smith,143
+Jefferson Davis,Bassfield Highway 42-31,U.S. Senate,Unexpired Term,,Mike Espy,649
+Jefferson Davis,Carson 22,U.S. Senate,Unexpired Term,,Cindy Hyde-Smith,115
+Jefferson Davis,Carson 22,U.S. Senate,Unexpired Term,,Mike Espy,55
+Jefferson Davis,Clem 41,U.S. Senate,Unexpired Term,,Cindy Hyde-Smith,71
+Jefferson Davis,Clem 41,U.S. Senate,Unexpired Term,,Mike Espy,76
+Jefferson Davis,Good Hope/Melba 33,U.S. Senate,Unexpired Term,,Cindy Hyde-Smith,143
+Jefferson Davis,Good Hope/Melba 33,U.S. Senate,Unexpired Term,,Mike Espy,98
+Jefferson Davis,Green's Creek 23,U.S. Senate,Unexpired Term,,Cindy Hyde-Smith,150
+Jefferson Davis,Green's Creek 23,U.S. Senate,Unexpired Term,,Mike Espy,83
+Jefferson Davis,Gwinville/Old Hebron-51,U.S. Senate,Unexpired Term,,Cindy Hyde-Smith,75
+Jefferson Davis,Gwinville/Old Hebron-51,U.S. Senate,Unexpired Term,,Mike Espy,144
+Jefferson Davis,Mt Carmel 42,U.S. Senate,Unexpired Term,,Cindy Hyde-Smith,9
+Jefferson Davis,Mt Carmel 42,U.S. Senate,Unexpired Term,,Mike Espy,155
+Jefferson Davis,North East Prentiss 43,U.S. Senate,Unexpired Term,,Cindy Hyde-Smith,130
+Jefferson Davis,North East Prentiss 43,U.S. Senate,Unexpired Term,,Mike Espy,371
+Jefferson Davis,North West Prentiss 53,U.S. Senate,Unexpired Term,,Cindy Hyde-Smith,50
+Jefferson Davis,North West Prentiss 53,U.S. Senate,Unexpired Term,,Mike Espy,168
+Jefferson Davis,Purged Voters,U.S. Senate,Unexpired Term,,Cindy Hyde-Smith,0
+Jefferson Davis,Purged Voters,U.S. Senate,Unexpired Term,,Mike Espy,0
+Jefferson Davis,Red House 55,U.S. Senate,Unexpired Term,,Cindy Hyde-Smith,68
+Jefferson Davis,Red House 55,U.S. Senate,Unexpired Term,,Mike Espy,222
+Jefferson Davis,Son's Academy/Hathorn 25,U.S. Senate,Unexpired Term,,Cindy Hyde-Smith,129
+Jefferson Davis,Son's Academy/Hathorn 25,U.S. Senate,Unexpired Term,,Mike Espy,201
+Jefferson Davis,South Prentiss 12,U.S. Senate,Unexpired Term,,Cindy Hyde-Smith,248
+Jefferson Davis,South Prentiss 12,U.S. Senate,Unexpired Term,,Mike Espy,210
+Jefferson Davis,South Prentiss 13,U.S. Senate,Unexpired Term,,Cindy Hyde-Smith,120
+Jefferson Davis,South Prentiss 13,U.S. Senate,Unexpired Term,,Mike Espy,248
+Jefferson Davis,Total,U.S. Senate,Unexpired Term,,Cindy Hyde-Smith,1792
+Jefferson Davis,Total,U.S. Senate,Unexpired Term,,Mike Espy,3205
+Jefferson Davis,Whiting 56,U.S. Senate,Unexpired Term,,Cindy Hyde-Smith,31
+Jefferson Davis,Whiting 56,U.S. Senate,Unexpired Term,,Mike Espy,220
+Jefferson Davis,Williamson Mill 44,U.S. Senate,Unexpired Term,,Cindy Hyde-Smith,152
+Jefferson Davis,Williamson Mill 44,U.S. Senate,Unexpired Term,,Mike Espy,96

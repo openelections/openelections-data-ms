@@ -1,22 +1,13 @@
-Page,candidate,office,district,party,county,precinct,votes,winner
-2,Mike Espy,U.S. Senate,Unexpired Term,,Benton,Ashland Precinct District 3,246,
-2,Cindy Hyde-Smith,U.S. Senate,Unexpired Term,,Benton,Ashland Precinct District 3,282,
-2,Mike Espy,U.S. Senate,Unexpired Term,,Benton,Canaan Precinct District 1,339,
-2,Cindy Hyde-Smith,U.S. Senate,Unexpired Term,,Benton,Canaan Precinct District 1,194,
-2,Mike Espy,U.S. Senate,Unexpired Term,,Benton,Floyd Precinct Dist 4,141,
-2,Cindy Hyde-Smith,U.S. Senate,Unexpired Term,,Benton,Floyd Precinct Dist 4,362,
-2,Mike Espy,U.S. Senate,Unexpired Term,,Benton,Hickory Flat Prec Dist 5,81,
-2,Cindy Hyde-Smith,U.S. Senate,Unexpired Term,,Benton,Hickory Flat Prec Dist 5,434,
-2,Mike Espy,U.S. Senate,Unexpired Term,,Benton,Lamar Precinct District 2,420,
-2,Cindy Hyde-Smith,U.S. Senate,Unexpired Term,,Benton,Lamar Precinct District 2,115,
-2,Mike Espy,U.S. Senate,Unexpired Term,,Benton,TOTAL ,1224,
-2,Cindy Hyde-Smith,U.S. Senate,Unexpired Term,,Benton,TOTAL ,1387,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
+county,precinct,office,district,party,candidate,votes
+Benton,Ashland Precinct District 3,U.S. Senate,Unexpired Term,,Cindy Hyde-Smith,282
+Benton,Ashland Precinct District 3,U.S. Senate,Unexpired Term,,Mike Espy,246
+Benton,Canaan Precinct District 1,U.S. Senate,Unexpired Term,,Cindy Hyde-Smith,194
+Benton,Canaan Precinct District 1,U.S. Senate,Unexpired Term,,Mike Espy,339
+Benton,Floyd Precinct Dist 4,U.S. Senate,Unexpired Term,,Cindy Hyde-Smith,362
+Benton,Floyd Precinct Dist 4,U.S. Senate,Unexpired Term,,Mike Espy,141
+Benton,Hickory Flat Prec Dist 5,U.S. Senate,Unexpired Term,,Cindy Hyde-Smith,434
+Benton,Hickory Flat Prec Dist 5,U.S. Senate,Unexpired Term,,Mike Espy,81
+Benton,Lamar Precinct District 2,U.S. Senate,Unexpired Term,,Cindy Hyde-Smith,115
+Benton,Lamar Precinct District 2,U.S. Senate,Unexpired Term,,Mike Espy,420
+Benton,Total,U.S. Senate,Unexpired Term,,Cindy Hyde-Smith,1387
+Benton,Total,U.S. Senate,Unexpired Term,,Mike Espy,1224

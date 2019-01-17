@@ -1,41 +1,41 @@
-Page,candidate,office,district,party,county,precinct,votes,winner
-2,Mike Espy,U.S. Senate,Unexpired Term,,Copiah,Beauregard,120,
-2,Cindy Hyde-Smith,U.S. Senate,Unexpired Term,,Copiah,Beauregard,311,
-2,Mike Espy,U.S. Senate,Unexpired Term,,Copiah,Carpenter,113,
-2,Cindy Hyde-Smith,U.S. Senate,Unexpired Term,,Copiah,Carpenter,40,
-2,Mike Espy,U.S. Senate,Unexpired Term,,Copiah,Canterpoint,276,
-2,Cindy Hyde-Smith,U.S. Senate,Unexpired Term,,Copiah,Canterpoint,407,
-2,Mike Espy,U.S. Senate,Unexpired Term,,Copiah,Crystal Springs East,631,
-2,Cindy Hyde-Smith,U.S. Senate,Unexpired Term,,Copiah,Crystal Springs East,900,
-2,Mike Espy,U.S. Senate,Unexpired Term,,Copiah,Crystal Springs North,229,
-2,Cindy Hyde-Smith,U.S. Senate,Unexpired Term,,Copiah,Crystal Springs North,66,
-2,Mike Espy,U.S. Senate,Unexpired Term,,Copiah,Crystal Springs South,971,
-2,Cindy Hyde-Smith,U.S. Senate,Unexpired Term,,Copiah,Crystal Springs South,337,
-2,Mike Espy,U.S. Senate,Unexpired Term,,Copiah,Crystal Springs West,300,
-2,Cindy Hyde-Smith,U.S. Senate,Unexpired Term,,Copiah,Crystal Springs West,363,
-2,Mike Espy,U.S. Senate,Unexpired Term,,Copiah,Dentville,38,
-2,Cindy Hyde-Smith,U.S. Senate,Unexpired Term,,Copiah,Dentville,120,
-2,Mike Espy,U.S. Senate,Unexpired Term,,Copiah,Gallman,689,
-2,Cindy Hyde-Smith,U.S. Senate,Unexpired Term,,Copiah,Gallman,493,
-2,Mike Espy,U.S. Senate,Unexpired Term,,Copiah,Georgetown North ,148,
-2,Cindy Hyde-Smith,U.S. Senate,Unexpired Term,,Copiah,Georgetown North ,71,
-2,Mike Espy,U.S. Senate,Unexpired Term,,Copiah,Georgetown South,110,
-2,Cindy Hyde-Smith,U.S. Senate,Unexpired Term,,Copiah,Georgetown South,169,
-3,Mike Espy,U.S. Senate,Unexpired Term,,Copiah,Hazlehurst East,857,
-3,Cindy Hyde-Smith,U.S. Senate,Unexpired Term,,Copiah,Hazlehurst East,36,
-3,Mike Espy,U.S. Senate,Unexpired Term,,Copiah,Hazlehurst North ,103,
-3,Cindy Hyde-Smith,U.S. Senate,Unexpired Term,,Copiah,Hazlehurst North ,36,
-3,Mike Espy,U.S. Senate,Unexpired Term,,Copiah,Hazlehurst South,180,
-3,Cindy Hyde-Smith,U.S. Senate,Unexpired Term,,Copiah,Hazlehurst South,92,
-3,Mike Espy,U.S. Senate,Unexpired Term,,Copiah,Hazlehurst West ,741,
-3,Cindy Hyde-Smith,U.S. Senate,Unexpired Term,,Copiah,Hazlehurst West ,171,
-3,Mike Espy,U.S. Senate,Unexpired Term,,Copiah,Martinsville,208,
-3,Cindy Hyde-Smith,U.S. Senate,Unexpired Term,,Copiah,Martinsville,171,
-3,Mike Espy,U.S. Senate,Unexpired Term,,Copiah,Shady Grove,86,
-3,Cindy Hyde-Smith,U.S. Senate,Unexpired Term,,Copiah,Shady Grove,243,
-3,Mike Espy,U.S. Senate,Unexpired Term,,Copiah,Stronghope Union,21,
-3,Cindy Hyde-Smith,U.S. Senate,Unexpired Term,,Copiah,Stronghope Union,260,
-3,Mike Espy,U.S. Senate,Unexpired Term,,Copiah,Wesson,70,
-3,Cindy Hyde-Smith,U.S. Senate,Unexpired Term,,Copiah,Wesson,408,
-3,Mike Espy,U.S. Senate,Unexpired Term,,Copiah,TOTAL ,5891,
-3,Cindy Hyde-Smith,U.S. Senate,Unexpired Term,,Copiah,TOTAL ,4694,
+county,precinct,office,district,party,candidate,votes
+Copiah,Beauregard,U.S. Senate,Unexpired Term,,Cindy Hyde-Smith,311
+Copiah,Beauregard,U.S. Senate,Unexpired Term,,Mike Espy,120
+Copiah,Canterpoint,U.S. Senate,Unexpired Term,,Cindy Hyde-Smith,407
+Copiah,Canterpoint,U.S. Senate,Unexpired Term,,Mike Espy,276
+Copiah,Carpenter,U.S. Senate,Unexpired Term,,Cindy Hyde-Smith,40
+Copiah,Carpenter,U.S. Senate,Unexpired Term,,Mike Espy,113
+Copiah,Crystal Springs East,U.S. Senate,Unexpired Term,,Cindy Hyde-Smith,900
+Copiah,Crystal Springs East,U.S. Senate,Unexpired Term,,Mike Espy,631
+Copiah,Crystal Springs North,U.S. Senate,Unexpired Term,,Cindy Hyde-Smith,66
+Copiah,Crystal Springs North,U.S. Senate,Unexpired Term,,Mike Espy,229
+Copiah,Crystal Springs South,U.S. Senate,Unexpired Term,,Cindy Hyde-Smith,337
+Copiah,Crystal Springs South,U.S. Senate,Unexpired Term,,Mike Espy,971
+Copiah,Crystal Springs West,U.S. Senate,Unexpired Term,,Cindy Hyde-Smith,363
+Copiah,Crystal Springs West,U.S. Senate,Unexpired Term,,Mike Espy,300
+Copiah,Dentville,U.S. Senate,Unexpired Term,,Cindy Hyde-Smith,120
+Copiah,Dentville,U.S. Senate,Unexpired Term,,Mike Espy,38
+Copiah,Gallman,U.S. Senate,Unexpired Term,,Cindy Hyde-Smith,493
+Copiah,Gallman,U.S. Senate,Unexpired Term,,Mike Espy,689
+Copiah,Georgetown North,U.S. Senate,Unexpired Term,,Cindy Hyde-Smith,71
+Copiah,Georgetown North,U.S. Senate,Unexpired Term,,Mike Espy,148
+Copiah,Georgetown South,U.S. Senate,Unexpired Term,,Cindy Hyde-Smith,169
+Copiah,Georgetown South,U.S. Senate,Unexpired Term,,Mike Espy,110
+Copiah,Hazlehurst East,U.S. Senate,Unexpired Term,,Cindy Hyde-Smith,36
+Copiah,Hazlehurst East,U.S. Senate,Unexpired Term,,Mike Espy,857
+Copiah,Hazlehurst North,U.S. Senate,Unexpired Term,,Cindy Hyde-Smith,36
+Copiah,Hazlehurst North,U.S. Senate,Unexpired Term,,Mike Espy,103
+Copiah,Hazlehurst South,U.S. Senate,Unexpired Term,,Cindy Hyde-Smith,92
+Copiah,Hazlehurst South,U.S. Senate,Unexpired Term,,Mike Espy,180
+Copiah,Hazlehurst West,U.S. Senate,Unexpired Term,,Cindy Hyde-Smith,171
+Copiah,Hazlehurst West,U.S. Senate,Unexpired Term,,Mike Espy,741
+Copiah,Martinsville,U.S. Senate,Unexpired Term,,Cindy Hyde-Smith,171
+Copiah,Martinsville,U.S. Senate,Unexpired Term,,Mike Espy,208
+Copiah,Shady Grove,U.S. Senate,Unexpired Term,,Cindy Hyde-Smith,243
+Copiah,Shady Grove,U.S. Senate,Unexpired Term,,Mike Espy,86
+Copiah,Stronghope Union,U.S. Senate,Unexpired Term,,Cindy Hyde-Smith,260
+Copiah,Stronghope Union,U.S. Senate,Unexpired Term,,Mike Espy,21
+Copiah,Total,U.S. Senate,Unexpired Term,,Cindy Hyde-Smith,4694
+Copiah,Total,U.S. Senate,Unexpired Term,,Mike Espy,5891
+Copiah,Wesson,U.S. Senate,Unexpired Term,,Cindy Hyde-Smith,408
+Copiah,Wesson,U.S. Senate,Unexpired Term,,Mike Espy,70

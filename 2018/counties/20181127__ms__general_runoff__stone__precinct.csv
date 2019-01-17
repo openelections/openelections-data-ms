@@ -1,33 +1,33 @@
-Page,candidate,office,district,party,county,precinct,votes,winner
-2,Mike Espy,U.S. Senate,Unexpired Term,,Stone,Bond,6,
-2,Cindy Hyde-Smith,U.S. Senate,Unexpired Term,,Stone,Bond,78,
-2,Mike Espy,U.S. Senate,Unexpired Term,,Stone,National Guard,18,
-2,Cindy Hyde-Smith,U.S. Senate,Unexpired Term,,Stone,National Guard,180,
-2,Mike Espy,U.S. Senate,Unexpired Term,,Stone,Old Health Department,51,
-2,Cindy Hyde-Smith,U.S. Senate,Unexpired Term,,Stone,Old Health Department,263,
-2,Mike Espy,U.S. Senate,Unexpired Term,,Stone,Courthouse,63,
-2,Cindy Hyde-Smith,U.S. Senate,Unexpired Term,,Stone,Courthouse,223,
-2,Mike Espy,U.S. Senate,Unexpired Term,,Stone,American Legion,319,
-2,Cindy Hyde-Smith,U.S. Senate,Unexpired Term,,Stone,American Legion,158,
-2,Mike Espy,U.S. Senate,Unexpired Term,,Stone,New Hope,429,
-2,Cindy Hyde-Smith,U.S. Senate,Unexpired Term,,Stone,New Hope,127,
-2,Mike Espy,U.S. Senate,Unexpired Term,,Stone,Perkinston,43,
-2,Cindy Hyde-Smith,U.S. Senate,Unexpired Term,,Stone,Perkinston,162,
-2,Mike Espy,U.S. Senate,Unexpired Term,,Stone,Magnolia,19,
-2,Cindy Hyde-Smith,U.S. Senate,Unexpired Term,,Stone,Magnolia,239,
-2,Mike Espy,U.S. Senate,Unexpired Term,,Stone,Mchenry Library,28,
-2,Cindy Hyde-Smith,U.S. Senate,Unexpired Term,,Stone,Mchenry Library,223,
-2,Mike Espy,U.S. Senate,Unexpired Term,,Stone,Elarbee,22,
-2,Cindy Hyde-Smith,U.S. Senate,Unexpired Term,,Stone,Elarbee,232,
-2,Mike Espy,U.S. Senate,Unexpired Term,,Stone,Tuxechana,53,
-2,Cindy Hyde-Smith,U.S. Senate,Unexpired Term,,Stone,Tuxechana,620,
-3,Mike Espy,U.S. Senate,Unexpired Term,,Stone,Mchenry Fire Station,113,
-3,Cindy Hyde-Smith,U.S. Senate,Unexpired Term,,Stone,Mchenry Fire Station,275,
-3,Mike Espy,U.S. Senate,Unexpired Term,,Stone,Flint Creek,102,
-3,Cindy Hyde-Smith,U.S. Senate,Unexpired Term,,Stone,Flint Creek,464,
-3,Mike Espy,U.S. Senate,Unexpired Term,,Stone,Big Level,66,
-3,Cindy Hyde-Smith,U.S. Senate,Unexpired Term,,Stone,Big Level,378,
-3,Mike Espy,U.S. Senate,Unexpired Term,,Stone,Pleasant Hill,21,
-3,Cindy Hyde-Smith,U.S. Senate,Unexpired Term,,Stone,Pleasant Hill,102,
-3,Mike Espy,U.S. Senate,Unexpired Term,,Stone,TOTAL ,1353,
-3,Cindy Hyde-Smith,U.S. Senate,Unexpired Term,,Stone,TOTAL ,3724,
+county,precinct,office,district,party,candidate,votes
+Stone,American Legion,U.S. Senate,Unexpired Term,,Cindy Hyde-Smith,158
+Stone,American Legion,U.S. Senate,Unexpired Term,,Mike Espy,319
+Stone,Big Level,U.S. Senate,Unexpired Term,,Cindy Hyde-Smith,378
+Stone,Big Level,U.S. Senate,Unexpired Term,,Mike Espy,66
+Stone,Bond,U.S. Senate,Unexpired Term,,Cindy Hyde-Smith,78
+Stone,Bond,U.S. Senate,Unexpired Term,,Mike Espy,6
+Stone,Courthouse,U.S. Senate,Unexpired Term,,Cindy Hyde-Smith,223
+Stone,Courthouse,U.S. Senate,Unexpired Term,,Mike Espy,63
+Stone,Elarbee,U.S. Senate,Unexpired Term,,Cindy Hyde-Smith,232
+Stone,Elarbee,U.S. Senate,Unexpired Term,,Mike Espy,22
+Stone,Flint Creek,U.S. Senate,Unexpired Term,,Cindy Hyde-Smith,464
+Stone,Flint Creek,U.S. Senate,Unexpired Term,,Mike Espy,102
+Stone,Magnolia,U.S. Senate,Unexpired Term,,Cindy Hyde-Smith,239
+Stone,Magnolia,U.S. Senate,Unexpired Term,,Mike Espy,19
+Stone,Mchenry Fire Station,U.S. Senate,Unexpired Term,,Cindy Hyde-Smith,275
+Stone,Mchenry Fire Station,U.S. Senate,Unexpired Term,,Mike Espy,113
+Stone,Mchenry Library,U.S. Senate,Unexpired Term,,Cindy Hyde-Smith,223
+Stone,Mchenry Library,U.S. Senate,Unexpired Term,,Mike Espy,28
+Stone,National Guard,U.S. Senate,Unexpired Term,,Cindy Hyde-Smith,180
+Stone,National Guard,U.S. Senate,Unexpired Term,,Mike Espy,18
+Stone,New Hope,U.S. Senate,Unexpired Term,,Cindy Hyde-Smith,127
+Stone,New Hope,U.S. Senate,Unexpired Term,,Mike Espy,429
+Stone,Old Health Department,U.S. Senate,Unexpired Term,,Cindy Hyde-Smith,263
+Stone,Old Health Department,U.S. Senate,Unexpired Term,,Mike Espy,51
+Stone,Perkinston,U.S. Senate,Unexpired Term,,Cindy Hyde-Smith,162
+Stone,Perkinston,U.S. Senate,Unexpired Term,,Mike Espy,43
+Stone,Pleasant Hill,U.S. Senate,Unexpired Term,,Cindy Hyde-Smith,102
+Stone,Pleasant Hill,U.S. Senate,Unexpired Term,,Mike Espy,21
+Stone,Total,U.S. Senate,Unexpired Term,,Cindy Hyde-Smith,3724
+Stone,Total,U.S. Senate,Unexpired Term,,Mike Espy,1353
+Stone,Tuxechana,U.S. Senate,Unexpired Term,,Cindy Hyde-Smith,620
+Stone,Tuxechana,U.S. Senate,Unexpired Term,,Mike Espy,53

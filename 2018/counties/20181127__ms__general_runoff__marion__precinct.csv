@@ -1,47 +1,47 @@
-Page,candidate,office,district,party,county,precinct,votes,winner
-2,Mike Espy,U.S. Senate,Unexpired Term,,Marion,Balls Mill,103,
-2,Cindy Hyde-Smith,U.S. Senate,Unexpired Term,,Marion,Balls Mill,305,
-2,Mike Espy,U.S. Senate,Unexpired Term,,Marion,Carley ,38,
-2,Cindy Hyde-Smith,U.S. Senate,Unexpired Term,,Marion,Carley ,468,
-2,Mike Espy,U.S. Senate,Unexpired Term,,Marion,Cedar Grove,100,
-2,Cindy Hyde-Smith,U.S. Senate,Unexpired Term,,Marion,Cedar Grove,192,
-2,Mike Espy,U.S. Senate,Unexpired Term,,Marion,City Hall,110,
-2,Cindy Hyde-Smith,U.S. Senate,Unexpired Term,,Marion,City Hall,90,
-2,Mike Espy,U.S. Senate,Unexpired Term,,Marion,Court House,110,
-2,Cindy Hyde-Smith,U.S. Senate,Unexpired Term,,Marion,Court House,205,
-2,Mike Espy,U.S. Senate,Unexpired Term,,Marion,Darbun,38,
-2,Cindy Hyde-Smith,U.S. Senate,Unexpired Term,,Marion,Darbun,152,
-2,Mike Espy,U.S. Senate,Unexpired Term,,Marion,East Columbia,574,
-2,Cindy Hyde-Smith,U.S. Senate,Unexpired Term,,Marion,East Columbia,185,
-2,Mike Espy,U.S. Senate,Unexpired Term,,Marion,Foxworth,256,
-2,Cindy Hyde-Smith,U.S. Senate,Unexpired Term,,Marion,Foxworth,368,
-2,Mike Espy,U.S. Senate,Unexpired Term,,Marion,Goss,48,
-2,Cindy Hyde-Smith,U.S. Senate,Unexpired Term,,Marion,Goss,235,
-2,Mike Espy,U.S. Senate,Unexpired Term,,Marion,Hub,198,
-2,Cindy Hyde-Smith,U.S. Senate,Unexpired Term,,Marion,Hub,118,
-2,Mike Espy,U.S. Senate,Unexpired Term,,Marion,Jefferson School,150,
-2,Cindy Hyde-Smith,U.S. Senate,Unexpired Term,,Marion,Jefferson School,2,
-3,Mike Espy,U.S. Senate,Unexpired Term,,Marion,Kokomo,105,
-3,Cindy Hyde-Smith,U.S. Senate,Unexpired Term,,Marion,Kokomo,244,
-3,Mike Espy,U.S. Senate,Unexpired Term,,Marion,Little Rock,170,
-3,Cindy Hyde-Smith,U.S. Senate,Unexpired Term,,Marion,Little Rock,159,
-3,Mike Espy,U.S. Senate,Unexpired Term,,Marion,Morgantown,15,
-3,Cindy Hyde-Smith,U.S. Senate,Unexpired Term,,Marion,Morgantown,271,
-3,Mike Espy,U.S. Senate,Unexpired Term,,Marion,Morris,369,
-3,Cindy Hyde-Smith,U.S. Senate,Unexpired Term,,Marion,Morris,588,
-3,Mike Espy,U.S. Senate,Unexpired Term,,Marion,National Guard,90,
-3,Cindy Hyde-Smith,U.S. Senate,Unexpired Term,,Marion,National Guard,839,
-3,Mike Espy,U.S. Senate,Unexpired Term,,Marion,Pine Burr,92,
-3,Cindy Hyde-Smith,U.S. Senate,Unexpired Term,,Marion,Pine Burr,165,
-3,Mike Espy,U.S. Senate,Unexpired Term,,Marion,Pittman,15,
-3,Cindy Hyde-Smith,U.S. Senate,Unexpired Term,,Marion,Pittman,312,
-3,Mike Espy,U.S. Senate,Unexpired Term,,Marion,Popetown,349,
-3,Cindy Hyde-Smith,U.S. Senate,Unexpired Term,,Marion,Popetown,246,
-3,Mike Espy,U.S. Senate,Unexpired Term,,Marion,Sandy Hook,95,
-3,Cindy Hyde-Smith,U.S. Senate,Unexpired Term,,Marion,Sandy Hook,164,
-3,Mike Espy,U.S. Senate,Unexpired Term,,Marion,South Columbia,107,
-3,Cindy Hyde-Smith,U.S. Senate,Unexpired Term,,Marion,South Columbia,7,
-3,Mike Espy,U.S. Senate,Unexpired Term,,Marion,Union,4,
-3,Cindy Hyde-Smith,U.S. Senate,Unexpired Term,,Marion,Union,181,
-4,Mike Espy,U.S. Senate,Unexpired Term,,Marion,TOTAL ,3136,
-4,Cindy Hyde-Smith,U.S. Senate,Unexpired Term,,Marion,TOTAL ,5496,
+county,precinct,office,district,party,candidate,votes
+Marion,Balls Mill,U.S. Senate,Unexpired Term,,Cindy Hyde-Smith,305
+Marion,Balls Mill,U.S. Senate,Unexpired Term,,Mike Espy,103
+Marion,Carley,U.S. Senate,Unexpired Term,,Cindy Hyde-Smith,468
+Marion,Carley,U.S. Senate,Unexpired Term,,Mike Espy,38
+Marion,Cedar Grove,U.S. Senate,Unexpired Term,,Cindy Hyde-Smith,192
+Marion,Cedar Grove,U.S. Senate,Unexpired Term,,Mike Espy,100
+Marion,City Hall,U.S. Senate,Unexpired Term,,Cindy Hyde-Smith,90
+Marion,City Hall,U.S. Senate,Unexpired Term,,Mike Espy,110
+Marion,Court House,U.S. Senate,Unexpired Term,,Cindy Hyde-Smith,205
+Marion,Court House,U.S. Senate,Unexpired Term,,Mike Espy,110
+Marion,Darbun,U.S. Senate,Unexpired Term,,Cindy Hyde-Smith,152
+Marion,Darbun,U.S. Senate,Unexpired Term,,Mike Espy,38
+Marion,East Columbia,U.S. Senate,Unexpired Term,,Cindy Hyde-Smith,185
+Marion,East Columbia,U.S. Senate,Unexpired Term,,Mike Espy,574
+Marion,Foxworth,U.S. Senate,Unexpired Term,,Cindy Hyde-Smith,368
+Marion,Foxworth,U.S. Senate,Unexpired Term,,Mike Espy,256
+Marion,Goss,U.S. Senate,Unexpired Term,,Cindy Hyde-Smith,235
+Marion,Goss,U.S. Senate,Unexpired Term,,Mike Espy,48
+Marion,Hub,U.S. Senate,Unexpired Term,,Cindy Hyde-Smith,118
+Marion,Hub,U.S. Senate,Unexpired Term,,Mike Espy,198
+Marion,Jefferson School,U.S. Senate,Unexpired Term,,Cindy Hyde-Smith,2
+Marion,Jefferson School,U.S. Senate,Unexpired Term,,Mike Espy,150
+Marion,Kokomo,U.S. Senate,Unexpired Term,,Cindy Hyde-Smith,244
+Marion,Kokomo,U.S. Senate,Unexpired Term,,Mike Espy,105
+Marion,Little Rock,U.S. Senate,Unexpired Term,,Cindy Hyde-Smith,159
+Marion,Little Rock,U.S. Senate,Unexpired Term,,Mike Espy,170
+Marion,Morgantown,U.S. Senate,Unexpired Term,,Cindy Hyde-Smith,271
+Marion,Morgantown,U.S. Senate,Unexpired Term,,Mike Espy,15
+Marion,Morris,U.S. Senate,Unexpired Term,,Cindy Hyde-Smith,588
+Marion,Morris,U.S. Senate,Unexpired Term,,Mike Espy,369
+Marion,National Guard,U.S. Senate,Unexpired Term,,Cindy Hyde-Smith,839
+Marion,National Guard,U.S. Senate,Unexpired Term,,Mike Espy,90
+Marion,Pine Burr,U.S. Senate,Unexpired Term,,Cindy Hyde-Smith,165
+Marion,Pine Burr,U.S. Senate,Unexpired Term,,Mike Espy,92
+Marion,Pittman,U.S. Senate,Unexpired Term,,Cindy Hyde-Smith,312
+Marion,Pittman,U.S. Senate,Unexpired Term,,Mike Espy,15
+Marion,Popetown,U.S. Senate,Unexpired Term,,Cindy Hyde-Smith,246
+Marion,Popetown,U.S. Senate,Unexpired Term,,Mike Espy,349
+Marion,Sandy Hook,U.S. Senate,Unexpired Term,,Cindy Hyde-Smith,164
+Marion,Sandy Hook,U.S. Senate,Unexpired Term,,Mike Espy,95
+Marion,South Columbia,U.S. Senate,Unexpired Term,,Cindy Hyde-Smith,7
+Marion,South Columbia,U.S. Senate,Unexpired Term,,Mike Espy,107
+Marion,Total,U.S. Senate,Unexpired Term,,Cindy Hyde-Smith,5496
+Marion,Total,U.S. Senate,Unexpired Term,,Mike Espy,3136
+Marion,Union,U.S. Senate,Unexpired Term,,Cindy Hyde-Smith,181
+Marion,Union,U.S. Senate,Unexpired Term,,Mike Espy,4

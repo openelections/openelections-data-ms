@@ -1,71 +1,43 @@
-Page,candidate,office,district,party,county,precinct,votes,winner
-2,Mike Espy,U.S. Senate,Unexpired Term,,Franklin,Antioch,165,
-2,Cindy Hyde-Smith,U.S. Senate,Unexpired Term,,Franklin,Antioch,139,
-2,Jo Ann Collins-Smith,State House,85,,Franklin,Antioch,99,
-2,Jeffery Harness,State House,85,,Franklin,Antioch,163,
-2,Mike Espy,U.S. Senate,Unexpired Term,,Franklin,Bad Bayou,13,
-2,Cindy Hyde-Smith,U.S. Senate,Unexpired Term,,Franklin,Bad Bayou,252,
-2,Jo Ann Collins-Smith,State House,85,,Franklin,Bad Bayou,x,
-2,Jeffery Harness,State House,85,,Franklin,Bad Bayou,x,
-2,Mike Espy,U.S. Senate,Unexpired Term,,Franklin,Bude,350,
-2,Cindy Hyde-Smith,U.S. Senate,Unexpired Term,,Franklin,Bude,171,
-2,Jo Ann Collins-Smith,State House,85,,Franklin,Bude,133,
-2,Jeffery Harness,State House,85,,Franklin,Bude,352,
-2,Mike Espy,U.S. Senate,Unexpired Term,,Franklin,Cains,43,
-2,Cindy Hyde-Smith,U.S. Senate,Unexpired Term,,Franklin,Cains,138,
-2,Jo Ann Collins-Smith,State House,85,,Franklin,Cains,x,
-2,Jeffery Harness,State House,85,,Franklin,Cains,x,
-2,Mike Espy,U.S. Senate,Unexpired Term,,Franklin,Eddiceton,36,
-2,Cindy Hyde-Smith,U.S. Senate,Unexpired Term,,Franklin,Eddiceton,227,
-2,Jo Ann Collins-Smith,State House,85,,Franklin,Eddiceton,x,
-2,Jeffery Harness,State House,85,,Franklin,Eddiceton,x,
-2,Mike Espy,U.S. Senate,Unexpired Term,,Franklin,Hamburg,154,
-2,Cindy Hyde-Smith,U.S. Senate,Unexpired Term,,Franklin,Hamburg,36,
-2,Jo Ann Collins-Smith,State House,85,,Franklin,Hamburg,x,
-2,Jeffery Harness,State House,85,,Franklin,Hamburg,x,
-2,Mike Espy,U.S. Senate,Unexpired Term,,Franklin,Knoxville,44,
-2,Cindy Hyde-Smith,U.S. Senate,Unexpired Term,,Franklin,Knoxville,80,
-2,Jo Ann Collins-Smith,State House,85,,Franklin,Knoxville,x,
-2,Jeffery Harness,State House,85,,Franklin,Knoxville,x,
-2,Mike Espy,U.S. Senate,Unexpired Term,,Franklin,Lucien,20,
-2,Cindy Hyde-Smith,U.S. Senate,Unexpired Term,,Franklin,Lucien,110,
-2,Jo Ann Collins-Smith,State House,85,,Franklin,Lucien,x,
-2,Jeffery Harness,State House,85,,Franklin,Lucien,x,
-2,Mike Espy,U.S. Senate,Unexpired Term,,Franklin,Mccall,49,
-2,Cindy Hyde-Smith,U.S. Senate,Unexpired Term,,Franklin,Mccall,195,
-2,Jo Ann Collins-Smith,State House,85,,Franklin,Mccall,x,
-2,Jeffery Harness,State House,85,,Franklin,Mccall,x,
-2,Mike Espy,U.S. Senate,Unexpired Term,,Franklin,Meadville,55,
-2,Cindy Hyde-Smith,U.S. Senate,Unexpired Term,,Franklin,Meadville,219,
-2,Jo Ann Collins-Smith,State House,85,,Franklin,Meadville,71,
-2,Jeffery Harness,State House,85,,Franklin,Meadville,156,
-2,Mike Espy,U.S. Senate,Unexpired Term,,Franklin,Pine Grove,7,
-2,Cindy Hyde-Smith,U.S. Senate,Unexpired Term,,Franklin,Pine Grove,80,
-2,Jo Ann Collins-Smith,State House,85,,Franklin,Pine Grove,37,
-2,Jeffery Harness,State House,85,,Franklin,Pine Grove,30,
-3,Mike Espy,U.S. Senate,Unexpired Term,,Franklin,Roxie,233,
-3,Cindy Hyde-Smith,U.S. Senate,Unexpired Term,,Franklin,Roxie,97,
-3,Jo Ann Collins-Smith,State House,85,,Franklin,Roxie,x,
-3,Jeffery Harness,State House,85,,Franklin,Roxie,x,
-3,Mike Espy,U.S. Senate,Unexpired Term,,Franklin,Wesley Chapel,49,
-3,Cindy Hyde-Smith,U.S. Senate,Unexpired Term,,Franklin,Wesley Chapel,28,
-3,Jo Ann Collins-Smith,State House,85,,Franklin,Wesley Chapel,x,
-3,Jeffery Harness,State House,85,,Franklin,Wesley Chapel,x,
-3,Mike Espy,U.S. Senate,Unexpired Term,,Franklin,Whittington,26,
-3,Cindy Hyde-Smith,U.S. Senate,Unexpired Term,,Franklin,Whittington,185,
-3,Jo Ann Collins-Smith,State House,85,,Franklin,Whittington,88,
-3,Jeffery Harness,State House,85,,Franklin,Whittington,92,
-3,Mike Espy,U.S. Senate,Unexpired Term,,Franklin,TOTAL,1244,
-3,Cindy Hyde-Smith,U.S. Senate,Unexpired Term,,Franklin,TOTAL,1957,
-3,Jo Ann Collins-Smith,State House,85,,Franklin,TOTAL,428,
-3,Jeffery Harness,State House,85,,Franklin,TOTAL,793,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
+county,precinct,office,district,party,candidate,votes
+Franklin,Antioch,State House,85,,Jeffery Harness,163
+Franklin,Antioch,State House,85,,Jo Ann Collins-Smith,99
+Franklin,Antioch,U.S. Senate,Unexpired Term,,Cindy Hyde-Smith,139
+Franklin,Antioch,U.S. Senate,Unexpired Term,,Mike Espy,165
+Franklin,Bad Bayou,U.S. Senate,Unexpired Term,,Cindy Hyde-Smith,252
+Franklin,Bad Bayou,U.S. Senate,Unexpired Term,,Mike Espy,13
+Franklin,Bude,State House,85,,Jeffery Harness,352
+Franklin,Bude,State House,85,,Jo Ann Collins-Smith,133
+Franklin,Bude,U.S. Senate,Unexpired Term,,Cindy Hyde-Smith,171
+Franklin,Bude,U.S. Senate,Unexpired Term,,Mike Espy,350
+Franklin,Cains,U.S. Senate,Unexpired Term,,Cindy Hyde-Smith,138
+Franklin,Cains,U.S. Senate,Unexpired Term,,Mike Espy,43
+Franklin,Eddiceton,U.S. Senate,Unexpired Term,,Cindy Hyde-Smith,227
+Franklin,Eddiceton,U.S. Senate,Unexpired Term,,Mike Espy,36
+Franklin,Hamburg,U.S. Senate,Unexpired Term,,Cindy Hyde-Smith,36
+Franklin,Hamburg,U.S. Senate,Unexpired Term,,Mike Espy,154
+Franklin,Knoxville,U.S. Senate,Unexpired Term,,Cindy Hyde-Smith,80
+Franklin,Knoxville,U.S. Senate,Unexpired Term,,Mike Espy,44
+Franklin,Lucien,U.S. Senate,Unexpired Term,,Cindy Hyde-Smith,110
+Franklin,Lucien,U.S. Senate,Unexpired Term,,Mike Espy,20
+Franklin,Mccall,U.S. Senate,Unexpired Term,,Cindy Hyde-Smith,195
+Franklin,Mccall,U.S. Senate,Unexpired Term,,Mike Espy,49
+Franklin,Meadville,State House,85,,Jeffery Harness,156
+Franklin,Meadville,State House,85,,Jo Ann Collins-Smith,71
+Franklin,Meadville,U.S. Senate,Unexpired Term,,Cindy Hyde-Smith,219
+Franklin,Meadville,U.S. Senate,Unexpired Term,,Mike Espy,55
+Franklin,Pine Grove,State House,85,,Jeffery Harness,30
+Franklin,Pine Grove,State House,85,,Jo Ann Collins-Smith,37
+Franklin,Pine Grove,U.S. Senate,Unexpired Term,,Cindy Hyde-Smith,80
+Franklin,Pine Grove,U.S. Senate,Unexpired Term,,Mike Espy,7
+Franklin,Roxie,U.S. Senate,Unexpired Term,,Cindy Hyde-Smith,97
+Franklin,Roxie,U.S. Senate,Unexpired Term,,Mike Espy,233
+Franklin,Total,State House,85,,Jeffery Harness,793
+Franklin,Total,State House,85,,Jo Ann Collins-Smith,428
+Franklin,Total,U.S. Senate,Unexpired Term,,Cindy Hyde-Smith,1957
+Franklin,Total,U.S. Senate,Unexpired Term,,Mike Espy,1244
+Franklin,Wesley Chapel,U.S. Senate,Unexpired Term,,Cindy Hyde-Smith,28
+Franklin,Wesley Chapel,U.S. Senate,Unexpired Term,,Mike Espy,49
+Franklin,Whittington,State House,85,,Jeffery Harness,92
+Franklin,Whittington,State House,85,,Jo Ann Collins-Smith,88
+Franklin,Whittington,U.S. Senate,Unexpired Term,,Cindy Hyde-Smith,185
+Franklin,Whittington,U.S. Senate,Unexpired Term,,Mike Espy,26

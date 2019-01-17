@@ -1,89 +1,33 @@
-Page,candidate,office,district,party,county,precinct,votes,winner
-2,Mike Espy,U.S. Senate,Unexpired Term,,Montgomery,Duck Hill,144,
-2,Cindy Hyde-Smith,U.S. Senate,Unexpired Term,,Montgomery,Duck Hill,176,
-2,Mike Espy,U.S. Senate,Unexpired Term,,Montgomery,East Winona,277,
-2,Cindy Hyde-Smith,U.S. Senate,Unexpired Term,,Montgomery,East Winona,140,
-2,Mike Espy,U.S. Senate,Unexpired Term,,Montgomery,Kilmichael,165,
-2,Cindy Hyde-Smith,U.S. Senate,Unexpired Term,,Montgomery,Kilmichael,196,
-2,Mike Espy,U.S. Senate,Unexpired Term,,Montgomery,Lodi,118,
-2,Cindy Hyde-Smith,U.S. Senate,Unexpired Term,,Montgomery,Lodi,38,
-2,Mike Espy,U.S. Senate,Unexpired Term,,Montgomery,Mt Pisgah,11,
-2,Cindy Hyde-Smith,U.S. Senate,Unexpired Term,,Montgomery,Mt Pisgah,115,
-2,Mike Espy,U.S. Senate,Unexpired Term,,Montgomery,North Duck Hill,88,
-2,Cindy Hyde-Smith,U.S. Senate,Unexpired Term,,Montgomery,North Duck Hill,64,
-2,Mike Espy,U.S. Senate,Unexpired Term,,Montgomery,North Kilmichael,58,
-2,Cindy Hyde-Smith,U.S. Senate,Unexpired Term,,Montgomery,North Kilmichael,10,
-2,Mike Espy,U.S. Senate,Unexpired Term,,Montgomery,North Mt Pisgah Sweethome,43,
-2,Cindy Hyde-Smith,U.S. Senate,Unexpired Term,,Montgomery,North Mt Pisgah Sweethome,51,
-2,Mike Espy,U.S. Senate,Unexpired Term,,Montgomery,North Winona,104,
-2,Cindy Hyde-Smith,U.S. Senate,Unexpired Term,,Montgomery,North Winona,437,
-2,Mike Espy,U.S. Senate,Unexpired Term,,Montgomery,Nations ,20,
-2,Cindy Hyde-Smith,U.S. Senate,Unexpired Term,,Montgomery,Nations ,145,
-2,Mike Espy,U.S. Senate,Unexpired Term,,Montgomery,Poplar Creek,5,
-2,Cindy Hyde-Smith,U.S. Senate,Unexpired Term,,Montgomery,Poplar Creek,70,
-3,Mike Espy,U.S. Senate,Unexpired Term,,Montgomery,South Winona,514,
-3,Cindy Hyde-Smith,U.S. Senate,Unexpired Term,,Montgomery,South Winona,154,
-3,Mike Espy,U.S. Senate,Unexpired Term,,Montgomery,Southeast Winona,55,
-3,Cindy Hyde-Smith,U.S. Senate,Unexpired Term,,Montgomery,Southeast Winona,68,
-3,Mike Espy,U.S. Senate,Unexpired Term,,Montgomery,Stewart,4,
-3,Cindy Hyde-Smith,U.S. Senate,Unexpired Term,,Montgomery,Stewart,56,
-3,Mike Espy,U.S. Senate,Unexpired Term,,Montgomery,West Winona,103,
-3,Cindy Hyde-Smith,U.S. Senate,Unexpired Term,,Montgomery,West Winona,316,
-3,Mike Espy,U.S. Senate,Unexpired Term,,Montgomery,TOTAL ,1709,
-3,Cindy Hyde-Smith,U.S. Senate,Unexpired Term,,Montgomery,TOTAL ,2036,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
+county,precinct,office,district,party,candidate,votes
+Montgomery,Duck Hill,U.S. Senate,Unexpired Term,,Cindy Hyde-Smith,176
+Montgomery,Duck Hill,U.S. Senate,Unexpired Term,,Mike Espy,144
+Montgomery,East Winona,U.S. Senate,Unexpired Term,,Cindy Hyde-Smith,140
+Montgomery,East Winona,U.S. Senate,Unexpired Term,,Mike Espy,277
+Montgomery,Kilmichael,U.S. Senate,Unexpired Term,,Cindy Hyde-Smith,196
+Montgomery,Kilmichael,U.S. Senate,Unexpired Term,,Mike Espy,165
+Montgomery,Lodi,U.S. Senate,Unexpired Term,,Cindy Hyde-Smith,38
+Montgomery,Lodi,U.S. Senate,Unexpired Term,,Mike Espy,118
+Montgomery,Mt Pisgah,U.S. Senate,Unexpired Term,,Cindy Hyde-Smith,115
+Montgomery,Mt Pisgah,U.S. Senate,Unexpired Term,,Mike Espy,11
+Montgomery,Nations,U.S. Senate,Unexpired Term,,Cindy Hyde-Smith,145
+Montgomery,Nations,U.S. Senate,Unexpired Term,,Mike Espy,20
+Montgomery,North Duck Hill,U.S. Senate,Unexpired Term,,Cindy Hyde-Smith,64
+Montgomery,North Duck Hill,U.S. Senate,Unexpired Term,,Mike Espy,88
+Montgomery,North Kilmichael,U.S. Senate,Unexpired Term,,Cindy Hyde-Smith,10
+Montgomery,North Kilmichael,U.S. Senate,Unexpired Term,,Mike Espy,58
+Montgomery,North Mt Pisgah Sweethome,U.S. Senate,Unexpired Term,,Cindy Hyde-Smith,51
+Montgomery,North Mt Pisgah Sweethome,U.S. Senate,Unexpired Term,,Mike Espy,43
+Montgomery,North Winona,U.S. Senate,Unexpired Term,,Cindy Hyde-Smith,437
+Montgomery,North Winona,U.S. Senate,Unexpired Term,,Mike Espy,104
+Montgomery,Poplar Creek,U.S. Senate,Unexpired Term,,Cindy Hyde-Smith,70
+Montgomery,Poplar Creek,U.S. Senate,Unexpired Term,,Mike Espy,5
+Montgomery,South Winona,U.S. Senate,Unexpired Term,,Cindy Hyde-Smith,154
+Montgomery,South Winona,U.S. Senate,Unexpired Term,,Mike Espy,514
+Montgomery,Southeast Winona,U.S. Senate,Unexpired Term,,Cindy Hyde-Smith,68
+Montgomery,Southeast Winona,U.S. Senate,Unexpired Term,,Mike Espy,55
+Montgomery,Stewart,U.S. Senate,Unexpired Term,,Cindy Hyde-Smith,56
+Montgomery,Stewart,U.S. Senate,Unexpired Term,,Mike Espy,4
+Montgomery,Total,U.S. Senate,Unexpired Term,,Cindy Hyde-Smith,2036
+Montgomery,Total,U.S. Senate,Unexpired Term,,Mike Espy,1709
+Montgomery,West Winona,U.S. Senate,Unexpired Term,,Cindy Hyde-Smith,316
+Montgomery,West Winona,U.S. Senate,Unexpired Term,,Mike Espy,103

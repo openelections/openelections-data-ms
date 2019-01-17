@@ -1,43 +1,43 @@
-Page,candidate,office,district,party,county,precinct,votes,winner
-2,Mike Espy,U.S. Senate,Unexpired Term,,Walthall,3rd District Tylertown,114,
-2,Cindy Hyde-Smith,U.S. Senate,Unexpired Term,,Walthall,3rd District Tylertown,240,
-2,Mike Espy,U.S. Senate,Unexpired Term,,Walthall,4th District West Tylertown,70,
-2,Cindy Hyde-Smith,U.S. Senate,Unexpired Term,,Walthall,4th District West Tylertown,213,
-2,Mike Espy,U.S. Senate,Unexpired Term,,Walthall,4th District Tylertown,18,
-2,Cindy Hyde-Smith,U.S. Senate,Unexpired Term,,Walthall,4th District Tylertown,193,
-2,Mike Espy,U.S. Senate,Unexpired Term,,Walthall,Darbun,18,
-2,Cindy Hyde-Smith,U.S. Senate,Unexpired Term,,Walthall,Darbun,70,
-2,Mike Espy,U.S. Senate,Unexpired Term,,Walthall,Dexter,99,
-2,Cindy Hyde-Smith,U.S. Senate,Unexpired Term,,Walthall,Dexter,273,
-2,Mike Espy,U.S. Senate,Unexpired Term,,Walthall,Dinan,413,
-2,Cindy Hyde-Smith,U.S. Senate,Unexpired Term,,Walthall,Dinan,105,
-2,Mike Espy,U.S. Senate,Unexpired Term,,Walthall,East Tylertown,8,
-2,Cindy Hyde-Smith,U.S. Senate,Unexpired Term,,Walthall,East Tylertown,42,
-2,Mike Espy,U.S. Senate,Unexpired Term,,Walthall,Enon,43,
-2,Cindy Hyde-Smith,U.S. Senate,Unexpired Term,,Walthall,Enon,114,
-2,Mike Espy,U.S. Senate,Unexpired Term,,Walthall,Hope,191,
-2,Cindy Hyde-Smith,U.S. Senate,Unexpired Term,,Walthall,Hope,20,
-2,Mike Espy,U.S. Senate,Unexpired Term,,Walthall,Improve,68,
-2,Cindy Hyde-Smith,U.S. Senate,Unexpired Term,,Walthall,Improve,224,
-2,Mike Espy,U.S. Senate,Unexpired Term,,Walthall,Lexie,66,
-2,Cindy Hyde-Smith,U.S. Senate,Unexpired Term,,Walthall,Lexie,310,
-3,Mike Espy,U.S. Senate,Unexpired Term,,Walthall,Mesa,8,
-3,Cindy Hyde-Smith,U.S. Senate,Unexpired Term,,Walthall,Mesa,28,
-3,Mike Espy,U.S. Senate,Unexpired Term,,Walthall,Midway,36,
-3,Cindy Hyde-Smith,U.S. Senate,Unexpired Term,,Walthall,Midway,125,
-3,Mike Espy,U.S. Senate,Unexpired Term,,Walthall,North Kirklin,187,
-3,Cindy Hyde-Smith,U.S. Senate,Unexpired Term,,Walthall,North Kirklin,140,
-3,Mike Espy,U.S. Senate,Unexpired Term,,Walthall,North Knoxo,462,
-3,Cindy Hyde-Smith,U.S. Senate,Unexpired Term,,Walthall,North Knoxo,33,
-3,Mike Espy,U.S. Senate,Unexpired Term,,Walthall,Sartinsville,55,
-3,Cindy Hyde-Smith,U.S. Senate,Unexpired Term,,Walthall,Sartinsville,81,
-3,Mike Espy,U.S. Senate,Unexpired Term,,Walthall,South Kirklin,35,
-3,Cindy Hyde-Smith,U.S. Senate,Unexpired Term,,Walthall,South Kirklin,78,
-3,Mike Espy,U.S. Senate,Unexpired Term,,Walthall,St Paul,158,
-3,Cindy Hyde-Smith,U.S. Senate,Unexpired Term,,Walthall,St Paul,46,
-3,Mike Espy,U.S. Senate,Unexpired Term,,Walthall,Varnel,102,
-3,Cindy Hyde-Smith,U.S. Senate,Unexpired Term,,Walthall,Varnel,262,
-3,Mike Espy,U.S. Senate,Unexpired Term,,Walthall,West Tylertown,178,
-3,Cindy Hyde-Smith,U.S. Senate,Unexpired Term,,Walthall,West Tylertown,119,
-3,Mike Espy,U.S. Senate,Unexpired Term,,Walthall,TOTAL,2329,
-3,Cindy Hyde-Smith,U.S. Senate,Unexpired Term,,Walthall,TOTAL,2716,
+county,precinct,office,district,party,candidate,votes
+Walthall,3rd District Tylertown,U.S. Senate,Unexpired Term,,Cindy Hyde-Smith,240
+Walthall,3rd District Tylertown,U.S. Senate,Unexpired Term,,Mike Espy,114
+Walthall,4th District Tylertown,U.S. Senate,Unexpired Term,,Cindy Hyde-Smith,193
+Walthall,4th District Tylertown,U.S. Senate,Unexpired Term,,Mike Espy,18
+Walthall,4th District West Tylertown,U.S. Senate,Unexpired Term,,Cindy Hyde-Smith,213
+Walthall,4th District West Tylertown,U.S. Senate,Unexpired Term,,Mike Espy,70
+Walthall,Darbun,U.S. Senate,Unexpired Term,,Cindy Hyde-Smith,70
+Walthall,Darbun,U.S. Senate,Unexpired Term,,Mike Espy,18
+Walthall,Dexter,U.S. Senate,Unexpired Term,,Cindy Hyde-Smith,273
+Walthall,Dexter,U.S. Senate,Unexpired Term,,Mike Espy,99
+Walthall,Dinan,U.S. Senate,Unexpired Term,,Cindy Hyde-Smith,105
+Walthall,Dinan,U.S. Senate,Unexpired Term,,Mike Espy,413
+Walthall,East Tylertown,U.S. Senate,Unexpired Term,,Cindy Hyde-Smith,42
+Walthall,East Tylertown,U.S. Senate,Unexpired Term,,Mike Espy,8
+Walthall,Enon,U.S. Senate,Unexpired Term,,Cindy Hyde-Smith,114
+Walthall,Enon,U.S. Senate,Unexpired Term,,Mike Espy,43
+Walthall,Hope,U.S. Senate,Unexpired Term,,Cindy Hyde-Smith,20
+Walthall,Hope,U.S. Senate,Unexpired Term,,Mike Espy,191
+Walthall,Improve,U.S. Senate,Unexpired Term,,Cindy Hyde-Smith,224
+Walthall,Improve,U.S. Senate,Unexpired Term,,Mike Espy,68
+Walthall,Lexie,U.S. Senate,Unexpired Term,,Cindy Hyde-Smith,310
+Walthall,Lexie,U.S. Senate,Unexpired Term,,Mike Espy,66
+Walthall,Mesa,U.S. Senate,Unexpired Term,,Cindy Hyde-Smith,28
+Walthall,Mesa,U.S. Senate,Unexpired Term,,Mike Espy,8
+Walthall,Midway,U.S. Senate,Unexpired Term,,Cindy Hyde-Smith,125
+Walthall,Midway,U.S. Senate,Unexpired Term,,Mike Espy,36
+Walthall,North Kirklin,U.S. Senate,Unexpired Term,,Cindy Hyde-Smith,140
+Walthall,North Kirklin,U.S. Senate,Unexpired Term,,Mike Espy,187
+Walthall,North Knoxo,U.S. Senate,Unexpired Term,,Cindy Hyde-Smith,33
+Walthall,North Knoxo,U.S. Senate,Unexpired Term,,Mike Espy,462
+Walthall,Sartinsville,U.S. Senate,Unexpired Term,,Cindy Hyde-Smith,81
+Walthall,Sartinsville,U.S. Senate,Unexpired Term,,Mike Espy,55
+Walthall,South Kirklin,U.S. Senate,Unexpired Term,,Cindy Hyde-Smith,78
+Walthall,South Kirklin,U.S. Senate,Unexpired Term,,Mike Espy,35
+Walthall,St Paul,U.S. Senate,Unexpired Term,,Cindy Hyde-Smith,46
+Walthall,St Paul,U.S. Senate,Unexpired Term,,Mike Espy,158
+Walthall,Total,U.S. Senate,Unexpired Term,,Cindy Hyde-Smith,2716
+Walthall,Total,U.S. Senate,Unexpired Term,,Mike Espy,2329
+Walthall,Varnel,U.S. Senate,Unexpired Term,,Cindy Hyde-Smith,262
+Walthall,Varnel,U.S. Senate,Unexpired Term,,Mike Espy,102
+Walthall,West Tylertown,U.S. Senate,Unexpired Term,,Cindy Hyde-Smith,119
+Walthall,West Tylertown,U.S. Senate,Unexpired Term,,Mike Espy,178

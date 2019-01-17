@@ -1,39 +1,39 @@
-Page,candidate,office,district,party,county,precinct,votes,winner,
-2,Mike Espy,U.S. Senate,Unexpired Term,,Smith,Ag-Complex,43,,
-2,Cindy Hyde-Smith,U.S. Senate,Unexpired Term,,Smith,Ag-Complex,341,,
-2,Mike Espy,U.S. Senate,Unexpired Term,,Smith,Burns,55,,
-2,Cindy Hyde-Smith,U.S. Senate,Unexpired Term,,Smith,Burns,144,,
-2,Mike Espy,U.S. Senate,Unexpired Term,,Smith,Cedar Grove,47,,
-2,Cindy Hyde-Smith,U.S. Senate,Unexpired Term,,Smith,Cedar Grove,80,,
-2,Mike Espy,U.S. Senate,Unexpired Term,,Smith,Center Ridge,17,,
-2,Cindy Hyde-Smith,U.S. Senate,Unexpired Term,,Smith,Center Ridge,216,,
-2,Mike Espy,U.S. Senate,Unexpired Term,,Smith,Clear Springs- Pineville,10,,
-2,Cindy Hyde-Smith,U.S. Senate,Unexpired Term,,Smith,Clear Springs- Pineville,176,,
-2,Mike Espy,U.S. Senate,Unexpired Term,,Smith,Lorena-Spinola,39,,
-2,Cindy Hyde-Smith,U.S. Senate,Unexpired Term,,Smith,Lorena-Spinola,204,,
-2,Mike Espy,U.S. Senate,Unexpired Term,,Smith,Mize ,27,,
-2,Cindy Hyde-Smith,U.S. Senate,Unexpired Term,,Smith,Mize ,342,,
-2,Mike Espy,U.S. Senate,Unexpired Term,,Smith,North Raleigh,204,,
-2,Cindy Hyde-Smith,U.S. Senate,Unexpired Term,,Smith,North Raleigh,276,,
-2,Mike Espy,U.S. Senate,Unexpired Term,,Smith,Polkville,25,,
-2,Cindy Hyde-Smith,U.S. Senate,Unexpired Term,,Smith,Polkville,322,,
-2,Mike Espy,U.S. Senate,Unexpired Term,,Smith,Shady Grove,13,,
-2,Cindy Hyde-Smith,U.S. Senate,Unexpired Term,,Smith,Shady Grove,233,,
-2,Mike Espy,U.S. Senate,Unexpired Term,,Smith,Summerland,357,,
-2,Cindy Hyde-Smith,U.S. Senate,Unexpired Term,,Smith,Summerland,157,,
-3,Mike Espy,U.S. Senate,Unexpired Term,,Smith,Sylvarena,15,,
-3,Cindy Hyde-Smith,U.S. Senate,Unexpired Term,,Smith,Sylvarena,135,,
-3,Mike Espy,U.S. Senate,Unexpired Term,,Smith,Taylorsville,65,,
-3,Cindy Hyde-Smith,U.S. Senate,Unexpired Term,,Smith,Taylorsville,514,,
-3,Mike Espy,U.S. Senate,Unexpired Term,,Smith,Union-New Home,123,,
-3,Cindy Hyde-Smith,U.S. Senate,Unexpired Term,,Smith,Union-New Home,220,,
-3,Mike Espy,U.S. Senate,Unexpired Term,,Smith,Warren Hill,297,,
-3,Cindy Hyde-Smith,U.S. Senate,Unexpired Term,,Smith,Warren Hill,31,,
-3,Mike Espy,U.S. Senate,Unexpired Term,,Smith,West Raleigh,20,,
-3,Cindy Hyde-Smith,U.S. Senate,Unexpired Term,,Smith,West Raleigh,201,,
-3,Mike Espy,U.S. Senate,Unexpired Term,,Smith,White Oak,14,,
-3,Cindy Hyde-Smith,U.S. Senate,Unexpired Term,,Smith,White Oak,233,,
-3,Mike Espy,U.S. Senate,Unexpired Term,,Smith,Zion Hill - New Haven,125,,
-3,Cindy Hyde-Smith,U.S. Senate,Unexpired Term,,Smith,Zion Hill - New Haven,355,,
-3,Mike Espy,U.S. Senate,Unexpired Term,,Smith,TOTAL ,1496,,
-3,Cindy Hyde-Smith,U.S. Senate,Unexpired Term,,Smith,TOTAL ,4180,,
+county,precinct,office,district,party,candidate,votes
+Smith,Ag-Complex,U.S. Senate,Unexpired Term,,Cindy Hyde-Smith,341
+Smith,Ag-Complex,U.S. Senate,Unexpired Term,,Mike Espy,43
+Smith,Burns,U.S. Senate,Unexpired Term,,Cindy Hyde-Smith,144
+Smith,Burns,U.S. Senate,Unexpired Term,,Mike Espy,55
+Smith,Cedar Grove,U.S. Senate,Unexpired Term,,Cindy Hyde-Smith,80
+Smith,Cedar Grove,U.S. Senate,Unexpired Term,,Mike Espy,47
+Smith,Center Ridge,U.S. Senate,Unexpired Term,,Cindy Hyde-Smith,216
+Smith,Center Ridge,U.S. Senate,Unexpired Term,,Mike Espy,17
+Smith,Clear Springs- Pineville,U.S. Senate,Unexpired Term,,Cindy Hyde-Smith,176
+Smith,Clear Springs- Pineville,U.S. Senate,Unexpired Term,,Mike Espy,10
+Smith,Lorena-Spinola,U.S. Senate,Unexpired Term,,Cindy Hyde-Smith,204
+Smith,Lorena-Spinola,U.S. Senate,Unexpired Term,,Mike Espy,39
+Smith,Mize,U.S. Senate,Unexpired Term,,Cindy Hyde-Smith,342
+Smith,Mize,U.S. Senate,Unexpired Term,,Mike Espy,27
+Smith,North Raleigh,U.S. Senate,Unexpired Term,,Cindy Hyde-Smith,276
+Smith,North Raleigh,U.S. Senate,Unexpired Term,,Mike Espy,204
+Smith,Polkville,U.S. Senate,Unexpired Term,,Cindy Hyde-Smith,322
+Smith,Polkville,U.S. Senate,Unexpired Term,,Mike Espy,25
+Smith,Shady Grove,U.S. Senate,Unexpired Term,,Cindy Hyde-Smith,233
+Smith,Shady Grove,U.S. Senate,Unexpired Term,,Mike Espy,13
+Smith,Summerland,U.S. Senate,Unexpired Term,,Cindy Hyde-Smith,157
+Smith,Summerland,U.S. Senate,Unexpired Term,,Mike Espy,357
+Smith,Sylvarena,U.S. Senate,Unexpired Term,,Cindy Hyde-Smith,135
+Smith,Sylvarena,U.S. Senate,Unexpired Term,,Mike Espy,15
+Smith,Taylorsville,U.S. Senate,Unexpired Term,,Cindy Hyde-Smith,514
+Smith,Taylorsville,U.S. Senate,Unexpired Term,,Mike Espy,65
+Smith,Total,U.S. Senate,Unexpired Term,,Cindy Hyde-Smith,4180
+Smith,Total,U.S. Senate,Unexpired Term,,Mike Espy,1496
+Smith,Union-New Home,U.S. Senate,Unexpired Term,,Cindy Hyde-Smith,220
+Smith,Union-New Home,U.S. Senate,Unexpired Term,,Mike Espy,123
+Smith,Warren Hill,U.S. Senate,Unexpired Term,,Cindy Hyde-Smith,31
+Smith,Warren Hill,U.S. Senate,Unexpired Term,,Mike Espy,297
+Smith,West Raleigh,U.S. Senate,Unexpired Term,,Cindy Hyde-Smith,201
+Smith,West Raleigh,U.S. Senate,Unexpired Term,,Mike Espy,20
+Smith,White Oak,U.S. Senate,Unexpired Term,,Cindy Hyde-Smith,233
+Smith,White Oak,U.S. Senate,Unexpired Term,,Mike Espy,14
+Smith,Zion Hill - New Haven,U.S. Senate,Unexpired Term,,Cindy Hyde-Smith,355
+Smith,Zion Hill - New Haven,U.S. Senate,Unexpired Term,,Mike Espy,125

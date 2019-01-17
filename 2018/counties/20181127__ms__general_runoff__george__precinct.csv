@@ -1,157 +1,47 @@
-Page,candidate,office,district,party,county,precinct,votes,winner
-2,Mike Espy,U.S. Senate,Unexpired Term,,George,Rocky Creek,50,
-2,Cindy Hyde-Smith,U.S. Senate,Unexpired Term,,George,Rocky Creek,588,
-2,Mike Espy,U.S. Senate,Unexpired Term,,George,Multi Mart,19,
-2,Cindy Hyde-Smith,U.S. Senate,Unexpired Term,,George,Multi Mart,132,
-2,Mike Espy,U.S. Senate,Unexpired Term,,George,Ward,9,
-2,Cindy Hyde-Smith,U.S. Senate,Unexpired Term,,George,Ward,179,
-2,Mike Espy,U.S. Senate,Unexpired Term,,George,Shipman,29,
-2,Cindy Hyde-Smith,U.S. Senate,Unexpired Term,,George,Shipman,156,
-2,Mike Espy,U.S. Senate,Unexpired Term,,George,Courthouse,18,
-2,Cindy Hyde-Smith,U.S. Senate,Unexpired Term,,George,Courthouse,124,
-2,Mike Espy,U.S. Senate,Unexpired Term,,George,Pine Level,23,
-2,Cindy Hyde-Smith,U.S. Senate,Unexpired Term,,George,Pine Level,224,
-2,Mike Espy,U.S. Senate,Unexpired Term,,George,Agricola,50,
-2,Cindy Hyde-Smith,U.S. Senate,Unexpired Term,,George,Agricola,440,
-2,Mike Espy,U.S. Senate,Unexpired Term,,George,Howell,15,
-2,Cindy Hyde-Smith,U.S. Senate,Unexpired Term,,George,Howell,207,
-2,Mike Espy,U.S. Senate,Unexpired Term,,George,Movella,12,
-2,Cindy Hyde-Smith,U.S. Senate,Unexpired Term,,George,Movella,175,
-2,Mike Espy,U.S. Senate,Unexpired Term,,George,Multi-Purpose,18,
-2,Cindy Hyde-Smith,U.S. Senate,Unexpired Term,,George,Multi-Purpose,95,
-2,Mike Espy,U.S. Senate,Unexpired Term,,George,Basin,134,
-2,Cindy Hyde-Smith,U.S. Senate,Unexpired Term,,George,Basin,394,
-3,Mike Espy,U.S. Senate,Unexpired Term,,George,Davis,17,
-3,Cindy Hyde-Smith,U.S. Senate,Unexpired Term,,George,Davis,185,
-3,Mike Espy,U.S. Senate,Unexpired Term,,George,Barton,49,
-3,Cindy Hyde-Smith,U.S. Senate,Unexpired Term,,George,Barton,402,
-3,Mike Espy,U.S. Senate,Unexpired Term,,George,City Hall,67,
-3,Cindy Hyde-Smith,U.S. Senate,Unexpired Term,,George,City Hall,356,
-3,Mike Espy,U.S. Senate,Unexpired Term,,George,Shady Grove,30,
-3,Cindy Hyde-Smith,U.S. Senate,Unexpired Term,,George,Shady Grove,292,
-3,Mike Espy,U.S. Senate,Unexpired Term,,George,Bexley,52,
-3,Cindy Hyde-Smith,U.S. Senate,Unexpired Term,,George,Bexley,165,
-3,Mike Espy,U.S. Senate,Unexpired Term,,George,Salem,10,
-3,Cindy Hyde-Smith,U.S. Senate,Unexpired Term,,George,Salem,50,
-3,Mike Espy,U.S. Senate,Unexpired Term,,George,Middle School,150,
-3,Cindy Hyde-Smith,U.S. Senate,Unexpired Term,,George,Middle School,134,
-3,Mike Espy,U.S. Senate,Unexpired Term,,George,Central,15,
-3,Cindy Hyde-Smith,U.S. Senate,Unexpired Term,,George,Central,103,
-3,Mike Espy,U.S. Senate,Unexpired Term,,George,Benndale,102,
-3,Cindy Hyde-Smith,U.S. Senate,Unexpired Term,,George,Benndale,248,
-3,Mike Espy,U.S. Senate,Unexpired Term,,George,Broome,3,
-3,Cindy Hyde-Smith,U.S. Senate,Unexpired Term,,George,Broome,125,
-3,Mike Espy,U.S. Senate,Unexpired Term,,George,Twin Creek,17,
-3,Cindy Hyde-Smith,U.S. Senate,Unexpired Term,,George,Twin Creek,126,
-4,Mike Espy,U.S. Senate,Unexpired Term,,George,TOTAL ,889,
-4,Cindy Hyde-Smith,U.S. Senate,Unexpired Term,,George,TOTAL ,4900,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
+county,precinct,office,district,party,candidate,votes
+George,Agricola,U.S. Senate,Unexpired Term,,Cindy Hyde-Smith,440
+George,Agricola,U.S. Senate,Unexpired Term,,Mike Espy,50
+George,Barton,U.S. Senate,Unexpired Term,,Cindy Hyde-Smith,402
+George,Barton,U.S. Senate,Unexpired Term,,Mike Espy,49
+George,Basin,U.S. Senate,Unexpired Term,,Cindy Hyde-Smith,394
+George,Basin,U.S. Senate,Unexpired Term,,Mike Espy,134
+George,Benndale,U.S. Senate,Unexpired Term,,Cindy Hyde-Smith,248
+George,Benndale,U.S. Senate,Unexpired Term,,Mike Espy,102
+George,Bexley,U.S. Senate,Unexpired Term,,Cindy Hyde-Smith,165
+George,Bexley,U.S. Senate,Unexpired Term,,Mike Espy,52
+George,Broome,U.S. Senate,Unexpired Term,,Cindy Hyde-Smith,125
+George,Broome,U.S. Senate,Unexpired Term,,Mike Espy,3
+George,Central,U.S. Senate,Unexpired Term,,Cindy Hyde-Smith,103
+George,Central,U.S. Senate,Unexpired Term,,Mike Espy,15
+George,City Hall,U.S. Senate,Unexpired Term,,Cindy Hyde-Smith,356
+George,City Hall,U.S. Senate,Unexpired Term,,Mike Espy,67
+George,Courthouse,U.S. Senate,Unexpired Term,,Cindy Hyde-Smith,124
+George,Courthouse,U.S. Senate,Unexpired Term,,Mike Espy,18
+George,Davis,U.S. Senate,Unexpired Term,,Cindy Hyde-Smith,185
+George,Davis,U.S. Senate,Unexpired Term,,Mike Espy,17
+George,Howell,U.S. Senate,Unexpired Term,,Cindy Hyde-Smith,207
+George,Howell,U.S. Senate,Unexpired Term,,Mike Espy,15
+George,Middle School,U.S. Senate,Unexpired Term,,Cindy Hyde-Smith,134
+George,Middle School,U.S. Senate,Unexpired Term,,Mike Espy,150
+George,Movella,U.S. Senate,Unexpired Term,,Cindy Hyde-Smith,175
+George,Movella,U.S. Senate,Unexpired Term,,Mike Espy,12
+George,Multi Mart,U.S. Senate,Unexpired Term,,Cindy Hyde-Smith,132
+George,Multi Mart,U.S. Senate,Unexpired Term,,Mike Espy,19
+George,Multi-Purpose,U.S. Senate,Unexpired Term,,Cindy Hyde-Smith,95
+George,Multi-Purpose,U.S. Senate,Unexpired Term,,Mike Espy,18
+George,Pine Level,U.S. Senate,Unexpired Term,,Cindy Hyde-Smith,224
+George,Pine Level,U.S. Senate,Unexpired Term,,Mike Espy,23
+George,Rocky Creek,U.S. Senate,Unexpired Term,,Cindy Hyde-Smith,588
+George,Rocky Creek,U.S. Senate,Unexpired Term,,Mike Espy,50
+George,Salem,U.S. Senate,Unexpired Term,,Cindy Hyde-Smith,50
+George,Salem,U.S. Senate,Unexpired Term,,Mike Espy,10
+George,Shady Grove,U.S. Senate,Unexpired Term,,Cindy Hyde-Smith,292
+George,Shady Grove,U.S. Senate,Unexpired Term,,Mike Espy,30
+George,Shipman,U.S. Senate,Unexpired Term,,Cindy Hyde-Smith,156
+George,Shipman,U.S. Senate,Unexpired Term,,Mike Espy,29
+George,Total,U.S. Senate,Unexpired Term,,Cindy Hyde-Smith,4900
+George,Total,U.S. Senate,Unexpired Term,,Mike Espy,889
+George,Twin Creek,U.S. Senate,Unexpired Term,,Cindy Hyde-Smith,126
+George,Twin Creek,U.S. Senate,Unexpired Term,,Mike Espy,17
+George,Ward,U.S. Senate,Unexpired Term,,Cindy Hyde-Smith,179
+George,Ward,U.S. Senate,Unexpired Term,,Mike Espy,9
