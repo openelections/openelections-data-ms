@@ -1,7 +1,7 @@
 county,precinct,office,district,party,candidate,votes
-Webster,Bellefontaine,U.S. House,1,DEM,Irving Harris,13
-Webster,Bellefontaine,U.S. House,1,REF,Troy Ray,0
-Webster,Bellefontaine,U.S. House,1,REP,Bennie G. Thompson,174
+Webster,Bellefontaine,U.S. House,1,REF,Irving Harris,13
+Webster,Bellefontaine,U.S. House,1,IND,Troy Ray,0
+Webster,Bellefontaine,U.S. House,1,DEM,Bennie G. Thompson,174
 Webster,Bellefontaine,U.S. Senate,Unexpired Term,,Chris McDaniel,21
 Webster,Bellefontaine,U.S. Senate,Unexpired Term,,Cindy Hyde-Smith,139
 Webster,Bellefontaine,U.S. Senate,Unexpired Term,,Mike Espy,18
@@ -10,9 +10,9 @@ Webster,Bellefontaine,U.S. Senate,,DEM,David Baria,15
 Webster,Bellefontaine,U.S. Senate,,LIB,Danny Bedwell,2
 Webster,Bellefontaine,U.S. Senate,,REF,Shawn O'Hara,1
 Webster,Bellefontaine,U.S. Senate,,REP,Roger F. Wicker,170
-Webster,Big Black,U.S. House,1,DEM,Irving Harris,10
-Webster,Big Black,U.S. House,1,REF,Troy Ray,0
-Webster,Big Black,U.S. House,1,REP,Bennie G. Thompson,146
+Webster,Big Black,U.S. House,1,REF,Irving Harris,10
+Webster,Big Black,U.S. House,1,IND,Troy Ray,0
+Webster,Big Black,U.S. House,1,DEM,Bennie G. Thompson,146
 Webster,Big Black,U.S. Senate,Unexpired Term,,Chris McDaniel,35
 Webster,Big Black,U.S. Senate,Unexpired Term,,Cindy Hyde-Smith,107
 Webster,Big Black,U.S. Senate,Unexpired Term,,Mike Espy,13
@@ -21,9 +21,9 @@ Webster,Big Black,U.S. Senate,,DEM,David Baria,12
 Webster,Big Black,U.S. Senate,,LIB,Danny Bedwell,3
 Webster,Big Black,U.S. Senate,,REF,Shawn O'Hara,0
 Webster,Big Black,U.S. Senate,,REP,Roger F. Wicker,139
-Webster,Bluff Springs,U.S. House,1,DEM,Irving Harris,37
-Webster,Bluff Springs,U.S. House,1,REF,Troy Ray,0
-Webster,Bluff Springs,U.S. House,1,REP,Bennie G. Thompson,54
+Webster,Bluff Springs,U.S. House,1,REF,Irving Harris,37
+Webster,Bluff Springs,U.S. House,1,IND,Troy Ray,0
+Webster,Bluff Springs,U.S. House,1,DEM,Bennie G. Thompson,54
 Webster,Bluff Springs,U.S. Senate,Unexpired Term,,Chris McDaniel,8
 Webster,Bluff Springs,U.S. Senate,Unexpired Term,,Cindy Hyde-Smith,43
 Webster,Bluff Springs,U.S. Senate,Unexpired Term,,Mike Espy,41
@@ -32,9 +32,9 @@ Webster,Bluff Springs,U.S. Senate,,DEM,David Baria,43
 Webster,Bluff Springs,U.S. Senate,,LIB,Danny Bedwell,0
 Webster,Bluff Springs,U.S. Senate,,REF,Shawn O'Hara,0
 Webster,Bluff Springs,U.S. Senate,,REP,Roger F. Wicker,48
-Webster,Cadaretta,U.S. House,1,DEM,Irving Harris,8
-Webster,Cadaretta,U.S. House,1,REF,Troy Ray,0
-Webster,Cadaretta,U.S. House,1,REP,Bennie G. Thompson,83
+Webster,Cadaretta,U.S. House,1,REF,Irving Harris,8
+Webster,Cadaretta,U.S. House,1,IND,Troy Ray,0
+Webster,Cadaretta,U.S. House,1,DEM,Bennie G. Thompson,83
 Webster,Cadaretta,U.S. Senate,Unexpired Term,,Chris McDaniel,4
 Webster,Cadaretta,U.S. Senate,Unexpired Term,,Cindy Hyde-Smith,77
 Webster,Cadaretta,U.S. Senate,Unexpired Term,,Mike Espy,8
@@ -43,9 +43,9 @@ Webster,Cadaretta,U.S. Senate,,DEM,David Baria,7
 Webster,Cadaretta,U.S. Senate,,LIB,Danny Bedwell,0
 Webster,Cadaretta,U.S. Senate,,REF,Shawn O'Hara,0
 Webster,Cadaretta,U.S. Senate,,REP,Roger F. Wicker,83
-Webster,Clarkson,U.S. House,1,DEM,Irving Harris,7
-Webster,Clarkson,U.S. House,1,REF,Troy Ray,0
-Webster,Clarkson,U.S. House,1,REP,Bennie G. Thompson,202
+Webster,Clarkson,U.S. House,1,REF,Irving Harris,7
+Webster,Clarkson,U.S. House,1,IND,Troy Ray,0
+Webster,Clarkson,U.S. House,1,DEM,Bennie G. Thompson,202
 Webster,Clarkson,U.S. Senate,Unexpired Term,,Chris McDaniel,34
 Webster,Clarkson,U.S. Senate,Unexpired Term,,Cindy Hyde-Smith,161
 Webster,Clarkson,U.S. Senate,Unexpired Term,,Mike Espy,10
@@ -54,9 +54,9 @@ Webster,Clarkson,U.S. Senate,,DEM,David Baria,6
 Webster,Clarkson,U.S. Senate,,LIB,Danny Bedwell,3
 Webster,Clarkson,U.S. Senate,,REF,Shawn O'Hara,0
 Webster,Clarkson,U.S. Senate,,REP,Roger F. Wicker,199
-Webster,Cumberland,U.S. House,1,DEM,Irving Harris,35
-Webster,Cumberland,U.S. House,1,REF,Troy Ray,2
-Webster,Cumberland,U.S. House,1,REP,Bennie G. Thompson,180
+Webster,Cumberland,U.S. House,1,REF,Irving Harris,35
+Webster,Cumberland,U.S. House,1,IND,Troy Ray,2
+Webster,Cumberland,U.S. House,1,DEM,Bennie G. Thompson,180
 Webster,Cumberland,U.S. Senate,Unexpired Term,,Chris McDaniel,55
 Webster,Cumberland,U.S. Senate,Unexpired Term,,Cindy Hyde-Smith,121
 Webster,Cumberland,U.S. Senate,Unexpired Term,,Mike Espy,39
@@ -65,9 +65,9 @@ Webster,Cumberland,U.S. Senate,,DEM,David Baria,39
 Webster,Cumberland,U.S. Senate,,LIB,Danny Bedwell,2
 Webster,Cumberland,U.S. Senate,,REF,Shawn O'Hara,2
 Webster,Cumberland,U.S. Senate,,REP,Roger F. Wicker,180
-Webster,Eupora No. 1,U.S. House,1,DEM,Irving Harris,311
-Webster,Eupora No. 1,U.S. House,1,REF,Troy Ray,7
-Webster,Eupora No. 1,U.S. House,1,REP,Bennie G. Thompson,327
+Webster,Eupora No. 1,U.S. House,1,REF,Irving Harris,311
+Webster,Eupora No. 1,U.S. House,1,IND,Troy Ray,7
+Webster,Eupora No. 1,U.S. House,1,DEM,Bennie G. Thompson,327
 Webster,Eupora No. 1,U.S. Senate,Unexpired Term,,Chris McDaniel,69
 Webster,Eupora No. 1,U.S. Senate,Unexpired Term,,Cindy Hyde-Smith,255
 Webster,Eupora No. 1,U.S. Senate,Unexpired Term,,Mike Espy,308
@@ -76,9 +76,9 @@ Webster,Eupora No. 1,U.S. Senate,,DEM,David Baria,304
 Webster,Eupora No. 1,U.S. Senate,,LIB,Danny Bedwell,9
 Webster,Eupora No. 1,U.S. Senate,,REF,Shawn O'Hara,5
 Webster,Eupora No. 1,U.S. Senate,,REP,Roger F. Wicker,320
-Webster,Eupora No. 2,U.S. House,1,DEM,Irving Harris,25
-Webster,Eupora No. 2,U.S. House,1,REF,Troy Ray,1
-Webster,Eupora No. 2,U.S. House,1,REP,Bennie G. Thompson,202
+Webster,Eupora No. 2,U.S. House,1,REF,Irving Harris,25
+Webster,Eupora No. 2,U.S. House,1,IND,Troy Ray,1
+Webster,Eupora No. 2,U.S. House,1,DEM,Bennie G. Thompson,202
 Webster,Eupora No. 2,U.S. Senate,Unexpired Term,,Chris McDaniel,46
 Webster,Eupora No. 2,U.S. Senate,Unexpired Term,,Cindy Hyde-Smith,153
 Webster,Eupora No. 2,U.S. Senate,Unexpired Term,,Mike Espy,26
@@ -87,9 +87,9 @@ Webster,Eupora No. 2,U.S. Senate,,DEM,David Baria,23
 Webster,Eupora No. 2,U.S. Senate,,LIB,Danny Bedwell,5
 Webster,Eupora No. 2,U.S. Senate,,REF,Shawn O'Hara,1
 Webster,Eupora No. 2,U.S. Senate,,REP,Roger F. Wicker,197
-Webster,Eupora No. 3,U.S. House,1,DEM,Irving Harris,42
-Webster,Eupora No. 3,U.S. House,1,REF,Troy Ray,3
-Webster,Eupora No. 3,U.S. House,1,REP,Bennie G. Thompson,131
+Webster,Eupora No. 3,U.S. House,1,REF,Irving Harris,42
+Webster,Eupora No. 3,U.S. House,1,IND,Troy Ray,3
+Webster,Eupora No. 3,U.S. House,1,DEM,Bennie G. Thompson,131
 Webster,Eupora No. 3,U.S. Senate,Unexpired Term,,Chris McDaniel,20
 Webster,Eupora No. 3,U.S. Senate,Unexpired Term,,Cindy Hyde-Smith,106
 Webster,Eupora No. 3,U.S. Senate,Unexpired Term,,Mike Espy,46
@@ -98,9 +98,9 @@ Webster,Eupora No. 3,U.S. Senate,,DEM,David Baria,43
 Webster,Eupora No. 3,U.S. Senate,,LIB,Danny Bedwell,4
 Webster,Eupora No. 3,U.S. Senate,,REF,Shawn O'Hara,2
 Webster,Eupora No. 3,U.S. Senate,,REP,Roger F. Wicker,126
-Webster,Fame,U.S. House,1,DEM,Irving Harris,8
-Webster,Fame,U.S. House,1,REF,Troy Ray,1
-Webster,Fame,U.S. House,1,REP,Bennie G. Thompson,164
+Webster,Fame,U.S. House,1,REF,Irving Harris,8
+Webster,Fame,U.S. House,1,IND,Troy Ray,1
+Webster,Fame,U.S. House,1,DEM,Bennie G. Thompson,164
 Webster,Fame,U.S. Senate,Unexpired Term,,Chris McDaniel,44
 Webster,Fame,U.S. Senate,Unexpired Term,,Cindy Hyde-Smith,119
 Webster,Fame,U.S. Senate,Unexpired Term,,Mike Espy,8
@@ -109,9 +109,9 @@ Webster,Fame,U.S. Senate,,DEM,David Baria,9
 Webster,Fame,U.S. Senate,,LIB,Danny Bedwell,5
 Webster,Fame,U.S. Senate,,REF,Shawn O'Hara,3
 Webster,Fame,U.S. Senate,,REP,Roger F. Wicker,155
-Webster,Fay,U.S. House,1,DEM,Irving Harris,3
-Webster,Fay,U.S. House,1,REF,Troy Ray,0
-Webster,Fay,U.S. House,1,REP,Bennie G. Thompson,78
+Webster,Fay,U.S. House,1,REF,Irving Harris,3
+Webster,Fay,U.S. House,1,IND,Troy Ray,0
+Webster,Fay,U.S. House,1,DEM,Bennie G. Thompson,78
 Webster,Fay,U.S. Senate,Unexpired Term,,Chris McDaniel,19
 Webster,Fay,U.S. Senate,Unexpired Term,,Cindy Hyde-Smith,60
 Webster,Fay,U.S. Senate,Unexpired Term,,Mike Espy,3
@@ -120,9 +120,9 @@ Webster,Fay,U.S. Senate,,DEM,David Baria,3
 Webster,Fay,U.S. Senate,,LIB,Danny Bedwell,3
 Webster,Fay,U.S. Senate,,REF,Shawn O'Hara,0
 Webster,Fay,U.S. Senate,,REP,Roger F. Wicker,74
-Webster,Grady,U.S. House,1,DEM,Irving Harris,26
-Webster,Grady,U.S. House,1,REF,Troy Ray,2
-Webster,Grady,U.S. House,1,REP,Bennie G. Thompson,135
+Webster,Grady,U.S. House,1,REF,Irving Harris,26
+Webster,Grady,U.S. House,1,IND,Troy Ray,2
+Webster,Grady,U.S. House,1,DEM,Bennie G. Thompson,135
 Webster,Grady,U.S. Senate,Unexpired Term,,Chris McDaniel,32
 Webster,Grady,U.S. Senate,Unexpired Term,,Cindy Hyde-Smith,102
 Webster,Grady,U.S. Senate,Unexpired Term,,Mike Espy,32
@@ -131,9 +131,9 @@ Webster,Grady,U.S. Senate,,DEM,David Baria,25
 Webster,Grady,U.S. Senate,,LIB,Danny Bedwell,2
 Webster,Grady,U.S. Senate,,REF,Shawn O'Hara,1
 Webster,Grady,U.S. Senate,,REP,Roger F. Wicker,134
-Webster,Maben,U.S. House,1,DEM,Irving Harris,74
-Webster,Maben,U.S. House,1,REF,Troy Ray,0
-Webster,Maben,U.S. House,1,REP,Bennie G. Thompson,243
+Webster,Maben,U.S. House,1,REF,Irving Harris,74
+Webster,Maben,U.S. House,1,IND,Troy Ray,0
+Webster,Maben,U.S. House,1,DEM,Bennie G. Thompson,243
 Webster,Maben,U.S. Senate,Unexpired Term,,Chris McDaniel,76
 Webster,Maben,U.S. Senate,Unexpired Term,,Cindy Hyde-Smith,163
 Webster,Maben,U.S. Senate,Unexpired Term,,Mike Espy,76
@@ -142,9 +142,9 @@ Webster,Maben,U.S. Senate,,DEM,David Baria,70
 Webster,Maben,U.S. Senate,,LIB,Danny Bedwell,0
 Webster,Maben,U.S. Senate,,REF,Shawn O'Hara,0
 Webster,Maben,U.S. Senate,,REP,Roger F. Wicker,246
-Webster,Mantee,U.S. House,1,DEM,Irving Harris,15
-Webster,Mantee,U.S. House,1,REF,Troy Ray,2
-Webster,Mantee,U.S. House,1,REP,Bennie G. Thompson,252
+Webster,Mantee,U.S. House,1,REF,Irving Harris,15
+Webster,Mantee,U.S. House,1,IND,Troy Ray,2
+Webster,Mantee,U.S. House,1,DEM,Bennie G. Thompson,252
 Webster,Mantee,U.S. Senate,Unexpired Term,,Chris McDaniel,76
 Webster,Mantee,U.S. Senate,Unexpired Term,,Cindy Hyde-Smith,164
 Webster,Mantee,U.S. Senate,Unexpired Term,,Mike Espy,21
@@ -153,9 +153,9 @@ Webster,Mantee,U.S. Senate,,DEM,David Baria,21
 Webster,Mantee,U.S. Senate,,LIB,Danny Bedwell,3
 Webster,Mantee,U.S. Senate,,REF,Shawn O'Hara,0
 Webster,Mantee,U.S. Senate,,REP,Roger F. Wicker,245
-Webster,Mathiston,U.S. House,1,DEM,Irving Harris,64
-Webster,Mathiston,U.S. House,1,REF,Troy Ray,1
-Webster,Mathiston,U.S. House,1,REP,Bennie G. Thompson,348
+Webster,Mathiston,U.S. House,1,REF,Irving Harris,64
+Webster,Mathiston,U.S. House,1,IND,Troy Ray,1
+Webster,Mathiston,U.S. House,1,DEM,Bennie G. Thompson,348
 Webster,Mathiston,U.S. Senate,Unexpired Term,,Chris McDaniel,97
 Webster,Mathiston,U.S. Senate,Unexpired Term,,Cindy Hyde-Smith,251
 Webster,Mathiston,U.S. Senate,Unexpired Term,,Mike Espy,59
@@ -164,9 +164,9 @@ Webster,Mathiston,U.S. Senate,,DEM,David Baria,65
 Webster,Mathiston,U.S. Senate,,LIB,Danny Bedwell,6
 Webster,Mathiston,U.S. Senate,,REF,Shawn O'Hara,4
 Webster,Mathiston,U.S. Senate,,REP,Roger F. Wicker,330
-Webster,Tomnolen,U.S. House,1,DEM,Irving Harris,20
-Webster,Tomnolen,U.S. House,1,REF,Troy Ray,0
-Webster,Tomnolen,U.S. House,1,REP,Bennie G. Thompson,223
+Webster,Tomnolen,U.S. House,1,REF,Irving Harris,20
+Webster,Tomnolen,U.S. House,1,IND,Troy Ray,0
+Webster,Tomnolen,U.S. House,1,DEM,Bennie G. Thompson,223
 Webster,Tomnolen,U.S. Senate,Unexpired Term,,Chris McDaniel,47
 Webster,Tomnolen,U.S. Senate,Unexpired Term,,Cindy Hyde-Smith,172
 Webster,Tomnolen,U.S. Senate,Unexpired Term,,Mike Espy,21
@@ -175,9 +175,9 @@ Webster,Tomnolen,U.S. Senate,,DEM,David Baria,21
 Webster,Tomnolen,U.S. Senate,,LIB,Danny Bedwell,3
 Webster,Tomnolen,U.S. Senate,,REF,Shawn O'Hara,0
 Webster,Tomnolen,U.S. Senate,,REP,Roger F. Wicker,217
-Webster,Total,U.S. House,1,DEM,Irving Harris,724
-Webster,Total,U.S. House,1,REF,Troy Ray,19
-Webster,Total,U.S. House,1,REP,Bennie G. Thompson,3197
+Webster,Total,U.S. House,1,REF,Irving Harris,724
+Webster,Total,U.S. House,1,IND,Troy Ray,19
+Webster,Total,U.S. House,1,DEM,Bennie G. Thompson,3197
 Webster,Total,U.S. Senate,Unexpired Term,,Chris McDaniel,731
 Webster,Total,U.S. Senate,Unexpired Term,,Cindy Hyde-Smith,2390
 Webster,Total,U.S. Senate,Unexpired Term,,Mike Espy,756
@@ -186,9 +186,9 @@ Webster,Total,U.S. Senate,,DEM,David Baria,733
 Webster,Total,U.S. Senate,,LIB,Danny Bedwell,51
 Webster,Total,U.S. Senate,,REF,Shawn O'Hara,19
 Webster,Total,U.S. Senate,,REP,Roger F. Wicker,3114
-Webster,Walthall,U.S. House,1,DEM,Irving Harris,26
-Webster,Walthall,U.S. House,1,REF,Troy Ray,0
-Webster,Walthall,U.S. House,1,REP,Bennie G. Thompson,255
+Webster,Walthall,U.S. House,1,REF,Irving Harris,26
+Webster,Walthall,U.S. House,1,IND,Troy Ray,0
+Webster,Walthall,U.S. House,1,DEM,Bennie G. Thompson,255
 Webster,Walthall,U.S. Senate,Unexpired Term,,Chris McDaniel,48
 Webster,Walthall,U.S. Senate,Unexpired Term,,Cindy Hyde-Smith,197
 Webster,Walthall,U.S. Senate,Unexpired Term,,Mike Espy,27
