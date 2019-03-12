@@ -47,7 +47,7 @@ Leflore,East Gwd,Commissioner of Agriculture & Commerce,,Republican,Cindy Hyde-S
 Leflore,East Gwd,Commissioner of Agriculture & Commerce,,Reform,Cathy L Toole,17
 Leflore,East Gwd,Commissioner of Insurance,,Republican,Mike Chaney,311
 Leflore,East Gwd,State Senate,24,Democrat,David Jordan,655
-Leflore,East Gwd,State Senate,32,Democrat,Willie J Perkins Sr,640
+Leflore,East Gwd,State House,32,Democrat,Willie J Perkins Sr,640
 Leflore,Minter City,Governor,,Democrat,Robert Gray,44
 Leflore,Minter City,Governor,,Republican,Phil Bryant,104
 Leflore,Minter City,Governor,,Reform,Shawn O'Hara,1
@@ -165,7 +165,7 @@ Leflore,Ne Gwd,Commissioner of Agriculture & Commerce,,Republican,Cindy Hyde-Smi
 Leflore,Ne Gwd,Commissioner of Agriculture & Commerce,,Reform,Cathy L Toole,6
 Leflore,Ne Gwd,Commissioner of Insurance,,Republican,Mike Chaney,196
 Leflore,Ne Gwd,State Senate,24,Democrat,David Jordan,335
-Leflore,Ne Gwd,State Senate,32,Democrat,Willie J Perkins Sr,342
+Leflore,Ne Gwd,State House,32,Democrat,Willie J Perkins Sr,342
 Leflore,North Gwd,Governor,,Republican,Phil Bryant,1674
 Leflore,North Gwd,Governor,,Democrat,Robert Gray,245
 Leflore,North Gwd,Governor,,Reform,Shawn O'Hara,14
@@ -217,8 +217,8 @@ Leflore,North Itta Bena,Commissioner of Agriculture & Commerce,,Reform,Cathy L T
 Leflore,North Itta Bena,Commissioner of Insurance,,Republican,Mike Chaney,449
 Leflore,North Itta Bena,State Senate,24,Democrat,David Jordan,674
 Leflore,North Itta Bena,State House,34,Democrat,Kevin Horan,652
-Leflore,Rising Sun,Governor,,Republican,Phil Bryant,228
-Leflore,Rising Sun,Governor,,Democrat,Robert Gray,58
+Leflore,Rising Sun,Governor,,Republican,Phil Bryant,58
+Leflore,Rising Sun,Governor,,Democrat,Robert Gray,228
 Leflore,Rising Sun,Governor,,Reform,Shawn O'Hara,6
 Leflore,Rising Sun,Lieutenant Governor,,Democrat,Tim Johnson,226
 Leflore,Rising Sun,Lieutenant Governor,,Republican,Tate Reeves,36
@@ -239,9 +239,9 @@ Leflore,Rising Sun,Commissioner of Agriculture & Commerce,,Republican,Cindy Hyde
 Leflore,Rising Sun,Commissioner of Agriculture & Commerce,,Reform,Cathy L Toole,8
 Leflore,Rising Sun,Commissioner of Insurance,,Republican,Mike Chaney,135
 Leflore,Rising Sun,State Senate,24,Democrat,David Jordan,285
-Leflore,Rising Sun,State Senate,32,Democrat,Willie J Perkins Sr,279
-Leflore,Schlater,Governor,,Republican,Phil Bryant,51
-Leflore,Schlater,Governor,,Democrat,Robert Gray,89
+Leflore,Rising Sun,State House,32,Democrat,Willie J Perkins Sr,279
+Leflore,Schlater,Governor,,Republican,Phil Bryant,89
+Leflore,Schlater,Governor,,Democrat,Robert Gray,51
 Leflore,Schlater,Governor,,Reform,Shawn O'Hara,1
 Leflore,Schlater,Lieutenant Governor,,Democrat,Tim Johnson,62
 Leflore,Schlater,Lieutenant Governor,,Republican,Tate Reeves,72
@@ -286,8 +286,8 @@ Leflore,Sidon,Commissioner of Agriculture & Commerce,,Reform,Cathy L Toole,7
 Leflore,Sidon,Commissioner of Insurance,,Republican,Mike Chaney,116
 Leflore,Sidon,State Senate,24,Democrat,David Jordan,129
 Leflore,Sidon,State House,32,Democrat,Willie J Perkins Sr,130
-Leflore,South Gwd,Governor,,Republican,Phil Bryant,169
-Leflore,South Gwd,Governor,,Democrat,Robert Gray,30
+Leflore,South Gwd,Governor,,Republican,Phil Bryant,30
+Leflore,South Gwd,Governor,,Democrat,Robert Gray,169
 Leflore,South Gwd,Governor,,Reform,Shawn O'Hara,1
 Leflore,South Gwd,Lieutenant Governor,,Democrat,Tim Johnson,173
 Leflore,South Gwd,Lieutenant Governor,,Republican,Tate Reeves,14
@@ -309,8 +309,8 @@ Leflore,South Gwd,Commissioner of Agriculture & Commerce,,Reform,Cathy L Toole,5
 Leflore,South Gwd,Commissioner of Insurance,,Republican,Mike Chaney,82
 Leflore,South Gwd,State Senate,24,Democrat,David Jordan,194
 Leflore,South Gwd,State House,32,Democrat,Willie J Perkins Sr,189
-Leflore,South Itta Bena,Governor,,Republican,Phil Bryant,154
-Leflore,South Itta Bena,Governor,,Democrat,Robert Gray,73
+Leflore,South Itta Bena,Governor,,Republican,Phil Bryant,73
+Leflore,South Itta Bena,Governor,,Democrat,Robert Gray,154
 Leflore,South Itta Bena,Governor,,Reform,Shawn O'Hara,2
 Leflore,South Itta Bena,Lieutenant Governor,,Democrat,Tim Johnson,162
 Leflore,South Itta Bena,Lieutenant Governor,,Republican,Tate Reeves,46
@@ -332,8 +332,8 @@ Leflore,South Itta Bena,Commissioner of Agriculture & Commerce,,Reform,Cathy L T
 Leflore,South Itta Bena,Commissioner of Insurance,,Republican,Mike Chaney,151
 Leflore,South Itta Bena,State Senate,24,Democrat,David Jordan,196
 Leflore,South Itta Bena,State House,34,Democrat,Kevin Horan,198
-Leflore,Southeast Gwd,Governor,,Republican,Phil Bryant,552
-Leflore,Southeast Gwd,Governor,,Democrat,Robert Gray,236
+Leflore,Southeast Gwd,Governor,,Republican,Phil Bryant,236
+Leflore,Southeast Gwd,Governor,,Democrat,Robert Gray,552
 Leflore,Southeast Gwd,Governor,,Reform,Shawn O'Hara,5
 Leflore,Southeast Gwd,Lieutenant Governor,,Democrat,Tim Johnson,555
 Leflore,Southeast Gwd,Lieutenant Governor,,Republican,Tate Reeves,200
@@ -355,8 +355,8 @@ Leflore,Southeast Gwd,Commissioner of Agriculture & Commerce,,Reform,Cathy L Too
 Leflore,Southeast Gwd,Commissioner of Insurance,,Republican,Mike Chaney,479
 Leflore,Southeast Gwd,State Senate,24,Democrat,David Jordan,677
 Leflore,Southeast Gwd,State House,32,Democrat,Willie J Perkins Sr,671
-Leflore,Southwest Gwd,Governor,,Republican,Phil Bryant,169
-Leflore,Southwest Gwd,Governor,,Democrat,Robert Gray,41
+Leflore,Southwest Gwd,Governor,,Republican,Phil Bryant,41
+Leflore,Southwest Gwd,Governor,,Democrat,Robert Gray,169
 Leflore,Southwest Gwd,Governor,,Reform,Shawn O'Hara,4
 Leflore,Southwest Gwd,Lieutenant Governor,,Democrat,Tim Johnson,172
 Leflore,Southwest Gwd,Lieutenant Governor,,Republican,Tate Reeves,24
@@ -378,8 +378,8 @@ Leflore,Southwest Gwd,Commissioner of Agriculture & Commerce,,Reform,Cathy L Too
 Leflore,Southwest Gwd,Commissioner of Insurance,,Republican,Mike Chaney,99
 Leflore,Southwest Gwd,State Senate,24,Democrat,David Jordan,212
 Leflore,Southwest Gwd,State House,32,Democrat,Willie J Perkins Sr,203
-Leflore,Swiftown,Governor,,Republican,Phil Bryant,13
-Leflore,Swiftown,Governor,,Democrat,Robert Gray,24
+Leflore,Swiftown,Governor,,Republican,Phil Bryant,24
+Leflore,Swiftown,Governor,,Democrat,Robert Gray,13
 Leflore,Swiftown,Governor,,Reform,Shawn O'Hara,0
 Leflore,Swiftown,Lieutenant Governor,,Democrat,Tim Johnson,13
 Leflore,Swiftown,Lieutenant Governor,,Republican,Tate Reeves,21
@@ -401,8 +401,8 @@ Leflore,Swiftown,Commissioner of Agriculture & Commerce,,Reform,Cathy L Toole,2
 Leflore,Swiftown,Commissioner of Insurance,,Republican,Mike Chaney,29
 Leflore,Swiftown,State Senate,24,Democrat,David Jordan,26
 Leflore,Swiftown,State House,34,Democrat,Kevin Horan,26
-Leflore,West Gwd,Governor,,Republican,Phil Bryant,462
-Leflore,West Gwd,Governor,,Democrat,Robert Gray,153
+Leflore,West Gwd,Governor,,Republican,Phil Bryant,153
+Leflore,West Gwd,Governor,,Democrat,Robert Gray,462
 Leflore,West Gwd,Governor,,Reform,Shawn O'Hara,11
 Leflore,West Gwd,Lieutenant Governor,,Democrat,Tim Johnson,473
 Leflore,West Gwd,Lieutenant Governor,,Republican,Tate Reeves,115
@@ -420,12 +420,16 @@ Leflore,West Gwd,State Treasurer,,Republican,Lynn Fitch,212
 Leflore,West Gwd,State Treasurer,,Reform,Viola McFarland,240
 Leflore,West Gwd,Commissioner of Agriculture & Commerce,,Democrat,Addie Lee Green,464
 Leflore,West Gwd,Commissioner of Agriculture & Commerce,,Republican,Cindy Hyde-Smith,110
-Leflore,West Gwd,Commissioner of Agriculture & Commerce,,Reform,Cathy L Toole,23
+Leflore,West Gwd,Commissioner of Agriculture & Commerce,,Reform,Cathy L 
+Leflore,West Gwd,State Senate,14,Democrat,Georgio Proctor,40
+Leflore,West Gwd,State Senate,14,Republican,Lydia Graves Chassanoil,11
+Leflore,West Gwd,State Senate,14,Independent,Donny Ryals,2
+Toole,23
 Leflore,West Gwd,Commissioner of Insurance,,Republican,Mike Chaney,353
 Leflore,West Gwd,State Senate,24,Democrat,David Jordan,517
 Leflore,West Gwd,State House,32,Democrat,Willie J Perkins Sr,541
 Leflore,,Governor,,Republican,Phil Bryant,3177
-Leflore,,Governor,,Democrat,Robert Gray,3858
+Leflore,,Governor,,Democrat,Robert Gray,3868
 Leflore,,Governor,,Reform,Shawn O'Hara,77
 Leflore,,Lieutenant Governor,,Democrat,Tim Johnson,3966
 Leflore,,Lieutenant Governor,,Republican,Tate Reeves,2725

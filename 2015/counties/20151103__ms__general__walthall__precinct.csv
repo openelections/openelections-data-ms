@@ -1,67 +1,67 @@
 county,precinct,office,district,party,candidate,votes
-Walthall,Tylertown,Governor,3rd District,Republican,Phil Bryant,273
-Walthall,Tylertown,Governor,3rd District,Democrat,Robert Gray,73
-Walthall,Tylertown,Governor,3rd District,Reform,Shawn O'Hara,3
-Walthall,Tylertown,Lieutenant Governor,3rd District,Democrat,Tim Johnson,75
-Walthall,Tylertown,Lieutenant Governor,3rd District,Republican,Tate Reeves,259
-Walthall,Tylertown,Lieutenant Governor,3rd District,Libertarian,Ron Williams,5
-Walthall,Tylertown,Lieutenant Governor,3rd District,Reform,Rosa B. Williams,1
-Walthall,Tylertown,Secretary of State,3rd District,Democrat,Charles E. Graham,63
-Walthall,Tylertown,Secretary of State,3rd District,Republican,Delbert Hosemann,271
-Walthall,Tylertown,Secretary of State,3rd District,Reform,Randy Walker,7
-Walthall,Tylertown,Attorney General,3rd District,Democrat,Jim Hood,174
-Walthall,Tylertown,Attorney General,3rd District,Republican,Mike Hurst,152
-Walthall,Tylertown,State Auditor,3rd District,Republican,Stacey E. Pickering,272
-Walthall,Tylertown,State Auditor,3rd District,Democrat,Jocelyn 'Joce' Pepper Pritchett,65
-Walthall,Tylertown,State Auditor,3rd District,Reform,Lajena Walley,2
-Walthall,Tylertown,State Treasurer,3rd District,Republican,Lynn Fitch,283
-Walthall,Tylertown,State Treasurer,3rd District,Reform,Viola V. McFarland,34
-Walthall,Tylertown,Commissioner of Agriculture & Commerce,3rd District,Democrat,Addie Lee Green,66
-Walthall,Tylertown,Commissioner of Agriculture & Commerce,3rd District,Republican,Cindy Hyde-Smith,268
-Walthall,Tylertown,Commissioner of Agriculture & Commerce,3rd District,Reform,Cathy L. Toole,8
-Walthall,Tylertown,Commissioner of Insurance,3rd District,Republican,Mike Chaney,304
-Walthall,Tylertown,Governor,4th District West,Republican,Phil Bryant,195
-Walthall,Tylertown,Governor,4th District West,Democrat,Robert Gray,52
-Walthall,Tylertown,Governor,4th District West,Reform,Shawn O'Hara,2
-Walthall,Tylertown,Lieutenant Governor,4th District West,Democrat,Tim Johnson,54
-Walthall,Tylertown,Lieutenant Governor,4th District West,Republican,Tate Reeves,183
-Walthall,Tylertown,Lieutenant Governor,4th District West,Libertarian,Ron Williams,7
-Walthall,Tylertown,Lieutenant Governor,4th District West,Reform,Rosa B. Williams,2
-Walthall,Tylertown,Secretary of State,4th District West,Democrat,Charles E. Graham,59
-Walthall,Tylertown,Secretary of State,4th District West,Republican,Delbert Hosemann,187
-Walthall,Tylertown,Secretary of State,4th District West,Reform,Randy Walker,4
-Walthall,Tylertown,Attorney General,4th District West,Democrat,Jim Hood,118
-Walthall,Tylertown,Attorney General,4th District West,Republican,Mike Hurst,122
-Walthall,Tylertown,State Auditor,4th District West,Republican,Stacey E. Pickering,195
-Walthall,Tylertown,State Auditor,4th District West,Democrat,Jocelyn 'Joce' Pepper Pritchett,52
-Walthall,Tylertown,State Auditor,4th District West,Reform,Lajena Walley,1
-Walthall,Tylertown,State Treasurer,4th District West,Republican,Lynn Fitch,207
-Walthall,Tylertown,State Treasurer,4th District West,Reform,Viola V. McFarland,31
-Walthall,Tylertown,Commissioner of Agriculture & Commerce,4th District West,Democrat,Addie Lee Green,50
-Walthall,Tylertown,Commissioner of Agriculture & Commerce,4th District West,Republican,Cindy Hyde-Smith,194
-Walthall,Tylertown,Commissioner of Agriculture & Commerce,4th District West,Reform,Cathy L. Toole,5
-Walthall,Tylertown,Commissioner of Insurance,4th District West,Republican,Mike Chaney,227
-Walthall,Tylertown,Governor,4th District,Republican,Phil Bryant,253
-Walthall,Tylertown,Governor,4th District,Democrat,Robert Gray,21
-Walthall,Tylertown,Governor,4th District,Reform,Shawn O'Hara,3
-Walthall,Tylertown,Lieutenant Governor,4th District,Democrat,Tim Johnson,30
-Walthall,Tylertown,Lieutenant Governor,4th District,Republican,Tate Reeves,234
-Walthall,Tylertown,Lieutenant Governor,4th District,Libertarian,Ron Williams,4
-Walthall,Tylertown,Lieutenant Governor,4th District,Reform,Rosa B. Williams,2
-Walthall,Tylertown,Secretary of State,4th District,Democrat,Charles E. Graham,30
-Walthall,Tylertown,Secretary of State,4th District,Republican,Delbert Hosemann,230
-Walthall,Tylertown,Secretary of State,4th District,Reform,Randy Walker,11
-Walthall,Tylertown,Attorney General,4th District,Democrat,Jim Hood,137
-Walthall,Tylertown,Attorney General,4th District,Republican,Mike Hurst,134
-Walthall,Tylertown,State Auditor,4th District,Republican,Stacey E. Pickering,250
-Walthall,Tylertown,State Auditor,4th District,Democrat,Jocelyn 'Joce' Pepper Pritchett,20
-Walthall,Tylertown,State Auditor,4th District,Reform,Lajena Walley,2
-Walthall,Tylertown,State Treasurer,4th District,Republican,Lynn Fitch,252
-Walthall,Tylertown,State Treasurer,4th District,Reform,Viola V. McFarland,22
-Walthall,Tylertown,Commissioner of Agriculture & Commerce,4th District,Democrat,Addie Lee Green,25
-Walthall,Tylertown,Commissioner of Agriculture & Commerce,4th District,Republican,Cindy Hyde-Smith,241
-Walthall,Tylertown,Commissioner of Agriculture & Commerce,4th District,Reform,Cathy L. Toole,5
-Walthall,Tylertown,Commissioner of Insurance,4th District,Republican,Mike Chaney,265
+Walthall,3rd District Tylertown,Governor,,Republican,Phil Bryant,273
+Walthall,3rd District Tylertown,Governor,,Democrat,Robert Gray,73
+Walthall,3rd District Tylertown,Governor,,Reform,Shawn O'Hara,3
+Walthall,3rd District Tylertown,Lieutenant Governor,,Democrat,Tim Johnson,75
+Walthall,3rd District Tylertown,Lieutenant Governor,,Republican,Tate Reeves,259
+Walthall,3rd District Tylertown,Lieutenant Governor,,Libertarian,Ron Williams,5
+Walthall,3rd District Tylertown,Lieutenant Governor,,Reform,Rosa B. Williams,1
+Walthall,3rd District Tylertown,Secretary of State,,Democrat,Charles E. Graham,63
+Walthall,3rd District Tylertown,Secretary of State,,Republican,Delbert Hosemann,271
+Walthall,3rd District Tylertown,Secretary of State,,Reform,Randy Walker,7
+Walthall,3rd District Tylertown,Attorney General,,Democrat,Jim Hood,174
+Walthall,3rd District Tylertown,Attorney General,,Republican,Mike Hurst,152
+Walthall,3rd District Tylertown,State Auditor,,Republican,Stacey E. Pickering,272
+Walthall,3rd District Tylertown,State Auditor,,Democrat,Jocelyn 'Joce' Pepper Pritchett,65
+Walthall,3rd District Tylertown,State Auditor,,Reform,Lajena Walley,2
+Walthall,3rd District Tylertown,State Treasurer,,Republican,Lynn Fitch,283
+Walthall,3rd District Tylertown,State Treasurer,,Reform,Viola V. McFarland,34
+Walthall,3rd District Tylertown,Commissioner of Agriculture & Commerce,,Democrat,Addie Lee Green,66
+Walthall,3rd District Tylertown,Commissioner of Agriculture & Commerce,,Republican,Cindy Hyde-Smith,268
+Walthall,3rd District Tylertown,Commissioner of Agriculture & Commerce,,Reform,Cathy L. Toole,8
+Walthall,3rd District Tylertown,Commissioner of Insurance,,Republican,Mike Chaney,304
+Walthall,4th District West Tylertown,Governor,,Republican,Phil Bryant,195
+Walthall,4th District West Tylertown,Governor,,Democrat,Robert Gray,52
+Walthall,4th District West Tylertown,Governor,,Reform,Shawn O'Hara,2
+Walthall,4th District West Tylertown,Lieutenant Governor,,Democrat,Tim Johnson,54
+Walthall,4th District West Tylertown,Lieutenant Governor,,Republican,Tate Reeves,183
+Walthall,4th District West Tylertown,Lieutenant Governor,,Libertarian,Ron Williams,7
+Walthall,4th District West Tylertown,Lieutenant Governor,,Reform,Rosa B. Williams,2
+Walthall,4th District West Tylertown,Secretary of State,,Democrat,Charles E. Graham,59
+Walthall,4th District West Tylertown,Secretary of State,,Republican,Delbert Hosemann,187
+Walthall,4th District West Tylertown,Secretary of State,,Reform,Randy Walker,4
+Walthall,4th District West Tylertown,Attorney General,,Democrat,Jim Hood,118
+Walthall,4th District West Tylertown,Attorney General,,Republican,Mike Hurst,122
+Walthall,4th District West Tylertown,State Auditor,,Republican,Stacey E. Pickering,195
+Walthall,4th District West Tylertown,State Auditor,,Democrat,Jocelyn 'Joce' Pepper Pritchett,52
+Walthall,4th District West Tylertown,State Auditor,,Reform,Lajena Walley,1
+Walthall,4th District West Tylertown,State Treasurer,,Republican,Lynn Fitch,207
+Walthall,4th District West Tylertown,State Treasurer,,Reform,Viola V. McFarland,31
+Walthall,4th District West Tylertown,Commissioner of Agriculture & Commerce,,Democrat,Addie Lee Green,50
+Walthall,4th District West Tylertown,Commissioner of Agriculture & Commerce,,Republican,Cindy Hyde-Smith,194
+Walthall,4th District West Tylertown,Commissioner of Agriculture & Commerce,,Reform,Cathy L. Toole,5
+Walthall,4th District West Tylertown,Commissioner of Insurance,,Republican,Mike Chaney,227
+Walthall,4th District Tylertown,Governor,,Republican,Phil Bryant,253
+Walthall,4th District Tylertown,Governor,,Democrat,Robert Gray,21
+Walthall,4th District Tylertown,Governor,,Reform,Shawn O'Hara,3
+Walthall,4th District Tylertown,Lieutenant Governor,,Democrat,Tim Johnson,30
+Walthall,4th District Tylertown,Lieutenant Governor,,Republican,Tate Reeves,234
+Walthall,4th District Tylertown,Lieutenant Governor,,Libertarian,Ron Williams,4
+Walthall,4th District Tylertown,Lieutenant Governor,,Reform,Rosa B. Williams,2
+Walthall,4th District Tylertown,Secretary of State,,Democrat,Charles E. Graham,30
+Walthall,4th District Tylertown,Secretary of State,,Republican,Delbert Hosemann,230
+Walthall,4th District Tylertown,Secretary of State,,Reform,Randy Walker,11
+Walthall,4th District Tylertown,Attorney General,,Democrat,Jim Hood,137
+Walthall,4th District Tylertown,Attorney General,,Republican,Mike Hurst,134
+Walthall,4th District Tylertown,State Auditor,,Republican,Stacey E. Pickering,250
+Walthall,4th District Tylertown,State Auditor,,Democrat,Jocelyn 'Joce' Pepper Pritchett,20
+Walthall,4th District Tylertown,State Auditor,,Reform,Lajena Walley,2
+Walthall,4th District Tylertown,State Treasurer,,Republican,Lynn Fitch,252
+Walthall,4th District Tylertown,State Treasurer,,Reform,Viola V. McFarland,22
+Walthall,4th District Tylertown,Commissioner of Agriculture & Commerce,,Democrat,Addie Lee Green,25
+Walthall,4th District Tylertown,Commissioner of Agriculture & Commerce,,Republican,Cindy Hyde-Smith,241
+Walthall,4th District Tylertown,Commissioner of Agriculture & Commerce,,Reform,Cathy L. Toole,5
+Walthall,4th District Tylertown,Commissioner of Insurance,,Republican,Mike Chaney,265
 Walthall,Darbun,Governor,,Republican,Phil Bryant,73
 Walthall,Darbun,Governor,,Democrat,Robert Gray,5
 Walthall,Darbun,Governor,,Reform,Shawn O'Hara,1
