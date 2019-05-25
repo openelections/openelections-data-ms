@@ -1,0 +1,848 @@
+county,precinct,office,district,party,candidate,votes
+Hinds,(BO) Bolton,US Senator,,Democrat,Bill Bowlin,44
+Hinds,(BO) Bolton,US Senator,,Democrat,Erik Fleming,359
+Hinds,(BO) Bolton,US Senator,,Democrat,James O’Keefe,40
+Hinds,(BO) Bolton,US Senator,,Democrat,Catherine M. Starr,40
+Hinds,(BO) Bolton,U.S. Representative,2,Democrat,Dorothy Benford,1
+Hinds,(BO) Bolton,U.S. Representative,2,Democrat,Chuck Espy,73
+Hinds,(BO) Bolton,U.S. Representative,2,Democrat,Bennie G. Thompson,518
+Hinds,(BR) Brownsville,US Senator,,Democrat,Bill Bowlin,30
+Hinds,(BR) Brownsville,US Senator,,Democrat,Erik Fleming,62
+Hinds,(BR) Brownsville,US Senator,,Democrat,James O’Keefe,22
+Hinds,(BR) Brownsville,US Senator,,Democrat,Catherine M. Starr,21
+Hinds,(BR) Brownsville,U.S. Representative,2,Democrat,Dorothy Benford,1
+Hinds,(BR) Brownsville,U.S. Representative,2,Democrat,Chuck Espy,82
+Hinds,(BR) Brownsville,U.S. Representative,2,Democrat,Bennie G. Thompson,101
+Hinds,(B1) Byram 1,US Senator,,Democrat,Bill Bowlin,60
+Hinds,(B1) Byram 1,US Senator,,Democrat,Erik Fleming,275
+Hinds,(B1) Byram 1,US Senator,,Democrat,James O’Keefe,56
+Hinds,(B1) Byram 1,US Senator,,Democrat,Catherine M. Starr,93
+Hinds,(B1) Byram 1,U.S. Representative,2,Democrat,Dorothy Benford,2
+Hinds,(B1) Byram 1,U.S. Representative,2,Democrat,Chuck Espy,270
+Hinds,(B1) Byram 1,U.S. Representative,2,Democrat,Bennie G. Thompson,274
+Hinds,(B2) Byram 2,US Senator,,Democrat,Bill Bowlin,59
+Hinds,(B2) Byram 2,US Senator,,Democrat,Erik Fleming,117
+Hinds,(B2) Byram 2,US Senator,,Democrat,James O’Keefe,63
+Hinds,(B2) Byram 2,US Senator,,Democrat,Catherine M. Starr,18
+Hinds,(B2) Byram 2,U.S. Representative,2,Democrat,Dorothy Benford,0
+Hinds,(B2) Byram 2,U.S. Representative,2,Democrat,Chuck Espy,230
+Hinds,(B2) Byram 2,U.S. Representative,2,Democrat,Bennie G. Thompson,78
+Hinds,(CA) Cayuga,US Senator,,Democrat,Bill Bowlin,21
+Hinds,(CA) Cayuga,US Senator,,Democrat,Erik Fleming,44
+Hinds,(CA) Cayuga,US Senator,,Democrat,James O’Keefe,15
+Hinds,(CA) Cayuga,US Senator,,Democrat,Catherine M. Starr,19
+Hinds,(CA) Cayuga,U.S. Representative,2,Democrat,Dorothy Benford,1
+Hinds,(CA) Cayuga,U.S. Representative,2,Democrat,Chuck Espy,20
+Hinds,(CA) Cayuga,U.S. Representative,2,Democrat,Bennie G. Thompson,96
+Hinds,(CH) Chappel Hill,US Senator,,Democrat,Bill Bowlin,22
+Hinds,(CH) Chappel Hill,US Senator,,Democrat,Erik Fleming,69
+Hinds,(CH) Chappel Hill,US Senator,,Democrat,James O’Keefe,17
+Hinds,(CH) Chappel Hill,US Senator,,Democrat,Catherine M. Starr,13
+Hinds,(CH) Chappel Hill,U.S. Representative,2,Democrat,Dorothy Benford,0
+Hinds,(CH) Chappel Hill,U.S. Representative,2,Democrat,Chuck Espy,62
+Hinds,(CH) Chappel Hill,U.S. Representative,2,Democrat,Bennie G. Thompson,105
+Hinds,(C1) Clinton 1,US Senator,,Democrat,Bill Bowlin,51
+Hinds,(C1) Clinton 1,US Senator,,Democrat,Erik Fleming,128
+Hinds,(C1) Clinton 1,US Senator,,Democrat,James O’Keefe,47
+Hinds,(C1) Clinton 1,US Senator,,Democrat,Catherine M. Starr,25
+Hinds,(C1) Clinton 1,U.S. Representative,2,Democrat,Dorothy Benford,5
+Hinds,(C1) Clinton 1,U.S. Representative,2,Democrat,Chuck Espy,183
+Hinds,(C1) Clinton 1,U.S. Representative,2,Democrat,Bennie G. Thompson,126
+Hinds,(C2) Clinton 2,US Senator,,Democrat,Bill Bowlin,99
+Hinds,(C2) Clinton 2,US Senator,,Democrat,Erik Fleming,244
+Hinds,(C2) Clinton 2,US Senator,,Democrat,James O’Keefe,100
+Hinds,(C2) Clinton 2,US Senator,,Democrat,Catherine M. Starr,70
+Hinds,(C2) Clinton 2,U.S. Representative,2,Democrat,Dorothy Benford,5
+Hinds,(C2) Clinton 2,U.S. Representative,2,Democrat,Chuck Espy,500
+Hinds,(C2) Clinton 2,U.S. Representative,2,Democrat,Bennie G. Thompson,139
+Hinds,(C3) Clinton 3,US Senator,,Democrat,Bill Bowlin,78
+Hinds,(C3) Clinton 3,US Senator,,Democrat,Erik Fleming,242
+Hinds,(C3) Clinton 3,US Senator,,Democrat,James O’Keefe,78
+Hinds,(C3) Clinton 3,US Senator,,Democrat,Catherine M. Starr,62
+Hinds,(C3) Clinton 3,U.S. Representative,2,Democrat,Dorothy Benford,5
+Hinds,(C3) Clinton 3,U.S. Representative,2,Democrat,Chuck Espy,415
+Hinds,(C3) Clinton 3,U.S. Representative,2,Democrat,Bennie G. Thompson,188
+Hinds,(C4) Clinton 4,US Senator,,Democrat,Bill Bowlin,38
+Hinds,(C4) Clinton 4,US Senator,,Democrat,Erik Fleming,110
+Hinds,(C4) Clinton 4,US Senator,,Democrat,James O’Keefe,27
+Hinds,(C4) Clinton 4,US Senator,,Democrat,Catherine M. Starr,56
+Hinds,(C4) Clinton 4,U.S. Representative,2,Democrat,Dorothy Benford,0
+Hinds,(C4) Clinton 4,U.S. Representative,2,Democrat,Chuck Espy,195
+Hinds,(C4) Clinton 4,U.S. Representative,2,Democrat,Bennie G. Thompson,79
+Hinds,(C5) Clinton 5,US Senator,,Democrat,Bill Bowlin,24
+Hinds,(C5) Clinton 5,US Senator,,Democrat,Erik Fleming,71
+Hinds,(C5) Clinton 5,US Senator,,Democrat,James O’Keefe,36
+Hinds,(C5) Clinton 5,US Senator,,Democrat,Catherine M. Starr,20
+Hinds,(C5) Clinton 5,U.S. Representative,2,Democrat,Dorothy Benford,2
+Hinds,(C5) Clinton 5,U.S. Representative,2,Democrat,Chuck Espy,146
+Hinds,(C5) Clinton 5,U.S. Representative,2,Democrat,Bennie G. Thompson,41
+Hinds,(C6) Clinton 6,US Senator,,Democrat,Bill Bowlin,35
+Hinds,(C6) Clinton 6,US Senator,,Democrat,Erik Fleming,105
+Hinds,(C6) Clinton 6,US Senator,,Democrat,James O’Keefe,50
+Hinds,(C6) Clinton 6,US Senator,,Democrat,Catherine M. Starr,32
+Hinds,(C6) Clinton 6,U.S. Representative,2,Democrat,Dorothy Benford,3
+Hinds,(C6) Clinton 6,U.S. Representative,2,Democrat,Chuck Espy,173
+Hinds,(C6) Clinton 6,U.S. Representative,2,Democrat,Bennie G. Thompson,96
+Hinds,(CY) Cynthia,US Senator,,Democrat,Bill Bowlin,20
+Hinds,(CY) Cynthia,US Senator,,Democrat,Erik Fleming,116
+Hinds,(CY) Cynthia,US Senator,,Democrat,James O’Keefe,36
+Hinds,(CY) Cynthia,US Senator,,Democrat,Catherine M. Starr,16
+Hinds,(CY) Cynthia,U.S. Representative,2,Democrat,Dorothy Benford,2
+Hinds,(CY) Cynthia,U.S. Representative,2,Democrat,Chuck Espy,22
+Hinds,(CY) Cynthia,U.S. Representative,2,Democrat,Bennie G. Thompson,201
+Hinds,(DG) Dry Grove,US Senator,,Democrat,Bill Bowlin,39
+Hinds,(DG) Dry Grove,US Senator,,Democrat,Erik Fleming,89
+Hinds,(DG) Dry Grove,US Senator,,Democrat,James O’Keefe,34
+Hinds,(DG) Dry Grove,US Senator,,Democrat,Catherine M. Starr,16
+Hinds,(DG) Dry Grove,U.S. Representative,2,Democrat,Dorothy Benford,2
+Hinds,(DG) Dry Grove,U.S. Representative,2,Democrat,Chuck Espy,142
+Hinds,(DG) Dry Grove,U.S. Representative,2,Democrat,Bennie G. Thompson,78
+Hinds,(ED) Edwards,US Senator,,Democrat,Bill Bowlin,55
+Hinds,(ED) Edwards,US Senator,,Democrat,Erik Fleming,360
+Hinds,(ED) Edwards,US Senator,,Democrat,James O’Keefe,43
+Hinds,(ED) Edwards,US Senator,,Democrat,Catherine M. Starr,44
+Hinds,(ED) Edwards,U.S. Representative,2,Democrat,Dorothy Benford,1
+Hinds,(ED) Edwards,U.S. Representative,2,Democrat,Chuck Espy,125
+Hinds,(ED) Edwards,U.S. Representative,2,Democrat,Bennie G. Thompson,508
+Hinds,(LE) Learned,US Senator,,Democrat,Bill Bowlin,23
+Hinds,(LE) Learned,US Senator,,Democrat,Erik Fleming,33
+Hinds,(LE) Learned,US Senator,,Democrat,James O’Keefe,21
+Hinds,(LE) Learned,US Senator,,Democrat,Catherine M. Starr,8
+Hinds,(LE) Learned,U.S. Representative,2,Democrat,Dorothy Benford,3
+Hinds,(LE) Learned,U.S. Representative,2,Democrat,Chuck Espy,63
+Hinds,(LE) Learned,U.S. Representative,2,Democrat,Bennie G. Thompson,47
+Hinds,(OB) Old Byram,US Senator,,Democrat,Bill Bowlin,51
+Hinds,(OB) Old Byram,US Senator,,Democrat,Erik Fleming,72
+Hinds,(OB) Old Byram,US Senator,,Democrat,James O’Keefe,37
+Hinds,(OB) Old Byram,US Senator,,Democrat,Catherine M. Starr,21
+Hinds,(OB) Old Byram,U.S. Representative,2,Democrat,Dorothy Benford,2
+Hinds,(OB) Old Byram,U.S. Representative,2,Democrat,Chuck Espy,161
+Hinds,(OB) Old Byram,U.S. Representative,2,Democrat,Bennie G. Thompson,54
+Hinds,(PN) Pinehaven,US Senator,,Democrat,Bill Bowlin,74
+Hinds,(PN) Pinehaven,US Senator,,Democrat,Erik Fleming,230
+Hinds,(PN) Pinehaven,US Senator,,Democrat,James O’Keefe,69
+Hinds,(PN) Pinehaven,US Senator,,Democrat,Catherine M. Starr,54
+Hinds,(PN) Pinehaven,U.S. Representative,2,Democrat,Dorothy Benford,2
+Hinds,(PN) Pinehaven,U.S. Representative,2,Democrat,Chuck Espy,263
+Hinds,(PN) Pinehaven,U.S. Representative,2,Democrat,Bennie G. Thompson,303
+Hinds,(PO) Pocahontas,US Senator,,Democrat,Bill Bowlin,23
+Hinds,(PO) Pocahontas,US Senator,,Democrat,Erik Fleming,104
+Hinds,(PO) Pocahontas,US Senator,,Democrat,James O’Keefe,21
+Hinds,(PO) Pocahontas,US Senator,,Democrat,Catherine M. Starr,27
+Hinds,(PO) Pocahontas,U.S. Representative,2,Democrat,Dorothy Benford,0
+Hinds,(PO) Pocahontas,U.S. Representative,2,Democrat,Chuck Espy,72
+Hinds,(PO) Pocahontas,U.S. Representative,2,Democrat,Bennie G. Thompson,121
+Hinds,01,US Senator,,Democrat,Bill Bowlin,2
+Hinds,01,US Senator,,Democrat,Erik Fleming,7
+Hinds,01,US Senator,,Democrat,James O’Keefe,4
+Hinds,01,US Senator,,Democrat,Catherine M. Starr,0
+Hinds,01,U.S. Representative,2,Democrat,Dorothy Benford,0
+Hinds,01,U.S. Representative,2,Democrat,Chuck Espy,7
+Hinds,01,U.S. Representative,2,Democrat,Bennie G. Thompson,8
+Hinds,02,US Senator,,Democrat,Bill Bowlin,10
+Hinds,02,US Senator,,Democrat,Erik Fleming,30
+Hinds,02,US Senator,,Democrat,James O’Keefe,2
+Hinds,02,US Senator,,Democrat,Catherine M. Starr,4
+Hinds,02,U.S. Representative,2,Democrat,Dorothy Benford,0
+Hinds,02,U.S. Representative,2,Democrat,Chuck Espy,8
+Hinds,02,U.S. Representative,2,Democrat,Bennie G. Thompson,51
+Hinds,04,US Senator,,Democrat,Bill Bowlin,14
+Hinds,04,US Senator,,Democrat,Erik Fleming,64
+Hinds,04,US Senator,,Democrat,James O’Keefe,12
+Hinds,04,US Senator,,Democrat,Catherine M. Starr,14
+Hinds,04,U.S. Representative,2,Democrat,Dorothy Benford,0
+Hinds,04,U.S. Representative,2,Democrat,Chuck Espy,8
+Hinds,04,U.S. Representative,2,Democrat,Bennie G. Thompson,115
+Hinds,05,US Senator,,Democrat,Bill Bowlin,10
+Hinds,05,US Senator,,Democrat,Erik Fleming,39
+Hinds,05,US Senator,,Democrat,James O’Keefe,11
+Hinds,05,US Senator,,Democrat,Catherine M. Starr,9
+Hinds,05,U.S. Representative,2,Democrat,Dorothy Benford,1
+Hinds,05,U.S. Representative,2,Democrat,Chuck Espy,27
+Hinds,05,U.S. Representative,2,Democrat,Bennie G. Thompson,52
+Hinds,06,US Senator,,Democrat,Bill Bowlin,5
+Hinds,06,US Senator,,Democrat,Erik Fleming,28
+Hinds,06,US Senator,,Democrat,James O’Keefe,10
+Hinds,06,US Senator,,Democrat,Catherine M. Starr,14
+Hinds,06,U.S. Representative,2,Democrat,Dorothy Benford,3
+Hinds,06,U.S. Representative,2,Democrat,Chuck Espy,11
+Hinds,06,U.S. Representative,2,Democrat,Bennie G. Thompson,54
+Hinds,08,US Senator,,Democrat,Bill Bowlin,9
+Hinds,08,US Senator,,Democrat,Erik Fleming,33
+Hinds,08,US Senator,,Democrat,James O’Keefe,13
+Hinds,08,US Senator,,Democrat,Catherine M. Starr,5
+Hinds,08,U.S. Representative,2,Democrat,Dorothy Benford,
+Hinds,08,U.S. Representative,2,Democrat,Chuck Espy,
+Hinds,08,U.S. Representative,2,Democrat,Bennie G. Thompson,
+Hinds,09,US Senator,,Democrat,Bill Bowlin,14
+Hinds,09,US Senator,,Democrat,Erik Fleming,44
+Hinds,09,US Senator,,Democrat,James O’Keefe,18
+Hinds,09,US Senator,,Democrat,Catherine M. Starr,10
+Hinds,09,U.S. Representative,2,Democrat,Dorothy Benford,
+Hinds,09,U.S. Representative,2,Democrat,Chuck Espy,
+Hinds,09,U.S. Representative,2,Democrat,Bennie G. Thompson,
+Hinds,10,US Senator,,Democrat,Bill Bowlin,11
+Hinds,10,US Senator,,Democrat,Erik Fleming,46
+Hinds,10,US Senator,,Democrat,James O’Keefe,3
+Hinds,10,US Senator,,Democrat,Catherine M. Starr,7
+Hinds,10,U.S. Representative,2,Democrat,Dorothy Benford,0
+Hinds,10,U.S. Representative,2,Democrat,Chuck Espy,10
+Hinds,10,U.S. Representative,2,Democrat,Bennie G. Thompson,60
+Hinds,11,US Senator,,Democrat,Bill Bowlin,15
+Hinds,11,US Senator,,Democrat,Erik Fleming,121
+Hinds,11,US Senator,,Democrat,James O’Keefe,15
+Hinds,11,US Senator,,Democrat,Catherine M. Starr,15
+Hinds,11,U.S. Representative,2,Democrat,Dorothy Benford,3
+Hinds,11,U.S. Representative,2,Democrat,Chuck Espy,15
+Hinds,11,U.S. Representative,2,Democrat,Bennie G. Thompson,166
+Hinds,12,US Senator,,Democrat,Bill Bowlin,16
+Hinds,12,US Senator,,Democrat,Erik Fleming,161
+Hinds,12,US Senator,,Democrat,James O’Keefe,8
+Hinds,12,US Senator,,Democrat,Catherine M. Starr,13
+Hinds,12,U.S. Representative,2,Democrat,Dorothy Benford,2
+Hinds,12,U.S. Representative,2,Democrat,Chuck Espy,11
+Hinds,12,U.S. Representative,2,Democrat,Bennie G. Thompson,200
+Hinds,13,US Senator,,Democrat,Bill Bowlin,19
+Hinds,13,US Senator,,Democrat,Erik Fleming,135
+Hinds,13,US Senator,,Democrat,James O’Keefe,11
+Hinds,13,US Senator,,Democrat,Catherine M. Starr,13
+Hinds,13,U.S. Representative,2,Democrat,Dorothy Benford,1
+Hinds,13,U.S. Representative,2,Democrat,Chuck Espy,18
+Hinds,13,U.S. Representative,2,Democrat,Bennie G. Thompson,195
+Hinds,14,US Senator,,Democrat,Bill Bowlin,14
+Hinds,14,US Senator,,Democrat,Erik Fleming,26
+Hinds,14,US Senator,,Democrat,James O’Keefe,23
+Hinds,14,US Senator,,Democrat,Catherine M. Starr,6
+Hinds,14,U.S. Representative,2,Democrat,Dorothy Benford,
+Hinds,14,U.S. Representative,2,Democrat,Chuck Espy,
+Hinds,14,U.S. Representative,2,Democrat,Bennie G. Thompson,
+Hinds,15,US Senator,,Democrat,Bill Bowlin,14
+Hinds,15,US Senator,,Democrat,Erik Fleming,21
+Hinds,15,US Senator,,Democrat,James O’Keefe,9
+Hinds,15,US Senator,,Democrat,Catherine M. Starr,8
+Hinds,15,U.S. Representative,2,Democrat,Dorothy Benford,1
+Hinds,15,U.S. Representative,2,Democrat,Chuck Espy,41
+Hinds,15,U.S. Representative,2,Democrat,Bennie G. Thompson,24
+Hinds,16,US Senator,,Democrat,Bill Bowlin,12
+Hinds,16,US Senator,,Democrat,Erik Fleming,72
+Hinds,16,US Senator,,Democrat,James O’Keefe,18
+Hinds,16,US Senator,,Democrat,Catherine M. Starr,17
+Hinds,16,U.S. Representative,2,Democrat,Dorothy Benford,0
+Hinds,16,U.S. Representative,2,Democrat,Chuck Espy,48
+Hinds,16,U.S. Representative,2,Democrat,Bennie G. Thompson,95
+Hinds,17,US Senator,,Democrat,Bill Bowlin,10
+Hinds,17,US Senator,,Democrat,Erik Fleming,24
+Hinds,17,US Senator,,Democrat,James O’Keefe,5
+Hinds,17,US Senator,,Democrat,Catherine M. Starr,5
+Hinds,17,U.S. Representative,2,Democrat,Dorothy Benford,
+Hinds,17,U.S. Representative,2,Democrat,Chuck Espy,
+Hinds,17,U.S. Representative,2,Democrat,Bennie G. Thompson,
+Hinds,18,US Senator,,Democrat,Bill Bowlin,5
+Hinds,18,US Senator,,Democrat,Erik Fleming,64
+Hinds,18,US Senator,,Democrat,James O’Keefe,4
+Hinds,18,US Senator,,Democrat,Catherine M. Starr,6
+Hinds,18,U.S. Representative,2,Democrat,Dorothy Benford,0
+Hinds,18,U.S. Representative,2,Democrat,Chuck Espy,3
+Hinds,18,U.S. Representative,2,Democrat,Bennie G. Thompson,77
+Hinds,19,US Senator,,Democrat,Bill Bowlin,12
+Hinds,19,US Senator,,Democrat,Erik Fleming,112
+Hinds,19,US Senator,,Democrat,James O’Keefe,11
+Hinds,19,US Senator,,Democrat,Catherine M. Starr,19
+Hinds,19,U.S. Representative,2,Democrat,Dorothy Benford,1
+Hinds,19,U.S. Representative,2,Democrat,Chuck Espy,29
+Hinds,19,U.S. Representative,2,Democrat,Bennie G. Thompson,170
+Hinds,20,US Senator,,Democrat,Bill Bowlin,19
+Hinds,20,US Senator,,Democrat,Erik Fleming,116
+Hinds,20,US Senator,,Democrat,James O’Keefe,18
+Hinds,20,US Senator,,Democrat,Catherine M. Starr,11
+Hinds,20,U.S. Representative,2,Democrat,Dorothy Benford,2
+Hinds,20,U.S. Representative,2,Democrat,Chuck Espy,36
+Hinds,20,U.S. Representative,2,Democrat,Bennie G. Thompson,167
+Hinds,21,US Senator,,Democrat,Bill Bowlin,4
+Hinds,21,US Senator,,Democrat,Erik Fleming,48
+Hinds,21,US Senator,,Democrat,James O’Keefe,8
+Hinds,21,US Senator,,Democrat,Catherine M. Starr,10
+Hinds,21,U.S. Representative,2,Democrat,Dorothy Benford,0
+Hinds,21,U.S. Representative,2,Democrat,Chuck Espy,9
+Hinds,21,U.S. Representative,2,Democrat,Bennie G. Thompson,81
+Hinds,22,US Senator,,Democrat,Bill Bowlin,56
+Hinds,22,US Senator,,Democrat,Erik Fleming,219
+Hinds,22,US Senator,,Democrat,James O’Keefe,44
+Hinds,22,US Senator,,Democrat,Catherine M. Starr,63
+Hinds,22,U.S. Representative,2,Democrat,Dorothy Benford,7
+Hinds,22,U.S. Representative,2,Democrat,Chuck Espy,36
+Hinds,22,U.S. Representative,2,Democrat,Bennie G. Thompson,381
+Hinds,23,US Senator,,Democrat,Bill Bowlin,24
+Hinds,23,US Senator,,Democrat,Erik Fleming,190
+Hinds,23,US Senator,,Democrat,James O’Keefe,23
+Hinds,23,US Senator,,Democrat,Catherine M. Starr,46
+Hinds,23,U.S. Representative,2,Democrat,Dorothy Benford,1
+Hinds,23,U.S. Representative,2,Democrat,Chuck Espy,47
+Hinds,23,U.S. Representative,2,Democrat,Bennie G. Thompson,371
+Hinds,24,US Senator,,Democrat,Bill Bowlin,19
+Hinds,24,US Senator,,Democrat,Erik Fleming,101
+Hinds,24,US Senator,,Democrat,James O’Keefe,15
+Hinds,24,US Senator,,Democrat,Catherine M. Starr,24
+Hinds,24,U.S. Representative,2,Democrat,Dorothy Benford,0
+Hinds,24,U.S. Representative,2,Democrat,Chuck Espy,32
+Hinds,24,U.S. Representative,2,Democrat,Bennie G. Thompson,150
+Hinds,25,US Senator,,Democrat,Bill Bowlin,24
+Hinds,25,US Senator,,Democrat,Erik Fleming,204
+Hinds,25,US Senator,,Democrat,James O’Keefe,12
+Hinds,25,US Senator,,Democrat,Catherine M. Starr,34
+Hinds,25,U.S. Representative,2,Democrat,Dorothy Benford,3
+Hinds,25,U.S. Representative,2,Democrat,Chuck Espy,44
+Hinds,25,U.S. Representative,2,Democrat,Bennie G. Thompson,265
+Hinds,26,US Senator,,Democrat,Bill Bowlin,12
+Hinds,26,US Senator,,Democrat,Erik Fleming,101
+Hinds,26,US Senator,,Democrat,James O’Keefe,11
+Hinds,26,US Senator,,Democrat,Catherine M. Starr,20
+Hinds,26,U.S. Representative,2,Democrat,Dorothy Benford,0
+Hinds,26,U.S. Representative,2,Democrat,Chuck Espy,39
+Hinds,26,U.S. Representative,2,Democrat,Bennie G. Thompson,121
+Hinds,27,US Senator,,Democrat,Bill Bowlin,43
+Hinds,27,US Senator,,Democrat,Erik Fleming,308
+Hinds,27,US Senator,,Democrat,James O’Keefe,50
+Hinds,27,US Senator,,Democrat,Catherine M. Starr,63
+Hinds,27,U.S. Representative,2,Democrat,Dorothy Benford,5
+Hinds,27,U.S. Representative,2,Democrat,Chuck Espy,75
+Hinds,27,U.S. Representative,2,Democrat,Bennie G. Thompson,498
+Hinds,28,US Senator,,Democrat,Bill Bowlin,31
+Hinds,28,US Senator,,Democrat,Erik Fleming,276
+Hinds,28,US Senator,,Democrat,James O’Keefe,30
+Hinds,28,US Senator,,Democrat,Catherine M. Starr,34
+Hinds,28,U.S. Representative,2,Democrat,Dorothy Benford,4
+Hinds,28,U.S. Representative,2,Democrat,Chuck Espy,45
+Hinds,28,U.S. Representative,2,Democrat,Bennie G. Thompson,429
+Hinds,29,US Senator,,Democrat,Bill Bowlin,25
+Hinds,29,US Senator,,Democrat,Erik Fleming,188
+Hinds,29,US Senator,,Democrat,James O’Keefe,25
+Hinds,29,US Senator,,Democrat,Catherine M. Starr,26
+Hinds,29,U.S. Representative,2,Democrat,Dorothy Benford,2
+Hinds,29,U.S. Representative,2,Democrat,Chuck Espy,32
+Hinds,29,U.S. Representative,2,Democrat,Bennie G. Thompson,264
+Hinds,30,US Senator,,Democrat,Bill Bowlin,16
+Hinds,30,US Senator,,Democrat,Erik Fleming,114
+Hinds,30,US Senator,,Democrat,James O’Keefe,24
+Hinds,30,US Senator,,Democrat,Catherine M. Starr,23
+Hinds,30,U.S. Representative,2,Democrat,Dorothy Benford,2
+Hinds,30,U.S. Representative,2,Democrat,Chuck Espy,20
+Hinds,30,U.S. Representative,2,Democrat,Bennie G. Thompson,186
+Hinds,31,US Senator,,Democrat,Bill Bowlin,26
+Hinds,31,US Senator,,Democrat,Erik Fleming,217
+Hinds,31,US Senator,,Democrat,James O’Keefe,30
+Hinds,31,US Senator,,Democrat,Catherine M. Starr,24
+Hinds,31,U.S. Representative,2,Democrat,Dorothy Benford,5
+Hinds,31,U.S. Representative,2,Democrat,Chuck Espy,27
+Hinds,31,U.S. Representative,2,Democrat,Bennie G. Thompson,363
+Hinds,32,US Senator,,Democrat,Bill Bowlin,9
+Hinds,32,US Senator,,Democrat,Erik Fleming,16
+Hinds,32,US Senator,,Democrat,James O’Keefe,6
+Hinds,32,US Senator,,Democrat,Catherine M. Starr,5
+Hinds,32,U.S. Representative,2,Democrat,Dorothy Benford,
+Hinds,32,U.S. Representative,2,Democrat,Chuck Espy,
+Hinds,32,U.S. Representative,2,Democrat,Bennie G. Thompson,
+Hinds,33,US Senator,,Democrat,Bill Bowlin,6
+Hinds,33,US Senator,,Democrat,Erik Fleming,17
+Hinds,33,US Senator,,Democrat,James O’Keefe,7
+Hinds,33,US Senator,,Democrat,Catherine M. Starr,7
+Hinds,33,U.S. Representative,2,Democrat,Dorothy Benford,
+Hinds,33,U.S. Representative,2,Democrat,Chuck Espy,
+Hinds,33,U.S. Representative,2,Democrat,Bennie G. Thompson,
+Hinds,34,US Senator,,Democrat,Bill Bowlin,8
+Hinds,34,US Senator,,Democrat,Erik Fleming,25
+Hinds,34,US Senator,,Democrat,James O’Keefe,12
+Hinds,34,US Senator,,Democrat,Catherine M. Starr,4
+Hinds,34,U.S. Representative,2,Democrat,Dorothy Benford,
+Hinds,34,U.S. Representative,2,Democrat,Chuck Espy,
+Hinds,34,U.S. Representative,2,Democrat,Bennie G. Thompson,
+Hinds,35,US Senator,,Democrat,Bill Bowlin,18
+Hinds,35,US Senator,,Democrat,Erik Fleming,22
+Hinds,35,US Senator,,Democrat,James O’Keefe,14
+Hinds,35,US Senator,,Democrat,Catherine M. Starr,2
+Hinds,35,U.S. Representative,2,Democrat,Dorothy Benford,
+Hinds,35,U.S. Representative,2,Democrat,Chuck Espy,
+Hinds,35,U.S. Representative,2,Democrat,Bennie G. Thompson,
+Hinds,36,US Senator,,Democrat,Bill Bowlin,11
+Hinds,36,US Senator,,Democrat,Erik Fleming,52
+Hinds,36,US Senator,,Democrat,James O’Keefe,11
+Hinds,36,US Senator,,Democrat,Catherine M. Starr,9
+Hinds,36,U.S. Representative,2,Democrat,Dorothy Benford,
+Hinds,36,U.S. Representative,2,Democrat,Chuck Espy,
+Hinds,36,U.S. Representative,2,Democrat,Bennie G. Thompson,
+Hinds,37,US Senator,,Democrat,Bill Bowlin,10
+Hinds,37,US Senator,,Democrat,Erik Fleming,46
+Hinds,37,US Senator,,Democrat,James O’Keefe,10
+Hinds,37,US Senator,,Democrat,Catherine M. Starr,5
+Hinds,37,U.S. Representative,2,Democrat,Dorothy Benford,
+Hinds,37,U.S. Representative,2,Democrat,Chuck Espy,
+Hinds,37,U.S. Representative,2,Democrat,Bennie G. Thompson,
+Hinds,38,US Senator,,Democrat,Bill Bowlin,10
+Hinds,38,US Senator,,Democrat,Erik Fleming,95
+Hinds,38,US Senator,,Democrat,James O’Keefe,13
+Hinds,38,US Senator,,Democrat,Catherine M. Starr,14
+Hinds,38,U.S. Representative,2,Democrat,Dorothy Benford,0
+Hinds,38,U.S. Representative,2,Democrat,Chuck Espy,43
+Hinds,38,U.S. Representative,2,Democrat,Bennie G. Thompson,103
+Hinds,39,US Senator,,Democrat,Bill Bowlin,15
+Hinds,39,US Senator,,Democrat,Erik Fleming,180
+Hinds,39,US Senator,,Democrat,James O’Keefe,26
+Hinds,39,US Senator,,Democrat,Catherine M. Starr,32
+Hinds,39,U.S. Representative,2,Democrat,Dorothy Benford,2
+Hinds,39,U.S. Representative,2,Democrat,Chuck Espy,24
+Hinds,39,U.S. Representative,2,Democrat,Bennie G. Thompson,259
+Hinds,40,US Senator,,Democrat,Bill Bowlin,27
+Hinds,40,US Senator,,Democrat,Erik Fleming,221
+Hinds,40,US Senator,,Democrat,James O’Keefe,33
+Hinds,40,US Senator,,Democrat,Catherine M. Starr,57
+Hinds,40,U.S. Representative,2,Democrat,Dorothy Benford,1
+Hinds,40,U.S. Representative,2,Democrat,Chuck Espy,38
+Hinds,40,U.S. Representative,2,Democrat,Bennie G. Thompson,351
+Hinds,41,US Senator,,Democrat,Bill Bowlin,36
+Hinds,41,US Senator,,Democrat,Erik Fleming,318
+Hinds,41,US Senator,,Democrat,James O’Keefe,47
+Hinds,41,US Senator,,Democrat,Catherine M. Starr,66
+Hinds,41,U.S. Representative,2,Democrat,Dorothy Benford,1
+Hinds,41,U.S. Representative,2,Democrat,Chuck Espy,55
+Hinds,41,U.S. Representative,2,Democrat,Bennie G. Thompson,530
+Hinds,42,US Senator,,Democrat,Bill Bowlin,21
+Hinds,42,US Senator,,Democrat,Erik Fleming,166
+Hinds,42,US Senator,,Democrat,James O’Keefe,21
+Hinds,42,US Senator,,Democrat,Catherine M. Starr,29
+Hinds,42,U.S. Representative,2,Democrat,Dorothy Benford,1
+Hinds,42,U.S. Representative,2,Democrat,Chuck Espy,65
+Hinds,42,U.S. Representative,2,Democrat,Bennie G. Thompson,207
+Hinds,43,US Senator,,Democrat,Bill Bowlin,18
+Hinds,43,US Senator,,Democrat,Erik Fleming,195
+Hinds,43,US Senator,,Democrat,James O’Keefe,26
+Hinds,43,US Senator,,Democrat,Catherine M. Starr,16
+Hinds,43,U.S. Representative,2,Democrat,Dorothy Benford,2
+Hinds,43,U.S. Representative,2,Democrat,Chuck Espy,75
+Hinds,43,U.S. Representative,2,Democrat,Bennie G. Thompson,215
+Hinds,44,US Senator,,Democrat,Bill Bowlin,13
+Hinds,44,US Senator,,Democrat,Erik Fleming,56
+Hinds,44,US Senator,,Democrat,James O’Keefe,9
+Hinds,44,US Senator,,Democrat,Catherine M. Starr,9
+Hinds,44,U.S. Representative,2,Democrat,Dorothy Benford,
+Hinds,44,U.S. Representative,2,Democrat,Chuck Espy,
+Hinds,44,U.S. Representative,2,Democrat,Bennie G. Thompson,
+Hinds,45,US Senator,,Democrat,Bill Bowlin,12
+Hinds,45,US Senator,,Democrat,Erik Fleming,20
+Hinds,45,US Senator,,Democrat,James O’Keefe,14
+Hinds,45,US Senator,,Democrat,Catherine M. Starr,4
+Hinds,45,U.S. Representative,2,Democrat,Dorothy Benford,
+Hinds,45,U.S. Representative,2,Democrat,Chuck Espy,
+Hinds,45,U.S. Representative,2,Democrat,Bennie G. Thompson,
+Hinds,46,US Senator,,Democrat,Bill Bowlin,27
+Hinds,46,US Senator,,Democrat,Erik Fleming,71
+Hinds,46,US Senator,,Democrat,James O’Keefe,25
+Hinds,46,US Senator,,Democrat,Catherine M. Starr,20
+Hinds,46,U.S. Representative,2,Democrat,Dorothy Benford,
+Hinds,46,U.S. Representative,2,Democrat,Chuck Espy,
+Hinds,46,U.S. Representative,2,Democrat,Bennie G. Thompson,
+Hinds,47,US Senator,,Democrat,Bill Bowlin,8
+Hinds,47,US Senator,,Democrat,Erik Fleming,76
+Hinds,47,US Senator,,Democrat,James O’Keefe,14
+Hinds,47,US Senator,,Democrat,Catherine M. Starr,16
+Hinds,47,U.S. Representative,2,Democrat,Dorothy Benford,0
+Hinds,47,U.S. Representative,2,Democrat,Chuck Espy,24
+Hinds,47,U.S. Representative,2,Democrat,Bennie G. Thompson,101
+Hinds,48,US Senator,,Democrat,Bill Bowlin,3
+Hinds,48,US Senator,,Democrat,Erik Fleming,23
+Hinds,48,US Senator,,Democrat,James O’Keefe,5
+Hinds,48,US Senator,,Democrat,Catherine M. Starr,7
+Hinds,48,U.S. Representative,2,Democrat,Dorothy Benford,0
+Hinds,48,U.S. Representative,2,Democrat,Chuck Espy,11
+Hinds,48,U.S. Representative,2,Democrat,Bennie G. Thompson,30
+Hinds,49,US Senator,,Democrat,Bill Bowlin,2
+Hinds,49,US Senator,,Democrat,Erik Fleming,29
+Hinds,49,US Senator,,Democrat,James O’Keefe,3
+Hinds,49,US Senator,,Democrat,Catherine M. Starr,6
+Hinds,49,U.S. Representative,2,Democrat,Dorothy Benford,0
+Hinds,49,U.S. Representative,2,Democrat,Chuck Espy,6
+Hinds,49,U.S. Representative,2,Democrat,Bennie G. Thompson,42
+Hinds,50,US Senator,,Democrat,Bill Bowlin,2
+Hinds,50,US Senator,,Democrat,Erik Fleming,29
+Hinds,50,US Senator,,Democrat,James O’Keefe,3
+Hinds,50,US Senator,,Democrat,Catherine M. Starr,6
+Hinds,50,U.S. Representative,2,Democrat,Dorothy Benford,0
+Hinds,50,U.S. Representative,2,Democrat,Chuck Espy,6
+Hinds,50,U.S. Representative,2,Democrat,Bennie G. Thompson,42
+Hinds,51,US Senator,,Democrat,Bill Bowlin,10
+Hinds,51,US Senator,,Democrat,Erik Fleming,113
+Hinds,51,US Senator,,Democrat,James O’Keefe,9
+Hinds,51,US Senator,,Democrat,Catherine M. Starr,23
+Hinds,51,U.S. Representative,2,Democrat,Dorothy Benford,2
+Hinds,51,U.S. Representative,2,Democrat,Chuck Espy,33
+Hinds,51,U.S. Representative,2,Democrat,Bennie G. Thompson,134
+Hinds,52,US Senator,,Democrat,Bill Bowlin,14
+Hinds,52,US Senator,,Democrat,Erik Fleming,116
+Hinds,52,US Senator,,Democrat,James O’Keefe,19
+Hinds,52,US Senator,,Democrat,Catherine M. Starr,25
+Hinds,52,U.S. Representative,2,Democrat,Dorothy Benford,5
+Hinds,52,U.S. Representative,2,Democrat,Chuck Espy,24
+Hinds,52,U.S. Representative,2,Democrat,Bennie G. Thompson,156
+Hinds,53,US Senator,,Democrat,Bill Bowlin,1
+Hinds,53,US Senator,,Democrat,Erik Fleming,10
+Hinds,53,US Senator,,Democrat,James O’Keefe,5
+Hinds,53,US Senator,,Democrat,Catherine M. Starr,1
+Hinds,53,U.S. Representative,2,Democrat,Dorothy Benford,0
+Hinds,53,U.S. Representative,2,Democrat,Chuck Espy,5
+Hinds,53,U.S. Representative,2,Democrat,Bennie G. Thompson,14
+Hinds,54,US Senator,,Democrat,Bill Bowlin,10
+Hinds,54,US Senator,,Democrat,Erik Fleming,62
+Hinds,54,US Senator,,Democrat,James O’Keefe,8
+Hinds,54,US Senator,,Democrat,Catherine M. Starr,13
+Hinds,54,U.S. Representative,2,Democrat,Dorothy Benford,1
+Hinds,54,U.S. Representative,2,Democrat,Chuck Espy,7
+Hinds,54,U.S. Representative,2,Democrat,Bennie G. Thompson,89
+Hinds,55,US Senator,,Democrat,Bill Bowlin,10
+Hinds,55,US Senator,,Democrat,Erik Fleming,101
+Hinds,55,US Senator,,Democrat,James O’Keefe,19
+Hinds,55,US Senator,,Democrat,Catherine M. Starr,12
+Hinds,55,U.S. Representative,2,Democrat,Dorothy Benford,0
+Hinds,55,U.S. Representative,2,Democrat,Chuck Espy,21
+Hinds,55,U.S. Representative,2,Democrat,Bennie G. Thompson,144
+Hinds,56,US Senator,,Democrat,Bill Bowlin,3
+Hinds,56,US Senator,,Democrat,Erik Fleming,56
+Hinds,56,US Senator,,Democrat,James O’Keefe,11
+Hinds,56,US Senator,,Democrat,Catherine M. Starr,13
+Hinds,56,U.S. Representative,2,Democrat,Dorothy Benford,1
+Hinds,56,U.S. Representative,2,Democrat,Chuck Espy,12
+Hinds,56,U.S. Representative,2,Democrat,Bennie G. Thompson,81
+Hinds,57,US Senator,,Democrat,Bill Bowlin,14
+Hinds,57,US Senator,,Democrat,Erik Fleming,144
+Hinds,57,US Senator,,Democrat,James O’Keefe,14
+Hinds,57,US Senator,,Democrat,Catherine M. Starr,22
+Hinds,57,U.S. Representative,2,Democrat,Dorothy Benford,3
+Hinds,57,U.S. Representative,2,Democrat,Chuck Espy,28
+Hinds,57,U.S. Representative,2,Democrat,Bennie G. Thompson,198
+Hinds,58,US Senator,,Democrat,Bill Bowlin,20
+Hinds,58,US Senator,,Democrat,Erik Fleming,310
+Hinds,58,US Senator,,Democrat,James O’Keefe,38
+Hinds,58,US Senator,,Democrat,Catherine M. Starr,34
+Hinds,58,U.S. Representative,2,Democrat,Dorothy Benford,1
+Hinds,58,U.S. Representative,2,Democrat,Chuck Espy,50
+Hinds,58,U.S. Representative,2,Democrat,Bennie G. Thompson,380
+Hinds,59,US Senator,,Democrat,Bill Bowlin,13
+Hinds,59,US Senator,,Democrat,Erik Fleming,222
+Hinds,59,US Senator,,Democrat,James O’Keefe,24
+Hinds,59,US Senator,,Democrat,Catherine M. Starr,33
+Hinds,59,U.S. Representative,2,Democrat,Dorothy Benford,1
+Hinds,59,U.S. Representative,2,Democrat,Chuck Espy,71
+Hinds,59,U.S. Representative,2,Democrat,Bennie G. Thompson,259
+Hinds,60,US Senator,,Democrat,Bill Bowlin,2
+Hinds,60,US Senator,,Democrat,Erik Fleming,41
+Hinds,60,US Senator,,Democrat,James O’Keefe,10
+Hinds,60,US Senator,,Democrat,Catherine M. Starr,8
+Hinds,60,U.S. Representative,2,Democrat,Dorothy Benford,0
+Hinds,60,U.S. Representative,2,Democrat,Chuck Espy,10
+Hinds,60,U.S. Representative,2,Democrat,Bennie G. Thompson,55
+Hinds,61,US Senator,,Democrat,Bill Bowlin,23
+Hinds,61,US Senator,,Democrat,Erik Fleming,101
+Hinds,61,US Senator,,Democrat,James O’Keefe,27
+Hinds,61,US Senator,,Democrat,Catherine M. Starr,24
+Hinds,61,U.S. Representative,2,Democrat,Dorothy Benford,1
+Hinds,61,U.S. Representative,2,Democrat,Chuck Espy,36
+Hinds,61,U.S. Representative,2,Democrat,Bennie G. Thompson,164
+Hinds,62,US Senator,,Democrat,Bill Bowlin,22
+Hinds,62,US Senator,,Democrat,Erik Fleming,141
+Hinds,62,US Senator,,Democrat,James O’Keefe,33
+Hinds,62,US Senator,,Democrat,Catherine M. Starr,32
+Hinds,62,U.S. Representative,2,Democrat,Dorothy Benford,1
+Hinds,62,U.S. Representative,2,Democrat,Chuck Espy,39
+Hinds,62,U.S. Representative,2,Democrat,Bennie G. Thompson,214
+Hinds,63,US Senator,,Democrat,Bill Bowlin,6
+Hinds,63,US Senator,,Democrat,Erik Fleming,95
+Hinds,63,US Senator,,Democrat,James O’Keefe,19
+Hinds,63,US Senator,,Democrat,Catherine M. Starr,16
+Hinds,63,U.S. Representative,2,Democrat,Dorothy Benford,1
+Hinds,63,U.S. Representative,2,Democrat,Chuck Espy,19
+Hinds,63,U.S. Representative,2,Democrat,Bennie G. Thompson,162
+Hinds,64,US Senator,,Democrat,Bill Bowlin,14
+Hinds,64,US Senator,,Democrat,Erik Fleming,83
+Hinds,64,US Senator,,Democrat,James O’Keefe,13
+Hinds,64,US Senator,,Democrat,Catherine M. Starr,19
+Hinds,64,U.S. Representative,2,Democrat,Dorothy Benford,1
+Hinds,64,U.S. Representative,2,Democrat,Chuck Espy,24
+Hinds,64,U.S. Representative,2,Democrat,Bennie G. Thompson,146
+Hinds,66,US Senator,,Democrat,Bill Bowlin,0
+Hinds,66,US Senator,,Democrat,Erik Fleming,2
+Hinds,66,US Senator,,Democrat,James O’Keefe,0
+Hinds,66,US Senator,,Democrat,Catherine M. Starr,0
+Hinds,66,U.S. Representative,2,Democrat,Dorothy Benford,0
+Hinds,66,U.S. Representative,2,Democrat,Chuck Espy,1
+Hinds,66,U.S. Representative,2,Democrat,Bennie G. Thompson,0
+Hinds,67,US Senator,,Democrat,Bill Bowlin,7
+Hinds,67,US Senator,,Democrat,Erik Fleming,54
+Hinds,67,US Senator,,Democrat,James O’Keefe,8
+Hinds,67,US Senator,,Democrat,Catherine M. Starr,8
+Hinds,67,U.S. Representative,2,Democrat,Dorothy Benford,1
+Hinds,67,U.S. Representative,2,Democrat,Chuck Espy,24
+Hinds,67,U.S. Representative,2,Democrat,Bennie G. Thompson,66
+Hinds,68,US Senator,,Democrat,Bill Bowlin,42
+Hinds,68,US Senator,,Democrat,Erik Fleming,247
+Hinds,68,US Senator,,Democrat,James O’Keefe,44
+Hinds,68,US Senator,,Democrat,Catherine M. Starr,54
+Hinds,68,U.S. Representative,2,Democrat,Dorothy Benford,3
+Hinds,68,U.S. Representative,2,Democrat,Chuck Espy,120
+Hinds,68,U.S. Representative,2,Democrat,Bennie G. Thompson,309
+Hinds,69,US Senator,,Democrat,Bill Bowlin,14
+Hinds,69,US Senator,,Democrat,Erik Fleming,69
+Hinds,69,US Senator,,Democrat,James O’Keefe,20
+Hinds,69,US Senator,,Democrat,Catherine M. Starr,15
+Hinds,69,U.S. Representative,2,Democrat,Dorothy Benford,1
+Hinds,69,U.S. Representative,2,Democrat,Chuck Espy,44
+Hinds,69,U.S. Representative,2,Democrat,Bennie G. Thompson,87
+Hinds,70,US Senator,,Democrat,Bill Bowlin,7
+Hinds,70,US Senator,,Democrat,Erik Fleming,22
+Hinds,70,US Senator,,Democrat,James O’Keefe,9
+Hinds,70,US Senator,,Democrat,Catherine M. Starr,7
+Hinds,70,U.S. Representative,2,Democrat,Dorothy Benford,0
+Hinds,70,U.S. Representative,2,Democrat,Chuck Espy,17
+Hinds,70,U.S. Representative,2,Democrat,Bennie G. Thompson,34
+Hinds,71,US Senator,,Democrat,Bill Bowlin,14
+Hinds,71,US Senator,,Democrat,Erik Fleming,92
+Hinds,71,US Senator,,Democrat,James O’Keefe,26
+Hinds,71,US Senator,,Democrat,Catherine M. Starr,21
+Hinds,71,U.S. Representative,2,Democrat,Dorothy Benford,1
+Hinds,71,U.S. Representative,2,Democrat,Chuck Espy,59
+Hinds,71,U.S. Representative,2,Democrat,Bennie G. Thompson,107
+Hinds,72,US Senator,,Democrat,Bill Bowlin,14
+Hinds,72,US Senator,,Democrat,Erik Fleming,48
+Hinds,72,US Senator,,Democrat,James O’Keefe,16
+Hinds,72,US Senator,,Democrat,Catherine M. Starr,10
+Hinds,72,U.S. Representative,2,Democrat,Dorothy Benford,0
+Hinds,72,U.S. Representative,2,Democrat,Chuck Espy,34
+Hinds,72,U.S. Representative,2,Democrat,Bennie G. Thompson,60
+Hinds,73,US Senator,,Democrat,Bill Bowlin,19
+Hinds,73,US Senator,,Democrat,Erik Fleming,44
+Hinds,73,US Senator,,Democrat,James O’Keefe,15
+Hinds,73,US Senator,,Democrat,Catherine M. Starr,11
+Hinds,73,U.S. Representative,2,Democrat,Dorothy Benford,4
+Hinds,73,U.S. Representative,2,Democrat,Chuck Espy,32
+Hinds,73,U.S. Representative,2,Democrat,Bennie G. Thompson,73
+Hinds,74,US Senator,,Democrat,Bill Bowlin,19
+Hinds,74,US Senator,,Democrat,Erik Fleming,50
+Hinds,74,US Senator,,Democrat,James O’Keefe,23
+Hinds,74,US Senator,,Democrat,Catherine M. Starr,15
+Hinds,74,U.S. Representative,2,Democrat,Dorothy Benford,3
+Hinds,74,U.S. Representative,2,Democrat,Chuck Espy,41
+Hinds,74,U.S. Representative,2,Democrat,Bennie G. Thompson,79
+Hinds,75,US Senator,,Democrat,Bill Bowlin,13
+Hinds,75,US Senator,,Democrat,Erik Fleming,60
+Hinds,75,US Senator,,Democrat,James O’Keefe,7
+Hinds,75,US Senator,,Democrat,Catherine M. Starr,8
+Hinds,75,U.S. Representative,2,Democrat,Dorothy Benford,0
+Hinds,75,U.S. Representative,2,Democrat,Chuck Espy,32
+Hinds,75,U.S. Representative,2,Democrat,Bennie G. Thompson,68
+Hinds,76,US Senator,,Democrat,Bill Bowlin,15
+Hinds,76,US Senator,,Democrat,Erik Fleming,57
+Hinds,76,US Senator,,Democrat,James O’Keefe,19
+Hinds,76,US Senator,,Democrat,Catherine M. Starr,20
+Hinds,76,U.S. Representative,2,Democrat,Dorothy Benford,4
+Hinds,76,U.S. Representative,2,Democrat,Chuck Espy,55
+Hinds,76,U.S. Representative,2,Democrat,Bennie G. Thompson,67
+Hinds,77,US Senator,,Democrat,Bill Bowlin,11
+Hinds,77,US Senator,,Democrat,Erik Fleming,59
+Hinds,77,US Senator,,Democrat,James O’Keefe,10
+Hinds,77,US Senator,,Democrat,Catherine M. Starr,8
+Hinds,77,U.S. Representative,2,Democrat,Dorothy Benford,0
+Hinds,77,U.S. Representative,2,Democrat,Chuck Espy,55
+Hinds,77,U.S. Representative,2,Democrat,Bennie G. Thompson,48
+Hinds,78,US Senator,,Democrat,Bill Bowlin,19
+Hinds,78,US Senator,,Democrat,Erik Fleming,34
+Hinds,78,US Senator,,Democrat,James O’Keefe,6
+Hinds,78,US Senator,,Democrat,Catherine M. Starr,5
+Hinds,78,U.S. Representative,2,Democrat,Dorothy Benford,
+Hinds,78,U.S. Representative,2,Democrat,Chuck Espy,
+Hinds,78,U.S. Representative,2,Democrat,Bennie G. Thompson,
+Hinds,79,US Senator,,Democrat,Bill Bowlin,13
+Hinds,79,US Senator,,Democrat,Erik Fleming,73
+Hinds,79,US Senator,,Democrat,James O’Keefe,10
+Hinds,79,US Senator,,Democrat,Catherine M. Starr,17
+Hinds,79,U.S. Representative,2,Democrat,Dorothy Benford,
+Hinds,79,U.S. Representative,2,Democrat,Chuck Espy,
+Hinds,79,U.S. Representative,2,Democrat,Bennie G. Thompson,
+Hinds,80,US Senator,,Democrat,Bill Bowlin,27
+Hinds,80,US Senator,,Democrat,Erik Fleming,252
+Hinds,80,US Senator,,Democrat,James O’Keefe,33
+Hinds,80,US Senator,,Democrat,Catherine M. Starr,42
+Hinds,80,U.S. Representative,2,Democrat,Dorothy Benford,1
+Hinds,80,U.S. Representative,2,Democrat,Chuck Espy,51
+Hinds,80,U.S. Representative,2,Democrat,Bennie G. Thompson,365
+Hinds,81,US Senator,,Democrat,Bill Bowlin,41
+Hinds,81,US Senator,,Democrat,Erik Fleming,554
+Hinds,81,US Senator,,Democrat,James O’Keefe,47
+Hinds,81,US Senator,,Democrat,Catherine M. Starr,50
+Hinds,81,U.S. Representative,2,Democrat,Dorothy Benford,2
+Hinds,81,U.S. Representative,2,Democrat,Chuck Espy,118
+Hinds,81,U.S. Representative,2,Democrat,Bennie G. Thompson,651
+Hinds,82,US Senator,,Democrat,Bill Bowlin,25
+Hinds,82,US Senator,,Democrat,Erik Fleming,292
+Hinds,82,US Senator,,Democrat,James O’Keefe,19
+Hinds,82,US Senator,,Democrat,Catherine M. Starr,49
+Hinds,82,U.S. Representative,2,Democrat,Dorothy Benford,1
+Hinds,82,U.S. Representative,2,Democrat,Chuck Espy,61
+Hinds,82,U.S. Representative,2,Democrat,Bennie G. Thompson,387
+Hinds,83,US Senator,,Democrat,Bill Bowlin,45
+Hinds,83,US Senator,,Democrat,Erik Fleming,739
+Hinds,83,US Senator,,Democrat,James O’Keefe,54
+Hinds,83,US Senator,,Democrat,Catherine M. Starr,73
+Hinds,83,U.S. Representative,2,Democrat,Dorothy Benford,6
+Hinds,83,U.S. Representative,2,Democrat,Chuck Espy,144
+Hinds,83,U.S. Representative,2,Democrat,Bennie G. Thompson,856
+Hinds,84,US Senator,,Democrat,Bill Bowlin,5
+Hinds,84,US Senator,,Democrat,Erik Fleming,73
+Hinds,84,US Senator,,Democrat,James O’Keefe,7
+Hinds,84,US Senator,,Democrat,Catherine M. Starr,8
+Hinds,84,U.S. Representative,2,Democrat,Dorothy Benford,0
+Hinds,84,U.S. Representative,2,Democrat,Chuck Espy,2
+Hinds,84,U.S. Representative,2,Democrat,Bennie G. Thompson,100
+Hinds,85,US Senator,,Democrat,Bill Bowlin,79
+Hinds,85,US Senator,,Democrat,Erik Fleming,571
+Hinds,85,US Senator,,Democrat,James O’Keefe,61
+Hinds,85,US Senator,,Democrat,Catherine M. Starr,83
+Hinds,85,U.S. Representative,2,Democrat,Dorothy Benford,7
+Hinds,85,U.S. Representative,2,Democrat,Chuck Espy,80
+Hinds,85,U.S. Representative,2,Democrat,Bennie G. Thompson,809
+Hinds,86,US Senator,,Democrat,Bill Bowlin,13
+Hinds,86,US Senator,,Democrat,Erik Fleming,232
+Hinds,86,US Senator,,Democrat,James O’Keefe,17
+Hinds,86,US Senator,,Democrat,Catherine M. Starr,21
+Hinds,86,U.S. Representative,2,Democrat,Dorothy Benford,3
+Hinds,86,U.S. Representative,2,Democrat,Chuck Espy,34
+Hinds,86,U.S. Representative,2,Democrat,Bennie G. Thompson,291
+Hinds,87,US Senator,,Democrat,Bill Bowlin,16
+Hinds,87,US Senator,,Democrat,Erik Fleming,113
+Hinds,87,US Senator,,Democrat,James O’Keefe,13
+Hinds,87,US Senator,,Democrat,Catherine M. Starr,12
+Hinds,87,U.S. Representative,2,Democrat,Dorothy Benford,1
+Hinds,87,U.S. Representative,2,Democrat,Chuck Espy,34
+Hinds,87,U.S. Representative,2,Democrat,Bennie G. Thompson,137
+Hinds,88,US Senator,,Democrat,Bill Bowlin,56
+Hinds,88,US Senator,,Democrat,Erik Fleming,287
+Hinds,88,US Senator,,Democrat,James O’Keefe,31
+Hinds,88,US Senator,,Democrat,Catherine M. Starr,21
+Hinds,88,U.S. Representative,2,Democrat,Dorothy Benford,7
+Hinds,88,U.S. Representative,2,Democrat,Chuck Espy,47
+Hinds,88,U.S. Representative,2,Democrat,Bennie G. Thompson,388
+Hinds,89,US Senator,,Democrat,Bill Bowlin,6
+Hinds,89,US Senator,,Democrat,Erik Fleming,40
+Hinds,89,US Senator,,Democrat,James O’Keefe,4
+Hinds,89,US Senator,,Democrat,Catherine M. Starr,5
+Hinds,89,U.S. Representative,2,Democrat,Dorothy Benford,0
+Hinds,89,U.S. Representative,2,Democrat,Chuck Espy,17
+Hinds,89,U.S. Representative,2,Democrat,Bennie G. Thompson,46
+Hinds,90,US Senator,,Democrat,Bill Bowlin,13
+Hinds,90,US Senator,,Democrat,Erik Fleming,63
+Hinds,90,US Senator,,Democrat,James O’Keefe,7
+Hinds,90,US Senator,,Democrat,Catherine M. Starr,13
+Hinds,90,U.S. Representative,2,Democrat,Dorothy Benford,1
+Hinds,90,U.S. Representative,2,Democrat,Chuck Espy,26
+Hinds,90,U.S. Representative,2,Democrat,Bennie G. Thompson,78
+Hinds,91,US Senator,,Democrat,Bill Bowlin,33
+Hinds,91,US Senator,,Democrat,Erik Fleming,301
+Hinds,91,US Senator,,Democrat,James O’Keefe,48
+Hinds,91,US Senator,,Democrat,Catherine M. Starr,46
+Hinds,91,U.S. Representative,2,Democrat,Dorothy Benford,1
+Hinds,91,U.S. Representative,2,Democrat,Chuck Espy,101
+Hinds,91,U.S. Representative,2,Democrat,Bennie G. Thompson,367
+Hinds,92,US Senator,,Democrat,Bill Bowlin,27
+Hinds,92,US Senator,,Democrat,Erik Fleming,198
+Hinds,92,US Senator,,Democrat,James O’Keefe,37
+Hinds,92,US Senator,,Democrat,Catherine M. Starr,52
+Hinds,92,U.S. Representative,2,Democrat,Dorothy Benford,1
+Hinds,92,U.S. Representative,2,Democrat,Chuck Espy,112
+Hinds,92,U.S. Representative,2,Democrat,Bennie G. Thompson,227
+Hinds,93,US Senator,,Democrat,Bill Bowlin,22
+Hinds,93,US Senator,,Democrat,Erik Fleming,80
+Hinds,93,US Senator,,Democrat,James O’Keefe,26
+Hinds,93,US Senator,,Democrat,Catherine M. Starr,20
+Hinds,93,U.S. Representative,2,Democrat,Dorothy Benford,0
+Hinds,93,U.S. Representative,2,Democrat,Chuck Espy,79
+Hinds,93,U.S. Representative,2,Democrat,Bennie G. Thompson,92
+Hinds,94,US Senator,,Democrat,Bill Bowlin,39
+Hinds,94,US Senator,,Democrat,Erik Fleming,389
+Hinds,94,US Senator,,Democrat,James O’Keefe,58
+Hinds,94,US Senator,,Democrat,Catherine M. Starr,39
+Hinds,94,U.S. Representative,2,Democrat,Dorothy Benford,1
+Hinds,94,U.S. Representative,2,Democrat,Chuck Espy,109
+Hinds,94,U.S. Representative,2,Democrat,Bennie G. Thompson,458
+Hinds,95,US Senator,,Democrat,Bill Bowlin,11
+Hinds,95,US Senator,,Democrat,Erik Fleming,47
+Hinds,95,US Senator,,Democrat,James O’Keefe,17
+Hinds,95,US Senator,,Democrat,Catherine M. Starr,7
+Hinds,95,U.S. Representative,2,Democrat,Dorothy Benford,0
+Hinds,95,U.S. Representative,2,Democrat,Chuck Espy,53
+Hinds,95,U.S. Representative,2,Democrat,Bennie G. Thompson,43
+Hinds,96,US Senator,,Democrat,Bill Bowlin,40
+Hinds,96,US Senator,,Democrat,Erik Fleming,183
+Hinds,96,US Senator,,Democrat,James O’Keefe,47
+Hinds,96,US Senator,,Democrat,Catherine M. Starr,33
+Hinds,96,U.S. Representative,2,Democrat,Dorothy Benford,0
+Hinds,96,U.S. Representative,2,Democrat,Chuck Espy,169
+Hinds,96,U.S. Representative,2,Democrat,Bennie G. Thompson,177
+Hinds,97,US Senator,,Democrat,Bill Bowlin,11
+Hinds,97,US Senator,,Democrat,Erik Fleming,27
+Hinds,97,US Senator,,Democrat,James O’Keefe,12
+Hinds,97,US Senator,,Democrat,Catherine M. Starr,6
+Hinds,97,U.S. Representative,2,Democrat,Dorothy Benford,1
+Hinds,97,U.S. Representative,2,Democrat,Chuck Espy,39
+Hinds,97,U.S. Representative,2,Democrat,Bennie G. Thompson,28
+Hinds,(R1) Raymond 1,US Senator,,Democrat,Bill Bowlin,82
+Hinds,(R1) Raymond 1,US Senator,,Democrat,Erik Fleming,174
+Hinds,(R1) Raymond 1,US Senator,,Democrat,James O’Keefe,71
+Hinds,(R1) Raymond 1,US Senator,,Democrat,Catherine M. Starr,39
+Hinds,(R1) Raymond 1,U.S. Representative,2,Democrat,Dorothy Benford,5
+Hinds,(R1) Raymond 1,U.S. Representative,2,Democrat,Chuck Espy,258
+Hinds,(R1) Raymond 1,U.S. Representative,2,Democrat,Bennie G. Thompson,197
+Hinds,(R2) Raymond 2,US Senator,,Democrat,Bill Bowlin,78
+Hinds,(R2) Raymond 2,US Senator,,Democrat,Erik Fleming,175
+Hinds,(R2) Raymond 2,US Senator,,Democrat,James O’Keefe,50
+Hinds,(R2) Raymond 2,US Senator,,Democrat,Catherine M. Starr,41
+Hinds,(R2) Raymond 2,U.S. Representative,2,Democrat,Dorothy Benford,5
+Hinds,(R2) Raymond 2,U.S. Representative,2,Democrat,Chuck Espy,242
+Hinds,(R2) Raymond 2,U.S. Representative,2,Democrat,Bennie G. Thompson,191
+Hinds,(SR) Springridge,US Senator,,Democrat,Bill Bowlin,79
+Hinds,(SR) Springridge,US Senator,,Democrat,Erik Fleming,267
+Hinds,(SR) Springridge,US Senator,,Democrat,James O’Keefe,52
+Hinds,(SR) Springridge,US Senator,,Democrat,Catherine M. Starr,37
+Hinds,(SR) Springridge,U.S. Representative,2,Democrat,Dorothy Benford,9
+Hinds,(SR) Springridge,U.S. Representative,2,Democrat,Chuck Espy,243
+Hinds,(SR) Springridge,U.S. Representative,2,Democrat,Bennie G. Thompson,267
+Hinds,(ST) St. Thomas,US Senator,,Democrat,Bill Bowlin,21
+Hinds,(ST) St. Thomas,US Senator,,Democrat,Erik Fleming,117
+Hinds,(ST) St. Thomas,US Senator,,Democrat,James O’Keefe,16
+Hinds,(ST) St. Thomas,US Senator,,Democrat,Catherine M. Starr,10
+Hinds,(ST) St. Thomas,U.S. Representative,2,Democrat,Dorothy Benford,1
+Hinds,(ST) St. Thomas,U.S. Representative,2,Democrat,Chuck Espy,15
+Hinds,(ST) St. Thomas,U.S. Representative,2,Democrat,Bennie G. Thompson,172
+Hinds,(TE) Terry,US Senator,,Democrat,Bill Bowlin,148
+Hinds,(TE) Terry,US Senator,,Democrat,Erik Fleming,320
+Hinds,(TE) Terry,US Senator,,Democrat,James O’Keefe,115
+Hinds,(TE) Terry,US Senator,,Democrat,Catherine M. Starr,83
+Hinds,(TE) Terry,U.S. Representative,2,Democrat,Dorothy Benford,6
+Hinds,(TE) Terry,U.S. Representative,2,Democrat,Chuck Espy,380
+Hinds,(TE) Terry,U.S. Representative,2,Democrat,Bennie G. Thompson,433
+Hinds,(TI) Tinnin,US Senator,,Democrat,Bill Bowlin,31
+Hinds,(TI) Tinnin,US Senator,,Democrat,Erik Fleming,72
+Hinds,(TI) Tinnin,US Senator,,Democrat,James O’Keefe,30
+Hinds,(TI) Tinnin,US Senator,,Democrat,Catherine M. Starr,11
+Hinds,(TI) Tinnin,U.S. Representative,2,Democrat,Dorothy Benford,1
+Hinds,(TI) Tinnin,U.S. Representative,2,Democrat,Chuck Espy,128
+Hinds,(TI) Tinnin,U.S. Representative,2,Democrat,Bennie G. Thompson,60
+Hinds,(U1) Utica 1,US Senator,,Democrat,Bill Bowlin,44
+Hinds,(U1) Utica 1,US Senator,,Democrat,Erik Fleming,79
+Hinds,(U1) Utica 1,US Senator,,Democrat,James O’Keefe,32
+Hinds,(U1) Utica 1,US Senator,,Democrat,Catherine M. Starr,18
+Hinds,(U1) Utica 1,U.S. Representative,2,Democrat,Dorothy Benford,1
+Hinds,(U1) Utica 1,U.S. Representative,2,Democrat,Chuck Espy,96
+Hinds,(U1) Utica 1,U.S. Representative,2,Democrat,Bennie G. Thompson,98
+Hinds,(U2) Utica 2,US Senator,,Democrat,Bill Bowlin,27
+Hinds,(U2) Utica 2,US Senator,,Democrat,Erik Fleming,137
+Hinds,(U2) Utica 2,US Senator,,Democrat,James O’Keefe,24
+Hinds,(U2) Utica 2,US Senator,,Democrat,Catherine M. Starr,40
+Hinds,(U2) Utica 2,U.S. Representative,2,Democrat,Dorothy Benford,2
+Hinds,(U2) Utica 2,U.S. Representative,2,Democrat,Chuck Espy,38
+Hinds,(U2) Utica 2,U.S. Representative,2,Democrat,Bennie G. Thompson,208
