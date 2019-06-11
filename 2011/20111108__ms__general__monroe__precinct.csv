@@ -80,7 +80,7 @@ Monroe,1 Bigbee 1f2,Commissioner of Agriculture & Commerce,,Reform,Cathy L. Tool
 Monroe,1 Bigbee 1f2,Commissioner of Insurance,,Republican,Mike Chaney,94
 Monroe,1 Bigbee 1f2,Commissioner of Insurance,,Democrat,Louis Fondren,18
 Monroe,1 Bigbee 1f2,Commissioner of Insurance,,Reform,Barbara Dale Washer,2
-Monroe,1 Bigbee 1f2,State Senate,7,Democrat,Hob Bryan,207
+Monroe,1 Bigbee 1f2,State Senate,7,Democrat,Hob Bryan,107
 Monroe,1 Bigbee 1f2,State House,21,Democrat,Donnie Bell,37
 Monroe,1 Bigbee 1f2,State House,21,Republican,Deborah Tierce,80
 Monroe,1 Boyds 1f3,Governor,,Republican,Phil Bryant,222
@@ -228,7 +228,7 @@ Monroe,3 Lackey 3f5,Commissioner of Insurance,,Republican,Mike Chaney,487
 Monroe,3 Lackey 3f5,Commissioner of Insurance,,Democrat,Louis Fondren,99
 Monroe,3 Lackey 3f5,Commissioner of Insurance,,Reform,Barbara Dale Washer,29
 Monroe,3 Lackey 3f5,State Senate,7,Democrat,Hob Bryan,531
-Monroe,3 Lackey 3f5,State House,20,Republican,Chris Brown,3990
+Monroe,3 Lackey 3f5,State House,20,Republican,Chris Brown,390
 Monroe,3 Lackey 3f5,State House,20,Democrat,Jimmy G. Puckett,227
 Monroe,3 Aberdeen Third 3f1,Governor,,Republican,Phil Bryant,362
 Monroe,3 Aberdeen Third 3f1,Governor,,Democrat,Johnny L. DuPree,146
@@ -283,15 +283,15 @@ Monroe,3 Bartahatchie 3f3,Attorney General,,Democrat,Jim Hood,99
 Monroe,3 Bartahatchie 3f3,Attorney General,,Republican,Steve Simpson,75
 Monroe,3 Bartahatchie 3f3,State Auditor,,Republican,Stacey E. Pickering,142
 Monroe,3 Bartahatchie 3f3,State Auditor,,Reform,Ashley Norwood,28
-Monroe,3 Bartahatchie 3f3,Treasurer,,Republican,Lynn Fitch,135
+Monroe,3 Bartahatchie 3f3,Treasurer,,Republican,Lynn Fitch,134
 Monroe,3 Bartahatchie 3f3,Treasurer,,Democrat,Connie Moran,35
 Monroe,3 Bartahatchie 3f3,Treasurer,,Reform,Shawn O'Hara,3
 Monroe,3 Bartahatchie 3f3,Commissioner of Agriculture & Commerce,,Democrat,Joel Gill,55
 Monroe,3 Bartahatchie 3f3,Commissioner of Agriculture & Commerce,,Republican,Cindy Hyde-Smith,112
 Monroe,3 Bartahatchie 3f3,Commissioner of Agriculture & Commerce,,Reform,Cathy L. Toole,5
 Monroe,3 Bartahatchie 3f3,Commissioner of Insurance,,Republican,Mike Chaney,132
-Monroe,3 Bartahatchie 3f3,Commissioner of Insurance,,Democrat,Louis Fondren,42
-Monroe,3 Bartahatchie 3f3,Commissioner of Insurance,,Reform,Barbara Dale Washer,3
+Monroe,3 Bartahatchie 3f3,Commissioner of Insurance,,Democrat,Louis Fondren,35
+Monroe,3 Bartahatchie 3f3,Commissioner of Insurance,,Reform,Barbara Dale Washer,4
 Monroe,3 Bartahatchie 3f3,State Senate,7,Democrat,Hob Bryan,145
 Monroe,3 Bartahatchie 3f3,State House,20,Republican,Chris Brown,120
 Monroe,3 Bartahatchie 3f3,State House,20,Democrat,Jimmy G. Puckett,54
@@ -526,3 +526,27 @@ Monroe,5 Nettleton 5f3,State Senate,7,Democrat,Hob Bryan,508
 Monroe,5 Nettleton 5f3,State House,21,Democrat,Donnie Bell,166
 Monroe,5 Nettleton 5f3,State House,21,Republican,Deborah Tierce,164
 Monroe,5 Nettleton 5f3,State House,36,Democrat,David Gibbs,207
+Monroe,,Governor,,Republican,Phil Bryant,7721
+Monroe,,Governor,,Democrat,Johnny L. DuPree,4517
+Monroe,,Lieutenant Governor,,Republican,Tate Reeves,8773
+Monroe,,Lieutenant Governor,,Reform,Tracella Lou O'Hara Hill,2080
+Monroe,,Secretary of State,,Republican,Delbert Hosemann,9948
+Monroe,,Attorney General,,Democrat,Jim Hood,7591
+Monroe,,Attorney General,,Republican,Steve Simpson,4502
+Monroe,,State Auditor,,Republican,Stacey E. Pickering,8089
+Monroe,,State Auditor,,Reform,Ashley Norwood,2544
+Monroe,,Treasurer,,Republican,Lynn Fitch,7322
+Monroe,,Treasurer,,Democrat,Connie Moran,4414
+Monroe,,Treasurer,,Reform,Shawn O'Hara,267
+Monroe,,Commissioner of Agriculture & Commerce,,Democrat,Joel Gill,4762
+Monroe,,Commissioner of Agriculture & Commerce,,Republican,Cindy Hyde-Smith,6900
+Monroe,,Commissioner of Agriculture & Commerce,,Reform,Cathy L. Toole,268
+Monroe,,Commissioner of Insurance,,Republican,Mike Chaney,7561
+Monroe,,Commissioner of Insurance,,Democrat,Louis Fondren,4038
+Monroe,,Commissioner of Insurance,,Reform,Barbara Dale Washer,365
+Monroe,,State Senate,7,Democrat,Hob Bryan,10737
+Monroe,,State House,20,Republican,Chris Brown,3870
+Monroe,,State House,20,Democrat,Jimmy G. Puckett,3063
+Monroe,,State House,21,Democrat,Donnie Bell,1621
+Monroe,,State House,21,Republican,Deborah Tierce,1446
+Monroe,,State House,36,Democrat,David Gibbs,1957

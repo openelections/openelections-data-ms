@@ -1,0 +1,649 @@
+county,precinct,office,district,party,candidate,votes
+Lawrence,Courthouse A-Z,Governor,,Republican,Phil Bryant,742
+Lawrence,Courthouse A-Z,Governor,,Democrat,Johnny L. DuPree,174
+Lawrence,Courthouse A-Z,Lieutenant Governor,,Republican,Tate Reeves,841
+Lawrence,Courthouse A-Z,Lieutenant Governor,,Reform,Tracella Lou O'Hara Hill,58
+Lawrence,Courthouse A-Z,Secretary of State,,Republican,Delbert Hosemann,847
+Lawrence,Courthouse A-Z,Attorney General,,Democrat,Jim Hood,517
+Lawrence,Courthouse A-Z,Attorney General,,Republican,Steve Simpson,391
+Lawrence,Courthouse A-Z,State Auditor,,Republican,Stacey E. Pickering,788
+Lawrence,Courthouse A-Z,State Auditor,,Reform,Ashley Norwood,95
+Lawrence,Courthouse A-Z,Treasurer,,Republican,Lynn Fitch,721
+Lawrence,Courthouse A-Z,Treasurer,,Democrat,Connie Moran,153
+Lawrence,Courthouse A-Z,Treasurer,,Reform,Shawn O'Hara,34
+Lawrence,Courthouse A-Z,Commissioner of Agriculture & Commerce,,Democrat,Joel Gill,170
+Lawrence,Courthouse A-Z,Commissioner of Agriculture & Commerce,,Republican,Cindy Hyde-Smith,734
+Lawrence,Courthouse A-Z,Commissioner of Agriculture & Commerce,,Reform,Cathy L. Toole,9
+Lawrence,Courthouse A-Z,Commissioner of Insurance,,Republican,Mike Chaney,733
+Lawrence,Courthouse A-Z,Commissioner of Insurance,,Democrat,Louis Fondren,133
+Lawrence,Courthouse A-Z,Commissioner of Insurance,,Reform,Barbara Dale Washer,28
+Lawrence,Courthouse A-Z,State Senate,39,Republican,Sally Doty,643
+Lawrence,Courthouse A-Z,State Senate,39,Democrat,W.L. Rayborn,269
+Lawrence,Courthouse A-Z,State House,53,Democrat,Bobby Moak,x
+Lawrence,Courthouse A-Z,State House,91,Republican,Cindy Shivers Bryan,477
+Lawrence,Courthouse A-Z,State House,91,Democrat,Bob Evans,438
+Lawrence,Courthouse A-Z,State House,97,Republican,"Sam C. Mims, V",x
+Lawrence,Tilton,Governor,,Republican,Phil Bryant,131
+Lawrence,Tilton,Governor,,Democrat,Johnny L. DuPree,42
+Lawrence,Tilton,Lieutenant Governor,,Republican,Tate Reeves,142
+Lawrence,Tilton,Lieutenant Governor,,Reform,Tracella Lou O'Hara Hill,18
+Lawrence,Tilton,Secretary of State,,Republican,Delbert Hosemann,146
+Lawrence,Tilton,Attorney General,,Democrat,Jim Hood,104
+Lawrence,Tilton,Attorney General,,Republican,Steve Simpson,67
+Lawrence,Tilton,State Auditor,,Republican,Stacey E. Pickering,123
+Lawrence,Tilton,State Auditor,,Reform,Ashley Norwood,34
+Lawrence,Tilton,Treasurer,,Republican,Lynn Fitch,119
+Lawrence,Tilton,Treasurer,,Democrat,Connie Moran,42
+Lawrence,Tilton,Treasurer,,Reform,Shawn O'Hara,7
+Lawrence,Tilton,Commissioner of Agriculture & Commerce,,Democrat,Joel Gill,50
+Lawrence,Tilton,Commissioner of Agriculture & Commerce,,Republican,Cindy Hyde-Smith,123
+Lawrence,Tilton,Commissioner of Agriculture & Commerce,,Reform,Cathy L. Toole,1
+Lawrence,Tilton,Commissioner of Insurance,,Republican,Mike Chaney,125
+Lawrence,Tilton,Commissioner of Insurance,,Democrat,Louis Fondren,40
+Lawrence,Tilton,Commissioner of Insurance,,Reform,Barbara Dale Washer,6
+Lawrence,Tilton,State Senate,39,Republican,Sally Doty,86
+Lawrence,Tilton,State Senate,39,Democrat,W.L. Rayborn,84
+Lawrence,Tilton,State House,53,Democrat,Bobby Moak,x
+Lawrence,Tilton,State House,91,Republican,Cindy Shivers Bryan,x
+Lawrence,Tilton,State House,91,Democrat,Bob Evans,x
+Lawrence,Tilton,State House,97,Republican,"Sam C. Mims, V",143
+Lawrence,Topeka,Governor,,Republican,Phil Bryant,218
+Lawrence,Topeka,Governor,,Democrat,Johnny L. DuPree,44
+Lawrence,Topeka,Lieutenant Governor,,Republican,Tate Reeves,234
+Lawrence,Topeka,Lieutenant Governor,,Reform,Tracella Lou O'Hara Hill,23
+Lawrence,Topeka,Secretary of State,,Republican,Delbert Hosemann,242
+Lawrence,Topeka,Attorney General,,Democrat,Jim Hood,133
+Lawrence,Topeka,Attorney General,,Republican,Steve Simpson,126
+Lawrence,Topeka,State Auditor,,Republican,Stacey E. Pickering,224
+Lawrence,Topeka,State Auditor,,Reform,Ashley Norwood,31
+Lawrence,Topeka,Treasurer,,Republican,Lynn Fitch,200
+Lawrence,Topeka,Treasurer,,Democrat,Connie Moran,51
+Lawrence,Topeka,Treasurer,,Reform,Shawn O'Hara,9
+Lawrence,Topeka,Commissioner of Agriculture & Commerce,,Democrat,Joel Gill,42
+Lawrence,Topeka,Commissioner of Agriculture & Commerce,,Republican,Cindy Hyde-Smith,219
+Lawrence,Topeka,Commissioner of Agriculture & Commerce,,Reform,Cathy L. Toole,2
+Lawrence,Topeka,Commissioner of Insurance,,Republican,Mike Chaney,217
+Lawrence,Topeka,Commissioner of Insurance,,Democrat,Louis Fondren,30
+Lawrence,Topeka,Commissioner of Insurance,,Reform,Barbara Dale Washer,10
+Lawrence,Topeka,State Senate,39,Republican,Sally Doty,160
+Lawrence,Topeka,State Senate,39,Democrat,W.L. Rayborn,102
+Lawrence,Topeka,State House,53,Democrat,Bobby Moak,225
+Lawrence,Topeka,State House,91,Republican,Cindy Shivers Bryan,x
+Lawrence,Topeka,State House,91,Democrat,Bob Evans,x
+Lawrence,Topeka,State House,97,Republican,"Sam C. Mims, V",x
+Lawrence,Armory,Governor,,Republican,Phil Bryant,100
+Lawrence,Armory,Governor,,Democrat,Johnny L. DuPree,12
+Lawrence,Armory,Lieutenant Governor,,Republican,Tate Reeves,107
+Lawrence,Armory,Lieutenant Governor,,Reform,Tracella Lou O'Hara Hill,5
+Lawrence,Armory,Secretary of State,,Republican,Delbert Hosemann,106
+Lawrence,Armory,Attorney General,,Democrat,Jim Hood,51
+Lawrence,Armory,Attorney General,,Republican,Steve Simpson,60
+Lawrence,Armory,State Auditor,,Republican,Stacey E. Pickering,105
+Lawrence,Armory,State Auditor,,Reform,Ashley Norwood,3
+Lawrence,Armory,Treasurer,,Republican,Lynn Fitch,93
+Lawrence,Armory,Treasurer,,Democrat,Connie Moran,16
+Lawrence,Armory,Treasurer,,Reform,Shawn O'Hara,1
+Lawrence,Armory,Commissioner of Agriculture & Commerce,,Democrat,Joel Gill,15
+Lawrence,Armory,Commissioner of Agriculture & Commerce,,Republican,Cindy Hyde-Smith,97
+Lawrence,Armory,Commissioner of Agriculture & Commerce,,Reform,Cathy L. Toole,0
+Lawrence,Armory,Commissioner of Insurance,,Republican,Mike Chaney,102
+Lawrence,Armory,Commissioner of Insurance,,Democrat,Louis Fondren,8
+Lawrence,Armory,Commissioner of Insurance,,Reform,Barbara Dale Washer,1
+Lawrence,Armory,State Senate,39,Republican,Sally Doty,84
+Lawrence,Armory,State Senate,39,Democrat,W.L. Rayborn,29
+Lawrence,Armory,State House,53,Democrat,Bobby Moak,x
+Lawrence,Armory,State House,91,Republican,Cindy Shivers Bryan,65
+Lawrence,Armory,State House,91,Democrat,Bob Evans,47
+Lawrence,Armory,State House,97,Republican,"Sam C. Mims, V",x
+Lawrence,Grange,Governor,,Republican,Phil Bryant,134
+Lawrence,Grange,Governor,,Democrat,Johnny L. DuPree,29
+Lawrence,Grange,Lieutenant Governor,,Republican,Tate Reeves,146
+Lawrence,Grange,Lieutenant Governor,,Reform,Tracella Lou O'Hara Hill,15
+Lawrence,Grange,Secretary of State,,Republican,Delbert Hosemann,150
+Lawrence,Grange,Attorney General,,Democrat,Jim Hood,94
+Lawrence,Grange,Attorney General,,Republican,Steve Simpson,68
+Lawrence,Grange,State Auditor,,Republican,Stacey E. Pickering,143
+Lawrence,Grange,State Auditor,,Reform,Ashley Norwood,12
+Lawrence,Grange,Treasurer,,Republican,Lynn Fitch,136
+Lawrence,Grange,Treasurer,,Democrat,Connie Moran,22
+Lawrence,Grange,Treasurer,,Reform,Shawn O'Hara,5
+Lawrence,Grange,Commissioner of Agriculture & Commerce,,Democrat,Joel Gill,24
+Lawrence,Grange,Commissioner of Agriculture & Commerce,,Republican,Cindy Hyde-Smith,133
+Lawrence,Grange,Commissioner of Agriculture & Commerce,,Reform,Cathy L. Toole,4
+Lawrence,Grange,Commissioner of Insurance,,Republican,Mike Chaney,131
+Lawrence,Grange,Commissioner of Insurance,,Democrat,Louis Fondren,22
+Lawrence,Grange,Commissioner of Insurance,,Reform,Barbara Dale Washer,4
+Lawrence,Grange,State Senate,39,Republican,Sally Doty,101
+Lawrence,Grange,State Senate,39,Democrat,W.L. Rayborn,59
+Lawrence,Grange,State House,53,Democrat,Bobby Moak,x
+Lawrence,Grange,State House,91,Republican,Cindy Shivers Bryan,103
+Lawrence,Grange,State House,91,Democrat,Bob Evans,60
+Lawrence,Grange,State House,97,Republican,"Sam C. Mims, V",x
+Lawrence,Hooker,Governor,,Republican,Phil Bryant,46
+Lawrence,Hooker,Governor,,Democrat,Johnny L. DuPree,114
+Lawrence,Hooker,Lieutenant Governor,,Republican,Tate Reeves,72
+Lawrence,Hooker,Lieutenant Governor,,Reform,Tracella Lou O'Hara Hill,65
+Lawrence,Hooker,Secretary of State,,Republican,Delbert Hosemann,110
+Lawrence,Hooker,Attorney General,,Democrat,Jim Hood,142
+Lawrence,Hooker,Attorney General,,Republican,Steve Simpson,17
+Lawrence,Hooker,State Auditor,,Republican,Stacey E. Pickering,57
+Lawrence,Hooker,State Auditor,,Reform,Ashley Norwood,77
+Lawrence,Hooker,Treasurer,,Republican,Lynn Fitch,48
+Lawrence,Hooker,Treasurer,,Democrat,Connie Moran,108
+Lawrence,Hooker,Treasurer,,Reform,Shawn O'Hara,1
+Lawrence,Hooker,Commissioner of Agriculture & Commerce,,Democrat,Joel Gill,104
+Lawrence,Hooker,Commissioner of Agriculture & Commerce,,Republican,Cindy Hyde-Smith,54
+Lawrence,Hooker,Commissioner of Agriculture & Commerce,,Reform,Cathy L. Toole,1
+Lawrence,Hooker,Commissioner of Insurance,,Republican,Mike Chaney,44
+Lawrence,Hooker,Commissioner of Insurance,,Democrat,Louis Fondren,107
+Lawrence,Hooker,Commissioner of Insurance,,Reform,Barbara Dale Washer,5
+Lawrence,Hooker,State Senate,39,Republican,Sally Doty,32
+Lawrence,Hooker,State Senate,39,Democrat,W.L. Rayborn,127
+Lawrence,Hooker,State House,53,Democrat,Bobby Moak,x
+Lawrence,Hooker,State House,91,Republican,Cindy Shivers Bryan,23
+Lawrence,Hooker,State House,91,Democrat,Bob Evans,137
+Lawrence,Hooker,State House,97,Republican,"Sam C. Mims, V",x
+Lawrence,New Hebron,Governor,,Republican,Phil Bryant,309
+Lawrence,New Hebron,Governor,,Democrat,Johnny L. DuPree,67
+Lawrence,New Hebron,Lieutenant Governor,,Republican,Tate Reeves,328
+Lawrence,New Hebron,Lieutenant Governor,,Reform,Tracella Lou O'Hara Hill,28
+Lawrence,New Hebron,Secretary of State,,Republican,Delbert Hosemann,323
+Lawrence,New Hebron,Attorney General,,Democrat,Jim Hood,182
+Lawrence,New Hebron,Attorney General,,Republican,Steve Simpson,184
+Lawrence,New Hebron,State Auditor,,Republican,Stacey E. Pickering,307
+Lawrence,New Hebron,State Auditor,,Reform,Ashley Norwood,40
+Lawrence,New Hebron,Treasurer,,Republican,Lynn Fitch,298
+Lawrence,New Hebron,Treasurer,,Democrat,Connie Moran,59
+Lawrence,New Hebron,Treasurer,,Reform,Shawn O'Hara,10
+Lawrence,New Hebron,Commissioner of Agriculture & Commerce,,Democrat,Joel Gill,97
+Lawrence,New Hebron,Commissioner of Agriculture & Commerce,,Republican,Cindy Hyde-Smith,266
+Lawrence,New Hebron,Commissioner of Agriculture & Commerce,,Reform,Cathy L. Toole,8
+Lawrence,New Hebron,Commissioner of Insurance,,Republican,Mike Chaney,299
+Lawrence,New Hebron,Commissioner of Insurance,,Democrat,Louis Fondren,51
+Lawrence,New Hebron,Commissioner of Insurance,,Reform,Barbara Dale Washer,11
+Lawrence,New Hebron,State Senate,39,Republican,Sally Doty,261
+Lawrence,New Hebron,State Senate,39,Democrat,W.L. Rayborn,107
+Lawrence,New Hebron,State House,53,Democrat,Bobby Moak,x
+Lawrence,New Hebron,State House,91,Republican,Cindy Shivers Bryan,211
+Lawrence,New Hebron,State House,91,Democrat,Bob Evans,152
+Lawrence,New Hebron,State House,97,Republican,"Sam C. Mims, V",x
+Lawrence,Stringer,Governor,,Republican,Phil Bryant,111
+Lawrence,Stringer,Governor,,Democrat,Johnny L. DuPree,147
+Lawrence,Stringer,Lieutenant Governor,,Republican,Tate Reeves,168
+Lawrence,Stringer,Lieutenant Governor,,Reform,Tracella Lou O'Hara Hill,55
+Lawrence,Stringer,Secretary of State,,Republican,Delbert Hosemann,189
+Lawrence,Stringer,Attorney General,,Democrat,Jim Hood,186
+Lawrence,Stringer,Attorney General,,Republican,Steve Simpson,66
+Lawrence,Stringer,State Auditor,,Republican,Stacey E. Pickering,141
+Lawrence,Stringer,State Auditor,,Reform,Ashley Norwood,72
+Lawrence,Stringer,Treasurer,,Republican,Lynn Fitch,111
+Lawrence,Stringer,Treasurer,,Democrat,Connie Moran,135
+Lawrence,Stringer,Treasurer,,Reform,Shawn O'Hara,8
+Lawrence,Stringer,Commissioner of Agriculture & Commerce,,Democrat,Joel Gill,142
+Lawrence,Stringer,Commissioner of Agriculture & Commerce,,Republican,Cindy Hyde-Smith,106
+Lawrence,Stringer,Commissioner of Agriculture & Commerce,,Reform,Cathy L. Toole,2
+Lawrence,Stringer,Commissioner of Insurance,,Republican,Mike Chaney,117
+Lawrence,Stringer,Commissioner of Insurance,,Democrat,Louis Fondren,128
+Lawrence,Stringer,Commissioner of Insurance,,Reform,Barbara Dale Washer,8
+Lawrence,Stringer,State Senate,39,Republican,Sally Doty,87
+Lawrence,Stringer,State Senate,39,Democrat,W.L. Rayborn,167
+Lawrence,Stringer,State House,53,Democrat,Bobby Moak,x
+Lawrence,Stringer,State House,91,Republican,Cindy Shivers Bryan,83
+Lawrence,Stringer,State House,91,Democrat,Bob Evans,171
+Lawrence,Stringer,State House,97,Republican,"Sam C. Mims, V",x
+Lawrence,East Arm,Governor,,Republican,Phil Bryant,89
+Lawrence,East Arm,Governor,,Democrat,Johnny L. DuPree,102
+Lawrence,East Arm,Lieutenant Governor,,Republican,Tate Reeves,128
+Lawrence,East Arm,Lieutenant Governor,,Reform,Tracella Lou O'Hara Hill,48
+Lawrence,East Arm,Secretary of State,,Republican,Delbert Hosemann,159
+Lawrence,East Arm,Attorney General,,Democrat,Jim Hood,140
+Lawrence,East Arm,Attorney General,,Republican,Steve Simpson,50
+Lawrence,East Arm,State Auditor,,Republican,Stacey E. Pickering,112
+Lawrence,East Arm,State Auditor,,Reform,Ashley Norwood,61
+Lawrence,East Arm,Treasurer,,Republican,Lynn Fitch,99
+Lawrence,East Arm,Treasurer,,Democrat,Connie Moran,86
+Lawrence,East Arm,Treasurer,,Reform,Shawn O'Hara,4
+Lawrence,East Arm,Commissioner of Agriculture & Commerce,,Democrat,Joel Gill,77
+Lawrence,East Arm,Commissioner of Agriculture & Commerce,,Republican,Cindy Hyde-Smith,113
+Lawrence,East Arm,Commissioner of Agriculture & Commerce,,Reform,Cathy L. Toole,1
+Lawrence,East Arm,Commissioner of Insurance,,Republican,Mike Chaney,96
+Lawrence,East Arm,Commissioner of Insurance,,Democrat,Louis Fondren,87
+Lawrence,East Arm,Commissioner of Insurance,,Reform,Barbara Dale Washer,5
+Lawrence,East Arm,State Senate,39,Republican,Sally Doty,72
+Lawrence,East Arm,State Senate,39,Democrat,W.L. Rayborn,119
+Lawrence,East Arm,State House,53,Democrat,Bobby Moak,x
+Lawrence,East Arm,State House,91,Republican,Cindy Shivers Bryan,70
+Lawrence,East Arm,State House,91,Democrat,Bob Evans,122
+Lawrence,East Arm,State House,97,Republican,"Sam C. Mims, V",x
+Lawrence,Monticello-Beat 5,Governor,,Republican,Phil Bryant,8
+Lawrence,Monticello-Beat 5,Governor,,Democrat,Johnny L. DuPree,87
+Lawrence,Monticello-Beat 5,Lieutenant Governor,,Republican,Tate Reeves,25
+Lawrence,Monticello-Beat 5,Lieutenant Governor,,Reform,Tracella Lou O'Hara Hill,43
+Lawrence,Monticello-Beat 5,Secretary of State,,Republican,Delbert Hosemann,49
+Lawrence,Monticello-Beat 5,Attorney General,,Democrat,Jim Hood,89
+Lawrence,Monticello-Beat 5,Attorney General,,Republican,Steve Simpson,5
+Lawrence,Monticello-Beat 5,State Auditor,,Republican,Stacey E. Pickering,17
+Lawrence,Monticello-Beat 5,State Auditor,,Reform,Ashley Norwood,49
+Lawrence,Monticello-Beat 5,Treasurer,,Republican,Lynn Fitch,14
+Lawrence,Monticello-Beat 5,Treasurer,,Democrat,Connie Moran,76
+Lawrence,Monticello-Beat 5,Treasurer,,Reform,Shawn O'Hara,2
+Lawrence,Monticello-Beat 5,Commissioner of Agriculture & Commerce,,Democrat,Joel Gill,76
+Lawrence,Monticello-Beat 5,Commissioner of Agriculture & Commerce,,Republican,Cindy Hyde-Smith,16
+Lawrence,Monticello-Beat 5,Commissioner of Agriculture & Commerce,,Reform,Cathy L. Toole,1
+Lawrence,Monticello-Beat 5,Commissioner of Insurance,,Republican,Mike Chaney,15
+Lawrence,Monticello-Beat 5,Commissioner of Insurance,,Democrat,Louis Fondren,74
+Lawrence,Monticello-Beat 5,Commissioner of Insurance,,Reform,Barbara Dale Washer,3
+Lawrence,Monticello-Beat 5,State Senate,39,Republican,Sally Doty,4
+Lawrence,Monticello-Beat 5,State Senate,39,Democrat,W.L. Rayborn,90
+Lawrence,Monticello-Beat 5,State House,53,Democrat,Bobby Moak,x
+Lawrence,Monticello-Beat 5,State House,91,Republican,Cindy Shivers Bryan,5
+Lawrence,Monticello-Beat 5,State House,91,Democrat,Bob Evans,88
+Lawrence,Monticello-Beat 5,State House,97,Republican,"Sam C. Mims, V",x
+Lawrence,North Silver Creek,Governor,,Republican,Phil Bryant,58
+Lawrence,North Silver Creek,Governor,,Democrat,Johnny L. DuPree,42
+Lawrence,North Silver Creek,Lieutenant Governor,,Republican,Tate Reeves,68
+Lawrence,North Silver Creek,Lieutenant Governor,,Reform,Tracella Lou O'Hara Hill,26
+Lawrence,North Silver Creek,Secretary of State,,Republican,Delbert Hosemann,82
+Lawrence,North Silver Creek,Attorney General,,Democrat,Jim Hood,74
+Lawrence,North Silver Creek,Attorney General,,Republican,Steve Simpson,25
+Lawrence,North Silver Creek,State Auditor,,Republican,Stacey E. Pickering,55
+Lawrence,North Silver Creek,State Auditor,,Reform,Ashley Norwood,33
+Lawrence,North Silver Creek,Treasurer,,Republican,Lynn Fitch,51
+Lawrence,North Silver Creek,Treasurer,,Democrat,Connie Moran,43
+Lawrence,North Silver Creek,Treasurer,,Reform,Shawn O'Hara,5
+Lawrence,North Silver Creek,Commissioner of Agriculture & Commerce,,Democrat,Joel Gill,46
+Lawrence,North Silver Creek,Commissioner of Agriculture & Commerce,,Republican,Cindy Hyde-Smith,53
+Lawrence,North Silver Creek,Commissioner of Agriculture & Commerce,,Reform,Cathy L. Toole,2
+Lawrence,North Silver Creek,Commissioner of Insurance,,Republican,Mike Chaney,55
+Lawrence,North Silver Creek,Commissioner of Insurance,,Democrat,Louis Fondren,39
+Lawrence,North Silver Creek,Commissioner of Insurance,,Reform,Barbara Dale Washer,3
+Lawrence,North Silver Creek,State Senate,39,Republican,Sally Doty,39
+Lawrence,North Silver Creek,State Senate,39,Democrat,W.L. Rayborn,59
+Lawrence,North Silver Creek,State House,53,Democrat,Bobby Moak,x
+Lawrence,North Silver Creek,State House,91,Republican,Cindy Shivers Bryan,30
+Lawrence,North Silver Creek,State House,91,Democrat,Bob Evans,67
+Lawrence,North Silver Creek,State House,97,Republican,"Sam C. Mims, V",x
+Lawrence,Nola,Governor,,Republican,Phil Bryant,50
+Lawrence,Nola,Governor,,Democrat,Johnny L. DuPree,48
+Lawrence,Nola,Lieutenant Governor,,Republican,Tate Reeves,67
+Lawrence,Nola,Lieutenant Governor,,Reform,Tracella Lou O'Hara Hill,24
+Lawrence,Nola,Secretary of State,,Republican,Delbert Hosemann,78
+Lawrence,Nola,Attorney General,,Democrat,Jim Hood,65
+Lawrence,Nola,Attorney General,,Republican,Steve Simpson,32
+Lawrence,Nola,State Auditor,,Republican,Stacey E. Pickering,58
+Lawrence,Nola,State Auditor,,Reform,Ashley Norwood,32
+Lawrence,Nola,Treasurer,,Republican,Lynn Fitch,49
+Lawrence,Nola,Treasurer,,Democrat,Connie Moran,41
+Lawrence,Nola,Treasurer,,Reform,Shawn O'Hara,5
+Lawrence,Nola,Commissioner of Agriculture & Commerce,,Democrat,Joel Gill,49
+Lawrence,Nola,Commissioner of Agriculture & Commerce,,Republican,Cindy Hyde-Smith,47
+Lawrence,Nola,Commissioner of Agriculture & Commerce,,Reform,Cathy L. Toole,0
+Lawrence,Nola,Commissioner of Insurance,,Republican,Mike Chaney,49
+Lawrence,Nola,Commissioner of Insurance,,Democrat,Louis Fondren,44
+Lawrence,Nola,Commissioner of Insurance,,Reform,Barbara Dale Washer,3
+Lawrence,Nola,State Senate,39,Republican,Sally Doty,36
+Lawrence,Nola,State Senate,39,Democrat,W.L. Rayborn,60
+Lawrence,Nola,State House,53,Democrat,Bobby Moak,x
+Lawrence,Nola,State House,91,Republican,Cindy Shivers Bryan,27
+Lawrence,Nola,State House,91,Democrat,Bob Evans,69
+Lawrence,Nola,State House,97,Republican,"Sam C. Mims, V",x
+Lawrence,Oakvale,Governor,,Republican,Phil Bryant,80
+Lawrence,Oakvale,Governor,,Democrat,Johnny L. DuPree,19
+Lawrence,Oakvale,Lieutenant Governor,,Republican,Tate Reeves,89
+Lawrence,Oakvale,Lieutenant Governor,,Reform,Tracella Lou O'Hara Hill,9
+Lawrence,Oakvale,Secretary of State,,Republican,Delbert Hosemann,94
+Lawrence,Oakvale,Attorney General,,Democrat,Jim Hood,45
+Lawrence,Oakvale,Attorney General,,Republican,Steve Simpson,55
+Lawrence,Oakvale,State Auditor,,Republican,Stacey E. Pickering,86
+Lawrence,Oakvale,State Auditor,,Reform,Ashley Norwood,12
+Lawrence,Oakvale,Treasurer,,Republican,Lynn Fitch,81
+Lawrence,Oakvale,Treasurer,,Democrat,Connie Moran,11
+Lawrence,Oakvale,Treasurer,,Reform,Shawn O'Hara,7
+Lawrence,Oakvale,Commissioner of Agriculture & Commerce,,Democrat,Joel Gill,11
+Lawrence,Oakvale,Commissioner of Agriculture & Commerce,,Republican,Cindy Hyde-Smith,87
+Lawrence,Oakvale,Commissioner of Agriculture & Commerce,,Reform,Cathy L. Toole,1
+Lawrence,Oakvale,Commissioner of Insurance,,Republican,Mike Chaney,84
+Lawrence,Oakvale,Commissioner of Insurance,,Democrat,Louis Fondren,11
+Lawrence,Oakvale,Commissioner of Insurance,,Reform,Barbara Dale Washer,3
+Lawrence,Oakvale,State Senate,39,Republican,Sally Doty,72
+Lawrence,Oakvale,State Senate,39,Democrat,W.L. Rayborn,27
+Lawrence,Oakvale,State House,53,Democrat,Bobby Moak,x
+Lawrence,Oakvale,State House,91,Republican,Cindy Shivers Bryan,x
+Lawrence,Oakvale,State House,91,Democrat,Bob Evans,x
+Lawrence,Oakvale,State House,97,Republican,"Sam C. Mims, V",95
+Lawrence,Peyton Town,Governor,,Republican,Phil Bryant,23
+Lawrence,Peyton Town,Governor,,Democrat,Johnny L. DuPree,120
+Lawrence,Peyton Town,Lieutenant Governor,,Republican,Tate Reeves,54
+Lawrence,Peyton Town,Lieutenant Governor,,Reform,Tracella Lou O'Hara Hill,61
+Lawrence,Peyton Town,Secretary of State,,Republican,Delbert Hosemann,84
+Lawrence,Peyton Town,Attorney General,,Democrat,Jim Hood,128
+Lawrence,Peyton Town,Attorney General,,Republican,Steve Simpson,13
+Lawrence,Peyton Town,State Auditor,,Republican,Stacey E. Pickering,37
+Lawrence,Peyton Town,State Auditor,,Reform,Ashley Norwood,80
+Lawrence,Peyton Town,Treasurer,,Republican,Lynn Fitch,29
+Lawrence,Peyton Town,Treasurer,,Democrat,Connie Moran,99
+Lawrence,Peyton Town,Treasurer,,Reform,Shawn O'Hara,10
+Lawrence,Peyton Town,Commissioner of Agriculture & Commerce,,Democrat,Joel Gill,102
+Lawrence,Peyton Town,Commissioner of Agriculture & Commerce,,Republican,Cindy Hyde-Smith,38
+Lawrence,Peyton Town,Commissioner of Agriculture & Commerce,,Reform,Cathy L. Toole,3
+Lawrence,Peyton Town,Commissioner of Insurance,,Republican,Mike Chaney,28
+Lawrence,Peyton Town,Commissioner of Insurance,,Democrat,Louis Fondren,98
+Lawrence,Peyton Town,Commissioner of Insurance,,Reform,Barbara Dale Washer,10
+Lawrence,Peyton Town,State Senate,39,Republican,Sally Doty,28
+Lawrence,Peyton Town,State Senate,39,Democrat,W.L. Rayborn,116
+Lawrence,Peyton Town,State House,53,Democrat,Bobby Moak,x
+Lawrence,Peyton Town,State House,91,Republican,Cindy Shivers Bryan,15
+Lawrence,Peyton Town,State House,91,Democrat,Bob Evans,128
+Lawrence,Peyton Town,State House,97,Republican,"Sam C. Mims, V",x
+Lawrence,South Silver Creek,Governor,,Republican,Phil Bryant,98
+Lawrence,South Silver Creek,Governor,,Democrat,Johnny L. DuPree,145
+Lawrence,South Silver Creek,Lieutenant Governor,,Republican,Tate Reeves,146
+Lawrence,South Silver Creek,Lieutenant Governor,,Reform,Tracella Lou O'Hara Hill,61
+Lawrence,South Silver Creek,Secretary of State,,Republican,Delbert Hosemann,176
+Lawrence,South Silver Creek,Attorney General,,Democrat,Jim Hood,183
+Lawrence,South Silver Creek,Attorney General,,Republican,Steve Simpson,57
+Lawrence,South Silver Creek,State Auditor,,Republican,Stacey E. Pickering,131
+Lawrence,South Silver Creek,State Auditor,,Reform,Ashley Norwood,74
+Lawrence,South Silver Creek,Treasurer,,Republican,Lynn Fitch,89
+Lawrence,South Silver Creek,Treasurer,,Democrat,Connie Moran,138
+Lawrence,South Silver Creek,Treasurer,,Reform,Shawn O'Hara,9
+Lawrence,South Silver Creek,Commissioner of Agriculture & Commerce,,Democrat,Joel Gill,131
+Lawrence,South Silver Creek,Commissioner of Agriculture & Commerce,,Republican,Cindy Hyde-Smith,105
+Lawrence,South Silver Creek,Commissioner of Agriculture & Commerce,,Reform,Cathy L. Toole,2
+Lawrence,South Silver Creek,Commissioner of Insurance,,Republican,Mike Chaney,97
+Lawrence,South Silver Creek,Commissioner of Insurance,,Democrat,Louis Fondren,133
+Lawrence,South Silver Creek,Commissioner of Insurance,,Reform,Barbara Dale Washer,6
+Lawrence,South Silver Creek,State Senate,39,Republican,Sally Doty,90
+Lawrence,South Silver Creek,State Senate,39,Democrat,W.L. Rayborn,149
+Lawrence,South Silver Creek,State House,53,Democrat,Bobby Moak,x
+Lawrence,South Silver Creek,State House,91,Republican,Cindy Shivers Bryan,76
+Lawrence,South Silver Creek,State House,91,Democrat,Bob Evans,164
+Lawrence,South Silver Creek,State House,97,Republican,"Sam C. Mims, V",x
+Lawrence,West Arm,Governor,,Republican,Phil Bryant,59
+Lawrence,West Arm,Governor,,Democrat,Johnny L. DuPree,105
+Lawrence,West Arm,Lieutenant Governor,,Republican,Tate Reeves,107
+Lawrence,West Arm,Lieutenant Governor,,Reform,Tracella Lou O'Hara Hill,31
+Lawrence,West Arm,Secretary of State,,Republican,Delbert Hosemann,118
+Lawrence,West Arm,Attorney General,,Democrat,Jim Hood,124
+Lawrence,West Arm,Attorney General,,Republican,Steve Simpson,39
+Lawrence,West Arm,State Auditor,,Republican,Stacey E. Pickering,88
+Lawrence,West Arm,State Auditor,,Reform,Ashley Norwood,41
+Lawrence,West Arm,Treasurer,,Republican,Lynn Fitch,67
+Lawrence,West Arm,Treasurer,,Democrat,Connie Moran,93
+Lawrence,West Arm,Treasurer,,Reform,Shawn O'Hara,2
+Lawrence,West Arm,Commissioner of Agriculture & Commerce,,Democrat,Joel Gill,88
+Lawrence,West Arm,Commissioner of Agriculture & Commerce,,Republican,Cindy Hyde-Smith,73
+Lawrence,West Arm,Commissioner of Agriculture & Commerce,,Reform,Cathy L. Toole,2
+Lawrence,West Arm,Commissioner of Insurance,,Republican,Mike Chaney,68
+Lawrence,West Arm,Commissioner of Insurance,,Democrat,Louis Fondren,87
+Lawrence,West Arm,Commissioner of Insurance,,Reform,Barbara Dale Washer,5
+Lawrence,West Arm,State Senate,39,Republican,Sally Doty,61
+Lawrence,West Arm,State Senate,39,Democrat,W.L. Rayborn,103
+Lawrence,West Arm,State House,53,Democrat,Bobby Moak,x
+Lawrence,West Arm,State House,91,Republican,Cindy Shivers Bryan,47
+Lawrence,West Arm,State House,91,Democrat,Bob Evans,118
+Lawrence,West Arm,State House,97,Republican,"Sam C. Mims, V",x
+Lawrence,West Monticello - 53,Governor,,Republican,Phil Bryant,28
+Lawrence,West Monticello - 53,Governor,,Democrat,Johnny L. DuPree,0
+Lawrence,West Monticello - 53,Lieutenant Governor,,Republican,Tate Reeves,28
+Lawrence,West Monticello - 53,Lieutenant Governor,,Reform,Tracella Lou O'Hara Hill,0
+Lawrence,West Monticello - 53,Secretary of State,,Republican,Delbert Hosemann,27
+Lawrence,West Monticello - 53,Attorney General,,Democrat,Jim Hood,13
+Lawrence,West Monticello - 53,Attorney General,,Republican,Steve Simpson,15
+Lawrence,West Monticello - 53,State Auditor,,Republican,Stacey E. Pickering,26
+Lawrence,West Monticello - 53,State Auditor,,Reform,Ashley Norwood,2
+Lawrence,West Monticello - 53,Treasurer,,Republican,Lynn Fitch,25
+Lawrence,West Monticello - 53,Treasurer,,Democrat,Connie Moran,3
+Lawrence,West Monticello - 53,Treasurer,,Reform,Shawn O'Hara,0
+Lawrence,West Monticello - 53,Commissioner of Agriculture & Commerce,,Democrat,Joel Gill,2
+Lawrence,West Monticello - 53,Commissioner of Agriculture & Commerce,,Republican,Cindy Hyde-Smith,26
+Lawrence,West Monticello - 53,Commissioner of Agriculture & Commerce,,Reform,Cathy L. Toole,0
+Lawrence,West Monticello - 53,Commissioner of Insurance,,Republican,Mike Chaney,27
+Lawrence,West Monticello - 53,Commissioner of Insurance,,Democrat,Louis Fondren,1
+Lawrence,West Monticello - 53,Commissioner of Insurance,,Reform,Barbara Dale Washer,0
+Lawrence,West Monticello - 53,State Senate,39,Republican,Sally Doty,18
+Lawrence,West Monticello - 53,State Senate,39,Democrat,W.L. Rayborn,9
+Lawrence,West Monticello - 53,State House,53,Democrat,Bobby Moak,22
+Lawrence,West Monticello - 53,State House,91,Republican,Cindy Shivers Bryan,x
+Lawrence,West Monticello - 53,State House,91,Democrat,Bob Evans,x
+Lawrence,West Monticello - 53,State House,97,Republican,"Sam C. Mims, V",x
+Lawrence,Oakvale-91,Governor,,Republican,Phil Bryant,14
+Lawrence,Oakvale-91,Governor,,Democrat,Johnny L. DuPree,3
+Lawrence,Oakvale-91,Lieutenant Governor,,Republican,Tate Reeves,14
+Lawrence,Oakvale-91,Lieutenant Governor,,Reform,Tracella Lou O'Hara Hill,2
+Lawrence,Oakvale-91,Secretary of State,,Republican,Delbert Hosemann,16
+Lawrence,Oakvale-91,Attorney General,,Democrat,Jim Hood,10
+Lawrence,Oakvale-91,Attorney General,,Republican,Steve Simpson,7
+Lawrence,Oakvale-91,State Auditor,,Republican,Stacey E. Pickering,13
+Lawrence,Oakvale-91,State Auditor,,Reform,Ashley Norwood,3
+Lawrence,Oakvale-91,Treasurer,,Republican,Lynn Fitch,12
+Lawrence,Oakvale-91,Treasurer,,Democrat,Connie Moran,4
+Lawrence,Oakvale-91,Treasurer,,Reform,Shawn O'Hara,0
+Lawrence,Oakvale-91,Commissioner of Agriculture & Commerce,,Democrat,Joel Gill,1
+Lawrence,Oakvale-91,Commissioner of Agriculture & Commerce,,Republican,Cindy Hyde-Smith,14
+Lawrence,Oakvale-91,Commissioner of Agriculture & Commerce,,Reform,Cathy L. Toole,1
+Lawrence,Oakvale-91,Commissioner of Insurance,,Republican,Mike Chaney,15
+Lawrence,Oakvale-91,Commissioner of Insurance,,Democrat,Louis Fondren,2
+Lawrence,Oakvale-91,Commissioner of Insurance,,Reform,Barbara Dale Washer,0
+Lawrence,Oakvale-91,State Senate,39,Republican,Sally Doty,8
+Lawrence,Oakvale-91,State Senate,39,Democrat,W.L. Rayborn,9
+Lawrence,Oakvale-91,State House,53,Democrat,Bobby Moak,x
+Lawrence,Oakvale-91,State House,91,Republican,Cindy Shivers Bryan,6
+Lawrence,Oakvale-91,State House,91,Democrat,Bob Evans,11
+Lawrence,Oakvale-91,State House,97,Republican,"Sam C. Mims, V",x
+Lawrence,Oma,Governor,,Republican,Phil Bryant,51
+Lawrence,Oma,Governor,,Democrat,Johnny L. DuPree,206
+Lawrence,Oma,Lieutenant Governor,,Republican,Tate Reeves,114
+Lawrence,Oma,Lieutenant Governor,,Reform,Tracella Lou O'Hara Hill,100
+Lawrence,Oma,Secretary of State,,Republican,Delbert Hosemann,173
+Lawrence,Oma,Attorney General,,Democrat,Jim Hood,218
+Lawrence,Oma,Attorney General,,Republican,Steve Simpson,35
+Lawrence,Oma,State Auditor,,Republican,Stacey E. Pickering,99
+Lawrence,Oma,State Auditor,,Reform,Ashley Norwood,110
+Lawrence,Oma,Treasurer,,Republican,Lynn Fitch,63
+Lawrence,Oma,Treasurer,,Democrat,Connie Moran,178
+Lawrence,Oma,Treasurer,,Reform,Shawn O'Hara,12
+Lawrence,Oma,Commissioner of Agriculture & Commerce,,Democrat,Joel Gill,164
+Lawrence,Oma,Commissioner of Agriculture & Commerce,,Republican,Cindy Hyde-Smith,88
+Lawrence,Oma,Commissioner of Agriculture & Commerce,,Reform,Cathy L. Toole,2
+Lawrence,Oma,Commissioner of Insurance,,Republican,Mike Chaney,70
+Lawrence,Oma,Commissioner of Insurance,,Democrat,Louis Fondren,166
+Lawrence,Oma,Commissioner of Insurance,,Reform,Barbara Dale Washer,16
+Lawrence,Oma,State Senate,39,Republican,Sally Doty,49
+Lawrence,Oma,State Senate,39,Democrat,W.L. Rayborn,206
+Lawrence,Oma,State House,53,Democrat,Bobby Moak,x
+Lawrence,Oma,State House,91,Republican,Cindy Shivers Bryan,40
+Lawrence,Oma,State House,91,Democrat,Bob Evans,215
+Lawrence,Oma,State House,97,Republican,"Sam C. Mims, V",x
+Lawrence,Sontag,Governor,,Republican,Phil Bryant,194
+Lawrence,Sontag,Governor,,Democrat,Johnny L. DuPree,88
+Lawrence,Sontag,Lieutenant Governor,,Republican,Tate Reeves,228
+Lawrence,Sontag,Lieutenant Governor,,Reform,Tracella Lou O'Hara Hill,36
+Lawrence,Sontag,Secretary of State,,Republican,Delbert Hosemann,238
+Lawrence,Sontag,Attorney General,,Democrat,Jim Hood,181
+Lawrence,Sontag,Attorney General,,Republican,Steve Simpson,97
+Lawrence,Sontag,State Auditor,,Republican,Stacey E. Pickering,205
+Lawrence,Sontag,State Auditor,,Reform,Ashley Norwood,55
+Lawrence,Sontag,Treasurer,,Republican,Lynn Fitch,182
+Lawrence,Sontag,Treasurer,,Democrat,Connie Moran,82
+Lawrence,Sontag,Treasurer,,Reform,Shawn O'Hara,10
+Lawrence,Sontag,Commissioner of Agriculture & Commerce,,Democrat,Joel Gill,70
+Lawrence,Sontag,Commissioner of Agriculture & Commerce,,Republican,Cindy Hyde-Smith,206
+Lawrence,Sontag,Commissioner of Agriculture & Commerce,,Reform,Cathy L. Toole,4
+Lawrence,Sontag,Commissioner of Insurance,,Republican,Mike Chaney,181
+Lawrence,Sontag,Commissioner of Insurance,,Democrat,Louis Fondren,78
+Lawrence,Sontag,Commissioner of Insurance,,Reform,Barbara Dale Washer,12
+Lawrence,Sontag,State Senate,39,Republican,Sally Doty,138
+Lawrence,Sontag,State Senate,39,Democrat,W.L. Rayborn,143
+Lawrence,Sontag,State House,53,Democrat,Bobby Moak,x
+Lawrence,Sontag,State House,91,Republican,Cindy Shivers Bryan,112
+Lawrence,Sontag,State House,91,Democrat,Bob Evans,167
+Lawrence,Sontag,State House,97,Republican,"Sam C. Mims, V",x
+Lawrence,Wanilla,Governor,,Republican,Phil Bryant,68
+Lawrence,Wanilla,Governor,,Democrat,Johnny L. DuPree,41
+Lawrence,Wanilla,Lieutenant Governor,,Republican,Tate Reeves,77
+Lawrence,Wanilla,Lieutenant Governor,,Reform,Tracella Lou O'Hara Hill,20
+Lawrence,Wanilla,Secretary of State,,Republican,Delbert Hosemann,85
+Lawrence,Wanilla,Attorney General,,Democrat,Jim Hood,74
+Lawrence,Wanilla,Attorney General,,Republican,Steve Simpson,30
+Lawrence,Wanilla,State Auditor,,Republican,Stacey E. Pickering,66
+Lawrence,Wanilla,State Auditor,,Reform,Ashley Norwood,27
+Lawrence,Wanilla,Treasurer,,Republican,Lynn Fitch,59
+Lawrence,Wanilla,Treasurer,,Democrat,Connie Moran,41
+Lawrence,Wanilla,Treasurer,,Reform,Shawn O'Hara,3
+Lawrence,Wanilla,Commissioner of Agriculture & Commerce,,Democrat,Joel Gill,42
+Lawrence,Wanilla,Commissioner of Agriculture & Commerce,,Republican,Cindy Hyde-Smith,63
+Lawrence,Wanilla,Commissioner of Agriculture & Commerce,,Reform,Cathy L. Toole,2
+Lawrence,Wanilla,Commissioner of Insurance,,Republican,Mike Chaney,67
+Lawrence,Wanilla,Commissioner of Insurance,,Democrat,Louis Fondren,34
+Lawrence,Wanilla,Commissioner of Insurance,,Reform,Barbara Dale Washer,1
+Lawrence,Wanilla,State Senate,39,Republican,Sally Doty,57
+Lawrence,Wanilla,State Senate,39,Democrat,W.L. Rayborn,51
+Lawrence,Wanilla,State House,53,Democrat,Bobby Moak,x
+Lawrence,Wanilla,State House,91,Republican,Cindy Shivers Bryan,42
+Lawrence,Wanilla,State House,91,Democrat,Bob Evans,66
+Lawrence,Wanilla,State House,97,Republican,"Sam C. Mims, V",x
+Lawrence,Precinct 53,Governor,,Republican,Phil Bryant,122
+Lawrence,Precinct 53,Governor,,Democrat,Johnny L. DuPree,15
+Lawrence,Precinct 53,Lieutenant Governor,,Republican,Tate Reeves,132
+Lawrence,Precinct 53,Lieutenant Governor,,Reform,Tracella Lou O'Hara Hill,2
+Lawrence,Precinct 53,Secretary of State,,Republican,Delbert Hosemann,127
+Lawrence,Precinct 53,Attorney General,,Democrat,Jim Hood,58
+Lawrence,Precinct 53,Attorney General,,Republican,Steve Simpson,77
+Lawrence,Precinct 53,State Auditor,,Republican,Stacey E. Pickering,125
+Lawrence,Precinct 53,State Auditor,,Reform,Ashley Norwood,7
+Lawrence,Precinct 53,Treasurer,,Republican,Lynn Fitch,118
+Lawrence,Precinct 53,Treasurer,,Democrat,Connie Moran,14
+Lawrence,Precinct 53,Treasurer,,Reform,Shawn O'Hara,3
+Lawrence,Precinct 53,Commissioner of Agriculture & Commerce,,Democrat,Joel Gill,25
+Lawrence,Precinct 53,Commissioner of Agriculture & Commerce,,Republican,Cindy Hyde-Smith,110
+Lawrence,Precinct 53,Commissioner of Agriculture & Commerce,,Reform,Cathy L. Toole,2
+Lawrence,Precinct 53,Commissioner of Insurance,,Republican,Mike Chaney,122
+Lawrence,Precinct 53,Commissioner of Insurance,,Democrat,Louis Fondren,12
+Lawrence,Precinct 53,Commissioner of Insurance,,Reform,Barbara Dale Washer,2
+Lawrence,Precinct 53,State Senate,39,Republican,Sally Doty,111
+Lawrence,Precinct 53,State Senate,39,Democrat,W.L. Rayborn,25
+Lawrence,Precinct 53,State House,53,Democrat,Bobby Moak,121
+Lawrence,Precinct 53,State House,91,Republican,Cindy Shivers Bryan,x
+Lawrence,Precinct 53,State House,91,Democrat,Bob Evans,x
+Lawrence,Precinct 53,State House,97,Republican,"Sam C. Mims, V",x
+Lawrence,West Monticello (A-Z),Governor,,Republican,Phil Bryant,243
+Lawrence,West Monticello (A-Z),Governor,,Democrat,Johnny L. DuPree,220
+Lawrence,West Monticello (A-Z),Lieutenant Governor,,Republican,Tate Reeves,310
+Lawrence,West Monticello (A-Z),Lieutenant Governor,,Reform,Tracella Lou O'Hara Hill,108
+Lawrence,West Monticello (A-Z),Secretary of State,,Republican,Delbert Hosemann,351
+Lawrence,West Monticello (A-Z),Attorney General,,Democrat,Jim Hood,326
+Lawrence,West Monticello (A-Z),Attorney General,,Republican,Steve Simpson,129
+Lawrence,West Monticello (A-Z),State Auditor,,Republican,Stacey E. Pickering,274
+Lawrence,West Monticello (A-Z),State Auditor,,Reform,Ashley Norwood,127
+Lawrence,West Monticello (A-Z),Treasurer,,Republican,Lynn Fitch,240
+Lawrence,West Monticello (A-Z),Treasurer,,Democrat,Connie Moran,200
+Lawrence,West Monticello (A-Z),Treasurer,,Reform,Shawn O'Hara,13
+Lawrence,West Monticello (A-Z),Commissioner of Agriculture & Commerce,,Democrat,Joel Gill,205
+Lawrence,West Monticello (A-Z),Commissioner of Agriculture & Commerce,,Republican,Cindy Hyde-Smith,250
+Lawrence,West Monticello (A-Z),Commissioner of Agriculture & Commerce,,Reform,Cathy L. Toole,6
+Lawrence,West Monticello (A-Z),Commissioner of Insurance,,Republican,Mike Chaney,245
+Lawrence,West Monticello (A-Z),Commissioner of Insurance,,Democrat,Louis Fondren,186
+Lawrence,West Monticello (A-Z),Commissioner of Insurance,,Reform,Barbara Dale Washer,16
+Lawrence,West Monticello (A-Z),State Senate,39,Republican,Sally Doty,198
+Lawrence,West Monticello (A-Z),State Senate,39,Democrat,W.L. Rayborn,263
+Lawrence,West Monticello (A-Z),State House,53,Democrat,Bobby Moak,x
+Lawrence,West Monticello (A-Z),State House,91,Republican,Cindy Shivers Bryan,159
+Lawrence,West Monticello (A-Z),State House,91,Democrat,Bob Evans,306
+Lawrence,West Monticello (A-Z),State House,97,Republican,"Sam C. Mims, V",x
+Lawrence,Center,Governor,,Republican,Phil Bryant,136
+Lawrence,Center,Governor,,Democrat,Johnny L. DuPree,13
+Lawrence,Center,Lieutenant Governor,,Republican,Tate Reeves,142
+Lawrence,Center,Lieutenant Governor,,Reform,Tracella Lou O'Hara Hill,5
+Lawrence,Center,Secretary of State,,Republican,Delbert Hosemann,139
+Lawrence,Center,Attorney General,,Democrat,Jim Hood,83
+Lawrence,Center,Attorney General,,Republican,Steve Simpson,67
+Lawrence,Center,State Auditor,,Republican,Stacey E. Pickering,132
+Lawrence,Center,State Auditor,,Reform,Ashley Norwood,14
+Lawrence,Center,Treasurer,,Republican,Lynn Fitch,126
+Lawrence,Center,Treasurer,,Democrat,Connie Moran,18
+Lawrence,Center,Treasurer,,Reform,Shawn O'Hara,5
+Lawrence,Center,Commissioner of Agriculture & Commerce,,Democrat,Joel Gill,26
+Lawrence,Center,Commissioner of Agriculture & Commerce,,Republican,Cindy Hyde-Smith,122
+Lawrence,Center,Commissioner of Agriculture & Commerce,,Reform,Cathy L. Toole,1
+Lawrence,Center,Commissioner of Insurance,,Republican,Mike Chaney,129
+Lawrence,Center,Commissioner of Insurance,,Democrat,Louis Fondren,14
+Lawrence,Center,Commissioner of Insurance,,Reform,Barbara Dale Washer,3
+Lawrence,Center,State Senate,39,Republican,Sally Doty,97
+Lawrence,Center,State Senate,39,Democrat,W.L. Rayborn,51
+Lawrence,Center,State House,53,Democrat,Bobby Moak,123
+Lawrence,Center,State House,91,Republican,Cindy Shivers Bryan,x
+Lawrence,Center,State House,91,Democrat,Bob Evans,x
+Lawrence,Center,State House,97,Republican,"Sam C. Mims, V",x
+Lawrence,Coopers Creek (A-Z),Governor,,Republican,Phil Bryant,369
+Lawrence,Coopers Creek (A-Z),Governor,,Democrat,Johnny L. DuPree,64
+Lawrence,Coopers Creek (A-Z),Lieutenant Governor,,Republican,Tate Reeves,405
+Lawrence,Coopers Creek (A-Z),Lieutenant Governor,,Reform,Tracella Lou O'Hara Hill,20
+Lawrence,Coopers Creek (A-Z),Secretary of State,,Republican,Delbert Hosemann,400
+Lawrence,Coopers Creek (A-Z),Attorney General,,Democrat,Jim Hood,258
+Lawrence,Coopers Creek (A-Z),Attorney General,,Republican,Steve Simpson,174
+Lawrence,Coopers Creek (A-Z),State Auditor,,Republican,Stacey E. Pickering,386
+Lawrence,Coopers Creek (A-Z),State Auditor,,Reform,Ashley Norwood,32
+Lawrence,Coopers Creek (A-Z),Treasurer,,Republican,Lynn Fitch,356
+Lawrence,Coopers Creek (A-Z),Treasurer,,Democrat,Connie Moran,64
+Lawrence,Coopers Creek (A-Z),Treasurer,,Reform,Shawn O'Hara,11
+Lawrence,Coopers Creek (A-Z),Commissioner of Agriculture & Commerce,,Democrat,Joel Gill,49
+Lawrence,Coopers Creek (A-Z),Commissioner of Agriculture & Commerce,,Republican,Cindy Hyde-Smith,379
+Lawrence,Coopers Creek (A-Z),Commissioner of Agriculture & Commerce,,Reform,Cathy L. Toole,4
+Lawrence,Coopers Creek (A-Z),Commissioner of Insurance,,Republican,Mike Chaney,370
+Lawrence,Coopers Creek (A-Z),Commissioner of Insurance,,Democrat,Louis Fondren,43
+Lawrence,Coopers Creek (A-Z),Commissioner of Insurance,,Reform,Barbara Dale Washer,14
+Lawrence,Coopers Creek (A-Z),State Senate,39,Republican,Sally Doty,274
+Lawrence,Coopers Creek (A-Z),State Senate,39,Democrat,W.L. Rayborn,159
+Lawrence,Coopers Creek (A-Z),State House,53,Democrat,Bobby Moak,383
+Lawrence,Coopers Creek (A-Z),State House,91,Republican,Cindy Shivers Bryan,x
+Lawrence,Coopers Creek (A-Z),State House,91,Democrat,Bob Evans,x
+Lawrence,Coopers Creek (A-Z),State House,97,Republican,"Sam C. Mims, V",x
+Lawrence,Jayess,Governor,,Republican,Phil Bryant,275
+Lawrence,Jayess,Governor,,Democrat,Johnny L. DuPree,33
+Lawrence,Jayess,Lieutenant Governor,,Republican,Tate Reeves,280
+Lawrence,Jayess,Lieutenant Governor,,Reform,Tracella Lou O'Hara Hill,16
+Lawrence,Jayess,Secretary of State,,Republican,Delbert Hosemann,289
+Lawrence,Jayess,Attorney General,,Democrat,Jim Hood,142
+Lawrence,Jayess,Attorney General,,Republican,Steve Simpson,160
+Lawrence,Jayess,State Auditor,,Republican,Stacey E. Pickering,272
+Lawrence,Jayess,State Auditor,,Reform,Ashley Norwood,21
+Lawrence,Jayess,Treasurer,,Republican,Lynn Fitch,253
+Lawrence,Jayess,Treasurer,,Democrat,Connie Moran,37
+Lawrence,Jayess,Treasurer,,Reform,Shawn O'Hara,9
+Lawrence,Jayess,Commissioner of Agriculture & Commerce,,Democrat,Joel Gill,41
+Lawrence,Jayess,Commissioner of Agriculture & Commerce,,Republican,Cindy Hyde-Smith,259
+Lawrence,Jayess,Commissioner of Agriculture & Commerce,,Reform,Cathy L. Toole,7
+Lawrence,Jayess,Commissioner of Insurance,,Republican,Mike Chaney,263
+Lawrence,Jayess,Commissioner of Insurance,,Democrat,Louis Fondren,26
+Lawrence,Jayess,Commissioner of Insurance,,Reform,Barbara Dale Washer,8
+Lawrence,Jayess,State Senate,39,Republican,Sally Doty,217
+Lawrence,Jayess,State Senate,39,Democrat,W.L. Rayborn,88
+Lawrence,Jayess,State House,53,Democrat,Bobby Moak,x
+Lawrence,Jayess,State House,91,Republican,Cindy Shivers Bryan,x
+Lawrence,Jayess,State House,91,Democrat,Bob Evans,x
+Lawrence,Jayess,State House,97,Republican,"Sam C. Mims, V",281
+Lawrence,,Governor,,Republican,Phil Bryant,3756
+Lawrence,,Governor,,Democrat,Johnny L. DuPree,1980
+Lawrence,,Lieutenant Governor,,Republican,Tate Reeves,4452
+Lawrence,,Lieutenant Governor,,Reform,Tracella Lou O'Hara Hill,879
+Lawrence,,Secretary of State,,Republican,Delbert Hosemann,4798
+Lawrence,,Attorney General,,Democrat,Jim Hood,3620
+Lawrence,,Attorney General,,Republican,Steve Simpson,2046
+Lawrence,,State Auditor,,Republican,Stacey E. Pickering,4070
+Lawrence,,State Auditor,,Reform,Ashley Norwood,1144
+Lawrence,,Treasurer,,Republican,Lynn Fitch,3639
+Lawrence,,Treasurer,,Democrat,Connie Moran,1814
+Lawrence,,Treasurer,,Reform,Shawn O'Hara,185
+Lawrence,,Commissioner of Agriculture & Commerce,,Democrat,Joel Gill,1849
+Lawrence,,Commissioner of Agriculture & Commerce,,Republican,Cindy Hyde-Smith,3781
+Lawrence,,Commissioner of Agriculture & Commerce,,Reform,Cathy L. Toole,66
+Lawrence,,Commissioner of Insurance,,Republican,Mike Chaney,3749
+Lawrence,,Commissioner of Insurance,,Democrat,Louis Fondren,1654
+Lawrence,,Commissioner of Insurance,,Reform,Barbara Dale Washer,183
+Lawrence,,State Senate,39,Republican,Sally Doty,3023
+Lawrence,,State Senate,39,Democrat,W.L. Rayborn,2671
+Lawrence,,State House,53,Democrat,Bobby Moak,874
+Lawrence,,State House,91,Republican,Cindy Shivers Bryan,1591
+Lawrence,,State House,91,Democrat,Bob Evans,2526
+Lawrence,,State House,97,Republican,"Sam C. Mims, V",519

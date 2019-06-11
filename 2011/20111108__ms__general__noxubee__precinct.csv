@@ -1,6 +1,6 @@
 county,precinct,office,district,party,candidate,votes
-Noxubee,Brooksville,Governor,,Republican,Phil Bryant,551
-Noxubee,Brooksville,Governor,,Democrat,Johnny L. DuPree,236
+Noxubee,Brooksville,Governor,,Democrat,Johnny L. DuPree,551
+Noxubee,Brooksville,Governor,,Republican,Phil Bryant,236
 Noxubee,Brooksville,Lieutenant Governor,,Republican,Tate Reeves,367
 Noxubee,Brooksville,Lieutenant Governor,,Reform,Tracella Lou O'Hara Hill,192
 Noxubee,Brooksville,Secretary of State,,Republican,Delbert Hosemann,409
@@ -8,8 +8,8 @@ Noxubee,Brooksville,Attorney General,,Democrat,Jim Hood,569
 Noxubee,Brooksville,Attorney General,,Republican,Steve Simpson,183
 Noxubee,Brooksville,State Auditor,,Republican,Stacey E. Pickering,329
 Noxubee,Brooksville,State Auditor,,Reform,Ashley Norwood,212
-Noxubee,Brooksville,Treasurer,,Republican,Lynn Fitch,494
-Noxubee,Brooksville,Treasurer,,Democrat,Connie Moran,245
+Noxubee,Brooksville,Treasurer,,Democrat,Connie Moran,494
+Noxubee,Brooksville,Treasurer,,Republican,Lynn Fitch,245
 Noxubee,Brooksville,Treasurer,,Reform,Shawn O'Hara,21
 Noxubee,Brooksville,Commissioner of Agriculture & Commerce,,Democrat,Joel Gill,509
 Noxubee,Brooksville,Commissioner of Agriculture & Commerce,,Republican,Cindy Hyde-Smith,230
@@ -19,10 +19,10 @@ Noxubee,Brooksville,Commissioner of Insurance,,Republican,Mike Chaney,247
 Noxubee,Brooksville,Commissioner of Insurance,,Reform,Barbara Dale Washer,22
 Noxubee,Brooksville,State Senate,16,Democrat,Bennie L. Turner,575
 Noxubee,Brooksville,State House,38,Democrat,Tyrone Ellis,424
-Noxubee,Brooksville,State House,42,Democrat,Percy L. Dickson,136
+Noxubee,Brooksville,State House,42,Democrat,Reecy L. Dickson,136
 Noxubee,Brooksville,State House,42,Independent,Roy O. VanDevender,61
-Noxubee,Mashulaville,Governor,,Republican,Phil Bryant,118
-Noxubee,Mashulaville,Governor,,Democrat,Johnny L. DuPree,91
+Noxubee,Mashulaville,Governor,,Democrat,Johnny L. DuPree,118
+Noxubee,Mashulaville,Governor,,Republican,Phil Bryant,91
 Noxubee,Mashulaville,Lieutenant Governor,,Republican,Tate Reeves,130
 Noxubee,Mashulaville,Lieutenant Governor,,Reform,Tracella Lou O'Hara Hill,50
 Noxubee,Mashulaville,Secretary of State,,Republican,Delbert Hosemann,148
@@ -30,8 +30,8 @@ Noxubee,Mashulaville,Attorney General,,Democrat,Jim Hood,142
 Noxubee,Mashulaville,Attorney General,,Republican,Steve Simpson,64
 Noxubee,Mashulaville,State Auditor,,Republican,Stacey E. Pickering,111
 Noxubee,Mashulaville,State Auditor,,Reform,Ashley Norwood,58
-Noxubee,Mashulaville,Treasurer,,Republican,Lynn Fitch,104
-Noxubee,Mashulaville,Treasurer,,Democrat,Connie Moran,99
+Noxubee,Mashulaville,Treasurer,,Democrat,Connie Moran,104
+Noxubee,Mashulaville,Treasurer,,Republican,Lynn Fitch,99
 Noxubee,Mashulaville,Treasurer,,Reform,Shawn O'Hara,1
 Noxubee,Mashulaville,Commissioner of Agriculture & Commerce,,Democrat,Joel Gill,111
 Noxubee,Mashulaville,Commissioner of Agriculture & Commerce,,Republican,Cindy Hyde-Smith,91
@@ -40,10 +40,10 @@ Noxubee,Mashulaville,Commissioner of Insurance,,Democrat,Louis Fondren,105
 Noxubee,Mashulaville,Commissioner of Insurance,,Republican,Mike Chaney,94
 Noxubee,Mashulaville,Commissioner of Insurance,,Reform,Barbara Dale Washer,5
 Noxubee,Mashulaville,State Senate,32,Democrat,"Sampson Jackson, II",166
-Noxubee,Mashulaville,State House,42,Democrat,Percy L. Dickson,118
+Noxubee,Mashulaville,State House,42,Democrat,Reecy L. Dickson,118
 Noxubee,Mashulaville,State House,42,Independent,Roy O. VanDevender,84
-Noxubee,Prairie Point,Governor,,Republican,Phil Bryant,239
-Noxubee,Prairie Point,Governor,,Democrat,Johnny L. DuPree,31
+Noxubee,Prairie Point,Governor,,Democrat,Johnny L. DuPree,239
+Noxubee,Prairie Point,Governor,,Republican,Phil Bryant,31
 Noxubee,Prairie Point,Lieutenant Governor,,Republican,Tate Reeves,84
 Noxubee,Prairie Point,Lieutenant Governor,,Reform,Tracella Lou O'Hara Hill,64
 Noxubee,Prairie Point,Secretary of State,,Republican,Delbert Hosemann,86
@@ -51,18 +51,20 @@ Noxubee,Prairie Point,Attorney General,,Democrat,Jim Hood,215
 Noxubee,Prairie Point,Attorney General,,Republican,Steve Simpson,27
 Noxubee,Prairie Point,State Auditor,,Republican,Stacey E. Pickering,58
 Noxubee,Prairie Point,State Auditor,,Reform,Ashley Norwood,75
-Noxubee,Prairie Point,Treasurer,,Republican,Lynn Fitch,200
-Noxubee,Prairie Point,Treasurer,,Democrat,Connie Moran,32
+Noxubee,Prairie Point,Treasurer,,Democrat,Connie Moran,200
+Noxubee,Prairie Point,Treasurer,,Republican,Lynn Fitch,32
 Noxubee,Prairie Point,Treasurer,,Reform,Shawn O'Hara,4
 Noxubee,Prairie Point,Commissioner of Agriculture & Commerce,,Democrat,Joel Gill,202
 Noxubee,Prairie Point,Commissioner of Agriculture & Commerce,,Republican,Cindy Hyde-Smith,29
 Noxubee,Prairie Point,Commissioner of Agriculture & Commerce,,Reform,Cathy L. Toole,2
 Noxubee,Prairie Point,Commissioner of Insurance,,Democrat,Louis Fondren,196
 Noxubee,Prairie Point,Commissioner of Insurance,,Republican,Mike Chaney,30
-Noxubee,Prairie Point,Commissioner of Insurance,,Reform,Barbara Dale Washer,12
+Noxubee,Prairie Point,Commissioner of Insurance,,Reform,Barbara Dale Washer,6
 Noxubee,Prairie Point,State Senate,16,Democrat,Bennie L. Turner,180
-Noxubee,Shuqualak,Governor,,Republican,Phil Bryant,329
-Noxubee,Shuqualak,Governor,,Democrat,Johnny L. DuPree,142
+Noxubee,Prairie Point,State House,42,Democrat,Reecy L. Dickson,231
+Noxubee,Prairie Point,State House,42,Independent,Roy O. VanDevender,30
+Noxubee,Shuqualak,Governor,,Democrat,Johnny L. DuPree,329
+Noxubee,Shuqualak,Governor,,Republican,Phil Bryant,142
 Noxubee,Shuqualak,Lieutenant Governor,,Republican,Tate Reeves,191
 Noxubee,Shuqualak,Lieutenant Governor,,Reform,Tracella Lou O'Hara Hill,123
 Noxubee,Shuqualak,Secretary of State,,Republican,Delbert Hosemann,224
@@ -70,8 +72,8 @@ Noxubee,Shuqualak,Attorney General,,Democrat,Jim Hood,363
 Noxubee,Shuqualak,Attorney General,,Republican,Steve Simpson,95
 Noxubee,Shuqualak,State Auditor,,Republican,Stacey E. Pickering,171
 Noxubee,Shuqualak,State Auditor,,Reform,Ashley Norwood,121
-Noxubee,Shuqualak,Treasurer,,Republican,Lynn Fitch,300
-Noxubee,Shuqualak,Treasurer,,Democrat,Connie Moran,143
+Noxubee,Shuqualak,Treasurer,,Democrat,Connie Moran,300
+Noxubee,Shuqualak,Treasurer,,Republican,Lynn Fitch,143
 Noxubee,Shuqualak,Treasurer,,Reform,Shawn O'Hara,11
 Noxubee,Shuqualak,Commissioner of Agriculture & Commerce,,Democrat,Joel Gill,314
 Noxubee,Shuqualak,Commissioner of Agriculture & Commerce,,Republican,Cindy Hyde-Smith,131
@@ -80,10 +82,10 @@ Noxubee,Shuqualak,Commissioner of Insurance,,Democrat,Louis Fondren,289
 Noxubee,Shuqualak,Commissioner of Insurance,,Republican,Mike Chaney,146
 Noxubee,Shuqualak,Commissioner of Insurance,,Reform,Barbara Dale Washer,12
 Noxubee,Shuqualak,State Senate,32,Democrat,"Sampson Jackson, II",380
-Noxubee,Shuqualak,State House,42,Democrat,Percy L. Dickson,326
+Noxubee,Shuqualak,State House,42,Democrat,Reecy L. Dickson,326
 Noxubee,Shuqualak,State House,42,Independent,Roy O. VanDevender,138
-Noxubee,Summerville,Governor,,Republican,Phil Bryant,13
-Noxubee,Summerville,Governor,,Democrat,Johnny L. DuPree,60
+Noxubee,Summerville,Governor,,Democrat,Johnny L. DuPree,13
+Noxubee,Summerville,Governor,,Republican,Phil Bryant,60
 Noxubee,Summerville,Lieutenant Governor,,Republican,Tate Reeves,62
 Noxubee,Summerville,Lieutenant Governor,,Reform,Tracella Lou O'Hara Hill,4
 Noxubee,Summerville,Secretary of State,,Republican,Delbert Hosemann,62
@@ -91,8 +93,8 @@ Noxubee,Summerville,Attorney General,,Democrat,Jim Hood,31
 Noxubee,Summerville,Attorney General,,Republican,Steve Simpson,40
 Noxubee,Summerville,State Auditor,,Republican,Stacey E. Pickering,60
 Noxubee,Summerville,State Auditor,,Reform,Ashley Norwood,6
-Noxubee,Summerville,Treasurer,,Republican,Lynn Fitch,14
-Noxubee,Summerville,Treasurer,,Democrat,Connie Moran,52
+Noxubee,Summerville,Treasurer,,Democrat,Connie Moran,14
+Noxubee,Summerville,Treasurer,,Republican,Lynn Fitch,52
 Noxubee,Summerville,Treasurer,,Reform,Shawn O'Hara,2
 Noxubee,Summerville,Commissioner of Agriculture & Commerce,,Democrat,Joel Gill,17
 Noxubee,Summerville,Commissioner of Agriculture & Commerce,,Republican,Cindy Hyde-Smith,47
@@ -101,12 +103,12 @@ Noxubee,Summerville,Commissioner of Insurance,,Democrat,Louis Fondren,12
 Noxubee,Summerville,Commissioner of Insurance,,Republican,Mike Chaney,55
 Noxubee,Summerville,Commissioner of Insurance,,Reform,Barbara Dale Washer,2
 Noxubee,Summerville,State Senate,32,Democrat,"Sampson Jackson, II",56
-Noxubee,Summerville,State House,42,Democrat,Percy L. Dickson,8
+Noxubee,Summerville,State House,42,Democrat,Reecy L. Dickson,8
 Noxubee,Summerville,State House,42,Independent,Roy O. VanDevender,22
 Noxubee,Summerville,State House,43,Democrat,Michael T. Evans,28
 Noxubee,Summerville,State House,43,Republican,Russ C. Nowell,15
-Noxubee,EARL NASH GYM,Governor,,Republican,Phil Bryant,470
-Noxubee,EARL NASH GYM,Governor,,Democrat,Johnny L. DuPree,209
+Noxubee,EARL NASH GYM,Governor,,Democrat,Johnny L. DuPree,470
+Noxubee,EARL NASH GYM,Governor,,Republican,Phil Bryant,209
 Noxubee,EARL NASH GYM,Lieutenant Governor,,Republican,Tate Reeves,297
 Noxubee,EARL NASH GYM,Lieutenant Governor,,Reform,Tracella Lou O'Hara Hill,166
 Noxubee,EARL NASH GYM,Secretary of State,,Republican,Delbert Hosemann,350
@@ -114,8 +116,8 @@ Noxubee,EARL NASH GYM,Attorney General,,Democrat,Jim Hood,472
 Noxubee,EARL NASH GYM,Attorney General,,Republican,Steve Simpson,150
 Noxubee,EARL NASH GYM,State Auditor,,Republican,Stacey E. Pickering,273
 Noxubee,EARL NASH GYM,State Auditor,,Reform,Ashley Norwood,186
-Noxubee,EARL NASH GYM,Treasurer,,Republican,Lynn Fitch,405
-Noxubee,EARL NASH GYM,Treasurer,,Democrat,Connie Moran,211
+Noxubee,EARL NASH GYM,Treasurer,,Democrat,Connie Moran,405
+Noxubee,EARL NASH GYM,Treasurer,,Republican,Lynn Fitch,211
 Noxubee,EARL NASH GYM,Treasurer,,Reform,Shawn O'Hara,8
 Noxubee,EARL NASH GYM,Commissioner of Agriculture & Commerce,,Democrat,Joel Gill,408
 Noxubee,EARL NASH GYM,Commissioner of Agriculture & Commerce,,Republican,Cindy Hyde-Smith,207
@@ -124,10 +126,10 @@ Noxubee,EARL NASH GYM,Commissioner of Insurance,,Democrat,Louis Fondren,385
 Noxubee,EARL NASH GYM,Commissioner of Insurance,,Republican,Mike Chaney,215
 Noxubee,EARL NASH GYM,Commissioner of Insurance,,Reform,Barbara Dale Washer,24
 Noxubee,EARL NASH GYM,State Senate,32,Democrat,"Sampson Jackson, II",500
-Noxubee,EARL NASH GYM,State House,42,Democrat,Percy L. Dickson,435
+Noxubee,EARL NASH GYM,State House,42,Democrat,Reecy L. Dickson,435
 Noxubee,EARL NASH GYM,State House,42,Independent,Roy O. VanDevender,211
-Noxubee,Vo-Tech,Governor,,Republican,Phil Bryant,120
-Noxubee,Vo-Tech,Governor,,Democrat,Johnny L. DuPree,32
+Noxubee,Vo-Tech,Governor,,Democrat,Johnny L. DuPree,120
+Noxubee,Vo-Tech,Governor,,Republican,Phil Bryant,32
 Noxubee,Vo-Tech,Lieutenant Governor,,Republican,Tate Reeves,70
 Noxubee,Vo-Tech,Lieutenant Governor,,Reform,Tracella Lou O'Hara Hill,33
 Noxubee,Vo-Tech,Secretary of State,,Republican,Delbert Hosemann,71
@@ -135,8 +137,8 @@ Noxubee,Vo-Tech,Attorney General,,Democrat,Jim Hood,116
 Noxubee,Vo-Tech,Attorney General,,Republican,Steve Simpson,31
 Noxubee,Vo-Tech,State Auditor,,Republican,Stacey E. Pickering,60
 Noxubee,Vo-Tech,State Auditor,,Reform,Ashley Norwood,34
-Noxubee,Vo-Tech,Treasurer,,Republican,Lynn Fitch,105
-Noxubee,Vo-Tech,Treasurer,,Democrat,Connie Moran,37
+Noxubee,Vo-Tech,Treasurer,,Democrat,Connie Moran,105
+Noxubee,Vo-Tech,Treasurer,,Republican,Lynn Fitch,37
 Noxubee,Vo-Tech,Treasurer,,Reform,Shawn O'Hara,1
 Noxubee,Vo-Tech,Commissioner of Agriculture & Commerce,,Democrat,Joel Gill,108
 Noxubee,Vo-Tech,Commissioner of Agriculture & Commerce,,Republican,Cindy Hyde-Smith,37
@@ -146,30 +148,30 @@ Noxubee,Vo-Tech,Commissioner of Insurance,,Republican,Mike Chaney,37
 Noxubee,Vo-Tech,Commissioner of Insurance,,Reform,Barbara Dale Washer,5
 Noxubee,Vo-Tech,State Senate,32,Democrat,"Sampson Jackson, II",117
 Noxubee,Vo-Tech,State House,38,Democrat,Tyrone Ellis,0
-Noxubee,Savannah,Governor,,Republican,Phil Bryant,53
-Noxubee,Savannah,Governor,,Democrat,Johnny L. DuPree,43
+Noxubee,Savannah,Governor,,Democrat,Johnny L. DuPree,53
+Noxubee,Savannah,Governor,,Republican,Phil Bryant,43
 Noxubee,Savannah,Lieutenant Governor,,Republican,Tate Reeves,50
 Noxubee,Savannah,Lieutenant Governor,,Reform,Tracella Lou O'Hara Hill,30
 Noxubee,Savannah,Secretary of State,,Republican,Delbert Hosemann,60
 Noxubee,Savannah,Attorney General,,Democrat,Jim Hood,59
 Noxubee,Savannah,Attorney General,,Republican,Steve Simpson,33
-Noxubee,Savannah,State Auditor,,Republican,Stacey E. Pickering,42
-Noxubee,Savannah,State Auditor,,Reform,Ashley Norwood,44
-Noxubee,Savannah,Treasurer,,Republican,Lynn Fitch,32
+Noxubee,Savannah,State Auditor,,Republican,Stacey E. Pickering,44
+Noxubee,Savannah,State Auditor,,Reform,Ashley Norwood,32
 Noxubee,Savannah,Treasurer,,Democrat,Connie Moran,48
-Noxubee,Savannah,Treasurer,,Reform,Shawn O'Hara,42
-Noxubee,Savannah,Commissioner of Agriculture & Commerce,,Democrat,Joel Gill,1
-Noxubee,Savannah,Commissioner of Agriculture & Commerce,,Republican,Cindy Hyde-Smith,53
-Noxubee,Savannah,Commissioner of Agriculture & Commerce,,Reform,Cathy L. Toole,38
+Noxubee,Savannah,Treasurer,,Republican,Lynn Fitch,42
+Noxubee,Savannah,Treasurer,,Reform,Shawn O'Hara,1
+Noxubee,Savannah,Commissioner of Agriculture & Commerce,,Democrat,Joel Gill,53
+Noxubee,Savannah,Commissioner of Agriculture & Commerce,,Republican,Cindy Hyde-Smith,38
+Noxubee,Savannah,Commissioner of Agriculture & Commerce,,Reform,Cathy L. Toole,2
 Noxubee,Savannah,Commissioner of Insurance,,Democrat,Louis Fondren,46
 Noxubee,Savannah,Commissioner of Insurance,,Republican,Mike Chaney,45
 Noxubee,Savannah,Commissioner of Insurance,,Reform,Barbara Dale Washer,2
 Noxubee,Savannah,State Senate,16,Democrat,Bennie L. Turner,13
 Noxubee,Savannah,State Senate,32,Democrat,"Sampson Jackson, II",59
-Noxubee,Savannah,State House,42,Democrat,Percy L. Dickson,52
+Noxubee,Savannah,State House,42,Democrat,Reecy L. Dickson,52
 Noxubee,Savannah,State House,42,Independent,Roy O. VanDevender,39
-Noxubee,Cliftonville,Governor,,Republican,Phil Bryant,345
-Noxubee,Cliftonville,Governor,,Democrat,Johnny L. DuPree,34
+Noxubee,Cliftonville,Governor,,Democrat,Johnny L. DuPree,345
+Noxubee,Cliftonville,Governor,,Republican,Phil Bryant,34
 Noxubee,Cliftonville,Lieutenant Governor,,Republican,Tate Reeves,154
 Noxubee,Cliftonville,Lieutenant Governor,,Reform,Tracella Lou O'Hara Hill,92
 Noxubee,Cliftonville,Secretary of State,,Republican,Delbert Hosemann,147
@@ -177,8 +179,8 @@ Noxubee,Cliftonville,Attorney General,,Democrat,Jim Hood,318
 Noxubee,Cliftonville,Attorney General,,Republican,Steve Simpson,44
 Noxubee,Cliftonville,State Auditor,,Republican,Stacey E. Pickering,95
 Noxubee,Cliftonville,State Auditor,,Reform,Ashley Norwood,128
-Noxubee,Cliftonville,Treasurer,,Republican,Lynn Fitch,280
-Noxubee,Cliftonville,Treasurer,,Democrat,Connie Moran,47
+Noxubee,Cliftonville,Treasurer,,Democrat,Connie Moran,280
+Noxubee,Cliftonville,Treasurer,,Republican,Lynn Fitch,47
 Noxubee,Cliftonville,Treasurer,,Reform,Shawn O'Hara,12
 Noxubee,Cliftonville,Commissioner of Agriculture & Commerce,,Democrat,Joel Gill,293
 Noxubee,Cliftonville,Commissioner of Agriculture & Commerce,,Republican,Cindy Hyde-Smith,41
@@ -187,10 +189,10 @@ Noxubee,Cliftonville,Commissioner of Insurance,,Democrat,Louis Fondren,277
 Noxubee,Cliftonville,Commissioner of Insurance,,Republican,Mike Chaney,48
 Noxubee,Cliftonville,Commissioner of Insurance,,Reform,Barbara Dale Washer,17
 Noxubee,Cliftonville,State Senate,16,Democrat,Bennie L. Turner,264
-Noxubee,Cliftonville,State House,42,Democrat,Percy L. Dickson,326
+Noxubee,Cliftonville,State House,42,Democrat,Reecy L. Dickson,326
 Noxubee,Cliftonville,State House,42,Independent,Roy O. VanDevender,49
-Noxubee,District 3 Central,Governor,,Republican,Phil Bryant,598
-Noxubee,District 3 Central,Governor,,Democrat,Johnny L. DuPree,221
+Noxubee,District 3 Central,Governor,,Democrat,Johnny L. DuPree,598
+Noxubee,District 3 Central,Governor,,Republican,Phil Bryant,221
 Noxubee,District 3 Central,Lieutenant Governor,,Republican,Tate Reeves,369
 Noxubee,District 3 Central,Lieutenant Governor,,Reform,Tracella Lou O'Hara Hill,206
 Noxubee,District 3 Central,Secretary of State,,Republican,Delbert Hosemann,404
@@ -198,8 +200,8 @@ Noxubee,District 3 Central,Attorney General,,Democrat,Jim Hood,602
 Noxubee,District 3 Central,Attorney General,,Republican,Steve Simpson,180
 Noxubee,District 3 Central,State Auditor,,Republican,Stacey E. Pickering,307
 Noxubee,District 3 Central,State Auditor,,Reform,Ashley Norwood,246
-Noxubee,District 3 Central,Treasurer,,Republican,Lynn Fitch,515
-Noxubee,District 3 Central,Treasurer,,Democrat,Connie Moran,228
+Noxubee,District 3 Central,Treasurer,,Democrat,Connie Moran,515
+Noxubee,District 3 Central,Treasurer,,Republican,Lynn Fitch,228
 Noxubee,District 3 Central,Treasurer,,Reform,Shawn O'Hara,31
 Noxubee,District 3 Central,Commissioner of Agriculture & Commerce,,Democrat,Joel Gill,535
 Noxubee,District 3 Central,Commissioner of Agriculture & Commerce,,Republican,Cindy Hyde-Smith,226
@@ -208,5 +210,28 @@ Noxubee,District 3 Central,Commissioner of Insurance,,Democrat,Louis Fondren,500
 Noxubee,District 3 Central,Commissioner of Insurance,,Republican,Mike Chaney,240
 Noxubee,District 3 Central,Commissioner of Insurance,,Reform,Barbara Dale Washer,23
 Noxubee,District 3 Central,State Senate,32,Democrat,"Sampson Jackson, II",656
-Noxubee,District 3 Central,State House,42,Democrat,Percy L. Dickson,540
+Noxubee,District 3 Central,State House,42,Democrat,Reecy L. Dickson,540
 Noxubee,District 3 Central,State House,42,Independent,Roy O. VanDevender,261
+Noxubee,,Governor,,Democrat,Johnny L. DuPree,2836
+Noxubee,,Governor,,Republican,Phil Bryant,1099
+Noxubee,,Lieutenant Governor,,Republican,Tate Reeves,1774
+Noxubee,,Lieutenant Governor,,Reform,Tracella Lou O'Hara Hill,960
+Noxubee,,Secretary of State,,Republican,Delbert Hosemann,1961
+Noxubee,,Attorney General,,Democrat,Jim Hood,2887
+Noxubee,,Attorney General,,Republican,Steve Simpson,847
+Noxubee,,State Auditor,,Republican,Stacey E. Pickering,1508
+Noxubee,,State Auditor,,Reform,Ashley Norwood,1098
+Noxubee,,Treasurer,,Republican,Lynn Fitch,1136
+Noxubee,,Treasurer,,Democrat,Connie Moran,2465
+Noxubee,,Treasurer,,Reform,Shawn O'Hara,92
+Noxubee,,Commissioner of Agriculture & Commerce,,Democrat,Joel Gill,2550
+Noxubee,,Commissioner of Agriculture & Commerce,,Republican,Cindy Hyde-Smith,1077
+Noxubee,,Commissioner of Agriculture & Commerce,,Reform,Cathy L. Toole,59
+Noxubee,,Commissioner of Insurance,,Democrat,Louis Fondren,2394
+Noxubee,,Commissioner of Insurance,,Republican,Mike Chaney,1157
+Noxubee,,Commissioner of Insurance,,Reform,Barbara Dale Washer,118
+Noxubee,,State Senate,16,Democrat,Bennie L. Turner,1032
+Noxubee,,State Senate,32,Democrat,"Sampson Jackson, II",1934
+Noxubee,,State House,38,Democrat,Tyrone Ellis,424
+Noxubee,,State House,42,Democrat,Reecy L. Dickson,2172
+Noxubee,,State House,42,Independent,Roy O. VanDevender,895
