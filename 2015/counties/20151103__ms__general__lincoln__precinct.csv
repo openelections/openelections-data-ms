@@ -184,7 +184,7 @@ Lincoln,Halbert Hts,Governor,,Democrat,Robert  Gray,87
 Lincoln,Halbert Hts,Governor,,Reform,Shawn  O'Hara,4
 Lincoln,Halbert Hts,Lieutenant Governor,,Democrat,Tim  Johnson,108
 Lincoln,Halbert Hts,Lieutenant Governor,,Republican,Tate  Reeves,665
-Lincoln,Halbert Hts,Lieutenant Governor,,Libertarian,Ron  Williams,18
+Lincoln,Halbert Hts,Lieutenant Governor,,Libertarian,Ron  Williams,16
 Lincoln,Halbert Hts,Lieutenant Governor,,Reform,Rosa  B.  Williams,1
 Lincoln,Halbert Hts,Secretary of State,,Democrat,Charles  E.  Graham,82
 Lincoln,Halbert Hts,Secretary of State,,Republican,Delbert  Hosemann,704
@@ -227,7 +227,7 @@ Lincoln,High School,State Auditor,,Reform,Lajena  Walley,1
 Lincoln,Johnson,Governor,,Republican,Phil  Bryant,294
 Lincoln,Johnson,Governor,,Democrat,Robert  Gray,47
 Lincoln,Johnson,Governor,,Reform,Shawn  O'Hara,3
-Lincoln,Johnson,Lieutenant Governor,,Democrat,Tim  Johnson,63
+Lincoln,Johnson,Lieutenant Governor,,Democrat,Tim  Johnson,60
 Lincoln,Johnson,Lieutenant Governor,,Republican,Tate  Reeves,276
 Lincoln,Johnson,Lieutenant Governor,,Libertarian,Ron  Williams,5
 Lincoln,Johnson,Lieutenant Governor,,Reform,Rosa  B.  Williams,1
@@ -237,7 +237,7 @@ Lincoln,Johnson,Secretary of State,,Reform,Randy  Walker,6
 Lincoln,Johnson,Attorney General,,Democrat,Jim  Hood,135
 Lincoln,Johnson,Attorney General,,Republican,Mike  Hurst,212
 Lincoln,Johnson,State Auditor,,Republican,Stacey  E.  Pickering,298
-Lincoln,Johnson,State Auditor,,Democrat,Jocelyn  'Joce'  Pepper  Pritchett,45
+Lincoln,Johnson,State Auditor,,Democrat,Jocelyn  'Joce'  Pepper  Pritchett,46
 Lincoln,Johnson,State Auditor,,Reform,Lajena  Walley,1
 Lincoln,Johnson Grove,Governor,,Republican,Phil  Bryant,355
 Lincoln,Johnson Grove,Governor,,Democrat,Robert  Gray,45
@@ -269,7 +269,7 @@ Lincoln,Lipsey,Attorney General,,Republican,Mike  Hurst,187
 Lincoln,Lipsey,State Auditor,,Republican,Stacey  E.  Pickering,259
 Lincoln,Lipsey,State Auditor,,Democrat,Jocelyn  'Joce'  Pepper  Pritchett,133
 Lincoln,Lipsey,State Auditor,,Reform,Lajena  Walley,3
-Lincoln,Little Bahala,Governor,,Republican,Phil  Bryant,131
+Lincoln,Little Bahala,Governor,,Republican,Phil  Bryant,101
 Lincoln,Little Bahala,Governor,,Democrat,Robert  Gray,37
 Lincoln,Little Bahala,Governor,,Reform,Shawn  O'Hara,0
 Lincoln,Little Bahala,Lieutenant Governor,,Democrat,Tim  Johnson,40
@@ -333,7 +333,7 @@ Lincoln,Norfield,Governor,,Republican,Phil  Bryant,140
 Lincoln,Norfield,Governor,,Democrat,Robert  Gray,38
 Lincoln,Norfield,Governor,,Reform,Shawn  O'Hara,2
 Lincoln,Norfield,Lieutenant Governor,,Democrat,Tim  Johnson,36
-Lincoln,Norfield,Lieutenant Governor,,Republican,Tate  Reeves,136
+Lincoln,Norfield,Lieutenant Governor,,Republican,Tate  Reeves,138
 Lincoln,Norfield,Lieutenant Governor,,Libertarian,Ron  Williams,3
 Lincoln,Norfield,Lieutenant Governor,,Reform,Rosa  B.  Williams,1
 Lincoln,Norfield,Secretary of State,,Democrat,Charles  E.  Graham,41
@@ -376,7 +376,7 @@ Lincoln,Old Red Star,State Auditor,,Democrat,Jocelyn  'Joce'  Pepper  Pritchett,
 Lincoln,Old Red Star,State Auditor,,Reform,Lajena  Walley,0
 Lincoln,Pearlhaven,Governor,,Republican,Phil  Bryant,47
 Lincoln,Pearlhaven,Governor,,Democrat,Robert  Gray,146
-Lincoln,Pearlhaven,Governor,,Reform,Shawn  O'Hara,2
+Lincoln,Pearlhaven,Governor,,Reform,Shawn  O'Hara,7
 Lincoln,Pearlhaven,Lieutenant Governor,,Democrat,Tim  Johnson,144
 Lincoln,Pearlhaven,Lieutenant Governor,,Republican,Tate  Reeves,47
 Lincoln,Pearlhaven,Lieutenant Governor,,Libertarian,Ron  Williams,2
@@ -466,7 +466,7 @@ Lincoln,Zetus,State Auditor,,Democrat,Jocelyn  'Joce'  Pepper  Pritchett,39
 Lincoln,Zetus,State Auditor,,Reform,Lajena  Walley,0
 Lincoln,,Governor,,Republican,Phil  Bryant,7984
 Lincoln,,Governor,,Democrat,Robert  Gray,2362
-Lincoln,,Governor,,Reform,Shawn  O'Hara,83
+Lincoln,,Governor,,Reform,Shawn  O'Hara,80
 Lincoln,,Lieutenant Governor,,Democrat,Tim  Johnson,2590
 Lincoln,,Lieutenant Governor,,Republican,Tate  Reeves,7533
 Lincoln,,Lieutenant Governor,,Libertarian,Ron  Williams,141
@@ -616,7 +616,7 @@ Lincoln,Heucks Retreat,Commissioner of Agriculture & Commerce,,Republican,Cindy 
 Lincoln,Heucks Retreat,Commissioner of Agriculture & Commerce,,Reform,Cathy L Toole,4
 Lincoln,Heucks Retreat,Commissioner of Insurance,,Republican,Mike Chaney,333
 Lincoln,Heucks Retreat,State Senate,39,Republican,Sally Doty,272
-Lincoln,Heucks Retreat,State Senate,39,Democrat,Michael Smith,67
+Lincoln,Heucks Retreat,State Senate,39,Democrat,Michael Smith,87
 Lincoln,Heucks Retreat,State House,92,Republican,Becky Currie,332
 Lincoln,High School,State Treasurer,,Republican,Lynn Fitch,81
 Lincoln,High School,State Treasurer,,Reform,Viola McFarland,75
@@ -740,6 +740,7 @@ Lincoln,Rogers Circle,State Senate,39,Republican,Sally Doty,116
 Lincoln,Rogers Circle,State Senate,39,Democrat,Michael Smith,115
 Lincoln,Rogers Circle,State House,53,Republican,Vince Mangold,70
 Lincoln,Rogers Circle,State House,53,Democrat,Bobby Moak,104
+Lincoln,Rogers Circle,State House,92,Republican,Becky Currie,51
 Lincoln,Ruth,State Treasurer,,Republican,Lynn Fitch,323
 Lincoln,Ruth,State Treasurer,,Reform,Viola McFarland,13
 Lincoln,Ruth,Commissioner of Agriculture & Commerce,,Democrat,Addie Lee Green,18
@@ -768,7 +769,7 @@ Lincoln,West Lincoln,Commissioner of Insurance,,Republican,Mike Chaney,503
 Lincoln,West Lincoln,State Senate,39,Republican,Sally Doty,401
 Lincoln,West Lincoln,State Senate,39,Democrat,Michael Smith,116
 Lincoln,West Lincoln,State House,92,Republican,Becky Currie,499
-Lincoln,Zetus,State Treasurer,,Republican,Lynn Fitch,315
+Lincoln,Zetus,State Treasurer,,Republican,Lynn Fitch,316
 Lincoln,Zetus,State Treasurer,,Reform,Viola McFarland,21
 Lincoln,Zetus,Commissioner of Agriculture & Commerce,,Democrat,Addie Lee Green,40
 Lincoln,Zetus,Commissioner of Agriculture & Commerce,,Republican,Cindy Hyde-Smith,311

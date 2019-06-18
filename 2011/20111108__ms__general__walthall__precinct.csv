@@ -1,379 +1,507 @@
 county,precinct,office,district,party,candidate,votes
-Wathall,Midway,Governor,,Republican,Phil Bryant,115
-Wathall,Midway,Governor,,Democrat,Johnny L. DuPree,33
-Wathall,Midway,Lieutenant Governor,,Reform,Tracella Lou O'Hara Hill,14
-Wathall,Midway,Lieutenant Governor,,Republican,Tate Reeves,121
-Wathall,Midway,Secretary of State,,Republican,Delbert Hosemann,126
-Wathall,Midway,Attorney General,,Democrat,Jim Hood,87
-Wathall,Midway,Attorney General,,Republican,Steve Simpson,54
-Wathall,Midway,State Auditor,,Reform,Ashley Norwood,16
-Wathall,Midway,State Auditor,,Republican,Stacey E. Pickering,117
-Wathall,Midway,Treasurer,,Republican,Lynn Fitch,103
-Wathall,Midway,Treasurer,,Democrat,Connie Moran,34
-Wathall,Midway,Treasurer,,Reform,Shawn O'Hara,3
-Wathall,Midway,Commissioner of Agriculture & Commerce,,Democrat,Joel Gill,51
-Wathall,Midway,Commissioner of Agriculture & Commerce,,Republican,Cindy Hyde-Smith,85
-Wathall,Midway,Commissioner of Agriculture & Commerce,,Reform,Cathy L. Toole,1
-Wathall,Midway,Commissioner of Insurance,,Republican,Mike Chaney,111
-Wathall,Midway,Commissioner of Insurance,,Democrat,Louis Fondren,24
-Wathall,Midway,Commissioner of Insurance,,Reform,Barbara Dale Washer,3
-Wathall,Lexie,Governor,,Republican,Phil Bryant,429
-Wathall,Lexie,Governor,,Democrat,Johnny L. DuPree,73
-Wathall,Lexie,Lieutenant Governor,,Reform,Tracella Lou O'Hara Hill,52
-Wathall,Lexie,Lieutenant Governor,,Republican,Tate Reeves,431
-Wathall,Lexie,Secretary of State,,Republican,Delbert Hosemann,457
-Wathall,Lexie,Attorney General,,Democrat,Jim Hood,243
-Wathall,Lexie,Attorney General,,Republican,Steve Simpson,248
-Wathall,Lexie,State Auditor,,Reform,Ashley Norwood,66
-Wathall,Lexie,State Auditor,,Republican,Stacey E. Pickering,405
-Wathall,Lexie,Treasurer,,Republican,Lynn Fitch,391
-Wathall,Lexie,Treasurer,,Democrat,Connie Moran,75
-Wathall,Lexie,Treasurer,,Reform,Shawn O'Hara,22
-Wathall,Lexie,Commissioner of Agriculture & Commerce,,Democrat,Joel Gill,126
-Wathall,Lexie,Commissioner of Agriculture & Commerce,,Republican,Cindy Hyde-Smith,349
-Wathall,Lexie,Commissioner of Agriculture & Commerce,,Reform,Cathy L. Toole,9
-Wathall,Lexie,Commissioner of Insurance,,Republican,Mike Chaney,397
-Wathall,Lexie,Commissioner of Insurance,,Democrat,Louis Fondren,70
-Wathall,Lexie,Commissioner of Insurance,,Reform,Barbara Dale Washer,15
-Wathall,South Kirklin,Governor,,Republican,Phil Bryant,87
-Wathall,South Kirklin,Governor,,Democrat,Johnny L. DuPree,33
-Wathall,South Kirklin,Lieutenant Governor,,Reform,Tracella Lou O'Hara Hill,25
-Wathall,South Kirklin,Lieutenant Governor,,Republican,Tate Reeves,87
-Wathall,South Kirklin,Secretary of State,,Republican,Delbert Hosemann,93
-Wathall,South Kirklin,Attorney General,,Democrat,Jim Hood,71
-Wathall,South Kirklin,Attorney General,,Republican,Steve Simpson,46
-Wathall,South Kirklin,State Auditor,,Reform,Ashley Norwood,21
-Wathall,South Kirklin,State Auditor,,Republican,Stacey E. Pickering,84
-Wathall,South Kirklin,Treasurer,,Republican,Lynn Fitch,79
-Wathall,South Kirklin,Treasurer,,Democrat,Connie Moran,31
-Wathall,South Kirklin,Treasurer,,Reform,Shawn O'Hara,8
-Wathall,South Kirklin,Commissioner of Agriculture & Commerce,,Democrat,Joel Gill,41
-Wathall,South Kirklin,Commissioner of Agriculture & Commerce,,Republican,Cindy Hyde-Smith,71
-Wathall,South Kirklin,Commissioner of Agriculture & Commerce,,Reform,Cathy L. Toole,5
-Wathall,South Kirklin,Commissioner of Insurance,,Republican,Mike Chaney,82
-Wathall,South Kirklin,Commissioner of Insurance,,Democrat,Louis Fondren,32
-Wathall,South Kirklin,Commissioner of Insurance,,Reform,Barbara Dale Washer,2
-Wathall,North Kirklin,Governor,,Republican,Phil Bryant,155
-Wathall,North Kirklin,Governor,,Democrat,Johnny L. DuPree,173
-Wathall,North Kirklin,Lieutenant Governor,,Reform,Tracella Lou O'Hara Hill,87
-Wathall,North Kirklin,Lieutenant Governor,,Republican,Tate Reeves,198
-Wathall,North Kirklin,Secretary of State,,Republican,Delbert Hosemann,232
-Wathall,North Kirklin,Attorney General,,Democrat,Jim Hood,212
-Wathall,North Kirklin,Attorney General,,Republican,Steve Simpson,110
-Wathall,North Kirklin,State Auditor,,Reform,Ashley Norwood,94
-Wathall,North Kirklin,State Auditor,,Republican,Stacey E. Pickering,180
-Wathall,North Kirklin,Treasurer,,Republican,Lynn Fitch,147
-Wathall,North Kirklin,Treasurer,,Democrat,Connie Moran,157
-Wathall,North Kirklin,Treasurer,,Reform,Shawn O'Hara,15
-Wathall,North Kirklin,Commissioner of Agriculture & Commerce,,Democrat,Joel Gill,171
-Wathall,North Kirklin,Commissioner of Agriculture & Commerce,,Republican,Cindy Hyde-Smith,135
-Wathall,North Kirklin,Commissioner of Agriculture & Commerce,,Reform,Cathy L. Toole,10
-Wathall,North Kirklin,Commissioner of Insurance,,Republican,Mike Chaney,161
-Wathall,North Kirklin,Commissioner of Insurance,,Democrat,Louis Fondren,140
-Wathall,North Kirklin,Commissioner of Insurance,,Reform,Barbara Dale Washer,15
-Wathall,East Tylertown,Governor,,Republican,Phil Bryant,64
-Wathall,East Tylertown,Governor,,Democrat,Johnny L. DuPree,8
-Wathall,East Tylertown,Lieutenant Governor,,Reform,Tracella Lou O'Hara Hill,2
-Wathall,East Tylertown,Lieutenant Governor,,Republican,Tate Reeves,68
-Wathall,East Tylertown,Secretary of State,,Republican,Delbert Hosemann,68
-Wathall,East Tylertown,Attorney General,,Democrat,Jim Hood,37
-Wathall,East Tylertown,Attorney General,,Republican,Steve Simpson,33
-Wathall,East Tylertown,State Auditor,,Reform,Ashley Norwood,3
-Wathall,East Tylertown,State Auditor,,Republican,Stacey E. Pickering,67
-Wathall,East Tylertown,Treasurer,,Republican,Lynn Fitch,58
-Wathall,East Tylertown,Treasurer,,Democrat,Connie Moran,8
-Wathall,East Tylertown,Treasurer,,Reform,Shawn O'Hara,5
-Wathall,East Tylertown,Commissioner of Agriculture & Commerce,,Democrat,Joel Gill,17
-Wathall,East Tylertown,Commissioner of Agriculture & Commerce,,Republican,Cindy Hyde-Smith,49
-Wathall,East Tylertown,Commissioner of Agriculture & Commerce,,Reform,Cathy L. Toole,3
-Wathall,East Tylertown,Commissioner of Insurance,,Republican,Mike Chaney,64
-Wathall,East Tylertown,Commissioner of Insurance,,Democrat,Louis Fondren,3
-Wathall,East Tylertown,Commissioner of Insurance,,Reform,Barbara Dale Washer,3
-Wathall,West Tylertown,Governor,,Republican,Phil Bryant,115
-Wathall,West Tylertown,Governor,,Democrat,Johnny L. DuPree,173
-Wathall,West Tylertown,Lieutenant Governor,,Reform,Tracella Lou O'Hara Hill,55
-Wathall,West Tylertown,Lieutenant Governor,,Republican,Tate Reeves,170
-Wathall,West Tylertown,Secretary of State,,Republican,Delbert Hosemann,185
-Wathall,West Tylertown,Attorney General,,Democrat,Jim Hood,194
-Wathall,West Tylertown,Attorney General,,Republican,Steve Simpson,78
-Wathall,West Tylertown,State Auditor,,Reform,Ashley Norwood,77
-Wathall,West Tylertown,State Auditor,,Republican,Stacey E. Pickering,142
-Wathall,West Tylertown,Treasurer,,Republican,Lynn Fitch,124
-Wathall,West Tylertown,Treasurer,,Democrat,Connie Moran,132
-Wathall,West Tylertown,Treasurer,,Reform,Shawn O'Hara,13
-Wathall,West Tylertown,Commissioner of Agriculture & Commerce,,Democrat,Joel Gill,153
-Wathall,West Tylertown,Commissioner of Agriculture & Commerce,,Republican,Cindy Hyde-Smith,110
-Wathall,West Tylertown,Commissioner of Agriculture & Commerce,,Reform,Cathy L. Toole,9
-Wathall,West Tylertown,Commissioner of Insurance,,Republican,Mike Chaney,120
-Wathall,West Tylertown,Commissioner of Insurance,,Democrat,Louis Fondren,135
-Wathall,West Tylertown,Commissioner of Insurance,,Reform,Barbara Dale Washer,18
-Wathall,Mesa,Governor,,Republican,Phil Bryant,39
-Wathall,Mesa,Governor,,Democrat,Johnny L. DuPree,5
-Wathall,Mesa,Lieutenant Governor,,Reform,Tracella Lou O'Hara Hill,2
-Wathall,Mesa,Lieutenant Governor,,Republican,Tate Reeves,42
-Wathall,Mesa,Secretary of State,,Republican,Delbert Hosemann,42
-Wathall,Mesa,Attorney General,,Democrat,Jim Hood,27
-Wathall,Mesa,Attorney General,,Republican,Steve Simpson,17
-Wathall,Mesa,State Auditor,,Reform,Ashley Norwood,3
-Wathall,Mesa,State Auditor,,Republican,Stacey E. Pickering,40
-Wathall,Mesa,Treasurer,,Republican,Lynn Fitch,32
-Wathall,Mesa,Treasurer,,Democrat,Connie Moran,10
-Wathall,Mesa,Treasurer,,Reform,Shawn O'Hara,2
-Wathall,Mesa,Commissioner of Agriculture & Commerce,,Democrat,Joel Gill,13
-Wathall,Mesa,Commissioner of Agriculture & Commerce,,Republican,Cindy Hyde-Smith,31
-Wathall,Mesa,Commissioner of Agriculture & Commerce,,Reform,Cathy L. Toole,0
-Wathall,Mesa,Commissioner of Insurance,,Republican,Mike Chaney,39
-Wathall,Mesa,Commissioner of Insurance,,Democrat,Louis Fondren,4
-Wathall,Mesa,Commissioner of Insurance,,Reform,Barbara Dale Washer,1
-Wathall,South Knoxo,Governor,,Republican,Phil Bryant,65
-Wathall,South Knoxo,Governor,,Democrat,Johnny L. DuPree,27
-Wathall,South Knoxo,Lieutenant Governor,,Reform,Tracella Lou O'Hara Hill,13
-Wathall,South Knoxo,Lieutenant Governor,,Republican,Tate Reeves,71
-Wathall,South Knoxo,Secretary of State,,Republican,Delbert Hosemann,79
-Wathall,South Knoxo,Attorney General,,Democrat,Jim Hood,52
-Wathall,South Knoxo,Attorney General,,Republican,Steve Simpson,35
-Wathall,South Knoxo,State Auditor,,Reform,Ashley Norwood,17
-Wathall,South Knoxo,State Auditor,,Republican,Stacey E. Pickering,66
-Wathall,South Knoxo,Treasurer,,Republican,Lynn Fitch,67
-Wathall,South Knoxo,Treasurer,,Democrat,Connie Moran,17
-Wathall,South Knoxo,Treasurer,,Reform,Shawn O'Hara,6
-Wathall,South Knoxo,Commissioner of Agriculture & Commerce,,Democrat,Joel Gill,28
-Wathall,South Knoxo,Commissioner of Agriculture & Commerce,,Republican,Cindy Hyde-Smith,58
-Wathall,South Knoxo,Commissioner of Agriculture & Commerce,,Reform,Cathy L. Toole,0
-Wathall,South Knoxo,Commissioner of Insurance,,Republican,Mike Chaney,63
-Wathall,South Knoxo,Commissioner of Insurance,,Democrat,Louis Fondren,22
-Wathall,South Knoxo,Commissioner of Insurance,,Reform,Barbara Dale Washer,1
-Wathall,North Knoxo,Governor,,Republican,Phil Bryant,39
-Wathall,North Knoxo,Governor,,Democrat,Johnny L. DuPree,351
-Wathall,North Knoxo,Lieutenant Governor,,Reform,Tracella Lou O'Hara Hill,152
-Wathall,North Knoxo,Lieutenant Governor,,Republican,Tate Reeves,138
-Wathall,North Knoxo,Secretary of State,,Republican,Delbert Hosemann,180
-Wathall,North Knoxo,Attorney General,,Democrat,Jim Hood,351
-Wathall,North Knoxo,Attorney General,,Republican,Steve Simpson,30
-Wathall,North Knoxo,State Auditor,,Reform,Ashley Norwood,157
-Wathall,North Knoxo,State Auditor,,Republican,Stacey E. Pickering,88
-Wathall,North Knoxo,Treasurer,,Republican,Lynn Fitch,66
-Wathall,North Knoxo,Treasurer,,Democrat,Connie Moran,292
-Wathall,North Knoxo,Treasurer,,Reform,Shawn O'Hara,16
-Wathall,North Knoxo,Commissioner of Agriculture & Commerce,,Democrat,Joel Gill,325
-Wathall,North Knoxo,Commissioner of Agriculture & Commerce,,Republican,Cindy Hyde-Smith,44
-Wathall,North Knoxo,Commissioner of Agriculture & Commerce,,Reform,Cathy L. Toole,2
-Wathall,North Knoxo,Commissioner of Insurance,,Republican,Mike Chaney,66
-Wathall,North Knoxo,Commissioner of Insurance,,Democrat,Louis Fondren,292
-Wathall,North Knoxo,Commissioner of Insurance,,Reform,Barbara Dale Washer,8
-Wathall,Dexter,Governor,,Republican,Phil Bryant,311
-Wathall,Dexter,Governor,,Democrat,Johnny L. DuPree,97
-Wathall,Dexter,Lieutenant Governor,,Reform,Tracella Lou O'Hara Hill,52
-Wathall,Dexter,Lieutenant Governor,,Republican,Tate Reeves,332
-Wathall,Dexter,Secretary of State,,Republican,Delbert Hosemann,340
-Wathall,Dexter,Attorney General,,Democrat,Jim Hood,212
-Wathall,Dexter,Attorney General,,Republican,Steve Simpson,189
-Wathall,Dexter,State Auditor,,Reform,Ashley Norwood,65
-Wathall,Dexter,State Auditor,,Republican,Stacey E. Pickering,310
-Wathall,Dexter,Treasurer,,Republican,Lynn Fitch,283
-Wathall,Dexter,Treasurer,,Democrat,Connie Moran,100
-Wathall,Dexter,Treasurer,,Reform,Shawn O'Hara,18
-Wathall,Dexter,Commissioner of Agriculture & Commerce,,Democrat,Joel Gill,128
-Wathall,Dexter,Commissioner of Agriculture & Commerce,,Republican,Cindy Hyde-Smith,261
-Wathall,Dexter,Commissioner of Agriculture & Commerce,,Reform,Cathy L. Toole,8
-Wathall,Dexter,Commissioner of Insurance,,Republican,Mike Chaney,297
-Wathall,Dexter,Commissioner of Insurance,,Democrat,Louis Fondren,82
-Wathall,Dexter,Commissioner of Insurance,,Reform,Barbara Dale Washer,15
-Wathall,Improve,Governor,,Republican,Phil Bryant,245
-Wathall,Improve,Governor,,Democrat,Johnny L. DuPree,99
-Wathall,Improve,Lieutenant Governor,,Reform,Tracella Lou O'Hara Hill,37
-Wathall,Improve,Lieutenant Governor,,Republican,Tate Reeves,250
-Wathall,Improve,Secretary of State,,Republican,Delbert Hosemann,257
-Wathall,Improve,Attorney General,,Democrat,Jim Hood,160
-Wathall,Improve,Attorney General,,Republican,Steve Simpson,173
-Wathall,Improve,State Auditor,,Reform,Ashley Norwood,43
-Wathall,Improve,State Auditor,,Republican,Stacey E. Pickering,244
-Wathall,Improve,Treasurer,,Republican,Lynn Fitch,218
-Wathall,Improve,Treasurer,,Democrat,Connie Moran,91
-Wathall,Improve,Treasurer,,Reform,Shawn O'Hara,20
-Wathall,Improve,Commissioner of Agriculture & Commerce,,Democrat,Joel Gill,122
-Wathall,Improve,Commissioner of Agriculture & Commerce,,Republican,Cindy Hyde-Smith,198
-Wathall,Improve,Commissioner of Agriculture & Commerce,,Reform,Cathy L. Toole,3
-Wathall,Improve,Commissioner of Insurance,,Republican,Mike Chaney,237
-Wathall,Improve,Commissioner of Insurance,,Democrat,Louis Fondren,76
-Wathall,Improve,Commissioner of Insurance,,Reform,Barbara Dale Washer,6
-Wathall,3rd District Tylertown,Governor,,Republican,Phil Bryant,206
-Wathall,3rd District Tylertown,Governor,,Democrat,Johnny L. DuPree,55
-Wathall,3rd District Tylertown,Lieutenant Governor,,Reform,Tracella Lou O'Hara Hill,26
-Wathall,3rd District Tylertown,Lieutenant Governor,,Republican,Tate Reeves,227
-Wathall,3rd District Tylertown,Secretary of State,,Republican,Delbert Hosemann,239
-Wathall,3rd District Tylertown,Attorney General,,Democrat,Jim Hood,136
-Wathall,3rd District Tylertown,Attorney General,,Republican,Steve Simpson,125
-Wathall,3rd District Tylertown,State Auditor,,Reform,Ashley Norwood,37
-Wathall,3rd District Tylertown,State Auditor,,Republican,Stacey E. Pickering,215
-Wathall,3rd District Tylertown,Treasurer,,Republican,Lynn Fitch,201
-Wathall,3rd District Tylertown,Treasurer,,Democrat,Connie Moran,49
-Wathall,3rd District Tylertown,Treasurer,,Reform,Shawn O'Hara,10
-Wathall,3rd District Tylertown,Commissioner of Agriculture & Commerce,,Democrat,Joel Gill,65
-Wathall,3rd District Tylertown,Commissioner of Agriculture & Commerce,,Republican,Cindy Hyde-Smith,189
-Wathall,3rd District Tylertown,Commissioner of Agriculture & Commerce,,Reform,Cathy L. Toole,5
-Wathall,3rd District Tylertown,Commissioner of Insurance,,Republican,Mike Chaney,200
-Wathall,3rd District Tylertown,Commissioner of Insurance,,Democrat,Louis Fondren,48
-Wathall,3rd District Tylertown,Commissioner of Insurance,,Reform,Barbara Dale Washer,9
-Wathall,4th District Tylertown,Governor,,Republican,Phil Bryant,328
-Wathall,4th District Tylertown,Governor,,Democrat,Johnny L. DuPree,49
-Wathall,4th District Tylertown,Lieutenant Governor,,Reform,Tracella Lou O'Hara Hill,31
-Wathall,4th District Tylertown,Lieutenant Governor,,Republican,Tate Reeves,342
-Wathall,4th District Tylertown,Secretary of State,,Republican,Delbert Hosemann,345
-Wathall,4th District Tylertown,Attorney General,,Democrat,Jim Hood,200
-Wathall,4th District Tylertown,Attorney General,,Republican,Steve Simpson,167
-Wathall,4th District Tylertown,State Auditor,,Reform,Ashley Norwood,45
-Wathall,4th District Tylertown,State Auditor,,Republican,Stacey E. Pickering,321
-Wathall,4th District Tylertown,Treasurer,,Republican,Lynn Fitch,305
-Wathall,4th District Tylertown,Treasurer,,Democrat,Connie Moran,54
-Wathall,4th District Tylertown,Treasurer,,Reform,Shawn O'Hara,14
-Wathall,4th District Tylertown,Commissioner of Agriculture & Commerce,,Democrat,Joel Gill,92
-Wathall,4th District Tylertown,Commissioner of Agriculture & Commerce,,Republican,Cindy Hyde-Smith,265
-Wathall,4th District Tylertown,Commissioner of Agriculture & Commerce,,Reform,Cathy L. Toole,11
-Wathall,4th District Tylertown,Commissioner of Insurance,,Republican,Mike Chaney,313
-Wathall,4th District Tylertown,Commissioner of Insurance,,Democrat,Louis Fondren,44
-Wathall,4th District Tylertown,Commissioner of Insurance,,Reform,Barbara Dale Washer,16
-Wathall,Varnel,Governor,,Republican,Phil Bryant,316
-Wathall,Varnel,Governor,,Democrat,Johnny L. DuPree,104
-Wathall,Varnel,Lieutenant Governor,,Reform,Tracella Lou O'Hara Hill,50
-Wathall,Varnel,Lieutenant Governor,,Republican,Tate Reeves,345
-Wathall,Varnel,Secretary of State,,Republican,Delbert Hosemann,351
-Wathall,Varnel,Attorney General,,Democrat,Jim Hood,229
-Wathall,Varnel,Attorney General,,Republican,Steve Simpson,180
-Wathall,Varnel,State Auditor,,Reform,Ashley Norwood,56
-Wathall,Varnel,State Auditor,,Republican,Stacey E. Pickering,326
-Wathall,Varnel,Treasurer,,Republican,Lynn Fitch,299
-Wathall,Varnel,Treasurer,,Democrat,Connie Moran,92
-Wathall,Varnel,Treasurer,,Reform,Shawn O'Hara,19
-Wathall,Varnel,Commissioner of Agriculture & Commerce,,Democrat,Joel Gill,125
-Wathall,Varnel,Commissioner of Agriculture & Commerce,,Republican,Cindy Hyde-Smith,268
-Wathall,Varnel,Commissioner of Agriculture & Commerce,,Reform,Cathy L. Toole,11
-Wathall,Varnel,Commissioner of Insurance,,Republican,Mike Chaney,312
-Wathall,Varnel,Commissioner of Insurance,,Democrat,Louis Fondren,82
-Wathall,Varnel,Commissioner of Insurance,,Reform,Barbara Dale Washer,11
-Wathall,Sartinsville,Governor,,Republican,Phil Bryant,97
-Wathall,Sartinsville,Governor,,Democrat,Johnny L. DuPree,55
-Wathall,Sartinsville,Lieutenant Governor,,Reform,Tracella Lou O'Hara Hill,28
-Wathall,Sartinsville,Lieutenant Governor,,Republican,Tate Reeves,110
-Wathall,Sartinsville,Secretary of State,,Republican,Delbert Hosemann,119
-Wathall,Sartinsville,Attorney General,,Democrat,Jim Hood,110
-Wathall,Sartinsville,Attorney General,,Republican,Steve Simpson,39
-Wathall,Sartinsville,State Auditor,,Reform,Ashley Norwood,33
-Wathall,Sartinsville,State Auditor,,Republican,Stacey E. Pickering,104
-Wathall,Sartinsville,Treasurer,,Republican,Lynn Fitch,91
-Wathall,Sartinsville,Treasurer,,Democrat,Connie Moran,54
-Wathall,Sartinsville,Treasurer,,Reform,Shawn O'Hara,3
-Wathall,Sartinsville,Commissioner of Agriculture & Commerce,,Democrat,Joel Gill,59
-Wathall,Sartinsville,Commissioner of Agriculture & Commerce,,Republican,Cindy Hyde-Smith,83
-Wathall,Sartinsville,Commissioner of Agriculture & Commerce,,Reform,Cathy L. Toole,0
-Wathall,Sartinsville,Commissioner of Insurance,,Republican,Mike Chaney,92
-Wathall,Sartinsville,Commissioner of Insurance,,Democrat,Louis Fondren,50
-Wathall,Sartinsville,Commissioner of Insurance,,Reform,Barbara Dale Washer,4
-Wathall,4th District West,Governor,,Republican,Phil Bryant,217
-Wathall,4th District West,Governor,,Democrat,Johnny L. DuPree,36
-Wathall,4th District West,Lieutenant Governor,,Reform,Tracella Lou O'Hara Hill,19
-Wathall,4th District West,Lieutenant Governor,,Republican,Tate Reeves,221
-Wathall,4th District West,Secretary of State,,Republican,Delbert Hosemann,229
-Wathall,4th District West,Attorney General,,Democrat,Jim Hood,126
-Wathall,4th District West,Attorney General,,Republican,Steve Simpson,122
-Wathall,4th District West,State Auditor,,Reform,Ashley Norwood,20
-Wathall,4th District West,State Auditor,,Republican,Stacey E. Pickering,211
-Wathall,4th District West,Treasurer,,Republican,Lynn Fitch,204
-Wathall,4th District West,Treasurer,,Democrat,Connie Moran,32
-Wathall,4th District West,Treasurer,,Reform,Shawn O'Hara,10
-Wathall,4th District West,Commissioner of Agriculture & Commerce,,Democrat,Joel Gill,46
-Wathall,4th District West,Commissioner of Agriculture & Commerce,,Republican,Cindy Hyde-Smith,200
-Wathall,4th District West,Commissioner of Agriculture & Commerce,,Reform,Cathy L. Toole,3
-Wathall,4th District West,Commissioner of Insurance,,Republican,Mike Chaney,204
-Wathall,4th District West,Commissioner of Insurance,,Democrat,Louis Fondren,31
-Wathall,4th District West,Commissioner of Insurance,,Reform,Barbara Dale Washer,8
-Wathall,Darbun,Governor,,Republican,Phil Bryant,119
-Wathall,Darbun,Governor,,Democrat,Johnny L. DuPree,24
-Wathall,Darbun,Lieutenant Governor,,Reform,Tracella Lou O'Hara Hill,15
-Wathall,Darbun,Lieutenant Governor,,Republican,Tate Reeves,125
-Wathall,Darbun,Secretary of State,,Republican,Delbert Hosemann,131
-Wathall,Darbun,Attorney General,,Democrat,Jim Hood,78
-Wathall,Darbun,Attorney General,,Republican,Steve Simpson,62
-Wathall,Darbun,State Auditor,,Reform,Ashley Norwood,12
-Wathall,Darbun,State Auditor,,Republican,Stacey E. Pickering,124
-Wathall,Darbun,Treasurer,,Republican,Lynn Fitch,111
-Wathall,Darbun,Treasurer,,Democrat,Connie Moran,26
-Wathall,Darbun,Treasurer,,Reform,Shawn O'Hara,5
-Wathall,Darbun,Commissioner of Agriculture & Commerce,,Democrat,Joel Gill,39
-Wathall,Darbun,Commissioner of Agriculture & Commerce,,Republican,Cindy Hyde-Smith,101
-Wathall,Darbun,Commissioner of Agriculture & Commerce,,Reform,Cathy L. Toole,1
-Wathall,Darbun,Commissioner of Insurance,,Republican,Mike Chaney,114
-Wathall,Darbun,Commissioner of Insurance,,Democrat,Louis Fondren,22
-Wathall,Darbun,Commissioner of Insurance,,Reform,Barbara Dale Washer,5
-Wathall,Dinan,Governor,,Republican,Phil Bryant,119
-Wathall,Dinan,Governor,,Democrat,Johnny L. DuPree,297
-Wathall,Dinan,Lieutenant Governor,,Reform,Tracella Lou O'Hara Hill,119
-Wathall,Dinan,Lieutenant Governor,,Republican,Tate Reeves,219
-Wathall,Dinan,Secretary of State,,Republican,Delbert Hosemann,272
-Wathall,Dinan,Attorney General,,Democrat,Jim Hood,327
-Wathall,Dinan,Attorney General,,Republican,Steve Simpson,75
-Wathall,Dinan,State Auditor,,Reform,Ashley Norwood,145
-Wathall,Dinan,State Auditor,,Republican,Stacey E. Pickering,178
-Wathall,Dinan,Treasurer,,Republican,Lynn Fitch,138
-Wathall,Dinan,Treasurer,,Democrat,Connie Moran,251
-Wathall,Dinan,Treasurer,,Reform,Shawn O'Hara,12
-Wathall,Dinan,Commissioner of Agriculture & Commerce,,Democrat,Joel Gill,271
-Wathall,Dinan,Commissioner of Agriculture & Commerce,,Republican,Cindy Hyde-Smith,122
-Wathall,Dinan,Commissioner of Agriculture & Commerce,,Reform,Cathy L. Toole,8
-Wathall,Dinan,Commissioner of Insurance,,Republican,Mike Chaney,136
-Wathall,Dinan,Commissioner of Insurance,,Democrat,Louis Fondren,251
-Wathall,Dinan,Commissioner of Insurance,,Reform,Barbara Dale Washer,10
-Wathall,Enon,Governor,,Republican,Phil Bryant,142
-Wathall,Enon,Governor,,Democrat,Johnny L. DuPree,78
-Wathall,Enon,Lieutenant Governor,,Reform,Tracella Lou O'Hara Hill,40
-Wathall,Enon,Lieutenant Governor,,Republican,Tate Reeves,157
-Wathall,Enon,Secretary of State,,Republican,Delbert Hosemann,174
-Wathall,Enon,Attorney General,,Democrat,Jim Hood,123
-Wathall,Enon,Attorney General,,Republican,Steve Simpson,93
-Wathall,Enon,State Auditor,,Reform,Ashley Norwood,46
-Wathall,Enon,State Auditor,,Republican,Stacey E. Pickering,147
-Wathall,Enon,Treasurer,,Republican,Lynn Fitch,135
-Wathall,Enon,Treasurer,,Democrat,Connie Moran,75
-Wathall,Enon,Treasurer,,Reform,Shawn O'Hara,9
-Wathall,Enon,Commissioner of Agriculture & Commerce,,Democrat,Joel Gill,83
-Wathall,Enon,Commissioner of Agriculture & Commerce,,Republican,Cindy Hyde-Smith,132
-Wathall,Enon,Commissioner of Agriculture & Commerce,,Reform,Cathy L. Toole,8
-Wathall,Enon,Commissioner of Insurance,,Republican,Mike Chaney,136
-Wathall,Enon,Commissioner of Insurance,,Democrat,Louis Fondren,251
-Wathall,Enon,Commissioner of Insurance,,Reform,Barbara Dale Washer,10
-Wathall,St Paul,Governor,,Republican,Phil Bryant,37
-Wathall,St Paul,Governor,,Democrat,Johnny L. DuPree,147
-Wathall,St Paul,Lieutenant Governor,,Reform,Tracella Lou O'Hara Hill,76
-Wathall,St Paul,Lieutenant Governor,,Republican,Tate Reeves,73
-Wathall,St Paul,Secretary of State,,Republican,Delbert Hosemann,114
-Wathall,St Paul,Attorney General,,Democrat,Jim Hood,143
-Wathall,St Paul,Attorney General,,Republican,Steve Simpson,34
-Wathall,St Paul,State Auditor,,Reform,Ashley Norwood,86
-Wathall,St Paul,State Auditor,,Republican,Stacey E. Pickering,61
-Wathall,St Paul,Treasurer,,Republican,Lynn Fitch,42
-Wathall,St Paul,Treasurer,,Democrat,Connie Moran,130
-Wathall,St Paul,Treasurer,,Reform,Shawn O'Hara,6
-Wathall,St Paul,Commissioner of Agriculture & Commerce,,Democrat,Joel Gill,136
-Wathall,St Paul,Commissioner of Agriculture & Commerce,,Republican,Cindy Hyde-Smith,34
-Wathall,St Paul,Commissioner of Agriculture & Commerce,,Reform,Cathy L. Toole,6
-Wathall,St Paul,Commissioner of Insurance,,Republican,Mike Chaney,42
-Wathall,St Paul,Commissioner of Insurance,,Democrat,Louis Fondren,129
-Wathall,St Paul,Commissioner of Insurance,,Reform,Barbara Dale Washer,5
-Wathall,Hope,Governor,,Republican,Phil Bryant,16
-Wathall,Hope,Governor,,Democrat,Johnny L. DuPree,151
-Wathall,Hope,Lieutenant Governor,,Reform,Tracella Lou O'Hara Hill,55
-Wathall,Hope,Lieutenant Governor,,Republican,Tate Reeves,59
-Wathall,Hope,Secretary of State,,Republican,Delbert Hosemann,85
-Wathall,Hope,Attorney General,,Democrat,Jim Hood,145
-Wathall,Hope,Attorney General,,Republican,Steve Simpson,13
-Wathall,Hope,State Auditor,,Reform,Ashley Norwood,73
-Wathall,Hope,State Auditor,,Republican,Stacey E. Pickering,38
-Wathall,Hope,Treasurer,,Republican,Lynn Fitch,26
-Wathall,Hope,Treasurer,,Democrat,Connie Moran,129
-Wathall,Hope,Treasurer,,Reform,Shawn O'Hara,3
-Wathall,Hope,Commissioner of Agriculture & Commerce,,Democrat,Joel Gill,134
-Wathall,Hope,Commissioner of Agriculture & Commerce,,Republican,Cindy Hyde-Smith,16
-Wathall,Hope,Commissioner of Agriculture & Commerce,,Reform,Cathy L. Toole,2
-Wathall,Hope,Commissioner of Insurance,,Republican,Mike Chaney,27
-Wathall,Hope,Commissioner of Insurance,,Democrat,Louis Fondren,118
-Wathall,Hope,Commissioner of Insurance,,Reform,Barbara Dale Washer,6
+Walthall,Midway,Governor,,Republican,Phil Bryant,115
+Walthall,Midway,Governor,,Democrat,Johnny L. DuPree,33
+Walthall,Midway,Lieutenant Governor,,Reform,Tracella Lou O'Hara Hill,14
+Walthall,Midway,Lieutenant Governor,,Republican,Tate Reeves,121
+Walthall,Midway,Secretary of State,,Republican,Delbert Hosemann,126
+Walthall,Midway,Attorney General,,Democrat,Jim Hood,87
+Walthall,Midway,Attorney General,,Republican,Steve Simpson,54
+Walthall,Midway,State Auditor,,Reform,Ashley Norwood,16
+Walthall,Midway,State Auditor,,Republican,Stacey E. Pickering,117
+Walthall,Midway,Treasurer,,Republican,Lynn Fitch,103
+Walthall,Midway,Treasurer,,Democrat,Connie Moran,34
+Walthall,Midway,Treasurer,,Reform,Shawn O'Hara,3
+Walthall,Midway,Commissioner of Agriculture & Commerce,,Democrat,Joel Gill,51
+Walthall,Midway,Commissioner of Agriculture & Commerce,,Republican,Cindy Hyde-Smith,85
+Walthall,Midway,Commissioner of Agriculture & Commerce,,Reform,Cathy L. Toole,1
+Walthall,Midway,Commissioner of Insurance,,Republican,Mike Chaney,111
+Walthall,Midway,Commissioner of Insurance,,Democrat,Louis Fondren,24
+Walthall,Midway,Commissioner of Insurance,,Reform,Barbara Dale Washer,3
+Walthall,Lexie,Governor,,Republican,Phil Bryant,429
+Walthall,Lexie,Governor,,Democrat,Johnny L. DuPree,73
+Walthall,Lexie,Lieutenant Governor,,Reform,Tracella Lou O'Hara Hill,52
+Walthall,Lexie,Lieutenant Governor,,Republican,Tate Reeves,431
+Walthall,Lexie,Secretary of State,,Republican,Delbert Hosemann,457
+Walthall,Lexie,Attorney General,,Democrat,Jim Hood,243
+Walthall,Lexie,Attorney General,,Republican,Steve Simpson,248
+Walthall,Lexie,State Auditor,,Reform,Ashley Norwood,66
+Walthall,Lexie,State Auditor,,Republican,Stacey E. Pickering,405
+Walthall,Lexie,Treasurer,,Republican,Lynn Fitch,391
+Walthall,Lexie,Treasurer,,Democrat,Connie Moran,75
+Walthall,Lexie,Treasurer,,Reform,Shawn O'Hara,22
+Walthall,Lexie,Commissioner of Agriculture & Commerce,,Democrat,Joel Gill,126
+Walthall,Lexie,Commissioner of Agriculture & Commerce,,Republican,Cindy Hyde-Smith,349
+Walthall,Lexie,Commissioner of Agriculture & Commerce,,Reform,Cathy L. Toole,9
+Walthall,Lexie,Commissioner of Insurance,,Republican,Mike Chaney,397
+Walthall,Lexie,Commissioner of Insurance,,Democrat,Louis Fondren,70
+Walthall,Lexie,Commissioner of Insurance,,Reform,Barbara Dale Washer,15
+Walthall,South Kirklin,Governor,,Republican,Phil Bryant,87
+Walthall,South Kirklin,Governor,,Democrat,Johnny L. DuPree,33
+Walthall,South Kirklin,Lieutenant Governor,,Reform,Tracella Lou O'Hara Hill,25
+Walthall,South Kirklin,Lieutenant Governor,,Republican,Tate Reeves,87
+Walthall,South Kirklin,Secretary of State,,Republican,Delbert Hosemann,93
+Walthall,South Kirklin,Attorney General,,Democrat,Jim Hood,71
+Walthall,South Kirklin,Attorney General,,Republican,Steve Simpson,46
+Walthall,South Kirklin,State Auditor,,Reform,Ashley Norwood,21
+Walthall,South Kirklin,State Auditor,,Republican,Stacey E. Pickering,84
+Walthall,South Kirklin,Treasurer,,Republican,Lynn Fitch,79
+Walthall,South Kirklin,Treasurer,,Democrat,Connie Moran,31
+Walthall,South Kirklin,Treasurer,,Reform,Shawn O'Hara,8
+Walthall,South Kirklin,Commissioner of Agriculture & Commerce,,Democrat,Joel Gill,41
+Walthall,South Kirklin,Commissioner of Agriculture & Commerce,,Republican,Cindy Hyde-Smith,71
+Walthall,South Kirklin,Commissioner of Agriculture & Commerce,,Reform,Cathy L. Toole,5
+Walthall,South Kirklin,Commissioner of Insurance,,Republican,Mike Chaney,82
+Walthall,South Kirklin,Commissioner of Insurance,,Democrat,Louis Fondren,32
+Walthall,South Kirklin,Commissioner of Insurance,,Reform,Barbara Dale Washer,2
+Walthall,North Kirklin,Governor,,Republican,Phil Bryant,155
+Walthall,North Kirklin,Governor,,Democrat,Johnny L. DuPree,173
+Walthall,North Kirklin,Lieutenant Governor,,Reform,Tracella Lou O'Hara Hill,87
+Walthall,North Kirklin,Lieutenant Governor,,Republican,Tate Reeves,198
+Walthall,North Kirklin,Secretary of State,,Republican,Delbert Hosemann,232
+Walthall,North Kirklin,Attorney General,,Democrat,Jim Hood,212
+Walthall,North Kirklin,Attorney General,,Republican,Steve Simpson,110
+Walthall,North Kirklin,State Auditor,,Reform,Ashley Norwood,94
+Walthall,North Kirklin,State Auditor,,Republican,Stacey E. Pickering,180
+Walthall,North Kirklin,Treasurer,,Republican,Lynn Fitch,147
+Walthall,North Kirklin,Treasurer,,Democrat,Connie Moran,157
+Walthall,North Kirklin,Treasurer,,Reform,Shawn O'Hara,15
+Walthall,North Kirklin,Commissioner of Agriculture & Commerce,,Democrat,Joel Gill,171
+Walthall,North Kirklin,Commissioner of Agriculture & Commerce,,Republican,Cindy Hyde-Smith,135
+Walthall,North Kirklin,Commissioner of Agriculture & Commerce,,Reform,Cathy L. Toole,10
+Walthall,North Kirklin,Commissioner of Insurance,,Republican,Mike Chaney,161
+Walthall,North Kirklin,Commissioner of Insurance,,Democrat,Louis Fondren,140
+Walthall,North Kirklin,Commissioner of Insurance,,Reform,Barbara Dale Washer,15
+Walthall,East Tylertown,Governor,,Republican,Phil Bryant,64
+Walthall,East Tylertown,Governor,,Democrat,Johnny L. DuPree,8
+Walthall,East Tylertown,Lieutenant Governor,,Reform,Tracella Lou O'Hara Hill,2
+Walthall,East Tylertown,Lieutenant Governor,,Republican,Tate Reeves,68
+Walthall,East Tylertown,Secretary of State,,Republican,Delbert Hosemann,68
+Walthall,East Tylertown,Attorney General,,Democrat,Jim Hood,37
+Walthall,East Tylertown,Attorney General,,Republican,Steve Simpson,33
+Walthall,East Tylertown,State Auditor,,Reform,Ashley Norwood,3
+Walthall,East Tylertown,State Auditor,,Republican,Stacey E. Pickering,67
+Walthall,East Tylertown,Treasurer,,Republican,Lynn Fitch,58
+Walthall,East Tylertown,Treasurer,,Democrat,Connie Moran,8
+Walthall,East Tylertown,Treasurer,,Reform,Shawn O'Hara,5
+Walthall,East Tylertown,Commissioner of Agriculture & Commerce,,Democrat,Joel Gill,17
+Walthall,East Tylertown,Commissioner of Agriculture & Commerce,,Republican,Cindy Hyde-Smith,49
+Walthall,East Tylertown,Commissioner of Agriculture & Commerce,,Reform,Cathy L. Toole,3
+Walthall,East Tylertown,Commissioner of Insurance,,Republican,Mike Chaney,64
+Walthall,East Tylertown,Commissioner of Insurance,,Democrat,Louis Fondren,3
+Walthall,East Tylertown,Commissioner of Insurance,,Reform,Barbara Dale Washer,3
+Walthall,West Tylertown,Governor,,Republican,Phil Bryant,115
+Walthall,West Tylertown,Governor,,Democrat,Johnny L. DuPree,173
+Walthall,West Tylertown,Lieutenant Governor,,Reform,Tracella Lou O'Hara Hill,55
+Walthall,West Tylertown,Lieutenant Governor,,Republican,Tate Reeves,170
+Walthall,West Tylertown,Secretary of State,,Republican,Delbert Hosemann,185
+Walthall,West Tylertown,Attorney General,,Democrat,Jim Hood,194
+Walthall,West Tylertown,Attorney General,,Republican,Steve Simpson,78
+Walthall,West Tylertown,State Auditor,,Reform,Ashley Norwood,77
+Walthall,West Tylertown,State Auditor,,Republican,Stacey E. Pickering,142
+Walthall,West Tylertown,Treasurer,,Republican,Lynn Fitch,124
+Walthall,West Tylertown,Treasurer,,Democrat,Connie Moran,132
+Walthall,West Tylertown,Treasurer,,Reform,Shawn O'Hara,13
+Walthall,West Tylertown,Commissioner of Agriculture & Commerce,,Democrat,Joel Gill,153
+Walthall,West Tylertown,Commissioner of Agriculture & Commerce,,Republican,Cindy Hyde-Smith,110
+Walthall,West Tylertown,Commissioner of Agriculture & Commerce,,Reform,Cathy L. Toole,9
+Walthall,West Tylertown,Commissioner of Insurance,,Republican,Mike Chaney,120
+Walthall,West Tylertown,Commissioner of Insurance,,Democrat,Louis Fondren,135
+Walthall,West Tylertown,Commissioner of Insurance,,Reform,Barbara Dale Washer,18
+Walthall,Mesa,Governor,,Republican,Phil Bryant,39
+Walthall,Mesa,Governor,,Democrat,Johnny L. DuPree,5
+Walthall,Mesa,Lieutenant Governor,,Reform,Tracella Lou O'Hara Hill,2
+Walthall,Mesa,Lieutenant Governor,,Republican,Tate Reeves,42
+Walthall,Mesa,Secretary of State,,Republican,Delbert Hosemann,42
+Walthall,Mesa,Attorney General,,Democrat,Jim Hood,27
+Walthall,Mesa,Attorney General,,Republican,Steve Simpson,17
+Walthall,Mesa,State Auditor,,Reform,Ashley Norwood,3
+Walthall,Mesa,State Auditor,,Republican,Stacey E. Pickering,40
+Walthall,Mesa,Treasurer,,Republican,Lynn Fitch,32
+Walthall,Mesa,Treasurer,,Democrat,Connie Moran,10
+Walthall,Mesa,Treasurer,,Reform,Shawn O'Hara,2
+Walthall,Mesa,Commissioner of Agriculture & Commerce,,Democrat,Joel Gill,13
+Walthall,Mesa,Commissioner of Agriculture & Commerce,,Republican,Cindy Hyde-Smith,31
+Walthall,Mesa,Commissioner of Agriculture & Commerce,,Reform,Cathy L. Toole,0
+Walthall,Mesa,Commissioner of Insurance,,Republican,Mike Chaney,39
+Walthall,Mesa,Commissioner of Insurance,,Democrat,Louis Fondren,4
+Walthall,Mesa,Commissioner of Insurance,,Reform,Barbara Dale Washer,1
+Walthall,South Knoxo,Governor,,Republican,Phil Bryant,65
+Walthall,South Knoxo,Governor,,Democrat,Johnny L. DuPree,27
+Walthall,South Knoxo,Lieutenant Governor,,Reform,Tracella Lou O'Hara Hill,13
+Walthall,South Knoxo,Lieutenant Governor,,Republican,Tate Reeves,71
+Walthall,South Knoxo,Secretary of State,,Republican,Delbert Hosemann,79
+Walthall,South Knoxo,Attorney General,,Democrat,Jim Hood,52
+Walthall,South Knoxo,Attorney General,,Republican,Steve Simpson,35
+Walthall,South Knoxo,State Auditor,,Reform,Ashley Norwood,17
+Walthall,South Knoxo,State Auditor,,Republican,Stacey E. Pickering,66
+Walthall,South Knoxo,Treasurer,,Republican,Lynn Fitch,67
+Walthall,South Knoxo,Treasurer,,Democrat,Connie Moran,17
+Walthall,South Knoxo,Treasurer,,Reform,Shawn O'Hara,6
+Walthall,South Knoxo,Commissioner of Agriculture & Commerce,,Democrat,Joel Gill,28
+Walthall,South Knoxo,Commissioner of Agriculture & Commerce,,Republican,Cindy Hyde-Smith,58
+Walthall,South Knoxo,Commissioner of Agriculture & Commerce,,Reform,Cathy L. Toole,0
+Walthall,South Knoxo,Commissioner of Insurance,,Republican,Mike Chaney,63
+Walthall,South Knoxo,Commissioner of Insurance,,Democrat,Louis Fondren,22
+Walthall,South Knoxo,Commissioner of Insurance,,Reform,Barbara Dale Washer,1
+Walthall,North Knoxo,Governor,,Republican,Phil Bryant,39
+Walthall,North Knoxo,Governor,,Democrat,Johnny L. DuPree,351
+Walthall,North Knoxo,Lieutenant Governor,,Reform,Tracella Lou O'Hara Hill,152
+Walthall,North Knoxo,Lieutenant Governor,,Republican,Tate Reeves,138
+Walthall,North Knoxo,Secretary of State,,Republican,Delbert Hosemann,180
+Walthall,North Knoxo,Attorney General,,Democrat,Jim Hood,351
+Walthall,North Knoxo,Attorney General,,Republican,Steve Simpson,30
+Walthall,North Knoxo,State Auditor,,Reform,Ashley Norwood,157
+Walthall,North Knoxo,State Auditor,,Republican,Stacey E. Pickering,88
+Walthall,North Knoxo,Treasurer,,Republican,Lynn Fitch,66
+Walthall,North Knoxo,Treasurer,,Democrat,Connie Moran,292
+Walthall,North Knoxo,Treasurer,,Reform,Shawn O'Hara,16
+Walthall,North Knoxo,Commissioner of Agriculture & Commerce,,Democrat,Joel Gill,325
+Walthall,North Knoxo,Commissioner of Agriculture & Commerce,,Republican,Cindy Hyde-Smith,44
+Walthall,North Knoxo,Commissioner of Agriculture & Commerce,,Reform,Cathy L. Toole,2
+Walthall,North Knoxo,Commissioner of Insurance,,Republican,Mike Chaney,66
+Walthall,North Knoxo,Commissioner of Insurance,,Democrat,Louis Fondren,292
+Walthall,North Knoxo,Commissioner of Insurance,,Reform,Barbara Dale Washer,8
+Walthall,Dexter,Governor,,Republican,Phil Bryant,311
+Walthall,Dexter,Governor,,Democrat,Johnny L. DuPree,97
+Walthall,Dexter,Lieutenant Governor,,Reform,Tracella Lou O'Hara Hill,52
+Walthall,Dexter,Lieutenant Governor,,Republican,Tate Reeves,332
+Walthall,Dexter,Secretary of State,,Republican,Delbert Hosemann,340
+Walthall,Dexter,Attorney General,,Democrat,Jim Hood,212
+Walthall,Dexter,Attorney General,,Republican,Steve Simpson,189
+Walthall,Dexter,State Auditor,,Reform,Ashley Norwood,65
+Walthall,Dexter,State Auditor,,Republican,Stacey E. Pickering,310
+Walthall,Dexter,Treasurer,,Republican,Lynn Fitch,283
+Walthall,Dexter,Treasurer,,Democrat,Connie Moran,100
+Walthall,Dexter,Treasurer,,Reform,Shawn O'Hara,18
+Walthall,Dexter,Commissioner of Agriculture & Commerce,,Democrat,Joel Gill,128
+Walthall,Dexter,Commissioner of Agriculture & Commerce,,Republican,Cindy Hyde-Smith,261
+Walthall,Dexter,Commissioner of Agriculture & Commerce,,Reform,Cathy L. Toole,8
+Walthall,Dexter,Commissioner of Insurance,,Republican,Mike Chaney,297
+Walthall,Dexter,Commissioner of Insurance,,Democrat,Louis Fondren,82
+Walthall,Dexter,Commissioner of Insurance,,Reform,Barbara Dale Washer,15
+Walthall,Improve,Governor,,Republican,Phil Bryant,245
+Walthall,Improve,Governor,,Democrat,Johnny L. DuPree,99
+Walthall,Improve,Lieutenant Governor,,Reform,Tracella Lou O'Hara Hill,37
+Walthall,Improve,Lieutenant Governor,,Republican,Tate Reeves,250
+Walthall,Improve,Secretary of State,,Republican,Delbert Hosemann,257
+Walthall,Improve,Attorney General,,Democrat,Jim Hood,160
+Walthall,Improve,Attorney General,,Republican,Steve Simpson,173
+Walthall,Improve,State Auditor,,Reform,Ashley Norwood,43
+Walthall,Improve,State Auditor,,Republican,Stacey E. Pickering,244
+Walthall,Improve,Treasurer,,Republican,Lynn Fitch,218
+Walthall,Improve,Treasurer,,Democrat,Connie Moran,91
+Walthall,Improve,Treasurer,,Reform,Shawn O'Hara,20
+Walthall,Improve,Commissioner of Agriculture & Commerce,,Democrat,Joel Gill,122
+Walthall,Improve,Commissioner of Agriculture & Commerce,,Republican,Cindy Hyde-Smith,198
+Walthall,Improve,Commissioner of Agriculture & Commerce,,Reform,Cathy L. Toole,3
+Walthall,Improve,Commissioner of Insurance,,Republican,Mike Chaney,237
+Walthall,Improve,Commissioner of Insurance,,Democrat,Louis Fondren,76
+Walthall,Improve,Commissioner of Insurance,,Reform,Barbara Dale Washer,6
+Walthall,3rd District Tylertown,Governor,,Republican,Phil Bryant,206
+Walthall,3rd District Tylertown,Governor,,Democrat,Johnny L. DuPree,55
+Walthall,3rd District Tylertown,Lieutenant Governor,,Reform,Tracella Lou O'Hara Hill,26
+Walthall,3rd District Tylertown,Lieutenant Governor,,Republican,Tate Reeves,227
+Walthall,3rd District Tylertown,Secretary of State,,Republican,Delbert Hosemann,239
+Walthall,3rd District Tylertown,Attorney General,,Democrat,Jim Hood,136
+Walthall,3rd District Tylertown,Attorney General,,Republican,Steve Simpson,125
+Walthall,3rd District Tylertown,State Auditor,,Reform,Ashley Norwood,37
+Walthall,3rd District Tylertown,State Auditor,,Republican,Stacey E. Pickering,215
+Walthall,3rd District Tylertown,Treasurer,,Republican,Lynn Fitch,201
+Walthall,3rd District Tylertown,Treasurer,,Democrat,Connie Moran,49
+Walthall,3rd District Tylertown,Treasurer,,Reform,Shawn O'Hara,10
+Walthall,3rd District Tylertown,Commissioner of Agriculture & Commerce,,Democrat,Joel Gill,65
+Walthall,3rd District Tylertown,Commissioner of Agriculture & Commerce,,Republican,Cindy Hyde-Smith,189
+Walthall,3rd District Tylertown,Commissioner of Agriculture & Commerce,,Reform,Cathy L. Toole,5
+Walthall,3rd District Tylertown,Commissioner of Insurance,,Republican,Mike Chaney,200
+Walthall,3rd District Tylertown,Commissioner of Insurance,,Democrat,Louis Fondren,48
+Walthall,3rd District Tylertown,Commissioner of Insurance,,Reform,Barbara Dale Washer,9
+Walthall,4th District Tylertown,Governor,,Republican,Phil Bryant,328
+Walthall,4th District Tylertown,Governor,,Democrat,Johnny L. DuPree,49
+Walthall,4th District Tylertown,Lieutenant Governor,,Reform,Tracella Lou O'Hara Hill,31
+Walthall,4th District Tylertown,Lieutenant Governor,,Republican,Tate Reeves,342
+Walthall,4th District Tylertown,Secretary of State,,Republican,Delbert Hosemann,345
+Walthall,4th District Tylertown,Attorney General,,Democrat,Jim Hood,200
+Walthall,4th District Tylertown,Attorney General,,Republican,Steve Simpson,167
+Walthall,4th District Tylertown,State Auditor,,Reform,Ashley Norwood,45
+Walthall,4th District Tylertown,State Auditor,,Republican,Stacey E. Pickering,321
+Walthall,4th District Tylertown,Treasurer,,Republican,Lynn Fitch,305
+Walthall,4th District Tylertown,Treasurer,,Democrat,Connie Moran,54
+Walthall,4th District Tylertown,Treasurer,,Reform,Shawn O'Hara,14
+Walthall,4th District Tylertown,Commissioner of Agriculture & Commerce,,Democrat,Joel Gill,92
+Walthall,4th District Tylertown,Commissioner of Agriculture & Commerce,,Republican,Cindy Hyde-Smith,265
+Walthall,4th District Tylertown,Commissioner of Agriculture & Commerce,,Reform,Cathy L. Toole,11
+Walthall,4th District Tylertown,Commissioner of Insurance,,Republican,Mike Chaney,313
+Walthall,4th District Tylertown,Commissioner of Insurance,,Democrat,Louis Fondren,44
+Walthall,4th District Tylertown,Commissioner of Insurance,,Reform,Barbara Dale Washer,16
+Walthall,Varnel,Governor,,Republican,Phil Bryant,316
+Walthall,Varnel,Governor,,Democrat,Johnny L. DuPree,104
+Walthall,Varnel,Lieutenant Governor,,Reform,Tracella Lou O'Hara Hill,50
+Walthall,Varnel,Lieutenant Governor,,Republican,Tate Reeves,345
+Walthall,Varnel,Secretary of State,,Republican,Delbert Hosemann,351
+Walthall,Varnel,Attorney General,,Democrat,Jim Hood,229
+Walthall,Varnel,Attorney General,,Republican,Steve Simpson,180
+Walthall,Varnel,State Auditor,,Reform,Ashley Norwood,56
+Walthall,Varnel,State Auditor,,Republican,Stacey E. Pickering,326
+Walthall,Varnel,Treasurer,,Republican,Lynn Fitch,299
+Walthall,Varnel,Treasurer,,Democrat,Connie Moran,92
+Walthall,Varnel,Treasurer,,Reform,Shawn O'Hara,19
+Walthall,Varnel,Commissioner of Agriculture & Commerce,,Democrat,Joel Gill,125
+Walthall,Varnel,Commissioner of Agriculture & Commerce,,Republican,Cindy Hyde-Smith,268
+Walthall,Varnel,Commissioner of Agriculture & Commerce,,Reform,Cathy L. Toole,11
+Walthall,Varnel,Commissioner of Insurance,,Republican,Mike Chaney,312
+Walthall,Varnel,Commissioner of Insurance,,Democrat,Louis Fondren,82
+Walthall,Varnel,Commissioner of Insurance,,Reform,Barbara Dale Washer,11
+Walthall,Sartinsville,Governor,,Republican,Phil Bryant,97
+Walthall,Sartinsville,Governor,,Democrat,Johnny L. DuPree,55
+Walthall,Sartinsville,Lieutenant Governor,,Reform,Tracella Lou O'Hara Hill,28
+Walthall,Sartinsville,Lieutenant Governor,,Republican,Tate Reeves,110
+Walthall,Sartinsville,Secretary of State,,Republican,Delbert Hosemann,119
+Walthall,Sartinsville,Attorney General,,Democrat,Jim Hood,110
+Walthall,Sartinsville,Attorney General,,Republican,Steve Simpson,39
+Walthall,Sartinsville,State Auditor,,Reform,Ashley Norwood,33
+Walthall,Sartinsville,State Auditor,,Republican,Stacey E. Pickering,104
+Walthall,Sartinsville,Treasurer,,Republican,Lynn Fitch,91
+Walthall,Sartinsville,Treasurer,,Democrat,Connie Moran,54
+Walthall,Sartinsville,Treasurer,,Reform,Shawn O'Hara,3
+Walthall,Sartinsville,Commissioner of Agriculture & Commerce,,Democrat,Joel Gill,59
+Walthall,Sartinsville,Commissioner of Agriculture & Commerce,,Republican,Cindy Hyde-Smith,83
+Walthall,Sartinsville,Commissioner of Agriculture & Commerce,,Reform,Cathy L. Toole,0
+Walthall,Sartinsville,Commissioner of Insurance,,Republican,Mike Chaney,92
+Walthall,Sartinsville,Commissioner of Insurance,,Democrat,Louis Fondren,50
+Walthall,Sartinsville,Commissioner of Insurance,,Reform,Barbara Dale Washer,4
+Walthall,4th District West,Governor,,Republican,Phil Bryant,217
+Walthall,4th District West,Governor,,Democrat,Johnny L. DuPree,36
+Walthall,4th District West,Lieutenant Governor,,Reform,Tracella Lou O'Hara Hill,19
+Walthall,4th District West,Lieutenant Governor,,Republican,Tate Reeves,221
+Walthall,4th District West,Secretary of State,,Republican,Delbert Hosemann,229
+Walthall,4th District West,Attorney General,,Democrat,Jim Hood,126
+Walthall,4th District West,Attorney General,,Republican,Steve Simpson,122
+Walthall,4th District West,State Auditor,,Reform,Ashley Norwood,20
+Walthall,4th District West,State Auditor,,Republican,Stacey E. Pickering,211
+Walthall,4th District West,Treasurer,,Republican,Lynn Fitch,204
+Walthall,4th District West,Treasurer,,Democrat,Connie Moran,32
+Walthall,4th District West,Treasurer,,Reform,Shawn O'Hara,10
+Walthall,4th District West,Commissioner of Agriculture & Commerce,,Democrat,Joel Gill,46
+Walthall,4th District West,Commissioner of Agriculture & Commerce,,Republican,Cindy Hyde-Smith,200
+Walthall,4th District West,Commissioner of Agriculture & Commerce,,Reform,Cathy L. Toole,3
+Walthall,4th District West,Commissioner of Insurance,,Republican,Mike Chaney,204
+Walthall,4th District West,Commissioner of Insurance,,Democrat,Louis Fondren,31
+Walthall,4th District West,Commissioner of Insurance,,Reform,Barbara Dale Washer,8
+Walthall,Darbun,Governor,,Republican,Phil Bryant,119
+Walthall,Darbun,Governor,,Democrat,Johnny L. DuPree,24
+Walthall,Darbun,Lieutenant Governor,,Reform,Tracella Lou O'Hara Hill,15
+Walthall,Darbun,Lieutenant Governor,,Republican,Tate Reeves,125
+Walthall,Darbun,Secretary of State,,Republican,Delbert Hosemann,131
+Walthall,Darbun,Attorney General,,Democrat,Jim Hood,78
+Walthall,Darbun,Attorney General,,Republican,Steve Simpson,62
+Walthall,Darbun,State Auditor,,Reform,Ashley Norwood,12
+Walthall,Darbun,State Auditor,,Republican,Stacey E. Pickering,124
+Walthall,Darbun,Treasurer,,Republican,Lynn Fitch,111
+Walthall,Darbun,Treasurer,,Democrat,Connie Moran,26
+Walthall,Darbun,Treasurer,,Reform,Shawn O'Hara,5
+Walthall,Darbun,Commissioner of Agriculture & Commerce,,Democrat,Joel Gill,39
+Walthall,Darbun,Commissioner of Agriculture & Commerce,,Republican,Cindy Hyde-Smith,101
+Walthall,Darbun,Commissioner of Agriculture & Commerce,,Reform,Cathy L. Toole,1
+Walthall,Darbun,Commissioner of Insurance,,Republican,Mike Chaney,114
+Walthall,Darbun,Commissioner of Insurance,,Democrat,Louis Fondren,22
+Walthall,Darbun,Commissioner of Insurance,,Reform,Barbara Dale Washer,5
+Walthall,Dinan,Governor,,Republican,Phil Bryant,119
+Walthall,Dinan,Governor,,Democrat,Johnny L. DuPree,297
+Walthall,Dinan,Lieutenant Governor,,Reform,Tracella Lou O'Hara Hill,119
+Walthall,Dinan,Lieutenant Governor,,Republican,Tate Reeves,219
+Walthall,Dinan,Secretary of State,,Republican,Delbert Hosemann,272
+Walthall,Dinan,Attorney General,,Democrat,Jim Hood,327
+Walthall,Dinan,Attorney General,,Republican,Steve Simpson,75
+Walthall,Dinan,State Auditor,,Reform,Ashley Norwood,145
+Walthall,Dinan,State Auditor,,Republican,Stacey E. Pickering,178
+Walthall,Dinan,Treasurer,,Republican,Lynn Fitch,138
+Walthall,Dinan,Treasurer,,Democrat,Connie Moran,251
+Walthall,Dinan,Treasurer,,Reform,Shawn O'Hara,12
+Walthall,Dinan,Commissioner of Agriculture & Commerce,,Democrat,Joel Gill,271
+Walthall,Dinan,Commissioner of Agriculture & Commerce,,Republican,Cindy Hyde-Smith,122
+Walthall,Dinan,Commissioner of Agriculture & Commerce,,Reform,Cathy L. Toole,8
+Walthall,Dinan,Commissioner of Insurance,,Republican,Mike Chaney,136
+Walthall,Dinan,Commissioner of Insurance,,Democrat,Louis Fondren,251
+Walthall,Dinan,Commissioner of Insurance,,Reform,Barbara Dale Washer,10
+Walthall,Enon,Governor,,Republican,Phil Bryant,142
+Walthall,Enon,Governor,,Democrat,Johnny L. DuPree,78
+Walthall,Enon,Lieutenant Governor,,Reform,Tracella Lou O'Hara Hill,40
+Walthall,Enon,Lieutenant Governor,,Republican,Tate Reeves,157
+Walthall,Enon,Secretary of State,,Republican,Delbert Hosemann,174
+Walthall,Enon,Attorney General,,Democrat,Jim Hood,123
+Walthall,Enon,Attorney General,,Republican,Steve Simpson,93
+Walthall,Enon,State Auditor,,Reform,Ashley Norwood,46
+Walthall,Enon,State Auditor,,Republican,Stacey E. Pickering,147
+Walthall,Enon,Treasurer,,Republican,Lynn Fitch,135
+Walthall,Enon,Treasurer,,Democrat,Connie Moran,75
+Walthall,Enon,Treasurer,,Reform,Shawn O'Hara,9
+Walthall,Enon,Commissioner of Agriculture & Commerce,,Democrat,Joel Gill,83
+Walthall,Enon,Commissioner of Agriculture & Commerce,,Republican,Cindy Hyde-Smith,132
+Walthall,Enon,Commissioner of Agriculture & Commerce,,Reform,Cathy L. Toole,8
+Walthall,Enon,Commissioner of Insurance,,Republican,Mike Chaney,140
+Walthall,Enon,Commissioner of Insurance,,Democrat,Louis Fondren,71
+Walthall,Enon,Commissioner of Insurance,,Reform,Barbara Dale Washer,7
+Walthall,St Paul,Governor,,Republican,Phil Bryant,37
+Walthall,St Paul,Governor,,Democrat,Johnny L. DuPree,147
+Walthall,St Paul,Lieutenant Governor,,Reform,Tracella Lou O'Hara Hill,76
+Walthall,St Paul,Lieutenant Governor,,Republican,Tate Reeves,73
+Walthall,St Paul,Secretary of State,,Republican,Delbert Hosemann,114
+Walthall,St Paul,Attorney General,,Democrat,Jim Hood,143
+Walthall,St Paul,Attorney General,,Republican,Steve Simpson,34
+Walthall,St Paul,State Auditor,,Reform,Ashley Norwood,86
+Walthall,St Paul,State Auditor,,Republican,Stacey E. Pickering,61
+Walthall,St Paul,Treasurer,,Republican,Lynn Fitch,42
+Walthall,St Paul,Treasurer,,Democrat,Connie Moran,130
+Walthall,St Paul,Treasurer,,Reform,Shawn O'Hara,6
+Walthall,St Paul,Commissioner of Agriculture & Commerce,,Democrat,Joel Gill,136
+Walthall,St Paul,Commissioner of Agriculture & Commerce,,Republican,Cindy Hyde-Smith,34
+Walthall,St Paul,Commissioner of Agriculture & Commerce,,Reform,Cathy L. Toole,6
+Walthall,St Paul,Commissioner of Insurance,,Republican,Mike Chaney,42
+Walthall,St Paul,Commissioner of Insurance,,Democrat,Louis Fondren,129
+Walthall,St Paul,Commissioner of Insurance,,Reform,Barbara Dale Washer,5
+Walthall,Hope,Governor,,Republican,Phil Bryant,16
+Walthall,Hope,Governor,,Democrat,Johnny L. DuPree,151
+Walthall,Hope,Lieutenant Governor,,Reform,Tracella Lou O'Hara Hill,55
+Walthall,Hope,Lieutenant Governor,,Republican,Tate Reeves,59
+Walthall,Hope,Secretary of State,,Republican,Delbert Hosemann,85
+Walthall,Hope,Attorney General,,Democrat,Jim Hood,145
+Walthall,Hope,Attorney General,,Republican,Steve Simpson,13
+Walthall,Hope,State Auditor,,Reform,Ashley Norwood,73
+Walthall,Hope,State Auditor,,Republican,Stacey E. Pickering,38
+Walthall,Hope,Treasurer,,Republican,Lynn Fitch,26
+Walthall,Hope,Treasurer,,Democrat,Connie Moran,129
+Walthall,Hope,Treasurer,,Reform,Shawn O'Hara,3
+Walthall,Hope,Commissioner of Agriculture & Commerce,,Democrat,Joel Gill,134
+Walthall,Hope,Commissioner of Agriculture & Commerce,,Republican,Cindy Hyde-Smith,16
+Walthall,Hope,Commissioner of Agriculture & Commerce,,Reform,Cathy L. Toole,2
+Walthall,Hope,Commissioner of Insurance,,Republican,Mike Chaney,27
+Walthall,Hope,Commissioner of Insurance,,Democrat,Louis Fondren,118
+Walthall,Hope,Commissioner of Insurance,,Reform,Barbara Dale Washer,6
+Walthall,Midway,State Senate,38,Democrat,Kelvin E. Butler,122
+Walthall,Lexie,State Senate,38,Democrat,Kelvin E. Butler,61
+Walthall,South Kirklin,State Senate,38,Democrat,Kelvin E. Butler,94
+Walthall,North Kirklin,State Senate,38,Democrat,Kelvin E. Butler,286
+Walthall,East Tylertown,State Senate,38,Democrat,Kelvin E. Butler,x
+Walthall,West Tylertown,State Senate,38,Democrat,Kelvin E. Butler,x
+Walthall,Mesa,State Senate,38,Democrat,Kelvin E. Butler,x
+Walthall,South Knoxo,State Senate,38,Democrat,Kelvin E. Butler,x
+Walthall,North Knoxo,State Senate,38,Democrat,Kelvin E. Butler,x
+Walthall,Dexter,State Senate,38,Democrat,Kelvin E. Butler,31
+Walthall,Improve,State Senate,38,Democrat,Kelvin E. Butler,x
+Walthall,3rd District Tylertown,State Senate,38,Democrat,Kelvin E. Butler,x
+Walthall,4th District Tylertown,State Senate,38,Democrat,Kelvin E. Butler,x
+Walthall,Varnel,State Senate,38,Democrat,Kelvin E. Butler,x
+Walthall,Sartinsville,State Senate,38,Democrat,Kelvin E. Butler,x
+Walthall,4th District West,State Senate,38,Democrat,Kelvin E. Butler,x
+Walthall,Darbun,State Senate,38,Democrat,Kelvin E. Butler,x
+Walthall,Dinan,State Senate,38,Democrat,Kelvin E. Butler,367
+Walthall,Enon,State Senate,38,Democrat,Kelvin E. Butler,x
+Walthall,St Paul,State Senate,38,Democrat,Kelvin E. Butler,166
+Walthall,Hope,State Senate,38,Democrat,Kelvin E. Butler,x
+Walthall,Midway,State Senate,40,Republican,Angela Burks Hill,x
+Walthall,Lexie,State Senate,40,Republican,Angela Burks Hill,369
+Walthall,South Kirklin,State Senate,40,Republican,Angela Burks Hill,x
+Walthall,North Kirklin,State Senate,40,Republican,Angela Burks Hill,x
+Walthall,East Tylertown,State Senate,40,Republican,Angela Burks Hill,66
+Walthall,West Tylertown,State Senate,40,Republican,Angela Burks Hill,174
+Walthall,Mesa,State Senate,40,Republican,Angela Burks Hill,38
+Walthall,South Knoxo,State Senate,40,Republican,Angela Burks Hill,72
+Walthall,North Knoxo,State Senate,40,Republican,Angela Burks Hill,158
+Walthall,Dexter,State Senate,40,Republican,Angela Burks Hill,307
+Walthall,Improve,State Senate,40,Republican,Angela Burks Hill,227
+Walthall,3rd District Tylertown,State Senate,40,Republican,Angela Burks Hill,226
+Walthall,4th District Tylertown,State Senate,40,Republican,Angela Burks Hill,335
+Walthall,Varnel,State Senate,40,Republican,Angela Burks Hill,328
+Walthall,Sartinsville,State Senate,40,Republican,Angela Burks Hill,112
+Walthall,4th District West,State Senate,40,Republican,Angela Burks Hill,127
+Walthall,Darbun,State Senate,40,Republican,Angela Burks Hill,220
+Walthall,Dinan,State Senate,40,Republican,Angela Burks Hill,x
+Walthall,Enon,State Senate,40,Republican,Angela Burks Hill,173
+Walthall,St Paul,State Senate,40,Republican,Angela Burks Hill,x
+Walthall,Hope,State Senate,40,Republican,Angela Burks Hill,78
+Walthall,Midway,State House,97,Republican,"Sam C. Mims, V",x
+Walthall,Lexie,State House,97,Republican,"Sam C. Mims, V",x
+Walthall,South Kirklin,State House,97,Republican,"Sam C. Mims, V",x
+Walthall,North Kirklin,State House,97,Republican,"Sam C. Mims, V",x
+Walthall,East Tylertown,State House,97,Republican,"Sam C. Mims, V",x
+Walthall,West Tylertown,State House,97,Republican,"Sam C. Mims, V",x
+Walthall,Mesa,State House,97,Republican,"Sam C. Mims, V",x
+Walthall,South Knoxo,State House,97,Republican,"Sam C. Mims, V",x
+Walthall,North Knoxo,State House,97,Republican,"Sam C. Mims, V",x
+Walthall,Dexter,State House,97,Republican,"Sam C. Mims, V",x
+Walthall,Improve,State House,97,Republican,"Sam C. Mims, V",x
+Walthall,3rd District Tylertown,State House,97,Republican,"Sam C. Mims, V",x
+Walthall,4th District Tylertown,State House,97,Republican,"Sam C. Mims, V",x
+Walthall,Varnel,State House,97,Republican,"Sam C. Mims, V",x
+Walthall,Sartinsville,State House,97,Republican,"Sam C. Mims, V",116
+Walthall,4th District West,State House,97,Republican,"Sam C. Mims, V",75
+Walthall,Darbun,State House,97,Republican,"Sam C. Mims, V",53
+Walthall,Dinan,State House,97,Republican,"Sam C. Mims, V",x
+Walthall,Enon,State House,97,Republican,"Sam C. Mims, V",41
+Walthall,St Paul,State House,97,Republican,"Sam C. Mims, V",x
+Walthall,Hope,State House,97,Republican,"Sam C. Mims, V",x
+Walthall,Midway,State House,98,Democrat,David W. Myers,x
+Walthall,Lexie,State House,98,Democrat,David W. Myers,x
+Walthall,South Kirklin,State House,98,Democrat,David W. Myers,x
+Walthall,North Kirklin,State House,98,Democrat,David W. Myers,x
+Walthall,East Tylertown,State House,98,Democrat,David W. Myers,x
+Walthall,West Tylertown,State House,98,Democrat,David W. Myers,x
+Walthall,Mesa,State House,98,Democrat,David W. Myers,x
+Walthall,South Knoxo,State House,98,Democrat,David W. Myers,x
+Walthall,North Knoxo,State House,98,Democrat,David W. Myers,x
+Walthall,Dexter,State House,98,Democrat,David W. Myers,x
+Walthall,Improve,State House,98,Democrat,David W. Myers,x
+Walthall,3rd District Tylertown,State House,98,Democrat,David W. Myers,x
+Walthall,4th District Tylertown,State House,98,Democrat,David W. Myers,11
+Walthall,Varnel,State House,98,Democrat,David W. Myers,93
+Walthall,Sartinsville,State House,98,Democrat,David W. Myers,x
+Walthall,4th District West,State House,98,Democrat,David W. Myers,x
+Walthall,Darbun,State House,98,Democrat,David W. Myers,x
+Walthall,Dinan,State House,98,Democrat,David W. Myers,369
+Walthall,Enon,State House,98,Democrat,David W. Myers,x
+Walthall,St Paul,State House,98,Democrat,David W. Myers,x
+Walthall,Hope,State House,98,Democrat,David W. Myers,x
+Walthall,Midway,State House,99,Republican,Bill Pigott,128
+Walthall,Lexie,State House,99,Republican,Bill Pigott,463
+Walthall,South Kirklin,State House,99,Republican,Bill Pigott,96
+Walthall,North Kirklin,State House,99,Republican,Bill Pigott,242
+Walthall,East Tylertown,State House,99,Republican,Bill Pigott,71
+Walthall,West Tylertown,State House,99,Republican,Bill Pigott,187
+Walthall,Mesa,State House,99,Republican,Bill Pigott,40
+Walthall,South Knoxo,State House,99,Republican,Bill Pigott,77
+Walthall,North Knoxo,State House,99,Republican,Bill Pigott,183
+Walthall,Dexter,State House,99,Republican,Bill Pigott,359
+Walthall,Improve,State House,99,Republican,Bill Pigott,251
+Walthall,3rd District Tylertown,State House,99,Republican,Bill Pigott,237
+Walthall,4th District Tylertown,State House,99,Republican,Bill Pigott,348
+Walthall,Varnel,State House,99,Republican,Bill Pigott,257
+Walthall,Sartinsville,State House,99,Republican,Bill Pigott,x
+Walthall,4th District West,State House,99,Republican,Bill Pigott,51
+Walthall,Darbun,State House,99,Republican,Bill Pigott,171
+Walthall,Dinan,State House,99,Republican,Bill Pigott,x
+Walthall,Enon,State House,99,Republican,Bill Pigott,138
+Walthall,St Paul,State House,99,Republican,Bill Pigott,116
+Walthall,Hope,State House,99,Republican,Bill Pigott,78
+Walthall,,Governor,,Republican,Phil Bryant,3261
+Walthall,,Governor,,Democrat,Johnny L. DuPree,2068
+Walthall,,Lieutenant Governor,,Reform,Tracella Lou O'Hara Hill,950
+Walthall,,Lieutenant Governor,,Republican,Tate Reeves,3786
+Walthall,,Secretary of State,,Republican,Delbert Hosemann,4118
+Walthall,,Attorney General,,Democrat,Jim Hood,3263
+Walthall,,Attorney General,,Republican,Steve Simpson,1923
+Walthall,,State Auditor,,Reform,Ashley Norwood,1115
+Walthall,,State Auditor,,Republican,Stacey E. Pickering,3468
+Walthall,,Treasurer,,Republican,Lynn Fitch,3120
+Walthall,,Treasurer,,Democrat,Connie Moran,1839
+Walthall,,Treasurer,,Reform,Shawn O'Hara,219
+Walthall,,Commissioner of Agriculture & Commerce,,Democrat,Joel Gill,2225
+Walthall,,Commissioner of Agriculture & Commerce,,Republican,Cindy Hyde-Smith,2801
+Walthall,,Commissioner of Agriculture & Commerce,,Reform,Cathy L. Toole,101
+Walthall,,Commissioner of Insurance,,Republican,Mike Chaney,3217
+Walthall,,Commissioner of Insurance,,Democrat,Louis Fondren,1726
+Walthall,,Commissioner of Insurance,,Reform,Barbara Dale Washer,168
+Walthall,,State Senate,38,Democrat,Kelvin E. Butler,1127
+Walthall,,State Senate,40,Republican,Angela Burks Hill,3010
+Walthall,,State House,97,Republican,"Sam C. Mims, V",285
+Walthall,,State House,98,Democrat,David W. Myers,473
+Walthall,,State House,99,Republican,Bill Pigott,3493

@@ -1,5 +1,5 @@
 county,precinct,office,district,party,candidate,votes
-Lowndes,Airbase 2,Governor,,Republican,Phil Bryant,310
+Lowndes,Airbase,Governor,,Republican,Phil Bryant,310
 Lowndes,Airbase,Governor,,Democrat,Robert Gray,250
 Lowndes,Airbase,Governor,,Reform,Shawn O'Hara,10
 Lowndes,Airbase,Lieutenant Governor,,Democrat,Tim Johnson,262
@@ -23,7 +23,7 @@ Lowndes,Airbase,Commissioner of Insurance,,Republican,Mike Chaney,436
 Lowndes,Airbase,State Senate,17,Republican,Charles A. Younger,445
 Lowndes,Airbase,State House,39,Democrat,James Samuel Sr,263
 Lowndes,Airbase,State House,39,Republican,Jeffrey C. Smith,300
-Lowndes,Artesia 5,Governor,,Republican,Phil Bryant,72
+Lowndes,Artesia,Governor,,Republican,Phil Bryant,72
 Lowndes,Artesia,Governor,,Democrat,Robert Gray,166
 Lowndes,Artesia,Governor,,Reform,Shawn O'Hara,5
 Lowndes,Artesia,Lieutenant Governor,,Democrat,Tim Johnson,179
@@ -46,7 +46,7 @@ Lowndes,Artesia,Commissioner of Agriculture & Commerce,,Reform,Cathy L Toole,4
 Lowndes,Artesia,Commissioner of Insurance,,Republican,Mike Chaney,144
 Lowndes,Artesia,State Senate,17,Republican,Charles A. Younger,150
 Lowndes,Artesia,State House,38,Democrat,Tyrone Ellis,214
-Lowndes,Brandon 2,Governor,,Republican,Phil Bryant,672
+Lowndes,Brandon,Governor,,Republican,Phil Bryant,672
 Lowndes,Brandon,Governor,,Democrat,Robert Gray,346
 Lowndes,Brandon,Governor,,Reform,Shawn O'Hara,6
 Lowndes,Brandon,Lieutenant Governor,,Democrat,Tim Johnson,366
@@ -71,7 +71,7 @@ Lowndes,Brandon,State Senate,17,Republican,Charles A. Younger,842
 Lowndes,Brandon,State House,39,Democrat,James Samuel Sr,342
 Lowndes,Brandon,State House,39,Republican,Jeffrey C. Smith,531
 Lowndes,Brandon,State House,41,Democrat,Kabir Karriem,75
-Lowndes,Caledonia 1,Governor,,Republican,Phil Bryant,1388
+Lowndes,Caledonia,Governor,,Republican,Phil Bryant,1388
 Lowndes,Caledonia,Governor,,Democrat,Robert Gray,177
 Lowndes,Caledonia,Governor,,Reform,Shawn O'Hara,8
 Lowndes,Caledonia,Lieutenant Governor,,Democrat,Tim Johnson,214
@@ -95,7 +95,7 @@ Lowndes,Caledonia,Commissioner of Insurance,,Republican,Mike Chaney,1456
 Lowndes,Caledonia,State Senate,17,Republican,Charles A. Younger,1461
 Lowndes,Caledonia,State House,39,Democrat,James Samuel Sr,216
 Lowndes,Caledonia,State House,39,Republican,Jeffrey C. Smith,1342
-Lowndes,Coleman 4,Governor,,Republican,Phil Bryant,34
+Lowndes,Coleman,Governor,,Republican,Phil Bryant,34
 Lowndes,Coleman,Governor,,Democrat,Robert Gray,158
 Lowndes,Coleman,Governor,,Reform,Shawn O'Hara,3
 Lowndes,Coleman,Lieutenant Governor,,Democrat,Tim Johnson,168
@@ -118,8 +118,8 @@ Lowndes,Coleman,Commissioner of Agriculture & Commerce,,Reform,Cathy L Toole,4
 Lowndes,Coleman,Commissioner of Insurance,,Republican,Mike Chaney,83
 Lowndes,Coleman,State Senate,16,Democrat,Angela Turner,169
 Lowndes,Coleman,State House,41,Democrat,Kabir Karriem,178
-Lowndes,Columbus Christian 1,Governor,,Republican,Phil Bryant,329
-Lowndes,Columbus Christian,Governor,,Democrat,Phil Bryant,140
+Lowndes,Columbus Christian,Governor,,Republican,Phil Bryant,329
+Lowndes,Columbus Christian,Governor,,Democrat,Robert Gray,140
 Lowndes,Columbus Christian,Governor,,Reform,Shawn O'Hara,6
 Lowndes,Columbus Christian,Lieutenant Governor,,Democrat,Tim Johnson,143
 Lowndes,Columbus Christian,Lieutenant Governor,,Republican,Tate Reeves,309
@@ -143,7 +143,7 @@ Lowndes,Columbus Christian,State Senate,17,Republican,Charles A. Younger,417
 Lowndes,Columbus Christian,State House,37,Republican,Gary Chism,253
 Lowndes,Columbus Christian,State House,39,Democrat,James Samuel Sr,69
 Lowndes,Columbus Christian,State House,39,Republican,Jeffrey C. Smith,113
-Lowndes,Columbus High 1,Governor,,Republican,Phil Bryant,599
+Lowndes,Columbus High,Governor,,Republican,Phil Bryant,599
 Lowndes,Columbus High,Governor,,Democrat,Robert Gray,669
 Lowndes,Columbus High,Governor,,Reform,Shawn O'Hara,14
 Lowndes,Columbus High,Lieutenant Governor,,Democrat,Tim Johnson,706
@@ -166,7 +166,7 @@ Lowndes,Columbus High,Commissioner of Agriculture & Commerce,,Reform,Cathy L Too
 Lowndes,Columbus High,Commissioner of Insurance,,Republican,Mike Chaney,919
 Lowndes,Columbus High,State Senate,17,Republican,Charles A. Younger,929
 Lowndes,Columbus High,State House,41,Democrat,Kabir Karriem,947
-Lowndes,Crawford 4,Governor,,Republican,Phil Bryant,154
+Lowndes,Crawford,Governor,,Republican,Phil Bryant,154
 Lowndes,Crawford,Governor,,Democrat,Robert Gray,445
 Lowndes,Crawford,Governor,,Reform,Shawn O'Hara,5
 Lowndes,Crawford,Lieutenant Governor,,Democrat,Tim Johnson,464
@@ -190,7 +190,7 @@ Lowndes,Crawford,Commissioner of Insurance,,Republican,Mike Chaney,307
 Lowndes,Crawford,State Senate,17,Republican,Charles A. Younger,315
 Lowndes,Crawford,State House,42,Independent,Dorothy Baker Hines,89
 Lowndes,Crawford,State House,42,Democrat,Carl Mickens,512
-Lowndes,First Assembly 2,Governor,,Republican,Phil Bryant,1544
+Lowndes,First Assembly,Governor,,Republican,Phil Bryant,1544
 Lowndes,First Assembly,Governor,,Democrat,Robert Gray,392
 Lowndes,First Assembly,Governor,,Reform,Shawn O'Hara,16
 Lowndes,First Assembly,Lieutenant Governor,,Democrat,Tim Johnson,419
@@ -215,7 +215,7 @@ Lowndes,First Assembly,State Senate,17,Republican,Charles A. Younger,1763
 Lowndes,First Assembly,State House,39,Democrat,James Samuel Sr,407
 Lowndes,First Assembly,State House,39,Republican,Jeffrey C. Smith,1454
 Lowndes,First Assembly,State House,41,Democrat,Kabir Karriem,60
-Lowndes,Hunt 5,Governor,,Republican,Phil Bryant,127
+Lowndes,Hunt,Governor,,Republican,Phil Bryant,127
 Lowndes,Hunt,Governor,,Democrat,Robert Gray,753
 Lowndes,Hunt,Governor,,Reform,Shawn O'Hara,7
 Lowndes,Hunt,Lieutenant Governor,,Democrat,Tim Johnson,782
@@ -237,9 +237,9 @@ Lowndes,Hunt,Commissioner of Agriculture & Commerce,,Republican,Cindy Hyde-Smith
 Lowndes,Hunt,Commissioner of Agriculture & Commerce,,Reform,Cathy L Toole,9
 Lowndes,Hunt,Commissioner of Insurance,,Republican,Mike Chaney,390
 Lowndes,Hunt,State Senate,16,Democrat,Angela Turner,735
-Lowndes,Hunt,State Senate,17,Republican,Charles A. Younger,38
+Lowndes,Hunt,State Senate,17,Republican,Charles A. Younger,28
 Lowndes,Hunt,State House,41,Democrat,Kabir Karriem,795
-Lowndes,National Guard Armory 4,Governor,,Republican,Phil Bryant,395
+Lowndes,National Guard Armory,Governor,,Republican,Phil Bryant,395
 Lowndes,National Guard Armory,Governor,,Democrat,Robert Gray,1077
 Lowndes,National Guard Armory,Governor,,Reform,Shawn O'Hara,14
 Lowndes,National Guard Armory,Lieutenant Governor,,Democrat,Tim Johnson,1123
@@ -262,8 +262,9 @@ Lowndes,National Guard Armory,Commissioner of Agriculture & Commerce,,Reform,Cat
 Lowndes,National Guard Armory,Commissioner of Insurance,,Republican,Mike Chaney,884
 Lowndes,National Guard Armory,State Senate,16,Democrat,Angela Turner,715
 Lowndes,National Guard Armory,State Senate,17,Republican,Charles A. Younger,450
+Lowndes,National Guard Armory,State House,37,Republican,Gary Chism,277
 Lowndes,National Guard Armory,State House,41,Democrat,Kabir Karriem,928
-Lowndes,New Hope 3,Governor,,Republican,Phil Bryant,2070
+Lowndes,New Hope,Governor,,Republican,Phil Bryant,2070
 Lowndes,New Hope,Governor,,Democrat,Robert Gray,310
 Lowndes,New Hope,Governor,,Reform,Shawn O'Hara,11
 Lowndes,New Hope,Lieutenant Governor,,Democrat,Tim Johnson,348
@@ -286,7 +287,7 @@ Lowndes,New Hope,Commissioner of Agriculture & Commerce,,Reform,Cathy L Toole,28
 Lowndes,New Hope,Commissioner of Insurance,,Republican,Mike Chaney,2204
 Lowndes,New Hope,State Senate,17,Republican,Charles A. Younger,2210
 Lowndes,New Hope,State House,37,Republican,Gary Chism,2193
-Lowndes,Plum Grove 4,Governor,,Republican,Phil Bryant,40
+Lowndes,Plum Grove,Governor,,Republican,Phil Bryant,40
 Lowndes,Plum Grove,Governor,,Democrat,Robert Gray,209
 Lowndes,Plum Grove,Governor,,Reform,Shawn O'Hara,2
 Lowndes,Plum Grove,Lieutenant Governor,,Democrat,Tim Johnson,212
@@ -311,7 +312,7 @@ Lowndes,Plum Grove,State Senate,17,Republican,Charles A. Younger,127
 Lowndes,Plum Grove,State House,37,Republican,Gary Chism,5
 Lowndes,Plum Grove,State House,42,Independent,Dorothy Baker Hines,8
 Lowndes,Plum Grove,State House,42,Democrat,Carl Mickens,234
-Lowndes,Propst Park 5,Governor,,Republican,Phil Bryant,38
+Lowndes,Propst Park,Governor,,Republican,Phil Bryant,38
 Lowndes,Propst Park,Governor,,Democrat,Robert Gray,187
 Lowndes,Propst Park,Governor,,Reform,Shawn O'Hara,0
 Lowndes,Propst Park,Lieutenant Governor,,Democrat,Tim Johnson,195
@@ -334,7 +335,7 @@ Lowndes,Propst Park,Commissioner of Agriculture & Commerce,,Reform,Cathy L Toole
 Lowndes,Propst Park,Commissioner of Insurance,,Republican,Mike Chaney,109
 Lowndes,Propst Park,State Senate,16,Democrat,Angela Turner,198
 Lowndes,Propst Park,State House,41,Democrat,Kabir Karriem,212
-Lowndes,Rural Hill 3,Governor,,Republican,Phil Bryant,914
+Lowndes,Rural Hill,Governor,,Republican,Phil Bryant,914
 Lowndes,Rural Hill,Governor,,Democrat,Robert Gray,246
 Lowndes,Rural Hill,Governor,,Reform,Shawn O'Hara,10
 Lowndes,Rural Hill,Lieutenant Governor,,Democrat,Tim Johnson,288
@@ -357,7 +358,7 @@ Lowndes,Rural Hill,Commissioner of Agriculture & Commerce,,Reform,Cathy L Toole,
 Lowndes,Rural Hill,Commissioner of Insurance,,Republican,Mike Chaney,1038
 Lowndes,Rural Hill,State Senate,17,Republican,Charles A. Younger,1041
 Lowndes,Rural Hill,State House,37,Republican,Gary Chism,1030
-Lowndes,Steens 1,Governor,,Republican,Phil Bryant,279
+Lowndes,Steens,Governor,,Republican,Phil Bryant,279
 Lowndes,Steens,Governor,,Democrat,Robert Gray,38
 Lowndes,Steens,Governor,,Reform,Shawn O'Hara,5
 Lowndes,Steens,Lieutenant Governor,,Democrat,Tim Johnson,46
@@ -380,7 +381,7 @@ Lowndes,Steens,Commissioner of Agriculture & Commerce,,Reform,Cathy L Toole,2
 Lowndes,Steens,Commissioner of Insurance,,Republican,Mike Chaney,299
 Lowndes,Steens,State Senate,17,Republican,Charles A. Younger,300
 Lowndes,Steens,State House,37,Republican,Gary Chism,297
-Lowndes,Townsend Park 4,Governor,,Republican,Phil Bryant,133
+Lowndes,Townsend Park,Governor,,Republican,Phil Bryant,133
 Lowndes,Townsend Park,Governor,,Democrat,Robert Gray,574
 Lowndes,Townsend Park,Governor,,Reform,Shawn O'Hara,7
 Lowndes,Townsend Park,Lieutenant Governor,,Democrat,Tim Johnson,598
@@ -403,7 +404,7 @@ Lowndes,Townsend Park,Commissioner of Agriculture & Commerce,,Reform,Cathy L Too
 Lowndes,Townsend Park,Commissioner of Insurance,,Republican,Mike Chaney,389
 Lowndes,Townsend Park,State Senate,16,Democrat,Angela Turner,636
 Lowndes,Townsend Park,State House,41,Democrat,Kabir Karriem,625
-Lowndes,Trinity 5,Governor,,Republican,Phil Bryant,238
+Lowndes,Trinity,Governor,,Republican,Phil Bryant,238
 Lowndes,Trinity,Governor,,Democrat,Robert Gray,346
 Lowndes,Trinity,Governor,,Reform,Shawn O'Hara,4
 Lowndes,Trinity,Lieutenant Governor,,Democrat,Tim Johnson,359
@@ -426,7 +427,7 @@ Lowndes,Trinity,Commissioner of Agriculture & Commerce,,Reform,Cathy L Toole,10
 Lowndes,Trinity,Commissioner of Insurance,,Republican,Mike Chaney,364
 Lowndes,Trinity,State Senate,17,Republican,Charles A. Younger,384
 Lowndes,Trinity,State House,41,Democrat,Kabir Karriem,435
-Lowndes,Union 5,Governor,,Republican,Phil Bryant,141
+Lowndes,Union,Governor,,Republican,Phil Bryant,141
 Lowndes,Union,Governor,,Democrat,Robert Gray,361
 Lowndes,Union,Governor,,Reform,Shawn O'Hara,5
 Lowndes,Union,Lieutenant Governor,,Democrat,Tim Johnson,384
@@ -450,7 +451,7 @@ Lowndes,Union,Commissioner of Insurance,,Republican,Mike Chaney,287
 Lowndes,Union,State Senate,16,Democrat,Angela Turner,297
 Lowndes,Union,State Senate,17,Republican,Charles A. Younger,113
 Lowndes,Union,State House,41,Democrat,Kabir Karriem,448
-Lowndes,University 5,Governor,,Republican,Phil Bryant,299
+Lowndes,University,Governor,,Republican,Phil Bryant,299
 Lowndes,University,Governor,,Democrat,Robert Gray,153
 Lowndes,University,Governor,,Reform,Shawn O'Hara,7
 Lowndes,University,Lieutenant Governor,,Democrat,Tim Johnson,160
@@ -473,7 +474,7 @@ Lowndes,University,Commissioner of Agriculture & Commerce,,Reform,Cathy L Toole,
 Lowndes,University,Commissioner of Insurance,,Republican,Mike Chaney,376
 Lowndes,University,State Senate,17,Republican,Charles A. Younger,384
 Lowndes,University,State House,41,Democrat,Kabir Karriem,285
-Lowndes,W Lowndes 5,Governor,,Republican,Phil Bryant,511
+Lowndes,W Lowndes,Governor,,Republican,Phil Bryant,511
 Lowndes,W Lowndes,Governor,,Democrat,Robert Gray,140
 Lowndes,W Lowndes,Governor,,Reform,Shawn O'Hara,6
 Lowndes,W Lowndes,Lieutenant Governor,,Democrat,Tim Johnson,156
@@ -496,6 +497,7 @@ Lowndes,W Lowndes,Commissioner of Agriculture & Commerce,,Reform,Cathy L Toole,7
 Lowndes,W Lowndes,Commissioner of Insurance,,Republican,Mike Chaney,573
 Lowndes,W Lowndes,State Senate,16,Democrat,Angela Turner,54
 Lowndes,W Lowndes,State Senate,17,Republican,Charles A. Younger,493
+Lowndes,W Lowndes,State House,37,Republican,Gary Chism,302
 Lowndes,W Lowndes,State House,41,Democrat,Kabir Karriem,152
 Lowndes,,Governor,,Republican,Phil Bryant,10287
 Lowndes,,Governor,,Democrat,Robert Gray,7137
