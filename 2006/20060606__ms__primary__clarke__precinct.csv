@@ -1,81 +1,81 @@
-county,precinct,office,district,party,candidate,votes
-Clarke,BASIC CITY,U.S. Representative,4,Democrat,Gene Taylor,10
-Clarke,BASIC CITY,US Senator,,Democrat,Bill Bowlin,2
-Clarke,BASIC CITY,US Senator,,Democrat,Erik Fleming,6
-Clarke,BASIC CITY,US Senator,,Democrat,James O’Keefe,2
-Clarke,BASIC CITY,US Senator,,Democrat,Catherine M. Starr,1
-Clarke,BEAVERDAM,U.S. Representative,4,Democrat,Gene Taylor,32
-Clarke,BEAVERDAM,US Senator,,Democrat,Bill Bowlin,2
-Clarke,BEAVERDAM,US Senator,,Democrat,Erik Fleming,24
-Clarke,BEAVERDAM,US Senator,,Democrat,James O’Keefe,2
-Clarke,BEAVERDAM,US Senator,,Democrat,Catherine M. Starr,2
-Clarke,CARMICHAEL,U.S. Representative,4,Democrat,Gene Taylor,22
-Clarke,CARMICHAEL,US Senator,,Democrat,Bill Bowlin,4
-Clarke,CARMICHAEL,US Senator,,Democrat,Erik Fleming,10
-Clarke,CARMICHAEL,US Senator,,Democrat,James O’Keefe,5
-Clarke,CARMICHAEL,US Senator,,Democrat,Catherine M. Starr,3
-Clarke,DESOTO,U.S. Representative,4,Democrat,Gene Taylor,36
-Clarke,DESOTO,US Senator,,Democrat,Bill Bowlin,2
-Clarke,DESOTO,US Senator,,Democrat,Erik Fleming,23
-Clarke,DESOTO,US Senator,,Democrat,James O’Keefe,5
-Clarke,DESOTO,US Senator,,Democrat,Catherine M. Starr,6
-Clarke,EAST QUITMAN,U.S. Representative,4,Democrat,Gene Taylor,21
-Clarke,EAST QUITMAN,US Senator,,Democrat,Bill Bowlin,7
-Clarke,EAST QUITMAN,US Senator,,Democrat,Erik Fleming,6
-Clarke,EAST QUITMAN,US Senator,,Democrat,James O’Keefe,8
-Clarke,EAST QUITMAN,US Senator,,Democrat,Catherine M. Starr,2
-Clarke,ENERGY,U.S. Representative,4,Democrat,Gene Taylor,5
-Clarke,ENERGY,US Senator,,Democrat,Bill Bowlin,0
-Clarke,ENERGY,US Senator,,Democrat,Erik Fleming,4
-Clarke,ENERGY,US Senator,,Democrat,James O’Keefe,1
-Clarke,ENERGY,US Senator,,Democrat,Catherine M. Starr,0
-Clarke,ENTERPRISE,U.S. Representative,4,Democrat,Gene Taylor,48
-Clarke,ENTERPRISE,US Senator,,Democrat,Bill Bowlin,8
-Clarke,ENTERPRISE,US Senator,,Democrat,Erik Fleming,23
-Clarke,ENTERPRISE,US Senator,,Democrat,James O’Keefe,17
-Clarke,ENTERPRISE,US Senator,,Democrat,Catherine M. Starr,4
-Clarke,HALE,U.S. Representative,4,Democrat,Gene Taylor,30
-Clarke,HALE,US Senator,,Democrat,Bill Bowlin,3
-Clarke,HALE,US Senator,,Democrat,Erik Fleming,22
-Clarke,HALE,US Senator,,Democrat,James O’Keefe,3
-Clarke,HALE,US Senator,,Democrat,Catherine M. Starr,2
-Clarke,HARMONY Dist. 1,U.S. Representative,4,Democrat,Gene Taylor,6
-Clarke,HARMONY Dist. 1,US Senator,,Democrat,Bill Bowlin,2
-Clarke,HARMONY Dist. 1,US Senator,,Democrat,Erik Fleming,4
-Clarke,HARMONY Dist. 1,US Senator,,Democrat,James O’Keefe,0
-Clarke,HARMONY Dist. 1,US Senator,,Democrat,Catherine M. Starr,0
-Clarke,HARMONY Dist. 2,U.S. Representative,4,Democrat,Gene Taylor,5
-Clarke,HARMONY Dist. 2,US Senator,,Democrat,Bill Bowlin,1
-Clarke,HARMONY Dist. 2,US Senator,,Democrat,Erik Fleming,1
-Clarke,HARMONY Dist. 2,US Senator,,Democrat,James O’Keefe,3
-Clarke,HARMONY Dist. 2,US Senator,,Democrat,Catherine M. Starr,0
-Clarke,LANGSDALE,U.S. Representative,4,Democrat,Gene Taylor,19
-Clarke,LANGSDALE,US Senator,,Democrat,Bill Bowlin,3
-Clarke,LANGSDALE,US Senator,,Democrat,Erik Fleming,12
-Clarke,LANGSDALE,US Senator,,Democrat,James O’Keefe,2
-Clarke,LANGSDALE,US Senator,,Democrat,Catherine M. Starr,2
-Clarke,SOUTH QUITMAN,U.S. Representative,4,Democrat,Gene Taylor,69
-Clarke,SOUTH QUITMAN,US Senator,,Democrat,Bill Bowlin,2
-Clarke,SOUTH QUITMAN,US Senator,,Democrat,Erik Fleming,46
-Clarke,SOUTH QUITMAN,US Senator,,Democrat,James O’Keefe,22
-Clarke,SOUTH QUITMAN,US Senator,,Democrat,Catherine M. Starr,5
-Clarke,SPRINGS,U.S. Representative,4,Democrat,Gene Taylor,30
-Clarke,SPRINGS,US Senator,,Democrat,Bill Bowlin,2
-Clarke,SPRINGS,US Senator,,Democrat,Erik Fleming,18
-Clarke,SPRINGS,US Senator,,Democrat,James O’Keefe,4
-Clarke,SPRINGS,US Senator,,Democrat,Catherine M. Starr,5
-Clarke,STONEWALL Dist. 3,U.S. Representative,4,Democrat,Gene Taylor,26
-Clarke,STONEWALL Dist. 3,US Senator,,Democrat,Bill Bowlin,12
-Clarke,STONEWALL Dist. 3,US Senator,,Democrat,Erik Fleming,5
-Clarke,STONEWALL Dist. 3,US Senator,,Democrat,James O’Keefe,3
-Clarke,STONEWALL Dist. 3,US Senator,,Democrat,Catherine M. Starr,6
-Clarke,STONEWALL Dist. 1,U.S. Representative,4,Democrat,Gene Taylor,28
-Clarke,STONEWALL Dist. 1,US Senator,,Democrat,Bill Bowlin,1
-Clarke,STONEWALL Dist. 1,US Senator,,Democrat,Erik Fleming,17
-Clarke,STONEWALL Dist. 1,US Senator,,Democrat,James O’Keefe,5
-Clarke,STONEWALL Dist. 1,US Senator,,Democrat,Catherine M. Starr,4
-Clarke,UNION,U.S. Representative,4,Democrat,Gene Taylor,1
-Clarke,UNION,US Senator,,Democrat,Bill Bowlin,0
-Clarke,UNION,US Senator,,Democrat,Erik Fleming,1
-Clarke,UNION,US Senator,,Democrat,James O’Keefe,0
-Clarke,UNION,US Senator,,Democrat,Catherine M. Starr,0
+"","county","precinct","office","district","party","candidate","votes"
+"1","Clarke","BASIC CITY","U.S. Representative",4,"Democrat","TAYLOR, GENE",10
+"2","Clarke","BASIC CITY","US Senator",NA,"Democrat","BOWLIN, BILL",2
+"3","Clarke","BASIC CITY","US Senator",NA,"Democrat","FLEMING, ERIK",6
+"4","Clarke","BASIC CITY","US Senator",NA,"Democrat","O'KEEFE, JAMES",2
+"5","Clarke","BASIC CITY","US Senator",NA,"Democrat","STARR, CATHERINE M.",1
+"6","Clarke","BEAVERDAM","U.S. Representative",4,"Democrat","TAYLOR, GENE",32
+"7","Clarke","BEAVERDAM","US Senator",NA,"Democrat","BOWLIN, BILL",2
+"8","Clarke","BEAVERDAM","US Senator",NA,"Democrat","FLEMING, ERIK",24
+"9","Clarke","BEAVERDAM","US Senator",NA,"Democrat","O'KEEFE, JAMES",2
+"10","Clarke","BEAVERDAM","US Senator",NA,"Democrat","STARR, CATHERINE M.",2
+"11","Clarke","CARMICHAEL","U.S. Representative",4,"Democrat","TAYLOR, GENE",22
+"12","Clarke","CARMICHAEL","US Senator",NA,"Democrat","BOWLIN, BILL",4
+"13","Clarke","CARMICHAEL","US Senator",NA,"Democrat","FLEMING, ERIK",10
+"14","Clarke","CARMICHAEL","US Senator",NA,"Democrat","O'KEEFE, JAMES",5
+"15","Clarke","CARMICHAEL","US Senator",NA,"Democrat","STARR, CATHERINE M.",3
+"16","Clarke","DESOTO","U.S. Representative",4,"Democrat","TAYLOR, GENE",36
+"17","Clarke","DESOTO","US Senator",NA,"Democrat","BOWLIN, BILL",2
+"18","Clarke","DESOTO","US Senator",NA,"Democrat","FLEMING, ERIK",23
+"19","Clarke","DESOTO","US Senator",NA,"Democrat","O'KEEFE, JAMES",5
+"20","Clarke","DESOTO","US Senator",NA,"Democrat","STARR, CATHERINE M.",6
+"21","Clarke","EAST QUITMAN","U.S. Representative",4,"Democrat","TAYLOR, GENE",21
+"22","Clarke","EAST QUITMAN","US Senator",NA,"Democrat","BOWLIN, BILL",7
+"23","Clarke","EAST QUITMAN","US Senator",NA,"Democrat","FLEMING, ERIK",6
+"24","Clarke","EAST QUITMAN","US Senator",NA,"Democrat","O'KEEFE, JAMES",8
+"25","Clarke","EAST QUITMAN","US Senator",NA,"Democrat","STARR, CATHERINE M.",2
+"26","Clarke","ENERGY","U.S. Representative",4,"Democrat","TAYLOR, GENE",5
+"27","Clarke","ENERGY","US Senator",NA,"Democrat","BOWLIN, BILL",0
+"28","Clarke","ENERGY","US Senator",NA,"Democrat","FLEMING, ERIK",4
+"29","Clarke","ENERGY","US Senator",NA,"Democrat","O'KEEFE, JAMES",1
+"30","Clarke","ENERGY","US Senator",NA,"Democrat","STARR, CATHERINE M.",0
+"31","Clarke","ENTERPRISE","U.S. Representative",4,"Democrat","TAYLOR, GENE",48
+"32","Clarke","ENTERPRISE","US Senator",NA,"Democrat","BOWLIN, BILL",8
+"33","Clarke","ENTERPRISE","US Senator",NA,"Democrat","FLEMING, ERIK",23
+"34","Clarke","ENTERPRISE","US Senator",NA,"Democrat","O'KEEFE, JAMES",17
+"35","Clarke","ENTERPRISE","US Senator",NA,"Democrat","STARR, CATHERINE M.",4
+"36","Clarke","HALE","U.S. Representative",4,"Democrat","TAYLOR, GENE",30
+"37","Clarke","HALE","US Senator",NA,"Democrat","BOWLIN, BILL",3
+"38","Clarke","HALE","US Senator",NA,"Democrat","FLEMING, ERIK",22
+"39","Clarke","HALE","US Senator",NA,"Democrat","O'KEEFE, JAMES",3
+"40","Clarke","HALE","US Senator",NA,"Democrat","STARR, CATHERINE M.",2
+"41","Clarke","HARMONY Dist. 1","U.S. Representative",4,"Democrat","TAYLOR, GENE",6
+"42","Clarke","HARMONY Dist. 1","US Senator",NA,"Democrat","BOWLIN, BILL",2
+"43","Clarke","HARMONY Dist. 1","US Senator",NA,"Democrat","FLEMING, ERIK",4
+"44","Clarke","HARMONY Dist. 1","US Senator",NA,"Democrat","O'KEEFE, JAMES",0
+"45","Clarke","HARMONY Dist. 1","US Senator",NA,"Democrat","STARR, CATHERINE M.",0
+"46","Clarke","HARMONY Dist. 2","U.S. Representative",4,"Democrat","TAYLOR, GENE",5
+"47","Clarke","HARMONY Dist. 2","US Senator",NA,"Democrat","BOWLIN, BILL",1
+"48","Clarke","HARMONY Dist. 2","US Senator",NA,"Democrat","FLEMING, ERIK",1
+"49","Clarke","HARMONY Dist. 2","US Senator",NA,"Democrat","O'KEEFE, JAMES",3
+"50","Clarke","HARMONY Dist. 2","US Senator",NA,"Democrat","STARR, CATHERINE M.",0
+"51","Clarke","LANGSDALE","U.S. Representative",4,"Democrat","TAYLOR, GENE",19
+"52","Clarke","LANGSDALE","US Senator",NA,"Democrat","BOWLIN, BILL",3
+"53","Clarke","LANGSDALE","US Senator",NA,"Democrat","FLEMING, ERIK",12
+"54","Clarke","LANGSDALE","US Senator",NA,"Democrat","O'KEEFE, JAMES",2
+"55","Clarke","LANGSDALE","US Senator",NA,"Democrat","STARR, CATHERINE M.",2
+"56","Clarke","SOUTH QUITMAN","U.S. Representative",4,"Democrat","TAYLOR, GENE",69
+"57","Clarke","SOUTH QUITMAN","US Senator",NA,"Democrat","BOWLIN, BILL",2
+"58","Clarke","SOUTH QUITMAN","US Senator",NA,"Democrat","FLEMING, ERIK",46
+"59","Clarke","SOUTH QUITMAN","US Senator",NA,"Democrat","O'KEEFE, JAMES",22
+"60","Clarke","SOUTH QUITMAN","US Senator",NA,"Democrat","STARR, CATHERINE M.",5
+"61","Clarke","SPRINGS","U.S. Representative",4,"Democrat","TAYLOR, GENE",30
+"62","Clarke","SPRINGS","US Senator",NA,"Democrat","BOWLIN, BILL",2
+"63","Clarke","SPRINGS","US Senator",NA,"Democrat","FLEMING, ERIK",18
+"64","Clarke","SPRINGS","US Senator",NA,"Democrat","O'KEEFE, JAMES",4
+"65","Clarke","SPRINGS","US Senator",NA,"Democrat","STARR, CATHERINE M.",5
+"66","Clarke","STONEWALL Dist. 3","U.S. Representative",4,"Democrat","TAYLOR, GENE",26
+"67","Clarke","STONEWALL Dist. 3","US Senator",NA,"Democrat","BOWLIN, BILL",12
+"68","Clarke","STONEWALL Dist. 3","US Senator",NA,"Democrat","FLEMING, ERIK",5
+"69","Clarke","STONEWALL Dist. 3","US Senator",NA,"Democrat","O'KEEFE, JAMES",3
+"70","Clarke","STONEWALL Dist. 3","US Senator",NA,"Democrat","STARR, CATHERINE M.",6
+"71","Clarke","STONEWALL Dist. 1","U.S. Representative",4,"Democrat","TAYLOR, GENE",28
+"72","Clarke","STONEWALL Dist. 1","US Senator",NA,"Democrat","BOWLIN, BILL",1
+"73","Clarke","STONEWALL Dist. 1","US Senator",NA,"Democrat","FLEMING, ERIK",17
+"74","Clarke","STONEWALL Dist. 1","US Senator",NA,"Democrat","O'KEEFE, JAMES",5
+"75","Clarke","STONEWALL Dist. 1","US Senator",NA,"Democrat","STARR, CATHERINE M.",4
+"76","Clarke","UNION","U.S. Representative",4,"Democrat","TAYLOR, GENE",1
+"77","Clarke","UNION","US Senator",NA,"Democrat","BOWLIN, BILL",0
+"78","Clarke","UNION","US Senator",NA,"Democrat","FLEMING, ERIK",1
+"79","Clarke","UNION","US Senator",NA,"Democrat","O'KEEFE, JAMES",0
+"80","Clarke","UNION","US Senator",NA,"Democrat","STARR, CATHERINE M.",0
