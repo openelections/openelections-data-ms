@@ -1,36 +1,36 @@
-county,precinct,office,district,party,candidate,votes
-Issaquena,ADDIE,U.S. Representative,2,Democrat,Dorothy Benford,0
-Issaquena,ADDIE,U.S. Representative,2,Democrat,Chuck Espy,27
-Issaquena,ADDIE,U.S. Representative,2,Democrat,Bennie G. Thompson,67
-Issaquena,ADDIE,US Senator,,Democrat,Bill Bowlin,12
-Issaquena,ADDIE,US Senator,,Democrat,Erik Fleming,36
-Issaquena,ADDIE,US Senator,,Democrat,James O’Keefe,19
-Issaquena,ADDIE,US Senator,,Democrat,Catherine M. Starr,10
-Issaquena,GRACIE,U.S. Representative,2,Democrat,Dorothy Benford,4
-Issaquena,GRACIE,U.S. Representative,2,Democrat,Chuck Espy,43
-Issaquena,GRACIE,U.S. Representative,2,Democrat,Bennie G. Thompson,31
-Issaquena,GRACIE,US Senator,,Democrat,Bill Bowlin,22
-Issaquena,GRACIE,US Senator,,Democrat,Erik Fleming,26
-Issaquena,GRACIE,US Senator,,Democrat,James O’Keefe,9
-Issaquena,GRACIE,US Senator,,Democrat,Catherine M. Starr,5
-Issaquena,MAYERSVILLE COURTHOUSE,U.S. Representative,2,Democrat,Dorothy Benford,0
-Issaquena,MAYERSVILLE COURTHOUSE,U.S. Representative,2,Democrat,Chuck Espy,7
-Issaquena,MAYERSVILLE COURTHOUSE,U.S. Representative,2,Democrat,Bennie G. Thompson,88
-Issaquena,MAYERSVILLE COURTHOUSE,US Senator,,Democrat,Bill Bowlin,5
-Issaquena,MAYERSVILLE COURTHOUSE,US Senator,,Democrat,Erik Fleming,63
-Issaquena,MAYERSVILLE COURTHOUSE,US Senator,,Democrat,James O’Keefe,14
-Issaquena,MAYERSVILLE COURTHOUSE,US Senator,,Democrat,Catherine M. Starr,6
-Issaquena,TALLULA COMMUNITY CENTER,U.S. Representative,2,Democrat,Dorothy Benford,0
-Issaquena,TALLULA COMMUNITY CENTER,U.S. Representative,2,Democrat,Chuck Espy,28
-Issaquena,TALLULA COMMUNITY CENTER,U.S. Representative,2,Democrat,Bennie G. Thompson,36
-Issaquena,TALLULA COMMUNITY CENTER,US Senator,,Democrat,Bill Bowlin,21
-Issaquena,TALLULA COMMUNITY CENTER,US Senator,,Democrat,Erik Fleming,18
-Issaquena,TALLULA COMMUNITY CENTER,US Senator,,Democrat,James O’Keefe,15
-Issaquena,TALLULA COMMUNITY CENTER,US Senator,,Democrat,Catherine M. Starr,5
-Issaquena,VALLEY PARK COMMUNITY CENTER,U.S. Representative,2,Democrat,Dorothy Benford,0
-Issaquena,VALLEY PARK COMMUNITY CENTER,U.S. Representative,2,Democrat,Chuck Espy,46
-Issaquena,VALLEY PARK COMMUNITY CENTER,U.S. Representative,2,Democrat,Bennie G. Thompson,31
-Issaquena,VALLEY PARK COMMUNITY CENTER,US Senator,,Democrat,Bill Bowlin,18
-Issaquena,VALLEY PARK COMMUNITY CENTER,US Senator,,Democrat,Erik Fleming,25
-Issaquena,VALLEY PARK COMMUNITY CENTER,US Senator,,Democrat,James O’Keefe,24
-Issaquena,VALLEY PARK COMMUNITY CENTER,US Senator,,Democrat,Catherine M. Starr,3
+"","county","precinct","office","district","party","candidate","votes"
+"1","Issaquena","ADDIE","U.S. Representative",2,"Democrat","BENFORD, DOROTHY",0
+"2","Issaquena","ADDIE","U.S. Representative",2,"Democrat","ESPY, CHUCK",27
+"3","Issaquena","ADDIE","U.S. Representative",2,"Democrat","THOMPSON, BENNIE G.",67
+"4","Issaquena","ADDIE","US Senator",NA,"Democrat","BOWLIN, BILL",12
+"5","Issaquena","ADDIE","US Senator",NA,"Democrat","FLEMING, ERIK",36
+"6","Issaquena","ADDIE","US Senator",NA,"Democrat","O'KEEFE, JAMES",19
+"7","Issaquena","ADDIE","US Senator",NA,"Democrat","STARR, CATHERINE M.",10
+"8","Issaquena","GRACIE","U.S. Representative",2,"Democrat","BENFORD, DOROTHY",4
+"9","Issaquena","GRACIE","U.S. Representative",2,"Democrat","ESPY, CHUCK",43
+"10","Issaquena","GRACIE","U.S. Representative",2,"Democrat","THOMPSON, BENNIE G.",31
+"11","Issaquena","GRACIE","US Senator",NA,"Democrat","BOWLIN, BILL",22
+"12","Issaquena","GRACIE","US Senator",NA,"Democrat","FLEMING, ERIK",26
+"13","Issaquena","GRACIE","US Senator",NA,"Democrat","O'KEEFE, JAMES",9
+"14","Issaquena","GRACIE","US Senator",NA,"Democrat","STARR, CATHERINE M.",5
+"15","Issaquena","MAYERSVILLE COURTHOUSE","U.S. Representative",2,"Democrat","BENFORD, DOROTHY",0
+"16","Issaquena","MAYERSVILLE COURTHOUSE","U.S. Representative",2,"Democrat","ESPY, CHUCK",7
+"17","Issaquena","MAYERSVILLE COURTHOUSE","U.S. Representative",2,"Democrat","THOMPSON, BENNIE G.",88
+"18","Issaquena","MAYERSVILLE COURTHOUSE","US Senator",NA,"Democrat","BOWLIN, BILL",5
+"19","Issaquena","MAYERSVILLE COURTHOUSE","US Senator",NA,"Democrat","FLEMING, ERIK",63
+"20","Issaquena","MAYERSVILLE COURTHOUSE","US Senator",NA,"Democrat","O'KEEFE, JAMES",14
+"21","Issaquena","MAYERSVILLE COURTHOUSE","US Senator",NA,"Democrat","STARR, CATHERINE M.",6
+"22","Issaquena","TALLULA COMMUNITY CENTER","U.S. Representative",2,"Democrat","BENFORD, DOROTHY",0
+"23","Issaquena","TALLULA COMMUNITY CENTER","U.S. Representative",2,"Democrat","ESPY, CHUCK",28
+"24","Issaquena","TALLULA COMMUNITY CENTER","U.S. Representative",2,"Democrat","THOMPSON, BENNIE G.",36
+"25","Issaquena","TALLULA COMMUNITY CENTER","US Senator",NA,"Democrat","BOWLIN, BILL",21
+"26","Issaquena","TALLULA COMMUNITY CENTER","US Senator",NA,"Democrat","FLEMING, ERIK",18
+"27","Issaquena","TALLULA COMMUNITY CENTER","US Senator",NA,"Democrat","O'KEEFE, JAMES",15
+"28","Issaquena","TALLULA COMMUNITY CENTER","US Senator",NA,"Democrat","STARR, CATHERINE M.",5
+"29","Issaquena","VALLEY PARK COMMUNITY CENTER","U.S. Representative",2,"Democrat","BENFORD, DOROTHY",0
+"30","Issaquena","VALLEY PARK COMMUNITY CENTER","U.S. Representative",2,"Democrat","ESPY, CHUCK",46
+"31","Issaquena","VALLEY PARK COMMUNITY CENTER","U.S. Representative",2,"Democrat","THOMPSON, BENNIE G.",31
+"32","Issaquena","VALLEY PARK COMMUNITY CENTER","US Senator",NA,"Democrat","BOWLIN, BILL",18
+"33","Issaquena","VALLEY PARK COMMUNITY CENTER","US Senator",NA,"Democrat","FLEMING, ERIK",25
+"34","Issaquena","VALLEY PARK COMMUNITY CENTER","US Senator",NA,"Democrat","O'KEEFE, JAMES",24
+"35","Issaquena","VALLEY PARK COMMUNITY CENTER","US Senator",NA,"Democrat","STARR, CATHERINE M.",3
