@@ -1,0 +1,236 @@
+county,precinct,office,district,party,candidate,votes
+Jones,ANTIOCH,U.S. Representative,4,Democrat,Gene Taylor,12
+Jones,ANTIOCH,US Senator,,Democrat,Bill Bowlin,4
+Jones,ANTIOCH,US Senator,,Democrat,Erik Fleming,4
+Jones,ANTIOCH,US Senator,,Democrat,James O’Keefe,2
+Jones,ANTIOCH,US Senator,,Democrat,Catherine M. Starr,1
+Jones,BLACKWELL,U.S. Representative,4,Democrat,Gene Taylor,10
+Jones,BLACKWELL,US Senator,,Democrat,Bill Bowlin,2
+Jones,BLACKWELL,US Senator,,Democrat,Erik Fleming,1
+Jones,BLACKWELL,US Senator,,Democrat,James O’Keefe,2
+Jones,BLACKWELL,US Senator,,Democrat,Catherine M. Starr,5
+Jones,BRUCE,U.S. Representative,4,Democrat,Gene Taylor,
+Jones,BRUCE,US Senator,,Democrat,Bill Bowlin,2
+Jones,BRUCE,US Senator,,Democrat,Erik Fleming,1
+Jones,BRUCE,US Senator,,Democrat,James O’Keefe,6
+Jones,BRUCE,US Senator,,Democrat,Catherine M. Starr,3
+Jones,CALHOUN,U.S. Representative,4,Democrat,Gene Taylor,32
+Jones,CALHOUN,US Senator,,Democrat,Bill Bowlin,13
+Jones,CALHOUN,US Senator,,Democrat,Erik Fleming,3
+Jones,CALHOUN,US Senator,,Democrat,James O’Keefe,7
+Jones,CALHOUN,US Senator,,Democrat,Catherine M. Starr,6
+Jones,CAMERON CENTER,U.S. Representative,4,Democrat,Gene Taylor,6
+Jones,CAMERON CENTER,US Senator,,Democrat,Bill Bowlin,3
+Jones,CAMERON CENTER,US Senator,,Democrat,Erik Fleming,0
+Jones,CAMERON CENTER,US Senator,,Democrat,James O’Keefe,3
+Jones,CAMERON CENTER,US Senator,,Democrat,Catherine M. Starr,0
+Jones,CENTERVILLE,U.S. Representative,4,Democrat,Gene Taylor,
+Jones,CENTERVILLE,US Senator,,Democrat,Bill Bowlin,4
+Jones,CENTERVILLE,US Senator,,Democrat,Erik Fleming,2
+Jones,CENTERVILLE,US Senator,,Democrat,James O’Keefe,1
+Jones,CENTERVILLE,US Senator,,Democrat,Catherine M. Starr,1
+Jones,COOKS AVE. COMM. CENTER,U.S. Representative,4,Democrat,Gene Taylor,17
+Jones,COOKS AVE. COMM. CENTER,US Senator,,Democrat,Bill Bowlin,1
+Jones,COOKS AVE. COMM. CENTER,US Senator,,Democrat,Erik Fleming,12
+Jones,COOKS AVE. COMM. CENTER,US Senator,,Democrat,James O’Keefe,1
+Jones,COOKS AVE. COMM. CENTER,US Senator,,Democrat,Catherine M. Starr,4
+Jones,COUNTY BARN,U.S. Representative,4,Democrat,Gene Taylor,10
+Jones,COUNTY BARN,US Senator,,Democrat,Bill Bowlin,1
+Jones,COUNTY BARN,US Senator,,Democrat,Erik Fleming,1
+Jones,COUNTY BARN,US Senator,,Democrat,James O’Keefe,5
+Jones,COUNTY BARN,US Senator,,Democrat,Catherine M. Starr,3
+Jones,CURRIE,U.S. Representative,4,Democrat,Gene Taylor,29
+Jones,CURRIE,US Senator,,Democrat,Bill Bowlin,2
+Jones,CURRIE,US Senator,,Democrat,Erik Fleming,26
+Jones,CURRIE,US Senator,,Democrat,James O’Keefe,0
+Jones,CURRIE,US Senator,,Democrat,Catherine M. Starr,1
+Jones,ELLISVILLE COURTHOUSE,U.S. Representative,4,Democrat,Gene Taylor,20
+Jones,ELLISVILLE COURTHOUSE,US Senator,,Democrat,Bill Bowlin,2
+Jones,ELLISVILLE COURTHOUSE,US Senator,,Democrat,Erik Fleming,4
+Jones,ELLISVILLE COURTHOUSE,US Senator,,Democrat,James O’Keefe,4
+Jones,ELLISVILLE COURTHOUSE,US Senator,,Democrat,Catherine M. Starr,6
+Jones,ERATA,U.S. Representative,4,Democrat,Gene Taylor,16
+Jones,ERATA,US Senator,,Democrat,Bill Bowlin,8
+Jones,ERATA,US Senator,,Democrat,Erik Fleming,1
+Jones,ERATA,US Senator,,Democrat,James O’Keefe,2
+Jones,ERATA,US Senator,,Democrat,Catherine M. Starr,2
+Jones,GITANO,U.S. Representative,4,Democrat,Gene Taylor,9
+Jones,GITANO,US Senator,,Democrat,Bill Bowlin,1
+Jones,GITANO,US Senator,,Democrat,Erik Fleming,5
+Jones,GITANO,US Senator,,Democrat,James O’Keefe,0
+Jones,GITANO,US Senator,,Democrat,Catherine M. Starr,5
+Jones,GLADE,U.S. Representative,4,Democrat,Gene Taylor,12
+Jones,GLADE,US Senator,,Democrat,Bill Bowlin,4
+Jones,GLADE,US Senator,,Democrat,Erik Fleming,3
+Jones,GLADE,US Senator,,Democrat,James O’Keefe,4
+Jones,GLADE,US Senator,,Democrat,Catherine M. Starr,2
+Jones,HEBRON,U.S. Representative,4,Democrat,Gene Taylor,
+Jones,HEBRON,US Senator,,Democrat,Bill Bowlin,5
+Jones,HEBRON,US Senator,,Democrat,Erik Fleming,35
+Jones,HEBRON,US Senator,,Democrat,James O’Keefe,7
+Jones,HEBRON,US Senator,,Democrat,Catherine M. Starr,4
+Jones,JOHNSON,U.S. Representative,4,Democrat,Gene Taylor,8
+Jones,JOHNSON,US Senator,,Democrat,Bill Bowlin,4
+Jones,JOHNSON,US Senator,,Democrat,Erik Fleming,0
+Jones,JOHNSON,US Senator,,Democrat,James O’Keefe,1
+Jones,JOHNSON,US Senator,,Democrat,Catherine M. Starr,1
+Jones,KINGSTON CHURCH,U.S. Representative,4,Democrat,Gene Taylor,3
+Jones,KINGSTON CHURCH,US Senator,,Democrat,Bill Bowlin,1
+Jones,KINGSTON CHURCH,US Senator,,Democrat,Erik Fleming,0
+Jones,KINGSTON CHURCH,US Senator,,Democrat,James O’Keefe,3
+Jones,KINGSTON CHURCH,US Senator,,Democrat,Catherine M. Starr,0
+Jones,LAMAR SCHOOL,U.S. Representative,4,Democrat,Gene Taylor,16
+Jones,LAMAR SCHOOL,US Senator,,Democrat,Bill Bowlin,2
+Jones,LAMAR SCHOOL,US Senator,,Democrat,Erik Fleming,6
+Jones,LAMAR SCHOOL,US Senator,,Democrat,James O’Keefe,8
+Jones,LAMAR SCHOOL,US Senator,,Democrat,Catherine M. Starr,1
+Jones,LANDRUM,U.S. Representative,4,Democrat,Gene Taylor,14
+Jones,LANDRUM,US Senator,,Democrat,Bill Bowlin,3
+Jones,LANDRUM,US Senator,,Democrat,Erik Fleming,1
+Jones,LANDRUM,US Senator,,Democrat,James O’Keefe,8
+Jones,LANDRUM,US Senator,,Democrat,Catherine M. Starr,0
+Jones,LAUREL COURTHOUSE,U.S. Representative,4,Democrat,Gene Taylor,9
+Jones,LAUREL COURTHOUSE,US Senator,,Democrat,Bill Bowlin,1
+Jones,LAUREL COURTHOUSE,US Senator,,Democrat,Erik Fleming,1
+Jones,LAUREL COURTHOUSE,US Senator,,Democrat,James O’Keefe,5
+Jones,LAUREL COURTHOUSE,US Senator,,Democrat,Catherine M. Starr,5
+Jones,MASON SCHOOL,U.S. Representative,4,Democrat,Gene Taylor,47
+Jones,MASON SCHOOL,US Senator,,Democrat,Bill Bowlin,9
+Jones,MASON SCHOOL,US Senator,,Democrat,Erik Fleming,2
+Jones,MASON SCHOOL,US Senator,,Democrat,James O’Keefe,20
+Jones,MASON SCHOOL,US Senator,,Democrat,Catherine M. Starr,3
+Jones,MATTHEWS,U.S. Representative,4,Democrat,Gene Taylor,20
+Jones,MATTHEWS,US Senator,,Democrat,Bill Bowlin,12
+Jones,MATTHEWS,US Senator,,Democrat,Erik Fleming,1
+Jones,MATTHEWS,US Senator,,Democrat,James O’Keefe,4
+Jones,MATTHEWS,US Senator,,Democrat,Catherine M. Starr,3
+Jones,MAULDIN COMMUNITY CENTER,U.S. Representative,4,Democrat,Gene Taylor,22
+Jones,MAULDIN COMMUNITY CENTER,US Senator,,Democrat,Bill Bowlin,4
+Jones,MAULDIN COMMUNITY CENTER,US Senator,,Democrat,Erik Fleming,3
+Jones,MAULDIN COMMUNITY CENTER,US Senator,,Democrat,James O’Keefe,7
+Jones,MAULDIN COMMUNITY CENTER,US Senator,,Democrat,Catherine M. Starr,6
+Jones,MOSELLE,U.S. Representative,4,Democrat,Gene Taylor,12
+Jones,MOSELLE,US Senator,,Democrat,Bill Bowlin,4
+Jones,MOSELLE,US Senator,,Democrat,Erik Fleming,3
+Jones,MOSELLE,US Senator,,Democrat,James O’Keefe,8
+Jones,MOSELLE,US Senator,,Democrat,Catherine M. Starr,5
+Jones,MYRICK,U.S. Representative,4,Democrat,Gene Taylor,25
+Jones,MYRICK,US Senator,,Democrat,Bill Bowlin,15
+Jones,MYRICK,US Senator,,Democrat,Erik Fleming,3
+Jones,MYRICK,US Senator,,Democrat,James O’Keefe,2
+Jones,MYRICK,US Senator,,Democrat,Catherine M. Starr,5
+Jones,NATIONAL GUARD,U.S. Representative,4,Democrat,Gene Taylor,17
+Jones,NATIONAL GUARD,US Senator,,Democrat,Bill Bowlin,5
+Jones,NATIONAL GUARD,US Senator,,Democrat,Erik Fleming,4
+Jones,NATIONAL GUARD,US Senator,,Democrat,James O’Keefe,7
+Jones,NATIONAL GUARD,US Senator,,Democrat,Catherine M. Starr,1
+Jones,NORA DAVIS SCHOOL,U.S. Representative,4,Democrat,Gene Taylor,17
+Jones,NORA DAVIS SCHOOL,US Senator,,Democrat,Bill Bowlin,1
+Jones,NORA DAVIS SCHOOL,US Senator,,Democrat,Erik Fleming,14
+Jones,NORA DAVIS SCHOOL,US Senator,,Democrat,James O’Keefe,4
+Jones,NORA DAVIS SCHOOL,US Senator,,Democrat,Catherine M. Starr,2
+Jones,OAK PARK SCHOOL,U.S. Representative,4,Democrat,Gene Taylor,44
+Jones,OAK PARK SCHOOL,US Senator,,Democrat,Bill Bowlin,9
+Jones,OAK PARK SCHOOL,US Senator,,Democrat,Erik Fleming,19
+Jones,OAK PARK SCHOOL,US Senator,,Democrat,James O’Keefe,6
+Jones,OAK PARK SCHOOL,US Senator,,Democrat,Catherine M. Starr,12
+Jones,OLD HEALTH DEPARTMENT,U.S. Representative,4,Democrat,Gene Taylor,0
+Jones,OLD HEALTH DEPARTMENT,US Senator,,Democrat,Bill Bowlin,0
+Jones,OLD HEALTH DEPARTMENT,US Senator,,Democrat,Erik Fleming,0
+Jones,OLD HEALTH DEPARTMENT,US Senator,,Democrat,James O’Keefe,0
+Jones,OLD HEALTH DEPARTMENT,US Senator,,Democrat,Catherine M. Starr,0
+Jones,OVETT,U.S. Representative,4,Democrat,Gene Taylor,35
+Jones,OVETT,US Senator,,Democrat,Bill Bowlin,3
+Jones,OVETT,US Senator,,Democrat,Erik Fleming,4
+Jones,OVETT,US Senator,,Democrat,James O’Keefe,3
+Jones,OVETT,US Senator,,Democrat,Catherine M. Starr,6
+Jones,PENDORFF,U.S. Representative,4,Democrat,Gene Taylor,11
+Jones,PENDORFF,US Senator,,Democrat,Bill Bowlin,9
+Jones,PENDORFF,US Senator,,Democrat,Erik Fleming,1
+Jones,PENDORFF,US Senator,,Democrat,James O’Keefe,0
+Jones,PENDORFF,US Senator,,Democrat,Catherine M. Starr,1
+Jones,PINE GROVE,U.S. Representative,4,Democrat,Gene Taylor,21
+Jones,PINE GROVE,US Senator,,Democrat,Bill Bowlin,4
+Jones,PINE GROVE,US Senator,,Democrat,Erik Fleming,9
+Jones,PINE GROVE,US Senator,,Democrat,James O’Keefe,6
+Jones,PINE GROVE,US Senator,,Democrat,Catherine M. Starr,2
+Jones,PLEASANT RIDGE,U.S. Representative,4,Democrat,Gene Taylor,20
+Jones,PLEASANT RIDGE,US Senator,,Democrat,Bill Bowlin,5
+Jones,PLEASANT RIDGE,US Senator,,Democrat,Erik Fleming,5
+Jones,PLEASANT RIDGE,US Senator,,Democrat,James O’Keefe,7
+Jones,PLEASANT RIDGE,US Senator,,Democrat,Catherine M. Starr,2
+Jones,POWERS COMMUNITY CENTER,U.S. Representative,4,Democrat,Gene Taylor,6
+Jones,POWERS COMMUNITY CENTER,US Senator,,Democrat,Bill Bowlin,0
+Jones,POWERS COMMUNITY CENTER,US Senator,,Democrat,Erik Fleming,1
+Jones,POWERS COMMUNITY CENTER,US Senator,,Democrat,James O’Keefe,0
+Jones,POWERS COMMUNITY CENTER,US Senator,,Democrat,Catherine M. Starr,1
+Jones,PURGED VOTER,U.S. Representative,4,Democrat,Gene Taylor,0
+Jones,PURGED VOTER,US Senator,,Democrat,Bill Bowlin,0
+Jones,PURGED VOTER,US Senator,,Democrat,Erik Fleming,0
+Jones,PURGED VOTER,US Senator,,Democrat,James O’Keefe,0
+Jones,PURGED VOTER,US Senator,,Democrat,Catherine M. Starr,0
+Jones,RAINEY,U.S. Representative,4,Democrat,Gene Taylor,11
+Jones,RAINEY,US Senator,,Democrat,Bill Bowlin,0
+Jones,RAINEY,US Senator,,Democrat,Erik Fleming,1
+Jones,RAINEY,US Senator,,Democrat,James O’Keefe,6
+Jones,RAINEY,US Senator,,Democrat,Catherine M. Starr,0
+Jones,ROOSEVELT,U.S. Representative,4,Democrat,Gene Taylor,34
+Jones,ROOSEVELT,US Senator,,Democrat,Bill Bowlin,6
+Jones,ROOSEVELT,US Senator,,Democrat,Erik Fleming,16
+Jones,ROOSEVELT,US Senator,,Democrat,James O’Keefe,5
+Jones,ROOSEVELT,US Senator,,Democrat,Catherine M. Starr,4
+Jones,RUSTIN,U.S. Representative,4,Democrat,Gene Taylor,18
+Jones,RUSTIN,US Senator,,Democrat,Bill Bowlin,12
+Jones,RUSTIN,US Senator,,Democrat,Erik Fleming,5
+Jones,RUSTIN,US Senator,,Democrat,James O’Keefe,3
+Jones,RUSTIN,US Senator,,Democrat,Catherine M. Starr,2
+Jones,SAND HILL,U.S. Representative,4,Democrat,Gene Taylor,16
+Jones,SAND HILL,US Senator,,Democrat,Bill Bowlin,3
+Jones,SAND HILL,US Senator,,Democrat,Erik Fleming,2
+Jones,SAND HILL,US Senator,,Democrat,James O’Keefe,7
+Jones,SAND HILL,US Senator,,Democrat,Catherine M. Starr,4
+Jones,SANDERSVILLE CIVIC CENTER,U.S. Representative,4,Democrat,Gene Taylor,11
+Jones,SANDERSVILLE CIVIC CENTER,US Senator,,Democrat,Bill Bowlin,1
+Jones,SANDERSVILLE CIVIC CENTER,US Senator,,Democrat,Erik Fleming,1
+Jones,SANDERSVILLE CIVIC CENTER,US Senator,,Democrat,James O’Keefe,11
+Jones,SANDERSVILLE CIVIC CENTER,US Senator,,Democrat,Catherine M. Starr,0
+Jones,SHADY GROVE,U.S. Representative,4,Democrat,Gene Taylor,21
+Jones,SHADY GROVE,US Senator,,Democrat,Bill Bowlin,3
+Jones,SHADY GROVE,US Senator,,Democrat,Erik Fleming,2
+Jones,SHADY GROVE,US Senator,,Democrat,James O’Keefe,11
+Jones,SHADY GROVE,US Senator,,Democrat,Catherine M. Starr,4
+Jones,SHARON,U.S. Representative,4,Democrat,Gene Taylor,26
+Jones,SHARON,US Senator,,Democrat,Bill Bowlin,12
+Jones,SHARON,US Senator,,Democrat,Erik Fleming,2
+Jones,SHARON,US Senator,,Democrat,James O’Keefe,7
+Jones,SHARON,US Senator,,Democrat,Catherine M. Starr,7
+Jones,SHELTON,U.S. Representative,4,Democrat,Gene Taylor,33
+Jones,SHELTON,US Senator,,Democrat,Bill Bowlin,9
+Jones,SHELTON,US Senator,,Democrat,Erik Fleming,4
+Jones,SHELTON,US Senator,,Democrat,James O’Keefe,9
+Jones,SHELTON,US Senator,,Democrat,Catherine M. Starr,6
+Jones,SOSO,U.S. Representative,4,Democrat,Gene Taylor,32
+Jones,SOSO,US Senator,,Democrat,Bill Bowlin,5
+Jones,SOSO,US Senator,,Democrat,Erik Fleming,6
+Jones,SOSO,US Senator,,Democrat,James O’Keefe,8
+Jones,SOSO,US Senator,,Democrat,Catherine M. Starr,9
+Jones,SOUTH JONES,U.S. Representative,4,Democrat,Gene Taylor,4
+Jones,SOUTH JONES,US Senator,,Democrat,Bill Bowlin,3
+Jones,SOUTH JONES,US Senator,,Democrat,Erik Fleming,0
+Jones,SOUTH JONES,US Senator,,Democrat,James O’Keefe,0
+Jones,SOUTH JONES,US Senator,,Democrat,Catherine M. Starr,1
+Jones,STAINTON (FORMER MADDOX),U.S. Representative,4,Democrat,Gene Taylor,19
+Jones,STAINTON (FORMER MADDOX),US Senator,,Democrat,Bill Bowlin,3
+Jones,STAINTON (FORMER MADDOX),US Senator,,Democrat,Erik Fleming,8
+Jones,STAINTON (FORMER MADDOX),US Senator,,Democrat,James O’Keefe,2
+Jones,STAINTON (FORMER MADDOX),US Senator,,Democrat,Catherine M. Starr,3
+Jones,TUCKERS,U.S. Representative,4,Democrat,Gene Taylor,8
+Jones,TUCKERS,US Senator,,Democrat,Bill Bowlin,2
+Jones,TUCKERS,US Senator,,Democrat,Erik Fleming,0
+Jones,TUCKERS,US Senator,,Democrat,James O’Keefe,0
+Jones,TUCKERS,US Senator,,Democrat,Catherine M. Starr,2
+Jones,UNION,U.S. Representative,4,Democrat,Gene Taylor,11
+Jones,UNION,US Senator,,Democrat,Bill Bowlin,6
+Jones,UNION,US Senator,,Democrat,Erik Fleming,2
+Jones,UNION,US Senator,,Democrat,James O’Keefe,2
+Jones,UNION,US Senator,,Democrat,Catherine M. Starr,0
