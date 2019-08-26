@@ -1,47 +1,47 @@
-Page,candidate,office,district,party,county,precinct,votes,winner,
-2,Mike Espy,U.S. Senate,Unexpired Term,,Panola,Batesville Courthouse,428,,
-2,Cindy Hyde-Smith,U.S. Senate,Unexpired Term,,Panola,Batesville Courthouse,799,,
-2,Mike Espy,U.S. Senate,Unexpired Term,,Panola,Blackjack Community Center,206,,
-2,Cindy Hyde-Smith,U.S. Senate,Unexpired Term,,Panola,Blackjack Community Center,285,,
-2,Mike Espy,U.S. Senate,Unexpired Term,,Panola,Cliff Finch Building,75,,
-2,Cindy Hyde-Smith,U.S. Senate,Unexpired Term,,Panola,Cliff Finch Building,308,,
-2,Mike Espy,U.S. Senate,Unexpired Term,,Panola,Cole's Point Fire Dept.,34,,
-2,Cindy Hyde-Smith,U.S. Senate,Unexpired Term,,Panola,Cole's Point Fire Dept.,172,,
-2,Mike Espy,U.S. Senate,Unexpired Term,,Panola,Como Library ,676,,
-2,Cindy Hyde-Smith,U.S. Senate,Unexpired Term,,Panola,Como Library ,223,,
-2,Mike Espy,U.S. Senate,Unexpired Term,,Panola,Courtland Fire Station,624,,
-2,Cindy Hyde-Smith,U.S. Senate,Unexpired Term,,Panola,Courtland Fire Station,207,,
-2,Mike Espy,U.S. Senate,Unexpired Term,,Panola,Crenshaw Old City Hall,209,,
-2,Cindy Hyde-Smith,U.S. Senate,Unexpired Term,,Panola,Crenshaw Old City Hall,71,,
-2,Mike Espy,U.S. Senate,Unexpired Term,,Panola,Crowder Wastewater Treatment Building,165,,
-2,Cindy Hyde-Smith,U.S. Senate,Unexpired Term,,Panola,Crowder Wastewater Treatment Building,28,,
-2,Mike Espy,U.S. Senate,Unexpired Term,,Panola,Enon Water Building,28,,
-2,Cindy Hyde-Smith,U.S. Senate,Unexpired Term,,Panola,Enon Water Building,47,,
-2,Mike Espy,U.S. Senate,Unexpired Term,,Panola,Eureka Community Center,158,,
-2,Cindy Hyde-Smith,U.S. Senate,Unexpired Term,,Panola,Eureka Community Center,469,,
-2,Mike Espy,U.S. Senate,Unexpired Term,,Panola,Longtown Fire Station,103,,
-2,Cindy Hyde-Smith,U.S. Senate,Unexpired Term,,Panola,Longtown Fire Station,64,,
-3,Mike Espy,U.S. Senate,Unexpired Term,,Panola,Macedonia-Concord Community Center,513,,
-3,Cindy Hyde-Smith,U.S. Senate,Unexpired Term,,Panola,Macedonia-Concord Community Center,71,,
-3,Mike Espy,U.S. Senate,Unexpired Term,,Panola,Mt Olivet Fire Dept.,265,,
-3,Cindy Hyde-Smith,U.S. Senate,Unexpired Term,,Panola,Mt Olivet Fire Dept.,390,,
-3,Mike Espy,U.S. Senate,Unexpired Term,,Panola,Panola County Extension Building,90,,
-3,Cindy Hyde-Smith,U.S. Senate,Unexpired Term,,Panola,Panola County Extension Building,298,,
-3,Mike Espy,U.S. Senate,Unexpired Term,,Panola,Patton Lane Community Center,692,,
-3,Cindy Hyde-Smith,U.S. Senate,Unexpired Term,,Panola,Patton Lane Community Center,48,,
-3,Mike Espy,U.S. Senate,Unexpired Term,,Panola,Pleasant Grove Fire Station,52,,
-3,Cindy Hyde-Smith,U.S. Senate,Unexpired Term,,Panola,Pleasant Grove Fire Station,103,,
-3,Mike Espy,U.S. Senate,Unexpired Term,,Panola,Pleasant Mount Fire Station,182,,
-3,Cindy Hyde-Smith,U.S. Senate,Unexpired Term,,Panola,Pleasant Mount Fire Station,142,,
-3,Mike Espy,U.S. Senate,Unexpired Term,,Panola,Pope City Hall,222,,
-3,Cindy Hyde-Smith,U.S. Senate,Unexpired Term,,Panola,Pope City Hall,365,,
-3,Mike Espy,U.S. Senate,Unexpired Term,,Panola,Sardis Courthouse,534,,
-3,Cindy Hyde-Smith,U.S. Senate,Unexpired Term,,Panola,Sardis Courthouse,223,,
-3,Mike Espy,U.S. Senate,Unexpired Term,,Panola,Sardis Lake Fire Department,129,,
-3,Cindy Hyde-Smith,U.S. Senate,Unexpired Term,,Panola,Sardis Lake Fire Department,63,,
-3,Mike Espy,U.S. Senate,Unexpired Term,,Panola,Sardis Library,602,,
-3,Cindy Hyde-Smith,U.S. Senate,Unexpired Term,,Panola,Sardis Library,164,,
-3,Mike Espy,U.S. Senate,Unexpired Term,,Panola,Tocowa Community Center,90,,
-3,Cindy Hyde-Smith,U.S. Senate,Unexpired Term,,Panola,Tocowa Community Center,389,,
-4,Mike Espy,U.S. Senate,Unexpired Term,,Panola,TOTAL,6077,,
-4,Cindy Hyde-Smith,U.S. Senate,Unexpired Term,,Panola,TOTAL,4929,,
+county,precinct,office,district,party,candidate,votes
+Panola,Batesville Courthouse,U.S. Senate,Unexpired Term,,Cindy Hyde-Smith,799
+Panola,Batesville Courthouse,U.S. Senate,Unexpired Term,,Mike Espy,428
+Panola,Blackjack Community Center,U.S. Senate,Unexpired Term,,Cindy Hyde-Smith,285
+Panola,Blackjack Community Center,U.S. Senate,Unexpired Term,,Mike Espy,206
+Panola,Cliff Finch Building,U.S. Senate,Unexpired Term,,Cindy Hyde-Smith,308
+Panola,Cliff Finch Building,U.S. Senate,Unexpired Term,,Mike Espy,75
+Panola,Cole's Point Fire Dept.,U.S. Senate,Unexpired Term,,Cindy Hyde-Smith,172
+Panola,Cole's Point Fire Dept.,U.S. Senate,Unexpired Term,,Mike Espy,34
+Panola,Como Library,U.S. Senate,Unexpired Term,,Cindy Hyde-Smith,223
+Panola,Como Library,U.S. Senate,Unexpired Term,,Mike Espy,676
+Panola,Courtland Fire Station,U.S. Senate,Unexpired Term,,Cindy Hyde-Smith,207
+Panola,Courtland Fire Station,U.S. Senate,Unexpired Term,,Mike Espy,624
+Panola,Crenshaw Old City Hall,U.S. Senate,Unexpired Term,,Cindy Hyde-Smith,71
+Panola,Crenshaw Old City Hall,U.S. Senate,Unexpired Term,,Mike Espy,209
+Panola,Crowder Wastewater Treatment Building,U.S. Senate,Unexpired Term,,Cindy Hyde-Smith,28
+Panola,Crowder Wastewater Treatment Building,U.S. Senate,Unexpired Term,,Mike Espy,165
+Panola,Enon Water Building,U.S. Senate,Unexpired Term,,Cindy Hyde-Smith,47
+Panola,Enon Water Building,U.S. Senate,Unexpired Term,,Mike Espy,28
+Panola,Eureka Community Center,U.S. Senate,Unexpired Term,,Cindy Hyde-Smith,469
+Panola,Eureka Community Center,U.S. Senate,Unexpired Term,,Mike Espy,158
+Panola,Longtown Fire Station,U.S. Senate,Unexpired Term,,Cindy Hyde-Smith,64
+Panola,Longtown Fire Station,U.S. Senate,Unexpired Term,,Mike Espy,103
+Panola,Macedonia-Concord Community Center,U.S. Senate,Unexpired Term,,Cindy Hyde-Smith,71
+Panola,Macedonia-Concord Community Center,U.S. Senate,Unexpired Term,,Mike Espy,513
+Panola,Mt Olivet Fire Dept.,U.S. Senate,Unexpired Term,,Cindy Hyde-Smith,390
+Panola,Mt Olivet Fire Dept.,U.S. Senate,Unexpired Term,,Mike Espy,265
+Panola,Panola County Extension Building,U.S. Senate,Unexpired Term,,Cindy Hyde-Smith,298
+Panola,Panola County Extension Building,U.S. Senate,Unexpired Term,,Mike Espy,90
+Panola,Patton Lane Community Center,U.S. Senate,Unexpired Term,,Cindy Hyde-Smith,48
+Panola,Patton Lane Community Center,U.S. Senate,Unexpired Term,,Mike Espy,692
+Panola,Pleasant Grove Fire Station,U.S. Senate,Unexpired Term,,Cindy Hyde-Smith,103
+Panola,Pleasant Grove Fire Station,U.S. Senate,Unexpired Term,,Mike Espy,52
+Panola,Pleasant Mount Fire Station,U.S. Senate,Unexpired Term,,Cindy Hyde-Smith,142
+Panola,Pleasant Mount Fire Station,U.S. Senate,Unexpired Term,,Mike Espy,182
+Panola,Pope City Hall,U.S. Senate,Unexpired Term,,Cindy Hyde-Smith,365
+Panola,Pope City Hall,U.S. Senate,Unexpired Term,,Mike Espy,222
+Panola,Sardis Courthouse,U.S. Senate,Unexpired Term,,Cindy Hyde-Smith,223
+Panola,Sardis Courthouse,U.S. Senate,Unexpired Term,,Mike Espy,534
+Panola,Sardis Lake Fire Department,U.S. Senate,Unexpired Term,,Cindy Hyde-Smith,63
+Panola,Sardis Lake Fire Department,U.S. Senate,Unexpired Term,,Mike Espy,129
+Panola,Sardis Library,U.S. Senate,Unexpired Term,,Cindy Hyde-Smith,164
+Panola,Sardis Library,U.S. Senate,Unexpired Term,,Mike Espy,602
+Panola,Tocowa Community Center,U.S. Senate,Unexpired Term,,Cindy Hyde-Smith,389
+Panola,Tocowa Community Center,U.S. Senate,Unexpired Term,,Mike Espy,90
+Panola,Total,U.S. Senate,Unexpired Term,,Cindy Hyde-Smith,4929
+Panola,Total,U.S. Senate,Unexpired Term,,Mike Espy,6077

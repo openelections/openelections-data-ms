@@ -78,7 +78,7 @@ Tunica,Tunica,Lieutenant Governor,,Reform,Tracella Lou O'Hara Hill,145
 Tunica,Tunica,Secretary of State,,Republican,Delbert Hosemann,261
 Tunica,Tunica,Attorney General,,Democrat,Jim Hood,293
 Tunica,Tunica,Attorney General,,Republican,Steve Simpson,100
-Tunica,Tunica,State Auditor,,Republican,Stacey E. Pickering,133
+Tunica,Tunica,State Auditor,,Republican,Stacey E. Pickering,130
 Tunica,Tunica,State Auditor,,Reform,Ashley Norwood,188
 Tunica,Tunica,Treasurer,,Republican,Lynn Fitch,102
 Tunica,Tunica,Treasurer,,Democrat,Connie Moran,263
@@ -104,9 +104,9 @@ Tunica,Courthouse,Treasurer,,Reform,Shawn O'Hara,14
 Tunica,Courthouse,Commissioner of Agriculture & Commerce,,Democrat,Joel Gill,188
 Tunica,Courthouse,Commissioner of Agriculture & Commerce,,Republican,Cindy Hyde-Smith,175
 Tunica,Courthouse,Commissioner of Agriculture & Commerce,,Reform,Cathy L. Toole,89
-Tunica,Courthouse,Commissioner of Insurance,,Republican,Mike Chaney,295
-Tunica,Courthouse,Commissioner of Insurance,,Democrat,Louis Fondren,269
-Tunica,Courthouse,Commissioner of Insurance,,Reform,Barbara Dale Washer,116
+Tunica,Courthouse,Commissioner of Insurance,,Republican,Mike Chaney,209
+Tunica,Courthouse,Commissioner of Insurance,,Democrat,Louis Fondren,162
+Tunica,Courthouse,Commissioner of Insurance,,Reform,Barbara Dale Washer,17
 Tunica,Evansville-Highway 61,Governor,,Republican,Phil Bryant,79
 Tunica,Evansville-Highway 61,Governor,,Democrat,Johnny L. DuPree,301
 Tunica,Evansville-Highway 61,Lieutenant Governor,,Republican,Tate Reeves,131
@@ -135,7 +135,7 @@ Tunica,Justice Court Building,Attorney General,,Republican,Steve Simpson,114
 Tunica,Justice Court Building,State Auditor,,Republican,Stacey E. Pickering,138
 Tunica,Justice Court Building,State Auditor,,Reform,Ashley Norwood,177
 Tunica,Justice Court Building,Treasurer,,Republican,Lynn Fitch,118
-Tunica,Justice Court Building,Treasurer,,Democrat,Connie Moran,285
+Tunica,Justice Court Building,Treasurer,,Democrat,Connie Moran,286
 Tunica,Justice Court Building,Treasurer,,Reform,Shawn O'Hara,14
 Tunica,Justice Court Building,Commissioner of Agriculture & Commerce,,Democrat,Joel Gill,292
 Tunica,Justice Court Building,Commissioner of Agriculture & Commerce,,Republican,Cindy Hyde-Smith,106
@@ -215,3 +215,73 @@ Tunica,Two-Mile Lake,Commissioner of Agriculture & Commerce,,Reform,Cathy L. Too
 Tunica,Two-Mile Lake,Commissioner of Insurance,,Republican,Mike Chaney,118
 Tunica,Two-Mile Lake,Commissioner of Insurance,,Democrat,Louis Fondren,220
 Tunica,Two-Mile Lake,Commissioner of Insurance,,Reform,Barbara Dale Washer,17
+Tunica,Robinsonville,State Senate,11,Democrat,Robert L. Jackson,117
+Tunica,Banks/Hambrick,State Senate,11,Democrat,Robert L. Jackson,272
+Tunica,Watsonville,State Senate,11,Democrat,Robert L. Jackson,94
+Tunica,Pritchard,State Senate,11,Democrat,Robert L. Jackson,205
+Tunica,Tunica,State Senate,11,Democrat,Robert L. Jackson,351
+Tunica,Courthouse,State Senate,11,Democrat,Robert L. Jackson,310
+Tunica,Evansville-Highway 61,State Senate,11,Democrat,Robert L. Jackson,318
+Tunica,Justice Court Building,State Senate,11,Democrat,Robert L. Jackson,370
+Tunica,Milton Landing,State Senate,11,Democrat,Robert L. Jackson,60
+Tunica,West End Store,State Senate,11,Democrat,Robert L. Jackson,71
+Tunica,Supt. Of Education,State Senate,11,Democrat,Robert L. Jackson,129
+Tunica,Two-Mile Lake,State Senate,11,Democrat,Robert L. Jackson,313
+Tunica,Robinsonville,State House,09,Democrat,Clara Henderson Burnett,x
+Tunica,Banks/Hambrick,State House,09,Democrat,Clara Henderson Burnett,x
+Tunica,Watsonville,State House,09,Democrat,Clara Henderson Burnett,98
+Tunica,Pritchard,State House,09,Democrat,Clara Henderson Burnett,212
+Tunica,Tunica,State House,09,Democrat,Clara Henderson Burnett,398
+Tunica,Courthouse,State House,09,Democrat,Clara Henderson Burnett,338
+Tunica,Evansville-Highway 61,State House,09,Democrat,Clara Henderson Burnett,342
+Tunica,Justice Court Building,State House,09,Democrat,Clara Henderson Burnett,402
+Tunica,Milton Landing,State House,09,Democrat,Clara Henderson Burnett,x
+Tunica,West End Store,State House,09,Democrat,Clara Henderson Burnett,x
+Tunica,Supt. Of Education,State House,09,Democrat,Clara Henderson Burnett,156
+Tunica,Two-Mile Lake,State House,09,Democrat,Clara Henderson Burnett,345
+Tunica,Robinsonville,State House,25,Democrat,John Mayo,101
+Tunica,Banks/Hambrick,State House,25,Democrat,John Mayo,80
+Tunica,Watsonville,State House,25,Democrat,John Mayo,x
+Tunica,Pritchard,State House,25,Democrat,John Mayo,x
+Tunica,Tunica,State House,25,Democrat,John Mayo,x
+Tunica,Courthouse,State House,25,Democrat,John Mayo,x
+Tunica,Evansville-Highway 61,State House,25,Democrat,John Mayo,x
+Tunica,Justice Court Building,State House,25,Democrat,John Mayo,x
+Tunica,Milton Landing,State House,25,Democrat,John Mayo,56
+Tunica,West End Store,State House,25,Democrat,John Mayo,65
+Tunica,Supt. Of Education,State House,25,Democrat,John Mayo,x
+Tunica,Two-Mile Lake,State House,25,Democrat,John Mayo,x
+Tunica,Robinsonville,State House,25,Republican,"W.E. 'Gene' Alday",30
+Tunica,Banks/Hambrick,State House,25,Republican,"W.E. 'Gene' Alday",13
+Tunica,Watsonville,State House,25,Republican,"W.E. 'Gene' Alday",x
+Tunica,Pritchard,State House,25,Republican,"W.E. 'Gene' Alday",x
+Tunica,Tunica,State House,25,Republican,"W.E. 'Gene' Alday",x
+Tunica,Courthouse,State House,25,Republican,"W.E. 'Gene' Alday",x
+Tunica,Evansville-Highway 61,State House,25,Republican,"W.E. 'Gene' Alday",x
+Tunica,Justice Court Building,State House,25,Republican,"W.E. 'Gene' Alday",x
+Tunica,Milton Landing,State House,25,Republican,"W.E. 'Gene' Alday",34
+Tunica,West End Store,State House,25,Republican,"W.E. 'Gene' Alday",20
+Tunica,Supt. Of Education,State House,25,Republican,"W.E. 'Gene' Alday",x
+Tunica,Two-Mile Lake,State House,25,Republican,"W.E. 'Gene' Alday",x
+Tunica,,Governor,,Republican,Phil Bryant,949
+Tunica,,Governor,,Democrat,Johnny L. DuPree,2297
+Tunica,,Lieutenant Governor,,Republican,Tate Reeves,1397
+Tunica,,Lieutenant Governor,,Reform,Tracella Lou O'Hara Hill,1092
+Tunica,,Secretary of State,,Republican,Delbert Hosemann,1961
+Tunica,,Attorney General,,Democrat,Jim Hood,2185
+Tunica,,Attorney General,,Republican,Steve Simpson,781
+Tunica,,State Auditor,,Republican,Stacey E. Pickering,1056
+Tunica,,State Auditor,,Reform,Ashley Norwood,1395
+Tunica,,Treasurer,,Republican,Lynn Fitch,892
+Tunica,,Treasurer,,Democrat,Connie Moran,1925
+Tunica,,Treasurer,,Reform,Shawn O'Hara,133
+Tunica,,Commissioner of Agriculture & Commerce,,Democrat,Joel Gill,2010
+Tunica,,Commissioner of Agriculture & Commerce,,Republican,Cindy Hyde-Smith,788
+Tunica,,Commissioner of Agriculture & Commerce,,Reform,Cathy L. Toole,128
+Tunica,,Commissioner of Insurance,,Republican,Mike Chaney,959
+Tunica,,Commissioner of Insurance,,Democrat,Louis Fondren,1843
+Tunica,,Commissioner of Insurance,,Reform,Barbara Dale Washer,154
+Tunica,,State Senate,11,Democrat,Robert L. Jackson,2610
+Tunica,,State House,09,Democrat,Clara Henderson Burnett,2291
+Tunica,,State House,25,Democrat,John Mayo,302
+Tunica,,State House,25,Republican,"W.E. 'Gene' Alday",97

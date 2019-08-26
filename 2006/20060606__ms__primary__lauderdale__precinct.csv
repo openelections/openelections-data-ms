@@ -1,0 +1,221 @@
+"","county","precinct","office","district","party","candidate","votes"
+"1","Lauderdale","101 - ONE","US Senator",NA,"Democrat","BOWLIN, BILL",5
+"2","Lauderdale","101 - ONE","US Senator",NA,"Democrat","FLEMING, ERIK",5
+"3","Lauderdale","101 - ONE","US Senator",NA,"Democrat","O'KEEFE, JAMES",6
+"4","Lauderdale","101 - ONE","US Senator",NA,"Democrat","STARR, CATHERINE M.",2
+"5","Lauderdale","105 - FIVE","US Senator",NA,"Democrat","BOWLIN, BILL",4
+"6","Lauderdale","105 - FIVE","US Senator",NA,"Democrat","FLEMING, ERIK",8
+"7","Lauderdale","105 - FIVE","US Senator",NA,"Democrat","O'KEEFE, JAMES",6
+"8","Lauderdale","105 - FIVE","US Senator",NA,"Democrat","STARR, CATHERINE M.",6
+"9","Lauderdale","126 - ANDREWS CHAPEL","US Senator",NA,"Democrat","BOWLIN, BILL",4
+"10","Lauderdale","126 - ANDREWS CHAPEL","US Senator",NA,"Democrat","FLEMING, ERIK",2
+"11","Lauderdale","126 - ANDREWS CHAPEL","US Senator",NA,"Democrat","O'KEEFE, JAMES",1
+"12","Lauderdale","126 - ANDREWS CHAPEL","US Senator",NA,"Democrat","STARR, CATHERINE M.",0
+"13","Lauderdale","127 - BAILEY","US Senator",NA,"Democrat","BOWLIN, BILL",0
+"14","Lauderdale","127 - BAILEY","US Senator",NA,"Democrat","FLEMING, ERIK",1
+"15","Lauderdale","127 - BAILEY","US Senator",NA,"Democrat","O'KEEFE, JAMES",0
+"16","Lauderdale","127 - BAILEY","US Senator",NA,"Democrat","STARR, CATHERINE M.",0
+"17","Lauderdale","142 - MARION","US Senator",NA,"Democrat","BOWLIN, BILL",2
+"18","Lauderdale","142 - MARION","US Senator",NA,"Democrat","FLEMING, ERIK",12
+"19","Lauderdale","142 - MARION","US Senator",NA,"Democrat","O'KEEFE, JAMES",5
+"20","Lauderdale","142 - MARION","US Senator",NA,"Democrat","STARR, CATHERINE M.",3
+"21","Lauderdale","146 - NEW LAUDERDALE","US Senator",NA,"Democrat","BOWLIN, BILL",2
+"22","Lauderdale","146 - NEW LAUDERDALE","US Senator",NA,"Democrat","FLEMING, ERIK",0
+"23","Lauderdale","146 - NEW LAUDERDALE","US Senator",NA,"Democrat","O'KEEFE, JAMES",2
+"24","Lauderdale","146 - NEW LAUDERDALE","US Senator",NA,"Democrat","STARR, CATHERINE M.",2
+"25","Lauderdale","153 - PROSPECT","US Senator",NA,"Democrat","BOWLIN, BILL",0
+"26","Lauderdale","153 - PROSPECT","US Senator",NA,"Democrat","FLEMING, ERIK",0
+"27","Lauderdale","153 - PROSPECT","US Senator",NA,"Democrat","O'KEEFE, JAMES",0
+"28","Lauderdale","153 - PROSPECT","US Senator",NA,"Democrat","STARR, CATHERINE M.",1
+"29","Lauderdale","175 - WEST DALEWOOD","US Senator",NA,"Democrat","BOWLIN, BILL",3
+"30","Lauderdale","175 - WEST DALEWOOD","US Senator",NA,"Democrat","FLEMING, ERIK",1
+"31","Lauderdale","175 - WEST DALEWOOD","US Senator",NA,"Democrat","O'KEEFE, JAMES",0
+"32","Lauderdale","175 - WEST DALEWOOD","US Senator",NA,"Democrat","STARR, CATHERINE M.",0
+"33","Lauderdale","202 - TWO","US Senator",NA,"Democrat","BOWLIN, BILL",0
+"34","Lauderdale","202 - TWO","US Senator",NA,"Democrat","FLEMING, ERIK",2
+"35","Lauderdale","202 - TWO","US Senator",NA,"Democrat","O'KEEFE, JAMES",2
+"36","Lauderdale","202 - TWO","US Senator",NA,"Democrat","STARR, CATHERINE M.",0
+"37","Lauderdale","204 - FOUR","US Senator",NA,"Democrat","BOWLIN, BILL",3
+"38","Lauderdale","204 - FOUR","US Senator",NA,"Democrat","FLEMING, ERIK",5
+"39","Lauderdale","204 - FOUR","US Senator",NA,"Democrat","O'KEEFE, JAMES",4
+"40","Lauderdale","204 - FOUR","US Senator",NA,"Democrat","STARR, CATHERINE M.",1
+"41","Lauderdale","206 - SIX","US Senator",NA,"Democrat","BOWLIN, BILL",12
+"42","Lauderdale","206 - SIX","US Senator",NA,"Democrat","FLEMING, ERIK",33
+"43","Lauderdale","206 - SIX","US Senator",NA,"Democrat","O'KEEFE, JAMES",22
+"44","Lauderdale","206 - SIX","US Senator",NA,"Democrat","STARR, CATHERINE M.",11
+"45","Lauderdale","214 - FOURTEEN","US Senator",NA,"Democrat","BOWLIN, BILL",3
+"46","Lauderdale","214 - FOURTEEN","US Senator",NA,"Democrat","FLEMING, ERIK",7
+"47","Lauderdale","214 - FOURTEEN","US Senator",NA,"Democrat","O'KEEFE, JAMES",1
+"48","Lauderdale","214 - FOURTEEN","US Senator",NA,"Democrat","STARR, CATHERINE M.",5
+"49","Lauderdale","235 - DALEVILLE","US Senator",NA,"Democrat","BOWLIN, BILL",0
+"50","Lauderdale","235 - DALEVILLE","US Senator",NA,"Democrat","FLEMING, ERIK",16
+"51","Lauderdale","235 - DALEVILLE","US Senator",NA,"Democrat","O'KEEFE, JAMES",5
+"52","Lauderdale","235 - DALEVILLE","US Senator",NA,"Democrat","STARR, CATHERINE M.",1
+"53","Lauderdale","237 - EAST LAUDERDALE","US Senator",NA,"Democrat","BOWLIN, BILL",2
+"54","Lauderdale","237 - EAST LAUDERDALE","US Senator",NA,"Democrat","FLEMING, ERIK",0
+"55","Lauderdale","237 - EAST LAUDERDALE","US Senator",NA,"Democrat","O'KEEFE, JAMES",2
+"56","Lauderdale","237 - EAST LAUDERDALE","US Senator",NA,"Democrat","STARR, CATHERINE M.",1
+"57","Lauderdale","238 - EAST MARION","US Senator",NA,"Democrat","BOWLIN, BILL",1
+"58","Lauderdale","238 - EAST MARION","US Senator",NA,"Democrat","FLEMING, ERIK",1
+"59","Lauderdale","238 - EAST MARION","US Senator",NA,"Democrat","O'KEEFE, JAMES",0
+"60","Lauderdale","238 - EAST MARION","US Senator",NA,"Democrat","STARR, CATHERINE M.",0
+"61","Lauderdale","240 - KEWANEE","US Senator",NA,"Democrat","BOWLIN, BILL",3
+"62","Lauderdale","240 - KEWANEE","US Senator",NA,"Democrat","FLEMING, ERIK",2
+"63","Lauderdale","240 - KEWANEE","US Senator",NA,"Democrat","O'KEEFE, JAMES",5
+"64","Lauderdale","240 - KEWANEE","US Senator",NA,"Democrat","STARR, CATHERINE M.",5
+"65","Lauderdale","254 - RUSSELL","US Senator",NA,"Democrat","BOWLIN, BILL",2
+"66","Lauderdale","254 - RUSSELL","US Senator",NA,"Democrat","FLEMING, ERIK",0
+"67","Lauderdale","254 - RUSSELL","US Senator",NA,"Democrat","O'KEEFE, JAMES",1
+"68","Lauderdale","254 - RUSSELL","US Senator",NA,"Democrat","STARR, CATHERINE M.",2
+"69","Lauderdale","262 - TOOMSUBA","US Senator",NA,"Democrat","BOWLIN, BILL",3
+"70","Lauderdale","262 - TOOMSUBA","US Senator",NA,"Democrat","FLEMING, ERIK",1
+"71","Lauderdale","262 - TOOMSUBA","US Senator",NA,"Democrat","O'KEEFE, JAMES",5
+"72","Lauderdale","262 - TOOMSUBA","US Senator",NA,"Democrat","STARR, CATHERINE M.",2
+"73","Lauderdale","282 - CENTER RIDGE","US Senator",NA,"Democrat","BOWLIN, BILL",3
+"74","Lauderdale","282 - CENTER RIDGE","US Senator",NA,"Democrat","FLEMING, ERIK",5
+"75","Lauderdale","282 - CENTER RIDGE","US Senator",NA,"Democrat","O'KEEFE, JAMES",4
+"76","Lauderdale","282 - CENTER RIDGE","US Senator",NA,"Democrat","STARR, CATHERINE M.",12
+"77","Lauderdale","303 - THREE","US Senator",NA,"Democrat","BOWLIN, BILL",8
+"78","Lauderdale","303 - THREE","US Senator",NA,"Democrat","FLEMING, ERIK",17
+"79","Lauderdale","303 - THREE","US Senator",NA,"Democrat","O'KEEFE, JAMES",5
+"80","Lauderdale","303 - THREE","US Senator",NA,"Democrat","STARR, CATHERINE M.",6
+"81","Lauderdale","313 - THIRTEEN","US Senator",NA,"Democrat","BOWLIN, BILL",6
+"82","Lauderdale","313 - THIRTEEN","US Senator",NA,"Democrat","FLEMING, ERIK",8
+"83","Lauderdale","313 - THIRTEEN","US Senator",NA,"Democrat","O'KEEFE, JAMES",7
+"84","Lauderdale","313 - THIRTEEN","US Senator",NA,"Democrat","STARR, CATHERINE M.",2
+"85","Lauderdale","329 - CENTER HILL","US Senator",NA,"Democrat","BOWLIN, BILL",1
+"86","Lauderdale","329 - CENTER HILL","US Senator",NA,"Democrat","FLEMING, ERIK",0
+"87","Lauderdale","329 - CENTER HILL","US Senator",NA,"Democrat","O'KEEFE, JAMES",2
+"88","Lauderdale","329 - CENTER HILL","US Senator",NA,"Democrat","STARR, CATHERINE M.",0
+"89","Lauderdale","331 - COLLINSVILLE","US Senator",NA,"Democrat","BOWLIN, BILL",3
+"90","Lauderdale","331 - COLLINSVILLE","US Senator",NA,"Democrat","FLEMING, ERIK",13
+"91","Lauderdale","331 - COLLINSVILLE","US Senator",NA,"Democrat","O'KEEFE, JAMES",5
+"92","Lauderdale","331 - COLLINSVILLE","US Senator",NA,"Democrat","STARR, CATHERINE M.",0
+"93","Lauderdale","343 - MARTIN","US Senator",NA,"Democrat","BOWLIN, BILL",0
+"94","Lauderdale","343 - MARTIN","US Senator",NA,"Democrat","FLEMING, ERIK",0
+"95","Lauderdale","343 - MARTIN","US Senator",NA,"Democrat","O'KEEFE, JAMES",1
+"96","Lauderdale","343 - MARTIN","US Senator",NA,"Democrat","STARR, CATHERINE M.",3
+"97","Lauderdale","348 - OBADIAH","US Senator",NA,"Democrat","BOWLIN, BILL",0
+"98","Lauderdale","348 - OBADIAH","US Senator",NA,"Democrat","FLEMING, ERIK",1
+"99","Lauderdale","348 - OBADIAH","US Senator",NA,"Democrat","O'KEEFE, JAMES",0
+"100","Lauderdale","348 - OBADIAH","US Senator",NA,"Democrat","STARR, CATHERINE M.",0
+"101","Lauderdale","361 - SUQUALENA","US Senator",NA,"Democrat","BOWLIN, BILL",7
+"102","Lauderdale","361 - SUQUALENA","US Senator",NA,"Democrat","FLEMING, ERIK",6
+"103","Lauderdale","361 - SUQUALENA","US Senator",NA,"Democrat","O'KEEFE, JAMES",5
+"104","Lauderdale","361 - SUQUALENA","US Senator",NA,"Democrat","STARR, CATHERINE M.",6
+"105","Lauderdale","366 - WEST LAUDERDALE","US Senator",NA,"Democrat","BOWLIN, BILL",1
+"106","Lauderdale","366 - WEST LAUDERDALE","US Senator",NA,"Democrat","FLEMING, ERIK",1
+"107","Lauderdale","366 - WEST LAUDERDALE","US Senator",NA,"Democrat","O'KEEFE, JAMES",1
+"108","Lauderdale","366 - WEST LAUDERDALE","US Senator",NA,"Democrat","STARR, CATHERINE M.",0
+"109","Lauderdale","407 - SEVEN","US Senator",NA,"Democrat","BOWLIN, BILL",2
+"110","Lauderdale","407 - SEVEN","US Senator",NA,"Democrat","FLEMING, ERIK",4
+"111","Lauderdale","407 - SEVEN","US Senator",NA,"Democrat","O'KEEFE, JAMES",0
+"112","Lauderdale","407 - SEVEN","US Senator",NA,"Democrat","STARR, CATHERINE M.",2
+"113","Lauderdale","408 - EIGHT","US Senator",NA,"Democrat","BOWLIN, BILL",3
+"114","Lauderdale","408 - EIGHT","US Senator",NA,"Democrat","FLEMING, ERIK",7
+"115","Lauderdale","408 - EIGHT","US Senator",NA,"Democrat","O'KEEFE, JAMES",2
+"116","Lauderdale","408 - EIGHT","US Senator",NA,"Democrat","STARR, CATHERINE M.",4
+"117","Lauderdale","409 - NINE","US Senator",NA,"Democrat","BOWLIN, BILL",7
+"118","Lauderdale","409 - NINE","US Senator",NA,"Democrat","FLEMING, ERIK",28
+"119","Lauderdale","409 - NINE","US Senator",NA,"Democrat","O'KEEFE, JAMES",2
+"120","Lauderdale","409 - NINE","US Senator",NA,"Democrat","STARR, CATHERINE M.",10
+"121","Lauderdale","410 - TEN","US Senator",NA,"Democrat","BOWLIN, BILL",0
+"122","Lauderdale","410 - TEN","US Senator",NA,"Democrat","FLEMING, ERIK",0
+"123","Lauderdale","410 - TEN","US Senator",NA,"Democrat","O'KEEFE, JAMES",1
+"124","Lauderdale","410 - TEN","US Senator",NA,"Democrat","STARR, CATHERINE M.",5
+"125","Lauderdale","411 - ELEVEN","US Senator",NA,"Democrat","BOWLIN, BILL",7
+"126","Lauderdale","411 - ELEVEN","US Senator",NA,"Democrat","FLEMING, ERIK",14
+"127","Lauderdale","411 - ELEVEN","US Senator",NA,"Democrat","O'KEEFE, JAMES",6
+"128","Lauderdale","411 - ELEVEN","US Senator",NA,"Democrat","STARR, CATHERINE M.",7
+"129","Lauderdale","412 - TWELVE","US Senator",NA,"Democrat","BOWLIN, BILL",6
+"130","Lauderdale","412 - TWELVE","US Senator",NA,"Democrat","FLEMING, ERIK",31
+"131","Lauderdale","412 - TWELVE","US Senator",NA,"Democrat","O'KEEFE, JAMES",5
+"132","Lauderdale","412 - TWELVE","US Senator",NA,"Democrat","STARR, CATHERINE M.",1
+"133","Lauderdale","415 - FIFTEEN","US Senator",NA,"Democrat","BOWLIN, BILL",0
+"134","Lauderdale","415 - FIFTEEN","US Senator",NA,"Democrat","FLEMING, ERIK",2
+"135","Lauderdale","415 - FIFTEEN","US Senator",NA,"Democrat","O'KEEFE, JAMES",2
+"136","Lauderdale","415 - FIFTEEN","US Senator",NA,"Democrat","STARR, CATHERINE M.",0
+"137","Lauderdale","420 - TWENTY","US Senator",NA,"Democrat","BOWLIN, BILL",6
+"138","Lauderdale","420 - TWENTY","US Senator",NA,"Democrat","FLEMING, ERIK",13
+"139","Lauderdale","420 - TWENTY","US Senator",NA,"Democrat","O'KEEFE, JAMES",10
+"140","Lauderdale","420 - TWENTY","US Senator",NA,"Democrat","STARR, CATHERINE M.",4
+"141","Lauderdale","450 - PICKARD","US Senator",NA,"Democrat","BOWLIN, BILL",4
+"142","Lauderdale","450 - PICKARD","US Senator",NA,"Democrat","FLEMING, ERIK",2
+"143","Lauderdale","450 - PICKARD","US Senator",NA,"Democrat","O'KEEFE, JAMES",1
+"144","Lauderdale","450 - PICKARD","US Senator",NA,"Democrat","STARR, CATHERINE M.",2
+"145","Lauderdale","455 - SAGEVILLE","US Senator",NA,"Democrat","BOWLIN, BILL",2
+"146","Lauderdale","455 - SAGEVILLE","US Senator",NA,"Democrat","FLEMING, ERIK",5
+"147","Lauderdale","455 - SAGEVILLE","US Senator",NA,"Democrat","O'KEEFE, JAMES",1
+"148","Lauderdale","455 - SAGEVILLE","US Senator",NA,"Democrat","STARR, CATHERINE M.",1
+"149","Lauderdale","516 - SIXTEEN","US Senator",NA,"Democrat","BOWLIN, BILL",2
+"150","Lauderdale","516 - SIXTEEN","US Senator",NA,"Democrat","FLEMING, ERIK",0
+"151","Lauderdale","516 - SIXTEEN","US Senator",NA,"Democrat","O'KEEFE, JAMES",1
+"152","Lauderdale","516 - SIXTEEN","US Senator",NA,"Democrat","STARR, CATHERINE M.",0
+"153","Lauderdale","517 - SEVENTEEN","US Senator",NA,"Democrat","BOWLIN, BILL",0
+"154","Lauderdale","517 - SEVENTEEN","US Senator",NA,"Democrat","FLEMING, ERIK",1
+"155","Lauderdale","517 - SEVENTEEN","US Senator",NA,"Democrat","O'KEEFE, JAMES",0
+"156","Lauderdale","517 - SEVENTEEN","US Senator",NA,"Democrat","STARR, CATHERINE M.",0
+"157","Lauderdale","518 - EIGHTEEN","US Senator",NA,"Democrat","BOWLIN, BILL",0
+"158","Lauderdale","518 - EIGHTEEN","US Senator",NA,"Democrat","FLEMING, ERIK",0
+"159","Lauderdale","518 - EIGHTEEN","US Senator",NA,"Democrat","O'KEEFE, JAMES",0
+"160","Lauderdale","518 - EIGHTEEN","US Senator",NA,"Democrat","STARR, CATHERINE M.",0
+"161","Lauderdale","519 - NINETEEN","US Senator",NA,"Democrat","BOWLIN, BILL",1
+"162","Lauderdale","519 - NINETEEN","US Senator",NA,"Democrat","FLEMING, ERIK",2
+"163","Lauderdale","519 - NINETEEN","US Senator",NA,"Democrat","O'KEEFE, JAMES",0
+"164","Lauderdale","519 - NINETEEN","US Senator",NA,"Democrat","STARR, CATHERINE M.",0
+"165","Lauderdale","525 - ALAMUCHA","US Senator",NA,"Democrat","BOWLIN, BILL",2
+"166","Lauderdale","525 - ALAMUCHA","US Senator",NA,"Democrat","FLEMING, ERIK",1
+"167","Lauderdale","525 - ALAMUCHA","US Senator",NA,"Democrat","O'KEEFE, JAMES",0
+"168","Lauderdale","525 - ALAMUCHA","US Senator",NA,"Democrat","STARR, CATHERINE M.",0
+"169","Lauderdale","528 - CAUSEYVILLE","US Senator",NA,"Democrat","BOWLIN, BILL",4
+"170","Lauderdale","528 - CAUSEYVILLE","US Senator",NA,"Democrat","FLEMING, ERIK",1
+"171","Lauderdale","528 - CAUSEYVILLE","US Senator",NA,"Democrat","O'KEEFE, JAMES",1
+"172","Lauderdale","528 - CAUSEYVILLE","US Senator",NA,"Democrat","STARR, CATHERINE M.",1
+"173","Lauderdale","530 - CLARKDALE","US Senator",NA,"Democrat","BOWLIN, BILL",1
+"174","Lauderdale","530 - CLARKDALE","US Senator",NA,"Democrat","FLEMING, ERIK",0
+"175","Lauderdale","530 - CLARKDALE","US Senator",NA,"Democrat","O'KEEFE, JAMES",0
+"176","Lauderdale","530 - CLARKDALE","US Senator",NA,"Democrat","STARR, CATHERINE M.",4
+"177","Lauderdale","533 - CULPEPPER","US Senator",NA,"Democrat","BOWLIN, BILL",0
+"178","Lauderdale","533 - CULPEPPER","US Senator",NA,"Democrat","FLEMING, ERIK",2
+"179","Lauderdale","533 - CULPEPPER","US Senator",NA,"Democrat","O'KEEFE, JAMES",1
+"180","Lauderdale","533 - CULPEPPER","US Senator",NA,"Democrat","STARR, CATHERINE M.",0
+"181","Lauderdale","544 - MEEHAN","US Senator",NA,"Democrat","BOWLIN, BILL",2
+"182","Lauderdale","544 - MEEHAN","US Senator",NA,"Democrat","FLEMING, ERIK",2
+"183","Lauderdale","544 - MEEHAN","US Senator",NA,"Democrat","O'KEEFE, JAMES",1
+"184","Lauderdale","544 - MEEHAN","US Senator",NA,"Democrat","STARR, CATHERINE M.",2
+"185","Lauderdale","549 - ODOM","US Senator",NA,"Democrat","BOWLIN, BILL",0
+"186","Lauderdale","549 - ODOM","US Senator",NA,"Democrat","FLEMING, ERIK",1
+"187","Lauderdale","549 - ODOM","US Senator",NA,"Democrat","O'KEEFE, JAMES",0
+"188","Lauderdale","549 - ODOM","US Senator",NA,"Democrat","STARR, CATHERINE M.",3
+"189","Lauderdale","560 - SOUTH NELLIEBURG","US Senator",NA,"Democrat","BOWLIN, BILL",5
+"190","Lauderdale","560 - SOUTH NELLIEBURG","US Senator",NA,"Democrat","FLEMING, ERIK",3
+"191","Lauderdale","560 - SOUTH NELLIEBURG","US Senator",NA,"Democrat","O'KEEFE, JAMES",5
+"192","Lauderdale","560 - SOUTH NELLIEBURG","US Senator",NA,"Democrat","STARR, CATHERINE M.",3
+"193","Lauderdale","563 - VALLEY","US Senator",NA,"Democrat","BOWLIN, BILL",0
+"194","Lauderdale","563 - VALLEY","US Senator",NA,"Democrat","FLEMING, ERIK",4
+"195","Lauderdale","563 - VALLEY","US Senator",NA,"Democrat","O'KEEFE, JAMES",0
+"196","Lauderdale","563 - VALLEY","US Senator",NA,"Democrat","STARR, CATHERINE M.",7
+"197","Lauderdale","564 - VIMVILLE","US Senator",NA,"Democrat","BOWLIN, BILL",2
+"198","Lauderdale","564 - VIMVILLE","US Senator",NA,"Democrat","FLEMING, ERIK",2
+"199","Lauderdale","564 - VIMVILLE","US Senator",NA,"Democrat","O'KEEFE, JAMES",7
+"200","Lauderdale","564 - VIMVILLE","US Senator",NA,"Democrat","STARR, CATHERINE M.",4
+"201","Lauderdale","565 - WHYNOT","US Senator",NA,"Democrat","BOWLIN, BILL",0
+"202","Lauderdale","565 - WHYNOT","US Senator",NA,"Democrat","FLEMING, ERIK",1
+"203","Lauderdale","565 - WHYNOT","US Senator",NA,"Democrat","O'KEEFE, JAMES",1
+"204","Lauderdale","565 - WHYNOT","US Senator",NA,"Democrat","STARR, CATHERINE M.",2
+"205","Lauderdale","567 - ZERO","US Senator",NA,"Democrat","BOWLIN, BILL",6
+"206","Lauderdale","567 - ZERO","US Senator",NA,"Democrat","FLEMING, ERIK",5
+"207","Lauderdale","567 - ZERO","US Senator",NA,"Democrat","O'KEEFE, JAMES",2
+"208","Lauderdale","567 - ZERO","US Senator",NA,"Democrat","STARR, CATHERINE M.",2
+"209","Lauderdale","581 - SOUTH RUSSELL","US Senator",NA,"Democrat","BOWLIN, BILL",2
+"210","Lauderdale","581 - SOUTH RUSSELL","US Senator",NA,"Democrat","FLEMING, ERIK",0
+"211","Lauderdale","581 - SOUTH RUSSELL","US Senator",NA,"Democrat","O'KEEFE, JAMES",1
+"212","Lauderdale","581 - SOUTH RUSSELL","US Senator",NA,"Democrat","STARR, CATHERINE M.",1
+"213","Lauderdale","583 - MT GILEAD","US Senator",NA,"Democrat","BOWLIN, BILL",1
+"214","Lauderdale","583 - MT GILEAD","US Senator",NA,"Democrat","FLEMING, ERIK",1
+"215","Lauderdale","583 - MT GILEAD","US Senator",NA,"Democrat","O'KEEFE, JAMES",3
+"216","Lauderdale","583 - MT GILEAD","US Senator",NA,"Democrat","STARR, CATHERINE M.",2
+"217","Lauderdale","PURGED VOTER","US Senator",NA,"Democrat","BOWLIN, BILL",0
+"218","Lauderdale","PURGED VOTER","US Senator",NA,"Democrat","FLEMING, ERIK",0
+"219","Lauderdale","PURGED VOTER","US Senator",NA,"Democrat","O'KEEFE, JAMES",0
+"220","Lauderdale","PURGED VOTER","US Senator",NA,"Democrat","STARR, CATHERINE M.",0

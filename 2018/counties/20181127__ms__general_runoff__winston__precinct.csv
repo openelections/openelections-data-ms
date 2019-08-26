@@ -1,27 +1,27 @@
-Page,candidate,office,district,party,county,precinct,votes,winner
-2,Mike Espy,U.S. Senate,Unexpired Term,,Winston ,American Legion,522,
-2,Cindy Hyde-Smith,U.S. Senate,Unexpired Term,,Winston ,American Legion,82,
-2,Mike Espy,U.S. Senate,Unexpired Term,,Winston ,County Agent,621,
-2,Cindy Hyde-Smith,U.S. Senate,Unexpired Term,,Winston ,County Agent,115,
-2,Mike Espy,U.S. Senate,Unexpired Term,,Winston ,East Winston,130,
-2,Cindy Hyde-Smith,U.S. Senate,Unexpired Term,,Winston ,East Winston,306,
-2,Mike Espy,U.S. Senate,Unexpired Term,,Winston ,Fairground,478,
-2,Cindy Hyde-Smith,U.S. Senate,Unexpired Term,,Winston ,Fairground,763,
-2,Mike Espy,U.S. Senate,Unexpired Term,,Winston ,Lovorn Tractor,150,
-2,Cindy Hyde-Smith,U.S. Senate,Unexpired Term,,Winston ,Lovorn Tractor,176,
-2,Mike Espy,U.S. Senate,Unexpired Term,,Winston ,Mars Hill,197,
-2,Cindy Hyde-Smith,U.S. Senate,Unexpired Term,,Winston ,Mars Hill,225,
-2,Mike Espy,U.S. Senate,Unexpired Term,,Winston ,Mill Creek,335,
-2,Cindy Hyde-Smith,U.S. Senate,Unexpired Term,,Winston ,Mill Creek,513,
-2,Mike Espy,U.S. Senate,Unexpired Term,,Winston ,Nanih Waiya,139,
-2,Cindy Hyde-Smith,U.S. Senate,Unexpired Term,,Winston ,Nanih Waiya,579,
-2,Mike Espy,U.S. Senate,Unexpired Term,,Winston ,New National Guard,72,
-2,Cindy Hyde-Smith,U.S. Senate,Unexpired Term,,Winston ,New National Guard,185,
-2,Mike Espy,U.S. Senate,Unexpired Term,,Winston ,Noxapater,199,
-2,Cindy Hyde-Smith,U.S. Senate,Unexpired Term,,Winston ,Noxapater,371,
-2,Mike Espy,U.S. Senate,Unexpired Term,,Winston ,Shiloh,75,
-2,Cindy Hyde-Smith,U.S. Senate,Unexpired Term,,Winston ,Shiloh,210,
-3,Mike Espy,U.S. Senate,Unexpired Term,,Winston ,Zion Ridge,329,
-3,Cindy Hyde-Smith,U.S. Senate,Unexpired Term,,Winston ,Zion Ridge,34,
-3,Mike Espy,U.S. Senate,Unexpired Term,,Winston ,TOTAL ,3247,
-3,Cindy Hyde-Smith,U.S. Senate,Unexpired Term,,Winston ,TOTAL ,3559,
+county,precinct,office,district,party,candidate,votes
+Winston,American Legion,U.S. Senate,Unexpired Term,,Cindy Hyde-Smith,82
+Winston,American Legion,U.S. Senate,Unexpired Term,,Mike Espy,522
+Winston,County Agent,U.S. Senate,Unexpired Term,,Cindy Hyde-Smith,115
+Winston,County Agent,U.S. Senate,Unexpired Term,,Mike Espy,621
+Winston,East Winston,U.S. Senate,Unexpired Term,,Cindy Hyde-Smith,306
+Winston,East Winston,U.S. Senate,Unexpired Term,,Mike Espy,130
+Winston,Fairground,U.S. Senate,Unexpired Term,,Cindy Hyde-Smith,763
+Winston,Fairground,U.S. Senate,Unexpired Term,,Mike Espy,478
+Winston,Lovorn Tractor,U.S. Senate,Unexpired Term,,Cindy Hyde-Smith,176
+Winston,Lovorn Tractor,U.S. Senate,Unexpired Term,,Mike Espy,150
+Winston,Mars Hill,U.S. Senate,Unexpired Term,,Cindy Hyde-Smith,225
+Winston,Mars Hill,U.S. Senate,Unexpired Term,,Mike Espy,197
+Winston,Mill Creek,U.S. Senate,Unexpired Term,,Cindy Hyde-Smith,513
+Winston,Mill Creek,U.S. Senate,Unexpired Term,,Mike Espy,335
+Winston,Nanih Waiya,U.S. Senate,Unexpired Term,,Cindy Hyde-Smith,579
+Winston,Nanih Waiya,U.S. Senate,Unexpired Term,,Mike Espy,139
+Winston,New National Guard,U.S. Senate,Unexpired Term,,Cindy Hyde-Smith,185
+Winston,New National Guard,U.S. Senate,Unexpired Term,,Mike Espy,72
+Winston,Noxapater,U.S. Senate,Unexpired Term,,Cindy Hyde-Smith,371
+Winston,Noxapater,U.S. Senate,Unexpired Term,,Mike Espy,199
+Winston,Shiloh,U.S. Senate,Unexpired Term,,Cindy Hyde-Smith,210
+Winston,Shiloh,U.S. Senate,Unexpired Term,,Mike Espy,75
+Winston,Total,U.S. Senate,Unexpired Term,,Cindy Hyde-Smith,3559
+Winston,Total,U.S. Senate,Unexpired Term,,Mike Espy,3247
+Winston,Zion Ridge,U.S. Senate,Unexpired Term,,Cindy Hyde-Smith,34
+Winston,Zion Ridge,U.S. Senate,Unexpired Term,,Mike Espy,329

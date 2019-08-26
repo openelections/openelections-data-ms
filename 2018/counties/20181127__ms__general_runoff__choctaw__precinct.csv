@@ -1,29 +1,29 @@
-Page,candidate,office,district,party,county,precinct,votes,winner
-2,Mike Espy,U.S. Senate,Unexpired Term,,Choctaw,Bywy,61,
-2,Cindy Hyde-Smith,U.S. Senate,Unexpired Term,,Choctaw,Bywy,89,
-2,Mike Espy,U.S. Senate,Unexpired Term,,Choctaw,Chester,56,
-2,Cindy Hyde-Smith,U.S. Senate,Unexpired Term,,Choctaw,Chester,140,
-2,Mike Espy,U.S. Senate,Unexpired Term,,Choctaw,District 5,143,
-2,Cindy Hyde-Smith,U.S. Senate,Unexpired Term,,Choctaw,District 5,469,
-2,Mike Espy,U.S. Senate,Unexpired Term,,Choctaw,East Weir,183,
-2,Cindy Hyde-Smith,U.S. Senate,Unexpired Term,,Choctaw,East Weir,53,
-2,Mike Espy,U.S. Senate,Unexpired Term,,Choctaw,Fentress,49,
-2,Cindy Hyde-Smith,U.S. Senate,Unexpired Term,,Choctaw,Fentress,134,
-2,Mike Espy,U.S. Senate,Unexpired Term,,Choctaw,French Camp,40,
-2,Cindy Hyde-Smith,U.S. Senate,Unexpired Term,,Choctaw,French Camp,191,
-2,Mike Espy,U.S. Senate,Unexpired Term,,Choctaw,Hebron,14,
-2,Cindy Hyde-Smith,U.S. Senate,Unexpired Term,,Choctaw,Hebron,114,
-2,Mike Espy,U.S. Senate,Unexpired Term,,Choctaw,Kenego,7,
-2,Cindy Hyde-Smith,U.S. Senate,Unexpired Term,,Choctaw,Kenego,169,
-2,Mike Espy,U.S. Senate,Unexpired Term,,Choctaw,Panhandle,68,
-2,Cindy Hyde-Smith,U.S. Senate,Unexpired Term,,Choctaw,Panhandle,96,
-2,Mike Espy,U.S. Senate,Unexpired Term,,Choctaw,Reform,71,
-2,Cindy Hyde-Smith,U.S. Senate,Unexpired Term,,Choctaw,Reform,122,
-2,Mike Espy,U.S. Senate,Unexpired Term,,Choctaw,Sherwood,5,
-2,Cindy Hyde-Smith,U.S. Senate,Unexpired Term,,Choctaw,Sherwood,192,
-3,Mike Espy,U.S. Senate,Unexpired Term,,Choctaw,Southwest Ackerman,218,
-3,Cindy Hyde-Smith,U.S. Senate,Unexpired Term,,Choctaw,Southwest Ackerman,35,
-3,Mike Espy,U.S. Senate,Unexpired Term,,Choctaw,West Weir,85,
-3,Cindy Hyde-Smith,U.S. Senate,Unexpired Term,,Choctaw,West Weir,128,
-3,Mike Espy,U.S. Senate,Unexpired Term,,Choctaw,TOTAL ,1000,
-3,Cindy Hyde-Smith,U.S. Senate,Unexpired Term,,Choctaw,TOTAL ,1932,
+county,precinct,office,district,party,candidate,votes
+Choctaw,Bywy,U.S. Senate,Unexpired Term,,Cindy Hyde-Smith,89
+Choctaw,Bywy,U.S. Senate,Unexpired Term,,Mike Espy,61
+Choctaw,Chester,U.S. Senate,Unexpired Term,,Cindy Hyde-Smith,140
+Choctaw,Chester,U.S. Senate,Unexpired Term,,Mike Espy,56
+Choctaw,District 5,U.S. Senate,Unexpired Term,,Cindy Hyde-Smith,469
+Choctaw,District 5,U.S. Senate,Unexpired Term,,Mike Espy,143
+Choctaw,East Weir,U.S. Senate,Unexpired Term,,Cindy Hyde-Smith,53
+Choctaw,East Weir,U.S. Senate,Unexpired Term,,Mike Espy,183
+Choctaw,Fentress,U.S. Senate,Unexpired Term,,Cindy Hyde-Smith,134
+Choctaw,Fentress,U.S. Senate,Unexpired Term,,Mike Espy,49
+Choctaw,French Camp,U.S. Senate,Unexpired Term,,Cindy Hyde-Smith,191
+Choctaw,French Camp,U.S. Senate,Unexpired Term,,Mike Espy,40
+Choctaw,Hebron,U.S. Senate,Unexpired Term,,Cindy Hyde-Smith,114
+Choctaw,Hebron,U.S. Senate,Unexpired Term,,Mike Espy,14
+Choctaw,Kenego,U.S. Senate,Unexpired Term,,Cindy Hyde-Smith,169
+Choctaw,Kenego,U.S. Senate,Unexpired Term,,Mike Espy,7
+Choctaw,Panhandle,U.S. Senate,Unexpired Term,,Cindy Hyde-Smith,96
+Choctaw,Panhandle,U.S. Senate,Unexpired Term,,Mike Espy,68
+Choctaw,Reform,U.S. Senate,Unexpired Term,,Cindy Hyde-Smith,122
+Choctaw,Reform,U.S. Senate,Unexpired Term,,Mike Espy,71
+Choctaw,Sherwood,U.S. Senate,Unexpired Term,,Cindy Hyde-Smith,192
+Choctaw,Sherwood,U.S. Senate,Unexpired Term,,Mike Espy,5
+Choctaw,Southwest Ackerman,U.S. Senate,Unexpired Term,,Cindy Hyde-Smith,35
+Choctaw,Southwest Ackerman,U.S. Senate,Unexpired Term,,Mike Espy,218
+Choctaw,Total,U.S. Senate,Unexpired Term,,Cindy Hyde-Smith,1932
+Choctaw,Total,U.S. Senate,Unexpired Term,,Mike Espy,1000
+Choctaw,West Weir,U.S. Senate,Unexpired Term,,Cindy Hyde-Smith,128
+Choctaw,West Weir,U.S. Senate,Unexpired Term,,Mike Espy,85

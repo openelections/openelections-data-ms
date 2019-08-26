@@ -1,115 +1,35 @@
-Page,candidate,office,district,party,county,precinct,votes,winner
-2,Mike Espy,U.S. Senate,Unexpired Term,,Humphreys,Belzoni - 4010,485,
-2,Cindy Hyde-Smith,U.S. Senate,Unexpired Term,,Humphreys,Belzoni - 4010,192,
-2,Otis L. Anthony,State House,31,,Humphreys,Belzoni - 4010,x,
-2,Barbara Rose Brooks,State House,31,,Humphreys,Belzoni - 4010,x,
-2,Mike Espy,U.S. Senate,Unexpired Term,,Humphreys,Belzoni North - 1bn 1020,568,
-2,Cindy Hyde-Smith,U.S. Senate,Unexpired Term,,Humphreys,Belzoni North - 1bn 1020,118,
-2,Otis L. Anthony,State House,31,,Humphreys,Belzoni North - 1bn 1020,21,
-2,Barbara Rose Brooks,State House,31,,Humphreys,Belzoni North - 1bn 1020,19,
-2,Mike Espy,U.S. Senate,Unexpired Term,,Humphreys,Belzoni North - 2bn 2020,180,
-2,Cindy Hyde-Smith,U.S. Senate,Unexpired Term,,Humphreys,Belzoni North - 2bn 2020,4,
-2,Otis L. Anthony,State House,31,,Humphreys,Belzoni North - 2bn 2020,x,
-2,Barbara Rose Brooks,State House,31,,Humphreys,Belzoni North - 2bn 2020,x,
-2,Mike Espy,U.S. Senate,Unexpired Term,,Humphreys,Belzoni South - 3bs 3010,257,
-2,Cindy Hyde-Smith,U.S. Senate,Unexpired Term,,Humphreys,Belzoni South - 3bs 3010,9,
-2,Otis L. Anthony,State House,31,,Humphreys,Belzoni South - 3bs 3010,x,
-2,Barbara Rose Brooks,State House,31,,Humphreys,Belzoni South - 3bs 3010,x,
-2,Mike Espy,U.S. Senate,Unexpired Term,,Humphreys,Belzoni South - 5bs 5010,246,
-2,Cindy Hyde-Smith,U.S. Senate,Unexpired Term,,Humphreys,Belzoni South - 5bs 5010,1,
-2,Otis L. Anthony,State House,31,,Humphreys,Belzoni South - 5bs 5010,x,
-2,Barbara Rose Brooks,State House,31,,Humphreys,Belzoni South - 5bs 5010,x,
-2,Mike Espy,U.S. Senate,Unexpired Term,,Humphreys,Fourmile North - 1fn 1010,2,
-2,Cindy Hyde-Smith,U.S. Senate,Unexpired Term,,Humphreys,Fourmile North - 1fn 1010,26,
-2,Otis L. Anthony,State House,31,,Humphreys,Fourmile North - 1fn 1010,15,
-2,Barbara Rose Brooks,State House,31,,Humphreys,Fourmile North - 1fn 1010,11,
-2,Mike Espy,U.S. Senate,Unexpired Term,,Humphreys,Gooden Lake North - 2gn 2030,6,
-2,Cindy Hyde-Smith,U.S. Senate,Unexpired Term,,Humphreys,Gooden Lake North - 2gn 2030,37,
-2,Otis L. Anthony,State House,31,,Humphreys,Gooden Lake North - 2gn 2030,x,
-2,Barbara Rose Brooks,State House,31,,Humphreys,Gooden Lake North - 2gn 2030,x,
-2,Mike Espy,U.S. Senate,Unexpired Term,,Humphreys,Isola North - 2in 2010,360,
-2,Cindy Hyde-Smith,U.S. Senate,Unexpired Term,,Humphreys,Isola North - 2in 2010,124,
-2,Otis L. Anthony,State House,31,,Humphreys,Isola North - 2in 2010,x,
-2,Barbara Rose Brooks,State House,31,,Humphreys,Isola North - 2in 2010,x,
-2,Mike Espy,U.S. Senate,Unexpired Term,,Humphreys,Lake City South - 3ls 3030,9,
-2,Cindy Hyde-Smith,U.S. Senate,Unexpired Term,,Humphreys,Lake City South - 3ls 3030,52,
-2,Otis L. Anthony,State House,31,,Humphreys,Lake City South - 3ls 3030,x,
-2,Barbara Rose Brooks,State House,31,,Humphreys,Lake City South - 3ls 3030,x,
-2,Mike Espy,U.S. Senate,Unexpired Term,,Humphreys,Louise South - 5ls 5030,305,
-2,Cindy Hyde-Smith,U.S. Senate,Unexpired Term,,Humphreys,Louise South - 5ls 5030,73,
-2,Otis L. Anthony,State House,31,,Humphreys,Louise South - 5ls 5030,x,
-2,Barbara Rose Brooks,State House,31,,Humphreys,Louise South - 5ls 5030,x,
-2,Mike Espy,U.S. Senate,Unexpired Term,,Humphreys,Midnight South - 5ms 5020,49,
-2,Cindy Hyde-Smith,U.S. Senate,Unexpired Term,,Humphreys,Midnight South - 5ms 5020,48,
-2,Otis L. Anthony,State House,31,,Humphreys,Midnight South - 5ms 5020,x,
-2,Barbara Rose Brooks,State House,31,,Humphreys,Midnight South - 5ms 5020,x,
-3,Mike Espy,U.S. Senate,Unexpired Term,,Humphreys,Putnam South - 4ps 4030,40,
-3,Cindy Hyde-Smith,U.S. Senate,Unexpired Term,,Humphreys,Putnam South - 4ps 4030,81,
-3,Otis L. Anthony,State House,31,,Humphreys,Putnam South - 4ps 4030,x,
-3,Barbara Rose Brooks,State House,31,,Humphreys,Putnam South - 4ps 4030,x,
-3,Mike Espy,U.S. Senate,Unexpired Term,,Humphreys,Silver City South - 3ss 3020,189,
-3,Cindy Hyde-Smith,U.S. Senate,Unexpired Term,,Humphreys,Silver City South - 3ss 3020,86,
-3,Otis L. Anthony,State House,31,,Humphreys,Silver City South - 3ss 3020,x,
-3,Barbara Rose Brooks,State House,31,,Humphreys,Silver City South - 3ss 3020,x,
-3,Mike Espy,U.S. Senate,Unexpired Term,,Humphreys,TOTAL,2696,
-3,Cindy Hyde-Smith,U.S. Senate,Unexpired Term,,Humphreys,TOTAL,851,
-3,Otis L. Anthony,State House,31,,Humphreys,TOTAL,36,
-3,Barbara Rose Brooks,State House,31,,Humphreys,TOTAL,30,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
+county,precinct,office,district,party,candidate,votes
+Humphreys,Belzoni - 4010,U.S. Senate,Unexpired Term,,Cindy Hyde-Smith,192
+Humphreys,Belzoni - 4010,U.S. Senate,Unexpired Term,,Mike Espy,485
+Humphreys,Belzoni North - 1bn 1020,State House,31,,Barbara Rose Brooks,19
+Humphreys,Belzoni North - 1bn 1020,State House,31,,Otis L. Anthony,21
+Humphreys,Belzoni North - 1bn 1020,U.S. Senate,Unexpired Term,,Cindy Hyde-Smith,118
+Humphreys,Belzoni North - 1bn 1020,U.S. Senate,Unexpired Term,,Mike Espy,568
+Humphreys,Belzoni North - 2bn 2020,U.S. Senate,Unexpired Term,,Cindy Hyde-Smith,4
+Humphreys,Belzoni North - 2bn 2020,U.S. Senate,Unexpired Term,,Mike Espy,180
+Humphreys,Belzoni South - 3bs 3010,U.S. Senate,Unexpired Term,,Cindy Hyde-Smith,9
+Humphreys,Belzoni South - 3bs 3010,U.S. Senate,Unexpired Term,,Mike Espy,257
+Humphreys,Belzoni South - 5bs 5010,U.S. Senate,Unexpired Term,,Cindy Hyde-Smith,1
+Humphreys,Belzoni South - 5bs 5010,U.S. Senate,Unexpired Term,,Mike Espy,246
+Humphreys,Fourmile North - 1fn 1010,State House,31,,Barbara Rose Brooks,11
+Humphreys,Fourmile North - 1fn 1010,State House,31,,Otis L. Anthony,15
+Humphreys,Fourmile North - 1fn 1010,U.S. Senate,Unexpired Term,,Cindy Hyde-Smith,26
+Humphreys,Fourmile North - 1fn 1010,U.S. Senate,Unexpired Term,,Mike Espy,2
+Humphreys,Gooden Lake North - 2gn 2030,U.S. Senate,Unexpired Term,,Cindy Hyde-Smith,37
+Humphreys,Gooden Lake North - 2gn 2030,U.S. Senate,Unexpired Term,,Mike Espy,6
+Humphreys,Isola North - 2in 2010,U.S. Senate,Unexpired Term,,Cindy Hyde-Smith,124
+Humphreys,Isola North - 2in 2010,U.S. Senate,Unexpired Term,,Mike Espy,360
+Humphreys,Lake City South - 3ls 3030,U.S. Senate,Unexpired Term,,Cindy Hyde-Smith,52
+Humphreys,Lake City South - 3ls 3030,U.S. Senate,Unexpired Term,,Mike Espy,9
+Humphreys,Louise South - 5ls 5030,U.S. Senate,Unexpired Term,,Cindy Hyde-Smith,73
+Humphreys,Louise South - 5ls 5030,U.S. Senate,Unexpired Term,,Mike Espy,305
+Humphreys,Midnight South - 5ms 5020,U.S. Senate,Unexpired Term,,Cindy Hyde-Smith,48
+Humphreys,Midnight South - 5ms 5020,U.S. Senate,Unexpired Term,,Mike Espy,49
+Humphreys,Putnam South - 4ps 4030,U.S. Senate,Unexpired Term,,Cindy Hyde-Smith,81
+Humphreys,Putnam South - 4ps 4030,U.S. Senate,Unexpired Term,,Mike Espy,40
+Humphreys,Silver City South - 3ss 3020,U.S. Senate,Unexpired Term,,Cindy Hyde-Smith,86
+Humphreys,Silver City South - 3ss 3020,U.S. Senate,Unexpired Term,,Mike Espy,189
+Humphreys,Total,State House,31,,Barbara Rose Brooks,30
+Humphreys,Total,State House,31,,Otis L. Anthony,36
+Humphreys,Total,U.S. Senate,Unexpired Term,,Cindy Hyde-Smith,851
+Humphreys,Total,U.S. Senate,Unexpired Term,,Mike Espy,2696

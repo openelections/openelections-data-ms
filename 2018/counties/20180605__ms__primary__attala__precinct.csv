@@ -1,246 +1,190 @@
-page,candidate,office,district,party,county,precinct,votes,winner
-2,Richard Warren Boyanton,U.S. Senate,,R,Attala,Berea,0,
-2,Roger F. Wicker,U.S. Senate,,R,Attala,Berea,24,
-2,Richard Warren Boyanton,U.S. Senate,,R,Attala,Carmack,7,
-2,Roger F. Wicker,U.S. Senate,,R,Attala,Carmack,43,
-2,Richard Warren Boyanton,U.S. Senate,,R,Attala,East,2,
-2,Roger F. Wicker,U.S. Senate,,R,Attala,East,100,
-2,Richard Warren Boyanton,U.S. Senate,,R,Attala,Ethel,5,
-2,Roger F. Wicker,U.S. Senate,,R,Attala,Ethel,21,
-2,Richard Warren Boyanton,U.S. Senate,,R,Attala,Hesterville,1,
-2,Roger F. Wicker,U.S. Senate,,R,Attala,Hesterville,37,
-2,Richard Warren Boyanton,U.S. Senate,,R,Attala,Liberty Chapel,7,
-2,Roger F. Wicker,U.S. Senate,,R,Attala,Liberty Chapel,35,
-2,Richard Warren Boyanton,U.S. Senate,,R,Attala,Mcadams,1,
-2,Roger F. Wicker,U.S. Senate,,R,Attala,Mcadams,16,
-2,Richard Warren Boyanton,U.S. Senate,,R,Attala,Mccool,1,
-2,Roger F. Wicker,U.S. Senate,,R,Attala,Mccool,30,
-2,Richard Warren Boyanton,U.S. Senate,,R,Attala,Newport,1,
-2,Roger F. Wicker,U.S. Senate,,R,Attala,Newport,30,
-2,Richard Warren Boyanton,U.S. Senate,,R,Attala,North Central,5,
-2,Roger F. Wicker,U.S. Senate,,R,Attala,North Central,34,
-2,Richard Warren Boyanton,U.S. Senate,,R,Attala,North East,3,
-2,Roger F. Wicker,U.S. Senate,,R,Attala,North East,43,
-3,Richard Warren Boyanton,U.S. Senate,,R,Attala,North West,4,
-3,Roger F. Wicker,U.S. Senate,,R,Attala,North West,57,
-3,Richard Warren Boyanton,U.S. Senate,,R,Attala,Possumneck,1,
-3,Roger F. Wicker,U.S. Senate,,R,Attala,Possumneck,30,
-3,Richard Warren Boyanton,U.S. Senate,,R,Attala,Providence,4,
-3,Roger F. Wicker,U.S. Senate,,R,Attala,Providence,36,
-3,Richard Warren Boyanton,U.S. Senate,,R,Attala,Sallis,3,
-3,Roger F. Wicker,U.S. Senate,,R,Attala,Sallis,38,
-3,Richard Warren Boyanton,U.S. Senate,,R,Attala,South Central,9,
-3,Roger F. Wicker,U.S. Senate,,R,Attala,South Central,54,
-3,Richard Warren Boyanton,U.S. Senate,,R,Attala,South West,1,
-3,Roger F. Wicker,U.S. Senate,,R,Attala,South West,11,
-3,Richard Warren Boyanton,U.S. Senate,,R,Attala,Thompson,4,
-3,Roger F. Wicker,U.S. Senate,,R,Attala,Thompson,25,
-3,Richard Warren Boyanton,U.S. Senate,,R,Attala,Williamsville,17,
-3,Roger F. Wicker,U.S. Senate,,R,Attala,Williamsville,111,
-3,Richard Warren Boyanton,U.S. Senate,,R,Attala,Zama,6,
-3,Roger F. Wicker,U.S. Senate,,R,Attala,Zama,26,
-3,Richard Warren Boyanton,U.S. Senate,,R,Attala,TOTAL ,82,
-3,Roger F. Wicker,U.S. Senate,,R,Attala,TOTAL ,801,
-2,David Baria,U.S. Senate,,D,Attala,Berea,2,
-2,Jensen Bohren,U.S. Senate,,D,Attala,Berea,1,
-2,Jerone Garland,U.S. Senate,,D,Attala,Berea,0,
-2,Victor G. Maurice Jr.,U.S. Senate,,D,Attala,Berea,1,
-2,Omeria Scott,U.S. Senate,,D,Attala,Berea,0,
-2,Howard Sherman,U.S. Senate,,D,Attala,Berea,0,
-2,David Baria,U.S. Senate,,D,Attala,Carmack,1,
-2,Jensen Bohren,U.S. Senate,,D,Attala,Carmack,0,
-2,Jerone Garland,U.S. Senate,,D,Attala,Carmack,1,
-2,Victor G. Maurice Jr.,U.S. Senate,,D,Attala,Carmack,0,
-2,Omeria Scott,U.S. Senate,,D,Attala,Carmack,0,
-2,Howard Sherman,U.S. Senate,,D,Attala,Carmack,0,
-2,David Baria,U.S. Senate,,D,Attala,East,7,
-2,Jensen Bohren,U.S. Senate,,D,Attala,East,0,
-2,Jerone Garland,U.S. Senate,,D,Attala,East,23,
-2,Victor G. Maurice Jr.,U.S. Senate,,D,Attala,East,1,
-2,Omeria Scott,U.S. Senate,,D,Attala,East,0,
-2,Howard Sherman,U.S. Senate,,D,Attala,East,6,
-2,David Baria,U.S. Senate,,D,Attala,Ethel,10,
-2,Jensen Bohren,U.S. Senate,,D,Attala,Ethel,0,
-2,Jerone Garland,U.S. Senate,,D,Attala,Ethel,13,
-2,Victor G. Maurice Jr.,U.S. Senate,,D,Attala,Ethel,1,
-2,Omeria Scott,U.S. Senate,,D,Attala,Ethel,0,
-2,Howard Sherman,U.S. Senate,,D,Attala,Ethel,1,
-2,David Baria,U.S. Senate,,D,Attala,Hesterville,1,
-2,Jensen Bohren,U.S. Senate,,D,Attala,Hesterville,1,
-2,Jerone Garland,U.S. Senate,,D,Attala,Hesterville,5,
-2,Victor G. Maurice Jr.,U.S. Senate,,D,Attala,Hesterville,0,
-2,Omeria Scott,U.S. Senate,,D,Attala,Hesterville,2,
-2,Howard Sherman,U.S. Senate,,D,Attala,Hesterville,3,
-2,David Baria,U.S. Senate,,D,Attala,Liberty Chapel,11,
-2,Jensen Bohren,U.S. Senate,,D,Attala,Liberty Chapel,0,
-2,Jerone Garland,U.S. Senate,,D,Attala,Liberty Chapel,8,
-2,Victor G. Maurice Jr.,U.S. Senate,,D,Attala,Liberty Chapel,0,
-2,Omeria Scott,U.S. Senate,,D,Attala,Liberty Chapel,2,
-2,Howard Sherman,U.S. Senate,,D,Attala,Liberty Chapel,1,
-2,David Baria,U.S. Senate,,D,Attala,Mcadams,4,
-2,Jensen Bohren,U.S. Senate,,D,Attala,Mcadams,0,
-2,Jerone Garland,U.S. Senate,,D,Attala,Mcadams,22,
-2,Victor G. Maurice Jr.,U.S. Senate,,D,Attala,Mcadams,0,
-2,Omeria Scott,U.S. Senate,,D,Attala,Mcadams,0,
-2,Howard Sherman,U.S. Senate,,D,Attala,Mcadams,8,
-2,David Baria,U.S. Senate,,D,Attala,Mccool,5,
-2,Jensen Bohren,U.S. Senate,,D,Attala,Mccool,1,
-2,Jerone Garland,U.S. Senate,,D,Attala,Mccool,12,
-2,Victor G. Maurice Jr.,U.S. Senate,,D,Attala,Mccool,2,
-2,Omeria Scott,U.S. Senate,,D,Attala,Mccool,0,
-2,Howard Sherman,U.S. Senate,,D,Attala,Mccool,9,
-2,David Baria,U.S. Senate,,D,Attala,Newport,1,
-2,Jensen Bohren,U.S. Senate,,D,Attala,Newport,1,
-2,Jerone Garland,U.S. Senate,,D,Attala,Newport,5,
-2,Victor G. Maurice Jr.,U.S. Senate,,D,Attala,Newport,0,
-2,Omeria Scott,U.S. Senate,,D,Attala,Newport,0,
-2,Howard Sherman,U.S. Senate,,D,Attala,Newport,5,
-2,David Baria,U.S. Senate,,D,Attala,North Central,2,
-2,Jensen Bohren,U.S. Senate,,D,Attala,North Central,0,
-2,Jerone Garland,U.S. Senate,,D,Attala,North Central,2,
-2,Victor G. Maurice Jr.,U.S. Senate,,D,Attala,North Central,0,
-2,Omeria Scott,U.S. Senate,,D,Attala,North Central,0,
-2,Howard Sherman,U.S. Senate,,D,Attala,North Central,4,
-2,David Baria,U.S. Senate,,D,Attala,North East,27,
-2,Jensen Bohren,U.S. Senate,,D,Attala,North East,4,
-2,Jerone Garland,U.S. Senate,,D,Attala,North East,117,
-2,Victor G. Maurice Jr.,U.S. Senate,,D,Attala,North East,2,
-2,Omeria Scott,U.S. Senate,,D,Attala,North East,7,
-2,Howard Sherman,U.S. Senate,,D,Attala,North East,19,
-3,David Baria,U.S. Senate,,D,Attala,North West,6,
-3,Jensen Bohren,U.S. Senate,,D,Attala,North West,1,
-3,Jerone Garland,U.S. Senate,,D,Attala,North West,30,
-3,Victor G. Maurice Jr.,U.S. Senate,,D,Attala,North West,1,
-3,Omeria Scott,U.S. Senate,,D,Attala,North West,1,
-3,Howard Sherman,U.S. Senate,,D,Attala,North West,12,
-3,David Baria,U.S. Senate,,D,Attala,Possumneck,3,
-3,Jensen Bohren,U.S. Senate,,D,Attala,Possumneck,1,
-3,Jerone Garland,U.S. Senate,,D,Attala,Possumneck,8,
-3,Victor G. Maurice Jr.,U.S. Senate,,D,Attala,Possumneck,1,
-3,Omeria Scott,U.S. Senate,,D,Attala,Possumneck,1,
-3,Howard Sherman,U.S. Senate,,D,Attala,Possumneck,3,
-3,David Baria,U.S. Senate,,D,Attala,Providence,3,
-3,Jensen Bohren,U.S. Senate,,D,Attala,Providence,0,
-3,Jerone Garland,U.S. Senate,,D,Attala,Providence,1,
-3,Victor G. Maurice Jr.,U.S. Senate,,D,Attala,Providence,0,
-3,Omeria Scott,U.S. Senate,,D,Attala,Providence,0,
-3,Howard Sherman,U.S. Senate,,D,Attala,Providence,1,
-3,David Baria,U.S. Senate,,D,Attala,Sallis,16,
-3,Jensen Bohren,U.S. Senate,,D,Attala,Sallis,5,
-3,Jerone Garland,U.S. Senate,,D,Attala,Sallis,58,
-3,Victor G. Maurice Jr.,U.S. Senate,,D,Attala,Sallis,8,
-3,Omeria Scott,U.S. Senate,,D,Attala,Sallis,3,
-3,Howard Sherman,U.S. Senate,,D,Attala,Sallis,21,
-3,David Baria,U.S. Senate,,D,Attala,South Central,6,
-3,Jensen Bohren,U.S. Senate,,D,Attala,South Central,0,
-3,Jerone Garland,U.S. Senate,,D,Attala,South Central,44,
-3,Victor G. Maurice Jr.,U.S. Senate,,D,Attala,South Central,0,
-3,Omeria Scott,U.S. Senate,,D,Attala,South Central,2,
-3,Howard Sherman,U.S. Senate,,D,Attala,South Central,12,
-3,David Baria,U.S. Senate,,D,Attala,South West,2,
-3,Jensen Bohren,U.S. Senate,,D,Attala,South West,1,
-3,Jerone Garland,U.S. Senate,,D,Attala,South West,22,
-3,Victor G. Maurice Jr.,U.S. Senate,,D,Attala,South West,0,
-3,Omeria Scott,U.S. Senate,,D,Attala,South West,1,
-3,Howard Sherman,U.S. Senate,,D,Attala,South West,5,
-3,David Baria,U.S. Senate,,D,Attala,Thompson,0,
-3,Jensen Bohren,U.S. Senate,,D,Attala,Thompson,0,
-3,Jerone Garland,U.S. Senate,,D,Attala,Thompson,2,
-3,Victor G. Maurice Jr.,U.S. Senate,,D,Attala,Thompson,0,
-3,Omeria Scott,U.S. Senate,,D,Attala,Thompson,0,
-3,Howard Sherman,U.S. Senate,,D,Attala,Thompson,1,
-3,David Baria,U.S. Senate,,D,Attala,Williamsville,16,
-3,Jensen Bohren,U.S. Senate,,D,Attala,Williamsville,1,
-3,Jerone Garland,U.S. Senate,,D,Attala,Williamsville,48,
-3,Victor G. Maurice Jr.,U.S. Senate,,D,Attala,Williamsville,1,
-3,Omeria Scott,U.S. Senate,,D,Attala,Williamsville,3,
-3,Howard Sherman,U.S. Senate,,D,Attala,Williamsville,19,
-3,David Baria,U.S. Senate,,D,Attala,Zama,4,
-3,Jensen Bohren,U.S. Senate,,D,Attala,Zama,0,
-3,Jerone Garland,U.S. Senate,,D,Attala,Zama,7,
-3,Victor G. Maurice Jr.,U.S. Senate,,D,Attala,Zama,2,
-3,Omeria Scott,U.S. Senate,,D,Attala,Zama,1,
-3,Howard Sherman,U.S. Senate,,D,Attala,Zama,7,
-3,David Baria,U.S. Senate,,D,Attala,TOTAL ,127,
-3,Jensen Bohren,U.S. Senate,,D,Attala,TOTAL ,17,
-3,Jerone Garland,U.S. Senate,,D,Attala,TOTAL ,428,
-3,Victor G. Maurice Jr.,U.S. Senate,,D,Attala,TOTAL ,20,
-3,Omeria Scott,U.S. Senate,,D,Attala,TOTAL ,23,
-3,Howard Sherman,U.S. Senate,,D,Attala,TOTAL ,137,
-2,Bennie G. Thompson,U.S. House,02,D,Attala,Berea,3,
-2,Bennie G. Thompson,U.S. House,02,D,Attala,Carmack,1,
-2,Bennie G. Thompson,U.S. House,02,D,Attala,East,31,
-2,Bennie G. Thompson,U.S. House,02,D,Attala,Ethel,26,
-2,Bennie G. Thompson,U.S. House,02,D,Attala,Hesterville,11,
-2,Bennie G. Thompson,U.S. House,02,D,Attala,Liberty Chapel,21,
-2,Bennie G. Thompson,U.S. House,02,D,Attala,Mcadams,33,
-2,Bennie G. Thompson,U.S. House,02,D,Attala,Mccool,29,
-2,Bennie G. Thompson,U.S. House,02,D,Attala,Newport,12,
-2,Bennie G. Thompson,U.S. House,02,D,Attala,North Central,8,
-2,Bennie G. Thompson,U.S. House,02,D,Attala,North East,176,
-3,Bennie G. Thompson,U.S. House,02,D,Attala,North West,51,
-3,Bennie G. Thompson,U.S. House,02,D,Attala,Possumneck,18,
-3,Bennie G. Thompson,U.S. House,02,D,Attala,Providence,6,
-3,Bennie G. Thompson,U.S. House,02,D,Attala,Sallis,114,
-3,Bennie G. Thompson,U.S. House,02,D,Attala,South Central,62,
-3,Bennie G. Thompson,U.S. House,02,D,Attala,South West,30,
-3,Bennie G. Thompson,U.S. House,02,D,Attala,Thompson,4,
-3,Bennie G. Thompson,U.S. House,02,D,Attala,Williamsville,84,
-3,Bennie G. Thompson,U.S. House,02,D,Attala,Zama,19,
-3,Bennie G. Thompson,U.S. House,02,D,Attala,TOTAL ,739,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
+county,precinct,office,district,party,candidate,votes
+Attala,Berea,U.S. House,2,DEM,Bennie G. Thompson,3
+Attala,Berea,U.S. Senate,,DEM,David Baria,2
+Attala,Berea,U.S. Senate,,DEM,Howard Sherman,0
+Attala,Berea,U.S. Senate,,DEM,Jensen Bohren,1
+Attala,Berea,U.S. Senate,,DEM,Jerone Garland,0
+Attala,Berea,U.S. Senate,,DEM,Omeria Scott,0
+Attala,Berea,U.S. Senate,,DEM,Victor G. Maurice Jr.,1
+Attala,Berea,U.S. Senate,,REP,Richard Warren Boyanton,0
+Attala,Berea,U.S. Senate,,REP,Roger F. Wicker,24
+Attala,Carmack,U.S. House,2,DEM,Bennie G. Thompson,1
+Attala,Carmack,U.S. Senate,,DEM,David Baria,1
+Attala,Carmack,U.S. Senate,,DEM,Howard Sherman,0
+Attala,Carmack,U.S. Senate,,DEM,Jensen Bohren,0
+Attala,Carmack,U.S. Senate,,DEM,Jerone Garland,1
+Attala,Carmack,U.S. Senate,,DEM,Omeria Scott,0
+Attala,Carmack,U.S. Senate,,DEM,Victor G. Maurice Jr.,0
+Attala,Carmack,U.S. Senate,,REP,Richard Warren Boyanton,7
+Attala,Carmack,U.S. Senate,,REP,Roger F. Wicker,43
+Attala,East,U.S. House,2,DEM,Bennie G. Thompson,31
+Attala,East,U.S. Senate,,DEM,David Baria,7
+Attala,East,U.S. Senate,,DEM,Howard Sherman,6
+Attala,East,U.S. Senate,,DEM,Jensen Bohren,0
+Attala,East,U.S. Senate,,DEM,Jerone Garland,23
+Attala,East,U.S. Senate,,DEM,Omeria Scott,0
+Attala,East,U.S. Senate,,DEM,Victor G. Maurice Jr.,1
+Attala,East,U.S. Senate,,REP,Richard Warren Boyanton,2
+Attala,East,U.S. Senate,,REP,Roger F. Wicker,100
+Attala,Ethel,U.S. House,2,DEM,Bennie G. Thompson,26
+Attala,Ethel,U.S. Senate,,DEM,David Baria,10
+Attala,Ethel,U.S. Senate,,DEM,Howard Sherman,1
+Attala,Ethel,U.S. Senate,,DEM,Jensen Bohren,0
+Attala,Ethel,U.S. Senate,,DEM,Jerone Garland,13
+Attala,Ethel,U.S. Senate,,DEM,Omeria Scott,0
+Attala,Ethel,U.S. Senate,,DEM,Victor G. Maurice Jr.,1
+Attala,Ethel,U.S. Senate,,REP,Richard Warren Boyanton,5
+Attala,Ethel,U.S. Senate,,REP,Roger F. Wicker,21
+Attala,Hesterville,U.S. House,2,DEM,Bennie G. Thompson,11
+Attala,Hesterville,U.S. Senate,,DEM,David Baria,1
+Attala,Hesterville,U.S. Senate,,DEM,Howard Sherman,3
+Attala,Hesterville,U.S. Senate,,DEM,Jensen Bohren,1
+Attala,Hesterville,U.S. Senate,,DEM,Jerone Garland,5
+Attala,Hesterville,U.S. Senate,,DEM,Omeria Scott,2
+Attala,Hesterville,U.S. Senate,,DEM,Victor G. Maurice Jr.,0
+Attala,Hesterville,U.S. Senate,,REP,Richard Warren Boyanton,1
+Attala,Hesterville,U.S. Senate,,REP,Roger F. Wicker,37
+Attala,Liberty Chapel,U.S. House,2,DEM,Bennie G. Thompson,21
+Attala,Liberty Chapel,U.S. Senate,,DEM,David Baria,11
+Attala,Liberty Chapel,U.S. Senate,,DEM,Howard Sherman,1
+Attala,Liberty Chapel,U.S. Senate,,DEM,Jensen Bohren,0
+Attala,Liberty Chapel,U.S. Senate,,DEM,Jerone Garland,8
+Attala,Liberty Chapel,U.S. Senate,,DEM,Omeria Scott,2
+Attala,Liberty Chapel,U.S. Senate,,DEM,Victor G. Maurice Jr.,0
+Attala,Liberty Chapel,U.S. Senate,,REP,Richard Warren Boyanton,7
+Attala,Liberty Chapel,U.S. Senate,,REP,Roger F. Wicker,35
+Attala,Mcadams,U.S. House,2,DEM,Bennie G. Thompson,33
+Attala,Mcadams,U.S. Senate,,DEM,David Baria,4
+Attala,Mcadams,U.S. Senate,,DEM,Howard Sherman,8
+Attala,Mcadams,U.S. Senate,,DEM,Jensen Bohren,0
+Attala,Mcadams,U.S. Senate,,DEM,Jerone Garland,22
+Attala,Mcadams,U.S. Senate,,DEM,Omeria Scott,0
+Attala,Mcadams,U.S. Senate,,DEM,Victor G. Maurice Jr.,0
+Attala,Mcadams,U.S. Senate,,REP,Richard Warren Boyanton,1
+Attala,Mcadams,U.S. Senate,,REP,Roger F. Wicker,16
+Attala,Mccool,U.S. House,2,DEM,Bennie G. Thompson,29
+Attala,Mccool,U.S. Senate,,DEM,David Baria,5
+Attala,Mccool,U.S. Senate,,DEM,Howard Sherman,9
+Attala,Mccool,U.S. Senate,,DEM,Jensen Bohren,1
+Attala,Mccool,U.S. Senate,,DEM,Jerone Garland,12
+Attala,Mccool,U.S. Senate,,DEM,Omeria Scott,0
+Attala,Mccool,U.S. Senate,,DEM,Victor G. Maurice Jr.,2
+Attala,Mccool,U.S. Senate,,REP,Richard Warren Boyanton,1
+Attala,Mccool,U.S. Senate,,REP,Roger F. Wicker,30
+Attala,Newport,U.S. House,2,DEM,Bennie G. Thompson,12
+Attala,Newport,U.S. Senate,,DEM,David Baria,1
+Attala,Newport,U.S. Senate,,DEM,Howard Sherman,5
+Attala,Newport,U.S. Senate,,DEM,Jensen Bohren,1
+Attala,Newport,U.S. Senate,,DEM,Jerone Garland,5
+Attala,Newport,U.S. Senate,,DEM,Omeria Scott,0
+Attala,Newport,U.S. Senate,,DEM,Victor G. Maurice Jr.,0
+Attala,Newport,U.S. Senate,,REP,Richard Warren Boyanton,1
+Attala,Newport,U.S. Senate,,REP,Roger F. Wicker,30
+Attala,North Central,U.S. House,2,DEM,Bennie G. Thompson,8
+Attala,North Central,U.S. Senate,,DEM,David Baria,2
+Attala,North Central,U.S. Senate,,DEM,Howard Sherman,4
+Attala,North Central,U.S. Senate,,DEM,Jensen Bohren,0
+Attala,North Central,U.S. Senate,,DEM,Jerone Garland,2
+Attala,North Central,U.S. Senate,,DEM,Omeria Scott,0
+Attala,North Central,U.S. Senate,,DEM,Victor G. Maurice Jr.,0
+Attala,North Central,U.S. Senate,,REP,Richard Warren Boyanton,5
+Attala,North Central,U.S. Senate,,REP,Roger F. Wicker,34
+Attala,North East,U.S. House,2,DEM,Bennie G. Thompson,176
+Attala,North East,U.S. Senate,,DEM,David Baria,27
+Attala,North East,U.S. Senate,,DEM,Howard Sherman,19
+Attala,North East,U.S. Senate,,DEM,Jensen Bohren,4
+Attala,North East,U.S. Senate,,DEM,Jerone Garland,117
+Attala,North East,U.S. Senate,,DEM,Omeria Scott,7
+Attala,North East,U.S. Senate,,DEM,Victor G. Maurice Jr.,2
+Attala,North East,U.S. Senate,,REP,Richard Warren Boyanton,3
+Attala,North East,U.S. Senate,,REP,Roger F. Wicker,43
+Attala,North West,U.S. House,2,DEM,Bennie G. Thompson,51
+Attala,North West,U.S. Senate,,DEM,David Baria,6
+Attala,North West,U.S. Senate,,DEM,Howard Sherman,12
+Attala,North West,U.S. Senate,,DEM,Jensen Bohren,1
+Attala,North West,U.S. Senate,,DEM,Jerone Garland,30
+Attala,North West,U.S. Senate,,DEM,Omeria Scott,1
+Attala,North West,U.S. Senate,,DEM,Victor G. Maurice Jr.,1
+Attala,North West,U.S. Senate,,REP,Richard Warren Boyanton,4
+Attala,North West,U.S. Senate,,REP,Roger F. Wicker,57
+Attala,Possumneck,U.S. House,2,DEM,Bennie G. Thompson,18
+Attala,Possumneck,U.S. Senate,,DEM,David Baria,3
+Attala,Possumneck,U.S. Senate,,DEM,Howard Sherman,3
+Attala,Possumneck,U.S. Senate,,DEM,Jensen Bohren,1
+Attala,Possumneck,U.S. Senate,,DEM,Jerone Garland,8
+Attala,Possumneck,U.S. Senate,,DEM,Omeria Scott,1
+Attala,Possumneck,U.S. Senate,,DEM,Victor G. Maurice Jr.,1
+Attala,Possumneck,U.S. Senate,,REP,Richard Warren Boyanton,1
+Attala,Possumneck,U.S. Senate,,REP,Roger F. Wicker,30
+Attala,Providence,U.S. House,2,DEM,Bennie G. Thompson,6
+Attala,Providence,U.S. Senate,,DEM,David Baria,3
+Attala,Providence,U.S. Senate,,DEM,Howard Sherman,1
+Attala,Providence,U.S. Senate,,DEM,Jensen Bohren,0
+Attala,Providence,U.S. Senate,,DEM,Jerone Garland,1
+Attala,Providence,U.S. Senate,,DEM,Omeria Scott,0
+Attala,Providence,U.S. Senate,,DEM,Victor G. Maurice Jr.,0
+Attala,Providence,U.S. Senate,,REP,Richard Warren Boyanton,4
+Attala,Providence,U.S. Senate,,REP,Roger F. Wicker,36
+Attala,Sallis,U.S. House,2,DEM,Bennie G. Thompson,114
+Attala,Sallis,U.S. Senate,,DEM,David Baria,16
+Attala,Sallis,U.S. Senate,,DEM,Howard Sherman,21
+Attala,Sallis,U.S. Senate,,DEM,Jensen Bohren,5
+Attala,Sallis,U.S. Senate,,DEM,Jerone Garland,58
+Attala,Sallis,U.S. Senate,,DEM,Omeria Scott,3
+Attala,Sallis,U.S. Senate,,DEM,Victor G. Maurice Jr.,8
+Attala,Sallis,U.S. Senate,,REP,Richard Warren Boyanton,3
+Attala,Sallis,U.S. Senate,,REP,Roger F. Wicker,38
+Attala,South Central,U.S. House,2,DEM,Bennie G. Thompson,62
+Attala,South Central,U.S. Senate,,DEM,David Baria,6
+Attala,South Central,U.S. Senate,,DEM,Howard Sherman,12
+Attala,South Central,U.S. Senate,,DEM,Jensen Bohren,0
+Attala,South Central,U.S. Senate,,DEM,Jerone Garland,44
+Attala,South Central,U.S. Senate,,DEM,Omeria Scott,2
+Attala,South Central,U.S. Senate,,DEM,Victor G. Maurice Jr.,0
+Attala,South Central,U.S. Senate,,REP,Richard Warren Boyanton,9
+Attala,South Central,U.S. Senate,,REP,Roger F. Wicker,54
+Attala,South West,U.S. House,2,DEM,Bennie G. Thompson,30
+Attala,South West,U.S. Senate,,DEM,David Baria,2
+Attala,South West,U.S. Senate,,DEM,Howard Sherman,5
+Attala,South West,U.S. Senate,,DEM,Jensen Bohren,1
+Attala,South West,U.S. Senate,,DEM,Jerone Garland,22
+Attala,South West,U.S. Senate,,DEM,Omeria Scott,1
+Attala,South West,U.S. Senate,,DEM,Victor G. Maurice Jr.,0
+Attala,South West,U.S. Senate,,REP,Richard Warren Boyanton,1
+Attala,South West,U.S. Senate,,REP,Roger F. Wicker,11
+Attala,Thompson,U.S. House,2,DEM,Bennie G. Thompson,4
+Attala,Thompson,U.S. Senate,,DEM,David Baria,0
+Attala,Thompson,U.S. Senate,,DEM,Howard Sherman,1
+Attala,Thompson,U.S. Senate,,DEM,Jensen Bohren,0
+Attala,Thompson,U.S. Senate,,DEM,Jerone Garland,2
+Attala,Thompson,U.S. Senate,,DEM,Omeria Scott,0
+Attala,Thompson,U.S. Senate,,DEM,Victor G. Maurice Jr.,0
+Attala,Thompson,U.S. Senate,,REP,Richard Warren Boyanton,4
+Attala,Thompson,U.S. Senate,,REP,Roger F. Wicker,25
+Attala,Total,U.S. House,2,DEM,Bennie G. Thompson,739
+Attala,Total,U.S. Senate,,DEM,David Baria,127
+Attala,Total,U.S. Senate,,DEM,Howard Sherman,137
+Attala,Total,U.S. Senate,,DEM,Jensen Bohren,17
+Attala,Total,U.S. Senate,,DEM,Jerone Garland,428
+Attala,Total,U.S. Senate,,DEM,Omeria Scott,23
+Attala,Total,U.S. Senate,,DEM,Victor G. Maurice Jr.,20
+Attala,Total,U.S. Senate,,REP,Richard Warren Boyanton,82
+Attala,Total,U.S. Senate,,REP,Roger F. Wicker,801
+Attala,Williamsville,U.S. House,2,DEM,Bennie G. Thompson,84
+Attala,Williamsville,U.S. Senate,,DEM,David Baria,16
+Attala,Williamsville,U.S. Senate,,DEM,Howard Sherman,19
+Attala,Williamsville,U.S. Senate,,DEM,Jensen Bohren,1
+Attala,Williamsville,U.S. Senate,,DEM,Jerone Garland,48
+Attala,Williamsville,U.S. Senate,,DEM,Omeria Scott,3
+Attala,Williamsville,U.S. Senate,,DEM,Victor G. Maurice Jr.,1
+Attala,Williamsville,U.S. Senate,,REP,Richard Warren Boyanton,17
+Attala,Williamsville,U.S. Senate,,REP,Roger F. Wicker,111
+Attala,Zama,U.S. House,2,DEM,Bennie G. Thompson,19
+Attala,Zama,U.S. Senate,,DEM,David Baria,4
+Attala,Zama,U.S. Senate,,DEM,Howard Sherman,7
+Attala,Zama,U.S. Senate,,DEM,Jensen Bohren,0
+Attala,Zama,U.S. Senate,,DEM,Jerone Garland,7
+Attala,Zama,U.S. Senate,,DEM,Omeria Scott,1
+Attala,Zama,U.S. Senate,,DEM,Victor G. Maurice Jr.,2
+Attala,Zama,U.S. Senate,,REP,Richard Warren Boyanton,6
+Attala,Zama,U.S. Senate,,REP,Roger F. Wicker,26

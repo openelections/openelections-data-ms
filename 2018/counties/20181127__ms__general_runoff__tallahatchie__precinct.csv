@@ -1,45 +1,45 @@
-Page,candidate,office,district,party,county,precinct,votes,winner,
-2,Mike Espy,U.S. Senate,Unexpired Term,,Tallahatchie,Blue Cane,192,,
-2,Cindy Hyde-Smith,U.S. Senate,Unexpired Term,,Tallahatchie,Blue Cane,35,,
-2,Mike Espy,U.S. Senate,Unexpired Term,,Tallahatchie,Brazil,14,,
-2,Cindy Hyde-Smith,U.S. Senate,Unexpired Term,,Tallahatchie,Brazil,11,,
-2,Mike Espy,U.S. Senate,Unexpired Term,,Tallahatchie,Cascilla,57,,
-2,Cindy Hyde-Smith,U.S. Senate,Unexpired Term,,Tallahatchie,Cascilla,154,,
-2,Mike Espy,U.S. Senate,Unexpired Term,,Tallahatchie,Charleston Beat #1,239,,
-2,Cindy Hyde-Smith,U.S. Senate,Unexpired Term,,Tallahatchie,Charleston Beat #1,140,,
-2,Mike Espy,U.S. Senate,Unexpired Term,,Tallahatchie,Charleston Beat #2,430,,
-2,Cindy Hyde-Smith,U.S. Senate,Unexpired Term,,Tallahatchie,Charleston Beat #2,174,,
-2,Mike Espy,U.S. Senate,Unexpired Term,,Tallahatchie,Charleston Beat #3,217,,
-2,Cindy Hyde-Smith,U.S. Senate,Unexpired Term,,Tallahatchie,Charleston Beat #3,109,,
-2,Mike Espy,U.S. Senate,Unexpired Term,,Tallahatchie,Enid,97,,
-2,Cindy Hyde-Smith,U.S. Senate,Unexpired Term,,Tallahatchie,Enid,135,,
-2,Mike Espy,U.S. Senate,Unexpired Term,,Tallahatchie,Glendora,237,,
-2,Cindy Hyde-Smith,U.S. Senate,Unexpired Term,,Tallahatchie,Glendora,3,,
-2,Mike Espy,U.S. Senate,Unexpired Term,,Tallahatchie,Leverette,36,,
-2,Cindy Hyde-Smith,U.S. Senate,Unexpired Term,,Tallahatchie,Leverette,30,,
-2,Mike Espy,U.S. Senate,Unexpired Term,,Tallahatchie,Murphreesbore ,11,,
-2,Cindy Hyde-Smith,U.S. Senate,Unexpired Term,,Tallahatchie,Murphreesbore ,118,,
-2,Mike Espy,U.S. Senate,Unexpired Term,,Tallahatchie,Paynes,12,,
-2,Cindy Hyde-Smith,U.S. Senate,Unexpired Term,,Tallahatchie,Paynes,97,,
-3,Mike Espy,U.S. Senate,Unexpired Term,,Tallahatchie,Phillip,90,,
-3,Cindy Hyde-Smith,U.S. Senate,Unexpired Term,,Tallahatchie,Phillip,41,,
-3,Mike Espy,U.S. Senate,Unexpired Term,,Tallahatchie,Rosebloom,2,,
-3,Cindy Hyde-Smith,U.S. Senate,Unexpired Term,,Tallahatchie,Rosebloom,85,,
-3,Mike Espy,U.S. Senate,Unexpired Term,,Tallahatchie,Springhill,19,,
-3,Cindy Hyde-Smith,U.S. Senate,Unexpired Term,,Tallahatchie,Springhill,105,,
-3,Mike Espy,U.S. Senate,Unexpired Term,,Tallahatchie,Sumner Beat #2,70,,
-3,Cindy Hyde-Smith,U.S. Senate,Unexpired Term,,Tallahatchie,Sumner Beat #2,114,,
-3,Mike Espy,U.S. Senate,Unexpired Term,,Tallahatchie,Sumner Beat #5,90,,
-3,Cindy Hyde-Smith,U.S. Senate,Unexpired Term,,Tallahatchie,Sumner Beat #5,30,,
-3,Mike Espy,U.S. Senate,Unexpired Term,,Tallahatchie,Teasdale,38,,
-3,Cindy Hyde-Smith,U.S. Senate,Unexpired Term,,Tallahatchie,Teasdale,158,,
-3,Mike Espy,U.S. Senate,Unexpired Term,,Tallahatchie,Tippo,59,,
-3,Cindy Hyde-Smith,U.S. Senate,Unexpired Term,,Tallahatchie,Tippo,70,,
-3,Mike Espy,U.S. Senate,Unexpired Term,,Tallahatchie,Tutwiler,435,,
-3,Cindy Hyde-Smith,U.S. Senate,Unexpired Term,,Tallahatchie,Tutwiler,34,,
-3,Mike Espy,U.S. Senate,Unexpired Term,,Tallahatchie,Webb Beat #4,99,,
-3,Cindy Hyde-Smith,U.S. Senate,Unexpired Term,,Tallahatchie,Webb Beat #4,19,,
-3,Mike Espy,U.S. Senate,Unexpired Term,,Tallahatchie,WEbb Beat #5,247,,
-3,Cindy Hyde-Smith,U.S. Senate,Unexpired Term,,Tallahatchie,WEbb Beat #5,29,,
-3,Mike Espy,U.S. Senate,Unexpired Term,,Tallahatchie,TOTAL ,2691,,
-3,Cindy Hyde-Smith,U.S. Senate,Unexpired Term,,Tallahatchie,TOTAL ,1691,,
+county,precinct,office,district,party,candidate,votes
+Tallahatchie,Blue Cane,U.S. Senate,Unexpired Term,,Cindy Hyde-Smith,35
+Tallahatchie,Blue Cane,U.S. Senate,Unexpired Term,,Mike Espy,192
+Tallahatchie,Brazil,U.S. Senate,Unexpired Term,,Cindy Hyde-Smith,11
+Tallahatchie,Brazil,U.S. Senate,Unexpired Term,,Mike Espy,14
+Tallahatchie,Cascilla,U.S. Senate,Unexpired Term,,Cindy Hyde-Smith,154
+Tallahatchie,Cascilla,U.S. Senate,Unexpired Term,,Mike Espy,57
+Tallahatchie,Charleston Beat #1,U.S. Senate,Unexpired Term,,Cindy Hyde-Smith,140
+Tallahatchie,Charleston Beat #1,U.S. Senate,Unexpired Term,,Mike Espy,239
+Tallahatchie,Charleston Beat #2,U.S. Senate,Unexpired Term,,Cindy Hyde-Smith,174
+Tallahatchie,Charleston Beat #2,U.S. Senate,Unexpired Term,,Mike Espy,430
+Tallahatchie,Charleston Beat #3,U.S. Senate,Unexpired Term,,Cindy Hyde-Smith,109
+Tallahatchie,Charleston Beat #3,U.S. Senate,Unexpired Term,,Mike Espy,217
+Tallahatchie,Enid,U.S. Senate,Unexpired Term,,Cindy Hyde-Smith,135
+Tallahatchie,Enid,U.S. Senate,Unexpired Term,,Mike Espy,97
+Tallahatchie,Glendora,U.S. Senate,Unexpired Term,,Cindy Hyde-Smith,3
+Tallahatchie,Glendora,U.S. Senate,Unexpired Term,,Mike Espy,237
+Tallahatchie,Leverette,U.S. Senate,Unexpired Term,,Cindy Hyde-Smith,30
+Tallahatchie,Leverette,U.S. Senate,Unexpired Term,,Mike Espy,36
+Tallahatchie,Murphreesboro,U.S. Senate,Unexpired Term,,Cindy Hyde-Smith,118
+Tallahatchie,Murphreesboro,U.S. Senate,Unexpired Term,,Mike Espy,11
+Tallahatchie,Paynes,U.S. Senate,Unexpired Term,,Cindy Hyde-Smith,97
+Tallahatchie,Paynes,U.S. Senate,Unexpired Term,,Mike Espy,12
+Tallahatchie,Phillip,U.S. Senate,Unexpired Term,,Cindy Hyde-Smith,41
+Tallahatchie,Phillip,U.S. Senate,Unexpired Term,,Mike Espy,90
+Tallahatchie,Rosebloom,U.S. Senate,Unexpired Term,,Cindy Hyde-Smith,85
+Tallahatchie,Rosebloom,U.S. Senate,Unexpired Term,,Mike Espy,2
+Tallahatchie,Springhill,U.S. Senate,Unexpired Term,,Cindy Hyde-Smith,105
+Tallahatchie,Springhill,U.S. Senate,Unexpired Term,,Mike Espy,19
+Tallahatchie,Sumner Beat #2,U.S. Senate,Unexpired Term,,Cindy Hyde-Smith,114
+Tallahatchie,Sumner Beat #2,U.S. Senate,Unexpired Term,,Mike Espy,70
+Tallahatchie,Sumner Beat #5,U.S. Senate,Unexpired Term,,Cindy Hyde-Smith,30
+Tallahatchie,Sumner Beat #5,U.S. Senate,Unexpired Term,,Mike Espy,90
+Tallahatchie,Teasdale,U.S. Senate,Unexpired Term,,Cindy Hyde-Smith,158
+Tallahatchie,Teasdale,U.S. Senate,Unexpired Term,,Mike Espy,38
+Tallahatchie,Tippo,U.S. Senate,Unexpired Term,,Cindy Hyde-Smith,70
+Tallahatchie,Tippo,U.S. Senate,Unexpired Term,,Mike Espy,59
+Tallahatchie,Total,U.S. Senate,Unexpired Term,,Cindy Hyde-Smith,1691
+Tallahatchie,Total,U.S. Senate,Unexpired Term,,Mike Espy,2691
+Tallahatchie,Tutwiler,U.S. Senate,Unexpired Term,,Cindy Hyde-Smith,34
+Tallahatchie,Tutwiler,U.S. Senate,Unexpired Term,,Mike Espy,435
+Tallahatchie,WEbb Beat #5,U.S. Senate,Unexpired Term,,Cindy Hyde-Smith,29
+Tallahatchie,WEbb Beat #5,U.S. Senate,Unexpired Term,,Mike Espy,247
+Tallahatchie,Webb Beat #4,U.S. Senate,Unexpired Term,,Cindy Hyde-Smith,19
+Tallahatchie,Webb Beat #4,U.S. Senate,Unexpired Term,,Mike Espy,99

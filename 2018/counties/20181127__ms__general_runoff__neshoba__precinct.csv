@@ -1,57 +1,57 @@
-Page,candidate,office,district,party,county,precinct,votes,winner
-2,Mike Espy,U.S. Senate,Unexpired Term,,Neshoba,Arlington,5,
-2,Cindy Hyde-Smith,U.S. Senate,Unexpired Term,,Neshoba,Arlington,204,
-2,Mike Espy,U.S. Senate,Unexpired Term,,Neshoba,Bogue Chitto,31,
-2,Cindy Hyde-Smith,U.S. Senate,Unexpired Term,,Neshoba,Bogue Chitto,13,
-2,Mike Espy,U.S. Senate,Unexpired Term,,Neshoba,Burnside,196,
-2,Cindy Hyde-Smith,U.S. Senate,Unexpired Term,,Neshoba,Burnside,91,
-2,Mike Espy,U.S. Senate,Unexpired Term,,Neshoba,Center,34,
-2,Cindy Hyde-Smith,U.S. Senate,Unexpired Term,,Neshoba,Center,196,
-2,Mike Espy,U.S. Senate,Unexpired Term,,Neshoba,Country Line,11,
-2,Cindy Hyde-Smith,U.S. Senate,Unexpired Term,,Neshoba,Country Line,209,
-2,Mike Espy,U.S. Senate,Unexpired Term,,Neshoba,Deemer,7,
-2,Cindy Hyde-Smith,U.S. Senate,Unexpired Term,,Neshoba,Deemer,101,
-2,Mike Espy,U.S. Senate,Unexpired Term,,Neshoba,Dixon,139,
-2,Cindy Hyde-Smith,U.S. Senate,Unexpired Term,,Neshoba,Dixon,201,
-2,Mike Espy,U.S. Senate,Unexpired Term,,Neshoba,East Neshoba,168,
-2,Cindy Hyde-Smith,U.S. Senate,Unexpired Term,,Neshoba,East Neshoba,72,
-2,Mike Espy,U.S. Senate,Unexpired Term,,Neshoba,Fairview,22,
-2,Cindy Hyde-Smith,U.S. Senate,Unexpired Term,,Neshoba,Fairview,93,
-2,Mike Espy,U.S. Senate,Unexpired Term,,Neshoba,Forestdale,35,
-2,Cindy Hyde-Smith,U.S. Senate,Unexpired Term,,Neshoba,Forestdale,168,
-2,Mike Espy,U.S. Senate,Unexpired Term,,Neshoba,Fork,6,
-2,Cindy Hyde-Smith,U.S. Senate,Unexpired Term,,Neshoba,Fork,145,
-3,Mike Espy,U.S. Senate,Unexpired Term,,Neshoba,Fusky,4,
-3,Cindy Hyde-Smith,U.S. Senate,Unexpired Term,,Neshoba,Fusky,193,
-3,Mike Espy,U.S. Senate,Unexpired Term,,Neshoba,Hays,37,
-3,Cindy Hyde-Smith,U.S. Senate,Unexpired Term,,Neshoba,Hays,160,
-3,Mike Espy,U.S. Senate,Unexpired Term,,Neshoba,Herbert,8,
-3,Cindy Hyde-Smith,U.S. Senate,Unexpired Term,,Neshoba,Herbert,177,
-3,Mike Espy,U.S. Senate,Unexpired Term,,Neshoba,Hope,31,
-3,Cindy Hyde-Smith,U.S. Senate,Unexpired Term,,Neshoba,Hope,109,
-3,Mike Espy,U.S. Senate,Unexpired Term,,Neshoba,House,31,
-3,Cindy Hyde-Smith,U.S. Senate,Unexpired Term,,Neshoba,House,296,
-3,Mike Espy,U.S. Senate,Unexpired Term,,Neshoba,Mcdonald,16,
-3,Cindy Hyde-Smith,U.S. Senate,Unexpired Term,,Neshoba,Mcdonald,332,
-3,Mike Espy,U.S. Senate,Unexpired Term,,Neshoba,Neshoba,38,
-3,Cindy Hyde-Smith,U.S. Senate,Unexpired Term,,Neshoba,Neshoba,183,
-3,Mike Espy,U.S. Senate,Unexpired Term,,Neshoba,North Bend,15,
-3,Cindy Hyde-Smith,U.S. Senate,Unexpired Term,,Neshoba,North Bend,269,
-3,Mike Espy,U.S. Senate,Unexpired Term,,Neshoba,Northeast Philadelphia,152,
-3,Cindy Hyde-Smith,U.S. Senate,Unexpired Term,,Neshoba,Northeast Philadelphia,801,
-3,Mike Espy,U.S. Senate,Unexpired Term,,Neshoba,Northwest Philadelphia,767,
-3,Cindy Hyde-Smith,U.S. Senate,Unexpired Term,,Neshoba,Northwest Philadelphia,89,
-3,Mike Espy,U.S. Senate,Unexpired Term,,Neshoba,Pearl River,158,
-3,Cindy Hyde-Smith,U.S. Senate,Unexpired Term,,Neshoba,Pearl River,34,
-4,Mike Espy,U.S. Senate,Unexpired Term,,Neshoba,South Philadelphia,11,
-4,Cindy Hyde-Smith,U.S. Senate,Unexpired Term,,Neshoba,South Philadelphia,71,
-4,Mike Espy,U.S. Senate,Unexpired Term,,Neshoba,Southeast Philadelphia,137,
-4,Cindy Hyde-Smith,U.S. Senate,Unexpired Term,,Neshoba,Southeast Philadelphia,570,
-4,Mike Espy,U.S. Senate,Unexpired Term,,Neshoba,Tucker-District One,34,
-4,Cindy Hyde-Smith,U.S. Senate,Unexpired Term,,Neshoba,Tucker-District One,9,
-4,Mike Espy,U.S. Senate,Unexpired Term,,Neshoba,Tucker-District Three,21,
-4,Cindy Hyde-Smith,U.S. Senate,Unexpired Term,,Neshoba,Tucker-District Three,303,
-4,Mike Espy,U.S. Senate,Unexpired Term,,Neshoba,Zephyrhill,50,
-4,Cindy Hyde-Smith,U.S. Senate,Unexpired Term,,Neshoba,Zephyrhill,133,
-4,Mike Espy,U.S. Senate,Unexpired Term,,Neshoba,TOTAL ,2164,
-4,Cindy Hyde-Smith,U.S. Senate,Unexpired Term,,Neshoba,TOTAL ,5222,
+county,precinct,office,district,party,candidate,votes
+Neshoba,Arlington,U.S. Senate,Unexpired Term,,Cindy Hyde-Smith,204
+Neshoba,Arlington,U.S. Senate,Unexpired Term,,Mike Espy,5
+Neshoba,Bogue Chitto,U.S. Senate,Unexpired Term,,Cindy Hyde-Smith,13
+Neshoba,Bogue Chitto,U.S. Senate,Unexpired Term,,Mike Espy,31
+Neshoba,Burnside,U.S. Senate,Unexpired Term,,Cindy Hyde-Smith,91
+Neshoba,Burnside,U.S. Senate,Unexpired Term,,Mike Espy,196
+Neshoba,Center,U.S. Senate,Unexpired Term,,Cindy Hyde-Smith,196
+Neshoba,Center,U.S. Senate,Unexpired Term,,Mike Espy,34
+Neshoba,Country Line,U.S. Senate,Unexpired Term,,Cindy Hyde-Smith,209
+Neshoba,Country Line,U.S. Senate,Unexpired Term,,Mike Espy,11
+Neshoba,Deemer,U.S. Senate,Unexpired Term,,Cindy Hyde-Smith,101
+Neshoba,Deemer,U.S. Senate,Unexpired Term,,Mike Espy,7
+Neshoba,Dixon,U.S. Senate,Unexpired Term,,Cindy Hyde-Smith,201
+Neshoba,Dixon,U.S. Senate,Unexpired Term,,Mike Espy,139
+Neshoba,East Neshoba,U.S. Senate,Unexpired Term,,Cindy Hyde-Smith,72
+Neshoba,East Neshoba,U.S. Senate,Unexpired Term,,Mike Espy,168
+Neshoba,Fairview,U.S. Senate,Unexpired Term,,Cindy Hyde-Smith,93
+Neshoba,Fairview,U.S. Senate,Unexpired Term,,Mike Espy,22
+Neshoba,Forestdale,U.S. Senate,Unexpired Term,,Cindy Hyde-Smith,168
+Neshoba,Forestdale,U.S. Senate,Unexpired Term,,Mike Espy,35
+Neshoba,Fork,U.S. Senate,Unexpired Term,,Cindy Hyde-Smith,145
+Neshoba,Fork,U.S. Senate,Unexpired Term,,Mike Espy,6
+Neshoba,Fusky,U.S. Senate,Unexpired Term,,Cindy Hyde-Smith,193
+Neshoba,Fusky,U.S. Senate,Unexpired Term,,Mike Espy,4
+Neshoba,Hays,U.S. Senate,Unexpired Term,,Cindy Hyde-Smith,160
+Neshoba,Hays,U.S. Senate,Unexpired Term,,Mike Espy,37
+Neshoba,Herbert,U.S. Senate,Unexpired Term,,Cindy Hyde-Smith,177
+Neshoba,Herbert,U.S. Senate,Unexpired Term,,Mike Espy,8
+Neshoba,Hope,U.S. Senate,Unexpired Term,,Cindy Hyde-Smith,109
+Neshoba,Hope,U.S. Senate,Unexpired Term,,Mike Espy,31
+Neshoba,House,U.S. Senate,Unexpired Term,,Cindy Hyde-Smith,296
+Neshoba,House,U.S. Senate,Unexpired Term,,Mike Espy,31
+Neshoba,Mcdonald,U.S. Senate,Unexpired Term,,Cindy Hyde-Smith,332
+Neshoba,Mcdonald,U.S. Senate,Unexpired Term,,Mike Espy,16
+Neshoba,Neshoba,U.S. Senate,Unexpired Term,,Cindy Hyde-Smith,183
+Neshoba,Neshoba,U.S. Senate,Unexpired Term,,Mike Espy,38
+Neshoba,North Bend,U.S. Senate,Unexpired Term,,Cindy Hyde-Smith,269
+Neshoba,North Bend,U.S. Senate,Unexpired Term,,Mike Espy,15
+Neshoba,Northeast Philadelphia,U.S. Senate,Unexpired Term,,Cindy Hyde-Smith,801
+Neshoba,Northeast Philadelphia,U.S. Senate,Unexpired Term,,Mike Espy,152
+Neshoba,Northwest Philadelphia,U.S. Senate,Unexpired Term,,Cindy Hyde-Smith,89
+Neshoba,Northwest Philadelphia,U.S. Senate,Unexpired Term,,Mike Espy,767
+Neshoba,Pearl River,U.S. Senate,Unexpired Term,,Cindy Hyde-Smith,34
+Neshoba,Pearl River,U.S. Senate,Unexpired Term,,Mike Espy,158
+Neshoba,South Philadelphia,U.S. Senate,Unexpired Term,,Cindy Hyde-Smith,71
+Neshoba,South Philadelphia,U.S. Senate,Unexpired Term,,Mike Espy,11
+Neshoba,Southeast Philadelphia,U.S. Senate,Unexpired Term,,Cindy Hyde-Smith,570
+Neshoba,Southeast Philadelphia,U.S. Senate,Unexpired Term,,Mike Espy,137
+Neshoba,Total,U.S. Senate,Unexpired Term,,Cindy Hyde-Smith,5222
+Neshoba,Total,U.S. Senate,Unexpired Term,,Mike Espy,2164
+Neshoba,Tucker-District One,U.S. Senate,Unexpired Term,,Cindy Hyde-Smith,9
+Neshoba,Tucker-District One,U.S. Senate,Unexpired Term,,Mike Espy,34
+Neshoba,Tucker-District Three,U.S. Senate,Unexpired Term,,Cindy Hyde-Smith,303
+Neshoba,Tucker-District Three,U.S. Senate,Unexpired Term,,Mike Espy,21
+Neshoba,Zephyrhill,U.S. Senate,Unexpired Term,,Cindy Hyde-Smith,133
+Neshoba,Zephyrhill,U.S. Senate,Unexpired Term,,Mike Espy,50

@@ -1,0 +1,236 @@
+"","county","precinct","office","district","party","candidate","votes"
+"1","Jones","ANTIOCH","U.S. Representative",4,"Democrat","TAYLOR, GENE",12
+"2","Jones","ANTIOCH","US Senator",NA,"Democrat","BOWLIN, BILL",4
+"3","Jones","ANTIOCH","US Senator",NA,"Democrat","FLEMING, ERIK",4
+"4","Jones","ANTIOCH","US Senator",NA,"Democrat","O'KEEFE, JAMES",2
+"5","Jones","ANTIOCH","US Senator",NA,"Democrat","STARR, CATHERINE M.",1
+"6","Jones","BLACKWELL","U.S. Representative",4,"Democrat","TAYLOR, GENE",10
+"7","Jones","BLACKWELL","US Senator",NA,"Democrat","BOWLIN, BILL",2
+"8","Jones","BLACKWELL","US Senator",NA,"Democrat","FLEMING, ERIK",1
+"9","Jones","BLACKWELL","US Senator",NA,"Democrat","O'KEEFE, JAMES",2
+"10","Jones","BLACKWELL","US Senator",NA,"Democrat","STARR, CATHERINE M.",5
+"11","Jones","BRUCE","U.S. Representative",4,"Democrat","TAYLOR, GENE",NA
+"12","Jones","BRUCE","US Senator",NA,"Democrat","BOWLIN, BILL",2
+"13","Jones","BRUCE","US Senator",NA,"Democrat","FLEMING, ERIK",1
+"14","Jones","BRUCE","US Senator",NA,"Democrat","O'KEEFE, JAMES",6
+"15","Jones","BRUCE","US Senator",NA,"Democrat","STARR, CATHERINE M.",3
+"16","Jones","CALHOUN","U.S. Representative",4,"Democrat","TAYLOR, GENE",32
+"17","Jones","CALHOUN","US Senator",NA,"Democrat","BOWLIN, BILL",13
+"18","Jones","CALHOUN","US Senator",NA,"Democrat","FLEMING, ERIK",3
+"19","Jones","CALHOUN","US Senator",NA,"Democrat","O'KEEFE, JAMES",7
+"20","Jones","CALHOUN","US Senator",NA,"Democrat","STARR, CATHERINE M.",6
+"21","Jones","CAMERON CENTER","U.S. Representative",4,"Democrat","TAYLOR, GENE",6
+"22","Jones","CAMERON CENTER","US Senator",NA,"Democrat","BOWLIN, BILL",3
+"23","Jones","CAMERON CENTER","US Senator",NA,"Democrat","FLEMING, ERIK",0
+"24","Jones","CAMERON CENTER","US Senator",NA,"Democrat","O'KEEFE, JAMES",3
+"25","Jones","CAMERON CENTER","US Senator",NA,"Democrat","STARR, CATHERINE M.",0
+"26","Jones","CENTERVILLE","U.S. Representative",4,"Democrat","TAYLOR, GENE",NA
+"27","Jones","CENTERVILLE","US Senator",NA,"Democrat","BOWLIN, BILL",4
+"28","Jones","CENTERVILLE","US Senator",NA,"Democrat","FLEMING, ERIK",2
+"29","Jones","CENTERVILLE","US Senator",NA,"Democrat","O'KEEFE, JAMES",1
+"30","Jones","CENTERVILLE","US Senator",NA,"Democrat","STARR, CATHERINE M.",1
+"31","Jones","COOKS AVE. COMM. CENTER","U.S. Representative",4,"Democrat","TAYLOR, GENE",17
+"32","Jones","COOKS AVE. COMM. CENTER","US Senator",NA,"Democrat","BOWLIN, BILL",1
+"33","Jones","COOKS AVE. COMM. CENTER","US Senator",NA,"Democrat","FLEMING, ERIK",12
+"34","Jones","COOKS AVE. COMM. CENTER","US Senator",NA,"Democrat","O'KEEFE, JAMES",1
+"35","Jones","COOKS AVE. COMM. CENTER","US Senator",NA,"Democrat","STARR, CATHERINE M.",4
+"36","Jones","COUNTY BARN","U.S. Representative",4,"Democrat","TAYLOR, GENE",10
+"37","Jones","COUNTY BARN","US Senator",NA,"Democrat","BOWLIN, BILL",1
+"38","Jones","COUNTY BARN","US Senator",NA,"Democrat","FLEMING, ERIK",1
+"39","Jones","COUNTY BARN","US Senator",NA,"Democrat","O'KEEFE, JAMES",5
+"40","Jones","COUNTY BARN","US Senator",NA,"Democrat","STARR, CATHERINE M.",3
+"41","Jones","CURRIE","U.S. Representative",4,"Democrat","TAYLOR, GENE",29
+"42","Jones","CURRIE","US Senator",NA,"Democrat","BOWLIN, BILL",2
+"43","Jones","CURRIE","US Senator",NA,"Democrat","FLEMING, ERIK",26
+"44","Jones","CURRIE","US Senator",NA,"Democrat","O'KEEFE, JAMES",0
+"45","Jones","CURRIE","US Senator",NA,"Democrat","STARR, CATHERINE M.",1
+"46","Jones","ELLISVILLE COURTHOUSE","U.S. Representative",4,"Democrat","TAYLOR, GENE",20
+"47","Jones","ELLISVILLE COURTHOUSE","US Senator",NA,"Democrat","BOWLIN, BILL",2
+"48","Jones","ELLISVILLE COURTHOUSE","US Senator",NA,"Democrat","FLEMING, ERIK",4
+"49","Jones","ELLISVILLE COURTHOUSE","US Senator",NA,"Democrat","O'KEEFE, JAMES",4
+"50","Jones","ELLISVILLE COURTHOUSE","US Senator",NA,"Democrat","STARR, CATHERINE M.",6
+"51","Jones","ERATA","U.S. Representative",4,"Democrat","TAYLOR, GENE",16
+"52","Jones","ERATA","US Senator",NA,"Democrat","BOWLIN, BILL",8
+"53","Jones","ERATA","US Senator",NA,"Democrat","FLEMING, ERIK",1
+"54","Jones","ERATA","US Senator",NA,"Democrat","O'KEEFE, JAMES",2
+"55","Jones","ERATA","US Senator",NA,"Democrat","STARR, CATHERINE M.",2
+"56","Jones","GITANO","U.S. Representative",4,"Democrat","TAYLOR, GENE",9
+"57","Jones","GITANO","US Senator",NA,"Democrat","BOWLIN, BILL",1
+"58","Jones","GITANO","US Senator",NA,"Democrat","FLEMING, ERIK",5
+"59","Jones","GITANO","US Senator",NA,"Democrat","O'KEEFE, JAMES",0
+"60","Jones","GITANO","US Senator",NA,"Democrat","STARR, CATHERINE M.",5
+"61","Jones","GLADE","U.S. Representative",4,"Democrat","TAYLOR, GENE",12
+"62","Jones","GLADE","US Senator",NA,"Democrat","BOWLIN, BILL",4
+"63","Jones","GLADE","US Senator",NA,"Democrat","FLEMING, ERIK",3
+"64","Jones","GLADE","US Senator",NA,"Democrat","O'KEEFE, JAMES",4
+"65","Jones","GLADE","US Senator",NA,"Democrat","STARR, CATHERINE M.",2
+"66","Jones","HEBRON","U.S. Representative",4,"Democrat","TAYLOR, GENE",NA
+"67","Jones","HEBRON","US Senator",NA,"Democrat","BOWLIN, BILL",5
+"68","Jones","HEBRON","US Senator",NA,"Democrat","FLEMING, ERIK",35
+"69","Jones","HEBRON","US Senator",NA,"Democrat","O'KEEFE, JAMES",7
+"70","Jones","HEBRON","US Senator",NA,"Democrat","STARR, CATHERINE M.",4
+"71","Jones","JOHNSON","U.S. Representative",4,"Democrat","TAYLOR, GENE",8
+"72","Jones","JOHNSON","US Senator",NA,"Democrat","BOWLIN, BILL",4
+"73","Jones","JOHNSON","US Senator",NA,"Democrat","FLEMING, ERIK",0
+"74","Jones","JOHNSON","US Senator",NA,"Democrat","O'KEEFE, JAMES",1
+"75","Jones","JOHNSON","US Senator",NA,"Democrat","STARR, CATHERINE M.",1
+"76","Jones","KINGSTON CHURCH","U.S. Representative",4,"Democrat","TAYLOR, GENE",3
+"77","Jones","KINGSTON CHURCH","US Senator",NA,"Democrat","BOWLIN, BILL",1
+"78","Jones","KINGSTON CHURCH","US Senator",NA,"Democrat","FLEMING, ERIK",0
+"79","Jones","KINGSTON CHURCH","US Senator",NA,"Democrat","O'KEEFE, JAMES",3
+"80","Jones","KINGSTON CHURCH","US Senator",NA,"Democrat","STARR, CATHERINE M.",0
+"81","Jones","LAMAR SCHOOL","U.S. Representative",4,"Democrat","TAYLOR, GENE",16
+"82","Jones","LAMAR SCHOOL","US Senator",NA,"Democrat","BOWLIN, BILL",2
+"83","Jones","LAMAR SCHOOL","US Senator",NA,"Democrat","FLEMING, ERIK",6
+"84","Jones","LAMAR SCHOOL","US Senator",NA,"Democrat","O'KEEFE, JAMES",8
+"85","Jones","LAMAR SCHOOL","US Senator",NA,"Democrat","STARR, CATHERINE M.",1
+"86","Jones","LANDRUM","U.S. Representative",4,"Democrat","TAYLOR, GENE",14
+"87","Jones","LANDRUM","US Senator",NA,"Democrat","BOWLIN, BILL",3
+"88","Jones","LANDRUM","US Senator",NA,"Democrat","FLEMING, ERIK",1
+"89","Jones","LANDRUM","US Senator",NA,"Democrat","O'KEEFE, JAMES",8
+"90","Jones","LANDRUM","US Senator",NA,"Democrat","STARR, CATHERINE M.",0
+"91","Jones","LAUREL COURTHOUSE","U.S. Representative",4,"Democrat","TAYLOR, GENE",9
+"92","Jones","LAUREL COURTHOUSE","US Senator",NA,"Democrat","BOWLIN, BILL",1
+"93","Jones","LAUREL COURTHOUSE","US Senator",NA,"Democrat","FLEMING, ERIK",1
+"94","Jones","LAUREL COURTHOUSE","US Senator",NA,"Democrat","O'KEEFE, JAMES",5
+"95","Jones","LAUREL COURTHOUSE","US Senator",NA,"Democrat","STARR, CATHERINE M.",5
+"96","Jones","MASON SCHOOL","U.S. Representative",4,"Democrat","TAYLOR, GENE",47
+"97","Jones","MASON SCHOOL","US Senator",NA,"Democrat","BOWLIN, BILL",9
+"98","Jones","MASON SCHOOL","US Senator",NA,"Democrat","FLEMING, ERIK",2
+"99","Jones","MASON SCHOOL","US Senator",NA,"Democrat","O'KEEFE, JAMES",20
+"100","Jones","MASON SCHOOL","US Senator",NA,"Democrat","STARR, CATHERINE M.",3
+"101","Jones","MATTHEWS","U.S. Representative",4,"Democrat","TAYLOR, GENE",20
+"102","Jones","MATTHEWS","US Senator",NA,"Democrat","BOWLIN, BILL",12
+"103","Jones","MATTHEWS","US Senator",NA,"Democrat","FLEMING, ERIK",1
+"104","Jones","MATTHEWS","US Senator",NA,"Democrat","O'KEEFE, JAMES",4
+"105","Jones","MATTHEWS","US Senator",NA,"Democrat","STARR, CATHERINE M.",3
+"106","Jones","MAULDIN COMMUNITY CENTER","U.S. Representative",4,"Democrat","TAYLOR, GENE",22
+"107","Jones","MAULDIN COMMUNITY CENTER","US Senator",NA,"Democrat","BOWLIN, BILL",4
+"108","Jones","MAULDIN COMMUNITY CENTER","US Senator",NA,"Democrat","FLEMING, ERIK",3
+"109","Jones","MAULDIN COMMUNITY CENTER","US Senator",NA,"Democrat","O'KEEFE, JAMES",7
+"110","Jones","MAULDIN COMMUNITY CENTER","US Senator",NA,"Democrat","STARR, CATHERINE M.",6
+"111","Jones","MOSELLE","U.S. Representative",4,"Democrat","TAYLOR, GENE",12
+"112","Jones","MOSELLE","US Senator",NA,"Democrat","BOWLIN, BILL",4
+"113","Jones","MOSELLE","US Senator",NA,"Democrat","FLEMING, ERIK",3
+"114","Jones","MOSELLE","US Senator",NA,"Democrat","O'KEEFE, JAMES",8
+"115","Jones","MOSELLE","US Senator",NA,"Democrat","STARR, CATHERINE M.",5
+"116","Jones","MYRICK","U.S. Representative",4,"Democrat","TAYLOR, GENE",25
+"117","Jones","MYRICK","US Senator",NA,"Democrat","BOWLIN, BILL",15
+"118","Jones","MYRICK","US Senator",NA,"Democrat","FLEMING, ERIK",3
+"119","Jones","MYRICK","US Senator",NA,"Democrat","O'KEEFE, JAMES",2
+"120","Jones","MYRICK","US Senator",NA,"Democrat","STARR, CATHERINE M.",5
+"121","Jones","NATIONAL GUARD","U.S. Representative",4,"Democrat","TAYLOR, GENE",17
+"122","Jones","NATIONAL GUARD","US Senator",NA,"Democrat","BOWLIN, BILL",5
+"123","Jones","NATIONAL GUARD","US Senator",NA,"Democrat","FLEMING, ERIK",4
+"124","Jones","NATIONAL GUARD","US Senator",NA,"Democrat","O'KEEFE, JAMES",7
+"125","Jones","NATIONAL GUARD","US Senator",NA,"Democrat","STARR, CATHERINE M.",1
+"126","Jones","NORA DAVIS SCHOOL","U.S. Representative",4,"Democrat","TAYLOR, GENE",17
+"127","Jones","NORA DAVIS SCHOOL","US Senator",NA,"Democrat","BOWLIN, BILL",1
+"128","Jones","NORA DAVIS SCHOOL","US Senator",NA,"Democrat","FLEMING, ERIK",14
+"129","Jones","NORA DAVIS SCHOOL","US Senator",NA,"Democrat","O'KEEFE, JAMES",4
+"130","Jones","NORA DAVIS SCHOOL","US Senator",NA,"Democrat","STARR, CATHERINE M.",2
+"131","Jones","OAK PARK SCHOOL","U.S. Representative",4,"Democrat","TAYLOR, GENE",44
+"132","Jones","OAK PARK SCHOOL","US Senator",NA,"Democrat","BOWLIN, BILL",9
+"133","Jones","OAK PARK SCHOOL","US Senator",NA,"Democrat","FLEMING, ERIK",19
+"134","Jones","OAK PARK SCHOOL","US Senator",NA,"Democrat","O'KEEFE, JAMES",6
+"135","Jones","OAK PARK SCHOOL","US Senator",NA,"Democrat","STARR, CATHERINE M.",12
+"136","Jones","OLD HEALTH DEPARTMENT","U.S. Representative",4,"Democrat","TAYLOR, GENE",0
+"137","Jones","OLD HEALTH DEPARTMENT","US Senator",NA,"Democrat","BOWLIN, BILL",0
+"138","Jones","OLD HEALTH DEPARTMENT","US Senator",NA,"Democrat","FLEMING, ERIK",0
+"139","Jones","OLD HEALTH DEPARTMENT","US Senator",NA,"Democrat","O'KEEFE, JAMES",0
+"140","Jones","OLD HEALTH DEPARTMENT","US Senator",NA,"Democrat","STARR, CATHERINE M.",0
+"141","Jones","OVETT","U.S. Representative",4,"Democrat","TAYLOR, GENE",35
+"142","Jones","OVETT","US Senator",NA,"Democrat","BOWLIN, BILL",3
+"143","Jones","OVETT","US Senator",NA,"Democrat","FLEMING, ERIK",4
+"144","Jones","OVETT","US Senator",NA,"Democrat","O'KEEFE, JAMES",3
+"145","Jones","OVETT","US Senator",NA,"Democrat","STARR, CATHERINE M.",6
+"146","Jones","PENDORFF","U.S. Representative",4,"Democrat","TAYLOR, GENE",11
+"147","Jones","PENDORFF","US Senator",NA,"Democrat","BOWLIN, BILL",9
+"148","Jones","PENDORFF","US Senator",NA,"Democrat","FLEMING, ERIK",1
+"149","Jones","PENDORFF","US Senator",NA,"Democrat","O'KEEFE, JAMES",0
+"150","Jones","PENDORFF","US Senator",NA,"Democrat","STARR, CATHERINE M.",1
+"151","Jones","PINE GROVE","U.S. Representative",4,"Democrat","TAYLOR, GENE",21
+"152","Jones","PINE GROVE","US Senator",NA,"Democrat","BOWLIN, BILL",4
+"153","Jones","PINE GROVE","US Senator",NA,"Democrat","FLEMING, ERIK",9
+"154","Jones","PINE GROVE","US Senator",NA,"Democrat","O'KEEFE, JAMES",6
+"155","Jones","PINE GROVE","US Senator",NA,"Democrat","STARR, CATHERINE M.",2
+"156","Jones","PLEASANT RIDGE","U.S. Representative",4,"Democrat","TAYLOR, GENE",20
+"157","Jones","PLEASANT RIDGE","US Senator",NA,"Democrat","BOWLIN, BILL",5
+"158","Jones","PLEASANT RIDGE","US Senator",NA,"Democrat","FLEMING, ERIK",5
+"159","Jones","PLEASANT RIDGE","US Senator",NA,"Democrat","O'KEEFE, JAMES",7
+"160","Jones","PLEASANT RIDGE","US Senator",NA,"Democrat","STARR, CATHERINE M.",2
+"161","Jones","POWERS COMMUNITY CENTER","U.S. Representative",4,"Democrat","TAYLOR, GENE",6
+"162","Jones","POWERS COMMUNITY CENTER","US Senator",NA,"Democrat","BOWLIN, BILL",0
+"163","Jones","POWERS COMMUNITY CENTER","US Senator",NA,"Democrat","FLEMING, ERIK",1
+"164","Jones","POWERS COMMUNITY CENTER","US Senator",NA,"Democrat","O'KEEFE, JAMES",0
+"165","Jones","POWERS COMMUNITY CENTER","US Senator",NA,"Democrat","STARR, CATHERINE M.",1
+"166","Jones","PURGED VOTER","U.S. Representative",4,"Democrat","TAYLOR, GENE",0
+"167","Jones","PURGED VOTER","US Senator",NA,"Democrat","BOWLIN, BILL",0
+"168","Jones","PURGED VOTER","US Senator",NA,"Democrat","FLEMING, ERIK",0
+"169","Jones","PURGED VOTER","US Senator",NA,"Democrat","O'KEEFE, JAMES",0
+"170","Jones","PURGED VOTER","US Senator",NA,"Democrat","STARR, CATHERINE M.",0
+"171","Jones","RAINEY","U.S. Representative",4,"Democrat","TAYLOR, GENE",11
+"172","Jones","RAINEY","US Senator",NA,"Democrat","BOWLIN, BILL",0
+"173","Jones","RAINEY","US Senator",NA,"Democrat","FLEMING, ERIK",1
+"174","Jones","RAINEY","US Senator",NA,"Democrat","O'KEEFE, JAMES",6
+"175","Jones","RAINEY","US Senator",NA,"Democrat","STARR, CATHERINE M.",0
+"176","Jones","ROOSEVELT","U.S. Representative",4,"Democrat","TAYLOR, GENE",34
+"177","Jones","ROOSEVELT","US Senator",NA,"Democrat","BOWLIN, BILL",6
+"178","Jones","ROOSEVELT","US Senator",NA,"Democrat","FLEMING, ERIK",16
+"179","Jones","ROOSEVELT","US Senator",NA,"Democrat","O'KEEFE, JAMES",5
+"180","Jones","ROOSEVELT","US Senator",NA,"Democrat","STARR, CATHERINE M.",4
+"181","Jones","RUSTIN","U.S. Representative",4,"Democrat","TAYLOR, GENE",18
+"182","Jones","RUSTIN","US Senator",NA,"Democrat","BOWLIN, BILL",12
+"183","Jones","RUSTIN","US Senator",NA,"Democrat","FLEMING, ERIK",5
+"184","Jones","RUSTIN","US Senator",NA,"Democrat","O'KEEFE, JAMES",3
+"185","Jones","RUSTIN","US Senator",NA,"Democrat","STARR, CATHERINE M.",2
+"186","Jones","SAND HILL","U.S. Representative",4,"Democrat","TAYLOR, GENE",16
+"187","Jones","SAND HILL","US Senator",NA,"Democrat","BOWLIN, BILL",3
+"188","Jones","SAND HILL","US Senator",NA,"Democrat","FLEMING, ERIK",2
+"189","Jones","SAND HILL","US Senator",NA,"Democrat","O'KEEFE, JAMES",7
+"190","Jones","SAND HILL","US Senator",NA,"Democrat","STARR, CATHERINE M.",4
+"191","Jones","SANDERSVILLE CIVIC CENTER","U.S. Representative",4,"Democrat","TAYLOR, GENE",11
+"192","Jones","SANDERSVILLE CIVIC CENTER","US Senator",NA,"Democrat","BOWLIN, BILL",1
+"193","Jones","SANDERSVILLE CIVIC CENTER","US Senator",NA,"Democrat","FLEMING, ERIK",1
+"194","Jones","SANDERSVILLE CIVIC CENTER","US Senator",NA,"Democrat","O'KEEFE, JAMES",11
+"195","Jones","SANDERSVILLE CIVIC CENTER","US Senator",NA,"Democrat","STARR, CATHERINE M.",0
+"196","Jones","SHADY GROVE","U.S. Representative",4,"Democrat","TAYLOR, GENE",21
+"197","Jones","SHADY GROVE","US Senator",NA,"Democrat","BOWLIN, BILL",3
+"198","Jones","SHADY GROVE","US Senator",NA,"Democrat","FLEMING, ERIK",2
+"199","Jones","SHADY GROVE","US Senator",NA,"Democrat","O'KEEFE, JAMES",11
+"200","Jones","SHADY GROVE","US Senator",NA,"Democrat","STARR, CATHERINE M.",4
+"201","Jones","SHARON","U.S. Representative",4,"Democrat","TAYLOR, GENE",26
+"202","Jones","SHARON","US Senator",NA,"Democrat","BOWLIN, BILL",12
+"203","Jones","SHARON","US Senator",NA,"Democrat","FLEMING, ERIK",2
+"204","Jones","SHARON","US Senator",NA,"Democrat","O'KEEFE, JAMES",7
+"205","Jones","SHARON","US Senator",NA,"Democrat","STARR, CATHERINE M.",7
+"206","Jones","SHELTON","U.S. Representative",4,"Democrat","TAYLOR, GENE",33
+"207","Jones","SHELTON","US Senator",NA,"Democrat","BOWLIN, BILL",9
+"208","Jones","SHELTON","US Senator",NA,"Democrat","FLEMING, ERIK",4
+"209","Jones","SHELTON","US Senator",NA,"Democrat","O'KEEFE, JAMES",9
+"210","Jones","SHELTON","US Senator",NA,"Democrat","STARR, CATHERINE M.",6
+"211","Jones","SOSO","U.S. Representative",4,"Democrat","TAYLOR, GENE",32
+"212","Jones","SOSO","US Senator",NA,"Democrat","BOWLIN, BILL",5
+"213","Jones","SOSO","US Senator",NA,"Democrat","FLEMING, ERIK",6
+"214","Jones","SOSO","US Senator",NA,"Democrat","O'KEEFE, JAMES",8
+"215","Jones","SOSO","US Senator",NA,"Democrat","STARR, CATHERINE M.",9
+"216","Jones","SOUTH JONES","U.S. Representative",4,"Democrat","TAYLOR, GENE",4
+"217","Jones","SOUTH JONES","US Senator",NA,"Democrat","BOWLIN, BILL",3
+"218","Jones","SOUTH JONES","US Senator",NA,"Democrat","FLEMING, ERIK",0
+"219","Jones","SOUTH JONES","US Senator",NA,"Democrat","O'KEEFE, JAMES",0
+"220","Jones","SOUTH JONES","US Senator",NA,"Democrat","STARR, CATHERINE M.",1
+"221","Jones","STAINTON (FORMER MADDOX)","U.S. Representative",4,"Democrat","TAYLOR, GENE",19
+"222","Jones","STAINTON (FORMER MADDOX)","US Senator",NA,"Democrat","BOWLIN, BILL",3
+"223","Jones","STAINTON (FORMER MADDOX)","US Senator",NA,"Democrat","FLEMING, ERIK",8
+"224","Jones","STAINTON (FORMER MADDOX)","US Senator",NA,"Democrat","O'KEEFE, JAMES",2
+"225","Jones","STAINTON (FORMER MADDOX)","US Senator",NA,"Democrat","STARR, CATHERINE M.",3
+"226","Jones","TUCKERS","U.S. Representative",4,"Democrat","TAYLOR, GENE",8
+"227","Jones","TUCKERS","US Senator",NA,"Democrat","BOWLIN, BILL",2
+"228","Jones","TUCKERS","US Senator",NA,"Democrat","FLEMING, ERIK",0
+"229","Jones","TUCKERS","US Senator",NA,"Democrat","O'KEEFE, JAMES",0
+"230","Jones","TUCKERS","US Senator",NA,"Democrat","STARR, CATHERINE M.",2
+"231","Jones","UNION","U.S. Representative",4,"Democrat","TAYLOR, GENE",11
+"232","Jones","UNION","US Senator",NA,"Democrat","BOWLIN, BILL",6
+"233","Jones","UNION","US Senator",NA,"Democrat","FLEMING, ERIK",2
+"234","Jones","UNION","US Senator",NA,"Democrat","O'KEEFE, JAMES",2
+"235","Jones","UNION","US Senator",NA,"Democrat","STARR, CATHERINE M.",0

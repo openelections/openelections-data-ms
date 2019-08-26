@@ -1,333 +1,321 @@
-page,candidate,office,district,party,county,precinct,votes,winner
-2,Richard Warren Boyanton,U.S. Senate,,R,Adams,"Dist. 1, Bellemont Precinct",87,
-2,Roger F. Wicker,U.S. Senate,,R,Adams,"Dist. 1, Bellemont Precinct",409,
-2,Richard Warren Boyanton,U.S. Senate,,R,Adams,"Dist. 1, By-Pass Fire Precinct ",12,
-2,Roger F. Wicker,U.S. Senate,,R,Adams,"Dist. 1, By-Pass Fire Precinct ",51,
-2,Richard Warren Boyanton,U.S. Senate,,R,Adams,"Dist. 1, Courthouse Precinct",14,
-2,Roger F. Wicker,U.S. Senate,,R,Adams,"Dist. 1, Courthouse Precinct",155,
-2,Richard Warren Boyanton,U.S. Senate,,R,Adams,"Dist. 2, Beau Pre Precinct",34,
-2,Roger F. Wicker,U.S. Senate,,R,Adams,"Dist. 2, Beau Pre Precinct",129,
-2,Richard Warren Boyanton,U.S. Senate,,R,Adams,"Dist. 2, Duncan Park Precinct",18,
-2,Roger F. Wicker,U.S. Senate,,R,Adams,"Dist. 2, Duncan Park Precinct",135,
-2,Richard Warren Boyanton,U.S. Senate,,R,Adams,"Dist. 2, Kingston Precinct",36,
-2,Roger F. Wicker,U.S. Senate,,R,Adams,"Dist. 2, Kingston Precinct",104,
-2,Richard Warren Boyanton,U.S. Senate,,R,Adams,"Dist. 2, Liberty Park Precinct",25,
-2,Roger F. Wicker,U.S. Senate,,R,Adams,"Dist. 2, Liberty Park Precinct",157,
-2,Richard Warren Boyanton,U.S. Senate,,R,Adams,"Dist. 3, Concord Precinct",6,
-2,Roger F. Wicker,U.S. Senate,,R,Adams,"Dist. 3, Concord Precinct",5,
-2,Richard Warren Boyanton,U.S. Senate,,R,Adams,"Dist. 3, Maryland Hgts. Precinct",0,
-2,Roger F. Wicker,U.S. Senate,,R,Adams,"Dist. 3, Maryland Hgts. Precinct",3,
-2,Richard Warren Boyanton,U.S. Senate,,R,Adams,"Dist. 3, Nps Multi Purpose Bldg.",4,
-2,Roger F. Wicker,U.S. Senate,,R,Adams,"Dist. 3, Nps Multi Purpose Bldg.",41,
-2,Richard Warren Boyanton,U.S. Senate,,R,Adams,"Dist. 3, Palestine Precinct",9,
-2,Roger F. Wicker,U.S. Senate,,R,Adams,"Dist. 3, Palestine Precinct",55,
-3,Richard Warren Boyanton,U.S. Senate,,R,Adams,"Dist. 4, Carpenter Precinct",3,
-3,Roger F. Wicker,U.S. Senate,,R,Adams,"Dist. 4, Carpenter Precinct",41,
-3,Richard Warren Boyanton,U.S. Senate,,R,Adams,"Dist. 4, Morgantown Precinct",9,
-3,Roger F. Wicker,U.S. Senate,,R,Adams,"Dist. 4, Morgantown Precinct",29,
-3,Richard Warren Boyanton,U.S. Senate,,R,Adams,"Dist. 4, Northside Precinct",0,
-3,Roger F. Wicker,U.S. Senate,,R,Adams,"Dist. 4, Northside Precinct",16,
-3,Richard Warren Boyanton,U.S. Senate,,R,Adams,"Dist. 4, Pine Ridge Precinct",2,
-3,Roger F. Wicker,U.S. Senate,,R,Adams,"Dist. 4, Pine Ridge Precinct",22,
-3,Richard Warren Boyanton,U.S. Senate,,R,Adams,"Dist. 5, Airport Precinct",6,
-3,Roger F. Wicker,U.S. Senate,,R,Adams,"Dist. 5, Airport Precinct",46,
-3,Richard Warren Boyanton,U.S. Senate,,R,Adams,"Dist. 5, Foster Mound Precinct",0,
-3,Roger F. Wicker,U.S. Senate,,R,Adams,"Dist. 5, Foster Mound Precinct",12,
-3,Richard Warren Boyanton,U.S. Senate,,R,Adams,"Dist. 5, Oakland Precinct",28,
-3,Roger F. Wicker,U.S. Senate,,R,Adams,"Dist. 5, Oakland Precinct",146,
-3,Richard Warren Boyanton,U.S. Senate,,R,Adams,"Dist. 5, Washington Precinct",15,
-3,Roger F. Wicker,U.S. Senate,,R,Adams,"Dist. 5, Washington Precinct",78,
-3,Richard Warren Boyanton,U.S. Senate,,R,Adams,TOTAL ,308,
-3,Roger F. Wicker,U.S. Senate,,R,Adams,TOTAL ,1634,
-2,Sally Doty,U.S. House,03,R,Adams,"Dist. 1, Bellemont Precinct",44,
-2,Morgan Dunn,U.S. House,03,R,Adams,"Dist. 1, Bellemont Precinct",24,
-2,Michael Guest,U.S. House,03,R,Adams,"Dist. 1, Bellemont Precinct",101,
-2,Whit Hughes,U.S. House,03,R,Adams,"Dist. 1, Bellemont Precinct",241,
-2,Perry Parker,U.S. House,03,R,Adams,"Dist. 1, Bellemont Precinct",75,
-2,Katherine 'Bitzi' Tate,U.S. House,03,R,Adams,"Dist. 1, Bellemont Precinct",7,
-2,Sally Doty,U.S. House,03,R,Adams,"Dist. 1, By-Pass Fire Precinct ",10,
-2,Morgan Dunn,U.S. House,03,R,Adams,"Dist. 1, By-Pass Fire Precinct ",11,
-2,Michael Guest,U.S. House,03,R,Adams,"Dist. 1, By-Pass Fire Precinct ",17,
-2,Whit Hughes,U.S. House,03,R,Adams,"Dist. 1, By-Pass Fire Precinct ",18,
-2,Perry Parker,U.S. House,03,R,Adams,"Dist. 1, By-Pass Fire Precinct ",7,
-2,Katherine 'Bitzi' Tate,U.S. House,03,R,Adams,"Dist. 1, By-Pass Fire Precinct ",0,
-2,Sally Doty,U.S. House,03,R,Adams,"Dist. 1, Courthouse Precinct",21,
-2,Morgan Dunn,U.S. House,03,R,Adams,"Dist. 1, Courthouse Precinct",6,
-2,Michael Guest,U.S. House,03,R,Adams,"Dist. 1, Courthouse Precinct",33,
-2,Whit Hughes,U.S. House,03,R,Adams,"Dist. 1, Courthouse Precinct",83,
-2,Perry Parker,U.S. House,03,R,Adams,"Dist. 1, Courthouse Precinct",24,
-2,Katherine 'Bitzi' Tate,U.S. House,03,R,Adams,"Dist. 1, Courthouse Precinct",0,
-2,Sally Doty,U.S. House,03,R,Adams,"Dist. 2, Beau Pre Precinct",19,
-2,Morgan Dunn,U.S. House,03,R,Adams,"Dist. 2, Beau Pre Precinct",13,
-2,Michael Guest,U.S. House,03,R,Adams,"Dist. 2, Beau Pre Precinct",39,
-2,Whit Hughes,U.S. House,03,R,Adams,"Dist. 2, Beau Pre Precinct",66,
-2,Perry Parker,U.S. House,03,R,Adams,"Dist. 2, Beau Pre Precinct",26,
-2,Katherine 'Bitzi' Tate,U.S. House,03,R,Adams,"Dist. 2, Beau Pre Precinct",1,
-2,Sally Doty,U.S. House,03,R,Adams,"Dist. 2, Duncan Park Precinct",10,
-2,Morgan Dunn,U.S. House,03,R,Adams,"Dist. 2, Duncan Park Precinct",2,
-2,Michael Guest,U.S. House,03,R,Adams,"Dist. 2, Duncan Park Precinct",30,
-2,Whit Hughes,U.S. House,03,R,Adams,"Dist. 2, Duncan Park Precinct",90,
-2,Perry Parker,U.S. House,03,R,Adams,"Dist. 2, Duncan Park Precinct",18,
-2,Katherine 'Bitzi' Tate,U.S. House,03,R,Adams,"Dist. 2, Duncan Park Precinct",1,
-2,Sally Doty,U.S. House,03,R,Adams,"Dist. 2, Kingston Precinct",17,
-2,Morgan Dunn,U.S. House,03,R,Adams,"Dist. 2, Kingston Precinct",10,
-2,Michael Guest,U.S. House,03,R,Adams,"Dist. 2, Kingston Precinct",36,
-2,Whit Hughes,U.S. House,03,R,Adams,"Dist. 2, Kingston Precinct",45,
-2,Perry Parker,U.S. House,03,R,Adams,"Dist. 2, Kingston Precinct",29,
-2,Katherine 'Bitzi' Tate,U.S. House,03,R,Adams,"Dist. 2, Kingston Precinct",4,
-2,Sally Doty,U.S. House,03,R,Adams,"Dist. 2, Liberty Park Precinct",18,
-2,Morgan Dunn,U.S. House,03,R,Adams,"Dist. 2, Liberty Park Precinct",10,
-2,Michael Guest,U.S. House,03,R,Adams,"Dist. 2, Liberty Park Precinct",40,
-2,Whit Hughes,U.S. House,03,R,Adams,"Dist. 2, Liberty Park Precinct",83,
-2,Perry Parker,U.S. House,03,R,Adams,"Dist. 2, Liberty Park Precinct",36,
-2,Katherine 'Bitzi' Tate,U.S. House,03,R,Adams,"Dist. 2, Liberty Park Precinct",0,
-2,Sally Doty,U.S. House,03,R,Adams,"Dist. 3, Concord Precinct",0,
-2,Morgan Dunn,U.S. House,03,R,Adams,"Dist. 3, Concord Precinct",0,
-2,Michael Guest,U.S. House,03,R,Adams,"Dist. 3, Concord Precinct",3,
-2,Whit Hughes,U.S. House,03,R,Adams,"Dist. 3, Concord Precinct",5,
-2,Perry Parker,U.S. House,03,R,Adams,"Dist. 3, Concord Precinct",3,
-2,Katherine 'Bitzi' Tate,U.S. House,03,R,Adams,"Dist. 3, Concord Precinct",0,
-2,Sally Doty,U.S. House,03,R,Adams,"Dist. 3, Maryland Hgts. Precinct",0,
-2,Morgan Dunn,U.S. House,03,R,Adams,"Dist. 3, Maryland Hgts. Precinct",1,
-2,Michael Guest,U.S. House,03,R,Adams,"Dist. 3, Maryland Hgts. Precinct",1,
-2,Whit Hughes,U.S. House,03,R,Adams,"Dist. 3, Maryland Hgts. Precinct",2,
-2,Perry Parker,U.S. House,03,R,Adams,"Dist. 3, Maryland Hgts. Precinct",0,
-2,Katherine 'Bitzi' Tate,U.S. House,03,R,Adams,"Dist. 3, Maryland Hgts. Precinct",0,
-2,Sally Doty,U.S. House,03,R,Adams,"Dist. 3, Nps Multi Purpose Bldg.",5,
-2,Morgan Dunn,U.S. House,03,R,Adams,"Dist. 3, Nps Multi Purpose Bldg.",4,
-2,Michael Guest,U.S. House,03,R,Adams,"Dist. 3, Nps Multi Purpose Bldg.",13,
-2,Whit Hughes,U.S. House,03,R,Adams,"Dist. 3, Nps Multi Purpose Bldg.",14,
-2,Perry Parker,U.S. House,03,R,Adams,"Dist. 3, Nps Multi Purpose Bldg.",6,
-2,Katherine 'Bitzi' Tate,U.S. House,03,R,Adams,"Dist. 3, Nps Multi Purpose Bldg.",1,
-2,Sally Doty,U.S. House,03,R,Adams,"Dist. 3, Palestine Precinct",5,
-2,Morgan Dunn,U.S. House,03,R,Adams,"Dist. 3, Palestine Precinct",12,
-2,Michael Guest,U.S. House,03,R,Adams,"Dist. 3, Palestine Precinct",10,
-2,Whit Hughes,U.S. House,03,R,Adams,"Dist. 3, Palestine Precinct",25,
-2,Perry Parker,U.S. House,03,R,Adams,"Dist. 3, Palestine Precinct",10,
-2,Katherine 'Bitzi' Tate,U.S. House,03,R,Adams,"Dist. 3, Palestine Precinct",1,
-3,Sally Doty,U.S. House,03,R,Adams,"Dist. 4, Carpenter Precinct",9,
-3,Morgan Dunn,U.S. House,03,R,Adams,"Dist. 4, Carpenter Precinct",0,
-3,Michael Guest,U.S. House,03,R,Adams,"Dist. 4, Carpenter Precinct",8,
-3,Whit Hughes,U.S. House,03,R,Adams,"Dist. 4, Carpenter Precinct",23,
-3,Perry Parker,U.S. House,03,R,Adams,"Dist. 4, Carpenter Precinct",2,
-3,Katherine 'Bitzi' Tate,U.S. House,03,R,Adams,"Dist. 4, Carpenter Precinct",2,
-3,Sally Doty,U.S. House,03,R,Adams,"Dist. 4, Morgantown Precinct",7,
-3,Morgan Dunn,U.S. House,03,R,Adams,"Dist. 4, Morgantown Precinct",2,
-3,Michael Guest,U.S. House,03,R,Adams,"Dist. 4, Morgantown Precinct",15,
-3,Whit Hughes,U.S. House,03,R,Adams,"Dist. 4, Morgantown Precinct",7,
-3,Perry Parker,U.S. House,03,R,Adams,"Dist. 4, Morgantown Precinct",5,
-3,Katherine 'Bitzi' Tate,U.S. House,03,R,Adams,"Dist. 4, Morgantown Precinct",0,
-3,Sally Doty,U.S. House,03,R,Adams,"Dist. 4, Northside Precinct",3,
-3,Morgan Dunn,U.S. House,03,R,Adams,"Dist. 4, Northside Precinct",0,
-3,Michael Guest,U.S. House,03,R,Adams,"Dist. 4, Northside Precinct",9,
-3,Whit Hughes,U.S. House,03,R,Adams,"Dist. 4, Northside Precinct",3,
-3,Perry Parker,U.S. House,03,R,Adams,"Dist. 4, Northside Precinct",1,
-3,Katherine 'Bitzi' Tate,U.S. House,03,R,Adams,"Dist. 4, Northside Precinct",0,
-3,Sally Doty,U.S. House,03,R,Adams,"Dist. 4, Pine Ridge Precinct",1,
-3,Morgan Dunn,U.S. House,03,R,Adams,"Dist. 4, Pine Ridge Precinct",1,
-3,Michael Guest,U.S. House,03,R,Adams,"Dist. 4, Pine Ridge Precinct",7,
-3,Whit Hughes,U.S. House,03,R,Adams,"Dist. 4, Pine Ridge Precinct",12,
-3,Perry Parker,U.S. House,03,R,Adams,"Dist. 4, Pine Ridge Precinct",3,
-3,Katherine 'Bitzi' Tate,U.S. House,03,R,Adams,"Dist. 4, Pine Ridge Precinct",0,
-3,Sally Doty,U.S. House,03,R,Adams,"Dist. 5, Airport Precinct",7,
-3,Morgan Dunn,U.S. House,03,R,Adams,"Dist. 5, Airport Precinct",5,
-3,Michael Guest,U.S. House,03,R,Adams,"Dist. 5, Airport Precinct",22,
-3,Whit Hughes,U.S. House,03,R,Adams,"Dist. 5, Airport Precinct",8,
-3,Perry Parker,U.S. House,03,R,Adams,"Dist. 5, Airport Precinct",8,
-3,Katherine 'Bitzi' Tate,U.S. House,03,R,Adams,"Dist. 5, Airport Precinct",1,
-3,Sally Doty,U.S. House,03,R,Adams,"Dist. 5, Foster Mound Precinct",0,
-3,Morgan Dunn,U.S. House,03,R,Adams,"Dist. 5, Foster Mound Precinct",0,
-3,Michael Guest,U.S. House,03,R,Adams,"Dist. 5, Foster Mound Precinct",1,
-3,Whit Hughes,U.S. House,03,R,Adams,"Dist. 5, Foster Mound Precinct",10,
-3,Perry Parker,U.S. House,03,R,Adams,"Dist. 5, Foster Mound Precinct",1,
-3,Katherine 'Bitzi' Tate,U.S. House,03,R,Adams,"Dist. 5, Foster Mound Precinct",0,
-3,Sally Doty,U.S. House,03,R,Adams,"Dist. 5, Oakland Precinct",15,
-3,Morgan Dunn,U.S. House,03,R,Adams,"Dist. 5, Oakland Precinct",19,
-3,Michael Guest,U.S. House,03,R,Adams,"Dist. 5, Oakland Precinct",49,
-3,Whit Hughes,U.S. House,03,R,Adams,"Dist. 5, Oakland Precinct",48,
-3,Perry Parker,U.S. House,03,R,Adams,"Dist. 5, Oakland Precinct",31,
-3,Katherine 'Bitzi' Tate,U.S. House,03,R,Adams,"Dist. 5, Oakland Precinct",5,
-3,Sally Doty,U.S. House,03,R,Adams,"Dist. 5, Washington Precinct",10,
-3,Morgan Dunn,U.S. House,03,R,Adams,"Dist. 5, Washington Precinct",6,
-3,Michael Guest,U.S. House,03,R,Adams,"Dist. 5, Washington Precinct",25,
-3,Whit Hughes,U.S. House,03,R,Adams,"Dist. 5, Washington Precinct",27,
-3,Perry Parker,U.S. House,03,R,Adams,"Dist. 5, Washington Precinct",20,
-3,Katherine 'Bitzi' Tate,U.S. House,03,R,Adams,"Dist. 5, Washington Precinct",3,
-3,Sally Doty,U.S. House,03,R,Adams,TOTAL ,201,
-3,Morgan Dunn,U.S. House,03,R,Adams,TOTAL ,126,
-3,Michael Guest,U.S. House,03,R,Adams,TOTAL ,459,
-3,Whit Hughes,U.S. House,03,R,Adams,TOTAL ,810,
-3,Perry Parker,U.S. House,03,R,Adams,TOTAL ,305,
-3,Katherine 'Bitzi' Tate,U.S. House,03,R,Adams,TOTAL ,26,
-2,David Baria,U.S. Senate,,D,Adams,"Dist. 1, Bellemont Precinct",31,
-2,Jensen Bohren,U.S. Senate,,D,Adams,"Dist. 1, Bellemont Precinct",5,
-2,Jerone Garland,U.S. Senate,,D,Adams,"Dist. 1, Bellemont Precinct",4,
-2,Victor G. Maurice Jr.,U.S. Senate,,D,Adams,"Dist. 1, Bellemont Precinct",5,
-2,Omeria Scott,U.S. Senate,,D,Adams,"Dist. 1, Bellemont Precinct",53,
-2,Howard Sherman,U.S. Senate,,D,Adams,"Dist. 1, Bellemont Precinct",31,
-2,David Baria,U.S. Senate,,D,Adams,"Dist. 1, By-Pass Fire Precinct ",12,
-2,Jensen Bohren,U.S. Senate,,D,Adams,"Dist. 1, By-Pass Fire Precinct ",2,
-2,Jerone Garland,U.S. Senate,,D,Adams,"Dist. 1, By-Pass Fire Precinct ",4,
-2,Victor G. Maurice Jr.,U.S. Senate,,D,Adams,"Dist. 1, By-Pass Fire Precinct ",7,
-2,Omeria Scott,U.S. Senate,,D,Adams,"Dist. 1, By-Pass Fire Precinct ",75,
-2,Howard Sherman,U.S. Senate,,D,Adams,"Dist. 1, By-Pass Fire Precinct ",42,
-2,David Baria,U.S. Senate,,D,Adams,"Dist. 1, Courthouse Precinct",66,
-2,Jensen Bohren,U.S. Senate,,D,Adams,"Dist. 1, Courthouse Precinct",1,
-2,Jerone Garland,U.S. Senate,,D,Adams,"Dist. 1, Courthouse Precinct",1,
-2,Victor G. Maurice Jr.,U.S. Senate,,D,Adams,"Dist. 1, Courthouse Precinct",1,
-2,Omeria Scott,U.S. Senate,,D,Adams,"Dist. 1, Courthouse Precinct",6,
-2,Howard Sherman,U.S. Senate,,D,Adams,"Dist. 1, Courthouse Precinct",19,
-2,David Baria,U.S. Senate,,D,Adams,"Dist. 2, Beau Pre Precinct",16,
-2,Jensen Bohren,U.S. Senate,,D,Adams,"Dist. 2, Beau Pre Precinct",3,
-2,Jerone Garland,U.S. Senate,,D,Adams,"Dist. 2, Beau Pre Precinct",1,
-2,Victor G. Maurice Jr.,U.S. Senate,,D,Adams,"Dist. 2, Beau Pre Precinct",4,
-2,Omeria Scott,U.S. Senate,,D,Adams,"Dist. 2, Beau Pre Precinct",37,
-2,Howard Sherman,U.S. Senate,,D,Adams,"Dist. 2, Beau Pre Precinct",17,
-2,David Baria,U.S. Senate,,D,Adams,"Dist. 2, Duncan Park Precinct",12,
-2,Jensen Bohren,U.S. Senate,,D,Adams,"Dist. 2, Duncan Park Precinct",1,
-2,Jerone Garland,U.S. Senate,,D,Adams,"Dist. 2, Duncan Park Precinct",2,
-2,Victor G. Maurice Jr.,U.S. Senate,,D,Adams,"Dist. 2, Duncan Park Precinct",6,
-2,Omeria Scott,U.S. Senate,,D,Adams,"Dist. 2, Duncan Park Precinct",26,
-2,Howard Sherman,U.S. Senate,,D,Adams,"Dist. 2, Duncan Park Precinct",31,
-2,David Baria,U.S. Senate,,D,Adams,"Dist. 2, Kingston Precinct",5,
-2,Jensen Bohren,U.S. Senate,,D,Adams,"Dist. 2, Kingston Precinct",2,
-2,Jerone Garland,U.S. Senate,,D,Adams,"Dist. 2, Kingston Precinct",0,
-2,Victor G. Maurice Jr.,U.S. Senate,,D,Adams,"Dist. 2, Kingston Precinct",2,
-2,Omeria Scott,U.S. Senate,,D,Adams,"Dist. 2, Kingston Precinct",7,
-2,Howard Sherman,U.S. Senate,,D,Adams,"Dist. 2, Kingston Precinct",7,
-2,David Baria,U.S. Senate,,D,Adams,"Dist. 2, Liberty Park Precinct",23,
-2,Jensen Bohren,U.S. Senate,,D,Adams,"Dist. 2, Liberty Park Precinct",0,
-2,Jerone Garland,U.S. Senate,,D,Adams,"Dist. 2, Liberty Park Precinct",3,
-2,Victor G. Maurice Jr.,U.S. Senate,,D,Adams,"Dist. 2, Liberty Park Precinct",2,
-2,Omeria Scott,U.S. Senate,,D,Adams,"Dist. 2, Liberty Park Precinct",17,
-2,Howard Sherman,U.S. Senate,,D,Adams,"Dist. 2, Liberty Park Precinct",13,
-2,David Baria,U.S. Senate,,D,Adams,"Dist. 3, Concord Precinct",15,
-2,Jensen Bohren,U.S. Senate,,D,Adams,"Dist. 3, Concord Precinct",0,
-2,Jerone Garland,U.S. Senate,,D,Adams,"Dist. 3, Concord Precinct",4,
-2,Victor G. Maurice Jr.,U.S. Senate,,D,Adams,"Dist. 3, Concord Precinct",8,
-2,Omeria Scott,U.S. Senate,,D,Adams,"Dist. 3, Concord Precinct",97,
-2,Howard Sherman,U.S. Senate,,D,Adams,"Dist. 3, Concord Precinct",18,
-2,David Baria,U.S. Senate,,D,Adams,"Dist. 3, Maryland Hgts. Precinct",7,
-2,Jensen Bohren,U.S. Senate,,D,Adams,"Dist. 3, Maryland Hgts. Precinct",0,
-2,Jerone Garland,U.S. Senate,,D,Adams,"Dist. 3, Maryland Hgts. Precinct",2,
-2,Victor G. Maurice Jr.,U.S. Senate,,D,Adams,"Dist. 3, Maryland Hgts. Precinct",7,
-2,Omeria Scott,U.S. Senate,,D,Adams,"Dist. 3, Maryland Hgts. Precinct",59,
-2,Howard Sherman,U.S. Senate,,D,Adams,"Dist. 3, Maryland Hgts. Precinct",46,
-2,David Baria,U.S. Senate,,D,Adams,"Dist. 3, Nps Multi Purpose Bldg.",13,
-2,Jensen Bohren,U.S. Senate,,D,Adams,"Dist. 3, Nps Multi Purpose Bldg.",2,
-2,Jerone Garland,U.S. Senate,,D,Adams,"Dist. 3, Nps Multi Purpose Bldg.",2,
-2,Victor G. Maurice Jr.,U.S. Senate,,D,Adams,"Dist. 3, Nps Multi Purpose Bldg.",3,
-2,Omeria Scott,U.S. Senate,,D,Adams,"Dist. 3, Nps Multi Purpose Bldg.",23,
-2,Howard Sherman,U.S. Senate,,D,Adams,"Dist. 3, Nps Multi Purpose Bldg.",11,
-2,David Baria,U.S. Senate,,D,Adams,"Dist. 3, Palestine Precinct",15,
-2,Jensen Bohren,U.S. Senate,,D,Adams,"Dist. 3, Palestine Precinct",8,
-2,Jerone Garland,U.S. Senate,,D,Adams,"Dist. 3, Palestine Precinct",9,
-2,Victor G. Maurice Jr.,U.S. Senate,,D,Adams,"Dist. 3, Palestine Precinct",9,
-2,Omeria Scott,U.S. Senate,,D,Adams,"Dist. 3, Palestine Precinct",50,
-2,Howard Sherman,U.S. Senate,,D,Adams,"Dist. 3, Palestine Precinct",33,
-3,David Baria,U.S. Senate,,D,Adams,"Dist. 4, Carpenter Precinct",19,
-3,Jensen Bohren,U.S. Senate,,D,Adams,"Dist. 4, Carpenter Precinct",3,
-3,Jerone Garland,U.S. Senate,,D,Adams,"Dist. 4, Carpenter Precinct",5,
-3,Victor G. Maurice Jr.,U.S. Senate,,D,Adams,"Dist. 4, Carpenter Precinct",4,
-3,Omeria Scott,U.S. Senate,,D,Adams,"Dist. 4, Carpenter Precinct",48,
-3,Howard Sherman,U.S. Senate,,D,Adams,"Dist. 4, Carpenter Precinct",14,
-3,David Baria,U.S. Senate,,D,Adams,"Dist. 4, Morgantown Precinct",12,
-3,Jensen Bohren,U.S. Senate,,D,Adams,"Dist. 4, Morgantown Precinct",1,
-3,Jerone Garland,U.S. Senate,,D,Adams,"Dist. 4, Morgantown Precinct",6,
-3,Victor G. Maurice Jr.,U.S. Senate,,D,Adams,"Dist. 4, Morgantown Precinct",2,
-3,Omeria Scott,U.S. Senate,,D,Adams,"Dist. 4, Morgantown Precinct",27,
-3,Howard Sherman,U.S. Senate,,D,Adams,"Dist. 4, Morgantown Precinct",29,
-3,David Baria,U.S. Senate,,D,Adams,"Dist. 4, Northside Precinct",28,
-3,Jensen Bohren,U.S. Senate,,D,Adams,"Dist. 4, Northside Precinct",6,
-3,Jerone Garland,U.S. Senate,,D,Adams,"Dist. 4, Northside Precinct",17,
-3,Victor G. Maurice Jr.,U.S. Senate,,D,Adams,"Dist. 4, Northside Precinct",19,
-3,Omeria Scott,U.S. Senate,,D,Adams,"Dist. 4, Northside Precinct",175,
-3,Howard Sherman,U.S. Senate,,D,Adams,"Dist. 4, Northside Precinct",59,
-3,David Baria,U.S. Senate,,D,Adams,"Dist. 4, Pine Ridge Precinct",13,
-3,Jensen Bohren,U.S. Senate,,D,Adams,"Dist. 4, Pine Ridge Precinct",3,
-3,Jerone Garland,U.S. Senate,,D,Adams,"Dist. 4, Pine Ridge Precinct",3,
-3,Victor G. Maurice Jr.,U.S. Senate,,D,Adams,"Dist. 4, Pine Ridge Precinct",5,
-3,Omeria Scott,U.S. Senate,,D,Adams,"Dist. 4, Pine Ridge Precinct",60,
-3,Howard Sherman,U.S. Senate,,D,Adams,"Dist. 4, Pine Ridge Precinct",27,
-3,David Baria,U.S. Senate,,D,Adams,"Dist. 5, Airport Precinct",16,
-3,Jensen Bohren,U.S. Senate,,D,Adams,"Dist. 5, Airport Precinct",3,
-3,Jerone Garland,U.S. Senate,,D,Adams,"Dist. 5, Airport Precinct",3,
-3,Victor G. Maurice Jr.,U.S. Senate,,D,Adams,"Dist. 5, Airport Precinct",4,
-3,Omeria Scott,U.S. Senate,,D,Adams,"Dist. 5, Airport Precinct",47,
-3,Howard Sherman,U.S. Senate,,D,Adams,"Dist. 5, Airport Precinct",45,
-3,David Baria,U.S. Senate,,D,Adams,"Dist. 5, Foster Mound Precinct",23,
-3,Jensen Bohren,U.S. Senate,,D,Adams,"Dist. 5, Foster Mound Precinct",5,
-3,Jerone Garland,U.S. Senate,,D,Adams,"Dist. 5, Foster Mound Precinct",6,
-3,Victor G. Maurice Jr.,U.S. Senate,,D,Adams,"Dist. 5, Foster Mound Precinct",13,
-3,Omeria Scott,U.S. Senate,,D,Adams,"Dist. 5, Foster Mound Precinct",102,
-3,Howard Sherman,U.S. Senate,,D,Adams,"Dist. 5, Foster Mound Precinct",64,
-3,David Baria,U.S. Senate,,D,Adams,"Dist. 5, Oakland Precinct",22,
-3,Jensen Bohren,U.S. Senate,,D,Adams,"Dist. 5, Oakland Precinct",7,
-3,Jerone Garland,U.S. Senate,,D,Adams,"Dist. 5, Oakland Precinct",10,
-3,Victor G. Maurice Jr.,U.S. Senate,,D,Adams,"Dist. 5, Oakland Precinct",13,
-3,Omeria Scott,U.S. Senate,,D,Adams,"Dist. 5, Oakland Precinct",45,
-3,Howard Sherman,U.S. Senate,,D,Adams,"Dist. 5, Oakland Precinct",35,
-3,David Baria,U.S. Senate,,D,Adams,"Dist. 5, Washington Precinct",6,
-3,Jensen Bohren,U.S. Senate,,D,Adams,"Dist. 5, Washington Precinct",1,
-3,Jerone Garland,U.S. Senate,,D,Adams,"Dist. 5, Washington Precinct",3,
-3,Victor G. Maurice Jr.,U.S. Senate,,D,Adams,"Dist. 5, Washington Precinct",2,
-3,Omeria Scott,U.S. Senate,,D,Adams,"Dist. 5, Washington Precinct",16,
-3,Howard Sherman,U.S. Senate,,D,Adams,"Dist. 5, Washington Precinct",13,
-3,David Baria,U.S. Senate,,D,Adams,TOTAL ,354,
-3,Jensen Bohren,U.S. Senate,,D,Adams,TOTAL ,53,
-3,Jerone Garland,U.S. Senate,,D,Adams,TOTAL ,85,
-3,Victor G. Maurice Jr.,U.S. Senate,,D,Adams,TOTAL ,116,
-3,Omeria Scott,U.S. Senate,,D,Adams,TOTAL ,970,
-3,Howard Sherman,U.S. Senate,,D,Adams,TOTAL ,554,
-2,Michael Aycox,U.S. House,03,D,Adams,"Dist. 1, Bellemont Precinct",46,
-2,Michael Ted Evans,U.S. House,03,D,Adams,"Dist. 1, Bellemont Precinct",78,
-2,Michael Aycox,U.S. House,03,D,Adams,"Dist. 1, By-Pass Fire Precinct ",27,
-2,Michael Ted Evans,U.S. House,03,D,Adams,"Dist. 1, By-Pass Fire Precinct ",102,
-2,Michael Aycox,U.S. House,03,D,Adams,"Dist. 1, Courthouse Precinct",62,
-2,Michael Ted Evans,U.S. House,03,D,Adams,"Dist. 1, Courthouse Precinct",25,
-2,Michael Aycox,U.S. House,03,D,Adams,"Dist. 2, Beau Pre Precinct",12,
-2,Michael Ted Evans,U.S. House,03,D,Adams,"Dist. 2, Beau Pre Precinct",58,
-2,Michael Aycox,U.S. House,03,D,Adams,"Dist. 2, Duncan Park Precinct",27,
-2,Michael Ted Evans,U.S. House,03,D,Adams,"Dist. 2, Duncan Park Precinct",51,
-2,Michael Aycox,U.S. House,03,D,Adams,"Dist. 2, Kingston Precinct",7,
-2,Michael Ted Evans,U.S. House,03,D,Adams,"Dist. 2, Kingston Precinct",15,
-2,Michael Aycox,U.S. House,03,D,Adams,"Dist. 2, Liberty Park Precinct",15,
-2,Michael Ted Evans,U.S. House,03,D,Adams,"Dist. 2, Liberty Park Precinct",36,
-2,Michael Aycox,U.S. House,03,D,Adams,"Dist. 3, Concord Precinct",21,
-2,Michael Ted Evans,U.S. House,03,D,Adams,"Dist. 3, Concord Precinct",112,
-2,Michael Aycox,U.S. House,03,D,Adams,"Dist. 3, Maryland Hgts. Precinct",28,
-2,Michael Ted Evans,U.S. House,03,D,Adams,"Dist. 3, Maryland Hgts. Precinct",87,
-2,Michael Aycox,U.S. House,03,D,Adams,"Dist. 3, Nps Multi Purpose Bldg.",8,
-2,Michael Ted Evans,U.S. House,03,D,Adams,"Dist. 3, Nps Multi Purpose Bldg.",43,
-2,Michael Aycox,U.S. House,03,D,Adams,"Dist. 3, Palestine Precinct",22,
-2,Michael Ted Evans,U.S. House,03,D,Adams,"Dist. 3, Palestine Precinct",96,
-3,Michael Aycox,U.S. House,03,D,Adams,"Dist. 4, Carpenter Precinct",27,
-3,Michael Ted Evans,U.S. House,03,D,Adams,"Dist. 4, Carpenter Precinct",63,
-3,Michael Aycox,U.S. House,03,D,Adams,"Dist. 4, Morgantown Precinct",15,
-3,Michael Ted Evans,U.S. House,03,D,Adams,"Dist. 4, Morgantown Precinct",61,
-3,Michael Aycox,U.S. House,03,D,Adams,"Dist. 4, Northside Precinct",35,
-3,Michael Ted Evans,U.S. House,03,D,Adams,"Dist. 4, Northside Precinct",260,
-3,Michael Aycox,U.S. House,03,D,Adams,"Dist. 4, Pine Ridge Precinct",28,
-3,Michael Ted Evans,U.S. House,03,D,Adams,"Dist. 4, Pine Ridge Precinct",72,
-3,Michael Aycox,U.S. House,03,D,Adams,"Dist. 5, Airport Precinct",19,
-3,Michael Ted Evans,U.S. House,03,D,Adams,"Dist. 5, Airport Precinct",87,
-3,Michael Aycox,U.S. House,03,D,Adams,"Dist. 5, Foster Mound Precinct",37,
-3,Michael Ted Evans,U.S. House,03,D,Adams,"Dist. 5, Foster Mound Precinct",159,
-3,Michael Aycox,U.S. House,03,D,Adams,"Dist. 5, Oakland Precinct",33,
-3,Michael Ted Evans,U.S. House,03,D,Adams,"Dist. 5, Oakland Precinct",88,
-3,Michael Aycox,U.S. House,03,D,Adams,"Dist. 5, Washington Precinct",4,
-3,Michael Ted Evans,U.S. House,03,D,Adams,"Dist. 5, Washington Precinct",35,
-3,Michael Aycox,U.S. House,03,D,Adams,TOTAL ,473,
-3,Michael Ted Evans,U.S. House,03,D,Adams,TOTAL ,1528,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
+county,precinct,office,district,party,candidate,votes
+Adams,"Dist. 1, Bellemont",U.S. House,3,DEM,Michael Aycox,46
+Adams,"Dist. 1, Bellemont",U.S. House,3,DEM,Michael Ted Evans,78
+Adams,"Dist. 1, Bellemont",U.S. House,3,REP,Katherine 'Bitzi' Tate,7
+Adams,"Dist. 1, Bellemont",U.S. House,3,REP,Michael Guest,101
+Adams,"Dist. 1, Bellemont",U.S. House,3,REP,Morgan Dunn,24
+Adams,"Dist. 1, Bellemont",U.S. House,3,REP,Perry Parker,75
+Adams,"Dist. 1, Bellemont",U.S. House,3,REP,Sally Doty,44
+Adams,"Dist. 1, Bellemont",U.S. House,3,REP,Whit Hughes,241
+Adams,"Dist. 1, Bellemont",U.S. Senate,,DEM,David Baria,31
+Adams,"Dist. 1, Bellemont",U.S. Senate,,DEM,Howard Sherman,31
+Adams,"Dist. 1, Bellemont",U.S. Senate,,DEM,Jensen Bohren,5
+Adams,"Dist. 1, Bellemont",U.S. Senate,,DEM,Jerone Garland,4
+Adams,"Dist. 1, Bellemont",U.S. Senate,,DEM,Omeria Scott,53
+Adams,"Dist. 1, Bellemont",U.S. Senate,,DEM,Victor G. Maurice Jr.,5
+Adams,"Dist. 1, Bellemont",U.S. Senate,,REP,Richard Warren Boyanton,87
+Adams,"Dist. 1, Bellemont",U.S. Senate,,REP,Roger F. Wicker,409
+Adams,"Dist. 1, By-Pass Fire",U.S. House,3,DEM,Michael Aycox,27
+Adams,"Dist. 1, By-Pass Fire",U.S. House,3,DEM,Michael Ted Evans,102
+Adams,"Dist. 1, By-Pass Fire",U.S. House,3,REP,Katherine 'Bitzi' Tate,0
+Adams,"Dist. 1, By-Pass Fire",U.S. House,3,REP,Michael Guest,17
+Adams,"Dist. 1, By-Pass Fire",U.S. House,3,REP,Morgan Dunn,11
+Adams,"Dist. 1, By-Pass Fire",U.S. House,3,REP,Perry Parker,7
+Adams,"Dist. 1, By-Pass Fire",U.S. House,3,REP,Sally Doty,10
+Adams,"Dist. 1, By-Pass Fire",U.S. House,3,REP,Whit Hughes,18
+Adams,"Dist. 1, By-Pass Fire",U.S. Senate,,DEM,David Baria,12
+Adams,"Dist. 1, By-Pass Fire",U.S. Senate,,DEM,Howard Sherman,42
+Adams,"Dist. 1, By-Pass Fire",U.S. Senate,,DEM,Jensen Bohren,2
+Adams,"Dist. 1, By-Pass Fire",U.S. Senate,,DEM,Jerone Garland,4
+Adams,"Dist. 1, By-Pass Fire",U.S. Senate,,DEM,Omeria Scott,75
+Adams,"Dist. 1, By-Pass Fire",U.S. Senate,,DEM,Victor G. Maurice Jr.,7
+Adams,"Dist. 1, By-Pass Fire",U.S. Senate,,REP,Richard Warren Boyanton,12
+Adams,"Dist. 1, By-Pass Fire",U.S. Senate,,REP,Roger F. Wicker,51
+Adams,"Dist. 1, Courthouse",U.S. House,3,DEM,Michael Aycox,62
+Adams,"Dist. 1, Courthouse",U.S. House,3,DEM,Michael Ted Evans,25
+Adams,"Dist. 1, Courthouse",U.S. House,3,REP,Katherine 'Bitzi' Tate,0
+Adams,"Dist. 1, Courthouse",U.S. House,3,REP,Michael Guest,33
+Adams,"Dist. 1, Courthouse",U.S. House,3,REP,Morgan Dunn,6
+Adams,"Dist. 1, Courthouse",U.S. House,3,REP,Perry Parker,24
+Adams,"Dist. 1, Courthouse",U.S. House,3,REP,Sally Doty,21
+Adams,"Dist. 1, Courthouse",U.S. House,3,REP,Whit Hughes,83
+Adams,"Dist. 1, Courthouse",U.S. Senate,,DEM,David Baria,66
+Adams,"Dist. 1, Courthouse",U.S. Senate,,DEM,Howard Sherman,19
+Adams,"Dist. 1, Courthouse",U.S. Senate,,DEM,Jensen Bohren,1
+Adams,"Dist. 1, Courthouse",U.S. Senate,,DEM,Jerone Garland,1
+Adams,"Dist. 1, Courthouse",U.S. Senate,,DEM,Omeria Scott,6
+Adams,"Dist. 1, Courthouse",U.S. Senate,,DEM,Victor G. Maurice Jr.,1
+Adams,"Dist. 1, Courthouse",U.S. Senate,,REP,Richard Warren Boyanton,14
+Adams,"Dist. 1, Courthouse",U.S. Senate,,REP,Roger F. Wicker,155
+Adams,"Dist. 2, Beau Pre",U.S. House,3,DEM,Michael Aycox,12
+Adams,"Dist. 2, Beau Pre",U.S. House,3,DEM,Michael Ted Evans,58
+Adams,"Dist. 2, Beau Pre",U.S. House,3,REP,Katherine 'Bitzi' Tate,1
+Adams,"Dist. 2, Beau Pre",U.S. House,3,REP,Michael Guest,39
+Adams,"Dist. 2, Beau Pre",U.S. House,3,REP,Morgan Dunn,13
+Adams,"Dist. 2, Beau Pre",U.S. House,3,REP,Perry Parker,26
+Adams,"Dist. 2, Beau Pre",U.S. House,3,REP,Sally Doty,19
+Adams,"Dist. 2, Beau Pre",U.S. House,3,REP,Whit Hughes,66
+Adams,"Dist. 2, Beau Pre",U.S. Senate,,DEM,David Baria,16
+Adams,"Dist. 2, Beau Pre",U.S. Senate,,DEM,Howard Sherman,17
+Adams,"Dist. 2, Beau Pre",U.S. Senate,,DEM,Jensen Bohren,3
+Adams,"Dist. 2, Beau Pre",U.S. Senate,,DEM,Jerone Garland,1
+Adams,"Dist. 2, Beau Pre",U.S. Senate,,DEM,Omeria Scott,37
+Adams,"Dist. 2, Beau Pre",U.S. Senate,,DEM,Victor G. Maurice Jr.,4
+Adams,"Dist. 2, Beau Pre",U.S. Senate,,REP,Richard Warren Boyanton,34
+Adams,"Dist. 2, Beau Pre",U.S. Senate,,REP,Roger F. Wicker,129
+Adams,"Dist. 2, Duncan Park",U.S. House,3,DEM,Michael Aycox,27
+Adams,"Dist. 2, Duncan Park",U.S. House,3,DEM,Michael Ted Evans,51
+Adams,"Dist. 2, Duncan Park",U.S. House,3,REP,Katherine 'Bitzi' Tate,1
+Adams,"Dist. 2, Duncan Park",U.S. House,3,REP,Michael Guest,30
+Adams,"Dist. 2, Duncan Park",U.S. House,3,REP,Morgan Dunn,2
+Adams,"Dist. 2, Duncan Park",U.S. House,3,REP,Perry Parker,18
+Adams,"Dist. 2, Duncan Park",U.S. House,3,REP,Sally Doty,10
+Adams,"Dist. 2, Duncan Park",U.S. House,3,REP,Whit Hughes,90
+Adams,"Dist. 2, Duncan Park",U.S. Senate,,DEM,David Baria,12
+Adams,"Dist. 2, Duncan Park",U.S. Senate,,DEM,Howard Sherman,31
+Adams,"Dist. 2, Duncan Park",U.S. Senate,,DEM,Jensen Bohren,1
+Adams,"Dist. 2, Duncan Park",U.S. Senate,,DEM,Jerone Garland,2
+Adams,"Dist. 2, Duncan Park",U.S. Senate,,DEM,Omeria Scott,26
+Adams,"Dist. 2, Duncan Park",U.S. Senate,,DEM,Victor G. Maurice Jr.,6
+Adams,"Dist. 2, Duncan Park",U.S. Senate,,REP,Richard Warren Boyanton,18
+Adams,"Dist. 2, Duncan Park",U.S. Senate,,REP,Roger F. Wicker,135
+Adams,"Dist. 2, Kingston",U.S. House,3,DEM,Michael Aycox,7
+Adams,"Dist. 2, Kingston",U.S. House,3,DEM,Michael Ted Evans,15
+Adams,"Dist. 2, Kingston",U.S. House,3,REP,Katherine 'Bitzi' Tate,4
+Adams,"Dist. 2, Kingston",U.S. House,3,REP,Michael Guest,36
+Adams,"Dist. 2, Kingston",U.S. House,3,REP,Morgan Dunn,10
+Adams,"Dist. 2, Kingston",U.S. House,3,REP,Perry Parker,29
+Adams,"Dist. 2, Kingston",U.S. House,3,REP,Sally Doty,17
+Adams,"Dist. 2, Kingston",U.S. House,3,REP,Whit Hughes,45
+Adams,"Dist. 2, Kingston",U.S. Senate,,DEM,David Baria,5
+Adams,"Dist. 2, Kingston",U.S. Senate,,DEM,Howard Sherman,7
+Adams,"Dist. 2, Kingston",U.S. Senate,,DEM,Jensen Bohren,2
+Adams,"Dist. 2, Kingston",U.S. Senate,,DEM,Jerone Garland,0
+Adams,"Dist. 2, Kingston",U.S. Senate,,DEM,Omeria Scott,7
+Adams,"Dist. 2, Kingston",U.S. Senate,,DEM,Victor G. Maurice Jr.,2
+Adams,"Dist. 2, Kingston",U.S. Senate,,REP,Richard Warren Boyanton,36
+Adams,"Dist. 2, Kingston",U.S. Senate,,REP,Roger F. Wicker,104
+Adams,"Dist. 2, Liberty Park",U.S. House,3,DEM,Michael Aycox,15
+Adams,"Dist. 2, Liberty Park",U.S. House,3,DEM,Michael Ted Evans,36
+Adams,"Dist. 2, Liberty Park",U.S. House,3,REP,Katherine 'Bitzi' Tate,0
+Adams,"Dist. 2, Liberty Park",U.S. House,3,REP,Michael Guest,40
+Adams,"Dist. 2, Liberty Park",U.S. House,3,REP,Morgan Dunn,10
+Adams,"Dist. 2, Liberty Park",U.S. House,3,REP,Perry Parker,36
+Adams,"Dist. 2, Liberty Park",U.S. House,3,REP,Sally Doty,18
+Adams,"Dist. 2, Liberty Park",U.S. House,3,REP,Whit Hughes,83
+Adams,"Dist. 2, Liberty Park",U.S. Senate,,DEM,David Baria,23
+Adams,"Dist. 2, Liberty Park",U.S. Senate,,DEM,Howard Sherman,13
+Adams,"Dist. 2, Liberty Park",U.S. Senate,,DEM,Jensen Bohren,0
+Adams,"Dist. 2, Liberty Park",U.S. Senate,,DEM,Jerone Garland,3
+Adams,"Dist. 2, Liberty Park",U.S. Senate,,DEM,Omeria Scott,17
+Adams,"Dist. 2, Liberty Park",U.S. Senate,,DEM,Victor G. Maurice Jr.,2
+Adams,"Dist. 2, Liberty Park",U.S. Senate,,REP,Richard Warren Boyanton,25
+Adams,"Dist. 2, Liberty Park",U.S. Senate,,REP,Roger F. Wicker,157
+Adams,"Dist. 3, Concord",U.S. House,3,DEM,Michael Aycox,21
+Adams,"Dist. 3, Concord",U.S. House,3,DEM,Michael Ted Evans,112
+Adams,"Dist. 3, Concord",U.S. House,3,REP,Katherine 'Bitzi' Tate,0
+Adams,"Dist. 3, Concord",U.S. House,3,REP,Michael Guest,3
+Adams,"Dist. 3, Concord",U.S. House,3,REP,Morgan Dunn,0
+Adams,"Dist. 3, Concord",U.S. House,3,REP,Perry Parker,3
+Adams,"Dist. 3, Concord",U.S. House,3,REP,Sally Doty,0
+Adams,"Dist. 3, Concord",U.S. House,3,REP,Whit Hughes,5
+Adams,"Dist. 3, Concord",U.S. Senate,,DEM,David Baria,15
+Adams,"Dist. 3, Concord",U.S. Senate,,DEM,Howard Sherman,18
+Adams,"Dist. 3, Concord",U.S. Senate,,DEM,Jensen Bohren,0
+Adams,"Dist. 3, Concord",U.S. Senate,,DEM,Jerone Garland,4
+Adams,"Dist. 3, Concord",U.S. Senate,,DEM,Omeria Scott,97
+Adams,"Dist. 3, Concord",U.S. Senate,,DEM,Victor G. Maurice Jr.,8
+Adams,"Dist. 3, Concord",U.S. Senate,,REP,Richard Warren Boyanton,6
+Adams,"Dist. 3, Concord",U.S. Senate,,REP,Roger F. Wicker,5
+Adams,"Dist. 3, Maryland Hgts.",U.S. House,3,DEM,Michael Aycox,28
+Adams,"Dist. 3, Maryland Hgts.",U.S. House,3,DEM,Michael Ted Evans,87
+Adams,"Dist. 3, Maryland Hgts.",U.S. House,3,REP,Katherine 'Bitzi' Tate,0
+Adams,"Dist. 3, Maryland Hgts.",U.S. House,3,REP,Michael Guest,1
+Adams,"Dist. 3, Maryland Hgts.",U.S. House,3,REP,Morgan Dunn,1
+Adams,"Dist. 3, Maryland Hgts.",U.S. House,3,REP,Perry Parker,0
+Adams,"Dist. 3, Maryland Hgts.",U.S. House,3,REP,Sally Doty,0
+Adams,"Dist. 3, Maryland Hgts.",U.S. House,3,REP,Whit Hughes,2
+Adams,"Dist. 3, Maryland Hgts.",U.S. Senate,,DEM,David Baria,7
+Adams,"Dist. 3, Maryland Hgts.",U.S. Senate,,DEM,Howard Sherman,46
+Adams,"Dist. 3, Maryland Hgts.",U.S. Senate,,DEM,Jensen Bohren,0
+Adams,"Dist. 3, Maryland Hgts.",U.S. Senate,,DEM,Jerone Garland,2
+Adams,"Dist. 3, Maryland Hgts.",U.S. Senate,,DEM,Omeria Scott,59
+Adams,"Dist. 3, Maryland Hgts.",U.S. Senate,,DEM,Victor G. Maurice Jr.,7
+Adams,"Dist. 3, Maryland Hgts.",U.S. Senate,,REP,Richard Warren Boyanton,0
+Adams,"Dist. 3, Maryland Hgts.",U.S. Senate,,REP,Roger F. Wicker,3
+Adams,"Dist. 3, Nps Multi Purpose Bldg.",U.S. House,3,DEM,Michael Aycox,8
+Adams,"Dist. 3, Nps Multi Purpose Bldg.",U.S. House,3,DEM,Michael Ted Evans,43
+Adams,"Dist. 3, Nps Multi Purpose Bldg.",U.S. House,3,REP,Katherine 'Bitzi' Tate,1
+Adams,"Dist. 3, Nps Multi Purpose Bldg.",U.S. House,3,REP,Michael Guest,13
+Adams,"Dist. 3, Nps Multi Purpose Bldg.",U.S. House,3,REP,Morgan Dunn,4
+Adams,"Dist. 3, Nps Multi Purpose Bldg.",U.S. House,3,REP,Perry Parker,6
+Adams,"Dist. 3, Nps Multi Purpose Bldg.",U.S. House,3,REP,Sally Doty,5
+Adams,"Dist. 3, Nps Multi Purpose Bldg.",U.S. House,3,REP,Whit Hughes,14
+Adams,"Dist. 3, Nps Multi Purpose Bldg.",U.S. Senate,,DEM,David Baria,13
+Adams,"Dist. 3, Nps Multi Purpose Bldg.",U.S. Senate,,DEM,Howard Sherman,11
+Adams,"Dist. 3, Nps Multi Purpose Bldg.",U.S. Senate,,DEM,Jensen Bohren,2
+Adams,"Dist. 3, Nps Multi Purpose Bldg.",U.S. Senate,,DEM,Jerone Garland,2
+Adams,"Dist. 3, Nps Multi Purpose Bldg.",U.S. Senate,,DEM,Omeria Scott,23
+Adams,"Dist. 3, Nps Multi Purpose Bldg.",U.S. Senate,,DEM,Victor G. Maurice Jr.,3
+Adams,"Dist. 3, Nps Multi Purpose Bldg.",U.S. Senate,,REP,Richard Warren Boyanton,4
+Adams,"Dist. 3, Nps Multi Purpose Bldg.",U.S. Senate,,REP,Roger F. Wicker,41
+Adams,"Dist. 3, Palestine",U.S. House,3,DEM,Michael Aycox,22
+Adams,"Dist. 3, Palestine",U.S. House,3,DEM,Michael Ted Evans,96
+Adams,"Dist. 3, Palestine",U.S. House,3,REP,Katherine 'Bitzi' Tate,1
+Adams,"Dist. 3, Palestine",U.S. House,3,REP,Michael Guest,10
+Adams,"Dist. 3, Palestine",U.S. House,3,REP,Morgan Dunn,12
+Adams,"Dist. 3, Palestine",U.S. House,3,REP,Perry Parker,10
+Adams,"Dist. 3, Palestine",U.S. House,3,REP,Sally Doty,5
+Adams,"Dist. 3, Palestine",U.S. House,3,REP,Whit Hughes,25
+Adams,"Dist. 3, Palestine",U.S. Senate,,DEM,David Baria,15
+Adams,"Dist. 3, Palestine",U.S. Senate,,DEM,Howard Sherman,33
+Adams,"Dist. 3, Palestine",U.S. Senate,,DEM,Jensen Bohren,8
+Adams,"Dist. 3, Palestine",U.S. Senate,,DEM,Jerone Garland,9
+Adams,"Dist. 3, Palestine",U.S. Senate,,DEM,Omeria Scott,50
+Adams,"Dist. 3, Palestine",U.S. Senate,,DEM,Victor G. Maurice Jr.,9
+Adams,"Dist. 3, Palestine",U.S. Senate,,REP,Richard Warren Boyanton,9
+Adams,"Dist. 3, Palestine",U.S. Senate,,REP,Roger F. Wicker,55
+Adams,"Dist. 4, Carpenter",U.S. House,3,DEM,Michael Aycox,27
+Adams,"Dist. 4, Carpenter",U.S. House,3,DEM,Michael Ted Evans,63
+Adams,"Dist. 4, Carpenter",U.S. House,3,REP,Katherine 'Bitzi' Tate,2
+Adams,"Dist. 4, Carpenter",U.S. House,3,REP,Michael Guest,8
+Adams,"Dist. 4, Carpenter",U.S. House,3,REP,Morgan Dunn,0
+Adams,"Dist. 4, Carpenter",U.S. House,3,REP,Perry Parker,2
+Adams,"Dist. 4, Carpenter",U.S. House,3,REP,Sally Doty,9
+Adams,"Dist. 4, Carpenter",U.S. House,3,REP,Whit Hughes,23
+Adams,"Dist. 4, Carpenter",U.S. Senate,,DEM,David Baria,19
+Adams,"Dist. 4, Carpenter",U.S. Senate,,DEM,Howard Sherman,14
+Adams,"Dist. 4, Carpenter",U.S. Senate,,DEM,Jensen Bohren,3
+Adams,"Dist. 4, Carpenter",U.S. Senate,,DEM,Jerone Garland,5
+Adams,"Dist. 4, Carpenter",U.S. Senate,,DEM,Omeria Scott,48
+Adams,"Dist. 4, Carpenter",U.S. Senate,,DEM,Victor G. Maurice Jr.,4
+Adams,"Dist. 4, Carpenter",U.S. Senate,,REP,Richard Warren Boyanton,3
+Adams,"Dist. 4, Carpenter",U.S. Senate,,REP,Roger F. Wicker,41
+Adams,"Dist. 4, Morgantown",U.S. House,3,DEM,Michael Aycox,15
+Adams,"Dist. 4, Morgantown",U.S. House,3,DEM,Michael Ted Evans,61
+Adams,"Dist. 4, Morgantown",U.S. House,3,REP,Katherine 'Bitzi' Tate,0
+Adams,"Dist. 4, Morgantown",U.S. House,3,REP,Michael Guest,15
+Adams,"Dist. 4, Morgantown",U.S. House,3,REP,Morgan Dunn,2
+Adams,"Dist. 4, Morgantown",U.S. House,3,REP,Perry Parker,5
+Adams,"Dist. 4, Morgantown",U.S. House,3,REP,Sally Doty,7
+Adams,"Dist. 4, Morgantown",U.S. House,3,REP,Whit Hughes,7
+Adams,"Dist. 4, Morgantown",U.S. Senate,,DEM,David Baria,12
+Adams,"Dist. 4, Morgantown",U.S. Senate,,DEM,Howard Sherman,29
+Adams,"Dist. 4, Morgantown",U.S. Senate,,DEM,Jensen Bohren,1
+Adams,"Dist. 4, Morgantown",U.S. Senate,,DEM,Jerone Garland,6
+Adams,"Dist. 4, Morgantown",U.S. Senate,,DEM,Omeria Scott,27
+Adams,"Dist. 4, Morgantown",U.S. Senate,,DEM,Victor G. Maurice Jr.,2
+Adams,"Dist. 4, Morgantown",U.S. Senate,,REP,Richard Warren Boyanton,9
+Adams,"Dist. 4, Morgantown",U.S. Senate,,REP,Roger F. Wicker,29
+Adams,"Dist. 4, Northside",U.S. House,3,DEM,Michael Aycox,35
+Adams,"Dist. 4, Northside",U.S. House,3,DEM,Michael Ted Evans,260
+Adams,"Dist. 4, Northside",U.S. House,3,REP,Katherine 'Bitzi' Tate,0
+Adams,"Dist. 4, Northside",U.S. House,3,REP,Michael Guest,9
+Adams,"Dist. 4, Northside",U.S. House,3,REP,Morgan Dunn,0
+Adams,"Dist. 4, Northside",U.S. House,3,REP,Perry Parker,1
+Adams,"Dist. 4, Northside",U.S. House,3,REP,Sally Doty,3
+Adams,"Dist. 4, Northside",U.S. House,3,REP,Whit Hughes,3
+Adams,"Dist. 4, Northside",U.S. Senate,,DEM,David Baria,28
+Adams,"Dist. 4, Northside",U.S. Senate,,DEM,Howard Sherman,59
+Adams,"Dist. 4, Northside",U.S. Senate,,DEM,Jensen Bohren,6
+Adams,"Dist. 4, Northside",U.S. Senate,,DEM,Jerone Garland,17
+Adams,"Dist. 4, Northside",U.S. Senate,,DEM,Omeria Scott,175
+Adams,"Dist. 4, Northside",U.S. Senate,,DEM,Victor G. Maurice Jr.,19
+Adams,"Dist. 4, Northside",U.S. Senate,,REP,Richard Warren Boyanton,0
+Adams,"Dist. 4, Northside",U.S. Senate,,REP,Roger F. Wicker,16
+Adams,"Dist. 4, Pine Ridge",U.S. House,3,DEM,Michael Aycox,28
+Adams,"Dist. 4, Pine Ridge",U.S. House,3,DEM,Michael Ted Evans,72
+Adams,"Dist. 4, Pine Ridge",U.S. House,3,REP,Katherine 'Bitzi' Tate,0
+Adams,"Dist. 4, Pine Ridge",U.S. House,3,REP,Michael Guest,7
+Adams,"Dist. 4, Pine Ridge",U.S. House,3,REP,Morgan Dunn,1
+Adams,"Dist. 4, Pine Ridge",U.S. House,3,REP,Perry Parker,3
+Adams,"Dist. 4, Pine Ridge",U.S. House,3,REP,Sally Doty,1
+Adams,"Dist. 4, Pine Ridge",U.S. House,3,REP,Whit Hughes,12
+Adams,"Dist. 4, Pine Ridge",U.S. Senate,,DEM,David Baria,13
+Adams,"Dist. 4, Pine Ridge",U.S. Senate,,DEM,Howard Sherman,27
+Adams,"Dist. 4, Pine Ridge",U.S. Senate,,DEM,Jensen Bohren,3
+Adams,"Dist. 4, Pine Ridge",U.S. Senate,,DEM,Jerone Garland,3
+Adams,"Dist. 4, Pine Ridge",U.S. Senate,,DEM,Omeria Scott,60
+Adams,"Dist. 4, Pine Ridge",U.S. Senate,,DEM,Victor G. Maurice Jr.,5
+Adams,"Dist. 4, Pine Ridge",U.S. Senate,,REP,Richard Warren Boyanton,2
+Adams,"Dist. 4, Pine Ridge",U.S. Senate,,REP,Roger F. Wicker,22
+Adams,"Dist. 5, Airport",U.S. House,3,DEM,Michael Aycox,19
+Adams,"Dist. 5, Airport",U.S. House,3,DEM,Michael Ted Evans,87
+Adams,"Dist. 5, Airport",U.S. House,3,REP,Katherine 'Bitzi' Tate,1
+Adams,"Dist. 5, Airport",U.S. House,3,REP,Michael Guest,22
+Adams,"Dist. 5, Airport",U.S. House,3,REP,Morgan Dunn,5
+Adams,"Dist. 5, Airport",U.S. House,3,REP,Perry Parker,8
+Adams,"Dist. 5, Airport",U.S. House,3,REP,Sally Doty,7
+Adams,"Dist. 5, Airport",U.S. House,3,REP,Whit Hughes,8
+Adams,"Dist. 5, Airport",U.S. Senate,,DEM,David Baria,16
+Adams,"Dist. 5, Airport",U.S. Senate,,DEM,Howard Sherman,45
+Adams,"Dist. 5, Airport",U.S. Senate,,DEM,Jensen Bohren,3
+Adams,"Dist. 5, Airport",U.S. Senate,,DEM,Jerone Garland,3
+Adams,"Dist. 5, Airport",U.S. Senate,,DEM,Omeria Scott,47
+Adams,"Dist. 5, Airport",U.S. Senate,,DEM,Victor G. Maurice Jr.,4
+Adams,"Dist. 5, Airport",U.S. Senate,,REP,Richard Warren Boyanton,6
+Adams,"Dist. 5, Airport",U.S. Senate,,REP,Roger F. Wicker,46
+Adams,"Dist. 5, Foster Mound",U.S. House,3,DEM,Michael Aycox,37
+Adams,"Dist. 5, Foster Mound",U.S. House,3,DEM,Michael Ted Evans,159
+Adams,"Dist. 5, Foster Mound",U.S. House,3,REP,Katherine 'Bitzi' Tate,0
+Adams,"Dist. 5, Foster Mound",U.S. House,3,REP,Michael Guest,1
+Adams,"Dist. 5, Foster Mound",U.S. House,3,REP,Morgan Dunn,0
+Adams,"Dist. 5, Foster Mound",U.S. House,3,REP,Perry Parker,1
+Adams,"Dist. 5, Foster Mound",U.S. House,3,REP,Sally Doty,0
+Adams,"Dist. 5, Foster Mound",U.S. House,3,REP,Whit Hughes,10
+Adams,"Dist. 5, Foster Mound",U.S. Senate,,DEM,David Baria,23
+Adams,"Dist. 5, Foster Mound",U.S. Senate,,DEM,Howard Sherman,64
+Adams,"Dist. 5, Foster Mound",U.S. Senate,,DEM,Jensen Bohren,5
+Adams,"Dist. 5, Foster Mound",U.S. Senate,,DEM,Jerone Garland,6
+Adams,"Dist. 5, Foster Mound",U.S. Senate,,DEM,Omeria Scott,102
+Adams,"Dist. 5, Foster Mound",U.S. Senate,,DEM,Victor G. Maurice Jr.,13
+Adams,"Dist. 5, Foster Mound",U.S. Senate,,REP,Richard Warren Boyanton,0
+Adams,"Dist. 5, Foster Mound",U.S. Senate,,REP,Roger F. Wicker,12
+Adams,"Dist. 5, Oakland",U.S. House,3,DEM,Michael Aycox,33
+Adams,"Dist. 5, Oakland",U.S. House,3,DEM,Michael Ted Evans,88
+Adams,"Dist. 5, Oakland",U.S. House,3,REP,Katherine 'Bitzi' Tate,5
+Adams,"Dist. 5, Oakland",U.S. House,3,REP,Michael Guest,49
+Adams,"Dist. 5, Oakland",U.S. House,3,REP,Morgan Dunn,19
+Adams,"Dist. 5, Oakland",U.S. House,3,REP,Perry Parker,31
+Adams,"Dist. 5, Oakland",U.S. House,3,REP,Sally Doty,15
+Adams,"Dist. 5, Oakland",U.S. House,3,REP,Whit Hughes,48
+Adams,"Dist. 5, Oakland",U.S. Senate,,DEM,David Baria,22
+Adams,"Dist. 5, Oakland",U.S. Senate,,DEM,Howard Sherman,35
+Adams,"Dist. 5, Oakland",U.S. Senate,,DEM,Jensen Bohren,7
+Adams,"Dist. 5, Oakland",U.S. Senate,,DEM,Jerone Garland,10
+Adams,"Dist. 5, Oakland",U.S. Senate,,DEM,Omeria Scott,45
+Adams,"Dist. 5, Oakland",U.S. Senate,,DEM,Victor G. Maurice Jr.,13
+Adams,"Dist. 5, Oakland",U.S. Senate,,REP,Richard Warren Boyanton,28
+Adams,"Dist. 5, Oakland",U.S. Senate,,REP,Roger F. Wicker,146
+Adams,"Dist. 5, Washington",U.S. House,3,DEM,Michael Aycox,4
+Adams,"Dist. 5, Washington",U.S. House,3,DEM,Michael Ted Evans,35
+Adams,"Dist. 5, Washington",U.S. House,3,REP,Katherine 'Bitzi' Tate,3
+Adams,"Dist. 5, Washington",U.S. House,3,REP,Michael Guest,25
+Adams,"Dist. 5, Washington",U.S. House,3,REP,Morgan Dunn,6
+Adams,"Dist. 5, Washington",U.S. House,3,REP,Perry Parker,20
+Adams,"Dist. 5, Washington",U.S. House,3,REP,Sally Doty,10
+Adams,"Dist. 5, Washington",U.S. House,3,REP,Whit Hughes,27
+Adams,"Dist. 5, Washington",U.S. Senate,,DEM,David Baria,6
+Adams,"Dist. 5, Washington",U.S. Senate,,DEM,Howard Sherman,13
+Adams,"Dist. 5, Washington",U.S. Senate,,DEM,Jensen Bohren,1
+Adams,"Dist. 5, Washington",U.S. Senate,,DEM,Jerone Garland,3
+Adams,"Dist. 5, Washington",U.S. Senate,,DEM,Omeria Scott,16
+Adams,"Dist. 5, Washington",U.S. Senate,,DEM,Victor G. Maurice Jr.,2
+Adams,"Dist. 5, Washington",U.S. Senate,,REP,Richard Warren Boyanton,15
+Adams,"Dist. 5, Washington",U.S. Senate,,REP,Roger F. Wicker,78
+Adams,Total,U.S. House,3,DEM,Michael Aycox,473
+Adams,Total,U.S. House,3,DEM,Michael Ted Evans,1528
+Adams,Total,U.S. House,3,REP,Katherine 'Bitzi' Tate,26
+Adams,Total,U.S. House,3,REP,Michael Guest,459
+Adams,Total,U.S. House,3,REP,Morgan Dunn,126
+Adams,Total,U.S. House,3,REP,Perry Parker,305
+Adams,Total,U.S. House,3,REP,Sally Doty,201
+Adams,Total,U.S. House,3,REP,Whit Hughes,810
+Adams,Total,U.S. Senate,,DEM,David Baria,354
+Adams,Total,U.S. Senate,,DEM,Howard Sherman,554
+Adams,Total,U.S. Senate,,DEM,Jensen Bohren,53
+Adams,Total,U.S. Senate,,DEM,Jerone Garland,85
+Adams,Total,U.S. Senate,,DEM,Omeria Scott,970
+Adams,Total,U.S. Senate,,DEM,Victor G. Maurice Jr.,116
+Adams,Total,U.S. Senate,,REP,Richard Warren Boyanton,308
+Adams,Total,U.S. Senate,,REP,Roger F. Wicker,1634

@@ -1,663 +1,305 @@
-page,candidate,office,district,party,county,precinct,votes,winner
-2,Richard Warren Boyanton,U.S. Senate,,R,Smith,Ag-Complex,31,
-2,Roger F. Wicker,U.S. Senate,,R,Smith,Ag-Complex,102,
-2,Richard Warren Boyanton,U.S. Senate,,R,Smith,Burns,7,
-2,Roger F. Wicker,U.S. Senate,,R,Smith,Burns,66,
-2,Richard Warren Boyanton,U.S. Senate,,R,Smith,Cedar Grove,5,
-2,Roger F. Wicker,U.S. Senate,,R,Smith,Cedar Grove,17,
-2,Richard Warren Boyanton,U.S. Senate,,R,Smith,Center Ridge,28,
-2,Roger F. Wicker,U.S. Senate,,R,Smith,Center Ridge,55,
-2,Richard Warren Boyanton,U.S. Senate,,R,Smith,Clear Springs-Pineville,14,
-2,Roger F. Wicker,U.S. Senate,,R,Smith,Clear Springs-Pineville,67,
-2,Richard Warren Boyanton,U.S. Senate,,R,Smith,Lorena - Spinola,26,
-2,Roger F. Wicker,U.S. Senate,,R,Smith,Lorena - Spinola,67,
-2,Richard Warren Boyanton,U.S. Senate,,R,Smith,Mize,44,
-2,Roger F. Wicker,U.S. Senate,,R,Smith,Mize,97,
-2,Richard Warren Boyanton,U.S. Senate,,R,Smith,North Raleigh,15,
-2,Roger F. Wicker,U.S. Senate,,R,Smith,North Raleigh,96,
-2,Richard Warren Boyanton,U.S. Senate,,R,Smith,Polkville,23,
-2,Roger F. Wicker,U.S. Senate,,R,Smith,Polkville,122,
-2,Richard Warren Boyanton,U.S. Senate,,R,Smith,Shady Grove,13,
-2,Roger F. Wicker,U.S. Senate,,R,Smith,Shady Grove,66,
-2,Richard Warren Boyanton,U.S. Senate,,R,Smith,Summerland,17,
-2,Roger F. Wicker,U.S. Senate,,R,Smith,Summerland,65,
-3,Richard Warren Boyanton,U.S. Senate,,R,Smith,Sylvarena,15,
-3,Roger F. Wicker,U.S. Senate,,R,Smith,Sylvarena,43,
-3,Richard Warren Boyanton,U.S. Senate,,R,Smith,Taylorsville,55,
-3,Roger F. Wicker,U.S. Senate,,R,Smith,Taylorsville,151,
-3,Richard Warren Boyanton,U.S. Senate,,R,Smith,Union-New Home,22,
-3,Roger F. Wicker,U.S. Senate,,R,Smith,Union-New Home,72,
-3,Richard Warren Boyanton,U.S. Senate,,R,Smith,Warren Hill,1,
-3,Roger F. Wicker,U.S. Senate,,R,Smith,Warren Hill,0,
-3,Richard Warren Boyanton,U.S. Senate,,R,Smith,West Raleigh,17,
-3,Roger F. Wicker,U.S. Senate,,R,Smith,West Raleigh,49,
-3,Richard Warren Boyanton,U.S. Senate,,R,Smith,White Oak,23,
-3,Roger F. Wicker,U.S. Senate,,R,Smith,White Oak,73,
-3,Richard Warren Boyanton,U.S. Senate,,R,Smith,Zion Hill - New Haven,29,
-3,Roger F. Wicker,U.S. Senate,,R,Smith,Zion Hill - New Haven,98,
-3,Richard Warren Boyanton,U.S. Senate,,R,Smith,TOTAL ,385,
-3,Roger F. Wicker,U.S. Senate,,R,Smith,TOTAL ,1306,
-2,Sally Doty,U.S. House,03,R,Smith,Ag-Complex,11,
-2,Morgan Dunn,U.S. House,03,R,Smith,Ag-Complex,8,
-2,Michael Guest,U.S. House,03,R,Smith,Ag-Complex,60,
-2,Whit Hughes,U.S. House,03,R,Smith,Ag-Complex,14,
-2,Perry Parker,U.S. House,03,R,Smith,Ag-Complex,38,
-2,Katherine 'Bitzi' Tate,U.S. House,03,R,Smith,Ag-Complex,0,
-2,Sally Doty,U.S. House,03,R,Smith,Burns,1,
-2,Morgan Dunn,U.S. House,03,R,Smith,Burns,0,
-2,Michael Guest,U.S. House,03,R,Smith,Burns,42,
-2,Whit Hughes,U.S. House,03,R,Smith,Burns,14,
-2,Perry Parker,U.S. House,03,R,Smith,Burns,17,
-2,Katherine 'Bitzi' Tate,U.S. House,03,R,Smith,Burns,1,
-2,Sally Doty,U.S. House,03,R,Smith,Cedar Grove,0,
-2,Morgan Dunn,U.S. House,03,R,Smith,Cedar Grove,0,
-2,Michael Guest,U.S. House,03,R,Smith,Cedar Grove,9,
-2,Whit Hughes,U.S. House,03,R,Smith,Cedar Grove,2,
-2,Perry Parker,U.S. House,03,R,Smith,Cedar Grove,12,
-2,Katherine 'Bitzi' Tate,U.S. House,03,R,Smith,Cedar Grove,0,
-2,Sally Doty,U.S. House,03,R,Smith,Center Ridge,2,
-2,Morgan Dunn,U.S. House,03,R,Smith,Center Ridge,9,
-2,Michael Guest,U.S. House,03,R,Smith,Center Ridge,31,
-2,Whit Hughes,U.S. House,03,R,Smith,Center Ridge,7,
-2,Perry Parker,U.S. House,03,R,Smith,Center Ridge,33,
-2,Katherine 'Bitzi' Tate,U.S. House,03,R,Smith,Center Ridge,3,
-2,Sally Doty,U.S. House,03,R,Smith,Clear Springs-Pineville,3,
-2,Morgan Dunn,U.S. House,03,R,Smith,Clear Springs-Pineville,1,
-2,Michael Guest,U.S. House,03,R,Smith,Clear Springs-Pineville,25,
-2,Whit Hughes,U.S. House,03,R,Smith,Clear Springs-Pineville,14,
-2,Perry Parker,U.S. House,03,R,Smith,Clear Springs-Pineville,36,
-2,Katherine 'Bitzi' Tate,U.S. House,03,R,Smith,Clear Springs-Pineville,1,
-2,Sally Doty,U.S. House,03,R,Smith,Lorena - Spinola,6,
-2,Morgan Dunn,U.S. House,03,R,Smith,Lorena - Spinola,5,
-2,Michael Guest,U.S. House,03,R,Smith,Lorena - Spinola,40,
-2,Whit Hughes,U.S. House,03,R,Smith,Lorena - Spinola,13,
-2,Perry Parker,U.S. House,03,R,Smith,Lorena - Spinola,27,
-2,Katherine 'Bitzi' Tate,U.S. House,03,R,Smith,Lorena - Spinola,1,
-2,Sally Doty,U.S. House,03,R,Smith,Mize,5,
-2,Morgan Dunn,U.S. House,03,R,Smith,Mize,13,
-2,Michael Guest,U.S. House,03,R,Smith,Mize,35,
-2,Whit Hughes,U.S. House,03,R,Smith,Mize,13,
-2,Perry Parker,U.S. House,03,R,Smith,Mize,74,
-2,Katherine 'Bitzi' Tate,U.S. House,03,R,Smith,Mize,1,
-2,Sally Doty,U.S. House,03,R,Smith,North Raleigh,9,
-2,Morgan Dunn,U.S. House,03,R,Smith,North Raleigh,9,
-2,Michael Guest,U.S. House,03,R,Smith,North Raleigh,54,
-2,Whit Hughes,U.S. House,03,R,Smith,North Raleigh,19,
-2,Perry Parker,U.S. House,03,R,Smith,North Raleigh,20,
-2,Katherine 'Bitzi' Tate,U.S. House,03,R,Smith,North Raleigh,2,
-2,Sally Doty,U.S. House,03,R,Smith,Polkville,6,
-2,Morgan Dunn,U.S. House,03,R,Smith,Polkville,2,
-2,Michael Guest,U.S. House,03,R,Smith,Polkville,103,
-2,Whit Hughes,U.S. House,03,R,Smith,Polkville,8,
-2,Perry Parker,U.S. House,03,R,Smith,Polkville,27,
-2,Katherine 'Bitzi' Tate,U.S. House,03,R,Smith,Polkville,0,
-2,Sally Doty,U.S. House,03,R,Smith,Shady Grove,2,
-2,Morgan Dunn,U.S. House,03,R,Smith,Shady Grove,24,
-2,Michael Guest,U.S. House,03,R,Smith,Shady Grove,32,
-2,Whit Hughes,U.S. House,03,R,Smith,Shady Grove,3,
-2,Perry Parker,U.S. House,03,R,Smith,Shady Grove,18,
-2,Katherine 'Bitzi' Tate,U.S. House,03,R,Smith,Shady Grove,0,
-2,Sally Doty,U.S. House,03,R,Smith,Summerland,4,
-2,Morgan Dunn,U.S. House,03,R,Smith,Summerland,5,
-2,Michael Guest,U.S. House,03,R,Smith,Summerland,32,
-2,Whit Hughes,U.S. House,03,R,Smith,Summerland,14,
-2,Perry Parker,U.S. House,03,R,Smith,Summerland,30,
-2,Katherine 'Bitzi' Tate,U.S. House,03,R,Smith,Summerland,0,
-3,Sally Doty,U.S. House,03,R,Smith,Sylvarena,6,
-3,Morgan Dunn,U.S. House,03,R,Smith,Sylvarena,2,
-3,Michael Guest,U.S. House,03,R,Smith,Sylvarena,18,
-3,Whit Hughes,U.S. House,03,R,Smith,Sylvarena,6,
-3,Perry Parker,U.S. House,03,R,Smith,Sylvarena,28,
-3,Katherine 'Bitzi' Tate,U.S. House,03,R,Smith,Sylvarena,0,
-3,Sally Doty,U.S. House,03,R,Smith,Taylorsville,9,
-3,Morgan Dunn,U.S. House,03,R,Smith,Taylorsville,20,
-3,Michael Guest,U.S. House,03,R,Smith,Taylorsville,67,
-3,Whit Hughes,U.S. House,03,R,Smith,Taylorsville,38,
-3,Perry Parker,U.S. House,03,R,Smith,Taylorsville,75,
-3,Katherine 'Bitzi' Tate,U.S. House,03,R,Smith,Taylorsville,1,
-3,Sally Doty,U.S. House,03,R,Smith,Union-New Home,8,
-3,Morgan Dunn,U.S. House,03,R,Smith,Union-New Home,4,
-3,Michael Guest,U.S. House,03,R,Smith,Union-New Home,21,
-3,Whit Hughes,U.S. House,03,R,Smith,Union-New Home,4,
-3,Perry Parker,U.S. House,03,R,Smith,Union-New Home,56,
-3,Katherine 'Bitzi' Tate,U.S. House,03,R,Smith,Union-New Home,0,
-3,Sally Doty,U.S. House,03,R,Smith,Warren Hill,0,
-3,Morgan Dunn,U.S. House,03,R,Smith,Warren Hill,1,
-3,Michael Guest,U.S. House,03,R,Smith,Warren Hill,0,
-3,Whit Hughes,U.S. House,03,R,Smith,Warren Hill,0,
-3,Perry Parker,U.S. House,03,R,Smith,Warren Hill,0,
-3,Katherine 'Bitzi' Tate,U.S. House,03,R,Smith,Warren Hill,0,
-3,Sally Doty,U.S. House,03,R,Smith,West Raleigh,6,
-3,Morgan Dunn,U.S. House,03,R,Smith,West Raleigh,6,
-3,Michael Guest,U.S. House,03,R,Smith,West Raleigh,29,
-3,Whit Hughes,U.S. House,03,R,Smith,West Raleigh,11,
-3,Perry Parker,U.S. House,03,R,Smith,West Raleigh,18,
-3,Katherine 'Bitzi' Tate,U.S. House,03,R,Smith,West Raleigh,0,
-3,Sally Doty,U.S. House,03,R,Smith,White Oak,6,
-3,Morgan Dunn,U.S. House,03,R,Smith,White Oak,4,
-3,Michael Guest,U.S. House,03,R,Smith,White Oak,47,
-3,Whit Hughes,U.S. House,03,R,Smith,White Oak,14,
-3,Perry Parker,U.S. House,03,R,Smith,White Oak,22,
-3,Katherine 'Bitzi' Tate,U.S. House,03,R,Smith,White Oak,2,
-3,Sally Doty,U.S. House,03,R,Smith,Zion Hill - New Haven,8,
-3,Morgan Dunn,U.S. House,03,R,Smith,Zion Hill - New Haven,13,
-3,Michael Guest,U.S. House,03,R,Smith,Zion Hill - New Haven,42,
-3,Whit Hughes,U.S. House,03,R,Smith,Zion Hill - New Haven,10,
-3,Perry Parker,U.S. House,03,R,Smith,Zion Hill - New Haven,55,
-3,Katherine 'Bitzi' Tate,U.S. House,03,R,Smith,Zion Hill - New Haven,0,
-3,Sally Doty,U.S. House,03,R,Smith,TOTAL ,92,
-3,Morgan Dunn,U.S. House,03,R,Smith,TOTAL ,126,
-3,Michael Guest,U.S. House,03,R,Smith,TOTAL ,687,
-3,Whit Hughes,U.S. House,03,R,Smith,TOTAL ,204,
-3,Perry Parker,U.S. House,03,R,Smith,TOTAL ,586,
-3,Katherine 'Bitzi' Tate,U.S. House,03,R,Smith,TOTAL ,12,
-2,David Baria,U.S. Senate,,D,Smith,Ag-Complex,3,
-2,Jensen Bohren,U.S. Senate,,D,Smith,Ag-Complex,2,
-2,Jerone Garland,U.S. Senate,,D,Smith,Ag-Complex,0,
-2,Victor G. Maurice Jr.,U.S. Senate,,D,Smith,Ag-Complex,0,
-2,Omeria Scott,U.S. Senate,,D,Smith,Ag-Complex,0,
-2,Howard Sherman,U.S. Senate,,D,Smith,Ag-Complex,0,
-2,David Baria,U.S. Senate,,D,Smith,Burns,3,
-2,Jensen Bohren,U.S. Senate,,D,Smith,Burns,2,
-2,Jerone Garland,U.S. Senate,,D,Smith,Burns,0,
-2,Victor G. Maurice Jr.,U.S. Senate,,D,Smith,Burns,0,
-2,Omeria Scott,U.S. Senate,,D,Smith,Burns,7,
-2,Howard Sherman,U.S. Senate,,D,Smith,Burns,9,
-2,David Baria,U.S. Senate,,D,Smith,Cedar Grove,3,
-2,Jensen Bohren,U.S. Senate,,D,Smith,Cedar Grove,0,
-2,Jerone Garland,U.S. Senate,,D,Smith,Cedar Grove,0,
-2,Victor G. Maurice Jr.,U.S. Senate,,D,Smith,Cedar Grove,1,
-2,Omeria Scott,U.S. Senate,,D,Smith,Cedar Grove,8,
-2,Howard Sherman,U.S. Senate,,D,Smith,Cedar Grove,7,
-2,David Baria,U.S. Senate,,D,Smith,Center Ridge,2,
-2,Jensen Bohren,U.S. Senate,,D,Smith,Center Ridge,0,
-2,Jerone Garland,U.S. Senate,,D,Smith,Center Ridge,1,
-2,Victor G. Maurice Jr.,U.S. Senate,,D,Smith,Center Ridge,0,
-2,Omeria Scott,U.S. Senate,,D,Smith,Center Ridge,3,
-2,Howard Sherman,U.S. Senate,,D,Smith,Center Ridge,2,
-2,David Baria,U.S. Senate,,D,Smith,Clear Springs-Pineville,0,
-2,Jensen Bohren,U.S. Senate,,D,Smith,Clear Springs-Pineville,0,
-2,Jerone Garland,U.S. Senate,,D,Smith,Clear Springs-Pineville,0,
-2,Victor G. Maurice Jr.,U.S. Senate,,D,Smith,Clear Springs-Pineville,0,
-2,Omeria Scott,U.S. Senate,,D,Smith,Clear Springs-Pineville,0,
-2,Howard Sherman,U.S. Senate,,D,Smith,Clear Springs-Pineville,1,
-2,David Baria,U.S. Senate,,D,Smith,Lorena - Spinola,0,
-2,Jensen Bohren,U.S. Senate,,D,Smith,Lorena - Spinola,1,
-2,Jerone Garland,U.S. Senate,,D,Smith,Lorena - Spinola,0,
-2,Victor G. Maurice Jr.,U.S. Senate,,D,Smith,Lorena - Spinola,0,
-2,Omeria Scott,U.S. Senate,,D,Smith,Lorena - Spinola,9,
-2,Howard Sherman,U.S. Senate,,D,Smith,Lorena - Spinola,5,
-2,David Baria,U.S. Senate,,D,Smith,Mize,2,
-2,Jensen Bohren,U.S. Senate,,D,Smith,Mize,0,
-2,Jerone Garland,U.S. Senate,,D,Smith,Mize,0,
-2,Victor G. Maurice Jr.,U.S. Senate,,D,Smith,Mize,0,
-2,Omeria Scott,U.S. Senate,,D,Smith,Mize,1,
-2,Howard Sherman,U.S. Senate,,D,Smith,Mize,4,
-2,David Baria,U.S. Senate,,D,Smith,North Raleigh,14,
-2,Jensen Bohren,U.S. Senate,,D,Smith,North Raleigh,0,
-2,Jerone Garland,U.S. Senate,,D,Smith,North Raleigh,4,
-2,Victor G. Maurice Jr.,U.S. Senate,,D,Smith,North Raleigh,3,
-2,Omeria Scott,U.S. Senate,,D,Smith,North Raleigh,6,
-2,Howard Sherman,U.S. Senate,,D,Smith,North Raleigh,11,
-2,David Baria,U.S. Senate,,D,Smith,Polkville,2,
-2,Jensen Bohren,U.S. Senate,,D,Smith,Polkville,0,
-2,Jerone Garland,U.S. Senate,,D,Smith,Polkville,1,
-2,Victor G. Maurice Jr.,U.S. Senate,,D,Smith,Polkville,1,
-2,Omeria Scott,U.S. Senate,,D,Smith,Polkville,0,
-2,Howard Sherman,U.S. Senate,,D,Smith,Polkville,3,
-2,David Baria,U.S. Senate,,D,Smith,Shady Grove,2,
-2,Jensen Bohren,U.S. Senate,,D,Smith,Shady Grove,0,
-2,Jerone Garland,U.S. Senate,,D,Smith,Shady Grove,0,
-2,Victor G. Maurice Jr.,U.S. Senate,,D,Smith,Shady Grove,0,
-2,Omeria Scott,U.S. Senate,,D,Smith,Shady Grove,0,
-2,Howard Sherman,U.S. Senate,,D,Smith,Shady Grove,1,
-2,David Baria,U.S. Senate,,D,Smith,Summerland,6,
-2,Jensen Bohren,U.S. Senate,,D,Smith,Summerland,3,
-2,Jerone Garland,U.S. Senate,,D,Smith,Summerland,3,
-2,Victor G. Maurice Jr.,U.S. Senate,,D,Smith,Summerland,4,
-2,Omeria Scott,U.S. Senate,,D,Smith,Summerland,63,
-2,Howard Sherman,U.S. Senate,,D,Smith,Summerland,30,
-3,David Baria,U.S. Senate,,D,Smith,Sylvarena,2,
-3,Jensen Bohren,U.S. Senate,,D,Smith,Sylvarena,0,
-3,Jerone Garland,U.S. Senate,,D,Smith,Sylvarena,0,
-3,Victor G. Maurice Jr.,U.S. Senate,,D,Smith,Sylvarena,0,
-3,Omeria Scott,U.S. Senate,,D,Smith,Sylvarena,1,
-3,Howard Sherman,U.S. Senate,,D,Smith,Sylvarena,4,
-3,David Baria,U.S. Senate,,D,Smith,Taylorsville,3,
-3,Jensen Bohren,U.S. Senate,,D,Smith,Taylorsville,2,
-3,Jerone Garland,U.S. Senate,,D,Smith,Taylorsville,0,
-3,Victor G. Maurice Jr.,U.S. Senate,,D,Smith,Taylorsville,0,
-3,Omeria Scott,U.S. Senate,,D,Smith,Taylorsville,3,
-3,Howard Sherman,U.S. Senate,,D,Smith,Taylorsville,3,
-3,David Baria,U.S. Senate,,D,Smith,Union-New Home,2,
-3,Jensen Bohren,U.S. Senate,,D,Smith,Union-New Home,0,
-3,Jerone Garland,U.S. Senate,,D,Smith,Union-New Home,0,
-3,Victor G. Maurice Jr.,U.S. Senate,,D,Smith,Union-New Home,0,
-3,Omeria Scott,U.S. Senate,,D,Smith,Union-New Home,12,
-3,Howard Sherman,U.S. Senate,,D,Smith,Union-New Home,6,
-3,David Baria,U.S. Senate,,D,Smith,Warren Hill,8,
-3,Jensen Bohren,U.S. Senate,,D,Smith,Warren Hill,2,
-3,Jerone Garland,U.S. Senate,,D,Smith,Warren Hill,4,
-3,Victor G. Maurice Jr.,U.S. Senate,,D,Smith,Warren Hill,4,
-3,Omeria Scott,U.S. Senate,,D,Smith,Warren Hill,57,
-3,Howard Sherman,U.S. Senate,,D,Smith,Warren Hill,44,
-3,David Baria,U.S. Senate,,D,Smith,West Raleigh,1,
-3,Jensen Bohren,U.S. Senate,,D,Smith,West Raleigh,0,
-3,Jerone Garland,U.S. Senate,,D,Smith,West Raleigh,0,
-3,Victor G. Maurice Jr.,U.S. Senate,,D,Smith,West Raleigh,0,
-3,Omeria Scott,U.S. Senate,,D,Smith,West Raleigh,0,
-3,Howard Sherman,U.S. Senate,,D,Smith,West Raleigh,2,
-3,David Baria,U.S. Senate,,D,Smith,White Oak,0,
-3,Jensen Bohren,U.S. Senate,,D,Smith,White Oak,0,
-3,Jerone Garland,U.S. Senate,,D,Smith,White Oak,0,
-3,Victor G. Maurice Jr.,U.S. Senate,,D,Smith,White Oak,0,
-3,Omeria Scott,U.S. Senate,,D,Smith,White Oak,0,
-3,Howard Sherman,U.S. Senate,,D,Smith,White Oak,0,
-3,David Baria,U.S. Senate,,D,Smith,Zion Hill - New Haven,7,
-3,Jensen Bohren,U.S. Senate,,D,Smith,Zion Hill - New Haven,2,
-3,Jerone Garland,U.S. Senate,,D,Smith,Zion Hill - New Haven,0,
-3,Victor G. Maurice Jr.,U.S. Senate,,D,Smith,Zion Hill - New Haven,0,
-3,Omeria Scott,U.S. Senate,,D,Smith,Zion Hill - New Haven,9,
-3,Howard Sherman,U.S. Senate,,D,Smith,Zion Hill - New Haven,10,
-3,David Baria,U.S. Senate,,D,Smith,TOTAL ,60,
-3,Jensen Bohren,U.S. Senate,,D,Smith,TOTAL ,14,
-3,Jerone Garland,U.S. Senate,,D,Smith,TOTAL ,13,
-3,Victor G. Maurice Jr.,U.S. Senate,,D,Smith,TOTAL ,13,
-3,Omeria Scott,U.S. Senate,,D,Smith,TOTAL ,179,
-3,Howard Sherman,U.S. Senate,,D,Smith,TOTAL ,142,
-2,Michael Aycox,U.S. House,03,D,Smith,Ag-Complex,4,
-2,Michael Ted Evans,U.S. House,03,D,Smith,Ag-Complex,1,
-2,Michael Aycox,U.S. House,03,D,Smith,Burns,6,
-2,Michael Ted Evans,U.S. House,03,D,Smith,Burns,15,
-2,Michael Aycox,U.S. House,03,D,Smith,Cedar Grove,1,
-2,Michael Ted Evans,U.S. House,03,D,Smith,Cedar Grove,18,
-2,Michael Aycox,U.S. House,03,D,Smith,Center Ridge,1,
-2,Michael Ted Evans,U.S. House,03,D,Smith,Center Ridge,7,
-2,Michael Aycox,U.S. House,03,D,Smith,Clear Springs-Pineville,1,
-2,Michael Ted Evans,U.S. House,03,D,Smith,Clear Springs-Pineville,0,
-2,Michael Aycox,U.S. House,03,D,Smith,Lorena - Spinola,0,
-2,Michael Ted Evans,U.S. House,03,D,Smith,Lorena - Spinola,14,
-2,Michael Aycox,U.S. House,03,D,Smith,Mize,3,
-2,Michael Ted Evans,U.S. House,03,D,Smith,Mize,4,
-2,Michael Aycox,U.S. House,03,D,Smith,North Raleigh,10,
-2,Michael Ted Evans,U.S. House,03,D,Smith,North Raleigh,24,
-2,Michael Aycox,U.S. House,03,D,Smith,Polkville,4,
-2,Michael Ted Evans,U.S. House,03,D,Smith,Polkville,2,
-2,Michael Aycox,U.S. House,03,D,Smith,Shady Grove,2,
-2,Michael Ted Evans,U.S. House,03,D,Smith,Shady Grove,1,
-2,Michael Aycox,U.S. House,03,D,Smith,Summerland,20,
-2,Michael Ted Evans,U.S. House,03,D,Smith,Summerland,86,
-3,Michael Aycox,U.S. House,03,D,Smith,Sylvarena,3,
-3,Michael Ted Evans,U.S. House,03,D,Smith,Sylvarena,3,
-3,Michael Aycox,U.S. House,03,D,Smith,Taylorsville,3,
-3,Michael Ted Evans,U.S. House,03,D,Smith,Taylorsville,8,
-3,Michael Aycox,U.S. House,03,D,Smith,Union-New Home,3,
-3,Michael Ted Evans,U.S. House,03,D,Smith,Union-New Home,14,
-3,Michael Aycox,U.S. House,03,D,Smith,Warren Hill,41,
-3,Michael Ted Evans,U.S. House,03,D,Smith,Warren Hill,72,
-3,Michael Aycox,U.S. House,03,D,Smith,West Raleigh,1,
-3,Michael Ted Evans,U.S. House,03,D,Smith,West Raleigh,1,
-3,Michael Aycox,U.S. House,03,D,Smith,White Oak,0,
-3,Michael Ted Evans,U.S. House,03,D,Smith,White Oak,0,
-3,Michael Aycox,U.S. House,03,D,Smith,Zion Hill - New Haven,5,
-3,Michael Ted Evans,U.S. House,03,D,Smith,Zion Hill - New Haven,23,
-3,Michael Aycox,U.S. House,03,D,Smith,TOTAL ,108,
-3,Michael Ted Evans,U.S. House,03,D,Smith,TOTAL ,293,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
+county,precinct,office,district,party,candidate,votes
+Smith,Ag-Complex,U.S. House,3,DEM,Michael Aycox,4
+Smith,Ag-Complex,U.S. House,3,DEM,Michael Ted Evans,1
+Smith,Ag-Complex,U.S. House,3,REP,Katherine 'Bitzi' Tate,0
+Smith,Ag-Complex,U.S. House,3,REP,Michael Guest,60
+Smith,Ag-Complex,U.S. House,3,REP,Morgan Dunn,8
+Smith,Ag-Complex,U.S. House,3,REP,Perry Parker,38
+Smith,Ag-Complex,U.S. House,3,REP,Sally Doty,11
+Smith,Ag-Complex,U.S. House,3,REP,Whit Hughes,14
+Smith,Ag-Complex,U.S. Senate,,DEM,David Baria,3
+Smith,Ag-Complex,U.S. Senate,,DEM,Howard Sherman,0
+Smith,Ag-Complex,U.S. Senate,,DEM,Jensen Bohren,2
+Smith,Ag-Complex,U.S. Senate,,DEM,Jerone Garland,0
+Smith,Ag-Complex,U.S. Senate,,DEM,Omeria Scott,0
+Smith,Ag-Complex,U.S. Senate,,DEM,Victor G. Maurice Jr.,0
+Smith,Ag-Complex,U.S. Senate,,REP,Richard Warren Boyanton,31
+Smith,Ag-Complex,U.S. Senate,,REP,Roger F. Wicker,102
+Smith,Burns,U.S. House,3,DEM,Michael Aycox,6
+Smith,Burns,U.S. House,3,DEM,Michael Ted Evans,15
+Smith,Burns,U.S. House,3,REP,Katherine 'Bitzi' Tate,1
+Smith,Burns,U.S. House,3,REP,Michael Guest,42
+Smith,Burns,U.S. House,3,REP,Morgan Dunn,0
+Smith,Burns,U.S. House,3,REP,Perry Parker,17
+Smith,Burns,U.S. House,3,REP,Sally Doty,1
+Smith,Burns,U.S. House,3,REP,Whit Hughes,14
+Smith,Burns,U.S. Senate,,DEM,David Baria,3
+Smith,Burns,U.S. Senate,,DEM,Howard Sherman,9
+Smith,Burns,U.S. Senate,,DEM,Jensen Bohren,2
+Smith,Burns,U.S. Senate,,DEM,Jerone Garland,0
+Smith,Burns,U.S. Senate,,DEM,Omeria Scott,7
+Smith,Burns,U.S. Senate,,DEM,Victor G. Maurice Jr.,0
+Smith,Burns,U.S. Senate,,REP,Richard Warren Boyanton,7
+Smith,Burns,U.S. Senate,,REP,Roger F. Wicker,66
+Smith,Cedar Grove,U.S. House,3,DEM,Michael Aycox,1
+Smith,Cedar Grove,U.S. House,3,DEM,Michael Ted Evans,18
+Smith,Cedar Grove,U.S. House,3,REP,Katherine 'Bitzi' Tate,0
+Smith,Cedar Grove,U.S. House,3,REP,Michael Guest,9
+Smith,Cedar Grove,U.S. House,3,REP,Morgan Dunn,0
+Smith,Cedar Grove,U.S. House,3,REP,Perry Parker,12
+Smith,Cedar Grove,U.S. House,3,REP,Sally Doty,0
+Smith,Cedar Grove,U.S. House,3,REP,Whit Hughes,2
+Smith,Cedar Grove,U.S. Senate,,DEM,David Baria,3
+Smith,Cedar Grove,U.S. Senate,,DEM,Howard Sherman,7
+Smith,Cedar Grove,U.S. Senate,,DEM,Jensen Bohren,0
+Smith,Cedar Grove,U.S. Senate,,DEM,Jerone Garland,0
+Smith,Cedar Grove,U.S. Senate,,DEM,Omeria Scott,8
+Smith,Cedar Grove,U.S. Senate,,DEM,Victor G. Maurice Jr.,1
+Smith,Cedar Grove,U.S. Senate,,REP,Richard Warren Boyanton,5
+Smith,Cedar Grove,U.S. Senate,,REP,Roger F. Wicker,17
+Smith,Center Ridge,U.S. House,3,DEM,Michael Aycox,1
+Smith,Center Ridge,U.S. House,3,DEM,Michael Ted Evans,7
+Smith,Center Ridge,U.S. House,3,REP,Katherine 'Bitzi' Tate,3
+Smith,Center Ridge,U.S. House,3,REP,Michael Guest,31
+Smith,Center Ridge,U.S. House,3,REP,Morgan Dunn,9
+Smith,Center Ridge,U.S. House,3,REP,Perry Parker,33
+Smith,Center Ridge,U.S. House,3,REP,Sally Doty,2
+Smith,Center Ridge,U.S. House,3,REP,Whit Hughes,7
+Smith,Center Ridge,U.S. Senate,,DEM,David Baria,2
+Smith,Center Ridge,U.S. Senate,,DEM,Howard Sherman,2
+Smith,Center Ridge,U.S. Senate,,DEM,Jensen Bohren,0
+Smith,Center Ridge,U.S. Senate,,DEM,Jerone Garland,1
+Smith,Center Ridge,U.S. Senate,,DEM,Omeria Scott,3
+Smith,Center Ridge,U.S. Senate,,DEM,Victor G. Maurice Jr.,0
+Smith,Center Ridge,U.S. Senate,,REP,Richard Warren Boyanton,28
+Smith,Center Ridge,U.S. Senate,,REP,Roger F. Wicker,55
+Smith,Clear Springs-Pineville,U.S. House,3,DEM,Michael Aycox,1
+Smith,Clear Springs-Pineville,U.S. House,3,DEM,Michael Ted Evans,0
+Smith,Clear Springs-Pineville,U.S. House,3,REP,Katherine 'Bitzi' Tate,1
+Smith,Clear Springs-Pineville,U.S. House,3,REP,Michael Guest,25
+Smith,Clear Springs-Pineville,U.S. House,3,REP,Morgan Dunn,1
+Smith,Clear Springs-Pineville,U.S. House,3,REP,Perry Parker,36
+Smith,Clear Springs-Pineville,U.S. House,3,REP,Sally Doty,3
+Smith,Clear Springs-Pineville,U.S. House,3,REP,Whit Hughes,14
+Smith,Clear Springs-Pineville,U.S. Senate,,DEM,David Baria,0
+Smith,Clear Springs-Pineville,U.S. Senate,,DEM,Howard Sherman,1
+Smith,Clear Springs-Pineville,U.S. Senate,,DEM,Jensen Bohren,0
+Smith,Clear Springs-Pineville,U.S. Senate,,DEM,Jerone Garland,0
+Smith,Clear Springs-Pineville,U.S. Senate,,DEM,Omeria Scott,0
+Smith,Clear Springs-Pineville,U.S. Senate,,DEM,Victor G. Maurice Jr.,0
+Smith,Clear Springs-Pineville,U.S. Senate,,REP,Richard Warren Boyanton,14
+Smith,Clear Springs-Pineville,U.S. Senate,,REP,Roger F. Wicker,67
+Smith,Lorena - Spinola,U.S. House,3,DEM,Michael Aycox,0
+Smith,Lorena - Spinola,U.S. House,3,DEM,Michael Ted Evans,14
+Smith,Lorena - Spinola,U.S. House,3,REP,Katherine 'Bitzi' Tate,1
+Smith,Lorena - Spinola,U.S. House,3,REP,Michael Guest,40
+Smith,Lorena - Spinola,U.S. House,3,REP,Morgan Dunn,5
+Smith,Lorena - Spinola,U.S. House,3,REP,Perry Parker,27
+Smith,Lorena - Spinola,U.S. House,3,REP,Sally Doty,6
+Smith,Lorena - Spinola,U.S. House,3,REP,Whit Hughes,13
+Smith,Lorena - Spinola,U.S. Senate,,DEM,David Baria,0
+Smith,Lorena - Spinola,U.S. Senate,,DEM,Howard Sherman,5
+Smith,Lorena - Spinola,U.S. Senate,,DEM,Jensen Bohren,1
+Smith,Lorena - Spinola,U.S. Senate,,DEM,Jerone Garland,0
+Smith,Lorena - Spinola,U.S. Senate,,DEM,Omeria Scott,9
+Smith,Lorena - Spinola,U.S. Senate,,DEM,Victor G. Maurice Jr.,0
+Smith,Lorena - Spinola,U.S. Senate,,REP,Richard Warren Boyanton,26
+Smith,Lorena - Spinola,U.S. Senate,,REP,Roger F. Wicker,67
+Smith,Mize,U.S. House,3,DEM,Michael Aycox,3
+Smith,Mize,U.S. House,3,DEM,Michael Ted Evans,4
+Smith,Mize,U.S. House,3,REP,Katherine 'Bitzi' Tate,1
+Smith,Mize,U.S. House,3,REP,Michael Guest,35
+Smith,Mize,U.S. House,3,REP,Morgan Dunn,13
+Smith,Mize,U.S. House,3,REP,Perry Parker,74
+Smith,Mize,U.S. House,3,REP,Sally Doty,5
+Smith,Mize,U.S. House,3,REP,Whit Hughes,13
+Smith,Mize,U.S. Senate,,DEM,David Baria,2
+Smith,Mize,U.S. Senate,,DEM,Howard Sherman,4
+Smith,Mize,U.S. Senate,,DEM,Jensen Bohren,0
+Smith,Mize,U.S. Senate,,DEM,Jerone Garland,0
+Smith,Mize,U.S. Senate,,DEM,Omeria Scott,1
+Smith,Mize,U.S. Senate,,DEM,Victor G. Maurice Jr.,0
+Smith,Mize,U.S. Senate,,REP,Richard Warren Boyanton,44
+Smith,Mize,U.S. Senate,,REP,Roger F. Wicker,97
+Smith,North Raleigh,U.S. House,3,DEM,Michael Aycox,10
+Smith,North Raleigh,U.S. House,3,DEM,Michael Ted Evans,24
+Smith,North Raleigh,U.S. House,3,REP,Katherine 'Bitzi' Tate,2
+Smith,North Raleigh,U.S. House,3,REP,Michael Guest,54
+Smith,North Raleigh,U.S. House,3,REP,Morgan Dunn,9
+Smith,North Raleigh,U.S. House,3,REP,Perry Parker,20
+Smith,North Raleigh,U.S. House,3,REP,Sally Doty,9
+Smith,North Raleigh,U.S. House,3,REP,Whit Hughes,19
+Smith,North Raleigh,U.S. Senate,,DEM,David Baria,14
+Smith,North Raleigh,U.S. Senate,,DEM,Howard Sherman,11
+Smith,North Raleigh,U.S. Senate,,DEM,Jensen Bohren,0
+Smith,North Raleigh,U.S. Senate,,DEM,Jerone Garland,4
+Smith,North Raleigh,U.S. Senate,,DEM,Omeria Scott,6
+Smith,North Raleigh,U.S. Senate,,DEM,Victor G. Maurice Jr.,3
+Smith,North Raleigh,U.S. Senate,,REP,Richard Warren Boyanton,15
+Smith,North Raleigh,U.S. Senate,,REP,Roger F. Wicker,96
+Smith,Polkville,U.S. House,3,DEM,Michael Aycox,4
+Smith,Polkville,U.S. House,3,DEM,Michael Ted Evans,2
+Smith,Polkville,U.S. House,3,REP,Katherine 'Bitzi' Tate,0
+Smith,Polkville,U.S. House,3,REP,Michael Guest,103
+Smith,Polkville,U.S. House,3,REP,Morgan Dunn,2
+Smith,Polkville,U.S. House,3,REP,Perry Parker,27
+Smith,Polkville,U.S. House,3,REP,Sally Doty,6
+Smith,Polkville,U.S. House,3,REP,Whit Hughes,8
+Smith,Polkville,U.S. Senate,,DEM,David Baria,2
+Smith,Polkville,U.S. Senate,,DEM,Howard Sherman,3
+Smith,Polkville,U.S. Senate,,DEM,Jensen Bohren,0
+Smith,Polkville,U.S. Senate,,DEM,Jerone Garland,1
+Smith,Polkville,U.S. Senate,,DEM,Omeria Scott,0
+Smith,Polkville,U.S. Senate,,DEM,Victor G. Maurice Jr.,1
+Smith,Polkville,U.S. Senate,,REP,Richard Warren Boyanton,23
+Smith,Polkville,U.S. Senate,,REP,Roger F. Wicker,122
+Smith,Shady Grove,U.S. House,3,DEM,Michael Aycox,2
+Smith,Shady Grove,U.S. House,3,DEM,Michael Ted Evans,1
+Smith,Shady Grove,U.S. House,3,REP,Katherine 'Bitzi' Tate,0
+Smith,Shady Grove,U.S. House,3,REP,Michael Guest,32
+Smith,Shady Grove,U.S. House,3,REP,Morgan Dunn,24
+Smith,Shady Grove,U.S. House,3,REP,Perry Parker,18
+Smith,Shady Grove,U.S. House,3,REP,Sally Doty,2
+Smith,Shady Grove,U.S. House,3,REP,Whit Hughes,3
+Smith,Shady Grove,U.S. Senate,,DEM,David Baria,2
+Smith,Shady Grove,U.S. Senate,,DEM,Howard Sherman,1
+Smith,Shady Grove,U.S. Senate,,DEM,Jensen Bohren,0
+Smith,Shady Grove,U.S. Senate,,DEM,Jerone Garland,0
+Smith,Shady Grove,U.S. Senate,,DEM,Omeria Scott,0
+Smith,Shady Grove,U.S. Senate,,DEM,Victor G. Maurice Jr.,0
+Smith,Shady Grove,U.S. Senate,,REP,Richard Warren Boyanton,13
+Smith,Shady Grove,U.S. Senate,,REP,Roger F. Wicker,66
+Smith,Summerland,U.S. House,3,DEM,Michael Aycox,20
+Smith,Summerland,U.S. House,3,DEM,Michael Ted Evans,86
+Smith,Summerland,U.S. House,3,REP,Katherine 'Bitzi' Tate,0
+Smith,Summerland,U.S. House,3,REP,Michael Guest,32
+Smith,Summerland,U.S. House,3,REP,Morgan Dunn,5
+Smith,Summerland,U.S. House,3,REP,Perry Parker,30
+Smith,Summerland,U.S. House,3,REP,Sally Doty,4
+Smith,Summerland,U.S. House,3,REP,Whit Hughes,14
+Smith,Summerland,U.S. Senate,,DEM,David Baria,6
+Smith,Summerland,U.S. Senate,,DEM,Howard Sherman,30
+Smith,Summerland,U.S. Senate,,DEM,Jensen Bohren,3
+Smith,Summerland,U.S. Senate,,DEM,Jerone Garland,3
+Smith,Summerland,U.S. Senate,,DEM,Omeria Scott,63
+Smith,Summerland,U.S. Senate,,DEM,Victor G. Maurice Jr.,4
+Smith,Summerland,U.S. Senate,,REP,Richard Warren Boyanton,17
+Smith,Summerland,U.S. Senate,,REP,Roger F. Wicker,65
+Smith,Sylvarena,U.S. House,3,DEM,Michael Aycox,3
+Smith,Sylvarena,U.S. House,3,DEM,Michael Ted Evans,3
+Smith,Sylvarena,U.S. House,3,REP,Katherine 'Bitzi' Tate,0
+Smith,Sylvarena,U.S. House,3,REP,Michael Guest,18
+Smith,Sylvarena,U.S. House,3,REP,Morgan Dunn,2
+Smith,Sylvarena,U.S. House,3,REP,Perry Parker,28
+Smith,Sylvarena,U.S. House,3,REP,Sally Doty,6
+Smith,Sylvarena,U.S. House,3,REP,Whit Hughes,6
+Smith,Sylvarena,U.S. Senate,,DEM,David Baria,2
+Smith,Sylvarena,U.S. Senate,,DEM,Howard Sherman,4
+Smith,Sylvarena,U.S. Senate,,DEM,Jensen Bohren,0
+Smith,Sylvarena,U.S. Senate,,DEM,Jerone Garland,0
+Smith,Sylvarena,U.S. Senate,,DEM,Omeria Scott,1
+Smith,Sylvarena,U.S. Senate,,DEM,Victor G. Maurice Jr.,0
+Smith,Sylvarena,U.S. Senate,,REP,Richard Warren Boyanton,15
+Smith,Sylvarena,U.S. Senate,,REP,Roger F. Wicker,43
+Smith,Taylorsville,U.S. House,3,DEM,Michael Aycox,3
+Smith,Taylorsville,U.S. House,3,DEM,Michael Ted Evans,8
+Smith,Taylorsville,U.S. House,3,REP,Katherine 'Bitzi' Tate,1
+Smith,Taylorsville,U.S. House,3,REP,Michael Guest,67
+Smith,Taylorsville,U.S. House,3,REP,Morgan Dunn,20
+Smith,Taylorsville,U.S. House,3,REP,Perry Parker,75
+Smith,Taylorsville,U.S. House,3,REP,Sally Doty,9
+Smith,Taylorsville,U.S. House,3,REP,Whit Hughes,38
+Smith,Taylorsville,U.S. Senate,,DEM,David Baria,3
+Smith,Taylorsville,U.S. Senate,,DEM,Howard Sherman,3
+Smith,Taylorsville,U.S. Senate,,DEM,Jensen Bohren,2
+Smith,Taylorsville,U.S. Senate,,DEM,Jerone Garland,0
+Smith,Taylorsville,U.S. Senate,,DEM,Omeria Scott,3
+Smith,Taylorsville,U.S. Senate,,DEM,Victor G. Maurice Jr.,0
+Smith,Taylorsville,U.S. Senate,,REP,Richard Warren Boyanton,55
+Smith,Taylorsville,U.S. Senate,,REP,Roger F. Wicker,151
+Smith,Total,U.S. House,3,DEM,Michael Aycox,108
+Smith,Total,U.S. House,3,DEM,Michael Ted Evans,293
+Smith,Total,U.S. House,3,REP,Katherine 'Bitzi' Tate,12
+Smith,Total,U.S. House,3,REP,Michael Guest,687
+Smith,Total,U.S. House,3,REP,Morgan Dunn,126
+Smith,Total,U.S. House,3,REP,Perry Parker,586
+Smith,Total,U.S. House,3,REP,Sally Doty,92
+Smith,Total,U.S. House,3,REP,Whit Hughes,204
+Smith,Total,U.S. Senate,,DEM,David Baria,60
+Smith,Total,U.S. Senate,,DEM,Howard Sherman,142
+Smith,Total,U.S. Senate,,DEM,Jensen Bohren,14
+Smith,Total,U.S. Senate,,DEM,Jerone Garland,13
+Smith,Total,U.S. Senate,,DEM,Omeria Scott,179
+Smith,Total,U.S. Senate,,DEM,Victor G. Maurice Jr.,13
+Smith,Total,U.S. Senate,,REP,Richard Warren Boyanton,385
+Smith,Total,U.S. Senate,,REP,Roger F. Wicker,1306
+Smith,Union-New Home,U.S. House,3,DEM,Michael Aycox,3
+Smith,Union-New Home,U.S. House,3,DEM,Michael Ted Evans,14
+Smith,Union-New Home,U.S. House,3,REP,Katherine 'Bitzi' Tate,0
+Smith,Union-New Home,U.S. House,3,REP,Michael Guest,21
+Smith,Union-New Home,U.S. House,3,REP,Morgan Dunn,4
+Smith,Union-New Home,U.S. House,3,REP,Perry Parker,56
+Smith,Union-New Home,U.S. House,3,REP,Sally Doty,8
+Smith,Union-New Home,U.S. House,3,REP,Whit Hughes,4
+Smith,Union-New Home,U.S. Senate,,DEM,David Baria,2
+Smith,Union-New Home,U.S. Senate,,DEM,Howard Sherman,6
+Smith,Union-New Home,U.S. Senate,,DEM,Jensen Bohren,0
+Smith,Union-New Home,U.S. Senate,,DEM,Jerone Garland,0
+Smith,Union-New Home,U.S. Senate,,DEM,Omeria Scott,12
+Smith,Union-New Home,U.S. Senate,,DEM,Victor G. Maurice Jr.,0
+Smith,Union-New Home,U.S. Senate,,REP,Richard Warren Boyanton,22
+Smith,Union-New Home,U.S. Senate,,REP,Roger F. Wicker,72
+Smith,Warren Hill,U.S. House,3,DEM,Michael Aycox,41
+Smith,Warren Hill,U.S. House,3,DEM,Michael Ted Evans,72
+Smith,Warren Hill,U.S. House,3,REP,Katherine 'Bitzi' Tate,0
+Smith,Warren Hill,U.S. House,3,REP,Michael Guest,0
+Smith,Warren Hill,U.S. House,3,REP,Morgan Dunn,1
+Smith,Warren Hill,U.S. House,3,REP,Perry Parker,0
+Smith,Warren Hill,U.S. House,3,REP,Sally Doty,0
+Smith,Warren Hill,U.S. House,3,REP,Whit Hughes,0
+Smith,Warren Hill,U.S. Senate,,DEM,David Baria,8
+Smith,Warren Hill,U.S. Senate,,DEM,Howard Sherman,44
+Smith,Warren Hill,U.S. Senate,,DEM,Jensen Bohren,2
+Smith,Warren Hill,U.S. Senate,,DEM,Jerone Garland,4
+Smith,Warren Hill,U.S. Senate,,DEM,Omeria Scott,57
+Smith,Warren Hill,U.S. Senate,,DEM,Victor G. Maurice Jr.,4
+Smith,Warren Hill,U.S. Senate,,REP,Richard Warren Boyanton,1
+Smith,Warren Hill,U.S. Senate,,REP,Roger F. Wicker,0
+Smith,West Raleigh,U.S. House,3,DEM,Michael Aycox,1
+Smith,West Raleigh,U.S. House,3,DEM,Michael Ted Evans,1
+Smith,West Raleigh,U.S. House,3,REP,Katherine 'Bitzi' Tate,0
+Smith,West Raleigh,U.S. House,3,REP,Michael Guest,29
+Smith,West Raleigh,U.S. House,3,REP,Morgan Dunn,6
+Smith,West Raleigh,U.S. House,3,REP,Perry Parker,18
+Smith,West Raleigh,U.S. House,3,REP,Sally Doty,6
+Smith,West Raleigh,U.S. House,3,REP,Whit Hughes,11
+Smith,West Raleigh,U.S. Senate,,DEM,David Baria,1
+Smith,West Raleigh,U.S. Senate,,DEM,Howard Sherman,2
+Smith,West Raleigh,U.S. Senate,,DEM,Jensen Bohren,0
+Smith,West Raleigh,U.S. Senate,,DEM,Jerone Garland,0
+Smith,West Raleigh,U.S. Senate,,DEM,Omeria Scott,0
+Smith,West Raleigh,U.S. Senate,,DEM,Victor G. Maurice Jr.,0
+Smith,West Raleigh,U.S. Senate,,REP,Richard Warren Boyanton,17
+Smith,West Raleigh,U.S. Senate,,REP,Roger F. Wicker,49
+Smith,White Oak,U.S. House,3,DEM,Michael Aycox,0
+Smith,White Oak,U.S. House,3,DEM,Michael Ted Evans,0
+Smith,White Oak,U.S. House,3,REP,Katherine 'Bitzi' Tate,2
+Smith,White Oak,U.S. House,3,REP,Michael Guest,47
+Smith,White Oak,U.S. House,3,REP,Morgan Dunn,4
+Smith,White Oak,U.S. House,3,REP,Perry Parker,22
+Smith,White Oak,U.S. House,3,REP,Sally Doty,6
+Smith,White Oak,U.S. House,3,REP,Whit Hughes,14
+Smith,White Oak,U.S. Senate,,DEM,David Baria,0
+Smith,White Oak,U.S. Senate,,DEM,Howard Sherman,0
+Smith,White Oak,U.S. Senate,,DEM,Jensen Bohren,0
+Smith,White Oak,U.S. Senate,,DEM,Jerone Garland,0
+Smith,White Oak,U.S. Senate,,DEM,Omeria Scott,0
+Smith,White Oak,U.S. Senate,,DEM,Victor G. Maurice Jr.,0
+Smith,White Oak,U.S. Senate,,REP,Richard Warren Boyanton,23
+Smith,White Oak,U.S. Senate,,REP,Roger F. Wicker,73
+Smith,Zion Hill - New Haven,U.S. House,3,DEM,Michael Aycox,5
+Smith,Zion Hill - New Haven,U.S. House,3,DEM,Michael Ted Evans,23
+Smith,Zion Hill - New Haven,U.S. House,3,REP,Katherine 'Bitzi' Tate,0
+Smith,Zion Hill - New Haven,U.S. House,3,REP,Michael Guest,42
+Smith,Zion Hill - New Haven,U.S. House,3,REP,Morgan Dunn,13
+Smith,Zion Hill - New Haven,U.S. House,3,REP,Perry Parker,55
+Smith,Zion Hill - New Haven,U.S. House,3,REP,Sally Doty,8
+Smith,Zion Hill - New Haven,U.S. House,3,REP,Whit Hughes,10
+Smith,Zion Hill - New Haven,U.S. Senate,,DEM,David Baria,7
+Smith,Zion Hill - New Haven,U.S. Senate,,DEM,Howard Sherman,10
+Smith,Zion Hill - New Haven,U.S. Senate,,DEM,Jensen Bohren,2
+Smith,Zion Hill - New Haven,U.S. Senate,,DEM,Jerone Garland,0
+Smith,Zion Hill - New Haven,U.S. Senate,,DEM,Omeria Scott,9
+Smith,Zion Hill - New Haven,U.S. Senate,,DEM,Victor G. Maurice Jr.,0
+Smith,Zion Hill - New Haven,U.S. Senate,,REP,Richard Warren Boyanton,29
+Smith,Zion Hill - New Haven,U.S. Senate,,REP,Roger F. Wicker,98

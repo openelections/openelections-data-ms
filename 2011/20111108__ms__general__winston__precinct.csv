@@ -44,7 +44,7 @@ Winston,Lovorn Tractor,Attorney General,,Democrat,Jim Hood,275
 Winston,Lovorn Tractor,Attorney General,,Republican,Steve Simpson,141
 Winston,Lovorn Tractor,State Auditor,,Republican,Stacey E. Pickering,262
 Winston,Lovorn Tractor,State Auditor,,Reform,Ashley Norwood,98
-Winston,Lovorn Tractor,Treasurer,,Republican,Lynn Fitch,133
+Winston,Lovorn Tractor,Treasurer,,Republican,Lynn Fitch,233
 Winston,Lovorn Tractor,Treasurer,,Democrat,Connie Moran,167
 Winston,Lovorn Tractor,Treasurer,,Reform,Shawn O'Hara,10
 Winston,Lovorn Tractor,Commissioner of Agriculture & Commerce,,Democrat,Joel Gill,219
@@ -189,7 +189,7 @@ Winston,East Winston,Attorney General,,Republican,Steve Simpson,225
 Winston,East Winston,State Auditor,,Republican,Stacey E. Pickering,418
 Winston,East Winston,State Auditor,,Reform,Ashley Norwood,105
 Winston,East Winston,Treasurer,,Republican,Lynn Fitch,383
-Winston,East Winston,Treasurer,,Democrat,Connie Moran,416
+Winston,East Winston,Treasurer,,Democrat,Connie Moran,146
 Winston,East Winston,Treasurer,,Reform,Shawn O'Hara,10
 Winston,East Winston,Commissioner of Agriculture & Commerce,,Democrat,Joel Gill,183
 Winston,East Winston,Commissioner of Agriculture & Commerce,,Republican,Cindy Hyde-Smith,347
@@ -215,3 +215,99 @@ Winston,Mill Creek,Commissioner of Agriculture & Commerce,,Reform,Cathy L. Toole
 Winston,Mill Creek,Commissioner of Insurance,,Republican,Mike Chaney,632
 Winston,Mill Creek,Commissioner of Insurance,,Democrat,Louis Fondren,284
 Winston,Mill Creek,Commissioner of Insurance,,Reform,Barbara Dale Washer,18
+Winston,Fairground,State Senate,15,Republican,Gary Jackson,350
+Winston,Nanih Waiya,State Senate,15,Republican,Gary Jackson,x
+Winston,Lovorn Tractor,State Senate,15,Republican,Gary Jackson,x
+Winston,American Legion,State Senate,15,Republican,Gary Jackson,x
+Winston,Zion Ridge,State Senate,15,Republican,Gary Jackson,x
+Winston,Shiloh,State Senate,15,Republican,Gary Jackson,x
+Winston,County Agent,State Senate,15,Republican,Gary Jackson,x
+Winston,Mars Hill,State Senate,15,Republican,Gary Jackson,x
+Winston,Noxapater,State Senate,15,Republican,Gary Jackson,x
+Winston,New National Guard,State Senate,15,Republican,Gary Jackson,x
+Winston,East Winston,State Senate,15,Republican,Gary Jackson,x
+Winston,Mill Creek,State Senate,15,Republican,Gary Jackson,87
+Winston,Fairground,State Senate,18,Democrat,Steven Kilgore,x
+Winston,Nanih Waiya,State Senate,18,Democrat,Steven Kilgore,161
+Winston,Lovorn Tractor,State Senate,18,Democrat,Steven Kilgore,145
+Winston,American Legion,State Senate,18,Democrat,Steven Kilgore,x
+Winston,Zion Ridge,State Senate,18,Democrat,Steven Kilgore,x
+Winston,Shiloh,State Senate,18,Democrat,Steven Kilgore,94
+Winston,County Agent,State Senate,18,Democrat,Steven Kilgore,76
+Winston,Mars Hill,State Senate,18,Democrat,Steven Kilgore,225
+Winston,Noxapater,State Senate,18,Democrat,Steven Kilgore,285
+Winston,New National Guard,State Senate,18,Democrat,Steven Kilgore,143
+Winston,East Winston,State Senate,18,Democrat,Steven Kilgore,70
+Winston,Mill Creek,State Senate,18,Democrat,Steven Kilgore,x
+Winston,Fairground,State Senate,18,Republican,Giles K. Ward,x
+Winston,Nanih Waiya,State Senate,18,Republican,Giles K. Ward,405
+Winston,Lovorn Tractor,State Senate,18,Republican,Giles K. Ward,114
+Winston,American Legion,State Senate,18,Republican,Giles K. Ward,x
+Winston,Zion Ridge,State Senate,18,Republican,Giles K. Ward,x
+Winston,Shiloh,State Senate,18,Republican,Giles K. Ward,114
+Winston,County Agent,State Senate,18,Republican,Giles K. Ward,20
+Winston,Mars Hill,State Senate,18,Republican,Giles K. Ward,248
+Winston,Noxapater,State Senate,18,Republican,Giles K. Ward,407
+Winston,New National Guard,State Senate,18,Republican,Giles K. Ward,274
+Winston,East Winston,State Senate,18,Republican,Giles K. Ward,121
+Winston,Mill Creek,State Senate,18,Republican,Giles K. Ward,x
+Winston,Fairground,State Senate,32,Democrat,"Sampson Jackson, II",891
+Winston,Nanih Waiya,State Senate,32,Democrat,"Sampson Jackson, II",303
+Winston,Lovorn Tractor,State Senate,32,Democrat,"Sampson Jackson, II",132
+Winston,American Legion,State Senate,32,Democrat,"Sampson Jackson, II",603
+Winston,Zion Ridge,State Senate,32,Democrat,"Sampson Jackson, II",379
+Winston,Shiloh,State Senate,32,Democrat,"Sampson Jackson, II",159
+Winston,County Agent,State Senate,32,Democrat,"Sampson Jackson, II",647
+Winston,Mars Hill,State Senate,32,Democrat,"Sampson Jackson, II",x
+Winston,Noxapater,State Senate,32,Democrat,"Sampson Jackson, II",x
+Winston,New National Guard,State Senate,32,Democrat,"Sampson Jackson, II",x
+Winston,East Winston,State Senate,32,Democrat,"Sampson Jackson, II",286
+Winston,Mill Creek,State Senate,32,Democrat,"Sampson Jackson, II",727
+Winston,Fairground,State House,43,Democrat,Michael T. Evans,513
+Winston,Nanih Waiya,State House,43,Democrat,Michael T. Evans,515
+Winston,Lovorn Tractor,State House,43,Democrat,Michael T. Evans,203
+Winston,American Legion,State House,43,Democrat,Michael T. Evans,510
+Winston,Zion Ridge,State House,43,Democrat,Michael T. Evans,332
+Winston,Shiloh,State House,43,Democrat,Michael T. Evans,141
+Winston,County Agent,State House,43,Democrat,Michael T. Evans,617
+Winston,Mars Hill,State House,43,Democrat,Michael T. Evans,243
+Winston,Noxapater,State House,43,Democrat,Michael T. Evans,282
+Winston,New National Guard,State House,43,Democrat,Michael T. Evans,142
+Winston,East Winston,State House,43,Democrat,Michael T. Evans,225
+Winston,Mill Creek,State House,43,Democrat,Michael T. Evans,383
+Winston,Fairground,State House,43,Republican,Russ C. Nowell,1034
+Winston,Nanih Waiya,State House,43,Republican,Russ C. Nowell,414
+Winston,Lovorn Tractor,State House,43,Republican,Russ C. Nowell,214
+Winston,American Legion,State House,43,Republican,Russ C. Nowell,123
+Winston,Zion Ridge,State House,43,Republican,Russ C. Nowell,61
+Winston,Shiloh,State House,43,Republican,Russ C. Nowell,257
+Winston,County Agent,State House,43,Republican,Russ C. Nowell,184
+Winston,Mars Hill,State House,43,Republican,Russ C. Nowell,232
+Winston,Noxapater,State House,43,Republican,Russ C. Nowell,414
+Winston,New National Guard,State House,43,Republican,Russ C. Nowell,273
+Winston,East Winston,State House,43,Republican,Russ C. Nowell,317
+Winston,Mill Creek,State House,43,Republican,Russ C. Nowell,565
+Winston,,Governor,,Republican,Phil Bryant,4797
+Winston,,Governor,,Democrat,Johnny L. DuPree,3423
+Winston,,Lieutenant Governor,,Republican,Tate Reeves,5520
+Winston,,Lieutenant Governor,,Reform,Tracella Lou O'Hara Hill,1731
+Winston,,Secretary of State,,Republican,Delbert Hosemann,6516
+Winston,,Attorney General,,Democrat,Jim Hood,5396
+Winston,,Attorney General,,Republican,Steve Simpson,2727
+Winston,,State Auditor,,Republican,Stacey E. Pickering,5264
+Winston,,State Auditor,,Reform,Ashley Norwood,1947
+Winston,,Treasurer,,Republican,Lynn Fitch,4569
+Winston,,Treasurer,,Democrat,Connie Moran,3302
+Winston,,Treasurer,,Reform,Shawn O'Hara,210
+Winston,,Commissioner of Agriculture & Commerce,,Democrat,Joel Gill,3981
+Winston,,Commissioner of Agriculture & Commerce,,Republican,Cindy Hyde-Smith,3981
+Winston,,Commissioner of Agriculture & Commerce,,Reform,Cathy L. Toole,127
+Winston,,Commissioner of Insurance,,Republican,Mike Chaney,4772
+Winston,,Commissioner of Insurance,,Democrat,Louis Fondren,3103
+Winston,,Commissioner of Insurance,,Reform,Barbara Dale Washer,206
+Winston,,State Senate,15,Republican,Gary Jackson,437
+Winston,,State Senate,18,Democrat,Steven Kilgore,1199
+Winston,,State Senate,18,Republican,Giles K. Ward,1703
+Winston,,State Senate,32,Democrat,"Sampson Jackson, II",4127
+Winston,,State House,43,Democrat,Michael T. Evans,4106
+Winston,,State House,43,Republican,Russ C. Nowell,4088

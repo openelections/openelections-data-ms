@@ -1,9 +1,9 @@
 county,precinct,office,district,party,candidate,votes
-Tate,Arkabutla,Governor,,Republican,Phil Bryant,358
+Tate,Arkabutla,Governor,,Republican,Phil Bryant,368
 Tate,Arkabutla,Governor,,Democrat,Robert Gray,129
 Tate,Arkabutla,Governor,,Reform,Shawn O'Hara,7
 Tate,Arkabutla,Lieutenant Governor,,Democrat,Tim Johnson,171
-Tate,Arkabutla,Lieutenant Governor,,Republican,Tate Reeves,174
+Tate,Arkabutla,Lieutenant Governor,,Republican,Tate Reeves,274
 Tate,Arkabutla,Lieutenant Governor,,Libertarian,Ron Williams,23
 Tate,Arkabutla,Lieutenant Governor,,Reform,Rosa B. Williams,3
 Tate,Arkabutla,Secretary of State,,Democrat,Charles E. Graham,203
@@ -188,7 +188,7 @@ Tate,Sarah,Commissioner of Agriculture & Commerce,,Democrat,Addie Lee Green,10
 Tate,Sarah,Commissioner of Agriculture & Commerce,,Republican,Cindy Hyde-Smith,69
 Tate,Sarah,Commissioner of Agriculture & Commerce,,Reform,Cathy L. Toole,4
 Tate,Sarah,Commissioner of Insurance,,Republican,Mike Chaney,81
-Tate,Senatobia 1,Governor,,Republican,Phil Bryant,756
+Tate,Senatobia 1,Governor,,Republican,Phil Bryant,796
 Tate,Senatobia 1,Governor,,Democrat,Robert Gray,167
 Tate,Senatobia 1,Governor,,Reform,Shawn O'Hara,10
 Tate,Senatobia 1,Lieutenant Governor,,Democrat,Tim Johnson,225
@@ -305,7 +305,7 @@ Tate,Strayhorn 1,Secretary of State,,Republican,Delbert Hosemann,132
 Tate,Strayhorn 1,Secretary of State,,Reform,Randy Walker,9
 Tate,Strayhorn 1,Attorney General,,Democrat,Jim Hood,63
 Tate,Strayhorn 1,Attorney General,,Republican,Mike Hurst,117
-Tate,Strayhorn 1,State Auditor,,Republican,Stacey E. Pickering,135
+Tate,Strayhorn 1,State Auditor,,Republican,Stacey E. Pickering,155
 Tate,Strayhorn 1,State Auditor,,Democrat,Jocelyn 'Joce' Pepper Pritchett,16
 Tate,Strayhorn 1,State Auditor,,Reform,Lajena Walley,2
 Tate,Strayhorn 1,State Treasurer,,Republican,Lynn Fitch,158
@@ -377,7 +377,7 @@ Tate,Thyatira,Commissioner of Agriculture & Commerce,,Democrat,Addie Lee Green,3
 Tate,Thyatira,Commissioner of Agriculture & Commerce,,Republican,Cindy Hyde-Smith,90
 Tate,Thyatira,Commissioner of Agriculture & Commerce,,Reform,Cathy L. Toole,3
 Tate,Thyatira,Commissioner of Insurance,,Republican,Mike Chaney,111
-Tate,Tyro,Governor,,Republican,Phil Bryant,55
+Tate,Tyro,Governor,,Republican,Phil Bryant,59
 Tate,Tyro,Governor,,Democrat,Robert Gray,66
 Tate,Tyro,Governor,,Reform,Shawn O'Hara,0
 Tate,Tyro,Lieutenant Governor,,Democrat,Tim Johnson,68
@@ -419,3 +419,150 @@ Tate,Wyatte,Commissioner of Agriculture & Commerce,,Democrat,Addie Lee Green,21
 Tate,Wyatte,Commissioner of Agriculture & Commerce,,Republican,Cindy Hyde-Smith,68
 Tate,Wyatte,Commissioner of Agriculture & Commerce,,Reform,Cathy L. Toole,2
 Tate,Wyatte,Commissioner of Insurance,,Republican,Mike Chaney,73
+Tate,Arkabutla,State House,5,Democrat,John Faulkner,x
+Tate,Coldwater 3,State House,5,Democrat,John Faulkner,x
+Tate,Evansville,State House,5,Democrat,John Faulkner,x
+Tate,Independence,State House,5,Democrat,John Faulkner,94
+Tate,Looxahoma,State House,5,Democrat,John Faulkner,x
+Tate,Palestine,State House,5,Democrat,John Faulkner,x
+Tate,Poagville 4,State House,5,Democrat,John Faulkner,x
+Tate,Poagville 5,State House,5,Democrat,John Faulkner,x
+Tate,Sarah,State House,5,Democrat,John Faulkner,x
+Tate,Senatobia 1,State House,5,Democrat,John Faulkner,x
+Tate,Senatobia 2,State House,5,Democrat,John Faulkner,x
+Tate,Senatobia 3,State House,5,Democrat,John Faulkner,x
+Tate,Senatobia 4,State House,5,Democrat,John Faulkner,x
+Tate,Sherrod,State House,5,Democrat,John Faulkner,x
+Tate,Strayhorn 1,State House,5,Democrat,John Faulkner,x
+Tate,Strayhorn 2,State House,5,Democrat,John Faulkner,x
+Tate,Taylor,State House,5,Democrat,John Faulkner,x
+Tate,Thyatira,State House,5,Democrat,John Faulkner,x
+Tate,Tyro,State House,5,Democrat,John Faulkner,x
+Tate,Wyatte,State House,5,Democrat,John Faulkner,x
+Tate,Arkabutla,State House,8,Republican,John T 'Trey' Lamar,x
+Tate,Coldwater 3,State House,8,Republican,John T 'Trey' Lamar,320
+Tate,Evansville,State House,8,Republican,John T 'Trey' Lamar,x
+Tate,Independence,State House,8,Republican,John T 'Trey' Lamar,514
+Tate,Looxahoma,State House,8,Republican,John T 'Trey' Lamar,33
+Tate,Palestine,State House,8,Republican,John T 'Trey' Lamar,127
+Tate,Poagville 4,State House,8,Republican,John T 'Trey' Lamar,294
+Tate,Poagville 5,State House,8,Republican,John T 'Trey' Lamar,98
+Tate,Sarah,State House,8,Republican,John T 'Trey' Lamar,78
+Tate,Senatobia 1,State House,8,Republican,John T 'Trey' Lamar,873
+Tate,Senatobia 2,State House,8,Republican,John T 'Trey' Lamar,487
+Tate,Senatobia 3,State House,8,Republican,John T 'Trey' Lamar,30
+Tate,Senatobia 4,State House,8,Republican,John T 'Trey' Lamar,200
+Tate,Sherrod,State House,8,Republican,John T 'Trey' Lamar,131
+Tate,Strayhorn 1,State House,8,Republican,John T 'Trey' Lamar,172
+Tate,Strayhorn 2,State House,8,Republican,John T 'Trey' Lamar,170
+Tate,Taylor,State House,8,Republican,John T 'Trey' Lamar,x
+Tate,Thyatira,State House,8,Republican,John T 'Trey' Lamar,111
+Tate,Tyro,State House,8,Republican,John T 'Trey' Lamar,87
+Tate,Wyatte,State House,8,Republican,John T 'Trey' Lamar,69
+Tate,Arkabutla,State House,9,Democrat,"Cedric ""Bam Bam"" Burnett",220
+Tate,Coldwater 3,State House,9,Democrat,"Cedric ""Bam Bam"" Burnett",x
+Tate,Evansville,State House,9,Democrat,"Cedric ""Bam Bam"" Burnett",50
+Tate,Independence,State House,9,Democrat,"Cedric ""Bam Bam"" Burnett",x
+Tate,Looxahoma,State House,9,Democrat,"Cedric ""Bam Bam"" Burnett",x
+Tate,Palestine,State House,9,Democrat,"Cedric ""Bam Bam"" Burnett",x
+Tate,Poagville 4,State House,9,Democrat,"Cedric ""Bam Bam"" Burnett",x
+Tate,Poagville 5,State House,9,Democrat,"Cedric ""Bam Bam"" Burnett",x
+Tate,Sarah,State House,9,Democrat,"Cedric ""Bam Bam"" Burnett",x
+Tate,Senatobia 1,State House,9,Democrat,"Cedric ""Bam Bam"" Burnett",x
+Tate,Senatobia 2,State House,9,Democrat,"Cedric ""Bam Bam"" Burnett",13
+Tate,Senatobia 3,State House,9,Democrat,"Cedric ""Bam Bam"" Burnett",x
+Tate,Senatobia 4,State House,9,Democrat,"Cedric ""Bam Bam"" Burnett",x
+Tate,Sherrod,State House,9,Democrat,"Cedric ""Bam Bam"" Burnett",x
+Tate,Strayhorn 1,State House,9,Democrat,"Cedric ""Bam Bam"" Burnett",x
+Tate,Strayhorn 2,State House,9,Democrat,"Cedric ""Bam Bam"" Burnett",x
+Tate,Taylor,State House,9,Democrat,"Cedric ""Bam Bam"" Burnett",87
+Tate,Thyatira,State House,9,Democrat,"Cedric ""Bam Bam"" Burnett",x
+Tate,Tyro,State House,9,Democrat,"Cedric ""Bam Bam"" Burnett",x
+Tate,Wyatte,State House,9,Democrat,"Cedric ""Bam Bam"" Burnett",x
+Tate,Arkabutla,State House,9,Republican,"Christopher Thomas, Sr.",235
+Tate,Coldwater 3,State House,9,Republican,"Christopher Thomas, Sr.",x
+Tate,Evansville,State House,9,Republican,"Christopher Thomas, Sr.",75
+Tate,Independence,State House,9,Republican,"Christopher Thomas, Sr.",x
+Tate,Looxahoma,State House,9,Republican,"Christopher Thomas, Sr.",x
+Tate,Palestine,State House,9,Republican,"Christopher Thomas, Sr.",x
+Tate,Poagville 4,State House,9,Republican,"Christopher Thomas, Sr.",x
+Tate,Poagville 5,State House,9,Republican,"Christopher Thomas, Sr.",x
+Tate,Sarah,State House,9,Republican,"Christopher Thomas, Sr.",x
+Tate,Senatobia 1,State House,9,Republican,"Christopher Thomas, Sr.",x
+Tate,Senatobia 2,State House,9,Republican,"Christopher Thomas, Sr.",25
+Tate,Senatobia 3,State House,9,Republican,"Christopher Thomas, Sr.",x
+Tate,Senatobia 4,State House,9,Republican,"Christopher Thomas, Sr.",x
+Tate,Sherrod,State House,9,Republican,"Christopher Thomas, Sr.",x
+Tate,Strayhorn 1,State House,9,Republican,"Christopher Thomas, Sr.",x
+Tate,Strayhorn 2,State House,9,Republican,"Christopher Thomas, Sr.",x
+Tate,Taylor,State House,9,Republican,"Christopher Thomas, Sr.",33
+Tate,Thyatira,State House,9,Republican,"Christopher Thomas, Sr.",x
+Tate,Tyro,State House,9,Republican,"Christopher Thomas, Sr.",x
+Tate,Wyatte,State House,9,Republican,"Christopher Thomas, Sr.",x
+Tate,Arkabutla,State House,11,Democrat,Lataisha Jackson,x
+Tate,Coldwater 3,State House,11,Democrat,Lataisha Jackson,x
+Tate,Evansville,State House,11,Democrat,Lataisha Jackson,x
+Tate,Independence,State House,11,Democrat,Lataisha Jackson,x
+Tate,Looxahoma,State House,11,Democrat,Lataisha Jackson,253
+Tate,Palestine,State House,11,Democrat,Lataisha Jackson,x
+Tate,Poagville 4,State House,11,Democrat,Lataisha Jackson,x
+Tate,Poagville 5,State House,11,Democrat,Lataisha Jackson,x
+Tate,Sarah,State House,11,Democrat,Lataisha Jackson,x
+Tate,Senatobia 1,State House,11,Democrat,Lataisha Jackson,5
+Tate,Senatobia 2,State House,11,Democrat,Lataisha Jackson,x
+Tate,Senatobia 3,State House,11,Democrat,Lataisha Jackson,119
+Tate,Senatobia 4,State House,11,Democrat,Lataisha Jackson,169
+Tate,Sherrod,State House,11,Democrat,Lataisha Jackson,x
+Tate,Strayhorn 1,State House,11,Democrat,Lataisha Jackson,x
+Tate,Strayhorn 2,State House,11,Democrat,Lataisha Jackson,x
+Tate,Taylor,State House,11,Democrat,Lataisha Jackson,x
+Tate,Thyatira,State House,11,Democrat,Lataisha Jackson,x
+Tate,Tyro,State House,11,Democrat,Lataisha Jackson,x
+Tate,Wyatte,State House,11,Democrat,Lataisha Jackson,x
+Tate,Arkabutla,State Senate,10,Democrat,Bill Stone,366
+Tate,Coldwater 3,State Senate,10,Democrat,Bill Stone,442
+Tate,Evansville,State Senate,10,Democrat,Bill Stone,99
+Tate,Independence,State Senate,10,Democrat,Bill Stone,552
+Tate,Looxahoma,State Senate,10,Democrat,Bill Stone,293
+Tate,Palestine,State Senate,10,Democrat,Bill Stone,107
+Tate,Poagville 4,State Senate,10,Democrat,Bill Stone,222
+Tate,Poagville 5,State Senate,10,Democrat,Bill Stone,89
+Tate,Sarah,State Senate,10,Democrat,Bill Stone,68
+Tate,Senatobia 1,State Senate,10,Democrat,Bill Stone,754
+Tate,Senatobia 2,State Senate,10,Democrat,Bill Stone,473
+Tate,Senatobia 3,State Senate,10,Democrat,Bill Stone,152
+Tate,Senatobia 4,State Senate,10,Democrat,Bill Stone,355
+Tate,Sherrod,State Senate,10,Democrat,Bill Stone,92
+Tate,Strayhorn 1,State Senate,10,Democrat,Bill Stone,140
+Tate,Strayhorn 2,State Senate,10,Democrat,Bill Stone,160
+Tate,Taylor,State Senate,10,Democrat,Bill Stone,107
+Tate,Thyatira,State Senate,10,Democrat,Bill Stone,106
+Tate,Tyro,State Senate,10,Democrat,Bill Stone,99
+Tate,Wyatte,State Senate,10,Democrat,Bill Stone,61
+Tate,,Governor,,Republican,Phil Bryant,4486
+Tate,,Governor,,Democrat,Robert Gray,1527
+Tate,,Governor,,Reform,Shawn O'Hara,83
+Tate,,Lieutenant Governor,,Democrat,Tim Johnson,1799
+Tate,,Lieutenant Governor,,Republican,Tate Reeves,3893
+Tate,,Lieutenant Governor,,Libertarian,Ron Williams,219
+Tate,,Lieutenant Governor,,Reform,Rosa B. Williams,57
+Tate,,Secretary of State,,Democrat,Charles E. Graham,2030
+Tate,,Secretary of State,,Republican,Delbert Hosemann,3640
+Tate,,Secretary of State,,Reform,Randy Walker,279
+Tate,,Attorney General,,Democrat,Jim Hood,3046
+Tate,,Attorney General,,Republican,Mike Hurst,2957
+Tate,,State Auditor,,Republican,Stacey E. Pickering,4100
+Tate,,State Auditor,,Democrat,Jocelyn 'Joce' Pepper Pritchett,1750
+Tate,,State Auditor,,Reform,Lajena Walley,85
+Tate,,State Treasurer,,Republican,Lynn Fitch,4582
+Tate,,State Treasurer,,Reform,Viola V. McFarland,894
+Tate,,Commissioner of Agriculture & Commerce,,Democrat,Addie Lee Green,1925
+Tate,,Commissioner of Agriculture & Commerce,,Republican,Cindy Hyde-Smith,3838
+Tate,,Commissioner of Agriculture & Commerce,,Reform,Cathy L. Toole,137
+Tate,,Commissioner of Insurance,,Republican,Mike Chaney,5085
+Tate,,State House,5,Democrat,John Faulkner,94
+Tate,,State House,8,Republican,John T 'Trey' Lamar,3794
+Tate,,State House,9,Democrat,"Cedric ""Bam Bam"" Burnett",370
+Tate,,State House,9,Republican,"Christopher Thomas, Sr.",368
+Tate,,State House,11,Democrat,Lataisha Jackson,546
+Tate,,State Senate,10,Democrat,Bill Stone,4737

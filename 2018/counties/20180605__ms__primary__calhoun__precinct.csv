@@ -1,143 +1,111 @@
-page,candidate,office,district,party,county,precinct,votes,winner
-2,Richard Warren Boyanton,U.S. Senate,,R,Calhoun,Banner,10,
-2,Roger F. Wicker,U.S. Senate,,R,Calhoun,Banner,61,
-2,Richard Warren Boyanton,U.S. Senate,,R,Calhoun,Bruce # 3,19,
-2,Roger F. Wicker,U.S. Senate,,R,Calhoun,Bruce # 3,97,
-2,Richard Warren Boyanton,U.S. Senate,,R,Calhoun,Calhoun City # 1,7,
-2,Roger F. Wicker,U.S. Senate,,R,Calhoun,Calhoun City # 1,31,
-2,Richard Warren Boyanton,U.S. Senate,,R,Calhoun,Calhoun City 4,16,
-2,Roger F. Wicker,U.S. Senate,,R,Calhoun,Calhoun City 4,113,
-2,Richard Warren Boyanton,U.S. Senate,,R,Calhoun,Derma # 4,10,
-2,Roger F. Wicker,U.S. Senate,,R,Calhoun,Derma # 4,63,
-2,Richard Warren Boyanton,U.S. Senate,,R,Calhoun,Derma # 5,2,
-2,Roger F. Wicker,U.S. Senate,,R,Calhoun,Derma # 5,62,
-2,Richard Warren Boyanton,U.S. Senate,,R,Calhoun,Northeast Calhoun,9,
-2,Roger F. Wicker,U.S. Senate,,R,Calhoun,Northeast Calhoun,102,
-2,Richard Warren Boyanton,U.S. Senate,,R,Calhoun,Pittsboro # 1,4,
-2,Roger F. Wicker,U.S. Senate,,R,Calhoun,Pittsboro # 1,14,
-2,Richard Warren Boyanton,U.S. Senate,,R,Calhoun,Pittsboro # 2,6,
-2,Roger F. Wicker,U.S. Senate,,R,Calhoun,Pittsboro # 2,53,
-2,Richard Warren Boyanton,U.S. Senate,,R,Calhoun,Vardaman,5,
-2,Roger F. Wicker,U.S. Senate,,R,Calhoun,Vardaman,57,
-2,Richard Warren Boyanton,U.S. Senate,,R,Calhoun,TOTAL ,88,
-2,Roger F. Wicker,U.S. Senate,,R,Calhoun,TOTAL ,653,
-2,Trent Kelly ,U.S. House,01,R,Calhoun,Banner,70,
-2,Trent Kelly ,U.S. House,01,R,Calhoun,Bruce # 3,111,
-2,Trent Kelly ,U.S. House,01,R,Calhoun,Calhoun City # 1,37,
-2,Trent Kelly ,U.S. House,01,R,Calhoun,Calhoun City 4,123,
-2,Trent Kelly ,U.S. House,01,R,Calhoun,Derma # 4,68,
-2,Trent Kelly ,U.S. House,01,R,Calhoun,Derma # 5,62,
-2,Trent Kelly ,U.S. House,01,R,Calhoun,Northeast Calhoun,106,
-2,Trent Kelly ,U.S. House,01,R,Calhoun,Pittsboro # 1,17,
-2,Trent Kelly ,U.S. House,01,R,Calhoun,Pittsboro # 2,57,
-2,Trent Kelly ,U.S. House,01,R,Calhoun,Vardaman,59,
-2,Trent Kelly ,U.S. House,01,R,Calhoun,TOTAL ,710,
-2,David Baria,U.S. Senate,,D,Calhoun,Banner,3,
-2,Jensen Bohren,U.S. Senate,,D,Calhoun,Banner,0,
-2,Jerone Garland,U.S. Senate,,D,Calhoun,Banner,0,
-2,Victor G. Maurice Jr.,U.S. Senate,,D,Calhoun,Banner,0,
-2,Omeria Scott,U.S. Senate,,D,Calhoun,Banner,1,
-2,Howard Sherman,U.S. Senate,,D,Calhoun,Banner,5,
-2,David Baria,U.S. Senate,,D,Calhoun,Bruce # 3,12,
-2,Jensen Bohren,U.S. Senate,,D,Calhoun,Bruce # 3,2,
-2,Jerone Garland,U.S. Senate,,D,Calhoun,Bruce # 3,4,
-2,Victor G. Maurice Jr.,U.S. Senate,,D,Calhoun,Bruce # 3,2,
-2,Omeria Scott,U.S. Senate,,D,Calhoun,Bruce # 3,3,
-2,Howard Sherman,U.S. Senate,,D,Calhoun,Bruce # 3,11,
-2,David Baria,U.S. Senate,,D,Calhoun,Calhoun City # 1,7,
-2,Jensen Bohren,U.S. Senate,,D,Calhoun,Calhoun City # 1,1,
-2,Jerone Garland,U.S. Senate,,D,Calhoun,Calhoun City # 1,3,
-2,Victor G. Maurice Jr.,U.S. Senate,,D,Calhoun,Calhoun City # 1,2,
-2,Omeria Scott,U.S. Senate,,D,Calhoun,Calhoun City # 1,19,
-2,Howard Sherman,U.S. Senate,,D,Calhoun,Calhoun City # 1,14,
-2,David Baria,U.S. Senate,,D,Calhoun,Calhoun City 4,3,
-2,Jensen Bohren,U.S. Senate,,D,Calhoun,Calhoun City 4,1,
-2,Jerone Garland,U.S. Senate,,D,Calhoun,Calhoun City 4,0,
-2,Victor G. Maurice Jr.,U.S. Senate,,D,Calhoun,Calhoun City 4,1,
-2,Omeria Scott,U.S. Senate,,D,Calhoun,Calhoun City 4,6,
-2,Howard Sherman,U.S. Senate,,D,Calhoun,Calhoun City 4,12,
-2,David Baria,U.S. Senate,,D,Calhoun,Derma # 4,5,
-2,Jensen Bohren,U.S. Senate,,D,Calhoun,Derma # 4,0,
-2,Jerone Garland,U.S. Senate,,D,Calhoun,Derma # 4,0,
-2,Victor G. Maurice Jr.,U.S. Senate,,D,Calhoun,Derma # 4,0,
-2,Omeria Scott,U.S. Senate,,D,Calhoun,Derma # 4,1,
-2,Howard Sherman,U.S. Senate,,D,Calhoun,Derma # 4,3,
-2,David Baria,U.S. Senate,,D,Calhoun,Derma # 5,2,
-2,Jensen Bohren,U.S. Senate,,D,Calhoun,Derma # 5,1,
-2,Jerone Garland,U.S. Senate,,D,Calhoun,Derma # 5,0,
-2,Victor G. Maurice Jr.,U.S. Senate,,D,Calhoun,Derma # 5,1,
-2,Omeria Scott,U.S. Senate,,D,Calhoun,Derma # 5,1,
-2,Howard Sherman,U.S. Senate,,D,Calhoun,Derma # 5,5,
-2,David Baria,U.S. Senate,,D,Calhoun,Northeast Calhoun,5,
-2,Jensen Bohren,U.S. Senate,,D,Calhoun,Northeast Calhoun,0,
-2,Jerone Garland,U.S. Senate,,D,Calhoun,Northeast Calhoun,0,
-2,Victor G. Maurice Jr.,U.S. Senate,,D,Calhoun,Northeast Calhoun,0,
-2,Omeria Scott,U.S. Senate,,D,Calhoun,Northeast Calhoun,2,
-2,Howard Sherman,U.S. Senate,,D,Calhoun,Northeast Calhoun,7,
-2,David Baria,U.S. Senate,,D,Calhoun,Pittsboro # 1,8,
-2,Jensen Bohren,U.S. Senate,,D,Calhoun,Pittsboro # 1,3,
-2,Jerone Garland,U.S. Senate,,D,Calhoun,Pittsboro # 1,2,
-2,Victor G. Maurice Jr.,U.S. Senate,,D,Calhoun,Pittsboro # 1,1,
-2,Omeria Scott,U.S. Senate,,D,Calhoun,Pittsboro # 1,14,
-2,Howard Sherman,U.S. Senate,,D,Calhoun,Pittsboro # 1,32,
-2,David Baria,U.S. Senate,,D,Calhoun,Pittsboro # 2,3,
-2,Jensen Bohren,U.S. Senate,,D,Calhoun,Pittsboro # 2,0,
-2,Jerone Garland,U.S. Senate,,D,Calhoun,Pittsboro # 2,0,
-2,Victor G. Maurice Jr.,U.S. Senate,,D,Calhoun,Pittsboro # 2,0,
-2,Omeria Scott,U.S. Senate,,D,Calhoun,Pittsboro # 2,6,
-2,Howard Sherman,U.S. Senate,,D,Calhoun,Pittsboro # 2,3,
-2,David Baria,U.S. Senate,,D,Calhoun,Vardaman,7,
-2,Jensen Bohren,U.S. Senate,,D,Calhoun,Vardaman,0,
-2,Jerone Garland,U.S. Senate,,D,Calhoun,Vardaman,0,
-2,Victor G. Maurice Jr.,U.S. Senate,,D,Calhoun,Vardaman,0,
-2,Omeria Scott,U.S. Senate,,D,Calhoun,Vardaman,2,
-2,Howard Sherman,U.S. Senate,,D,Calhoun,Vardaman,13,
-2,David Baria,U.S. Senate,,D,Calhoun,TOTAL ,55,
-2,Jensen Bohren,U.S. Senate,,D,Calhoun,TOTAL ,8,
-2,Jerone Garland,U.S. Senate,,D,Calhoun,TOTAL ,9,
-2,Victor G. Maurice Jr.,U.S. Senate,,D,Calhoun,TOTAL ,7,
-2,Omeria Scott,U.S. Senate,,D,Calhoun,TOTAL ,55,
-2,Howard Sherman,U.S. Senate,,D,Calhoun,TOTAL ,105,
-2,Randy Mack Wadkins,U.S. House,01,D,Calhoun,Banner,9,
-2,Randy Mack Wadkins,U.S. House,01,D,Calhoun,Bruce # 3,25,
-2,Randy Mack Wadkins,U.S. House,01,D,Calhoun,Calhoun City # 1,33,
-2,Randy Mack Wadkins,U.S. House,01,D,Calhoun,Calhoun City 4,15,
-2,Randy Mack Wadkins,U.S. House,01,D,Calhoun,Derma # 4,6,
-2,Randy Mack Wadkins,U.S. House,01,D,Calhoun,Derma # 5,8,
-2,Randy Mack Wadkins,U.S. House,01,D,Calhoun,Northeast Calhoun,11,
-2,Randy Mack Wadkins,U.S. House,01,D,Calhoun,Pittsboro # 1,47,
-2,Randy Mack Wadkins,U.S. House,01,D,Calhoun,Pittsboro # 2,7,
-2,Randy Mack Wadkins,U.S. House,01,D,Calhoun,Vardaman,14,
-2,Randy Mack Wadkins,U.S. House,01,D,Calhoun,TOTAL ,175,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
+county,precinct,office,district,party,candidate,votes
+Calhoun,Banner,U.S. House,1,DEM,Randy Mack Wadkins,9
+Calhoun,Banner,U.S. House,1,REP,Trent Kelly,70
+Calhoun,Banner,U.S. Senate,,DEM,David Baria,3
+Calhoun,Banner,U.S. Senate,,DEM,Howard Sherman,5
+Calhoun,Banner,U.S. Senate,,DEM,Jensen Bohren,0
+Calhoun,Banner,U.S. Senate,,DEM,Jerone Garland,0
+Calhoun,Banner,U.S. Senate,,DEM,Omeria Scott,1
+Calhoun,Banner,U.S. Senate,,DEM,Victor G. Maurice Jr.,0
+Calhoun,Banner,U.S. Senate,,REP,Richard Warren Boyanton,10
+Calhoun,Banner,U.S. Senate,,REP,Roger F. Wicker,61
+Calhoun,Bruce # 3,U.S. House,1,DEM,Randy Mack Wadkins,25
+Calhoun,Bruce # 3,U.S. House,1,REP,Trent Kelly,111
+Calhoun,Bruce # 3,U.S. Senate,,DEM,David Baria,12
+Calhoun,Bruce # 3,U.S. Senate,,DEM,Howard Sherman,11
+Calhoun,Bruce # 3,U.S. Senate,,DEM,Jensen Bohren,2
+Calhoun,Bruce # 3,U.S. Senate,,DEM,Jerone Garland,4
+Calhoun,Bruce # 3,U.S. Senate,,DEM,Omeria Scott,3
+Calhoun,Bruce # 3,U.S. Senate,,DEM,Victor G. Maurice Jr.,2
+Calhoun,Bruce # 3,U.S. Senate,,REP,Richard Warren Boyanton,19
+Calhoun,Bruce # 3,U.S. Senate,,REP,Roger F. Wicker,97
+Calhoun,Calhoun City # 1,U.S. House,1,DEM,Randy Mack Wadkins,33
+Calhoun,Calhoun City # 1,U.S. House,1,REP,Trent Kelly,37
+Calhoun,Calhoun City # 1,U.S. Senate,,DEM,David Baria,7
+Calhoun,Calhoun City # 1,U.S. Senate,,DEM,Howard Sherman,14
+Calhoun,Calhoun City # 1,U.S. Senate,,DEM,Jensen Bohren,1
+Calhoun,Calhoun City # 1,U.S. Senate,,DEM,Jerone Garland,3
+Calhoun,Calhoun City # 1,U.S. Senate,,DEM,Omeria Scott,19
+Calhoun,Calhoun City # 1,U.S. Senate,,DEM,Victor G. Maurice Jr.,2
+Calhoun,Calhoun City # 1,U.S. Senate,,REP,Richard Warren Boyanton,7
+Calhoun,Calhoun City # 1,U.S. Senate,,REP,Roger F. Wicker,31
+Calhoun,Calhoun City 4,U.S. House,1,DEM,Randy Mack Wadkins,15
+Calhoun,Calhoun City 4,U.S. House,1,REP,Trent Kelly,123
+Calhoun,Calhoun City 4,U.S. Senate,,DEM,David Baria,3
+Calhoun,Calhoun City 4,U.S. Senate,,DEM,Howard Sherman,12
+Calhoun,Calhoun City 4,U.S. Senate,,DEM,Jensen Bohren,1
+Calhoun,Calhoun City 4,U.S. Senate,,DEM,Jerone Garland,0
+Calhoun,Calhoun City 4,U.S. Senate,,DEM,Omeria Scott,6
+Calhoun,Calhoun City 4,U.S. Senate,,DEM,Victor G. Maurice Jr.,1
+Calhoun,Calhoun City 4,U.S. Senate,,REP,Richard Warren Boyanton,16
+Calhoun,Calhoun City 4,U.S. Senate,,REP,Roger F. Wicker,113
+Calhoun,Derma # 4,U.S. House,1,DEM,Randy Mack Wadkins,6
+Calhoun,Derma # 4,U.S. House,1,REP,Trent Kelly,68
+Calhoun,Derma # 4,U.S. Senate,,DEM,David Baria,5
+Calhoun,Derma # 4,U.S. Senate,,DEM,Howard Sherman,3
+Calhoun,Derma # 4,U.S. Senate,,DEM,Jensen Bohren,0
+Calhoun,Derma # 4,U.S. Senate,,DEM,Jerone Garland,0
+Calhoun,Derma # 4,U.S. Senate,,DEM,Omeria Scott,1
+Calhoun,Derma # 4,U.S. Senate,,DEM,Victor G. Maurice Jr.,0
+Calhoun,Derma # 4,U.S. Senate,,REP,Richard Warren Boyanton,10
+Calhoun,Derma # 4,U.S. Senate,,REP,Roger F. Wicker,63
+Calhoun,Derma # 5,U.S. House,1,DEM,Randy Mack Wadkins,8
+Calhoun,Derma # 5,U.S. House,1,REP,Trent Kelly,62
+Calhoun,Derma # 5,U.S. Senate,,DEM,David Baria,2
+Calhoun,Derma # 5,U.S. Senate,,DEM,Howard Sherman,5
+Calhoun,Derma # 5,U.S. Senate,,DEM,Jensen Bohren,1
+Calhoun,Derma # 5,U.S. Senate,,DEM,Jerone Garland,0
+Calhoun,Derma # 5,U.S. Senate,,DEM,Omeria Scott,1
+Calhoun,Derma # 5,U.S. Senate,,DEM,Victor G. Maurice Jr.,1
+Calhoun,Derma # 5,U.S. Senate,,REP,Richard Warren Boyanton,2
+Calhoun,Derma # 5,U.S. Senate,,REP,Roger F. Wicker,62
+Calhoun,Northeast Calhoun,U.S. House,1,DEM,Randy Mack Wadkins,11
+Calhoun,Northeast Calhoun,U.S. House,1,REP,Trent Kelly,106
+Calhoun,Northeast Calhoun,U.S. Senate,,DEM,David Baria,5
+Calhoun,Northeast Calhoun,U.S. Senate,,DEM,Howard Sherman,7
+Calhoun,Northeast Calhoun,U.S. Senate,,DEM,Jensen Bohren,0
+Calhoun,Northeast Calhoun,U.S. Senate,,DEM,Jerone Garland,0
+Calhoun,Northeast Calhoun,U.S. Senate,,DEM,Omeria Scott,2
+Calhoun,Northeast Calhoun,U.S. Senate,,DEM,Victor G. Maurice Jr.,0
+Calhoun,Northeast Calhoun,U.S. Senate,,REP,Richard Warren Boyanton,9
+Calhoun,Northeast Calhoun,U.S. Senate,,REP,Roger F. Wicker,102
+Calhoun,Pittsboro # 1,U.S. House,1,DEM,Randy Mack Wadkins,47
+Calhoun,Pittsboro # 1,U.S. House,1,REP,Trent Kelly,17
+Calhoun,Pittsboro # 1,U.S. Senate,,DEM,David Baria,8
+Calhoun,Pittsboro # 1,U.S. Senate,,DEM,Howard Sherman,32
+Calhoun,Pittsboro # 1,U.S. Senate,,DEM,Jensen Bohren,3
+Calhoun,Pittsboro # 1,U.S. Senate,,DEM,Jerone Garland,2
+Calhoun,Pittsboro # 1,U.S. Senate,,DEM,Omeria Scott,14
+Calhoun,Pittsboro # 1,U.S. Senate,,DEM,Victor G. Maurice Jr.,1
+Calhoun,Pittsboro # 1,U.S. Senate,,REP,Richard Warren Boyanton,4
+Calhoun,Pittsboro # 1,U.S. Senate,,REP,Roger F. Wicker,14
+Calhoun,Pittsboro # 2,U.S. House,1,DEM,Randy Mack Wadkins,7
+Calhoun,Pittsboro # 2,U.S. House,1,REP,Trent Kelly,57
+Calhoun,Pittsboro # 2,U.S. Senate,,DEM,David Baria,3
+Calhoun,Pittsboro # 2,U.S. Senate,,DEM,Howard Sherman,3
+Calhoun,Pittsboro # 2,U.S. Senate,,DEM,Jensen Bohren,0
+Calhoun,Pittsboro # 2,U.S. Senate,,DEM,Jerone Garland,0
+Calhoun,Pittsboro # 2,U.S. Senate,,DEM,Omeria Scott,6
+Calhoun,Pittsboro # 2,U.S. Senate,,DEM,Victor G. Maurice Jr.,0
+Calhoun,Pittsboro # 2,U.S. Senate,,REP,Richard Warren Boyanton,6
+Calhoun,Pittsboro # 2,U.S. Senate,,REP,Roger F. Wicker,53
+Calhoun,Total,U.S. House,1,DEM,Randy Mack Wadkins,175
+Calhoun,Total,U.S. House,1,REP,Trent Kelly,710
+Calhoun,Total,U.S. Senate,,DEM,David Baria,55
+Calhoun,Total,U.S. Senate,,DEM,Howard Sherman,105
+Calhoun,Total,U.S. Senate,,DEM,Jensen Bohren,8
+Calhoun,Total,U.S. Senate,,DEM,Jerone Garland,9
+Calhoun,Total,U.S. Senate,,DEM,Omeria Scott,55
+Calhoun,Total,U.S. Senate,,DEM,Victor G. Maurice Jr.,7
+Calhoun,Total,U.S. Senate,,REP,Richard Warren Boyanton,88
+Calhoun,Total,U.S. Senate,,REP,Roger F. Wicker,653
+Calhoun,Vardaman,U.S. House,1,DEM,Randy Mack Wadkins,14
+Calhoun,Vardaman,U.S. House,1,REP,Trent Kelly,59
+Calhoun,Vardaman,U.S. Senate,,DEM,David Baria,7
+Calhoun,Vardaman,U.S. Senate,,DEM,Howard Sherman,13
+Calhoun,Vardaman,U.S. Senate,,DEM,Jensen Bohren,0
+Calhoun,Vardaman,U.S. Senate,,DEM,Jerone Garland,0
+Calhoun,Vardaman,U.S. Senate,,DEM,Omeria Scott,2
+Calhoun,Vardaman,U.S. Senate,,DEM,Victor G. Maurice Jr.,0
+Calhoun,Vardaman,U.S. Senate,,REP,Richard Warren Boyanton,5
+Calhoun,Vardaman,U.S. Senate,,REP,Roger F. Wicker,57

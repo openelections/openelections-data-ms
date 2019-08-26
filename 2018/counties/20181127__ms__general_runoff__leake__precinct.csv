@@ -1,127 +1,41 @@
-Page,candidate,office,district,party,county,precinct,votes,winner
-2,Mike Espy,U.S. Senate,Unexpired Term,,Leake,Conway,233,
-2,Cindy Hyde-Smith,U.S. Senate,Unexpired Term,,Leake,Conway,79,
-2,Mike Espy,U.S. Senate,Unexpired Term,,Leake,East Carthage ,111,
-2,Cindy Hyde-Smith,U.S. Senate,Unexpired Term,,Leake,East Carthage ,363,
-2,Mike Espy,U.S. Senate,Unexpired Term,,Leake,Edinburg,13,
-2,Cindy Hyde-Smith,U.S. Senate,Unexpired Term,,Leake,Edinburg,271,
-2,Mike Espy,U.S. Senate,Unexpired Term,,Leake,Freeny,90,
-2,Cindy Hyde-Smith,U.S. Senate,Unexpired Term,,Leake,Freeny,299,
-2,Mike Espy,U.S. Senate,Unexpired Term,,Leake,Good Hope,91,
-2,Cindy Hyde-Smith,U.S. Senate,Unexpired Term,,Leake,Good Hope,275,
-2,Mike Espy,U.S. Senate,Unexpired Term,,Leake,Harmony,166,
-2,Cindy Hyde-Smith,U.S. Senate,Unexpired Term,,Leake,Harmony,61,
-2,Mike Espy,U.S. Senate,Unexpired Term,,Leake,Lena,175,
-2,Cindy Hyde-Smith,U.S. Senate,Unexpired Term,,Leake,Lena,134,
-2,Mike Espy,U.S. Senate,Unexpired Term,,Leake,Madden,84,
-2,Cindy Hyde-Smith,U.S. Senate,Unexpired Term,,Leake,Madden,262,
-2,Mike Espy,U.S. Senate,Unexpired Term,,Leake,North Carthage ,237,
-2,Cindy Hyde-Smith,U.S. Senate,Unexpired Term,,Leake,North Carthage ,269,
-2,Mike Espy,U.S. Senate,Unexpired Term,,Leake,Ofahoma,238,
-2,Cindy Hyde-Smith,U.S. Senate,Unexpired Term,,Leake,Ofahoma,31,
-2,Mike Espy,U.S. Senate,Unexpired Term,,Leake,Renfroe,50,
-2,Cindy Hyde-Smith,U.S. Senate,Unexpired Term,,Leake,Renfroe,193,
-3,Mike Espy,U.S. Senate,Unexpired Term,,Leake,Salem,21,
-3,Cindy Hyde-Smith,U.S. Senate,Unexpired Term,,Leake,Salem,199,
-3,Mike Espy,U.S. Senate,Unexpired Term,,Leake,Singleton,131,
-3,Cindy Hyde-Smith,U.S. Senate,Unexpired Term,,Leake,Singleton,287,
-3,Mike Espy,U.S. Senate,Unexpired Term,,Leake,South Carthage,84,
-3,Cindy Hyde-Smith,U.S. Senate,Unexpired Term,,Leake,South Carthage,145,
-3,Mike Espy,U.S. Senate,Unexpired Term,,Leake,Sunrise,13,
-3,Cindy Hyde-Smith,U.S. Senate,Unexpired Term,,Leake,Sunrise,235,
-3,Mike Espy,U.S. Senate,Unexpired Term,,Leake,Thomastown,182,
-3,Cindy Hyde-Smith,U.S. Senate,Unexpired Term,,Leake,Thomastown,118,
-3,Mike Espy,U.S. Senate,Unexpired Term,,Leake,Walnut Grove,481,
-3,Cindy Hyde-Smith,U.S. Senate,Unexpired Term,,Leake,Walnut Grove,121,
-3,Mike Espy,U.S. Senate,Unexpired Term,,Leake,West Carthage,502,
-3,Cindy Hyde-Smith,U.S. Senate,Unexpired Term,,Leake,West Carthage,100,
-3,Mike Espy,U.S. Senate,Unexpired Term,,Leake,Wiggins,197,
-3,Cindy Hyde-Smith,U.S. Senate,Unexpired Term,,Leake,Wiggins,92,
-3,Mike Espy,U.S. Senate,Unexpired Term,,Leake,TOTAL ,3099,
-3,Cindy Hyde-Smith,U.S. Senate,Unexpired Term,,Leake,TOTAL ,3534,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
+county,precinct,office,district,party,candidate,votes
+Leake,Conway,U.S. Senate,Unexpired Term,,Cindy Hyde-Smith,79
+Leake,Conway,U.S. Senate,Unexpired Term,,Mike Espy,233
+Leake,East Carthage,U.S. Senate,Unexpired Term,,Cindy Hyde-Smith,363
+Leake,East Carthage,U.S. Senate,Unexpired Term,,Mike Espy,111
+Leake,Edinburg,U.S. Senate,Unexpired Term,,Cindy Hyde-Smith,271
+Leake,Edinburg,U.S. Senate,Unexpired Term,,Mike Espy,13
+Leake,Freeny,U.S. Senate,Unexpired Term,,Cindy Hyde-Smith,299
+Leake,Freeny,U.S. Senate,Unexpired Term,,Mike Espy,90
+Leake,Good Hope,U.S. Senate,Unexpired Term,,Cindy Hyde-Smith,275
+Leake,Good Hope,U.S. Senate,Unexpired Term,,Mike Espy,91
+Leake,Harmony,U.S. Senate,Unexpired Term,,Cindy Hyde-Smith,61
+Leake,Harmony,U.S. Senate,Unexpired Term,,Mike Espy,166
+Leake,Lena,U.S. Senate,Unexpired Term,,Cindy Hyde-Smith,134
+Leake,Lena,U.S. Senate,Unexpired Term,,Mike Espy,175
+Leake,Madden,U.S. Senate,Unexpired Term,,Cindy Hyde-Smith,262
+Leake,Madden,U.S. Senate,Unexpired Term,,Mike Espy,84
+Leake,North Carthage,U.S. Senate,Unexpired Term,,Cindy Hyde-Smith,269
+Leake,North Carthage,U.S. Senate,Unexpired Term,,Mike Espy,237
+Leake,Ofahoma,U.S. Senate,Unexpired Term,,Cindy Hyde-Smith,31
+Leake,Ofahoma,U.S. Senate,Unexpired Term,,Mike Espy,238
+Leake,Renfroe,U.S. Senate,Unexpired Term,,Cindy Hyde-Smith,193
+Leake,Renfroe,U.S. Senate,Unexpired Term,,Mike Espy,50
+Leake,Salem,U.S. Senate,Unexpired Term,,Cindy Hyde-Smith,199
+Leake,Salem,U.S. Senate,Unexpired Term,,Mike Espy,21
+Leake,Singleton,U.S. Senate,Unexpired Term,,Cindy Hyde-Smith,287
+Leake,Singleton,U.S. Senate,Unexpired Term,,Mike Espy,131
+Leake,South Carthage,U.S. Senate,Unexpired Term,,Cindy Hyde-Smith,145
+Leake,South Carthage,U.S. Senate,Unexpired Term,,Mike Espy,84
+Leake,Sunrise,U.S. Senate,Unexpired Term,,Cindy Hyde-Smith,235
+Leake,Sunrise,U.S. Senate,Unexpired Term,,Mike Espy,13
+Leake,Thomastown,U.S. Senate,Unexpired Term,,Cindy Hyde-Smith,118
+Leake,Thomastown,U.S. Senate,Unexpired Term,,Mike Espy,182
+Leake,Total,U.S. Senate,Unexpired Term,,Cindy Hyde-Smith,3534
+Leake,Total,U.S. Senate,Unexpired Term,,Mike Espy,3099
+Leake,Walnut Grove,U.S. Senate,Unexpired Term,,Cindy Hyde-Smith,121
+Leake,Walnut Grove,U.S. Senate,Unexpired Term,,Mike Espy,481
+Leake,West Carthage,U.S. Senate,Unexpired Term,,Cindy Hyde-Smith,100
+Leake,West Carthage,U.S. Senate,Unexpired Term,,Mike Espy,502
+Leake,Wiggins,U.S. Senate,Unexpired Term,,Cindy Hyde-Smith,92
+Leake,Wiggins,U.S. Senate,Unexpired Term,,Mike Espy,197

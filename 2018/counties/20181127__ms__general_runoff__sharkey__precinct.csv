@@ -1,23 +1,23 @@
-Page,candidate,office,district,party,county,precinct,votes,winner
-2,Mike Espy,U.S. Senate,Unexpired Term,,Sharkey,Anguilla Fifth District,158,
-2,Cindy Hyde-Smith,U.S. Senate,Unexpired Term,,Sharkey,Anguilla Fifth District,23,
-2,Mike Espy,U.S. Senate,Unexpired Term,,Sharkey,Anguilla Fourth District,156,
-2,Cindy Hyde-Smith,U.S. Senate,Unexpired Term,,Sharkey,Anguilla Fourth District,91,
-2,Mike Espy,U.S. Senate,Unexpired Term,,Sharkey,Cary Second District,180,
-2,Cindy Hyde-Smith,U.S. Senate,Unexpired Term,,Sharkey,Cary Second District,47,
-2,Mike Espy,U.S. Senate,Unexpired Term,,Sharkey,Delta City Fifth District,121,
-2,Cindy Hyde-Smith,U.S. Senate,Unexpired Term,,Sharkey,Delta City Fifth District,69,
-2,Mike Espy,U.S. Senate,Unexpired Term,,Sharkey,Rolling Fork First District,182,
-2,Cindy Hyde-Smith,U.S. Senate,Unexpired Term,,Sharkey,Rolling Fork First District,184,
-2,Mike Espy,U.S. Senate,Unexpired Term,,Sharkey,Rolling Fork Fourth District,67,
-2,Cindy Hyde-Smith,U.S. Senate,Unexpired Term,,Sharkey,Rolling Fork Fourth District,1,
-2,Mike Espy,U.S. Senate,Unexpired Term,,Sharkey,Rolling Fork Second District,42,
-2,Cindy Hyde-Smith,U.S. Senate,Unexpired Term,,Sharkey,Rolling Fork Second District,0,
-2,Mike Espy,U.S. Senate,Unexpired Term,,Sharkey,Rolling Fork Third District,249,
-2,Cindy Hyde-Smith,U.S. Senate,Unexpired Term,,Sharkey,Rolling Fork Third District,14,
-2,Mike Espy,U.S. Senate,Unexpired Term,,Sharkey,Spanish Fort First District,2,
-2,Cindy Hyde-Smith,U.S. Senate,Unexpired Term,,Sharkey,Spanish Fort First District,24,
-2,Mike Espy,U.S. Senate,Unexpired Term,,Sharkey,Straight Bayou Fourth District,35,
-2,Cindy Hyde-Smith,U.S. Senate,Unexpired Term,,Sharkey,Straight Bayou Fourth District,43,
-2,Mike Espy,U.S. Senate,Unexpired Term,,Sharkey,TOTAL ,1192,
-2,Cindy Hyde-Smith,U.S. Senate,Unexpired Term,,Sharkey,TOTAL ,496,
+county,precinct,office,district,party,candidate,votes
+Sharkey,Anguilla Fifth District,U.S. Senate,Unexpired Term,,Cindy Hyde-Smith,23
+Sharkey,Anguilla Fifth District,U.S. Senate,Unexpired Term,,Mike Espy,158
+Sharkey,Anguilla Fourth District,U.S. Senate,Unexpired Term,,Cindy Hyde-Smith,91
+Sharkey,Anguilla Fourth District,U.S. Senate,Unexpired Term,,Mike Espy,156
+Sharkey,Cary Second District,U.S. Senate,Unexpired Term,,Cindy Hyde-Smith,47
+Sharkey,Cary Second District,U.S. Senate,Unexpired Term,,Mike Espy,180
+Sharkey,Delta City Fifth District,U.S. Senate,Unexpired Term,,Cindy Hyde-Smith,69
+Sharkey,Delta City Fifth District,U.S. Senate,Unexpired Term,,Mike Espy,121
+Sharkey,Rolling Fork First District,U.S. Senate,Unexpired Term,,Cindy Hyde-Smith,184
+Sharkey,Rolling Fork First District,U.S. Senate,Unexpired Term,,Mike Espy,182
+Sharkey,Rolling Fork Fourth District,U.S. Senate,Unexpired Term,,Cindy Hyde-Smith,1
+Sharkey,Rolling Fork Fourth District,U.S. Senate,Unexpired Term,,Mike Espy,67
+Sharkey,Rolling Fork Second District,U.S. Senate,Unexpired Term,,Cindy Hyde-Smith,0
+Sharkey,Rolling Fork Second District,U.S. Senate,Unexpired Term,,Mike Espy,42
+Sharkey,Rolling Fork Third District,U.S. Senate,Unexpired Term,,Cindy Hyde-Smith,14
+Sharkey,Rolling Fork Third District,U.S. Senate,Unexpired Term,,Mike Espy,249
+Sharkey,Spanish Fort First District,U.S. Senate,Unexpired Term,,Cindy Hyde-Smith,24
+Sharkey,Spanish Fort First District,U.S. Senate,Unexpired Term,,Mike Espy,2
+Sharkey,Straight Bayou Fourth District,U.S. Senate,Unexpired Term,,Cindy Hyde-Smith,43
+Sharkey,Straight Bayou Fourth District,U.S. Senate,Unexpired Term,,Mike Espy,35
+Sharkey,Total,U.S. Senate,Unexpired Term,,Cindy Hyde-Smith,496
+Sharkey,Total,U.S. Senate,Unexpired Term,,Mike Espy,1192

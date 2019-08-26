@@ -1,49 +1,49 @@
-Page,candidate,office,district,party,county,precinct,votes,winner
-2,Mike Espy,U.S. Senate,Unexpired Term,,Yazoo,Benton,184,
-2,Cindy Hyde-Smith,U.S. Senate,Unexpired Term,,Yazoo,Benton,358,
-2,Mike Espy,U.S. Senate,Unexpired Term,,Yazoo,Center Ridge,60,
-2,Cindy Hyde-Smith,U.S. Senate,Unexpired Term,,Yazoo,Center Ridge,253,
-2,Mike Espy,U.S. Senate,Unexpired Term,,Yazoo,Deasonville,346,
-2,Cindy Hyde-Smith,U.S. Senate,Unexpired Term,,Yazoo,Deasonville,197,
-2,Mike Espy,U.S. Senate,Unexpired Term,,Yazoo,East Bentonia,100,
-2,Cindy Hyde-Smith,U.S. Senate,Unexpired Term,,Yazoo,East Bentonia,134,
-2,Mike Espy,U.S. Senate,Unexpired Term,,Yazoo,Eden,54,
-2,Cindy Hyde-Smith,U.S. Senate,Unexpired Term,,Yazoo,Eden,144,
-2,Mike Espy,U.S. Senate,Unexpired Term,,Yazoo,Free Run,20,
-2,Cindy Hyde-Smith,U.S. Senate,Unexpired Term,,Yazoo,Free Run,85,
-2,Mike Espy,U.S. Senate,Unexpired Term,,Yazoo,Fugates,150,
-2,Cindy Hyde-Smith,U.S. Senate,Unexpired Term,,Yazoo,Fugates,146,
-2,Mike Espy,U.S. Senate,Unexpired Term,,Yazoo,Holly Bluff,56,
-2,Cindy Hyde-Smith,U.S. Senate,Unexpired Term,,Yazoo,Holly Bluff,79,
-2,Mike Espy,U.S. Senate,Unexpired Term,,Yazoo,Jonestown,281,
-2,Cindy Hyde-Smith,U.S. Senate,Unexpired Term,,Yazoo,Jonestown,2,
-2,Mike Espy,U.S. Senate,Unexpired Term,,Yazoo,Little Yazoo,73,
-2,Cindy Hyde-Smith,U.S. Senate,Unexpired Term,,Yazoo,Little Yazoo,428,
-2,Mike Espy,U.S. Senate,Unexpired Term,,Yazoo,Lake City,31,
-2,Cindy Hyde-Smith,U.S. Senate,Unexpired Term,,Yazoo,Lake City,105,
-3,Mike Espy,U.S. Senate,Unexpired Term,,Yazoo,Mechanicsburg,36,
-3,Cindy Hyde-Smith,U.S. Senate,Unexpired Term,,Yazoo,Mechanicsburg,320,
-3,Mike Espy,U.S. Senate,Unexpired Term,,Yazoo,Midway,183,
-3,Cindy Hyde-Smith,U.S. Senate,Unexpired Term,,Yazoo,Midway,173,
-3,Mike Espy,U.S. Senate,Unexpired Term,,Yazoo,Mound St. Building,247,
-3,Cindy Hyde-Smith,U.S. Senate,Unexpired Term,,Yazoo,Mound St. Building,3,
-3,Mike Espy,U.S. Senate,Unexpired Term,,Yazoo,N D Taylor Gym,910,
-3,Cindy Hyde-Smith,U.S. Senate,Unexpired Term,,Yazoo,N D Taylor Gym,10,
-3,Mike Espy,U.S. Senate,Unexpired Term,,Yazoo,Old Jr. High,406,
-3,Cindy Hyde-Smith,U.S. Senate,Unexpired Term,,Yazoo,Old Jr. High,52,
-3,Mike Espy,U.S. Senate,Unexpired Term,,Yazoo,Satartia,14,
-3,Cindy Hyde-Smith,U.S. Senate,Unexpired Term,,Yazoo,Satartia,32,
-3,Mike Espy,U.S. Senate,Unexpired Term,,Yazoo,Teen Center,805,
-3,Cindy Hyde-Smith,U.S. Senate,Unexpired Term,,Yazoo,Teen Center,213,
-3,Mike Espy,U.S. Senate,Unexpired Term,,Yazoo,Valley,10,
-3,Cindy Hyde-Smith,U.S. Senate,Unexpired Term,,Yazoo,Valley,103,
-3,Mike Espy,U.S. Senate,Unexpired Term,,Yazoo,Washington St. Fire Station,152,
-3,Cindy Hyde-Smith,U.S. Senate,Unexpired Term,,Yazoo,Washington St. Fire Station,122,
-3,Mike Espy,U.S. Senate,Unexpired Term,,Yazoo,Welfare Office,183,
-3,Cindy Hyde-Smith,U.S. Senate,Unexpired Term,,Yazoo,Welfare Office,200,
-3,Mike Espy,U.S. Senate,Unexpired Term,,Yazoo,West Bentonia,262,
-3,Cindy Hyde-Smith,U.S. Senate,Unexpired Term,,Yazoo,West Bentonia,159,
-4,Mike Espy,U.S. Senate,Unexpired Term,,Yazoo,Zion,44,
-4,Cindy Hyde-Smith,U.S. Senate,Unexpired Term,,Yazoo,Zion,124,
-4,Mike Espy,U.S. Senate,Unexpired Term,,Yazoo,TOTAL ,4607,
-4,Cindy Hyde-Smith,U.S. Senate,Unexpired Term,,Yazoo,TOTAL ,3448,
+county,precinct,office,district,party,candidate,votes
+Yazoo,Benton,U.S. Senate,Unexpired Term,,Cindy Hyde-Smith,358
+Yazoo,Benton,U.S. Senate,Unexpired Term,,Mike Espy,184
+Yazoo,Center Ridge,U.S. Senate,Unexpired Term,,Cindy Hyde-Smith,253
+Yazoo,Center Ridge,U.S. Senate,Unexpired Term,,Mike Espy,60
+Yazoo,Deasonville,U.S. Senate,Unexpired Term,,Cindy Hyde-Smith,197
+Yazoo,Deasonville,U.S. Senate,Unexpired Term,,Mike Espy,346
+Yazoo,East Bentonia,U.S. Senate,Unexpired Term,,Cindy Hyde-Smith,134
+Yazoo,East Bentonia,U.S. Senate,Unexpired Term,,Mike Espy,100
+Yazoo,Eden,U.S. Senate,Unexpired Term,,Cindy Hyde-Smith,144
+Yazoo,Eden,U.S. Senate,Unexpired Term,,Mike Espy,54
+Yazoo,Free Run,U.S. Senate,Unexpired Term,,Cindy Hyde-Smith,85
+Yazoo,Free Run,U.S. Senate,Unexpired Term,,Mike Espy,20
+Yazoo,Fugates,U.S. Senate,Unexpired Term,,Cindy Hyde-Smith,146
+Yazoo,Fugates,U.S. Senate,Unexpired Term,,Mike Espy,150
+Yazoo,Holly Bluff,U.S. Senate,Unexpired Term,,Cindy Hyde-Smith,79
+Yazoo,Holly Bluff,U.S. Senate,Unexpired Term,,Mike Espy,56
+Yazoo,Jonestown,U.S. Senate,Unexpired Term,,Cindy Hyde-Smith,2
+Yazoo,Jonestown,U.S. Senate,Unexpired Term,,Mike Espy,281
+Yazoo,Lake City,U.S. Senate,Unexpired Term,,Cindy Hyde-Smith,105
+Yazoo,Lake City,U.S. Senate,Unexpired Term,,Mike Espy,31
+Yazoo,Little Yazoo,U.S. Senate,Unexpired Term,,Cindy Hyde-Smith,428
+Yazoo,Little Yazoo,U.S. Senate,Unexpired Term,,Mike Espy,73
+Yazoo,Mechanicsburg,U.S. Senate,Unexpired Term,,Cindy Hyde-Smith,320
+Yazoo,Mechanicsburg,U.S. Senate,Unexpired Term,,Mike Espy,36
+Yazoo,Midway,U.S. Senate,Unexpired Term,,Cindy Hyde-Smith,173
+Yazoo,Midway,U.S. Senate,Unexpired Term,,Mike Espy,183
+Yazoo,Mound St. Building,U.S. Senate,Unexpired Term,,Cindy Hyde-Smith,3
+Yazoo,Mound St. Building,U.S. Senate,Unexpired Term,,Mike Espy,247
+Yazoo,N D Taylor Gym,U.S. Senate,Unexpired Term,,Cindy Hyde-Smith,10
+Yazoo,N D Taylor Gym,U.S. Senate,Unexpired Term,,Mike Espy,910
+Yazoo,Old Jr. High,U.S. Senate,Unexpired Term,,Cindy Hyde-Smith,52
+Yazoo,Old Jr. High,U.S. Senate,Unexpired Term,,Mike Espy,406
+Yazoo,Satartia,U.S. Senate,Unexpired Term,,Cindy Hyde-Smith,32
+Yazoo,Satartia,U.S. Senate,Unexpired Term,,Mike Espy,14
+Yazoo,Teen Center,U.S. Senate,Unexpired Term,,Cindy Hyde-Smith,213
+Yazoo,Teen Center,U.S. Senate,Unexpired Term,,Mike Espy,805
+Yazoo,Total,U.S. Senate,Unexpired Term,,Cindy Hyde-Smith,3448
+Yazoo,Total,U.S. Senate,Unexpired Term,,Mike Espy,4607
+Yazoo,Valley,U.S. Senate,Unexpired Term,,Cindy Hyde-Smith,109
+Yazoo,Valley,U.S. Senate,Unexpired Term,,Mike Espy,10
+Yazoo,Washington St. Fire Station,U.S. Senate,Unexpired Term,,Cindy Hyde-Smith,122
+Yazoo,Washington St. Fire Station,U.S. Senate,Unexpired Term,,Mike Espy,152
+Yazoo,Welfare Office,U.S. Senate,Unexpired Term,,Cindy Hyde-Smith,200
+Yazoo,Welfare Office,U.S. Senate,Unexpired Term,,Mike Espy,183
+Yazoo,West Bentonia,U.S. Senate,Unexpired Term,,Cindy Hyde-Smith,159
+Yazoo,West Bentonia,U.S. Senate,Unexpired Term,,Mike Espy,262
+Yazoo,Zion,U.S. Senate,Unexpired Term,,Cindy Hyde-Smith,124
+Yazoo,Zion,U.S. Senate,Unexpired Term,,Mike Espy,44

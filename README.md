@@ -16,6 +16,7 @@ Converted CSVs of Mississippi election results.
 | 2010  |  done | not started |
 | 2008  |  done | [working](https://github.com/openelections/openelections-data-ms/issues/83) |
 | 2007  |  not started | not started |
+| 2006  |  not started | working |
 
 
 ## County Results

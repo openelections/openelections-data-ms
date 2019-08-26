@@ -215,24 +215,24 @@ Tallahatchie,Cascilla,Commissioner of Agriculture & Commerce,,Reform,Cathy L. To
 Tallahatchie,Cascilla,Commissioner of Insurance,,Republican,Mike Chaney,122
 Tallahatchie,Cascilla,Commissioner of Insurance,,Democrat,Louis Fondren,52
 Tallahatchie,Cascilla,Commissioner of Insurance,,Reform,Barbara Dale Washer,10
-Tallahatchie,Murphreesbore,Governor,,Republican,Phil Bryant,145
-Tallahatchie,Murphreesbore,Governor,,Democrat,Johnny L. DuPree,20
-Tallahatchie,Murphreesbore,Lieutenant Governor,,Republican,Tate Reeves,148
-Tallahatchie,Murphreesbore,Lieutenant Governor,,Reform,Tracella Lou O'Hara Hill,11
-Tallahatchie,Murphreesbore,Secretary of State,,Republican,Delbert Hosemann,141
-Tallahatchie,Murphreesbore,Attorney General,,Democrat,Jim Hood,85
-Tallahatchie,Murphreesbore,Attorney General,,Republican,Steve Simpson,79
-Tallahatchie,Murphreesbore,State Auditor,,Republican,Stacey E. Pickering,139
-Tallahatchie,Murphreesbore,State Auditor,,Reform,Ashley Norwood,18
-Tallahatchie,Murphreesbore,Treasurer,,Republican,Lynn Fitch,132
-Tallahatchie,Murphreesbore,Treasurer,,Democrat,Connie Moran,20
-Tallahatchie,Murphreesbore,Treasurer,,Reform,Shawn O'Hara,8
-Tallahatchie,Murphreesbore,Commissioner of Agriculture & Commerce,,Democrat,Joel Gill,38
-Tallahatchie,Murphreesbore,Commissioner of Agriculture & Commerce,,Republican,Cindy Hyde-Smith,115
-Tallahatchie,Murphreesbore,Commissioner of Agriculture & Commerce,,Reform,Cathy L. Toole,7
-Tallahatchie,Murphreesbore,Commissioner of Insurance,,Republican,Mike Chaney,143
-Tallahatchie,Murphreesbore,Commissioner of Insurance,,Democrat,Louis Fondren,15
-Tallahatchie,Murphreesbore,Commissioner of Insurance,,Reform,Barbara Dale Washer,2
+Tallahatchie,Murphreesboro,Governor,,Republican,Phil Bryant,145
+Tallahatchie,Murphreesboro,Governor,,Democrat,Johnny L. DuPree,20
+Tallahatchie,Murphreesboro,Lieutenant Governor,,Republican,Tate Reeves,148
+Tallahatchie,Murphreesboro,Lieutenant Governor,,Reform,Tracella Lou O'Hara Hill,11
+Tallahatchie,Murphreesboro,Secretary of State,,Republican,Delbert Hosemann,141
+Tallahatchie,Murphreesboro,Attorney General,,Democrat,Jim Hood,85
+Tallahatchie,Murphreesboro,Attorney General,,Republican,Steve Simpson,79
+Tallahatchie,Murphreesboro,State Auditor,,Republican,Stacey E. Pickering,139
+Tallahatchie,Murphreesboro,State Auditor,,Reform,Ashley Norwood,18
+Tallahatchie,Murphreesboro,Treasurer,,Republican,Lynn Fitch,132
+Tallahatchie,Murphreesboro,Treasurer,,Democrat,Connie Moran,20
+Tallahatchie,Murphreesboro,Treasurer,,Reform,Shawn O'Hara,8
+Tallahatchie,Murphreesboro,Commissioner of Agriculture & Commerce,,Democrat,Joel Gill,38
+Tallahatchie,Murphreesboro,Commissioner of Agriculture & Commerce,,Republican,Cindy Hyde-Smith,115
+Tallahatchie,Murphreesboro,Commissioner of Agriculture & Commerce,,Reform,Cathy L. Toole,7
+Tallahatchie,Murphreesboro,Commissioner of Insurance,,Republican,Mike Chaney,143
+Tallahatchie,Murphreesboro,Commissioner of Insurance,,Democrat,Louis Fondren,15
+Tallahatchie,Murphreesboro,Commissioner of Insurance,,Reform,Barbara Dale Washer,2
 Tallahatchie,Rosebloom,Governor,,Republican,Phil Bryant,82
 Tallahatchie,Rosebloom,Governor,,Democrat,Johnny L. DuPree,12
 Tallahatchie,Rosebloom,Lieutenant Governor,,Republican,Tate Reeves,88
@@ -395,3 +395,274 @@ Tallahatchie,Tutwiler,Commissioner of Agriculture & Commerce,,Reform,Cathy L. To
 Tallahatchie,Tutwiler,Commissioner of Insurance,,Republican,Mike Chaney,69
 Tallahatchie,Tutwiler,Commissioner of Insurance,,Democrat,Louis Fondren,290
 Tallahatchie,Tutwiler,Commissioner of Insurance,,Reform,Barbara Dale Washer,12
+Tallahatchie,Teasdale,State Senate,09,Democrat,Gray Tollison,191
+Tallahatchie,Enid,State Senate,09,Democrat,Gray Tollison,150
+Tallahatchie,Springhill,State Senate,09,Democrat,Gray Tollison,x
+Tallahatchie,Charleston Beat #1,State Senate,09,Democrat,Gray Tollison,369
+Tallahatchie,Charleston Beat #2,State Senate,09,Democrat,Gray Tollison,182
+Tallahatchie,Brazil,State Senate,09,Democrat,Gray Tollison,34
+Tallahatchie,Webb Beat #2,State Senate,09,Democrat,Gray Tollison,13
+Tallahatchie,Sumner Beat #2,State Senate,09,Democrat,Gray Tollison,x
+Tallahatchie,Charleston Beat #3,State Senate,09,Democrat,Gray Tollison,x
+Tallahatchie,Paynes,State Senate,09,Democrat,Gray Tollison,x
+Tallahatchie,Leverette,State Senate,09,Democrat,Gray Tollison,x
+Tallahatchie,Cascilla,State Senate,09,Democrat,Gray Tollison,x
+Tallahatchie,Murphreesboro,State Senate,09,Democrat,Gray Tollison,x
+Tallahatchie,Rosebloom,State Senate,09,Democrat,Gray Tollison,x
+Tallahatchie,Tippo,State Senate,09,Democrat,Gray Tollison,14
+Tallahatchie,Phillip,State Senate,09,Democrat,Gray Tollison,x
+Tallahatchie,Glendora,State Senate,09,Democrat,Gray Tollison,x
+Tallahatchie,Webb Beat #4,State Senate,09,Democrat,Gray Tollison,x
+Tallahatchie,Blue Cane,State Senate,09,Democrat,Gray Tollison,18
+Tallahatchie,Webb Beat #5,State Senate,09,Democrat,Gray Tollison,x
+Tallahatchie,Sumner Beat #5,State Senate,09,Democrat,Gray Tollison,x
+Tallahatchie,Tutwiler,State Senate,09,Democrat,Gray Tollison,x
+Tallahatchie,Teasdale,State Senate,14,Republican,Lydia Graves Chassaniol,x
+Tallahatchie,Enid,State Senate,14,Republican,Lydia Graves Chassaniol,x
+Tallahatchie,Springhill,State Senate,14,Republican,Lydia Graves Chassaniol,x
+Tallahatchie,Charleston Beat #1,State Senate,14,Republican,Lydia Graves Chassaniol,x
+Tallahatchie,Charleston Beat #2,State Senate,14,Republican,Lydia Graves Chassaniol,x
+Tallahatchie,Brazil,State Senate,14,Republican,Lydia Graves Chassaniol,x
+Tallahatchie,Webb Beat #2,State Senate,14,Republican,Lydia Graves Chassaniol,x
+Tallahatchie,Sumner Beat #2,State Senate,14,Republican,Lydia Graves Chassaniol,x
+Tallahatchie,Charleston Beat #3,State Senate,14,Republican,Lydia Graves Chassaniol,x
+Tallahatchie,Paynes,State Senate,14,Republican,Lydia Graves Chassaniol,x
+Tallahatchie,Leverette,State Senate,14,Republican,Lydia Graves Chassaniol,x
+Tallahatchie,Cascilla,State Senate,14,Republican,Lydia Graves Chassaniol,106
+Tallahatchie,Murphreesboro,State Senate,14,Republican,Lydia Graves Chassaniol,x
+Tallahatchie,Rosebloom,State Senate,14,Republican,Lydia Graves Chassaniol,76
+Tallahatchie,Tippo,State Senate,14,Republican,Lydia Graves Chassaniol,x
+Tallahatchie,Phillip,State Senate,14,Republican,Lydia Graves Chassaniol,x
+Tallahatchie,Glendora,State Senate,14,Republican,Lydia Graves Chassaniol,x
+Tallahatchie,Webb Beat #4,State Senate,14,Republican,Lydia Graves Chassaniol,x
+Tallahatchie,Blue Cane,State Senate,14,Republican,Lydia Graves Chassaniol,x
+Tallahatchie,Webb Beat #5,State Senate,14,Republican,Lydia Graves Chassaniol,x
+Tallahatchie,Sumner Beat #5,State Senate,14,Republican,Lydia Graves Chassaniol,x
+Tallahatchie,Tutwiler,State Senate,14,Republican,Lydia Graves Chassaniol,x
+Tallahatchie,Teasdale,State Senate,14,Democrat,Carlos E. Moore,x
+Tallahatchie,Enid,State Senate,14,Democrat,Carlos E. Moore,x
+Tallahatchie,Springhill,State Senate,14,Democrat,Carlos E. Moore,x
+Tallahatchie,Charleston Beat #1,State Senate,14,Democrat,Carlos E. Moore,x
+Tallahatchie,Charleston Beat #2,State Senate,14,Democrat,Carlos E. Moore,x
+Tallahatchie,Brazil,State Senate,14,Democrat,Carlos E. Moore,x
+Tallahatchie,Webb Beat #2,State Senate,14,Democrat,Carlos E. Moore,x
+Tallahatchie,Sumner Beat #2,State Senate,14,Democrat,Carlos E. Moore,x
+Tallahatchie,Charleston Beat #3,State Senate,14,Democrat,Carlos E. Moore,x
+Tallahatchie,Paynes,State Senate,14,Democrat,Carlos E. Moore,x
+Tallahatchie,Leverette,State Senate,14,Democrat,Carlos E. Moore,x
+Tallahatchie,Cascilla,State Senate,14,Democrat,Carlos E. Moore,75
+Tallahatchie,Murphreesboro,State Senate,14,Democrat,Carlos E. Moore,x
+Tallahatchie,Rosebloom,State Senate,14,Democrat,Carlos E. Moore,14
+Tallahatchie,Tippo,State Senate,14,Democrat,Carlos E. Moore,x
+Tallahatchie,Phillip,State Senate,14,Democrat,Carlos E. Moore,x
+Tallahatchie,Glendora,State Senate,14,Democrat,Carlos E. Moore,x
+Tallahatchie,Webb Beat #4,State Senate,14,Democrat,Carlos E. Moore,x
+Tallahatchie,Blue Cane,State Senate,14,Democrat,Carlos E. Moore,x
+Tallahatchie,Webb Beat #5,State Senate,14,Democrat,Carlos E. Moore,x
+Tallahatchie,Sumner Beat #5,State Senate,14,Democrat,Carlos E. Moore,x
+Tallahatchie,Tutwiler,State Senate,14,Democrat,Carlos E. Moore,x
+Tallahatchie,Teasdale,State Senate,24,Democrat,David Jordan,x
+Tallahatchie,Enid,State Senate,24,Democrat,David Jordan,x
+Tallahatchie,Springhill,State Senate,24,Democrat,David Jordan,82
+Tallahatchie,Charleston Beat #1,State Senate,24,Democrat,David Jordan,x
+Tallahatchie,Charleston Beat #2,State Senate,24,Democrat,David Jordan,226
+Tallahatchie,Brazil,State Senate,24,Democrat,David Jordan,x
+Tallahatchie,Webb Beat #2,State Senate,24,Democrat,David Jordan,41
+Tallahatchie,Sumner Beat #2,State Senate,24,Democrat,David Jordan,48
+Tallahatchie,Charleston Beat #3,State Senate,24,Democrat,David Jordan,186
+Tallahatchie,Paynes,State Senate,24,Democrat,David Jordan,226
+Tallahatchie,Leverette,State Senate,24,Democrat,David Jordan,94
+Tallahatchie,Cascilla,State Senate,24,Democrat,David Jordan,x
+Tallahatchie,Murphreesboro,State Senate,24,Democrat,David Jordan,93
+Tallahatchie,Rosebloom,State Senate,24,Democrat,David Jordan,x
+Tallahatchie,Tippo,State Senate,24,Democrat,David Jordan,82
+Tallahatchie,Phillip,State Senate,24,Democrat,David Jordan,58
+Tallahatchie,Glendora,State Senate,24,Democrat,David Jordan,237
+Tallahatchie,Webb Beat #4,State Senate,24,Democrat,David Jordan,53
+Tallahatchie,Blue Cane,State Senate,24,Democrat,David Jordan,x
+Tallahatchie,Webb Beat #5,State Senate,24,Democrat,David Jordan,172
+Tallahatchie,Sumner Beat #5,State Senate,24,Democrat,David Jordan,89
+Tallahatchie,Tutwiler,State Senate,24,Democrat,David Jordan,335
+Tallahatchie,Teasdale,State Senate,24,Independent,Rogrick Wardell,x
+Tallahatchie,Enid,State Senate,24,Independent,Rogrick Wardell,x
+Tallahatchie,Springhill,State Senate,24,Independent,Rogrick Wardell,36
+Tallahatchie,Charleston Beat #1,State Senate,24,Independent,Rogrick Wardell,x
+Tallahatchie,Charleston Beat #2,State Senate,24,Independent,Rogrick Wardell,61
+Tallahatchie,Brazil,State Senate,24,Independent,Rogrick Wardell,x
+Tallahatchie,Webb Beat #2,State Senate,24,Independent,Rogrick Wardell,2
+Tallahatchie,Sumner Beat #2,State Senate,24,Independent,Rogrick Wardell,74
+Tallahatchie,Charleston Beat #3,State Senate,24,Independent,Rogrick Wardell,57
+Tallahatchie,Paynes,State Senate,24,Independent,Rogrick Wardell,98
+Tallahatchie,Leverette,State Senate,24,Independent,Rogrick Wardell,59
+Tallahatchie,Cascilla,State Senate,24,Independent,Rogrick Wardell,x
+Tallahatchie,Murphreesboro,State Senate,24,Independent,Rogrick Wardell,61
+Tallahatchie,Rosebloom,State Senate,24,Independent,Rogrick Wardell,x
+Tallahatchie,Tippo,State Senate,24,Independent,Rogrick Wardell,46
+Tallahatchie,Phillip,State Senate,24,Independent,Rogrick Wardell,42
+Tallahatchie,Glendora,State Senate,24,Independent,Rogrick Wardell,20
+Tallahatchie,Webb Beat #4,State Senate,24,Independent,Rogrick Wardell,19
+Tallahatchie,Blue Cane,State Senate,24,Independent,Rogrick Wardell,x
+Tallahatchie,Webb Beat #5,State Senate,24,Independent,Rogrick Wardell,28
+Tallahatchie,Sumner Beat #5,State Senate,24,Independent,Rogrick Wardell,26
+Tallahatchie,Tutwiler,State Senate,24,Independent,Rogrick Wardell,44
+Tallahatchie,Teasdale,State House,10,Democrat,Greg Hodges,118
+Tallahatchie,Enid,State House,10,Democrat,Greg Hodges,x
+Tallahatchie,Springhill,State House,10,Democrat,Greg Hodges,x
+Tallahatchie,Charleston Beat #1,State House,10,Democrat,Greg Hodges,x
+Tallahatchie,Charleston Beat #2,State House,10,Democrat,Greg Hodges,x
+Tallahatchie,Brazil,State House,10,Democrat,Greg Hodges,x
+Tallahatchie,Webb Beat #2,State House,10,Democrat,Greg Hodges,x
+Tallahatchie,Sumner Beat #2,State House,10,Democrat,Greg Hodges,x
+Tallahatchie,Charleston Beat #3,State House,10,Democrat,Greg Hodges,x
+Tallahatchie,Paynes,State House,10,Democrat,Greg Hodges,x
+Tallahatchie,Leverette,State House,10,Democrat,Greg Hodges,x
+Tallahatchie,Cascilla,State House,10,Democrat,Greg Hodges,x
+Tallahatchie,Murphreesboro,State House,10,Democrat,Greg Hodges,x
+Tallahatchie,Rosebloom,State House,10,Democrat,Greg Hodges,x
+Tallahatchie,Tippo,State House,10,Democrat,Greg Hodges,x
+Tallahatchie,Phillip,State House,10,Democrat,Greg Hodges,x
+Tallahatchie,Glendora,State House,10,Democrat,Greg Hodges,x
+Tallahatchie,Webb Beat #4,State House,10,Democrat,Greg Hodges,x
+Tallahatchie,Blue Cane,State House,10,Democrat,Greg Hodges,x
+Tallahatchie,Webb Beat #5,State House,10,Democrat,Greg Hodges,x
+Tallahatchie,Sumner Beat #5,State House,10,Democrat,Greg Hodges,x
+Tallahatchie,Tutwiler,State House,10,Democrat,Greg Hodges,x
+Tallahatchie,Teasdale,State House,10,Republican,Nolan Mettetal,118
+Tallahatchie,Enid,State House,10,Republican,Nolan Mettetal,x
+Tallahatchie,Springhill,State House,10,Republican,Nolan Mettetal,x
+Tallahatchie,Charleston Beat #1,State House,10,Republican,Nolan Mettetal,x
+Tallahatchie,Charleston Beat #2,State House,10,Republican,Nolan Mettetal,x
+Tallahatchie,Brazil,State House,10,Republican,Nolan Mettetal,x
+Tallahatchie,Webb Beat #2,State House,10,Republican,Nolan Mettetal,x
+Tallahatchie,Sumner Beat #2,State House,10,Republican,Nolan Mettetal,x
+Tallahatchie,Charleston Beat #3,State House,10,Republican,Nolan Mettetal,x
+Tallahatchie,Paynes,State House,10,Republican,Nolan Mettetal,x
+Tallahatchie,Leverette,State House,10,Republican,Nolan Mettetal,x
+Tallahatchie,Cascilla,State House,10,Republican,Nolan Mettetal,x
+Tallahatchie,Murphreesboro,State House,10,Republican,Nolan Mettetal,x
+Tallahatchie,Rosebloom,State House,10,Republican,Nolan Mettetal,x
+Tallahatchie,Tippo,State House,10,Republican,Nolan Mettetal,x
+Tallahatchie,Phillip,State House,10,Republican,Nolan Mettetal,x
+Tallahatchie,Glendora,State House,10,Republican,Nolan Mettetal,x
+Tallahatchie,Webb Beat #4,State House,10,Republican,Nolan Mettetal,x
+Tallahatchie,Blue Cane,State House,10,Republican,Nolan Mettetal,x
+Tallahatchie,Webb Beat #5,State House,10,Republican,Nolan Mettetal,x
+Tallahatchie,Sumner Beat #5,State House,10,Republican,Nolan Mettetal,x
+Tallahatchie,Tutwiler,State House,10,Republican,Nolan Mettetal,x
+Tallahatchie,Teasdale,State House,30,Democrat,Robert E. Huddleston,x
+Tallahatchie,Enid,State House,30,Democrat,Robert E. Huddleston,x
+Tallahatchie,Springhill,State House,30,Democrat,Robert E. Huddleston,x
+Tallahatchie,Charleston Beat #1,State House,30,Democrat,Robert E. Huddleston,x
+Tallahatchie,Charleston Beat #2,State House,30,Democrat,Robert E. Huddleston,x
+Tallahatchie,Brazil,State House,30,Democrat,Robert E. Huddleston,35
+Tallahatchie,Webb Beat #2,State House,30,Democrat,Robert E. Huddleston,51
+Tallahatchie,Sumner Beat #2,State House,30,Democrat,Robert E. Huddleston,85
+Tallahatchie,Charleston Beat #3,State House,30,Democrat,Robert E. Huddleston,x
+Tallahatchie,Paynes,State House,30,Democrat,Robert E. Huddleston,x
+Tallahatchie,Leverette,State House,30,Democrat,Robert E. Huddleston,x
+Tallahatchie,Cascilla,State House,30,Democrat,Robert E. Huddleston,x
+Tallahatchie,Murphreesboro,State House,30,Democrat,Robert E. Huddleston,x
+Tallahatchie,Rosebloom,State House,30,Democrat,Robert E. Huddleston,x
+Tallahatchie,Tippo,State House,30,Democrat,Robert E. Huddleston,93
+Tallahatchie,Phillip,State House,30,Democrat,Robert E. Huddleston,82
+Tallahatchie,Glendora,State House,30,Democrat,Robert E. Huddleston,207
+Tallahatchie,Webb Beat #4,State House,30,Democrat,Robert E. Huddleston,64
+Tallahatchie,Blue Cane,State House,30,Democrat,Robert E. Huddleston,20
+Tallahatchie,Webb Beat #5,State House,30,Democrat,Robert E. Huddleston,164
+Tallahatchie,Sumner Beat #5,State House,30,Democrat,Robert E. Huddleston,103
+Tallahatchie,Tutwiler,State House,30,Democrat,Robert E. Huddleston,350
+Tallahatchie,Teasdale,State House,33,Republican,Jerrerico Chambers,x
+Tallahatchie,Enid,State House,33,Republican,Jerrerico Chambers,42
+Tallahatchie,Springhill,State House,33,Republican,Jerrerico Chambers,26
+Tallahatchie,Charleston Beat #1,State House,33,Republican,Jerrerico Chambers,62
+Tallahatchie,Charleston Beat #2,State House,33,Republican,Jerrerico Chambers,64
+Tallahatchie,Brazil,State House,33,Republican,Jerrerico Chambers,x
+Tallahatchie,Webb Beat #2,State House,33,Republican,Jerrerico Chambers,x
+Tallahatchie,Sumner Beat #2,State House,33,Republican,Jerrerico Chambers,x
+Tallahatchie,Charleston Beat #3,State House,33,Republican,Jerrerico Chambers,29
+Tallahatchie,Paynes,State House,33,Republican,Jerrerico Chambers,45
+Tallahatchie,Leverette,State House,33,Republican,Jerrerico Chambers,37
+Tallahatchie,Cascilla,State House,33,Republican,Jerrerico Chambers,33
+Tallahatchie,Murphreesboro,State House,33,Republican,Jerrerico Chambers,40
+Tallahatchie,Rosebloom,State House,33,Republican,Jerrerico Chambers,23
+Tallahatchie,Tippo,State House,33,Republican,Jerrerico Chambers,x
+Tallahatchie,Phillip,State House,33,Republican,Jerrerico Chambers,x
+Tallahatchie,Glendora,State House,33,Republican,Jerrerico Chambers,x
+Tallahatchie,Webb Beat #4,State House,33,Republican,Jerrerico Chambers,x
+Tallahatchie,Blue Cane,State House,33,Republican,Jerrerico Chambers,x
+Tallahatchie,Webb Beat #5,State House,33,Republican,Jerrerico Chambers,x
+Tallahatchie,Sumner Beat #5,State House,33,Republican,Jerrerico Chambers,x
+Tallahatchie,Tutwiler,State House,33,Republican,Jerrerico Chambers,x
+Tallahatchie,Teasdale,State House,33,Democrat,"Thomas U. 'Tommy' Reynolds",x
+Tallahatchie,Enid,State House,33,Democrat,"Thomas U. 'Tommy' Reynolds",149
+Tallahatchie,Springhill,State House,33,Democrat,"Thomas U. 'Tommy' Reynolds",97
+Tallahatchie,Charleston Beat #1,State House,33,Democrat,"Thomas U. 'Tommy' Reynolds",343
+Tallahatchie,Charleston Beat #2,State House,33,Democrat,"Thomas U. 'Tommy' Reynolds",438
+Tallahatchie,Brazil,State House,33,Democrat,"Thomas U. 'Tommy' Reynolds",x
+Tallahatchie,Webb Beat #2,State House,33,Democrat,"Thomas U. 'Tommy' Reynolds",x
+Tallahatchie,Sumner Beat #2,State House,33,Democrat,"Thomas U. 'Tommy' Reynolds",x
+Tallahatchie,Charleston Beat #3,State House,33,Democrat,"Thomas U. 'Tommy' Reynolds",229
+Tallahatchie,Paynes,State House,33,Democrat,"Thomas U. 'Tommy' Reynolds",282
+Tallahatchie,Leverette,State House,33,Democrat,"Thomas U. 'Tommy' Reynolds",120
+Tallahatchie,Cascilla,State House,33,Democrat,"Thomas U. 'Tommy' Reynolds",146
+Tallahatchie,Murphreesboro,State House,33,Democrat,"Thomas U. 'Tommy' Reynolds",111
+Tallahatchie,Rosebloom,State House,33,Democrat,"Thomas U. 'Tommy' Reynolds",65
+Tallahatchie,Tippo,State House,33,Democrat,"Thomas U. 'Tommy' Reynolds",x
+Tallahatchie,Phillip,State House,33,Democrat,"Thomas U. 'Tommy' Reynolds",x
+Tallahatchie,Glendora,State House,33,Democrat,"Thomas U. 'Tommy' Reynolds",x
+Tallahatchie,Webb Beat #4,State House,33,Democrat,"Thomas U. 'Tommy' Reynolds",x
+Tallahatchie,Blue Cane,State House,33,Democrat,"Thomas U. 'Tommy' Reynolds",x
+Tallahatchie,Webb Beat #5,State House,33,Democrat,"Thomas U. 'Tommy' Reynolds",x
+Tallahatchie,Sumner Beat #5,State House,33,Democrat,"Thomas U. 'Tommy' Reynolds",x
+Tallahatchie,Tutwiler,State House,33,Democrat,"Thomas U. 'Tommy' Reynolds",x
+Tallahatchie,Teasdale,State House,33,Libertarian,Sean T. Holmes,x
+Tallahatchie,Enid,State House,33,Libertarian,Sean T. Holmes,4
+Tallahatchie,Springhill,State House,33,Libertarian,Sean T. Holmes,6
+Tallahatchie,Charleston Beat #1,State House,33,Libertarian,Sean T. Holmes,17
+Tallahatchie,Charleston Beat #2,State House,33,Libertarian,Sean T. Holmes,18
+Tallahatchie,Brazil,State House,33,Libertarian,Sean T. Holmes,x
+Tallahatchie,Webb Beat #2,State House,33,Libertarian,Sean T. Holmes,x
+Tallahatchie,Sumner Beat #2,State House,33,Libertarian,Sean T. Holmes,x
+Tallahatchie,Charleston Beat #3,State House,33,Libertarian,Sean T. Holmes,5
+Tallahatchie,Paynes,State House,33,Libertarian,Sean T. Holmes,16
+Tallahatchie,Leverette,State House,33,Libertarian,Sean T. Holmes,3
+Tallahatchie,Cascilla,State House,33,Libertarian,Sean T. Holmes,4
+Tallahatchie,Murphreesboro,State House,33,Libertarian,Sean T. Holmes,12
+Tallahatchie,Rosebloom,State House,33,Libertarian,Sean T. Holmes,5
+Tallahatchie,Tippo,State House,33,Libertarian,Sean T. Holmes,x
+Tallahatchie,Phillip,State House,33,Libertarian,Sean T. Holmes,x
+Tallahatchie,Glendora,State House,33,Libertarian,Sean T. Holmes,x
+Tallahatchie,Webb Beat #4,State House,33,Libertarian,Sean T. Holmes,x
+Tallahatchie,Blue Cane,State House,33,Libertarian,Sean T. Holmes,x
+Tallahatchie,Webb Beat #5,State House,33,Libertarian,Sean T. Holmes,x
+Tallahatchie,Sumner Beat #5,State House,33,Libertarian,Sean T. Holmes,x
+Tallahatchie,Tutwiler,State House,33,Libertarian,Sean T. Holmes,x
+Tallahatchie,,Governor,,Republican,Phil Bryant,2112
+Tallahatchie,,Governor,,Democrat,Johnny L. DuPree,2224
+Tallahatchie,,Lieutenant Governor,,Republican,Tate Reeves,2608
+Tallahatchie,,Lieutenant Governor,,Reform,Tracella Lou O'Hara Hill,1094
+Tallahatchie,,Secretary of State,,Republican,Delbert Hosemann,2982
+Tallahatchie,,Attorney General,,Democrat,Jim Hood,3010
+Tallahatchie,,Attorney General,,Republican,Steve Simpson,1153
+Tallahatchie,,State Auditor,,Republican,Stacey E. Pickering,2309
+Tallahatchie,,State Auditor,,Reform,Ashley Norwood,1334
+Tallahatchie,,Treasurer,,Republican,Lynn Fitch,1936
+Tallahatchie,,Treasurer,,Democrat,Connie Moran,1992
+Tallahatchie,,Treasurer,,Reform,Shawn O'Hara,174
+Tallahatchie,,Commissioner of Agriculture & Commerce,,Democrat,Joel Gill,2259
+Tallahatchie,,Commissioner of Agriculture & Commerce,,Republican,Cindy Hyde-Smith,1640
+Tallahatchie,,Commissioner of Agriculture & Commerce,,Reform,Cathy L. Toole,192
+Tallahatchie,,Commissioner of Insurance,,Republican,Mike Chaney,2136
+Tallahatchie,,Commissioner of Insurance,,Democrat,Louis Fondren,1817
+Tallahatchie,,Commissioner of Insurance,,Reform,Barbara Dale Washer,169
+Tallahatchie,,State Senate,09,Democrat,Gray Tollison,971
+Tallahatchie,,State Senate,14,Republican,Lydia Graves Chassaniol,182
+Tallahatchie,,State Senate,14,Democrat,Carlos E. Moore,89
+Tallahatchie,,State Senate,24,Democrat,David Jordan,2022
+Tallahatchie,,State Senate,24,Independent,Rogrick Wardell,673
+Tallahatchie,,State House,10,Democrat,Greg Hodges,118
+Tallahatchie,,State House,10,Republican,Nolan Mettetal,118
+Tallahatchie,,State House,30,Democrat,Robert E. Huddleston,1254
+Tallahatchie,,State House,33,Republican,Jerrerico Chambers,401
+Tallahatchie,,State House,33,Democrat,"Thomas U. 'Tommy' Reynolds",1980
+Tallahatchie,,State House,33,Libertarian,Sean T. Holmes,90

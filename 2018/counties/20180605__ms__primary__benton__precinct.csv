@@ -1,64 +1,61 @@
-page,candidate,office,district,party,county,precinct,votes,winner
-2,Richard Warren Boyanton,U.S. Senate,,R,Benton,Ashland Precinct District 3,12,
-2,Roger F. Wicker,U.S. Senate,,R,Benton,Ashland Precinct District 3,64,
-2,Richard Warren Boyanton,U.S. Senate,,R,Benton,Canaan Precinct District 1,7,
-2,Roger F. Wicker,U.S. Senate,,R,Benton,Canaan Precinct District 1,28,
-2,Richard Warren Boyanton,U.S. Senate,,R,Benton,Floyd Precinct Dist. 4,11,
-2,Roger F. Wicker,U.S. Senate,,R,Benton,Floyd Precinct Dist. 4,66,
-2,Richard Warren Boyanton,U.S. Senate,,R,Benton,Hickory Flat Prec Dist 5,11,
-2,Roger F. Wicker,U.S. Senate,,R,Benton,Hickory Flat Prec Dist 5,130,
-2,Richard Warren Boyanton,U.S. Senate,,R,Benton,Lamar Precinct District 2,3,
-2,Roger F. Wicker,U.S. Senate,,R,Benton,Lamar Precinct District 2,14,
-2,Richard Warren Boyanton,U.S. Senate,,R,Benton,TOTAL ,44,
-2,Roger F. Wicker,U.S. Senate,,R,Benton,TOTAL ,302,
-2,Trent Kelly,U.S. House,01,R,Benton,Ashland Precinct District 3,71,
-2,Trent Kelly,U.S. House,01,R,Benton,Canaan Precinct District 1,28,
-2,Trent Kelly,U.S. House,01,R,Benton,Floyd Precinct Dist. 4,73,
-2,Trent Kelly,U.S. House,01,R,Benton,Hickory Flat Prec Dist 5,131,
-2,Trent Kelly,U.S. House,01,R,Benton,Lamar Precinct District 2,15,
-2,Trent Kelly,U.S. House,01,R,Benton,TOTAL ,318,
-2,David Baria,U.S. Senate,,D,Benton,Ashland Precinct District 3,9,
-2,Jensen Bohren,U.S. Senate,,D,Benton,Ashland Precinct District 3,2,
-2,Jerone Garland,U.S. Senate,,D,Benton,Ashland Precinct District 3,2,
-2,Victor G. Maurice Jr.,U.S. Senate,,D,Benton,Ashland Precinct District 3,5,
-2,Omeria Scott,U.S. Senate,,D,Benton,Ashland Precinct District 3,6,
-2,Howard Sherman,U.S. Senate,,D,Benton,Ashland Precinct District 3,15,
-2,David Baria,U.S. Senate,,D,Benton,Canaan Precinct District 1,15,
-2,Jensen Bohren,U.S. Senate,,D,Benton,Canaan Precinct District 1,2,
-2,Jerone Garland,U.S. Senate,,D,Benton,Canaan Precinct District 1,4,
-2,Victor G. Maurice Jr.,U.S. Senate,,D,Benton,Canaan Precinct District 1,1,
-2,Omeria Scott,U.S. Senate,,D,Benton,Canaan Precinct District 1,5,
-2,Howard Sherman,U.S. Senate,,D,Benton,Canaan Precinct District 1,12,
-2,David Baria,U.S. Senate,,D,Benton,Floyd Precinct Dist. 4,9,
-2,Jensen Bohren,U.S. Senate,,D,Benton,Floyd Precinct Dist. 4,1,
-2,Jerone Garland,U.S. Senate,,D,Benton,Floyd Precinct Dist. 4,2,
-2,Victor G. Maurice Jr.,U.S. Senate,,D,Benton,Floyd Precinct Dist. 4,1,
-2,Omeria Scott,U.S. Senate,,D,Benton,Floyd Precinct Dist. 4,5,
-2,Howard Sherman,U.S. Senate,,D,Benton,Floyd Precinct Dist. 4,9,
-2,David Baria,U.S. Senate,,D,Benton,Hickory Flat Prec Dist 5,7,
-2,Jensen Bohren,U.S. Senate,,D,Benton,Hickory Flat Prec Dist 5,1,
-2,Jerone Garland,U.S. Senate,,D,Benton,Hickory Flat Prec Dist 5,0,
-2,Victor G. Maurice Jr.,U.S. Senate,,D,Benton,Hickory Flat Prec Dist 5,0,
-2,Omeria Scott,U.S. Senate,,D,Benton,Hickory Flat Prec Dist 5,3,
-2,Howard Sherman,U.S. Senate,,D,Benton,Hickory Flat Prec Dist 5,2,
-2,David Baria,U.S. Senate,,D,Benton,Lamar Precinct District 2,19,
-2,Jensen Bohren,U.S. Senate,,D,Benton,Lamar Precinct District 2,4,
-2,Jerone Garland,U.S. Senate,,D,Benton,Lamar Precinct District 2,3,
-2,Victor G. Maurice Jr.,U.S. Senate,,D,Benton,Lamar Precinct District 2,8,
-2,Omeria Scott,U.S. Senate,,D,Benton,Lamar Precinct District 2,16,
-2,Howard Sherman,U.S. Senate,,D,Benton,Lamar Precinct District 2,24,
-2,David Baria,U.S. Senate,,D,Benton,TOTAL ,59,
-2,Jensen Bohren,U.S. Senate,,D,Benton,TOTAL ,10,
-2,Jerone Garland,U.S. Senate,,D,Benton,TOTAL ,11,
-2,Victor G. Maurice Jr.,U.S. Senate,,D,Benton,TOTAL ,15,
-2,Omeria Scott,U.S. Senate,,D,Benton,TOTAL ,35,
-2,Howard Sherman,U.S. Senate,,D,Benton,TOTAL ,62,
-2,Randy Mack Wadkins,U.S. House,01,D,Benton,Ashland Precinct District 3,30,
-2,Randy Mack Wadkins,U.S. House,01,D,Benton,Canaan Precinct District 1,26,
-2,Randy Mack Wadkins,U.S. House,01,D,Benton,Floyd Precinct Dist. 4,21,
-2,Randy Mack Wadkins,U.S. House,01,D,Benton,Hickory Flat Prec Dist 5,13,
-2,Randy Mack Wadkins,U.S. House,01,D,Benton,Lamar Precinct District 2,62,
-2,Randy Mack Wadkins,U.S. House,01,D,Benton,TOTAL ,152,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
+county,precinct,office,district,party,candidate,votes
+Benton,Ashland Precinct District 3,U.S. House,1,DEM,Randy Mack Wadkins,30
+Benton,Ashland Precinct District 3,U.S. House,1,REP,Trent Kelly,71
+Benton,Ashland Precinct District 3,U.S. Senate,,DEM,David Baria,9
+Benton,Ashland Precinct District 3,U.S. Senate,,DEM,Howard Sherman,15
+Benton,Ashland Precinct District 3,U.S. Senate,,DEM,Jensen Bohren,2
+Benton,Ashland Precinct District 3,U.S. Senate,,DEM,Jerone Garland,2
+Benton,Ashland Precinct District 3,U.S. Senate,,DEM,Omeria Scott,6
+Benton,Ashland Precinct District 3,U.S. Senate,,DEM,Victor G. Maurice Jr.,5
+Benton,Ashland Precinct District 3,U.S. Senate,,REP,Richard Warren Boyanton,12
+Benton,Ashland Precinct District 3,U.S. Senate,,REP,Roger F. Wicker,64
+Benton,Canaan Precinct District 1,U.S. House,1,DEM,Randy Mack Wadkins,26
+Benton,Canaan Precinct District 1,U.S. House,1,REP,Trent Kelly,28
+Benton,Canaan Precinct District 1,U.S. Senate,,DEM,David Baria,15
+Benton,Canaan Precinct District 1,U.S. Senate,,DEM,Howard Sherman,12
+Benton,Canaan Precinct District 1,U.S. Senate,,DEM,Jensen Bohren,2
+Benton,Canaan Precinct District 1,U.S. Senate,,DEM,Jerone Garland,4
+Benton,Canaan Precinct District 1,U.S. Senate,,DEM,Omeria Scott,5
+Benton,Canaan Precinct District 1,U.S. Senate,,DEM,Victor G. Maurice Jr.,1
+Benton,Canaan Precinct District 1,U.S. Senate,,REP,Richard Warren Boyanton,7
+Benton,Canaan Precinct District 1,U.S. Senate,,REP,Roger F. Wicker,28
+Benton,Floyd Precinct Dist. 4,U.S. House,1,DEM,Randy Mack Wadkins,21
+Benton,Floyd Precinct Dist. 4,U.S. House,1,REP,Trent Kelly,73
+Benton,Floyd Precinct Dist. 4,U.S. Senate,,DEM,David Baria,9
+Benton,Floyd Precinct Dist. 4,U.S. Senate,,DEM,Howard Sherman,9
+Benton,Floyd Precinct Dist. 4,U.S. Senate,,DEM,Jensen Bohren,1
+Benton,Floyd Precinct Dist. 4,U.S. Senate,,DEM,Jerone Garland,2
+Benton,Floyd Precinct Dist. 4,U.S. Senate,,DEM,Omeria Scott,5
+Benton,Floyd Precinct Dist. 4,U.S. Senate,,DEM,Victor G. Maurice Jr.,1
+Benton,Floyd Precinct Dist. 4,U.S. Senate,,REP,Richard Warren Boyanton,11
+Benton,Floyd Precinct Dist. 4,U.S. Senate,,REP,Roger F. Wicker,66
+Benton,Hickory Flat Prec Dist 5,U.S. House,1,DEM,Randy Mack Wadkins,13
+Benton,Hickory Flat Prec Dist 5,U.S. House,1,REP,Trent Kelly,131
+Benton,Hickory Flat Prec Dist 5,U.S. Senate,,DEM,David Baria,7
+Benton,Hickory Flat Prec Dist 5,U.S. Senate,,DEM,Howard Sherman,2
+Benton,Hickory Flat Prec Dist 5,U.S. Senate,,DEM,Jensen Bohren,1
+Benton,Hickory Flat Prec Dist 5,U.S. Senate,,DEM,Jerone Garland,0
+Benton,Hickory Flat Prec Dist 5,U.S. Senate,,DEM,Omeria Scott,3
+Benton,Hickory Flat Prec Dist 5,U.S. Senate,,DEM,Victor G. Maurice Jr.,0
+Benton,Hickory Flat Prec Dist 5,U.S. Senate,,REP,Richard Warren Boyanton,11
+Benton,Hickory Flat Prec Dist 5,U.S. Senate,,REP,Roger F. Wicker,130
+Benton,Lamar Precinct District 2,U.S. House,1,DEM,Randy Mack Wadkins,62
+Benton,Lamar Precinct District 2,U.S. House,1,REP,Trent Kelly,15
+Benton,Lamar Precinct District 2,U.S. Senate,,DEM,David Baria,19
+Benton,Lamar Precinct District 2,U.S. Senate,,DEM,Howard Sherman,24
+Benton,Lamar Precinct District 2,U.S. Senate,,DEM,Jensen Bohren,4
+Benton,Lamar Precinct District 2,U.S. Senate,,DEM,Jerone Garland,3
+Benton,Lamar Precinct District 2,U.S. Senate,,DEM,Omeria Scott,16
+Benton,Lamar Precinct District 2,U.S. Senate,,DEM,Victor G. Maurice Jr.,8
+Benton,Lamar Precinct District 2,U.S. Senate,,REP,Richard Warren Boyanton,3
+Benton,Lamar Precinct District 2,U.S. Senate,,REP,Roger F. Wicker,14
+Benton,Total,U.S. House,1,DEM,Randy Mack Wadkins,152
+Benton,Total,U.S. House,1,REP,Trent Kelly,318
+Benton,Total,U.S. Senate,,DEM,David Baria,59
+Benton,Total,U.S. Senate,,DEM,Howard Sherman,62
+Benton,Total,U.S. Senate,,DEM,Jensen Bohren,10
+Benton,Total,U.S. Senate,,DEM,Jerone Garland,11
+Benton,Total,U.S. Senate,,DEM,Omeria Scott,35
+Benton,Total,U.S. Senate,,DEM,Victor G. Maurice Jr.,15
+Benton,Total,U.S. Senate,,REP,Richard Warren Boyanton,44
+Benton,Total,U.S. Senate,,REP,Roger F. Wicker,302

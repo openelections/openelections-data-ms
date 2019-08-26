@@ -1,85 +1,41 @@
-Page,candidate,office,district,party,county,precinct,votes,winner
-2,Mike Espy,U.S. Senate,Unexpired Term,,Adams,"Dist. 1, Bellemont Precinct ",402,
-2,Cindy Hyde-Smith,U.S. Senate,Unexpired Term,,Adams,"Dist. 1, Bellemont Precinct ",808,
-2,Mike Espy,U.S. Senate,Unexpired Term,,Adams,"Dist. 1, By-Pass Fire Precinct",405,
-2,Cindy Hyde-Smith,U.S. Senate,Unexpired Term,,Adams,"Dist. 1, By-Pass Fire Precinct",169,
-2,Mike Espy,U.S. Senate,Unexpired Term,,Adams,"Dist. 1, Courthouse Precinct",154,
-2,Cindy Hyde-Smith,U.S. Senate,Unexpired Term,,Adams,"Dist. 1, Courthouse Precinct",311,
-2,Mike Espy,U.S. Senate,Unexpired Term,,Adams,"Dist. 2, Beau Pre Precinct",257,
-2,Cindy Hyde-Smith,U.S. Senate,Unexpired Term,,Adams,"Dist. 2, Beau Pre Precinct",363,
-2,Mike Espy,U.S. Senate,Unexpired Term,,Adams,"Dist. 2, Duncan Park Precinct",285,
-2,Cindy Hyde-Smith,U.S. Senate,Unexpired Term,,Adams,"Dist. 2, Duncan Park Precinct",317,
-2,Mike Espy,U.S. Senate,Unexpired Term,,Adams,"Dist. 2, Kingston Precinct",76,
-2,Cindy Hyde-Smith,U.S. Senate,Unexpired Term,,Adams,"Dist. 2, Kingston Precinct",374,
-2,Mike Espy,U.S. Senate,Unexpired Term,,Adams,"Dist. 2, Liberty Park Precinct",142,
-2,Cindy Hyde-Smith,U.S. Senate,Unexpired Term,,Adams,"Dist. 2, Liberty Park Precinct",384,
-2,Mike Espy,U.S. Senate,Unexpired Term,,Adams,"Dist. 3, Concord Precinct",407,
-2,Cindy Hyde-Smith,U.S. Senate,Unexpired Term,,Adams,"Dist. 3, Concord Precinct",20,
-2,Mike Espy,U.S. Senate,Unexpired Term,,Adams,"Dist. 3, Maryland Hgts. Precinct",357,
-2,Cindy Hyde-Smith,U.S. Senate,Unexpired Term,,Adams,"Dist. 3, Maryland Hgts. Precinct",11,
-2,Mike Espy,U.S. Senate,Unexpired Term,,Adams,"Dist. 3, Nps Multi Purpose Bldg.",208,
-2,Cindy Hyde-Smith,U.S. Senate,Unexpired Term,,Adams,"Dist. 3, Nps Multi Purpose Bldg.",105,
-2,Mike Espy,U.S. Senate,Unexpired Term,,Adams,"Dist. 3, Palestine Precinct ",392,
-2,Cindy Hyde-Smith,U.S. Senate,Unexpired Term,,Adams,"Dist. 3, Palestine Precinct ",236,
-3,Mike Espy,U.S. Senate,Unexpired Term,,Adams,"Dist. 4, Carpenter Precinct",242,
-3,Cindy Hyde-Smith,U.S. Senate,Unexpired Term,,Adams,"Dist. 4, Carpenter Precinct",91,
-3,Mike Espy,U.S. Senate,Unexpired Term,,Adams,"Dist. 4, Morgantown Precinct",291,
-3,Cindy Hyde-Smith,U.S. Senate,Unexpired Term,,Adams,"Dist. 4, Morgantown Precinct",83,
-3,Mike Espy,U.S. Senate,Unexpired Term,,Adams,"Dist. 4, Northside Precinct",911,
-3,Cindy Hyde-Smith,U.S. Senate,Unexpired Term,,Adams,"Dist. 4, Northside Precinct",32,
-3,Mike Espy,U.S. Senate,Unexpired Term,,Adams,"Dist. 4, Pine Ridge Precinct",322,
-3,Cindy Hyde-Smith,U.S. Senate,Unexpired Term,,Adams,"Dist. 4, Pine Ridge Precinct",57,
-3,Mike Espy,U.S. Senate,Unexpired Term,,Adams,"Dist. 5, Airport Precinct",355,
-3,Cindy Hyde-Smith,U.S. Senate,Unexpired Term,,Adams,"Dist. 5, Airport Precinct",143,
-3,Mike Espy,U.S. Senate,Unexpired Term,,Adams,"Dist. 5, Foster Mound Precinct",703,
-3,Cindy Hyde-Smith,U.S. Senate,Unexpired Term,,Adams,"Dist. 5, Foster Mound Precinct",33,
-3,Mike Espy,U.S. Senate,Unexpired Term,,Adams,"Dist. 5, Oakland Precinct",417,
-3,Cindy Hyde-Smith,U.S. Senate,Unexpired Term,,Adams,"Dist. 5, Oakland Precinct",356,
-3,Mike Espy,U.S. Senate,Unexpired Term,,Adams,"Dist. 5, Washington Precinct",162,
-3,Cindy Hyde-Smith,U.S. Senate,Unexpired Term,,Adams,"Dist. 5, Washington Precinct",220,
-3,Mike Espy,U.S. Senate,Unexpired Term,,Adams,TOTAL,6488,
-3,Cindy Hyde-Smith,U.S. Senate,Unexpired Term,,Adams,TOTAL,4113,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
+county,precinct,office,district,party,candidate,votes
+Adams,"Dist. 1, Bellemont",U.S. Senate,Unexpired Term,,Cindy Hyde-Smith,808
+Adams,"Dist. 1, Bellemont",U.S. Senate,Unexpired Term,,Mike Espy,402
+Adams,"Dist. 1, By-Pass Fire",U.S. Senate,Unexpired Term,,Cindy Hyde-Smith,169
+Adams,"Dist. 1, By-Pass Fire",U.S. Senate,Unexpired Term,,Mike Espy,405
+Adams,"Dist. 1, Courthouse",U.S. Senate,Unexpired Term,,Cindy Hyde-Smith,311
+Adams,"Dist. 1, Courthouse",U.S. Senate,Unexpired Term,,Mike Espy,154
+Adams,"Dist. 2, Beau Pre",U.S. Senate,Unexpired Term,,Cindy Hyde-Smith,363
+Adams,"Dist. 2, Beau Pre",U.S. Senate,Unexpired Term,,Mike Espy,257
+Adams,"Dist. 2, Duncan Park",U.S. Senate,Unexpired Term,,Cindy Hyde-Smith,317
+Adams,"Dist. 2, Duncan Park",U.S. Senate,Unexpired Term,,Mike Espy,285
+Adams,"Dist. 2, Kingston",U.S. Senate,Unexpired Term,,Cindy Hyde-Smith,374
+Adams,"Dist. 2, Kingston",U.S. Senate,Unexpired Term,,Mike Espy,76
+Adams,"Dist. 2, Liberty Park",U.S. Senate,Unexpired Term,,Cindy Hyde-Smith,384
+Adams,"Dist. 2, Liberty Park",U.S. Senate,Unexpired Term,,Mike Espy,142
+Adams,"Dist. 3, Concord",U.S. Senate,Unexpired Term,,Cindy Hyde-Smith,20
+Adams,"Dist. 3, Concord",U.S. Senate,Unexpired Term,,Mike Espy,407
+Adams,"Dist. 3, Maryland Hgts.",U.S. Senate,Unexpired Term,,Cindy Hyde-Smith,11
+Adams,"Dist. 3, Maryland Hgts.",U.S. Senate,Unexpired Term,,Mike Espy,357
+Adams,"Dist. 3, Nps Multi Purpose Bldg.",U.S. Senate,Unexpired Term,,Cindy Hyde-Smith,105
+Adams,"Dist. 3, Nps Multi Purpose Bldg.",U.S. Senate,Unexpired Term,,Mike Espy,208
+Adams,"Dist. 3, Palestine",U.S. Senate,Unexpired Term,,Cindy Hyde-Smith,236
+Adams,"Dist. 3, Palestine",U.S. Senate,Unexpired Term,,Mike Espy,392
+Adams,"Dist. 4, Carpenter",U.S. Senate,Unexpired Term,,Cindy Hyde-Smith,91
+Adams,"Dist. 4, Carpenter",U.S. Senate,Unexpired Term,,Mike Espy,242
+Adams,"Dist. 4, Morgantown",U.S. Senate,Unexpired Term,,Cindy Hyde-Smith,83
+Adams,"Dist. 4, Morgantown",U.S. Senate,Unexpired Term,,Mike Espy,291
+Adams,"Dist. 4, Northside",U.S. Senate,Unexpired Term,,Cindy Hyde-Smith,32
+Adams,"Dist. 4, Northside",U.S. Senate,Unexpired Term,,Mike Espy,911
+Adams,"Dist. 4, Pine Ridge",U.S. Senate,Unexpired Term,,Cindy Hyde-Smith,57
+Adams,"Dist. 4, Pine Ridge",U.S. Senate,Unexpired Term,,Mike Espy,322
+Adams,"Dist. 5, Airport",U.S. Senate,Unexpired Term,,Cindy Hyde-Smith,143
+Adams,"Dist. 5, Airport",U.S. Senate,Unexpired Term,,Mike Espy,355
+Adams,"Dist. 5, Foster Mound",U.S. Senate,Unexpired Term,,Cindy Hyde-Smith,33
+Adams,"Dist. 5, Foster Mound",U.S. Senate,Unexpired Term,,Mike Espy,703
+Adams,"Dist. 5, Oakland",U.S. Senate,Unexpired Term,,Cindy Hyde-Smith,356
+Adams,"Dist. 5, Oakland",U.S. Senate,Unexpired Term,,Mike Espy,417
+Adams,"Dist. 5, Washington",U.S. Senate,Unexpired Term,,Cindy Hyde-Smith,220
+Adams,"Dist. 5, Washington",U.S. Senate,Unexpired Term,,Mike Espy,162
+Adams,Total,U.S. Senate,Unexpired Term,,Cindy Hyde-Smith,4113
+Adams,Total,U.S. Senate,Unexpired Term,,Mike Espy,6488

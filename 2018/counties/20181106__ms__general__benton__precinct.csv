@@ -1,133 +1,67 @@
-page,candidate,office,district,party,county,precinct,votes,winner
-2,David Baria,U.S. Senate,,Democrat,Benton,Ashland Precinct District 3,230,
-2,Roger F. Wicker,U.S. Senate,,Republican,Benton,Ashland Precinct District 3,353,
-2,Danny Bedwell,U.S. Senate,,Libertarian,Benton,Ashland Precinct District 3,9,
-2,Shawn O'Hara,U.S. Senate,,Reform,Benton,Ashland Precinct District 3,4,
-2,Tobey Bernard Bartee,U.S. Senate,Unexpired Term,,Benton,Ashland Precinct District 3,12,
-2,Mike Espy,U.S. Senate,Unexpired Term,,Benton,Ashland Precinct District 3,240,
-2,Cindy Hyde-Smith,U.S. Senate,Unexpired Term,,Benton,Ashland Precinct District 3,237,
-2,Chris McDaniel,U.S. Senate,Unexpired Term,,Benton,Ashland Precinct District 3,95,
-2,Trent Kelly,U.S. House,1,Republican,Benton,Ashland Precinct District 3,347,
-2,Randy Mack Wadkins,U.S. House,1,Democrat,Benton,Ashland Precinct District 3,246,
-2,Tracella Lou O-Hara Hill,U.S. House,1,Reform,Benton,Ashland Precinct District 3,5,
-2,David Baria,U.S. Senate,,Democrat,Benton,Canaan Precinct District 1,288,
-2,Roger F. Wicker,U.S. Senate,,Republican,Benton,Canaan Precinct District 1,231,
-2,Danny Bedwell,U.S. Senate,,Libertarian,Benton,Canaan Precinct District 1,4,
-2,Shawn O'Hara,U.S. Senate,,Reform,Benton,Canaan Precinct District 1,5,
-2,Tobey Bernard Bartee,U.S. Senate,Unexpired Term,,Benton,Canaan Precinct District 1,12,
-2,Mike Espy,U.S. Senate,Unexpired Term,,Benton,Canaan Precinct District 1,273,
-2,Cindy Hyde-Smith,U.S. Senate,Unexpired Term,,Benton,Canaan Precinct District 1,167,
-2,Chris McDaniel,U.S. Senate,Unexpired Term,,Benton,Canaan Precinct District 1,68,
-2,Trent Kelly,U.S. House,1,Republican,Benton,Canaan Precinct District 1,223,
-2,Randy Mack Wadkins,U.S. House,1,Democrat,Benton,Canaan Precinct District 1,311,
-2,Tracella Lou O-Hara Hill,U.S. House,1,Reform,Benton,Canaan Precinct District 1,2,
-2,David Baria,U.S. Senate,,Democrat,Benton,Floyd Precinct District 4,116,
-2,Roger F. Wicker,U.S. Senate,,Republican,Benton,Floyd Precinct District 4,421,
-2,Danny Bedwell,U.S. Senate,,Libertarian,Benton,Floyd Precinct District 4,1,
-2,Shawn O'Hara,U.S. Senate,,Reform,Benton,Floyd Precinct District 4,3,
-2,Tobey Bernard Bartee,U.S. Senate,Unexpired Term,,Benton,Floyd Precinct District 4,12,
-2,Mike Espy,U.S. Senate,Unexpired Term,,Benton,Floyd Precinct District 4,123,
-2,Cindy Hyde-Smith,U.S. Senate,Unexpired Term,,Benton,Floyd Precinct District 4,278,
-2,Chris McDaniel,U.S. Senate,Unexpired Term,,Benton,Floyd Precinct District 4,126,
-2,Trent Kelly,U.S. House,1,Republican,Benton,Floyd Precinct District 4,417,
-2,Randy Mack Wadkins,U.S. House,1,Democrat,Benton,Floyd Precinct District 4,121,
-2,Tracella Lou O-Hara Hill,U.S. House,1,Reform,Benton,Floyd Precinct District 4,8,
-2,David Baria,U.S. Senate,,Democrat,Benton,Hickory Flat Prec Dist 5,70,
-2,Roger F. Wicker,U.S. Senate,,Republican,Benton,Hickory Flat Prec Dist 5,490,
-2,Danny Bedwell,U.S. Senate,,Libertarian,Benton,Hickory Flat Prec Dist 5,9,
-2,Shawn O'Hara,U.S. Senate,,Reform,Benton,Hickory Flat Prec Dist 5,4,
-2,Tobey Bernard Bartee,U.S. Senate,Unexpired Term,,Benton,Hickory Flat Prec Dist 5,5,
-2,Mike Espy,U.S. Senate,Unexpired Term,,Benton,Hickory Flat Prec Dist 5,77,
-2,Cindy Hyde-Smith,U.S. Senate,Unexpired Term,,Benton,Hickory Flat Prec Dist 5,354,
-2,Chris McDaniel,U.S. Senate,Unexpired Term,,Benton,Hickory Flat Prec Dist 5,125,
-2,Trent Kelly,U.S. House,1,Republican,Benton,Hickory Flat Prec Dist 5,490,
-2,Randy Mack Wadkins,U.S. House,1,Democrat,Benton,Hickory Flat Prec Dist 5,70,
-2,Tracella Lou O-Hara Hill,U.S. House,1,Reform,Benton,Hickory Flat Prec Dist 5,3,
-2,David Baria,U.S. Senate,,Democrat,Benton,Lamar Precinct District 2,387,
-2,Roger F. Wicker,U.S. Senate,,Republican,Benton,Lamar Precinct District 2,150,
-2,Danny Bedwell,U.S. Senate,,Libertarian,Benton,Lamar Precinct District 2,5,
-2,Shawn O'Hara,U.S. Senate,,Reform,Benton,Lamar Precinct District 2,4,
-2,Tobey Bernard Bartee,U.S. Senate,Unexpired Term,,Benton,Lamar Precinct District 2,18,
-2,Mike Espy,U.S. Senate,Unexpired Term,,Benton,Lamar Precinct District 2,369,
-2,Cindy Hyde-Smith,U.S. Senate,Unexpired Term,,Benton,Lamar Precinct District 2,106,
-2,Chris McDaniel,U.S. Senate,Unexpired Term,,Benton,Lamar Precinct District 2,44,
-2,Trent Kelly,U.S. House,1,Republican,Benton,Lamar Precinct District 2,141,
-2,Randy Mack Wadkins,U.S. House,1,Democrat,Benton,Lamar Precinct District 2,412,
-2,Tracella Lou O-Hara Hill,U.S. House,1,Reform,Benton,Lamar Precinct District 2,1,
-2,David Baria,U.S. Senate,,Democrat,Benton,TOTAL ,1091,
-2,Roger F. Wicker,U.S. Senate,,Republican,Benton,TOTAL ,1645,
-2,Danny Bedwell,U.S. Senate,,Libertarian,Benton,TOTAL ,28,
-2,Shawn O'Hara,U.S. Senate,,Reform,Benton,TOTAL ,20,
-2,Tobey Bernard Bartee,U.S. Senate,Unexpired Term,,Benton,TOTAL ,59,
-2,Mike Espy,U.S. Senate,Unexpired Term,,Benton,TOTAL ,1082,
-2,Cindy Hyde-Smith,U.S. Senate,Unexpired Term,,Benton,TOTAL ,1142,
-2,Chris McDaniel,U.S. Senate,Unexpired Term,,Benton,TOTAL ,458,
-2,Trent Kelly,U.S. House,1,Republican,Benton,TOTAL ,1618,
-2,Randy Mack Wadkins,U.S. House,1,Democrat,Benton,TOTAL ,1160,
-2,Tracella Lou O-Hara Hill,U.S. House,1,Reform,Benton,TOTAL ,19,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
+county,precinct,office,district,party,candidate,votes
+Benton,Ashland Precinct District 3,U.S. House,1,DEM,Randy Mack Wadkins,246
+Benton,Ashland Precinct District 3,U.S. House,1,REF,Tracella Lou O'Hara Hill,5
+Benton,Ashland Precinct District 3,U.S. House,1,REP,Trent Kelly,347
+Benton,Ashland Precinct District 3,U.S. Senate,Unexpired Term,,Chris McDaniel,95
+Benton,Ashland Precinct District 3,U.S. Senate,Unexpired Term,,Cindy Hyde-Smith,237
+Benton,Ashland Precinct District 3,U.S. Senate,Unexpired Term,,Mike Espy,240
+Benton,Ashland Precinct District 3,U.S. Senate,Unexpired Term,,Tobey Bernard Bartee,12
+Benton,Ashland Precinct District 3,U.S. Senate,,DEM,David Baria,230
+Benton,Ashland Precinct District 3,U.S. Senate,,LIB,Danny Bedwell,9
+Benton,Ashland Precinct District 3,U.S. Senate,,REF,Shawn O'Hara,4
+Benton,Ashland Precinct District 3,U.S. Senate,,REP,Roger F. Wicker,353
+Benton,Canaan Precinct District 1,U.S. House,1,DEM,Randy Mack Wadkins,311
+Benton,Canaan Precinct District 1,U.S. House,1,REF,Tracella Lou O'Hara Hill,2
+Benton,Canaan Precinct District 1,U.S. House,1,REP,Trent Kelly,223
+Benton,Canaan Precinct District 1,U.S. Senate,Unexpired Term,,Chris McDaniel,68
+Benton,Canaan Precinct District 1,U.S. Senate,Unexpired Term,,Cindy Hyde-Smith,167
+Benton,Canaan Precinct District 1,U.S. Senate,Unexpired Term,,Mike Espy,273
+Benton,Canaan Precinct District 1,U.S. Senate,Unexpired Term,,Tobey Bernard Bartee,12
+Benton,Canaan Precinct District 1,U.S. Senate,,DEM,David Baria,288
+Benton,Canaan Precinct District 1,U.S. Senate,,LIB,Danny Bedwell,4
+Benton,Canaan Precinct District 1,U.S. Senate,,REF,Shawn O'Hara,5
+Benton,Canaan Precinct District 1,U.S. Senate,,REP,Roger F. Wicker,231
+Benton,Floyd Precinct District 4,U.S. House,1,DEM,Randy Mack Wadkins,121
+Benton,Floyd Precinct District 4,U.S. House,1,REF,Tracella Lou O'Hara Hill,8
+Benton,Floyd Precinct District 4,U.S. House,1,REP,Trent Kelly,417
+Benton,Floyd Precinct District 4,U.S. Senate,Unexpired Term,,Chris McDaniel,126
+Benton,Floyd Precinct District 4,U.S. Senate,Unexpired Term,,Cindy Hyde-Smith,278
+Benton,Floyd Precinct District 4,U.S. Senate,Unexpired Term,,Mike Espy,123
+Benton,Floyd Precinct District 4,U.S. Senate,Unexpired Term,,Tobey Bernard Bartee,12
+Benton,Floyd Precinct District 4,U.S. Senate,,DEM,David Baria,116
+Benton,Floyd Precinct District 4,U.S. Senate,,LIB,Danny Bedwell,1
+Benton,Floyd Precinct District 4,U.S. Senate,,REF,Shawn O'Hara,3
+Benton,Floyd Precinct District 4,U.S. Senate,,REP,Roger F. Wicker,421
+Benton,Hickory Flat Prec Dist 5,U.S. House,1,DEM,Randy Mack Wadkins,70
+Benton,Hickory Flat Prec Dist 5,U.S. House,1,REF,Tracella Lou O'Hara Hill,3
+Benton,Hickory Flat Prec Dist 5,U.S. House,1,REP,Trent Kelly,490
+Benton,Hickory Flat Prec Dist 5,U.S. Senate,Unexpired Term,,Chris McDaniel,125
+Benton,Hickory Flat Prec Dist 5,U.S. Senate,Unexpired Term,,Cindy Hyde-Smith,354
+Benton,Hickory Flat Prec Dist 5,U.S. Senate,Unexpired Term,,Mike Espy,77
+Benton,Hickory Flat Prec Dist 5,U.S. Senate,Unexpired Term,,Tobey Bernard Bartee,5
+Benton,Hickory Flat Prec Dist 5,U.S. Senate,,DEM,David Baria,70
+Benton,Hickory Flat Prec Dist 5,U.S. Senate,,LIB,Danny Bedwell,9
+Benton,Hickory Flat Prec Dist 5,U.S. Senate,,REF,Shawn O'Hara,4
+Benton,Hickory Flat Prec Dist 5,U.S. Senate,,REP,Roger F. Wicker,490
+Benton,Lamar Precinct District 2,U.S. House,1,DEM,Randy Mack Wadkins,412
+Benton,Lamar Precinct District 2,U.S. House,1,REF,Tracella Lou O'Hara Hill,1
+Benton,Lamar Precinct District 2,U.S. House,1,REP,Trent Kelly,141
+Benton,Lamar Precinct District 2,U.S. Senate,Unexpired Term,,Chris McDaniel,44
+Benton,Lamar Precinct District 2,U.S. Senate,Unexpired Term,,Cindy Hyde-Smith,106
+Benton,Lamar Precinct District 2,U.S. Senate,Unexpired Term,,Mike Espy,369
+Benton,Lamar Precinct District 2,U.S. Senate,Unexpired Term,,Tobey Bernard Bartee,18
+Benton,Lamar Precinct District 2,U.S. Senate,,DEM,David Baria,387
+Benton,Lamar Precinct District 2,U.S. Senate,,LIB,Danny Bedwell,5
+Benton,Lamar Precinct District 2,U.S. Senate,,REF,Shawn O'Hara,4
+Benton,Lamar Precinct District 2,U.S. Senate,,REP,Roger F. Wicker,150
+Benton,Total,U.S. House,1,DEM,Randy Mack Wadkins,1160
+Benton,Total,U.S. House,1,REF,Tracella Lou O'Hara Hill,19
+Benton,Total,U.S. House,1,REP,Trent Kelly,1618
+Benton,Total,U.S. Senate,Unexpired Term,,Chris McDaniel,458
+Benton,Total,U.S. Senate,Unexpired Term,,Cindy Hyde-Smith,1142
+Benton,Total,U.S. Senate,Unexpired Term,,Mike Espy,1082
+Benton,Total,U.S. Senate,Unexpired Term,,Tobey Bernard Bartee,59
+Benton,Total,U.S. Senate,,DEM,David Baria,1091
+Benton,Total,U.S. Senate,,LIB,Danny Bedwell,28
+Benton,Total,U.S. Senate,,REF,Shawn O'Hara,20
+Benton,Total,U.S. Senate,,REP,Roger F. Wicker,1645

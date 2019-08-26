@@ -1,621 +1,353 @@
-page,candidate,office,district,party,county,precinct,votes,winner
-2,Richard Warren Boyanton,U.S. Senate,,R,Amite,Amite River,10,
-2,Roger F. Wicker,U.S. Senate,,R,Amite,Amite River,29,
-2,Richard Warren Boyanton,U.S. Senate,,R,Amite,Ariel,5,
-2,Roger F. Wicker,U.S. Senate,,R,Amite,Ariel,7,
-2,Richard Warren Boyanton,U.S. Senate,,R,Amite,Berwick,6,
-2,Roger F. Wicker,U.S. Senate,,R,Amite,Berwick,21,
-2,Richard Warren Boyanton,U.S. Senate,,R,Amite,Crosby,3,
-2,Roger F. Wicker,U.S. Senate,,R,Amite,Crosby,26,
-2,Richard Warren Boyanton,U.S. Senate,,R,Amite,East Centreville,10,
-2,Roger F. Wicker,U.S. Senate,,R,Amite,East Centreville,28,
-2,Richard Warren Boyanton,U.S. Senate,,R,Amite,East Fork,24,
-2,Roger F. Wicker,U.S. Senate,,R,Amite,East Fork,83,
-2,Richard Warren Boyanton,U.S. Senate,,R,Amite,East Gloster,10,
-2,Roger F. Wicker,U.S. Senate,,R,Amite,East Gloster,33,
-2,Richard Warren Boyanton,U.S. Senate,,R,Amite,East Liberty,8,
-2,Roger F. Wicker,U.S. Senate,,R,Amite,East Liberty,50,
-2,Richard Warren Boyanton,U.S. Senate,,R,Amite,Gloster,3,
-2,Roger F. Wicker,U.S. Senate,,R,Amite,Gloster,17,
-2,Richard Warren Boyanton,U.S. Senate,,R,Amite,Homochitto,2,
-2,Roger F. Wicker,U.S. Senate,,R,Amite,Homochitto,27,
-2,Richard Warren Boyanton,U.S. Senate,,R,Amite,Liberty,31,
-2,Roger F. Wicker,U.S. Senate,,R,Amite,Liberty,81,
-3,Richard Warren Boyanton,U.S. Senate,,R,Amite,New Zion,19,
-3,Roger F. Wicker,U.S. Senate,,R,Amite,New Zion,59,
-3,Richard Warren Boyanton,U.S. Senate,,R,Amite,Oneil,13,
-3,Roger F. Wicker,U.S. Senate,,R,Amite,Oneil,52,
-3,Richard Warren Boyanton,U.S. Senate,,R,Amite,Riceville,13,
-3,Roger F. Wicker,U.S. Senate,,R,Amite,Riceville,47,
-3,Richard Warren Boyanton,U.S. Senate,,R,Amite,Smithdale,9,
-3,Roger F. Wicker,U.S. Senate,,R,Amite,Smithdale,56,
-3,Richard Warren Boyanton,U.S. Senate,,R,Amite,South Liberty,4,
-3,Roger F. Wicker,U.S. Senate,,R,Amite,South Liberty,24,
-3,Richard Warren Boyanton,U.S. Senate,,R,Amite,Tangipahoa,11,
-3,Roger F. Wicker,U.S. Senate,,R,Amite,Tangipahoa,83,
-3,Richard Warren Boyanton,U.S. Senate,,R,Amite,Tickfaw,10,
-3,Roger F. Wicker,U.S. Senate,,R,Amite,Tickfaw,33,
-3,Richard Warren Boyanton,U.S. Senate,,R,Amite,Vance Park,12,
-3,Roger F. Wicker,U.S. Senate,,R,Amite,Vance Park,35,
-3,Richard Warren Boyanton,U.S. Senate,,R,Amite,Walls,25,
-3,Roger F. Wicker,U.S. Senate,,R,Amite,Walls,83,
-3,Richard Warren Boyanton,U.S. Senate,,R,Amite,Zion Hill,23,
-3,Roger F. Wicker,U.S. Senate,,R,Amite,Zion Hill,52,
-3,Richard Warren Boyanton,U.S. Senate,,R,Amite,TOTAL ,251,
-3,Roger F. Wicker,U.S. Senate,,R,Amite,TOTAL ,926,
-2,Sally Doty,U.S. House,03,R,Amite,Amite River,0,
-2,Morgan Dunn,U.S. House,03,R,Amite,Amite River,1,
-2,Michael Guest,U.S. House,03,R,Amite,Amite River,17,
-2,Whit Hughes,U.S. House,03,R,Amite,Amite River,15,
-2,Perry Parker,U.S. House,03,R,Amite,Amite River,7,
-2,Katherine 'Bitzi' Tate,U.S. House,03,R,Amite,Amite River,0,
-2,Sally Doty,U.S. House,03,R,Amite,Ariel,1,
-2,Morgan Dunn,U.S. House,03,R,Amite,Ariel,2,
-2,Michael Guest,U.S. House,03,R,Amite,Ariel,4,
-2,Whit Hughes,U.S. House,03,R,Amite,Ariel,4,
-2,Perry Parker,U.S. House,03,R,Amite,Ariel,0,
-2,Katherine 'Bitzi' Tate,U.S. House,03,R,Amite,Ariel,1,
-2,Sally Doty,U.S. House,03,R,Amite,Berwick,2,
-2,Morgan Dunn,U.S. House,03,R,Amite,Berwick,1,
-2,Michael Guest,U.S. House,03,R,Amite,Berwick,8,
-2,Whit Hughes,U.S. House,03,R,Amite,Berwick,7,
-2,Perry Parker,U.S. House,03,R,Amite,Berwick,7,
-2,Katherine 'Bitzi' Tate,U.S. House,03,R,Amite,Berwick,2,
-2,Sally Doty,U.S. House,03,R,Amite,Crosby,1,
-2,Morgan Dunn,U.S. House,03,R,Amite,Crosby,6,
-2,Michael Guest,U.S. House,03,R,Amite,Crosby,8,
-2,Whit Hughes,U.S. House,03,R,Amite,Crosby,10,
-2,Perry Parker,U.S. House,03,R,Amite,Crosby,5,
-2,Katherine 'Bitzi' Tate,U.S. House,03,R,Amite,Crosby,0,
-2,Sally Doty,U.S. House,03,R,Amite,East Centreville,5,
-2,Morgan Dunn,U.S. House,03,R,Amite,East Centreville,2,
-2,Michael Guest,U.S. House,03,R,Amite,East Centreville,10,
-2,Whit Hughes,U.S. House,03,R,Amite,East Centreville,11,
-2,Perry Parker,U.S. House,03,R,Amite,East Centreville,10,
-2,Katherine 'Bitzi' Tate,U.S. House,03,R,Amite,East Centreville,0,
-2,Sally Doty,U.S. House,03,R,Amite,East Fork,9,
-2,Morgan Dunn,U.S. House,03,R,Amite,East Fork,6,
-2,Michael Guest,U.S. House,03,R,Amite,East Fork,47,
-2,Whit Hughes,U.S. House,03,R,Amite,East Fork,30,
-2,Perry Parker,U.S. House,03,R,Amite,East Fork,12,
-2,Katherine 'Bitzi' Tate,U.S. House,03,R,Amite,East Fork,3,
-2,Sally Doty,U.S. House,03,R,Amite,East Gloster,11,
-2,Morgan Dunn,U.S. House,03,R,Amite,East Gloster,5,
-2,Michael Guest,U.S. House,03,R,Amite,East Gloster,8,
-2,Whit Hughes,U.S. House,03,R,Amite,East Gloster,7,
-2,Perry Parker,U.S. House,03,R,Amite,East Gloster,9,
-2,Katherine 'Bitzi' Tate,U.S. House,03,R,Amite,East Gloster,1,
-2,Sally Doty,U.S. House,03,R,Amite,East Liberty,7,
-2,Morgan Dunn,U.S. House,03,R,Amite,East Liberty,13,
-2,Michael Guest,U.S. House,03,R,Amite,East Liberty,10,
-2,Whit Hughes,U.S. House,03,R,Amite,East Liberty,20,
-2,Perry Parker,U.S. House,03,R,Amite,East Liberty,10,
-2,Katherine 'Bitzi' Tate,U.S. House,03,R,Amite,East Liberty,0,
-2,Sally Doty,U.S. House,03,R,Amite,Gloster,3,
-2,Morgan Dunn,U.S. House,03,R,Amite,Gloster,4,
-2,Michael Guest,U.S. House,03,R,Amite,Gloster,2,
-2,Whit Hughes,U.S. House,03,R,Amite,Gloster,4,
-2,Perry Parker,U.S. House,03,R,Amite,Gloster,6,
-2,Katherine 'Bitzi' Tate,U.S. House,03,R,Amite,Gloster,0,
-2,Sally Doty,U.S. House,03,R,Amite,Homochitto,5,
-2,Morgan Dunn,U.S. House,03,R,Amite,Homochitto,1,
-2,Michael Guest,U.S. House,03,R,Amite,Homochitto,8,
-2,Whit Hughes,U.S. House,03,R,Amite,Homochitto,9,
-2,Perry Parker,U.S. House,03,R,Amite,Homochitto,6,
-2,Katherine 'Bitzi' Tate,U.S. House,03,R,Amite,Homochitto,0,
-2,Sally Doty,U.S. House,03,R,Amite,Liberty,9,
-2,Morgan Dunn,U.S. House,03,R,Amite,Liberty,11,
-2,Michael Guest,U.S. House,03,R,Amite,Liberty,38,
-2,Whit Hughes,U.S. House,03,R,Amite,Liberty,38,
-2,Perry Parker,U.S. House,03,R,Amite,Liberty,18,
-2,Katherine 'Bitzi' Tate,U.S. House,03,R,Amite,Liberty,0,
-3,Sally Doty,U.S. House,03,R,Amite,New Zion,18,
-3,Morgan Dunn,U.S. House,03,R,Amite,New Zion,4,
-3,Michael Guest,U.S. House,03,R,Amite,New Zion,14,
-3,Whit Hughes,U.S. House,03,R,Amite,New Zion,23,
-3,Perry Parker,U.S. House,03,R,Amite,New Zion,19,
-3,Katherine 'Bitzi' Tate,U.S. House,03,R,Amite,New Zion,1,
-3,Sally Doty,U.S. House,03,R,Amite,Oneil,6,
-3,Morgan Dunn,U.S. House,03,R,Amite,Oneil,15,
-3,Michael Guest,U.S. House,03,R,Amite,Oneil,18,
-3,Whit Hughes,U.S. House,03,R,Amite,Oneil,9,
-3,Perry Parker,U.S. House,03,R,Amite,Oneil,19,
-3,Katherine 'Bitzi' Tate,U.S. House,03,R,Amite,Oneil,0,
-3,Sally Doty,U.S. House,03,R,Amite,Riceville,2,
-3,Morgan Dunn,U.S. House,03,R,Amite,Riceville,2,
-3,Michael Guest,U.S. House,03,R,Amite,Riceville,26,
-3,Whit Hughes,U.S. House,03,R,Amite,Riceville,24,
-3,Perry Parker,U.S. House,03,R,Amite,Riceville,9,
-3,Katherine 'Bitzi' Tate,U.S. House,03,R,Amite,Riceville,1,
-3,Sally Doty,U.S. House,03,R,Amite,Smithdale,7,
-3,Morgan Dunn,U.S. House,03,R,Amite,Smithdale,4,
-3,Michael Guest,U.S. House,03,R,Amite,Smithdale,14,
-3,Whit Hughes,U.S. House,03,R,Amite,Smithdale,17,
-3,Perry Parker,U.S. House,03,R,Amite,Smithdale,23,
-3,Katherine 'Bitzi' Tate,U.S. House,03,R,Amite,Smithdale,1,
-3,Sally Doty,U.S. House,03,R,Amite,South Liberty,6,
-3,Morgan Dunn,U.S. House,03,R,Amite,South Liberty,3,
-3,Michael Guest,U.S. House,03,R,Amite,South Liberty,6,
-3,Whit Hughes,U.S. House,03,R,Amite,South Liberty,13,
-3,Perry Parker,U.S. House,03,R,Amite,South Liberty,0,
-3,Katherine 'Bitzi' Tate,U.S. House,03,R,Amite,South Liberty,0,
-3,Sally Doty,U.S. House,03,R,Amite,Tangipahoa,27,
-3,Morgan Dunn,U.S. House,03,R,Amite,Tangipahoa,3,
-3,Michael Guest,U.S. House,03,R,Amite,Tangipahoa,25,
-3,Whit Hughes,U.S. House,03,R,Amite,Tangipahoa,16,
-3,Perry Parker,U.S. House,03,R,Amite,Tangipahoa,24,
-3,Katherine 'Bitzi' Tate,U.S. House,03,R,Amite,Tangipahoa,0,
-3,Sally Doty,U.S. House,03,R,Amite,Tickfaw,5,
-3,Morgan Dunn,U.S. House,03,R,Amite,Tickfaw,2,
-3,Michael Guest,U.S. House,03,R,Amite,Tickfaw,9,
-3,Whit Hughes,U.S. House,03,R,Amite,Tickfaw,19,
-3,Perry Parker,U.S. House,03,R,Amite,Tickfaw,7,
-3,Katherine 'Bitzi' Tate,U.S. House,03,R,Amite,Tickfaw,1,
-3,Sally Doty,U.S. House,03,R,Amite,Vance Park,3,
-3,Morgan Dunn,U.S. House,03,R,Amite,Vance Park,4,
-3,Michael Guest,U.S. House,03,R,Amite,Vance Park,18,
-3,Whit Hughes,U.S. House,03,R,Amite,Vance Park,19,
-3,Perry Parker,U.S. House,03,R,Amite,Vance Park,3,
-3,Katherine 'Bitzi' Tate,U.S. House,03,R,Amite,Vance Park,0,
-3,Sally Doty,U.S. House,03,R,Amite,Walls,6,
-3,Morgan Dunn,U.S. House,03,R,Amite,Walls,6,
-3,Michael Guest,U.S. House,03,R,Amite,Walls,51,
-3,Whit Hughes,U.S. House,03,R,Amite,Walls,42,
-3,Perry Parker,U.S. House,03,R,Amite,Walls,5,
-3,Katherine 'Bitzi' Tate,U.S. House,03,R,Amite,Walls,1,
-3,Sally Doty,U.S. House,03,R,Amite,Zion Hill,15,
-3,Morgan Dunn,U.S. House,03,R,Amite,Zion Hill,4,
-3,Michael Guest,U.S. House,03,R,Amite,Zion Hill,26,
-3,Whit Hughes,U.S. House,03,R,Amite,Zion Hill,14,
-3,Perry Parker,U.S. House,03,R,Amite,Zion Hill,16,
-3,Katherine 'Bitzi' Tate,U.S. House,03,R,Amite,Zion Hill,0,
-3,Sally Doty,U.S. House,03,R,Amite,TOTAL ,148,
-3,Morgan Dunn,U.S. House,03,R,Amite,TOTAL ,99,
-3,Michael Guest,U.S. House,03,R,Amite,TOTAL ,367,
-3,Whit Hughes,U.S. House,03,R,Amite,TOTAL ,351,
-3,Perry Parker,U.S. House,03,R,Amite,TOTAL ,215,
-3,Katherine 'Bitzi' Tate,U.S. House,03,R,Amite,TOTAL ,12,
-2,David Baria,U.S. Senate,,D,Amite,Amite River,20,
-2,Jensen Bohren,U.S. Senate,,D,Amite,Amite River,5,
-2,Jerone Garland,U.S. Senate,,D,Amite,Amite River,5,
-2,Victor G. Maurice Jr.,U.S. Senate,,D,Amite,Amite River,7,
-2,Omeria Scott,U.S. Senate,,D,Amite,Amite River,3,
-2,Howard Sherman,U.S. Senate,,D,Amite,Amite River,2,
-2,David Baria,U.S. Senate,,D,Amite,Ariel,27,
-2,Jensen Bohren,U.S. Senate,,D,Amite,Ariel,4,
-2,Jerone Garland,U.S. Senate,,D,Amite,Ariel,1,
-2,Victor G. Maurice Jr.,U.S. Senate,,D,Amite,Ariel,4,
-2,Omeria Scott,U.S. Senate,,D,Amite,Ariel,9,
-2,Howard Sherman,U.S. Senate,,D,Amite,Ariel,11,
-2,David Baria,U.S. Senate,,D,Amite,Berwick,19,
-2,Jensen Bohren,U.S. Senate,,D,Amite,Berwick,5,
-2,Jerone Garland,U.S. Senate,,D,Amite,Berwick,3,
-2,Victor G. Maurice Jr.,U.S. Senate,,D,Amite,Berwick,2,
-2,Omeria Scott,U.S. Senate,,D,Amite,Berwick,13,
-2,Howard Sherman,U.S. Senate,,D,Amite,Berwick,12,
-2,David Baria,U.S. Senate,,D,Amite,Crosby,5,
-2,Jensen Bohren,U.S. Senate,,D,Amite,Crosby,0,
-2,Jerone Garland,U.S. Senate,,D,Amite,Crosby,2,
-2,Victor G. Maurice Jr.,U.S. Senate,,D,Amite,Crosby,2,
-2,Omeria Scott,U.S. Senate,,D,Amite,Crosby,12,
-2,Howard Sherman,U.S. Senate,,D,Amite,Crosby,1,
-2,David Baria,U.S. Senate,,D,Amite,East Centreville,6,
-2,Jensen Bohren,U.S. Senate,,D,Amite,East Centreville,2,
-2,Jerone Garland,U.S. Senate,,D,Amite,East Centreville,2,
-2,Victor G. Maurice Jr.,U.S. Senate,,D,Amite,East Centreville,0,
-2,Omeria Scott,U.S. Senate,,D,Amite,East Centreville,7,
-2,Howard Sherman,U.S. Senate,,D,Amite,East Centreville,6,
-2,David Baria,U.S. Senate,,D,Amite,East Fork,4,
-2,Jensen Bohren,U.S. Senate,,D,Amite,East Fork,0,
-2,Jerone Garland,U.S. Senate,,D,Amite,East Fork,1,
-2,Victor G. Maurice Jr.,U.S. Senate,,D,Amite,East Fork,0,
-2,Omeria Scott,U.S. Senate,,D,Amite,East Fork,3,
-2,Howard Sherman,U.S. Senate,,D,Amite,East Fork,4,
-2,David Baria,U.S. Senate,,D,Amite,East Gloster,5,
-2,Jensen Bohren,U.S. Senate,,D,Amite,East Gloster,0,
-2,Jerone Garland,U.S. Senate,,D,Amite,East Gloster,0,
-2,Victor G. Maurice Jr.,U.S. Senate,,D,Amite,East Gloster,2,
-2,Omeria Scott,U.S. Senate,,D,Amite,East Gloster,7,
-2,Howard Sherman,U.S. Senate,,D,Amite,East Gloster,1,
-2,David Baria,U.S. Senate,,D,Amite,East Liberty,5,
-2,Jensen Bohren,U.S. Senate,,D,Amite,East Liberty,1,
-2,Jerone Garland,U.S. Senate,,D,Amite,East Liberty,0,
-2,Victor G. Maurice Jr.,U.S. Senate,,D,Amite,East Liberty,4,
-2,Omeria Scott,U.S. Senate,,D,Amite,East Liberty,3,
-2,Howard Sherman,U.S. Senate,,D,Amite,East Liberty,2,
-2,David Baria,U.S. Senate,,D,Amite,Gloster,17,
-2,Jensen Bohren,U.S. Senate,,D,Amite,Gloster,3,
-2,Jerone Garland,U.S. Senate,,D,Amite,Gloster,14,
-2,Victor G. Maurice Jr.,U.S. Senate,,D,Amite,Gloster,6,
-2,Omeria Scott,U.S. Senate,,D,Amite,Gloster,26,
-2,Howard Sherman,U.S. Senate,,D,Amite,Gloster,17,
-2,David Baria,U.S. Senate,,D,Amite,Homochitto,4,
-2,Jensen Bohren,U.S. Senate,,D,Amite,Homochitto,0,
-2,Jerone Garland,U.S. Senate,,D,Amite,Homochitto,0,
-2,Victor G. Maurice Jr.,U.S. Senate,,D,Amite,Homochitto,0,
-2,Omeria Scott,U.S. Senate,,D,Amite,Homochitto,0,
-2,Howard Sherman,U.S. Senate,,D,Amite,Homochitto,0,
-2,David Baria,U.S. Senate,,D,Amite,Liberty,7,
-2,Jensen Bohren,U.S. Senate,,D,Amite,Liberty,0,
-2,Jerone Garland,U.S. Senate,,D,Amite,Liberty,3,
-2,Victor G. Maurice Jr.,U.S. Senate,,D,Amite,Liberty,4,
-2,Omeria Scott,U.S. Senate,,D,Amite,Liberty,1,
-2,Howard Sherman,U.S. Senate,,D,Amite,Liberty,10,
-3,David Baria,U.S. Senate,,D,Amite,New Zion,0,
-3,Jensen Bohren,U.S. Senate,,D,Amite,New Zion,1,
-3,Jerone Garland,U.S. Senate,,D,Amite,New Zion,0,
-3,Victor G. Maurice Jr.,U.S. Senate,,D,Amite,New Zion,1,
-3,Omeria Scott,U.S. Senate,,D,Amite,New Zion,5,
-3,Howard Sherman,U.S. Senate,,D,Amite,New Zion,5,
-3,David Baria,U.S. Senate,,D,Amite,Oneil,1,
-3,Jensen Bohren,U.S. Senate,,D,Amite,Oneil,0,
-3,Jerone Garland,U.S. Senate,,D,Amite,Oneil,0,
-3,Victor G. Maurice Jr.,U.S. Senate,,D,Amite,Oneil,0,
-3,Omeria Scott,U.S. Senate,,D,Amite,Oneil,0,
-3,Howard Sherman,U.S. Senate,,D,Amite,Oneil,0,
-3,David Baria,U.S. Senate,,D,Amite,Riceville,6,
-3,Jensen Bohren,U.S. Senate,,D,Amite,Riceville,1,
-3,Jerone Garland,U.S. Senate,,D,Amite,Riceville,4,
-3,Victor G. Maurice Jr.,U.S. Senate,,D,Amite,Riceville,0,
-3,Omeria Scott,U.S. Senate,,D,Amite,Riceville,5,
-3,Howard Sherman,U.S. Senate,,D,Amite,Riceville,7,
-3,David Baria,U.S. Senate,,D,Amite,Smithdale,3,
-3,Jensen Bohren,U.S. Senate,,D,Amite,Smithdale,3,
-3,Jerone Garland,U.S. Senate,,D,Amite,Smithdale,3,
-3,Victor G. Maurice Jr.,U.S. Senate,,D,Amite,Smithdale,9,
-3,Omeria Scott,U.S. Senate,,D,Amite,Smithdale,3,
-3,Howard Sherman,U.S. Senate,,D,Amite,Smithdale,7,
-3,David Baria,U.S. Senate,,D,Amite,South Liberty,9,
-3,Jensen Bohren,U.S. Senate,,D,Amite,South Liberty,1,
-3,Jerone Garland,U.S. Senate,,D,Amite,South Liberty,17,
-3,Victor G. Maurice Jr.,U.S. Senate,,D,Amite,South Liberty,4,
-3,Omeria Scott,U.S. Senate,,D,Amite,South Liberty,6,
-3,Howard Sherman,U.S. Senate,,D,Amite,South Liberty,5,
-3,David Baria,U.S. Senate,,D,Amite,Tangipahoa,0,
-3,Jensen Bohren,U.S. Senate,,D,Amite,Tangipahoa,1,
-3,Jerone Garland,U.S. Senate,,D,Amite,Tangipahoa,0,
-3,Victor G. Maurice Jr.,U.S. Senate,,D,Amite,Tangipahoa,0,
-3,Omeria Scott,U.S. Senate,,D,Amite,Tangipahoa,1,
-3,Howard Sherman,U.S. Senate,,D,Amite,Tangipahoa,0,
-3,David Baria,U.S. Senate,,D,Amite,Tickfaw,13,
-3,Jensen Bohren,U.S. Senate,,D,Amite,Tickfaw,0,
-3,Jerone Garland,U.S. Senate,,D,Amite,Tickfaw,2,
-3,Victor G. Maurice Jr.,U.S. Senate,,D,Amite,Tickfaw,1,
-3,Omeria Scott,U.S. Senate,,D,Amite,Tickfaw,1,
-3,Howard Sherman,U.S. Senate,,D,Amite,Tickfaw,10,
-3,David Baria,U.S. Senate,,D,Amite,Vance Park,0,
-3,Jensen Bohren,U.S. Senate,,D,Amite,Vance Park,0,
-3,Jerone Garland,U.S. Senate,,D,Amite,Vance Park,1,
-3,Victor G. Maurice Jr.,U.S. Senate,,D,Amite,Vance Park,0,
-3,Omeria Scott,U.S. Senate,,D,Amite,Vance Park,1,
-3,Howard Sherman,U.S. Senate,,D,Amite,Vance Park,3,
-3,David Baria,U.S. Senate,,D,Amite,Walls,8,
-3,Jensen Bohren,U.S. Senate,,D,Amite,Walls,2,
-3,Jerone Garland,U.S. Senate,,D,Amite,Walls,3,
-3,Victor G. Maurice Jr.,U.S. Senate,,D,Amite,Walls,2,
-3,Omeria Scott,U.S. Senate,,D,Amite,Walls,18,
-3,Howard Sherman,U.S. Senate,,D,Amite,Walls,15,
-3,David Baria,U.S. Senate,,D,Amite,Zion Hill,5,
-3,Jensen Bohren,U.S. Senate,,D,Amite,Zion Hill,0,
-3,Jerone Garland,U.S. Senate,,D,Amite,Zion Hill,0,
-3,Victor G. Maurice Jr.,U.S. Senate,,D,Amite,Zion Hill,1,
-3,Omeria Scott,U.S. Senate,,D,Amite,Zion Hill,11,
-3,Howard Sherman,U.S. Senate,,D,Amite,Zion Hill,5,
-3,David Baria,U.S. Senate,,D,Amite,TOTAL ,164,
-3,Jensen Bohren,U.S. Senate,,D,Amite,TOTAL ,29,
-3,Jerone Garland,U.S. Senate,,D,Amite,TOTAL ,61,
-3,Victor G. Maurice Jr.,U.S. Senate,,D,Amite,TOTAL ,49,
-3,Omeria Scott,U.S. Senate,,D,Amite,TOTAL ,135,
-3,Howard Sherman,U.S. Senate,,D,Amite,TOTAL ,123,
-2,Michael Aycox,U.S. House,03,D,Amite,Amite River,16,
-2,Michael Ted Evans,U.S. House,03,D,Amite,Amite River,27,
-2,Michael Aycox,U.S. House,03,D,Amite,Ariel,29,
-2,Michael Ted Evans,U.S. House,03,D,Amite,Ariel,28,
-2,Michael Aycox,U.S. House,03,D,Amite,Berwick,10,
-2,Michael Ted Evans,U.S. House,03,D,Amite,Berwick,40,
-2,Michael Aycox,U.S. House,03,D,Amite,Crosby,4,
-2,Michael Ted Evans,U.S. House,03,D,Amite,Crosby,16,
-2,Michael Aycox,U.S. House,03,D,Amite,East Centreville,4,
-2,Michael Ted Evans,U.S. House,03,D,Amite,East Centreville,19,
-2,Michael Aycox,U.S. House,03,D,Amite,East Fork,5,
-2,Michael Ted Evans,U.S. House,03,D,Amite,East Fork,6,
-2,Michael Aycox,U.S. House,03,D,Amite,East Gloster,3,
-2,Michael Ted Evans,U.S. House,03,D,Amite,East Gloster,11,
-2,Michael Aycox,U.S. House,03,D,Amite,East Liberty,3,
-2,Michael Ted Evans,U.S. House,03,D,Amite,East Liberty,9,
-2,Michael Aycox,U.S. House,03,D,Amite,Gloster,19,
-2,Michael Ted Evans,U.S. House,03,D,Amite,Gloster,60,
-2,Michael Aycox,U.S. House,03,D,Amite,Homochitto,0,
-2,Michael Ted Evans,U.S. House,03,D,Amite,Homochitto,4,
-2,Michael Aycox,U.S. House,03,D,Amite,Liberty,9,
-2,Michael Ted Evans,U.S. House,03,D,Amite,Liberty,17,
-3,Michael Aycox,U.S. House,03,D,Amite,New Zion,3,
-3,Michael Ted Evans,U.S. House,03,D,Amite,New Zion,6,
-3,Michael Aycox,U.S. House,03,D,Amite,Oneil,0,
-3,Michael Ted Evans,U.S. House,03,D,Amite,Oneil,1,
-3,Michael Aycox,U.S. House,03,D,Amite,Riceville,9,
-3,Michael Ted Evans,U.S. House,03,D,Amite,Riceville,9,
-3,Michael Aycox,U.S. House,03,D,Amite,Smithdale,5,
-3,Michael Ted Evans,U.S. House,03,D,Amite,Smithdale,15,
-3,Michael Aycox,U.S. House,03,D,Amite,South Liberty,3,
-3,Michael Ted Evans,U.S. House,03,D,Amite,South Liberty,40,
-3,Michael Aycox,U.S. House,03,D,Amite,Tangipahoa,2,
-3,Michael Ted Evans,U.S. House,03,D,Amite,Tangipahoa,0,
-3,Michael Aycox,U.S. House,03,D,Amite,Tickfaw,16,
-3,Michael Ted Evans,U.S. House,03,D,Amite,Tickfaw,10,
-3,Michael Aycox,U.S. House,03,D,Amite,Vance Park,0,
-3,Michael Ted Evans,U.S. House,03,D,Amite,Vance Park,5,
-3,Michael Aycox,U.S. House,03,D,Amite,Walls,14,
-3,Michael Ted Evans,U.S. House,03,D,Amite,Walls,31,
-3,Michael Aycox,U.S. House,03,D,Amite,Zion Hill,4,
-3,Michael Ted Evans,U.S. House,03,D,Amite,Zion Hill,18,
-3,Michael Aycox,U.S. House,03,D,Amite,TOTAL ,158,
-3,Michael Ted Evans,U.S. House,03,D,Amite,TOTAL ,372,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
+county,precinct,office,district,party,candidate,votes
+Amite,Amite River,U.S. House,3,DEM,Michael Aycox,16
+Amite,Amite River,U.S. House,3,DEM,Michael Ted Evans,27
+Amite,Amite River,U.S. House,3,REP,Katherine 'Bitzi' Tate,0
+Amite,Amite River,U.S. House,3,REP,Michael Guest,17
+Amite,Amite River,U.S. House,3,REP,Morgan Dunn,1
+Amite,Amite River,U.S. House,3,REP,Perry Parker,7
+Amite,Amite River,U.S. House,3,REP,Sally Doty,0
+Amite,Amite River,U.S. House,3,REP,Whit Hughes,15
+Amite,Amite River,U.S. Senate,,DEM,David Baria,20
+Amite,Amite River,U.S. Senate,,DEM,Howard Sherman,2
+Amite,Amite River,U.S. Senate,,DEM,Jensen Bohren,5
+Amite,Amite River,U.S. Senate,,DEM,Jerone Garland,5
+Amite,Amite River,U.S. Senate,,DEM,Omeria Scott,3
+Amite,Amite River,U.S. Senate,,DEM,Victor G. Maurice Jr.,7
+Amite,Amite River,U.S. Senate,,REP,Richard Warren Boyanton,10
+Amite,Amite River,U.S. Senate,,REP,Roger F. Wicker,29
+Amite,Ariel,U.S. House,3,DEM,Michael Aycox,29
+Amite,Ariel,U.S. House,3,DEM,Michael Ted Evans,28
+Amite,Ariel,U.S. House,3,REP,Katherine 'Bitzi' Tate,1
+Amite,Ariel,U.S. House,3,REP,Michael Guest,4
+Amite,Ariel,U.S. House,3,REP,Morgan Dunn,2
+Amite,Ariel,U.S. House,3,REP,Perry Parker,0
+Amite,Ariel,U.S. House,3,REP,Sally Doty,1
+Amite,Ariel,U.S. House,3,REP,Whit Hughes,4
+Amite,Ariel,U.S. Senate,,DEM,David Baria,27
+Amite,Ariel,U.S. Senate,,DEM,Howard Sherman,11
+Amite,Ariel,U.S. Senate,,DEM,Jensen Bohren,4
+Amite,Ariel,U.S. Senate,,DEM,Jerone Garland,1
+Amite,Ariel,U.S. Senate,,DEM,Omeria Scott,9
+Amite,Ariel,U.S. Senate,,DEM,Victor G. Maurice Jr.,4
+Amite,Ariel,U.S. Senate,,REP,Richard Warren Boyanton,5
+Amite,Ariel,U.S. Senate,,REP,Roger F. Wicker,7
+Amite,Berwick,U.S. House,3,DEM,Michael Aycox,10
+Amite,Berwick,U.S. House,3,DEM,Michael Ted Evans,40
+Amite,Berwick,U.S. House,3,REP,Katherine 'Bitzi' Tate,2
+Amite,Berwick,U.S. House,3,REP,Michael Guest,8
+Amite,Berwick,U.S. House,3,REP,Morgan Dunn,1
+Amite,Berwick,U.S. House,3,REP,Perry Parker,7
+Amite,Berwick,U.S. House,3,REP,Sally Doty,2
+Amite,Berwick,U.S. House,3,REP,Whit Hughes,7
+Amite,Berwick,U.S. Senate,,DEM,David Baria,19
+Amite,Berwick,U.S. Senate,,DEM,Howard Sherman,12
+Amite,Berwick,U.S. Senate,,DEM,Jensen Bohren,5
+Amite,Berwick,U.S. Senate,,DEM,Jerone Garland,3
+Amite,Berwick,U.S. Senate,,DEM,Omeria Scott,13
+Amite,Berwick,U.S. Senate,,DEM,Victor G. Maurice Jr.,2
+Amite,Berwick,U.S. Senate,,REP,Richard Warren Boyanton,6
+Amite,Berwick,U.S. Senate,,REP,Roger F. Wicker,21
+Amite,Crosby,U.S. House,3,DEM,Michael Aycox,4
+Amite,Crosby,U.S. House,3,DEM,Michael Ted Evans,16
+Amite,Crosby,U.S. House,3,REP,Katherine 'Bitzi' Tate,0
+Amite,Crosby,U.S. House,3,REP,Michael Guest,8
+Amite,Crosby,U.S. House,3,REP,Morgan Dunn,6
+Amite,Crosby,U.S. House,3,REP,Perry Parker,5
+Amite,Crosby,U.S. House,3,REP,Sally Doty,1
+Amite,Crosby,U.S. House,3,REP,Whit Hughes,10
+Amite,Crosby,U.S. Senate,,DEM,David Baria,5
+Amite,Crosby,U.S. Senate,,DEM,Howard Sherman,1
+Amite,Crosby,U.S. Senate,,DEM,Jensen Bohren,0
+Amite,Crosby,U.S. Senate,,DEM,Jerone Garland,2
+Amite,Crosby,U.S. Senate,,DEM,Omeria Scott,12
+Amite,Crosby,U.S. Senate,,DEM,Victor G. Maurice Jr.,2
+Amite,Crosby,U.S. Senate,,REP,Richard Warren Boyanton,3
+Amite,Crosby,U.S. Senate,,REP,Roger F. Wicker,26
+Amite,East Centreville,U.S. House,3,DEM,Michael Aycox,4
+Amite,East Centreville,U.S. House,3,DEM,Michael Ted Evans,19
+Amite,East Centreville,U.S. House,3,REP,Katherine 'Bitzi' Tate,0
+Amite,East Centreville,U.S. House,3,REP,Michael Guest,10
+Amite,East Centreville,U.S. House,3,REP,Morgan Dunn,2
+Amite,East Centreville,U.S. House,3,REP,Perry Parker,10
+Amite,East Centreville,U.S. House,3,REP,Sally Doty,5
+Amite,East Centreville,U.S. House,3,REP,Whit Hughes,11
+Amite,East Centreville,U.S. Senate,,DEM,David Baria,6
+Amite,East Centreville,U.S. Senate,,DEM,Howard Sherman,6
+Amite,East Centreville,U.S. Senate,,DEM,Jensen Bohren,2
+Amite,East Centreville,U.S. Senate,,DEM,Jerone Garland,2
+Amite,East Centreville,U.S. Senate,,DEM,Omeria Scott,7
+Amite,East Centreville,U.S. Senate,,DEM,Victor G. Maurice Jr.,0
+Amite,East Centreville,U.S. Senate,,REP,Richard Warren Boyanton,10
+Amite,East Centreville,U.S. Senate,,REP,Roger F. Wicker,28
+Amite,East Fork,U.S. House,3,DEM,Michael Aycox,5
+Amite,East Fork,U.S. House,3,DEM,Michael Ted Evans,6
+Amite,East Fork,U.S. House,3,REP,Katherine 'Bitzi' Tate,3
+Amite,East Fork,U.S. House,3,REP,Michael Guest,47
+Amite,East Fork,U.S. House,3,REP,Morgan Dunn,6
+Amite,East Fork,U.S. House,3,REP,Perry Parker,12
+Amite,East Fork,U.S. House,3,REP,Sally Doty,9
+Amite,East Fork,U.S. House,3,REP,Whit Hughes,30
+Amite,East Fork,U.S. Senate,,DEM,David Baria,4
+Amite,East Fork,U.S. Senate,,DEM,Howard Sherman,4
+Amite,East Fork,U.S. Senate,,DEM,Jensen Bohren,0
+Amite,East Fork,U.S. Senate,,DEM,Jerone Garland,1
+Amite,East Fork,U.S. Senate,,DEM,Omeria Scott,3
+Amite,East Fork,U.S. Senate,,DEM,Victor G. Maurice Jr.,0
+Amite,East Fork,U.S. Senate,,REP,Richard Warren Boyanton,24
+Amite,East Fork,U.S. Senate,,REP,Roger F. Wicker,83
+Amite,East Gloster,U.S. House,3,DEM,Michael Aycox,3
+Amite,East Gloster,U.S. House,3,DEM,Michael Ted Evans,11
+Amite,East Gloster,U.S. House,3,REP,Katherine 'Bitzi' Tate,1
+Amite,East Gloster,U.S. House,3,REP,Michael Guest,8
+Amite,East Gloster,U.S. House,3,REP,Morgan Dunn,5
+Amite,East Gloster,U.S. House,3,REP,Perry Parker,9
+Amite,East Gloster,U.S. House,3,REP,Sally Doty,11
+Amite,East Gloster,U.S. House,3,REP,Whit Hughes,7
+Amite,East Gloster,U.S. Senate,,DEM,David Baria,5
+Amite,East Gloster,U.S. Senate,,DEM,Howard Sherman,1
+Amite,East Gloster,U.S. Senate,,DEM,Jensen Bohren,0
+Amite,East Gloster,U.S. Senate,,DEM,Jerone Garland,0
+Amite,East Gloster,U.S. Senate,,DEM,Omeria Scott,7
+Amite,East Gloster,U.S. Senate,,DEM,Victor G. Maurice Jr.,2
+Amite,East Gloster,U.S. Senate,,REP,Richard Warren Boyanton,10
+Amite,East Gloster,U.S. Senate,,REP,Roger F. Wicker,33
+Amite,East Liberty,U.S. House,3,DEM,Michael Aycox,3
+Amite,East Liberty,U.S. House,3,DEM,Michael Ted Evans,9
+Amite,East Liberty,U.S. House,3,REP,Katherine 'Bitzi' Tate,0
+Amite,East Liberty,U.S. House,3,REP,Michael Guest,10
+Amite,East Liberty,U.S. House,3,REP,Morgan Dunn,13
+Amite,East Liberty,U.S. House,3,REP,Perry Parker,10
+Amite,East Liberty,U.S. House,3,REP,Sally Doty,7
+Amite,East Liberty,U.S. House,3,REP,Whit Hughes,20
+Amite,East Liberty,U.S. Senate,,DEM,David Baria,5
+Amite,East Liberty,U.S. Senate,,DEM,Howard Sherman,2
+Amite,East Liberty,U.S. Senate,,DEM,Jensen Bohren,1
+Amite,East Liberty,U.S. Senate,,DEM,Jerone Garland,0
+Amite,East Liberty,U.S. Senate,,DEM,Omeria Scott,3
+Amite,East Liberty,U.S. Senate,,DEM,Victor G. Maurice Jr.,4
+Amite,East Liberty,U.S. Senate,,REP,Richard Warren Boyanton,8
+Amite,East Liberty,U.S. Senate,,REP,Roger F. Wicker,50
+Amite,Gloster,U.S. House,3,DEM,Michael Aycox,19
+Amite,Gloster,U.S. House,3,DEM,Michael Ted Evans,60
+Amite,Gloster,U.S. House,3,REP,Katherine 'Bitzi' Tate,0
+Amite,Gloster,U.S. House,3,REP,Michael Guest,2
+Amite,Gloster,U.S. House,3,REP,Morgan Dunn,4
+Amite,Gloster,U.S. House,3,REP,Perry Parker,6
+Amite,Gloster,U.S. House,3,REP,Sally Doty,3
+Amite,Gloster,U.S. House,3,REP,Whit Hughes,4
+Amite,Gloster,U.S. Senate,,DEM,David Baria,17
+Amite,Gloster,U.S. Senate,,DEM,Howard Sherman,17
+Amite,Gloster,U.S. Senate,,DEM,Jensen Bohren,3
+Amite,Gloster,U.S. Senate,,DEM,Jerone Garland,14
+Amite,Gloster,U.S. Senate,,DEM,Omeria Scott,26
+Amite,Gloster,U.S. Senate,,DEM,Victor G. Maurice Jr.,6
+Amite,Gloster,U.S. Senate,,REP,Richard Warren Boyanton,3
+Amite,Gloster,U.S. Senate,,REP,Roger F. Wicker,17
+Amite,Homochitto,U.S. House,3,DEM,Michael Aycox,0
+Amite,Homochitto,U.S. House,3,DEM,Michael Ted Evans,4
+Amite,Homochitto,U.S. House,3,REP,Katherine 'Bitzi' Tate,0
+Amite,Homochitto,U.S. House,3,REP,Michael Guest,8
+Amite,Homochitto,U.S. House,3,REP,Morgan Dunn,1
+Amite,Homochitto,U.S. House,3,REP,Perry Parker,6
+Amite,Homochitto,U.S. House,3,REP,Sally Doty,5
+Amite,Homochitto,U.S. House,3,REP,Whit Hughes,9
+Amite,Homochitto,U.S. Senate,,DEM,David Baria,4
+Amite,Homochitto,U.S. Senate,,DEM,Howard Sherman,0
+Amite,Homochitto,U.S. Senate,,DEM,Jensen Bohren,0
+Amite,Homochitto,U.S. Senate,,DEM,Jerone Garland,0
+Amite,Homochitto,U.S. Senate,,DEM,Omeria Scott,0
+Amite,Homochitto,U.S. Senate,,DEM,Victor G. Maurice Jr.,0
+Amite,Homochitto,U.S. Senate,,REP,Richard Warren Boyanton,2
+Amite,Homochitto,U.S. Senate,,REP,Roger F. Wicker,27
+Amite,Liberty,U.S. House,3,DEM,Michael Aycox,9
+Amite,Liberty,U.S. House,3,DEM,Michael Ted Evans,17
+Amite,Liberty,U.S. House,3,REP,Katherine 'Bitzi' Tate,0
+Amite,Liberty,U.S. House,3,REP,Michael Guest,38
+Amite,Liberty,U.S. House,3,REP,Morgan Dunn,11
+Amite,Liberty,U.S. House,3,REP,Perry Parker,18
+Amite,Liberty,U.S. House,3,REP,Sally Doty,9
+Amite,Liberty,U.S. House,3,REP,Whit Hughes,38
+Amite,Liberty,U.S. Senate,,DEM,David Baria,7
+Amite,Liberty,U.S. Senate,,DEM,Howard Sherman,10
+Amite,Liberty,U.S. Senate,,DEM,Jensen Bohren,0
+Amite,Liberty,U.S. Senate,,DEM,Jerone Garland,3
+Amite,Liberty,U.S. Senate,,DEM,Omeria Scott,1
+Amite,Liberty,U.S. Senate,,DEM,Victor G. Maurice Jr.,4
+Amite,Liberty,U.S. Senate,,REP,Richard Warren Boyanton,31
+Amite,Liberty,U.S. Senate,,REP,Roger F. Wicker,81
+Amite,New Zion,U.S. House,3,DEM,Michael Aycox,3
+Amite,New Zion,U.S. House,3,DEM,Michael Ted Evans,6
+Amite,New Zion,U.S. House,3,REP,Katherine 'Bitzi' Tate,1
+Amite,New Zion,U.S. House,3,REP,Michael Guest,14
+Amite,New Zion,U.S. House,3,REP,Morgan Dunn,4
+Amite,New Zion,U.S. House,3,REP,Perry Parker,19
+Amite,New Zion,U.S. House,3,REP,Sally Doty,18
+Amite,New Zion,U.S. House,3,REP,Whit Hughes,23
+Amite,New Zion,U.S. Senate,,DEM,David Baria,0
+Amite,New Zion,U.S. Senate,,DEM,Howard Sherman,5
+Amite,New Zion,U.S. Senate,,DEM,Jensen Bohren,1
+Amite,New Zion,U.S. Senate,,DEM,Jerone Garland,0
+Amite,New Zion,U.S. Senate,,DEM,Omeria Scott,5
+Amite,New Zion,U.S. Senate,,DEM,Victor G. Maurice Jr.,1
+Amite,New Zion,U.S. Senate,,REP,Richard Warren Boyanton,19
+Amite,New Zion,U.S. Senate,,REP,Roger F. Wicker,59
+Amite,Oneil,U.S. House,3,DEM,Michael Aycox,0
+Amite,Oneil,U.S. House,3,DEM,Michael Ted Evans,1
+Amite,Oneil,U.S. House,3,REP,Katherine 'Bitzi' Tate,0
+Amite,Oneil,U.S. House,3,REP,Michael Guest,18
+Amite,Oneil,U.S. House,3,REP,Morgan Dunn,15
+Amite,Oneil,U.S. House,3,REP,Perry Parker,19
+Amite,Oneil,U.S. House,3,REP,Sally Doty,6
+Amite,Oneil,U.S. House,3,REP,Whit Hughes,9
+Amite,Oneil,U.S. Senate,,DEM,David Baria,1
+Amite,Oneil,U.S. Senate,,DEM,Howard Sherman,0
+Amite,Oneil,U.S. Senate,,DEM,Jensen Bohren,0
+Amite,Oneil,U.S. Senate,,DEM,Jerone Garland,0
+Amite,Oneil,U.S. Senate,,DEM,Omeria Scott,0
+Amite,Oneil,U.S. Senate,,DEM,Victor G. Maurice Jr.,0
+Amite,Oneil,U.S. Senate,,REP,Richard Warren Boyanton,13
+Amite,Oneil,U.S. Senate,,REP,Roger F. Wicker,52
+Amite,Riceville,U.S. House,3,DEM,Michael Aycox,9
+Amite,Riceville,U.S. House,3,DEM,Michael Ted Evans,9
+Amite,Riceville,U.S. House,3,REP,Katherine 'Bitzi' Tate,1
+Amite,Riceville,U.S. House,3,REP,Michael Guest,26
+Amite,Riceville,U.S. House,3,REP,Morgan Dunn,2
+Amite,Riceville,U.S. House,3,REP,Perry Parker,9
+Amite,Riceville,U.S. House,3,REP,Sally Doty,2
+Amite,Riceville,U.S. House,3,REP,Whit Hughes,24
+Amite,Riceville,U.S. Senate,,DEM,David Baria,6
+Amite,Riceville,U.S. Senate,,DEM,Howard Sherman,7
+Amite,Riceville,U.S. Senate,,DEM,Jensen Bohren,1
+Amite,Riceville,U.S. Senate,,DEM,Jerone Garland,4
+Amite,Riceville,U.S. Senate,,DEM,Omeria Scott,5
+Amite,Riceville,U.S. Senate,,DEM,Victor G. Maurice Jr.,0
+Amite,Riceville,U.S. Senate,,REP,Richard Warren Boyanton,13
+Amite,Riceville,U.S. Senate,,REP,Roger F. Wicker,47
+Amite,Smithdale,U.S. House,3,DEM,Michael Aycox,5
+Amite,Smithdale,U.S. House,3,DEM,Michael Ted Evans,15
+Amite,Smithdale,U.S. House,3,REP,Katherine 'Bitzi' Tate,1
+Amite,Smithdale,U.S. House,3,REP,Michael Guest,14
+Amite,Smithdale,U.S. House,3,REP,Morgan Dunn,4
+Amite,Smithdale,U.S. House,3,REP,Perry Parker,23
+Amite,Smithdale,U.S. House,3,REP,Sally Doty,7
+Amite,Smithdale,U.S. House,3,REP,Whit Hughes,17
+Amite,Smithdale,U.S. Senate,,DEM,David Baria,3
+Amite,Smithdale,U.S. Senate,,DEM,Howard Sherman,7
+Amite,Smithdale,U.S. Senate,,DEM,Jensen Bohren,3
+Amite,Smithdale,U.S. Senate,,DEM,Jerone Garland,3
+Amite,Smithdale,U.S. Senate,,DEM,Omeria Scott,3
+Amite,Smithdale,U.S. Senate,,DEM,Victor G. Maurice Jr.,9
+Amite,Smithdale,U.S. Senate,,REP,Richard Warren Boyanton,9
+Amite,Smithdale,U.S. Senate,,REP,Roger F. Wicker,56
+Amite,South Liberty,U.S. House,3,DEM,Michael Aycox,3
+Amite,South Liberty,U.S. House,3,DEM,Michael Ted Evans,40
+Amite,South Liberty,U.S. House,3,REP,Katherine 'Bitzi' Tate,0
+Amite,South Liberty,U.S. House,3,REP,Michael Guest,6
+Amite,South Liberty,U.S. House,3,REP,Morgan Dunn,3
+Amite,South Liberty,U.S. House,3,REP,Perry Parker,0
+Amite,South Liberty,U.S. House,3,REP,Sally Doty,6
+Amite,South Liberty,U.S. House,3,REP,Whit Hughes,13
+Amite,South Liberty,U.S. Senate,,DEM,David Baria,9
+Amite,South Liberty,U.S. Senate,,DEM,Howard Sherman,5
+Amite,South Liberty,U.S. Senate,,DEM,Jensen Bohren,1
+Amite,South Liberty,U.S. Senate,,DEM,Jerone Garland,17
+Amite,South Liberty,U.S. Senate,,DEM,Omeria Scott,6
+Amite,South Liberty,U.S. Senate,,DEM,Victor G. Maurice Jr.,4
+Amite,South Liberty,U.S. Senate,,REP,Richard Warren Boyanton,4
+Amite,South Liberty,U.S. Senate,,REP,Roger F. Wicker,24
+Amite,Tangipahoa,U.S. House,3,DEM,Michael Aycox,2
+Amite,Tangipahoa,U.S. House,3,DEM,Michael Ted Evans,0
+Amite,Tangipahoa,U.S. House,3,REP,Katherine 'Bitzi' Tate,0
+Amite,Tangipahoa,U.S. House,3,REP,Michael Guest,25
+Amite,Tangipahoa,U.S. House,3,REP,Morgan Dunn,3
+Amite,Tangipahoa,U.S. House,3,REP,Perry Parker,24
+Amite,Tangipahoa,U.S. House,3,REP,Sally Doty,27
+Amite,Tangipahoa,U.S. House,3,REP,Whit Hughes,16
+Amite,Tangipahoa,U.S. Senate,,DEM,David Baria,0
+Amite,Tangipahoa,U.S. Senate,,DEM,Howard Sherman,0
+Amite,Tangipahoa,U.S. Senate,,DEM,Jensen Bohren,1
+Amite,Tangipahoa,U.S. Senate,,DEM,Jerone Garland,0
+Amite,Tangipahoa,U.S. Senate,,DEM,Omeria Scott,1
+Amite,Tangipahoa,U.S. Senate,,DEM,Victor G. Maurice Jr.,0
+Amite,Tangipahoa,U.S. Senate,,REP,Richard Warren Boyanton,11
+Amite,Tangipahoa,U.S. Senate,,REP,Roger F. Wicker,83
+Amite,Tickfaw,U.S. House,3,DEM,Michael Aycox,16
+Amite,Tickfaw,U.S. House,3,DEM,Michael Ted Evans,10
+Amite,Tickfaw,U.S. House,3,REP,Katherine 'Bitzi' Tate,1
+Amite,Tickfaw,U.S. House,3,REP,Michael Guest,9
+Amite,Tickfaw,U.S. House,3,REP,Morgan Dunn,2
+Amite,Tickfaw,U.S. House,3,REP,Perry Parker,7
+Amite,Tickfaw,U.S. House,3,REP,Sally Doty,5
+Amite,Tickfaw,U.S. House,3,REP,Whit Hughes,19
+Amite,Tickfaw,U.S. Senate,,DEM,David Baria,13
+Amite,Tickfaw,U.S. Senate,,DEM,Howard Sherman,10
+Amite,Tickfaw,U.S. Senate,,DEM,Jensen Bohren,0
+Amite,Tickfaw,U.S. Senate,,DEM,Jerone Garland,2
+Amite,Tickfaw,U.S. Senate,,DEM,Omeria Scott,1
+Amite,Tickfaw,U.S. Senate,,DEM,Victor G. Maurice Jr.,1
+Amite,Tickfaw,U.S. Senate,,REP,Richard Warren Boyanton,10
+Amite,Tickfaw,U.S. Senate,,REP,Roger F. Wicker,33
+Amite,Total,U.S. House,3,DEM,Michael Aycox,158
+Amite,Total,U.S. House,3,DEM,Michael Ted Evans,372
+Amite,Total,U.S. House,3,REP,Katherine 'Bitzi' Tate,12
+Amite,Total,U.S. House,3,REP,Michael Guest,367
+Amite,Total,U.S. House,3,REP,Morgan Dunn,99
+Amite,Total,U.S. House,3,REP,Perry Parker,215
+Amite,Total,U.S. House,3,REP,Sally Doty,148
+Amite,Total,U.S. House,3,REP,Whit Hughes,351
+Amite,Total,U.S. Senate,,DEM,David Baria,164
+Amite,Total,U.S. Senate,,DEM,Howard Sherman,123
+Amite,Total,U.S. Senate,,DEM,Jensen Bohren,29
+Amite,Total,U.S. Senate,,DEM,Jerone Garland,61
+Amite,Total,U.S. Senate,,DEM,Omeria Scott,135
+Amite,Total,U.S. Senate,,DEM,Victor G. Maurice Jr.,49
+Amite,Total,U.S. Senate,,REP,Richard Warren Boyanton,251
+Amite,Total,U.S. Senate,,REP,Roger F. Wicker,926
+Amite,Vance Park,U.S. House,3,DEM,Michael Aycox,0
+Amite,Vance Park,U.S. House,3,DEM,Michael Ted Evans,5
+Amite,Vance Park,U.S. House,3,REP,Katherine 'Bitzi' Tate,0
+Amite,Vance Park,U.S. House,3,REP,Michael Guest,18
+Amite,Vance Park,U.S. House,3,REP,Morgan Dunn,4
+Amite,Vance Park,U.S. House,3,REP,Perry Parker,3
+Amite,Vance Park,U.S. House,3,REP,Sally Doty,3
+Amite,Vance Park,U.S. House,3,REP,Whit Hughes,19
+Amite,Vance Park,U.S. Senate,,DEM,David Baria,0
+Amite,Vance Park,U.S. Senate,,DEM,Howard Sherman,3
+Amite,Vance Park,U.S. Senate,,DEM,Jensen Bohren,0
+Amite,Vance Park,U.S. Senate,,DEM,Jerone Garland,1
+Amite,Vance Park,U.S. Senate,,DEM,Omeria Scott,1
+Amite,Vance Park,U.S. Senate,,DEM,Victor G. Maurice Jr.,0
+Amite,Vance Park,U.S. Senate,,REP,Richard Warren Boyanton,12
+Amite,Vance Park,U.S. Senate,,REP,Roger F. Wicker,35
+Amite,Walls,U.S. House,3,DEM,Michael Aycox,14
+Amite,Walls,U.S. House,3,DEM,Michael Ted Evans,31
+Amite,Walls,U.S. House,3,REP,Katherine 'Bitzi' Tate,1
+Amite,Walls,U.S. House,3,REP,Michael Guest,51
+Amite,Walls,U.S. House,3,REP,Morgan Dunn,6
+Amite,Walls,U.S. House,3,REP,Perry Parker,5
+Amite,Walls,U.S. House,3,REP,Sally Doty,6
+Amite,Walls,U.S. House,3,REP,Whit Hughes,42
+Amite,Walls,U.S. Senate,,DEM,David Baria,8
+Amite,Walls,U.S. Senate,,DEM,Howard Sherman,15
+Amite,Walls,U.S. Senate,,DEM,Jensen Bohren,2
+Amite,Walls,U.S. Senate,,DEM,Jerone Garland,3
+Amite,Walls,U.S. Senate,,DEM,Omeria Scott,18
+Amite,Walls,U.S. Senate,,DEM,Victor G. Maurice Jr.,2
+Amite,Walls,U.S. Senate,,REP,Richard Warren Boyanton,25
+Amite,Walls,U.S. Senate,,REP,Roger F. Wicker,83
+Amite,Zion Hill,U.S. House,3,DEM,Michael Aycox,4
+Amite,Zion Hill,U.S. House,3,DEM,Michael Ted Evans,18
+Amite,Zion Hill,U.S. House,3,REP,Katherine 'Bitzi' Tate,0
+Amite,Zion Hill,U.S. House,3,REP,Michael Guest,26
+Amite,Zion Hill,U.S. House,3,REP,Morgan Dunn,4
+Amite,Zion Hill,U.S. House,3,REP,Perry Parker,16
+Amite,Zion Hill,U.S. House,3,REP,Sally Doty,15
+Amite,Zion Hill,U.S. House,3,REP,Whit Hughes,14
+Amite,Zion Hill,U.S. Senate,,DEM,David Baria,5
+Amite,Zion Hill,U.S. Senate,,DEM,Howard Sherman,5
+Amite,Zion Hill,U.S. Senate,,DEM,Jensen Bohren,0
+Amite,Zion Hill,U.S. Senate,,DEM,Jerone Garland,0
+Amite,Zion Hill,U.S. Senate,,DEM,Omeria Scott,11
+Amite,Zion Hill,U.S. Senate,,DEM,Victor G. Maurice Jr.,1
+Amite,Zion Hill,U.S. Senate,,REP,Richard Warren Boyanton,23
+Amite,Zion Hill,U.S. Senate,,REP,Roger F. Wicker,52

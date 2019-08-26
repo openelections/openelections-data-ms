@@ -1,140 +1,100 @@
-page,candidate,office,district,party,county,precinct,votes,winner
-2,Richard Warren Boyanton,U.S. Senate,,R,Sharkey,Anguilla Fifth District,1,
-2,Roger F. Wicker,U.S. Senate,,R,Sharkey,Anguilla Fifth District,2,
-2,Richard Warren Boyanton,U.S. Senate,,R,Sharkey,Anguilla Fourth District,3,
-2,Roger F. Wicker,U.S. Senate,,R,Sharkey,Anguilla Fourth District,15,
-2,Richard Warren Boyanton,U.S. Senate,,R,Sharkey,Cary Second District,0,
-2,Roger F. Wicker,U.S. Senate,,R,Sharkey,Cary Second District,15,
-2,Richard Warren Boyanton,U.S. Senate,,R,Sharkey,Delta City Fifth District,1,
-2,Roger F. Wicker,U.S. Senate,,R,Sharkey,Delta City Fifth District,14,
-2,Richard Warren Boyanton,U.S. Senate,,R,Sharkey,Rolling Fork First District,1,
-2,Roger F. Wicker,U.S. Senate,,R,Sharkey,Rolling Fork First District,48,
-2,Richard Warren Boyanton,U.S. Senate,,R,Sharkey,Rolling Fork Fourth District,0,
-2,Roger F. Wicker,U.S. Senate,,R,Sharkey,Rolling Fork Fourth District,0,
-2,Richard Warren Boyanton,U.S. Senate,,R,Sharkey,Rolling Fork Second District,0,
-2,Roger F. Wicker,U.S. Senate,,R,Sharkey,Rolling Fork Second District,0,
-2,Richard Warren Boyanton,U.S. Senate,,R,Sharkey,Rolling Fork Third District,0,
-2,Roger F. Wicker,U.S. Senate,,R,Sharkey,Rolling Fork Third District,3,
-2,Richard Warren Boyanton,U.S. Senate,,R,Sharkey,Spanish Fort First District,0,
-2,Roger F. Wicker,U.S. Senate,,R,Sharkey,Spanish Fort First District,14,
-2,Richard Warren Boyanton,U.S. Senate,,R,Sharkey,Straight Bayou Fourth District ,1,
-2,Roger F. Wicker,U.S. Senate,,R,Sharkey,Straight Bayou Fourth District ,10,
-2,Richard Warren Boyanton,U.S. Senate,,R,Sharkey,TOTAL ,7,
-2,Roger F. Wicker,U.S. Senate,,R,Sharkey,TOTAL ,121,
-2,David Baria,U.S. Senate,,D,Sharkey,Anguilla Fifth District,11,
-2,Jensen Bohren,U.S. Senate,,D,Sharkey,Anguilla Fifth District,0,
-2,Jerone Garland,U.S. Senate,,D,Sharkey,Anguilla Fifth District,1,
-2,Victor G. Maurice Jr.,U.S. Senate,,D,Sharkey,Anguilla Fifth District,4,
-2,Omeria Scott,U.S. Senate,,D,Sharkey,Anguilla Fifth District,21,
-2,Howard Sherman,U.S. Senate,,D,Sharkey,Anguilla Fifth District,22,
-2,David Baria,U.S. Senate,,D,Sharkey,Anguilla Fourth District,6,
-2,Jensen Bohren,U.S. Senate,,D,Sharkey,Anguilla Fourth District,0,
-2,Jerone Garland,U.S. Senate,,D,Sharkey,Anguilla Fourth District,3,
-2,Victor G. Maurice Jr.,U.S. Senate,,D,Sharkey,Anguilla Fourth District,2,
-2,Omeria Scott,U.S. Senate,,D,Sharkey,Anguilla Fourth District,9,
-2,Howard Sherman,U.S. Senate,,D,Sharkey,Anguilla Fourth District,14,
-2,David Baria,U.S. Senate,,D,Sharkey,Cary Second District,7,
-2,Jensen Bohren,U.S. Senate,,D,Sharkey,Cary Second District,4,
-2,Jerone Garland,U.S. Senate,,D,Sharkey,Cary Second District,1,
-2,Victor G. Maurice Jr.,U.S. Senate,,D,Sharkey,Cary Second District,4,
-2,Omeria Scott,U.S. Senate,,D,Sharkey,Cary Second District,6,
-2,Howard Sherman,U.S. Senate,,D,Sharkey,Cary Second District,22,
-2,David Baria,U.S. Senate,,D,Sharkey,Delta City Fifth District,1,
-2,Jensen Bohren,U.S. Senate,,D,Sharkey,Delta City Fifth District,0,
-2,Jerone Garland,U.S. Senate,,D,Sharkey,Delta City Fifth District,0,
-2,Victor G. Maurice Jr.,U.S. Senate,,D,Sharkey,Delta City Fifth District,2,
-2,Omeria Scott,U.S. Senate,,D,Sharkey,Delta City Fifth District,0,
-2,Howard Sherman,U.S. Senate,,D,Sharkey,Delta City Fifth District,8,
-2,David Baria,U.S. Senate,,D,Sharkey,Rolling Fork First District,7,
-2,Jensen Bohren,U.S. Senate,,D,Sharkey,Rolling Fork First District,2,
-2,Jerone Garland,U.S. Senate,,D,Sharkey,Rolling Fork First District,2,
-2,Victor G. Maurice Jr.,U.S. Senate,,D,Sharkey,Rolling Fork First District,3,
-2,Omeria Scott,U.S. Senate,,D,Sharkey,Rolling Fork First District,6,
-2,Howard Sherman,U.S. Senate,,D,Sharkey,Rolling Fork First District,17,
-2,David Baria,U.S. Senate,,D,Sharkey,Rolling Fork Fourth District,0,
-2,Jensen Bohren,U.S. Senate,,D,Sharkey,Rolling Fork Fourth District,1,
-2,Jerone Garland,U.S. Senate,,D,Sharkey,Rolling Fork Fourth District,1,
-2,Victor G. Maurice Jr.,U.S. Senate,,D,Sharkey,Rolling Fork Fourth District,2,
-2,Omeria Scott,U.S. Senate,,D,Sharkey,Rolling Fork Fourth District,1,
-2,Howard Sherman,U.S. Senate,,D,Sharkey,Rolling Fork Fourth District,5,
-2,David Baria,U.S. Senate,,D,Sharkey,Rolling Fork Second District,1,
-2,Jensen Bohren,U.S. Senate,,D,Sharkey,Rolling Fork Second District,0,
-2,Jerone Garland,U.S. Senate,,D,Sharkey,Rolling Fork Second District,0,
-2,Victor G. Maurice Jr.,U.S. Senate,,D,Sharkey,Rolling Fork Second District,0,
-2,Omeria Scott,U.S. Senate,,D,Sharkey,Rolling Fork Second District,0,
-2,Howard Sherman,U.S. Senate,,D,Sharkey,Rolling Fork Second District,2,
-2,David Baria,U.S. Senate,,D,Sharkey,Rolling Fork Third District,5,
-2,Jensen Bohren,U.S. Senate,,D,Sharkey,Rolling Fork Third District,1,
-2,Jerone Garland,U.S. Senate,,D,Sharkey,Rolling Fork Third District,3,
-2,Victor G. Maurice Jr.,U.S. Senate,,D,Sharkey,Rolling Fork Third District,5,
-2,Omeria Scott,U.S. Senate,,D,Sharkey,Rolling Fork Third District,5,
-2,Howard Sherman,U.S. Senate,,D,Sharkey,Rolling Fork Third District,18,
-2,David Baria,U.S. Senate,,D,Sharkey,Spanish Fort First District,0,
-2,Jensen Bohren,U.S. Senate,,D,Sharkey,Spanish Fort First District,0,
-2,Jerone Garland,U.S. Senate,,D,Sharkey,Spanish Fort First District,0,
-2,Victor G. Maurice Jr.,U.S. Senate,,D,Sharkey,Spanish Fort First District,0,
-2,Omeria Scott,U.S. Senate,,D,Sharkey,Spanish Fort First District,0,
-2,Howard Sherman,U.S. Senate,,D,Sharkey,Spanish Fort First District,1,
-2,David Baria,U.S. Senate,,D,Sharkey,Straight Bayou Fourth District ,0,
-2,Jensen Bohren,U.S. Senate,,D,Sharkey,Straight Bayou Fourth District ,0,
-2,Jerone Garland,U.S. Senate,,D,Sharkey,Straight Bayou Fourth District ,0,
-2,Victor G. Maurice Jr.,U.S. Senate,,D,Sharkey,Straight Bayou Fourth District ,0,
-2,Omeria Scott,U.S. Senate,,D,Sharkey,Straight Bayou Fourth District ,0,
-2,Howard Sherman,U.S. Senate,,D,Sharkey,Straight Bayou Fourth District ,0,
-2,David Baria,U.S. Senate,,D,Sharkey,TOTAL ,38,
-2,Jensen Bohren,U.S. Senate,,D,Sharkey,TOTAL ,8,
-2,Jerone Garland,U.S. Senate,,D,Sharkey,TOTAL ,11,
-2,Victor G. Maurice Jr.,U.S. Senate,,D,Sharkey,TOTAL ,22,
-2,Omeria Scott,U.S. Senate,,D,Sharkey,TOTAL ,48,
-2,Howard Sherman,U.S. Senate,,D,Sharkey,TOTAL ,109,
-2,Bennie G. Thompson,U.S. Senate,,D,Sharkey,Anguilla Fifth District,60,
-2,Bennie G. Thompson,U.S. Senate,,D,Sharkey,Anguilla Fourth District,41,
-2,Bennie G. Thompson,U.S. Senate,,D,Sharkey,Cary Second District,62,
-2,Bennie G. Thompson,U.S. Senate,,D,Sharkey,Delta City Fifth District,14,
-2,Bennie G. Thompson,U.S. Senate,,D,Sharkey,Rolling Fork First District,47,
-2,Bennie G. Thompson,U.S. Senate,,D,Sharkey,Rolling Fork Fourth District,9,
-2,Bennie G. Thompson,U.S. Senate,,D,Sharkey,Rolling Fork Second District,6,
-2,Bennie G. Thompson,U.S. Senate,,D,Sharkey,Rolling Fork Third District,48,
-2,Bennie G. Thompson,U.S. Senate,,D,Sharkey,Spanish Fort First District,1,
-2,Bennie G. Thompson,U.S. Senate,,D,Sharkey,Straight Bayou Fourth District ,0,
-2,Bennie G. Thompson,U.S. Senate,,D,Sharkey,TOTAL ,288,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
+county,precinct,office,district,party,candidate,votes
+Sharkey,Anguilla Fifth District,U.S. Senate,,DEM,Bennie G. Thompson,60
+Sharkey,Anguilla Fifth District,U.S. Senate,,DEM,David Baria,11
+Sharkey,Anguilla Fifth District,U.S. Senate,,DEM,Howard Sherman,22
+Sharkey,Anguilla Fifth District,U.S. Senate,,DEM,Jensen Bohren,0
+Sharkey,Anguilla Fifth District,U.S. Senate,,DEM,Jerone Garland,1
+Sharkey,Anguilla Fifth District,U.S. Senate,,DEM,Omeria Scott,21
+Sharkey,Anguilla Fifth District,U.S. Senate,,DEM,Victor G. Maurice Jr.,4
+Sharkey,Anguilla Fifth District,U.S. Senate,,REP,Richard Warren Boyanton,1
+Sharkey,Anguilla Fifth District,U.S. Senate,,REP,Roger F. Wicker,2
+Sharkey,Anguilla Fourth District,U.S. Senate,,DEM,Bennie G. Thompson,41
+Sharkey,Anguilla Fourth District,U.S. Senate,,DEM,David Baria,6
+Sharkey,Anguilla Fourth District,U.S. Senate,,DEM,Howard Sherman,14
+Sharkey,Anguilla Fourth District,U.S. Senate,,DEM,Jensen Bohren,0
+Sharkey,Anguilla Fourth District,U.S. Senate,,DEM,Jerone Garland,3
+Sharkey,Anguilla Fourth District,U.S. Senate,,DEM,Omeria Scott,9
+Sharkey,Anguilla Fourth District,U.S. Senate,,DEM,Victor G. Maurice Jr.,2
+Sharkey,Anguilla Fourth District,U.S. Senate,,REP,Richard Warren Boyanton,3
+Sharkey,Anguilla Fourth District,U.S. Senate,,REP,Roger F. Wicker,15
+Sharkey,Cary Second District,U.S. Senate,,DEM,Bennie G. Thompson,62
+Sharkey,Cary Second District,U.S. Senate,,DEM,David Baria,7
+Sharkey,Cary Second District,U.S. Senate,,DEM,Howard Sherman,22
+Sharkey,Cary Second District,U.S. Senate,,DEM,Jensen Bohren,4
+Sharkey,Cary Second District,U.S. Senate,,DEM,Jerone Garland,1
+Sharkey,Cary Second District,U.S. Senate,,DEM,Omeria Scott,6
+Sharkey,Cary Second District,U.S. Senate,,DEM,Victor G. Maurice Jr.,4
+Sharkey,Cary Second District,U.S. Senate,,REP,Richard Warren Boyanton,0
+Sharkey,Cary Second District,U.S. Senate,,REP,Roger F. Wicker,15
+Sharkey,Delta City Fifth District,U.S. Senate,,DEM,Bennie G. Thompson,14
+Sharkey,Delta City Fifth District,U.S. Senate,,DEM,David Baria,1
+Sharkey,Delta City Fifth District,U.S. Senate,,DEM,Howard Sherman,8
+Sharkey,Delta City Fifth District,U.S. Senate,,DEM,Jensen Bohren,0
+Sharkey,Delta City Fifth District,U.S. Senate,,DEM,Jerone Garland,0
+Sharkey,Delta City Fifth District,U.S. Senate,,DEM,Omeria Scott,0
+Sharkey,Delta City Fifth District,U.S. Senate,,DEM,Victor G. Maurice Jr.,2
+Sharkey,Delta City Fifth District,U.S. Senate,,REP,Richard Warren Boyanton,1
+Sharkey,Delta City Fifth District,U.S. Senate,,REP,Roger F. Wicker,14
+Sharkey,Rolling Fork First District,U.S. Senate,,DEM,Bennie G. Thompson,47
+Sharkey,Rolling Fork First District,U.S. Senate,,DEM,David Baria,7
+Sharkey,Rolling Fork First District,U.S. Senate,,DEM,Howard Sherman,17
+Sharkey,Rolling Fork First District,U.S. Senate,,DEM,Jensen Bohren,2
+Sharkey,Rolling Fork First District,U.S. Senate,,DEM,Jerone Garland,2
+Sharkey,Rolling Fork First District,U.S. Senate,,DEM,Omeria Scott,6
+Sharkey,Rolling Fork First District,U.S. Senate,,DEM,Victor G. Maurice Jr.,3
+Sharkey,Rolling Fork First District,U.S. Senate,,REP,Richard Warren Boyanton,1
+Sharkey,Rolling Fork First District,U.S. Senate,,REP,Roger F. Wicker,48
+Sharkey,Rolling Fork Fourth District,U.S. Senate,,DEM,Bennie G. Thompson,9
+Sharkey,Rolling Fork Fourth District,U.S. Senate,,DEM,David Baria,0
+Sharkey,Rolling Fork Fourth District,U.S. Senate,,DEM,Howard Sherman,5
+Sharkey,Rolling Fork Fourth District,U.S. Senate,,DEM,Jensen Bohren,1
+Sharkey,Rolling Fork Fourth District,U.S. Senate,,DEM,Jerone Garland,1
+Sharkey,Rolling Fork Fourth District,U.S. Senate,,DEM,Omeria Scott,1
+Sharkey,Rolling Fork Fourth District,U.S. Senate,,DEM,Victor G. Maurice Jr.,2
+Sharkey,Rolling Fork Fourth District,U.S. Senate,,REP,Richard Warren Boyanton,0
+Sharkey,Rolling Fork Fourth District,U.S. Senate,,REP,Roger F. Wicker,0
+Sharkey,Rolling Fork Second District,U.S. Senate,,DEM,Bennie G. Thompson,6
+Sharkey,Rolling Fork Second District,U.S. Senate,,DEM,David Baria,1
+Sharkey,Rolling Fork Second District,U.S. Senate,,DEM,Howard Sherman,2
+Sharkey,Rolling Fork Second District,U.S. Senate,,DEM,Jensen Bohren,0
+Sharkey,Rolling Fork Second District,U.S. Senate,,DEM,Jerone Garland,0
+Sharkey,Rolling Fork Second District,U.S. Senate,,DEM,Omeria Scott,0
+Sharkey,Rolling Fork Second District,U.S. Senate,,DEM,Victor G. Maurice Jr.,0
+Sharkey,Rolling Fork Second District,U.S. Senate,,REP,Richard Warren Boyanton,0
+Sharkey,Rolling Fork Second District,U.S. Senate,,REP,Roger F. Wicker,0
+Sharkey,Rolling Fork Third District,U.S. Senate,,DEM,Bennie G. Thompson,48
+Sharkey,Rolling Fork Third District,U.S. Senate,,DEM,David Baria,5
+Sharkey,Rolling Fork Third District,U.S. Senate,,DEM,Howard Sherman,18
+Sharkey,Rolling Fork Third District,U.S. Senate,,DEM,Jensen Bohren,1
+Sharkey,Rolling Fork Third District,U.S. Senate,,DEM,Jerone Garland,3
+Sharkey,Rolling Fork Third District,U.S. Senate,,DEM,Omeria Scott,5
+Sharkey,Rolling Fork Third District,U.S. Senate,,DEM,Victor G. Maurice Jr.,5
+Sharkey,Rolling Fork Third District,U.S. Senate,,REP,Richard Warren Boyanton,0
+Sharkey,Rolling Fork Third District,U.S. Senate,,REP,Roger F. Wicker,3
+Sharkey,Spanish Fort First District,U.S. Senate,,DEM,Bennie G. Thompson,1
+Sharkey,Spanish Fort First District,U.S. Senate,,DEM,David Baria,0
+Sharkey,Spanish Fort First District,U.S. Senate,,DEM,Howard Sherman,1
+Sharkey,Spanish Fort First District,U.S. Senate,,DEM,Jensen Bohren,0
+Sharkey,Spanish Fort First District,U.S. Senate,,DEM,Jerone Garland,0
+Sharkey,Spanish Fort First District,U.S. Senate,,DEM,Omeria Scott,0
+Sharkey,Spanish Fort First District,U.S. Senate,,DEM,Victor G. Maurice Jr.,0
+Sharkey,Spanish Fort First District,U.S. Senate,,REP,Richard Warren Boyanton,0
+Sharkey,Spanish Fort First District,U.S. Senate,,REP,Roger F. Wicker,14
+Sharkey,Straight Bayou Fourth District,U.S. Senate,,DEM,Bennie G. Thompson,0
+Sharkey,Straight Bayou Fourth District,U.S. Senate,,DEM,David Baria,0
+Sharkey,Straight Bayou Fourth District,U.S. Senate,,DEM,Howard Sherman,0
+Sharkey,Straight Bayou Fourth District,U.S. Senate,,DEM,Jensen Bohren,0
+Sharkey,Straight Bayou Fourth District,U.S. Senate,,DEM,Jerone Garland,0
+Sharkey,Straight Bayou Fourth District,U.S. Senate,,DEM,Omeria Scott,0
+Sharkey,Straight Bayou Fourth District,U.S. Senate,,DEM,Victor G. Maurice Jr.,0
+Sharkey,Straight Bayou Fourth District,U.S. Senate,,REP,Richard Warren Boyanton,1
+Sharkey,Straight Bayou Fourth District,U.S. Senate,,REP,Roger F. Wicker,10
+Sharkey,Total,U.S. Senate,,DEM,Bennie G. Thompson,288
+Sharkey,Total,U.S. Senate,,DEM,David Baria,38
+Sharkey,Total,U.S. Senate,,DEM,Howard Sherman,109
+Sharkey,Total,U.S. Senate,,DEM,Jensen Bohren,8
+Sharkey,Total,U.S. Senate,,DEM,Jerone Garland,11
+Sharkey,Total,U.S. Senate,,DEM,Omeria Scott,48
+Sharkey,Total,U.S. Senate,,DEM,Victor G. Maurice Jr.,22
+Sharkey,Total,U.S. Senate,,REP,Richard Warren Boyanton,7
+Sharkey,Total,U.S. Senate,,REP,Roger F. Wicker,121

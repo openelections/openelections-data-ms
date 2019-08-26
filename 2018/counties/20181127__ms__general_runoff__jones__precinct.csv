@@ -1,201 +1,77 @@
-Page,candidate,office,district,party,county,precinct,votes,winner
-2,Mike Espy,U.S. Senate,Unexpired Term,,Jones,Antioch,13,
-2,Cindy Hyde-Smith,U.S. Senate,Unexpired Term,,Jones,Antioch,194,
-2,Mike Espy,U.S. Senate,Unexpired Term,,Jones,Big Creek,13,
-2,Cindy Hyde-Smith,U.S. Senate,Unexpired Term,,Jones,Big Creek,271,
-2,Mike Espy,U.S. Senate,Unexpired Term,,Jones,Blackwell,7,
-2,Cindy Hyde-Smith,U.S. Senate,Unexpired Term,,Jones,Blackwell,185,
-2,Mike Espy,U.S. Senate,Unexpired Term,,Jones,Calhoun,76,
-2,Cindy Hyde-Smith,U.S. Senate,Unexpired Term,,Jones,Calhoun,902,
-2,Mike Espy,U.S. Senate,Unexpired Term,,Jones,Centerville,9,
-2,Cindy Hyde-Smith,U.S. Senate,Unexpired Term,,Jones,Centerville,107,
-2,Mike Espy,U.S. Senate,Unexpired Term,,Jones,Currie,150,
-2,Cindy Hyde-Smith,U.S. Senate,Unexpired Term,,Jones,Currie,16,
-2,Mike Espy,U.S. Senate,Unexpired Term,,Jones,Erata,177,
-2,Cindy Hyde-Smith,U.S. Senate,Unexpired Term,,Jones,Erata,108,
-2,Mike Espy,U.S. Senate,Unexpired Term,,Jones,First Assembly of God,277,
-2,Cindy Hyde-Smith,U.S. Senate,Unexpired Term,,Jones,First Assembly of God,195,
-2,Mike Espy,U.S. Senate,Unexpired Term,,Jones,George Harrison,251,
-2,Cindy Hyde-Smith,U.S. Senate,Unexpired Term,,Jones,George Harrison,582,
-2,Mike Espy,U.S. Senate,Unexpired Term,,Jones,Gitano,54,
-2,Cindy Hyde-Smith,U.S. Senate,Unexpired Term,,Jones,Gitano,136,
-2,Mike Espy,U.S. Senate,Unexpired Term,,Jones,Glade,33,
-2,Cindy Hyde-Smith,U.S. Senate,Unexpired Term,,Jones,Glade,525,
-3,Mike Espy,U.S. Senate,Unexpired Term,,Jones,Hebron,296,
-3,Cindy Hyde-Smith,U.S. Senate,Unexpired Term,,Jones,Hebron,156,
-3,Mike Espy,U.S. Senate,Unexpired Term,,Jones,Johnson,18,
-3,Cindy Hyde-Smith,U.S. Senate,Unexpired Term,,Jones,Johnson,313,
-3,Mike Espy,U.S. Senate,Unexpired Term,,Jones,L T Ellis Center,1121,
-3,Cindy Hyde-Smith,U.S. Senate,Unexpired Term,,Jones,L T Ellis Center,16,
-3,Mike Espy,U.S. Senate,Unexpired Term,,Jones,Landrum,9,
-3,Cindy Hyde-Smith,U.S. Senate,Unexpired Term,,Jones,Landrum,221,
-3,Mike Espy,U.S. Senate,Unexpired Term,,Jones,Magnolia Center,997,
-3,Cindy Hyde-Smith,U.S. Senate,Unexpired Term,,Jones,Magnolia Center,185,
-3,Mike Espy,U.S. Senate,Unexpired Term,,Jones,Matthews,28,
-3,Cindy Hyde-Smith,U.S. Senate,Unexpired Term,,Jones,Matthews,268,
-3,Mike Espy,U.S. Senate,Unexpired Term,,Jones,Moselle,142,
-3,Cindy Hyde-Smith,U.S. Senate,Unexpired Term,,Jones,Moselle,437,
-3,Mike Espy,U.S. Senate,Unexpired Term,,Jones,Myrick,33,
-3,Cindy Hyde-Smith,U.S. Senate,Unexpired Term,,Jones,Myrick,596,
-3,Mike Espy,U.S. Senate,Unexpired Term,,Jones,North Laurel,676,
-3,Cindy Hyde-Smith,U.S. Senate,Unexpired Term,,Jones,North Laurel,842,
-3,Mike Espy,U.S. Senate,Unexpired Term,,Jones,Oak Park School,563,
-3,Cindy Hyde-Smith,U.S. Senate,Unexpired Term,,Jones,Oak Park School,1,
-3,Mike Espy,U.S. Senate,Unexpired Term,,Jones,Ovett,35,
-3,Cindy Hyde-Smith,U.S. Senate,Unexpired Term,,Jones,Ovett,392,
-4,Mike Espy,U.S. Senate,Unexpired Term,,Jones,Parkview Baptist Church,299,
-4,Cindy Hyde-Smith,U.S. Senate,Unexpired Term,,Jones,Parkview Baptist Church,317,
-4,Mike Espy,U.S. Senate,Unexpired Term,,Jones,Pine Grove,26,
-4,Cindy Hyde-Smith,U.S. Senate,Unexpired Term,,Jones,Pine Grove,456,
-4,Mike Espy,U.S. Senate,Unexpired Term,,Jones,Pleasant Ridge,30,
-4,Cindy Hyde-Smith,U.S. Senate,Unexpired Term,,Jones,Pleasant Ridge,329,
-4,Mike Espy,U.S. Senate,Unexpired Term,,Jones,Powers,148,
-4,Cindy Hyde-Smith,U.S. Senate,Unexpired Term,,Jones,Powers,468,
-4,Mike Espy,U.S. Senate,Unexpired Term,,Jones,Rainey,32,
-4,Cindy Hyde-Smith,U.S. Senate,Unexpired Term,,Jones,Rainey,558,
-4,Mike Espy,U.S. Senate,Unexpired Term,,Jones,Rustin,9,
-4,Cindy Hyde-Smith,U.S. Senate,Unexpired Term,,Jones,Rustin,320,
-4,Mike Espy,U.S. Senate,Unexpired Term,,Jones,Sand Hill,35,
-4,Cindy Hyde-Smith,U.S. Senate,Unexpired Term,,Jones,Sand Hill,443,
-4,Mike Espy,U.S. Senate,Unexpired Term,,Jones,Sandersville,96,
-4,Cindy Hyde-Smith,U.S. Senate,Unexpired Term,,Jones,Sandersville,319,
-4,Mike Espy,U.S. Senate,Unexpired Term,,Jones,Shady Grove,483,
-4,Cindy Hyde-Smith,U.S. Senate,Unexpired Term,,Jones,Shady Grove,916,
-4,Mike Espy,U.S. Senate,Unexpired Term,,Jones,Sharon,130,
-4,Cindy Hyde-Smith,U.S. Senate,Unexpired Term,,Jones,Sharon,612,
-4,Mike Espy,U.S. Senate,Unexpired Term,,Jones,Shelton,149,
-4,Cindy Hyde-Smith,U.S. Senate,Unexpired Term,,Jones,Shelton,251,
-5,Mike Espy,U.S. Senate,Unexpired Term,,Jones,Soso,291,
-5,Cindy Hyde-Smith,U.S. Senate,Unexpired Term,,Jones,Soso,304,
-5,Mike Espy,U.S. Senate,Unexpired Term,,Jones,Springhill/Mauldin,182,
-5,Cindy Hyde-Smith,U.S. Senate,Unexpired Term,,Jones,Springhill/Mauldin,616,
-5,Mike Espy,U.S. Senate,Unexpired Term,,Jones,Tuckers,28,
-5,Cindy Hyde-Smith,U.S. Senate,Unexpired Term,,Jones,Tuckers,427,
-5,Mike Espy,U.S. Senate,Unexpired Term,,Jones,Union,30,
-5,Cindy Hyde-Smith,U.S. Senate,Unexpired Term,,Jones,Union,436,
-5,Mike Espy,U.S. Senate,Unexpired Term,,Jones,TOTAL ,6946,
-5,Cindy Hyde-Smith,U.S. Senate,Unexpired Term,,Jones,TOTAL ,13420,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
+county,precinct,office,district,party,candidate,votes
+Jones,Antioch,U.S. Senate,Unexpired Term,,Cindy Hyde-Smith,194
+Jones,Antioch,U.S. Senate,Unexpired Term,,Mike Espy,13
+Jones,Big Creek,U.S. Senate,Unexpired Term,,Cindy Hyde-Smith,271
+Jones,Big Creek,U.S. Senate,Unexpired Term,,Mike Espy,13
+Jones,Blackwell,U.S. Senate,Unexpired Term,,Cindy Hyde-Smith,185
+Jones,Blackwell,U.S. Senate,Unexpired Term,,Mike Espy,7
+Jones,Calhoun,U.S. Senate,Unexpired Term,,Cindy Hyde-Smith,902
+Jones,Calhoun,U.S. Senate,Unexpired Term,,Mike Espy,76
+Jones,Centerville,U.S. Senate,Unexpired Term,,Cindy Hyde-Smith,107
+Jones,Centerville,U.S. Senate,Unexpired Term,,Mike Espy,9
+Jones,Currie,U.S. Senate,Unexpired Term,,Cindy Hyde-Smith,16
+Jones,Currie,U.S. Senate,Unexpired Term,,Mike Espy,150
+Jones,Erata,U.S. Senate,Unexpired Term,,Cindy Hyde-Smith,108
+Jones,Erata,U.S. Senate,Unexpired Term,,Mike Espy,177
+Jones,First Assembly of God,U.S. Senate,Unexpired Term,,Cindy Hyde-Smith,195
+Jones,First Assembly of God,U.S. Senate,Unexpired Term,,Mike Espy,277
+Jones,George Harrison,U.S. Senate,Unexpired Term,,Cindy Hyde-Smith,582
+Jones,George Harrison,U.S. Senate,Unexpired Term,,Mike Espy,251
+Jones,Gitano,U.S. Senate,Unexpired Term,,Cindy Hyde-Smith,136
+Jones,Gitano,U.S. Senate,Unexpired Term,,Mike Espy,54
+Jones,Glade,U.S. Senate,Unexpired Term,,Cindy Hyde-Smith,525
+Jones,Glade,U.S. Senate,Unexpired Term,,Mike Espy,33
+Jones,Hebron,U.S. Senate,Unexpired Term,,Cindy Hyde-Smith,156
+Jones,Hebron,U.S. Senate,Unexpired Term,,Mike Espy,296
+Jones,Johnson,U.S. Senate,Unexpired Term,,Cindy Hyde-Smith,313
+Jones,Johnson,U.S. Senate,Unexpired Term,,Mike Espy,18
+Jones,L T Ellis Center,U.S. Senate,Unexpired Term,,Cindy Hyde-Smith,16
+Jones,L T Ellis Center,U.S. Senate,Unexpired Term,,Mike Espy,1121
+Jones,Landrum,U.S. Senate,Unexpired Term,,Cindy Hyde-Smith,221
+Jones,Landrum,U.S. Senate,Unexpired Term,,Mike Espy,9
+Jones,Magnolia Center,U.S. Senate,Unexpired Term,,Cindy Hyde-Smith,185
+Jones,Magnolia Center,U.S. Senate,Unexpired Term,,Mike Espy,997
+Jones,Matthews,U.S. Senate,Unexpired Term,,Cindy Hyde-Smith,268
+Jones,Matthews,U.S. Senate,Unexpired Term,,Mike Espy,28
+Jones,Moselle,U.S. Senate,Unexpired Term,,Cindy Hyde-Smith,437
+Jones,Moselle,U.S. Senate,Unexpired Term,,Mike Espy,142
+Jones,Myrick,U.S. Senate,Unexpired Term,,Cindy Hyde-Smith,596
+Jones,Myrick,U.S. Senate,Unexpired Term,,Mike Espy,33
+Jones,North Laurel,U.S. Senate,Unexpired Term,,Cindy Hyde-Smith,842
+Jones,North Laurel,U.S. Senate,Unexpired Term,,Mike Espy,676
+Jones,Oak Park School,U.S. Senate,Unexpired Term,,Cindy Hyde-Smith,1
+Jones,Oak Park School,U.S. Senate,Unexpired Term,,Mike Espy,563
+Jones,Ovett,U.S. Senate,Unexpired Term,,Cindy Hyde-Smith,392
+Jones,Ovett,U.S. Senate,Unexpired Term,,Mike Espy,35
+Jones,Parkview Baptist Church,U.S. Senate,Unexpired Term,,Cindy Hyde-Smith,317
+Jones,Parkview Baptist Church,U.S. Senate,Unexpired Term,,Mike Espy,299
+Jones,Pine Grove,U.S. Senate,Unexpired Term,,Cindy Hyde-Smith,456
+Jones,Pine Grove,U.S. Senate,Unexpired Term,,Mike Espy,26
+Jones,Pleasant Ridge,U.S. Senate,Unexpired Term,,Cindy Hyde-Smith,329
+Jones,Pleasant Ridge,U.S. Senate,Unexpired Term,,Mike Espy,30
+Jones,Powers,U.S. Senate,Unexpired Term,,Cindy Hyde-Smith,468
+Jones,Powers,U.S. Senate,Unexpired Term,,Mike Espy,148
+Jones,Rainey,U.S. Senate,Unexpired Term,,Cindy Hyde-Smith,558
+Jones,Rainey,U.S. Senate,Unexpired Term,,Mike Espy,32
+Jones,Rustin,U.S. Senate,Unexpired Term,,Cindy Hyde-Smith,320
+Jones,Rustin,U.S. Senate,Unexpired Term,,Mike Espy,9
+Jones,Sand Hill,U.S. Senate,Unexpired Term,,Cindy Hyde-Smith,443
+Jones,Sand Hill,U.S. Senate,Unexpired Term,,Mike Espy,35
+Jones,Sandersville,U.S. Senate,Unexpired Term,,Cindy Hyde-Smith,319
+Jones,Sandersville,U.S. Senate,Unexpired Term,,Mike Espy,96
+Jones,Shady Grove,U.S. Senate,Unexpired Term,,Cindy Hyde-Smith,916
+Jones,Shady Grove,U.S. Senate,Unexpired Term,,Mike Espy,483
+Jones,Sharon,U.S. Senate,Unexpired Term,,Cindy Hyde-Smith,612
+Jones,Sharon,U.S. Senate,Unexpired Term,,Mike Espy,130
+Jones,Shelton,U.S. Senate,Unexpired Term,,Cindy Hyde-Smith,251
+Jones,Shelton,U.S. Senate,Unexpired Term,,Mike Espy,149
+Jones,Soso,U.S. Senate,Unexpired Term,,Cindy Hyde-Smith,304
+Jones,Soso,U.S. Senate,Unexpired Term,,Mike Espy,291
+Jones,Springhill/Mauldin,U.S. Senate,Unexpired Term,,Cindy Hyde-Smith,616
+Jones,Springhill/Mauldin,U.S. Senate,Unexpired Term,,Mike Espy,182
+Jones,Total,U.S. Senate,Unexpired Term,,Cindy Hyde-Smith,13420
+Jones,Total,U.S. Senate,Unexpired Term,,Mike Espy,6946
+Jones,Tuckers,U.S. Senate,Unexpired Term,,Cindy Hyde-Smith,427
+Jones,Tuckers,U.S. Senate,Unexpired Term,,Mike Espy,28
+Jones,Union,U.S. Senate,Unexpired Term,,Cindy Hyde-Smith,436
+Jones,Union,U.S. Senate,Unexpired Term,,Mike Espy,30
