@@ -1,7 +1,7 @@
 candidate,office,district,party,county,precinct,votes
-Robert Foster,Governor ,,R,Lauderdale,101-One,37
-Tate Reeves,Governor ,,R,Lauderdale,101-One,274
-Bill Waller Jr.,Governor ,,R,Lauderdale,101-One,313
+Robert Foster,Governor,,R,Lauderdale,101-One,37
+Tate Reeves,Governor,,R,Lauderdale,101-One,274
+Bill Waller Jr.,Governor,,R,Lauderdale,101-One,313
 Delbert Hosemann,Lieutenant Governor,,R,Lauderdale,101-One,555
 Shane Quick,Lieutenant Governor,,R,Lauderdale,101-One,57
 Sam Britton,Secretary of State,,R,Lauderdale,101-One,251
@@ -21,14 +21,14 @@ Jeff Tate,State Senate,33,R,Lauderdale,101-One,548
 Stephen A 'Steve' Home,State House,81,R,Lauderdale,101-One,x
 Billy Adam Calvert,State House,83,R,Lauderdale,101-One,268
 Greg Snowden,State House,83,R,Lauderdale,101-One,351
-Michael Brown,Governor ,,D,Lauderdale,101-One,19
-William Bond Compton Jr.,Governor ,,D,Lauderdale,101-One,8
-Jim Hood,Governor ,,D,Lauderdale,101-One,154
-Robert J. Ray,Governor ,,D,Lauderdale,101-One,0
-Robert Shuler Smith,Governor ,,D,Lauderdale,101-One,3
-Gregory Wash,Governor ,,D,Lauderdale,101-One,0
-Velesha P Williams,Governor ,,D,Lauderdale,101-One,16
-Albert Wilson,Governor ,,D,Lauderdale,101-One,0
+Michael Brown,Governor,,D,Lauderdale,101-One,19
+William Bond Compton Jr.,Governor,,D,Lauderdale,101-One,8
+Jim Hood,Governor,,D,Lauderdale,101-One,154
+Robert J. Ray,Governor,,D,Lauderdale,101-One,0
+Robert Shuler Smith,Governor,,D,Lauderdale,101-One,3
+Gregory Wash,Governor,,D,Lauderdale,101-One,0
+Velesha P Williams,Governor,,D,Lauderdale,101-One,16
+Albert Wilson,Governor,,D,Lauderdale,101-One,0
 Jay Hughes,Lieutenant Governor,,D,Lauderdale,101-One,180
 Johnny DuPree,Secretary of State,,D,Lauderdale,101-One,150
 Maryra Hodges Hunt,Secretary of State,,D,Lauderdale,101-One,40
@@ -39,10 +39,10 @@ Robert E Amos,Commissioner of Insurance,,D,Lauderdale,101-One,180
 Mike Marlow,State Senate,31,D,Lauderdale,101-One,x
 Sampson Jackson II,State Senate,32,D,Lauderdale,101-One,x
 Michael Ted Evans,State House,45,D,Lauderdale,101-One,x
-Charles L Young Jr. ,State House,82,D,Lauderdale,101-One,x
-Robert Foster,Governor ,,R,Lauderdale,105-Five,25
-Tate Reeves,Governor ,,R,Lauderdale,105-Five,249
-Bill Waller Jr.,Governor ,,R,Lauderdale,105-Five,326
+Charles L Young Jr.,State House,82,D,Lauderdale,101-One,x
+Robert Foster,Governor,,R,Lauderdale,105-Five,25
+Tate Reeves,Governor,,R,Lauderdale,105-Five,249
+Bill Waller Jr.,Governor,,R,Lauderdale,105-Five,326
 Delbert Hosemann,Lieutenant Governor,,R,Lauderdale,105-Five,557
 Shane Quick,Lieutenant Governor,,R,Lauderdale,105-Five,37
 Sam Britton,Secretary of State,,R,Lauderdale,105-Five,213
@@ -62,14 +62,14 @@ Jeff Tate,State Senate,33,R,Lauderdale,105-Five,x
 Stephen A 'Steve' Home,State House,81,R,Lauderdale,105-Five,x
 Billy Adam Calvert,State House,83,R,Lauderdale,105-Five,201
 Greg Snowden,State House,83,R,Lauderdale,105-Five,306
-Michael Brown,Governor ,,D,Lauderdale,105-Five,8
-William Bond Compton Jr.,Governor ,,D,Lauderdale,105-Five,6
-Jim Hood,Governor ,,D,Lauderdale,105-Five,143
-Robert J. Ray,Governor ,,D,Lauderdale,105-Five,0
-Robert Shuler Smith,Governor ,,D,Lauderdale,105-Five,2
-Gregory Wash,Governor ,,D,Lauderdale,105-Five,0
-Velesha P Williams,Governor ,,D,Lauderdale,105-Five,16
-Albert Wilson,Governor ,,D,Lauderdale,105-Five,1
+Michael Brown,Governor,,D,Lauderdale,105-Five,8
+William Bond Compton Jr.,Governor,,D,Lauderdale,105-Five,6
+Jim Hood,Governor,,D,Lauderdale,105-Five,143
+Robert J. Ray,Governor,,D,Lauderdale,105-Five,0
+Robert Shuler Smith,Governor,,D,Lauderdale,105-Five,2
+Gregory Wash,Governor,,D,Lauderdale,105-Five,0
+Velesha P Williams,Governor,,D,Lauderdale,105-Five,16
+Albert Wilson,Governor,,D,Lauderdale,105-Five,1
 Jay Hughes,Lieutenant Governor,,D,Lauderdale,105-Five,155
 Johnny DuPree,Secretary of State,,D,Lauderdale,105-Five,137
 Maryra Hodges Hunt,Secretary of State,,D,Lauderdale,105-Five,30
@@ -80,10 +80,10 @@ Robert E Amos,Commissioner of Insurance,,D,Lauderdale,105-Five,151
 Mike Marlow,State Senate,31,D,Lauderdale,105-Five,x
 Sampson Jackson II,State Senate,32,D,Lauderdale,105-Five,164
 Michael Ted Evans,State House,45,D,Lauderdale,105-Five,62
-Charles L Young Jr. ,State House,82,D,Lauderdale,105-Five,x
-Robert Foster,Governor ,,R,Lauderdale,126-Andrews Chapel,25
-Tate Reeves,Governor ,,R,Lauderdale,126-Andrews Chapel,187
-Bill Waller Jr.,Governor ,,R,Lauderdale,126-Andrews Chapel,109
+Charles L Young Jr.,State House,82,D,Lauderdale,105-Five,x
+Robert Foster,Governor,,R,Lauderdale,126-Andrews Chapel,25
+Tate Reeves,Governor,,R,Lauderdale,126-Andrews Chapel,187
+Bill Waller Jr.,Governor,,R,Lauderdale,126-Andrews Chapel,109
 Delbert Hosemann,Lieutenant Governor,,R,Lauderdale,126-Andrews Chapel,293
 Shane Quick,Lieutenant Governor,,R,Lauderdale,126-Andrews Chapel,24
 Sam Britton,Secretary of State,,R,Lauderdale,126-Andrews Chapel,136
@@ -103,14 +103,14 @@ Jeff Tate,State Senate,33,R,Lauderdale,126-Andrews Chapel,264
 Stephen A 'Steve' Home,State House,81,R,Lauderdale,126-Andrews Chapel,x
 Billy Adam Calvert,State House,83,R,Lauderdale,126-Andrews Chapel,162
 Greg Snowden,State House,83,R,Lauderdale,126-Andrews Chapel,145
-Michael Brown,Governor ,,D,Lauderdale,126-Andrews Chapel,1
-William Bond Compton Jr.,Governor ,,D,Lauderdale,126-Andrews Chapel,5
-Jim Hood,Governor ,,D,Lauderdale,126-Andrews Chapel,42
-Robert J. Ray,Governor ,,D,Lauderdale,126-Andrews Chapel,1
-Robert Shuler Smith,Governor ,,D,Lauderdale,126-Andrews Chapel,3
-Gregory Wash,Governor ,,D,Lauderdale,126-Andrews Chapel,0
-Velesha P Williams,Governor ,,D,Lauderdale,126-Andrews Chapel,8
-Albert Wilson,Governor ,,D,Lauderdale,126-Andrews Chapel,2
+Michael Brown,Governor,,D,Lauderdale,126-Andrews Chapel,1
+William Bond Compton Jr.,Governor,,D,Lauderdale,126-Andrews Chapel,5
+Jim Hood,Governor,,D,Lauderdale,126-Andrews Chapel,42
+Robert J. Ray,Governor,,D,Lauderdale,126-Andrews Chapel,1
+Robert Shuler Smith,Governor,,D,Lauderdale,126-Andrews Chapel,3
+Gregory Wash,Governor,,D,Lauderdale,126-Andrews Chapel,0
+Velesha P Williams,Governor,,D,Lauderdale,126-Andrews Chapel,8
+Albert Wilson,Governor,,D,Lauderdale,126-Andrews Chapel,2
 Jay Hughes,Lieutenant Governor,,D,Lauderdale,126-Andrews Chapel,52
 Johnny DuPree,Secretary of State,,D,Lauderdale,126-Andrews Chapel,49
 Maryra Hodges Hunt,Secretary of State,,D,Lauderdale,126-Andrews Chapel,12
@@ -121,10 +121,10 @@ Robert E Amos,Commissioner of Insurance,,D,Lauderdale,126-Andrews Chapel,52
 Mike Marlow,State Senate,31,D,Lauderdale,126-Andrews Chapel,x
 Sampson Jackson II,State Senate,32,D,Lauderdale,126-Andrews Chapel,x
 Michael Ted Evans,State House,45,D,Lauderdale,126-Andrews Chapel,10
-Charles L Young Jr. ,State House,82,D,Lauderdale,126-Andrews Chapel,x
-Robert Foster,Governor ,,R,Lauderdale,127-Bailey,44
-Tate Reeves,Governor ,,R,Lauderdale,127-Bailey,303
-Bill Waller Jr.,Governor ,,R,Lauderdale,127-Bailey,190
+Charles L Young Jr.,State House,82,D,Lauderdale,126-Andrews Chapel,x
+Robert Foster,Governor,,R,Lauderdale,127-Bailey,44
+Tate Reeves,Governor,,R,Lauderdale,127-Bailey,303
+Bill Waller Jr.,Governor,,R,Lauderdale,127-Bailey,190
 Delbert Hosemann,Lieutenant Governor,,R,Lauderdale,127-Bailey,493
 Shane Quick,Lieutenant Governor,,R,Lauderdale,127-Bailey,36
 Sam Britton,Secretary of State,,R,Lauderdale,127-Bailey,229
@@ -144,14 +144,14 @@ Jeff Tate,State Senate,33,R,Lauderdale,127-Bailey,456
 Stephen A 'Steve' Home,State House,81,R,Lauderdale,127-Bailey,x
 Billy Adam Calvert,State House,83,R,Lauderdale,127-Bailey,279
 Greg Snowden,State House,83,R,Lauderdale,127-Bailey,253
-Michael Brown,Governor ,,D,Lauderdale,127-Bailey,4
-William Bond Compton Jr.,Governor ,,D,Lauderdale,127-Bailey,4
-Jim Hood,Governor ,,D,Lauderdale,127-Bailey,97
-Robert J. Ray,Governor ,,D,Lauderdale,127-Bailey,0
-Robert Shuler Smith,Governor ,,D,Lauderdale,127-Bailey,7
-Gregory Wash,Governor ,,D,Lauderdale,127-Bailey,1
-Velesha P Williams,Governor ,,D,Lauderdale,127-Bailey,8
-Albert Wilson,Governor ,,D,Lauderdale,127-Bailey,2
+Michael Brown,Governor,,D,Lauderdale,127-Bailey,4
+William Bond Compton Jr.,Governor,,D,Lauderdale,127-Bailey,4
+Jim Hood,Governor,,D,Lauderdale,127-Bailey,97
+Robert J. Ray,Governor,,D,Lauderdale,127-Bailey,0
+Robert Shuler Smith,Governor,,D,Lauderdale,127-Bailey,7
+Gregory Wash,Governor,,D,Lauderdale,127-Bailey,1
+Velesha P Williams,Governor,,D,Lauderdale,127-Bailey,8
+Albert Wilson,Governor,,D,Lauderdale,127-Bailey,2
 Jay Hughes,Lieutenant Governor,,D,Lauderdale,127-Bailey,109
 Johnny DuPree,Secretary of State,,D,Lauderdale,127-Bailey,97
 Maryra Hodges Hunt,Secretary of State,,D,Lauderdale,127-Bailey,25
@@ -162,10 +162,10 @@ Robert E Amos,Commissioner of Insurance,,D,Lauderdale,127-Bailey,108
 Mike Marlow,State Senate,31,D,Lauderdale,127-Bailey,x
 Sampson Jackson II,State Senate,32,D,Lauderdale,127-Bailey,x
 Michael Ted Evans,State House,45,D,Lauderdale,127-Bailey,x
-Charles L Young Jr. ,State House,82,D,Lauderdale,127-Bailey,x
-Robert Foster,Governor ,,R,Lauderdale,146-New Lauderdale,51
-Tate Reeves,Governor ,,R,Lauderdale,146-New Lauderdale,305
-Bill Waller Jr.,Governor ,,R,Lauderdale,146-New Lauderdale,239
+Charles L Young Jr.,State House,82,D,Lauderdale,127-Bailey,x
+Robert Foster,Governor,,R,Lauderdale,146-New Lauderdale,51
+Tate Reeves,Governor,,R,Lauderdale,146-New Lauderdale,305
+Bill Waller Jr.,Governor,,R,Lauderdale,146-New Lauderdale,239
 Delbert Hosemann,Lieutenant Governor,,R,Lauderdale,146-New Lauderdale,532
 Shane Quick,Lieutenant Governor,,R,Lauderdale,146-New Lauderdale,51
 Sam Britton,Secretary of State,,R,Lauderdale,146-New Lauderdale,222
@@ -185,14 +185,14 @@ Jeff Tate,State Senate,33,R,Lauderdale,146-New Lauderdale,518
 Stephen A 'Steve' Home,State House,81,R,Lauderdale,146-New Lauderdale,x
 Billy Adam Calvert,State House,83,R,Lauderdale,146-New Lauderdale,301
 Greg Snowden,State House,83,R,Lauderdale,146-New Lauderdale,288
-Michael Brown,Governor ,,D,Lauderdale,146-New Lauderdale,5
-William Bond Compton Jr.,Governor ,,D,Lauderdale,146-New Lauderdale,3
-Jim Hood,Governor ,,D,Lauderdale,146-New Lauderdale,55
-Robert J. Ray,Governor ,,D,Lauderdale,146-New Lauderdale,0
-Robert Shuler Smith,Governor ,,D,Lauderdale,146-New Lauderdale,3
-Gregory Wash,Governor ,,D,Lauderdale,146-New Lauderdale,0
-Velesha P Williams,Governor ,,D,Lauderdale,146-New Lauderdale,7
-Albert Wilson,Governor ,,D,Lauderdale,146-New Lauderdale,0
+Michael Brown,Governor,,D,Lauderdale,146-New Lauderdale,5
+William Bond Compton Jr.,Governor,,D,Lauderdale,146-New Lauderdale,3
+Jim Hood,Governor,,D,Lauderdale,146-New Lauderdale,55
+Robert J. Ray,Governor,,D,Lauderdale,146-New Lauderdale,0
+Robert Shuler Smith,Governor,,D,Lauderdale,146-New Lauderdale,3
+Gregory Wash,Governor,,D,Lauderdale,146-New Lauderdale,0
+Velesha P Williams,Governor,,D,Lauderdale,146-New Lauderdale,7
+Albert Wilson,Governor,,D,Lauderdale,146-New Lauderdale,0
 Jay Hughes,Lieutenant Governor,,D,Lauderdale,146-New Lauderdale,67
 Johnny DuPree,Secretary of State,,D,Lauderdale,146-New Lauderdale,57
 Maryra Hodges Hunt,Secretary of State,,D,Lauderdale,146-New Lauderdale,17
@@ -203,10 +203,10 @@ Robert E Amos,Commissioner of Insurance,,D,Lauderdale,146-New Lauderdale,69
 Mike Marlow,State Senate,31,D,Lauderdale,146-New Lauderdale,x
 Sampson Jackson II,State Senate,32,D,Lauderdale,146-New Lauderdale,x
 Michael Ted Evans,State House,45,D,Lauderdale,146-New Lauderdale,x
-Charles L Young Jr. ,State House,82,D,Lauderdale,146-New Lauderdale,x
-Robert Foster,Governor ,,R,Lauderdale,153-Prospect,12
-Tate Reeves,Governor ,,R,Lauderdale,153-Prospect,100
-Bill Waller Jr.,Governor ,,R,Lauderdale,153-Prospect,66
+Charles L Young Jr.,State House,82,D,Lauderdale,146-New Lauderdale,x
+Robert Foster,Governor,,R,Lauderdale,153-Prospect,12
+Tate Reeves,Governor,,R,Lauderdale,153-Prospect,100
+Bill Waller Jr.,Governor,,R,Lauderdale,153-Prospect,66
 Delbert Hosemann,Lieutenant Governor,,R,Lauderdale,153-Prospect,160
 Shane Quick,Lieutenant Governor,,R,Lauderdale,153-Prospect,14
 Sam Britton,Secretary of State,,R,Lauderdale,153-Prospect,71
@@ -226,14 +226,14 @@ Jeff Tate,State Senate,33,R,Lauderdale,153-Prospect,153
 Stephen A 'Steve' Home,State House,81,R,Lauderdale,153-Prospect,x
 Billy Adam Calvert,State House,83,R,Lauderdale,153-Prospect,91
 Greg Snowden,State House,83,R,Lauderdale,153-Prospect,84
-Michael Brown,Governor ,,D,Lauderdale,153-Prospect,2
-William Bond Compton Jr.,Governor ,,D,Lauderdale,153-Prospect,0
-Jim Hood,Governor ,,D,Lauderdale,153-Prospect,20
-Robert J. Ray,Governor ,,D,Lauderdale,153-Prospect,0
-Robert Shuler Smith,Governor ,,D,Lauderdale,153-Prospect,0
-Gregory Wash,Governor ,,D,Lauderdale,153-Prospect,0
-Velesha P Williams,Governor ,,D,Lauderdale,153-Prospect,2
-Albert Wilson,Governor ,,D,Lauderdale,153-Prospect,0
+Michael Brown,Governor,,D,Lauderdale,153-Prospect,2
+William Bond Compton Jr.,Governor,,D,Lauderdale,153-Prospect,0
+Jim Hood,Governor,,D,Lauderdale,153-Prospect,20
+Robert J. Ray,Governor,,D,Lauderdale,153-Prospect,0
+Robert Shuler Smith,Governor,,D,Lauderdale,153-Prospect,0
+Gregory Wash,Governor,,D,Lauderdale,153-Prospect,0
+Velesha P Williams,Governor,,D,Lauderdale,153-Prospect,2
+Albert Wilson,Governor,,D,Lauderdale,153-Prospect,0
 Jay Hughes,Lieutenant Governor,,D,Lauderdale,153-Prospect,18
 Johnny DuPree,Secretary of State,,D,Lauderdale,153-Prospect,15
 Maryra Hodges Hunt,Secretary of State,,D,Lauderdale,153-Prospect,8
@@ -244,10 +244,10 @@ Robert E Amos,Commissioner of Insurance,,D,Lauderdale,153-Prospect,19
 Mike Marlow,State Senate,31,D,Lauderdale,153-Prospect,x
 Sampson Jackson II,State Senate,32,D,Lauderdale,153-Prospect,x
 Michael Ted Evans,State House,45,D,Lauderdale,153-Prospect,x
-Charles L Young Jr. ,State House,82,D,Lauderdale,153-Prospect,x
-Robert Foster,Governor ,,R,Lauderdale,175-West Dalewood,3
-Tate Reeves,Governor ,,R,Lauderdale,175-West Dalewood,42
-Bill Waller Jr.,Governor ,,R,Lauderdale,175-West Dalewood,18
+Charles L Young Jr.,State House,82,D,Lauderdale,153-Prospect,x
+Robert Foster,Governor,,R,Lauderdale,175-West Dalewood,3
+Tate Reeves,Governor,,R,Lauderdale,175-West Dalewood,42
+Bill Waller Jr.,Governor,,R,Lauderdale,175-West Dalewood,18
 Delbert Hosemann,Lieutenant Governor,,R,Lauderdale,175-West Dalewood,58
 Shane Quick,Lieutenant Governor,,R,Lauderdale,175-West Dalewood,5
 Sam Britton,Secretary of State,,R,Lauderdale,175-West Dalewood,35
@@ -267,14 +267,14 @@ Jeff Tate,State Senate,33,R,Lauderdale,175-West Dalewood,x
 Stephen A 'Steve' Home,State House,81,R,Lauderdale,175-West Dalewood,x
 Billy Adam Calvert,State House,83,R,Lauderdale,175-West Dalewood,x
 Greg Snowden,State House,83,R,Lauderdale,175-West Dalewood,x
-Michael Brown,Governor ,,D,Lauderdale,175-West Dalewood,0
-William Bond Compton Jr.,Governor ,,D,Lauderdale,175-West Dalewood,0
-Jim Hood,Governor ,,D,Lauderdale,175-West Dalewood,8
-Robert J. Ray,Governor ,,D,Lauderdale,175-West Dalewood,0
-Robert Shuler Smith,Governor ,,D,Lauderdale,175-West Dalewood,0
-Gregory Wash,Governor ,,D,Lauderdale,175-West Dalewood,0
-Velesha P Williams,Governor ,,D,Lauderdale,175-West Dalewood,0
-Albert Wilson,Governor ,,D,Lauderdale,175-West Dalewood,0
+Michael Brown,Governor,,D,Lauderdale,175-West Dalewood,0
+William Bond Compton Jr.,Governor,,D,Lauderdale,175-West Dalewood,0
+Jim Hood,Governor,,D,Lauderdale,175-West Dalewood,8
+Robert J. Ray,Governor,,D,Lauderdale,175-West Dalewood,0
+Robert Shuler Smith,Governor,,D,Lauderdale,175-West Dalewood,0
+Gregory Wash,Governor,,D,Lauderdale,175-West Dalewood,0
+Velesha P Williams,Governor,,D,Lauderdale,175-West Dalewood,0
+Albert Wilson,Governor,,D,Lauderdale,175-West Dalewood,0
 Jay Hughes,Lieutenant Governor,,D,Lauderdale,175-West Dalewood,6
 Johnny DuPree,Secretary of State,,D,Lauderdale,175-West Dalewood,7
 Maryra Hodges Hunt,Secretary of State,,D,Lauderdale,175-West Dalewood,0
@@ -285,10 +285,10 @@ Robert E Amos,Commissioner of Insurance,,D,Lauderdale,175-West Dalewood,7
 Mike Marlow,State Senate,31,D,Lauderdale,175-West Dalewood,x
 Sampson Jackson II,State Senate,32,D,Lauderdale,175-West Dalewood,6
 Michael Ted Evans,State House,45,D,Lauderdale,175-West Dalewood,7
-Charles L Young Jr. ,State House,82,D,Lauderdale,175-West Dalewood,x
-Robert Foster,Governor ,,R,Lauderdale,202-Two,4
-Tate Reeves,Governor ,,R,Lauderdale,202-Two,28
-Bill Waller Jr.,Governor ,,R,Lauderdale,202-Two,50
+Charles L Young Jr.,State House,82,D,Lauderdale,175-West Dalewood,x
+Robert Foster,Governor,,R,Lauderdale,202-Two,4
+Tate Reeves,Governor,,R,Lauderdale,202-Two,28
+Bill Waller Jr.,Governor,,R,Lauderdale,202-Two,50
 Delbert Hosemann,Lieutenant Governor,,R,Lauderdale,202-Two,67
 Shane Quick,Lieutenant Governor,,R,Lauderdale,202-Two,12
 Sam Britton,Secretary of State,,R,Lauderdale,202-Two,24
@@ -308,14 +308,14 @@ Jeff Tate,State Senate,33,R,Lauderdale,202-Two,68
 Stephen A 'Steve' Home,State House,81,R,Lauderdale,202-Two,x
 Billy Adam Calvert,State House,83,R,Lauderdale,202-Two,35
 Greg Snowden,State House,83,R,Lauderdale,202-Two,45
-Michael Brown,Governor ,,D,Lauderdale,202-Two,3
-William Bond Compton Jr.,Governor ,,D,Lauderdale,202-Two,1
-Jim Hood,Governor ,,D,Lauderdale,202-Two,20
-Robert J. Ray,Governor ,,D,Lauderdale,202-Two,0
-Robert Shuler Smith,Governor ,,D,Lauderdale,202-Two,0
-Gregory Wash,Governor ,,D,Lauderdale,202-Two,0
-Velesha P Williams,Governor ,,D,Lauderdale,202-Two,4
-Albert Wilson,Governor ,,D,Lauderdale,202-Two,0
+Michael Brown,Governor,,D,Lauderdale,202-Two,3
+William Bond Compton Jr.,Governor,,D,Lauderdale,202-Two,1
+Jim Hood,Governor,,D,Lauderdale,202-Two,20
+Robert J. Ray,Governor,,D,Lauderdale,202-Two,0
+Robert Shuler Smith,Governor,,D,Lauderdale,202-Two,0
+Gregory Wash,Governor,,D,Lauderdale,202-Two,0
+Velesha P Williams,Governor,,D,Lauderdale,202-Two,4
+Albert Wilson,Governor,,D,Lauderdale,202-Two,0
 Jay Hughes,Lieutenant Governor,,D,Lauderdale,202-Two,25
 Johnny DuPree,Secretary of State,,D,Lauderdale,202-Two,20
 Maryra Hodges Hunt,Secretary of State,,D,Lauderdale,202-Two,7
@@ -326,10 +326,10 @@ Robert E Amos,Commissioner of Insurance,,D,Lauderdale,202-Two,23
 Mike Marlow,State Senate,31,D,Lauderdale,202-Two,x
 Sampson Jackson II,State Senate,32,D,Lauderdale,202-Two,x
 Michael Ted Evans,State House,45,D,Lauderdale,202-Two,x
-Charles L Young Jr. ,State House,82,D,Lauderdale,202-Two,x
-Robert Foster,Governor ,,R,Lauderdale,204-Four,1
-Tate Reeves,Governor ,,R,Lauderdale,204-Four,12
-Bill Waller Jr.,Governor ,,R,Lauderdale,204-Four,11
+Charles L Young Jr.,State House,82,D,Lauderdale,202-Two,x
+Robert Foster,Governor,,R,Lauderdale,204-Four,1
+Tate Reeves,Governor,,R,Lauderdale,204-Four,12
+Bill Waller Jr.,Governor,,R,Lauderdale,204-Four,11
 Delbert Hosemann,Lieutenant Governor,,R,Lauderdale,204-Four,20
 Shane Quick,Lieutenant Governor,,R,Lauderdale,204-Four,4
 Sam Britton,Secretary of State,,R,Lauderdale,204-Four,8
@@ -349,14 +349,14 @@ Jeff Tate,State Senate,33,R,Lauderdale,204-Four,x
 Stephen A 'Steve' Home,State House,81,R,Lauderdale,204-Four,x
 Billy Adam Calvert,State House,83,R,Lauderdale,204-Four,x
 Greg Snowden,State House,83,R,Lauderdale,204-Four,x
-Michael Brown,Governor ,,D,Lauderdale,204-Four,14
-William Bond Compton Jr.,Governor ,,D,Lauderdale,204-Four,10
-Jim Hood,Governor ,,D,Lauderdale,204-Four,100
-Robert J. Ray,Governor ,,D,Lauderdale,204-Four,1
-Robert Shuler Smith,Governor ,,D,Lauderdale,204-Four,5
-Gregory Wash,Governor ,,D,Lauderdale,204-Four,1
-Velesha P Williams,Governor ,,D,Lauderdale,204-Four,26
-Albert Wilson,Governor ,,D,Lauderdale,204-Four,3
+Michael Brown,Governor,,D,Lauderdale,204-Four,14
+William Bond Compton Jr.,Governor,,D,Lauderdale,204-Four,10
+Jim Hood,Governor,,D,Lauderdale,204-Four,100
+Robert J. Ray,Governor,,D,Lauderdale,204-Four,1
+Robert Shuler Smith,Governor,,D,Lauderdale,204-Four,5
+Gregory Wash,Governor,,D,Lauderdale,204-Four,1
+Velesha P Williams,Governor,,D,Lauderdale,204-Four,26
+Albert Wilson,Governor,,D,Lauderdale,204-Four,3
 Jay Hughes,Lieutenant Governor,,D,Lauderdale,204-Four,144
 Johnny DuPree,Secretary of State,,D,Lauderdale,204-Four,125
 Maryra Hodges Hunt,Secretary of State,,D,Lauderdale,204-Four,38
@@ -367,10 +367,10 @@ Robert E Amos,Commissioner of Insurance,,D,Lauderdale,204-Four,145
 Mike Marlow,State Senate,31,D,Lauderdale,204-Four,x
 Sampson Jackson II,State Senate,32,D,Lauderdale,204-Four,149
 Michael Ted Evans,State House,45,D,Lauderdale,204-Four,x
-Charles L Young Jr. ,State House,82,D,Lauderdale,204-Four,153
-Robert Foster,Governor ,,R,Lauderdale,206-Six,10
-Tate Reeves,Governor ,,R,Lauderdale,206-Six,31
-Bill Waller Jr.,Governor ,,R,Lauderdale,206-Six,58
+Charles L Young Jr.,State House,82,D,Lauderdale,204-Four,153
+Robert Foster,Governor,,R,Lauderdale,206-Six,10
+Tate Reeves,Governor,,R,Lauderdale,206-Six,31
+Bill Waller Jr.,Governor,,R,Lauderdale,206-Six,58
 Delbert Hosemann,Lieutenant Governor,,R,Lauderdale,206-Six,82
 Shane Quick,Lieutenant Governor,,R,Lauderdale,206-Six,14
 Sam Britton,Secretary of State,,R,Lauderdale,206-Six,47
@@ -390,14 +390,14 @@ Jeff Tate,State Senate,33,R,Lauderdale,206-Six,x
 Stephen A 'Steve' Home,State House,81,R,Lauderdale,206-Six,x
 Billy Adam Calvert,State House,83,R,Lauderdale,206-Six,x
 Greg Snowden,State House,83,R,Lauderdale,206-Six,x
-Michael Brown,Governor ,,D,Lauderdale,206-Six,48
-William Bond Compton Jr.,Governor ,,D,Lauderdale,206-Six,26
-Jim Hood,Governor ,,D,Lauderdale,206-Six,296
-Robert J. Ray,Governor ,,D,Lauderdale,206-Six,11
-Robert Shuler Smith,Governor ,,D,Lauderdale,206-Six,7
-Gregory Wash,Governor ,,D,Lauderdale,206-Six,3
-Velesha P Williams,Governor ,,D,Lauderdale,206-Six,53
-Albert Wilson,Governor ,,D,Lauderdale,206-Six,9
+Michael Brown,Governor,,D,Lauderdale,206-Six,48
+William Bond Compton Jr.,Governor,,D,Lauderdale,206-Six,26
+Jim Hood,Governor,,D,Lauderdale,206-Six,296
+Robert J. Ray,Governor,,D,Lauderdale,206-Six,11
+Robert Shuler Smith,Governor,,D,Lauderdale,206-Six,7
+Gregory Wash,Governor,,D,Lauderdale,206-Six,3
+Velesha P Williams,Governor,,D,Lauderdale,206-Six,53
+Albert Wilson,Governor,,D,Lauderdale,206-Six,9
 Jay Hughes,Lieutenant Governor,,D,Lauderdale,206-Six,382
 Johnny DuPree,Secretary of State,,D,Lauderdale,206-Six,360
 Maryra Hodges Hunt,Secretary of State,,D,Lauderdale,206-Six,88
@@ -408,10 +408,10 @@ Robert E Amos,Commissioner of Insurance,,D,Lauderdale,206-Six,388
 Mike Marlow,State Senate,31,D,Lauderdale,206-Six,x
 Sampson Jackson II,State Senate,32,D,Lauderdale,206-Six,417
 Michael Ted Evans,State House,45,D,Lauderdale,206-Six,113
-Charles L Young Jr. ,State House,82,D,Lauderdale,206-Six,308
-Robert Foster,Governor ,,R,Lauderdale,214-Fourteen,1
-Tate Reeves,Governor ,,R,Lauderdale,214-Fourteen,6
-Bill Waller Jr.,Governor ,,R,Lauderdale,214-Fourteen,4
+Charles L Young Jr.,State House,82,D,Lauderdale,206-Six,308
+Robert Foster,Governor,,R,Lauderdale,214-Fourteen,1
+Tate Reeves,Governor,,R,Lauderdale,214-Fourteen,6
+Bill Waller Jr.,Governor,,R,Lauderdale,214-Fourteen,4
 Delbert Hosemann,Lieutenant Governor,,R,Lauderdale,214-Fourteen,11
 Shane Quick,Lieutenant Governor,,R,Lauderdale,214-Fourteen,0
 Sam Britton,Secretary of State,,R,Lauderdale,214-Fourteen,5
@@ -431,14 +431,14 @@ Jeff Tate,State Senate,33,R,Lauderdale,214-Fourteen,x
 Stephen A 'Steve' Home,State House,81,R,Lauderdale,214-Fourteen,x
 Billy Adam Calvert,State House,83,R,Lauderdale,214-Fourteen,x
 Greg Snowden,State House,83,R,Lauderdale,214-Fourteen,x
-Michael Brown,Governor ,,D,Lauderdale,214-Fourteen,16
-William Bond Compton Jr.,Governor ,,D,Lauderdale,214-Fourteen,5
-Jim Hood,Governor ,,D,Lauderdale,214-Fourteen,80
-Robert J. Ray,Governor ,,D,Lauderdale,214-Fourteen,0
-Robert Shuler Smith,Governor ,,D,Lauderdale,214-Fourteen,2
-Gregory Wash,Governor ,,D,Lauderdale,214-Fourteen,1
-Velesha P Williams,Governor ,,D,Lauderdale,214-Fourteen,10
-Albert Wilson,Governor ,,D,Lauderdale,214-Fourteen,0
+Michael Brown,Governor,,D,Lauderdale,214-Fourteen,16
+William Bond Compton Jr.,Governor,,D,Lauderdale,214-Fourteen,5
+Jim Hood,Governor,,D,Lauderdale,214-Fourteen,80
+Robert J. Ray,Governor,,D,Lauderdale,214-Fourteen,0
+Robert Shuler Smith,Governor,,D,Lauderdale,214-Fourteen,2
+Gregory Wash,Governor,,D,Lauderdale,214-Fourteen,1
+Velesha P Williams,Governor,,D,Lauderdale,214-Fourteen,10
+Albert Wilson,Governor,,D,Lauderdale,214-Fourteen,0
 Jay Hughes,Lieutenant Governor,,D,Lauderdale,214-Fourteen,98
 Johnny DuPree,Secretary of State,,D,Lauderdale,214-Fourteen,81
 Maryra Hodges Hunt,Secretary of State,,D,Lauderdale,214-Fourteen,28
@@ -449,10 +449,10 @@ Robert E Amos,Commissioner of Insurance,,D,Lauderdale,214-Fourteen,101
 Mike Marlow,State Senate,31,D,Lauderdale,214-Fourteen,x
 Sampson Jackson II,State Senate,32,D,Lauderdale,214-Fourteen,104
 Michael Ted Evans,State House,45,D,Lauderdale,214-Fourteen,x
-Charles L Young Jr. ,State House,82,D,Lauderdale,214-Fourteen,114
-Robert Foster,Governor ,,R,Lauderdale,235-Daleville,1
-Tate Reeves,Governor ,,R,Lauderdale,235-Daleville,27
-Bill Waller Jr.,Governor ,,R,Lauderdale,235-Daleville,14
+Charles L Young Jr.,State House,82,D,Lauderdale,214-Fourteen,114
+Robert Foster,Governor,,R,Lauderdale,235-Daleville,1
+Tate Reeves,Governor,,R,Lauderdale,235-Daleville,27
+Bill Waller Jr.,Governor,,R,Lauderdale,235-Daleville,14
 Delbert Hosemann,Lieutenant Governor,,R,Lauderdale,235-Daleville,34
 Shane Quick,Lieutenant Governor,,R,Lauderdale,235-Daleville,7
 Sam Britton,Secretary of State,,R,Lauderdale,235-Daleville,20
@@ -472,14 +472,14 @@ Jeff Tate,State Senate,33,R,Lauderdale,235-Daleville,x
 Stephen A 'Steve' Home,State House,81,R,Lauderdale,235-Daleville,x
 Billy Adam Calvert,State House,83,R,Lauderdale,235-Daleville,x
 Greg Snowden,State House,83,R,Lauderdale,235-Daleville,x
-Michael Brown,Governor ,,D,Lauderdale,235-Daleville,10
-William Bond Compton Jr.,Governor ,,D,Lauderdale,235-Daleville,2
-Jim Hood,Governor ,,D,Lauderdale,235-Daleville,80
-Robert J. Ray,Governor ,,D,Lauderdale,235-Daleville,1
-Robert Shuler Smith,Governor ,,D,Lauderdale,235-Daleville,1
-Gregory Wash,Governor ,,D,Lauderdale,235-Daleville,0
-Velesha P Williams,Governor ,,D,Lauderdale,235-Daleville,7
-Albert Wilson,Governor ,,D,Lauderdale,235-Daleville,0
+Michael Brown,Governor,,D,Lauderdale,235-Daleville,10
+William Bond Compton Jr.,Governor,,D,Lauderdale,235-Daleville,2
+Jim Hood,Governor,,D,Lauderdale,235-Daleville,80
+Robert J. Ray,Governor,,D,Lauderdale,235-Daleville,1
+Robert Shuler Smith,Governor,,D,Lauderdale,235-Daleville,1
+Gregory Wash,Governor,,D,Lauderdale,235-Daleville,0
+Velesha P Williams,Governor,,D,Lauderdale,235-Daleville,7
+Albert Wilson,Governor,,D,Lauderdale,235-Daleville,0
 Jay Hughes,Lieutenant Governor,,D,Lauderdale,235-Daleville,80
 Johnny DuPree,Secretary of State,,D,Lauderdale,235-Daleville,77
 Maryra Hodges Hunt,Secretary of State,,D,Lauderdale,235-Daleville,16
@@ -490,10 +490,10 @@ Robert E Amos,Commissioner of Insurance,,D,Lauderdale,235-Daleville,78
 Mike Marlow,State Senate,31,D,Lauderdale,235-Daleville,x
 Sampson Jackson II,State Senate,32,D,Lauderdale,235-Daleville,92
 Michael Ted Evans,State House,45,D,Lauderdale,235-Daleville,79
-Charles L Young Jr. ,State House,82,D,Lauderdale,235-Daleville,x
-Robert Foster,Governor ,,R,Lauderdale,237-East Lauderdale,32
-Tate Reeves,Governor ,,R,Lauderdale,237-East Lauderdale,241
-Bill Waller Jr.,Governor ,,R,Lauderdale,237-East Lauderdale,71
+Charles L Young Jr.,State House,82,D,Lauderdale,235-Daleville,x
+Robert Foster,Governor,,R,Lauderdale,237-East Lauderdale,32
+Tate Reeves,Governor,,R,Lauderdale,237-East Lauderdale,241
+Bill Waller Jr.,Governor,,R,Lauderdale,237-East Lauderdale,71
 Delbert Hosemann,Lieutenant Governor,,R,Lauderdale,237-East Lauderdale,292
 Shane Quick,Lieutenant Governor,,R,Lauderdale,237-East Lauderdale,42
 Sam Britton,Secretary of State,,R,Lauderdale,237-East Lauderdale,148
@@ -513,14 +513,14 @@ Jeff Tate,State Senate,33,R,Lauderdale,237-East Lauderdale,x
 Stephen A 'Steve' Home,State House,81,R,Lauderdale,237-East Lauderdale,x
 Billy Adam Calvert,State House,83,R,Lauderdale,237-East Lauderdale,x
 Greg Snowden,State House,83,R,Lauderdale,237-East Lauderdale,x
-Michael Brown,Governor ,,D,Lauderdale,237-East Lauderdale,12
-William Bond Compton Jr.,Governor ,,D,Lauderdale,237-East Lauderdale,8
-Jim Hood,Governor ,,D,Lauderdale,237-East Lauderdale,95
-Robert J. Ray,Governor ,,D,Lauderdale,237-East Lauderdale,0
-Robert Shuler Smith,Governor ,,D,Lauderdale,237-East Lauderdale,1
-Gregory Wash,Governor ,,D,Lauderdale,237-East Lauderdale,0
-Velesha P Williams,Governor ,,D,Lauderdale,237-East Lauderdale,12
-Albert Wilson,Governor ,,D,Lauderdale,237-East Lauderdale,1
+Michael Brown,Governor,,D,Lauderdale,237-East Lauderdale,12
+William Bond Compton Jr.,Governor,,D,Lauderdale,237-East Lauderdale,8
+Jim Hood,Governor,,D,Lauderdale,237-East Lauderdale,95
+Robert J. Ray,Governor,,D,Lauderdale,237-East Lauderdale,0
+Robert Shuler Smith,Governor,,D,Lauderdale,237-East Lauderdale,1
+Gregory Wash,Governor,,D,Lauderdale,237-East Lauderdale,0
+Velesha P Williams,Governor,,D,Lauderdale,237-East Lauderdale,12
+Albert Wilson,Governor,,D,Lauderdale,237-East Lauderdale,1
 Jay Hughes,Lieutenant Governor,,D,Lauderdale,237-East Lauderdale,106
 Johnny DuPree,Secretary of State,,D,Lauderdale,237-East Lauderdale,86
 Maryra Hodges Hunt,Secretary of State,,D,Lauderdale,237-East Lauderdale,42
@@ -531,10 +531,10 @@ Robert E Amos,Commissioner of Insurance,,D,Lauderdale,237-East Lauderdale,104
 Mike Marlow,State Senate,31,D,Lauderdale,237-East Lauderdale,x
 Sampson Jackson II,State Senate,32,D,Lauderdale,237-East Lauderdale,117
 Michael Ted Evans,State House,45,D,Lauderdale,237-East Lauderdale,109
-Charles L Young Jr. ,State House,82,D,Lauderdale,237-East Lauderdale,x
-Robert Foster,Governor ,,R,Lauderdale,238-Marion,14
-Tate Reeves,Governor ,,R,Lauderdale,238-Marion,111
-Bill Waller Jr.,Governor ,,R,Lauderdale,238-Marion,82
+Charles L Young Jr.,State House,82,D,Lauderdale,237-East Lauderdale,x
+Robert Foster,Governor,,R,Lauderdale,238-Marion,14
+Tate Reeves,Governor,,R,Lauderdale,238-Marion,111
+Bill Waller Jr.,Governor,,R,Lauderdale,238-Marion,82
 Delbert Hosemann,Lieutenant Governor,,R,Lauderdale,238-Marion,183
 Shane Quick,Lieutenant Governor,,R,Lauderdale,238-Marion,20
 Sam Britton,Secretary of State,,R,Lauderdale,238-Marion,90
@@ -554,14 +554,14 @@ Jeff Tate,State Senate,33,R,Lauderdale,238-Marion,x
 Stephen A 'Steve' Home,State House,81,R,Lauderdale,238-Marion,x
 Billy Adam Calvert,State House,83,R,Lauderdale,238-Marion,x
 Greg Snowden,State House,83,R,Lauderdale,238-Marion,x
-Michael Brown,Governor ,,D,Lauderdale,238-Marion,13
-William Bond Compton Jr.,Governor ,,D,Lauderdale,238-Marion,4
-Jim Hood,Governor ,,D,Lauderdale,238-Marion,85
-Robert J. Ray,Governor ,,D,Lauderdale,238-Marion,4
-Robert Shuler Smith,Governor ,,D,Lauderdale,238-Marion,2
-Gregory Wash,Governor ,,D,Lauderdale,238-Marion,1
-Velesha P Williams,Governor ,,D,Lauderdale,238-Marion,15
-Albert Wilson,Governor ,,D,Lauderdale,238-Marion,2
+Michael Brown,Governor,,D,Lauderdale,238-Marion,13
+William Bond Compton Jr.,Governor,,D,Lauderdale,238-Marion,4
+Jim Hood,Governor,,D,Lauderdale,238-Marion,85
+Robert J. Ray,Governor,,D,Lauderdale,238-Marion,4
+Robert Shuler Smith,Governor,,D,Lauderdale,238-Marion,2
+Gregory Wash,Governor,,D,Lauderdale,238-Marion,1
+Velesha P Williams,Governor,,D,Lauderdale,238-Marion,15
+Albert Wilson,Governor,,D,Lauderdale,238-Marion,2
 Jay Hughes,Lieutenant Governor,,D,Lauderdale,238-Marion,101
 Johnny DuPree,Secretary of State,,D,Lauderdale,238-Marion,91
 Maryra Hodges Hunt,Secretary of State,,D,Lauderdale,238-Marion,27
@@ -572,10 +572,10 @@ Robert E Amos,Commissioner of Insurance,,D,Lauderdale,238-Marion,102
 Mike Marlow,State Senate,31,D,Lauderdale,238-Marion,x
 Sampson Jackson II,State Senate,32,D,Lauderdale,238-Marion,111
 Michael Ted Evans,State House,45,D,Lauderdale,238-Marion,93
-Charles L Young Jr. ,State House,82,D,Lauderdale,238-Marion,x
-Robert Foster,Governor ,,R,Lauderdale,240-Kewanee,11
-Tate Reeves,Governor ,,R,Lauderdale,240-Kewanee,45
-Bill Waller Jr.,Governor ,,R,Lauderdale,240-Kewanee,16
+Charles L Young Jr.,State House,82,D,Lauderdale,238-Marion,x
+Robert Foster,Governor,,R,Lauderdale,240-Kewanee,11
+Tate Reeves,Governor,,R,Lauderdale,240-Kewanee,45
+Bill Waller Jr.,Governor,,R,Lauderdale,240-Kewanee,16
 Delbert Hosemann,Lieutenant Governor,,R,Lauderdale,240-Kewanee,59
 Shane Quick,Lieutenant Governor,,R,Lauderdale,240-Kewanee,9
 Sam Britton,Secretary of State,,R,Lauderdale,240-Kewanee,39
@@ -595,14 +595,14 @@ Jeff Tate,State Senate,33,R,Lauderdale,240-Kewanee,61
 Stephen A 'Steve' Home,State House,81,R,Lauderdale,240-Kewanee,x
 Billy Adam Calvert,State House,83,R,Lauderdale,240-Kewanee,x
 Greg Snowden,State House,83,R,Lauderdale,240-Kewanee,x
-Michael Brown,Governor ,,D,Lauderdale,240-Kewanee,2
-William Bond Compton Jr.,Governor ,,D,Lauderdale,240-Kewanee,2
-Jim Hood,Governor ,,D,Lauderdale,240-Kewanee,33
-Robert J. Ray,Governor ,,D,Lauderdale,240-Kewanee,3
-Robert Shuler Smith,Governor ,,D,Lauderdale,240-Kewanee,3
-Gregory Wash,Governor ,,D,Lauderdale,240-Kewanee,0
-Velesha P Williams,Governor ,,D,Lauderdale,240-Kewanee,6
-Albert Wilson,Governor ,,D,Lauderdale,240-Kewanee,0
+Michael Brown,Governor,,D,Lauderdale,240-Kewanee,2
+William Bond Compton Jr.,Governor,,D,Lauderdale,240-Kewanee,2
+Jim Hood,Governor,,D,Lauderdale,240-Kewanee,33
+Robert J. Ray,Governor,,D,Lauderdale,240-Kewanee,3
+Robert Shuler Smith,Governor,,D,Lauderdale,240-Kewanee,3
+Gregory Wash,Governor,,D,Lauderdale,240-Kewanee,0
+Velesha P Williams,Governor,,D,Lauderdale,240-Kewanee,6
+Albert Wilson,Governor,,D,Lauderdale,240-Kewanee,0
 Jay Hughes,Lieutenant Governor,,D,Lauderdale,240-Kewanee,38
 Johnny DuPree,Secretary of State,,D,Lauderdale,240-Kewanee,31
 Maryra Hodges Hunt,Secretary of State,,D,Lauderdale,240-Kewanee,15
@@ -613,10 +613,10 @@ Robert E Amos,Commissioner of Insurance,,D,Lauderdale,240-Kewanee,42
 Mike Marlow,State Senate,31,D,Lauderdale,240-Kewanee,x
 Sampson Jackson II,State Senate,32,D,Lauderdale,240-Kewanee,x
 Michael Ted Evans,State House,45,D,Lauderdale,240-Kewanee,41
-Charles L Young Jr. ,State House,82,D,Lauderdale,240-Kewanee,x
-Robert Foster,Governor ,,R,Lauderdale,254-Russell,18
-Tate Reeves,Governor ,,R,Lauderdale,254-Russell,193
-Bill Waller Jr.,Governor ,,R,Lauderdale,254-Russell,86
+Charles L Young Jr.,State House,82,D,Lauderdale,240-Kewanee,x
+Robert Foster,Governor,,R,Lauderdale,254-Russell,18
+Tate Reeves,Governor,,R,Lauderdale,254-Russell,193
+Bill Waller Jr.,Governor,,R,Lauderdale,254-Russell,86
 Delbert Hosemann,Lieutenant Governor,,R,Lauderdale,254-Russell,260
 Shane Quick,Lieutenant Governor,,R,Lauderdale,254-Russell,28
 Sam Britton,Secretary of State,,R,Lauderdale,254-Russell,122
@@ -636,14 +636,14 @@ Jeff Tate,State Senate,33,R,Lauderdale,254-Russell,274
 Stephen A 'Steve' Home,State House,81,R,Lauderdale,254-Russell,274
 Billy Adam Calvert,State House,83,R,Lauderdale,254-Russell,x
 Greg Snowden,State House,83,R,Lauderdale,254-Russell,x
-Michael Brown,Governor ,,D,Lauderdale,254-Russell,7
-William Bond Compton Jr.,Governor ,,D,Lauderdale,254-Russell,8
-Jim Hood,Governor ,,D,Lauderdale,254-Russell,89
-Robert J. Ray,Governor ,,D,Lauderdale,254-Russell,2
-Robert Shuler Smith,Governor ,,D,Lauderdale,254-Russell,5
-Gregory Wash,Governor ,,D,Lauderdale,254-Russell,1
-Velesha P Williams,Governor ,,D,Lauderdale,254-Russell,18
-Albert Wilson,Governor ,,D,Lauderdale,254-Russell,1
+Michael Brown,Governor,,D,Lauderdale,254-Russell,7
+William Bond Compton Jr.,Governor,,D,Lauderdale,254-Russell,8
+Jim Hood,Governor,,D,Lauderdale,254-Russell,89
+Robert J. Ray,Governor,,D,Lauderdale,254-Russell,2
+Robert Shuler Smith,Governor,,D,Lauderdale,254-Russell,5
+Gregory Wash,Governor,,D,Lauderdale,254-Russell,1
+Velesha P Williams,Governor,,D,Lauderdale,254-Russell,18
+Albert Wilson,Governor,,D,Lauderdale,254-Russell,1
 Jay Hughes,Lieutenant Governor,,D,Lauderdale,254-Russell,106
 Johnny DuPree,Secretary of State,,D,Lauderdale,254-Russell,98
 Maryra Hodges Hunt,Secretary of State,,D,Lauderdale,254-Russell,25
@@ -654,10 +654,10 @@ Robert E Amos,Commissioner of Insurance,,D,Lauderdale,254-Russell,114
 Mike Marlow,State Senate,31,D,Lauderdale,254-Russell,x
 Sampson Jackson II,State Senate,32,D,Lauderdale,254-Russell,x
 Michael Ted Evans,State House,45,D,Lauderdale,254-Russell,x
-Charles L Young Jr. ,State House,82,D,Lauderdale,254-Russell,x
-Robert Foster,Governor ,,R,Lauderdale,262-Toomsuba,7
-Tate Reeves,Governor ,,R,Lauderdale,262-Toomsuba,70
-Bill Waller Jr.,Governor ,,R,Lauderdale,262-Toomsuba,17
+Charles L Young Jr.,State House,82,D,Lauderdale,254-Russell,x
+Robert Foster,Governor,,R,Lauderdale,262-Toomsuba,7
+Tate Reeves,Governor,,R,Lauderdale,262-Toomsuba,70
+Bill Waller Jr.,Governor,,R,Lauderdale,262-Toomsuba,17
 Delbert Hosemann,Lieutenant Governor,,R,Lauderdale,262-Toomsuba,69
 Shane Quick,Lieutenant Governor,,R,Lauderdale,262-Toomsuba,25
 Sam Britton,Secretary of State,,R,Lauderdale,262-Toomsuba,35
@@ -677,14 +677,14 @@ Jeff Tate,State Senate,33,R,Lauderdale,262-Toomsuba,87
 Stephen A 'Steve' Home,State House,81,R,Lauderdale,262-Toomsuba,89
 Billy Adam Calvert,State House,83,R,Lauderdale,262-Toomsuba,x
 Greg Snowden,State House,83,R,Lauderdale,262-Toomsuba,x
-Michael Brown,Governor ,,D,Lauderdale,262-Toomsuba,6
-William Bond Compton Jr.,Governor ,,D,Lauderdale,262-Toomsuba,2
-Jim Hood,Governor ,,D,Lauderdale,262-Toomsuba,48
-Robert J. Ray,Governor ,,D,Lauderdale,262-Toomsuba,3
-Robert Shuler Smith,Governor ,,D,Lauderdale,262-Toomsuba,0
-Gregory Wash,Governor ,,D,Lauderdale,262-Toomsuba,1
-Velesha P Williams,Governor ,,D,Lauderdale,262-Toomsuba,6
-Albert Wilson,Governor ,,D,Lauderdale,262-Toomsuba,3
+Michael Brown,Governor,,D,Lauderdale,262-Toomsuba,6
+William Bond Compton Jr.,Governor,,D,Lauderdale,262-Toomsuba,2
+Jim Hood,Governor,,D,Lauderdale,262-Toomsuba,48
+Robert J. Ray,Governor,,D,Lauderdale,262-Toomsuba,3
+Robert Shuler Smith,Governor,,D,Lauderdale,262-Toomsuba,0
+Gregory Wash,Governor,,D,Lauderdale,262-Toomsuba,1
+Velesha P Williams,Governor,,D,Lauderdale,262-Toomsuba,6
+Albert Wilson,Governor,,D,Lauderdale,262-Toomsuba,3
 Jay Hughes,Lieutenant Governor,,D,Lauderdale,262-Toomsuba,54
 Johnny DuPree,Secretary of State,,D,Lauderdale,262-Toomsuba,46
 Maryra Hodges Hunt,Secretary of State,,D,Lauderdale,262-Toomsuba,23
@@ -695,10 +695,10 @@ Robert E Amos,Commissioner of Insurance,,D,Lauderdale,262-Toomsuba,54
 Mike Marlow,State Senate,31,D,Lauderdale,262-Toomsuba,x
 Sampson Jackson II,State Senate,32,D,Lauderdale,262-Toomsuba,x
 Michael Ted Evans,State House,45,D,Lauderdale,262-Toomsuba,x
-Charles L Young Jr. ,State House,82,D,Lauderdale,262-Toomsuba,x
-Robert Foster,Governor ,,R,Lauderdale,303-Three,7
-Tate Reeves,Governor ,,R,Lauderdale,303-Three,63
-Bill Waller Jr.,Governor ,,R,Lauderdale,303-Three,25
+Charles L Young Jr.,State House,82,D,Lauderdale,262-Toomsuba,x
+Robert Foster,Governor,,R,Lauderdale,303-Three,7
+Tate Reeves,Governor,,R,Lauderdale,303-Three,63
+Bill Waller Jr.,Governor,,R,Lauderdale,303-Three,25
 Delbert Hosemann,Lieutenant Governor,,R,Lauderdale,303-Three,80
 Shane Quick,Lieutenant Governor,,R,Lauderdale,303-Three,13
 Sam Britton,Secretary of State,,R,Lauderdale,303-Three,36
@@ -718,14 +718,14 @@ Jeff Tate,State Senate,33,R,Lauderdale,303-Three,x
 Stephen A 'Steve' Home,State House,81,R,Lauderdale,303-Three,x
 Billy Adam Calvert,State House,83,R,Lauderdale,303-Three,x
 Greg Snowden,State House,83,R,Lauderdale,303-Three,x
-Michael Brown,Governor ,,D,Lauderdale,303-Three,22
-William Bond Compton Jr.,Governor ,,D,Lauderdale,303-Three,12
-Jim Hood,Governor ,,D,Lauderdale,303-Three,205
-Robert J. Ray,Governor ,,D,Lauderdale,303-Three,4
-Robert Shuler Smith,Governor ,,D,Lauderdale,303-Three,4
-Gregory Wash,Governor ,,D,Lauderdale,303-Three,3
-Velesha P Williams,Governor ,,D,Lauderdale,303-Three,35
-Albert Wilson,Governor ,,D,Lauderdale,303-Three,3
+Michael Brown,Governor,,D,Lauderdale,303-Three,22
+William Bond Compton Jr.,Governor,,D,Lauderdale,303-Three,12
+Jim Hood,Governor,,D,Lauderdale,303-Three,205
+Robert J. Ray,Governor,,D,Lauderdale,303-Three,4
+Robert Shuler Smith,Governor,,D,Lauderdale,303-Three,4
+Gregory Wash,Governor,,D,Lauderdale,303-Three,3
+Velesha P Williams,Governor,,D,Lauderdale,303-Three,35
+Albert Wilson,Governor,,D,Lauderdale,303-Three,3
 Jay Hughes,Lieutenant Governor,,D,Lauderdale,303-Three,233
 Johnny DuPree,Secretary of State,,D,Lauderdale,303-Three,225
 Maryra Hodges Hunt,Secretary of State,,D,Lauderdale,303-Three,56
@@ -736,51 +736,51 @@ Robert E Amos,Commissioner of Insurance,,D,Lauderdale,303-Three,244
 Mike Marlow,State Senate,31,D,Lauderdale,303-Three,x
 Sampson Jackson II,State Senate,32,D,Lauderdale,303-Three,256
 Michael Ted Evans,State House,45,D,Lauderdale,303-Three,x
-Charles L Young Jr. ,State House,82,D,Lauderdale,303-Three,283
-Robert Foster,Governor ,,R,Lauderdale,313-Thirteen ,25
-Tate Reeves,Governor ,,R,Lauderdale,313-Thirteen ,234
-Bill Waller Jr.,Governor ,,R,Lauderdale,313-Thirteen ,143
-Delbert Hosemann,Lieutenant Governor,,R,Lauderdale,313-Thirteen ,355
-Shane Quick,Lieutenant Governor,,R,Lauderdale,313-Thirteen ,43
-Sam Britton,Secretary of State,,R,Lauderdale,313-Thirteen ,156
-Michael Watson,Secretary of State,,R,Lauderdale,313-Thirteen ,229
-Mark Baker,Attorney General,,R,Lauderdale,313-Thirteen ,78
-Lynn Fitch,Attorney General,,R,Lauderdale,313-Thirteen ,227
-Andy Taggart,Attorney General,,R,Lauderdale,313-Thirteen ,87
-Shad White,State Auditor,,R,Lauderdale,313-Thirteen ,353
-Eugene S. 'Buck' Clarke,State Treasurer,,R,Lauderdale,313-Thirteen ,80
-David McRae,State Treasurer,,R,Lauderdale,313-Thirteen ,310
-Andy Gipson,Commissioner of Agriculture & Commerce,,R,Lauderdale,313-Thirteen ,365
-Mike Chaney,Commissioner of Insurance,,R,Lauderdale,313-Thirteen ,365
-Hampton Gardner,State Senate,31,R,Lauderdale,313-Thirteen ,x
-Tyler McCaughn,State Senate,31,R,Lauderdale,313-Thirteen ,x
-Erie E 'Bubby' Johnston,State Senate,33,R,Lauderdale,313-Thirteen ,51
-Jeff Tate,State Senate,33,R,Lauderdale,313-Thirteen ,338
-Stephen A 'Steve' Home,State House,81,R,Lauderdale,313-Thirteen ,x
-Billy Adam Calvert,State House,83,R,Lauderdale,313-Thirteen ,146
-Greg Snowden,State House,83,R,Lauderdale,313-Thirteen ,249
-Michael Brown,Governor ,,D,Lauderdale,313-Thirteen ,16
-William Bond Compton Jr.,Governor ,,D,Lauderdale,313-Thirteen ,13
-Jim Hood,Governor ,,D,Lauderdale,313-Thirteen ,186
-Robert J. Ray,Governor ,,D,Lauderdale,313-Thirteen ,1
-Robert Shuler Smith,Governor ,,D,Lauderdale,313-Thirteen ,7
-Gregory Wash,Governor ,,D,Lauderdale,313-Thirteen ,2
-Velesha P Williams,Governor ,,D,Lauderdale,313-Thirteen ,34
-Albert Wilson,Governor ,,D,Lauderdale,313-Thirteen ,2
-Jay Hughes,Lieutenant Governor,,D,Lauderdale,313-Thirteen ,230
-Johnny DuPree,Secretary of State,,D,Lauderdale,313-Thirteen ,201
-Maryra Hodges Hunt,Secretary of State,,D,Lauderdale,313-Thirteen ,54
-Jennifer Riley Collins,Attorney General,,D,Lauderdale,313-Thirteen ,235
-Addie Lee Green,State Treasurer,,D,Lauderdale,313-Thirteen ,230
-Rickey L Cole,Commissioner of Agriculture & Commerce,,D,Lauderdale,313-Thirteen ,238
-Robert E Amos,Commissioner of Insurance,,D,Lauderdale,313-Thirteen ,235
-Mike Marlow,State Senate,31,D,Lauderdale,313-Thirteen ,x
-Sampson Jackson II,State Senate,32,D,Lauderdale,313-Thirteen ,x
-Michael Ted Evans,State House,45,D,Lauderdale,313-Thirteen ,x
-Charles L Young Jr. ,State House,82,D,Lauderdale,313-Thirteen ,x
-Robert Foster,Governor ,,R,Lauderdale,329-Center Hill,71
-Tate Reeves,Governor ,,R,Lauderdale,329-Center Hill,360
-Bill Waller Jr.,Governor ,,R,Lauderdale,329-Center Hill,159
+Charles L Young Jr.,State House,82,D,Lauderdale,303-Three,283
+Robert Foster,Governor,,R,Lauderdale,313-Thirteen,25
+Tate Reeves,Governor,,R,Lauderdale,313-Thirteen,234
+Bill Waller Jr.,Governor,,R,Lauderdale,313-Thirteen,143
+Delbert Hosemann,Lieutenant Governor,,R,Lauderdale,313-Thirteen,355
+Shane Quick,Lieutenant Governor,,R,Lauderdale,313-Thirteen,43
+Sam Britton,Secretary of State,,R,Lauderdale,313-Thirteen,156
+Michael Watson,Secretary of State,,R,Lauderdale,313-Thirteen,229
+Mark Baker,Attorney General,,R,Lauderdale,313-Thirteen,78
+Lynn Fitch,Attorney General,,R,Lauderdale,313-Thirteen,227
+Andy Taggart,Attorney General,,R,Lauderdale,313-Thirteen,87
+Shad White,State Auditor,,R,Lauderdale,313-Thirteen,353
+Eugene S. 'Buck' Clarke,State Treasurer,,R,Lauderdale,313-Thirteen,80
+David McRae,State Treasurer,,R,Lauderdale,313-Thirteen,310
+Andy Gipson,Commissioner of Agriculture & Commerce,,R,Lauderdale,313-Thirteen,365
+Mike Chaney,Commissioner of Insurance,,R,Lauderdale,313-Thirteen,365
+Hampton Gardner,State Senate,31,R,Lauderdale,313-Thirteen,x
+Tyler McCaughn,State Senate,31,R,Lauderdale,313-Thirteen,x
+Erie E 'Bubby' Johnston,State Senate,33,R,Lauderdale,313-Thirteen,51
+Jeff Tate,State Senate,33,R,Lauderdale,313-Thirteen,338
+Stephen A 'Steve' Home,State House,81,R,Lauderdale,313-Thirteen,x
+Billy Adam Calvert,State House,83,R,Lauderdale,313-Thirteen,146
+Greg Snowden,State House,83,R,Lauderdale,313-Thirteen,249
+Michael Brown,Governor,,D,Lauderdale,313-Thirteen,16
+William Bond Compton Jr.,Governor,,D,Lauderdale,313-Thirteen,13
+Jim Hood,Governor,,D,Lauderdale,313-Thirteen,186
+Robert J. Ray,Governor,,D,Lauderdale,313-Thirteen,1
+Robert Shuler Smith,Governor,,D,Lauderdale,313-Thirteen,7
+Gregory Wash,Governor,,D,Lauderdale,313-Thirteen,2
+Velesha P Williams,Governor,,D,Lauderdale,313-Thirteen,34
+Albert Wilson,Governor,,D,Lauderdale,313-Thirteen,2
+Jay Hughes,Lieutenant Governor,,D,Lauderdale,313-Thirteen,230
+Johnny DuPree,Secretary of State,,D,Lauderdale,313-Thirteen,201
+Maryra Hodges Hunt,Secretary of State,,D,Lauderdale,313-Thirteen,54
+Jennifer Riley Collins,Attorney General,,D,Lauderdale,313-Thirteen,235
+Addie Lee Green,State Treasurer,,D,Lauderdale,313-Thirteen,230
+Rickey L Cole,Commissioner of Agriculture & Commerce,,D,Lauderdale,313-Thirteen,238
+Robert E Amos,Commissioner of Insurance,,D,Lauderdale,313-Thirteen,235
+Mike Marlow,State Senate,31,D,Lauderdale,313-Thirteen,x
+Sampson Jackson II,State Senate,32,D,Lauderdale,313-Thirteen,x
+Michael Ted Evans,State House,45,D,Lauderdale,313-Thirteen,x
+Charles L Young Jr.,State House,82,D,Lauderdale,313-Thirteen,x
+Robert Foster,Governor,,R,Lauderdale,329-Center Hill,71
+Tate Reeves,Governor,,R,Lauderdale,329-Center Hill,360
+Bill Waller Jr.,Governor,,R,Lauderdale,329-Center Hill,159
 Delbert Hosemann,Lieutenant Governor,,R,Lauderdale,329-Center Hill,536
 Shane Quick,Lieutenant Governor,,R,Lauderdale,329-Center Hill,42
 Sam Britton,Secretary of State,,R,Lauderdale,329-Center Hill,250
@@ -800,14 +800,14 @@ Jeff Tate,State Senate,33,R,Lauderdale,329-Center Hill,x
 Stephen A 'Steve' Home,State House,81,R,Lauderdale,329-Center Hill,x
 Billy Adam Calvert,State House,83,R,Lauderdale,329-Center Hill,370
 Greg Snowden,State House,83,R,Lauderdale,329-Center Hill,213
-Michael Brown,Governor ,,D,Lauderdale,329-Center Hill,5
-William Bond Compton Jr.,Governor ,,D,Lauderdale,329-Center Hill,3
-Jim Hood,Governor ,,D,Lauderdale,329-Center Hill,34
-Robert J. Ray,Governor ,,D,Lauderdale,329-Center Hill,0
-Robert Shuler Smith,Governor ,,D,Lauderdale,329-Center Hill,1
-Gregory Wash,Governor ,,D,Lauderdale,329-Center Hill,0
-Velesha P Williams,Governor ,,D,Lauderdale,329-Center Hill,11
-Albert Wilson,Governor ,,D,Lauderdale,329-Center Hill,0
+Michael Brown,Governor,,D,Lauderdale,329-Center Hill,5
+William Bond Compton Jr.,Governor,,D,Lauderdale,329-Center Hill,3
+Jim Hood,Governor,,D,Lauderdale,329-Center Hill,34
+Robert J. Ray,Governor,,D,Lauderdale,329-Center Hill,0
+Robert Shuler Smith,Governor,,D,Lauderdale,329-Center Hill,1
+Gregory Wash,Governor,,D,Lauderdale,329-Center Hill,0
+Velesha P Williams,Governor,,D,Lauderdale,329-Center Hill,11
+Albert Wilson,Governor,,D,Lauderdale,329-Center Hill,0
 Jay Hughes,Lieutenant Governor,,D,Lauderdale,329-Center Hill,48
 Johnny DuPree,Secretary of State,,D,Lauderdale,329-Center Hill,37
 Maryra Hodges Hunt,Secretary of State,,D,Lauderdale,329-Center Hill,16
@@ -818,10 +818,10 @@ Robert E Amos,Commissioner of Insurance,,D,Lauderdale,329-Center Hill,48
 Mike Marlow,State Senate,31,D,Lauderdale,329-Center Hill,47
 Sampson Jackson II,State Senate,32,D,Lauderdale,329-Center Hill,x
 Michael Ted Evans,State House,45,D,Lauderdale,329-Center Hill,x
-Charles L Young Jr. ,State House,82,D,Lauderdale,329-Center Hill,x
-Robert Foster,Governor ,,R,Lauderdale,331-Collinsville,89
-Tate Reeves,Governor ,,R,Lauderdale,331-Collinsville,450
-Bill Waller Jr.,Governor ,,R,Lauderdale,331-Collinsville,206
+Charles L Young Jr.,State House,82,D,Lauderdale,329-Center Hill,x
+Robert Foster,Governor,,R,Lauderdale,331-Collinsville,89
+Tate Reeves,Governor,,R,Lauderdale,331-Collinsville,450
+Bill Waller Jr.,Governor,,R,Lauderdale,331-Collinsville,206
 Delbert Hosemann,Lieutenant Governor,,R,Lauderdale,331-Collinsville,624
 Shane Quick,Lieutenant Governor,,R,Lauderdale,331-Collinsville,76
 Sam Britton,Secretary of State,,R,Lauderdale,331-Collinsville,307
@@ -841,14 +841,14 @@ Jeff Tate,State Senate,33,R,Lauderdale,331-Collinsville,x
 Stephen A 'Steve' Home,State House,81,R,Lauderdale,331-Collinsville,x
 Billy Adam Calvert,State House,83,R,Lauderdale,331-Collinsville,437
 Greg Snowden,State House,83,R,Lauderdale,331-Collinsville,273
-Michael Brown,Governor ,,D,Lauderdale,331-Collinsville,9
-William Bond Compton Jr.,Governor ,,D,Lauderdale,331-Collinsville,3
-Jim Hood,Governor ,,D,Lauderdale,331-Collinsville,76
-Robert J. Ray,Governor ,,D,Lauderdale,331-Collinsville,1
-Robert Shuler Smith,Governor ,,D,Lauderdale,331-Collinsville,3
-Gregory Wash,Governor ,,D,Lauderdale,331-Collinsville,0
-Velesha P Williams,Governor ,,D,Lauderdale,331-Collinsville,5
-Albert Wilson,Governor ,,D,Lauderdale,331-Collinsville,1
+Michael Brown,Governor,,D,Lauderdale,331-Collinsville,9
+William Bond Compton Jr.,Governor,,D,Lauderdale,331-Collinsville,3
+Jim Hood,Governor,,D,Lauderdale,331-Collinsville,76
+Robert J. Ray,Governor,,D,Lauderdale,331-Collinsville,1
+Robert Shuler Smith,Governor,,D,Lauderdale,331-Collinsville,3
+Gregory Wash,Governor,,D,Lauderdale,331-Collinsville,0
+Velesha P Williams,Governor,,D,Lauderdale,331-Collinsville,5
+Albert Wilson,Governor,,D,Lauderdale,331-Collinsville,1
 Jay Hughes,Lieutenant Governor,,D,Lauderdale,331-Collinsville,87
 Johnny DuPree,Secretary of State,,D,Lauderdale,331-Collinsville,76
 Maryra Hodges Hunt,Secretary of State,,D,Lauderdale,331-Collinsville,22
@@ -859,10 +859,10 @@ Robert E Amos,Commissioner of Insurance,,D,Lauderdale,331-Collinsville,89
 Mike Marlow,State Senate,31,D,Lauderdale,331-Collinsville,90
 Sampson Jackson II,State Senate,32,D,Lauderdale,331-Collinsville,x
 Michael Ted Evans,State House,45,D,Lauderdale,331-Collinsville,x
-Charles L Young Jr. ,State House,82,D,Lauderdale,331-Collinsville,x
-Robert Foster,Governor ,,R,Lauderdale,343 - Martin,78
-Tate Reeves,Governor ,,R,Lauderdale,343 - Martin,279
-Bill Waller Jr.,Governor ,,R,Lauderdale,343 - Martin,107
+Charles L Young Jr.,State House,82,D,Lauderdale,331-Collinsville,x
+Robert Foster,Governor,,R,Lauderdale,343 - Martin,78
+Tate Reeves,Governor,,R,Lauderdale,343 - Martin,279
+Bill Waller Jr.,Governor,,R,Lauderdale,343 - Martin,107
 Delbert Hosemann,Lieutenant Governor,,R,Lauderdale,343 - Martin,408
 Shane Quick,Lieutenant Governor,,R,Lauderdale,343 - Martin,40
 Sam Britton,Secretary of State,,R,Lauderdale,343 - Martin,164
@@ -882,14 +882,14 @@ Jeff Tate,State Senate,33,R,Lauderdale,343 - Martin,x
 Stephen A 'Steve' Home,State House,81,R,Lauderdale,343 - Martin,x
 Billy Adam Calvert,State House,83,R,Lauderdale,343 - Martin,315
 Greg Snowden,State House,83,R,Lauderdale,343 - Martin,149
-Michael Brown,Governor ,,D,Lauderdale,343 - Martin,1
-William Bond Compton Jr.,Governor ,,D,Lauderdale,343 - Martin,0
-Jim Hood,Governor ,,D,Lauderdale,343 - Martin,5
-Robert J. Ray,Governor ,,D,Lauderdale,343 - Martin,0
-Robert Shuler Smith,Governor ,,D,Lauderdale,343 - Martin,1
-Gregory Wash,Governor ,,D,Lauderdale,343 - Martin,0
-Velesha P Williams,Governor ,,D,Lauderdale,343 - Martin,0
-Albert Wilson,Governor ,,D,Lauderdale,343 - Martin,1
+Michael Brown,Governor,,D,Lauderdale,343 - Martin,1
+William Bond Compton Jr.,Governor,,D,Lauderdale,343 - Martin,0
+Jim Hood,Governor,,D,Lauderdale,343 - Martin,5
+Robert J. Ray,Governor,,D,Lauderdale,343 - Martin,0
+Robert Shuler Smith,Governor,,D,Lauderdale,343 - Martin,1
+Gregory Wash,Governor,,D,Lauderdale,343 - Martin,0
+Velesha P Williams,Governor,,D,Lauderdale,343 - Martin,0
+Albert Wilson,Governor,,D,Lauderdale,343 - Martin,1
 Jay Hughes,Lieutenant Governor,,D,Lauderdale,343 - Martin,6
 Johnny DuPree,Secretary of State,,D,Lauderdale,343 - Martin,5
 Maryra Hodges Hunt,Secretary of State,,D,Lauderdale,343 - Martin,3
@@ -900,51 +900,51 @@ Robert E Amos,Commissioner of Insurance,,D,Lauderdale,343 - Martin,6
 Mike Marlow,State Senate,31,D,Lauderdale,343 - Martin,7
 Sampson Jackson II,State Senate,32,D,Lauderdale,343 - Martin,x
 Michael Ted Evans,State House,45,D,Lauderdale,343 - Martin,x
-Charles L Young Jr. ,State House,82,D,Lauderdale,343 - Martin,x
-Robert Foster,Governor ,,R,Lauderdale,361-Suqualena ,67
-Tate Reeves,Governor ,,R,Lauderdale,361-Suqualena ,397
-Bill Waller Jr.,Governor ,,R,Lauderdale,361-Suqualena ,200
-Delbert Hosemann,Lieutenant Governor,,R,Lauderdale,361-Suqualena ,598
-Shane Quick,Lieutenant Governor,,R,Lauderdale,361-Suqualena ,54
-Sam Britton,Secretary of State,,R,Lauderdale,361-Suqualena ,275
-Michael Watson,Secretary of State,,R,Lauderdale,361-Suqualena ,371
-Mark Baker,Attorney General,,R,Lauderdale,361-Suqualena ,137
-Lynn Fitch,Attorney General,,R,Lauderdale,361-Suqualena ,382
-Andy Taggart,Attorney General,,R,Lauderdale,361-Suqualena ,130
-Shad White,State Auditor,,R,Lauderdale,361-Suqualena ,600
-Eugene S. 'Buck' Clarke,State Treasurer,,R,Lauderdale,361-Suqualena ,137
-David McRae,State Treasurer,,R,Lauderdale,361-Suqualena ,514
-Andy Gipson,Commissioner of Agriculture & Commerce,,R,Lauderdale,361-Suqualena ,608
-Mike Chaney,Commissioner of Insurance,,R,Lauderdale,361-Suqualena ,615
-Hampton Gardner,State Senate,31,R,Lauderdale,361-Suqualena ,x
-Tyler McCaughn,State Senate,31,R,Lauderdale,361-Suqualena ,x
-Erie E 'Bubby' Johnston,State Senate,33,R,Lauderdale,361-Suqualena ,75
-Jeff Tate,State Senate,33,R,Lauderdale,361-Suqualena ,575
-Stephen A 'Steve' Home,State House,81,R,Lauderdale,361-Suqualena ,606
-Billy Adam Calvert,State House,83,R,Lauderdale,361-Suqualena ,x
-Greg Snowden,State House,83,R,Lauderdale,361-Suqualena ,x
-Michael Brown,Governor ,,D,Lauderdale,361-Suqualena ,5
-William Bond Compton Jr.,Governor ,,D,Lauderdale,361-Suqualena ,2
-Jim Hood,Governor ,,D,Lauderdale,361-Suqualena ,104
-Robert J. Ray,Governor ,,D,Lauderdale,361-Suqualena ,2
-Robert Shuler Smith,Governor ,,D,Lauderdale,361-Suqualena ,2
-Gregory Wash,Governor ,,D,Lauderdale,361-Suqualena ,2
-Velesha P Williams,Governor ,,D,Lauderdale,361-Suqualena ,11
-Albert Wilson,Governor ,,D,Lauderdale,361-Suqualena ,1
-Jay Hughes,Lieutenant Governor,,D,Lauderdale,361-Suqualena ,118
-Johnny DuPree,Secretary of State,,D,Lauderdale,361-Suqualena ,98
-Maryra Hodges Hunt,Secretary of State,,D,Lauderdale,361-Suqualena ,28
-Jennifer Riley Collins,Attorney General,,D,Lauderdale,361-Suqualena ,121
-Addie Lee Green,State Treasurer,,D,Lauderdale,361-Suqualena ,116
-Rickey L Cole,Commissioner of Agriculture & Commerce,,D,Lauderdale,361-Suqualena ,118
-Robert E Amos,Commissioner of Insurance,,D,Lauderdale,361-Suqualena ,118
-Mike Marlow,State Senate,31,D,Lauderdale,361-Suqualena ,x
-Sampson Jackson II,State Senate,32,D,Lauderdale,361-Suqualena ,x
-Michael Ted Evans,State House,45,D,Lauderdale,361-Suqualena ,x
-Charles L Young Jr. ,State House,82,D,Lauderdale,361-Suqualena ,x
-Robert Foster,Governor ,,R,Lauderdale,407-Seven,3
-Tate Reeves,Governor ,,R,Lauderdale,407-Seven,48
-Bill Waller Jr.,Governor ,,R,Lauderdale,407-Seven,14
+Charles L Young Jr.,State House,82,D,Lauderdale,343 - Martin,x
+Robert Foster,Governor,,R,Lauderdale,361-Suqualena,67
+Tate Reeves,Governor,,R,Lauderdale,361-Suqualena,397
+Bill Waller Jr.,Governor,,R,Lauderdale,361-Suqualena,200
+Delbert Hosemann,Lieutenant Governor,,R,Lauderdale,361-Suqualena,598
+Shane Quick,Lieutenant Governor,,R,Lauderdale,361-Suqualena,54
+Sam Britton,Secretary of State,,R,Lauderdale,361-Suqualena,275
+Michael Watson,Secretary of State,,R,Lauderdale,361-Suqualena,371
+Mark Baker,Attorney General,,R,Lauderdale,361-Suqualena,137
+Lynn Fitch,Attorney General,,R,Lauderdale,361-Suqualena,382
+Andy Taggart,Attorney General,,R,Lauderdale,361-Suqualena,130
+Shad White,State Auditor,,R,Lauderdale,361-Suqualena,600
+Eugene S. 'Buck' Clarke,State Treasurer,,R,Lauderdale,361-Suqualena,137
+David McRae,State Treasurer,,R,Lauderdale,361-Suqualena,514
+Andy Gipson,Commissioner of Agriculture & Commerce,,R,Lauderdale,361-Suqualena,608
+Mike Chaney,Commissioner of Insurance,,R,Lauderdale,361-Suqualena,615
+Hampton Gardner,State Senate,31,R,Lauderdale,361-Suqualena,x
+Tyler McCaughn,State Senate,31,R,Lauderdale,361-Suqualena,x
+Erie E 'Bubby' Johnston,State Senate,33,R,Lauderdale,361-Suqualena,75
+Jeff Tate,State Senate,33,R,Lauderdale,361-Suqualena,575
+Stephen A 'Steve' Home,State House,81,R,Lauderdale,361-Suqualena,606
+Billy Adam Calvert,State House,83,R,Lauderdale,361-Suqualena,x
+Greg Snowden,State House,83,R,Lauderdale,361-Suqualena,x
+Michael Brown,Governor,,D,Lauderdale,361-Suqualena,5
+William Bond Compton Jr.,Governor,,D,Lauderdale,361-Suqualena,2
+Jim Hood,Governor,,D,Lauderdale,361-Suqualena,104
+Robert J. Ray,Governor,,D,Lauderdale,361-Suqualena,2
+Robert Shuler Smith,Governor,,D,Lauderdale,361-Suqualena,2
+Gregory Wash,Governor,,D,Lauderdale,361-Suqualena,2
+Velesha P Williams,Governor,,D,Lauderdale,361-Suqualena,11
+Albert Wilson,Governor,,D,Lauderdale,361-Suqualena,1
+Jay Hughes,Lieutenant Governor,,D,Lauderdale,361-Suqualena,118
+Johnny DuPree,Secretary of State,,D,Lauderdale,361-Suqualena,98
+Maryra Hodges Hunt,Secretary of State,,D,Lauderdale,361-Suqualena,28
+Jennifer Riley Collins,Attorney General,,D,Lauderdale,361-Suqualena,121
+Addie Lee Green,State Treasurer,,D,Lauderdale,361-Suqualena,116
+Rickey L Cole,Commissioner of Agriculture & Commerce,,D,Lauderdale,361-Suqualena,118
+Robert E Amos,Commissioner of Insurance,,D,Lauderdale,361-Suqualena,118
+Mike Marlow,State Senate,31,D,Lauderdale,361-Suqualena,x
+Sampson Jackson II,State Senate,32,D,Lauderdale,361-Suqualena,x
+Michael Ted Evans,State House,45,D,Lauderdale,361-Suqualena,x
+Charles L Young Jr.,State House,82,D,Lauderdale,361-Suqualena,x
+Robert Foster,Governor,,R,Lauderdale,407-Seven,3
+Tate Reeves,Governor,,R,Lauderdale,407-Seven,48
+Bill Waller Jr.,Governor,,R,Lauderdale,407-Seven,14
 Delbert Hosemann,Lieutenant Governor,,R,Lauderdale,407-Seven,60
 Shane Quick,Lieutenant Governor,,R,Lauderdale,407-Seven,6
 Sam Britton,Secretary of State,,R,Lauderdale,407-Seven,28
@@ -964,14 +964,14 @@ Jeff Tate,State Senate,33,R,Lauderdale,407-Seven,x
 Stephen A 'Steve' Home,State House,81,R,Lauderdale,407-Seven,x
 Billy Adam Calvert,State House,83,R,Lauderdale,407-Seven,x
 Greg Snowden,State House,83,R,Lauderdale,407-Seven,x
-Michael Brown,Governor ,,D,Lauderdale,407-Seven,25
-William Bond Compton Jr.,Governor ,,D,Lauderdale,407-Seven,9
-Jim Hood,Governor ,,D,Lauderdale,407-Seven,117
-Robert J. Ray,Governor ,,D,Lauderdale,407-Seven,8
-Robert Shuler Smith,Governor ,,D,Lauderdale,407-Seven,0
-Gregory Wash,Governor ,,D,Lauderdale,407-Seven,1
-Velesha P Williams,Governor ,,D,Lauderdale,407-Seven,31
-Albert Wilson,Governor ,,D,Lauderdale,407-Seven,0
+Michael Brown,Governor,,D,Lauderdale,407-Seven,25
+William Bond Compton Jr.,Governor,,D,Lauderdale,407-Seven,9
+Jim Hood,Governor,,D,Lauderdale,407-Seven,117
+Robert J. Ray,Governor,,D,Lauderdale,407-Seven,8
+Robert Shuler Smith,Governor,,D,Lauderdale,407-Seven,0
+Gregory Wash,Governor,,D,Lauderdale,407-Seven,1
+Velesha P Williams,Governor,,D,Lauderdale,407-Seven,31
+Albert Wilson,Governor,,D,Lauderdale,407-Seven,0
 Jay Hughes,Lieutenant Governor,,D,Lauderdale,407-Seven,166
 Johnny DuPree,Secretary of State,,D,Lauderdale,407-Seven,149
 Maryra Hodges Hunt,Secretary of State,,D,Lauderdale,407-Seven,38
@@ -982,10 +982,10 @@ Robert E Amos,Commissioner of Insurance,,D,Lauderdale,407-Seven,170
 Mike Marlow,State Senate,31,D,Lauderdale,407-Seven,x
 Sampson Jackson II,State Senate,32,D,Lauderdale,407-Seven,174
 Michael Ted Evans,State House,45,D,Lauderdale,407-Seven,x
-Charles L Young Jr. ,State House,82,D,Lauderdale,407-Seven,187
-Robert Foster,Governor ,,R,Lauderdale,408-Eight,6
-Tate Reeves,Governor ,,R,Lauderdale,408-Eight,52
-Bill Waller Jr.,Governor ,,R,Lauderdale,408-Eight,18
+Charles L Young Jr.,State House,82,D,Lauderdale,407-Seven,187
+Robert Foster,Governor,,R,Lauderdale,408-Eight,6
+Tate Reeves,Governor,,R,Lauderdale,408-Eight,52
+Bill Waller Jr.,Governor,,R,Lauderdale,408-Eight,18
 Delbert Hosemann,Lieutenant Governor,,R,Lauderdale,408-Eight,71
 Shane Quick,Lieutenant Governor,,R,Lauderdale,408-Eight,5
 Sam Britton,Secretary of State,,R,Lauderdale,408-Eight,33
@@ -1005,14 +1005,14 @@ Jeff Tate,State Senate,33,R,Lauderdale,408-Eight,x
 Stephen A 'Steve' Home,State House,81,R,Lauderdale,408-Eight,x
 Billy Adam Calvert,State House,83,R,Lauderdale,408-Eight,x
 Greg Snowden,State House,83,R,Lauderdale,408-Eight,x
-Michael Brown,Governor ,,D,Lauderdale,408-Eight,25
-William Bond Compton Jr.,Governor ,,D,Lauderdale,408-Eight,6
-Jim Hood,Governor ,,D,Lauderdale,408-Eight,170
-Robert J. Ray,Governor ,,D,Lauderdale,408-Eight,3
-Robert Shuler Smith,Governor ,,D,Lauderdale,408-Eight,7
-Gregory Wash,Governor ,,D,Lauderdale,408-Eight,1
-Velesha P Williams,Governor ,,D,Lauderdale,408-Eight,24
-Albert Wilson,Governor ,,D,Lauderdale,408-Eight,1
+Michael Brown,Governor,,D,Lauderdale,408-Eight,25
+William Bond Compton Jr.,Governor,,D,Lauderdale,408-Eight,6
+Jim Hood,Governor,,D,Lauderdale,408-Eight,170
+Robert J. Ray,Governor,,D,Lauderdale,408-Eight,3
+Robert Shuler Smith,Governor,,D,Lauderdale,408-Eight,7
+Gregory Wash,Governor,,D,Lauderdale,408-Eight,1
+Velesha P Williams,Governor,,D,Lauderdale,408-Eight,24
+Albert Wilson,Governor,,D,Lauderdale,408-Eight,1
 Jay Hughes,Lieutenant Governor,,D,Lauderdale,408-Eight,209
 Johnny DuPree,Secretary of State,,D,Lauderdale,408-Eight,199
 Maryra Hodges Hunt,Secretary of State,,D,Lauderdale,408-Eight,35
@@ -1023,10 +1023,10 @@ Robert E Amos,Commissioner of Insurance,,D,Lauderdale,408-Eight,215
 Mike Marlow,State Senate,31,D,Lauderdale,408-Eight,x
 Sampson Jackson II,State Senate,32,D,Lauderdale,408-Eight,220
 Michael Ted Evans,State House,45,D,Lauderdale,408-Eight,x
-Charles L Young Jr. ,State House,82,D,Lauderdale,408-Eight,233
-Robert Foster,Governor ,,R,Lauderdale,409- Nine,2
-Tate Reeves,Governor ,,R,Lauderdale,409- Nine,18
-Bill Waller Jr.,Governor ,,R,Lauderdale,409- Nine,4
+Charles L Young Jr.,State House,82,D,Lauderdale,408-Eight,233
+Robert Foster,Governor,,R,Lauderdale,409- Nine,2
+Tate Reeves,Governor,,R,Lauderdale,409- Nine,18
+Bill Waller Jr.,Governor,,R,Lauderdale,409- Nine,4
 Delbert Hosemann,Lieutenant Governor,,R,Lauderdale,409- Nine,17
 Shane Quick,Lieutenant Governor,,R,Lauderdale,409- Nine,4
 Sam Britton,Secretary of State,,R,Lauderdale,409- Nine,11
@@ -1046,14 +1046,14 @@ Jeff Tate,State Senate,33,R,Lauderdale,409- Nine,x
 Stephen A 'Steve' Home,State House,81,R,Lauderdale,409- Nine,x
 Billy Adam Calvert,State House,83,R,Lauderdale,409- Nine,x
 Greg Snowden,State House,83,R,Lauderdale,409- Nine,x
-Michael Brown,Governor ,,D,Lauderdale,409- Nine,15
-William Bond Compton Jr.,Governor ,,D,Lauderdale,409- Nine,8
-Jim Hood,Governor ,,D,Lauderdale,409- Nine,137
-Robert J. Ray,Governor ,,D,Lauderdale,409- Nine,2
-Robert Shuler Smith,Governor ,,D,Lauderdale,409- Nine,5
-Gregory Wash,Governor ,,D,Lauderdale,409- Nine,1
-Velesha P Williams,Governor ,,D,Lauderdale,409- Nine,47
-Albert Wilson,Governor ,,D,Lauderdale,409- Nine,2
+Michael Brown,Governor,,D,Lauderdale,409- Nine,15
+William Bond Compton Jr.,Governor,,D,Lauderdale,409- Nine,8
+Jim Hood,Governor,,D,Lauderdale,409- Nine,137
+Robert J. Ray,Governor,,D,Lauderdale,409- Nine,2
+Robert Shuler Smith,Governor,,D,Lauderdale,409- Nine,5
+Gregory Wash,Governor,,D,Lauderdale,409- Nine,1
+Velesha P Williams,Governor,,D,Lauderdale,409- Nine,47
+Albert Wilson,Governor,,D,Lauderdale,409- Nine,2
 Jay Hughes,Lieutenant Governor,,D,Lauderdale,409- Nine,167
 Johnny DuPree,Secretary of State,,D,Lauderdale,409- Nine,168
 Maryra Hodges Hunt,Secretary of State,,D,Lauderdale,409- Nine,40
@@ -1064,10 +1064,10 @@ Robert E Amos,Commissioner of Insurance,,D,Lauderdale,409- Nine,179
 Mike Marlow,State Senate,31,D,Lauderdale,409- Nine,x
 Sampson Jackson II,State Senate,32,D,Lauderdale,409- Nine,187
 Michael Ted Evans,State House,45,D,Lauderdale,409- Nine,x
-Charles L Young Jr. ,State House,82,D,Lauderdale,409- Nine,199
-Robert Foster,Governor ,,R,Lauderdale,410-Ten,0
-Tate Reeves,Governor ,,R,Lauderdale,410-Ten,25
-Bill Waller Jr.,Governor ,,R,Lauderdale,410-Ten,11
+Charles L Young Jr.,State House,82,D,Lauderdale,409- Nine,199
+Robert Foster,Governor,,R,Lauderdale,410-Ten,0
+Tate Reeves,Governor,,R,Lauderdale,410-Ten,25
+Bill Waller Jr.,Governor,,R,Lauderdale,410-Ten,11
 Delbert Hosemann,Lieutenant Governor,,R,Lauderdale,410-Ten,35
 Shane Quick,Lieutenant Governor,,R,Lauderdale,410-Ten,1
 Sam Britton,Secretary of State,,R,Lauderdale,410-Ten,21
@@ -1087,14 +1087,14 @@ Jeff Tate,State Senate,33,R,Lauderdale,410-Ten,x
 Stephen A 'Steve' Home,State House,81,R,Lauderdale,410-Ten,x
 Billy Adam Calvert,State House,83,R,Lauderdale,410-Ten,x
 Greg Snowden,State House,83,R,Lauderdale,410-Ten,x
-Michael Brown,Governor ,,D,Lauderdale,410-Ten,5
-William Bond Compton Jr.,Governor ,,D,Lauderdale,410-Ten,3
-Jim Hood,Governor ,,D,Lauderdale,410-Ten,45
-Robert J. Ray,Governor ,,D,Lauderdale,410-Ten,1
-Robert Shuler Smith,Governor ,,D,Lauderdale,410-Ten,2
-Gregory Wash,Governor ,,D,Lauderdale,410-Ten,0
-Velesha P Williams,Governor ,,D,Lauderdale,410-Ten,6
-Albert Wilson,Governor ,,D,Lauderdale,410-Ten,0
+Michael Brown,Governor,,D,Lauderdale,410-Ten,5
+William Bond Compton Jr.,Governor,,D,Lauderdale,410-Ten,3
+Jim Hood,Governor,,D,Lauderdale,410-Ten,45
+Robert J. Ray,Governor,,D,Lauderdale,410-Ten,1
+Robert Shuler Smith,Governor,,D,Lauderdale,410-Ten,2
+Gregory Wash,Governor,,D,Lauderdale,410-Ten,0
+Velesha P Williams,Governor,,D,Lauderdale,410-Ten,6
+Albert Wilson,Governor,,D,Lauderdale,410-Ten,0
 Jay Hughes,Lieutenant Governor,,D,Lauderdale,410-Ten,52
 Johnny DuPree,Secretary of State,,D,Lauderdale,410-Ten,48
 Maryra Hodges Hunt,Secretary of State,,D,Lauderdale,410-Ten,14
@@ -1105,10 +1105,10 @@ Robert E Amos,Commissioner of Insurance,,D,Lauderdale,410-Ten,53
 Mike Marlow,State Senate,31,D,Lauderdale,410-Ten,x
 Sampson Jackson II,State Senate,32,D,Lauderdale,410-Ten,59
 Michael Ted Evans,State House,45,D,Lauderdale,410-Ten,x
-Charles L Young Jr. ,State House,82,D,Lauderdale,410-Ten,56
-Robert Foster,Governor ,,R,Lauderdale,411-Eleven,6
-Tate Reeves,Governor ,,R,Lauderdale,411-Eleven,29
-Bill Waller Jr.,Governor ,,R,Lauderdale,411-Eleven,25
+Charles L Young Jr.,State House,82,D,Lauderdale,410-Ten,56
+Robert Foster,Governor,,R,Lauderdale,411-Eleven,6
+Tate Reeves,Governor,,R,Lauderdale,411-Eleven,29
+Bill Waller Jr.,Governor,,R,Lauderdale,411-Eleven,25
 Delbert Hosemann,Lieutenant Governor,,R,Lauderdale,411-Eleven,56
 Shane Quick,Lieutenant Governor,,R,Lauderdale,411-Eleven,4
 Sam Britton,Secretary of State,,R,Lauderdale,411-Eleven,28
@@ -1128,14 +1128,14 @@ Jeff Tate,State Senate,33,R,Lauderdale,411-Eleven,x
 Stephen A 'Steve' Home,State House,81,R,Lauderdale,411-Eleven,x
 Billy Adam Calvert,State House,83,R,Lauderdale,411-Eleven,x
 Greg Snowden,State House,83,R,Lauderdale,411-Eleven,x
-Michael Brown,Governor ,,D,Lauderdale,411-Eleven,17
-William Bond Compton Jr.,Governor ,,D,Lauderdale,411-Eleven,7
-Jim Hood,Governor ,,D,Lauderdale,411-Eleven,180
-Robert J. Ray,Governor ,,D,Lauderdale,411-Eleven,6
-Robert Shuler Smith,Governor ,,D,Lauderdale,411-Eleven,8
-Gregory Wash,Governor ,,D,Lauderdale,411-Eleven,0
-Velesha P Williams,Governor ,,D,Lauderdale,411-Eleven,29
-Albert Wilson,Governor ,,D,Lauderdale,411-Eleven,2
+Michael Brown,Governor,,D,Lauderdale,411-Eleven,17
+William Bond Compton Jr.,Governor,,D,Lauderdale,411-Eleven,7
+Jim Hood,Governor,,D,Lauderdale,411-Eleven,180
+Robert J. Ray,Governor,,D,Lauderdale,411-Eleven,6
+Robert Shuler Smith,Governor,,D,Lauderdale,411-Eleven,8
+Gregory Wash,Governor,,D,Lauderdale,411-Eleven,0
+Velesha P Williams,Governor,,D,Lauderdale,411-Eleven,29
+Albert Wilson,Governor,,D,Lauderdale,411-Eleven,2
 Jay Hughes,Lieutenant Governor,,D,Lauderdale,411-Eleven,206
 Johnny DuPree,Secretary of State,,D,Lauderdale,411-Eleven,203
 Maryra Hodges Hunt,Secretary of State,,D,Lauderdale,411-Eleven,36
@@ -1146,10 +1146,10 @@ Robert E Amos,Commissioner of Insurance,,D,Lauderdale,411-Eleven,213
 Mike Marlow,State Senate,31,D,Lauderdale,411-Eleven,x
 Sampson Jackson II,State Senate,32,D,Lauderdale,411-Eleven,221
 Michael Ted Evans,State House,45,D,Lauderdale,411-Eleven,x
-Charles L Young Jr. ,State House,82,D,Lauderdale,411-Eleven,234
-Robert Foster,Governor ,,R,Lauderdale,412-Twelve,4
-Tate Reeves,Governor ,,R,Lauderdale,412-Twelve,13
-Bill Waller Jr.,Governor ,,R,Lauderdale,412-Twelve,2
+Charles L Young Jr.,State House,82,D,Lauderdale,411-Eleven,234
+Robert Foster,Governor,,R,Lauderdale,412-Twelve,4
+Tate Reeves,Governor,,R,Lauderdale,412-Twelve,13
+Bill Waller Jr.,Governor,,R,Lauderdale,412-Twelve,2
 Delbert Hosemann,Lieutenant Governor,,R,Lauderdale,412-Twelve,16
 Shane Quick,Lieutenant Governor,,R,Lauderdale,412-Twelve,3
 Sam Britton,Secretary of State,,R,Lauderdale,412-Twelve,8
@@ -1169,14 +1169,14 @@ Jeff Tate,State Senate,33,R,Lauderdale,412-Twelve,x
 Stephen A 'Steve' Home,State House,81,R,Lauderdale,412-Twelve,x
 Billy Adam Calvert,State House,83,R,Lauderdale,412-Twelve,x
 Greg Snowden,State House,83,R,Lauderdale,412-Twelve,x
-Michael Brown,Governor ,,D,Lauderdale,412-Twelve,18
-William Bond Compton Jr.,Governor ,,D,Lauderdale,412-Twelve,6
-Jim Hood,Governor ,,D,Lauderdale,412-Twelve,179
-Robert J. Ray,Governor ,,D,Lauderdale,412-Twelve,6
-Robert Shuler Smith,Governor ,,D,Lauderdale,412-Twelve,2
-Gregory Wash,Governor ,,D,Lauderdale,412-Twelve,2
-Velesha P Williams,Governor ,,D,Lauderdale,412-Twelve,23
-Albert Wilson,Governor ,,D,Lauderdale,412-Twelve,5
+Michael Brown,Governor,,D,Lauderdale,412-Twelve,18
+William Bond Compton Jr.,Governor,,D,Lauderdale,412-Twelve,6
+Jim Hood,Governor,,D,Lauderdale,412-Twelve,179
+Robert J. Ray,Governor,,D,Lauderdale,412-Twelve,6
+Robert Shuler Smith,Governor,,D,Lauderdale,412-Twelve,2
+Gregory Wash,Governor,,D,Lauderdale,412-Twelve,2
+Velesha P Williams,Governor,,D,Lauderdale,412-Twelve,23
+Albert Wilson,Governor,,D,Lauderdale,412-Twelve,5
 Jay Hughes,Lieutenant Governor,,D,Lauderdale,412-Twelve,189
 Johnny DuPree,Secretary of State,,D,Lauderdale,412-Twelve,190
 Maryra Hodges Hunt,Secretary of State,,D,Lauderdale,412-Twelve,41
@@ -1187,10 +1187,10 @@ Robert E Amos,Commissioner of Insurance,,D,Lauderdale,412-Twelve,197
 Mike Marlow,State Senate,31,D,Lauderdale,412-Twelve,x
 Sampson Jackson II,State Senate,32,D,Lauderdale,412-Twelve,203
 Michael Ted Evans,State House,45,D,Lauderdale,412-Twelve,x
-Charles L Young Jr. ,State House,82,D,Lauderdale,412-Twelve,227
-Robert Foster,Governor ,,R,Lauderdale,450-Pickard,21
-Tate Reeves,Governor ,,R,Lauderdale,450-Pickard,166
-Bill Waller Jr.,Governor ,,R,Lauderdale,450-Pickard,55
+Charles L Young Jr.,State House,82,D,Lauderdale,412-Twelve,227
+Robert Foster,Governor,,R,Lauderdale,450-Pickard,21
+Tate Reeves,Governor,,R,Lauderdale,450-Pickard,166
+Bill Waller Jr.,Governor,,R,Lauderdale,450-Pickard,55
 Delbert Hosemann,Lieutenant Governor,,R,Lauderdale,450-Pickard,214
 Shane Quick,Lieutenant Governor,,R,Lauderdale,450-Pickard,25
 Sam Britton,Secretary of State,,R,Lauderdale,450-Pickard,95
@@ -1210,14 +1210,14 @@ Jeff Tate,State Senate,33,R,Lauderdale,450-Pickard,210
 Stephen A 'Steve' Home,State House,81,R,Lauderdale,450-Pickard,222
 Billy Adam Calvert,State House,83,R,Lauderdale,450-Pickard,x
 Greg Snowden,State House,83,R,Lauderdale,450-Pickard,x
-Michael Brown,Governor ,,D,Lauderdale,450-Pickard,3
-William Bond Compton Jr.,Governor ,,D,Lauderdale,450-Pickard,0
-Jim Hood,Governor ,,D,Lauderdale,450-Pickard,53
-Robert J. Ray,Governor ,,D,Lauderdale,450-Pickard,1
-Robert Shuler Smith,Governor ,,D,Lauderdale,450-Pickard,2
-Gregory Wash,Governor ,,D,Lauderdale,450-Pickard,0
-Velesha P Williams,Governor ,,D,Lauderdale,450-Pickard,5
-Albert Wilson,Governor ,,D,Lauderdale,450-Pickard,0
+Michael Brown,Governor,,D,Lauderdale,450-Pickard,3
+William Bond Compton Jr.,Governor,,D,Lauderdale,450-Pickard,0
+Jim Hood,Governor,,D,Lauderdale,450-Pickard,53
+Robert J. Ray,Governor,,D,Lauderdale,450-Pickard,1
+Robert Shuler Smith,Governor,,D,Lauderdale,450-Pickard,2
+Gregory Wash,Governor,,D,Lauderdale,450-Pickard,0
+Velesha P Williams,Governor,,D,Lauderdale,450-Pickard,5
+Albert Wilson,Governor,,D,Lauderdale,450-Pickard,0
 Jay Hughes,Lieutenant Governor,,D,Lauderdale,450-Pickard,54
 Johnny DuPree,Secretary of State,,D,Lauderdale,450-Pickard,50
 Maryra Hodges Hunt,Secretary of State,,D,Lauderdale,450-Pickard,11
@@ -1228,10 +1228,10 @@ Robert E Amos,Commissioner of Insurance,,D,Lauderdale,450-Pickard,55
 Mike Marlow,State Senate,31,D,Lauderdale,450-Pickard,x
 Sampson Jackson II,State Senate,32,D,Lauderdale,450-Pickard,x
 Michael Ted Evans,State House,45,D,Lauderdale,450-Pickard,x
-Charles L Young Jr. ,State House,82,D,Lauderdale,450-Pickard,x
-Robert Foster,Governor ,,R,Lauderdale,517-Seventeen,24
-Tate Reeves,Governor ,,R,Lauderdale,517-Seventeen,128
-Bill Waller Jr.,Governor ,,R,Lauderdale,517-Seventeen,47
+Charles L Young Jr.,State House,82,D,Lauderdale,450-Pickard,x
+Robert Foster,Governor,,R,Lauderdale,517-Seventeen,24
+Tate Reeves,Governor,,R,Lauderdale,517-Seventeen,128
+Bill Waller Jr.,Governor,,R,Lauderdale,517-Seventeen,47
 Delbert Hosemann,Lieutenant Governor,,R,Lauderdale,517-Seventeen,169
 Shane Quick,Lieutenant Governor,,R,Lauderdale,517-Seventeen,24
 Sam Britton,Secretary of State,,R,Lauderdale,517-Seventeen,89
@@ -1251,14 +1251,14 @@ Jeff Tate,State Senate,33,R,Lauderdale,517-Seventeen,180
 Stephen A 'Steve' Home,State House,81,R,Lauderdale,517-Seventeen,195
 Billy Adam Calvert,State House,83,R,Lauderdale,517-Seventeen,x
 Greg Snowden,State House,83,R,Lauderdale,517-Seventeen,x
-Michael Brown,Governor ,,D,Lauderdale,517-Seventeen,2
-William Bond Compton Jr.,Governor ,,D,Lauderdale,517-Seventeen,3
-Jim Hood,Governor ,,D,Lauderdale,517-Seventeen,44
-Robert J. Ray,Governor ,,D,Lauderdale,517-Seventeen,1
-Robert Shuler Smith,Governor ,,D,Lauderdale,517-Seventeen,0
-Gregory Wash,Governor ,,D,Lauderdale,517-Seventeen,0
-Velesha P Williams,Governor ,,D,Lauderdale,517-Seventeen,9
-Albert Wilson,Governor ,,D,Lauderdale,517-Seventeen,1
+Michael Brown,Governor,,D,Lauderdale,517-Seventeen,2
+William Bond Compton Jr.,Governor,,D,Lauderdale,517-Seventeen,3
+Jim Hood,Governor,,D,Lauderdale,517-Seventeen,44
+Robert J. Ray,Governor,,D,Lauderdale,517-Seventeen,1
+Robert Shuler Smith,Governor,,D,Lauderdale,517-Seventeen,0
+Gregory Wash,Governor,,D,Lauderdale,517-Seventeen,0
+Velesha P Williams,Governor,,D,Lauderdale,517-Seventeen,9
+Albert Wilson,Governor,,D,Lauderdale,517-Seventeen,1
 Jay Hughes,Lieutenant Governor,,D,Lauderdale,517-Seventeen,52
 Johnny DuPree,Secretary of State,,D,Lauderdale,517-Seventeen,34
 Maryra Hodges Hunt,Secretary of State,,D,Lauderdale,517-Seventeen,22
@@ -1269,10 +1269,10 @@ Robert E Amos,Commissioner of Insurance,,D,Lauderdale,517-Seventeen,51
 Mike Marlow,State Senate,31,D,Lauderdale,517-Seventeen,x
 Sampson Jackson II,State Senate,32,D,Lauderdale,517-Seventeen,x
 Michael Ted Evans,State House,45,D,Lauderdale,517-Seventeen,x
-Charles L Young Jr. ,State House,82,D,Lauderdale,517-Seventeen,x
-Robert Foster,Governor ,,R,Lauderdale,528-Causeyville,33
-Tate Reeves,Governor ,,R,Lauderdale,528-Causeyville,140
-Bill Waller Jr.,Governor ,,R,Lauderdale,528-Causeyville,44
+Charles L Young Jr.,State House,82,D,Lauderdale,517-Seventeen,x
+Robert Foster,Governor,,R,Lauderdale,528-Causeyville,33
+Tate Reeves,Governor,,R,Lauderdale,528-Causeyville,140
+Bill Waller Jr.,Governor,,R,Lauderdale,528-Causeyville,44
 Delbert Hosemann,Lieutenant Governor,,R,Lauderdale,528-Causeyville,189
 Shane Quick,Lieutenant Governor,,R,Lauderdale,528-Causeyville,20
 Sam Britton,Secretary of State,,R,Lauderdale,528-Causeyville,91
@@ -1292,14 +1292,14 @@ Jeff Tate,State Senate,33,R,Lauderdale,528-Causeyville,199
 Stephen A 'Steve' Home,State House,81,R,Lauderdale,528-Causeyville,201
 Billy Adam Calvert,State House,83,R,Lauderdale,528-Causeyville,x
 Greg Snowden,State House,83,R,Lauderdale,528-Causeyville,x
-Michael Brown,Governor ,,D,Lauderdale,528-Causeyville,0
-William Bond Compton Jr.,Governor ,,D,Lauderdale,528-Causeyville,0
-Jim Hood,Governor ,,D,Lauderdale,528-Causeyville,5
-Robert J. Ray,Governor ,,D,Lauderdale,528-Causeyville,0
-Robert Shuler Smith,Governor ,,D,Lauderdale,528-Causeyville,0
-Gregory Wash,Governor ,,D,Lauderdale,528-Causeyville,0
-Velesha P Williams,Governor ,,D,Lauderdale,528-Causeyville,0
-Albert Wilson,Governor ,,D,Lauderdale,528-Causeyville,0
+Michael Brown,Governor,,D,Lauderdale,528-Causeyville,0
+William Bond Compton Jr.,Governor,,D,Lauderdale,528-Causeyville,0
+Jim Hood,Governor,,D,Lauderdale,528-Causeyville,5
+Robert J. Ray,Governor,,D,Lauderdale,528-Causeyville,0
+Robert Shuler Smith,Governor,,D,Lauderdale,528-Causeyville,0
+Gregory Wash,Governor,,D,Lauderdale,528-Causeyville,0
+Velesha P Williams,Governor,,D,Lauderdale,528-Causeyville,0
+Albert Wilson,Governor,,D,Lauderdale,528-Causeyville,0
 Jay Hughes,Lieutenant Governor,,D,Lauderdale,528-Causeyville,5
 Johnny DuPree,Secretary of State,,D,Lauderdale,528-Causeyville,3
 Maryra Hodges Hunt,Secretary of State,,D,Lauderdale,528-Causeyville,2
@@ -1310,10 +1310,10 @@ Robert E Amos,Commissioner of Insurance,,D,Lauderdale,528-Causeyville,5
 Mike Marlow,State Senate,31,D,Lauderdale,528-Causeyville,x
 Sampson Jackson II,State Senate,32,D,Lauderdale,528-Causeyville,x
 Michael Ted Evans,State House,45,D,Lauderdale,528-Causeyville,x
-Charles L Young Jr. ,State House,82,D,Lauderdale,528-Causeyville,x
-Robert Foster,Governor ,,R,Lauderdale,530-Clarkdale,57
-Tate Reeves,Governor ,,R,Lauderdale,530-Clarkdale,380
-Bill Waller Jr.,Governor ,,R,Lauderdale,530-Clarkdale,196
+Charles L Young Jr.,State House,82,D,Lauderdale,528-Causeyville,x
+Robert Foster,Governor,,R,Lauderdale,530-Clarkdale,57
+Tate Reeves,Governor,,R,Lauderdale,530-Clarkdale,380
+Bill Waller Jr.,Governor,,R,Lauderdale,530-Clarkdale,196
 Delbert Hosemann,Lieutenant Governor,,R,Lauderdale,530-Clarkdale,551
 Shane Quick,Lieutenant Governor,,R,Lauderdale,530-Clarkdale,68
 Sam Britton,Secretary of State,,R,Lauderdale,530-Clarkdale,267
@@ -1333,14 +1333,14 @@ Jeff Tate,State Senate,33,R,Lauderdale,530-Clarkdale,529
 Stephen A 'Steve' Home,State House,81,R,Lauderdale,530-Clarkdale,580
 Billy Adam Calvert,State House,83,R,Lauderdale,530-Clarkdale,x
 Greg Snowden,State House,83,R,Lauderdale,530-Clarkdale,x
-Michael Brown,Governor ,,D,Lauderdale,530-Clarkdale,1
-William Bond Compton Jr.,Governor ,,D,Lauderdale,530-Clarkdale,3
-Jim Hood,Governor ,,D,Lauderdale,530-Clarkdale,5
-Robert J. Ray,Governor ,,D,Lauderdale,530-Clarkdale,0
-Robert Shuler Smith,Governor ,,D,Lauderdale,530-Clarkdale,0
-Gregory Wash,Governor ,,D,Lauderdale,530-Clarkdale,1
-Velesha P Williams,Governor ,,D,Lauderdale,530-Clarkdale,4
-Albert Wilson,Governor ,,D,Lauderdale,530-Clarkdale,0
+Michael Brown,Governor,,D,Lauderdale,530-Clarkdale,1
+William Bond Compton Jr.,Governor,,D,Lauderdale,530-Clarkdale,3
+Jim Hood,Governor,,D,Lauderdale,530-Clarkdale,5
+Robert J. Ray,Governor,,D,Lauderdale,530-Clarkdale,0
+Robert Shuler Smith,Governor,,D,Lauderdale,530-Clarkdale,0
+Gregory Wash,Governor,,D,Lauderdale,530-Clarkdale,1
+Velesha P Williams,Governor,,D,Lauderdale,530-Clarkdale,4
+Albert Wilson,Governor,,D,Lauderdale,530-Clarkdale,0
 Jay Hughes,Lieutenant Governor,,D,Lauderdale,530-Clarkdale,10
 Johnny DuPree,Secretary of State,,D,Lauderdale,530-Clarkdale,8
 Maryra Hodges Hunt,Secretary of State,,D,Lauderdale,530-Clarkdale,6
@@ -1351,10 +1351,10 @@ Robert E Amos,Commissioner of Insurance,,D,Lauderdale,530-Clarkdale,12
 Mike Marlow,State Senate,31,D,Lauderdale,530-Clarkdale,x
 Sampson Jackson II,State Senate,32,D,Lauderdale,530-Clarkdale,x
 Michael Ted Evans,State House,45,D,Lauderdale,530-Clarkdale,x
-Charles L Young Jr. ,State House,82,D,Lauderdale,530-Clarkdale,x
-Robert Foster,Governor ,,R,Lauderdale,544-Meehan,25
-Tate Reeves,Governor ,,R,Lauderdale,544-Meehan,152
-Bill Waller Jr.,Governor ,,R,Lauderdale,544-Meehan,51
+Charles L Young Jr.,State House,82,D,Lauderdale,530-Clarkdale,x
+Robert Foster,Governor,,R,Lauderdale,544-Meehan,25
+Tate Reeves,Governor,,R,Lauderdale,544-Meehan,152
+Bill Waller Jr.,Governor,,R,Lauderdale,544-Meehan,51
 Delbert Hosemann,Lieutenant Governor,,R,Lauderdale,544-Meehan,191
 Shane Quick,Lieutenant Governor,,R,Lauderdale,544-Meehan,33
 Sam Britton,Secretary of State,,R,Lauderdale,544-Meehan,92
@@ -1374,14 +1374,14 @@ Jeff Tate,State Senate,33,R,Lauderdale,544-Meehan,194
 Stephen A 'Steve' Home,State House,81,R,Lauderdale,544-Meehan,197
 Billy Adam Calvert,State House,83,R,Lauderdale,544-Meehan,x
 Greg Snowden,State House,83,R,Lauderdale,544-Meehan,x
-Michael Brown,Governor ,,D,Lauderdale,544-Meehan,1
-William Bond Compton Jr.,Governor ,,D,Lauderdale,544-Meehan,3
-Jim Hood,Governor ,,D,Lauderdale,544-Meehan,25
-Robert J. Ray,Governor ,,D,Lauderdale,544-Meehan,1
-Robert Shuler Smith,Governor ,,D,Lauderdale,544-Meehan,0
-Gregory Wash,Governor ,,D,Lauderdale,544-Meehan,0
-Velesha P Williams,Governor ,,D,Lauderdale,544-Meehan,2
-Albert Wilson,Governor ,,D,Lauderdale,544-Meehan,0
+Michael Brown,Governor,,D,Lauderdale,544-Meehan,1
+William Bond Compton Jr.,Governor,,D,Lauderdale,544-Meehan,3
+Jim Hood,Governor,,D,Lauderdale,544-Meehan,25
+Robert J. Ray,Governor,,D,Lauderdale,544-Meehan,1
+Robert Shuler Smith,Governor,,D,Lauderdale,544-Meehan,0
+Gregory Wash,Governor,,D,Lauderdale,544-Meehan,0
+Velesha P Williams,Governor,,D,Lauderdale,544-Meehan,2
+Albert Wilson,Governor,,D,Lauderdale,544-Meehan,0
 Jay Hughes,Lieutenant Governor,,D,Lauderdale,544-Meehan,27
 Johnny DuPree,Secretary of State,,D,Lauderdale,544-Meehan,24
 Maryra Hodges Hunt,Secretary of State,,D,Lauderdale,544-Meehan,8
@@ -1392,10 +1392,10 @@ Robert E Amos,Commissioner of Insurance,,D,Lauderdale,544-Meehan,25
 Mike Marlow,State Senate,31,D,Lauderdale,544-Meehan,x
 Sampson Jackson II,State Senate,32,D,Lauderdale,544-Meehan,x
 Michael Ted Evans,State House,45,D,Lauderdale,544-Meehan,x
-Charles L Young Jr. ,State House,82,D,Lauderdale,544-Meehan,x
-Robert Foster,Governor ,,R,Lauderdale,549-Odom,15
-Tate Reeves,Governor ,,R,Lauderdale,549-Odom,90
-Bill Waller Jr.,Governor ,,R,Lauderdale,549-Odom,36
+Charles L Young Jr.,State House,82,D,Lauderdale,544-Meehan,x
+Robert Foster,Governor,,R,Lauderdale,549-Odom,15
+Tate Reeves,Governor,,R,Lauderdale,549-Odom,90
+Bill Waller Jr.,Governor,,R,Lauderdale,549-Odom,36
 Delbert Hosemann,Lieutenant Governor,,R,Lauderdale,549-Odom,124
 Shane Quick,Lieutenant Governor,,R,Lauderdale,549-Odom,15
 Sam Britton,Secretary of State,,R,Lauderdale,549-Odom,67
@@ -1415,14 +1415,14 @@ Jeff Tate,State Senate,33,R,Lauderdale,549-Odom,133
 Stephen A 'Steve' Home,State House,81,R,Lauderdale,549-Odom,132
 Billy Adam Calvert,State House,83,R,Lauderdale,549-Odom,x
 Greg Snowden,State House,83,R,Lauderdale,549-Odom,x
-Michael Brown,Governor ,,D,Lauderdale,549-Odom,2
-William Bond Compton Jr.,Governor ,,D,Lauderdale,549-Odom,1
-Jim Hood,Governor ,,D,Lauderdale,549-Odom,68
-Robert J. Ray,Governor ,,D,Lauderdale,549-Odom,1
-Robert Shuler Smith,Governor ,,D,Lauderdale,549-Odom,1
-Gregory Wash,Governor ,,D,Lauderdale,549-Odom,0
-Velesha P Williams,Governor ,,D,Lauderdale,549-Odom,5
-Albert Wilson,Governor ,,D,Lauderdale,549-Odom,1
+Michael Brown,Governor,,D,Lauderdale,549-Odom,2
+William Bond Compton Jr.,Governor,,D,Lauderdale,549-Odom,1
+Jim Hood,Governor,,D,Lauderdale,549-Odom,68
+Robert J. Ray,Governor,,D,Lauderdale,549-Odom,1
+Robert Shuler Smith,Governor,,D,Lauderdale,549-Odom,1
+Gregory Wash,Governor,,D,Lauderdale,549-Odom,0
+Velesha P Williams,Governor,,D,Lauderdale,549-Odom,5
+Albert Wilson,Governor,,D,Lauderdale,549-Odom,1
 Jay Hughes,Lieutenant Governor,,D,Lauderdale,549-Odom,64
 Johnny DuPree,Secretary of State,,D,Lauderdale,549-Odom,55
 Maryra Hodges Hunt,Secretary of State,,D,Lauderdale,549-Odom,18
@@ -1433,10 +1433,10 @@ Robert E Amos,Commissioner of Insurance,,D,Lauderdale,549-Odom,65
 Mike Marlow,State Senate,31,D,Lauderdale,549-Odom,x
 Sampson Jackson II,State Senate,32,D,Lauderdale,549-Odom,x
 Michael Ted Evans,State House,45,D,Lauderdale,549-Odom,x
-Charles L Young Jr. ,State House,82,D,Lauderdale,549-Odom,x
-Robert Foster,Governor ,,R,Lauderdale,560-South Nellieburg,9
-Tate Reeves,Governor ,,R,Lauderdale,560-South Nellieburg,120
-Bill Waller Jr.,Governor ,,R,Lauderdale,560-South Nellieburg,17
+Charles L Young Jr.,State House,82,D,Lauderdale,549-Odom,x
+Robert Foster,Governor,,R,Lauderdale,560-South Nellieburg,9
+Tate Reeves,Governor,,R,Lauderdale,560-South Nellieburg,120
+Bill Waller Jr.,Governor,,R,Lauderdale,560-South Nellieburg,17
 Delbert Hosemann,Lieutenant Governor,,R,Lauderdale,560-South Nellieburg,135
 Shane Quick,Lieutenant Governor,,R,Lauderdale,560-South Nellieburg,10
 Sam Britton,Secretary of State,,R,Lauderdale,560-South Nellieburg,68
@@ -1456,14 +1456,14 @@ Jeff Tate,State Senate,33,R,Lauderdale,560-South Nellieburg,117
 Stephen A 'Steve' Home,State House,81,R,Lauderdale,560-South Nellieburg,130
 Billy Adam Calvert,State House,83,R,Lauderdale,560-South Nellieburg,x
 Greg Snowden,State House,83,R,Lauderdale,560-South Nellieburg,x
-Michael Brown,Governor ,,D,Lauderdale,560-South Nellieburg,1
-William Bond Compton Jr.,Governor ,,D,Lauderdale,560-South Nellieburg,3
-Jim Hood,Governor ,,D,Lauderdale,560-South Nellieburg,18
-Robert J. Ray,Governor ,,D,Lauderdale,560-South Nellieburg,0
-Robert Shuler Smith,Governor ,,D,Lauderdale,560-South Nellieburg,2
-Gregory Wash,Governor ,,D,Lauderdale,560-South Nellieburg,0
-Velesha P Williams,Governor ,,D,Lauderdale,560-South Nellieburg,3
-Albert Wilson,Governor ,,D,Lauderdale,560-South Nellieburg,0
+Michael Brown,Governor,,D,Lauderdale,560-South Nellieburg,1
+William Bond Compton Jr.,Governor,,D,Lauderdale,560-South Nellieburg,3
+Jim Hood,Governor,,D,Lauderdale,560-South Nellieburg,18
+Robert J. Ray,Governor,,D,Lauderdale,560-South Nellieburg,0
+Robert Shuler Smith,Governor,,D,Lauderdale,560-South Nellieburg,2
+Gregory Wash,Governor,,D,Lauderdale,560-South Nellieburg,0
+Velesha P Williams,Governor,,D,Lauderdale,560-South Nellieburg,3
+Albert Wilson,Governor,,D,Lauderdale,560-South Nellieburg,0
 Jay Hughes,Lieutenant Governor,,D,Lauderdale,560-South Nellieburg,19
 Johnny DuPree,Secretary of State,,D,Lauderdale,560-South Nellieburg,19
 Maryra Hodges Hunt,Secretary of State,,D,Lauderdale,560-South Nellieburg,5
@@ -1474,10 +1474,10 @@ Robert E Amos,Commissioner of Insurance,,D,Lauderdale,560-South Nellieburg,20
 Mike Marlow,State Senate,31,D,Lauderdale,560-South Nellieburg,x
 Sampson Jackson II,State Senate,32,D,Lauderdale,560-South Nellieburg,x
 Michael Ted Evans,State House,45,D,Lauderdale,560-South Nellieburg,x
-Charles L Young Jr. ,State House,82,D,Lauderdale,560-South Nellieburg,x
-Robert Foster,Governor ,,R,Lauderdale,564-Vimville,47
-Tate Reeves,Governor ,,R,Lauderdale,564-Vimville,339
-Bill Waller Jr.,Governor ,,R,Lauderdale,564-Vimville,128
+Charles L Young Jr.,State House,82,D,Lauderdale,560-South Nellieburg,x
+Robert Foster,Governor,,R,Lauderdale,564-Vimville,47
+Tate Reeves,Governor,,R,Lauderdale,564-Vimville,339
+Bill Waller Jr.,Governor,,R,Lauderdale,564-Vimville,128
 Delbert Hosemann,Lieutenant Governor,,R,Lauderdale,564-Vimville,437
 Shane Quick,Lieutenant Governor,,R,Lauderdale,564-Vimville,60
 Sam Britton,Secretary of State,,R,Lauderdale,564-Vimville,214
@@ -1497,14 +1497,14 @@ Jeff Tate,State Senate,33,R,Lauderdale,564-Vimville,487
 Stephen A 'Steve' Home,State House,81,R,Lauderdale,564-Vimville,476
 Billy Adam Calvert,State House,83,R,Lauderdale,564-Vimville,x
 Greg Snowden,State House,83,R,Lauderdale,564-Vimville,x
-Michael Brown,Governor ,,D,Lauderdale,564-Vimville,6
-William Bond Compton Jr.,Governor ,,D,Lauderdale,564-Vimville,5
-Jim Hood,Governor ,,D,Lauderdale,564-Vimville,86
-Robert J. Ray,Governor ,,D,Lauderdale,564-Vimville,1
-Robert Shuler Smith,Governor ,,D,Lauderdale,564-Vimville,2
-Gregory Wash,Governor ,,D,Lauderdale,564-Vimville,1
-Velesha P Williams,Governor ,,D,Lauderdale,564-Vimville,9
-Albert Wilson,Governor ,,D,Lauderdale,564-Vimville,1
+Michael Brown,Governor,,D,Lauderdale,564-Vimville,6
+William Bond Compton Jr.,Governor,,D,Lauderdale,564-Vimville,5
+Jim Hood,Governor,,D,Lauderdale,564-Vimville,86
+Robert J. Ray,Governor,,D,Lauderdale,564-Vimville,1
+Robert Shuler Smith,Governor,,D,Lauderdale,564-Vimville,2
+Gregory Wash,Governor,,D,Lauderdale,564-Vimville,1
+Velesha P Williams,Governor,,D,Lauderdale,564-Vimville,9
+Albert Wilson,Governor,,D,Lauderdale,564-Vimville,1
 Jay Hughes,Lieutenant Governor,,D,Lauderdale,564-Vimville,97
 Johnny DuPree,Secretary of State,,D,Lauderdale,564-Vimville,94
 Maryra Hodges Hunt,Secretary of State,,D,Lauderdale,564-Vimville,14
@@ -1515,10 +1515,10 @@ Robert E Amos,Commissioner of Insurance,,D,Lauderdale,564-Vimville,101
 Mike Marlow,State Senate,31,D,Lauderdale,564-Vimville,x
 Sampson Jackson II,State Senate,32,D,Lauderdale,564-Vimville,x
 Michael Ted Evans,State House,45,D,Lauderdale,564-Vimville,x
-Charles L Young Jr. ,State House,82,D,Lauderdale,564-Vimville,x
-Robert Foster,Governor ,,R,Lauderdale,565-Whynot,38
-Tate Reeves,Governor ,,R,Lauderdale,565-Whynot,150
-Bill Waller Jr.,Governor ,,R,Lauderdale,565-Whynot,93
+Charles L Young Jr.,State House,82,D,Lauderdale,564-Vimville,x
+Robert Foster,Governor,,R,Lauderdale,565-Whynot,38
+Tate Reeves,Governor,,R,Lauderdale,565-Whynot,150
+Bill Waller Jr.,Governor,,R,Lauderdale,565-Whynot,93
 Delbert Hosemann,Lieutenant Governor,,R,Lauderdale,565-Whynot,239
 Shane Quick,Lieutenant Governor,,R,Lauderdale,565-Whynot,37
 Sam Britton,Secretary of State,,R,Lauderdale,565-Whynot,130
@@ -1538,14 +1538,14 @@ Jeff Tate,State Senate,33,R,Lauderdale,565-Whynot,251
 Stephen A 'Steve' Home,State House,81,R,Lauderdale,565-Whynot,247
 Billy Adam Calvert,State House,83,R,Lauderdale,565-Whynot,x
 Greg Snowden,State House,83,R,Lauderdale,565-Whynot,x
-Michael Brown,Governor ,,D,Lauderdale,565-Whynot,4
-William Bond Compton Jr.,Governor ,,D,Lauderdale,565-Whynot,0
-Jim Hood,Governor ,,D,Lauderdale,565-Whynot,18
-Robert J. Ray,Governor ,,D,Lauderdale,565-Whynot,0
-Robert Shuler Smith,Governor ,,D,Lauderdale,565-Whynot,0
-Gregory Wash,Governor ,,D,Lauderdale,565-Whynot,0
-Velesha P Williams,Governor ,,D,Lauderdale,565-Whynot,1
-Albert Wilson,Governor ,,D,Lauderdale,565-Whynot,0
+Michael Brown,Governor,,D,Lauderdale,565-Whynot,4
+William Bond Compton Jr.,Governor,,D,Lauderdale,565-Whynot,0
+Jim Hood,Governor,,D,Lauderdale,565-Whynot,18
+Robert J. Ray,Governor,,D,Lauderdale,565-Whynot,0
+Robert Shuler Smith,Governor,,D,Lauderdale,565-Whynot,0
+Gregory Wash,Governor,,D,Lauderdale,565-Whynot,0
+Velesha P Williams,Governor,,D,Lauderdale,565-Whynot,1
+Albert Wilson,Governor,,D,Lauderdale,565-Whynot,0
 Jay Hughes,Lieutenant Governor,,D,Lauderdale,565-Whynot,20
 Johnny DuPree,Secretary of State,,D,Lauderdale,565-Whynot,16
 Maryra Hodges Hunt,Secretary of State,,D,Lauderdale,565-Whynot,6
@@ -1556,10 +1556,10 @@ Robert E Amos,Commissioner of Insurance,,D,Lauderdale,565-Whynot,20
 Mike Marlow,State Senate,31,D,Lauderdale,565-Whynot,x
 Sampson Jackson II,State Senate,32,D,Lauderdale,565-Whynot,x
 Michael Ted Evans,State House,45,D,Lauderdale,565-Whynot,x
-Charles L Young Jr. ,State House,82,D,Lauderdale,565-Whynot,x
-Robert Foster,Governor ,,R,Lauderdale,567-Zero,41
-Tate Reeves,Governor ,,R,Lauderdale,567-Zero,271
-Bill Waller Jr.,Governor ,,R,Lauderdale,567-Zero,114
+Charles L Young Jr.,State House,82,D,Lauderdale,565-Whynot,x
+Robert Foster,Governor,,R,Lauderdale,567-Zero,41
+Tate Reeves,Governor,,R,Lauderdale,567-Zero,271
+Bill Waller Jr.,Governor,,R,Lauderdale,567-Zero,114
 Delbert Hosemann,Lieutenant Governor,,R,Lauderdale,567-Zero,376
 Shane Quick,Lieutenant Governor,,R,Lauderdale,567-Zero,43
 Sam Britton,Secretary of State,,R,Lauderdale,567-Zero,172
@@ -1579,14 +1579,14 @@ Jeff Tate,State Senate,33,R,Lauderdale,567-Zero,384
 Stephen A 'Steve' Home,State House,81,R,Lauderdale,567-Zero,399
 Billy Adam Calvert,State House,83,R,Lauderdale,567-Zero,x
 Greg Snowden,State House,83,R,Lauderdale,567-Zero,x
-Michael Brown,Governor ,,D,Lauderdale,567-Zero,1
-William Bond Compton Jr.,Governor ,,D,Lauderdale,567-Zero,1
-Jim Hood,Governor ,,D,Lauderdale,567-Zero,46
-Robert J. Ray,Governor ,,D,Lauderdale,567-Zero,1
-Robert Shuler Smith,Governor ,,D,Lauderdale,567-Zero,0
-Gregory Wash,Governor ,,D,Lauderdale,567-Zero,0
-Velesha P Williams,Governor ,,D,Lauderdale,567-Zero,7
-Albert Wilson,Governor ,,D,Lauderdale,567-Zero,0
+Michael Brown,Governor,,D,Lauderdale,567-Zero,1
+William Bond Compton Jr.,Governor,,D,Lauderdale,567-Zero,1
+Jim Hood,Governor,,D,Lauderdale,567-Zero,46
+Robert J. Ray,Governor,,D,Lauderdale,567-Zero,1
+Robert Shuler Smith,Governor,,D,Lauderdale,567-Zero,0
+Gregory Wash,Governor,,D,Lauderdale,567-Zero,0
+Velesha P Williams,Governor,,D,Lauderdale,567-Zero,7
+Albert Wilson,Governor,,D,Lauderdale,567-Zero,0
 Jay Hughes,Lieutenant Governor,,D,Lauderdale,567-Zero,0
 Johnny DuPree,Secretary of State,,D,Lauderdale,567-Zero,46
 Maryra Hodges Hunt,Secretary of State,,D,Lauderdale,567-Zero,12
@@ -1597,10 +1597,10 @@ Robert E Amos,Commissioner of Insurance,,D,Lauderdale,567-Zero,47
 Mike Marlow,State Senate,31,D,Lauderdale,567-Zero,x
 Sampson Jackson II,State Senate,32,D,Lauderdale,567-Zero,x
 Michael Ted Evans,State House,45,D,Lauderdale,567-Zero,x
-Charles L Young Jr. ,State House,82,D,Lauderdale,567-Zero,x
-Robert Foster,Governor ,,R,Lauderdale,583-Mt Gilead,22
-Tate Reeves,Governor ,,R,Lauderdale,583-Mt Gilead,187
-Bill Waller Jr.,Governor ,,R,Lauderdale,583-Mt Gilead,47
+Charles L Young Jr.,State House,82,D,Lauderdale,567-Zero,x
+Robert Foster,Governor,,R,Lauderdale,583-Mt Gilead,22
+Tate Reeves,Governor,,R,Lauderdale,583-Mt Gilead,187
+Bill Waller Jr.,Governor,,R,Lauderdale,583-Mt Gilead,47
 Delbert Hosemann,Lieutenant Governor,,R,Lauderdale,583-Mt Gilead,229
 Shane Quick,Lieutenant Governor,,R,Lauderdale,583-Mt Gilead,24
 Sam Britton,Secretary of State,,R,Lauderdale,583-Mt Gilead,109
@@ -1620,14 +1620,14 @@ Jeff Tate,State Senate,33,R,Lauderdale,583-Mt Gilead,241
 Stephen A 'Steve' Home,State House,81,R,Lauderdale,583-Mt Gilead,245
 Billy Adam Calvert,State House,83,R,Lauderdale,583-Mt Gilead,x
 Greg Snowden,State House,83,R,Lauderdale,583-Mt Gilead,x
-Michael Brown,Governor ,,D,Lauderdale,583-Mt Gilead,5
-William Bond Compton Jr.,Governor ,,D,Lauderdale,583-Mt Gilead,1
-Jim Hood,Governor ,,D,Lauderdale,583-Mt Gilead,42
-Robert J. Ray,Governor ,,D,Lauderdale,583-Mt Gilead,2
-Robert Shuler Smith,Governor ,,D,Lauderdale,583-Mt Gilead,0
-Gregory Wash,Governor ,,D,Lauderdale,583-Mt Gilead,0
-Velesha P Williams,Governor ,,D,Lauderdale,583-Mt Gilead,7
-Albert Wilson,Governor ,,D,Lauderdale,583-Mt Gilead,1
+Michael Brown,Governor,,D,Lauderdale,583-Mt Gilead,5
+William Bond Compton Jr.,Governor,,D,Lauderdale,583-Mt Gilead,1
+Jim Hood,Governor,,D,Lauderdale,583-Mt Gilead,42
+Robert J. Ray,Governor,,D,Lauderdale,583-Mt Gilead,2
+Robert Shuler Smith,Governor,,D,Lauderdale,583-Mt Gilead,0
+Gregory Wash,Governor,,D,Lauderdale,583-Mt Gilead,0
+Velesha P Williams,Governor,,D,Lauderdale,583-Mt Gilead,7
+Albert Wilson,Governor,,D,Lauderdale,583-Mt Gilead,1
 Jay Hughes,Lieutenant Governor,,D,Lauderdale,583-Mt Gilead,49
 Johnny DuPree,Secretary of State,,D,Lauderdale,583-Mt Gilead,37
 Maryra Hodges Hunt,Secretary of State,,D,Lauderdale,583-Mt Gilead,20
@@ -1638,48 +1638,48 @@ Robert E Amos,Commissioner of Insurance,,D,Lauderdale,583-Mt Gilead,52
 Mike Marlow,State Senate,31,D,Lauderdale,583-Mt Gilead,x
 Sampson Jackson II,State Senate,32,D,Lauderdale,583-Mt Gilead,x
 Michael Ted Evans,State House,45,D,Lauderdale,583-Mt Gilead,x
-Charles L Young Jr. ,State House,82,D,Lauderdale,583-Mt Gilead,x
-Robert Foster,Governor ,,R,Lauderdale,TOTAL ,986
-Tate Reeves,Governor ,,R,Lauderdale,TOTAL ,6285
-Bill Waller Jr.,Governor ,,R,Lauderdale,TOTAL ,3412
-Delbert Hosemann,Lieutenant Governor,,R,Lauderdale,TOTAL ,9435
-Shane Quick,Lieutenant Governor,,R,Lauderdale,TOTAL ,1035
-Sam Britton,Secretary of State,,R,Lauderdale,TOTAL ,4406
-Michael Watson,Secretary of State,,R,Lauderdale,TOTAL ,5833
-Mark Baker,Attorney General,,R,Lauderdale,TOTAL ,2115
-Lynn Fitch,Attorney General,,R,Lauderdale,TOTAL ,6263
-Andy Taggart,Attorney General,,R,Lauderdale,TOTAL ,2044
-Shad White,State Auditor,,R,Lauderdale,TOTAL ,9369
-Eugene S. 'Buck' Clarke,State Treasurer,,R,Lauderdale,TOTAL ,2173
-David McRae,State Treasurer,,R,Lauderdale,TOTAL ,8143
-Andy Gipson,Commissioner of Agriculture & Commerce,,R,Lauderdale,TOTAL ,9696
-Mike Chaney,Commissioner of Insurance,,R,Lauderdale,TOTAL ,9719
-Hampton Gardner,State Senate,31,R,Lauderdale,TOTAL ,742
-Tyler McCaughn,State Senate,31,R,Lauderdale,TOTAL ,921
-Erie E 'Bubby' Johnston,State Senate,33,R,Lauderdale,TOTAL ,753
-Jeff Tate,State Senate,33,R,Lauderdale,TOTAL ,6267
-Stephen A 'Steve' Home,State House,81,R,Lauderdale,TOTAL ,3993
-Billy Adam Calvert,State House,83,R,Lauderdale,TOTAL ,2607
-Greg Snowden,State House,83,R,Lauderdale,TOTAL ,2356
-Michael Brown,Governor ,,D,Lauderdale,TOTAL ,359
-William Bond Compton Jr.,Governor ,,D,Lauderdale,TOTAL ,186
-Jim Hood,Governor ,,D,Lauderdale,TOTAL ,3293
-Robert J. Ray,Governor ,,D,Lauderdale,TOTAL ,68
-Robert Shuler Smith,Governor ,,D,Lauderdale,TOTAL ,93
-Gregory Wash,Governor ,,D,Lauderdale,TOTAL ,23
-Velesha P Williams,Governor ,,D,Lauderdale,TOTAL ,522
-Albert Wilson,Governor ,,D,Lauderdale,TOTAL ,46
-Jay Hughes,Lieutenant Governor,,D,Lauderdale,TOTAL ,3879
-Johnny DuPree,Secretary of State,,D,Lauderdale,TOTAL ,3512
-Maryra Hodges Hunt,Secretary of State,,D,Lauderdale,TOTAL ,948
-Jennifer Riley Collins,Attorney General,,D,Lauderdale,TOTAL ,4041
-Addie Lee Green,State Treasurer,,D,Lauderdale,TOTAL ,3931
-Rickey L Cole,Commissioner of Agriculture & Commerce,,D,Lauderdale,TOTAL ,4032
-Robert E Amos,Commissioner of Insurance,,D,Lauderdale,TOTAL ,3957
-Mike Marlow,State Senate,31,D,Lauderdale,TOTAL ,144
-Sampson Jackson II,State Senate,32,D,Lauderdale,TOTAL ,2480
-Michael Ted Evans,State House,45,D,Lauderdale,TOTAL ,514
-Charles L Young Jr. ,State House,82,D,Lauderdale,TOTAL ,1994
+Charles L Young Jr.,State House,82,D,Lauderdale,583-Mt Gilead,x
+Robert Foster,Governor,,R,Lauderdale,TOTAL,986
+Tate Reeves,Governor,,R,Lauderdale,TOTAL,6285
+Bill Waller Jr.,Governor,,R,Lauderdale,TOTAL,3412
+Delbert Hosemann,Lieutenant Governor,,R,Lauderdale,TOTAL,9435
+Shane Quick,Lieutenant Governor,,R,Lauderdale,TOTAL,1035
+Sam Britton,Secretary of State,,R,Lauderdale,TOTAL,4406
+Michael Watson,Secretary of State,,R,Lauderdale,TOTAL,5833
+Mark Baker,Attorney General,,R,Lauderdale,TOTAL,2115
+Lynn Fitch,Attorney General,,R,Lauderdale,TOTAL,6263
+Andy Taggart,Attorney General,,R,Lauderdale,TOTAL,2044
+Shad White,State Auditor,,R,Lauderdale,TOTAL,9369
+Eugene S. 'Buck' Clarke,State Treasurer,,R,Lauderdale,TOTAL,2173
+David McRae,State Treasurer,,R,Lauderdale,TOTAL,8143
+Andy Gipson,Commissioner of Agriculture & Commerce,,R,Lauderdale,TOTAL,9696
+Mike Chaney,Commissioner of Insurance,,R,Lauderdale,TOTAL,9719
+Hampton Gardner,State Senate,31,R,Lauderdale,TOTAL,742
+Tyler McCaughn,State Senate,31,R,Lauderdale,TOTAL,921
+Erie E 'Bubby' Johnston,State Senate,33,R,Lauderdale,TOTAL,753
+Jeff Tate,State Senate,33,R,Lauderdale,TOTAL,6267
+Stephen A 'Steve' Home,State House,81,R,Lauderdale,TOTAL,3993
+Billy Adam Calvert,State House,83,R,Lauderdale,TOTAL,2607
+Greg Snowden,State House,83,R,Lauderdale,TOTAL,2356
+Michael Brown,Governor,,D,Lauderdale,TOTAL,359
+William Bond Compton Jr.,Governor,,D,Lauderdale,TOTAL,186
+Jim Hood,Governor,,D,Lauderdale,TOTAL,3293
+Robert J. Ray,Governor,,D,Lauderdale,TOTAL,68
+Robert Shuler Smith,Governor,,D,Lauderdale,TOTAL,93
+Gregory Wash,Governor,,D,Lauderdale,TOTAL,23
+Velesha P Williams,Governor,,D,Lauderdale,TOTAL,522
+Albert Wilson,Governor,,D,Lauderdale,TOTAL,46
+Jay Hughes,Lieutenant Governor,,D,Lauderdale,TOTAL,3879
+Johnny DuPree,Secretary of State,,D,Lauderdale,TOTAL,3512
+Maryra Hodges Hunt,Secretary of State,,D,Lauderdale,TOTAL,948
+Jennifer Riley Collins,Attorney General,,D,Lauderdale,TOTAL,4041
+Addie Lee Green,State Treasurer,,D,Lauderdale,TOTAL,3931
+Rickey L Cole,Commissioner of Agriculture & Commerce,,D,Lauderdale,TOTAL,4032
+Robert E Amos,Commissioner of Insurance,,D,Lauderdale,TOTAL,3957
+Mike Marlow,State Senate,31,D,Lauderdale,TOTAL,144
+Sampson Jackson II,State Senate,32,D,Lauderdale,TOTAL,2480
+Michael Ted Evans,State House,45,D,Lauderdale,TOTAL,514
+Charles L Young Jr.,State House,82,D,Lauderdale,TOTAL,1994
 ,,,,,,
 ,,,,,,
 ,,,,,,

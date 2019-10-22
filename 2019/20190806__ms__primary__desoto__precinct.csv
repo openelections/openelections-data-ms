@@ -1,7 +1,7 @@
 candidate,office,district,party,county,precinct,votes
-Robert Foster,Governor ,,R,DeSoto,Alphaba-Cockrum,299
-Tate Reeves,Governor ,,R,DeSoto,Alphaba-Cockrum,103
-Bill Waller Jr.,Governor ,,R,DeSoto,Alphaba-Cockrum,23
+Robert Foster,Governor,,R,DeSoto,Alphaba-Cockrum,299
+Tate Reeves,Governor,,R,DeSoto,Alphaba-Cockrum,103
+Bill Waller Jr.,Governor,,R,DeSoto,Alphaba-Cockrum,23
 Delbert Hosemann,Lieutenant Governor,,R,DeSoto,Alphaba-Cockrum,309
 Shane Quick,Lieutenant Governor,,R,DeSoto,Alphaba-Cockrum,87
 Sam Britton,Secretary of State,,R,DeSoto,Alphaba-Cockrum,211
@@ -18,7 +18,7 @@ Murry Haslip,State Senate,1,R,DeSoto,Alphaba-Cockrum,204
 Chris Massey,State Senate,1,R,DeSoto,Alphaba-Cockrum,150
 Michael W McLendon,State Senate,1,R,DeSoto,Alphaba-Cockrum,58
 David Parker,State Senate,2,R,DeSoto,Alphaba-Cockrum,x
-Kevin Blackwell ,State Senate,19,R,DeSoto,Alphaba-Cockrum,x
+Kevin Blackwell,State Senate,19,R,DeSoto,Alphaba-Cockrum,x
 Dana Criswell,State House,6,R,DeSoto,Alphaba-Cockrum,x
 Mike Duncan,State House,6,R,DeSoto,Alphaba-Cockrum,x
 Steve Hopkins,State House,7,R,DeSoto,Alphaba-Cockrum,x
@@ -27,19 +27,19 @@ Jeft Hale,State House,24,R,DeSoto,Alphaba-Cockrum,x
 Randy Denton,State House,25,R,DeSoto,Alphaba-Cockrum,x
 Dan Eubanks,State House,25,R,DeSoto,Alphaba-Cockrum,x
 Jerry Darnell,State House,28,R,DeSoto,Alphaba-Cockrum,274
-W I 'Doc' Harris Jr. ,State House,28,R,DeSoto,Alphaba-Cockrum,139
+W I 'Doc' Harris Jr.,State House,28,R,DeSoto,Alphaba-Cockrum,139
 Ashley Henley,State House,40,R,DeSoto,Alphaba-Cockrum,X
 Francis J Miller,State House,40,R,DeSoto,Alphaba-Cockrum,X
 Charlie Roberts,State House,40,R,DeSoto,Alphaba-Cockrum,X
 Bill Kinkade,State House,52,R,DeSoto,Alphaba-Cockrum,X
-Michael Brown,Governor ,,D,DeSoto,Alphaba-Cockrum,1
-William Bond Compton Jr.,Governor ,,D,DeSoto,Alphaba-Cockrum,0
-Jim Hood,Governor ,,D,DeSoto,Alphaba-Cockrum,18
-Robert J. Ray,Governor ,,D,DeSoto,Alphaba-Cockrum,0
-Robert Shuler Smith,Governor ,,D,DeSoto,Alphaba-Cockrum,1
-Gregory Wash,Governor ,,D,DeSoto,Alphaba-Cockrum,0
-Velesha P Williams,Governor ,,D,DeSoto,Alphaba-Cockrum,0
-Albert Wilson,Governor ,,D,DeSoto,Alphaba-Cockrum,0
+Michael Brown,Governor,,D,DeSoto,Alphaba-Cockrum,1
+William Bond Compton Jr.,Governor,,D,DeSoto,Alphaba-Cockrum,0
+Jim Hood,Governor,,D,DeSoto,Alphaba-Cockrum,18
+Robert J. Ray,Governor,,D,DeSoto,Alphaba-Cockrum,0
+Robert Shuler Smith,Governor,,D,DeSoto,Alphaba-Cockrum,1
+Gregory Wash,Governor,,D,DeSoto,Alphaba-Cockrum,0
+Velesha P Williams,Governor,,D,DeSoto,Alphaba-Cockrum,0
+Albert Wilson,Governor,,D,DeSoto,Alphaba-Cockrum,0
 Jay Hughes,Lieutenant Governor,,D,DeSoto,Alphaba-Cockrum,19
 Johnny DuPree,Secretary of State,,D,DeSoto,Alphaba-Cockrum,13
 Maryra Hodges Hunt,Secretary of State,,D,DeSoto,Alphaba-Cockrum,6
@@ -53,9 +53,9 @@ Zelda Hill,State House,7,D,DeSoto,Alphaba-Cockrum,X
 Theresa Gillespie Isom,State House,7,D,DeSoto,Alphaba-Cockrum,X
 Matt Williams,State House,28,D,DeSoto,Alphaba-Cockrum,18
 Hester Jackson McCray,State House,40,D,DeSoto,Alphaba-Cockrum,X
-Robert Foster,Governor ,,R,DeSoto,Baker's Chapel,238
-Tate Reeves,Governor ,,R,DeSoto,Baker's Chapel,95
-Bill Waller Jr.,Governor ,,R,DeSoto,Baker's Chapel,29
+Robert Foster,Governor,,R,DeSoto,Baker's Chapel,238
+Tate Reeves,Governor,,R,DeSoto,Baker's Chapel,95
+Bill Waller Jr.,Governor,,R,DeSoto,Baker's Chapel,29
 Delbert Hosemann,Lieutenant Governor,,R,DeSoto,Baker's Chapel,252
 Shane Quick,Lieutenant Governor,,R,DeSoto,Baker's Chapel,80
 Sam Britton,Secretary of State,,R,DeSoto,Baker's Chapel,150
@@ -72,7 +72,7 @@ Murry Haslip,State Senate,1,R,DeSoto,Baker's Chapel,99
 Chris Massey,State Senate,1,R,DeSoto,Baker's Chapel,150
 Michael W McLendon,State Senate,1,R,DeSoto,Baker's Chapel,89
 David Parker,State Senate,2,R,DeSoto,Baker's Chapel,x
-Kevin Blackwell ,State Senate,19,R,DeSoto,Baker's Chapel,x
+Kevin Blackwell,State Senate,19,R,DeSoto,Baker's Chapel,x
 Dana Criswell,State House,6,R,DeSoto,Baker's Chapel,x
 Mike Duncan,State House,6,R,DeSoto,Baker's Chapel,x
 Steve Hopkins,State House,7,R,DeSoto,Baker's Chapel,x
@@ -81,19 +81,19 @@ Jeft Hale,State House,24,R,DeSoto,Baker's Chapel,x
 Randy Denton,State House,25,R,DeSoto,Baker's Chapel,x
 Dan Eubanks,State House,25,R,DeSoto,Baker's Chapel,x
 Jerry Darnell,State House,28,R,DeSoto,Baker's Chapel,189
-W I 'Doc' Harris Jr. ,State House,28,R,DeSoto,Baker's Chapel,157
+W I 'Doc' Harris Jr.,State House,28,R,DeSoto,Baker's Chapel,157
 Ashley Henley,State House,40,R,DeSoto,Baker's Chapel,X
 Francis J Miller,State House,40,R,DeSoto,Baker's Chapel,X
 Charlie Roberts,State House,40,R,DeSoto,Baker's Chapel,X
 Bill Kinkade,State House,52,R,DeSoto,Baker's Chapel,X
-Michael Brown,Governor ,,D,DeSoto,Baker's Chapel,5
-William Bond Compton Jr.,Governor ,,D,DeSoto,Baker's Chapel,0
-Jim Hood,Governor ,,D,DeSoto,Baker's Chapel,17
-Robert J. Ray,Governor ,,D,DeSoto,Baker's Chapel,1
-Robert Shuler Smith,Governor ,,D,DeSoto,Baker's Chapel,0
-Gregory Wash,Governor ,,D,DeSoto,Baker's Chapel,0
-Velesha P Williams,Governor ,,D,DeSoto,Baker's Chapel,6
-Albert Wilson,Governor ,,D,DeSoto,Baker's Chapel,0
+Michael Brown,Governor,,D,DeSoto,Baker's Chapel,5
+William Bond Compton Jr.,Governor,,D,DeSoto,Baker's Chapel,0
+Jim Hood,Governor,,D,DeSoto,Baker's Chapel,17
+Robert J. Ray,Governor,,D,DeSoto,Baker's Chapel,1
+Robert Shuler Smith,Governor,,D,DeSoto,Baker's Chapel,0
+Gregory Wash,Governor,,D,DeSoto,Baker's Chapel,0
+Velesha P Williams,Governor,,D,DeSoto,Baker's Chapel,6
+Albert Wilson,Governor,,D,DeSoto,Baker's Chapel,0
 Jay Hughes,Lieutenant Governor,,D,DeSoto,Baker's Chapel,24
 Johnny DuPree,Secretary of State,,D,DeSoto,Baker's Chapel,18
 Maryra Hodges Hunt,Secretary of State,,D,DeSoto,Baker's Chapel,10
@@ -107,9 +107,9 @@ Zelda Hill,State House,7,D,DeSoto,Baker's Chapel,X
 Theresa Gillespie Isom,State House,7,D,DeSoto,Baker's Chapel,X
 Matt Williams,State House,28,D,DeSoto,Baker's Chapel,26
 Hester Jackson McCray,State House,40,D,DeSoto,Baker's Chapel,X
-Robert Foster,Governor ,,R,DeSoto,Bridgetown,392
-Tate Reeves,Governor ,,R,DeSoto,Bridgetown,309
-Bill Waller Jr.,Governor ,,R,DeSoto,Bridgetown,83
+Robert Foster,Governor,,R,DeSoto,Bridgetown,392
+Tate Reeves,Governor,,R,DeSoto,Bridgetown,309
+Bill Waller Jr.,Governor,,R,DeSoto,Bridgetown,83
 Delbert Hosemann,Lieutenant Governor,,R,DeSoto,Bridgetown,591
 Shane Quick,Lieutenant Governor,,R,DeSoto,Bridgetown,135
 Sam Britton,Secretary of State,,R,DeSoto,Bridgetown,296
@@ -126,7 +126,7 @@ Murry Haslip,State Senate,1,R,DeSoto,Bridgetown,189
 Chris Massey,State Senate,1,R,DeSoto,Bridgetown,390
 Michael W McLendon,State Senate,1,R,DeSoto,Bridgetown,179
 David Parker,State Senate,2,R,DeSoto,Bridgetown,x
-Kevin Blackwell ,State Senate,19,R,DeSoto,Bridgetown,x
+Kevin Blackwell,State Senate,19,R,DeSoto,Bridgetown,x
 Dana Criswell,State House,6,R,DeSoto,Bridgetown,x
 Mike Duncan,State House,6,R,DeSoto,Bridgetown,x
 Steve Hopkins,State House,7,R,DeSoto,Bridgetown,x
@@ -135,19 +135,19 @@ Jeft Hale,State House,24,R,DeSoto,Bridgetown,672
 Randy Denton,State House,25,R,DeSoto,Bridgetown,x
 Dan Eubanks,State House,25,R,DeSoto,Bridgetown,x
 Jerry Darnell,State House,28,R,DeSoto,Bridgetown,X
-W I 'Doc' Harris Jr. ,State House,28,R,DeSoto,Bridgetown,X
+W I 'Doc' Harris Jr.,State House,28,R,DeSoto,Bridgetown,X
 Ashley Henley,State House,40,R,DeSoto,Bridgetown,X
 Francis J Miller,State House,40,R,DeSoto,Bridgetown,X
 Charlie Roberts,State House,40,R,DeSoto,Bridgetown,X
 Bill Kinkade,State House,52,R,DeSoto,Bridgetown,X
-Michael Brown,Governor ,,D,DeSoto,Bridgetown,7
-William Bond Compton Jr.,Governor ,,D,DeSoto,Bridgetown,2
-Jim Hood,Governor ,,D,DeSoto,Bridgetown,36
-Robert J. Ray,Governor ,,D,DeSoto,Bridgetown,1
-Robert Shuler Smith,Governor ,,D,DeSoto,Bridgetown,5
-Gregory Wash,Governor ,,D,DeSoto,Bridgetown,0
-Velesha P Williams,Governor ,,D,DeSoto,Bridgetown,9
-Albert Wilson,Governor ,,D,DeSoto,Bridgetown,1
+Michael Brown,Governor,,D,DeSoto,Bridgetown,7
+William Bond Compton Jr.,Governor,,D,DeSoto,Bridgetown,2
+Jim Hood,Governor,,D,DeSoto,Bridgetown,36
+Robert J. Ray,Governor,,D,DeSoto,Bridgetown,1
+Robert Shuler Smith,Governor,,D,DeSoto,Bridgetown,5
+Gregory Wash,Governor,,D,DeSoto,Bridgetown,0
+Velesha P Williams,Governor,,D,DeSoto,Bridgetown,9
+Albert Wilson,Governor,,D,DeSoto,Bridgetown,1
 Jay Hughes,Lieutenant Governor,,D,DeSoto,Bridgetown,55
 Johnny DuPree,Secretary of State,,D,DeSoto,Bridgetown,36
 Maryra Hodges Hunt,Secretary of State,,D,DeSoto,Bridgetown,23
@@ -161,9 +161,9 @@ Zelda Hill,State House,7,D,DeSoto,Bridgetown,X
 Theresa Gillespie Isom,State House,7,D,DeSoto,Bridgetown,X
 Matt Williams,State House,28,D,DeSoto,Bridgetown,X
 Hester Jackson McCray,State House,40,D,DeSoto,Bridgetown,X
-Robert Foster,Governor ,,R,DeSoto,Colonial Hills,125
-Tate Reeves,Governor ,,R,DeSoto,Colonial Hills,120
-Bill Waller Jr.,Governor ,,R,DeSoto,Colonial Hills,29
+Robert Foster,Governor,,R,DeSoto,Colonial Hills,125
+Tate Reeves,Governor,,R,DeSoto,Colonial Hills,120
+Bill Waller Jr.,Governor,,R,DeSoto,Colonial Hills,29
 Delbert Hosemann,Lieutenant Governor,,R,DeSoto,Colonial Hills,175
 Shane Quick,Lieutenant Governor,,R,DeSoto,Colonial Hills,80
 Sam Britton,Secretary of State,,R,DeSoto,Colonial Hills,113
@@ -180,7 +180,7 @@ Murry Haslip,State Senate,1,R,DeSoto,Colonial Hills,x
 Chris Massey,State Senate,1,R,DeSoto,Colonial Hills,x
 Michael W McLendon,State Senate,1,R,DeSoto,Colonial Hills,x
 David Parker,State Senate,2,R,DeSoto,Colonial Hills,233
-Kevin Blackwell ,State Senate,19,R,DeSoto,Colonial Hills,x
+Kevin Blackwell,State Senate,19,R,DeSoto,Colonial Hills,x
 Dana Criswell,State House,6,R,DeSoto,Colonial Hills,x
 Mike Duncan,State House,6,R,DeSoto,Colonial Hills,x
 Steve Hopkins,State House,7,R,DeSoto,Colonial Hills,x
@@ -189,19 +189,19 @@ Jeft Hale,State House,24,R,DeSoto,Colonial Hills,x
 Randy Denton,State House,25,R,DeSoto,Colonial Hills,x
 Dan Eubanks,State House,25,R,DeSoto,Colonial Hills,x
 Jerry Darnell,State House,28,R,DeSoto,Colonial Hills,X
-W I 'Doc' Harris Jr. ,State House,28,R,DeSoto,Colonial Hills,X
+W I 'Doc' Harris Jr.,State House,28,R,DeSoto,Colonial Hills,X
 Ashley Henley,State House,40,R,DeSoto,Colonial Hills,189
 Francis J Miller,State House,40,R,DeSoto,Colonial Hills,17
 Charlie Roberts,State House,40,R,DeSoto,Colonial Hills,54
 Bill Kinkade,State House,52,R,DeSoto,Colonial Hills,X
-Michael Brown,Governor ,,D,DeSoto,Colonial Hills,4
-William Bond Compton Jr.,Governor ,,D,DeSoto,Colonial Hills,3
-Jim Hood,Governor ,,D,DeSoto,Colonial Hills,22
-Robert J. Ray,Governor ,,D,DeSoto,Colonial Hills,1
-Robert Shuler Smith,Governor ,,D,DeSoto,Colonial Hills,2
-Gregory Wash,Governor ,,D,DeSoto,Colonial Hills,0
-Velesha P Williams,Governor ,,D,DeSoto,Colonial Hills,4
-Albert Wilson,Governor ,,D,DeSoto,Colonial Hills,0
+Michael Brown,Governor,,D,DeSoto,Colonial Hills,4
+William Bond Compton Jr.,Governor,,D,DeSoto,Colonial Hills,3
+Jim Hood,Governor,,D,DeSoto,Colonial Hills,22
+Robert J. Ray,Governor,,D,DeSoto,Colonial Hills,1
+Robert Shuler Smith,Governor,,D,DeSoto,Colonial Hills,2
+Gregory Wash,Governor,,D,DeSoto,Colonial Hills,0
+Velesha P Williams,Governor,,D,DeSoto,Colonial Hills,4
+Albert Wilson,Governor,,D,DeSoto,Colonial Hills,0
 Jay Hughes,Lieutenant Governor,,D,DeSoto,Colonial Hills,31
 Johnny DuPree,Secretary of State,,D,DeSoto,Colonial Hills,13
 Maryra Hodges Hunt,Secretary of State,,D,DeSoto,Colonial Hills,20
@@ -215,9 +215,9 @@ Zelda Hill,State House,7,D,DeSoto,Colonial Hills,X
 Theresa Gillespie Isom,State House,7,D,DeSoto,Colonial Hills,X
 Matt Williams,State House,28,D,DeSoto,Colonial Hills,X
 Hester Jackson McCray,State House,40,D,DeSoto,Colonial Hills,32
-Robert Foster,Governor ,,R,DeSoto,Cumberland,56
-Tate Reeves,Governor ,,R,DeSoto,Cumberland,157
-Bill Waller Jr.,Governor ,,R,DeSoto,Cumberland,35
+Robert Foster,Governor,,R,DeSoto,Cumberland,56
+Tate Reeves,Governor,,R,DeSoto,Cumberland,157
+Bill Waller Jr.,Governor,,R,DeSoto,Cumberland,35
 Delbert Hosemann,Lieutenant Governor,,R,DeSoto,Cumberland,156
 Shane Quick,Lieutenant Governor,,R,DeSoto,Cumberland,67
 Sam Britton,Secretary of State,,R,DeSoto,Cumberland,97
@@ -234,7 +234,7 @@ Murry Haslip,State Senate,1,R,DeSoto,Cumberland,x
 Chris Massey,State Senate,1,R,DeSoto,Cumberland,x
 Michael W McLendon,State Senate,1,R,DeSoto,Cumberland,x
 David Parker,State Senate,2,R,DeSoto,Cumberland,x
-Kevin Blackwell ,State Senate,19,R,DeSoto,Cumberland,196
+Kevin Blackwell,State Senate,19,R,DeSoto,Cumberland,196
 Dana Criswell,State House,6,R,DeSoto,Cumberland,124
 Mike Duncan,State House,6,R,DeSoto,Cumberland,111
 Steve Hopkins,State House,7,R,DeSoto,Cumberland,X
@@ -243,19 +243,19 @@ Jeft Hale,State House,24,R,DeSoto,Cumberland,X
 Randy Denton,State House,25,R,DeSoto,Cumberland,X
 Dan Eubanks,State House,25,R,DeSoto,Cumberland,X
 Jerry Darnell,State House,28,R,DeSoto,Cumberland,X
-W I 'Doc' Harris Jr. ,State House,28,R,DeSoto,Cumberland,X
+W I 'Doc' Harris Jr.,State House,28,R,DeSoto,Cumberland,X
 Ashley Henley,State House,40,R,DeSoto,Cumberland,X
 Francis J Miller,State House,40,R,DeSoto,Cumberland,X
 Charlie Roberts,State House,40,R,DeSoto,Cumberland,X
 Bill Kinkade,State House,52,R,DeSoto,Cumberland,X
-Michael Brown,Governor ,,D,DeSoto,Cumberland,37
-William Bond Compton Jr.,Governor ,,D,DeSoto,Cumberland,5
-Jim Hood,Governor ,,D,DeSoto,Cumberland,65
-Robert J. Ray,Governor ,,D,DeSoto,Cumberland,1
-Robert Shuler Smith,Governor ,,D,DeSoto,Cumberland,7
-Gregory Wash,Governor ,,D,DeSoto,Cumberland,1
-Velesha P Williams,Governor ,,D,DeSoto,Cumberland,32
-Albert Wilson,Governor ,,D,DeSoto,Cumberland,2
+Michael Brown,Governor,,D,DeSoto,Cumberland,37
+William Bond Compton Jr.,Governor,,D,DeSoto,Cumberland,5
+Jim Hood,Governor,,D,DeSoto,Cumberland,65
+Robert J. Ray,Governor,,D,DeSoto,Cumberland,1
+Robert Shuler Smith,Governor,,D,DeSoto,Cumberland,7
+Gregory Wash,Governor,,D,DeSoto,Cumberland,1
+Velesha P Williams,Governor,,D,DeSoto,Cumberland,32
+Albert Wilson,Governor,,D,DeSoto,Cumberland,2
 Jay Hughes,Lieutenant Governor,,D,DeSoto,Cumberland,140
 Johnny DuPree,Secretary of State,,D,DeSoto,Cumberland,78
 Maryra Hodges Hunt,Secretary of State,,D,DeSoto,Cumberland,71
@@ -269,63 +269,63 @@ Zelda Hill,State House,7,D,DeSoto,Cumberland,X
 Theresa Gillespie Isom,State House,7,D,DeSoto,Cumberland,X
 Matt Williams,State House,28,D,DeSoto,Cumberland,X
 Hester Jackson McCray,State House,40,D,DeSoto,Cumberland,X
-Robert Foster,Governor ,,R,DeSoto,Desoto Central ,300
-Tate Reeves,Governor ,,R,DeSoto,Desoto Central ,246
-Bill Waller Jr.,Governor ,,R,DeSoto,Desoto Central ,135
-Delbert Hosemann,Lieutenant Governor,,R,DeSoto,Desoto Central ,486
-Shane Quick,Lieutenant Governor,,R,DeSoto,Desoto Central ,140
-Sam Britton,Secretary of State,,R,DeSoto,Desoto Central ,255
-Michael Watson,Secretary of State,,R,DeSoto,Desoto Central ,363
-Mark Baker,Attorney General,,R,DeSoto,Desoto Central ,270
-Lynn Fitch,Attorney General,,R,DeSoto,Desoto Central ,197
-Andy Taggart,Attorney General,,R,DeSoto,Desoto Central ,167
-Shad White,State Auditor,,R,DeSoto,Desoto Central ,546
-Eugene S. 'Buck' Clarke,State Treasurer,,R,DeSoto,Desoto Central ,253
-David McRae,State Treasurer,,R,DeSoto,Desoto Central ,354
-Andy Gipson,Commissioner of Agriculture & Commerce,,R,DeSoto,Desoto Central ,546
-Mike Chaney,Commissioner of Insurance,,R,DeSoto,Desoto Central ,551
-Murry Haslip,State Senate,1,R,DeSoto,Desoto Central ,115
-Chris Massey,State Senate,1,R,DeSoto,Desoto Central ,439
-Michael W McLendon,State Senate,1,R,DeSoto,Desoto Central ,92
-David Parker,State Senate,2,R,DeSoto,Desoto Central ,x
-Kevin Blackwell ,State Senate,19,R,DeSoto,Desoto Central ,x
-Dana Criswell,State House,6,R,DeSoto,Desoto Central ,X
-Mike Duncan,State House,6,R,DeSoto,Desoto Central ,X
-Steve Hopkins,State House,7,R,DeSoto,Desoto Central ,X
-Kimberly Remak,State House,7,R,DeSoto,Desoto Central ,X
-Jeft Hale,State House,24,R,DeSoto,Desoto Central ,559
-Randy Denton,State House,25,R,DeSoto,Desoto Central ,X
-Dan Eubanks,State House,25,R,DeSoto,Desoto Central ,X
-Jerry Darnell,State House,28,R,DeSoto,Desoto Central ,X
-W I 'Doc' Harris Jr. ,State House,28,R,DeSoto,Desoto Central ,X
-Ashley Henley,State House,40,R,DeSoto,Desoto Central ,X
-Francis J Miller,State House,40,R,DeSoto,Desoto Central ,X
-Charlie Roberts,State House,40,R,DeSoto,Desoto Central ,X
-Bill Kinkade,State House,52,R,DeSoto,Desoto Central ,X
-Michael Brown,Governor ,,D,DeSoto,Desoto Central ,20
-William Bond Compton Jr.,Governor ,,D,DeSoto,Desoto Central ,6
-Jim Hood,Governor ,,D,DeSoto,Desoto Central ,65
-Robert J. Ray,Governor ,,D,DeSoto,Desoto Central ,6
-Robert Shuler Smith,Governor ,,D,DeSoto,Desoto Central ,1
-Gregory Wash,Governor ,,D,DeSoto,Desoto Central ,1
-Velesha P Williams,Governor ,,D,DeSoto,Desoto Central ,21
-Albert Wilson,Governor ,,D,DeSoto,Desoto Central ,0
-Jay Hughes,Lieutenant Governor,,D,DeSoto,Desoto Central ,116
-Johnny DuPree,Secretary of State,,D,DeSoto,Desoto Central ,57
-Maryra Hodges Hunt,Secretary of State,,D,DeSoto,Desoto Central ,61
-Jennifer Riley Collins,Attorney General,,D,DeSoto,Desoto Central ,110
-Addie Lee Green,State Treasurer,,D,DeSoto,Desoto Central ,114
-Rickey L Cole,Commissioner of Agriculture & Commerce,,D,DeSoto,Desoto Central ,111
-Robert E Amos,Commissioner of Insurance,,D,DeSoto,Desoto Central ,108
-Lee A Jackson,State Senate,2,D,DeSoto,Desoto Central ,X
-Dianne Black,State Senate,19,D,DeSoto,Desoto Central ,X
-Zelda Hill,State House,7,D,DeSoto,Desoto Central ,X
-Theresa Gillespie Isom,State House,7,D,DeSoto,Desoto Central ,X
-Matt Williams,State House,28,D,DeSoto,Desoto Central ,X
-Hester Jackson McCray,State House,40,D,DeSoto,Desoto Central ,X
-Robert Foster,Governor ,,R,DeSoto,Elmore,243
-Tate Reeves,Governor ,,R,DeSoto,Elmore,202
-Bill Waller Jr.,Governor ,,R,DeSoto,Elmore,90
+Robert Foster,Governor,,R,DeSoto,Desoto Central,300
+Tate Reeves,Governor,,R,DeSoto,Desoto Central,246
+Bill Waller Jr.,Governor,,R,DeSoto,Desoto Central,135
+Delbert Hosemann,Lieutenant Governor,,R,DeSoto,Desoto Central,486
+Shane Quick,Lieutenant Governor,,R,DeSoto,Desoto Central,140
+Sam Britton,Secretary of State,,R,DeSoto,Desoto Central,255
+Michael Watson,Secretary of State,,R,DeSoto,Desoto Central,363
+Mark Baker,Attorney General,,R,DeSoto,Desoto Central,270
+Lynn Fitch,Attorney General,,R,DeSoto,Desoto Central,197
+Andy Taggart,Attorney General,,R,DeSoto,Desoto Central,167
+Shad White,State Auditor,,R,DeSoto,Desoto Central,546
+Eugene S. 'Buck' Clarke,State Treasurer,,R,DeSoto,Desoto Central,253
+David McRae,State Treasurer,,R,DeSoto,Desoto Central,354
+Andy Gipson,Commissioner of Agriculture & Commerce,,R,DeSoto,Desoto Central,546
+Mike Chaney,Commissioner of Insurance,,R,DeSoto,Desoto Central,551
+Murry Haslip,State Senate,1,R,DeSoto,Desoto Central,115
+Chris Massey,State Senate,1,R,DeSoto,Desoto Central,439
+Michael W McLendon,State Senate,1,R,DeSoto,Desoto Central,92
+David Parker,State Senate,2,R,DeSoto,Desoto Central,x
+Kevin Blackwell,State Senate,19,R,DeSoto,Desoto Central,x
+Dana Criswell,State House,6,R,DeSoto,Desoto Central,X
+Mike Duncan,State House,6,R,DeSoto,Desoto Central,X
+Steve Hopkins,State House,7,R,DeSoto,Desoto Central,X
+Kimberly Remak,State House,7,R,DeSoto,Desoto Central,X
+Jeft Hale,State House,24,R,DeSoto,Desoto Central,559
+Randy Denton,State House,25,R,DeSoto,Desoto Central,X
+Dan Eubanks,State House,25,R,DeSoto,Desoto Central,X
+Jerry Darnell,State House,28,R,DeSoto,Desoto Central,X
+W I 'Doc' Harris Jr.,State House,28,R,DeSoto,Desoto Central,X
+Ashley Henley,State House,40,R,DeSoto,Desoto Central,X
+Francis J Miller,State House,40,R,DeSoto,Desoto Central,X
+Charlie Roberts,State House,40,R,DeSoto,Desoto Central,X
+Bill Kinkade,State House,52,R,DeSoto,Desoto Central,X
+Michael Brown,Governor,,D,DeSoto,Desoto Central,20
+William Bond Compton Jr.,Governor,,D,DeSoto,Desoto Central,6
+Jim Hood,Governor,,D,DeSoto,Desoto Central,65
+Robert J. Ray,Governor,,D,DeSoto,Desoto Central,6
+Robert Shuler Smith,Governor,,D,DeSoto,Desoto Central,1
+Gregory Wash,Governor,,D,DeSoto,Desoto Central,1
+Velesha P Williams,Governor,,D,DeSoto,Desoto Central,21
+Albert Wilson,Governor,,D,DeSoto,Desoto Central,0
+Jay Hughes,Lieutenant Governor,,D,DeSoto,Desoto Central,116
+Johnny DuPree,Secretary of State,,D,DeSoto,Desoto Central,57
+Maryra Hodges Hunt,Secretary of State,,D,DeSoto,Desoto Central,61
+Jennifer Riley Collins,Attorney General,,D,DeSoto,Desoto Central,110
+Addie Lee Green,State Treasurer,,D,DeSoto,Desoto Central,114
+Rickey L Cole,Commissioner of Agriculture & Commerce,,D,DeSoto,Desoto Central,111
+Robert E Amos,Commissioner of Insurance,,D,DeSoto,Desoto Central,108
+Lee A Jackson,State Senate,2,D,DeSoto,Desoto Central,X
+Dianne Black,State Senate,19,D,DeSoto,Desoto Central,X
+Zelda Hill,State House,7,D,DeSoto,Desoto Central,X
+Theresa Gillespie Isom,State House,7,D,DeSoto,Desoto Central,X
+Matt Williams,State House,28,D,DeSoto,Desoto Central,X
+Hester Jackson McCray,State House,40,D,DeSoto,Desoto Central,X
+Robert Foster,Governor,,R,DeSoto,Elmore,243
+Tate Reeves,Governor,,R,DeSoto,Elmore,202
+Bill Waller Jr.,Governor,,R,DeSoto,Elmore,90
 Delbert Hosemann,Lieutenant Governor,,R,DeSoto,Elmore,397
 Shane Quick,Lieutenant Governor,,R,DeSoto,Elmore,112
 Sam Britton,Secretary of State,,R,DeSoto,Elmore,213
@@ -342,7 +342,7 @@ Murry Haslip,State Senate,1,R,DeSoto,Elmore,40
 Chris Massey,State Senate,1,R,DeSoto,Elmore,139
 Michael W McLendon,State Senate,1,R,DeSoto,Elmore,43
 David Parker,State Senate,2,R,DeSoto,Elmore,258
-Kevin Blackwell ,State Senate,19,R,DeSoto,Elmore,x
+Kevin Blackwell,State Senate,19,R,DeSoto,Elmore,x
 Dana Criswell,State House,6,R,DeSoto,Elmore,X
 Mike Duncan,State House,6,R,DeSoto,Elmore,X
 Steve Hopkins,State House,7,R,DeSoto,Elmore,178
@@ -351,19 +351,19 @@ Jeft Hale,State House,24,R,DeSoto,Elmore,200
 Randy Denton,State House,25,R,DeSoto,Elmore,X
 Dan Eubanks,State House,25,R,DeSoto,Elmore,X
 Jerry Darnell,State House,28,R,DeSoto,Elmore,X
-W I 'Doc' Harris Jr. ,State House,28,R,DeSoto,Elmore,X
+W I 'Doc' Harris Jr.,State House,28,R,DeSoto,Elmore,X
 Ashley Henley,State House,40,R,DeSoto,Elmore,X
 Francis J Miller,State House,40,R,DeSoto,Elmore,X
 Charlie Roberts,State House,40,R,DeSoto,Elmore,X
 Bill Kinkade,State House,52,R,DeSoto,Elmore,X
-Michael Brown,Governor ,,D,DeSoto,Elmore,23
-William Bond Compton Jr.,Governor ,,D,DeSoto,Elmore,2
-Jim Hood,Governor ,,D,DeSoto,Elmore,76
-Robert J. Ray,Governor ,,D,DeSoto,Elmore,1
-Robert Shuler Smith,Governor ,,D,DeSoto,Elmore,10
-Gregory Wash,Governor ,,D,DeSoto,Elmore,0
-Velesha P Williams,Governor ,,D,DeSoto,Elmore,17
-Albert Wilson,Governor ,,D,DeSoto,Elmore,1
+Michael Brown,Governor,,D,DeSoto,Elmore,23
+William Bond Compton Jr.,Governor,,D,DeSoto,Elmore,2
+Jim Hood,Governor,,D,DeSoto,Elmore,76
+Robert J. Ray,Governor,,D,DeSoto,Elmore,1
+Robert Shuler Smith,Governor,,D,DeSoto,Elmore,10
+Gregory Wash,Governor,,D,DeSoto,Elmore,0
+Velesha P Williams,Governor,,D,DeSoto,Elmore,17
+Albert Wilson,Governor,,D,DeSoto,Elmore,1
 Jay Hughes,Lieutenant Governor,,D,DeSoto,Elmore,119
 Johnny DuPree,Secretary of State,,D,DeSoto,Elmore,69
 Maryra Hodges Hunt,Secretary of State,,D,DeSoto,Elmore,58
@@ -377,9 +377,9 @@ Zelda Hill,State House,7,D,DeSoto,Elmore,19
 Theresa Gillespie Isom,State House,7,D,DeSoto,Elmore,25
 Matt Williams,State House,28,D,DeSoto,Elmore,X
 Hester Jackson McCray,State House,40,D,DeSoto,Elmore,X
-Robert Foster,Governor ,,R,DeSoto,Eudora,317
-Tate Reeves,Governor ,,R,DeSoto,Eudora,223
-Bill Waller Jr.,Governor ,,R,DeSoto,Eudora,44
+Robert Foster,Governor,,R,DeSoto,Eudora,317
+Tate Reeves,Governor,,R,DeSoto,Eudora,223
+Bill Waller Jr.,Governor,,R,DeSoto,Eudora,44
 Delbert Hosemann,Lieutenant Governor,,R,DeSoto,Eudora,385
 Shane Quick,Lieutenant Governor,,R,DeSoto,Eudora,155
 Sam Britton,Secretary of State,,R,DeSoto,Eudora,229
@@ -396,7 +396,7 @@ Murry Haslip,State Senate,1,R,DeSoto,Eudora,109
 Chris Massey,State Senate,1,R,DeSoto,Eudora,323
 Michael W McLendon,State Senate,1,R,DeSoto,Eudora,126
 David Parker,State Senate,2,R,DeSoto,Eudora,x
-Kevin Blackwell ,State Senate,19,R,DeSoto,Eudora,x
+Kevin Blackwell,State Senate,19,R,DeSoto,Eudora,x
 Dana Criswell,State House,6,R,DeSoto,Eudora,X
 Mike Duncan,State House,6,R,DeSoto,Eudora,X
 Steve Hopkins,State House,7,R,DeSoto,Eudora,X
@@ -405,19 +405,19 @@ Jeft Hale,State House,24,R,DeSoto,Eudora,X
 Randy Denton,State House,25,R,DeSoto,Eudora,233
 Dan Eubanks,State House,25,R,DeSoto,Eudora,342
 Jerry Darnell,State House,28,R,DeSoto,Eudora,X
-W I 'Doc' Harris Jr. ,State House,28,R,DeSoto,Eudora,X
+W I 'Doc' Harris Jr.,State House,28,R,DeSoto,Eudora,X
 Ashley Henley,State House,40,R,DeSoto,Eudora,X
 Francis J Miller,State House,40,R,DeSoto,Eudora,X
 Charlie Roberts,State House,40,R,DeSoto,Eudora,X
 Bill Kinkade,State House,52,R,DeSoto,Eudora,X
-Michael Brown,Governor ,,D,DeSoto,Eudora,2
-William Bond Compton Jr.,Governor ,,D,DeSoto,Eudora,3
-Jim Hood,Governor ,,D,DeSoto,Eudora,25
-Robert J. Ray,Governor ,,D,DeSoto,Eudora,0
-Robert Shuler Smith,Governor ,,D,DeSoto,Eudora,5
-Gregory Wash,Governor ,,D,DeSoto,Eudora,0
-Velesha P Williams,Governor ,,D,DeSoto,Eudora,9
-Albert Wilson,Governor ,,D,DeSoto,Eudora,4
+Michael Brown,Governor,,D,DeSoto,Eudora,2
+William Bond Compton Jr.,Governor,,D,DeSoto,Eudora,3
+Jim Hood,Governor,,D,DeSoto,Eudora,25
+Robert J. Ray,Governor,,D,DeSoto,Eudora,0
+Robert Shuler Smith,Governor,,D,DeSoto,Eudora,5
+Gregory Wash,Governor,,D,DeSoto,Eudora,0
+Velesha P Williams,Governor,,D,DeSoto,Eudora,9
+Albert Wilson,Governor,,D,DeSoto,Eudora,4
 Jay Hughes,Lieutenant Governor,,D,DeSoto,Eudora,41
 Johnny DuPree,Secretary of State,,D,DeSoto,Eudora,20
 Maryra Hodges Hunt,Secretary of State,,D,DeSoto,Eudora,25
@@ -431,9 +431,9 @@ Zelda Hill,State House,7,D,DeSoto,Eudora,X
 Theresa Gillespie Isom,State House,7,D,DeSoto,Eudora,X
 Matt Williams,State House,28,D,DeSoto,Eudora,X
 Hester Jackson McCray,State House,40,D,DeSoto,Eudora,X
-Robert Foster,Governor ,,R,DeSoto,Fairhaven,140
-Tate Reeves,Governor ,,R,DeSoto,Fairhaven,211
-Bill Waller Jr.,Governor ,,R,DeSoto,Fairhaven,45
+Robert Foster,Governor,,R,DeSoto,Fairhaven,140
+Tate Reeves,Governor,,R,DeSoto,Fairhaven,211
+Bill Waller Jr.,Governor,,R,DeSoto,Fairhaven,45
 Delbert Hosemann,Lieutenant Governor,,R,DeSoto,Fairhaven,274
 Shane Quick,Lieutenant Governor,,R,DeSoto,Fairhaven,88
 Sam Britton,Secretary of State,,R,DeSoto,Fairhaven,188
@@ -450,7 +450,7 @@ Murry Haslip,State Senate,1,R,DeSoto,Fairhaven,x
 Chris Massey,State Senate,1,R,DeSoto,Fairhaven,x
 Michael W McLendon,State Senate,1,R,DeSoto,Fairhaven,x
 David Parker,State Senate,2,R,DeSoto,Fairhaven,x
-Kevin Blackwell ,State Senate,19,R,DeSoto,Fairhaven,326
+Kevin Blackwell,State Senate,19,R,DeSoto,Fairhaven,326
 Dana Criswell,State House,6,R,DeSoto,Fairhaven,221
 Mike Duncan,State House,6,R,DeSoto,Fairhaven,160
 Steve Hopkins,State House,7,R,DeSoto,Fairhaven,X
@@ -459,19 +459,19 @@ Jeft Hale,State House,24,R,DeSoto,Fairhaven,X
 Randy Denton,State House,25,R,DeSoto,Fairhaven,X
 Dan Eubanks,State House,25,R,DeSoto,Fairhaven,X
 Jerry Darnell,State House,28,R,DeSoto,Fairhaven,X
-W I 'Doc' Harris Jr. ,State House,28,R,DeSoto,Fairhaven,X
+W I 'Doc' Harris Jr.,State House,28,R,DeSoto,Fairhaven,X
 Ashley Henley,State House,40,R,DeSoto,Fairhaven,X
 Francis J Miller,State House,40,R,DeSoto,Fairhaven,X
 Charlie Roberts,State House,40,R,DeSoto,Fairhaven,X
 Bill Kinkade,State House,52,R,DeSoto,Fairhaven,X
-Michael Brown,Governor ,,D,DeSoto,Fairhaven,27
-William Bond Compton Jr.,Governor ,,D,DeSoto,Fairhaven,4
-Jim Hood,Governor ,,D,DeSoto,Fairhaven,71
-Robert J. Ray,Governor ,,D,DeSoto,Fairhaven,4
-Robert Shuler Smith,Governor ,,D,DeSoto,Fairhaven,10
-Gregory Wash,Governor ,,D,DeSoto,Fairhaven,0
-Velesha P Williams,Governor ,,D,DeSoto,Fairhaven,29
-Albert Wilson,Governor ,,D,DeSoto,Fairhaven,7
+Michael Brown,Governor,,D,DeSoto,Fairhaven,27
+William Bond Compton Jr.,Governor,,D,DeSoto,Fairhaven,4
+Jim Hood,Governor,,D,DeSoto,Fairhaven,71
+Robert J. Ray,Governor,,D,DeSoto,Fairhaven,4
+Robert Shuler Smith,Governor,,D,DeSoto,Fairhaven,10
+Gregory Wash,Governor,,D,DeSoto,Fairhaven,0
+Velesha P Williams,Governor,,D,DeSoto,Fairhaven,29
+Albert Wilson,Governor,,D,DeSoto,Fairhaven,7
 Jay Hughes,Lieutenant Governor,,D,DeSoto,Fairhaven,138
 Johnny DuPree,Secretary of State,,D,DeSoto,Fairhaven,84
 Maryra Hodges Hunt,Secretary of State,,D,DeSoto,Fairhaven,67
@@ -485,9 +485,9 @@ Zelda Hill,State House,7,D,DeSoto,Fairhaven,X
 Theresa Gillespie Isom,State House,7,D,DeSoto,Fairhaven,X
 Matt Williams,State House,28,D,DeSoto,Fairhaven,X
 Hester Jackson McCray,State House,40,D,DeSoto,Fairhaven,X
-Robert Foster,Governor ,,R,DeSoto,Greenbrook North,226
-Tate Reeves,Governor ,,R,DeSoto,Greenbrook North,214
-Bill Waller Jr.,Governor ,,R,DeSoto,Greenbrook North,56
+Robert Foster,Governor,,R,DeSoto,Greenbrook North,226
+Tate Reeves,Governor,,R,DeSoto,Greenbrook North,214
+Bill Waller Jr.,Governor,,R,DeSoto,Greenbrook North,56
 Delbert Hosemann,Lieutenant Governor,,R,DeSoto,Greenbrook North,341
 Shane Quick,Lieutenant Governor,,R,DeSoto,Greenbrook North,108
 Sam Britton,Secretary of State,,R,DeSoto,Greenbrook North,184
@@ -504,7 +504,7 @@ Murry Haslip,State Senate,1,R,DeSoto,Greenbrook North,x
 Chris Massey,State Senate,1,R,DeSoto,Greenbrook North,x
 Michael W McLendon,State Senate,1,R,DeSoto,Greenbrook North,x
 David Parker,State Senate,2,R,DeSoto,Greenbrook North,412
-Kevin Blackwell ,State Senate,19,R,DeSoto,Greenbrook North,x
+Kevin Blackwell,State Senate,19,R,DeSoto,Greenbrook North,x
 Dana Criswell,State House,6,R,DeSoto,Greenbrook North,X
 Mike Duncan,State House,6,R,DeSoto,Greenbrook North,X
 Steve Hopkins,State House,7,R,DeSoto,Greenbrook North,271
@@ -513,19 +513,19 @@ Jeft Hale,State House,24,R,DeSoto,Greenbrook North,X
 Randy Denton,State House,25,R,DeSoto,Greenbrook North,X
 Dan Eubanks,State House,25,R,DeSoto,Greenbrook North,X
 Jerry Darnell,State House,28,R,DeSoto,Greenbrook North,X
-W I 'Doc' Harris Jr. ,State House,28,R,DeSoto,Greenbrook North,X
+W I 'Doc' Harris Jr.,State House,28,R,DeSoto,Greenbrook North,X
 Ashley Henley,State House,40,R,DeSoto,Greenbrook North,X
 Francis J Miller,State House,40,R,DeSoto,Greenbrook North,X
 Charlie Roberts,State House,40,R,DeSoto,Greenbrook North,X
 Bill Kinkade,State House,52,R,DeSoto,Greenbrook North,X
-Michael Brown,Governor ,,D,DeSoto,Greenbrook North,42
-William Bond Compton Jr.,Governor ,,D,DeSoto,Greenbrook North,7
-Jim Hood,Governor ,,D,DeSoto,Greenbrook North,115
-Robert J. Ray,Governor ,,D,DeSoto,Greenbrook North,3
-Robert Shuler Smith,Governor ,,D,DeSoto,Greenbrook North,16
-Gregory Wash,Governor ,,D,DeSoto,Greenbrook North,4
-Velesha P Williams,Governor ,,D,DeSoto,Greenbrook North,52
-Albert Wilson,Governor ,,D,DeSoto,Greenbrook North,1
+Michael Brown,Governor,,D,DeSoto,Greenbrook North,42
+William Bond Compton Jr.,Governor,,D,DeSoto,Greenbrook North,7
+Jim Hood,Governor,,D,DeSoto,Greenbrook North,115
+Robert J. Ray,Governor,,D,DeSoto,Greenbrook North,3
+Robert Shuler Smith,Governor,,D,DeSoto,Greenbrook North,16
+Gregory Wash,Governor,,D,DeSoto,Greenbrook North,4
+Velesha P Williams,Governor,,D,DeSoto,Greenbrook North,52
+Albert Wilson,Governor,,D,DeSoto,Greenbrook North,1
 Jay Hughes,Lieutenant Governor,,D,DeSoto,Greenbrook North,209
 Johnny DuPree,Secretary of State,,D,DeSoto,Greenbrook North,124
 Maryra Hodges Hunt,Secretary of State,,D,DeSoto,Greenbrook North,110
@@ -539,9 +539,9 @@ Zelda Hill,State House,7,D,DeSoto,Greenbrook North,76
 Theresa Gillespie Isom,State House,7,D,DeSoto,Greenbrook North,170
 Matt Williams,State House,28,D,DeSoto,Greenbrook North,X
 Hester Jackson McCray,State House,40,D,DeSoto,Greenbrook North,X
-Robert Foster,Governor ,,R,DeSoto,Greenbrook South,360
-Tate Reeves,Governor ,,R,DeSoto,Greenbrook South,393
-Bill Waller Jr.,Governor ,,R,DeSoto,Greenbrook South,111
+Robert Foster,Governor,,R,DeSoto,Greenbrook South,360
+Tate Reeves,Governor,,R,DeSoto,Greenbrook South,393
+Bill Waller Jr.,Governor,,R,DeSoto,Greenbrook South,111
 Delbert Hosemann,Lieutenant Governor,,R,DeSoto,Greenbrook South,606
 Shane Quick,Lieutenant Governor,,R,DeSoto,Greenbrook South,188
 Sam Britton,Secretary of State,,R,DeSoto,Greenbrook South,342
@@ -558,7 +558,7 @@ Murry Haslip,State Senate,1,R,DeSoto,Greenbrook South,x
 Chris Massey,State Senate,1,R,DeSoto,Greenbrook South,x
 Michael W McLendon,State Senate,1,R,DeSoto,Greenbrook South,x
 David Parker,State Senate,2,R,DeSoto,Greenbrook South,729
-Kevin Blackwell ,State Senate,19,R,DeSoto,Greenbrook South,x
+Kevin Blackwell,State Senate,19,R,DeSoto,Greenbrook South,x
 Dana Criswell,State House,6,R,DeSoto,Greenbrook South,X
 Mike Duncan,State House,6,R,DeSoto,Greenbrook South,X
 Steve Hopkins,State House,7,R,DeSoto,Greenbrook South,502
@@ -567,19 +567,19 @@ Jeft Hale,State House,24,R,DeSoto,Greenbrook South,X
 Randy Denton,State House,25,R,DeSoto,Greenbrook South,X
 Dan Eubanks,State House,25,R,DeSoto,Greenbrook South,X
 Jerry Darnell,State House,28,R,DeSoto,Greenbrook South,X
-W I 'Doc' Harris Jr. ,State House,28,R,DeSoto,Greenbrook South,X
+W I 'Doc' Harris Jr.,State House,28,R,DeSoto,Greenbrook South,X
 Ashley Henley,State House,40,R,DeSoto,Greenbrook South,X
 Francis J Miller,State House,40,R,DeSoto,Greenbrook South,X
 Charlie Roberts,State House,40,R,DeSoto,Greenbrook South,X
 Bill Kinkade,State House,52,R,DeSoto,Greenbrook South,X
-Michael Brown,Governor ,,D,DeSoto,Greenbrook South,28
-William Bond Compton Jr.,Governor ,,D,DeSoto,Greenbrook South,3
-Jim Hood,Governor ,,D,DeSoto,Greenbrook South,106
-Robert J. Ray,Governor ,,D,DeSoto,Greenbrook South,6
-Robert Shuler Smith,Governor ,,D,DeSoto,Greenbrook South,11
-Gregory Wash,Governor ,,D,DeSoto,Greenbrook South,2
-Velesha P Williams,Governor ,,D,DeSoto,Greenbrook South,44
-Albert Wilson,Governor ,,D,DeSoto,Greenbrook South,2
+Michael Brown,Governor,,D,DeSoto,Greenbrook South,28
+William Bond Compton Jr.,Governor,,D,DeSoto,Greenbrook South,3
+Jim Hood,Governor,,D,DeSoto,Greenbrook South,106
+Robert J. Ray,Governor,,D,DeSoto,Greenbrook South,6
+Robert Shuler Smith,Governor,,D,DeSoto,Greenbrook South,11
+Gregory Wash,Governor,,D,DeSoto,Greenbrook South,2
+Velesha P Williams,Governor,,D,DeSoto,Greenbrook South,44
+Albert Wilson,Governor,,D,DeSoto,Greenbrook South,2
 Jay Hughes,Lieutenant Governor,,D,DeSoto,Greenbrook South,177
 Johnny DuPree,Secretary of State,,D,DeSoto,Greenbrook South,91
 Maryra Hodges Hunt,Secretary of State,,D,DeSoto,Greenbrook South,104
@@ -593,9 +593,9 @@ Zelda Hill,State House,7,D,DeSoto,Greenbrook South,62
 Theresa Gillespie Isom,State House,7,D,DeSoto,Greenbrook South,139
 Matt Williams,State House,28,D,DeSoto,Greenbrook South,X
 Hester Jackson McCray,State House,40,D,DeSoto,Greenbrook South,X
-Robert Foster,Governor ,,R,DeSoto,Hacks Cross Road,73
-Tate Reeves,Governor ,,R,DeSoto,Hacks Cross Road,180
-Bill Waller Jr.,Governor ,,R,DeSoto,Hacks Cross Road,30
+Robert Foster,Governor,,R,DeSoto,Hacks Cross Road,73
+Tate Reeves,Governor,,R,DeSoto,Hacks Cross Road,180
+Bill Waller Jr.,Governor,,R,DeSoto,Hacks Cross Road,30
 Delbert Hosemann,Lieutenant Governor,,R,DeSoto,Hacks Cross Road,167
 Shane Quick,Lieutenant Governor,,R,DeSoto,Hacks Cross Road,77
 Sam Britton,Secretary of State,,R,DeSoto,Hacks Cross Road,131
@@ -612,7 +612,7 @@ Murry Haslip,State Senate,1,R,DeSoto,Hacks Cross Road,x
 Chris Massey,State Senate,1,R,DeSoto,Hacks Cross Road,x
 Michael W McLendon,State Senate,1,R,DeSoto,Hacks Cross Road,x
 David Parker,State Senate,2,R,DeSoto,Hacks Cross Road,x
-Kevin Blackwell ,State Senate,19,R,DeSoto,Hacks Cross Road,223
+Kevin Blackwell,State Senate,19,R,DeSoto,Hacks Cross Road,223
 Dana Criswell,State House,6,R,DeSoto,Hacks Cross Road,X
 Mike Duncan,State House,6,R,DeSoto,Hacks Cross Road,X
 Steve Hopkins,State House,7,R,DeSoto,Hacks Cross Road,X
@@ -621,19 +621,19 @@ Jeft Hale,State House,24,R,DeSoto,Hacks Cross Road,X
 Randy Denton,State House,25,R,DeSoto,Hacks Cross Road,X
 Dan Eubanks,State House,25,R,DeSoto,Hacks Cross Road,X
 Jerry Darnell,State House,28,R,DeSoto,Hacks Cross Road,X
-W I 'Doc' Harris Jr. ,State House,28,R,DeSoto,Hacks Cross Road,X
+W I 'Doc' Harris Jr.,State House,28,R,DeSoto,Hacks Cross Road,X
 Ashley Henley,State House,40,R,DeSoto,Hacks Cross Road,X
 Francis J Miller,State House,40,R,DeSoto,Hacks Cross Road,X
 Charlie Roberts,State House,40,R,DeSoto,Hacks Cross Road,X
 Bill Kinkade,State House,52,R,DeSoto,Hacks Cross Road,219
-Michael Brown,Governor ,,D,DeSoto,Hacks Cross Road,36
-William Bond Compton Jr.,Governor ,,D,DeSoto,Hacks Cross Road,5
-Jim Hood,Governor ,,D,DeSoto,Hacks Cross Road,59
-Robert J. Ray,Governor ,,D,DeSoto,Hacks Cross Road,2
-Robert Shuler Smith,Governor ,,D,DeSoto,Hacks Cross Road,8
-Gregory Wash,Governor ,,D,DeSoto,Hacks Cross Road,0
-Velesha P Williams,Governor ,,D,DeSoto,Hacks Cross Road,26
-Albert Wilson,Governor ,,D,DeSoto,Hacks Cross Road,7
+Michael Brown,Governor,,D,DeSoto,Hacks Cross Road,36
+William Bond Compton Jr.,Governor,,D,DeSoto,Hacks Cross Road,5
+Jim Hood,Governor,,D,DeSoto,Hacks Cross Road,59
+Robert J. Ray,Governor,,D,DeSoto,Hacks Cross Road,2
+Robert Shuler Smith,Governor,,D,DeSoto,Hacks Cross Road,8
+Gregory Wash,Governor,,D,DeSoto,Hacks Cross Road,0
+Velesha P Williams,Governor,,D,DeSoto,Hacks Cross Road,26
+Albert Wilson,Governor,,D,DeSoto,Hacks Cross Road,7
 Jay Hughes,Lieutenant Governor,,D,DeSoto,Hacks Cross Road,117
 Johnny DuPree,Secretary of State,,D,DeSoto,Hacks Cross Road,65
 Maryra Hodges Hunt,Secretary of State,,D,DeSoto,Hacks Cross Road,69
@@ -647,441 +647,441 @@ Zelda Hill,State House,7,D,DeSoto,Hacks Cross Road,X
 Theresa Gillespie Isom,State House,7,D,DeSoto,Hacks Cross Road,X
 Matt Williams,State House,28,D,DeSoto,Hacks Cross Road,X
 Hester Jackson McCray,State House,40,D,DeSoto,Hacks Cross Road,X
-Robert Foster,Governor ,,R,DeSoto,Hernando Central ,728
-Tate Reeves,Governor ,,R,DeSoto,Hernando Central ,245
-Bill Waller Jr.,Governor ,,R,DeSoto,Hernando Central ,117
-Delbert Hosemann,Lieutenant Governor,,R,DeSoto,Hernando Central ,783
-Shane Quick,Lieutenant Governor,,R,DeSoto,Hernando Central ,223
-Sam Britton,Secretary of State,,R,DeSoto,Hernando Central ,486
-Michael Watson,Secretary of State,,R,DeSoto,Hernando Central ,491
-Mark Baker,Attorney General,,R,DeSoto,Hernando Central ,319
-Lynn Fitch,Attorney General,,R,DeSoto,Hernando Central ,453
-Andy Taggart,Attorney General,,R,DeSoto,Hernando Central ,240
-Shad White,State Auditor,,R,DeSoto,Hernando Central ,919
-Eugene S. 'Buck' Clarke,State Treasurer,,R,DeSoto,Hernando Central ,383
-David McRae,State Treasurer,,R,DeSoto,Hernando Central ,592
-Andy Gipson,Commissioner of Agriculture & Commerce,,R,DeSoto,Hernando Central ,915
-Mike Chaney,Commissioner of Insurance,,R,DeSoto,Hernando Central ,924
-Murry Haslip,State Senate,1,R,DeSoto,Hernando Central ,188
-Chris Massey,State Senate,1,R,DeSoto,Hernando Central ,331
-Michael W McLendon,State Senate,1,R,DeSoto,Hernando Central ,538
-David Parker,State Senate,2,R,DeSoto,Hernando Central ,x
-Kevin Blackwell ,State Senate,19,R,DeSoto,Hernando Central ,x
-Dana Criswell,State House,6,R,DeSoto,Hernando Central ,X
-Mike Duncan,State House,6,R,DeSoto,Hernando Central ,X
-Steve Hopkins,State House,7,R,DeSoto,Hernando Central ,X
-Kimberly Remak,State House,7,R,DeSoto,Hernando Central ,X
-Jeft Hale,State House,24,R,DeSoto,Hernando Central ,X
-Randy Denton,State House,25,R,DeSoto,Hernando Central ,X
-Dan Eubanks,State House,25,R,DeSoto,Hernando Central ,X
-Jerry Darnell,State House,28,R,DeSoto,Hernando Central ,617
-W I 'Doc' Harris Jr. ,State House,28,R,DeSoto,Hernando Central ,454
-Ashley Henley,State House,40,R,DeSoto,Hernando Central ,X
-Francis J Miller,State House,40,R,DeSoto,Hernando Central ,X
-Charlie Roberts,State House,40,R,DeSoto,Hernando Central ,X
-Bill Kinkade,State House,52,R,DeSoto,Hernando Central ,X
-Michael Brown,Governor ,,D,DeSoto,Hernando Central ,7
-William Bond Compton Jr.,Governor ,,D,DeSoto,Hernando Central ,0
-Jim Hood,Governor ,,D,DeSoto,Hernando Central ,58
-Robert J. Ray,Governor ,,D,DeSoto,Hernando Central ,1
-Robert Shuler Smith,Governor ,,D,DeSoto,Hernando Central ,2
-Gregory Wash,Governor ,,D,DeSoto,Hernando Central ,0
-Velesha P Williams,Governor ,,D,DeSoto,Hernando Central ,5
-Albert Wilson,Governor ,,D,DeSoto,Hernando Central ,1
-Jay Hughes,Lieutenant Governor,,D,DeSoto,Hernando Central ,64
-Johnny DuPree,Secretary of State,,D,DeSoto,Hernando Central ,45
-Maryra Hodges Hunt,Secretary of State,,D,DeSoto,Hernando Central ,24
-Jennifer Riley Collins,Attorney General,,D,DeSoto,Hernando Central ,67
-Addie Lee Green,State Treasurer,,D,DeSoto,Hernando Central ,62
-Rickey L Cole,Commissioner of Agriculture & Commerce,,D,DeSoto,Hernando Central ,65
-Robert E Amos,Commissioner of Insurance,,D,DeSoto,Hernando Central ,65
-Lee A Jackson,State Senate,2,D,DeSoto,Hernando Central ,X
-Dianne Black,State Senate,19,D,DeSoto,Hernando Central ,X
-Zelda Hill,State House,7,D,DeSoto,Hernando Central ,X
-Theresa Gillespie Isom,State House,7,D,DeSoto,Hernando Central ,X
-Matt Williams,State House,28,D,DeSoto,Hernando Central ,64
-Hester Jackson McCray,State House,40,D,DeSoto,Hernando Central ,X
-Robert Foster,Governor ,,R,DeSoto,Hernando East ,1266
-Tate Reeves,Governor ,,R,DeSoto,Hernando East ,453
-Bill Waller Jr.,Governor ,,R,DeSoto,Hernando East ,195
-Delbert Hosemann,Lieutenant Governor,,R,DeSoto,Hernando East ,1378
-Shane Quick,Lieutenant Governor,,R,DeSoto,Hernando East ,353
-Sam Britton,Secretary of State,,R,DeSoto,Hernando East ,813
-Michael Watson,Secretary of State,,R,DeSoto,Hernando East ,865
-Mark Baker,Attorney General,,R,DeSoto,Hernando East ,529
-Lynn Fitch,Attorney General,,R,DeSoto,Hernando East ,823
-Andy Taggart,Attorney General,,R,DeSoto,Hernando East ,393
-Shad White,State Auditor,,R,DeSoto,Hernando East ,1573
-Eugene S. 'Buck' Clarke,State Treasurer,,R,DeSoto,Hernando East ,652
-David McRae,State Treasurer,,R,DeSoto,Hernando East ,1032
-Andy Gipson,Commissioner of Agriculture & Commerce,,R,DeSoto,Hernando East ,1585
-Mike Chaney,Commissioner of Insurance,,R,DeSoto,Hernando East ,1594
-Murry Haslip,State Senate,1,R,DeSoto,Hernando East ,360
-Chris Massey,State Senate,1,R,DeSoto,Hernando East ,686
-Michael W McLendon,State Senate,1,R,DeSoto,Hernando East ,798
-David Parker,State Senate,2,R,DeSoto,Hernando East ,x
-Kevin Blackwell ,State Senate,19,R,DeSoto,Hernando East ,x
-Dana Criswell,State House,6,R,DeSoto,Hernando East ,X
-Mike Duncan,State House,6,R,DeSoto,Hernando East ,X
-Steve Hopkins,State House,7,R,DeSoto,Hernando East ,X
-Kimberly Remak,State House,7,R,DeSoto,Hernando East ,X
-Jeft Hale,State House,24,R,DeSoto,Hernando East ,X
-Randy Denton,State House,25,R,DeSoto,Hernando East ,X
-Dan Eubanks,State House,25,R,DeSoto,Hernando East ,X
-Jerry Darnell,State House,28,R,DeSoto,Hernando East ,985
-W I 'Doc' Harris Jr. ,State House,28,R,DeSoto,Hernando East ,894
-Ashley Henley,State House,40,R,DeSoto,Hernando East ,X
-Francis J Miller,State House,40,R,DeSoto,Hernando East ,X
-Charlie Roberts,State House,40,R,DeSoto,Hernando East ,X
-Bill Kinkade,State House,52,R,DeSoto,Hernando East ,X
-Michael Brown,Governor ,,D,DeSoto,Hernando East ,14
-William Bond Compton Jr.,Governor ,,D,DeSoto,Hernando East ,4
-Jim Hood,Governor ,,D,DeSoto,Hernando East ,75
-Robert J. Ray,Governor ,,D,DeSoto,Hernando East ,2
-Robert Shuler Smith,Governor ,,D,DeSoto,Hernando East ,8
-Gregory Wash,Governor ,,D,DeSoto,Hernando East ,2
-Velesha P Williams,Governor ,,D,DeSoto,Hernando East ,14
-Albert Wilson,Governor ,,D,DeSoto,Hernando East ,4
-Jay Hughes,Lieutenant Governor,,D,DeSoto,Hernando East ,110
-Johnny DuPree,Secretary of State,,D,DeSoto,Hernando East ,56
-Maryra Hodges Hunt,Secretary of State,,D,DeSoto,Hernando East ,62
-Jennifer Riley Collins,Attorney General,,D,DeSoto,Hernando East ,108
-Addie Lee Green,State Treasurer,,D,DeSoto,Hernando East ,109
-Rickey L Cole,Commissioner of Agriculture & Commerce,,D,DeSoto,Hernando East ,107
-Robert E Amos,Commissioner of Insurance,,D,DeSoto,Hernando East ,106
-Lee A Jackson,State Senate,2,D,DeSoto,Hernando East ,X
-Dianne Black,State Senate,19,D,DeSoto,Hernando East ,X
-Zelda Hill,State House,7,D,DeSoto,Hernando East ,X
-Theresa Gillespie Isom,State House,7,D,DeSoto,Hernando East ,X
-Matt Williams,State House,28,D,DeSoto,Hernando East ,107
-Hester Jackson McCray,State House,40,D,DeSoto,Hernando East ,X
-Robert Foster,Governor ,,R,DeSoto,Hernando West ,930
-Tate Reeves,Governor ,,R,DeSoto,Hernando West ,338
-Bill Waller Jr.,Governor ,,R,DeSoto,Hernando West ,161
-Delbert Hosemann,Lieutenant Governor,,R,DeSoto,Hernando West ,1027
-Shane Quick,Lieutenant Governor,,R,DeSoto,Hernando West ,267
-Sam Britton,Secretary of State,,R,DeSoto,Hernando West ,652
-Michael Watson,Secretary of State,,R,DeSoto,Hernando West ,596
-Mark Baker,Attorney General,,R,DeSoto,Hernando West ,377
-Lynn Fitch,Attorney General,,R,DeSoto,Hernando West ,656
-Andy Taggart,Attorney General,,R,DeSoto,Hernando West ,287
-Shad White,State Auditor,,R,DeSoto,Hernando West ,1180
-Eugene S. 'Buck' Clarke,State Treasurer,,R,DeSoto,Hernando West ,477
-David McRae,State Treasurer,,R,DeSoto,Hernando West ,780
-Andy Gipson,Commissioner of Agriculture & Commerce,,R,DeSoto,Hernando West ,1196
-Mike Chaney,Commissioner of Insurance,,R,DeSoto,Hernando West ,1200
-Murry Haslip,State Senate,1,R,DeSoto,Hernando West ,313
-Chris Massey,State Senate,1,R,DeSoto,Hernando West ,448
-Michael W McLendon,State Senate,1,R,DeSoto,Hernando West ,623
-David Parker,State Senate,2,R,DeSoto,Hernando West ,x
-Kevin Blackwell ,State Senate,19,R,DeSoto,Hernando West ,x
-Dana Criswell,State House,6,R,DeSoto,Hernando West ,X
-Mike Duncan,State House,6,R,DeSoto,Hernando West ,X
-Steve Hopkins,State House,7,R,DeSoto,Hernando West ,X
-Kimberly Remak,State House,7,R,DeSoto,Hernando West ,X
-Jeft Hale,State House,24,R,DeSoto,Hernando West ,X
-Randy Denton,State House,25,R,DeSoto,Hernando West ,71
-Dan Eubanks,State House,25,R,DeSoto,Hernando West ,124
-Jerry Darnell,State House,28,R,DeSoto,Hernando West ,713
-W I 'Doc' Harris Jr. ,State House,28,R,DeSoto,Hernando West ,478
-Ashley Henley,State House,40,R,DeSoto,Hernando West ,X
-Francis J Miller,State House,40,R,DeSoto,Hernando West ,X
-Charlie Roberts,State House,40,R,DeSoto,Hernando West ,X
-Bill Kinkade,State House,52,R,DeSoto,Hernando West ,X
-Michael Brown,Governor ,,D,DeSoto,Hernando West ,19
-William Bond Compton Jr.,Governor ,,D,DeSoto,Hernando West ,2
-Jim Hood,Governor ,,D,DeSoto,Hernando West ,53
-Robert J. Ray,Governor ,,D,DeSoto,Hernando West ,0
-Robert Shuler Smith,Governor ,,D,DeSoto,Hernando West ,2
-Gregory Wash,Governor ,,D,DeSoto,Hernando West ,3
-Velesha P Williams,Governor ,,D,DeSoto,Hernando West ,17
-Albert Wilson,Governor ,,D,DeSoto,Hernando West ,0
-Jay Hughes,Lieutenant Governor,,D,DeSoto,Hernando West ,86
-Johnny DuPree,Secretary of State,,D,DeSoto,Hernando West ,53
-Maryra Hodges Hunt,Secretary of State,,D,DeSoto,Hernando West ,39
-Jennifer Riley Collins,Attorney General,,D,DeSoto,Hernando West ,87
-Addie Lee Green,State Treasurer,,D,DeSoto,Hernando West ,92
-Rickey L Cole,Commissioner of Agriculture & Commerce,,D,DeSoto,Hernando West ,88
-Robert E Amos,Commissioner of Insurance,,D,DeSoto,Hernando West ,91
-Lee A Jackson,State Senate,2,D,DeSoto,Hernando West ,X
-Dianne Black,State Senate,19,D,DeSoto,Hernando West ,X
-Zelda Hill,State House,7,D,DeSoto,Hernando West ,X
-Theresa Gillespie Isom,State House,7,D,DeSoto,Hernando West ,X
-Matt Williams,State House,28,D,DeSoto,Hernando West ,80
-Hester Jackson McCray,State House,40,D,DeSoto,Hernando West ,X
-Robert Foster,Governor ,,R,DeSoto,Horn Lake Central ,115
-Tate Reeves,Governor ,,R,DeSoto,Horn Lake Central ,146
-Bill Waller Jr.,Governor ,,R,DeSoto,Horn Lake Central ,22
-Delbert Hosemann,Lieutenant Governor,,R,DeSoto,Horn Lake Central ,184
-Shane Quick,Lieutenant Governor,,R,DeSoto,Horn Lake Central ,81
-Sam Britton,Secretary of State,,R,DeSoto,Horn Lake Central ,134
-Michael Watson,Secretary of State,,R,DeSoto,Horn Lake Central ,127
-Mark Baker,Attorney General,,R,DeSoto,Horn Lake Central ,118
-Lynn Fitch,Attorney General,,R,DeSoto,Horn Lake Central ,92
-Andy Taggart,Attorney General,,R,DeSoto,Horn Lake Central ,60
-Shad White,State Auditor,,R,DeSoto,Horn Lake Central ,246
-Eugene S. 'Buck' Clarke,State Treasurer,,R,DeSoto,Horn Lake Central ,94
-David McRae,State Treasurer,,R,DeSoto,Horn Lake Central ,172
-Andy Gipson,Commissioner of Agriculture & Commerce,,R,DeSoto,Horn Lake Central ,248
-Mike Chaney,Commissioner of Insurance,,R,DeSoto,Horn Lake Central ,249
-Murry Haslip,State Senate,1,R,DeSoto,Horn Lake Central ,x
-Chris Massey,State Senate,1,R,DeSoto,Horn Lake Central ,x
-Michael W McLendon,State Senate,1,R,DeSoto,Horn Lake Central ,x
-David Parker,State Senate,2,R,DeSoto,Horn Lake Central ,250
-Kevin Blackwell ,State Senate,19,R,DeSoto,Horn Lake Central ,x
-Dana Criswell,State House,6,R,DeSoto,Horn Lake Central ,X
-Mike Duncan,State House,6,R,DeSoto,Horn Lake Central ,X
-Steve Hopkins,State House,7,R,DeSoto,Horn Lake Central ,X
-Kimberly Remak,State House,7,R,DeSoto,Horn Lake Central ,X
-Jeft Hale,State House,24,R,DeSoto,Horn Lake Central ,X
-Randy Denton,State House,25,R,DeSoto,Horn Lake Central ,115
-Dan Eubanks,State House,25,R,DeSoto,Horn Lake Central ,164
-Jerry Darnell,State House,28,R,DeSoto,Horn Lake Central ,X
-W I 'Doc' Harris Jr. ,State House,28,R,DeSoto,Horn Lake Central ,X
-Ashley Henley,State House,40,R,DeSoto,Horn Lake Central ,X
-Francis J Miller,State House,40,R,DeSoto,Horn Lake Central ,X
-Charlie Roberts,State House,40,R,DeSoto,Horn Lake Central ,X
-Bill Kinkade,State House,52,R,DeSoto,Horn Lake Central ,X
-Michael Brown,Governor ,,D,DeSoto,Horn Lake Central ,15
-William Bond Compton Jr.,Governor ,,D,DeSoto,Horn Lake Central ,2
-Jim Hood,Governor ,,D,DeSoto,Horn Lake Central ,45
-Robert J. Ray,Governor ,,D,DeSoto,Horn Lake Central ,0
-Robert Shuler Smith,Governor ,,D,DeSoto,Horn Lake Central ,5
-Gregory Wash,Governor ,,D,DeSoto,Horn Lake Central ,0
-Velesha P Williams,Governor ,,D,DeSoto,Horn Lake Central ,14
-Albert Wilson,Governor ,,D,DeSoto,Horn Lake Central ,1
-Jay Hughes,Lieutenant Governor,,D,DeSoto,Horn Lake Central ,78
-Johnny DuPree,Secretary of State,,D,DeSoto,Horn Lake Central ,50
-Maryra Hodges Hunt,Secretary of State,,D,DeSoto,Horn Lake Central ,31
-Jennifer Riley Collins,Attorney General,,D,DeSoto,Horn Lake Central ,79
-Addie Lee Green,State Treasurer,,D,DeSoto,Horn Lake Central ,77
-Rickey L Cole,Commissioner of Agriculture & Commerce,,D,DeSoto,Horn Lake Central ,76
-Robert E Amos,Commissioner of Insurance,,D,DeSoto,Horn Lake Central ,76
-Lee A Jackson,State Senate,2,D,DeSoto,Horn Lake Central ,75
-Dianne Black,State Senate,19,D,DeSoto,Horn Lake Central ,X
-Zelda Hill,State House,7,D,DeSoto,Horn Lake Central ,X
-Theresa Gillespie Isom,State House,7,D,DeSoto,Horn Lake Central ,X
-Matt Williams,State House,28,D,DeSoto,Horn Lake Central ,X
-Hester Jackson McCray,State House,40,D,DeSoto,Horn Lake Central ,X
-Robert Foster,Governor ,,R,DeSoto,Horn Lake East ,61
-Tate Reeves,Governor ,,R,DeSoto,Horn Lake East ,92
-Bill Waller Jr.,Governor ,,R,DeSoto,Horn Lake East ,19
-Delbert Hosemann,Lieutenant Governor,,R,DeSoto,Horn Lake East ,113
-Shane Quick,Lieutenant Governor,,R,DeSoto,Horn Lake East ,45
-Sam Britton,Secretary of State,,R,DeSoto,Horn Lake East ,70
-Michael Watson,Secretary of State,,R,DeSoto,Horn Lake East ,92
-Mark Baker,Attorney General,,R,DeSoto,Horn Lake East ,72
-Lynn Fitch,Attorney General,,R,DeSoto,Horn Lake East ,63
-Andy Taggart,Attorney General,,R,DeSoto,Horn Lake East ,30
-Shad White,State Auditor,,R,DeSoto,Horn Lake East ,155
-Eugene S. 'Buck' Clarke,State Treasurer,,R,DeSoto,Horn Lake East ,53
-David McRae,State Treasurer,,R,DeSoto,Horn Lake East ,106
-Andy Gipson,Commissioner of Agriculture & Commerce,,R,DeSoto,Horn Lake East ,154
-Mike Chaney,Commissioner of Insurance,,R,DeSoto,Horn Lake East ,154
-Murry Haslip,State Senate,1,R,DeSoto,Horn Lake East ,x
-Chris Massey,State Senate,1,R,DeSoto,Horn Lake East ,x
-Michael W McLendon,State Senate,1,R,DeSoto,Horn Lake East ,x
-David Parker,State Senate,2,R,DeSoto,Horn Lake East ,150
-Kevin Blackwell ,State Senate,19,R,DeSoto,Horn Lake East ,x
-Dana Criswell,State House,6,R,DeSoto,Horn Lake East ,X
-Mike Duncan,State House,6,R,DeSoto,Horn Lake East ,X
-Steve Hopkins,State House,7,R,DeSoto,Horn Lake East ,X
-Kimberly Remak,State House,7,R,DeSoto,Horn Lake East ,X
-Jeft Hale,State House,24,R,DeSoto,Horn Lake East ,X
-Randy Denton,State House,25,R,DeSoto,Horn Lake East ,X
-Dan Eubanks,State House,25,R,DeSoto,Horn Lake East ,X
-Jerry Darnell,State House,28,R,DeSoto,Horn Lake East ,X
-W I 'Doc' Harris Jr. ,State House,28,R,DeSoto,Horn Lake East ,X
-Ashley Henley,State House,40,R,DeSoto,Horn Lake East ,109
-Francis J Miller,State House,40,R,DeSoto,Horn Lake East ,17
-Charlie Roberts,State House,40,R,DeSoto,Horn Lake East ,38
-Bill Kinkade,State House,52,R,DeSoto,Horn Lake East ,X
-Michael Brown,Governor ,,D,DeSoto,Horn Lake East ,12
-William Bond Compton Jr.,Governor ,,D,DeSoto,Horn Lake East ,2
-Jim Hood,Governor ,,D,DeSoto,Horn Lake East ,42
-Robert J. Ray,Governor ,,D,DeSoto,Horn Lake East ,3
-Robert Shuler Smith,Governor ,,D,DeSoto,Horn Lake East ,3
-Gregory Wash,Governor ,,D,DeSoto,Horn Lake East ,3
-Velesha P Williams,Governor ,,D,DeSoto,Horn Lake East ,21
-Albert Wilson,Governor ,,D,DeSoto,Horn Lake East ,3
-Jay Hughes,Lieutenant Governor,,D,DeSoto,Horn Lake East ,82
-Johnny DuPree,Secretary of State,,D,DeSoto,Horn Lake East ,45
-Maryra Hodges Hunt,Secretary of State,,D,DeSoto,Horn Lake East ,43
-Jennifer Riley Collins,Attorney General,,D,DeSoto,Horn Lake East ,84
-Addie Lee Green,State Treasurer,,D,DeSoto,Horn Lake East ,82
-Rickey L Cole,Commissioner of Agriculture & Commerce,,D,DeSoto,Horn Lake East ,84
-Robert E Amos,Commissioner of Insurance,,D,DeSoto,Horn Lake East ,82
-Lee A Jackson,State Senate,2,D,DeSoto,Horn Lake East ,84
-Dianne Black,State Senate,19,D,DeSoto,Horn Lake East ,X
-Zelda Hill,State House,7,D,DeSoto,Horn Lake East ,X
-Theresa Gillespie Isom,State House,7,D,DeSoto,Horn Lake East ,X
-Matt Williams,State House,28,D,DeSoto,Horn Lake East ,X
-Hester Jackson McCray,State House,40,D,DeSoto,Horn Lake East ,85
-Robert Foster,Governor ,,R,DeSoto,Horn Lake High School ,283
-Tate Reeves,Governor ,,R,DeSoto,Horn Lake High School ,260
-Bill Waller Jr.,Governor ,,R,DeSoto,Horn Lake High School ,62
-Delbert Hosemann,Lieutenant Governor,,R,DeSoto,Horn Lake High School ,398
-Shane Quick,Lieutenant Governor,,R,DeSoto,Horn Lake High School ,166
-Sam Britton,Secretary of State,,R,DeSoto,Horn Lake High School ,263
-Michael Watson,Secretary of State,,R,DeSoto,Horn Lake High School ,285
-Mark Baker,Attorney General,,R,DeSoto,Horn Lake High School ,236
-Lynn Fitch,Attorney General,,R,DeSoto,Horn Lake High School ,209
-Andy Taggart,Attorney General,,R,DeSoto,Horn Lake High School ,125
-Shad White,State Auditor,,R,DeSoto,Horn Lake High School ,535
-Eugene S. 'Buck' Clarke,State Treasurer,,R,DeSoto,Horn Lake High School ,214
-David McRae,State Treasurer,,R,DeSoto,Horn Lake High School ,357
-Andy Gipson,Commissioner of Agriculture & Commerce,,R,DeSoto,Horn Lake High School ,537
-Mike Chaney,Commissioner of Insurance,,R,DeSoto,Horn Lake High School ,539
-Murry Haslip,State Senate,1,R,DeSoto,Horn Lake High School ,67
-Chris Massey,State Senate,1,R,DeSoto,Horn Lake High School ,238
-Michael W McLendon,State Senate,1,R,DeSoto,Horn Lake High School ,91
-David Parker,State Senate,2,R,DeSoto,Horn Lake High School ,171
-Kevin Blackwell ,State Senate,19,R,DeSoto,Horn Lake High School ,x
-Dana Criswell,State House,6,R,DeSoto,Horn Lake High School ,X
-Mike Duncan,State House,6,R,DeSoto,Horn Lake High School ,X
-Steve Hopkins,State House,7,R,DeSoto,Horn Lake High School ,X
-Kimberly Remak,State House,7,R,DeSoto,Horn Lake High School ,X
-Jeft Hale,State House,24,R,DeSoto,Horn Lake High School ,X
-Randy Denton,State House,25,R,DeSoto,Horn Lake High School ,233
-Dan Eubanks,State House,25,R,DeSoto,Horn Lake High School ,372
-Jerry Darnell,State House,28,R,DeSoto,Horn Lake High School ,X
-W I 'Doc' Harris Jr. ,State House,28,R,DeSoto,Horn Lake High School ,X
-Ashley Henley,State House,40,R,DeSoto,Horn Lake High School ,X
-Francis J Miller,State House,40,R,DeSoto,Horn Lake High School ,X
-Charlie Roberts,State House,40,R,DeSoto,Horn Lake High School ,X
-Bill Kinkade,State House,52,R,DeSoto,Horn Lake High School ,X
-Michael Brown,Governor ,,D,DeSoto,Horn Lake High School ,16
-William Bond Compton Jr.,Governor ,,D,DeSoto,Horn Lake High School ,5
-Jim Hood,Governor ,,D,DeSoto,Horn Lake High School ,67
-Robert J. Ray,Governor ,,D,DeSoto,Horn Lake High School ,2
-Robert Shuler Smith,Governor ,,D,DeSoto,Horn Lake High School ,3
-Gregory Wash,Governor ,,D,DeSoto,Horn Lake High School ,2
-Velesha P Williams,Governor ,,D,DeSoto,Horn Lake High School ,17
-Albert Wilson,Governor ,,D,DeSoto,Horn Lake High School ,4
-Jay Hughes,Lieutenant Governor,,D,DeSoto,Horn Lake High School ,113
-Johnny DuPree,Secretary of State,,D,DeSoto,Horn Lake High School ,66
-Maryra Hodges Hunt,Secretary of State,,D,DeSoto,Horn Lake High School ,47
-Jennifer Riley Collins,Attorney General,,D,DeSoto,Horn Lake High School ,114
-Addie Lee Green,State Treasurer,,D,DeSoto,Horn Lake High School ,113
-Rickey L Cole,Commissioner of Agriculture & Commerce,,D,DeSoto,Horn Lake High School ,113
-Robert E Amos,Commissioner of Insurance,,D,DeSoto,Horn Lake High School ,114
-Lee A Jackson,State Senate,2,D,DeSoto,Horn Lake High School ,24
-Dianne Black,State Senate,19,D,DeSoto,Horn Lake High School ,X
-Zelda Hill,State House,7,D,DeSoto,Horn Lake High School ,X
-Theresa Gillespie Isom,State House,7,D,DeSoto,Horn Lake High School ,X
-Matt Williams,State House,28,D,DeSoto,Horn Lake High School ,X
-Hester Jackson McCray,State House,40,D,DeSoto,Horn Lake High School ,X
-Robert Foster,Governor ,,R,DeSoto,Horn Lake Intermediate ,114
-Tate Reeves,Governor ,,R,DeSoto,Horn Lake Intermediate ,144
-Bill Waller Jr.,Governor ,,R,DeSoto,Horn Lake Intermediate ,15
-Delbert Hosemann,Lieutenant Governor,,R,DeSoto,Horn Lake Intermediate ,165
-Shane Quick,Lieutenant Governor,,R,DeSoto,Horn Lake Intermediate ,87
-Sam Britton,Secretary of State,,R,DeSoto,Horn Lake Intermediate ,126
-Michael Watson,Secretary of State,,R,DeSoto,Horn Lake Intermediate ,117
-Mark Baker,Attorney General,,R,DeSoto,Horn Lake Intermediate ,114
-Lynn Fitch,Attorney General,,R,DeSoto,Horn Lake Intermediate ,90
-Andy Taggart,Attorney General,,R,DeSoto,Horn Lake Intermediate ,55
-Shad White,State Auditor,,R,DeSoto,Horn Lake Intermediate ,229
-Eugene S. 'Buck' Clarke,State Treasurer,,R,DeSoto,Horn Lake Intermediate ,85
-David McRae,State Treasurer,,R,DeSoto,Horn Lake Intermediate ,165
-Andy Gipson,Commissioner of Agriculture & Commerce,,R,DeSoto,Horn Lake Intermediate ,229
-Mike Chaney,Commissioner of Insurance,,R,DeSoto,Horn Lake Intermediate ,231
-Murry Haslip,State Senate,1,R,DeSoto,Horn Lake Intermediate ,x
-Chris Massey,State Senate,1,R,DeSoto,Horn Lake Intermediate ,x
-Michael W McLendon,State Senate,1,R,DeSoto,Horn Lake Intermediate ,x
-David Parker,State Senate,2,R,DeSoto,Horn Lake Intermediate ,228
-Kevin Blackwell ,State Senate,19,R,DeSoto,Horn Lake Intermediate ,x
-Dana Criswell,State House,6,R,DeSoto,Horn Lake Intermediate ,X
-Mike Duncan,State House,6,R,DeSoto,Horn Lake Intermediate ,X
-Steve Hopkins,State House,7,R,DeSoto,Horn Lake Intermediate ,X
-Kimberly Remak,State House,7,R,DeSoto,Horn Lake Intermediate ,X
-Jeft Hale,State House,24,R,DeSoto,Horn Lake Intermediate ,X
-Randy Denton,State House,25,R,DeSoto,Horn Lake Intermediate ,111
-Dan Eubanks,State House,25,R,DeSoto,Horn Lake Intermediate ,155
-Jerry Darnell,State House,28,R,DeSoto,Horn Lake Intermediate ,X
-W I 'Doc' Harris Jr. ,State House,28,R,DeSoto,Horn Lake Intermediate ,X
-Ashley Henley,State House,40,R,DeSoto,Horn Lake Intermediate ,X
-Francis J Miller,State House,40,R,DeSoto,Horn Lake Intermediate ,X
-Charlie Roberts,State House,40,R,DeSoto,Horn Lake Intermediate ,X
-Bill Kinkade,State House,52,R,DeSoto,Horn Lake Intermediate ,X
-Michael Brown,Governor ,,D,DeSoto,Horn Lake Intermediate ,24
-William Bond Compton Jr.,Governor ,,D,DeSoto,Horn Lake Intermediate ,1
-Jim Hood,Governor ,,D,DeSoto,Horn Lake Intermediate ,49
-Robert J. Ray,Governor ,,D,DeSoto,Horn Lake Intermediate ,1
-Robert Shuler Smith,Governor ,,D,DeSoto,Horn Lake Intermediate ,4
-Gregory Wash,Governor ,,D,DeSoto,Horn Lake Intermediate ,0
-Velesha P Williams,Governor ,,D,DeSoto,Horn Lake Intermediate ,35
-Albert Wilson,Governor ,,D,DeSoto,Horn Lake Intermediate ,8
-Jay Hughes,Lieutenant Governor,,D,DeSoto,Horn Lake Intermediate ,108
-Johnny DuPree,Secretary of State,,D,DeSoto,Horn Lake Intermediate ,60
-Maryra Hodges Hunt,Secretary of State,,D,DeSoto,Horn Lake Intermediate ,61
-Jennifer Riley Collins,Attorney General,,D,DeSoto,Horn Lake Intermediate ,113
-Addie Lee Green,State Treasurer,,D,DeSoto,Horn Lake Intermediate ,113
-Rickey L Cole,Commissioner of Agriculture & Commerce,,D,DeSoto,Horn Lake Intermediate ,111
-Robert E Amos,Commissioner of Insurance,,D,DeSoto,Horn Lake Intermediate ,109
-Lee A Jackson,State Senate,2,D,DeSoto,Horn Lake Intermediate ,111
-Dianne Black,State Senate,19,D,DeSoto,Horn Lake Intermediate ,X
-Zelda Hill,State House,7,D,DeSoto,Horn Lake Intermediate ,X
-Theresa Gillespie Isom,State House,7,D,DeSoto,Horn Lake Intermediate ,X
-Matt Williams,State House,28,D,DeSoto,Horn Lake Intermediate ,X
-Hester Jackson McCray,State House,40,D,DeSoto,Horn Lake Intermediate ,X
-Robert Foster,Governor ,,R,DeSoto,Horn Lake North ,78
-Tate Reeves,Governor ,,R,DeSoto,Horn Lake North ,129
-Bill Waller Jr.,Governor ,,R,DeSoto,Horn Lake North ,17
-Delbert Hosemann,Lieutenant Governor,,R,DeSoto,Horn Lake North ,147
-Shane Quick,Lieutenant Governor,,R,DeSoto,Horn Lake North ,62
-Sam Britton,Secretary of State,,R,DeSoto,Horn Lake North ,88
-Michael Watson,Secretary of State,,R,DeSoto,Horn Lake North ,121
-Mark Baker,Attorney General,,R,DeSoto,Horn Lake North ,116
-Lynn Fitch,Attorney General,,R,DeSoto,Horn Lake North ,55
-Andy Taggart,Attorney General,,R,DeSoto,Horn Lake North ,48
-Shad White,State Auditor,,R,DeSoto,Horn Lake North ,192
-Eugene S. 'Buck' Clarke,State Treasurer,,R,DeSoto,Horn Lake North ,69
-David McRae,State Treasurer,,R,DeSoto,Horn Lake North ,140
-Andy Gipson,Commissioner of Agriculture & Commerce,,R,DeSoto,Horn Lake North ,190
-Mike Chaney,Commissioner of Insurance,,R,DeSoto,Horn Lake North ,190
-Murry Haslip,State Senate,1,R,DeSoto,Horn Lake North ,x
-Chris Massey,State Senate,1,R,DeSoto,Horn Lake North ,x
-Michael W McLendon,State Senate,1,R,DeSoto,Horn Lake North ,x
-David Parker,State Senate,2,R,DeSoto,Horn Lake North ,190
-Kevin Blackwell ,State Senate,19,R,DeSoto,Horn Lake North ,x
-Dana Criswell,State House,6,R,DeSoto,Horn Lake North ,X
-Mike Duncan,State House,6,R,DeSoto,Horn Lake North ,X
-Steve Hopkins,State House,7,R,DeSoto,Horn Lake North ,X
-Kimberly Remak,State House,7,R,DeSoto,Horn Lake North ,X
-Jeft Hale,State House,24,R,DeSoto,Horn Lake North ,X
-Randy Denton,State House,25,R,DeSoto,Horn Lake North ,X
-Dan Eubanks,State House,25,R,DeSoto,Horn Lake North ,X
-Jerry Darnell,State House,28,R,DeSoto,Horn Lake North ,X
-W I 'Doc' Harris Jr. ,State House,28,R,DeSoto,Horn Lake North ,X
-Ashley Henley,State House,40,R,DeSoto,Horn Lake North ,148
-Francis J Miller,State House,40,R,DeSoto,Horn Lake North ,14
-Charlie Roberts,State House,40,R,DeSoto,Horn Lake North ,54
-Bill Kinkade,State House,52,R,DeSoto,Horn Lake North ,X
-Michael Brown,Governor ,,D,DeSoto,Horn Lake North ,23
-William Bond Compton Jr.,Governor ,,D,DeSoto,Horn Lake North ,1
-Jim Hood,Governor ,,D,DeSoto,Horn Lake North ,50
-Robert J. Ray,Governor ,,D,DeSoto,Horn Lake North ,3
-Robert Shuler Smith,Governor ,,D,DeSoto,Horn Lake North ,0
-Gregory Wash,Governor ,,D,DeSoto,Horn Lake North ,1
-Velesha P Williams,Governor ,,D,DeSoto,Horn Lake North ,25
-Albert Wilson,Governor ,,D,DeSoto,Horn Lake North ,3
-Jay Hughes,Lieutenant Governor,,D,DeSoto,Horn Lake North ,94
-Johnny DuPree,Secretary of State,,D,DeSoto,Horn Lake North ,50
-Maryra Hodges Hunt,Secretary of State,,D,DeSoto,Horn Lake North ,51
-Jennifer Riley Collins,Attorney General,,D,DeSoto,Horn Lake North ,94
-Addie Lee Green,State Treasurer,,D,DeSoto,Horn Lake North ,94
-Rickey L Cole,Commissioner of Agriculture & Commerce,,D,DeSoto,Horn Lake North ,90
-Robert E Amos,Commissioner of Insurance,,D,DeSoto,Horn Lake North ,91
-Lee A Jackson,State Senate,2,D,DeSoto,Horn Lake North ,92
-Dianne Black,State Senate,19,D,DeSoto,Horn Lake North ,X
-Zelda Hill,State House,7,D,DeSoto,Horn Lake North ,X
-Theresa Gillespie Isom,State House,7,D,DeSoto,Horn Lake North ,X
-Matt Williams,State House,28,D,DeSoto,Horn Lake North ,X
-Hester Jackson McCray,State House,40,D,DeSoto,Horn Lake North ,93
-Robert Foster,Governor ,,R,DeSoto,Horn Lake West,68
-Tate Reeves,Governor ,,R,DeSoto,Horn Lake West,100
-Bill Waller Jr.,Governor ,,R,DeSoto,Horn Lake West,17
+Robert Foster,Governor,,R,DeSoto,Hernando Central,728
+Tate Reeves,Governor,,R,DeSoto,Hernando Central,245
+Bill Waller Jr.,Governor,,R,DeSoto,Hernando Central,117
+Delbert Hosemann,Lieutenant Governor,,R,DeSoto,Hernando Central,783
+Shane Quick,Lieutenant Governor,,R,DeSoto,Hernando Central,223
+Sam Britton,Secretary of State,,R,DeSoto,Hernando Central,486
+Michael Watson,Secretary of State,,R,DeSoto,Hernando Central,491
+Mark Baker,Attorney General,,R,DeSoto,Hernando Central,319
+Lynn Fitch,Attorney General,,R,DeSoto,Hernando Central,453
+Andy Taggart,Attorney General,,R,DeSoto,Hernando Central,240
+Shad White,State Auditor,,R,DeSoto,Hernando Central,919
+Eugene S. 'Buck' Clarke,State Treasurer,,R,DeSoto,Hernando Central,383
+David McRae,State Treasurer,,R,DeSoto,Hernando Central,592
+Andy Gipson,Commissioner of Agriculture & Commerce,,R,DeSoto,Hernando Central,915
+Mike Chaney,Commissioner of Insurance,,R,DeSoto,Hernando Central,924
+Murry Haslip,State Senate,1,R,DeSoto,Hernando Central,188
+Chris Massey,State Senate,1,R,DeSoto,Hernando Central,331
+Michael W McLendon,State Senate,1,R,DeSoto,Hernando Central,538
+David Parker,State Senate,2,R,DeSoto,Hernando Central,x
+Kevin Blackwell,State Senate,19,R,DeSoto,Hernando Central,x
+Dana Criswell,State House,6,R,DeSoto,Hernando Central,X
+Mike Duncan,State House,6,R,DeSoto,Hernando Central,X
+Steve Hopkins,State House,7,R,DeSoto,Hernando Central,X
+Kimberly Remak,State House,7,R,DeSoto,Hernando Central,X
+Jeft Hale,State House,24,R,DeSoto,Hernando Central,X
+Randy Denton,State House,25,R,DeSoto,Hernando Central,X
+Dan Eubanks,State House,25,R,DeSoto,Hernando Central,X
+Jerry Darnell,State House,28,R,DeSoto,Hernando Central,617
+W I 'Doc' Harris Jr.,State House,28,R,DeSoto,Hernando Central,454
+Ashley Henley,State House,40,R,DeSoto,Hernando Central,X
+Francis J Miller,State House,40,R,DeSoto,Hernando Central,X
+Charlie Roberts,State House,40,R,DeSoto,Hernando Central,X
+Bill Kinkade,State House,52,R,DeSoto,Hernando Central,X
+Michael Brown,Governor,,D,DeSoto,Hernando Central,7
+William Bond Compton Jr.,Governor,,D,DeSoto,Hernando Central,0
+Jim Hood,Governor,,D,DeSoto,Hernando Central,58
+Robert J. Ray,Governor,,D,DeSoto,Hernando Central,1
+Robert Shuler Smith,Governor,,D,DeSoto,Hernando Central,2
+Gregory Wash,Governor,,D,DeSoto,Hernando Central,0
+Velesha P Williams,Governor,,D,DeSoto,Hernando Central,5
+Albert Wilson,Governor,,D,DeSoto,Hernando Central,1
+Jay Hughes,Lieutenant Governor,,D,DeSoto,Hernando Central,64
+Johnny DuPree,Secretary of State,,D,DeSoto,Hernando Central,45
+Maryra Hodges Hunt,Secretary of State,,D,DeSoto,Hernando Central,24
+Jennifer Riley Collins,Attorney General,,D,DeSoto,Hernando Central,67
+Addie Lee Green,State Treasurer,,D,DeSoto,Hernando Central,62
+Rickey L Cole,Commissioner of Agriculture & Commerce,,D,DeSoto,Hernando Central,65
+Robert E Amos,Commissioner of Insurance,,D,DeSoto,Hernando Central,65
+Lee A Jackson,State Senate,2,D,DeSoto,Hernando Central,X
+Dianne Black,State Senate,19,D,DeSoto,Hernando Central,X
+Zelda Hill,State House,7,D,DeSoto,Hernando Central,X
+Theresa Gillespie Isom,State House,7,D,DeSoto,Hernando Central,X
+Matt Williams,State House,28,D,DeSoto,Hernando Central,64
+Hester Jackson McCray,State House,40,D,DeSoto,Hernando Central,X
+Robert Foster,Governor,,R,DeSoto,Hernando East,1266
+Tate Reeves,Governor,,R,DeSoto,Hernando East,453
+Bill Waller Jr.,Governor,,R,DeSoto,Hernando East,195
+Delbert Hosemann,Lieutenant Governor,,R,DeSoto,Hernando East,1378
+Shane Quick,Lieutenant Governor,,R,DeSoto,Hernando East,353
+Sam Britton,Secretary of State,,R,DeSoto,Hernando East,813
+Michael Watson,Secretary of State,,R,DeSoto,Hernando East,865
+Mark Baker,Attorney General,,R,DeSoto,Hernando East,529
+Lynn Fitch,Attorney General,,R,DeSoto,Hernando East,823
+Andy Taggart,Attorney General,,R,DeSoto,Hernando East,393
+Shad White,State Auditor,,R,DeSoto,Hernando East,1573
+Eugene S. 'Buck' Clarke,State Treasurer,,R,DeSoto,Hernando East,652
+David McRae,State Treasurer,,R,DeSoto,Hernando East,1032
+Andy Gipson,Commissioner of Agriculture & Commerce,,R,DeSoto,Hernando East,1585
+Mike Chaney,Commissioner of Insurance,,R,DeSoto,Hernando East,1594
+Murry Haslip,State Senate,1,R,DeSoto,Hernando East,360
+Chris Massey,State Senate,1,R,DeSoto,Hernando East,686
+Michael W McLendon,State Senate,1,R,DeSoto,Hernando East,798
+David Parker,State Senate,2,R,DeSoto,Hernando East,x
+Kevin Blackwell,State Senate,19,R,DeSoto,Hernando East,x
+Dana Criswell,State House,6,R,DeSoto,Hernando East,X
+Mike Duncan,State House,6,R,DeSoto,Hernando East,X
+Steve Hopkins,State House,7,R,DeSoto,Hernando East,X
+Kimberly Remak,State House,7,R,DeSoto,Hernando East,X
+Jeft Hale,State House,24,R,DeSoto,Hernando East,X
+Randy Denton,State House,25,R,DeSoto,Hernando East,X
+Dan Eubanks,State House,25,R,DeSoto,Hernando East,X
+Jerry Darnell,State House,28,R,DeSoto,Hernando East,985
+W I 'Doc' Harris Jr.,State House,28,R,DeSoto,Hernando East,894
+Ashley Henley,State House,40,R,DeSoto,Hernando East,X
+Francis J Miller,State House,40,R,DeSoto,Hernando East,X
+Charlie Roberts,State House,40,R,DeSoto,Hernando East,X
+Bill Kinkade,State House,52,R,DeSoto,Hernando East,X
+Michael Brown,Governor,,D,DeSoto,Hernando East,14
+William Bond Compton Jr.,Governor,,D,DeSoto,Hernando East,4
+Jim Hood,Governor,,D,DeSoto,Hernando East,75
+Robert J. Ray,Governor,,D,DeSoto,Hernando East,2
+Robert Shuler Smith,Governor,,D,DeSoto,Hernando East,8
+Gregory Wash,Governor,,D,DeSoto,Hernando East,2
+Velesha P Williams,Governor,,D,DeSoto,Hernando East,14
+Albert Wilson,Governor,,D,DeSoto,Hernando East,4
+Jay Hughes,Lieutenant Governor,,D,DeSoto,Hernando East,110
+Johnny DuPree,Secretary of State,,D,DeSoto,Hernando East,56
+Maryra Hodges Hunt,Secretary of State,,D,DeSoto,Hernando East,62
+Jennifer Riley Collins,Attorney General,,D,DeSoto,Hernando East,108
+Addie Lee Green,State Treasurer,,D,DeSoto,Hernando East,109
+Rickey L Cole,Commissioner of Agriculture & Commerce,,D,DeSoto,Hernando East,107
+Robert E Amos,Commissioner of Insurance,,D,DeSoto,Hernando East,106
+Lee A Jackson,State Senate,2,D,DeSoto,Hernando East,X
+Dianne Black,State Senate,19,D,DeSoto,Hernando East,X
+Zelda Hill,State House,7,D,DeSoto,Hernando East,X
+Theresa Gillespie Isom,State House,7,D,DeSoto,Hernando East,X
+Matt Williams,State House,28,D,DeSoto,Hernando East,107
+Hester Jackson McCray,State House,40,D,DeSoto,Hernando East,X
+Robert Foster,Governor,,R,DeSoto,Hernando West,930
+Tate Reeves,Governor,,R,DeSoto,Hernando West,338
+Bill Waller Jr.,Governor,,R,DeSoto,Hernando West,161
+Delbert Hosemann,Lieutenant Governor,,R,DeSoto,Hernando West,1027
+Shane Quick,Lieutenant Governor,,R,DeSoto,Hernando West,267
+Sam Britton,Secretary of State,,R,DeSoto,Hernando West,652
+Michael Watson,Secretary of State,,R,DeSoto,Hernando West,596
+Mark Baker,Attorney General,,R,DeSoto,Hernando West,377
+Lynn Fitch,Attorney General,,R,DeSoto,Hernando West,656
+Andy Taggart,Attorney General,,R,DeSoto,Hernando West,287
+Shad White,State Auditor,,R,DeSoto,Hernando West,1180
+Eugene S. 'Buck' Clarke,State Treasurer,,R,DeSoto,Hernando West,477
+David McRae,State Treasurer,,R,DeSoto,Hernando West,780
+Andy Gipson,Commissioner of Agriculture & Commerce,,R,DeSoto,Hernando West,1196
+Mike Chaney,Commissioner of Insurance,,R,DeSoto,Hernando West,1200
+Murry Haslip,State Senate,1,R,DeSoto,Hernando West,313
+Chris Massey,State Senate,1,R,DeSoto,Hernando West,448
+Michael W McLendon,State Senate,1,R,DeSoto,Hernando West,623
+David Parker,State Senate,2,R,DeSoto,Hernando West,x
+Kevin Blackwell,State Senate,19,R,DeSoto,Hernando West,x
+Dana Criswell,State House,6,R,DeSoto,Hernando West,X
+Mike Duncan,State House,6,R,DeSoto,Hernando West,X
+Steve Hopkins,State House,7,R,DeSoto,Hernando West,X
+Kimberly Remak,State House,7,R,DeSoto,Hernando West,X
+Jeft Hale,State House,24,R,DeSoto,Hernando West,X
+Randy Denton,State House,25,R,DeSoto,Hernando West,71
+Dan Eubanks,State House,25,R,DeSoto,Hernando West,124
+Jerry Darnell,State House,28,R,DeSoto,Hernando West,713
+W I 'Doc' Harris Jr.,State House,28,R,DeSoto,Hernando West,478
+Ashley Henley,State House,40,R,DeSoto,Hernando West,X
+Francis J Miller,State House,40,R,DeSoto,Hernando West,X
+Charlie Roberts,State House,40,R,DeSoto,Hernando West,X
+Bill Kinkade,State House,52,R,DeSoto,Hernando West,X
+Michael Brown,Governor,,D,DeSoto,Hernando West,19
+William Bond Compton Jr.,Governor,,D,DeSoto,Hernando West,2
+Jim Hood,Governor,,D,DeSoto,Hernando West,53
+Robert J. Ray,Governor,,D,DeSoto,Hernando West,0
+Robert Shuler Smith,Governor,,D,DeSoto,Hernando West,2
+Gregory Wash,Governor,,D,DeSoto,Hernando West,3
+Velesha P Williams,Governor,,D,DeSoto,Hernando West,17
+Albert Wilson,Governor,,D,DeSoto,Hernando West,0
+Jay Hughes,Lieutenant Governor,,D,DeSoto,Hernando West,86
+Johnny DuPree,Secretary of State,,D,DeSoto,Hernando West,53
+Maryra Hodges Hunt,Secretary of State,,D,DeSoto,Hernando West,39
+Jennifer Riley Collins,Attorney General,,D,DeSoto,Hernando West,87
+Addie Lee Green,State Treasurer,,D,DeSoto,Hernando West,92
+Rickey L Cole,Commissioner of Agriculture & Commerce,,D,DeSoto,Hernando West,88
+Robert E Amos,Commissioner of Insurance,,D,DeSoto,Hernando West,91
+Lee A Jackson,State Senate,2,D,DeSoto,Hernando West,X
+Dianne Black,State Senate,19,D,DeSoto,Hernando West,X
+Zelda Hill,State House,7,D,DeSoto,Hernando West,X
+Theresa Gillespie Isom,State House,7,D,DeSoto,Hernando West,X
+Matt Williams,State House,28,D,DeSoto,Hernando West,80
+Hester Jackson McCray,State House,40,D,DeSoto,Hernando West,X
+Robert Foster,Governor,,R,DeSoto,Horn Lake Central,115
+Tate Reeves,Governor,,R,DeSoto,Horn Lake Central,146
+Bill Waller Jr.,Governor,,R,DeSoto,Horn Lake Central,22
+Delbert Hosemann,Lieutenant Governor,,R,DeSoto,Horn Lake Central,184
+Shane Quick,Lieutenant Governor,,R,DeSoto,Horn Lake Central,81
+Sam Britton,Secretary of State,,R,DeSoto,Horn Lake Central,134
+Michael Watson,Secretary of State,,R,DeSoto,Horn Lake Central,127
+Mark Baker,Attorney General,,R,DeSoto,Horn Lake Central,118
+Lynn Fitch,Attorney General,,R,DeSoto,Horn Lake Central,92
+Andy Taggart,Attorney General,,R,DeSoto,Horn Lake Central,60
+Shad White,State Auditor,,R,DeSoto,Horn Lake Central,246
+Eugene S. 'Buck' Clarke,State Treasurer,,R,DeSoto,Horn Lake Central,94
+David McRae,State Treasurer,,R,DeSoto,Horn Lake Central,172
+Andy Gipson,Commissioner of Agriculture & Commerce,,R,DeSoto,Horn Lake Central,248
+Mike Chaney,Commissioner of Insurance,,R,DeSoto,Horn Lake Central,249
+Murry Haslip,State Senate,1,R,DeSoto,Horn Lake Central,x
+Chris Massey,State Senate,1,R,DeSoto,Horn Lake Central,x
+Michael W McLendon,State Senate,1,R,DeSoto,Horn Lake Central,x
+David Parker,State Senate,2,R,DeSoto,Horn Lake Central,250
+Kevin Blackwell,State Senate,19,R,DeSoto,Horn Lake Central,x
+Dana Criswell,State House,6,R,DeSoto,Horn Lake Central,X
+Mike Duncan,State House,6,R,DeSoto,Horn Lake Central,X
+Steve Hopkins,State House,7,R,DeSoto,Horn Lake Central,X
+Kimberly Remak,State House,7,R,DeSoto,Horn Lake Central,X
+Jeft Hale,State House,24,R,DeSoto,Horn Lake Central,X
+Randy Denton,State House,25,R,DeSoto,Horn Lake Central,115
+Dan Eubanks,State House,25,R,DeSoto,Horn Lake Central,164
+Jerry Darnell,State House,28,R,DeSoto,Horn Lake Central,X
+W I 'Doc' Harris Jr.,State House,28,R,DeSoto,Horn Lake Central,X
+Ashley Henley,State House,40,R,DeSoto,Horn Lake Central,X
+Francis J Miller,State House,40,R,DeSoto,Horn Lake Central,X
+Charlie Roberts,State House,40,R,DeSoto,Horn Lake Central,X
+Bill Kinkade,State House,52,R,DeSoto,Horn Lake Central,X
+Michael Brown,Governor,,D,DeSoto,Horn Lake Central,15
+William Bond Compton Jr.,Governor,,D,DeSoto,Horn Lake Central,2
+Jim Hood,Governor,,D,DeSoto,Horn Lake Central,45
+Robert J. Ray,Governor,,D,DeSoto,Horn Lake Central,0
+Robert Shuler Smith,Governor,,D,DeSoto,Horn Lake Central,5
+Gregory Wash,Governor,,D,DeSoto,Horn Lake Central,0
+Velesha P Williams,Governor,,D,DeSoto,Horn Lake Central,14
+Albert Wilson,Governor,,D,DeSoto,Horn Lake Central,1
+Jay Hughes,Lieutenant Governor,,D,DeSoto,Horn Lake Central,78
+Johnny DuPree,Secretary of State,,D,DeSoto,Horn Lake Central,50
+Maryra Hodges Hunt,Secretary of State,,D,DeSoto,Horn Lake Central,31
+Jennifer Riley Collins,Attorney General,,D,DeSoto,Horn Lake Central,79
+Addie Lee Green,State Treasurer,,D,DeSoto,Horn Lake Central,77
+Rickey L Cole,Commissioner of Agriculture & Commerce,,D,DeSoto,Horn Lake Central,76
+Robert E Amos,Commissioner of Insurance,,D,DeSoto,Horn Lake Central,76
+Lee A Jackson,State Senate,2,D,DeSoto,Horn Lake Central,75
+Dianne Black,State Senate,19,D,DeSoto,Horn Lake Central,X
+Zelda Hill,State House,7,D,DeSoto,Horn Lake Central,X
+Theresa Gillespie Isom,State House,7,D,DeSoto,Horn Lake Central,X
+Matt Williams,State House,28,D,DeSoto,Horn Lake Central,X
+Hester Jackson McCray,State House,40,D,DeSoto,Horn Lake Central,X
+Robert Foster,Governor,,R,DeSoto,Horn Lake East,61
+Tate Reeves,Governor,,R,DeSoto,Horn Lake East,92
+Bill Waller Jr.,Governor,,R,DeSoto,Horn Lake East,19
+Delbert Hosemann,Lieutenant Governor,,R,DeSoto,Horn Lake East,113
+Shane Quick,Lieutenant Governor,,R,DeSoto,Horn Lake East,45
+Sam Britton,Secretary of State,,R,DeSoto,Horn Lake East,70
+Michael Watson,Secretary of State,,R,DeSoto,Horn Lake East,92
+Mark Baker,Attorney General,,R,DeSoto,Horn Lake East,72
+Lynn Fitch,Attorney General,,R,DeSoto,Horn Lake East,63
+Andy Taggart,Attorney General,,R,DeSoto,Horn Lake East,30
+Shad White,State Auditor,,R,DeSoto,Horn Lake East,155
+Eugene S. 'Buck' Clarke,State Treasurer,,R,DeSoto,Horn Lake East,53
+David McRae,State Treasurer,,R,DeSoto,Horn Lake East,106
+Andy Gipson,Commissioner of Agriculture & Commerce,,R,DeSoto,Horn Lake East,154
+Mike Chaney,Commissioner of Insurance,,R,DeSoto,Horn Lake East,154
+Murry Haslip,State Senate,1,R,DeSoto,Horn Lake East,x
+Chris Massey,State Senate,1,R,DeSoto,Horn Lake East,x
+Michael W McLendon,State Senate,1,R,DeSoto,Horn Lake East,x
+David Parker,State Senate,2,R,DeSoto,Horn Lake East,150
+Kevin Blackwell,State Senate,19,R,DeSoto,Horn Lake East,x
+Dana Criswell,State House,6,R,DeSoto,Horn Lake East,X
+Mike Duncan,State House,6,R,DeSoto,Horn Lake East,X
+Steve Hopkins,State House,7,R,DeSoto,Horn Lake East,X
+Kimberly Remak,State House,7,R,DeSoto,Horn Lake East,X
+Jeft Hale,State House,24,R,DeSoto,Horn Lake East,X
+Randy Denton,State House,25,R,DeSoto,Horn Lake East,X
+Dan Eubanks,State House,25,R,DeSoto,Horn Lake East,X
+Jerry Darnell,State House,28,R,DeSoto,Horn Lake East,X
+W I 'Doc' Harris Jr.,State House,28,R,DeSoto,Horn Lake East,X
+Ashley Henley,State House,40,R,DeSoto,Horn Lake East,109
+Francis J Miller,State House,40,R,DeSoto,Horn Lake East,17
+Charlie Roberts,State House,40,R,DeSoto,Horn Lake East,38
+Bill Kinkade,State House,52,R,DeSoto,Horn Lake East,X
+Michael Brown,Governor,,D,DeSoto,Horn Lake East,12
+William Bond Compton Jr.,Governor,,D,DeSoto,Horn Lake East,2
+Jim Hood,Governor,,D,DeSoto,Horn Lake East,42
+Robert J. Ray,Governor,,D,DeSoto,Horn Lake East,3
+Robert Shuler Smith,Governor,,D,DeSoto,Horn Lake East,3
+Gregory Wash,Governor,,D,DeSoto,Horn Lake East,3
+Velesha P Williams,Governor,,D,DeSoto,Horn Lake East,21
+Albert Wilson,Governor,,D,DeSoto,Horn Lake East,3
+Jay Hughes,Lieutenant Governor,,D,DeSoto,Horn Lake East,82
+Johnny DuPree,Secretary of State,,D,DeSoto,Horn Lake East,45
+Maryra Hodges Hunt,Secretary of State,,D,DeSoto,Horn Lake East,43
+Jennifer Riley Collins,Attorney General,,D,DeSoto,Horn Lake East,84
+Addie Lee Green,State Treasurer,,D,DeSoto,Horn Lake East,82
+Rickey L Cole,Commissioner of Agriculture & Commerce,,D,DeSoto,Horn Lake East,84
+Robert E Amos,Commissioner of Insurance,,D,DeSoto,Horn Lake East,82
+Lee A Jackson,State Senate,2,D,DeSoto,Horn Lake East,84
+Dianne Black,State Senate,19,D,DeSoto,Horn Lake East,X
+Zelda Hill,State House,7,D,DeSoto,Horn Lake East,X
+Theresa Gillespie Isom,State House,7,D,DeSoto,Horn Lake East,X
+Matt Williams,State House,28,D,DeSoto,Horn Lake East,X
+Hester Jackson McCray,State House,40,D,DeSoto,Horn Lake East,85
+Robert Foster,Governor,,R,DeSoto,Horn Lake High School,283
+Tate Reeves,Governor,,R,DeSoto,Horn Lake High School,260
+Bill Waller Jr.,Governor,,R,DeSoto,Horn Lake High School,62
+Delbert Hosemann,Lieutenant Governor,,R,DeSoto,Horn Lake High School,398
+Shane Quick,Lieutenant Governor,,R,DeSoto,Horn Lake High School,166
+Sam Britton,Secretary of State,,R,DeSoto,Horn Lake High School,263
+Michael Watson,Secretary of State,,R,DeSoto,Horn Lake High School,285
+Mark Baker,Attorney General,,R,DeSoto,Horn Lake High School,236
+Lynn Fitch,Attorney General,,R,DeSoto,Horn Lake High School,209
+Andy Taggart,Attorney General,,R,DeSoto,Horn Lake High School,125
+Shad White,State Auditor,,R,DeSoto,Horn Lake High School,535
+Eugene S. 'Buck' Clarke,State Treasurer,,R,DeSoto,Horn Lake High School,214
+David McRae,State Treasurer,,R,DeSoto,Horn Lake High School,357
+Andy Gipson,Commissioner of Agriculture & Commerce,,R,DeSoto,Horn Lake High School,537
+Mike Chaney,Commissioner of Insurance,,R,DeSoto,Horn Lake High School,539
+Murry Haslip,State Senate,1,R,DeSoto,Horn Lake High School,67
+Chris Massey,State Senate,1,R,DeSoto,Horn Lake High School,238
+Michael W McLendon,State Senate,1,R,DeSoto,Horn Lake High School,91
+David Parker,State Senate,2,R,DeSoto,Horn Lake High School,171
+Kevin Blackwell,State Senate,19,R,DeSoto,Horn Lake High School,x
+Dana Criswell,State House,6,R,DeSoto,Horn Lake High School,X
+Mike Duncan,State House,6,R,DeSoto,Horn Lake High School,X
+Steve Hopkins,State House,7,R,DeSoto,Horn Lake High School,X
+Kimberly Remak,State House,7,R,DeSoto,Horn Lake High School,X
+Jeft Hale,State House,24,R,DeSoto,Horn Lake High School,X
+Randy Denton,State House,25,R,DeSoto,Horn Lake High School,233
+Dan Eubanks,State House,25,R,DeSoto,Horn Lake High School,372
+Jerry Darnell,State House,28,R,DeSoto,Horn Lake High School,X
+W I 'Doc' Harris Jr.,State House,28,R,DeSoto,Horn Lake High School,X
+Ashley Henley,State House,40,R,DeSoto,Horn Lake High School,X
+Francis J Miller,State House,40,R,DeSoto,Horn Lake High School,X
+Charlie Roberts,State House,40,R,DeSoto,Horn Lake High School,X
+Bill Kinkade,State House,52,R,DeSoto,Horn Lake High School,X
+Michael Brown,Governor,,D,DeSoto,Horn Lake High School,16
+William Bond Compton Jr.,Governor,,D,DeSoto,Horn Lake High School,5
+Jim Hood,Governor,,D,DeSoto,Horn Lake High School,67
+Robert J. Ray,Governor,,D,DeSoto,Horn Lake High School,2
+Robert Shuler Smith,Governor,,D,DeSoto,Horn Lake High School,3
+Gregory Wash,Governor,,D,DeSoto,Horn Lake High School,2
+Velesha P Williams,Governor,,D,DeSoto,Horn Lake High School,17
+Albert Wilson,Governor,,D,DeSoto,Horn Lake High School,4
+Jay Hughes,Lieutenant Governor,,D,DeSoto,Horn Lake High School,113
+Johnny DuPree,Secretary of State,,D,DeSoto,Horn Lake High School,66
+Maryra Hodges Hunt,Secretary of State,,D,DeSoto,Horn Lake High School,47
+Jennifer Riley Collins,Attorney General,,D,DeSoto,Horn Lake High School,114
+Addie Lee Green,State Treasurer,,D,DeSoto,Horn Lake High School,113
+Rickey L Cole,Commissioner of Agriculture & Commerce,,D,DeSoto,Horn Lake High School,113
+Robert E Amos,Commissioner of Insurance,,D,DeSoto,Horn Lake High School,114
+Lee A Jackson,State Senate,2,D,DeSoto,Horn Lake High School,24
+Dianne Black,State Senate,19,D,DeSoto,Horn Lake High School,X
+Zelda Hill,State House,7,D,DeSoto,Horn Lake High School,X
+Theresa Gillespie Isom,State House,7,D,DeSoto,Horn Lake High School,X
+Matt Williams,State House,28,D,DeSoto,Horn Lake High School,X
+Hester Jackson McCray,State House,40,D,DeSoto,Horn Lake High School,X
+Robert Foster,Governor,,R,DeSoto,Horn Lake Intermediate,114
+Tate Reeves,Governor,,R,DeSoto,Horn Lake Intermediate,144
+Bill Waller Jr.,Governor,,R,DeSoto,Horn Lake Intermediate,15
+Delbert Hosemann,Lieutenant Governor,,R,DeSoto,Horn Lake Intermediate,165
+Shane Quick,Lieutenant Governor,,R,DeSoto,Horn Lake Intermediate,87
+Sam Britton,Secretary of State,,R,DeSoto,Horn Lake Intermediate,126
+Michael Watson,Secretary of State,,R,DeSoto,Horn Lake Intermediate,117
+Mark Baker,Attorney General,,R,DeSoto,Horn Lake Intermediate,114
+Lynn Fitch,Attorney General,,R,DeSoto,Horn Lake Intermediate,90
+Andy Taggart,Attorney General,,R,DeSoto,Horn Lake Intermediate,55
+Shad White,State Auditor,,R,DeSoto,Horn Lake Intermediate,229
+Eugene S. 'Buck' Clarke,State Treasurer,,R,DeSoto,Horn Lake Intermediate,85
+David McRae,State Treasurer,,R,DeSoto,Horn Lake Intermediate,165
+Andy Gipson,Commissioner of Agriculture & Commerce,,R,DeSoto,Horn Lake Intermediate,229
+Mike Chaney,Commissioner of Insurance,,R,DeSoto,Horn Lake Intermediate,231
+Murry Haslip,State Senate,1,R,DeSoto,Horn Lake Intermediate,x
+Chris Massey,State Senate,1,R,DeSoto,Horn Lake Intermediate,x
+Michael W McLendon,State Senate,1,R,DeSoto,Horn Lake Intermediate,x
+David Parker,State Senate,2,R,DeSoto,Horn Lake Intermediate,228
+Kevin Blackwell,State Senate,19,R,DeSoto,Horn Lake Intermediate,x
+Dana Criswell,State House,6,R,DeSoto,Horn Lake Intermediate,X
+Mike Duncan,State House,6,R,DeSoto,Horn Lake Intermediate,X
+Steve Hopkins,State House,7,R,DeSoto,Horn Lake Intermediate,X
+Kimberly Remak,State House,7,R,DeSoto,Horn Lake Intermediate,X
+Jeft Hale,State House,24,R,DeSoto,Horn Lake Intermediate,X
+Randy Denton,State House,25,R,DeSoto,Horn Lake Intermediate,111
+Dan Eubanks,State House,25,R,DeSoto,Horn Lake Intermediate,155
+Jerry Darnell,State House,28,R,DeSoto,Horn Lake Intermediate,X
+W I 'Doc' Harris Jr.,State House,28,R,DeSoto,Horn Lake Intermediate,X
+Ashley Henley,State House,40,R,DeSoto,Horn Lake Intermediate,X
+Francis J Miller,State House,40,R,DeSoto,Horn Lake Intermediate,X
+Charlie Roberts,State House,40,R,DeSoto,Horn Lake Intermediate,X
+Bill Kinkade,State House,52,R,DeSoto,Horn Lake Intermediate,X
+Michael Brown,Governor,,D,DeSoto,Horn Lake Intermediate,24
+William Bond Compton Jr.,Governor,,D,DeSoto,Horn Lake Intermediate,1
+Jim Hood,Governor,,D,DeSoto,Horn Lake Intermediate,49
+Robert J. Ray,Governor,,D,DeSoto,Horn Lake Intermediate,1
+Robert Shuler Smith,Governor,,D,DeSoto,Horn Lake Intermediate,4
+Gregory Wash,Governor,,D,DeSoto,Horn Lake Intermediate,0
+Velesha P Williams,Governor,,D,DeSoto,Horn Lake Intermediate,35
+Albert Wilson,Governor,,D,DeSoto,Horn Lake Intermediate,8
+Jay Hughes,Lieutenant Governor,,D,DeSoto,Horn Lake Intermediate,108
+Johnny DuPree,Secretary of State,,D,DeSoto,Horn Lake Intermediate,60
+Maryra Hodges Hunt,Secretary of State,,D,DeSoto,Horn Lake Intermediate,61
+Jennifer Riley Collins,Attorney General,,D,DeSoto,Horn Lake Intermediate,113
+Addie Lee Green,State Treasurer,,D,DeSoto,Horn Lake Intermediate,113
+Rickey L Cole,Commissioner of Agriculture & Commerce,,D,DeSoto,Horn Lake Intermediate,111
+Robert E Amos,Commissioner of Insurance,,D,DeSoto,Horn Lake Intermediate,109
+Lee A Jackson,State Senate,2,D,DeSoto,Horn Lake Intermediate,111
+Dianne Black,State Senate,19,D,DeSoto,Horn Lake Intermediate,X
+Zelda Hill,State House,7,D,DeSoto,Horn Lake Intermediate,X
+Theresa Gillespie Isom,State House,7,D,DeSoto,Horn Lake Intermediate,X
+Matt Williams,State House,28,D,DeSoto,Horn Lake Intermediate,X
+Hester Jackson McCray,State House,40,D,DeSoto,Horn Lake Intermediate,X
+Robert Foster,Governor,,R,DeSoto,Horn Lake North,78
+Tate Reeves,Governor,,R,DeSoto,Horn Lake North,129
+Bill Waller Jr.,Governor,,R,DeSoto,Horn Lake North,17
+Delbert Hosemann,Lieutenant Governor,,R,DeSoto,Horn Lake North,147
+Shane Quick,Lieutenant Governor,,R,DeSoto,Horn Lake North,62
+Sam Britton,Secretary of State,,R,DeSoto,Horn Lake North,88
+Michael Watson,Secretary of State,,R,DeSoto,Horn Lake North,121
+Mark Baker,Attorney General,,R,DeSoto,Horn Lake North,116
+Lynn Fitch,Attorney General,,R,DeSoto,Horn Lake North,55
+Andy Taggart,Attorney General,,R,DeSoto,Horn Lake North,48
+Shad White,State Auditor,,R,DeSoto,Horn Lake North,192
+Eugene S. 'Buck' Clarke,State Treasurer,,R,DeSoto,Horn Lake North,69
+David McRae,State Treasurer,,R,DeSoto,Horn Lake North,140
+Andy Gipson,Commissioner of Agriculture & Commerce,,R,DeSoto,Horn Lake North,190
+Mike Chaney,Commissioner of Insurance,,R,DeSoto,Horn Lake North,190
+Murry Haslip,State Senate,1,R,DeSoto,Horn Lake North,x
+Chris Massey,State Senate,1,R,DeSoto,Horn Lake North,x
+Michael W McLendon,State Senate,1,R,DeSoto,Horn Lake North,x
+David Parker,State Senate,2,R,DeSoto,Horn Lake North,190
+Kevin Blackwell,State Senate,19,R,DeSoto,Horn Lake North,x
+Dana Criswell,State House,6,R,DeSoto,Horn Lake North,X
+Mike Duncan,State House,6,R,DeSoto,Horn Lake North,X
+Steve Hopkins,State House,7,R,DeSoto,Horn Lake North,X
+Kimberly Remak,State House,7,R,DeSoto,Horn Lake North,X
+Jeft Hale,State House,24,R,DeSoto,Horn Lake North,X
+Randy Denton,State House,25,R,DeSoto,Horn Lake North,X
+Dan Eubanks,State House,25,R,DeSoto,Horn Lake North,X
+Jerry Darnell,State House,28,R,DeSoto,Horn Lake North,X
+W I 'Doc' Harris Jr.,State House,28,R,DeSoto,Horn Lake North,X
+Ashley Henley,State House,40,R,DeSoto,Horn Lake North,148
+Francis J Miller,State House,40,R,DeSoto,Horn Lake North,14
+Charlie Roberts,State House,40,R,DeSoto,Horn Lake North,54
+Bill Kinkade,State House,52,R,DeSoto,Horn Lake North,X
+Michael Brown,Governor,,D,DeSoto,Horn Lake North,23
+William Bond Compton Jr.,Governor,,D,DeSoto,Horn Lake North,1
+Jim Hood,Governor,,D,DeSoto,Horn Lake North,50
+Robert J. Ray,Governor,,D,DeSoto,Horn Lake North,3
+Robert Shuler Smith,Governor,,D,DeSoto,Horn Lake North,0
+Gregory Wash,Governor,,D,DeSoto,Horn Lake North,1
+Velesha P Williams,Governor,,D,DeSoto,Horn Lake North,25
+Albert Wilson,Governor,,D,DeSoto,Horn Lake North,3
+Jay Hughes,Lieutenant Governor,,D,DeSoto,Horn Lake North,94
+Johnny DuPree,Secretary of State,,D,DeSoto,Horn Lake North,50
+Maryra Hodges Hunt,Secretary of State,,D,DeSoto,Horn Lake North,51
+Jennifer Riley Collins,Attorney General,,D,DeSoto,Horn Lake North,94
+Addie Lee Green,State Treasurer,,D,DeSoto,Horn Lake North,94
+Rickey L Cole,Commissioner of Agriculture & Commerce,,D,DeSoto,Horn Lake North,90
+Robert E Amos,Commissioner of Insurance,,D,DeSoto,Horn Lake North,91
+Lee A Jackson,State Senate,2,D,DeSoto,Horn Lake North,92
+Dianne Black,State Senate,19,D,DeSoto,Horn Lake North,X
+Zelda Hill,State House,7,D,DeSoto,Horn Lake North,X
+Theresa Gillespie Isom,State House,7,D,DeSoto,Horn Lake North,X
+Matt Williams,State House,28,D,DeSoto,Horn Lake North,X
+Hester Jackson McCray,State House,40,D,DeSoto,Horn Lake North,93
+Robert Foster,Governor,,R,DeSoto,Horn Lake West,68
+Tate Reeves,Governor,,R,DeSoto,Horn Lake West,100
+Bill Waller Jr.,Governor,,R,DeSoto,Horn Lake West,17
 Delbert Hosemann,Lieutenant Governor,,R,DeSoto,Horn Lake West,112
 Shane Quick,Lieutenant Governor,,R,DeSoto,Horn Lake West,63
 Sam Britton,Secretary of State,,R,DeSoto,Horn Lake West,83
@@ -1098,7 +1098,7 @@ Murry Haslip,State Senate,1,R,DeSoto,Horn Lake West,x
 Chris Massey,State Senate,1,R,DeSoto,Horn Lake West,x
 Michael W McLendon,State Senate,1,R,DeSoto,Horn Lake West,x
 David Parker,State Senate,2,R,DeSoto,Horn Lake West,167
-Kevin Blackwell ,State Senate,19,R,DeSoto,Horn Lake West,x
+Kevin Blackwell,State Senate,19,R,DeSoto,Horn Lake West,x
 Dana Criswell,State House,6,R,DeSoto,Horn Lake West,X
 Mike Duncan,State House,6,R,DeSoto,Horn Lake West,X
 Steve Hopkins,State House,7,R,DeSoto,Horn Lake West,X
@@ -1107,19 +1107,19 @@ Jeft Hale,State House,24,R,DeSoto,Horn Lake West,X
 Randy Denton,State House,25,R,DeSoto,Horn Lake West,X
 Dan Eubanks,State House,25,R,DeSoto,Horn Lake West,X
 Jerry Darnell,State House,28,R,DeSoto,Horn Lake West,X
-W I 'Doc' Harris Jr. ,State House,28,R,DeSoto,Horn Lake West,X
+W I 'Doc' Harris Jr.,State House,28,R,DeSoto,Horn Lake West,X
 Ashley Henley,State House,40,R,DeSoto,Horn Lake West,97
 Francis J Miller,State House,40,R,DeSoto,Horn Lake West,7
 Charlie Roberts,State House,40,R,DeSoto,Horn Lake West,80
 Bill Kinkade,State House,52,R,DeSoto,Horn Lake West,X
-Michael Brown,Governor ,,D,DeSoto,Horn Lake West,10
-William Bond Compton Jr.,Governor ,,D,DeSoto,Horn Lake West,5
-Jim Hood,Governor ,,D,DeSoto,Horn Lake West,27
-Robert J. Ray,Governor ,,D,DeSoto,Horn Lake West,2
-Robert Shuler Smith,Governor ,,D,DeSoto,Horn Lake West,3
-Gregory Wash,Governor ,,D,DeSoto,Horn Lake West,1
-Velesha P Williams,Governor ,,D,DeSoto,Horn Lake West,14
-Albert Wilson,Governor ,,D,DeSoto,Horn Lake West,1
+Michael Brown,Governor,,D,DeSoto,Horn Lake West,10
+William Bond Compton Jr.,Governor,,D,DeSoto,Horn Lake West,5
+Jim Hood,Governor,,D,DeSoto,Horn Lake West,27
+Robert J. Ray,Governor,,D,DeSoto,Horn Lake West,2
+Robert Shuler Smith,Governor,,D,DeSoto,Horn Lake West,3
+Gregory Wash,Governor,,D,DeSoto,Horn Lake West,1
+Velesha P Williams,Governor,,D,DeSoto,Horn Lake West,14
+Albert Wilson,Governor,,D,DeSoto,Horn Lake West,1
 Jay Hughes,Lieutenant Governor,,D,DeSoto,Horn Lake West,55
 Johnny DuPree,Secretary of State,,D,DeSoto,Horn Lake West,26
 Maryra Hodges Hunt,Secretary of State,,D,DeSoto,Horn Lake West,33
@@ -1133,9 +1133,9 @@ Zelda Hill,State House,7,D,DeSoto,Horn Lake West,X
 Theresa Gillespie Isom,State House,7,D,DeSoto,Horn Lake West,X
 Matt Williams,State House,28,D,DeSoto,Horn Lake West,X
 Hester Jackson McCray,State House,40,D,DeSoto,Horn Lake West,54
-Robert Foster,Governor ,,R,DeSoto,Ingrams Mill,166
-Tate Reeves,Governor ,,R,DeSoto,Ingrams Mill,157
-Bill Waller Jr.,Governor ,,R,DeSoto,Ingrams Mill,32
+Robert Foster,Governor,,R,DeSoto,Ingrams Mill,166
+Tate Reeves,Governor,,R,DeSoto,Ingrams Mill,157
+Bill Waller Jr.,Governor,,R,DeSoto,Ingrams Mill,32
 Delbert Hosemann,Lieutenant Governor,,R,DeSoto,Ingrams Mill,239
 Shane Quick,Lieutenant Governor,,R,DeSoto,Ingrams Mill,93
 Sam Britton,Secretary of State,,R,DeSoto,Ingrams Mill,152
@@ -1152,7 +1152,7 @@ Murry Haslip,State Senate,1,R,DeSoto,Ingrams Mill,x
 Chris Massey,State Senate,1,R,DeSoto,Ingrams Mill,x
 Michael W McLendon,State Senate,1,R,DeSoto,Ingrams Mill,x
 David Parker,State Senate,2,R,DeSoto,Ingrams Mill,x
-Kevin Blackwell ,State Senate,19,R,DeSoto,Ingrams Mill,307
+Kevin Blackwell,State Senate,19,R,DeSoto,Ingrams Mill,307
 Dana Criswell,State House,6,R,DeSoto,Ingrams Mill,X
 Mike Duncan,State House,6,R,DeSoto,Ingrams Mill,X
 Steve Hopkins,State House,7,R,DeSoto,Ingrams Mill,X
@@ -1161,19 +1161,19 @@ Jeft Hale,State House,24,R,DeSoto,Ingrams Mill,X
 Randy Denton,State House,25,R,DeSoto,Ingrams Mill,X
 Dan Eubanks,State House,25,R,DeSoto,Ingrams Mill,X
 Jerry Darnell,State House,28,R,DeSoto,Ingrams Mill,204
-W I 'Doc' Harris Jr. ,State House,28,R,DeSoto,Ingrams Mill,133
+W I 'Doc' Harris Jr.,State House,28,R,DeSoto,Ingrams Mill,133
 Ashley Henley,State House,40,R,DeSoto,Ingrams Mill,X
 Francis J Miller,State House,40,R,DeSoto,Ingrams Mill,X
 Charlie Roberts,State House,40,R,DeSoto,Ingrams Mill,X
 Bill Kinkade,State House,52,R,DeSoto,Ingrams Mill,X
-Michael Brown,Governor ,,D,DeSoto,Ingrams Mill,14
-William Bond Compton Jr.,Governor ,,D,DeSoto,Ingrams Mill,3
-Jim Hood,Governor ,,D,DeSoto,Ingrams Mill,40
-Robert J. Ray,Governor ,,D,DeSoto,Ingrams Mill,3
-Robert Shuler Smith,Governor ,,D,DeSoto,Ingrams Mill,2
-Gregory Wash,Governor ,,D,DeSoto,Ingrams Mill,2
-Velesha P Williams,Governor ,,D,DeSoto,Ingrams Mill,14
-Albert Wilson,Governor ,,D,DeSoto,Ingrams Mill,3
+Michael Brown,Governor,,D,DeSoto,Ingrams Mill,14
+William Bond Compton Jr.,Governor,,D,DeSoto,Ingrams Mill,3
+Jim Hood,Governor,,D,DeSoto,Ingrams Mill,40
+Robert J. Ray,Governor,,D,DeSoto,Ingrams Mill,3
+Robert Shuler Smith,Governor,,D,DeSoto,Ingrams Mill,2
+Gregory Wash,Governor,,D,DeSoto,Ingrams Mill,2
+Velesha P Williams,Governor,,D,DeSoto,Ingrams Mill,14
+Albert Wilson,Governor,,D,DeSoto,Ingrams Mill,3
 Jay Hughes,Lieutenant Governor,,D,DeSoto,Ingrams Mill,66
 Johnny DuPree,Secretary of State,,D,DeSoto,Ingrams Mill,47
 Maryra Hodges Hunt,Secretary of State,,D,DeSoto,Ingrams Mill,30
@@ -1187,63 +1187,63 @@ Zelda Hill,State House,7,D,DeSoto,Ingrams Mill,X
 Theresa Gillespie Isom,State House,7,D,DeSoto,Ingrams Mill,X
 Matt Williams,State House,28,D,DeSoto,Ingrams Mill,61
 Hester Jackson McCray,State House,40,D,DeSoto,Ingrams Mill,X
-Robert Foster,Governor ,,R,DeSoto,Lake Cormorant ,84
-Tate Reeves,Governor ,,R,DeSoto,Lake Cormorant ,48
-Bill Waller Jr.,Governor ,,R,DeSoto,Lake Cormorant ,20
-Delbert Hosemann,Lieutenant Governor,,R,DeSoto,Lake Cormorant ,99
-Shane Quick,Lieutenant Governor,,R,DeSoto,Lake Cormorant ,47
-Sam Britton,Secretary of State,,R,DeSoto,Lake Cormorant ,59
-Michael Watson,Secretary of State,,R,DeSoto,Lake Cormorant ,75
-Mark Baker,Attorney General,,R,DeSoto,Lake Cormorant ,63
-Lynn Fitch,Attorney General,,R,DeSoto,Lake Cormorant ,59
-Andy Taggart,Attorney General,,R,DeSoto,Lake Cormorant ,19
-Shad White,State Auditor,,R,DeSoto,Lake Cormorant ,134
-Eugene S. 'Buck' Clarke,State Treasurer,,R,DeSoto,Lake Cormorant ,69
-David McRae,State Treasurer,,R,DeSoto,Lake Cormorant ,73
-Andy Gipson,Commissioner of Agriculture & Commerce,,R,DeSoto,Lake Cormorant ,135
-Mike Chaney,Commissioner of Insurance,,R,DeSoto,Lake Cormorant ,139
-Murry Haslip,State Senate,1,R,DeSoto,Lake Cormorant ,41
-Chris Massey,State Senate,1,R,DeSoto,Lake Cormorant ,76
-Michael W McLendon,State Senate,1,R,DeSoto,Lake Cormorant ,27
-David Parker,State Senate,2,R,DeSoto,Lake Cormorant ,x
-Kevin Blackwell ,State Senate,19,R,DeSoto,Lake Cormorant ,x
-Dana Criswell,State House,6,R,DeSoto,Lake Cormorant ,x
-Mike Duncan,State House,6,R,DeSoto,Lake Cormorant ,x
-Steve Hopkins,State House,7,R,DeSoto,Lake Cormorant ,x
-Kimberly Remak,State House,7,R,DeSoto,Lake Cormorant ,x
-Jeft Hale,State House,24,R,DeSoto,Lake Cormorant ,X
-Randy Denton,State House,25,R,DeSoto,Lake Cormorant ,70
-Dan Eubanks,State House,25,R,DeSoto,Lake Cormorant ,76
-Jerry Darnell,State House,28,R,DeSoto,Lake Cormorant ,X
-W I 'Doc' Harris Jr. ,State House,28,R,DeSoto,Lake Cormorant ,X
-Ashley Henley,State House,40,R,DeSoto,Lake Cormorant ,X
-Francis J Miller,State House,40,R,DeSoto,Lake Cormorant ,X
-Charlie Roberts,State House,40,R,DeSoto,Lake Cormorant ,X
-Bill Kinkade,State House,52,R,DeSoto,Lake Cormorant ,X
-Michael Brown,Governor ,,D,DeSoto,Lake Cormorant ,3
-William Bond Compton Jr.,Governor ,,D,DeSoto,Lake Cormorant ,3
-Jim Hood,Governor ,,D,DeSoto,Lake Cormorant ,18
-Robert J. Ray,Governor ,,D,DeSoto,Lake Cormorant ,2
-Robert Shuler Smith,Governor ,,D,DeSoto,Lake Cormorant ,1
-Gregory Wash,Governor ,,D,DeSoto,Lake Cormorant ,1
-Velesha P Williams,Governor ,,D,DeSoto,Lake Cormorant ,5
-Albert Wilson,Governor ,,D,DeSoto,Lake Cormorant ,0
-Jay Hughes,Lieutenant Governor,,D,DeSoto,Lake Cormorant ,32
-Johnny DuPree,Secretary of State,,D,DeSoto,Lake Cormorant ,13
-Maryra Hodges Hunt,Secretary of State,,D,DeSoto,Lake Cormorant ,20
-Jennifer Riley Collins,Attorney General,,D,DeSoto,Lake Cormorant ,32
-Addie Lee Green,State Treasurer,,D,DeSoto,Lake Cormorant ,33
-Rickey L Cole,Commissioner of Agriculture & Commerce,,D,DeSoto,Lake Cormorant ,33
-Robert E Amos,Commissioner of Insurance,,D,DeSoto,Lake Cormorant ,32
-Lee A Jackson,State Senate,2,D,DeSoto,Lake Cormorant ,X
-Dianne Black,State Senate,19,D,DeSoto,Lake Cormorant ,X
-Zelda Hill,State House,7,D,DeSoto,Lake Cormorant ,X
-Theresa Gillespie Isom,State House,7,D,DeSoto,Lake Cormorant ,X
-Matt Williams,State House,28,D,DeSoto,Lake Cormorant ,X
-Hester Jackson McCray,State House,40,D,DeSoto,Lake Cormorant ,X
-Robert Foster,Governor ,,R,DeSoto,Lewisburg,516
-Tate Reeves,Governor ,,R,DeSoto,Lewisburg,431
-Bill Waller Jr.,Governor ,,R,DeSoto,Lewisburg,155
+Robert Foster,Governor,,R,DeSoto,Lake Cormorant,84
+Tate Reeves,Governor,,R,DeSoto,Lake Cormorant,48
+Bill Waller Jr.,Governor,,R,DeSoto,Lake Cormorant,20
+Delbert Hosemann,Lieutenant Governor,,R,DeSoto,Lake Cormorant,99
+Shane Quick,Lieutenant Governor,,R,DeSoto,Lake Cormorant,47
+Sam Britton,Secretary of State,,R,DeSoto,Lake Cormorant,59
+Michael Watson,Secretary of State,,R,DeSoto,Lake Cormorant,75
+Mark Baker,Attorney General,,R,DeSoto,Lake Cormorant,63
+Lynn Fitch,Attorney General,,R,DeSoto,Lake Cormorant,59
+Andy Taggart,Attorney General,,R,DeSoto,Lake Cormorant,19
+Shad White,State Auditor,,R,DeSoto,Lake Cormorant,134
+Eugene S. 'Buck' Clarke,State Treasurer,,R,DeSoto,Lake Cormorant,69
+David McRae,State Treasurer,,R,DeSoto,Lake Cormorant,73
+Andy Gipson,Commissioner of Agriculture & Commerce,,R,DeSoto,Lake Cormorant,135
+Mike Chaney,Commissioner of Insurance,,R,DeSoto,Lake Cormorant,139
+Murry Haslip,State Senate,1,R,DeSoto,Lake Cormorant,41
+Chris Massey,State Senate,1,R,DeSoto,Lake Cormorant,76
+Michael W McLendon,State Senate,1,R,DeSoto,Lake Cormorant,27
+David Parker,State Senate,2,R,DeSoto,Lake Cormorant,x
+Kevin Blackwell,State Senate,19,R,DeSoto,Lake Cormorant,x
+Dana Criswell,State House,6,R,DeSoto,Lake Cormorant,x
+Mike Duncan,State House,6,R,DeSoto,Lake Cormorant,x
+Steve Hopkins,State House,7,R,DeSoto,Lake Cormorant,x
+Kimberly Remak,State House,7,R,DeSoto,Lake Cormorant,x
+Jeft Hale,State House,24,R,DeSoto,Lake Cormorant,X
+Randy Denton,State House,25,R,DeSoto,Lake Cormorant,70
+Dan Eubanks,State House,25,R,DeSoto,Lake Cormorant,76
+Jerry Darnell,State House,28,R,DeSoto,Lake Cormorant,X
+W I 'Doc' Harris Jr.,State House,28,R,DeSoto,Lake Cormorant,X
+Ashley Henley,State House,40,R,DeSoto,Lake Cormorant,X
+Francis J Miller,State House,40,R,DeSoto,Lake Cormorant,X
+Charlie Roberts,State House,40,R,DeSoto,Lake Cormorant,X
+Bill Kinkade,State House,52,R,DeSoto,Lake Cormorant,X
+Michael Brown,Governor,,D,DeSoto,Lake Cormorant,3
+William Bond Compton Jr.,Governor,,D,DeSoto,Lake Cormorant,3
+Jim Hood,Governor,,D,DeSoto,Lake Cormorant,18
+Robert J. Ray,Governor,,D,DeSoto,Lake Cormorant,2
+Robert Shuler Smith,Governor,,D,DeSoto,Lake Cormorant,1
+Gregory Wash,Governor,,D,DeSoto,Lake Cormorant,1
+Velesha P Williams,Governor,,D,DeSoto,Lake Cormorant,5
+Albert Wilson,Governor,,D,DeSoto,Lake Cormorant,0
+Jay Hughes,Lieutenant Governor,,D,DeSoto,Lake Cormorant,32
+Johnny DuPree,Secretary of State,,D,DeSoto,Lake Cormorant,13
+Maryra Hodges Hunt,Secretary of State,,D,DeSoto,Lake Cormorant,20
+Jennifer Riley Collins,Attorney General,,D,DeSoto,Lake Cormorant,32
+Addie Lee Green,State Treasurer,,D,DeSoto,Lake Cormorant,33
+Rickey L Cole,Commissioner of Agriculture & Commerce,,D,DeSoto,Lake Cormorant,33
+Robert E Amos,Commissioner of Insurance,,D,DeSoto,Lake Cormorant,32
+Lee A Jackson,State Senate,2,D,DeSoto,Lake Cormorant,X
+Dianne Black,State Senate,19,D,DeSoto,Lake Cormorant,X
+Zelda Hill,State House,7,D,DeSoto,Lake Cormorant,X
+Theresa Gillespie Isom,State House,7,D,DeSoto,Lake Cormorant,X
+Matt Williams,State House,28,D,DeSoto,Lake Cormorant,X
+Hester Jackson McCray,State House,40,D,DeSoto,Lake Cormorant,X
+Robert Foster,Governor,,R,DeSoto,Lewisburg,516
+Tate Reeves,Governor,,R,DeSoto,Lewisburg,431
+Bill Waller Jr.,Governor,,R,DeSoto,Lewisburg,155
 Delbert Hosemann,Lieutenant Governor,,R,DeSoto,Lewisburg,788
 Shane Quick,Lieutenant Governor,,R,DeSoto,Lewisburg,219
 Sam Britton,Secretary of State,,R,DeSoto,Lewisburg,438
@@ -1260,7 +1260,7 @@ Murry Haslip,State Senate,1,R,DeSoto,Lewisburg,337
 Chris Massey,State Senate,1,R,DeSoto,Lewisburg,169
 Michael W McLendon,State Senate,1,R,DeSoto,Lewisburg,48
 David Parker,State Senate,2,R,DeSoto,Lewisburg,x
-Kevin Blackwell ,State Senate,19,R,DeSoto,Lewisburg,439
+Kevin Blackwell,State Senate,19,R,DeSoto,Lewisburg,439
 Dana Criswell,State House,6,R,DeSoto,Lewisburg,248
 Mike Duncan,State House,6,R,DeSoto,Lewisburg,154
 Steve Hopkins,State House,7,R,DeSoto,Lewisburg,X
@@ -1269,19 +1269,19 @@ Jeft Hale,State House,24,R,DeSoto,Lewisburg,97
 Randy Denton,State House,25,R,DeSoto,Lewisburg,X
 Dan Eubanks,State House,25,R,DeSoto,Lewisburg,X
 Jerry Darnell,State House,28,R,DeSoto,Lewisburg,288
-W I 'Doc' Harris Jr. ,State House,28,R,DeSoto,Lewisburg,243
+W I 'Doc' Harris Jr.,State House,28,R,DeSoto,Lewisburg,243
 Ashley Henley,State House,40,R,DeSoto,Lewisburg,X
 Francis J Miller,State House,40,R,DeSoto,Lewisburg,X
 Charlie Roberts,State House,40,R,DeSoto,Lewisburg,X
 Bill Kinkade,State House,52,R,DeSoto,Lewisburg,X
-Michael Brown,Governor ,,D,DeSoto,Lewisburg,29
-William Bond Compton Jr.,Governor ,,D,DeSoto,Lewisburg,4
-Jim Hood,Governor ,,D,DeSoto,Lewisburg,76
-Robert J. Ray,Governor ,,D,DeSoto,Lewisburg,2
-Robert Shuler Smith,Governor ,,D,DeSoto,Lewisburg,10
-Gregory Wash,Governor ,,D,DeSoto,Lewisburg,4
-Velesha P Williams,Governor ,,D,DeSoto,Lewisburg,28
-Albert Wilson,Governor ,,D,DeSoto,Lewisburg,1
+Michael Brown,Governor,,D,DeSoto,Lewisburg,29
+William Bond Compton Jr.,Governor,,D,DeSoto,Lewisburg,4
+Jim Hood,Governor,,D,DeSoto,Lewisburg,76
+Robert J. Ray,Governor,,D,DeSoto,Lewisburg,2
+Robert Shuler Smith,Governor,,D,DeSoto,Lewisburg,10
+Gregory Wash,Governor,,D,DeSoto,Lewisburg,4
+Velesha P Williams,Governor,,D,DeSoto,Lewisburg,28
+Albert Wilson,Governor,,D,DeSoto,Lewisburg,1
 Jay Hughes,Lieutenant Governor,,D,DeSoto,Lewisburg,144
 Johnny DuPree,Secretary of State,,D,DeSoto,Lewisburg,75
 Maryra Hodges Hunt,Secretary of State,,D,DeSoto,Lewisburg,70
@@ -1295,63 +1295,63 @@ Zelda Hill,State House,7,D,DeSoto,Lewisburg,X
 Theresa Gillespie Isom,State House,7,D,DeSoto,Lewisburg,X
 Matt Williams,State House,28,D,DeSoto,Lewisburg,49
 Hester Jackson McCray,State House,40,D,DeSoto,Lewisburg,X
-Robert Foster,Governor ,,R,DeSoto,Lewisburg East ,76
-Tate Reeves,Governor ,,R,DeSoto,Lewisburg East ,106
-Bill Waller Jr.,Governor ,,R,DeSoto,Lewisburg East ,30
-Delbert Hosemann,Lieutenant Governor,,R,DeSoto,Lewisburg East ,153
-Shane Quick,Lieutenant Governor,,R,DeSoto,Lewisburg East ,46
-Sam Britton,Secretary of State,,R,DeSoto,Lewisburg East ,82
-Michael Watson,Secretary of State,,R,DeSoto,Lewisburg East ,117
-Mark Baker,Attorney General,,R,DeSoto,Lewisburg East ,65
-Lynn Fitch,Attorney General,,R,DeSoto,Lewisburg East ,79
-Andy Taggart,Attorney General,,R,DeSoto,Lewisburg East ,59
-Shad White,State Auditor,,R,DeSoto,Lewisburg East ,192
-Eugene S. 'Buck' Clarke,State Treasurer,,R,DeSoto,Lewisburg East ,81
-David McRae,State Treasurer,,R,DeSoto,Lewisburg East ,117
-Andy Gipson,Commissioner of Agriculture & Commerce,,R,DeSoto,Lewisburg East ,192
-Mike Chaney,Commissioner of Insurance,,R,DeSoto,Lewisburg East ,191
-Murry Haslip,State Senate,1,R,DeSoto,Lewisburg East ,98
-Chris Massey,State Senate,1,R,DeSoto,Lewisburg East ,88
-Michael W McLendon,State Senate,1,R,DeSoto,Lewisburg East ,21
-David Parker,State Senate,2,R,DeSoto,Lewisburg East ,x
-Kevin Blackwell ,State Senate,19,R,DeSoto,Lewisburg East ,x
-Dana Criswell,State House,6,R,DeSoto,Lewisburg East ,X
-Mike Duncan,State House,6,R,DeSoto,Lewisburg East ,X
-Steve Hopkins,State House,7,R,DeSoto,Lewisburg East ,X
-Kimberly Remak,State House,7,R,DeSoto,Lewisburg East ,X
-Jeft Hale,State House,24,R,DeSoto,Lewisburg East ,X
-Randy Denton,State House,25,R,DeSoto,Lewisburg East ,X
-Dan Eubanks,State House,25,R,DeSoto,Lewisburg East ,X
-Jerry Darnell,State House,28,R,DeSoto,Lewisburg East ,130
-W I 'Doc' Harris Jr. ,State House,28,R,DeSoto,Lewisburg East ,72
-Ashley Henley,State House,40,R,DeSoto,Lewisburg East ,X
-Francis J Miller,State House,40,R,DeSoto,Lewisburg East ,X
-Charlie Roberts,State House,40,R,DeSoto,Lewisburg East ,X
-Bill Kinkade,State House,52,R,DeSoto,Lewisburg East ,X
-Michael Brown,Governor ,,D,DeSoto,Lewisburg East ,2
-William Bond Compton Jr.,Governor ,,D,DeSoto,Lewisburg East ,0
-Jim Hood,Governor ,,D,DeSoto,Lewisburg East ,8
-Robert J. Ray,Governor ,,D,DeSoto,Lewisburg East ,1
-Robert Shuler Smith,Governor ,,D,DeSoto,Lewisburg East ,0
-Gregory Wash,Governor ,,D,DeSoto,Lewisburg East ,0
-Velesha P Williams,Governor ,,D,DeSoto,Lewisburg East ,1
-Albert Wilson,Governor ,,D,DeSoto,Lewisburg East ,0
-Jay Hughes,Lieutenant Governor,,D,DeSoto,Lewisburg East ,11
-Johnny DuPree,Secretary of State,,D,DeSoto,Lewisburg East ,10
-Maryra Hodges Hunt,Secretary of State,,D,DeSoto,Lewisburg East ,3
-Jennifer Riley Collins,Attorney General,,D,DeSoto,Lewisburg East ,12
-Addie Lee Green,State Treasurer,,D,DeSoto,Lewisburg East ,13
-Rickey L Cole,Commissioner of Agriculture & Commerce,,D,DeSoto,Lewisburg East ,12
-Robert E Amos,Commissioner of Insurance,,D,DeSoto,Lewisburg East ,12
-Lee A Jackson,State Senate,2,D,DeSoto,Lewisburg East ,X
-Dianne Black,State Senate,19,D,DeSoto,Lewisburg East ,X
-Zelda Hill,State House,7,D,DeSoto,Lewisburg East ,X
-Theresa Gillespie Isom,State House,7,D,DeSoto,Lewisburg East ,X
-Matt Williams,State House,28,D,DeSoto,Lewisburg East ,12
-Hester Jackson McCray,State House,40,D,DeSoto,Lewisburg East ,X
-Robert Foster,Governor ,,R,DeSoto,Love,482
-Tate Reeves,Governor ,,R,DeSoto,Love,143
-Bill Waller Jr.,Governor ,,R,DeSoto,Love,47
+Robert Foster,Governor,,R,DeSoto,Lewisburg East,76
+Tate Reeves,Governor,,R,DeSoto,Lewisburg East,106
+Bill Waller Jr.,Governor,,R,DeSoto,Lewisburg East,30
+Delbert Hosemann,Lieutenant Governor,,R,DeSoto,Lewisburg East,153
+Shane Quick,Lieutenant Governor,,R,DeSoto,Lewisburg East,46
+Sam Britton,Secretary of State,,R,DeSoto,Lewisburg East,82
+Michael Watson,Secretary of State,,R,DeSoto,Lewisburg East,117
+Mark Baker,Attorney General,,R,DeSoto,Lewisburg East,65
+Lynn Fitch,Attorney General,,R,DeSoto,Lewisburg East,79
+Andy Taggart,Attorney General,,R,DeSoto,Lewisburg East,59
+Shad White,State Auditor,,R,DeSoto,Lewisburg East,192
+Eugene S. 'Buck' Clarke,State Treasurer,,R,DeSoto,Lewisburg East,81
+David McRae,State Treasurer,,R,DeSoto,Lewisburg East,117
+Andy Gipson,Commissioner of Agriculture & Commerce,,R,DeSoto,Lewisburg East,192
+Mike Chaney,Commissioner of Insurance,,R,DeSoto,Lewisburg East,191
+Murry Haslip,State Senate,1,R,DeSoto,Lewisburg East,98
+Chris Massey,State Senate,1,R,DeSoto,Lewisburg East,88
+Michael W McLendon,State Senate,1,R,DeSoto,Lewisburg East,21
+David Parker,State Senate,2,R,DeSoto,Lewisburg East,x
+Kevin Blackwell,State Senate,19,R,DeSoto,Lewisburg East,x
+Dana Criswell,State House,6,R,DeSoto,Lewisburg East,X
+Mike Duncan,State House,6,R,DeSoto,Lewisburg East,X
+Steve Hopkins,State House,7,R,DeSoto,Lewisburg East,X
+Kimberly Remak,State House,7,R,DeSoto,Lewisburg East,X
+Jeft Hale,State House,24,R,DeSoto,Lewisburg East,X
+Randy Denton,State House,25,R,DeSoto,Lewisburg East,X
+Dan Eubanks,State House,25,R,DeSoto,Lewisburg East,X
+Jerry Darnell,State House,28,R,DeSoto,Lewisburg East,130
+W I 'Doc' Harris Jr.,State House,28,R,DeSoto,Lewisburg East,72
+Ashley Henley,State House,40,R,DeSoto,Lewisburg East,X
+Francis J Miller,State House,40,R,DeSoto,Lewisburg East,X
+Charlie Roberts,State House,40,R,DeSoto,Lewisburg East,X
+Bill Kinkade,State House,52,R,DeSoto,Lewisburg East,X
+Michael Brown,Governor,,D,DeSoto,Lewisburg East,2
+William Bond Compton Jr.,Governor,,D,DeSoto,Lewisburg East,0
+Jim Hood,Governor,,D,DeSoto,Lewisburg East,8
+Robert J. Ray,Governor,,D,DeSoto,Lewisburg East,1
+Robert Shuler Smith,Governor,,D,DeSoto,Lewisburg East,0
+Gregory Wash,Governor,,D,DeSoto,Lewisburg East,0
+Velesha P Williams,Governor,,D,DeSoto,Lewisburg East,1
+Albert Wilson,Governor,,D,DeSoto,Lewisburg East,0
+Jay Hughes,Lieutenant Governor,,D,DeSoto,Lewisburg East,11
+Johnny DuPree,Secretary of State,,D,DeSoto,Lewisburg East,10
+Maryra Hodges Hunt,Secretary of State,,D,DeSoto,Lewisburg East,3
+Jennifer Riley Collins,Attorney General,,D,DeSoto,Lewisburg East,12
+Addie Lee Green,State Treasurer,,D,DeSoto,Lewisburg East,13
+Rickey L Cole,Commissioner of Agriculture & Commerce,,D,DeSoto,Lewisburg East,12
+Robert E Amos,Commissioner of Insurance,,D,DeSoto,Lewisburg East,12
+Lee A Jackson,State Senate,2,D,DeSoto,Lewisburg East,X
+Dianne Black,State Senate,19,D,DeSoto,Lewisburg East,X
+Zelda Hill,State House,7,D,DeSoto,Lewisburg East,X
+Theresa Gillespie Isom,State House,7,D,DeSoto,Lewisburg East,X
+Matt Williams,State House,28,D,DeSoto,Lewisburg East,12
+Hester Jackson McCray,State House,40,D,DeSoto,Lewisburg East,X
+Robert Foster,Governor,,R,DeSoto,Love,482
+Tate Reeves,Governor,,R,DeSoto,Love,143
+Bill Waller Jr.,Governor,,R,DeSoto,Love,47
 Delbert Hosemann,Lieutenant Governor,,R,DeSoto,Love,466
 Shane Quick,Lieutenant Governor,,R,DeSoto,Love,137
 Sam Britton,Secretary of State,,R,DeSoto,Love,345
@@ -1368,7 +1368,7 @@ Murry Haslip,State Senate,1,R,DeSoto,Love,164
 Chris Massey,State Senate,1,R,DeSoto,Love,230
 Michael W McLendon,State Senate,1,R,DeSoto,Love,240
 David Parker,State Senate,2,R,DeSoto,Love,x
-Kevin Blackwell ,State Senate,19,R,DeSoto,Love,x
+Kevin Blackwell,State Senate,19,R,DeSoto,Love,x
 Dana Criswell,State House,6,R,DeSoto,Love,X
 Mike Duncan,State House,6,R,DeSoto,Love,X
 Steve Hopkins,State House,7,R,DeSoto,Love,X
@@ -1377,19 +1377,19 @@ Jeft Hale,State House,24,R,DeSoto,Love,X
 Randy Denton,State House,25,R,DeSoto,Love,X
 Dan Eubanks,State House,25,R,DeSoto,Love,X
 Jerry Darnell,State House,28,R,DeSoto,Love,361
-W I 'Doc' Harris Jr. ,State House,28,R,DeSoto,Love,286
+W I 'Doc' Harris Jr.,State House,28,R,DeSoto,Love,286
 Ashley Henley,State House,40,R,DeSoto,Love,X
 Francis J Miller,State House,40,R,DeSoto,Love,X
 Charlie Roberts,State House,40,R,DeSoto,Love,X
 Bill Kinkade,State House,52,R,DeSoto,Love,X
-Michael Brown,Governor ,,D,DeSoto,Love,7
-William Bond Compton Jr.,Governor ,,D,DeSoto,Love,1
-Jim Hood,Governor ,,D,DeSoto,Love,18
-Robert J. Ray,Governor ,,D,DeSoto,Love,2
-Robert Shuler Smith,Governor ,,D,DeSoto,Love,2
-Gregory Wash,Governor ,,D,DeSoto,Love,0
-Velesha P Williams,Governor ,,D,DeSoto,Love,4
-Albert Wilson,Governor ,,D,DeSoto,Love,0
+Michael Brown,Governor,,D,DeSoto,Love,7
+William Bond Compton Jr.,Governor,,D,DeSoto,Love,1
+Jim Hood,Governor,,D,DeSoto,Love,18
+Robert J. Ray,Governor,,D,DeSoto,Love,2
+Robert Shuler Smith,Governor,,D,DeSoto,Love,2
+Gregory Wash,Governor,,D,DeSoto,Love,0
+Velesha P Williams,Governor,,D,DeSoto,Love,4
+Albert Wilson,Governor,,D,DeSoto,Love,0
 Jay Hughes,Lieutenant Governor,,D,DeSoto,Love,32
 Johnny DuPree,Secretary of State,,D,DeSoto,Love,18
 Maryra Hodges Hunt,Secretary of State,,D,DeSoto,Love,14
@@ -1403,9 +1403,9 @@ Zelda Hill,State House,7,D,DeSoto,Love,X
 Theresa Gillespie Isom,State House,7,D,DeSoto,Love,X
 Matt Williams,State House,28,D,DeSoto,Love,29
 Hester Jackson McCray,State House,40,D,DeSoto,Love,X
-Robert Foster,Governor ,,R,DeSoto,Miller,130
-Tate Reeves,Governor ,,R,DeSoto,Miller,192
-Bill Waller Jr.,Governor ,,R,DeSoto,Miller,48
+Robert Foster,Governor,,R,DeSoto,Miller,130
+Tate Reeves,Governor,,R,DeSoto,Miller,192
+Bill Waller Jr.,Governor,,R,DeSoto,Miller,48
 Delbert Hosemann,Lieutenant Governor,,R,DeSoto,Miller,266
 Shane Quick,Lieutenant Governor,,R,DeSoto,Miller,77
 Sam Britton,Secretary of State,,R,DeSoto,Miller,175
@@ -1422,7 +1422,7 @@ Murry Haslip,State Senate,1,R,DeSoto,Miller,x
 Chris Massey,State Senate,1,R,DeSoto,Miller,x
 Michael W McLendon,State Senate,1,R,DeSoto,Miller,x
 David Parker,State Senate,2,R,DeSoto,Miller,x
-Kevin Blackwell ,State Senate,19,R,DeSoto,Miller,312
+Kevin Blackwell,State Senate,19,R,DeSoto,Miller,312
 Dana Criswell,State House,6,R,DeSoto,Miller,X
 Mike Duncan,State House,6,R,DeSoto,Miller,X
 Steve Hopkins,State House,7,R,DeSoto,Miller,X
@@ -1431,19 +1431,19 @@ Jeft Hale,State House,24,R,DeSoto,Miller,X
 Randy Denton,State House,25,R,DeSoto,Miller,X
 Dan Eubanks,State House,25,R,DeSoto,Miller,X
 Jerry Darnell,State House,28,R,DeSoto,Miller,6
-W I 'Doc' Harris Jr. ,State House,28,R,DeSoto,Miller,4
+W I 'Doc' Harris Jr.,State House,28,R,DeSoto,Miller,4
 Ashley Henley,State House,40,R,DeSoto,Miller,X
 Francis J Miller,State House,40,R,DeSoto,Miller,X
 Charlie Roberts,State House,40,R,DeSoto,Miller,X
 Bill Kinkade,State House,52,R,DeSoto,Miller,299
-Michael Brown,Governor ,,D,DeSoto,Miller,10
-William Bond Compton Jr.,Governor ,,D,DeSoto,Miller,1
-Jim Hood,Governor ,,D,DeSoto,Miller,53
-Robert J. Ray,Governor ,,D,DeSoto,Miller,2
-Robert Shuler Smith,Governor ,,D,DeSoto,Miller,7
-Gregory Wash,Governor ,,D,DeSoto,Miller,0
-Velesha P Williams,Governor ,,D,DeSoto,Miller,31
-Albert Wilson,Governor ,,D,DeSoto,Miller,0
+Michael Brown,Governor,,D,DeSoto,Miller,10
+William Bond Compton Jr.,Governor,,D,DeSoto,Miller,1
+Jim Hood,Governor,,D,DeSoto,Miller,53
+Robert J. Ray,Governor,,D,DeSoto,Miller,2
+Robert Shuler Smith,Governor,,D,DeSoto,Miller,7
+Gregory Wash,Governor,,D,DeSoto,Miller,0
+Velesha P Williams,Governor,,D,DeSoto,Miller,31
+Albert Wilson,Governor,,D,DeSoto,Miller,0
 Jay Hughes,Lieutenant Governor,,D,DeSoto,Miller,95
 Johnny DuPree,Secretary of State,,D,DeSoto,Miller,61
 Maryra Hodges Hunt,Secretary of State,,D,DeSoto,Miller,45
@@ -1457,9 +1457,9 @@ Zelda Hill,State House,7,D,DeSoto,Miller,X
 Theresa Gillespie Isom,State House,7,D,DeSoto,Miller,X
 Matt Williams,State House,28,D,DeSoto,Miller,33
 Hester Jackson McCray,State House,40,D,DeSoto,Miller,X
-Robert Foster,Governor ,,R,DeSoto,Mineral Wells,211
-Tate Reeves,Governor ,,R,DeSoto,Mineral Wells,319
-Bill Waller Jr.,Governor ,,R,DeSoto,Mineral Wells,98
+Robert Foster,Governor,,R,DeSoto,Mineral Wells,211
+Tate Reeves,Governor,,R,DeSoto,Mineral Wells,319
+Bill Waller Jr.,Governor,,R,DeSoto,Mineral Wells,98
 Delbert Hosemann,Lieutenant Governor,,R,DeSoto,Mineral Wells,436
 Shane Quick,Lieutenant Governor,,R,DeSoto,Mineral Wells,138
 Sam Britton,Secretary of State,,R,DeSoto,Mineral Wells,233
@@ -1476,7 +1476,7 @@ Murry Haslip,State Senate,1,R,DeSoto,Mineral Wells,x
 Chris Massey,State Senate,1,R,DeSoto,Mineral Wells,x
 Michael W McLendon,State Senate,1,R,DeSoto,Mineral Wells,x
 David Parker,State Senate,2,R,DeSoto,Mineral Wells,x
-Kevin Blackwell ,State Senate,19,R,DeSoto,Mineral Wells,506
+Kevin Blackwell,State Senate,19,R,DeSoto,Mineral Wells,506
 Dana Criswell,State House,6,R,DeSoto,Mineral Wells,251
 Mike Duncan,State House,6,R,DeSoto,Mineral Wells,202
 Steve Hopkins,State House,7,R,DeSoto,Mineral Wells,70
@@ -1485,19 +1485,19 @@ Jeft Hale,State House,24,R,DeSoto,Mineral Wells,26
 Randy Denton,State House,25,R,DeSoto,Mineral Wells,X
 Dan Eubanks,State House,25,R,DeSoto,Mineral Wells,X
 Jerry Darnell,State House,28,R,DeSoto,Mineral Wells,X
-W I 'Doc' Harris Jr. ,State House,28,R,DeSoto,Mineral Wells,X
+W I 'Doc' Harris Jr.,State House,28,R,DeSoto,Mineral Wells,X
 Ashley Henley,State House,40,R,DeSoto,Mineral Wells,X
 Francis J Miller,State House,40,R,DeSoto,Mineral Wells,X
 Charlie Roberts,State House,40,R,DeSoto,Mineral Wells,X
 Bill Kinkade,State House,52,R,DeSoto,Mineral Wells,X
-Michael Brown,Governor ,,D,DeSoto,Mineral Wells,43
-William Bond Compton Jr.,Governor ,,D,DeSoto,Mineral Wells,3
-Jim Hood,Governor ,,D,DeSoto,Mineral Wells,89
-Robert J. Ray,Governor ,,D,DeSoto,Mineral Wells,4
-Robert Shuler Smith,Governor ,,D,DeSoto,Mineral Wells,8
-Gregory Wash,Governor ,,D,DeSoto,Mineral Wells,2
-Velesha P Williams,Governor ,,D,DeSoto,Mineral Wells,42
-Albert Wilson,Governor ,,D,DeSoto,Mineral Wells,5
+Michael Brown,Governor,,D,DeSoto,Mineral Wells,43
+William Bond Compton Jr.,Governor,,D,DeSoto,Mineral Wells,3
+Jim Hood,Governor,,D,DeSoto,Mineral Wells,89
+Robert J. Ray,Governor,,D,DeSoto,Mineral Wells,4
+Robert Shuler Smith,Governor,,D,DeSoto,Mineral Wells,8
+Gregory Wash,Governor,,D,DeSoto,Mineral Wells,2
+Velesha P Williams,Governor,,D,DeSoto,Mineral Wells,42
+Albert Wilson,Governor,,D,DeSoto,Mineral Wells,5
 Jay Hughes,Lieutenant Governor,,D,DeSoto,Mineral Wells,173
 Johnny DuPree,Secretary of State,,D,DeSoto,Mineral Wells,96
 Maryra Hodges Hunt,Secretary of State,,D,DeSoto,Mineral Wells,92
@@ -1511,117 +1511,117 @@ Zelda Hill,State House,7,D,DeSoto,Mineral Wells,13
 Theresa Gillespie Isom,State House,7,D,DeSoto,Mineral Wells,35
 Matt Williams,State House,28,D,DeSoto,Mineral Wells,X
 Hester Jackson McCray,State House,40,D,DeSoto,Mineral Wells,X
-Robert Foster,Governor ,,R,DeSoto,Nesbit East ,306
-Tate Reeves,Governor ,,R,DeSoto,Nesbit East ,138
-Bill Waller Jr.,Governor ,,R,DeSoto,Nesbit East ,69
-Delbert Hosemann,Lieutenant Governor,,R,DeSoto,Nesbit East ,354
-Shane Quick,Lieutenant Governor,,R,DeSoto,Nesbit East ,108
-Sam Britton,Secretary of State,,R,DeSoto,Nesbit East ,168
-Michael Watson,Secretary of State,,R,DeSoto,Nesbit East ,283
-Mark Baker,Attorney General,,R,DeSoto,Nesbit East ,173
-Lynn Fitch,Attorney General,,R,DeSoto,Nesbit East ,188
-Andy Taggart,Attorney General,,R,DeSoto,Nesbit East ,106
-Shad White,State Auditor,,R,DeSoto,Nesbit East ,409
-Eugene S. 'Buck' Clarke,State Treasurer,,R,DeSoto,Nesbit East ,158
-David McRae,State Treasurer,,R,DeSoto,Nesbit East ,295
-Andy Gipson,Commissioner of Agriculture & Commerce,,R,DeSoto,Nesbit East ,415
-Mike Chaney,Commissioner of Insurance,,R,DeSoto,Nesbit East ,412
-Murry Haslip,State Senate,1,R,DeSoto,Nesbit East ,120
-Chris Massey,State Senate,1,R,DeSoto,Nesbit East ,286
-Michael W McLendon,State Senate,1,R,DeSoto,Nesbit East ,80
-David Parker,State Senate,2,R,DeSoto,Nesbit East ,x
-Kevin Blackwell ,State Senate,19,R,DeSoto,Nesbit East ,x
-Dana Criswell,State House,6,R,DeSoto,Nesbit East ,x
-Mike Duncan,State House,6,R,DeSoto,Nesbit East ,x
-Steve Hopkins,State House,7,R,DeSoto,Nesbit East ,x
-Kimberly Remak,State House,7,R,DeSoto,Nesbit East ,x
-Jeft Hale,State House,24,R,DeSoto,Nesbit East ,413
-Randy Denton,State House,25,R,DeSoto,Nesbit East ,X
-Dan Eubanks,State House,25,R,DeSoto,Nesbit East ,X
-Jerry Darnell,State House,28,R,DeSoto,Nesbit East ,X
-W I 'Doc' Harris Jr. ,State House,28,R,DeSoto,Nesbit East ,X
-Ashley Henley,State House,40,R,DeSoto,Nesbit East ,X
-Francis J Miller,State House,40,R,DeSoto,Nesbit East ,X
-Charlie Roberts,State House,40,R,DeSoto,Nesbit East ,X
-Bill Kinkade,State House,52,R,DeSoto,Nesbit East ,X
-Michael Brown,Governor ,,D,DeSoto,Nesbit East ,19
-William Bond Compton Jr.,Governor ,,D,DeSoto,Nesbit East ,2
-Jim Hood,Governor ,,D,DeSoto,Nesbit East ,59
-Robert J. Ray,Governor ,,D,DeSoto,Nesbit East ,2
-Robert Shuler Smith,Governor ,,D,DeSoto,Nesbit East ,5
-Gregory Wash,Governor ,,D,DeSoto,Nesbit East ,0
-Velesha P Williams,Governor ,,D,DeSoto,Nesbit East ,22
-Albert Wilson,Governor ,,D,DeSoto,Nesbit East ,7
-Jay Hughes,Lieutenant Governor,,D,DeSoto,Nesbit East ,98
-Johnny DuPree,Secretary of State,,D,DeSoto,Nesbit East ,63
-Maryra Hodges Hunt,Secretary of State,,D,DeSoto,Nesbit East ,49
-Jennifer Riley Collins,Attorney General,,D,DeSoto,Nesbit East ,104
-Addie Lee Green,State Treasurer,,D,DeSoto,Nesbit East ,105
-Rickey L Cole,Commissioner of Agriculture & Commerce,,D,DeSoto,Nesbit East ,105
-Robert E Amos,Commissioner of Insurance,,D,DeSoto,Nesbit East ,104
-Lee A Jackson,State Senate,2,D,DeSoto,Nesbit East ,X
-Dianne Black,State Senate,19,D,DeSoto,Nesbit East ,X
-Zelda Hill,State House,7,D,DeSoto,Nesbit East ,X
-Theresa Gillespie Isom,State House,7,D,DeSoto,Nesbit East ,X
-Matt Williams,State House,28,D,DeSoto,Nesbit East ,X
-Hester Jackson McCray,State House,40,D,DeSoto,Nesbit East ,X
-Robert Foster,Governor ,,R,DeSoto,Nesbit West ,340
-Tate Reeves,Governor ,,R,DeSoto,Nesbit West ,194
-Bill Waller Jr.,Governor ,,R,DeSoto,Nesbit West ,30
-Delbert Hosemann,Lieutenant Governor,,R,DeSoto,Nesbit West ,376
-Shane Quick,Lieutenant Governor,,R,DeSoto,Nesbit West ,132
-Sam Britton,Secretary of State,,R,DeSoto,Nesbit West ,228
-Michael Watson,Secretary of State,,R,DeSoto,Nesbit West ,262
-Mark Baker,Attorney General,,R,DeSoto,Nesbit West ,196
-Lynn Fitch,Attorney General,,R,DeSoto,Nesbit West ,216
-Andy Taggart,Attorney General,,R,DeSoto,Nesbit West ,107
-Shad White,State Auditor,,R,DeSoto,Nesbit West ,454
-Eugene S. 'Buck' Clarke,State Treasurer,,R,DeSoto,Nesbit West ,211
-David McRae,State Treasurer,,R,DeSoto,Nesbit West ,289
-Andy Gipson,Commissioner of Agriculture & Commerce,,R,DeSoto,Nesbit West ,463
-Mike Chaney,Commissioner of Insurance,,R,DeSoto,Nesbit West ,458
-Murry Haslip,State Senate,1,R,DeSoto,Nesbit West ,143
-Chris Massey,State Senate,1,R,DeSoto,Nesbit West ,266
-Michael W McLendon,State Senate,1,R,DeSoto,Nesbit West ,124
-David Parker,State Senate,2,R,DeSoto,Nesbit West ,x
-Kevin Blackwell ,State Senate,19,R,DeSoto,Nesbit West ,x
-Dana Criswell,State House,6,R,DeSoto,Nesbit West ,x
-Mike Duncan,State House,6,R,DeSoto,Nesbit West ,x
-Steve Hopkins,State House,7,R,DeSoto,Nesbit West ,x
-Kimberly Remak,State House,7,R,DeSoto,Nesbit West ,x
-Jeft Hale,State House,24,R,DeSoto,Nesbit West ,X
-Randy Denton,State House,25,R,DeSoto,Nesbit West ,245
-Dan Eubanks,State House,25,R,DeSoto,Nesbit West ,293
-Jerry Darnell,State House,28,R,DeSoto,Nesbit West ,X
-W I 'Doc' Harris Jr. ,State House,28,R,DeSoto,Nesbit West ,X
-Ashley Henley,State House,40,R,DeSoto,Nesbit West ,X
-Francis J Miller,State House,40,R,DeSoto,Nesbit West ,X
-Charlie Roberts,State House,40,R,DeSoto,Nesbit West ,X
-Bill Kinkade,State House,52,R,DeSoto,Nesbit West ,X
-Michael Brown,Governor ,,D,DeSoto,Nesbit West ,20
-William Bond Compton Jr.,Governor ,,D,DeSoto,Nesbit West ,8
-Jim Hood,Governor ,,D,DeSoto,Nesbit West ,42
-Robert J. Ray,Governor ,,D,DeSoto,Nesbit West ,4
-Robert Shuler Smith,Governor ,,D,DeSoto,Nesbit West ,5
-Gregory Wash,Governor ,,D,DeSoto,Nesbit West ,4
-Velesha P Williams,Governor ,,D,DeSoto,Nesbit West ,17
-Albert Wilson,Governor ,,D,DeSoto,Nesbit West ,2
-Jay Hughes,Lieutenant Governor,,D,DeSoto,Nesbit West ,88
-Johnny DuPree,Secretary of State,,D,DeSoto,Nesbit West ,51
-Maryra Hodges Hunt,Secretary of State,,D,DeSoto,Nesbit West ,46
-Jennifer Riley Collins,Attorney General,,D,DeSoto,Nesbit West ,88
-Addie Lee Green,State Treasurer,,D,DeSoto,Nesbit West ,88
-Rickey L Cole,Commissioner of Agriculture & Commerce,,D,DeSoto,Nesbit West ,87
-Robert E Amos,Commissioner of Insurance,,D,DeSoto,Nesbit West ,84
-Lee A Jackson,State Senate,2,D,DeSoto,Nesbit West ,X
-Dianne Black,State Senate,19,D,DeSoto,Nesbit West ,X
-Zelda Hill,State House,7,D,DeSoto,Nesbit West ,X
-Theresa Gillespie Isom,State House,7,D,DeSoto,Nesbit West ,X
-Matt Williams,State House,28,D,DeSoto,Nesbit West ,X
-Hester Jackson McCray,State House,40,D,DeSoto,Nesbit West ,X
-Robert Foster,Governor ,,R,DeSoto,Northwest Community College,128
-Tate Reeves,Governor ,,R,DeSoto,Northwest Community College,170
-Bill Waller Jr.,Governor ,,R,DeSoto,Northwest Community College,71
+Robert Foster,Governor,,R,DeSoto,Nesbit East,306
+Tate Reeves,Governor,,R,DeSoto,Nesbit East,138
+Bill Waller Jr.,Governor,,R,DeSoto,Nesbit East,69
+Delbert Hosemann,Lieutenant Governor,,R,DeSoto,Nesbit East,354
+Shane Quick,Lieutenant Governor,,R,DeSoto,Nesbit East,108
+Sam Britton,Secretary of State,,R,DeSoto,Nesbit East,168
+Michael Watson,Secretary of State,,R,DeSoto,Nesbit East,283
+Mark Baker,Attorney General,,R,DeSoto,Nesbit East,173
+Lynn Fitch,Attorney General,,R,DeSoto,Nesbit East,188
+Andy Taggart,Attorney General,,R,DeSoto,Nesbit East,106
+Shad White,State Auditor,,R,DeSoto,Nesbit East,409
+Eugene S. 'Buck' Clarke,State Treasurer,,R,DeSoto,Nesbit East,158
+David McRae,State Treasurer,,R,DeSoto,Nesbit East,295
+Andy Gipson,Commissioner of Agriculture & Commerce,,R,DeSoto,Nesbit East,415
+Mike Chaney,Commissioner of Insurance,,R,DeSoto,Nesbit East,412
+Murry Haslip,State Senate,1,R,DeSoto,Nesbit East,120
+Chris Massey,State Senate,1,R,DeSoto,Nesbit East,286
+Michael W McLendon,State Senate,1,R,DeSoto,Nesbit East,80
+David Parker,State Senate,2,R,DeSoto,Nesbit East,x
+Kevin Blackwell,State Senate,19,R,DeSoto,Nesbit East,x
+Dana Criswell,State House,6,R,DeSoto,Nesbit East,x
+Mike Duncan,State House,6,R,DeSoto,Nesbit East,x
+Steve Hopkins,State House,7,R,DeSoto,Nesbit East,x
+Kimberly Remak,State House,7,R,DeSoto,Nesbit East,x
+Jeft Hale,State House,24,R,DeSoto,Nesbit East,413
+Randy Denton,State House,25,R,DeSoto,Nesbit East,X
+Dan Eubanks,State House,25,R,DeSoto,Nesbit East,X
+Jerry Darnell,State House,28,R,DeSoto,Nesbit East,X
+W I 'Doc' Harris Jr.,State House,28,R,DeSoto,Nesbit East,X
+Ashley Henley,State House,40,R,DeSoto,Nesbit East,X
+Francis J Miller,State House,40,R,DeSoto,Nesbit East,X
+Charlie Roberts,State House,40,R,DeSoto,Nesbit East,X
+Bill Kinkade,State House,52,R,DeSoto,Nesbit East,X
+Michael Brown,Governor,,D,DeSoto,Nesbit East,19
+William Bond Compton Jr.,Governor,,D,DeSoto,Nesbit East,2
+Jim Hood,Governor,,D,DeSoto,Nesbit East,59
+Robert J. Ray,Governor,,D,DeSoto,Nesbit East,2
+Robert Shuler Smith,Governor,,D,DeSoto,Nesbit East,5
+Gregory Wash,Governor,,D,DeSoto,Nesbit East,0
+Velesha P Williams,Governor,,D,DeSoto,Nesbit East,22
+Albert Wilson,Governor,,D,DeSoto,Nesbit East,7
+Jay Hughes,Lieutenant Governor,,D,DeSoto,Nesbit East,98
+Johnny DuPree,Secretary of State,,D,DeSoto,Nesbit East,63
+Maryra Hodges Hunt,Secretary of State,,D,DeSoto,Nesbit East,49
+Jennifer Riley Collins,Attorney General,,D,DeSoto,Nesbit East,104
+Addie Lee Green,State Treasurer,,D,DeSoto,Nesbit East,105
+Rickey L Cole,Commissioner of Agriculture & Commerce,,D,DeSoto,Nesbit East,105
+Robert E Amos,Commissioner of Insurance,,D,DeSoto,Nesbit East,104
+Lee A Jackson,State Senate,2,D,DeSoto,Nesbit East,X
+Dianne Black,State Senate,19,D,DeSoto,Nesbit East,X
+Zelda Hill,State House,7,D,DeSoto,Nesbit East,X
+Theresa Gillespie Isom,State House,7,D,DeSoto,Nesbit East,X
+Matt Williams,State House,28,D,DeSoto,Nesbit East,X
+Hester Jackson McCray,State House,40,D,DeSoto,Nesbit East,X
+Robert Foster,Governor,,R,DeSoto,Nesbit West,340
+Tate Reeves,Governor,,R,DeSoto,Nesbit West,194
+Bill Waller Jr.,Governor,,R,DeSoto,Nesbit West,30
+Delbert Hosemann,Lieutenant Governor,,R,DeSoto,Nesbit West,376
+Shane Quick,Lieutenant Governor,,R,DeSoto,Nesbit West,132
+Sam Britton,Secretary of State,,R,DeSoto,Nesbit West,228
+Michael Watson,Secretary of State,,R,DeSoto,Nesbit West,262
+Mark Baker,Attorney General,,R,DeSoto,Nesbit West,196
+Lynn Fitch,Attorney General,,R,DeSoto,Nesbit West,216
+Andy Taggart,Attorney General,,R,DeSoto,Nesbit West,107
+Shad White,State Auditor,,R,DeSoto,Nesbit West,454
+Eugene S. 'Buck' Clarke,State Treasurer,,R,DeSoto,Nesbit West,211
+David McRae,State Treasurer,,R,DeSoto,Nesbit West,289
+Andy Gipson,Commissioner of Agriculture & Commerce,,R,DeSoto,Nesbit West,463
+Mike Chaney,Commissioner of Insurance,,R,DeSoto,Nesbit West,458
+Murry Haslip,State Senate,1,R,DeSoto,Nesbit West,143
+Chris Massey,State Senate,1,R,DeSoto,Nesbit West,266
+Michael W McLendon,State Senate,1,R,DeSoto,Nesbit West,124
+David Parker,State Senate,2,R,DeSoto,Nesbit West,x
+Kevin Blackwell,State Senate,19,R,DeSoto,Nesbit West,x
+Dana Criswell,State House,6,R,DeSoto,Nesbit West,x
+Mike Duncan,State House,6,R,DeSoto,Nesbit West,x
+Steve Hopkins,State House,7,R,DeSoto,Nesbit West,x
+Kimberly Remak,State House,7,R,DeSoto,Nesbit West,x
+Jeft Hale,State House,24,R,DeSoto,Nesbit West,X
+Randy Denton,State House,25,R,DeSoto,Nesbit West,245
+Dan Eubanks,State House,25,R,DeSoto,Nesbit West,293
+Jerry Darnell,State House,28,R,DeSoto,Nesbit West,X
+W I 'Doc' Harris Jr.,State House,28,R,DeSoto,Nesbit West,X
+Ashley Henley,State House,40,R,DeSoto,Nesbit West,X
+Francis J Miller,State House,40,R,DeSoto,Nesbit West,X
+Charlie Roberts,State House,40,R,DeSoto,Nesbit West,X
+Bill Kinkade,State House,52,R,DeSoto,Nesbit West,X
+Michael Brown,Governor,,D,DeSoto,Nesbit West,20
+William Bond Compton Jr.,Governor,,D,DeSoto,Nesbit West,8
+Jim Hood,Governor,,D,DeSoto,Nesbit West,42
+Robert J. Ray,Governor,,D,DeSoto,Nesbit West,4
+Robert Shuler Smith,Governor,,D,DeSoto,Nesbit West,5
+Gregory Wash,Governor,,D,DeSoto,Nesbit West,4
+Velesha P Williams,Governor,,D,DeSoto,Nesbit West,17
+Albert Wilson,Governor,,D,DeSoto,Nesbit West,2
+Jay Hughes,Lieutenant Governor,,D,DeSoto,Nesbit West,88
+Johnny DuPree,Secretary of State,,D,DeSoto,Nesbit West,51
+Maryra Hodges Hunt,Secretary of State,,D,DeSoto,Nesbit West,46
+Jennifer Riley Collins,Attorney General,,D,DeSoto,Nesbit West,88
+Addie Lee Green,State Treasurer,,D,DeSoto,Nesbit West,88
+Rickey L Cole,Commissioner of Agriculture & Commerce,,D,DeSoto,Nesbit West,87
+Robert E Amos,Commissioner of Insurance,,D,DeSoto,Nesbit West,84
+Lee A Jackson,State Senate,2,D,DeSoto,Nesbit West,X
+Dianne Black,State Senate,19,D,DeSoto,Nesbit West,X
+Zelda Hill,State House,7,D,DeSoto,Nesbit West,X
+Theresa Gillespie Isom,State House,7,D,DeSoto,Nesbit West,X
+Matt Williams,State House,28,D,DeSoto,Nesbit West,X
+Hester Jackson McCray,State House,40,D,DeSoto,Nesbit West,X
+Robert Foster,Governor,,R,DeSoto,Northwest Community College,128
+Tate Reeves,Governor,,R,DeSoto,Northwest Community College,170
+Bill Waller Jr.,Governor,,R,DeSoto,Northwest Community College,71
 Delbert Hosemann,Lieutenant Governor,,R,DeSoto,Northwest Community College,258
 Shane Quick,Lieutenant Governor,,R,DeSoto,Northwest Community College,85
 Sam Britton,Secretary of State,,R,DeSoto,Northwest Community College,127
@@ -1638,7 +1638,7 @@ Murry Haslip,State Senate,1,R,DeSoto,Northwest Community College,59
 Chris Massey,State Senate,1,R,DeSoto,Northwest Community College,207
 Michael W McLendon,State Senate,1,R,DeSoto,Northwest Community College,76
 David Parker,State Senate,2,R,DeSoto,Northwest Community College,12
-Kevin Blackwell ,State Senate,19,R,DeSoto,Northwest Community College,x
+Kevin Blackwell,State Senate,19,R,DeSoto,Northwest Community College,x
 Dana Criswell,State House,6,R,DeSoto,Northwest Community College,x
 Mike Duncan,State House,6,R,DeSoto,Northwest Community College,x
 Steve Hopkins,State House,7,R,DeSoto,Northwest Community College,x
@@ -1647,19 +1647,19 @@ Jeft Hale,State House,24,R,DeSoto,Northwest Community College,313
 Randy Denton,State House,25,R,DeSoto,Northwest Community College,X
 Dan Eubanks,State House,25,R,DeSoto,Northwest Community College,X
 Jerry Darnell,State House,28,R,DeSoto,Northwest Community College,X
-W I 'Doc' Harris Jr. ,State House,28,R,DeSoto,Northwest Community College,X
+W I 'Doc' Harris Jr.,State House,28,R,DeSoto,Northwest Community College,X
 Ashley Henley,State House,40,R,DeSoto,Northwest Community College,X
 Francis J Miller,State House,40,R,DeSoto,Northwest Community College,X
 Charlie Roberts,State House,40,R,DeSoto,Northwest Community College,X
 Bill Kinkade,State House,52,R,DeSoto,Northwest Community College,X
-Michael Brown,Governor ,,D,DeSoto,Northwest Community College,26
-William Bond Compton Jr.,Governor ,,D,DeSoto,Northwest Community College,1
-Jim Hood,Governor ,,D,DeSoto,Northwest Community College,56
-Robert J. Ray,Governor ,,D,DeSoto,Northwest Community College,0
-Robert Shuler Smith,Governor ,,D,DeSoto,Northwest Community College,6
-Gregory Wash,Governor ,,D,DeSoto,Northwest Community College,2
-Velesha P Williams,Governor ,,D,DeSoto,Northwest Community College,24
-Albert Wilson,Governor ,,D,DeSoto,Northwest Community College,1
+Michael Brown,Governor,,D,DeSoto,Northwest Community College,26
+William Bond Compton Jr.,Governor,,D,DeSoto,Northwest Community College,1
+Jim Hood,Governor,,D,DeSoto,Northwest Community College,56
+Robert J. Ray,Governor,,D,DeSoto,Northwest Community College,0
+Robert Shuler Smith,Governor,,D,DeSoto,Northwest Community College,6
+Gregory Wash,Governor,,D,DeSoto,Northwest Community College,2
+Velesha P Williams,Governor,,D,DeSoto,Northwest Community College,24
+Albert Wilson,Governor,,D,DeSoto,Northwest Community College,1
 Jay Hughes,Lieutenant Governor,,D,DeSoto,Northwest Community College,106
 Johnny DuPree,Secretary of State,,D,DeSoto,Northwest Community College,54
 Maryra Hodges Hunt,Secretary of State,,D,DeSoto,Northwest Community College,55
@@ -1673,117 +1673,117 @@ Zelda Hill,State House,7,D,DeSoto,Northwest Community College,X
 Theresa Gillespie Isom,State House,7,D,DeSoto,Northwest Community College,X
 Matt Williams,State House,28,D,DeSoto,Northwest Community College,X
 Hester Jackson McCray,State House,40,D,DeSoto,Northwest Community College,X
-Robert Foster,Governor ,,R,DeSoto,Olive Branch East ,88
-Tate Reeves,Governor ,,R,DeSoto,Olive Branch East ,117
-Bill Waller Jr.,Governor ,,R,DeSoto,Olive Branch East ,28
-Delbert Hosemann,Lieutenant Governor,,R,DeSoto,Olive Branch East ,161
-Shane Quick,Lieutenant Governor,,R,DeSoto,Olive Branch East ,63
-Sam Britton,Secretary of State,,R,DeSoto,Olive Branch East ,112
-Michael Watson,Secretary of State,,R,DeSoto,Olive Branch East ,111
-Mark Baker,Attorney General,,R,DeSoto,Olive Branch East ,111
-Lynn Fitch,Attorney General,,R,DeSoto,Olive Branch East ,60
-Andy Taggart,Attorney General,,R,DeSoto,Olive Branch East ,55
-Shad White,State Auditor,,R,DeSoto,Olive Branch East ,214
-Eugene S. 'Buck' Clarke,State Treasurer,,R,DeSoto,Olive Branch East ,77
-David McRae,State Treasurer,,R,DeSoto,Olive Branch East ,143
-Andy Gipson,Commissioner of Agriculture & Commerce,,R,DeSoto,Olive Branch East ,216
-Mike Chaney,Commissioner of Insurance,,R,DeSoto,Olive Branch East ,214
-Murry Haslip,State Senate,1,R,DeSoto,Olive Branch East ,x
-Chris Massey,State Senate,1,R,DeSoto,Olive Branch East ,x
-Michael W McLendon,State Senate,1,R,DeSoto,Olive Branch East ,x
-David Parker,State Senate,2,R,DeSoto,Olive Branch East ,x
-Kevin Blackwell ,State Senate,19,R,DeSoto,Olive Branch East ,213
-Dana Criswell,State House,6,R,DeSoto,Olive Branch East ,x
-Mike Duncan,State House,6,R,DeSoto,Olive Branch East ,x
-Steve Hopkins,State House,7,R,DeSoto,Olive Branch East ,x
-Kimberly Remak,State House,7,R,DeSoto,Olive Branch East ,x
-Jeft Hale,State House,24,R,DeSoto,Olive Branch East ,X
-Randy Denton,State House,25,R,DeSoto,Olive Branch East ,X
-Dan Eubanks,State House,25,R,DeSoto,Olive Branch East ,X
-Jerry Darnell,State House,28,R,DeSoto,Olive Branch East ,X
-W I 'Doc' Harris Jr. ,State House,28,R,DeSoto,Olive Branch East ,X
-Ashley Henley,State House,40,R,DeSoto,Olive Branch East ,X
-Francis J Miller,State House,40,R,DeSoto,Olive Branch East ,X
-Charlie Roberts,State House,40,R,DeSoto,Olive Branch East ,X
-Bill Kinkade,State House,52,R,DeSoto,Olive Branch East ,213
-Michael Brown,Governor ,,D,DeSoto,Olive Branch East ,24
-William Bond Compton Jr.,Governor ,,D,DeSoto,Olive Branch East ,6
-Jim Hood,Governor ,,D,DeSoto,Olive Branch East ,54
-Robert J. Ray,Governor ,,D,DeSoto,Olive Branch East ,1
-Robert Shuler Smith,Governor ,,D,DeSoto,Olive Branch East ,4
-Gregory Wash,Governor ,,D,DeSoto,Olive Branch East ,1
-Velesha P Williams,Governor ,,D,DeSoto,Olive Branch East ,12
-Albert Wilson,Governor ,,D,DeSoto,Olive Branch East ,5
-Jay Hughes,Lieutenant Governor,,D,DeSoto,Olive Branch East ,85
-Johnny DuPree,Secretary of State,,D,DeSoto,Olive Branch East ,52
-Maryra Hodges Hunt,Secretary of State,,D,DeSoto,Olive Branch East ,49
-Jennifer Riley Collins,Attorney General,,D,DeSoto,Olive Branch East ,86
-Addie Lee Green,State Treasurer,,D,DeSoto,Olive Branch East ,85
-Rickey L Cole,Commissioner of Agriculture & Commerce,,D,DeSoto,Olive Branch East ,90
-Robert E Amos,Commissioner of Insurance,,D,DeSoto,Olive Branch East ,84
-Lee A Jackson,State Senate,2,D,DeSoto,Olive Branch East ,X
-Dianne Black,State Senate,19,D,DeSoto,Olive Branch East ,105
-Zelda Hill,State House,7,D,DeSoto,Olive Branch East ,X
-Theresa Gillespie Isom,State House,7,D,DeSoto,Olive Branch East ,X
-Matt Williams,State House,28,D,DeSoto,Olive Branch East ,X
-Hester Jackson McCray,State House,40,D,DeSoto,Olive Branch East ,X
-Robert Foster,Governor ,,R,DeSoto,Olive Branch North ,100
-Tate Reeves,Governor ,,R,DeSoto,Olive Branch North ,235
-Bill Waller Jr.,Governor ,,R,DeSoto,Olive Branch North ,79
-Delbert Hosemann,Lieutenant Governor,,R,DeSoto,Olive Branch North ,292
-Shane Quick,Lieutenant Governor,,R,DeSoto,Olive Branch North ,84
-Sam Britton,Secretary of State,,R,DeSoto,Olive Branch North ,179
-Michael Watson,Secretary of State,,R,DeSoto,Olive Branch North ,195
-Mark Baker,Attorney General,,R,DeSoto,Olive Branch North ,163
-Lynn Fitch,Attorney General,,R,DeSoto,Olive Branch North ,122
-Andy Taggart,Attorney General,,R,DeSoto,Olive Branch North ,98
-Shad White,State Auditor,,R,DeSoto,Olive Branch North ,336
-Eugene S. 'Buck' Clarke,State Treasurer,,R,DeSoto,Olive Branch North ,135
-David McRae,State Treasurer,,R,DeSoto,Olive Branch North ,237
-Andy Gipson,Commissioner of Agriculture & Commerce,,R,DeSoto,Olive Branch North ,336
-Mike Chaney,Commissioner of Insurance,,R,DeSoto,Olive Branch North ,334
-Murry Haslip,State Senate,1,R,DeSoto,Olive Branch North ,x
-Chris Massey,State Senate,1,R,DeSoto,Olive Branch North ,x
-Michael W McLendon,State Senate,1,R,DeSoto,Olive Branch North ,x
-David Parker,State Senate,2,R,DeSoto,Olive Branch North ,x
-Kevin Blackwell ,State Senate,19,R,DeSoto,Olive Branch North ,340
-Dana Criswell,State House,6,R,DeSoto,Olive Branch North ,207
-Mike Duncan,State House,6,R,DeSoto,Olive Branch North ,190
-Steve Hopkins,State House,7,R,DeSoto,Olive Branch North ,X
-Kimberly Remak,State House,7,R,DeSoto,Olive Branch North ,X
-Jeft Hale,State House,24,R,DeSoto,Olive Branch North ,X
-Randy Denton,State House,25,R,DeSoto,Olive Branch North ,X
-Dan Eubanks,State House,25,R,DeSoto,Olive Branch North ,X
-Jerry Darnell,State House,28,R,DeSoto,Olive Branch North ,X
-W I 'Doc' Harris Jr. ,State House,28,R,DeSoto,Olive Branch North ,X
-Ashley Henley,State House,40,R,DeSoto,Olive Branch North ,X
-Francis J Miller,State House,40,R,DeSoto,Olive Branch North ,X
-Charlie Roberts,State House,40,R,DeSoto,Olive Branch North ,X
-Bill Kinkade,State House,52,R,DeSoto,Olive Branch North ,X
-Michael Brown,Governor ,,D,DeSoto,Olive Branch North ,23
-William Bond Compton Jr.,Governor ,,D,DeSoto,Olive Branch North ,2
-Jim Hood,Governor ,,D,DeSoto,Olive Branch North ,52
-Robert J. Ray,Governor ,,D,DeSoto,Olive Branch North ,2
-Robert Shuler Smith,Governor ,,D,DeSoto,Olive Branch North ,10
-Gregory Wash,Governor ,,D,DeSoto,Olive Branch North ,5
-Velesha P Williams,Governor ,,D,DeSoto,Olive Branch North ,30
-Albert Wilson,Governor ,,D,DeSoto,Olive Branch North ,4
-Jay Hughes,Lieutenant Governor,,D,DeSoto,Olive Branch North ,122
-Johnny DuPree,Secretary of State,,D,DeSoto,Olive Branch North ,57
-Maryra Hodges Hunt,Secretary of State,,D,DeSoto,Olive Branch North ,70
-Jennifer Riley Collins,Attorney General,,D,DeSoto,Olive Branch North ,124
-Addie Lee Green,State Treasurer,,D,DeSoto,Olive Branch North ,125
-Rickey L Cole,Commissioner of Agriculture & Commerce,,D,DeSoto,Olive Branch North ,121
-Robert E Amos,Commissioner of Insurance,,D,DeSoto,Olive Branch North ,120
-Lee A Jackson,State Senate,2,D,DeSoto,Olive Branch North ,X
-Dianne Black,State Senate,19,D,DeSoto,Olive Branch North ,118
-Zelda Hill,State House,7,D,DeSoto,Olive Branch North ,X
-Theresa Gillespie Isom,State House,7,D,DeSoto,Olive Branch North ,X
-Matt Williams,State House,28,D,DeSoto,Olive Branch North ,X
-Hester Jackson McCray,State House,40,D,DeSoto,Olive Branch North ,X
-Robert Foster,Governor ,,R,DeSoto,Olive Branch South,245
-Tate Reeves,Governor ,,R,DeSoto,Olive Branch South,351
-Bill Waller Jr.,Governor ,,R,DeSoto,Olive Branch South,138
+Robert Foster,Governor,,R,DeSoto,Olive Branch East,88
+Tate Reeves,Governor,,R,DeSoto,Olive Branch East,117
+Bill Waller Jr.,Governor,,R,DeSoto,Olive Branch East,28
+Delbert Hosemann,Lieutenant Governor,,R,DeSoto,Olive Branch East,161
+Shane Quick,Lieutenant Governor,,R,DeSoto,Olive Branch East,63
+Sam Britton,Secretary of State,,R,DeSoto,Olive Branch East,112
+Michael Watson,Secretary of State,,R,DeSoto,Olive Branch East,111
+Mark Baker,Attorney General,,R,DeSoto,Olive Branch East,111
+Lynn Fitch,Attorney General,,R,DeSoto,Olive Branch East,60
+Andy Taggart,Attorney General,,R,DeSoto,Olive Branch East,55
+Shad White,State Auditor,,R,DeSoto,Olive Branch East,214
+Eugene S. 'Buck' Clarke,State Treasurer,,R,DeSoto,Olive Branch East,77
+David McRae,State Treasurer,,R,DeSoto,Olive Branch East,143
+Andy Gipson,Commissioner of Agriculture & Commerce,,R,DeSoto,Olive Branch East,216
+Mike Chaney,Commissioner of Insurance,,R,DeSoto,Olive Branch East,214
+Murry Haslip,State Senate,1,R,DeSoto,Olive Branch East,x
+Chris Massey,State Senate,1,R,DeSoto,Olive Branch East,x
+Michael W McLendon,State Senate,1,R,DeSoto,Olive Branch East,x
+David Parker,State Senate,2,R,DeSoto,Olive Branch East,x
+Kevin Blackwell,State Senate,19,R,DeSoto,Olive Branch East,213
+Dana Criswell,State House,6,R,DeSoto,Olive Branch East,x
+Mike Duncan,State House,6,R,DeSoto,Olive Branch East,x
+Steve Hopkins,State House,7,R,DeSoto,Olive Branch East,x
+Kimberly Remak,State House,7,R,DeSoto,Olive Branch East,x
+Jeft Hale,State House,24,R,DeSoto,Olive Branch East,X
+Randy Denton,State House,25,R,DeSoto,Olive Branch East,X
+Dan Eubanks,State House,25,R,DeSoto,Olive Branch East,X
+Jerry Darnell,State House,28,R,DeSoto,Olive Branch East,X
+W I 'Doc' Harris Jr.,State House,28,R,DeSoto,Olive Branch East,X
+Ashley Henley,State House,40,R,DeSoto,Olive Branch East,X
+Francis J Miller,State House,40,R,DeSoto,Olive Branch East,X
+Charlie Roberts,State House,40,R,DeSoto,Olive Branch East,X
+Bill Kinkade,State House,52,R,DeSoto,Olive Branch East,213
+Michael Brown,Governor,,D,DeSoto,Olive Branch East,24
+William Bond Compton Jr.,Governor,,D,DeSoto,Olive Branch East,6
+Jim Hood,Governor,,D,DeSoto,Olive Branch East,54
+Robert J. Ray,Governor,,D,DeSoto,Olive Branch East,1
+Robert Shuler Smith,Governor,,D,DeSoto,Olive Branch East,4
+Gregory Wash,Governor,,D,DeSoto,Olive Branch East,1
+Velesha P Williams,Governor,,D,DeSoto,Olive Branch East,12
+Albert Wilson,Governor,,D,DeSoto,Olive Branch East,5
+Jay Hughes,Lieutenant Governor,,D,DeSoto,Olive Branch East,85
+Johnny DuPree,Secretary of State,,D,DeSoto,Olive Branch East,52
+Maryra Hodges Hunt,Secretary of State,,D,DeSoto,Olive Branch East,49
+Jennifer Riley Collins,Attorney General,,D,DeSoto,Olive Branch East,86
+Addie Lee Green,State Treasurer,,D,DeSoto,Olive Branch East,85
+Rickey L Cole,Commissioner of Agriculture & Commerce,,D,DeSoto,Olive Branch East,90
+Robert E Amos,Commissioner of Insurance,,D,DeSoto,Olive Branch East,84
+Lee A Jackson,State Senate,2,D,DeSoto,Olive Branch East,X
+Dianne Black,State Senate,19,D,DeSoto,Olive Branch East,105
+Zelda Hill,State House,7,D,DeSoto,Olive Branch East,X
+Theresa Gillespie Isom,State House,7,D,DeSoto,Olive Branch East,X
+Matt Williams,State House,28,D,DeSoto,Olive Branch East,X
+Hester Jackson McCray,State House,40,D,DeSoto,Olive Branch East,X
+Robert Foster,Governor,,R,DeSoto,Olive Branch North,100
+Tate Reeves,Governor,,R,DeSoto,Olive Branch North,235
+Bill Waller Jr.,Governor,,R,DeSoto,Olive Branch North,79
+Delbert Hosemann,Lieutenant Governor,,R,DeSoto,Olive Branch North,292
+Shane Quick,Lieutenant Governor,,R,DeSoto,Olive Branch North,84
+Sam Britton,Secretary of State,,R,DeSoto,Olive Branch North,179
+Michael Watson,Secretary of State,,R,DeSoto,Olive Branch North,195
+Mark Baker,Attorney General,,R,DeSoto,Olive Branch North,163
+Lynn Fitch,Attorney General,,R,DeSoto,Olive Branch North,122
+Andy Taggart,Attorney General,,R,DeSoto,Olive Branch North,98
+Shad White,State Auditor,,R,DeSoto,Olive Branch North,336
+Eugene S. 'Buck' Clarke,State Treasurer,,R,DeSoto,Olive Branch North,135
+David McRae,State Treasurer,,R,DeSoto,Olive Branch North,237
+Andy Gipson,Commissioner of Agriculture & Commerce,,R,DeSoto,Olive Branch North,336
+Mike Chaney,Commissioner of Insurance,,R,DeSoto,Olive Branch North,334
+Murry Haslip,State Senate,1,R,DeSoto,Olive Branch North,x
+Chris Massey,State Senate,1,R,DeSoto,Olive Branch North,x
+Michael W McLendon,State Senate,1,R,DeSoto,Olive Branch North,x
+David Parker,State Senate,2,R,DeSoto,Olive Branch North,x
+Kevin Blackwell,State Senate,19,R,DeSoto,Olive Branch North,340
+Dana Criswell,State House,6,R,DeSoto,Olive Branch North,207
+Mike Duncan,State House,6,R,DeSoto,Olive Branch North,190
+Steve Hopkins,State House,7,R,DeSoto,Olive Branch North,X
+Kimberly Remak,State House,7,R,DeSoto,Olive Branch North,X
+Jeft Hale,State House,24,R,DeSoto,Olive Branch North,X
+Randy Denton,State House,25,R,DeSoto,Olive Branch North,X
+Dan Eubanks,State House,25,R,DeSoto,Olive Branch North,X
+Jerry Darnell,State House,28,R,DeSoto,Olive Branch North,X
+W I 'Doc' Harris Jr.,State House,28,R,DeSoto,Olive Branch North,X
+Ashley Henley,State House,40,R,DeSoto,Olive Branch North,X
+Francis J Miller,State House,40,R,DeSoto,Olive Branch North,X
+Charlie Roberts,State House,40,R,DeSoto,Olive Branch North,X
+Bill Kinkade,State House,52,R,DeSoto,Olive Branch North,X
+Michael Brown,Governor,,D,DeSoto,Olive Branch North,23
+William Bond Compton Jr.,Governor,,D,DeSoto,Olive Branch North,2
+Jim Hood,Governor,,D,DeSoto,Olive Branch North,52
+Robert J. Ray,Governor,,D,DeSoto,Olive Branch North,2
+Robert Shuler Smith,Governor,,D,DeSoto,Olive Branch North,10
+Gregory Wash,Governor,,D,DeSoto,Olive Branch North,5
+Velesha P Williams,Governor,,D,DeSoto,Olive Branch North,30
+Albert Wilson,Governor,,D,DeSoto,Olive Branch North,4
+Jay Hughes,Lieutenant Governor,,D,DeSoto,Olive Branch North,122
+Johnny DuPree,Secretary of State,,D,DeSoto,Olive Branch North,57
+Maryra Hodges Hunt,Secretary of State,,D,DeSoto,Olive Branch North,70
+Jennifer Riley Collins,Attorney General,,D,DeSoto,Olive Branch North,124
+Addie Lee Green,State Treasurer,,D,DeSoto,Olive Branch North,125
+Rickey L Cole,Commissioner of Agriculture & Commerce,,D,DeSoto,Olive Branch North,121
+Robert E Amos,Commissioner of Insurance,,D,DeSoto,Olive Branch North,120
+Lee A Jackson,State Senate,2,D,DeSoto,Olive Branch North,X
+Dianne Black,State Senate,19,D,DeSoto,Olive Branch North,118
+Zelda Hill,State House,7,D,DeSoto,Olive Branch North,X
+Theresa Gillespie Isom,State House,7,D,DeSoto,Olive Branch North,X
+Matt Williams,State House,28,D,DeSoto,Olive Branch North,X
+Hester Jackson McCray,State House,40,D,DeSoto,Olive Branch North,X
+Robert Foster,Governor,,R,DeSoto,Olive Branch South,245
+Tate Reeves,Governor,,R,DeSoto,Olive Branch South,351
+Bill Waller Jr.,Governor,,R,DeSoto,Olive Branch South,138
 Delbert Hosemann,Lieutenant Governor,,R,DeSoto,Olive Branch South,501
 Shane Quick,Lieutenant Governor,,R,DeSoto,Olive Branch South,184
 Sam Britton,Secretary of State,,R,DeSoto,Olive Branch South,308
@@ -1800,7 +1800,7 @@ Murry Haslip,State Senate,1,R,DeSoto,Olive Branch South,x
 Chris Massey,State Senate,1,R,DeSoto,Olive Branch South,x
 Michael W McLendon,State Senate,1,R,DeSoto,Olive Branch South,x
 David Parker,State Senate,2,R,DeSoto,Olive Branch South,x
-Kevin Blackwell ,State Senate,19,R,DeSoto,Olive Branch South,626
+Kevin Blackwell,State Senate,19,R,DeSoto,Olive Branch South,626
 Dana Criswell,State House,6,R,DeSoto,Olive Branch South,382
 Mike Duncan,State House,6,R,DeSoto,Olive Branch South,334
 Steve Hopkins,State House,7,R,DeSoto,Olive Branch South,X
@@ -1809,19 +1809,19 @@ Jeft Hale,State House,24,R,DeSoto,Olive Branch South,X
 Randy Denton,State House,25,R,DeSoto,Olive Branch South,X
 Dan Eubanks,State House,25,R,DeSoto,Olive Branch South,X
 Jerry Darnell,State House,28,R,DeSoto,Olive Branch South,X
-W I 'Doc' Harris Jr. ,State House,28,R,DeSoto,Olive Branch South,X
+W I 'Doc' Harris Jr.,State House,28,R,DeSoto,Olive Branch South,X
 Ashley Henley,State House,40,R,DeSoto,Olive Branch South,X
 Francis J Miller,State House,40,R,DeSoto,Olive Branch South,X
 Charlie Roberts,State House,40,R,DeSoto,Olive Branch South,X
 Bill Kinkade,State House,52,R,DeSoto,Olive Branch South,X
-Michael Brown,Governor ,,D,DeSoto,Olive Branch South,18
-William Bond Compton Jr.,Governor ,,D,DeSoto,Olive Branch South,0
-Jim Hood,Governor ,,D,DeSoto,Olive Branch South,65
-Robert J. Ray,Governor ,,D,DeSoto,Olive Branch South,1
-Robert Shuler Smith,Governor ,,D,DeSoto,Olive Branch South,8
-Gregory Wash,Governor ,,D,DeSoto,Olive Branch South,2
-Velesha P Williams,Governor ,,D,DeSoto,Olive Branch South,19
-Albert Wilson,Governor ,,D,DeSoto,Olive Branch South,2
+Michael Brown,Governor,,D,DeSoto,Olive Branch South,18
+William Bond Compton Jr.,Governor,,D,DeSoto,Olive Branch South,0
+Jim Hood,Governor,,D,DeSoto,Olive Branch South,65
+Robert J. Ray,Governor,,D,DeSoto,Olive Branch South,1
+Robert Shuler Smith,Governor,,D,DeSoto,Olive Branch South,8
+Gregory Wash,Governor,,D,DeSoto,Olive Branch South,2
+Velesha P Williams,Governor,,D,DeSoto,Olive Branch South,19
+Albert Wilson,Governor,,D,DeSoto,Olive Branch South,2
 Jay Hughes,Lieutenant Governor,,D,DeSoto,Olive Branch South,105
 Johnny DuPree,Secretary of State,,D,DeSoto,Olive Branch South,63
 Maryra Hodges Hunt,Secretary of State,,D,DeSoto,Olive Branch South,48
@@ -1835,117 +1835,117 @@ Zelda Hill,State House,7,D,DeSoto,Olive Branch South,X
 Theresa Gillespie Isom,State House,7,D,DeSoto,Olive Branch South,X
 Matt Williams,State House,28,D,DeSoto,Olive Branch South,X
 Hester Jackson McCray,State House,40,D,DeSoto,Olive Branch South,X
-Robert Foster,Governor ,,R,DeSoto,Olive Branch West ,58
-Tate Reeves,Governor ,,R,DeSoto,Olive Branch West ,158
-Bill Waller Jr.,Governor ,,R,DeSoto,Olive Branch West ,28
-Delbert Hosemann,Lieutenant Governor,,R,DeSoto,Olive Branch West ,188
-Shane Quick,Lieutenant Governor,,R,DeSoto,Olive Branch West ,42
-Sam Britton,Secretary of State,,R,DeSoto,Olive Branch West ,106
-Michael Watson,Secretary of State,,R,DeSoto,Olive Branch West ,121
-Mark Baker,Attorney General,,R,DeSoto,Olive Branch West ,87
-Lynn Fitch,Attorney General,,R,DeSoto,Olive Branch West ,87
-Andy Taggart,Attorney General,,R,DeSoto,Olive Branch West ,59
-Shad White,State Auditor,,R,DeSoto,Olive Branch West ,206
-Eugene S. 'Buck' Clarke,State Treasurer,,R,DeSoto,Olive Branch West ,87
-David McRae,State Treasurer,,R,DeSoto,Olive Branch West ,130
-Andy Gipson,Commissioner of Agriculture & Commerce,,R,DeSoto,Olive Branch West ,206
-Mike Chaney,Commissioner of Insurance,,R,DeSoto,Olive Branch West ,207
-Murry Haslip,State Senate,1,R,DeSoto,Olive Branch West ,x
-Chris Massey,State Senate,1,R,DeSoto,Olive Branch West ,x
-Michael W McLendon,State Senate,1,R,DeSoto,Olive Branch West ,x
-David Parker,State Senate,2,R,DeSoto,Olive Branch West ,x
-Kevin Blackwell ,State Senate,19,R,DeSoto,Olive Branch West ,214
-Dana Criswell,State House,6,R,DeSoto,Olive Branch West ,103
-Mike Duncan,State House,6,R,DeSoto,Olive Branch West ,83
-Steve Hopkins,State House,7,R,DeSoto,Olive Branch West ,X
-Kimberly Remak,State House,7,R,DeSoto,Olive Branch West ,X
-Jeft Hale,State House,24,R,DeSoto,Olive Branch West ,48
-Randy Denton,State House,25,R,DeSoto,Olive Branch West ,X
-Dan Eubanks,State House,25,R,DeSoto,Olive Branch West ,X
-Jerry Darnell,State House,28,R,DeSoto,Olive Branch West ,X
-W I 'Doc' Harris Jr. ,State House,28,R,DeSoto,Olive Branch West ,X
-Ashley Henley,State House,40,R,DeSoto,Olive Branch West ,X
-Francis J Miller,State House,40,R,DeSoto,Olive Branch West ,X
-Charlie Roberts,State House,40,R,DeSoto,Olive Branch West ,X
-Bill Kinkade,State House,52,R,DeSoto,Olive Branch West ,X
-Michael Brown,Governor ,,D,DeSoto,Olive Branch West ,13
-William Bond Compton Jr.,Governor ,,D,DeSoto,Olive Branch West ,2
-Jim Hood,Governor ,,D,DeSoto,Olive Branch West ,35
-Robert J. Ray,Governor ,,D,DeSoto,Olive Branch West ,1
-Robert Shuler Smith,Governor ,,D,DeSoto,Olive Branch West ,8
-Gregory Wash,Governor ,,D,DeSoto,Olive Branch West ,0
-Velesha P Williams,Governor ,,D,DeSoto,Olive Branch West ,11
-Albert Wilson,Governor ,,D,DeSoto,Olive Branch West ,7
-Jay Hughes,Lieutenant Governor,,D,DeSoto,Olive Branch West ,70
-Johnny DuPree,Secretary of State,,D,DeSoto,Olive Branch West ,41
-Maryra Hodges Hunt,Secretary of State,,D,DeSoto,Olive Branch West ,34
-Jennifer Riley Collins,Attorney General,,D,DeSoto,Olive Branch West ,72
-Addie Lee Green,State Treasurer,,D,DeSoto,Olive Branch West ,69
-Rickey L Cole,Commissioner of Agriculture & Commerce,,D,DeSoto,Olive Branch West ,72
-Robert E Amos,Commissioner of Insurance,,D,DeSoto,Olive Branch West ,73
-Lee A Jackson,State Senate,2,D,DeSoto,Olive Branch West ,X
-Dianne Black,State Senate,19,D,DeSoto,Olive Branch West ,72
-Zelda Hill,State House,7,D,DeSoto,Olive Branch West ,X
-Theresa Gillespie Isom,State House,7,D,DeSoto,Olive Branch West ,X
-Matt Williams,State House,28,D,DeSoto,Olive Branch West ,X
-Hester Jackson McCray,State House,40,D,DeSoto,Olive Branch West ,X
-Robert Foster,Governor ,,R,DeSoto,Pleasant Hill North ,323
-Tate Reeves,Governor ,,R,DeSoto,Pleasant Hill North ,313
-Bill Waller Jr.,Governor ,,R,DeSoto,Pleasant Hill North ,161
-Delbert Hosemann,Lieutenant Governor,,R,DeSoto,Pleasant Hill North ,592
-Shane Quick,Lieutenant Governor,,R,DeSoto,Pleasant Hill North ,144
-Sam Britton,Secretary of State,,R,DeSoto,Pleasant Hill North ,225
-Michael Watson,Secretary of State,,R,DeSoto,Pleasant Hill North ,483
-Mark Baker,Attorney General,,R,DeSoto,Pleasant Hill North ,307
-Lynn Fitch,Attorney General,,R,DeSoto,Pleasant Hill North ,245
-Andy Taggart,Attorney General,,R,DeSoto,Pleasant Hill North ,199
-Shad White,State Auditor,,R,DeSoto,Pleasant Hill North ,640
-Eugene S. 'Buck' Clarke,State Treasurer,,R,DeSoto,Pleasant Hill North ,272
-David McRae,State Treasurer,,R,DeSoto,Pleasant Hill North ,448
-Andy Gipson,Commissioner of Agriculture & Commerce,,R,DeSoto,Pleasant Hill North ,652
-Mike Chaney,Commissioner of Insurance,,R,DeSoto,Pleasant Hill North ,651
-Murry Haslip,State Senate,1,R,DeSoto,Pleasant Hill North ,x
-Chris Massey,State Senate,1,R,DeSoto,Pleasant Hill North ,x
-Michael W McLendon,State Senate,1,R,DeSoto,Pleasant Hill North ,x
-David Parker,State Senate,2,R,DeSoto,Pleasant Hill North ,x
-Kevin Blackwell ,State Senate,19,R,DeSoto,Pleasant Hill North ,655
-Dana Criswell,State House,6,R,DeSoto,Pleasant Hill North ,X
-Mike Duncan,State House,6,R,DeSoto,Pleasant Hill North ,X
-Steve Hopkins,State House,7,R,DeSoto,Pleasant Hill North ,X
-Kimberly Remak,State House,7,R,DeSoto,Pleasant Hill North ,X
-Jeft Hale,State House,24,R,DeSoto,Pleasant Hill North ,654
-Randy Denton,State House,25,R,DeSoto,Pleasant Hill North ,X
-Dan Eubanks,State House,25,R,DeSoto,Pleasant Hill North ,X
-Jerry Darnell,State House,28,R,DeSoto,Pleasant Hill North ,X
-W I 'Doc' Harris Jr. ,State House,28,R,DeSoto,Pleasant Hill North ,X
-Ashley Henley,State House,40,R,DeSoto,Pleasant Hill North ,X
-Francis J Miller,State House,40,R,DeSoto,Pleasant Hill North ,X
-Charlie Roberts,State House,40,R,DeSoto,Pleasant Hill North ,X
-Bill Kinkade,State House,52,R,DeSoto,Pleasant Hill North ,X
-Michael Brown,Governor ,,D,DeSoto,Pleasant Hill North ,16
-William Bond Compton Jr.,Governor ,,D,DeSoto,Pleasant Hill North ,3
-Jim Hood,Governor ,,D,DeSoto,Pleasant Hill North ,72
-Robert J. Ray,Governor ,,D,DeSoto,Pleasant Hill North ,1
-Robert Shuler Smith,Governor ,,D,DeSoto,Pleasant Hill North ,2
-Gregory Wash,Governor ,,D,DeSoto,Pleasant Hill North ,1
-Velesha P Williams,Governor ,,D,DeSoto,Pleasant Hill North ,22
-Albert Wilson,Governor ,,D,DeSoto,Pleasant Hill North ,0
-Jay Hughes,Lieutenant Governor,,D,DeSoto,Pleasant Hill North ,111
-Johnny DuPree,Secretary of State,,D,DeSoto,Pleasant Hill North ,58
-Maryra Hodges Hunt,Secretary of State,,D,DeSoto,Pleasant Hill North ,43
-Jennifer Riley Collins,Attorney General,,D,DeSoto,Pleasant Hill North ,110
-Addie Lee Green,State Treasurer,,D,DeSoto,Pleasant Hill North ,112
-Rickey L Cole,Commissioner of Agriculture & Commerce,,D,DeSoto,Pleasant Hill North ,112
-Robert E Amos,Commissioner of Insurance,,D,DeSoto,Pleasant Hill North ,109
-Lee A Jackson,State Senate,2,D,DeSoto,Pleasant Hill North ,X
-Dianne Black,State Senate,19,D,DeSoto,Pleasant Hill North ,111
-Zelda Hill,State House,7,D,DeSoto,Pleasant Hill North ,X
-Theresa Gillespie Isom,State House,7,D,DeSoto,Pleasant Hill North ,X
-Matt Williams,State House,28,D,DeSoto,Pleasant Hill North ,X
-Hester Jackson McCray,State House,40,D,DeSoto,Pleasant Hill North ,X
-Robert Foster,Governor ,,R,DeSoto,Southaven North,218
-Tate Reeves,Governor ,,R,DeSoto,Southaven North,281
-Bill Waller Jr.,Governor ,,R,DeSoto,Southaven North,57
+Robert Foster,Governor,,R,DeSoto,Olive Branch West,58
+Tate Reeves,Governor,,R,DeSoto,Olive Branch West,158
+Bill Waller Jr.,Governor,,R,DeSoto,Olive Branch West,28
+Delbert Hosemann,Lieutenant Governor,,R,DeSoto,Olive Branch West,188
+Shane Quick,Lieutenant Governor,,R,DeSoto,Olive Branch West,42
+Sam Britton,Secretary of State,,R,DeSoto,Olive Branch West,106
+Michael Watson,Secretary of State,,R,DeSoto,Olive Branch West,121
+Mark Baker,Attorney General,,R,DeSoto,Olive Branch West,87
+Lynn Fitch,Attorney General,,R,DeSoto,Olive Branch West,87
+Andy Taggart,Attorney General,,R,DeSoto,Olive Branch West,59
+Shad White,State Auditor,,R,DeSoto,Olive Branch West,206
+Eugene S. 'Buck' Clarke,State Treasurer,,R,DeSoto,Olive Branch West,87
+David McRae,State Treasurer,,R,DeSoto,Olive Branch West,130
+Andy Gipson,Commissioner of Agriculture & Commerce,,R,DeSoto,Olive Branch West,206
+Mike Chaney,Commissioner of Insurance,,R,DeSoto,Olive Branch West,207
+Murry Haslip,State Senate,1,R,DeSoto,Olive Branch West,x
+Chris Massey,State Senate,1,R,DeSoto,Olive Branch West,x
+Michael W McLendon,State Senate,1,R,DeSoto,Olive Branch West,x
+David Parker,State Senate,2,R,DeSoto,Olive Branch West,x
+Kevin Blackwell,State Senate,19,R,DeSoto,Olive Branch West,214
+Dana Criswell,State House,6,R,DeSoto,Olive Branch West,103
+Mike Duncan,State House,6,R,DeSoto,Olive Branch West,83
+Steve Hopkins,State House,7,R,DeSoto,Olive Branch West,X
+Kimberly Remak,State House,7,R,DeSoto,Olive Branch West,X
+Jeft Hale,State House,24,R,DeSoto,Olive Branch West,48
+Randy Denton,State House,25,R,DeSoto,Olive Branch West,X
+Dan Eubanks,State House,25,R,DeSoto,Olive Branch West,X
+Jerry Darnell,State House,28,R,DeSoto,Olive Branch West,X
+W I 'Doc' Harris Jr.,State House,28,R,DeSoto,Olive Branch West,X
+Ashley Henley,State House,40,R,DeSoto,Olive Branch West,X
+Francis J Miller,State House,40,R,DeSoto,Olive Branch West,X
+Charlie Roberts,State House,40,R,DeSoto,Olive Branch West,X
+Bill Kinkade,State House,52,R,DeSoto,Olive Branch West,X
+Michael Brown,Governor,,D,DeSoto,Olive Branch West,13
+William Bond Compton Jr.,Governor,,D,DeSoto,Olive Branch West,2
+Jim Hood,Governor,,D,DeSoto,Olive Branch West,35
+Robert J. Ray,Governor,,D,DeSoto,Olive Branch West,1
+Robert Shuler Smith,Governor,,D,DeSoto,Olive Branch West,8
+Gregory Wash,Governor,,D,DeSoto,Olive Branch West,0
+Velesha P Williams,Governor,,D,DeSoto,Olive Branch West,11
+Albert Wilson,Governor,,D,DeSoto,Olive Branch West,7
+Jay Hughes,Lieutenant Governor,,D,DeSoto,Olive Branch West,70
+Johnny DuPree,Secretary of State,,D,DeSoto,Olive Branch West,41
+Maryra Hodges Hunt,Secretary of State,,D,DeSoto,Olive Branch West,34
+Jennifer Riley Collins,Attorney General,,D,DeSoto,Olive Branch West,72
+Addie Lee Green,State Treasurer,,D,DeSoto,Olive Branch West,69
+Rickey L Cole,Commissioner of Agriculture & Commerce,,D,DeSoto,Olive Branch West,72
+Robert E Amos,Commissioner of Insurance,,D,DeSoto,Olive Branch West,73
+Lee A Jackson,State Senate,2,D,DeSoto,Olive Branch West,X
+Dianne Black,State Senate,19,D,DeSoto,Olive Branch West,72
+Zelda Hill,State House,7,D,DeSoto,Olive Branch West,X
+Theresa Gillespie Isom,State House,7,D,DeSoto,Olive Branch West,X
+Matt Williams,State House,28,D,DeSoto,Olive Branch West,X
+Hester Jackson McCray,State House,40,D,DeSoto,Olive Branch West,X
+Robert Foster,Governor,,R,DeSoto,Pleasant Hill North,323
+Tate Reeves,Governor,,R,DeSoto,Pleasant Hill North,313
+Bill Waller Jr.,Governor,,R,DeSoto,Pleasant Hill North,161
+Delbert Hosemann,Lieutenant Governor,,R,DeSoto,Pleasant Hill North,592
+Shane Quick,Lieutenant Governor,,R,DeSoto,Pleasant Hill North,144
+Sam Britton,Secretary of State,,R,DeSoto,Pleasant Hill North,225
+Michael Watson,Secretary of State,,R,DeSoto,Pleasant Hill North,483
+Mark Baker,Attorney General,,R,DeSoto,Pleasant Hill North,307
+Lynn Fitch,Attorney General,,R,DeSoto,Pleasant Hill North,245
+Andy Taggart,Attorney General,,R,DeSoto,Pleasant Hill North,199
+Shad White,State Auditor,,R,DeSoto,Pleasant Hill North,640
+Eugene S. 'Buck' Clarke,State Treasurer,,R,DeSoto,Pleasant Hill North,272
+David McRae,State Treasurer,,R,DeSoto,Pleasant Hill North,448
+Andy Gipson,Commissioner of Agriculture & Commerce,,R,DeSoto,Pleasant Hill North,652
+Mike Chaney,Commissioner of Insurance,,R,DeSoto,Pleasant Hill North,651
+Murry Haslip,State Senate,1,R,DeSoto,Pleasant Hill North,x
+Chris Massey,State Senate,1,R,DeSoto,Pleasant Hill North,x
+Michael W McLendon,State Senate,1,R,DeSoto,Pleasant Hill North,x
+David Parker,State Senate,2,R,DeSoto,Pleasant Hill North,x
+Kevin Blackwell,State Senate,19,R,DeSoto,Pleasant Hill North,655
+Dana Criswell,State House,6,R,DeSoto,Pleasant Hill North,X
+Mike Duncan,State House,6,R,DeSoto,Pleasant Hill North,X
+Steve Hopkins,State House,7,R,DeSoto,Pleasant Hill North,X
+Kimberly Remak,State House,7,R,DeSoto,Pleasant Hill North,X
+Jeft Hale,State House,24,R,DeSoto,Pleasant Hill North,654
+Randy Denton,State House,25,R,DeSoto,Pleasant Hill North,X
+Dan Eubanks,State House,25,R,DeSoto,Pleasant Hill North,X
+Jerry Darnell,State House,28,R,DeSoto,Pleasant Hill North,X
+W I 'Doc' Harris Jr.,State House,28,R,DeSoto,Pleasant Hill North,X
+Ashley Henley,State House,40,R,DeSoto,Pleasant Hill North,X
+Francis J Miller,State House,40,R,DeSoto,Pleasant Hill North,X
+Charlie Roberts,State House,40,R,DeSoto,Pleasant Hill North,X
+Bill Kinkade,State House,52,R,DeSoto,Pleasant Hill North,X
+Michael Brown,Governor,,D,DeSoto,Pleasant Hill North,16
+William Bond Compton Jr.,Governor,,D,DeSoto,Pleasant Hill North,3
+Jim Hood,Governor,,D,DeSoto,Pleasant Hill North,72
+Robert J. Ray,Governor,,D,DeSoto,Pleasant Hill North,1
+Robert Shuler Smith,Governor,,D,DeSoto,Pleasant Hill North,2
+Gregory Wash,Governor,,D,DeSoto,Pleasant Hill North,1
+Velesha P Williams,Governor,,D,DeSoto,Pleasant Hill North,22
+Albert Wilson,Governor,,D,DeSoto,Pleasant Hill North,0
+Jay Hughes,Lieutenant Governor,,D,DeSoto,Pleasant Hill North,111
+Johnny DuPree,Secretary of State,,D,DeSoto,Pleasant Hill North,58
+Maryra Hodges Hunt,Secretary of State,,D,DeSoto,Pleasant Hill North,43
+Jennifer Riley Collins,Attorney General,,D,DeSoto,Pleasant Hill North,110
+Addie Lee Green,State Treasurer,,D,DeSoto,Pleasant Hill North,112
+Rickey L Cole,Commissioner of Agriculture & Commerce,,D,DeSoto,Pleasant Hill North,112
+Robert E Amos,Commissioner of Insurance,,D,DeSoto,Pleasant Hill North,109
+Lee A Jackson,State Senate,2,D,DeSoto,Pleasant Hill North,X
+Dianne Black,State Senate,19,D,DeSoto,Pleasant Hill North,111
+Zelda Hill,State House,7,D,DeSoto,Pleasant Hill North,X
+Theresa Gillespie Isom,State House,7,D,DeSoto,Pleasant Hill North,X
+Matt Williams,State House,28,D,DeSoto,Pleasant Hill North,X
+Hester Jackson McCray,State House,40,D,DeSoto,Pleasant Hill North,X
+Robert Foster,Governor,,R,DeSoto,Southaven North,218
+Tate Reeves,Governor,,R,DeSoto,Southaven North,281
+Bill Waller Jr.,Governor,,R,DeSoto,Southaven North,57
 Delbert Hosemann,Lieutenant Governor,,R,DeSoto,Southaven North,377
 Shane Quick,Lieutenant Governor,,R,DeSoto,Southaven North,135
 Sam Britton,Secretary of State,,R,DeSoto,Southaven North,249
@@ -1962,7 +1962,7 @@ Murry Haslip,State Senate,1,R,DeSoto,Southaven North,x
 Chris Massey,State Senate,1,R,DeSoto,Southaven North,x
 Michael W McLendon,State Senate,1,R,DeSoto,Southaven North,x
 David Parker,State Senate,2,R,DeSoto,Southaven North,476
-Kevin Blackwell ,State Senate,19,R,DeSoto,Southaven North,x
+Kevin Blackwell,State Senate,19,R,DeSoto,Southaven North,x
 Dana Criswell,State House,6,R,DeSoto,Southaven North,X
 Mike Duncan,State House,6,R,DeSoto,Southaven North,X
 Steve Hopkins,State House,7,R,DeSoto,Southaven North,376
@@ -1971,19 +1971,19 @@ Jeft Hale,State House,24,R,DeSoto,Southaven North,X
 Randy Denton,State House,25,R,DeSoto,Southaven North,X
 Dan Eubanks,State House,25,R,DeSoto,Southaven North,X
 Jerry Darnell,State House,28,R,DeSoto,Southaven North,X
-W I 'Doc' Harris Jr. ,State House,28,R,DeSoto,Southaven North,X
+W I 'Doc' Harris Jr.,State House,28,R,DeSoto,Southaven North,X
 Ashley Henley,State House,40,R,DeSoto,Southaven North,X
 Francis J Miller,State House,40,R,DeSoto,Southaven North,X
 Charlie Roberts,State House,40,R,DeSoto,Southaven North,X
 Bill Kinkade,State House,52,R,DeSoto,Southaven North,X
-Michael Brown,Governor ,,D,DeSoto,Southaven North,10
-William Bond Compton Jr.,Governor ,,D,DeSoto,Southaven North,5
-Jim Hood,Governor ,,D,DeSoto,Southaven North,41
-Robert J. Ray,Governor ,,D,DeSoto,Southaven North,2
-Robert Shuler Smith,Governor ,,D,DeSoto,Southaven North,2
-Gregory Wash,Governor ,,D,DeSoto,Southaven North,2
-Velesha P Williams,Governor ,,D,DeSoto,Southaven North,17
-Albert Wilson,Governor ,,D,DeSoto,Southaven North,1
+Michael Brown,Governor,,D,DeSoto,Southaven North,10
+William Bond Compton Jr.,Governor,,D,DeSoto,Southaven North,5
+Jim Hood,Governor,,D,DeSoto,Southaven North,41
+Robert J. Ray,Governor,,D,DeSoto,Southaven North,2
+Robert Shuler Smith,Governor,,D,DeSoto,Southaven North,2
+Gregory Wash,Governor,,D,DeSoto,Southaven North,2
+Velesha P Williams,Governor,,D,DeSoto,Southaven North,17
+Albert Wilson,Governor,,D,DeSoto,Southaven North,1
 Jay Hughes,Lieutenant Governor,,D,DeSoto,Southaven North,72
 Johnny DuPree,Secretary of State,,D,DeSoto,Southaven North,32
 Maryra Hodges Hunt,Secretary of State,,D,DeSoto,Southaven North,46
@@ -1997,9 +1997,9 @@ Zelda Hill,State House,7,D,DeSoto,Southaven North,20
 Theresa Gillespie Isom,State House,7,D,DeSoto,Southaven North,59
 Matt Williams,State House,28,D,DeSoto,Southaven North,X
 Hester Jackson McCray,State House,40,D,DeSoto,Southaven North,X
-Robert Foster,Governor ,,R,DeSoto,Southaven South,32
-Tate Reeves,Governor ,,R,DeSoto,Southaven South,42
-Bill Waller Jr.,Governor ,,R,DeSoto,Southaven South,7
+Robert Foster,Governor,,R,DeSoto,Southaven South,32
+Tate Reeves,Governor,,R,DeSoto,Southaven South,42
+Bill Waller Jr.,Governor,,R,DeSoto,Southaven South,7
 Delbert Hosemann,Lieutenant Governor,,R,DeSoto,Southaven South,52
 Shane Quick,Lieutenant Governor,,R,DeSoto,Southaven South,24
 Sam Britton,Secretary of State,,R,DeSoto,Southaven South,24
@@ -2016,7 +2016,7 @@ Murry Haslip,State Senate,1,R,DeSoto,Southaven South,x
 Chris Massey,State Senate,1,R,DeSoto,Southaven South,x
 Michael W McLendon,State Senate,1,R,DeSoto,Southaven South,x
 David Parker,State Senate,2,R,DeSoto,Southaven South,75
-Kevin Blackwell ,State Senate,19,R,DeSoto,Southaven South,x
+Kevin Blackwell,State Senate,19,R,DeSoto,Southaven South,x
 Dana Criswell,State House,6,R,DeSoto,Southaven South,X
 Mike Duncan,State House,6,R,DeSoto,Southaven South,X
 Steve Hopkins,State House,7,R,DeSoto,Southaven South,X
@@ -2025,19 +2025,19 @@ Jeft Hale,State House,24,R,DeSoto,Southaven South,13
 Randy Denton,State House,25,R,DeSoto,Southaven South,X
 Dan Eubanks,State House,25,R,DeSoto,Southaven South,X
 Jerry Darnell,State House,28,R,DeSoto,Southaven South,X
-W I 'Doc' Harris Jr. ,State House,28,R,DeSoto,Southaven South,X
+W I 'Doc' Harris Jr.,State House,28,R,DeSoto,Southaven South,X
 Ashley Henley,State House,40,R,DeSoto,Southaven South,50
 Francis J Miller,State House,40,R,DeSoto,Southaven South,2
 Charlie Roberts,State House,40,R,DeSoto,Southaven South,15
 Bill Kinkade,State House,52,R,DeSoto,Southaven South,X
-Michael Brown,Governor ,,D,DeSoto,Southaven South,14
-William Bond Compton Jr.,Governor ,,D,DeSoto,Southaven South,4
-Jim Hood,Governor ,,D,DeSoto,Southaven South,34
-Robert J. Ray,Governor ,,D,DeSoto,Southaven South,2
-Robert Shuler Smith,Governor ,,D,DeSoto,Southaven South,3
-Gregory Wash,Governor ,,D,DeSoto,Southaven South,0
-Velesha P Williams,Governor ,,D,DeSoto,Southaven South,19
-Albert Wilson,Governor ,,D,DeSoto,Southaven South,1
+Michael Brown,Governor,,D,DeSoto,Southaven South,14
+William Bond Compton Jr.,Governor,,D,DeSoto,Southaven South,4
+Jim Hood,Governor,,D,DeSoto,Southaven South,34
+Robert J. Ray,Governor,,D,DeSoto,Southaven South,2
+Robert Shuler Smith,Governor,,D,DeSoto,Southaven South,3
+Gregory Wash,Governor,,D,DeSoto,Southaven South,0
+Velesha P Williams,Governor,,D,DeSoto,Southaven South,19
+Albert Wilson,Governor,,D,DeSoto,Southaven South,1
 Jay Hughes,Lieutenant Governor,,D,DeSoto,Southaven South,69
 Johnny DuPree,Secretary of State,,D,DeSoto,Southaven South,36
 Maryra Hodges Hunt,Secretary of State,,D,DeSoto,Southaven South,39
@@ -2051,63 +2051,63 @@ Zelda Hill,State House,7,D,DeSoto,Southaven South,X
 Theresa Gillespie Isom,State House,7,D,DeSoto,Southaven South,X
 Matt Williams,State House,28,D,DeSoto,Southaven South,X
 Hester Jackson McCray,State House,40,D,DeSoto,Southaven South,59
-Robert Foster,Governor ,,R,DeSoto,Southaven West ,140
-Tate Reeves,Governor ,,R,DeSoto,Southaven West ,200
-Bill Waller Jr.,Governor ,,R,DeSoto,Southaven West ,31
-Delbert Hosemann,Lieutenant Governor,,R,DeSoto,Southaven West ,244
-Shane Quick,Lieutenant Governor,,R,DeSoto,Southaven West ,98
-Sam Britton,Secretary of State,,R,DeSoto,Southaven West ,169
-Michael Watson,Secretary of State,,R,DeSoto,Southaven West ,167
-Mark Baker,Attorney General,,R,DeSoto,Southaven West ,166
-Lynn Fitch,Attorney General,,R,DeSoto,Southaven West ,109
-Andy Taggart,Attorney General,,R,DeSoto,Southaven West ,75
-Shad White,State Auditor,,R,DeSoto,Southaven West ,297
-Eugene S. 'Buck' Clarke,State Treasurer,,R,DeSoto,Southaven West ,118
-David McRae,State Treasurer,,R,DeSoto,Southaven West ,226
-Andy Gipson,Commissioner of Agriculture & Commerce,,R,DeSoto,Southaven West ,305
-Mike Chaney,Commissioner of Insurance,,R,DeSoto,Southaven West ,305
-Murry Haslip,State Senate,1,R,DeSoto,Southaven West ,x
-Chris Massey,State Senate,1,R,DeSoto,Southaven West ,x
-Michael W McLendon,State Senate,1,R,DeSoto,Southaven West ,x
-David Parker,State Senate,2,R,DeSoto,Southaven West ,310
-Kevin Blackwell ,State Senate,19,R,DeSoto,Southaven West ,x
-Dana Criswell,State House,6,R,DeSoto,Southaven West ,X
-Mike Duncan,State House,6,R,DeSoto,Southaven West ,X
-Steve Hopkins,State House,7,R,DeSoto,Southaven West ,X
-Kimberly Remak,State House,7,R,DeSoto,Southaven West ,X
-Jeft Hale,State House,24,R,DeSoto,Southaven West ,X
-Randy Denton,State House,25,R,DeSoto,Southaven West ,X
-Dan Eubanks,State House,25,R,DeSoto,Southaven West ,X
-Jerry Darnell,State House,28,R,DeSoto,Southaven West ,X
-W I 'Doc' Harris Jr. ,State House,28,R,DeSoto,Southaven West ,X
-Ashley Henley,State House,40,R,DeSoto,Southaven West ,230
-Francis J Miller,State House,40,R,DeSoto,Southaven West ,27
-Charlie Roberts,State House,40,R,DeSoto,Southaven West ,101
-Bill Kinkade,State House,52,R,DeSoto,Southaven West ,X
-Michael Brown,Governor ,,D,DeSoto,Southaven West ,16
-William Bond Compton Jr.,Governor ,,D,DeSoto,Southaven West ,4
-Jim Hood,Governor ,,D,DeSoto,Southaven West ,83
-Robert J. Ray,Governor ,,D,DeSoto,Southaven West ,6
-Robert Shuler Smith,Governor ,,D,DeSoto,Southaven West ,7
-Gregory Wash,Governor ,,D,DeSoto,Southaven West ,0
-Velesha P Williams,Governor ,,D,DeSoto,Southaven West ,18
-Albert Wilson,Governor ,,D,DeSoto,Southaven West ,4
-Jay Hughes,Lieutenant Governor,,D,DeSoto,Southaven West ,124
-Johnny DuPree,Secretary of State,,D,DeSoto,Southaven West ,73
-Maryra Hodges Hunt,Secretary of State,,D,DeSoto,Southaven West ,61
-Jennifer Riley Collins,Attorney General,,D,DeSoto,Southaven West ,119
-Addie Lee Green,State Treasurer,,D,DeSoto,Southaven West ,121
-Rickey L Cole,Commissioner of Agriculture & Commerce,,D,DeSoto,Southaven West ,122
-Robert E Amos,Commissioner of Insurance,,D,DeSoto,Southaven West ,118
-Lee A Jackson,State Senate,2,D,DeSoto,Southaven West ,121
-Dianne Black,State Senate,19,D,DeSoto,Southaven West ,X
-Zelda Hill,State House,7,D,DeSoto,Southaven West ,X
-Theresa Gillespie Isom,State House,7,D,DeSoto,Southaven West ,X
-Matt Williams,State House,28,D,DeSoto,Southaven West ,X
-Hester Jackson McCray,State House,40,D,DeSoto,Southaven West ,119
-Robert Foster,Governor ,,R,DeSoto,Summershill,354
-Tate Reeves,Governor ,,R,DeSoto,Summershill,367
-Bill Waller Jr.,Governor ,,R,DeSoto,Summershill,130
+Robert Foster,Governor,,R,DeSoto,Southaven West,140
+Tate Reeves,Governor,,R,DeSoto,Southaven West,200
+Bill Waller Jr.,Governor,,R,DeSoto,Southaven West,31
+Delbert Hosemann,Lieutenant Governor,,R,DeSoto,Southaven West,244
+Shane Quick,Lieutenant Governor,,R,DeSoto,Southaven West,98
+Sam Britton,Secretary of State,,R,DeSoto,Southaven West,169
+Michael Watson,Secretary of State,,R,DeSoto,Southaven West,167
+Mark Baker,Attorney General,,R,DeSoto,Southaven West,166
+Lynn Fitch,Attorney General,,R,DeSoto,Southaven West,109
+Andy Taggart,Attorney General,,R,DeSoto,Southaven West,75
+Shad White,State Auditor,,R,DeSoto,Southaven West,297
+Eugene S. 'Buck' Clarke,State Treasurer,,R,DeSoto,Southaven West,118
+David McRae,State Treasurer,,R,DeSoto,Southaven West,226
+Andy Gipson,Commissioner of Agriculture & Commerce,,R,DeSoto,Southaven West,305
+Mike Chaney,Commissioner of Insurance,,R,DeSoto,Southaven West,305
+Murry Haslip,State Senate,1,R,DeSoto,Southaven West,x
+Chris Massey,State Senate,1,R,DeSoto,Southaven West,x
+Michael W McLendon,State Senate,1,R,DeSoto,Southaven West,x
+David Parker,State Senate,2,R,DeSoto,Southaven West,310
+Kevin Blackwell,State Senate,19,R,DeSoto,Southaven West,x
+Dana Criswell,State House,6,R,DeSoto,Southaven West,X
+Mike Duncan,State House,6,R,DeSoto,Southaven West,X
+Steve Hopkins,State House,7,R,DeSoto,Southaven West,X
+Kimberly Remak,State House,7,R,DeSoto,Southaven West,X
+Jeft Hale,State House,24,R,DeSoto,Southaven West,X
+Randy Denton,State House,25,R,DeSoto,Southaven West,X
+Dan Eubanks,State House,25,R,DeSoto,Southaven West,X
+Jerry Darnell,State House,28,R,DeSoto,Southaven West,X
+W I 'Doc' Harris Jr.,State House,28,R,DeSoto,Southaven West,X
+Ashley Henley,State House,40,R,DeSoto,Southaven West,230
+Francis J Miller,State House,40,R,DeSoto,Southaven West,27
+Charlie Roberts,State House,40,R,DeSoto,Southaven West,101
+Bill Kinkade,State House,52,R,DeSoto,Southaven West,X
+Michael Brown,Governor,,D,DeSoto,Southaven West,16
+William Bond Compton Jr.,Governor,,D,DeSoto,Southaven West,4
+Jim Hood,Governor,,D,DeSoto,Southaven West,83
+Robert J. Ray,Governor,,D,DeSoto,Southaven West,6
+Robert Shuler Smith,Governor,,D,DeSoto,Southaven West,7
+Gregory Wash,Governor,,D,DeSoto,Southaven West,0
+Velesha P Williams,Governor,,D,DeSoto,Southaven West,18
+Albert Wilson,Governor,,D,DeSoto,Southaven West,4
+Jay Hughes,Lieutenant Governor,,D,DeSoto,Southaven West,124
+Johnny DuPree,Secretary of State,,D,DeSoto,Southaven West,73
+Maryra Hodges Hunt,Secretary of State,,D,DeSoto,Southaven West,61
+Jennifer Riley Collins,Attorney General,,D,DeSoto,Southaven West,119
+Addie Lee Green,State Treasurer,,D,DeSoto,Southaven West,121
+Rickey L Cole,Commissioner of Agriculture & Commerce,,D,DeSoto,Southaven West,122
+Robert E Amos,Commissioner of Insurance,,D,DeSoto,Southaven West,118
+Lee A Jackson,State Senate,2,D,DeSoto,Southaven West,121
+Dianne Black,State Senate,19,D,DeSoto,Southaven West,X
+Zelda Hill,State House,7,D,DeSoto,Southaven West,X
+Theresa Gillespie Isom,State House,7,D,DeSoto,Southaven West,X
+Matt Williams,State House,28,D,DeSoto,Southaven West,X
+Hester Jackson McCray,State House,40,D,DeSoto,Southaven West,119
+Robert Foster,Governor,,R,DeSoto,Summershill,354
+Tate Reeves,Governor,,R,DeSoto,Summershill,367
+Bill Waller Jr.,Governor,,R,DeSoto,Summershill,130
 Delbert Hosemann,Lieutenant Governor,,R,DeSoto,Summershill,624
 Shane Quick,Lieutenant Governor,,R,DeSoto,Summershill,136
 Sam Britton,Secretary of State,,R,DeSoto,Summershill,267
@@ -2124,7 +2124,7 @@ Murry Haslip,State Senate,1,R,DeSoto,Summershill,x
 Chris Massey,State Senate,1,R,DeSoto,Summershill,x
 Michael W McLendon,State Senate,1,R,DeSoto,Summershill,x
 David Parker,State Senate,2,R,DeSoto,Summershill,706
-Kevin Blackwell ,State Senate,19,R,DeSoto,Summershill,x
+Kevin Blackwell,State Senate,19,R,DeSoto,Summershill,x
 Dana Criswell,State House,6,R,DeSoto,Summershill,X
 Mike Duncan,State House,6,R,DeSoto,Summershill,X
 Steve Hopkins,State House,7,R,DeSoto,Summershill,421
@@ -2133,19 +2133,19 @@ Jeft Hale,State House,24,R,DeSoto,Summershill,X
 Randy Denton,State House,25,R,DeSoto,Summershill,X
 Dan Eubanks,State House,25,R,DeSoto,Summershill,X
 Jerry Darnell,State House,28,R,DeSoto,Summershill,X
-W I 'Doc' Harris Jr. ,State House,28,R,DeSoto,Summershill,X
+W I 'Doc' Harris Jr.,State House,28,R,DeSoto,Summershill,X
 Ashley Henley,State House,40,R,DeSoto,Summershill,X
 Francis J Miller,State House,40,R,DeSoto,Summershill,X
 Charlie Roberts,State House,40,R,DeSoto,Summershill,X
 Bill Kinkade,State House,52,R,DeSoto,Summershill,X
-Michael Brown,Governor ,,D,DeSoto,Summershill,33
-William Bond Compton Jr.,Governor ,,D,DeSoto,Summershill,6
-Jim Hood,Governor ,,D,DeSoto,Summershill,85
-Robert J. Ray,Governor ,,D,DeSoto,Summershill,3
-Robert Shuler Smith,Governor ,,D,DeSoto,Summershill,7
-Gregory Wash,Governor ,,D,DeSoto,Summershill,1
-Velesha P Williams,Governor ,,D,DeSoto,Summershill,27
-Albert Wilson,Governor ,,D,DeSoto,Summershill,4
+Michael Brown,Governor,,D,DeSoto,Summershill,33
+William Bond Compton Jr.,Governor,,D,DeSoto,Summershill,6
+Jim Hood,Governor,,D,DeSoto,Summershill,85
+Robert J. Ray,Governor,,D,DeSoto,Summershill,3
+Robert Shuler Smith,Governor,,D,DeSoto,Summershill,7
+Gregory Wash,Governor,,D,DeSoto,Summershill,1
+Velesha P Williams,Governor,,D,DeSoto,Summershill,27
+Albert Wilson,Governor,,D,DeSoto,Summershill,4
 Jay Hughes,Lieutenant Governor,,D,DeSoto,Summershill,148
 Johnny DuPree,Secretary of State,,D,DeSoto,Summershill,86
 Maryra Hodges Hunt,Secretary of State,,D,DeSoto,Summershill,77
@@ -2159,114 +2159,114 @@ Zelda Hill,State House,7,D,DeSoto,Summershill,45
 Theresa Gillespie Isom,State House,7,D,DeSoto,Summershill,117
 Matt Williams,State House,28,D,DeSoto,Summershill,X
 Hester Jackson McCray,State House,40,D,DeSoto,Summershill,X
-Robert Foster,Governor ,,R,DeSoto,Walls ,208
-Tate Reeves,Governor ,,R,DeSoto,Walls ,286
-Bill Waller Jr.,Governor ,,R,DeSoto,Walls ,55
-Delbert Hosemann,Lieutenant Governor,,R,DeSoto,Walls ,353
-Shane Quick,Lieutenant Governor,,R,DeSoto,Walls ,159
-Sam Britton,Secretary of State,,R,DeSoto,Walls ,211
-Michael Watson,Secretary of State,,R,DeSoto,Walls ,283
-Mark Baker,Attorney General,,R,DeSoto,Walls ,195
-Lynn Fitch,Attorney General,,R,DeSoto,Walls ,201
-Andy Taggart,Attorney General,,R,DeSoto,Walls ,113
-Shad White,State Auditor,,R,DeSoto,Walls ,467
-Eugene S. 'Buck' Clarke,State Treasurer,,R,DeSoto,Walls ,180
-David McRae,State Treasurer,,R,DeSoto,Walls ,312
-Andy Gipson,Commissioner of Agriculture & Commerce,,R,DeSoto,Walls ,469
-Mike Chaney,Commissioner of Insurance,,R,DeSoto,Walls ,467
-Murry Haslip,State Senate,1,R,DeSoto,Walls ,105
-Chris Massey,State Senate,1,R,DeSoto,Walls ,326
-Michael W McLendon,State Senate,1,R,DeSoto,Walls ,81
-David Parker,State Senate,2,R,DeSoto,Walls ,x
-Kevin Blackwell ,State Senate,19,R,DeSoto,Walls ,x
-Dana Criswell,State House,6,R,DeSoto,Walls ,X
-Mike Duncan,State House,6,R,DeSoto,Walls ,X
-Steve Hopkins,State House,7,R,DeSoto,Walls ,X
-Kimberly Remak,State House,7,R,DeSoto,Walls ,X
-Jeft Hale,State House,24,R,DeSoto,Walls ,X
-Randy Denton,State House,25,R,DeSoto,Walls ,254
-Dan Eubanks,State House,25,R,DeSoto,Walls ,289
-Jerry Darnell,State House,28,R,DeSoto,Walls ,X
-W I 'Doc' Harris Jr. ,State House,28,R,DeSoto,Walls ,X
-Ashley Henley,State House,40,R,DeSoto,Walls ,X
-Francis J Miller,State House,40,R,DeSoto,Walls ,X
-Charlie Roberts,State House,40,R,DeSoto,Walls ,X
-Bill Kinkade,State House,52,R,DeSoto,Walls ,X
-Michael Brown,Governor ,,D,DeSoto,Walls ,28
-William Bond Compton Jr.,Governor ,,D,DeSoto,Walls ,2
-Jim Hood,Governor ,,D,DeSoto,Walls ,70
-Robert J. Ray,Governor ,,D,DeSoto,Walls ,5
-Robert Shuler Smith,Governor ,,D,DeSoto,Walls ,11
-Gregory Wash,Governor ,,D,DeSoto,Walls ,0
-Velesha P Williams,Governor ,,D,DeSoto,Walls ,44
-Albert Wilson,Governor ,,D,DeSoto,Walls ,3
-Jay Hughes,Lieutenant Governor,,D,DeSoto,Walls ,139
-Johnny DuPree,Secretary of State,,D,DeSoto,Walls ,83
-Maryra Hodges Hunt,Secretary of State,,D,DeSoto,Walls ,75
-Jennifer Riley Collins,Attorney General,,D,DeSoto,Walls ,140
-Addie Lee Green,State Treasurer,,D,DeSoto,Walls ,147
-Rickey L Cole,Commissioner of Agriculture & Commerce,,D,DeSoto,Walls ,144
-Robert E Amos,Commissioner of Insurance,,D,DeSoto,Walls ,140
-Lee A Jackson,State Senate,2,D,DeSoto,Walls ,X
-Dianne Black,State Senate,19,D,DeSoto,Walls ,X
-Zelda Hill,State House,7,D,DeSoto,Walls ,X
-Theresa Gillespie Isom,State House,7,D,DeSoto,Walls ,X
-Matt Williams,State House,28,D,DeSoto,Walls ,X
-Hester Jackson McCray,State House,40,D,DeSoto,Walls ,X
-Robert Foster,Governor ,,R,DeSoto,TOTAL ,10617
-Tate Reeves,Governor ,,R,DeSoto,TOTAL ,8608
-Bill Waller Jr.,Governor ,,R,DeSoto,TOTAL ,2649
-Delbert Hosemann,Lieutenant Governor,,R,DeSoto,TOTAL ,15265
-Shane Quick,Lieutenant Governor,,R,DeSoto,TOTAL ,4815
-Sam Britton,Secretary of State,,R,DeSoto,TOTAL ,8981
-Michael Watson,Secretary of State,,R,DeSoto,TOTAL ,10664
-Mark Baker,Attorney General,,R,DeSoto,TOTAL ,7732
-Lynn Fitch,Attorney General,,R,DeSoto,TOTAL ,7834
-Andy Taggart,Attorney General,,R,DeSoto,TOTAL ,4760
-Shad White,State Auditor,,R,DeSoto,TOTAL ,18170
-Eugene S. 'Buck' Clarke,State Treasurer,,R,DeSoto,TOTAL ,7412
-David McRae,State Treasurer,,R,DeSoto,TOTAL ,12282
-Andy Gipson,Commissioner of Agriculture & Commerce,,R,DeSoto,TOTAL ,18301
-Mike Chaney,Commissioner of Insurance,,R,DeSoto,TOTAL ,18351
-Murry Haslip,State Senate,1,R,DeSoto,TOTAL ,2751
-Chris Massey,State Senate,1,R,DeSoto,TOTAL ,4942
-Michael W McLendon,State Senate,1,R,DeSoto,TOTAL ,3334
-David Parker,State Senate,2,R,DeSoto,TOTAL ,4367
-Kevin Blackwell ,State Senate,19,R,DeSoto,TOTAL ,4357
-Dana Criswell,State House,6,R,DeSoto,TOTAL ,1536
-Mike Duncan,State House,6,R,DeSoto,TOTAL ,1234
-Steve Hopkins,State House,7,R,DeSoto,TOTAL ,1818
-Kimberly Remak,State House,7,R,DeSoto,TOTAL ,1316
-Jeft Hale,State House,24,R,DeSoto,TOTAL ,2995
-Randy Denton,State House,25,R,DeSoto,TOTAL ,1332
-Dan Eubanks,State House,25,R,DeSoto,TOTAL ,1815
-Jerry Darnell,State House,28,R,DeSoto,TOTAL ,3767
-W I 'Doc' Harris Jr. ,State House,28,R,DeSoto,TOTAL ,2860
-Ashley Henley,State House,40,R,DeSoto,TOTAL ,823
-Francis J Miller,State House,40,R,DeSoto,TOTAL ,84
-Charlie Roberts,State House,40,R,DeSoto,TOTAL ,342
-Bill Kinkade,State House,52,R,DeSoto,TOTAL ,731
-Michael Brown,Governor ,,D,DeSoto,TOTAL ,740
-William Bond Compton Jr.,Governor ,,D,DeSoto,TOTAL ,122
-Jim Hood,Governor ,,D,DeSoto,TOTAL ,2191
-Robert J. Ray,Governor ,,D,DeSoto,TOTAL ,86
-Robert Shuler Smith,Governor ,,D,DeSoto,TOTAL ,215
-Gregory Wash,Governor ,,D,DeSoto,TOTAL ,47
-Velesha P Williams,Governor ,,D,DeSoto,TOTAL ,818
-Albert Wilson,Governor ,,D,DeSoto,TOTAL ,100
-Jay Hughes,Lieutenant Governor,,D,DeSoto,TOTAL ,3866
-Johnny DuPree,Secretary of State,,D,DeSoto,TOTAL ,2198
-Maryra Hodges Hunt,Secretary of State,,D,DeSoto,TOTAL ,1981
-Jennifer Riley Collins,Attorney General,,D,DeSoto,TOTAL ,3896
-Addie Lee Green,State Treasurer,,D,DeSoto,TOTAL ,3920
-Rickey L Cole,Commissioner of Agriculture & Commerce,,D,DeSoto,TOTAL ,3883
-Robert E Amos,Commissioner of Insurance,,D,DeSoto,TOTAL ,3825
-Lee A Jackson,State Senate,2,D,DeSoto,TOTAL ,1315
-Dianne Black,State Senate,19,D,DeSoto,TOTAL ,1389
-Zelda Hill,State House,7,D,DeSoto,TOTAL ,235
-Theresa Gillespie Isom,State House,7,D,DeSoto,TOTAL ,545
-Matt Williams,State House,28,D,DeSoto,TOTAL ,479
-Hester Jackson McCray,State House,40,D,DeSoto,TOTAL ,442
+Robert Foster,Governor,,R,DeSoto,Walls,208
+Tate Reeves,Governor,,R,DeSoto,Walls,286
+Bill Waller Jr.,Governor,,R,DeSoto,Walls,55
+Delbert Hosemann,Lieutenant Governor,,R,DeSoto,Walls,353
+Shane Quick,Lieutenant Governor,,R,DeSoto,Walls,159
+Sam Britton,Secretary of State,,R,DeSoto,Walls,211
+Michael Watson,Secretary of State,,R,DeSoto,Walls,283
+Mark Baker,Attorney General,,R,DeSoto,Walls,195
+Lynn Fitch,Attorney General,,R,DeSoto,Walls,201
+Andy Taggart,Attorney General,,R,DeSoto,Walls,113
+Shad White,State Auditor,,R,DeSoto,Walls,467
+Eugene S. 'Buck' Clarke,State Treasurer,,R,DeSoto,Walls,180
+David McRae,State Treasurer,,R,DeSoto,Walls,312
+Andy Gipson,Commissioner of Agriculture & Commerce,,R,DeSoto,Walls,469
+Mike Chaney,Commissioner of Insurance,,R,DeSoto,Walls,467
+Murry Haslip,State Senate,1,R,DeSoto,Walls,105
+Chris Massey,State Senate,1,R,DeSoto,Walls,326
+Michael W McLendon,State Senate,1,R,DeSoto,Walls,81
+David Parker,State Senate,2,R,DeSoto,Walls,x
+Kevin Blackwell,State Senate,19,R,DeSoto,Walls,x
+Dana Criswell,State House,6,R,DeSoto,Walls,X
+Mike Duncan,State House,6,R,DeSoto,Walls,X
+Steve Hopkins,State House,7,R,DeSoto,Walls,X
+Kimberly Remak,State House,7,R,DeSoto,Walls,X
+Jeft Hale,State House,24,R,DeSoto,Walls,X
+Randy Denton,State House,25,R,DeSoto,Walls,254
+Dan Eubanks,State House,25,R,DeSoto,Walls,289
+Jerry Darnell,State House,28,R,DeSoto,Walls,X
+W I 'Doc' Harris Jr.,State House,28,R,DeSoto,Walls,X
+Ashley Henley,State House,40,R,DeSoto,Walls,X
+Francis J Miller,State House,40,R,DeSoto,Walls,X
+Charlie Roberts,State House,40,R,DeSoto,Walls,X
+Bill Kinkade,State House,52,R,DeSoto,Walls,X
+Michael Brown,Governor,,D,DeSoto,Walls,28
+William Bond Compton Jr.,Governor,,D,DeSoto,Walls,2
+Jim Hood,Governor,,D,DeSoto,Walls,70
+Robert J. Ray,Governor,,D,DeSoto,Walls,5
+Robert Shuler Smith,Governor,,D,DeSoto,Walls,11
+Gregory Wash,Governor,,D,DeSoto,Walls,0
+Velesha P Williams,Governor,,D,DeSoto,Walls,44
+Albert Wilson,Governor,,D,DeSoto,Walls,3
+Jay Hughes,Lieutenant Governor,,D,DeSoto,Walls,139
+Johnny DuPree,Secretary of State,,D,DeSoto,Walls,83
+Maryra Hodges Hunt,Secretary of State,,D,DeSoto,Walls,75
+Jennifer Riley Collins,Attorney General,,D,DeSoto,Walls,140
+Addie Lee Green,State Treasurer,,D,DeSoto,Walls,147
+Rickey L Cole,Commissioner of Agriculture & Commerce,,D,DeSoto,Walls,144
+Robert E Amos,Commissioner of Insurance,,D,DeSoto,Walls,140
+Lee A Jackson,State Senate,2,D,DeSoto,Walls,X
+Dianne Black,State Senate,19,D,DeSoto,Walls,X
+Zelda Hill,State House,7,D,DeSoto,Walls,X
+Theresa Gillespie Isom,State House,7,D,DeSoto,Walls,X
+Matt Williams,State House,28,D,DeSoto,Walls,X
+Hester Jackson McCray,State House,40,D,DeSoto,Walls,X
+Robert Foster,Governor,,R,DeSoto,TOTAL,10617
+Tate Reeves,Governor,,R,DeSoto,TOTAL,8608
+Bill Waller Jr.,Governor,,R,DeSoto,TOTAL,2649
+Delbert Hosemann,Lieutenant Governor,,R,DeSoto,TOTAL,15265
+Shane Quick,Lieutenant Governor,,R,DeSoto,TOTAL,4815
+Sam Britton,Secretary of State,,R,DeSoto,TOTAL,8981
+Michael Watson,Secretary of State,,R,DeSoto,TOTAL,10664
+Mark Baker,Attorney General,,R,DeSoto,TOTAL,7732
+Lynn Fitch,Attorney General,,R,DeSoto,TOTAL,7834
+Andy Taggart,Attorney General,,R,DeSoto,TOTAL,4760
+Shad White,State Auditor,,R,DeSoto,TOTAL,18170
+Eugene S. 'Buck' Clarke,State Treasurer,,R,DeSoto,TOTAL,7412
+David McRae,State Treasurer,,R,DeSoto,TOTAL,12282
+Andy Gipson,Commissioner of Agriculture & Commerce,,R,DeSoto,TOTAL,18301
+Mike Chaney,Commissioner of Insurance,,R,DeSoto,TOTAL,18351
+Murry Haslip,State Senate,1,R,DeSoto,TOTAL,2751
+Chris Massey,State Senate,1,R,DeSoto,TOTAL,4942
+Michael W McLendon,State Senate,1,R,DeSoto,TOTAL,3334
+David Parker,State Senate,2,R,DeSoto,TOTAL,4367
+Kevin Blackwell,State Senate,19,R,DeSoto,TOTAL,4357
+Dana Criswell,State House,6,R,DeSoto,TOTAL,1536
+Mike Duncan,State House,6,R,DeSoto,TOTAL,1234
+Steve Hopkins,State House,7,R,DeSoto,TOTAL,1818
+Kimberly Remak,State House,7,R,DeSoto,TOTAL,1316
+Jeft Hale,State House,24,R,DeSoto,TOTAL,2995
+Randy Denton,State House,25,R,DeSoto,TOTAL,1332
+Dan Eubanks,State House,25,R,DeSoto,TOTAL,1815
+Jerry Darnell,State House,28,R,DeSoto,TOTAL,3767
+W I 'Doc' Harris Jr.,State House,28,R,DeSoto,TOTAL,2860
+Ashley Henley,State House,40,R,DeSoto,TOTAL,823
+Francis J Miller,State House,40,R,DeSoto,TOTAL,84
+Charlie Roberts,State House,40,R,DeSoto,TOTAL,342
+Bill Kinkade,State House,52,R,DeSoto,TOTAL,731
+Michael Brown,Governor,,D,DeSoto,TOTAL,740
+William Bond Compton Jr.,Governor,,D,DeSoto,TOTAL,122
+Jim Hood,Governor,,D,DeSoto,TOTAL,2191
+Robert J. Ray,Governor,,D,DeSoto,TOTAL,86
+Robert Shuler Smith,Governor,,D,DeSoto,TOTAL,215
+Gregory Wash,Governor,,D,DeSoto,TOTAL,47
+Velesha P Williams,Governor,,D,DeSoto,TOTAL,818
+Albert Wilson,Governor,,D,DeSoto,TOTAL,100
+Jay Hughes,Lieutenant Governor,,D,DeSoto,TOTAL,3866
+Johnny DuPree,Secretary of State,,D,DeSoto,TOTAL,2198
+Maryra Hodges Hunt,Secretary of State,,D,DeSoto,TOTAL,1981
+Jennifer Riley Collins,Attorney General,,D,DeSoto,TOTAL,3896
+Addie Lee Green,State Treasurer,,D,DeSoto,TOTAL,3920
+Rickey L Cole,Commissioner of Agriculture & Commerce,,D,DeSoto,TOTAL,3883
+Robert E Amos,Commissioner of Insurance,,D,DeSoto,TOTAL,3825
+Lee A Jackson,State Senate,2,D,DeSoto,TOTAL,1315
+Dianne Black,State Senate,19,D,DeSoto,TOTAL,1389
+Zelda Hill,State House,7,D,DeSoto,TOTAL,235
+Theresa Gillespie Isom,State House,7,D,DeSoto,TOTAL,545
+Matt Williams,State House,28,D,DeSoto,TOTAL,479
+Hester Jackson McCray,State House,40,D,DeSoto,TOTAL,442
 ,,,,,,
 ,,,,,,
 ,,,,,,

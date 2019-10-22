@@ -1,44 +1,44 @@
 candidate,office,district,party,county,precinct,votes
-Robert Foster,Governor ,,R,Newton,Chunky ,60
-Tate Reeves,Governor ,,R,Newton,Chunky ,168
-Bill Waller Jr.,Governor ,,R,Newton,Chunky ,74
-Delbert Hosemann,Lieutenant Governor,,R,Newton,Chunky ,250
-Shane Quick,Lieutenant Governor,,R,Newton,Chunky ,45
-Sam Britton,Secretary of State,,R,Newton,Chunky ,126
-Michael Watson,Secretary of State,,R,Newton,Chunky ,159
-Mark Baker,Attorney General,,R,Newton,Chunky ,76
-Lynn Fitch,Attorney General,,R,Newton,Chunky ,151
-Andy Taggart,Attorney General,,R,Newton,Chunky ,65
-Shad White,State Auditor,,R,Newton,Chunky ,268
-Eugene S. 'Buck' Clarke,State Treasurer,,R,Newton,Chunky ,82
-David McRae,State Treasurer,,R,Newton,Chunky ,210
-Andy Gipson,Commissioner of Agriculture & Commerce,,R,Newton,Chunky ,277
-Mike Chaney,Commissioner of Insurance,,R,Newton,Chunky ,279
-Hampton Gardner,State Senate,31,R,Newton,Chunky ,84
-Tyler McCaughn,State Senate,31,R,Newton,Chunky ,211
-Randal 'Randy' Rushing,State House,78,R,Newton,Chunky ,x
-William E Shirley Jr.,State House,84,R,Newton,Chunky ,103
-Troy Smith,State House,84,R,Newton,Chunky ,194
-Michael Brown,Governor ,,D,Newton,Chunky ,0
-William Bond Compton Jr.,Governor ,,D,Newton,Chunky ,0
-Jim Hood,Governor ,,D,Newton,Chunky ,10
-Robert J. Ray,Governor ,,D,Newton,Chunky ,1
-Robert Shuler Smith,Governor ,,D,Newton,Chunky ,0
-Gregory Wash,Governor ,,D,Newton,Chunky ,0
-Velesha P Williams,Governor ,,D,Newton,Chunky ,2
-Albert Wilson,Governor ,,D,Newton,Chunky ,0
-Jay Hughes,Lieutenant Governor,,D,Newton,Chunky ,12
-Johnny DuPree,Secretary of State,,D,Newton,Chunky ,12
-Maryra Hodges Hunt,Secretary of State,,D,Newton,Chunky ,1
-Jennifer Riley Collins,Attorney General,,D,Newton,Chunky ,12
-Addie Lee Green,State Treasurer,,D,Newton,Chunky ,13
-Rickey L Cole,Commissioner of Agriculture & Commerce,,D,Newton,Chunky ,12
-Robert E Amos,Commissioner of Insurance,,D,Newton,Chunky ,11
-Mike Marlow,State Senate,31,D,Newton,Chunky ,11
-Joe C Bradford,State House,78,D,Newton,Chunky ,x
-Robert Foster,Governor ,,R,Newton,Conehatta,53
-Tate Reeves,Governor ,,R,Newton,Conehatta,110
-Bill Waller Jr.,Governor ,,R,Newton,Conehatta,84
+Robert Foster,Governor,,R,Newton,Chunky,60
+Tate Reeves,Governor,,R,Newton,Chunky,168
+Bill Waller Jr.,Governor,,R,Newton,Chunky,74
+Delbert Hosemann,Lieutenant Governor,,R,Newton,Chunky,250
+Shane Quick,Lieutenant Governor,,R,Newton,Chunky,45
+Sam Britton,Secretary of State,,R,Newton,Chunky,126
+Michael Watson,Secretary of State,,R,Newton,Chunky,159
+Mark Baker,Attorney General,,R,Newton,Chunky,76
+Lynn Fitch,Attorney General,,R,Newton,Chunky,151
+Andy Taggart,Attorney General,,R,Newton,Chunky,65
+Shad White,State Auditor,,R,Newton,Chunky,268
+Eugene S. 'Buck' Clarke,State Treasurer,,R,Newton,Chunky,82
+David McRae,State Treasurer,,R,Newton,Chunky,210
+Andy Gipson,Commissioner of Agriculture & Commerce,,R,Newton,Chunky,277
+Mike Chaney,Commissioner of Insurance,,R,Newton,Chunky,279
+Hampton Gardner,State Senate,31,R,Newton,Chunky,84
+Tyler McCaughn,State Senate,31,R,Newton,Chunky,211
+Randal 'Randy' Rushing,State House,78,R,Newton,Chunky,x
+William E Shirley Jr.,State House,84,R,Newton,Chunky,103
+Troy Smith,State House,84,R,Newton,Chunky,194
+Michael Brown,Governor,,D,Newton,Chunky,0
+William Bond Compton Jr.,Governor,,D,Newton,Chunky,0
+Jim Hood,Governor,,D,Newton,Chunky,10
+Robert J. Ray,Governor,,D,Newton,Chunky,1
+Robert Shuler Smith,Governor,,D,Newton,Chunky,0
+Gregory Wash,Governor,,D,Newton,Chunky,0
+Velesha P Williams,Governor,,D,Newton,Chunky,2
+Albert Wilson,Governor,,D,Newton,Chunky,0
+Jay Hughes,Lieutenant Governor,,D,Newton,Chunky,12
+Johnny DuPree,Secretary of State,,D,Newton,Chunky,12
+Maryra Hodges Hunt,Secretary of State,,D,Newton,Chunky,1
+Jennifer Riley Collins,Attorney General,,D,Newton,Chunky,12
+Addie Lee Green,State Treasurer,,D,Newton,Chunky,13
+Rickey L Cole,Commissioner of Agriculture & Commerce,,D,Newton,Chunky,12
+Robert E Amos,Commissioner of Insurance,,D,Newton,Chunky,11
+Mike Marlow,State Senate,31,D,Newton,Chunky,11
+Joe C Bradford,State House,78,D,Newton,Chunky,x
+Robert Foster,Governor,,R,Newton,Conehatta,53
+Tate Reeves,Governor,,R,Newton,Conehatta,110
+Bill Waller Jr.,Governor,,R,Newton,Conehatta,84
 Delbert Hosemann,Lieutenant Governor,,R,Newton,Conehatta,195
 Shane Quick,Lieutenant Governor,,R,Newton,Conehatta,50
 Sam Britton,Secretary of State,,R,Newton,Conehatta,104
@@ -56,14 +56,14 @@ Tyler McCaughn,State Senate,31,R,Newton,Conehatta,178
 Randal 'Randy' Rushing,State House,78,R,Newton,Conehatta,226
 William E Shirley Jr.,State House,84,R,Newton,Conehatta,x
 Troy Smith,State House,84,R,Newton,Conehatta,x
-Michael Brown,Governor ,,D,Newton,Conehatta,3
-William Bond Compton Jr.,Governor ,,D,Newton,Conehatta,1
-Jim Hood,Governor ,,D,Newton,Conehatta,33
-Robert J. Ray,Governor ,,D,Newton,Conehatta,0
-Robert Shuler Smith,Governor ,,D,Newton,Conehatta,4
-Gregory Wash,Governor ,,D,Newton,Conehatta,1
-Velesha P Williams,Governor ,,D,Newton,Conehatta,2
-Albert Wilson,Governor ,,D,Newton,Conehatta,0
+Michael Brown,Governor,,D,Newton,Conehatta,3
+William Bond Compton Jr.,Governor,,D,Newton,Conehatta,1
+Jim Hood,Governor,,D,Newton,Conehatta,33
+Robert J. Ray,Governor,,D,Newton,Conehatta,0
+Robert Shuler Smith,Governor,,D,Newton,Conehatta,4
+Gregory Wash,Governor,,D,Newton,Conehatta,1
+Velesha P Williams,Governor,,D,Newton,Conehatta,2
+Albert Wilson,Governor,,D,Newton,Conehatta,0
 Jay Hughes,Lieutenant Governor,,D,Newton,Conehatta,41
 Johnny DuPree,Secretary of State,,D,Newton,Conehatta,31
 Maryra Hodges Hunt,Secretary of State,,D,Newton,Conehatta,12
@@ -73,9 +73,9 @@ Rickey L Cole,Commissioner of Agriculture & Commerce,,D,Newton,Conehatta,43
 Robert E Amos,Commissioner of Insurance,,D,Newton,Conehatta,41
 Mike Marlow,State Senate,31,D,Newton,Conehatta,40
 Joe C Bradford,State House,78,D,Newton,Conehatta,42
-Robert Foster,Governor ,,R,Newton,Decatur #1,47
-Tate Reeves,Governor ,,R,Newton,Decatur #1,102
-Bill Waller Jr.,Governor ,,R,Newton,Decatur #1,169
+Robert Foster,Governor,,R,Newton,Decatur #1,47
+Tate Reeves,Governor,,R,Newton,Decatur #1,102
+Bill Waller Jr.,Governor,,R,Newton,Decatur #1,169
 Delbert Hosemann,Lieutenant Governor,,R,Newton,Decatur #1,270
 Shane Quick,Lieutenant Governor,,R,Newton,Decatur #1,40
 Sam Britton,Secretary of State,,R,Newton,Decatur #1,125
@@ -93,14 +93,14 @@ Tyler McCaughn,State Senate,31,R,Newton,Decatur #1,254
 Randal 'Randy' Rushing,State House,78,R,Newton,Decatur #1,268
 William E Shirley Jr.,State House,84,R,Newton,Decatur #1,12
 Troy Smith,State House,84,R,Newton,Decatur #1,19
-Michael Brown,Governor ,,D,Newton,Decatur #1,9
-William Bond Compton Jr.,Governor ,,D,Newton,Decatur #1,3
-Jim Hood,Governor ,,D,Newton,Decatur #1,63
-Robert J. Ray,Governor ,,D,Newton,Decatur #1,1
-Robert Shuler Smith,Governor ,,D,Newton,Decatur #1,3
-Gregory Wash,Governor ,,D,Newton,Decatur #1,2
-Velesha P Williams,Governor ,,D,Newton,Decatur #1,8
-Albert Wilson,Governor ,,D,Newton,Decatur #1,0
+Michael Brown,Governor,,D,Newton,Decatur #1,9
+William Bond Compton Jr.,Governor,,D,Newton,Decatur #1,3
+Jim Hood,Governor,,D,Newton,Decatur #1,63
+Robert J. Ray,Governor,,D,Newton,Decatur #1,1
+Robert Shuler Smith,Governor,,D,Newton,Decatur #1,3
+Gregory Wash,Governor,,D,Newton,Decatur #1,2
+Velesha P Williams,Governor,,D,Newton,Decatur #1,8
+Albert Wilson,Governor,,D,Newton,Decatur #1,0
 Jay Hughes,Lieutenant Governor,,D,Newton,Decatur #1,78
 Johnny DuPree,Secretary of State,,D,Newton,Decatur #1,66
 Maryra Hodges Hunt,Secretary of State,,D,Newton,Decatur #1,20
@@ -110,9 +110,9 @@ Rickey L Cole,Commissioner of Agriculture & Commerce,,D,Newton,Decatur #1,81
 Robert E Amos,Commissioner of Insurance,,D,Newton,Decatur #1,79
 Mike Marlow,State Senate,31,D,Newton,Decatur #1,77
 Joe C Bradford,State House,78,D,Newton,Decatur #1,59
-Robert Foster,Governor ,,R,Newton,Decatur 2,42
-Tate Reeves,Governor ,,R,Newton,Decatur 2,106
-Bill Waller Jr.,Governor ,,R,Newton,Decatur 2,169
+Robert Foster,Governor,,R,Newton,Decatur 2,42
+Tate Reeves,Governor,,R,Newton,Decatur 2,106
+Bill Waller Jr.,Governor,,R,Newton,Decatur 2,169
 Delbert Hosemann,Lieutenant Governor,,R,Newton,Decatur 2,247
 Shane Quick,Lieutenant Governor,,R,Newton,Decatur 2,56
 Sam Britton,Secretary of State,,R,Newton,Decatur 2,128
@@ -130,14 +130,14 @@ Tyler McCaughn,State Senate,31,R,Newton,Decatur 2,259
 Randal 'Randy' Rushing,State House,78,R,Newton,Decatur 2,291
 William E Shirley Jr.,State House,84,R,Newton,Decatur 2,2
 Troy Smith,State House,84,R,Newton,Decatur 2,9
-Michael Brown,Governor ,,D,Newton,Decatur 2,3
-William Bond Compton Jr.,Governor ,,D,Newton,Decatur 2,0
-Jim Hood,Governor ,,D,Newton,Decatur 2,15
-Robert J. Ray,Governor ,,D,Newton,Decatur 2,1
-Robert Shuler Smith,Governor ,,D,Newton,Decatur 2,2
-Gregory Wash,Governor ,,D,Newton,Decatur 2,0
-Velesha P Williams,Governor ,,D,Newton,Decatur 2,4
-Albert Wilson,Governor ,,D,Newton,Decatur 2,2
+Michael Brown,Governor,,D,Newton,Decatur 2,3
+William Bond Compton Jr.,Governor,,D,Newton,Decatur 2,0
+Jim Hood,Governor,,D,Newton,Decatur 2,15
+Robert J. Ray,Governor,,D,Newton,Decatur 2,1
+Robert Shuler Smith,Governor,,D,Newton,Decatur 2,2
+Gregory Wash,Governor,,D,Newton,Decatur 2,0
+Velesha P Williams,Governor,,D,Newton,Decatur 2,4
+Albert Wilson,Governor,,D,Newton,Decatur 2,2
 Jay Hughes,Lieutenant Governor,,D,Newton,Decatur 2,25
 Johnny DuPree,Secretary of State,,D,Newton,Decatur 2,22
 Maryra Hodges Hunt,Secretary of State,,D,Newton,Decatur 2,4
@@ -147,9 +147,9 @@ Rickey L Cole,Commissioner of Agriculture & Commerce,,D,Newton,Decatur 2,24
 Robert E Amos,Commissioner of Insurance,,D,Newton,Decatur 2,25
 Mike Marlow,State Senate,31,D,Newton,Decatur 2,24
 Joe C Bradford,State House,78,D,Newton,Decatur 2,25
-Robert Foster,Governor ,,R,Newton,Duffee,66
-Tate Reeves,Governor ,,R,Newton,Duffee,206
-Bill Waller Jr.,Governor ,,R,Newton,Duffee,69
+Robert Foster,Governor,,R,Newton,Duffee,66
+Tate Reeves,Governor,,R,Newton,Duffee,206
+Bill Waller Jr.,Governor,,R,Newton,Duffee,69
 Delbert Hosemann,Lieutenant Governor,,R,Newton,Duffee,289
 Shane Quick,Lieutenant Governor,,R,Newton,Duffee,43
 Sam Britton,Secretary of State,,R,Newton,Duffee,133
@@ -167,14 +167,14 @@ Tyler McCaughn,State Senate,31,R,Newton,Duffee,222
 Randal 'Randy' Rushing,State House,78,R,Newton,Duffee,x
 William E Shirley Jr.,State House,84,R,Newton,Duffee,94
 Troy Smith,State House,84,R,Newton,Duffee,238
-Michael Brown,Governor ,,D,Newton,Duffee,1
-William Bond Compton Jr.,Governor ,,D,Newton,Duffee,0
-Jim Hood,Governor ,,D,Newton,Duffee,15
-Robert J. Ray,Governor ,,D,Newton,Duffee,0
-Robert Shuler Smith,Governor ,,D,Newton,Duffee,0
-Gregory Wash,Governor ,,D,Newton,Duffee,0
-Velesha P Williams,Governor ,,D,Newton,Duffee,0
-Albert Wilson,Governor ,,D,Newton,Duffee,0
+Michael Brown,Governor,,D,Newton,Duffee,1
+William Bond Compton Jr.,Governor,,D,Newton,Duffee,0
+Jim Hood,Governor,,D,Newton,Duffee,15
+Robert J. Ray,Governor,,D,Newton,Duffee,0
+Robert Shuler Smith,Governor,,D,Newton,Duffee,0
+Gregory Wash,Governor,,D,Newton,Duffee,0
+Velesha P Williams,Governor,,D,Newton,Duffee,0
+Albert Wilson,Governor,,D,Newton,Duffee,0
 Jay Hughes,Lieutenant Governor,,D,Newton,Duffee,14
 Johnny DuPree,Secretary of State,,D,Newton,Duffee,12
 Maryra Hodges Hunt,Secretary of State,,D,Newton,Duffee,3
@@ -184,9 +184,9 @@ Rickey L Cole,Commissioner of Agriculture & Commerce,,D,Newton,Duffee,15
 Robert E Amos,Commissioner of Insurance,,D,Newton,Duffee,14
 Mike Marlow,State Senate,31,D,Newton,Duffee,14
 Joe C Bradford,State House,78,D,Newton,Duffee,x
-Robert Foster,Governor ,,R,Newton,Hickory,113
-Tate Reeves,Governor ,,R,Newton,Hickory,319
-Bill Waller Jr.,Governor ,,R,Newton,Hickory,241
+Robert Foster,Governor,,R,Newton,Hickory,113
+Tate Reeves,Governor,,R,Newton,Hickory,319
+Bill Waller Jr.,Governor,,R,Newton,Hickory,241
 Delbert Hosemann,Lieutenant Governor,,R,Newton,Hickory,566
 Shane Quick,Lieutenant Governor,,R,Newton,Hickory,100
 Sam Britton,Secretary of State,,R,Newton,Hickory,282
@@ -204,14 +204,14 @@ Tyler McCaughn,State Senate,31,R,Newton,Hickory,554
 Randal 'Randy' Rushing,State House,78,R,Newton,Hickory,x
 William E Shirley Jr.,State House,84,R,Newton,Hickory,196
 Troy Smith,State House,84,R,Newton,Hickory,469
-Michael Brown,Governor ,,D,Newton,Hickory,9
-William Bond Compton Jr.,Governor ,,D,Newton,Hickory,0
-Jim Hood,Governor ,,D,Newton,Hickory,107
-Robert J. Ray,Governor ,,D,Newton,Hickory,3
-Robert Shuler Smith,Governor ,,D,Newton,Hickory,6
-Gregory Wash,Governor ,,D,Newton,Hickory,4
-Velesha P Williams,Governor ,,D,Newton,Hickory,18
-Albert Wilson,Governor ,,D,Newton,Hickory,3
+Michael Brown,Governor,,D,Newton,Hickory,9
+William Bond Compton Jr.,Governor,,D,Newton,Hickory,0
+Jim Hood,Governor,,D,Newton,Hickory,107
+Robert J. Ray,Governor,,D,Newton,Hickory,3
+Robert Shuler Smith,Governor,,D,Newton,Hickory,6
+Gregory Wash,Governor,,D,Newton,Hickory,4
+Velesha P Williams,Governor,,D,Newton,Hickory,18
+Albert Wilson,Governor,,D,Newton,Hickory,3
 Jay Hughes,Lieutenant Governor,,D,Newton,Hickory,128
 Johnny DuPree,Secretary of State,,D,Newton,Hickory,108
 Maryra Hodges Hunt,Secretary of State,,D,Newton,Hickory,36
@@ -221,9 +221,9 @@ Rickey L Cole,Commissioner of Agriculture & Commerce,,D,Newton,Hickory,130
 Robert E Amos,Commissioner of Insurance,,D,Newton,Hickory,125
 Mike Marlow,State Senate,31,D,Newton,Hickory,122
 Joe C Bradford,State House,78,D,Newton,Hickory,x
-Robert Foster,Governor ,,R,Newton,Lawrence,66
-Tate Reeves,Governor ,,R,Newton,Lawrence,205
-Bill Waller Jr.,Governor ,,R,Newton,Lawrence,145
+Robert Foster,Governor,,R,Newton,Lawrence,66
+Tate Reeves,Governor,,R,Newton,Lawrence,205
+Bill Waller Jr.,Governor,,R,Newton,Lawrence,145
 Delbert Hosemann,Lieutenant Governor,,R,Newton,Lawrence,355
 Shane Quick,Lieutenant Governor,,R,Newton,Lawrence,53
 Sam Britton,Secretary of State,,R,Newton,Lawrence,194
@@ -241,14 +241,14 @@ Tyler McCaughn,State Senate,31,R,Newton,Lawrence,347
 Randal 'Randy' Rushing,State House,78,R,Newton,Lawrence,392
 William E Shirley Jr.,State House,84,R,Newton,Lawrence,x
 Troy Smith,State House,84,R,Newton,Lawrence,x
-Michael Brown,Governor ,,D,Newton,Lawrence,15
-William Bond Compton Jr.,Governor ,,D,Newton,Lawrence,1
-Jim Hood,Governor ,,D,Newton,Lawrence,131
-Robert J. Ray,Governor ,,D,Newton,Lawrence,3
-Robert Shuler Smith,Governor ,,D,Newton,Lawrence,3
-Gregory Wash,Governor ,,D,Newton,Lawrence,7
-Velesha P Williams,Governor ,,D,Newton,Lawrence,14
-Albert Wilson,Governor ,,D,Newton,Lawrence,2
+Michael Brown,Governor,,D,Newton,Lawrence,15
+William Bond Compton Jr.,Governor,,D,Newton,Lawrence,1
+Jim Hood,Governor,,D,Newton,Lawrence,131
+Robert J. Ray,Governor,,D,Newton,Lawrence,3
+Robert Shuler Smith,Governor,,D,Newton,Lawrence,3
+Gregory Wash,Governor,,D,Newton,Lawrence,7
+Velesha P Williams,Governor,,D,Newton,Lawrence,14
+Albert Wilson,Governor,,D,Newton,Lawrence,2
 Jay Hughes,Lieutenant Governor,,D,Newton,Lawrence,164
 Johnny DuPree,Secretary of State,,D,Newton,Lawrence,123
 Maryra Hodges Hunt,Secretary of State,,D,Newton,Lawrence,51
@@ -258,9 +258,9 @@ Rickey L Cole,Commissioner of Agriculture & Commerce,,D,Newton,Lawrence,162
 Robert E Amos,Commissioner of Insurance,,D,Newton,Lawrence,160
 Mike Marlow,State Senate,31,D,Newton,Lawrence,161
 Joe C Bradford,State House,78,D,Newton,Lawrence,165
-Robert Foster,Governor ,,R,Newton,Little Rock,86
-Tate Reeves,Governor ,,R,Newton,Little Rock,270
-Bill Waller Jr.,Governor ,,R,Newton,Little Rock,150
+Robert Foster,Governor,,R,Newton,Little Rock,86
+Tate Reeves,Governor,,R,Newton,Little Rock,270
+Bill Waller Jr.,Governor,,R,Newton,Little Rock,150
 Delbert Hosemann,Lieutenant Governor,,R,Newton,Little Rock,417
 Shane Quick,Lieutenant Governor,,R,Newton,Little Rock,83
 Sam Britton,Secretary of State,,R,Newton,Little Rock,202
@@ -278,14 +278,14 @@ Tyler McCaughn,State Senate,31,R,Newton,Little Rock,396
 Randal 'Randy' Rushing,State House,78,R,Newton,Little Rock,473
 William E Shirley Jr.,State House,84,R,Newton,Little Rock,x
 Troy Smith,State House,84,R,Newton,Little Rock,x
-Michael Brown,Governor ,,D,Newton,Little Rock,0
-William Bond Compton Jr.,Governor ,,D,Newton,Little Rock,1
-Jim Hood,Governor ,,D,Newton,Little Rock,21
-Robert J. Ray,Governor ,,D,Newton,Little Rock,0
-Robert Shuler Smith,Governor ,,D,Newton,Little Rock,0
-Gregory Wash,Governor ,,D,Newton,Little Rock,0
-Velesha P Williams,Governor ,,D,Newton,Little Rock,1
-Albert Wilson,Governor ,,D,Newton,Little Rock,0
+Michael Brown,Governor,,D,Newton,Little Rock,0
+William Bond Compton Jr.,Governor,,D,Newton,Little Rock,1
+Jim Hood,Governor,,D,Newton,Little Rock,21
+Robert J. Ray,Governor,,D,Newton,Little Rock,0
+Robert Shuler Smith,Governor,,D,Newton,Little Rock,0
+Gregory Wash,Governor,,D,Newton,Little Rock,0
+Velesha P Williams,Governor,,D,Newton,Little Rock,1
+Albert Wilson,Governor,,D,Newton,Little Rock,0
 Jay Hughes,Lieutenant Governor,,D,Newton,Little Rock,21
 Johnny DuPree,Secretary of State,,D,Newton,Little Rock,16
 Maryra Hodges Hunt,Secretary of State,,D,Newton,Little Rock,7
@@ -295,9 +295,9 @@ Rickey L Cole,Commissioner of Agriculture & Commerce,,D,Newton,Little Rock,21
 Robert E Amos,Commissioner of Insurance,,D,Newton,Little Rock,21
 Mike Marlow,State Senate,31,D,Newton,Little Rock,20
 Joe C Bradford,State House,78,D,Newton,Little Rock,20
-Robert Foster,Governor ,,R,Newton,Newton #1,4
-Tate Reeves,Governor ,,R,Newton,Newton #1,19
-Bill Waller Jr.,Governor ,,R,Newton,Newton #1,23
+Robert Foster,Governor,,R,Newton,Newton #1,4
+Tate Reeves,Governor,,R,Newton,Newton #1,19
+Bill Waller Jr.,Governor,,R,Newton,Newton #1,23
 Delbert Hosemann,Lieutenant Governor,,R,Newton,Newton #1,40
 Shane Quick,Lieutenant Governor,,R,Newton,Newton #1,7
 Sam Britton,Secretary of State,,R,Newton,Newton #1,20
@@ -315,14 +315,14 @@ Tyler McCaughn,State Senate,31,R,Newton,Newton #1,40
 Randal 'Randy' Rushing,State House,78,R,Newton,Newton #1,x
 William E Shirley Jr.,State House,84,R,Newton,Newton #1,21
 Troy Smith,State House,84,R,Newton,Newton #1,26
-Michael Brown,Governor ,,D,Newton,Newton #1,29
-William Bond Compton Jr.,Governor ,,D,Newton,Newton #1,7
-Jim Hood,Governor ,,D,Newton,Newton #1,243
-Robert J. Ray,Governor ,,D,Newton,Newton #1,2
-Robert Shuler Smith,Governor ,,D,Newton,Newton #1,7
-Gregory Wash,Governor ,,D,Newton,Newton #1,4
-Velesha P Williams,Governor ,,D,Newton,Newton #1,18
-Albert Wilson,Governor ,,D,Newton,Newton #1,2
+Michael Brown,Governor,,D,Newton,Newton #1,29
+William Bond Compton Jr.,Governor,,D,Newton,Newton #1,7
+Jim Hood,Governor,,D,Newton,Newton #1,243
+Robert J. Ray,Governor,,D,Newton,Newton #1,2
+Robert Shuler Smith,Governor,,D,Newton,Newton #1,7
+Gregory Wash,Governor,,D,Newton,Newton #1,4
+Velesha P Williams,Governor,,D,Newton,Newton #1,18
+Albert Wilson,Governor,,D,Newton,Newton #1,2
 Jay Hughes,Lieutenant Governor,,D,Newton,Newton #1,272
 Johnny DuPree,Secretary of State,,D,Newton,Newton #1,260
 Maryra Hodges Hunt,Secretary of State,,D,Newton,Newton #1,42
@@ -332,9 +332,9 @@ Rickey L Cole,Commissioner of Agriculture & Commerce,,D,Newton,Newton #1,277
 Robert E Amos,Commissioner of Insurance,,D,Newton,Newton #1,275
 Mike Marlow,State Senate,31,D,Newton,Newton #1,271
 Joe C Bradford,State House,78,D,Newton,Newton #1,x
-Robert Foster,Governor ,,R,Newton,Newton # 4,61
-Tate Reeves,Governor ,,R,Newton,Newton # 4,199
-Bill Waller Jr.,Governor ,,R,Newton,Newton # 4,168
+Robert Foster,Governor,,R,Newton,Newton # 4,61
+Tate Reeves,Governor,,R,Newton,Newton # 4,199
+Bill Waller Jr.,Governor,,R,Newton,Newton # 4,168
 Delbert Hosemann,Lieutenant Governor,,R,Newton,Newton # 4,358
 Shane Quick,Lieutenant Governor,,R,Newton,Newton # 4,58
 Sam Britton,Secretary of State,,R,Newton,Newton # 4,186
@@ -352,14 +352,14 @@ Tyler McCaughn,State Senate,31,R,Newton,Newton # 4,375
 Randal 'Randy' Rushing,State House,78,R,Newton,Newton # 4,x
 William E Shirley Jr.,State House,84,R,Newton,Newton # 4,125
 Troy Smith,State House,84,R,Newton,Newton # 4,287
-Michael Brown,Governor ,,D,Newton,Newton # 4,23
-William Bond Compton Jr.,Governor ,,D,Newton,Newton # 4,1
-Jim Hood,Governor ,,D,Newton,Newton # 4,116
-Robert J. Ray,Governor ,,D,Newton,Newton # 4,3
-Robert Shuler Smith,Governor ,,D,Newton,Newton # 4,3
-Gregory Wash,Governor ,,D,Newton,Newton # 4,4
-Velesha P Williams,Governor ,,D,Newton,Newton # 4,12
-Albert Wilson,Governor ,,D,Newton,Newton # 4,1
+Michael Brown,Governor,,D,Newton,Newton # 4,23
+William Bond Compton Jr.,Governor,,D,Newton,Newton # 4,1
+Jim Hood,Governor,,D,Newton,Newton # 4,116
+Robert J. Ray,Governor,,D,Newton,Newton # 4,3
+Robert Shuler Smith,Governor,,D,Newton,Newton # 4,3
+Gregory Wash,Governor,,D,Newton,Newton # 4,4
+Velesha P Williams,Governor,,D,Newton,Newton # 4,12
+Albert Wilson,Governor,,D,Newton,Newton # 4,1
 Jay Hughes,Lieutenant Governor,,D,Newton,Newton # 4,153
 Johnny DuPree,Secretary of State,,D,Newton,Newton # 4,128
 Maryra Hodges Hunt,Secretary of State,,D,Newton,Newton # 4,33
@@ -369,9 +369,9 @@ Rickey L Cole,Commissioner of Agriculture & Commerce,,D,Newton,Newton # 4,154
 Robert E Amos,Commissioner of Insurance,,D,Newton,Newton # 4,151
 Mike Marlow,State Senate,31,D,Newton,Newton # 4,150
 Joe C Bradford,State House,78,D,Newton,Newton # 4,x
-Robert Foster,Governor ,,R,Newton,Newton #5,23
-Tate Reeves,Governor ,,R,Newton,Newton #5,100
-Bill Waller Jr.,Governor ,,R,Newton,Newton #5,108
+Robert Foster,Governor,,R,Newton,Newton #5,23
+Tate Reeves,Governor,,R,Newton,Newton #5,100
+Bill Waller Jr.,Governor,,R,Newton,Newton #5,108
 Delbert Hosemann,Lieutenant Governor,,R,Newton,Newton #5,210
 Shane Quick,Lieutenant Governor,,R,Newton,Newton #5,17
 Sam Britton,Secretary of State,,R,Newton,Newton #5,89
@@ -389,14 +389,14 @@ Tyler McCaughn,State Senate,31,R,Newton,Newton #5,210
 Randal 'Randy' Rushing,State House,78,R,Newton,Newton #5,x
 William E Shirley Jr.,State House,84,R,Newton,Newton #5,58
 Troy Smith,State House,84,R,Newton,Newton #5,165
-Michael Brown,Governor ,,D,Newton,Newton #5,7
-William Bond Compton Jr.,Governor ,,D,Newton,Newton #5,2
-Jim Hood,Governor ,,D,Newton,Newton #5,61
-Robert J. Ray,Governor ,,D,Newton,Newton #5,0
-Robert Shuler Smith,Governor ,,D,Newton,Newton #5,4
-Gregory Wash,Governor ,,D,Newton,Newton #5,4
-Velesha P Williams,Governor ,,D,Newton,Newton #5,13
-Albert Wilson,Governor ,,D,Newton,Newton #5,2
+Michael Brown,Governor,,D,Newton,Newton #5,7
+William Bond Compton Jr.,Governor,,D,Newton,Newton #5,2
+Jim Hood,Governor,,D,Newton,Newton #5,61
+Robert J. Ray,Governor,,D,Newton,Newton #5,0
+Robert Shuler Smith,Governor,,D,Newton,Newton #5,4
+Gregory Wash,Governor,,D,Newton,Newton #5,4
+Velesha P Williams,Governor,,D,Newton,Newton #5,13
+Albert Wilson,Governor,,D,Newton,Newton #5,2
 Jay Hughes,Lieutenant Governor,,D,Newton,Newton #5,86
 Johnny DuPree,Secretary of State,,D,Newton,Newton #5,65
 Maryra Hodges Hunt,Secretary of State,,D,Newton,Newton #5,26
@@ -406,9 +406,9 @@ Rickey L Cole,Commissioner of Agriculture & Commerce,,D,Newton,Newton #5,86
 Robert E Amos,Commissioner of Insurance,,D,Newton,Newton #5,87
 Mike Marlow,State Senate,31,D,Newton,Newton #5,83
 Joe C Bradford,State House,78,D,Newton,Newton #5,x
-Robert Foster,Governor ,,R,Newton,Prospect,43
-Tate Reeves,Governor ,,R,Newton,Prospect,141
-Bill Waller Jr.,Governor ,,R,Newton,Prospect,80
+Robert Foster,Governor,,R,Newton,Prospect,43
+Tate Reeves,Governor,,R,Newton,Prospect,141
+Bill Waller Jr.,Governor,,R,Newton,Prospect,80
 Delbert Hosemann,Lieutenant Governor,,R,Newton,Prospect,219
 Shane Quick,Lieutenant Governor,,R,Newton,Prospect,42
 Sam Britton,Secretary of State,,R,Newton,Prospect,104
@@ -426,14 +426,14 @@ Tyler McCaughn,State Senate,31,R,Newton,Prospect,183
 Randal 'Randy' Rushing,State House,78,R,Newton,Prospect,240
 William E Shirley Jr.,State House,84,R,Newton,Prospect,x
 Troy Smith,State House,84,R,Newton,Prospect,x
-Michael Brown,Governor ,,D,Newton,Prospect,0
-William Bond Compton Jr.,Governor ,,D,Newton,Prospect,0
-Jim Hood,Governor ,,D,Newton,Prospect,6
-Robert J. Ray,Governor ,,D,Newton,Prospect,0
-Robert Shuler Smith,Governor ,,D,Newton,Prospect,0
-Gregory Wash,Governor ,,D,Newton,Prospect,0
-Velesha P Williams,Governor ,,D,Newton,Prospect,1
-Albert Wilson,Governor ,,D,Newton,Prospect,0
+Michael Brown,Governor,,D,Newton,Prospect,0
+William Bond Compton Jr.,Governor,,D,Newton,Prospect,0
+Jim Hood,Governor,,D,Newton,Prospect,6
+Robert J. Ray,Governor,,D,Newton,Prospect,0
+Robert Shuler Smith,Governor,,D,Newton,Prospect,0
+Gregory Wash,Governor,,D,Newton,Prospect,0
+Velesha P Williams,Governor,,D,Newton,Prospect,1
+Albert Wilson,Governor,,D,Newton,Prospect,0
 Jay Hughes,Lieutenant Governor,,D,Newton,Prospect,6
 Johnny DuPree,Secretary of State,,D,Newton,Prospect,5
 Maryra Hodges Hunt,Secretary of State,,D,Newton,Prospect,1
@@ -443,9 +443,9 @@ Rickey L Cole,Commissioner of Agriculture & Commerce,,D,Newton,Prospect,6
 Robert E Amos,Commissioner of Insurance,,D,Newton,Prospect,6
 Mike Marlow,State Senate,31,D,Newton,Prospect,6
 Joe C Bradford,State House,78,D,Newton,Prospect,6
-Robert Foster,Governor ,,R,Newton,Scanlan,70
-Tate Reeves,Governor ,,R,Newton,Scanlan,177
-Bill Waller Jr.,Governor ,,R,Newton,Scanlan,164
+Robert Foster,Governor,,R,Newton,Scanlan,70
+Tate Reeves,Governor,,R,Newton,Scanlan,177
+Bill Waller Jr.,Governor,,R,Newton,Scanlan,164
 Delbert Hosemann,Lieutenant Governor,,R,Newton,Scanlan,325
 Shane Quick,Lieutenant Governor,,R,Newton,Scanlan,78
 Sam Britton,Secretary of State,,R,Newton,Scanlan,165
@@ -463,14 +463,14 @@ Tyler McCaughn,State Senate,31,R,Newton,Scanlan,302
 Randal 'Randy' Rushing,State House,78,R,Newton,Scanlan,371
 William E Shirley Jr.,State House,84,R,Newton,Scanlan,x
 Troy Smith,State House,84,R,Newton,Scanlan,x
-Michael Brown,Governor ,,D,Newton,Scanlan,2
-William Bond Compton Jr.,Governor ,,D,Newton,Scanlan,0
-Jim Hood,Governor ,,D,Newton,Scanlan,58
-Robert J. Ray,Governor ,,D,Newton,Scanlan,0
-Robert Shuler Smith,Governor ,,D,Newton,Scanlan,3
-Gregory Wash,Governor ,,D,Newton,Scanlan,1
-Velesha P Williams,Governor ,,D,Newton,Scanlan,2
-Albert Wilson,Governor ,,D,Newton,Scanlan,1
+Michael Brown,Governor,,D,Newton,Scanlan,2
+William Bond Compton Jr.,Governor,,D,Newton,Scanlan,0
+Jim Hood,Governor,,D,Newton,Scanlan,58
+Robert J. Ray,Governor,,D,Newton,Scanlan,0
+Robert Shuler Smith,Governor,,D,Newton,Scanlan,3
+Gregory Wash,Governor,,D,Newton,Scanlan,1
+Velesha P Williams,Governor,,D,Newton,Scanlan,2
+Albert Wilson,Governor,,D,Newton,Scanlan,1
 Jay Hughes,Lieutenant Governor,,D,Newton,Scanlan,63
 Johnny DuPree,Secretary of State,,D,Newton,Scanlan,47
 Maryra Hodges Hunt,Secretary of State,,D,Newton,Scanlan,17
@@ -480,9 +480,9 @@ Rickey L Cole,Commissioner of Agriculture & Commerce,,D,Newton,Scanlan,65
 Robert E Amos,Commissioner of Insurance,,D,Newton,Scanlan,62
 Mike Marlow,State Senate,31,D,Newton,Scanlan,62
 Joe C Bradford,State House,78,D,Newton,Scanlan,65
-Robert Foster,Governor ,,R,Newton,Union #1,23
-Tate Reeves,Governor ,,R,Newton,Union #1,29
-Bill Waller Jr.,Governor ,,R,Newton,Union #1,39
+Robert Foster,Governor,,R,Newton,Union #1,23
+Tate Reeves,Governor,,R,Newton,Union #1,29
+Bill Waller Jr.,Governor,,R,Newton,Union #1,39
 Delbert Hosemann,Lieutenant Governor,,R,Newton,Union #1,77
 Shane Quick,Lieutenant Governor,,R,Newton,Union #1,12
 Sam Britton,Secretary of State,,R,Newton,Union #1,38
@@ -500,14 +500,14 @@ Tyler McCaughn,State Senate,31,R,Newton,Union #1,74
 Randal 'Randy' Rushing,State House,78,R,Newton,Union #1,84
 William E Shirley Jr.,State House,84,R,Newton,Union #1,x
 Troy Smith,State House,84,R,Newton,Union #1,x
-Michael Brown,Governor ,,D,Newton,Union #1,4
-William Bond Compton Jr.,Governor ,,D,Newton,Union #1,2
-Jim Hood,Governor ,,D,Newton,Union #1,72
-Robert J. Ray,Governor ,,D,Newton,Union #1,0
-Robert Shuler Smith,Governor ,,D,Newton,Union #1,1
-Gregory Wash,Governor ,,D,Newton,Union #1,0
-Velesha P Williams,Governor ,,D,Newton,Union #1,6
-Albert Wilson,Governor ,,D,Newton,Union #1,0
+Michael Brown,Governor,,D,Newton,Union #1,4
+William Bond Compton Jr.,Governor,,D,Newton,Union #1,2
+Jim Hood,Governor,,D,Newton,Union #1,72
+Robert J. Ray,Governor,,D,Newton,Union #1,0
+Robert Shuler Smith,Governor,,D,Newton,Union #1,1
+Gregory Wash,Governor,,D,Newton,Union #1,0
+Velesha P Williams,Governor,,D,Newton,Union #1,6
+Albert Wilson,Governor,,D,Newton,Union #1,0
 Jay Hughes,Lieutenant Governor,,D,Newton,Union #1,69
 Johnny DuPree,Secretary of State,,D,Newton,Union #1,67
 Maryra Hodges Hunt,Secretary of State,,D,Newton,Union #1,17
@@ -517,9 +517,9 @@ Rickey L Cole,Commissioner of Agriculture & Commerce,,D,Newton,Union #1,71
 Robert E Amos,Commissioner of Insurance,,D,Newton,Union #1,69
 Mike Marlow,State Senate,31,D,Newton,Union #1,66
 Joe C Bradford,State House,78,D,Newton,Union #1,71
-Robert Foster,Governor ,,R,Newton,Union # 2,68
-Tate Reeves,Governor ,,R,Newton,Union # 2,108
-Bill Waller Jr.,Governor ,,R,Newton,Union # 2,159
+Robert Foster,Governor,,R,Newton,Union # 2,68
+Tate Reeves,Governor,,R,Newton,Union # 2,108
+Bill Waller Jr.,Governor,,R,Newton,Union # 2,159
 Delbert Hosemann,Lieutenant Governor,,R,Newton,Union # 2,268
 Shane Quick,Lieutenant Governor,,R,Newton,Union # 2,59
 Sam Britton,Secretary of State,,R,Newton,Union # 2,114
@@ -537,14 +537,14 @@ Tyler McCaughn,State Senate,31,R,Newton,Union # 2,246
 Randal 'Randy' Rushing,State House,78,R,Newton,Union # 2,305
 William E Shirley Jr.,State House,84,R,Newton,Union # 2,x
 Troy Smith,State House,84,R,Newton,Union # 2,x
-Michael Brown,Governor ,,D,Newton,Union # 2,0
-William Bond Compton Jr.,Governor ,,D,Newton,Union # 2,0
-Jim Hood,Governor ,,D,Newton,Union # 2,8
-Robert J. Ray,Governor ,,D,Newton,Union # 2,0
-Robert Shuler Smith,Governor ,,D,Newton,Union # 2,0
-Gregory Wash,Governor ,,D,Newton,Union # 2,0
-Velesha P Williams,Governor ,,D,Newton,Union # 2,3
-Albert Wilson,Governor ,,D,Newton,Union # 2,0
+Michael Brown,Governor,,D,Newton,Union # 2,0
+William Bond Compton Jr.,Governor,,D,Newton,Union # 2,0
+Jim Hood,Governor,,D,Newton,Union # 2,8
+Robert J. Ray,Governor,,D,Newton,Union # 2,0
+Robert Shuler Smith,Governor,,D,Newton,Union # 2,0
+Gregory Wash,Governor,,D,Newton,Union # 2,0
+Velesha P Williams,Governor,,D,Newton,Union # 2,3
+Albert Wilson,Governor,,D,Newton,Union # 2,0
 Jay Hughes,Lieutenant Governor,,D,Newton,Union # 2,11
 Johnny DuPree,Secretary of State,,D,Newton,Union # 2,7
 Maryra Hodges Hunt,Secretary of State,,D,Newton,Union # 2,4
@@ -554,9 +554,9 @@ Rickey L Cole,Commissioner of Agriculture & Commerce,,D,Newton,Union # 2,10
 Robert E Amos,Commissioner of Insurance,,D,Newton,Union # 2,10
 Mike Marlow,State Senate,31,D,Newton,Union # 2,11
 Joe C Bradford,State House,78,D,Newton,Union # 2,11
-Robert Foster,Governor ,,R,Newton,Union #3,45
-Tate Reeves,Governor ,,R,Newton,Union #3,79
-Bill Waller Jr.,Governor ,,R,Newton,Union #3,94
+Robert Foster,Governor,,R,Newton,Union #3,45
+Tate Reeves,Governor,,R,Newton,Union #3,79
+Bill Waller Jr.,Governor,,R,Newton,Union #3,94
 Delbert Hosemann,Lieutenant Governor,,R,Newton,Union #3,178
 Shane Quick,Lieutenant Governor,,R,Newton,Union #3,35
 Sam Britton,Secretary of State,,R,Newton,Union #3,81
@@ -574,14 +574,14 @@ Tyler McCaughn,State Senate,31,R,Newton,Union #3,156
 Randal 'Randy' Rushing,State House,78,R,Newton,Union #3,195
 William E Shirley Jr.,State House,84,R,Newton,Union #3,x
 Troy Smith,State House,84,R,Newton,Union #3,x
-Michael Brown,Governor ,,D,Newton,Union #3,0
-William Bond Compton Jr.,Governor ,,D,Newton,Union #3,1
-Jim Hood,Governor ,,D,Newton,Union #3,27
-Robert J. Ray,Governor ,,D,Newton,Union #3,0
-Robert Shuler Smith,Governor ,,D,Newton,Union #3,1
-Gregory Wash,Governor ,,D,Newton,Union #3,2
-Velesha P Williams,Governor ,,D,Newton,Union #3,2
-Albert Wilson,Governor ,,D,Newton,Union #3,0
+Michael Brown,Governor,,D,Newton,Union #3,0
+William Bond Compton Jr.,Governor,,D,Newton,Union #3,1
+Jim Hood,Governor,,D,Newton,Union #3,27
+Robert J. Ray,Governor,,D,Newton,Union #3,0
+Robert Shuler Smith,Governor,,D,Newton,Union #3,1
+Gregory Wash,Governor,,D,Newton,Union #3,2
+Velesha P Williams,Governor,,D,Newton,Union #3,2
+Albert Wilson,Governor,,D,Newton,Union #3,0
 Jay Hughes,Lieutenant Governor,,D,Newton,Union #3,32
 Johnny DuPree,Secretary of State,,D,Newton,Union #3,28
 Maryra Hodges Hunt,Secretary of State,,D,Newton,Union #3,4
@@ -591,43 +591,43 @@ Rickey L Cole,Commissioner of Agriculture & Commerce,,D,Newton,Union #3,33
 Robert E Amos,Commissioner of Insurance,,D,Newton,Union #3,33
 Mike Marlow,State Senate,31,D,Newton,Union #3,31
 Joe C Bradford,State House,78,D,Newton,Union #3,31
-Robert Foster,Governor ,,R,Newton,TOTAL ,870
-Tate Reeves,Governor ,,R,Newton,TOTAL ,2338
-Bill Waller Jr.,Governor ,,R,Newton,TOTAL ,1936
-Delbert Hosemann,Lieutenant Governor,,R,Newton,TOTAL ,4264
-Shane Quick,Lieutenant Governor,,R,Newton,TOTAL ,778
-Sam Britton,Secretary of State,,R,Newton,TOTAL ,2091
-Michael Watson,Secretary of State,,R,Newton,TOTAL ,2860
-Mark Baker,Attorney General,,R,Newton,TOTAL ,1493
-Lynn Fitch,Attorney General,,R,Newton,TOTAL ,2316
-Andy Taggart,Attorney General,,R,Newton,TOTAL ,1231
-Shad White,State Auditor,,R,Newton,TOTAL ,4675
-Eugene S. 'Buck' Clarke,State Treasurer,,R,Newton,TOTAL ,1406
-David McRae,State Treasurer,,R,Newton,TOTAL ,3572
-Andy Gipson,Commissioner of Agriculture & Commerce,,R,Newton,TOTAL ,4824
-Mike Chaney,Commissioner of Insurance,,R,Newton,TOTAL ,4831
-Hampton Gardner,State Senate,31,R,Newton,TOTAL ,1092
-Tyler McCaughn,State Senate,31,R,Newton,TOTAL ,4007
-Randal 'Randy' Rushing,State House,78,R,Newton,TOTAL ,2845
-William E Shirley Jr.,State House,84,R,Newton,TOTAL ,611
-Troy Smith,State House,84,R,Newton,TOTAL ,1407
-Michael Brown,Governor ,,D,Newton,TOTAL ,105
-William Bond Compton Jr.,Governor ,,D,Newton,TOTAL ,19
-Jim Hood,Governor ,,D,Newton,TOTAL ,986
-Robert J. Ray,Governor ,,D,Newton,TOTAL ,14
-Robert Shuler Smith,Governor ,,D,Newton,TOTAL ,37
-Gregory Wash,Governor ,,D,Newton,TOTAL ,29
-Velesha P Williams,Governor ,,D,Newton,TOTAL ,106
-Albert Wilson,Governor ,,D,Newton,TOTAL ,13
-Jay Hughes,Lieutenant Governor,,D,Newton,TOTAL ,1175
-Johnny DuPree,Secretary of State,,D,Newton,TOTAL ,997
-Maryra Hodges Hunt,Secretary of State,,D,Newton,TOTAL ,278
-Jennifer Riley Collins,Attorney General,,D,Newton,TOTAL ,1186
-Addie Lee Green,State Treasurer,,D,Newton,TOTAL ,1190
-Rickey L Cole,Commissioner of Agriculture & Commerce,,D,Newton,TOTAL ,1190
-Robert E Amos,Commissioner of Insurance,,D,Newton,TOTAL ,1169
-Mike Marlow,State Senate,31,D,Newton,TOTAL ,1149
-Joe C Bradford,State House,78,D,Newton,TOTAL ,495
+Robert Foster,Governor,,R,Newton,TOTAL,870
+Tate Reeves,Governor,,R,Newton,TOTAL,2338
+Bill Waller Jr.,Governor,,R,Newton,TOTAL,1936
+Delbert Hosemann,Lieutenant Governor,,R,Newton,TOTAL,4264
+Shane Quick,Lieutenant Governor,,R,Newton,TOTAL,778
+Sam Britton,Secretary of State,,R,Newton,TOTAL,2091
+Michael Watson,Secretary of State,,R,Newton,TOTAL,2860
+Mark Baker,Attorney General,,R,Newton,TOTAL,1493
+Lynn Fitch,Attorney General,,R,Newton,TOTAL,2316
+Andy Taggart,Attorney General,,R,Newton,TOTAL,1231
+Shad White,State Auditor,,R,Newton,TOTAL,4675
+Eugene S. 'Buck' Clarke,State Treasurer,,R,Newton,TOTAL,1406
+David McRae,State Treasurer,,R,Newton,TOTAL,3572
+Andy Gipson,Commissioner of Agriculture & Commerce,,R,Newton,TOTAL,4824
+Mike Chaney,Commissioner of Insurance,,R,Newton,TOTAL,4831
+Hampton Gardner,State Senate,31,R,Newton,TOTAL,1092
+Tyler McCaughn,State Senate,31,R,Newton,TOTAL,4007
+Randal 'Randy' Rushing,State House,78,R,Newton,TOTAL,2845
+William E Shirley Jr.,State House,84,R,Newton,TOTAL,611
+Troy Smith,State House,84,R,Newton,TOTAL,1407
+Michael Brown,Governor,,D,Newton,TOTAL,105
+William Bond Compton Jr.,Governor,,D,Newton,TOTAL,19
+Jim Hood,Governor,,D,Newton,TOTAL,986
+Robert J. Ray,Governor,,D,Newton,TOTAL,14
+Robert Shuler Smith,Governor,,D,Newton,TOTAL,37
+Gregory Wash,Governor,,D,Newton,TOTAL,29
+Velesha P Williams,Governor,,D,Newton,TOTAL,106
+Albert Wilson,Governor,,D,Newton,TOTAL,13
+Jay Hughes,Lieutenant Governor,,D,Newton,TOTAL,1175
+Johnny DuPree,Secretary of State,,D,Newton,TOTAL,997
+Maryra Hodges Hunt,Secretary of State,,D,Newton,TOTAL,278
+Jennifer Riley Collins,Attorney General,,D,Newton,TOTAL,1186
+Addie Lee Green,State Treasurer,,D,Newton,TOTAL,1190
+Rickey L Cole,Commissioner of Agriculture & Commerce,,D,Newton,TOTAL,1190
+Robert E Amos,Commissioner of Insurance,,D,Newton,TOTAL,1169
+Mike Marlow,State Senate,31,D,Newton,TOTAL,1149
+Joe C Bradford,State House,78,D,Newton,TOTAL,495
 ,,,,,,
 ,,,,,,
 ,,,,,,

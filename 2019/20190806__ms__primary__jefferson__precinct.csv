@@ -1,41 +1,41 @@
 candidate,office,district,party,county,precinct,votes
-Robert Foster,Governor ,,R,Jefferson,Cannonsburg ,1
-Tate Reeves,Governor ,,R,Jefferson,Cannonsburg ,6
-Bill Waller Jr.,Governor ,,R,Jefferson,Cannonsburg ,0
-Delbert Hosemann,Lieutenant Governor,,R,Jefferson,Cannonsburg ,5
-Shane Quick,Lieutenant Governor,,R,Jefferson,Cannonsburg ,2
-Sam Britton,Secretary of State,,R,Jefferson,Cannonsburg ,1
-Michael Watson,Secretary of State,,R,Jefferson,Cannonsburg ,6
-Mark Baker,Attorney General,,R,Jefferson,Cannonsburg ,3
-Lynn Fitch,Attorney General,,R,Jefferson,Cannonsburg ,3
-Andy Taggart,Attorney General,,R,Jefferson,Cannonsburg ,1
-Shad White,State Auditor,,R,Jefferson,Cannonsburg ,7
-Eugene S. 'Buck' Clarke,State Treasurer,,R,Jefferson,Cannonsburg ,5
-David McRae,State Treasurer,,R,Jefferson,Cannonsburg ,2
-Andy Gipson,Commissioner of Agriculture & Commerce,,R,Jefferson,Cannonsburg ,7
-Mike Chaney,Commissioner of Insurance,,R,Jefferson,Cannonsburg ,7
-Michael Brown,Governor ,,D,Jefferson,Cannonsburg ,27
-William Bond Compton Jr.,Governor ,,D,Jefferson,Cannonsburg ,0
-Jim Hood,Governor ,,D,Jefferson,Cannonsburg ,106
-Robert J. Ray,Governor ,,D,Jefferson,Cannonsburg ,0
-Robert Shuler Smith,Governor ,,D,Jefferson,Cannonsburg ,5
-Gregory Wash,Governor ,,D,Jefferson,Cannonsburg ,0
-Velesha P Williams,Governor ,,D,Jefferson,Cannonsburg ,4
-Albert Wilson,Governor ,,D,Jefferson,Cannonsburg ,1
-Jay Hughes,Lieutenant Governor,,D,Jefferson,Cannonsburg ,129
-Johnny DuPree,Secretary of State,,D,Jefferson,Cannonsburg ,112
-Maryra Hodges Hunt,Secretary of State,,D,Jefferson,Cannonsburg ,23
-Jennifer Riley Collins,Attorney General,,D,Jefferson,Cannonsburg ,131
-Addie Lee Green,State Treasurer,,D,Jefferson,Cannonsburg ,128
-Rickey L Cole,Commissioner of Agriculture & Commerce,,D,Jefferson,Cannonsburg ,130
-Robert E Amos,Commissioner of Insurance,,D,Jefferson,Cannonsburg ,132
-Albert Butler,State Senate,36,D,Jefferson,Cannonsburg ,101
-Tyler K Doss,State Senate,36,D,Jefferson,Cannonsburg ,37
-Jeffery Harness,State House,85,D,Jefferson,Cannonsburg ,X
-Robert L Johnson III,State House,94,D,Jefferson,Cannonsburg ,135
-Robert Foster,Governor ,,R,Jefferson,Chambliss Restaurant,0
-Tate Reeves,Governor ,,R,Jefferson,Chambliss Restaurant,3
-Bill Waller Jr.,Governor ,,R,Jefferson,Chambliss Restaurant,1
+Robert Foster,Governor,,R,Jefferson,Cannonsburg,1
+Tate Reeves,Governor,,R,Jefferson,Cannonsburg,6
+Bill Waller Jr.,Governor,,R,Jefferson,Cannonsburg,0
+Delbert Hosemann,Lieutenant Governor,,R,Jefferson,Cannonsburg,5
+Shane Quick,Lieutenant Governor,,R,Jefferson,Cannonsburg,2
+Sam Britton,Secretary of State,,R,Jefferson,Cannonsburg,1
+Michael Watson,Secretary of State,,R,Jefferson,Cannonsburg,6
+Mark Baker,Attorney General,,R,Jefferson,Cannonsburg,3
+Lynn Fitch,Attorney General,,R,Jefferson,Cannonsburg,3
+Andy Taggart,Attorney General,,R,Jefferson,Cannonsburg,1
+Shad White,State Auditor,,R,Jefferson,Cannonsburg,7
+Eugene S. 'Buck' Clarke,State Treasurer,,R,Jefferson,Cannonsburg,5
+David McRae,State Treasurer,,R,Jefferson,Cannonsburg,2
+Andy Gipson,Commissioner of Agriculture & Commerce,,R,Jefferson,Cannonsburg,7
+Mike Chaney,Commissioner of Insurance,,R,Jefferson,Cannonsburg,7
+Michael Brown,Governor,,D,Jefferson,Cannonsburg,27
+William Bond Compton Jr.,Governor,,D,Jefferson,Cannonsburg,0
+Jim Hood,Governor,,D,Jefferson,Cannonsburg,106
+Robert J. Ray,Governor,,D,Jefferson,Cannonsburg,0
+Robert Shuler Smith,Governor,,D,Jefferson,Cannonsburg,5
+Gregory Wash,Governor,,D,Jefferson,Cannonsburg,0
+Velesha P Williams,Governor,,D,Jefferson,Cannonsburg,4
+Albert Wilson,Governor,,D,Jefferson,Cannonsburg,1
+Jay Hughes,Lieutenant Governor,,D,Jefferson,Cannonsburg,129
+Johnny DuPree,Secretary of State,,D,Jefferson,Cannonsburg,112
+Maryra Hodges Hunt,Secretary of State,,D,Jefferson,Cannonsburg,23
+Jennifer Riley Collins,Attorney General,,D,Jefferson,Cannonsburg,131
+Addie Lee Green,State Treasurer,,D,Jefferson,Cannonsburg,128
+Rickey L Cole,Commissioner of Agriculture & Commerce,,D,Jefferson,Cannonsburg,130
+Robert E Amos,Commissioner of Insurance,,D,Jefferson,Cannonsburg,132
+Albert Butler,State Senate,36,D,Jefferson,Cannonsburg,101
+Tyler K Doss,State Senate,36,D,Jefferson,Cannonsburg,37
+Jeffery Harness,State House,85,D,Jefferson,Cannonsburg,X
+Robert L Johnson III,State House,94,D,Jefferson,Cannonsburg,135
+Robert Foster,Governor,,R,Jefferson,Chambliss Restaurant,0
+Tate Reeves,Governor,,R,Jefferson,Chambliss Restaurant,3
+Bill Waller Jr.,Governor,,R,Jefferson,Chambliss Restaurant,1
 Delbert Hosemann,Lieutenant Governor,,R,Jefferson,Chambliss Restaurant,3
 Shane Quick,Lieutenant Governor,,R,Jefferson,Chambliss Restaurant,0
 Sam Britton,Secretary of State,,R,Jefferson,Chambliss Restaurant,2
@@ -48,14 +48,14 @@ Eugene S. 'Buck' Clarke,State Treasurer,,R,Jefferson,Chambliss Restaurant,1
 David McRae,State Treasurer,,R,Jefferson,Chambliss Restaurant,2
 Andy Gipson,Commissioner of Agriculture & Commerce,,R,Jefferson,Chambliss Restaurant,3
 Mike Chaney,Commissioner of Insurance,,R,Jefferson,Chambliss Restaurant,3
-Michael Brown,Governor ,,D,Jefferson,Chambliss Restaurant,174
-William Bond Compton Jr.,Governor ,,D,Jefferson,Chambliss Restaurant,2
-Jim Hood,Governor ,,D,Jefferson,Chambliss Restaurant,179
-Robert J. Ray,Governor ,,D,Jefferson,Chambliss Restaurant,2
-Robert Shuler Smith,Governor ,,D,Jefferson,Chambliss Restaurant,6
-Gregory Wash,Governor ,,D,Jefferson,Chambliss Restaurant,1
-Velesha P Williams,Governor ,,D,Jefferson,Chambliss Restaurant,13
-Albert Wilson,Governor ,,D,Jefferson,Chambliss Restaurant,7
+Michael Brown,Governor,,D,Jefferson,Chambliss Restaurant,174
+William Bond Compton Jr.,Governor,,D,Jefferson,Chambliss Restaurant,2
+Jim Hood,Governor,,D,Jefferson,Chambliss Restaurant,179
+Robert J. Ray,Governor,,D,Jefferson,Chambliss Restaurant,2
+Robert Shuler Smith,Governor,,D,Jefferson,Chambliss Restaurant,6
+Gregory Wash,Governor,,D,Jefferson,Chambliss Restaurant,1
+Velesha P Williams,Governor,,D,Jefferson,Chambliss Restaurant,13
+Albert Wilson,Governor,,D,Jefferson,Chambliss Restaurant,7
 Jay Hughes,Lieutenant Governor,,D,Jefferson,Chambliss Restaurant,328
 Johnny DuPree,Secretary of State,,D,Jefferson,Chambliss Restaurant,290
 Maryra Hodges Hunt,Secretary of State,,D,Jefferson,Chambliss Restaurant,69
@@ -67,9 +67,9 @@ Albert Butler,State Senate,36,D,Jefferson,Chambliss Restaurant,324
 Tyler K Doss,State Senate,36,D,Jefferson,Chambliss Restaurant,53
 Jeffery Harness,State House,85,D,Jefferson,Chambliss Restaurant,51
 Robert L Johnson III,State House,94,D,Jefferson,Chambliss Restaurant,306
-Robert Foster,Governor ,,R,Jefferson,Church Hill,0
-Tate Reeves,Governor ,,R,Jefferson,Church Hill,14
-Bill Waller Jr.,Governor ,,R,Jefferson,Church Hill,16
+Robert Foster,Governor,,R,Jefferson,Church Hill,0
+Tate Reeves,Governor,,R,Jefferson,Church Hill,14
+Bill Waller Jr.,Governor,,R,Jefferson,Church Hill,16
 Delbert Hosemann,Lieutenant Governor,,R,Jefferson,Church Hill,26
 Shane Quick,Lieutenant Governor,,R,Jefferson,Church Hill,2
 Sam Britton,Secretary of State,,R,Jefferson,Church Hill,12
@@ -82,14 +82,14 @@ Eugene S. 'Buck' Clarke,State Treasurer,,R,Jefferson,Church Hill,16
 David McRae,State Treasurer,,R,Jefferson,Church Hill,13
 Andy Gipson,Commissioner of Agriculture & Commerce,,R,Jefferson,Church Hill,28
 Mike Chaney,Commissioner of Insurance,,R,Jefferson,Church Hill,28
-Michael Brown,Governor ,,D,Jefferson,Church Hill,9
-William Bond Compton Jr.,Governor ,,D,Jefferson,Church Hill,2
-Jim Hood,Governor ,,D,Jefferson,Church Hill,42
-Robert J. Ray,Governor ,,D,Jefferson,Church Hill,0
-Robert Shuler Smith,Governor ,,D,Jefferson,Church Hill,4
-Gregory Wash,Governor ,,D,Jefferson,Church Hill,1
-Velesha P Williams,Governor ,,D,Jefferson,Church Hill,0
-Albert Wilson,Governor ,,D,Jefferson,Church Hill,1
+Michael Brown,Governor,,D,Jefferson,Church Hill,9
+William Bond Compton Jr.,Governor,,D,Jefferson,Church Hill,2
+Jim Hood,Governor,,D,Jefferson,Church Hill,42
+Robert J. Ray,Governor,,D,Jefferson,Church Hill,0
+Robert Shuler Smith,Governor,,D,Jefferson,Church Hill,4
+Gregory Wash,Governor,,D,Jefferson,Church Hill,1
+Velesha P Williams,Governor,,D,Jefferson,Church Hill,0
+Albert Wilson,Governor,,D,Jefferson,Church Hill,1
 Jay Hughes,Lieutenant Governor,,D,Jefferson,Church Hill,46
 Johnny DuPree,Secretary of State,,D,Jefferson,Church Hill,38
 Maryra Hodges Hunt,Secretary of State,,D,Jefferson,Church Hill,15
@@ -101,9 +101,9 @@ Albert Butler,State Senate,36,D,Jefferson,Church Hill,41
 Tyler K Doss,State Senate,36,D,Jefferson,Church Hill,14
 Jeffery Harness,State House,85,D,Jefferson,Church Hill,X
 Robert L Johnson III,State House,94,D,Jefferson,Church Hill,54
-Robert Foster,Governor ,,R,Jefferson,City Hall,1
-Tate Reeves,Governor ,,R,Jefferson,City Hall,0
-Bill Waller Jr.,Governor ,,R,Jefferson,City Hall,0
+Robert Foster,Governor,,R,Jefferson,City Hall,1
+Tate Reeves,Governor,,R,Jefferson,City Hall,0
+Bill Waller Jr.,Governor,,R,Jefferson,City Hall,0
 Delbert Hosemann,Lieutenant Governor,,R,Jefferson,City Hall,1
 Shane Quick,Lieutenant Governor,,R,Jefferson,City Hall,0
 Sam Britton,Secretary of State,,R,Jefferson,City Hall,1
@@ -116,14 +116,14 @@ Eugene S. 'Buck' Clarke,State Treasurer,,R,Jefferson,City Hall,0
 David McRae,State Treasurer,,R,Jefferson,City Hall,1
 Andy Gipson,Commissioner of Agriculture & Commerce,,R,Jefferson,City Hall,1
 Mike Chaney,Commissioner of Insurance,,R,Jefferson,City Hall,1
-Michael Brown,Governor ,,D,Jefferson,City Hall,153
-William Bond Compton Jr.,Governor ,,D,Jefferson,City Hall,2
-Jim Hood,Governor ,,D,Jefferson,City Hall,194
-Robert J. Ray,Governor ,,D,Jefferson,City Hall,3
-Robert Shuler Smith,Governor ,,D,Jefferson,City Hall,10
-Gregory Wash,Governor ,,D,Jefferson,City Hall,0
-Velesha P Williams,Governor ,,D,Jefferson,City Hall,11
-Albert Wilson,Governor ,,D,Jefferson,City Hall,5
+Michael Brown,Governor,,D,Jefferson,City Hall,153
+William Bond Compton Jr.,Governor,,D,Jefferson,City Hall,2
+Jim Hood,Governor,,D,Jefferson,City Hall,194
+Robert J. Ray,Governor,,D,Jefferson,City Hall,3
+Robert Shuler Smith,Governor,,D,Jefferson,City Hall,10
+Gregory Wash,Governor,,D,Jefferson,City Hall,0
+Velesha P Williams,Governor,,D,Jefferson,City Hall,11
+Albert Wilson,Governor,,D,Jefferson,City Hall,5
 Jay Hughes,Lieutenant Governor,,D,Jefferson,City Hall,318
 Johnny DuPree,Secretary of State,,D,Jefferson,City Hall,266
 Maryra Hodges Hunt,Secretary of State,,D,Jefferson,City Hall,81
@@ -135,9 +135,9 @@ Albert Butler,State Senate,36,D,Jefferson,City Hall,282
 Tyler K Doss,State Senate,36,D,Jefferson,City Hall,73
 Jeffery Harness,State House,85,D,Jefferson,City Hall,349
 Robert L Johnson III,State House,94,D,Jefferson,City Hall,X
-Robert Foster,Governor ,,R,Jefferson,Community Garden Center,1
-Tate Reeves,Governor ,,R,Jefferson,Community Garden Center,5
-Bill Waller Jr.,Governor ,,R,Jefferson,Community Garden Center,1
+Robert Foster,Governor,,R,Jefferson,Community Garden Center,1
+Tate Reeves,Governor,,R,Jefferson,Community Garden Center,5
+Bill Waller Jr.,Governor,,R,Jefferson,Community Garden Center,1
 Delbert Hosemann,Lieutenant Governor,,R,Jefferson,Community Garden Center,7
 Shane Quick,Lieutenant Governor,,R,Jefferson,Community Garden Center,0
 Sam Britton,Secretary of State,,R,Jefferson,Community Garden Center,5
@@ -150,14 +150,14 @@ Eugene S. 'Buck' Clarke,State Treasurer,,R,Jefferson,Community Garden Center,3
 David McRae,State Treasurer,,R,Jefferson,Community Garden Center,4
 Andy Gipson,Commissioner of Agriculture & Commerce,,R,Jefferson,Community Garden Center,6
 Mike Chaney,Commissioner of Insurance,,R,Jefferson,Community Garden Center,5
-Michael Brown,Governor ,,D,Jefferson,Community Garden Center,129
-William Bond Compton Jr.,Governor ,,D,Jefferson,Community Garden Center,3
-Jim Hood,Governor ,,D,Jefferson,Community Garden Center,153
-Robert J. Ray,Governor ,,D,Jefferson,Community Garden Center,3
-Robert Shuler Smith,Governor ,,D,Jefferson,Community Garden Center,8
-Gregory Wash,Governor ,,D,Jefferson,Community Garden Center,4
-Velesha P Williams,Governor ,,D,Jefferson,Community Garden Center,6
-Albert Wilson,Governor ,,D,Jefferson,Community Garden Center,2
+Michael Brown,Governor,,D,Jefferson,Community Garden Center,129
+William Bond Compton Jr.,Governor,,D,Jefferson,Community Garden Center,3
+Jim Hood,Governor,,D,Jefferson,Community Garden Center,153
+Robert J. Ray,Governor,,D,Jefferson,Community Garden Center,3
+Robert Shuler Smith,Governor,,D,Jefferson,Community Garden Center,8
+Gregory Wash,Governor,,D,Jefferson,Community Garden Center,4
+Velesha P Williams,Governor,,D,Jefferson,Community Garden Center,6
+Albert Wilson,Governor,,D,Jefferson,Community Garden Center,2
 Jay Hughes,Lieutenant Governor,,D,Jefferson,Community Garden Center,246
 Johnny DuPree,Secretary of State,,D,Jefferson,Community Garden Center,212
 Maryra Hodges Hunt,Secretary of State,,D,Jefferson,Community Garden Center,65
@@ -169,9 +169,9 @@ Albert Butler,State Senate,36,D,Jefferson,Community Garden Center,219
 Tyler K Doss,State Senate,36,D,Jefferson,Community Garden Center,76
 Jeffery Harness,State House,85,D,Jefferson,Community Garden Center,101
 Robert L Johnson III,State House,94,D,Jefferson,Community Garden Center,161
-Robert Foster,Governor ,,R,Jefferson,Harriston,2
-Tate Reeves,Governor ,,R,Jefferson,Harriston,4
-Bill Waller Jr.,Governor ,,R,Jefferson,Harriston,0
+Robert Foster,Governor,,R,Jefferson,Harriston,2
+Tate Reeves,Governor,,R,Jefferson,Harriston,4
+Bill Waller Jr.,Governor,,R,Jefferson,Harriston,0
 Delbert Hosemann,Lieutenant Governor,,R,Jefferson,Harriston,3
 Shane Quick,Lieutenant Governor,,R,Jefferson,Harriston,0
 Sam Britton,Secretary of State,,R,Jefferson,Harriston,4
@@ -184,14 +184,14 @@ Eugene S. 'Buck' Clarke,State Treasurer,,R,Jefferson,Harriston,2
 David McRae,State Treasurer,,R,Jefferson,Harriston,3
 Andy Gipson,Commissioner of Agriculture & Commerce,,R,Jefferson,Harriston,5
 Mike Chaney,Commissioner of Insurance,,R,Jefferson,Harriston,4
-Michael Brown,Governor ,,D,Jefferson,Harriston,77
-William Bond Compton Jr.,Governor ,,D,Jefferson,Harriston,1
-Jim Hood,Governor ,,D,Jefferson,Harriston,83
-Robert J. Ray,Governor ,,D,Jefferson,Harriston,0
-Robert Shuler Smith,Governor ,,D,Jefferson,Harriston,2
-Gregory Wash,Governor ,,D,Jefferson,Harriston,1
-Velesha P Williams,Governor ,,D,Jefferson,Harriston,2
-Albert Wilson,Governor ,,D,Jefferson,Harriston,1
+Michael Brown,Governor,,D,Jefferson,Harriston,77
+William Bond Compton Jr.,Governor,,D,Jefferson,Harriston,1
+Jim Hood,Governor,,D,Jefferson,Harriston,83
+Robert J. Ray,Governor,,D,Jefferson,Harriston,0
+Robert Shuler Smith,Governor,,D,Jefferson,Harriston,2
+Gregory Wash,Governor,,D,Jefferson,Harriston,1
+Velesha P Williams,Governor,,D,Jefferson,Harriston,2
+Albert Wilson,Governor,,D,Jefferson,Harriston,1
 Jay Hughes,Lieutenant Governor,,D,Jefferson,Harriston,130
 Johnny DuPree,Secretary of State,,D,Jefferson,Harriston,115
 Maryra Hodges Hunt,Secretary of State,,D,Jefferson,Harriston,39
@@ -203,9 +203,9 @@ Albert Butler,State Senate,36,D,Jefferson,Harriston,143
 Tyler K Doss,State Senate,36,D,Jefferson,Harriston,18
 Jeffery Harness,State House,85,D,Jefferson,Harriston,142
 Robert L Johnson III,State House,94,D,Jefferson,Harriston,17
-Robert Foster,Governor ,,R,Jefferson,Lorman,2
-Tate Reeves,Governor ,,R,Jefferson,Lorman,8
-Bill Waller Jr.,Governor ,,R,Jefferson,Lorman,0
+Robert Foster,Governor,,R,Jefferson,Lorman,2
+Tate Reeves,Governor,,R,Jefferson,Lorman,8
+Bill Waller Jr.,Governor,,R,Jefferson,Lorman,0
 Delbert Hosemann,Lieutenant Governor,,R,Jefferson,Lorman,8
 Shane Quick,Lieutenant Governor,,R,Jefferson,Lorman,1
 Sam Britton,Secretary of State,,R,Jefferson,Lorman,4
@@ -218,14 +218,14 @@ Eugene S. 'Buck' Clarke,State Treasurer,,R,Jefferson,Lorman,3
 David McRae,State Treasurer,,R,Jefferson,Lorman,7
 Andy Gipson,Commissioner of Agriculture & Commerce,,R,Jefferson,Lorman,8
 Mike Chaney,Commissioner of Insurance,,R,Jefferson,Lorman,9
-Michael Brown,Governor ,,D,Jefferson,Lorman,57
-William Bond Compton Jr.,Governor ,,D,Jefferson,Lorman,3
-Jim Hood,Governor ,,D,Jefferson,Lorman,75
-Robert J. Ray,Governor ,,D,Jefferson,Lorman,3
-Robert Shuler Smith,Governor ,,D,Jefferson,Lorman,2
-Gregory Wash,Governor ,,D,Jefferson,Lorman,0
-Velesha P Williams,Governor ,,D,Jefferson,Lorman,2
-Albert Wilson,Governor ,,D,Jefferson,Lorman,1
+Michael Brown,Governor,,D,Jefferson,Lorman,57
+William Bond Compton Jr.,Governor,,D,Jefferson,Lorman,3
+Jim Hood,Governor,,D,Jefferson,Lorman,75
+Robert J. Ray,Governor,,D,Jefferson,Lorman,3
+Robert Shuler Smith,Governor,,D,Jefferson,Lorman,2
+Gregory Wash,Governor,,D,Jefferson,Lorman,0
+Velesha P Williams,Governor,,D,Jefferson,Lorman,2
+Albert Wilson,Governor,,D,Jefferson,Lorman,1
 Jay Hughes,Lieutenant Governor,,D,Jefferson,Lorman,118
 Johnny DuPree,Secretary of State,,D,Jefferson,Lorman,97
 Maryra Hodges Hunt,Secretary of State,,D,Jefferson,Lorman,36
@@ -237,9 +237,9 @@ Albert Butler,State Senate,36,D,Jefferson,Lorman,110
 Tyler K Doss,State Senate,36,D,Jefferson,Lorman,30
 Jeffery Harness,State House,85,D,Jefferson,Lorman,126
 Robert L Johnson III,State House,94,D,Jefferson,Lorman,3
-Robert Foster,Governor ,,R,Jefferson,Mt. Isreal Baptist Church,2
-Tate Reeves,Governor ,,R,Jefferson,Mt. Isreal Baptist Church,11
-Bill Waller Jr.,Governor ,,R,Jefferson,Mt. Isreal Baptist Church,2
+Robert Foster,Governor,,R,Jefferson,Mt. Isreal Baptist Church,2
+Tate Reeves,Governor,,R,Jefferson,Mt. Isreal Baptist Church,11
+Bill Waller Jr.,Governor,,R,Jefferson,Mt. Isreal Baptist Church,2
 Delbert Hosemann,Lieutenant Governor,,R,Jefferson,Mt. Isreal Baptist Church,11
 Shane Quick,Lieutenant Governor,,R,Jefferson,Mt. Isreal Baptist Church,3
 Sam Britton,Secretary of State,,R,Jefferson,Mt. Isreal Baptist Church,6
@@ -252,14 +252,14 @@ Eugene S. 'Buck' Clarke,State Treasurer,,R,Jefferson,Mt. Isreal Baptist Church,4
 David McRae,State Treasurer,,R,Jefferson,Mt. Isreal Baptist Church,11
 Andy Gipson,Commissioner of Agriculture & Commerce,,R,Jefferson,Mt. Isreal Baptist Church,13
 Mike Chaney,Commissioner of Insurance,,R,Jefferson,Mt. Isreal Baptist Church,13
-Michael Brown,Governor ,,D,Jefferson,Mt. Isreal Baptist Church,142
-William Bond Compton Jr.,Governor ,,D,Jefferson,Mt. Isreal Baptist Church,4
-Jim Hood,Governor ,,D,Jefferson,Mt. Isreal Baptist Church,19
-Robert J. Ray,Governor ,,D,Jefferson,Mt. Isreal Baptist Church,2
-Robert Shuler Smith,Governor ,,D,Jefferson,Mt. Isreal Baptist Church,6
-Gregory Wash,Governor ,,D,Jefferson,Mt. Isreal Baptist Church,1
-Velesha P Williams,Governor ,,D,Jefferson,Mt. Isreal Baptist Church,8
-Albert Wilson,Governor ,,D,Jefferson,Mt. Isreal Baptist Church,2
+Michael Brown,Governor,,D,Jefferson,Mt. Isreal Baptist Church,142
+William Bond Compton Jr.,Governor,,D,Jefferson,Mt. Isreal Baptist Church,4
+Jim Hood,Governor,,D,Jefferson,Mt. Isreal Baptist Church,19
+Robert J. Ray,Governor,,D,Jefferson,Mt. Isreal Baptist Church,2
+Robert Shuler Smith,Governor,,D,Jefferson,Mt. Isreal Baptist Church,6
+Gregory Wash,Governor,,D,Jefferson,Mt. Isreal Baptist Church,1
+Velesha P Williams,Governor,,D,Jefferson,Mt. Isreal Baptist Church,8
+Albert Wilson,Governor,,D,Jefferson,Mt. Isreal Baptist Church,2
 Jay Hughes,Lieutenant Governor,,D,Jefferson,Mt. Isreal Baptist Church,261
 Johnny DuPree,Secretary of State,,D,Jefferson,Mt. Isreal Baptist Church,239
 Maryra Hodges Hunt,Secretary of State,,D,Jefferson,Mt. Isreal Baptist Church,61
@@ -271,9 +271,9 @@ Albert Butler,State Senate,36,D,Jefferson,Mt. Isreal Baptist Church,243
 Tyler K Doss,State Senate,36,D,Jefferson,Mt. Isreal Baptist Church,65
 Jeffery Harness,State House,85,D,Jefferson,Mt. Isreal Baptist Church,288
 Robert L Johnson III,State House,94,D,Jefferson,Mt. Isreal Baptist Church,X
-Robert Foster,Governor ,,R,Jefferson,Multipurpose Center,1
-Tate Reeves,Governor ,,R,Jefferson,Multipurpose Center,1
-Bill Waller Jr.,Governor ,,R,Jefferson,Multipurpose Center,0
+Robert Foster,Governor,,R,Jefferson,Multipurpose Center,1
+Tate Reeves,Governor,,R,Jefferson,Multipurpose Center,1
+Bill Waller Jr.,Governor,,R,Jefferson,Multipurpose Center,0
 Delbert Hosemann,Lieutenant Governor,,R,Jefferson,Multipurpose Center,2
 Shane Quick,Lieutenant Governor,,R,Jefferson,Multipurpose Center,0
 Sam Britton,Secretary of State,,R,Jefferson,Multipurpose Center,0
@@ -286,14 +286,14 @@ Eugene S. 'Buck' Clarke,State Treasurer,,R,Jefferson,Multipurpose Center,1
 David McRae,State Treasurer,,R,Jefferson,Multipurpose Center,1
 Andy Gipson,Commissioner of Agriculture & Commerce,,R,Jefferson,Multipurpose Center,2
 Mike Chaney,Commissioner of Insurance,,R,Jefferson,Multipurpose Center,2
-Michael Brown,Governor ,,D,Jefferson,Multipurpose Center,116
-William Bond Compton Jr.,Governor ,,D,Jefferson,Multipurpose Center,5
-Jim Hood,Governor ,,D,Jefferson,Multipurpose Center,101
-Robert J. Ray,Governor ,,D,Jefferson,Multipurpose Center,1
-Robert Shuler Smith,Governor ,,D,Jefferson,Multipurpose Center,5
-Gregory Wash,Governor ,,D,Jefferson,Multipurpose Center,0
-Velesha P Williams,Governor ,,D,Jefferson,Multipurpose Center,8
-Albert Wilson,Governor ,,D,Jefferson,Multipurpose Center,2
+Michael Brown,Governor,,D,Jefferson,Multipurpose Center,116
+William Bond Compton Jr.,Governor,,D,Jefferson,Multipurpose Center,5
+Jim Hood,Governor,,D,Jefferson,Multipurpose Center,101
+Robert J. Ray,Governor,,D,Jefferson,Multipurpose Center,1
+Robert Shuler Smith,Governor,,D,Jefferson,Multipurpose Center,5
+Gregory Wash,Governor,,D,Jefferson,Multipurpose Center,0
+Velesha P Williams,Governor,,D,Jefferson,Multipurpose Center,8
+Albert Wilson,Governor,,D,Jefferson,Multipurpose Center,2
 Jay Hughes,Lieutenant Governor,,D,Jefferson,Multipurpose Center,196
 Johnny DuPree,Secretary of State,,D,Jefferson,Multipurpose Center,183
 Maryra Hodges Hunt,Secretary of State,,D,Jefferson,Multipurpose Center,39
@@ -305,9 +305,9 @@ Albert Butler,State Senate,36,D,Jefferson,Multipurpose Center,212
 Tyler K Doss,State Senate,36,D,Jefferson,Multipurpose Center,22
 Jeffery Harness,State House,85,D,Jefferson,Multipurpose Center,187
 Robert L Johnson III,State House,94,D,Jefferson,Multipurpose Center,30
-Robert Foster,Governor ,,R,Jefferson,Red Lick,0
-Tate Reeves,Governor ,,R,Jefferson,Red Lick,4
-Bill Waller Jr.,Governor ,,R,Jefferson,Red Lick,2
+Robert Foster,Governor,,R,Jefferson,Red Lick,0
+Tate Reeves,Governor,,R,Jefferson,Red Lick,4
+Bill Waller Jr.,Governor,,R,Jefferson,Red Lick,2
 Delbert Hosemann,Lieutenant Governor,,R,Jefferson,Red Lick,5
 Shane Quick,Lieutenant Governor,,R,Jefferson,Red Lick,1
 Sam Britton,Secretary of State,,R,Jefferson,Red Lick,0
@@ -320,14 +320,14 @@ Eugene S. 'Buck' Clarke,State Treasurer,,R,Jefferson,Red Lick,2
 David McRae,State Treasurer,,R,Jefferson,Red Lick,4
 Andy Gipson,Commissioner of Agriculture & Commerce,,R,Jefferson,Red Lick,6
 Mike Chaney,Commissioner of Insurance,,R,Jefferson,Red Lick,6
-Michael Brown,Governor ,,D,Jefferson,Red Lick,75
-William Bond Compton Jr.,Governor ,,D,Jefferson,Red Lick,2
-Jim Hood,Governor ,,D,Jefferson,Red Lick,134
-Robert J. Ray,Governor ,,D,Jefferson,Red Lick,1
-Robert Shuler Smith,Governor ,,D,Jefferson,Red Lick,5
-Gregory Wash,Governor ,,D,Jefferson,Red Lick,2
-Velesha P Williams,Governor ,,D,Jefferson,Red Lick,15
-Albert Wilson,Governor ,,D,Jefferson,Red Lick,4
+Michael Brown,Governor,,D,Jefferson,Red Lick,75
+William Bond Compton Jr.,Governor,,D,Jefferson,Red Lick,2
+Jim Hood,Governor,,D,Jefferson,Red Lick,134
+Robert J. Ray,Governor,,D,Jefferson,Red Lick,1
+Robert Shuler Smith,Governor,,D,Jefferson,Red Lick,5
+Gregory Wash,Governor,,D,Jefferson,Red Lick,2
+Velesha P Williams,Governor,,D,Jefferson,Red Lick,15
+Albert Wilson,Governor,,D,Jefferson,Red Lick,4
 Jay Hughes,Lieutenant Governor,,D,Jefferson,Red Lick,207
 Johnny DuPree,Secretary of State,,D,Jefferson,Red Lick,177
 Maryra Hodges Hunt,Secretary of State,,D,Jefferson,Red Lick,44
@@ -339,9 +339,9 @@ Albert Butler,State Senate,36,D,Jefferson,Red Lick,203
 Tyler K Doss,State Senate,36,D,Jefferson,Red Lick,35
 Jeffery Harness,State House,85,D,Jefferson,Red Lick,223
 Robert L Johnson III,State House,94,D,Jefferson,Red Lick,0
-Robert Foster,Governor ,,R,Jefferson,Stampley,0
-Tate Reeves,Governor ,,R,Jefferson,Stampley,0
-Bill Waller Jr.,Governor ,,R,Jefferson,Stampley,0
+Robert Foster,Governor,,R,Jefferson,Stampley,0
+Tate Reeves,Governor,,R,Jefferson,Stampley,0
+Bill Waller Jr.,Governor,,R,Jefferson,Stampley,0
 Delbert Hosemann,Lieutenant Governor,,R,Jefferson,Stampley,0
 Shane Quick,Lieutenant Governor,,R,Jefferson,Stampley,0
 Sam Britton,Secretary of State,,R,Jefferson,Stampley,0
@@ -354,14 +354,14 @@ Eugene S. 'Buck' Clarke,State Treasurer,,R,Jefferson,Stampley,0
 David McRae,State Treasurer,,R,Jefferson,Stampley,0
 Andy Gipson,Commissioner of Agriculture & Commerce,,R,Jefferson,Stampley,0
 Mike Chaney,Commissioner of Insurance,,R,Jefferson,Stampley,0
-Michael Brown,Governor ,,D,Jefferson,Stampley,83
-William Bond Compton Jr.,Governor ,,D,Jefferson,Stampley,1
-Jim Hood,Governor ,,D,Jefferson,Stampley,88
-Robert J. Ray,Governor ,,D,Jefferson,Stampley,1
-Robert Shuler Smith,Governor ,,D,Jefferson,Stampley,4
-Gregory Wash,Governor ,,D,Jefferson,Stampley,0
-Velesha P Williams,Governor ,,D,Jefferson,Stampley,5
-Albert Wilson,Governor ,,D,Jefferson,Stampley,2
+Michael Brown,Governor,,D,Jefferson,Stampley,83
+William Bond Compton Jr.,Governor,,D,Jefferson,Stampley,1
+Jim Hood,Governor,,D,Jefferson,Stampley,88
+Robert J. Ray,Governor,,D,Jefferson,Stampley,1
+Robert Shuler Smith,Governor,,D,Jefferson,Stampley,4
+Gregory Wash,Governor,,D,Jefferson,Stampley,0
+Velesha P Williams,Governor,,D,Jefferson,Stampley,5
+Albert Wilson,Governor,,D,Jefferson,Stampley,2
 Jay Hughes,Lieutenant Governor,,D,Jefferson,Stampley,140
 Johnny DuPree,Secretary of State,,D,Jefferson,Stampley,135
 Maryra Hodges Hunt,Secretary of State,,D,Jefferson,Stampley,37
@@ -373,9 +373,9 @@ Albert Butler,State Senate,36,D,Jefferson,Stampley,135
 Tyler K Doss,State Senate,36,D,Jefferson,Stampley,40
 Jeffery Harness,State House,85,D,Jefferson,Stampley,169
 Robert L Johnson III,State House,94,D,Jefferson,Stampley,X
-Robert Foster,Governor ,,R,Jefferson,Union Church,9
-Tate Reeves,Governor ,,R,Jefferson,Union Church,30
-Bill Waller Jr.,Governor ,,R,Jefferson,Union Church,18
+Robert Foster,Governor,,R,Jefferson,Union Church,9
+Tate Reeves,Governor,,R,Jefferson,Union Church,30
+Bill Waller Jr.,Governor,,R,Jefferson,Union Church,18
 Delbert Hosemann,Lieutenant Governor,,R,Jefferson,Union Church,51
 Shane Quick,Lieutenant Governor,,R,Jefferson,Union Church,3
 Sam Britton,Secretary of State,,R,Jefferson,Union Church,19
@@ -388,14 +388,14 @@ Eugene S. 'Buck' Clarke,State Treasurer,,R,Jefferson,Union Church,32
 David McRae,State Treasurer,,R,Jefferson,Union Church,25
 Andy Gipson,Commissioner of Agriculture & Commerce,,R,Jefferson,Union Church,56
 Mike Chaney,Commissioner of Insurance,,R,Jefferson,Union Church,56
-Michael Brown,Governor ,,D,Jefferson,Union Church,70
-William Bond Compton Jr.,Governor ,,D,Jefferson,Union Church,2
-Jim Hood,Governor ,,D,Jefferson,Union Church,58
-Robert J. Ray,Governor ,,D,Jefferson,Union Church,0
-Robert Shuler Smith,Governor ,,D,Jefferson,Union Church,2
-Gregory Wash,Governor ,,D,Jefferson,Union Church,2
-Velesha P Williams,Governor ,,D,Jefferson,Union Church,2
-Albert Wilson,Governor ,,D,Jefferson,Union Church,2
+Michael Brown,Governor,,D,Jefferson,Union Church,70
+William Bond Compton Jr.,Governor,,D,Jefferson,Union Church,2
+Jim Hood,Governor,,D,Jefferson,Union Church,58
+Robert J. Ray,Governor,,D,Jefferson,Union Church,0
+Robert Shuler Smith,Governor,,D,Jefferson,Union Church,2
+Gregory Wash,Governor,,D,Jefferson,Union Church,2
+Velesha P Williams,Governor,,D,Jefferson,Union Church,2
+Albert Wilson,Governor,,D,Jefferson,Union Church,2
 Jay Hughes,Lieutenant Governor,,D,Jefferson,Union Church,101
 Johnny DuPree,Secretary of State,,D,Jefferson,Union Church,86
 Maryra Hodges Hunt,Secretary of State,,D,Jefferson,Union Church,28
@@ -407,9 +407,9 @@ Albert Butler,State Senate,36,D,Jefferson,Union Church,115
 Tyler K Doss,State Senate,36,D,Jefferson,Union Church,13
 Jeffery Harness,State House,85,D,Jefferson,Union Church,119
 Robert L Johnson III,State House,94,D,Jefferson,Union Church,X
-Robert Foster,Governor ,,R,Jefferson,TOTAL,19
-Tate Reeves,Governor ,,R,Jefferson,TOTAL,86
-Bill Waller Jr.,Governor ,,R,Jefferson,TOTAL,40
+Robert Foster,Governor,,R,Jefferson,TOTAL,19
+Tate Reeves,Governor,,R,Jefferson,TOTAL,86
+Bill Waller Jr.,Governor,,R,Jefferson,TOTAL,40
 Delbert Hosemann,Lieutenant Governor,,R,Jefferson,TOTAL,122
 Shane Quick,Lieutenant Governor,,R,Jefferson,TOTAL,12
 Sam Britton,Secretary of State,,R,Jefferson,TOTAL,54
@@ -422,14 +422,14 @@ Eugene S. 'Buck' Clarke,State Treasurer,,R,Jefferson,TOTAL,69
 David McRae,State Treasurer,,R,Jefferson,TOTAL,73
 Andy Gipson,Commissioner of Agriculture & Commerce,,R,Jefferson,TOTAL,135
 Mike Chaney,Commissioner of Insurance,,R,Jefferson,TOTAL,134
-Michael Brown,Governor ,,D,Jefferson,TOTAL,1112
-William Bond Compton Jr.,Governor ,,D,Jefferson,TOTAL,27
-Jim Hood,Governor ,,D,Jefferson,TOTAL,1372
-Robert J. Ray,Governor ,,D,Jefferson,TOTAL,16
-Robert Shuler Smith,Governor ,,D,Jefferson,TOTAL,59
-Gregory Wash,Governor ,,D,Jefferson,TOTAL,12
-Velesha P Williams,Governor ,,D,Jefferson,TOTAL,76
-Albert Wilson,Governor ,,D,Jefferson,TOTAL,30
+Michael Brown,Governor,,D,Jefferson,TOTAL,1112
+William Bond Compton Jr.,Governor,,D,Jefferson,TOTAL,27
+Jim Hood,Governor,,D,Jefferson,TOTAL,1372
+Robert J. Ray,Governor,,D,Jefferson,TOTAL,16
+Robert Shuler Smith,Governor,,D,Jefferson,TOTAL,59
+Gregory Wash,Governor,,D,Jefferson,TOTAL,12
+Velesha P Williams,Governor,,D,Jefferson,TOTAL,76
+Albert Wilson,Governor,,D,Jefferson,TOTAL,30
 Jay Hughes,Lieutenant Governor,,D,Jefferson,TOTAL,2220
 Johnny DuPree,Secretary of State,,D,Jefferson,TOTAL,1950
 Maryra Hodges Hunt,Secretary of State,,D,Jefferson,TOTAL,537

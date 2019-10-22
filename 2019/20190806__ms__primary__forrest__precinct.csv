@@ -1,7 +1,7 @@
 candidate,office,district,party,county,precinct,votes
-Robert Foster,Governor ,,R,Forrest,Bar Mac,196
-Tate Reeves,Governor ,,R,Forrest,Bar Mac,648
-Bill Waller Jr.,Governor ,,R,Forrest,Bar Mac,339
+Robert Foster,Governor,,R,Forrest,Bar Mac,196
+Tate Reeves,Governor,,R,Forrest,Bar Mac,648
+Bill Waller Jr.,Governor,,R,Forrest,Bar Mac,339
 Delbert Hosemann,Lieutenant Governor,,R,Forrest,Bar Mac,1031
 Shane Quick,Lieutenant Governor,,R,Forrest,Bar Mac,105
 Sam Britton,Secretary of State,,R,Forrest,Bar Mac,667
@@ -15,7 +15,7 @@ David McRae,State Treasurer,,R,Forrest,Bar Mac,665
 Andy Gipson,Commissioner of Agriculture & Commerce,,R,Forrest,Bar Mac,1103
 Mike Chaney,Commissioner of Insurance,,R,Forrest,Bar Mac,1109
 Steven L Wade,State Senate,34,R,Forrest,Bar Mac,X
-Joey Fillingane ,State Senate,41,R,Forrest,Bar Mac,X
+Joey Fillingane,State Senate,41,R,Forrest,Bar Mac,X
 Chris McDaniel,State Senate,42,R,Forrest,Bar Mac,1078
 Chris Johnson,State Senate,45,R,Forrest,Bar Mac,X
 William E 'Billy' Andrews III,State House,87,R,Forrest,Bar Mac,x
@@ -23,15 +23,15 @@ Trey Harvison,State House,87,R,Forrest,Bar Mac,x
 Ricardo Musslett,State House,87,R,Forrest,Bar Mac,x
 Joseph 'Bubba' Tubb,State House,87,R,Forrest,Bar Mac,x
 Missy Warren McGee,State House,102,R,Forrest,Bar Mac,x
-Larry Byrd ,State House,104,R,Forrest,Bar Mac,1109
-Michael Brown,Governor ,,D,Forrest,Bar Mac,6
-William Bond Compton Jr.,Governor ,,D,Forrest,Bar Mac,1
-Jim Hood,Governor ,,D,Forrest,Bar Mac,68
-Robert J. Ray,Governor ,,D,Forrest,Bar Mac,2
-Robert Shuler Smith,Governor ,,D,Forrest,Bar Mac,9
-Gregory Wash,Governor ,,D,Forrest,Bar Mac,2
-Velesha P Williams,Governor ,,D,Forrest,Bar Mac,10
-Albert Wilson,Governor ,,D,Forrest,Bar Mac,1
+Larry Byrd,State House,104,R,Forrest,Bar Mac,1109
+Michael Brown,Governor,,D,Forrest,Bar Mac,6
+William Bond Compton Jr.,Governor,,D,Forrest,Bar Mac,1
+Jim Hood,Governor,,D,Forrest,Bar Mac,68
+Robert J. Ray,Governor,,D,Forrest,Bar Mac,2
+Robert Shuler Smith,Governor,,D,Forrest,Bar Mac,9
+Gregory Wash,Governor,,D,Forrest,Bar Mac,2
+Velesha P Williams,Governor,,D,Forrest,Bar Mac,10
+Albert Wilson,Governor,,D,Forrest,Bar Mac,1
 Jay Hughes,Lieutenant Governor,,D,Forrest,Bar Mac,87
 Johnny DuPree,Secretary of State,,D,Forrest,Bar Mac,86
 Maryra Hodges Hunt,Secretary of State,,D,Forrest,Bar Mac,14
@@ -42,11 +42,11 @@ Robert E Amos,Commissioner of Insurance,,D,Forrest,Bar Mac,94
 Duan Barnett,State Senate,34,D,Forrest,Bar Mac,x
 Deborah Denard Delgado,State Senate,34,D,Forrest,Bar Mac,x
 Brandon Terrion Rue,State House,102,D,Forrest,Bar Mac,x
-Edward Hargrove Jr. ,State House,103,D,Forrest,Bar Mac,x
+Edward Hargrove Jr.,State House,103,D,Forrest,Bar Mac,x
 Percy W Watson,State House,103,D,Forrest,Bar Mac,x
-Robert Foster,Governor ,,R,Forrest,Brooklyn,45
-Tate Reeves,Governor ,,R,Forrest,Brooklyn,169
-Bill Waller Jr.,Governor ,,R,Forrest,Brooklyn,97
+Robert Foster,Governor,,R,Forrest,Brooklyn,45
+Tate Reeves,Governor,,R,Forrest,Brooklyn,169
+Bill Waller Jr.,Governor,,R,Forrest,Brooklyn,97
 Delbert Hosemann,Lieutenant Governor,,R,Forrest,Brooklyn,263
 Shane Quick,Lieutenant Governor,,R,Forrest,Brooklyn,29
 Sam Britton,Secretary of State,,R,Forrest,Brooklyn,150
@@ -60,7 +60,7 @@ David McRae,State Treasurer,,R,Forrest,Brooklyn,167
 Andy Gipson,Commissioner of Agriculture & Commerce,,R,Forrest,Brooklyn,270
 Mike Chaney,Commissioner of Insurance,,R,Forrest,Brooklyn,276
 Steven L Wade,State Senate,34,R,Forrest,Brooklyn,X
-Joey Fillingane ,State Senate,41,R,Forrest,Brooklyn,X
+Joey Fillingane,State Senate,41,R,Forrest,Brooklyn,X
 Chris McDaniel,State Senate,42,R,Forrest,Brooklyn,X
 Chris Johnson,State Senate,45,R,Forrest,Brooklyn,277
 William E 'Billy' Andrews III,State House,87,R,Forrest,Brooklyn,x
@@ -68,15 +68,15 @@ Trey Harvison,State House,87,R,Forrest,Brooklyn,x
 Ricardo Musslett,State House,87,R,Forrest,Brooklyn,x
 Joseph 'Bubba' Tubb,State House,87,R,Forrest,Brooklyn,x
 Missy Warren McGee,State House,102,R,Forrest,Brooklyn,x
-Larry Byrd ,State House,104,R,Forrest,Brooklyn,271
-Michael Brown,Governor ,,D,Forrest,Brooklyn,1
-William Bond Compton Jr.,Governor ,,D,Forrest,Brooklyn,0
-Jim Hood,Governor ,,D,Forrest,Brooklyn,4
-Robert J. Ray,Governor ,,D,Forrest,Brooklyn,0
-Robert Shuler Smith,Governor ,,D,Forrest,Brooklyn,0
-Gregory Wash,Governor ,,D,Forrest,Brooklyn,0
-Velesha P Williams,Governor ,,D,Forrest,Brooklyn,0
-Albert Wilson,Governor ,,D,Forrest,Brooklyn,0
+Larry Byrd,State House,104,R,Forrest,Brooklyn,271
+Michael Brown,Governor,,D,Forrest,Brooklyn,1
+William Bond Compton Jr.,Governor,,D,Forrest,Brooklyn,0
+Jim Hood,Governor,,D,Forrest,Brooklyn,4
+Robert J. Ray,Governor,,D,Forrest,Brooklyn,0
+Robert Shuler Smith,Governor,,D,Forrest,Brooklyn,0
+Gregory Wash,Governor,,D,Forrest,Brooklyn,0
+Velesha P Williams,Governor,,D,Forrest,Brooklyn,0
+Albert Wilson,Governor,,D,Forrest,Brooklyn,0
 Jay Hughes,Lieutenant Governor,,D,Forrest,Brooklyn,5
 Johnny DuPree,Secretary of State,,D,Forrest,Brooklyn,4
 Maryra Hodges Hunt,Secretary of State,,D,Forrest,Brooklyn,1
@@ -87,11 +87,11 @@ Robert E Amos,Commissioner of Insurance,,D,Forrest,Brooklyn,5
 Duan Barnett,State Senate,34,D,Forrest,Brooklyn,x
 Deborah Denard Delgado,State Senate,34,D,Forrest,Brooklyn,x
 Brandon Terrion Rue,State House,102,D,Forrest,Brooklyn,x
-Edward Hargrove Jr. ,State House,103,D,Forrest,Brooklyn,x
+Edward Hargrove Jr.,State House,103,D,Forrest,Brooklyn,x
 Percy W Watson,State House,103,D,Forrest,Brooklyn,x
-Robert Foster,Governor ,,R,Forrest,Camp,20
-Tate Reeves,Governor ,,R,Forrest,Camp,51
-Bill Waller Jr.,Governor ,,R,Forrest,Camp,148
+Robert Foster,Governor,,R,Forrest,Camp,20
+Tate Reeves,Governor,,R,Forrest,Camp,51
+Bill Waller Jr.,Governor,,R,Forrest,Camp,148
 Delbert Hosemann,Lieutenant Governor,,R,Forrest,Camp,185
 Shane Quick,Lieutenant Governor,,R,Forrest,Camp,19
 Sam Britton,Secretary of State,,R,Forrest,Camp,103
@@ -105,7 +105,7 @@ David McRae,State Treasurer,,R,Forrest,Camp,108
 Andy Gipson,Commissioner of Agriculture & Commerce,,R,Forrest,Camp,190
 Mike Chaney,Commissioner of Insurance,,R,Forrest,Camp,191
 Steven L Wade,State Senate,34,R,Forrest,Camp,0
-Joey Fillingane ,State Senate,41,R,Forrest,Camp,X
+Joey Fillingane,State Senate,41,R,Forrest,Camp,X
 Chris McDaniel,State Senate,42,R,Forrest,Camp,X
 Chris Johnson,State Senate,45,R,Forrest,Camp,191
 William E 'Billy' Andrews III,State House,87,R,Forrest,Camp,x
@@ -113,15 +113,15 @@ Trey Harvison,State House,87,R,Forrest,Camp,x
 Ricardo Musslett,State House,87,R,Forrest,Camp,x
 Joseph 'Bubba' Tubb,State House,87,R,Forrest,Camp,x
 Missy Warren McGee,State House,102,R,Forrest,Camp,199
-Larry Byrd ,State House,104,R,Forrest,Camp,x
-Michael Brown,Governor ,,D,Forrest,Camp,4
-William Bond Compton Jr.,Governor ,,D,Forrest,Camp,2
-Jim Hood,Governor ,,D,Forrest,Camp,67
-Robert J. Ray,Governor ,,D,Forrest,Camp,2
-Robert Shuler Smith,Governor ,,D,Forrest,Camp,1
-Gregory Wash,Governor ,,D,Forrest,Camp,0
-Velesha P Williams,Governor ,,D,Forrest,Camp,10
-Albert Wilson,Governor ,,D,Forrest,Camp,0
+Larry Byrd,State House,104,R,Forrest,Camp,x
+Michael Brown,Governor,,D,Forrest,Camp,4
+William Bond Compton Jr.,Governor,,D,Forrest,Camp,2
+Jim Hood,Governor,,D,Forrest,Camp,67
+Robert J. Ray,Governor,,D,Forrest,Camp,2
+Robert Shuler Smith,Governor,,D,Forrest,Camp,1
+Gregory Wash,Governor,,D,Forrest,Camp,0
+Velesha P Williams,Governor,,D,Forrest,Camp,10
+Albert Wilson,Governor,,D,Forrest,Camp,0
 Jay Hughes,Lieutenant Governor,,D,Forrest,Camp,72
 Johnny DuPree,Secretary of State,,D,Forrest,Camp,62
 Maryra Hodges Hunt,Secretary of State,,D,Forrest,Camp,24
@@ -132,11 +132,11 @@ Robert E Amos,Commissioner of Insurance,,D,Forrest,Camp,72
 Duan Barnett,State Senate,34,D,Forrest,Camp,0
 Deborah Denard Delgado,State Senate,34,D,Forrest,Camp,0
 Brandon Terrion Rue,State House,102,D,Forrest,Camp,69
-Edward Hargrove Jr. ,State House,103,D,Forrest,Camp,0
+Edward Hargrove Jr.,State House,103,D,Forrest,Camp,0
 Percy W Watson,State House,103,D,Forrest,Camp,0
-Robert Foster,Governor ,,R,Forrest,Carnes,95
-Tate Reeves,Governor ,,R,Forrest,Carnes,217
-Bill Waller Jr.,Governor ,,R,Forrest,Carnes,154
+Robert Foster,Governor,,R,Forrest,Carnes,95
+Tate Reeves,Governor,,R,Forrest,Carnes,217
+Bill Waller Jr.,Governor,,R,Forrest,Carnes,154
 Delbert Hosemann,Lieutenant Governor,,R,Forrest,Carnes,394
 Shane Quick,Lieutenant Governor,,R,Forrest,Carnes,45
 Sam Britton,Secretary of State,,R,Forrest,Carnes,265
@@ -150,7 +150,7 @@ David McRae,State Treasurer,,R,Forrest,Carnes,239
 Andy Gipson,Commissioner of Agriculture & Commerce,,R,Forrest,Carnes,434
 Mike Chaney,Commissioner of Insurance,,R,Forrest,Carnes,440
 Steven L Wade,State Senate,34,R,Forrest,Carnes,X
-Joey Fillingane ,State Senate,41,R,Forrest,Carnes,X
+Joey Fillingane,State Senate,41,R,Forrest,Carnes,X
 Chris McDaniel,State Senate,42,R,Forrest,Carnes,X
 Chris Johnson,State Senate,45,R,Forrest,Carnes,442
 William E 'Billy' Andrews III,State House,87,R,Forrest,Carnes,224
@@ -158,15 +158,15 @@ Trey Harvison,State House,87,R,Forrest,Carnes,46
 Ricardo Musslett,State House,87,R,Forrest,Carnes,52
 Joseph 'Bubba' Tubb,State House,87,R,Forrest,Carnes,133
 Missy Warren McGee,State House,102,R,Forrest,Carnes,x
-Larry Byrd ,State House,104,R,Forrest,Carnes,x
-Michael Brown,Governor ,,D,Forrest,Carnes,1
-William Bond Compton Jr.,Governor ,,D,Forrest,Carnes,0
-Jim Hood,Governor ,,D,Forrest,Carnes,2
-Robert J. Ray,Governor ,,D,Forrest,Carnes,0
-Robert Shuler Smith,Governor ,,D,Forrest,Carnes,0
-Gregory Wash,Governor ,,D,Forrest,Carnes,0
-Velesha P Williams,Governor ,,D,Forrest,Carnes,0
-Albert Wilson,Governor ,,D,Forrest,Carnes,0
+Larry Byrd,State House,104,R,Forrest,Carnes,x
+Michael Brown,Governor,,D,Forrest,Carnes,1
+William Bond Compton Jr.,Governor,,D,Forrest,Carnes,0
+Jim Hood,Governor,,D,Forrest,Carnes,2
+Robert J. Ray,Governor,,D,Forrest,Carnes,0
+Robert Shuler Smith,Governor,,D,Forrest,Carnes,0
+Gregory Wash,Governor,,D,Forrest,Carnes,0
+Velesha P Williams,Governor,,D,Forrest,Carnes,0
+Albert Wilson,Governor,,D,Forrest,Carnes,0
 Jay Hughes,Lieutenant Governor,,D,Forrest,Carnes,3
 Johnny DuPree,Secretary of State,,D,Forrest,Carnes,0
 Maryra Hodges Hunt,Secretary of State,,D,Forrest,Carnes,3
@@ -177,11 +177,11 @@ Robert E Amos,Commissioner of Insurance,,D,Forrest,Carnes,3
 Duan Barnett,State Senate,34,D,Forrest,Carnes,x
 Deborah Denard Delgado,State Senate,34,D,Forrest,Carnes,x
 Brandon Terrion Rue,State House,102,D,Forrest,Carnes,x
-Edward Hargrove Jr. ,State House,103,D,Forrest,Carnes,x
+Edward Hargrove Jr.,State House,103,D,Forrest,Carnes,x
 Percy W Watson,State House,103,D,Forrest,Carnes,x
-Robert Foster,Governor ,,R,Forrest,Court Street,4
-Tate Reeves,Governor ,,R,Forrest,Court Street,19
-Bill Waller Jr.,Governor ,,R,Forrest,Court Street,57
+Robert Foster,Governor,,R,Forrest,Court Street,4
+Tate Reeves,Governor,,R,Forrest,Court Street,19
+Bill Waller Jr.,Governor,,R,Forrest,Court Street,57
 Delbert Hosemann,Lieutenant Governor,,R,Forrest,Court Street,66
 Shane Quick,Lieutenant Governor,,R,Forrest,Court Street,9
 Sam Britton,Secretary of State,,R,Forrest,Court Street,39
@@ -195,7 +195,7 @@ David McRae,State Treasurer,,R,Forrest,Court Street,39
 Andy Gipson,Commissioner of Agriculture & Commerce,,R,Forrest,Court Street,65
 Mike Chaney,Commissioner of Insurance,,R,Forrest,Court Street,66
 Steven L Wade,State Senate,34,R,Forrest,Court Street,65
-Joey Fillingane ,State Senate,41,R,Forrest,Court Street,X
+Joey Fillingane,State Senate,41,R,Forrest,Court Street,X
 Chris McDaniel,State Senate,42,R,Forrest,Court Street,X
 Chris Johnson,State Senate,45,R,Forrest,Court Street,X
 William E 'Billy' Andrews III,State House,87,R,Forrest,Court Street,x
@@ -203,15 +203,15 @@ Trey Harvison,State House,87,R,Forrest,Court Street,x
 Ricardo Musslett,State House,87,R,Forrest,Court Street,x
 Joseph 'Bubba' Tubb,State House,87,R,Forrest,Court Street,x
 Missy Warren McGee,State House,102,R,Forrest,Court Street,x
-Larry Byrd ,State House,104,R,Forrest,Court Street,x
-Michael Brown,Governor ,,D,Forrest,Court Street,17
-William Bond Compton Jr.,Governor ,,D,Forrest,Court Street,4
-Jim Hood,Governor ,,D,Forrest,Court Street,120
-Robert J. Ray,Governor ,,D,Forrest,Court Street,4
-Robert Shuler Smith,Governor ,,D,Forrest,Court Street,3
-Gregory Wash,Governor ,,D,Forrest,Court Street,0
-Velesha P Williams,Governor ,,D,Forrest,Court Street,19
-Albert Wilson,Governor ,,D,Forrest,Court Street,0
+Larry Byrd,State House,104,R,Forrest,Court Street,x
+Michael Brown,Governor,,D,Forrest,Court Street,17
+William Bond Compton Jr.,Governor,,D,Forrest,Court Street,4
+Jim Hood,Governor,,D,Forrest,Court Street,120
+Robert J. Ray,Governor,,D,Forrest,Court Street,4
+Robert Shuler Smith,Governor,,D,Forrest,Court Street,3
+Gregory Wash,Governor,,D,Forrest,Court Street,0
+Velesha P Williams,Governor,,D,Forrest,Court Street,19
+Albert Wilson,Governor,,D,Forrest,Court Street,0
 Jay Hughes,Lieutenant Governor,,D,Forrest,Court Street,128
 Johnny DuPree,Secretary of State,,D,Forrest,Court Street,152
 Maryra Hodges Hunt,Secretary of State,,D,Forrest,Court Street,16
@@ -222,11 +222,11 @@ Robert E Amos,Commissioner of Insurance,,D,Forrest,Court Street,139
 Duan Barnett,State Senate,34,D,Forrest,Court Street,45
 Deborah Denard Delgado,State Senate,34,D,Forrest,Court Street,122
 Brandon Terrion Rue,State House,102,D,Forrest,Court Street,x
-Edward Hargrove Jr. ,State House,103,D,Forrest,Court Street,16
+Edward Hargrove Jr.,State House,103,D,Forrest,Court Street,16
 Percy W Watson,State House,103,D,Forrest,Court Street,144
-Robert Foster,Governor ,,R,Forrest,Dantzler,56
-Tate Reeves,Governor ,,R,Forrest,Dantzler,172
-Bill Waller Jr.,Governor ,,R,Forrest,Dantzler,69
+Robert Foster,Governor,,R,Forrest,Dantzler,56
+Tate Reeves,Governor,,R,Forrest,Dantzler,172
+Bill Waller Jr.,Governor,,R,Forrest,Dantzler,69
 Delbert Hosemann,Lieutenant Governor,,R,Forrest,Dantzler,245
 Shane Quick,Lieutenant Governor,,R,Forrest,Dantzler,36
 Sam Britton,Secretary of State,,R,Forrest,Dantzler,157
@@ -240,7 +240,7 @@ David McRae,State Treasurer,,R,Forrest,Dantzler,172
 Andy Gipson,Commissioner of Agriculture & Commerce,,R,Forrest,Dantzler,276
 Mike Chaney,Commissioner of Insurance,,R,Forrest,Dantzler,276
 Steven L Wade,State Senate,34,R,Forrest,Dantzler,X
-Joey Fillingane ,State Senate,41,R,Forrest,Dantzler,X
+Joey Fillingane,State Senate,41,R,Forrest,Dantzler,X
 Chris McDaniel,State Senate,42,R,Forrest,Dantzler,X
 Chris Johnson,State Senate,45,R,Forrest,Dantzler,277
 William E 'Billy' Andrews III,State House,87,R,Forrest,Dantzler,94
@@ -248,15 +248,15 @@ Trey Harvison,State House,87,R,Forrest,Dantzler,31
 Ricardo Musslett,State House,87,R,Forrest,Dantzler,107
 Joseph 'Bubba' Tubb,State House,87,R,Forrest,Dantzler,58
 Missy Warren McGee,State House,102,R,Forrest,Dantzler,x
-Larry Byrd ,State House,104,R,Forrest,Dantzler,x
-Michael Brown,Governor ,,D,Forrest,Dantzler,1
-William Bond Compton Jr.,Governor ,,D,Forrest,Dantzler,0
-Jim Hood,Governor ,,D,Forrest,Dantzler,9
-Robert J. Ray,Governor ,,D,Forrest,Dantzler,0
-Robert Shuler Smith,Governor ,,D,Forrest,Dantzler,0
-Gregory Wash,Governor ,,D,Forrest,Dantzler,0
-Velesha P Williams,Governor ,,D,Forrest,Dantzler,0
-Albert Wilson,Governor ,,D,Forrest,Dantzler,0
+Larry Byrd,State House,104,R,Forrest,Dantzler,x
+Michael Brown,Governor,,D,Forrest,Dantzler,1
+William Bond Compton Jr.,Governor,,D,Forrest,Dantzler,0
+Jim Hood,Governor,,D,Forrest,Dantzler,9
+Robert J. Ray,Governor,,D,Forrest,Dantzler,0
+Robert Shuler Smith,Governor,,D,Forrest,Dantzler,0
+Gregory Wash,Governor,,D,Forrest,Dantzler,0
+Velesha P Williams,Governor,,D,Forrest,Dantzler,0
+Albert Wilson,Governor,,D,Forrest,Dantzler,0
 Jay Hughes,Lieutenant Governor,,D,Forrest,Dantzler,9
 Johnny DuPree,Secretary of State,,D,Forrest,Dantzler,9
 Maryra Hodges Hunt,Secretary of State,,D,Forrest,Dantzler,1
@@ -267,11 +267,11 @@ Robert E Amos,Commissioner of Insurance,,D,Forrest,Dantzler,9
 Duan Barnett,State Senate,34,D,Forrest,Dantzler,x
 Deborah Denard Delgado,State Senate,34,D,Forrest,Dantzler,x
 Brandon Terrion Rue,State House,102,D,Forrest,Dantzler,x
-Edward Hargrove Jr. ,State House,103,D,Forrest,Dantzler,x
+Edward Hargrove Jr.,State House,103,D,Forrest,Dantzler,x
 Percy W Watson,State House,103,D,Forrest,Dantzler,x
-Robert Foster,Governor ,,R,Forrest,Dixie,117
-Tate Reeves,Governor ,,R,Forrest,Dixie,401
-Bill Waller Jr.,Governor ,,R,Forrest,Dixie,256
+Robert Foster,Governor,,R,Forrest,Dixie,117
+Tate Reeves,Governor,,R,Forrest,Dixie,401
+Bill Waller Jr.,Governor,,R,Forrest,Dixie,256
 Delbert Hosemann,Lieutenant Governor,,R,Forrest,Dixie,633
 Shane Quick,Lieutenant Governor,,R,Forrest,Dixie,101
 Sam Britton,Secretary of State,,R,Forrest,Dixie,412
@@ -285,7 +285,7 @@ David McRae,State Treasurer,,R,Forrest,Dixie,432
 Andy Gipson,Commissioner of Agriculture & Commerce,,R,Forrest,Dixie,724
 Mike Chaney,Commissioner of Insurance,,R,Forrest,Dixie,726
 Steven L Wade,State Senate,34,R,Forrest,Dixie,X
-Joey Fillingane ,State Senate,41,R,Forrest,Dixie,X
+Joey Fillingane,State Senate,41,R,Forrest,Dixie,X
 Chris McDaniel,State Senate,42,R,Forrest,Dixie,X
 Chris Johnson,State Senate,45,R,Forrest,Dixie,729
 William E 'Billy' Andrews III,State House,87,R,Forrest,Dixie,197
@@ -293,15 +293,15 @@ Trey Harvison,State House,87,R,Forrest,Dixie,58
 Ricardo Musslett,State House,87,R,Forrest,Dixie,277
 Joseph 'Bubba' Tubb,State House,87,R,Forrest,Dixie,134
 Missy Warren McGee,State House,102,R,Forrest,Dixie,x
-Larry Byrd ,State House,104,R,Forrest,Dixie,100
-Michael Brown,Governor ,,D,Forrest,Dixie,0
-William Bond Compton Jr.,Governor ,,D,Forrest,Dixie,0
-Jim Hood,Governor ,,D,Forrest,Dixie,33
-Robert J. Ray,Governor ,,D,Forrest,Dixie,0
-Robert Shuler Smith,Governor ,,D,Forrest,Dixie,1
-Gregory Wash,Governor ,,D,Forrest,Dixie,0
-Velesha P Williams,Governor ,,D,Forrest,Dixie,3
-Albert Wilson,Governor ,,D,Forrest,Dixie,1
+Larry Byrd,State House,104,R,Forrest,Dixie,100
+Michael Brown,Governor,,D,Forrest,Dixie,0
+William Bond Compton Jr.,Governor,,D,Forrest,Dixie,0
+Jim Hood,Governor,,D,Forrest,Dixie,33
+Robert J. Ray,Governor,,D,Forrest,Dixie,0
+Robert Shuler Smith,Governor,,D,Forrest,Dixie,1
+Gregory Wash,Governor,,D,Forrest,Dixie,0
+Velesha P Williams,Governor,,D,Forrest,Dixie,3
+Albert Wilson,Governor,,D,Forrest,Dixie,1
 Jay Hughes,Lieutenant Governor,,D,Forrest,Dixie,35
 Johnny DuPree,Secretary of State,,D,Forrest,Dixie,27
 Maryra Hodges Hunt,Secretary of State,,D,Forrest,Dixie,11
@@ -312,56 +312,56 @@ Robert E Amos,Commissioner of Insurance,,D,Forrest,Dixie,35
 Duan Barnett,State Senate,34,D,Forrest,Dixie,x
 Deborah Denard Delgado,State Senate,34,D,Forrest,Dixie,x
 Brandon Terrion Rue,State House,102,D,Forrest,Dixie,x
-Edward Hargrove Jr. ,State House,103,D,Forrest,Dixie,x
+Edward Hargrove Jr.,State House,103,D,Forrest,Dixie,x
 Percy W Watson,State House,103,D,Forrest,Dixie,x
-Robert Foster,Governor ,,R,Forrest,Dixie Pine Central ,11
-Tate Reeves,Governor ,,R,Forrest,Dixie Pine Central ,63
-Bill Waller Jr.,Governor ,,R,Forrest,Dixie Pine Central ,33
-Delbert Hosemann,Lieutenant Governor,,R,Forrest,Dixie Pine Central ,90
-Shane Quick,Lieutenant Governor,,R,Forrest,Dixie Pine Central ,10
-Sam Britton,Secretary of State,,R,Forrest,Dixie Pine Central ,58
-Michael Watson,Secretary of State,,R,Forrest,Dixie Pine Central ,40
-Mark Baker,Attorney General,,R,Forrest,Dixie Pine Central ,31
-Lynn Fitch,Attorney General,,R,Forrest,Dixie Pine Central ,53
-Andy Taggart,Attorney General,,R,Forrest,Dixie Pine Central ,18
-Shad White,State Auditor,,R,Forrest,Dixie Pine Central ,86
-Eugene S. 'Buck' Clarke,State Treasurer,,R,Forrest,Dixie Pine Central ,49
-David McRae,State Treasurer,,R,Forrest,Dixie Pine Central ,52
-Andy Gipson,Commissioner of Agriculture & Commerce,,R,Forrest,Dixie Pine Central ,90
-Mike Chaney,Commissioner of Insurance,,R,Forrest,Dixie Pine Central ,94
-Steven L Wade,State Senate,34,R,Forrest,Dixie Pine Central ,X
-Joey Fillingane ,State Senate,41,R,Forrest,Dixie Pine Central ,X
-Chris McDaniel,State Senate,42,R,Forrest,Dixie Pine Central ,X
-Chris Johnson,State Senate,45,R,Forrest,Dixie Pine Central ,89
-William E 'Billy' Andrews III,State House,87,R,Forrest,Dixie Pine Central ,x
-Trey Harvison,State House,87,R,Forrest,Dixie Pine Central ,x
-Ricardo Musslett,State House,87,R,Forrest,Dixie Pine Central ,x
-Joseph 'Bubba' Tubb,State House,87,R,Forrest,Dixie Pine Central ,x
-Missy Warren McGee,State House,102,R,Forrest,Dixie Pine Central ,x
-Larry Byrd ,State House,104,R,Forrest,Dixie Pine Central ,15
-Michael Brown,Governor ,,D,Forrest,Dixie Pine Central ,37
-William Bond Compton Jr.,Governor ,,D,Forrest,Dixie Pine Central ,6
-Jim Hood,Governor ,,D,Forrest,Dixie Pine Central ,211
-Robert J. Ray,Governor ,,D,Forrest,Dixie Pine Central ,3
-Robert Shuler Smith,Governor ,,D,Forrest,Dixie Pine Central ,11
-Gregory Wash,Governor ,,D,Forrest,Dixie Pine Central ,3
-Velesha P Williams,Governor ,,D,Forrest,Dixie Pine Central ,42
-Albert Wilson,Governor ,,D,Forrest,Dixie Pine Central ,1
-Jay Hughes,Lieutenant Governor,,D,Forrest,Dixie Pine Central ,232
-Johnny DuPree,Secretary of State,,D,Forrest,Dixie Pine Central ,283
-Maryra Hodges Hunt,Secretary of State,,D,Forrest,Dixie Pine Central ,32
-Jennifer Riley Collins,Attorney General,,D,Forrest,Dixie Pine Central ,240
-Addie Lee Green,State Treasurer,,D,Forrest,Dixie Pine Central ,226
-Rickey L Cole,Commissioner of Agriculture & Commerce,,D,Forrest,Dixie Pine Central ,233
-Robert E Amos,Commissioner of Insurance,,D,Forrest,Dixie Pine Central ,228
-Duan Barnett,State Senate,34,D,Forrest,Dixie Pine Central ,x
-Deborah Denard Delgado,State Senate,34,D,Forrest,Dixie Pine Central ,x
-Brandon Terrion Rue,State House,102,D,Forrest,Dixie Pine Central ,x
-Edward Hargrove Jr. ,State House,103,D,Forrest,Dixie Pine Central ,56
-Percy W Watson,State House,103,D,Forrest,Dixie Pine Central ,248
-Robert Foster,Governor ,,R,Forrest,Eatonville,60
-Tate Reeves,Governor ,,R,Forrest,Eatonville,198
-Bill Waller Jr.,Governor ,,R,Forrest,Eatonville,140
+Robert Foster,Governor,,R,Forrest,Dixie Pine Central,11
+Tate Reeves,Governor,,R,Forrest,Dixie Pine Central,63
+Bill Waller Jr.,Governor,,R,Forrest,Dixie Pine Central,33
+Delbert Hosemann,Lieutenant Governor,,R,Forrest,Dixie Pine Central,90
+Shane Quick,Lieutenant Governor,,R,Forrest,Dixie Pine Central,10
+Sam Britton,Secretary of State,,R,Forrest,Dixie Pine Central,58
+Michael Watson,Secretary of State,,R,Forrest,Dixie Pine Central,40
+Mark Baker,Attorney General,,R,Forrest,Dixie Pine Central,31
+Lynn Fitch,Attorney General,,R,Forrest,Dixie Pine Central,53
+Andy Taggart,Attorney General,,R,Forrest,Dixie Pine Central,18
+Shad White,State Auditor,,R,Forrest,Dixie Pine Central,86
+Eugene S. 'Buck' Clarke,State Treasurer,,R,Forrest,Dixie Pine Central,49
+David McRae,State Treasurer,,R,Forrest,Dixie Pine Central,52
+Andy Gipson,Commissioner of Agriculture & Commerce,,R,Forrest,Dixie Pine Central,90
+Mike Chaney,Commissioner of Insurance,,R,Forrest,Dixie Pine Central,94
+Steven L Wade,State Senate,34,R,Forrest,Dixie Pine Central,X
+Joey Fillingane,State Senate,41,R,Forrest,Dixie Pine Central,X
+Chris McDaniel,State Senate,42,R,Forrest,Dixie Pine Central,X
+Chris Johnson,State Senate,45,R,Forrest,Dixie Pine Central,89
+William E 'Billy' Andrews III,State House,87,R,Forrest,Dixie Pine Central,x
+Trey Harvison,State House,87,R,Forrest,Dixie Pine Central,x
+Ricardo Musslett,State House,87,R,Forrest,Dixie Pine Central,x
+Joseph 'Bubba' Tubb,State House,87,R,Forrest,Dixie Pine Central,x
+Missy Warren McGee,State House,102,R,Forrest,Dixie Pine Central,x
+Larry Byrd,State House,104,R,Forrest,Dixie Pine Central,15
+Michael Brown,Governor,,D,Forrest,Dixie Pine Central,37
+William Bond Compton Jr.,Governor,,D,Forrest,Dixie Pine Central,6
+Jim Hood,Governor,,D,Forrest,Dixie Pine Central,211
+Robert J. Ray,Governor,,D,Forrest,Dixie Pine Central,3
+Robert Shuler Smith,Governor,,D,Forrest,Dixie Pine Central,11
+Gregory Wash,Governor,,D,Forrest,Dixie Pine Central,3
+Velesha P Williams,Governor,,D,Forrest,Dixie Pine Central,42
+Albert Wilson,Governor,,D,Forrest,Dixie Pine Central,1
+Jay Hughes,Lieutenant Governor,,D,Forrest,Dixie Pine Central,232
+Johnny DuPree,Secretary of State,,D,Forrest,Dixie Pine Central,283
+Maryra Hodges Hunt,Secretary of State,,D,Forrest,Dixie Pine Central,32
+Jennifer Riley Collins,Attorney General,,D,Forrest,Dixie Pine Central,240
+Addie Lee Green,State Treasurer,,D,Forrest,Dixie Pine Central,226
+Rickey L Cole,Commissioner of Agriculture & Commerce,,D,Forrest,Dixie Pine Central,233
+Robert E Amos,Commissioner of Insurance,,D,Forrest,Dixie Pine Central,228
+Duan Barnett,State Senate,34,D,Forrest,Dixie Pine Central,x
+Deborah Denard Delgado,State Senate,34,D,Forrest,Dixie Pine Central,x
+Brandon Terrion Rue,State House,102,D,Forrest,Dixie Pine Central,x
+Edward Hargrove Jr.,State House,103,D,Forrest,Dixie Pine Central,56
+Percy W Watson,State House,103,D,Forrest,Dixie Pine Central,248
+Robert Foster,Governor,,R,Forrest,Eatonville,60
+Tate Reeves,Governor,,R,Forrest,Eatonville,198
+Bill Waller Jr.,Governor,,R,Forrest,Eatonville,140
 Delbert Hosemann,Lieutenant Governor,,R,Forrest,Eatonville,347
 Shane Quick,Lieutenant Governor,,R,Forrest,Eatonville,30
 Sam Britton,Secretary of State,,R,Forrest,Eatonville,215
@@ -375,7 +375,7 @@ David McRae,State Treasurer,,R,Forrest,Eatonville,222
 Andy Gipson,Commissioner of Agriculture & Commerce,,R,Forrest,Eatonville,366
 Mike Chaney,Commissioner of Insurance,,R,Forrest,Eatonville,372
 Steven L Wade,State Senate,34,R,Forrest,Eatonville,362
-Joey Fillingane ,State Senate,41,R,Forrest,Eatonville,X
+Joey Fillingane,State Senate,41,R,Forrest,Eatonville,X
 Chris McDaniel,State Senate,42,R,Forrest,Eatonville,X
 Chris Johnson,State Senate,45,R,Forrest,Eatonville,X
 William E 'Billy' Andrews III,State House,87,R,Forrest,Eatonville,x
@@ -383,15 +383,15 @@ Trey Harvison,State House,87,R,Forrest,Eatonville,x
 Ricardo Musslett,State House,87,R,Forrest,Eatonville,x
 Joseph 'Bubba' Tubb,State House,87,R,Forrest,Eatonville,x
 Missy Warren McGee,State House,102,R,Forrest,Eatonville,x
-Larry Byrd ,State House,104,R,Forrest,Eatonville,x
-Michael Brown,Governor ,,D,Forrest,Eatonville,11
-William Bond Compton Jr.,Governor ,,D,Forrest,Eatonville,0
-Jim Hood,Governor ,,D,Forrest,Eatonville,77
-Robert J. Ray,Governor ,,D,Forrest,Eatonville,0
-Robert Shuler Smith,Governor ,,D,Forrest,Eatonville,1
-Gregory Wash,Governor ,,D,Forrest,Eatonville,0
-Velesha P Williams,Governor ,,D,Forrest,Eatonville,2
-Albert Wilson,Governor ,,D,Forrest,Eatonville,0
+Larry Byrd,State House,104,R,Forrest,Eatonville,x
+Michael Brown,Governor,,D,Forrest,Eatonville,11
+William Bond Compton Jr.,Governor,,D,Forrest,Eatonville,0
+Jim Hood,Governor,,D,Forrest,Eatonville,77
+Robert J. Ray,Governor,,D,Forrest,Eatonville,0
+Robert Shuler Smith,Governor,,D,Forrest,Eatonville,1
+Gregory Wash,Governor,,D,Forrest,Eatonville,0
+Velesha P Williams,Governor,,D,Forrest,Eatonville,2
+Albert Wilson,Governor,,D,Forrest,Eatonville,0
 Jay Hughes,Lieutenant Governor,,D,Forrest,Eatonville,69
 Johnny DuPree,Secretary of State,,D,Forrest,Eatonville,70
 Maryra Hodges Hunt,Secretary of State,,D,Forrest,Eatonville,20
@@ -402,11 +402,11 @@ Robert E Amos,Commissioner of Insurance,,D,Forrest,Eatonville,70
 Duan Barnett,State Senate,34,D,Forrest,Eatonville,24
 Deborah Denard Delgado,State Senate,34,D,Forrest,Eatonville,62
 Brandon Terrion Rue,State House,102,D,Forrest,Eatonville,x
-Edward Hargrove Jr. ,State House,103,D,Forrest,Eatonville,12
+Edward Hargrove Jr.,State House,103,D,Forrest,Eatonville,12
 Percy W Watson,State House,103,D,Forrest,Eatonville,76
-Robert Foster,Governor ,,R,Forrest,Eureka School,0
-Tate Reeves,Governor ,,R,Forrest,Eureka School,1
-Bill Waller Jr.,Governor ,,R,Forrest,Eureka School,2
+Robert Foster,Governor,,R,Forrest,Eureka School,0
+Tate Reeves,Governor,,R,Forrest,Eureka School,1
+Bill Waller Jr.,Governor,,R,Forrest,Eureka School,2
 Delbert Hosemann,Lieutenant Governor,,R,Forrest,Eureka School,2
 Shane Quick,Lieutenant Governor,,R,Forrest,Eureka School,0
 Sam Britton,Secretary of State,,R,Forrest,Eureka School,2
@@ -420,7 +420,7 @@ David McRae,State Treasurer,,R,Forrest,Eureka School,2
 Andy Gipson,Commissioner of Agriculture & Commerce,,R,Forrest,Eureka School,2
 Mike Chaney,Commissioner of Insurance,,R,Forrest,Eureka School,2
 Steven L Wade,State Senate,34,R,Forrest,Eureka School,2
-Joey Fillingane ,State Senate,41,R,Forrest,Eureka School,X
+Joey Fillingane,State Senate,41,R,Forrest,Eureka School,X
 Chris McDaniel,State Senate,42,R,Forrest,Eureka School,X
 Chris Johnson,State Senate,45,R,Forrest,Eureka School,X
 William E 'Billy' Andrews III,State House,87,R,Forrest,Eureka School,x
@@ -428,15 +428,15 @@ Trey Harvison,State House,87,R,Forrest,Eureka School,x
 Ricardo Musslett,State House,87,R,Forrest,Eureka School,x
 Joseph 'Bubba' Tubb,State House,87,R,Forrest,Eureka School,x
 Missy Warren McGee,State House,102,R,Forrest,Eureka School,x
-Larry Byrd ,State House,104,R,Forrest,Eureka School,x
-Michael Brown,Governor ,,D,Forrest,Eureka School,30
-William Bond Compton Jr.,Governor ,,D,Forrest,Eureka School,1
-Jim Hood,Governor ,,D,Forrest,Eureka School,112
-Robert J. Ray,Governor ,,D,Forrest,Eureka School,0
-Robert Shuler Smith,Governor ,,D,Forrest,Eureka School,8
-Gregory Wash,Governor ,,D,Forrest,Eureka School,1
-Velesha P Williams,Governor ,,D,Forrest,Eureka School,18
-Albert Wilson,Governor ,,D,Forrest,Eureka School,1
+Larry Byrd,State House,104,R,Forrest,Eureka School,x
+Michael Brown,Governor,,D,Forrest,Eureka School,30
+William Bond Compton Jr.,Governor,,D,Forrest,Eureka School,1
+Jim Hood,Governor,,D,Forrest,Eureka School,112
+Robert J. Ray,Governor,,D,Forrest,Eureka School,0
+Robert Shuler Smith,Governor,,D,Forrest,Eureka School,8
+Gregory Wash,Governor,,D,Forrest,Eureka School,1
+Velesha P Williams,Governor,,D,Forrest,Eureka School,18
+Albert Wilson,Governor,,D,Forrest,Eureka School,1
 Jay Hughes,Lieutenant Governor,,D,Forrest,Eureka School,125
 Johnny DuPree,Secretary of State,,D,Forrest,Eureka School,170
 Maryra Hodges Hunt,Secretary of State,,D,Forrest,Eureka School,4
@@ -447,11 +447,11 @@ Robert E Amos,Commissioner of Insurance,,D,Forrest,Eureka School,125
 Duan Barnett,State Senate,34,D,Forrest,Eureka School,36
 Deborah Denard Delgado,State Senate,34,D,Forrest,Eureka School,135
 Brandon Terrion Rue,State House,102,D,Forrest,Eureka School,x
-Edward Hargrove Jr. ,State House,103,D,Forrest,Eureka School,16
+Edward Hargrove Jr.,State House,103,D,Forrest,Eureka School,16
 Percy W Watson,State House,103,D,Forrest,Eureka School,152
-Robert Foster,Governor ,,R,Forrest,Glendale,28
-Tate Reeves,Governor ,,R,Forrest,Glendale,95
-Bill Waller Jr.,Governor ,,R,Forrest,Glendale,49
+Robert Foster,Governor,,R,Forrest,Glendale,28
+Tate Reeves,Governor,,R,Forrest,Glendale,95
+Bill Waller Jr.,Governor,,R,Forrest,Glendale,49
 Delbert Hosemann,Lieutenant Governor,,R,Forrest,Glendale,150
 Shane Quick,Lieutenant Governor,,R,Forrest,Glendale,16
 Sam Britton,Secretary of State,,R,Forrest,Glendale,98
@@ -465,7 +465,7 @@ David McRae,State Treasurer,,R,Forrest,Glendale,88
 Andy Gipson,Commissioner of Agriculture & Commerce,,R,Forrest,Glendale,159
 Mike Chaney,Commissioner of Insurance,,R,Forrest,Glendale,162
 Steven L Wade,State Senate,34,R,Forrest,Glendale,154
-Joey Fillingane ,State Senate,41,R,Forrest,Glendale,X
+Joey Fillingane,State Senate,41,R,Forrest,Glendale,X
 Chris McDaniel,State Senate,42,R,Forrest,Glendale,X
 Chris Johnson,State Senate,45,R,Forrest,Glendale,X
 William E 'Billy' Andrews III,State House,87,R,Forrest,Glendale,x
@@ -473,15 +473,15 @@ Trey Harvison,State House,87,R,Forrest,Glendale,x
 Ricardo Musslett,State House,87,R,Forrest,Glendale,x
 Joseph 'Bubba' Tubb,State House,87,R,Forrest,Glendale,x
 Missy Warren McGee,State House,102,R,Forrest,Glendale,x
-Larry Byrd ,State House,104,R,Forrest,Glendale,1
-Michael Brown,Governor ,,D,Forrest,Glendale,47
-William Bond Compton Jr.,Governor ,,D,Forrest,Glendale,3
-Jim Hood,Governor ,,D,Forrest,Glendale,291
-Robert J. Ray,Governor ,,D,Forrest,Glendale,1
-Robert Shuler Smith,Governor ,,D,Forrest,Glendale,9
-Gregory Wash,Governor ,,D,Forrest,Glendale,4
-Velesha P Williams,Governor ,,D,Forrest,Glendale,25
-Albert Wilson,Governor ,,D,Forrest,Glendale,3
+Larry Byrd,State House,104,R,Forrest,Glendale,1
+Michael Brown,Governor,,D,Forrest,Glendale,47
+William Bond Compton Jr.,Governor,,D,Forrest,Glendale,3
+Jim Hood,Governor,,D,Forrest,Glendale,291
+Robert J. Ray,Governor,,D,Forrest,Glendale,1
+Robert Shuler Smith,Governor,,D,Forrest,Glendale,9
+Gregory Wash,Governor,,D,Forrest,Glendale,4
+Velesha P Williams,Governor,,D,Forrest,Glendale,25
+Albert Wilson,Governor,,D,Forrest,Glendale,3
 Jay Hughes,Lieutenant Governor,,D,Forrest,Glendale,326
 Johnny DuPree,Secretary of State,,D,Forrest,Glendale,367
 Maryra Hodges Hunt,Secretary of State,,D,Forrest,Glendale,21
@@ -492,11 +492,11 @@ Robert E Amos,Commissioner of Insurance,,D,Forrest,Glendale,327
 Duan Barnett,State Senate,34,D,Forrest,Glendale,103
 Deborah Denard Delgado,State Senate,34,D,Forrest,Glendale,279
 Brandon Terrion Rue,State House,102,D,Forrest,Glendale,x
-Edward Hargrove Jr. ,State House,103,D,Forrest,Glendale,34
+Edward Hargrove Jr.,State House,103,D,Forrest,Glendale,34
 Percy W Watson,State House,103,D,Forrest,Glendale,272
-Robert Foster,Governor ,,R,Forrest,Hattiesburg Cultural Center,3
-Tate Reeves,Governor ,,R,Forrest,Hattiesburg Cultural Center,8
-Bill Waller Jr.,Governor ,,R,Forrest,Hattiesburg Cultural Center,14
+Robert Foster,Governor,,R,Forrest,Hattiesburg Cultural Center,3
+Tate Reeves,Governor,,R,Forrest,Hattiesburg Cultural Center,8
+Bill Waller Jr.,Governor,,R,Forrest,Hattiesburg Cultural Center,14
 Delbert Hosemann,Lieutenant Governor,,R,Forrest,Hattiesburg Cultural Center,17
 Shane Quick,Lieutenant Governor,,R,Forrest,Hattiesburg Cultural Center,4
 Sam Britton,Secretary of State,,R,Forrest,Hattiesburg Cultural Center,13
@@ -510,7 +510,7 @@ David McRae,State Treasurer,,R,Forrest,Hattiesburg Cultural Center,12
 Andy Gipson,Commissioner of Agriculture & Commerce,,R,Forrest,Hattiesburg Cultural Center,20
 Mike Chaney,Commissioner of Insurance,,R,Forrest,Hattiesburg Cultural Center,20
 Steven L Wade,State Senate,34,R,Forrest,Hattiesburg Cultural Center,19
-Joey Fillingane ,State Senate,41,R,Forrest,Hattiesburg Cultural Center,x
+Joey Fillingane,State Senate,41,R,Forrest,Hattiesburg Cultural Center,x
 Chris McDaniel,State Senate,42,R,Forrest,Hattiesburg Cultural Center,x
 Chris Johnson,State Senate,45,R,Forrest,Hattiesburg Cultural Center,x
 William E 'Billy' Andrews III,State House,87,R,Forrest,Hattiesburg Cultural Center,x
@@ -518,15 +518,15 @@ Trey Harvison,State House,87,R,Forrest,Hattiesburg Cultural Center,x
 Ricardo Musslett,State House,87,R,Forrest,Hattiesburg Cultural Center,x
 Joseph 'Bubba' Tubb,State House,87,R,Forrest,Hattiesburg Cultural Center,x
 Missy Warren McGee,State House,102,R,Forrest,Hattiesburg Cultural Center,x
-Larry Byrd ,State House,104,R,Forrest,Hattiesburg Cultural Center,x
-Michael Brown,Governor ,,D,Forrest,Hattiesburg Cultural Center,24
-William Bond Compton Jr.,Governor ,,D,Forrest,Hattiesburg Cultural Center,1
-Jim Hood,Governor ,,D,Forrest,Hattiesburg Cultural Center,162
-Robert J. Ray,Governor ,,D,Forrest,Hattiesburg Cultural Center,0
-Robert Shuler Smith,Governor ,,D,Forrest,Hattiesburg Cultural Center,11
-Gregory Wash,Governor ,,D,Forrest,Hattiesburg Cultural Center,6
-Velesha P Williams,Governor ,,D,Forrest,Hattiesburg Cultural Center,33
-Albert Wilson,Governor ,,D,Forrest,Hattiesburg Cultural Center,4
+Larry Byrd,State House,104,R,Forrest,Hattiesburg Cultural Center,x
+Michael Brown,Governor,,D,Forrest,Hattiesburg Cultural Center,24
+William Bond Compton Jr.,Governor,,D,Forrest,Hattiesburg Cultural Center,1
+Jim Hood,Governor,,D,Forrest,Hattiesburg Cultural Center,162
+Robert J. Ray,Governor,,D,Forrest,Hattiesburg Cultural Center,0
+Robert Shuler Smith,Governor,,D,Forrest,Hattiesburg Cultural Center,11
+Gregory Wash,Governor,,D,Forrest,Hattiesburg Cultural Center,6
+Velesha P Williams,Governor,,D,Forrest,Hattiesburg Cultural Center,33
+Albert Wilson,Governor,,D,Forrest,Hattiesburg Cultural Center,4
 Jay Hughes,Lieutenant Governor,,D,Forrest,Hattiesburg Cultural Center,195
 Johnny DuPree,Secretary of State,,D,Forrest,Hattiesburg Cultural Center,235
 Maryra Hodges Hunt,Secretary of State,,D,Forrest,Hattiesburg Cultural Center,14
@@ -537,56 +537,56 @@ Robert E Amos,Commissioner of Insurance,,D,Forrest,Hattiesburg Cultural Center,1
 Duan Barnett,State Senate,34,D,Forrest,Hattiesburg Cultural Center,59
 Deborah Denard Delgado,State Senate,34,D,Forrest,Hattiesburg Cultural Center,186
 Brandon Terrion Rue,State House,102,D,Forrest,Hattiesburg Cultural Center,x
-Edward Hargrove Jr. ,State House,103,D,Forrest,Hattiesburg Cultural Center,18
+Edward Hargrove Jr.,State House,103,D,Forrest,Hattiesburg Cultural Center,18
 Percy W Watson,State House,103,D,Forrest,Hattiesburg Cultural Center,219
-Robert Foster,Governor ,,R,Forrest,Highland Park ,15
-Tate Reeves,Governor ,,R,Forrest,Highland Park ,40
-Bill Waller Jr.,Governor ,,R,Forrest,Highland Park ,54
-Delbert Hosemann,Lieutenant Governor,,R,Forrest,Highland Park ,90
-Shane Quick,Lieutenant Governor,,R,Forrest,Highland Park ,10
-Sam Britton,Secretary of State,,R,Forrest,Highland Park ,52
-Michael Watson,Secretary of State,,R,Forrest,Highland Park ,45
-Mark Baker,Attorney General,,R,Forrest,Highland Park ,23
-Lynn Fitch,Attorney General,,R,Forrest,Highland Park ,43
-Andy Taggart,Attorney General,,R,Forrest,Highland Park ,33
-Shad White,State Auditor,,R,Forrest,Highland Park ,95
-Eugene S. 'Buck' Clarke,State Treasurer,,R,Forrest,Highland Park ,41
-David McRae,State Treasurer,,R,Forrest,Highland Park ,57
-Andy Gipson,Commissioner of Agriculture & Commerce,,R,Forrest,Highland Park ,92
-Mike Chaney,Commissioner of Insurance,,R,Forrest,Highland Park ,93
-Steven L Wade,State Senate,34,R,Forrest,Highland Park ,x
-Joey Fillingane ,State Senate,41,R,Forrest,Highland Park ,x
-Chris McDaniel,State Senate,42,R,Forrest,Highland Park ,x
-Chris Johnson,State Senate,45,R,Forrest,Highland Park ,92
-William E 'Billy' Andrews III,State House,87,R,Forrest,Highland Park ,x
-Trey Harvison,State House,87,R,Forrest,Highland Park ,x
-Ricardo Musslett,State House,87,R,Forrest,Highland Park ,x
-Joseph 'Bubba' Tubb,State House,87,R,Forrest,Highland Park ,x
-Missy Warren McGee,State House,102,R,Forrest,Highland Park ,98
-Larry Byrd ,State House,104,R,Forrest,Highland Park ,x
-Michael Brown,Governor ,,D,Forrest,Highland Park ,17
-William Bond Compton Jr.,Governor ,,D,Forrest,Highland Park ,0
-Jim Hood,Governor ,,D,Forrest,Highland Park ,106
-Robert J. Ray,Governor ,,D,Forrest,Highland Park ,1
-Robert Shuler Smith,Governor ,,D,Forrest,Highland Park ,1
-Gregory Wash,Governor ,,D,Forrest,Highland Park ,1
-Velesha P Williams,Governor ,,D,Forrest,Highland Park ,15
-Albert Wilson,Governor ,,D,Forrest,Highland Park ,1
-Jay Hughes,Lieutenant Governor,,D,Forrest,Highland Park ,124
-Johnny DuPree,Secretary of State,,D,Forrest,Highland Park ,121
-Maryra Hodges Hunt,Secretary of State,,D,Forrest,Highland Park ,20
-Jennifer Riley Collins,Attorney General,,D,Forrest,Highland Park ,120
-Addie Lee Green,State Treasurer,,D,Forrest,Highland Park ,122
-Rickey L Cole,Commissioner of Agriculture & Commerce,,D,Forrest,Highland Park ,124
-Robert E Amos,Commissioner of Insurance,,D,Forrest,Highland Park ,125
-Duan Barnett,State Senate,34,D,Forrest,Highland Park ,x
-Deborah Denard Delgado,State Senate,34,D,Forrest,Highland Park ,x
-Brandon Terrion Rue,State House,102,D,Forrest,Highland Park ,124
-Edward Hargrove Jr. ,State House,103,D,Forrest,Highland Park ,x
-Percy W Watson,State House,103,D,Forrest,Highland Park ,x
-Robert Foster,Governor ,,R,Forrest,Kamper Park,34
-Tate Reeves,Governor ,,R,Forrest,Kamper Park,107
-Bill Waller Jr.,Governor ,,R,Forrest,Kamper Park,197
+Robert Foster,Governor,,R,Forrest,Highland Park,15
+Tate Reeves,Governor,,R,Forrest,Highland Park,40
+Bill Waller Jr.,Governor,,R,Forrest,Highland Park,54
+Delbert Hosemann,Lieutenant Governor,,R,Forrest,Highland Park,90
+Shane Quick,Lieutenant Governor,,R,Forrest,Highland Park,10
+Sam Britton,Secretary of State,,R,Forrest,Highland Park,52
+Michael Watson,Secretary of State,,R,Forrest,Highland Park,45
+Mark Baker,Attorney General,,R,Forrest,Highland Park,23
+Lynn Fitch,Attorney General,,R,Forrest,Highland Park,43
+Andy Taggart,Attorney General,,R,Forrest,Highland Park,33
+Shad White,State Auditor,,R,Forrest,Highland Park,95
+Eugene S. 'Buck' Clarke,State Treasurer,,R,Forrest,Highland Park,41
+David McRae,State Treasurer,,R,Forrest,Highland Park,57
+Andy Gipson,Commissioner of Agriculture & Commerce,,R,Forrest,Highland Park,92
+Mike Chaney,Commissioner of Insurance,,R,Forrest,Highland Park,93
+Steven L Wade,State Senate,34,R,Forrest,Highland Park,x
+Joey Fillingane,State Senate,41,R,Forrest,Highland Park,x
+Chris McDaniel,State Senate,42,R,Forrest,Highland Park,x
+Chris Johnson,State Senate,45,R,Forrest,Highland Park,92
+William E 'Billy' Andrews III,State House,87,R,Forrest,Highland Park,x
+Trey Harvison,State House,87,R,Forrest,Highland Park,x
+Ricardo Musslett,State House,87,R,Forrest,Highland Park,x
+Joseph 'Bubba' Tubb,State House,87,R,Forrest,Highland Park,x
+Missy Warren McGee,State House,102,R,Forrest,Highland Park,98
+Larry Byrd,State House,104,R,Forrest,Highland Park,x
+Michael Brown,Governor,,D,Forrest,Highland Park,17
+William Bond Compton Jr.,Governor,,D,Forrest,Highland Park,0
+Jim Hood,Governor,,D,Forrest,Highland Park,106
+Robert J. Ray,Governor,,D,Forrest,Highland Park,1
+Robert Shuler Smith,Governor,,D,Forrest,Highland Park,1
+Gregory Wash,Governor,,D,Forrest,Highland Park,1
+Velesha P Williams,Governor,,D,Forrest,Highland Park,15
+Albert Wilson,Governor,,D,Forrest,Highland Park,1
+Jay Hughes,Lieutenant Governor,,D,Forrest,Highland Park,124
+Johnny DuPree,Secretary of State,,D,Forrest,Highland Park,121
+Maryra Hodges Hunt,Secretary of State,,D,Forrest,Highland Park,20
+Jennifer Riley Collins,Attorney General,,D,Forrest,Highland Park,120
+Addie Lee Green,State Treasurer,,D,Forrest,Highland Park,122
+Rickey L Cole,Commissioner of Agriculture & Commerce,,D,Forrest,Highland Park,124
+Robert E Amos,Commissioner of Insurance,,D,Forrest,Highland Park,125
+Duan Barnett,State Senate,34,D,Forrest,Highland Park,x
+Deborah Denard Delgado,State Senate,34,D,Forrest,Highland Park,x
+Brandon Terrion Rue,State House,102,D,Forrest,Highland Park,124
+Edward Hargrove Jr.,State House,103,D,Forrest,Highland Park,x
+Percy W Watson,State House,103,D,Forrest,Highland Park,x
+Robert Foster,Governor,,R,Forrest,Kamper Park,34
+Tate Reeves,Governor,,R,Forrest,Kamper Park,107
+Bill Waller Jr.,Governor,,R,Forrest,Kamper Park,197
 Delbert Hosemann,Lieutenant Governor,,R,Forrest,Kamper Park,280
 Shane Quick,Lieutenant Governor,,R,Forrest,Kamper Park,37
 Sam Britton,Secretary of State,,R,Forrest,Kamper Park,160
@@ -600,7 +600,7 @@ David McRae,State Treasurer,,R,Forrest,Kamper Park,159
 Andy Gipson,Commissioner of Agriculture & Commerce,,R,Forrest,Kamper Park,296
 Mike Chaney,Commissioner of Insurance,,R,Forrest,Kamper Park,300
 Steven L Wade,State Senate,34,R,Forrest,Kamper Park,x
-Joey Fillingane ,State Senate,41,R,Forrest,Kamper Park,x
+Joey Fillingane,State Senate,41,R,Forrest,Kamper Park,x
 Chris McDaniel,State Senate,42,R,Forrest,Kamper Park,x
 Chris Johnson,State Senate,45,R,Forrest,Kamper Park,295
 William E 'Billy' Andrews III,State House,87,R,Forrest,Kamper Park,x
@@ -608,15 +608,15 @@ Trey Harvison,State House,87,R,Forrest,Kamper Park,x
 Ricardo Musslett,State House,87,R,Forrest,Kamper Park,x
 Joseph 'Bubba' Tubb,State House,87,R,Forrest,Kamper Park,x
 Missy Warren McGee,State House,102,R,Forrest,Kamper Park,314
-Larry Byrd ,State House,104,R,Forrest,Kamper Park,x
-Michael Brown,Governor ,,D,Forrest,Kamper Park,12
-William Bond Compton Jr.,Governor ,,D,Forrest,Kamper Park,1
-Jim Hood,Governor ,,D,Forrest,Kamper Park,147
-Robert J. Ray,Governor ,,D,Forrest,Kamper Park,2
-Robert Shuler Smith,Governor ,,D,Forrest,Kamper Park,4
-Gregory Wash,Governor ,,D,Forrest,Kamper Park,0
-Velesha P Williams,Governor ,,D,Forrest,Kamper Park,22
-Albert Wilson,Governor ,,D,Forrest,Kamper Park,0
+Larry Byrd,State House,104,R,Forrest,Kamper Park,x
+Michael Brown,Governor,,D,Forrest,Kamper Park,12
+William Bond Compton Jr.,Governor,,D,Forrest,Kamper Park,1
+Jim Hood,Governor,,D,Forrest,Kamper Park,147
+Robert J. Ray,Governor,,D,Forrest,Kamper Park,2
+Robert Shuler Smith,Governor,,D,Forrest,Kamper Park,4
+Gregory Wash,Governor,,D,Forrest,Kamper Park,0
+Velesha P Williams,Governor,,D,Forrest,Kamper Park,22
+Albert Wilson,Governor,,D,Forrest,Kamper Park,0
 Jay Hughes,Lieutenant Governor,,D,Forrest,Kamper Park,159
 Johnny DuPree,Secretary of State,,D,Forrest,Kamper Park,127
 Maryra Hodges Hunt,Secretary of State,,D,Forrest,Kamper Park,60
@@ -627,11 +627,11 @@ Robert E Amos,Commissioner of Insurance,,D,Forrest,Kamper Park,166
 Duan Barnett,State Senate,34,D,Forrest,Kamper Park,x
 Deborah Denard Delgado,State Senate,34,D,Forrest,Kamper Park,x
 Brandon Terrion Rue,State House,102,D,Forrest,Kamper Park,162
-Edward Hargrove Jr. ,State House,103,D,Forrest,Kamper Park,x
+Edward Hargrove Jr.,State House,103,D,Forrest,Kamper Park,x
 Percy W Watson,State House,103,D,Forrest,Kamper Park,x
-Robert Foster,Governor ,,R,Forrest,Leeville,126
-Tate Reeves,Governor ,,R,Forrest,Leeville,327
-Bill Waller Jr.,Governor ,,R,Forrest,Leeville,236
+Robert Foster,Governor,,R,Forrest,Leeville,126
+Tate Reeves,Governor,,R,Forrest,Leeville,327
+Bill Waller Jr.,Governor,,R,Forrest,Leeville,236
 Delbert Hosemann,Lieutenant Governor,,R,Forrest,Leeville,613
 Shane Quick,Lieutenant Governor,,R,Forrest,Leeville,46
 Sam Britton,Secretary of State,,R,Forrest,Leeville,386
@@ -645,7 +645,7 @@ David McRae,State Treasurer,,R,Forrest,Leeville,393
 Andy Gipson,Commissioner of Agriculture & Commerce,,R,Forrest,Leeville,632
 Mike Chaney,Commissioner of Insurance,,R,Forrest,Leeville,639
 Steven L Wade,State Senate,34,R,Forrest,Leeville,x
-Joey Fillingane ,State Senate,41,R,Forrest,Leeville,x
+Joey Fillingane,State Senate,41,R,Forrest,Leeville,x
 Chris McDaniel,State Senate,42,R,Forrest,Leeville,628
 Chris Johnson,State Senate,45,R,Forrest,Leeville,x
 William E 'Billy' Andrews III,State House,87,R,Forrest,Leeville,x
@@ -653,15 +653,15 @@ Trey Harvison,State House,87,R,Forrest,Leeville,x
 Ricardo Musslett,State House,87,R,Forrest,Leeville,x
 Joseph 'Bubba' Tubb,State House,87,R,Forrest,Leeville,x
 Missy Warren McGee,State House,102,R,Forrest,Leeville,x
-Larry Byrd ,State House,104,R,Forrest,Leeville,633
-Michael Brown,Governor ,,D,Forrest,Leeville,10
-William Bond Compton Jr.,Governor ,,D,Forrest,Leeville,0
-Jim Hood,Governor ,,D,Forrest,Leeville,36
-Robert J. Ray,Governor ,,D,Forrest,Leeville,0
-Robert Shuler Smith,Governor ,,D,Forrest,Leeville,1
-Gregory Wash,Governor ,,D,Forrest,Leeville,1
-Velesha P Williams,Governor ,,D,Forrest,Leeville,5
-Albert Wilson,Governor ,,D,Forrest,Leeville,0
+Larry Byrd,State House,104,R,Forrest,Leeville,633
+Michael Brown,Governor,,D,Forrest,Leeville,10
+William Bond Compton Jr.,Governor,,D,Forrest,Leeville,0
+Jim Hood,Governor,,D,Forrest,Leeville,36
+Robert J. Ray,Governor,,D,Forrest,Leeville,0
+Robert Shuler Smith,Governor,,D,Forrest,Leeville,1
+Gregory Wash,Governor,,D,Forrest,Leeville,1
+Velesha P Williams,Governor,,D,Forrest,Leeville,5
+Albert Wilson,Governor,,D,Forrest,Leeville,0
 Jay Hughes,Lieutenant Governor,,D,Forrest,Leeville,44
 Johnny DuPree,Secretary of State,,D,Forrest,Leeville,43
 Maryra Hodges Hunt,Secretary of State,,D,Forrest,Leeville,8
@@ -672,11 +672,11 @@ Robert E Amos,Commissioner of Insurance,,D,Forrest,Leeville,48
 Duan Barnett,State Senate,34,D,Forrest,Leeville,x
 Deborah Denard Delgado,State Senate,34,D,Forrest,Leeville,x
 Brandon Terrion Rue,State House,102,D,Forrest,Leeville,x
-Edward Hargrove Jr. ,State House,103,D,Forrest,Leeville,x
+Edward Hargrove Jr.,State House,103,D,Forrest,Leeville,x
 Percy W Watson,State House,103,D,Forrest,Leeville,x
-Robert Foster,Governor ,,R,Forrest,Lillie Burney,2
-Tate Reeves,Governor ,,R,Forrest,Lillie Burney,20
-Bill Waller Jr.,Governor ,,R,Forrest,Lillie Burney,6
+Robert Foster,Governor,,R,Forrest,Lillie Burney,2
+Tate Reeves,Governor,,R,Forrest,Lillie Burney,20
+Bill Waller Jr.,Governor,,R,Forrest,Lillie Burney,6
 Delbert Hosemann,Lieutenant Governor,,R,Forrest,Lillie Burney,24
 Shane Quick,Lieutenant Governor,,R,Forrest,Lillie Burney,3
 Sam Britton,Secretary of State,,R,Forrest,Lillie Burney,16
@@ -690,7 +690,7 @@ David McRae,State Treasurer,,R,Forrest,Lillie Burney,22
 Andy Gipson,Commissioner of Agriculture & Commerce,,R,Forrest,Lillie Burney,26
 Mike Chaney,Commissioner of Insurance,,R,Forrest,Lillie Burney,25
 Steven L Wade,State Senate,34,R,Forrest,Lillie Burney,24
-Joey Fillingane ,State Senate,41,R,Forrest,Lillie Burney,x
+Joey Fillingane,State Senate,41,R,Forrest,Lillie Burney,x
 Chris McDaniel,State Senate,42,R,Forrest,Lillie Burney,x
 Chris Johnson,State Senate,45,R,Forrest,Lillie Burney,x
 William E 'Billy' Andrews III,State House,87,R,Forrest,Lillie Burney,x
@@ -698,15 +698,15 @@ Trey Harvison,State House,87,R,Forrest,Lillie Burney,x
 Ricardo Musslett,State House,87,R,Forrest,Lillie Burney,x
 Joseph 'Bubba' Tubb,State House,87,R,Forrest,Lillie Burney,x
 Missy Warren McGee,State House,102,R,Forrest,Lillie Burney,x
-Larry Byrd ,State House,104,R,Forrest,Lillie Burney,x
-Michael Brown,Governor ,,D,Forrest,Lillie Burney,68
-William Bond Compton Jr.,Governor ,,D,Forrest,Lillie Burney,2
-Jim Hood,Governor ,,D,Forrest,Lillie Burney,353
-Robert J. Ray,Governor ,,D,Forrest,Lillie Burney,3
-Robert Shuler Smith,Governor ,,D,Forrest,Lillie Burney,18
-Gregory Wash,Governor ,,D,Forrest,Lillie Burney,2
-Velesha P Williams,Governor ,,D,Forrest,Lillie Burney,72
-Albert Wilson,Governor ,,D,Forrest,Lillie Burney,7
+Larry Byrd,State House,104,R,Forrest,Lillie Burney,x
+Michael Brown,Governor,,D,Forrest,Lillie Burney,68
+William Bond Compton Jr.,Governor,,D,Forrest,Lillie Burney,2
+Jim Hood,Governor,,D,Forrest,Lillie Burney,353
+Robert J. Ray,Governor,,D,Forrest,Lillie Burney,3
+Robert Shuler Smith,Governor,,D,Forrest,Lillie Burney,18
+Gregory Wash,Governor,,D,Forrest,Lillie Burney,2
+Velesha P Williams,Governor,,D,Forrest,Lillie Burney,72
+Albert Wilson,Governor,,D,Forrest,Lillie Burney,7
 Jay Hughes,Lieutenant Governor,,D,Forrest,Lillie Burney,425
 Johnny DuPree,Secretary of State,,D,Forrest,Lillie Burney,503
 Maryra Hodges Hunt,Secretary of State,,D,Forrest,Lillie Burney,32
@@ -717,11 +717,11 @@ Robert E Amos,Commissioner of Insurance,,D,Forrest,Lillie Burney,435
 Duan Barnett,State Senate,34,D,Forrest,Lillie Burney,138
 Deborah Denard Delgado,State Senate,34,D,Forrest,Lillie Burney,389
 Brandon Terrion Rue,State House,102,D,Forrest,Lillie Burney,x
-Edward Hargrove Jr. ,State House,103,D,Forrest,Lillie Burney,59
+Edward Hargrove Jr.,State House,103,D,Forrest,Lillie Burney,59
 Percy W Watson,State House,103,D,Forrest,Lillie Burney,464
-Robert Foster,Governor ,,R,Forrest,Maxie,16
-Tate Reeves,Governor ,,R,Forrest,Maxie,53
-Bill Waller Jr.,Governor ,,R,Forrest,Maxie,30
+Robert Foster,Governor,,R,Forrest,Maxie,16
+Tate Reeves,Governor,,R,Forrest,Maxie,53
+Bill Waller Jr.,Governor,,R,Forrest,Maxie,30
 Delbert Hosemann,Lieutenant Governor,,R,Forrest,Maxie,83
 Shane Quick,Lieutenant Governor,,R,Forrest,Maxie,7
 Sam Britton,Secretary of State,,R,Forrest,Maxie,43
@@ -735,7 +735,7 @@ David McRae,State Treasurer,,R,Forrest,Maxie,63
 Andy Gipson,Commissioner of Agriculture & Commerce,,R,Forrest,Maxie,90
 Mike Chaney,Commissioner of Insurance,,R,Forrest,Maxie,91
 Steven L Wade,State Senate,34,R,Forrest,Maxie,x
-Joey Fillingane ,State Senate,41,R,Forrest,Maxie,x
+Joey Fillingane,State Senate,41,R,Forrest,Maxie,x
 Chris McDaniel,State Senate,42,R,Forrest,Maxie,x
 Chris Johnson,State Senate,45,R,Forrest,Maxie,93
 William E 'Billy' Andrews III,State House,87,R,Forrest,Maxie,x
@@ -743,15 +743,15 @@ Trey Harvison,State House,87,R,Forrest,Maxie,x
 Ricardo Musslett,State House,87,R,Forrest,Maxie,x
 Joseph 'Bubba' Tubb,State House,87,R,Forrest,Maxie,x
 Missy Warren McGee,State House,102,R,Forrest,Maxie,x
-Larry Byrd ,State House,104,R,Forrest,Maxie,91
-Michael Brown,Governor ,,D,Forrest,Maxie,0
-William Bond Compton Jr.,Governor ,,D,Forrest,Maxie,1
-Jim Hood,Governor ,,D,Forrest,Maxie,9
-Robert J. Ray,Governor ,,D,Forrest,Maxie,0
-Robert Shuler Smith,Governor ,,D,Forrest,Maxie,0
-Gregory Wash,Governor ,,D,Forrest,Maxie,0
-Velesha P Williams,Governor ,,D,Forrest,Maxie,1
-Albert Wilson,Governor ,,D,Forrest,Maxie,0
+Larry Byrd,State House,104,R,Forrest,Maxie,91
+Michael Brown,Governor,,D,Forrest,Maxie,0
+William Bond Compton Jr.,Governor,,D,Forrest,Maxie,1
+Jim Hood,Governor,,D,Forrest,Maxie,9
+Robert J. Ray,Governor,,D,Forrest,Maxie,0
+Robert Shuler Smith,Governor,,D,Forrest,Maxie,0
+Gregory Wash,Governor,,D,Forrest,Maxie,0
+Velesha P Williams,Governor,,D,Forrest,Maxie,1
+Albert Wilson,Governor,,D,Forrest,Maxie,0
 Jay Hughes,Lieutenant Governor,,D,Forrest,Maxie,6
 Johnny DuPree,Secretary of State,,D,Forrest,Maxie,10
 Maryra Hodges Hunt,Secretary of State,,D,Forrest,Maxie,1
@@ -762,11 +762,11 @@ Robert E Amos,Commissioner of Insurance,,D,Forrest,Maxie,7
 Duan Barnett,State Senate,34,D,Forrest,Maxie,x
 Deborah Denard Delgado,State Senate,34,D,Forrest,Maxie,x
 Brandon Terrion Rue,State House,102,D,Forrest,Maxie,x
-Edward Hargrove Jr. ,State House,103,D,Forrest,Maxie,x
+Edward Hargrove Jr.,State House,103,D,Forrest,Maxie,x
 Percy W Watson,State House,103,D,Forrest,Maxie,x
-Robert Foster,Governor ,,R,Forrest,Mclaurin,35
-Tate Reeves,Governor ,,R,Forrest,Mclaurin,106
-Bill Waller Jr.,Governor ,,R,Forrest,Mclaurin,85
+Robert Foster,Governor,,R,Forrest,Mclaurin,35
+Tate Reeves,Governor,,R,Forrest,Mclaurin,106
+Bill Waller Jr.,Governor,,R,Forrest,Mclaurin,85
 Delbert Hosemann,Lieutenant Governor,,R,Forrest,Mclaurin,181
 Shane Quick,Lieutenant Governor,,R,Forrest,Mclaurin,33
 Sam Britton,Secretary of State,,R,Forrest,Mclaurin,135
@@ -780,7 +780,7 @@ David McRae,State Treasurer,,R,Forrest,Mclaurin,128
 Andy Gipson,Commissioner of Agriculture & Commerce,,R,Forrest,Mclaurin,213
 Mike Chaney,Commissioner of Insurance,,R,Forrest,Mclaurin,214
 Steven L Wade,State Senate,34,R,Forrest,Mclaurin,x
-Joey Fillingane ,State Senate,41,R,Forrest,Mclaurin,x
+Joey Fillingane,State Senate,41,R,Forrest,Mclaurin,x
 Chris McDaniel,State Senate,42,R,Forrest,Mclaurin,x
 Chris Johnson,State Senate,45,R,Forrest,Mclaurin,214
 William E 'Billy' Andrews III,State House,87,R,Forrest,Mclaurin,x
@@ -788,15 +788,15 @@ Trey Harvison,State House,87,R,Forrest,Mclaurin,x
 Ricardo Musslett,State House,87,R,Forrest,Mclaurin,x
 Joseph 'Bubba' Tubb,State House,87,R,Forrest,Mclaurin,x
 Missy Warren McGee,State House,102,R,Forrest,Mclaurin,x
-Larry Byrd ,State House,104,R,Forrest,Mclaurin,212
-Michael Brown,Governor ,,D,Forrest,Mclaurin,2
-William Bond Compton Jr.,Governor ,,D,Forrest,Mclaurin,0
-Jim Hood,Governor ,,D,Forrest,Mclaurin,9
-Robert J. Ray,Governor ,,D,Forrest,Mclaurin,0
-Robert Shuler Smith,Governor ,,D,Forrest,Mclaurin,1
-Gregory Wash,Governor ,,D,Forrest,Mclaurin,0
-Velesha P Williams,Governor ,,D,Forrest,Mclaurin,3
-Albert Wilson,Governor ,,D,Forrest,Mclaurin,0
+Larry Byrd,State House,104,R,Forrest,Mclaurin,212
+Michael Brown,Governor,,D,Forrest,Mclaurin,2
+William Bond Compton Jr.,Governor,,D,Forrest,Mclaurin,0
+Jim Hood,Governor,,D,Forrest,Mclaurin,9
+Robert J. Ray,Governor,,D,Forrest,Mclaurin,0
+Robert Shuler Smith,Governor,,D,Forrest,Mclaurin,1
+Gregory Wash,Governor,,D,Forrest,Mclaurin,0
+Velesha P Williams,Governor,,D,Forrest,Mclaurin,3
+Albert Wilson,Governor,,D,Forrest,Mclaurin,0
 Jay Hughes,Lieutenant Governor,,D,Forrest,Mclaurin,9
 Johnny DuPree,Secretary of State,,D,Forrest,Mclaurin,12
 Maryra Hodges Hunt,Secretary of State,,D,Forrest,Mclaurin,2
@@ -807,11 +807,11 @@ Robert E Amos,Commissioner of Insurance,,D,Forrest,Mclaurin,8
 Duan Barnett,State Senate,34,D,Forrest,Mclaurin,x
 Deborah Denard Delgado,State Senate,34,D,Forrest,Mclaurin,x
 Brandon Terrion Rue,State House,102,D,Forrest,Mclaurin,x
-Edward Hargrove Jr. ,State House,103,D,Forrest,Mclaurin,x
+Edward Hargrove Jr.,State House,103,D,Forrest,Mclaurin,x
 Percy W Watson,State House,103,D,Forrest,Mclaurin,x
-Robert Foster,Governor ,,R,Forrest,North Heights,4
-Tate Reeves,Governor ,,R,Forrest,North Heights,23
-Bill Waller Jr.,Governor ,,R,Forrest,North Heights,9
+Robert Foster,Governor,,R,Forrest,North Heights,4
+Tate Reeves,Governor,,R,Forrest,North Heights,23
+Bill Waller Jr.,Governor,,R,Forrest,North Heights,9
 Delbert Hosemann,Lieutenant Governor,,R,Forrest,North Heights,30
 Shane Quick,Lieutenant Governor,,R,Forrest,North Heights,3
 Sam Britton,Secretary of State,,R,Forrest,North Heights,17
@@ -825,7 +825,7 @@ David McRae,State Treasurer,,R,Forrest,North Heights,18
 Andy Gipson,Commissioner of Agriculture & Commerce,,R,Forrest,North Heights,33
 Mike Chaney,Commissioner of Insurance,,R,Forrest,North Heights,35
 Steven L Wade,State Senate,34,R,Forrest,North Heights,31
-Joey Fillingane ,State Senate,41,R,Forrest,North Heights,x
+Joey Fillingane,State Senate,41,R,Forrest,North Heights,x
 Chris McDaniel,State Senate,42,R,Forrest,North Heights,x
 Chris Johnson,State Senate,45,R,Forrest,North Heights,1
 William E 'Billy' Andrews III,State House,87,R,Forrest,North Heights,x
@@ -833,15 +833,15 @@ Trey Harvison,State House,87,R,Forrest,North Heights,x
 Ricardo Musslett,State House,87,R,Forrest,North Heights,x
 Joseph 'Bubba' Tubb,State House,87,R,Forrest,North Heights,x
 Missy Warren McGee,State House,102,R,Forrest,North Heights,x
-Larry Byrd ,State House,104,R,Forrest,North Heights,x
-Michael Brown,Governor ,,D,Forrest,North Heights,34
-William Bond Compton Jr.,Governor ,,D,Forrest,North Heights,0
-Jim Hood,Governor ,,D,Forrest,North Heights,196
-Robert J. Ray,Governor ,,D,Forrest,North Heights,2
-Robert Shuler Smith,Governor ,,D,Forrest,North Heights,8
-Gregory Wash,Governor ,,D,Forrest,North Heights,2
-Velesha P Williams,Governor ,,D,Forrest,North Heights,33
-Albert Wilson,Governor ,,D,Forrest,North Heights,2
+Larry Byrd,State House,104,R,Forrest,North Heights,x
+Michael Brown,Governor,,D,Forrest,North Heights,34
+William Bond Compton Jr.,Governor,,D,Forrest,North Heights,0
+Jim Hood,Governor,,D,Forrest,North Heights,196
+Robert J. Ray,Governor,,D,Forrest,North Heights,2
+Robert Shuler Smith,Governor,,D,Forrest,North Heights,8
+Gregory Wash,Governor,,D,Forrest,North Heights,2
+Velesha P Williams,Governor,,D,Forrest,North Heights,33
+Albert Wilson,Governor,,D,Forrest,North Heights,2
 Jay Hughes,Lieutenant Governor,,D,Forrest,North Heights,232
 Johnny DuPree,Secretary of State,,D,Forrest,North Heights,258
 Maryra Hodges Hunt,Secretary of State,,D,Forrest,North Heights,23
@@ -852,11 +852,11 @@ Robert E Amos,Commissioner of Insurance,,D,Forrest,North Heights,236
 Duan Barnett,State Senate,34,D,Forrest,North Heights,60
 Deborah Denard Delgado,State Senate,34,D,Forrest,North Heights,218
 Brandon Terrion Rue,State House,102,D,Forrest,North Heights,x
-Edward Hargrove Jr. ,State House,103,D,Forrest,North Heights,38
+Edward Hargrove Jr.,State House,103,D,Forrest,North Heights,38
 Percy W Watson,State House,103,D,Forrest,North Heights,240
-Robert Foster,Governor ,,R,Forrest,Petal Civic Center,93
-Tate Reeves,Governor ,,R,Forrest,Petal Civic Center,363
-Bill Waller Jr.,Governor ,,R,Forrest,Petal Civic Center,208
+Robert Foster,Governor,,R,Forrest,Petal Civic Center,93
+Tate Reeves,Governor,,R,Forrest,Petal Civic Center,363
+Bill Waller Jr.,Governor,,R,Forrest,Petal Civic Center,208
 Delbert Hosemann,Lieutenant Governor,,R,Forrest,Petal Civic Center,560
 Shane Quick,Lieutenant Governor,,R,Forrest,Petal Civic Center,72
 Sam Britton,Secretary of State,,R,Forrest,Petal Civic Center,358
@@ -870,7 +870,7 @@ David McRae,State Treasurer,,R,Forrest,Petal Civic Center,393
 Andy Gipson,Commissioner of Agriculture & Commerce,,R,Forrest,Petal Civic Center,621
 Mike Chaney,Commissioner of Insurance,,R,Forrest,Petal Civic Center,620
 Steven L Wade,State Senate,34,R,Forrest,Petal Civic Center,x
-Joey Fillingane ,State Senate,41,R,Forrest,Petal Civic Center,x
+Joey Fillingane,State Senate,41,R,Forrest,Petal Civic Center,x
 Chris McDaniel,State Senate,42,R,Forrest,Petal Civic Center,x
 Chris Johnson,State Senate,45,R,Forrest,Petal Civic Center,611
 William E 'Billy' Andrews III,State House,87,R,Forrest,Petal Civic Center,x
@@ -878,15 +878,15 @@ Trey Harvison,State House,87,R,Forrest,Petal Civic Center,x
 Ricardo Musslett,State House,87,R,Forrest,Petal Civic Center,x
 Joseph 'Bubba' Tubb,State House,87,R,Forrest,Petal Civic Center,x
 Missy Warren McGee,State House,102,R,Forrest,Petal Civic Center,x
-Larry Byrd ,State House,104,R,Forrest,Petal Civic Center,623
-Michael Brown,Governor ,,D,Forrest,Petal Civic Center,6
-William Bond Compton Jr.,Governor ,,D,Forrest,Petal Civic Center,0
-Jim Hood,Governor ,,D,Forrest,Petal Civic Center,42
-Robert J. Ray,Governor ,,D,Forrest,Petal Civic Center,1
-Robert Shuler Smith,Governor ,,D,Forrest,Petal Civic Center,2
-Gregory Wash,Governor ,,D,Forrest,Petal Civic Center,1
-Velesha P Williams,Governor ,,D,Forrest,Petal Civic Center,9
-Albert Wilson,Governor ,,D,Forrest,Petal Civic Center,0
+Larry Byrd,State House,104,R,Forrest,Petal Civic Center,623
+Michael Brown,Governor,,D,Forrest,Petal Civic Center,6
+William Bond Compton Jr.,Governor,,D,Forrest,Petal Civic Center,0
+Jim Hood,Governor,,D,Forrest,Petal Civic Center,42
+Robert J. Ray,Governor,,D,Forrest,Petal Civic Center,1
+Robert Shuler Smith,Governor,,D,Forrest,Petal Civic Center,2
+Gregory Wash,Governor,,D,Forrest,Petal Civic Center,1
+Velesha P Williams,Governor,,D,Forrest,Petal Civic Center,9
+Albert Wilson,Governor,,D,Forrest,Petal Civic Center,0
 Jay Hughes,Lieutenant Governor,,D,Forrest,Petal Civic Center,50
 Johnny DuPree,Secretary of State,,D,Forrest,Petal Civic Center,48
 Maryra Hodges Hunt,Secretary of State,,D,Forrest,Petal Civic Center,12
@@ -897,11 +897,11 @@ Robert E Amos,Commissioner of Insurance,,D,Forrest,Petal Civic Center,53
 Duan Barnett,State Senate,34,D,Forrest,Petal Civic Center,x
 Deborah Denard Delgado,State Senate,34,D,Forrest,Petal Civic Center,x
 Brandon Terrion Rue,State House,102,D,Forrest,Petal Civic Center,x
-Edward Hargrove Jr. ,State House,103,D,Forrest,Petal Civic Center,x
+Edward Hargrove Jr.,State House,103,D,Forrest,Petal Civic Center,x
 Percy W Watson,State House,103,D,Forrest,Petal Civic Center,x
-Robert Foster,Governor ,,R,Forrest,Petal Masonic,100
-Tate Reeves,Governor ,,R,Forrest,Petal Masonic,308
-Bill Waller Jr.,Governor ,,R,Forrest,Petal Masonic,217
+Robert Foster,Governor,,R,Forrest,Petal Masonic,100
+Tate Reeves,Governor,,R,Forrest,Petal Masonic,308
+Bill Waller Jr.,Governor,,R,Forrest,Petal Masonic,217
 Delbert Hosemann,Lieutenant Governor,,R,Forrest,Petal Masonic,535
 Shane Quick,Lieutenant Governor,,R,Forrest,Petal Masonic,60
 Sam Britton,Secretary of State,,R,Forrest,Petal Masonic,343
@@ -915,7 +915,7 @@ David McRae,State Treasurer,,R,Forrest,Petal Masonic,352
 Andy Gipson,Commissioner of Agriculture & Commerce,,R,Forrest,Petal Masonic,575
 Mike Chaney,Commissioner of Insurance,,R,Forrest,Petal Masonic,581
 Steven L Wade,State Senate,34,R,Forrest,Petal Masonic,x
-Joey Fillingane ,State Senate,41,R,Forrest,Petal Masonic,x
+Joey Fillingane,State Senate,41,R,Forrest,Petal Masonic,x
 Chris McDaniel,State Senate,42,R,Forrest,Petal Masonic,564
 Chris Johnson,State Senate,45,R,Forrest,Petal Masonic,x
 William E 'Billy' Andrews III,State House,87,R,Forrest,Petal Masonic,x
@@ -923,15 +923,15 @@ Trey Harvison,State House,87,R,Forrest,Petal Masonic,x
 Ricardo Musslett,State House,87,R,Forrest,Petal Masonic,x
 Joseph 'Bubba' Tubb,State House,87,R,Forrest,Petal Masonic,x
 Missy Warren McGee,State House,102,R,Forrest,Petal Masonic,x
-Larry Byrd ,State House,104,R,Forrest,Petal Masonic,580
-Michael Brown,Governor ,,D,Forrest,Petal Masonic,11
-William Bond Compton Jr.,Governor ,,D,Forrest,Petal Masonic,0
-Jim Hood,Governor ,,D,Forrest,Petal Masonic,33
-Robert J. Ray,Governor ,,D,Forrest,Petal Masonic,2
-Robert Shuler Smith,Governor ,,D,Forrest,Petal Masonic,2
-Gregory Wash,Governor ,,D,Forrest,Petal Masonic,0
-Velesha P Williams,Governor ,,D,Forrest,Petal Masonic,5
-Albert Wilson,Governor ,,D,Forrest,Petal Masonic,1
+Larry Byrd,State House,104,R,Forrest,Petal Masonic,580
+Michael Brown,Governor,,D,Forrest,Petal Masonic,11
+William Bond Compton Jr.,Governor,,D,Forrest,Petal Masonic,0
+Jim Hood,Governor,,D,Forrest,Petal Masonic,33
+Robert J. Ray,Governor,,D,Forrest,Petal Masonic,2
+Robert Shuler Smith,Governor,,D,Forrest,Petal Masonic,2
+Gregory Wash,Governor,,D,Forrest,Petal Masonic,0
+Velesha P Williams,Governor,,D,Forrest,Petal Masonic,5
+Albert Wilson,Governor,,D,Forrest,Petal Masonic,1
 Jay Hughes,Lieutenant Governor,,D,Forrest,Petal Masonic,45
 Johnny DuPree,Secretary of State,,D,Forrest,Petal Masonic,43
 Maryra Hodges Hunt,Secretary of State,,D,Forrest,Petal Masonic,11
@@ -942,56 +942,56 @@ Robert E Amos,Commissioner of Insurance,,D,Forrest,Petal Masonic,47
 Duan Barnett,State Senate,34,D,Forrest,Petal Masonic,x
 Deborah Denard Delgado,State Senate,34,D,Forrest,Petal Masonic,x
 Brandon Terrion Rue,State House,102,D,Forrest,Petal Masonic,x
-Edward Hargrove Jr. ,State House,103,D,Forrest,Petal Masonic,x
+Edward Hargrove Jr.,State House,103,D,Forrest,Petal Masonic,x
 Percy W Watson,State House,103,D,Forrest,Petal Masonic,x
-Robert Foster,Governor ,,R,Forrest,Pinecrest ,14
-Tate Reeves,Governor ,,R,Forrest,Pinecrest ,68
-Bill Waller Jr.,Governor ,,R,Forrest,Pinecrest ,150
-Delbert Hosemann,Lieutenant Governor,,R,Forrest,Pinecrest ,197
-Shane Quick,Lieutenant Governor,,R,Forrest,Pinecrest ,23
-Sam Britton,Secretary of State,,R,Forrest,Pinecrest ,118
-Michael Watson,Secretary of State,,R,Forrest,Pinecrest ,97
-Mark Baker,Attorney General,,R,Forrest,Pinecrest ,49
-Lynn Fitch,Attorney General,,R,Forrest,Pinecrest ,93
-Andy Taggart,Attorney General,,R,Forrest,Pinecrest ,78
-Shad White,State Auditor,,R,Forrest,Pinecrest ,203
-Eugene S. 'Buck' Clarke,State Treasurer,,R,Forrest,Pinecrest ,91
-David McRae,State Treasurer,,R,Forrest,Pinecrest ,122
-Andy Gipson,Commissioner of Agriculture & Commerce,,R,Forrest,Pinecrest ,209
-Mike Chaney,Commissioner of Insurance,,R,Forrest,Pinecrest ,213
-Steven L Wade,State Senate,34,R,Forrest,Pinecrest ,x
-Joey Fillingane ,State Senate,41,R,Forrest,Pinecrest ,x
-Chris McDaniel,State Senate,42,R,Forrest,Pinecrest ,x
-Chris Johnson,State Senate,45,R,Forrest,Pinecrest ,206
-William E 'Billy' Andrews III,State House,87,R,Forrest,Pinecrest ,x
-Trey Harvison,State House,87,R,Forrest,Pinecrest ,x
-Ricardo Musslett,State House,87,R,Forrest,Pinecrest ,x
-Joseph 'Bubba' Tubb,State House,87,R,Forrest,Pinecrest ,x
-Missy Warren McGee,State House,102,R,Forrest,Pinecrest ,217
-Larry Byrd ,State House,104,R,Forrest,Pinecrest ,x
-Michael Brown,Governor ,,D,Forrest,Pinecrest ,12
-William Bond Compton Jr.,Governor ,,D,Forrest,Pinecrest ,0
-Jim Hood,Governor ,,D,Forrest,Pinecrest ,74
-Robert J. Ray,Governor ,,D,Forrest,Pinecrest ,0
-Robert Shuler Smith,Governor ,,D,Forrest,Pinecrest ,3
-Gregory Wash,Governor ,,D,Forrest,Pinecrest ,1
-Velesha P Williams,Governor ,,D,Forrest,Pinecrest ,12
-Albert Wilson,Governor ,,D,Forrest,Pinecrest ,2
-Jay Hughes,Lieutenant Governor,,D,Forrest,Pinecrest ,91
-Johnny DuPree,Secretary of State,,D,Forrest,Pinecrest ,76
-Maryra Hodges Hunt,Secretary of State,,D,Forrest,Pinecrest ,28
-Jennifer Riley Collins,Attorney General,,D,Forrest,Pinecrest ,90
-Addie Lee Green,State Treasurer,,D,Forrest,Pinecrest ,90
-Rickey L Cole,Commissioner of Agriculture & Commerce,,D,Forrest,Pinecrest ,89
-Robert E Amos,Commissioner of Insurance,,D,Forrest,Pinecrest ,87
-Duan Barnett,State Senate,34,D,Forrest,Pinecrest ,x
-Deborah Denard Delgado,State Senate,34,D,Forrest,Pinecrest ,x
-Brandon Terrion Rue,State House,102,D,Forrest,Pinecrest ,88
-Edward Hargrove Jr. ,State House,103,D,Forrest,Pinecrest ,x
-Percy W Watson,State House,103,D,Forrest,Pinecrest ,x
-Robert Foster,Governor ,,R,Forrest,Rawls Springs,38
-Tate Reeves,Governor ,,R,Forrest,Rawls Springs,134
-Bill Waller Jr.,Governor ,,R,Forrest,Rawls Springs,123
+Robert Foster,Governor,,R,Forrest,Pinecrest,14
+Tate Reeves,Governor,,R,Forrest,Pinecrest,68
+Bill Waller Jr.,Governor,,R,Forrest,Pinecrest,150
+Delbert Hosemann,Lieutenant Governor,,R,Forrest,Pinecrest,197
+Shane Quick,Lieutenant Governor,,R,Forrest,Pinecrest,23
+Sam Britton,Secretary of State,,R,Forrest,Pinecrest,118
+Michael Watson,Secretary of State,,R,Forrest,Pinecrest,97
+Mark Baker,Attorney General,,R,Forrest,Pinecrest,49
+Lynn Fitch,Attorney General,,R,Forrest,Pinecrest,93
+Andy Taggart,Attorney General,,R,Forrest,Pinecrest,78
+Shad White,State Auditor,,R,Forrest,Pinecrest,203
+Eugene S. 'Buck' Clarke,State Treasurer,,R,Forrest,Pinecrest,91
+David McRae,State Treasurer,,R,Forrest,Pinecrest,122
+Andy Gipson,Commissioner of Agriculture & Commerce,,R,Forrest,Pinecrest,209
+Mike Chaney,Commissioner of Insurance,,R,Forrest,Pinecrest,213
+Steven L Wade,State Senate,34,R,Forrest,Pinecrest,x
+Joey Fillingane,State Senate,41,R,Forrest,Pinecrest,x
+Chris McDaniel,State Senate,42,R,Forrest,Pinecrest,x
+Chris Johnson,State Senate,45,R,Forrest,Pinecrest,206
+William E 'Billy' Andrews III,State House,87,R,Forrest,Pinecrest,x
+Trey Harvison,State House,87,R,Forrest,Pinecrest,x
+Ricardo Musslett,State House,87,R,Forrest,Pinecrest,x
+Joseph 'Bubba' Tubb,State House,87,R,Forrest,Pinecrest,x
+Missy Warren McGee,State House,102,R,Forrest,Pinecrest,217
+Larry Byrd,State House,104,R,Forrest,Pinecrest,x
+Michael Brown,Governor,,D,Forrest,Pinecrest,12
+William Bond Compton Jr.,Governor,,D,Forrest,Pinecrest,0
+Jim Hood,Governor,,D,Forrest,Pinecrest,74
+Robert J. Ray,Governor,,D,Forrest,Pinecrest,0
+Robert Shuler Smith,Governor,,D,Forrest,Pinecrest,3
+Gregory Wash,Governor,,D,Forrest,Pinecrest,1
+Velesha P Williams,Governor,,D,Forrest,Pinecrest,12
+Albert Wilson,Governor,,D,Forrest,Pinecrest,2
+Jay Hughes,Lieutenant Governor,,D,Forrest,Pinecrest,91
+Johnny DuPree,Secretary of State,,D,Forrest,Pinecrest,76
+Maryra Hodges Hunt,Secretary of State,,D,Forrest,Pinecrest,28
+Jennifer Riley Collins,Attorney General,,D,Forrest,Pinecrest,90
+Addie Lee Green,State Treasurer,,D,Forrest,Pinecrest,90
+Rickey L Cole,Commissioner of Agriculture & Commerce,,D,Forrest,Pinecrest,89
+Robert E Amos,Commissioner of Insurance,,D,Forrest,Pinecrest,87
+Duan Barnett,State Senate,34,D,Forrest,Pinecrest,x
+Deborah Denard Delgado,State Senate,34,D,Forrest,Pinecrest,x
+Brandon Terrion Rue,State House,102,D,Forrest,Pinecrest,88
+Edward Hargrove Jr.,State House,103,D,Forrest,Pinecrest,x
+Percy W Watson,State House,103,D,Forrest,Pinecrest,x
+Robert Foster,Governor,,R,Forrest,Rawls Springs,38
+Tate Reeves,Governor,,R,Forrest,Rawls Springs,134
+Bill Waller Jr.,Governor,,R,Forrest,Rawls Springs,123
 Delbert Hosemann,Lieutenant Governor,,R,Forrest,Rawls Springs,239
 Shane Quick,Lieutenant Governor,,R,Forrest,Rawls Springs,35
 Sam Britton,Secretary of State,,R,Forrest,Rawls Springs,147
@@ -1005,7 +1005,7 @@ David McRae,State Treasurer,,R,Forrest,Rawls Springs,166
 Andy Gipson,Commissioner of Agriculture & Commerce,,R,Forrest,Rawls Springs,268
 Mike Chaney,Commissioner of Insurance,,R,Forrest,Rawls Springs,272
 Steven L Wade,State Senate,34,R,Forrest,Rawls Springs,x
-Joey Fillingane ,State Senate,41,R,Forrest,Rawls Springs,275
+Joey Fillingane,State Senate,41,R,Forrest,Rawls Springs,275
 Chris McDaniel,State Senate,42,R,Forrest,Rawls Springs,x
 Chris Johnson,State Senate,45,R,Forrest,Rawls Springs,x
 William E 'Billy' Andrews III,State House,87,R,Forrest,Rawls Springs,x
@@ -1013,15 +1013,15 @@ Trey Harvison,State House,87,R,Forrest,Rawls Springs,x
 Ricardo Musslett,State House,87,R,Forrest,Rawls Springs,x
 Joseph 'Bubba' Tubb,State House,87,R,Forrest,Rawls Springs,x
 Missy Warren McGee,State House,102,R,Forrest,Rawls Springs,266
-Larry Byrd ,State House,104,R,Forrest,Rawls Springs,x
-Michael Brown,Governor ,,D,Forrest,Rawls Springs,44
-William Bond Compton Jr.,Governor ,,D,Forrest,Rawls Springs,3
-Jim Hood,Governor ,,D,Forrest,Rawls Springs,149
-Robert J. Ray,Governor ,,D,Forrest,Rawls Springs,1
-Robert Shuler Smith,Governor ,,D,Forrest,Rawls Springs,3
-Gregory Wash,Governor ,,D,Forrest,Rawls Springs,0
-Velesha P Williams,Governor ,,D,Forrest,Rawls Springs,15
-Albert Wilson,Governor ,,D,Forrest,Rawls Springs,0
+Larry Byrd,State House,104,R,Forrest,Rawls Springs,x
+Michael Brown,Governor,,D,Forrest,Rawls Springs,44
+William Bond Compton Jr.,Governor,,D,Forrest,Rawls Springs,3
+Jim Hood,Governor,,D,Forrest,Rawls Springs,149
+Robert J. Ray,Governor,,D,Forrest,Rawls Springs,1
+Robert Shuler Smith,Governor,,D,Forrest,Rawls Springs,3
+Gregory Wash,Governor,,D,Forrest,Rawls Springs,0
+Velesha P Williams,Governor,,D,Forrest,Rawls Springs,15
+Albert Wilson,Governor,,D,Forrest,Rawls Springs,0
 Jay Hughes,Lieutenant Governor,,D,Forrest,Rawls Springs,176
 Johnny DuPree,Secretary of State,,D,Forrest,Rawls Springs,193
 Maryra Hodges Hunt,Secretary of State,,D,Forrest,Rawls Springs,25
@@ -1032,11 +1032,11 @@ Robert E Amos,Commissioner of Insurance,,D,Forrest,Rawls Springs,182
 Duan Barnett,State Senate,34,D,Forrest,Rawls Springs,x
 Deborah Denard Delgado,State Senate,34,D,Forrest,Rawls Springs,x
 Brandon Terrion Rue,State House,102,D,Forrest,Rawls Springs,182
-Edward Hargrove Jr. ,State House,103,D,Forrest,Rawls Springs,x
+Edward Hargrove Jr.,State House,103,D,Forrest,Rawls Springs,x
 Percy W Watson,State House,103,D,Forrest,Rawls Springs,x
-Robert Foster,Governor ,,R,Forrest,Richburg,39
-Tate Reeves,Governor ,,R,Forrest,Richburg,99
-Bill Waller Jr.,Governor ,,R,Forrest,Richburg,118
+Robert Foster,Governor,,R,Forrest,Richburg,39
+Tate Reeves,Governor,,R,Forrest,Richburg,99
+Bill Waller Jr.,Governor,,R,Forrest,Richburg,118
 Delbert Hosemann,Lieutenant Governor,,R,Forrest,Richburg,235
 Shane Quick,Lieutenant Governor,,R,Forrest,Richburg,16
 Sam Britton,Secretary of State,,R,Forrest,Richburg,128
@@ -1050,7 +1050,7 @@ David McRae,State Treasurer,,R,Forrest,Richburg,135
 Andy Gipson,Commissioner of Agriculture & Commerce,,R,Forrest,Richburg,232
 Mike Chaney,Commissioner of Insurance,,R,Forrest,Richburg,233
 Steven L Wade,State Senate,34,R,Forrest,Richburg,x
-Joey Fillingane ,State Senate,41,R,Forrest,Richburg,x
+Joey Fillingane,State Senate,41,R,Forrest,Richburg,x
 Chris McDaniel,State Senate,42,R,Forrest,Richburg,x
 Chris Johnson,State Senate,45,R,Forrest,Richburg,230
 William E 'Billy' Andrews III,State House,87,R,Forrest,Richburg,48
@@ -1058,15 +1058,15 @@ Trey Harvison,State House,87,R,Forrest,Richburg,7
 Ricardo Musslett,State House,87,R,Forrest,Richburg,12
 Joseph 'Bubba' Tubb,State House,87,R,Forrest,Richburg,9
 Missy Warren McGee,State House,102,R,Forrest,Richburg,163
-Larry Byrd ,State House,104,R,Forrest,Richburg,x
-Michael Brown,Governor ,,D,Forrest,Richburg,6
-William Bond Compton Jr.,Governor ,,D,Forrest,Richburg,0
-Jim Hood,Governor ,,D,Forrest,Richburg,68
-Robert J. Ray,Governor ,,D,Forrest,Richburg,1
-Robert Shuler Smith,Governor ,,D,Forrest,Richburg,0
-Gregory Wash,Governor ,,D,Forrest,Richburg,2
-Velesha P Williams,Governor ,,D,Forrest,Richburg,6
-Albert Wilson,Governor ,,D,Forrest,Richburg,1
+Larry Byrd,State House,104,R,Forrest,Richburg,x
+Michael Brown,Governor,,D,Forrest,Richburg,6
+William Bond Compton Jr.,Governor,,D,Forrest,Richburg,0
+Jim Hood,Governor,,D,Forrest,Richburg,68
+Robert J. Ray,Governor,,D,Forrest,Richburg,1
+Robert Shuler Smith,Governor,,D,Forrest,Richburg,0
+Gregory Wash,Governor,,D,Forrest,Richburg,2
+Velesha P Williams,Governor,,D,Forrest,Richburg,6
+Albert Wilson,Governor,,D,Forrest,Richburg,1
 Jay Hughes,Lieutenant Governor,,D,Forrest,Richburg,72
 Johnny DuPree,Secretary of State,,D,Forrest,Richburg,71
 Maryra Hodges Hunt,Secretary of State,,D,Forrest,Richburg,12
@@ -1077,56 +1077,56 @@ Robert E Amos,Commissioner of Insurance,,D,Forrest,Richburg,78
 Duan Barnett,State Senate,34,D,Forrest,Richburg,x
 Deborah Denard Delgado,State Senate,34,D,Forrest,Richburg,x
 Brandon Terrion Rue,State House,102,D,Forrest,Richburg,68
-Edward Hargrove Jr. ,State House,103,D,Forrest,Richburg,x
+Edward Hargrove Jr.,State House,103,D,Forrest,Richburg,x
 Percy W Watson,State House,103,D,Forrest,Richburg,x
-Robert Foster,Governor ,,R,Forrest,Rowan ,0
-Tate Reeves,Governor ,,R,Forrest,Rowan ,1
-Bill Waller Jr.,Governor ,,R,Forrest,Rowan ,0
-Delbert Hosemann,Lieutenant Governor,,R,Forrest,Rowan ,1
-Shane Quick,Lieutenant Governor,,R,Forrest,Rowan ,0
-Sam Britton,Secretary of State,,R,Forrest,Rowan ,0
-Michael Watson,Secretary of State,,R,Forrest,Rowan ,1
-Mark Baker,Attorney General,,R,Forrest,Rowan ,0
-Lynn Fitch,Attorney General,,R,Forrest,Rowan ,1
-Andy Taggart,Attorney General,,R,Forrest,Rowan ,0
-Shad White,State Auditor,,R,Forrest,Rowan ,1
-Eugene S. 'Buck' Clarke,State Treasurer,,R,Forrest,Rowan ,0
-David McRae,State Treasurer,,R,Forrest,Rowan ,1
-Andy Gipson,Commissioner of Agriculture & Commerce,,R,Forrest,Rowan ,1
-Mike Chaney,Commissioner of Insurance,,R,Forrest,Rowan ,1
-Steven L Wade,State Senate,34,R,Forrest,Rowan ,1
-Joey Fillingane ,State Senate,41,R,Forrest,Rowan ,x
-Chris McDaniel,State Senate,42,R,Forrest,Rowan ,x
-Chris Johnson,State Senate,45,R,Forrest,Rowan ,x
-William E 'Billy' Andrews III,State House,87,R,Forrest,Rowan ,x
-Trey Harvison,State House,87,R,Forrest,Rowan ,x
-Ricardo Musslett,State House,87,R,Forrest,Rowan ,x
-Joseph 'Bubba' Tubb,State House,87,R,Forrest,Rowan ,x
-Missy Warren McGee,State House,102,R,Forrest,Rowan ,x
-Larry Byrd ,State House,104,R,Forrest,Rowan ,x
-Michael Brown,Governor ,,D,Forrest,Rowan ,30
-William Bond Compton Jr.,Governor ,,D,Forrest,Rowan ,4
-Jim Hood,Governor ,,D,Forrest,Rowan ,155
-Robert J. Ray,Governor ,,D,Forrest,Rowan ,1
-Robert Shuler Smith,Governor ,,D,Forrest,Rowan ,7
-Gregory Wash,Governor ,,D,Forrest,Rowan ,0
-Velesha P Williams,Governor ,,D,Forrest,Rowan ,33
-Albert Wilson,Governor ,,D,Forrest,Rowan ,3
-Jay Hughes,Lieutenant Governor,,D,Forrest,Rowan ,176
-Johnny DuPree,Secretary of State,,D,Forrest,Rowan ,224
-Maryra Hodges Hunt,Secretary of State,,D,Forrest,Rowan ,12
-Jennifer Riley Collins,Attorney General,,D,Forrest,Rowan ,186
-Addie Lee Green,State Treasurer,,D,Forrest,Rowan ,187
-Rickey L Cole,Commissioner of Agriculture & Commerce,,D,Forrest,Rowan ,184
-Robert E Amos,Commissioner of Insurance,,D,Forrest,Rowan ,182
-Duan Barnett,State Senate,34,D,Forrest,Rowan ,65
-Deborah Denard Delgado,State Senate,34,D,Forrest,Rowan ,166
-Brandon Terrion Rue,State House,102,D,Forrest,Rowan ,x
-Edward Hargrove Jr. ,State House,103,D,Forrest,Rowan ,19
-Percy W Watson,State House,103,D,Forrest,Rowan ,212
-Robert Foster,Governor ,,R,Forrest,Sheeplo,56
-Tate Reeves,Governor ,,R,Forrest,Sheeplo,221
-Bill Waller Jr.,Governor ,,R,Forrest,Sheeplo,96
+Robert Foster,Governor,,R,Forrest,Rowan,0
+Tate Reeves,Governor,,R,Forrest,Rowan,1
+Bill Waller Jr.,Governor,,R,Forrest,Rowan,0
+Delbert Hosemann,Lieutenant Governor,,R,Forrest,Rowan,1
+Shane Quick,Lieutenant Governor,,R,Forrest,Rowan,0
+Sam Britton,Secretary of State,,R,Forrest,Rowan,0
+Michael Watson,Secretary of State,,R,Forrest,Rowan,1
+Mark Baker,Attorney General,,R,Forrest,Rowan,0
+Lynn Fitch,Attorney General,,R,Forrest,Rowan,1
+Andy Taggart,Attorney General,,R,Forrest,Rowan,0
+Shad White,State Auditor,,R,Forrest,Rowan,1
+Eugene S. 'Buck' Clarke,State Treasurer,,R,Forrest,Rowan,0
+David McRae,State Treasurer,,R,Forrest,Rowan,1
+Andy Gipson,Commissioner of Agriculture & Commerce,,R,Forrest,Rowan,1
+Mike Chaney,Commissioner of Insurance,,R,Forrest,Rowan,1
+Steven L Wade,State Senate,34,R,Forrest,Rowan,1
+Joey Fillingane,State Senate,41,R,Forrest,Rowan,x
+Chris McDaniel,State Senate,42,R,Forrest,Rowan,x
+Chris Johnson,State Senate,45,R,Forrest,Rowan,x
+William E 'Billy' Andrews III,State House,87,R,Forrest,Rowan,x
+Trey Harvison,State House,87,R,Forrest,Rowan,x
+Ricardo Musslett,State House,87,R,Forrest,Rowan,x
+Joseph 'Bubba' Tubb,State House,87,R,Forrest,Rowan,x
+Missy Warren McGee,State House,102,R,Forrest,Rowan,x
+Larry Byrd,State House,104,R,Forrest,Rowan,x
+Michael Brown,Governor,,D,Forrest,Rowan,30
+William Bond Compton Jr.,Governor,,D,Forrest,Rowan,4
+Jim Hood,Governor,,D,Forrest,Rowan,155
+Robert J. Ray,Governor,,D,Forrest,Rowan,1
+Robert Shuler Smith,Governor,,D,Forrest,Rowan,7
+Gregory Wash,Governor,,D,Forrest,Rowan,0
+Velesha P Williams,Governor,,D,Forrest,Rowan,33
+Albert Wilson,Governor,,D,Forrest,Rowan,3
+Jay Hughes,Lieutenant Governor,,D,Forrest,Rowan,176
+Johnny DuPree,Secretary of State,,D,Forrest,Rowan,224
+Maryra Hodges Hunt,Secretary of State,,D,Forrest,Rowan,12
+Jennifer Riley Collins,Attorney General,,D,Forrest,Rowan,186
+Addie Lee Green,State Treasurer,,D,Forrest,Rowan,187
+Rickey L Cole,Commissioner of Agriculture & Commerce,,D,Forrest,Rowan,184
+Robert E Amos,Commissioner of Insurance,,D,Forrest,Rowan,182
+Duan Barnett,State Senate,34,D,Forrest,Rowan,65
+Deborah Denard Delgado,State Senate,34,D,Forrest,Rowan,166
+Brandon Terrion Rue,State House,102,D,Forrest,Rowan,x
+Edward Hargrove Jr.,State House,103,D,Forrest,Rowan,19
+Percy W Watson,State House,103,D,Forrest,Rowan,212
+Robert Foster,Governor,,R,Forrest,Sheeplo,56
+Tate Reeves,Governor,,R,Forrest,Sheeplo,221
+Bill Waller Jr.,Governor,,R,Forrest,Sheeplo,96
 Delbert Hosemann,Lieutenant Governor,,R,Forrest,Sheeplo,321
 Shane Quick,Lieutenant Governor,,R,Forrest,Sheeplo,38
 Sam Britton,Secretary of State,,R,Forrest,Sheeplo,202
@@ -1140,7 +1140,7 @@ David McRae,State Treasurer,,R,Forrest,Sheeplo,233
 Andy Gipson,Commissioner of Agriculture & Commerce,,R,Forrest,Sheeplo,338
 Mike Chaney,Commissioner of Insurance,,R,Forrest,Sheeplo,341
 Steven L Wade,State Senate,34,R,Forrest,Sheeplo,x
-Joey Fillingane ,State Senate,41,R,Forrest,Sheeplo,x
+Joey Fillingane,State Senate,41,R,Forrest,Sheeplo,x
 Chris McDaniel,State Senate,42,R,Forrest,Sheeplo,x
 Chris Johnson,State Senate,45,R,Forrest,Sheeplo,335
 William E 'Billy' Andrews III,State House,87,R,Forrest,Sheeplo,x
@@ -1148,15 +1148,15 @@ Trey Harvison,State House,87,R,Forrest,Sheeplo,x
 Ricardo Musslett,State House,87,R,Forrest,Sheeplo,x
 Joseph 'Bubba' Tubb,State House,87,R,Forrest,Sheeplo,x
 Missy Warren McGee,State House,102,R,Forrest,Sheeplo,x
-Larry Byrd ,State House,104,R,Forrest,Sheeplo,338
-Michael Brown,Governor ,,D,Forrest,Sheeplo,5
-William Bond Compton Jr.,Governor ,,D,Forrest,Sheeplo,1
-Jim Hood,Governor ,,D,Forrest,Sheeplo,53
-Robert J. Ray,Governor ,,D,Forrest,Sheeplo,1
-Robert Shuler Smith,Governor ,,D,Forrest,Sheeplo,3
-Gregory Wash,Governor ,,D,Forrest,Sheeplo,1
-Velesha P Williams,Governor ,,D,Forrest,Sheeplo,7
-Albert Wilson,Governor ,,D,Forrest,Sheeplo,2
+Larry Byrd,State House,104,R,Forrest,Sheeplo,338
+Michael Brown,Governor,,D,Forrest,Sheeplo,5
+William Bond Compton Jr.,Governor,,D,Forrest,Sheeplo,1
+Jim Hood,Governor,,D,Forrest,Sheeplo,53
+Robert J. Ray,Governor,,D,Forrest,Sheeplo,1
+Robert Shuler Smith,Governor,,D,Forrest,Sheeplo,3
+Gregory Wash,Governor,,D,Forrest,Sheeplo,1
+Velesha P Williams,Governor,,D,Forrest,Sheeplo,7
+Albert Wilson,Governor,,D,Forrest,Sheeplo,2
 Jay Hughes,Lieutenant Governor,,D,Forrest,Sheeplo,46
 Johnny DuPree,Secretary of State,,D,Forrest,Sheeplo,71
 Maryra Hodges Hunt,Secretary of State,,D,Forrest,Sheeplo,3
@@ -1167,11 +1167,11 @@ Robert E Amos,Commissioner of Insurance,,D,Forrest,Sheeplo,57
 Duan Barnett,State Senate,34,D,Forrest,Sheeplo,x
 Deborah Denard Delgado,State Senate,34,D,Forrest,Sheeplo,x
 Brandon Terrion Rue,State House,102,D,Forrest,Sheeplo,x
-Edward Hargrove Jr. ,State House,103,D,Forrest,Sheeplo,x
+Edward Hargrove Jr.,State House,103,D,Forrest,Sheeplo,x
 Percy W Watson,State House,103,D,Forrest,Sheeplo,x
-Robert Foster,Governor ,,R,Forrest,Sigler Center,16
-Tate Reeves,Governor ,,R,Forrest,Sigler Center,41
-Bill Waller Jr.,Governor ,,R,Forrest,Sigler Center,48
+Robert Foster,Governor,,R,Forrest,Sigler Center,16
+Tate Reeves,Governor,,R,Forrest,Sigler Center,41
+Bill Waller Jr.,Governor,,R,Forrest,Sigler Center,48
 Delbert Hosemann,Lieutenant Governor,,R,Forrest,Sigler Center,79
 Shane Quick,Lieutenant Governor,,R,Forrest,Sigler Center,17
 Sam Britton,Secretary of State,,R,Forrest,Sigler Center,50
@@ -1185,7 +1185,7 @@ David McRae,State Treasurer,,R,Forrest,Sigler Center,53
 Andy Gipson,Commissioner of Agriculture & Commerce,,R,Forrest,Sigler Center,89
 Mike Chaney,Commissioner of Insurance,,R,Forrest,Sigler Center,96
 Steven L Wade,State Senate,34,R,Forrest,Sigler Center,x
-Joey Fillingane ,State Senate,41,R,Forrest,Sigler Center,x
+Joey Fillingane,State Senate,41,R,Forrest,Sigler Center,x
 Chris McDaniel,State Senate,42,R,Forrest,Sigler Center,x
 Chris Johnson,State Senate,45,R,Forrest,Sigler Center,94
 William E 'Billy' Andrews III,State House,87,R,Forrest,Sigler Center,x
@@ -1193,15 +1193,15 @@ Trey Harvison,State House,87,R,Forrest,Sigler Center,x
 Ricardo Musslett,State House,87,R,Forrest,Sigler Center,x
 Joseph 'Bubba' Tubb,State House,87,R,Forrest,Sigler Center,x
 Missy Warren McGee,State House,102,R,Forrest,Sigler Center,53
-Larry Byrd ,State House,104,R,Forrest,Sigler Center,x
-Michael Brown,Governor ,,D,Forrest,Sigler Center,29
-William Bond Compton Jr.,Governor ,,D,Forrest,Sigler Center,2
-Jim Hood,Governor ,,D,Forrest,Sigler Center,167
-Robert J. Ray,Governor ,,D,Forrest,Sigler Center,2
-Robert Shuler Smith,Governor ,,D,Forrest,Sigler Center,4
-Gregory Wash,Governor ,,D,Forrest,Sigler Center,1
-Velesha P Williams,Governor ,,D,Forrest,Sigler Center,16
-Albert Wilson,Governor ,,D,Forrest,Sigler Center,0
+Larry Byrd,State House,104,R,Forrest,Sigler Center,x
+Michael Brown,Governor,,D,Forrest,Sigler Center,29
+William Bond Compton Jr.,Governor,,D,Forrest,Sigler Center,2
+Jim Hood,Governor,,D,Forrest,Sigler Center,167
+Robert J. Ray,Governor,,D,Forrest,Sigler Center,2
+Robert Shuler Smith,Governor,,D,Forrest,Sigler Center,4
+Gregory Wash,Governor,,D,Forrest,Sigler Center,1
+Velesha P Williams,Governor,,D,Forrest,Sigler Center,16
+Albert Wilson,Governor,,D,Forrest,Sigler Center,0
 Jay Hughes,Lieutenant Governor,,D,Forrest,Sigler Center,184
 Johnny DuPree,Secretary of State,,D,Forrest,Sigler Center,200
 Maryra Hodges Hunt,Secretary of State,,D,Forrest,Sigler Center,23
@@ -1212,11 +1212,11 @@ Robert E Amos,Commissioner of Insurance,,D,Forrest,Sigler Center,192
 Duan Barnett,State Senate,34,D,Forrest,Sigler Center,x
 Deborah Denard Delgado,State Senate,34,D,Forrest,Sigler Center,x
 Brandon Terrion Rue,State House,102,D,Forrest,Sigler Center,75
-Edward Hargrove Jr. ,State House,103,D,Forrest,Sigler Center,15
+Edward Hargrove Jr.,State House,103,D,Forrest,Sigler Center,15
 Percy W Watson,State House,103,D,Forrest,Sigler Center,119
-Robert Foster,Governor ,,R,Forrest,Sunrise,180
-Tate Reeves,Governor ,,R,Forrest,Sunrise,607
-Bill Waller Jr.,Governor ,,R,Forrest,Sunrise,521
+Robert Foster,Governor,,R,Forrest,Sunrise,180
+Tate Reeves,Governor,,R,Forrest,Sunrise,607
+Bill Waller Jr.,Governor,,R,Forrest,Sunrise,521
 Delbert Hosemann,Lieutenant Governor,,R,Forrest,Sunrise,1135
 Shane Quick,Lieutenant Governor,,R,Forrest,Sunrise,117
 Sam Britton,Secretary of State,,R,Forrest,Sunrise,729
@@ -1230,7 +1230,7 @@ David McRae,State Treasurer,,R,Forrest,Sunrise,755
 Andy Gipson,Commissioner of Agriculture & Commerce,,R,Forrest,Sunrise,1182
 Mike Chaney,Commissioner of Insurance,,R,Forrest,Sunrise,1192
 Steven L Wade,State Senate,34,R,Forrest,Sunrise,x
-Joey Fillingane ,State Senate,41,R,Forrest,Sunrise,x
+Joey Fillingane,State Senate,41,R,Forrest,Sunrise,x
 Chris McDaniel,State Senate,42,R,Forrest,Sunrise,x
 Chris Johnson,State Senate,45,R,Forrest,Sunrise,1176
 William E 'Billy' Andrews III,State House,87,R,Forrest,Sunrise,x
@@ -1238,15 +1238,15 @@ Trey Harvison,State House,87,R,Forrest,Sunrise,x
 Ricardo Musslett,State House,87,R,Forrest,Sunrise,x
 Joseph 'Bubba' Tubb,State House,87,R,Forrest,Sunrise,x
 Missy Warren McGee,State House,102,R,Forrest,Sunrise,x
-Larry Byrd ,State House,104,R,Forrest,Sunrise,1199
-Michael Brown,Governor ,,D,Forrest,Sunrise,7
-William Bond Compton Jr.,Governor ,,D,Forrest,Sunrise,2
-Jim Hood,Governor ,,D,Forrest,Sunrise,70
-Robert J. Ray,Governor ,,D,Forrest,Sunrise,4
-Robert Shuler Smith,Governor ,,D,Forrest,Sunrise,7
-Gregory Wash,Governor ,,D,Forrest,Sunrise,6
-Velesha P Williams,Governor ,,D,Forrest,Sunrise,13
-Albert Wilson,Governor ,,D,Forrest,Sunrise,8
+Larry Byrd,State House,104,R,Forrest,Sunrise,1199
+Michael Brown,Governor,,D,Forrest,Sunrise,7
+William Bond Compton Jr.,Governor,,D,Forrest,Sunrise,2
+Jim Hood,Governor,,D,Forrest,Sunrise,70
+Robert J. Ray,Governor,,D,Forrest,Sunrise,4
+Robert Shuler Smith,Governor,,D,Forrest,Sunrise,7
+Gregory Wash,Governor,,D,Forrest,Sunrise,6
+Velesha P Williams,Governor,,D,Forrest,Sunrise,13
+Albert Wilson,Governor,,D,Forrest,Sunrise,8
 Jay Hughes,Lieutenant Governor,,D,Forrest,Sunrise,76
 Johnny DuPree,Secretary of State,,D,Forrest,Sunrise,65
 Maryra Hodges Hunt,Secretary of State,,D,Forrest,Sunrise,19
@@ -1257,11 +1257,11 @@ Robert E Amos,Commissioner of Insurance,,D,Forrest,Sunrise,77
 Duan Barnett,State Senate,34,D,Forrest,Sunrise,x
 Deborah Denard Delgado,State Senate,34,D,Forrest,Sunrise,x
 Brandon Terrion Rue,State House,102,D,Forrest,Sunrise,x
-Edward Hargrove Jr. ,State House,103,D,Forrest,Sunrise,x
+Edward Hargrove Jr.,State House,103,D,Forrest,Sunrise,x
 Percy W Watson,State House,103,D,Forrest,Sunrise,x
-Robert Foster,Governor ,,R,Forrest,Thames,70
-Tate Reeves,Governor ,,R,Forrest,Thames,286
-Bill Waller Jr.,Governor ,,R,Forrest,Thames,671
+Robert Foster,Governor,,R,Forrest,Thames,70
+Tate Reeves,Governor,,R,Forrest,Thames,286
+Bill Waller Jr.,Governor,,R,Forrest,Thames,671
 Delbert Hosemann,Lieutenant Governor,,R,Forrest,Thames,929
 Shane Quick,Lieutenant Governor,,R,Forrest,Thames,69
 Sam Britton,Secretary of State,,R,Forrest,Thames,508
@@ -1275,7 +1275,7 @@ David McRae,State Treasurer,,R,Forrest,Thames,556
 Andy Gipson,Commissioner of Agriculture & Commerce,,R,Forrest,Thames,910
 Mike Chaney,Commissioner of Insurance,,R,Forrest,Thames,923
 Steven L Wade,State Senate,34,R,Forrest,Thames,x
-Joey Fillingane ,State Senate,41,R,Forrest,Thames,x
+Joey Fillingane,State Senate,41,R,Forrest,Thames,x
 Chris McDaniel,State Senate,42,R,Forrest,Thames,x
 Chris Johnson,State Senate,45,R,Forrest,Thames,925
 William E 'Billy' Andrews III,State House,87,R,Forrest,Thames,x
@@ -1283,15 +1283,15 @@ Trey Harvison,State House,87,R,Forrest,Thames,x
 Ricardo Musslett,State House,87,R,Forrest,Thames,x
 Joseph 'Bubba' Tubb,State House,87,R,Forrest,Thames,x
 Missy Warren McGee,State House,102,R,Forrest,Thames,956
-Larry Byrd ,State House,104,R,Forrest,Thames,x
-Michael Brown,Governor ,,D,Forrest,Thames,7
-William Bond Compton Jr.,Governor ,,D,Forrest,Thames,1
-Jim Hood,Governor ,,D,Forrest,Thames,104
-Robert J. Ray,Governor ,,D,Forrest,Thames,0
-Robert Shuler Smith,Governor ,,D,Forrest,Thames,1
-Gregory Wash,Governor ,,D,Forrest,Thames,1
-Velesha P Williams,Governor ,,D,Forrest,Thames,17
-Albert Wilson,Governor ,,D,Forrest,Thames,0
+Larry Byrd,State House,104,R,Forrest,Thames,x
+Michael Brown,Governor,,D,Forrest,Thames,7
+William Bond Compton Jr.,Governor,,D,Forrest,Thames,1
+Jim Hood,Governor,,D,Forrest,Thames,104
+Robert J. Ray,Governor,,D,Forrest,Thames,0
+Robert Shuler Smith,Governor,,D,Forrest,Thames,1
+Gregory Wash,Governor,,D,Forrest,Thames,1
+Velesha P Williams,Governor,,D,Forrest,Thames,17
+Albert Wilson,Governor,,D,Forrest,Thames,0
 Jay Hughes,Lieutenant Governor,,D,Forrest,Thames,106
 Johnny DuPree,Secretary of State,,D,Forrest,Thames,91
 Maryra Hodges Hunt,Secretary of State,,D,Forrest,Thames,36
@@ -1302,56 +1302,56 @@ Robert E Amos,Commissioner of Insurance,,D,Forrest,Thames,108
 Duan Barnett,State Senate,34,D,Forrest,Thames,x
 Deborah Denard Delgado,State Senate,34,D,Forrest,Thames,x
 Brandon Terrion Rue,State House,102,D,Forrest,Thames,107
-Edward Hargrove Jr. ,State House,103,D,Forrest,Thames,x
+Edward Hargrove Jr.,State House,103,D,Forrest,Thames,x
 Percy W Watson,State House,103,D,Forrest,Thames,x
-Robert Foster,Governor ,,R,Forrest,Timberton ,42
-Tate Reeves,Governor ,,R,Forrest,Timberton ,206
-Bill Waller Jr.,Governor ,,R,Forrest,Timberton ,263
-Delbert Hosemann,Lieutenant Governor,,R,Forrest,Timberton ,447
-Shane Quick,Lieutenant Governor,,R,Forrest,Timberton ,45
-Sam Britton,Secretary of State,,R,Forrest,Timberton ,259
-Michael Watson,Secretary of State,,R,Forrest,Timberton ,219
-Mark Baker,Attorney General,,R,Forrest,Timberton ,129
-Lynn Fitch,Attorney General,,R,Forrest,Timberton ,219
-Andy Taggart,Attorney General,,R,Forrest,Timberton ,143
-Shad White,State Auditor,,R,Forrest,Timberton ,447
-Eugene S. 'Buck' Clarke,State Treasurer,,R,Forrest,Timberton ,203
-David McRae,State Treasurer,,R,Forrest,Timberton ,276
-Andy Gipson,Commissioner of Agriculture & Commerce,,R,Forrest,Timberton ,456
-Mike Chaney,Commissioner of Insurance,,R,Forrest,Timberton ,466
-Steven L Wade,State Senate,34,R,Forrest,Timberton ,x
-Joey Fillingane ,State Senate,41,R,Forrest,Timberton ,x
-Chris McDaniel,State Senate,42,R,Forrest,Timberton ,x
-Chris Johnson,State Senate,45,R,Forrest,Timberton ,456
-William E 'Billy' Andrews III,State House,87,R,Forrest,Timberton ,201
-Trey Harvison,State House,87,R,Forrest,Timberton ,14
-Ricardo Musslett,State House,87,R,Forrest,Timberton ,85
-Joseph 'Bubba' Tubb,State House,87,R,Forrest,Timberton ,100
-Missy Warren McGee,State House,102,R,Forrest,Timberton ,76
-Larry Byrd ,State House,104,R,Forrest,Timberton ,x
-Michael Brown,Governor ,,D,Forrest,Timberton ,3
-William Bond Compton Jr.,Governor ,,D,Forrest,Timberton ,0
-Jim Hood,Governor ,,D,Forrest,Timberton ,44
-Robert J. Ray,Governor ,,D,Forrest,Timberton ,1
-Robert Shuler Smith,Governor ,,D,Forrest,Timberton ,0
-Gregory Wash,Governor ,,D,Forrest,Timberton ,0
-Velesha P Williams,Governor ,,D,Forrest,Timberton ,4
-Albert Wilson,Governor ,,D,Forrest,Timberton ,0
-Jay Hughes,Lieutenant Governor,,D,Forrest,Timberton ,46
-Johnny DuPree,Secretary of State,,D,Forrest,Timberton ,37
-Maryra Hodges Hunt,Secretary of State,,D,Forrest,Timberton ,15
-Jennifer Riley Collins,Attorney General,,D,Forrest,Timberton ,47
-Addie Lee Green,State Treasurer,,D,Forrest,Timberton ,47
-Rickey L Cole,Commissioner of Agriculture & Commerce,,D,Forrest,Timberton ,46
-Robert E Amos,Commissioner of Insurance,,D,Forrest,Timberton ,46
-Duan Barnett,State Senate,34,D,Forrest,Timberton ,x
-Deborah Denard Delgado,State Senate,34,D,Forrest,Timberton ,x
-Brandon Terrion Rue,State House,102,D,Forrest,Timberton ,8
-Edward Hargrove Jr. ,State House,103,D,Forrest,Timberton ,x
-Percy W Watson,State House,103,D,Forrest,Timberton ,x
-Robert Foster,Governor ,,R,Forrest,Train Depot,4
-Tate Reeves,Governor ,,R,Forrest,Train Depot,11
-Bill Waller Jr.,Governor ,,R,Forrest,Train Depot,20
+Robert Foster,Governor,,R,Forrest,Timberton,42
+Tate Reeves,Governor,,R,Forrest,Timberton,206
+Bill Waller Jr.,Governor,,R,Forrest,Timberton,263
+Delbert Hosemann,Lieutenant Governor,,R,Forrest,Timberton,447
+Shane Quick,Lieutenant Governor,,R,Forrest,Timberton,45
+Sam Britton,Secretary of State,,R,Forrest,Timberton,259
+Michael Watson,Secretary of State,,R,Forrest,Timberton,219
+Mark Baker,Attorney General,,R,Forrest,Timberton,129
+Lynn Fitch,Attorney General,,R,Forrest,Timberton,219
+Andy Taggart,Attorney General,,R,Forrest,Timberton,143
+Shad White,State Auditor,,R,Forrest,Timberton,447
+Eugene S. 'Buck' Clarke,State Treasurer,,R,Forrest,Timberton,203
+David McRae,State Treasurer,,R,Forrest,Timberton,276
+Andy Gipson,Commissioner of Agriculture & Commerce,,R,Forrest,Timberton,456
+Mike Chaney,Commissioner of Insurance,,R,Forrest,Timberton,466
+Steven L Wade,State Senate,34,R,Forrest,Timberton,x
+Joey Fillingane,State Senate,41,R,Forrest,Timberton,x
+Chris McDaniel,State Senate,42,R,Forrest,Timberton,x
+Chris Johnson,State Senate,45,R,Forrest,Timberton,456
+William E 'Billy' Andrews III,State House,87,R,Forrest,Timberton,201
+Trey Harvison,State House,87,R,Forrest,Timberton,14
+Ricardo Musslett,State House,87,R,Forrest,Timberton,85
+Joseph 'Bubba' Tubb,State House,87,R,Forrest,Timberton,100
+Missy Warren McGee,State House,102,R,Forrest,Timberton,76
+Larry Byrd,State House,104,R,Forrest,Timberton,x
+Michael Brown,Governor,,D,Forrest,Timberton,3
+William Bond Compton Jr.,Governor,,D,Forrest,Timberton,0
+Jim Hood,Governor,,D,Forrest,Timberton,44
+Robert J. Ray,Governor,,D,Forrest,Timberton,1
+Robert Shuler Smith,Governor,,D,Forrest,Timberton,0
+Gregory Wash,Governor,,D,Forrest,Timberton,0
+Velesha P Williams,Governor,,D,Forrest,Timberton,4
+Albert Wilson,Governor,,D,Forrest,Timberton,0
+Jay Hughes,Lieutenant Governor,,D,Forrest,Timberton,46
+Johnny DuPree,Secretary of State,,D,Forrest,Timberton,37
+Maryra Hodges Hunt,Secretary of State,,D,Forrest,Timberton,15
+Jennifer Riley Collins,Attorney General,,D,Forrest,Timberton,47
+Addie Lee Green,State Treasurer,,D,Forrest,Timberton,47
+Rickey L Cole,Commissioner of Agriculture & Commerce,,D,Forrest,Timberton,46
+Robert E Amos,Commissioner of Insurance,,D,Forrest,Timberton,46
+Duan Barnett,State Senate,34,D,Forrest,Timberton,x
+Deborah Denard Delgado,State Senate,34,D,Forrest,Timberton,x
+Brandon Terrion Rue,State House,102,D,Forrest,Timberton,8
+Edward Hargrove Jr.,State House,103,D,Forrest,Timberton,x
+Percy W Watson,State House,103,D,Forrest,Timberton,x
+Robert Foster,Governor,,R,Forrest,Train Depot,4
+Tate Reeves,Governor,,R,Forrest,Train Depot,11
+Bill Waller Jr.,Governor,,R,Forrest,Train Depot,20
 Delbert Hosemann,Lieutenant Governor,,R,Forrest,Train Depot,26
 Shane Quick,Lieutenant Governor,,R,Forrest,Train Depot,6
 Sam Britton,Secretary of State,,R,Forrest,Train Depot,13
@@ -1365,7 +1365,7 @@ David McRae,State Treasurer,,R,Forrest,Train Depot,22
 Andy Gipson,Commissioner of Agriculture & Commerce,,R,Forrest,Train Depot,31
 Mike Chaney,Commissioner of Insurance,,R,Forrest,Train Depot,31
 Steven L Wade,State Senate,34,R,Forrest,Train Depot,30
-Joey Fillingane ,State Senate,41,R,Forrest,Train Depot,x
+Joey Fillingane,State Senate,41,R,Forrest,Train Depot,x
 Chris McDaniel,State Senate,42,R,Forrest,Train Depot,x
 Chris Johnson,State Senate,45,R,Forrest,Train Depot,0
 William E 'Billy' Andrews III,State House,87,R,Forrest,Train Depot,x
@@ -1373,15 +1373,15 @@ Trey Harvison,State House,87,R,Forrest,Train Depot,x
 Ricardo Musslett,State House,87,R,Forrest,Train Depot,x
 Joseph 'Bubba' Tubb,State House,87,R,Forrest,Train Depot,x
 Missy Warren McGee,State House,102,R,Forrest,Train Depot,x
-Larry Byrd ,State House,104,R,Forrest,Train Depot,x
-Michael Brown,Governor ,,D,Forrest,Train Depot,13
-William Bond Compton Jr.,Governor ,,D,Forrest,Train Depot,4
-Jim Hood,Governor ,,D,Forrest,Train Depot,80
-Robert J. Ray,Governor ,,D,Forrest,Train Depot,3
-Robert Shuler Smith,Governor ,,D,Forrest,Train Depot,4
-Gregory Wash,Governor ,,D,Forrest,Train Depot,2
-Velesha P Williams,Governor ,,D,Forrest,Train Depot,18
-Albert Wilson,Governor ,,D,Forrest,Train Depot,0
+Larry Byrd,State House,104,R,Forrest,Train Depot,x
+Michael Brown,Governor,,D,Forrest,Train Depot,13
+William Bond Compton Jr.,Governor,,D,Forrest,Train Depot,4
+Jim Hood,Governor,,D,Forrest,Train Depot,80
+Robert J. Ray,Governor,,D,Forrest,Train Depot,3
+Robert Shuler Smith,Governor,,D,Forrest,Train Depot,4
+Gregory Wash,Governor,,D,Forrest,Train Depot,2
+Velesha P Williams,Governor,,D,Forrest,Train Depot,18
+Albert Wilson,Governor,,D,Forrest,Train Depot,0
 Jay Hughes,Lieutenant Governor,,D,Forrest,Train Depot,98
 Johnny DuPree,Secretary of State,,D,Forrest,Train Depot,118
 Maryra Hodges Hunt,Secretary of State,,D,Forrest,Train Depot,8
@@ -1392,11 +1392,11 @@ Robert E Amos,Commissioner of Insurance,,D,Forrest,Train Depot,99
 Duan Barnett,State Senate,34,D,Forrest,Train Depot,48
 Deborah Denard Delgado,State Senate,34,D,Forrest,Train Depot,78
 Brandon Terrion Rue,State House,102,D,Forrest,Train Depot,x
-Edward Hargrove Jr. ,State House,103,D,Forrest,Train Depot,24
+Edward Hargrove Jr.,State House,103,D,Forrest,Train Depot,24
 Percy W Watson,State House,103,D,Forrest,Train Depot,99
-Robert Foster,Governor ,,R,Forrest,West Hills,30
-Tate Reeves,Governor ,,R,Forrest,West Hills,79
-Bill Waller Jr.,Governor ,,R,Forrest,West Hills,146
+Robert Foster,Governor,,R,Forrest,West Hills,30
+Tate Reeves,Governor,,R,Forrest,West Hills,79
+Bill Waller Jr.,Governor,,R,Forrest,West Hills,146
 Delbert Hosemann,Lieutenant Governor,,R,Forrest,West Hills,217
 Shane Quick,Lieutenant Governor,,R,Forrest,West Hills,22
 Sam Britton,Secretary of State,,R,Forrest,West Hills,128
@@ -1410,7 +1410,7 @@ David McRae,State Treasurer,,R,Forrest,West Hills,151
 Andy Gipson,Commissioner of Agriculture & Commerce,,R,Forrest,West Hills,241
 Mike Chaney,Commissioner of Insurance,,R,Forrest,West Hills,241
 Steven L Wade,State Senate,34,R,Forrest,West Hills,x
-Joey Fillingane ,State Senate,41,R,Forrest,West Hills,x
+Joey Fillingane,State Senate,41,R,Forrest,West Hills,x
 Chris McDaniel,State Senate,42,R,Forrest,West Hills,x
 Chris Johnson,State Senate,45,R,Forrest,West Hills,236
 William E 'Billy' Andrews III,State House,87,R,Forrest,West Hills,x
@@ -1418,15 +1418,15 @@ Trey Harvison,State House,87,R,Forrest,West Hills,x
 Ricardo Musslett,State House,87,R,Forrest,West Hills,x
 Joseph 'Bubba' Tubb,State House,87,R,Forrest,West Hills,x
 Missy Warren McGee,State House,102,R,Forrest,West Hills,236
-Larry Byrd ,State House,104,R,Forrest,West Hills,x
-Michael Brown,Governor ,,D,Forrest,West Hills,3
-William Bond Compton Jr.,Governor ,,D,Forrest,West Hills,1
-Jim Hood,Governor ,,D,Forrest,West Hills,34
-Robert J. Ray,Governor ,,D,Forrest,West Hills,0
-Robert Shuler Smith,Governor ,,D,Forrest,West Hills,1
-Gregory Wash,Governor ,,D,Forrest,West Hills,0
-Velesha P Williams,Governor ,,D,Forrest,West Hills,4
-Albert Wilson,Governor ,,D,Forrest,West Hills,0
+Larry Byrd,State House,104,R,Forrest,West Hills,x
+Michael Brown,Governor,,D,Forrest,West Hills,3
+William Bond Compton Jr.,Governor,,D,Forrest,West Hills,1
+Jim Hood,Governor,,D,Forrest,West Hills,34
+Robert J. Ray,Governor,,D,Forrest,West Hills,0
+Robert Shuler Smith,Governor,,D,Forrest,West Hills,1
+Gregory Wash,Governor,,D,Forrest,West Hills,0
+Velesha P Williams,Governor,,D,Forrest,West Hills,4
+Albert Wilson,Governor,,D,Forrest,West Hills,0
 Jay Hughes,Lieutenant Governor,,D,Forrest,West Hills,37
 Johnny DuPree,Secretary of State,,D,Forrest,West Hills,31
 Maryra Hodges Hunt,Secretary of State,,D,Forrest,West Hills,12
@@ -1437,11 +1437,11 @@ Robert E Amos,Commissioner of Insurance,,D,Forrest,West Hills,37
 Duan Barnett,State Senate,34,D,Forrest,West Hills,x
 Deborah Denard Delgado,State Senate,34,D,Forrest,West Hills,x
 Brandon Terrion Rue,State House,102,D,Forrest,West Hills,38
-Edward Hargrove Jr. ,State House,103,D,Forrest,West Hills,x
+Edward Hargrove Jr.,State House,103,D,Forrest,West Hills,x
 Percy W Watson,State House,103,D,Forrest,West Hills,x
-Robert Foster,Governor ,,R,Forrest,West Petal,23
-Tate Reeves,Governor ,,R,Forrest,West Petal,130
-Bill Waller Jr.,Governor ,,R,Forrest,West Petal,45
+Robert Foster,Governor,,R,Forrest,West Petal,23
+Tate Reeves,Governor,,R,Forrest,West Petal,130
+Bill Waller Jr.,Governor,,R,Forrest,West Petal,45
 Delbert Hosemann,Lieutenant Governor,,R,Forrest,West Petal,152
 Shane Quick,Lieutenant Governor,,R,Forrest,West Petal,26
 Sam Britton,Secretary of State,,R,Forrest,West Petal,106
@@ -1455,7 +1455,7 @@ David McRae,State Treasurer,,R,Forrest,West Petal,102
 Andy Gipson,Commissioner of Agriculture & Commerce,,R,Forrest,West Petal,182
 Mike Chaney,Commissioner of Insurance,,R,Forrest,West Petal,183
 Steven L Wade,State Senate,34,R,Forrest,West Petal,x
-Joey Fillingane ,State Senate,41,R,Forrest,West Petal,x
+Joey Fillingane,State Senate,41,R,Forrest,West Petal,x
 Chris McDaniel,State Senate,42,R,Forrest,West Petal,182
 Chris Johnson,State Senate,45,R,Forrest,West Petal,x
 William E 'Billy' Andrews III,State House,87,R,Forrest,West Petal,x
@@ -1463,15 +1463,15 @@ Trey Harvison,State House,87,R,Forrest,West Petal,x
 Ricardo Musslett,State House,87,R,Forrest,West Petal,x
 Joseph 'Bubba' Tubb,State House,87,R,Forrest,West Petal,x
 Missy Warren McGee,State House,102,R,Forrest,West Petal,x
-Larry Byrd ,State House,104,R,Forrest,West Petal,182
-Michael Brown,Governor ,,D,Forrest,West Petal,8
-William Bond Compton Jr.,Governor ,,D,Forrest,West Petal,0
-Jim Hood,Governor ,,D,Forrest,West Petal,27
-Robert J. Ray,Governor ,,D,Forrest,West Petal,0
-Robert Shuler Smith,Governor ,,D,Forrest,West Petal,1
-Gregory Wash,Governor ,,D,Forrest,West Petal,0
-Velesha P Williams,Governor ,,D,Forrest,West Petal,5
-Albert Wilson,Governor ,,D,Forrest,West Petal,0
+Larry Byrd,State House,104,R,Forrest,West Petal,182
+Michael Brown,Governor,,D,Forrest,West Petal,8
+William Bond Compton Jr.,Governor,,D,Forrest,West Petal,0
+Jim Hood,Governor,,D,Forrest,West Petal,27
+Robert J. Ray,Governor,,D,Forrest,West Petal,0
+Robert Shuler Smith,Governor,,D,Forrest,West Petal,1
+Gregory Wash,Governor,,D,Forrest,West Petal,0
+Velesha P Williams,Governor,,D,Forrest,West Petal,5
+Albert Wilson,Governor,,D,Forrest,West Petal,0
 Jay Hughes,Lieutenant Governor,,D,Forrest,West Petal,40
 Johnny DuPree,Secretary of State,,D,Forrest,West Petal,33
 Maryra Hodges Hunt,Secretary of State,,D,Forrest,West Petal,9
@@ -1482,11 +1482,11 @@ Robert E Amos,Commissioner of Insurance,,D,Forrest,West Petal,40
 Duan Barnett,State Senate,34,D,Forrest,West Petal,x
 Deborah Denard Delgado,State Senate,34,D,Forrest,West Petal,x
 Brandon Terrion Rue,State House,102,D,Forrest,West Petal,x
-Edward Hargrove Jr. ,State House,103,D,Forrest,West Petal,x
+Edward Hargrove Jr.,State House,103,D,Forrest,West Petal,x
 Percy W Watson,State House,103,D,Forrest,West Petal,x
-Robert Foster,Governor ,,R,Forrest,Westside,15
-Tate Reeves,Governor ,,R,Forrest,Westside,90
-Bill Waller Jr.,Governor ,,R,Forrest,Westside,133
+Robert Foster,Governor,,R,Forrest,Westside,15
+Tate Reeves,Governor,,R,Forrest,Westside,90
+Bill Waller Jr.,Governor,,R,Forrest,Westside,133
 Delbert Hosemann,Lieutenant Governor,,R,Forrest,Westside,203
 Shane Quick,Lieutenant Governor,,R,Forrest,Westside,24
 Sam Britton,Secretary of State,,R,Forrest,Westside,116
@@ -1500,7 +1500,7 @@ David McRae,State Treasurer,,R,Forrest,Westside,122
 Andy Gipson,Commissioner of Agriculture & Commerce,,R,Forrest,Westside,206
 Mike Chaney,Commissioner of Insurance,,R,Forrest,Westside,210
 Steven L Wade,State Senate,34,R,Forrest,Westside,2
-Joey Fillingane ,State Senate,41,R,Forrest,Westside,x
+Joey Fillingane,State Senate,41,R,Forrest,Westside,x
 Chris McDaniel,State Senate,42,R,Forrest,Westside,x
 Chris Johnson,State Senate,45,R,Forrest,Westside,200
 William E 'Billy' Andrews III,State House,87,R,Forrest,Westside,x
@@ -1508,15 +1508,15 @@ Trey Harvison,State House,87,R,Forrest,Westside,x
 Ricardo Musslett,State House,87,R,Forrest,Westside,x
 Joseph 'Bubba' Tubb,State House,87,R,Forrest,Westside,x
 Missy Warren McGee,State House,102,R,Forrest,Westside,169
-Larry Byrd ,State House,104,R,Forrest,Westside,x
-Michael Brown,Governor ,,D,Forrest,Westside,10
-William Bond Compton Jr.,Governor ,,D,Forrest,Westside,1
-Jim Hood,Governor ,,D,Forrest,Westside,93
-Robert J. Ray,Governor ,,D,Forrest,Westside,0
-Robert Shuler Smith,Governor ,,D,Forrest,Westside,7
-Gregory Wash,Governor ,,D,Forrest,Westside,0
-Velesha P Williams,Governor ,,D,Forrest,Westside,13
-Albert Wilson,Governor ,,D,Forrest,Westside,3
+Larry Byrd,State House,104,R,Forrest,Westside,x
+Michael Brown,Governor,,D,Forrest,Westside,10
+William Bond Compton Jr.,Governor,,D,Forrest,Westside,1
+Jim Hood,Governor,,D,Forrest,Westside,93
+Robert J. Ray,Governor,,D,Forrest,Westside,0
+Robert Shuler Smith,Governor,,D,Forrest,Westside,7
+Gregory Wash,Governor,,D,Forrest,Westside,0
+Velesha P Williams,Governor,,D,Forrest,Westside,13
+Albert Wilson,Governor,,D,Forrest,Westside,3
 Jay Hughes,Lieutenant Governor,,D,Forrest,Westside,105
 Johnny DuPree,Secretary of State,,D,Forrest,Westside,108
 Maryra Hodges Hunt,Secretary of State,,D,Forrest,Westside,19
@@ -1527,53 +1527,53 @@ Robert E Amos,Commissioner of Insurance,,D,Forrest,Westside,105
 Duan Barnett,State Senate,34,D,Forrest,Westside,1
 Deborah Denard Delgado,State Senate,34,D,Forrest,Westside,9
 Brandon Terrion Rue,State House,102,D,Forrest,Westside,56
-Edward Hargrove Jr. ,State House,103,D,Forrest,Westside,8
+Edward Hargrove Jr.,State House,103,D,Forrest,Westside,8
 Percy W Watson,State House,103,D,Forrest,Westside,47
-Robert Foster,Governor ,,R,Forrest,TOTAL ,1587
-Tate Reeves,Governor ,,R,Forrest,TOTAL ,5362
-Bill Waller Jr.,Governor ,,R,Forrest,TOTAL ,4734
-Delbert Hosemann,Lieutenant Governor,,R,Forrest,TOTAL ,10000
-Shane Quick,Lieutenant Governor,,R,Forrest,TOTAL ,1113
-Sam Britton,Secretary of State,,R,Forrest,TOTAL ,6193
-Michael Watson,Secretary of State,,R,Forrest,TOTAL ,4891
-Mark Baker,Attorney General,,R,Forrest,TOTAL ,3275
-Lynn Fitch,Attorney General,,R,Forrest,TOTAL ,5435
-Andy Taggart,Attorney General,,R,Forrest,TOTAL ,2539
-Shad White,State Auditor,,R,Forrest,TOTAL ,10380
-Eugene S. 'Buck' Clarke,State Treasurer,,R,Forrest,TOTAL ,4545
-David McRae,State Treasurer,,R,Forrest,TOTAL ,6477
-Andy Gipson,Commissioner of Agriculture & Commerce,,R,Forrest,TOTAL ,10622
-Mike Chaney,Commissioner of Insurance,,R,Forrest,TOTAL ,10734
-Steven L Wade,State Senate,34,R,Forrest,TOTAL ,690
-Joey Fillingane ,State Senate,41,R,Forrest,TOTAL ,275
-Chris McDaniel,State Senate,42,R,Forrest,TOTAL ,2452
-Chris Johnson,State Senate,45,R,Forrest,TOTAL ,7169
-William E 'Billy' Andrews III,State House,87,R,Forrest,TOTAL ,764
-Trey Harvison,State House,87,R,Forrest,TOTAL ,156
-Ricardo Musslett,State House,87,R,Forrest,TOTAL ,533
-Joseph 'Bubba' Tubb,State House,87,R,Forrest,TOTAL ,434
-Missy Warren McGee,State House,102,R,Forrest,TOTAL ,2747
-Larry Byrd ,State House,104,R,Forrest,TOTAL ,5354
-Michael Brown,Governor ,,D,Forrest,TOTAL ,516
-William Bond Compton Jr.,Governor ,,D,Forrest,TOTAL ,41
-Jim Hood,Governor ,,D,Forrest,TOTAL ,3205
-Robert J. Ray,Governor ,,D,Forrest,TOTAL ,37
-Robert Shuler Smith,Governor ,,D,Forrest,TOTAL ,132
-Gregory Wash,Governor ,,D,Forrest,TOTAL ,37
-Velesha P Williams,Governor ,,D,Forrest,TOTAL ,490
-Albert Wilson,Governor ,,D,Forrest,TOTAL ,41
-Jay Hughes,Lieutenant Governor,,D,Forrest,TOTAL ,3633
-Johnny DuPree,Secretary of State,,D,Forrest,TOTAL ,3948
-Maryra Hodges Hunt,Secretary of State,,D,Forrest,TOTAL ,551
-Jennifer Riley Collins,Attorney General,,D,Forrest,TOTAL ,3700
-Addie Lee Green,State Treasurer,,D,Forrest,TOTAL ,3659
-Rickey L Cole,Commissioner of Agriculture & Commerce,,D,Forrest,TOTAL ,3721
-Robert E Amos,Commissioner of Insurance,,D,Forrest,TOTAL ,3719
-Duan Barnett,State Senate,34,D,Forrest,TOTAL ,579
-Deborah Denard Delgado,State Senate,34,D,Forrest,TOTAL ,1644
-Brandon Terrion Rue,State House,102,D,Forrest,TOTAL ,977
-Edward Hargrove Jr. ,State House,103,D,Forrest,TOTAL ,315
-Percy W Watson,State House,103,D,Forrest,TOTAL ,2292
+Robert Foster,Governor,,R,Forrest,TOTAL,1587
+Tate Reeves,Governor,,R,Forrest,TOTAL,5362
+Bill Waller Jr.,Governor,,R,Forrest,TOTAL,4734
+Delbert Hosemann,Lieutenant Governor,,R,Forrest,TOTAL,10000
+Shane Quick,Lieutenant Governor,,R,Forrest,TOTAL,1113
+Sam Britton,Secretary of State,,R,Forrest,TOTAL,6193
+Michael Watson,Secretary of State,,R,Forrest,TOTAL,4891
+Mark Baker,Attorney General,,R,Forrest,TOTAL,3275
+Lynn Fitch,Attorney General,,R,Forrest,TOTAL,5435
+Andy Taggart,Attorney General,,R,Forrest,TOTAL,2539
+Shad White,State Auditor,,R,Forrest,TOTAL,10380
+Eugene S. 'Buck' Clarke,State Treasurer,,R,Forrest,TOTAL,4545
+David McRae,State Treasurer,,R,Forrest,TOTAL,6477
+Andy Gipson,Commissioner of Agriculture & Commerce,,R,Forrest,TOTAL,10622
+Mike Chaney,Commissioner of Insurance,,R,Forrest,TOTAL,10734
+Steven L Wade,State Senate,34,R,Forrest,TOTAL,690
+Joey Fillingane,State Senate,41,R,Forrest,TOTAL,275
+Chris McDaniel,State Senate,42,R,Forrest,TOTAL,2452
+Chris Johnson,State Senate,45,R,Forrest,TOTAL,7169
+William E 'Billy' Andrews III,State House,87,R,Forrest,TOTAL,764
+Trey Harvison,State House,87,R,Forrest,TOTAL,156
+Ricardo Musslett,State House,87,R,Forrest,TOTAL,533
+Joseph 'Bubba' Tubb,State House,87,R,Forrest,TOTAL,434
+Missy Warren McGee,State House,102,R,Forrest,TOTAL,2747
+Larry Byrd,State House,104,R,Forrest,TOTAL,5354
+Michael Brown,Governor,,D,Forrest,TOTAL,516
+William Bond Compton Jr.,Governor,,D,Forrest,TOTAL,41
+Jim Hood,Governor,,D,Forrest,TOTAL,3205
+Robert J. Ray,Governor,,D,Forrest,TOTAL,37
+Robert Shuler Smith,Governor,,D,Forrest,TOTAL,132
+Gregory Wash,Governor,,D,Forrest,TOTAL,37
+Velesha P Williams,Governor,,D,Forrest,TOTAL,490
+Albert Wilson,Governor,,D,Forrest,TOTAL,41
+Jay Hughes,Lieutenant Governor,,D,Forrest,TOTAL,3633
+Johnny DuPree,Secretary of State,,D,Forrest,TOTAL,3948
+Maryra Hodges Hunt,Secretary of State,,D,Forrest,TOTAL,551
+Jennifer Riley Collins,Attorney General,,D,Forrest,TOTAL,3700
+Addie Lee Green,State Treasurer,,D,Forrest,TOTAL,3659
+Rickey L Cole,Commissioner of Agriculture & Commerce,,D,Forrest,TOTAL,3721
+Robert E Amos,Commissioner of Insurance,,D,Forrest,TOTAL,3719
+Duan Barnett,State Senate,34,D,Forrest,TOTAL,579
+Deborah Denard Delgado,State Senate,34,D,Forrest,TOTAL,1644
+Brandon Terrion Rue,State House,102,D,Forrest,TOTAL,977
+Edward Hargrove Jr.,State House,103,D,Forrest,TOTAL,315
+Percy W Watson,State House,103,D,Forrest,TOTAL,2292
 ,,,,,,
 ,,,,,,
 ,,,,,,
