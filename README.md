@@ -7,7 +7,7 @@ Converted CSVs of Mississippi election results.
 
 | year  | general  | primary  |
 |---|---|---|
-| 2019  |  N/A | done |
+| 2019  | [working](https://github.com/openelections/openelections-data-ms/issues/111) | done |
 | 2018  |  done | done |
 | 2016  | done  |  done |
 | 2015  | done  |  [working](https://github.com/openelections/openelections-data-ms/issues/33) |
