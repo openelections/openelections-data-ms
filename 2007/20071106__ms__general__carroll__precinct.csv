@@ -1,0 +1,535 @@
+county,precinct,office,district,Candidate,party,votes
+Carroll,430 School - BS 3,Governor,,"Eaves, Jr.,John A.",DEM,136
+Carroll,430 School - BS 6,Governor,,"Eaves, Jr.,John A.",DEM,49
+Carroll,North Carrollton - BS 4,Governor,,"Eaves, Jr.,John A.",DEM,1
+Carroll,North Carrollton - BS 5,Governor,,"Eaves, Jr.,John A.",DEM,100
+Carroll,North Carrollton - BS 10,Governor,,"Eaves, Jr.,John A.",DEM,71
+Carroll,Black Hawk,Governor,,"Eaves, Jr.,John A.",DEM,51
+Carroll,Calvary,Governor,,"Eaves, Jr.,John A.",DEM,15
+Carroll,Carrollton,Governor,,"Eaves, Jr.,John A.",DEM,33
+Carroll,East Vaiden,Governor,,"Eaves, Jr.,John A.",DEM,224
+Carroll,Fire Tower,Governor,,"Eaves, Jr.,John A.",DEM,232
+Carroll,Gravel Hill,Governor,,"Eaves, Jr.,John A.",DEM,53
+Carroll,Rays Shop,Governor,,"Eaves, Jr.,John A.",DEM,122
+Carroll,Salem,Governor,,"Eaves, Jr.,John A.",DEM,81
+Carroll,West Carroll,Governor,,"Eaves, Jr.,John A.",DEM,47
+Carroll,West Vaiden,Governor,,"Eaves, Jr.,John A.",DEM,156
+Carroll,Mccarley,Governor,,"Eaves, Jr.,John A.",DEM,88
+Carroll,Jefferson,Governor,,"Eaves, Jr.,John A.",DEM,30
+Carroll,Total,Governor,,"Eaves, Jr.,John A.",DEM,1489
+Carroll,430 School - BS 3,Governor,,"Barbour, Haley",REP,49
+Carroll,430 School - BS 6,Governor,,"Barbour, Haley",REP,26
+Carroll,North Carrollton - BS 4,Governor,,"Barbour, Haley",REP,21
+Carroll,North Carrollton - BS 5,Governor,,"Barbour, Haley",REP,43
+Carroll,North Carrollton - BS 10,Governor,,"Barbour, Haley",REP,166
+Carroll,Black Hawk,Governor,,"Barbour, Haley",REP,127
+Carroll,Calvary,Governor,,"Barbour, Haley",REP,40
+Carroll,Carrollton,Governor,,"Barbour, Haley",REP,183
+Carroll,East Vaiden,Governor,,"Barbour, Haley",REP,282
+Carroll,Fire Tower,Governor,,"Barbour, Haley",REP,140
+Carroll,Gravel Hill,Governor,,"Barbour, Haley",REP,233
+Carroll,Rays Shop,Governor,,"Barbour, Haley",REP,534
+Carroll,Salem,Governor,,"Barbour, Haley",REP,57
+Carroll,West Carroll,Governor,,"Barbour, Haley",REP,258
+Carroll,West Vaiden,Governor,,"Barbour, Haley",REP,182
+Carroll,Mccarley,Governor,,"Barbour, Haley",REP,137
+Carroll,Jefferson,Governor,,"Barbour, Haley",REP,72
+Carroll,Total,Governor,,"Barbour, Haley",REP,2550
+Carroll,430 School - BS 3,Governor,,Write-In,,0
+Carroll,430 School - BS 6,Governor,,Write-In,,0
+Carroll,North Carrollton - BS 4,Governor,,Write-In,,0
+Carroll,North Carrollton - BS 5,Governor,,Write-In,,0
+Carroll,North Carrollton - BS 10,Governor,,Write-In,,0
+Carroll,Black Hawk,Governor,,Write-In,,0
+Carroll,Calvary,Governor,,Write-In,,0
+Carroll,Carrollton,Governor,,Write-In,,0
+Carroll,East Vaiden,Governor,,Write-In,,0
+Carroll,Fire Tower,Governor,,Write-In,,0
+Carroll,Gravel Hill,Governor,,Write-In,,0
+Carroll,Rays Shop,Governor,,Write-In,,0
+Carroll,Salem,Governor,,Write-In,,0
+Carroll,West Carroll,Governor,,Write-In,,0
+Carroll,West Vaiden,Governor,,Write-In,,0
+Carroll,Mccarley,Governor,,Write-In,,2
+Carroll,Jefferson,Governor,,Write-In,,0
+Carroll,Total,Governor,,Write-In,,2
+Carroll,430 School - BS 3,Lieutenant Governor,,"Franks, Jr.,Jamie",DEM,120
+Carroll,430 School - BS 6,Lieutenant Governor,,"Franks, Jr.,Jamie",DEM,39
+Carroll,North Carrollton - BS 4,Lieutenant Governor,,"Franks, Jr.,Jamie",DEM,3
+Carroll,North Carrollton - BS 5,Lieutenant Governor,,"Franks, Jr.,Jamie",DEM,90
+Carroll,North Carrollton - BS 10,Lieutenant Governor,,"Franks, Jr.,Jamie",DEM,51
+Carroll,Black Hawk,Lieutenant Governor,,"Franks, Jr.,Jamie",DEM,44
+Carroll,Calvary,Lieutenant Governor,,"Franks, Jr.,Jamie",DEM,9
+Carroll,Carrollton,Lieutenant Governor,,"Franks, Jr.,Jamie",DEM,33
+Carroll,East Vaiden,Lieutenant Governor,,"Franks, Jr.,Jamie",DEM,191
+Carroll,Fire Tower,Lieutenant Governor,,"Franks, Jr.,Jamie",DEM,208
+Carroll,Gravel Hill,Lieutenant Governor,,"Franks, Jr.,Jamie",DEM,53
+Carroll,Rays Shop,Lieutenant Governor,,"Franks, Jr.,Jamie",DEM,123
+Carroll,Salem,Lieutenant Governor,,"Franks, Jr.,Jamie",DEM,81
+Carroll,West Carroll,Lieutenant Governor,,"Franks, Jr.,Jamie",DEM,47
+Carroll,West Vaiden,Lieutenant Governor,,"Franks, Jr.,Jamie",DEM,144
+Carroll,Mccarley,Lieutenant Governor,,"Franks, Jr.,Jamie",DEM,87
+Carroll,Jefferson,Lieutenant Governor,,"Franks, Jr.,Jamie",DEM,27
+Carroll,Total,Lieutenant Governor,,"Franks, Jr.,Jamie",DEM,1350
+Carroll,430 School - BS 3,Lieutenant Governor,,"Bryant, Phil",REP,63
+Carroll,430 School - BS 6,Lieutenant Governor,,"Bryant, Phil",REP,32
+Carroll,North Carrollton - BS 4,Lieutenant Governor,,"Bryant, Phil",REP,19
+Carroll,North Carrollton - BS 5,Lieutenant Governor,,"Bryant, Phil",REP,50
+Carroll,North Carrollton - BS 10,Lieutenant Governor,,"Bryant, Phil",REP,184
+Carroll,Black Hawk,Lieutenant Governor,,"Bryant, Phil",REP,134
+Carroll,Calvary,Lieutenant Governor,,"Bryant, Phil",REP,47
+Carroll,Carrollton,Lieutenant Governor,,"Bryant, Phil",REP,182
+Carroll,East Vaiden,Lieutenant Governor,,"Bryant, Phil",REP,308
+Carroll,Fire Tower,Lieutenant Governor,,"Bryant, Phil",REP,158
+Carroll,Gravel Hill,Lieutenant Governor,,"Bryant, Phil",REP,231
+Carroll,Rays Shop,Lieutenant Governor,,"Bryant, Phil",REP,533
+Carroll,Salem,Lieutenant Governor,,"Bryant, Phil",REP,54
+Carroll,West Carroll,Lieutenant Governor,,"Bryant, Phil",REP,257
+Carroll,West Vaiden,Lieutenant Governor,,"Bryant, Phil",REP,185
+Carroll,Mccarley,Lieutenant Governor,,"Bryant, Phil",REP,138
+Carroll,Jefferson,Lieutenant Governor,,"Bryant, Phil",REP,75
+Carroll,Total,Lieutenant Governor,,"Bryant, Phil",REP,2650
+Carroll,430 School - BS 3,Lieutenant Governor,,Write-In,,0
+Carroll,430 School - BS 6,Lieutenant Governor,,Write-In,,0
+Carroll,North Carrollton - BS 4,Lieutenant Governor,,Write-In,,0
+Carroll,North Carrollton - BS 5,Lieutenant Governor,,Write-In,,0
+Carroll,North Carrollton - BS 10,Lieutenant Governor,,Write-In,,0
+Carroll,Black Hawk,Lieutenant Governor,,Write-In,,0
+Carroll,Calvary,Lieutenant Governor,,Write-In,,0
+Carroll,Carrollton,Lieutenant Governor,,Write-In,,0
+Carroll,East Vaiden,Lieutenant Governor,,Write-In,,0
+Carroll,Fire Tower,Lieutenant Governor,,Write-In,,0
+Carroll,Gravel Hill,Lieutenant Governor,,Write-In,,0
+Carroll,Rays Shop,Lieutenant Governor,,Write-In,,0
+Carroll,Salem,Lieutenant Governor,,Write-In,,0
+Carroll,West Carroll,Lieutenant Governor,,Write-In,,0
+Carroll,West Vaiden,Lieutenant Governor,,Write-In,,0
+Carroll,Mccarley,Lieutenant Governor,,Write-In,,0
+Carroll,Jefferson,Lieutenant Governor,,Write-In,,0
+Carroll,Total,Lieutenant Governor,,Write-In,,0
+Carroll,430 School - BS 3,Secretary of State,,"Smith, Rob",DEM,132
+Carroll,430 School - BS 6,Secretary of State,,"Smith, Rob",DEM,47
+Carroll,North Carrollton - BS 4,Secretary of State,,"Smith, Rob",DEM,5
+Carroll,North Carrollton - BS 5,Secretary of State,,"Smith, Rob",DEM,106
+Carroll,North Carrollton - BS 10,Secretary of State,,"Smith, Rob",DEM,70
+Carroll,Black Hawk,Secretary of State,,"Smith, Rob",DEM,60
+Carroll,Calvary,Secretary of State,,"Smith, Rob",DEM,8
+Carroll,Carrollton,Secretary of State,,"Smith, Rob",DEM,41
+Carroll,East Vaiden,Secretary of State,,"Smith, Rob",DEM,246
+Carroll,Fire Tower,Secretary of State,,"Smith, Rob",DEM,232
+Carroll,Gravel Hill,Secretary of State,,"Smith, Rob",DEM,75
+Carroll,Rays Shop,Secretary of State,,"Smith, Rob",DEM,139
+Carroll,Salem,Secretary of State,,"Smith, Rob",DEM,86
+Carroll,West Carroll,Secretary of State,,"Smith, Rob",DEM,48
+Carroll,West Vaiden,Secretary of State,,"Smith, Rob",DEM,165
+Carroll,Mccarley,Secretary of State,,"Smith, Rob",DEM,95
+Carroll,Jefferson,Secretary of State,,"Smith, Rob",DEM,37
+Carroll,Total,Secretary of State,,"Smith, Rob",DEM,1592
+Carroll,430 School - BS 3,Secretary of State,,"Hosemann, Delbert",REP,42
+Carroll,430 School - BS 6,Secretary of State,,"Hosemann, Delbert",REP,25
+Carroll,North Carrollton - BS 4,Secretary of State,,"Hosemann, Delbert",REP,17
+Carroll,North Carrollton - BS 5,Secretary of State,,"Hosemann, Delbert",REP,35
+Carroll,North Carrollton - BS 10,Secretary of State,,"Hosemann, Delbert",REP,165
+Carroll,Black Hawk,Secretary of State,,"Hosemann, Delbert",REP,114
+Carroll,Calvary,Secretary of State,,"Hosemann, Delbert",REP,46
+Carroll,Carrollton,Secretary of State,,"Hosemann, Delbert",REP,168
+Carroll,East Vaiden,Secretary of State,,"Hosemann, Delbert",REP,242
+Carroll,Fire Tower,Secretary of State,,"Hosemann, Delbert",REP,131
+Carroll,Gravel Hill,Secretary of State,,"Hosemann, Delbert",REP,202
+Carroll,Rays Shop,Secretary of State,,"Hosemann, Delbert",REP,511
+Carroll,Salem,Secretary of State,,"Hosemann, Delbert",REP,46
+Carroll,West Carroll,Secretary of State,,"Hosemann, Delbert",REP,254
+Carroll,West Vaiden,Secretary of State,,"Hosemann, Delbert",REP,164
+Carroll,Mccarley,Secretary of State,,"Hosemann, Delbert",REP,127
+Carroll,Jefferson,Secretary of State,,"Hosemann, Delbert",REP,63
+Carroll,Total,Secretary of State,,"Hosemann, Delbert",REP,2352
+Carroll,430 School - BS 3,Secretary of State,,Write-In,,0
+Carroll,430 School - BS 6,Secretary of State,,Write-In,,0
+Carroll,North Carrollton - BS 4,Secretary of State,,Write-In,,0
+Carroll,North Carrollton - BS 5,Secretary of State,,Write-In,,0
+Carroll,North Carrollton - BS 10,Secretary of State,,Write-In,,0
+Carroll,Black Hawk,Secretary of State,,Write-In,,0
+Carroll,Calvary,Secretary of State,,Write-In,,0
+Carroll,Carrollton,Secretary of State,,Write-In,,0
+Carroll,East Vaiden,Secretary of State,,Write-In,,0
+Carroll,Fire Tower,Secretary of State,,Write-In,,1
+Carroll,Gravel Hill,Secretary of State,,Write-In,,0
+Carroll,Rays Shop,Secretary of State,,Write-In,,0
+Carroll,Salem,Secretary of State,,Write-In,,0
+Carroll,West Carroll,Secretary of State,,Write-In,,0
+Carroll,West Vaiden,Secretary of State,,Write-In,,0
+Carroll,Mccarley,Secretary of State,,Write-In,,0
+Carroll,Jefferson,Secretary of State,,Write-In,,0
+Carroll,Total,Secretary of State,,Write-In,,1
+Carroll,430 School - BS 3,Attorney General,,"Hood, Jim",DEM,148
+Carroll,430 School - BS 6,Attorney General,,"Hood, Jim",DEM,53
+Carroll,North Carrollton - BS 4,Attorney General,,"Hood, Jim",DEM,9
+Carroll,North Carrollton - BS 5,Attorney General,,"Hood, Jim",DEM,113
+Carroll,North Carrollton - BS 10,Attorney General,,"Hood, Jim",DEM,108
+Carroll,Black Hawk,Attorney General,,"Hood, Jim",DEM,84
+Carroll,Calvary,Attorney General,,"Hood, Jim",DEM,22
+Carroll,Carrollton,Attorney General,,"Hood, Jim",DEM,74
+Carroll,East Vaiden,Attorney General,,"Hood, Jim",DEM,287
+Carroll,Fire Tower,Attorney General,,"Hood, Jim",DEM,260
+Carroll,Gravel Hill,Attorney General,,"Hood, Jim",DEM,115
+Carroll,Rays Shop,Attorney General,,"Hood, Jim",DEM,274
+Carroll,Salem,Attorney General,,"Hood, Jim",DEM,88
+Carroll,West Carroll,Attorney General,,"Hood, Jim",DEM,105
+Carroll,West Vaiden,Attorney General,,"Hood, Jim",DEM,214
+Carroll,Mccarley,Attorney General,,"Hood, Jim",DEM,124
+Carroll,Jefferson,Attorney General,,"Hood, Jim",DEM,56
+Carroll,Total,Attorney General,,"Hood, Jim",DEM,2134
+Carroll,430 School - BS 3,Attorney General,,"Hopkins, Al",REP,35
+Carroll,430 School - BS 6,Attorney General,,"Hopkins, Al",REP,20
+Carroll,North Carrollton - BS 4,Attorney General,,"Hopkins, Al",REP,13
+Carroll,North Carrollton - BS 5,Attorney General,,"Hopkins, Al",REP,28
+Carroll,North Carrollton - BS 10,Attorney General,,"Hopkins, Al",REP,129
+Carroll,Black Hawk,Attorney General,,"Hopkins, Al",REP,92
+Carroll,Calvary,Attorney General,,"Hopkins, Al",REP,34
+Carroll,Carrollton,Attorney General,,"Hopkins, Al",REP,139
+Carroll,East Vaiden,Attorney General,,"Hopkins, Al",REP,207
+Carroll,Fire Tower,Attorney General,,"Hopkins, Al",REP,106
+Carroll,Gravel Hill,Attorney General,,"Hopkins, Al",REP,168
+Carroll,Rays Shop,Attorney General,,"Hopkins, Al",REP,383
+Carroll,Salem,Attorney General,,"Hopkins, Al",REP,45
+Carroll,West Carroll,Attorney General,,"Hopkins, Al",REP,198
+Carroll,West Vaiden,Attorney General,,"Hopkins, Al",REP,119
+Carroll,Mccarley,Attorney General,,"Hopkins, Al",REP,101
+Carroll,Jefferson,Attorney General,,"Hopkins, Al",REP,45
+Carroll,Total,Attorney General,,"Hopkins, Al",REP,1862
+Carroll,430 School - BS 3,Attorney General,,Write-In,,0
+Carroll,430 School - BS 6,Attorney General,,Write-In,,0
+Carroll,North Carrollton - BS 4,Attorney General,,Write-In,,0
+Carroll,North Carrollton - BS 5,Attorney General,,Write-In,,0
+Carroll,North Carrollton - BS 10,Attorney General,,Write-In,,0
+Carroll,Black Hawk,Attorney General,,Write-In,,0
+Carroll,Calvary,Attorney General,,Write-In,,0
+Carroll,Carrollton,Attorney General,,Write-In,,0
+Carroll,East Vaiden,Attorney General,,Write-In,,0
+Carroll,Fire Tower,Attorney General,,Write-In,,0
+Carroll,Gravel Hill,Attorney General,,Write-In,,0
+Carroll,Rays Shop,Attorney General,,Write-In,,0
+Carroll,Salem,Attorney General,,Write-In,,0
+Carroll,West Carroll,Attorney General,,Write-In,,0
+Carroll,West Vaiden,Attorney General,,Write-In,,0
+Carroll,Mccarley,Attorney General,,Write-In,,0
+Carroll,Jefferson,Attorney General,,Write-In,,1
+Carroll,Total,Attorney General,,Write-In,,1
+Carroll,430 School - BS 3,State Auditor,,"Sumrall, Mike",DEM,142
+Carroll,430 School - BS 6,State Auditor,,"Sumrall, Mike",DEM,46
+Carroll,North Carrollton - BS 4,State Auditor,,"Sumrall, Mike",DEM,7
+Carroll,North Carrollton - BS 5,State Auditor,,"Sumrall, Mike",DEM,116
+Carroll,North Carrollton - BS 10,State Auditor,,"Sumrall, Mike",DEM,103
+Carroll,Black Hawk,State Auditor,,"Sumrall, Mike",DEM,77
+Carroll,Calvary,State Auditor,,"Sumrall, Mike",DEM,21
+Carroll,Carrollton,State Auditor,,"Sumrall, Mike",DEM,91
+Carroll,East Vaiden,State Auditor,,"Sumrall, Mike",DEM,282
+Carroll,Fire Tower,State Auditor,,"Sumrall, Mike",DEM,245
+Carroll,Gravel Hill,State Auditor,,"Sumrall, Mike",DEM,91
+Carroll,Rays Shop,State Auditor,,"Sumrall, Mike",DEM,276
+Carroll,Salem,State Auditor,,"Sumrall, Mike",DEM,86
+Carroll,West Carroll,State Auditor,,"Sumrall, Mike",DEM,80
+Carroll,West Vaiden,State Auditor,,"Sumrall, Mike",DEM,189
+Carroll,Mccarley,State Auditor,,"Sumrall, Mike",DEM,135
+Carroll,Jefferson,State Auditor,,"Sumrall, Mike",DEM,46
+Carroll,Total,State Auditor,,"Sumrall, Mike",DEM,2033
+Carroll,430 School - BS 3,State Auditor,,"Pickering, Stacey E.",REP,37
+Carroll,430 School - BS 6,State Auditor,,"Pickering, Stacey E.",REP,25
+Carroll,North Carrollton - BS 4,State Auditor,,"Pickering, Stacey E.",REP,15
+Carroll,North Carrollton - BS 5,State Auditor,,"Pickering, Stacey E.",REP,24
+Carroll,North Carrollton - BS 10,State Auditor,,"Pickering, Stacey E.",REP,129
+Carroll,Black Hawk,State Auditor,,"Pickering, Stacey E.",REP,95
+Carroll,Calvary,State Auditor,,"Pickering, Stacey E.",REP,34
+Carroll,Carrollton,State Auditor,,"Pickering, Stacey E.",REP,123
+Carroll,East Vaiden,State Auditor,,"Pickering, Stacey E.",REP,203
+Carroll,Fire Tower,State Auditor,,"Pickering, Stacey E.",REP,119
+Carroll,Gravel Hill,State Auditor,,"Pickering, Stacey E.",REP,181
+Carroll,Rays Shop,State Auditor,,"Pickering, Stacey E.",REP,375
+Carroll,Salem,State Auditor,,"Pickering, Stacey E.",REP,47
+Carroll,West Carroll,State Auditor,,"Pickering, Stacey E.",REP,220
+Carroll,West Vaiden,State Auditor,,"Pickering, Stacey E.",REP,141
+Carroll,Mccarley,State Auditor,,"Pickering, Stacey E.",REP,86
+Carroll,Jefferson,State Auditor,,"Pickering, Stacey E.",REP,56
+Carroll,Total,State Auditor,,"Pickering, Stacey E.",REP,1910
+Carroll,430 School - BS 3,State Auditor,,Write-In,,0
+Carroll,430 School - BS 6,State Auditor,,Write-In,,0
+Carroll,North Carrollton - BS 4,State Auditor,,Write-In,,0
+Carroll,North Carrollton - BS 5,State Auditor,,Write-In,,0
+Carroll,North Carrollton - BS 10,State Auditor,,Write-In,,0
+Carroll,Black Hawk,State Auditor,,Write-In,,0
+Carroll,Calvary,State Auditor,,Write-In,,0
+Carroll,Carrollton,State Auditor,,Write-In,,0
+Carroll,East Vaiden,State Auditor,,Write-In,,0
+Carroll,Fire Tower,State Auditor,,Write-In,,0
+Carroll,Gravel Hill,State Auditor,,Write-In,,0
+Carroll,Rays Shop,State Auditor,,Write-In,,0
+Carroll,Salem,State Auditor,,Write-In,,0
+Carroll,West Carroll,State Auditor,,Write-In,,0
+Carroll,West Vaiden,State Auditor,,Write-In,,0
+Carroll,Mccarley,State Auditor,,Write-In,,0
+Carroll,Jefferson,State Auditor,,Write-In,,0
+Carroll,Total,State Auditor,,Write-In,,0
+Carroll,430 School - BS 3,State Treasurer,,"O'Hara, Shawn",DEM,121
+Carroll,430 School - BS 6,State Treasurer,,"O'Hara, Shawn",DEM,44
+Carroll,North Carrollton - BS 4,State Treasurer,,"O'Hara, Shawn",DEM,1
+Carroll,North Carrollton - BS 5,State Treasurer,,"O'Hara, Shawn",DEM,93
+Carroll,North Carrollton - BS 10,State Treasurer,,"O'Hara, Shawn",DEM,51
+Carroll,Black Hawk,State Treasurer,,"O'Hara, Shawn",DEM,51
+Carroll,Calvary,State Treasurer,,"O'Hara, Shawn",DEM,9
+Carroll,Carrollton,State Treasurer,,"O'Hara, Shawn",DEM,28
+Carroll,East Vaiden,State Treasurer,,"O'Hara, Shawn",DEM,192
+Carroll,Fire Tower,State Treasurer,,"O'Hara, Shawn",DEM,219
+Carroll,Gravel Hill,State Treasurer,,"O'Hara, Shawn",DEM,48
+Carroll,Rays Shop,State Treasurer,,"O'Hara, Shawn",DEM,111
+Carroll,Salem,State Treasurer,,"O'Hara, Shawn",DEM,75
+Carroll,West Carroll,State Treasurer,,"O'Hara, Shawn",DEM,51
+Carroll,West Vaiden,State Treasurer,,"O'Hara, Shawn",DEM,145
+Carroll,Mccarley,State Treasurer,,"O'Hara, Shawn",DEM,85
+Carroll,Jefferson,State Treasurer,,"O'Hara, Shawn",DEM,25
+Carroll,Total,State Treasurer,,"O'Hara, Shawn",DEM,1349
+Carroll,430 School - BS 3,State Treasurer,,"Reeves, Tate",REP,55
+Carroll,430 School - BS 6,State Treasurer,,"Reeves, Tate",REP,28
+Carroll,North Carrollton - BS 4,State Treasurer,,"Reeves, Tate",REP,21
+Carroll,North Carrollton - BS 5,State Treasurer,,"Reeves, Tate",REP,46
+Carroll,North Carrollton - BS 10,State Treasurer,,"Reeves, Tate",REP,181
+Carroll,Black Hawk,State Treasurer,,"Reeves, Tate",REP,123
+Carroll,Calvary,State Treasurer,,"Reeves, Tate",REP,46
+Carroll,Carrollton,State Treasurer,,"Reeves, Tate",REP,182
+Carroll,East Vaiden,State Treasurer,,"Reeves, Tate",REP,288
+Carroll,Fire Tower,State Treasurer,,"Reeves, Tate",REP,143
+Carroll,Gravel Hill,State Treasurer,,"Reeves, Tate",REP,227
+Carroll,Rays Shop,State Treasurer,,"Reeves, Tate",REP,535
+Carroll,Salem,State Treasurer,,"Reeves, Tate",REP,57
+Carroll,West Carroll,State Treasurer,,"Reeves, Tate",REP,250
+Carroll,West Vaiden,State Treasurer,,"Reeves, Tate",REP,183
+Carroll,Mccarley,State Treasurer,,"Reeves, Tate",REP,135
+Carroll,Jefferson,State Treasurer,,"Reeves, Tate",REP,76
+Carroll,Total,State Treasurer,,"Reeves, Tate",REP,2576
+Carroll,430 School - BS 3,State Treasurer,,Write-In,,0
+Carroll,430 School - BS 6,State Treasurer,,Write-In,,0
+Carroll,North Carrollton - BS 4,State Treasurer,,Write-In,,0
+Carroll,North Carrollton - BS 5,State Treasurer,,Write-In,,0
+Carroll,North Carrollton - BS 10,State Treasurer,,Write-In,,0
+Carroll,Black Hawk,State Treasurer,,Write-In,,0
+Carroll,Calvary,State Treasurer,,Write-In,,0
+Carroll,Carrollton,State Treasurer,,Write-In,,0
+Carroll,East Vaiden,State Treasurer,,Write-In,,0
+Carroll,Fire Tower,State Treasurer,,Write-In,,1
+Carroll,Gravel Hill,State Treasurer,,Write-In,,0
+Carroll,Rays Shop,State Treasurer,,Write-In,,0
+Carroll,Salem,State Treasurer,,Write-In,,0
+Carroll,West Carroll,State Treasurer,,Write-In,,0
+Carroll,West Vaiden,State Treasurer,,Write-In,,0
+Carroll,Mccarley,State Treasurer,,Write-In,,0
+Carroll,Jefferson,State Treasurer,,Write-In,,0
+Carroll,Total,State Treasurer,,Write-In,,1
+Carroll,430 School - BS 3,Commissioner of Agriculture & Commerce,,"Cole, Ricky L.",DEM,133
+Carroll,430 School - BS 6,Commissioner of Agriculture & Commerce,,"Cole, Ricky L.",DEM,47
+Carroll,North Carrollton - BS 4,Commissioner of Agriculture & Commerce,,"Cole, Ricky L.",DEM,5
+Carroll,North Carrollton - BS 5,Commissioner of Agriculture & Commerce,,"Cole, Ricky L.",DEM,95
+Carroll,North Carrollton - BS 10,Commissioner of Agriculture & Commerce,,"Cole, Ricky L.",DEM,83
+Carroll,Black Hawk,Commissioner of Agriculture & Commerce,,"Cole, Ricky L.",DEM,56
+Carroll,Calvary,Commissioner of Agriculture & Commerce,,"Cole, Ricky L.",DEM,15
+Carroll,Carrollton,Commissioner of Agriculture & Commerce,,"Cole, Ricky L.",DEM,64
+Carroll,East Vaiden,Commissioner of Agriculture & Commerce,,"Cole, Ricky L.",DEM,261
+Carroll,Fire Tower,Commissioner of Agriculture & Commerce,,"Cole, Ricky L.",DEM,233
+Carroll,Gravel Hill,Commissioner of Agriculture & Commerce,,"Cole, Ricky L.",DEM,99
+Carroll,Rays Shop,Commissioner of Agriculture & Commerce,,"Cole, Ricky L.",DEM,177
+Carroll,Salem,Commissioner of Agriculture & Commerce,,"Cole, Ricky L.",DEM,89
+Carroll,West Carroll,Commissioner of Agriculture & Commerce,,"Cole, Ricky L.",DEM,90
+Carroll,West Vaiden,Commissioner of Agriculture & Commerce,,"Cole, Ricky L.",DEM,194
+Carroll,Mccarley,Commissioner of Agriculture & Commerce,,"Cole, Ricky L.",DEM,113
+Carroll,Jefferson,Commissioner of Agriculture & Commerce,,"Cole, Ricky L.",DEM,40
+Carroll,Total,Commissioner of Agriculture & Commerce,,"Cole, Ricky L.",DEM,1794
+Carroll,430 School - BS 3,Commissioner of Agriculture & Commerce,,"Spell, Lester",REP,35
+Carroll,430 School - BS 6,Commissioner of Agriculture & Commerce,,"Spell, Lester",REP,18
+Carroll,North Carrollton - BS 4,Commissioner of Agriculture & Commerce,,"Spell, Lester",REP,14
+Carroll,North Carrollton - BS 5,Commissioner of Agriculture & Commerce,,"Spell, Lester",REP,37
+Carroll,North Carrollton - BS 10,Commissioner of Agriculture & Commerce,,"Spell, Lester",REP,118
+Carroll,Black Hawk,Commissioner of Agriculture & Commerce,,"Spell, Lester",REP,105
+Carroll,Calvary,Commissioner of Agriculture & Commerce,,"Spell, Lester",REP,22
+Carroll,Carrollton,Commissioner of Agriculture & Commerce,,"Spell, Lester",REP,102
+Carroll,East Vaiden,Commissioner of Agriculture & Commerce,,"Spell, Lester",REP,207
+Carroll,Fire Tower,Commissioner of Agriculture & Commerce,,"Spell, Lester",REP,89
+Carroll,Gravel Hill,Commissioner of Agriculture & Commerce,,"Spell, Lester",REP,153
+Carroll,Rays Shop,Commissioner of Agriculture & Commerce,,"Spell, Lester",REP,387
+Carroll,Salem,Commissioner of Agriculture & Commerce,,"Spell, Lester",REP,38
+Carroll,West Carroll,Commissioner of Agriculture & Commerce,,"Spell, Lester",REP,176
+Carroll,West Vaiden,Commissioner of Agriculture & Commerce,,"Spell, Lester",REP,115
+Carroll,Mccarley,Commissioner of Agriculture & Commerce,,"Spell, Lester",REP,84
+Carroll,Jefferson,Commissioner of Agriculture & Commerce,,"Spell, Lester",REP,50
+Carroll,Total,Commissioner of Agriculture & Commerce,,"Spell, Lester",REP,1750
+Carroll,430 School - BS 3,Commissioner of Agriculture & Commerce,,"Riley, Paul Leslie",CNS,13
+Carroll,430 School - BS 6,Commissioner of Agriculture & Commerce,,"Riley, Paul Leslie",CNS,5
+Carroll,North Carrollton - BS 4,Commissioner of Agriculture & Commerce,,"Riley, Paul Leslie",CNS,2
+Carroll,North Carrollton - BS 5,Commissioner of Agriculture & Commerce,,"Riley, Paul Leslie",CNS,10
+Carroll,North Carrollton - BS 10,Commissioner of Agriculture & Commerce,,"Riley, Paul Leslie",CNS,33
+Carroll,Black Hawk,Commissioner of Agriculture & Commerce,,"Riley, Paul Leslie",CNS,13
+Carroll,Calvary,Commissioner of Agriculture & Commerce,,"Riley, Paul Leslie",CNS,18
+Carroll,Carrollton,Commissioner of Agriculture & Commerce,,"Riley, Paul Leslie",CNS,48
+Carroll,East Vaiden,Commissioner of Agriculture & Commerce,,"Riley, Paul Leslie",CNS,34
+Carroll,Fire Tower,Commissioner of Agriculture & Commerce,,"Riley, Paul Leslie",CNS,39
+Carroll,Gravel Hill,Commissioner of Agriculture & Commerce,,"Riley, Paul Leslie",CNS,26
+Carroll,Rays Shop,Commissioner of Agriculture & Commerce,,"Riley, Paul Leslie",CNS,79
+Carroll,Salem,Commissioner of Agriculture & Commerce,,"Riley, Paul Leslie",CNS,7
+Carroll,West Carroll,Commissioner of Agriculture & Commerce,,"Riley, Paul Leslie",CNS,37
+Carroll,West Vaiden,Commissioner of Agriculture & Commerce,,"Riley, Paul Leslie",CNS,31
+Carroll,Mccarley,Commissioner of Agriculture & Commerce,,"Riley, Paul Leslie",CNS,23
+Carroll,Jefferson,Commissioner of Agriculture & Commerce,,"Riley, Paul Leslie",CNS,11
+Carroll,Total,Commissioner of Agriculture & Commerce,,"Riley, Paul Leslie",CNS,429
+Carroll,430 School - BS 3,Commissioner of Agriculture & Commerce,,Write-In,,0
+Carroll,430 School - BS 6,Commissioner of Agriculture & Commerce,,Write-In,,0
+Carroll,North Carrollton - BS 4,Commissioner of Agriculture & Commerce,,Write-In,,0
+Carroll,North Carrollton - BS 5,Commissioner of Agriculture & Commerce,,Write-In,,0
+Carroll,North Carrollton - BS 10,Commissioner of Agriculture & Commerce,,Write-In,,0
+Carroll,Black Hawk,Commissioner of Agriculture & Commerce,,Write-In,,0
+Carroll,Calvary,Commissioner of Agriculture & Commerce,,Write-In,,0
+Carroll,Carrollton,Commissioner of Agriculture & Commerce,,Write-In,,0
+Carroll,East Vaiden,Commissioner of Agriculture & Commerce,,Write-In,,0
+Carroll,Fire Tower,Commissioner of Agriculture & Commerce,,Write-In,,1
+Carroll,Gravel Hill,Commissioner of Agriculture & Commerce,,Write-In,,0
+Carroll,Rays Shop,Commissioner of Agriculture & Commerce,,Write-In,,0
+Carroll,Salem,Commissioner of Agriculture & Commerce,,Write-In,,0
+Carroll,West Carroll,Commissioner of Agriculture & Commerce,,Write-In,,0
+Carroll,West Vaiden,Commissioner of Agriculture & Commerce,,Write-In,,0
+Carroll,Mccarley,Commissioner of Agriculture & Commerce,,Write-In,,0
+Carroll,Jefferson,Commissioner of Agriculture & Commerce,,Write-In,,0
+Carroll,Total,Commissioner of Agriculture & Commerce,,Write-In,,1
+Carroll,430 School - BS 3,Commissioner of Insurance,,"Anderson, Gary",DEM,138
+Carroll,430 School - BS 6,Commissioner of Insurance,,"Anderson, Gary",DEM,45
+Carroll,North Carrollton - BS 4,Commissioner of Insurance,,"Anderson, Gary",DEM,2
+Carroll,North Carrollton - BS 5,Commissioner of Insurance,,"Anderson, Gary",DEM,104
+Carroll,North Carrollton - BS 10,Commissioner of Insurance,,"Anderson, Gary",DEM,63
+Carroll,Black Hawk,Commissioner of Insurance,,"Anderson, Gary",DEM,50
+Carroll,Calvary,Commissioner of Insurance,,"Anderson, Gary",DEM,12
+Carroll,Carrollton,Commissioner of Insurance,,"Anderson, Gary",DEM,25
+Carroll,East Vaiden,Commissioner of Insurance,,"Anderson, Gary",DEM,196
+Carroll,Fire Tower,Commissioner of Insurance,,"Anderson, Gary",DEM,228
+Carroll,Gravel Hill,Commissioner of Insurance,,"Anderson, Gary",DEM,51
+Carroll,Rays Shop,Commissioner of Insurance,,"Anderson, Gary",DEM,129
+Carroll,Salem,Commissioner of Insurance,,"Anderson, Gary",DEM,82
+Carroll,West Carroll,Commissioner of Insurance,,"Anderson, Gary",DEM,38
+Carroll,West Vaiden,Commissioner of Insurance,,"Anderson, Gary",DEM,172
+Carroll,Mccarley,Commissioner of Insurance,,"Anderson, Gary",DEM,92
+Carroll,Jefferson,Commissioner of Insurance,,"Anderson, Gary",DEM,27
+Carroll,Total,Commissioner of Insurance,,"Anderson, Gary",DEM,1454
+Carroll,430 School - BS 3,Commissioner of Insurance,,"Chaney, Mike",REP,41
+Carroll,430 School - BS 6,Commissioner of Insurance,,"Chaney, Mike",REP,30
+Carroll,North Carrollton - BS 4,Commissioner of Insurance,,"Chaney, Mike",REP,19
+Carroll,North Carrollton - BS 5,Commissioner of Insurance,,"Chaney, Mike",REP,38
+Carroll,North Carrollton - BS 10,Commissioner of Insurance,,"Chaney, Mike",REP,172
+Carroll,Black Hawk,Commissioner of Insurance,,"Chaney, Mike",REP,127
+Carroll,Calvary,Commissioner of Insurance,,"Chaney, Mike",REP,44
+Carroll,Carrollton,Commissioner of Insurance,,"Chaney, Mike",REP,188
+Carroll,East Vaiden,Commissioner of Insurance,,"Chaney, Mike",REP,298
+Carroll,Fire Tower,Commissioner of Insurance,,"Chaney, Mike",REP,141
+Carroll,Gravel Hill,Commissioner of Insurance,,"Chaney, Mike",REP,232
+Carroll,Rays Shop,Commissioner of Insurance,,"Chaney, Mike",REP,525
+Carroll,Salem,Commissioner of Insurance,,"Chaney, Mike",REP,54
+Carroll,West Carroll,Commissioner of Insurance,,"Chaney, Mike",REP,266
+Carroll,West Vaiden,Commissioner of Insurance,,"Chaney, Mike",REP,162
+Carroll,Mccarley,Commissioner of Insurance,,"Chaney, Mike",REP,134
+Carroll,Jefferson,Commissioner of Insurance,,"Chaney, Mike",REP,73
+Carroll,Total,Commissioner of Insurance,,"Chaney, Mike",REP,2544
+Carroll,430 School - BS 3,Commissioner of Insurance,,Write-In,,0
+Carroll,430 School - BS 6,Commissioner of Insurance,,Write-In,,0
+Carroll,North Carrollton - BS 4,Commissioner of Insurance,,Write-In,,0
+Carroll,North Carrollton - BS 5,Commissioner of Insurance,,Write-In,,0
+Carroll,North Carrollton - BS 10,Commissioner of Insurance,,Write-In,,0
+Carroll,Black Hawk,Commissioner of Insurance,,Write-In,,0
+Carroll,Calvary,Commissioner of Insurance,,Write-In,,0
+Carroll,Carrollton,Commissioner of Insurance,,Write-In,,0
+Carroll,East Vaiden,Commissioner of Insurance,,Write-In,,0
+Carroll,Fire Tower,Commissioner of Insurance,,Write-In,,0
+Carroll,Gravel Hill,Commissioner of Insurance,,Write-In,,0
+Carroll,Rays Shop,Commissioner of Insurance,,Write-In,,0
+Carroll,Salem,Commissioner of Insurance,,Write-In,,0
+Carroll,West Carroll,Commissioner of Insurance,,Write-In,,0
+Carroll,West Vaiden,Commissioner of Insurance,,Write-In,,0
+Carroll,Mccarley,Commissioner of Insurance,,Write-In,,0
+Carroll,Jefferson,Commissioner of Insurance,,Write-In,,0
+Carroll,Total,Commissioner of Insurance,,Write-In,,0
+Carroll,430 School - BS 3,State Senator ,14,"Chassanio, Lydia G.",REP,112
+Carroll,430 School - BS 6,State Senator ,14,"Chassanio, Lydia G.",REP,45
+Carroll,North Carrollton - BS 4,State Senator ,14,"Chassanio, Lydia G.",REP,21
+Carroll,North Carrollton - BS 5,State Senator ,14,"Chassanio, Lydia G.",REP,85
+Carroll,North Carrollton - BS 10,State Senator ,14,"Chassanio, Lydia G.",REP,197
+Carroll,Black Hawk,State Senator ,14,"Chassanio, Lydia G.",REP,158
+Carroll,Calvary,State Senator ,14,"Chassanio, Lydia G.",REP,52
+Carroll,Carrollton,State Senator ,14,"Chassanio, Lydia G.",REP,185
+Carroll,East Vaiden,State Senator ,14,"Chassanio, Lydia G.",REP,358
+Carroll,Fire Tower,State Senator ,14,"Chassanio, Lydia G.",REP,252
+Carroll,Gravel Hill,State Senator ,14,"Chassanio, Lydia G.",REP,252
+Carroll,Rays Shop,State Senator ,14,"Chassanio, Lydia G.",REP,588
+Carroll,Salem,State Senator ,14,"Chassanio, Lydia G.",REP,79
+Carroll,West Carroll,State Senator ,14,"Chassanio, Lydia G.",REP,265
+Carroll,West Vaiden,State Senator ,14,"Chassanio, Lydia G.",REP,242
+Carroll,Mccarley,State Senator ,14,"Chassanio, Lydia G.",REP,172
+Carroll,Jefferson,State Senator ,14,"Chassanio, Lydia G.",REP,82
+Carroll,Total,State Senator ,14,"Chassanio, Lydia G.",REP,3145
+Carroll,430 School - BS 3,State Senator ,14,Write-In,,0
+Carroll,430 School - BS 6,State Senator ,14,Write-In,,0
+Carroll,North Carrollton - BS 4,State Senator ,14,Write-In,,0
+Carroll,North Carrollton - BS 5,State Senator ,14,Write-In,,0
+Carroll,North Carrollton - BS 10,State Senator ,14,Write-In,,0
+Carroll,Black Hawk,State Senator ,14,Write-In,,0
+Carroll,Calvary,State Senator ,14,Write-In,,0
+Carroll,Carrollton,State Senator ,14,Write-In,,2
+Carroll,East Vaiden,State Senator ,14,Write-In,,2
+Carroll,Fire Tower,State Senator ,14,Write-In,,2
+Carroll,Gravel Hill,State Senator ,14,Write-In,,1
+Carroll,Rays Shop,State Senator ,14,Write-In,,1
+Carroll,Salem,State Senator ,14,Write-In,,0
+Carroll,West Carroll,State Senator ,14,Write-In,,0
+Carroll,West Vaiden,State Senator ,14,Write-In,,0
+Carroll,Mccarley,State Senator ,14,Write-In,,0
+Carroll,Jefferson,State Senator ,14,Write-In,,0
+Carroll,Total,State Senator ,14,Write-In,,8
+Carroll,430 School - BS 3,State House,34,"Whittington, Linda",DEM,129
+Carroll,North Carrollton - BS 4,State House,34,"Whittington, Linda",DEM,11
+Carroll,North Carrollton - BS 5,State House,34,"Whittington, Linda",DEM,94
+Carroll,Fire Tower,State House,34,"Whittington, Linda",DEM,226
+Carroll,Salem,State House,34,"Whittington, Linda",DEM,84
+Carroll,West Vaiden,State House,34,"Whittington, Linda",DEM,186
+Carroll,Mccarley,State House,34,"Whittington, Linda",DEM,110
+Carroll,Total,State House,34,"Whittington, Linda",DEM,840
+Carroll,430 School - BS 3,State House,34,"Cochran, Marvin J.",REP,51
+Carroll,North Carrollton - BS 4,State House,34,"Cochran, Marvin J.",REP,11
+Carroll,North Carrollton - BS 5,State House,34,"Cochran, Marvin J.",REP,33
+Carroll,Fire Tower,State House,34,"Cochran, Marvin J.",REP,138
+Carroll,Salem,State House,34,"Cochran, Marvin J.",REP,50
+Carroll,West Vaiden,State House,34,"Cochran, Marvin J.",REP,139
+Carroll,Mccarley,State House,34,"Cochran, Marvin J.",REP,114
+Carroll,Total,State House,34,"Cochran, Marvin J.",REP,536
+Carroll,430 School - BS 3,State House,34,Write-In,,0
+Carroll,North Carrollton - BS 4,State House,34,Write-In,,0
+Carroll,North Carrollton - BS 5,State House,34,Write-In,,0
+Carroll,Fire Tower,State House,34,Write-In,,0
+Carroll,Salem,State House,34,Write-In,,0
+Carroll,West Vaiden,State House,34,Write-In,,0
+Carroll,Mccarley,State House,34,Write-In,,0
+Carroll,Total,State House,34,Write-In,,0
+Carroll,430 School - BS 6,State House,46,"Howell, Bobby B",REP,49
+Carroll,North Carrollton - BS 10,State House,46,"Howell, Bobby B",REP,199
+Carroll,Black Hawk,State House,46,"Howell, Bobby B",REP,153
+Carroll,Calvary,State House,46,"Howell, Bobby B",REP,51
+Carroll,Carrollton,State House,46,"Howell, Bobby B",REP,190
+Carroll,Gravel Hill,State House,46,"Howell, Bobby B",REP,252
+Carroll,Rays Shop,State House,46,"Howell, Bobby B",REP,580
+Carroll,West Carroll,State House,46,"Howell, Bobby B",REP,265
+Carroll,Jefferson,State House,46,"Howell, Bobby B",REP,81
+Carroll,Total,State House,46,"Howell, Bobby B",REP,1820
+Carroll,430 School - BS 6,State House,46,Write-In,,0
+Carroll,North Carrollton - BS 10,State House,46,Write-In,,0
+Carroll,Black Hawk,State House,46,Write-In,,0
+Carroll,Calvary,State House,46,Write-In,,0
+Carroll,Carrollton,State House,46,Write-In,,0
+Carroll,Gravel Hill,State House,46,Write-In,,0
+Carroll,Rays Shop,State House,46,Write-In,,1
+Carroll,West Carroll,State House,46,Write-In,,0
+Carroll,Jefferson,State House,46,Write-In,,1
+Carroll,Total,State House,46,Write-In,,2
+Carroll,Fire Tower,State House,48,"Steven, Mary Ann",DEM,432
+Carroll,Total,State House,48,"Steven, Mary Ann",DEM,432
+Carroll,Fire Tower,State House,48,Write-In,,1
+Carroll,Total,State House,48,Write-In,,1
