@@ -1,343 +1,221 @@
-﻿page,candidate,office,district,party,county,precinct,votes
-2,Jim Hood,Governor,,D,Calhoun,Banner,56
-2,Tate Reeves,Governor,,R,Calhoun,Banner,269
-2,Bob Hickingbottom,Governor,,C,Calhoun,Banner,1
-2,David R Singletary,Governor,,IND,Calhoun,Banner,0
-2,Delbert Hosemann,Lieutenant Governor,,R,Calhoun,Banner,277
-2,Jay Hughes,Lieutenant Governor,,D,Calhoun,Banner,48
-2,Johnny DuPree,Secretary of State,,D,Calhoun,Banner,43
-2,Michael Watson,Secretary of State,,R,Calhoun,Banner,279
-2,Jennifer Riley Collins,Attorney General,,D,Calhoun,Banner,40
-2,Lynn Fitch,Attorney General,,R,Calhoun,Banner,285
-2,Shad White,State Auditor,,R,Calhoun,Banner,301
-3,Addie Lee Green,State Treasurer,,D,Calhoun,Banner,30
-3,David McRae,State Treasurer,,R,Calhoun,Banner,292
-3,Rickey L Cole,Commissioner of Agriculture & Commerce,,D,Calhoun,Banner,39
-3,Andy Gipson,Commissioner of Agriculture & Commerce,,R,Calhoun,Banner,281
-4,Kegan Coleman,State Senate,8,D,Calhoun,Banner,48
-4,Benjamin A Suber,State Senate,8,D,Calhoun,Banner,277
-4,Charles Jim Beckett,State House,23,R,Calhoun,Banner,305
-2,Jim Hood,Governor,,D,Calhoun,Bruce #3,263
-2,Tate Reeves,Governor,,R,Calhoun,Bruce #3,483
-2,Bob Hickingbottom,Governor,,C,Calhoun,Bruce #3,0
-2,David R Singletary,Governor,,IND,Calhoun,Bruce #3,9
-2,Delbert Hosemann,Lieutenant Governor,,R,Calhoun,Bruce #3,546
-2,Jay Hughes,Lieutenant Governor,,D,Calhoun,Bruce #3,207
-2,Johnny DuPree,Secretary of State,,D,Calhoun,Bruce #3,199
-2,Michael Watson,Secretary of State,,R,Calhoun,Bruce #3,547
-2,Jennifer Riley Collins,Attorney General,,D,Calhoun,Bruce #3,195
-2,Lynn Fitch,Attorney General,,R,Calhoun,Bruce #3,555
-2,Shad White,State Auditor,,R,Calhoun,Bruce #3,651
-3,Addie Lee Green,State Treasurer,,D,Calhoun,Bruce #3,168
-3,David McRae,State Treasurer,,R,Calhoun,Bruce #3,580
-3,Rickey L Cole,Commissioner of Agriculture & Commerce,,D,Calhoun,Bruce #3,203
-3,Andy Gipson,Commissioner of Agriculture & Commerce,,R,Calhoun,Bruce #3,538
-4,Kegan Coleman,State Senate,8,D,Calhoun,Bruce #3,215
-4,Benjamin A Suber,State Senate,8,D,Calhoun,Bruce #3,526
-4,Charles Jim Beckett,State House,23,R,Calhoun,Bruce #3,667
-2,Jim Hood,Governor,,D,Calhoun,Calhoun City #1,372
-2,Tate Reeves,Governor,,R,Calhoun,Calhoun City #1,216
-2,Bob Hickingbottom,Governor,,C,Calhoun,Calhoun City #1,3
-2,David R Singletary,Governor,,IND,Calhoun,Calhoun City #1,3
-2,Delbert Hosemann,Lieutenant Governor,,R,Calhoun,Calhoun City #1,268
-2,Jay Hughes,Lieutenant Governor,,D,Calhoun,Calhoun City #1,306
-2,Johnny DuPree,Secretary of State,,D,Calhoun,Calhoun City #1,315
-2,Michael Watson,Secretary of State,,R,Calhoun,Calhoun City #1,249
-2,Jennifer Riley Collins,Attorney General,,D,Calhoun,Calhoun City #1,340
-2,Lynn Fitch,Attorney General,,R,Calhoun,Calhoun City #1,245
-2,Shad White,State Auditor,,R,Calhoun,Calhoun City #1,388
-3,Addie Lee Green,State Treasurer,,D,Calhoun,Calhoun City #1,325
-3,David McRae,State Treasurer,,R,Calhoun,Calhoun City #1,246
-3,Rickey L Cole,Commissioner of Agriculture & Commerce,,D,Calhoun,Calhoun City #1,332
-3,Andy Gipson,Commissioner of Agriculture & Commerce,,R,Calhoun,Calhoun City #1,237
-4,Kegan Coleman,State Senate,8,D,Calhoun,Calhoun City #1,370
-4,Benjamin A Suber,State Senate,8,D,Calhoun,Calhoun City #1,217
-4,Charles Jim Beckett,State House,23,R,Calhoun,Calhoun City #1,392
-2,Jim Hood,Governor,,D,Calhoun,Calhoun City 4,276
-2,Tate Reeves,Governor,,R,Calhoun,Calhoun City 4,543
-2,Bob Hickingbottom,Governor,,C,Calhoun,Calhoun City 4,1
-2,David R Singletary,Governor,,IND,Calhoun,Calhoun City 4,10
-2,Delbert Hosemann,Lieutenant Governor,,R,Calhoun,Calhoun City 4,618
-2,Jay Hughes,Lieutenant Governor,,D,Calhoun,Calhoun City 4,199
-2,Johnny DuPree,Secretary of State,,D,Calhoun,Calhoun City 4,192
-2,Michael Watson,Secretary of State,,R,Calhoun,Calhoun City 4,615
-2,Jennifer Riley Collins,Attorney General,,D,Calhoun,Calhoun City 4,212
-2,Lynn Fitch,Attorney General,,R,Calhoun,Calhoun City 4,607
-2,Shad White,State Auditor,,R,Calhoun,Calhoun City 4,700
-3,Addie Lee Green,State Treasurer,,D,Calhoun,Calhoun City 4,179
-3,David McRae,State Treasurer,,R,Calhoun,Calhoun City 4,633
-3,Rickey L Cole,Commissioner of Agriculture & Commerce,,D,Calhoun,Calhoun City 4,203
-3,Andy Gipson,Commissioner of Agriculture & Commerce,,R,Calhoun,Calhoun City 4,613
-4,Kegan Coleman,State Senate,8,D,Calhoun,Calhoun City 4,225
-4,Benjamin A Suber,State Senate,8,D,Calhoun,Calhoun City 4,599
-4,Charles Jim Beckett,State House,23,R,Calhoun,Calhoun City 4,714
-2,Jim Hood,Governor,,D,Calhoun,Derma #4,111
-2,Tate Reeves,Governor,,R,Calhoun,Derma #4,204
-2,Bob Hickingbottom,Governor,,C,Calhoun,Derma #4,1
-2,David R Singletary,Governor,,IND,Calhoun,Derma #4,1
-2,Delbert Hosemann,Lieutenant Governor,,R,Calhoun,Derma #4,238
-2,Jay Hughes,Lieutenant Governor,,D,Calhoun,Derma #4,77
-2,Johnny DuPree,Secretary of State,,D,Calhoun,Derma #4,71
-2,Michael Watson,Secretary of State,,R,Calhoun,Derma #4,241
-2,Jennifer Riley Collins,Attorney General,,D,Calhoun,Derma #4,69
-2,Lynn Fitch,Attorney General,,R,Calhoun,Derma #4,247
-2,Shad White,State Auditor,,R,Calhoun,Derma #4,272
-3,Addie Lee Green,State Treasurer,,D,Calhoun,Derma #4,68
-3,David McRae,State Treasurer,,R,Calhoun,Derma #4,245
-3,Rickey L Cole,Commissioner of Agriculture & Commerce,,D,Calhoun,Derma #4,72
-3,Andy Gipson,Commissioner of Agriculture & Commerce,,R,Calhoun,Derma #4,239
-4,Kegan Coleman,State Senate,8,D,Calhoun,Derma #4,88
-4,Benjamin A Suber,State Senate,8,D,Calhoun,Derma #4,225
-4,Charles Jim Beckett,State House,23,R,Calhoun,Derma #4,270
-2,Jim Hood,Governor,,D,Calhoun,Derma #5,98
-2,Tate Reeves,Governor,,R,Calhoun,Derma #5,259
-2,Bob Hickingbottom,Governor,,C,Calhoun,Derma #5,0
-2,David R Singletary,Governor,,IND,Calhoun,Derma #5,2
-2,Delbert Hosemann,Lieutenant Governor,,R,Calhoun,Derma #5,276
-2,Jay Hughes,Lieutenant Governor,,D,Calhoun,Derma #5,82
-2,Johnny DuPree,Secretary of State,,D,Calhoun,Derma #5,79
-2,Michael Watson,Secretary of State,,R,Calhoun,Derma #5,274
-2,Jennifer Riley Collins,Attorney General,,D,Calhoun,Derma #5,76
-2,Lynn Fitch,Attorney General,,R,Calhoun,Derma #5,279
-2,Shad White,State Auditor,,R,Calhoun,Derma #5,303
-3,Addie Lee Green,State Treasurer,,D,Calhoun,Derma #5,73
-3,David McRae,State Treasurer,,R,Calhoun,Derma #5,280
-3,Rickey L Cole,Commissioner of Agriculture & Commerce,,D,Calhoun,Derma #5,84
-3,Andy Gipson,Commissioner of Agriculture & Commerce,,R,Calhoun,Derma #5,267
-4,Kegan Coleman,State Senate,8,D,Calhoun,Derma #5,94
-4,Benjamin A Suber,State Senate,8,D,Calhoun,Derma #5,261
-4,Charles Jim Beckett,State House,23,R,Calhoun,Derma #5,307
-2,Jim Hood,Governor,,D,Calhoun,Northeast Calhoun,134
-2,Tate Reeves,Governor,,R,Calhoun,Northeast Calhoun,419
-2,Bob Hickingbottom,Governor,,C,Calhoun,Northeast Calhoun,4
-2,David R Singletary,Governor,,IND,Calhoun,Northeast Calhoun,10
-2,Delbert Hosemann,Lieutenant Governor,,R,Calhoun,Northeast Calhoun,455
-2,Jay Hughes,Lieutenant Governor,,D,Calhoun,Northeast Calhoun,110
-2,Johnny DuPree,Secretary of State,,D,Calhoun,Northeast Calhoun,97
-2,Michael Watson,Secretary of State,,R,Calhoun,Northeast Calhoun,456
-2,Jennifer Riley Collins,Attorney General,,D,Calhoun,Northeast Calhoun,99
-2,Lynn Fitch,Attorney General,,R,Calhoun,Northeast Calhoun,468
-2,Shad White,State Auditor,,R,Calhoun,Northeast Calhoun,494
-3,Addie Lee Green,State Treasurer,,D,Calhoun,Northeast Calhoun,83
-3,David McRae,State Treasurer,,R,Calhoun,Northeast Calhoun,475
-3,Rickey L Cole,Commissioner of Agriculture & Commerce,,D,Calhoun,Northeast Calhoun,101
-3,Andy Gipson,Commissioner of Agriculture & Commerce,,R,Calhoun,Northeast Calhoun,458
-4,Kegan Coleman,State Senate,8,D,Calhoun,Northeast Calhoun,128
-4,Benjamin A Suber,State Senate,8,D,Calhoun,Northeast Calhoun,436
-4,Charles Jim Beckett,State House,23,R,Calhoun,Northeast Calhoun,506
-2,Jim Hood,Governor,,D,Calhoun,Pittsboro #1,344
-2,Tate Reeves,Governor,,R,Calhoun,Pittsboro #1,71
-2,Bob Hickingbottom,Governor,,C,Calhoun,Pittsboro #1,2
-2,David R Singletary,Governor,,IND,Calhoun,Pittsboro #1,3
-2,Delbert Hosemann,Lieutenant Governor,,R,Calhoun,Pittsboro #1,96
-2,Jay Hughes,Lieutenant Governor,,D,Calhoun,Pittsboro #1,307
-2,Johnny DuPree,Secretary of State,,D,Calhoun,Pittsboro #1,316
-2,Michael Watson,Secretary of State,,R,Calhoun,Pittsboro #1,92
-2,Jennifer Riley Collins,Attorney General,,D,Calhoun,Pittsboro #1,324
-2,Lynn Fitch,Attorney General,,R,Calhoun,Pittsboro #1,90
-2,Shad White,State Auditor,,R,Calhoun,Pittsboro #1,230
-3,Addie Lee Green,State Treasurer,,D,Calhoun,Pittsboro #1,315
-3,David McRae,State Treasurer,,R,Calhoun,Pittsboro #1,91
-3,Rickey L Cole,Commissioner of Agriculture & Commerce,,D,Calhoun,Pittsboro #1,325
-3,Andy Gipson,Commissioner of Agriculture & Commerce,,R,Calhoun,Pittsboro #1,84
-4,Kegan Coleman,State Senate,8,D,Calhoun,Pittsboro #1,341
-4,Benjamin A Suber,State Senate,8,D,Calhoun,Pittsboro #1,75
-4,Charles Jim Beckett,State House,23,R,Calhoun,Pittsboro #1,244
-2,Jim Hood,Governor,,D,Calhoun,Pittsboro #2,163
-2,Tate Reeves,Governor,,R,Calhoun,Pittsboro #2,240
-2,Bob Hickingbottom,Governor,,C,Calhoun,Pittsboro #2,2
-2,David R Singletary,Governor,,IND,Calhoun,Pittsboro #2,1
-2,Delbert Hosemann,Lieutenant Governor,,R,Calhoun,Pittsboro #2,290
-2,Jay Hughes,Lieutenant Governor,,D,Calhoun,Pittsboro #2,112
-2,Johnny DuPree,Secretary of State,,D,Calhoun,Pittsboro #2,114
-2,Michael Watson,Secretary of State,,R,Calhoun,Pittsboro #2,282
-2,Jennifer Riley Collins,Attorney General,,D,Calhoun,Pittsboro #2,122
-2,Lynn Fitch,Attorney General,,R,Calhoun,Pittsboro #2,282
-2,Shad White,State Auditor,,R,Calhoun,Pittsboro #2,346
-3,Addie Lee Green,State Treasurer,,D,Calhoun,Pittsboro #2,109
-3,David McRae,State Treasurer,,R,Calhoun,Pittsboro #2,290
-3,Rickey L Cole,Commissioner of Agriculture & Commerce,,D,Calhoun,Pittsboro #2,126
-3,Andy Gipson,Commissioner of Agriculture & Commerce,,R,Calhoun,Pittsboro #2,274
-4,Kegan Coleman,State Senate,8,D,Calhoun,Pittsboro #2,133
-4,Benjamin A Suber,State Senate,8,D,Calhoun,Pittsboro #2,272
-4,Charles Jim Beckett,State House,23,R,Calhoun,Pittsboro #2,352
-2,Jim Hood,Governor,,D,Calhoun,Vardaman,212
-2,Tate Reeves,Governor,,R,Calhoun,Vardaman,305
-2,Bob Hickingbottom,Governor,,C,Calhoun,Vardaman,2
-2,David R Singletary,Governor,,IND,Calhoun,Vardaman,3
-2,Delbert Hosemann,Lieutenant Governor,,R,Calhoun,Vardaman,366
-2,Jay Hughes,Lieutenant Governor,,D,Calhoun,Vardaman,150
-2,Johnny DuPree,Secretary of State,,D,Calhoun,Vardaman,149
-2,Michael Watson,Secretary of State,,R,Calhoun,Vardaman,362
-2,Jennifer Riley Collins,Attorney General,,D,Calhoun,Vardaman,151
-2,Lynn Fitch,Attorney General,,R,Calhoun,Vardaman,367
-2,Shad White,State Auditor,,R,Calhoun,Vardaman,424
-3,Addie Lee Green,State Treasurer,,D,Calhoun,Vardaman,139
-3,David McRae,State Treasurer,,R,Calhoun,Vardaman,374
-3,Rickey L Cole,Commissioner of Agriculture & Commerce,,D,Calhoun,Vardaman,155
-3,Andy Gipson,Commissioner of Agriculture & Commerce,,R,Calhoun,Vardaman,359
-4,Kegan Coleman,State Senate,8,D,Calhoun,Vardaman,174
-4,Benjamin A Suber,State Senate,8,D,Calhoun,Vardaman,347
-4,Charles Jim Beckett,State House,23,R,Calhoun,Vardaman,425
-2,Jim Hood,Governor,,D,Calhoun,TOTAL,2029
-2,Tate Reeves,Governor,,R,Calhoun,TOTAL,3009
-2,Bob Hickingbottom,Governor,,C,Calhoun,TOTAL,16
-2,David R Singletary,Governor,,IND,Calhoun,TOTAL,42
-2,Delbert Hosemann,Lieutenant Governor,,R,Calhoun,TOTAL,3430
-2,Jay Hughes,Lieutenant Governor,,D,Calhoun,TOTAL,1598
-2,Johnny DuPree,Secretary of State,,D,Calhoun,TOTAL,1575
-2,Michael Watson,Secretary of State,,R,Calhoun,TOTAL,3397
-2,Jennifer Riley Collins,Attorney General,,D,Calhoun,TOTAL,1628
-2,Lynn Fitch,Attorney General,,R,Calhoun,TOTAL,3425
-2,Shad White,State Auditor,,R,Calhoun,TOTAL,4109
-3,Addie Lee Green,State Treasurer,,D,Calhoun,TOTAL,1489
-3,David McRae,State Treasurer,,R,Calhoun,TOTAL,3506
-3,Rickey L Cole,Commissioner of Agriculture & Commerce,,D,Calhoun,TOTAL,1640
-3,Andy Gipson,Commissioner of Agriculture & Commerce,,R,Calhoun,TOTAL,3350
-4,Kegan Coleman,State Senate,8,D,Calhoun,TOTAL,1816
-4,Benjamin A Suber,State Senate,8,D,Calhoun,TOTAL,3235
-4,Charles Jim Beckett,State House,23,R,Calhoun,TOTAL,4182
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
+﻿candidate,office,district,party,county,precinct,votes
+Jim Hood,Governor,,D,Calhoun,Banner,56
+Tate Reeves,Governor,,R,Calhoun,Banner,269
+Bob Hickingbottom,Governor,,C,Calhoun,Banner,1
+David R Singletary,Governor,,IND,Calhoun,Banner,0
+Delbert Hosemann,Lieutenant Governor,,R,Calhoun,Banner,277
+Jay Hughes,Lieutenant Governor,,D,Calhoun,Banner,48
+Johnny DuPree,Secretary of State,,D,Calhoun,Banner,43
+Michael Watson,Secretary of State,,R,Calhoun,Banner,279
+Jennifer Riley Collins,Attorney General,,D,Calhoun,Banner,40
+Lynn Fitch,Attorney General,,R,Calhoun,Banner,285
+Shad White,State Auditor,,R,Calhoun,Banner,301
+Addie Lee Green,State Treasurer,,D,Calhoun,Banner,30
+David McRae,State Treasurer,,R,Calhoun,Banner,292
+Rickey L Cole,Commissioner of Agriculture & Commerce,,D,Calhoun,Banner,39
+Andy Gipson,Commissioner of Agriculture & Commerce,,R,Calhoun,Banner,281
+Kegan Coleman,State Senate,8,D,Calhoun,Banner,48
+Benjamin A Suber,State Senate,8,D,Calhoun,Banner,277
+Charles Jim Beckett,State House,23,R,Calhoun,Banner,305
+Jim Hood,Governor,,D,Calhoun,Bruce #3,263
+Tate Reeves,Governor,,R,Calhoun,Bruce #3,483
+Bob Hickingbottom,Governor,,C,Calhoun,Bruce #3,0
+David R Singletary,Governor,,IND,Calhoun,Bruce #3,9
+Delbert Hosemann,Lieutenant Governor,,R,Calhoun,Bruce #3,546
+Jay Hughes,Lieutenant Governor,,D,Calhoun,Bruce #3,207
+Johnny DuPree,Secretary of State,,D,Calhoun,Bruce #3,199
+Michael Watson,Secretary of State,,R,Calhoun,Bruce #3,547
+Jennifer Riley Collins,Attorney General,,D,Calhoun,Bruce #3,195
+Lynn Fitch,Attorney General,,R,Calhoun,Bruce #3,555
+Shad White,State Auditor,,R,Calhoun,Bruce #3,651
+Addie Lee Green,State Treasurer,,D,Calhoun,Bruce #3,168
+David McRae,State Treasurer,,R,Calhoun,Bruce #3,580
+Rickey L Cole,Commissioner of Agriculture & Commerce,,D,Calhoun,Bruce #3,203
+Andy Gipson,Commissioner of Agriculture & Commerce,,R,Calhoun,Bruce #3,538
+Kegan Coleman,State Senate,8,D,Calhoun,Bruce #3,215
+Benjamin A Suber,State Senate,8,D,Calhoun,Bruce #3,526
+Charles Jim Beckett,State House,23,R,Calhoun,Bruce #3,667
+Jim Hood,Governor,,D,Calhoun,Calhoun City #1,372
+Tate Reeves,Governor,,R,Calhoun,Calhoun City #1,216
+Bob Hickingbottom,Governor,,C,Calhoun,Calhoun City #1,3
+David R Singletary,Governor,,IND,Calhoun,Calhoun City #1,3
+Delbert Hosemann,Lieutenant Governor,,R,Calhoun,Calhoun City #1,268
+Jay Hughes,Lieutenant Governor,,D,Calhoun,Calhoun City #1,306
+Johnny DuPree,Secretary of State,,D,Calhoun,Calhoun City #1,315
+Michael Watson,Secretary of State,,R,Calhoun,Calhoun City #1,249
+Jennifer Riley Collins,Attorney General,,D,Calhoun,Calhoun City #1,340
+Lynn Fitch,Attorney General,,R,Calhoun,Calhoun City #1,245
+Shad White,State Auditor,,R,Calhoun,Calhoun City #1,388
+Addie Lee Green,State Treasurer,,D,Calhoun,Calhoun City #1,325
+David McRae,State Treasurer,,R,Calhoun,Calhoun City #1,246
+Rickey L Cole,Commissioner of Agriculture & Commerce,,D,Calhoun,Calhoun City #1,332
+Andy Gipson,Commissioner of Agriculture & Commerce,,R,Calhoun,Calhoun City #1,237
+Kegan Coleman,State Senate,8,D,Calhoun,Calhoun City #1,370
+Benjamin A Suber,State Senate,8,D,Calhoun,Calhoun City #1,217
+Charles Jim Beckett,State House,23,R,Calhoun,Calhoun City #1,392
+Jim Hood,Governor,,D,Calhoun,Calhoun City 4,276
+Tate Reeves,Governor,,R,Calhoun,Calhoun City 4,543
+Bob Hickingbottom,Governor,,C,Calhoun,Calhoun City 4,1
+David R Singletary,Governor,,IND,Calhoun,Calhoun City 4,10
+Delbert Hosemann,Lieutenant Governor,,R,Calhoun,Calhoun City 4,618
+Jay Hughes,Lieutenant Governor,,D,Calhoun,Calhoun City 4,199
+Johnny DuPree,Secretary of State,,D,Calhoun,Calhoun City 4,192
+Michael Watson,Secretary of State,,R,Calhoun,Calhoun City 4,615
+Jennifer Riley Collins,Attorney General,,D,Calhoun,Calhoun City 4,212
+Lynn Fitch,Attorney General,,R,Calhoun,Calhoun City 4,607
+Shad White,State Auditor,,R,Calhoun,Calhoun City 4,700
+Addie Lee Green,State Treasurer,,D,Calhoun,Calhoun City 4,179
+David McRae,State Treasurer,,R,Calhoun,Calhoun City 4,633
+Rickey L Cole,Commissioner of Agriculture & Commerce,,D,Calhoun,Calhoun City 4,203
+Andy Gipson,Commissioner of Agriculture & Commerce,,R,Calhoun,Calhoun City 4,613
+Kegan Coleman,State Senate,8,D,Calhoun,Calhoun City 4,225
+Benjamin A Suber,State Senate,8,D,Calhoun,Calhoun City 4,599
+Charles Jim Beckett,State House,23,R,Calhoun,Calhoun City 4,714
+Jim Hood,Governor,,D,Calhoun,Derma #4,111
+Tate Reeves,Governor,,R,Calhoun,Derma #4,204
+Bob Hickingbottom,Governor,,C,Calhoun,Derma #4,1
+David R Singletary,Governor,,IND,Calhoun,Derma #4,1
+Delbert Hosemann,Lieutenant Governor,,R,Calhoun,Derma #4,238
+Jay Hughes,Lieutenant Governor,,D,Calhoun,Derma #4,77
+Johnny DuPree,Secretary of State,,D,Calhoun,Derma #4,71
+Michael Watson,Secretary of State,,R,Calhoun,Derma #4,241
+Jennifer Riley Collins,Attorney General,,D,Calhoun,Derma #4,69
+Lynn Fitch,Attorney General,,R,Calhoun,Derma #4,247
+Shad White,State Auditor,,R,Calhoun,Derma #4,272
+Addie Lee Green,State Treasurer,,D,Calhoun,Derma #4,68
+David McRae,State Treasurer,,R,Calhoun,Derma #4,245
+Rickey L Cole,Commissioner of Agriculture & Commerce,,D,Calhoun,Derma #4,72
+Andy Gipson,Commissioner of Agriculture & Commerce,,R,Calhoun,Derma #4,239
+Kegan Coleman,State Senate,8,D,Calhoun,Derma #4,88
+Benjamin A Suber,State Senate,8,D,Calhoun,Derma #4,225
+Charles Jim Beckett,State House,23,R,Calhoun,Derma #4,270
+Jim Hood,Governor,,D,Calhoun,Derma #5,98
+Tate Reeves,Governor,,R,Calhoun,Derma #5,259
+Bob Hickingbottom,Governor,,C,Calhoun,Derma #5,0
+David R Singletary,Governor,,IND,Calhoun,Derma #5,2
+Delbert Hosemann,Lieutenant Governor,,R,Calhoun,Derma #5,276
+Jay Hughes,Lieutenant Governor,,D,Calhoun,Derma #5,82
+Johnny DuPree,Secretary of State,,D,Calhoun,Derma #5,79
+Michael Watson,Secretary of State,,R,Calhoun,Derma #5,274
+Jennifer Riley Collins,Attorney General,,D,Calhoun,Derma #5,76
+Lynn Fitch,Attorney General,,R,Calhoun,Derma #5,279
+Shad White,State Auditor,,R,Calhoun,Derma #5,303
+Addie Lee Green,State Treasurer,,D,Calhoun,Derma #5,73
+David McRae,State Treasurer,,R,Calhoun,Derma #5,280
+Rickey L Cole,Commissioner of Agriculture & Commerce,,D,Calhoun,Derma #5,84
+Andy Gipson,Commissioner of Agriculture & Commerce,,R,Calhoun,Derma #5,267
+Kegan Coleman,State Senate,8,D,Calhoun,Derma #5,94
+Benjamin A Suber,State Senate,8,D,Calhoun,Derma #5,261
+Charles Jim Beckett,State House,23,R,Calhoun,Derma #5,307
+Jim Hood,Governor,,D,Calhoun,Northeast Calhoun,134
+Tate Reeves,Governor,,R,Calhoun,Northeast Calhoun,419
+Bob Hickingbottom,Governor,,C,Calhoun,Northeast Calhoun,4
+David R Singletary,Governor,,IND,Calhoun,Northeast Calhoun,10
+Delbert Hosemann,Lieutenant Governor,,R,Calhoun,Northeast Calhoun,455
+Jay Hughes,Lieutenant Governor,,D,Calhoun,Northeast Calhoun,110
+Johnny DuPree,Secretary of State,,D,Calhoun,Northeast Calhoun,97
+Michael Watson,Secretary of State,,R,Calhoun,Northeast Calhoun,456
+Jennifer Riley Collins,Attorney General,,D,Calhoun,Northeast Calhoun,99
+Lynn Fitch,Attorney General,,R,Calhoun,Northeast Calhoun,468
+Shad White,State Auditor,,R,Calhoun,Northeast Calhoun,494
+Addie Lee Green,State Treasurer,,D,Calhoun,Northeast Calhoun,83
+David McRae,State Treasurer,,R,Calhoun,Northeast Calhoun,475
+Rickey L Cole,Commissioner of Agriculture & Commerce,,D,Calhoun,Northeast Calhoun,101
+Andy Gipson,Commissioner of Agriculture & Commerce,,R,Calhoun,Northeast Calhoun,458
+Kegan Coleman,State Senate,8,D,Calhoun,Northeast Calhoun,128
+Benjamin A Suber,State Senate,8,D,Calhoun,Northeast Calhoun,436
+Charles Jim Beckett,State House,23,R,Calhoun,Northeast Calhoun,506
+Jim Hood,Governor,,D,Calhoun,Pittsboro #1,344
+Tate Reeves,Governor,,R,Calhoun,Pittsboro #1,71
+Bob Hickingbottom,Governor,,C,Calhoun,Pittsboro #1,2
+David R Singletary,Governor,,IND,Calhoun,Pittsboro #1,3
+Delbert Hosemann,Lieutenant Governor,,R,Calhoun,Pittsboro #1,96
+Jay Hughes,Lieutenant Governor,,D,Calhoun,Pittsboro #1,307
+Johnny DuPree,Secretary of State,,D,Calhoun,Pittsboro #1,316
+Michael Watson,Secretary of State,,R,Calhoun,Pittsboro #1,92
+Jennifer Riley Collins,Attorney General,,D,Calhoun,Pittsboro #1,324
+Lynn Fitch,Attorney General,,R,Calhoun,Pittsboro #1,90
+Shad White,State Auditor,,R,Calhoun,Pittsboro #1,230
+Addie Lee Green,State Treasurer,,D,Calhoun,Pittsboro #1,315
+David McRae,State Treasurer,,R,Calhoun,Pittsboro #1,91
+Rickey L Cole,Commissioner of Agriculture & Commerce,,D,Calhoun,Pittsboro #1,325
+Andy Gipson,Commissioner of Agriculture & Commerce,,R,Calhoun,Pittsboro #1,84
+Kegan Coleman,State Senate,8,D,Calhoun,Pittsboro #1,341
+Benjamin A Suber,State Senate,8,D,Calhoun,Pittsboro #1,75
+Charles Jim Beckett,State House,23,R,Calhoun,Pittsboro #1,244
+Jim Hood,Governor,,D,Calhoun,Pittsboro #2,163
+Tate Reeves,Governor,,R,Calhoun,Pittsboro #2,240
+Bob Hickingbottom,Governor,,C,Calhoun,Pittsboro #2,2
+David R Singletary,Governor,,IND,Calhoun,Pittsboro #2,1
+Delbert Hosemann,Lieutenant Governor,,R,Calhoun,Pittsboro #2,290
+Jay Hughes,Lieutenant Governor,,D,Calhoun,Pittsboro #2,112
+Johnny DuPree,Secretary of State,,D,Calhoun,Pittsboro #2,114
+Michael Watson,Secretary of State,,R,Calhoun,Pittsboro #2,282
+Jennifer Riley Collins,Attorney General,,D,Calhoun,Pittsboro #2,122
+Lynn Fitch,Attorney General,,R,Calhoun,Pittsboro #2,282
+Shad White,State Auditor,,R,Calhoun,Pittsboro #2,346
+Addie Lee Green,State Treasurer,,D,Calhoun,Pittsboro #2,109
+David McRae,State Treasurer,,R,Calhoun,Pittsboro #2,290
+Rickey L Cole,Commissioner of Agriculture & Commerce,,D,Calhoun,Pittsboro #2,126
+Andy Gipson,Commissioner of Agriculture & Commerce,,R,Calhoun,Pittsboro #2,274
+Kegan Coleman,State Senate,8,D,Calhoun,Pittsboro #2,133
+Benjamin A Suber,State Senate,8,D,Calhoun,Pittsboro #2,272
+Charles Jim Beckett,State House,23,R,Calhoun,Pittsboro #2,352
+Jim Hood,Governor,,D,Calhoun,Vardaman,212
+Tate Reeves,Governor,,R,Calhoun,Vardaman,305
+Bob Hickingbottom,Governor,,C,Calhoun,Vardaman,2
+David R Singletary,Governor,,IND,Calhoun,Vardaman,3
+Delbert Hosemann,Lieutenant Governor,,R,Calhoun,Vardaman,366
+Jay Hughes,Lieutenant Governor,,D,Calhoun,Vardaman,150
+Johnny DuPree,Secretary of State,,D,Calhoun,Vardaman,149
+Michael Watson,Secretary of State,,R,Calhoun,Vardaman,362
+Jennifer Riley Collins,Attorney General,,D,Calhoun,Vardaman,151
+Lynn Fitch,Attorney General,,R,Calhoun,Vardaman,367
+Shad White,State Auditor,,R,Calhoun,Vardaman,424
+Addie Lee Green,State Treasurer,,D,Calhoun,Vardaman,139
+David McRae,State Treasurer,,R,Calhoun,Vardaman,374
+Rickey L Cole,Commissioner of Agriculture & Commerce,,D,Calhoun,Vardaman,155
+Andy Gipson,Commissioner of Agriculture & Commerce,,R,Calhoun,Vardaman,359
+Kegan Coleman,State Senate,8,D,Calhoun,Vardaman,174
+Benjamin A Suber,State Senate,8,D,Calhoun,Vardaman,347
+Charles Jim Beckett,State House,23,R,Calhoun,Vardaman,425
+Jim Hood,Governor,,D,Calhoun,TOTAL,2029
+Tate Reeves,Governor,,R,Calhoun,TOTAL,3009
+Bob Hickingbottom,Governor,,C,Calhoun,TOTAL,16
+David R Singletary,Governor,,IND,Calhoun,TOTAL,42
+Delbert Hosemann,Lieutenant Governor,,R,Calhoun,TOTAL,3430
+Jay Hughes,Lieutenant Governor,,D,Calhoun,TOTAL,1598
+Johnny DuPree,Secretary of State,,D,Calhoun,TOTAL,1575
+Michael Watson,Secretary of State,,R,Calhoun,TOTAL,3397
+Jennifer Riley Collins,Attorney General,,D,Calhoun,TOTAL,1628
+Lynn Fitch,Attorney General,,R,Calhoun,TOTAL,3425
+Shad White,State Auditor,,R,Calhoun,TOTAL,4109
+Addie Lee Green,State Treasurer,,D,Calhoun,TOTAL,1489
+David McRae,State Treasurer,,R,Calhoun,TOTAL,3506
+Rickey L Cole,Commissioner of Agriculture & Commerce,,D,Calhoun,TOTAL,1640
+Andy Gipson,Commissioner of Agriculture & Commerce,,R,Calhoun,TOTAL,3350
+Kegan Coleman,State Senate,8,D,Calhoun,TOTAL,1816
+Benjamin A Suber,State Senate,8,D,Calhoun,TOTAL,3235
+Charles Jim Beckett,State House,23,R,Calhoun,TOTAL,4182
+Robert F. Amos,Commissioner of Insurance,,D,Calhoun,Banner,32
+Mike Chaney,Commissioner of Insurance,,R,Calhoun,Banner,291
+Robert F. Amos,Commissioner of Insurance,,D,Calhoun,Bruce #3,166
+Mike Chaney,Commissioner of Insurance,,R,Calhoun,Bruce #3,576
+Robert F. Amos,Commissioner of Insurance,,D,Calhoun,Calhoun City #1,312
+Mike Chaney,Commissioner of Insurance,,R,Calhoun,Calhoun City #1,260
+Robert F. Amos,Commissioner of Insurance,,D,Calhoun,Calhoun City 4,180
+Mike Chaney,Commissioner of Insurance,,R,Calhoun,Calhoun City 4,641
+Robert F. Amos,Commissioner of Insurance,,D,Calhoun,Derma #4,62
+Mike Chaney,Commissioner of Insurance,,R,Calhoun,Derma #4,250
+Robert F. Amos,Commissioner of Insurance,,D,Calhoun,Derma #5,73
+Mike Chaney,Commissioner of Insurance,,R,Calhoun,Derma #5,282
+Robert F. Amos,Commissioner of Insurance,,D,Calhoun,Northeast Calhoun,81
+Mike Chaney,Commissioner of Insurance,,R,Calhoun,Northeast Calhoun,477
+Robert F. Amos,Commissioner of Insurance,,D,Calhoun,Pittsboro #1,308
+Mike Chaney,Commissioner of Insurance,,R,Calhoun,Pittsboro #1,99
+Robert F. Amos,Commissioner of Insurance,,D,Calhoun,Pittsboro #2,112
+Mike Chaney,Commissioner of Insurance,,R,Calhoun,Pittsboro #2,285
+Robert F. Amos,Commissioner of Insurance,,D,Calhoun,Vardaman,135
+Mike Chaney,Commissioner of Insurance,,R,Calhoun,Vardaman,374
+Robert F. Amos,Commissioner of Insurance,,D,Calhoun,TOTAL,1461
+Mike Chaney,Commissioner of Insurance,,R,Calhoun,TOTAL,3535
