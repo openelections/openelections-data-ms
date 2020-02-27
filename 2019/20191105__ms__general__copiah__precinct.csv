@@ -1,591 +1,481 @@
-﻿page,candidate,office,district,party,county,precinct,votes
-2,Jim Hood,Governor,,D,Copiah ,Beauregard ,146
-2,Tate Reeves,Governor,,R,Copiah ,Beauregard ,254
-2,Bob Hickingbottom,Governor,,C,Copiah ,Beauregard ,0
-2,David R Singletary,Governor,,IND,Copiah ,Beauregard ,4
-2,Delbert Hosemann,Lieutenant Governor,,R,Copiah ,Beauregard ,299
-2,Jay Hughes,Lieutenant Governor,,D,Copiah ,Beauregard ,101
-2,Johnny DuPree,Secretary of State,,D,Copiah ,Beauregard ,115
-2,Michael Watson,Secretary of State,,R,Copiah ,Beauregard ,280
-2,Jennifer Riley Collins,Attorney General,,D,Copiah ,Beauregard ,120
-2,Lynn Fitch,Attorney General,,R,Copiah ,Beauregard ,278
-2,Shad White,State Auditor,,R,Copiah ,Beauregard ,339
-4,Addie Lee Green,State Treasurer,,D,Copiah ,Beauregard ,99
-4,David McRae,State Treasurer,,R,Copiah ,Beauregard ,295
-4,Rickey L Cole,Commissioner of Agriculture & Commerce,,D,Copiah ,Beauregard ,110
-4,Andy Gipson,Commissioner of Agriculture & Commerce,,R,Copiah ,Beauregard ,282
-6,Chris Caughman ,State Senate,35,R,Copiah ,Beauregard ,x
-6,Albert Butler,State Senate,36,D,Copiah ,Beauregard ,269
-6,Sally Doty,State Senate,39,R,Copiah ,Beauregard ,x
-6,Tom Weathersby,State House,62,R,Copiah ,Beauregard ,x
-6,Gregory L Holloway Sr. ,State House,76,D,Copiah ,Beauregard ,141
-6,Bob Evans,State House,91,D,Copiah ,Beauregard ,x
-6,Becky Currie,State House,92,R,Copiah ,Beauregard ,200
-2,Jim Hood,Governor,,D,Copiah ,Carpenter,97
-2,Tate Reeves,Governor,,R,Copiah ,Carpenter,39
-2,Bob Hickingbottom,Governor,,C,Copiah ,Carpenter,0
-2,David R Singletary,Governor,,IND,Copiah ,Carpenter,0
-2,Delbert Hosemann,Lieutenant Governor,,R,Copiah ,Carpenter,51
-2,Jay Hughes,Lieutenant Governor,,D,Copiah ,Carpenter,82
-2,Johnny DuPree,Secretary of State,,D,Copiah ,Carpenter,93
-2,Michael Watson,Secretary of State,,R,Copiah ,Carpenter,40
-2,Jennifer Riley Collins,Attorney General,,D,Copiah ,Carpenter,90
-2,Lynn Fitch,Attorney General,,R,Copiah ,Carpenter,45
-2,Shad White,State Auditor,,R,Copiah ,Carpenter,75
-4,Addie Lee Green,State Treasurer,,D,Copiah ,Carpenter,92
-4,David McRae,State Treasurer,,R,Copiah ,Carpenter,40
-4,Rickey L Cole,Commissioner of Agriculture & Commerce,,D,Copiah ,Carpenter,86
-4,Andy Gipson,Commissioner of Agriculture & Commerce,,R,Copiah ,Carpenter,45
-6,Chris Caughman ,State Senate,35,R,Copiah ,Carpenter,x
-6,Albert Butler,State Senate,36,D,Copiah ,Carpenter,112
-6,Sally Doty,State Senate,39,R,Copiah ,Carpenter,x
-6,Tom Weathersby,State House,62,R,Copiah ,Carpenter,x
-6,Gregory L Holloway Sr. ,State House,76,D,Copiah ,Carpenter,113
-6,Bob Evans,State House,91,D,Copiah ,Carpenter,x
-6,Becky Currie,State House,92,R,Copiah ,Carpenter,x
-2,Jim Hood,Governor,,D,Copiah ,Centerpoint,268
-2,Tate Reeves,Governor,,R,Copiah ,Centerpoint,324
-2,Bob Hickingbottom,Governor,,C,Copiah ,Centerpoint,2
-2,David R Singletary,Governor,,IND,Copiah ,Centerpoint,4
-2,Delbert Hosemann,Lieutenant Governor,,R,Copiah ,Centerpoint,372
-2,Jay Hughes,Lieutenant Governor,,D,Copiah ,Centerpoint,217
-2,Johnny DuPree,Secretary of State,,D,Copiah ,Centerpoint,235
-2,Michael Watson,Secretary of State,,R,Copiah ,Centerpoint,349
-2,Jennifer Riley Collins,Attorney General,,D,Copiah ,Centerpoint,241
-2,Lynn Fitch,Attorney General,,R,Copiah ,Centerpoint,351
-2,Shad White,State Auditor,,R,Copiah ,Centerpoint,436
-4,Addie Lee Green,State Treasurer,,D,Copiah ,Centerpoint,221
-4,David McRae,State Treasurer,,R,Copiah ,Centerpoint,372
-4,Rickey L Cole,Commissioner of Agriculture & Commerce,,D,Copiah ,Centerpoint,228
-4,Andy Gipson,Commissioner of Agriculture & Commerce,,R,Copiah ,Centerpoint,359
-6,Chris Caughman ,State Senate,35,R,Copiah ,Centerpoint,x
-6,Albert Butler,State Senate,36,D,Copiah ,Centerpoint,438
-6,Sally Doty,State Senate,39,R,Copiah ,Centerpoint,x
-6,Tom Weathersby,State House,62,R,Copiah ,Centerpoint,x
-6,Gregory L Holloway Sr. ,State House,76,D,Copiah ,Centerpoint,327
-6,Bob Evans,State House,91,D,Copiah ,Centerpoint,x
-6,Becky Currie,State House,92,R,Copiah ,Centerpoint,145
-2,Jim Hood,Governor,,D,Copiah ,Crystal Springs East,651
-2,Tate Reeves,Governor,,R,Copiah ,Crystal Springs East,841
-2,Bob Hickingbottom,Governor,,C,Copiah ,Crystal Springs East,3
-2,David R Singletary,Governor,,IND,Copiah ,Crystal Springs East,5
-2,Delbert Hosemann,Lieutenant Governor,,R,Copiah ,Crystal Springs East,967
-2,Jay Hughes,Lieutenant Governor,,D,Copiah ,Crystal Springs East,509
-2,Johnny DuPree,Secretary of State,,D,Copiah ,Crystal Springs East,568
-2,Michael Watson,Secretary of State,,R,Copiah ,Crystal Springs East,901
-2,Jennifer Riley Collins,Attorney General,,D,Copiah ,Crystal Springs East,595
-2,Lynn Fitch,Attorney General,,R,Copiah ,Crystal Springs East,898
-2,Shad White,State Auditor,,R,Copiah ,Crystal Springs East,1162
-4,Addie Lee Green,State Treasurer,,D,Copiah ,Crystal Springs East,525
-4,David McRae,State Treasurer,,R,Copiah ,Crystal Springs East,950
-4,Rickey L Cole,Commissioner of Agriculture & Commerce,,D,Copiah ,Crystal Springs East,536
-4,Andy Gipson,Commissioner of Agriculture & Commerce,,R,Copiah ,Crystal Springs East,939
-6,Chris Caughman ,State Senate,35,R,Copiah ,Crystal Springs East,669
-6,Albert Butler,State Senate,36,D,Copiah ,Crystal Springs East,555
-6,Sally Doty,State Senate,39,R,Copiah ,Crystal Springs East,x
-6,Tom Weathersby,State House,62,R,Copiah ,Crystal Springs East,771
-6,Gregory L Holloway Sr. ,State House,76,D,Copiah ,Crystal Springs East,463
-6,Bob Evans,State House,91,D,Copiah ,Crystal Springs East,4
-6,Becky Currie,State House,92,R,Copiah ,Crystal Springs East,x
-2,Jim Hood,Governor,,D,Copiah ,Crystal Springs North ,191
-2,Tate Reeves,Governor,,R,Copiah ,Crystal Springs North ,53
-2,Bob Hickingbottom,Governor,,C,Copiah ,Crystal Springs North ,0
-2,David R Singletary,Governor,,IND,Copiah ,Crystal Springs North ,1
-2,Delbert Hosemann,Lieutenant Governor,,R,Copiah ,Crystal Springs North ,73
-2,Jay Hughes,Lieutenant Governor,,D,Copiah ,Crystal Springs North ,162
-2,Johnny DuPree,Secretary of State,,D,Copiah ,Crystal Springs North ,177
-2,Michael Watson,Secretary of State,,R,Copiah ,Crystal Springs North ,60
-2,Jennifer Riley Collins,Attorney General,,D,Copiah ,Crystal Springs North ,184
-2,Lynn Fitch,Attorney General,,R,Copiah ,Crystal Springs North ,58
-2,Shad White,State Auditor,,R,Copiah ,Crystal Springs North ,137
-4,Addie Lee Green,State Treasurer,,D,Copiah ,Crystal Springs North ,178
-4,David McRae,State Treasurer,,R,Copiah ,Crystal Springs North ,61
-4,Rickey L Cole,Commissioner of Agriculture & Commerce,,D,Copiah ,Crystal Springs North ,179
-4,Andy Gipson,Commissioner of Agriculture & Commerce,,R,Copiah ,Crystal Springs North ,60
-6,Chris Caughman ,State Senate,35,R,Copiah ,Crystal Springs North ,x
-6,Albert Butler,State Senate,36,D,Copiah ,Crystal Springs North ,219
-6,Sally Doty,State Senate,39,R,Copiah ,Crystal Springs North ,x
-6,Tom Weathersby,State House,62,R,Copiah ,Crystal Springs North ,x
-6,Gregory L Holloway Sr. ,State House,76,D,Copiah ,Crystal Springs North ,223
-6,Bob Evans,State House,91,D,Copiah ,Crystal Springs North ,x
-6,Becky Currie,State House,92,R,Copiah ,Crystal Springs North ,x
-2,Jim Hood,Governor,,D,Copiah ,Crystal Springs South,868
-2,Tate Reeves,Governor,,R,Copiah ,Crystal Springs South,300
-2,Bob Hickingbottom,Governor,,C,Copiah ,Crystal Springs South,0
-2,David R Singletary,Governor,,IND,Copiah ,Crystal Springs South,4
-2,Delbert Hosemann,Lieutenant Governor,,R,Copiah ,Crystal Springs South,403
-2,Jay Hughes,Lieutenant Governor,,D,Copiah ,Crystal Springs South,736
-2,Johnny DuPree,Secretary of State,,D,Copiah ,Crystal Springs South,799
-2,Michael Watson,Secretary of State,,R,Copiah ,Crystal Springs South,338
-2,Jennifer Riley Collins,Attorney General,,D,Copiah ,Crystal Springs South,799
-2,Lynn Fitch,Attorney General,,R,Copiah ,Crystal Springs South,361
-2,Shad White,State Auditor,,R,Copiah ,Crystal Springs South,696
-4,Addie Lee Green,State Treasurer,,D,Copiah ,Crystal Springs South,787
-4,David McRae,State Treasurer,,R,Copiah ,Crystal Springs South,356
-4,Rickey L Cole,Commissioner of Agriculture & Commerce,,D,Copiah ,Crystal Springs South,785
-4,Andy Gipson,Commissioner of Agriculture & Commerce,,R,Copiah ,Crystal Springs South,353
-6,Chris Caughman ,State Senate,35,R,Copiah ,Crystal Springs South,x
-6,Albert Butler,State Senate,36,D,Copiah ,Crystal Springs South,1021
-6,Sally Doty,State Senate,39,R,Copiah ,Crystal Springs South,x
-6,Tom Weathersby,State House,62,R,Copiah ,Crystal Springs South,2
-6,Gregory L Holloway Sr. ,State House,76,D,Copiah ,Crystal Springs South,979
-6,Bob Evans,State House,91,D,Copiah ,Crystal Springs South,x
-6,Becky Currie,State House,92,R,Copiah ,Crystal Springs South,x
-2,Jim Hood,Governor,,D,Copiah ,Crystal Springs West,301
-2,Tate Reeves,Governor,,R,Copiah ,Crystal Springs West,347
-2,Bob Hickingbottom,Governor,,C,Copiah ,Crystal Springs West,1
-2,David R Singletary,Governor,,IND,Copiah ,Crystal Springs West,5
-2,Delbert Hosemann,Lieutenant Governor,,R,Copiah ,Crystal Springs West,393
-2,Jay Hughes,Lieutenant Governor,,D,Copiah ,Crystal Springs West,250
-2,Johnny DuPree,Secretary of State,,D,Copiah ,Crystal Springs West,270
-2,Michael Watson,Secretary of State,,R,Copiah ,Crystal Springs West,365
-2,Jennifer Riley Collins,Attorney General,,D,Copiah ,Crystal Springs West,275
-2,Lynn Fitch,Attorney General,,R,Copiah ,Crystal Springs West,374
-2,Shad White,State Auditor,,R,Copiah ,Crystal Springs West,478
-4,Addie Lee Green,State Treasurer,,D,Copiah ,Crystal Springs West,257
-4,David McRae,State Treasurer,,R,Copiah ,Crystal Springs West,383
-4,Rickey L Cole,Commissioner of Agriculture & Commerce,,D,Copiah ,Crystal Springs West,259
-4,Andy Gipson,Commissioner of Agriculture & Commerce,,R,Copiah ,Crystal Springs West,376
-6,Chris Caughman ,State Senate,35,R,Copiah ,Crystal Springs West,x
-6,Albert Butler,State Senate,36,D,Copiah ,Crystal Springs West,480
-6,Sally Doty,State Senate,39,R,Copiah ,Crystal Springs West,x
-6,Tom Weathersby,State House,62,R,Copiah ,Crystal Springs West,x
-6,Gregory L Holloway Sr. ,State House,76,D,Copiah ,Crystal Springs West,510
-6,Bob Evans,State House,91,D,Copiah ,Crystal Springs West,x
-6,Becky Currie,State House,92,R,Copiah ,Crystal Springs West,x
-2,Jim Hood,Governor,,D,Copiah ,Dentville,58
-2,Tate Reeves,Governor,,R,Copiah ,Dentville,93
-2,Bob Hickingbottom,Governor,,C,Copiah ,Dentville,0
-2,David R Singletary,Governor,,IND,Copiah ,Dentville,0
-2,Delbert Hosemann,Lieutenant Governor,,R,Copiah ,Dentville,115
-2,Jay Hughes,Lieutenant Governor,,D,Copiah ,Dentville,33
-2,Johnny DuPree,Secretary of State,,D,Copiah ,Dentville,43
-2,Michael Watson,Secretary of State,,R,Copiah ,Dentville,104
-2,Jennifer Riley Collins,Attorney General,,D,Copiah ,Dentville,39
-2,Lynn Fitch,Attorney General,,R,Copiah ,Dentville,113
-2,Shad White,State Auditor,,R,Copiah ,Dentville,121
-4,Addie Lee Green,State Treasurer,,D,Copiah ,Dentville,35
-4,David McRae,State Treasurer,,R,Copiah ,Dentville,115
-4,Rickey L Cole,Commissioner of Agriculture & Commerce,,D,Copiah ,Dentville,39
-4,Andy Gipson,Commissioner of Agriculture & Commerce,,R,Copiah ,Dentville,108
-6,Chris Caughman ,State Senate,35,R,Copiah ,Dentville,x
-6,Albert Butler,State Senate,36,D,Copiah ,Dentville,105
-6,Sally Doty,State Senate,39,R,Copiah ,Dentville,x
-6,Tom Weathersby,State House,62,R,Copiah ,Dentville,x
-6,Gregory L Holloway Sr. ,State House,76,D,Copiah ,Dentville,116
-6,Bob Evans,State House,91,D,Copiah ,Dentville,x
-6,Becky Currie,State House,92,R,Copiah ,Dentville,x
-2,Jim Hood,Governor,,D,Copiah ,Gallman ,640
-2,Tate Reeves,Governor,,R,Copiah ,Gallman ,459
-2,Bob Hickingbottom,Governor,,C,Copiah ,Gallman ,3
-2,David R Singletary,Governor,,IND,Copiah ,Gallman ,2
-2,Delbert Hosemann,Lieutenant Governor,,R,Copiah ,Gallman ,532
-2,Jay Hughes,Lieutenant Governor,,D,Copiah ,Gallman ,530
-2,Johnny DuPree,Secretary of State,,D,Copiah ,Gallman ,587
-2,Michael Watson,Secretary of State,,R,Copiah ,Gallman ,478
-2,Jennifer Riley Collins,Attorney General,,D,Copiah ,Gallman ,592
-2,Lynn Fitch,Attorney General,,R,Copiah ,Gallman ,490
-2,Shad White,State Auditor,,R,Copiah ,Gallman ,748
-4,Addie Lee Green,State Treasurer,,D,Copiah ,Gallman ,568
-4,David McRae,State Treasurer,,R,Copiah ,Gallman ,503
-4,Rickey L Cole,Commissioner of Agriculture & Commerce,,D,Copiah ,Gallman ,575
-4,Andy Gipson,Commissioner of Agriculture & Commerce,,R,Copiah ,Gallman ,488
-6,Chris Caughman ,State Senate,35,R,Copiah ,Gallman ,x
-6,Albert Butler,State Senate,36,D,Copiah ,Gallman ,877
-6,Sally Doty,State Senate,39,R,Copiah ,Gallman ,x
-6,Tom Weathersby,State House,62,R,Copiah ,Gallman ,x
-6,Gregory L Holloway Sr. ,State House,76,D,Copiah ,Gallman ,927
-6,Bob Evans,State House,91,D,Copiah ,Gallman ,x
-6,Becky Currie,State House,92,R,Copiah ,Gallman ,x
-2,Jim Hood,Governor,,D,Copiah ,Georgetown North ,145
-2,Tate Reeves,Governor,,R,Copiah ,Georgetown North ,66
-2,Bob Hickingbottom,Governor,,C,Copiah ,Georgetown North ,1
-2,David R Singletary,Governor,,IND,Copiah ,Georgetown North ,0
-2,Delbert Hosemann,Lieutenant Governor,,R,Copiah ,Georgetown North ,82
-2,Jay Hughes,Lieutenant Governor,,D,Copiah ,Georgetown North ,126
-2,Johnny DuPree,Secretary of State,,D,Copiah ,Georgetown North ,131
-2,Michael Watson,Secretary of State,,R,Copiah ,Georgetown North ,75
-2,Jennifer Riley Collins,Attorney General,,D,Copiah ,Georgetown North ,141
-2,Lynn Fitch,Attorney General,,R,Copiah ,Georgetown North ,69
-2,Shad White,State Auditor,,R,Copiah ,Georgetown North ,137
-4,Addie Lee Green,State Treasurer,,D,Copiah ,Georgetown North ,135
-4,David McRae,State Treasurer,,R,Copiah ,Georgetown North ,72
-4,Rickey L Cole,Commissioner of Agriculture & Commerce,,D,Copiah ,Georgetown North ,137
-4,Andy Gipson,Commissioner of Agriculture & Commerce,,R,Copiah ,Georgetown North ,73
-6,Chris Caughman ,State Senate,35,R,Copiah ,Georgetown North ,x
-6,Albert Butler,State Senate,36,D,Copiah ,Georgetown North ,175
-6,Sally Doty,State Senate,39,R,Copiah ,Georgetown North ,x
-6,Tom Weathersby,State House,62,R,Copiah ,Georgetown North ,x
-6,Gregory L Holloway Sr. ,State House,76,D,Copiah ,Georgetown North ,x
-6,Bob Evans,State House,91,D,Copiah ,Georgetown North ,182
-6,Becky Currie,State House,92,R,Copiah ,Georgetown North ,x
-2,Jim Hood,Governor,,D,Copiah ,Georgetown South,105
-2,Tate Reeves,Governor,,R,Copiah ,Georgetown South,151
-2,Bob Hickingbottom,Governor,,C,Copiah ,Georgetown South,1
-2,David R Singletary,Governor,,IND,Copiah ,Georgetown South,0
-2,Delbert Hosemann,Lieutenant Governor,,R,Copiah ,Georgetown South,171
-2,Jay Hughes,Lieutenant Governor,,D,Copiah ,Georgetown South,77
-2,Johnny DuPree,Secretary of State,,D,Copiah ,Georgetown South,92
-2,Michael Watson,Secretary of State,,R,Copiah ,Georgetown South,160
-2,Jennifer Riley Collins,Attorney General,,D,Copiah ,Georgetown South,95
-2,Lynn Fitch,Attorney General,,R,Copiah ,Georgetown South,162
-2,Shad White,State Auditor,,R,Copiah ,Georgetown South,199
-4,Addie Lee Green,State Treasurer,,D,Copiah ,Georgetown South,84
-4,David McRae,State Treasurer,,R,Copiah ,Georgetown South,169
-4,Rickey L Cole,Commissioner of Agriculture & Commerce,,D,Copiah ,Georgetown South,91
-4,Andy Gipson,Commissioner of Agriculture & Commerce,,R,Copiah ,Georgetown South,159
-6,Chris Caughman ,State Senate,35,R,Copiah ,Georgetown South,x
-6,Albert Butler,State Senate,36,D,Copiah ,Georgetown South,x
-6,Sally Doty,State Senate,39,R,Copiah ,Georgetown South,196
-6,Tom Weathersby,State House,62,R,Copiah ,Georgetown South,x
-6,Gregory L Holloway Sr. ,State House,76,D,Copiah ,Georgetown South,x
-6,Bob Evans,State House,91,D,Copiah ,Georgetown South,79
-6,Becky Currie,State House,92,R,Copiah ,Georgetown South,107
-3,Jim Hood,Governor,,D,Copiah ,Hazlehurst East ,751
-3,Tate Reeves,Governor,,R,Copiah ,Hazlehurst East ,37
-3,Bob Hickingbottom,Governor,,C,Copiah ,Hazlehurst East ,1
-3,David R Singletary,Governor,,IND,Copiah ,Hazlehurst East ,4
-3,Delbert Hosemann,Lieutenant Governor,,R,Copiah ,Hazlehurst East ,88
-3,Jay Hughes,Lieutenant Governor,,D,Copiah ,Hazlehurst East ,682
-3,Johnny DuPree,Secretary of State,,D,Copiah ,Hazlehurst East ,708
-3,Michael Watson,Secretary of State,,R,Copiah ,Hazlehurst East ,58
-3,Jennifer Riley Collins,Attorney General,,D,Copiah ,Hazlehurst East ,730
-3,Lynn Fitch,Attorney General,,R,Copiah ,Hazlehurst East ,57
-3,Shad White,State Auditor,,R,Copiah ,Hazlehurst East ,373
-5,Addie Lee Green,State Treasurer,,D,Copiah ,Hazlehurst East ,704
-5,David McRae,State Treasurer,,R,Copiah ,Hazlehurst East ,67
-5,Rickey L Cole,Commissioner of Agriculture & Commerce,,D,Copiah ,Hazlehurst East ,711
-5,Andy Gipson,Commissioner of Agriculture & Commerce,,R,Copiah ,Hazlehurst East ,58
-7,Chris Caughman ,State Senate,35,R,Copiah ,Hazlehurst East ,x
-7,Albert Butler,State Senate,36,D,Copiah ,Hazlehurst East ,753
-7,Sally Doty,State Senate,39,R,Copiah ,Hazlehurst East ,x
-7,Tom Weathersby,State House,62,R,Copiah ,Hazlehurst East ,x
-7,Gregory L Holloway Sr. ,State House,76,D,Copiah ,Hazlehurst East ,775
-7,Bob Evans,State House,91,D,Copiah ,Hazlehurst East ,x
-7,Becky Currie,State House,92,R,Copiah ,Hazlehurst East ,x
-3,Jim Hood,Governor,,D,Copiah ,Hazlehurst North ,94
-3,Tate Reeves,Governor,,R,Copiah ,Hazlehurst North ,29
-3,Bob Hickingbottom,Governor,,C,Copiah ,Hazlehurst North ,0
-3,David R Singletary,Governor,,IND,Copiah ,Hazlehurst North ,0
-3,Delbert Hosemann,Lieutenant Governor,,R,Copiah ,Hazlehurst North ,41
-3,Jay Hughes,Lieutenant Governor,,D,Copiah ,Hazlehurst North ,79
-3,Johnny DuPree,Secretary of State,,D,Copiah ,Hazlehurst North ,88
-3,Michael Watson,Secretary of State,,R,Copiah ,Hazlehurst North ,32
-3,Jennifer Riley Collins,Attorney General,,D,Copiah ,Hazlehurst North ,86
-3,Lynn Fitch,Attorney General,,R,Copiah ,Hazlehurst North ,36
-3,Shad White,State Auditor,,R,Copiah ,Hazlehurst North ,78
-5,Addie Lee Green,State Treasurer,,D,Copiah ,Hazlehurst North ,82
-5,David McRae,State Treasurer,,R,Copiah ,Hazlehurst North ,39
-5,Rickey L Cole,Commissioner of Agriculture & Commerce,,D,Copiah ,Hazlehurst North ,83
-5,Andy Gipson,Commissioner of Agriculture & Commerce,,R,Copiah ,Hazlehurst North ,38
-7,Chris Caughman ,State Senate,35,R,Copiah ,Hazlehurst North ,x
-7,Albert Butler,State Senate,36,D,Copiah ,Hazlehurst North ,108
-7,Sally Doty,State Senate,39,R,Copiah ,Hazlehurst North ,x
-7,Tom Weathersby,State House,62,R,Copiah ,Hazlehurst North ,x
-7,Gregory L Holloway Sr. ,State House,76,D,Copiah ,Hazlehurst North ,114
-7,Bob Evans,State House,91,D,Copiah ,Hazlehurst North ,x
-7,Becky Currie,State House,92,R,Copiah ,Hazlehurst North ,x
-3,Jim Hood,Governor,,D,Copiah ,Hazlehurst South,169
-3,Tate Reeves,Governor,,R,Copiah ,Hazlehurst South,73
-3,Bob Hickingbottom,Governor,,C,Copiah ,Hazlehurst South,1
-3,David R Singletary,Governor,,IND,Copiah ,Hazlehurst South,1
-3,Delbert Hosemann,Lieutenant Governor,,R,Copiah ,Hazlehurst South,93
-3,Jay Hughes,Lieutenant Governor,,D,Copiah ,Hazlehurst South,144
-3,Johnny DuPree,Secretary of State,,D,Copiah ,Hazlehurst South,157
-3,Michael Watson,Secretary of State,,R,Copiah ,Hazlehurst South,82
-3,Jennifer Riley Collins,Attorney General,,D,Copiah ,Hazlehurst South,160
-3,Lynn Fitch,Attorney General,,R,Copiah ,Hazlehurst South,81
-3,Shad White,State Auditor,,R,Copiah ,Hazlehurst South,160
-5,Addie Lee Green,State Treasurer,,D,Copiah ,Hazlehurst South,153
-5,David McRae,State Treasurer,,R,Copiah ,Hazlehurst South,87
-5,Rickey L Cole,Commissioner of Agriculture & Commerce,,D,Copiah ,Hazlehurst South,157
-5,Andy Gipson,Commissioner of Agriculture & Commerce,,R,Copiah ,Hazlehurst South,84
-7,Chris Caughman ,State Senate,35,R,Copiah ,Hazlehurst South,x
-7,Albert Butler,State Senate,36,D,Copiah ,Hazlehurst South,223
-7,Sally Doty,State Senate,39,R,Copiah ,Hazlehurst South,x
-7,Tom Weathersby,State House,62,R,Copiah ,Hazlehurst South,x
-7,Gregory L Holloway Sr. ,State House,76,D,Copiah ,Hazlehurst South,227
-7,Bob Evans,State House,91,D,Copiah ,Hazlehurst South,x
-7,Becky Currie,State House,92,R,Copiah ,Hazlehurst South,x
-3,Jim Hood,Governor,,D,Copiah ,Hazlehurst West ,665
-3,Tate Reeves,Governor,,R,Copiah ,Hazlehurst West ,134
-3,Bob Hickingbottom,Governor,,C,Copiah ,Hazlehurst West ,2
-3,David R Singletary,Governor,,IND,Copiah ,Hazlehurst West ,7
-3,Delbert Hosemann,Lieutenant Governor,,R,Copiah ,Hazlehurst West ,205
-3,Jay Hughes,Lieutenant Governor,,D,Copiah ,Hazlehurst West ,576
-3,Johnny DuPree,Secretary of State,,D,Copiah ,Hazlehurst West ,604
-3,Michael Watson,Secretary of State,,R,Copiah ,Hazlehurst West ,173
-3,Jennifer Riley Collins,Attorney General,,D,Copiah ,Hazlehurst West ,625
-3,Lynn Fitch,Attorney General,,R,Copiah ,Hazlehurst West ,169
-3,Shad White,State Auditor,,R,Copiah ,Hazlehurst West ,471
-5,Addie Lee Green,State Treasurer,,D,Copiah ,Hazlehurst West ,588
-5,David McRae,State Treasurer,,R,Copiah ,Hazlehurst West ,194
-5,Rickey L Cole,Commissioner of Agriculture & Commerce,,D,Copiah ,Hazlehurst West ,611
-5,Andy Gipson,Commissioner of Agriculture & Commerce,,R,Copiah ,Hazlehurst West ,167
-7,Chris Caughman ,State Senate,35,R,Copiah ,Hazlehurst West ,x
-7,Albert Butler,State Senate,36,D,Copiah ,Hazlehurst West ,717
-7,Sally Doty,State Senate,39,R,Copiah ,Hazlehurst West ,x
-7,Tom Weathersby,State House,62,R,Copiah ,Hazlehurst West ,x
-7,Gregory L Holloway Sr. ,State House,76,D,Copiah ,Hazlehurst West ,744
-7,Bob Evans,State House,91,D,Copiah ,Hazlehurst West ,x
-7,Becky Currie,State House,92,R,Copiah ,Hazlehurst West ,x
-3,Jim Hood,Governor,,D,Copiah ,Martinsville,206
-3,Tate Reeves,Governor,,R,Copiah ,Martinsville,140
-3,Bob Hickingbottom,Governor,,C,Copiah ,Martinsville,2
-3,David R Singletary,Governor,,IND,Copiah ,Martinsville,0
-3,Delbert Hosemann,Lieutenant Governor,,R,Copiah ,Martinsville,166
-3,Jay Hughes,Lieutenant Governor,,D,Copiah ,Martinsville,174
-3,Johnny DuPree,Secretary of State,,D,Copiah ,Martinsville,187
-3,Michael Watson,Secretary of State,,R,Copiah ,Martinsville,154
-3,Jennifer Riley Collins,Attorney General,,D,Copiah ,Martinsville,192
-3,Lynn Fitch,Attorney General,,R,Copiah ,Martinsville,157
-3,Shad White,State Auditor,,R,Copiah ,Martinsville,237
-5,Addie Lee Green,State Treasurer,,D,Copiah ,Martinsville,183
-5,David McRae,State Treasurer,,R,Copiah ,Martinsville,159
-5,Rickey L Cole,Commissioner of Agriculture & Commerce,,D,Copiah ,Martinsville,186
-5,Andy Gipson,Commissioner of Agriculture & Commerce,,R,Copiah ,Martinsville,157
-7,Chris Caughman ,State Senate,35,R,Copiah ,Martinsville,x
-7,Albert Butler,State Senate,36,D,Copiah ,Martinsville,284
-7,Sally Doty,State Senate,39,R,Copiah ,Martinsville,x
-7,Tom Weathersby,State House,62,R,Copiah ,Martinsville,x
-7,Gregory L Holloway Sr. ,State House,76,D,Copiah ,Martinsville,311
-7,Bob Evans,State House,91,D,Copiah ,Martinsville,x
-7,Becky Currie,State House,92,R,Copiah ,Martinsville,x
-3,Jim Hood,Governor,,D,Copiah ,Shady Grove,116
-3,Tate Reeves,Governor,,R,Copiah ,Shady Grove,203
-3,Bob Hickingbottom,Governor,,C,Copiah ,Shady Grove,0
-3,David R Singletary,Governor,,IND,Copiah ,Shady Grove,2
-3,Delbert Hosemann,Lieutenant Governor,,R,Copiah ,Shady Grove,218
-3,Jay Hughes,Lieutenant Governor,,D,Copiah ,Shady Grove,99
-3,Johnny DuPree,Secretary of State,,D,Copiah ,Shady Grove,92
-3,Michael Watson,Secretary of State,,R,Copiah ,Shady Grove,221
-3,Jennifer Riley Collins,Attorney General,,D,Copiah ,Shady Grove,89
-3,Lynn Fitch,Attorney General,,R,Copiah ,Shady Grove,231
-3,Shad White,State Auditor,,R,Copiah ,Shady Grove,266
-5,Addie Lee Green,State Treasurer,,D,Copiah ,Shady Grove,76
-5,David McRae,State Treasurer,,R,Copiah ,Shady Grove,241
-5,Rickey L Cole,Commissioner of Agriculture & Commerce,,D,Copiah ,Shady Grove,84
-5,Andy Gipson,Commissioner of Agriculture & Commerce,,R,Copiah ,Shady Grove,236
-7,Chris Caughman ,State Senate,35,R,Copiah ,Shady Grove,x
-7,Albert Butler,State Senate,36,D,Copiah ,Shady Grove,x
-7,Sally Doty,State Senate,39,R,Copiah ,Shady Grove,268
-7,Tom Weathersby,State House,62,R,Copiah ,Shady Grove,x
-7,Gregory L Holloway Sr. ,State House,76,D,Copiah ,Shady Grove,x
-7,Bob Evans,State House,91,D,Copiah ,Shady Grove,x
-7,Becky Currie,State House,92,R,Copiah ,Shady Grove,268
-3,Jim Hood,Governor,,D,Copiah ,Stronghope Union,44
-3,Tate Reeves,Governor,,R,Copiah ,Stronghope Union,214
-3,Bob Hickingbottom,Governor,,C,Copiah ,Stronghope Union,0
-3,David R Singletary,Governor,,IND,Copiah ,Stronghope Union,4
-3,Delbert Hosemann,Lieutenant Governor,,R,Copiah ,Stronghope Union,240
-3,Jay Hughes,Lieutenant Governor,,D,Copiah ,Stronghope Union,20
-3,Johnny DuPree,Secretary of State,,D,Copiah ,Stronghope Union,30
-3,Michael Watson,Secretary of State,,R,Copiah ,Stronghope Union,231
-3,Jennifer Riley Collins,Attorney General,,D,Copiah ,Stronghope Union,30
-3,Lynn Fitch,Attorney General,,R,Copiah ,Stronghope Union,235
-3,Shad White,State Auditor,,R,Copiah ,Stronghope Union,242
-5,Addie Lee Green,State Treasurer,,D,Copiah ,Stronghope Union,22
-5,David McRae,State Treasurer,,R,Copiah ,Stronghope Union,239
-5,Rickey L Cole,Commissioner of Agriculture & Commerce,,D,Copiah ,Stronghope Union,28
-5,Andy Gipson,Commissioner of Agriculture & Commerce,,R,Copiah ,Stronghope Union,228
-7,Chris Caughman ,State Senate,35,R,Copiah ,Stronghope Union,x
-7,Albert Butler,State Senate,36,D,Copiah ,Stronghope Union,x
-7,Sally Doty,State Senate,39,R,Copiah ,Stronghope Union,249
-7,Tom Weathersby,State House,62,R,Copiah ,Stronghope Union,x
-7,Gregory L Holloway Sr. ,State House,76,D,Copiah ,Stronghope Union,x
-7,Bob Evans,State House,91,D,Copiah ,Stronghope Union,x
-7,Becky Currie,State House,92,R,Copiah ,Stronghope Union,245
-3,Jim Hood,Governor,,D,Copiah ,Wesson,128
-3,Tate Reeves,Governor,,R,Copiah ,Wesson,284
-3,Bob Hickingbottom,Governor,,C,Copiah ,Wesson,0
-3,David R Singletary,Governor,,IND,Copiah ,Wesson,8
-3,Delbert Hosemann,Lieutenant Governor,,R,Copiah ,Wesson,348
-3,Jay Hughes,Lieutenant Governor,,D,Copiah ,Wesson,69
-3,Johnny DuPree,Secretary of State,,D,Copiah ,Wesson,71
-3,Michael Watson,Secretary of State,,R,Copiah ,Wesson,342
-3,Jennifer Riley Collins,Attorney General,,D,Copiah ,Wesson,67
-3,Lynn Fitch,Attorney General,,R,Copiah ,Wesson,353
-3,Shad White,State Auditor,,R,Copiah ,Wesson,390
-5,Addie Lee Green,State Treasurer,,D,Copiah ,Wesson,56
-5,David McRae,State Treasurer,,R,Copiah ,Wesson,361
-5,Rickey L Cole,Commissioner of Agriculture & Commerce,,D,Copiah ,Wesson,65
-5,Andy Gipson,Commissioner of Agriculture & Commerce,,R,Copiah ,Wesson,351
-7,Chris Caughman ,State Senate,35,R,Copiah ,Wesson,x
-7,Albert Butler,State Senate,36,D,Copiah ,Wesson,23
-7,Sally Doty,State Senate,39,R,Copiah ,Wesson,360
-7,Tom Weathersby,State House,62,R,Copiah ,Wesson,x
-7,Gregory L Holloway Sr. ,State House,76,D,Copiah ,Wesson,x
-7,Bob Evans,State House,91,D,Copiah ,Wesson,x
-7,Becky Currie,State House,92,R,Copiah ,Wesson,392
-3,Jim Hood,Governor,,D,Copiah ,TOTAL ,5643
-3,Tate Reeves,Governor,,R,Copiah ,TOTAL ,4041
-3,Bob Hickingbottom,Governor,,C,Copiah ,TOTAL ,17
-3,David R Singletary,Governor,,IND,Copiah ,TOTAL ,51
-3,Delbert Hosemann,Lieutenant Governor,,R,Copiah ,TOTAL ,4857
-3,Jay Hughes,Lieutenant Governor,,D,Copiah ,TOTAL ,4666
-3,Johnny DuPree,Secretary of State,,D,Copiah ,TOTAL ,5047
-3,Michael Watson,Secretary of State,,R,Copiah ,TOTAL ,4443
-3,Jennifer Riley Collins,Attorney General,,D,Copiah ,TOTAL ,5150
-3,Lynn Fitch,Attorney General,,R,Copiah ,TOTAL ,4518
-3,Shad White,State Auditor,,R,Copiah ,TOTAL ,6745
-5,Addie Lee Green,State Treasurer,,D,Copiah ,TOTAL ,4845
-5,David McRae,State Treasurer,,R,Copiah ,TOTAL ,4703
-5,Rickey L Cole,Commissioner of Agriculture & Commerce,,D,Copiah ,TOTAL ,4950
-5,Andy Gipson,Commissioner of Agriculture & Commerce,,R,Copiah ,TOTAL ,4561
-7,Chris Caughman ,State Senate,35,R,Copiah ,TOTAL ,669
-7,Albert Butler,State Senate,36,D,Copiah ,TOTAL ,6359
-7,Sally Doty,State Senate,39,R,Copiah ,TOTAL ,1073
-7,Tom Weathersby,State House,62,R,Copiah ,TOTAL ,843
-7,Gregory L Holloway Sr. ,State House,76,D,Copiah ,TOTAL ,5970
-7,Bob Evans,State House,91,D,Copiah ,TOTAL ,265
-7,Becky Currie,State House,92,R,Copiah ,TOTAL ,1357
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
+﻿candidate,office,district,party,county,precinct,votes
+Jim Hood,Governor,,D,Copiah ,Beauregard ,146
+Tate Reeves,Governor,,R,Copiah ,Beauregard ,254
+Bob Hickingbottom,Governor,,C,Copiah ,Beauregard ,0
+David R Singletary,Governor,,IND,Copiah ,Beauregard ,4
+Delbert Hosemann,Lieutenant Governor,,R,Copiah ,Beauregard ,299
+Jay Hughes,Lieutenant Governor,,D,Copiah ,Beauregard ,101
+Johnny DuPree,Secretary of State,,D,Copiah ,Beauregard ,115
+Michael Watson,Secretary of State,,R,Copiah ,Beauregard ,280
+Jennifer Riley Collins,Attorney General,,D,Copiah ,Beauregard ,120
+Lynn Fitch,Attorney General,,R,Copiah ,Beauregard ,278
+Shad White,State Auditor,,R,Copiah ,Beauregard ,339
+Addie Lee Green,State Treasurer,,D,Copiah ,Beauregard ,99
+David McRae,State Treasurer,,R,Copiah ,Beauregard ,295
+Rickey L Cole,Commissioner of Agriculture & Commerce,,D,Copiah ,Beauregard ,110
+Andy Gipson,Commissioner of Agriculture & Commerce,,R,Copiah ,Beauregard ,282
+Chris Caughman ,State Senate,35,R,Copiah ,Beauregard ,x
+Albert Butler,State Senate,36,D,Copiah ,Beauregard ,269
+Sally Doty,State Senate,39,R,Copiah ,Beauregard ,x
+Tom Weathersby,State House,62,R,Copiah ,Beauregard ,x
+Gregory L Holloway Sr. ,State House,76,D,Copiah ,Beauregard ,141
+Bob Evans,State House,91,D,Copiah ,Beauregard ,x
+Becky Currie,State House,92,R,Copiah ,Beauregard ,200
+Jim Hood,Governor,,D,Copiah ,Carpenter,97
+Tate Reeves,Governor,,R,Copiah ,Carpenter,39
+Bob Hickingbottom,Governor,,C,Copiah ,Carpenter,0
+David R Singletary,Governor,,IND,Copiah ,Carpenter,0
+Delbert Hosemann,Lieutenant Governor,,R,Copiah ,Carpenter,51
+Jay Hughes,Lieutenant Governor,,D,Copiah ,Carpenter,82
+Johnny DuPree,Secretary of State,,D,Copiah ,Carpenter,93
+Michael Watson,Secretary of State,,R,Copiah ,Carpenter,40
+Jennifer Riley Collins,Attorney General,,D,Copiah ,Carpenter,90
+Lynn Fitch,Attorney General,,R,Copiah ,Carpenter,45
+Shad White,State Auditor,,R,Copiah ,Carpenter,75
+Addie Lee Green,State Treasurer,,D,Copiah ,Carpenter,92
+David McRae,State Treasurer,,R,Copiah ,Carpenter,40
+Rickey L Cole,Commissioner of Agriculture & Commerce,,D,Copiah ,Carpenter,86
+Andy Gipson,Commissioner of Agriculture & Commerce,,R,Copiah ,Carpenter,45
+Chris Caughman ,State Senate,35,R,Copiah ,Carpenter,x
+Albert Butler,State Senate,36,D,Copiah ,Carpenter,112
+Sally Doty,State Senate,39,R,Copiah ,Carpenter,x
+Tom Weathersby,State House,62,R,Copiah ,Carpenter,x
+Gregory L Holloway Sr. ,State House,76,D,Copiah ,Carpenter,113
+Bob Evans,State House,91,D,Copiah ,Carpenter,x
+Becky Currie,State House,92,R,Copiah ,Carpenter,x
+Jim Hood,Governor,,D,Copiah ,Centerpoint,268
+Tate Reeves,Governor,,R,Copiah ,Centerpoint,324
+Bob Hickingbottom,Governor,,C,Copiah ,Centerpoint,2
+David R Singletary,Governor,,IND,Copiah ,Centerpoint,4
+Delbert Hosemann,Lieutenant Governor,,R,Copiah ,Centerpoint,372
+Jay Hughes,Lieutenant Governor,,D,Copiah ,Centerpoint,217
+Johnny DuPree,Secretary of State,,D,Copiah ,Centerpoint,235
+Michael Watson,Secretary of State,,R,Copiah ,Centerpoint,349
+Jennifer Riley Collins,Attorney General,,D,Copiah ,Centerpoint,241
+Lynn Fitch,Attorney General,,R,Copiah ,Centerpoint,351
+Shad White,State Auditor,,R,Copiah ,Centerpoint,436
+Addie Lee Green,State Treasurer,,D,Copiah ,Centerpoint,221
+David McRae,State Treasurer,,R,Copiah ,Centerpoint,372
+Rickey L Cole,Commissioner of Agriculture & Commerce,,D,Copiah ,Centerpoint,228
+Andy Gipson,Commissioner of Agriculture & Commerce,,R,Copiah ,Centerpoint,359
+Chris Caughman ,State Senate,35,R,Copiah ,Centerpoint,x
+Albert Butler,State Senate,36,D,Copiah ,Centerpoint,438
+Sally Doty,State Senate,39,R,Copiah ,Centerpoint,x
+Tom Weathersby,State House,62,R,Copiah ,Centerpoint,x
+Gregory L Holloway Sr. ,State House,76,D,Copiah ,Centerpoint,327
+Bob Evans,State House,91,D,Copiah ,Centerpoint,x
+Becky Currie,State House,92,R,Copiah ,Centerpoint,145
+Jim Hood,Governor,,D,Copiah ,Crystal Springs East,651
+Tate Reeves,Governor,,R,Copiah ,Crystal Springs East,841
+Bob Hickingbottom,Governor,,C,Copiah ,Crystal Springs East,3
+David R Singletary,Governor,,IND,Copiah ,Crystal Springs East,5
+Delbert Hosemann,Lieutenant Governor,,R,Copiah ,Crystal Springs East,967
+Jay Hughes,Lieutenant Governor,,D,Copiah ,Crystal Springs East,509
+Johnny DuPree,Secretary of State,,D,Copiah ,Crystal Springs East,568
+Michael Watson,Secretary of State,,R,Copiah ,Crystal Springs East,901
+Jennifer Riley Collins,Attorney General,,D,Copiah ,Crystal Springs East,595
+Lynn Fitch,Attorney General,,R,Copiah ,Crystal Springs East,898
+Shad White,State Auditor,,R,Copiah ,Crystal Springs East,1162
+Addie Lee Green,State Treasurer,,D,Copiah ,Crystal Springs East,525
+David McRae,State Treasurer,,R,Copiah ,Crystal Springs East,950
+Rickey L Cole,Commissioner of Agriculture & Commerce,,D,Copiah ,Crystal Springs East,536
+Andy Gipson,Commissioner of Agriculture & Commerce,,R,Copiah ,Crystal Springs East,939
+Chris Caughman ,State Senate,35,R,Copiah ,Crystal Springs East,669
+Albert Butler,State Senate,36,D,Copiah ,Crystal Springs East,555
+Sally Doty,State Senate,39,R,Copiah ,Crystal Springs East,x
+Tom Weathersby,State House,62,R,Copiah ,Crystal Springs East,771
+Gregory L Holloway Sr. ,State House,76,D,Copiah ,Crystal Springs East,463
+Bob Evans,State House,91,D,Copiah ,Crystal Springs East,4
+Becky Currie,State House,92,R,Copiah ,Crystal Springs East,x
+Jim Hood,Governor,,D,Copiah ,Crystal Springs North ,191
+Tate Reeves,Governor,,R,Copiah ,Crystal Springs North ,53
+Bob Hickingbottom,Governor,,C,Copiah ,Crystal Springs North ,0
+David R Singletary,Governor,,IND,Copiah ,Crystal Springs North ,1
+Delbert Hosemann,Lieutenant Governor,,R,Copiah ,Crystal Springs North ,73
+Jay Hughes,Lieutenant Governor,,D,Copiah ,Crystal Springs North ,162
+Johnny DuPree,Secretary of State,,D,Copiah ,Crystal Springs North ,177
+Michael Watson,Secretary of State,,R,Copiah ,Crystal Springs North ,60
+Jennifer Riley Collins,Attorney General,,D,Copiah ,Crystal Springs North ,184
+Lynn Fitch,Attorney General,,R,Copiah ,Crystal Springs North ,58
+Shad White,State Auditor,,R,Copiah ,Crystal Springs North ,137
+Addie Lee Green,State Treasurer,,D,Copiah ,Crystal Springs North ,178
+David McRae,State Treasurer,,R,Copiah ,Crystal Springs North ,61
+Rickey L Cole,Commissioner of Agriculture & Commerce,,D,Copiah ,Crystal Springs North ,179
+Andy Gipson,Commissioner of Agriculture & Commerce,,R,Copiah ,Crystal Springs North ,60
+Chris Caughman ,State Senate,35,R,Copiah ,Crystal Springs North ,x
+Albert Butler,State Senate,36,D,Copiah ,Crystal Springs North ,219
+Sally Doty,State Senate,39,R,Copiah ,Crystal Springs North ,x
+Tom Weathersby,State House,62,R,Copiah ,Crystal Springs North ,x
+Gregory L Holloway Sr. ,State House,76,D,Copiah ,Crystal Springs North ,223
+Bob Evans,State House,91,D,Copiah ,Crystal Springs North ,x
+Becky Currie,State House,92,R,Copiah ,Crystal Springs North ,x
+Jim Hood,Governor,,D,Copiah ,Crystal Springs South,868
+Tate Reeves,Governor,,R,Copiah ,Crystal Springs South,300
+Bob Hickingbottom,Governor,,C,Copiah ,Crystal Springs South,0
+David R Singletary,Governor,,IND,Copiah ,Crystal Springs South,4
+Delbert Hosemann,Lieutenant Governor,,R,Copiah ,Crystal Springs South,403
+Jay Hughes,Lieutenant Governor,,D,Copiah ,Crystal Springs South,736
+Johnny DuPree,Secretary of State,,D,Copiah ,Crystal Springs South,799
+Michael Watson,Secretary of State,,R,Copiah ,Crystal Springs South,338
+Jennifer Riley Collins,Attorney General,,D,Copiah ,Crystal Springs South,799
+Lynn Fitch,Attorney General,,R,Copiah ,Crystal Springs South,361
+Shad White,State Auditor,,R,Copiah ,Crystal Springs South,696
+Addie Lee Green,State Treasurer,,D,Copiah ,Crystal Springs South,787
+David McRae,State Treasurer,,R,Copiah ,Crystal Springs South,356
+Rickey L Cole,Commissioner of Agriculture & Commerce,,D,Copiah ,Crystal Springs South,785
+Andy Gipson,Commissioner of Agriculture & Commerce,,R,Copiah ,Crystal Springs South,353
+Chris Caughman ,State Senate,35,R,Copiah ,Crystal Springs South,x
+Albert Butler,State Senate,36,D,Copiah ,Crystal Springs South,1021
+Sally Doty,State Senate,39,R,Copiah ,Crystal Springs South,x
+Tom Weathersby,State House,62,R,Copiah ,Crystal Springs South,2
+Gregory L Holloway Sr. ,State House,76,D,Copiah ,Crystal Springs South,979
+Bob Evans,State House,91,D,Copiah ,Crystal Springs South,x
+Becky Currie,State House,92,R,Copiah ,Crystal Springs South,x
+Jim Hood,Governor,,D,Copiah ,Crystal Springs West,301
+Tate Reeves,Governor,,R,Copiah ,Crystal Springs West,347
+Bob Hickingbottom,Governor,,C,Copiah ,Crystal Springs West,1
+David R Singletary,Governor,,IND,Copiah ,Crystal Springs West,5
+Delbert Hosemann,Lieutenant Governor,,R,Copiah ,Crystal Springs West,393
+Jay Hughes,Lieutenant Governor,,D,Copiah ,Crystal Springs West,250
+Johnny DuPree,Secretary of State,,D,Copiah ,Crystal Springs West,270
+Michael Watson,Secretary of State,,R,Copiah ,Crystal Springs West,365
+Jennifer Riley Collins,Attorney General,,D,Copiah ,Crystal Springs West,275
+Lynn Fitch,Attorney General,,R,Copiah ,Crystal Springs West,374
+Shad White,State Auditor,,R,Copiah ,Crystal Springs West,478
+Addie Lee Green,State Treasurer,,D,Copiah ,Crystal Springs West,257
+David McRae,State Treasurer,,R,Copiah ,Crystal Springs West,383
+Rickey L Cole,Commissioner of Agriculture & Commerce,,D,Copiah ,Crystal Springs West,259
+Andy Gipson,Commissioner of Agriculture & Commerce,,R,Copiah ,Crystal Springs West,376
+Chris Caughman ,State Senate,35,R,Copiah ,Crystal Springs West,x
+Albert Butler,State Senate,36,D,Copiah ,Crystal Springs West,480
+Sally Doty,State Senate,39,R,Copiah ,Crystal Springs West,x
+Tom Weathersby,State House,62,R,Copiah ,Crystal Springs West,x
+Gregory L Holloway Sr. ,State House,76,D,Copiah ,Crystal Springs West,510
+Bob Evans,State House,91,D,Copiah ,Crystal Springs West,x
+Becky Currie,State House,92,R,Copiah ,Crystal Springs West,x
+Jim Hood,Governor,,D,Copiah ,Dentville,58
+Tate Reeves,Governor,,R,Copiah ,Dentville,93
+Bob Hickingbottom,Governor,,C,Copiah ,Dentville,0
+David R Singletary,Governor,,IND,Copiah ,Dentville,0
+Delbert Hosemann,Lieutenant Governor,,R,Copiah ,Dentville,115
+Jay Hughes,Lieutenant Governor,,D,Copiah ,Dentville,33
+Johnny DuPree,Secretary of State,,D,Copiah ,Dentville,43
+Michael Watson,Secretary of State,,R,Copiah ,Dentville,104
+Jennifer Riley Collins,Attorney General,,D,Copiah ,Dentville,39
+Lynn Fitch,Attorney General,,R,Copiah ,Dentville,113
+Shad White,State Auditor,,R,Copiah ,Dentville,121
+Addie Lee Green,State Treasurer,,D,Copiah ,Dentville,35
+David McRae,State Treasurer,,R,Copiah ,Dentville,115
+Rickey L Cole,Commissioner of Agriculture & Commerce,,D,Copiah ,Dentville,39
+Andy Gipson,Commissioner of Agriculture & Commerce,,R,Copiah ,Dentville,108
+Chris Caughman ,State Senate,35,R,Copiah ,Dentville,x
+Albert Butler,State Senate,36,D,Copiah ,Dentville,105
+Sally Doty,State Senate,39,R,Copiah ,Dentville,x
+Tom Weathersby,State House,62,R,Copiah ,Dentville,x
+Gregory L Holloway Sr. ,State House,76,D,Copiah ,Dentville,116
+Bob Evans,State House,91,D,Copiah ,Dentville,x
+Becky Currie,State House,92,R,Copiah ,Dentville,x
+Jim Hood,Governor,,D,Copiah ,Gallman ,640
+Tate Reeves,Governor,,R,Copiah ,Gallman ,459
+Bob Hickingbottom,Governor,,C,Copiah ,Gallman ,3
+David R Singletary,Governor,,IND,Copiah ,Gallman ,2
+Delbert Hosemann,Lieutenant Governor,,R,Copiah ,Gallman ,532
+Jay Hughes,Lieutenant Governor,,D,Copiah ,Gallman ,530
+Johnny DuPree,Secretary of State,,D,Copiah ,Gallman ,587
+Michael Watson,Secretary of State,,R,Copiah ,Gallman ,478
+Jennifer Riley Collins,Attorney General,,D,Copiah ,Gallman ,592
+Lynn Fitch,Attorney General,,R,Copiah ,Gallman ,490
+Shad White,State Auditor,,R,Copiah ,Gallman ,748
+Addie Lee Green,State Treasurer,,D,Copiah ,Gallman ,568
+David McRae,State Treasurer,,R,Copiah ,Gallman ,503
+Rickey L Cole,Commissioner of Agriculture & Commerce,,D,Copiah ,Gallman ,575
+Andy Gipson,Commissioner of Agriculture & Commerce,,R,Copiah ,Gallman ,488
+Chris Caughman ,State Senate,35,R,Copiah ,Gallman ,x
+Albert Butler,State Senate,36,D,Copiah ,Gallman ,877
+Sally Doty,State Senate,39,R,Copiah ,Gallman ,x
+Tom Weathersby,State House,62,R,Copiah ,Gallman ,x
+Gregory L Holloway Sr. ,State House,76,D,Copiah ,Gallman ,927
+Bob Evans,State House,91,D,Copiah ,Gallman ,x
+Becky Currie,State House,92,R,Copiah ,Gallman ,x
+Jim Hood,Governor,,D,Copiah ,Georgetown North ,145
+Tate Reeves,Governor,,R,Copiah ,Georgetown North ,66
+Bob Hickingbottom,Governor,,C,Copiah ,Georgetown North ,1
+David R Singletary,Governor,,IND,Copiah ,Georgetown North ,0
+Delbert Hosemann,Lieutenant Governor,,R,Copiah ,Georgetown North ,82
+Jay Hughes,Lieutenant Governor,,D,Copiah ,Georgetown North ,126
+Johnny DuPree,Secretary of State,,D,Copiah ,Georgetown North ,131
+Michael Watson,Secretary of State,,R,Copiah ,Georgetown North ,75
+Jennifer Riley Collins,Attorney General,,D,Copiah ,Georgetown North ,141
+Lynn Fitch,Attorney General,,R,Copiah ,Georgetown North ,69
+Shad White,State Auditor,,R,Copiah ,Georgetown North ,137
+Addie Lee Green,State Treasurer,,D,Copiah ,Georgetown North ,135
+David McRae,State Treasurer,,R,Copiah ,Georgetown North ,72
+Rickey L Cole,Commissioner of Agriculture & Commerce,,D,Copiah ,Georgetown North ,137
+Andy Gipson,Commissioner of Agriculture & Commerce,,R,Copiah ,Georgetown North ,73
+Chris Caughman ,State Senate,35,R,Copiah ,Georgetown North ,x
+Albert Butler,State Senate,36,D,Copiah ,Georgetown North ,175
+Sally Doty,State Senate,39,R,Copiah ,Georgetown North ,x
+Tom Weathersby,State House,62,R,Copiah ,Georgetown North ,x
+Gregory L Holloway Sr. ,State House,76,D,Copiah ,Georgetown North ,x
+Bob Evans,State House,91,D,Copiah ,Georgetown North ,182
+Becky Currie,State House,92,R,Copiah ,Georgetown North ,x
+Jim Hood,Governor,,D,Copiah ,Georgetown South,105
+Tate Reeves,Governor,,R,Copiah ,Georgetown South,151
+Bob Hickingbottom,Governor,,C,Copiah ,Georgetown South,1
+David R Singletary,Governor,,IND,Copiah ,Georgetown South,0
+Delbert Hosemann,Lieutenant Governor,,R,Copiah ,Georgetown South,171
+Jay Hughes,Lieutenant Governor,,D,Copiah ,Georgetown South,77
+Johnny DuPree,Secretary of State,,D,Copiah ,Georgetown South,92
+Michael Watson,Secretary of State,,R,Copiah ,Georgetown South,160
+Jennifer Riley Collins,Attorney General,,D,Copiah ,Georgetown South,95
+Lynn Fitch,Attorney General,,R,Copiah ,Georgetown South,162
+Shad White,State Auditor,,R,Copiah ,Georgetown South,199
+Addie Lee Green,State Treasurer,,D,Copiah ,Georgetown South,84
+David McRae,State Treasurer,,R,Copiah ,Georgetown South,169
+Rickey L Cole,Commissioner of Agriculture & Commerce,,D,Copiah ,Georgetown South,91
+Andy Gipson,Commissioner of Agriculture & Commerce,,R,Copiah ,Georgetown South,159
+Chris Caughman ,State Senate,35,R,Copiah ,Georgetown South,x
+Albert Butler,State Senate,36,D,Copiah ,Georgetown South,x
+Sally Doty,State Senate,39,R,Copiah ,Georgetown South,196
+Tom Weathersby,State House,62,R,Copiah ,Georgetown South,x
+Gregory L Holloway Sr. ,State House,76,D,Copiah ,Georgetown South,x
+Bob Evans,State House,91,D,Copiah ,Georgetown South,79
+Becky Currie,State House,92,R,Copiah ,Georgetown South,107
+Jim Hood,Governor,,D,Copiah ,Hazlehurst East ,751
+Tate Reeves,Governor,,R,Copiah ,Hazlehurst East ,37
+Bob Hickingbottom,Governor,,C,Copiah ,Hazlehurst East ,1
+David R Singletary,Governor,,IND,Copiah ,Hazlehurst East ,4
+Delbert Hosemann,Lieutenant Governor,,R,Copiah ,Hazlehurst East ,88
+Jay Hughes,Lieutenant Governor,,D,Copiah ,Hazlehurst East ,682
+Johnny DuPree,Secretary of State,,D,Copiah ,Hazlehurst East ,708
+Michael Watson,Secretary of State,,R,Copiah ,Hazlehurst East ,58
+Jennifer Riley Collins,Attorney General,,D,Copiah ,Hazlehurst East ,730
+Lynn Fitch,Attorney General,,R,Copiah ,Hazlehurst East ,57
+Shad White,State Auditor,,R,Copiah ,Hazlehurst East ,373
+Addie Lee Green,State Treasurer,,D,Copiah ,Hazlehurst East ,704
+David McRae,State Treasurer,,R,Copiah ,Hazlehurst East ,67
+Rickey L Cole,Commissioner of Agriculture & Commerce,,D,Copiah ,Hazlehurst East ,711
+Andy Gipson,Commissioner of Agriculture & Commerce,,R,Copiah ,Hazlehurst East ,58
+Chris Caughman ,State Senate,35,R,Copiah ,Hazlehurst East ,x
+Albert Butler,State Senate,36,D,Copiah ,Hazlehurst East ,753
+Sally Doty,State Senate,39,R,Copiah ,Hazlehurst East ,x
+Tom Weathersby,State House,62,R,Copiah ,Hazlehurst East ,x
+Gregory L Holloway Sr. ,State House,76,D,Copiah ,Hazlehurst East ,775
+Bob Evans,State House,91,D,Copiah ,Hazlehurst East ,x
+Becky Currie,State House,92,R,Copiah ,Hazlehurst East ,x
+Jim Hood,Governor,,D,Copiah ,Hazlehurst North ,94
+Tate Reeves,Governor,,R,Copiah ,Hazlehurst North ,29
+Bob Hickingbottom,Governor,,C,Copiah ,Hazlehurst North ,0
+David R Singletary,Governor,,IND,Copiah ,Hazlehurst North ,0
+Delbert Hosemann,Lieutenant Governor,,R,Copiah ,Hazlehurst North ,41
+Jay Hughes,Lieutenant Governor,,D,Copiah ,Hazlehurst North ,79
+Johnny DuPree,Secretary of State,,D,Copiah ,Hazlehurst North ,88
+Michael Watson,Secretary of State,,R,Copiah ,Hazlehurst North ,32
+Jennifer Riley Collins,Attorney General,,D,Copiah ,Hazlehurst North ,86
+Lynn Fitch,Attorney General,,R,Copiah ,Hazlehurst North ,36
+Shad White,State Auditor,,R,Copiah ,Hazlehurst North ,78
+Addie Lee Green,State Treasurer,,D,Copiah ,Hazlehurst North ,82
+David McRae,State Treasurer,,R,Copiah ,Hazlehurst North ,39
+Rickey L Cole,Commissioner of Agriculture & Commerce,,D,Copiah ,Hazlehurst North ,83
+Andy Gipson,Commissioner of Agriculture & Commerce,,R,Copiah ,Hazlehurst North ,38
+Chris Caughman ,State Senate,35,R,Copiah ,Hazlehurst North ,x
+Albert Butler,State Senate,36,D,Copiah ,Hazlehurst North ,108
+Sally Doty,State Senate,39,R,Copiah ,Hazlehurst North ,x
+Tom Weathersby,State House,62,R,Copiah ,Hazlehurst North ,x
+Gregory L Holloway Sr. ,State House,76,D,Copiah ,Hazlehurst North ,114
+Bob Evans,State House,91,D,Copiah ,Hazlehurst North ,x
+Becky Currie,State House,92,R,Copiah ,Hazlehurst North ,x
+Jim Hood,Governor,,D,Copiah ,Hazlehurst South,169
+Tate Reeves,Governor,,R,Copiah ,Hazlehurst South,73
+Bob Hickingbottom,Governor,,C,Copiah ,Hazlehurst South,1
+David R Singletary,Governor,,IND,Copiah ,Hazlehurst South,1
+Delbert Hosemann,Lieutenant Governor,,R,Copiah ,Hazlehurst South,93
+Jay Hughes,Lieutenant Governor,,D,Copiah ,Hazlehurst South,144
+Johnny DuPree,Secretary of State,,D,Copiah ,Hazlehurst South,157
+Michael Watson,Secretary of State,,R,Copiah ,Hazlehurst South,82
+Jennifer Riley Collins,Attorney General,,D,Copiah ,Hazlehurst South,160
+Lynn Fitch,Attorney General,,R,Copiah ,Hazlehurst South,81
+Shad White,State Auditor,,R,Copiah ,Hazlehurst South,160
+Addie Lee Green,State Treasurer,,D,Copiah ,Hazlehurst South,153
+David McRae,State Treasurer,,R,Copiah ,Hazlehurst South,87
+Rickey L Cole,Commissioner of Agriculture & Commerce,,D,Copiah ,Hazlehurst South,157
+Andy Gipson,Commissioner of Agriculture & Commerce,,R,Copiah ,Hazlehurst South,84
+Chris Caughman ,State Senate,35,R,Copiah ,Hazlehurst South,x
+Albert Butler,State Senate,36,D,Copiah ,Hazlehurst South,223
+Sally Doty,State Senate,39,R,Copiah ,Hazlehurst South,x
+Tom Weathersby,State House,62,R,Copiah ,Hazlehurst South,x
+Gregory L Holloway Sr. ,State House,76,D,Copiah ,Hazlehurst South,227
+Bob Evans,State House,91,D,Copiah ,Hazlehurst South,x
+Becky Currie,State House,92,R,Copiah ,Hazlehurst South,x
+Jim Hood,Governor,,D,Copiah ,Hazlehurst West ,665
+Tate Reeves,Governor,,R,Copiah ,Hazlehurst West ,134
+Bob Hickingbottom,Governor,,C,Copiah ,Hazlehurst West ,2
+David R Singletary,Governor,,IND,Copiah ,Hazlehurst West ,7
+Delbert Hosemann,Lieutenant Governor,,R,Copiah ,Hazlehurst West ,205
+Jay Hughes,Lieutenant Governor,,D,Copiah ,Hazlehurst West ,576
+Johnny DuPree,Secretary of State,,D,Copiah ,Hazlehurst West ,604
+Michael Watson,Secretary of State,,R,Copiah ,Hazlehurst West ,173
+Jennifer Riley Collins,Attorney General,,D,Copiah ,Hazlehurst West ,625
+Lynn Fitch,Attorney General,,R,Copiah ,Hazlehurst West ,169
+Shad White,State Auditor,,R,Copiah ,Hazlehurst West ,471
+Addie Lee Green,State Treasurer,,D,Copiah ,Hazlehurst West ,588
+David McRae,State Treasurer,,R,Copiah ,Hazlehurst West ,194
+Rickey L Cole,Commissioner of Agriculture & Commerce,,D,Copiah ,Hazlehurst West ,611
+Andy Gipson,Commissioner of Agriculture & Commerce,,R,Copiah ,Hazlehurst West ,167
+Chris Caughman ,State Senate,35,R,Copiah ,Hazlehurst West ,x
+Albert Butler,State Senate,36,D,Copiah ,Hazlehurst West ,717
+Sally Doty,State Senate,39,R,Copiah ,Hazlehurst West ,x
+Tom Weathersby,State House,62,R,Copiah ,Hazlehurst West ,x
+Gregory L Holloway Sr. ,State House,76,D,Copiah ,Hazlehurst West ,744
+Bob Evans,State House,91,D,Copiah ,Hazlehurst West ,x
+Becky Currie,State House,92,R,Copiah ,Hazlehurst West ,x
+Jim Hood,Governor,,D,Copiah ,Martinsville,206
+Tate Reeves,Governor,,R,Copiah ,Martinsville,140
+Bob Hickingbottom,Governor,,C,Copiah ,Martinsville,2
+David R Singletary,Governor,,IND,Copiah ,Martinsville,0
+Delbert Hosemann,Lieutenant Governor,,R,Copiah ,Martinsville,166
+Jay Hughes,Lieutenant Governor,,D,Copiah ,Martinsville,174
+Johnny DuPree,Secretary of State,,D,Copiah ,Martinsville,187
+Michael Watson,Secretary of State,,R,Copiah ,Martinsville,154
+Jennifer Riley Collins,Attorney General,,D,Copiah ,Martinsville,192
+Lynn Fitch,Attorney General,,R,Copiah ,Martinsville,157
+Shad White,State Auditor,,R,Copiah ,Martinsville,237
+Addie Lee Green,State Treasurer,,D,Copiah ,Martinsville,183
+David McRae,State Treasurer,,R,Copiah ,Martinsville,159
+Rickey L Cole,Commissioner of Agriculture & Commerce,,D,Copiah ,Martinsville,186
+Andy Gipson,Commissioner of Agriculture & Commerce,,R,Copiah ,Martinsville,157
+Chris Caughman ,State Senate,35,R,Copiah ,Martinsville,x
+Albert Butler,State Senate,36,D,Copiah ,Martinsville,284
+Sally Doty,State Senate,39,R,Copiah ,Martinsville,x
+Tom Weathersby,State House,62,R,Copiah ,Martinsville,x
+Gregory L Holloway Sr. ,State House,76,D,Copiah ,Martinsville,311
+Bob Evans,State House,91,D,Copiah ,Martinsville,x
+Becky Currie,State House,92,R,Copiah ,Martinsville,x
+Jim Hood,Governor,,D,Copiah ,Shady Grove,116
+Tate Reeves,Governor,,R,Copiah ,Shady Grove,203
+Bob Hickingbottom,Governor,,C,Copiah ,Shady Grove,0
+David R Singletary,Governor,,IND,Copiah ,Shady Grove,2
+Delbert Hosemann,Lieutenant Governor,,R,Copiah ,Shady Grove,218
+Jay Hughes,Lieutenant Governor,,D,Copiah ,Shady Grove,99
+Johnny DuPree,Secretary of State,,D,Copiah ,Shady Grove,92
+Michael Watson,Secretary of State,,R,Copiah ,Shady Grove,221
+Jennifer Riley Collins,Attorney General,,D,Copiah ,Shady Grove,89
+Lynn Fitch,Attorney General,,R,Copiah ,Shady Grove,231
+Shad White,State Auditor,,R,Copiah ,Shady Grove,266
+Addie Lee Green,State Treasurer,,D,Copiah ,Shady Grove,76
+David McRae,State Treasurer,,R,Copiah ,Shady Grove,241
+Rickey L Cole,Commissioner of Agriculture & Commerce,,D,Copiah ,Shady Grove,84
+Andy Gipson,Commissioner of Agriculture & Commerce,,R,Copiah ,Shady Grove,236
+Chris Caughman ,State Senate,35,R,Copiah ,Shady Grove,x
+Albert Butler,State Senate,36,D,Copiah ,Shady Grove,x
+Sally Doty,State Senate,39,R,Copiah ,Shady Grove,268
+Tom Weathersby,State House,62,R,Copiah ,Shady Grove,x
+Gregory L Holloway Sr. ,State House,76,D,Copiah ,Shady Grove,x
+Bob Evans,State House,91,D,Copiah ,Shady Grove,x
+Becky Currie,State House,92,R,Copiah ,Shady Grove,268
+Jim Hood,Governor,,D,Copiah ,Stronghope Union,44
+Tate Reeves,Governor,,R,Copiah ,Stronghope Union,214
+Bob Hickingbottom,Governor,,C,Copiah ,Stronghope Union,0
+David R Singletary,Governor,,IND,Copiah ,Stronghope Union,4
+Delbert Hosemann,Lieutenant Governor,,R,Copiah ,Stronghope Union,240
+Jay Hughes,Lieutenant Governor,,D,Copiah ,Stronghope Union,20
+Johnny DuPree,Secretary of State,,D,Copiah ,Stronghope Union,30
+Michael Watson,Secretary of State,,R,Copiah ,Stronghope Union,231
+Jennifer Riley Collins,Attorney General,,D,Copiah ,Stronghope Union,30
+Lynn Fitch,Attorney General,,R,Copiah ,Stronghope Union,235
+Shad White,State Auditor,,R,Copiah ,Stronghope Union,242
+Addie Lee Green,State Treasurer,,D,Copiah ,Stronghope Union,22
+David McRae,State Treasurer,,R,Copiah ,Stronghope Union,239
+Rickey L Cole,Commissioner of Agriculture & Commerce,,D,Copiah ,Stronghope Union,28
+Andy Gipson,Commissioner of Agriculture & Commerce,,R,Copiah ,Stronghope Union,228
+Chris Caughman ,State Senate,35,R,Copiah ,Stronghope Union,x
+Albert Butler,State Senate,36,D,Copiah ,Stronghope Union,x
+Sally Doty,State Senate,39,R,Copiah ,Stronghope Union,249
+Tom Weathersby,State House,62,R,Copiah ,Stronghope Union,x
+Gregory L Holloway Sr. ,State House,76,D,Copiah ,Stronghope Union,x
+Bob Evans,State House,91,D,Copiah ,Stronghope Union,x
+Becky Currie,State House,92,R,Copiah ,Stronghope Union,245
+Jim Hood,Governor,,D,Copiah ,Wesson,128
+Tate Reeves,Governor,,R,Copiah ,Wesson,284
+Bob Hickingbottom,Governor,,C,Copiah ,Wesson,0
+David R Singletary,Governor,,IND,Copiah ,Wesson,8
+Delbert Hosemann,Lieutenant Governor,,R,Copiah ,Wesson,348
+Jay Hughes,Lieutenant Governor,,D,Copiah ,Wesson,69
+Johnny DuPree,Secretary of State,,D,Copiah ,Wesson,71
+Michael Watson,Secretary of State,,R,Copiah ,Wesson,342
+Jennifer Riley Collins,Attorney General,,D,Copiah ,Wesson,67
+Lynn Fitch,Attorney General,,R,Copiah ,Wesson,353
+Shad White,State Auditor,,R,Copiah ,Wesson,390
+Addie Lee Green,State Treasurer,,D,Copiah ,Wesson,56
+David McRae,State Treasurer,,R,Copiah ,Wesson,361
+Rickey L Cole,Commissioner of Agriculture & Commerce,,D,Copiah ,Wesson,65
+Andy Gipson,Commissioner of Agriculture & Commerce,,R,Copiah ,Wesson,351
+Chris Caughman ,State Senate,35,R,Copiah ,Wesson,x
+Albert Butler,State Senate,36,D,Copiah ,Wesson,23
+Sally Doty,State Senate,39,R,Copiah ,Wesson,360
+Tom Weathersby,State House,62,R,Copiah ,Wesson,x
+Gregory L Holloway Sr. ,State House,76,D,Copiah ,Wesson,x
+Bob Evans,State House,91,D,Copiah ,Wesson,x
+Becky Currie,State House,92,R,Copiah ,Wesson,392
+Jim Hood,Governor,,D,Copiah ,TOTAL ,5643
+Tate Reeves,Governor,,R,Copiah ,TOTAL ,4041
+Bob Hickingbottom,Governor,,C,Copiah ,TOTAL ,17
+David R Singletary,Governor,,IND,Copiah ,TOTAL ,51
+Delbert Hosemann,Lieutenant Governor,,R,Copiah ,TOTAL ,4857
+Jay Hughes,Lieutenant Governor,,D,Copiah ,TOTAL ,4666
+Johnny DuPree,Secretary of State,,D,Copiah ,TOTAL ,5047
+Michael Watson,Secretary of State,,R,Copiah ,TOTAL ,4443
+Jennifer Riley Collins,Attorney General,,D,Copiah ,TOTAL ,5150
+Lynn Fitch,Attorney General,,R,Copiah ,TOTAL ,4518
+Shad White,State Auditor,,R,Copiah ,TOTAL ,6745
+Addie Lee Green,State Treasurer,,D,Copiah ,TOTAL ,4845
+David McRae,State Treasurer,,R,Copiah ,TOTAL ,4703
+Rickey L Cole,Commissioner of Agriculture & Commerce,,D,Copiah ,TOTAL ,4950
+Andy Gipson,Commissioner of Agriculture & Commerce,,R,Copiah ,TOTAL ,4561
+Chris Caughman ,State Senate,35,R,Copiah ,TOTAL ,669
+Albert Butler,State Senate,36,D,Copiah ,TOTAL ,6359
+Sally Doty,State Senate,39,R,Copiah ,TOTAL ,1073
+Tom Weathersby,State House,62,R,Copiah ,TOTAL ,843
+Gregory L Holloway Sr. ,State House,76,D,Copiah ,TOTAL ,5970
+Bob Evans,State House,91,D,Copiah ,TOTAL ,265
+Becky Currie,State House,92,R,Copiah ,TOTAL ,1357
+Robert E. Amos,Commissioner of Insurance,,D,Copiah ,Beauregard ,103
+Mike Chaney,Commissioner of Insurance,,R,Copiah ,Beauregard ,294
+Robert E. Amos,Commissioner of Insurance,,D,Copiah ,Carpenter,91
+Mike Chaney,Commissioner of Insurance,,R,Copiah ,Carpenter,42
+Robert E. Amos,Commissioner of Insurance,,D,Copiah ,Centerpoint,228
+Mike Chaney,Commissioner of Insurance,,R,Copiah ,Centerpoint,359
+Robert E. Amos,Commissioner of Insurance,,D,Copiah ,Crystal Springs East,545
+Mike Chaney,Commissioner of Insurance,,R,Copiah ,Crystal Springs East,930
+Robert E. Amos,Commissioner of Insurance,,D,Copiah ,Crystal Springs North ,179
+Mike Chaney,Commissioner of Insurance,,R,Copiah ,Crystal Springs North ,61
+Robert E. Amos,Commissioner of Insurance,,D,Copiah ,Crystal Springs South,796
+Mike Chaney,Commissioner of Insurance,,R,Copiah ,Crystal Springs South,357
+Robert E. Amos,Commissioner of Insurance,,D,Copiah ,Crystal Springs West,249
+Mike Chaney,Commissioner of Insurance,,R,Copiah ,Crystal Springs West,387
+Robert E. Amos,Commissioner of Insurance,,D,Copiah ,Dentville,33
+Mike Chaney,Commissioner of Insurance,,R,Copiah ,Dentville,117
+Robert E. Amos,Commissioner of Insurance,,D,Copiah ,Gallman ,573
+Mike Chaney,Commissioner of Insurance,,R,Copiah ,Gallman ,505
+Robert E. Amos,Commissioner of Insurance,,D,Copiah ,Georgetown North ,136
+Mike Chaney,Commissioner of Insurance,,R,Copiah ,Georgetown North ,73
+Robert E. Amos,Commissioner of Insurance,,D,Copiah ,Georgetown South,80
+Mike Chaney,Commissioner of Insurance,,R,Copiah ,Georgetown South,169
+Robert E. Amos,Commissioner of Insurance,,D,Copiah ,Hazlehurst East ,713
+Mike Chaney,Commissioner of Insurance,,R,Copiah ,Hazlehurst East ,65
+Robert E. Amos,Commissioner of Insurance,,D,Copiah ,Hazlehurst North ,83
+Mike Chaney,Commissioner of Insurance,,R,Copiah ,Hazlehurst North ,38
+Robert E. Amos,Commissioner of Insurance,,D,Copiah ,Hazlehurst South,155
+Mike Chaney,Commissioner of Insurance,,R,Copiah ,Hazlehurst South,87
+Robert E. Amos,Commissioner of Insurance,,D,Copiah ,Hazlehurst West ,595
+Mike Chaney,Commissioner of Insurance,,R,Copiah ,Hazlehurst West ,192
+Robert E. Amos,Commissioner of Insurance,,D,Copiah ,Martinsville,182
+Mike Chaney,Commissioner of Insurance,,R,Copiah ,Martinsville,162
+Robert E. Amos,Commissioner of Insurance,,D,Copiah ,Shady Grove,85
+Mike Chaney,Commissioner of Insurance,,R,Copiah ,Shady Grove,237
+Robert E. Amos,Commissioner of Insurance,,D,Copiah ,Stronghope Union,25
+Mike Chaney,Commissioner of Insurance,,R,Copiah ,Stronghope Union,235
+Robert E. Amos,Commissioner of Insurance,,D,Copiah ,Wesson,53
+Mike Chaney,Commissioner of Insurance,,R,Copiah ,Wesson,362
+Robert E. Amos,Commissioner of Insurance,,D,Copiah ,TOTAL ,4904
+Mike Chaney,Commissioner of Insurance,,R,Copiah ,TOTAL ,4672

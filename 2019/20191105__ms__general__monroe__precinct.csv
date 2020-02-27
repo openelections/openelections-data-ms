@@ -1,701 +1,730 @@
-﻿page,candidate,office,district,party,county,precinct,votes
-1,Jim Hood,Governor,,D,Monroe,1 Amory First,155
-1,Tate Reeves,Governor,,R,Monroe,1 Amory First,372
-1,Bob Hickingbottom,Governor,,C,Monroe,1 Amory First,3
-1,David R Singletary,Governor,,IND,Monroe,1 Amory First,2
-1,Delbert Hosemann,Lieutenant Governor,,R,Monroe,1 Amory First,453
-1,Jay Hughes,Lieutenant Governor,,D,Monroe,1 Amory First,80
-1,Johnny DuPree,Secretary of State,,D,Monroe,1 Amory First,89
-1,Michael Watson,Secretary of State,,R,Monroe,1 Amory First,431
-1,Jennifer Riley Collins,Attorney General,,D,Monroe,1 Amory First,95
-1,Lynn Fitch,Attorney General,,R,Monroe,1 Amory First,434
-1,Shad White,State Auditor,,R,Monroe,1 Amory First,481
-4,Addie Lee Green,State Treasurer,,D,Monroe,1 Amory First,66
-4,David McRae,State Treasurer,,R,Monroe,1 Amory First,455
-4,Rickey L Cole,Commissioner of Agriculture & Commerce,,D,Monroe,1 Amory First,97
-4,Andy Gipson,Commissioner of Agriculture & Commerce,,R,Monroe,1 Amory First,421
-7,Hob Bryan,State Senate,7,D,Monroe,1 Amory First,405
-7,DeWanna Belton,State Senate,17,D,Monroe,1 Amory First,x
-7,Charles A 'Chuck' Younger,State Senate,17,R,Monroe,1 Amory First,x
-7,Danny Bedwell,State Senate,17,LIB,Monroe,1 Amory First,x
-7,Rickey W Thompson,State Senate,16,D,Monroe,1 Amory First,x
-7,Steve Holland,State Senate,16,IND,Monroe,1 Amory First,x
-7,Chris Brown,State House,20,R,Monroe,1 Amory First,468
-7,Karl Gibbs,State House,36,D,Monroe,1 Amory First,x
-7,Jessica Lofton Lewis,State House,36,IND,Monroe,1 Amory First,x
-7,Dana Underwood McLean,State House,39,R,Monroe,1 Amory First,x
-1,Jim Hood,Governor,,D,Monroe,1 Bigbee,18
-1,Tate Reeves,Governor,,R,Monroe,1 Bigbee,101
-1,Bob Hickingbottom,Governor,,C,Monroe,1 Bigbee,0
-1,David R Singletary,Governor,,IND,Monroe,1 Bigbee,0
-1,Delbert Hosemann,Lieutenant Governor,,R,Monroe,1 Bigbee,110
-1,Jay Hughes,Lieutenant Governor,,D,Monroe,1 Bigbee,8
-1,Johnny DuPree,Secretary of State,,D,Monroe,1 Bigbee,8
-1,Michael Watson,Secretary of State,,R,Monroe,1 Bigbee,106
-1,Jennifer Riley Collins,Attorney General,,D,Monroe,1 Bigbee,8
-1,Lynn Fitch,Attorney General,,R,Monroe,1 Bigbee,109
-1,Shad White,State Auditor,,R,Monroe,1 Bigbee,109
-4,Addie Lee Green,State Treasurer,,D,Monroe,1 Bigbee,9
-4,David McRae,State Treasurer,,R,Monroe,1 Bigbee,104
-4,Rickey L Cole,Commissioner of Agriculture & Commerce,,D,Monroe,1 Bigbee,11
-4,Andy Gipson,Commissioner of Agriculture & Commerce,,R,Monroe,1 Bigbee,102
-7,Hob Bryan,State Senate,7,D,Monroe,1 Bigbee,76
-7,DeWanna Belton,State Senate,17,D,Monroe,1 Bigbee,x
-7,Charles A 'Chuck' Younger,State Senate,17,R,Monroe,1 Bigbee,x
-7,Danny Bedwell,State Senate,17,LIB,Monroe,1 Bigbee,x
-7,Rickey W Thompson,State Senate,16,D,Monroe,1 Bigbee,x
-7,Steve Holland,State Senate,16,IND,Monroe,1 Bigbee,x
-7,Chris Brown,State House,20,R,Monroe,1 Bigbee,111
-7,Karl Gibbs,State House,36,D,Monroe,1 Bigbee,x
-7,Jessica Lofton Lewis,State House,36,IND,Monroe,1 Bigbee,x
-7,Dana Underwood McLean,State House,39,R,Monroe,1 Bigbee,x
-1,Jim Hood,Governor,,D,Monroe,1 Boyds,42
-1,Tate Reeves,Governor,,R,Monroe,1 Boyds,209
-1,Bob Hickingbottom,Governor,,C,Monroe,1 Boyds,0
-1,David R Singletary,Governor,,IND,Monroe,1 Boyds,3
-1,Delbert Hosemann,Lieutenant Governor,,R,Monroe,1 Boyds,225
-1,Jay Hughes,Lieutenant Governor,,D,Monroe,1 Boyds,25
-1,Johnny DuPree,Secretary of State,,D,Monroe,1 Boyds,23
-1,Michael Watson,Secretary of State,,R,Monroe,1 Boyds,221
-1,Jennifer Riley Collins,Attorney General,,D,Monroe,1 Boyds,27
-1,Lynn Fitch,Attorney General,,R,Monroe,1 Boyds,223
-1,Shad White,State Auditor,,R,Monroe,1 Boyds,228
-4,Addie Lee Green,State Treasurer,,D,Monroe,1 Boyds,22
-4,David McRae,State Treasurer,,R,Monroe,1 Boyds,225
-4,Rickey L Cole,Commissioner of Agriculture & Commerce,,D,Monroe,1 Boyds,31
-4,Andy Gipson,Commissioner of Agriculture & Commerce,,R,Monroe,1 Boyds,215
-7,Hob Bryan,State Senate,7,D,Monroe,1 Boyds,155
-7,DeWanna Belton,State Senate,17,D,Monroe,1 Boyds,x
-7,Charles A 'Chuck' Younger,State Senate,17,R,Monroe,1 Boyds,x
-7,Danny Bedwell,State Senate,17,LIB,Monroe,1 Boyds,x
-7,Rickey W Thompson,State Senate,16,D,Monroe,1 Boyds,x
-7,Steve Holland,State Senate,16,IND,Monroe,1 Boyds,x
-7,Chris Brown,State House,20,R,Monroe,1 Boyds,229
-7,Karl Gibbs,State House,36,D,Monroe,1 Boyds,x
-7,Jessica Lofton Lewis,State House,36,IND,Monroe,1 Boyds,x
-7,Dana Underwood McLean,State House,39,R,Monroe,1 Boyds,x
-1,Jim Hood,Governor,,D,Monroe,1 Hatley,230
-1,Tate Reeves,Governor,,R,Monroe,1 Hatley,886
-1,Bob Hickingbottom,Governor,,C,Monroe,1 Hatley,2
-1,David R Singletary,Governor,,IND,Monroe,1 Hatley,7
-1,Delbert Hosemann,Lieutenant Governor,,R,Monroe,1 Hatley,989
-1,Jay Hughes,Lieutenant Governor,,D,Monroe,1 Hatley,125
-1,Johnny DuPree,Secretary of State,,D,Monroe,1 Hatley,129
-1,Michael Watson,Secretary of State,,R,Monroe,1 Hatley,963
-1,Jennifer Riley Collins,Attorney General,,D,Monroe,1 Hatley,126
-1,Lynn Fitch,Attorney General,,R,Monroe,1 Hatley,980
-1,Shad White,State Auditor,,R,Monroe,1 Hatley,1023
-4,Addie Lee Green,State Treasurer,,D,Monroe,1 Hatley,91
-4,David McRae,State Treasurer,,R,Monroe,1 Hatley,1006
-4,Rickey L Cole,Commissioner of Agriculture & Commerce,,D,Monroe,1 Hatley,149
-4,Andy Gipson,Commissioner of Agriculture & Commerce,,R,Monroe,1 Hatley,941
-7,Hob Bryan,State Senate,7,D,Monroe,1 Hatley,761
-7,DeWanna Belton,State Senate,17,D,Monroe,1 Hatley,x
-7,Charles A 'Chuck' Younger,State Senate,17,R,Monroe,1 Hatley,x
-7,Danny Bedwell,State Senate,17,LIB,Monroe,1 Hatley,x
-7,Rickey W Thompson,State Senate,16,D,Monroe,1 Hatley,x
-7,Steve Holland,State Senate,16,IND,Monroe,1 Hatley,x
-7,Chris Brown,State House,20,R,Monroe,1 Hatley,1018
-7,Karl Gibbs,State House,36,D,Monroe,1 Hatley,x
-7,Jessica Lofton Lewis,State House,36,IND,Monroe,1 Hatley,x
-7,Dana Underwood McLean,State House,39,R,Monroe,1 Hatley,x
-1,Jim Hood,Governor,,D,Monroe,1 Smithville,148
-1,Tate Reeves,Governor,,R,Monroe,1 Smithville,486
-1,Bob Hickingbottom,Governor,,C,Monroe,1 Smithville,0
-1,David R Singletary,Governor,,IND,Monroe,1 Smithville,6
-1,Delbert Hosemann,Lieutenant Governor,,R,Monroe,1 Smithville,536
-1,Jay Hughes,Lieutenant Governor,,D,Monroe,1 Smithville,96
-1,Johnny DuPree,Secretary of State,,D,Monroe,1 Smithville,99
-1,Michael Watson,Secretary of State,,R,Monroe,1 Smithville,527
-1,Jennifer Riley Collins,Attorney General,,D,Monroe,1 Smithville,112
-1,Lynn Fitch,Attorney General,,R,Monroe,1 Smithville,523
-1,Shad White,State Auditor,,R,Monroe,1 Smithville,570
-4,Addie Lee Green,State Treasurer,,D,Monroe,1 Smithville,80
-4,David McRae,State Treasurer,,R,Monroe,1 Smithville,547
-4,Rickey L Cole,Commissioner of Agriculture & Commerce,,D,Monroe,1 Smithville,109
-4,Andy Gipson,Commissioner of Agriculture & Commerce,,R,Monroe,1 Smithville,514
-7,Hob Bryan,State Senate,7,D,Monroe,1 Smithville,481
-7,DeWanna Belton,State Senate,17,D,Monroe,1 Smithville,x
-7,Charles A 'Chuck' Younger,State Senate,17,R,Monroe,1 Smithville,x
-7,Danny Bedwell,State Senate,17,LIB,Monroe,1 Smithville,x
-7,Rickey W Thompson,State Senate,16,D,Monroe,1 Smithville,x
-7,Steve Holland,State Senate,16,IND,Monroe,1 Smithville,x
-7,Chris Brown,State House,20,R,Monroe,1 Smithville,583
-7,Karl Gibbs,State House,36,D,Monroe,1 Smithville,x
-7,Jessica Lofton Lewis,State House,36,IND,Monroe,1 Smithville,x
-7,Dana Underwood McLean,State House,39,R,Monroe,1 Smithville,x
-1,Jim Hood,Governor,,D,Monroe,2 Amory Second,431
-1,Tate Reeves,Governor,,R,Monroe,2 Amory Second,774
-1,Bob Hickingbottom,Governor,,C,Monroe,2 Amory Second,5
-1,David R Singletary,Governor,,IND,Monroe,2 Amory Second,8
-1,Delbert Hosemann,Lieutenant Governor,,R,Monroe,2 Amory Second,904
-1,Jay Hughes,Lieutenant Governor,,D,Monroe,2 Amory Second,296
-1,Johnny DuPree,Secretary of State,,D,Monroe,2 Amory Second,303
-1,Michael Watson,Secretary of State,,R,Monroe,2 Amory Second,882
-1,Jennifer Riley Collins,Attorney General,,D,Monroe,2 Amory Second,335
-1,Lynn Fitch,Attorney General,,R,Monroe,2 Amory Second,869
-1,Shad White,State Auditor,,R,Monroe,2 Amory Second,1041
-4,Addie Lee Green,State Treasurer,,D,Monroe,2 Amory Second,280
-4,David McRae,State Treasurer,,R,Monroe,2 Amory Second,913
-4,Rickey L Cole,Commissioner of Agriculture & Commerce,,D,Monroe,2 Amory Second,330
-4,Andy Gipson,Commissioner of Agriculture & Commerce,,R,Monroe,2 Amory Second,858
-7,Hob Bryan,State Senate,7,D,Monroe,2 Amory Second,908
-7,DeWanna Belton,State Senate,17,D,Monroe,2 Amory Second,x
-7,Charles A 'Chuck' Younger,State Senate,17,R,Monroe,2 Amory Second,x
-7,Danny Bedwell,State Senate,17,LIB,Monroe,2 Amory Second,x
-7,Rickey W Thompson,State Senate,16,D,Monroe,2 Amory Second,x
-7,Steve Holland,State Senate,16,IND,Monroe,2 Amory Second,x
-7,Chris Brown,State House,20,R,Monroe,2 Amory Second,1044
-7,Karl Gibbs,State House,36,D,Monroe,2 Amory Second,x
-7,Jessica Lofton Lewis,State House,36,IND,Monroe,2 Amory Second,x
-7,Dana Underwood McLean,State House,39,R,Monroe,2 Amory Second,x
-1,Jim Hood,Governor,,D,Monroe,2 Becker,141
-1,Tate Reeves,Governor,,R,Monroe,2 Becker,544
-1,Bob Hickingbottom,Governor,,C,Monroe,2 Becker,0
-1,David R Singletary,Governor,,IND,Monroe,2 Becker,7
-1,Delbert Hosemann,Lieutenant Governor,,R,Monroe,2 Becker,605
-1,Jay Hughes,Lieutenant Governor,,D,Monroe,2 Becker,80
-1,Johnny DuPree,Secretary of State,,D,Monroe,2 Becker,81
-1,Michael Watson,Secretary of State,,R,Monroe,2 Becker,600
-1,Jennifer Riley Collins,Attorney General,,D,Monroe,2 Becker,91
-1,Lynn Fitch,Attorney General,,R,Monroe,2 Becker,592
-1,Shad White,State Auditor,,R,Monroe,2 Becker,627
-4,Addie Lee Green,State Treasurer,,D,Monroe,2 Becker,64
-4,David McRae,State Treasurer,,R,Monroe,2 Becker,617
-4,Rickey L Cole,Commissioner of Agriculture & Commerce,,D,Monroe,2 Becker,97
-4,Andy Gipson,Commissioner of Agriculture & Commerce,,R,Monroe,2 Becker,580
-7,Hob Bryan,State Senate,7,D,Monroe,2 Becker,465
-7,DeWanna Belton,State Senate,17,D,Monroe,2 Becker,x
-7,Charles A 'Chuck' Younger,State Senate,17,R,Monroe,2 Becker,x
-7,Danny Bedwell,State Senate,17,LIB,Monroe,2 Becker,x
-7,Rickey W Thompson,State Senate,16,D,Monroe,2 Becker,x
-7,Steve Holland,State Senate,16,IND,Monroe,2 Becker,x
-7,Chris Brown,State House,20,R,Monroe,2 Becker,629
-7,Karl Gibbs,State House,36,D,Monroe,2 Becker,x
-7,Jessica Lofton Lewis,State House,36,IND,Monroe,2 Becker,x
-7,Dana Underwood McLean,State House,39,R,Monroe,2 Becker,x
-1,Jim Hood,Governor,,D,Monroe,2 Parham,29
-1,Tate Reeves,Governor,,R,Monroe,2 Parham,88
-1,Bob Hickingbottom,Governor,,C,Monroe,2 Parham,0
-1,David R Singletary,Governor,,IND,Monroe,2 Parham,0
-1,Delbert Hosemann,Lieutenant Governor,,R,Monroe,2 Parham,92
-1,Jay Hughes,Lieutenant Governor,,D,Monroe,2 Parham,24
-1,Johnny DuPree,Secretary of State,,D,Monroe,2 Parham,21
-1,Michael Watson,Secretary of State,,R,Monroe,2 Parham,93
-1,Jennifer Riley Collins,Attorney General,,D,Monroe,2 Parham,23
-1,Lynn Fitch,Attorney General,,R,Monroe,2 Parham,91
-1,Shad White,State Auditor,,R,Monroe,2 Parham,107
-4,Addie Lee Green,State Treasurer,,D,Monroe,2 Parham,17
-4,David McRae,State Treasurer,,R,Monroe,2 Parham,98
-4,Rickey L Cole,Commissioner of Agriculture & Commerce,,D,Monroe,2 Parham,25
-4,Andy Gipson,Commissioner of Agriculture & Commerce,,R,Monroe,2 Parham,91
-7,Hob Bryan,State Senate,7,D,Monroe,2 Parham,89
-7,DeWanna Belton,State Senate,17,D,Monroe,2 Parham,x
-7,Charles A 'Chuck' Younger,State Senate,17,R,Monroe,2 Parham,x
-7,Danny Bedwell,State Senate,17,LIB,Monroe,2 Parham,x
-7,Rickey W Thompson,State Senate,16,D,Monroe,2 Parham,x
-7,Steve Holland,State Senate,16,IND,Monroe,2 Parham,x
-7,Chris Brown,State House,20,R,Monroe,2 Parham,101
-7,Karl Gibbs,State House,36,D,Monroe,2 Parham,x
-7,Jessica Lofton Lewis,State House,36,IND,Monroe,2 Parham,x
-7,Dana Underwood McLean,State House,39,R,Monroe,2 Parham,x
-1,Jim Hood,Governor,,D,Monroe,2 Sipsey,17
-1,Tate Reeves,Governor,,R,Monroe,2 Sipsey,136
-1,Bob Hickingbottom,Governor,,C,Monroe,2 Sipsey,1
-1,David R Singletary,Governor,,IND,Monroe,2 Sipsey,1
-1,Delbert Hosemann,Lieutenant Governor,,R,Monroe,2 Sipsey,144
-1,Jay Hughes,Lieutenant Governor,,D,Monroe,2 Sipsey,10
-1,Johnny DuPree,Secretary of State,,D,Monroe,2 Sipsey,14
-1,Michael Watson,Secretary of State,,R,Monroe,2 Sipsey,140
-1,Jennifer Riley Collins,Attorney General,,D,Monroe,2 Sipsey,11
-1,Lynn Fitch,Attorney General,,R,Monroe,2 Sipsey,145
-1,Shad White,State Auditor,,R,Monroe,2 Sipsey,145
-4,Addie Lee Green,State Treasurer,,D,Monroe,2 Sipsey,9
-4,David McRae,State Treasurer,,R,Monroe,2 Sipsey,143
-4,Rickey L Cole,Commissioner of Agriculture & Commerce,,D,Monroe,2 Sipsey,16
-4,Andy Gipson,Commissioner of Agriculture & Commerce,,R,Monroe,2 Sipsey,136
-7,Hob Bryan,State Senate,7,D,Monroe,2 Sipsey,x
-7,DeWanna Belton,State Senate,17,D,Monroe,2 Sipsey,10
-7,Charles A 'Chuck' Younger,State Senate,17,R,Monroe,2 Sipsey,136
-7,Danny Bedwell,State Senate,17,LIB,Monroe,2 Sipsey,4
-7,Rickey W Thompson,State Senate,16,D,Monroe,2 Sipsey,x
-7,Steve Holland,State Senate,16,IND,Monroe,2 Sipsey,x
-7,Chris Brown,State House,20,R,Monroe,2 Sipsey,x
-7,Karl Gibbs,State House,36,D,Monroe,2 Sipsey,x
-7,Jessica Lofton Lewis,State House,36,IND,Monroe,2 Sipsey,x
-7,Dana Underwood McLean,State House,39,R,Monroe,2 Sipsey,145
-1,Jim Hood,Governor,,D,Monroe,2 Williams,13
-1,Tate Reeves,Governor,,R,Monroe,2 Williams,54
-1,Bob Hickingbottom,Governor,,C,Monroe,2 Williams,1
-1,David R Singletary,Governor,,IND,Monroe,2 Williams,1
-1,Delbert Hosemann,Lieutenant Governor,,R,Monroe,2 Williams,59
-1,Jay Hughes,Lieutenant Governor,,D,Monroe,2 Williams,10
-1,Johnny DuPree,Secretary of State,,D,Monroe,2 Williams,9
-1,Michael Watson,Secretary of State,,R,Monroe,2 Williams,58
-1,Jennifer Riley Collins,Attorney General,,D,Monroe,2 Williams,12
-1,Lynn Fitch,Attorney General,,R,Monroe,2 Williams,56
-1,Shad White,State Auditor,,R,Monroe,2 Williams,62
-4,Addie Lee Green,State Treasurer,,D,Monroe,2 Williams,8
-4,David McRae,State Treasurer,,R,Monroe,2 Williams,59
-4,Rickey L Cole,Commissioner of Agriculture & Commerce,,D,Monroe,2 Williams,13
-4,Andy Gipson,Commissioner of Agriculture & Commerce,,R,Monroe,2 Williams,55
-7,Hob Bryan,State Senate,7,D,Monroe,2 Williams,45
-7,DeWanna Belton,State Senate,17,D,Monroe,2 Williams,x
-7,Charles A 'Chuck' Younger,State Senate,17,R,Monroe,2 Williams,x
-7,Danny Bedwell,State Senate,17,LIB,Monroe,2 Williams,x
-7,Rickey W Thompson,State Senate,16,D,Monroe,2 Williams,x
-7,Steve Holland,State Senate,16,IND,Monroe,2 Williams,x
-7,Chris Brown,State House,20,R,Monroe,2 Williams,62
-7,Karl Gibbs,State House,36,D,Monroe,2 Williams,x
-7,Jessica Lofton Lewis,State House,36,IND,Monroe,2 Williams,x
-7,Dana Underwood McLean,State House,39,R,Monroe,2 Williams,x
-1,Jim Hood,Governor,,D,Monroe,3 Aberdeen Third,230
-1,Tate Reeves,Governor,,R,Monroe,3 Aberdeen Third,215
-1,Bob Hickingbottom,Governor,,C,Monroe,3 Aberdeen Third,2
-1,David R Singletary,Governor,,IND,Monroe,3 Aberdeen Third,3
-1,Delbert Hosemann,Lieutenant Governor,,R,Monroe,3 Aberdeen Third,263
-1,Jay Hughes,Lieutenant Governor,,D,Monroe,3 Aberdeen Third,184
-1,Johnny DuPree,Secretary of State,,D,Monroe,3 Aberdeen Third,192
-1,Michael Watson,Secretary of State,,R,Monroe,3 Aberdeen Third,249
-1,Jennifer Riley Collins,Attorney General,,D,Monroe,3 Aberdeen Third,208
-1,Lynn Fitch,Attorney General,,R,Monroe,3 Aberdeen Third,237
-1,Shad White,State Auditor,,R,Monroe,3 Aberdeen Third,326
-4,Addie Lee Green,State Treasurer,,D,Monroe,3 Aberdeen Third,191
-4,David McRae,State Treasurer,,R,Monroe,3 Aberdeen Third,253
-4,Rickey L Cole,Commissioner of Agriculture & Commerce,,D,Monroe,3 Aberdeen Third,208
-4,Andy Gipson,Commissioner of Agriculture & Commerce,,R,Monroe,3 Aberdeen Third,233
-7,Hob Bryan,State Senate,7,D,Monroe,3 Aberdeen Third,373
-7,DeWanna Belton,State Senate,17,D,Monroe,3 Aberdeen Third,x
-7,Charles A 'Chuck' Younger,State Senate,17,R,Monroe,3 Aberdeen Third,x
-7,Danny Bedwell,State Senate,17,LIB,Monroe,3 Aberdeen Third,x
-7,Rickey W Thompson,State Senate,16,D,Monroe,3 Aberdeen Third,x
-7,Steve Holland,State Senate,16,IND,Monroe,3 Aberdeen Third,x
-7,Chris Brown,State House,20,R,Monroe,3 Aberdeen Third,x
-7,Karl Gibbs,State House,36,D,Monroe,3 Aberdeen Third,263
-7,Jessica Lofton Lewis,State House,36,IND,Monroe,3 Aberdeen Third,146
-7,Dana Underwood McLean,State House,39,R,Monroe,3 Aberdeen Third,x
-2,Jim Hood,Governor,,D,Monroe,3 Athens,87
-2,Tate Reeves,Governor,,R,Monroe,3 Athens,225
-2,Bob Hickingbottom,Governor,,C,Monroe,3 Athens,0
-2,David R Singletary,Governor,,IND,Monroe,3 Athens,4
-2,Delbert Hosemann,Lieutenant Governor,,R,Monroe,3 Athens,255
-2,Jay Hughes,Lieutenant Governor,,D,Monroe,3 Athens,55
-2,Johnny DuPree,Secretary of State,,D,Monroe,3 Athens,61
-2,Michael Watson,Secretary of State,,R,Monroe,3 Athens,248
-2,Jennifer Riley Collins,Attorney General,,D,Monroe,3 Athens,66
-2,Lynn Fitch,Attorney General,,R,Monroe,3 Athens,243
-2,Shad White,State Auditor,,R,Monroe,3 Athens,276
-5,Addie Lee Green,State Treasurer,,D,Monroe,3 Athens,60
-5,David McRae,State Treasurer,,R,Monroe,3 Athens,251
-5,Rickey L Cole,Commissioner of Agriculture & Commerce,,D,Monroe,3 Athens,64
-5,Andy Gipson,Commissioner of Agriculture & Commerce,,R,Monroe,3 Athens,244
-8,Hob Bryan,State Senate,7,D,Monroe,3 Athens,106
-8,DeWanna Belton,State Senate,17,D,Monroe,3 Athens,26
-8,Charles A 'Chuck' Younger,State Senate,17,R,Monroe,3 Athens,141
-8,Danny Bedwell,State Senate,17,LIB,Monroe,3 Athens,3
-8,Rickey W Thompson,State Senate,16,D,Monroe,3 Athens,x
-8,Steve Holland,State Senate,16,IND,Monroe,3 Athens,x
-8,Chris Brown,State House,20,R,Monroe,3 Athens,277
-8,Karl Gibbs,State House,36,D,Monroe,3 Athens,x
-8,Jessica Lofton Lewis,State House,36,IND,Monroe,3 Athens,x
-8,Dana Underwood McLean,State House,39,R,Monroe,3 Athens,x
-2,Jim Hood,Governor,,D,Monroe,3 Bartahatchie,26
-2,Tate Reeves,Governor,,R,Monroe,3 Bartahatchie,156
-2,Bob Hickingbottom,Governor,,C,Monroe,3 Bartahatchie,0
-2,David R Singletary,Governor,,IND,Monroe,3 Bartahatchie,0
-2,Delbert Hosemann,Lieutenant Governor,,R,Monroe,3 Bartahatchie,158
-2,Jay Hughes,Lieutenant Governor,,D,Monroe,3 Bartahatchie,20
-2,Johnny DuPree,Secretary of State,,D,Monroe,3 Bartahatchie,27
-2,Michael Watson,Secretary of State,,R,Monroe,3 Bartahatchie,149
-2,Jennifer Riley Collins,Attorney General,,D,Monroe,3 Bartahatchie,26
-2,Lynn Fitch,Attorney General,,R,Monroe,3 Bartahatchie,155
-2,Shad White,State Auditor,,R,Monroe,3 Bartahatchie,165
-5,Addie Lee Green,State Treasurer,,D,Monroe,3 Bartahatchie,24
-5,David McRae,State Treasurer,,R,Monroe,3 Bartahatchie,154
-5,Rickey L Cole,Commissioner of Agriculture & Commerce,,D,Monroe,3 Bartahatchie,26
-5,Andy Gipson,Commissioner of Agriculture & Commerce,,R,Monroe,3 Bartahatchie,149
-8,Hob Bryan,State Senate,7,D,Monroe,3 Bartahatchie,x
-8,DeWanna Belton,State Senate,17,D,Monroe,3 Bartahatchie,13
-8,Charles A 'Chuck' Younger,State Senate,17,R,Monroe,3 Bartahatchie,158
-8,Danny Bedwell,State Senate,17,LIB,Monroe,3 Bartahatchie,5
-8,Rickey W Thompson,State Senate,16,D,Monroe,3 Bartahatchie,x
-8,Steve Holland,State Senate,16,IND,Monroe,3 Bartahatchie,x
-8,Chris Brown,State House,20,R,Monroe,3 Bartahatchie,x
-8,Karl Gibbs,State House,36,D,Monroe,3 Bartahatchie,x
-8,Jessica Lofton Lewis,State House,36,IND,Monroe,3 Bartahatchie,x
-8,Dana Underwood McLean,State House,39,R,Monroe,3 Bartahatchie,166
-2,Jim Hood,Governor,,D,Monroe,3 Greenwood Springs,14
-2,Tate Reeves,Governor,,R,Monroe,3 Greenwood Springs,76
-2,Bob Hickingbottom,Governor,,C,Monroe,3 Greenwood Springs,2
-2,David R Singletary,Governor,,IND,Monroe,3 Greenwood Springs,0
-2,Delbert Hosemann,Lieutenant Governor,,R,Monroe,3 Greenwood Springs,85
-2,Jay Hughes,Lieutenant Governor,,D,Monroe,3 Greenwood Springs,7
-2,Johnny DuPree,Secretary of State,,D,Monroe,3 Greenwood Springs,9
-2,Michael Watson,Secretary of State,,R,Monroe,3 Greenwood Springs,82
-2,Jennifer Riley Collins,Attorney General,,D,Monroe,3 Greenwood Springs,9
-2,Lynn Fitch,Attorney General,,R,Monroe,3 Greenwood Springs,83
-2,Shad White,State Auditor,,R,Monroe,3 Greenwood Springs,88
-5,Addie Lee Green,State Treasurer,,D,Monroe,3 Greenwood Springs,5
-5,David McRae,State Treasurer,,R,Monroe,3 Greenwood Springs,87
-5,Rickey L Cole,Commissioner of Agriculture & Commerce,,D,Monroe,3 Greenwood Springs,9
-5,Andy Gipson,Commissioner of Agriculture & Commerce,,R,Monroe,3 Greenwood Springs,82
-8,Hob Bryan,State Senate,7,D,Monroe,3 Greenwood Springs,x
-8,DeWanna Belton,State Senate,17,D,Monroe,3 Greenwood Springs,6
-8,Charles A 'Chuck' Younger,State Senate,17,R,Monroe,3 Greenwood Springs,81
-8,Danny Bedwell,State Senate,17,LIB,Monroe,3 Greenwood Springs,4
-8,Rickey W Thompson,State Senate,16,D,Monroe,3 Greenwood Springs,x
-8,Steve Holland,State Senate,16,IND,Monroe,3 Greenwood Springs,x
-8,Chris Brown,State House,20,R,Monroe,3 Greenwood Springs,x
-8,Karl Gibbs,State House,36,D,Monroe,3 Greenwood Springs,x
-8,Jessica Lofton Lewis,State House,36,IND,Monroe,3 Greenwood Springs,x
-8,Dana Underwood McLean,State House,39,R,Monroe,3 Greenwood Springs,85
-2,Jim Hood,Governor,,D,Monroe,3 Hamilton,265
-2,Tate Reeves,Governor,,R,Monroe,3 Hamilton,737
-2,Bob Hickingbottom,Governor,,C,Monroe,3 Hamilton,3
-2,David R Singletary,Governor,,IND,Monroe,3 Hamilton,7
-2,Delbert Hosemann,Lieutenant Governor,,R,Monroe,3 Hamilton,810
-2,Jay Hughes,Lieutenant Governor,,D,Monroe,3 Hamilton,189
-2,Johnny DuPree,Secretary of State,,D,Monroe,3 Hamilton,202
-2,Michael Watson,Secretary of State,,R,Monroe,3 Hamilton,790
-2,Jennifer Riley Collins,Attorney General,,D,Monroe,3 Hamilton,213
-2,Lynn Fitch,Attorney General,,R,Monroe,3 Hamilton,794
-2,Shad White,State Auditor,,R,Monroe,3 Hamilton,887
-5,Addie Lee Green,State Treasurer,,D,Monroe,3 Hamilton,190
-5,David McRae,State Treasurer,,R,Monroe,3 Hamilton,812
-5,Rickey L Cole,Commissioner of Agriculture & Commerce,,D,Monroe,3 Hamilton,213
-5,Andy Gipson,Commissioner of Agriculture & Commerce,,R,Monroe,3 Hamilton,784
-8,Hob Bryan,State Senate,7,D,Monroe,3 Hamilton,x
-8,DeWanna Belton,State Senate,17,D,Monroe,3 Hamilton,188
-8,Charles A 'Chuck' Younger,State Senate,17,R,Monroe,3 Hamilton,788
-8,Danny Bedwell,State Senate,17,LIB,Monroe,3 Hamilton,32
-8,Rickey W Thompson,State Senate,16,D,Monroe,3 Hamilton,x
-8,Steve Holland,State Senate,16,IND,Monroe,3 Hamilton,x
-8,Chris Brown,State House,20,R,Monroe,3 Hamilton,x
-8,Karl Gibbs,State House,36,D,Monroe,3 Hamilton,x
-8,Jessica Lofton Lewis,State House,36,IND,Monroe,3 Hamilton,x
-8,Dana Underwood McLean,State House,39,R,Monroe,3 Hamilton,892
-2,Jim Hood,Governor,,D,Monroe,3 Lackey,121
-2,Tate Reeves,Governor,,R,Monroe,3 Lackey,468
-2,Bob Hickingbottom,Governor,,C,Monroe,3 Lackey,2
-2,David R Singletary,Governor,,IND,Monroe,3 Lackey,4
-2,Delbert Hosemann,Lieutenant Governor,,R,Monroe,3 Lackey,503
-2,Jay Hughes,Lieutenant Governor,,D,Monroe,3 Lackey,88
-2,Johnny DuPree,Secretary of State,,D,Monroe,3 Lackey,90
-2,Michael Watson,Secretary of State,,R,Monroe,3 Lackey,492
-2,Jennifer Riley Collins,Attorney General,,D,Monroe,3 Lackey,102
-2,Lynn Fitch,Attorney General,,R,Monroe,3 Lackey,492
-2,Shad White,State Auditor,,R,Monroe,3 Lackey,533
-5,Addie Lee Green,State Treasurer,,D,Monroe,3 Lackey,78
-5,David McRae,State Treasurer,,R,Monroe,3 Lackey,510
-5,Rickey L Cole,Commissioner of Agriculture & Commerce,,D,Monroe,3 Lackey,100
-5,Andy Gipson,Commissioner of Agriculture & Commerce,,R,Monroe,3 Lackey,484
-8,Hob Bryan,State Senate,7,D,Monroe,3 Lackey,x
-8,DeWanna Belton,State Senate,17,D,Monroe,3 Lackey,75
-8,Charles A 'Chuck' Younger,State Senate,17,R,Monroe,3 Lackey,493
-8,Danny Bedwell,State Senate,17,LIB,Monroe,3 Lackey,13
-8,Rickey W Thompson,State Senate,16,D,Monroe,3 Lackey,x
-8,Steve Holland,State Senate,16,IND,Monroe,3 Lackey,x
-8,Chris Brown,State House,20,R,Monroe,3 Lackey,x
-8,Karl Gibbs,State House,36,D,Monroe,3 Lackey,x
-8,Jessica Lofton Lewis,State House,36,IND,Monroe,3 Lackey,x
-8,Dana Underwood McLean,State House,39,R,Monroe,3 Lackey,535
-2,Jim Hood,Governor,,D,Monroe,4 Darracott,29
-2,Tate Reeves,Governor,,R,Monroe,4 Darracott,89
-2,Bob Hickingbottom,Governor,,C,Monroe,4 Darracott,0
-2,David R Singletary,Governor,,IND,Monroe,4 Darracott,2
-2,Delbert Hosemann,Lieutenant Governor,,R,Monroe,4 Darracott,95
-2,Jay Hughes,Lieutenant Governor,,D,Monroe,4 Darracott,25
-2,Johnny DuPree,Secretary of State,,D,Monroe,4 Darracott,23
-2,Michael Watson,Secretary of State,,R,Monroe,4 Darracott,94
-2,Jennifer Riley Collins,Attorney General,,D,Monroe,4 Darracott,26
-2,Lynn Fitch,Attorney General,,R,Monroe,4 Darracott,93
-2,Shad White,State Auditor,,R,Monroe,4 Darracott,97
-5,Addie Lee Green,State Treasurer,,D,Monroe,4 Darracott,22
-5,David McRae,State Treasurer,,R,Monroe,4 Darracott,96
-5,Rickey L Cole,Commissioner of Agriculture & Commerce,,D,Monroe,4 Darracott,25
-5,Andy Gipson,Commissioner of Agriculture & Commerce,,R,Monroe,4 Darracott,91
-8,Hob Bryan,State Senate,7,D,Monroe,4 Darracott,83
-8,DeWanna Belton,State Senate,17,D,Monroe,4 Darracott,x
-8,Charles A 'Chuck' Younger,State Senate,17,R,Monroe,4 Darracott,x
-8,Danny Bedwell,State Senate,17,LIB,Monroe,4 Darracott,x
-8,Rickey W Thompson,State Senate,16,D,Monroe,4 Darracott,x
-8,Steve Holland,State Senate,16,IND,Monroe,4 Darracott,x
-8,Chris Brown,State House,20,R,Monroe,4 Darracott,x
-8,Karl Gibbs,State House,36,D,Monroe,4 Darracott,46
-8,Jessica Lofton Lewis,State House,36,IND,Monroe,4 Darracott,52
-8,Dana Underwood McLean,State House,39,R,Monroe,4 Darracott,x
-2,Jim Hood,Governor,,D,Monroe,4 Gibson,259
-2,Tate Reeves,Governor,,R,Monroe,4 Gibson,62
-2,Bob Hickingbottom,Governor,,C,Monroe,4 Gibson,1
-2,David R Singletary,Governor,,IND,Monroe,4 Gibson,0
-2,Delbert Hosemann,Lieutenant Governor,,R,Monroe,4 Gibson,74
-2,Jay Hughes,Lieutenant Governor,,D,Monroe,4 Gibson,238
-2,Johnny DuPree,Secretary of State,,D,Monroe,4 Gibson,250
-2,Michael Watson,Secretary of State,,R,Monroe,4 Gibson,64
-2,Jennifer Riley Collins,Attorney General,,D,Monroe,4 Gibson,258
-2,Lynn Fitch,Attorney General,,R,Monroe,4 Gibson,61
-2,Shad White,State Auditor,,R,Monroe,4 Gibson,153
-5,Addie Lee Green,State Treasurer,,D,Monroe,4 Gibson,248
-5,David McRae,State Treasurer,,R,Monroe,4 Gibson,68
-5,Rickey L Cole,Commissioner of Agriculture & Commerce,,D,Monroe,4 Gibson,250
-5,Andy Gipson,Commissioner of Agriculture & Commerce,,R,Monroe,4 Gibson,65
-8,Hob Bryan,State Senate,7,D,Monroe,4 Gibson,294
-8,DeWanna Belton,State Senate,17,D,Monroe,4 Gibson,x
-8,Charles A 'Chuck' Younger,State Senate,17,R,Monroe,4 Gibson,x
-8,Danny Bedwell,State Senate,17,LIB,Monroe,4 Gibson,x
-8,Rickey W Thompson,State Senate,16,D,Monroe,4 Gibson,x
-8,Steve Holland,State Senate,16,IND,Monroe,4 Gibson,x
-8,Chris Brown,State House,20,R,Monroe,4 Gibson,x
-8,Karl Gibbs,State House,36,D,Monroe,4 Gibson,265
-8,Jessica Lofton Lewis,State House,36,IND,Monroe,4 Gibson,45
-8,Dana Underwood McLean,State House,39,R,Monroe,4 Gibson,x
-2,Jim Hood,Governor,,D,Monroe,4 North Aberdeen,536
-2,Tate Reeves,Governor,,R,Monroe,4 North Aberdeen,277
-2,Bob Hickingbottom,Governor,,C,Monroe,4 North Aberdeen,0
-2,David R Singletary,Governor,,IND,Monroe,4 North Aberdeen,3
-2,Delbert Hosemann,Lieutenant Governor,,R,Monroe,4 North Aberdeen,318
-2,Jay Hughes,Lieutenant Governor,,D,Monroe,4 North Aberdeen,483
-2,Johnny DuPree,Secretary of State,,D,Monroe,4 North Aberdeen,492
-2,Michael Watson,Secretary of State,,R,Monroe,4 North Aberdeen,305
-2,Jennifer Riley Collins,Attorney General,,D,Monroe,4 North Aberdeen,508
-2,Lynn Fitch,Attorney General,,R,Monroe,4 North Aberdeen,302
-2,Shad White,State Auditor,,R,Monroe,4 North Aberdeen,489
-5,Addie Lee Green,State Treasurer,,D,Monroe,4 North Aberdeen,495
-5,David McRae,State Treasurer,,R,Monroe,4 North Aberdeen,309
-5,Rickey L Cole,Commissioner of Agriculture & Commerce,,D,Monroe,4 North Aberdeen,503
-5,Andy Gipson,Commissioner of Agriculture & Commerce,,R,Monroe,4 North Aberdeen,297
-8,Hob Bryan,State Senate,7,D,Monroe,4 North Aberdeen,717
-8,DeWanna Belton,State Senate,17,D,Monroe,4 North Aberdeen,x
-8,Charles A 'Chuck' Younger,State Senate,17,R,Monroe,4 North Aberdeen,x
-8,Danny Bedwell,State Senate,17,LIB,Monroe,4 North Aberdeen,x
-8,Rickey W Thompson,State Senate,16,D,Monroe,4 North Aberdeen,x
-8,Steve Holland,State Senate,16,IND,Monroe,4 North Aberdeen,x
-8,Chris Brown,State House,20,R,Monroe,4 North Aberdeen,125
-8,Karl Gibbs,State House,36,D,Monroe,4 North Aberdeen,521
-8,Jessica Lofton Lewis,State House,36,IND,Monroe,4 North Aberdeen,109
-8,Dana Underwood McLean,State House,39,R,Monroe,4 North Aberdeen,x
-2,Jim Hood,Governor,,D,Monroe,4 Prairie,348
-2,Tate Reeves,Governor,,R,Monroe,4 Prairie,39
-2,Bob Hickingbottom,Governor,,C,Monroe,4 Prairie,0
-2,David R Singletary,Governor,,IND,Monroe,4 Prairie,0
-2,Delbert Hosemann,Lieutenant Governor,,R,Monroe,4 Prairie,62
-2,Jay Hughes,Lieutenant Governor,,D,Monroe,4 Prairie,317
-2,Johnny DuPree,Secretary of State,,D,Monroe,4 Prairie,334
-2,Michael Watson,Secretary of State,,R,Monroe,4 Prairie,46
-2,Jennifer Riley Collins,Attorney General,,D,Monroe,4 Prairie,345
-2,Lynn Fitch,Attorney General,,R,Monroe,4 Prairie,42
-2,Shad White,State Auditor,,R,Monroe,4 Prairie,157
-5,Addie Lee Green,State Treasurer,,D,Monroe,4 Prairie,340
-5,David McRae,State Treasurer,,R,Monroe,4 Prairie,42
-5,Rickey L Cole,Commissioner of Agriculture & Commerce,,D,Monroe,4 Prairie,339
-5,Andy Gipson,Commissioner of Agriculture & Commerce,,R,Monroe,4 Prairie,39
-8,Hob Bryan,State Senate,7,D,Monroe,4 Prairie,356
-8,DeWanna Belton,State Senate,17,D,Monroe,4 Prairie,x
-8,Charles A 'Chuck' Younger,State Senate,17,R,Monroe,4 Prairie,x
-8,Danny Bedwell,State Senate,17,LIB,Monroe,4 Prairie,x
-8,Rickey W Thompson,State Senate,16,D,Monroe,4 Prairie,x
-8,Steve Holland,State Senate,16,IND,Monroe,4 Prairie,x
-8,Chris Brown,State House,20,R,Monroe,4 Prairie,x
-8,Karl Gibbs,State House,36,D,Monroe,4 Prairie,341
-8,Jessica Lofton Lewis,State House,36,IND,Monroe,4 Prairie,32
-8,Dana Underwood McLean,State House,39,R,Monroe,4 Prairie,x
-2,Jim Hood,Governor,,D,Monroe,4 South Aberdeen,615
-2,Tate Reeves,Governor,,R,Monroe,4 South Aberdeen,112
-2,Bob Hickingbottom,Governor,,C,Monroe,4 South Aberdeen,3
-2,David R Singletary,Governor,,IND,Monroe,4 South Aberdeen,1
-2,Delbert Hosemann,Lieutenant Governor,,R,Monroe,4 South Aberdeen,154
-2,Jay Hughes,Lieutenant Governor,,D,Monroe,4 South Aberdeen,551
-2,Johnny DuPree,Secretary of State,,D,Monroe,4 South Aberdeen,571
-2,Michael Watson,Secretary of State,,R,Monroe,4 South Aberdeen,127
-2,Jennifer Riley Collins,Attorney General,,D,Monroe,4 South Aberdeen,589
-2,Lynn Fitch,Attorney General,,R,Monroe,4 South Aberdeen,127
-2,Shad White,State Auditor,,R,Monroe,4 South Aberdeen,378
-5,Addie Lee Green,State Treasurer,,D,Monroe,4 South Aberdeen,566
-5,David McRae,State Treasurer,,R,Monroe,4 South Aberdeen,144
-5,Rickey L Cole,Commissioner of Agriculture & Commerce,,D,Monroe,4 South Aberdeen,572
-5,Andy Gipson,Commissioner of Agriculture & Commerce,,R,Monroe,4 South Aberdeen,131
-8,Hob Bryan,State Senate,7,D,Monroe,4 South Aberdeen,644
-8,DeWanna Belton,State Senate,17,D,Monroe,4 South Aberdeen,x
-8,Charles A 'Chuck' Younger,State Senate,17,R,Monroe,4 South Aberdeen,x
-8,Danny Bedwell,State Senate,17,LIB,Monroe,4 South Aberdeen,x
-8,Rickey W Thompson,State Senate,16,D,Monroe,4 South Aberdeen,x
-8,Steve Holland,State Senate,16,IND,Monroe,4 South Aberdeen,x
-8,Chris Brown,State House,20,R,Monroe,4 South Aberdeen,x
-8,Karl Gibbs,State House,36,D,Monroe,4 South Aberdeen,609
-8,Jessica Lofton Lewis,State House,36,IND,Monroe,4 South Aberdeen,103
-8,Dana Underwood McLean,State House,39,R,Monroe,4 South Aberdeen,x
-2,Jim Hood,Governor,,D,Monroe,5 Amory Fifth,387
-2,Tate Reeves,Governor,,R,Monroe,5 Amory Fifth,4
-2,Bob Hickingbottom,Governor,,C,Monroe,5 Amory Fifth,1
-2,David R Singletary,Governor,,IND,Monroe,5 Amory Fifth,2
-2,Delbert Hosemann,Lieutenant Governor,,R,Monroe,5 Amory Fifth,17
-2,Jay Hughes,Lieutenant Governor,,D,Monroe,5 Amory Fifth,369
-2,Johnny DuPree,Secretary of State,,D,Monroe,5 Amory Fifth,376
-2,Michael Watson,Secretary of State,,R,Monroe,5 Amory Fifth,9
-2,Jennifer Riley Collins,Attorney General,,D,Monroe,5 Amory Fifth,380
-2,Lynn Fitch,Attorney General,,R,Monroe,5 Amory Fifth,11
-2,Shad White,State Auditor,,R,Monroe,5 Amory Fifth,144
-5,Addie Lee Green,State Treasurer,,D,Monroe,5 Amory Fifth,377
-5,David McRae,State Treasurer,,R,Monroe,5 Amory Fifth,11
-5,Rickey L Cole,Commissioner of Agriculture & Commerce,,D,Monroe,5 Amory Fifth,375
-5,Andy Gipson,Commissioner of Agriculture & Commerce,,R,Monroe,5 Amory Fifth,9
-8,Hob Bryan,State Senate,7,D,Monroe,5 Amory Fifth,387
-8,DeWanna Belton,State Senate,17,D,Monroe,5 Amory Fifth,x
-8,Charles A 'Chuck' Younger,State Senate,17,R,Monroe,5 Amory Fifth,x
-8,Danny Bedwell,State Senate,17,LIB,Monroe,5 Amory Fifth,x
-8,Rickey W Thompson,State Senate,16,D,Monroe,5 Amory Fifth,x
-8,Steve Holland,State Senate,16,IND,Monroe,5 Amory Fifth,x
-8,Chris Brown,State House,20,R,Monroe,5 Amory Fifth,143
-8,Karl Gibbs,State House,36,D,Monroe,5 Amory Fifth,x
-8,Jessica Lofton Lewis,State House,36,IND,Monroe,5 Amory Fifth,x
-8,Dana Underwood McLean,State House,39,R,Monroe,5 Amory Fifth,x
-3,Jim Hood,Governor,,D,Monroe,5 Central Grove,161
-3,Tate Reeves,Governor,,R,Monroe,5 Central Grove,82
-3,Bob Hickingbottom,Governor,,C,Monroe,5 Central Grove,0
-3,David R Singletary,Governor,,IND,Monroe,5 Central Grove,0
-3,Delbert Hosemann,Lieutenant Governor,,R,Monroe,5 Central Grove,98
-3,Jay Hughes,Lieutenant Governor,,D,Monroe,5 Central Grove,138
-3,Johnny DuPree,Secretary of State,,D,Monroe,5 Central Grove,147
-3,Michael Watson,Secretary of State,,R,Monroe,5 Central Grove,88
-3,Jennifer Riley Collins,Attorney General,,D,Monroe,5 Central Grove,161
-3,Lynn Fitch,Attorney General,,R,Monroe,5 Central Grove,81
-3,Shad White,State Auditor,,R,Monroe,5 Central Grove,138
-6,Addie Lee Green,State Treasurer,,D,Monroe,5 Central Grove,149
-6,David McRae,State Treasurer,,R,Monroe,5 Central Grove,87
-6,Rickey L Cole,Commissioner of Agriculture & Commerce,,D,Monroe,5 Central Grove,156
-6,Andy Gipson,Commissioner of Agriculture & Commerce,,R,Monroe,5 Central Grove,80
-9,Hob Bryan,State Senate,7,D,Monroe,5 Central Grove,209
-9,DeWanna Belton,State Senate,17,D,Monroe,5 Central Grove,x
-9,Charles A 'Chuck' Younger,State Senate,17,R,Monroe,5 Central Grove,x
-9,Danny Bedwell,State Senate,17,LIB,Monroe,5 Central Grove,x
-9,Rickey W Thompson,State Senate,16,D,Monroe,5 Central Grove,x
-9,Steve Holland,State Senate,16,IND,Monroe,5 Central Grove,x
-9,Chris Brown,State House,20,R,Monroe,5 Central Grove,x
-9,Karl Gibbs,State House,36,D,Monroe,5 Central Grove,157
-9,Jessica Lofton Lewis,State House,36,IND,Monroe,5 Central Grove,65
-9,Dana Underwood McLean,State House,39,R,Monroe,5 Central Grove,x
-3,Jim Hood,Governor,,D,Monroe,5 Nettleton,262
-3,Tate Reeves,Governor,,R,Monroe,5 Nettleton,301
-3,Bob Hickingbottom,Governor,,C,Monroe,5 Nettleton,3
-3,David R Singletary,Governor,,IND,Monroe,5 Nettleton,5
-3,Delbert Hosemann,Lieutenant Governor,,R,Monroe,5 Nettleton,338
-3,Jay Hughes,Lieutenant Governor,,D,Monroe,5 Nettleton,223
-3,Johnny DuPree,Secretary of State,,D,Monroe,5 Nettleton,232
-3,Michael Watson,Secretary of State,,R,Monroe,5 Nettleton,322
-3,Jennifer Riley Collins,Attorney General,,D,Monroe,5 Nettleton,244
-3,Lynn Fitch,Attorney General,,R,Monroe,5 Nettleton,323
-3,Shad White,State Auditor,,R,Monroe,5 Nettleton,391
-6,Addie Lee Green,State Treasurer,,D,Monroe,5 Nettleton,228
-6,David McRae,State Treasurer,,R,Monroe,5 Nettleton,333
-6,Rickey L Cole,Commissioner of Agriculture & Commerce,,D,Monroe,5 Nettleton,246
-6,Andy Gipson,Commissioner of Agriculture & Commerce,,R,Monroe,5 Nettleton,311
-9,Hob Bryan,State Senate,7,D,Monroe,5 Nettleton,426
-9,DeWanna Belton,State Senate,17,D,Monroe,5 Nettleton,x
-9,Charles A 'Chuck' Younger,State Senate,17,R,Monroe,5 Nettleton,x
-9,Danny Bedwell,State Senate,17,LIB,Monroe,5 Nettleton,x
-9,Rickey W Thompson,State Senate,16,D,Monroe,5 Nettleton,55
-9,Steve Holland,State Senate,16,IND,Monroe,5 Nettleton,18
-9,Chris Brown,State House,20,R,Monroe,5 Nettleton,363
-9,Karl Gibbs,State House,36,D,Monroe,5 Nettleton,x
-9,Jessica Lofton Lewis,State House,36,IND,Monroe,5 Nettleton,x
-9,Dana Underwood McLean,State House,39,R,Monroe,5 Nettleton,x
-3,Jim Hood,Governor,,D,Monroe,5 Willis,404
-3,Tate Reeves,Governor,,R,Monroe,5 Willis,106
-3,Bob Hickingbottom,Governor,,C,Monroe,5 Willis,0
-3,David R Singletary,Governor,,IND,Monroe,5 Willis,0
-3,Delbert Hosemann,Lieutenant Governor,,R,Monroe,5 Willis,130
-3,Jay Hughes,Lieutenant Governor,,D,Monroe,5 Willis,367
-3,Johnny DuPree,Secretary of State,,D,Monroe,5 Willis,384
-3,Michael Watson,Secretary of State,,R,Monroe,5 Willis,109
-3,Jennifer Riley Collins,Attorney General,,D,Monroe,5 Willis,387
-3,Lynn Fitch,Attorney General,,R,Monroe,5 Willis,117
-3,Shad White,State Auditor,,R,Monroe,5 Willis,244
-6,Addie Lee Green,State Treasurer,,D,Monroe,5 Willis,381
-6,David McRae,State Treasurer,,R,Monroe,5 Willis,119
-6,Rickey L Cole,Commissioner of Agriculture & Commerce,,D,Monroe,5 Willis,387
-6,Andy Gipson,Commissioner of Agriculture & Commerce,,R,Monroe,5 Willis,112
-9,Hob Bryan,State Senate,7,D,Monroe,5 Willis,472
-9,DeWanna Belton,State Senate,17,D,Monroe,5 Willis,x
-9,Charles A 'Chuck' Younger,State Senate,17,R,Monroe,5 Willis,x
-9,Danny Bedwell,State Senate,17,LIB,Monroe,5 Willis,x
-9,Rickey W Thompson,State Senate,16,D,Monroe,5 Willis,x
-9,Steve Holland,State Senate,16,IND,Monroe,5 Willis,x
-9,Chris Brown,State House,20,R,Monroe,5 Willis,x
-9,Karl Gibbs,State House,36,D,Monroe,5 Willis,412
-9,Jessica Lofton Lewis,State House,36,IND,Monroe,5 Willis,82
-9,Dana Underwood McLean,State House,39,R,Monroe,5 Willis,x
-3,Jim Hood,Governor,,D,Monroe,5 Wren,181
-3,Tate Reeves,Governor,,R,Monroe,5 Wren,455
-3,Bob Hickingbottom,Governor,,C,Monroe,5 Wren,0
-3,David R Singletary,Governor,,IND,Monroe,5 Wren,7
-3,Delbert Hosemann,Lieutenant Governor,,R,Monroe,5 Wren,495
-3,Jay Hughes,Lieutenant Governor,,D,Monroe,5 Wren,140
-3,Johnny DuPree,Secretary of State,,D,Monroe,5 Wren,137
-3,Michael Watson,Secretary of State,,R,Monroe,5 Wren,491
-3,Jennifer Riley Collins,Attorney General,,D,Monroe,5 Wren,159
-3,Lynn Fitch,Attorney General,,R,Monroe,5 Wren,477
-3,Shad White,State Auditor,,R,Monroe,5 Wren,544
-6,Addie Lee Green,State Treasurer,,D,Monroe,5 Wren,133
-6,David McRae,State Treasurer,,R,Monroe,5 Wren,496
-6,Rickey L Cole,Commissioner of Agriculture & Commerce,,D,Monroe,5 Wren,160
-6,Andy Gipson,Commissioner of Agriculture & Commerce,,R,Monroe,5 Wren,465
-9,Hob Bryan,State Senate,7,D,Monroe,5 Wren,465
-9,DeWanna Belton,State Senate,17,D,Monroe,5 Wren,x
-9,Charles A 'Chuck' Younger,State Senate,17,R,Monroe,5 Wren,x
-9,Danny Bedwell,State Senate,17,LIB,Monroe,5 Wren,x
-9,Rickey W Thompson,State Senate,16,D,Monroe,5 Wren,x
-9,Steve Holland,State Senate,16,IND,Monroe,5 Wren,x
-9,Chris Brown,State House,20,R,Monroe,5 Wren,515
-9,Karl Gibbs,State House,36,D,Monroe,5 Wren,24
-9,Jessica Lofton Lewis,State House,36,IND,Monroe,5 Wren,17
-9,Dana Underwood McLean,State House,39,R,Monroe,5 Wren,x
-3,Jim Hood,Governor,,D,Monroe,TOTAL ,5149
-3,Tate Reeves,Governor,,R,Monroe,TOTAL ,7054
-3,Bob Hickingbottom,Governor,,C,Monroe,TOTAL ,29
-3,David R Singletary,Governor,,IND,Monroe,TOTAL ,73
-3,Delbert Hosemann,Lieutenant Governor,,R,Monroe,TOTAL ,7972
-3,Jay Hughes,Lieutenant Governor,,D,Monroe,TOTAL ,4148
-3,Johnny DuPree,Secretary of State,,D,Monroe,TOTAL ,4303
-3,Michael Watson,Secretary of State,,R,Monroe,TOTAL ,7686
-3,Jennifer Riley Collins,Attorney General,,D,Monroe,TOTAL ,4521
-3,Lynn Fitch,Attorney General,,R,Monroe,TOTAL ,7660
-3,Shad White,State Auditor,,R,Monroe,TOTAL ,9403
-6,Addie Lee Green,State Treasurer,,D,Monroe,TOTAL ,4133
-6,David McRae,State Treasurer,,R,Monroe,TOTAL ,7939
-6,Rickey L Cole,Commissioner of Agriculture & Commerce,,D,Monroe,TOTAL ,4511
-6,Andy Gipson,Commissioner of Agriculture & Commerce,,R,Monroe,TOTAL ,7489
-9,Hob Bryan,State Senate,7,D,Monroe,TOTAL ,7917
-9,DeWanna Belton,State Senate,17,D,Monroe,TOTAL ,318
-9,Charles A 'Chuck' Younger,State Senate,17,R,Monroe,TOTAL ,1797
-9,Danny Bedwell,State Senate,17,LIB,Monroe,TOTAL ,61
-9,Rickey W Thompson,State Senate,16,D,Monroe,TOTAL ,55
-9,Steve Holland,State Senate,16,IND,Monroe,TOTAL ,18
-9,Chris Brown,State House,20,R,Monroe,TOTAL ,5668
-9,Karl Gibbs,State House,36,D,Monroe,TOTAL ,2638
-9,Jessica Lofton Lewis,State House,36,IND,Monroe,TOTAL ,651
-9,Dana Underwood McLean,State House,39,R,Monroe,TOTAL ,1823
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
+﻿candidate,office,district,party,county,precinct,votes
+Jim Hood,Governor,,D,Monroe,1 Amory First,155
+Tate Reeves,Governor,,R,Monroe,1 Amory First,372
+Bob Hickingbottom,Governor,,C,Monroe,1 Amory First,3
+David R Singletary,Governor,,IND,Monroe,1 Amory First,2
+Delbert Hosemann,Lieutenant Governor,,R,Monroe,1 Amory First,453
+Jay Hughes,Lieutenant Governor,,D,Monroe,1 Amory First,80
+Johnny DuPree,Secretary of State,,D,Monroe,1 Amory First,89
+Michael Watson,Secretary of State,,R,Monroe,1 Amory First,431
+Jennifer Riley Collins,Attorney General,,D,Monroe,1 Amory First,95
+Lynn Fitch,Attorney General,,R,Monroe,1 Amory First,434
+Shad White,State Auditor,,R,Monroe,1 Amory First,481
+Addie Lee Green,State Treasurer,,D,Monroe,1 Amory First,66
+David McRae,State Treasurer,,R,Monroe,1 Amory First,455
+Rickey L Cole,Commissioner of Agriculture & Commerce,,D,Monroe,1 Amory First,97
+Andy Gipson,Commissioner of Agriculture & Commerce,,R,Monroe,1 Amory First,421
+Hob Bryan,State Senate,7,D,Monroe,1 Amory First,405
+DeWanna Belton,State Senate,17,D,Monroe,1 Amory First,x
+Charles A 'Chuck' Younger,State Senate,17,R,Monroe,1 Amory First,x
+Danny Bedwell,State Senate,17,LIB,Monroe,1 Amory First,x
+Rickey W Thompson,State Senate,16,D,Monroe,1 Amory First,x
+Steve Holland,State Senate,16,IND,Monroe,1 Amory First,x
+Chris Brown,State House,20,R,Monroe,1 Amory First,468
+Karl Gibbs,State House,36,D,Monroe,1 Amory First,x
+Jessica Lofton Lewis,State House,36,IND,Monroe,1 Amory First,x
+Dana Underwood McLean,State House,39,R,Monroe,1 Amory First,x
+Jim Hood,Governor,,D,Monroe,1 Bigbee,18
+Tate Reeves,Governor,,R,Monroe,1 Bigbee,101
+Bob Hickingbottom,Governor,,C,Monroe,1 Bigbee,0
+David R Singletary,Governor,,IND,Monroe,1 Bigbee,0
+Delbert Hosemann,Lieutenant Governor,,R,Monroe,1 Bigbee,110
+Jay Hughes,Lieutenant Governor,,D,Monroe,1 Bigbee,8
+Johnny DuPree,Secretary of State,,D,Monroe,1 Bigbee,8
+Michael Watson,Secretary of State,,R,Monroe,1 Bigbee,106
+Jennifer Riley Collins,Attorney General,,D,Monroe,1 Bigbee,8
+Lynn Fitch,Attorney General,,R,Monroe,1 Bigbee,109
+Shad White,State Auditor,,R,Monroe,1 Bigbee,109
+Addie Lee Green,State Treasurer,,D,Monroe,1 Bigbee,9
+David McRae,State Treasurer,,R,Monroe,1 Bigbee,104
+Rickey L Cole,Commissioner of Agriculture & Commerce,,D,Monroe,1 Bigbee,11
+Andy Gipson,Commissioner of Agriculture & Commerce,,R,Monroe,1 Bigbee,102
+Hob Bryan,State Senate,7,D,Monroe,1 Bigbee,76
+DeWanna Belton,State Senate,17,D,Monroe,1 Bigbee,x
+Charles A 'Chuck' Younger,State Senate,17,R,Monroe,1 Bigbee,x
+Danny Bedwell,State Senate,17,LIB,Monroe,1 Bigbee,x
+Rickey W Thompson,State Senate,16,D,Monroe,1 Bigbee,x
+Steve Holland,State Senate,16,IND,Monroe,1 Bigbee,x
+Chris Brown,State House,20,R,Monroe,1 Bigbee,111
+Karl Gibbs,State House,36,D,Monroe,1 Bigbee,x
+Jessica Lofton Lewis,State House,36,IND,Monroe,1 Bigbee,x
+Dana Underwood McLean,State House,39,R,Monroe,1 Bigbee,x
+Jim Hood,Governor,,D,Monroe,1 Boyds,42
+Tate Reeves,Governor,,R,Monroe,1 Boyds,209
+Bob Hickingbottom,Governor,,C,Monroe,1 Boyds,0
+David R Singletary,Governor,,IND,Monroe,1 Boyds,3
+Delbert Hosemann,Lieutenant Governor,,R,Monroe,1 Boyds,225
+Jay Hughes,Lieutenant Governor,,D,Monroe,1 Boyds,25
+Johnny DuPree,Secretary of State,,D,Monroe,1 Boyds,23
+Michael Watson,Secretary of State,,R,Monroe,1 Boyds,221
+Jennifer Riley Collins,Attorney General,,D,Monroe,1 Boyds,27
+Lynn Fitch,Attorney General,,R,Monroe,1 Boyds,223
+Shad White,State Auditor,,R,Monroe,1 Boyds,228
+Addie Lee Green,State Treasurer,,D,Monroe,1 Boyds,22
+David McRae,State Treasurer,,R,Monroe,1 Boyds,225
+Rickey L Cole,Commissioner of Agriculture & Commerce,,D,Monroe,1 Boyds,31
+Andy Gipson,Commissioner of Agriculture & Commerce,,R,Monroe,1 Boyds,215
+Hob Bryan,State Senate,7,D,Monroe,1 Boyds,155
+DeWanna Belton,State Senate,17,D,Monroe,1 Boyds,x
+Charles A 'Chuck' Younger,State Senate,17,R,Monroe,1 Boyds,x
+Danny Bedwell,State Senate,17,LIB,Monroe,1 Boyds,x
+Rickey W Thompson,State Senate,16,D,Monroe,1 Boyds,x
+Steve Holland,State Senate,16,IND,Monroe,1 Boyds,x
+Chris Brown,State House,20,R,Monroe,1 Boyds,229
+Karl Gibbs,State House,36,D,Monroe,1 Boyds,x
+Jessica Lofton Lewis,State House,36,IND,Monroe,1 Boyds,x
+Dana Underwood McLean,State House,39,R,Monroe,1 Boyds,x
+Jim Hood,Governor,,D,Monroe,1 Hatley,230
+Tate Reeves,Governor,,R,Monroe,1 Hatley,886
+Bob Hickingbottom,Governor,,C,Monroe,1 Hatley,2
+David R Singletary,Governor,,IND,Monroe,1 Hatley,7
+Delbert Hosemann,Lieutenant Governor,,R,Monroe,1 Hatley,989
+Jay Hughes,Lieutenant Governor,,D,Monroe,1 Hatley,125
+Johnny DuPree,Secretary of State,,D,Monroe,1 Hatley,129
+Michael Watson,Secretary of State,,R,Monroe,1 Hatley,963
+Jennifer Riley Collins,Attorney General,,D,Monroe,1 Hatley,126
+Lynn Fitch,Attorney General,,R,Monroe,1 Hatley,980
+Shad White,State Auditor,,R,Monroe,1 Hatley,1023
+Addie Lee Green,State Treasurer,,D,Monroe,1 Hatley,91
+David McRae,State Treasurer,,R,Monroe,1 Hatley,1006
+Rickey L Cole,Commissioner of Agriculture & Commerce,,D,Monroe,1 Hatley,149
+Andy Gipson,Commissioner of Agriculture & Commerce,,R,Monroe,1 Hatley,941
+Hob Bryan,State Senate,7,D,Monroe,1 Hatley,761
+DeWanna Belton,State Senate,17,D,Monroe,1 Hatley,x
+Charles A 'Chuck' Younger,State Senate,17,R,Monroe,1 Hatley,x
+Danny Bedwell,State Senate,17,LIB,Monroe,1 Hatley,x
+Rickey W Thompson,State Senate,16,D,Monroe,1 Hatley,x
+Steve Holland,State Senate,16,IND,Monroe,1 Hatley,x
+Chris Brown,State House,20,R,Monroe,1 Hatley,1018
+Karl Gibbs,State House,36,D,Monroe,1 Hatley,x
+Jessica Lofton Lewis,State House,36,IND,Monroe,1 Hatley,x
+Dana Underwood McLean,State House,39,R,Monroe,1 Hatley,x
+Jim Hood,Governor,,D,Monroe,1 Smithville,148
+Tate Reeves,Governor,,R,Monroe,1 Smithville,486
+Bob Hickingbottom,Governor,,C,Monroe,1 Smithville,0
+David R Singletary,Governor,,IND,Monroe,1 Smithville,6
+Delbert Hosemann,Lieutenant Governor,,R,Monroe,1 Smithville,536
+Jay Hughes,Lieutenant Governor,,D,Monroe,1 Smithville,96
+Johnny DuPree,Secretary of State,,D,Monroe,1 Smithville,99
+Michael Watson,Secretary of State,,R,Monroe,1 Smithville,527
+Jennifer Riley Collins,Attorney General,,D,Monroe,1 Smithville,112
+Lynn Fitch,Attorney General,,R,Monroe,1 Smithville,523
+Shad White,State Auditor,,R,Monroe,1 Smithville,570
+Addie Lee Green,State Treasurer,,D,Monroe,1 Smithville,80
+David McRae,State Treasurer,,R,Monroe,1 Smithville,547
+Rickey L Cole,Commissioner of Agriculture & Commerce,,D,Monroe,1 Smithville,109
+Andy Gipson,Commissioner of Agriculture & Commerce,,R,Monroe,1 Smithville,514
+Hob Bryan,State Senate,7,D,Monroe,1 Smithville,481
+DeWanna Belton,State Senate,17,D,Monroe,1 Smithville,x
+Charles A 'Chuck' Younger,State Senate,17,R,Monroe,1 Smithville,x
+Danny Bedwell,State Senate,17,LIB,Monroe,1 Smithville,x
+Rickey W Thompson,State Senate,16,D,Monroe,1 Smithville,x
+Steve Holland,State Senate,16,IND,Monroe,1 Smithville,x
+Chris Brown,State House,20,R,Monroe,1 Smithville,583
+Karl Gibbs,State House,36,D,Monroe,1 Smithville,x
+Jessica Lofton Lewis,State House,36,IND,Monroe,1 Smithville,x
+Dana Underwood McLean,State House,39,R,Monroe,1 Smithville,x
+Jim Hood,Governor,,D,Monroe,2 Amory Second,431
+Tate Reeves,Governor,,R,Monroe,2 Amory Second,774
+Bob Hickingbottom,Governor,,C,Monroe,2 Amory Second,5
+David R Singletary,Governor,,IND,Monroe,2 Amory Second,8
+Delbert Hosemann,Lieutenant Governor,,R,Monroe,2 Amory Second,904
+Jay Hughes,Lieutenant Governor,,D,Monroe,2 Amory Second,296
+Johnny DuPree,Secretary of State,,D,Monroe,2 Amory Second,303
+Michael Watson,Secretary of State,,R,Monroe,2 Amory Second,882
+Jennifer Riley Collins,Attorney General,,D,Monroe,2 Amory Second,335
+Lynn Fitch,Attorney General,,R,Monroe,2 Amory Second,869
+Shad White,State Auditor,,R,Monroe,2 Amory Second,1041
+Addie Lee Green,State Treasurer,,D,Monroe,2 Amory Second,280
+David McRae,State Treasurer,,R,Monroe,2 Amory Second,913
+Rickey L Cole,Commissioner of Agriculture & Commerce,,D,Monroe,2 Amory Second,330
+Andy Gipson,Commissioner of Agriculture & Commerce,,R,Monroe,2 Amory Second,858
+Hob Bryan,State Senate,7,D,Monroe,2 Amory Second,908
+DeWanna Belton,State Senate,17,D,Monroe,2 Amory Second,x
+Charles A 'Chuck' Younger,State Senate,17,R,Monroe,2 Amory Second,x
+Danny Bedwell,State Senate,17,LIB,Monroe,2 Amory Second,x
+Rickey W Thompson,State Senate,16,D,Monroe,2 Amory Second,x
+Steve Holland,State Senate,16,IND,Monroe,2 Amory Second,x
+Chris Brown,State House,20,R,Monroe,2 Amory Second,1044
+Karl Gibbs,State House,36,D,Monroe,2 Amory Second,x
+Jessica Lofton Lewis,State House,36,IND,Monroe,2 Amory Second,x
+Dana Underwood McLean,State House,39,R,Monroe,2 Amory Second,x
+Jim Hood,Governor,,D,Monroe,2 Becker,141
+Tate Reeves,Governor,,R,Monroe,2 Becker,544
+Bob Hickingbottom,Governor,,C,Monroe,2 Becker,0
+David R Singletary,Governor,,IND,Monroe,2 Becker,7
+Delbert Hosemann,Lieutenant Governor,,R,Monroe,2 Becker,605
+Jay Hughes,Lieutenant Governor,,D,Monroe,2 Becker,80
+Johnny DuPree,Secretary of State,,D,Monroe,2 Becker,81
+Michael Watson,Secretary of State,,R,Monroe,2 Becker,600
+Jennifer Riley Collins,Attorney General,,D,Monroe,2 Becker,91
+Lynn Fitch,Attorney General,,R,Monroe,2 Becker,592
+Shad White,State Auditor,,R,Monroe,2 Becker,627
+Addie Lee Green,State Treasurer,,D,Monroe,2 Becker,64
+David McRae,State Treasurer,,R,Monroe,2 Becker,617
+Rickey L Cole,Commissioner of Agriculture & Commerce,,D,Monroe,2 Becker,97
+Andy Gipson,Commissioner of Agriculture & Commerce,,R,Monroe,2 Becker,580
+Hob Bryan,State Senate,7,D,Monroe,2 Becker,465
+DeWanna Belton,State Senate,17,D,Monroe,2 Becker,x
+Charles A 'Chuck' Younger,State Senate,17,R,Monroe,2 Becker,x
+Danny Bedwell,State Senate,17,LIB,Monroe,2 Becker,x
+Rickey W Thompson,State Senate,16,D,Monroe,2 Becker,x
+Steve Holland,State Senate,16,IND,Monroe,2 Becker,x
+Chris Brown,State House,20,R,Monroe,2 Becker,629
+Karl Gibbs,State House,36,D,Monroe,2 Becker,x
+Jessica Lofton Lewis,State House,36,IND,Monroe,2 Becker,x
+Dana Underwood McLean,State House,39,R,Monroe,2 Becker,x
+Jim Hood,Governor,,D,Monroe,2 Parham,29
+Tate Reeves,Governor,,R,Monroe,2 Parham,88
+Bob Hickingbottom,Governor,,C,Monroe,2 Parham,0
+David R Singletary,Governor,,IND,Monroe,2 Parham,0
+Delbert Hosemann,Lieutenant Governor,,R,Monroe,2 Parham,92
+Jay Hughes,Lieutenant Governor,,D,Monroe,2 Parham,24
+Johnny DuPree,Secretary of State,,D,Monroe,2 Parham,21
+Michael Watson,Secretary of State,,R,Monroe,2 Parham,93
+Jennifer Riley Collins,Attorney General,,D,Monroe,2 Parham,23
+Lynn Fitch,Attorney General,,R,Monroe,2 Parham,91
+Shad White,State Auditor,,R,Monroe,2 Parham,107
+Addie Lee Green,State Treasurer,,D,Monroe,2 Parham,17
+David McRae,State Treasurer,,R,Monroe,2 Parham,98
+Rickey L Cole,Commissioner of Agriculture & Commerce,,D,Monroe,2 Parham,25
+Andy Gipson,Commissioner of Agriculture & Commerce,,R,Monroe,2 Parham,91
+Hob Bryan,State Senate,7,D,Monroe,2 Parham,89
+DeWanna Belton,State Senate,17,D,Monroe,2 Parham,x
+Charles A 'Chuck' Younger,State Senate,17,R,Monroe,2 Parham,x
+Danny Bedwell,State Senate,17,LIB,Monroe,2 Parham,x
+Rickey W Thompson,State Senate,16,D,Monroe,2 Parham,x
+Steve Holland,State Senate,16,IND,Monroe,2 Parham,x
+Chris Brown,State House,20,R,Monroe,2 Parham,101
+Karl Gibbs,State House,36,D,Monroe,2 Parham,x
+Jessica Lofton Lewis,State House,36,IND,Monroe,2 Parham,x
+Dana Underwood McLean,State House,39,R,Monroe,2 Parham,x
+Jim Hood,Governor,,D,Monroe,2 Sipsey,17
+Tate Reeves,Governor,,R,Monroe,2 Sipsey,136
+Bob Hickingbottom,Governor,,C,Monroe,2 Sipsey,1
+David R Singletary,Governor,,IND,Monroe,2 Sipsey,1
+Delbert Hosemann,Lieutenant Governor,,R,Monroe,2 Sipsey,144
+Jay Hughes,Lieutenant Governor,,D,Monroe,2 Sipsey,10
+Johnny DuPree,Secretary of State,,D,Monroe,2 Sipsey,14
+Michael Watson,Secretary of State,,R,Monroe,2 Sipsey,140
+Jennifer Riley Collins,Attorney General,,D,Monroe,2 Sipsey,11
+Lynn Fitch,Attorney General,,R,Monroe,2 Sipsey,145
+Shad White,State Auditor,,R,Monroe,2 Sipsey,145
+Addie Lee Green,State Treasurer,,D,Monroe,2 Sipsey,9
+David McRae,State Treasurer,,R,Monroe,2 Sipsey,143
+Rickey L Cole,Commissioner of Agriculture & Commerce,,D,Monroe,2 Sipsey,16
+Andy Gipson,Commissioner of Agriculture & Commerce,,R,Monroe,2 Sipsey,136
+Hob Bryan,State Senate,7,D,Monroe,2 Sipsey,x
+DeWanna Belton,State Senate,17,D,Monroe,2 Sipsey,10
+Charles A 'Chuck' Younger,State Senate,17,R,Monroe,2 Sipsey,136
+Danny Bedwell,State Senate,17,LIB,Monroe,2 Sipsey,4
+Rickey W Thompson,State Senate,16,D,Monroe,2 Sipsey,x
+Steve Holland,State Senate,16,IND,Monroe,2 Sipsey,x
+Chris Brown,State House,20,R,Monroe,2 Sipsey,x
+Karl Gibbs,State House,36,D,Monroe,2 Sipsey,x
+Jessica Lofton Lewis,State House,36,IND,Monroe,2 Sipsey,x
+Dana Underwood McLean,State House,39,R,Monroe,2 Sipsey,145
+Jim Hood,Governor,,D,Monroe,2 Williams,13
+Tate Reeves,Governor,,R,Monroe,2 Williams,54
+Bob Hickingbottom,Governor,,C,Monroe,2 Williams,1
+David R Singletary,Governor,,IND,Monroe,2 Williams,1
+Delbert Hosemann,Lieutenant Governor,,R,Monroe,2 Williams,59
+Jay Hughes,Lieutenant Governor,,D,Monroe,2 Williams,10
+Johnny DuPree,Secretary of State,,D,Monroe,2 Williams,9
+Michael Watson,Secretary of State,,R,Monroe,2 Williams,58
+Jennifer Riley Collins,Attorney General,,D,Monroe,2 Williams,12
+Lynn Fitch,Attorney General,,R,Monroe,2 Williams,56
+Shad White,State Auditor,,R,Monroe,2 Williams,62
+Addie Lee Green,State Treasurer,,D,Monroe,2 Williams,8
+David McRae,State Treasurer,,R,Monroe,2 Williams,59
+Rickey L Cole,Commissioner of Agriculture & Commerce,,D,Monroe,2 Williams,13
+Andy Gipson,Commissioner of Agriculture & Commerce,,R,Monroe,2 Williams,55
+Hob Bryan,State Senate,7,D,Monroe,2 Williams,45
+DeWanna Belton,State Senate,17,D,Monroe,2 Williams,x
+Charles A 'Chuck' Younger,State Senate,17,R,Monroe,2 Williams,x
+Danny Bedwell,State Senate,17,LIB,Monroe,2 Williams,x
+Rickey W Thompson,State Senate,16,D,Monroe,2 Williams,x
+Steve Holland,State Senate,16,IND,Monroe,2 Williams,x
+Chris Brown,State House,20,R,Monroe,2 Williams,62
+Karl Gibbs,State House,36,D,Monroe,2 Williams,x
+Jessica Lofton Lewis,State House,36,IND,Monroe,2 Williams,x
+Dana Underwood McLean,State House,39,R,Monroe,2 Williams,x
+Jim Hood,Governor,,D,Monroe,3 Aberdeen Third,230
+Tate Reeves,Governor,,R,Monroe,3 Aberdeen Third,215
+Bob Hickingbottom,Governor,,C,Monroe,3 Aberdeen Third,2
+David R Singletary,Governor,,IND,Monroe,3 Aberdeen Third,3
+Delbert Hosemann,Lieutenant Governor,,R,Monroe,3 Aberdeen Third,263
+Jay Hughes,Lieutenant Governor,,D,Monroe,3 Aberdeen Third,184
+Johnny DuPree,Secretary of State,,D,Monroe,3 Aberdeen Third,192
+Michael Watson,Secretary of State,,R,Monroe,3 Aberdeen Third,249
+Jennifer Riley Collins,Attorney General,,D,Monroe,3 Aberdeen Third,208
+Lynn Fitch,Attorney General,,R,Monroe,3 Aberdeen Third,237
+Shad White,State Auditor,,R,Monroe,3 Aberdeen Third,326
+Addie Lee Green,State Treasurer,,D,Monroe,3 Aberdeen Third,191
+David McRae,State Treasurer,,R,Monroe,3 Aberdeen Third,253
+Rickey L Cole,Commissioner of Agriculture & Commerce,,D,Monroe,3 Aberdeen Third,208
+Andy Gipson,Commissioner of Agriculture & Commerce,,R,Monroe,3 Aberdeen Third,233
+Hob Bryan,State Senate,7,D,Monroe,3 Aberdeen Third,373
+DeWanna Belton,State Senate,17,D,Monroe,3 Aberdeen Third,x
+Charles A 'Chuck' Younger,State Senate,17,R,Monroe,3 Aberdeen Third,x
+Danny Bedwell,State Senate,17,LIB,Monroe,3 Aberdeen Third,x
+Rickey W Thompson,State Senate,16,D,Monroe,3 Aberdeen Third,x
+Steve Holland,State Senate,16,IND,Monroe,3 Aberdeen Third,x
+Chris Brown,State House,20,R,Monroe,3 Aberdeen Third,x
+Karl Gibbs,State House,36,D,Monroe,3 Aberdeen Third,263
+Jessica Lofton Lewis,State House,36,IND,Monroe,3 Aberdeen Third,146
+Dana Underwood McLean,State House,39,R,Monroe,3 Aberdeen Third,x
+Jim Hood,Governor,,D,Monroe,3 Athens,87
+Tate Reeves,Governor,,R,Monroe,3 Athens,225
+Bob Hickingbottom,Governor,,C,Monroe,3 Athens,0
+David R Singletary,Governor,,IND,Monroe,3 Athens,4
+Delbert Hosemann,Lieutenant Governor,,R,Monroe,3 Athens,255
+Jay Hughes,Lieutenant Governor,,D,Monroe,3 Athens,55
+Johnny DuPree,Secretary of State,,D,Monroe,3 Athens,61
+Michael Watson,Secretary of State,,R,Monroe,3 Athens,248
+Jennifer Riley Collins,Attorney General,,D,Monroe,3 Athens,66
+Lynn Fitch,Attorney General,,R,Monroe,3 Athens,243
+Shad White,State Auditor,,R,Monroe,3 Athens,276
+Addie Lee Green,State Treasurer,,D,Monroe,3 Athens,60
+David McRae,State Treasurer,,R,Monroe,3 Athens,251
+Rickey L Cole,Commissioner of Agriculture & Commerce,,D,Monroe,3 Athens,64
+Andy Gipson,Commissioner of Agriculture & Commerce,,R,Monroe,3 Athens,244
+Hob Bryan,State Senate,7,D,Monroe,3 Athens,106
+DeWanna Belton,State Senate,17,D,Monroe,3 Athens,26
+Charles A 'Chuck' Younger,State Senate,17,R,Monroe,3 Athens,141
+Danny Bedwell,State Senate,17,LIB,Monroe,3 Athens,3
+Rickey W Thompson,State Senate,16,D,Monroe,3 Athens,x
+Steve Holland,State Senate,16,IND,Monroe,3 Athens,x
+Chris Brown,State House,20,R,Monroe,3 Athens,277
+Karl Gibbs,State House,36,D,Monroe,3 Athens,x
+Jessica Lofton Lewis,State House,36,IND,Monroe,3 Athens,x
+Dana Underwood McLean,State House,39,R,Monroe,3 Athens,x
+Jim Hood,Governor,,D,Monroe,3 Bartahatchie,26
+Tate Reeves,Governor,,R,Monroe,3 Bartahatchie,156
+Bob Hickingbottom,Governor,,C,Monroe,3 Bartahatchie,0
+David R Singletary,Governor,,IND,Monroe,3 Bartahatchie,0
+Delbert Hosemann,Lieutenant Governor,,R,Monroe,3 Bartahatchie,158
+Jay Hughes,Lieutenant Governor,,D,Monroe,3 Bartahatchie,20
+Johnny DuPree,Secretary of State,,D,Monroe,3 Bartahatchie,27
+Michael Watson,Secretary of State,,R,Monroe,3 Bartahatchie,149
+Jennifer Riley Collins,Attorney General,,D,Monroe,3 Bartahatchie,26
+Lynn Fitch,Attorney General,,R,Monroe,3 Bartahatchie,155
+Shad White,State Auditor,,R,Monroe,3 Bartahatchie,165
+Addie Lee Green,State Treasurer,,D,Monroe,3 Bartahatchie,24
+David McRae,State Treasurer,,R,Monroe,3 Bartahatchie,154
+Rickey L Cole,Commissioner of Agriculture & Commerce,,D,Monroe,3 Bartahatchie,26
+Andy Gipson,Commissioner of Agriculture & Commerce,,R,Monroe,3 Bartahatchie,149
+Hob Bryan,State Senate,7,D,Monroe,3 Bartahatchie,x
+DeWanna Belton,State Senate,17,D,Monroe,3 Bartahatchie,13
+Charles A 'Chuck' Younger,State Senate,17,R,Monroe,3 Bartahatchie,158
+Danny Bedwell,State Senate,17,LIB,Monroe,3 Bartahatchie,5
+Rickey W Thompson,State Senate,16,D,Monroe,3 Bartahatchie,x
+Steve Holland,State Senate,16,IND,Monroe,3 Bartahatchie,x
+Chris Brown,State House,20,R,Monroe,3 Bartahatchie,x
+Karl Gibbs,State House,36,D,Monroe,3 Bartahatchie,x
+Jessica Lofton Lewis,State House,36,IND,Monroe,3 Bartahatchie,x
+Dana Underwood McLean,State House,39,R,Monroe,3 Bartahatchie,166
+Jim Hood,Governor,,D,Monroe,3 Greenwood Springs,14
+Tate Reeves,Governor,,R,Monroe,3 Greenwood Springs,76
+Bob Hickingbottom,Governor,,C,Monroe,3 Greenwood Springs,2
+David R Singletary,Governor,,IND,Monroe,3 Greenwood Springs,0
+Delbert Hosemann,Lieutenant Governor,,R,Monroe,3 Greenwood Springs,85
+Jay Hughes,Lieutenant Governor,,D,Monroe,3 Greenwood Springs,7
+Johnny DuPree,Secretary of State,,D,Monroe,3 Greenwood Springs,9
+Michael Watson,Secretary of State,,R,Monroe,3 Greenwood Springs,82
+Jennifer Riley Collins,Attorney General,,D,Monroe,3 Greenwood Springs,9
+Lynn Fitch,Attorney General,,R,Monroe,3 Greenwood Springs,83
+Shad White,State Auditor,,R,Monroe,3 Greenwood Springs,88
+Addie Lee Green,State Treasurer,,D,Monroe,3 Greenwood Springs,5
+David McRae,State Treasurer,,R,Monroe,3 Greenwood Springs,87
+Rickey L Cole,Commissioner of Agriculture & Commerce,,D,Monroe,3 Greenwood Springs,9
+Andy Gipson,Commissioner of Agriculture & Commerce,,R,Monroe,3 Greenwood Springs,82
+Hob Bryan,State Senate,7,D,Monroe,3 Greenwood Springs,x
+DeWanna Belton,State Senate,17,D,Monroe,3 Greenwood Springs,6
+Charles A 'Chuck' Younger,State Senate,17,R,Monroe,3 Greenwood Springs,81
+Danny Bedwell,State Senate,17,LIB,Monroe,3 Greenwood Springs,4
+Rickey W Thompson,State Senate,16,D,Monroe,3 Greenwood Springs,x
+Steve Holland,State Senate,16,IND,Monroe,3 Greenwood Springs,x
+Chris Brown,State House,20,R,Monroe,3 Greenwood Springs,x
+Karl Gibbs,State House,36,D,Monroe,3 Greenwood Springs,x
+Jessica Lofton Lewis,State House,36,IND,Monroe,3 Greenwood Springs,x
+Dana Underwood McLean,State House,39,R,Monroe,3 Greenwood Springs,85
+Jim Hood,Governor,,D,Monroe,3 Hamilton,265
+Tate Reeves,Governor,,R,Monroe,3 Hamilton,737
+Bob Hickingbottom,Governor,,C,Monroe,3 Hamilton,3
+David R Singletary,Governor,,IND,Monroe,3 Hamilton,7
+Delbert Hosemann,Lieutenant Governor,,R,Monroe,3 Hamilton,810
+Jay Hughes,Lieutenant Governor,,D,Monroe,3 Hamilton,189
+Johnny DuPree,Secretary of State,,D,Monroe,3 Hamilton,202
+Michael Watson,Secretary of State,,R,Monroe,3 Hamilton,790
+Jennifer Riley Collins,Attorney General,,D,Monroe,3 Hamilton,213
+Lynn Fitch,Attorney General,,R,Monroe,3 Hamilton,794
+Shad White,State Auditor,,R,Monroe,3 Hamilton,887
+Addie Lee Green,State Treasurer,,D,Monroe,3 Hamilton,190
+David McRae,State Treasurer,,R,Monroe,3 Hamilton,812
+Rickey L Cole,Commissioner of Agriculture & Commerce,,D,Monroe,3 Hamilton,213
+Andy Gipson,Commissioner of Agriculture & Commerce,,R,Monroe,3 Hamilton,784
+Hob Bryan,State Senate,7,D,Monroe,3 Hamilton,x
+DeWanna Belton,State Senate,17,D,Monroe,3 Hamilton,188
+Charles A 'Chuck' Younger,State Senate,17,R,Monroe,3 Hamilton,788
+Danny Bedwell,State Senate,17,LIB,Monroe,3 Hamilton,32
+Rickey W Thompson,State Senate,16,D,Monroe,3 Hamilton,x
+Steve Holland,State Senate,16,IND,Monroe,3 Hamilton,x
+Chris Brown,State House,20,R,Monroe,3 Hamilton,x
+Karl Gibbs,State House,36,D,Monroe,3 Hamilton,x
+Jessica Lofton Lewis,State House,36,IND,Monroe,3 Hamilton,x
+Dana Underwood McLean,State House,39,R,Monroe,3 Hamilton,892
+Jim Hood,Governor,,D,Monroe,3 Lackey,121
+Tate Reeves,Governor,,R,Monroe,3 Lackey,468
+Bob Hickingbottom,Governor,,C,Monroe,3 Lackey,2
+David R Singletary,Governor,,IND,Monroe,3 Lackey,4
+Delbert Hosemann,Lieutenant Governor,,R,Monroe,3 Lackey,503
+Jay Hughes,Lieutenant Governor,,D,Monroe,3 Lackey,88
+Johnny DuPree,Secretary of State,,D,Monroe,3 Lackey,90
+Michael Watson,Secretary of State,,R,Monroe,3 Lackey,492
+Jennifer Riley Collins,Attorney General,,D,Monroe,3 Lackey,102
+Lynn Fitch,Attorney General,,R,Monroe,3 Lackey,492
+Shad White,State Auditor,,R,Monroe,3 Lackey,533
+Addie Lee Green,State Treasurer,,D,Monroe,3 Lackey,78
+David McRae,State Treasurer,,R,Monroe,3 Lackey,510
+Rickey L Cole,Commissioner of Agriculture & Commerce,,D,Monroe,3 Lackey,100
+Andy Gipson,Commissioner of Agriculture & Commerce,,R,Monroe,3 Lackey,484
+Hob Bryan,State Senate,7,D,Monroe,3 Lackey,x
+DeWanna Belton,State Senate,17,D,Monroe,3 Lackey,75
+Charles A 'Chuck' Younger,State Senate,17,R,Monroe,3 Lackey,493
+Danny Bedwell,State Senate,17,LIB,Monroe,3 Lackey,13
+Rickey W Thompson,State Senate,16,D,Monroe,3 Lackey,x
+Steve Holland,State Senate,16,IND,Monroe,3 Lackey,x
+Chris Brown,State House,20,R,Monroe,3 Lackey,x
+Karl Gibbs,State House,36,D,Monroe,3 Lackey,x
+Jessica Lofton Lewis,State House,36,IND,Monroe,3 Lackey,x
+Dana Underwood McLean,State House,39,R,Monroe,3 Lackey,535
+Jim Hood,Governor,,D,Monroe,4 Darracott,29
+Tate Reeves,Governor,,R,Monroe,4 Darracott,89
+Bob Hickingbottom,Governor,,C,Monroe,4 Darracott,0
+David R Singletary,Governor,,IND,Monroe,4 Darracott,2
+Delbert Hosemann,Lieutenant Governor,,R,Monroe,4 Darracott,95
+Jay Hughes,Lieutenant Governor,,D,Monroe,4 Darracott,25
+Johnny DuPree,Secretary of State,,D,Monroe,4 Darracott,23
+Michael Watson,Secretary of State,,R,Monroe,4 Darracott,94
+Jennifer Riley Collins,Attorney General,,D,Monroe,4 Darracott,26
+Lynn Fitch,Attorney General,,R,Monroe,4 Darracott,93
+Shad White,State Auditor,,R,Monroe,4 Darracott,97
+Addie Lee Green,State Treasurer,,D,Monroe,4 Darracott,22
+David McRae,State Treasurer,,R,Monroe,4 Darracott,96
+Rickey L Cole,Commissioner of Agriculture & Commerce,,D,Monroe,4 Darracott,25
+Andy Gipson,Commissioner of Agriculture & Commerce,,R,Monroe,4 Darracott,91
+Hob Bryan,State Senate,7,D,Monroe,4 Darracott,83
+DeWanna Belton,State Senate,17,D,Monroe,4 Darracott,x
+Charles A 'Chuck' Younger,State Senate,17,R,Monroe,4 Darracott,x
+Danny Bedwell,State Senate,17,LIB,Monroe,4 Darracott,x
+Rickey W Thompson,State Senate,16,D,Monroe,4 Darracott,x
+Steve Holland,State Senate,16,IND,Monroe,4 Darracott,x
+Chris Brown,State House,20,R,Monroe,4 Darracott,x
+Karl Gibbs,State House,36,D,Monroe,4 Darracott,46
+Jessica Lofton Lewis,State House,36,IND,Monroe,4 Darracott,52
+Dana Underwood McLean,State House,39,R,Monroe,4 Darracott,x
+Jim Hood,Governor,,D,Monroe,4 Gibson,259
+Tate Reeves,Governor,,R,Monroe,4 Gibson,62
+Bob Hickingbottom,Governor,,C,Monroe,4 Gibson,1
+David R Singletary,Governor,,IND,Monroe,4 Gibson,0
+Delbert Hosemann,Lieutenant Governor,,R,Monroe,4 Gibson,74
+Jay Hughes,Lieutenant Governor,,D,Monroe,4 Gibson,238
+Johnny DuPree,Secretary of State,,D,Monroe,4 Gibson,250
+Michael Watson,Secretary of State,,R,Monroe,4 Gibson,64
+Jennifer Riley Collins,Attorney General,,D,Monroe,4 Gibson,258
+Lynn Fitch,Attorney General,,R,Monroe,4 Gibson,61
+Shad White,State Auditor,,R,Monroe,4 Gibson,153
+Addie Lee Green,State Treasurer,,D,Monroe,4 Gibson,248
+David McRae,State Treasurer,,R,Monroe,4 Gibson,68
+Rickey L Cole,Commissioner of Agriculture & Commerce,,D,Monroe,4 Gibson,250
+Andy Gipson,Commissioner of Agriculture & Commerce,,R,Monroe,4 Gibson,65
+Hob Bryan,State Senate,7,D,Monroe,4 Gibson,294
+DeWanna Belton,State Senate,17,D,Monroe,4 Gibson,x
+Charles A 'Chuck' Younger,State Senate,17,R,Monroe,4 Gibson,x
+Danny Bedwell,State Senate,17,LIB,Monroe,4 Gibson,x
+Rickey W Thompson,State Senate,16,D,Monroe,4 Gibson,x
+Steve Holland,State Senate,16,IND,Monroe,4 Gibson,x
+Chris Brown,State House,20,R,Monroe,4 Gibson,x
+Karl Gibbs,State House,36,D,Monroe,4 Gibson,265
+Jessica Lofton Lewis,State House,36,IND,Monroe,4 Gibson,45
+Dana Underwood McLean,State House,39,R,Monroe,4 Gibson,x
+Jim Hood,Governor,,D,Monroe,4 North Aberdeen,536
+Tate Reeves,Governor,,R,Monroe,4 North Aberdeen,277
+Bob Hickingbottom,Governor,,C,Monroe,4 North Aberdeen,0
+David R Singletary,Governor,,IND,Monroe,4 North Aberdeen,3
+Delbert Hosemann,Lieutenant Governor,,R,Monroe,4 North Aberdeen,318
+Jay Hughes,Lieutenant Governor,,D,Monroe,4 North Aberdeen,483
+Johnny DuPree,Secretary of State,,D,Monroe,4 North Aberdeen,492
+Michael Watson,Secretary of State,,R,Monroe,4 North Aberdeen,305
+Jennifer Riley Collins,Attorney General,,D,Monroe,4 North Aberdeen,508
+Lynn Fitch,Attorney General,,R,Monroe,4 North Aberdeen,302
+Shad White,State Auditor,,R,Monroe,4 North Aberdeen,489
+Addie Lee Green,State Treasurer,,D,Monroe,4 North Aberdeen,495
+David McRae,State Treasurer,,R,Monroe,4 North Aberdeen,309
+Rickey L Cole,Commissioner of Agriculture & Commerce,,D,Monroe,4 North Aberdeen,503
+Andy Gipson,Commissioner of Agriculture & Commerce,,R,Monroe,4 North Aberdeen,297
+Hob Bryan,State Senate,7,D,Monroe,4 North Aberdeen,717
+DeWanna Belton,State Senate,17,D,Monroe,4 North Aberdeen,x
+Charles A 'Chuck' Younger,State Senate,17,R,Monroe,4 North Aberdeen,x
+Danny Bedwell,State Senate,17,LIB,Monroe,4 North Aberdeen,x
+Rickey W Thompson,State Senate,16,D,Monroe,4 North Aberdeen,x
+Steve Holland,State Senate,16,IND,Monroe,4 North Aberdeen,x
+Chris Brown,State House,20,R,Monroe,4 North Aberdeen,125
+Karl Gibbs,State House,36,D,Monroe,4 North Aberdeen,521
+Jessica Lofton Lewis,State House,36,IND,Monroe,4 North Aberdeen,109
+Dana Underwood McLean,State House,39,R,Monroe,4 North Aberdeen,x
+Jim Hood,Governor,,D,Monroe,4 Prairie,348
+Tate Reeves,Governor,,R,Monroe,4 Prairie,39
+Bob Hickingbottom,Governor,,C,Monroe,4 Prairie,0
+David R Singletary,Governor,,IND,Monroe,4 Prairie,0
+Delbert Hosemann,Lieutenant Governor,,R,Monroe,4 Prairie,62
+Jay Hughes,Lieutenant Governor,,D,Monroe,4 Prairie,317
+Johnny DuPree,Secretary of State,,D,Monroe,4 Prairie,334
+Michael Watson,Secretary of State,,R,Monroe,4 Prairie,46
+Jennifer Riley Collins,Attorney General,,D,Monroe,4 Prairie,345
+Lynn Fitch,Attorney General,,R,Monroe,4 Prairie,42
+Shad White,State Auditor,,R,Monroe,4 Prairie,157
+Addie Lee Green,State Treasurer,,D,Monroe,4 Prairie,340
+David McRae,State Treasurer,,R,Monroe,4 Prairie,42
+Rickey L Cole,Commissioner of Agriculture & Commerce,,D,Monroe,4 Prairie,339
+Andy Gipson,Commissioner of Agriculture & Commerce,,R,Monroe,4 Prairie,39
+Hob Bryan,State Senate,7,D,Monroe,4 Prairie,356
+DeWanna Belton,State Senate,17,D,Monroe,4 Prairie,x
+Charles A 'Chuck' Younger,State Senate,17,R,Monroe,4 Prairie,x
+Danny Bedwell,State Senate,17,LIB,Monroe,4 Prairie,x
+Rickey W Thompson,State Senate,16,D,Monroe,4 Prairie,x
+Steve Holland,State Senate,16,IND,Monroe,4 Prairie,x
+Chris Brown,State House,20,R,Monroe,4 Prairie,x
+Karl Gibbs,State House,36,D,Monroe,4 Prairie,341
+Jessica Lofton Lewis,State House,36,IND,Monroe,4 Prairie,32
+Dana Underwood McLean,State House,39,R,Monroe,4 Prairie,x
+Jim Hood,Governor,,D,Monroe,4 South Aberdeen,615
+Tate Reeves,Governor,,R,Monroe,4 South Aberdeen,112
+Bob Hickingbottom,Governor,,C,Monroe,4 South Aberdeen,3
+David R Singletary,Governor,,IND,Monroe,4 South Aberdeen,1
+Delbert Hosemann,Lieutenant Governor,,R,Monroe,4 South Aberdeen,154
+Jay Hughes,Lieutenant Governor,,D,Monroe,4 South Aberdeen,551
+Johnny DuPree,Secretary of State,,D,Monroe,4 South Aberdeen,571
+Michael Watson,Secretary of State,,R,Monroe,4 South Aberdeen,127
+Jennifer Riley Collins,Attorney General,,D,Monroe,4 South Aberdeen,589
+Lynn Fitch,Attorney General,,R,Monroe,4 South Aberdeen,127
+Shad White,State Auditor,,R,Monroe,4 South Aberdeen,378
+Addie Lee Green,State Treasurer,,D,Monroe,4 South Aberdeen,566
+David McRae,State Treasurer,,R,Monroe,4 South Aberdeen,144
+Rickey L Cole,Commissioner of Agriculture & Commerce,,D,Monroe,4 South Aberdeen,572
+Andy Gipson,Commissioner of Agriculture & Commerce,,R,Monroe,4 South Aberdeen,131
+Hob Bryan,State Senate,7,D,Monroe,4 South Aberdeen,644
+DeWanna Belton,State Senate,17,D,Monroe,4 South Aberdeen,x
+Charles A 'Chuck' Younger,State Senate,17,R,Monroe,4 South Aberdeen,x
+Danny Bedwell,State Senate,17,LIB,Monroe,4 South Aberdeen,x
+Rickey W Thompson,State Senate,16,D,Monroe,4 South Aberdeen,x
+Steve Holland,State Senate,16,IND,Monroe,4 South Aberdeen,x
+Chris Brown,State House,20,R,Monroe,4 South Aberdeen,x
+Karl Gibbs,State House,36,D,Monroe,4 South Aberdeen,609
+Jessica Lofton Lewis,State House,36,IND,Monroe,4 South Aberdeen,103
+Dana Underwood McLean,State House,39,R,Monroe,4 South Aberdeen,x
+Jim Hood,Governor,,D,Monroe,5 Amory Fifth,387
+Tate Reeves,Governor,,R,Monroe,5 Amory Fifth,4
+Bob Hickingbottom,Governor,,C,Monroe,5 Amory Fifth,1
+David R Singletary,Governor,,IND,Monroe,5 Amory Fifth,2
+Delbert Hosemann,Lieutenant Governor,,R,Monroe,5 Amory Fifth,17
+Jay Hughes,Lieutenant Governor,,D,Monroe,5 Amory Fifth,369
+Johnny DuPree,Secretary of State,,D,Monroe,5 Amory Fifth,376
+Michael Watson,Secretary of State,,R,Monroe,5 Amory Fifth,9
+Jennifer Riley Collins,Attorney General,,D,Monroe,5 Amory Fifth,380
+Lynn Fitch,Attorney General,,R,Monroe,5 Amory Fifth,11
+Shad White,State Auditor,,R,Monroe,5 Amory Fifth,144
+Addie Lee Green,State Treasurer,,D,Monroe,5 Amory Fifth,377
+David McRae,State Treasurer,,R,Monroe,5 Amory Fifth,11
+Rickey L Cole,Commissioner of Agriculture & Commerce,,D,Monroe,5 Amory Fifth,375
+Andy Gipson,Commissioner of Agriculture & Commerce,,R,Monroe,5 Amory Fifth,9
+Hob Bryan,State Senate,7,D,Monroe,5 Amory Fifth,387
+DeWanna Belton,State Senate,17,D,Monroe,5 Amory Fifth,x
+Charles A 'Chuck' Younger,State Senate,17,R,Monroe,5 Amory Fifth,x
+Danny Bedwell,State Senate,17,LIB,Monroe,5 Amory Fifth,x
+Rickey W Thompson,State Senate,16,D,Monroe,5 Amory Fifth,x
+Steve Holland,State Senate,16,IND,Monroe,5 Amory Fifth,x
+Chris Brown,State House,20,R,Monroe,5 Amory Fifth,143
+Karl Gibbs,State House,36,D,Monroe,5 Amory Fifth,x
+Jessica Lofton Lewis,State House,36,IND,Monroe,5 Amory Fifth,x
+Dana Underwood McLean,State House,39,R,Monroe,5 Amory Fifth,x
+Jim Hood,Governor,,D,Monroe,5 Central Grove,161
+Tate Reeves,Governor,,R,Monroe,5 Central Grove,82
+Bob Hickingbottom,Governor,,C,Monroe,5 Central Grove,0
+David R Singletary,Governor,,IND,Monroe,5 Central Grove,0
+Delbert Hosemann,Lieutenant Governor,,R,Monroe,5 Central Grove,98
+Jay Hughes,Lieutenant Governor,,D,Monroe,5 Central Grove,138
+Johnny DuPree,Secretary of State,,D,Monroe,5 Central Grove,147
+Michael Watson,Secretary of State,,R,Monroe,5 Central Grove,88
+Jennifer Riley Collins,Attorney General,,D,Monroe,5 Central Grove,161
+Lynn Fitch,Attorney General,,R,Monroe,5 Central Grove,81
+Shad White,State Auditor,,R,Monroe,5 Central Grove,138
+Addie Lee Green,State Treasurer,,D,Monroe,5 Central Grove,149
+David McRae,State Treasurer,,R,Monroe,5 Central Grove,87
+Rickey L Cole,Commissioner of Agriculture & Commerce,,D,Monroe,5 Central Grove,156
+Andy Gipson,Commissioner of Agriculture & Commerce,,R,Monroe,5 Central Grove,80
+Hob Bryan,State Senate,7,D,Monroe,5 Central Grove,209
+DeWanna Belton,State Senate,17,D,Monroe,5 Central Grove,x
+Charles A 'Chuck' Younger,State Senate,17,R,Monroe,5 Central Grove,x
+Danny Bedwell,State Senate,17,LIB,Monroe,5 Central Grove,x
+Rickey W Thompson,State Senate,16,D,Monroe,5 Central Grove,x
+Steve Holland,State Senate,16,IND,Monroe,5 Central Grove,x
+Chris Brown,State House,20,R,Monroe,5 Central Grove,x
+Karl Gibbs,State House,36,D,Monroe,5 Central Grove,157
+Jessica Lofton Lewis,State House,36,IND,Monroe,5 Central Grove,65
+Dana Underwood McLean,State House,39,R,Monroe,5 Central Grove,x
+Jim Hood,Governor,,D,Monroe,5 Nettleton,262
+Tate Reeves,Governor,,R,Monroe,5 Nettleton,301
+Bob Hickingbottom,Governor,,C,Monroe,5 Nettleton,3
+David R Singletary,Governor,,IND,Monroe,5 Nettleton,5
+Delbert Hosemann,Lieutenant Governor,,R,Monroe,5 Nettleton,338
+Jay Hughes,Lieutenant Governor,,D,Monroe,5 Nettleton,223
+Johnny DuPree,Secretary of State,,D,Monroe,5 Nettleton,232
+Michael Watson,Secretary of State,,R,Monroe,5 Nettleton,322
+Jennifer Riley Collins,Attorney General,,D,Monroe,5 Nettleton,244
+Lynn Fitch,Attorney General,,R,Monroe,5 Nettleton,323
+Shad White,State Auditor,,R,Monroe,5 Nettleton,391
+Addie Lee Green,State Treasurer,,D,Monroe,5 Nettleton,228
+David McRae,State Treasurer,,R,Monroe,5 Nettleton,333
+Rickey L Cole,Commissioner of Agriculture & Commerce,,D,Monroe,5 Nettleton,246
+Andy Gipson,Commissioner of Agriculture & Commerce,,R,Monroe,5 Nettleton,311
+Hob Bryan,State Senate,7,D,Monroe,5 Nettleton,426
+DeWanna Belton,State Senate,17,D,Monroe,5 Nettleton,x
+Charles A 'Chuck' Younger,State Senate,17,R,Monroe,5 Nettleton,x
+Danny Bedwell,State Senate,17,LIB,Monroe,5 Nettleton,x
+Rickey W Thompson,State Senate,16,D,Monroe,5 Nettleton,55
+Steve Holland,State Senate,16,IND,Monroe,5 Nettleton,18
+Chris Brown,State House,20,R,Monroe,5 Nettleton,363
+Karl Gibbs,State House,36,D,Monroe,5 Nettleton,x
+Jessica Lofton Lewis,State House,36,IND,Monroe,5 Nettleton,x
+Dana Underwood McLean,State House,39,R,Monroe,5 Nettleton,x
+Jim Hood,Governor,,D,Monroe,5 Willis,404
+Tate Reeves,Governor,,R,Monroe,5 Willis,106
+Bob Hickingbottom,Governor,,C,Monroe,5 Willis,0
+David R Singletary,Governor,,IND,Monroe,5 Willis,0
+Delbert Hosemann,Lieutenant Governor,,R,Monroe,5 Willis,130
+Jay Hughes,Lieutenant Governor,,D,Monroe,5 Willis,367
+Johnny DuPree,Secretary of State,,D,Monroe,5 Willis,384
+Michael Watson,Secretary of State,,R,Monroe,5 Willis,109
+Jennifer Riley Collins,Attorney General,,D,Monroe,5 Willis,387
+Lynn Fitch,Attorney General,,R,Monroe,5 Willis,117
+Shad White,State Auditor,,R,Monroe,5 Willis,244
+Addie Lee Green,State Treasurer,,D,Monroe,5 Willis,381
+David McRae,State Treasurer,,R,Monroe,5 Willis,119
+Rickey L Cole,Commissioner of Agriculture & Commerce,,D,Monroe,5 Willis,387
+Andy Gipson,Commissioner of Agriculture & Commerce,,R,Monroe,5 Willis,112
+Hob Bryan,State Senate,7,D,Monroe,5 Willis,472
+DeWanna Belton,State Senate,17,D,Monroe,5 Willis,x
+Charles A 'Chuck' Younger,State Senate,17,R,Monroe,5 Willis,x
+Danny Bedwell,State Senate,17,LIB,Monroe,5 Willis,x
+Rickey W Thompson,State Senate,16,D,Monroe,5 Willis,x
+Steve Holland,State Senate,16,IND,Monroe,5 Willis,x
+Chris Brown,State House,20,R,Monroe,5 Willis,x
+Karl Gibbs,State House,36,D,Monroe,5 Willis,412
+Jessica Lofton Lewis,State House,36,IND,Monroe,5 Willis,82
+Dana Underwood McLean,State House,39,R,Monroe,5 Willis,x
+Jim Hood,Governor,,D,Monroe,5 Wren,181
+Tate Reeves,Governor,,R,Monroe,5 Wren,455
+Bob Hickingbottom,Governor,,C,Monroe,5 Wren,0
+David R Singletary,Governor,,IND,Monroe,5 Wren,7
+Delbert Hosemann,Lieutenant Governor,,R,Monroe,5 Wren,495
+Jay Hughes,Lieutenant Governor,,D,Monroe,5 Wren,140
+Johnny DuPree,Secretary of State,,D,Monroe,5 Wren,137
+Michael Watson,Secretary of State,,R,Monroe,5 Wren,491
+Jennifer Riley Collins,Attorney General,,D,Monroe,5 Wren,159
+Lynn Fitch,Attorney General,,R,Monroe,5 Wren,477
+Shad White,State Auditor,,R,Monroe,5 Wren,544
+Addie Lee Green,State Treasurer,,D,Monroe,5 Wren,133
+David McRae,State Treasurer,,R,Monroe,5 Wren,496
+Rickey L Cole,Commissioner of Agriculture & Commerce,,D,Monroe,5 Wren,160
+Andy Gipson,Commissioner of Agriculture & Commerce,,R,Monroe,5 Wren,465
+Hob Bryan,State Senate,7,D,Monroe,5 Wren,465
+DeWanna Belton,State Senate,17,D,Monroe,5 Wren,x
+Charles A 'Chuck' Younger,State Senate,17,R,Monroe,5 Wren,x
+Danny Bedwell,State Senate,17,LIB,Monroe,5 Wren,x
+Rickey W Thompson,State Senate,16,D,Monroe,5 Wren,x
+Steve Holland,State Senate,16,IND,Monroe,5 Wren,x
+Chris Brown,State House,20,R,Monroe,5 Wren,515
+Karl Gibbs,State House,36,D,Monroe,5 Wren,24
+Jessica Lofton Lewis,State House,36,IND,Monroe,5 Wren,17
+Dana Underwood McLean,State House,39,R,Monroe,5 Wren,x
+Jim Hood,Governor,,D,Monroe,TOTAL ,5149
+Tate Reeves,Governor,,R,Monroe,TOTAL ,7054
+Bob Hickingbottom,Governor,,C,Monroe,TOTAL ,29
+David R Singletary,Governor,,IND,Monroe,TOTAL ,73
+Delbert Hosemann,Lieutenant Governor,,R,Monroe,TOTAL ,7972
+Jay Hughes,Lieutenant Governor,,D,Monroe,TOTAL ,4148
+Johnny DuPree,Secretary of State,,D,Monroe,TOTAL ,4303
+Michael Watson,Secretary of State,,R,Monroe,TOTAL ,7686
+Jennifer Riley Collins,Attorney General,,D,Monroe,TOTAL ,4521
+Lynn Fitch,Attorney General,,R,Monroe,TOTAL ,7660
+Shad White,State Auditor,,R,Monroe,TOTAL ,9403
+Addie Lee Green,State Treasurer,,D,Monroe,TOTAL ,4133
+David McRae,State Treasurer,,R,Monroe,TOTAL ,7939
+Rickey L Cole,Commissioner of Agriculture & Commerce,,D,Monroe,TOTAL ,4511
+Andy Gipson,Commissioner of Agriculture & Commerce,,R,Monroe,TOTAL ,7489
+Hob Bryan,State Senate,7,D,Monroe,TOTAL ,7917
+DeWanna Belton,State Senate,17,D,Monroe,TOTAL ,318
+Charles A 'Chuck' Younger,State Senate,17,R,Monroe,TOTAL ,1797
+Danny Bedwell,State Senate,17,LIB,Monroe,TOTAL ,61
+Rickey W Thompson,State Senate,16,D,Monroe,TOTAL ,55
+Steve Holland,State Senate,16,IND,Monroe,TOTAL ,18
+Chris Brown,State House,20,R,Monroe,TOTAL ,5668
+Karl Gibbs,State House,36,D,Monroe,TOTAL ,2638
+Jessica Lofton Lewis,State House,36,IND,Monroe,TOTAL ,651
+Dana Underwood McLean,State House,39,R,Monroe,TOTAL ,1823
+Robert E. Amos,Commissioner of Insurance,,D,Monroe,1 Amory First,59
+Mike Chaney,Commissioner of Insurance,,R,Monroe,1 Amory First,466
+Robert E. Amos,Commissioner of Insurance,,D,Monroe,1 Bigbee,6
+Mike Chaney,Commissioner of Insurance,,R,Monroe,1 Bigbee,110
+Robert E. Amos,Commissioner of Insurance,,D,Monroe,1 Boyds,23
+Mike Chaney,Commissioner of Insurance,,R,Monroe,1 Boyds,223
+Robert E. Amos,Commissioner of Insurance,,D,Monroe,1 Hatley,88
+Mike Chaney,Commissioner of Insurance,,R,Monroe,1 Hatley,1012
+Robert E. Amos,Commissioner of Insurance,,D,Monroe,1 Smithville,83
+Mike Chaney,Commissioner of Insurance,,R,Monroe,1 Smithville,544
+Robert E. Amos,Commissioner of Insurance,,D,Monroe,2 Amory Second,269
+Mike Chaney,Commissioner of Insurance,,R,Monroe,2 Amory Second,929
+Robert E. Amos,Commissioner of Insurance,,D,Monroe,2 Becker,70
+Mike Chaney,Commissioner of Insurance,,R,Monroe,2 Becker,611
+Robert E. Amos,Commissioner of Insurance,,D,Monroe,2 Parham,18
+Mike Chaney,Commissioner of Insurance,,R,Monroe,2 Parham,98
+Robert E. Amos,Commissioner of Insurance,,D,Monroe,2 Sipsey,13
+Mike Chaney,Commissioner of Insurance,,R,Monroe,2 Sipsey,141
+Robert E. Amos,Commissioner of Insurance,,D,Monroe,2 Williams,8
+Mike Chaney,Commissioner of Insurance,,R,Monroe,2 Williams,60
+Robert E. Amos,Commissioner of Insurance,,D,Monroe,3 Aberdeen Third,193
+Mike Chaney,Commissioner of Insurance,,R,Monroe,3 Aberdeen Third,251
+Robert E. Amos,Commissioner of Insurance,,D,Monroe,3 Athens,52
+Mike Chaney,Commissioner of Insurance,,R,Monroe,3 Athens,260
+Robert E. Amos,Commissioner of Insurance,,D,Monroe,3 Bartahatchie,17
+Mike Chaney,Commissioner of Insurance,,R,Monroe,3 Bartahatchie,160
+Robert E. Amos,Commissioner of Insurance,,D,Monroe,3 Greenwood Springs,5
+Mike Chaney,Commissioner of Insurance,,R,Monroe,3 Greenwood Springs,87
+Robert E. Amos,Commissioner of Insurance,,D,Monroe,3 Hamilton,191
+Mike Chaney,Commissioner of Insurance,,R,Monroe,3 Hamilton,813
+Robert E. Amos,Commissioner of Insurance,,D,Monroe,3 Lackey,76
+Mike Chaney,Commissioner of Insurance,,R,Monroe,3 Lackey,510
+Robert E. Amos,Commissioner of Insurance,,D,Monroe,4 Darracott,26
+Mike Chaney,Commissioner of Insurance,,R,Monroe,4 Darracott,91
+Robert E. Amos,Commissioner of Insurance,,D,Monroe,4 Gibson,251
+Mike Chaney,Commissioner of Insurance,,R,Monroe,4 Gibson,71
+Robert E. Amos,Commissioner of Insurance,,D,Monroe,4 North Aberdeen,484
+Mike Chaney,Commissioner of Insurance,,R,Monroe,4 North Aberdeen,321
+Robert E. Amos,Commissioner of Insurance,,D,Monroe,4 Prairie,334
+Mike Chaney,Commissioner of Insurance,,R,Monroe,4 Prairie,44
+Robert E. Amos,Commissioner of Insurance,,D,Monroe,4 South Aberdeen,565
+Mike Chaney,Commissioner of Insurance,,R,Monroe,4 South Aberdeen,143
+Robert E. Amos,Commissioner of Insurance,,D,Monroe,5 Amory Fifth,375
+Mike Chaney,Commissioner of Insurance,,R,Monroe,5 Amory Fifth,15
+Robert E. Amos,Commissioner of Insurance,,D,Monroe,5 Central Grove,144
+Mike Chaney,Commissioner of Insurance,,R,Monroe,5 Central Grove,92
+Robert E. Amos,Commissioner of Insurance,,D,Monroe,5 Nettleton,236
+Mike Chaney,Commissioner of Insurance,,R,Monroe,5 Nettleton,325
+Robert E. Amos,Commissioner of Insurance,,D,Monroe,5 Willis,379
+Mike Chaney,Commissioner of Insurance,,R,Monroe,5 Willis,122
+Robert E. Amos,Commissioner of Insurance,,D,Monroe,5 Wren,132
+Mike Chaney,Commissioner of Insurance,,R,Monroe,5 Wren,501
+Robert E. Amos,Commissioner of Insurance,,D,Monroe,TOTAL ,4097
+Mike Chaney,Commissioner of Insurance,,R,Monroe,TOTAL ,8000

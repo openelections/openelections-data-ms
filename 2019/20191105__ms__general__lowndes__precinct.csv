@@ -1,701 +1,568 @@
-﻿page,candidate,office,district,party,county,precinct,votes
-2,Jim Hood,Governor,,D,Lowndes,Airbase,314
-2,Tate Reeves,Governor,,R,Lowndes,Airbase,316
-2,Bob Hickingbottom,Governor,,C,Lowndes,Airbase,3
-2,David R Singletary,Governor,,IND,Lowndes,Airbase,2
-2,Delbert Hosemann,Lieutenant Governor,,R,Lowndes,Airbase,326
-2,Jay Hughes,Lieutenant Governor,,D,Lowndes,Airbase,298
-2,Johnny DuPree,Secretary of State,,D,Lowndes,Airbase,293
-2,Michael Watson,Secretary of State,,R,Lowndes,Airbase,326
-2,Jennifer Riley Collins,Attorney General,,D,Lowndes,Airbase,310
-2,Lynn Fitch,Attorney General,,R,Lowndes,Airbase,325
-2,Shad White,State Auditor,,R,Lowndes,Airbase,449
-4,Addie Lee Green,State Treasurer,,D,Lowndes,Airbase,289
-4,David McRae,State Treasurer,,R,Lowndes,Airbase,337
-4,Rickey L Cole,Commissioner of Agriculture & Commerce,,D,Lowndes,Airbase,293
-4,Andy Gipson,Commissioner of Agriculture & Commerce,,R,Lowndes,Airbase,332
-6,Angela Turner Ford,State Senate,16,D,Lowndes,Airbase,X
-6,DeWanna Belton,State Senate,17,D,Lowndes,Airbase,278
-6,Charles A. 'Chuck' Younger,State Senate,17,R,Lowndes,Airbase,334
-6,Denny Bedwell,State Senate,17,LIB,Lowndes,Airbase,17
-6,Gary A Chims,State House,37,R,Lowndes,Airbase,X
-6,Vicky Rose,State House,37,LIB,Lowndes,Airbase,X
-6,Chelkh Taylor,State House,38,D,Lowndes,Airbase,X
-6,Dana Underwood McLean,State House,39,R,Lowndes,Airbase,456
-6,Kabir Karriem,State House,41,D,Lowndes,Airbase,X
-8,Carl L Mickens,State House,42,D,Lowndes,Airbase,X
-2,Jim Hood,Governor,,D,Lowndes,Artesia ,190
-2,Tate Reeves,Governor,,R,Lowndes,Artesia ,34
-2,Bob Hickingbottom,Governor,,C,Lowndes,Artesia ,0
-2,David R Singletary,Governor,,IND,Lowndes,Artesia ,0
-2,Delbert Hosemann,Lieutenant Governor,,R,Lowndes,Artesia ,38
-2,Jay Hughes,Lieutenant Governor,,D,Lowndes,Artesia ,177
-2,Johnny DuPree,Secretary of State,,D,Lowndes,Artesia ,176
-2,Michael Watson,Secretary of State,,R,Lowndes,Artesia ,35
-2,Jennifer Riley Collins,Attorney General,,D,Lowndes,Artesia ,184
-2,Lynn Fitch,Attorney General,,R,Lowndes,Artesia ,36
-2,Shad White,State Auditor,,R,Lowndes,Artesia ,87
-4,Addie Lee Green,State Treasurer,,D,Lowndes,Artesia ,179
-4,David McRae,State Treasurer,,R,Lowndes,Artesia ,37
-4,Rickey L Cole,Commissioner of Agriculture & Commerce,,D,Lowndes,Artesia ,182
-4,Andy Gipson,Commissioner of Agriculture & Commerce,,R,Lowndes,Artesia ,34
-6,Angela Turner Ford,State Senate,16,D,Lowndes,Artesia ,X
-6,DeWanna Belton,State Senate,17,D,Lowndes,Artesia ,175
-6,Charles A. 'Chuck' Younger,State Senate,17,R,Lowndes,Artesia ,42
-6,Denny Bedwell,State Senate,17,LIB,Lowndes,Artesia ,1
-6,Gary A Chims,State House,37,R,Lowndes,Artesia ,X
-6,Vicky Rose,State House,37,LIB,Lowndes,Artesia ,X
-6,Chelkh Taylor,State House,38,D,Lowndes,Artesia ,191
-6,Dana Underwood McLean,State House,39,R,Lowndes,Artesia ,X
-6,Kabir Karriem,State House,41,D,Lowndes,Artesia ,X
-8,Carl L Mickens,State House,42,D,Lowndes,Artesia ,X
-2,Jim Hood,Governor,,D,Lowndes,Brandon,533
-2,Tate Reeves,Governor,,R,Lowndes,Brandon,566
-2,Bob Hickingbottom,Governor,,C,Lowndes,Brandon,1
-2,David R Singletary,Governor,,IND,Lowndes,Brandon,7
-2,Delbert Hosemann,Lieutenant Governor,,R,Lowndes,Brandon,638
-2,Jay Hughes,Lieutenant Governor,,D,Lowndes,Brandon,459
-2,Johnny DuPree,Secretary of State,,D,Lowndes,Brandon,459
-2,Michael Watson,Secretary of State,,R,Lowndes,Brandon,629
-2,Jennifer Riley Collins,Attorney General,,D,Lowndes,Brandon,487
-2,Lynn Fitch,Attorney General,,R,Lowndes,Brandon,610
-2,Shad White,State Auditor,,R,Lowndes,Brandon,819
-4,Addie Lee Green,State Treasurer,,D,Lowndes,Brandon,449
-4,David McRae,State Treasurer,,R,Lowndes,Brandon,649
-4,Rickey L Cole,Commissioner of Agriculture & Commerce,,D,Lowndes,Brandon,462
-4,Andy Gipson,Commissioner of Agriculture & Commerce,,R,Lowndes,Brandon,630
-6,Angela Turner Ford,State Senate,16,D,Lowndes,Brandon,X
-6,DeWanna Belton,State Senate,17,D,Lowndes,Brandon,416
-6,Charles A. 'Chuck' Younger,State Senate,17,R,Lowndes,Brandon,658
-6,Denny Bedwell,State Senate,17,LIB,Lowndes,Brandon,20
-6,Gary A Chims,State House,37,R,Lowndes,Brandon,X
-6,Vicky Rose,State House,37,LIB,Lowndes,Brandon,X
-6,Chelkh Taylor,State House,38,D,Lowndes,Brandon,X
-6,Dana Underwood McLean,State House,39,R,Lowndes,Brandon,727
-6,Kabir Karriem,State House,41,D,Lowndes,Brandon,86
-8,Carl L Mickens,State House,42,D,Lowndes,Brandon,X
-2,Jim Hood,Governor,,D,Lowndes,Caledonnia,396
-2,Tate Reeves,Governor,,R,Lowndes,Caledonnia,1519
-2,Bob Hickingbottom,Governor,,C,Lowndes,Caledonnia,6
-2,David R Singletary,Governor,,IND,Lowndes,Caledonnia,19
-2,Delbert Hosemann,Lieutenant Governor,,R,Lowndes,Caledonnia,1618
-2,Jay Hughes,Lieutenant Governor,,D,Lowndes,Caledonnia,309
-2,Johnny DuPree,Secretary of State,,D,Lowndes,Caledonnia,284
-2,Michael Watson,Secretary of State,,R,Lowndes,Caledonnia,1630
-2,Jennifer Riley Collins,Attorney General,,D,Lowndes,Caledonnia,324
-2,Lynn Fitch,Attorney General,,R,Lowndes,Caledonnia,1614
-2,Shad White,State Auditor,,R,Lowndes,Caledonnia,1751
-4,Addie Lee Green,State Treasurer,,D,Lowndes,Caledonnia,266
-4,David McRae,State Treasurer,,R,Lowndes,Caledonnia,1656
-4,Rickey L Cole,Commissioner of Agriculture & Commerce,,D,Lowndes,Caledonnia,317
-4,Andy Gipson,Commissioner of Agriculture & Commerce,,R,Lowndes,Caledonnia,1605
-6,Angela Turner Ford,State Senate,16,D,Lowndes,Caledonnia,X
-6,DeWanna Belton,State Senate,17,D,Lowndes,Caledonnia,234
-6,Charles A. 'Chuck' Younger,State Senate,17,R,Lowndes,Caledonnia,1634
-6,Denny Bedwell,State Senate,17,LIB,Lowndes,Caledonnia,63
-6,Gary A Chims,State House,37,R,Lowndes,Caledonnia,X
-6,Vicky Rose,State House,37,LIB,Lowndes,Caledonnia,X
-6,Chelkh Taylor,State House,38,D,Lowndes,Caledonnia,X
-6,Dana Underwood McLean,State House,39,R,Lowndes,Caledonnia,1733
-6,Kabir Karriem,State House,41,D,Lowndes,Caledonnia,X
-8,Carl L Mickens,State House,42,D,Lowndes,Caledonnia,X
-2,Jim Hood,Governor,,D,Lowndes,Coleman,136
-2,Tate Reeves,Governor,,R,Lowndes,Coleman,6
-2,Bob Hickingbottom,Governor,,C,Lowndes,Coleman,0
-2,David R Singletary,Governor,,IND,Lowndes,Coleman,1
-2,Delbert Hosemann,Lieutenant Governor,,R,Lowndes,Coleman,16
-2,Jay Hughes,Lieutenant Governor,,D,Lowndes,Coleman,122
-2,Johnny DuPree,Secretary of State,,D,Lowndes,Coleman,130
-2,Michael Watson,Secretary of State,,R,Lowndes,Coleman,8
-2,Jennifer Riley Collins,Attorney General,,D,Lowndes,Coleman,135
-2,Lynn Fitch,Attorney General,,R,Lowndes,Coleman,5
-2,Shad White,State Auditor,,R,Lowndes,Coleman,55
-4,Addie Lee Green,State Treasurer,,D,Lowndes,Coleman,130
-4,David McRae,State Treasurer,,R,Lowndes,Coleman,8
-4,Rickey L Cole,Commissioner of Agriculture & Commerce,,D,Lowndes,Coleman,129
-4,Andy Gipson,Commissioner of Agriculture & Commerce,,R,Lowndes,Coleman,8
-6,Angela Turner Ford,State Senate,16,D,Lowndes,Coleman,127
-6,DeWanna Belton,State Senate,17,D,Lowndes,Coleman,X
-6,Charles A. 'Chuck' Younger,State Senate,17,R,Lowndes,Coleman,X
-6,Denny Bedwell,State Senate,17,LIB,Lowndes,Coleman,X
-6,Gary A Chims,State House,37,R,Lowndes,Coleman,X
-6,Vicky Rose,State House,37,LIB,Lowndes,Coleman,X
-6,Chelkh Taylor,State House,38,D,Lowndes,Coleman,X
-6,Dana Underwood McLean,State House,39,R,Lowndes,Coleman,X
-6,Kabir Karriem,State House,41,D,Lowndes,Coleman,130
-8,Carl L Mickens,State House,42,D,Lowndes,Coleman,X
-2,Jim Hood,Governor,,D,Lowndes,Crawford,481
-2,Tate Reeves,Governor,,R,Lowndes,Crawford,97
-2,Bob Hickingbottom,Governor,,C,Lowndes,Crawford,0
-2,David R Singletary,Governor,,IND,Lowndes,Crawford,1
-2,Delbert Hosemann,Lieutenant Governor,,R,Lowndes,Crawford,119
-2,Jay Hughes,Lieutenant Governor,,D,Lowndes,Crawford,450
-2,Johnny DuPree,Secretary of State,,D,Lowndes,Crawford,458
-2,Michael Watson,Secretary of State,,R,Lowndes,Crawford,111
-2,Jennifer Riley Collins,Attorney General,,D,Lowndes,Crawford,467
-2,Lynn Fitch,Attorney General,,R,Lowndes,Crawford,106
-2,Shad White,State Auditor,,R,Lowndes,Crawford,229
-4,Addie Lee Green,State Treasurer,,D,Lowndes,Crawford,456
-4,David McRae,State Treasurer,,R,Lowndes,Crawford,114
-4,Rickey L Cole,Commissioner of Agriculture & Commerce,,D,Lowndes,Crawford,465
-4,Andy Gipson,Commissioner of Agriculture & Commerce,,R,Lowndes,Crawford,106
-6,Angela Turner Ford,State Senate,16,D,Lowndes,Crawford,X
-6,DeWanna Belton,State Senate,17,D,Lowndes,Crawford,452
-6,Charles A. 'Chuck' Younger,State Senate,17,R,Lowndes,Crawford,119
-6,Denny Bedwell,State Senate,17,LIB,Lowndes,Crawford,5
-6,Gary A Chims,State House,37,R,Lowndes,Crawford,X
-6,Vicky Rose,State House,37,LIB,Lowndes,Crawford,X
-6,Chelkh Taylor,State House,38,D,Lowndes,Crawford,X
-6,Dana Underwood McLean,State House,39,R,Lowndes,Crawford,X
-6,Kabir Karriem,State House,41,D,Lowndes,Crawford,X
-8,Carl L Mickens,State House,42,D,Lowndes,Crawford,523
-2,Jim Hood,Governor,,D,Lowndes,East Columbus Gym,848
-2,Tate Reeves,Governor,,R,Lowndes,East Columbus Gym,386
-2,Bob Hickingbottom,Governor,,C,Lowndes,East Columbus Gym,5
-2,David R Singletary,Governor,,IND,Lowndes,East Columbus Gym,6
-2,Delbert Hosemann,Lieutenant Governor,,R,Lowndes,East Columbus Gym,445
-2,Jay Hughes,Lieutenant Governor,,D,Lowndes,East Columbus Gym,785
-2,Johnny DuPree,Secretary of State,,D,Lowndes,East Columbus Gym,810
-2,Michael Watson,Secretary of State,,R,Lowndes,East Columbus Gym,419
-2,Jennifer Riley Collins,Attorney General,,D,Lowndes,East Columbus Gym,825
-2,Lynn Fitch,Attorney General,,R,Lowndes,East Columbus Gym,409
-2,Shad White,State Auditor,,R,Lowndes,East Columbus Gym,713
-4,Addie Lee Green,State Treasurer,,D,Lowndes,East Columbus Gym,790
-4,David McRae,State Treasurer,,R,Lowndes,East Columbus Gym,441
-4,Rickey L Cole,Commissioner of Agriculture & Commerce,,D,Lowndes,East Columbus Gym,814
-4,Andy Gipson,Commissioner of Agriculture & Commerce,,R,Lowndes,East Columbus Gym,413
-6,Angela Turner Ford,State Senate,16,D,Lowndes,East Columbus Gym,X
-6,DeWanna Belton,State Senate,17,D,Lowndes,East Columbus Gym,777
-6,Charles A. 'Chuck' Younger,State Senate,17,R,Lowndes,East Columbus Gym,429
-6,Denny Bedwell,State Senate,17,LIB,Lowndes,East Columbus Gym,22
-6,Gary A Chims,State House,37,R,Lowndes,East Columbus Gym,X
-6,Vicky Rose,State House,37,LIB,Lowndes,East Columbus Gym,X
-6,Chelkh Taylor,State House,38,D,Lowndes,East Columbus Gym,X
-6,Dana Underwood McLean,State House,39,R,Lowndes,East Columbus Gym,X
-6,Kabir Karriem,State House,41,D,Lowndes,East Columbus Gym,1033
-8,Carl L Mickens,State House,42,D,Lowndes,East Columbus Gym,X
-2,Jim Hood,Governor,,D,Lowndes,Fifteenth Street Church,366
-2,Tate Reeves,Governor,,R,Lowndes,Fifteenth Street Church,61
-2,Bob Hickingbottom,Governor,,C,Lowndes,Fifteenth Street Church,0
-2,David R Singletary,Governor,,IND,Lowndes,Fifteenth Street Church,9
-2,Delbert Hosemann,Lieutenant Governor,,R,Lowndes,Fifteenth Street Church,84
-2,Jay Hughes,Lieutenant Governor,,D,Lowndes,Fifteenth Street Church,334
-2,Johnny DuPree,Secretary of State,,D,Lowndes,Fifteenth Street Church,343
-2,Michael Watson,Secretary of State,,R,Lowndes,Fifteenth Street Church,74
-2,Jennifer Riley Collins,Attorney General,,D,Lowndes,Fifteenth Street Church,352
-2,Lynn Fitch,Attorney General,,R,Lowndes,Fifteenth Street Church,78
-2,Shad White,State Auditor,,R,Lowndes,Fifteenth Street Church,206
-4,Addie Lee Green,State Treasurer,,D,Lowndes,Fifteenth Street Church,337
-4,David McRae,State Treasurer,,R,Lowndes,Fifteenth Street Church,85
-4,Rickey L Cole,Commissioner of Agriculture & Commerce,,D,Lowndes,Fifteenth Street Church,342
-4,Andy Gipson,Commissioner of Agriculture & Commerce,,R,Lowndes,Fifteenth Street Church,80
-6,Angela Turner Ford,State Senate,16,D,Lowndes,Fifteenth Street Church,259
-6,DeWanna Belton,State Senate,17,D,Lowndes,Fifteenth Street Church,84
-6,Charles A. 'Chuck' Younger,State Senate,17,R,Lowndes,Fifteenth Street Church,47
-6,Denny Bedwell,State Senate,17,LIB,Lowndes,Fifteenth Street Church,6
-6,Gary A Chims,State House,37,R,Lowndes,Fifteenth Street Church,X
-6,Vicky Rose,State House,37,LIB,Lowndes,Fifteenth Street Church,X
-6,Chelkh Taylor,State House,38,D,Lowndes,Fifteenth Street Church,X
-6,Dana Underwood McLean,State House,39,R,Lowndes,Fifteenth Street Church,X
-6,Kabir Karriem,State House,41,D,Lowndes,Fifteenth Street Church,388
-8,Carl L Mickens,State House,42,D,Lowndes,Fifteenth Street Church,X
-2,Jim Hood,Governor,,D,Lowndes,First Assembly,713
-2,Tate Reeves,Governor,,R,Lowndes,First Assembly,1227
-2,Bob Hickingbottom,Governor,,C,Lowndes,First Assembly,2
-2,David R Singletary,Governor,,IND,Lowndes,First Assembly,7
-2,Delbert Hosemann,Lieutenant Governor,,R,Lowndes,First Assembly,1393
-2,Jay Hughes,Lieutenant Governor,,D,Lowndes,First Assembly,550
-2,Johnny DuPree,Secretary of State,,D,Lowndes,First Assembly,559
-2,Michael Watson,Secretary of State,,R,Lowndes,First Assembly,1364
-2,Jennifer Riley Collins,Attorney General,,D,Lowndes,First Assembly,604
-2,Lynn Fitch,Attorney General,,R,Lowndes,First Assembly,1334
-2,Shad White,State Auditor,,R,Lowndes,First Assembly,1635
-4,Addie Lee Green,State Treasurer,,D,Lowndes,First Assembly,519
-4,David McRae,State Treasurer,,R,Lowndes,First Assembly,1417
-4,Rickey L Cole,Commissioner of Agriculture & Commerce,,D,Lowndes,First Assembly,577
-4,Andy Gipson,Commissioner of Agriculture & Commerce,,R,Lowndes,First Assembly,1353
-6,Angela Turner Ford,State Senate,16,D,Lowndes,First Assembly,X
-6,DeWanna Belton,State Senate,17,D,Lowndes,First Assembly,467
-6,Charles A. 'Chuck' Younger,State Senate,17,R,Lowndes,First Assembly,1425
-6,Denny Bedwell,State Senate,17,LIB,Lowndes,First Assembly,43
-6,Gary A Chims,State House,37,R,Lowndes,First Assembly,X
-6,Vicky Rose,State House,37,LIB,Lowndes,First Assembly,X
-6,Chelkh Taylor,State House,38,D,Lowndes,First Assembly,X
-6,Dana Underwood McLean,State House,39,R,Lowndes,First Assembly,1564
-6,Kabir Karriem,State House,41,D,Lowndes,First Assembly,50
-8,Carl L Mickens,State House,42,D,Lowndes,First Assembly,X
-2,Jim Hood,Governor,,D,Lowndes,Hunt,824
-2,Tate Reeves,Governor,,R,Lowndes,Hunt,20
-2,Bob Hickingbottom,Governor,,C,Lowndes,Hunt,0
-2,David R Singletary,Governor,,IND,Lowndes,Hunt,2
-2,Delbert Hosemann,Lieutenant Governor,,R,Lowndes,Hunt,62
-2,Jay Hughes,Lieutenant Governor,,D,Lowndes,Hunt,747
-2,Johnny DuPree,Secretary of State,,D,Lowndes,Hunt,770
-2,Michael Watson,Secretary of State,,R,Lowndes,Hunt,34
-2,Jennifer Riley Collins,Attorney General,,D,Lowndes,Hunt,801
-2,Lynn Fitch,Attorney General,,R,Lowndes,Hunt,30
-2,Shad White,State Auditor,,R,Lowndes,Hunt,268
-4,Addie Lee Green,State Treasurer,,D,Lowndes,Hunt,783
-4,David McRae,State Treasurer,,R,Lowndes,Hunt,37
-4,Rickey L Cole,Commissioner of Agriculture & Commerce,,D,Lowndes,Hunt,784
-4,Andy Gipson,Commissioner of Agriculture & Commerce,,R,Lowndes,Hunt,31
-6,Angela Turner Ford,State Senate,16,D,Lowndes,Hunt,703
-6,DeWanna Belton,State Senate,17,D,Lowndes,Hunt,2
-6,Charles A. 'Chuck' Younger,State Senate,17,R,Lowndes,Hunt,7
-6,Denny Bedwell,State Senate,17,LIB,Lowndes,Hunt,0
-6,Gary A Chims,State House,37,R,Lowndes,Hunt,X
-6,Vicky Rose,State House,37,LIB,Lowndes,Hunt,X
-6,Chelkh Taylor,State House,38,D,Lowndes,Hunt,X
-6,Dana Underwood McLean,State House,39,R,Lowndes,Hunt,X
-6,Kabir Karriem,State House,41,D,Lowndes,Hunt,749
-8,Carl L Mickens,State House,42,D,Lowndes,Hunt,X
-2,Jim Hood,Governor,,D,Lowndes,Immanuel,183
-2,Tate Reeves,Governor,,R,Lowndes,Immanuel,284
-2,Bob Hickingbottom,Governor,,C,Lowndes,Immanuel,3
-2,David R Singletary,Governor,,IND,Lowndes,Immanuel,0
-2,Delbert Hosemann,Lieutenant Governor,,R,Lowndes,Immanuel,303
-2,Jay Hughes,Lieutenant Governor,,D,Lowndes,Immanuel,166
-2,Johnny DuPree,Secretary of State,,D,Lowndes,Immanuel,170
-2,Michael Watson,Secretary of State,,R,Lowndes,Immanuel,295
-2,Jennifer Riley Collins,Attorney General,,D,Lowndes,Immanuel,179
-2,Lynn Fitch,Attorney General,,R,Lowndes,Immanuel,290
-2,Shad White,State Auditor,,R,Lowndes,Immanuel,370
-4,Addie Lee Green,State Treasurer,,D,Lowndes,Immanuel,160
-4,David McRae,State Treasurer,,R,Lowndes,Immanuel,307
-4,Rickey L Cole,Commissioner of Agriculture & Commerce,,D,Lowndes,Immanuel,173
-4,Andy Gipson,Commissioner of Agriculture & Commerce,,R,Lowndes,Immanuel,295
-6,Angela Turner Ford,State Senate,16,D,Lowndes,Immanuel,X
-6,DeWanna Belton,State Senate,17,D,Lowndes,Immanuel,154
-6,Charles A. 'Chuck' Younger,State Senate,17,R,Lowndes,Immanuel,302
-6,Denny Bedwell,State Senate,17,LIB,Lowndes,Immanuel,11
-6,Gary A Chims,State House,37,R,Lowndes,Immanuel,187
-6,Vicky Rose,State House,37,LIB,Lowndes,Immanuel,69
-6,Chelkh Taylor,State House,38,D,Lowndes,Immanuel,X
-6,Dana Underwood McLean,State House,39,R,Lowndes,Immanuel,143
-6,Kabir Karriem,State House,41,D,Lowndes,Immanuel,X
-8,Carl L Mickens,State House,42,D,Lowndes,Immanuel,X
-3,Jim Hood,Governor,,D,Lowndes,New Hope ,627
-3,Tate Reeves,Governor,,R,Lowndes,New Hope ,2005
-3,Bob Hickingbottom,Governor,,C,Lowndes,New Hope ,7
-3,David R Singletary,Governor,,IND,Lowndes,New Hope ,25
-3,Delbert Hosemann,Lieutenant Governor,,R,Lowndes,New Hope ,2117
-3,Jay Hughes,Lieutenant Governor,,D,Lowndes,New Hope ,537
-3,Johnny DuPree,Secretary of State,,D,Lowndes,New Hope ,487
-3,Michael Watson,Secretary of State,,R,Lowndes,New Hope ,2158
-3,Jennifer Riley Collins,Attorney General,,D,Lowndes,New Hope ,533
-3,Lynn Fitch,Attorney General,,R,Lowndes,New Hope ,2128
-3,Shad White,State Auditor,,R,Lowndes,New Hope ,2333
-5,Addie Lee Green,State Treasurer,,D,Lowndes,New Hope ,472
-5,David McRae,State Treasurer,,R,Lowndes,New Hope ,2173
-5,Rickey L Cole,Commissioner of Agriculture & Commerce,,D,Lowndes,New Hope ,506
-5,Andy Gipson,Commissioner of Agriculture & Commerce,,R,Lowndes,New Hope ,2129
-7,Angela Turner Ford,State Senate,16,D,Lowndes,New Hope ,X
-7,DeWanna Belton,State Senate,17,D,Lowndes,New Hope ,433
-7,Charles A. 'Chuck' Younger,State Senate,17,R,Lowndes,New Hope ,2164
-7,Denny Bedwell,State Senate,17,LIB,Lowndes,New Hope ,54
-7,Gary A Chims,State House,37,R,Lowndes,New Hope ,2089
-7,Vicky Rose,State House,37,LIB,Lowndes,New Hope ,402
-7,Chelkh Taylor,State House,38,D,Lowndes,New Hope ,X
-7,Dana Underwood McLean,State House,39,R,Lowndes,New Hope ,X
-7,Kabir Karriem,State House,41,D,Lowndes,New Hope ,X
-9,Carl L Mickens,State House,42,D,Lowndes,New Hope ,X
-3,Jim Hood,Governor,,D,Lowndes,Plum Grove,225
-3,Tate Reeves,Governor,,R,Lowndes,Plum Grove,15
-3,Bob Hickingbottom,Governor,,C,Lowndes,Plum Grove,0
-3,David R Singletary,Governor,,IND,Lowndes,Plum Grove,0
-3,Delbert Hosemann,Lieutenant Governor,,R,Lowndes,Plum Grove,27
-3,Jay Hughes,Lieutenant Governor,,D,Lowndes,Plum Grove,203
-3,Johnny DuPree,Secretary of State,,D,Lowndes,Plum Grove,214
-3,Michael Watson,Secretary of State,,R,Lowndes,Plum Grove,19
-3,Jennifer Riley Collins,Attorney General,,D,Lowndes,Plum Grove,217
-3,Lynn Fitch,Attorney General,,R,Lowndes,Plum Grove,20
-3,Shad White,State Auditor,,R,Lowndes,Plum Grove,65
-5,Addie Lee Green,State Treasurer,,D,Lowndes,Plum Grove,214
-5,David McRae,State Treasurer,,R,Lowndes,Plum Grove,19
-5,Rickey L Cole,Commissioner of Agriculture & Commerce,,D,Lowndes,Plum Grove,214
-5,Andy Gipson,Commissioner of Agriculture & Commerce,,R,Lowndes,Plum Grove,18
-7,Angela Turner Ford,State Senate,16,D,Lowndes,Plum Grove,0
-7,DeWanna Belton,State Senate,17,D,Lowndes,Plum Grove,207
-7,Charles A. 'Chuck' Younger,State Senate,17,R,Lowndes,Plum Grove,27
-7,Denny Bedwell,State Senate,17,LIB,Lowndes,Plum Grove,0
-7,Gary A Chims,State House,37,R,Lowndes,Plum Grove,12
-7,Vicky Rose,State House,37,LIB,Lowndes,Plum Grove,2
-7,Chelkh Taylor,State House,38,D,Lowndes,Plum Grove,X
-7,Dana Underwood McLean,State House,39,R,Lowndes,Plum Grove,X
-7,Kabir Karriem,State House,41,D,Lowndes,Plum Grove,0
-9,Carl L Mickens,State House,42,D,Lowndes,Plum Grove,189
-3,Jim Hood,Governor,,D,Lowndes,Rural Hill,390
-3,Tate Reeves,Governor,,R,Lowndes,Rural Hill,846
-3,Bob Hickingbottom,Governor,,C,Lowndes,Rural Hill,0
-3,David R Singletary,Governor,,IND,Lowndes,Rural Hill,7
-3,Delbert Hosemann,Lieutenant Governor,,R,Lowndes,Rural Hill,919
-3,Jay Hughes,Lieutenant Governor,,D,Lowndes,Rural Hill,312
-3,Johnny DuPree,Secretary of State,,D,Lowndes,Rural Hill,313
-3,Michael Watson,Secretary of State,,R,Lowndes,Rural Hill,912
-3,Jennifer Riley Collins,Attorney General,,D,Lowndes,Rural Hill,346
-3,Lynn Fitch,Attorney General,,R,Lowndes,Rural Hill,892
-3,Shad White,State Auditor,,R,Lowndes,Rural Hill,1034
-5,Addie Lee Green,State Treasurer,,D,Lowndes,Rural Hill,313
-5,David McRae,State Treasurer,,R,Lowndes,Rural Hill,921
-5,Rickey L Cole,Commissioner of Agriculture & Commerce,,D,Lowndes,Rural Hill,339
-5,Andy Gipson,Commissioner of Agriculture & Commerce,,R,Lowndes,Rural Hill,895
-7,Angela Turner Ford,State Senate,16,D,Lowndes,Rural Hill,X
-7,DeWanna Belton,State Senate,17,D,Lowndes,Rural Hill,291
-7,Charles A. 'Chuck' Younger,State Senate,17,R,Lowndes,Rural Hill,915
-7,Denny Bedwell,State Senate,17,LIB,Lowndes,Rural Hill,28
-7,Gary A Chims,State House,37,R,Lowndes,Rural Hill,903
-7,Vicky Rose,State House,37,LIB,Lowndes,Rural Hill,217
-7,Chelkh Taylor,State House,38,D,Lowndes,Rural Hill,X
-7,Dana Underwood McLean,State House,39,R,Lowndes,Rural Hill,X
-7,Kabir Karriem,State House,41,D,Lowndes,Rural Hill,X
-9,Carl L Mickens,State House,42,D,Lowndes,Rural Hill,X
-3,Jim Hood,Governor,,D,Lowndes,Southside Church,1160
-3,Tate Reeves,Governor,,R,Lowndes,Southside Church,243
-3,Bob Hickingbottom,Governor,,C,Lowndes,Southside Church,3
-3,David R Singletary,Governor,,IND,Lowndes,Southside Church,5
-3,Delbert Hosemann,Lieutenant Governor,,R,Lowndes,Southside Church,293
-3,Jay Hughes,Lieutenant Governor,,D,Lowndes,Southside Church,1100
-3,Johnny DuPree,Secretary of State,,D,Lowndes,Southside Church,1131
-3,Michael Watson,Secretary of State,,R,Lowndes,Southside Church,260
-3,Jennifer Riley Collins,Attorney General,,D,Lowndes,Southside Church,1150
-3,Lynn Fitch,Attorney General,,R,Lowndes,Southside Church,256
-3,Shad White,State Auditor,,R,Lowndes,Southside Church,642
-5,Addie Lee Green,State Treasurer,,D,Lowndes,Southside Church,1117
-5,David McRae,State Treasurer,,R,Lowndes,Southside Church,280
-5,Rickey L Cole,Commissioner of Agriculture & Commerce,,D,Lowndes,Southside Church,1131
-5,Andy Gipson,Commissioner of Agriculture & Commerce,,R,Lowndes,Southside Church,258
-7,Angela Turner Ford,State Senate,16,D,Lowndes,Southside Church,684
-7,DeWanna Belton,State Senate,17,D,Lowndes,Southside Church,479
-7,Charles A. 'Chuck' Younger,State Senate,17,R,Lowndes,Southside Church,165
-7,Denny Bedwell,State Senate,17,LIB,Lowndes,Southside Church,6
-7,Gary A Chims,State House,37,R,Lowndes,Southside Church,165
-7,Vicky Rose,State House,37,LIB,Lowndes,Southside Church,142
-7,Chelkh Taylor,State House,38,D,Lowndes,Southside Church,X
-7,Dana Underwood McLean,State House,39,R,Lowndes,Southside Church,X
-7,Kabir Karriem,State House,41,D,Lowndes,Southside Church,882
-9,Carl L Mickens,State House,42,D,Lowndes,Southside Church,X
-3,Jim Hood,Governor,,D,Lowndes,Steens,62
-3,Tate Reeves,Governor,,R,Lowndes,Steens,304
-3,Bob Hickingbottom,Governor,,C,Lowndes,Steens,0
-3,David R Singletary,Governor,,IND,Lowndes,Steens,1
-3,Delbert Hosemann,Lieutenant Governor,,R,Lowndes,Steens,315
-3,Jay Hughes,Lieutenant Governor,,D,Lowndes,Steens,48
-3,Johnny DuPree,Secretary of State,,D,Lowndes,Steens,43
-3,Michael Watson,Secretary of State,,R,Lowndes,Steens,320
-3,Jennifer Riley Collins,Attorney General,,D,Lowndes,Steens,51
-3,Lynn Fitch,Attorney General,,R,Lowndes,Steens,315
-3,Shad White,State Auditor,,R,Lowndes,Steens,334
-5,Addie Lee Green,State Treasurer,,D,Lowndes,Steens,36
-5,David McRae,State Treasurer,,R,Lowndes,Steens,324
-5,Rickey L Cole,Commissioner of Agriculture & Commerce,,D,Lowndes,Steens,47
-5,Andy Gipson,Commissioner of Agriculture & Commerce,,R,Lowndes,Steens,315
-7,Angela Turner Ford,State Senate,16,D,Lowndes,Steens,X
-7,DeWanna Belton,State Senate,17,D,Lowndes,Steens,36
-7,Charles A. 'Chuck' Younger,State Senate,17,R,Lowndes,Steens,316
-7,Denny Bedwell,State Senate,17,LIB,Lowndes,Steens,12
-7,Gary A Chims,State House,37,R,Lowndes,Steens,310
-7,Vicky Rose,State House,37,LIB,Lowndes,Steens,39
-7,Chelkh Taylor,State House,38,D,Lowndes,Steens,X
-7,Dana Underwood McLean,State House,39,R,Lowndes,Steens,X
-7,Kabir Karriem,State House,41,D,Lowndes,Steens,X
-9,Carl L Mickens,State House,42,D,Lowndes,Steens,X
-3,Jim Hood,Governor,,D,Lowndes,Townsend Park,500
-3,Tate Reeves,Governor,,R,Lowndes,Townsend Park,47
-3,Bob Hickingbottom,Governor,,C,Lowndes,Townsend Park,0
-3,David R Singletary,Governor,,IND,Lowndes,Townsend Park,4
-3,Delbert Hosemann,Lieutenant Governor,,R,Lowndes,Townsend Park,57
-3,Jay Hughes,Lieutenant Governor,,D,Lowndes,Townsend Park,470
-3,Johnny DuPree,Secretary of State,,D,Lowndes,Townsend Park,481
-3,Michael Watson,Secretary of State,,R,Lowndes,Townsend Park,53
-3,Jennifer Riley Collins,Attorney General,,D,Lowndes,Townsend Park,488
-3,Lynn Fitch,Attorney General,,R,Lowndes,Townsend Park,52
-3,Shad White,State Auditor,,R,Lowndes,Townsend Park,216
-5,Addie Lee Green,State Treasurer,,D,Lowndes,Townsend Park,473
-5,David McRae,State Treasurer,,R,Lowndes,Townsend Park,56
-5,Rickey L Cole,Commissioner of Agriculture & Commerce,,D,Lowndes,Townsend Park,477
-5,Andy Gipson,Commissioner of Agriculture & Commerce,,R,Lowndes,Townsend Park,52
-7,Angela Turner Ford,State Senate,16,D,Lowndes,Townsend Park,479
-7,DeWanna Belton,State Senate,17,D,Lowndes,Townsend Park,X
-7,Charles A. 'Chuck' Younger,State Senate,17,R,Lowndes,Townsend Park,X
-7,Denny Bedwell,State Senate,17,LIB,Lowndes,Townsend Park,X
-7,Gary A Chims,State House,37,R,Lowndes,Townsend Park,X
-7,Vicky Rose,State House,37,LIB,Lowndes,Townsend Park,X
-7,Chelkh Taylor,State House,38,D,Lowndes,Townsend Park,X
-7,Dana Underwood McLean,State House,39,R,Lowndes,Townsend Park,X
-7,Kabir Karriem,State House,41,D,Lowndes,Townsend Park,489
-9,Carl L Mickens,State House,42,D,Lowndes,Townsend Park,X
-3,Jim Hood,Governor,,D,Lowndes,Trinity,362
-3,Tate Reeves,Governor,,R,Lowndes,Trinity,136
-3,Bob Hickingbottom,Governor,,C,Lowndes,Trinity,1
-3,David R Singletary,Governor,,IND,Lowndes,Trinity,3
-3,Delbert Hosemann,Lieutenant Governor,,R,Lowndes,Trinity,160
-3,Jay Hughes,Lieutenant Governor,,D,Lowndes,Trinity,329
-3,Johnny DuPree,Secretary of State,,D,Lowndes,Trinity,346
-3,Michael Watson,Secretary of State,,R,Lowndes,Trinity,143
-3,Jennifer Riley Collins,Attorney General,,D,Lowndes,Trinity,349
-3,Lynn Fitch,Attorney General,,R,Lowndes,Trinity,148
-3,Shad White,State Auditor,,R,Lowndes,Trinity,239
-5,Addie Lee Green,State Treasurer,,D,Lowndes,Trinity,337
-5,David McRae,State Treasurer,,R,Lowndes,Trinity,154
-5,Rickey L Cole,Commissioner of Agriculture & Commerce,,D,Lowndes,Trinity,348
-5,Andy Gipson,Commissioner of Agriculture & Commerce,,R,Lowndes,Trinity,142
-7,Angela Turner Ford,State Senate,16,D,Lowndes,Trinity,X
-7,DeWanna Belton,State Senate,17,D,Lowndes,Trinity,328
-7,Charles A. 'Chuck' Younger,State Senate,17,R,Lowndes,Trinity,154
-7,Denny Bedwell,State Senate,17,LIB,Lowndes,Trinity,9
-7,Gary A Chims,State House,37,R,Lowndes,Trinity,X
-7,Vicky Rose,State House,37,LIB,Lowndes,Trinity,X
-7,Chelkh Taylor,State House,38,D,Lowndes,Trinity,X
-7,Dana Underwood McLean,State House,39,R,Lowndes,Trinity,X
-7,Kabir Karriem,State House,41,D,Lowndes,Trinity,390
-9,Carl L Mickens,State House,42,D,Lowndes,Trinity,X
-3,Jim Hood,Governor,,D,Lowndes,University,264
-3,Tate Reeves,Governor,,R,Lowndes,University,195
-3,Bob Hickingbottom,Governor,,C,Lowndes,University,1
-3,David R Singletary,Governor,,IND,Lowndes,University,2
-3,Delbert Hosemann,Lieutenant Governor,,R,Lowndes,University,264
-3,Jay Hughes,Lieutenant Governor,,D,Lowndes,University,198
-3,Johnny DuPree,Secretary of State,,D,Lowndes,University,199
-3,Michael Watson,Secretary of State,,R,Lowndes,University,258
-3,Jennifer Riley Collins,Attorney General,,D,Lowndes,University,202
-3,Lynn Fitch,Attorney General,,R,Lowndes,University,259
-3,Shad White,State Auditor,,R,Lowndes,University,355
-5,Addie Lee Green,State Treasurer,,D,Lowndes,University,171
-5,David McRae,State Treasurer,,R,Lowndes,University,286
-5,Rickey L Cole,Commissioner of Agriculture & Commerce,,D,Lowndes,University,203
-5,Andy Gipson,Commissioner of Agriculture & Commerce,,R,Lowndes,University,247
-7,Angela Turner Ford,State Senate,16,D,Lowndes,University,X
-7,DeWanna Belton,State Senate,17,D,Lowndes,University,144
-7,Charles A. 'Chuck' Younger,State Senate,17,R,Lowndes,University,289
-7,Denny Bedwell,State Senate,17,LIB,Lowndes,University,23
-7,Gary A Chims,State House,37,R,Lowndes,University,X
-7,Vicky Rose,State House,37,LIB,Lowndes,University,X
-7,Chelkh Taylor,State House,38,D,Lowndes,University,X
-7,Dana Underwood McLean,State House,39,R,Lowndes,University,X
-7,Kabir Karriem,State House,41,D,Lowndes,University,332
-9,Carl L Mickens,State House,42,D,Lowndes,University,X
-3,Jim Hood,Governor,,D,Lowndes,West Lowndes,248
-3,Tate Reeves,Governor,,R,Lowndes,West Lowndes,531
-3,Bob Hickingbottom,Governor,,C,Lowndes,West Lowndes,5
-3,David R Singletary,Governor,,IND,Lowndes,West Lowndes,5
-3,Delbert Hosemann,Lieutenant Governor,,R,Lowndes,West Lowndes,586
-3,Jay Hughes,Lieutenant Governor,,D,Lowndes,West Lowndes,202
-3,Johnny DuPree,Secretary of State,,D,Lowndes,West Lowndes,202
-3,Michael Watson,Secretary of State,,R,Lowndes,West Lowndes,577
-3,Jennifer Riley Collins,Attorney General,,D,Lowndes,West Lowndes,217
-3,Lynn Fitch,Attorney General,,R,Lowndes,West Lowndes,568
-3,Shad White,State Auditor,,R,Lowndes,West Lowndes,655
-5,Addie Lee Green,State Treasurer,,D,Lowndes,West Lowndes,188
-5,David McRae,State Treasurer,,R,Lowndes,West Lowndes,593
-5,Rickey L Cole,Commissioner of Agriculture & Commerce,,D,Lowndes,West Lowndes,206
-5,Andy Gipson,Commissioner of Agriculture & Commerce,,R,Lowndes,West Lowndes,574
-7,Angela Turner Ford,State Senate,16,D,Lowndes,West Lowndes,78
-7,DeWanna Belton,State Senate,17,D,Lowndes,West Lowndes,139
-7,Charles A. 'Chuck' Younger,State Senate,17,R,Lowndes,West Lowndes,504
-7,Denny Bedwell,State Senate,17,LIB,Lowndes,West Lowndes,17
-7,Gary A Chims,State House,37,R,Lowndes,West Lowndes,306
-7,Vicky Rose,State House,37,LIB,Lowndes,West Lowndes,82
-7,Chelkh Taylor,State House,38,D,Lowndes,West Lowndes,X
-7,Dana Underwood McLean,State House,39,R,Lowndes,West Lowndes,X
-7,Kabir Karriem,State House,41,D,Lowndes,West Lowndes,198
-9,Carl L Mickens,State House,42,D,Lowndes,West Lowndes,X
-3,Jim Hood,Governor,,D,Lowndes,TOTAL ,8822
-3,Tate Reeves,Governor,,R,Lowndes,TOTAL ,8838
-3,Bob Hickingbottom,Governor,,C,Lowndes,TOTAL ,37
-3,David R Singletary,Governor,,IND,Lowndes,TOTAL ,106
-3,Delbert Hosemann,Lieutenant Governor,,R,Lowndes,TOTAL ,9780
-3,Jay Hughes,Lieutenant Governor,,D,Lowndes,TOTAL ,7796
-3,Johnny DuPree,Secretary of State,,D,Lowndes,TOTAL ,7868
-3,Michael Watson,Secretary of State,,R,Lowndes,TOTAL ,9625
-3,Jennifer Riley Collins,Attorney General,,D,Lowndes,TOTAL ,8221
-3,Lynn Fitch,Attorney General,,R,Lowndes,TOTAL ,9475
-3,Shad White,State Auditor,,R,Lowndes,TOTAL ,12455
-5,Addie Lee Green,State Treasurer,,D,Lowndes,TOTAL ,7679
-5,David McRae,State Treasurer,,R,Lowndes,TOTAL ,9894
-5,Rickey L Cole,Commissioner of Agriculture & Commerce,,D,Lowndes,TOTAL ,8009
-5,Andy Gipson,Commissioner of Agriculture & Commerce,,R,Lowndes,TOTAL ,9517
-7,Angela Turner Ford,State Senate,16,D,Lowndes,TOTAL ,2330
-7,DeWanna Belton,State Senate,17,D,Lowndes,TOTAL ,5126
-7,Charles A. 'Chuck' Younger,State Senate,17,R,Lowndes,TOTAL ,9531
-7,Denny Bedwell,State Senate,17,LIB,Lowndes,TOTAL ,337
-7,Gary A Chims,State House,37,R,Lowndes,TOTAL ,3972
-7,Vicky Rose,State House,37,LIB,Lowndes,TOTAL ,953
-7,Chelkh Taylor,State House,38,D,Lowndes,TOTAL ,191
-7,Dana Underwood McLean,State House,39,R,Lowndes,TOTAL ,4623
-7,Kabir Karriem,State House,41,D,Lowndes,TOTAL ,4727
-9,Carl L Mickens,State House,42,D,Lowndes,TOTAL ,712
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
+﻿candidate,office,district,party,county,precinct,votes
+Jim Hood,Governor,,D,Lowndes,Airbase,314
+Tate Reeves,Governor,,R,Lowndes,Airbase,316
+Bob Hickingbottom,Governor,,C,Lowndes,Airbase,3
+David R Singletary,Governor,,IND,Lowndes,Airbase,2
+Delbert Hosemann,Lieutenant Governor,,R,Lowndes,Airbase,326
+Jay Hughes,Lieutenant Governor,,D,Lowndes,Airbase,298
+Johnny DuPree,Secretary of State,,D,Lowndes,Airbase,293
+Michael Watson,Secretary of State,,R,Lowndes,Airbase,326
+Jennifer Riley Collins,Attorney General,,D,Lowndes,Airbase,310
+Lynn Fitch,Attorney General,,R,Lowndes,Airbase,325
+Shad White,State Auditor,,R,Lowndes,Airbase,449
+Addie Lee Green,State Treasurer,,D,Lowndes,Airbase,289
+David McRae,State Treasurer,,R,Lowndes,Airbase,337
+Rickey L Cole,Commissioner of Agriculture & Commerce,,D,Lowndes,Airbase,293
+Andy Gipson,Commissioner of Agriculture & Commerce,,R,Lowndes,Airbase,332
+Angela Turner Ford,State Senate,16,D,Lowndes,Airbase,X
+DeWanna Belton,State Senate,17,D,Lowndes,Airbase,278
+Charles A. 'Chuck' Younger,State Senate,17,R,Lowndes,Airbase,334
+Denny Bedwell,State Senate,17,LIB,Lowndes,Airbase,17
+Gary A Chims,State House,37,R,Lowndes,Airbase,X
+Vicky Rose,State House,37,LIB,Lowndes,Airbase,X
+Chelkh Taylor,State House,38,D,Lowndes,Airbase,X
+Dana Underwood McLean,State House,39,R,Lowndes,Airbase,456
+Kabir Karriem,State House,41,D,Lowndes,Airbase,X
+Carl L Mickens,State House,42,D,Lowndes,Airbase,X
+Jim Hood,Governor,,D,Lowndes,Artesia ,190
+Tate Reeves,Governor,,R,Lowndes,Artesia ,34
+Bob Hickingbottom,Governor,,C,Lowndes,Artesia ,0
+David R Singletary,Governor,,IND,Lowndes,Artesia ,0
+Delbert Hosemann,Lieutenant Governor,,R,Lowndes,Artesia ,38
+Jay Hughes,Lieutenant Governor,,D,Lowndes,Artesia ,177
+Johnny DuPree,Secretary of State,,D,Lowndes,Artesia ,176
+Michael Watson,Secretary of State,,R,Lowndes,Artesia ,35
+Jennifer Riley Collins,Attorney General,,D,Lowndes,Artesia ,184
+Lynn Fitch,Attorney General,,R,Lowndes,Artesia ,36
+Shad White,State Auditor,,R,Lowndes,Artesia ,87
+Addie Lee Green,State Treasurer,,D,Lowndes,Artesia ,179
+David McRae,State Treasurer,,R,Lowndes,Artesia ,37
+Rickey L Cole,Commissioner of Agriculture & Commerce,,D,Lowndes,Artesia ,182
+Andy Gipson,Commissioner of Agriculture & Commerce,,R,Lowndes,Artesia ,34
+Angela Turner Ford,State Senate,16,D,Lowndes,Artesia ,X
+DeWanna Belton,State Senate,17,D,Lowndes,Artesia ,175
+Charles A. 'Chuck' Younger,State Senate,17,R,Lowndes,Artesia ,42
+Denny Bedwell,State Senate,17,LIB,Lowndes,Artesia ,1
+Gary A Chims,State House,37,R,Lowndes,Artesia ,X
+Vicky Rose,State House,37,LIB,Lowndes,Artesia ,X
+Chelkh Taylor,State House,38,D,Lowndes,Artesia ,191
+Dana Underwood McLean,State House,39,R,Lowndes,Artesia ,X
+Kabir Karriem,State House,41,D,Lowndes,Artesia ,X
+Carl L Mickens,State House,42,D,Lowndes,Artesia ,X
+Jim Hood,Governor,,D,Lowndes,Brandon,533
+Tate Reeves,Governor,,R,Lowndes,Brandon,566
+Bob Hickingbottom,Governor,,C,Lowndes,Brandon,1
+David R Singletary,Governor,,IND,Lowndes,Brandon,7
+Delbert Hosemann,Lieutenant Governor,,R,Lowndes,Brandon,638
+Jay Hughes,Lieutenant Governor,,D,Lowndes,Brandon,459
+Johnny DuPree,Secretary of State,,D,Lowndes,Brandon,459
+Michael Watson,Secretary of State,,R,Lowndes,Brandon,629
+Jennifer Riley Collins,Attorney General,,D,Lowndes,Brandon,487
+Lynn Fitch,Attorney General,,R,Lowndes,Brandon,610
+Shad White,State Auditor,,R,Lowndes,Brandon,819
+Addie Lee Green,State Treasurer,,D,Lowndes,Brandon,449
+David McRae,State Treasurer,,R,Lowndes,Brandon,649
+Rickey L Cole,Commissioner of Agriculture & Commerce,,D,Lowndes,Brandon,462
+Andy Gipson,Commissioner of Agriculture & Commerce,,R,Lowndes,Brandon,630
+Angela Turner Ford,State Senate,16,D,Lowndes,Brandon,X
+DeWanna Belton,State Senate,17,D,Lowndes,Brandon,416
+Charles A. 'Chuck' Younger,State Senate,17,R,Lowndes,Brandon,658
+Denny Bedwell,State Senate,17,LIB,Lowndes,Brandon,20
+Gary A Chims,State House,37,R,Lowndes,Brandon,X
+Vicky Rose,State House,37,LIB,Lowndes,Brandon,X
+Chelkh Taylor,State House,38,D,Lowndes,Brandon,X
+Dana Underwood McLean,State House,39,R,Lowndes,Brandon,727
+Kabir Karriem,State House,41,D,Lowndes,Brandon,86
+Carl L Mickens,State House,42,D,Lowndes,Brandon,X
+Jim Hood,Governor,,D,Lowndes,Caledonnia,396
+Tate Reeves,Governor,,R,Lowndes,Caledonnia,1519
+Bob Hickingbottom,Governor,,C,Lowndes,Caledonnia,6
+David R Singletary,Governor,,IND,Lowndes,Caledonnia,19
+Delbert Hosemann,Lieutenant Governor,,R,Lowndes,Caledonnia,1618
+Jay Hughes,Lieutenant Governor,,D,Lowndes,Caledonnia,309
+Johnny DuPree,Secretary of State,,D,Lowndes,Caledonnia,284
+Michael Watson,Secretary of State,,R,Lowndes,Caledonnia,1630
+Jennifer Riley Collins,Attorney General,,D,Lowndes,Caledonnia,324
+Lynn Fitch,Attorney General,,R,Lowndes,Caledonnia,1614
+Shad White,State Auditor,,R,Lowndes,Caledonnia,1751
+Addie Lee Green,State Treasurer,,D,Lowndes,Caledonnia,266
+David McRae,State Treasurer,,R,Lowndes,Caledonnia,1656
+Rickey L Cole,Commissioner of Agriculture & Commerce,,D,Lowndes,Caledonnia,317
+Andy Gipson,Commissioner of Agriculture & Commerce,,R,Lowndes,Caledonnia,1605
+Angela Turner Ford,State Senate,16,D,Lowndes,Caledonnia,X
+DeWanna Belton,State Senate,17,D,Lowndes,Caledonnia,234
+Charles A. 'Chuck' Younger,State Senate,17,R,Lowndes,Caledonnia,1634
+Denny Bedwell,State Senate,17,LIB,Lowndes,Caledonnia,63
+Gary A Chims,State House,37,R,Lowndes,Caledonnia,X
+Vicky Rose,State House,37,LIB,Lowndes,Caledonnia,X
+Chelkh Taylor,State House,38,D,Lowndes,Caledonnia,X
+Dana Underwood McLean,State House,39,R,Lowndes,Caledonnia,1733
+Kabir Karriem,State House,41,D,Lowndes,Caledonnia,X
+Carl L Mickens,State House,42,D,Lowndes,Caledonnia,X
+Jim Hood,Governor,,D,Lowndes,Coleman,136
+Tate Reeves,Governor,,R,Lowndes,Coleman,6
+Bob Hickingbottom,Governor,,C,Lowndes,Coleman,0
+David R Singletary,Governor,,IND,Lowndes,Coleman,1
+Delbert Hosemann,Lieutenant Governor,,R,Lowndes,Coleman,16
+Jay Hughes,Lieutenant Governor,,D,Lowndes,Coleman,122
+Johnny DuPree,Secretary of State,,D,Lowndes,Coleman,130
+Michael Watson,Secretary of State,,R,Lowndes,Coleman,8
+Jennifer Riley Collins,Attorney General,,D,Lowndes,Coleman,135
+Lynn Fitch,Attorney General,,R,Lowndes,Coleman,5
+Shad White,State Auditor,,R,Lowndes,Coleman,55
+Addie Lee Green,State Treasurer,,D,Lowndes,Coleman,130
+David McRae,State Treasurer,,R,Lowndes,Coleman,8
+Rickey L Cole,Commissioner of Agriculture & Commerce,,D,Lowndes,Coleman,129
+Andy Gipson,Commissioner of Agriculture & Commerce,,R,Lowndes,Coleman,8
+Angela Turner Ford,State Senate,16,D,Lowndes,Coleman,127
+DeWanna Belton,State Senate,17,D,Lowndes,Coleman,X
+Charles A. 'Chuck' Younger,State Senate,17,R,Lowndes,Coleman,X
+Denny Bedwell,State Senate,17,LIB,Lowndes,Coleman,X
+Gary A Chims,State House,37,R,Lowndes,Coleman,X
+Vicky Rose,State House,37,LIB,Lowndes,Coleman,X
+Chelkh Taylor,State House,38,D,Lowndes,Coleman,X
+Dana Underwood McLean,State House,39,R,Lowndes,Coleman,X
+Kabir Karriem,State House,41,D,Lowndes,Coleman,130
+Carl L Mickens,State House,42,D,Lowndes,Coleman,X
+Jim Hood,Governor,,D,Lowndes,Crawford,481
+Tate Reeves,Governor,,R,Lowndes,Crawford,97
+Bob Hickingbottom,Governor,,C,Lowndes,Crawford,0
+David R Singletary,Governor,,IND,Lowndes,Crawford,1
+Delbert Hosemann,Lieutenant Governor,,R,Lowndes,Crawford,119
+Jay Hughes,Lieutenant Governor,,D,Lowndes,Crawford,450
+Johnny DuPree,Secretary of State,,D,Lowndes,Crawford,458
+Michael Watson,Secretary of State,,R,Lowndes,Crawford,111
+Jennifer Riley Collins,Attorney General,,D,Lowndes,Crawford,467
+Lynn Fitch,Attorney General,,R,Lowndes,Crawford,106
+Shad White,State Auditor,,R,Lowndes,Crawford,229
+Addie Lee Green,State Treasurer,,D,Lowndes,Crawford,456
+David McRae,State Treasurer,,R,Lowndes,Crawford,114
+Rickey L Cole,Commissioner of Agriculture & Commerce,,D,Lowndes,Crawford,465
+Andy Gipson,Commissioner of Agriculture & Commerce,,R,Lowndes,Crawford,106
+Angela Turner Ford,State Senate,16,D,Lowndes,Crawford,X
+DeWanna Belton,State Senate,17,D,Lowndes,Crawford,452
+Charles A. 'Chuck' Younger,State Senate,17,R,Lowndes,Crawford,119
+Denny Bedwell,State Senate,17,LIB,Lowndes,Crawford,5
+Gary A Chims,State House,37,R,Lowndes,Crawford,X
+Vicky Rose,State House,37,LIB,Lowndes,Crawford,X
+Chelkh Taylor,State House,38,D,Lowndes,Crawford,X
+Dana Underwood McLean,State House,39,R,Lowndes,Crawford,X
+Kabir Karriem,State House,41,D,Lowndes,Crawford,X
+Carl L Mickens,State House,42,D,Lowndes,Crawford,523
+Jim Hood,Governor,,D,Lowndes,East Columbus Gym,848
+Tate Reeves,Governor,,R,Lowndes,East Columbus Gym,386
+Bob Hickingbottom,Governor,,C,Lowndes,East Columbus Gym,5
+David R Singletary,Governor,,IND,Lowndes,East Columbus Gym,6
+Delbert Hosemann,Lieutenant Governor,,R,Lowndes,East Columbus Gym,445
+Jay Hughes,Lieutenant Governor,,D,Lowndes,East Columbus Gym,785
+Johnny DuPree,Secretary of State,,D,Lowndes,East Columbus Gym,810
+Michael Watson,Secretary of State,,R,Lowndes,East Columbus Gym,419
+Jennifer Riley Collins,Attorney General,,D,Lowndes,East Columbus Gym,825
+Lynn Fitch,Attorney General,,R,Lowndes,East Columbus Gym,409
+Shad White,State Auditor,,R,Lowndes,East Columbus Gym,713
+Addie Lee Green,State Treasurer,,D,Lowndes,East Columbus Gym,790
+David McRae,State Treasurer,,R,Lowndes,East Columbus Gym,441
+Rickey L Cole,Commissioner of Agriculture & Commerce,,D,Lowndes,East Columbus Gym,814
+Andy Gipson,Commissioner of Agriculture & Commerce,,R,Lowndes,East Columbus Gym,413
+Angela Turner Ford,State Senate,16,D,Lowndes,East Columbus Gym,X
+DeWanna Belton,State Senate,17,D,Lowndes,East Columbus Gym,777
+Charles A. 'Chuck' Younger,State Senate,17,R,Lowndes,East Columbus Gym,429
+Denny Bedwell,State Senate,17,LIB,Lowndes,East Columbus Gym,22
+Gary A Chims,State House,37,R,Lowndes,East Columbus Gym,X
+Vicky Rose,State House,37,LIB,Lowndes,East Columbus Gym,X
+Chelkh Taylor,State House,38,D,Lowndes,East Columbus Gym,X
+Dana Underwood McLean,State House,39,R,Lowndes,East Columbus Gym,X
+Kabir Karriem,State House,41,D,Lowndes,East Columbus Gym,1033
+Carl L Mickens,State House,42,D,Lowndes,East Columbus Gym,X
+Jim Hood,Governor,,D,Lowndes,Fifteenth Street Church,366
+Tate Reeves,Governor,,R,Lowndes,Fifteenth Street Church,61
+Bob Hickingbottom,Governor,,C,Lowndes,Fifteenth Street Church,0
+David R Singletary,Governor,,IND,Lowndes,Fifteenth Street Church,9
+Delbert Hosemann,Lieutenant Governor,,R,Lowndes,Fifteenth Street Church,84
+Jay Hughes,Lieutenant Governor,,D,Lowndes,Fifteenth Street Church,334
+Johnny DuPree,Secretary of State,,D,Lowndes,Fifteenth Street Church,343
+Michael Watson,Secretary of State,,R,Lowndes,Fifteenth Street Church,74
+Jennifer Riley Collins,Attorney General,,D,Lowndes,Fifteenth Street Church,352
+Lynn Fitch,Attorney General,,R,Lowndes,Fifteenth Street Church,78
+Shad White,State Auditor,,R,Lowndes,Fifteenth Street Church,206
+Addie Lee Green,State Treasurer,,D,Lowndes,Fifteenth Street Church,337
+David McRae,State Treasurer,,R,Lowndes,Fifteenth Street Church,85
+Rickey L Cole,Commissioner of Agriculture & Commerce,,D,Lowndes,Fifteenth Street Church,342
+Andy Gipson,Commissioner of Agriculture & Commerce,,R,Lowndes,Fifteenth Street Church,80
+Angela Turner Ford,State Senate,16,D,Lowndes,Fifteenth Street Church,259
+DeWanna Belton,State Senate,17,D,Lowndes,Fifteenth Street Church,84
+Charles A. 'Chuck' Younger,State Senate,17,R,Lowndes,Fifteenth Street Church,47
+Denny Bedwell,State Senate,17,LIB,Lowndes,Fifteenth Street Church,6
+Gary A Chims,State House,37,R,Lowndes,Fifteenth Street Church,X
+Vicky Rose,State House,37,LIB,Lowndes,Fifteenth Street Church,X
+Chelkh Taylor,State House,38,D,Lowndes,Fifteenth Street Church,X
+Dana Underwood McLean,State House,39,R,Lowndes,Fifteenth Street Church,X
+Kabir Karriem,State House,41,D,Lowndes,Fifteenth Street Church,388
+Carl L Mickens,State House,42,D,Lowndes,Fifteenth Street Church,X
+Jim Hood,Governor,,D,Lowndes,First Assembly,713
+Tate Reeves,Governor,,R,Lowndes,First Assembly,1227
+Bob Hickingbottom,Governor,,C,Lowndes,First Assembly,2
+David R Singletary,Governor,,IND,Lowndes,First Assembly,7
+Delbert Hosemann,Lieutenant Governor,,R,Lowndes,First Assembly,1393
+Jay Hughes,Lieutenant Governor,,D,Lowndes,First Assembly,550
+Johnny DuPree,Secretary of State,,D,Lowndes,First Assembly,559
+Michael Watson,Secretary of State,,R,Lowndes,First Assembly,1364
+Jennifer Riley Collins,Attorney General,,D,Lowndes,First Assembly,604
+Lynn Fitch,Attorney General,,R,Lowndes,First Assembly,1334
+Shad White,State Auditor,,R,Lowndes,First Assembly,1635
+Addie Lee Green,State Treasurer,,D,Lowndes,First Assembly,519
+David McRae,State Treasurer,,R,Lowndes,First Assembly,1417
+Rickey L Cole,Commissioner of Agriculture & Commerce,,D,Lowndes,First Assembly,577
+Andy Gipson,Commissioner of Agriculture & Commerce,,R,Lowndes,First Assembly,1353
+Angela Turner Ford,State Senate,16,D,Lowndes,First Assembly,X
+DeWanna Belton,State Senate,17,D,Lowndes,First Assembly,467
+Charles A. 'Chuck' Younger,State Senate,17,R,Lowndes,First Assembly,1425
+Denny Bedwell,State Senate,17,LIB,Lowndes,First Assembly,43
+Gary A Chims,State House,37,R,Lowndes,First Assembly,X
+Vicky Rose,State House,37,LIB,Lowndes,First Assembly,X
+Chelkh Taylor,State House,38,D,Lowndes,First Assembly,X
+Dana Underwood McLean,State House,39,R,Lowndes,First Assembly,1564
+Kabir Karriem,State House,41,D,Lowndes,First Assembly,50
+Carl L Mickens,State House,42,D,Lowndes,First Assembly,X
+Jim Hood,Governor,,D,Lowndes,Hunt,824
+Tate Reeves,Governor,,R,Lowndes,Hunt,20
+Bob Hickingbottom,Governor,,C,Lowndes,Hunt,0
+David R Singletary,Governor,,IND,Lowndes,Hunt,2
+Delbert Hosemann,Lieutenant Governor,,R,Lowndes,Hunt,62
+Jay Hughes,Lieutenant Governor,,D,Lowndes,Hunt,747
+Johnny DuPree,Secretary of State,,D,Lowndes,Hunt,770
+Michael Watson,Secretary of State,,R,Lowndes,Hunt,34
+Jennifer Riley Collins,Attorney General,,D,Lowndes,Hunt,801
+Lynn Fitch,Attorney General,,R,Lowndes,Hunt,30
+Shad White,State Auditor,,R,Lowndes,Hunt,268
+Addie Lee Green,State Treasurer,,D,Lowndes,Hunt,783
+David McRae,State Treasurer,,R,Lowndes,Hunt,37
+Rickey L Cole,Commissioner of Agriculture & Commerce,,D,Lowndes,Hunt,784
+Andy Gipson,Commissioner of Agriculture & Commerce,,R,Lowndes,Hunt,31
+Angela Turner Ford,State Senate,16,D,Lowndes,Hunt,703
+DeWanna Belton,State Senate,17,D,Lowndes,Hunt,2
+Charles A. 'Chuck' Younger,State Senate,17,R,Lowndes,Hunt,7
+Denny Bedwell,State Senate,17,LIB,Lowndes,Hunt,0
+Gary A Chims,State House,37,R,Lowndes,Hunt,X
+Vicky Rose,State House,37,LIB,Lowndes,Hunt,X
+Chelkh Taylor,State House,38,D,Lowndes,Hunt,X
+Dana Underwood McLean,State House,39,R,Lowndes,Hunt,X
+Kabir Karriem,State House,41,D,Lowndes,Hunt,749
+Carl L Mickens,State House,42,D,Lowndes,Hunt,X
+Jim Hood,Governor,,D,Lowndes,Immanuel,183
+Tate Reeves,Governor,,R,Lowndes,Immanuel,284
+Bob Hickingbottom,Governor,,C,Lowndes,Immanuel,3
+David R Singletary,Governor,,IND,Lowndes,Immanuel,0
+Delbert Hosemann,Lieutenant Governor,,R,Lowndes,Immanuel,303
+Jay Hughes,Lieutenant Governor,,D,Lowndes,Immanuel,166
+Johnny DuPree,Secretary of State,,D,Lowndes,Immanuel,170
+Michael Watson,Secretary of State,,R,Lowndes,Immanuel,295
+Jennifer Riley Collins,Attorney General,,D,Lowndes,Immanuel,179
+Lynn Fitch,Attorney General,,R,Lowndes,Immanuel,290
+Shad White,State Auditor,,R,Lowndes,Immanuel,370
+Addie Lee Green,State Treasurer,,D,Lowndes,Immanuel,160
+David McRae,State Treasurer,,R,Lowndes,Immanuel,307
+Rickey L Cole,Commissioner of Agriculture & Commerce,,D,Lowndes,Immanuel,173
+Andy Gipson,Commissioner of Agriculture & Commerce,,R,Lowndes,Immanuel,295
+Angela Turner Ford,State Senate,16,D,Lowndes,Immanuel,X
+DeWanna Belton,State Senate,17,D,Lowndes,Immanuel,154
+Charles A. 'Chuck' Younger,State Senate,17,R,Lowndes,Immanuel,302
+Denny Bedwell,State Senate,17,LIB,Lowndes,Immanuel,11
+Gary A Chims,State House,37,R,Lowndes,Immanuel,187
+Vicky Rose,State House,37,LIB,Lowndes,Immanuel,69
+Chelkh Taylor,State House,38,D,Lowndes,Immanuel,X
+Dana Underwood McLean,State House,39,R,Lowndes,Immanuel,143
+Kabir Karriem,State House,41,D,Lowndes,Immanuel,X
+Carl L Mickens,State House,42,D,Lowndes,Immanuel,X
+Jim Hood,Governor,,D,Lowndes,New Hope ,627
+Tate Reeves,Governor,,R,Lowndes,New Hope ,2005
+Bob Hickingbottom,Governor,,C,Lowndes,New Hope ,7
+David R Singletary,Governor,,IND,Lowndes,New Hope ,25
+Delbert Hosemann,Lieutenant Governor,,R,Lowndes,New Hope ,2117
+Jay Hughes,Lieutenant Governor,,D,Lowndes,New Hope ,537
+Johnny DuPree,Secretary of State,,D,Lowndes,New Hope ,487
+Michael Watson,Secretary of State,,R,Lowndes,New Hope ,2158
+Jennifer Riley Collins,Attorney General,,D,Lowndes,New Hope ,533
+Lynn Fitch,Attorney General,,R,Lowndes,New Hope ,2128
+Shad White,State Auditor,,R,Lowndes,New Hope ,2333
+Addie Lee Green,State Treasurer,,D,Lowndes,New Hope ,472
+David McRae,State Treasurer,,R,Lowndes,New Hope ,2173
+Rickey L Cole,Commissioner of Agriculture & Commerce,,D,Lowndes,New Hope ,506
+Andy Gipson,Commissioner of Agriculture & Commerce,,R,Lowndes,New Hope ,2129
+Angela Turner Ford,State Senate,16,D,Lowndes,New Hope ,X
+DeWanna Belton,State Senate,17,D,Lowndes,New Hope ,433
+Charles A. 'Chuck' Younger,State Senate,17,R,Lowndes,New Hope ,2164
+Denny Bedwell,State Senate,17,LIB,Lowndes,New Hope ,54
+Gary A Chims,State House,37,R,Lowndes,New Hope ,2089
+Vicky Rose,State House,37,LIB,Lowndes,New Hope ,402
+Chelkh Taylor,State House,38,D,Lowndes,New Hope ,X
+Dana Underwood McLean,State House,39,R,Lowndes,New Hope ,X
+Kabir Karriem,State House,41,D,Lowndes,New Hope ,X
+Carl L Mickens,State House,42,D,Lowndes,New Hope ,X
+Jim Hood,Governor,,D,Lowndes,Plum Grove,225
+Tate Reeves,Governor,,R,Lowndes,Plum Grove,15
+Bob Hickingbottom,Governor,,C,Lowndes,Plum Grove,0
+David R Singletary,Governor,,IND,Lowndes,Plum Grove,0
+Delbert Hosemann,Lieutenant Governor,,R,Lowndes,Plum Grove,27
+Jay Hughes,Lieutenant Governor,,D,Lowndes,Plum Grove,203
+Johnny DuPree,Secretary of State,,D,Lowndes,Plum Grove,214
+Michael Watson,Secretary of State,,R,Lowndes,Plum Grove,19
+Jennifer Riley Collins,Attorney General,,D,Lowndes,Plum Grove,217
+Lynn Fitch,Attorney General,,R,Lowndes,Plum Grove,20
+Shad White,State Auditor,,R,Lowndes,Plum Grove,65
+Addie Lee Green,State Treasurer,,D,Lowndes,Plum Grove,214
+David McRae,State Treasurer,,R,Lowndes,Plum Grove,19
+Rickey L Cole,Commissioner of Agriculture & Commerce,,D,Lowndes,Plum Grove,214
+Andy Gipson,Commissioner of Agriculture & Commerce,,R,Lowndes,Plum Grove,18
+Angela Turner Ford,State Senate,16,D,Lowndes,Plum Grove,0
+DeWanna Belton,State Senate,17,D,Lowndes,Plum Grove,207
+Charles A. 'Chuck' Younger,State Senate,17,R,Lowndes,Plum Grove,27
+Denny Bedwell,State Senate,17,LIB,Lowndes,Plum Grove,0
+Gary A Chims,State House,37,R,Lowndes,Plum Grove,12
+Vicky Rose,State House,37,LIB,Lowndes,Plum Grove,2
+Chelkh Taylor,State House,38,D,Lowndes,Plum Grove,X
+Dana Underwood McLean,State House,39,R,Lowndes,Plum Grove,X
+Kabir Karriem,State House,41,D,Lowndes,Plum Grove,0
+Carl L Mickens,State House,42,D,Lowndes,Plum Grove,189
+Jim Hood,Governor,,D,Lowndes,Rural Hill,390
+Tate Reeves,Governor,,R,Lowndes,Rural Hill,846
+Bob Hickingbottom,Governor,,C,Lowndes,Rural Hill,0
+David R Singletary,Governor,,IND,Lowndes,Rural Hill,7
+Delbert Hosemann,Lieutenant Governor,,R,Lowndes,Rural Hill,919
+Jay Hughes,Lieutenant Governor,,D,Lowndes,Rural Hill,312
+Johnny DuPree,Secretary of State,,D,Lowndes,Rural Hill,313
+Michael Watson,Secretary of State,,R,Lowndes,Rural Hill,912
+Jennifer Riley Collins,Attorney General,,D,Lowndes,Rural Hill,346
+Lynn Fitch,Attorney General,,R,Lowndes,Rural Hill,892
+Shad White,State Auditor,,R,Lowndes,Rural Hill,1034
+Addie Lee Green,State Treasurer,,D,Lowndes,Rural Hill,313
+David McRae,State Treasurer,,R,Lowndes,Rural Hill,921
+Rickey L Cole,Commissioner of Agriculture & Commerce,,D,Lowndes,Rural Hill,339
+Andy Gipson,Commissioner of Agriculture & Commerce,,R,Lowndes,Rural Hill,895
+Angela Turner Ford,State Senate,16,D,Lowndes,Rural Hill,X
+DeWanna Belton,State Senate,17,D,Lowndes,Rural Hill,291
+Charles A. 'Chuck' Younger,State Senate,17,R,Lowndes,Rural Hill,915
+Denny Bedwell,State Senate,17,LIB,Lowndes,Rural Hill,28
+Gary A Chims,State House,37,R,Lowndes,Rural Hill,903
+Vicky Rose,State House,37,LIB,Lowndes,Rural Hill,217
+Chelkh Taylor,State House,38,D,Lowndes,Rural Hill,X
+Dana Underwood McLean,State House,39,R,Lowndes,Rural Hill,X
+Kabir Karriem,State House,41,D,Lowndes,Rural Hill,X
+Carl L Mickens,State House,42,D,Lowndes,Rural Hill,X
+Jim Hood,Governor,,D,Lowndes,Southside Church,1160
+Tate Reeves,Governor,,R,Lowndes,Southside Church,243
+Bob Hickingbottom,Governor,,C,Lowndes,Southside Church,3
+David R Singletary,Governor,,IND,Lowndes,Southside Church,5
+Delbert Hosemann,Lieutenant Governor,,R,Lowndes,Southside Church,293
+Jay Hughes,Lieutenant Governor,,D,Lowndes,Southside Church,1100
+Johnny DuPree,Secretary of State,,D,Lowndes,Southside Church,1131
+Michael Watson,Secretary of State,,R,Lowndes,Southside Church,260
+Jennifer Riley Collins,Attorney General,,D,Lowndes,Southside Church,1150
+Lynn Fitch,Attorney General,,R,Lowndes,Southside Church,256
+Shad White,State Auditor,,R,Lowndes,Southside Church,642
+Addie Lee Green,State Treasurer,,D,Lowndes,Southside Church,1117
+David McRae,State Treasurer,,R,Lowndes,Southside Church,280
+Rickey L Cole,Commissioner of Agriculture & Commerce,,D,Lowndes,Southside Church,1131
+Andy Gipson,Commissioner of Agriculture & Commerce,,R,Lowndes,Southside Church,258
+Angela Turner Ford,State Senate,16,D,Lowndes,Southside Church,684
+DeWanna Belton,State Senate,17,D,Lowndes,Southside Church,479
+Charles A. 'Chuck' Younger,State Senate,17,R,Lowndes,Southside Church,165
+Denny Bedwell,State Senate,17,LIB,Lowndes,Southside Church,6
+Gary A Chims,State House,37,R,Lowndes,Southside Church,165
+Vicky Rose,State House,37,LIB,Lowndes,Southside Church,142
+Chelkh Taylor,State House,38,D,Lowndes,Southside Church,X
+Dana Underwood McLean,State House,39,R,Lowndes,Southside Church,X
+Kabir Karriem,State House,41,D,Lowndes,Southside Church,882
+Carl L Mickens,State House,42,D,Lowndes,Southside Church,X
+Jim Hood,Governor,,D,Lowndes,Steens,62
+Tate Reeves,Governor,,R,Lowndes,Steens,304
+Bob Hickingbottom,Governor,,C,Lowndes,Steens,0
+David R Singletary,Governor,,IND,Lowndes,Steens,1
+Delbert Hosemann,Lieutenant Governor,,R,Lowndes,Steens,315
+Jay Hughes,Lieutenant Governor,,D,Lowndes,Steens,48
+Johnny DuPree,Secretary of State,,D,Lowndes,Steens,43
+Michael Watson,Secretary of State,,R,Lowndes,Steens,320
+Jennifer Riley Collins,Attorney General,,D,Lowndes,Steens,51
+Lynn Fitch,Attorney General,,R,Lowndes,Steens,315
+Shad White,State Auditor,,R,Lowndes,Steens,334
+Addie Lee Green,State Treasurer,,D,Lowndes,Steens,36
+David McRae,State Treasurer,,R,Lowndes,Steens,324
+Rickey L Cole,Commissioner of Agriculture & Commerce,,D,Lowndes,Steens,47
+Andy Gipson,Commissioner of Agriculture & Commerce,,R,Lowndes,Steens,315
+Angela Turner Ford,State Senate,16,D,Lowndes,Steens,X
+DeWanna Belton,State Senate,17,D,Lowndes,Steens,36
+Charles A. 'Chuck' Younger,State Senate,17,R,Lowndes,Steens,316
+Denny Bedwell,State Senate,17,LIB,Lowndes,Steens,12
+Gary A Chims,State House,37,R,Lowndes,Steens,310
+Vicky Rose,State House,37,LIB,Lowndes,Steens,39
+Chelkh Taylor,State House,38,D,Lowndes,Steens,X
+Dana Underwood McLean,State House,39,R,Lowndes,Steens,X
+Kabir Karriem,State House,41,D,Lowndes,Steens,X
+Carl L Mickens,State House,42,D,Lowndes,Steens,X
+Jim Hood,Governor,,D,Lowndes,Townsend Park,500
+Tate Reeves,Governor,,R,Lowndes,Townsend Park,47
+Bob Hickingbottom,Governor,,C,Lowndes,Townsend Park,0
+David R Singletary,Governor,,IND,Lowndes,Townsend Park,4
+Delbert Hosemann,Lieutenant Governor,,R,Lowndes,Townsend Park,57
+Jay Hughes,Lieutenant Governor,,D,Lowndes,Townsend Park,470
+Johnny DuPree,Secretary of State,,D,Lowndes,Townsend Park,481
+Michael Watson,Secretary of State,,R,Lowndes,Townsend Park,53
+Jennifer Riley Collins,Attorney General,,D,Lowndes,Townsend Park,488
+Lynn Fitch,Attorney General,,R,Lowndes,Townsend Park,52
+Shad White,State Auditor,,R,Lowndes,Townsend Park,216
+Addie Lee Green,State Treasurer,,D,Lowndes,Townsend Park,473
+David McRae,State Treasurer,,R,Lowndes,Townsend Park,56
+Rickey L Cole,Commissioner of Agriculture & Commerce,,D,Lowndes,Townsend Park,477
+Andy Gipson,Commissioner of Agriculture & Commerce,,R,Lowndes,Townsend Park,52
+Angela Turner Ford,State Senate,16,D,Lowndes,Townsend Park,479
+DeWanna Belton,State Senate,17,D,Lowndes,Townsend Park,X
+Charles A. 'Chuck' Younger,State Senate,17,R,Lowndes,Townsend Park,X
+Denny Bedwell,State Senate,17,LIB,Lowndes,Townsend Park,X
+Gary A Chims,State House,37,R,Lowndes,Townsend Park,X
+Vicky Rose,State House,37,LIB,Lowndes,Townsend Park,X
+Chelkh Taylor,State House,38,D,Lowndes,Townsend Park,X
+Dana Underwood McLean,State House,39,R,Lowndes,Townsend Park,X
+Kabir Karriem,State House,41,D,Lowndes,Townsend Park,489
+Carl L Mickens,State House,42,D,Lowndes,Townsend Park,X
+Jim Hood,Governor,,D,Lowndes,Trinity,362
+Tate Reeves,Governor,,R,Lowndes,Trinity,136
+Bob Hickingbottom,Governor,,C,Lowndes,Trinity,1
+David R Singletary,Governor,,IND,Lowndes,Trinity,3
+Delbert Hosemann,Lieutenant Governor,,R,Lowndes,Trinity,160
+Jay Hughes,Lieutenant Governor,,D,Lowndes,Trinity,329
+Johnny DuPree,Secretary of State,,D,Lowndes,Trinity,346
+Michael Watson,Secretary of State,,R,Lowndes,Trinity,143
+Jennifer Riley Collins,Attorney General,,D,Lowndes,Trinity,349
+Lynn Fitch,Attorney General,,R,Lowndes,Trinity,148
+Shad White,State Auditor,,R,Lowndes,Trinity,239
+Addie Lee Green,State Treasurer,,D,Lowndes,Trinity,337
+David McRae,State Treasurer,,R,Lowndes,Trinity,154
+Rickey L Cole,Commissioner of Agriculture & Commerce,,D,Lowndes,Trinity,348
+Andy Gipson,Commissioner of Agriculture & Commerce,,R,Lowndes,Trinity,142
+Angela Turner Ford,State Senate,16,D,Lowndes,Trinity,X
+DeWanna Belton,State Senate,17,D,Lowndes,Trinity,328
+Charles A. 'Chuck' Younger,State Senate,17,R,Lowndes,Trinity,154
+Denny Bedwell,State Senate,17,LIB,Lowndes,Trinity,9
+Gary A Chims,State House,37,R,Lowndes,Trinity,X
+Vicky Rose,State House,37,LIB,Lowndes,Trinity,X
+Chelkh Taylor,State House,38,D,Lowndes,Trinity,X
+Dana Underwood McLean,State House,39,R,Lowndes,Trinity,X
+Kabir Karriem,State House,41,D,Lowndes,Trinity,390
+Carl L Mickens,State House,42,D,Lowndes,Trinity,X
+Jim Hood,Governor,,D,Lowndes,University,264
+Tate Reeves,Governor,,R,Lowndes,University,195
+Bob Hickingbottom,Governor,,C,Lowndes,University,1
+David R Singletary,Governor,,IND,Lowndes,University,2
+Delbert Hosemann,Lieutenant Governor,,R,Lowndes,University,264
+Jay Hughes,Lieutenant Governor,,D,Lowndes,University,198
+Johnny DuPree,Secretary of State,,D,Lowndes,University,199
+Michael Watson,Secretary of State,,R,Lowndes,University,258
+Jennifer Riley Collins,Attorney General,,D,Lowndes,University,202
+Lynn Fitch,Attorney General,,R,Lowndes,University,259
+Shad White,State Auditor,,R,Lowndes,University,355
+Addie Lee Green,State Treasurer,,D,Lowndes,University,171
+David McRae,State Treasurer,,R,Lowndes,University,286
+Rickey L Cole,Commissioner of Agriculture & Commerce,,D,Lowndes,University,203
+Andy Gipson,Commissioner of Agriculture & Commerce,,R,Lowndes,University,247
+Angela Turner Ford,State Senate,16,D,Lowndes,University,X
+DeWanna Belton,State Senate,17,D,Lowndes,University,144
+Charles A. 'Chuck' Younger,State Senate,17,R,Lowndes,University,289
+Denny Bedwell,State Senate,17,LIB,Lowndes,University,23
+Gary A Chims,State House,37,R,Lowndes,University,X
+Vicky Rose,State House,37,LIB,Lowndes,University,X
+Chelkh Taylor,State House,38,D,Lowndes,University,X
+Dana Underwood McLean,State House,39,R,Lowndes,University,X
+Kabir Karriem,State House,41,D,Lowndes,University,332
+Carl L Mickens,State House,42,D,Lowndes,University,X
+Jim Hood,Governor,,D,Lowndes,West Lowndes,248
+Tate Reeves,Governor,,R,Lowndes,West Lowndes,531
+Bob Hickingbottom,Governor,,C,Lowndes,West Lowndes,5
+David R Singletary,Governor,,IND,Lowndes,West Lowndes,5
+Delbert Hosemann,Lieutenant Governor,,R,Lowndes,West Lowndes,586
+Jay Hughes,Lieutenant Governor,,D,Lowndes,West Lowndes,202
+Johnny DuPree,Secretary of State,,D,Lowndes,West Lowndes,202
+Michael Watson,Secretary of State,,R,Lowndes,West Lowndes,577
+Jennifer Riley Collins,Attorney General,,D,Lowndes,West Lowndes,217
+Lynn Fitch,Attorney General,,R,Lowndes,West Lowndes,568
+Shad White,State Auditor,,R,Lowndes,West Lowndes,655
+Addie Lee Green,State Treasurer,,D,Lowndes,West Lowndes,188
+David McRae,State Treasurer,,R,Lowndes,West Lowndes,593
+Rickey L Cole,Commissioner of Agriculture & Commerce,,D,Lowndes,West Lowndes,206
+Andy Gipson,Commissioner of Agriculture & Commerce,,R,Lowndes,West Lowndes,574
+Angela Turner Ford,State Senate,16,D,Lowndes,West Lowndes,78
+DeWanna Belton,State Senate,17,D,Lowndes,West Lowndes,139
+Charles A. 'Chuck' Younger,State Senate,17,R,Lowndes,West Lowndes,504
+Denny Bedwell,State Senate,17,LIB,Lowndes,West Lowndes,17
+Gary A Chims,State House,37,R,Lowndes,West Lowndes,306
+Vicky Rose,State House,37,LIB,Lowndes,West Lowndes,82
+Chelkh Taylor,State House,38,D,Lowndes,West Lowndes,X
+Dana Underwood McLean,State House,39,R,Lowndes,West Lowndes,X
+Kabir Karriem,State House,41,D,Lowndes,West Lowndes,198
+Carl L Mickens,State House,42,D,Lowndes,West Lowndes,X
+Jim Hood,Governor,,D,Lowndes,TOTAL ,8822
+Tate Reeves,Governor,,R,Lowndes,TOTAL ,8838
+Bob Hickingbottom,Governor,,C,Lowndes,TOTAL ,37
+David R Singletary,Governor,,IND,Lowndes,TOTAL ,106
+Delbert Hosemann,Lieutenant Governor,,R,Lowndes,TOTAL ,9780
+Jay Hughes,Lieutenant Governor,,D,Lowndes,TOTAL ,7796
+Johnny DuPree,Secretary of State,,D,Lowndes,TOTAL ,7868
+Michael Watson,Secretary of State,,R,Lowndes,TOTAL ,9625
+Jennifer Riley Collins,Attorney General,,D,Lowndes,TOTAL ,8221
+Lynn Fitch,Attorney General,,R,Lowndes,TOTAL ,9475
+Shad White,State Auditor,,R,Lowndes,TOTAL ,12455
+Addie Lee Green,State Treasurer,,D,Lowndes,TOTAL ,7679
+David McRae,State Treasurer,,R,Lowndes,TOTAL ,9894
+Rickey L Cole,Commissioner of Agriculture & Commerce,,D,Lowndes,TOTAL ,8009
+Andy Gipson,Commissioner of Agriculture & Commerce,,R,Lowndes,TOTAL ,9517
+Angela Turner Ford,State Senate,16,D,Lowndes,TOTAL ,2330
+DeWanna Belton,State Senate,17,D,Lowndes,TOTAL ,5126
+Charles A. 'Chuck' Younger,State Senate,17,R,Lowndes,TOTAL ,9531
+Denny Bedwell,State Senate,17,LIB,Lowndes,TOTAL ,337
+Gary A Chims,State House,37,R,Lowndes,TOTAL ,3972
+Vicky Rose,State House,37,LIB,Lowndes,TOTAL ,953
+Chelkh Taylor,State House,38,D,Lowndes,TOTAL ,191
+Dana Underwood McLean,State House,39,R,Lowndes,TOTAL ,4623
+Kabir Karriem,State House,41,D,Lowndes,TOTAL ,4727
+Carl L Mickens,State House,42,D,Lowndes,TOTAL ,712
+Robert E. Amos,Commissioner of Insurance,,D,Lowndes,Airbase,288
+Mike Chaney,Commissioner of Insurance,,R,Lowndes,Airbase,342
+Robert E. Amos,Commissioner of Insurance,,D,Lowndes,Artesia ,181
+Mike Chaney,Commissioner of Insurance,,R,Lowndes,Artesia ,37
+Robert E. Amos,Commissioner of Insurance,,D,Lowndes,Brandon,445
+Mike Chaney,Commissioner of Insurance,,R,Lowndes,Brandon,657
+Robert E. Amos,Commissioner of Insurance,,D,Lowndes,Caledonnia,258
+Mike Chaney,Commissioner of Insurance,,R,Lowndes,Caledonnia,1670
+Robert E. Amos,Commissioner of Insurance,,D,Lowndes,Coleman,128
+Mike Chaney,Commissioner of Insurance,,R,Lowndes,Coleman,10
+Robert E. Amos,Commissioner of Insurance,,D,Lowndes,Crawford,458
+Mike Chaney,Commissioner of Insurance,,R,Lowndes,Crawford,116
+Robert E. Amos,Commissioner of Insurance,,D,Lowndes,East Columbus Gym,806
+Mike Chaney,Commissioner of Insurance,,R,Lowndes,East Columbus Gym,429
+Robert E. Amos,Commissioner of Insurance,,D,Lowndes,Fifteenth Street Church,331
+Mike Chaney,Commissioner of Insurance,,R,Lowndes,Fifteenth Street Church,94
+Robert E. Amos,Commissioner of Insurance,,D,Lowndes,First Assembly,498
+Mike Chaney,Commissioner of Insurance,,R,Lowndes,First Assembly,1432
+Robert E. Amos,Commissioner of Insurance,,D,Lowndes,Hunt,785
+Mike Chaney,Commissioner of Insurance,,R,Lowndes,Hunt,36
+Robert E. Amos,Commissioner of Insurance,,D,Lowndes,Immanuel,165
+Mike Chaney,Commissioner of Insurance,,R,Lowndes,Immanuel,303
+Robert E. Amos,Commissioner of Insurance,,D,Lowndes,New Hope ,472
+Mike Chaney,Commissioner of Insurance,,R,Lowndes,New Hope ,2175
+Robert E. Amos,Commissioner of Insurance,,D,Lowndes,Plum Grove,212
+Mike Chaney,Commissioner of Insurance,,R,Lowndes,Plum Grove,19
+Robert E. Amos,Commissioner of Insurance,,D,Lowndes,Rural Hill,313
+Mike Chaney,Commissioner of Insurance,,R,Lowndes,Rural Hill,918
+Robert E. Amos,Commissioner of Insurance,,D,Lowndes,Southside Church,1116
+Mike Chaney,Commissioner of Insurance,,R,Lowndes,Southside Church,281
+Robert E. Amos,Commissioner of Insurance,,D,Lowndes,Steens,38
+Mike Chaney,Commissioner of Insurance,,R,Lowndes,Steens,326
+Robert E. Amos,Commissioner of Insurance,,D,Lowndes,Townsend Park,479
+Mike Chaney,Commissioner of Insurance,,R,Lowndes,Townsend Park,53
+Robert E. Amos,Commissioner of Insurance,,D,Lowndes,Trinity,336
+Mike Chaney,Commissioner of Insurance,,R,Lowndes,Trinity,157
+Robert E. Amos,Commissioner of Insurance,,D,Lowndes,University,166
+Mike Chaney,Commissioner of Insurance,,R,Lowndes,University,289
+Robert E. Amos,Commissioner of Insurance,,D,Lowndes,West Lowndes,187
+Mike Chaney,Commissioner of Insurance,,R,Lowndes,West Lowndes,595
+Robert E. Amos,Commissioner of Insurance,,D,Lowndes,TOTAL ,7662
+Mike Chaney,Commissioner of Insurance,,R,Lowndes,TOTAL ,9939

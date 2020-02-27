@@ -1,433 +1,321 @@
-﻿page,candidate,office,district,party,county,precinct,votes
-2,Jim Hood,Governor,,D,Montgomery,Duck Hill,143
-2,Tate Reeves,Governor,,R,Montgomery,Duck Hill,180
-2,Bob Hickingbottom,Governor,,C,Montgomery,Duck Hill,1
-2,David R Singletary,Governor,,IND,Montgomery,Duck Hill,2
-2,Delbert Hosemann,Lieutenant Governor,,R,Montgomery,Duck Hill,197
-2,Jay Hughes,Lieutenant Governor,,D,Montgomery,Duck Hill,122
-2,Johnny DuPree,Secretary of State,,D,Montgomery,Duck Hill,129
-2,Michael Watson,Secretary of State,,R,Montgomery,Duck Hill,184
-2,Jennifer Riley Collins,Attorney General,,D,Montgomery,Duck Hill,132
-2,Lynn Fitch,Attorney General,,R,Montgomery,Duck Hill,192
-2,Shad White,State Auditor,,R,Montgomery,Duck Hill,223
-4,Addie Lee Green,State Treasurer,,D,Montgomery,Duck Hill,120
-4,David McRae,State Treasurer,,R,Montgomery,Duck Hill,199
-4,Rickey L Cole,Commissioner of Agriculture & Commerce,,D,Montgomery,Duck Hill,131
-4,Andy Gipson,Commissioner of Agriculture & Commerce,,R,Montgomery,Duck Hill,188
-6,Lydia Graves Chassaniol,State Senate,14,R,Montgomery,Duck Hill,215
-6,Gary Jackson,State Senate,15,R,Montgomery,Duck Hill,X
-6,Karl Oliver,State House,46,R,Montgomery,Duck Hill,218
-2,Jim Hood,Governor,,D,Montgomery,East Winona,243
-2,Tate Reeves,Governor,,R,Montgomery,East Winona,141
-2,Bob Hickingbottom,Governor,,C,Montgomery,East Winona,2
-2,David R Singletary,Governor,,IND,Montgomery,East Winona,5
-2,Delbert Hosemann,Lieutenant Governor,,R,Montgomery,East Winona,158
-2,Jay Hughes,Lieutenant Governor,,D,Montgomery,East Winona,216
-2,Johnny DuPree,Secretary of State,,D,Montgomery,East Winona,222
-2,Michael Watson,Secretary of State,,R,Montgomery,East Winona,154
-2,Jennifer Riley Collins,Attorney General,,D,Montgomery,East Winona,223
-2,Lynn Fitch,Attorney General,,R,Montgomery,East Winona,159
-2,Shad White,State Auditor,,R,Montgomery,East Winona,232
-4,Addie Lee Green,State Treasurer,,D,Montgomery,East Winona,211
-4,David McRae,State Treasurer,,R,Montgomery,East Winona,167
-4,Rickey L Cole,Commissioner of Agriculture & Commerce,,D,Montgomery,East Winona,220
-4,Andy Gipson,Commissioner of Agriculture & Commerce,,R,Montgomery,East Winona,156
-6,Lydia Graves Chassaniol,State Senate,14,R,Montgomery,East Winona,X
-6,Gary Jackson,State Senate,15,R,Montgomery,East Winona,233
-6,Karl Oliver,State House,46,R,Montgomery,East Winona,238
-2,Jim Hood,Governor,,D,Montgomery,Kilmichael,194
-2,Tate Reeves,Governor,,R,Montgomery,Kilmichael,195
-2,Bob Hickingbottom,Governor,,C,Montgomery,Kilmichael,3
-2,David R Singletary,Governor,,IND,Montgomery,Kilmichael,5
-2,Delbert Hosemann,Lieutenant Governor,,R,Montgomery,Kilmichael,215
-2,Jay Hughes,Lieutenant Governor,,D,Montgomery,Kilmichael,166
-2,Johnny DuPree,Secretary of State,,D,Montgomery,Kilmichael,173
-2,Michael Watson,Secretary of State,,R,Montgomery,Kilmichael,210
-2,Jennifer Riley Collins,Attorney General,,D,Montgomery,Kilmichael,172
-2,Lynn Fitch,Attorney General,,R,Montgomery,Kilmichael,218
-2,Shad White,State Auditor,,R,Montgomery,Kilmichael,266
-4,Addie Lee Green,State Treasurer,,D,Montgomery,Kilmichael,157
-4,David McRae,State Treasurer,,R,Montgomery,Kilmichael,228
-4,Rickey L Cole,Commissioner of Agriculture & Commerce,,D,Montgomery,Kilmichael,173
-4,Andy Gipson,Commissioner of Agriculture & Commerce,,R,Montgomery,Kilmichael,214
-6,Lydia Graves Chassaniol,State Senate,14,R,Montgomery,Kilmichael,X
-6,Gary Jackson,State Senate,15,R,Montgomery,Kilmichael,267
-6,Karl Oliver,State House,46,R,Montgomery,Kilmichael,279
-2,Jim Hood,Governor,,D,Montgomery,Lodi,133
-2,Tate Reeves,Governor,,R,Montgomery,Lodi,39
-2,Bob Hickingbottom,Governor,,C,Montgomery,Lodi,0
-2,David R Singletary,Governor,,IND,Montgomery,Lodi,0
-2,Delbert Hosemann,Lieutenant Governor,,R,Montgomery,Lodi,47
-2,Jay Hughes,Lieutenant Governor,,D,Montgomery,Lodi,117
-2,Johnny DuPree,Secretary of State,,D,Montgomery,Lodi,122
-2,Michael Watson,Secretary of State,,R,Montgomery,Lodi,42
-2,Jennifer Riley Collins,Attorney General,,D,Montgomery,Lodi,125
-2,Lynn Fitch,Attorney General,,R,Montgomery,Lodi,37
-2,Shad White,State Auditor,,R,Montgomery,Lodi,81
-4,Addie Lee Green,State Treasurer,,D,Montgomery,Lodi,119
-4,David McRae,State Treasurer,,R,Montgomery,Lodi,44
-4,Rickey L Cole,Commissioner of Agriculture & Commerce,,D,Montgomery,Lodi,121
-4,Andy Gipson,Commissioner of Agriculture & Commerce,,R,Montgomery,Lodi,43
-6,Lydia Graves Chassaniol,State Senate,14,R,Montgomery,Lodi,X
-6,Gary Jackson,State Senate,15,R,Montgomery,Lodi,82
-6,Karl Oliver,State House,46,R,Montgomery,Lodi,85
-2,Jim Hood,Governor,,D,Montgomery,Mt. Pisgah,15
-2,Tate Reeves,Governor,,R,Montgomery,Mt. Pisgah,100
-2,Bob Hickingbottom,Governor,,C,Montgomery,Mt. Pisgah,0
-2,David R Singletary,Governor,,IND,Montgomery,Mt. Pisgah,1
-2,Delbert Hosemann,Lieutenant Governor,,R,Montgomery,Mt. Pisgah,101
-2,Jay Hughes,Lieutenant Governor,,D,Montgomery,Mt. Pisgah,14
-2,Johnny DuPree,Secretary of State,,D,Montgomery,Mt. Pisgah,13
-2,Michael Watson,Secretary of State,,R,Montgomery,Mt. Pisgah,103
-2,Jennifer Riley Collins,Attorney General,,D,Montgomery,Mt. Pisgah,14
-2,Lynn Fitch,Attorney General,,R,Montgomery,Mt. Pisgah,103
-2,Shad White,State Auditor,,R,Montgomery,Mt. Pisgah,105
-4,Addie Lee Green,State Treasurer,,D,Montgomery,Mt. Pisgah,9
-4,David McRae,State Treasurer,,R,Montgomery,Mt. Pisgah,106
-4,Rickey L Cole,Commissioner of Agriculture & Commerce,,D,Montgomery,Mt. Pisgah,14
-4,Andy Gipson,Commissioner of Agriculture & Commerce,,R,Montgomery,Mt. Pisgah,100
-6,Lydia Graves Chassaniol,State Senate,14,R,Montgomery,Mt. Pisgah,108
-6,Gary Jackson,State Senate,15,R,Montgomery,Mt. Pisgah,X
-6,Karl Oliver,State House,46,R,Montgomery,Mt. Pisgah,107
-2,Jim Hood,Governor,,D,Montgomery,North Duck Hill,75
-2,Tate Reeves,Governor,,R,Montgomery,North Duck Hill,61
-2,Bob Hickingbottom,Governor,,C,Montgomery,North Duck Hill,0
-2,David R Singletary,Governor,,IND,Montgomery,North Duck Hill,1
-2,Delbert Hosemann,Lieutenant Governor,,R,Montgomery,North Duck Hill,64
-2,Jay Hughes,Lieutenant Governor,,D,Montgomery,North Duck Hill,68
-2,Johnny DuPree,Secretary of State,,D,Montgomery,North Duck Hill,62
-2,Michael Watson,Secretary of State,,R,Montgomery,North Duck Hill,68
-2,Jennifer Riley Collins,Attorney General,,D,Montgomery,North Duck Hill,67
-2,Lynn Fitch,Attorney General,,R,Montgomery,North Duck Hill,68
-2,Shad White,State Auditor,,R,Montgomery,North Duck Hill,92
-4,Addie Lee Green,State Treasurer,,D,Montgomery,North Duck Hill,64
-4,David McRae,State Treasurer,,R,Montgomery,North Duck Hill,70
-4,Rickey L Cole,Commissioner of Agriculture & Commerce,,D,Montgomery,North Duck Hill,67
-4,Andy Gipson,Commissioner of Agriculture & Commerce,,R,Montgomery,North Duck Hill,66
-6,Lydia Graves Chassaniol,State Senate,14,R,Montgomery,North Duck Hill,86
-6,Gary Jackson,State Senate,15,R,Montgomery,North Duck Hill,X
-6,Karl Oliver,State House,46,R,Montgomery,North Duck Hill,93
-2,Jim Hood,Governor,,D,Montgomery,North Kilmichael,54
-2,Tate Reeves,Governor,,R,Montgomery,North Kilmichael,12
-2,Bob Hickingbottom,Governor,,C,Montgomery,North Kilmichael,0
-2,David R Singletary,Governor,,IND,Montgomery,North Kilmichael,3
-2,Delbert Hosemann,Lieutenant Governor,,R,Montgomery,North Kilmichael,14
-2,Jay Hughes,Lieutenant Governor,,D,Montgomery,North Kilmichael,51
-2,Johnny DuPree,Secretary of State,,D,Montgomery,North Kilmichael,52
-2,Michael Watson,Secretary of State,,R,Montgomery,North Kilmichael,14
-2,Jennifer Riley Collins,Attorney General,,D,Montgomery,North Kilmichael,51
-2,Lynn Fitch,Attorney General,,R,Montgomery,North Kilmichael,14
-2,Shad White,State Auditor,,R,Montgomery,North Kilmichael,22
-4,Addie Lee Green,State Treasurer,,D,Montgomery,North Kilmichael,52
-4,David McRae,State Treasurer,,R,Montgomery,North Kilmichael,13
-4,Rickey L Cole,Commissioner of Agriculture & Commerce,,D,Montgomery,North Kilmichael,52
-4,Andy Gipson,Commissioner of Agriculture & Commerce,,R,Montgomery,North Kilmichael,13
-6,Lydia Graves Chassaniol,State Senate,14,R,Montgomery,North Kilmichael,X
-6,Gary Jackson,State Senate,15,R,Montgomery,North Kilmichael,25
-6,Karl Oliver,State House,46,R,Montgomery,North Kilmichael,26
-2,Jim Hood,Governor,,D,Montgomery,North Mt Pisgah Sweethome,38
-2,Tate Reeves,Governor,,R,Montgomery,North Mt Pisgah Sweethome,56
-2,Bob Hickingbottom,Governor,,C,Montgomery,North Mt Pisgah Sweethome,1
-2,David R Singletary,Governor,,IND,Montgomery,North Mt Pisgah Sweethome,2
-2,Delbert Hosemann,Lieutenant Governor,,R,Montgomery,North Mt Pisgah Sweethome,59
-2,Jay Hughes,Lieutenant Governor,,D,Montgomery,North Mt Pisgah Sweethome,38
-2,Johnny DuPree,Secretary of State,,D,Montgomery,North Mt Pisgah Sweethome,40
-2,Michael Watson,Secretary of State,,R,Montgomery,North Mt Pisgah Sweethome,56
-2,Jennifer Riley Collins,Attorney General,,D,Montgomery,North Mt Pisgah Sweethome,38
-2,Lynn Fitch,Attorney General,,R,Montgomery,North Mt Pisgah Sweethome,58
-2,Shad White,State Auditor,,R,Montgomery,North Mt Pisgah Sweethome,81
-4,Addie Lee Green,State Treasurer,,D,Montgomery,North Mt Pisgah Sweethome,35
-4,David McRae,State Treasurer,,R,Montgomery,North Mt Pisgah Sweethome,62
-4,Rickey L Cole,Commissioner of Agriculture & Commerce,,D,Montgomery,North Mt Pisgah Sweethome,42
-4,Andy Gipson,Commissioner of Agriculture & Commerce,,R,Montgomery,North Mt Pisgah Sweethome,55
-6,Lydia Graves Chassaniol,State Senate,14,R,Montgomery,North Mt Pisgah Sweethome,76
-6,Gary Jackson,State Senate,15,R,Montgomery,North Mt Pisgah Sweethome,X
-6,Karl Oliver,State House,46,R,Montgomery,North Mt Pisgah Sweethome,79
-2,Jim Hood,Governor,,D,Montgomery,North Winona,175
-2,Tate Reeves,Governor,,R,Montgomery,North Winona,407
-2,Bob Hickingbottom,Governor,,C,Montgomery,North Winona,0
-2,David R Singletary,Governor,,IND,Montgomery,North Winona,7
-2,Delbert Hosemann,Lieutenant Governor,,R,Montgomery,North Winona,443
-2,Jay Hughes,Lieutenant Governor,,D,Montgomery,North Winona,141
-2,Johnny DuPree,Secretary of State,,D,Montgomery,North Winona,118
-2,Michael Watson,Secretary of State,,R,Montgomery,North Winona,458
-2,Jennifer Riley Collins,Attorney General,,D,Montgomery,North Winona,112
-2,Lynn Fitch,Attorney General,,R,Montgomery,North Winona,471
-2,Shad White,State Auditor,,R,Montgomery,North Winona,508
-4,Addie Lee Green,State Treasurer,,D,Montgomery,North Winona,99
-4,David McRae,State Treasurer,,R,Montgomery,North Winona,485
-4,Rickey L Cole,Commissioner of Agriculture & Commerce,,D,Montgomery,North Winona,115
-4,Andy Gipson,Commissioner of Agriculture & Commerce,,R,Montgomery,North Winona,463
-6,Lydia Graves Chassaniol,State Senate,14,R,Montgomery,North Winona,499
-6,Gary Jackson,State Senate,15,R,Montgomery,North Winona,X
-6,Karl Oliver,State House,46,R,Montgomery,North Winona,514
-2,Jim Hood,Governor,,D,Montgomery,Nations,41
-2,Tate Reeves,Governor,,R,Montgomery,Nations,163
-2,Bob Hickingbottom,Governor,,C,Montgomery,Nations,0
-2,David R Singletary,Governor,,IND,Montgomery,Nations,2
-2,Delbert Hosemann,Lieutenant Governor,,R,Montgomery,Nations,165
-2,Jay Hughes,Lieutenant Governor,,D,Montgomery,Nations,34
-2,Johnny DuPree,Secretary of State,,D,Montgomery,Nations,29
-2,Michael Watson,Secretary of State,,R,Montgomery,Nations,168
-2,Jennifer Riley Collins,Attorney General,,D,Montgomery,Nations,32
-2,Lynn Fitch,Attorney General,,R,Montgomery,Nations,172
-2,Shad White,State Auditor,,R,Montgomery,Nations,174
-4,Addie Lee Green,State Treasurer,,D,Montgomery,Nations,22
-4,David McRae,State Treasurer,,R,Montgomery,Nations,175
-4,Rickey L Cole,Commissioner of Agriculture & Commerce,,D,Montgomery,Nations,29
-4,Andy Gipson,Commissioner of Agriculture & Commerce,,R,Montgomery,Nations,167
-6,Lydia Graves Chassaniol,State Senate,14,R,Montgomery,Nations,X
-6,Gary Jackson,State Senate,15,R,Montgomery,Nations,177
-6,Karl Oliver,State House,46,R,Montgomery,Nations,189
-2,Jim Hood,Governor,,D,Montgomery,Poplar Creek,12
-2,Tate Reeves,Governor,,R,Montgomery,Poplar Creek,63
-2,Bob Hickingbottom,Governor,,C,Montgomery,Poplar Creek,2
-2,David R Singletary,Governor,,IND,Montgomery,Poplar Creek,2
-2,Delbert Hosemann,Lieutenant Governor,,R,Montgomery,Poplar Creek,62
-2,Jay Hughes,Lieutenant Governor,,D,Montgomery,Poplar Creek,13
-2,Johnny DuPree,Secretary of State,,D,Montgomery,Poplar Creek,12
-2,Michael Watson,Secretary of State,,R,Montgomery,Poplar Creek,67
-2,Jennifer Riley Collins,Attorney General,,D,Montgomery,Poplar Creek,14
-2,Lynn Fitch,Attorney General,,R,Montgomery,Poplar Creek,61
-2,Shad White,State Auditor,,R,Montgomery,Poplar Creek,70
-4,Addie Lee Green,State Treasurer,,D,Montgomery,Poplar Creek,6
-4,David McRae,State Treasurer,,R,Montgomery,Poplar Creek,71
-4,Rickey L Cole,Commissioner of Agriculture & Commerce,,D,Montgomery,Poplar Creek,9
-4,Andy Gipson,Commissioner of Agriculture & Commerce,,R,Montgomery,Poplar Creek,67
-6,Lydia Graves Chassaniol,State Senate,14,R,Montgomery,Poplar Creek,X
-6,Gary Jackson,State Senate,15,R,Montgomery,Poplar Creek,70
-6,Karl Oliver,State House,46,R,Montgomery,Poplar Creek,70
-3,Jim Hood,Governor,,D,Montgomery,South Winona,492
-3,Tate Reeves,Governor,,R,Montgomery,South Winona,162
-3,Bob Hickingbottom,Governor,,C,Montgomery,South Winona,3
-3,David R Singletary,Governor,,IND,Montgomery,South Winona,7
-3,Delbert Hosemann,Lieutenant Governor,,R,Montgomery,South Winona,202
-3,Jay Hughes,Lieutenant Governor,,D,Montgomery,South Winona,441
-3,Johnny DuPree,Secretary of State,,D,Montgomery,South Winona,460
-3,Michael Watson,Secretary of State,,R,Montgomery,South Winona,182
-3,Jennifer Riley Collins,Attorney General,,D,Montgomery,South Winona,468
-3,Lynn Fitch,Attorney General,,R,Montgomery,South Winona,191
-3,Shad White,State Auditor,,R,Montgomery,South Winona,358
-5,Addie Lee Green,State Treasurer,,D,Montgomery,South Winona,448
-5,David McRae,State Treasurer,,R,Montgomery,South Winona,197
-5,Rickey L Cole,Commissioner of Agriculture & Commerce,,D,Montgomery,South Winona,453
-5,Andy Gipson,Commissioner of Agriculture & Commerce,,R,Montgomery,South Winona,190
-7,Lydia Graves Chassaniol,State Senate,14,R,Montgomery,South Winona,371
-7,Gary Jackson,State Senate,15,R,Montgomery,South Winona,X
-7,Karl Oliver,State House,46,R,Montgomery,South Winona,376
-3,Jim Hood,Governor,,D,Montgomery,Southeast Winona,62
-3,Tate Reeves,Governor,,R,Montgomery,Southeast Winona,60
-3,Bob Hickingbottom,Governor,,C,Montgomery,Southeast Winona,0
-3,David R Singletary,Governor,,IND,Montgomery,Southeast Winona,0
-3,Delbert Hosemann,Lieutenant Governor,,R,Montgomery,Southeast Winona,68
-3,Jay Hughes,Lieutenant Governor,,D,Montgomery,Southeast Winona,50
-3,Johnny DuPree,Secretary of State,,D,Montgomery,Southeast Winona,55
-3,Michael Watson,Secretary of State,,R,Montgomery,Southeast Winona,61
-3,Jennifer Riley Collins,Attorney General,,D,Montgomery,Southeast Winona,54
-3,Lynn Fitch,Attorney General,,R,Montgomery,Southeast Winona,65
-3,Shad White,State Auditor,,R,Montgomery,Southeast Winona,90
-5,Addie Lee Green,State Treasurer,,D,Montgomery,Southeast Winona,47
-5,David McRae,State Treasurer,,R,Montgomery,Southeast Winona,69
-5,Rickey L Cole,Commissioner of Agriculture & Commerce,,D,Montgomery,Southeast Winona,56
-5,Andy Gipson,Commissioner of Agriculture & Commerce,,R,Montgomery,Southeast Winona,60
-7,Lydia Graves Chassaniol,State Senate,14,R,Montgomery,Southeast Winona,88
-7,Gary Jackson,State Senate,15,R,Montgomery,Southeast Winona,X
-7,Karl Oliver,State House,46,R,Montgomery,Southeast Winona,90
-3,Jim Hood,Governor,,D,Montgomery,Stewart,9
-3,Tate Reeves,Governor,,R,Montgomery,Stewart,55
-3,Bob Hickingbottom,Governor,,C,Montgomery,Stewart,1
-3,David R Singletary,Governor,,IND,Montgomery,Stewart,1
-3,Delbert Hosemann,Lieutenant Governor,,R,Montgomery,Stewart,60
-3,Jay Hughes,Lieutenant Governor,,D,Montgomery,Stewart,6
-3,Johnny DuPree,Secretary of State,,D,Montgomery,Stewart,8
-3,Michael Watson,Secretary of State,,R,Montgomery,Stewart,58
-3,Jennifer Riley Collins,Attorney General,,D,Montgomery,Stewart,6
-3,Lynn Fitch,Attorney General,,R,Montgomery,Stewart,60
-3,Shad White,State Auditor,,R,Montgomery,Stewart,56
-5,Addie Lee Green,State Treasurer,,D,Montgomery,Stewart,6
-5,David McRae,State Treasurer,,R,Montgomery,Stewart,60
-5,Rickey L Cole,Commissioner of Agriculture & Commerce,,D,Montgomery,Stewart,8
-5,Andy Gipson,Commissioner of Agriculture & Commerce,,R,Montgomery,Stewart,58
-7,Lydia Graves Chassaniol,State Senate,14,R,Montgomery,Stewart,X
-7,Gary Jackson,State Senate,15,R,Montgomery,Stewart,59
-7,Karl Oliver,State House,46,R,Montgomery,Stewart,58
-3,Jim Hood,Governor,,D,Montgomery,West Winona,135
-3,Tate Reeves,Governor,,R,Montgomery,West Winona,310
-3,Bob Hickingbottom,Governor,,C,Montgomery,West Winona,3
-3,David R Singletary,Governor,,IND,Montgomery,West Winona,7
-3,Delbert Hosemann,Lieutenant Governor,,R,Montgomery,West Winona,330
-3,Jay Hughes,Lieutenant Governor,,D,Montgomery,West Winona,115
-3,Johnny DuPree,Secretary of State,,D,Montgomery,West Winona,104
-3,Michael Watson,Secretary of State,,R,Montgomery,West Winona,339
-3,Jennifer Riley Collins,Attorney General,,D,Montgomery,West Winona,103
-3,Lynn Fitch,Attorney General,,R,Montgomery,West Winona,345
-3,Shad White,State Auditor,,R,Montgomery,West Winona,387
-5,Addie Lee Green,State Treasurer,,D,Montgomery,West Winona,87
-5,David McRae,State Treasurer,,R,Montgomery,West Winona,358
-5,Rickey L Cole,Commissioner of Agriculture & Commerce,,D,Montgomery,West Winona,98
-5,Andy Gipson,Commissioner of Agriculture & Commerce,,R,Montgomery,West Winona,348
-7,Lydia Graves Chassaniol,State Senate,14,R,Montgomery,West Winona,396
-7,Gary Jackson,State Senate,15,R,Montgomery,West Winona,X
-7,Karl Oliver,State House,46,R,Montgomery,West Winona,403
-3,Jim Hood,Governor,,D,Montgomery,TOTAL ,1821
-3,Tate Reeves,Governor,,R,Montgomery,TOTAL ,2004
-3,Bob Hickingbottom,Governor,,C,Montgomery,TOTAL ,16
-3,David R Singletary,Governor,,IND,Montgomery,TOTAL ,45
-3,Delbert Hosemann,Lieutenant Governor,,R,Montgomery,TOTAL ,2185
-3,Jay Hughes,Lieutenant Governor,,D,Montgomery,TOTAL ,1592
-3,Johnny DuPree,Secretary of State,,D,Montgomery,TOTAL ,1599
-3,Michael Watson,Secretary of State,,R,Montgomery,TOTAL ,2161
-3,Jennifer Riley Collins,Attorney General,,D,Montgomery,TOTAL ,1611
-3,Lynn Fitch,Attorney General,,R,Montgomery,TOTAL ,2214
-3,Shad White,State Auditor,,R,Montgomery,TOTAL ,2745
-5,Addie Lee Green,State Treasurer,,D,Montgomery,TOTAL ,1482
-5,David McRae,State Treasurer,,R,Montgomery,TOTAL ,2304
-5,Rickey L Cole,Commissioner of Agriculture & Commerce,,D,Montgomery,TOTAL ,1588
-5,Andy Gipson,Commissioner of Agriculture & Commerce,,R,Montgomery,TOTAL ,2188
-7,Lydia Graves Chassaniol,State Senate,14,R,Montgomery,TOTAL ,1839
-7,Gary Jackson,State Senate,15,R,Montgomery,TOTAL ,913
-7,Karl Oliver,State House,46,R,Montgomery,TOTAL ,2825
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
+﻿candidate,office,district,party,county,precinct,votes
+Jim Hood,Governor,,D,Montgomery,Duck Hill,143
+Tate Reeves,Governor,,R,Montgomery,Duck Hill,180
+Bob Hickingbottom,Governor,,C,Montgomery,Duck Hill,1
+David R Singletary,Governor,,IND,Montgomery,Duck Hill,2
+Delbert Hosemann,Lieutenant Governor,,R,Montgomery,Duck Hill,197
+Jay Hughes,Lieutenant Governor,,D,Montgomery,Duck Hill,122
+Johnny DuPree,Secretary of State,,D,Montgomery,Duck Hill,129
+Michael Watson,Secretary of State,,R,Montgomery,Duck Hill,184
+Jennifer Riley Collins,Attorney General,,D,Montgomery,Duck Hill,132
+Lynn Fitch,Attorney General,,R,Montgomery,Duck Hill,192
+Shad White,State Auditor,,R,Montgomery,Duck Hill,223
+Addie Lee Green,State Treasurer,,D,Montgomery,Duck Hill,120
+David McRae,State Treasurer,,R,Montgomery,Duck Hill,199
+Rickey L Cole,Commissioner of Agriculture & Commerce,,D,Montgomery,Duck Hill,131
+Andy Gipson,Commissioner of Agriculture & Commerce,,R,Montgomery,Duck Hill,188
+Lydia Graves Chassaniol,State Senate,14,R,Montgomery,Duck Hill,215
+Gary Jackson,State Senate,15,R,Montgomery,Duck Hill,X
+Karl Oliver,State House,46,R,Montgomery,Duck Hill,218
+Jim Hood,Governor,,D,Montgomery,East Winona,243
+Tate Reeves,Governor,,R,Montgomery,East Winona,141
+Bob Hickingbottom,Governor,,C,Montgomery,East Winona,2
+David R Singletary,Governor,,IND,Montgomery,East Winona,5
+Delbert Hosemann,Lieutenant Governor,,R,Montgomery,East Winona,158
+Jay Hughes,Lieutenant Governor,,D,Montgomery,East Winona,216
+Johnny DuPree,Secretary of State,,D,Montgomery,East Winona,222
+Michael Watson,Secretary of State,,R,Montgomery,East Winona,154
+Jennifer Riley Collins,Attorney General,,D,Montgomery,East Winona,223
+Lynn Fitch,Attorney General,,R,Montgomery,East Winona,159
+Shad White,State Auditor,,R,Montgomery,East Winona,232
+Addie Lee Green,State Treasurer,,D,Montgomery,East Winona,211
+David McRae,State Treasurer,,R,Montgomery,East Winona,167
+Rickey L Cole,Commissioner of Agriculture & Commerce,,D,Montgomery,East Winona,220
+Andy Gipson,Commissioner of Agriculture & Commerce,,R,Montgomery,East Winona,156
+Lydia Graves Chassaniol,State Senate,14,R,Montgomery,East Winona,X
+Gary Jackson,State Senate,15,R,Montgomery,East Winona,233
+Karl Oliver,State House,46,R,Montgomery,East Winona,238
+Jim Hood,Governor,,D,Montgomery,Kilmichael,194
+Tate Reeves,Governor,,R,Montgomery,Kilmichael,195
+Bob Hickingbottom,Governor,,C,Montgomery,Kilmichael,3
+David R Singletary,Governor,,IND,Montgomery,Kilmichael,5
+Delbert Hosemann,Lieutenant Governor,,R,Montgomery,Kilmichael,215
+Jay Hughes,Lieutenant Governor,,D,Montgomery,Kilmichael,166
+Johnny DuPree,Secretary of State,,D,Montgomery,Kilmichael,173
+Michael Watson,Secretary of State,,R,Montgomery,Kilmichael,210
+Jennifer Riley Collins,Attorney General,,D,Montgomery,Kilmichael,172
+Lynn Fitch,Attorney General,,R,Montgomery,Kilmichael,218
+Shad White,State Auditor,,R,Montgomery,Kilmichael,266
+Addie Lee Green,State Treasurer,,D,Montgomery,Kilmichael,157
+David McRae,State Treasurer,,R,Montgomery,Kilmichael,228
+Rickey L Cole,Commissioner of Agriculture & Commerce,,D,Montgomery,Kilmichael,173
+Andy Gipson,Commissioner of Agriculture & Commerce,,R,Montgomery,Kilmichael,214
+Lydia Graves Chassaniol,State Senate,14,R,Montgomery,Kilmichael,X
+Gary Jackson,State Senate,15,R,Montgomery,Kilmichael,267
+Karl Oliver,State House,46,R,Montgomery,Kilmichael,279
+Jim Hood,Governor,,D,Montgomery,Lodi,133
+Tate Reeves,Governor,,R,Montgomery,Lodi,39
+Bob Hickingbottom,Governor,,C,Montgomery,Lodi,0
+David R Singletary,Governor,,IND,Montgomery,Lodi,0
+Delbert Hosemann,Lieutenant Governor,,R,Montgomery,Lodi,47
+Jay Hughes,Lieutenant Governor,,D,Montgomery,Lodi,117
+Johnny DuPree,Secretary of State,,D,Montgomery,Lodi,122
+Michael Watson,Secretary of State,,R,Montgomery,Lodi,42
+Jennifer Riley Collins,Attorney General,,D,Montgomery,Lodi,125
+Lynn Fitch,Attorney General,,R,Montgomery,Lodi,37
+Shad White,State Auditor,,R,Montgomery,Lodi,81
+Addie Lee Green,State Treasurer,,D,Montgomery,Lodi,119
+David McRae,State Treasurer,,R,Montgomery,Lodi,44
+Rickey L Cole,Commissioner of Agriculture & Commerce,,D,Montgomery,Lodi,121
+Andy Gipson,Commissioner of Agriculture & Commerce,,R,Montgomery,Lodi,43
+Lydia Graves Chassaniol,State Senate,14,R,Montgomery,Lodi,X
+Gary Jackson,State Senate,15,R,Montgomery,Lodi,82
+Karl Oliver,State House,46,R,Montgomery,Lodi,85
+Jim Hood,Governor,,D,Montgomery,Mt. Pisgah,15
+Tate Reeves,Governor,,R,Montgomery,Mt. Pisgah,100
+Bob Hickingbottom,Governor,,C,Montgomery,Mt. Pisgah,0
+David R Singletary,Governor,,IND,Montgomery,Mt. Pisgah,1
+Delbert Hosemann,Lieutenant Governor,,R,Montgomery,Mt. Pisgah,101
+Jay Hughes,Lieutenant Governor,,D,Montgomery,Mt. Pisgah,14
+Johnny DuPree,Secretary of State,,D,Montgomery,Mt. Pisgah,13
+Michael Watson,Secretary of State,,R,Montgomery,Mt. Pisgah,103
+Jennifer Riley Collins,Attorney General,,D,Montgomery,Mt. Pisgah,14
+Lynn Fitch,Attorney General,,R,Montgomery,Mt. Pisgah,103
+Shad White,State Auditor,,R,Montgomery,Mt. Pisgah,105
+Addie Lee Green,State Treasurer,,D,Montgomery,Mt. Pisgah,9
+David McRae,State Treasurer,,R,Montgomery,Mt. Pisgah,106
+Rickey L Cole,Commissioner of Agriculture & Commerce,,D,Montgomery,Mt. Pisgah,14
+Andy Gipson,Commissioner of Agriculture & Commerce,,R,Montgomery,Mt. Pisgah,100
+Lydia Graves Chassaniol,State Senate,14,R,Montgomery,Mt. Pisgah,108
+Gary Jackson,State Senate,15,R,Montgomery,Mt. Pisgah,X
+Karl Oliver,State House,46,R,Montgomery,Mt. Pisgah,107
+Jim Hood,Governor,,D,Montgomery,North Duck Hill,75
+Tate Reeves,Governor,,R,Montgomery,North Duck Hill,61
+Bob Hickingbottom,Governor,,C,Montgomery,North Duck Hill,0
+David R Singletary,Governor,,IND,Montgomery,North Duck Hill,1
+Delbert Hosemann,Lieutenant Governor,,R,Montgomery,North Duck Hill,64
+Jay Hughes,Lieutenant Governor,,D,Montgomery,North Duck Hill,68
+Johnny DuPree,Secretary of State,,D,Montgomery,North Duck Hill,62
+Michael Watson,Secretary of State,,R,Montgomery,North Duck Hill,68
+Jennifer Riley Collins,Attorney General,,D,Montgomery,North Duck Hill,67
+Lynn Fitch,Attorney General,,R,Montgomery,North Duck Hill,68
+Shad White,State Auditor,,R,Montgomery,North Duck Hill,92
+Addie Lee Green,State Treasurer,,D,Montgomery,North Duck Hill,64
+David McRae,State Treasurer,,R,Montgomery,North Duck Hill,70
+Rickey L Cole,Commissioner of Agriculture & Commerce,,D,Montgomery,North Duck Hill,67
+Andy Gipson,Commissioner of Agriculture & Commerce,,R,Montgomery,North Duck Hill,66
+Lydia Graves Chassaniol,State Senate,14,R,Montgomery,North Duck Hill,86
+Gary Jackson,State Senate,15,R,Montgomery,North Duck Hill,X
+Karl Oliver,State House,46,R,Montgomery,North Duck Hill,93
+Jim Hood,Governor,,D,Montgomery,North Kilmichael,54
+Tate Reeves,Governor,,R,Montgomery,North Kilmichael,12
+Bob Hickingbottom,Governor,,C,Montgomery,North Kilmichael,0
+David R Singletary,Governor,,IND,Montgomery,North Kilmichael,3
+Delbert Hosemann,Lieutenant Governor,,R,Montgomery,North Kilmichael,14
+Jay Hughes,Lieutenant Governor,,D,Montgomery,North Kilmichael,51
+Johnny DuPree,Secretary of State,,D,Montgomery,North Kilmichael,52
+Michael Watson,Secretary of State,,R,Montgomery,North Kilmichael,14
+Jennifer Riley Collins,Attorney General,,D,Montgomery,North Kilmichael,51
+Lynn Fitch,Attorney General,,R,Montgomery,North Kilmichael,14
+Shad White,State Auditor,,R,Montgomery,North Kilmichael,22
+Addie Lee Green,State Treasurer,,D,Montgomery,North Kilmichael,52
+David McRae,State Treasurer,,R,Montgomery,North Kilmichael,13
+Rickey L Cole,Commissioner of Agriculture & Commerce,,D,Montgomery,North Kilmichael,52
+Andy Gipson,Commissioner of Agriculture & Commerce,,R,Montgomery,North Kilmichael,13
+Lydia Graves Chassaniol,State Senate,14,R,Montgomery,North Kilmichael,X
+Gary Jackson,State Senate,15,R,Montgomery,North Kilmichael,25
+Karl Oliver,State House,46,R,Montgomery,North Kilmichael,26
+Jim Hood,Governor,,D,Montgomery,North Mt Pisgah Sweethome,38
+Tate Reeves,Governor,,R,Montgomery,North Mt Pisgah Sweethome,56
+Bob Hickingbottom,Governor,,C,Montgomery,North Mt Pisgah Sweethome,1
+David R Singletary,Governor,,IND,Montgomery,North Mt Pisgah Sweethome,2
+Delbert Hosemann,Lieutenant Governor,,R,Montgomery,North Mt Pisgah Sweethome,59
+Jay Hughes,Lieutenant Governor,,D,Montgomery,North Mt Pisgah Sweethome,38
+Johnny DuPree,Secretary of State,,D,Montgomery,North Mt Pisgah Sweethome,40
+Michael Watson,Secretary of State,,R,Montgomery,North Mt Pisgah Sweethome,56
+Jennifer Riley Collins,Attorney General,,D,Montgomery,North Mt Pisgah Sweethome,38
+Lynn Fitch,Attorney General,,R,Montgomery,North Mt Pisgah Sweethome,58
+Shad White,State Auditor,,R,Montgomery,North Mt Pisgah Sweethome,81
+Addie Lee Green,State Treasurer,,D,Montgomery,North Mt Pisgah Sweethome,35
+David McRae,State Treasurer,,R,Montgomery,North Mt Pisgah Sweethome,62
+Rickey L Cole,Commissioner of Agriculture & Commerce,,D,Montgomery,North Mt Pisgah Sweethome,42
+Andy Gipson,Commissioner of Agriculture & Commerce,,R,Montgomery,North Mt Pisgah Sweethome,55
+Lydia Graves Chassaniol,State Senate,14,R,Montgomery,North Mt Pisgah Sweethome,76
+Gary Jackson,State Senate,15,R,Montgomery,North Mt Pisgah Sweethome,X
+Karl Oliver,State House,46,R,Montgomery,North Mt Pisgah Sweethome,79
+Jim Hood,Governor,,D,Montgomery,North Winona,175
+Tate Reeves,Governor,,R,Montgomery,North Winona,407
+Bob Hickingbottom,Governor,,C,Montgomery,North Winona,0
+David R Singletary,Governor,,IND,Montgomery,North Winona,7
+Delbert Hosemann,Lieutenant Governor,,R,Montgomery,North Winona,443
+Jay Hughes,Lieutenant Governor,,D,Montgomery,North Winona,141
+Johnny DuPree,Secretary of State,,D,Montgomery,North Winona,118
+Michael Watson,Secretary of State,,R,Montgomery,North Winona,458
+Jennifer Riley Collins,Attorney General,,D,Montgomery,North Winona,112
+Lynn Fitch,Attorney General,,R,Montgomery,North Winona,471
+Shad White,State Auditor,,R,Montgomery,North Winona,508
+Addie Lee Green,State Treasurer,,D,Montgomery,North Winona,99
+David McRae,State Treasurer,,R,Montgomery,North Winona,485
+Rickey L Cole,Commissioner of Agriculture & Commerce,,D,Montgomery,North Winona,115
+Andy Gipson,Commissioner of Agriculture & Commerce,,R,Montgomery,North Winona,463
+Lydia Graves Chassaniol,State Senate,14,R,Montgomery,North Winona,499
+Gary Jackson,State Senate,15,R,Montgomery,North Winona,X
+Karl Oliver,State House,46,R,Montgomery,North Winona,514
+Jim Hood,Governor,,D,Montgomery,Nations,41
+Tate Reeves,Governor,,R,Montgomery,Nations,163
+Bob Hickingbottom,Governor,,C,Montgomery,Nations,0
+David R Singletary,Governor,,IND,Montgomery,Nations,2
+Delbert Hosemann,Lieutenant Governor,,R,Montgomery,Nations,165
+Jay Hughes,Lieutenant Governor,,D,Montgomery,Nations,34
+Johnny DuPree,Secretary of State,,D,Montgomery,Nations,29
+Michael Watson,Secretary of State,,R,Montgomery,Nations,168
+Jennifer Riley Collins,Attorney General,,D,Montgomery,Nations,32
+Lynn Fitch,Attorney General,,R,Montgomery,Nations,172
+Shad White,State Auditor,,R,Montgomery,Nations,174
+Addie Lee Green,State Treasurer,,D,Montgomery,Nations,22
+David McRae,State Treasurer,,R,Montgomery,Nations,175
+Rickey L Cole,Commissioner of Agriculture & Commerce,,D,Montgomery,Nations,29
+Andy Gipson,Commissioner of Agriculture & Commerce,,R,Montgomery,Nations,167
+Lydia Graves Chassaniol,State Senate,14,R,Montgomery,Nations,X
+Gary Jackson,State Senate,15,R,Montgomery,Nations,177
+Karl Oliver,State House,46,R,Montgomery,Nations,189
+Jim Hood,Governor,,D,Montgomery,Poplar Creek,12
+Tate Reeves,Governor,,R,Montgomery,Poplar Creek,63
+Bob Hickingbottom,Governor,,C,Montgomery,Poplar Creek,2
+David R Singletary,Governor,,IND,Montgomery,Poplar Creek,2
+Delbert Hosemann,Lieutenant Governor,,R,Montgomery,Poplar Creek,62
+Jay Hughes,Lieutenant Governor,,D,Montgomery,Poplar Creek,13
+Johnny DuPree,Secretary of State,,D,Montgomery,Poplar Creek,12
+Michael Watson,Secretary of State,,R,Montgomery,Poplar Creek,67
+Jennifer Riley Collins,Attorney General,,D,Montgomery,Poplar Creek,14
+Lynn Fitch,Attorney General,,R,Montgomery,Poplar Creek,61
+Shad White,State Auditor,,R,Montgomery,Poplar Creek,70
+Addie Lee Green,State Treasurer,,D,Montgomery,Poplar Creek,6
+David McRae,State Treasurer,,R,Montgomery,Poplar Creek,71
+Rickey L Cole,Commissioner of Agriculture & Commerce,,D,Montgomery,Poplar Creek,9
+Andy Gipson,Commissioner of Agriculture & Commerce,,R,Montgomery,Poplar Creek,67
+Lydia Graves Chassaniol,State Senate,14,R,Montgomery,Poplar Creek,X
+Gary Jackson,State Senate,15,R,Montgomery,Poplar Creek,70
+Karl Oliver,State House,46,R,Montgomery,Poplar Creek,70
+Jim Hood,Governor,,D,Montgomery,South Winona,492
+Tate Reeves,Governor,,R,Montgomery,South Winona,162
+Bob Hickingbottom,Governor,,C,Montgomery,South Winona,3
+David R Singletary,Governor,,IND,Montgomery,South Winona,7
+Delbert Hosemann,Lieutenant Governor,,R,Montgomery,South Winona,202
+Jay Hughes,Lieutenant Governor,,D,Montgomery,South Winona,441
+Johnny DuPree,Secretary of State,,D,Montgomery,South Winona,460
+Michael Watson,Secretary of State,,R,Montgomery,South Winona,182
+Jennifer Riley Collins,Attorney General,,D,Montgomery,South Winona,468
+Lynn Fitch,Attorney General,,R,Montgomery,South Winona,191
+Shad White,State Auditor,,R,Montgomery,South Winona,358
+Addie Lee Green,State Treasurer,,D,Montgomery,South Winona,448
+David McRae,State Treasurer,,R,Montgomery,South Winona,197
+Rickey L Cole,Commissioner of Agriculture & Commerce,,D,Montgomery,South Winona,453
+Andy Gipson,Commissioner of Agriculture & Commerce,,R,Montgomery,South Winona,190
+Lydia Graves Chassaniol,State Senate,14,R,Montgomery,South Winona,371
+Gary Jackson,State Senate,15,R,Montgomery,South Winona,X
+Karl Oliver,State House,46,R,Montgomery,South Winona,376
+Jim Hood,Governor,,D,Montgomery,Southeast Winona,62
+Tate Reeves,Governor,,R,Montgomery,Southeast Winona,60
+Bob Hickingbottom,Governor,,C,Montgomery,Southeast Winona,0
+David R Singletary,Governor,,IND,Montgomery,Southeast Winona,0
+Delbert Hosemann,Lieutenant Governor,,R,Montgomery,Southeast Winona,68
+Jay Hughes,Lieutenant Governor,,D,Montgomery,Southeast Winona,50
+Johnny DuPree,Secretary of State,,D,Montgomery,Southeast Winona,55
+Michael Watson,Secretary of State,,R,Montgomery,Southeast Winona,61
+Jennifer Riley Collins,Attorney General,,D,Montgomery,Southeast Winona,54
+Lynn Fitch,Attorney General,,R,Montgomery,Southeast Winona,65
+Shad White,State Auditor,,R,Montgomery,Southeast Winona,90
+Addie Lee Green,State Treasurer,,D,Montgomery,Southeast Winona,47
+David McRae,State Treasurer,,R,Montgomery,Southeast Winona,69
+Rickey L Cole,Commissioner of Agriculture & Commerce,,D,Montgomery,Southeast Winona,56
+Andy Gipson,Commissioner of Agriculture & Commerce,,R,Montgomery,Southeast Winona,60
+Lydia Graves Chassaniol,State Senate,14,R,Montgomery,Southeast Winona,88
+Gary Jackson,State Senate,15,R,Montgomery,Southeast Winona,X
+Karl Oliver,State House,46,R,Montgomery,Southeast Winona,90
+Jim Hood,Governor,,D,Montgomery,Stewart,9
+Tate Reeves,Governor,,R,Montgomery,Stewart,55
+Bob Hickingbottom,Governor,,C,Montgomery,Stewart,1
+David R Singletary,Governor,,IND,Montgomery,Stewart,1
+Delbert Hosemann,Lieutenant Governor,,R,Montgomery,Stewart,60
+Jay Hughes,Lieutenant Governor,,D,Montgomery,Stewart,6
+Johnny DuPree,Secretary of State,,D,Montgomery,Stewart,8
+Michael Watson,Secretary of State,,R,Montgomery,Stewart,58
+Jennifer Riley Collins,Attorney General,,D,Montgomery,Stewart,6
+Lynn Fitch,Attorney General,,R,Montgomery,Stewart,60
+Shad White,State Auditor,,R,Montgomery,Stewart,56
+Addie Lee Green,State Treasurer,,D,Montgomery,Stewart,6
+David McRae,State Treasurer,,R,Montgomery,Stewart,60
+Rickey L Cole,Commissioner of Agriculture & Commerce,,D,Montgomery,Stewart,8
+Andy Gipson,Commissioner of Agriculture & Commerce,,R,Montgomery,Stewart,58
+Lydia Graves Chassaniol,State Senate,14,R,Montgomery,Stewart,X
+Gary Jackson,State Senate,15,R,Montgomery,Stewart,59
+Karl Oliver,State House,46,R,Montgomery,Stewart,58
+Jim Hood,Governor,,D,Montgomery,West Winona,135
+Tate Reeves,Governor,,R,Montgomery,West Winona,310
+Bob Hickingbottom,Governor,,C,Montgomery,West Winona,3
+David R Singletary,Governor,,IND,Montgomery,West Winona,7
+Delbert Hosemann,Lieutenant Governor,,R,Montgomery,West Winona,330
+Jay Hughes,Lieutenant Governor,,D,Montgomery,West Winona,115
+Johnny DuPree,Secretary of State,,D,Montgomery,West Winona,104
+Michael Watson,Secretary of State,,R,Montgomery,West Winona,339
+Jennifer Riley Collins,Attorney General,,D,Montgomery,West Winona,103
+Lynn Fitch,Attorney General,,R,Montgomery,West Winona,345
+Shad White,State Auditor,,R,Montgomery,West Winona,387
+Addie Lee Green,State Treasurer,,D,Montgomery,West Winona,87
+David McRae,State Treasurer,,R,Montgomery,West Winona,358
+Rickey L Cole,Commissioner of Agriculture & Commerce,,D,Montgomery,West Winona,98
+Andy Gipson,Commissioner of Agriculture & Commerce,,R,Montgomery,West Winona,348
+Lydia Graves Chassaniol,State Senate,14,R,Montgomery,West Winona,396
+Gary Jackson,State Senate,15,R,Montgomery,West Winona,X
+Karl Oliver,State House,46,R,Montgomery,West Winona,403
+Jim Hood,Governor,,D,Montgomery,TOTAL ,1821
+Tate Reeves,Governor,,R,Montgomery,TOTAL ,2004
+Bob Hickingbottom,Governor,,C,Montgomery,TOTAL ,16
+David R Singletary,Governor,,IND,Montgomery,TOTAL ,45
+Delbert Hosemann,Lieutenant Governor,,R,Montgomery,TOTAL ,2185
+Jay Hughes,Lieutenant Governor,,D,Montgomery,TOTAL ,1592
+Johnny DuPree,Secretary of State,,D,Montgomery,TOTAL ,1599
+Michael Watson,Secretary of State,,R,Montgomery,TOTAL ,2161
+Jennifer Riley Collins,Attorney General,,D,Montgomery,TOTAL ,1611
+Lynn Fitch,Attorney General,,R,Montgomery,TOTAL ,2214
+Shad White,State Auditor,,R,Montgomery,TOTAL ,2745
+Addie Lee Green,State Treasurer,,D,Montgomery,TOTAL ,1482
+David McRae,State Treasurer,,R,Montgomery,TOTAL ,2304
+Rickey L Cole,Commissioner of Agriculture & Commerce,,D,Montgomery,TOTAL ,1588
+Andy Gipson,Commissioner of Agriculture & Commerce,,R,Montgomery,TOTAL ,2188
+Lydia Graves Chassaniol,State Senate,14,R,Montgomery,TOTAL ,1839
+Gary Jackson,State Senate,15,R,Montgomery,TOTAL ,913
+Karl Oliver,State House,46,R,Montgomery,TOTAL ,2825
+Robert E. Amos,Commissioner of Insurance,,D,Montgomery,Duck Hill,118
+Mike Chaney,Commissioner of Insurance,,R,Montgomery,Duck Hill,204
+Robert E. Amos,Commissioner of Insurance,,D,Montgomery,East Winona,211
+Mike Chaney,Commissioner of Insurance,,R,Montgomery,East Winona,164
+Robert E. Amos,Commissioner of Insurance,,D,Montgomery,Kilmichael,161
+Mike Chaney,Commissioner of Insurance,,R,Montgomery,Kilmichael,227
+Robert E. Amos,Commissioner of Insurance,,D,Montgomery,Lodi,113
+Mike Chaney,Commissioner of Insurance,,R,Montgomery,Lodi,46
+Robert E. Amos,Commissioner of Insurance,,D,Montgomery,Mt. Pisgah,10
+Mike Chaney,Commissioner of Insurance,,R,Montgomery,Mt. Pisgah,105
+Robert E. Amos,Commissioner of Insurance,,D,Montgomery,North Duck Hill,65
+Mike Chaney,Commissioner of Insurance,,R,Montgomery,North Duck Hill,69
+Robert E. Amos,Commissioner of Insurance,,D,Montgomery,North Kilmichael,51
+Mike Chaney,Commissioner of Insurance,,R,Montgomery,North Kilmichael,13
+Robert E. Amos,Commissioner of Insurance,,D,Montgomery,North Mt Pisgah Sweethome,36
+Mike Chaney,Commissioner of Insurance,,R,Montgomery,North Mt Pisgah Sweethome,59
+Robert E. Amos,Commissioner of Insurance,,D,Montgomery,North Winona,93
+Mike Chaney,Commissioner of Insurance,,R,Montgomery,North Winona,490
+Robert E. Amos,Commissioner of Insurance,,D,Montgomery,Nations,20
+Mike Chaney,Commissioner of Insurance,,R,Montgomery,Nations,178
+Robert E. Amos,Commissioner of Insurance,,D,Montgomery,Poplar Creek,10
+Mike Chaney,Commissioner of Insurance,,R,Montgomery,Poplar Creek,66
+Robert E. Amos,Commissioner of Insurance,,D,Montgomery,South Winona,444
+Mike Chaney,Commissioner of Insurance,,R,Montgomery,South Winona,200
+Robert E. Amos,Commissioner of Insurance,,D,Montgomery,Southeast Winona,48
+Mike Chaney,Commissioner of Insurance,,R,Montgomery,Southeast Winona,68
+Robert E. Amos,Commissioner of Insurance,,D,Montgomery,Stewart,7
+Mike Chaney,Commissioner of Insurance,,R,Montgomery,Stewart,59
+Robert E. Amos,Commissioner of Insurance,,D,Montgomery,West Winona,82
+Mike Chaney,Commissioner of Insurance,,R,Montgomery,West Winona,365
+Robert E. Amos,Commissioner of Insurance,,D,Montgomery,TOTAL ,1469
+Mike Chaney,Commissioner of Insurance,,R,Montgomery,TOTAL ,2313

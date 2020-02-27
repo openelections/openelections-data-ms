@@ -1,639 +1,697 @@
-﻿page,candidate,office,district,party,county,precinct,votes
-2,Jim Hood,Governor,,D,Itawamba,American Legion,195
-2,Tate Reeves,Governor,,R,Itawamba,American Legion,570
-2,Bob Hickingbottom,Governor,,C,Itawamba,American Legion,6
-2,David R Singletary,Governor,,IND,Itawamba,American Legion,7
-2,Delbert Hosemann,Lieutenant Governor,,R,Itawamba,American Legion,665
-2,Jay Hughes,Lieutenant Governor,,D,Itawamba,American Legion,114
-2,Johnny DuPree,Secretary of State,,D,Itawamba,American Legion,119
-2,Michael Watson,Secretary of State,,R,Itawamba,American Legion,645
-2,Jennifer Riley Collins,Attorney General,,D,Itawamba,American Legion,132
-2,Lynn Fitch,Attorney General,,R,Itawamba,American Legion,649
-2,Shad White,State Auditor,,R,Itawamba,American Legion,719
-5,Addie Lee Green,State Treasurer,,D,Itawamba,American Legion,97
-5,David McRae,State Treasurer,,R,Itawamba,American Legion,677
-5,Rickey L Cole,Commissioner of Agriculture & Commerce,,D,Itawamba,American Legion,128
-5,Andy Gipson,Commissioner of Agriculture & Commerce,,R,Itawamba,American Legion,643
-8,Steve Eaton,State Senate,5,D,Itawamba,American Legion,116
-8,Daniel H Sparks,State Senate,5,R,Itawamba,American Legion,659
-8,Chad McMahan,State Senate,6,R,Itawamba,American Legion,x
-8,Hob Bryan,State Senate,7,D,Itawamba,American Legion,x
-8,Randy P Boyd,State House,19,R,Itawamba,American Legion,x
-8,Chris Brown,State House,20,R,Itawamba,American Legion,x
-8,Donnie Bell,State House,21,R,Itawamba,American Legion,728
-2,Jim Hood,Governor,,D,Itawamba,Armory,76
-2,Tate Reeves,Governor,,R,Itawamba,Armory,274
-2,Bob Hickingbottom,Governor,,C,Itawamba,Armory,0
-2,David R Singletary,Governor,,IND,Itawamba,Armory,2
-2,Delbert Hosemann,Lieutenant Governor,,R,Itawamba,Armory,307
-2,Jay Hughes,Lieutenant Governor,,D,Itawamba,Armory,38
-2,Johnny DuPree,Secretary of State,,D,Itawamba,Armory,48
-2,Michael Watson,Secretary of State,,R,Itawamba,Armory,291
-2,Jennifer Riley Collins,Attorney General,,D,Itawamba,Armory,58
-2,Lynn Fitch,Attorney General,,R,Itawamba,Armory,289
-2,Shad White,State Auditor,,R,Itawamba,Armory,325
-5,Addie Lee Green,State Treasurer,,D,Itawamba,Armory,50
-5,David McRae,State Treasurer,,R,Itawamba,Armory,295
-5,Rickey L Cole,Commissioner of Agriculture & Commerce,,D,Itawamba,Armory,71
-5,Andy Gipson,Commissioner of Agriculture & Commerce,,R,Itawamba,Armory,271
-8,Steve Eaton,State Senate,5,D,Itawamba,Armory,61
-8,Daniel H Sparks,State Senate,5,R,Itawamba,Armory,286
-8,Chad McMahan,State Senate,6,R,Itawamba,Armory,x
-8,Hob Bryan,State Senate,7,D,Itawamba,Armory,x
-8,Randy P Boyd,State House,19,R,Itawamba,Armory,x
-8,Chris Brown,State House,20,R,Itawamba,Armory,x
-8,Donnie Bell,State House,21,R,Itawamba,Armory,329
-2,Jim Hood,Governor,,D,Itawamba,Banner-Pineville,66
-2,Tate Reeves,Governor,,R,Itawamba,Banner-Pineville,365
-2,Bob Hickingbottom,Governor,,C,Itawamba,Banner-Pineville,1
-2,David R Singletary,Governor,,IND,Itawamba,Banner-Pineville,3
-2,Delbert Hosemann,Lieutenant Governor,,R,Itawamba,Banner-Pineville,390
-2,Jay Hughes,Lieutenant Governor,,D,Itawamba,Banner-Pineville,35
-2,Johnny DuPree,Secretary of State,,D,Itawamba,Banner-Pineville,42
-2,Michael Watson,Secretary of State,,R,Itawamba,Banner-Pineville,374
-2,Jennifer Riley Collins,Attorney General,,D,Itawamba,Banner-Pineville,55
-2,Lynn Fitch,Attorney General,,R,Itawamba,Banner-Pineville,368
-2,Shad White,State Auditor,,R,Itawamba,Banner-Pineville,387
-5,Addie Lee Green,State Treasurer,,D,Itawamba,Banner-Pineville,36
-5,David McRae,State Treasurer,,R,Itawamba,Banner-Pineville,388
-5,Rickey L Cole,Commissioner of Agriculture & Commerce,,D,Itawamba,Banner-Pineville,44
-5,Andy Gipson,Commissioner of Agriculture & Commerce,,R,Itawamba,Banner-Pineville,371
-8,Steve Eaton,State Senate,5,D,Itawamba,Banner-Pineville,38
-8,Daniel H Sparks,State Senate,5,R,Itawamba,Banner-Pineville,386
-8,Chad McMahan,State Senate,6,R,Itawamba,Banner-Pineville,x
-8,Hob Bryan,State Senate,7,D,Itawamba,Banner-Pineville,x
-8,Randy P Boyd,State House,19,R,Itawamba,Banner-Pineville,x
-8,Chris Brown,State House,20,R,Itawamba,Banner-Pineville,x
-8,Donnie Bell,State House,21,R,Itawamba,Banner-Pineville,398
-2,Jim Hood,Governor,,D,Itawamba,Bounds,29
-2,Tate Reeves,Governor,,R,Itawamba,Bounds,87
-2,Bob Hickingbottom,Governor,,C,Itawamba,Bounds,0
-2,David R Singletary,Governor,,IND,Itawamba,Bounds,0
-2,Delbert Hosemann,Lieutenant Governor,,R,Itawamba,Bounds,104
-2,Jay Hughes,Lieutenant Governor,,D,Itawamba,Bounds,13
-2,Johnny DuPree,Secretary of State,,D,Itawamba,Bounds,11
-2,Michael Watson,Secretary of State,,R,Itawamba,Bounds,106
-2,Jennifer Riley Collins,Attorney General,,D,Itawamba,Bounds,13
-2,Lynn Fitch,Attorney General,,R,Itawamba,Bounds,105
-2,Shad White,State Auditor,,R,Itawamba,Bounds,112
-5,Addie Lee Green,State Treasurer,,D,Itawamba,Bounds,9
-5,David McRae,State Treasurer,,R,Itawamba,Bounds,109
-5,Rickey L Cole,Commissioner of Agriculture & Commerce,,D,Itawamba,Bounds,17
-5,Andy Gipson,Commissioner of Agriculture & Commerce,,R,Itawamba,Bounds,101
-8,Steve Eaton,State Senate,5,D,Itawamba,Bounds,9
-8,Daniel H Sparks,State Senate,5,R,Itawamba,Bounds,109
-8,Chad McMahan,State Senate,6,R,Itawamba,Bounds,x
-8,Hob Bryan,State Senate,7,D,Itawamba,Bounds,x
-8,Randy P Boyd,State House,19,R,Itawamba,Bounds,x
-8,Chris Brown,State House,20,R,Itawamba,Bounds,x
-8,Donnie Bell,State House,21,R,Itawamba,Bounds,110
-2,Jim Hood,Governor,,D,Itawamba,Cardsville,22
-2,Tate Reeves,Governor,,R,Itawamba,Cardsville,102
-2,Bob Hickingbottom,Governor,,C,Itawamba,Cardsville,0
-2,David R Singletary,Governor,,IND,Itawamba,Cardsville,0
-2,Delbert Hosemann,Lieutenant Governor,,R,Itawamba,Cardsville,106
-2,Jay Hughes,Lieutenant Governor,,D,Itawamba,Cardsville,18
-2,Johnny DuPree,Secretary of State,,D,Itawamba,Cardsville,14
-2,Michael Watson,Secretary of State,,R,Itawamba,Cardsville,110
-2,Jennifer Riley Collins,Attorney General,,D,Itawamba,Cardsville,12
-2,Lynn Fitch,Attorney General,,R,Itawamba,Cardsville,113
-2,Shad White,State Auditor,,R,Itawamba,Cardsville,122
-5,Addie Lee Green,State Treasurer,,D,Itawamba,Cardsville,11
-5,David McRae,State Treasurer,,R,Itawamba,Cardsville,114
-5,Rickey L Cole,Commissioner of Agriculture & Commerce,,D,Itawamba,Cardsville,13
-5,Andy Gipson,Commissioner of Agriculture & Commerce,,R,Itawamba,Cardsville,112
-8,Steve Eaton,State Senate,5,D,Itawamba,Cardsville,x
-8,Daniel H Sparks,State Senate,5,R,Itawamba,Cardsville,x
-8,Chad McMahan,State Senate,6,R,Itawamba,Cardsville,x
-8,Hob Bryan,State Senate,7,D,Itawamba,Cardsville,95
-8,Randy P Boyd,State House,19,R,Itawamba,Cardsville,x
-8,Chris Brown,State House,20,R,Itawamba,Cardsville,x
-8,Donnie Bell,State House,21,R,Itawamba,Cardsville,122
-2,Jim Hood,Governor,,D,Itawamba,Carolina,50
-2,Tate Reeves,Governor,,R,Itawamba,Carolina,145
-2,Bob Hickingbottom,Governor,,C,Itawamba,Carolina,0
-2,David R Singletary,Governor,,IND,Itawamba,Carolina,3
-2,Delbert Hosemann,Lieutenant Governor,,R,Itawamba,Carolina,162
-2,Jay Hughes,Lieutenant Governor,,D,Itawamba,Carolina,36
-2,Johnny DuPree,Secretary of State,,D,Itawamba,Carolina,30
-2,Michael Watson,Secretary of State,,R,Itawamba,Carolina,166
-2,Jennifer Riley Collins,Attorney General,,D,Itawamba,Carolina,39
-2,Lynn Fitch,Attorney General,,R,Itawamba,Carolina,158
-2,Shad White,State Auditor,,R,Itawamba,Carolina,180
-5,Addie Lee Green,State Treasurer,,D,Itawamba,Carolina,34
-5,David McRae,State Treasurer,,R,Itawamba,Carolina,163
-5,Rickey L Cole,Commissioner of Agriculture & Commerce,,D,Itawamba,Carolina,42
-5,Andy Gipson,Commissioner of Agriculture & Commerce,,R,Itawamba,Carolina,154
-8,Steve Eaton,State Senate,5,D,Itawamba,Carolina,x
-8,Daniel H Sparks,State Senate,5,R,Itawamba,Carolina,x
-8,Chad McMahan,State Senate,6,R,Itawamba,Carolina,x
-8,Hob Bryan,State Senate,7,D,Itawamba,Carolina,130
-8,Randy P Boyd,State House,19,R,Itawamba,Carolina,x
-8,Chris Brown,State House,20,R,Itawamba,Carolina,x
-8,Donnie Bell,State House,21,R,Itawamba,Carolina,175
-2,Jim Hood,Governor,,D,Itawamba,Centerville,41
-2,Tate Reeves,Governor,,R,Itawamba,Centerville,204
-2,Bob Hickingbottom,Governor,,C,Itawamba,Centerville,1
-2,David R Singletary,Governor,,IND,Itawamba,Centerville,1
-2,Delbert Hosemann,Lieutenant Governor,,R,Itawamba,Centerville,220
-2,Jay Hughes,Lieutenant Governor,,D,Itawamba,Centerville,25
-2,Johnny DuPree,Secretary of State,,D,Itawamba,Centerville,29
-2,Michael Watson,Secretary of State,,R,Itawamba,Centerville,213
-2,Jennifer Riley Collins,Attorney General,,D,Itawamba,Centerville,30
-2,Lynn Fitch,Attorney General,,R,Itawamba,Centerville,215
-2,Shad White,State Auditor,,R,Itawamba,Centerville,222
-5,Addie Lee Green,State Treasurer,,D,Itawamba,Centerville,24
-5,David McRae,State Treasurer,,R,Itawamba,Centerville,217
-5,Rickey L Cole,Commissioner of Agriculture & Commerce,,D,Itawamba,Centerville,28
-5,Andy Gipson,Commissioner of Agriculture & Commerce,,R,Itawamba,Centerville,212
-8,Steve Eaton,State Senate,5,D,Itawamba,Centerville,0
-8,Daniel H Sparks,State Senate,5,R,Itawamba,Centerville,1
-8,Chad McMahan,State Senate,6,R,Itawamba,Centerville,230
-8,Hob Bryan,State Senate,7,D,Itawamba,Centerville,x
-8,Randy P Boyd,State House,19,R,Itawamba,Centerville,225
-8,Chris Brown,State House,20,R,Itawamba,Centerville,x
-8,Donnie Bell,State House,21,R,Itawamba,Centerville,x
-2,Jim Hood,Governor,,D,Itawamba,Clay,89
-2,Tate Reeves,Governor,,R,Itawamba,Clay,445
-2,Bob Hickingbottom,Governor,,C,Itawamba,Clay,4
-2,David R Singletary,Governor,,IND,Itawamba,Clay,4
-2,Delbert Hosemann,Lieutenant Governor,,R,Itawamba,Clay,498
-2,Jay Hughes,Lieutenant Governor,,D,Itawamba,Clay,45
-2,Johnny DuPree,Secretary of State,,D,Itawamba,Clay,52
-2,Michael Watson,Secretary of State,,R,Itawamba,Clay,485
-2,Jennifer Riley Collins,Attorney General,,D,Itawamba,Clay,54
-2,Lynn Fitch,Attorney General,,R,Itawamba,Clay,487
-2,Shad White,State Auditor,,R,Itawamba,Clay,521
-5,Addie Lee Green,State Treasurer,,D,Itawamba,Clay,34
-5,David McRae,State Treasurer,,R,Itawamba,Clay,505
-5,Rickey L Cole,Commissioner of Agriculture & Commerce,,D,Itawamba,Clay,64
-5,Andy Gipson,Commissioner of Agriculture & Commerce,,R,Itawamba,Clay,472
-8,Steve Eaton,State Senate,5,D,Itawamba,Clay,45
-8,Daniel H Sparks,State Senate,5,R,Itawamba,Clay,497
-8,Chad McMahan,State Senate,6,R,Itawamba,Clay,x
-8,Hob Bryan,State Senate,7,D,Itawamba,Clay,x
-8,Randy P Boyd,State House,19,R,Itawamba,Clay,x
-8,Chris Brown,State House,20,R,Itawamba,Clay,x
-8,Donnie Bell,State House,21,R,Itawamba,Clay,521
-2,Jim Hood,Governor,,D,Itawamba,Courthouse,25
-2,Tate Reeves,Governor,,R,Itawamba,Courthouse,130
-2,Bob Hickingbottom,Governor,,C,Itawamba,Courthouse,1
-2,David R Singletary,Governor,,IND,Itawamba,Courthouse,4
-2,Delbert Hosemann,Lieutenant Governor,,R,Itawamba,Courthouse,133
-2,Jay Hughes,Lieutenant Governor,,D,Itawamba,Courthouse,24
-2,Johnny DuPree,Secretary of State,,D,Itawamba,Courthouse,22
-2,Michael Watson,Secretary of State,,R,Itawamba,Courthouse,134
-2,Jennifer Riley Collins,Attorney General,,D,Itawamba,Courthouse,23
-2,Lynn Fitch,Attorney General,,R,Itawamba,Courthouse,136
-2,Shad White,State Auditor,,R,Itawamba,Courthouse,145
-5,Addie Lee Green,State Treasurer,,D,Itawamba,Courthouse,19
-5,David McRae,State Treasurer,,R,Itawamba,Courthouse,140
-5,Rickey L Cole,Commissioner of Agriculture & Commerce,,D,Itawamba,Courthouse,24
-5,Andy Gipson,Commissioner of Agriculture & Commerce,,R,Itawamba,Courthouse,132
-8,Steve Eaton,State Senate,5,D,Itawamba,Courthouse,24
-8,Daniel H Sparks,State Senate,5,R,Itawamba,Courthouse,134
-8,Chad McMahan,State Senate,6,R,Itawamba,Courthouse,x
-8,Hob Bryan,State Senate,7,D,Itawamba,Courthouse,x
-8,Randy P Boyd,State House,19,R,Itawamba,Courthouse,x
-8,Chris Brown,State House,20,R,Itawamba,Courthouse,x
-8,Donnie Bell,State House,21,R,Itawamba,Courthouse,145
-2,Jim Hood,Governor,,D,Itawamba,Dorsey,57
-2,Tate Reeves,Governor,,R,Itawamba,Dorsey,369
-2,Bob Hickingbottom,Governor,,C,Itawamba,Dorsey,1
-2,David R Singletary,Governor,,IND,Itawamba,Dorsey,3
-2,Delbert Hosemann,Lieutenant Governor,,R,Itawamba,Dorsey,385
-2,Jay Hughes,Lieutenant Governor,,D,Itawamba,Dorsey,46
-2,Johnny DuPree,Secretary of State,,D,Itawamba,Dorsey,32
-2,Michael Watson,Secretary of State,,R,Itawamba,Dorsey,392
-2,Jennifer Riley Collins,Attorney General,,D,Itawamba,Dorsey,42
-2,Lynn Fitch,Attorney General,,R,Itawamba,Dorsey,387
-2,Shad White,State Auditor,,R,Itawamba,Dorsey,412
-5,Addie Lee Green,State Treasurer,,D,Itawamba,Dorsey,23
-5,David McRae,State Treasurer,,R,Itawamba,Dorsey,403
-5,Rickey L Cole,Commissioner of Agriculture & Commerce,,D,Itawamba,Dorsey,36
-5,Andy Gipson,Commissioner of Agriculture & Commerce,,R,Itawamba,Dorsey,386
-8,Steve Eaton,State Senate,5,D,Itawamba,Dorsey,x
-8,Daniel H Sparks,State Senate,5,R,Itawamba,Dorsey,x
-8,Chad McMahan,State Senate,6,R,Itawamba,Dorsey,x
-8,Hob Bryan,State Senate,7,D,Itawamba,Dorsey,268
-8,Randy P Boyd,State House,19,R,Itawamba,Dorsey,398
-8,Chris Brown,State House,20,R,Itawamba,Dorsey,x
-8,Donnie Bell,State House,21,R,Itawamba,Dorsey,x
-2,Jim Hood,Governor,,D,Itawamba,Evergreen,102
-2,Tate Reeves,Governor,,R,Itawamba,Evergreen,161
-2,Bob Hickingbottom,Governor,,C,Itawamba,Evergreen,1
-2,David R Singletary,Governor,,IND,Itawamba,Evergreen,1
-2,Delbert Hosemann,Lieutenant Governor,,R,Itawamba,Evergreen,187
-2,Jay Hughes,Lieutenant Governor,,D,Itawamba,Evergreen,72
-2,Johnny DuPree,Secretary of State,,D,Itawamba,Evergreen,79
-2,Michael Watson,Secretary of State,,R,Itawamba,Evergreen,178
-2,Jennifer Riley Collins,Attorney General,,D,Itawamba,Evergreen,89
-2,Lynn Fitch,Attorney General,,R,Itawamba,Evergreen,174
-2,Shad White,State Auditor,,R,Itawamba,Evergreen,204
-5,Addie Lee Green,State Treasurer,,D,Itawamba,Evergreen,77
-5,David McRae,State Treasurer,,R,Itawamba,Evergreen,186
-5,Rickey L Cole,Commissioner of Agriculture & Commerce,,D,Itawamba,Evergreen,92
-5,Andy Gipson,Commissioner of Agriculture & Commerce,,R,Itawamba,Evergreen,168
-8,Steve Eaton,State Senate,5,D,Itawamba,Evergreen,x
-8,Daniel H Sparks,State Senate,5,R,Itawamba,Evergreen,x
-8,Chad McMahan,State Senate,6,R,Itawamba,Evergreen,x
-8,Hob Bryan,State Senate,7,D,Itawamba,Evergreen,184
-8,Randy P Boyd,State House,19,R,Itawamba,Evergreen,x
-8,Chris Brown,State House,20,R,Itawamba,Evergreen,28
-8,Donnie Bell,State House,21,R,Itawamba,Evergreen,182
-3,Jim Hood,Governor,,D,Itawamba,Fairview-Pleasanton,25
-3,Tate Reeves,Governor,,R,Itawamba,Fairview-Pleasanton,74
-3,Bob Hickingbottom,Governor,,C,Itawamba,Fairview-Pleasanton,2
-3,David R Singletary,Governor,,IND,Itawamba,Fairview-Pleasanton,0
-3,Delbert Hosemann,Lieutenant Governor,,R,Itawamba,Fairview-Pleasanton,87
-3,Jay Hughes,Lieutenant Governor,,D,Itawamba,Fairview-Pleasanton,13
-3,Johnny DuPree,Secretary of State,,D,Itawamba,Fairview-Pleasanton,12
-3,Michael Watson,Secretary of State,,R,Itawamba,Fairview-Pleasanton,86
-3,Jennifer Riley Collins,Attorney General,,D,Itawamba,Fairview-Pleasanton,16
-3,Lynn Fitch,Attorney General,,R,Itawamba,Fairview-Pleasanton,84
-3,Shad White,State Auditor,,R,Itawamba,Fairview-Pleasanton,92
-6,Addie Lee Green,State Treasurer,,D,Itawamba,Fairview-Pleasanton,10
-6,David McRae,State Treasurer,,R,Itawamba,Fairview-Pleasanton,89
-6,Rickey L Cole,Commissioner of Agriculture & Commerce,,D,Itawamba,Fairview-Pleasanton,13
-6,Andy Gipson,Commissioner of Agriculture & Commerce,,R,Itawamba,Fairview-Pleasanton,86
-9,Steve Eaton,State Senate,5,D,Itawamba,Fairview-Pleasanton,15
-9,Daniel H Sparks,State Senate,5,R,Itawamba,Fairview-Pleasanton,85
-9,Chad McMahan,State Senate,6,R,Itawamba,Fairview-Pleasanton,x
-9,Hob Bryan,State Senate,7,D,Itawamba,Fairview-Pleasanton,x
-9,Randy P Boyd,State House,19,R,Itawamba,Fairview-Pleasanton,x
-9,Chris Brown,State House,20,R,Itawamba,Fairview-Pleasanton,x
-9,Donnie Bell,State House,21,R,Itawamba,Fairview-Pleasanton,93
-3,Jim Hood,Governor,,D,Itawamba,Fawn Grove,54
-3,Tate Reeves,Governor,,R,Itawamba,Fawn Grove,237
-3,Bob Hickingbottom,Governor,,C,Itawamba,Fawn Grove,0
-3,David R Singletary,Governor,,IND,Itawamba,Fawn Grove,3
-3,Delbert Hosemann,Lieutenant Governor,,R,Itawamba,Fawn Grove,264
-3,Jay Hughes,Lieutenant Governor,,D,Itawamba,Fawn Grove,29
-3,Johnny DuPree,Secretary of State,,D,Itawamba,Fawn Grove,32
-3,Michael Watson,Secretary of State,,R,Itawamba,Fawn Grove,261
-3,Jennifer Riley Collins,Attorney General,,D,Itawamba,Fawn Grove,40
-3,Lynn Fitch,Attorney General,,R,Itawamba,Fawn Grove,250
-3,Shad White,State Auditor,,R,Itawamba,Fawn Grove,266
-6,Addie Lee Green,State Treasurer,,D,Itawamba,Fawn Grove,21
-6,David McRae,State Treasurer,,R,Itawamba,Fawn Grove,270
-6,Rickey L Cole,Commissioner of Agriculture & Commerce,,D,Itawamba,Fawn Grove,33
-6,Andy Gipson,Commissioner of Agriculture & Commerce,,R,Itawamba,Fawn Grove,254
-9,Steve Eaton,State Senate,5,D,Itawamba,Fawn Grove,x
-9,Daniel H Sparks,State Senate,5,R,Itawamba,Fawn Grove,x
-9,Chad McMahan,State Senate,6,R,Itawamba,Fawn Grove,275
-9,Hob Bryan,State Senate,7,D,Itawamba,Fawn Grove,x
-9,Randy P Boyd,State House,19,R,Itawamba,Fawn Grove,270
-9,Chris Brown,State House,20,R,Itawamba,Fawn Grove,x
-9,Donnie Bell,State House,21,R,Itawamba,Fawn Grove,x
-3,Jim Hood,Governor,,D,Itawamba,Friendship,33
-3,Tate Reeves,Governor,,R,Itawamba,Friendship,96
-3,Bob Hickingbottom,Governor,,C,Itawamba,Friendship,0
-3,David R Singletary,Governor,,IND,Itawamba,Friendship,0
-3,Delbert Hosemann,Lieutenant Governor,,R,Itawamba,Friendship,112
-3,Jay Hughes,Lieutenant Governor,,D,Itawamba,Friendship,17
-3,Johnny DuPree,Secretary of State,,D,Itawamba,Friendship,22
-3,Michael Watson,Secretary of State,,R,Itawamba,Friendship,106
-3,Jennifer Riley Collins,Attorney General,,D,Itawamba,Friendship,20
-3,Lynn Fitch,Attorney General,,R,Itawamba,Friendship,108
-3,Shad White,State Auditor,,R,Itawamba,Friendship,120
-6,Addie Lee Green,State Treasurer,,D,Itawamba,Friendship,17
-6,David McRae,State Treasurer,,R,Itawamba,Friendship,112
-6,Rickey L Cole,Commissioner of Agriculture & Commerce,,D,Itawamba,Friendship,25
-6,Andy Gipson,Commissioner of Agriculture & Commerce,,R,Itawamba,Friendship,104
-9,Steve Eaton,State Senate,5,D,Itawamba,Friendship,22
-9,Daniel H Sparks,State Senate,5,R,Itawamba,Friendship,107
-9,Chad McMahan,State Senate,6,R,Itawamba,Friendship,x
-9,Hob Bryan,State Senate,7,D,Itawamba,Friendship,x
-9,Randy P Boyd,State House,19,R,Itawamba,Friendship,14
-9,Chris Brown,State House,20,R,Itawamba,Friendship,x
-9,Donnie Bell,State House,21,R,Itawamba,Friendship,106
-3,Jim Hood,Governor,,D,Itawamba,Friendship 1D,15
-3,Tate Reeves,Governor,,R,Itawamba,Friendship 1D,47
-3,Bob Hickingbottom,Governor,,C,Itawamba,Friendship 1D,2
-3,David R Singletary,Governor,,IND,Itawamba,Friendship 1D,4
-3,Delbert Hosemann,Lieutenant Governor,,R,Itawamba,Friendship 1D,61
-3,Jay Hughes,Lieutenant Governor,,D,Itawamba,Friendship 1D,7
-3,Johnny DuPree,Secretary of State,,D,Itawamba,Friendship 1D,10
-3,Michael Watson,Secretary of State,,R,Itawamba,Friendship 1D,57
-3,Jennifer Riley Collins,Attorney General,,D,Itawamba,Friendship 1D,7
-3,Lynn Fitch,Attorney General,,R,Itawamba,Friendship 1D,61
-3,Shad White,State Auditor,,R,Itawamba,Friendship 1D,66
-6,Addie Lee Green,State Treasurer,,D,Itawamba,Friendship 1D,7
-6,David McRae,State Treasurer,,R,Itawamba,Friendship 1D,60
-6,Rickey L Cole,Commissioner of Agriculture & Commerce,,D,Itawamba,Friendship 1D,7
-6,Andy Gipson,Commissioner of Agriculture & Commerce,,R,Itawamba,Friendship 1D,60
-9,Steve Eaton,State Senate,5,D,Itawamba,Friendship 1D,9
-9,Daniel H Sparks,State Senate,5,R,Itawamba,Friendship 1D,59
-9,Chad McMahan,State Senate,6,R,Itawamba,Friendship 1D,x
-9,Hob Bryan,State Senate,7,D,Itawamba,Friendship 1D,x
-9,Randy P Boyd,State House,19,R,Itawamba,Friendship 1D,22
-9,Chris Brown,State House,20,R,Itawamba,Friendship 1D,x
-9,Donnie Bell,State House,21,R,Itawamba,Friendship 1D,45
-3,Jim Hood,Governor,,D,Itawamba,Friendship 4D,8
-3,Tate Reeves,Governor,,R,Itawamba,Friendship 4D,48
-3,Bob Hickingbottom,Governor,,C,Itawamba,Friendship 4D,1
-3,David R Singletary,Governor,,IND,Itawamba,Friendship 4D,0
-3,Delbert Hosemann,Lieutenant Governor,,R,Itawamba,Friendship 4D,55
-3,Jay Hughes,Lieutenant Governor,,D,Itawamba,Friendship 4D,2
-3,Johnny DuPree,Secretary of State,,D,Itawamba,Friendship 4D,1
-3,Michael Watson,Secretary of State,,R,Itawamba,Friendship 4D,54
-3,Jennifer Riley Collins,Attorney General,,D,Itawamba,Friendship 4D,5
-3,Lynn Fitch,Attorney General,,R,Itawamba,Friendship 4D,52
-3,Shad White,State Auditor,,R,Itawamba,Friendship 4D,54
-6,Addie Lee Green,State Treasurer,,D,Itawamba,Friendship 4D,2
-6,David McRae,State Treasurer,,R,Itawamba,Friendship 4D,55
-6,Rickey L Cole,Commissioner of Agriculture & Commerce,,D,Itawamba,Friendship 4D,3
-6,Andy Gipson,Commissioner of Agriculture & Commerce,,R,Itawamba,Friendship 4D,53
-9,Steve Eaton,State Senate,5,D,Itawamba,Friendship 4D,2
-9,Daniel H Sparks,State Senate,5,R,Itawamba,Friendship 4D,55
-9,Chad McMahan,State Senate,6,R,Itawamba,Friendship 4D,x
-9,Hob Bryan,State Senate,7,D,Itawamba,Friendship 4D,x
-9,Randy P Boyd,State House,19,R,Itawamba,Friendship 4D,x
-9,Chris Brown,State House,20,R,Itawamba,Friendship 4D,x
-9,Donnie Bell,State House,21,R,Itawamba,Friendship 4D,52
-3,Jim Hood,Governor,,D,Itawamba,Friendship 5D,14
-3,Tate Reeves,Governor,,R,Itawamba,Friendship 5D,56
-3,Bob Hickingbottom,Governor,,C,Itawamba,Friendship 5D,0
-3,David R Singletary,Governor,,IND,Itawamba,Friendship 5D,1
-3,Delbert Hosemann,Lieutenant Governor,,R,Itawamba,Friendship 5D,62
-3,Jay Hughes,Lieutenant Governor,,D,Itawamba,Friendship 5D,8
-3,Johnny DuPree,Secretary of State,,D,Itawamba,Friendship 5D,6
-3,Michael Watson,Secretary of State,,R,Itawamba,Friendship 5D,65
-3,Jennifer Riley Collins,Attorney General,,D,Itawamba,Friendship 5D,6
-3,Lynn Fitch,Attorney General,,R,Itawamba,Friendship 5D,63
-3,Shad White,State Auditor,,R,Itawamba,Friendship 5D,66
-6,Addie Lee Green,State Treasurer,,D,Itawamba,Friendship 5D,6
-6,David McRae,State Treasurer,,R,Itawamba,Friendship 5D,65
-6,Rickey L Cole,Commissioner of Agriculture & Commerce,,D,Itawamba,Friendship 5D,7
-6,Andy Gipson,Commissioner of Agriculture & Commerce,,R,Itawamba,Friendship 5D,63
-9,Steve Eaton,State Senate,5,D,Itawamba,Friendship 5D,11
-9,Daniel H Sparks,State Senate,5,R,Itawamba,Friendship 5D,59
-9,Chad McMahan,State Senate,6,R,Itawamba,Friendship 5D,x
-9,Hob Bryan,State Senate,7,D,Itawamba,Friendship 5D,x
-9,Randy P Boyd,State House,19,R,Itawamba,Friendship 5D,3
-9,Chris Brown,State House,20,R,Itawamba,Friendship 5D,x
-9,Donnie Bell,State House,21,R,Itawamba,Friendship 5D,63
-3,Jim Hood,Governor,,D,Itawamba,Greenwood,127
-3,Tate Reeves,Governor,,R,Itawamba,Greenwood,154
-3,Bob Hickingbottom,Governor,,C,Itawamba,Greenwood,1
-3,David R Singletary,Governor,,IND,Itawamba,Greenwood,1
-3,Delbert Hosemann,Lieutenant Governor,,R,Itawamba,Greenwood,176
-3,Jay Hughes,Lieutenant Governor,,D,Itawamba,Greenwood,103
-3,Johnny DuPree,Secretary of State,,D,Itawamba,Greenwood,105
-3,Michael Watson,Secretary of State,,R,Itawamba,Greenwood,170
-3,Jennifer Riley Collins,Attorney General,,D,Itawamba,Greenwood,117
-3,Lynn Fitch,Attorney General,,R,Itawamba,Greenwood,164
-3,Shad White,State Auditor,,R,Itawamba,Greenwood,203
-6,Addie Lee Green,State Treasurer,,D,Itawamba,Greenwood,103
-6,David McRae,State Treasurer,,R,Itawamba,Greenwood,174
-6,Rickey L Cole,Commissioner of Agriculture & Commerce,,D,Itawamba,Greenwood,112
-6,Andy Gipson,Commissioner of Agriculture & Commerce,,R,Itawamba,Greenwood,163
-9,Steve Eaton,State Senate,5,D,Itawamba,Greenwood,x
-9,Daniel H Sparks,State Senate,5,R,Itawamba,Greenwood,x
-9,Chad McMahan,State Senate,6,R,Itawamba,Greenwood,x
-9,Hob Bryan,State Senate,7,D,Itawamba,Greenwood,215
-9,Randy P Boyd,State House,19,R,Itawamba,Greenwood,x
-9,Chris Brown,State House,20,R,Itawamba,Greenwood,x
-9,Donnie Bell,State House,21,R,Itawamba,Greenwood,202
-3,Jim Hood,Governor,,D,Itawamba,Icdc,144
-3,Tate Reeves,Governor,,R,Itawamba,Icdc,291
-3,Bob Hickingbottom,Governor,,C,Itawamba,Icdc,1
-3,David R Singletary,Governor,,IND,Itawamba,Icdc,2
-3,Delbert Hosemann,Lieutenant Governor,,R,Itawamba,Icdc,331
-3,Jay Hughes,Lieutenant Governor,,D,Itawamba,Icdc,109
-3,Johnny DuPree,Secretary of State,,D,Itawamba,Icdc,124
-3,Michael Watson,Secretary of State,,R,Itawamba,Icdc,309
-3,Jennifer Riley Collins,Attorney General,,D,Itawamba,Icdc,134
-3,Lynn Fitch,Attorney General,,R,Itawamba,Icdc,311
-3,Shad White,State Auditor,,R,Itawamba,Icdc,364
-6,Addie Lee Green,State Treasurer,,D,Itawamba,Icdc,112
-6,David McRae,State Treasurer,,R,Itawamba,Icdc,326
-6,Rickey L Cole,Commissioner of Agriculture & Commerce,,D,Itawamba,Icdc,136
-6,Andy Gipson,Commissioner of Agriculture & Commerce,,R,Itawamba,Icdc,303
-9,Steve Eaton,State Senate,5,D,Itawamba,Icdc,133
-9,Daniel H Sparks,State Senate,5,R,Itawamba,Icdc,303
-9,Chad McMahan,State Senate,6,R,Itawamba,Icdc,x
-9,Hob Bryan,State Senate,7,D,Itawamba,Icdc,x
-9,Randy P Boyd,State House,19,R,Itawamba,Icdc,x
-9,Chris Brown,State House,20,R,Itawamba,Icdc,x
-9,Donnie Bell,State House,21,R,Itawamba,Icdc,374
-3,Jim Hood,Governor,,D,Itawamba,James Creek,18
-3,Tate Reeves,Governor,,R,Itawamba,James Creek,95
-3,Bob Hickingbottom,Governor,,C,Itawamba,James Creek,1
-3,David R Singletary,Governor,,IND,Itawamba,James Creek,0
-3,Delbert Hosemann,Lieutenant Governor,,R,Itawamba,James Creek,108
-3,Jay Hughes,Lieutenant Governor,,D,Itawamba,James Creek,8
-3,Johnny DuPree,Secretary of State,,D,Itawamba,James Creek,9
-3,Michael Watson,Secretary of State,,R,Itawamba,James Creek,102
-3,Jennifer Riley Collins,Attorney General,,D,Itawamba,James Creek,7
-3,Lynn Fitch,Attorney General,,R,Itawamba,James Creek,107
-3,Shad White,State Auditor,,R,Itawamba,James Creek,101
-6,Addie Lee Green,State Treasurer,,D,Itawamba,James Creek,5
-6,David McRae,State Treasurer,,R,Itawamba,James Creek,109
-6,Rickey L Cole,Commissioner of Agriculture & Commerce,,D,Itawamba,James Creek,12
-6,Andy Gipson,Commissioner of Agriculture & Commerce,,R,Itawamba,James Creek,100
-9,Steve Eaton,State Senate,5,D,Itawamba,James Creek,x
-9,Daniel H Sparks,State Senate,5,R,Itawamba,James Creek,x
-9,Chad McMahan,State Senate,6,R,Itawamba,James Creek,x
-9,Hob Bryan,State Senate,7,D,Itawamba,James Creek,66
-9,Randy P Boyd,State House,19,R,Itawamba,James Creek,x
-9,Chris Brown,State House,20,R,Itawamba,James Creek,x
-9,Donnie Bell,State House,21,R,Itawamba,James Creek,106
-3,Jim Hood,Governor,,D,Itawamba,Kirkville,81
-3,Tate Reeves,Governor,,R,Itawamba,Kirkville,383
-3,Bob Hickingbottom,Governor,,C,Itawamba,Kirkville,3
-3,David R Singletary,Governor,,IND,Itawamba,Kirkville,5
-3,Delbert Hosemann,Lieutenant Governor,,R,Itawamba,Kirkville,440
-3,Jay Hughes,Lieutenant Governor,,D,Itawamba,Kirkville,31
-3,Johnny DuPree,Secretary of State,,D,Itawamba,Kirkville,45
-3,Michael Watson,Secretary of State,,R,Itawamba,Kirkville,419
-3,Jennifer Riley Collins,Attorney General,,D,Itawamba,Kirkville,42
-3,Lynn Fitch,Attorney General,,R,Itawamba,Kirkville,431
-3,Shad White,State Auditor,,R,Itawamba,Kirkville,444
-6,Addie Lee Green,State Treasurer,,D,Itawamba,Kirkville,31
-6,David McRae,State Treasurer,,R,Itawamba,Kirkville,440
-6,Rickey L Cole,Commissioner of Agriculture & Commerce,,D,Itawamba,Kirkville,53
-6,Andy Gipson,Commissioner of Agriculture & Commerce,,R,Itawamba,Kirkville,413
-9,Steve Eaton,State Senate,5,D,Itawamba,Kirkville,60
-9,Daniel H Sparks,State Senate,5,R,Itawamba,Kirkville,379
-9,Chad McMahan,State Senate,6,R,Itawamba,Kirkville,31
-9,Hob Bryan,State Senate,7,D,Itawamba,Kirkville,x
-9,Randy P Boyd,State House,19,R,Itawamba,Kirkville,432
-9,Chris Brown,State House,20,R,Itawamba,Kirkville,x
-9,Donnie Bell,State House,21,R,Itawamba,Kirkville,x
-3,Jim Hood,Governor,,D,Itawamba,Mantachie,73
-3,Tate Reeves,Governor,,R,Itawamba,Mantachie,378
-3,Bob Hickingbottom,Governor,,C,Itawamba,Mantachie,1
-3,David R Singletary,Governor,,IND,Itawamba,Mantachie,4
-3,Delbert Hosemann,Lieutenant Governor,,R,Itawamba,Mantachie,424
-3,Jay Hughes,Lieutenant Governor,,D,Itawamba,Mantachie,32
-3,Johnny DuPree,Secretary of State,,D,Itawamba,Mantachie,34
-3,Michael Watson,Secretary of State,,R,Itawamba,Mantachie,419
-3,Jennifer Riley Collins,Attorney General,,D,Itawamba,Mantachie,50
-3,Lynn Fitch,Attorney General,,R,Itawamba,Mantachie,408
-3,Shad White,State Auditor,,R,Itawamba,Mantachie,441
-6,Addie Lee Green,State Treasurer,,D,Itawamba,Mantachie,35
-6,David McRae,State Treasurer,,R,Itawamba,Mantachie,422
-6,Rickey L Cole,Commissioner of Agriculture & Commerce,,D,Itawamba,Mantachie,51
-6,Andy Gipson,Commissioner of Agriculture & Commerce,,R,Itawamba,Mantachie,405
-9,Steve Eaton,State Senate,5,D,Itawamba,Mantachie,48
-9,Daniel H Sparks,State Senate,5,R,Itawamba,Mantachie,404
-9,Chad McMahan,State Senate,6,R,Itawamba,Mantachie,2
-9,Hob Bryan,State Senate,7,D,Itawamba,Mantachie,x
-9,Randy P Boyd,State House,19,R,Itawamba,Mantachie,432
-9,Chris Brown,State House,20,R,Itawamba,Mantachie,x
-9,Donnie Bell,State House,21,R,Itawamba,Mantachie,x
-4,Jim Hood,Governor,,D,Itawamba,Mantachie 3D,23
-4,Tate Reeves,Governor,,R,Itawamba,Mantachie 3D,104
-4,Bob Hickingbottom,Governor,,C,Itawamba,Mantachie 3D,1
-4,David R Singletary,Governor,,IND,Itawamba,Mantachie 3D,0
-4,Delbert Hosemann,Lieutenant Governor,,R,Itawamba,Mantachie 3D,120
-4,Jay Hughes,Lieutenant Governor,,D,Itawamba,Mantachie 3D,10
-4,Johnny DuPree,Secretary of State,,D,Itawamba,Mantachie 3D,15
-4,Michael Watson,Secretary of State,,R,Itawamba,Mantachie 3D,115
-4,Jennifer Riley Collins,Attorney General,,D,Itawamba,Mantachie 3D,15
-4,Lynn Fitch,Attorney General,,R,Itawamba,Mantachie 3D,113
-4,Shad White,State Auditor,,R,Itawamba,Mantachie 3D,120
-7,Addie Lee Green,State Treasurer,,D,Itawamba,Mantachie 3D,10
-7,David McRae,State Treasurer,,R,Itawamba,Mantachie 3D,119
-7,Rickey L Cole,Commissioner of Agriculture & Commerce,,D,Itawamba,Mantachie 3D,11
-7,Andy Gipson,Commissioner of Agriculture & Commerce,,R,Itawamba,Mantachie 3D,118
-10,Steve Eaton,State Senate,5,D,Itawamba,Mantachie 3D,18
-10,Daniel H Sparks,State Senate,5,R,Itawamba,Mantachie 3D,111
-10,Chad McMahan,State Senate,6,R,Itawamba,Mantachie 3D,x
-10,Hob Bryan,State Senate,7,D,Itawamba,Mantachie 3D,x
-10,Randy P Boyd,State House,19,R,Itawamba,Mantachie 3D,118
-10,Chris Brown,State House,20,R,Itawamba,Mantachie 3D,x
-10,Donnie Bell,State House,21,R,Itawamba,Mantachie 3D,x
-4,Jim Hood,Governor,,D,Itawamba,Ratliff ,14
-4,Tate Reeves,Governor,,R,Itawamba,Ratliff ,129
-4,Bob Hickingbottom,Governor,,C,Itawamba,Ratliff ,0
-4,David R Singletary,Governor,,IND,Itawamba,Ratliff ,1
-4,Delbert Hosemann,Lieutenant Governor,,R,Itawamba,Ratliff ,141
-4,Jay Hughes,Lieutenant Governor,,D,Itawamba,Ratliff ,2
-4,Johnny DuPree,Secretary of State,,D,Itawamba,Ratliff ,5
-4,Michael Watson,Secretary of State,,R,Itawamba,Ratliff ,136
-4,Jennifer Riley Collins,Attorney General,,D,Itawamba,Ratliff ,10
-4,Lynn Fitch,Attorney General,,R,Itawamba,Ratliff ,134
-4,Shad White,State Auditor,,R,Itawamba,Ratliff ,142
-7,Addie Lee Green,State Treasurer,,D,Itawamba,Ratliff ,4
-7,David McRae,State Treasurer,,R,Itawamba,Ratliff ,140
-7,Rickey L Cole,Commissioner of Agriculture & Commerce,,D,Itawamba,Ratliff ,10
-7,Andy Gipson,Commissioner of Agriculture & Commerce,,R,Itawamba,Ratliff ,133
-10,Steve Eaton,State Senate,5,D,Itawamba,Ratliff ,0
-10,Daniel H Sparks,State Senate,5,R,Itawamba,Ratliff ,0
-10,Chad McMahan,State Senate,6,R,Itawamba,Ratliff ,141
-10,Hob Bryan,State Senate,7,D,Itawamba,Ratliff ,x
-10,Randy P Boyd,State House,19,R,Itawamba,Ratliff ,136
-10,Chris Brown,State House,20,R,Itawamba,Ratliff ,x
-10,Donnie Bell,State House,21,R,Itawamba,Ratliff ,x
-4,Jim Hood,Governor,,D,Itawamba,Ryan,52
-4,Tate Reeves,Governor,,R,Itawamba,Ryan,171
-4,Bob Hickingbottom,Governor,,C,Itawamba,Ryan,1
-4,David R Singletary,Governor,,IND,Itawamba,Ryan,0
-4,Delbert Hosemann,Lieutenant Governor,,R,Itawamba,Ryan,198
-4,Jay Hughes,Lieutenant Governor,,D,Itawamba,Ryan,28
-4,Johnny DuPree,Secretary of State,,D,Itawamba,Ryan,33
-4,Michael Watson,Secretary of State,,R,Itawamba,Ryan,190
-4,Jennifer Riley Collins,Attorney General,,D,Itawamba,Ryan,32
-4,Lynn Fitch,Attorney General,,R,Itawamba,Ryan,191
-4,Shad White,State Auditor,,R,Itawamba,Ryan,206
-7,Addie Lee Green,State Treasurer,,D,Itawamba,Ryan,27
-7,David McRae,State Treasurer,,R,Itawamba,Ryan,196
-7,Rickey L Cole,Commissioner of Agriculture & Commerce,,D,Itawamba,Ryan,43
-7,Andy Gipson,Commissioner of Agriculture & Commerce,,R,Itawamba,Ryan,179
-10,Steve Eaton,State Senate,5,D,Itawamba,Ryan,27
-10,Daniel H Sparks,State Senate,5,R,Itawamba,Ryan,198
-10,Chad McMahan,State Senate,6,R,Itawamba,Ryan,x
-10,Hob Bryan,State Senate,7,D,Itawamba,Ryan,x
-10,Randy P Boyd,State House,19,R,Itawamba,Ryan,x
-10,Chris Brown,State House,20,R,Itawamba,Ryan,x
-10,Donnie Bell,State House,21,R,Itawamba,Ryan,215
-4,Jim Hood,Governor,,D,Itawamba,Salem -Copeland,37
-4,Tate Reeves,Governor,,R,Itawamba,Salem -Copeland,276
-4,Bob Hickingbottom,Governor,,C,Itawamba,Salem -Copeland,2
-4,David R Singletary,Governor,,IND,Itawamba,Salem -Copeland,0
-4,Delbert Hosemann,Lieutenant Governor,,R,Itawamba,Salem -Copeland,287
-4,Jay Hughes,Lieutenant Governor,,D,Itawamba,Salem -Copeland,22
-4,Johnny DuPree,Secretary of State,,D,Itawamba,Salem -Copeland,32
-4,Michael Watson,Secretary of State,,R,Itawamba,Salem -Copeland,274
-4,Jennifer Riley Collins,Attorney General,,D,Itawamba,Salem -Copeland,43
-4,Lynn Fitch,Attorney General,,R,Itawamba,Salem -Copeland,270
-4,Shad White,State Auditor,,R,Itawamba,Salem -Copeland,294
-7,Addie Lee Green,State Treasurer,,D,Itawamba,Salem -Copeland,24
-7,David McRae,State Treasurer,,R,Itawamba,Salem -Copeland,284
-7,Rickey L Cole,Commissioner of Agriculture & Commerce,,D,Itawamba,Salem -Copeland,38
-7,Andy Gipson,Commissioner of Agriculture & Commerce,,R,Itawamba,Salem -Copeland,270
-10,Steve Eaton,State Senate,5,D,Itawamba,Salem -Copeland,23
-10,Daniel H Sparks,State Senate,5,R,Itawamba,Salem -Copeland,293
-10,Chad McMahan,State Senate,6,R,Itawamba,Salem -Copeland,x
-10,Hob Bryan,State Senate,7,D,Itawamba,Salem -Copeland,x
-10,Randy P Boyd,State House,19,R,Itawamba,Salem -Copeland,x
-10,Chris Brown,State House,20,R,Itawamba,Salem -Copeland,x
-10,Donnie Bell,State House,21,R,Itawamba,Salem -Copeland,298
-4,Jim Hood,Governor,,D,Itawamba,Tilden,83
-4,Tate Reeves,Governor,,R,Itawamba,Tilden,184
-4,Bob Hickingbottom,Governor,,C,Itawamba,Tilden,0
-4,David R Singletary,Governor,,IND,Itawamba,Tilden,2
-4,Delbert Hosemann,Lieutenant Governor,,R,Itawamba,Tilden,214
-4,Jay Hughes,Lieutenant Governor,,D,Itawamba,Tilden,54
-4,Johnny DuPree,Secretary of State,,D,Itawamba,Tilden,44
-4,Michael Watson,Secretary of State,,R,Itawamba,Tilden,221
-4,Jennifer Riley Collins,Attorney General,,D,Itawamba,Tilden,66
-4,Lynn Fitch,Attorney General,,R,Itawamba,Tilden,203
-4,Shad White,State Auditor,,R,Itawamba,Tilden,242
-7,Addie Lee Green,State Treasurer,,D,Itawamba,Tilden,46
-7,David McRae,State Treasurer,,R,Itawamba,Tilden,222
-7,Rickey L Cole,Commissioner of Agriculture & Commerce,,D,Itawamba,Tilden,55
-7,Andy Gipson,Commissioner of Agriculture & Commerce,,R,Itawamba,Tilden,213
-10,Steve Eaton,State Senate,5,D,Itawamba,Tilden,22
-10,Daniel H Sparks,State Senate,5,R,Itawamba,Tilden,133
-10,Chad McMahan,State Senate,6,R,Itawamba,Tilden,x
-10,Hob Bryan,State Senate,7,D,Itawamba,Tilden,88
-10,Randy P Boyd,State House,19,R,Itawamba,Tilden,x
-10,Chris Brown,State House,20,R,Itawamba,Tilden,x
-10,Donnie Bell,State House,21,R,Itawamba,Tilden,247
-4,Jim Hood,Governor,,D,Itawamba,Tremont,38
-4,Tate Reeves,Governor,,R,Itawamba,Tremont,213
-4,Bob Hickingbottom,Governor,,C,Itawamba,Tremont,3
-4,David R Singletary,Governor,,IND,Itawamba,Tremont,5
-4,Delbert Hosemann,Lieutenant Governor,,R,Itawamba,Tremont,240
-4,Jay Hughes,Lieutenant Governor,,D,Itawamba,Tremont,20
-4,Johnny DuPree,Secretary of State,,D,Itawamba,Tremont,19
-4,Michael Watson,Secretary of State,,R,Itawamba,Tremont,238
-4,Jennifer Riley Collins,Attorney General,,D,Itawamba,Tremont,22
-4,Lynn Fitch,Attorney General,,R,Itawamba,Tremont,236
-4,Shad White,State Auditor,,R,Itawamba,Tremont,237
-7,Addie Lee Green,State Treasurer,,D,Itawamba,Tremont,13
-7,David McRae,State Treasurer,,R,Itawamba,Tremont,245
-7,Rickey L Cole,Commissioner of Agriculture & Commerce,,D,Itawamba,Tremont,18
-7,Andy Gipson,Commissioner of Agriculture & Commerce,,R,Itawamba,Tremont,239
-10,Steve Eaton,State Senate,5,D,Itawamba,Tremont,5
-10,Daniel H Sparks,State Senate,5,R,Itawamba,Tremont,91
-10,Chad McMahan,State Senate,6,R,Itawamba,Tremont,x
-10,Hob Bryan,State Senate,7,D,Itawamba,Tremont,88
-10,Randy P Boyd,State House,19,R,Itawamba,Tremont,x
-10,Chris Brown,State House,20,R,Itawamba,Tremont,x
-10,Donnie Bell,State House,21,R,Itawamba,Tremont,235
-4,Jim Hood,Governor,,D,Itawamba,TOTAL ,1591
-4,Tate Reeves,Governor,,R,Itawamba,TOTAL ,5788
-4,Bob Hickingbottom,Governor,,C,Itawamba,TOTAL ,34
-4,David R Singletary,Governor,,IND,Itawamba,TOTAL ,56
-4,Delbert Hosemann,Lieutenant Governor,,R,Itawamba,TOTAL ,6477
-4,Jay Hughes,Lieutenant Governor,,D,Itawamba,TOTAL ,961
-4,Johnny DuPree,Secretary of State,,D,Itawamba,TOTAL ,1026
-4,Michael Watson,Secretary of State,,R,Itawamba,TOTAL ,6316
-4,Jennifer Riley Collins,Attorney General,,D,Itawamba,TOTAL ,1179
-4,Lynn Fitch,Attorney General,,R,Itawamba,TOTAL ,6267
-4,Shad White,State Auditor,,R,Itawamba,TOTAL ,6807
-7,Addie Lee Green,State Treasurer,,D,Itawamba,TOTAL ,887
-7,David McRae,State Treasurer,,R,Itawamba,TOTAL ,6525
-7,Rickey L Cole,Commissioner of Agriculture & Commerce,,D,Itawamba,TOTAL ,1186
-7,Andy Gipson,Commissioner of Agriculture & Commerce,,R,Itawamba,TOTAL ,6178
-10,Steve Eaton,State Senate,5,D,Itawamba,TOTAL ,688
-10,Daniel H Sparks,State Senate,5,R,Itawamba,TOTAL ,4349
-10,Chad McMahan,State Senate,6,R,Itawamba,TOTAL ,679
-10,Hob Bryan,State Senate,7,D,Itawamba,TOTAL ,1134
-10,Randy P Boyd,State House,19,R,Itawamba,TOTAL ,2050
-10,Chris Brown,State House,20,R,Itawamba,TOTAL ,28
-10,Donnie Bell,State House,21,R,Itawamba,TOTAL ,4746
+﻿candidate,office,district,party,county,precinct,votes
+Jim Hood,Governor,,D,Itawamba,American Legion,195
+Tate Reeves,Governor,,R,Itawamba,American Legion,570
+Bob Hickingbottom,Governor,,C,Itawamba,American Legion,6
+David R Singletary,Governor,,IND,Itawamba,American Legion,7
+Delbert Hosemann,Lieutenant Governor,,R,Itawamba,American Legion,665
+Jay Hughes,Lieutenant Governor,,D,Itawamba,American Legion,114
+Johnny DuPree,Secretary of State,,D,Itawamba,American Legion,119
+Michael Watson,Secretary of State,,R,Itawamba,American Legion,645
+Jennifer Riley Collins,Attorney General,,D,Itawamba,American Legion,132
+Lynn Fitch,Attorney General,,R,Itawamba,American Legion,649
+Shad White,State Auditor,,R,Itawamba,American Legion,719
+Addie Lee Green,State Treasurer,,D,Itawamba,American Legion,97
+David McRae,State Treasurer,,R,Itawamba,American Legion,677
+Rickey L Cole,Commissioner of Agriculture & Commerce,,D,Itawamba,American Legion,128
+Andy Gipson,Commissioner of Agriculture & Commerce,,R,Itawamba,American Legion,643
+Steve Eaton,State Senate,5,D,Itawamba,American Legion,116
+Daniel H Sparks,State Senate,5,R,Itawamba,American Legion,659
+Chad McMahan,State Senate,6,R,Itawamba,American Legion,x
+Hob Bryan,State Senate,7,D,Itawamba,American Legion,x
+Randy P Boyd,State House,19,R,Itawamba,American Legion,x
+Chris Brown,State House,20,R,Itawamba,American Legion,x
+Donnie Bell,State House,21,R,Itawamba,American Legion,728
+Jim Hood,Governor,,D,Itawamba,Armory,76
+Tate Reeves,Governor,,R,Itawamba,Armory,274
+Bob Hickingbottom,Governor,,C,Itawamba,Armory,0
+David R Singletary,Governor,,IND,Itawamba,Armory,2
+Delbert Hosemann,Lieutenant Governor,,R,Itawamba,Armory,307
+Jay Hughes,Lieutenant Governor,,D,Itawamba,Armory,38
+Johnny DuPree,Secretary of State,,D,Itawamba,Armory,48
+Michael Watson,Secretary of State,,R,Itawamba,Armory,291
+Jennifer Riley Collins,Attorney General,,D,Itawamba,Armory,58
+Lynn Fitch,Attorney General,,R,Itawamba,Armory,289
+Shad White,State Auditor,,R,Itawamba,Armory,325
+Addie Lee Green,State Treasurer,,D,Itawamba,Armory,50
+David McRae,State Treasurer,,R,Itawamba,Armory,295
+Rickey L Cole,Commissioner of Agriculture & Commerce,,D,Itawamba,Armory,71
+Andy Gipson,Commissioner of Agriculture & Commerce,,R,Itawamba,Armory,271
+Steve Eaton,State Senate,5,D,Itawamba,Armory,61
+Daniel H Sparks,State Senate,5,R,Itawamba,Armory,286
+Chad McMahan,State Senate,6,R,Itawamba,Armory,x
+Hob Bryan,State Senate,7,D,Itawamba,Armory,x
+Randy P Boyd,State House,19,R,Itawamba,Armory,x
+Chris Brown,State House,20,R,Itawamba,Armory,x
+Donnie Bell,State House,21,R,Itawamba,Armory,329
+Jim Hood,Governor,,D,Itawamba,Banner-Pineville,66
+Tate Reeves,Governor,,R,Itawamba,Banner-Pineville,365
+Bob Hickingbottom,Governor,,C,Itawamba,Banner-Pineville,1
+David R Singletary,Governor,,IND,Itawamba,Banner-Pineville,3
+Delbert Hosemann,Lieutenant Governor,,R,Itawamba,Banner-Pineville,390
+Jay Hughes,Lieutenant Governor,,D,Itawamba,Banner-Pineville,35
+Johnny DuPree,Secretary of State,,D,Itawamba,Banner-Pineville,42
+Michael Watson,Secretary of State,,R,Itawamba,Banner-Pineville,374
+Jennifer Riley Collins,Attorney General,,D,Itawamba,Banner-Pineville,55
+Lynn Fitch,Attorney General,,R,Itawamba,Banner-Pineville,368
+Shad White,State Auditor,,R,Itawamba,Banner-Pineville,387
+Addie Lee Green,State Treasurer,,D,Itawamba,Banner-Pineville,36
+David McRae,State Treasurer,,R,Itawamba,Banner-Pineville,388
+Rickey L Cole,Commissioner of Agriculture & Commerce,,D,Itawamba,Banner-Pineville,44
+Andy Gipson,Commissioner of Agriculture & Commerce,,R,Itawamba,Banner-Pineville,371
+Steve Eaton,State Senate,5,D,Itawamba,Banner-Pineville,38
+Daniel H Sparks,State Senate,5,R,Itawamba,Banner-Pineville,386
+Chad McMahan,State Senate,6,R,Itawamba,Banner-Pineville,x
+Hob Bryan,State Senate,7,D,Itawamba,Banner-Pineville,x
+Randy P Boyd,State House,19,R,Itawamba,Banner-Pineville,x
+Chris Brown,State House,20,R,Itawamba,Banner-Pineville,x
+Donnie Bell,State House,21,R,Itawamba,Banner-Pineville,398
+Jim Hood,Governor,,D,Itawamba,Bounds,29
+Tate Reeves,Governor,,R,Itawamba,Bounds,87
+Bob Hickingbottom,Governor,,C,Itawamba,Bounds,0
+David R Singletary,Governor,,IND,Itawamba,Bounds,0
+Delbert Hosemann,Lieutenant Governor,,R,Itawamba,Bounds,104
+Jay Hughes,Lieutenant Governor,,D,Itawamba,Bounds,13
+Johnny DuPree,Secretary of State,,D,Itawamba,Bounds,11
+Michael Watson,Secretary of State,,R,Itawamba,Bounds,106
+Jennifer Riley Collins,Attorney General,,D,Itawamba,Bounds,13
+Lynn Fitch,Attorney General,,R,Itawamba,Bounds,105
+Shad White,State Auditor,,R,Itawamba,Bounds,112
+Addie Lee Green,State Treasurer,,D,Itawamba,Bounds,9
+David McRae,State Treasurer,,R,Itawamba,Bounds,109
+Rickey L Cole,Commissioner of Agriculture & Commerce,,D,Itawamba,Bounds,17
+Andy Gipson,Commissioner of Agriculture & Commerce,,R,Itawamba,Bounds,101
+Steve Eaton,State Senate,5,D,Itawamba,Bounds,9
+Daniel H Sparks,State Senate,5,R,Itawamba,Bounds,109
+Chad McMahan,State Senate,6,R,Itawamba,Bounds,x
+Hob Bryan,State Senate,7,D,Itawamba,Bounds,x
+Randy P Boyd,State House,19,R,Itawamba,Bounds,x
+Chris Brown,State House,20,R,Itawamba,Bounds,x
+Donnie Bell,State House,21,R,Itawamba,Bounds,110
+Jim Hood,Governor,,D,Itawamba,Cardsville,22
+Tate Reeves,Governor,,R,Itawamba,Cardsville,102
+Bob Hickingbottom,Governor,,C,Itawamba,Cardsville,0
+David R Singletary,Governor,,IND,Itawamba,Cardsville,0
+Delbert Hosemann,Lieutenant Governor,,R,Itawamba,Cardsville,106
+Jay Hughes,Lieutenant Governor,,D,Itawamba,Cardsville,18
+Johnny DuPree,Secretary of State,,D,Itawamba,Cardsville,14
+Michael Watson,Secretary of State,,R,Itawamba,Cardsville,110
+Jennifer Riley Collins,Attorney General,,D,Itawamba,Cardsville,12
+Lynn Fitch,Attorney General,,R,Itawamba,Cardsville,113
+Shad White,State Auditor,,R,Itawamba,Cardsville,122
+Addie Lee Green,State Treasurer,,D,Itawamba,Cardsville,11
+David McRae,State Treasurer,,R,Itawamba,Cardsville,114
+Rickey L Cole,Commissioner of Agriculture & Commerce,,D,Itawamba,Cardsville,13
+Andy Gipson,Commissioner of Agriculture & Commerce,,R,Itawamba,Cardsville,112
+Steve Eaton,State Senate,5,D,Itawamba,Cardsville,x
+Daniel H Sparks,State Senate,5,R,Itawamba,Cardsville,x
+Chad McMahan,State Senate,6,R,Itawamba,Cardsville,x
+Hob Bryan,State Senate,7,D,Itawamba,Cardsville,95
+Randy P Boyd,State House,19,R,Itawamba,Cardsville,x
+Chris Brown,State House,20,R,Itawamba,Cardsville,x
+Donnie Bell,State House,21,R,Itawamba,Cardsville,122
+Jim Hood,Governor,,D,Itawamba,Carolina,50
+Tate Reeves,Governor,,R,Itawamba,Carolina,145
+Bob Hickingbottom,Governor,,C,Itawamba,Carolina,0
+David R Singletary,Governor,,IND,Itawamba,Carolina,3
+Delbert Hosemann,Lieutenant Governor,,R,Itawamba,Carolina,162
+Jay Hughes,Lieutenant Governor,,D,Itawamba,Carolina,36
+Johnny DuPree,Secretary of State,,D,Itawamba,Carolina,30
+Michael Watson,Secretary of State,,R,Itawamba,Carolina,166
+Jennifer Riley Collins,Attorney General,,D,Itawamba,Carolina,39
+Lynn Fitch,Attorney General,,R,Itawamba,Carolina,158
+Shad White,State Auditor,,R,Itawamba,Carolina,180
+Addie Lee Green,State Treasurer,,D,Itawamba,Carolina,34
+David McRae,State Treasurer,,R,Itawamba,Carolina,163
+Rickey L Cole,Commissioner of Agriculture & Commerce,,D,Itawamba,Carolina,42
+Andy Gipson,Commissioner of Agriculture & Commerce,,R,Itawamba,Carolina,154
+Steve Eaton,State Senate,5,D,Itawamba,Carolina,x
+Daniel H Sparks,State Senate,5,R,Itawamba,Carolina,x
+Chad McMahan,State Senate,6,R,Itawamba,Carolina,x
+Hob Bryan,State Senate,7,D,Itawamba,Carolina,130
+Randy P Boyd,State House,19,R,Itawamba,Carolina,x
+Chris Brown,State House,20,R,Itawamba,Carolina,x
+Donnie Bell,State House,21,R,Itawamba,Carolina,175
+Jim Hood,Governor,,D,Itawamba,Centerville,41
+Tate Reeves,Governor,,R,Itawamba,Centerville,204
+Bob Hickingbottom,Governor,,C,Itawamba,Centerville,1
+David R Singletary,Governor,,IND,Itawamba,Centerville,1
+Delbert Hosemann,Lieutenant Governor,,R,Itawamba,Centerville,220
+Jay Hughes,Lieutenant Governor,,D,Itawamba,Centerville,25
+Johnny DuPree,Secretary of State,,D,Itawamba,Centerville,29
+Michael Watson,Secretary of State,,R,Itawamba,Centerville,213
+Jennifer Riley Collins,Attorney General,,D,Itawamba,Centerville,30
+Lynn Fitch,Attorney General,,R,Itawamba,Centerville,215
+Shad White,State Auditor,,R,Itawamba,Centerville,222
+Addie Lee Green,State Treasurer,,D,Itawamba,Centerville,24
+David McRae,State Treasurer,,R,Itawamba,Centerville,217
+Rickey L Cole,Commissioner of Agriculture & Commerce,,D,Itawamba,Centerville,28
+Andy Gipson,Commissioner of Agriculture & Commerce,,R,Itawamba,Centerville,212
+Steve Eaton,State Senate,5,D,Itawamba,Centerville,0
+Daniel H Sparks,State Senate,5,R,Itawamba,Centerville,1
+Chad McMahan,State Senate,6,R,Itawamba,Centerville,230
+Hob Bryan,State Senate,7,D,Itawamba,Centerville,x
+Randy P Boyd,State House,19,R,Itawamba,Centerville,225
+Chris Brown,State House,20,R,Itawamba,Centerville,x
+Donnie Bell,State House,21,R,Itawamba,Centerville,x
+Jim Hood,Governor,,D,Itawamba,Clay,89
+Tate Reeves,Governor,,R,Itawamba,Clay,445
+Bob Hickingbottom,Governor,,C,Itawamba,Clay,4
+David R Singletary,Governor,,IND,Itawamba,Clay,4
+Delbert Hosemann,Lieutenant Governor,,R,Itawamba,Clay,498
+Jay Hughes,Lieutenant Governor,,D,Itawamba,Clay,45
+Johnny DuPree,Secretary of State,,D,Itawamba,Clay,52
+Michael Watson,Secretary of State,,R,Itawamba,Clay,485
+Jennifer Riley Collins,Attorney General,,D,Itawamba,Clay,54
+Lynn Fitch,Attorney General,,R,Itawamba,Clay,487
+Shad White,State Auditor,,R,Itawamba,Clay,521
+Addie Lee Green,State Treasurer,,D,Itawamba,Clay,34
+David McRae,State Treasurer,,R,Itawamba,Clay,505
+Rickey L Cole,Commissioner of Agriculture & Commerce,,D,Itawamba,Clay,64
+Andy Gipson,Commissioner of Agriculture & Commerce,,R,Itawamba,Clay,472
+Steve Eaton,State Senate,5,D,Itawamba,Clay,45
+Daniel H Sparks,State Senate,5,R,Itawamba,Clay,497
+Chad McMahan,State Senate,6,R,Itawamba,Clay,x
+Hob Bryan,State Senate,7,D,Itawamba,Clay,x
+Randy P Boyd,State House,19,R,Itawamba,Clay,x
+Chris Brown,State House,20,R,Itawamba,Clay,x
+Donnie Bell,State House,21,R,Itawamba,Clay,521
+Jim Hood,Governor,,D,Itawamba,Courthouse,25
+Tate Reeves,Governor,,R,Itawamba,Courthouse,130
+Bob Hickingbottom,Governor,,C,Itawamba,Courthouse,1
+David R Singletary,Governor,,IND,Itawamba,Courthouse,4
+Delbert Hosemann,Lieutenant Governor,,R,Itawamba,Courthouse,133
+Jay Hughes,Lieutenant Governor,,D,Itawamba,Courthouse,24
+Johnny DuPree,Secretary of State,,D,Itawamba,Courthouse,22
+Michael Watson,Secretary of State,,R,Itawamba,Courthouse,134
+Jennifer Riley Collins,Attorney General,,D,Itawamba,Courthouse,23
+Lynn Fitch,Attorney General,,R,Itawamba,Courthouse,136
+Shad White,State Auditor,,R,Itawamba,Courthouse,145
+Addie Lee Green,State Treasurer,,D,Itawamba,Courthouse,19
+David McRae,State Treasurer,,R,Itawamba,Courthouse,140
+Rickey L Cole,Commissioner of Agriculture & Commerce,,D,Itawamba,Courthouse,24
+Andy Gipson,Commissioner of Agriculture & Commerce,,R,Itawamba,Courthouse,132
+Steve Eaton,State Senate,5,D,Itawamba,Courthouse,24
+Daniel H Sparks,State Senate,5,R,Itawamba,Courthouse,134
+Chad McMahan,State Senate,6,R,Itawamba,Courthouse,x
+Hob Bryan,State Senate,7,D,Itawamba,Courthouse,x
+Randy P Boyd,State House,19,R,Itawamba,Courthouse,x
+Chris Brown,State House,20,R,Itawamba,Courthouse,x
+Donnie Bell,State House,21,R,Itawamba,Courthouse,145
+Jim Hood,Governor,,D,Itawamba,Dorsey,57
+Tate Reeves,Governor,,R,Itawamba,Dorsey,369
+Bob Hickingbottom,Governor,,C,Itawamba,Dorsey,1
+David R Singletary,Governor,,IND,Itawamba,Dorsey,3
+Delbert Hosemann,Lieutenant Governor,,R,Itawamba,Dorsey,385
+Jay Hughes,Lieutenant Governor,,D,Itawamba,Dorsey,46
+Johnny DuPree,Secretary of State,,D,Itawamba,Dorsey,32
+Michael Watson,Secretary of State,,R,Itawamba,Dorsey,392
+Jennifer Riley Collins,Attorney General,,D,Itawamba,Dorsey,42
+Lynn Fitch,Attorney General,,R,Itawamba,Dorsey,387
+Shad White,State Auditor,,R,Itawamba,Dorsey,412
+Addie Lee Green,State Treasurer,,D,Itawamba,Dorsey,23
+David McRae,State Treasurer,,R,Itawamba,Dorsey,403
+Rickey L Cole,Commissioner of Agriculture & Commerce,,D,Itawamba,Dorsey,36
+Andy Gipson,Commissioner of Agriculture & Commerce,,R,Itawamba,Dorsey,386
+Steve Eaton,State Senate,5,D,Itawamba,Dorsey,x
+Daniel H Sparks,State Senate,5,R,Itawamba,Dorsey,x
+Chad McMahan,State Senate,6,R,Itawamba,Dorsey,x
+Hob Bryan,State Senate,7,D,Itawamba,Dorsey,268
+Randy P Boyd,State House,19,R,Itawamba,Dorsey,398
+Chris Brown,State House,20,R,Itawamba,Dorsey,x
+Donnie Bell,State House,21,R,Itawamba,Dorsey,x
+Jim Hood,Governor,,D,Itawamba,Evergreen,102
+Tate Reeves,Governor,,R,Itawamba,Evergreen,161
+Bob Hickingbottom,Governor,,C,Itawamba,Evergreen,1
+David R Singletary,Governor,,IND,Itawamba,Evergreen,1
+Delbert Hosemann,Lieutenant Governor,,R,Itawamba,Evergreen,187
+Jay Hughes,Lieutenant Governor,,D,Itawamba,Evergreen,72
+Johnny DuPree,Secretary of State,,D,Itawamba,Evergreen,79
+Michael Watson,Secretary of State,,R,Itawamba,Evergreen,178
+Jennifer Riley Collins,Attorney General,,D,Itawamba,Evergreen,89
+Lynn Fitch,Attorney General,,R,Itawamba,Evergreen,174
+Shad White,State Auditor,,R,Itawamba,Evergreen,204
+Addie Lee Green,State Treasurer,,D,Itawamba,Evergreen,77
+David McRae,State Treasurer,,R,Itawamba,Evergreen,186
+Rickey L Cole,Commissioner of Agriculture & Commerce,,D,Itawamba,Evergreen,92
+Andy Gipson,Commissioner of Agriculture & Commerce,,R,Itawamba,Evergreen,168
+Steve Eaton,State Senate,5,D,Itawamba,Evergreen,x
+Daniel H Sparks,State Senate,5,R,Itawamba,Evergreen,x
+Chad McMahan,State Senate,6,R,Itawamba,Evergreen,x
+Hob Bryan,State Senate,7,D,Itawamba,Evergreen,184
+Randy P Boyd,State House,19,R,Itawamba,Evergreen,x
+Chris Brown,State House,20,R,Itawamba,Evergreen,28
+Donnie Bell,State House,21,R,Itawamba,Evergreen,182
+Jim Hood,Governor,,D,Itawamba,Fairview-Pleasanton,25
+Tate Reeves,Governor,,R,Itawamba,Fairview-Pleasanton,74
+Bob Hickingbottom,Governor,,C,Itawamba,Fairview-Pleasanton,2
+David R Singletary,Governor,,IND,Itawamba,Fairview-Pleasanton,0
+Delbert Hosemann,Lieutenant Governor,,R,Itawamba,Fairview-Pleasanton,87
+Jay Hughes,Lieutenant Governor,,D,Itawamba,Fairview-Pleasanton,13
+Johnny DuPree,Secretary of State,,D,Itawamba,Fairview-Pleasanton,12
+Michael Watson,Secretary of State,,R,Itawamba,Fairview-Pleasanton,86
+Jennifer Riley Collins,Attorney General,,D,Itawamba,Fairview-Pleasanton,16
+Lynn Fitch,Attorney General,,R,Itawamba,Fairview-Pleasanton,84
+Shad White,State Auditor,,R,Itawamba,Fairview-Pleasanton,92
+Addie Lee Green,State Treasurer,,D,Itawamba,Fairview-Pleasanton,10
+David McRae,State Treasurer,,R,Itawamba,Fairview-Pleasanton,89
+Rickey L Cole,Commissioner of Agriculture & Commerce,,D,Itawamba,Fairview-Pleasanton,13
+Andy Gipson,Commissioner of Agriculture & Commerce,,R,Itawamba,Fairview-Pleasanton,86
+Steve Eaton,State Senate,5,D,Itawamba,Fairview-Pleasanton,15
+Daniel H Sparks,State Senate,5,R,Itawamba,Fairview-Pleasanton,85
+Chad McMahan,State Senate,6,R,Itawamba,Fairview-Pleasanton,x
+Hob Bryan,State Senate,7,D,Itawamba,Fairview-Pleasanton,x
+Randy P Boyd,State House,19,R,Itawamba,Fairview-Pleasanton,x
+Chris Brown,State House,20,R,Itawamba,Fairview-Pleasanton,x
+Donnie Bell,State House,21,R,Itawamba,Fairview-Pleasanton,93
+Jim Hood,Governor,,D,Itawamba,Fawn Grove,54
+Tate Reeves,Governor,,R,Itawamba,Fawn Grove,237
+Bob Hickingbottom,Governor,,C,Itawamba,Fawn Grove,0
+David R Singletary,Governor,,IND,Itawamba,Fawn Grove,3
+Delbert Hosemann,Lieutenant Governor,,R,Itawamba,Fawn Grove,264
+Jay Hughes,Lieutenant Governor,,D,Itawamba,Fawn Grove,29
+Johnny DuPree,Secretary of State,,D,Itawamba,Fawn Grove,32
+Michael Watson,Secretary of State,,R,Itawamba,Fawn Grove,261
+Jennifer Riley Collins,Attorney General,,D,Itawamba,Fawn Grove,40
+Lynn Fitch,Attorney General,,R,Itawamba,Fawn Grove,250
+Shad White,State Auditor,,R,Itawamba,Fawn Grove,266
+Addie Lee Green,State Treasurer,,D,Itawamba,Fawn Grove,21
+David McRae,State Treasurer,,R,Itawamba,Fawn Grove,270
+Rickey L Cole,Commissioner of Agriculture & Commerce,,D,Itawamba,Fawn Grove,33
+Andy Gipson,Commissioner of Agriculture & Commerce,,R,Itawamba,Fawn Grove,254
+Steve Eaton,State Senate,5,D,Itawamba,Fawn Grove,x
+Daniel H Sparks,State Senate,5,R,Itawamba,Fawn Grove,x
+Chad McMahan,State Senate,6,R,Itawamba,Fawn Grove,275
+Hob Bryan,State Senate,7,D,Itawamba,Fawn Grove,x
+Randy P Boyd,State House,19,R,Itawamba,Fawn Grove,270
+Chris Brown,State House,20,R,Itawamba,Fawn Grove,x
+Donnie Bell,State House,21,R,Itawamba,Fawn Grove,x
+Jim Hood,Governor,,D,Itawamba,Friendship,33
+Tate Reeves,Governor,,R,Itawamba,Friendship,96
+Bob Hickingbottom,Governor,,C,Itawamba,Friendship,0
+David R Singletary,Governor,,IND,Itawamba,Friendship,0
+Delbert Hosemann,Lieutenant Governor,,R,Itawamba,Friendship,112
+Jay Hughes,Lieutenant Governor,,D,Itawamba,Friendship,17
+Johnny DuPree,Secretary of State,,D,Itawamba,Friendship,22
+Michael Watson,Secretary of State,,R,Itawamba,Friendship,106
+Jennifer Riley Collins,Attorney General,,D,Itawamba,Friendship,20
+Lynn Fitch,Attorney General,,R,Itawamba,Friendship,108
+Shad White,State Auditor,,R,Itawamba,Friendship,120
+Addie Lee Green,State Treasurer,,D,Itawamba,Friendship,17
+David McRae,State Treasurer,,R,Itawamba,Friendship,112
+Rickey L Cole,Commissioner of Agriculture & Commerce,,D,Itawamba,Friendship,25
+Andy Gipson,Commissioner of Agriculture & Commerce,,R,Itawamba,Friendship,104
+Steve Eaton,State Senate,5,D,Itawamba,Friendship,22
+Daniel H Sparks,State Senate,5,R,Itawamba,Friendship,107
+Chad McMahan,State Senate,6,R,Itawamba,Friendship,x
+Hob Bryan,State Senate,7,D,Itawamba,Friendship,x
+Randy P Boyd,State House,19,R,Itawamba,Friendship,14
+Chris Brown,State House,20,R,Itawamba,Friendship,x
+Donnie Bell,State House,21,R,Itawamba,Friendship,106
+Jim Hood,Governor,,D,Itawamba,Friendship 1D,15
+Tate Reeves,Governor,,R,Itawamba,Friendship 1D,47
+Bob Hickingbottom,Governor,,C,Itawamba,Friendship 1D,2
+David R Singletary,Governor,,IND,Itawamba,Friendship 1D,4
+Delbert Hosemann,Lieutenant Governor,,R,Itawamba,Friendship 1D,61
+Jay Hughes,Lieutenant Governor,,D,Itawamba,Friendship 1D,7
+Johnny DuPree,Secretary of State,,D,Itawamba,Friendship 1D,10
+Michael Watson,Secretary of State,,R,Itawamba,Friendship 1D,57
+Jennifer Riley Collins,Attorney General,,D,Itawamba,Friendship 1D,7
+Lynn Fitch,Attorney General,,R,Itawamba,Friendship 1D,61
+Shad White,State Auditor,,R,Itawamba,Friendship 1D,66
+Addie Lee Green,State Treasurer,,D,Itawamba,Friendship 1D,7
+David McRae,State Treasurer,,R,Itawamba,Friendship 1D,60
+Rickey L Cole,Commissioner of Agriculture & Commerce,,D,Itawamba,Friendship 1D,7
+Andy Gipson,Commissioner of Agriculture & Commerce,,R,Itawamba,Friendship 1D,60
+Steve Eaton,State Senate,5,D,Itawamba,Friendship 1D,9
+Daniel H Sparks,State Senate,5,R,Itawamba,Friendship 1D,59
+Chad McMahan,State Senate,6,R,Itawamba,Friendship 1D,x
+Hob Bryan,State Senate,7,D,Itawamba,Friendship 1D,x
+Randy P Boyd,State House,19,R,Itawamba,Friendship 1D,22
+Chris Brown,State House,20,R,Itawamba,Friendship 1D,x
+Donnie Bell,State House,21,R,Itawamba,Friendship 1D,45
+Jim Hood,Governor,,D,Itawamba,Friendship 4D,8
+Tate Reeves,Governor,,R,Itawamba,Friendship 4D,48
+Bob Hickingbottom,Governor,,C,Itawamba,Friendship 4D,1
+David R Singletary,Governor,,IND,Itawamba,Friendship 4D,0
+Delbert Hosemann,Lieutenant Governor,,R,Itawamba,Friendship 4D,55
+Jay Hughes,Lieutenant Governor,,D,Itawamba,Friendship 4D,2
+Johnny DuPree,Secretary of State,,D,Itawamba,Friendship 4D,1
+Michael Watson,Secretary of State,,R,Itawamba,Friendship 4D,54
+Jennifer Riley Collins,Attorney General,,D,Itawamba,Friendship 4D,5
+Lynn Fitch,Attorney General,,R,Itawamba,Friendship 4D,52
+Shad White,State Auditor,,R,Itawamba,Friendship 4D,54
+Addie Lee Green,State Treasurer,,D,Itawamba,Friendship 4D,2
+David McRae,State Treasurer,,R,Itawamba,Friendship 4D,55
+Rickey L Cole,Commissioner of Agriculture & Commerce,,D,Itawamba,Friendship 4D,3
+Andy Gipson,Commissioner of Agriculture & Commerce,,R,Itawamba,Friendship 4D,53
+Steve Eaton,State Senate,5,D,Itawamba,Friendship 4D,2
+Daniel H Sparks,State Senate,5,R,Itawamba,Friendship 4D,55
+Chad McMahan,State Senate,6,R,Itawamba,Friendship 4D,x
+Hob Bryan,State Senate,7,D,Itawamba,Friendship 4D,x
+Randy P Boyd,State House,19,R,Itawamba,Friendship 4D,x
+Chris Brown,State House,20,R,Itawamba,Friendship 4D,x
+Donnie Bell,State House,21,R,Itawamba,Friendship 4D,52
+Jim Hood,Governor,,D,Itawamba,Friendship 5D,14
+Tate Reeves,Governor,,R,Itawamba,Friendship 5D,56
+Bob Hickingbottom,Governor,,C,Itawamba,Friendship 5D,0
+David R Singletary,Governor,,IND,Itawamba,Friendship 5D,1
+Delbert Hosemann,Lieutenant Governor,,R,Itawamba,Friendship 5D,62
+Jay Hughes,Lieutenant Governor,,D,Itawamba,Friendship 5D,8
+Johnny DuPree,Secretary of State,,D,Itawamba,Friendship 5D,6
+Michael Watson,Secretary of State,,R,Itawamba,Friendship 5D,65
+Jennifer Riley Collins,Attorney General,,D,Itawamba,Friendship 5D,6
+Lynn Fitch,Attorney General,,R,Itawamba,Friendship 5D,63
+Shad White,State Auditor,,R,Itawamba,Friendship 5D,66
+Addie Lee Green,State Treasurer,,D,Itawamba,Friendship 5D,6
+David McRae,State Treasurer,,R,Itawamba,Friendship 5D,65
+Rickey L Cole,Commissioner of Agriculture & Commerce,,D,Itawamba,Friendship 5D,7
+Andy Gipson,Commissioner of Agriculture & Commerce,,R,Itawamba,Friendship 5D,63
+Steve Eaton,State Senate,5,D,Itawamba,Friendship 5D,11
+Daniel H Sparks,State Senate,5,R,Itawamba,Friendship 5D,59
+Chad McMahan,State Senate,6,R,Itawamba,Friendship 5D,x
+Hob Bryan,State Senate,7,D,Itawamba,Friendship 5D,x
+Randy P Boyd,State House,19,R,Itawamba,Friendship 5D,3
+Chris Brown,State House,20,R,Itawamba,Friendship 5D,x
+Donnie Bell,State House,21,R,Itawamba,Friendship 5D,63
+Jim Hood,Governor,,D,Itawamba,Greenwood,127
+Tate Reeves,Governor,,R,Itawamba,Greenwood,154
+Bob Hickingbottom,Governor,,C,Itawamba,Greenwood,1
+David R Singletary,Governor,,IND,Itawamba,Greenwood,1
+Delbert Hosemann,Lieutenant Governor,,R,Itawamba,Greenwood,176
+Jay Hughes,Lieutenant Governor,,D,Itawamba,Greenwood,103
+Johnny DuPree,Secretary of State,,D,Itawamba,Greenwood,105
+Michael Watson,Secretary of State,,R,Itawamba,Greenwood,170
+Jennifer Riley Collins,Attorney General,,D,Itawamba,Greenwood,117
+Lynn Fitch,Attorney General,,R,Itawamba,Greenwood,164
+Shad White,State Auditor,,R,Itawamba,Greenwood,203
+Addie Lee Green,State Treasurer,,D,Itawamba,Greenwood,103
+David McRae,State Treasurer,,R,Itawamba,Greenwood,174
+Rickey L Cole,Commissioner of Agriculture & Commerce,,D,Itawamba,Greenwood,112
+Andy Gipson,Commissioner of Agriculture & Commerce,,R,Itawamba,Greenwood,163
+Steve Eaton,State Senate,5,D,Itawamba,Greenwood,x
+Daniel H Sparks,State Senate,5,R,Itawamba,Greenwood,x
+Chad McMahan,State Senate,6,R,Itawamba,Greenwood,x
+Hob Bryan,State Senate,7,D,Itawamba,Greenwood,215
+Randy P Boyd,State House,19,R,Itawamba,Greenwood,x
+Chris Brown,State House,20,R,Itawamba,Greenwood,x
+Donnie Bell,State House,21,R,Itawamba,Greenwood,202
+Jim Hood,Governor,,D,Itawamba,Icdc,144
+Tate Reeves,Governor,,R,Itawamba,Icdc,291
+Bob Hickingbottom,Governor,,C,Itawamba,Icdc,1
+David R Singletary,Governor,,IND,Itawamba,Icdc,2
+Delbert Hosemann,Lieutenant Governor,,R,Itawamba,Icdc,331
+Jay Hughes,Lieutenant Governor,,D,Itawamba,Icdc,109
+Johnny DuPree,Secretary of State,,D,Itawamba,Icdc,124
+Michael Watson,Secretary of State,,R,Itawamba,Icdc,309
+Jennifer Riley Collins,Attorney General,,D,Itawamba,Icdc,134
+Lynn Fitch,Attorney General,,R,Itawamba,Icdc,311
+Shad White,State Auditor,,R,Itawamba,Icdc,364
+Addie Lee Green,State Treasurer,,D,Itawamba,Icdc,112
+David McRae,State Treasurer,,R,Itawamba,Icdc,326
+Rickey L Cole,Commissioner of Agriculture & Commerce,,D,Itawamba,Icdc,136
+Andy Gipson,Commissioner of Agriculture & Commerce,,R,Itawamba,Icdc,303
+Steve Eaton,State Senate,5,D,Itawamba,Icdc,133
+Daniel H Sparks,State Senate,5,R,Itawamba,Icdc,303
+Chad McMahan,State Senate,6,R,Itawamba,Icdc,x
+Hob Bryan,State Senate,7,D,Itawamba,Icdc,x
+Randy P Boyd,State House,19,R,Itawamba,Icdc,x
+Chris Brown,State House,20,R,Itawamba,Icdc,x
+Donnie Bell,State House,21,R,Itawamba,Icdc,374
+Jim Hood,Governor,,D,Itawamba,James Creek,18
+Tate Reeves,Governor,,R,Itawamba,James Creek,95
+Bob Hickingbottom,Governor,,C,Itawamba,James Creek,1
+David R Singletary,Governor,,IND,Itawamba,James Creek,0
+Delbert Hosemann,Lieutenant Governor,,R,Itawamba,James Creek,108
+Jay Hughes,Lieutenant Governor,,D,Itawamba,James Creek,8
+Johnny DuPree,Secretary of State,,D,Itawamba,James Creek,9
+Michael Watson,Secretary of State,,R,Itawamba,James Creek,102
+Jennifer Riley Collins,Attorney General,,D,Itawamba,James Creek,7
+Lynn Fitch,Attorney General,,R,Itawamba,James Creek,107
+Shad White,State Auditor,,R,Itawamba,James Creek,101
+Addie Lee Green,State Treasurer,,D,Itawamba,James Creek,5
+David McRae,State Treasurer,,R,Itawamba,James Creek,109
+Rickey L Cole,Commissioner of Agriculture & Commerce,,D,Itawamba,James Creek,12
+Andy Gipson,Commissioner of Agriculture & Commerce,,R,Itawamba,James Creek,100
+Steve Eaton,State Senate,5,D,Itawamba,James Creek,x
+Daniel H Sparks,State Senate,5,R,Itawamba,James Creek,x
+Chad McMahan,State Senate,6,R,Itawamba,James Creek,x
+Hob Bryan,State Senate,7,D,Itawamba,James Creek,66
+Randy P Boyd,State House,19,R,Itawamba,James Creek,x
+Chris Brown,State House,20,R,Itawamba,James Creek,x
+Donnie Bell,State House,21,R,Itawamba,James Creek,106
+Jim Hood,Governor,,D,Itawamba,Kirkville,81
+Tate Reeves,Governor,,R,Itawamba,Kirkville,383
+Bob Hickingbottom,Governor,,C,Itawamba,Kirkville,3
+David R Singletary,Governor,,IND,Itawamba,Kirkville,5
+Delbert Hosemann,Lieutenant Governor,,R,Itawamba,Kirkville,440
+Jay Hughes,Lieutenant Governor,,D,Itawamba,Kirkville,31
+Johnny DuPree,Secretary of State,,D,Itawamba,Kirkville,45
+Michael Watson,Secretary of State,,R,Itawamba,Kirkville,419
+Jennifer Riley Collins,Attorney General,,D,Itawamba,Kirkville,42
+Lynn Fitch,Attorney General,,R,Itawamba,Kirkville,431
+Shad White,State Auditor,,R,Itawamba,Kirkville,444
+Addie Lee Green,State Treasurer,,D,Itawamba,Kirkville,31
+David McRae,State Treasurer,,R,Itawamba,Kirkville,440
+Rickey L Cole,Commissioner of Agriculture & Commerce,,D,Itawamba,Kirkville,53
+Andy Gipson,Commissioner of Agriculture & Commerce,,R,Itawamba,Kirkville,413
+Steve Eaton,State Senate,5,D,Itawamba,Kirkville,60
+Daniel H Sparks,State Senate,5,R,Itawamba,Kirkville,379
+Chad McMahan,State Senate,6,R,Itawamba,Kirkville,31
+Hob Bryan,State Senate,7,D,Itawamba,Kirkville,x
+Randy P Boyd,State House,19,R,Itawamba,Kirkville,432
+Chris Brown,State House,20,R,Itawamba,Kirkville,x
+Donnie Bell,State House,21,R,Itawamba,Kirkville,x
+Jim Hood,Governor,,D,Itawamba,Mantachie,73
+Tate Reeves,Governor,,R,Itawamba,Mantachie,378
+Bob Hickingbottom,Governor,,C,Itawamba,Mantachie,1
+David R Singletary,Governor,,IND,Itawamba,Mantachie,4
+Delbert Hosemann,Lieutenant Governor,,R,Itawamba,Mantachie,424
+Jay Hughes,Lieutenant Governor,,D,Itawamba,Mantachie,32
+Johnny DuPree,Secretary of State,,D,Itawamba,Mantachie,34
+Michael Watson,Secretary of State,,R,Itawamba,Mantachie,419
+Jennifer Riley Collins,Attorney General,,D,Itawamba,Mantachie,50
+Lynn Fitch,Attorney General,,R,Itawamba,Mantachie,408
+Shad White,State Auditor,,R,Itawamba,Mantachie,441
+Addie Lee Green,State Treasurer,,D,Itawamba,Mantachie,35
+David McRae,State Treasurer,,R,Itawamba,Mantachie,422
+Rickey L Cole,Commissioner of Agriculture & Commerce,,D,Itawamba,Mantachie,51
+Andy Gipson,Commissioner of Agriculture & Commerce,,R,Itawamba,Mantachie,405
+Steve Eaton,State Senate,5,D,Itawamba,Mantachie,48
+Daniel H Sparks,State Senate,5,R,Itawamba,Mantachie,404
+Chad McMahan,State Senate,6,R,Itawamba,Mantachie,2
+Hob Bryan,State Senate,7,D,Itawamba,Mantachie,x
+Randy P Boyd,State House,19,R,Itawamba,Mantachie,432
+Chris Brown,State House,20,R,Itawamba,Mantachie,x
+Donnie Bell,State House,21,R,Itawamba,Mantachie,x
+Jim Hood,Governor,,D,Itawamba,Mantachie 3D,23
+Tate Reeves,Governor,,R,Itawamba,Mantachie 3D,104
+Bob Hickingbottom,Governor,,C,Itawamba,Mantachie 3D,1
+David R Singletary,Governor,,IND,Itawamba,Mantachie 3D,0
+Delbert Hosemann,Lieutenant Governor,,R,Itawamba,Mantachie 3D,120
+Jay Hughes,Lieutenant Governor,,D,Itawamba,Mantachie 3D,10
+Johnny DuPree,Secretary of State,,D,Itawamba,Mantachie 3D,15
+Michael Watson,Secretary of State,,R,Itawamba,Mantachie 3D,115
+Jennifer Riley Collins,Attorney General,,D,Itawamba,Mantachie 3D,15
+Lynn Fitch,Attorney General,,R,Itawamba,Mantachie 3D,113
+Shad White,State Auditor,,R,Itawamba,Mantachie 3D,120
+Addie Lee Green,State Treasurer,,D,Itawamba,Mantachie 3D,10
+David McRae,State Treasurer,,R,Itawamba,Mantachie 3D,119
+Rickey L Cole,Commissioner of Agriculture & Commerce,,D,Itawamba,Mantachie 3D,11
+Andy Gipson,Commissioner of Agriculture & Commerce,,R,Itawamba,Mantachie 3D,118
+Steve Eaton,State Senate,5,D,Itawamba,Mantachie 3D,18
+Daniel H Sparks,State Senate,5,R,Itawamba,Mantachie 3D,111
+Chad McMahan,State Senate,6,R,Itawamba,Mantachie 3D,x
+Hob Bryan,State Senate,7,D,Itawamba,Mantachie 3D,x
+Randy P Boyd,State House,19,R,Itawamba,Mantachie 3D,118
+Chris Brown,State House,20,R,Itawamba,Mantachie 3D,x
+Donnie Bell,State House,21,R,Itawamba,Mantachie 3D,x
+Jim Hood,Governor,,D,Itawamba,Ratliff ,14
+Tate Reeves,Governor,,R,Itawamba,Ratliff ,129
+Bob Hickingbottom,Governor,,C,Itawamba,Ratliff ,0
+David R Singletary,Governor,,IND,Itawamba,Ratliff ,1
+Delbert Hosemann,Lieutenant Governor,,R,Itawamba,Ratliff ,141
+Jay Hughes,Lieutenant Governor,,D,Itawamba,Ratliff ,2
+Johnny DuPree,Secretary of State,,D,Itawamba,Ratliff ,5
+Michael Watson,Secretary of State,,R,Itawamba,Ratliff ,136
+Jennifer Riley Collins,Attorney General,,D,Itawamba,Ratliff ,10
+Lynn Fitch,Attorney General,,R,Itawamba,Ratliff ,134
+Shad White,State Auditor,,R,Itawamba,Ratliff ,142
+Addie Lee Green,State Treasurer,,D,Itawamba,Ratliff ,4
+David McRae,State Treasurer,,R,Itawamba,Ratliff ,140
+Rickey L Cole,Commissioner of Agriculture & Commerce,,D,Itawamba,Ratliff ,10
+Andy Gipson,Commissioner of Agriculture & Commerce,,R,Itawamba,Ratliff ,133
+Steve Eaton,State Senate,5,D,Itawamba,Ratliff ,0
+Daniel H Sparks,State Senate,5,R,Itawamba,Ratliff ,0
+Chad McMahan,State Senate,6,R,Itawamba,Ratliff ,141
+Hob Bryan,State Senate,7,D,Itawamba,Ratliff ,x
+Randy P Boyd,State House,19,R,Itawamba,Ratliff ,136
+Chris Brown,State House,20,R,Itawamba,Ratliff ,x
+Donnie Bell,State House,21,R,Itawamba,Ratliff ,x
+Jim Hood,Governor,,D,Itawamba,Ryan,52
+Tate Reeves,Governor,,R,Itawamba,Ryan,171
+Bob Hickingbottom,Governor,,C,Itawamba,Ryan,1
+David R Singletary,Governor,,IND,Itawamba,Ryan,0
+Delbert Hosemann,Lieutenant Governor,,R,Itawamba,Ryan,198
+Jay Hughes,Lieutenant Governor,,D,Itawamba,Ryan,28
+Johnny DuPree,Secretary of State,,D,Itawamba,Ryan,33
+Michael Watson,Secretary of State,,R,Itawamba,Ryan,190
+Jennifer Riley Collins,Attorney General,,D,Itawamba,Ryan,32
+Lynn Fitch,Attorney General,,R,Itawamba,Ryan,191
+Shad White,State Auditor,,R,Itawamba,Ryan,206
+Addie Lee Green,State Treasurer,,D,Itawamba,Ryan,27
+David McRae,State Treasurer,,R,Itawamba,Ryan,196
+Rickey L Cole,Commissioner of Agriculture & Commerce,,D,Itawamba,Ryan,43
+Andy Gipson,Commissioner of Agriculture & Commerce,,R,Itawamba,Ryan,179
+Steve Eaton,State Senate,5,D,Itawamba,Ryan,27
+Daniel H Sparks,State Senate,5,R,Itawamba,Ryan,198
+Chad McMahan,State Senate,6,R,Itawamba,Ryan,x
+Hob Bryan,State Senate,7,D,Itawamba,Ryan,x
+Randy P Boyd,State House,19,R,Itawamba,Ryan,x
+Chris Brown,State House,20,R,Itawamba,Ryan,x
+Donnie Bell,State House,21,R,Itawamba,Ryan,215
+Jim Hood,Governor,,D,Itawamba,Salem -Copeland,37
+Tate Reeves,Governor,,R,Itawamba,Salem -Copeland,276
+Bob Hickingbottom,Governor,,C,Itawamba,Salem -Copeland,2
+David R Singletary,Governor,,IND,Itawamba,Salem -Copeland,0
+Delbert Hosemann,Lieutenant Governor,,R,Itawamba,Salem -Copeland,287
+Jay Hughes,Lieutenant Governor,,D,Itawamba,Salem -Copeland,22
+Johnny DuPree,Secretary of State,,D,Itawamba,Salem -Copeland,32
+Michael Watson,Secretary of State,,R,Itawamba,Salem -Copeland,274
+Jennifer Riley Collins,Attorney General,,D,Itawamba,Salem -Copeland,43
+Lynn Fitch,Attorney General,,R,Itawamba,Salem -Copeland,270
+Shad White,State Auditor,,R,Itawamba,Salem -Copeland,294
+Addie Lee Green,State Treasurer,,D,Itawamba,Salem -Copeland,24
+David McRae,State Treasurer,,R,Itawamba,Salem -Copeland,284
+Rickey L Cole,Commissioner of Agriculture & Commerce,,D,Itawamba,Salem -Copeland,38
+Andy Gipson,Commissioner of Agriculture & Commerce,,R,Itawamba,Salem -Copeland,270
+Steve Eaton,State Senate,5,D,Itawamba,Salem -Copeland,23
+Daniel H Sparks,State Senate,5,R,Itawamba,Salem -Copeland,293
+Chad McMahan,State Senate,6,R,Itawamba,Salem -Copeland,x
+Hob Bryan,State Senate,7,D,Itawamba,Salem -Copeland,x
+Randy P Boyd,State House,19,R,Itawamba,Salem -Copeland,x
+Chris Brown,State House,20,R,Itawamba,Salem -Copeland,x
+Donnie Bell,State House,21,R,Itawamba,Salem -Copeland,298
+Jim Hood,Governor,,D,Itawamba,Tilden,83
+Tate Reeves,Governor,,R,Itawamba,Tilden,184
+Bob Hickingbottom,Governor,,C,Itawamba,Tilden,0
+David R Singletary,Governor,,IND,Itawamba,Tilden,2
+Delbert Hosemann,Lieutenant Governor,,R,Itawamba,Tilden,214
+Jay Hughes,Lieutenant Governor,,D,Itawamba,Tilden,54
+Johnny DuPree,Secretary of State,,D,Itawamba,Tilden,44
+Michael Watson,Secretary of State,,R,Itawamba,Tilden,221
+Jennifer Riley Collins,Attorney General,,D,Itawamba,Tilden,66
+Lynn Fitch,Attorney General,,R,Itawamba,Tilden,203
+Shad White,State Auditor,,R,Itawamba,Tilden,242
+Addie Lee Green,State Treasurer,,D,Itawamba,Tilden,46
+David McRae,State Treasurer,,R,Itawamba,Tilden,222
+Rickey L Cole,Commissioner of Agriculture & Commerce,,D,Itawamba,Tilden,55
+Andy Gipson,Commissioner of Agriculture & Commerce,,R,Itawamba,Tilden,213
+Steve Eaton,State Senate,5,D,Itawamba,Tilden,22
+Daniel H Sparks,State Senate,5,R,Itawamba,Tilden,133
+Chad McMahan,State Senate,6,R,Itawamba,Tilden,x
+Hob Bryan,State Senate,7,D,Itawamba,Tilden,88
+Randy P Boyd,State House,19,R,Itawamba,Tilden,x
+Chris Brown,State House,20,R,Itawamba,Tilden,x
+Donnie Bell,State House,21,R,Itawamba,Tilden,247
+Jim Hood,Governor,,D,Itawamba,Tremont,38
+Tate Reeves,Governor,,R,Itawamba,Tremont,213
+Bob Hickingbottom,Governor,,C,Itawamba,Tremont,3
+David R Singletary,Governor,,IND,Itawamba,Tremont,5
+Delbert Hosemann,Lieutenant Governor,,R,Itawamba,Tremont,240
+Jay Hughes,Lieutenant Governor,,D,Itawamba,Tremont,20
+Johnny DuPree,Secretary of State,,D,Itawamba,Tremont,19
+Michael Watson,Secretary of State,,R,Itawamba,Tremont,238
+Jennifer Riley Collins,Attorney General,,D,Itawamba,Tremont,22
+Lynn Fitch,Attorney General,,R,Itawamba,Tremont,236
+Shad White,State Auditor,,R,Itawamba,Tremont,237
+Addie Lee Green,State Treasurer,,D,Itawamba,Tremont,13
+David McRae,State Treasurer,,R,Itawamba,Tremont,245
+Rickey L Cole,Commissioner of Agriculture & Commerce,,D,Itawamba,Tremont,18
+Andy Gipson,Commissioner of Agriculture & Commerce,,R,Itawamba,Tremont,239
+Steve Eaton,State Senate,5,D,Itawamba,Tremont,5
+Daniel H Sparks,State Senate,5,R,Itawamba,Tremont,91
+Chad McMahan,State Senate,6,R,Itawamba,Tremont,x
+Hob Bryan,State Senate,7,D,Itawamba,Tremont,88
+Randy P Boyd,State House,19,R,Itawamba,Tremont,x
+Chris Brown,State House,20,R,Itawamba,Tremont,x
+Donnie Bell,State House,21,R,Itawamba,Tremont,235
+Jim Hood,Governor,,D,Itawamba,TOTAL ,1591
+Tate Reeves,Governor,,R,Itawamba,TOTAL ,5788
+Bob Hickingbottom,Governor,,C,Itawamba,TOTAL ,34
+David R Singletary,Governor,,IND,Itawamba,TOTAL ,56
+Delbert Hosemann,Lieutenant Governor,,R,Itawamba,TOTAL ,6477
+Jay Hughes,Lieutenant Governor,,D,Itawamba,TOTAL ,961
+Johnny DuPree,Secretary of State,,D,Itawamba,TOTAL ,1026
+Michael Watson,Secretary of State,,R,Itawamba,TOTAL ,6316
+Jennifer Riley Collins,Attorney General,,D,Itawamba,TOTAL ,1179
+Lynn Fitch,Attorney General,,R,Itawamba,TOTAL ,6267
+Shad White,State Auditor,,R,Itawamba,TOTAL ,6807
+Addie Lee Green,State Treasurer,,D,Itawamba,TOTAL ,887
+David McRae,State Treasurer,,R,Itawamba,TOTAL ,6525
+Rickey L Cole,Commissioner of Agriculture & Commerce,,D,Itawamba,TOTAL ,1186
+Andy Gipson,Commissioner of Agriculture & Commerce,,R,Itawamba,TOTAL ,6178
+Steve Eaton,State Senate,5,D,Itawamba,TOTAL ,688
+Daniel H Sparks,State Senate,5,R,Itawamba,TOTAL ,4349
+Chad McMahan,State Senate,6,R,Itawamba,TOTAL ,679
+Hob Bryan,State Senate,7,D,Itawamba,TOTAL ,1134
+Randy P Boyd,State House,19,R,Itawamba,TOTAL ,2050
+Chris Brown,State House,20,R,Itawamba,TOTAL ,28
+Donnie Bell,State House,21,R,Itawamba,TOTAL ,4746
+Robert E. Amos,Commissioner of Insurance,,D,Itawamba,American Legion,83
+Mike Chaney,Commissioner of Insurance,,R,Itawamba,American Legion,692
+Robert E. Amos,Commissioner of Insurance,,D,Itawamba,Armory,53
+Mike Chaney,Commissioner of Insurance,,R,Itawamba,Armory,291
+Robert E. Amos,Commissioner of Insurance,,D,Itawamba,Banner-Pineville,31
+Mike Chaney,Commissioner of Insurance,,R,Itawamba,Banner-Pineville,390
+Robert E. Amos,Commissioner of Insurance,,D,Itawamba,Bounds,9
+Mike Chaney,Commissioner of Insurance,,R,Itawamba,Bounds,108
+Robert E. Amos,Commissioner of Insurance,,D,Itawamba,Cardsville,8
+Mike Chaney,Commissioner of Insurance,,R,Itawamba,Cardsville,117
+Robert E. Amos,Commissioner of Insurance,,D,Itawamba,Carolina,41
+Mike Chaney,Commissioner of Insurance,,R,Itawamba,Carolina,156
+Robert E. Amos,Commissioner of Insurance,,D,Itawamba,Centerville,24
+Mike Chaney,Commissioner of Insurance,,R,Itawamba,Centerville,219
+Robert E. Amos,Commissioner of Insurance,,D,Itawamba,Clay,37
+Mike Chaney,Commissioner of Insurance,,R,Itawamba,Clay,501
+Robert E. Amos,Commissioner of Insurance,,D,Itawamba,Courthouse,17
+Mike Chaney,Commissioner of Insurance,,R,Itawamba,Courthouse,140
+Robert E. Amos,Commissioner of Insurance,,D,Itawamba,Dorsey,21
+Mike Chaney,Commissioner of Insurance,,R,Itawamba,Dorsey,404
+Robert E. Amos,Commissioner of Insurance,,D,Itawamba,Evergreen,76
+Mike Chaney,Commissioner of Insurance,,R,Itawamba,Evergreen,183
+Robert E. Amos,Commissioner of Insurance,,D,Itawamba,Fairview-Pleasanton,12
+Mike Chaney,Commissioner of Insurance,,R,Itawamba,Fairview-Pleasanton,87
+Robert E. Amos,Commissioner of Insurance,,D,Itawamba,Fawn Grove,18
+Mike Chaney,Commissioner of Insurance,,R,Itawamba,Fawn Grove,271
+Robert E. Amos,Commissioner of Insurance,,D,Itawamba,Friendship,15
+Mike Chaney,Commissioner of Insurance,,R,Itawamba,Friendship,113
+Robert E. Amos,Commissioner of Insurance,,D,Itawamba,Friendship 1D,7
+Mike Chaney,Commissioner of Insurance,,R,Itawamba,Friendship 1D,61
+Robert E. Amos,Commissioner of Insurance,,D,Itawamba,Friendship 4D,2
+Mike Chaney,Commissioner of Insurance,,R,Itawamba,Friendship 4D,55
+Robert E. Amos,Commissioner of Insurance,,D,Itawamba,Friendship 5D,7
+Mike Chaney,Commissioner of Insurance,,R,Itawamba,Friendship 5D,64
+Robert E. Amos,Commissioner of Insurance,,D,Itawamba,Greenwood,101
+Mike Chaney,Commissioner of Insurance,,R,Itawamba,Greenwood,176
+Robert E. Amos,Commissioner of Insurance,,D,Itawamba,Icdc,116
+Mike Chaney,Commissioner of Insurance,,R,Itawamba,Icdc,321
+Robert E. Amos,Commissioner of Insurance,,D,Itawamba,James Creek,7
+Mike Chaney,Commissioner of Insurance,,R,Itawamba,James Creek,105
+Robert E. Amos,Commissioner of Insurance,,D,Itawamba,Kirkville,29
+Mike Chaney,Commissioner of Insurance,,R,Itawamba,Kirkville,439
+Robert E. Amos,Commissioner of Insurance,,D,Itawamba,Mantachie,26
+Mike Chaney,Commissioner of Insurance,,R,Itawamba,Mantachie,429
+Robert E. Amos,Commissioner of Insurance,,D,Itawamba,Mantachie 3D,8
+Mike Chaney,Commissioner of Insurance,,R,Itawamba,Mantachie 3D,122
+Robert E. Amos,Commissioner of Insurance,,D,Itawamba,Ratliff ,6
+Mike Chaney,Commissioner of Insurance,,R,Itawamba,Ratliff ,138
+Robert E. Amos,Commissioner of Insurance,,D,Itawamba,Ryan,21
+Mike Chaney,Commissioner of Insurance,,R,Itawamba,Ryan,199
+Robert E. Amos,Commissioner of Insurance,,D,Itawamba,Salem -Copeland,28
+Mike Chaney,Commissioner of Insurance,,R,Itawamba,Salem -Copeland,284
+Robert E. Amos,Commissioner of Insurance,,D,Itawamba,Tilden,42
+Mike Chaney,Commissioner of Insurance,,R,Itawamba,Tilden,225
+Robert E. Amos,Commissioner of Insurance,,D,Itawamba,Tremont,13
+Mike Chaney,Commissioner of Insurance,,R,Itawamba,Tremont,246
+Robert E. Amos,Commissioner of Insurance,,D,Itawamba,TOTAL ,858
+Mike Chaney,Commissioner of Insurance,,R,Itawamba,TOTAL ,6536

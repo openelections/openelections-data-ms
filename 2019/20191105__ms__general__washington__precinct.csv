@@ -1,573 +1,481 @@
-﻿page,candidate,office,district,party,county,precinct,votes
-2,Jim Hood,Governor,,D,Washington,Arcola Technology Center,185
-2,Tate Reeves,Governor,,R,Washington,Arcola Technology Center,99
-2,Bob Hickingbottom,Governor,,C,Washington,Arcola Technology Center,1
-2,David R Singletary,Governor,,IND,Washington,Arcola Technology Center,1
-2,Delbert Hosemann,Lieutenant Governor,,R,Washington,Arcola Technology Center,115
-2,Jay Hughes,Lieutenant Governor,,D,Washington,Arcola Technology Center,163
-2,Johnny DuPree,Secretary of State,,D,Washington,Arcola Technology Center,164
-2,Michael Watson,Secretary of State,,R,Washington,Arcola Technology Center,108
-2,Jennifer Riley Collins,Attorney General,,D,Washington,Arcola Technology Center,174
-2,Lynn Fitch,Attorney General,,R,Washington,Arcola Technology Center,108
-2,Shad White,State Auditor,,R,Washington,Arcola Technology Center,171
-4,Addie Lee Green,State Treasurer,,D,Washington,Arcola Technology Center,166
-4,David McRae,State Treasurer,,R,Washington,Arcola Technology Center,114
-4,Rickey L Cole,Commissioner of Agriculture & Commerce,,D,Washington,Arcola Technology Center,171
-4,Andy Gipson,Commissioner of Agriculture & Commerce,,R,Washington,Arcola Technology Center,106
-6,Derrick T Simmons,State Senate,12,D,Washington,Arcola Technology Center,x
-6,Paul D Pecou,State Senate,12,IND,Washington,Arcola Technology Center,x
-6,Hayes Dent,State Senate,22,R,Washington,Arcola Technology Center,119
-6,Joseph C Thomas Sr.,State Senate,22,D,Washington,Arcola Technology Center,163
-6,Otis L Anthony ,State House,31,D,Washington,Arcola Technology Center,x
-6,Willie L Bailey,State House,49,D,Washington,Arcola Technology Center,x
-6,John W Hines Sr.,State House,50,D,Washington,Arcola Technology Center,225
-2,Jim Hood,Governor,,D,Washington,Buster Brown Community Center,993
-2,Tate Reeves,Governor,,R,Washington,Buster Brown Community Center,191
-2,Bob Hickingbottom,Governor,,C,Washington,Buster Brown Community Center,0
-2,David R Singletary,Governor,,IND,Washington,Buster Brown Community Center,14
-2,Delbert Hosemann,Lieutenant Governor,,R,Washington,Buster Brown Community Center,273
-2,Jay Hughes,Lieutenant Governor,,D,Washington,Buster Brown Community Center,894
-2,Johnny DuPree,Secretary of State,,D,Washington,Buster Brown Community Center,915
-2,Michael Watson,Secretary of State,,R,Washington,Buster Brown Community Center,253
-2,Jennifer Riley Collins,Attorney General,,D,Washington,Buster Brown Community Center,954
-2,Lynn Fitch,Attorney General,,R,Washington,Buster Brown Community Center,229
-2,Shad White,State Auditor,,R,Washington,Buster Brown Community Center,626
-4,Addie Lee Green,State Treasurer,,D,Washington,Buster Brown Community Center,909
-4,David McRae,State Treasurer,,R,Washington,Buster Brown Community Center,256
-4,Rickey L Cole,Commissioner of Agriculture & Commerce,,D,Washington,Buster Brown Community Center,919
-4,Andy Gipson,Commissioner of Agriculture & Commerce,,R,Washington,Buster Brown Community Center,248
-6,Derrick T Simmons,State Senate,12,D,Washington,Buster Brown Community Center,1032
-6,Paul D Pecou,State Senate,12,IND,Washington,Buster Brown Community Center,122
-6,Hayes Dent,State Senate,22,R,Washington,Buster Brown Community Center,x
-6,Joseph C Thomas Sr.,State Senate,22,D,Washington,Buster Brown Community Center,x
-6,Otis L Anthony ,State House,31,D,Washington,Buster Brown Community Center,x
-6,Willie L Bailey,State House,49,D,Washington,Buster Brown Community Center,505
-6,John W Hines Sr.,State House,50,D,Washington,Buster Brown Community Center,563
-2,Jim Hood,Governor,,D,Washington,Covenant Presbyterian Church,321
-2,Tate Reeves,Governor,,R,Washington,Covenant Presbyterian Church,533
-2,Bob Hickingbottom,Governor,,C,Washington,Covenant Presbyterian Church,2
-2,David R Singletary,Governor,,IND,Washington,Covenant Presbyterian Church,3
-2,Delbert Hosemann,Lieutenant Governor,,R,Washington,Covenant Presbyterian Church,614
-2,Jay Hughes,Lieutenant Governor,,D,Washington,Covenant Presbyterian Church,240
-2,Johnny DuPree,Secretary of State,,D,Washington,Covenant Presbyterian Church,254
-2,Michael Watson,Secretary of State,,R,Washington,Covenant Presbyterian Church,586
-2,Jennifer Riley Collins,Attorney General,,D,Washington,Covenant Presbyterian Church,252
-2,Lynn Fitch,Attorney General,,R,Washington,Covenant Presbyterian Church,605
-2,Shad White,State Auditor,,R,Washington,Covenant Presbyterian Church,722
-4,Addie Lee Green,State Treasurer,,D,Washington,Covenant Presbyterian Church,232
-4,David McRae,State Treasurer,,R,Washington,Covenant Presbyterian Church,606
-4,Rickey L Cole,Commissioner of Agriculture & Commerce,,D,Washington,Covenant Presbyterian Church,244
-4,Andy Gipson,Commissioner of Agriculture & Commerce,,R,Washington,Covenant Presbyterian Church,604
-6,Derrick T Simmons,State Senate,12,D,Washington,Covenant Presbyterian Church,502
-6,Paul D Pecou,State Senate,12,IND,Washington,Covenant Presbyterian Church,284
-6,Hayes Dent,State Senate,22,R,Washington,Covenant Presbyterian Church,x
-6,Joseph C Thomas Sr.,State Senate,22,D,Washington,Covenant Presbyterian Church,x
-6,Otis L Anthony ,State House,31,D,Washington,Covenant Presbyterian Church,x
-6,Willie L Bailey,State House,49,D,Washington,Covenant Presbyterian Church,598
-6,John W Hines Sr.,State House,50,D,Washington,Covenant Presbyterian Church,x
-2,Jim Hood,Governor,,D,Washington,Darlove,24
-2,Tate Reeves,Governor,,R,Washington,Darlove,27
-2,Bob Hickingbottom,Governor,,C,Washington,Darlove,1
-2,David R Singletary,Governor,,IND,Washington,Darlove,0
-2,Delbert Hosemann,Lieutenant Governor,,R,Washington,Darlove,34
-2,Jay Hughes,Lieutenant Governor,,D,Washington,Darlove,15
-2,Johnny DuPree,Secretary of State,,D,Washington,Darlove,21
-2,Michael Watson,Secretary of State,,R,Washington,Darlove,28
-2,Jennifer Riley Collins,Attorney General,,D,Washington,Darlove,19
-2,Lynn Fitch,Attorney General,,R,Washington,Darlove,32
-2,Shad White,State Auditor,,R,Washington,Darlove,42
-4,Addie Lee Green,State Treasurer,,D,Washington,Darlove,18
-4,David McRae,State Treasurer,,R,Washington,Darlove,32
-4,Rickey L Cole,Commissioner of Agriculture & Commerce,,D,Washington,Darlove,18
-4,Andy Gipson,Commissioner of Agriculture & Commerce,,R,Washington,Darlove,31
-6,Derrick T Simmons,State Senate,12,D,Washington,Darlove,x
-6,Paul D Pecou,State Senate,12,IND,Washington,Darlove,x
-6,Hayes Dent,State Senate,22,R,Washington,Darlove,31
-6,Joseph C Thomas Sr.,State Senate,22,D,Washington,Darlove,19
-6,Otis L Anthony ,State House,31,D,Washington,Darlove,x
-6,Willie L Bailey,State House,49,D,Washington,Darlove,x
-6,John W Hines Sr.,State House,50,D,Washington,Darlove,33
-2,Jim Hood,Governor,,D,Washington,Elks Lodge,880
-2,Tate Reeves,Governor,,R,Washington,Elks Lodge,43
-2,Bob Hickingbottom,Governor,,C,Washington,Elks Lodge,0
-2,David R Singletary,Governor,,IND,Washington,Elks Lodge,10
-2,Delbert Hosemann,Lieutenant Governor,,R,Washington,Elks Lodge,75
-2,Jay Hughes,Lieutenant Governor,,D,Washington,Elks Lodge,819
-2,Johnny DuPree,Secretary of State,,D,Washington,Elks Lodge,834
-2,Michael Watson,Secretary of State,,R,Washington,Elks Lodge,57
-2,Jennifer Riley Collins,Attorney General,,D,Washington,Elks Lodge,862
-2,Lynn Fitch,Attorney General,,R,Washington,Elks Lodge,51
-2,Shad White,State Auditor,,R,Washington,Elks Lodge,382
-4,Addie Lee Green,State Treasurer,,D,Washington,Elks Lodge,837
-4,David McRae,State Treasurer,,R,Washington,Elks Lodge,57
-4,Rickey L Cole,Commissioner of Agriculture & Commerce,,D,Washington,Elks Lodge,845
-4,Andy Gipson,Commissioner of Agriculture & Commerce,,R,Washington,Elks Lodge,54
-6,Derrick T Simmons,State Senate,12,D,Washington,Elks Lodge,850
-6,Paul D Pecou,State Senate,12,IND,Washington,Elks Lodge,44
-6,Hayes Dent,State Senate,22,R,Washington,Elks Lodge,x
-6,Joseph C Thomas Sr.,State Senate,22,D,Washington,Elks Lodge,x
-6,Otis L Anthony ,State House,31,D,Washington,Elks Lodge,x
-6,Willie L Bailey,State House,49,D,Washington,Elks Lodge,218
-6,John W Hines Sr.,State House,50,D,Washington,Elks Lodge,627
-2,Jim Hood,Governor,,D,Washington,Extension Building,302
-2,Tate Reeves,Governor,,R,Washington,Extension Building,9
-2,Bob Hickingbottom,Governor,,C,Washington,Extension Building,1
-2,David R Singletary,Governor,,IND,Washington,Extension Building,4
-2,Delbert Hosemann,Lieutenant Governor,,R,Washington,Extension Building,25
-2,Jay Hughes,Lieutenant Governor,,D,Washington,Extension Building,270
-2,Johnny DuPree,Secretary of State,,D,Washington,Extension Building,275
-2,Michael Watson,Secretary of State,,R,Washington,Extension Building,29
-2,Jennifer Riley Collins,Attorney General,,D,Washington,Extension Building,297
-2,Lynn Fitch,Attorney General,,R,Washington,Extension Building,14
-2,Shad White,State Auditor,,R,Washington,Extension Building,124
-4,Addie Lee Green,State Treasurer,,D,Washington,Extension Building,277
-4,David McRae,State Treasurer,,R,Washington,Extension Building,24
-4,Rickey L Cole,Commissioner of Agriculture & Commerce,,D,Washington,Extension Building,278
-4,Andy Gipson,Commissioner of Agriculture & Commerce,,R,Washington,Extension Building,22
-6,Derrick T Simmons,State Senate,12,D,Washington,Extension Building,302
-6,Paul D Pecou,State Senate,12,IND,Washington,Extension Building,6
-6,Hayes Dent,State Senate,22,R,Washington,Extension Building,x
-6,Joseph C Thomas Sr.,State Senate,22,D,Washington,Extension Building,x
-6,Otis L Anthony ,State House,31,D,Washington,Extension Building,x
-6,Willie L Bailey,State House,49,D,Washington,Extension Building,291
-6,John W Hines Sr.,State House,50,D,Washington,Extension Building,x
-2,Jim Hood,Governor,,D,Washington,Glen Allan Library,126
-2,Tate Reeves,Governor,,R,Washington,Glen Allan Library,162
-2,Bob Hickingbottom,Governor,,C,Washington,Glen Allan Library,1
-2,David R Singletary,Governor,,IND,Washington,Glen Allan Library,0
-2,Delbert Hosemann,Lieutenant Governor,,R,Washington,Glen Allan Library,182
-2,Jay Hughes,Lieutenant Governor,,D,Washington,Glen Allan Library,103
-2,Johnny DuPree,Secretary of State,,D,Washington,Glen Allan Library,111
-2,Michael Watson,Secretary of State,,R,Washington,Glen Allan Library,171
-2,Jennifer Riley Collins,Attorney General,,D,Washington,Glen Allan Library,109
-2,Lynn Fitch,Attorney General,,R,Washington,Glen Allan Library,176
-2,Shad White,State Auditor,,R,Washington,Glen Allan Library,208
-4,Addie Lee Green,State Treasurer,,D,Washington,Glen Allan Library,109
-4,David McRae,State Treasurer,,R,Washington,Glen Allan Library,176
-4,Rickey L Cole,Commissioner of Agriculture & Commerce,,D,Washington,Glen Allan Library,111
-4,Andy Gipson,Commissioner of Agriculture & Commerce,,R,Washington,Glen Allan Library,174
-6,Derrick T Simmons,State Senate,12,D,Washington,Glen Allan Library,x
-6,Paul D Pecou,State Senate,12,IND,Washington,Glen Allan Library,x
-6,Hayes Dent,State Senate,22,R,Washington,Glen Allan Library,178
-6,Joseph C Thomas Sr.,State Senate,22,D,Washington,Glen Allan Library,104
-6,Otis L Anthony ,State House,31,D,Washington,Glen Allan Library,x
-6,Willie L Bailey,State House,49,D,Washington,Glen Allan Library,x
-6,John W Hines Sr.,State House,50,D,Washington,Glen Allan Library,199
-2,Jim Hood,Governor,,D,Washington,Hollandale City Hall,546
-2,Tate Reeves,Governor,,R,Washington,Hollandale City Hall,140
-2,Bob Hickingbottom,Governor,,C,Washington,Hollandale City Hall,1
-2,David R Singletary,Governor,,IND,Washington,Hollandale City Hall,3
-2,Delbert Hosemann,Lieutenant Governor,,R,Washington,Hollandale City Hall,180
-2,Jay Hughes,Lieutenant Governor,,D,Washington,Hollandale City Hall,490
-2,Johnny DuPree,Secretary of State,,D,Washington,Hollandale City Hall,501
-2,Michael Watson,Secretary of State,,R,Washington,Hollandale City Hall,168
-2,Jennifer Riley Collins,Attorney General,,D,Washington,Hollandale City Hall,525
-2,Lynn Fitch,Attorney General,,R,Washington,Hollandale City Hall,154
-2,Shad White,State Auditor,,R,Washington,Hollandale City Hall,381
-4,Addie Lee Green,State Treasurer,,D,Washington,Hollandale City Hall,498
-4,David McRae,State Treasurer,,R,Washington,Hollandale City Hall,161
-4,Rickey L Cole,Commissioner of Agriculture & Commerce,,D,Washington,Hollandale City Hall,507
-4,Andy Gipson,Commissioner of Agriculture & Commerce,,R,Washington,Hollandale City Hall,165
-6,Derrick T Simmons,State Senate,12,D,Washington,Hollandale City Hall,x
-6,Paul D Pecou,State Senate,12,IND,Washington,Hollandale City Hall,x
-6,Hayes Dent,State Senate,22,R,Washington,Hollandale City Hall,163
-6,Joseph C Thomas Sr.,State Senate,22,D,Washington,Hollandale City Hall,510
-6,Otis L Anthony ,State House,31,D,Washington,Hollandale City Hall,x
-6,Willie L Bailey,State House,49,D,Washington,Hollandale City Hall,x
-6,John W Hines Sr.,State House,50,D,Washington,Hollandale City Hall,595
-2,Jim Hood,Governor,,D,Washington,Jake's Chapel MB Church,590
-2,Tate Reeves,Governor,,R,Washington,Jake's Chapel MB Church,10
-2,Bob Hickingbottom,Governor,,C,Washington,Jake's Chapel MB Church,2
-2,David R Singletary,Governor,,IND,Washington,Jake's Chapel MB Church,5
-2,Delbert Hosemann,Lieutenant Governor,,R,Washington,Jake's Chapel MB Church,46
-2,Jay Hughes,Lieutenant Governor,,D,Washington,Jake's Chapel MB Church,531
-2,Johnny DuPree,Secretary of State,,D,Washington,Jake's Chapel MB Church,541
-2,Michael Watson,Secretary of State,,R,Washington,Jake's Chapel MB Church,37
-2,Jennifer Riley Collins,Attorney General,,D,Washington,Jake's Chapel MB Church,577
-2,Lynn Fitch,Attorney General,,R,Washington,Jake's Chapel MB Church,15
-2,Shad White,State Auditor,,R,Washington,Jake's Chapel MB Church,241
-4,Addie Lee Green,State Treasurer,,D,Washington,Jake's Chapel MB Church,558
-4,David McRae,State Treasurer,,R,Washington,Jake's Chapel MB Church,24
-4,Rickey L Cole,Commissioner of Agriculture & Commerce,,D,Washington,Jake's Chapel MB Church,558
-4,Andy Gipson,Commissioner of Agriculture & Commerce,,R,Washington,Jake's Chapel MB Church,21
-6,Derrick T Simmons,State Senate,12,D,Washington,Jake's Chapel MB Church,568
-6,Paul D Pecou,State Senate,12,IND,Washington,Jake's Chapel MB Church,20
-6,Hayes Dent,State Senate,22,R,Washington,Jake's Chapel MB Church,x
-6,Joseph C Thomas Sr.,State Senate,22,D,Washington,Jake's Chapel MB Church,x
-6,Otis L Anthony ,State House,31,D,Washington,Jake's Chapel MB Church,x
-6,Willie L Bailey,State House,49,D,Washington,Jake's Chapel MB Church,358
-6,John W Hines Sr.,State House,50,D,Washington,Jake's Chapel MB Church,216
-2,Jim Hood,Governor,,D,Washington,Lake Vista Masonic Lodge,547
-2,Tate Reeves,Governor,,R,Washington,Lake Vista Masonic Lodge,158
-2,Bob Hickingbottom,Governor,,C,Washington,Lake Vista Masonic Lodge,2
-2,David R Singletary,Governor,,IND,Washington,Lake Vista Masonic Lodge,9
-2,Delbert Hosemann,Lieutenant Governor,,R,Washington,Lake Vista Masonic Lodge,194
-2,Jay Hughes,Lieutenant Governor,,D,Washington,Lake Vista Masonic Lodge,497
-2,Johnny DuPree,Secretary of State,,D,Washington,Lake Vista Masonic Lodge,502
-2,Michael Watson,Secretary of State,,R,Washington,Lake Vista Masonic Lodge,181
-2,Jennifer Riley Collins,Attorney General,,D,Washington,Lake Vista Masonic Lodge,518
-2,Lynn Fitch,Attorney General,,R,Washington,Lake Vista Masonic Lodge,178
-2,Shad White,State Auditor,,R,Washington,Lake Vista Masonic Lodge,385
-4,Addie Lee Green,State Treasurer,,D,Washington,Lake Vista Masonic Lodge,507
-4,David McRae,State Treasurer,,R,Washington,Lake Vista Masonic Lodge,186
-4,Rickey L Cole,Commissioner of Agriculture & Commerce,,D,Washington,Lake Vista Masonic Lodge,506
-4,Andy Gipson,Commissioner of Agriculture & Commerce,,R,Washington,Lake Vista Masonic Lodge,183
-6,Derrick T Simmons,State Senate,12,D,Washington,Lake Vista Masonic Lodge,554
-6,Paul D Pecou,State Senate,12,IND,Washington,Lake Vista Masonic Lodge,130
-6,Hayes Dent,State Senate,22,R,Washington,Lake Vista Masonic Lodge,x
-6,Joseph C Thomas Sr.,State Senate,22,D,Washington,Lake Vista Masonic Lodge,x
-6,Otis L Anthony ,State House,31,D,Washington,Lake Vista Masonic Lodge,x
-6,Willie L Bailey,State House,49,D,Washington,Lake Vista Masonic Lodge,256
-6,John W Hines Sr.,State House,50,D,Washington,Lake Vista Masonic Lodge,333
-2,Jim Hood,Governor,,D,Washington,Leland Health Department,660
-2,Tate Reeves,Governor,,R,Washington,Leland Health Department,305
-2,Bob Hickingbottom,Governor,,C,Washington,Leland Health Department,6
-2,David R Singletary,Governor,,IND,Washington,Leland Health Department,9
-2,Delbert Hosemann,Lieutenant Governor,,R,Washington,Leland Health Department,345
-2,Jay Hughes,Lieutenant Governor,,D,Washington,Leland Health Department,601
-2,Johnny DuPree,Secretary of State,,D,Washington,Leland Health Department,603
-2,Michael Watson,Secretary of State,,R,Washington,Leland Health Department,344
-2,Jennifer Riley Collins,Attorney General,,D,Washington,Leland Health Department,619
-2,Lynn Fitch,Attorney General,,R,Washington,Leland Health Department,344
-2,Shad White,State Auditor,,R,Washington,Leland Health Department,551
-4,Addie Lee Green,State Treasurer,,D,Washington,Leland Health Department,604
-4,David McRae,State Treasurer,,R,Washington,Leland Health Department,348
-4,Rickey L Cole,Commissioner of Agriculture & Commerce,,D,Washington,Leland Health Department,606
-4,Andy Gipson,Commissioner of Agriculture & Commerce,,R,Washington,Leland Health Department,345
-6,Derrick T Simmons,State Senate,12,D,Washington,Leland Health Department,x
-6,Paul D Pecou,State Senate,12,IND,Washington,Leland Health Department,x
-6,Hayes Dent,State Senate,22,R,Washington,Leland Health Department,352
-6,Joseph C Thomas Sr.,State Senate,22,D,Washington,Leland Health Department,601
-6,Otis L Anthony ,State House,31,D,Washington,Leland Health Department,777
-6,Willie L Bailey,State House,49,D,Washington,Leland Health Department,x
-6,John W Hines Sr.,State House,50,D,Washington,Leland Health Department,x
-3,Jim Hood,Governor,,D,Washington,Leland Rotary Club,462
-3,Tate Reeves,Governor,,R,Washington,Leland Rotary Club,298
-3,Bob Hickingbottom,Governor,,C,Washington,Leland Rotary Club,3
-3,David R Singletary,Governor,,IND,Washington,Leland Rotary Club,3
-3,Delbert Hosemann,Lieutenant Governor,,R,Washington,Leland Rotary Club,330
-3,Jay Hughes,Lieutenant Governor,,D,Washington,Leland Rotary Club,422
-3,Johnny DuPree,Secretary of State,,D,Washington,Leland Rotary Club,409
-3,Michael Watson,Secretary of State,,R,Washington,Leland Rotary Club,332
-3,Jennifer Riley Collins,Attorney General,,D,Washington,Leland Rotary Club,428
-3,Lynn Fitch,Attorney General,,R,Washington,Leland Rotary Club,327
-3,Shad White,State Auditor,,R,Washington,Leland Rotary Club,492
-5,Addie Lee Green,State Treasurer,,D,Washington,Leland Rotary Club,404
-5,David McRae,State Treasurer,,R,Washington,Leland Rotary Club,343
-5,Rickey L Cole,Commissioner of Agriculture & Commerce,,D,Washington,Leland Rotary Club,409
-5,Andy Gipson,Commissioner of Agriculture & Commerce,,R,Washington,Leland Rotary Club,333
-7,Derrick T Simmons,State Senate,12,D,Washington,Leland Rotary Club,535
-7,Paul D Pecou,State Senate,12,IND,Washington,Leland Rotary Club,185
-7,Hayes Dent,State Senate,22,R,Washington,Leland Rotary Club,x
-7,Joseph C Thomas Sr.,State Senate,22,D,Washington,Leland Rotary Club,x
-7,Otis L Anthony ,State House,31,D,Washington,Leland Rotary Club,587
-7,Willie L Bailey,State House,49,D,Washington,Leland Rotary Club,x
-7,John W Hines Sr.,State House,50,D,Washington,Leland Rotary Club,x
-3,Jim Hood,Governor,,D,Washington,Metcalfe Municipal Building,271
-3,Tate Reeves,Governor,,R,Washington,Metcalfe Municipal Building,10
-3,Bob Hickingbottom,Governor,,C,Washington,Metcalfe Municipal Building,0
-3,David R Singletary,Governor,,IND,Washington,Metcalfe Municipal Building,3
-3,Delbert Hosemann,Lieutenant Governor,,R,Washington,Metcalfe Municipal Building,26
-3,Jay Hughes,Lieutenant Governor,,D,Washington,Metcalfe Municipal Building,246
-3,Johnny DuPree,Secretary of State,,D,Washington,Metcalfe Municipal Building,255
-3,Michael Watson,Secretary of State,,R,Washington,Metcalfe Municipal Building,14
-3,Jennifer Riley Collins,Attorney General,,D,Washington,Metcalfe Municipal Building,259
-3,Lynn Fitch,Attorney General,,R,Washington,Metcalfe Municipal Building,12
-3,Shad White,State Auditor,,R,Washington,Metcalfe Municipal Building,99
-5,Addie Lee Green,State Treasurer,,D,Washington,Metcalfe Municipal Building,251
-5,David McRae,State Treasurer,,R,Washington,Metcalfe Municipal Building,15
-5,Rickey L Cole,Commissioner of Agriculture & Commerce,,D,Washington,Metcalfe Municipal Building,252
-5,Andy Gipson,Commissioner of Agriculture & Commerce,,R,Washington,Metcalfe Municipal Building,15
-7,Derrick T Simmons,State Senate,12,D,Washington,Metcalfe Municipal Building,272
-7,Paul D Pecou,State Senate,12,IND,Washington,Metcalfe Municipal Building,11
-7,Hayes Dent,State Senate,22,R,Washington,Metcalfe Municipal Building,x
-7,Joseph C Thomas Sr.,State Senate,22,D,Washington,Metcalfe Municipal Building,x
-7,Otis L Anthony ,State House,31,D,Washington,Metcalfe Municipal Building,x
-7,Willie L Bailey,State House,49,D,Washington,Metcalfe Municipal Building,x
-7,John W Hines Sr.,State House,50,D,Washington,Metcalfe Municipal Building,266
-3,Jim Hood,Governor,,D,Washington,Mount Bethel Baptist Church,353
-3,Tate Reeves,Governor,,R,Washington,Mount Bethel Baptist Church,8
-3,Bob Hickingbottom,Governor,,C,Washington,Mount Bethel Baptist Church,3
-3,David R Singletary,Governor,,IND,Washington,Mount Bethel Baptist Church,1
-3,Delbert Hosemann,Lieutenant Governor,,R,Washington,Mount Bethel Baptist Church,25
-3,Jay Hughes,Lieutenant Governor,,D,Washington,Mount Bethel Baptist Church,314
-3,Johnny DuPree,Secretary of State,,D,Washington,Mount Bethel Baptist Church,324
-3,Michael Watson,Secretary of State,,R,Washington,Mount Bethel Baptist Church,22
-3,Jennifer Riley Collins,Attorney General,,D,Washington,Mount Bethel Baptist Church,349
-3,Lynn Fitch,Attorney General,,R,Washington,Mount Bethel Baptist Church,7
-3,Shad White,State Auditor,,R,Washington,Mount Bethel Baptist Church,114
-5,Addie Lee Green,State Treasurer,,D,Washington,Mount Bethel Baptist Church,333
-5,David McRae,State Treasurer,,R,Washington,Mount Bethel Baptist Church,11
-5,Rickey L Cole,Commissioner of Agriculture & Commerce,,D,Washington,Mount Bethel Baptist Church,334
-5,Andy Gipson,Commissioner of Agriculture & Commerce,,R,Washington,Mount Bethel Baptist Church,13
-7,Derrick T Simmons,State Senate,12,D,Washington,Mount Bethel Baptist Church,338
-7,Paul D Pecou,State Senate,12,IND,Washington,Mount Bethel Baptist Church,15
-7,Hayes Dent,State Senate,22,R,Washington,Mount Bethel Baptist Church,x
-7,Joseph C Thomas Sr.,State Senate,22,D,Washington,Mount Bethel Baptist Church,x
-7,Otis L Anthony ,State House,31,D,Washington,Mount Bethel Baptist Church,x
-7,Willie L Bailey,State House,49,D,Washington,Mount Bethel Baptist Church,349
-7,John W Hines Sr.,State House,50,D,Washington,Mount Bethel Baptist Church,x
-3,Jim Hood,Governor,,D,Washington,St. James Episcopla Church,900
-3,Tate Reeves,Governor,,R,Washington,St. James Episcopla Church,359
-3,Bob Hickingbottom,Governor,,C,Washington,St. James Episcopla Church,3
-3,David R Singletary,Governor,,IND,Washington,St. James Episcopla Church,7
-3,Delbert Hosemann,Lieutenant Governor,,R,Washington,St. James Episcopla Church,441
-3,Jay Hughes,Lieutenant Governor,,D,Washington,St. James Episcopla Church,803
-3,Johnny DuPree,Secretary of State,,D,Washington,St. James Episcopla Church,840
-3,Michael Watson,Secretary of State,,R,Washington,St. James Episcopla Church,397
-3,Jennifer Riley Collins,Attorney General,,D,Washington,St. James Episcopla Church,850
-3,Lynn Fitch,Attorney General,,R,Washington,St. James Episcopla Church,407
-3,Shad White,State Auditor,,R,Washington,St. James Episcopla Church,746
-5,Addie Lee Green,State Treasurer,,D,Washington,St. James Episcopla Church,812
-5,David McRae,State Treasurer,,R,Washington,St. James Episcopla Church,424
-5,Rickey L Cole,Commissioner of Agriculture & Commerce,,D,Washington,St. James Episcopla Church,825
-5,Andy Gipson,Commissioner of Agriculture & Commerce,,R,Washington,St. James Episcopla Church,405
-7,Derrick T Simmons,State Senate,12,D,Washington,St. James Episcopla Church,971
-7,Paul D Pecou,State Senate,12,IND,Washington,St. James Episcopla Church,232
-7,Hayes Dent,State Senate,22,R,Washington,St. James Episcopla Church,x
-7,Joseph C Thomas Sr.,State Senate,22,D,Washington,St. James Episcopla Church,x
-7,Otis L Anthony ,State House,31,D,Washington,St. James Episcopla Church,x
-7,Willie L Bailey,State House,49,D,Washington,St. James Episcopla Church,1064
-7,John W Hines Sr.,State House,50,D,Washington,St. James Episcopla Church,x
-3,Jim Hood,Governor,,D,Washington,Swiftwater Baptist Church,125
-3,Tate Reeves,Governor,,R,Washington,Swiftwater Baptist Church,368
-3,Bob Hickingbottom,Governor,,C,Washington,Swiftwater Baptist Church,2
-3,David R Singletary,Governor,,IND,Washington,Swiftwater Baptist Church,2
-3,Delbert Hosemann,Lieutenant Governor,,R,Washington,Swiftwater Baptist Church,396
-3,Jay Hughes,Lieutenant Governor,,D,Washington,Swiftwater Baptist Church,89
-3,Johnny DuPree,Secretary of State,,D,Washington,Swiftwater Baptist Church,95
-3,Michael Watson,Secretary of State,,R,Washington,Swiftwater Baptist Church,386
-3,Jennifer Riley Collins,Attorney General,,D,Washington,Swiftwater Baptist Church,97
-3,Lynn Fitch,Attorney General,,R,Washington,Swiftwater Baptist Church,388
-3,Shad White,State Auditor,,R,Washington,Swiftwater Baptist Church,417
-5,Addie Lee Green,State Treasurer,,D,Washington,Swiftwater Baptist Church,85
-5,David McRae,State Treasurer,,R,Washington,Swiftwater Baptist Church,402
-5,Rickey L Cole,Commissioner of Agriculture & Commerce,,D,Washington,Swiftwater Baptist Church,95
-5,Andy Gipson,Commissioner of Agriculture & Commerce,,R,Washington,Swiftwater Baptist Church,391
-7,Derrick T Simmons,State Senate,12,D,Washington,Swiftwater Baptist Church,150
-7,Paul D Pecou,State Senate,12,IND,Washington,Swiftwater Baptist Church,255
-7,Hayes Dent,State Senate,22,R,Washington,Swiftwater Baptist Church,22
-7,Joseph C Thomas Sr.,State Senate,22,D,Washington,Swiftwater Baptist Church,1
-7,Otis L Anthony ,State House,31,D,Washington,Swiftwater Baptist Church,x
-7,Willie L Bailey,State House,49,D,Washington,Swiftwater Baptist Church,108
-7,John W Hines Sr.,State House,50,D,Washington,Swiftwater Baptist Church,181
-3,Jim Hood,Governor,,D,Washington,Tampa Drive,229
-3,Tate Reeves,Governor,,R,Washington,Tampa Drive,63
-3,Bob Hickingbottom,Governor,,C,Washington,Tampa Drive,1
-3,David R Singletary,Governor,,IND,Washington,Tampa Drive,1
-3,Delbert Hosemann,Lieutenant Governor,,R,Washington,Tampa Drive,75
-3,Jay Hughes,Lieutenant Governor,,D,Washington,Tampa Drive,206
-3,Johnny DuPree,Secretary of State,,D,Washington,Tampa Drive,220
-3,Michael Watson,Secretary of State,,R,Washington,Tampa Drive,63
-3,Jennifer Riley Collins,Attorney General,,D,Washington,Tampa Drive,220
-3,Lynn Fitch,Attorney General,,R,Washington,Tampa Drive,66
-3,Shad White,State Auditor,,R,Washington,Tampa Drive,144
-5,Addie Lee Green,State Treasurer,,D,Washington,Tampa Drive,214
-5,David McRae,State Treasurer,,R,Washington,Tampa Drive,71
-5,Rickey L Cole,Commissioner of Agriculture & Commerce,,D,Washington,Tampa Drive,212
-5,Andy Gipson,Commissioner of Agriculture & Commerce,,R,Washington,Tampa Drive,71
-7,Derrick T Simmons,State Senate,12,D,Washington,Tampa Drive,233
-7,Paul D Pecou,State Senate,12,IND,Washington,Tampa Drive,48
-7,Hayes Dent,State Senate,22,R,Washington,Tampa Drive,x
-7,Joseph C Thomas Sr.,State Senate,22,D,Washington,Tampa Drive,x
-7,Otis L Anthony ,State House,31,D,Washington,Tampa Drive,x
-7,Willie L Bailey,State House,49,D,Washington,Tampa Drive,252
-7,John W Hines Sr.,State House,50,D,Washington,Tampa Drive,x
-3,Jim Hood,Governor,,D,Washington,Ward's Recreation Center,677
-3,Tate Reeves,Governor,,R,Washington,Ward's Recreation Center,445
-3,Bob Hickingbottom,Governor,,C,Washington,Ward's Recreation Center,1
-3,David R Singletary,Governor,,IND,Washington,Ward's Recreation Center,10
-3,Delbert Hosemann,Lieutenant Governor,,R,Washington,Ward's Recreation Center,528
-3,Jay Hughes,Lieutenant Governor,,D,Washington,Ward's Recreation Center,577
-3,Johnny DuPree,Secretary of State,,D,Washington,Ward's Recreation Center,588
-3,Michael Watson,Secretary of State,,R,Washington,Ward's Recreation Center,508
-3,Jennifer Riley Collins,Attorney General,,D,Washington,Ward's Recreation Center,610
-3,Lynn Fitch,Attorney General,,R,Washington,Ward's Recreation Center,500
-3,Shad White,State Auditor,,R,Washington,Ward's Recreation Center,766
-5,Addie Lee Green,State Treasurer,,D,Washington,Ward's Recreation Center,596
-5,David McRae,State Treasurer,,R,Washington,Ward's Recreation Center,510
-5,Rickey L Cole,Commissioner of Agriculture & Commerce,,D,Washington,Ward's Recreation Center,595
-5,Andy Gipson,Commissioner of Agriculture & Commerce,,R,Washington,Ward's Recreation Center,502
-7,Derrick T Simmons,State Senate,12,D,Washington,Ward's Recreation Center,732
-7,Paul D Pecou,State Senate,12,IND,Washington,Ward's Recreation Center,305
-7,Hayes Dent,State Senate,22,R,Washington,Ward's Recreation Center,x
-7,Joseph C Thomas Sr.,State Senate,22,D,Washington,Ward's Recreation Center,x
-7,Otis L Anthony ,State House,31,D,Washington,Ward's Recreation Center,x
-7,Willie L Bailey,State House,49,D,Washington,Ward's Recreation Center,368
-7,John W Hines Sr.,State House,50,D,Washington,Ward's Recreation Center,496
-3,Jim Hood,Governor,,D,Washington,Washington County Convention Center,476
-3,Tate Reeves,Governor,,R,Washington,Washington County Convention Center,108
-3,Bob Hickingbottom,Governor,,C,Washington,Washington County Convention Center,2
-3,David R Singletary,Governor,,IND,Washington,Washington County Convention Center,5
-3,Delbert Hosemann,Lieutenant Governor,,R,Washington,Washington County Convention Center,143
-3,Jay Hughes,Lieutenant Governor,,D,Washington,Washington County Convention Center,428
-3,Johnny DuPree,Secretary of State,,D,Washington,Washington County Convention Center,435
-3,Michael Watson,Secretary of State,,R,Washington,Washington County Convention Center,132
-3,Jennifer Riley Collins,Attorney General,,D,Washington,Washington County Convention Center,455
-3,Lynn Fitch,Attorney General,,R,Washington,Washington County Convention Center,123
-3,Shad White,State Auditor,,R,Washington,Washington County Convention Center,307
-5,Addie Lee Green,State Treasurer,,D,Washington,Washington County Convention Center,429
-5,David McRae,State Treasurer,,R,Washington,Washington County Convention Center,138
-5,Rickey L Cole,Commissioner of Agriculture & Commerce,,D,Washington,Washington County Convention Center,435
-5,Andy Gipson,Commissioner of Agriculture & Commerce,,R,Washington,Washington County Convention Center,131
-7,Derrick T Simmons,State Senate,12,D,Washington,Washington County Convention Center,466
-7,Paul D Pecou,State Senate,12,IND,Washington,Washington County Convention Center,92
-7,Hayes Dent,State Senate,22,R,Washington,Washington County Convention Center,x
-7,Joseph C Thomas Sr.,State Senate,22,D,Washington,Washington County Convention Center,x
-7,Otis L Anthony ,State House,31,D,Washington,Washington County Convention Center,x
-7,Willie L Bailey,State House,49,D,Washington,Washington County Convention Center,x
-7,John W Hines Sr.,State House,50,D,Washington,Washington County Convention Center,507
-3,Jim Hood,Governor,,D,Washington,TOTAL ,8667
-3,Tate Reeves,Governor,,R,Washington,TOTAL ,3336
-3,Bob Hickingbottom,Governor,,C,Washington,TOTAL ,32
-3,David R Singletary,Governor,,IND,Washington,TOTAL ,90
-3,Delbert Hosemann,Lieutenant Governor,,R,Washington,TOTAL ,4047
-3,Jay Hughes,Lieutenant Governor,,D,Washington,TOTAL ,7708
-3,Johnny DuPree,Secretary of State,,D,Washington,TOTAL ,7887
-3,Michael Watson,Secretary of State,,R,Washington,TOTAL ,3816
-3,Jennifer Riley Collins,Attorney General,,D,Washington,TOTAL ,8174
-3,Lynn Fitch,Attorney General,,R,Washington,TOTAL ,3736
-3,Shad White,State Auditor,,R,Washington,TOTAL ,6918
-5,Addie Lee Green,State Treasurer,,D,Washington,TOTAL ,7839
-5,David McRae,State Treasurer,,R,Washington,TOTAL ,3898
-5,Rickey L Cole,Commissioner of Agriculture & Commerce,,D,Washington,TOTAL ,7920
-5,Andy Gipson,Commissioner of Agriculture & Commerce,,R,Washington,TOTAL ,3814
-7,Derrick T Simmons,State Senate,12,D,Washington,TOTAL ,7505
-7,Paul D Pecou,State Senate,12,IND,Washington,TOTAL ,1749
-7,Hayes Dent,State Senate,22,R,Washington,TOTAL ,865
-7,Joseph C Thomas Sr.,State Senate,22,D,Washington,TOTAL ,1398
-7,Otis L Anthony ,State House,31,D,Washington,TOTAL ,1364
-7,Willie L Bailey,State House,49,D,Washington,TOTAL ,4367
-7,John W Hines Sr.,State House,50,D,Washington,TOTAL ,4241
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
+﻿candidate,office,district,party,county,precinct,votes
+Jim Hood,Governor,,D,Washington,Arcola Technology Center,185
+Tate Reeves,Governor,,R,Washington,Arcola Technology Center,99
+Bob Hickingbottom,Governor,,C,Washington,Arcola Technology Center,1
+David R Singletary,Governor,,IND,Washington,Arcola Technology Center,1
+Delbert Hosemann,Lieutenant Governor,,R,Washington,Arcola Technology Center,115
+Jay Hughes,Lieutenant Governor,,D,Washington,Arcola Technology Center,163
+Johnny DuPree,Secretary of State,,D,Washington,Arcola Technology Center,164
+Michael Watson,Secretary of State,,R,Washington,Arcola Technology Center,108
+Jennifer Riley Collins,Attorney General,,D,Washington,Arcola Technology Center,174
+Lynn Fitch,Attorney General,,R,Washington,Arcola Technology Center,108
+Shad White,State Auditor,,R,Washington,Arcola Technology Center,171
+Addie Lee Green,State Treasurer,,D,Washington,Arcola Technology Center,166
+David McRae,State Treasurer,,R,Washington,Arcola Technology Center,114
+Rickey L Cole,Commissioner of Agriculture & Commerce,,D,Washington,Arcola Technology Center,171
+Andy Gipson,Commissioner of Agriculture & Commerce,,R,Washington,Arcola Technology Center,106
+Derrick T Simmons,State Senate,12,D,Washington,Arcola Technology Center,x
+Paul D Pecou,State Senate,12,IND,Washington,Arcola Technology Center,x
+Hayes Dent,State Senate,22,R,Washington,Arcola Technology Center,119
+Joseph C Thomas Sr.,State Senate,22,D,Washington,Arcola Technology Center,163
+Otis L Anthony ,State House,31,D,Washington,Arcola Technology Center,x
+Willie L Bailey,State House,49,D,Washington,Arcola Technology Center,x
+John W Hines Sr.,State House,50,D,Washington,Arcola Technology Center,225
+Jim Hood,Governor,,D,Washington,Buster Brown Community Center,993
+Tate Reeves,Governor,,R,Washington,Buster Brown Community Center,191
+Bob Hickingbottom,Governor,,C,Washington,Buster Brown Community Center,0
+David R Singletary,Governor,,IND,Washington,Buster Brown Community Center,14
+Delbert Hosemann,Lieutenant Governor,,R,Washington,Buster Brown Community Center,273
+Jay Hughes,Lieutenant Governor,,D,Washington,Buster Brown Community Center,894
+Johnny DuPree,Secretary of State,,D,Washington,Buster Brown Community Center,915
+Michael Watson,Secretary of State,,R,Washington,Buster Brown Community Center,253
+Jennifer Riley Collins,Attorney General,,D,Washington,Buster Brown Community Center,954
+Lynn Fitch,Attorney General,,R,Washington,Buster Brown Community Center,229
+Shad White,State Auditor,,R,Washington,Buster Brown Community Center,626
+Addie Lee Green,State Treasurer,,D,Washington,Buster Brown Community Center,909
+David McRae,State Treasurer,,R,Washington,Buster Brown Community Center,256
+Rickey L Cole,Commissioner of Agriculture & Commerce,,D,Washington,Buster Brown Community Center,919
+Andy Gipson,Commissioner of Agriculture & Commerce,,R,Washington,Buster Brown Community Center,248
+Derrick T Simmons,State Senate,12,D,Washington,Buster Brown Community Center,1032
+Paul D Pecou,State Senate,12,IND,Washington,Buster Brown Community Center,122
+Hayes Dent,State Senate,22,R,Washington,Buster Brown Community Center,x
+Joseph C Thomas Sr.,State Senate,22,D,Washington,Buster Brown Community Center,x
+Otis L Anthony ,State House,31,D,Washington,Buster Brown Community Center,x
+Willie L Bailey,State House,49,D,Washington,Buster Brown Community Center,505
+John W Hines Sr.,State House,50,D,Washington,Buster Brown Community Center,563
+Jim Hood,Governor,,D,Washington,Covenant Presbyterian Church,321
+Tate Reeves,Governor,,R,Washington,Covenant Presbyterian Church,533
+Bob Hickingbottom,Governor,,C,Washington,Covenant Presbyterian Church,2
+David R Singletary,Governor,,IND,Washington,Covenant Presbyterian Church,3
+Delbert Hosemann,Lieutenant Governor,,R,Washington,Covenant Presbyterian Church,614
+Jay Hughes,Lieutenant Governor,,D,Washington,Covenant Presbyterian Church,240
+Johnny DuPree,Secretary of State,,D,Washington,Covenant Presbyterian Church,254
+Michael Watson,Secretary of State,,R,Washington,Covenant Presbyterian Church,586
+Jennifer Riley Collins,Attorney General,,D,Washington,Covenant Presbyterian Church,252
+Lynn Fitch,Attorney General,,R,Washington,Covenant Presbyterian Church,605
+Shad White,State Auditor,,R,Washington,Covenant Presbyterian Church,722
+Addie Lee Green,State Treasurer,,D,Washington,Covenant Presbyterian Church,232
+David McRae,State Treasurer,,R,Washington,Covenant Presbyterian Church,606
+Rickey L Cole,Commissioner of Agriculture & Commerce,,D,Washington,Covenant Presbyterian Church,244
+Andy Gipson,Commissioner of Agriculture & Commerce,,R,Washington,Covenant Presbyterian Church,604
+Derrick T Simmons,State Senate,12,D,Washington,Covenant Presbyterian Church,502
+Paul D Pecou,State Senate,12,IND,Washington,Covenant Presbyterian Church,284
+Hayes Dent,State Senate,22,R,Washington,Covenant Presbyterian Church,x
+Joseph C Thomas Sr.,State Senate,22,D,Washington,Covenant Presbyterian Church,x
+Otis L Anthony ,State House,31,D,Washington,Covenant Presbyterian Church,x
+Willie L Bailey,State House,49,D,Washington,Covenant Presbyterian Church,598
+John W Hines Sr.,State House,50,D,Washington,Covenant Presbyterian Church,x
+Jim Hood,Governor,,D,Washington,Darlove,24
+Tate Reeves,Governor,,R,Washington,Darlove,27
+Bob Hickingbottom,Governor,,C,Washington,Darlove,1
+David R Singletary,Governor,,IND,Washington,Darlove,0
+Delbert Hosemann,Lieutenant Governor,,R,Washington,Darlove,34
+Jay Hughes,Lieutenant Governor,,D,Washington,Darlove,15
+Johnny DuPree,Secretary of State,,D,Washington,Darlove,21
+Michael Watson,Secretary of State,,R,Washington,Darlove,28
+Jennifer Riley Collins,Attorney General,,D,Washington,Darlove,19
+Lynn Fitch,Attorney General,,R,Washington,Darlove,32
+Shad White,State Auditor,,R,Washington,Darlove,42
+Addie Lee Green,State Treasurer,,D,Washington,Darlove,18
+David McRae,State Treasurer,,R,Washington,Darlove,32
+Rickey L Cole,Commissioner of Agriculture & Commerce,,D,Washington,Darlove,18
+Andy Gipson,Commissioner of Agriculture & Commerce,,R,Washington,Darlove,31
+Derrick T Simmons,State Senate,12,D,Washington,Darlove,x
+Paul D Pecou,State Senate,12,IND,Washington,Darlove,x
+Hayes Dent,State Senate,22,R,Washington,Darlove,31
+Joseph C Thomas Sr.,State Senate,22,D,Washington,Darlove,19
+Otis L Anthony ,State House,31,D,Washington,Darlove,x
+Willie L Bailey,State House,49,D,Washington,Darlove,x
+John W Hines Sr.,State House,50,D,Washington,Darlove,33
+Jim Hood,Governor,,D,Washington,Elks Lodge,880
+Tate Reeves,Governor,,R,Washington,Elks Lodge,43
+Bob Hickingbottom,Governor,,C,Washington,Elks Lodge,0
+David R Singletary,Governor,,IND,Washington,Elks Lodge,10
+Delbert Hosemann,Lieutenant Governor,,R,Washington,Elks Lodge,75
+Jay Hughes,Lieutenant Governor,,D,Washington,Elks Lodge,819
+Johnny DuPree,Secretary of State,,D,Washington,Elks Lodge,834
+Michael Watson,Secretary of State,,R,Washington,Elks Lodge,57
+Jennifer Riley Collins,Attorney General,,D,Washington,Elks Lodge,862
+Lynn Fitch,Attorney General,,R,Washington,Elks Lodge,51
+Shad White,State Auditor,,R,Washington,Elks Lodge,382
+Addie Lee Green,State Treasurer,,D,Washington,Elks Lodge,837
+David McRae,State Treasurer,,R,Washington,Elks Lodge,57
+Rickey L Cole,Commissioner of Agriculture & Commerce,,D,Washington,Elks Lodge,845
+Andy Gipson,Commissioner of Agriculture & Commerce,,R,Washington,Elks Lodge,54
+Derrick T Simmons,State Senate,12,D,Washington,Elks Lodge,850
+Paul D Pecou,State Senate,12,IND,Washington,Elks Lodge,44
+Hayes Dent,State Senate,22,R,Washington,Elks Lodge,x
+Joseph C Thomas Sr.,State Senate,22,D,Washington,Elks Lodge,x
+Otis L Anthony ,State House,31,D,Washington,Elks Lodge,x
+Willie L Bailey,State House,49,D,Washington,Elks Lodge,218
+John W Hines Sr.,State House,50,D,Washington,Elks Lodge,627
+Jim Hood,Governor,,D,Washington,Extension Building,302
+Tate Reeves,Governor,,R,Washington,Extension Building,9
+Bob Hickingbottom,Governor,,C,Washington,Extension Building,1
+David R Singletary,Governor,,IND,Washington,Extension Building,4
+Delbert Hosemann,Lieutenant Governor,,R,Washington,Extension Building,25
+Jay Hughes,Lieutenant Governor,,D,Washington,Extension Building,270
+Johnny DuPree,Secretary of State,,D,Washington,Extension Building,275
+Michael Watson,Secretary of State,,R,Washington,Extension Building,29
+Jennifer Riley Collins,Attorney General,,D,Washington,Extension Building,297
+Lynn Fitch,Attorney General,,R,Washington,Extension Building,14
+Shad White,State Auditor,,R,Washington,Extension Building,124
+Addie Lee Green,State Treasurer,,D,Washington,Extension Building,277
+David McRae,State Treasurer,,R,Washington,Extension Building,24
+Rickey L Cole,Commissioner of Agriculture & Commerce,,D,Washington,Extension Building,278
+Andy Gipson,Commissioner of Agriculture & Commerce,,R,Washington,Extension Building,22
+Derrick T Simmons,State Senate,12,D,Washington,Extension Building,302
+Paul D Pecou,State Senate,12,IND,Washington,Extension Building,6
+Hayes Dent,State Senate,22,R,Washington,Extension Building,x
+Joseph C Thomas Sr.,State Senate,22,D,Washington,Extension Building,x
+Otis L Anthony ,State House,31,D,Washington,Extension Building,x
+Willie L Bailey,State House,49,D,Washington,Extension Building,291
+John W Hines Sr.,State House,50,D,Washington,Extension Building,x
+Jim Hood,Governor,,D,Washington,Glen Allan Library,126
+Tate Reeves,Governor,,R,Washington,Glen Allan Library,162
+Bob Hickingbottom,Governor,,C,Washington,Glen Allan Library,1
+David R Singletary,Governor,,IND,Washington,Glen Allan Library,0
+Delbert Hosemann,Lieutenant Governor,,R,Washington,Glen Allan Library,182
+Jay Hughes,Lieutenant Governor,,D,Washington,Glen Allan Library,103
+Johnny DuPree,Secretary of State,,D,Washington,Glen Allan Library,111
+Michael Watson,Secretary of State,,R,Washington,Glen Allan Library,171
+Jennifer Riley Collins,Attorney General,,D,Washington,Glen Allan Library,109
+Lynn Fitch,Attorney General,,R,Washington,Glen Allan Library,176
+Shad White,State Auditor,,R,Washington,Glen Allan Library,208
+Addie Lee Green,State Treasurer,,D,Washington,Glen Allan Library,109
+David McRae,State Treasurer,,R,Washington,Glen Allan Library,176
+Rickey L Cole,Commissioner of Agriculture & Commerce,,D,Washington,Glen Allan Library,111
+Andy Gipson,Commissioner of Agriculture & Commerce,,R,Washington,Glen Allan Library,174
+Derrick T Simmons,State Senate,12,D,Washington,Glen Allan Library,x
+Paul D Pecou,State Senate,12,IND,Washington,Glen Allan Library,x
+Hayes Dent,State Senate,22,R,Washington,Glen Allan Library,178
+Joseph C Thomas Sr.,State Senate,22,D,Washington,Glen Allan Library,104
+Otis L Anthony ,State House,31,D,Washington,Glen Allan Library,x
+Willie L Bailey,State House,49,D,Washington,Glen Allan Library,x
+John W Hines Sr.,State House,50,D,Washington,Glen Allan Library,199
+Jim Hood,Governor,,D,Washington,Hollandale City Hall,546
+Tate Reeves,Governor,,R,Washington,Hollandale City Hall,140
+Bob Hickingbottom,Governor,,C,Washington,Hollandale City Hall,1
+David R Singletary,Governor,,IND,Washington,Hollandale City Hall,3
+Delbert Hosemann,Lieutenant Governor,,R,Washington,Hollandale City Hall,180
+Jay Hughes,Lieutenant Governor,,D,Washington,Hollandale City Hall,490
+Johnny DuPree,Secretary of State,,D,Washington,Hollandale City Hall,501
+Michael Watson,Secretary of State,,R,Washington,Hollandale City Hall,168
+Jennifer Riley Collins,Attorney General,,D,Washington,Hollandale City Hall,525
+Lynn Fitch,Attorney General,,R,Washington,Hollandale City Hall,154
+Shad White,State Auditor,,R,Washington,Hollandale City Hall,381
+Addie Lee Green,State Treasurer,,D,Washington,Hollandale City Hall,498
+David McRae,State Treasurer,,R,Washington,Hollandale City Hall,161
+Rickey L Cole,Commissioner of Agriculture & Commerce,,D,Washington,Hollandale City Hall,507
+Andy Gipson,Commissioner of Agriculture & Commerce,,R,Washington,Hollandale City Hall,165
+Derrick T Simmons,State Senate,12,D,Washington,Hollandale City Hall,x
+Paul D Pecou,State Senate,12,IND,Washington,Hollandale City Hall,x
+Hayes Dent,State Senate,22,R,Washington,Hollandale City Hall,163
+Joseph C Thomas Sr.,State Senate,22,D,Washington,Hollandale City Hall,510
+Otis L Anthony ,State House,31,D,Washington,Hollandale City Hall,x
+Willie L Bailey,State House,49,D,Washington,Hollandale City Hall,x
+John W Hines Sr.,State House,50,D,Washington,Hollandale City Hall,595
+Jim Hood,Governor,,D,Washington,Jake's Chapel MB Church,590
+Tate Reeves,Governor,,R,Washington,Jake's Chapel MB Church,10
+Bob Hickingbottom,Governor,,C,Washington,Jake's Chapel MB Church,2
+David R Singletary,Governor,,IND,Washington,Jake's Chapel MB Church,5
+Delbert Hosemann,Lieutenant Governor,,R,Washington,Jake's Chapel MB Church,46
+Jay Hughes,Lieutenant Governor,,D,Washington,Jake's Chapel MB Church,531
+Johnny DuPree,Secretary of State,,D,Washington,Jake's Chapel MB Church,541
+Michael Watson,Secretary of State,,R,Washington,Jake's Chapel MB Church,37
+Jennifer Riley Collins,Attorney General,,D,Washington,Jake's Chapel MB Church,577
+Lynn Fitch,Attorney General,,R,Washington,Jake's Chapel MB Church,15
+Shad White,State Auditor,,R,Washington,Jake's Chapel MB Church,241
+Addie Lee Green,State Treasurer,,D,Washington,Jake's Chapel MB Church,558
+David McRae,State Treasurer,,R,Washington,Jake's Chapel MB Church,24
+Rickey L Cole,Commissioner of Agriculture & Commerce,,D,Washington,Jake's Chapel MB Church,558
+Andy Gipson,Commissioner of Agriculture & Commerce,,R,Washington,Jake's Chapel MB Church,21
+Derrick T Simmons,State Senate,12,D,Washington,Jake's Chapel MB Church,568
+Paul D Pecou,State Senate,12,IND,Washington,Jake's Chapel MB Church,20
+Hayes Dent,State Senate,22,R,Washington,Jake's Chapel MB Church,x
+Joseph C Thomas Sr.,State Senate,22,D,Washington,Jake's Chapel MB Church,x
+Otis L Anthony ,State House,31,D,Washington,Jake's Chapel MB Church,x
+Willie L Bailey,State House,49,D,Washington,Jake's Chapel MB Church,358
+John W Hines Sr.,State House,50,D,Washington,Jake's Chapel MB Church,216
+Jim Hood,Governor,,D,Washington,Lake Vista Masonic Lodge,547
+Tate Reeves,Governor,,R,Washington,Lake Vista Masonic Lodge,158
+Bob Hickingbottom,Governor,,C,Washington,Lake Vista Masonic Lodge,2
+David R Singletary,Governor,,IND,Washington,Lake Vista Masonic Lodge,9
+Delbert Hosemann,Lieutenant Governor,,R,Washington,Lake Vista Masonic Lodge,194
+Jay Hughes,Lieutenant Governor,,D,Washington,Lake Vista Masonic Lodge,497
+Johnny DuPree,Secretary of State,,D,Washington,Lake Vista Masonic Lodge,502
+Michael Watson,Secretary of State,,R,Washington,Lake Vista Masonic Lodge,181
+Jennifer Riley Collins,Attorney General,,D,Washington,Lake Vista Masonic Lodge,518
+Lynn Fitch,Attorney General,,R,Washington,Lake Vista Masonic Lodge,178
+Shad White,State Auditor,,R,Washington,Lake Vista Masonic Lodge,385
+Addie Lee Green,State Treasurer,,D,Washington,Lake Vista Masonic Lodge,507
+David McRae,State Treasurer,,R,Washington,Lake Vista Masonic Lodge,186
+Rickey L Cole,Commissioner of Agriculture & Commerce,,D,Washington,Lake Vista Masonic Lodge,506
+Andy Gipson,Commissioner of Agriculture & Commerce,,R,Washington,Lake Vista Masonic Lodge,183
+Derrick T Simmons,State Senate,12,D,Washington,Lake Vista Masonic Lodge,554
+Paul D Pecou,State Senate,12,IND,Washington,Lake Vista Masonic Lodge,130
+Hayes Dent,State Senate,22,R,Washington,Lake Vista Masonic Lodge,x
+Joseph C Thomas Sr.,State Senate,22,D,Washington,Lake Vista Masonic Lodge,x
+Otis L Anthony ,State House,31,D,Washington,Lake Vista Masonic Lodge,x
+Willie L Bailey,State House,49,D,Washington,Lake Vista Masonic Lodge,256
+John W Hines Sr.,State House,50,D,Washington,Lake Vista Masonic Lodge,333
+Jim Hood,Governor,,D,Washington,Leland Health Department,660
+Tate Reeves,Governor,,R,Washington,Leland Health Department,305
+Bob Hickingbottom,Governor,,C,Washington,Leland Health Department,6
+David R Singletary,Governor,,IND,Washington,Leland Health Department,9
+Delbert Hosemann,Lieutenant Governor,,R,Washington,Leland Health Department,345
+Jay Hughes,Lieutenant Governor,,D,Washington,Leland Health Department,601
+Johnny DuPree,Secretary of State,,D,Washington,Leland Health Department,603
+Michael Watson,Secretary of State,,R,Washington,Leland Health Department,344
+Jennifer Riley Collins,Attorney General,,D,Washington,Leland Health Department,619
+Lynn Fitch,Attorney General,,R,Washington,Leland Health Department,344
+Shad White,State Auditor,,R,Washington,Leland Health Department,551
+Addie Lee Green,State Treasurer,,D,Washington,Leland Health Department,604
+David McRae,State Treasurer,,R,Washington,Leland Health Department,348
+Rickey L Cole,Commissioner of Agriculture & Commerce,,D,Washington,Leland Health Department,606
+Andy Gipson,Commissioner of Agriculture & Commerce,,R,Washington,Leland Health Department,345
+Derrick T Simmons,State Senate,12,D,Washington,Leland Health Department,x
+Paul D Pecou,State Senate,12,IND,Washington,Leland Health Department,x
+Hayes Dent,State Senate,22,R,Washington,Leland Health Department,352
+Joseph C Thomas Sr.,State Senate,22,D,Washington,Leland Health Department,601
+Otis L Anthony ,State House,31,D,Washington,Leland Health Department,777
+Willie L Bailey,State House,49,D,Washington,Leland Health Department,x
+John W Hines Sr.,State House,50,D,Washington,Leland Health Department,x
+Jim Hood,Governor,,D,Washington,Leland Rotary Club,462
+Tate Reeves,Governor,,R,Washington,Leland Rotary Club,298
+Bob Hickingbottom,Governor,,C,Washington,Leland Rotary Club,3
+David R Singletary,Governor,,IND,Washington,Leland Rotary Club,3
+Delbert Hosemann,Lieutenant Governor,,R,Washington,Leland Rotary Club,330
+Jay Hughes,Lieutenant Governor,,D,Washington,Leland Rotary Club,422
+Johnny DuPree,Secretary of State,,D,Washington,Leland Rotary Club,409
+Michael Watson,Secretary of State,,R,Washington,Leland Rotary Club,332
+Jennifer Riley Collins,Attorney General,,D,Washington,Leland Rotary Club,428
+Lynn Fitch,Attorney General,,R,Washington,Leland Rotary Club,327
+Shad White,State Auditor,,R,Washington,Leland Rotary Club,492
+Addie Lee Green,State Treasurer,,D,Washington,Leland Rotary Club,404
+David McRae,State Treasurer,,R,Washington,Leland Rotary Club,343
+Rickey L Cole,Commissioner of Agriculture & Commerce,,D,Washington,Leland Rotary Club,409
+Andy Gipson,Commissioner of Agriculture & Commerce,,R,Washington,Leland Rotary Club,333
+Derrick T Simmons,State Senate,12,D,Washington,Leland Rotary Club,535
+Paul D Pecou,State Senate,12,IND,Washington,Leland Rotary Club,185
+Hayes Dent,State Senate,22,R,Washington,Leland Rotary Club,x
+Joseph C Thomas Sr.,State Senate,22,D,Washington,Leland Rotary Club,x
+Otis L Anthony ,State House,31,D,Washington,Leland Rotary Club,587
+Willie L Bailey,State House,49,D,Washington,Leland Rotary Club,x
+John W Hines Sr.,State House,50,D,Washington,Leland Rotary Club,x
+Jim Hood,Governor,,D,Washington,Metcalfe Municipal Building,271
+Tate Reeves,Governor,,R,Washington,Metcalfe Municipal Building,10
+Bob Hickingbottom,Governor,,C,Washington,Metcalfe Municipal Building,0
+David R Singletary,Governor,,IND,Washington,Metcalfe Municipal Building,3
+Delbert Hosemann,Lieutenant Governor,,R,Washington,Metcalfe Municipal Building,26
+Jay Hughes,Lieutenant Governor,,D,Washington,Metcalfe Municipal Building,246
+Johnny DuPree,Secretary of State,,D,Washington,Metcalfe Municipal Building,255
+Michael Watson,Secretary of State,,R,Washington,Metcalfe Municipal Building,14
+Jennifer Riley Collins,Attorney General,,D,Washington,Metcalfe Municipal Building,259
+Lynn Fitch,Attorney General,,R,Washington,Metcalfe Municipal Building,12
+Shad White,State Auditor,,R,Washington,Metcalfe Municipal Building,99
+Addie Lee Green,State Treasurer,,D,Washington,Metcalfe Municipal Building,251
+David McRae,State Treasurer,,R,Washington,Metcalfe Municipal Building,15
+Rickey L Cole,Commissioner of Agriculture & Commerce,,D,Washington,Metcalfe Municipal Building,252
+Andy Gipson,Commissioner of Agriculture & Commerce,,R,Washington,Metcalfe Municipal Building,15
+Derrick T Simmons,State Senate,12,D,Washington,Metcalfe Municipal Building,272
+Paul D Pecou,State Senate,12,IND,Washington,Metcalfe Municipal Building,11
+Hayes Dent,State Senate,22,R,Washington,Metcalfe Municipal Building,x
+Joseph C Thomas Sr.,State Senate,22,D,Washington,Metcalfe Municipal Building,x
+Otis L Anthony ,State House,31,D,Washington,Metcalfe Municipal Building,x
+Willie L Bailey,State House,49,D,Washington,Metcalfe Municipal Building,x
+John W Hines Sr.,State House,50,D,Washington,Metcalfe Municipal Building,266
+Jim Hood,Governor,,D,Washington,Mount Bethel Baptist Church,353
+Tate Reeves,Governor,,R,Washington,Mount Bethel Baptist Church,8
+Bob Hickingbottom,Governor,,C,Washington,Mount Bethel Baptist Church,3
+David R Singletary,Governor,,IND,Washington,Mount Bethel Baptist Church,1
+Delbert Hosemann,Lieutenant Governor,,R,Washington,Mount Bethel Baptist Church,25
+Jay Hughes,Lieutenant Governor,,D,Washington,Mount Bethel Baptist Church,314
+Johnny DuPree,Secretary of State,,D,Washington,Mount Bethel Baptist Church,324
+Michael Watson,Secretary of State,,R,Washington,Mount Bethel Baptist Church,22
+Jennifer Riley Collins,Attorney General,,D,Washington,Mount Bethel Baptist Church,349
+Lynn Fitch,Attorney General,,R,Washington,Mount Bethel Baptist Church,7
+Shad White,State Auditor,,R,Washington,Mount Bethel Baptist Church,114
+Addie Lee Green,State Treasurer,,D,Washington,Mount Bethel Baptist Church,333
+David McRae,State Treasurer,,R,Washington,Mount Bethel Baptist Church,11
+Rickey L Cole,Commissioner of Agriculture & Commerce,,D,Washington,Mount Bethel Baptist Church,334
+Andy Gipson,Commissioner of Agriculture & Commerce,,R,Washington,Mount Bethel Baptist Church,13
+Derrick T Simmons,State Senate,12,D,Washington,Mount Bethel Baptist Church,338
+Paul D Pecou,State Senate,12,IND,Washington,Mount Bethel Baptist Church,15
+Hayes Dent,State Senate,22,R,Washington,Mount Bethel Baptist Church,x
+Joseph C Thomas Sr.,State Senate,22,D,Washington,Mount Bethel Baptist Church,x
+Otis L Anthony ,State House,31,D,Washington,Mount Bethel Baptist Church,x
+Willie L Bailey,State House,49,D,Washington,Mount Bethel Baptist Church,349
+John W Hines Sr.,State House,50,D,Washington,Mount Bethel Baptist Church,x
+Jim Hood,Governor,,D,Washington,St. James Episcopla Church,900
+Tate Reeves,Governor,,R,Washington,St. James Episcopla Church,359
+Bob Hickingbottom,Governor,,C,Washington,St. James Episcopla Church,3
+David R Singletary,Governor,,IND,Washington,St. James Episcopla Church,7
+Delbert Hosemann,Lieutenant Governor,,R,Washington,St. James Episcopla Church,441
+Jay Hughes,Lieutenant Governor,,D,Washington,St. James Episcopla Church,803
+Johnny DuPree,Secretary of State,,D,Washington,St. James Episcopla Church,840
+Michael Watson,Secretary of State,,R,Washington,St. James Episcopla Church,397
+Jennifer Riley Collins,Attorney General,,D,Washington,St. James Episcopla Church,850
+Lynn Fitch,Attorney General,,R,Washington,St. James Episcopla Church,407
+Shad White,State Auditor,,R,Washington,St. James Episcopla Church,746
+Addie Lee Green,State Treasurer,,D,Washington,St. James Episcopla Church,812
+David McRae,State Treasurer,,R,Washington,St. James Episcopla Church,424
+Rickey L Cole,Commissioner of Agriculture & Commerce,,D,Washington,St. James Episcopla Church,825
+Andy Gipson,Commissioner of Agriculture & Commerce,,R,Washington,St. James Episcopla Church,405
+Derrick T Simmons,State Senate,12,D,Washington,St. James Episcopla Church,971
+Paul D Pecou,State Senate,12,IND,Washington,St. James Episcopla Church,232
+Hayes Dent,State Senate,22,R,Washington,St. James Episcopla Church,x
+Joseph C Thomas Sr.,State Senate,22,D,Washington,St. James Episcopla Church,x
+Otis L Anthony ,State House,31,D,Washington,St. James Episcopla Church,x
+Willie L Bailey,State House,49,D,Washington,St. James Episcopla Church,1064
+John W Hines Sr.,State House,50,D,Washington,St. James Episcopla Church,x
+Jim Hood,Governor,,D,Washington,Swiftwater Baptist Church,125
+Tate Reeves,Governor,,R,Washington,Swiftwater Baptist Church,368
+Bob Hickingbottom,Governor,,C,Washington,Swiftwater Baptist Church,2
+David R Singletary,Governor,,IND,Washington,Swiftwater Baptist Church,2
+Delbert Hosemann,Lieutenant Governor,,R,Washington,Swiftwater Baptist Church,396
+Jay Hughes,Lieutenant Governor,,D,Washington,Swiftwater Baptist Church,89
+Johnny DuPree,Secretary of State,,D,Washington,Swiftwater Baptist Church,95
+Michael Watson,Secretary of State,,R,Washington,Swiftwater Baptist Church,386
+Jennifer Riley Collins,Attorney General,,D,Washington,Swiftwater Baptist Church,97
+Lynn Fitch,Attorney General,,R,Washington,Swiftwater Baptist Church,388
+Shad White,State Auditor,,R,Washington,Swiftwater Baptist Church,417
+Addie Lee Green,State Treasurer,,D,Washington,Swiftwater Baptist Church,85
+David McRae,State Treasurer,,R,Washington,Swiftwater Baptist Church,402
+Rickey L Cole,Commissioner of Agriculture & Commerce,,D,Washington,Swiftwater Baptist Church,95
+Andy Gipson,Commissioner of Agriculture & Commerce,,R,Washington,Swiftwater Baptist Church,391
+Derrick T Simmons,State Senate,12,D,Washington,Swiftwater Baptist Church,150
+Paul D Pecou,State Senate,12,IND,Washington,Swiftwater Baptist Church,255
+Hayes Dent,State Senate,22,R,Washington,Swiftwater Baptist Church,22
+Joseph C Thomas Sr.,State Senate,22,D,Washington,Swiftwater Baptist Church,1
+Otis L Anthony ,State House,31,D,Washington,Swiftwater Baptist Church,x
+Willie L Bailey,State House,49,D,Washington,Swiftwater Baptist Church,108
+John W Hines Sr.,State House,50,D,Washington,Swiftwater Baptist Church,181
+Jim Hood,Governor,,D,Washington,Tampa Drive,229
+Tate Reeves,Governor,,R,Washington,Tampa Drive,63
+Bob Hickingbottom,Governor,,C,Washington,Tampa Drive,1
+David R Singletary,Governor,,IND,Washington,Tampa Drive,1
+Delbert Hosemann,Lieutenant Governor,,R,Washington,Tampa Drive,75
+Jay Hughes,Lieutenant Governor,,D,Washington,Tampa Drive,206
+Johnny DuPree,Secretary of State,,D,Washington,Tampa Drive,220
+Michael Watson,Secretary of State,,R,Washington,Tampa Drive,63
+Jennifer Riley Collins,Attorney General,,D,Washington,Tampa Drive,220
+Lynn Fitch,Attorney General,,R,Washington,Tampa Drive,66
+Shad White,State Auditor,,R,Washington,Tampa Drive,144
+Addie Lee Green,State Treasurer,,D,Washington,Tampa Drive,214
+David McRae,State Treasurer,,R,Washington,Tampa Drive,71
+Rickey L Cole,Commissioner of Agriculture & Commerce,,D,Washington,Tampa Drive,212
+Andy Gipson,Commissioner of Agriculture & Commerce,,R,Washington,Tampa Drive,71
+Derrick T Simmons,State Senate,12,D,Washington,Tampa Drive,233
+Paul D Pecou,State Senate,12,IND,Washington,Tampa Drive,48
+Hayes Dent,State Senate,22,R,Washington,Tampa Drive,x
+Joseph C Thomas Sr.,State Senate,22,D,Washington,Tampa Drive,x
+Otis L Anthony ,State House,31,D,Washington,Tampa Drive,x
+Willie L Bailey,State House,49,D,Washington,Tampa Drive,252
+John W Hines Sr.,State House,50,D,Washington,Tampa Drive,x
+Jim Hood,Governor,,D,Washington,Ward's Recreation Center,677
+Tate Reeves,Governor,,R,Washington,Ward's Recreation Center,445
+Bob Hickingbottom,Governor,,C,Washington,Ward's Recreation Center,1
+David R Singletary,Governor,,IND,Washington,Ward's Recreation Center,10
+Delbert Hosemann,Lieutenant Governor,,R,Washington,Ward's Recreation Center,528
+Jay Hughes,Lieutenant Governor,,D,Washington,Ward's Recreation Center,577
+Johnny DuPree,Secretary of State,,D,Washington,Ward's Recreation Center,588
+Michael Watson,Secretary of State,,R,Washington,Ward's Recreation Center,508
+Jennifer Riley Collins,Attorney General,,D,Washington,Ward's Recreation Center,610
+Lynn Fitch,Attorney General,,R,Washington,Ward's Recreation Center,500
+Shad White,State Auditor,,R,Washington,Ward's Recreation Center,766
+Addie Lee Green,State Treasurer,,D,Washington,Ward's Recreation Center,596
+David McRae,State Treasurer,,R,Washington,Ward's Recreation Center,510
+Rickey L Cole,Commissioner of Agriculture & Commerce,,D,Washington,Ward's Recreation Center,595
+Andy Gipson,Commissioner of Agriculture & Commerce,,R,Washington,Ward's Recreation Center,502
+Derrick T Simmons,State Senate,12,D,Washington,Ward's Recreation Center,732
+Paul D Pecou,State Senate,12,IND,Washington,Ward's Recreation Center,305
+Hayes Dent,State Senate,22,R,Washington,Ward's Recreation Center,x
+Joseph C Thomas Sr.,State Senate,22,D,Washington,Ward's Recreation Center,x
+Otis L Anthony ,State House,31,D,Washington,Ward's Recreation Center,x
+Willie L Bailey,State House,49,D,Washington,Ward's Recreation Center,368
+John W Hines Sr.,State House,50,D,Washington,Ward's Recreation Center,496
+Jim Hood,Governor,,D,Washington,Washington County Convention Center,476
+Tate Reeves,Governor,,R,Washington,Washington County Convention Center,108
+Bob Hickingbottom,Governor,,C,Washington,Washington County Convention Center,2
+David R Singletary,Governor,,IND,Washington,Washington County Convention Center,5
+Delbert Hosemann,Lieutenant Governor,,R,Washington,Washington County Convention Center,143
+Jay Hughes,Lieutenant Governor,,D,Washington,Washington County Convention Center,428
+Johnny DuPree,Secretary of State,,D,Washington,Washington County Convention Center,435
+Michael Watson,Secretary of State,,R,Washington,Washington County Convention Center,132
+Jennifer Riley Collins,Attorney General,,D,Washington,Washington County Convention Center,455
+Lynn Fitch,Attorney General,,R,Washington,Washington County Convention Center,123
+Shad White,State Auditor,,R,Washington,Washington County Convention Center,307
+Addie Lee Green,State Treasurer,,D,Washington,Washington County Convention Center,429
+David McRae,State Treasurer,,R,Washington,Washington County Convention Center,138
+Rickey L Cole,Commissioner of Agriculture & Commerce,,D,Washington,Washington County Convention Center,435
+Andy Gipson,Commissioner of Agriculture & Commerce,,R,Washington,Washington County Convention Center,131
+Derrick T Simmons,State Senate,12,D,Washington,Washington County Convention Center,466
+Paul D Pecou,State Senate,12,IND,Washington,Washington County Convention Center,92
+Hayes Dent,State Senate,22,R,Washington,Washington County Convention Center,x
+Joseph C Thomas Sr.,State Senate,22,D,Washington,Washington County Convention Center,x
+Otis L Anthony ,State House,31,D,Washington,Washington County Convention Center,x
+Willie L Bailey,State House,49,D,Washington,Washington County Convention Center,x
+John W Hines Sr.,State House,50,D,Washington,Washington County Convention Center,507
+Jim Hood,Governor,,D,Washington,TOTAL ,8667
+Tate Reeves,Governor,,R,Washington,TOTAL ,3336
+Bob Hickingbottom,Governor,,C,Washington,TOTAL ,32
+David R Singletary,Governor,,IND,Washington,TOTAL ,90
+Delbert Hosemann,Lieutenant Governor,,R,Washington,TOTAL ,4047
+Jay Hughes,Lieutenant Governor,,D,Washington,TOTAL ,7708
+Johnny DuPree,Secretary of State,,D,Washington,TOTAL ,7887
+Michael Watson,Secretary of State,,R,Washington,TOTAL ,3816
+Jennifer Riley Collins,Attorney General,,D,Washington,TOTAL ,8174
+Lynn Fitch,Attorney General,,R,Washington,TOTAL ,3736
+Shad White,State Auditor,,R,Washington,TOTAL ,6918
+Addie Lee Green,State Treasurer,,D,Washington,TOTAL ,7839
+David McRae,State Treasurer,,R,Washington,TOTAL ,3898
+Rickey L Cole,Commissioner of Agriculture & Commerce,,D,Washington,TOTAL ,7920
+Andy Gipson,Commissioner of Agriculture & Commerce,,R,Washington,TOTAL ,3814
+Derrick T Simmons,State Senate,12,D,Washington,TOTAL ,7505
+Paul D Pecou,State Senate,12,IND,Washington,TOTAL ,1749
+Hayes Dent,State Senate,22,R,Washington,TOTAL ,865
+Joseph C Thomas Sr.,State Senate,22,D,Washington,TOTAL ,1398
+Otis L Anthony ,State House,31,D,Washington,TOTAL ,1364
+Willie L Bailey,State House,49,D,Washington,TOTAL ,4367
+John W Hines Sr.,State House,50,D,Washington,TOTAL ,4241
+Robert E. Amos,Commissioner of Insurance,,D,Washington,Arcola Technology Center,168
+Mike Chaney,Commissioner of Insurance,,R,Washington,Arcola Technology Center,113
+Robert E. Amos,Commissioner of Insurance,,D,Washington,Buster Brown Community Center,903
+Mike Chaney,Commissioner of Insurance,,R,Washington,Buster Brown Community Center,266
+Robert E. Amos,Commissioner of Insurance,,D,Washington,Covenant Presbyterian Church,226
+Mike Chaney,Commissioner of Insurance,,R,Washington,Covenant Presbyterian Church,622
+Robert E. Amos,Commissioner of Insurance,,D,Washington,Darlove,18
+Mike Chaney,Commissioner of Insurance,,R,Washington,Darlove,32
+Robert E. Amos,Commissioner of Insurance,,D,Washington,Elks Lodge,850
+Mike Chaney,Commissioner of Insurance,,R,Washington,Elks Lodge,50
+Robert E. Amos,Commissioner of Insurance,,D,Washington,Extension Building,281
+Mike Chaney,Commissioner of Insurance,,R,Washington,Extension Building,23
+Robert E. Amos,Commissioner of Insurance,,D,Washington,Glen Allan Library,103
+Mike Chaney,Commissioner of Insurance,,R,Washington,Glen Allan Library,183
+Robert E. Amos,Commissioner of Insurance,,D,Washington,Hollandale City Hall,513
+Mike Chaney,Commissioner of Insurance,,R,Washington,Hollandale City Hall,161
+Robert E. Amos,Commissioner of Insurance,,D,Washington,Jake's Chapel MB Church,555
+Mike Chaney,Commissioner of Insurance,,R,Washington,Jake's Chapel MB Church,26
+Robert E. Amos,Commissioner of Insurance,,D,Washington,Lake Vista Masonic Lodge,511
+Mike Chaney,Commissioner of Insurance,,R,Washington,Lake Vista Masonic Lodge,184
+Robert E. Amos,Commissioner of Insurance,,D,Washington,Leland Health Department,623
+Mike Chaney,Commissioner of Insurance,,R,Washington,Leland Health Department,335
+Robert E. Amos,Commissioner of Insurance,,D,Washington,Leland Rotary Club,425
+Mike Chaney,Commissioner of Insurance,,R,Washington,Leland Rotary Club,325
+Robert E. Amos,Commissioner of Insurance,,D,Washington,Metcalfe Municipal Building,252
+Mike Chaney,Commissioner of Insurance,,R,Washington,Metcalfe Municipal Building,15
+Robert E. Amos,Commissioner of Insurance,,D,Washington,Mount Bethel Baptist Church,329
+Mike Chaney,Commissioner of Insurance,,R,Washington,Mount Bethel Baptist Church,18
+Robert E. Amos,Commissioner of Insurance,,D,Washington,St. James Episcopla Church,817
+Mike Chaney,Commissioner of Insurance,,R,Washington,St. James Episcopla Church,426
+Robert E. Amos,Commissioner of Insurance,,D,Washington,Swiftwater Baptist Church,92
+Mike Chaney,Commissioner of Insurance,,R,Washington,Swiftwater Baptist Church,391
+Robert E. Amos,Commissioner of Insurance,,D,Washington,Tampa Drive,212
+Mike Chaney,Commissioner of Insurance,,R,Washington,Tampa Drive,72
+Robert E. Amos,Commissioner of Insurance,,D,Washington,Ward's Recreation Center,585
+Mike Chaney,Commissioner of Insurance,,R,Washington,Ward's Recreation Center,520
+Robert E. Amos,Commissioner of Insurance,,D,Washington,Washington County Convention Center,432
+Mike Chaney,Commissioner of Insurance,,R,Washington,Washington County Convention Center,134
+Robert E. Amos,Commissioner of Insurance,,D,Washington,TOTAL ,7895
+Mike Chaney,Commissioner of Insurance,,R,Washington,TOTAL ,3896

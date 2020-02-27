@@ -1,545 +1,476 @@
-﻿page,candidate,office,district,party,county,precinct,votes
-2,Jim Hood,Governor,,D,Tippah,Blue Mountain,213
-2,Tate Reeves,Governor,,R,Tippah,Blue Mountain,311
-2,Bob Hickingbottom,Governor,,C,Tippah,Blue Mountain,4
-2,David R Singletary,Governor,,IND,Tippah,Blue Mountain,12
-2,Delbert Hosemann,Lieutenant Governor,,R,Tippah,Blue Mountain,334
-2,Jay Hughes,Lieutenant Governor,,D,Tippah,Blue Mountain,194
-2,Johnny DuPree,Secretary of State,,D,Tippah,Blue Mountain,197
-2,Michael Watson,Secretary of State,,R,Tippah,Blue Mountain,329
-2,Jennifer Riley Collins,Attorney General,,D,Tippah,Blue Mountain,212
-2,Lynn Fitch,Attorney General,,R,Tippah,Blue Mountain,323
-2,Shad White,State Auditor,,R,Tippah,Blue Mountain,435
-5,Addie Lee Green,State Treasurer,,D,Tippah,Blue Mountain,194
-5,David McRae,State Treasurer,,R,Tippah,Blue Mountain,338
-5,Rickey L Cole,Commissioner of Agriculture & Commerce,,D,Tippah,Blue Mountain,211
-5,Andy Gipson,Commissioner of Agriculture & Commerce,,R,Tippah,Blue Mountain,311
-8,Rita Potts Parks,State Senate,4,R,Tippah,Blue Mountain,441
-8,Joseph F 'Jody' Steverson,State House,4,R,Tippah,Blue Mountain,436
-2,Jim Hood,Governor,,D,Tippah,Brownfield,17
-2,Tate Reeves,Governor,,R,Tippah,Brownfield,93
-2,Bob Hickingbottom,Governor,,C,Tippah,Brownfield,0
-2,David R Singletary,Governor,,IND,Tippah,Brownfield,1
-2,Delbert Hosemann,Lieutenant Governor,,R,Tippah,Brownfield,94
-2,Jay Hughes,Lieutenant Governor,,D,Tippah,Brownfield,14
-2,Johnny DuPree,Secretary of State,,D,Tippah,Brownfield,18
-2,Michael Watson,Secretary of State,,R,Tippah,Brownfield,91
-2,Jennifer Riley Collins,Attorney General,,D,Tippah,Brownfield,15
-2,Lynn Fitch,Attorney General,,R,Tippah,Brownfield,95
-2,Shad White,State Auditor,,R,Tippah,Brownfield,97
-5,Addie Lee Green,State Treasurer,,D,Tippah,Brownfield,7
-5,David McRae,State Treasurer,,R,Tippah,Brownfield,101
-5,Rickey L Cole,Commissioner of Agriculture & Commerce,,D,Tippah,Brownfield,10
-5,Andy Gipson,Commissioner of Agriculture & Commerce,,R,Tippah,Brownfield,99
-8,Rita Potts Parks,State Senate,4,R,Tippah,Brownfield,101
-8,Joseph F 'Jody' Steverson,State House,4,R,Tippah,Brownfield,104
-2,Jim Hood,Governor,,D,Tippah,Chalybeate,112
-2,Tate Reeves,Governor,,R,Tippah,Chalybeate,344
-2,Bob Hickingbottom,Governor,,C,Tippah,Chalybeate,0
-2,David R Singletary,Governor,,IND,Tippah,Chalybeate,8
-2,Delbert Hosemann,Lieutenant Governor,,R,Tippah,Chalybeate,373
-2,Jay Hughes,Lieutenant Governor,,D,Tippah,Chalybeate,85
-2,Johnny DuPree,Secretary of State,,D,Tippah,Chalybeate,79
-2,Michael Watson,Secretary of State,,R,Tippah,Chalybeate,372
-2,Jennifer Riley Collins,Attorney General,,D,Tippah,Chalybeate,72
-2,Lynn Fitch,Attorney General,,R,Tippah,Chalybeate,383
-2,Shad White,State Auditor,,R,Tippah,Chalybeate,422
-5,Addie Lee Green,State Treasurer,,D,Tippah,Chalybeate,60
-5,David McRae,State Treasurer,,R,Tippah,Chalybeate,391
-5,Rickey L Cole,Commissioner of Agriculture & Commerce,,D,Tippah,Chalybeate,75
-5,Andy Gipson,Commissioner of Agriculture & Commerce,,R,Tippah,Chalybeate,377
-8,Rita Potts Parks,State Senate,4,R,Tippah,Chalybeate,422
-8,Joseph F 'Jody' Steverson,State House,4,R,Tippah,Chalybeate,422
-2,Jim Hood,Governor,,D,Tippah,Chapman,78
-2,Tate Reeves,Governor,,R,Tippah,Chapman,282
-2,Bob Hickingbottom,Governor,,C,Tippah,Chapman,0
-2,David R Singletary,Governor,,IND,Tippah,Chapman,5
-2,Delbert Hosemann,Lieutenant Governor,,R,Tippah,Chapman,318
-2,Jay Hughes,Lieutenant Governor,,D,Tippah,Chapman,39
-2,Johnny DuPree,Secretary of State,,D,Tippah,Chapman,41
-2,Michael Watson,Secretary of State,,R,Tippah,Chapman,315
-2,Jennifer Riley Collins,Attorney General,,D,Tippah,Chapman,42
-2,Lynn Fitch,Attorney General,,R,Tippah,Chapman,318
-2,Shad White,State Auditor,,R,Tippah,Chapman,344
-5,Addie Lee Green,State Treasurer,,D,Tippah,Chapman,25
-5,David McRae,State Treasurer,,R,Tippah,Chapman,331
-5,Rickey L Cole,Commissioner of Agriculture & Commerce,,D,Tippah,Chapman,35
-5,Andy Gipson,Commissioner of Agriculture & Commerce,,R,Tippah,Chapman,322
-8,Rita Potts Parks,State Senate,4,R,Tippah,Chapman,338
-8,Joseph F 'Jody' Steverson,State House,4,R,Tippah,Chapman,347
-2,Jim Hood,Governor,,D,Tippah,Clarysville,12
-2,Tate Reeves,Governor,,R,Tippah,Clarysville,94
-2,Bob Hickingbottom,Governor,,C,Tippah,Clarysville,0
-2,David R Singletary,Governor,,IND,Tippah,Clarysville,0
-2,Delbert Hosemann,Lieutenant Governor,,R,Tippah,Clarysville,100
-2,Jay Hughes,Lieutenant Governor,,D,Tippah,Clarysville,6
-2,Johnny DuPree,Secretary of State,,D,Tippah,Clarysville,10
-2,Michael Watson,Secretary of State,,R,Tippah,Clarysville,94
-2,Jennifer Riley Collins,Attorney General,,D,Tippah,Clarysville,8
-2,Lynn Fitch,Attorney General,,R,Tippah,Clarysville,98
-2,Shad White,State Auditor,,R,Tippah,Clarysville,102
-5,Addie Lee Green,State Treasurer,,D,Tippah,Clarysville,4
-5,David McRae,State Treasurer,,R,Tippah,Clarysville,102
-5,Rickey L Cole,Commissioner of Agriculture & Commerce,,D,Tippah,Clarysville,7
-5,Andy Gipson,Commissioner of Agriculture & Commerce,,R,Tippah,Clarysville,99
-8,Rita Potts Parks,State Senate,4,R,Tippah,Clarysville,100
-8,Joseph F 'Jody' Steverson,State House,4,R,Tippah,Clarysville,100
-2,Jim Hood,Governor,,D,Tippah,Cotton Plant,68
-2,Tate Reeves,Governor,,R,Tippah,Cotton Plant,64
-2,Bob Hickingbottom,Governor,,C,Tippah,Cotton Plant,1
-2,David R Singletary,Governor,,IND,Tippah,Cotton Plant,1
-2,Delbert Hosemann,Lieutenant Governor,,R,Tippah,Cotton Plant,67
-2,Jay Hughes,Lieutenant Governor,,D,Tippah,Cotton Plant,58
-2,Johnny DuPree,Secretary of State,,D,Tippah,Cotton Plant,63
-2,Michael Watson,Secretary of State,,R,Tippah,Cotton Plant,61
-2,Jennifer Riley Collins,Attorney General,,D,Tippah,Cotton Plant,65
-2,Lynn Fitch,Attorney General,,R,Tippah,Cotton Plant,66
-2,Shad White,State Auditor,,R,Tippah,Cotton Plant,94
-5,Addie Lee Green,State Treasurer,,D,Tippah,Cotton Plant,61
-5,David McRae,State Treasurer,,R,Tippah,Cotton Plant,64
-5,Rickey L Cole,Commissioner of Agriculture & Commerce,,D,Tippah,Cotton Plant,66
-5,Andy Gipson,Commissioner of Agriculture & Commerce,,R,Tippah,Cotton Plant,62
-8,Rita Potts Parks,State Senate,4,R,Tippah,Cotton Plant,95
-8,Joseph F 'Jody' Steverson,State House,4,R,Tippah,Cotton Plant,91
-2,Jim Hood,Governor,,D,Tippah,Dry Creek,35
-2,Tate Reeves,Governor,,R,Tippah,Dry Creek,155
-2,Bob Hickingbottom,Governor,,C,Tippah,Dry Creek,1
-2,David R Singletary,Governor,,IND,Tippah,Dry Creek,2
-2,Delbert Hosemann,Lieutenant Governor,,R,Tippah,Dry Creek,167
-2,Jay Hughes,Lieutenant Governor,,D,Tippah,Dry Creek,23
-2,Johnny DuPree,Secretary of State,,D,Tippah,Dry Creek,19
-2,Michael Watson,Secretary of State,,R,Tippah,Dry Creek,169
-2,Jennifer Riley Collins,Attorney General,,D,Tippah,Dry Creek,22
-2,Lynn Fitch,Attorney General,,R,Tippah,Dry Creek,168
-2,Shad White,State Auditor,,R,Tippah,Dry Creek,177
-5,Addie Lee Green,State Treasurer,,D,Tippah,Dry Creek,17
-5,David McRae,State Treasurer,,R,Tippah,Dry Creek,174
-5,Rickey L Cole,Commissioner of Agriculture & Commerce,,D,Tippah,Dry Creek,23
-5,Andy Gipson,Commissioner of Agriculture & Commerce,,R,Tippah,Dry Creek,165
-8,Rita Potts Parks,State Senate,4,R,Tippah,Dry Creek,178
-8,Joseph F 'Jody' Steverson,State House,4,R,Tippah,Dry Creek,179
-2,Jim Hood,Governor,,D,Tippah,Dumas,60
-2,Tate Reeves,Governor,,R,Tippah,Dumas,314
-2,Bob Hickingbottom,Governor,,C,Tippah,Dumas,0
-2,David R Singletary,Governor,,IND,Tippah,Dumas,3
-2,Delbert Hosemann,Lieutenant Governor,,R,Tippah,Dumas,334
-2,Jay Hughes,Lieutenant Governor,,D,Tippah,Dumas,39
-2,Johnny DuPree,Secretary of State,,D,Tippah,Dumas,26
-2,Michael Watson,Secretary of State,,R,Tippah,Dumas,340
-2,Jennifer Riley Collins,Attorney General,,D,Tippah,Dumas,23
-2,Lynn Fitch,Attorney General,,R,Tippah,Dumas,348
-2,Shad White,State Auditor,,R,Tippah,Dumas,348
-5,Addie Lee Green,State Treasurer,,D,Tippah,Dumas,18
-5,David McRae,State Treasurer,,R,Tippah,Dumas,349
-5,Rickey L Cole,Commissioner of Agriculture & Commerce,,D,Tippah,Dumas,26
-5,Andy Gipson,Commissioner of Agriculture & Commerce,,R,Tippah,Dumas,339
-8,Rita Potts Parks,State Senate,4,R,Tippah,Dumas,345
-8,Joseph F 'Jody' Steverson,State House,4,R,Tippah,Dumas,359
-2,Jim Hood,Governor,,D,Tippah,Falkner,108
-2,Tate Reeves,Governor,,R,Tippah,Falkner,366
-2,Bob Hickingbottom,Governor,,C,Tippah,Falkner,3
-2,David R Singletary,Governor,,IND,Tippah,Falkner,17
-2,Delbert Hosemann,Lieutenant Governor,,R,Tippah,Falkner,413
-2,Jay Hughes,Lieutenant Governor,,D,Tippah,Falkner,81
-2,Johnny DuPree,Secretary of State,,D,Tippah,Falkner,82
-2,Michael Watson,Secretary of State,,R,Tippah,Falkner,406
-2,Jennifer Riley Collins,Attorney General,,D,Tippah,Falkner,82
-2,Lynn Fitch,Attorney General,,R,Tippah,Falkner,415
-2,Shad White,State Auditor,,R,Tippah,Falkner,465
-5,Addie Lee Green,State Treasurer,,D,Tippah,Falkner,79
-5,David McRae,State Treasurer,,R,Tippah,Falkner,414
-5,Rickey L Cole,Commissioner of Agriculture & Commerce,,D,Tippah,Falkner,86
-5,Andy Gipson,Commissioner of Agriculture & Commerce,,R,Tippah,Falkner,407
-8,Rita Potts Parks,State Senate,4,R,Tippah,Falkner,466
-8,Joseph F 'Jody' Steverson,State House,4,R,Tippah,Falkner,471
-2,Jim Hood,Governor,,D,Tippah,Mitchell,26
-2,Tate Reeves,Governor,,R,Tippah,Mitchell,121
-2,Bob Hickingbottom,Governor,,C,Tippah,Mitchell,0
-2,David R Singletary,Governor,,IND,Tippah,Mitchell,0
-2,Delbert Hosemann,Lieutenant Governor,,R,Tippah,Mitchell,128
-2,Jay Hughes,Lieutenant Governor,,D,Tippah,Mitchell,14
-2,Johnny DuPree,Secretary of State,,D,Tippah,Mitchell,14
-2,Michael Watson,Secretary of State,,R,Tippah,Mitchell,131
-2,Jennifer Riley Collins,Attorney General,,D,Tippah,Mitchell,19
-2,Lynn Fitch,Attorney General,,R,Tippah,Mitchell,127
-2,Shad White,State Auditor,,R,Tippah,Mitchell,131
-5,Addie Lee Green,State Treasurer,,D,Tippah,Mitchell,10
-5,David McRae,State Treasurer,,R,Tippah,Mitchell,135
-5,Rickey L Cole,Commissioner of Agriculture & Commerce,,D,Tippah,Mitchell,19
-5,Andy Gipson,Commissioner of Agriculture & Commerce,,R,Tippah,Mitchell,126
-8,Rita Potts Parks,State Senate,4,R,Tippah,Mitchell,132
-8,Joseph F 'Jody' Steverson,State House,4,R,Tippah,Mitchell,137
-2,Jim Hood,Governor,,D,Tippah,New Hope,36
-2,Tate Reeves,Governor,,R,Tippah,New Hope,175
-2,Bob Hickingbottom,Governor,,C,Tippah,New Hope,0
-2,David R Singletary,Governor,,IND,Tippah,New Hope,0
-2,Delbert Hosemann,Lieutenant Governor,,R,Tippah,New Hope,196
-2,Jay Hughes,Lieutenant Governor,,D,Tippah,New Hope,14
-2,Johnny DuPree,Secretary of State,,D,Tippah,New Hope,14
-2,Michael Watson,Secretary of State,,R,Tippah,New Hope,193
-2,Jennifer Riley Collins,Attorney General,,D,Tippah,New Hope,13
-2,Lynn Fitch,Attorney General,,R,Tippah,New Hope,198
-2,Shad White,State Auditor,,R,Tippah,New Hope,201
-5,Addie Lee Green,State Treasurer,,D,Tippah,New Hope,8
-5,David McRae,State Treasurer,,R,Tippah,New Hope,203
-5,Rickey L Cole,Commissioner of Agriculture & Commerce,,D,Tippah,New Hope,14
-5,Andy Gipson,Commissioner of Agriculture & Commerce,,R,Tippah,New Hope,195
-8,Rita Potts Parks,State Senate,4,R,Tippah,New Hope,200
-8,Joseph F 'Jody' Steverson,State House,4,R,Tippah,New Hope,205
-3,Jim Hood,Governor,,D,Tippah,North Falkner,47
-3,Tate Reeves,Governor,,R,Tippah,North Falkner,113
-3,Bob Hickingbottom,Governor,,C,Tippah,North Falkner,1
-3,David R Singletary,Governor,,IND,Tippah,North Falkner,2
-3,Delbert Hosemann,Lieutenant Governor,,R,Tippah,North Falkner,119
-3,Jay Hughes,Lieutenant Governor,,D,Tippah,North Falkner,39
-3,Johnny DuPree,Secretary of State,,D,Tippah,North Falkner,33
-3,Michael Watson,Secretary of State,,R,Tippah,North Falkner,120
-3,Jennifer Riley Collins,Attorney General,,D,Tippah,North Falkner,40
-3,Lynn Fitch,Attorney General,,R,Tippah,North Falkner,118
-3,Shad White,State Auditor,,R,Tippah,North Falkner,137
-6,Addie Lee Green,State Treasurer,,D,Tippah,North Falkner,28
-6,David McRae,State Treasurer,,R,Tippah,North Falkner,127
-6,Rickey L Cole,Commissioner of Agriculture & Commerce,,D,Tippah,North Falkner,34
-6,Andy Gipson,Commissioner of Agriculture & Commerce,,R,Tippah,North Falkner,122
-9,Rita Potts Parks,State Senate,4,R,Tippah,North Falkner,143
-9,Joseph F 'Jody' Steverson,State House,4,R,Tippah,North Falkner,145
-3,Jim Hood,Governor,,D,Tippah,North Ripley,248
-3,Tate Reeves,Governor,,R,Tippah,North Ripley,520
-3,Bob Hickingbottom,Governor,,C,Tippah,North Ripley,4
-3,David R Singletary,Governor,,IND,Tippah,North Ripley,11
-3,Delbert Hosemann,Lieutenant Governor,,R,Tippah,North Ripley,571
-3,Jay Hughes,Lieutenant Governor,,D,Tippah,North Ripley,200
-3,Johnny DuPree,Secretary of State,,D,Tippah,North Ripley,207
-3,Michael Watson,Secretary of State,,R,Tippah,North Ripley,557
-3,Jennifer Riley Collins,Attorney General,,D,Tippah,North Ripley,228
-3,Lynn Fitch,Attorney General,,R,Tippah,North Ripley,552
-3,Shad White,State Auditor,,R,Tippah,North Ripley,676
-6,Addie Lee Green,State Treasurer,,D,Tippah,North Ripley,198
-6,David McRae,State Treasurer,,R,Tippah,North Ripley,574
-6,Rickey L Cole,Commissioner of Agriculture & Commerce,,D,Tippah,North Ripley,230
-6,Andy Gipson,Commissioner of Agriculture & Commerce,,R,Tippah,North Ripley,540
-9,Rita Potts Parks,State Senate,4,R,Tippah,North Ripley,655
-9,Joseph F 'Jody' Steverson,State House,4,R,Tippah,North Ripley,681
-3,Jim Hood,Governor,,D,Tippah,Palmer,73
-3,Tate Reeves,Governor,,R,Tippah,Palmer,286
-3,Bob Hickingbottom,Governor,,C,Tippah,Palmer,0
-3,David R Singletary,Governor,,IND,Tippah,Palmer,5
-3,Delbert Hosemann,Lieutenant Governor,,R,Tippah,Palmer,320
-3,Jay Hughes,Lieutenant Governor,,D,Tippah,Palmer,37
-3,Johnny DuPree,Secretary of State,,D,Tippah,Palmer,41
-3,Michael Watson,Secretary of State,,R,Tippah,Palmer,312
-3,Jennifer Riley Collins,Attorney General,,D,Tippah,Palmer,34
-3,Lynn Fitch,Attorney General,,R,Tippah,Palmer,320
-3,Shad White,State Auditor,,R,Tippah,Palmer,333
-6,Addie Lee Green,State Treasurer,,D,Tippah,Palmer,28
-6,David McRae,State Treasurer,,R,Tippah,Palmer,323
-6,Rickey L Cole,Commissioner of Agriculture & Commerce,,D,Tippah,Palmer,34
-6,Andy Gipson,Commissioner of Agriculture & Commerce,,R,Tippah,Palmer,317
-9,Rita Potts Parks,State Senate,4,R,Tippah,Palmer,336
-9,Joseph F 'Jody' Steverson,State House,4,R,Tippah,Palmer,343
-3,Jim Hood,Governor,,D,Tippah,Peoples,30
-3,Tate Reeves,Governor,,R,Tippah,Peoples,121
-3,Bob Hickingbottom,Governor,,C,Tippah,Peoples,2
-3,David R Singletary,Governor,,IND,Tippah,Peoples,0
-3,Delbert Hosemann,Lieutenant Governor,,R,Tippah,Peoples,132
-3,Jay Hughes,Lieutenant Governor,,D,Tippah,Peoples,22
-3,Johnny DuPree,Secretary of State,,D,Tippah,Peoples,25
-3,Michael Watson,Secretary of State,,R,Tippah,Peoples,126
-3,Jennifer Riley Collins,Attorney General,,D,Tippah,Peoples,32
-3,Lynn Fitch,Attorney General,,R,Tippah,Peoples,124
-3,Shad White,State Auditor,,R,Tippah,Peoples,138
-6,Addie Lee Green,State Treasurer,,D,Tippah,Peoples,26
-6,David McRae,State Treasurer,,R,Tippah,Peoples,128
-6,Rickey L Cole,Commissioner of Agriculture & Commerce,,D,Tippah,Peoples,33
-6,Andy Gipson,Commissioner of Agriculture & Commerce,,R,Tippah,Peoples,122
-9,Rita Potts Parks,State Senate,4,R,Tippah,Peoples,136
-9,Joseph F 'Jody' Steverson,State House,4,R,Tippah,Peoples,140
-3,Jim Hood,Governor,,D,Tippah,Pine Grove,23
-3,Tate Reeves,Governor,,R,Tippah,Pine Grove,145
-3,Bob Hickingbottom,Governor,,C,Tippah,Pine Grove,0
-3,David R Singletary,Governor,,IND,Tippah,Pine Grove,0
-3,Delbert Hosemann,Lieutenant Governor,,R,Tippah,Pine Grove,143
-3,Jay Hughes,Lieutenant Governor,,D,Tippah,Pine Grove,23
-3,Johnny DuPree,Secretary of State,,D,Tippah,Pine Grove,12
-3,Michael Watson,Secretary of State,,R,Tippah,Pine Grove,151
-3,Jennifer Riley Collins,Attorney General,,D,Tippah,Pine Grove,13
-3,Lynn Fitch,Attorney General,,R,Tippah,Pine Grove,153
-3,Shad White,State Auditor,,R,Tippah,Pine Grove,157
-6,Addie Lee Green,State Treasurer,,D,Tippah,Pine Grove,13
-6,David McRae,State Treasurer,,R,Tippah,Pine Grove,152
-6,Rickey L Cole,Commissioner of Agriculture & Commerce,,D,Tippah,Pine Grove,17
-6,Andy Gipson,Commissioner of Agriculture & Commerce,,R,Tippah,Pine Grove,149
-9,Rita Potts Parks,State Senate,4,R,Tippah,Pine Grove,156
-9,Joseph F 'Jody' Steverson,State House,4,R,Tippah,Pine Grove,159
-3,Jim Hood,Governor,,D,Tippah,Providence,38
-3,Tate Reeves,Governor,,R,Tippah,Providence,122
-3,Bob Hickingbottom,Governor,,C,Tippah,Providence,1
-3,David R Singletary,Governor,,IND,Tippah,Providence,2
-3,Delbert Hosemann,Lieutenant Governor,,R,Tippah,Providence,134
-3,Jay Hughes,Lieutenant Governor,,D,Tippah,Providence,27
-3,Johnny DuPree,Secretary of State,,D,Tippah,Providence,23
-3,Michael Watson,Secretary of State,,R,Tippah,Providence,133
-3,Jennifer Riley Collins,Attorney General,,D,Tippah,Providence,29
-3,Lynn Fitch,Attorney General,,R,Tippah,Providence,132
-3,Shad White,State Auditor,,R,Tippah,Providence,143
-6,Addie Lee Green,State Treasurer,,D,Tippah,Providence,19
-6,David McRae,State Treasurer,,R,Tippah,Providence,138
-6,Rickey L Cole,Commissioner of Agriculture & Commerce,,D,Tippah,Providence,24
-6,Andy Gipson,Commissioner of Agriculture & Commerce,,R,Tippah,Providence,133
-9,Rita Potts Parks,State Senate,4,R,Tippah,Providence,143
-9,Joseph F 'Jody' Steverson,State House,4,R,Tippah,Providence,151
-3,Jim Hood,Governor,,D,Tippah,Ripley,166
-3,Tate Reeves,Governor,,R,Tippah,Ripley,363
-3,Bob Hickingbottom,Governor,,C,Tippah,Ripley,1
-3,David R Singletary,Governor,,IND,Tippah,Ripley,12
-3,Delbert Hosemann,Lieutenant Governor,,R,Tippah,Ripley,381
-3,Jay Hughes,Lieutenant Governor,,D,Tippah,Ripley,155
-3,Johnny DuPree,Secretary of State,,D,Tippah,Ripley,150
-3,Michael Watson,Secretary of State,,R,Tippah,Ripley,382
-3,Jennifer Riley Collins,Attorney General,,D,Tippah,Ripley,154
-3,Lynn Fitch,Attorney General,,R,Tippah,Ripley,384
-3,Shad White,State Auditor,,R,Tippah,Ripley,453
-6,Addie Lee Green,State Treasurer,,D,Tippah,Ripley,139
-6,David McRae,State Treasurer,,R,Tippah,Ripley,395
-6,Rickey L Cole,Commissioner of Agriculture & Commerce,,D,Tippah,Ripley,162
-6,Andy Gipson,Commissioner of Agriculture & Commerce,,R,Tippah,Ripley,372
-9,Rita Potts Parks,State Senate,4,R,Tippah,Ripley,448
-9,Joseph F 'Jody' Steverson,State House,4,R,Tippah,Ripley,471
-3,Jim Hood,Governor,,D,Tippah,Shady Grove,31
-3,Tate Reeves,Governor,,R,Tippah,Shady Grove,95
-3,Bob Hickingbottom,Governor,,C,Tippah,Shady Grove,2
-3,David R Singletary,Governor,,IND,Tippah,Shady Grove,0
-3,Delbert Hosemann,Lieutenant Governor,,R,Tippah,Shady Grove,110
-3,Jay Hughes,Lieutenant Governor,,D,Tippah,Shady Grove,18
-3,Johnny DuPree,Secretary of State,,D,Tippah,Shady Grove,11
-3,Michael Watson,Secretary of State,,R,Tippah,Shady Grove,113
-3,Jennifer Riley Collins,Attorney General,,D,Tippah,Shady Grove,10
-3,Lynn Fitch,Attorney General,,R,Tippah,Shady Grove,116
-3,Shad White,State Auditor,,R,Tippah,Shady Grove,115
-6,Addie Lee Green,State Treasurer,,D,Tippah,Shady Grove,6
-6,David McRae,State Treasurer,,R,Tippah,Shady Grove,117
-6,Rickey L Cole,Commissioner of Agriculture & Commerce,,D,Tippah,Shady Grove,11
-6,Andy Gipson,Commissioner of Agriculture & Commerce,,R,Tippah,Shady Grove,114
-9,Rita Potts Parks,State Senate,4,R,Tippah,Shady Grove,107
-9,Joseph F 'Jody' Steverson,State House,4,R,Tippah,Shady Grove,119
-3,Jim Hood,Governor,,D,Tippah,Southwest Ripley,216
-3,Tate Reeves,Governor,,R,Tippah,Southwest Ripley,395
-3,Bob Hickingbottom,Governor,,C,Tippah,Southwest Ripley,3
-3,David R Singletary,Governor,,IND,Tippah,Southwest Ripley,13
-3,Delbert Hosemann,Lieutenant Governor,,R,Tippah,Southwest Ripley,470
-3,Jay Hughes,Lieutenant Governor,,D,Tippah,Southwest Ripley,149
-3,Johnny DuPree,Secretary of State,,D,Tippah,Southwest Ripley,156
-3,Michael Watson,Secretary of State,,R,Tippah,Southwest Ripley,461
-3,Jennifer Riley Collins,Attorney General,,D,Tippah,Southwest Ripley,159
-3,Lynn Fitch,Attorney General,,R,Tippah,Southwest Ripley,463
-3,Shad White,State Auditor,,R,Tippah,Southwest Ripley,547
-6,Addie Lee Green,State Treasurer,,D,Tippah,Southwest Ripley,148
-6,David McRae,State Treasurer,,R,Tippah,Southwest Ripley,469
-6,Rickey L Cole,Commissioner of Agriculture & Commerce,,D,Tippah,Southwest Ripley,157
-6,Andy Gipson,Commissioner of Agriculture & Commerce,,R,Tippah,Southwest Ripley,460
-9,Rita Potts Parks,State Senate,4,R,Tippah,Southwest Ripley,532
-9,Joseph F 'Jody' Steverson,State House,4,R,Tippah,Southwest Ripley,563
-3,Jim Hood,Governor,,D,Tippah,Spout Springs,30
-3,Tate Reeves,Governor,,R,Tippah,Spout Springs,111
-3,Bob Hickingbottom,Governor,,C,Tippah,Spout Springs,1
-3,David R Singletary,Governor,,IND,Tippah,Spout Springs,0
-3,Delbert Hosemann,Lieutenant Governor,,R,Tippah,Spout Springs,119
-3,Jay Hughes,Lieutenant Governor,,D,Tippah,Spout Springs,20
-3,Johnny DuPree,Secretary of State,,D,Tippah,Spout Springs,28
-3,Michael Watson,Secretary of State,,R,Tippah,Spout Springs,110
-3,Jennifer Riley Collins,Attorney General,,D,Tippah,Spout Springs,21
-3,Lynn Fitch,Attorney General,,R,Tippah,Spout Springs,118
-3,Shad White,State Auditor,,R,Tippah,Spout Springs,124
-6,Addie Lee Green,State Treasurer,,D,Tippah,Spout Springs,21
-6,David McRae,State Treasurer,,R,Tippah,Spout Springs,117
-6,Rickey L Cole,Commissioner of Agriculture & Commerce,,D,Tippah,Spout Springs,19
-6,Andy Gipson,Commissioner of Agriculture & Commerce,,R,Tippah,Spout Springs,118
-9,Rita Potts Parks,State Senate,4,R,Tippah,Spout Springs,131
-9,Joseph F 'Jody' Steverson,State House,4,R,Tippah,Spout Springs,130
-3,Jim Hood,Governor,,D,Tippah,Threeforks,25
-3,Tate Reeves,Governor,,R,Tippah,Threeforks,205
-3,Bob Hickingbottom,Governor,,C,Tippah,Threeforks,0
-3,David R Singletary,Governor,,IND,Tippah,Threeforks,3
-3,Delbert Hosemann,Lieutenant Governor,,R,Tippah,Threeforks,200
-3,Jay Hughes,Lieutenant Governor,,D,Tippah,Threeforks,29
-3,Johnny DuPree,Secretary of State,,D,Tippah,Threeforks,21
-3,Michael Watson,Secretary of State,,R,Tippah,Threeforks,202
-3,Jennifer Riley Collins,Attorney General,,D,Tippah,Threeforks,17
-3,Lynn Fitch,Attorney General,,R,Tippah,Threeforks,212
-3,Shad White,State Auditor,,R,Tippah,Threeforks,215
-6,Addie Lee Green,State Treasurer,,D,Tippah,Threeforks,10
-6,David McRae,State Treasurer,,R,Tippah,Threeforks,220
-6,Rickey L Cole,Commissioner of Agriculture & Commerce,,D,Tippah,Threeforks,24
-6,Andy Gipson,Commissioner of Agriculture & Commerce,,R,Tippah,Threeforks,202
-9,Rita Potts Parks,State Senate,4,R,Tippah,Threeforks,220
-9,Joseph F 'Jody' Steverson,State House,4,R,Tippah,Threeforks,216
-4,Jim Hood,Governor,,D,Tippah,Tiplersville,68
-4,Tate Reeves,Governor,,R,Tippah,Tiplersville,129
-4,Bob Hickingbottom,Governor,,C,Tippah,Tiplersville,2
-4,David R Singletary,Governor,,IND,Tippah,Tiplersville,10
-4,Delbert Hosemann,Lieutenant Governor,,R,Tippah,Tiplersville,137
-4,Jay Hughes,Lieutenant Governor,,D,Tippah,Tiplersville,69
-4,Johnny DuPree,Secretary of State,,D,Tippah,Tiplersville,72
-4,Michael Watson,Secretary of State,,R,Tippah,Tiplersville,127
-4,Jennifer Riley Collins,Attorney General,,D,Tippah,Tiplersville,76
-4,Lynn Fitch,Attorney General,,R,Tippah,Tiplersville,129
-4,Shad White,State Auditor,,R,Tippah,Tiplersville,163
-7,Addie Lee Green,State Treasurer,,D,Tippah,Tiplersville,67
-7,David McRae,State Treasurer,,R,Tippah,Tiplersville,138
-7,Rickey L Cole,Commissioner of Agriculture & Commerce,,D,Tippah,Tiplersville,76
-7,Andy Gipson,Commissioner of Agriculture & Commerce,,R,Tippah,Tiplersville,127
-10,Rita Potts Parks,State Senate,4,R,Tippah,Tiplersville,162
-10,Joseph F 'Jody' Steverson,State House,4,R,Tippah,Tiplersville,165
-4,Jim Hood,Governor,,D,Tippah,Walnut,107
-4,Tate Reeves,Governor,,R,Tippah,Walnut,281
-4,Bob Hickingbottom,Governor,,C,Tippah,Walnut,1
-4,David R Singletary,Governor,,IND,Tippah,Walnut,8
-4,Delbert Hosemann,Lieutenant Governor,,R,Tippah,Walnut,285
-4,Jay Hughes,Lieutenant Governor,,D,Tippah,Walnut,99
-4,Johnny DuPree,Secretary of State,,D,Tippah,Walnut,92
-4,Michael Watson,Secretary of State,,R,Tippah,Walnut,289
-4,Jennifer Riley Collins,Attorney General,,D,Tippah,Walnut,87
-4,Lynn Fitch,Attorney General,,R,Tippah,Walnut,296
-4,Shad White,State Auditor,,R,Tippah,Walnut,338
-7,Addie Lee Green,State Treasurer,,D,Tippah,Walnut,78
-7,David McRae,State Treasurer,,R,Tippah,Walnut,301
-7,Rickey L Cole,Commissioner of Agriculture & Commerce,,D,Tippah,Walnut,94
-7,Andy Gipson,Commissioner of Agriculture & Commerce,,R,Tippah,Walnut,288
-10,Rita Potts Parks,State Senate,4,R,Tippah,Walnut,339
-10,Joseph F 'Jody' Steverson,State House,4,R,Tippah,Walnut,337
-4,Jim Hood,Governor,,D,Tippah,TOTAL ,1867
-4,Tate Reeves,Governor,,R,Tippah,TOTAL ,5205
-4,Bob Hickingbottom,Governor,,C,Tippah,TOTAL ,27
-4,David R Singletary,Governor,,IND,Tippah,TOTAL ,115
-4,Delbert Hosemann,Lieutenant Governor,,R,Tippah,TOTAL ,5645
-4,Jay Hughes,Lieutenant Governor,,D,Tippah,TOTAL ,1454
-4,Johnny DuPree,Secretary of State,,D,Tippah,TOTAL ,1434
-4,Michael Watson,Secretary of State,,R,Tippah,TOTAL ,5584
-4,Jennifer Riley Collins,Attorney General,,D,Tippah,TOTAL ,1473
-4,Lynn Fitch,Attorney General,,R,Tippah,TOTAL ,5656
-4,Shad White,State Auditor,,R,Tippah,TOTAL ,6355
-7,Addie Lee Green,State Treasurer,,D,Tippah,TOTAL ,1264
-7,David McRae,State Treasurer,,R,Tippah,TOTAL ,5801
-7,Rickey L Cole,Commissioner of Agriculture & Commerce,,D,Tippah,TOTAL ,1487
-7,Andy Gipson,Commissioner of Agriculture & Commerce,,R,Tippah,TOTAL ,5566
-10,Rita Potts Parks,State Senate,4,R,Tippah,TOTAL ,6326
-10,Joseph F 'Jody' Steverson,State House,4,R,Tippah,TOTAL ,6471
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
+﻿candidate,office,district,party,county,precinct,votes
+Jim Hood,Governor,,D,Tippah,Blue Mountain,213
+Tate Reeves,Governor,,R,Tippah,Blue Mountain,311
+Bob Hickingbottom,Governor,,C,Tippah,Blue Mountain,4
+David R Singletary,Governor,,IND,Tippah,Blue Mountain,12
+Delbert Hosemann,Lieutenant Governor,,R,Tippah,Blue Mountain,334
+Jay Hughes,Lieutenant Governor,,D,Tippah,Blue Mountain,194
+Johnny DuPree,Secretary of State,,D,Tippah,Blue Mountain,197
+Michael Watson,Secretary of State,,R,Tippah,Blue Mountain,329
+Jennifer Riley Collins,Attorney General,,D,Tippah,Blue Mountain,212
+Lynn Fitch,Attorney General,,R,Tippah,Blue Mountain,323
+Shad White,State Auditor,,R,Tippah,Blue Mountain,435
+Addie Lee Green,State Treasurer,,D,Tippah,Blue Mountain,194
+David McRae,State Treasurer,,R,Tippah,Blue Mountain,338
+Rickey L Cole,Commissioner of Agriculture & Commerce,,D,Tippah,Blue Mountain,211
+Andy Gipson,Commissioner of Agriculture & Commerce,,R,Tippah,Blue Mountain,311
+Rita Potts Parks,State Senate,4,R,Tippah,Blue Mountain,441
+Joseph F 'Jody' Steverson,State House,4,R,Tippah,Blue Mountain,436
+Jim Hood,Governor,,D,Tippah,Brownfield,17
+Tate Reeves,Governor,,R,Tippah,Brownfield,93
+Bob Hickingbottom,Governor,,C,Tippah,Brownfield,0
+David R Singletary,Governor,,IND,Tippah,Brownfield,1
+Delbert Hosemann,Lieutenant Governor,,R,Tippah,Brownfield,94
+Jay Hughes,Lieutenant Governor,,D,Tippah,Brownfield,14
+Johnny DuPree,Secretary of State,,D,Tippah,Brownfield,18
+Michael Watson,Secretary of State,,R,Tippah,Brownfield,91
+Jennifer Riley Collins,Attorney General,,D,Tippah,Brownfield,15
+Lynn Fitch,Attorney General,,R,Tippah,Brownfield,95
+Shad White,State Auditor,,R,Tippah,Brownfield,97
+Addie Lee Green,State Treasurer,,D,Tippah,Brownfield,7
+David McRae,State Treasurer,,R,Tippah,Brownfield,101
+Rickey L Cole,Commissioner of Agriculture & Commerce,,D,Tippah,Brownfield,10
+Andy Gipson,Commissioner of Agriculture & Commerce,,R,Tippah,Brownfield,99
+Rita Potts Parks,State Senate,4,R,Tippah,Brownfield,101
+Joseph F 'Jody' Steverson,State House,4,R,Tippah,Brownfield,104
+Jim Hood,Governor,,D,Tippah,Chalybeate,112
+Tate Reeves,Governor,,R,Tippah,Chalybeate,344
+Bob Hickingbottom,Governor,,C,Tippah,Chalybeate,0
+David R Singletary,Governor,,IND,Tippah,Chalybeate,8
+Delbert Hosemann,Lieutenant Governor,,R,Tippah,Chalybeate,373
+Jay Hughes,Lieutenant Governor,,D,Tippah,Chalybeate,85
+Johnny DuPree,Secretary of State,,D,Tippah,Chalybeate,79
+Michael Watson,Secretary of State,,R,Tippah,Chalybeate,372
+Jennifer Riley Collins,Attorney General,,D,Tippah,Chalybeate,72
+Lynn Fitch,Attorney General,,R,Tippah,Chalybeate,383
+Shad White,State Auditor,,R,Tippah,Chalybeate,422
+Addie Lee Green,State Treasurer,,D,Tippah,Chalybeate,60
+David McRae,State Treasurer,,R,Tippah,Chalybeate,391
+Rickey L Cole,Commissioner of Agriculture & Commerce,,D,Tippah,Chalybeate,75
+Andy Gipson,Commissioner of Agriculture & Commerce,,R,Tippah,Chalybeate,377
+Rita Potts Parks,State Senate,4,R,Tippah,Chalybeate,422
+Joseph F 'Jody' Steverson,State House,4,R,Tippah,Chalybeate,422
+Jim Hood,Governor,,D,Tippah,Chapman,78
+Tate Reeves,Governor,,R,Tippah,Chapman,282
+Bob Hickingbottom,Governor,,C,Tippah,Chapman,0
+David R Singletary,Governor,,IND,Tippah,Chapman,5
+Delbert Hosemann,Lieutenant Governor,,R,Tippah,Chapman,318
+Jay Hughes,Lieutenant Governor,,D,Tippah,Chapman,39
+Johnny DuPree,Secretary of State,,D,Tippah,Chapman,41
+Michael Watson,Secretary of State,,R,Tippah,Chapman,315
+Jennifer Riley Collins,Attorney General,,D,Tippah,Chapman,42
+Lynn Fitch,Attorney General,,R,Tippah,Chapman,318
+Shad White,State Auditor,,R,Tippah,Chapman,344
+Addie Lee Green,State Treasurer,,D,Tippah,Chapman,25
+David McRae,State Treasurer,,R,Tippah,Chapman,331
+Rickey L Cole,Commissioner of Agriculture & Commerce,,D,Tippah,Chapman,35
+Andy Gipson,Commissioner of Agriculture & Commerce,,R,Tippah,Chapman,322
+Rita Potts Parks,State Senate,4,R,Tippah,Chapman,338
+Joseph F 'Jody' Steverson,State House,4,R,Tippah,Chapman,347
+Jim Hood,Governor,,D,Tippah,Clarysville,12
+Tate Reeves,Governor,,R,Tippah,Clarysville,94
+Bob Hickingbottom,Governor,,C,Tippah,Clarysville,0
+David R Singletary,Governor,,IND,Tippah,Clarysville,0
+Delbert Hosemann,Lieutenant Governor,,R,Tippah,Clarysville,100
+Jay Hughes,Lieutenant Governor,,D,Tippah,Clarysville,6
+Johnny DuPree,Secretary of State,,D,Tippah,Clarysville,10
+Michael Watson,Secretary of State,,R,Tippah,Clarysville,94
+Jennifer Riley Collins,Attorney General,,D,Tippah,Clarysville,8
+Lynn Fitch,Attorney General,,R,Tippah,Clarysville,98
+Shad White,State Auditor,,R,Tippah,Clarysville,102
+Addie Lee Green,State Treasurer,,D,Tippah,Clarysville,4
+David McRae,State Treasurer,,R,Tippah,Clarysville,102
+Rickey L Cole,Commissioner of Agriculture & Commerce,,D,Tippah,Clarysville,7
+Andy Gipson,Commissioner of Agriculture & Commerce,,R,Tippah,Clarysville,99
+Rita Potts Parks,State Senate,4,R,Tippah,Clarysville,100
+Joseph F 'Jody' Steverson,State House,4,R,Tippah,Clarysville,100
+Jim Hood,Governor,,D,Tippah,Cotton Plant,68
+Tate Reeves,Governor,,R,Tippah,Cotton Plant,64
+Bob Hickingbottom,Governor,,C,Tippah,Cotton Plant,1
+David R Singletary,Governor,,IND,Tippah,Cotton Plant,1
+Delbert Hosemann,Lieutenant Governor,,R,Tippah,Cotton Plant,67
+Jay Hughes,Lieutenant Governor,,D,Tippah,Cotton Plant,58
+Johnny DuPree,Secretary of State,,D,Tippah,Cotton Plant,63
+Michael Watson,Secretary of State,,R,Tippah,Cotton Plant,61
+Jennifer Riley Collins,Attorney General,,D,Tippah,Cotton Plant,65
+Lynn Fitch,Attorney General,,R,Tippah,Cotton Plant,66
+Shad White,State Auditor,,R,Tippah,Cotton Plant,94
+Addie Lee Green,State Treasurer,,D,Tippah,Cotton Plant,61
+David McRae,State Treasurer,,R,Tippah,Cotton Plant,64
+Rickey L Cole,Commissioner of Agriculture & Commerce,,D,Tippah,Cotton Plant,66
+Andy Gipson,Commissioner of Agriculture & Commerce,,R,Tippah,Cotton Plant,62
+Rita Potts Parks,State Senate,4,R,Tippah,Cotton Plant,95
+Joseph F 'Jody' Steverson,State House,4,R,Tippah,Cotton Plant,91
+Jim Hood,Governor,,D,Tippah,Dry Creek,35
+Tate Reeves,Governor,,R,Tippah,Dry Creek,155
+Bob Hickingbottom,Governor,,C,Tippah,Dry Creek,1
+David R Singletary,Governor,,IND,Tippah,Dry Creek,2
+Delbert Hosemann,Lieutenant Governor,,R,Tippah,Dry Creek,167
+Jay Hughes,Lieutenant Governor,,D,Tippah,Dry Creek,23
+Johnny DuPree,Secretary of State,,D,Tippah,Dry Creek,19
+Michael Watson,Secretary of State,,R,Tippah,Dry Creek,169
+Jennifer Riley Collins,Attorney General,,D,Tippah,Dry Creek,22
+Lynn Fitch,Attorney General,,R,Tippah,Dry Creek,168
+Shad White,State Auditor,,R,Tippah,Dry Creek,177
+Addie Lee Green,State Treasurer,,D,Tippah,Dry Creek,17
+David McRae,State Treasurer,,R,Tippah,Dry Creek,174
+Rickey L Cole,Commissioner of Agriculture & Commerce,,D,Tippah,Dry Creek,23
+Andy Gipson,Commissioner of Agriculture & Commerce,,R,Tippah,Dry Creek,165
+Rita Potts Parks,State Senate,4,R,Tippah,Dry Creek,178
+Joseph F 'Jody' Steverson,State House,4,R,Tippah,Dry Creek,179
+Jim Hood,Governor,,D,Tippah,Dumas,60
+Tate Reeves,Governor,,R,Tippah,Dumas,314
+Bob Hickingbottom,Governor,,C,Tippah,Dumas,0
+David R Singletary,Governor,,IND,Tippah,Dumas,3
+Delbert Hosemann,Lieutenant Governor,,R,Tippah,Dumas,334
+Jay Hughes,Lieutenant Governor,,D,Tippah,Dumas,39
+Johnny DuPree,Secretary of State,,D,Tippah,Dumas,26
+Michael Watson,Secretary of State,,R,Tippah,Dumas,340
+Jennifer Riley Collins,Attorney General,,D,Tippah,Dumas,23
+Lynn Fitch,Attorney General,,R,Tippah,Dumas,348
+Shad White,State Auditor,,R,Tippah,Dumas,348
+Addie Lee Green,State Treasurer,,D,Tippah,Dumas,18
+David McRae,State Treasurer,,R,Tippah,Dumas,349
+Rickey L Cole,Commissioner of Agriculture & Commerce,,D,Tippah,Dumas,26
+Andy Gipson,Commissioner of Agriculture & Commerce,,R,Tippah,Dumas,339
+Rita Potts Parks,State Senate,4,R,Tippah,Dumas,345
+Joseph F 'Jody' Steverson,State House,4,R,Tippah,Dumas,359
+Jim Hood,Governor,,D,Tippah,Falkner,108
+Tate Reeves,Governor,,R,Tippah,Falkner,366
+Bob Hickingbottom,Governor,,C,Tippah,Falkner,3
+David R Singletary,Governor,,IND,Tippah,Falkner,17
+Delbert Hosemann,Lieutenant Governor,,R,Tippah,Falkner,413
+Jay Hughes,Lieutenant Governor,,D,Tippah,Falkner,81
+Johnny DuPree,Secretary of State,,D,Tippah,Falkner,82
+Michael Watson,Secretary of State,,R,Tippah,Falkner,406
+Jennifer Riley Collins,Attorney General,,D,Tippah,Falkner,82
+Lynn Fitch,Attorney General,,R,Tippah,Falkner,415
+Shad White,State Auditor,,R,Tippah,Falkner,465
+Addie Lee Green,State Treasurer,,D,Tippah,Falkner,79
+David McRae,State Treasurer,,R,Tippah,Falkner,414
+Rickey L Cole,Commissioner of Agriculture & Commerce,,D,Tippah,Falkner,86
+Andy Gipson,Commissioner of Agriculture & Commerce,,R,Tippah,Falkner,407
+Rita Potts Parks,State Senate,4,R,Tippah,Falkner,466
+Joseph F 'Jody' Steverson,State House,4,R,Tippah,Falkner,471
+Jim Hood,Governor,,D,Tippah,Mitchell,26
+Tate Reeves,Governor,,R,Tippah,Mitchell,121
+Bob Hickingbottom,Governor,,C,Tippah,Mitchell,0
+David R Singletary,Governor,,IND,Tippah,Mitchell,0
+Delbert Hosemann,Lieutenant Governor,,R,Tippah,Mitchell,128
+Jay Hughes,Lieutenant Governor,,D,Tippah,Mitchell,14
+Johnny DuPree,Secretary of State,,D,Tippah,Mitchell,14
+Michael Watson,Secretary of State,,R,Tippah,Mitchell,131
+Jennifer Riley Collins,Attorney General,,D,Tippah,Mitchell,19
+Lynn Fitch,Attorney General,,R,Tippah,Mitchell,127
+Shad White,State Auditor,,R,Tippah,Mitchell,131
+Addie Lee Green,State Treasurer,,D,Tippah,Mitchell,10
+David McRae,State Treasurer,,R,Tippah,Mitchell,135
+Rickey L Cole,Commissioner of Agriculture & Commerce,,D,Tippah,Mitchell,19
+Andy Gipson,Commissioner of Agriculture & Commerce,,R,Tippah,Mitchell,126
+Rita Potts Parks,State Senate,4,R,Tippah,Mitchell,132
+Joseph F 'Jody' Steverson,State House,4,R,Tippah,Mitchell,137
+Jim Hood,Governor,,D,Tippah,New Hope,36
+Tate Reeves,Governor,,R,Tippah,New Hope,175
+Bob Hickingbottom,Governor,,C,Tippah,New Hope,0
+David R Singletary,Governor,,IND,Tippah,New Hope,0
+Delbert Hosemann,Lieutenant Governor,,R,Tippah,New Hope,196
+Jay Hughes,Lieutenant Governor,,D,Tippah,New Hope,14
+Johnny DuPree,Secretary of State,,D,Tippah,New Hope,14
+Michael Watson,Secretary of State,,R,Tippah,New Hope,193
+Jennifer Riley Collins,Attorney General,,D,Tippah,New Hope,13
+Lynn Fitch,Attorney General,,R,Tippah,New Hope,198
+Shad White,State Auditor,,R,Tippah,New Hope,201
+Addie Lee Green,State Treasurer,,D,Tippah,New Hope,8
+David McRae,State Treasurer,,R,Tippah,New Hope,203
+Rickey L Cole,Commissioner of Agriculture & Commerce,,D,Tippah,New Hope,14
+Andy Gipson,Commissioner of Agriculture & Commerce,,R,Tippah,New Hope,195
+Rita Potts Parks,State Senate,4,R,Tippah,New Hope,200
+Joseph F 'Jody' Steverson,State House,4,R,Tippah,New Hope,205
+Jim Hood,Governor,,D,Tippah,North Falkner,47
+Tate Reeves,Governor,,R,Tippah,North Falkner,113
+Bob Hickingbottom,Governor,,C,Tippah,North Falkner,1
+David R Singletary,Governor,,IND,Tippah,North Falkner,2
+Delbert Hosemann,Lieutenant Governor,,R,Tippah,North Falkner,119
+Jay Hughes,Lieutenant Governor,,D,Tippah,North Falkner,39
+Johnny DuPree,Secretary of State,,D,Tippah,North Falkner,33
+Michael Watson,Secretary of State,,R,Tippah,North Falkner,120
+Jennifer Riley Collins,Attorney General,,D,Tippah,North Falkner,40
+Lynn Fitch,Attorney General,,R,Tippah,North Falkner,118
+Shad White,State Auditor,,R,Tippah,North Falkner,137
+Addie Lee Green,State Treasurer,,D,Tippah,North Falkner,28
+David McRae,State Treasurer,,R,Tippah,North Falkner,127
+Rickey L Cole,Commissioner of Agriculture & Commerce,,D,Tippah,North Falkner,34
+Andy Gipson,Commissioner of Agriculture & Commerce,,R,Tippah,North Falkner,122
+Rita Potts Parks,State Senate,4,R,Tippah,North Falkner,143
+Joseph F 'Jody' Steverson,State House,4,R,Tippah,North Falkner,145
+Jim Hood,Governor,,D,Tippah,North Ripley,248
+Tate Reeves,Governor,,R,Tippah,North Ripley,520
+Bob Hickingbottom,Governor,,C,Tippah,North Ripley,4
+David R Singletary,Governor,,IND,Tippah,North Ripley,11
+Delbert Hosemann,Lieutenant Governor,,R,Tippah,North Ripley,571
+Jay Hughes,Lieutenant Governor,,D,Tippah,North Ripley,200
+Johnny DuPree,Secretary of State,,D,Tippah,North Ripley,207
+Michael Watson,Secretary of State,,R,Tippah,North Ripley,557
+Jennifer Riley Collins,Attorney General,,D,Tippah,North Ripley,228
+Lynn Fitch,Attorney General,,R,Tippah,North Ripley,552
+Shad White,State Auditor,,R,Tippah,North Ripley,676
+Addie Lee Green,State Treasurer,,D,Tippah,North Ripley,198
+David McRae,State Treasurer,,R,Tippah,North Ripley,574
+Rickey L Cole,Commissioner of Agriculture & Commerce,,D,Tippah,North Ripley,230
+Andy Gipson,Commissioner of Agriculture & Commerce,,R,Tippah,North Ripley,540
+Rita Potts Parks,State Senate,4,R,Tippah,North Ripley,655
+Joseph F 'Jody' Steverson,State House,4,R,Tippah,North Ripley,681
+Jim Hood,Governor,,D,Tippah,Palmer,73
+Tate Reeves,Governor,,R,Tippah,Palmer,286
+Bob Hickingbottom,Governor,,C,Tippah,Palmer,0
+David R Singletary,Governor,,IND,Tippah,Palmer,5
+Delbert Hosemann,Lieutenant Governor,,R,Tippah,Palmer,320
+Jay Hughes,Lieutenant Governor,,D,Tippah,Palmer,37
+Johnny DuPree,Secretary of State,,D,Tippah,Palmer,41
+Michael Watson,Secretary of State,,R,Tippah,Palmer,312
+Jennifer Riley Collins,Attorney General,,D,Tippah,Palmer,34
+Lynn Fitch,Attorney General,,R,Tippah,Palmer,320
+Shad White,State Auditor,,R,Tippah,Palmer,333
+Addie Lee Green,State Treasurer,,D,Tippah,Palmer,28
+David McRae,State Treasurer,,R,Tippah,Palmer,323
+Rickey L Cole,Commissioner of Agriculture & Commerce,,D,Tippah,Palmer,34
+Andy Gipson,Commissioner of Agriculture & Commerce,,R,Tippah,Palmer,317
+Rita Potts Parks,State Senate,4,R,Tippah,Palmer,336
+Joseph F 'Jody' Steverson,State House,4,R,Tippah,Palmer,343
+Jim Hood,Governor,,D,Tippah,Peoples,30
+Tate Reeves,Governor,,R,Tippah,Peoples,121
+Bob Hickingbottom,Governor,,C,Tippah,Peoples,2
+David R Singletary,Governor,,IND,Tippah,Peoples,0
+Delbert Hosemann,Lieutenant Governor,,R,Tippah,Peoples,132
+Jay Hughes,Lieutenant Governor,,D,Tippah,Peoples,22
+Johnny DuPree,Secretary of State,,D,Tippah,Peoples,25
+Michael Watson,Secretary of State,,R,Tippah,Peoples,126
+Jennifer Riley Collins,Attorney General,,D,Tippah,Peoples,32
+Lynn Fitch,Attorney General,,R,Tippah,Peoples,124
+Shad White,State Auditor,,R,Tippah,Peoples,138
+Addie Lee Green,State Treasurer,,D,Tippah,Peoples,26
+David McRae,State Treasurer,,R,Tippah,Peoples,128
+Rickey L Cole,Commissioner of Agriculture & Commerce,,D,Tippah,Peoples,33
+Andy Gipson,Commissioner of Agriculture & Commerce,,R,Tippah,Peoples,122
+Rita Potts Parks,State Senate,4,R,Tippah,Peoples,136
+Joseph F 'Jody' Steverson,State House,4,R,Tippah,Peoples,140
+Jim Hood,Governor,,D,Tippah,Pine Grove,23
+Tate Reeves,Governor,,R,Tippah,Pine Grove,145
+Bob Hickingbottom,Governor,,C,Tippah,Pine Grove,0
+David R Singletary,Governor,,IND,Tippah,Pine Grove,0
+Delbert Hosemann,Lieutenant Governor,,R,Tippah,Pine Grove,143
+Jay Hughes,Lieutenant Governor,,D,Tippah,Pine Grove,23
+Johnny DuPree,Secretary of State,,D,Tippah,Pine Grove,12
+Michael Watson,Secretary of State,,R,Tippah,Pine Grove,151
+Jennifer Riley Collins,Attorney General,,D,Tippah,Pine Grove,13
+Lynn Fitch,Attorney General,,R,Tippah,Pine Grove,153
+Shad White,State Auditor,,R,Tippah,Pine Grove,157
+Addie Lee Green,State Treasurer,,D,Tippah,Pine Grove,13
+David McRae,State Treasurer,,R,Tippah,Pine Grove,152
+Rickey L Cole,Commissioner of Agriculture & Commerce,,D,Tippah,Pine Grove,17
+Andy Gipson,Commissioner of Agriculture & Commerce,,R,Tippah,Pine Grove,149
+Rita Potts Parks,State Senate,4,R,Tippah,Pine Grove,156
+Joseph F 'Jody' Steverson,State House,4,R,Tippah,Pine Grove,159
+Jim Hood,Governor,,D,Tippah,Providence,38
+Tate Reeves,Governor,,R,Tippah,Providence,122
+Bob Hickingbottom,Governor,,C,Tippah,Providence,1
+David R Singletary,Governor,,IND,Tippah,Providence,2
+Delbert Hosemann,Lieutenant Governor,,R,Tippah,Providence,134
+Jay Hughes,Lieutenant Governor,,D,Tippah,Providence,27
+Johnny DuPree,Secretary of State,,D,Tippah,Providence,23
+Michael Watson,Secretary of State,,R,Tippah,Providence,133
+Jennifer Riley Collins,Attorney General,,D,Tippah,Providence,29
+Lynn Fitch,Attorney General,,R,Tippah,Providence,132
+Shad White,State Auditor,,R,Tippah,Providence,143
+Addie Lee Green,State Treasurer,,D,Tippah,Providence,19
+David McRae,State Treasurer,,R,Tippah,Providence,138
+Rickey L Cole,Commissioner of Agriculture & Commerce,,D,Tippah,Providence,24
+Andy Gipson,Commissioner of Agriculture & Commerce,,R,Tippah,Providence,133
+Rita Potts Parks,State Senate,4,R,Tippah,Providence,143
+Joseph F 'Jody' Steverson,State House,4,R,Tippah,Providence,151
+Jim Hood,Governor,,D,Tippah,Ripley,166
+Tate Reeves,Governor,,R,Tippah,Ripley,363
+Bob Hickingbottom,Governor,,C,Tippah,Ripley,1
+David R Singletary,Governor,,IND,Tippah,Ripley,12
+Delbert Hosemann,Lieutenant Governor,,R,Tippah,Ripley,381
+Jay Hughes,Lieutenant Governor,,D,Tippah,Ripley,155
+Johnny DuPree,Secretary of State,,D,Tippah,Ripley,150
+Michael Watson,Secretary of State,,R,Tippah,Ripley,382
+Jennifer Riley Collins,Attorney General,,D,Tippah,Ripley,154
+Lynn Fitch,Attorney General,,R,Tippah,Ripley,384
+Shad White,State Auditor,,R,Tippah,Ripley,453
+Addie Lee Green,State Treasurer,,D,Tippah,Ripley,139
+David McRae,State Treasurer,,R,Tippah,Ripley,395
+Rickey L Cole,Commissioner of Agriculture & Commerce,,D,Tippah,Ripley,162
+Andy Gipson,Commissioner of Agriculture & Commerce,,R,Tippah,Ripley,372
+Rita Potts Parks,State Senate,4,R,Tippah,Ripley,448
+Joseph F 'Jody' Steverson,State House,4,R,Tippah,Ripley,471
+Jim Hood,Governor,,D,Tippah,Shady Grove,31
+Tate Reeves,Governor,,R,Tippah,Shady Grove,95
+Bob Hickingbottom,Governor,,C,Tippah,Shady Grove,2
+David R Singletary,Governor,,IND,Tippah,Shady Grove,0
+Delbert Hosemann,Lieutenant Governor,,R,Tippah,Shady Grove,110
+Jay Hughes,Lieutenant Governor,,D,Tippah,Shady Grove,18
+Johnny DuPree,Secretary of State,,D,Tippah,Shady Grove,11
+Michael Watson,Secretary of State,,R,Tippah,Shady Grove,113
+Jennifer Riley Collins,Attorney General,,D,Tippah,Shady Grove,10
+Lynn Fitch,Attorney General,,R,Tippah,Shady Grove,116
+Shad White,State Auditor,,R,Tippah,Shady Grove,115
+Addie Lee Green,State Treasurer,,D,Tippah,Shady Grove,6
+David McRae,State Treasurer,,R,Tippah,Shady Grove,117
+Rickey L Cole,Commissioner of Agriculture & Commerce,,D,Tippah,Shady Grove,11
+Andy Gipson,Commissioner of Agriculture & Commerce,,R,Tippah,Shady Grove,114
+Rita Potts Parks,State Senate,4,R,Tippah,Shady Grove,107
+Joseph F 'Jody' Steverson,State House,4,R,Tippah,Shady Grove,119
+Jim Hood,Governor,,D,Tippah,Southwest Ripley,216
+Tate Reeves,Governor,,R,Tippah,Southwest Ripley,395
+Bob Hickingbottom,Governor,,C,Tippah,Southwest Ripley,3
+David R Singletary,Governor,,IND,Tippah,Southwest Ripley,13
+Delbert Hosemann,Lieutenant Governor,,R,Tippah,Southwest Ripley,470
+Jay Hughes,Lieutenant Governor,,D,Tippah,Southwest Ripley,149
+Johnny DuPree,Secretary of State,,D,Tippah,Southwest Ripley,156
+Michael Watson,Secretary of State,,R,Tippah,Southwest Ripley,461
+Jennifer Riley Collins,Attorney General,,D,Tippah,Southwest Ripley,159
+Lynn Fitch,Attorney General,,R,Tippah,Southwest Ripley,463
+Shad White,State Auditor,,R,Tippah,Southwest Ripley,547
+Addie Lee Green,State Treasurer,,D,Tippah,Southwest Ripley,148
+David McRae,State Treasurer,,R,Tippah,Southwest Ripley,469
+Rickey L Cole,Commissioner of Agriculture & Commerce,,D,Tippah,Southwest Ripley,157
+Andy Gipson,Commissioner of Agriculture & Commerce,,R,Tippah,Southwest Ripley,460
+Rita Potts Parks,State Senate,4,R,Tippah,Southwest Ripley,532
+Joseph F 'Jody' Steverson,State House,4,R,Tippah,Southwest Ripley,563
+Jim Hood,Governor,,D,Tippah,Spout Springs,30
+Tate Reeves,Governor,,R,Tippah,Spout Springs,111
+Bob Hickingbottom,Governor,,C,Tippah,Spout Springs,1
+David R Singletary,Governor,,IND,Tippah,Spout Springs,0
+Delbert Hosemann,Lieutenant Governor,,R,Tippah,Spout Springs,119
+Jay Hughes,Lieutenant Governor,,D,Tippah,Spout Springs,20
+Johnny DuPree,Secretary of State,,D,Tippah,Spout Springs,28
+Michael Watson,Secretary of State,,R,Tippah,Spout Springs,110
+Jennifer Riley Collins,Attorney General,,D,Tippah,Spout Springs,21
+Lynn Fitch,Attorney General,,R,Tippah,Spout Springs,118
+Shad White,State Auditor,,R,Tippah,Spout Springs,124
+Addie Lee Green,State Treasurer,,D,Tippah,Spout Springs,21
+David McRae,State Treasurer,,R,Tippah,Spout Springs,117
+Rickey L Cole,Commissioner of Agriculture & Commerce,,D,Tippah,Spout Springs,19
+Andy Gipson,Commissioner of Agriculture & Commerce,,R,Tippah,Spout Springs,118
+Rita Potts Parks,State Senate,4,R,Tippah,Spout Springs,131
+Joseph F 'Jody' Steverson,State House,4,R,Tippah,Spout Springs,130
+Jim Hood,Governor,,D,Tippah,Threeforks,25
+Tate Reeves,Governor,,R,Tippah,Threeforks,205
+Bob Hickingbottom,Governor,,C,Tippah,Threeforks,0
+David R Singletary,Governor,,IND,Tippah,Threeforks,3
+Delbert Hosemann,Lieutenant Governor,,R,Tippah,Threeforks,200
+Jay Hughes,Lieutenant Governor,,D,Tippah,Threeforks,29
+Johnny DuPree,Secretary of State,,D,Tippah,Threeforks,21
+Michael Watson,Secretary of State,,R,Tippah,Threeforks,202
+Jennifer Riley Collins,Attorney General,,D,Tippah,Threeforks,17
+Lynn Fitch,Attorney General,,R,Tippah,Threeforks,212
+Shad White,State Auditor,,R,Tippah,Threeforks,215
+Addie Lee Green,State Treasurer,,D,Tippah,Threeforks,10
+David McRae,State Treasurer,,R,Tippah,Threeforks,220
+Rickey L Cole,Commissioner of Agriculture & Commerce,,D,Tippah,Threeforks,24
+Andy Gipson,Commissioner of Agriculture & Commerce,,R,Tippah,Threeforks,202
+Rita Potts Parks,State Senate,4,R,Tippah,Threeforks,220
+Joseph F 'Jody' Steverson,State House,4,R,Tippah,Threeforks,216
+Jim Hood,Governor,,D,Tippah,Tiplersville,68
+Tate Reeves,Governor,,R,Tippah,Tiplersville,129
+Bob Hickingbottom,Governor,,C,Tippah,Tiplersville,2
+David R Singletary,Governor,,IND,Tippah,Tiplersville,10
+Delbert Hosemann,Lieutenant Governor,,R,Tippah,Tiplersville,137
+Jay Hughes,Lieutenant Governor,,D,Tippah,Tiplersville,69
+Johnny DuPree,Secretary of State,,D,Tippah,Tiplersville,72
+Michael Watson,Secretary of State,,R,Tippah,Tiplersville,127
+Jennifer Riley Collins,Attorney General,,D,Tippah,Tiplersville,76
+Lynn Fitch,Attorney General,,R,Tippah,Tiplersville,129
+Shad White,State Auditor,,R,Tippah,Tiplersville,163
+Addie Lee Green,State Treasurer,,D,Tippah,Tiplersville,67
+David McRae,State Treasurer,,R,Tippah,Tiplersville,138
+Rickey L Cole,Commissioner of Agriculture & Commerce,,D,Tippah,Tiplersville,76
+Andy Gipson,Commissioner of Agriculture & Commerce,,R,Tippah,Tiplersville,127
+Rita Potts Parks,State Senate,4,R,Tippah,Tiplersville,162
+Joseph F 'Jody' Steverson,State House,4,R,Tippah,Tiplersville,165
+Jim Hood,Governor,,D,Tippah,Walnut,107
+Tate Reeves,Governor,,R,Tippah,Walnut,281
+Bob Hickingbottom,Governor,,C,Tippah,Walnut,1
+David R Singletary,Governor,,IND,Tippah,Walnut,8
+Delbert Hosemann,Lieutenant Governor,,R,Tippah,Walnut,285
+Jay Hughes,Lieutenant Governor,,D,Tippah,Walnut,99
+Johnny DuPree,Secretary of State,,D,Tippah,Walnut,92
+Michael Watson,Secretary of State,,R,Tippah,Walnut,289
+Jennifer Riley Collins,Attorney General,,D,Tippah,Walnut,87
+Lynn Fitch,Attorney General,,R,Tippah,Walnut,296
+Shad White,State Auditor,,R,Tippah,Walnut,338
+Addie Lee Green,State Treasurer,,D,Tippah,Walnut,78
+David McRae,State Treasurer,,R,Tippah,Walnut,301
+Rickey L Cole,Commissioner of Agriculture & Commerce,,D,Tippah,Walnut,94
+Andy Gipson,Commissioner of Agriculture & Commerce,,R,Tippah,Walnut,288
+Rita Potts Parks,State Senate,4,R,Tippah,Walnut,339
+Joseph F 'Jody' Steverson,State House,4,R,Tippah,Walnut,337
+Jim Hood,Governor,,D,Tippah,TOTAL ,1867
+Tate Reeves,Governor,,R,Tippah,TOTAL ,5205
+Bob Hickingbottom,Governor,,C,Tippah,TOTAL ,27
+David R Singletary,Governor,,IND,Tippah,TOTAL ,115
+Delbert Hosemann,Lieutenant Governor,,R,Tippah,TOTAL ,5645
+Jay Hughes,Lieutenant Governor,,D,Tippah,TOTAL ,1454
+Johnny DuPree,Secretary of State,,D,Tippah,TOTAL ,1434
+Michael Watson,Secretary of State,,R,Tippah,TOTAL ,5584
+Jennifer Riley Collins,Attorney General,,D,Tippah,TOTAL ,1473
+Lynn Fitch,Attorney General,,R,Tippah,TOTAL ,5656
+Shad White,State Auditor,,R,Tippah,TOTAL ,6355
+Addie Lee Green,State Treasurer,,D,Tippah,TOTAL ,1264
+David McRae,State Treasurer,,R,Tippah,TOTAL ,5801
+Rickey L Cole,Commissioner of Agriculture & Commerce,,D,Tippah,TOTAL ,1487
+Andy Gipson,Commissioner of Agriculture & Commerce,,R,Tippah,TOTAL ,5566
+Rita Potts Parks,State Senate,4,R,Tippah,TOTAL ,6326
+Joseph F 'Jody' Steverson,State House,4,R,Tippah,TOTAL ,6471
+Robert E. Amos,Commissioner of Insurance,,D,Tippah,Blue Mountain,186
+Mike Chaney,Commissioner of Insurance,,R,Tippah,Blue Mountain,347
+Robert E. Amos,Commissioner of Insurance,,D,Tippah,Brownfield,7
+Mike Chaney,Commissioner of Insurance,,R,Tippah,Brownfield,104
+Robert E. Amos,Commissioner of Insurance,,D,Tippah,Chalybeate,58
+Mike Chaney,Commissioner of Insurance,,R,Tippah,Chalybeate,396
+Robert E. Amos,Commissioner of Insurance,,D,Tippah,Chapman,29
+Mike Chaney,Commissioner of Insurance,,R,Tippah,Chapman,330
+Robert E. Amos,Commissioner of Insurance,,D,Tippah,Clarysville,4
+Mike Chaney,Commissioner of Insurance,,R,Tippah,Clarysville,102
+Robert E. Amos,Commissioner of Insurance,,D,Tippah,Cotton Plant,57
+Mike Chaney,Commissioner of Insurance,,R,Tippah,Cotton Plant,67
+Robert E. Amos,Commissioner of Insurance,,D,Tippah,Dry Creek,13
+Mike Chaney,Commissioner of Insurance,,R,Tippah,Dry Creek,176
+Robert E. Amos,Commissioner of Insurance,,D,Tippah,Dumas,20
+Mike Chaney,Commissioner of Insurance,,R,Tippah,Dumas,347
+Robert E. Amos,Commissioner of Insurance,,D,Tippah,Falkner,69
+Mike Chaney,Commissioner of Insurance,,R,Tippah,Falkner,426
+Robert E. Amos,Commissioner of Insurance,,D,Tippah,Mitchell,11
+Mike Chaney,Commissioner of Insurance,,R,Tippah,Mitchell,135
+Robert E. Amos,Commissioner of Insurance,,D,Tippah,New Hope,5
+Mike Chaney,Commissioner of Insurance,,R,Tippah,New Hope,204
+Robert E. Amos,Commissioner of Insurance,,D,Tippah,North Falkner,30
+Mike Chaney,Commissioner of Insurance,,R,Tippah,North Falkner,129
+Robert E. Amos,Commissioner of Insurance,,D,Tippah,North Ripley,197
+Mike Chaney,Commissioner of Insurance,,R,Tippah,North Ripley,579
+Robert E. Amos,Commissioner of Insurance,,D,Tippah,Palmer,34
+Mike Chaney,Commissioner of Insurance,,R,Tippah,Palmer,319
+Robert E. Amos,Commissioner of Insurance,,D,Tippah,Peoples,22
+Mike Chaney,Commissioner of Insurance,,R,Tippah,Peoples,131
+Robert E. Amos,Commissioner of Insurance,,D,Tippah,Pine Grove,10
+Mike Chaney,Commissioner of Insurance,,R,Tippah,Pine Grove,157
+Robert E. Amos,Commissioner of Insurance,,D,Tippah,Providence,22
+Mike Chaney,Commissioner of Insurance,,R,Tippah,Providence,136
+Robert E. Amos,Commissioner of Insurance,,D,Tippah,Ripley,136
+Mike Chaney,Commissioner of Insurance,,R,Tippah,Ripley,403
+Robert E. Amos,Commissioner of Insurance,,D,Tippah,Shady Grove,6
+Mike Chaney,Commissioner of Insurance,,R,Tippah,Shady Grove,117
+Robert E. Amos,Commissioner of Insurance,,D,Tippah,Southwest Ripley,140
+Mike Chaney,Commissioner of Insurance,,R,Tippah,Southwest Ripley,481
+Robert E. Amos,Commissioner of Insurance,,D,Tippah,Spout Springs,16
+Mike Chaney,Commissioner of Insurance,,R,Tippah,Spout Springs,123
+Robert E. Amos,Commissioner of Insurance,,D,Tippah,Threeforks,15
+Mike Chaney,Commissioner of Insurance,,R,Tippah,Threeforks,215
+Robert E. Amos,Commissioner of Insurance,,D,Tippah,Tiplersville,70
+Mike Chaney,Commissioner of Insurance,,R,Tippah,Tiplersville,136
+Robert E. Amos,Commissioner of Insurance,,D,Tippah,Walnut,69
+Mike Chaney,Commissioner of Insurance,,R,Tippah,Walnut,314
+Robert E. Amos,Commissioner of Insurance,,D,Tippah,TOTAL ,1226
+Mike Chaney,Commissioner of Insurance,,R,Tippah,TOTAL ,5874

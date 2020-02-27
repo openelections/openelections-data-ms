@@ -1,539 +1,529 @@
-﻿page,candidate,office,district,party,county,precinct,votes
-2,Jim Hood,Governor,,D,Warren ,Redwood,44
-2,Tate Reeves,Governor,,R,Warren ,Redwood,163
-2,Bob Hickingbottom,Governor,,C,Warren ,Redwood,0
-2,David R Singletary,Governor,,IND,Warren ,Redwood,3
-2,Delbert Hosemann,Lieutenant Governor,,R,Warren ,Redwood,178
-2,Jay Hughes,Lieutenant Governor,,D,Warren ,Redwood,29
-2,Johnny DuPree,Secretary of State,,D,Warren ,Redwood,26
-2,Michael Watson,Secretary of State,,R,Warren ,Redwood,173
-2,Jennifer Riley Collins,Attorney General,,D,Warren ,Redwood,31
-2,Lynn Fitch,Attorney General,,R,Warren ,Redwood,179
-2,Shad White,State Auditor,,R,Warren ,Redwood,185
-5,Addie Lee Green,State Treasurer,,D,Warren ,Redwood,22
-5,David McRae,State Treasurer,,R,Warren ,Redwood,183
-5,Rickey L Cole,Commissioner of Agriculture & Commerce,,D,Warren ,Redwood,29
-5,Andy Gipson,Commissioner of Agriculture & Commerce,,R,Warren ,Redwood,171
-8,Briggs Hopson,State Senate,23,R,Warren ,Redwood,192
-8,Kevin Ford,State House,54,R,Warren ,Redwood,190
-8,Oscar Denton,State House,55,D,Warren ,Redwood,x
-8,Stephanie McKenzie Foster,State House,63,D,Warren ,Redwood,x
-8,Jeffery Harness,State House,85,D,Warren ,Redwood,x
-2,Jim Hood,Governor,,D,Warren ,Bovina,218
-2,Tate Reeves,Governor,,R,Warren ,Bovina,513
-2,Bob Hickingbottom,Governor,,C,Warren ,Bovina,4
-2,David R Singletary,Governor,,IND,Warren ,Bovina,4
-2,Delbert Hosemann,Lieutenant Governor,,R,Warren ,Bovina,585
-2,Jay Hughes,Lieutenant Governor,,D,Warren ,Bovina,148
-2,Johnny DuPree,Secretary of State,,D,Warren ,Bovina,179
-2,Michael Watson,Secretary of State,,R,Warren ,Bovina,549
-2,Jennifer Riley Collins,Attorney General,,D,Warren ,Bovina,180
-2,Lynn Fitch,Attorney General,,R,Warren ,Bovina,555
-2,Shad White,State Auditor,,R,Warren ,Bovina,637
-5,Addie Lee Green,State Treasurer,,D,Warren ,Bovina,161
-5,David McRae,State Treasurer,,R,Warren ,Bovina,571
-5,Rickey L Cole,Commissioner of Agriculture & Commerce,,D,Warren ,Bovina,177
-5,Andy Gipson,Commissioner of Agriculture & Commerce,,R,Warren ,Bovina,554
-8,Briggs Hopson,State Senate,23,R,Warren ,Bovina,660
-8,Kevin Ford,State House,54,R,Warren ,Bovina,643
-8,Oscar Denton,State House,55,D,Warren ,Bovina,x
-8,Stephanie McKenzie Foster,State House,63,D,Warren ,Bovina,x
-8,Jeffery Harness,State House,85,D,Warren ,Bovina,x
-2,Jim Hood,Governor,,D,Warren ,Culkin,745
-2,Tate Reeves,Governor,,R,Warren ,Culkin,1241
-2,Bob Hickingbottom,Governor,,C,Warren ,Culkin,1
-2,David R Singletary,Governor,,IND,Warren ,Culkin,29
-2,Delbert Hosemann,Lieutenant Governor,,R,Warren ,Culkin,1485
-2,Jay Hughes,Lieutenant Governor,,D,Warren ,Culkin,523
-2,Johnny DuPree,Secretary of State,,D,Warren ,Culkin,598
-2,Michael Watson,Secretary of State,,R,Warren ,Culkin,1379
-2,Jennifer Riley Collins,Attorney General,,D,Warren ,Culkin,619
-2,Lynn Fitch,Attorney General,,R,Warren ,Culkin,1395
-2,Shad White,State Auditor,,R,Warren ,Culkin,1664
-5,Addie Lee Green,State Treasurer,,D,Warren ,Culkin,534
-5,David McRae,State Treasurer,,R,Warren ,Culkin,1456
-5,Rickey L Cole,Commissioner of Agriculture & Commerce,,D,Warren ,Culkin,588
-5,Andy Gipson,Commissioner of Agriculture & Commerce,,R,Warren ,Culkin,1390
-8,Briggs Hopson,State Senate,23,R,Warren ,Culkin,1724
-8,Kevin Ford,State House,54,R,Warren ,Culkin,1692
-8,Oscar Denton,State House,55,D,Warren ,Culkin,x
-8,Stephanie McKenzie Foster,State House,63,D,Warren ,Culkin,x
-8,Jeffery Harness,State House,85,D,Warren ,Culkin,x
-2,Jim Hood,Governor,,D,Warren ,Oakland,178
-2,Tate Reeves,Governor,,R,Warren ,Oakland,405
-2,Bob Hickingbottom,Governor,,C,Warren ,Oakland,1
-2,David R Singletary,Governor,,IND,Warren ,Oakland,6
-2,Delbert Hosemann,Lieutenant Governor,,R,Warren ,Oakland,490
-2,Jay Hughes,Lieutenant Governor,,D,Warren ,Oakland,99
-2,Johnny DuPree,Secretary of State,,D,Warren ,Oakland,128
-2,Michael Watson,Secretary of State,,R,Warren ,Oakland,458
-2,Jennifer Riley Collins,Attorney General,,D,Warren ,Oakland,128
-2,Lynn Fitch,Attorney General,,R,Warren ,Oakland,459
-2,Shad White,State Auditor,,R,Warren ,Oakland,524
-5,Addie Lee Green,State Treasurer,,D,Warren ,Oakland,104
-5,David McRae,State Treasurer,,R,Warren ,Oakland,482
-5,Rickey L Cole,Commissioner of Agriculture & Commerce,,D,Warren ,Oakland,120
-5,Andy Gipson,Commissioner of Agriculture & Commerce,,R,Warren ,Oakland,464
-8,Briggs Hopson,State Senate,23,R,Warren ,Oakland,548
-8,Kevin Ford,State House,54,R,Warren ,Oakland,533
-8,Oscar Denton,State House,55,D,Warren ,Oakland,x
-8,Stephanie McKenzie Foster,State House,63,D,Warren ,Oakland,x
-8,Jeffery Harness,State House,85,D,Warren ,Oakland,x
-2,Jim Hood,Governor,,D,Warren ,Cedar Grove,620
-2,Tate Reeves,Governor,,R,Warren ,Cedar Grove,128
-2,Bob Hickingbottom,Governor,,C,Warren ,Cedar Grove,0
-2,David R Singletary,Governor,,IND,Warren ,Cedar Grove,6
-2,Delbert Hosemann,Lieutenant Governor,,R,Warren ,Cedar Grove,203
-2,Jay Hughes,Lieutenant Governor,,D,Warren ,Cedar Grove,534
-2,Johnny DuPree,Secretary of State,,D,Warren ,Cedar Grove,581
-2,Michael Watson,Secretary of State,,R,Warren ,Cedar Grove,153
-2,Jennifer Riley Collins,Attorney General,,D,Warren ,Cedar Grove,599
-2,Lynn Fitch,Attorney General,,R,Warren ,Cedar Grove,146
-2,Shad White,State Auditor,,R,Warren ,Cedar Grove,413
-5,Addie Lee Green,State Treasurer,,D,Warren ,Cedar Grove,569
-5,David McRae,State Treasurer,,R,Warren ,Cedar Grove,163
-5,Rickey L Cole,Commissioner of Agriculture & Commerce,,D,Warren ,Cedar Grove,583
-5,Andy Gipson,Commissioner of Agriculture & Commerce,,R,Warren ,Cedar Grove,154
-8,Briggs Hopson,State Senate,23,R,Warren ,Cedar Grove,433
-8,Kevin Ford,State House,54,R,Warren ,Cedar Grove,85
-8,Oscar Denton,State House,55,D,Warren ,Cedar Grove,567
-8,Stephanie McKenzie Foster,State House,63,D,Warren ,Cedar Grove,x
-8,Jeffery Harness,State House,85,D,Warren ,Cedar Grove,x
-2,Jim Hood,Governor,,D,Warren ,Kiings ,300
-2,Tate Reeves,Governor,,R,Warren ,Kiings ,197
-2,Bob Hickingbottom,Governor,,C,Warren ,Kiings ,4
-2,David R Singletary,Governor,,IND,Warren ,Kiings ,6
-2,Delbert Hosemann,Lieutenant Governor,,R,Warren ,Kiings ,240
-2,Jay Hughes,Lieutenant Governor,,D,Warren ,Kiings ,257
-2,Johnny DuPree,Secretary of State,,D,Warren ,Kiings ,276
-2,Michael Watson,Secretary of State,,R,Warren ,Kiings ,215
-2,Jennifer Riley Collins,Attorney General,,D,Warren ,Kiings ,302
-2,Lynn Fitch,Attorney General,,R,Warren ,Kiings ,202
-2,Shad White,State Auditor,,R,Warren ,Kiings ,322
-5,Addie Lee Green,State Treasurer,,D,Warren ,Kiings ,272
-5,David McRae,State Treasurer,,R,Warren ,Kiings ,222
-5,Rickey L Cole,Commissioner of Agriculture & Commerce,,D,Warren ,Kiings ,284
-5,Andy Gipson,Commissioner of Agriculture & Commerce,,R,Warren ,Kiings ,208
-8,Briggs Hopson,State Senate,23,R,Warren ,Kiings ,336
-8,Kevin Ford,State House,54,R,Warren ,Kiings ,143
-8,Oscar Denton,State House,55,D,Warren ,Kiings ,290
-8,Stephanie McKenzie Foster,State House,63,D,Warren ,Kiings ,x
-8,Jeffery Harness,State House,85,D,Warren ,Kiings ,x
-2,Jim Hood,Governor,,D,Warren ,St Aloysius,157
-2,Tate Reeves,Governor,,R,Warren ,St Aloysius,6
-2,Bob Hickingbottom,Governor,,C,Warren ,St Aloysius,0
-2,David R Singletary,Governor,,IND,Warren ,St Aloysius,2
-2,Delbert Hosemann,Lieutenant Governor,,R,Warren ,St Aloysius,30
-2,Jay Hughes,Lieutenant Governor,,D,Warren ,St Aloysius,134
-2,Johnny DuPree,Secretary of State,,D,Warren ,St Aloysius,151
-2,Michael Watson,Secretary of State,,R,Warren ,St Aloysius,12
-2,Jennifer Riley Collins,Attorney General,,D,Warren ,St Aloysius,154
-2,Lynn Fitch,Attorney General,,R,Warren ,St Aloysius,11
-2,Shad White,State Auditor,,R,Warren ,St Aloysius,69
-5,Addie Lee Green,State Treasurer,,D,Warren ,St Aloysius,149
-5,David McRae,State Treasurer,,R,Warren ,St Aloysius,16
-5,Rickey L Cole,Commissioner of Agriculture & Commerce,,D,Warren ,St Aloysius,152
-5,Andy Gipson,Commissioner of Agriculture & Commerce,,R,Warren ,St Aloysius,10
-8,Briggs Hopson,State Senate,23,R,Warren ,St Aloysius,79
-8,Kevin Ford,State House,54,R,Warren ,St Aloysius,x
-8,Oscar Denton,State House,55,D,Warren ,St Aloysius,159
-8,Stephanie McKenzie Foster,State House,63,D,Warren ,St Aloysius,x
-8,Jeffery Harness,State House,85,D,Warren ,St Aloysius,x
-2,Jim Hood,Governor,,D,Warren ,Auditorium,503
-2,Tate Reeves,Governor,,R,Warren ,Auditorium,70
-2,Bob Hickingbottom,Governor,,C,Warren ,Auditorium,2
-2,David R Singletary,Governor,,IND,Warren ,Auditorium,6
-2,Delbert Hosemann,Lieutenant Governor,,R,Warren ,Auditorium,158
-2,Jay Hughes,Lieutenant Governor,,D,Warren ,Auditorium,413
-2,Johnny DuPree,Secretary of State,,D,Warren ,Auditorium,475
-2,Michael Watson,Secretary of State,,R,Warren ,Auditorium,89
-2,Jennifer Riley Collins,Attorney General,,D,Warren ,Auditorium,490
-2,Lynn Fitch,Attorney General,,R,Warren ,Auditorium,87
-2,Shad White,State Auditor,,R,Warren ,Auditorium,285
-5,Addie Lee Green,State Treasurer,,D,Warren ,Auditorium,474
-5,David McRae,State Treasurer,,R,Warren ,Auditorium,100
-5,Rickey L Cole,Commissioner of Agriculture & Commerce,,D,Warren ,Auditorium,480
-5,Andy Gipson,Commissioner of Agriculture & Commerce,,R,Warren ,Auditorium,87
-8,Briggs Hopson,State Senate,23,R,Warren ,Auditorium,300
-8,Kevin Ford,State House,54,R,Warren ,Auditorium,x
-8,Oscar Denton,State House,55,D,Warren ,Auditorium,544
-8,Stephanie McKenzie Foster,State House,63,D,Warren ,Auditorium,x
-8,Jeffery Harness,State House,85,D,Warren ,Auditorium,x
-2,Jim Hood,Governor,,D,Warren ,Brunswick,31
-2,Tate Reeves,Governor,,R,Warren ,Brunswick,165
-2,Bob Hickingbottom,Governor,,C,Warren ,Brunswick,1
-2,David R Singletary,Governor,,IND,Warren ,Brunswick,4
-2,Delbert Hosemann,Lieutenant Governor,,R,Warren ,Brunswick,182
-2,Jay Hughes,Lieutenant Governor,,D,Warren ,Brunswick,16
-2,Johnny DuPree,Secretary of State,,D,Warren ,Brunswick,27
-2,Michael Watson,Secretary of State,,R,Warren ,Brunswick,172
-2,Jennifer Riley Collins,Attorney General,,D,Warren ,Brunswick,21
-2,Lynn Fitch,Attorney General,,R,Warren ,Brunswick,178
-2,Shad White,State Auditor,,R,Warren ,Brunswick,181
-5,Addie Lee Green,State Treasurer,,D,Warren ,Brunswick,18
-5,David McRae,State Treasurer,,R,Warren ,Brunswick,181
-5,Rickey L Cole,Commissioner of Agriculture & Commerce,,D,Warren ,Brunswick,23
-5,Andy Gipson,Commissioner of Agriculture & Commerce,,R,Warren ,Brunswick,175
-8,Briggs Hopson,State Senate,23,R,Warren ,Brunswick,190
-8,Kevin Ford,State House,54,R,Warren ,Brunswick,x
-8,Oscar Denton,State House,55,D,Warren ,Brunswick,100
-8,Stephanie McKenzie Foster,State House,63,D,Warren ,Brunswick,x
-8,Jeffery Harness,State House,85,D,Warren ,Brunswick,x
-2,Jim Hood,Governor,,D,Warren ,3-61,41
-2,Tate Reeves,Governor,,R,Warren ,3-61,59
-2,Bob Hickingbottom,Governor,,C,Warren ,3-61,0
-2,David R Singletary,Governor,,IND,Warren ,3-61,1
-2,Delbert Hosemann,Lieutenant Governor,,R,Warren ,3-61,69
-2,Jay Hughes,Lieutenant Governor,,D,Warren ,3-61,32
-2,Johnny DuPree,Secretary of State,,D,Warren ,3-61,36
-2,Michael Watson,Secretary of State,,R,Warren ,3-61,65
-2,Jennifer Riley Collins,Attorney General,,D,Warren ,3-61,35
-2,Lynn Fitch,Attorney General,,R,Warren ,3-61,66
-2,Shad White,State Auditor,,R,Warren ,3-61,78
-5,Addie Lee Green,State Treasurer,,D,Warren ,3-61,33
-5,David McRae,State Treasurer,,R,Warren ,3-61,68
-5,Rickey L Cole,Commissioner of Agriculture & Commerce,,D,Warren ,3-61,36
-5,Andy Gipson,Commissioner of Agriculture & Commerce,,R,Warren ,3-61,64
-8,Briggs Hopson,State Senate,23,R,Warren ,3-61,82
-8,Kevin Ford,State House,54,R,Warren ,3-61,78
-8,Oscar Denton,State House,55,D,Warren ,3-61,x
-8,Stephanie McKenzie Foster,State House,63,D,Warren ,3-61,x
-8,Jeffery Harness,State House,85,D,Warren ,3-61,x
-2,Jim Hood,Governor,,D,Warren ,American Legion Post,597
-2,Tate Reeves,Governor,,R,Warren ,American Legion Post,123
-2,Bob Hickingbottom,Governor,,C,Warren ,American Legion Post,2
-2,David R Singletary,Governor,,IND,Warren ,American Legion Post,6
-2,Delbert Hosemann,Lieutenant Governor,,R,Warren ,American Legion Post,247
-2,Jay Hughes,Lieutenant Governor,,D,Warren ,American Legion Post,466
-2,Johnny DuPree,Secretary of State,,D,Warren ,American Legion Post,522
-2,Michael Watson,Secretary of State,,R,Warren ,American Legion Post,173
-2,Jennifer Riley Collins,Attorney General,,D,Warren ,American Legion Post,573
-2,Lynn Fitch,Attorney General,,R,Warren ,American Legion Post,148
-2,Shad White,State Auditor,,R,Warren ,American Legion Post,377
-5,Addie Lee Green,State Treasurer,,D,Warren ,American Legion Post,526
-5,David McRae,State Treasurer,,R,Warren ,American Legion Post,187
-5,Rickey L Cole,Commissioner of Agriculture & Commerce,,D,Warren ,American Legion Post,546
-5,Andy Gipson,Commissioner of Agriculture & Commerce,,R,Warren ,American Legion Post,156
-8,Briggs Hopson,State Senate,23,R,Warren ,American Legion Post,399
-8,Kevin Ford,State House,54,R,Warren ,American Legion Post,x
-8,Oscar Denton,State House,55,D,Warren ,American Legion Post,654
-8,Stephanie McKenzie Foster,State House,63,D,Warren ,American Legion Post,x
-8,Jeffery Harness,State House,85,D,Warren ,American Legion Post,x
-3,Jim Hood,Governor,,D,Warren ,Cherry Street,656
-3,Tate Reeves,Governor,,R,Warren ,Cherry Street,211
-3,Bob Hickingbottom,Governor,,C,Warren ,Cherry Street,2
-3,David R Singletary,Governor,,IND,Warren ,Cherry Street,9
-3,Delbert Hosemann,Lieutenant Governor,,R,Warren ,Cherry Street,345
-3,Jay Hughes,Lieutenant Governor,,D,Warren ,Cherry Street,524
-3,Johnny DuPree,Secretary of State,,D,Warren ,Cherry Street,590
-3,Michael Watson,Secretary of State,,R,Warren ,Cherry Street,268
-3,Jennifer Riley Collins,Attorney General,,D,Warren ,Cherry Street,628
-3,Lynn Fitch,Attorney General,,R,Warren ,Cherry Street,241
-3,Shad White,State Auditor,,R,Warren ,Cherry Street,518
-6,Addie Lee Green,State Treasurer,,D,Warren ,Cherry Street,584
-6,David McRae,State Treasurer,,R,Warren ,Cherry Street,279
-6,Rickey L Cole,Commissioner of Agriculture & Commerce,,D,Warren ,Cherry Street,602
-6,Andy Gipson,Commissioner of Agriculture & Commerce,,R,Warren ,Cherry Street,251
-9,Briggs Hopson,State Senate,23,R,Warren ,Cherry Street,548
-9,Kevin Ford,State House,54,R,Warren ,Cherry Street,33
-9,Oscar Denton,State House,55,D,Warren ,Cherry Street,729
-9,Stephanie McKenzie Foster,State House,63,D,Warren ,Cherry Street,x
-9,Jeffery Harness,State House,85,D,Warren ,Cherry Street,x
-3,Jim Hood,Governor,,D,Warren ,No. 7 Fire Station ,479
-3,Tate Reeves,Governor,,R,Warren ,No. 7 Fire Station ,126
-3,Bob Hickingbottom,Governor,,C,Warren ,No. 7 Fire Station ,1
-3,David R Singletary,Governor,,IND,Warren ,No. 7 Fire Station ,7
-3,Delbert Hosemann,Lieutenant Governor,,R,Warren ,No. 7 Fire Station ,212
-3,Jay Hughes,Lieutenant Governor,,D,Warren ,No. 7 Fire Station ,394
-3,Johnny DuPree,Secretary of State,,D,Warren ,No. 7 Fire Station ,441
-3,Michael Watson,Secretary of State,,R,Warren ,No. 7 Fire Station ,156
-3,Jennifer Riley Collins,Attorney General,,D,Warren ,No. 7 Fire Station ,471
-3,Lynn Fitch,Attorney General,,R,Warren ,No. 7 Fire Station ,144
-3,Shad White,State Auditor,,R,Warren ,No. 7 Fire Station ,368
-6,Addie Lee Green,State Treasurer,,D,Warren ,No. 7 Fire Station ,439
-6,David McRae,State Treasurer,,R,Warren ,No. 7 Fire Station ,165
-6,Rickey L Cole,Commissioner of Agriculture & Commerce,,D,Warren ,No. 7 Fire Station ,449
-6,Andy Gipson,Commissioner of Agriculture & Commerce,,R,Warren ,No. 7 Fire Station ,153
-9,Briggs Hopson,State Senate,23,R,Warren ,No. 7 Fire Station ,385
-9,Kevin Ford,State House,54,R,Warren ,No. 7 Fire Station ,x
-9,Oscar Denton,State House,55,D,Warren ,No. 7 Fire Station ,537
-9,Stephanie McKenzie Foster,State House,63,D,Warren ,No. 7 Fire Station ,x
-9,Jeffery Harness,State House,85,D,Warren ,No. 7 Fire Station ,x
-3,Jim Hood,Governor,,D,Warren ,Jett,484
-3,Tate Reeves,Governor,,R,Warren ,Jett,269
-3,Bob Hickingbottom,Governor,,C,Warren ,Jett,2
-3,David R Singletary,Governor,,IND,Warren ,Jett,2
-3,Delbert Hosemann,Lieutenant Governor,,R,Warren ,Jett,341
-3,Jay Hughes,Lieutenant Governor,,D,Warren ,Jett,405
-3,Johnny DuPree,Secretary of State,,D,Warren ,Jett,459
-3,Michael Watson,Secretary of State,,R,Warren ,Jett,281
-3,Jennifer Riley Collins,Attorney General,,D,Warren ,Jett,469
-3,Lynn Fitch,Attorney General,,R,Warren ,Jett,284
-3,Shad White,State Auditor,,R,Warren ,Jett,492
-6,Addie Lee Green,State Treasurer,,D,Warren ,Jett,435
-6,David McRae,State Treasurer,,R,Warren ,Jett,312
-6,Rickey L Cole,Commissioner of Agriculture & Commerce,,D,Warren ,Jett,452
-6,Andy Gipson,Commissioner of Agriculture & Commerce,,R,Warren ,Jett,290
-9,Briggs Hopson,State Senate,23,R,Warren ,Jett,519
-9,Kevin Ford,State House,54,R,Warren ,Jett,x
-9,Oscar Denton,State House,55,D,Warren ,Jett,613
-9,Stephanie McKenzie Foster,State House,63,D,Warren ,Jett,x
-9,Jeffery Harness,State House,85,D,Warren ,Jett,x
-3,Jim Hood,Governor,,D,Warren ,Goodrum,170
-3,Tate Reeves,Governor,,R,Warren ,Goodrum,370
-3,Bob Hickingbottom,Governor,,C,Warren ,Goodrum,0
-3,David R Singletary,Governor,,IND,Warren ,Goodrum,10
-3,Delbert Hosemann,Lieutenant Governor,,R,Warren ,Goodrum,415
-3,Jay Hughes,Lieutenant Governor,,D,Warren ,Goodrum,131
-3,Johnny DuPree,Secretary of State,,D,Warren ,Goodrum,141
-3,Michael Watson,Secretary of State,,R,Warren ,Goodrum,394
-3,Jennifer Riley Collins,Attorney General,,D,Warren ,Goodrum,161
-3,Lynn Fitch,Attorney General,,R,Warren ,Goodrum,386
-3,Shad White,State Auditor,,R,Warren ,Goodrum,455
-6,Addie Lee Green,State Treasurer,,D,Warren ,Goodrum,137
-6,David McRae,State Treasurer,,R,Warren ,Goodrum,404
-6,Rickey L Cole,Commissioner of Agriculture & Commerce,,D,Warren ,Goodrum,147
-6,Andy Gipson,Commissioner of Agriculture & Commerce,,R,Warren ,Goodrum,390
-9,Briggs Hopson,State Senate,23,R,Warren ,Goodrum,473
-9,Kevin Ford,State House,54,R,Warren ,Goodrum,x
-9,Oscar Denton,State House,55,D,Warren ,Goodrum,x
-9,Stephanie McKenzie Foster,State House,63,D,Warren ,Goodrum,x
-9,Jeffery Harness,State House,85,D,Warren ,Goodrum,368
-3,Jim Hood,Governor,,D,Warren ,Yokena,116
-3,Tate Reeves,Governor,,R,Warren ,Yokena,246
-3,Bob Hickingbottom,Governor,,C,Warren ,Yokena,0
-3,David R Singletary,Governor,,IND,Warren ,Yokena,2
-3,Delbert Hosemann,Lieutenant Governor,,R,Warren ,Yokena,265
-3,Jay Hughes,Lieutenant Governor,,D,Warren ,Yokena,95
-3,Johnny DuPree,Secretary of State,,D,Warren ,Yokena,111
-3,Michael Watson,Secretary of State,,R,Warren ,Yokena,245
-3,Jennifer Riley Collins,Attorney General,,D,Warren ,Yokena,115
-3,Lynn Fitch,Attorney General,,R,Warren ,Yokena,247
-3,Shad White,State Auditor,,R,Warren ,Yokena,293
-6,Addie Lee Green,State Treasurer,,D,Warren ,Yokena,104
-6,David McRae,State Treasurer,,R,Warren ,Yokena,259
-6,Rickey L Cole,Commissioner of Agriculture & Commerce,,D,Warren ,Yokena,112
-6,Andy Gipson,Commissioner of Agriculture & Commerce,,R,Warren ,Yokena,244
-9,Briggs Hopson,State Senate,23,R,Warren ,Yokena,308
-9,Kevin Ford,State House,54,R,Warren ,Yokena,x
-9,Oscar Denton,State House,55,D,Warren ,Yokena,x
-9,Stephanie McKenzie Foster,State House,63,D,Warren ,Yokena,x
-9,Jeffery Harness,State House,85,D,Warren ,Yokena,239
-3,Jim Hood,Governor,,D,Warren ,Elks Lodge,472
-3,Tate Reeves,Governor,,R,Warren ,Elks Lodge,340
-3,Bob Hickingbottom,Governor,,C,Warren ,Elks Lodge,2
-3,David R Singletary,Governor,,IND,Warren ,Elks Lodge,5
-3,Delbert Hosemann,Lieutenant Governor,,R,Warren ,Elks Lodge,452
-3,Jay Hughes,Lieutenant Governor,,D,Warren ,Elks Lodge,362
-3,Johnny DuPree,Secretary of State,,D,Warren ,Elks Lodge,412
-3,Michael Watson,Secretary of State,,R,Warren ,Elks Lodge,401
-3,Jennifer Riley Collins,Attorney General,,D,Warren ,Elks Lodge,434
-3,Lynn Fitch,Attorney General,,R,Warren ,Elks Lodge,383
-3,Shad White,State Auditor,,R,Warren ,Elks Lodge,599
-6,Addie Lee Green,State Treasurer,,D,Warren ,Elks Lodge,396
-6,David McRae,State Treasurer,,R,Warren ,Elks Lodge,419
-6,Rickey L Cole,Commissioner of Agriculture & Commerce,,D,Warren ,Elks Lodge,415
-6,Andy Gipson,Commissioner of Agriculture & Commerce,,R,Warren ,Elks Lodge,396
-9,Briggs Hopson,State Senate,23,R,Warren ,Elks Lodge,627
-9,Kevin Ford,State House,54,R,Warren ,Elks Lodge,x
-9,Oscar Denton,State House,55,D,Warren ,Elks Lodge,692
-9,Stephanie McKenzie Foster,State House,63,D,Warren ,Elks Lodge,x
-9,Jeffery Harness,State House,85,D,Warren ,Elks Lodge,x
-3,Jim Hood,Governor,,D,Warren ,Beechwood,350
-3,Tate Reeves,Governor,,R,Warren ,Beechwood,709
-3,Bob Hickingbottom,Governor,,C,Warren ,Beechwood,3
-3,David R Singletary,Governor,,IND,Warren ,Beechwood,17
-3,Delbert Hosemann,Lieutenant Governor,,R,Warren ,Beechwood,878
-3,Jay Hughes,Lieutenant Governor,,D,Warren ,Beechwood,202
-3,Johnny DuPree,Secretary of State,,D,Warren ,Beechwood,261
-3,Michael Watson,Secretary of State,,R,Warren ,Beechwood,805
-3,Jennifer Riley Collins,Attorney General,,D,Warren ,Beechwood,272
-3,Lynn Fitch,Attorney General,,R,Warren ,Beechwood,805
-3,Shad White,State Auditor,,R,Warren ,Beechwood,939
-6,Addie Lee Green,State Treasurer,,D,Warren ,Beechwood,219
-6,David McRae,State Treasurer,,R,Warren ,Beechwood,847
-6,Rickey L Cole,Commissioner of Agriculture & Commerce,,D,Warren ,Beechwood,264
-6,Andy Gipson,Commissioner of Agriculture & Commerce,,R,Warren ,Beechwood,799
-9,Briggs Hopson,State Senate,23,R,Warren ,Beechwood,972
-9,Kevin Ford,State House,54,R,Warren ,Beechwood,956
-9,Oscar Denton,State House,55,D,Warren ,Beechwood,x
-9,Stephanie McKenzie Foster,State House,63,D,Warren ,Beechwood,x
-9,Jeffery Harness,State House,85,D,Warren ,Beechwood,x
-3,Jim Hood,Governor,,D,Warren ,Moose Lodge,262
-3,Tate Reeves,Governor,,R,Warren ,Moose Lodge,500
-3,Bob Hickingbottom,Governor,,C,Warren ,Moose Lodge,5
-3,David R Singletary,Governor,,IND,Warren ,Moose Lodge,4
-3,Delbert Hosemann,Lieutenant Governor,,R,Warren ,Moose Lodge,590
-3,Jay Hughes,Lieutenant Governor,,D,Warren ,Moose Lodge,178
-3,Johnny DuPree,Secretary of State,,D,Warren ,Moose Lodge,215
-3,Michael Watson,Secretary of State,,R,Warren ,Moose Lodge,549
-3,Jennifer Riley Collins,Attorney General,,D,Warren ,Moose Lodge,226
-3,Lynn Fitch,Attorney General,,R,Warren ,Moose Lodge,540
-3,Shad White,State Auditor,,R,Warren ,Moose Lodge,654
-6,Addie Lee Green,State Treasurer,,D,Warren ,Moose Lodge,196
-6,David McRae,State Treasurer,,R,Warren ,Moose Lodge,570
-6,Rickey L Cole,Commissioner of Agriculture & Commerce,,D,Warren ,Moose Lodge,208
-6,Andy Gipson,Commissioner of Agriculture & Commerce,,R,Warren ,Moose Lodge,552
-9,Briggs Hopson,State Senate,23,R,Warren ,Moose Lodge,671
-9,Kevin Ford,State House,54,R,Warren ,Moose Lodge,x
-9,Oscar Denton,State House,55,D,Warren ,Moose Lodge,x
-9,Stephanie McKenzie Foster,State House,63,D,Warren ,Moose Lodge,x
-9,Jeffery Harness,State House,85,D,Warren ,Moose Lodge,502
-3,Jim Hood,Governor,,D,Warren ,Tingleville,302
-3,Tate Reeves,Governor,,R,Warren ,Tingleville,215
-3,Bob Hickingbottom,Governor,,C,Warren ,Tingleville,3
-3,David R Singletary,Governor,,IND,Warren ,Tingleville,7
-3,Delbert Hosemann,Lieutenant Governor,,R,Warren ,Tingleville,266
-3,Jay Hughes,Lieutenant Governor,,D,Warren ,Tingleville,254
-3,Johnny DuPree,Secretary of State,,D,Warren ,Tingleville,286
-3,Michael Watson,Secretary of State,,R,Warren ,Tingleville,232
-3,Jennifer Riley Collins,Attorney General,,D,Warren ,Tingleville,293
-3,Lynn Fitch,Attorney General,,R,Warren ,Tingleville,233
-3,Shad White,State Auditor,,R,Warren ,Tingleville,354
-6,Addie Lee Green,State Treasurer,,D,Warren ,Tingleville,276
-6,David McRae,State Treasurer,,R,Warren ,Tingleville,247
-6,Rickey L Cole,Commissioner of Agriculture & Commerce,,D,Warren ,Tingleville,285
-6,Andy Gipson,Commissioner of Agriculture & Commerce,,R,Warren ,Tingleville,236
-9,Briggs Hopson,State Senate,23,R,Warren ,Tingleville,365
-9,Kevin Ford,State House,54,R,Warren ,Tingleville,x
-9,Oscar Denton,State House,55,D,Warren ,Tingleville,x
-9,Stephanie McKenzie Foster,State House,63,D,Warren ,Tingleville,406
-9,Jeffery Harness,State House,85,D,Warren ,Tingleville,x
-3,Jim Hood,Governor,,D,Warren ,Lee Road,232
-3,Tate Reeves,Governor,,R,Warren ,Lee Road,93
-3,Bob Hickingbottom,Governor,,C,Warren ,Lee Road,2
-3,David R Singletary,Governor,,IND,Warren ,Lee Road,1
-3,Delbert Hosemann,Lieutenant Governor,,R,Warren ,Lee Road,129
-3,Jay Hughes,Lieutenant Governor,,D,Warren ,Lee Road,192
-3,Johnny DuPree,Secretary of State,,D,Warren ,Lee Road,213
-3,Michael Watson,Secretary of State,,R,Warren ,Lee Road,107
-3,Jennifer Riley Collins,Attorney General,,D,Warren ,Lee Road,220
-3,Lynn Fitch,Attorney General,,R,Warren ,Lee Road,108
-3,Shad White,State Auditor,,R,Warren ,Lee Road,199
-6,Addie Lee Green,State Treasurer,,D,Warren ,Lee Road,205
-6,David McRae,State Treasurer,,R,Warren ,Lee Road,120
-6,Rickey L Cole,Commissioner of Agriculture & Commerce,,D,Warren ,Lee Road,213
-6,Andy Gipson,Commissioner of Agriculture & Commerce,,R,Warren ,Lee Road,109
-9,Briggs Hopson,State Senate,23,R,Warren ,Lee Road,204
-9,Kevin Ford,State House,54,R,Warren ,Lee Road,79
-9,Oscar Denton,State House,55,D,Warren ,Lee Road,226
-9,Stephanie McKenzie Foster,State House,63,D,Warren ,Lee Road,x
-9,Jeffery Harness,State House,85,D,Warren ,Lee Road,x
-3,Jim Hood,Governor,,D,Warren ,Plumbers & Pipefitters,310
-3,Tate Reeves,Governor,,R,Warren ,Plumbers & Pipefitters,351
-3,Bob Hickingbottom,Governor,,C,Warren ,Plumbers & Pipefitters,2
-3,David R Singletary,Governor,,IND,Warren ,Plumbers & Pipefitters,2
-3,Delbert Hosemann,Lieutenant Governor,,R,Warren ,Plumbers & Pipefitters,435
-3,Jay Hughes,Lieutenant Governor,,D,Warren ,Plumbers & Pipefitters,224
-3,Johnny DuPree,Secretary of State,,D,Warren ,Plumbers & Pipefitters,270
-3,Michael Watson,Secretary of State,,R,Warren ,Plumbers & Pipefitters,381
-3,Jennifer Riley Collins,Attorney General,,D,Warren ,Plumbers & Pipefitters,280
-3,Lynn Fitch,Attorney General,,R,Warren ,Plumbers & Pipefitters,380
-3,Shad White,State Auditor,,R,Warren ,Plumbers & Pipefitters,518
-6,Addie Lee Green,State Treasurer,,D,Warren ,Plumbers & Pipefitters,254
-6,David McRae,State Treasurer,,R,Warren ,Plumbers & Pipefitters,406
-6,Rickey L Cole,Commissioner of Agriculture & Commerce,,D,Warren ,Plumbers & Pipefitters,264
-6,Andy Gipson,Commissioner of Agriculture & Commerce,,R,Warren ,Plumbers & Pipefitters,390
-9,Briggs Hopson,State Senate,23,R,Warren ,Plumbers & Pipefitters,534
-9,Kevin Ford,State House,54,R,Warren ,Plumbers & Pipefitters,514
-9,Oscar Denton,State House,55,D,Warren ,Plumbers & Pipefitters,x
-9,Stephanie McKenzie Foster,State House,63,D,Warren ,Plumbers & Pipefitters,x
-9,Jeffery Harness,State House,85,D,Warren ,Plumbers & Pipefitters,x
-4,Jim Hood,Governor,,D,Warren ,YMCA,171
-4,Tate Reeves,Governor,,R,Warren ,YMCA,209
-4,Bob Hickingbottom,Governor,,C,Warren ,YMCA,0
-4,David R Singletary,Governor,,IND,Warren ,YMCA,0
-4,Delbert Hosemann,Lieutenant Governor,,R,Warren ,YMCA,246
-4,Jay Hughes,Lieutenant Governor,,D,Warren ,YMCA,130
-4,Johnny DuPree,Secretary of State,,D,Warren ,YMCA,134
-4,Michael Watson,Secretary of State,,R,Warren ,YMCA,234
-4,Jennifer Riley Collins,Attorney General,,D,Warren ,YMCA,146
-4,Lynn Fitch,Attorney General,,R,Warren ,YMCA,231
-4,Shad White,State Auditor,,R,Warren ,YMCA,296
-7,Addie Lee Green,State Treasurer,,D,Warren ,YMCA,127
-7,David McRae,State Treasurer,,R,Warren ,YMCA,247
-7,Rickey L Cole,Commissioner of Agriculture & Commerce,,D,Warren ,YMCA,142
-7,Andy Gipson,Commissioner of Agriculture & Commerce,,R,Warren ,YMCA,232
-10,Briggs Hopson,State Senate,23,R,Warren ,YMCA,308
-10,Kevin Ford,State House,54,R,Warren ,YMCA,x
-10,Oscar Denton,State House,55,D,Warren ,YMCA,275
-10,Stephanie McKenzie Foster,State House,63,D,Warren ,YMCA,x
-10,Jeffery Harness,State House,85,D,Warren ,YMCA,x
-4,Jim Hood,Governor,,D,Warren ,TOTAL ,7438
-4,Tate Reeves,Governor,,R,Warren ,TOTAL ,6709
-4,Bob Hickingbottom,Governor,,C,Warren ,TOTAL ,37
-4,David R Singletary,Governor,,IND,Warren ,TOTAL ,139
-4,Delbert Hosemann,Lieutenant Governor,,R,Warren ,TOTAL ,8441
-4,Jay Hughes,Lieutenant Governor,,D,Warren ,TOTAL ,5742
-4,Johnny DuPree,Secretary of State,,D,Warren ,TOTAL ,6532
-4,Michael Watson,Secretary of State,,R,Warren ,TOTAL ,7491
-4,Jennifer Riley Collins,Attorney General,,D,Warren ,TOTAL ,6850
-4,Lynn Fitch,Attorney General,,R,Warren ,TOTAL ,7408
-4,Shad White,State Auditor,,R,Warren ,TOTAL ,10420
-7,Addie Lee Green,State Treasurer,,D,Warren ,TOTAL ,6234
-7,David McRae,State Treasurer,,R,Warren ,TOTAL ,7904
-7,Rickey L Cole,Commissioner of Agriculture & Commerce,,D,Warren ,TOTAL ,6571
-7,Andy Gipson,Commissioner of Agriculture & Commerce,,R,Warren ,TOTAL ,7475
-10,Briggs Hopson,State Senate,23,R,Warren ,TOTAL ,10857
-10,Kevin Ford,State House,54,R,Warren ,TOTAL ,4946
-10,Oscar Denton,State House,55,D,Warren ,TOTAL ,5386
-10,Stephanie McKenzie Foster,State House,63,D,Warren ,TOTAL ,406
-10,Jeffery Harness,State House,85,D,Warren ,TOTAL ,1109
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
+﻿candidate,office,district,party,county,precinct,votes
+Jim Hood,Governor,,D,Warren ,Redwood,44
+Tate Reeves,Governor,,R,Warren ,Redwood,163
+Bob Hickingbottom,Governor,,C,Warren ,Redwood,0
+David R Singletary,Governor,,IND,Warren ,Redwood,3
+Delbert Hosemann,Lieutenant Governor,,R,Warren ,Redwood,178
+Jay Hughes,Lieutenant Governor,,D,Warren ,Redwood,29
+Johnny DuPree,Secretary of State,,D,Warren ,Redwood,26
+Michael Watson,Secretary of State,,R,Warren ,Redwood,173
+Jennifer Riley Collins,Attorney General,,D,Warren ,Redwood,31
+Lynn Fitch,Attorney General,,R,Warren ,Redwood,179
+Shad White,State Auditor,,R,Warren ,Redwood,185
+Addie Lee Green,State Treasurer,,D,Warren ,Redwood,22
+David McRae,State Treasurer,,R,Warren ,Redwood,183
+Rickey L Cole,Commissioner of Agriculture & Commerce,,D,Warren ,Redwood,29
+Andy Gipson,Commissioner of Agriculture & Commerce,,R,Warren ,Redwood,171
+Briggs Hopson,State Senate,23,R,Warren ,Redwood,192
+Kevin Ford,State House,54,R,Warren ,Redwood,190
+Oscar Denton,State House,55,D,Warren ,Redwood,x
+Stephanie McKenzie Foster,State House,63,D,Warren ,Redwood,x
+Jeffery Harness,State House,85,D,Warren ,Redwood,x
+Jim Hood,Governor,,D,Warren ,Bovina,218
+Tate Reeves,Governor,,R,Warren ,Bovina,513
+Bob Hickingbottom,Governor,,C,Warren ,Bovina,4
+David R Singletary,Governor,,IND,Warren ,Bovina,4
+Delbert Hosemann,Lieutenant Governor,,R,Warren ,Bovina,585
+Jay Hughes,Lieutenant Governor,,D,Warren ,Bovina,148
+Johnny DuPree,Secretary of State,,D,Warren ,Bovina,179
+Michael Watson,Secretary of State,,R,Warren ,Bovina,549
+Jennifer Riley Collins,Attorney General,,D,Warren ,Bovina,180
+Lynn Fitch,Attorney General,,R,Warren ,Bovina,555
+Shad White,State Auditor,,R,Warren ,Bovina,637
+Addie Lee Green,State Treasurer,,D,Warren ,Bovina,161
+David McRae,State Treasurer,,R,Warren ,Bovina,571
+Rickey L Cole,Commissioner of Agriculture & Commerce,,D,Warren ,Bovina,177
+Andy Gipson,Commissioner of Agriculture & Commerce,,R,Warren ,Bovina,554
+Briggs Hopson,State Senate,23,R,Warren ,Bovina,660
+Kevin Ford,State House,54,R,Warren ,Bovina,643
+Oscar Denton,State House,55,D,Warren ,Bovina,x
+Stephanie McKenzie Foster,State House,63,D,Warren ,Bovina,x
+Jeffery Harness,State House,85,D,Warren ,Bovina,x
+Jim Hood,Governor,,D,Warren ,Culkin,745
+Tate Reeves,Governor,,R,Warren ,Culkin,1241
+Bob Hickingbottom,Governor,,C,Warren ,Culkin,1
+David R Singletary,Governor,,IND,Warren ,Culkin,29
+Delbert Hosemann,Lieutenant Governor,,R,Warren ,Culkin,1485
+Jay Hughes,Lieutenant Governor,,D,Warren ,Culkin,523
+Johnny DuPree,Secretary of State,,D,Warren ,Culkin,598
+Michael Watson,Secretary of State,,R,Warren ,Culkin,1379
+Jennifer Riley Collins,Attorney General,,D,Warren ,Culkin,619
+Lynn Fitch,Attorney General,,R,Warren ,Culkin,1395
+Shad White,State Auditor,,R,Warren ,Culkin,1664
+Addie Lee Green,State Treasurer,,D,Warren ,Culkin,534
+David McRae,State Treasurer,,R,Warren ,Culkin,1456
+Rickey L Cole,Commissioner of Agriculture & Commerce,,D,Warren ,Culkin,588
+Andy Gipson,Commissioner of Agriculture & Commerce,,R,Warren ,Culkin,1390
+Briggs Hopson,State Senate,23,R,Warren ,Culkin,1724
+Kevin Ford,State House,54,R,Warren ,Culkin,1692
+Oscar Denton,State House,55,D,Warren ,Culkin,x
+Stephanie McKenzie Foster,State House,63,D,Warren ,Culkin,x
+Jeffery Harness,State House,85,D,Warren ,Culkin,x
+Jim Hood,Governor,,D,Warren ,Oakland,178
+Tate Reeves,Governor,,R,Warren ,Oakland,405
+Bob Hickingbottom,Governor,,C,Warren ,Oakland,1
+David R Singletary,Governor,,IND,Warren ,Oakland,6
+Delbert Hosemann,Lieutenant Governor,,R,Warren ,Oakland,490
+Jay Hughes,Lieutenant Governor,,D,Warren ,Oakland,99
+Johnny DuPree,Secretary of State,,D,Warren ,Oakland,128
+Michael Watson,Secretary of State,,R,Warren ,Oakland,458
+Jennifer Riley Collins,Attorney General,,D,Warren ,Oakland,128
+Lynn Fitch,Attorney General,,R,Warren ,Oakland,459
+Shad White,State Auditor,,R,Warren ,Oakland,524
+Addie Lee Green,State Treasurer,,D,Warren ,Oakland,104
+David McRae,State Treasurer,,R,Warren ,Oakland,482
+Rickey L Cole,Commissioner of Agriculture & Commerce,,D,Warren ,Oakland,120
+Andy Gipson,Commissioner of Agriculture & Commerce,,R,Warren ,Oakland,464
+Briggs Hopson,State Senate,23,R,Warren ,Oakland,548
+Kevin Ford,State House,54,R,Warren ,Oakland,533
+Oscar Denton,State House,55,D,Warren ,Oakland,x
+Stephanie McKenzie Foster,State House,63,D,Warren ,Oakland,x
+Jeffery Harness,State House,85,D,Warren ,Oakland,x
+Jim Hood,Governor,,D,Warren ,Cedar Grove,620
+Tate Reeves,Governor,,R,Warren ,Cedar Grove,128
+Bob Hickingbottom,Governor,,C,Warren ,Cedar Grove,0
+David R Singletary,Governor,,IND,Warren ,Cedar Grove,6
+Delbert Hosemann,Lieutenant Governor,,R,Warren ,Cedar Grove,203
+Jay Hughes,Lieutenant Governor,,D,Warren ,Cedar Grove,534
+Johnny DuPree,Secretary of State,,D,Warren ,Cedar Grove,581
+Michael Watson,Secretary of State,,R,Warren ,Cedar Grove,153
+Jennifer Riley Collins,Attorney General,,D,Warren ,Cedar Grove,599
+Lynn Fitch,Attorney General,,R,Warren ,Cedar Grove,146
+Shad White,State Auditor,,R,Warren ,Cedar Grove,413
+Addie Lee Green,State Treasurer,,D,Warren ,Cedar Grove,569
+David McRae,State Treasurer,,R,Warren ,Cedar Grove,163
+Rickey L Cole,Commissioner of Agriculture & Commerce,,D,Warren ,Cedar Grove,583
+Andy Gipson,Commissioner of Agriculture & Commerce,,R,Warren ,Cedar Grove,154
+Briggs Hopson,State Senate,23,R,Warren ,Cedar Grove,433
+Kevin Ford,State House,54,R,Warren ,Cedar Grove,85
+Oscar Denton,State House,55,D,Warren ,Cedar Grove,567
+Stephanie McKenzie Foster,State House,63,D,Warren ,Cedar Grove,x
+Jeffery Harness,State House,85,D,Warren ,Cedar Grove,x
+Jim Hood,Governor,,D,Warren ,Kiings ,300
+Tate Reeves,Governor,,R,Warren ,Kiings ,197
+Bob Hickingbottom,Governor,,C,Warren ,Kiings ,4
+David R Singletary,Governor,,IND,Warren ,Kiings ,6
+Delbert Hosemann,Lieutenant Governor,,R,Warren ,Kiings ,240
+Jay Hughes,Lieutenant Governor,,D,Warren ,Kiings ,257
+Johnny DuPree,Secretary of State,,D,Warren ,Kiings ,276
+Michael Watson,Secretary of State,,R,Warren ,Kiings ,215
+Jennifer Riley Collins,Attorney General,,D,Warren ,Kiings ,302
+Lynn Fitch,Attorney General,,R,Warren ,Kiings ,202
+Shad White,State Auditor,,R,Warren ,Kiings ,322
+Addie Lee Green,State Treasurer,,D,Warren ,Kiings ,272
+David McRae,State Treasurer,,R,Warren ,Kiings ,222
+Rickey L Cole,Commissioner of Agriculture & Commerce,,D,Warren ,Kiings ,284
+Andy Gipson,Commissioner of Agriculture & Commerce,,R,Warren ,Kiings ,208
+Briggs Hopson,State Senate,23,R,Warren ,Kiings ,336
+Kevin Ford,State House,54,R,Warren ,Kiings ,143
+Oscar Denton,State House,55,D,Warren ,Kiings ,290
+Stephanie McKenzie Foster,State House,63,D,Warren ,Kiings ,x
+Jeffery Harness,State House,85,D,Warren ,Kiings ,x
+Jim Hood,Governor,,D,Warren ,St Aloysius,157
+Tate Reeves,Governor,,R,Warren ,St Aloysius,6
+Bob Hickingbottom,Governor,,C,Warren ,St Aloysius,0
+David R Singletary,Governor,,IND,Warren ,St Aloysius,2
+Delbert Hosemann,Lieutenant Governor,,R,Warren ,St Aloysius,30
+Jay Hughes,Lieutenant Governor,,D,Warren ,St Aloysius,134
+Johnny DuPree,Secretary of State,,D,Warren ,St Aloysius,151
+Michael Watson,Secretary of State,,R,Warren ,St Aloysius,12
+Jennifer Riley Collins,Attorney General,,D,Warren ,St Aloysius,154
+Lynn Fitch,Attorney General,,R,Warren ,St Aloysius,11
+Shad White,State Auditor,,R,Warren ,St Aloysius,69
+Addie Lee Green,State Treasurer,,D,Warren ,St Aloysius,149
+David McRae,State Treasurer,,R,Warren ,St Aloysius,16
+Rickey L Cole,Commissioner of Agriculture & Commerce,,D,Warren ,St Aloysius,152
+Andy Gipson,Commissioner of Agriculture & Commerce,,R,Warren ,St Aloysius,10
+Briggs Hopson,State Senate,23,R,Warren ,St Aloysius,79
+Kevin Ford,State House,54,R,Warren ,St Aloysius,x
+Oscar Denton,State House,55,D,Warren ,St Aloysius,159
+Stephanie McKenzie Foster,State House,63,D,Warren ,St Aloysius,x
+Jeffery Harness,State House,85,D,Warren ,St Aloysius,x
+Jim Hood,Governor,,D,Warren ,Auditorium,503
+Tate Reeves,Governor,,R,Warren ,Auditorium,70
+Bob Hickingbottom,Governor,,C,Warren ,Auditorium,2
+David R Singletary,Governor,,IND,Warren ,Auditorium,6
+Delbert Hosemann,Lieutenant Governor,,R,Warren ,Auditorium,158
+Jay Hughes,Lieutenant Governor,,D,Warren ,Auditorium,413
+Johnny DuPree,Secretary of State,,D,Warren ,Auditorium,475
+Michael Watson,Secretary of State,,R,Warren ,Auditorium,89
+Jennifer Riley Collins,Attorney General,,D,Warren ,Auditorium,490
+Lynn Fitch,Attorney General,,R,Warren ,Auditorium,87
+Shad White,State Auditor,,R,Warren ,Auditorium,285
+Addie Lee Green,State Treasurer,,D,Warren ,Auditorium,474
+David McRae,State Treasurer,,R,Warren ,Auditorium,100
+Rickey L Cole,Commissioner of Agriculture & Commerce,,D,Warren ,Auditorium,480
+Andy Gipson,Commissioner of Agriculture & Commerce,,R,Warren ,Auditorium,87
+Briggs Hopson,State Senate,23,R,Warren ,Auditorium,300
+Kevin Ford,State House,54,R,Warren ,Auditorium,x
+Oscar Denton,State House,55,D,Warren ,Auditorium,544
+Stephanie McKenzie Foster,State House,63,D,Warren ,Auditorium,x
+Jeffery Harness,State House,85,D,Warren ,Auditorium,x
+Jim Hood,Governor,,D,Warren ,Brunswick,31
+Tate Reeves,Governor,,R,Warren ,Brunswick,165
+Bob Hickingbottom,Governor,,C,Warren ,Brunswick,1
+David R Singletary,Governor,,IND,Warren ,Brunswick,4
+Delbert Hosemann,Lieutenant Governor,,R,Warren ,Brunswick,182
+Jay Hughes,Lieutenant Governor,,D,Warren ,Brunswick,16
+Johnny DuPree,Secretary of State,,D,Warren ,Brunswick,27
+Michael Watson,Secretary of State,,R,Warren ,Brunswick,172
+Jennifer Riley Collins,Attorney General,,D,Warren ,Brunswick,21
+Lynn Fitch,Attorney General,,R,Warren ,Brunswick,178
+Shad White,State Auditor,,R,Warren ,Brunswick,181
+Addie Lee Green,State Treasurer,,D,Warren ,Brunswick,18
+David McRae,State Treasurer,,R,Warren ,Brunswick,181
+Rickey L Cole,Commissioner of Agriculture & Commerce,,D,Warren ,Brunswick,23
+Andy Gipson,Commissioner of Agriculture & Commerce,,R,Warren ,Brunswick,175
+Briggs Hopson,State Senate,23,R,Warren ,Brunswick,190
+Kevin Ford,State House,54,R,Warren ,Brunswick,x
+Oscar Denton,State House,55,D,Warren ,Brunswick,100
+Stephanie McKenzie Foster,State House,63,D,Warren ,Brunswick,x
+Jeffery Harness,State House,85,D,Warren ,Brunswick,x
+Jim Hood,Governor,,D,Warren ,3~61,41
+Tate Reeves,Governor,,R,Warren ,3~61,59
+Bob Hickingbottom,Governor,,C,Warren ,3~61,0
+David R Singletary,Governor,,IND,Warren ,3~61,1
+Delbert Hosemann,Lieutenant Governor,,R,Warren ,3~61,69
+Jay Hughes,Lieutenant Governor,,D,Warren ,3~61,32
+Johnny DuPree,Secretary of State,,D,Warren ,3~61,36
+Michael Watson,Secretary of State,,R,Warren ,3~61,65
+Jennifer Riley Collins,Attorney General,,D,Warren ,3~61,35
+Lynn Fitch,Attorney General,,R,Warren ,3~61,66
+Shad White,State Auditor,,R,Warren ,3~61,78
+Addie Lee Green,State Treasurer,,D,Warren ,3~61,33
+David McRae,State Treasurer,,R,Warren ,3~61,68
+Rickey L Cole,Commissioner of Agriculture & Commerce,,D,Warren ,3~61,36
+Andy Gipson,Commissioner of Agriculture & Commerce,,R,Warren ,3~61,64
+Briggs Hopson,State Senate,23,R,Warren ,3~61,82
+Kevin Ford,State House,54,R,Warren ,3~61,78
+Oscar Denton,State House,55,D,Warren ,3~61,x
+Stephanie McKenzie Foster,State House,63,D,Warren ,3~61,x
+Jeffery Harness,State House,85,D,Warren ,3~61,x
+Jim Hood,Governor,,D,Warren ,American Legion Post,597
+Tate Reeves,Governor,,R,Warren ,American Legion Post,123
+Bob Hickingbottom,Governor,,C,Warren ,American Legion Post,2
+David R Singletary,Governor,,IND,Warren ,American Legion Post,6
+Delbert Hosemann,Lieutenant Governor,,R,Warren ,American Legion Post,247
+Jay Hughes,Lieutenant Governor,,D,Warren ,American Legion Post,466
+Johnny DuPree,Secretary of State,,D,Warren ,American Legion Post,522
+Michael Watson,Secretary of State,,R,Warren ,American Legion Post,173
+Jennifer Riley Collins,Attorney General,,D,Warren ,American Legion Post,573
+Lynn Fitch,Attorney General,,R,Warren ,American Legion Post,148
+Shad White,State Auditor,,R,Warren ,American Legion Post,377
+Addie Lee Green,State Treasurer,,D,Warren ,American Legion Post,526
+David McRae,State Treasurer,,R,Warren ,American Legion Post,187
+Rickey L Cole,Commissioner of Agriculture & Commerce,,D,Warren ,American Legion Post,546
+Andy Gipson,Commissioner of Agriculture & Commerce,,R,Warren ,American Legion Post,156
+Briggs Hopson,State Senate,23,R,Warren ,American Legion Post,399
+Kevin Ford,State House,54,R,Warren ,American Legion Post,x
+Oscar Denton,State House,55,D,Warren ,American Legion Post,654
+Stephanie McKenzie Foster,State House,63,D,Warren ,American Legion Post,x
+Jeffery Harness,State House,85,D,Warren ,American Legion Post,x
+Jim Hood,Governor,,D,Warren ,Cherry Street,656
+Tate Reeves,Governor,,R,Warren ,Cherry Street,211
+Bob Hickingbottom,Governor,,C,Warren ,Cherry Street,2
+David R Singletary,Governor,,IND,Warren ,Cherry Street,9
+Delbert Hosemann,Lieutenant Governor,,R,Warren ,Cherry Street,345
+Jay Hughes,Lieutenant Governor,,D,Warren ,Cherry Street,524
+Johnny DuPree,Secretary of State,,D,Warren ,Cherry Street,590
+Michael Watson,Secretary of State,,R,Warren ,Cherry Street,268
+Jennifer Riley Collins,Attorney General,,D,Warren ,Cherry Street,628
+Lynn Fitch,Attorney General,,R,Warren ,Cherry Street,241
+Shad White,State Auditor,,R,Warren ,Cherry Street,518
+Addie Lee Green,State Treasurer,,D,Warren ,Cherry Street,584
+David McRae,State Treasurer,,R,Warren ,Cherry Street,279
+Rickey L Cole,Commissioner of Agriculture & Commerce,,D,Warren ,Cherry Street,602
+Andy Gipson,Commissioner of Agriculture & Commerce,,R,Warren ,Cherry Street,251
+Briggs Hopson,State Senate,23,R,Warren ,Cherry Street,548
+Kevin Ford,State House,54,R,Warren ,Cherry Street,33
+Oscar Denton,State House,55,D,Warren ,Cherry Street,729
+Stephanie McKenzie Foster,State House,63,D,Warren ,Cherry Street,x
+Jeffery Harness,State House,85,D,Warren ,Cherry Street,x
+Jim Hood,Governor,,D,Warren ,No. 7 Fire Station ,479
+Tate Reeves,Governor,,R,Warren ,No. 7 Fire Station ,126
+Bob Hickingbottom,Governor,,C,Warren ,No. 7 Fire Station ,1
+David R Singletary,Governor,,IND,Warren ,No. 7 Fire Station ,7
+Delbert Hosemann,Lieutenant Governor,,R,Warren ,No. 7 Fire Station ,212
+Jay Hughes,Lieutenant Governor,,D,Warren ,No. 7 Fire Station ,394
+Johnny DuPree,Secretary of State,,D,Warren ,No. 7 Fire Station ,441
+Michael Watson,Secretary of State,,R,Warren ,No. 7 Fire Station ,156
+Jennifer Riley Collins,Attorney General,,D,Warren ,No. 7 Fire Station ,471
+Lynn Fitch,Attorney General,,R,Warren ,No. 7 Fire Station ,144
+Shad White,State Auditor,,R,Warren ,No. 7 Fire Station ,368
+Addie Lee Green,State Treasurer,,D,Warren ,No. 7 Fire Station ,439
+David McRae,State Treasurer,,R,Warren ,No. 7 Fire Station ,165
+Rickey L Cole,Commissioner of Agriculture & Commerce,,D,Warren ,No. 7 Fire Station ,449
+Andy Gipson,Commissioner of Agriculture & Commerce,,R,Warren ,No. 7 Fire Station ,153
+Briggs Hopson,State Senate,23,R,Warren ,No. 7 Fire Station ,385
+Kevin Ford,State House,54,R,Warren ,No. 7 Fire Station ,x
+Oscar Denton,State House,55,D,Warren ,No. 7 Fire Station ,537
+Stephanie McKenzie Foster,State House,63,D,Warren ,No. 7 Fire Station ,x
+Jeffery Harness,State House,85,D,Warren ,No. 7 Fire Station ,x
+Jim Hood,Governor,,D,Warren ,Jett,484
+Tate Reeves,Governor,,R,Warren ,Jett,269
+Bob Hickingbottom,Governor,,C,Warren ,Jett,2
+David R Singletary,Governor,,IND,Warren ,Jett,2
+Delbert Hosemann,Lieutenant Governor,,R,Warren ,Jett,341
+Jay Hughes,Lieutenant Governor,,D,Warren ,Jett,405
+Johnny DuPree,Secretary of State,,D,Warren ,Jett,459
+Michael Watson,Secretary of State,,R,Warren ,Jett,281
+Jennifer Riley Collins,Attorney General,,D,Warren ,Jett,469
+Lynn Fitch,Attorney General,,R,Warren ,Jett,284
+Shad White,State Auditor,,R,Warren ,Jett,492
+Addie Lee Green,State Treasurer,,D,Warren ,Jett,435
+David McRae,State Treasurer,,R,Warren ,Jett,312
+Rickey L Cole,Commissioner of Agriculture & Commerce,,D,Warren ,Jett,452
+Andy Gipson,Commissioner of Agriculture & Commerce,,R,Warren ,Jett,290
+Briggs Hopson,State Senate,23,R,Warren ,Jett,519
+Kevin Ford,State House,54,R,Warren ,Jett,x
+Oscar Denton,State House,55,D,Warren ,Jett,613
+Stephanie McKenzie Foster,State House,63,D,Warren ,Jett,x
+Jeffery Harness,State House,85,D,Warren ,Jett,x
+Jim Hood,Governor,,D,Warren ,Goodrum,170
+Tate Reeves,Governor,,R,Warren ,Goodrum,370
+Bob Hickingbottom,Governor,,C,Warren ,Goodrum,0
+David R Singletary,Governor,,IND,Warren ,Goodrum,10
+Delbert Hosemann,Lieutenant Governor,,R,Warren ,Goodrum,415
+Jay Hughes,Lieutenant Governor,,D,Warren ,Goodrum,131
+Johnny DuPree,Secretary of State,,D,Warren ,Goodrum,141
+Michael Watson,Secretary of State,,R,Warren ,Goodrum,394
+Jennifer Riley Collins,Attorney General,,D,Warren ,Goodrum,161
+Lynn Fitch,Attorney General,,R,Warren ,Goodrum,386
+Shad White,State Auditor,,R,Warren ,Goodrum,455
+Addie Lee Green,State Treasurer,,D,Warren ,Goodrum,137
+David McRae,State Treasurer,,R,Warren ,Goodrum,404
+Rickey L Cole,Commissioner of Agriculture & Commerce,,D,Warren ,Goodrum,147
+Andy Gipson,Commissioner of Agriculture & Commerce,,R,Warren ,Goodrum,390
+Briggs Hopson,State Senate,23,R,Warren ,Goodrum,473
+Kevin Ford,State House,54,R,Warren ,Goodrum,x
+Oscar Denton,State House,55,D,Warren ,Goodrum,x
+Stephanie McKenzie Foster,State House,63,D,Warren ,Goodrum,x
+Jeffery Harness,State House,85,D,Warren ,Goodrum,368
+Jim Hood,Governor,,D,Warren ,Yokena,116
+Tate Reeves,Governor,,R,Warren ,Yokena,246
+Bob Hickingbottom,Governor,,C,Warren ,Yokena,0
+David R Singletary,Governor,,IND,Warren ,Yokena,2
+Delbert Hosemann,Lieutenant Governor,,R,Warren ,Yokena,265
+Jay Hughes,Lieutenant Governor,,D,Warren ,Yokena,95
+Johnny DuPree,Secretary of State,,D,Warren ,Yokena,111
+Michael Watson,Secretary of State,,R,Warren ,Yokena,245
+Jennifer Riley Collins,Attorney General,,D,Warren ,Yokena,115
+Lynn Fitch,Attorney General,,R,Warren ,Yokena,247
+Shad White,State Auditor,,R,Warren ,Yokena,293
+Addie Lee Green,State Treasurer,,D,Warren ,Yokena,104
+David McRae,State Treasurer,,R,Warren ,Yokena,259
+Rickey L Cole,Commissioner of Agriculture & Commerce,,D,Warren ,Yokena,112
+Andy Gipson,Commissioner of Agriculture & Commerce,,R,Warren ,Yokena,244
+Briggs Hopson,State Senate,23,R,Warren ,Yokena,308
+Kevin Ford,State House,54,R,Warren ,Yokena,x
+Oscar Denton,State House,55,D,Warren ,Yokena,x
+Stephanie McKenzie Foster,State House,63,D,Warren ,Yokena,x
+Jeffery Harness,State House,85,D,Warren ,Yokena,239
+Jim Hood,Governor,,D,Warren ,Elks Lodge,472
+Tate Reeves,Governor,,R,Warren ,Elks Lodge,340
+Bob Hickingbottom,Governor,,C,Warren ,Elks Lodge,2
+David R Singletary,Governor,,IND,Warren ,Elks Lodge,5
+Delbert Hosemann,Lieutenant Governor,,R,Warren ,Elks Lodge,452
+Jay Hughes,Lieutenant Governor,,D,Warren ,Elks Lodge,362
+Johnny DuPree,Secretary of State,,D,Warren ,Elks Lodge,412
+Michael Watson,Secretary of State,,R,Warren ,Elks Lodge,401
+Jennifer Riley Collins,Attorney General,,D,Warren ,Elks Lodge,434
+Lynn Fitch,Attorney General,,R,Warren ,Elks Lodge,383
+Shad White,State Auditor,,R,Warren ,Elks Lodge,599
+Addie Lee Green,State Treasurer,,D,Warren ,Elks Lodge,396
+David McRae,State Treasurer,,R,Warren ,Elks Lodge,419
+Rickey L Cole,Commissioner of Agriculture & Commerce,,D,Warren ,Elks Lodge,415
+Andy Gipson,Commissioner of Agriculture & Commerce,,R,Warren ,Elks Lodge,396
+Briggs Hopson,State Senate,23,R,Warren ,Elks Lodge,627
+Kevin Ford,State House,54,R,Warren ,Elks Lodge,x
+Oscar Denton,State House,55,D,Warren ,Elks Lodge,692
+Stephanie McKenzie Foster,State House,63,D,Warren ,Elks Lodge,x
+Jeffery Harness,State House,85,D,Warren ,Elks Lodge,x
+Jim Hood,Governor,,D,Warren ,Beechwood,350
+Tate Reeves,Governor,,R,Warren ,Beechwood,709
+Bob Hickingbottom,Governor,,C,Warren ,Beechwood,3
+David R Singletary,Governor,,IND,Warren ,Beechwood,17
+Delbert Hosemann,Lieutenant Governor,,R,Warren ,Beechwood,878
+Jay Hughes,Lieutenant Governor,,D,Warren ,Beechwood,202
+Johnny DuPree,Secretary of State,,D,Warren ,Beechwood,261
+Michael Watson,Secretary of State,,R,Warren ,Beechwood,805
+Jennifer Riley Collins,Attorney General,,D,Warren ,Beechwood,272
+Lynn Fitch,Attorney General,,R,Warren ,Beechwood,805
+Shad White,State Auditor,,R,Warren ,Beechwood,939
+Addie Lee Green,State Treasurer,,D,Warren ,Beechwood,219
+David McRae,State Treasurer,,R,Warren ,Beechwood,847
+Rickey L Cole,Commissioner of Agriculture & Commerce,,D,Warren ,Beechwood,264
+Andy Gipson,Commissioner of Agriculture & Commerce,,R,Warren ,Beechwood,799
+Briggs Hopson,State Senate,23,R,Warren ,Beechwood,972
+Kevin Ford,State House,54,R,Warren ,Beechwood,956
+Oscar Denton,State House,55,D,Warren ,Beechwood,x
+Stephanie McKenzie Foster,State House,63,D,Warren ,Beechwood,x
+Jeffery Harness,State House,85,D,Warren ,Beechwood,x
+Jim Hood,Governor,,D,Warren ,Moose Lodge,262
+Tate Reeves,Governor,,R,Warren ,Moose Lodge,500
+Bob Hickingbottom,Governor,,C,Warren ,Moose Lodge,5
+David R Singletary,Governor,,IND,Warren ,Moose Lodge,4
+Delbert Hosemann,Lieutenant Governor,,R,Warren ,Moose Lodge,590
+Jay Hughes,Lieutenant Governor,,D,Warren ,Moose Lodge,178
+Johnny DuPree,Secretary of State,,D,Warren ,Moose Lodge,215
+Michael Watson,Secretary of State,,R,Warren ,Moose Lodge,549
+Jennifer Riley Collins,Attorney General,,D,Warren ,Moose Lodge,226
+Lynn Fitch,Attorney General,,R,Warren ,Moose Lodge,540
+Shad White,State Auditor,,R,Warren ,Moose Lodge,654
+Addie Lee Green,State Treasurer,,D,Warren ,Moose Lodge,196
+David McRae,State Treasurer,,R,Warren ,Moose Lodge,570
+Rickey L Cole,Commissioner of Agriculture & Commerce,,D,Warren ,Moose Lodge,208
+Andy Gipson,Commissioner of Agriculture & Commerce,,R,Warren ,Moose Lodge,552
+Briggs Hopson,State Senate,23,R,Warren ,Moose Lodge,671
+Kevin Ford,State House,54,R,Warren ,Moose Lodge,x
+Oscar Denton,State House,55,D,Warren ,Moose Lodge,x
+Stephanie McKenzie Foster,State House,63,D,Warren ,Moose Lodge,x
+Jeffery Harness,State House,85,D,Warren ,Moose Lodge,502
+Jim Hood,Governor,,D,Warren ,Tingleville,302
+Tate Reeves,Governor,,R,Warren ,Tingleville,215
+Bob Hickingbottom,Governor,,C,Warren ,Tingleville,3
+David R Singletary,Governor,,IND,Warren ,Tingleville,7
+Delbert Hosemann,Lieutenant Governor,,R,Warren ,Tingleville,266
+Jay Hughes,Lieutenant Governor,,D,Warren ,Tingleville,254
+Johnny DuPree,Secretary of State,,D,Warren ,Tingleville,286
+Michael Watson,Secretary of State,,R,Warren ,Tingleville,232
+Jennifer Riley Collins,Attorney General,,D,Warren ,Tingleville,293
+Lynn Fitch,Attorney General,,R,Warren ,Tingleville,233
+Shad White,State Auditor,,R,Warren ,Tingleville,354
+Addie Lee Green,State Treasurer,,D,Warren ,Tingleville,276
+David McRae,State Treasurer,,R,Warren ,Tingleville,247
+Rickey L Cole,Commissioner of Agriculture & Commerce,,D,Warren ,Tingleville,285
+Andy Gipson,Commissioner of Agriculture & Commerce,,R,Warren ,Tingleville,236
+Briggs Hopson,State Senate,23,R,Warren ,Tingleville,365
+Kevin Ford,State House,54,R,Warren ,Tingleville,x
+Oscar Denton,State House,55,D,Warren ,Tingleville,x
+Stephanie McKenzie Foster,State House,63,D,Warren ,Tingleville,406
+Jeffery Harness,State House,85,D,Warren ,Tingleville,x
+Jim Hood,Governor,,D,Warren ,Lee Road,232
+Tate Reeves,Governor,,R,Warren ,Lee Road,93
+Bob Hickingbottom,Governor,,C,Warren ,Lee Road,2
+David R Singletary,Governor,,IND,Warren ,Lee Road,1
+Delbert Hosemann,Lieutenant Governor,,R,Warren ,Lee Road,129
+Jay Hughes,Lieutenant Governor,,D,Warren ,Lee Road,192
+Johnny DuPree,Secretary of State,,D,Warren ,Lee Road,213
+Michael Watson,Secretary of State,,R,Warren ,Lee Road,107
+Jennifer Riley Collins,Attorney General,,D,Warren ,Lee Road,220
+Lynn Fitch,Attorney General,,R,Warren ,Lee Road,108
+Shad White,State Auditor,,R,Warren ,Lee Road,199
+Addie Lee Green,State Treasurer,,D,Warren ,Lee Road,205
+David McRae,State Treasurer,,R,Warren ,Lee Road,120
+Rickey L Cole,Commissioner of Agriculture & Commerce,,D,Warren ,Lee Road,213
+Andy Gipson,Commissioner of Agriculture & Commerce,,R,Warren ,Lee Road,109
+Briggs Hopson,State Senate,23,R,Warren ,Lee Road,204
+Kevin Ford,State House,54,R,Warren ,Lee Road,79
+Oscar Denton,State House,55,D,Warren ,Lee Road,226
+Stephanie McKenzie Foster,State House,63,D,Warren ,Lee Road,x
+Jeffery Harness,State House,85,D,Warren ,Lee Road,x
+Jim Hood,Governor,,D,Warren ,Plumbers & Pipefitters,310
+Tate Reeves,Governor,,R,Warren ,Plumbers & Pipefitters,351
+Bob Hickingbottom,Governor,,C,Warren ,Plumbers & Pipefitters,2
+David R Singletary,Governor,,IND,Warren ,Plumbers & Pipefitters,2
+Delbert Hosemann,Lieutenant Governor,,R,Warren ,Plumbers & Pipefitters,435
+Jay Hughes,Lieutenant Governor,,D,Warren ,Plumbers & Pipefitters,224
+Johnny DuPree,Secretary of State,,D,Warren ,Plumbers & Pipefitters,270
+Michael Watson,Secretary of State,,R,Warren ,Plumbers & Pipefitters,381
+Jennifer Riley Collins,Attorney General,,D,Warren ,Plumbers & Pipefitters,280
+Lynn Fitch,Attorney General,,R,Warren ,Plumbers & Pipefitters,380
+Shad White,State Auditor,,R,Warren ,Plumbers & Pipefitters,518
+Addie Lee Green,State Treasurer,,D,Warren ,Plumbers & Pipefitters,254
+David McRae,State Treasurer,,R,Warren ,Plumbers & Pipefitters,406
+Rickey L Cole,Commissioner of Agriculture & Commerce,,D,Warren ,Plumbers & Pipefitters,264
+Andy Gipson,Commissioner of Agriculture & Commerce,,R,Warren ,Plumbers & Pipefitters,390
+Briggs Hopson,State Senate,23,R,Warren ,Plumbers & Pipefitters,534
+Kevin Ford,State House,54,R,Warren ,Plumbers & Pipefitters,514
+Oscar Denton,State House,55,D,Warren ,Plumbers & Pipefitters,x
+Stephanie McKenzie Foster,State House,63,D,Warren ,Plumbers & Pipefitters,x
+Jeffery Harness,State House,85,D,Warren ,Plumbers & Pipefitters,x
+Jim Hood,Governor,,D,Warren ,YMCA,171
+Tate Reeves,Governor,,R,Warren ,YMCA,209
+Bob Hickingbottom,Governor,,C,Warren ,YMCA,0
+David R Singletary,Governor,,IND,Warren ,YMCA,0
+Delbert Hosemann,Lieutenant Governor,,R,Warren ,YMCA,246
+Jay Hughes,Lieutenant Governor,,D,Warren ,YMCA,130
+Johnny DuPree,Secretary of State,,D,Warren ,YMCA,134
+Michael Watson,Secretary of State,,R,Warren ,YMCA,234
+Jennifer Riley Collins,Attorney General,,D,Warren ,YMCA,146
+Lynn Fitch,Attorney General,,R,Warren ,YMCA,231
+Shad White,State Auditor,,R,Warren ,YMCA,296
+Addie Lee Green,State Treasurer,,D,Warren ,YMCA,127
+David McRae,State Treasurer,,R,Warren ,YMCA,247
+Rickey L Cole,Commissioner of Agriculture & Commerce,,D,Warren ,YMCA,142
+Andy Gipson,Commissioner of Agriculture & Commerce,,R,Warren ,YMCA,232
+Briggs Hopson,State Senate,23,R,Warren ,YMCA,308
+Kevin Ford,State House,54,R,Warren ,YMCA,x
+Oscar Denton,State House,55,D,Warren ,YMCA,275
+Stephanie McKenzie Foster,State House,63,D,Warren ,YMCA,x
+Jeffery Harness,State House,85,D,Warren ,YMCA,x
+Jim Hood,Governor,,D,Warren ,TOTAL ,7438
+Tate Reeves,Governor,,R,Warren ,TOTAL ,6709
+Bob Hickingbottom,Governor,,C,Warren ,TOTAL ,37
+David R Singletary,Governor,,IND,Warren ,TOTAL ,139
+Delbert Hosemann,Lieutenant Governor,,R,Warren ,TOTAL ,8441
+Jay Hughes,Lieutenant Governor,,D,Warren ,TOTAL ,5742
+Johnny DuPree,Secretary of State,,D,Warren ,TOTAL ,6532
+Michael Watson,Secretary of State,,R,Warren ,TOTAL ,7491
+Jennifer Riley Collins,Attorney General,,D,Warren ,TOTAL ,6850
+Lynn Fitch,Attorney General,,R,Warren ,TOTAL ,7408
+Shad White,State Auditor,,R,Warren ,TOTAL ,10420
+Addie Lee Green,State Treasurer,,D,Warren ,TOTAL ,6234
+David McRae,State Treasurer,,R,Warren ,TOTAL ,7904
+Rickey L Cole,Commissioner of Agriculture & Commerce,,D,Warren ,TOTAL ,6571
+Andy Gipson,Commissioner of Agriculture & Commerce,,R,Warren ,TOTAL ,7475
+Briggs Hopson,State Senate,23,R,Warren ,TOTAL ,10857
+Kevin Ford,State House,54,R,Warren ,TOTAL ,4946
+Oscar Denton,State House,55,D,Warren ,TOTAL ,5386
+Stephanie McKenzie Foster,State House,63,D,Warren ,TOTAL ,406
+Jeffery Harness,State House,85,D,Warren ,TOTAL ,1109
+Robert E. Amos,Commissioner of Insurance,,D,Warren ,Redwood,21
+Mike Chaney,Commissioner of Insurance,,R,Warren ,Redwood,188
+Robert E. Amos,Commissioner of Insurance,,D,Warren ,Bovina,140
+Mike Chaney,Commissioner of Insurance,,R,Warren ,Bovina,594
+Robert E. Amos,Commissioner of Insurance,,D,Warren ,Culkin,483
+Mike Chaney,Commissioner of Insurance,,R,Warren ,Culkin,1511
+Robert E. Amos,Commissioner of Insurance,,D,Warren ,Oakland,80
+Mike Chaney,Commissioner of Insurance,,R,Warren ,Oakland,508
+Robert E. Amos,Commissioner of Insurance,,D,Warren ,Cedar Grove,538
+Mike Chaney,Commissioner of Insurance,,R,Warren ,Cedar Grove,196
+Robert E. Amos,Commissioner of Insurance,,D,Warren ,Kiings ,258
+Mike Chaney,Commissioner of Insurance,,R,Warren ,Kiings ,238
+Robert E. Amos,Commissioner of Insurance,,D,Warren ,St Aloysius,140
+Mike Chaney,Commissioner of Insurance,,R,Warren ,St Aloysius,23
+Robert E. Amos,Commissioner of Insurance,,D,Warren ,Auditorium,435
+Mike Chaney,Commissioner of Insurance,,R,Warren ,Auditorium,139
+Robert E. Amos,Commissioner of Insurance,,D,Warren ,Brunswick,14
+Mike Chaney,Commissioner of Insurance,,R,Warren ,Brunswick,185
+Robert E. Amos,Commissioner of Insurance,,D,Warren ,3~61,33
+Mike Chaney,Commissioner of Insurance,,R,Warren ,3~61,68
+Robert E. Amos,Commissioner of Insurance,,D,Warren ,American Legion Post,489
+Mike Chaney,Commissioner of Insurance,,R,Warren ,American Legion Post,222
+Robert E. Amos,Commissioner of Insurance,,D,Warren ,Cherry Street,528
+Mike Chaney,Commissioner of Insurance,,R,Warren ,Cherry Street,340
+Robert E. Amos,Commissioner of Insurance,,D,Warren ,No. 7 Fire Station ,410
+Mike Chaney,Commissioner of Insurance,,R,Warren ,No. 7 Fire Station ,193
+Robert E. Amos,Commissioner of Insurance,,D,Warren ,Jett,411
+Mike Chaney,Commissioner of Insurance,,R,Warren ,Jett,336
+Robert E. Amos,Commissioner of Insurance,,D,Warren ,Goodrum,132
+Mike Chaney,Commissioner of Insurance,,R,Warren ,Goodrum,413
+Robert E. Amos,Commissioner of Insurance,,D,Warren ,Yokena,97
+Mike Chaney,Commissioner of Insurance,,R,Warren ,Yokena,265
+Robert E. Amos,Commissioner of Insurance,,D,Warren ,Elks Lodge,360
+Mike Chaney,Commissioner of Insurance,,R,Warren ,Elks Lodge,457
+Robert E. Amos,Commissioner of Insurance,,D,Warren ,Beechwood,185
+Mike Chaney,Commissioner of Insurance,,R,Warren ,Beechwood,892
+Robert E. Amos,Commissioner of Insurance,,D,Warren ,Moose Lodge,169
+Mike Chaney,Commissioner of Insurance,,R,Warren ,Moose Lodge,597
+Robert E. Amos,Commissioner of Insurance,,D,Warren ,Tingleville,261
+Mike Chaney,Commissioner of Insurance,,R,Warren ,Tingleville,261
+Robert E. Amos,Commissioner of Insurance,,D,Warren ,Lee Road,196
+Mike Chaney,Commissioner of Insurance,,R,Warren ,Lee Road,126
+Robert E. Amos,Commissioner of Insurance,,D,Warren ,Plumbers & Pipefitters,223
+Mike Chaney,Commissioner of Insurance,,R,Warren ,Plumbers & Pipefitters,440
+Robert E. Amos,Commissioner of Insurance,,D,Warren ,YMCA,121
+Mike Chaney,Commissioner of Insurance,,R,Warren ,YMCA,256
+Robert E. Amos,Commissioner of Insurance,,D,Warren ,TOTAL ,5724
+Mike Chaney,Commissioner of Insurance,,R,Warren ,TOTAL ,8448

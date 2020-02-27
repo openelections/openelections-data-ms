@@ -1,438 +1,484 @@
-﻿page,candidate,office,district,party,county,precinct,votes
-2,Jim Hood,Governor,,D,Marion,Balls Mill,112
-2,Tate Reeves,Governor,,R,Marion,Balls Mill,295
-2,Bob Hickingbottom,Governor,,C,Marion,Balls Mill,1
-2,David R Singletary,Governor,,IND,Marion,Balls Mill,2
-2,Delbert Hosemann,Lieutenant Governor,,R,Marion,Balls Mill,315
-2,Jay Hughes,Lieutenant Governor,,D,Marion,Balls Mill,96
-2,Johnny DuPree,Secretary of State,,D,Marion,Balls Mill,95
-2,Michael Watson,Secretary of State,,R,Marion,Balls Mill,311
-2,Jennifer Riley Collins,Attorney General,,D,Marion,Balls Mill,94
-2,Lynn Fitch,Attorney General,,R,Marion,Balls Mill,310
-2,Shad White,State Auditor,,R,Marion,Balls Mill,341
-5,Addie Lee Green,State Treasurer,,D,Marion,Balls Mill,95
-5,David McRae,State Treasurer,,R,Marion,Balls Mill,308
-5,Rickey L Cole,Commissioner of Agriculture & Commerce,,D,Marion,Balls Mill,100
-5,Andy Gipson,Commissioner of Agriculture & Commerce,,R,Marion,Balls Mill,303
-8,Angela Burks Hill,State Senate,40,R,Marion,Balls Mill,314
-8,Thomas Lehr,State Senate,40,D,Marion,Balls Mill,89
-8,Bill Pigott,State House,99,R,Marion,Balls Mill,344
-8,Ken Morgan,State House,100,R,Marion,Balls Mill,x
-2,Jim Hood,Governor,,D,Marion,Carley,54
-2,Tate Reeves,Governor,,R,Marion,Carley,519
-2,Bob Hickingbottom,Governor,,C,Marion,Carley,3
-2,David R Singletary,Governor,,IND,Marion,Carley,7
-2,Delbert Hosemann,Lieutenant Governor,,R,Marion,Carley,537
-2,Jay Hughes,Lieutenant Governor,,D,Marion,Carley,42
-2,Johnny DuPree,Secretary of State,,D,Marion,Carley,38
-2,Michael Watson,Secretary of State,,R,Marion,Carley,540
-2,Jennifer Riley Collins,Attorney General,,D,Marion,Carley,43
-2,Lynn Fitch,Attorney General,,R,Marion,Carley,534
-2,Shad White,State Auditor,,R,Marion,Carley,558
-5,Addie Lee Green,State Treasurer,,D,Marion,Carley,33
-5,David McRae,State Treasurer,,R,Marion,Carley,543
-5,Rickey L Cole,Commissioner of Agriculture & Commerce,,D,Marion,Carley,42
-5,Andy Gipson,Commissioner of Agriculture & Commerce,,R,Marion,Carley,535
-8,Angela Burks Hill,State Senate,40,R,Marion,Carley,542
-8,Thomas Lehr,State Senate,40,D,Marion,Carley,39
-8,Bill Pigott,State House,99,R,Marion,Carley,x
-8,Ken Morgan,State House,100,R,Marion,Carley,564
-2,Jim Hood,Governor,,D,Marion,Cedar Grove,105
-2,Tate Reeves,Governor,,R,Marion,Cedar Grove,195
-2,Bob Hickingbottom,Governor,,C,Marion,Cedar Grove,1
-2,David R Singletary,Governor,,IND,Marion,Cedar Grove,1
-2,Delbert Hosemann,Lieutenant Governor,,R,Marion,Cedar Grove,209
-2,Jay Hughes,Lieutenant Governor,,D,Marion,Cedar Grove,91
-2,Johnny DuPree,Secretary of State,,D,Marion,Cedar Grove,94
-2,Michael Watson,Secretary of State,,R,Marion,Cedar Grove,206
-2,Jennifer Riley Collins,Attorney General,,D,Marion,Cedar Grove,92
-2,Lynn Fitch,Attorney General,,R,Marion,Cedar Grove,209
-2,Shad White,State Auditor,,R,Marion,Cedar Grove,262
-5,Addie Lee Green,State Treasurer,,D,Marion,Cedar Grove,93
-5,David McRae,State Treasurer,,R,Marion,Cedar Grove,207
-5,Rickey L Cole,Commissioner of Agriculture & Commerce,,D,Marion,Cedar Grove,97
-5,Andy Gipson,Commissioner of Agriculture & Commerce,,R,Marion,Cedar Grove,204
-8,Angela Burks Hill,State Senate,40,R,Marion,Cedar Grove,214
-8,Thomas Lehr,State Senate,40,D,Marion,Cedar Grove,85
-8,Bill Pigott,State House,99,R,Marion,Cedar Grove,x
-8,Ken Morgan,State House,100,R,Marion,Cedar Grove,268
-2,Jim Hood,Governor,,D,Marion,City Hall,102
-2,Tate Reeves,Governor,,R,Marion,City Hall,90
-2,Bob Hickingbottom,Governor,,C,Marion,City Hall,0
-2,David R Singletary,Governor,,IND,Marion,City Hall,1
-2,Delbert Hosemann,Lieutenant Governor,,R,Marion,City Hall,95
-2,Jay Hughes,Lieutenant Governor,,D,Marion,City Hall,93
-2,Johnny DuPree,Secretary of State,,D,Marion,City Hall,92
-2,Michael Watson,Secretary of State,,R,Marion,City Hall,97
-2,Jennifer Riley Collins,Attorney General,,D,Marion,City Hall,94
-2,Lynn Fitch,Attorney General,,R,Marion,City Hall,95
-2,Shad White,State Auditor,,R,Marion,City Hall,125
-5,Addie Lee Green,State Treasurer,,D,Marion,City Hall,90
-5,David McRae,State Treasurer,,R,Marion,City Hall,97
-5,Rickey L Cole,Commissioner of Agriculture & Commerce,,D,Marion,City Hall,88
-5,Andy Gipson,Commissioner of Agriculture & Commerce,,R,Marion,City Hall,102
-8,Angela Burks Hill,State Senate,40,R,Marion,City Hall,95
-8,Thomas Lehr,State Senate,40,D,Marion,City Hall,94
-8,Bill Pigott,State House,99,R,Marion,City Hall,x
-8,Ken Morgan,State House,100,R,Marion,City Hall,131
-2,Jim Hood,Governor,,D,Marion,Courthouse,138
-2,Tate Reeves,Governor,,R,Marion,Courthouse,198
-2,Bob Hickingbottom,Governor,,C,Marion,Courthouse,1
-2,David R Singletary,Governor,,IND,Marion,Courthouse,10
-2,Delbert Hosemann,Lieutenant Governor,,R,Marion,Courthouse,239
-2,Jay Hughes,Lieutenant Governor,,D,Marion,Courthouse,108
-2,Johnny DuPree,Secretary of State,,D,Marion,Courthouse,103
-2,Michael Watson,Secretary of State,,R,Marion,Courthouse,239
-2,Jennifer Riley Collins,Attorney General,,D,Marion,Courthouse,114
-2,Lynn Fitch,Attorney General,,R,Marion,Courthouse,233
-2,Shad White,State Auditor,,R,Marion,Courthouse,286
-5,Addie Lee Green,State Treasurer,,D,Marion,Courthouse,103
-5,David McRae,State Treasurer,,R,Marion,Courthouse,240
-5,Rickey L Cole,Commissioner of Agriculture & Commerce,,D,Marion,Courthouse,108
-5,Andy Gipson,Commissioner of Agriculture & Commerce,,R,Marion,Courthouse,231
-8,Angela Burks Hill,State Senate,40,R,Marion,Courthouse,233
-8,Thomas Lehr,State Senate,40,D,Marion,Courthouse,108
-8,Bill Pigott,State House,99,R,Marion,Courthouse,x
-8,Ken Morgan,State House,100,R,Marion,Courthouse,292
-2,Jim Hood,Governor,,D,Marion,Darbun,36
-2,Tate Reeves,Governor,,R,Marion,Darbun,161
-2,Bob Hickingbottom,Governor,,C,Marion,Darbun,0
-2,David R Singletary,Governor,,IND,Marion,Darbun,1
-2,Delbert Hosemann,Lieutenant Governor,,R,Marion,Darbun,164
-2,Jay Hughes,Lieutenant Governor,,D,Marion,Darbun,35
-2,Johnny DuPree,Secretary of State,,D,Marion,Darbun,35
-2,Michael Watson,Secretary of State,,R,Marion,Darbun,165
-2,Jennifer Riley Collins,Attorney General,,D,Marion,Darbun,36
-2,Lynn Fitch,Attorney General,,R,Marion,Darbun,163
-2,Shad White,State Auditor,,R,Marion,Darbun,166
-5,Addie Lee Green,State Treasurer,,D,Marion,Darbun,35
-5,David McRae,State Treasurer,,R,Marion,Darbun,165
-5,Rickey L Cole,Commissioner of Agriculture & Commerce,,D,Marion,Darbun,35
-5,Andy Gipson,Commissioner of Agriculture & Commerce,,R,Marion,Darbun,163
-8,Angela Burks Hill,State Senate,40,R,Marion,Darbun,166
-8,Thomas Lehr,State Senate,40,D,Marion,Darbun,32
-8,Bill Pigott,State House,99,R,Marion,Darbun,x
-8,Ken Morgan,State House,100,R,Marion,Darbun,172
-2,Jim Hood,Governor,,D,Marion,East Columbia,546
-2,Tate Reeves,Governor,,R,Marion,East Columbia,170
-2,Bob Hickingbottom,Governor,,C,Marion,East Columbia,5
-2,David R Singletary,Governor,,IND,Marion,East Columbia,3
-2,Delbert Hosemann,Lieutenant Governor,,R,Marion,East Columbia,206
-2,Jay Hughes,Lieutenant Governor,,D,Marion,East Columbia,505
-2,Johnny DuPree,Secretary of State,,D,Marion,East Columbia,537
-2,Michael Watson,Secretary of State,,R,Marion,East Columbia,183
-2,Jennifer Riley Collins,Attorney General,,D,Marion,East Columbia,533
-2,Lynn Fitch,Attorney General,,R,Marion,East Columbia,187
-2,Shad White,State Auditor,,R,Marion,East Columbia,430
-5,Addie Lee Green,State Treasurer,,D,Marion,East Columbia,518
-5,David McRae,State Treasurer,,R,Marion,East Columbia,204
-5,Rickey L Cole,Commissioner of Agriculture & Commerce,,D,Marion,East Columbia,516
-5,Andy Gipson,Commissioner of Agriculture & Commerce,,R,Marion,East Columbia,198
-8,Angela Burks Hill,State Senate,40,R,Marion,East Columbia,215
-8,Thomas Lehr,State Senate,40,D,Marion,East Columbia,497
-8,Bill Pigott,State House,99,R,Marion,East Columbia,x
-8,Ken Morgan,State House,100,R,Marion,East Columbia,430
-2,Jim Hood,Governor,,D,Marion,Foxworth,239
-2,Tate Reeves,Governor,,R,Marion,Foxworth,379
-2,Bob Hickingbottom,Governor,,C,Marion,Foxworth,0
-2,David R Singletary,Governor,,IND,Marion,Foxworth,6
-2,Delbert Hosemann,Lieutenant Governor,,R,Marion,Foxworth,391
-2,Jay Hughes,Lieutenant Governor,,D,Marion,Foxworth,228
-2,Johnny DuPree,Secretary of State,,D,Marion,Foxworth,236
-2,Michael Watson,Secretary of State,,R,Marion,Foxworth,385
-2,Jennifer Riley Collins,Attorney General,,D,Marion,Foxworth,226
-2,Lynn Fitch,Attorney General,,R,Marion,Foxworth,394
-2,Shad White,State Auditor,,R,Marion,Foxworth,499
-5,Addie Lee Green,State Treasurer,,D,Marion,Foxworth,224
-5,David McRae,State Treasurer,,R,Marion,Foxworth,393
-5,Rickey L Cole,Commissioner of Agriculture & Commerce,,D,Marion,Foxworth,237
-5,Andy Gipson,Commissioner of Agriculture & Commerce,,R,Marion,Foxworth,381
-8,Angela Burks Hill,State Senate,40,R,Marion,Foxworth,396
-8,Thomas Lehr,State Senate,40,D,Marion,Foxworth,227
-8,Bill Pigott,State House,99,R,Marion,Foxworth,508
-8,Ken Morgan,State House,100,R,Marion,Foxworth,x
-2,Jim Hood,Governor,,D,Marion,Goss,58
-2,Tate Reeves,Governor,,R,Marion,Goss,246
-2,Bob Hickingbottom,Governor,,C,Marion,Goss,0
-2,David R Singletary,Governor,,IND,Marion,Goss,2
-2,Delbert Hosemann,Lieutenant Governor,,R,Marion,Goss,259
-2,Jay Hughes,Lieutenant Governor,,D,Marion,Goss,46
-2,Johnny DuPree,Secretary of State,,D,Marion,Goss,49
-2,Michael Watson,Secretary of State,,R,Marion,Goss,256
-2,Jennifer Riley Collins,Attorney General,,D,Marion,Goss,46
-2,Lynn Fitch,Attorney General,,R,Marion,Goss,261
-2,Shad White,State Auditor,,R,Marion,Goss,272
-5,Addie Lee Green,State Treasurer,,D,Marion,Goss,41
-5,David McRae,State Treasurer,,R,Marion,Goss,263
-5,Rickey L Cole,Commissioner of Agriculture & Commerce,,D,Marion,Goss,52
-5,Andy Gipson,Commissioner of Agriculture & Commerce,,R,Marion,Goss,252
-8,Angela Burks Hill,State Senate,40,R,Marion,Goss,267
-8,Thomas Lehr,State Senate,40,D,Marion,Goss,35
-8,Bill Pigott,State House,99,R,Marion,Goss,x
-8,Ken Morgan,State House,100,R,Marion,Goss,277
-2,Jim Hood,Governor,,D,Marion,Hub,179
-2,Tate Reeves,Governor,,R,Marion,Hub,117
-2,Bob Hickingbottom,Governor,,C,Marion,Hub,1
-2,David R Singletary,Governor,,IND,Marion,Hub,5
-2,Delbert Hosemann,Lieutenant Governor,,R,Marion,Hub,127
-2,Jay Hughes,Lieutenant Governor,,D,Marion,Hub,172
-2,Johnny DuPree,Secretary of State,,D,Marion,Hub,169
-2,Michael Watson,Secretary of State,,R,Marion,Hub,131
-2,Jennifer Riley Collins,Attorney General,,D,Marion,Hub,174
-2,Lynn Fitch,Attorney General,,R,Marion,Hub,127
-2,Shad White,State Auditor,,R,Marion,Hub,202
-5,Addie Lee Green,State Treasurer,,D,Marion,Hub,173
-5,David McRae,State Treasurer,,R,Marion,Hub,129
-5,Rickey L Cole,Commissioner of Agriculture & Commerce,,D,Marion,Hub,172
-5,Andy Gipson,Commissioner of Agriculture & Commerce,,R,Marion,Hub,129
-8,Angela Burks Hill,State Senate,40,R,Marion,Hub,137
-8,Thomas Lehr,State Senate,40,D,Marion,Hub,161
-8,Bill Pigott,State House,99,R,Marion,Hub,x
-8,Ken Morgan,State House,100,R,Marion,Hub,209
-2,Jim Hood,Governor,,D,Marion,Jefferson School,135
-2,Tate Reeves,Governor,,R,Marion,Jefferson School,4
-2,Bob Hickingbottom,Governor,,C,Marion,Jefferson School,0
-2,David R Singletary,Governor,,IND,Marion,Jefferson School,1
-2,Delbert Hosemann,Lieutenant Governor,,R,Marion,Jefferson School,15
-2,Jay Hughes,Lieutenant Governor,,D,Marion,Jefferson School,119
-2,Johnny DuPree,Secretary of State,,D,Marion,Jefferson School,131
-2,Michael Watson,Secretary of State,,R,Marion,Jefferson School,7
-2,Jennifer Riley Collins,Attorney General,,D,Marion,Jefferson School,130
-2,Lynn Fitch,Attorney General,,R,Marion,Jefferson School,6
-2,Shad White,State Auditor,,R,Marion,Jefferson School,61
-5,Addie Lee Green,State Treasurer,,D,Marion,Jefferson School,131
-5,David McRae,State Treasurer,,R,Marion,Jefferson School,5
-5,Rickey L Cole,Commissioner of Agriculture & Commerce,,D,Marion,Jefferson School,129
-5,Andy Gipson,Commissioner of Agriculture & Commerce,,R,Marion,Jefferson School,4
-8,Angela Burks Hill,State Senate,40,R,Marion,Jefferson School,13
-8,Thomas Lehr,State Senate,40,D,Marion,Jefferson School,120
-8,Bill Pigott,State House,99,R,Marion,Jefferson School,x
-8,Ken Morgan,State House,100,R,Marion,Jefferson School,64
-3,Jim Hood,Governor,,D,Marion,Kokomo,109
-3,Tate Reeves,Governor,,R,Marion,Kokomo,240
-3,Bob Hickingbottom,Governor,,C,Marion,Kokomo,1
-3,David R Singletary,Governor,,IND,Marion,Kokomo,4
-3,Delbert Hosemann,Lieutenant Governor,,R,Marion,Kokomo,256
-3,Jay Hughes,Lieutenant Governor,,D,Marion,Kokomo,91
-3,Johnny DuPree,Secretary of State,,D,Marion,Kokomo,93
-3,Michael Watson,Secretary of State,,R,Marion,Kokomo,258
-3,Jennifer Riley Collins,Attorney General,,D,Marion,Kokomo,98
-3,Lynn Fitch,Attorney General,,R,Marion,Kokomo,252
-3,Shad White,State Auditor,,R,Marion,Kokomo,284
-6,Addie Lee Green,State Treasurer,,D,Marion,Kokomo,99
-6,David McRae,State Treasurer,,R,Marion,Kokomo,250
-6,Rickey L Cole,Commissioner of Agriculture & Commerce,,D,Marion,Kokomo,97
-6,Andy Gipson,Commissioner of Agriculture & Commerce,,R,Marion,Kokomo,252
-9,Angela Burks Hill,State Senate,40,R,Marion,Kokomo,260
-9,Thomas Lehr,State Senate,40,D,Marion,Kokomo,91
-9,Bill Pigott,State House,99,R,Marion,Kokomo,284
-9,Ken Morgan,State House,100,R,Marion,Kokomo,x
-3,Jim Hood,Governor,,D,Marion,Little Rock,168
-3,Tate Reeves,Governor,,R,Marion,Little Rock,160
-3,Bob Hickingbottom,Governor,,C,Marion,Little Rock,1
-3,David R Singletary,Governor,,IND,Marion,Little Rock,2
-3,Delbert Hosemann,Lieutenant Governor,,R,Marion,Little Rock,171
-3,Jay Hughes,Lieutenant Governor,,D,Marion,Little Rock,155
-3,Johnny DuPree,Secretary of State,,D,Marion,Little Rock,160
-3,Michael Watson,Secretary of State,,R,Marion,Little Rock,169
-3,Jennifer Riley Collins,Attorney General,,D,Marion,Little Rock,160
-3,Lynn Fitch,Attorney General,,R,Marion,Little Rock,168
-3,Shad White,State Auditor,,R,Marion,Little Rock,213
-6,Addie Lee Green,State Treasurer,,D,Marion,Little Rock,157
-6,David McRae,State Treasurer,,R,Marion,Little Rock,172
-6,Rickey L Cole,Commissioner of Agriculture & Commerce,,D,Marion,Little Rock,164
-6,Andy Gipson,Commissioner of Agriculture & Commerce,,R,Marion,Little Rock,164
-9,Angela Burks Hill,State Senate,40,R,Marion,Little Rock,178
-9,Thomas Lehr,State Senate,40,D,Marion,Little Rock,149
-9,Bill Pigott,State House,99,R,Marion,Little Rock,210
-9,Ken Morgan,State House,100,R,Marion,Little Rock,x
-3,Jim Hood,Governor,,D,Marion,Morgantown,36
-3,Tate Reeves,Governor,,R,Marion,Morgantown,259
-3,Bob Hickingbottom,Governor,,C,Marion,Morgantown,2
-3,David R Singletary,Governor,,IND,Marion,Morgantown,3
-3,Delbert Hosemann,Lieutenant Governor,,R,Marion,Morgantown,275
-3,Jay Hughes,Lieutenant Governor,,D,Marion,Morgantown,24
-3,Johnny DuPree,Secretary of State,,D,Marion,Morgantown,21
-3,Michael Watson,Secretary of State,,R,Marion,Morgantown,275
-3,Jennifer Riley Collins,Attorney General,,D,Marion,Morgantown,23
-3,Lynn Fitch,Attorney General,,R,Marion,Morgantown,277
-3,Shad White,State Auditor,,R,Marion,Morgantown,285
-6,Addie Lee Green,State Treasurer,,D,Marion,Morgantown,22
-6,David McRae,State Treasurer,,R,Marion,Morgantown,277
-6,Rickey L Cole,Commissioner of Agriculture & Commerce,,D,Marion,Morgantown,24
-6,Andy Gipson,Commissioner of Agriculture & Commerce,,R,Marion,Morgantown,273
-9,Angela Burks Hill,State Senate,40,R,Marion,Morgantown,284
-9,Thomas Lehr,State Senate,40,D,Marion,Morgantown,15
-9,Bill Pigott,State House,99,R,Marion,Morgantown,0
-9,Ken Morgan,State House,100,R,Marion,Morgantown,289
-3,Jim Hood,Governor,,D,Marion,Morris,351
-3,Tate Reeves,Governor,,R,Marion,Morris,597
-3,Bob Hickingbottom,Governor,,C,Marion,Morris,3
-3,David R Singletary,Governor,,IND,Marion,Morris,4
-3,Delbert Hosemann,Lieutenant Governor,,R,Marion,Morris,630
-3,Jay Hughes,Lieutenant Governor,,D,Marion,Morris,318
-3,Johnny DuPree,Secretary of State,,D,Marion,Morris,330
-3,Michael Watson,Secretary of State,,R,Marion,Morris,619
-3,Jennifer Riley Collins,Attorney General,,D,Marion,Morris,313
-3,Lynn Fitch,Attorney General,,R,Marion,Morris,633
-3,Shad White,State Auditor,,R,Marion,Morris,753
-6,Addie Lee Green,State Treasurer,,D,Marion,Morris,316
-6,David McRae,State Treasurer,,R,Marion,Morris,629
-6,Rickey L Cole,Commissioner of Agriculture & Commerce,,D,Marion,Morris,320
-6,Andy Gipson,Commissioner of Agriculture & Commerce,,R,Marion,Morris,622
-9,Angela Burks Hill,State Senate,40,R,Marion,Morris,620
-9,Thomas Lehr,State Senate,40,D,Marion,Morris,315
-9,Bill Pigott,State House,99,R,Marion,Morris,x
-9,Ken Morgan,State House,100,R,Marion,Morris,767
-3,Jim Hood,Governor,,D,Marion,National Guard,158
-3,Tate Reeves,Governor,,R,Marion,National Guard,805
-3,Bob Hickingbottom,Governor,,C,Marion,National Guard,1
-3,David R Singletary,Governor,,IND,Marion,National Guard,8
-3,Delbert Hosemann,Lieutenant Governor,,R,Marion,National Guard,898
-3,Jay Hughes,Lieutenant Governor,,D,Marion,National Guard,86
-3,Johnny DuPree,Secretary of State,,D,Marion,National Guard,84
-3,Michael Watson,Secretary of State,,R,Marion,National Guard,897
-3,Jennifer Riley Collins,Attorney General,,D,Marion,National Guard,99
-3,Lynn Fitch,Attorney General,,R,Marion,National Guard,884
-3,Shad White,State Auditor,,R,Marion,National Guard,938
-6,Addie Lee Green,State Treasurer,,D,Marion,National Guard,88
-6,David McRae,State Treasurer,,R,Marion,National Guard,892
-6,Rickey L Cole,Commissioner of Agriculture & Commerce,,D,Marion,National Guard,95
-6,Andy Gipson,Commissioner of Agriculture & Commerce,,R,Marion,National Guard,883
-9,Angela Burks Hill,State Senate,40,R,Marion,National Guard,898
-9,Thomas Lehr,State Senate,40,D,Marion,National Guard,81
-9,Bill Pigott,State House,99,R,Marion,National Guard,x
-9,Ken Morgan,State House,100,R,Marion,National Guard,940
-3,Jim Hood,Governor,,D,Marion,Pine Burr,88
-3,Tate Reeves,Governor,,R,Marion,Pine Burr,183
-3,Bob Hickingbottom,Governor,,C,Marion,Pine Burr,4
-3,David R Singletary,Governor,,IND,Marion,Pine Burr,4
-3,Delbert Hosemann,Lieutenant Governor,,R,Marion,Pine Burr,192
-3,Jay Hughes,Lieutenant Governor,,D,Marion,Pine Burr,82
-3,Johnny DuPree,Secretary of State,,D,Marion,Pine Burr,87
-3,Michael Watson,Secretary of State,,R,Marion,Pine Burr,188
-3,Jennifer Riley Collins,Attorney General,,D,Marion,Pine Burr,88
-3,Lynn Fitch,Attorney General,,R,Marion,Pine Burr,191
-3,Shad White,State Auditor,,R,Marion,Pine Burr,233
-6,Addie Lee Green,State Treasurer,,D,Marion,Pine Burr,88
-6,David McRae,State Treasurer,,R,Marion,Pine Burr,190
-6,Rickey L Cole,Commissioner of Agriculture & Commerce,,D,Marion,Pine Burr,89
-6,Andy Gipson,Commissioner of Agriculture & Commerce,,R,Marion,Pine Burr,187
-9,Angela Burks Hill,State Senate,40,R,Marion,Pine Burr,191
-9,Thomas Lehr,State Senate,40,D,Marion,Pine Burr,85
-9,Bill Pigott,State House,99,R,Marion,Pine Burr,234
-9,Ken Morgan,State House,100,R,Marion,Pine Burr,x
-3,Jim Hood,Governor,,D,Marion,Pittman,40
-3,Tate Reeves,Governor,,R,Marion,Pittman,313
-3,Bob Hickingbottom,Governor,,C,Marion,Pittman,4
-3,David R Singletary,Governor,,IND,Marion,Pittman,2
-3,Delbert Hosemann,Lieutenant Governor,,R,Marion,Pittman,332
-3,Jay Hughes,Lieutenant Governor,,D,Marion,Pittman,28
-3,Johnny DuPree,Secretary of State,,D,Marion,Pittman,19
-3,Michael Watson,Secretary of State,,R,Marion,Pittman,337
-3,Jennifer Riley Collins,Attorney General,,D,Marion,Pittman,21
-3,Lynn Fitch,Attorney General,,R,Marion,Pittman,339
-3,Shad White,State Auditor,,R,Marion,Pittman,344
-6,Addie Lee Green,State Treasurer,,D,Marion,Pittman,18
-6,David McRae,State Treasurer,,R,Marion,Pittman,340
-6,Rickey L Cole,Commissioner of Agriculture & Commerce,,D,Marion,Pittman,19
-6,Andy Gipson,Commissioner of Agriculture & Commerce,,R,Marion,Pittman,339
-9,Angela Burks Hill,State Senate,40,R,Marion,Pittman,343
-9,Thomas Lehr,State Senate,40,D,Marion,Pittman,15
-9,Bill Pigott,State House,99,R,Marion,Pittman,347
-9,Ken Morgan,State House,100,R,Marion,Pittman,x
-3,Jim Hood,Governor,,D,Marion,Popetown,374
-3,Tate Reeves,Governor,,R,Marion,Popetown,253
-3,Bob Hickingbottom,Governor,,C,Marion,Popetown,2
-3,David R Singletary,Governor,,IND,Marion,Popetown,4
-3,Delbert Hosemann,Lieutenant Governor,,R,Marion,Popetown,272
-3,Jay Hughes,Lieutenant Governor,,D,Marion,Popetown,355
-3,Johnny DuPree,Secretary of State,,D,Marion,Popetown,365
-3,Michael Watson,Secretary of State,,R,Marion,Popetown,263
-3,Jennifer Riley Collins,Attorney General,,D,Marion,Popetown,345
-3,Lynn Fitch,Attorney General,,R,Marion,Popetown,278
-3,Shad White,State Auditor,,R,Marion,Popetown,419
-6,Addie Lee Green,State Treasurer,,D,Marion,Popetown,345
-6,David McRae,State Treasurer,,R,Marion,Popetown,280
-6,Rickey L Cole,Commissioner of Agriculture & Commerce,,D,Marion,Popetown,357
-6,Andy Gipson,Commissioner of Agriculture & Commerce,,R,Marion,Popetown,267
-9,Angela Burks Hill,State Senate,40,R,Marion,Popetown,290
-9,Thomas Lehr,State Senate,40,D,Marion,Popetown,335
-9,Bill Pigott,State House,99,R,Marion,Popetown,x
-9,Ken Morgan,State House,100,R,Marion,Popetown,420
-3,Jim Hood,Governor,,D,Marion,Sandy Hook,73
-3,Tate Reeves,Governor,,R,Marion,Sandy Hook,163
-3,Bob Hickingbottom,Governor,,C,Marion,Sandy Hook,0
-3,David R Singletary,Governor,,IND,Marion,Sandy Hook,5
-3,Delbert Hosemann,Lieutenant Governor,,R,Marion,Sandy Hook,160
-3,Jay Hughes,Lieutenant Governor,,D,Marion,Sandy Hook,78
-3,Johnny DuPree,Secretary of State,,D,Marion,Sandy Hook,82
-3,Michael Watson,Secretary of State,,R,Marion,Sandy Hook,159
-3,Jennifer Riley Collins,Attorney General,,D,Marion,Sandy Hook,78
-3,Lynn Fitch,Attorney General,,R,Marion,Sandy Hook,164
-3,Shad White,State Auditor,,R,Marion,Sandy Hook,185
-6,Addie Lee Green,State Treasurer,,D,Marion,Sandy Hook,79
-6,David McRae,State Treasurer,,R,Marion,Sandy Hook,161
-6,Rickey L Cole,Commissioner of Agriculture & Commerce,,D,Marion,Sandy Hook,82
-6,Andy Gipson,Commissioner of Agriculture & Commerce,,R,Marion,Sandy Hook,159
-9,Angela Burks Hill,State Senate,40,R,Marion,Sandy Hook,165
-9,Thomas Lehr,State Senate,40,D,Marion,Sandy Hook,75
-9,Bill Pigott,State House,99,R,Marion,Sandy Hook,187
-9,Ken Morgan,State House,100,R,Marion,Sandy Hook,x
-3,Jim Hood,Governor,,D,Marion,South Columbia,99
-3,Tate Reeves,Governor,,R,Marion,South Columbia,9
-3,Bob Hickingbottom,Governor,,C,Marion,South Columbia,0
-3,David R Singletary,Governor,,IND,Marion,South Columbia,0
-3,Delbert Hosemann,Lieutenant Governor,,R,Marion,South Columbia,8
-3,Jay Hughes,Lieutenant Governor,,D,Marion,South Columbia,90
-3,Johnny DuPree,Secretary of State,,D,Marion,South Columbia,95
-3,Michael Watson,Secretary of State,,R,Marion,South Columbia,6
-3,Jennifer Riley Collins,Attorney General,,D,Marion,South Columbia,94
-3,Lynn Fitch,Attorney General,,R,Marion,South Columbia,10
-3,Shad White,State Auditor,,R,Marion,South Columbia,32
-6,Addie Lee Green,State Treasurer,,D,Marion,South Columbia,98
-6,David McRae,State Treasurer,,R,Marion,South Columbia,6
-6,Rickey L Cole,Commissioner of Agriculture & Commerce,,D,Marion,South Columbia,98
-6,Andy Gipson,Commissioner of Agriculture & Commerce,,R,Marion,South Columbia,6
-9,Angela Burks Hill,State Senate,40,R,Marion,South Columbia,8
-9,Thomas Lehr,State Senate,40,D,Marion,South Columbia,94
-9,Bill Pigott,State House,99,R,Marion,South Columbia,x
-9,Ken Morgan,State House,100,R,Marion,South Columbia,38
-3,Jim Hood,Governor,,D,Marion,Union,15
-3,Tate Reeves,Governor,,R,Marion,Union,189
-3,Bob Hickingbottom,Governor,,C,Marion,Union,1
-3,David R Singletary,Governor,,IND,Marion,Union,1
-3,Delbert Hosemann,Lieutenant Governor,,R,Marion,Union,190
-3,Jay Hughes,Lieutenant Governor,,D,Marion,Union,16
-3,Johnny DuPree,Secretary of State,,D,Marion,Union,4
-3,Michael Watson,Secretary of State,,R,Marion,Union,200
-3,Jennifer Riley Collins,Attorney General,,D,Marion,Union,8
-3,Lynn Fitch,Attorney General,,R,Marion,Union,199
-3,Shad White,State Auditor,,R,Marion,Union,203
-6,Addie Lee Green,State Treasurer,,D,Marion,Union,7
-6,David McRae,State Treasurer,,R,Marion,Union,200
-6,Rickey L Cole,Commissioner of Agriculture & Commerce,,D,Marion,Union,10
-6,Andy Gipson,Commissioner of Agriculture & Commerce,,R,Marion,Union,196
-9,Angela Burks Hill,State Senate,40,R,Marion,Union,199
-9,Thomas Lehr,State Senate,40,D,Marion,Union,8
-9,Bill Pigott,State House,99,R,Marion,Union,x
-9,Ken Morgan,State House,100,R,Marion,Union,205
-4,Jim Hood,Governor,,D,Marion,TOTAL,3215
-4,Tate Reeves,Governor,,R,Marion,TOTAL,5545
-4,Bob Hickingbottom,Governor,,C,Marion,TOTAL,31
-4,David R Singletary,Governor,,IND,Marion,TOTAL,76
-4,Delbert Hosemann,Lieutenant Governor,,R,Marion,TOTAL,5941
-4,Jay Hughes,Lieutenant Governor,,D,Marion,TOTAL,2858
-4,Johnny DuPree,Secretary of State,,D,Marion,TOTAL,2919
-4,Michael Watson,Secretary of State,,R,Marion,TOTAL,5891
-4,Jennifer Riley Collins,Attorney General,,D,Marion,TOTAL,2909
-4,Lynn Fitch,Attorney General,,R,Marion,TOTAL,5914
-4,Shad White,State Auditor,,R,Marion,TOTAL,7091
-7,Addie Lee Green,State Treasurer,,D,Marion,TOTAL,2853
-7,David McRae,State Treasurer,,R,Marion,TOTAL,5951
-7,Rickey L Cole,Commissioner of Agriculture & Commerce,,D,Marion,TOTAL,2931
-7,Andy Gipson,Commissioner of Agriculture & Commerce,,R,Marion,TOTAL,5850
-10,Angela Burks Hill,State Senate,40,R,Marion,TOTAL,6028
-10,Thomas Lehr,State Senate,40,D,Marion,TOTAL,2750
-10,Bill Pigott,State House,99,R,Marion,TOTAL,2114
-10,Ken Morgan,State House,100,R,Marion,TOTAL,5066
+﻿candidate,office,district,party,county,precinct,votes
+Jim Hood,Governor,,D,Marion,Balls Mill,112
+Tate Reeves,Governor,,R,Marion,Balls Mill,295
+Bob Hickingbottom,Governor,,C,Marion,Balls Mill,1
+David R Singletary,Governor,,IND,Marion,Balls Mill,2
+Delbert Hosemann,Lieutenant Governor,,R,Marion,Balls Mill,315
+Jay Hughes,Lieutenant Governor,,D,Marion,Balls Mill,96
+Johnny DuPree,Secretary of State,,D,Marion,Balls Mill,95
+Michael Watson,Secretary of State,,R,Marion,Balls Mill,311
+Jennifer Riley Collins,Attorney General,,D,Marion,Balls Mill,94
+Lynn Fitch,Attorney General,,R,Marion,Balls Mill,310
+Shad White,State Auditor,,R,Marion,Balls Mill,341
+Addie Lee Green,State Treasurer,,D,Marion,Balls Mill,95
+David McRae,State Treasurer,,R,Marion,Balls Mill,308
+Rickey L Cole,Commissioner of Agriculture & Commerce,,D,Marion,Balls Mill,100
+Andy Gipson,Commissioner of Agriculture & Commerce,,R,Marion,Balls Mill,303
+Angela Burks Hill,State Senate,40,R,Marion,Balls Mill,314
+Thomas Lehr,State Senate,40,D,Marion,Balls Mill,89
+Bill Pigott,State House,99,R,Marion,Balls Mill,344
+Ken Morgan,State House,100,R,Marion,Balls Mill,x
+Jim Hood,Governor,,D,Marion,Carley,54
+Tate Reeves,Governor,,R,Marion,Carley,519
+Bob Hickingbottom,Governor,,C,Marion,Carley,3
+David R Singletary,Governor,,IND,Marion,Carley,7
+Delbert Hosemann,Lieutenant Governor,,R,Marion,Carley,537
+Jay Hughes,Lieutenant Governor,,D,Marion,Carley,42
+Johnny DuPree,Secretary of State,,D,Marion,Carley,38
+Michael Watson,Secretary of State,,R,Marion,Carley,540
+Jennifer Riley Collins,Attorney General,,D,Marion,Carley,43
+Lynn Fitch,Attorney General,,R,Marion,Carley,534
+Shad White,State Auditor,,R,Marion,Carley,558
+Addie Lee Green,State Treasurer,,D,Marion,Carley,33
+David McRae,State Treasurer,,R,Marion,Carley,543
+Rickey L Cole,Commissioner of Agriculture & Commerce,,D,Marion,Carley,42
+Andy Gipson,Commissioner of Agriculture & Commerce,,R,Marion,Carley,535
+Angela Burks Hill,State Senate,40,R,Marion,Carley,542
+Thomas Lehr,State Senate,40,D,Marion,Carley,39
+Bill Pigott,State House,99,R,Marion,Carley,x
+Ken Morgan,State House,100,R,Marion,Carley,564
+Jim Hood,Governor,,D,Marion,Cedar Grove,105
+Tate Reeves,Governor,,R,Marion,Cedar Grove,195
+Bob Hickingbottom,Governor,,C,Marion,Cedar Grove,1
+David R Singletary,Governor,,IND,Marion,Cedar Grove,1
+Delbert Hosemann,Lieutenant Governor,,R,Marion,Cedar Grove,209
+Jay Hughes,Lieutenant Governor,,D,Marion,Cedar Grove,91
+Johnny DuPree,Secretary of State,,D,Marion,Cedar Grove,94
+Michael Watson,Secretary of State,,R,Marion,Cedar Grove,206
+Jennifer Riley Collins,Attorney General,,D,Marion,Cedar Grove,92
+Lynn Fitch,Attorney General,,R,Marion,Cedar Grove,209
+Shad White,State Auditor,,R,Marion,Cedar Grove,262
+Addie Lee Green,State Treasurer,,D,Marion,Cedar Grove,93
+David McRae,State Treasurer,,R,Marion,Cedar Grove,207
+Rickey L Cole,Commissioner of Agriculture & Commerce,,D,Marion,Cedar Grove,97
+Andy Gipson,Commissioner of Agriculture & Commerce,,R,Marion,Cedar Grove,204
+Angela Burks Hill,State Senate,40,R,Marion,Cedar Grove,214
+Thomas Lehr,State Senate,40,D,Marion,Cedar Grove,85
+Bill Pigott,State House,99,R,Marion,Cedar Grove,x
+Ken Morgan,State House,100,R,Marion,Cedar Grove,268
+Jim Hood,Governor,,D,Marion,City Hall,102
+Tate Reeves,Governor,,R,Marion,City Hall,90
+Bob Hickingbottom,Governor,,C,Marion,City Hall,0
+David R Singletary,Governor,,IND,Marion,City Hall,1
+Delbert Hosemann,Lieutenant Governor,,R,Marion,City Hall,95
+Jay Hughes,Lieutenant Governor,,D,Marion,City Hall,93
+Johnny DuPree,Secretary of State,,D,Marion,City Hall,92
+Michael Watson,Secretary of State,,R,Marion,City Hall,97
+Jennifer Riley Collins,Attorney General,,D,Marion,City Hall,94
+Lynn Fitch,Attorney General,,R,Marion,City Hall,95
+Shad White,State Auditor,,R,Marion,City Hall,125
+Addie Lee Green,State Treasurer,,D,Marion,City Hall,90
+David McRae,State Treasurer,,R,Marion,City Hall,97
+Rickey L Cole,Commissioner of Agriculture & Commerce,,D,Marion,City Hall,88
+Andy Gipson,Commissioner of Agriculture & Commerce,,R,Marion,City Hall,102
+Angela Burks Hill,State Senate,40,R,Marion,City Hall,95
+Thomas Lehr,State Senate,40,D,Marion,City Hall,94
+Bill Pigott,State House,99,R,Marion,City Hall,x
+Ken Morgan,State House,100,R,Marion,City Hall,131
+Jim Hood,Governor,,D,Marion,Courthouse,138
+Tate Reeves,Governor,,R,Marion,Courthouse,198
+Bob Hickingbottom,Governor,,C,Marion,Courthouse,1
+David R Singletary,Governor,,IND,Marion,Courthouse,10
+Delbert Hosemann,Lieutenant Governor,,R,Marion,Courthouse,239
+Jay Hughes,Lieutenant Governor,,D,Marion,Courthouse,108
+Johnny DuPree,Secretary of State,,D,Marion,Courthouse,103
+Michael Watson,Secretary of State,,R,Marion,Courthouse,239
+Jennifer Riley Collins,Attorney General,,D,Marion,Courthouse,114
+Lynn Fitch,Attorney General,,R,Marion,Courthouse,233
+Shad White,State Auditor,,R,Marion,Courthouse,286
+Addie Lee Green,State Treasurer,,D,Marion,Courthouse,103
+David McRae,State Treasurer,,R,Marion,Courthouse,240
+Rickey L Cole,Commissioner of Agriculture & Commerce,,D,Marion,Courthouse,108
+Andy Gipson,Commissioner of Agriculture & Commerce,,R,Marion,Courthouse,231
+Angela Burks Hill,State Senate,40,R,Marion,Courthouse,233
+Thomas Lehr,State Senate,40,D,Marion,Courthouse,108
+Bill Pigott,State House,99,R,Marion,Courthouse,x
+Ken Morgan,State House,100,R,Marion,Courthouse,292
+Jim Hood,Governor,,D,Marion,Darbun,36
+Tate Reeves,Governor,,R,Marion,Darbun,161
+Bob Hickingbottom,Governor,,C,Marion,Darbun,0
+David R Singletary,Governor,,IND,Marion,Darbun,1
+Delbert Hosemann,Lieutenant Governor,,R,Marion,Darbun,164
+Jay Hughes,Lieutenant Governor,,D,Marion,Darbun,35
+Johnny DuPree,Secretary of State,,D,Marion,Darbun,35
+Michael Watson,Secretary of State,,R,Marion,Darbun,165
+Jennifer Riley Collins,Attorney General,,D,Marion,Darbun,36
+Lynn Fitch,Attorney General,,R,Marion,Darbun,163
+Shad White,State Auditor,,R,Marion,Darbun,166
+Addie Lee Green,State Treasurer,,D,Marion,Darbun,35
+David McRae,State Treasurer,,R,Marion,Darbun,165
+Rickey L Cole,Commissioner of Agriculture & Commerce,,D,Marion,Darbun,35
+Andy Gipson,Commissioner of Agriculture & Commerce,,R,Marion,Darbun,163
+Angela Burks Hill,State Senate,40,R,Marion,Darbun,166
+Thomas Lehr,State Senate,40,D,Marion,Darbun,32
+Bill Pigott,State House,99,R,Marion,Darbun,x
+Ken Morgan,State House,100,R,Marion,Darbun,172
+Jim Hood,Governor,,D,Marion,East Columbia,546
+Tate Reeves,Governor,,R,Marion,East Columbia,170
+Bob Hickingbottom,Governor,,C,Marion,East Columbia,5
+David R Singletary,Governor,,IND,Marion,East Columbia,3
+Delbert Hosemann,Lieutenant Governor,,R,Marion,East Columbia,206
+Jay Hughes,Lieutenant Governor,,D,Marion,East Columbia,505
+Johnny DuPree,Secretary of State,,D,Marion,East Columbia,537
+Michael Watson,Secretary of State,,R,Marion,East Columbia,183
+Jennifer Riley Collins,Attorney General,,D,Marion,East Columbia,533
+Lynn Fitch,Attorney General,,R,Marion,East Columbia,187
+Shad White,State Auditor,,R,Marion,East Columbia,430
+Addie Lee Green,State Treasurer,,D,Marion,East Columbia,518
+David McRae,State Treasurer,,R,Marion,East Columbia,204
+Rickey L Cole,Commissioner of Agriculture & Commerce,,D,Marion,East Columbia,516
+Andy Gipson,Commissioner of Agriculture & Commerce,,R,Marion,East Columbia,198
+Angela Burks Hill,State Senate,40,R,Marion,East Columbia,215
+Thomas Lehr,State Senate,40,D,Marion,East Columbia,497
+Bill Pigott,State House,99,R,Marion,East Columbia,x
+Ken Morgan,State House,100,R,Marion,East Columbia,430
+Jim Hood,Governor,,D,Marion,Foxworth,239
+Tate Reeves,Governor,,R,Marion,Foxworth,379
+Bob Hickingbottom,Governor,,C,Marion,Foxworth,0
+David R Singletary,Governor,,IND,Marion,Foxworth,6
+Delbert Hosemann,Lieutenant Governor,,R,Marion,Foxworth,391
+Jay Hughes,Lieutenant Governor,,D,Marion,Foxworth,228
+Johnny DuPree,Secretary of State,,D,Marion,Foxworth,236
+Michael Watson,Secretary of State,,R,Marion,Foxworth,385
+Jennifer Riley Collins,Attorney General,,D,Marion,Foxworth,226
+Lynn Fitch,Attorney General,,R,Marion,Foxworth,394
+Shad White,State Auditor,,R,Marion,Foxworth,499
+Addie Lee Green,State Treasurer,,D,Marion,Foxworth,224
+David McRae,State Treasurer,,R,Marion,Foxworth,393
+Rickey L Cole,Commissioner of Agriculture & Commerce,,D,Marion,Foxworth,237
+Andy Gipson,Commissioner of Agriculture & Commerce,,R,Marion,Foxworth,381
+Angela Burks Hill,State Senate,40,R,Marion,Foxworth,396
+Thomas Lehr,State Senate,40,D,Marion,Foxworth,227
+Bill Pigott,State House,99,R,Marion,Foxworth,508
+Ken Morgan,State House,100,R,Marion,Foxworth,x
+Jim Hood,Governor,,D,Marion,Goss,58
+Tate Reeves,Governor,,R,Marion,Goss,246
+Bob Hickingbottom,Governor,,C,Marion,Goss,0
+David R Singletary,Governor,,IND,Marion,Goss,2
+Delbert Hosemann,Lieutenant Governor,,R,Marion,Goss,259
+Jay Hughes,Lieutenant Governor,,D,Marion,Goss,46
+Johnny DuPree,Secretary of State,,D,Marion,Goss,49
+Michael Watson,Secretary of State,,R,Marion,Goss,256
+Jennifer Riley Collins,Attorney General,,D,Marion,Goss,46
+Lynn Fitch,Attorney General,,R,Marion,Goss,261
+Shad White,State Auditor,,R,Marion,Goss,272
+Addie Lee Green,State Treasurer,,D,Marion,Goss,41
+David McRae,State Treasurer,,R,Marion,Goss,263
+Rickey L Cole,Commissioner of Agriculture & Commerce,,D,Marion,Goss,52
+Andy Gipson,Commissioner of Agriculture & Commerce,,R,Marion,Goss,252
+Angela Burks Hill,State Senate,40,R,Marion,Goss,267
+Thomas Lehr,State Senate,40,D,Marion,Goss,35
+Bill Pigott,State House,99,R,Marion,Goss,x
+Ken Morgan,State House,100,R,Marion,Goss,277
+Jim Hood,Governor,,D,Marion,Hub,179
+Tate Reeves,Governor,,R,Marion,Hub,117
+Bob Hickingbottom,Governor,,C,Marion,Hub,1
+David R Singletary,Governor,,IND,Marion,Hub,5
+Delbert Hosemann,Lieutenant Governor,,R,Marion,Hub,127
+Jay Hughes,Lieutenant Governor,,D,Marion,Hub,172
+Johnny DuPree,Secretary of State,,D,Marion,Hub,169
+Michael Watson,Secretary of State,,R,Marion,Hub,131
+Jennifer Riley Collins,Attorney General,,D,Marion,Hub,174
+Lynn Fitch,Attorney General,,R,Marion,Hub,127
+Shad White,State Auditor,,R,Marion,Hub,202
+Addie Lee Green,State Treasurer,,D,Marion,Hub,173
+David McRae,State Treasurer,,R,Marion,Hub,129
+Rickey L Cole,Commissioner of Agriculture & Commerce,,D,Marion,Hub,172
+Andy Gipson,Commissioner of Agriculture & Commerce,,R,Marion,Hub,129
+Angela Burks Hill,State Senate,40,R,Marion,Hub,137
+Thomas Lehr,State Senate,40,D,Marion,Hub,161
+Bill Pigott,State House,99,R,Marion,Hub,x
+Ken Morgan,State House,100,R,Marion,Hub,209
+Jim Hood,Governor,,D,Marion,Jefferson School,135
+Tate Reeves,Governor,,R,Marion,Jefferson School,4
+Bob Hickingbottom,Governor,,C,Marion,Jefferson School,0
+David R Singletary,Governor,,IND,Marion,Jefferson School,1
+Delbert Hosemann,Lieutenant Governor,,R,Marion,Jefferson School,15
+Jay Hughes,Lieutenant Governor,,D,Marion,Jefferson School,119
+Johnny DuPree,Secretary of State,,D,Marion,Jefferson School,131
+Michael Watson,Secretary of State,,R,Marion,Jefferson School,7
+Jennifer Riley Collins,Attorney General,,D,Marion,Jefferson School,130
+Lynn Fitch,Attorney General,,R,Marion,Jefferson School,6
+Shad White,State Auditor,,R,Marion,Jefferson School,61
+Addie Lee Green,State Treasurer,,D,Marion,Jefferson School,131
+David McRae,State Treasurer,,R,Marion,Jefferson School,5
+Rickey L Cole,Commissioner of Agriculture & Commerce,,D,Marion,Jefferson School,129
+Andy Gipson,Commissioner of Agriculture & Commerce,,R,Marion,Jefferson School,4
+Angela Burks Hill,State Senate,40,R,Marion,Jefferson School,13
+Thomas Lehr,State Senate,40,D,Marion,Jefferson School,120
+Bill Pigott,State House,99,R,Marion,Jefferson School,x
+Ken Morgan,State House,100,R,Marion,Jefferson School,64
+Jim Hood,Governor,,D,Marion,Kokomo,109
+Tate Reeves,Governor,,R,Marion,Kokomo,240
+Bob Hickingbottom,Governor,,C,Marion,Kokomo,1
+David R Singletary,Governor,,IND,Marion,Kokomo,4
+Delbert Hosemann,Lieutenant Governor,,R,Marion,Kokomo,256
+Jay Hughes,Lieutenant Governor,,D,Marion,Kokomo,91
+Johnny DuPree,Secretary of State,,D,Marion,Kokomo,93
+Michael Watson,Secretary of State,,R,Marion,Kokomo,258
+Jennifer Riley Collins,Attorney General,,D,Marion,Kokomo,98
+Lynn Fitch,Attorney General,,R,Marion,Kokomo,252
+Shad White,State Auditor,,R,Marion,Kokomo,284
+Addie Lee Green,State Treasurer,,D,Marion,Kokomo,99
+David McRae,State Treasurer,,R,Marion,Kokomo,250
+Rickey L Cole,Commissioner of Agriculture & Commerce,,D,Marion,Kokomo,97
+Andy Gipson,Commissioner of Agriculture & Commerce,,R,Marion,Kokomo,252
+Angela Burks Hill,State Senate,40,R,Marion,Kokomo,260
+Thomas Lehr,State Senate,40,D,Marion,Kokomo,91
+Bill Pigott,State House,99,R,Marion,Kokomo,284
+Ken Morgan,State House,100,R,Marion,Kokomo,x
+Jim Hood,Governor,,D,Marion,Little Rock,168
+Tate Reeves,Governor,,R,Marion,Little Rock,160
+Bob Hickingbottom,Governor,,C,Marion,Little Rock,1
+David R Singletary,Governor,,IND,Marion,Little Rock,2
+Delbert Hosemann,Lieutenant Governor,,R,Marion,Little Rock,171
+Jay Hughes,Lieutenant Governor,,D,Marion,Little Rock,155
+Johnny DuPree,Secretary of State,,D,Marion,Little Rock,160
+Michael Watson,Secretary of State,,R,Marion,Little Rock,169
+Jennifer Riley Collins,Attorney General,,D,Marion,Little Rock,160
+Lynn Fitch,Attorney General,,R,Marion,Little Rock,168
+Shad White,State Auditor,,R,Marion,Little Rock,213
+Addie Lee Green,State Treasurer,,D,Marion,Little Rock,157
+David McRae,State Treasurer,,R,Marion,Little Rock,172
+Rickey L Cole,Commissioner of Agriculture & Commerce,,D,Marion,Little Rock,164
+Andy Gipson,Commissioner of Agriculture & Commerce,,R,Marion,Little Rock,164
+Angela Burks Hill,State Senate,40,R,Marion,Little Rock,178
+Thomas Lehr,State Senate,40,D,Marion,Little Rock,149
+Bill Pigott,State House,99,R,Marion,Little Rock,210
+Ken Morgan,State House,100,R,Marion,Little Rock,x
+Jim Hood,Governor,,D,Marion,Morgantown,36
+Tate Reeves,Governor,,R,Marion,Morgantown,259
+Bob Hickingbottom,Governor,,C,Marion,Morgantown,2
+David R Singletary,Governor,,IND,Marion,Morgantown,3
+Delbert Hosemann,Lieutenant Governor,,R,Marion,Morgantown,275
+Jay Hughes,Lieutenant Governor,,D,Marion,Morgantown,24
+Johnny DuPree,Secretary of State,,D,Marion,Morgantown,21
+Michael Watson,Secretary of State,,R,Marion,Morgantown,275
+Jennifer Riley Collins,Attorney General,,D,Marion,Morgantown,23
+Lynn Fitch,Attorney General,,R,Marion,Morgantown,277
+Shad White,State Auditor,,R,Marion,Morgantown,285
+Addie Lee Green,State Treasurer,,D,Marion,Morgantown,22
+David McRae,State Treasurer,,R,Marion,Morgantown,277
+Rickey L Cole,Commissioner of Agriculture & Commerce,,D,Marion,Morgantown,24
+Andy Gipson,Commissioner of Agriculture & Commerce,,R,Marion,Morgantown,273
+Angela Burks Hill,State Senate,40,R,Marion,Morgantown,284
+Thomas Lehr,State Senate,40,D,Marion,Morgantown,15
+Bill Pigott,State House,99,R,Marion,Morgantown,0
+Ken Morgan,State House,100,R,Marion,Morgantown,289
+Jim Hood,Governor,,D,Marion,Morris,351
+Tate Reeves,Governor,,R,Marion,Morris,597
+Bob Hickingbottom,Governor,,C,Marion,Morris,3
+David R Singletary,Governor,,IND,Marion,Morris,4
+Delbert Hosemann,Lieutenant Governor,,R,Marion,Morris,630
+Jay Hughes,Lieutenant Governor,,D,Marion,Morris,318
+Johnny DuPree,Secretary of State,,D,Marion,Morris,330
+Michael Watson,Secretary of State,,R,Marion,Morris,619
+Jennifer Riley Collins,Attorney General,,D,Marion,Morris,313
+Lynn Fitch,Attorney General,,R,Marion,Morris,633
+Shad White,State Auditor,,R,Marion,Morris,753
+Addie Lee Green,State Treasurer,,D,Marion,Morris,316
+David McRae,State Treasurer,,R,Marion,Morris,629
+Rickey L Cole,Commissioner of Agriculture & Commerce,,D,Marion,Morris,320
+Andy Gipson,Commissioner of Agriculture & Commerce,,R,Marion,Morris,622
+Angela Burks Hill,State Senate,40,R,Marion,Morris,620
+Thomas Lehr,State Senate,40,D,Marion,Morris,315
+Bill Pigott,State House,99,R,Marion,Morris,x
+Ken Morgan,State House,100,R,Marion,Morris,767
+Jim Hood,Governor,,D,Marion,National Guard,158
+Tate Reeves,Governor,,R,Marion,National Guard,805
+Bob Hickingbottom,Governor,,C,Marion,National Guard,1
+David R Singletary,Governor,,IND,Marion,National Guard,8
+Delbert Hosemann,Lieutenant Governor,,R,Marion,National Guard,898
+Jay Hughes,Lieutenant Governor,,D,Marion,National Guard,86
+Johnny DuPree,Secretary of State,,D,Marion,National Guard,84
+Michael Watson,Secretary of State,,R,Marion,National Guard,897
+Jennifer Riley Collins,Attorney General,,D,Marion,National Guard,99
+Lynn Fitch,Attorney General,,R,Marion,National Guard,884
+Shad White,State Auditor,,R,Marion,National Guard,938
+Addie Lee Green,State Treasurer,,D,Marion,National Guard,88
+David McRae,State Treasurer,,R,Marion,National Guard,892
+Rickey L Cole,Commissioner of Agriculture & Commerce,,D,Marion,National Guard,95
+Andy Gipson,Commissioner of Agriculture & Commerce,,R,Marion,National Guard,883
+Angela Burks Hill,State Senate,40,R,Marion,National Guard,898
+Thomas Lehr,State Senate,40,D,Marion,National Guard,81
+Bill Pigott,State House,99,R,Marion,National Guard,x
+Ken Morgan,State House,100,R,Marion,National Guard,940
+Jim Hood,Governor,,D,Marion,Pine Burr,88
+Tate Reeves,Governor,,R,Marion,Pine Burr,183
+Bob Hickingbottom,Governor,,C,Marion,Pine Burr,4
+David R Singletary,Governor,,IND,Marion,Pine Burr,4
+Delbert Hosemann,Lieutenant Governor,,R,Marion,Pine Burr,192
+Jay Hughes,Lieutenant Governor,,D,Marion,Pine Burr,82
+Johnny DuPree,Secretary of State,,D,Marion,Pine Burr,87
+Michael Watson,Secretary of State,,R,Marion,Pine Burr,188
+Jennifer Riley Collins,Attorney General,,D,Marion,Pine Burr,88
+Lynn Fitch,Attorney General,,R,Marion,Pine Burr,191
+Shad White,State Auditor,,R,Marion,Pine Burr,233
+Addie Lee Green,State Treasurer,,D,Marion,Pine Burr,88
+David McRae,State Treasurer,,R,Marion,Pine Burr,190
+Rickey L Cole,Commissioner of Agriculture & Commerce,,D,Marion,Pine Burr,89
+Andy Gipson,Commissioner of Agriculture & Commerce,,R,Marion,Pine Burr,187
+Angela Burks Hill,State Senate,40,R,Marion,Pine Burr,191
+Thomas Lehr,State Senate,40,D,Marion,Pine Burr,85
+Bill Pigott,State House,99,R,Marion,Pine Burr,234
+Ken Morgan,State House,100,R,Marion,Pine Burr,x
+Jim Hood,Governor,,D,Marion,Pittman,40
+Tate Reeves,Governor,,R,Marion,Pittman,313
+Bob Hickingbottom,Governor,,C,Marion,Pittman,4
+David R Singletary,Governor,,IND,Marion,Pittman,2
+Delbert Hosemann,Lieutenant Governor,,R,Marion,Pittman,332
+Jay Hughes,Lieutenant Governor,,D,Marion,Pittman,28
+Johnny DuPree,Secretary of State,,D,Marion,Pittman,19
+Michael Watson,Secretary of State,,R,Marion,Pittman,337
+Jennifer Riley Collins,Attorney General,,D,Marion,Pittman,21
+Lynn Fitch,Attorney General,,R,Marion,Pittman,339
+Shad White,State Auditor,,R,Marion,Pittman,344
+Addie Lee Green,State Treasurer,,D,Marion,Pittman,18
+David McRae,State Treasurer,,R,Marion,Pittman,340
+Rickey L Cole,Commissioner of Agriculture & Commerce,,D,Marion,Pittman,19
+Andy Gipson,Commissioner of Agriculture & Commerce,,R,Marion,Pittman,339
+Angela Burks Hill,State Senate,40,R,Marion,Pittman,343
+Thomas Lehr,State Senate,40,D,Marion,Pittman,15
+Bill Pigott,State House,99,R,Marion,Pittman,347
+Ken Morgan,State House,100,R,Marion,Pittman,x
+Jim Hood,Governor,,D,Marion,Popetown,374
+Tate Reeves,Governor,,R,Marion,Popetown,253
+Bob Hickingbottom,Governor,,C,Marion,Popetown,2
+David R Singletary,Governor,,IND,Marion,Popetown,4
+Delbert Hosemann,Lieutenant Governor,,R,Marion,Popetown,272
+Jay Hughes,Lieutenant Governor,,D,Marion,Popetown,355
+Johnny DuPree,Secretary of State,,D,Marion,Popetown,365
+Michael Watson,Secretary of State,,R,Marion,Popetown,263
+Jennifer Riley Collins,Attorney General,,D,Marion,Popetown,345
+Lynn Fitch,Attorney General,,R,Marion,Popetown,278
+Shad White,State Auditor,,R,Marion,Popetown,419
+Addie Lee Green,State Treasurer,,D,Marion,Popetown,345
+David McRae,State Treasurer,,R,Marion,Popetown,280
+Rickey L Cole,Commissioner of Agriculture & Commerce,,D,Marion,Popetown,357
+Andy Gipson,Commissioner of Agriculture & Commerce,,R,Marion,Popetown,267
+Angela Burks Hill,State Senate,40,R,Marion,Popetown,290
+Thomas Lehr,State Senate,40,D,Marion,Popetown,335
+Bill Pigott,State House,99,R,Marion,Popetown,x
+Ken Morgan,State House,100,R,Marion,Popetown,420
+Jim Hood,Governor,,D,Marion,Sandy Hook,73
+Tate Reeves,Governor,,R,Marion,Sandy Hook,163
+Bob Hickingbottom,Governor,,C,Marion,Sandy Hook,0
+David R Singletary,Governor,,IND,Marion,Sandy Hook,5
+Delbert Hosemann,Lieutenant Governor,,R,Marion,Sandy Hook,160
+Jay Hughes,Lieutenant Governor,,D,Marion,Sandy Hook,78
+Johnny DuPree,Secretary of State,,D,Marion,Sandy Hook,82
+Michael Watson,Secretary of State,,R,Marion,Sandy Hook,159
+Jennifer Riley Collins,Attorney General,,D,Marion,Sandy Hook,78
+Lynn Fitch,Attorney General,,R,Marion,Sandy Hook,164
+Shad White,State Auditor,,R,Marion,Sandy Hook,185
+Addie Lee Green,State Treasurer,,D,Marion,Sandy Hook,79
+David McRae,State Treasurer,,R,Marion,Sandy Hook,161
+Rickey L Cole,Commissioner of Agriculture & Commerce,,D,Marion,Sandy Hook,82
+Andy Gipson,Commissioner of Agriculture & Commerce,,R,Marion,Sandy Hook,159
+Angela Burks Hill,State Senate,40,R,Marion,Sandy Hook,165
+Thomas Lehr,State Senate,40,D,Marion,Sandy Hook,75
+Bill Pigott,State House,99,R,Marion,Sandy Hook,187
+Ken Morgan,State House,100,R,Marion,Sandy Hook,x
+Jim Hood,Governor,,D,Marion,South Columbia,99
+Tate Reeves,Governor,,R,Marion,South Columbia,9
+Bob Hickingbottom,Governor,,C,Marion,South Columbia,0
+David R Singletary,Governor,,IND,Marion,South Columbia,0
+Delbert Hosemann,Lieutenant Governor,,R,Marion,South Columbia,8
+Jay Hughes,Lieutenant Governor,,D,Marion,South Columbia,90
+Johnny DuPree,Secretary of State,,D,Marion,South Columbia,95
+Michael Watson,Secretary of State,,R,Marion,South Columbia,6
+Jennifer Riley Collins,Attorney General,,D,Marion,South Columbia,94
+Lynn Fitch,Attorney General,,R,Marion,South Columbia,10
+Shad White,State Auditor,,R,Marion,South Columbia,32
+Addie Lee Green,State Treasurer,,D,Marion,South Columbia,98
+David McRae,State Treasurer,,R,Marion,South Columbia,6
+Rickey L Cole,Commissioner of Agriculture & Commerce,,D,Marion,South Columbia,98
+Andy Gipson,Commissioner of Agriculture & Commerce,,R,Marion,South Columbia,6
+Angela Burks Hill,State Senate,40,R,Marion,South Columbia,8
+Thomas Lehr,State Senate,40,D,Marion,South Columbia,94
+Bill Pigott,State House,99,R,Marion,South Columbia,x
+Ken Morgan,State House,100,R,Marion,South Columbia,38
+Jim Hood,Governor,,D,Marion,Union,15
+Tate Reeves,Governor,,R,Marion,Union,189
+Bob Hickingbottom,Governor,,C,Marion,Union,1
+David R Singletary,Governor,,IND,Marion,Union,1
+Delbert Hosemann,Lieutenant Governor,,R,Marion,Union,190
+Jay Hughes,Lieutenant Governor,,D,Marion,Union,16
+Johnny DuPree,Secretary of State,,D,Marion,Union,4
+Michael Watson,Secretary of State,,R,Marion,Union,200
+Jennifer Riley Collins,Attorney General,,D,Marion,Union,8
+Lynn Fitch,Attorney General,,R,Marion,Union,199
+Shad White,State Auditor,,R,Marion,Union,203
+Addie Lee Green,State Treasurer,,D,Marion,Union,7
+David McRae,State Treasurer,,R,Marion,Union,200
+Rickey L Cole,Commissioner of Agriculture & Commerce,,D,Marion,Union,10
+Andy Gipson,Commissioner of Agriculture & Commerce,,R,Marion,Union,196
+Angela Burks Hill,State Senate,40,R,Marion,Union,199
+Thomas Lehr,State Senate,40,D,Marion,Union,8
+Bill Pigott,State House,99,R,Marion,Union,x
+Ken Morgan,State House,100,R,Marion,Union,205
+Jim Hood,Governor,,D,Marion,TOTAL,3215
+Tate Reeves,Governor,,R,Marion,TOTAL,5545
+Bob Hickingbottom,Governor,,C,Marion,TOTAL,31
+David R Singletary,Governor,,IND,Marion,TOTAL,76
+Delbert Hosemann,Lieutenant Governor,,R,Marion,TOTAL,5941
+Jay Hughes,Lieutenant Governor,,D,Marion,TOTAL,2858
+Johnny DuPree,Secretary of State,,D,Marion,TOTAL,2919
+Michael Watson,Secretary of State,,R,Marion,TOTAL,5891
+Jennifer Riley Collins,Attorney General,,D,Marion,TOTAL,2909
+Lynn Fitch,Attorney General,,R,Marion,TOTAL,5914
+Shad White,State Auditor,,R,Marion,TOTAL,7091
+Addie Lee Green,State Treasurer,,D,Marion,TOTAL,2853
+David McRae,State Treasurer,,R,Marion,TOTAL,5951
+Rickey L Cole,Commissioner of Agriculture & Commerce,,D,Marion,TOTAL,2931
+Andy Gipson,Commissioner of Agriculture & Commerce,,R,Marion,TOTAL,5850
+Angela Burks Hill,State Senate,40,R,Marion,TOTAL,6028
+Thomas Lehr,State Senate,40,D,Marion,TOTAL,2750
+Bill Pigott,State House,99,R,Marion,TOTAL,2114
+Ken Morgan,State House,100,R,Marion,TOTAL,5066
+Robert E. Amos,Commissioner of Insurance,,D,Marion,Balls Mill,92
+Mike Chaney,Commissioner of Insurance,,R,Marion,Balls Mill,313
+Robert E. Amos,Commissioner of Insurance,,D,Marion,Carley,38
+Mike Chaney,Commissioner of Insurance,,R,Marion,Carley,540
+Robert E. Amos,Commissioner of Insurance,,D,Marion,Cedar Grove,94
+Mike Chaney,Commissioner of Insurance,,R,Marion,Cedar Grove,206
+Robert E. Amos,Commissioner of Insurance,,D,Marion,City Hall,90
+Mike Chaney,Commissioner of Insurance,,R,Marion,City Hall,99
+Robert E. Amos,Commissioner of Insurance,,D,Marion,Courthouse,98
+Mike Chaney,Commissioner of Insurance,,R,Marion,Courthouse,247
+Robert E. Amos,Commissioner of Insurance,,D,Marion,Darbun,32
+Mike Chaney,Commissioner of Insurance,,R,Marion,Darbun,167
+Robert E. Amos,Commissioner of Insurance,,D,Marion,East Columbia,518
+Mike Chaney,Commissioner of Insurance,,R,Marion,East Columbia,202
+Robert E. Amos,Commissioner of Insurance,,D,Marion,Foxworth,220
+Mike Chaney,Commissioner of Insurance,,R,Marion,Foxworth,401
+Robert E. Amos,Commissioner of Insurance,,D,Marion,Goss,38
+Mike Chaney,Commissioner of Insurance,,R,Marion,Goss,267
+Robert E. Amos,Commissioner of Insurance,,D,Marion,Hub,174
+Mike Chaney,Commissioner of Insurance,,R,Marion,Hub,125
+Robert E. Amos,Commissioner of Insurance,,D,Marion,Jefferson School,130
+Mike Chaney,Commissioner of Insurance,,R,Marion,Jefferson School,8
+Robert E. Amos,Commissioner of Insurance,,D,Marion,Kokomo,89
+Mike Chaney,Commissioner of Insurance,,R,Marion,Kokomo,262
+Robert E. Amos,Commissioner of Insurance,,D,Marion,Little Rock,159
+Mike Chaney,Commissioner of Insurance,,R,Marion,Little Rock,171
+Robert E. Amos,Commissioner of Insurance,,D,Marion,Morgantown,15
+Mike Chaney,Commissioner of Insurance,,R,Marion,Morgantown,285
+Robert E. Amos,Commissioner of Insurance,,D,Marion,Morris,309
+Mike Chaney,Commissioner of Insurance,,R,Marion,Morris,639
+Robert E. Amos,Commissioner of Insurance,,D,Marion,National Guard,78
+Mike Chaney,Commissioner of Insurance,,R,Marion,National Guard,901
+Robert E. Amos,Commissioner of Insurance,,D,Marion,Pine Burr,80
+Mike Chaney,Commissioner of Insurance,,R,Marion,Pine Burr,195
+Robert E. Amos,Commissioner of Insurance,,D,Marion,Pittman,12
+Mike Chaney,Commissioner of Insurance,,R,Marion,Pittman,345
+Robert E. Amos,Commissioner of Insurance,,D,Marion,Popetown,338
+Mike Chaney,Commissioner of Insurance,,R,Marion,Popetown,289
+Robert E. Amos,Commissioner of Insurance,,D,Marion,Sandy Hook,78
+Mike Chaney,Commissioner of Insurance,,R,Marion,Sandy Hook,162
+Robert E. Amos,Commissioner of Insurance,,D,Marion,South Columbia,95
+Mike Chaney,Commissioner of Insurance,,R,Marion,South Columbia,9
+Robert E. Amos,Commissioner of Insurance,,D,Marion,Union,6
+Mike Chaney,Commissioner of Insurance,,R,Marion,Union,201
+Robert E. Amos,Commissioner of Insurance,,D,Marion,TOTAL,2783
+Mike Chaney,Commissioner of Insurance,,R,Marion,TOTAL,6034

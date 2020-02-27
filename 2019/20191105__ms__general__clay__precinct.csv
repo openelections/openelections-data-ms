@@ -1,376 +1,346 @@
-﻿page,candidate,office,district,party,county,precinct,votes
-2,Jim Hood,Governor,,D,Clay,Cairo,146
-2,Tate Reeves,Governor,,R,Clay,Cairo,127
-2,Bob Hickingbottom,Governor,,C,Clay,Cairo,0
-2,David R Singletary,Governor,,IND,Clay,Cairo,0
-2,Delbert Hosemann,Lieutenant Governor,,R,Clay,Cairo,163
-2,Jay Hughes,Lieutenant Governor,,D,Clay,Cairo,109
-2,Johnny DuPree,Secretary of State,,D,Clay,Cairo,124
-2,Michael Watson,Secretary of State,,R,Clay,Cairo,149
-2,Jennifer Riley Collins,Attorney General,,D,Clay,Cairo,120
-2,Lynn Fitch,Attorney General,,R,Clay,Cairo,152
-2,Shad White,State Auditor,,R,Clay,Cairo,192
-4,Addie Lee Green,State Treasurer,,D,Clay,Cairo,113
-4,David McRae,State Treasurer,,R,Clay,Cairo,157
-4,Rickey L Cole,Commissioner of Agriculture & Commerce,,D,Clay,Cairo,122
-4,Andy Gipson,Commissioner of Agriculture & Commerce,,R,Clay,Cairo,148
-6,Angela Turner Ford,State Senate,16,D,Clay,Cairo,221
-6,Karl Gibbs,State House,36,D,Clay,Cairo,149
-6,Jessica Lofton Lewis,State House,36,IND,Clay,Cairo,98
-6,Gary A Chism,State House,37,R,Clay,Cairo,X
-6,Vicky Rose,State House,37,L,Clay,Cairo,X
-6,Chelkh Taylor,State House,38,D,Clay,Cairo,X
-2,Jim Hood,Governor,,D,Clay,Caradine,415
-2,Tate Reeves,Governor,,R,Clay,Caradine,65
-2,Bob Hickingbottom,Governor,,C,Clay,Caradine,0
-2,David R Singletary,Governor,,IND,Clay,Caradine,0
-2,Delbert Hosemann,Lieutenant Governor,,R,Clay,Caradine,86
-2,Jay Hughes,Lieutenant Governor,,D,Clay,Caradine,377
-2,Johnny DuPree,Secretary of State,,D,Clay,Caradine,387
-2,Michael Watson,Secretary of State,,R,Clay,Caradine,81
-2,Jennifer Riley Collins,Attorney General,,D,Clay,Caradine,403
-2,Lynn Fitch,Attorney General,,R,Clay,Caradine,71
-2,Shad White,State Auditor,,R,Clay,Caradine,212
-4,Addie Lee Green,State Treasurer,,D,Clay,Caradine,392
-4,David McRae,State Treasurer,,R,Clay,Caradine,79
-4,Rickey L Cole,Commissioner of Agriculture & Commerce,,D,Clay,Caradine,392
-4,Andy Gipson,Commissioner of Agriculture & Commerce,,R,Clay,Caradine,73
-6,Angela Turner Ford,State Senate,16,D,Clay,Caradine,434
-6,Karl Gibbs,State House,36,D,Clay,Caradine,415
-6,Jessica Lofton Lewis,State House,36,IND,Clay,Caradine,52
-6,Gary A Chism,State House,37,R,Clay,Caradine,X
-6,Vicky Rose,State House,37,L,Clay,Caradine,X
-6,Chelkh Taylor,State House,38,D,Clay,Caradine,X
-2,Jim Hood,Governor,,D,Clay,Cedar Bluff,22
-2,Tate Reeves,Governor,,R,Clay,Cedar Bluff,110
-2,Bob Hickingbottom,Governor,,C,Clay,Cedar Bluff,0
-2,David R Singletary,Governor,,IND,Clay,Cedar Bluff,1
-2,Delbert Hosemann,Lieutenant Governor,,R,Clay,Cedar Bluff,118
-2,Jay Hughes,Lieutenant Governor,,D,Clay,Cedar Bluff,13
-2,Johnny DuPree,Secretary of State,,D,Clay,Cedar Bluff,17
-2,Michael Watson,Secretary of State,,R,Clay,Cedar Bluff,114
-2,Jennifer Riley Collins,Attorney General,,D,Clay,Cedar Bluff,16
-2,Lynn Fitch,Attorney General,,R,Clay,Cedar Bluff,116
-2,Shad White,State Auditor,,R,Clay,Cedar Bluff,121
-4,Addie Lee Green,State Treasurer,,D,Clay,Cedar Bluff,13
-4,David McRae,State Treasurer,,R,Clay,Cedar Bluff,118
-4,Rickey L Cole,Commissioner of Agriculture & Commerce,,D,Clay,Cedar Bluff,22
-4,Andy Gipson,Commissioner of Agriculture & Commerce,,R,Clay,Cedar Bluff,108
-6,Angela Turner Ford,State Senate,16,D,Clay,Cedar Bluff,92
-6,Karl Gibbs,State House,36,D,Clay,Cedar Bluff,X
-6,Jessica Lofton Lewis,State House,36,IND,Clay,Cedar Bluff,X
-6,Gary A Chism,State House,37,R,Clay,Cedar Bluff,116
-6,Vicky Rose,State House,37,L,Clay,Cedar Bluff,7
-6,Chelkh Taylor,State House,38,D,Clay,Cedar Bluff,X
-2,Jim Hood,Governor,,D,Clay,Central-West Point,373
-2,Tate Reeves,Governor,,R,Clay,Central-West Point,224
-2,Bob Hickingbottom,Governor,,C,Clay,Central-West Point,2
-2,David R Singletary,Governor,,IND,Clay,Central-West Point,2
-2,Delbert Hosemann,Lieutenant Governor,,R,Clay,Central-West Point,264
-2,Jay Hughes,Lieutenant Governor,,D,Clay,Central-West Point,322
-2,Johnny DuPree,Secretary of State,,D,Clay,Central-West Point,328
-2,Michael Watson,Secretary of State,,R,Clay,Central-West Point,266
-2,Jennifer Riley Collins,Attorney General,,D,Clay,Central-West Point,340
-2,Lynn Fitch,Attorney General,,R,Clay,Central-West Point,257
-2,Shad White,State Auditor,,R,Clay,Central-West Point,407
-4,Addie Lee Green,State Treasurer,,D,Clay,Central-West Point,307
-4,David McRae,State Treasurer,,R,Clay,Central-West Point,286
-4,Rickey L Cole,Commissioner of Agriculture & Commerce,,D,Clay,Central-West Point,336
-4,Andy Gipson,Commissioner of Agriculture & Commerce,,R,Clay,Central-West Point,258
-6,Angela Turner Ford,State Senate,16,D,Clay,Central-West Point,525
-6,Karl Gibbs,State House,36,D,Clay,Central-West Point,60
-6,Jessica Lofton Lewis,State House,36,IND,Clay,Central-West Point,5
-6,Gary A Chism,State House,37,R,Clay,Central-West Point,253
-6,Vicky Rose,State House,37,L,Clay,Central-West Point,163
-6,Chelkh Taylor,State House,38,D,Clay,Central-West Point,33
-2,Jim Hood,Governor,,D,Clay,East-West Point,462
-2,Tate Reeves,Governor,,R,Clay,East-West Point,589
-2,Bob Hickingbottom,Governor,,C,Clay,East-West Point,3
-2,David R Singletary,Governor,,IND,Clay,East-West Point,4
-2,Delbert Hosemann,Lieutenant Governor,,R,Clay,East-West Point,681
-2,Jay Hughes,Lieutenant Governor,,D,Clay,East-West Point,370
-2,Johnny DuPree,Secretary of State,,D,Clay,East-West Point,372
-2,Michael Watson,Secretary of State,,R,Clay,East-West Point,670
-2,Jennifer Riley Collins,Attorney General,,D,Clay,East-West Point,387
-2,Lynn Fitch,Attorney General,,R,Clay,East-West Point,664
-2,Shad White,State Auditor,,R,Clay,East-West Point,827
-4,Addie Lee Green,State Treasurer,,D,Clay,East-West Point,344
-4,David McRae,State Treasurer,,R,Clay,East-West Point,707
-4,Rickey L Cole,Commissioner of Agriculture & Commerce,,D,Clay,East-West Point,389
-4,Andy Gipson,Commissioner of Agriculture & Commerce,,R,Clay,East-West Point,657
-6,Angela Turner Ford,State Senate,16,D,Clay,East-West Point,850
-6,Karl Gibbs,State House,36,D,Clay,East-West Point,108
-6,Jessica Lofton Lewis,State House,36,IND,Clay,East-West Point,26
-6,Gary A Chism,State House,37,R,Clay,East-West Point,652
-6,Vicky Rose,State House,37,L,Clay,East-West Point,190
-6,Chelkh Taylor,State House,38,D,Clay,East-West Point,X
-2,Jim Hood,Governor,,D,Clay,North-West Point,561
-2,Tate Reeves,Governor,,R,Clay,North-West Point,389
-2,Bob Hickingbottom,Governor,,C,Clay,North-West Point,0
-2,David R Singletary,Governor,,IND,Clay,North-West Point,4
-2,Delbert Hosemann,Lieutenant Governor,,R,Clay,North-West Point,421
-2,Jay Hughes,Lieutenant Governor,,D,Clay,North-West Point,521
-2,Johnny DuPree,Secretary of State,,D,Clay,North-West Point,528
-2,Michael Watson,Secretary of State,,R,Clay,North-West Point,409
-2,Jennifer Riley Collins,Attorney General,,D,Clay,North-West Point,546
-2,Lynn Fitch,Attorney General,,R,Clay,North-West Point,403
-2,Shad White,State Auditor,,R,Clay,North-West Point,656
-4,Addie Lee Green,State Treasurer,,D,Clay,North-West Point,526
-4,David McRae,State Treasurer,,R,Clay,North-West Point,421
-4,Rickey L Cole,Commissioner of Agriculture & Commerce,,D,Clay,North-West Point,540
-4,Andy Gipson,Commissioner of Agriculture & Commerce,,R,Clay,North-West Point,402
-6,Angela Turner Ford,State Senate,16,D,Clay,North-West Point,820
-6,Karl Gibbs,State House,36,D,Clay,North-West Point,647
-6,Jessica Lofton Lewis,State House,36,IND,Clay,North-West Point,264
-6,Gary A Chism,State House,37,R,Clay,North-West Point,X
-6,Vicky Rose,State House,37,L,Clay,North-West Point,X
-6,Chelkh Taylor,State House,38,D,Clay,North-West Point,X
-2,Jim Hood,Governor,,D,Clay,Pheba,205
-2,Tate Reeves,Governor,,R,Clay,Pheba,159
-2,Bob Hickingbottom,Governor,,C,Clay,Pheba,0
-2,David R Singletary,Governor,,IND,Clay,Pheba,1
-2,Delbert Hosemann,Lieutenant Governor,,R,Clay,Pheba,177
-2,Jay Hughes,Lieutenant Governor,,D,Clay,Pheba,184
-2,Johnny DuPree,Secretary of State,,D,Clay,Pheba,187
-2,Michael Watson,Secretary of State,,R,Clay,Pheba,169
-2,Jennifer Riley Collins,Attorney General,,D,Clay,Pheba,190
-2,Lynn Fitch,Attorney General,,R,Clay,Pheba,167
-2,Shad White,State Auditor,,R,Clay,Pheba,230
-4,Addie Lee Green,State Treasurer,,D,Clay,Pheba,184
-4,David McRae,State Treasurer,,R,Clay,Pheba,171
-4,Rickey L Cole,Commissioner of Agriculture & Commerce,,D,Clay,Pheba,190
-4,Andy Gipson,Commissioner of Agriculture & Commerce,,R,Clay,Pheba,163
-6,Angela Turner Ford,State Senate,16,D,Clay,Pheba,292
-6,Karl Gibbs,State House,36,D,Clay,Pheba,X
-6,Jessica Lofton Lewis,State House,36,IND,Clay,Pheba,X
-6,Gary A Chism,State House,37,R,Clay,Pheba,188
-6,Vicky Rose,State House,37,L,Clay,Pheba,96
-6,Chelkh Taylor,State House,38,D,Clay,Pheba,X
-2,Jim Hood,Governor,,D,Clay,Pine Bluff,214
-2,Tate Reeves,Governor,,R,Clay,Pine Bluff,38
-2,Bob Hickingbottom,Governor,,C,Clay,Pine Bluff,1
-2,David R Singletary,Governor,,IND,Clay,Pine Bluff,1
-2,Delbert Hosemann,Lieutenant Governor,,R,Clay,Pine Bluff,65
-2,Jay Hughes,Lieutenant Governor,,D,Clay,Pine Bluff,172
-2,Johnny DuPree,Secretary of State,,D,Clay,Pine Bluff,191
-2,Michael Watson,Secretary of State,,R,Clay,Pine Bluff,49
-2,Jennifer Riley Collins,Attorney General,,D,Clay,Pine Bluff,205
-2,Lynn Fitch,Attorney General,,R,Clay,Pine Bluff,47
-2,Shad White,State Auditor,,R,Clay,Pine Bluff,127
-4,Addie Lee Green,State Treasurer,,D,Clay,Pine Bluff,189
-4,David McRae,State Treasurer,,R,Clay,Pine Bluff,56
-4,Rickey L Cole,Commissioner of Agriculture & Commerce,,D,Clay,Pine Bluff,187
-4,Andy Gipson,Commissioner of Agriculture & Commerce,,R,Clay,Pine Bluff,57
-6,Angela Turner Ford,State Senate,16,D,Clay,Pine Bluff,223
-6,Karl Gibbs,State House,36,D,Clay,Pine Bluff,212
-6,Jessica Lofton Lewis,State House,36,IND,Clay,Pine Bluff,24
-6,Gary A Chism,State House,37,R,Clay,Pine Bluff,X
-6,Vicky Rose,State House,37,L,Clay,Pine Bluff,X
-6,Chelkh Taylor,State House,38,D,Clay,Pine Bluff,X
-2,Jim Hood,Governor,,D,Clay,Siloam,243
-2,Tate Reeves,Governor,,R,Clay,Siloam,359
-2,Bob Hickingbottom,Governor,,C,Clay,Siloam,1
-2,David R Singletary,Governor,,IND,Clay,Siloam,1
-2,Delbert Hosemann,Lieutenant Governor,,R,Clay,Siloam,381
-2,Jay Hughes,Lieutenant Governor,,D,Clay,Siloam,209
-2,Johnny DuPree,Secretary of State,,D,Clay,Siloam,223
-2,Michael Watson,Secretary of State,,R,Clay,Siloam,365
-2,Jennifer Riley Collins,Attorney General,,D,Clay,Siloam,229
-2,Lynn Fitch,Attorney General,,R,Clay,Siloam,367
-2,Shad White,State Auditor,,R,Clay,Siloam,469
-4,Addie Lee Green,State Treasurer,,D,Clay,Siloam,207
-4,David McRae,State Treasurer,,R,Clay,Siloam,380
-4,Rickey L Cole,Commissioner of Agriculture & Commerce,,D,Clay,Siloam,233
-4,Andy Gipson,Commissioner of Agriculture & Commerce,,R,Clay,Siloam,352
-6,Angela Turner Ford,State Senate,16,D,Clay,Siloam,490
-6,Karl Gibbs,State House,36,D,Clay,Siloam,232
-6,Jessica Lofton Lewis,State House,36,IND,Clay,Siloam,173
-6,Gary A Chism,State House,37,R,Clay,Siloam,136
-6,Vicky Rose,State House,37,L,Clay,Siloam,21
-6,Chelkh Taylor,State House,38,D,Clay,Siloam,X
-2,Jim Hood,Governor,,D,Clay,South-West Point,537
-2,Tate Reeves,Governor,,R,Clay,South-West Point,187
-2,Bob Hickingbottom,Governor,,C,Clay,South-West Point,6
-2,David R Singletary,Governor,,IND,Clay,South-West Point,7
-2,Delbert Hosemann,Lieutenant Governor,,R,Clay,South-West Point,228
-2,Jay Hughes,Lieutenant Governor,,D,Clay,South-West Point,496
-2,Johnny DuPree,Secretary of State,,D,Clay,South-West Point,513
-2,Michael Watson,Secretary of State,,R,Clay,South-West Point,204
-2,Jennifer Riley Collins,Attorney General,,D,Clay,South-West Point,525
-2,Lynn Fitch,Attorney General,,R,Clay,South-West Point,208
-2,Shad White,State Auditor,,R,Clay,South-West Point,420
-4,Addie Lee Green,State Treasurer,,D,Clay,South-West Point,511
-4,David McRae,State Treasurer,,R,Clay,South-West Point,220
-4,Rickey L Cole,Commissioner of Agriculture & Commerce,,D,Clay,South-West Point,525
-4,Andy Gipson,Commissioner of Agriculture & Commerce,,R,Clay,South-West Point,202
-6,Angela Turner Ford,State Senate,16,D,Clay,South-West Point,666
-6,Karl Gibbs,State House,36,D,Clay,South-West Point,X
-6,Jessica Lofton Lewis,State House,36,IND,Clay,South-West Point,X
-6,Gary A Chism,State House,37,R,Clay,South-West Point,64
-6,Vicky Rose,State House,37,L,Clay,South-West Point,77
-6,Chelkh Taylor,State House,38,D,Clay,South-West Point,505
-2,Jim Hood,Governor,,D,Clay,Tibbee,155
-2,Tate Reeves,Governor,,R,Clay,Tibbee,67
-2,Bob Hickingbottom,Governor,,C,Clay,Tibbee,0
-2,David R Singletary,Governor,,IND,Clay,Tibbee,1
-2,Delbert Hosemann,Lieutenant Governor,,R,Clay,Tibbee,91
-2,Jay Hughes,Lieutenant Governor,,D,Clay,Tibbee,128
-2,Johnny DuPree,Secretary of State,,D,Clay,Tibbee,136
-2,Michael Watson,Secretary of State,,R,Clay,Tibbee,85
-2,Jennifer Riley Collins,Attorney General,,D,Clay,Tibbee,143
-2,Lynn Fitch,Attorney General,,R,Clay,Tibbee,80
-2,Shad White,State Auditor,,R,Clay,Tibbee,135
-4,Addie Lee Green,State Treasurer,,D,Clay,Tibbee,136
-4,David McRae,State Treasurer,,R,Clay,Tibbee,85
-4,Rickey L Cole,Commissioner of Agriculture & Commerce,,D,Clay,Tibbee,138
-4,Andy Gipson,Commissioner of Agriculture & Commerce,,R,Clay,Tibbee,82
-6,Angela Turner Ford,State Senate,16,D,Clay,Tibbee,190
-6,Karl Gibbs,State House,36,D,Clay,Tibbee,118
-6,Jessica Lofton Lewis,State House,36,IND,Clay,Tibbee,15
-6,Gary A Chism,State House,37,R,Clay,Tibbee,57
-6,Vicky Rose,State House,37,L,Clay,Tibbee,27
-6,Chelkh Taylor,State House,38,D,Clay,Tibbee,
-3,Jim Hood,Governor,,D,Clay,Union Star,244
-3,Tate Reeves,Governor,,R,Clay,Union Star,173
-3,Bob Hickingbottom,Governor,,C,Clay,Union Star,0
-3,David R Singletary,Governor,,IND,Clay,Union Star,1
-3,Delbert Hosemann,Lieutenant Governor,,R,Clay,Union Star,199
-3,Jay Hughes,Lieutenant Governor,,D,Clay,Union Star,207
-3,Johnny DuPree,Secretary of State,,D,Clay,Union Star,225
-3,Michael Watson,Secretary of State,,R,Clay,Union Star,181
-3,Jennifer Riley Collins,Attorney General,,D,Clay,Union Star,233
-3,Lynn Fitch,Attorney General,,R,Clay,Union Star,178
-3,Shad White,State Auditor,,R,Clay,Union Star,265
-5,Addie Lee Green,State Treasurer,,D,Clay,Union Star,211
-5,David McRae,State Treasurer,,R,Clay,Union Star,196
-5,Rickey L Cole,Commissioner of Agriculture & Commerce,,D,Clay,Union Star,216
-5,Andy Gipson,Commissioner of Agriculture & Commerce,,R,Clay,Union Star,188
-7,Angela Turner Ford,State Senate,16,D,Clay,Union Star,328
-7,Karl Gibbs,State House,36,D,Clay,Union Star,262
-7,Jessica Lofton Lewis,State House,36,IND,Clay,Union Star,114
-7,Gary A Chism,State House,37,R,Clay,Union Star,X
-7,Vicky Rose,State House,37,L,Clay,Union Star,X
-7,Chelkh Taylor,State House,38,D,Clay,Union Star,X
-3,Jim Hood,Governor,,D,Clay,Vinton,215
-3,Tate Reeves,Governor,,R,Clay,Vinton,142
-3,Bob Hickingbottom,Governor,,C,Clay,Vinton,1
-3,David R Singletary,Governor,,IND,Clay,Vinton,3
-3,Delbert Hosemann,Lieutenant Governor,,R,Clay,Vinton,163
-3,Jay Hughes,Lieutenant Governor,,D,Clay,Vinton,193
-3,Johnny DuPree,Secretary of State,,D,Clay,Vinton,200
-3,Michael Watson,Secretary of State,,R,Clay,Vinton,152
-3,Jennifer Riley Collins,Attorney General,,D,Clay,Vinton,210
-3,Lynn Fitch,Attorney General,,R,Clay,Vinton,149
-3,Shad White,State Auditor,,R,Clay,Vinton,233
-5,Addie Lee Green,State Treasurer,,D,Clay,Vinton,195
-5,David McRae,State Treasurer,,R,Clay,Vinton,161
-5,Rickey L Cole,Commissioner of Agriculture & Commerce,,D,Clay,Vinton,209
-5,Andy Gipson,Commissioner of Agriculture & Commerce,,R,Clay,Vinton,146
-7,Angela Turner Ford,State Senate,16,D,Clay,Vinton,280
-7,Karl Gibbs,State House,36,D,Clay,Vinton,241
-7,Jessica Lofton Lewis,State House,36,IND,Clay,Vinton,100
-7,Gary A Chism,State House,37,R,Clay,Vinton,X
-7,Vicky Rose,State House,37,L,Clay,Vinton,X
-7,Chelkh Taylor,State House,38,D,Clay,Vinton,X
-3,Jim Hood,Governor,,D,Clay,West-West Point,660
-3,Tate Reeves,Governor,,R,Clay,West-West Point,172
-3,Bob Hickingbottom,Governor,,C,Clay,West-West Point,2
-3,David R Singletary,Governor,,IND,Clay,West-West Point,3
-3,Delbert Hosemann,Lieutenant Governor,,R,Clay,West-West Point,209
-3,Jay Hughes,Lieutenant Governor,,D,Clay,West-West Point,611
-3,Johnny DuPree,Secretary of State,,D,Clay,West-West Point,639
-3,Michael Watson,Secretary of State,,R,Clay,West-West Point,175
-3,Jennifer Riley Collins,Attorney General,,D,Clay,West-West Point,650
-3,Lynn Fitch,Attorney General,,R,Clay,West-West Point,181
-3,Shad White,State Auditor,,R,Clay,West-West Point,417
-5,Addie Lee Green,State Treasurer,,D,Clay,West-West Point,639
-5,David McRae,State Treasurer,,R,Clay,West-West Point,186
-5,Rickey L Cole,Commissioner of Agriculture & Commerce,,D,Clay,West-West Point,653
-5,Andy Gipson,Commissioner of Agriculture & Commerce,,R,Clay,West-West Point,172
-7,Angela Turner Ford,State Senate,16,D,Clay,West-West Point,764
-7,Karl Gibbs,State House,36,D,Clay,West-West Point,672
-7,Jessica Lofton Lewis,State House,36,IND,Clay,West-West Point,126
-7,Gary A Chism,State House,37,R,Clay,West-West Point,7
-7,Vicky Rose,State House,37,L,Clay,West-West Point,5
-7,Chelkh Taylor,State House,38,D,Clay,West-West Point,X
-3,Jim Hood,Governor,,D,Clay,TOTAL ,4452
-3,Tate Reeves,Governor,,R,Clay,TOTAL ,2801
-3,Bob Hickingbottom,Governor,,C,Clay,TOTAL ,16
-3,David R Singletary,Governor,,IND,Clay,TOTAL ,29
-3,Delbert Hosemann,Lieutenant Governor,,R,Clay,TOTAL ,3246
-3,Jay Hughes,Lieutenant Governor,,D,Clay,TOTAL ,3912
-3,Johnny DuPree,Secretary of State,,D,Clay,TOTAL ,4070
-3,Michael Watson,Secretary of State,,R,Clay,TOTAL ,3069
-3,Jennifer Riley Collins,Attorney General,,D,Clay,TOTAL ,4197
-3,Lynn Fitch,Attorney General,,R,Clay,TOTAL ,3040
-3,Shad White,State Auditor,,R,Clay,TOTAL ,4711
-5,Addie Lee Green,State Treasurer,,D,Clay,TOTAL ,3967
-5,David McRae,State Treasurer,,R,Clay,TOTAL ,3223
-5,Rickey L Cole,Commissioner of Agriculture & Commerce,,D,Clay,TOTAL ,4152
-5,Andy Gipson,Commissioner of Agriculture & Commerce,,R,Clay,TOTAL ,3008
-7,Angela Turner Ford,State Senate,16,D,Clay,TOTAL ,6175
-7,Karl Gibbs,State House,36,D,Clay,TOTAL ,3116
-7,Jessica Lofton Lewis,State House,36,IND,Clay,TOTAL ,997
-7,Gary A Chism,State House,37,R,Clay,TOTAL ,1473
-7,Vicky Rose,State House,37,L,Clay,TOTAL ,586
-7,Chelkh Taylor,State House,38,D,Clay,TOTAL ,538
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
+﻿candidate,office,district,party,county,precinct,votes
+Jim Hood,Governor,,D,Clay,Cairo,146
+Tate Reeves,Governor,,R,Clay,Cairo,127
+Bob Hickingbottom,Governor,,C,Clay,Cairo,0
+David R Singletary,Governor,,IND,Clay,Cairo,0
+Delbert Hosemann,Lieutenant Governor,,R,Clay,Cairo,163
+Jay Hughes,Lieutenant Governor,,D,Clay,Cairo,109
+Johnny DuPree,Secretary of State,,D,Clay,Cairo,124
+Michael Watson,Secretary of State,,R,Clay,Cairo,149
+Jennifer Riley Collins,Attorney General,,D,Clay,Cairo,120
+Lynn Fitch,Attorney General,,R,Clay,Cairo,152
+Shad White,State Auditor,,R,Clay,Cairo,192
+Addie Lee Green,State Treasurer,,D,Clay,Cairo,113
+David McRae,State Treasurer,,R,Clay,Cairo,157
+Rickey L Cole,Commissioner of Agriculture & Commerce,,D,Clay,Cairo,122
+Andy Gipson,Commissioner of Agriculture & Commerce,,R,Clay,Cairo,148
+Angela Turner Ford,State Senate,16,D,Clay,Cairo,221
+Karl Gibbs,State House,36,D,Clay,Cairo,149
+Jessica Lofton Lewis,State House,36,IND,Clay,Cairo,98
+Gary A Chism,State House,37,R,Clay,Cairo,X
+Vicky Rose,State House,37,L,Clay,Cairo,X
+Chelkh Taylor,State House,38,D,Clay,Cairo,X
+Jim Hood,Governor,,D,Clay,Caradine,415
+Tate Reeves,Governor,,R,Clay,Caradine,65
+Bob Hickingbottom,Governor,,C,Clay,Caradine,0
+David R Singletary,Governor,,IND,Clay,Caradine,0
+Delbert Hosemann,Lieutenant Governor,,R,Clay,Caradine,86
+Jay Hughes,Lieutenant Governor,,D,Clay,Caradine,377
+Johnny DuPree,Secretary of State,,D,Clay,Caradine,387
+Michael Watson,Secretary of State,,R,Clay,Caradine,81
+Jennifer Riley Collins,Attorney General,,D,Clay,Caradine,403
+Lynn Fitch,Attorney General,,R,Clay,Caradine,71
+Shad White,State Auditor,,R,Clay,Caradine,212
+Addie Lee Green,State Treasurer,,D,Clay,Caradine,392
+David McRae,State Treasurer,,R,Clay,Caradine,79
+Rickey L Cole,Commissioner of Agriculture & Commerce,,D,Clay,Caradine,392
+Andy Gipson,Commissioner of Agriculture & Commerce,,R,Clay,Caradine,73
+Angela Turner Ford,State Senate,16,D,Clay,Caradine,434
+Karl Gibbs,State House,36,D,Clay,Caradine,415
+Jessica Lofton Lewis,State House,36,IND,Clay,Caradine,52
+Gary A Chism,State House,37,R,Clay,Caradine,X
+Vicky Rose,State House,37,L,Clay,Caradine,X
+Chelkh Taylor,State House,38,D,Clay,Caradine,X
+Jim Hood,Governor,,D,Clay,Cedar Bluff,22
+Tate Reeves,Governor,,R,Clay,Cedar Bluff,110
+Bob Hickingbottom,Governor,,C,Clay,Cedar Bluff,0
+David R Singletary,Governor,,IND,Clay,Cedar Bluff,1
+Delbert Hosemann,Lieutenant Governor,,R,Clay,Cedar Bluff,118
+Jay Hughes,Lieutenant Governor,,D,Clay,Cedar Bluff,13
+Johnny DuPree,Secretary of State,,D,Clay,Cedar Bluff,17
+Michael Watson,Secretary of State,,R,Clay,Cedar Bluff,114
+Jennifer Riley Collins,Attorney General,,D,Clay,Cedar Bluff,16
+Lynn Fitch,Attorney General,,R,Clay,Cedar Bluff,116
+Shad White,State Auditor,,R,Clay,Cedar Bluff,121
+Addie Lee Green,State Treasurer,,D,Clay,Cedar Bluff,13
+David McRae,State Treasurer,,R,Clay,Cedar Bluff,118
+Rickey L Cole,Commissioner of Agriculture & Commerce,,D,Clay,Cedar Bluff,22
+Andy Gipson,Commissioner of Agriculture & Commerce,,R,Clay,Cedar Bluff,108
+Angela Turner Ford,State Senate,16,D,Clay,Cedar Bluff,92
+Karl Gibbs,State House,36,D,Clay,Cedar Bluff,X
+Jessica Lofton Lewis,State House,36,IND,Clay,Cedar Bluff,X
+Gary A Chism,State House,37,R,Clay,Cedar Bluff,116
+Vicky Rose,State House,37,L,Clay,Cedar Bluff,7
+Chelkh Taylor,State House,38,D,Clay,Cedar Bluff,X
+Jim Hood,Governor,,D,Clay,Central-West Point,373
+Tate Reeves,Governor,,R,Clay,Central-West Point,224
+Bob Hickingbottom,Governor,,C,Clay,Central-West Point,2
+David R Singletary,Governor,,IND,Clay,Central-West Point,2
+Delbert Hosemann,Lieutenant Governor,,R,Clay,Central-West Point,264
+Jay Hughes,Lieutenant Governor,,D,Clay,Central-West Point,322
+Johnny DuPree,Secretary of State,,D,Clay,Central-West Point,328
+Michael Watson,Secretary of State,,R,Clay,Central-West Point,266
+Jennifer Riley Collins,Attorney General,,D,Clay,Central-West Point,340
+Lynn Fitch,Attorney General,,R,Clay,Central-West Point,257
+Shad White,State Auditor,,R,Clay,Central-West Point,407
+Addie Lee Green,State Treasurer,,D,Clay,Central-West Point,307
+David McRae,State Treasurer,,R,Clay,Central-West Point,286
+Rickey L Cole,Commissioner of Agriculture & Commerce,,D,Clay,Central-West Point,336
+Andy Gipson,Commissioner of Agriculture & Commerce,,R,Clay,Central-West Point,258
+Angela Turner Ford,State Senate,16,D,Clay,Central-West Point,525
+Karl Gibbs,State House,36,D,Clay,Central-West Point,60
+Jessica Lofton Lewis,State House,36,IND,Clay,Central-West Point,5
+Gary A Chism,State House,37,R,Clay,Central-West Point,253
+Vicky Rose,State House,37,L,Clay,Central-West Point,163
+Chelkh Taylor,State House,38,D,Clay,Central-West Point,33
+Jim Hood,Governor,,D,Clay,East-West Point,462
+Tate Reeves,Governor,,R,Clay,East-West Point,589
+Bob Hickingbottom,Governor,,C,Clay,East-West Point,3
+David R Singletary,Governor,,IND,Clay,East-West Point,4
+Delbert Hosemann,Lieutenant Governor,,R,Clay,East-West Point,681
+Jay Hughes,Lieutenant Governor,,D,Clay,East-West Point,370
+Johnny DuPree,Secretary of State,,D,Clay,East-West Point,372
+Michael Watson,Secretary of State,,R,Clay,East-West Point,670
+Jennifer Riley Collins,Attorney General,,D,Clay,East-West Point,387
+Lynn Fitch,Attorney General,,R,Clay,East-West Point,664
+Shad White,State Auditor,,R,Clay,East-West Point,827
+Addie Lee Green,State Treasurer,,D,Clay,East-West Point,344
+David McRae,State Treasurer,,R,Clay,East-West Point,707
+Rickey L Cole,Commissioner of Agriculture & Commerce,,D,Clay,East-West Point,389
+Andy Gipson,Commissioner of Agriculture & Commerce,,R,Clay,East-West Point,657
+Angela Turner Ford,State Senate,16,D,Clay,East-West Point,850
+Karl Gibbs,State House,36,D,Clay,East-West Point,108
+Jessica Lofton Lewis,State House,36,IND,Clay,East-West Point,26
+Gary A Chism,State House,37,R,Clay,East-West Point,652
+Vicky Rose,State House,37,L,Clay,East-West Point,190
+Chelkh Taylor,State House,38,D,Clay,East-West Point,X
+Jim Hood,Governor,,D,Clay,North-West Point,561
+Tate Reeves,Governor,,R,Clay,North-West Point,389
+Bob Hickingbottom,Governor,,C,Clay,North-West Point,0
+David R Singletary,Governor,,IND,Clay,North-West Point,4
+Delbert Hosemann,Lieutenant Governor,,R,Clay,North-West Point,421
+Jay Hughes,Lieutenant Governor,,D,Clay,North-West Point,521
+Johnny DuPree,Secretary of State,,D,Clay,North-West Point,528
+Michael Watson,Secretary of State,,R,Clay,North-West Point,409
+Jennifer Riley Collins,Attorney General,,D,Clay,North-West Point,546
+Lynn Fitch,Attorney General,,R,Clay,North-West Point,403
+Shad White,State Auditor,,R,Clay,North-West Point,656
+Addie Lee Green,State Treasurer,,D,Clay,North-West Point,526
+David McRae,State Treasurer,,R,Clay,North-West Point,421
+Rickey L Cole,Commissioner of Agriculture & Commerce,,D,Clay,North-West Point,540
+Andy Gipson,Commissioner of Agriculture & Commerce,,R,Clay,North-West Point,402
+Angela Turner Ford,State Senate,16,D,Clay,North-West Point,820
+Karl Gibbs,State House,36,D,Clay,North-West Point,647
+Jessica Lofton Lewis,State House,36,IND,Clay,North-West Point,264
+Gary A Chism,State House,37,R,Clay,North-West Point,X
+Vicky Rose,State House,37,L,Clay,North-West Point,X
+Chelkh Taylor,State House,38,D,Clay,North-West Point,X
+Jim Hood,Governor,,D,Clay,Pheba,205
+Tate Reeves,Governor,,R,Clay,Pheba,159
+Bob Hickingbottom,Governor,,C,Clay,Pheba,0
+David R Singletary,Governor,,IND,Clay,Pheba,1
+Delbert Hosemann,Lieutenant Governor,,R,Clay,Pheba,177
+Jay Hughes,Lieutenant Governor,,D,Clay,Pheba,184
+Johnny DuPree,Secretary of State,,D,Clay,Pheba,187
+Michael Watson,Secretary of State,,R,Clay,Pheba,169
+Jennifer Riley Collins,Attorney General,,D,Clay,Pheba,190
+Lynn Fitch,Attorney General,,R,Clay,Pheba,167
+Shad White,State Auditor,,R,Clay,Pheba,230
+Addie Lee Green,State Treasurer,,D,Clay,Pheba,184
+David McRae,State Treasurer,,R,Clay,Pheba,171
+Rickey L Cole,Commissioner of Agriculture & Commerce,,D,Clay,Pheba,190
+Andy Gipson,Commissioner of Agriculture & Commerce,,R,Clay,Pheba,163
+Angela Turner Ford,State Senate,16,D,Clay,Pheba,292
+Karl Gibbs,State House,36,D,Clay,Pheba,X
+Jessica Lofton Lewis,State House,36,IND,Clay,Pheba,X
+Gary A Chism,State House,37,R,Clay,Pheba,188
+Vicky Rose,State House,37,L,Clay,Pheba,96
+Chelkh Taylor,State House,38,D,Clay,Pheba,X
+Jim Hood,Governor,,D,Clay,Pine Bluff,214
+Tate Reeves,Governor,,R,Clay,Pine Bluff,38
+Bob Hickingbottom,Governor,,C,Clay,Pine Bluff,1
+David R Singletary,Governor,,IND,Clay,Pine Bluff,1
+Delbert Hosemann,Lieutenant Governor,,R,Clay,Pine Bluff,65
+Jay Hughes,Lieutenant Governor,,D,Clay,Pine Bluff,172
+Johnny DuPree,Secretary of State,,D,Clay,Pine Bluff,191
+Michael Watson,Secretary of State,,R,Clay,Pine Bluff,49
+Jennifer Riley Collins,Attorney General,,D,Clay,Pine Bluff,205
+Lynn Fitch,Attorney General,,R,Clay,Pine Bluff,47
+Shad White,State Auditor,,R,Clay,Pine Bluff,127
+Addie Lee Green,State Treasurer,,D,Clay,Pine Bluff,189
+David McRae,State Treasurer,,R,Clay,Pine Bluff,56
+Rickey L Cole,Commissioner of Agriculture & Commerce,,D,Clay,Pine Bluff,187
+Andy Gipson,Commissioner of Agriculture & Commerce,,R,Clay,Pine Bluff,57
+Angela Turner Ford,State Senate,16,D,Clay,Pine Bluff,223
+Karl Gibbs,State House,36,D,Clay,Pine Bluff,212
+Jessica Lofton Lewis,State House,36,IND,Clay,Pine Bluff,24
+Gary A Chism,State House,37,R,Clay,Pine Bluff,X
+Vicky Rose,State House,37,L,Clay,Pine Bluff,X
+Chelkh Taylor,State House,38,D,Clay,Pine Bluff,X
+Jim Hood,Governor,,D,Clay,Siloam,243
+Tate Reeves,Governor,,R,Clay,Siloam,359
+Bob Hickingbottom,Governor,,C,Clay,Siloam,1
+David R Singletary,Governor,,IND,Clay,Siloam,1
+Delbert Hosemann,Lieutenant Governor,,R,Clay,Siloam,381
+Jay Hughes,Lieutenant Governor,,D,Clay,Siloam,209
+Johnny DuPree,Secretary of State,,D,Clay,Siloam,223
+Michael Watson,Secretary of State,,R,Clay,Siloam,365
+Jennifer Riley Collins,Attorney General,,D,Clay,Siloam,229
+Lynn Fitch,Attorney General,,R,Clay,Siloam,367
+Shad White,State Auditor,,R,Clay,Siloam,469
+Addie Lee Green,State Treasurer,,D,Clay,Siloam,207
+David McRae,State Treasurer,,R,Clay,Siloam,380
+Rickey L Cole,Commissioner of Agriculture & Commerce,,D,Clay,Siloam,233
+Andy Gipson,Commissioner of Agriculture & Commerce,,R,Clay,Siloam,352
+Angela Turner Ford,State Senate,16,D,Clay,Siloam,490
+Karl Gibbs,State House,36,D,Clay,Siloam,232
+Jessica Lofton Lewis,State House,36,IND,Clay,Siloam,173
+Gary A Chism,State House,37,R,Clay,Siloam,136
+Vicky Rose,State House,37,L,Clay,Siloam,21
+Chelkh Taylor,State House,38,D,Clay,Siloam,X
+Jim Hood,Governor,,D,Clay,South-West Point,537
+Tate Reeves,Governor,,R,Clay,South-West Point,187
+Bob Hickingbottom,Governor,,C,Clay,South-West Point,6
+David R Singletary,Governor,,IND,Clay,South-West Point,7
+Delbert Hosemann,Lieutenant Governor,,R,Clay,South-West Point,228
+Jay Hughes,Lieutenant Governor,,D,Clay,South-West Point,496
+Johnny DuPree,Secretary of State,,D,Clay,South-West Point,513
+Michael Watson,Secretary of State,,R,Clay,South-West Point,204
+Jennifer Riley Collins,Attorney General,,D,Clay,South-West Point,525
+Lynn Fitch,Attorney General,,R,Clay,South-West Point,208
+Shad White,State Auditor,,R,Clay,South-West Point,420
+Addie Lee Green,State Treasurer,,D,Clay,South-West Point,511
+David McRae,State Treasurer,,R,Clay,South-West Point,220
+Rickey L Cole,Commissioner of Agriculture & Commerce,,D,Clay,South-West Point,525
+Andy Gipson,Commissioner of Agriculture & Commerce,,R,Clay,South-West Point,202
+Angela Turner Ford,State Senate,16,D,Clay,South-West Point,666
+Karl Gibbs,State House,36,D,Clay,South-West Point,X
+Jessica Lofton Lewis,State House,36,IND,Clay,South-West Point,X
+Gary A Chism,State House,37,R,Clay,South-West Point,64
+Vicky Rose,State House,37,L,Clay,South-West Point,77
+Chelkh Taylor,State House,38,D,Clay,South-West Point,505
+Jim Hood,Governor,,D,Clay,Tibbee,155
+Tate Reeves,Governor,,R,Clay,Tibbee,67
+Bob Hickingbottom,Governor,,C,Clay,Tibbee,0
+David R Singletary,Governor,,IND,Clay,Tibbee,1
+Delbert Hosemann,Lieutenant Governor,,R,Clay,Tibbee,91
+Jay Hughes,Lieutenant Governor,,D,Clay,Tibbee,128
+Johnny DuPree,Secretary of State,,D,Clay,Tibbee,136
+Michael Watson,Secretary of State,,R,Clay,Tibbee,85
+Jennifer Riley Collins,Attorney General,,D,Clay,Tibbee,143
+Lynn Fitch,Attorney General,,R,Clay,Tibbee,80
+Shad White,State Auditor,,R,Clay,Tibbee,135
+Addie Lee Green,State Treasurer,,D,Clay,Tibbee,136
+David McRae,State Treasurer,,R,Clay,Tibbee,85
+Rickey L Cole,Commissioner of Agriculture & Commerce,,D,Clay,Tibbee,138
+Andy Gipson,Commissioner of Agriculture & Commerce,,R,Clay,Tibbee,82
+Angela Turner Ford,State Senate,16,D,Clay,Tibbee,190
+Karl Gibbs,State House,36,D,Clay,Tibbee,118
+Jessica Lofton Lewis,State House,36,IND,Clay,Tibbee,15
+Gary A Chism,State House,37,R,Clay,Tibbee,57
+Vicky Rose,State House,37,L,Clay,Tibbee,27
+Chelkh Taylor,State House,38,D,Clay,Tibbee,
+Jim Hood,Governor,,D,Clay,Union Star,244
+Tate Reeves,Governor,,R,Clay,Union Star,173
+Bob Hickingbottom,Governor,,C,Clay,Union Star,0
+David R Singletary,Governor,,IND,Clay,Union Star,1
+Delbert Hosemann,Lieutenant Governor,,R,Clay,Union Star,199
+Jay Hughes,Lieutenant Governor,,D,Clay,Union Star,207
+Johnny DuPree,Secretary of State,,D,Clay,Union Star,225
+Michael Watson,Secretary of State,,R,Clay,Union Star,181
+Jennifer Riley Collins,Attorney General,,D,Clay,Union Star,233
+Lynn Fitch,Attorney General,,R,Clay,Union Star,178
+Shad White,State Auditor,,R,Clay,Union Star,265
+Addie Lee Green,State Treasurer,,D,Clay,Union Star,211
+David McRae,State Treasurer,,R,Clay,Union Star,196
+Rickey L Cole,Commissioner of Agriculture & Commerce,,D,Clay,Union Star,216
+Andy Gipson,Commissioner of Agriculture & Commerce,,R,Clay,Union Star,188
+Angela Turner Ford,State Senate,16,D,Clay,Union Star,328
+Karl Gibbs,State House,36,D,Clay,Union Star,262
+Jessica Lofton Lewis,State House,36,IND,Clay,Union Star,114
+Gary A Chism,State House,37,R,Clay,Union Star,X
+Vicky Rose,State House,37,L,Clay,Union Star,X
+Chelkh Taylor,State House,38,D,Clay,Union Star,X
+Jim Hood,Governor,,D,Clay,Vinton,215
+Tate Reeves,Governor,,R,Clay,Vinton,142
+Bob Hickingbottom,Governor,,C,Clay,Vinton,1
+David R Singletary,Governor,,IND,Clay,Vinton,3
+Delbert Hosemann,Lieutenant Governor,,R,Clay,Vinton,163
+Jay Hughes,Lieutenant Governor,,D,Clay,Vinton,193
+Johnny DuPree,Secretary of State,,D,Clay,Vinton,200
+Michael Watson,Secretary of State,,R,Clay,Vinton,152
+Jennifer Riley Collins,Attorney General,,D,Clay,Vinton,210
+Lynn Fitch,Attorney General,,R,Clay,Vinton,149
+Shad White,State Auditor,,R,Clay,Vinton,233
+Addie Lee Green,State Treasurer,,D,Clay,Vinton,195
+David McRae,State Treasurer,,R,Clay,Vinton,161
+Rickey L Cole,Commissioner of Agriculture & Commerce,,D,Clay,Vinton,209
+Andy Gipson,Commissioner of Agriculture & Commerce,,R,Clay,Vinton,146
+Angela Turner Ford,State Senate,16,D,Clay,Vinton,280
+Karl Gibbs,State House,36,D,Clay,Vinton,241
+Jessica Lofton Lewis,State House,36,IND,Clay,Vinton,100
+Gary A Chism,State House,37,R,Clay,Vinton,X
+Vicky Rose,State House,37,L,Clay,Vinton,X
+Chelkh Taylor,State House,38,D,Clay,Vinton,X
+Jim Hood,Governor,,D,Clay,West-West Point,660
+Tate Reeves,Governor,,R,Clay,West-West Point,172
+Bob Hickingbottom,Governor,,C,Clay,West-West Point,2
+David R Singletary,Governor,,IND,Clay,West-West Point,3
+Delbert Hosemann,Lieutenant Governor,,R,Clay,West-West Point,209
+Jay Hughes,Lieutenant Governor,,D,Clay,West-West Point,611
+Johnny DuPree,Secretary of State,,D,Clay,West-West Point,639
+Michael Watson,Secretary of State,,R,Clay,West-West Point,175
+Jennifer Riley Collins,Attorney General,,D,Clay,West-West Point,650
+Lynn Fitch,Attorney General,,R,Clay,West-West Point,181
+Shad White,State Auditor,,R,Clay,West-West Point,417
+Addie Lee Green,State Treasurer,,D,Clay,West-West Point,639
+David McRae,State Treasurer,,R,Clay,West-West Point,186
+Rickey L Cole,Commissioner of Agriculture & Commerce,,D,Clay,West-West Point,653
+Andy Gipson,Commissioner of Agriculture & Commerce,,R,Clay,West-West Point,172
+Angela Turner Ford,State Senate,16,D,Clay,West-West Point,764
+Karl Gibbs,State House,36,D,Clay,West-West Point,672
+Jessica Lofton Lewis,State House,36,IND,Clay,West-West Point,126
+Gary A Chism,State House,37,R,Clay,West-West Point,7
+Vicky Rose,State House,37,L,Clay,West-West Point,5
+Chelkh Taylor,State House,38,D,Clay,West-West Point,X
+Jim Hood,Governor,,D,Clay,TOTAL ,4452
+Tate Reeves,Governor,,R,Clay,TOTAL ,2801
+Bob Hickingbottom,Governor,,C,Clay,TOTAL ,16
+David R Singletary,Governor,,IND,Clay,TOTAL ,29
+Delbert Hosemann,Lieutenant Governor,,R,Clay,TOTAL ,3246
+Jay Hughes,Lieutenant Governor,,D,Clay,TOTAL ,3912
+Johnny DuPree,Secretary of State,,D,Clay,TOTAL ,4070
+Michael Watson,Secretary of State,,R,Clay,TOTAL ,3069
+Jennifer Riley Collins,Attorney General,,D,Clay,TOTAL ,4197
+Lynn Fitch,Attorney General,,R,Clay,TOTAL ,3040
+Shad White,State Auditor,,R,Clay,TOTAL ,4711
+Addie Lee Green,State Treasurer,,D,Clay,TOTAL ,3967
+David McRae,State Treasurer,,R,Clay,TOTAL ,3223
+Rickey L Cole,Commissioner of Agriculture & Commerce,,D,Clay,TOTAL ,4152
+Andy Gipson,Commissioner of Agriculture & Commerce,,R,Clay,TOTAL ,3008
+Angela Turner Ford,State Senate,16,D,Clay,TOTAL ,6175
+Karl Gibbs,State House,36,D,Clay,TOTAL ,3116
+Jessica Lofton Lewis,State House,36,IND,Clay,TOTAL ,997
+Gary A Chism,State House,37,R,Clay,TOTAL ,1473
+Vicky Rose,State House,37,L,Clay,TOTAL ,586
+Chelkh Taylor,State House,38,D,Clay,TOTAL ,538
+Robert E. Amos,Commissioner of Insurance,,D,Clay,Cairo,115
+Mike Chaney,Commissioner of Insurance,,R,Clay,Cairo,156
+Robert E. Amos,Commissioner of Insurance,,D,Clay,Caradine,389
+Mike Chaney,Commissioner of Insurance,,R,Clay,Caradine,81
+Robert E. Amos,Commissioner of Insurance,,D,Clay,Cedar Bluff,16
+Mike Chaney,Commissioner of Insurance,,R,Clay,Cedar Bluff,115
+Robert E. Amos,Commissioner of Insurance,,D,Clay,Central-West Point,314
+Mike Chaney,Commissioner of Insurance,,R,Clay,Central-West Point,283
+Robert E. Amos,Commissioner of Insurance,,D,Clay,East-West Point,344
+Mike Chaney,Commissioner of Insurance,,R,Clay,East-West Point,703
+Robert E. Amos,Commissioner of Insurance,,D,Clay,North-West Point,523
+Mike Chaney,Commissioner of Insurance,,R,Clay,North-West Point,427
+Robert E. Amos,Commissioner of Insurance,,D,Clay,Pheba,180
+Mike Chaney,Commissioner of Insurance,,R,Clay,Pheba,174
+Robert E. Amos,Commissioner of Insurance,,D,Clay,Pine Bluff,195
+Mike Chaney,Commissioner of Insurance,,R,Clay,Pine Bluff,50
+Robert E. Amos,Commissioner of Insurance,,D,Clay,Siloam,213
+Mike Chaney,Commissioner of Insurance,,R,Clay,Siloam,377
+Robert E. Amos,Commissioner of Insurance,,D,Clay,South-West Point,511
+Mike Chaney,Commissioner of Insurance,,R,Clay,South-West Point,218
+Robert E. Amos,Commissioner of Insurance,,D,Clay,Tibbee,137
+Mike Chaney,Commissioner of Insurance,,R,Clay,Tibbee,87
+Robert E. Amos,Commissioner of Insurance,,D,Clay,Union Star,214
+Mike Chaney,Commissioner of Insurance,,R,Clay,Union Star,194
+Robert E. Amos,Commissioner of Insurance,,D,Clay,Vinton,197
+Mike Chaney,Commissioner of Insurance,,R,Clay,Vinton,158
+Robert E. Amos,Commissioner of Insurance,,D,Clay,West-West Point,635
+Mike Chaney,Commissioner of Insurance,,R,Clay,West-West Point,187
+Robert E. Amos,Commissioner of Insurance,,D,Clay,TOTAL ,3983
+Mike Chaney,Commissioner of Insurance,,R,Clay,TOTAL ,3210
