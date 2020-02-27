@@ -1,4 +1,4 @@
-﻿county,office,district,candidate,party,precinct,votes
+county,office,district,candidate,party,precinct,votes
 Stone,Governor,,Jim Hood,Democrat,Bond,12
 Stone,Governor,,Tate Reeves,Repubilcan,Bond,57
 Stone,Governor,,Bob Hickingbottom,Constitution,Bond,2
@@ -14,7 +14,7 @@ Stone,State Treasurer,,Addie Lee Green,Democrat,Bond,3
 Stone,State Treasurer,,David McRae,Republican,Bond,67
 Stone,Commissioner of Agriculture & Commerce,,Rickey L Cole,Democrat,Bond,6
 Stone,Commissioner of Agriculture & Commerce,,Andy Gipson,Republican,Bond,63
-Stone,Commissioner of Insurance,,Robert E Amos,Democrat,Bond,4
+Stone,Commissioner of Insurance,,Robert E. Amos,Democrat,Bond,4
 Stone,Commissioner of Insurance,,Mike Chaney,Republican,Bond,67
 Stone,Public Service Commissioner,Southern,Dane Maxwell,Republican,Bond,59
 Stone,Public Service Commissioner,Southern,Connie Moran,Democrat,Bond,10
@@ -58,7 +58,7 @@ Stone,State Treasurer,,Addie Lee Green,Democrat,National Guard,18
 Stone,State Treasurer,,David McRae,Republican,National Guard,196
 Stone,Commissioner of Agriculture & Commerce,,Rickey L Cole,Democrat,National Guard,23
 Stone,Commissioner of Agriculture & Commerce,,Andy Gipson,Republican,National Guard,189
-Stone,Commissioner of Insurance,,Robert E Amos,Democrat,National Guard,18
+Stone,Commissioner of Insurance,,Robert E. Amos,Democrat,National Guard,18
 Stone,Commissioner of Insurance,,Mike Chaney,Republican,National Guard,196
 Stone,Public Service Commissioner,Southern,Dane Maxwell,Republican,National Guard,173
 Stone,Public Service Commissioner,Southern,Connie Moran,Democrat,National Guard,38
@@ -102,7 +102,7 @@ Stone,State Treasurer,,Addie Lee Green,Democrat,Old Health Department,39
 Stone,State Treasurer,,David McRae,Republican,Old Health Department,279
 Stone,Commissioner of Agriculture & Commerce,,Rickey L Cole,Democrat,Old Health Department,44
 Stone,Commissioner of Agriculture & Commerce,,Andy Gipson,Republican,Old Health Department,274
-Stone,Commissioner of Insurance,,Robert E Amos,Democrat,Old Health Department,34
+Stone,Commissioner of Insurance,,Robert E. Amos,Democrat,Old Health Department,34
 Stone,Commissioner of Insurance,,Mike Chaney,Republican,Old Health Department,285
 Stone,Public Service Commissioner,Southern,Dane Maxwell,Republican,Old Health Department,248
 Stone,Public Service Commissioner,Southern,Connie Moran,Democrat,Old Health Department,72
@@ -146,7 +146,7 @@ Stone,State Treasurer,,Addie Lee Green,Democrat,Courthouse,47
 Stone,State Treasurer,,David McRae,Republican,Courthouse,253
 Stone,Commissioner of Agriculture & Commerce,,Rickey L Cole,Democrat,Courthouse,56
 Stone,Commissioner of Agriculture & Commerce,,Andy Gipson,Republican,Courthouse,239
-Stone,Commissioner of Insurance,,Robert E Amos,Democrat,Courthouse,51
+Stone,Commissioner of Insurance,,Robert E. Amos,Democrat,Courthouse,51
 Stone,Commissioner of Insurance,,Mike Chaney,Republican,Courthouse,248
 Stone,Public Service Commissioner,Southern,Dane Maxwell,Republican,Courthouse,228
 Stone,Public Service Commissioner,Southern,Connie Moran,Democrat,Courthouse,69
@@ -190,7 +190,7 @@ Stone,State Treasurer,,Addie Lee Green,Democrat,American Legion,279
 Stone,State Treasurer,,David McRae,Republican,American Legion,186
 Stone,Commissioner of Agriculture & Commerce,,Rickey L Cole,Democrat,American Legion,290
 Stone,Commissioner of Agriculture & Commerce,,Andy Gipson,Republican,American Legion,179
-Stone,Commissioner of Insurance,,Robert E Amos,Democrat,American Legion,277
+Stone,Commissioner of Insurance,,Robert E. Amos,Democrat,American Legion,277
 Stone,Commissioner of Insurance,,Mike Chaney,Republican,American Legion,190
 Stone,Public Service Commissioner,Southern,Dane Maxwell,Republican,American Legion,189
 Stone,Public Service Commissioner,Southern,Connie Moran,Democrat,American Legion,281
@@ -234,7 +234,7 @@ Stone,State Treasurer,,Addie Lee Green,Democrat,New Hope,377
 Stone,State Treasurer,,David McRae,Republican,New Hope,157
 Stone,Commissioner of Agriculture & Commerce,,Rickey L Cole,Democrat,New Hope,386
 Stone,Commissioner of Agriculture & Commerce,,Andy Gipson,Republican,New Hope,148
-Stone,Commissioner of Insurance,,Robert E Amos,Democrat,New Hope,380
+Stone,Commissioner of Insurance,,Robert E. Amos,Democrat,New Hope,380
 Stone,Commissioner of Insurance,,Mike Chaney,Republican,New Hope,158
 Stone,Public Service Commissioner,Southern,Dane Maxwell,Republican,New Hope,150
 Stone,Public Service Commissioner,Southern,Connie Moran,Democrat,New Hope,385
@@ -278,7 +278,7 @@ Stone,State Treasurer,,Addie Lee Green,Democrat,Perkinston,35
 Stone,State Treasurer,,David McRae,Republican,Perkinston,183
 Stone,Commissioner of Agriculture & Commerce,,Rickey L Cole,Democrat,Perkinston,42
 Stone,Commissioner of Agriculture & Commerce,,Andy Gipson,Republican,Perkinston,174
-Stone,Commissioner of Insurance,,Robert E Amos,Democrat,Perkinston,39
+Stone,Commissioner of Insurance,,Robert E. Amos,Democrat,Perkinston,39
 Stone,Commissioner of Insurance,,Mike Chaney,Republican,Perkinston,178
 Stone,Public Service Commissioner,Southern,Dane Maxwell,Republican,Perkinston,158
 Stone,Public Service Commissioner,Southern,Connie Moran,Democrat,Perkinston,59
@@ -322,7 +322,7 @@ Stone,State Treasurer,,Addie Lee Green,Democrat,Magnolia,23
 Stone,State Treasurer,,David McRae,Republican,Magnolia,254
 Stone,Commissioner of Agriculture & Commerce,,Rickey L Cole,Democrat,Magnolia,26
 Stone,Commissioner of Agriculture & Commerce,,Andy Gipson,Republican,Magnolia,253
-Stone,Commissioner of Insurance,,Robert E Amos,Democrat,Magnolia,22
+Stone,Commissioner of Insurance,,Robert E. Amos,Democrat,Magnolia,22
 Stone,Commissioner of Insurance,,Mike Chaney,Republican,Magnolia,256
 Stone,Public Service Commissioner,Southern,Dane Maxwell,Republican,Magnolia,229
 Stone,Public Service Commissioner,Southern,Connie Moran,Democrat,Magnolia,48
@@ -366,7 +366,7 @@ Stone,State Treasurer,,Addie Lee Green,Democrat,McHenry Library,23
 Stone,State Treasurer,,David McRae,Republican,McHenry Library,234
 Stone,Commissioner of Agriculture & Commerce,,Rickey L Cole,Democrat,McHenry Library,31
 Stone,Commissioner of Agriculture & Commerce,,Andy Gipson,Republican,McHenry Library,225
-Stone,Commissioner of Insurance,,Robert E Amos,Democrat,McHenry Library,28
+Stone,Commissioner of Insurance,,Robert E. Amos,Democrat,McHenry Library,28
 Stone,Commissioner of Insurance,,Mike Chaney,Republican,McHenry Library,230
 Stone,Public Service Commissioner,Southern,Dane Maxwell,Republican,McHenry Library,218
 Stone,Public Service Commissioner,Southern,Connie Moran,Democrat,McHenry Library,40
@@ -410,7 +410,7 @@ Stone,State Treasurer,,Addie Lee Green,Democrat,Elarbee,21
 Stone,State Treasurer,,David McRae,Republican,Elarbee,260
 Stone,Commissioner of Agriculture & Commerce,,Rickey L Cole,Democrat,Elarbee,26
 Stone,Commissioner of Agriculture & Commerce,,Andy Gipson,Republican,Elarbee,252
-Stone,Commissioner of Insurance,,Robert E Amos,Democrat,Elarbee,21
+Stone,Commissioner of Insurance,,Robert E. Amos,Democrat,Elarbee,21
 Stone,Commissioner of Insurance,,Mike Chaney,Republican,Elarbee,260
 Stone,Public Service Commissioner,Southern,Dane Maxwell,Republican,Elarbee,242
 Stone,Public Service Commissioner,Southern,Connie Moran,Democrat,Elarbee,41
@@ -454,7 +454,7 @@ Stone,State Treasurer,,Addie Lee Green,Democrat,Tuxechana,51
 Stone,State Treasurer,,David McRae,Republican,Tuxechana,614
 Stone,Commissioner of Agriculture & Commerce,,Rickey L Cole,Democrat,Tuxechana,61
 Stone,Commissioner of Agriculture & Commerce,,Andy Gipson,Republican,Tuxechana,607
-Stone,Commissioner of Insurance,,Robert E Amos,Democrat,Tuxechana,61
+Stone,Commissioner of Insurance,,Robert E. Amos,Democrat,Tuxechana,61
 Stone,Commissioner of Insurance,,Mike Chaney,Republican,Tuxechana,605
 Stone,Public Service Commissioner,Southern,Dane Maxwell,Republican,Tuxechana,581
 Stone,Public Service Commissioner,Southern,Connie Moran,Democrat,Tuxechana,83
@@ -498,7 +498,7 @@ Stone,State Treasurer,,Addie Lee Green,Democrat,McHenry Fire Station,89
 Stone,State Treasurer,,David McRae,Republican,McHenry Fire Station,277
 Stone,Commissioner of Agriculture & Commerce,,Rickey L Cole,Democrat,McHenry Fire Station,95
 Stone,Commissioner of Agriculture & Commerce,,Andy Gipson,Republican,McHenry Fire Station,269
-Stone,Commissioner of Insurance,,Robert E Amos,Democrat,McHenry Fire Station,79
+Stone,Commissioner of Insurance,,Robert E. Amos,Democrat,McHenry Fire Station,79
 Stone,Commissioner of Insurance,,Mike Chaney,Republican,McHenry Fire Station,287
 Stone,Public Service Commissioner,Southern,Dane Maxwell,Republican,McHenry Fire Station,258
 Stone,Public Service Commissioner,Southern,Connie Moran,Democrat,McHenry Fire Station,109
@@ -542,7 +542,7 @@ Stone,State Treasurer,,Addie Lee Green,Democrat,Flint Creek,82
 Stone,State Treasurer,,David McRae,Republican,Flint Creek,465
 Stone,Commissioner of Agriculture & Commerce,,Rickey L Cole,Democrat,Flint Creek,94
 Stone,Commissioner of Agriculture & Commerce,,Andy Gipson,Republican,Flint Creek,455
-Stone,Commissioner of Insurance,,Robert E Amos,Democrat,Flint Creek,81
+Stone,Commissioner of Insurance,,Robert E. Amos,Democrat,Flint Creek,81
 Stone,Commissioner of Insurance,,Mike Chaney,Republican,Flint Creek,470
 Stone,Public Service Commissioner,Southern,Dane Maxwell,Republican,Flint Creek,410
 Stone,Public Service Commissioner,Southern,Connie Moran,Democrat,Flint Creek,138
@@ -586,7 +586,7 @@ Stone,State Treasurer,,Addie Lee Green,Democrat,Big Level,58
 Stone,State Treasurer,,David McRae,Republican,Big Level,426
 Stone,Commissioner of Agriculture & Commerce,,Rickey L Cole,Democrat,Big Level,66
 Stone,Commissioner of Agriculture & Commerce,,Andy Gipson,Republican,Big Level,417
-Stone,Commissioner of Insurance,,Robert E Amos,Democrat,Big Level,56
+Stone,Commissioner of Insurance,,Robert E. Amos,Democrat,Big Level,56
 Stone,Commissioner of Insurance,,Mike Chaney,Republican,Big Level,433
 Stone,Public Service Commissioner,Southern,Dane Maxwell,Republican,Big Level,399
 Stone,Public Service Commissioner,Southern,Connie Moran,Democrat,Big Level,89
@@ -630,7 +630,7 @@ Stone,State Treasurer,,Addie Lee Green,Democrat,Pleasant Hill,15
 Stone,State Treasurer,,David McRae,Republican,Pleasant Hill,138
 Stone,Commissioner of Agriculture & Commerce,,Rickey L Cole,Democrat,Pleasant Hill,17
 Stone,Commissioner of Agriculture & Commerce,,Andy Gipson,Republican,Pleasant Hill,134
-Stone,Commissioner of Insurance,,Robert E Amos,Democrat,Pleasant Hill,15
+Stone,Commissioner of Insurance,,Robert E. Amos,Democrat,Pleasant Hill,15
 Stone,Commissioner of Insurance,,Mike Chaney,Republican,Pleasant Hill,135
 Stone,Public Service Commissioner,Southern,Dane Maxwell,Republican,Pleasant Hill,123
 Stone,Public Service Commissioner,Southern,Connie Moran,Democrat,Pleasant Hill,28
@@ -674,7 +674,7 @@ Stone,State Treasurer,,Addie Lee Green,Democrat,Total,1160
 Stone,State Treasurer,,David McRae,Republican,Total,3989
 Stone,Commissioner of Agriculture & Commerce,,Rickey L Cole,Democrat,Total,1263
 Stone,Commissioner of Agriculture & Commerce,,Andy Gipson,Republican,Total,3878
-Stone,Commissioner of Insurance,,Robert E Amos,Democrat,Total,1166
+Stone,Commissioner of Insurance,,Robert E. Amos,Democrat,Total,1166
 Stone,Commissioner of Insurance,,Mike Chaney,Republican,Total,3998
 Stone,Public Service Commissioner,Southern,Dane Maxwell,Republican,Total,3665
 Stone,Public Service Commissioner,Southern,Connie Moran,Democrat,Total,1490

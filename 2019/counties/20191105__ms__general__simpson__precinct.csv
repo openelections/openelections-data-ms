@@ -1,4 +1,4 @@
-﻿county,office,district,candidate,party,precinct,votes
+county,office,district,candidate,party,precinct,votes
 Simpson,Governor,,Jim Hood,Democrat,Bowie,92
 Simpson,Governor,,Tate Reeves,Repubilcan,Bowie,131
 Simpson,Governor,,Bob Hickingbottom,Constitution,Bowie,2
@@ -14,7 +14,7 @@ Simpson,State Treasurer,,Ardle Lee Green,Democrat,Bowie,76
 Simpson,State Treasurer,,David McRae,Republican,Bowie,151
 Simpson,Commissioner of Agriculture & Commerce,,Rickey L Cole,Democrat,Bowie,75
 Simpson,Commissioner of Agriculture & Commerce,,Andy Gipson,Republican,Bowie,151
-Simpson,Commissioner of Insurance,,Robert E Amos,Democrat,Bowie,74
+Simpson,Commissioner of Insurance,,Robert E. Amos,Democrat,Bowie,74
 Simpson,Commissioner of Insurance,,Mike Chaney,Republican,Bowie,153
 Simpson,Public Service Commissioner,,Dane Maxwell,Republican,Bowie,145
 Simpson,Public Service Commissioner,,Connie Moran,Democrat,Bowie,81
@@ -64,7 +64,7 @@ Simpson,State Treasurer,,Ardle Lee Green,Democrat,Braxton,31
 Simpson,State Treasurer,,David McRae,Republican,Braxton,519
 Simpson,Commissioner of Agriculture & Commerce,,Rickey L Cole,Democrat,Braxton,37
 Simpson,Commissioner of Agriculture & Commerce,,Andy Gipson,Republican,Braxton,518
-Simpson,Commissioner of Insurance,,Robert E Amos,Democrat,Braxton,35
+Simpson,Commissioner of Insurance,,Robert E. Amos,Democrat,Braxton,35
 Simpson,Commissioner of Insurance,,Mike Chaney,Republican,Braxton,515
 Simpson,Public Service Commissioner,,Dane Maxwell,Republican,Braxton,489
 Simpson,Public Service Commissioner,,Connie Moran,Democrat,Braxton,54
@@ -114,7 +114,7 @@ Simpson,State Treasurer,,Ardle Lee Green,Democrat,Bridgeport,174
 Simpson,State Treasurer,,David McRae,Republican,Bridgeport,89
 Simpson,Commissioner of Agriculture & Commerce,,Rickey L Cole,Democrat,Bridgeport,176
 Simpson,Commissioner of Agriculture & Commerce,,Andy Gipson,Republican,Bridgeport,82
-Simpson,Commissioner of Insurance,,Robert E Amos,Democrat,Bridgeport,172
+Simpson,Commissioner of Insurance,,Robert E. Amos,Democrat,Bridgeport,172
 Simpson,Commissioner of Insurance,,Mike Chaney,Republican,Bridgeport,91
 Simpson,Public Service Commissioner,,Dane Maxwell,Republican,Bridgeport,86
 Simpson,Public Service Commissioner,,Connie Moran,Democrat,Bridgeport,174
@@ -164,7 +164,7 @@ Simpson,State Treasurer,,Ardle Lee Green,Democrat,d'Lo,19
 Simpson,State Treasurer,,David McRae,Republican,d'Lo,231
 Simpson,Commissioner of Agriculture & Commerce,,Rickey L Cole,Democrat,d'Lo,24
 Simpson,Commissioner of Agriculture & Commerce,,Andy Gipson,Republican,d'Lo,227
-Simpson,Commissioner of Insurance,,Robert E Amos,Democrat,d'Lo,20
+Simpson,Commissioner of Insurance,,Robert E. Amos,Democrat,d'Lo,20
 Simpson,Commissioner of Insurance,,Mike Chaney,Republican,d'Lo,231
 Simpson,Public Service Commissioner,,Dane Maxwell,Republican,d'Lo,221
 Simpson,Public Service Commissioner,,Connie Moran,Democrat,d'Lo,25
@@ -214,7 +214,7 @@ Simpson,State Treasurer,,Ardle Lee Green,Democrat,Dry Creek,56
 Simpson,State Treasurer,,David McRae,Republican,Dry Creek,418
 Simpson,Commissioner of Agriculture & Commerce,,Rickey L Cole,Democrat,Dry Creek,60
 Simpson,Commissioner of Agriculture & Commerce,,Andy Gipson,Republican,Dry Creek,416
-Simpson,Commissioner of Insurance,,Robert E Amos,Democrat,Dry Creek,56
+Simpson,Commissioner of Insurance,,Robert E. Amos,Democrat,Dry Creek,56
 Simpson,Commissioner of Insurance,,Mike Chaney,Republican,Dry Creek,419
 Simpson,Public Service Commissioner,,Dane Maxwell,Republican,Dry Creek,405
 Simpson,Public Service Commissioner,,Connie Moran,Democrat,Dry Creek,68
@@ -264,7 +264,7 @@ Simpson,State Treasurer,,Ardle Lee Green,Democrat,Fork Church,183
 Simpson,State Treasurer,,David McRae,Republican,Fork Church,93
 Simpson,Commissioner of Agriculture & Commerce,,Rickey L Cole,Democrat,Fork Church,181
 Simpson,Commissioner of Agriculture & Commerce,,Andy Gipson,Republican,Fork Church,96
-Simpson,Commissioner of Insurance,,Robert E Amos,Democrat,Fork Church,181
+Simpson,Commissioner of Insurance,,Robert E. Amos,Democrat,Fork Church,181
 Simpson,Commissioner of Insurance,,Mike Chaney,Republican,Fork Church,100
 Simpson,Public Service Commissioner,,Dane Maxwell,Republican,Fork Church,101
 Simpson,Public Service Commissioner,,Connie Moran,Democrat,Fork Church,177
@@ -314,7 +314,7 @@ Simpson,State Treasurer,,Ardle Lee Green,Democrat,Harrisville,64
 Simpson,State Treasurer,,David McRae,Republican,Harrisville,441
 Simpson,Commissioner of Agriculture & Commerce,,Rickey L Cole,Democrat,Harrisville,60
 Simpson,Commissioner of Agriculture & Commerce,,Andy Gipson,Republican,Harrisville,441
-Simpson,Commissioner of Insurance,,Robert E Amos,Democrat,Harrisville,66
+Simpson,Commissioner of Insurance,,Robert E. Amos,Democrat,Harrisville,66
 Simpson,Commissioner of Insurance,,Mike Chaney,Republican,Harrisville,438
 Simpson,Public Service Commissioner,,Dane Maxwell,Republican,Harrisville,417
 Simpson,Public Service Commissioner,,Connie Moran,Democrat,Harrisville,83
@@ -364,7 +364,7 @@ Simpson,State Treasurer,,Ardle Lee Green,Democrat,Jupiter,282
 Simpson,State Treasurer,,David McRae,Republican,Jupiter,113
 Simpson,Commissioner of Agriculture & Commerce,,Rickey L Cole,Democrat,Jupiter,279
 Simpson,Commissioner of Agriculture & Commerce,,Andy Gipson,Republican,Jupiter,115
-Simpson,Commissioner of Insurance,,Robert E Amos,Democrat,Jupiter,282
+Simpson,Commissioner of Insurance,,Robert E. Amos,Democrat,Jupiter,282
 Simpson,Commissioner of Insurance,,Mike Chaney,Republican,Jupiter,114
 Simpson,Public Service Commissioner,,Dane Maxwell,Republican,Jupiter,109
 Simpson,Public Service Commissioner,,Connie Moran,Democrat,Jupiter,287
@@ -414,7 +414,7 @@ Simpson,State Treasurer,,Ardle Lee Green,Democrat,Magee 1,340
 Simpson,State Treasurer,,David McRae,Republican,Magee 1,65
 Simpson,Commissioner of Agriculture & Commerce,,Rickey L Cole,Democrat,Magee 1,333
 Simpson,Commissioner of Agriculture & Commerce,,Andy Gipson,Republican,Magee 1,70
-Simpson,Commissioner of Insurance,,Robert E Amos,Democrat,Magee 1,342
+Simpson,Commissioner of Insurance,,Robert E. Amos,Democrat,Magee 1,342
 Simpson,Commissioner of Insurance,,Mike Chaney,Republican,Magee 1,65
 Simpson,Public Service Commissioner,,Dane Maxwell,Republican,Magee 1,69
 Simpson,Public Service Commissioner,,Connie Moran,Democrat,Magee 1,335
@@ -464,7 +464,7 @@ Simpson,State Treasurer,,Ardle Lee Green,Democrat,Magee 2,161
 Simpson,State Treasurer,,David McRae,Republican,Magee 2,666
 Simpson,Commissioner of Agriculture & Commerce,,Rickey L Cole,Democrat,Magee 2,163
 Simpson,Commissioner of Agriculture & Commerce,,Andy Gipson,Republican,Magee 2,662
-Simpson,Commissioner of Insurance,,Robert E Amos,Democrat,Magee 2,160
+Simpson,Commissioner of Insurance,,Robert E. Amos,Democrat,Magee 2,160
 Simpson,Commissioner of Insurance,,Mike Chaney,Republican,Magee 2,663
 Simpson,Public Service Commissioner,,Dane Maxwell,Republican,Magee 2,640
 Simpson,Public Service Commissioner,,Connie Moran,Democrat,Magee 2,177
@@ -514,7 +514,7 @@ Simpson,State Treasurer,,Ardle Lee Green,Democrat,Magee 4 North,60
 Simpson,State Treasurer,,David McRae,Republican,Magee 4 North,334
 Simpson,Commissioner of Agriculture & Commerce,,Rickey L Cole,Democrat,Magee 4 North,66
 Simpson,Commissioner of Agriculture & Commerce,,Andy Gipson,Republican,Magee 4 North,330
-Simpson,Commissioner of Insurance,,Robert E Amos,Democrat,Magee 4 North,57
+Simpson,Commissioner of Insurance,,Robert E. Amos,Democrat,Magee 4 North,57
 Simpson,Commissioner of Insurance,,Mike Chaney,Republican,Magee 4 North,340
 Simpson,Public Service Commissioner,,Dane Maxwell,Republican,Magee 4 North,315
 Simpson,Public Service Commissioner,,Connie Moran,Democrat,Magee 4 North,76
@@ -564,7 +564,7 @@ Simpson,State Treasurer,,Ardle Lee Green,Democrat,Magee 4 South,129
 Simpson,State Treasurer,,David McRae,Republican,Magee 4 South,537
 Simpson,Commissioner of Agriculture & Commerce,,Rickey L Cole,Democrat,Magee 4 South,137
 Simpson,Commissioner of Agriculture & Commerce,,Andy Gipson,Republican,Magee 4 South,534
-Simpson,Commissioner of Insurance,,Robert E Amos,Democrat,Magee 4 South,122
+Simpson,Commissioner of Insurance,,Robert E. Amos,Democrat,Magee 4 South,122
 Simpson,Commissioner of Insurance,,Mike Chaney,Republican,Magee 4 South,547
 Simpson,Public Service Commissioner,,Dane Maxwell,Republican,Magee 4 South,509
 Simpson,Public Service Commissioner,,Connie Moran,Democrat,Magee 4 South,152
@@ -614,7 +614,7 @@ Simpson,State Treasurer,,Ardle Lee Green,Democrat,Mendenhall 1,137
 Simpson,State Treasurer,,David McRae,Republican,Mendenhall 1,65
 Simpson,Commissioner of Agriculture & Commerce,,Rickey L Cole,Democrat,Mendenhall 1,136
 Simpson,Commissioner of Agriculture & Commerce,,Andy Gipson,Republican,Mendenhall 1,64
-Simpson,Commissioner of Insurance,,Robert E Amos,Democrat,Mendenhall 1,138
+Simpson,Commissioner of Insurance,,Robert E. Amos,Democrat,Mendenhall 1,138
 Simpson,Commissioner of Insurance,,Mike Chaney,Republican,Mendenhall 1,66
 Simpson,Public Service Commissioner,,Dane Maxwell,Republican,Mendenhall 1,58
 Simpson,Public Service Commissioner,,Connie Moran,Democrat,Mendenhall 1,141
@@ -664,7 +664,7 @@ Simpson,State Treasurer,,Ardle Lee Green,Democrat,Mendenhall 3,119
 Simpson,State Treasurer,,David McRae,Republican,Mendenhall 3,574
 Simpson,Commissioner of Agriculture & Commerce,,Rickey L Cole,Democrat,Mendenhall 3,131
 Simpson,Commissioner of Agriculture & Commerce,,Andy Gipson,Republican,Mendenhall 3,570
-Simpson,Commissioner of Insurance,,Robert E Amos,Democrat,Mendenhall 3,109
+Simpson,Commissioner of Insurance,,Robert E. Amos,Democrat,Mendenhall 3,109
 Simpson,Commissioner of Insurance,,Mike Chaney,Republican,Mendenhall 3,589
 Simpson,Public Service Commissioner,,Dane Maxwell,Republican,Mendenhall 3,555
 Simpson,Public Service Commissioner,,Connie Moran,Democrat,Mendenhall 3,135
@@ -714,7 +714,7 @@ Simpson,State Treasurer,,Ardle Lee Green,Democrat,Merit,36
 Simpson,State Treasurer,,David McRae,Republican,Merit,450
 Simpson,Commissioner of Agriculture & Commerce,,Rickey L Cole,Democrat,Merit,46
 Simpson,Commissioner of Agriculture & Commerce,,Andy Gipson,Republican,Merit,441
-Simpson,Commissioner of Insurance,,Robert E Amos,Democrat,Merit,34
+Simpson,Commissioner of Insurance,,Robert E. Amos,Democrat,Merit,34
 Simpson,Commissioner of Insurance,,Mike Chaney,Republican,Merit,451
 Simpson,Public Service Commissioner,,Dane Maxwell,Republican,Merit,433
 Simpson,Public Service Commissioner,,Connie Moran,Democrat,Merit,47
@@ -764,7 +764,7 @@ Simpson,State Treasurer,,Ardle Lee Green,Democrat,New Hope,92
 Simpson,State Treasurer,,David McRae,Republican,New Hope,108
 Simpson,Commissioner of Agriculture & Commerce,,Rickey L Cole,Democrat,New Hope,90
 Simpson,Commissioner of Agriculture & Commerce,,Andy Gipson,Republican,New Hope,109
-Simpson,Commissioner of Insurance,,Robert E Amos,Democrat,New Hope,89
+Simpson,Commissioner of Insurance,,Robert E. Amos,Democrat,New Hope,89
 Simpson,Commissioner of Insurance,,Mike Chaney,Republican,New Hope,113
 Simpson,Public Service Commissioner,,Dane Maxwell,Republican,New Hope,113
 Simpson,Public Service Commissioner,,Connie Moran,Democrat,New Hope,85
@@ -814,7 +814,7 @@ Simpson,State Treasurer,,Ardle Lee Green,Democrat,Oak Grove,230
 Simpson,State Treasurer,,David McRae,Republican,Oak Grove,241
 Simpson,Commissioner of Agriculture & Commerce,,Rickey L Cole,Democrat,Oak Grove,232
 Simpson,Commissioner of Agriculture & Commerce,,Andy Gipson,Republican,Oak Grove,241
-Simpson,Commissioner of Insurance,,Robert E Amos,Democrat,Oak Grove,225
+Simpson,Commissioner of Insurance,,Robert E. Amos,Democrat,Oak Grove,225
 Simpson,Commissioner of Insurance,,Mike Chaney,Republican,Oak Grove,247
 Simpson,Public Service Commissioner,,Dane Maxwell,Republican,Oak Grove,234
 Simpson,Public Service Commissioner,,Connie Moran,Democrat,Oak Grove,234
@@ -864,7 +864,7 @@ Simpson,State Treasurer,,Ardle Lee Green,Democrat,Pearl,75
 Simpson,State Treasurer,,David McRae,Republican,Pearl,282
 Simpson,Commissioner of Agriculture & Commerce,,Rickey L Cole,Democrat,Pearl,77
 Simpson,Commissioner of Agriculture & Commerce,,Andy Gipson,Republican,Pearl,281
-Simpson,Commissioner of Insurance,,Robert E Amos,Democrat,Pearl,75
+Simpson,Commissioner of Insurance,,Robert E. Amos,Democrat,Pearl,75
 Simpson,Commissioner of Insurance,,Mike Chaney,Republican,Pearl,280
 Simpson,Public Service Commissioner,,Dane Maxwell,Republican,Pearl,263
 Simpson,Public Service Commissioner,,Connie Moran,Democrat,Pearl,88
@@ -914,7 +914,7 @@ Simpson,State Treasurer,,Ardle Lee Green,Democrat,Pinola,72
 Simpson,State Treasurer,,David McRae,Republican,Pinola,176
 Simpson,Commissioner of Agriculture & Commerce,,Rickey L Cole,Democrat,Pinola,74
 Simpson,Commissioner of Agriculture & Commerce,,Andy Gipson,Republican,Pinola,173
-Simpson,Commissioner of Insurance,,Robert E Amos,Democrat,Pinola,69
+Simpson,Commissioner of Insurance,,Robert E. Amos,Democrat,Pinola,69
 Simpson,Commissioner of Insurance,,Mike Chaney,Republican,Pinola,179
 Simpson,Public Service Commissioner,,Dane Maxwell,Republican,Pinola,165
 Simpson,Public Service Commissioner,,Connie Moran,Democrat,Pinola,80
@@ -964,7 +964,7 @@ Simpson,State Treasurer,,Ardle Lee Green,Democrat,Saratoga,107
 Simpson,State Treasurer,,David McRae,Republican,Saratoga,112
 Simpson,Commissioner of Agriculture & Commerce,,Rickey L Cole,Democrat,Saratoga,107
 Simpson,Commissioner of Agriculture & Commerce,,Andy Gipson,Republican,Saratoga,112
-Simpson,Commissioner of Insurance,,Robert E Amos,Democrat,Saratoga,110
+Simpson,Commissioner of Insurance,,Robert E. Amos,Democrat,Saratoga,110
 Simpson,Commissioner of Insurance,,Mike Chaney,Republican,Saratoga,112
 Simpson,Public Service Commissioner,,Dane Maxwell,Republican,Saratoga,109
 Simpson,Public Service Commissioner,,Connie Moran,Democrat,Saratoga,108
@@ -1014,7 +1014,7 @@ Simpson,State Treasurer,,Ardle Lee Green,Democrat,Shivers,114
 Simpson,State Treasurer,,David McRae,Republican,Shivers,151
 Simpson,Commissioner of Agriculture & Commerce,,Rickey L Cole,Democrat,Shivers,114
 Simpson,Commissioner of Agriculture & Commerce,,Andy Gipson,Republican,Shivers,150
-Simpson,Commissioner of Insurance,,Robert E Amos,Democrat,Shivers,120
+Simpson,Commissioner of Insurance,,Robert E. Amos,Democrat,Shivers,120
 Simpson,Commissioner of Insurance,,Mike Chaney,Republican,Shivers,146
 Simpson,Public Service Commissioner,,Dane Maxwell,Republican,Shivers,142
 Simpson,Public Service Commissioner,,Connie Moran,Democrat,Shivers,123
@@ -1064,7 +1064,7 @@ Simpson,State Treasurer,,Ardle Lee Green,Democrat,Sumrall,57
 Simpson,State Treasurer,,David McRae,Republican,Sumrall,276
 Simpson,Commissioner of Agriculture & Commerce,,Rickey L Cole,Democrat,Sumrall,61
 Simpson,Commissioner of Agriculture & Commerce,,Andy Gipson,Republican,Sumrall,276
-Simpson,Commissioner of Insurance,,Robert E Amos,Democrat,Sumrall,59
+Simpson,Commissioner of Insurance,,Robert E. Amos,Democrat,Sumrall,59
 Simpson,Commissioner of Insurance,,Mike Chaney,Republican,Sumrall,279
 Simpson,Public Service Commissioner,,Dane Maxwell,Republican,Sumrall,267
 Simpson,Public Service Commissioner,,Connie Moran,Democrat,Sumrall,65
@@ -1114,7 +1114,7 @@ Simpson,State Treasurer,,Ardle Lee Green,Democrat,Weathersby,426
 Simpson,State Treasurer,,David McRae,Republican,Weathersby,117
 Simpson,Commissioner of Agriculture & Commerce,,Rickey L Cole,Democrat,Weathersby,423
 Simpson,Commissioner of Agriculture & Commerce,,Andy Gipson,Republican,Weathersby,120
-Simpson,Commissioner of Insurance,,Robert E Amos,Democrat,Weathersby,434
+Simpson,Commissioner of Insurance,,Robert E. Amos,Democrat,Weathersby,434
 Simpson,Commissioner of Insurance,,Mike Chaney,Republican,Weathersby,115
 Simpson,Public Service Commissioner,,Dane Maxwell,Republican,Weathersby,112
 Simpson,Public Service Commissioner,,Connie Moran,Democrat,Weathersby,426
@@ -1164,7 +1164,7 @@ Simpson,State Treasurer,,Ardle Lee Green,Democrat,,3040
 Simpson,State Treasurer,,David McRae,Republican,,6209
 Simpson,Commissioner of Agriculture & Commerce,,Rickey L Cole,Democrat,,3082
 Simpson,Commissioner of Agriculture & Commerce,,Andy Gipson,Republican,,6179
-Simpson,Commissioner of Insurance,,Robert E Amos,Democrat,,3029
+Simpson,Commissioner of Insurance,,Robert E. Amos,Democrat,,3029
 Simpson,Commissioner of Insurance,,Mike Chaney,Republican,,6253
 Simpson,Public Service Commissioner,,Dane Maxwell,Republican,,5957
 Simpson,Public Service Commissioner,,Connie Moran,Democrat,,3221
