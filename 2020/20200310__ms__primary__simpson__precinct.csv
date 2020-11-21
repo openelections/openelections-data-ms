@@ -1,0 +1,505 @@
+county,precinct,office,district,candidate,party,votes
+Simpson,Bowie,President,,Roque 'Rocky' De La Fuente,0
+Simpson,Braxton,President,,Roque 'Rocky' De La Fuente,1
+Simpson,Bridgeport,President,,Roque 'Rocky' De La Fuente,0
+Simpson,D'Lo,President,,Roque 'Rocky' De La Fuente,0
+Simpson,Dry Creek,President,,Roque 'Rocky' De La Fuente,3
+Simpson,Fork Church,President,,Roque 'Rocky' De La Fuente,1
+Simpson,Harrisville,President,,Roque 'Rocky' De La Fuente,0
+Simpson,Jupiter,President,,Roque 'Rocky' De La Fuente,0
+Simpson,Magee 1,President,,Roque 'Rocky' De La Fuente,0
+Simpson,Magee 2,President,,Roque 'Rocky' De La Fuente,0
+Simpson,Magee 4 North,President,,Roque 'Rocky' De La Fuente,1
+Simpson,Magee 4 South,President,,Roque 'Rocky' De La Fuente,2
+Simpson,Mendenhall 1,President,,Roque 'Rocky' De La Fuente,0
+Simpson,Mendenhall 3,President,,Roque 'Rocky' De La Fuente,1
+Simpson,Merit,President,,Roque 'Rocky' De La Fuente,3
+Simpson,New Hope,President,,Roque 'Rocky' De La Fuente,0
+Simpson,Oak Grove,President,,Roque 'Rocky' De La Fuente,3
+Simpson,Pearl,President,,Roque 'Rocky' De La Fuente,0
+Simpson,Pinola,President,,Roque 'Rocky' De La Fuente,0
+Simpson,Saratoga,President,,Roque 'Rocky' De La Fuente,0
+Simpson,Shivers,President,,Roque 'Rocky' De La Fuente,0
+Simpson,Sumrall,President,,Roque 'Rocky' De La Fuente,0
+Simpson,Weathersby,President,,Roque 'Rocky' De La Fuente,0
+Simpson,TOTAL,President,,Roque 'Rocky' De La Fuente,15
+Simpson,Bowie,President,,Donald J. Trump,66
+Simpson,Braxton,President,,Donald J. Trump,329
+Simpson,Bridgeport,President,,Donald J. Trump,47
+Simpson,D'Lo,President,,Donald J. Trump,121
+Simpson,Dry Creek,President,,Donald J. Trump,240
+Simpson,Fork Church,President,,Donald J. Trump,58
+Simpson,Harrisville,President,,Donald J. Trump,261
+Simpson,Jupiter,President,,Donald J. Trump,78
+Simpson,Magee 1,President,,Donald J. Trump,26
+Simpson,Magee 2,President,,Donald J. Trump,341
+Simpson,Magee 4 North,President,,Donald J. Trump,166
+Simpson,Magee 4 South,President,,Donald J. Trump,258
+Simpson,Mendenhall 1,President,,Donald J. Trump,29
+Simpson,Mendenhall 3,President,,Donald J. Trump,283
+Simpson,Merit,President,,Donald J. Trump,238
+Simpson,New Hope,President,,Donald J. Trump,60
+Simpson,Oak Grove,President,,Donald J. Trump,125
+Simpson,Pearl,President,,Donald J. Trump,180
+Simpson,Pinola,President,,Donald J. Trump,87
+Simpson,Saratoga,President,,Donald J. Trump,57
+Simpson,Shivers,President,,Donald J. Trump,83
+Simpson,Sumrall,President,,Donald J. Trump,159
+Simpson,Weathersby,President,,Donald J. Trump,44
+Simpson,TOTAL,President,,Donald J. Trump,3336
+Simpson,Bowie,President,,Bill Weld,0
+Simpson,Braxton,President,,Bill Weld,4
+Simpson,Bridgeport,President,,Bill Weld,0
+Simpson,D'Lo,President,,Bill Weld,2
+Simpson,Dry Creek,President,,Bill Weld,0
+Simpson,Fork Church,President,,Bill Weld,1
+Simpson,Harrisville,President,,Bill Weld,1
+Simpson,Jupiter,President,,Bill Weld,1
+Simpson,Magee 1,President,,Bill Weld,1
+Simpson,Magee 2,President,,Bill Weld,2
+Simpson,Magee 4 North,President,,Bill Weld,4
+Simpson,Magee 4 South,President,,Bill Weld,3
+Simpson,Mendenhall 1,President,,Bill Weld,2
+Simpson,Mendenhall 3,President,,Bill Weld,3
+Simpson,Merit,President,,Bill Weld,3
+Simpson,New Hope,President,,Bill Weld,0
+Simpson,Oak Grove,President,,Bill Weld,1
+Simpson,Pearl,President,,Bill Weld,0
+Simpson,Pinola,President,,Bill Weld,1
+Simpson,Saratoga,President,,Bill Weld,1
+Simpson,Shivers,President,,Bill Weld,0
+Simpson,Sumrall,President,,Bill Weld,1
+Simpson,Weathersby,President,,Bill Weld,0
+Simpson,TOTAL,President,,Bill Weld,31
+Simpson,Bowie,U.S. Senate,,Cindy Hyde-Smith,66
+Simpson,Braxton,U.S. Senate,,Cindy Hyde-Smith,325
+Simpson,Bridgeport,U.S. Senate,,Cindy Hyde-Smith,47
+Simpson,D'Lo,U.S. Senate,,Cindy Hyde-Smith,122
+Simpson,Dry Creek,U.S. Senate,,Cindy Hyde-Smith,240
+Simpson,Fork Church,U.S. Senate,,Cindy Hyde-Smith,56
+Simpson,Harrisville,U.S. Senate,,Cindy Hyde-Smith,250
+Simpson,Jupiter,U.S. Senate,,Cindy Hyde-Smith,78
+Simpson,Magee 1,U.S. Senate,,Cindy Hyde-Smith,25
+Simpson,Magee 2,U.S. Senate,,Cindy Hyde-Smith,334
+Simpson,Magee 4 North,U.S. Senate,,Cindy Hyde-Smith,172
+Simpson,Magee 4 South,U.S. Senate,,Cindy Hyde-Smith,258
+Simpson,Mendenhall 1,U.S. Senate,,Cindy Hyde-Smith,31
+Simpson,Mendenhall 3,U.S. Senate,,Cindy Hyde-Smith,277
+Simpson,Merit,U.S. Senate,,Cindy Hyde-Smith,233
+Simpson,New Hope,U.S. Senate,,Cindy Hyde-Smith,59
+Simpson,Oak Grove,U.S. Senate,,Cindy Hyde-Smith,122
+Simpson,Pearl,U.S. Senate,,Cindy Hyde-Smith,175
+Simpson,Pinola,U.S. Senate,,Cindy Hyde-Smith,88
+Simpson,Saratoga,U.S. Senate,,Cindy Hyde-Smith,57
+Simpson,Shivers,U.S. Senate,,Cindy Hyde-Smith,81
+Simpson,Sumrall,U.S. Senate,,Cindy Hyde-Smith,154
+Simpson,Weathersby,U.S. Senate,,Cindy Hyde-Smith,43
+Simpson,TOTAL,U.S. Senate,,Cindy Hyde-Smith,3293
+Simpson,Bowie,U.S. House,3,Michael Guest,65
+Simpson,Braxton,U.S. House,3,Michael Guest,302
+Simpson,Bridgeport,U.S. House,3,Michael Guest,45
+Simpson,D'Lo,U.S. House,3,Michael Guest,119
+Simpson,Dry Creek,U.S. House,3,Michael Guest,230
+Simpson,Fork Church,U.S. House,3,Michael Guest,49
+Simpson,Harrisville,U.S. House,3,Michael Guest,232
+Simpson,Jupiter,U.S. House,3,Michael Guest,72
+Simpson,Magee 1,U.S. House,3,Michael Guest,27
+Simpson,Magee 2,U.S. House,3,Michael Guest,326
+Simpson,Magee 4 North,U.S. House,3,Michael Guest,164
+Simpson,Magee 4 South,U.S. House,3,Michael Guest,248
+Simpson,Mendenhall 1,U.S. House,3,Michael Guest,28
+Simpson,Mendenhall 3,U.S. House,3,Michael Guest,265
+Simpson,Merit,U.S. House,3,Michael Guest,229
+Simpson,New Hope,U.S. House,3,Michael Guest,55
+Simpson,Oak Grove,U.S. House,3,Michael Guest,121
+Simpson,Pearl,U.S. House,3,Michael Guest,157
+Simpson,Pinola,U.S. House,3,Michael Guest,78
+Simpson,Saratoga,U.S. House,3,Michael Guest,55
+Simpson,Shivers,U.S. House,3,Michael Guest,75
+Simpson,Sumrall,U.S. House,3,Michael Guest,145
+Simpson,Weathersby,U.S. House,3,Michael Guest,43
+Simpson,TOTAL,U.S. House,3,Michael Guest,3130
+Simpson,Bowie,U.S. House,3,James Tulp,1
+Simpson,Braxton,U.S. House,3,James Tulp,28
+Simpson,Bridgeport,U.S. House,3,James Tulp,2
+Simpson,D'Lo,U.S. House,3,James Tulp,2
+Simpson,Dry Creek,U.S. House,3,James Tulp,12
+Simpson,Fork Church,U.S. House,3,James Tulp,11
+Simpson,Harrisville,U.S. House,3,James Tulp,27
+Simpson,Jupiter,U.S. House,3,James Tulp,5
+Simpson,Magee 1,U.S. House,3,James Tulp,0
+Simpson,Magee 2,U.S. House,3,James Tulp,17
+Simpson,Magee 4 North,U.S. House,3,James Tulp,9
+Simpson,Magee 4 South,U.S. House,3,James Tulp,13
+Simpson,Mendenhall 1,U.S. House,3,James Tulp,3
+Simpson,Mendenhall 3,U.S. House,3,James Tulp,20
+Simpson,Merit,U.S. House,3,James Tulp,17
+Simpson,New Hope,U.S. House,3,James Tulp,5
+Simpson,Oak Grove,U.S. House,3,James Tulp,6
+Simpson,Pearl,U.S. House,3,James Tulp,18
+Simpson,Pinola,U.S. House,3,James Tulp,12
+Simpson,Saratoga,U.S. House,3,James Tulp,4
+Simpson,Shivers,U.S. House,3,James Tulp,7
+Simpson,Sumrall,U.S. House,3,James Tulp,15
+Simpson,Weathersby,U.S. House,3,James Tulp,1
+Simpson,TOTAL,U.S. House,3,James Tulp,235
+Simpson,Bowie,President,,Joseph R. Biden,58
+Simpson,Braxton,President,,Joseph R. Biden,20
+Simpson,Bridgeport,President,,Joseph R. Biden,107
+Simpson,D'Lo,President,,Joseph R. Biden,7
+Simpson,Dry Creek,President,,Joseph R. Biden,30
+Simpson,Fork Church,President,,Joseph R. Biden,126
+Simpson,Harrisville,President,,Joseph R. Biden,28
+Simpson,Jupiter,President,,Joseph R. Biden,194
+Simpson,Magee 1,President,,Joseph R. Biden,216
+Simpson,Magee 2,President,,Joseph R. Biden,96
+Simpson,Magee 4 North,President,,Joseph R. Biden,31
+Simpson,Magee 4 South,President,,Joseph R. Biden,85
+Simpson,Mendenhall 1,President,,Joseph R. Biden,86
+Simpson,Mendenhall 3,President,,Joseph R. Biden,76
+Simpson,Merit,President,,Joseph R. Biden,25
+Simpson,New Hope,President,,Joseph R. Biden,61
+Simpson,Oak Grove,President,,Joseph R. Biden,142
+Simpson,Pearl,President,,Joseph R. Biden,49
+Simpson,Pinola,President,,Joseph R. Biden,47
+Simpson,Saratoga,President,,Joseph R. Biden,73
+Simpson,Shivers,President,,Joseph R. Biden,76
+Simpson,Sumrall,President,,Joseph R. Biden,28
+Simpson,Weathersby,President,,Joseph R. Biden,279
+Simpson,TOTAL,President,,Joseph R. Biden,1940
+Simpson,Bowie,President,,Michael R. Bloomberg,0
+Simpson,Braxton,President,,Michael R. Bloomberg,1
+Simpson,Bridgeport,President,,Michael R. Bloomberg,3
+Simpson,D'Lo,President,,Michael R. Bloomberg,0
+Simpson,Dry Creek,President,,Michael R. Bloomberg,0
+Simpson,Fork Church,President,,Michael R. Bloomberg,3
+Simpson,Harrisville,President,,Michael R. Bloomberg,0
+Simpson,Jupiter,President,,Michael R. Bloomberg,9
+Simpson,Magee 1,President,,Michael R. Bloomberg,5
+Simpson,Magee 2,President,,Michael R. Bloomberg,2
+Simpson,Magee 4 North,President,,Michael R. Bloomberg,0
+Simpson,Magee 4 South,President,,Michael R. Bloomberg,3
+Simpson,Mendenhall 1,President,,Michael R. Bloomberg,3
+Simpson,Mendenhall 3,President,,Michael R. Bloomberg,2
+Simpson,Merit,President,,Michael R. Bloomberg,1
+Simpson,New Hope,President,,Michael R. Bloomberg,0
+Simpson,Oak Grove,President,,Michael R. Bloomberg,6
+Simpson,Pearl,President,,Michael R. Bloomberg,1
+Simpson,Pinola,President,,Michael R. Bloomberg,1
+Simpson,Saratoga,President,,Michael R. Bloomberg,2
+Simpson,Shivers,President,,Michael R. Bloomberg,4
+Simpson,Sumrall,President,,Michael R. Bloomberg,0
+Simpson,Weathersby,President,,Michael R. Bloomberg,10
+Simpson,TOTAL,President,,Michael R. Bloomberg,56
+Simpson,Bowie,President,,Pete Buttigieg,1
+Simpson,Braxton,President,,Pete Buttigieg,0
+Simpson,Bridgeport,President,,Pete Buttigieg,0
+Simpson,D'Lo,President,,Pete Buttigieg,0
+Simpson,Dry Creek,President,,Pete Buttigieg,0
+Simpson,Fork Church,President,,Pete Buttigieg,0
+Simpson,Harrisville,President,,Pete Buttigieg,0
+Simpson,Jupiter,President,,Pete Buttigieg,0
+Simpson,Magee 1,President,,Pete Buttigieg,0
+Simpson,Magee 2,President,,Pete Buttigieg,0
+Simpson,Magee 4 North,President,,Pete Buttigieg,0
+Simpson,Magee 4 South,President,,Pete Buttigieg,0
+Simpson,Mendenhall 1,President,,Pete Buttigieg,0
+Simpson,Mendenhall 3,President,,Pete Buttigieg,0
+Simpson,Merit,President,,Pete Buttigieg,0
+Simpson,New Hope,President,,Pete Buttigieg,1
+Simpson,Oak Grove,President,,Pete Buttigieg,0
+Simpson,Pearl,President,,Pete Buttigieg,0
+Simpson,Pinola,President,,Pete Buttigieg,1
+Simpson,Saratoga,President,,Pete Buttigieg,0
+Simpson,Shivers,President,,Pete Buttigieg,0
+Simpson,Sumrall,President,,Pete Buttigieg,0
+Simpson,Weathersby,President,,Pete Buttigieg,0
+Simpson,TOTAL,President,,Pete Buttigieg,3
+Simpson,Bowie,President,,Tulsl Gabbard,0
+Simpson,Braxton,President,,Tulsl Gabbard,0
+Simpson,Bridgeport,President,,Tulsl Gabbard,0
+Simpson,D'Lo,President,,Tulsl Gabbard,0
+Simpson,Dry Creek,President,,Tulsl Gabbard,0
+Simpson,Fork Church,President,,Tulsl Gabbard,0
+Simpson,Harrisville,President,,Tulsl Gabbard,0
+Simpson,Jupiter,President,,Tulsl Gabbard,0
+Simpson,Magee 1,President,,Tulsl Gabbard,0
+Simpson,Magee 2,President,,Tulsl Gabbard,0
+Simpson,Magee 4 North,President,,Tulsl Gabbard,0
+Simpson,Magee 4 South,President,,Tulsl Gabbard,1
+Simpson,Mendenhall 1,President,,Tulsl Gabbard,0
+Simpson,Mendenhall 3,President,,Tulsl Gabbard,1
+Simpson,Merit,President,,Tulsl Gabbard,0
+Simpson,New Hope,President,,Tulsl Gabbard,1
+Simpson,Oak Grove,President,,Tulsl Gabbard,0
+Simpson,Pearl,President,,Tulsl Gabbard,0
+Simpson,Pinola,President,,Tulsl Gabbard,0
+Simpson,Saratoga,President,,Tulsl Gabbard,0
+Simpson,Shivers,President,,Tulsl Gabbard,0
+Simpson,Sumrall,President,,Tulsl Gabbard,0
+Simpson,Weathersby,President,,Tulsl Gabbard,3
+Simpson,TOTAL,President,,Tulsl Gabbard,6
+Simpson,Bowie,President,,Amy Klobuchar,0
+Simpson,Braxton,President,,Amy Klobuchar,0
+Simpson,Bridgeport,President,,Amy Klobuchar,0
+Simpson,D'Lo,President,,Amy Klobuchar,0
+Simpson,Dry Creek,President,,Amy Klobuchar,0
+Simpson,Fork Church,President,,Amy Klobuchar,0
+Simpson,Harrisville,President,,Amy Klobuchar,0
+Simpson,Jupiter,President,,Amy Klobuchar,0
+Simpson,Magee 1,President,,Amy Klobuchar,0
+Simpson,Magee 2,President,,Amy Klobuchar,0
+Simpson,Magee 4 North,President,,Amy Klobuchar,0
+Simpson,Magee 4 South,President,,Amy Klobuchar,0
+Simpson,Mendenhall 1,President,,Amy Klobuchar,0
+Simpson,Mendenhall 3,President,,Amy Klobuchar,0
+Simpson,Merit,President,,Amy Klobuchar,0
+Simpson,New Hope,President,,Amy Klobuchar,0
+Simpson,Oak Grove,President,,Amy Klobuchar,1
+Simpson,Pearl,President,,Amy Klobuchar,0
+Simpson,Pinola,President,,Amy Klobuchar,0
+Simpson,Saratoga,President,,Amy Klobuchar,0
+Simpson,Shivers,President,,Amy Klobuchar,0
+Simpson,Sumrall,President,,Amy Klobuchar,0
+Simpson,Weathersby,President,,Amy Klobuchar,1
+Simpson,TOTAL,President,,Amy Klobuchar,2
+Simpson,Bowie,President,,Deval Patrick,0
+Simpson,Braxton,President,,Deval Patrick,0
+Simpson,Bridgeport,President,,Deval Patrick,0
+Simpson,D'Lo,President,,Deval Patrick,0
+Simpson,Dry Creek,President,,Deval Patrick,0
+Simpson,Fork Church,President,,Deval Patrick,0
+Simpson,Harrisville,President,,Deval Patrick,1
+Simpson,Jupiter,President,,Deval Patrick,0
+Simpson,Magee 1,President,,Deval Patrick,3
+Simpson,Magee 2,President,,Deval Patrick,0
+Simpson,Magee 4 North,President,,Deval Patrick,0
+Simpson,Magee 4 South,President,,Deval Patrick,0
+Simpson,Mendenhall 1,President,,Deval Patrick,0
+Simpson,Mendenhall 3,President,,Deval Patrick,0
+Simpson,Merit,President,,Deval Patrick,0
+Simpson,New Hope,President,,Deval Patrick,0
+Simpson,Oak Grove,President,,Deval Patrick,0
+Simpson,Pearl,President,,Deval Patrick,0
+Simpson,Pinola,President,,Deval Patrick,0
+Simpson,Saratoga,President,,Deval Patrick,0
+Simpson,Shivers,President,,Deval Patrick,0
+Simpson,Sumrall,President,,Deval Patrick,0
+Simpson,Weathersby,President,,Deval Patrick,1
+Simpson,TOTAL,President,,Deval Patrick,5
+Simpson,Bowie,President,,Bernie Sanders,2
+Simpson,Braxton,President,,Bernie Sanders,7
+Simpson,Bridgeport,President,,Bernie Sanders,14
+Simpson,D'Lo,President,,Bernie Sanders,2
+Simpson,Dry Creek,President,,Bernie Sanders,11
+Simpson,Fork Church,President,,Bernie Sanders,16
+Simpson,Harrisville,President,,Bernie Sanders,18
+Simpson,Jupiter,President,,Bernie Sanders,39
+Simpson,Magee 1,President,,Bernie Sanders,37
+Simpson,Magee 2,President,,Bernie Sanders,16
+Simpson,Magee 4 North,President,,Bernie Sanders,4
+Simpson,Magee 4 South,President,,Bernie Sanders,17
+Simpson,Mendenhall 1,President,,Bernie Sanders,19
+Simpson,Mendenhall 3,President,,Bernie Sanders,17
+Simpson,Merit,President,,Bernie Sanders,3
+Simpson,New Hope,President,,Bernie Sanders,6
+Simpson,Oak Grove,President,,Bernie Sanders,18
+Simpson,Pearl,President,,Bernie Sanders,7
+Simpson,Pinola,President,,Bernie Sanders,3
+Simpson,Saratoga,President,,Bernie Sanders,11
+Simpson,Shivers,President,,Bernie Sanders,13
+Simpson,Sumrall,President,,Bernie Sanders,15
+Simpson,Weathersby,President,,Bernie Sanders,36
+Simpson,TOTAL,President,,Bernie Sanders,331
+Simpson,Bowie,President,,Tom Steyer,0
+Simpson,Braxton,President,,Tom Steyer,0
+Simpson,Bridgeport,President,,Tom Steyer,0
+Simpson,D'Lo,President,,Tom Steyer,0
+Simpson,Dry Creek,President,,Tom Steyer,0
+Simpson,Fork Church,President,,Tom Steyer,0
+Simpson,Harrisville,President,,Tom Steyer,0
+Simpson,Jupiter,President,,Tom Steyer,0
+Simpson,Magee 1,President,,Tom Steyer,0
+Simpson,Magee 2,President,,Tom Steyer,0
+Simpson,Magee 4 North,President,,Tom Steyer,0
+Simpson,Magee 4 South,President,,Tom Steyer,0
+Simpson,Mendenhall 1,President,,Tom Steyer,2
+Simpson,Mendenhall 3,President,,Tom Steyer,0
+Simpson,Merit,President,,Tom Steyer,0
+Simpson,New Hope,President,,Tom Steyer,0
+Simpson,Oak Grove,President,,Tom Steyer,0
+Simpson,Pearl,President,,Tom Steyer,0
+Simpson,Pinola,President,,Tom Steyer,0
+Simpson,Saratoga,President,,Tom Steyer,0
+Simpson,Shivers,President,,Tom Steyer,0
+Simpson,Sumrall,President,,Tom Steyer,0
+Simpson,Weathersby,President,,Tom Steyer,1
+Simpson,TOTAL,President,,Tom Steyer,3
+Simpson,Bowie,President,,Elizabeth Warren,0
+Simpson,Braxton,President,,Elizabeth Warren,1
+Simpson,Bridgeport,President,,Elizabeth Warren,0
+Simpson,D'Lo,President,,Elizabeth Warren,0
+Simpson,Dry Creek,President,,Elizabeth Warren,0
+Simpson,Fork Church,President,,Elizabeth Warren,1
+Simpson,Harrisville,President,,Elizabeth Warren,0
+Simpson,Jupiter,President,,Elizabeth Warren,2
+Simpson,Magee 1,President,,Elizabeth Warren,1
+Simpson,Magee 2,President,,Elizabeth Warren,1
+Simpson,Magee 4 North,President,,Elizabeth Warren,1
+Simpson,Magee 4 South,President,,Elizabeth Warren,1
+Simpson,Mendenhall 1,President,,Elizabeth Warren,0
+Simpson,Mendenhall 3,President,,Elizabeth Warren,0
+Simpson,Merit,President,,Elizabeth Warren,0
+Simpson,New Hope,President,,Elizabeth Warren,0
+Simpson,Oak Grove,President,,Elizabeth Warren,0
+Simpson,Pearl,President,,Elizabeth Warren,0
+Simpson,Pinola,President,,Elizabeth Warren,1
+Simpson,Saratoga,President,,Elizabeth Warren,2
+Simpson,Shivers,President,,Elizabeth Warren,0
+Simpson,Sumrall,President,,Elizabeth Warren,0
+Simpson,Weathersby,President,,Elizabeth Warren,1
+Simpson,TOTAL,President,,Elizabeth Warren,12
+Simpson,Bowie,President,,Andrew Yang,0
+Simpson,Braxton,President,,Andrew Yang,0
+Simpson,Bridgeport,President,,Andrew Yang,0
+Simpson,D'Lo,President,,Andrew Yang,0
+Simpson,Dry Creek,President,,Andrew Yang,0
+Simpson,Fork Church,President,,Andrew Yang,0
+Simpson,Harrisville,President,,Andrew Yang,0
+Simpson,Jupiter,President,,Andrew Yang,0
+Simpson,Magee 1,President,,Andrew Yang,1
+Simpson,Magee 2,President,,Andrew Yang,0
+Simpson,Magee 4 North,President,,Andrew Yang,0
+Simpson,Magee 4 South,President,,Andrew Yang,0
+Simpson,Mendenhall 1,President,,Andrew Yang,0
+Simpson,Mendenhall 3,President,,Andrew Yang,0
+Simpson,Merit,President,,Andrew Yang,0
+Simpson,New Hope,President,,Andrew Yang,0
+Simpson,Oak Grove,President,,Andrew Yang,0
+Simpson,Pearl,President,,Andrew Yang,0
+Simpson,Pinola,President,,Andrew Yang,1
+Simpson,Saratoga,President,,Andrew Yang,0
+Simpson,Shivers,President,,Andrew Yang,0
+Simpson,Sumrall,President,,Andrew Yang,0
+Simpson,Weathersby,President,,Andrew Yang,0
+Simpson,TOTAL,President,,Andrew Yang,2
+Simpson,Bowie,U.S. Senate,,Tobey Bernard Bartee,1
+Simpson,Braxton,U.S. Senate,,Tobey Bernard Bartee,3
+Simpson,Bridgeport,U.S. Senate,,Tobey Bernard Bartee,0
+Simpson,D'Lo,U.S. Senate,,Tobey Bernard Bartee,0
+Simpson,Dry Creek,U.S. Senate,,Tobey Bernard Bartee,3
+Simpson,Fork Church,U.S. Senate,,Tobey Bernard Bartee,3
+Simpson,Harrisville,U.S. Senate,,Tobey Bernard Bartee,3
+Simpson,Jupiter,U.S. Senate,,Tobey Bernard Bartee,7
+Simpson,Magee 1,U.S. Senate,,Tobey Bernard Bartee,4
+Simpson,Magee 2,U.S. Senate,,Tobey Bernard Bartee,0
+Simpson,Magee 4 North,U.S. Senate,,Tobey Bernard Bartee,1
+Simpson,Magee 4 South,U.S. Senate,,Tobey Bernard Bartee,6
+Simpson,Mendenhall 1,U.S. Senate,,Tobey Bernard Bartee,2
+Simpson,Mendenhall 3,U.S. Senate,,Tobey Bernard Bartee,5
+Simpson,Merit,U.S. Senate,,Tobey Bernard Bartee,3
+Simpson,New Hope,U.S. Senate,,Tobey Bernard Bartee,1
+Simpson,Oak Grove,U.S. Senate,,Tobey Bernard Bartee,2
+Simpson,Pearl,U.S. Senate,,Tobey Bernard Bartee,0
+Simpson,Pinola,U.S. Senate,,Tobey Bernard Bartee,1
+Simpson,Saratoga,U.S. Senate,,Tobey Bernard Bartee,0
+Simpson,Shivers,U.S. Senate,,Tobey Bernard Bartee,1
+Simpson,Sumrall,U.S. Senate,,Tobey Bernard Bartee,0
+Simpson,Weathersby,U.S. Senate,,Tobey Bernard Bartee,7
+Simpson,TOTAL,U.S. Senate,,Tobey Bernard Bartee,53
+Simpson,Bowie,U.S. Senate,,Jensen Bohren,1
+Simpson,Braxton,U.S. Senate,,Jensen Bohren,0
+Simpson,Bridgeport,U.S. Senate,,Jensen Bohren,4
+Simpson,D'Lo,U.S. Senate,,Jensen Bohren,0
+Simpson,Dry Creek,U.S. Senate,,Jensen Bohren,0
+Simpson,Fork Church,U.S. Senate,,Jensen Bohren,0
+Simpson,Harrisville,U.S. Senate,,Jensen Bohren,1
+Simpson,Jupiter,U.S. Senate,,Jensen Bohren,6
+Simpson,Magee 1,U.S. Senate,,Jensen Bohren,4
+Simpson,Magee 2,U.S. Senate,,Jensen Bohren,1
+Simpson,Magee 4 North,U.S. Senate,,Jensen Bohren,2
+Simpson,Magee 4 South,U.S. Senate,,Jensen Bohren,7
+Simpson,Mendenhall 1,U.S. Senate,,Jensen Bohren,5
+Simpson,Mendenhall 3,U.S. Senate,,Jensen Bohren,2
+Simpson,Merit,U.S. Senate,,Jensen Bohren,0
+Simpson,New Hope,U.S. Senate,,Jensen Bohren,0
+Simpson,Oak Grove,U.S. Senate,,Jensen Bohren,2
+Simpson,Pearl,U.S. Senate,,Jensen Bohren,1
+Simpson,Pinola,U.S. Senate,,Jensen Bohren,0
+Simpson,Saratoga,U.S. Senate,,Jensen Bohren,2
+Simpson,Shivers,U.S. Senate,,Jensen Bohren,2
+Simpson,Sumrall,U.S. Senate,,Jensen Bohren,2
+Simpson,Weathersby,U.S. Senate,,Jensen Bohren,7
+Simpson,TOTAL,U.S. Senate,,Jensen Bohren,49
+Simpson,Bowie,U.S. Senate,,Mike Espy,59
+Simpson,Braxton,U.S. Senate,,Mike Espy,26
+Simpson,Bridgeport,U.S. Senate,,Mike Espy,118
+Simpson,D'Lo,U.S. Senate,,Mike Espy,9
+Simpson,Dry Creek,U.S. Senate,,Mike Espy,38
+Simpson,Fork Church,U.S. Senate,,Mike Espy,141
+Simpson,Harrisville,U.S. Senate,,Mike Espy,43
+Simpson,Jupiter,U.S. Senate,,Mike Espy,236
+Simpson,Magee 1,U.S. Senate,,Mike Espy,252
+Simpson,Magee 2,U.S. Senate,,Mike Espy,113
+Simpson,Magee 4 North,U.S. Senate,,Mike Espy,30
+Simpson,Magee 4 South,U.S. Senate,,Mike Espy,95
+Simpson,Mendenhall 1,U.S. Senate,,Mike Espy,103
+Simpson,Mendenhall 3,U.S. Senate,,Mike Espy,88
+Simpson,Merit,U.S. Senate,,Mike Espy,26
+Simpson,New Hope,U.S. Senate,,Mike Espy,68
+Simpson,Oak Grove,U.S. Senate,,Mike Espy,160
+Simpson,Pearl,U.S. Senate,,Mike Espy,55
+Simpson,Pinola,U.S. Senate,,Mike Espy,52
+Simpson,Saratoga,U.S. Senate,,Mike Espy,84
+Simpson,Shivers,U.S. Senate,,Mike Espy,90
+Simpson,Sumrall,U.S. Senate,,Mike Espy,40
+Simpson,Weathersby,U.S. Senate,,Mike Espy,317
+Simpson,TOTAL,U.S. Senate,,Mike Espy,2243
+Simpson,Bowie,U.S. House,3,Dorothy 'Dot' Benford,26
+Simpson,Braxton,U.S. House,3,Dorothy 'Dot' Benford,15
+Simpson,Bridgeport,U.S. House,3,Dorothy 'Dot' Benford,60
+Simpson,D'Lo,U.S. House,3,Dorothy 'Dot' Benford,4
+Simpson,Dry Creek,U.S. House,3,Dorothy 'Dot' Benford,23
+Simpson,Fork Church,U.S. House,3,Dorothy 'Dot' Benford,69
+Simpson,Harrisville,U.S. House,3,Dorothy 'Dot' Benford,16
+Simpson,Jupiter,U.S. House,3,Dorothy 'Dot' Benford,127
+Simpson,Magee 1,U.S. House,3,Dorothy 'Dot' Benford,116
+Simpson,Magee 2,U.S. House,3,Dorothy 'Dot' Benford,75
+Simpson,Magee 4 North,U.S. House,3,Dorothy 'Dot' Benford,18
+Simpson,Magee 4 South,U.S. House,3,Dorothy 'Dot' Benford,55
+Simpson,Mendenhall 1,U.S. House,3,Dorothy 'Dot' Benford,55
+Simpson,Mendenhall 3,U.S. House,3,Dorothy 'Dot' Benford,48
+Simpson,Merit,U.S. House,3,Dorothy 'Dot' Benford,8
+Simpson,New Hope,U.S. House,3,Dorothy 'Dot' Benford,38
+Simpson,Oak Grove,U.S. House,3,Dorothy 'Dot' Benford,96
+Simpson,Pearl,U.S. House,3,Dorothy 'Dot' Benford,28
+Simpson,Pinola,U.S. House,3,Dorothy 'Dot' Benford,25
+Simpson,Saratoga,U.S. House,3,Dorothy 'Dot' Benford,50
+Simpson,Shivers,U.S. House,3,Dorothy 'Dot' Benford,48
+Simpson,Sumrall,U.S. House,3,Dorothy 'Dot' Benford,15
+Simpson,Weathersby,U.S. House,3,Dorothy 'Dot' Benford,141
+Simpson,TOTAL,U.S. House,3,Dorothy 'Dot' Benford,1156
+Simpson,Bowie,U.S. House,3,Katelyn Lee,22
+Simpson,Braxton,U.S. House,3,Katelyn Lee,11
+Simpson,Bridgeport,U.S. House,3,Katelyn Lee,49
+Simpson,D'Lo,U.S. House,3,Katelyn Lee,3
+Simpson,Dry Creek,U.S. House,3,Katelyn Lee,16
+Simpson,Fork Church,U.S. House,3,Katelyn Lee,50
+Simpson,Harrisville,U.S. House,3,Katelyn Lee,24
+Simpson,Jupiter,U.S. House,3,Katelyn Lee,81
+Simpson,Magee 1,U.S. House,3,Katelyn Lee,109
+Simpson,Magee 2,U.S. House,3,Katelyn Lee,26
+Simpson,Magee 4 North,U.S. House,3,Katelyn Lee,15
+Simpson,Magee 4 South,U.S. House,3,Katelyn Lee,49
+Simpson,Mendenhall 1,U.S. House,3,Katelyn Lee,30
+Simpson,Mendenhall 3,U.S. House,3,Katelyn Lee,35
+Simpson,Merit,U.S. House,3,Katelyn Lee,18
+Simpson,New Hope,U.S. House,3,Katelyn Lee,24
+Simpson,Oak Grove,U.S. House,3,Katelyn Lee,52
+Simpson,Pearl,U.S. House,3,Katelyn Lee,18
+Simpson,Pinola,U.S. House,3,Katelyn Lee,19
+Simpson,Saratoga,U.S. House,3,Katelyn Lee,19
+Simpson,Shivers,U.S. House,3,Katelyn Lee,35
+Simpson,Sumrall,U.S. House,3,Katelyn Lee,22
+Simpson,Weathersby,U.S. House,3,Katelyn Lee,132
+Simpson,TOTAL,U.S. House,3,Katelyn Lee,859
