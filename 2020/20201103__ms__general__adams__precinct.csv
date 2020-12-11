@@ -8,7 +8,7 @@ Howie Hawkins,President ,,G,Adams,"Dist. 1, Bellemont Precinct",2
 Jo Jorgensen ,President ,,L,Adams,"Dist. 1, Bellemont Precinct",8
 Brock Pierce,President ,,IND,Adams,"Dist. 1, Bellemont Precinct",0
 Kanye West,President ,,IND,Adams,"Dist. 1, Bellemont Precinct",5
-Mike Espy,US Senate,,D,Adams,"Dist. 1, Bellemont Precinct",947
+Mike Espy,US Senate,,D,Adams,"Dist. 1, Bellemont Precinct",553
 Cindy Hyde-Smith,US Senate,,R,Adams,"Dist. 1, Bellemont Precinct",947
 Jimmy L Edwards,US Senate,,L,Adams,"Dist. 1, Bellemont Precinct",22
 Dorothy Dot Benford,U S House,3,D,Adams,"Dist. 1, Bellemont Precinct",457
@@ -22,7 +22,7 @@ Howie Hawkins,President ,,G,Adams,"Dist. 1, By-Pass Fire Precinct",2
 Jo Jorgensen ,President ,,L,Adams,"Dist. 1, By-Pass Fire Precinct",2
 Brock Pierce,President ,,IND,Adams,"Dist. 1, By-Pass Fire Precinct",0
 Kanye West,President ,,IND,Adams,"Dist. 1, By-Pass Fire Precinct",2
-Mike Espy,US Senate,,D,Adams,"Dist. 1, By-Pass Fire Precinct",248
+Mike Espy,US Senate,,D,Adams,"Dist. 1, By-Pass Fire Precinct",539
 Cindy Hyde-Smith,US Senate,,R,Adams,"Dist. 1, By-Pass Fire Precinct",248
 Jimmy L Edwards,US Senate,,L,Adams,"Dist. 1, By-Pass Fire Precinct",9
 Dorothy Dot Benford,U S House,3,D,Adams,"Dist. 1, By-Pass Fire Precinct",455
@@ -36,7 +36,7 @@ Howie Hawkins,President ,,G,Adams,"Dist. 1, Courthouse Precinct",1
 Jo Jorgensen ,President ,,L,Adams,"Dist. 1, Courthouse Precinct",4
 Brock Pierce,President ,,IND,Adams,"Dist. 1, Courthouse Precinct",0
 Kanye West,President ,,IND,Adams,"Dist. 1, Courthouse Precinct",5
-Mike Espy,US Senate,,D,Adams,"Dist. 1, Courthouse Precinct",385
+Mike Espy,US Senate,,D,Adams,"Dist. 1, Courthouse Precinct",199
 Cindy Hyde-Smith,US Senate,,R,Adams,"Dist. 1, Courthouse Precinct",385
 Jimmy L Edwards,US Senate,,L,Adams,"Dist. 1, Courthouse Precinct",12
 Dorothy Dot Benford,U S House,3,D,Adams,"Dist. 1, Courthouse Precinct",159
@@ -50,7 +50,7 @@ Howie Hawkins,President ,,G,Adams,"Dist. 2, Beau Pre Precinct ",0
 Jo Jorgensen ,President ,,L,Adams,"Dist. 2, Beau Pre Precinct ",2
 Brock Pierce,President ,,IND,Adams,"Dist. 2, Beau Pre Precinct ",1
 Kanye West,President ,,IND,Adams,"Dist. 2, Beau Pre Precinct ",0
-Mike Espy,US Senate,,D,Adams,"Dist. 2, Beau Pre Precinct ",471
+Mike Espy,US Senate,,D,Adams,"Dist. 2, Beau Pre Precinct ",332
 Cindy Hyde-Smith,US Senate,,R,Adams,"Dist. 2, Beau Pre Precinct ",471
 Jimmy L Edwards,US Senate,,L,Adams,"Dist. 2, Beau Pre Precinct ",11
 Dorothy Dot Benford,U S House,3,D,Adams,"Dist. 2, Beau Pre Precinct ",278
@@ -106,7 +106,7 @@ Howie Hawkins,President ,,G,Adams,"Dist. 3, Concord Precinct",0
 Jo Jorgensen ,President ,,L,Adams,"Dist. 3, Concord Precinct",2
 Brock Pierce,President ,,IND,Adams,"Dist. 3, Concord Precinct",0
 Kanye West,President ,,IND,Adams,"Dist. 3, Concord Precinct",4
-Mike Espy,US Senate,,D,Adams,"Dist. 3, Concord Precinct",31
+Mike Espy,US Senate,,D,Adams,"Dist. 3, Concord Precinct",534
 Cindy Hyde-Smith,US Senate,,R,Adams,"Dist. 3, Concord Precinct",31
 Jimmy L Edwards,US Senate,,L,Adams,"Dist. 3, Concord Precinct",4
 Dorothy Dot Benford,U S House,3,D,Adams,"Dist. 3, Concord Precinct",456
@@ -162,7 +162,7 @@ Howie Hawkins,President ,,G,Adams,"Dist. 4, Carpenter Precinct",0
 Jo Jorgensen ,President ,,L,Adams,"Dist. 4, Carpenter Precinct",2
 Brock Pierce,President ,,IND,Adams,"Dist. 4, Carpenter Precinct",0
 Kanye West,President ,,IND,Adams,"Dist. 4, Carpenter Precinct",5
-Mike Espy,US Senate,,D,Adams,"Dist. 4, Carpenter Precinct",125
+Mike Espy,US Senate,,D,Adams,"Dist. 4, Carpenter Precinct",287
 Cindy Hyde-Smith,US Senate,,R,Adams,"Dist. 4, Carpenter Precinct",125
 Jimmy L Edwards,US Senate,,L,Adams,"Dist. 4, Carpenter Precinct",1
 Dorothy Dot Benford,U S House,3,D,Adams,"Dist. 4, Carpenter Precinct",248
@@ -218,7 +218,7 @@ Howie Hawkins,President ,,G,Adams,"Dist. 5, Airport Precinct",0
 Jo Jorgensen ,President ,,L,Adams,"Dist. 5, Airport Precinct",1
 Brock Pierce,President ,,IND,Adams,"Dist. 5, Airport Precinct",0
 Kanye West,President ,,IND,Adams,"Dist. 5, Airport Precinct",1
-Mike Espy,US Senate,,D,Adams,"Dist. 5, Airport Precinct",192
+Mike Espy,US Senate,,D,Adams,"Dist. 5, Airport Precinct",409
 Cindy Hyde-Smith,US Senate,,R,Adams,"Dist. 5, Airport Precinct",192
 Jimmy L Edwards,US Senate,,L,Adams,"Dist. 5, Airport Precinct",3
 Dorothy Dot Benford,U S House,3,D,Adams,"Dist. 5, Airport Precinct",361
@@ -274,64 +274,8 @@ Howie Hawkins,President ,,G,Adams,TOTAL ,10
 Jo Jorgensen ,President ,,L,Adams,TOTAL ,48
 Brock Pierce,President ,,IND,Adams,TOTAL ,2
 Kanye West,President ,,IND,Adams,TOTAL ,54
-Mike Espy,US Senate,,D,Adams,TOTAL ,7736
+Mike Espy,US Senate,,D,Adams,TOTAL ,8190
 Cindy Hyde-Smith,US Senate,,R,Adams,TOTAL ,5416
 Jimmy L Edwards,US Senate,,L,Adams,TOTAL ,152
 Dorothy Dot Benford,U S House,3,D,Adams,TOTAL ,6990
 Michael Guest,U S House,3,R,Adams,TOTAL ,5802
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
