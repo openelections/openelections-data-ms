@@ -1,0 +1,353 @@
+county,precinct,office,district,candidate,party,votes
+Montgomery,DUCK HILL,President,,Roque 'Rocky' De La Fuente,0
+Montgomery,EAST WINONA,President,,Roque 'Rocky' De La Fuente,0
+Montgomery,KILMICHAEL,President,,Roque 'Rocky' De La Fuente,1
+Montgomery,LODI,President,,Roque 'Rocky' De La Fuente,0
+Montgomery,MT. PISAGH,President,,Roque 'Rocky' De La Fuente,0
+Montgomery,NORTH DUCK HILL,President,,Roque 'Rocky' De La Fuente,0
+Montgomery,NORTH KILMICHAEL,President,,Roque 'Rocky' De La Fuente,0
+Montgomery,NORTH MT. PISAGH SWEETHOME,President,,Roque 'Rocky' De La Fuente,0
+Montgomery,NORTH WINONA,President,,Roque 'Rocky' De La Fuente,0
+Montgomery,NATIONS,President,,Roque 'Rocky' De La Fuente,0
+Montgomery,POPLAR CREEK,President,,Roque 'Rocky' De La Fuente,0
+Montgomery,SOUTH WINONA,President,,Roque 'Rocky' De La Fuente,0
+Montgomery,SOUTHEAST WINONA,President,,Roque 'Rocky' De La Fuente,0
+Montgomery,STEWART,President,,Roque 'Rocky' De La Fuente,0
+Montgomery,WEST WINONA,President,,Roque 'Rocky' De La Fuente,0
+Montgomery,TOTAL,President,,Roque 'Rocky' De La Fuente,1
+Montgomery,DUCK HILL,President,,Donald J. Trump,93
+Montgomery,EAST WINONA,President,,Donald J. Trump,54
+Montgomery,KILMICHAEL,President,,Donald J. Trump,82
+Montgomery,LODI,President,,Donald J. Trump,15
+Montgomery,MT. PISAGH,President,,Donald J. Trump,55
+Montgomery,NORTH DUCK HILL,President,,Donald J. Trump,37
+Montgomery,NORTH KILMICHAEL,President,,Donald J. Trump,4
+Montgomery,NORTH MT. PISAGH SWEETHOME,President,,Donald J. Trump,14
+Montgomery,NORTH WINONA,President,,Donald J. Trump,186
+Montgomery,NATIONS,President,,Donald J. Trump,73
+Montgomery,POPLAR CREEK,President,,Donald J. Trump,32
+Montgomery,SOUTH WINONA,President,,Donald J. Trump,49
+Montgomery,SOUTHEAST WINONA,President,,Donald J. Trump,30
+Montgomery,STEWART,President,,Donald J. Trump,44
+Montgomery,WEST WINONA,President,,Donald J. Trump,129
+Montgomery,TOTAL,President,,Donald J. Trump,897
+Montgomery,DUCK HILL,President,,Bill Weld,1
+Montgomery,EAST WINONA,President,,Bill Weld,2
+Montgomery,KILMICHAEL,President,,Bill Weld,1
+Montgomery,LODI,President,,Bill Weld,0
+Montgomery,MT. PISAGH,President,,Bill Weld,0
+Montgomery,NORTH DUCK HILL,President,,Bill Weld,0
+Montgomery,NORTH KILMICHAEL,President,,Bill Weld,0
+Montgomery,NORTH MT. PISAGH SWEETHOME,President,,Bill Weld,0
+Montgomery,NORTH WINONA,President,,Bill Weld,1
+Montgomery,NATIONS,President,,Bill Weld,0
+Montgomery,POPLAR CREEK,President,,Bill Weld,1
+Montgomery,SOUTH WINONA,President,,Bill Weld,0
+Montgomery,SOUTHEAST WINONA,President,,Bill Weld,0
+Montgomery,STEWART,President,,Bill Weld,0
+Montgomery,WEST WINONA,President,,Bill Weld,0
+Montgomery,TOTAL,President,,Bill Weld,6
+Montgomery,DUCK HILL,U.S. Senate,,Cindy Hyde-Smith,90
+Montgomery,EAST WINONA,U.S. Senate,,Cindy Hyde-Smith,53
+Montgomery,KILMICHAEL,U.S. Senate,,Cindy Hyde-Smith,831
+Montgomery,LODI,U.S. Senate,,Cindy Hyde-Smith,15
+Montgomery,MT. PISAGH,U.S. Senate,,Cindy Hyde-Smith,54
+Montgomery,NORTH DUCK HILL,U.S. Senate,,Cindy Hyde-Smith,36
+Montgomery,NORTH KILMICHAEL,U.S. Senate,,Cindy Hyde-Smith,4
+Montgomery,NORTH MT. PISAGH SWEETHOME,U.S. Senate,,Cindy Hyde-Smith,14
+Montgomery,NORTH WINONA,U.S. Senate,,Cindy Hyde-Smith,178
+Montgomery,NATIONS,U.S. Senate,,Cindy Hyde-Smith,67
+Montgomery,POPLAR CREEK,U.S. Senate,,Cindy Hyde-Smith,31
+Montgomery,SOUTH WINONA,U.S. Senate,,Cindy Hyde-Smith,49
+Montgomery,SOUTHEAST WINONA,U.S. Senate,,Cindy Hyde-Smith,30
+Montgomery,STEWART,U.S. Senate,,Cindy Hyde-Smith,40
+Montgomery,WEST WINONA,U.S. Senate,,Cindy Hyde-Smith,122
+Montgomery,TOTAL,U.S. Senate,,Cindy Hyde-Smith,8661
+Montgomery,DUCK HILL,U.S. House,2,Thomas L. Carey,23
+Montgomery,EAST WINONA,U.S. House,2,Thomas L. Carey,31
+Montgomery,KILMICHAEL,U.S. House,2,Thomas L. Carey,28
+Montgomery,LODI,U.S. House,2,Thomas L. Carey,2
+Montgomery,MT. PISAGH,U.S. House,2,Thomas L. Carey,17
+Montgomery,NORTH DUCK HILL,U.S. House,2,Thomas L. Carey,11
+Montgomery,NORTH KILMICHAEL,U.S. House,2,Thomas L. Carey,4
+Montgomery,NORTH MT. PISAGH SWEETHOME,U.S. House,2,Thomas L. Carey,7
+Montgomery,NORTH WINONA,U.S. House,2,Thomas L. Carey,65
+Montgomery,NATIONS,U.S. House,2,Thomas L. Carey,21
+Montgomery,POPLAR CREEK,U.S. House,2,Thomas L. Carey,11
+Montgomery,SOUTH WINONA,U.S. House,2,Thomas L. Carey,19
+Montgomery,SOUTHEAST WINONA,U.S. House,2,Thomas L. Carey,5
+Montgomery,STEWART,U.S. House,2,Thomas L. Carey,18
+Montgomery,WEST WINONA,U.S. House,2,Thomas L. Carey,51
+Montgomery,TOTAL,U.S. House,2,Thomas L. Carey,313
+Montgomery,DUCK HILL,U.S. House,2,Brian Flowers,20
+Montgomery,EAST WINONA,U.S. House,2,Brian Flowers,11
+Montgomery,KILMICHAEL,U.S. House,2,Brian Flowers,24
+Montgomery,LODI,U.S. House,2,Brian Flowers,8
+Montgomery,MT. PISAGH,U.S. House,2,Brian Flowers,11
+Montgomery,NORTH DUCK HILL,U.S. House,2,Brian Flowers,6
+Montgomery,NORTH KILMICHAEL,U.S. House,2,Brian Flowers,0
+Montgomery,NORTH MT. PISAGH SWEETHOME,U.S. House,2,Brian Flowers,4
+Montgomery,NORTH WINONA,U.S. House,2,Brian Flowers,42
+Montgomery,NATIONS,U.S. House,2,Brian Flowers,22
+Montgomery,POPLAR CREEK,U.S. House,2,Brian Flowers,7
+Montgomery,SOUTH WINONA,U.S. House,2,Brian Flowers,10
+Montgomery,SOUTHEAST WINONA,U.S. House,2,Brian Flowers,6
+Montgomery,STEWART,U.S. House,2,Brian Flowers,13
+Montgomery,WEST WINONA,U.S. House,2,Brian Flowers,29
+Montgomery,TOTAL,U.S. House,2,Brian Flowers,213
+Montgomery,DUCK HILL,U.S. House,2,B.C. Hammond,46
+Montgomery,EAST WINONA,U.S. House,2,B.C. Hammond,6
+Montgomery,KILMICHAEL,U.S. House,2,B.C. Hammond,13
+Montgomery,LODI,U.S. House,2,B.C. Hammond,5
+Montgomery,MT. PISAGH,U.S. House,2,B.C. Hammond,17
+Montgomery,NORTH DUCK HILL,U.S. House,2,B.C. Hammond,12
+Montgomery,NORTH KILMICHAEL,U.S. House,2,B.C. Hammond,0
+Montgomery,NORTH MT. PISAGH SWEETHOME,U.S. House,2,B.C. Hammond,1
+Montgomery,NORTH WINONA,U.S. House,2,B.C. Hammond,51
+Montgomery,NATIONS,U.S. House,2,B.C. Hammond,11
+Montgomery,POPLAR CREEK,U.S. House,2,B.C. Hammond,8
+Montgomery,SOUTH WINONA,U.S. House,2,B.C. Hammond,11
+Montgomery,SOUTHEAST WINONA,U.S. House,2,B.C. Hammond,16
+Montgomery,STEWART,U.S. House,2,B.C. Hammond,6
+Montgomery,WEST WINONA,U.S. House,2,B.C. Hammond,29
+Montgomery,TOTAL,U.S. House,2,B.C. Hammond,232
+Montgomery,DUCK HILL,President,,Joseph R. Biden,97
+Montgomery,EAST WINONA,President,,Joseph R. Biden,139
+Montgomery,KILMICHAEL,President,,Joseph R. Biden,94
+Montgomery,LODI,President,,Joseph R. Biden,72
+Montgomery,MT. PISAGH,President,,Joseph R. Biden,8
+Montgomery,NORTH DUCK HILL,President,,Joseph R. Biden,58
+Montgomery,NORTH KILMICHAEL,President,,Joseph R. Biden,41
+Montgomery,NORTH MT. PISAGH SWEETHOME,President,,Joseph R. Biden,25
+Montgomery,NORTH WINONA,President,,Joseph R. Biden,51
+Montgomery,NATIONS,President,,Joseph R. Biden,11
+Montgomery,POPLAR CREEK,President,,Joseph R. Biden,3
+Montgomery,SOUTH WINONA,President,,Joseph R. Biden,260
+Montgomery,SOUTHEAST WINONA,President,,Joseph R. Biden,25
+Montgomery,STEWART,President,,Joseph R. Biden,5
+Montgomery,WEST WINONA,President,,Joseph R. Biden,48
+Montgomery,TOTAL,President,,Joseph R. Biden,937
+Montgomery,DUCK HILL,President,,Michael R. Bloomberg,4
+Montgomery,EAST WINONA,President,,Michael R. Bloomberg,11
+Montgomery,KILMICHAEL,President,,Michael R. Bloomberg,10
+Montgomery,LODI,President,,Michael R. Bloomberg,4
+Montgomery,MT. PISAGH,President,,Michael R. Bloomberg,0
+Montgomery,NORTH DUCK HILL,President,,Michael R. Bloomberg,4
+Montgomery,NORTH KILMICHAEL,President,,Michael R. Bloomberg,2
+Montgomery,NORTH MT. PISAGH SWEETHOME,President,,Michael R. Bloomberg,1
+Montgomery,NORTH WINONA,President,,Michael R. Bloomberg,5
+Montgomery,NATIONS,President,,Michael R. Bloomberg,0
+Montgomery,POPLAR CREEK,President,,Michael R. Bloomberg,1
+Montgomery,SOUTH WINONA,President,,Michael R. Bloomberg,28
+Montgomery,SOUTHEAST WINONA,President,,Michael R. Bloomberg,6
+Montgomery,STEWART,President,,Michael R. Bloomberg,1
+Montgomery,WEST WINONA,President,,Michael R. Bloomberg,4
+Montgomery,TOTAL,President,,Michael R. Bloomberg,81
+Montgomery,DUCK HILL,President,,Pete Buttigieg,1
+Montgomery,EAST WINONA,President,,Pete Buttigieg,0
+Montgomery,KILMICHAEL,President,,Pete Buttigieg,0
+Montgomery,LODI,President,,Pete Buttigieg,0
+Montgomery,MT. PISAGH,President,,Pete Buttigieg,0
+Montgomery,NORTH DUCK HILL,President,,Pete Buttigieg,1
+Montgomery,NORTH KILMICHAEL,President,,Pete Buttigieg,0
+Montgomery,NORTH MT. PISAGH SWEETHOME,President,,Pete Buttigieg,0
+Montgomery,NORTH WINONA,President,,Pete Buttigieg,0
+Montgomery,NATIONS,President,,Pete Buttigieg,0
+Montgomery,POPLAR CREEK,President,,Pete Buttigieg,0
+Montgomery,SOUTH WINONA,President,,Pete Buttigieg,3
+Montgomery,SOUTHEAST WINONA,President,,Pete Buttigieg,0
+Montgomery,STEWART,President,,Pete Buttigieg,0
+Montgomery,WEST WINONA,President,,Pete Buttigieg,1
+Montgomery,TOTAL,President,,Pete Buttigieg,6
+Montgomery,DUCK HILL,President,,Tulsl Gabbard,0
+Montgomery,EAST WINONA,President,,Tulsl Gabbard,0
+Montgomery,KILMICHAEL,President,,Tulsl Gabbard,0
+Montgomery,LODI,President,,Tulsl Gabbard,0
+Montgomery,MT. PISAGH,President,,Tulsl Gabbard,0
+Montgomery,NORTH DUCK HILL,President,,Tulsl Gabbard,2
+Montgomery,NORTH KILMICHAEL,President,,Tulsl Gabbard,0
+Montgomery,NORTH MT. PISAGH SWEETHOME,President,,Tulsl Gabbard,0
+Montgomery,NORTH WINONA,President,,Tulsl Gabbard,1
+Montgomery,NATIONS,President,,Tulsl Gabbard,0
+Montgomery,POPLAR CREEK,President,,Tulsl Gabbard,0
+Montgomery,SOUTH WINONA,President,,Tulsl Gabbard,0
+Montgomery,SOUTHEAST WINONA,President,,Tulsl Gabbard,0
+Montgomery,STEWART,President,,Tulsl Gabbard,0
+Montgomery,WEST WINONA,President,,Tulsl Gabbard,0
+Montgomery,TOTAL,President,,Tulsl Gabbard,3
+Montgomery,DUCK HILL,President,,Amy Klobuchar,0
+Montgomery,EAST WINONA,President,,Amy Klobuchar,1
+Montgomery,KILMICHAEL,President,,Amy Klobuchar,2
+Montgomery,LODI,President,,Amy Klobuchar,0
+Montgomery,MT. PISAGH,President,,Amy Klobuchar,0
+Montgomery,NORTH DUCK HILL,President,,Amy Klobuchar,1
+Montgomery,NORTH KILMICHAEL,President,,Amy Klobuchar,0
+Montgomery,NORTH MT. PISAGH SWEETHOME,President,,Amy Klobuchar,0
+Montgomery,NORTH WINONA,President,,Amy Klobuchar,2
+Montgomery,NATIONS,President,,Amy Klobuchar,0
+Montgomery,POPLAR CREEK,President,,Amy Klobuchar,0
+Montgomery,SOUTH WINONA,President,,Amy Klobuchar,2
+Montgomery,SOUTHEAST WINONA,President,,Amy Klobuchar,0
+Montgomery,STEWART,President,,Amy Klobuchar,0
+Montgomery,WEST WINONA,President,,Amy Klobuchar,0
+Montgomery,TOTAL,President,,Amy Klobuchar,8
+Montgomery,DUCK HILL,President,,Deval Patrick,0
+Montgomery,EAST WINONA,President,,Deval Patrick,0
+Montgomery,KILMICHAEL,President,,Deval Patrick,0
+Montgomery,LODI,President,,Deval Patrick,0
+Montgomery,MT. PISAGH,President,,Deval Patrick,1
+Montgomery,NORTH DUCK HILL,President,,Deval Patrick,1
+Montgomery,NORTH KILMICHAEL,President,,Deval Patrick,0
+Montgomery,NORTH MT. PISAGH SWEETHOME,President,,Deval Patrick,0
+Montgomery,NORTH WINONA,President,,Deval Patrick,0
+Montgomery,NATIONS,President,,Deval Patrick,0
+Montgomery,POPLAR CREEK,President,,Deval Patrick,0
+Montgomery,SOUTH WINONA,President,,Deval Patrick,0
+Montgomery,SOUTHEAST WINONA,President,,Deval Patrick,0
+Montgomery,STEWART,President,,Deval Patrick,0
+Montgomery,WEST WINONA,President,,Deval Patrick,0
+Montgomery,TOTAL,President,,Deval Patrick,2
+Montgomery,DUCK HILL,President,,Bernie Sanders,8
+Montgomery,EAST WINONA,President,,Bernie Sanders,24
+Montgomery,KILMICHAEL,President,,Bernie Sanders,14
+Montgomery,LODI,President,,Bernie Sanders,14
+Montgomery,MT. PISAGH,President,,Bernie Sanders,1
+Montgomery,NORTH DUCK HILL,President,,Bernie Sanders,5
+Montgomery,NORTH KILMICHAEL,President,,Bernie Sanders,3
+Montgomery,NORTH MT. PISAGH SWEETHOME,President,,Bernie Sanders,4
+Montgomery,NORTH WINONA,President,,Bernie Sanders,16
+Montgomery,NATIONS,President,,Bernie Sanders,2
+Montgomery,POPLAR CREEK,President,,Bernie Sanders,1
+Montgomery,SOUTH WINONA,President,,Bernie Sanders,54
+Montgomery,SOUTHEAST WINONA,President,,Bernie Sanders,4
+Montgomery,STEWART,President,,Bernie Sanders,2
+Montgomery,WEST WINONA,President,,Bernie Sanders,12
+Montgomery,TOTAL,President,,Bernie Sanders,164
+Montgomery,DUCK HILL,President,,Tom Steyer,0
+Montgomery,EAST WINONA,President,,Tom Steyer,0
+Montgomery,KILMICHAEL,President,,Tom Steyer,0
+Montgomery,LODI,President,,Tom Steyer,0
+Montgomery,MT. PISAGH,President,,Tom Steyer,0
+Montgomery,NORTH DUCK HILL,President,,Tom Steyer,0
+Montgomery,NORTH KILMICHAEL,President,,Tom Steyer,0
+Montgomery,NORTH MT. PISAGH SWEETHOME,President,,Tom Steyer,0
+Montgomery,NORTH WINONA,President,,Tom Steyer,0
+Montgomery,NATIONS,President,,Tom Steyer,0
+Montgomery,POPLAR CREEK,President,,Tom Steyer,0
+Montgomery,SOUTH WINONA,President,,Tom Steyer,0
+Montgomery,SOUTHEAST WINONA,President,,Tom Steyer,0
+Montgomery,STEWART,President,,Tom Steyer,0
+Montgomery,WEST WINONA,President,,Tom Steyer,0
+Montgomery,TOTAL,President,,Tom Steyer,0
+Montgomery,DUCK HILL,President,,Elizabeth Warren,1
+Montgomery,EAST WINONA,President,,Elizabeth Warren,0
+Montgomery,KILMICHAEL,President,,Elizabeth Warren,0
+Montgomery,LODI,President,,Elizabeth Warren,1
+Montgomery,MT. PISAGH,President,,Elizabeth Warren,0
+Montgomery,NORTH DUCK HILL,President,,Elizabeth Warren,1
+Montgomery,NORTH KILMICHAEL,President,,Elizabeth Warren,0
+Montgomery,NORTH MT. PISAGH SWEETHOME,President,,Elizabeth Warren,0
+Montgomery,NORTH WINONA,President,,Elizabeth Warren,2
+Montgomery,NATIONS,President,,Elizabeth Warren,0
+Montgomery,POPLAR CREEK,President,,Elizabeth Warren,0
+Montgomery,SOUTH WINONA,President,,Elizabeth Warren,3
+Montgomery,SOUTHEAST WINONA,President,,Elizabeth Warren,0
+Montgomery,STEWART,President,,Elizabeth Warren,0
+Montgomery,WEST WINONA,President,,Elizabeth Warren,1
+Montgomery,TOTAL,President,,Elizabeth Warren,9
+Montgomery,DUCK HILL,President,,Andrew Yang,0
+Montgomery,EAST WINONA,President,,Andrew Yang,0
+Montgomery,KILMICHAEL,President,,Andrew Yang,0
+Montgomery,LODI,President,,Andrew Yang,0
+Montgomery,MT. PISAGH,President,,Andrew Yang,0
+Montgomery,NORTH DUCK HILL,President,,Andrew Yang,0
+Montgomery,NORTH KILMICHAEL,President,,Andrew Yang,0
+Montgomery,NORTH MT. PISAGH SWEETHOME,President,,Andrew Yang,0
+Montgomery,NORTH WINONA,President,,Andrew Yang,2
+Montgomery,NATIONS,President,,Andrew Yang,0
+Montgomery,POPLAR CREEK,President,,Andrew Yang,0
+Montgomery,SOUTH WINONA,President,,Andrew Yang,0
+Montgomery,SOUTHEAST WINONA,President,,Andrew Yang,0
+Montgomery,STEWART,President,,Andrew Yang,0
+Montgomery,WEST WINONA,President,,Andrew Yang,1
+Montgomery,TOTAL,President,,Andrew Yang,3
+Montgomery,DUCK HILL,U.S. Senate,,Tobey Bernard Bartee,2
+Montgomery,EAST WINONA,U.S. Senate,,Tobey Bernard Bartee,5
+Montgomery,KILMICHAEL,U.S. Senate,,Tobey Bernard Bartee,3
+Montgomery,LODI,U.S. Senate,,Tobey Bernard Bartee,4
+Montgomery,MT. PISAGH,U.S. Senate,,Tobey Bernard Bartee,1
+Montgomery,NORTH DUCK HILL,U.S. Senate,,Tobey Bernard Bartee,1
+Montgomery,NORTH KILMICHAEL,U.S. Senate,,Tobey Bernard Bartee,0
+Montgomery,NORTH MT. PISAGH SWEETHOME,U.S. Senate,,Tobey Bernard Bartee,0
+Montgomery,NORTH WINONA,U.S. Senate,,Tobey Bernard Bartee,5
+Montgomery,NATIONS,U.S. Senate,,Tobey Bernard Bartee,1
+Montgomery,POPLAR CREEK,U.S. Senate,,Tobey Bernard Bartee,0
+Montgomery,SOUTH WINONA,U.S. Senate,,Tobey Bernard Bartee,7
+Montgomery,SOUTHEAST WINONA,U.S. Senate,,Tobey Bernard Bartee,0
+Montgomery,STEWART,U.S. Senate,,Tobey Bernard Bartee,0
+Montgomery,WEST WINONA,U.S. Senate,,Tobey Bernard Bartee,4
+Montgomery,TOTAL,U.S. Senate,,Tobey Bernard Bartee,33
+Montgomery,DUCK HILL,U.S. Senate,,Jensen Bohren,5
+Montgomery,EAST WINONA,U.S. Senate,,Jensen Bohren,5
+Montgomery,KILMICHAEL,U.S. Senate,,Jensen Bohren,0
+Montgomery,LODI,U.S. Senate,,Jensen Bohren,2
+Montgomery,MT. PISAGH,U.S. Senate,,Jensen Bohren,0
+Montgomery,NORTH DUCK HILL,U.S. Senate,,Jensen Bohren,6
+Montgomery,NORTH KILMICHAEL,U.S. Senate,,Jensen Bohren,0
+Montgomery,NORTH MT. PISAGH SWEETHOME,U.S. Senate,,Jensen Bohren,1
+Montgomery,NORTH WINONA,U.S. Senate,,Jensen Bohren,3
+Montgomery,NATIONS,U.S. Senate,,Jensen Bohren,0
+Montgomery,POPLAR CREEK,U.S. Senate,,Jensen Bohren,0
+Montgomery,SOUTH WINONA,U.S. Senate,,Jensen Bohren,4
+Montgomery,SOUTHEAST WINONA,U.S. Senate,,Jensen Bohren,0
+Montgomery,STEWART,U.S. Senate,,Jensen Bohren,1
+Montgomery,WEST WINONA,U.S. Senate,,Jensen Bohren,1
+Montgomery,TOTAL,U.S. Senate,,Jensen Bohren,28
+Montgomery,DUCK HILL,U.S. Senate,,Mike Espy,99
+Montgomery,EAST WINONA,U.S. Senate,,Mike Espy,161
+Montgomery,KILMICHAEL,U.S. Senate,,Mike Espy,115
+Montgomery,LODI,U.S. Senate,,Mike Espy,82
+Montgomery,MT. PISAGH,U.S. Senate,,Mike Espy,10
+Montgomery,NORTH DUCK HILL,U.S. Senate,,Mike Espy,64
+Montgomery,NORTH KILMICHAEL,U.S. Senate,,Mike Espy,44
+Montgomery,NORTH MT. PISAGH SWEETHOME,U.S. Senate,,Mike Espy,29
+Montgomery,NORTH WINONA,U.S. Senate,,Mike Espy,69
+Montgomery,NATIONS,U.S. Senate,,Mike Espy,11
+Montgomery,POPLAR CREEK,U.S. Senate,,Mike Espy,5
+Montgomery,SOUTH WINONA,U.S. Senate,,Mike Espy,328
+Montgomery,SOUTHEAST WINONA,U.S. Senate,,Mike Espy,37
+Montgomery,STEWART,U.S. Senate,,Mike Espy,6
+Montgomery,WEST WINONA,U.S. Senate,,Mike Espy,59
+Montgomery,TOTAL,U.S. Senate,,Mike Espy,1119
+Montgomery,DUCK HILL,U.S. House,2,Sonia Rathburn,5
+Montgomery,EAST WINONA,U.S. House,2,Sonia Rathburn,3
+Montgomery,KILMICHAEL,U.S. House,2,Sonia Rathburn,6
+Montgomery,LODI,U.S. House,2,Sonia Rathburn,1
+Montgomery,MT. PISAGH,U.S. House,2,Sonia Rathburn,1
+Montgomery,NORTH DUCK HILL,U.S. House,2,Sonia Rathburn,2
+Montgomery,NORTH KILMICHAEL,U.S. House,2,Sonia Rathburn,0
+Montgomery,NORTH MT. PISAGH SWEETHOME,U.S. House,2,Sonia Rathburn,1
+Montgomery,NORTH WINONA,U.S. House,2,Sonia Rathburn,9
+Montgomery,NATIONS,U.S. House,2,Sonia Rathburn,1
+Montgomery,POPLAR CREEK,U.S. House,2,Sonia Rathburn,0
+Montgomery,SOUTH WINONA,U.S. House,2,Sonia Rathburn,16
+Montgomery,SOUTHEAST WINONA,U.S. House,2,Sonia Rathburn,2
+Montgomery,STEWART,U.S. House,2,Sonia Rathburn,1
+Montgomery,WEST WINONA,U.S. House,2,Sonia Rathburn,5
+Montgomery,TOTAL,U.S. House,2,Sonia Rathburn,53
+Montgomery,DUCK HILL,U.S. House,2,Bennie G. Thompson,106
+Montgomery,EAST WINONA,U.S. House,2,Bennie G. Thompson,170
+Montgomery,KILMICHAEL,U.S. House,2,Bennie G. Thompson,112
+Montgomery,LODI,U.S. House,2,Bennie G. Thompson,85
+Montgomery,MT. PISAGH,U.S. House,2,Bennie G. Thompson,9
+Montgomery,NORTH DUCK HILL,U.S. House,2,Bennie G. Thompson,68
+Montgomery,NORTH KILMICHAEL,U.S. House,2,Bennie G. Thompson,43
+Montgomery,NORTH MT. PISAGH SWEETHOME,U.S. House,2,Bennie G. Thompson,29
+Montgomery,NORTH WINONA,U.S. House,2,Bennie G. Thompson,69
+Montgomery,NATIONS,U.S. House,2,Bennie G. Thompson,11
+Montgomery,POPLAR CREEK,U.S. House,2,Bennie G. Thompson,5
+Montgomery,SOUTH WINONA,U.S. House,2,Bennie G. Thompson,331
+Montgomery,SOUTHEAST WINONA,U.S. House,2,Bennie G. Thompson,34
+Montgomery,STEWART,U.S. House,2,Bennie G. Thompson,6
+Montgomery,WEST WINONA,U.S. House,2,Bennie G. Thompson,62
+Montgomery,TOTAL,U.S. House,2,Bennie G. Thompson,1140
