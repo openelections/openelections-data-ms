@@ -2,10 +2,16 @@ import os
 import glob
 import csv
 
-year = '2018'
-election = '20181106'
+year = '2020'
+election = '20200310'
 path = election+'*precinct.csv'
-output_file = election+'__ms__general__precinct.csv'
+output_file = election+'__ms__primary__precinct.csv'
+
+def strip_bom(year, path):
+    os.chdir(year)
+    for fname in glob.glob(path):
+        s = open(fname, mode='r', encoding='utf-8-sig').read()
+        open(fname, mode='w', encoding='utf-8').write(s)
 
 def generate_headers(year, path):
     os.chdir(year)
