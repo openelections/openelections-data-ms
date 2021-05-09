@@ -1,8 +1,8 @@
 county,precinct,office,district,candidate,party,votes
 Adams,"Dist. 5, Airport Precinct",Governor,,Phil Bryant,R,161
 Adams,"Dist. 5, Airport Precinct",Governor,,Johnny L. DuPree,D,312
-Adams,"Dist. 1, By-Pass Fire Precinct ",Governor,,Phil Bryant,R,186
-Adams,"Dist. 1, By-Pass Fire Precinct ",Governor,,Johnny L. DuPree,D,381
+Adams,"Dist. 1, By-Pass Fire Precinct",Governor,,Phil Bryant,R,186
+Adams,"Dist. 1, By-Pass Fire Precinct",Governor,,Johnny L. DuPree,D,381
 Adams,"Dist. 1, Bellemont Precinct",Governor,,Phil Bryant,R,980
 Adams,"Dist. 1, Bellemont Precinct",Governor,,Johnny L. DuPree,D,317
 Adams,"Dist. 2, Beau Pre Precinct",Governor,,Phil Bryant,R,355
@@ -19,8 +19,8 @@ Adams,"Dist. 5, Foster Mound Precinct",Governor,,Phil Bryant,R,40
 Adams,"Dist. 5, Foster Mound Precinct",Governor,,Johnny L. DuPree,D,600
 Adams,"Dist. 2, Kingston Precinct",Governor,,Phil Bryant,R,433
 Adams,"Dist. 2, Kingston Precinct",Governor,,Johnny L. DuPree,D,92
-Adams,"Dist. 2, Liberty Park Precinct ",Governor,,Phil Bryant,R,507
-Adams,"Dist. 2, Liberty Park Precinct ",Governor,,Johnny L. DuPree,D,83
+Adams,"Dist. 2, Liberty Park Precinct",Governor,,Phil Bryant,R,507
+Adams,"Dist. 2, Liberty Park Precinct",Governor,,Johnny L. DuPree,D,83
 Adams,"Dist. 4, Morgantown Precinct",Governor,,Phil Bryant,R,114
 Adams,"Dist. 4, Morgantown Precinct",Governor,,Johnny L. DuPree,D,204
 Adams,"Dist. 3, Maryland Hgts. Precinct",Governor,,Phil Bryant,R,20
@@ -43,8 +43,8 @@ Adams,TOTAL,Governor,,Phil Bryant,R,5056
 Adams,TOTAL,Governor,,Johnny L. DuPree,D,5403
 Adams,"Dist. 5, Airport Precinct",Lieutenant Governor,,Tate Reeves,R,213
 Adams,"Dist. 5, Airport Precinct",Lieutenant Governor,,Tracella Lou O'Hara Hill,Reform,132
-Adams,"Dist. 1, By-Pass Fire Precinct ",Lieutenant Governor,,Tate Reeves,R,238
-Adams,"Dist. 1, By-Pass Fire Precinct ",Lieutenant Governor,,Tracella Lou O'Hara Hill,Reform,160
+Adams,"Dist. 1, By-Pass Fire Precinct",Lieutenant Governor,,Tate Reeves,R,238
+Adams,"Dist. 1, By-Pass Fire Precinct",Lieutenant Governor,,Tracella Lou O'Hara Hill,Reform,160
 Adams,"Dist. 1, Bellemont Precinct",Lieutenant Governor,,Tate Reeves,R,1046
 Adams,"Dist. 1, Bellemont Precinct",Lieutenant Governor,,Tracella Lou O'Hara Hill,Reform,137
 Adams,"Dist. 2, Beau Pre Precinct",Lieutenant Governor,,Tate Reeves,R,391
@@ -61,8 +61,8 @@ Adams,"Dist. 5, Foster Mound Precinct",Lieutenant Governor,,Tate Reeves,R,152
 Adams,"Dist. 5, Foster Mound Precinct",Lieutenant Governor,,Tracella Lou O'Hara Hill,Reform,253
 Adams,"Dist. 2, Kingston Precinct",Lieutenant Governor,,Tate Reeves,R,442
 Adams,"Dist. 2, Kingston Precinct",Lieutenant Governor,,Tracella Lou O'Hara Hill,Reform,56
-Adams,"Dist. 2, Liberty Park Precinct ",Lieutenant Governor,,Tate Reeves,R,533
-Adams,"Dist. 2, Liberty Park Precinct ",Lieutenant Governor,,Tracella Lou O'Hara Hill,Reform,32
+Adams,"Dist. 2, Liberty Park Precinct",Lieutenant Governor,,Tate Reeves,R,533
+Adams,"Dist. 2, Liberty Park Precinct",Lieutenant Governor,,Tracella Lou O'Hara Hill,Reform,32
 Adams,"Dist. 4, Morgantown Precinct",Lieutenant Governor,,Tate Reeves,R,148
 Adams,"Dist. 4, Morgantown Precinct",Lieutenant Governor,,Tracella Lou O'Hara Hill,Reform,113
 Adams,"Dist. 3, Maryland Hgts. Precinct",Lieutenant Governor,,Tate Reeves,R,71
@@ -84,7 +84,7 @@ Adams,"Dist. 5, Washington Precinct",Lieutenant Governor,,Tracella Lou O'Hara Hi
 Adams,TOTAL,Lieutenant Governor,,Tate Reeves,R,6039
 Adams,TOTAL,Lieutenant Governor,,Tracella Lou O'Hara Hill,Reform,2389
 Adams,"Dist. 5, Airport Precinct",Secretary of State,,Delbert Hosemann,R,249
-Adams,"Dist. 1, By-Pass Fire Precinct ",Secretary of State,,Delbert Hosemann,R,300
+Adams,"Dist. 1, By-Pass Fire Precinct",Secretary of State,,Delbert Hosemann,R,300
 Adams,"Dist. 1, Bellemont Precinct",Secretary of State,,Delbert Hosemann,R,1088
 Adams,"Dist. 2, Beau Pre Precinct",Secretary of State,,Delbert Hosemann,R,418
 Adams,"Dist. 3, Concord Precinct",Secretary of State,,Delbert Hosemann,R,143
@@ -93,7 +93,7 @@ Adams,"Dist. 4, Carpenter Precinct",Secretary of State,,Delbert Hosemann,R,183
 Adams,"Dist. 2, Duncan Park Precinct",Secretary of State,,Delbert Hosemann,R,555
 Adams,"Dist. 5, Foster Mound Precinct",Secretary of State,,Delbert Hosemann,R,249
 Adams,"Dist. 2, Kingston Precinct",Secretary of State,,Delbert Hosemann,R,448
-Adams,"Dist. 2, Liberty Park Precinct ",Secretary of State,,Delbert Hosemann,R,532
+Adams,"Dist. 2, Liberty Park Precinct",Secretary of State,,Delbert Hosemann,R,532
 Adams,"Dist. 4, Morgantown Precinct",Secretary of State,,Delbert Hosemann,R,190
 Adams,"Dist. 3, Maryland Hgts. Precinct",Secretary of State,,Delbert Hosemann,R,140
 Adams,"Dist. 3, Nps Multi Purpose Bldg.",Secretary of State,,Delbert Hosemann,R,181
@@ -106,8 +106,8 @@ Adams,"Dist. 5, Washington Precinct",Secretary of State,,Delbert Hosemann,R,324
 Adams,TOTAL,Secretary of State,,Delbert Hosemann,R,6894
 Adams,"Dist. 5, Airport Precinct",Attorney General,,Jim Hood,D,367
 Adams,"Dist. 5, Airport Precinct",Attorney General,,Steve Simpson,R,98
-Adams,"Dist. 1, By-Pass Fire Precinct ",Attorney General,,Jim Hood,D,418
-Adams,"Dist. 1, By-Pass Fire Precinct ",Attorney General,,Steve Simpson,R,141
+Adams,"Dist. 1, By-Pass Fire Precinct",Attorney General,,Jim Hood,D,418
+Adams,"Dist. 1, By-Pass Fire Precinct",Attorney General,,Steve Simpson,R,141
 Adams,"Dist. 1, Bellemont Precinct",Attorney General,,Jim Hood,D,641
 Adams,"Dist. 1, Bellemont Precinct",Attorney General,,Steve Simpson,R,643
 Adams,"Dist. 2, Beau Pre Precinct",Attorney General,,Jim Hood,D,274
@@ -124,8 +124,8 @@ Adams,"Dist. 5, Foster Mound Precinct",Attorney General,,Jim Hood,D,575
 Adams,"Dist. 5, Foster Mound Precinct",Attorney General,,Steve Simpson,R,39
 Adams,"Dist. 2, Kingston Precinct",Attorney General,,Jim Hood,D,235
 Adams,"Dist. 2, Kingston Precinct",Attorney General,,Steve Simpson,R,280
-Adams,"Dist. 2, Liberty Park Precinct ",Attorney General,,Jim Hood,D,276
-Adams,"Dist. 2, Liberty Park Precinct ",Attorney General,,Steve Simpson,R,313
+Adams,"Dist. 2, Liberty Park Precinct",Attorney General,,Jim Hood,D,276
+Adams,"Dist. 2, Liberty Park Precinct",Attorney General,,Steve Simpson,R,313
 Adams,"Dist. 4, Morgantown Precinct",Attorney General,,Jim Hood,D,251
 Adams,"Dist. 4, Morgantown Precinct",Attorney General,,Steve Simpson,R,67
 Adams,"Dist. 3, Maryland Hgts. Precinct",Attorney General,,Jim Hood,D,314
@@ -148,8 +148,8 @@ Adams,TOTAL,Attorney General,,Jim Hood,D,6950
 Adams,TOTAL,Attorney General,,Steve Simpson,R,3302
 Adams,"Dist. 5, Airport Precinct",State Auditor,,Stacey E. Pickering,R,204
 Adams,"Dist. 5, Airport Precinct",State Auditor,,Ashley Norwood,Reform,128
-Adams,"Dist. 1, By-Pass Fire Precinct ",State Auditor,,Stacey E. Pickering,R,224
-Adams,"Dist. 1, By-Pass Fire Precinct ",State Auditor,,Ashley Norwood,Reform,149
+Adams,"Dist. 1, By-Pass Fire Precinct",State Auditor,,Stacey E. Pickering,R,224
+Adams,"Dist. 1, By-Pass Fire Precinct",State Auditor,,Ashley Norwood,Reform,149
 Adams,"Dist. 1, Bellemont Precinct",State Auditor,,Stacey E. Pickering,R,1026
 Adams,"Dist. 1, Bellemont Precinct",State Auditor,,Ashley Norwood,Reform,146
 Adams,"Dist. 2, Beau Pre Precinct",State Auditor,,Stacey E. Pickering,R,381
@@ -166,8 +166,8 @@ Adams,"Dist. 5, Foster Mound Precinct",State Auditor,,Stacey E. Pickering,R,127
 Adams,"Dist. 5, Foster Mound Precinct",State Auditor,,Ashley Norwood,Reform,242
 Adams,"Dist. 2, Kingston Precinct",State Auditor,,Stacey E. Pickering,R,442
 Adams,"Dist. 2, Kingston Precinct",State Auditor,,Ashley Norwood,Reform,54
-Adams,"Dist. 2, Liberty Park Precinct ",State Auditor,,Stacey E. Pickering,R,515
-Adams,"Dist. 2, Liberty Park Precinct ",State Auditor,,Ashley Norwood,Reform,42
+Adams,"Dist. 2, Liberty Park Precinct",State Auditor,,Stacey E. Pickering,R,515
+Adams,"Dist. 2, Liberty Park Precinct",State Auditor,,Ashley Norwood,Reform,42
 Adams,"Dist. 4, Morgantown Precinct",State Auditor,,Stacey E. Pickering,R,145
 Adams,"Dist. 4, Morgantown Precinct",State Auditor,,Ashley Norwood,Reform,105
 Adams,"Dist. 3, Maryland Hgts. Precinct",State Auditor,,Stacey E. Pickering,R,59
@@ -191,9 +191,9 @@ Adams,TOTAL,State Auditor,,Ashley Norwood,Reform,2377
 Adams,"Dist. 5, Airport Precinct",State Treasurer,,Lynn Fitch,R,160
 Adams,"Dist. 5, Airport Precinct",State Treasurer,,Connie Moran,D,294
 Adams,"Dist. 5, Airport Precinct",State Treasurer,,Shawn O'Hara,Reform,6
-Adams,"Dist. 1, By-Pass Fire Precinct ",State Treasurer,,Lynn Fitch,R,185
-Adams,"Dist. 1, By-Pass Fire Precinct ",State Treasurer,,Connie Moran,D,355
-Adams,"Dist. 1, By-Pass Fire Precinct ",State Treasurer,,Shawn O'Hara,Reform,10
+Adams,"Dist. 1, By-Pass Fire Precinct",State Treasurer,,Lynn Fitch,R,185
+Adams,"Dist. 1, By-Pass Fire Precinct",State Treasurer,,Connie Moran,D,355
+Adams,"Dist. 1, By-Pass Fire Precinct",State Treasurer,,Shawn O'Hara,Reform,10
 Adams,"Dist. 1, Bellemont Precinct",State Treasurer,,Lynn Fitch,R,957
 Adams,"Dist. 1, Bellemont Precinct",State Treasurer,,Connie Moran,D,292
 Adams,"Dist. 1, Bellemont Precinct",State Treasurer,,Shawn O'Hara,Reform,24
@@ -218,9 +218,9 @@ Adams,"Dist. 5, Foster Mound Precinct",State Treasurer,,Shawn O'Hara,Reform,9
 Adams,"Dist. 2, Kingston Precinct",State Treasurer,,Lynn Fitch,R,420
 Adams,"Dist. 2, Kingston Precinct",State Treasurer,,Connie Moran,D,86
 Adams,"Dist. 2, Kingston Precinct",State Treasurer,,Shawn O'Hara,Reform,8
-Adams,"Dist. 2, Liberty Park Precinct ",State Treasurer,,Lynn Fitch,R,491
-Adams,"Dist. 2, Liberty Park Precinct ",State Treasurer,,Connie Moran,D,77
-Adams,"Dist. 2, Liberty Park Precinct ",State Treasurer,,Shawn O'Hara,Reform,12
+Adams,"Dist. 2, Liberty Park Precinct",State Treasurer,,Lynn Fitch,R,491
+Adams,"Dist. 2, Liberty Park Precinct",State Treasurer,,Connie Moran,D,77
+Adams,"Dist. 2, Liberty Park Precinct",State Treasurer,,Shawn O'Hara,Reform,12
 Adams,"Dist. 4, Morgantown Precinct",State Treasurer,,Lynn Fitch,R,111
 Adams,"Dist. 4, Morgantown Precinct",State Treasurer,,Connie Moran,D,201
 Adams,"Dist. 4, Morgantown Precinct",State Treasurer,,Shawn O'Hara,Reform,6
@@ -254,9 +254,9 @@ Adams,TOTAL,State Treasurer,,Shawn O'Hara,Reform,184
 Adams,"Dist. 5, Airport Precinct",Commissioner of Agriculture & Commerce,,Joel Gill,D,301
 Adams,"Dist. 5, Airport Precinct",Commissioner of Agriculture & Commerce,,Cindy Hyde-Smith,R,157
 Adams,"Dist. 5, Airport Precinct",Commissioner of Agriculture & Commerce,,Cathy L. Toole,Reform,7
-Adams,"Dist. 1, By-Pass Fire Precinct ",Commissioner of Agriculture & Commerce,,Joel Gill,D,370
-Adams,"Dist. 1, By-Pass Fire Precinct ",Commissioner of Agriculture & Commerce,,Cindy Hyde-Smith,R,169
-Adams,"Dist. 1, By-Pass Fire Precinct ",Commissioner of Agriculture & Commerce,,Cathy L. Toole,Reform,8
+Adams,"Dist. 1, By-Pass Fire Precinct",Commissioner of Agriculture & Commerce,,Joel Gill,D,370
+Adams,"Dist. 1, By-Pass Fire Precinct",Commissioner of Agriculture & Commerce,,Cindy Hyde-Smith,R,169
+Adams,"Dist. 1, By-Pass Fire Precinct",Commissioner of Agriculture & Commerce,,Cathy L. Toole,Reform,8
 Adams,"Dist. 1, Bellemont Precinct",Commissioner of Agriculture & Commerce,,Joel Gill,D,338
 Adams,"Dist. 1, Bellemont Precinct",Commissioner of Agriculture & Commerce,,Cindy Hyde-Smith,R,903
 Adams,"Dist. 1, Bellemont Precinct",Commissioner of Agriculture & Commerce,,Cathy L. Toole,Reform,18
@@ -281,9 +281,9 @@ Adams,"Dist. 5, Foster Mound Precinct",Commissioner of Agriculture & Commerce,,C
 Adams,"Dist. 2, Kingston Precinct",Commissioner of Agriculture & Commerce,,Joel Gill,D,124
 Adams,"Dist. 2, Kingston Precinct",Commissioner of Agriculture & Commerce,,Cindy Hyde-Smith,R,383
 Adams,"Dist. 2, Kingston Precinct",Commissioner of Agriculture & Commerce,,Cathy L. Toole,Reform,6
-Adams,"Dist. 2, Liberty Park Precinct ",Commissioner of Agriculture & Commerce,,Joel Gill,D,116
-Adams,"Dist. 2, Liberty Park Precinct ",Commissioner of Agriculture & Commerce,,Cindy Hyde-Smith,R,448
-Adams,"Dist. 2, Liberty Park Precinct ",Commissioner of Agriculture & Commerce,,Cathy L. Toole,Reform,8
+Adams,"Dist. 2, Liberty Park Precinct",Commissioner of Agriculture & Commerce,,Joel Gill,D,116
+Adams,"Dist. 2, Liberty Park Precinct",Commissioner of Agriculture & Commerce,,Cindy Hyde-Smith,R,448
+Adams,"Dist. 2, Liberty Park Precinct",Commissioner of Agriculture & Commerce,,Cathy L. Toole,Reform,8
 Adams,"Dist. 4, Morgantown Precinct",Commissioner of Agriculture & Commerce,,Joel Gill,D,210
 Adams,"Dist. 4, Morgantown Precinct",Commissioner of Agriculture & Commerce,,Cindy Hyde-Smith,R,102
 Adams,"Dist. 4, Morgantown Precinct",Commissioner of Agriculture & Commerce,,Cathy L. Toole,Reform,6
@@ -317,9 +317,9 @@ Adams,TOTAL,Commissioner of Agriculture & Commerce,,Cathy L. Toole,Reform,164
 Adams,"Dist. 5, Airport Precinct",Commissioner of Insurance,,Mike Chaney,R,154
 Adams,"Dist. 5, Airport Precinct",Commissioner of Insurance,,Louis Fondren,D,298
 Adams,"Dist. 5, Airport Precinct",Commissioner of Insurance,,Barbara Dale Washer,Reform,7
-Adams,"Dist. 1, By-Pass Fire Precinct ",Commissioner of Insurance,,Mike Chaney,R,179
-Adams,"Dist. 1, By-Pass Fire Precinct ",Commissioner of Insurance,,Louis Fondren,D,349
-Adams,"Dist. 1, By-Pass Fire Precinct ",Commissioner of Insurance,,Barbara Dale Washer,Reform,13
+Adams,"Dist. 1, By-Pass Fire Precinct",Commissioner of Insurance,,Mike Chaney,R,179
+Adams,"Dist. 1, By-Pass Fire Precinct",Commissioner of Insurance,,Louis Fondren,D,349
+Adams,"Dist. 1, By-Pass Fire Precinct",Commissioner of Insurance,,Barbara Dale Washer,Reform,13
 Adams,"Dist. 1, Bellemont Precinct",Commissioner of Insurance,,Mike Chaney,R,941
 Adams,"Dist. 1, Bellemont Precinct",Commissioner of Insurance,,Louis Fondren,D,289
 Adams,"Dist. 1, Bellemont Precinct",Commissioner of Insurance,,Barbara Dale Washer,Reform,25
@@ -344,9 +344,9 @@ Adams,"Dist. 5, Foster Mound Precinct",Commissioner of Insurance,,Barbara Dale W
 Adams,"Dist. 2, Kingston Precinct",Commissioner of Insurance,,Mike Chaney,R,415
 Adams,"Dist. 2, Kingston Precinct",Commissioner of Insurance,,Louis Fondren,D,85
 Adams,"Dist. 2, Kingston Precinct",Commissioner of Insurance,,Barbara Dale Washer,Reform,11
-Adams,"Dist. 2, Liberty Park Precinct ",Commissioner of Insurance,,Mike Chaney,R,472
-Adams,"Dist. 2, Liberty Park Precinct ",Commissioner of Insurance,,Louis Fondren,D,87
-Adams,"Dist. 2, Liberty Park Precinct ",Commissioner of Insurance,,Barbara Dale Washer,Reform,11
+Adams,"Dist. 2, Liberty Park Precinct",Commissioner of Insurance,,Mike Chaney,R,472
+Adams,"Dist. 2, Liberty Park Precinct",Commissioner of Insurance,,Louis Fondren,D,87
+Adams,"Dist. 2, Liberty Park Precinct",Commissioner of Insurance,,Barbara Dale Washer,Reform,11
 Adams,"Dist. 4, Morgantown Precinct",Commissioner of Insurance,,Mike Chaney,R,105
 Adams,"Dist. 4, Morgantown Precinct",Commissioner of Insurance,,Louis Fondren,D,206
 Adams,"Dist. 4, Morgantown Precinct",Commissioner of Insurance,,Barbara Dale Washer,Reform,6
@@ -379,8 +379,8 @@ Adams,TOTAL,Commissioner of Insurance,,Louis Fondren,D,4962
 Adams,TOTAL,Commissioner of Insurance,,Barbara Dale Washer,Reform,208
 Adams,"Dist. 5, Airport Precinct",State Senate,37,Bob M. Dearing,D,357
 Adams,"Dist. 5, Airport Precinct",State Senate,37,Melanie Sojourner,D,106
-Adams,"Dist. 1, By-Pass Fire Precinct ",State Senate,37,Bob M. Dearing,D,410
-Adams,"Dist. 1, By-Pass Fire Precinct ",State Senate,37,Melanie Sojourner,D,144
+Adams,"Dist. 1, By-Pass Fire Precinct",State Senate,37,Bob M. Dearing,D,410
+Adams,"Dist. 1, By-Pass Fire Precinct",State Senate,37,Melanie Sojourner,D,144
 Adams,"Dist. 1, Bellemont Precinct",State Senate,37,Bob M. Dearing,D,693
 Adams,"Dist. 1, Bellemont Precinct",State Senate,37,Melanie Sojourner,D,609
 Adams,"Dist. 2, Beau Pre Precinct",State Senate,37,Bob M. Dearing,D,276
@@ -397,8 +397,8 @@ Adams,"Dist. 5, Foster Mound Precinct",State Senate,37,Bob M. Dearing,D,X
 Adams,"Dist. 5, Foster Mound Precinct",State Senate,37,Melanie Sojourner,D,X
 Adams,"Dist. 2, Kingston Precinct",State Senate,37,Bob M. Dearing,D,141
 Adams,"Dist. 2, Kingston Precinct",State Senate,37,Melanie Sojourner,D,388
-Adams,"Dist. 2, Liberty Park Precinct ",State Senate,37,Bob M. Dearing,D,268
-Adams,"Dist. 2, Liberty Park Precinct ",State Senate,37,Melanie Sojourner,D,329
+Adams,"Dist. 2, Liberty Park Precinct",State Senate,37,Bob M. Dearing,D,268
+Adams,"Dist. 2, Liberty Park Precinct",State Senate,37,Melanie Sojourner,D,329
 Adams,"Dist. 4, Morgantown Precinct",State Senate,37,Bob M. Dearing,D,247
 Adams,"Dist. 4, Morgantown Precinct",State Senate,37,Melanie Sojourner,D,75
 Adams,"Dist. 3, Maryland Hgts. Precinct",State Senate,37,Bob M. Dearing,D,314
@@ -420,7 +420,7 @@ Adams,"Dist. 5, Washington Precinct",State Senate,37,Melanie Sojourner,D,212
 Adams,TOTAL,State Senate,37,Bob M. Dearing,D,5429
 Adams,TOTAL,State Senate,37,Melanie Sojourner,D,3505
 Adams,"Dist. 5, Airport Precinct",State Senate,38,Kelvin E. Butler,D,X
-Adams,"Dist. 1, By-Pass Fire Precinct ",State Senate,38,Kelvin E. Butler,D,1
+Adams,"Dist. 1, By-Pass Fire Precinct",State Senate,38,Kelvin E. Butler,D,1
 Adams,"Dist. 1, Bellemont Precinct",State Senate,38,Kelvin E. Butler,D,X
 Adams,"Dist. 2, Beau Pre Precinct",State Senate,38,Kelvin E. Butler,D,X
 Adams,"Dist. 3, Concord Precinct",State Senate,38,Kelvin E. Butler,D,X
@@ -429,7 +429,7 @@ Adams,"Dist. 4, Carpenter Precinct",State Senate,38,Kelvin E. Butler,D,X
 Adams,"Dist. 2, Duncan Park Precinct",State Senate,38,Kelvin E. Butler,D,X
 Adams,"Dist. 5, Foster Mound Precinct",State Senate,38,Kelvin E. Butler,D,595
 Adams,"Dist. 2, Kingston Precinct",State Senate,38,Kelvin E. Butler,D,X
-Adams,"Dist. 2, Liberty Park Precinct ",State Senate,38,Kelvin E. Butler,D,X
+Adams,"Dist. 2, Liberty Park Precinct",State Senate,38,Kelvin E. Butler,D,X
 Adams,"Dist. 4, Morgantown Precinct",State Senate,38,Kelvin E. Butler,D,X
 Adams,"Dist. 3, Maryland Hgts. Precinct",State Senate,38,Kelvin E. Butler,D,X
 Adams,"Dist. 3, Nps Multi Purpose Bldg.",State Senate,38,Kelvin E. Butler,D,X
@@ -441,7 +441,7 @@ Adams,"Dist. 4, Thompson Precinct",State Senate,38,Kelvin E. Butler,D,340
 Adams,"Dist. 5, Washington Precinct",State Senate,38,Kelvin E. Butler,D,X
 Adams,TOTAL,State Senate,38,Kelvin E. Butler,D,1367
 Adams,"Dist. 5, Airport Precinct",State House,85,America 'Chuck' Middleton,D,X
-Adams,"Dist. 1, By-Pass Fire Precinct ",State House,85,America 'Chuck' Middleton,D,X
+Adams,"Dist. 1, By-Pass Fire Precinct",State House,85,America 'Chuck' Middleton,D,X
 Adams,"Dist. 1, Bellemont Precinct",State House,85,America 'Chuck' Middleton,D,109
 Adams,"Dist. 2, Beau Pre Precinct",State House,85,America 'Chuck' Middleton,D,X
 Adams,"Dist. 3, Concord Precinct",State House,85,America 'Chuck' Middleton,D,X
@@ -450,7 +450,7 @@ Adams,"Dist. 4, Carpenter Precinct",State House,85,America 'Chuck' Middleton,D,X
 Adams,"Dist. 2, Duncan Park Precinct",State House,85,America 'Chuck' Middleton,D,X
 Adams,"Dist. 5, Foster Mound Precinct",State House,85,America 'Chuck' Middleton,D,X
 Adams,"Dist. 2, Kingston Precinct",State House,85,America 'Chuck' Middleton,D,28
-Adams,"Dist. 2, Liberty Park Precinct ",State House,85,America 'Chuck' Middleton,D,435
+Adams,"Dist. 2, Liberty Park Precinct",State House,85,America 'Chuck' Middleton,D,435
 Adams,"Dist. 4, Morgantown Precinct",State House,85,America 'Chuck' Middleton,D,X
 Adams,"Dist. 3, Maryland Hgts. Precinct",State House,85,America 'Chuck' Middleton,D,X
 Adams,"Dist. 3, Nps Multi Purpose Bldg.",State House,85,America 'Chuck' Middleton,D,X
@@ -462,7 +462,7 @@ Adams,"Dist. 4, Thompson Precinct",State House,85,America 'Chuck' Middleton,D,X
 Adams,"Dist. 5, Washington Precinct",State House,85,America 'Chuck' Middleton,D,101
 Adams,TOTAL,State House,85,America 'Chuck' Middleton,D,1046
 Adams,"Dist. 5, Airport Precinct",State House,94,"Robert L. Johnson, III",D,400
-Adams,"Dist. 1, By-Pass Fire Precinct ",State House,94,"Robert L. Johnson, III",D,X
+Adams,"Dist. 1, By-Pass Fire Precinct",State House,94,"Robert L. Johnson, III",D,X
 Adams,"Dist. 1, Bellemont Precinct",State House,94,"Robert L. Johnson, III",D,166
 Adams,"Dist. 2, Beau Pre Precinct",State House,94,"Robert L. Johnson, III",D,X
 Adams,"Dist. 3, Concord Precinct",State House,94,"Robert L. Johnson, III",D,326
@@ -471,7 +471,7 @@ Adams,"Dist. 4, Carpenter Precinct",State House,94,"Robert L. Johnson, III",D,27
 Adams,"Dist. 2, Duncan Park Precinct",State House,94,"Robert L. Johnson, III",D,543
 Adams,"Dist. 5, Foster Mound Precinct",State House,94,"Robert L. Johnson, III",D,573
 Adams,"Dist. 2, Kingston Precinct",State House,94,"Robert L. Johnson, III",D,X
-Adams,"Dist. 2, Liberty Park Precinct ",State House,94,"Robert L. Johnson, III",D,X
+Adams,"Dist. 2, Liberty Park Precinct",State House,94,"Robert L. Johnson, III",D,X
 Adams,"Dist. 4, Morgantown Precinct",State House,94,"Robert L. Johnson, III",D,285
 Adams,"Dist. 3, Maryland Hgts. Precinct",State House,94,"Robert L. Johnson, III",D,329
 Adams,"Dist. 3, Nps Multi Purpose Bldg.",State House,94,"Robert L. Johnson, III",D,242
@@ -483,7 +483,7 @@ Adams,"Dist. 4, Thompson Precinct",State House,94,"Robert L. Johnson, III",D,339
 Adams,"Dist. 5, Washington Precinct",State House,94,"Robert L. Johnson, III",D,222
 Adams,TOTAL,State House,94,"Robert L. Johnson, III",D,5016
 Adams,"Dist. 5, Airport Precinct",State House,96,Angela Cockerham,D,X
-Adams,"Dist. 1, By-Pass Fire Precinct ",State House,96,Angela Cockerham,D,469
+Adams,"Dist. 1, By-Pass Fire Precinct",State House,96,Angela Cockerham,D,469
 Adams,"Dist. 1, Bellemont Precinct",State House,96,Angela Cockerham,D,X
 Adams,"Dist. 2, Beau Pre Precinct",State House,96,Angela Cockerham,D,11
 Adams,"Dist. 3, Concord Precinct",State House,96,Angela Cockerham,D,X
@@ -492,7 +492,7 @@ Adams,"Dist. 4, Carpenter Precinct",State House,96,Angela Cockerham,D,X
 Adams,"Dist. 2, Duncan Park Precinct",State House,96,Angela Cockerham,D,X
 Adams,"Dist. 5, Foster Mound Precinct",State House,96,Angela Cockerham,D,X
 Adams,"Dist. 2, Kingston Precinct",State House,96,Angela Cockerham,D,X
-Adams,"Dist. 2, Liberty Park Precinct ",State House,96,Angela Cockerham,D,X
+Adams,"Dist. 2, Liberty Park Precinct",State House,96,Angela Cockerham,D,X
 Adams,"Dist. 4, Morgantown Precinct",State House,96,Angela Cockerham,D,X
 Adams,"Dist. 3, Maryland Hgts. Precinct",State House,96,Angela Cockerham,D,X
 Adams,"Dist. 3, Nps Multi Purpose Bldg.",State House,96,Angela Cockerham,D,X
@@ -504,7 +504,7 @@ Adams,"Dist. 4, Thompson Precinct",State House,96,Angela Cockerham,D,X
 Adams,"Dist. 5, Washington Precinct",State House,96,Angela Cockerham,D,X
 Adams,TOTAL,State House,96,Angela Cockerham,D,480
 Adams,"Dist. 5, Airport Precinct",State House,97,"Sam C. Mims, V",R,X
-Adams,"Dist. 1, By-Pass Fire Precinct ",State House,97,"Sam C. Mims, V",R,X
+Adams,"Dist. 1, By-Pass Fire Precinct",State House,97,"Sam C. Mims, V",R,X
 Adams,"Dist. 1, Bellemont Precinct",State House,97,"Sam C. Mims, V",R,685
 Adams,"Dist. 2, Beau Pre Precinct",State House,97,"Sam C. Mims, V",R,413
 Adams,"Dist. 3, Concord Precinct",State House,97,"Sam C. Mims, V",R,X
@@ -513,7 +513,7 @@ Adams,"Dist. 4, Carpenter Precinct",State House,97,"Sam C. Mims, V",R,X
 Adams,"Dist. 2, Duncan Park Precinct",State House,97,"Sam C. Mims, V",R,8
 Adams,"Dist. 5, Foster Mound Precinct",State House,97,"Sam C. Mims, V",R,X
 Adams,"Dist. 2, Kingston Precinct",State House,97,"Sam C. Mims, V",R,409
-Adams,"Dist. 2, Liberty Park Precinct ",State House,97,"Sam C. Mims, V",R,X
+Adams,"Dist. 2, Liberty Park Precinct",State House,97,"Sam C. Mims, V",R,X
 Adams,"Dist. 4, Morgantown Precinct",State House,97,"Sam C. Mims, V",R,X
 Adams,"Dist. 3, Maryland Hgts. Precinct",State House,97,"Sam C. Mims, V",R,X
 Adams,"Dist. 3, Nps Multi Purpose Bldg.",State House,97,"Sam C. Mims, V",R,X
@@ -5274,53 +5274,53 @@ Clarke,TOTAL,State House,83,Gary D. Houston,D,673
 Clarke,TOTAL,State House,83,Greg Snowden,R,739
 Clarke,TOTAL,State House,83,Samuel 'Sam' Thompson,I,84
 Clarke,South Quitman,State House,84,William G. Lee,D,13
-Clarke,South Quitman,State House,84,"William E. Shirley, Jr. ",R,16
+Clarke,South Quitman,State House,84,"William E. Shirley, Jr.",R,16
 Clarke,Harmony Dist. 1,State House,84,William G. Lee,D,19
-Clarke,Harmony Dist. 1,State House,84,"William E. Shirley, Jr. ",R,56
+Clarke,Harmony Dist. 1,State House,84,"William E. Shirley, Jr.",R,56
 Clarke,Stonewall Dist. 1,State House,84,William G. Lee,D,3
-Clarke,Stonewall Dist. 1,State House,84,"William E. Shirley, Jr. ",R,10
+Clarke,Stonewall Dist. 1,State House,84,"William E. Shirley, Jr.",R,10
 Clarke,Shubuta,State House,84,William G. Lee,D,x
-Clarke,Shubuta,State House,84,"William E. Shirley, Jr. ",R,x
+Clarke,Shubuta,State House,84,"William E. Shirley, Jr.",R,x
 Clarke,Beaverdam,State House,84,William G. Lee,D,13
-Clarke,Beaverdam,State House,84,"William E. Shirley, Jr. ",R,8
+Clarke,Beaverdam,State House,84,"William E. Shirley, Jr.",R,8
 Clarke,Harmony Dist. 2,State House,84,William G. Lee,D,31
-Clarke,Harmony Dist. 2,State House,84,"William E. Shirley, Jr. ",R,114
+Clarke,Harmony Dist. 2,State House,84,"William E. Shirley, Jr.",R,114
 Clarke,Oakgrove,State House,84,William G. Lee,D,x
-Clarke,Oakgrove,State House,84,"William E. Shirley, Jr. ",R,x
+Clarke,Oakgrove,State House,84,"William E. Shirley, Jr.",R,x
 Clarke,Pachuta,State House,84,William G. Lee,D,25
-Clarke,Pachuta,State House,84,"William E. Shirley, Jr. ",R,49
+Clarke,Pachuta,State House,84,"William E. Shirley, Jr.",R,49
 Clarke,Souinlovie,State House,84,William G. Lee,D,14
-Clarke,Souinlovie,State House,84,"William E. Shirley, Jr. ",R,91
+Clarke,Souinlovie,State House,84,"William E. Shirley, Jr.",R,91
 Clarke,Rolling Creek,State House,84,William G. Lee,D,17
-Clarke,Rolling Creek,State House,84,"William E. Shirley, Jr. ",R,135
+Clarke,Rolling Creek,State House,84,"William E. Shirley, Jr.",R,135
 Clarke,Stonewall Dist. 3,State House,84,William G. Lee,D,54
-Clarke,Stonewall Dist. 3,State House,84,"William E. Shirley, Jr. ",R,272
+Clarke,Stonewall Dist. 3,State House,84,"William E. Shirley, Jr.",R,272
 Clarke,Enterprise,State House,84,William G. Lee,D,64
-Clarke,Enterprise,State House,84,"William E. Shirley, Jr. ",R,280
+Clarke,Enterprise,State House,84,"William E. Shirley, Jr.",R,280
 Clarke,Pineridge,State House,84,William G. Lee,D,0
-Clarke,Pineridge,State House,84,"William E. Shirley, Jr. ",R,0
+Clarke,Pineridge,State House,84,"William E. Shirley, Jr.",R,0
 Clarke,Snell,State House,84,William G. Lee,D,x
-Clarke,Snell,State House,84,"William E. Shirley, Jr. ",R,x
+Clarke,Snell,State House,84,"William E. Shirley, Jr.",R,x
 Clarke,Energy,State House,84,William G. Lee,D,x
-Clarke,Energy,State House,84,"William E. Shirley, Jr. ",R,x
+Clarke,Energy,State House,84,"William E. Shirley, Jr.",R,x
 Clarke,Union,State House,84,William G. Lee,D,26
-Clarke,Union,State House,84,"William E. Shirley, Jr. ",R,391
+Clarke,Union,State House,84,"William E. Shirley, Jr.",R,391
 Clarke,North Quitman,State House,84,William G. Lee,D,34
-Clarke,North Quitman,State House,84,"William E. Shirley, Jr. ",R,210
+Clarke,North Quitman,State House,84,"William E. Shirley, Jr.",R,210
 Clarke,Langsdale,State House,84,William G. Lee,D,x
-Clarke,Langsdale,State House,84,"William E. Shirley, Jr. ",R,x
+Clarke,Langsdale,State House,84,"William E. Shirley, Jr.",R,x
 Clarke,Manassa,State House,84,William G. Lee,D,5
-Clarke,Manassa,State House,84,"William E. Shirley, Jr. ",R,86
+Clarke,Manassa,State House,84,"William E. Shirley, Jr.",R,86
 Clarke,Springs,State House,84,William G. Lee,D,x
-Clarke,Springs,State House,84,"William E. Shirley, Jr. ",R,x
+Clarke,Springs,State House,84,"William E. Shirley, Jr.",R,x
 Clarke,Desoto,State House,84,William G. Lee,D,52
-Clarke,Desoto,State House,84,"William E. Shirley, Jr. ",R,83
+Clarke,Desoto,State House,84,"William E. Shirley, Jr.",R,83
 Clarke,Carmichael,State House,84,William G. Lee,D,x
-Clarke,Carmichael,State House,84,"William E. Shirley, Jr. ",R,x
+Clarke,Carmichael,State House,84,"William E. Shirley, Jr.",R,x
 Clarke,East Quitman,State House,84,William G. Lee,D,104
-Clarke,East Quitman,State House,84,"William E. Shirley, Jr. ",R,931
+Clarke,East Quitman,State House,84,"William E. Shirley, Jr.",R,931
 Clarke,TOTAL,State House,84,William G. Lee,D,474
-Clarke,TOTAL,State House,84,"William E. Shirley, Jr. ",R,2732
+Clarke,TOTAL,State House,84,"William E. Shirley, Jr.",R,2732
 Clarke,South Quitman,State House,86,Sherra Hillman Lane,D,x
 Clarke,South Quitman,State House,86,Marie Purvis,R,x
 Clarke,Harmony Dist. 1,State House,86,Sherra Hillman Lane,D,x
@@ -9345,106 +9345,106 @@ Forrest,Timberton,State House,104,Randy Walker,Reform,9
 Forrest,TOTAL,State House,104,Larry Byrd,R,6764
 Forrest,TOTAL,State House,104,Randy Walker,Reform,753
 Forrest,Sigler Center,State House,105,Latricia Ann Cornelson,I,X
-Forrest,Sigler Center,State House,105,"Dennis L. DeBar, Jr. ",R,X
+Forrest,Sigler Center,State House,105,"Dennis L. DeBar, Jr.",R,X
 Forrest,Sigler Center,State House,105,Dale Mitchell Kimble,D,X
 Forrest,Dantzler,State House,105,Latricia Ann Cornelson,I,X
-Forrest,Dantzler,State House,105,"Dennis L. DeBar, Jr. ",R,X
+Forrest,Dantzler,State House,105,"Dennis L. DeBar, Jr.",R,X
 Forrest,Dantzler,State House,105,Dale Mitchell Kimble,D,X
 Forrest,Dixie,State House,105,Latricia Ann Cornelson,I,X
-Forrest,Dixie,State House,105,"Dennis L. DeBar, Jr. ",R,X
+Forrest,Dixie,State House,105,"Dennis L. DeBar, Jr.",R,X
 Forrest,Dixie,State House,105,Dale Mitchell Kimble,D,X
 Forrest,Kamper Park,State House,105,Latricia Ann Cornelson,I,X
-Forrest,Kamper Park,State House,105,"Dennis L. DeBar, Jr. ",R,X
+Forrest,Kamper Park,State House,105,"Dennis L. DeBar, Jr.",R,X
 Forrest,Kamper Park,State House,105,Dale Mitchell Kimble,D,X
 Forrest,Westside,State House,105,Latricia Ann Cornelson,I,X
-Forrest,Westside,State House,105,"Dennis L. DeBar, Jr. ",R,X
+Forrest,Westside,State House,105,"Dennis L. DeBar, Jr.",R,X
 Forrest,Westside,State House,105,Dale Mitchell Kimble,D,X
 Forrest,Rawls Springs,State House,105,Latricia Ann Cornelson,I,X
-Forrest,Rawls Springs,State House,105,"Dennis L. DeBar, Jr. ",R,X
+Forrest,Rawls Springs,State House,105,"Dennis L. DeBar, Jr.",R,X
 Forrest,Rawls Springs,State House,105,Dale Mitchell Kimble,D,X
 Forrest,Hattiesburg Cultural Center,State House,105,Latricia Ann Cornelson,I,X
-Forrest,Hattiesburg Cultural Center,State House,105,"Dennis L. DeBar, Jr. ",R,X
+Forrest,Hattiesburg Cultural Center,State House,105,"Dennis L. DeBar, Jr.",R,X
 Forrest,Hattiesburg Cultural Center,State House,105,Dale Mitchell Kimble,D,X
 Forrest,Train Depot,State House,105,Latricia Ann Cornelson,I,X
-Forrest,Train Depot,State House,105,"Dennis L. DeBar, Jr. ",R,X
+Forrest,Train Depot,State House,105,"Dennis L. DeBar, Jr.",R,X
 Forrest,Train Depot,State House,105,Dale Mitchell Kimble,D,X
 Forrest,Burger Center,State House,105,Latricia Ann Cornelson,I,X
-Forrest,Burger Center,State House,105,"Dennis L. DeBar, Jr. ",R,X
+Forrest,Burger Center,State House,105,"Dennis L. DeBar, Jr.",R,X
 Forrest,Burger Center,State House,105,Dale Mitchell Kimble,D,X
 Forrest,North Heights,State House,105,Latricia Ann Cornelson,I,X
-Forrest,North Heights,State House,105,"Dennis L. DeBar, Jr. ",R,X
+Forrest,North Heights,State House,105,"Dennis L. DeBar, Jr.",R,X
 Forrest,North Heights,State House,105,Dale Mitchell Kimble,D,X
 Forrest,Eatonville,State House,105,Latricia Ann Cornelson,I,X
-Forrest,Eatonville,State House,105,"Dennis L. DeBar, Jr. ",R,X
+Forrest,Eatonville,State House,105,"Dennis L. DeBar, Jr.",R,X
 Forrest,Eatonville,State House,105,Dale Mitchell Kimble,D,X
 Forrest,Glendale,State House,105,Latricia Ann Cornelson,I,X
-Forrest,Glendale,State House,105,"Dennis L. DeBar, Jr. ",R,X
+Forrest,Glendale,State House,105,"Dennis L. DeBar, Jr.",R,X
 Forrest,Glendale,State House,105,Dale Mitchell Kimble,D,X
 Forrest,Bar Mac,State House,105,Latricia Ann Cornelson,I,X
-Forrest,Bar Mac,State House,105,"Dennis L. DeBar, Jr. ",R,X
+Forrest,Bar Mac,State House,105,"Dennis L. DeBar, Jr.",R,X
 Forrest,Bar Mac,State House,105,Dale Mitchell Kimble,D,X
 Forrest,Petal Civic Center,State House,105,Latricia Ann Cornelson,I,X
-Forrest,Petal Civic Center,State House,105,"Dennis L. DeBar, Jr. ",R,X
+Forrest,Petal Civic Center,State House,105,"Dennis L. DeBar, Jr.",R,X
 Forrest,Petal Civic Center,State House,105,Dale Mitchell Kimble,D,X
 Forrest,Leeville,State House,105,Latricia Ann Cornelson,I,X
-Forrest,Leeville,State House,105,"Dennis L. DeBar, Jr. ",R,X
+Forrest,Leeville,State House,105,"Dennis L. DeBar, Jr.",R,X
 Forrest,Leeville,State House,105,Dale Mitchell Kimble,D,X
 Forrest,Petal Masonic,State House,105,Latricia Ann Cornelson,I,X
-Forrest,Petal Masonic,State House,105,"Dennis L. DeBar, Jr. ",R,X
+Forrest,Petal Masonic,State House,105,"Dennis L. DeBar, Jr.",R,X
 Forrest,Petal Masonic,State House,105,Dale Mitchell Kimble,D,X
 Forrest,Sunrise,State House,105,Latricia Ann Cornelson,I,X
-Forrest,Sunrise,State House,105,"Dennis L. DeBar, Jr. ",R,X
+Forrest,Sunrise,State House,105,"Dennis L. DeBar, Jr.",R,X
 Forrest,Sunrise,State House,105,Dale Mitchell Kimble,D,X
 Forrest,Dixie Pine Central,State House,105,Latricia Ann Cornelson,I,X
-Forrest,Dixie Pine Central,State House,105,"Dennis L. DeBar, Jr. ",R,X
+Forrest,Dixie Pine Central,State House,105,"Dennis L. DeBar, Jr.",R,X
 Forrest,Dixie Pine Central,State House,105,Dale Mitchell Kimble,D,X
 Forrest,Rowan,State House,105,Latricia Ann Cornelson,I,X
-Forrest,Rowan,State House,105,"Dennis L. DeBar, Jr. ",R,X
+Forrest,Rowan,State House,105,"Dennis L. DeBar, Jr.",R,X
 Forrest,Rowan,State House,105,Dale Mitchell Kimble,D,X
 Forrest,Salvation Army,State House,105,Latricia Ann Cornelson,I,X
-Forrest,Salvation Army,State House,105,"Dennis L. DeBar, Jr. ",R,X
+Forrest,Salvation Army,State House,105,"Dennis L. DeBar, Jr.",R,X
 Forrest,Salvation Army,State House,105,Dale Mitchell Kimble,D,X
 Forrest,Court Street,State House,105,Latricia Ann Cornelson,I,X
-Forrest,Court Street,State House,105,"Dennis L. DeBar, Jr. ",R,X
+Forrest,Court Street,State House,105,"Dennis L. DeBar, Jr.",R,X
 Forrest,Court Street,State House,105,Dale Mitchell Kimble,D,X
 Forrest,Camp,State House,105,Latricia Ann Cornelson,I,X
-Forrest,Camp,State House,105,"Dennis L. DeBar, Jr. ",R,X
+Forrest,Camp,State House,105,"Dennis L. DeBar, Jr.",R,X
 Forrest,Camp,State House,105,Dale Mitchell Kimble,D,X
 Forrest,West Petal,State House,105,Latricia Ann Cornelson,I,X
-Forrest,West Petal,State House,105,"Dennis L. DeBar, Jr. ",R,X
+Forrest,West Petal,State House,105,"Dennis L. DeBar, Jr.",R,X
 Forrest,West Petal,State House,105,Dale Mitchell Kimble,D,X
 Forrest,Mclaurin,State House,105,Latricia Ann Cornelson,I,0
-Forrest,Mclaurin,State House,105,"Dennis L. DeBar, Jr. ",R,1
+Forrest,Mclaurin,State House,105,"Dennis L. DeBar, Jr.",R,1
 Forrest,Mclaurin,State House,105,Dale Mitchell Kimble,D,0
 Forrest,Lillie Burney,State House,105,Latricia Ann Cornelson,I,X
-Forrest,Lillie Burney,State House,105,"Dennis L. DeBar, Jr. ",R,X
+Forrest,Lillie Burney,State House,105,"Dennis L. DeBar, Jr.",R,X
 Forrest,Lillie Burney,State House,105,Dale Mitchell Kimble,D,X
 Forrest,West Hills,State House,105,Latricia Ann Cornelson,I,X
-Forrest,West Hills,State House,105,"Dennis L. DeBar, Jr. ",R,X
+Forrest,West Hills,State House,105,"Dennis L. DeBar, Jr.",R,X
 Forrest,West Hills,State House,105,Dale Mitchell Kimble,D,X
 Forrest,Highland Park,State House,105,Latricia Ann Cornelson,I,X
-Forrest,Highland Park,State House,105,"Dennis L. DeBar, Jr. ",R,X
+Forrest,Highland Park,State House,105,"Dennis L. DeBar, Jr.",R,X
 Forrest,Highland Park,State House,105,Dale Mitchell Kimble,D,X
 Forrest,Brooklyn,State House,105,Latricia Ann Cornelson,I,6
-Forrest,Brooklyn,State House,105,"Dennis L. DeBar, Jr. ",R,157
+Forrest,Brooklyn,State House,105,"Dennis L. DeBar, Jr.",R,157
 Forrest,Brooklyn,State House,105,Dale Mitchell Kimble,D,35
 Forrest,Carnes,State House,105,Latricia Ann Cornelson,I,X
-Forrest,Carnes,State House,105,"Dennis L. DeBar, Jr. ",R,X
+Forrest,Carnes,State House,105,"Dennis L. DeBar, Jr.",R,X
 Forrest,Carnes,State House,105,Dale Mitchell Kimble,D,X
 Forrest,Maxie,State House,105,Latricia Ann Cornelson,I,X
-Forrest,Maxie,State House,105,"Dennis L. DeBar, Jr. ",R,X
+Forrest,Maxie,State House,105,"Dennis L. DeBar, Jr.",R,X
 Forrest,Maxie,State House,105,Dale Mitchell Kimble,D,X
 Forrest,Pinecrest,State House,105,Latricia Ann Cornelson,I,X
-Forrest,Pinecrest,State House,105,"Dennis L. DeBar, Jr. ",R,X
+Forrest,Pinecrest,State House,105,"Dennis L. DeBar, Jr.",R,X
 Forrest,Pinecrest,State House,105,Dale Mitchell Kimble,D,X
 Forrest,Thames,State House,105,Latricia Ann Cornelson,I,X
-Forrest,Thames,State House,105,"Dennis L. DeBar, Jr. ",R,X
+Forrest,Thames,State House,105,"Dennis L. DeBar, Jr.",R,X
 Forrest,Thames,State House,105,Dale Mitchell Kimble,D,X
 Forrest,Timberton,State House,105,Latricia Ann Cornelson,I,X
-Forrest,Timberton,State House,105,"Dennis L. DeBar, Jr. ",R,X
+Forrest,Timberton,State House,105,"Dennis L. DeBar, Jr.",R,X
 Forrest,Timberton,State House,105,Dale Mitchell Kimble,D,X
 Forrest,TOTAL,State House,105,Latricia Ann Cornelson,I,6
-Forrest,TOTAL,State House,105,"Dennis L. DeBar, Jr. ",R,158
+Forrest,TOTAL,State House,105,"Dennis L. DeBar, Jr.",R,158
 Forrest,TOTAL,State House,105,Dale Mitchell Kimble,D,35
 Forrest,Sigler Center,State House,107,Douglas L. Lee,D,X
 Forrest,Sigler Center,State House,107,Doug McLeod,R,X
@@ -9859,21 +9859,21 @@ Franklin,Whittington,State House,92,Becky Currie,R,X
 Franklin,Whittington,State House,92,Ken Dale Sullivan,D,X
 Franklin,TOTAL,State House,92,Becky Currie,R,768
 Franklin,TOTAL,State House,92,Ken Dale Sullivan,D,308
-Franklin,Knoxville,State House,97,"Sam C. Mims, V ",R,47
-Franklin,Roxie,State House,97,"Sam C. Mims, V ",R,X
-Franklin,Antioch,State House,97,"Sam C. Mims, V ",R,X
-Franklin,Hamburg,State House,97,"Sam C. Mims, V ",R,X
-Franklin,Meadville,State House,97,"Sam C. Mims, V ",R,X
-Franklin,Bude,State House,97,"Sam C. Mims, V ",R,X
-Franklin,Pine Grove,State House,97,"Sam C. Mims, V ",R,X
-Franklin,Wesley Chapel,State House,97,"Sam C. Mims, V ",R,X
-Franklin,Eddiceton,State House,97,"Sam C. Mims, V ",R,X
-Franklin,Lucien,State House,97,"Sam C. Mims, V ",R,X
-Franklin,Mccall,State House,97,"Sam C. Mims, V ",R,X
-Franklin,Bad Bayou,State House,97,"Sam C. Mims, V ",R,X
-Franklin,Cains,State House,97,"Sam C. Mims, V ",R,X
-Franklin,Whittington,State House,97,"Sam C. Mims, V ",R,X
-Franklin,TOTAL,State House,97,"Sam C. Mims, V ",R,47
+Franklin,Knoxville,State House,97,"Sam C. Mims, V",R,47
+Franklin,Roxie,State House,97,"Sam C. Mims, V",R,X
+Franklin,Antioch,State House,97,"Sam C. Mims, V",R,X
+Franklin,Hamburg,State House,97,"Sam C. Mims, V",R,X
+Franklin,Meadville,State House,97,"Sam C. Mims, V",R,X
+Franklin,Bude,State House,97,"Sam C. Mims, V",R,X
+Franklin,Pine Grove,State House,97,"Sam C. Mims, V",R,X
+Franklin,Wesley Chapel,State House,97,"Sam C. Mims, V",R,X
+Franklin,Eddiceton,State House,97,"Sam C. Mims, V",R,X
+Franklin,Lucien,State House,97,"Sam C. Mims, V",R,X
+Franklin,Mccall,State House,97,"Sam C. Mims, V",R,X
+Franklin,Bad Bayou,State House,97,"Sam C. Mims, V",R,X
+Franklin,Cains,State House,97,"Sam C. Mims, V",R,X
+Franklin,Whittington,State House,97,"Sam C. Mims, V",R,X
+Franklin,TOTAL,State House,97,"Sam C. Mims, V",R,47
 George,Rocky Creek,Governor,,Phil Bryant,R,678
 George,Rocky Creek,Governor,,Johnny L. DuPree,D,126
 George,Multi Mart,Governor,,Phil Bryant,R,173
@@ -10357,73 +10357,73 @@ George,Twin Creek,State Senate,43,James Perry Snyder,I,20
 George,TOTAL,State Senate,43,Phillip Gandy,R,4386
 George,TOTAL,State Senate,43,James Vardaman Walley,D,1598
 George,TOTAL,State Senate,43,James Perry Snyder,I,537
-George,Rocky Creek,State House,105,"Dennis L. DeBar, Jr. ",R,433
+George,Rocky Creek,State House,105,"Dennis L. DeBar, Jr.",R,433
 George,Rocky Creek,State House,105,Dale Mitchell Kimble,D,109
 George,Rocky Creek,State House,105,Latricia Ann Cornelson,I,31
-George,Multi Mart,State House,105,"Dennis L. DeBar, Jr. ",R,x
+George,Multi Mart,State House,105,"Dennis L. DeBar, Jr.",R,x
 George,Multi Mart,State House,105,Dale Mitchell Kimble,D,x
 George,Multi Mart,State House,105,Latricia Ann Cornelson,I,x
-George,Ward,State House,105,"Dennis L. DeBar, Jr. ",R,x
+George,Ward,State House,105,"Dennis L. DeBar, Jr.",R,x
 George,Ward,State House,105,Dale Mitchell Kimble,D,x
 George,Ward,State House,105,Latricia Ann Cornelson,I,x
-George,Shipman,State House,105,"Dennis L. DeBar, Jr. ",R,x
+George,Shipman,State House,105,"Dennis L. DeBar, Jr.",R,x
 George,Shipman,State House,105,Dale Mitchell Kimble,D,x
 George,Shipman,State House,105,Latricia Ann Cornelson,I,x
-George,Courthouse,State House,105,"Dennis L. DeBar, Jr. ",R,x
+George,Courthouse,State House,105,"Dennis L. DeBar, Jr.",R,x
 George,Courthouse,State House,105,Dale Mitchell Kimble,D,x
 George,Courthouse,State House,105,Latricia Ann Cornelson,I,x
-George,Pine Level,State House,105,"Dennis L. DeBar, Jr. ",R,x
+George,Pine Level,State House,105,"Dennis L. DeBar, Jr.",R,x
 George,Pine Level,State House,105,Dale Mitchell Kimble,D,x
 George,Pine Level,State House,105,Latricia Ann Cornelson,I,x
-George,Agricola,State House,105,"Dennis L. DeBar, Jr. ",R,x
+George,Agricola,State House,105,"Dennis L. DeBar, Jr.",R,x
 George,Agricola,State House,105,Dale Mitchell Kimble,D,x
 George,Agricola,State House,105,Latricia Ann Cornelson,I,x
-George,Howell,State House,105,"Dennis L. DeBar, Jr. ",R,x
+George,Howell,State House,105,"Dennis L. DeBar, Jr.",R,x
 George,Howell,State House,105,Dale Mitchell Kimble,D,x
 George,Howell,State House,105,Latricia Ann Cornelson,I,x
-George,Movella,State House,105,"Dennis L. DeBar, Jr. ",R,x
+George,Movella,State House,105,"Dennis L. DeBar, Jr.",R,x
 George,Movella,State House,105,Dale Mitchell Kimble,D,x
 George,Movella,State House,105,Latricia Ann Cornelson,I,x
-George,Multi-Purpose,State House,105,"Dennis L. DeBar, Jr. ",R,x
+George,Multi-Purpose,State House,105,"Dennis L. DeBar, Jr.",R,x
 George,Multi-Purpose,State House,105,Dale Mitchell Kimble,D,x
 George,Multi-Purpose,State House,105,Latricia Ann Cornelson,I,x
-George,Basin,State House,105,"Dennis L. DeBar, Jr. ",R,x
+George,Basin,State House,105,"Dennis L. DeBar, Jr.",R,x
 George,Basin,State House,105,Dale Mitchell Kimble,D,x
 George,Basin,State House,105,Latricia Ann Cornelson,I,x
-George,Davis,State House,105,"Dennis L. DeBar, Jr. ",R,x
+George,Davis,State House,105,"Dennis L. DeBar, Jr.",R,x
 George,Davis,State House,105,Dale Mitchell Kimble,D,x
 George,Davis,State House,105,Latricia Ann Cornelson,I,x
-George,Barton,State House,105,"Dennis L. DeBar, Jr. ",R,x
+George,Barton,State House,105,"Dennis L. DeBar, Jr.",R,x
 George,Barton,State House,105,Dale Mitchell Kimble,D,x
 George,Barton,State House,105,Latricia Ann Cornelson,I,x
-George,City Hall,State House,105,"Dennis L. DeBar, Jr. ",R,x
+George,City Hall,State House,105,"Dennis L. DeBar, Jr.",R,x
 George,City Hall,State House,105,Dale Mitchell Kimble,D,x
 George,City Hall,State House,105,Latricia Ann Cornelson,I,x
-George,Shady Grove,State House,105,"Dennis L. DeBar, Jr. ",R,x
+George,Shady Grove,State House,105,"Dennis L. DeBar, Jr.",R,x
 George,Shady Grove,State House,105,Dale Mitchell Kimble,D,x
 George,Shady Grove,State House,105,Latricia Ann Cornelson,I,x
-George,Bexley,State House,105,"Dennis L. DeBar, Jr. ",R,x
+George,Bexley,State House,105,"Dennis L. DeBar, Jr.",R,x
 George,Bexley,State House,105,Dale Mitchell Kimble,D,x
 George,Bexley,State House,105,Latricia Ann Cornelson,I,x
-George,Salem,State House,105,"Dennis L. DeBar, Jr. ",R,x
+George,Salem,State House,105,"Dennis L. DeBar, Jr.",R,x
 George,Salem,State House,105,Dale Mitchell Kimble,D,x
 George,Salem,State House,105,Latricia Ann Cornelson,I,x
-George,Middle School,State House,105,"Dennis L. DeBar, Jr. ",R,x
+George,Middle School,State House,105,"Dennis L. DeBar, Jr.",R,x
 George,Middle School,State House,105,Dale Mitchell Kimble,D,x
 George,Middle School,State House,105,Latricia Ann Cornelson,I,x
-George,Central,State House,105,"Dennis L. DeBar, Jr. ",R,x
+George,Central,State House,105,"Dennis L. DeBar, Jr.",R,x
 George,Central,State House,105,Dale Mitchell Kimble,D,x
 George,Central,State House,105,Latricia Ann Cornelson,I,x
-George,Benndale,State House,105,"Dennis L. DeBar, Jr. ",R,x
+George,Benndale,State House,105,"Dennis L. DeBar, Jr.",R,x
 George,Benndale,State House,105,Dale Mitchell Kimble,D,x
 George,Benndale,State House,105,Latricia Ann Cornelson,I,x
-George,Broome,State House,105,"Dennis L. DeBar, Jr. ",R,x
+George,Broome,State House,105,"Dennis L. DeBar, Jr.",R,x
 George,Broome,State House,105,Dale Mitchell Kimble,D,x
 George,Broome,State House,105,Latricia Ann Cornelson,I,x
-George,Twin Creek,State House,105,"Dennis L. DeBar, Jr. ",R,x
+George,Twin Creek,State House,105,"Dennis L. DeBar, Jr.",R,x
 George,Twin Creek,State House,105,Dale Mitchell Kimble,D,x
 George,Twin Creek,State House,105,Latricia Ann Cornelson,I,x
-George,TOTAL,State House,105,"Dennis L. DeBar, Jr. ",R,433
+George,TOTAL,State House,105,"Dennis L. DeBar, Jr.",R,433
 George,TOTAL,State House,105,Dale Mitchell Kimble,D,109
 George,TOTAL,State House,105,Latricia Ann Cornelson,I,31
 George,Rocky Creek,State House,107,Douglas L. Lee,D,60
@@ -11264,41 +11264,41 @@ Grenada,Millcreek,State House,24,Kevin Horan,D,x
 Grenada,TOTAL,State House,24,Sidney W. Bondurant,R,3081
 Grenada,TOTAL,State House,24,Kevin Horan,D,3282
 Grenada,Box 1,State House,35,Joey Hood,R,x
-Grenada,Box 1,State House,35,"Jan R. 'Jay' Butler, Jr. ",L,x
+Grenada,Box 1,State House,35,"Jan R. 'Jay' Butler, Jr.",L,x
 Grenada,Box 2 Grenada Co Office,State House,35,Joey Hood,R,x
-Grenada,Box 2 Grenada Co Office,State House,35,"Jan R. 'Jay' Butler, Jr. ",L,x
+Grenada,Box 2 Grenada Co Office,State House,35,"Jan R. 'Jay' Butler, Jr.",L,x
 Grenada,Box 3 City Auditorium,State House,35,Joey Hood,R,x
-Grenada,Box 3 City Auditorium,State House,35,"Jan R. 'Jay' Butler, Jr. ",L,x
+Grenada,Box 3 City Auditorium,State House,35,"Jan R. 'Jay' Butler, Jr.",L,x
 Grenada,Holcomb Community Center,State House,35,Joey Hood,R,x
-Grenada,Holcomb Community Center,State House,35,"Jan R. 'Jay' Butler, Jr. ",L,x
+Grenada,Holcomb Community Center,State House,35,"Jan R. 'Jay' Butler, Jr.",L,x
 Grenada,Box 4,State House,35,Joey Hood,R,x
-Grenada,Box 4,State House,35,"Jan R. 'Jay' Butler, Jr. ",L,x
+Grenada,Box 4,State House,35,"Jan R. 'Jay' Butler, Jr.",L,x
 Grenada,Box 5,State House,35,Joey Hood,R,x
-Grenada,Box 5,State House,35,"Jan R. 'Jay' Butler, Jr. ",L,x
+Grenada,Box 5,State House,35,"Jan R. 'Jay' Butler, Jr.",L,x
 Grenada,Tie Plant,State House,35,Joey Hood,R,x
-Grenada,Tie Plant,State House,35,"Jan R. 'Jay' Butler, Jr. ",L,x
+Grenada,Tie Plant,State House,35,"Jan R. 'Jay' Butler, Jr.",L,x
 Grenada,Elliott Vol Fire Station,State House,35,Joey Hood,R,x
-Grenada,Elliott Vol Fire Station,State House,35,"Jan R. 'Jay' Butler, Jr. ",L,x
+Grenada,Elliott Vol Fire Station,State House,35,"Jan R. 'Jay' Butler, Jr.",L,x
 Grenada,Sweethome Hol #2 Fire Stat,State House,35,Joey Hood,R,x
-Grenada,Sweethome Hol #2 Fire Stat,State House,35,"Jan R. 'Jay' Butler, Jr. ",L,x
+Grenada,Sweethome Hol #2 Fire Stat,State House,35,"Jan R. 'Jay' Butler, Jr.",L,x
 Grenada,Gore Springs Comm Center,State House,35,Joey Hood,R,112
-Grenada,Gore Springs Comm Center,State House,35,"Jan R. 'Jay' Butler, Jr. ",L,8
+Grenada,Gore Springs Comm Center,State House,35,"Jan R. 'Jay' Butler, Jr.",L,8
 Grenada,Futheyville 1st Pentecost,State House,35,Joey Hood,R,x
-Grenada,Futheyville 1st Pentecost,State House,35,"Jan R. 'Jay' Butler, Jr. ",L,x
+Grenada,Futheyville 1st Pentecost,State House,35,"Jan R. 'Jay' Butler, Jr.",L,x
 Grenada,Providence Gore Spr Comm,State House,35,Joey Hood,R,0
-Grenada,Providence Gore Spr Comm,State House,35,"Jan R. 'Jay' Butler, Jr. ",L,0
+Grenada,Providence Gore Spr Comm,State House,35,"Jan R. 'Jay' Butler, Jr.",L,0
 Grenada,Mt Nebo Parker's Grocery,State House,35,Joey Hood,R,x
-Grenada,Mt Nebo Parker's Grocery,State House,35,"Jan R. 'Jay' Butler, Jr. ",L,x
+Grenada,Mt Nebo Parker's Grocery,State House,35,"Jan R. 'Jay' Butler, Jr.",L,x
 Grenada,Pleasant Grove Commun Cen,State House,35,Joey Hood,R,x
-Grenada,Pleasant Grove Commun Cen,State House,35,"Jan R. 'Jay' Butler, Jr. ",L,x
+Grenada,Pleasant Grove Commun Cen,State House,35,"Jan R. 'Jay' Butler, Jr.",L,x
 Grenada,Geeslin,State House,35,Joey Hood,R,x
-Grenada,Geeslin,State House,35,"Jan R. 'Jay' Butler, Jr. ",L,x
+Grenada,Geeslin,State House,35,"Jan R. 'Jay' Butler, Jr.",L,x
 Grenada,Hardy,State House,35,Joey Hood,R,x
-Grenada,Hardy,State House,35,"Jan R. 'Jay' Butler, Jr. ",L,x
+Grenada,Hardy,State House,35,"Jan R. 'Jay' Butler, Jr.",L,x
 Grenada,Millcreek,State House,35,Joey Hood,R,x
-Grenada,Millcreek,State House,35,"Jan R. 'Jay' Butler, Jr. ",L,x
+Grenada,Millcreek,State House,35,"Jan R. 'Jay' Butler, Jr.",L,x
 Grenada,TOTAL,State House,35,Joey Hood,R,112
-Grenada,TOTAL,State House,35,"Jan R. 'Jay' Butler, Jr. ",L,8
+Grenada,TOTAL,State House,35,"Jan R. 'Jay' Butler, Jr.",L,8
 Grenada,Box 1,State House,46,Bobby B. Howell,R,x
 Grenada,Box 2 Grenada Co Office,State House,46,Bobby B. Howell,R,x
 Grenada,Box 3 City Auditorium,State House,46,Bobby B. Howell,R,x
@@ -22431,38 +22431,38 @@ Jackson,South Vancleave,State Senate,47,Tony Smith,R,x
 Jackson,Red Hill,State Senate,47,Tony Smith,R,30
 Jackson,Carterville,State Senate,47,Tony Smith,R,61
 Jackson,TOTAL,State Senate,47,Tony Smith,R,2661
-Jackson,Hwy 57,State Senate,51,"Michael D. Watson, Jr. ",R,227
-Jackson,North Vancleave,State Senate,51,"Michael D. Watson, Jr. ",R,770
-Jackson,East Central,State Senate,51,"Michael D. Watson, Jr. ",R,2404
-Jackson,Big Point,State Senate,51,"Michael D. Watson, Jr. ",R,1000
-Jackson,Escatawpa,State Senate,51,"Michael D. Watson, Jr. ",R,1389
-Jackson,Orange Grove,State Senate,51,"Michael D. Watson, Jr. ",R,580
-Jackson,Rec Center,State Senate,51,"Michael D. Watson, Jr. ",R,x
-Jackson,YMBC - Dantzler,State Senate,51,"Michael D. Watson, Jr. ",R,316
-Jackson,Jefferson Street,State Senate,51,"Michael D. Watson, Jr. ",R,357
-Jackson,Fair,State Senate,51,"Michael D. Watson, Jr. ",R,65
-Jackson,Pinecrest,State Senate,51,"Michael D. Watson, Jr. ",R,288
-Jackson,Nazarene,State Senate,51,"Michael D. Watson, Jr. ",R,x
-Jackson,Sacred Heart,State Senate,51,"Michael D. Watson, Jr. ",R,x
-Jackson,Eastlawn,State Senate,51,"Michael D. Watson, Jr. ",R,x
-Jackson,American Legion,State Senate,51,"Michael D. Watson, Jr. ",R,x
-Jackson,Presbyterian,State Senate,51,"Michael D. Watson, Jr. ",R,44
-Jackson,North Pascagoula,State Senate,51,"Michael D. Watson, Jr. ",R,281
-Jackson,Gautler,State Senate,51,"Michael D. Watson, Jr. ",R,57
-Jackson,Villa Maria,State Senate,51,"Michael D. Watson, Jr. ",R,268
-Jackson,OS Community Ctr,State Senate,51,"Michael D. Watson, Jr. ",R,x
-Jackson,OS Armory,State Senate,51,"Michael D. Watson, Jr. ",R,x
-Jackson,St Martin,State Senate,51,"Michael D. Watson, Jr. ",R,2328
-Jackson,Latimer,State Senate,51,"Michael D. Watson, Jr. ",R,1157
-Jackson,Larue,State Senate,51,"Michael D. Watson, Jr. ",R,x
-Jackson,Hickory Hills,State Senate,51,"Michael D. Watson, Jr. ",R,188
-Jackson,Fontainebleau,State Senate,51,"Michael D. Watson, Jr. ",R,x
-Jackson,Gulf Park Estates,State Senate,51,"Michael D. Watson, Jr. ",R,x
-Jackson,OS Civic Ctr,State Senate,51,"Michael D. Watson, Jr. ",R,x
-Jackson,South Vancleave,State Senate,51,"Michael D. Watson, Jr. ",R,1327
-Jackson,Red Hill,State Senate,51,"Michael D. Watson, Jr. ",R,139
-Jackson,Carterville,State Senate,51,"Michael D. Watson, Jr. ",R,x
-Jackson,TOTAL,State Senate,51,"Michael D. Watson, Jr. ",R,13185
+Jackson,Hwy 57,State Senate,51,"Michael D. Watson, Jr.",R,227
+Jackson,North Vancleave,State Senate,51,"Michael D. Watson, Jr.",R,770
+Jackson,East Central,State Senate,51,"Michael D. Watson, Jr.",R,2404
+Jackson,Big Point,State Senate,51,"Michael D. Watson, Jr.",R,1000
+Jackson,Escatawpa,State Senate,51,"Michael D. Watson, Jr.",R,1389
+Jackson,Orange Grove,State Senate,51,"Michael D. Watson, Jr.",R,580
+Jackson,Rec Center,State Senate,51,"Michael D. Watson, Jr.",R,x
+Jackson,YMBC - Dantzler,State Senate,51,"Michael D. Watson, Jr.",R,316
+Jackson,Jefferson Street,State Senate,51,"Michael D. Watson, Jr.",R,357
+Jackson,Fair,State Senate,51,"Michael D. Watson, Jr.",R,65
+Jackson,Pinecrest,State Senate,51,"Michael D. Watson, Jr.",R,288
+Jackson,Nazarene,State Senate,51,"Michael D. Watson, Jr.",R,x
+Jackson,Sacred Heart,State Senate,51,"Michael D. Watson, Jr.",R,x
+Jackson,Eastlawn,State Senate,51,"Michael D. Watson, Jr.",R,x
+Jackson,American Legion,State Senate,51,"Michael D. Watson, Jr.",R,x
+Jackson,Presbyterian,State Senate,51,"Michael D. Watson, Jr.",R,44
+Jackson,North Pascagoula,State Senate,51,"Michael D. Watson, Jr.",R,281
+Jackson,Gautler,State Senate,51,"Michael D. Watson, Jr.",R,57
+Jackson,Villa Maria,State Senate,51,"Michael D. Watson, Jr.",R,268
+Jackson,OS Community Ctr,State Senate,51,"Michael D. Watson, Jr.",R,x
+Jackson,OS Armory,State Senate,51,"Michael D. Watson, Jr.",R,x
+Jackson,St Martin,State Senate,51,"Michael D. Watson, Jr.",R,2328
+Jackson,Latimer,State Senate,51,"Michael D. Watson, Jr.",R,1157
+Jackson,Larue,State Senate,51,"Michael D. Watson, Jr.",R,x
+Jackson,Hickory Hills,State Senate,51,"Michael D. Watson, Jr.",R,188
+Jackson,Fontainebleau,State Senate,51,"Michael D. Watson, Jr.",R,x
+Jackson,Gulf Park Estates,State Senate,51,"Michael D. Watson, Jr.",R,x
+Jackson,OS Civic Ctr,State Senate,51,"Michael D. Watson, Jr.",R,x
+Jackson,South Vancleave,State Senate,51,"Michael D. Watson, Jr.",R,1327
+Jackson,Red Hill,State Senate,51,"Michael D. Watson, Jr.",R,139
+Jackson,Carterville,State Senate,51,"Michael D. Watson, Jr.",R,x
+Jackson,TOTAL,State Senate,51,"Michael D. Watson, Jr.",R,13185
 Jackson,Hwy 57,State Senate,52,Brice Wiggins,R,x
 Jackson,North Vancleave,State Senate,52,Brice Wiggins,R,x
 Jackson,East Central,State Senate,52,Brice Wiggins,R,x
@@ -23204,45 +23204,45 @@ Jasper,Claiborne,State House,80,Omeria McDonald Scott,D,x
 Jasper,Philadelphia,State House,80,Omeria McDonald Scott,D,222
 Jasper,TOTAL,State House,80,Omeria McDonald Scott,D,1730
 Jasper,Beat 1 Antioch 2 Judicial,State House,84,William G. Lee,D,x
-Jasper,Beat 1 Antioch 2 Judicial,State House,84,"William E. Shirley, Jr. ",R,x
+Jasper,Beat 1 Antioch 2 Judicial,State House,84,"William E. Shirley, Jr.",R,x
 Jasper,Beat 1 Holders - Waldrup 1,State House,84,William G. Lee,D,x
-Jasper,Beat 1 Holders - Waldrup 1,State House,84,"William E. Shirley, Jr. ",R,x
+Jasper,Beat 1 Holders - Waldrup 1,State House,84,"William E. Shirley, Jr.",R,x
 Jasper,Beat 1 Holders - Waldrup 2,State House,84,William G. Lee,D,x
-Jasper,Beat 1 Holders - Waldrup 2,State House,84,"William E. Shirley, Jr. ",R,x
+Jasper,Beat 1 Holders - Waldrup 2,State House,84,"William E. Shirley, Jr.",R,x
 Jasper,Moss First,State House,84,William G. Lee,D,x
-Jasper,Moss First,State House,84,"William E. Shirley, Jr. ",R,x
+Jasper,Moss First,State House,84,"William E. Shirley, Jr.",R,x
 Jasper,Moss Second,State House,84,William G. Lee,D,x
-Jasper,Moss Second,State House,84,"William E. Shirley, Jr. ",R,x
+Jasper,Moss Second,State House,84,"William E. Shirley, Jr.",R,x
 Jasper,Palestine,State House,84,William G. Lee,D,x
-Jasper,Palestine,State House,84,"William E. Shirley, Jr. ",R,x
+Jasper,Palestine,State House,84,"William E. Shirley, Jr.",R,x
 Jasper,Paulding,State House,84,William G. Lee,D,x
-Jasper,Paulding,State House,84,"William E. Shirley, Jr. ",R,x
+Jasper,Paulding,State House,84,"William E. Shirley, Jr.",R,x
 Jasper,Fellowship,State House,84,William G. Lee,D,18
-Jasper,Fellowship,State House,84,"William E. Shirley, Jr. ",R,54
+Jasper,Fellowship,State House,84,"William E. Shirley, Jr.",R,54
 Jasper,Midway,State House,84,William G. Lee,D,x
-Jasper,Midway,State House,84,"William E. Shirley, Jr. ",R,x
+Jasper,Midway,State House,84,"William E. Shirley, Jr.",R,x
 Jasper,Rose Hill,State House,84,William G. Lee,D,x
-Jasper,Rose Hill,State House,84,"William E. Shirley, Jr. ",R,x
+Jasper,Rose Hill,State House,84,"William E. Shirley, Jr.",R,x
 Jasper,Vossburg,State House,84,William G. Lee,D,x
-Jasper,Vossburg,State House,84,"William E. Shirley, Jr. ",R,x
+Jasper,Vossburg,State House,84,"William E. Shirley, Jr.",R,x
 Jasper,Bay Springs Beat 3,State House,84,William G. Lee,D,x
-Jasper,Bay Springs Beat 3,State House,84,"William E. Shirley, Jr. ",R,x
+Jasper,Bay Springs Beat 3,State House,84,"William E. Shirley, Jr.",R,x
 Jasper,Louin,State House,84,William G. Lee,D,x
-Jasper,Louin,State House,84,"William E. Shirley, Jr. ",R,x
+Jasper,Louin,State House,84,"William E. Shirley, Jr.",R,x
 Jasper,Montrose,State House,84,William G. Lee,D,x
-Jasper,Montrose,State House,84,"William E. Shirley, Jr. ",R,x
+Jasper,Montrose,State House,84,"William E. Shirley, Jr.",R,x
 Jasper,Bay Springs Beat 4,State House,84,William G. Lee,D,x
-Jasper,Bay Springs Beat 4,State House,84,"William E. Shirley, Jr. ",R,x
+Jasper,Bay Springs Beat 4,State House,84,"William E. Shirley, Jr.",R,x
 Jasper,Stringer,State House,84,William G. Lee,D,x
-Jasper,Stringer,State House,84,"William E. Shirley, Jr. ",R,x
+Jasper,Stringer,State House,84,"William E. Shirley, Jr.",R,x
 Jasper,Heidelberg Beat 5,State House,84,William G. Lee,D,x
-Jasper,Heidelberg Beat 5,State House,84,"William E. Shirley, Jr. ",R,x
+Jasper,Heidelberg Beat 5,State House,84,"William E. Shirley, Jr.",R,x
 Jasper,Claiborne,State House,84,William G. Lee,D,x
-Jasper,Claiborne,State House,84,"William E. Shirley, Jr. ",R,x
+Jasper,Claiborne,State House,84,"William E. Shirley, Jr.",R,x
 Jasper,Philadelphia,State House,84,William G. Lee,D,x
-Jasper,Philadelphia,State House,84,"William E. Shirley, Jr. ",R,x
+Jasper,Philadelphia,State House,84,"William E. Shirley, Jr.",R,x
 Jasper,TOTAL,State House,84,William G. Lee,D,18
-Jasper,TOTAL,State House,84,"William E. Shirley, Jr. ",R,54
+Jasper,TOTAL,State House,84,"William E. Shirley, Jr.",R,54
 Jasper,Beat 1 Antioch 2 Judicial,State House,87,Johnny W. Stringer,D,159
 Jasper,Beat 1 Antioch 2 Judicial,State House,87,Daniel Kilpatrick,R,82
 Jasper,Beat 1 Holders - Waldrup 1,State House,87,Johnny W. Stringer,D,135
@@ -31496,61 +31496,61 @@ Leflore,Precinct 65,State House,30,Robert E. Huddleston,D,0
 Leflore,East Gwd,State House,30,Robert E. Huddleston,D,-
 Leflore,TOTAL,State House,30,Robert E. Huddleston,D,151
 Leflore,North Gwd - 20,State House,32,"Willie J. Perkins, Sr.",D,87
-Leflore,North Gwd - 20,State House,32,"Troy D. Brown, Sr. ",I,403
+Leflore,North Gwd - 20,State House,32,"Troy D. Brown, Sr.",I,403
 Leflore,North Gwd - 30,State House,32,"Willie J. Perkins, Sr.",D,-
-Leflore,North Gwd - 30,State House,32,"Troy D. Brown, Sr. ",I,-
+Leflore,North Gwd - 30,State House,32,"Troy D. Brown, Sr.",I,-
 Leflore,North Gwd - 15,State House,32,"Willie J. Perkins, Sr.",D,34
-Leflore,North Gwd - 15,State House,32,"Troy D. Brown, Sr. ",I,14
+Leflore,North Gwd - 15,State House,32,"Troy D. Brown, Sr.",I,14
 Leflore,North Gwd - 9,State House,32,"Willie J. Perkins, Sr.",D,59
-Leflore,North Gwd - 9,State House,32,"Troy D. Brown, Sr. ",I,22
+Leflore,North Gwd - 9,State House,32,"Troy D. Brown, Sr.",I,22
 Leflore,North Gwd - 21,State House,32,"Willie J. Perkins, Sr.",D,1
-Leflore,North Gwd - 21,State House,32,"Troy D. Brown, Sr. ",I,31
+Leflore,North Gwd - 21,State House,32,"Troy D. Brown, Sr.",I,31
 Leflore,North Gwd - 27,State House,32,"Willie J. Perkins, Sr.",D,-
-Leflore,North Gwd - 27,State House,32,"Troy D. Brown, Sr. ",I,-
+Leflore,North Gwd - 27,State House,32,"Troy D. Brown, Sr.",I,-
 Leflore,Money - 26,State House,32,"Willie J. Perkins, Sr.",D,-
-Leflore,Money - 26,State House,32,"Troy D. Brown, Sr. ",I,-
+Leflore,Money - 26,State House,32,"Troy D. Brown, Sr.",I,-
 Leflore,Money - 28,State House,32,"Willie J. Perkins, Sr.",D,-
-Leflore,Money - 28,State House,32,"Troy D. Brown, Sr. ",I,-
+Leflore,Money - 28,State House,32,"Troy D. Brown, Sr.",I,-
 Leflore,Money - 25,State House,32,"Willie J. Perkins, Sr.",D,-
-Leflore,Money - 25,State House,32,"Troy D. Brown, Sr. ",I,-
+Leflore,Money - 25,State House,32,"Troy D. Brown, Sr.",I,-
 Leflore,Money - 29,State House,32,"Willie J. Perkins, Sr.",D,-
-Leflore,Money - 29,State House,32,"Troy D. Brown, Sr. ",I,-
+Leflore,Money - 29,State House,32,"Troy D. Brown, Sr.",I,-
 Leflore,Minter City,State House,32,"Willie J. Perkins, Sr.",D,-
-Leflore,Minter City,State House,32,"Troy D. Brown, Sr. ",I,-
+Leflore,Minter City,State House,32,"Troy D. Brown, Sr.",I,-
 Leflore,Central Gwd,State House,32,"Willie J. Perkins, Sr.",D,157
-Leflore,Central Gwd,State House,32,"Troy D. Brown, Sr. ",I,73
+Leflore,Central Gwd,State House,32,"Troy D. Brown, Sr.",I,73
 Leflore,West Gwd,State House,32,"Willie J. Perkins, Sr.",D,445
-Leflore,West Gwd,State House,32,"Troy D. Brown, Sr. ",I,228
+Leflore,West Gwd,State House,32,"Troy D. Brown, Sr.",I,228
 Leflore,Mvsu,State House,32,"Willie J. Perkins, Sr.",D,79
-Leflore,Mvsu,State House,32,"Troy D. Brown, Sr. ",I,25
+Leflore,Mvsu,State House,32,"Troy D. Brown, Sr.",I,25
 Leflore,Schlater,State House,32,"Willie J. Perkins, Sr.",D,-
-Leflore,Schlater,State House,32,"Troy D. Brown, Sr. ",I,-
+Leflore,Schlater,State House,32,"Troy D. Brown, Sr.",I,-
 Leflore,Southwest Gwd,State House,32,"Willie J. Perkins, Sr.",D,221
-Leflore,Southwest Gwd,State House,32,"Troy D. Brown, Sr. ",I,50
+Leflore,Southwest Gwd,State House,32,"Troy D. Brown, Sr.",I,50
 Leflore,North Itta Bena,State House,32,"Willie J. Perkins, Sr.",D,-
-Leflore,North Itta Bena,State House,32,"Troy D. Brown, Sr. ",I,-
+Leflore,North Itta Bena,State House,32,"Troy D. Brown, Sr.",I,-
 Leflore,South Itta Bena,State House,32,"Willie J. Perkins, Sr.",D,-
-Leflore,South Itta Bena,State House,32,"Troy D. Brown, Sr. ",I,-
+Leflore,South Itta Bena,State House,32,"Troy D. Brown, Sr.",I,-
 Leflore,Rising Sun,State House,32,"Willie J. Perkins, Sr.",D,307
-Leflore,Rising Sun,State House,32,"Troy D. Brown, Sr. ",I,84
+Leflore,Rising Sun,State House,32,"Troy D. Brown, Sr.",I,84
 Leflore,Sidon,State House,32,"Willie J. Perkins, Sr.",D,-
-Leflore,Sidon,State House,32,"Troy D. Brown, Sr. ",I,-
+Leflore,Sidon,State House,32,"Troy D. Brown, Sr.",I,-
 Leflore,Morgan City,State House,32,"Willie J. Perkins, Sr.",D,-
-Leflore,Morgan City,State House,32,"Troy D. Brown, Sr. ",I,-
+Leflore,Morgan City,State House,32,"Troy D. Brown, Sr.",I,-
 Leflore,Swiftown,State House,32,"Willie J. Perkins, Sr.",D,-
-Leflore,Swiftown,State House,32,"Troy D. Brown, Sr. ",I,-
+Leflore,Swiftown,State House,32,"Troy D. Brown, Sr.",I,-
 Leflore,South Gwd,State House,32,"Willie J. Perkins, Sr.",D,294
-Leflore,South Gwd,State House,32,"Troy D. Brown, Sr. ",I,70
+Leflore,South Gwd,State House,32,"Troy D. Brown, Sr.",I,70
 Leflore,Southeast Gwd,State House,32,"Willie J. Perkins, Sr.",D,565
-Leflore,Southeast Gwd,State House,32,"Troy D. Brown, Sr. ",I,414
+Leflore,Southeast Gwd,State House,32,"Troy D. Brown, Sr.",I,414
 Leflore,No Gwd,State House,32,"Willie J. Perkins, Sr.",D,417
-Leflore,No Gwd,State House,32,"Troy D. Brown, Sr. ",I,256
+Leflore,No Gwd,State House,32,"Troy D. Brown, Sr.",I,256
 Leflore,Precinct 65,State House,32,"Willie J. Perkins, Sr.",D,-
-Leflore,Precinct 65,State House,32,"Troy D. Brown, Sr. ",I,-
+Leflore,Precinct 65,State House,32,"Troy D. Brown, Sr.",I,-
 Leflore,East Gwd,State House,32,"Willie J. Perkins, Sr.",D,673
-Leflore,East Gwd,State House,32,"Troy D. Brown, Sr. ",I,133
+Leflore,East Gwd,State House,32,"Troy D. Brown, Sr.",I,133
 Leflore,TOTAL,State House,32,"Willie J. Perkins, Sr.",D,3339
-Leflore,TOTAL,State House,32,"Troy D. Brown, Sr. ",I,1803
+Leflore,TOTAL,State House,32,"Troy D. Brown, Sr.",I,1803
 Leflore,North Gwd - 20,State House,34,Linda Whittington,D,-
 Leflore,North Gwd - 30,State House,34,Linda Whittington,D,-
 Leflore,North Gwd - 15,State House,34,Linda Whittington,D,-
@@ -34219,50 +34219,50 @@ Madison,Northbay,State House,56,Jim Culberson,D,x
 Madison,Northbay,State House,56,Philip Gunn,R,x
 Madison,TOTAL,State House,56,Jim Culberson,D,814
 Madison,TOTAL,State House,56,Philip Gunn,R,3760
-Madison,New Life,State House,57,"Edward Blackmon, Jr. ",D,x
-Madison,Ridgeland Recreation Center,State House,57,"Edward Blackmon, Jr. ",D,x
-Madison,Victory Baptist,State House,57,"Edward Blackmon, Jr. ",D,x
-Madison,Ridgeland Precinct 3,State House,57,"Edward Blackmon, Jr. ",D,x
-Madison,Ridgeland Precinct 4,State House,57,"Edward Blackmon, Jr. ",D,x
-Madison,FBC Madison Campus,State House,57,"Edward Blackmon, Jr. ",D,251
-Madison,Sunnybrook,State House,57,"Edward Blackmon, Jr. ",D,x
-Madison,Madison Methodist,State House,57,"Edward Blackmon, Jr. ",D,x
-Madison,Trace Ridge Baptist Church,State House,57,"Edward Blackmon, Jr. ",D,x
-Madison,First Presbyterian Madison,State House,57,"Edward Blackmon, Jr. ",D,x
-Madison,Madison Community Center,State House,57,"Edward Blackmon, Jr. ",D,x
-Madison,Victory Christian Comm. Church,State House,57,"Edward Blackmon, Jr. ",D,x
-Madison,Ridgel'D 1st Methodist Church,State House,57,"Edward Blackmon, Jr. ",D,x
-Madison,Twin Lakes Baptist Church,State House,57,"Edward Blackmon, Jr. ",D,x
-Madison,Colonial Heights,State House,57,"Edward Blackmon, Jr. ",D,x
-Madison,Tougaloo,State House,57,"Edward Blackmon, Jr. ",D,x
-Madison,Highland Colony Baptist,State House,57,"Edward Blackmon, Jr. ",D,x
-Madison,Parkway,State House,57,"Edward Blackmon, Jr. ",D,666
-Madison,Whisper Lake,State House,57,"Edward Blackmon, Jr. ",D,x
-Madison,Greater Mt Levi Full Gospel,State House,57,"Edward Blackmon, Jr. ",D,425
-Madison,Canton Precinct 7,State House,57,"Edward Blackmon, Jr. ",D,161
-Madison,Bear Creek,State House,57,"Edward Blackmon, Jr. ",D,307
-Madison,Gluckstadt,State House,57,"Edward Blackmon, Jr. ",D,483
-Madison,Fearns Chapel Freewill Baptist,State House,57,"Edward Blackmon, Jr. ",D,244
-Madison,Smith-School,State House,57,"Edward Blackmon, Jr. ",D,x
-Madison,Magnolia Heights,State House,57,"Edward Blackmon, Jr. ",D,536
-Madison,Virlilia,State House,57,"Edward Blackmon, Jr. ",D,116
-Madison,Canton Precinct 5,State House,57,"Edward Blackmon, Jr. ",D,524
-Madison,Canton Fire Station # 4,State House,57,"Edward Blackmon, Jr. ",D,219
-Madison,Mad. Co. Baptist Family Life Ct,State House,57,"Edward Blackmon, Jr. ",D,468
-Madison,Canton Precinct 3,State House,57,"Edward Blackmon, Jr. ",D,147
-Madison,Camden,State House,57,"Edward Blackmon, Jr. ",D,x
-Madison,Cameron,State House,57,"Edward Blackmon, Jr. ",D,x
-Madison,Couparle,State House,57,"Edward Blackmon, Jr. ",D,x
-Madison,Sharon,State House,57,"Edward Blackmon, Jr. ",D,x
-Madison,Canton Precinct 1,State House,57,"Edward Blackmon, Jr. ",D,623
-Madison,Canton Precinct 4,State House,57,"Edward Blackmon, Jr. ",D,835
-Madison,Farmhaven,State House,57,"Edward Blackmon, Jr. ",D,x
-Madison,Bible Church,State House,57,"Edward Blackmon, Jr. ",D,230
-Madison,Cedar Grove Baptist,State House,57,"Edward Blackmon, Jr. ",D,x
-Madison,Pleasant Gift Baptist,State House,57,"Edward Blackmon, Jr. ",D,x
-Madison,Canton Precinct 2,State House,57,"Edward Blackmon, Jr. ",D,726
-Madison,Northbay,State House,57,"Edward Blackmon, Jr. ",D,x
-Madison,TOTAL,State House,57,"Edward Blackmon, Jr. ",D,6961
+Madison,New Life,State House,57,"Edward Blackmon, Jr.",D,x
+Madison,Ridgeland Recreation Center,State House,57,"Edward Blackmon, Jr.",D,x
+Madison,Victory Baptist,State House,57,"Edward Blackmon, Jr.",D,x
+Madison,Ridgeland Precinct 3,State House,57,"Edward Blackmon, Jr.",D,x
+Madison,Ridgeland Precinct 4,State House,57,"Edward Blackmon, Jr.",D,x
+Madison,FBC Madison Campus,State House,57,"Edward Blackmon, Jr.",D,251
+Madison,Sunnybrook,State House,57,"Edward Blackmon, Jr.",D,x
+Madison,Madison Methodist,State House,57,"Edward Blackmon, Jr.",D,x
+Madison,Trace Ridge Baptist Church,State House,57,"Edward Blackmon, Jr.",D,x
+Madison,First Presbyterian Madison,State House,57,"Edward Blackmon, Jr.",D,x
+Madison,Madison Community Center,State House,57,"Edward Blackmon, Jr.",D,x
+Madison,Victory Christian Comm. Church,State House,57,"Edward Blackmon, Jr.",D,x
+Madison,Ridgel'D 1st Methodist Church,State House,57,"Edward Blackmon, Jr.",D,x
+Madison,Twin Lakes Baptist Church,State House,57,"Edward Blackmon, Jr.",D,x
+Madison,Colonial Heights,State House,57,"Edward Blackmon, Jr.",D,x
+Madison,Tougaloo,State House,57,"Edward Blackmon, Jr.",D,x
+Madison,Highland Colony Baptist,State House,57,"Edward Blackmon, Jr.",D,x
+Madison,Parkway,State House,57,"Edward Blackmon, Jr.",D,666
+Madison,Whisper Lake,State House,57,"Edward Blackmon, Jr.",D,x
+Madison,Greater Mt Levi Full Gospel,State House,57,"Edward Blackmon, Jr.",D,425
+Madison,Canton Precinct 7,State House,57,"Edward Blackmon, Jr.",D,161
+Madison,Bear Creek,State House,57,"Edward Blackmon, Jr.",D,307
+Madison,Gluckstadt,State House,57,"Edward Blackmon, Jr.",D,483
+Madison,Fearns Chapel Freewill Baptist,State House,57,"Edward Blackmon, Jr.",D,244
+Madison,Smith-School,State House,57,"Edward Blackmon, Jr.",D,x
+Madison,Magnolia Heights,State House,57,"Edward Blackmon, Jr.",D,536
+Madison,Virlilia,State House,57,"Edward Blackmon, Jr.",D,116
+Madison,Canton Precinct 5,State House,57,"Edward Blackmon, Jr.",D,524
+Madison,Canton Fire Station # 4,State House,57,"Edward Blackmon, Jr.",D,219
+Madison,Mad. Co. Baptist Family Life Ct,State House,57,"Edward Blackmon, Jr.",D,468
+Madison,Canton Precinct 3,State House,57,"Edward Blackmon, Jr.",D,147
+Madison,Camden,State House,57,"Edward Blackmon, Jr.",D,x
+Madison,Cameron,State House,57,"Edward Blackmon, Jr.",D,x
+Madison,Couparle,State House,57,"Edward Blackmon, Jr.",D,x
+Madison,Sharon,State House,57,"Edward Blackmon, Jr.",D,x
+Madison,Canton Precinct 1,State House,57,"Edward Blackmon, Jr.",D,623
+Madison,Canton Precinct 4,State House,57,"Edward Blackmon, Jr.",D,835
+Madison,Farmhaven,State House,57,"Edward Blackmon, Jr.",D,x
+Madison,Bible Church,State House,57,"Edward Blackmon, Jr.",D,230
+Madison,Cedar Grove Baptist,State House,57,"Edward Blackmon, Jr.",D,x
+Madison,Pleasant Gift Baptist,State House,57,"Edward Blackmon, Jr.",D,x
+Madison,Canton Precinct 2,State House,57,"Edward Blackmon, Jr.",D,726
+Madison,Northbay,State House,57,"Edward Blackmon, Jr.",D,x
+Madison,TOTAL,State House,57,"Edward Blackmon, Jr.",D,6961
 Madison,New Life,State House,58,Rita Martinson,R,845
 Madison,Ridgeland Recreation Center,State House,58,Rita Martinson,R,x
 Madison,Victory Baptist,State House,58,Rita Martinson,R,822

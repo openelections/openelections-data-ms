@@ -1,57 +1,57 @@
 page,candidate,office,district,party,county,precinct,votes
-2,Tate Reeves,Governor ,,R,Greene ,Leakesville,147
-2,Bill Waller Jr.,Governor ,,R,Greene ,Leakesville,221
-2,Dale Goodin,State House,105,R,Greene ,Leakesville,141
-2,Roun S McNeal,State House,105,R,Greene ,Leakesville,228
-2,Tate Reeves,Governor ,,R,Greene ,North Leakesville,25
-2,Bill Waller Jr.,Governor ,,R,Greene ,North Leakesville,36
-2,Dale Goodin,State House,105,R,Greene ,North Leakesville,9
-2,Roun S McNeal,State House,105,R,Greene ,North Leakesville,52
-2,Tate Reeves,Governor ,,R,Greene ,State Line,40
-2,Bill Waller Jr.,Governor ,,R,Greene ,State Line,23
-2,Dale Goodin,State House,105,R,Greene ,State Line,4
-2,Roun S McNeal,State House,105,R,Greene ,State Line,2
-2,Tate Reeves,Governor ,,R,Greene ,Mutual Rights,71
-2,Bill Waller Jr.,Governor ,,R,Greene ,Mutual Rights,45
-2,Dale Goodin,State House,105,R,Greene ,Mutual Rights,65
-2,Roun S McNeal,State House,105,R,Greene ,Mutual Rights,52
-2,Tate Reeves,Governor ,,R,Greene ,Wade,182
-2,Bill Waller Jr.,Governor ,,R,Greene ,Wade,114
-2,Dale Goodin,State House,105,R,Greene ,Wade,155
-2,Roun S McNeal,State House,105,R,Greene ,Wade,131
-2,Tate Reeves,Governor ,,R,Greene ,Jones,96
-2,Bill Waller Jr.,Governor ,,R,Greene ,Jones,34
-2,Dale Goodin,State House,105,R,Greene ,Jones,56
-2,Roun S McNeal,State House,105,R,Greene ,Jones,71
-2,Tate Reeves,Governor ,,R,Greene ,Piave,164
-2,Bill Waller Jr.,Governor ,,R,Greene ,Piave,82
-2,Dale Goodin,State House,105,R,Greene ,Piave,121
-2,Roun S McNeal,State House,105,R,Greene ,Piave,118
-2,Tate Reeves,Governor ,,R,Greene ,Maples,115
-2,Bill Waller Jr.,Governor ,,R,Greene ,Maples,73
-2,Dale Goodin,State House,105,R,Greene ,Maples,76
-2,Roun S McNeal,State House,105,R,Greene ,Maples,114
-2,Tate Reeves,Governor ,,R,Greene ,Vernal,100
-2,Bill Waller Jr.,Governor ,,R,Greene ,Vernal,57
-2,Dale Goodin,State House,105,R,Greene ,Vernal,52
-2,Roun S McNeal,State House,105,R,Greene ,Vernal,104
-2,Tate Reeves,Governor ,,R,Greene ,Washington Neely,53
-2,Bill Waller Jr.,Governor ,,R,Greene ,Washington Neely,41
-2,Dale Goodin,State House,105,R,Greene ,Washington Neely,48
-2,Roun S McNeal,State House,105,R,Greene ,Washington Neely,44
-2,Tate Reeves,Governor ,,R,Greene ,Leaf,26
-2,Bill Waller Jr.,Governor ,,R,Greene ,Leaf,26
-2,Dale Goodin,State House,105,R,Greene ,Leaf,34
-2,Roun S McNeal,State House,105,R,Greene ,Leaf,18
-3,Tate Reeves,Governor ,,R,Greene ,Mclain,39
-3,Bill Waller Jr.,Governor ,,R,Greene ,Mclain,23
-3,Dale Goodin,State House,105,R,Greene ,Mclain,20
-3,Roun S McNeal,State House,105,R,Greene ,Mclain,42
-3,Tate Reeves,Governor ,,R,Greene ,Jonathan,34
-3,Bill Waller Jr.,Governor ,,R,Greene ,Jonathan,43
-3,Dale Goodin,State House,105,R,Greene ,Jonathan,38
-3,Roun S McNeal,State House,105,R,Greene ,Jonathan,38
-3,Tate Reeves,Governor ,,R,Greene ,TOTAL,1092
-3,Bill Waller Jr.,Governor ,,R,Greene ,TOTAL,818
-3,Dale Goodin,State House,105,R,Greene ,TOTAL,819
-3,Roun S McNeal,State House,105,R,Greene ,TOTAL,1014
+2,Tate Reeves,Governor,,R,Greene,Leakesville,147
+2,Bill Waller Jr.,Governor,,R,Greene,Leakesville,221
+2,Dale Goodin,State House,105,R,Greene,Leakesville,141
+2,Roun S McNeal,State House,105,R,Greene,Leakesville,228
+2,Tate Reeves,Governor,,R,Greene,North Leakesville,25
+2,Bill Waller Jr.,Governor,,R,Greene,North Leakesville,36
+2,Dale Goodin,State House,105,R,Greene,North Leakesville,9
+2,Roun S McNeal,State House,105,R,Greene,North Leakesville,52
+2,Tate Reeves,Governor,,R,Greene,State Line,40
+2,Bill Waller Jr.,Governor,,R,Greene,State Line,23
+2,Dale Goodin,State House,105,R,Greene,State Line,4
+2,Roun S McNeal,State House,105,R,Greene,State Line,2
+2,Tate Reeves,Governor,,R,Greene,Mutual Rights,71
+2,Bill Waller Jr.,Governor,,R,Greene,Mutual Rights,45
+2,Dale Goodin,State House,105,R,Greene,Mutual Rights,65
+2,Roun S McNeal,State House,105,R,Greene,Mutual Rights,52
+2,Tate Reeves,Governor,,R,Greene,Wade,182
+2,Bill Waller Jr.,Governor,,R,Greene,Wade,114
+2,Dale Goodin,State House,105,R,Greene,Wade,155
+2,Roun S McNeal,State House,105,R,Greene,Wade,131
+2,Tate Reeves,Governor,,R,Greene,Jones,96
+2,Bill Waller Jr.,Governor,,R,Greene,Jones,34
+2,Dale Goodin,State House,105,R,Greene,Jones,56
+2,Roun S McNeal,State House,105,R,Greene,Jones,71
+2,Tate Reeves,Governor,,R,Greene,Piave,164
+2,Bill Waller Jr.,Governor,,R,Greene,Piave,82
+2,Dale Goodin,State House,105,R,Greene,Piave,121
+2,Roun S McNeal,State House,105,R,Greene,Piave,118
+2,Tate Reeves,Governor,,R,Greene,Maples,115
+2,Bill Waller Jr.,Governor,,R,Greene,Maples,73
+2,Dale Goodin,State House,105,R,Greene,Maples,76
+2,Roun S McNeal,State House,105,R,Greene,Maples,114
+2,Tate Reeves,Governor,,R,Greene,Vernal,100
+2,Bill Waller Jr.,Governor,,R,Greene,Vernal,57
+2,Dale Goodin,State House,105,R,Greene,Vernal,52
+2,Roun S McNeal,State House,105,R,Greene,Vernal,104
+2,Tate Reeves,Governor,,R,Greene,Washington Neely,53
+2,Bill Waller Jr.,Governor,,R,Greene,Washington Neely,41
+2,Dale Goodin,State House,105,R,Greene,Washington Neely,48
+2,Roun S McNeal,State House,105,R,Greene,Washington Neely,44
+2,Tate Reeves,Governor,,R,Greene,Leaf,26
+2,Bill Waller Jr.,Governor,,R,Greene,Leaf,26
+2,Dale Goodin,State House,105,R,Greene,Leaf,34
+2,Roun S McNeal,State House,105,R,Greene,Leaf,18
+3,Tate Reeves,Governor,,R,Greene,Mclain,39
+3,Bill Waller Jr.,Governor,,R,Greene,Mclain,23
+3,Dale Goodin,State House,105,R,Greene,Mclain,20
+3,Roun S McNeal,State House,105,R,Greene,Mclain,42
+3,Tate Reeves,Governor,,R,Greene,Jonathan,34
+3,Bill Waller Jr.,Governor,,R,Greene,Jonathan,43
+3,Dale Goodin,State House,105,R,Greene,Jonathan,38
+3,Roun S McNeal,State House,105,R,Greene,Jonathan,38
+3,Tate Reeves,Governor,,R,Greene,TOTAL,1092
+3,Bill Waller Jr.,Governor,,R,Greene,TOTAL,818
+3,Dale Goodin,State House,105,R,Greene,TOTAL,819
+3,Roun S McNeal,State House,105,R,Greene,TOTAL,1014
