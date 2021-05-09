@@ -1,106 +1,106 @@
-"","county","precinct","office","district","party","candidate","votes"
-"1","Carroll","430 SCHOOL","U.S. Representative",2,"Democrat","BENFORD, DOROTHY",1
-"2","Carroll","430 SCHOOL","U.S. Representative",2,"Democrat","ESPY, CHUCK",56
-"3","Carroll","430 SCHOOL","U.S. Representative",2,"Democrat","THOMPSON, BENNIE G.",102
-"4","Carroll","430 SCHOOL","US Senator",NA,"Democrat","BOWLIN, BILL",34
-"5","Carroll","430 SCHOOL","US Senator",NA,"Democrat","FLEMING, ERIK",49
-"6","Carroll","430 SCHOOL","US Senator",NA,"Democrat","O'KEEFE, JAMES",21
-"7","Carroll","430 SCHOOL","US Senator",NA,"Democrat","STARR, CATHERINE M.",17
-"8","Carroll","BLACK HAWK","U.S. Representative",2,"Democrat","BENFORD, DOROTHY",0
-"9","Carroll","BLACK HAWK","U.S. Representative",2,"Democrat","ESPY, CHUCK",53
-"10","Carroll","BLACK HAWK","U.S. Representative",2,"Democrat","THOMPSON, BENNIE G.",12
-"11","Carroll","BLACK HAWK","US Senator",NA,"Democrat","BOWLIN, BILL",15
-"12","Carroll","BLACK HAWK","US Senator",NA,"Democrat","FLEMING, ERIK",8
-"13","Carroll","BLACK HAWK","US Senator",NA,"Democrat","O'KEEFE, JAMES",30
-"14","Carroll","BLACK HAWK","US Senator",NA,"Democrat","STARR, CATHERINE M.",5
-"15","Carroll","CALVARY","U.S. Representative",2,"Democrat","BENFORD, DOROTHY",0
-"16","Carroll","CALVARY","U.S. Representative",2,"Democrat","ESPY, CHUCK",14
-"17","Carroll","CALVARY","U.S. Representative",2,"Democrat","THOMPSON, BENNIE G.",2
-"18","Carroll","CALVARY","US Senator",NA,"Democrat","BOWLIN, BILL",11
-"19","Carroll","CALVARY","US Senator",NA,"Democrat","FLEMING, ERIK",1
-"20","Carroll","CALVARY","US Senator",NA,"Democrat","O'KEEFE, JAMES",3
-"21","Carroll","CALVARY","US Senator",NA,"Democrat","STARR, CATHERINE M.",1
-"22","Carroll","CARROLLTON","U.S. Representative",2,"Democrat","BENFORD, DOROTHY",1
-"23","Carroll","CARROLLTON","U.S. Representative",2,"Democrat","ESPY, CHUCK",72
-"24","Carroll","CARROLLTON","U.S. Representative",2,"Democrat","THOMPSON, BENNIE G.",17
-"25","Carroll","CARROLLTON","US Senator",NA,"Democrat","BOWLIN, BILL",35
-"26","Carroll","CARROLLTON","US Senator",NA,"Democrat","FLEMING, ERIK",13
-"27","Carroll","CARROLLTON","US Senator",NA,"Democrat","O'KEEFE, JAMES",28
-"28","Carroll","CARROLLTON","US Senator",NA,"Democrat","STARR, CATHERINE M.",9
-"29","Carroll","EAST VAIDEN","U.S. Representative",2,"Democrat","BENFORD, DOROTHY",2
-"30","Carroll","EAST VAIDEN","U.S. Representative",2,"Democrat","ESPY, CHUCK",104
-"31","Carroll","EAST VAIDEN","U.S. Representative",2,"Democrat","THOMPSON, BENNIE G.",104
-"32","Carroll","EAST VAIDEN","US Senator",NA,"Democrat","BOWLIN, BILL",65
-"33","Carroll","EAST VAIDEN","US Senator",NA,"Democrat","FLEMING, ERIK",39
-"34","Carroll","EAST VAIDEN","US Senator",NA,"Democrat","O'KEEFE, JAMES",38
-"35","Carroll","EAST VAIDEN","US Senator",NA,"Democrat","STARR, CATHERINE M.",25
-"36","Carroll","FIRE TOWER","U.S. Representative",2,"Democrat","BENFORD, DOROTHY",3
-"37","Carroll","FIRE TOWER","U.S. Representative",2,"Democrat","ESPY, CHUCK",60
-"38","Carroll","FIRE TOWER","U.S. Representative",2,"Democrat","THOMPSON, BENNIE G.",193
-"39","Carroll","FIRE TOWER","US Senator",NA,"Democrat","BOWLIN, BILL",52
-"40","Carroll","FIRE TOWER","US Senator",NA,"Democrat","FLEMING, ERIK",90
-"41","Carroll","FIRE TOWER","US Senator",NA,"Democrat","O'KEEFE, JAMES",70
-"42","Carroll","FIRE TOWER","US Senator",NA,"Democrat","STARR, CATHERINE M.",30
-"43","Carroll","GRAVEL HILL","U.S. Representative",2,"Democrat","BENFORD, DOROTHY",1
-"44","Carroll","GRAVEL HILL","U.S. Representative",2,"Democrat","ESPY, CHUCK",92
-"45","Carroll","GRAVEL HILL","U.S. Representative",2,"Democrat","THOMPSON, BENNIE G.",22
-"46","Carroll","GRAVEL HILL","US Senator",NA,"Democrat","BOWLIN, BILL",42
-"47","Carroll","GRAVEL HILL","US Senator",NA,"Democrat","FLEMING, ERIK",18
-"48","Carroll","GRAVEL HILL","US Senator",NA,"Democrat","O'KEEFE, JAMES",24
-"49","Carroll","GRAVEL HILL","US Senator",NA,"Democrat","STARR, CATHERINE M.",8
-"50","Carroll","JEFFERSON","U.S. Representative",2,"Democrat","BENFORD, DOROTHY",3
-"51","Carroll","JEFFERSON","U.S. Representative",2,"Democrat","ESPY, CHUCK",43
-"52","Carroll","JEFFERSON","U.S. Representative",2,"Democrat","THOMPSON, BENNIE G.",8
-"53","Carroll","JEFFERSON","US Senator",NA,"Democrat","BOWLIN, BILL",33
-"54","Carroll","JEFFERSON","US Senator",NA,"Democrat","FLEMING, ERIK",10
-"55","Carroll","JEFFERSON","US Senator",NA,"Democrat","O'KEEFE, JAMES",5
-"56","Carroll","JEFFERSON","US Senator",NA,"Democrat","STARR, CATHERINE M.",5
-"57","Carroll","MCCARLEY","U.S. Representative",2,"Democrat","BENFORD, DOROTHY",3
-"58","Carroll","MCCARLEY","U.S. Representative",2,"Democrat","ESPY, CHUCK",53
-"59","Carroll","MCCARLEY","U.S. Representative",2,"Democrat","THOMPSON, BENNIE G.",73
-"60","Carroll","MCCARLEY","US Senator",NA,"Democrat","BOWLIN, BILL",38
-"61","Carroll","MCCARLEY","US Senator",NA,"Democrat","FLEMING, ERIK",33
-"62","Carroll","MCCARLEY","US Senator",NA,"Democrat","O'KEEFE, JAMES",25
-"63","Carroll","MCCARLEY","US Senator",NA,"Democrat","STARR, CATHERINE M.",12
-"64","Carroll","NORTH CARROLLTON","U.S. Representative",2,"Democrat","BENFORD, DOROTHY",3
-"65","Carroll","NORTH CARROLLTON","U.S. Representative",2,"Democrat","ESPY, CHUCK",98
-"66","Carroll","NORTH CARROLLTON","U.S. Representative",2,"Democrat","THOMPSON, BENNIE G.",161
-"67","Carroll","NORTH CARROLLTON","US Senator",NA,"Democrat","BOWLIN, BILL",63
-"68","Carroll","NORTH CARROLLTON","US Senator",NA,"Democrat","FLEMING, ERIK",104
-"69","Carroll","NORTH CARROLLTON","US Senator",NA,"Democrat","O'KEEFE, JAMES",43
-"70","Carroll","NORTH CARROLLTON","US Senator",NA,"Democrat","STARR, CATHERINE M.",20
-"71","Carroll","PURGED VOTER","U.S. Representative",2,"Democrat","BENFORD, DOROTHY",0
-"72","Carroll","PURGED VOTER","U.S. Representative",2,"Democrat","ESPY, CHUCK",0
-"73","Carroll","PURGED VOTER","U.S. Representative",2,"Democrat","THOMPSON, BENNIE G.",0
-"74","Carroll","PURGED VOTER","US Senator",NA,"Democrat","BOWLIN, BILL",0
-"75","Carroll","PURGED VOTER","US Senator",NA,"Democrat","FLEMING, ERIK",0
-"76","Carroll","PURGED VOTER","US Senator",NA,"Democrat","O'KEEFE, JAMES",0
-"77","Carroll","PURGED VOTER","US Senator",NA,"Democrat","STARR, CATHERINE M.",0
-"78","Carroll","RAYS SHOP","U.S. Representative",2,"Democrat","BENFORD, DOROTHY",3
-"79","Carroll","RAYS SHOP","U.S. Representative",2,"Democrat","ESPY, CHUCK",171
-"80","Carroll","RAYS SHOP","U.S. Representative",2,"Democrat","THOMPSON, BENNIE G.",18
-"81","Carroll","RAYS SHOP","US Senator",NA,"Democrat","BOWLIN, BILL",64
-"82","Carroll","RAYS SHOP","US Senator",NA,"Democrat","FLEMING, ERIK",34
-"83","Carroll","RAYS SHOP","US Senator",NA,"Democrat","O'KEEFE, JAMES",52
-"84","Carroll","RAYS SHOP","US Senator",NA,"Democrat","STARR, CATHERINE M.",22
-"85","Carroll","SALEM","U.S. Representative",2,"Democrat","BENFORD, DOROTHY",2
-"86","Carroll","SALEM","U.S. Representative",2,"Democrat","ESPY, CHUCK",21
-"87","Carroll","SALEM","U.S. Representative",2,"Democrat","THOMPSON, BENNIE G.",55
-"88","Carroll","SALEM","US Senator",NA,"Democrat","BOWLIN, BILL",19
-"89","Carroll","SALEM","US Senator",NA,"Democrat","FLEMING, ERIK",18
-"90","Carroll","SALEM","US Senator",NA,"Democrat","O'KEEFE, JAMES",23
-"91","Carroll","SALEM","US Senator",NA,"Democrat","STARR, CATHERINE M.",16
-"92","Carroll","WEST CARROLL","U.S. Representative",2,"Democrat","BENFORD, DOROTHY",2
-"93","Carroll","WEST CARROLL","U.S. Representative",2,"Democrat","ESPY, CHUCK",76
-"94","Carroll","WEST CARROLL","U.S. Representative",2,"Democrat","THOMPSON, BENNIE G.",21
-"95","Carroll","WEST CARROLL","US Senator",NA,"Democrat","BOWLIN, BILL",29
-"96","Carroll","WEST CARROLL","US Senator",NA,"Democrat","FLEMING, ERIK",21
-"97","Carroll","WEST CARROLL","US Senator",NA,"Democrat","O'KEEFE, JAMES",18
-"98","Carroll","WEST CARROLL","US Senator",NA,"Democrat","STARR, CATHERINE M.",5
-"99","Carroll","WEST VAIDEN","U.S. Representative",2,"Democrat","BENFORD, DOROTHY",2
-"100","Carroll","WEST VAIDEN","U.S. Representative",2,"Democrat","ESPY, CHUCK",58
-"101","Carroll","WEST VAIDEN","U.S. Representative",2,"Democrat","THOMPSON, BENNIE G.",91
-"102","Carroll","WEST VAIDEN","US Senator",NA,"Democrat","BOWLIN, BILL",35
-"103","Carroll","WEST VAIDEN","US Senator",NA,"Democrat","FLEMING, ERIK",46
-"104","Carroll","WEST VAIDEN","US Senator",NA,"Democrat","O'KEEFE, JAMES",21
-"105","Carroll","WEST VAIDEN","US Senator",NA,"Democrat","STARR, CATHERINE M.",20
+"county","precinct","office","district","party","candidate","votes"
+"Carroll","430 SCHOOL","U.S. Representative",2,"Democrat","BENFORD, DOROTHY",1
+"Carroll","430 SCHOOL","U.S. Representative",2,"Democrat","ESPY, CHUCK",56
+"Carroll","430 SCHOOL","U.S. Representative",2,"Democrat","THOMPSON, BENNIE G.",102
+"Carroll","430 SCHOOL","US Senator",NA,"Democrat","BOWLIN, BILL",34
+"Carroll","430 SCHOOL","US Senator",NA,"Democrat","FLEMING, ERIK",49
+"Carroll","430 SCHOOL","US Senator",NA,"Democrat","O'KEEFE, JAMES",21
+"Carroll","430 SCHOOL","US Senator",NA,"Democrat","STARR, CATHERINE M.",17
+"Carroll","BLACK HAWK","U.S. Representative",2,"Democrat","BENFORD, DOROTHY",0
+"Carroll","BLACK HAWK","U.S. Representative",2,"Democrat","ESPY, CHUCK",53
+"Carroll","BLACK HAWK","U.S. Representative",2,"Democrat","THOMPSON, BENNIE G.",12
+"Carroll","BLACK HAWK","US Senator",NA,"Democrat","BOWLIN, BILL",15
+"Carroll","BLACK HAWK","US Senator",NA,"Democrat","FLEMING, ERIK",8
+"Carroll","BLACK HAWK","US Senator",NA,"Democrat","O'KEEFE, JAMES",30
+"Carroll","BLACK HAWK","US Senator",NA,"Democrat","STARR, CATHERINE M.",5
+"Carroll","CALVARY","U.S. Representative",2,"Democrat","BENFORD, DOROTHY",0
+"Carroll","CALVARY","U.S. Representative",2,"Democrat","ESPY, CHUCK",14
+"Carroll","CALVARY","U.S. Representative",2,"Democrat","THOMPSON, BENNIE G.",2
+"Carroll","CALVARY","US Senator",NA,"Democrat","BOWLIN, BILL",11
+"Carroll","CALVARY","US Senator",NA,"Democrat","FLEMING, ERIK",1
+"Carroll","CALVARY","US Senator",NA,"Democrat","O'KEEFE, JAMES",3
+"Carroll","CALVARY","US Senator",NA,"Democrat","STARR, CATHERINE M.",1
+"Carroll","CARROLLTON","U.S. Representative",2,"Democrat","BENFORD, DOROTHY",1
+"Carroll","CARROLLTON","U.S. Representative",2,"Democrat","ESPY, CHUCK",72
+"Carroll","CARROLLTON","U.S. Representative",2,"Democrat","THOMPSON, BENNIE G.",17
+"Carroll","CARROLLTON","US Senator",NA,"Democrat","BOWLIN, BILL",35
+"Carroll","CARROLLTON","US Senator",NA,"Democrat","FLEMING, ERIK",13
+"Carroll","CARROLLTON","US Senator",NA,"Democrat","O'KEEFE, JAMES",28
+"Carroll","CARROLLTON","US Senator",NA,"Democrat","STARR, CATHERINE M.",9
+"Carroll","EAST VAIDEN","U.S. Representative",2,"Democrat","BENFORD, DOROTHY",2
+"Carroll","EAST VAIDEN","U.S. Representative",2,"Democrat","ESPY, CHUCK",104
+"Carroll","EAST VAIDEN","U.S. Representative",2,"Democrat","THOMPSON, BENNIE G.",104
+"Carroll","EAST VAIDEN","US Senator",NA,"Democrat","BOWLIN, BILL",65
+"Carroll","EAST VAIDEN","US Senator",NA,"Democrat","FLEMING, ERIK",39
+"Carroll","EAST VAIDEN","US Senator",NA,"Democrat","O'KEEFE, JAMES",38
+"Carroll","EAST VAIDEN","US Senator",NA,"Democrat","STARR, CATHERINE M.",25
+"Carroll","FIRE TOWER","U.S. Representative",2,"Democrat","BENFORD, DOROTHY",3
+"Carroll","FIRE TOWER","U.S. Representative",2,"Democrat","ESPY, CHUCK",60
+"Carroll","FIRE TOWER","U.S. Representative",2,"Democrat","THOMPSON, BENNIE G.",193
+"Carroll","FIRE TOWER","US Senator",NA,"Democrat","BOWLIN, BILL",52
+"Carroll","FIRE TOWER","US Senator",NA,"Democrat","FLEMING, ERIK",90
+"Carroll","FIRE TOWER","US Senator",NA,"Democrat","O'KEEFE, JAMES",70
+"Carroll","FIRE TOWER","US Senator",NA,"Democrat","STARR, CATHERINE M.",30
+"Carroll","GRAVEL HILL","U.S. Representative",2,"Democrat","BENFORD, DOROTHY",1
+"Carroll","GRAVEL HILL","U.S. Representative",2,"Democrat","ESPY, CHUCK",92
+"Carroll","GRAVEL HILL","U.S. Representative",2,"Democrat","THOMPSON, BENNIE G.",22
+"Carroll","GRAVEL HILL","US Senator",NA,"Democrat","BOWLIN, BILL",42
+"Carroll","GRAVEL HILL","US Senator",NA,"Democrat","FLEMING, ERIK",18
+"Carroll","GRAVEL HILL","US Senator",NA,"Democrat","O'KEEFE, JAMES",24
+"Carroll","GRAVEL HILL","US Senator",NA,"Democrat","STARR, CATHERINE M.",8
+"Carroll","JEFFERSON","U.S. Representative",2,"Democrat","BENFORD, DOROTHY",3
+"Carroll","JEFFERSON","U.S. Representative",2,"Democrat","ESPY, CHUCK",43
+"Carroll","JEFFERSON","U.S. Representative",2,"Democrat","THOMPSON, BENNIE G.",8
+"Carroll","JEFFERSON","US Senator",NA,"Democrat","BOWLIN, BILL",33
+"Carroll","JEFFERSON","US Senator",NA,"Democrat","FLEMING, ERIK",10
+"Carroll","JEFFERSON","US Senator",NA,"Democrat","O'KEEFE, JAMES",5
+"Carroll","JEFFERSON","US Senator",NA,"Democrat","STARR, CATHERINE M.",5
+"Carroll","MCCARLEY","U.S. Representative",2,"Democrat","BENFORD, DOROTHY",3
+"Carroll","MCCARLEY","U.S. Representative",2,"Democrat","ESPY, CHUCK",53
+"Carroll","MCCARLEY","U.S. Representative",2,"Democrat","THOMPSON, BENNIE G.",73
+"Carroll","MCCARLEY","US Senator",NA,"Democrat","BOWLIN, BILL",38
+"Carroll","MCCARLEY","US Senator",NA,"Democrat","FLEMING, ERIK",33
+"Carroll","MCCARLEY","US Senator",NA,"Democrat","O'KEEFE, JAMES",25
+"Carroll","MCCARLEY","US Senator",NA,"Democrat","STARR, CATHERINE M.",12
+"Carroll","NORTH CARROLLTON","U.S. Representative",2,"Democrat","BENFORD, DOROTHY",3
+"Carroll","NORTH CARROLLTON","U.S. Representative",2,"Democrat","ESPY, CHUCK",98
+"Carroll","NORTH CARROLLTON","U.S. Representative",2,"Democrat","THOMPSON, BENNIE G.",161
+"Carroll","NORTH CARROLLTON","US Senator",NA,"Democrat","BOWLIN, BILL",63
+"Carroll","NORTH CARROLLTON","US Senator",NA,"Democrat","FLEMING, ERIK",104
+"Carroll","NORTH CARROLLTON","US Senator",NA,"Democrat","O'KEEFE, JAMES",43
+"Carroll","NORTH CARROLLTON","US Senator",NA,"Democrat","STARR, CATHERINE M.",20
+"Carroll","PURGED VOTER","U.S. Representative",2,"Democrat","BENFORD, DOROTHY",0
+"Carroll","PURGED VOTER","U.S. Representative",2,"Democrat","ESPY, CHUCK",0
+"Carroll","PURGED VOTER","U.S. Representative",2,"Democrat","THOMPSON, BENNIE G.",0
+"Carroll","PURGED VOTER","US Senator",NA,"Democrat","BOWLIN, BILL",0
+"Carroll","PURGED VOTER","US Senator",NA,"Democrat","FLEMING, ERIK",0
+"Carroll","PURGED VOTER","US Senator",NA,"Democrat","O'KEEFE, JAMES",0
+"Carroll","PURGED VOTER","US Senator",NA,"Democrat","STARR, CATHERINE M.",0
+"Carroll","RAYS SHOP","U.S. Representative",2,"Democrat","BENFORD, DOROTHY",3
+"Carroll","RAYS SHOP","U.S. Representative",2,"Democrat","ESPY, CHUCK",171
+"Carroll","RAYS SHOP","U.S. Representative",2,"Democrat","THOMPSON, BENNIE G.",18
+"Carroll","RAYS SHOP","US Senator",NA,"Democrat","BOWLIN, BILL",64
+"Carroll","RAYS SHOP","US Senator",NA,"Democrat","FLEMING, ERIK",34
+"Carroll","RAYS SHOP","US Senator",NA,"Democrat","O'KEEFE, JAMES",52
+"Carroll","RAYS SHOP","US Senator",NA,"Democrat","STARR, CATHERINE M.",22
+"Carroll","SALEM","U.S. Representative",2,"Democrat","BENFORD, DOROTHY",2
+"Carroll","SALEM","U.S. Representative",2,"Democrat","ESPY, CHUCK",21
+"Carroll","SALEM","U.S. Representative",2,"Democrat","THOMPSON, BENNIE G.",55
+"Carroll","SALEM","US Senator",NA,"Democrat","BOWLIN, BILL",19
+"Carroll","SALEM","US Senator",NA,"Democrat","FLEMING, ERIK",18
+"Carroll","SALEM","US Senator",NA,"Democrat","O'KEEFE, JAMES",23
+"Carroll","SALEM","US Senator",NA,"Democrat","STARR, CATHERINE M.",16
+"Carroll","WEST CARROLL","U.S. Representative",2,"Democrat","BENFORD, DOROTHY",2
+"Carroll","WEST CARROLL","U.S. Representative",2,"Democrat","ESPY, CHUCK",76
+"Carroll","WEST CARROLL","U.S. Representative",2,"Democrat","THOMPSON, BENNIE G.",21
+"Carroll","WEST CARROLL","US Senator",NA,"Democrat","BOWLIN, BILL",29
+"Carroll","WEST CARROLL","US Senator",NA,"Democrat","FLEMING, ERIK",21
+"Carroll","WEST CARROLL","US Senator",NA,"Democrat","O'KEEFE, JAMES",18
+"Carroll","WEST CARROLL","US Senator",NA,"Democrat","STARR, CATHERINE M.",5
+"Carroll","WEST VAIDEN","U.S. Representative",2,"Democrat","BENFORD, DOROTHY",2
+"Carroll","WEST VAIDEN","U.S. Representative",2,"Democrat","ESPY, CHUCK",58
+"Carroll","WEST VAIDEN","U.S. Representative",2,"Democrat","THOMPSON, BENNIE G.",91
+"Carroll","WEST VAIDEN","US Senator",NA,"Democrat","BOWLIN, BILL",35
+"Carroll","WEST VAIDEN","US Senator",NA,"Democrat","FLEMING, ERIK",46
+"Carroll","WEST VAIDEN","US Senator",NA,"Democrat","O'KEEFE, JAMES",21
+"Carroll","WEST VAIDEN","US Senator",NA,"Democrat","STARR, CATHERINE M.",20

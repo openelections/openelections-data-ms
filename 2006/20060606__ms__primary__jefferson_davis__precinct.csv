@@ -1,89 +1,89 @@
-"","county","precinct","office","district","party","candidate","votes"
-"1","Jefferson Davis","BASSFIELD 26","US Senator",NA,"Democrat","BOWLIN, BILL",5
-"2","Jefferson Davis","BASSFIELD 26","US Senator",NA,"Democrat","FLEMING, ERIK",19
-"3","Jefferson Davis","BASSFIELD 26","US Senator",NA,"Democrat","O'KEEFE, JAMES",3
-"4","Jefferson Davis","BASSFIELD 26","US Senator",NA,"Democrat","STARR, CATHERINE M.",3
-"5","Jefferson Davis","BASSFIELD 31","US Senator",NA,"Democrat","BOWLIN, BILL",4
-"6","Jefferson Davis","BASSFIELD 31","US Senator",NA,"Democrat","FLEMING, ERIK",48
-"7","Jefferson Davis","BASSFIELD 31","US Senator",NA,"Democrat","O'KEEFE, JAMES",3
-"8","Jefferson Davis","BASSFIELD 31","US Senator",NA,"Democrat","STARR, CATHERINE M.",4
-"9","Jefferson Davis","BASSFIELD 32","US Senator",NA,"Democrat","BOWLIN, BILL",2
-"10","Jefferson Davis","BASSFIELD 32","US Senator",NA,"Democrat","FLEMING, ERIK",28
-"11","Jefferson Davis","BASSFIELD 32","US Senator",NA,"Democrat","O'KEEFE, JAMES",1
-"12","Jefferson Davis","BASSFIELD 32","US Senator",NA,"Democrat","STARR, CATHERINE M.",1
-"13","Jefferson Davis","BOURNHAM 21","US Senator",NA,"Democrat","BOWLIN, BILL",0
-"14","Jefferson Davis","BOURNHAM 21","US Senator",NA,"Democrat","FLEMING, ERIK",0
-"15","Jefferson Davis","BOURNHAM 21","US Senator",NA,"Democrat","O'KEEFE, JAMES",0
-"16","Jefferson Davis","BOURNHAM 21","US Senator",NA,"Democrat","STARR, CATHERINE M.",0
-"17","Jefferson Davis","CARSON 22","US Senator",NA,"Democrat","BOWLIN, BILL",8
-"18","Jefferson Davis","CARSON 22","US Senator",NA,"Democrat","FLEMING, ERIK",8
-"19","Jefferson Davis","CARSON 22","US Senator",NA,"Democrat","O'KEEFE, JAMES",5
-"20","Jefferson Davis","CARSON 22","US Senator",NA,"Democrat","STARR, CATHERINE M.",3
-"21","Jefferson Davis","CLEM 41","US Senator",NA,"Democrat","BOWLIN, BILL",0
-"22","Jefferson Davis","CLEM 41","US Senator",NA,"Democrat","FLEMING, ERIK",12
-"23","Jefferson Davis","CLEM 41","US Senator",NA,"Democrat","O'KEEFE, JAMES",3
-"24","Jefferson Davis","CLEM 41","US Senator",NA,"Democrat","STARR, CATHERINE M.",1
-"25","Jefferson Davis","GOOD HOPE 33","US Senator",NA,"Democrat","BOWLIN, BILL",1
-"26","Jefferson Davis","GOOD HOPE 33","US Senator",NA,"Democrat","FLEMING, ERIK",7
-"27","Jefferson Davis","GOOD HOPE 33","US Senator",NA,"Democrat","O'KEEFE, JAMES",0
-"28","Jefferson Davis","GOOD HOPE 33","US Senator",NA,"Democrat","STARR, CATHERINE M.",1
-"29","Jefferson Davis","GRANBY 11","US Senator",NA,"Democrat","BOWLIN, BILL",3
-"30","Jefferson Davis","GRANBY 11","US Senator",NA,"Democrat","FLEMING, ERIK",9
-"31","Jefferson Davis","GRANBY 11","US Senator",NA,"Democrat","O'KEEFE, JAMES",6
-"32","Jefferson Davis","GRANBY 11","US Senator",NA,"Democrat","STARR, CATHERINE M.",5
-"33","Jefferson Davis","GREEN'S CREEK 23","US Senator",NA,"Democrat","BOWLIN, BILL",10
-"34","Jefferson Davis","GREEN'S CREEK 23","US Senator",NA,"Democrat","FLEMING, ERIK",3
-"35","Jefferson Davis","GREEN'S CREEK 23","US Senator",NA,"Democrat","O'KEEFE, JAMES",3
-"36","Jefferson Davis","GREEN'S CREEK 23","US Senator",NA,"Democrat","STARR, CATHERINE M.",2
-"37","Jefferson Davis","GWINVILLE 51","US Senator",NA,"Democrat","BOWLIN, BILL",1
-"38","Jefferson Davis","GWINVILLE 51","US Senator",NA,"Democrat","FLEMING, ERIK",7
-"39","Jefferson Davis","GWINVILLE 51","US Senator",NA,"Democrat","O'KEEFE, JAMES",0
-"40","Jefferson Davis","GWINVILLE 51","US Senator",NA,"Democrat","STARR, CATHERINE M.",3
-"41","Jefferson Davis","HATHORN 24","US Senator",NA,"Democrat","BOWLIN, BILL",4
-"42","Jefferson Davis","HATHORN 24","US Senator",NA,"Democrat","FLEMING, ERIK",1
-"43","Jefferson Davis","HATHORN 24","US Senator",NA,"Democrat","O'KEEFE, JAMES",3
-"44","Jefferson Davis","HATHORN 24","US Senator",NA,"Democrat","STARR, CATHERINE M.",4
-"45","Jefferson Davis","HEBRON 52","US Senator",NA,"Democrat","BOWLIN, BILL",5
-"46","Jefferson Davis","HEBRON 52","US Senator",NA,"Democrat","FLEMING, ERIK",3
-"47","Jefferson Davis","HEBRON 52","US Senator",NA,"Democrat","O'KEEFE, JAMES",2
-"48","Jefferson Davis","HEBRON 52","US Senator",NA,"Democrat","STARR, CATHERINE M.",2
-"49","Jefferson Davis","MELBA 34","US Senator",NA,"Democrat","BOWLIN, BILL",0
-"50","Jefferson Davis","MELBA 34","US Senator",NA,"Democrat","FLEMING, ERIK",2
-"51","Jefferson Davis","MELBA 34","US Senator",NA,"Democrat","O'KEEFE, JAMES",0
-"52","Jefferson Davis","MELBA 34","US Senator",NA,"Democrat","STARR, CATHERINE M.",1
-"53","Jefferson Davis","MT CARMEL 42","US Senator",NA,"Democrat","BOWLIN, BILL",3
-"54","Jefferson Davis","MT CARMEL 42","US Senator",NA,"Democrat","FLEMING, ERIK",13
-"55","Jefferson Davis","MT CARMEL 42","US Senator",NA,"Democrat","O'KEEFE, JAMES",3
-"56","Jefferson Davis","MT CARMEL 42","US Senator",NA,"Democrat","STARR, CATHERINE M.",10
-"57","Jefferson Davis","NORTH EAST PRENTISS 43","US Senator",NA,"Democrat","BOWLIN, BILL",9
-"58","Jefferson Davis","NORTH EAST PRENTISS 43","US Senator",NA,"Democrat","FLEMING, ERIK",23
-"59","Jefferson Davis","NORTH EAST PRENTISS 43","US Senator",NA,"Democrat","O'KEEFE, JAMES",2
-"60","Jefferson Davis","NORTH EAST PRENTISS 43","US Senator",NA,"Democrat","STARR, CATHERINE M.",3
-"61","Jefferson Davis","NORTH WEST PRENTISS 53","US Senator",NA,"Democrat","BOWLIN, BILL",2
-"62","Jefferson Davis","NORTH WEST PRENTISS 53","US Senator",NA,"Democrat","FLEMING, ERIK",9
-"63","Jefferson Davis","NORTH WEST PRENTISS 53","US Senator",NA,"Democrat","O'KEEFE, JAMES",1
-"64","Jefferson Davis","NORTH WEST PRENTISS 53","US Senator",NA,"Democrat","STARR, CATHERINE M.",7
-"65","Jefferson Davis","RED HOUSE 55","US Senator",NA,"Democrat","BOWLIN, BILL",6
-"66","Jefferson Davis","RED HOUSE 55","US Senator",NA,"Democrat","FLEMING, ERIK",18
-"67","Jefferson Davis","RED HOUSE 55","US Senator",NA,"Democrat","O'KEEFE, JAMES",2
-"68","Jefferson Davis","RED HOUSE 55","US Senator",NA,"Democrat","STARR, CATHERINE M.",7
-"69","Jefferson Davis","SON'S ACADEMY 25","US Senator",NA,"Democrat","BOWLIN, BILL",0
-"70","Jefferson Davis","SON'S ACADEMY 25","US Senator",NA,"Democrat","FLEMING, ERIK",0
-"71","Jefferson Davis","SON'S ACADEMY 25","US Senator",NA,"Democrat","O'KEEFE, JAMES",1
-"72","Jefferson Davis","SON'S ACADEMY 25","US Senator",NA,"Democrat","STARR, CATHERINE M.",2
-"73","Jefferson Davis","SOUTH PRENTISS 12","US Senator",NA,"Democrat","BOWLIN, BILL",3
-"74","Jefferson Davis","SOUTH PRENTISS 12","US Senator",NA,"Democrat","FLEMING, ERIK",11
-"75","Jefferson Davis","SOUTH PRENTISS 12","US Senator",NA,"Democrat","O'KEEFE, JAMES",13
-"76","Jefferson Davis","SOUTH PRENTISS 12","US Senator",NA,"Democrat","STARR, CATHERINE M.",4
-"77","Jefferson Davis","SOUTH PRENTISS 13","US Senator",NA,"Democrat","BOWLIN, BILL",3
-"78","Jefferson Davis","SOUTH PRENTISS 13","US Senator",NA,"Democrat","FLEMING, ERIK",20
-"79","Jefferson Davis","SOUTH PRENTISS 13","US Senator",NA,"Democrat","O'KEEFE, JAMES",5
-"80","Jefferson Davis","SOUTH PRENTISS 13","US Senator",NA,"Democrat","STARR, CATHERINE M.",2
-"81","Jefferson Davis","WHITING 56","US Senator",NA,"Democrat","BOWLIN, BILL",4
-"82","Jefferson Davis","WHITING 56","US Senator",NA,"Democrat","FLEMING, ERIK",21
-"83","Jefferson Davis","WHITING 56","US Senator",NA,"Democrat","O'KEEFE, JAMES",3
-"84","Jefferson Davis","WHITING 56","US Senator",NA,"Democrat","STARR, CATHERINE M.",26
-"85","Jefferson Davis","WILLIAMSON MILL","US Senator",NA,"Democrat","BOWLIN, BILL",1
-"86","Jefferson Davis","WILLIAMSON MILL","US Senator",NA,"Democrat","FLEMING, ERIK",10
-"87","Jefferson Davis","WILLIAMSON MILL","US Senator",NA,"Democrat","O'KEEFE, JAMES",3
-"88","Jefferson Davis","WILLIAMSON MILL","US Senator",NA,"Democrat","STARR, CATHERINE M.",1
+"county","precinct","office","district","party","candidate","votes"
+"Jefferson Davis","BASSFIELD 26","US Senator",NA,"Democrat","BOWLIN, BILL",5
+"Jefferson Davis","BASSFIELD 26","US Senator",NA,"Democrat","FLEMING, ERIK",19
+"Jefferson Davis","BASSFIELD 26","US Senator",NA,"Democrat","O'KEEFE, JAMES",3
+"Jefferson Davis","BASSFIELD 26","US Senator",NA,"Democrat","STARR, CATHERINE M.",3
+"Jefferson Davis","BASSFIELD 31","US Senator",NA,"Democrat","BOWLIN, BILL",4
+"Jefferson Davis","BASSFIELD 31","US Senator",NA,"Democrat","FLEMING, ERIK",48
+"Jefferson Davis","BASSFIELD 31","US Senator",NA,"Democrat","O'KEEFE, JAMES",3
+"Jefferson Davis","BASSFIELD 31","US Senator",NA,"Democrat","STARR, CATHERINE M.",4
+"Jefferson Davis","BASSFIELD 32","US Senator",NA,"Democrat","BOWLIN, BILL",2
+"Jefferson Davis","BASSFIELD 32","US Senator",NA,"Democrat","FLEMING, ERIK",28
+"Jefferson Davis","BASSFIELD 32","US Senator",NA,"Democrat","O'KEEFE, JAMES",1
+"Jefferson Davis","BASSFIELD 32","US Senator",NA,"Democrat","STARR, CATHERINE M.",1
+"Jefferson Davis","BOURNHAM 21","US Senator",NA,"Democrat","BOWLIN, BILL",0
+"Jefferson Davis","BOURNHAM 21","US Senator",NA,"Democrat","FLEMING, ERIK",0
+"Jefferson Davis","BOURNHAM 21","US Senator",NA,"Democrat","O'KEEFE, JAMES",0
+"Jefferson Davis","BOURNHAM 21","US Senator",NA,"Democrat","STARR, CATHERINE M.",0
+"Jefferson Davis","CARSON 22","US Senator",NA,"Democrat","BOWLIN, BILL",8
+"Jefferson Davis","CARSON 22","US Senator",NA,"Democrat","FLEMING, ERIK",8
+"Jefferson Davis","CARSON 22","US Senator",NA,"Democrat","O'KEEFE, JAMES",5
+"Jefferson Davis","CARSON 22","US Senator",NA,"Democrat","STARR, CATHERINE M.",3
+"Jefferson Davis","CLEM 41","US Senator",NA,"Democrat","BOWLIN, BILL",0
+"Jefferson Davis","CLEM 41","US Senator",NA,"Democrat","FLEMING, ERIK",12
+"Jefferson Davis","CLEM 41","US Senator",NA,"Democrat","O'KEEFE, JAMES",3
+"Jefferson Davis","CLEM 41","US Senator",NA,"Democrat","STARR, CATHERINE M.",1
+"Jefferson Davis","GOOD HOPE 33","US Senator",NA,"Democrat","BOWLIN, BILL",1
+"Jefferson Davis","GOOD HOPE 33","US Senator",NA,"Democrat","FLEMING, ERIK",7
+"Jefferson Davis","GOOD HOPE 33","US Senator",NA,"Democrat","O'KEEFE, JAMES",0
+"Jefferson Davis","GOOD HOPE 33","US Senator",NA,"Democrat","STARR, CATHERINE M.",1
+"Jefferson Davis","GRANBY 11","US Senator",NA,"Democrat","BOWLIN, BILL",3
+"Jefferson Davis","GRANBY 11","US Senator",NA,"Democrat","FLEMING, ERIK",9
+"Jefferson Davis","GRANBY 11","US Senator",NA,"Democrat","O'KEEFE, JAMES",6
+"Jefferson Davis","GRANBY 11","US Senator",NA,"Democrat","STARR, CATHERINE M.",5
+"Jefferson Davis","GREEN'S CREEK 23","US Senator",NA,"Democrat","BOWLIN, BILL",10
+"Jefferson Davis","GREEN'S CREEK 23","US Senator",NA,"Democrat","FLEMING, ERIK",3
+"Jefferson Davis","GREEN'S CREEK 23","US Senator",NA,"Democrat","O'KEEFE, JAMES",3
+"Jefferson Davis","GREEN'S CREEK 23","US Senator",NA,"Democrat","STARR, CATHERINE M.",2
+"Jefferson Davis","GWINVILLE 51","US Senator",NA,"Democrat","BOWLIN, BILL",1
+"Jefferson Davis","GWINVILLE 51","US Senator",NA,"Democrat","FLEMING, ERIK",7
+"Jefferson Davis","GWINVILLE 51","US Senator",NA,"Democrat","O'KEEFE, JAMES",0
+"Jefferson Davis","GWINVILLE 51","US Senator",NA,"Democrat","STARR, CATHERINE M.",3
+"Jefferson Davis","HATHORN 24","US Senator",NA,"Democrat","BOWLIN, BILL",4
+"Jefferson Davis","HATHORN 24","US Senator",NA,"Democrat","FLEMING, ERIK",1
+"Jefferson Davis","HATHORN 24","US Senator",NA,"Democrat","O'KEEFE, JAMES",3
+"Jefferson Davis","HATHORN 24","US Senator",NA,"Democrat","STARR, CATHERINE M.",4
+"Jefferson Davis","HEBRON 52","US Senator",NA,"Democrat","BOWLIN, BILL",5
+"Jefferson Davis","HEBRON 52","US Senator",NA,"Democrat","FLEMING, ERIK",3
+"Jefferson Davis","HEBRON 52","US Senator",NA,"Democrat","O'KEEFE, JAMES",2
+"Jefferson Davis","HEBRON 52","US Senator",NA,"Democrat","STARR, CATHERINE M.",2
+"Jefferson Davis","MELBA 34","US Senator",NA,"Democrat","BOWLIN, BILL",0
+"Jefferson Davis","MELBA 34","US Senator",NA,"Democrat","FLEMING, ERIK",2
+"Jefferson Davis","MELBA 34","US Senator",NA,"Democrat","O'KEEFE, JAMES",0
+"Jefferson Davis","MELBA 34","US Senator",NA,"Democrat","STARR, CATHERINE M.",1
+"Jefferson Davis","MT CARMEL 42","US Senator",NA,"Democrat","BOWLIN, BILL",3
+"Jefferson Davis","MT CARMEL 42","US Senator",NA,"Democrat","FLEMING, ERIK",13
+"Jefferson Davis","MT CARMEL 42","US Senator",NA,"Democrat","O'KEEFE, JAMES",3
+"Jefferson Davis","MT CARMEL 42","US Senator",NA,"Democrat","STARR, CATHERINE M.",10
+"Jefferson Davis","NORTH EAST PRENTISS 43","US Senator",NA,"Democrat","BOWLIN, BILL",9
+"Jefferson Davis","NORTH EAST PRENTISS 43","US Senator",NA,"Democrat","FLEMING, ERIK",23
+"Jefferson Davis","NORTH EAST PRENTISS 43","US Senator",NA,"Democrat","O'KEEFE, JAMES",2
+"Jefferson Davis","NORTH EAST PRENTISS 43","US Senator",NA,"Democrat","STARR, CATHERINE M.",3
+"Jefferson Davis","NORTH WEST PRENTISS 53","US Senator",NA,"Democrat","BOWLIN, BILL",2
+"Jefferson Davis","NORTH WEST PRENTISS 53","US Senator",NA,"Democrat","FLEMING, ERIK",9
+"Jefferson Davis","NORTH WEST PRENTISS 53","US Senator",NA,"Democrat","O'KEEFE, JAMES",1
+"Jefferson Davis","NORTH WEST PRENTISS 53","US Senator",NA,"Democrat","STARR, CATHERINE M.",7
+"Jefferson Davis","RED HOUSE 55","US Senator",NA,"Democrat","BOWLIN, BILL",6
+"Jefferson Davis","RED HOUSE 55","US Senator",NA,"Democrat","FLEMING, ERIK",18
+"Jefferson Davis","RED HOUSE 55","US Senator",NA,"Democrat","O'KEEFE, JAMES",2
+"Jefferson Davis","RED HOUSE 55","US Senator",NA,"Democrat","STARR, CATHERINE M.",7
+"Jefferson Davis","SON'S ACADEMY 25","US Senator",NA,"Democrat","BOWLIN, BILL",0
+"Jefferson Davis","SON'S ACADEMY 25","US Senator",NA,"Democrat","FLEMING, ERIK",0
+"Jefferson Davis","SON'S ACADEMY 25","US Senator",NA,"Democrat","O'KEEFE, JAMES",1
+"Jefferson Davis","SON'S ACADEMY 25","US Senator",NA,"Democrat","STARR, CATHERINE M.",2
+"Jefferson Davis","SOUTH PRENTISS 12","US Senator",NA,"Democrat","BOWLIN, BILL",3
+"Jefferson Davis","SOUTH PRENTISS 12","US Senator",NA,"Democrat","FLEMING, ERIK",11
+"Jefferson Davis","SOUTH PRENTISS 12","US Senator",NA,"Democrat","O'KEEFE, JAMES",13
+"Jefferson Davis","SOUTH PRENTISS 12","US Senator",NA,"Democrat","STARR, CATHERINE M.",4
+"Jefferson Davis","SOUTH PRENTISS 13","US Senator",NA,"Democrat","BOWLIN, BILL",3
+"Jefferson Davis","SOUTH PRENTISS 13","US Senator",NA,"Democrat","FLEMING, ERIK",20
+"Jefferson Davis","SOUTH PRENTISS 13","US Senator",NA,"Democrat","O'KEEFE, JAMES",5
+"Jefferson Davis","SOUTH PRENTISS 13","US Senator",NA,"Democrat","STARR, CATHERINE M.",2
+"Jefferson Davis","WHITING 56","US Senator",NA,"Democrat","BOWLIN, BILL",4
+"Jefferson Davis","WHITING 56","US Senator",NA,"Democrat","FLEMING, ERIK",21
+"Jefferson Davis","WHITING 56","US Senator",NA,"Democrat","O'KEEFE, JAMES",3
+"Jefferson Davis","WHITING 56","US Senator",NA,"Democrat","STARR, CATHERINE M.",26
+"Jefferson Davis","WILLIAMSON MILL","US Senator",NA,"Democrat","BOWLIN, BILL",1
+"Jefferson Davis","WILLIAMSON MILL","US Senator",NA,"Democrat","FLEMING, ERIK",10
+"Jefferson Davis","WILLIAMSON MILL","US Senator",NA,"Democrat","O'KEEFE, JAMES",3
+"Jefferson Davis","WILLIAMSON MILL","US Senator",NA,"Democrat","STARR, CATHERINE M.",1

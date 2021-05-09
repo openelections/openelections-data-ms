@@ -1,56 +1,56 @@
-"","county","precinct","office","district","party","candidate","votes"
-"1","Greene","JONATHAN","U.S. Representative",4,"Democrat","TAYLOR, GENE",29
-"2","Greene","JONATHAN","US Senator",NA,"Democrat","BOWLIN, BILL",11
-"3","Greene","JONATHAN","US Senator",NA,"Democrat","FLEMING, ERIK",3
-"4","Greene","JONATHAN","US Senator",NA,"Democrat","O'KEEFE, JAMES",11
-"5","Greene","JONATHAN","US Senator",NA,"Democrat","STARR, CATHERINE M.",1
-"6","Greene","JONES","U.S. Representative",4,"Democrat","TAYLOR, GENE",11
-"7","Greene","JONES","US Senator",NA,"Democrat","BOWLIN, BILL",1
-"8","Greene","JONES","US Senator",NA,"Democrat","FLEMING, ERIK",4
-"9","Greene","JONES","US Senator",NA,"Democrat","O'KEEFE, JAMES",3
-"10","Greene","JONES","US Senator",NA,"Democrat","STARR, CATHERINE M.",3
-"11","Greene","LEAF","U.S. Representative",4,"Democrat","TAYLOR, GENE",12
-"12","Greene","LEAF","US Senator",NA,"Democrat","BOWLIN, BILL",0
-"13","Greene","LEAF","US Senator",NA,"Democrat","FLEMING, ERIK",1
-"14","Greene","LEAF","US Senator",NA,"Democrat","O'KEEFE, JAMES",3
-"15","Greene","LEAF","US Senator",NA,"Democrat","STARR, CATHERINE M.",6
-"16","Greene","LEAKESVILLE","U.S. Representative",4,"Democrat","TAYLOR, GENE",55
-"17","Greene","LEAKESVILLE","US Senator",NA,"Democrat","BOWLIN, BILL",8
-"18","Greene","LEAKESVILLE","US Senator",NA,"Democrat","FLEMING, ERIK",8
-"19","Greene","LEAKESVILLE","US Senator",NA,"Democrat","O'KEEFE, JAMES",13
-"20","Greene","LEAKESVILLE","US Senator",NA,"Democrat","STARR, CATHERINE M.",10
-"21","Greene","MAPLES","U.S. Representative",4,"Democrat","TAYLOR, GENE",19
-"22","Greene","MAPLES","US Senator",NA,"Democrat","BOWLIN, BILL",5
-"23","Greene","MAPLES","US Senator",NA,"Democrat","FLEMING, ERIK",3
-"24","Greene","MAPLES","US Senator",NA,"Democrat","O'KEEFE, JAMES",5
-"25","Greene","MAPLES","US Senator",NA,"Democrat","STARR, CATHERINE M.",6
-"26","Greene","MCCLAIN","U.S. Representative",4,"Democrat","TAYLOR, GENE",16
-"27","Greene","MCCLAIN","US Senator",NA,"Democrat","BOWLIN, BILL",1
-"28","Greene","MCCLAIN","US Senator",NA,"Democrat","FLEMING, ERIK",9
-"29","Greene","MCCLAIN","US Senator",NA,"Democrat","O'KEEFE, JAMES",4
-"30","Greene","MCCLAIN","US Senator",NA,"Democrat","STARR, CATHERINE M.",1
-"31","Greene","MONUMENT","U.S. Representative",4,"Democrat","TAYLOR, GENE",15
-"32","Greene","MONUMENT","US Senator",NA,"Democrat","BOWLIN, BILL",3
-"33","Greene","MONUMENT","US Senator",NA,"Democrat","FLEMING, ERIK",5
-"34","Greene","MONUMENT","US Senator",NA,"Democrat","O'KEEFE, JAMES",4
-"35","Greene","MONUMENT","US Senator",NA,"Democrat","STARR, CATHERINE M.",0
-"36","Greene","MUTUAL RIGHTS","U.S. Representative",4,"Democrat","TAYLOR, GENE",16
-"37","Greene","MUTUAL RIGHTS","US Senator",NA,"Democrat","BOWLIN, BILL",1
-"38","Greene","MUTUAL RIGHTS","US Senator",NA,"Democrat","FLEMING, ERIK",5
-"39","Greene","MUTUAL RIGHTS","US Senator",NA,"Democrat","O'KEEFE, JAMES",5
-"40","Greene","MUTUAL RIGHTS","US Senator",NA,"Democrat","STARR, CATHERINE M.",5
-"41","Greene","NORTH LEAKESVILLE","U.S. Representative",4,"Democrat","TAYLOR, GENE",9
-"42","Greene","NORTH LEAKESVILLE","US Senator",NA,"Democrat","BOWLIN, BILL",1
-"43","Greene","NORTH LEAKESVILLE","US Senator",NA,"Democrat","FLEMING, ERIK",3
-"44","Greene","NORTH LEAKESVILLE","US Senator",NA,"Democrat","O'KEEFE, JAMES",5
-"45","Greene","NORTH LEAKESVILLE","US Senator",NA,"Democrat","STARR, CATHERINE M.",1
-"46","Greene","PIAVE","U.S. Representative",4,"Democrat","TAYLOR, GENE",10
-"47","Greene","PIAVE","US Senator",NA,"Democrat","BOWLIN, BILL",3
-"48","Greene","PIAVE","US Senator",NA,"Democrat","FLEMING, ERIK",4
-"49","Greene","PIAVE","US Senator",NA,"Democrat","O'KEEFE, JAMES",2
-"50","Greene","PIAVE","US Senator",NA,"Democrat","STARR, CATHERINE M.",2
-"51","Greene","PURGED VOTER","U.S. Representative",4,"Democrat","TAYLOR, GENE",0
-"52","Greene","PURGED VOTER","US Senator",NA,"Democrat","BOWLIN, BILL",0
-"53","Greene","PURGED VOTER","US Senator",NA,"Democrat","FLEMING, ERIK",0
-"54","Greene","PURGED VOTER","US Senator",NA,"Democrat","O'KEEFE, JAMES",0
-"55","Greene","PURGED VOTER","US Senator",NA,"Democrat","STARR, CATHERINE M.",NA
+"county","precinct","office","district","party","candidate","votes"
+"Greene","JONATHAN","U.S. Representative",4,"Democrat","TAYLOR, GENE",29
+"Greene","JONATHAN","US Senator",NA,"Democrat","BOWLIN, BILL",11
+"Greene","JONATHAN","US Senator",NA,"Democrat","FLEMING, ERIK",3
+"Greene","JONATHAN","US Senator",NA,"Democrat","O'KEEFE, JAMES",11
+"Greene","JONATHAN","US Senator",NA,"Democrat","STARR, CATHERINE M.",1
+"Greene","JONES","U.S. Representative",4,"Democrat","TAYLOR, GENE",11
+"Greene","JONES","US Senator",NA,"Democrat","BOWLIN, BILL",1
+"Greene","JONES","US Senator",NA,"Democrat","FLEMING, ERIK",4
+"Greene","JONES","US Senator",NA,"Democrat","O'KEEFE, JAMES",3
+"Greene","JONES","US Senator",NA,"Democrat","STARR, CATHERINE M.",3
+"Greene","LEAF","U.S. Representative",4,"Democrat","TAYLOR, GENE",12
+"Greene","LEAF","US Senator",NA,"Democrat","BOWLIN, BILL",0
+"Greene","LEAF","US Senator",NA,"Democrat","FLEMING, ERIK",1
+"Greene","LEAF","US Senator",NA,"Democrat","O'KEEFE, JAMES",3
+"Greene","LEAF","US Senator",NA,"Democrat","STARR, CATHERINE M.",6
+"Greene","LEAKESVILLE","U.S. Representative",4,"Democrat","TAYLOR, GENE",55
+"Greene","LEAKESVILLE","US Senator",NA,"Democrat","BOWLIN, BILL",8
+"Greene","LEAKESVILLE","US Senator",NA,"Democrat","FLEMING, ERIK",8
+"Greene","LEAKESVILLE","US Senator",NA,"Democrat","O'KEEFE, JAMES",13
+"Greene","LEAKESVILLE","US Senator",NA,"Democrat","STARR, CATHERINE M.",10
+"Greene","MAPLES","U.S. Representative",4,"Democrat","TAYLOR, GENE",19
+"Greene","MAPLES","US Senator",NA,"Democrat","BOWLIN, BILL",5
+"Greene","MAPLES","US Senator",NA,"Democrat","FLEMING, ERIK",3
+"Greene","MAPLES","US Senator",NA,"Democrat","O'KEEFE, JAMES",5
+"Greene","MAPLES","US Senator",NA,"Democrat","STARR, CATHERINE M.",6
+"Greene","MCCLAIN","U.S. Representative",4,"Democrat","TAYLOR, GENE",16
+"Greene","MCCLAIN","US Senator",NA,"Democrat","BOWLIN, BILL",1
+"Greene","MCCLAIN","US Senator",NA,"Democrat","FLEMING, ERIK",9
+"Greene","MCCLAIN","US Senator",NA,"Democrat","O'KEEFE, JAMES",4
+"Greene","MCCLAIN","US Senator",NA,"Democrat","STARR, CATHERINE M.",1
+"Greene","MONUMENT","U.S. Representative",4,"Democrat","TAYLOR, GENE",15
+"Greene","MONUMENT","US Senator",NA,"Democrat","BOWLIN, BILL",3
+"Greene","MONUMENT","US Senator",NA,"Democrat","FLEMING, ERIK",5
+"Greene","MONUMENT","US Senator",NA,"Democrat","O'KEEFE, JAMES",4
+"Greene","MONUMENT","US Senator",NA,"Democrat","STARR, CATHERINE M.",0
+"Greene","MUTUAL RIGHTS","U.S. Representative",4,"Democrat","TAYLOR, GENE",16
+"Greene","MUTUAL RIGHTS","US Senator",NA,"Democrat","BOWLIN, BILL",1
+"Greene","MUTUAL RIGHTS","US Senator",NA,"Democrat","FLEMING, ERIK",5
+"Greene","MUTUAL RIGHTS","US Senator",NA,"Democrat","O'KEEFE, JAMES",5
+"Greene","MUTUAL RIGHTS","US Senator",NA,"Democrat","STARR, CATHERINE M.",5
+"Greene","NORTH LEAKESVILLE","U.S. Representative",4,"Democrat","TAYLOR, GENE",9
+"Greene","NORTH LEAKESVILLE","US Senator",NA,"Democrat","BOWLIN, BILL",1
+"Greene","NORTH LEAKESVILLE","US Senator",NA,"Democrat","FLEMING, ERIK",3
+"Greene","NORTH LEAKESVILLE","US Senator",NA,"Democrat","O'KEEFE, JAMES",5
+"Greene","NORTH LEAKESVILLE","US Senator",NA,"Democrat","STARR, CATHERINE M.",1
+"Greene","PIAVE","U.S. Representative",4,"Democrat","TAYLOR, GENE",10
+"Greene","PIAVE","US Senator",NA,"Democrat","BOWLIN, BILL",3
+"Greene","PIAVE","US Senator",NA,"Democrat","FLEMING, ERIK",4
+"Greene","PIAVE","US Senator",NA,"Democrat","O'KEEFE, JAMES",2
+"Greene","PIAVE","US Senator",NA,"Democrat","STARR, CATHERINE M.",2
+"Greene","PURGED VOTER","U.S. Representative",4,"Democrat","TAYLOR, GENE",0
+"Greene","PURGED VOTER","US Senator",NA,"Democrat","BOWLIN, BILL",0
+"Greene","PURGED VOTER","US Senator",NA,"Democrat","FLEMING, ERIK",0
+"Greene","PURGED VOTER","US Senator",NA,"Democrat","O'KEEFE, JAMES",0
+"Greene","PURGED VOTER","US Senator",NA,"Democrat","STARR, CATHERINE M.",NA

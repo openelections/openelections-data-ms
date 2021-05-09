@@ -1,148 +1,148 @@
-"","county","precinct","office","district","party","candidate","votes"
-"1","Attala","APONAUG","U.S. Representative",2,"Democrat","BENFORD, DOROTHY",2
-"2","Attala","APONAUG","U.S. Representative",2,"Democrat","ESPY, CHUCK",33
-"3","Attala","APONAUG","U.S. Representative",2,"Democrat","THOMPSON, BENNIE G.",2
-"4","Attala","APONAUG","US Senator",NA,"Democrat","BOWLIN, BILL",7
-"5","Attala","APONAUG","US Senator",NA,"Democrat","FLEMING, ERIK",15
-"6","Attala","APONAUG","US Senator",NA,"Democrat","O'KEEFE, JAMES",10
-"7","Attala","APONAUG","US Senator",NA,"Democrat","STARR, CATHERINE M.",1
-"8","Attala","BEREA","U.S. Representative",2,"Democrat","BENFORD, DOROTHY",2
-"9","Attala","BEREA","U.S. Representative",2,"Democrat","ESPY, CHUCK",10
-"10","Attala","BEREA","U.S. Representative",2,"Democrat","THOMPSON, BENNIE G.",3
-"11","Attala","BEREA","US Senator",NA,"Democrat","BOWLIN, BILL",3
-"12","Attala","BEREA","US Senator",NA,"Democrat","FLEMING, ERIK",7
-"13","Attala","BEREA","US Senator",NA,"Democrat","O'KEEFE, JAMES",4
-"14","Attala","BEREA","US Senator",NA,"Democrat","STARR, CATHERINE M.",1
-"15","Attala","CARMACK","U.S. Representative",2,"Democrat","BENFORD, DOROTHY",1
-"16","Attala","CARMACK","U.S. Representative",2,"Democrat","ESPY, CHUCK",39
-"17","Attala","CARMACK","U.S. Representative",2,"Democrat","THOMPSON, BENNIE G.",5
-"18","Attala","CARMACK","US Senator",NA,"Democrat","BOWLIN, BILL",12
-"19","Attala","CARMACK","US Senator",NA,"Democrat","FLEMING, ERIK",8
-"20","Attala","CARMACK","US Senator",NA,"Democrat","O'KEEFE, JAMES",13
-"21","Attala","CARMACK","US Senator",NA,"Democrat","STARR, CATHERINE M.",6
-"22","Attala","EAST","U.S. Representative",2,"Democrat","BENFORD, DOROTHY",2
-"23","Attala","EAST","U.S. Representative",2,"Democrat","ESPY, CHUCK",173
-"24","Attala","EAST","U.S. Representative",2,"Democrat","THOMPSON, BENNIE G.",25
-"25","Attala","EAST","US Senator",NA,"Democrat","BOWLIN, BILL",58
-"26","Attala","EAST","US Senator",NA,"Democrat","FLEMING, ERIK",34
-"27","Attala","EAST","US Senator",NA,"Democrat","O'KEEFE, JAMES",36
-"28","Attala","EAST","US Senator",NA,"Democrat","STARR, CATHERINE M.",9
-"29","Attala","ETHEL","U.S. Representative",2,"Democrat","BENFORD, DOROTHY",3
-"30","Attala","ETHEL","U.S. Representative",2,"Democrat","ESPY, CHUCK",35
-"31","Attala","ETHEL","U.S. Representative",2,"Democrat","THOMPSON, BENNIE G.",38
-"32","Attala","ETHEL","US Senator",NA,"Democrat","BOWLIN, BILL",12
-"33","Attala","ETHEL","US Senator",NA,"Democrat","FLEMING, ERIK",23
-"34","Attala","ETHEL","US Senator",NA,"Democrat","O'KEEFE, JAMES",9
-"35","Attala","ETHEL","US Senator",NA,"Democrat","STARR, CATHERINE M.",9
-"36","Attala","HESTERVILLE","U.S. Representative",2,"Democrat","BENFORD, DOROTHY",0
-"37","Attala","HESTERVILLE","U.S. Representative",2,"Democrat","ESPY, CHUCK",22
-"38","Attala","HESTERVILLE","U.S. Representative",2,"Democrat","THOMPSON, BENNIE G.",9
-"39","Attala","HESTERVILLE","US Senator",NA,"Democrat","BOWLIN, BILL",12
-"40","Attala","HESTERVILLE","US Senator",NA,"Democrat","FLEMING, ERIK",10
-"41","Attala","HESTERVILLE","US Senator",NA,"Democrat","O'KEEFE, JAMES",2
-"42","Attala","HESTERVILLE","US Senator",NA,"Democrat","STARR, CATHERINE M.",4
-"43","Attala","LIBERTY CHAPEL","U.S. Representative",2,"Democrat","BENFORD, DOROTHY",0
-"44","Attala","LIBERTY CHAPEL","U.S. Representative",2,"Democrat","ESPY, CHUCK",18
-"45","Attala","LIBERTY CHAPEL","U.S. Representative",2,"Democrat","THOMPSON, BENNIE G.",21
-"46","Attala","LIBERTY CHAPEL","US Senator",NA,"Democrat","BOWLIN, BILL",5
-"47","Attala","LIBERTY CHAPEL","US Senator",NA,"Democrat","FLEMING, ERIK",21
-"48","Attala","LIBERTY CHAPEL","US Senator",NA,"Democrat","O'KEEFE, JAMES",4
-"49","Attala","LIBERTY CHAPEL","US Senator",NA,"Democrat","STARR, CATHERINE M.",4
-"50","Attala","MCADAMS","U.S. Representative",2,"Democrat","BENFORD, DOROTHY",1
-"51","Attala","MCADAMS","U.S. Representative",2,"Democrat","ESPY, CHUCK",22
-"52","Attala","MCADAMS","U.S. Representative",2,"Democrat","THOMPSON, BENNIE G.",67
-"53","Attala","MCADAMS","US Senator",NA,"Democrat","BOWLIN, BILL",14
-"54","Attala","MCADAMS","US Senator",NA,"Democrat","FLEMING, ERIK",59
-"55","Attala","MCADAMS","US Senator",NA,"Democrat","O'KEEFE, JAMES",13
-"56","Attala","MCADAMS","US Senator",NA,"Democrat","STARR, CATHERINE M.",2
-"57","Attala","MCCOOL","U.S. Representative",2,"Democrat","BENFORD, DOROTHY",2
-"58","Attala","MCCOOL","U.S. Representative",2,"Democrat","ESPY, CHUCK",25
-"59","Attala","MCCOOL","U.S. Representative",2,"Democrat","THOMPSON, BENNIE G.",41
-"60","Attala","MCCOOL","US Senator",NA,"Democrat","BOWLIN, BILL",13
-"61","Attala","MCCOOL","US Senator",NA,"Democrat","FLEMING, ERIK",27
-"62","Attala","MCCOOL","US Senator",NA,"Democrat","O'KEEFE, JAMES",12
-"63","Attala","MCCOOL","US Senator",NA,"Democrat","STARR, CATHERINE M.",13
-"64","Attala","NEWPORT","U.S. Representative",2,"Democrat","BENFORD, DOROTHY",1
-"65","Attala","NEWPORT","U.S. Representative",2,"Democrat","ESPY, CHUCK",41
-"66","Attala","NEWPORT","U.S. Representative",2,"Democrat","THOMPSON, BENNIE G.",49
-"67","Attala","NEWPORT","US Senator",NA,"Democrat","BOWLIN, BILL",22
-"68","Attala","NEWPORT","US Senator",NA,"Democrat","FLEMING, ERIK",50
-"69","Attala","NEWPORT","US Senator",NA,"Democrat","O'KEEFE, JAMES",9
-"70","Attala","NEWPORT","US Senator",NA,"Democrat","STARR, CATHERINE M.",5
-"71","Attala","NORTH CENTRAL","U.S. Representative",2,"Democrat","BENFORD, DOROTHY",0
-"72","Attala","NORTH CENTRAL","U.S. Representative",2,"Democrat","ESPY, CHUCK",61
-"73","Attala","NORTH CENTRAL","U.S. Representative",2,"Democrat","THOMPSON, BENNIE G.",15
-"74","Attala","NORTH CENTRAL","US Senator",NA,"Democrat","BOWLIN, BILL",11
-"75","Attala","NORTH CENTRAL","US Senator",NA,"Democrat","FLEMING, ERIK",16
-"76","Attala","NORTH CENTRAL","US Senator",NA,"Democrat","O'KEEFE, JAMES",35
-"77","Attala","NORTH CENTRAL","US Senator",NA,"Democrat","STARR, CATHERINE M.",5
-"78","Attala","NORTH EAST","U.S. Representative",2,"Democrat","BENFORD, DOROTHY",1
-"79","Attala","NORTH EAST","U.S. Representative",2,"Democrat","ESPY, CHUCK",74
-"80","Attala","NORTH EAST","U.S. Representative",2,"Democrat","THOMPSON, BENNIE G.",237
-"81","Attala","NORTH EAST","US Senator",NA,"Democrat","BOWLIN, BILL",46
-"82","Attala","NORTH EAST","US Senator",NA,"Democrat","FLEMING, ERIK",196
-"83","Attala","NORTH EAST","US Senator",NA,"Democrat","O'KEEFE, JAMES",26
-"84","Attala","NORTH EAST","US Senator",NA,"Democrat","STARR, CATHERINE M.",23
-"85","Attala","NORTH WEST","U.S. Representative",2,"Democrat","BENFORD, DOROTHY",1
-"86","Attala","NORTH WEST","U.S. Representative",2,"Democrat","ESPY, CHUCK",54
-"87","Attala","NORTH WEST","U.S. Representative",2,"Democrat","THOMPSON, BENNIE G.",51
-"88","Attala","NORTH WEST","US Senator",NA,"Democrat","BOWLIN, BILL",21
-"89","Attala","NORTH WEST","US Senator",NA,"Democrat","FLEMING, ERIK",44
-"90","Attala","NORTH WEST","US Senator",NA,"Democrat","O'KEEFE, JAMES",20
-"91","Attala","NORTH WEST","US Senator",NA,"Democrat","STARR, CATHERINE M.",13
-"92","Attala","POSSUMNECK","U.S. Representative",2,"Democrat","BENFORD, DOROTHY",0
-"93","Attala","POSSUMNECK","U.S. Representative",2,"Democrat","ESPY, CHUCK",35
-"94","Attala","POSSUMNECK","U.S. Representative",2,"Democrat","THOMPSON, BENNIE G.",45
-"95","Attala","POSSUMNECK","US Senator",NA,"Democrat","BOWLIN, BILL",29
-"96","Attala","POSSUMNECK","US Senator",NA,"Democrat","FLEMING, ERIK",26
-"97","Attala","POSSUMNECK","US Senator",NA,"Democrat","O'KEEFE, JAMES",8
-"98","Attala","POSSUMNECK","US Senator",NA,"Democrat","STARR, CATHERINE M.",3
-"99","Attala","PROVIDENCE","U.S. Representative",2,"Democrat","BENFORD, DOROTHY",1
-"100","Attala","PROVIDENCE","U.S. Representative",2,"Democrat","ESPY, CHUCK",28
-"101","Attala","PROVIDENCE","U.S. Representative",2,"Democrat","THOMPSON, BENNIE G.",9
-"102","Attala","PROVIDENCE","US Senator",NA,"Democrat","BOWLIN, BILL",8
-"103","Attala","PROVIDENCE","US Senator",NA,"Democrat","FLEMING, ERIK",6
-"104","Attala","PROVIDENCE","US Senator",NA,"Democrat","O'KEEFE, JAMES",13
-"105","Attala","PROVIDENCE","US Senator",NA,"Democrat","STARR, CATHERINE M.",5
-"106","Attala","PURGED VOTER","U.S. Representative",2,"Democrat","BENFORD, DOROTHY",0
-"107","Attala","PURGED VOTER","U.S. Representative",2,"Democrat","ESPY, CHUCK",0
-"108","Attala","PURGED VOTER","U.S. Representative",2,"Democrat","THOMPSON, BENNIE G.",0
-"109","Attala","PURGED VOTER","US Senator",NA,"Democrat","BOWLIN, BILL",0
-"110","Attala","PURGED VOTER","US Senator",NA,"Democrat","FLEMING, ERIK",0
-"111","Attala","PURGED VOTER","US Senator",NA,"Democrat","O'KEEFE, JAMES",0
-"112","Attala","PURGED VOTER","US Senator",NA,"Democrat","STARR, CATHERINE M.",0
-"113","Attala","SALLIS","U.S. Representative",2,"Democrat","BENFORD, DOROTHY",1
-"114","Attala","SALLIS","U.S. Representative",2,"Democrat","ESPY, CHUCK",92
-"115","Attala","SALLIS","U.S. Representative",2,"Democrat","THOMPSON, BENNIE G.",268
-"116","Attala","SALLIS","US Senator",NA,"Democrat","BOWLIN, BILL",49
-"117","Attala","SALLIS","US Senator",NA,"Democrat","FLEMING, ERIK",210
-"118","Attala","SALLIS","US Senator",NA,"Democrat","O'KEEFE, JAMES",31
-"119","Attala","SALLIS","US Senator",NA,"Democrat","STARR, CATHERINE M.",24
-"120","Attala","SOUTH WEST","U.S. Representative",2,"Democrat","BENFORD, DOROTHY",2
-"121","Attala","SOUTH WEST","U.S. Representative",2,"Democrat","ESPY, CHUCK",76
-"122","Attala","SOUTH WEST","U.S. Representative",2,"Democrat","THOMPSON, BENNIE G.",112
-"123","Attala","SOUTH WEST","US Senator",NA,"Democrat","BOWLIN, BILL",23
-"124","Attala","SOUTH WEST","US Senator",NA,"Democrat","FLEMING, ERIK",92
-"125","Attala","SOUTH WEST","US Senator",NA,"Democrat","O'KEEFE, JAMES",27
-"126","Attala","SOUTH WEST","US Senator",NA,"Democrat","STARR, CATHERINE M.",23
-"127","Attala","THOMPSON","U.S. Representative",2,"Democrat","BENFORD, DOROTHY",0
-"128","Attala","THOMPSON","U.S. Representative",2,"Democrat","ESPY, CHUCK",19
-"129","Attala","THOMPSON","U.S. Representative",2,"Democrat","THOMPSON, BENNIE G.",6
-"130","Attala","THOMPSON","US Senator",NA,"Democrat","BOWLIN, BILL",15
-"131","Attala","THOMPSON","US Senator",NA,"Democrat","FLEMING, ERIK",5
-"132","Attala","THOMPSON","US Senator",NA,"Democrat","O'KEEFE, JAMES",4
-"133","Attala","THOMPSON","US Senator",NA,"Democrat","STARR, CATHERINE M.",1
-"134","Attala","WILLIAMSVILLE","U.S. Representative",2,"Democrat","BENFORD, DOROTHY",2
-"135","Attala","WILLIAMSVILLE","U.S. Representative",2,"Democrat","ESPY, CHUCK",162
-"136","Attala","WILLIAMSVILLE","U.S. Representative",2,"Democrat","THOMPSON, BENNIE G.",106
-"137","Attala","WILLIAMSVILLE","US Senator",NA,"Democrat","BOWLIN, BILL",66
-"138","Attala","WILLIAMSVILLE","US Senator",NA,"Democrat","FLEMING, ERIK",74
-"139","Attala","WILLIAMSVILLE","US Senator",NA,"Democrat","O'KEEFE, JAMES",48
-"140","Attala","WILLIAMSVILLE","US Senator",NA,"Democrat","STARR, CATHERINE M.",25
-"141","Attala","ZAMA","U.S. Representative",2,"Democrat","BENFORD, DOROTHY",0
-"142","Attala","ZAMA","U.S. Representative",2,"Democrat","ESPY, CHUCK",37
-"143","Attala","ZAMA","U.S. Representative",2,"Democrat","THOMPSON, BENNIE G.",31
-"144","Attala","ZAMA","US Senator",NA,"Democrat","BOWLIN, BILL",10
-"145","Attala","ZAMA","US Senator",NA,"Democrat","FLEMING, ERIK",28
-"146","Attala","ZAMA","US Senator",NA,"Democrat","O'KEEFE, JAMES",11
-"147","Attala","ZAMA","US Senator",NA,"Democrat","STARR, CATHERINE M.",7
+"county","precinct","office","district","party","candidate","votes"
+"Attala","APONAUG","U.S. Representative",2,"Democrat","BENFORD, DOROTHY",2
+"Attala","APONAUG","U.S. Representative",2,"Democrat","ESPY, CHUCK",33
+"Attala","APONAUG","U.S. Representative",2,"Democrat","THOMPSON, BENNIE G.",2
+"Attala","APONAUG","US Senator",NA,"Democrat","BOWLIN, BILL",7
+"Attala","APONAUG","US Senator",NA,"Democrat","FLEMING, ERIK",15
+"Attala","APONAUG","US Senator",NA,"Democrat","O'KEEFE, JAMES",10
+"Attala","APONAUG","US Senator",NA,"Democrat","STARR, CATHERINE M.",1
+"Attala","BEREA","U.S. Representative",2,"Democrat","BENFORD, DOROTHY",2
+"Attala","BEREA","U.S. Representative",2,"Democrat","ESPY, CHUCK",10
+"Attala","BEREA","U.S. Representative",2,"Democrat","THOMPSON, BENNIE G.",3
+"Attala","BEREA","US Senator",NA,"Democrat","BOWLIN, BILL",3
+"Attala","BEREA","US Senator",NA,"Democrat","FLEMING, ERIK",7
+"Attala","BEREA","US Senator",NA,"Democrat","O'KEEFE, JAMES",4
+"Attala","BEREA","US Senator",NA,"Democrat","STARR, CATHERINE M.",1
+"Attala","CARMACK","U.S. Representative",2,"Democrat","BENFORD, DOROTHY",1
+"Attala","CARMACK","U.S. Representative",2,"Democrat","ESPY, CHUCK",39
+"Attala","CARMACK","U.S. Representative",2,"Democrat","THOMPSON, BENNIE G.",5
+"Attala","CARMACK","US Senator",NA,"Democrat","BOWLIN, BILL",12
+"Attala","CARMACK","US Senator",NA,"Democrat","FLEMING, ERIK",8
+"Attala","CARMACK","US Senator",NA,"Democrat","O'KEEFE, JAMES",13
+"Attala","CARMACK","US Senator",NA,"Democrat","STARR, CATHERINE M.",6
+"Attala","EAST","U.S. Representative",2,"Democrat","BENFORD, DOROTHY",2
+"Attala","EAST","U.S. Representative",2,"Democrat","ESPY, CHUCK",173
+"Attala","EAST","U.S. Representative",2,"Democrat","THOMPSON, BENNIE G.",25
+"Attala","EAST","US Senator",NA,"Democrat","BOWLIN, BILL",58
+"Attala","EAST","US Senator",NA,"Democrat","FLEMING, ERIK",34
+"Attala","EAST","US Senator",NA,"Democrat","O'KEEFE, JAMES",36
+"Attala","EAST","US Senator",NA,"Democrat","STARR, CATHERINE M.",9
+"Attala","ETHEL","U.S. Representative",2,"Democrat","BENFORD, DOROTHY",3
+"Attala","ETHEL","U.S. Representative",2,"Democrat","ESPY, CHUCK",35
+"Attala","ETHEL","U.S. Representative",2,"Democrat","THOMPSON, BENNIE G.",38
+"Attala","ETHEL","US Senator",NA,"Democrat","BOWLIN, BILL",12
+"Attala","ETHEL","US Senator",NA,"Democrat","FLEMING, ERIK",23
+"Attala","ETHEL","US Senator",NA,"Democrat","O'KEEFE, JAMES",9
+"Attala","ETHEL","US Senator",NA,"Democrat","STARR, CATHERINE M.",9
+"Attala","HESTERVILLE","U.S. Representative",2,"Democrat","BENFORD, DOROTHY",0
+"Attala","HESTERVILLE","U.S. Representative",2,"Democrat","ESPY, CHUCK",22
+"Attala","HESTERVILLE","U.S. Representative",2,"Democrat","THOMPSON, BENNIE G.",9
+"Attala","HESTERVILLE","US Senator",NA,"Democrat","BOWLIN, BILL",12
+"Attala","HESTERVILLE","US Senator",NA,"Democrat","FLEMING, ERIK",10
+"Attala","HESTERVILLE","US Senator",NA,"Democrat","O'KEEFE, JAMES",2
+"Attala","HESTERVILLE","US Senator",NA,"Democrat","STARR, CATHERINE M.",4
+"Attala","LIBERTY CHAPEL","U.S. Representative",2,"Democrat","BENFORD, DOROTHY",0
+"Attala","LIBERTY CHAPEL","U.S. Representative",2,"Democrat","ESPY, CHUCK",18
+"Attala","LIBERTY CHAPEL","U.S. Representative",2,"Democrat","THOMPSON, BENNIE G.",21
+"Attala","LIBERTY CHAPEL","US Senator",NA,"Democrat","BOWLIN, BILL",5
+"Attala","LIBERTY CHAPEL","US Senator",NA,"Democrat","FLEMING, ERIK",21
+"Attala","LIBERTY CHAPEL","US Senator",NA,"Democrat","O'KEEFE, JAMES",4
+"Attala","LIBERTY CHAPEL","US Senator",NA,"Democrat","STARR, CATHERINE M.",4
+"Attala","MCADAMS","U.S. Representative",2,"Democrat","BENFORD, DOROTHY",1
+"Attala","MCADAMS","U.S. Representative",2,"Democrat","ESPY, CHUCK",22
+"Attala","MCADAMS","U.S. Representative",2,"Democrat","THOMPSON, BENNIE G.",67
+"Attala","MCADAMS","US Senator",NA,"Democrat","BOWLIN, BILL",14
+"Attala","MCADAMS","US Senator",NA,"Democrat","FLEMING, ERIK",59
+"Attala","MCADAMS","US Senator",NA,"Democrat","O'KEEFE, JAMES",13
+"Attala","MCADAMS","US Senator",NA,"Democrat","STARR, CATHERINE M.",2
+"Attala","MCCOOL","U.S. Representative",2,"Democrat","BENFORD, DOROTHY",2
+"Attala","MCCOOL","U.S. Representative",2,"Democrat","ESPY, CHUCK",25
+"Attala","MCCOOL","U.S. Representative",2,"Democrat","THOMPSON, BENNIE G.",41
+"Attala","MCCOOL","US Senator",NA,"Democrat","BOWLIN, BILL",13
+"Attala","MCCOOL","US Senator",NA,"Democrat","FLEMING, ERIK",27
+"Attala","MCCOOL","US Senator",NA,"Democrat","O'KEEFE, JAMES",12
+"Attala","MCCOOL","US Senator",NA,"Democrat","STARR, CATHERINE M.",13
+"Attala","NEWPORT","U.S. Representative",2,"Democrat","BENFORD, DOROTHY",1
+"Attala","NEWPORT","U.S. Representative",2,"Democrat","ESPY, CHUCK",41
+"Attala","NEWPORT","U.S. Representative",2,"Democrat","THOMPSON, BENNIE G.",49
+"Attala","NEWPORT","US Senator",NA,"Democrat","BOWLIN, BILL",22
+"Attala","NEWPORT","US Senator",NA,"Democrat","FLEMING, ERIK",50
+"Attala","NEWPORT","US Senator",NA,"Democrat","O'KEEFE, JAMES",9
+"Attala","NEWPORT","US Senator",NA,"Democrat","STARR, CATHERINE M.",5
+"Attala","NORTH CENTRAL","U.S. Representative",2,"Democrat","BENFORD, DOROTHY",0
+"Attala","NORTH CENTRAL","U.S. Representative",2,"Democrat","ESPY, CHUCK",61
+"Attala","NORTH CENTRAL","U.S. Representative",2,"Democrat","THOMPSON, BENNIE G.",15
+"Attala","NORTH CENTRAL","US Senator",NA,"Democrat","BOWLIN, BILL",11
+"Attala","NORTH CENTRAL","US Senator",NA,"Democrat","FLEMING, ERIK",16
+"Attala","NORTH CENTRAL","US Senator",NA,"Democrat","O'KEEFE, JAMES",35
+"Attala","NORTH CENTRAL","US Senator",NA,"Democrat","STARR, CATHERINE M.",5
+"Attala","NORTH EAST","U.S. Representative",2,"Democrat","BENFORD, DOROTHY",1
+"Attala","NORTH EAST","U.S. Representative",2,"Democrat","ESPY, CHUCK",74
+"Attala","NORTH EAST","U.S. Representative",2,"Democrat","THOMPSON, BENNIE G.",237
+"Attala","NORTH EAST","US Senator",NA,"Democrat","BOWLIN, BILL",46
+"Attala","NORTH EAST","US Senator",NA,"Democrat","FLEMING, ERIK",196
+"Attala","NORTH EAST","US Senator",NA,"Democrat","O'KEEFE, JAMES",26
+"Attala","NORTH EAST","US Senator",NA,"Democrat","STARR, CATHERINE M.",23
+"Attala","NORTH WEST","U.S. Representative",2,"Democrat","BENFORD, DOROTHY",1
+"Attala","NORTH WEST","U.S. Representative",2,"Democrat","ESPY, CHUCK",54
+"Attala","NORTH WEST","U.S. Representative",2,"Democrat","THOMPSON, BENNIE G.",51
+"Attala","NORTH WEST","US Senator",NA,"Democrat","BOWLIN, BILL",21
+"Attala","NORTH WEST","US Senator",NA,"Democrat","FLEMING, ERIK",44
+"Attala","NORTH WEST","US Senator",NA,"Democrat","O'KEEFE, JAMES",20
+"Attala","NORTH WEST","US Senator",NA,"Democrat","STARR, CATHERINE M.",13
+"Attala","POSSUMNECK","U.S. Representative",2,"Democrat","BENFORD, DOROTHY",0
+"Attala","POSSUMNECK","U.S. Representative",2,"Democrat","ESPY, CHUCK",35
+"Attala","POSSUMNECK","U.S. Representative",2,"Democrat","THOMPSON, BENNIE G.",45
+"Attala","POSSUMNECK","US Senator",NA,"Democrat","BOWLIN, BILL",29
+"Attala","POSSUMNECK","US Senator",NA,"Democrat","FLEMING, ERIK",26
+"Attala","POSSUMNECK","US Senator",NA,"Democrat","O'KEEFE, JAMES",8
+"Attala","POSSUMNECK","US Senator",NA,"Democrat","STARR, CATHERINE M.",3
+"Attala","PROVIDENCE","U.S. Representative",2,"Democrat","BENFORD, DOROTHY",1
+"Attala","PROVIDENCE","U.S. Representative",2,"Democrat","ESPY, CHUCK",28
+"Attala","PROVIDENCE","U.S. Representative",2,"Democrat","THOMPSON, BENNIE G.",9
+"Attala","PROVIDENCE","US Senator",NA,"Democrat","BOWLIN, BILL",8
+"Attala","PROVIDENCE","US Senator",NA,"Democrat","FLEMING, ERIK",6
+"Attala","PROVIDENCE","US Senator",NA,"Democrat","O'KEEFE, JAMES",13
+"Attala","PROVIDENCE","US Senator",NA,"Democrat","STARR, CATHERINE M.",5
+"Attala","PURGED VOTER","U.S. Representative",2,"Democrat","BENFORD, DOROTHY",0
+"Attala","PURGED VOTER","U.S. Representative",2,"Democrat","ESPY, CHUCK",0
+"Attala","PURGED VOTER","U.S. Representative",2,"Democrat","THOMPSON, BENNIE G.",0
+"Attala","PURGED VOTER","US Senator",NA,"Democrat","BOWLIN, BILL",0
+"Attala","PURGED VOTER","US Senator",NA,"Democrat","FLEMING, ERIK",0
+"Attala","PURGED VOTER","US Senator",NA,"Democrat","O'KEEFE, JAMES",0
+"Attala","PURGED VOTER","US Senator",NA,"Democrat","STARR, CATHERINE M.",0
+"Attala","SALLIS","U.S. Representative",2,"Democrat","BENFORD, DOROTHY",1
+"Attala","SALLIS","U.S. Representative",2,"Democrat","ESPY, CHUCK",92
+"Attala","SALLIS","U.S. Representative",2,"Democrat","THOMPSON, BENNIE G.",268
+"Attala","SALLIS","US Senator",NA,"Democrat","BOWLIN, BILL",49
+"Attala","SALLIS","US Senator",NA,"Democrat","FLEMING, ERIK",210
+"Attala","SALLIS","US Senator",NA,"Democrat","O'KEEFE, JAMES",31
+"Attala","SALLIS","US Senator",NA,"Democrat","STARR, CATHERINE M.",24
+"Attala","SOUTH WEST","U.S. Representative",2,"Democrat","BENFORD, DOROTHY",2
+"Attala","SOUTH WEST","U.S. Representative",2,"Democrat","ESPY, CHUCK",76
+"Attala","SOUTH WEST","U.S. Representative",2,"Democrat","THOMPSON, BENNIE G.",112
+"Attala","SOUTH WEST","US Senator",NA,"Democrat","BOWLIN, BILL",23
+"Attala","SOUTH WEST","US Senator",NA,"Democrat","FLEMING, ERIK",92
+"Attala","SOUTH WEST","US Senator",NA,"Democrat","O'KEEFE, JAMES",27
+"Attala","SOUTH WEST","US Senator",NA,"Democrat","STARR, CATHERINE M.",23
+"Attala","THOMPSON","U.S. Representative",2,"Democrat","BENFORD, DOROTHY",0
+"Attala","THOMPSON","U.S. Representative",2,"Democrat","ESPY, CHUCK",19
+"Attala","THOMPSON","U.S. Representative",2,"Democrat","THOMPSON, BENNIE G.",6
+"Attala","THOMPSON","US Senator",NA,"Democrat","BOWLIN, BILL",15
+"Attala","THOMPSON","US Senator",NA,"Democrat","FLEMING, ERIK",5
+"Attala","THOMPSON","US Senator",NA,"Democrat","O'KEEFE, JAMES",4
+"Attala","THOMPSON","US Senator",NA,"Democrat","STARR, CATHERINE M.",1
+"Attala","WILLIAMSVILLE","U.S. Representative",2,"Democrat","BENFORD, DOROTHY",2
+"Attala","WILLIAMSVILLE","U.S. Representative",2,"Democrat","ESPY, CHUCK",162
+"Attala","WILLIAMSVILLE","U.S. Representative",2,"Democrat","THOMPSON, BENNIE G.",106
+"Attala","WILLIAMSVILLE","US Senator",NA,"Democrat","BOWLIN, BILL",66
+"Attala","WILLIAMSVILLE","US Senator",NA,"Democrat","FLEMING, ERIK",74
+"Attala","WILLIAMSVILLE","US Senator",NA,"Democrat","O'KEEFE, JAMES",48
+"Attala","WILLIAMSVILLE","US Senator",NA,"Democrat","STARR, CATHERINE M.",25
+"Attala","ZAMA","U.S. Representative",2,"Democrat","BENFORD, DOROTHY",0
+"Attala","ZAMA","U.S. Representative",2,"Democrat","ESPY, CHUCK",37
+"Attala","ZAMA","U.S. Representative",2,"Democrat","THOMPSON, BENNIE G.",31
+"Attala","ZAMA","US Senator",NA,"Democrat","BOWLIN, BILL",10
+"Attala","ZAMA","US Senator",NA,"Democrat","FLEMING, ERIK",28
+"Attala","ZAMA","US Senator",NA,"Democrat","O'KEEFE, JAMES",11
+"Attala","ZAMA","US Senator",NA,"Democrat","STARR, CATHERINE M.",7

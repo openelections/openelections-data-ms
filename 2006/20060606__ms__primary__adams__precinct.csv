@@ -1,85 +1,85 @@
-"","county","precinct","office","district","party","candidate","votes"
-"1","Adams","DIST. 1, BELLEMONT","US Senator",NA,"Democrat","BOWLIN, BILL",8
-"2","Adams","DIST. 1, BELLEMONT","US Senator",NA,"Democrat","FLEMING, ERIK",15
-"3","Adams","DIST. 1, BELLEMONT","US Senator",NA,"Democrat","O'KEEFE, JAMES",13
-"4","Adams","DIST. 1, BELLEMONT","US Senator",NA,"Democrat","STARR, CATHERINE M.",6
-"5","Adams","DIST. 1, BY-PASS FIRE","US Senator",NA,"Democrat","BOWLIN, BILL",8
-"6","Adams","DIST. 1, BY-PASS FIRE","US Senator",NA,"Democrat","FLEMING, ERIK",29
-"7","Adams","DIST. 1, BY-PASS FIRE","US Senator",NA,"Democrat","O'KEEFE, JAMES",6
-"8","Adams","DIST. 1, BY-PASS FIRE","US Senator",NA,"Democrat","STARR, CATHERINE M.",13
-"9","Adams","DIST. 1, COURTHOUSE","US Senator",NA,"Democrat","BOWLIN, BILL",3
-"10","Adams","DIST. 1, COURTHOUSE","US Senator",NA,"Democrat","FLEMING, ERIK",3
-"11","Adams","DIST. 1, COURTHOUSE","US Senator",NA,"Democrat","O'KEEFE, JAMES",14
-"12","Adams","DIST. 1, COURTHOUSE","US Senator",NA,"Democrat","STARR, CATHERINE M.",6
-"13","Adams","DIST. 2, BEAU PRE","US Senator",NA,"Democrat","BOWLIN, BILL",3
-"14","Adams","DIST. 2, BEAU PRE","US Senator",NA,"Democrat","FLEMING, ERIK",12
-"15","Adams","DIST. 2, BEAU PRE","US Senator",NA,"Democrat","O'KEEFE, JAMES",11
-"16","Adams","DIST. 2, BEAU PRE","US Senator",NA,"Democrat","STARR, CATHERINE M.",8
-"17","Adams","DIST. 2, DUNCAN PARK","US Senator",NA,"Democrat","BOWLIN, BILL",6
-"18","Adams","DIST. 2, DUNCAN PARK","US Senator",NA,"Democrat","FLEMING, ERIK",10
-"19","Adams","DIST. 2, DUNCAN PARK","US Senator",NA,"Democrat","O'KEEFE, JAMES",3
-"20","Adams","DIST. 2, DUNCAN PARK","US Senator",NA,"Democrat","STARR, CATHERINE M.",3
-"21","Adams","DIST. 2, KINGSTON","US Senator",NA,"Democrat","BOWLIN, BILL",2
-"22","Adams","DIST. 2, KINGSTON","US Senator",NA,"Democrat","FLEMING, ERIK",6
-"23","Adams","DIST. 2, KINGSTON","US Senator",NA,"Democrat","O'KEEFE, JAMES",10
-"24","Adams","DIST. 2, KINGSTON","US Senator",NA,"Democrat","STARR, CATHERINE M.",5
-"25","Adams","DIST. 2, LIBERTY PARK","US Senator",NA,"Democrat","BOWLIN, BILL",2
-"26","Adams","DIST. 2, LIBERTY PARK","US Senator",NA,"Democrat","FLEMING, ERIK",4
-"27","Adams","DIST. 2, LIBERTY PARK","US Senator",NA,"Democrat","O'KEEFE, JAMES",1
-"28","Adams","DIST. 2, LIBERTY PARK","US Senator",NA,"Democrat","STARR, CATHERINE M.",1
-"29","Adams","DIST. 3, CONCORD","US Senator",NA,"Democrat","BOWLIN, BILL",5
-"30","Adams","DIST. 3, CONCORD","US Senator",NA,"Democrat","FLEMING, ERIK",43
-"31","Adams","DIST. 3, CONCORD","US Senator",NA,"Democrat","O'KEEFE, JAMES",9
-"32","Adams","DIST. 3, CONCORD","US Senator",NA,"Democrat","STARR, CATHERINE M.",3
-"33","Adams","DIST. 3, MARYLAND HGTS.","US Senator",NA,"Democrat","BOWLIN, BILL",2
-"34","Adams","DIST. 3, MARYLAND HGTS.","US Senator",NA,"Democrat","FLEMING, ERIK",50
-"35","Adams","DIST. 3, MARYLAND HGTS.","US Senator",NA,"Democrat","O'KEEFE, JAMES",2
-"36","Adams","DIST. 3, MARYLAND HGTS.","US Senator",NA,"Democrat","STARR, CATHERINE M.",0
-"37","Adams","DIST. 3, NPS MULTI PURPOSE BLDG.","US Senator",NA,"Democrat","BOWLIN, BILL",0
-"38","Adams","DIST. 3, NPS MULTI PURPOSE BLDG.","US Senator",NA,"Democrat","FLEMING, ERIK",6
-"39","Adams","DIST. 3, NPS MULTI PURPOSE BLDG.","US Senator",NA,"Democrat","O'KEEFE, JAMES",5
-"40","Adams","DIST. 3, NPS MULTI PURPOSE BLDG.","US Senator",NA,"Democrat","STARR, CATHERINE M.",0
-"41","Adams","DIST. 3, PALESTINE","US Senator",NA,"Democrat","BOWLIN, BILL",3
-"42","Adams","DIST. 3, PALESTINE","US Senator",NA,"Democrat","FLEMING, ERIK",23
-"43","Adams","DIST. 3, PALESTINE","US Senator",NA,"Democrat","O'KEEFE, JAMES",26
-"44","Adams","DIST. 3, PALESTINE","US Senator",NA,"Democrat","STARR, CATHERINE M.",3
-"45","Adams","DIST. 4, CARPENTER","US Senator",NA,"Democrat","BOWLIN, BILL",0
-"46","Adams","DIST. 4, CARPENTER","US Senator",NA,"Democrat","FLEMING, ERIK",21
-"47","Adams","DIST. 4, CARPENTER","US Senator",NA,"Democrat","O'KEEFE, JAMES",0
-"48","Adams","DIST. 4, CARPENTER","US Senator",NA,"Democrat","STARR, CATHERINE M.",2
-"49","Adams","DIST. 4, MORGANTOWN","US Senator",NA,"Democrat","BOWLIN, BILL",6
-"50","Adams","DIST. 4, MORGANTOWN","US Senator",NA,"Democrat","FLEMING, ERIK",12
-"51","Adams","DIST. 4, MORGANTOWN","US Senator",NA,"Democrat","O'KEEFE, JAMES",10
-"52","Adams","DIST. 4, MORGANTOWN","US Senator",NA,"Democrat","STARR, CATHERINE M.",3
-"53","Adams","DIST. 4, NORTHSIDE","US Senator",NA,"Democrat","BOWLIN, BILL",4
-"54","Adams","DIST. 4, NORTHSIDE","US Senator",NA,"Democrat","FLEMING, ERIK",61
-"55","Adams","DIST. 4, NORTHSIDE","US Senator",NA,"Democrat","O'KEEFE, JAMES",1
-"56","Adams","DIST. 4, NORTHSIDE","US Senator",NA,"Democrat","STARR, CATHERINE M.",3
-"57","Adams","DIST. 4, PINE RIDGE","US Senator",NA,"Democrat","BOWLIN, BILL",2
-"58","Adams","DIST. 4, PINE RIDGE","US Senator",NA,"Democrat","FLEMING, ERIK",25
-"59","Adams","DIST. 4, PINE RIDGE","US Senator",NA,"Democrat","O'KEEFE, JAMES",6
-"60","Adams","DIST. 4, PINE RIDGE","US Senator",NA,"Democrat","STARR, CATHERINE M.",1
-"61","Adams","DIST. 4, THOMPSON","US Senator",NA,"Democrat","BOWLIN, BILL",8
-"62","Adams","DIST. 4, THOMPSON","US Senator",NA,"Democrat","FLEMING, ERIK",38
-"63","Adams","DIST. 4, THOMPSON","US Senator",NA,"Democrat","O'KEEFE, JAMES",12
-"64","Adams","DIST. 4, THOMPSON","US Senator",NA,"Democrat","STARR, CATHERINE M.",2
-"65","Adams","DIST. 5, AIRPORT","US Senator",NA,"Democrat","BOWLIN, BILL",0
-"66","Adams","DIST. 5, AIRPORT","US Senator",NA,"Democrat","FLEMING, ERIK",47
-"67","Adams","DIST. 5, AIRPORT","US Senator",NA,"Democrat","O'KEEFE, JAMES",5
-"68","Adams","DIST. 5, AIRPORT","US Senator",NA,"Democrat","STARR, CATHERINE M.",2
-"69","Adams","DIST. 5, FOSTER MOUND","US Senator",NA,"Democrat","BOWLIN, BILL",4
-"70","Adams","DIST. 5, FOSTER MOUND","US Senator",NA,"Democrat","FLEMING, ERIK",71
-"71","Adams","DIST. 5, FOSTER MOUND","US Senator",NA,"Democrat","O'KEEFE, JAMES",8
-"72","Adams","DIST. 5, FOSTER MOUND","US Senator",NA,"Democrat","STARR, CATHERINE M.",5
-"73","Adams","DIST. 5, OAKLAND","US Senator",NA,"Democrat","BOWLIN, BILL",11
-"74","Adams","DIST. 5, OAKLAND","US Senator",NA,"Democrat","FLEMING, ERIK",7
-"75","Adams","DIST. 5, OAKLAND","US Senator",NA,"Democrat","O'KEEFE, JAMES",11
-"76","Adams","DIST. 5, OAKLAND","US Senator",NA,"Democrat","STARR, CATHERINE M.",8
-"77","Adams","DIST. 5, WASHINGTON","US Senator",NA,"Democrat","BOWLIN, BILL",4
-"78","Adams","DIST. 5, WASHINGTON","US Senator",NA,"Democrat","FLEMING, ERIK",8
-"79","Adams","DIST. 5, WASHINGTON","US Senator",NA,"Democrat","O'KEEFE, JAMES",7
-"80","Adams","DIST. 5, WASHINGTON","US Senator",NA,"Democrat","STARR, CATHERINE M.",6
-"81","Adams","PURGED VOTER PRECINCT","US Senator",NA,"Democrat","BOWLIN, BILL",0
-"82","Adams","PURGED VOTER PRECINCT","US Senator",NA,"Democrat","FLEMING, ERIK",0
-"83","Adams","PURGED VOTER PRECINCT","US Senator",NA,"Democrat","O'KEEFE, JAMES",0
-"84","Adams","PURGED VOTER PRECINCT","US Senator",NA,"Democrat","STARR, CATHERINE M.",0
+"county","precinct","office","district","party","candidate","votes"
+"Adams","DIST. 1, BELLEMONT","US Senator",NA,"Democrat","BOWLIN, BILL",8
+"Adams","DIST. 1, BELLEMONT","US Senator",NA,"Democrat","FLEMING, ERIK",15
+"Adams","DIST. 1, BELLEMONT","US Senator",NA,"Democrat","O'KEEFE, JAMES",13
+"Adams","DIST. 1, BELLEMONT","US Senator",NA,"Democrat","STARR, CATHERINE M.",6
+"Adams","DIST. 1, BY-PASS FIRE","US Senator",NA,"Democrat","BOWLIN, BILL",8
+"Adams","DIST. 1, BY-PASS FIRE","US Senator",NA,"Democrat","FLEMING, ERIK",29
+"Adams","DIST. 1, BY-PASS FIRE","US Senator",NA,"Democrat","O'KEEFE, JAMES",6
+"Adams","DIST. 1, BY-PASS FIRE","US Senator",NA,"Democrat","STARR, CATHERINE M.",13
+"Adams","DIST. 1, COURTHOUSE","US Senator",NA,"Democrat","BOWLIN, BILL",3
+"Adams","DIST. 1, COURTHOUSE","US Senator",NA,"Democrat","FLEMING, ERIK",3
+"Adams","DIST. 1, COURTHOUSE","US Senator",NA,"Democrat","O'KEEFE, JAMES",14
+"Adams","DIST. 1, COURTHOUSE","US Senator",NA,"Democrat","STARR, CATHERINE M.",6
+"Adams","DIST. 2, BEAU PRE","US Senator",NA,"Democrat","BOWLIN, BILL",3
+"Adams","DIST. 2, BEAU PRE","US Senator",NA,"Democrat","FLEMING, ERIK",12
+"Adams","DIST. 2, BEAU PRE","US Senator",NA,"Democrat","O'KEEFE, JAMES",11
+"Adams","DIST. 2, BEAU PRE","US Senator",NA,"Democrat","STARR, CATHERINE M.",8
+"Adams","DIST. 2, DUNCAN PARK","US Senator",NA,"Democrat","BOWLIN, BILL",6
+"Adams","DIST. 2, DUNCAN PARK","US Senator",NA,"Democrat","FLEMING, ERIK",10
+"Adams","DIST. 2, DUNCAN PARK","US Senator",NA,"Democrat","O'KEEFE, JAMES",3
+"Adams","DIST. 2, DUNCAN PARK","US Senator",NA,"Democrat","STARR, CATHERINE M.",3
+"Adams","DIST. 2, KINGSTON","US Senator",NA,"Democrat","BOWLIN, BILL",2
+"Adams","DIST. 2, KINGSTON","US Senator",NA,"Democrat","FLEMING, ERIK",6
+"Adams","DIST. 2, KINGSTON","US Senator",NA,"Democrat","O'KEEFE, JAMES",10
+"Adams","DIST. 2, KINGSTON","US Senator",NA,"Democrat","STARR, CATHERINE M.",5
+"Adams","DIST. 2, LIBERTY PARK","US Senator",NA,"Democrat","BOWLIN, BILL",2
+"Adams","DIST. 2, LIBERTY PARK","US Senator",NA,"Democrat","FLEMING, ERIK",4
+"Adams","DIST. 2, LIBERTY PARK","US Senator",NA,"Democrat","O'KEEFE, JAMES",1
+"Adams","DIST. 2, LIBERTY PARK","US Senator",NA,"Democrat","STARR, CATHERINE M.",1
+"Adams","DIST. 3, CONCORD","US Senator",NA,"Democrat","BOWLIN, BILL",5
+"Adams","DIST. 3, CONCORD","US Senator",NA,"Democrat","FLEMING, ERIK",43
+"Adams","DIST. 3, CONCORD","US Senator",NA,"Democrat","O'KEEFE, JAMES",9
+"Adams","DIST. 3, CONCORD","US Senator",NA,"Democrat","STARR, CATHERINE M.",3
+"Adams","DIST. 3, MARYLAND HGTS.","US Senator",NA,"Democrat","BOWLIN, BILL",2
+"Adams","DIST. 3, MARYLAND HGTS.","US Senator",NA,"Democrat","FLEMING, ERIK",50
+"Adams","DIST. 3, MARYLAND HGTS.","US Senator",NA,"Democrat","O'KEEFE, JAMES",2
+"Adams","DIST. 3, MARYLAND HGTS.","US Senator",NA,"Democrat","STARR, CATHERINE M.",0
+"Adams","DIST. 3, NPS MULTI PURPOSE BLDG.","US Senator",NA,"Democrat","BOWLIN, BILL",0
+"Adams","DIST. 3, NPS MULTI PURPOSE BLDG.","US Senator",NA,"Democrat","FLEMING, ERIK",6
+"Adams","DIST. 3, NPS MULTI PURPOSE BLDG.","US Senator",NA,"Democrat","O'KEEFE, JAMES",5
+"Adams","DIST. 3, NPS MULTI PURPOSE BLDG.","US Senator",NA,"Democrat","STARR, CATHERINE M.",0
+"Adams","DIST. 3, PALESTINE","US Senator",NA,"Democrat","BOWLIN, BILL",3
+"Adams","DIST. 3, PALESTINE","US Senator",NA,"Democrat","FLEMING, ERIK",23
+"Adams","DIST. 3, PALESTINE","US Senator",NA,"Democrat","O'KEEFE, JAMES",26
+"Adams","DIST. 3, PALESTINE","US Senator",NA,"Democrat","STARR, CATHERINE M.",3
+"Adams","DIST. 4, CARPENTER","US Senator",NA,"Democrat","BOWLIN, BILL",0
+"Adams","DIST. 4, CARPENTER","US Senator",NA,"Democrat","FLEMING, ERIK",21
+"Adams","DIST. 4, CARPENTER","US Senator",NA,"Democrat","O'KEEFE, JAMES",0
+"Adams","DIST. 4, CARPENTER","US Senator",NA,"Democrat","STARR, CATHERINE M.",2
+"Adams","DIST. 4, MORGANTOWN","US Senator",NA,"Democrat","BOWLIN, BILL",6
+"Adams","DIST. 4, MORGANTOWN","US Senator",NA,"Democrat","FLEMING, ERIK",12
+"Adams","DIST. 4, MORGANTOWN","US Senator",NA,"Democrat","O'KEEFE, JAMES",10
+"Adams","DIST. 4, MORGANTOWN","US Senator",NA,"Democrat","STARR, CATHERINE M.",3
+"Adams","DIST. 4, NORTHSIDE","US Senator",NA,"Democrat","BOWLIN, BILL",4
+"Adams","DIST. 4, NORTHSIDE","US Senator",NA,"Democrat","FLEMING, ERIK",61
+"Adams","DIST. 4, NORTHSIDE","US Senator",NA,"Democrat","O'KEEFE, JAMES",1
+"Adams","DIST. 4, NORTHSIDE","US Senator",NA,"Democrat","STARR, CATHERINE M.",3
+"Adams","DIST. 4, PINE RIDGE","US Senator",NA,"Democrat","BOWLIN, BILL",2
+"Adams","DIST. 4, PINE RIDGE","US Senator",NA,"Democrat","FLEMING, ERIK",25
+"Adams","DIST. 4, PINE RIDGE","US Senator",NA,"Democrat","O'KEEFE, JAMES",6
+"Adams","DIST. 4, PINE RIDGE","US Senator",NA,"Democrat","STARR, CATHERINE M.",1
+"Adams","DIST. 4, THOMPSON","US Senator",NA,"Democrat","BOWLIN, BILL",8
+"Adams","DIST. 4, THOMPSON","US Senator",NA,"Democrat","FLEMING, ERIK",38
+"Adams","DIST. 4, THOMPSON","US Senator",NA,"Democrat","O'KEEFE, JAMES",12
+"Adams","DIST. 4, THOMPSON","US Senator",NA,"Democrat","STARR, CATHERINE M.",2
+"Adams","DIST. 5, AIRPORT","US Senator",NA,"Democrat","BOWLIN, BILL",0
+"Adams","DIST. 5, AIRPORT","US Senator",NA,"Democrat","FLEMING, ERIK",47
+"Adams","DIST. 5, AIRPORT","US Senator",NA,"Democrat","O'KEEFE, JAMES",5
+"Adams","DIST. 5, AIRPORT","US Senator",NA,"Democrat","STARR, CATHERINE M.",2
+"Adams","DIST. 5, FOSTER MOUND","US Senator",NA,"Democrat","BOWLIN, BILL",4
+"Adams","DIST. 5, FOSTER MOUND","US Senator",NA,"Democrat","FLEMING, ERIK",71
+"Adams","DIST. 5, FOSTER MOUND","US Senator",NA,"Democrat","O'KEEFE, JAMES",8
+"Adams","DIST. 5, FOSTER MOUND","US Senator",NA,"Democrat","STARR, CATHERINE M.",5
+"Adams","DIST. 5, OAKLAND","US Senator",NA,"Democrat","BOWLIN, BILL",11
+"Adams","DIST. 5, OAKLAND","US Senator",NA,"Democrat","FLEMING, ERIK",7
+"Adams","DIST. 5, OAKLAND","US Senator",NA,"Democrat","O'KEEFE, JAMES",11
+"Adams","DIST. 5, OAKLAND","US Senator",NA,"Democrat","STARR, CATHERINE M.",8
+"Adams","DIST. 5, WASHINGTON","US Senator",NA,"Democrat","BOWLIN, BILL",4
+"Adams","DIST. 5, WASHINGTON","US Senator",NA,"Democrat","FLEMING, ERIK",8
+"Adams","DIST. 5, WASHINGTON","US Senator",NA,"Democrat","O'KEEFE, JAMES",7
+"Adams","DIST. 5, WASHINGTON","US Senator",NA,"Democrat","STARR, CATHERINE M.",6
+"Adams","PURGED VOTER PRECINCT","US Senator",NA,"Democrat","BOWLIN, BILL",0
+"Adams","PURGED VOTER PRECINCT","US Senator",NA,"Democrat","FLEMING, ERIK",0
+"Adams","PURGED VOTER PRECINCT","US Senator",NA,"Democrat","O'KEEFE, JAMES",0
+"Adams","PURGED VOTER PRECINCT","US Senator",NA,"Democrat","STARR, CATHERINE M.",0

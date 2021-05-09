@@ -1,289 +1,289 @@
-"","county","precinct","office","district","party","candidate","votes"
-"1","DeSoto","ALDENS","U.S. Representative",1,"Democrat","BAMBACH, WILLIAM",3
-"2","DeSoto","ALDENS","U.S. Representative",1,"Democrat","FORSYTHE, JOE JR.",0
-"3","DeSoto","ALDENS","U.S. Representative",1,"Democrat","HURT, JAMES K.",0
-"4","DeSoto","ALDENS","U.S. Representative",1,"Democrat","SHAPIRO, RON",6
-"5","DeSoto","ALDENS","US Senator",NA,"Democrat","BOWLIN, BILL",4
-"6","DeSoto","ALDENS","US Senator",NA,"Democrat","FLEMING, ERIK",5
-"7","DeSoto","ALDENS","US Senator",NA,"Democrat","O'KEEFE, JAMES",0
-"8","DeSoto","ALDENS","US Senator",NA,"Democrat","STARR, CATHERINE M.",0
-"9","DeSoto","ALPHABA-COCKRUM","U.S. Representative",1,"Democrat","BAMBACH, WILLIAM",1
-"10","DeSoto","ALPHABA-COCKRUM","U.S. Representative",1,"Democrat","FORSYTHE, JOE JR.",1
-"11","DeSoto","ALPHABA-COCKRUM","U.S. Representative",1,"Democrat","HURT, JAMES K.",6
-"12","DeSoto","ALPHABA-COCKRUM","U.S. Representative",1,"Democrat","SHAPIRO, RON",7
-"13","DeSoto","ALPHABA-COCKRUM","US Senator",NA,"Democrat","BOWLIN, BILL",9
-"14","DeSoto","ALPHABA-COCKRUM","US Senator",NA,"Democrat","FLEMING, ERIK",4
-"15","DeSoto","ALPHABA-COCKRUM","US Senator",NA,"Democrat","O'KEEFE, JAMES",1
-"16","DeSoto","ALPHABA-COCKRUM","US Senator",NA,"Democrat","STARR, CATHERINE M.",1
-"17","DeSoto","BRIDGETOWN","U.S. Representative",1,"Democrat","BAMBACH, WILLIAM",3
-"18","DeSoto","BRIDGETOWN","U.S. Representative",1,"Democrat","FORSYTHE, JOE JR.",5
-"19","DeSoto","BRIDGETOWN","U.S. Representative",1,"Democrat","HURT, JAMES K.",1
-"20","DeSoto","BRIDGETOWN","U.S. Representative",1,"Democrat","SHAPIRO, RON",8
-"21","DeSoto","BRIDGETOWN","US Senator",NA,"Democrat","BOWLIN, BILL",9
-"22","DeSoto","BRIDGETOWN","US Senator",NA,"Democrat","FLEMING, ERIK",6
-"23","DeSoto","BRIDGETOWN","US Senator",NA,"Democrat","O'KEEFE, JAMES",2
-"24","DeSoto","BRIDGETOWN","US Senator",NA,"Democrat","STARR, CATHERINE M.",1
-"25","DeSoto","DESOTO CENTRAL","U.S. Representative",1,"Democrat","BAMBACH, WILLIAM",1
-"26","DeSoto","DESOTO CENTRAL","U.S. Representative",1,"Democrat","FORSYTHE, JOE JR.",0
-"27","DeSoto","DESOTO CENTRAL","U.S. Representative",1,"Democrat","HURT, JAMES K.",8
-"28","DeSoto","DESOTO CENTRAL","U.S. Representative",1,"Democrat","SHAPIRO, RON",6
-"29","DeSoto","DESOTO CENTRAL","US Senator",NA,"Democrat","BOWLIN, BILL",4
-"30","DeSoto","DESOTO CENTRAL","US Senator",NA,"Democrat","FLEMING, ERIK",5
-"31","DeSoto","DESOTO CENTRAL","US Senator",NA,"Democrat","O'KEEFE, JAMES",4
-"32","DeSoto","DESOTO CENTRAL","US Senator",NA,"Democrat","STARR, CATHERINE M.",2
-"33","DeSoto","ELMORE","U.S. Representative",1,"Democrat","BAMBACH, WILLIAM",0
-"34","DeSoto","ELMORE","U.S. Representative",1,"Democrat","FORSYTHE, JOE JR.",2
-"35","DeSoto","ELMORE","U.S. Representative",1,"Democrat","HURT, JAMES K.",0
-"36","DeSoto","ELMORE","U.S. Representative",1,"Democrat","SHAPIRO, RON",2
-"37","DeSoto","ELMORE","US Senator",NA,"Democrat","BOWLIN, BILL",1
-"38","DeSoto","ELMORE","US Senator",NA,"Democrat","FLEMING, ERIK",2
-"39","DeSoto","ELMORE","US Senator",NA,"Democrat","O'KEEFE, JAMES",0
-"40","DeSoto","ELMORE","US Senator",NA,"Democrat","STARR, CATHERINE M.",1
-"41","DeSoto","EUDORA","U.S. Representative",1,"Democrat","BAMBACH, WILLIAM",2
-"42","DeSoto","EUDORA","U.S. Representative",1,"Democrat","FORSYTHE, JOE JR.",0
-"43","DeSoto","EUDORA","U.S. Representative",1,"Democrat","HURT, JAMES K.",4
-"44","DeSoto","EUDORA","U.S. Representative",1,"Democrat","SHAPIRO, RON",7
-"45","DeSoto","EUDORA","US Senator",NA,"Democrat","BOWLIN, BILL",1
-"46","DeSoto","EUDORA","US Senator",NA,"Democrat","FLEMING, ERIK",9
-"47","DeSoto","EUDORA","US Senator",NA,"Democrat","O'KEEFE, JAMES",1
-"48","DeSoto","EUDORA","US Senator",NA,"Democrat","STARR, CATHERINE M.",2
-"49","DeSoto","FAIRHAVEN","U.S. Representative",1,"Democrat","BAMBACH, WILLIAM",0
-"50","DeSoto","FAIRHAVEN","U.S. Representative",1,"Democrat","FORSYTHE, JOE JR.",0
-"51","DeSoto","FAIRHAVEN","U.S. Representative",1,"Democrat","HURT, JAMES K.",0
-"52","DeSoto","FAIRHAVEN","U.S. Representative",1,"Democrat","SHAPIRO, RON",0
-"53","DeSoto","FAIRHAVEN","US Senator",NA,"Democrat","BOWLIN, BILL",0
-"54","DeSoto","FAIRHAVEN","US Senator",NA,"Democrat","FLEMING, ERIK",0
-"55","DeSoto","FAIRHAVEN","US Senator",NA,"Democrat","O'KEEFE, JAMES",0
-"56","DeSoto","FAIRHAVEN","US Senator",NA,"Democrat","STARR, CATHERINE M.",0
-"57","DeSoto","GREENBROOK NORTH","U.S. Representative",1,"Democrat","BAMBACH, WILLIAM",5
-"58","DeSoto","GREENBROOK NORTH","U.S. Representative",1,"Democrat","FORSYTHE, JOE JR.",0
-"59","DeSoto","GREENBROOK NORTH","U.S. Representative",1,"Democrat","HURT, JAMES K.",2
-"60","DeSoto","GREENBROOK NORTH","U.S. Representative",1,"Democrat","SHAPIRO, RON",3
-"61","DeSoto","GREENBROOK NORTH","US Senator",NA,"Democrat","BOWLIN, BILL",4
-"62","DeSoto","GREENBROOK NORTH","US Senator",NA,"Democrat","FLEMING, ERIK",3
-"63","DeSoto","GREENBROOK NORTH","US Senator",NA,"Democrat","O'KEEFE, JAMES",1
-"64","DeSoto","GREENBROOK NORTH","US Senator",NA,"Democrat","STARR, CATHERINE M.",2
-"65","DeSoto","GREENBROOK SOUTH","U.S. Representative",1,"Democrat","BAMBACH, WILLIAM",7
-"66","DeSoto","GREENBROOK SOUTH","U.S. Representative",1,"Democrat","FORSYTHE, JOE JR.",3
-"67","DeSoto","GREENBROOK SOUTH","U.S. Representative",1,"Democrat","HURT, JAMES K.",4
-"68","DeSoto","GREENBROOK SOUTH","U.S. Representative",1,"Democrat","SHAPIRO, RON",17
-"69","DeSoto","GREENBROOK SOUTH","US Senator",NA,"Democrat","BOWLIN, BILL",8
-"70","DeSoto","GREENBROOK SOUTH","US Senator",NA,"Democrat","FLEMING, ERIK",15
-"71","DeSoto","GREENBROOK SOUTH","US Senator",NA,"Democrat","O'KEEFE, JAMES",4
-"72","DeSoto","GREENBROOK SOUTH","US Senator",NA,"Democrat","STARR, CATHERINE M.",6
-"73","DeSoto","HERNANDO EAST","U.S. Representative",1,"Democrat","BAMBACH, WILLIAM",7
-"74","DeSoto","HERNANDO EAST","U.S. Representative",1,"Democrat","FORSYTHE, JOE JR.",5
-"75","DeSoto","HERNANDO EAST","U.S. Representative",1,"Democrat","HURT, JAMES K.",12
-"76","DeSoto","HERNANDO EAST","U.S. Representative",1,"Democrat","SHAPIRO, RON",33
-"77","DeSoto","HERNANDO EAST","US Senator",NA,"Democrat","BOWLIN, BILL",12
-"78","DeSoto","HERNANDO EAST","US Senator",NA,"Democrat","FLEMING, ERIK",15
-"79","DeSoto","HERNANDO EAST","US Senator",NA,"Democrat","O'KEEFE, JAMES",16
-"80","DeSoto","HERNANDO EAST","US Senator",NA,"Democrat","STARR, CATHERINE M.",15
-"81","DeSoto","HERNANDO WEST","U.S. Representative",1,"Democrat","BAMBACH, WILLIAM",3
-"82","DeSoto","HERNANDO WEST","U.S. Representative",1,"Democrat","FORSYTHE, JOE JR.",1
-"83","DeSoto","HERNANDO WEST","U.S. Representative",1,"Democrat","HURT, JAMES K.",5
-"84","DeSoto","HERNANDO WEST","U.S. Representative",1,"Democrat","SHAPIRO, RON",21
-"85","DeSoto","HERNANDO WEST","US Senator",NA,"Democrat","BOWLIN, BILL",12
-"86","DeSoto","HERNANDO WEST","US Senator",NA,"Democrat","FLEMING, ERIK",10
-"87","DeSoto","HERNANDO WEST","US Senator",NA,"Democrat","O'KEEFE, JAMES",3
-"88","DeSoto","HERNANDO WEST","US Senator",NA,"Democrat","STARR, CATHERINE M.",4
-"89","DeSoto","HOPE SULLIVAN","U.S. Representative",1,"Democrat","BAMBACH, WILLIAM",0
-"90","DeSoto","HOPE SULLIVAN","U.S. Representative",1,"Democrat","FORSYTHE, JOE JR.",3
-"91","DeSoto","HOPE SULLIVAN","U.S. Representative",1,"Democrat","HURT, JAMES K.",5
-"92","DeSoto","HOPE SULLIVAN","U.S. Representative",1,"Democrat","SHAPIRO, RON",8
-"93","DeSoto","HOPE SULLIVAN","US Senator",NA,"Democrat","BOWLIN, BILL",6
-"94","DeSoto","HOPE SULLIVAN","US Senator",NA,"Democrat","FLEMING, ERIK",4
-"95","DeSoto","HOPE SULLIVAN","US Senator",NA,"Democrat","O'KEEFE, JAMES",4
-"96","DeSoto","HOPE SULLIVAN","US Senator",NA,"Democrat","STARR, CATHERINE M.",1
-"97","DeSoto","HORN LAKE EAST","U.S. Representative",1,"Democrat","BAMBACH, WILLIAM",2
-"98","DeSoto","HORN LAKE EAST","U.S. Representative",1,"Democrat","FORSYTHE, JOE JR.",2
-"99","DeSoto","HORN LAKE EAST","U.S. Representative",1,"Democrat","HURT, JAMES K.",3
-"100","DeSoto","HORN LAKE EAST","U.S. Representative",1,"Democrat","SHAPIRO, RON",7
-"101","DeSoto","HORN LAKE EAST","US Senator",NA,"Democrat","BOWLIN, BILL",3
-"102","DeSoto","HORN LAKE EAST","US Senator",NA,"Democrat","FLEMING, ERIK",7
-"103","DeSoto","HORN LAKE EAST","US Senator",NA,"Democrat","O'KEEFE, JAMES",3
-"104","DeSoto","HORN LAKE EAST","US Senator",NA,"Democrat","STARR, CATHERINE M.",1
-"105","DeSoto","HORN LAKE SOUTH","U.S. Representative",1,"Democrat","BAMBACH, WILLIAM",1
-"106","DeSoto","HORN LAKE SOUTH","U.S. Representative",1,"Democrat","FORSYTHE, JOE JR.",0
-"107","DeSoto","HORN LAKE SOUTH","U.S. Representative",1,"Democrat","HURT, JAMES K.",0
-"108","DeSoto","HORN LAKE SOUTH","U.S. Representative",1,"Democrat","SHAPIRO, RON",5
-"109","DeSoto","HORN LAKE SOUTH","US Senator",NA,"Democrat","BOWLIN, BILL",0
-"110","DeSoto","HORN LAKE SOUTH","US Senator",NA,"Democrat","FLEMING, ERIK",2
-"111","DeSoto","HORN LAKE SOUTH","US Senator",NA,"Democrat","O'KEEFE, JAMES",3
-"112","DeSoto","HORN LAKE SOUTH","US Senator",NA,"Democrat","STARR, CATHERINE M.",1
-"113","DeSoto","HORN LAKE WEST","U.S. Representative",1,"Democrat","BAMBACH, WILLIAM",4
-"114","DeSoto","HORN LAKE WEST","U.S. Representative",1,"Democrat","FORSYTHE, JOE JR.",0
-"115","DeSoto","HORN LAKE WEST","U.S. Representative",1,"Democrat","HURT, JAMES K.",4
-"116","DeSoto","HORN LAKE WEST","U.S. Representative",1,"Democrat","SHAPIRO, RON",9
-"117","DeSoto","HORN LAKE WEST","US Senator",NA,"Democrat","BOWLIN, BILL",5
-"118","DeSoto","HORN LAKE WEST","US Senator",NA,"Democrat","FLEMING, ERIK",7
-"119","DeSoto","HORN LAKE WEST","US Senator",NA,"Democrat","O'KEEFE, JAMES",5
-"120","DeSoto","HORN LAKE WEST","US Senator",NA,"Democrat","STARR, CATHERINE M.",0
-"121","DeSoto","INGRAMS HILL","U.S. Representative",1,"Democrat","BAMBACH, WILLIAM",6
-"122","DeSoto","INGRAMS HILL","U.S. Representative",1,"Democrat","FORSYTHE, JOE JR.",3
-"123","DeSoto","INGRAMS HILL","U.S. Representative",1,"Democrat","HURT, JAMES K.",11
-"124","DeSoto","INGRAMS HILL","U.S. Representative",1,"Democrat","SHAPIRO, RON",7
-"125","DeSoto","INGRAMS HILL","US Senator",NA,"Democrat","BOWLIN, BILL",17
-"126","DeSoto","INGRAMS HILL","US Senator",NA,"Democrat","FLEMING, ERIK",7
-"127","DeSoto","INGRAMS HILL","US Senator",NA,"Democrat","O'KEEFE, JAMES",0
-"128","DeSoto","INGRAMS HILL","US Senator",NA,"Democrat","STARR, CATHERINE M.",4
-"129","DeSoto","LAKE CORMORANT","U.S. Representative",1,"Democrat","BAMBACH, WILLIAM",1
-"130","DeSoto","LAKE CORMORANT","U.S. Representative",1,"Democrat","FORSYTHE, JOE JR.",1
-"131","DeSoto","LAKE CORMORANT","U.S. Representative",1,"Democrat","HURT, JAMES K.",0
-"132","DeSoto","LAKE CORMORANT","U.S. Representative",1,"Democrat","SHAPIRO, RON",1
-"133","DeSoto","LAKE CORMORANT","US Senator",NA,"Democrat","BOWLIN, BILL",0
-"134","DeSoto","LAKE CORMORANT","US Senator",NA,"Democrat","FLEMING, ERIK",1
-"135","DeSoto","LAKE CORMORANT","US Senator",NA,"Democrat","O'KEEFE, JAMES",2
-"136","DeSoto","LAKE CORMORANT","US Senator",NA,"Democrat","STARR, CATHERINE M.",0
-"137","DeSoto","LEWISBURG EAST","U.S. Representative",1,"Democrat","BAMBACH, WILLIAM",1
-"138","DeSoto","LEWISBURG EAST","U.S. Representative",1,"Democrat","FORSYTHE, JOE JR.",0
-"139","DeSoto","LEWISBURG EAST","U.S. Representative",1,"Democrat","HURT, JAMES K.",0
-"140","DeSoto","LEWISBURG EAST","U.S. Representative",1,"Democrat","SHAPIRO, RON",0
-"141","DeSoto","LEWISBURG EAST","US Senator",NA,"Democrat","BOWLIN, BILL",1
-"142","DeSoto","LEWISBURG EAST","US Senator",NA,"Democrat","FLEMING, ERIK",0
-"143","DeSoto","LEWISBURG EAST","US Senator",NA,"Democrat","O'KEEFE, JAMES",0
-"144","DeSoto","LEWISBURG EAST","US Senator",NA,"Democrat","STARR, CATHERINE M.",0
-"145","DeSoto","LEWISBURG WEST","U.S. Representative",1,"Democrat","BAMBACH, WILLIAM",1
-"146","DeSoto","LEWISBURG WEST","U.S. Representative",1,"Democrat","FORSYTHE, JOE JR.",0
-"147","DeSoto","LEWISBURG WEST","U.S. Representative",1,"Democrat","HURT, JAMES K.",0
-"148","DeSoto","LEWISBURG WEST","U.S. Representative",1,"Democrat","SHAPIRO, RON",2
-"149","DeSoto","LEWISBURG WEST","US Senator",NA,"Democrat","BOWLIN, BILL",0
-"150","DeSoto","LEWISBURG WEST","US Senator",NA,"Democrat","FLEMING, ERIK",1
-"151","DeSoto","LEWISBURG WEST","US Senator",NA,"Democrat","O'KEEFE, JAMES",2
-"152","DeSoto","LEWISBURG WEST","US Senator",NA,"Democrat","STARR, CATHERINE M.",0
-"153","DeSoto","LOVE","U.S. Representative",1,"Democrat","BAMBACH, WILLIAM",1
-"154","DeSoto","LOVE","U.S. Representative",1,"Democrat","FORSYTHE, JOE JR.",4
-"155","DeSoto","LOVE","U.S. Representative",1,"Democrat","HURT, JAMES K.",6
-"156","DeSoto","LOVE","U.S. Representative",1,"Democrat","SHAPIRO, RON",2
-"157","DeSoto","LOVE","US Senator",NA,"Democrat","BOWLIN, BILL",3
-"158","DeSoto","LOVE","US Senator",NA,"Democrat","FLEMING, ERIK",1
-"159","DeSoto","LOVE","US Senator",NA,"Democrat","O'KEEFE, JAMES",5
-"160","DeSoto","LOVE","US Senator",NA,"Democrat","STARR, CATHERINE M.",4
-"161","DeSoto","MILLER","U.S. Representative",1,"Democrat","BAMBACH, WILLIAM",2
-"162","DeSoto","MILLER","U.S. Representative",1,"Democrat","FORSYTHE, JOE JR.",1
-"163","DeSoto","MILLER","U.S. Representative",1,"Democrat","HURT, JAMES K.",0
-"164","DeSoto","MILLER","U.S. Representative",1,"Democrat","SHAPIRO, RON",3
-"165","DeSoto","MILLER","US Senator",NA,"Democrat","BOWLIN, BILL",4
-"166","DeSoto","MILLER","US Senator",NA,"Democrat","FLEMING, ERIK",1
-"167","DeSoto","MILLER","US Senator",NA,"Democrat","O'KEEFE, JAMES",1
-"168","DeSoto","MILLER","US Senator",NA,"Democrat","STARR, CATHERINE M.",0
-"169","DeSoto","MINERAL WELLS","U.S. Representative",1,"Democrat","BAMBACH, WILLIAM",3
-"170","DeSoto","MINERAL WELLS","U.S. Representative",1,"Democrat","FORSYTHE, JOE JR.",2
-"171","DeSoto","MINERAL WELLS","U.S. Representative",1,"Democrat","HURT, JAMES K.",7
-"172","DeSoto","MINERAL WELLS","U.S. Representative",1,"Democrat","SHAPIRO, RON",3
-"173","DeSoto","MINERAL WELLS","US Senator",NA,"Democrat","BOWLIN, BILL",9
-"174","DeSoto","MINERAL WELLS","US Senator",NA,"Democrat","FLEMING, ERIK",2
-"175","DeSoto","MINERAL WELLS","US Senator",NA,"Democrat","O'KEEFE, JAMES",1
-"176","DeSoto","MINERAL WELLS","US Senator",NA,"Democrat","STARR, CATHERINE M.",3
-"177","DeSoto","NESBIT EAST","U.S. Representative",1,"Democrat","BAMBACH, WILLIAM",2
-"178","DeSoto","NESBIT EAST","U.S. Representative",1,"Democrat","FORSYTHE, JOE JR.",2
-"179","DeSoto","NESBIT EAST","U.S. Representative",1,"Democrat","HURT, JAMES K.",6
-"180","DeSoto","NESBIT EAST","U.S. Representative",1,"Democrat","SHAPIRO, RON",1
-"181","DeSoto","NESBIT EAST","US Senator",NA,"Democrat","BOWLIN, BILL",2
-"182","DeSoto","NESBIT EAST","US Senator",NA,"Democrat","FLEMING, ERIK",8
-"183","DeSoto","NESBIT EAST","US Senator",NA,"Democrat","O'KEEFE, JAMES",0
-"184","DeSoto","NESBIT EAST","US Senator",NA,"Democrat","STARR, CATHERINE M.",1
-"185","DeSoto","NESBIT WEST","U.S. Representative",1,"Democrat","BAMBACH, WILLIAM",10
-"186","DeSoto","NESBIT WEST","U.S. Representative",1,"Democrat","FORSYTHE, JOE JR.",4
-"187","DeSoto","NESBIT WEST","U.S. Representative",1,"Democrat","HURT, JAMES K.",20
-"188","DeSoto","NESBIT WEST","U.S. Representative",1,"Democrat","SHAPIRO, RON",13
-"189","DeSoto","NESBIT WEST","US Senator",NA,"Democrat","BOWLIN, BILL",8
-"190","DeSoto","NESBIT WEST","US Senator",NA,"Democrat","FLEMING, ERIK",20
-"191","DeSoto","NESBIT WEST","US Senator",NA,"Democrat","O'KEEFE, JAMES",10
-"192","DeSoto","NESBIT WEST","US Senator",NA,"Democrat","STARR, CATHERINE M.",9
-"193","DeSoto","OAK GROVE","U.S. Representative",1,"Democrat","BAMBACH, WILLIAM",3
-"194","DeSoto","OAK GROVE","U.S. Representative",1,"Democrat","FORSYTHE, JOE JR.",0
-"195","DeSoto","OAK GROVE","U.S. Representative",1,"Democrat","HURT, JAMES K.",5
-"196","DeSoto","OAK GROVE","U.S. Representative",1,"Democrat","SHAPIRO, RON",4
-"197","DeSoto","OAK GROVE","US Senator",NA,"Democrat","BOWLIN, BILL",1
-"198","DeSoto","OAK GROVE","US Senator",NA,"Democrat","FLEMING, ERIK",2
-"199","DeSoto","OAK GROVE","US Senator",NA,"Democrat","O'KEEFE, JAMES",6
-"200","DeSoto","OAK GROVE","US Senator",NA,"Democrat","STARR, CATHERINE M.",4
-"201","DeSoto","OLIVE BRANCH NORTH","U.S. Representative",1,"Democrat","BAMBACH, WILLIAM",2
-"202","DeSoto","OLIVE BRANCH NORTH","U.S. Representative",1,"Democrat","FORSYTHE, JOE JR.",2
-"203","DeSoto","OLIVE BRANCH NORTH","U.S. Representative",1,"Democrat","HURT, JAMES K.",4
-"204","DeSoto","OLIVE BRANCH NORTH","U.S. Representative",1,"Democrat","SHAPIRO, RON",12
-"205","DeSoto","OLIVE BRANCH NORTH","US Senator",NA,"Democrat","BOWLIN, BILL",12
-"206","DeSoto","OLIVE BRANCH NORTH","US Senator",NA,"Democrat","FLEMING, ERIK",10
-"207","DeSoto","OLIVE BRANCH NORTH","US Senator",NA,"Democrat","O'KEEFE, JAMES",0
-"208","DeSoto","OLIVE BRANCH NORTH","US Senator",NA,"Democrat","STARR, CATHERINE M.",0
-"209","DeSoto","OLIVE BRANCH SOUTH","U.S. Representative",1,"Democrat","BAMBACH, WILLIAM",3
-"210","DeSoto","OLIVE BRANCH SOUTH","U.S. Representative",1,"Democrat","FORSYTHE, JOE JR.",6
-"211","DeSoto","OLIVE BRANCH SOUTH","U.S. Representative",1,"Democrat","HURT, JAMES K.",4
-"212","DeSoto","OLIVE BRANCH SOUTH","U.S. Representative",1,"Democrat","SHAPIRO, RON",10
-"213","DeSoto","OLIVE BRANCH SOUTH","US Senator",NA,"Democrat","BOWLIN, BILL",9
-"214","DeSoto","OLIVE BRANCH SOUTH","US Senator",NA,"Democrat","FLEMING, ERIK",11
-"215","DeSoto","OLIVE BRANCH SOUTH","US Senator",NA,"Democrat","O'KEEFE, JAMES",2
-"216","DeSoto","OLIVE BRANCH SOUTH","US Senator",NA,"Democrat","STARR, CATHERINE M.",3
-"217","DeSoto","PLEASANT HILL NORTH","U.S. Representative",1,"Democrat","BAMBACH, WILLIAM",1
-"218","DeSoto","PLEASANT HILL NORTH","U.S. Representative",1,"Democrat","FORSYTHE, JOE JR.",1
-"219","DeSoto","PLEASANT HILL NORTH","U.S. Representative",1,"Democrat","HURT, JAMES K.",0
-"220","DeSoto","PLEASANT HILL NORTH","U.S. Representative",1,"Democrat","SHAPIRO, RON",1
-"221","DeSoto","PLEASANT HILL NORTH","US Senator",NA,"Democrat","BOWLIN, BILL",0
-"222","DeSoto","PLEASANT HILL NORTH","US Senator",NA,"Democrat","FLEMING, ERIK",0
-"223","DeSoto","PLEASANT HILL NORTH","US Senator",NA,"Democrat","O'KEEFE, JAMES",1
-"224","DeSoto","PLEASANT HILL NORTH","US Senator",NA,"Democrat","STARR, CATHERINE M.",2
-"225","DeSoto","PLEASANT HILL SOUTH","U.S. Representative",1,"Democrat","BAMBACH, WILLIAM",0
-"226","DeSoto","PLEASANT HILL SOUTH","U.S. Representative",1,"Democrat","FORSYTHE, JOE JR.",0
-"227","DeSoto","PLEASANT HILL SOUTH","U.S. Representative",1,"Democrat","HURT, JAMES K.",0
-"228","DeSoto","PLEASANT HILL SOUTH","U.S. Representative",1,"Democrat","SHAPIRO, RON",2
-"229","DeSoto","PLEASANT HILL SOUTH","US Senator",NA,"Democrat","BOWLIN, BILL",2
-"230","DeSoto","PLEASANT HILL SOUTH","US Senator",NA,"Democrat","FLEMING, ERIK",0
-"231","DeSoto","PLEASANT HILL SOUTH","US Senator",NA,"Democrat","O'KEEFE, JAMES",0
-"232","DeSoto","PLEASANT HILL SOUTH","US Senator",NA,"Democrat","STARR, CATHERINE M.",0
-"233","DeSoto","PLUM POINT","U.S. Representative",1,"Democrat","BAMBACH, WILLIAM",3
-"234","DeSoto","PLUM POINT","U.S. Representative",1,"Democrat","FORSYTHE, JOE JR.",3
-"235","DeSoto","PLUM POINT","U.S. Representative",1,"Democrat","HURT, JAMES K.",1
-"236","DeSoto","PLUM POINT","U.S. Representative",1,"Democrat","SHAPIRO, RON",3
-"237","DeSoto","PLUM POINT","US Senator",NA,"Democrat","BOWLIN, BILL",1
-"238","DeSoto","PLUM POINT","US Senator",NA,"Democrat","FLEMING, ERIK",5
-"239","DeSoto","PLUM POINT","US Senator",NA,"Democrat","O'KEEFE, JAMES",2
-"240","DeSoto","PLUM POINT","US Senator",NA,"Democrat","STARR, CATHERINE M.",2
-"241","DeSoto","PURGED VOTER PVP","U.S. Representative",1,"Democrat","BAMBACH, WILLIAM",0
-"242","DeSoto","PURGED VOTER PVP","U.S. Representative",1,"Democrat","FORSYTHE, JOE JR.",0
-"243","DeSoto","PURGED VOTER PVP","U.S. Representative",1,"Democrat","HURT, JAMES K.",0
-"244","DeSoto","PURGED VOTER PVP","U.S. Representative",1,"Democrat","SHAPIRO, RON",0
-"245","DeSoto","PURGED VOTER PVP","US Senator",NA,"Democrat","BOWLIN, BILL",0
-"246","DeSoto","PURGED VOTER PVP","US Senator",NA,"Democrat","FLEMING, ERIK",0
-"247","DeSoto","PURGED VOTER PVP","US Senator",NA,"Democrat","O'KEEFE, JAMES",0
-"248","DeSoto","PURGED VOTER PVP","US Senator",NA,"Democrat","STARR, CATHERINE M.",0
-"249","DeSoto","SOUTHAVEN NORTH","U.S. Representative",1,"Democrat","BAMBACH, WILLIAM",2
-"250","DeSoto","SOUTHAVEN NORTH","U.S. Representative",1,"Democrat","FORSYTHE, JOE JR.",7
-"251","DeSoto","SOUTHAVEN NORTH","U.S. Representative",1,"Democrat","HURT, JAMES K.",0
-"252","DeSoto","SOUTHAVEN NORTH","U.S. Representative",1,"Democrat","SHAPIRO, RON",8
-"253","DeSoto","SOUTHAVEN NORTH","US Senator",NA,"Democrat","BOWLIN, BILL",7
-"254","DeSoto","SOUTHAVEN NORTH","US Senator",NA,"Democrat","FLEMING, ERIK",5
-"255","DeSoto","SOUTHAVEN NORTH","US Senator",NA,"Democrat","O'KEEFE, JAMES",2
-"256","DeSoto","SOUTHAVEN NORTH","US Senator",NA,"Democrat","STARR, CATHERINE M.",4
-"257","DeSoto","SOUTHAVEN SOUTH","U.S. Representative",1,"Democrat","BAMBACH, WILLIAM",0
-"258","DeSoto","SOUTHAVEN SOUTH","U.S. Representative",1,"Democrat","FORSYTHE, JOE JR.",0
-"259","DeSoto","SOUTHAVEN SOUTH","U.S. Representative",1,"Democrat","HURT, JAMES K.",0
-"260","DeSoto","SOUTHAVEN SOUTH","U.S. Representative",1,"Democrat","SHAPIRO, RON",0
-"261","DeSoto","SOUTHAVEN SOUTH","US Senator",NA,"Democrat","BOWLIN, BILL",0
-"262","DeSoto","SOUTHAVEN SOUTH","US Senator",NA,"Democrat","FLEMING, ERIK",0
-"263","DeSoto","SOUTHAVEN SOUTH","US Senator",NA,"Democrat","O'KEEFE, JAMES",0
-"264","DeSoto","SOUTHAVEN SOUTH","US Senator",NA,"Democrat","STARR, CATHERINE M.",0
-"265","DeSoto","SOUTHAVEN WEST","U.S. Representative",1,"Democrat","BAMBACH, WILLIAM",1
-"266","DeSoto","SOUTHAVEN WEST","U.S. Representative",1,"Democrat","FORSYTHE, JOE JR.",1
-"267","DeSoto","SOUTHAVEN WEST","U.S. Representative",1,"Democrat","HURT, JAMES K.",4
-"268","DeSoto","SOUTHAVEN WEST","U.S. Representative",1,"Democrat","SHAPIRO, RON",8
-"269","DeSoto","SOUTHAVEN WEST","US Senator",NA,"Democrat","BOWLIN, BILL",3
-"270","DeSoto","SOUTHAVEN WEST","US Senator",NA,"Democrat","FLEMING, ERIK",4
-"271","DeSoto","SOUTHAVEN WEST","US Senator",NA,"Democrat","O'KEEFE, JAMES",1
-"272","DeSoto","SOUTHAVEN WEST","US Senator",NA,"Democrat","STARR, CATHERINE M.",5
-"273","DeSoto","TWIN LAKES & HOLLY HILLS","U.S. Representative",1,"Democrat","BAMBACH, WILLIAM",0
-"274","DeSoto","TWIN LAKES & HOLLY HILLS","U.S. Representative",1,"Democrat","FORSYTHE, JOE JR.",4
-"275","DeSoto","TWIN LAKES & HOLLY HILLS","U.S. Representative",1,"Democrat","HURT, JAMES K.",3
-"276","DeSoto","TWIN LAKES & HOLLY HILLS","U.S. Representative",1,"Democrat","SHAPIRO, RON",7
-"277","DeSoto","TWIN LAKES & HOLLY HILLS","US Senator",NA,"Democrat","BOWLIN, BILL",7
-"278","DeSoto","TWIN LAKES & HOLLY HILLS","US Senator",NA,"Democrat","FLEMING, ERIK",3
-"279","DeSoto","TWIN LAKES & HOLLY HILLS","US Senator",NA,"Democrat","O'KEEFE, JAMES",3
-"280","DeSoto","TWIN LAKES & HOLLY HILLS","US Senator",NA,"Democrat","STARR, CATHERINE M.",1
-"281","DeSoto","WALLS","U.S. Representative",1,"Democrat","BAMBACH, WILLIAM",2
-"282","DeSoto","WALLS","U.S. Representative",1,"Democrat","FORSYTHE, JOE JR.",3
-"283","DeSoto","WALLS","U.S. Representative",1,"Democrat","HURT, JAMES K.",4
-"284","DeSoto","WALLS","U.S. Representative",1,"Democrat","SHAPIRO, RON",19
-"285","DeSoto","WALLS","US Senator",NA,"Democrat","BOWLIN, BILL",7
-"286","DeSoto","WALLS","US Senator",NA,"Democrat","FLEMING, ERIK",9
-"287","DeSoto","WALLS","US Senator",NA,"Democrat","O'KEEFE, JAMES",6
-"288","DeSoto","WALLS","US Senator",NA,"Democrat","STARR, CATHERINE M.",4
+"county","precinct","office","district","party","candidate","votes"
+"DeSoto","ALDENS","U.S. Representative",1,"Democrat","BAMBACH, WILLIAM",3
+"DeSoto","ALDENS","U.S. Representative",1,"Democrat","FORSYTHE, JOE JR.",0
+"DeSoto","ALDENS","U.S. Representative",1,"Democrat","HURT, JAMES K.",0
+"DeSoto","ALDENS","U.S. Representative",1,"Democrat","SHAPIRO, RON",6
+"DeSoto","ALDENS","US Senator",NA,"Democrat","BOWLIN, BILL",4
+"DeSoto","ALDENS","US Senator",NA,"Democrat","FLEMING, ERIK",5
+"DeSoto","ALDENS","US Senator",NA,"Democrat","O'KEEFE, JAMES",0
+"DeSoto","ALDENS","US Senator",NA,"Democrat","STARR, CATHERINE M.",0
+"DeSoto","ALPHABA-COCKRUM","U.S. Representative",1,"Democrat","BAMBACH, WILLIAM",1
+"DeSoto","ALPHABA-COCKRUM","U.S. Representative",1,"Democrat","FORSYTHE, JOE JR.",1
+"DeSoto","ALPHABA-COCKRUM","U.S. Representative",1,"Democrat","HURT, JAMES K.",6
+"DeSoto","ALPHABA-COCKRUM","U.S. Representative",1,"Democrat","SHAPIRO, RON",7
+"DeSoto","ALPHABA-COCKRUM","US Senator",NA,"Democrat","BOWLIN, BILL",9
+"DeSoto","ALPHABA-COCKRUM","US Senator",NA,"Democrat","FLEMING, ERIK",4
+"DeSoto","ALPHABA-COCKRUM","US Senator",NA,"Democrat","O'KEEFE, JAMES",1
+"DeSoto","ALPHABA-COCKRUM","US Senator",NA,"Democrat","STARR, CATHERINE M.",1
+"DeSoto","BRIDGETOWN","U.S. Representative",1,"Democrat","BAMBACH, WILLIAM",3
+"DeSoto","BRIDGETOWN","U.S. Representative",1,"Democrat","FORSYTHE, JOE JR.",5
+"DeSoto","BRIDGETOWN","U.S. Representative",1,"Democrat","HURT, JAMES K.",1
+"DeSoto","BRIDGETOWN","U.S. Representative",1,"Democrat","SHAPIRO, RON",8
+"DeSoto","BRIDGETOWN","US Senator",NA,"Democrat","BOWLIN, BILL",9
+"DeSoto","BRIDGETOWN","US Senator",NA,"Democrat","FLEMING, ERIK",6
+"DeSoto","BRIDGETOWN","US Senator",NA,"Democrat","O'KEEFE, JAMES",2
+"DeSoto","BRIDGETOWN","US Senator",NA,"Democrat","STARR, CATHERINE M.",1
+"DeSoto","DESOTO CENTRAL","U.S. Representative",1,"Democrat","BAMBACH, WILLIAM",1
+"DeSoto","DESOTO CENTRAL","U.S. Representative",1,"Democrat","FORSYTHE, JOE JR.",0
+"DeSoto","DESOTO CENTRAL","U.S. Representative",1,"Democrat","HURT, JAMES K.",8
+"DeSoto","DESOTO CENTRAL","U.S. Representative",1,"Democrat","SHAPIRO, RON",6
+"DeSoto","DESOTO CENTRAL","US Senator",NA,"Democrat","BOWLIN, BILL",4
+"DeSoto","DESOTO CENTRAL","US Senator",NA,"Democrat","FLEMING, ERIK",5
+"DeSoto","DESOTO CENTRAL","US Senator",NA,"Democrat","O'KEEFE, JAMES",4
+"DeSoto","DESOTO CENTRAL","US Senator",NA,"Democrat","STARR, CATHERINE M.",2
+"DeSoto","ELMORE","U.S. Representative",1,"Democrat","BAMBACH, WILLIAM",0
+"DeSoto","ELMORE","U.S. Representative",1,"Democrat","FORSYTHE, JOE JR.",2
+"DeSoto","ELMORE","U.S. Representative",1,"Democrat","HURT, JAMES K.",0
+"DeSoto","ELMORE","U.S. Representative",1,"Democrat","SHAPIRO, RON",2
+"DeSoto","ELMORE","US Senator",NA,"Democrat","BOWLIN, BILL",1
+"DeSoto","ELMORE","US Senator",NA,"Democrat","FLEMING, ERIK",2
+"DeSoto","ELMORE","US Senator",NA,"Democrat","O'KEEFE, JAMES",0
+"DeSoto","ELMORE","US Senator",NA,"Democrat","STARR, CATHERINE M.",1
+"DeSoto","EUDORA","U.S. Representative",1,"Democrat","BAMBACH, WILLIAM",2
+"DeSoto","EUDORA","U.S. Representative",1,"Democrat","FORSYTHE, JOE JR.",0
+"DeSoto","EUDORA","U.S. Representative",1,"Democrat","HURT, JAMES K.",4
+"DeSoto","EUDORA","U.S. Representative",1,"Democrat","SHAPIRO, RON",7
+"DeSoto","EUDORA","US Senator",NA,"Democrat","BOWLIN, BILL",1
+"DeSoto","EUDORA","US Senator",NA,"Democrat","FLEMING, ERIK",9
+"DeSoto","EUDORA","US Senator",NA,"Democrat","O'KEEFE, JAMES",1
+"DeSoto","EUDORA","US Senator",NA,"Democrat","STARR, CATHERINE M.",2
+"DeSoto","FAIRHAVEN","U.S. Representative",1,"Democrat","BAMBACH, WILLIAM",0
+"DeSoto","FAIRHAVEN","U.S. Representative",1,"Democrat","FORSYTHE, JOE JR.",0
+"DeSoto","FAIRHAVEN","U.S. Representative",1,"Democrat","HURT, JAMES K.",0
+"DeSoto","FAIRHAVEN","U.S. Representative",1,"Democrat","SHAPIRO, RON",0
+"DeSoto","FAIRHAVEN","US Senator",NA,"Democrat","BOWLIN, BILL",0
+"DeSoto","FAIRHAVEN","US Senator",NA,"Democrat","FLEMING, ERIK",0
+"DeSoto","FAIRHAVEN","US Senator",NA,"Democrat","O'KEEFE, JAMES",0
+"DeSoto","FAIRHAVEN","US Senator",NA,"Democrat","STARR, CATHERINE M.",0
+"DeSoto","GREENBROOK NORTH","U.S. Representative",1,"Democrat","BAMBACH, WILLIAM",5
+"DeSoto","GREENBROOK NORTH","U.S. Representative",1,"Democrat","FORSYTHE, JOE JR.",0
+"DeSoto","GREENBROOK NORTH","U.S. Representative",1,"Democrat","HURT, JAMES K.",2
+"DeSoto","GREENBROOK NORTH","U.S. Representative",1,"Democrat","SHAPIRO, RON",3
+"DeSoto","GREENBROOK NORTH","US Senator",NA,"Democrat","BOWLIN, BILL",4
+"DeSoto","GREENBROOK NORTH","US Senator",NA,"Democrat","FLEMING, ERIK",3
+"DeSoto","GREENBROOK NORTH","US Senator",NA,"Democrat","O'KEEFE, JAMES",1
+"DeSoto","GREENBROOK NORTH","US Senator",NA,"Democrat","STARR, CATHERINE M.",2
+"DeSoto","GREENBROOK SOUTH","U.S. Representative",1,"Democrat","BAMBACH, WILLIAM",7
+"DeSoto","GREENBROOK SOUTH","U.S. Representative",1,"Democrat","FORSYTHE, JOE JR.",3
+"DeSoto","GREENBROOK SOUTH","U.S. Representative",1,"Democrat","HURT, JAMES K.",4
+"DeSoto","GREENBROOK SOUTH","U.S. Representative",1,"Democrat","SHAPIRO, RON",17
+"DeSoto","GREENBROOK SOUTH","US Senator",NA,"Democrat","BOWLIN, BILL",8
+"DeSoto","GREENBROOK SOUTH","US Senator",NA,"Democrat","FLEMING, ERIK",15
+"DeSoto","GREENBROOK SOUTH","US Senator",NA,"Democrat","O'KEEFE, JAMES",4
+"DeSoto","GREENBROOK SOUTH","US Senator",NA,"Democrat","STARR, CATHERINE M.",6
+"DeSoto","HERNANDO EAST","U.S. Representative",1,"Democrat","BAMBACH, WILLIAM",7
+"DeSoto","HERNANDO EAST","U.S. Representative",1,"Democrat","FORSYTHE, JOE JR.",5
+"DeSoto","HERNANDO EAST","U.S. Representative",1,"Democrat","HURT, JAMES K.",12
+"DeSoto","HERNANDO EAST","U.S. Representative",1,"Democrat","SHAPIRO, RON",33
+"DeSoto","HERNANDO EAST","US Senator",NA,"Democrat","BOWLIN, BILL",12
+"DeSoto","HERNANDO EAST","US Senator",NA,"Democrat","FLEMING, ERIK",15
+"DeSoto","HERNANDO EAST","US Senator",NA,"Democrat","O'KEEFE, JAMES",16
+"DeSoto","HERNANDO EAST","US Senator",NA,"Democrat","STARR, CATHERINE M.",15
+"DeSoto","HERNANDO WEST","U.S. Representative",1,"Democrat","BAMBACH, WILLIAM",3
+"DeSoto","HERNANDO WEST","U.S. Representative",1,"Democrat","FORSYTHE, JOE JR.",1
+"DeSoto","HERNANDO WEST","U.S. Representative",1,"Democrat","HURT, JAMES K.",5
+"DeSoto","HERNANDO WEST","U.S. Representative",1,"Democrat","SHAPIRO, RON",21
+"DeSoto","HERNANDO WEST","US Senator",NA,"Democrat","BOWLIN, BILL",12
+"DeSoto","HERNANDO WEST","US Senator",NA,"Democrat","FLEMING, ERIK",10
+"DeSoto","HERNANDO WEST","US Senator",NA,"Democrat","O'KEEFE, JAMES",3
+"DeSoto","HERNANDO WEST","US Senator",NA,"Democrat","STARR, CATHERINE M.",4
+"DeSoto","HOPE SULLIVAN","U.S. Representative",1,"Democrat","BAMBACH, WILLIAM",0
+"DeSoto","HOPE SULLIVAN","U.S. Representative",1,"Democrat","FORSYTHE, JOE JR.",3
+"DeSoto","HOPE SULLIVAN","U.S. Representative",1,"Democrat","HURT, JAMES K.",5
+"DeSoto","HOPE SULLIVAN","U.S. Representative",1,"Democrat","SHAPIRO, RON",8
+"DeSoto","HOPE SULLIVAN","US Senator",NA,"Democrat","BOWLIN, BILL",6
+"DeSoto","HOPE SULLIVAN","US Senator",NA,"Democrat","FLEMING, ERIK",4
+"DeSoto","HOPE SULLIVAN","US Senator",NA,"Democrat","O'KEEFE, JAMES",4
+"DeSoto","HOPE SULLIVAN","US Senator",NA,"Democrat","STARR, CATHERINE M.",1
+"DeSoto","HORN LAKE EAST","U.S. Representative",1,"Democrat","BAMBACH, WILLIAM",2
+"DeSoto","HORN LAKE EAST","U.S. Representative",1,"Democrat","FORSYTHE, JOE JR.",2
+"DeSoto","HORN LAKE EAST","U.S. Representative",1,"Democrat","HURT, JAMES K.",3
+"DeSoto","HORN LAKE EAST","U.S. Representative",1,"Democrat","SHAPIRO, RON",7
+"DeSoto","HORN LAKE EAST","US Senator",NA,"Democrat","BOWLIN, BILL",3
+"DeSoto","HORN LAKE EAST","US Senator",NA,"Democrat","FLEMING, ERIK",7
+"DeSoto","HORN LAKE EAST","US Senator",NA,"Democrat","O'KEEFE, JAMES",3
+"DeSoto","HORN LAKE EAST","US Senator",NA,"Democrat","STARR, CATHERINE M.",1
+"DeSoto","HORN LAKE SOUTH","U.S. Representative",1,"Democrat","BAMBACH, WILLIAM",1
+"DeSoto","HORN LAKE SOUTH","U.S. Representative",1,"Democrat","FORSYTHE, JOE JR.",0
+"DeSoto","HORN LAKE SOUTH","U.S. Representative",1,"Democrat","HURT, JAMES K.",0
+"DeSoto","HORN LAKE SOUTH","U.S. Representative",1,"Democrat","SHAPIRO, RON",5
+"DeSoto","HORN LAKE SOUTH","US Senator",NA,"Democrat","BOWLIN, BILL",0
+"DeSoto","HORN LAKE SOUTH","US Senator",NA,"Democrat","FLEMING, ERIK",2
+"DeSoto","HORN LAKE SOUTH","US Senator",NA,"Democrat","O'KEEFE, JAMES",3
+"DeSoto","HORN LAKE SOUTH","US Senator",NA,"Democrat","STARR, CATHERINE M.",1
+"DeSoto","HORN LAKE WEST","U.S. Representative",1,"Democrat","BAMBACH, WILLIAM",4
+"DeSoto","HORN LAKE WEST","U.S. Representative",1,"Democrat","FORSYTHE, JOE JR.",0
+"DeSoto","HORN LAKE WEST","U.S. Representative",1,"Democrat","HURT, JAMES K.",4
+"DeSoto","HORN LAKE WEST","U.S. Representative",1,"Democrat","SHAPIRO, RON",9
+"DeSoto","HORN LAKE WEST","US Senator",NA,"Democrat","BOWLIN, BILL",5
+"DeSoto","HORN LAKE WEST","US Senator",NA,"Democrat","FLEMING, ERIK",7
+"DeSoto","HORN LAKE WEST","US Senator",NA,"Democrat","O'KEEFE, JAMES",5
+"DeSoto","HORN LAKE WEST","US Senator",NA,"Democrat","STARR, CATHERINE M.",0
+"DeSoto","INGRAMS HILL","U.S. Representative",1,"Democrat","BAMBACH, WILLIAM",6
+"DeSoto","INGRAMS HILL","U.S. Representative",1,"Democrat","FORSYTHE, JOE JR.",3
+"DeSoto","INGRAMS HILL","U.S. Representative",1,"Democrat","HURT, JAMES K.",11
+"DeSoto","INGRAMS HILL","U.S. Representative",1,"Democrat","SHAPIRO, RON",7
+"DeSoto","INGRAMS HILL","US Senator",NA,"Democrat","BOWLIN, BILL",17
+"DeSoto","INGRAMS HILL","US Senator",NA,"Democrat","FLEMING, ERIK",7
+"DeSoto","INGRAMS HILL","US Senator",NA,"Democrat","O'KEEFE, JAMES",0
+"DeSoto","INGRAMS HILL","US Senator",NA,"Democrat","STARR, CATHERINE M.",4
+"DeSoto","LAKE CORMORANT","U.S. Representative",1,"Democrat","BAMBACH, WILLIAM",1
+"DeSoto","LAKE CORMORANT","U.S. Representative",1,"Democrat","FORSYTHE, JOE JR.",1
+"DeSoto","LAKE CORMORANT","U.S. Representative",1,"Democrat","HURT, JAMES K.",0
+"DeSoto","LAKE CORMORANT","U.S. Representative",1,"Democrat","SHAPIRO, RON",1
+"DeSoto","LAKE CORMORANT","US Senator",NA,"Democrat","BOWLIN, BILL",0
+"DeSoto","LAKE CORMORANT","US Senator",NA,"Democrat","FLEMING, ERIK",1
+"DeSoto","LAKE CORMORANT","US Senator",NA,"Democrat","O'KEEFE, JAMES",2
+"DeSoto","LAKE CORMORANT","US Senator",NA,"Democrat","STARR, CATHERINE M.",0
+"DeSoto","LEWISBURG EAST","U.S. Representative",1,"Democrat","BAMBACH, WILLIAM",1
+"DeSoto","LEWISBURG EAST","U.S. Representative",1,"Democrat","FORSYTHE, JOE JR.",0
+"DeSoto","LEWISBURG EAST","U.S. Representative",1,"Democrat","HURT, JAMES K.",0
+"DeSoto","LEWISBURG EAST","U.S. Representative",1,"Democrat","SHAPIRO, RON",0
+"DeSoto","LEWISBURG EAST","US Senator",NA,"Democrat","BOWLIN, BILL",1
+"DeSoto","LEWISBURG EAST","US Senator",NA,"Democrat","FLEMING, ERIK",0
+"DeSoto","LEWISBURG EAST","US Senator",NA,"Democrat","O'KEEFE, JAMES",0
+"DeSoto","LEWISBURG EAST","US Senator",NA,"Democrat","STARR, CATHERINE M.",0
+"DeSoto","LEWISBURG WEST","U.S. Representative",1,"Democrat","BAMBACH, WILLIAM",1
+"DeSoto","LEWISBURG WEST","U.S. Representative",1,"Democrat","FORSYTHE, JOE JR.",0
+"DeSoto","LEWISBURG WEST","U.S. Representative",1,"Democrat","HURT, JAMES K.",0
+"DeSoto","LEWISBURG WEST","U.S. Representative",1,"Democrat","SHAPIRO, RON",2
+"DeSoto","LEWISBURG WEST","US Senator",NA,"Democrat","BOWLIN, BILL",0
+"DeSoto","LEWISBURG WEST","US Senator",NA,"Democrat","FLEMING, ERIK",1
+"DeSoto","LEWISBURG WEST","US Senator",NA,"Democrat","O'KEEFE, JAMES",2
+"DeSoto","LEWISBURG WEST","US Senator",NA,"Democrat","STARR, CATHERINE M.",0
+"DeSoto","LOVE","U.S. Representative",1,"Democrat","BAMBACH, WILLIAM",1
+"DeSoto","LOVE","U.S. Representative",1,"Democrat","FORSYTHE, JOE JR.",4
+"DeSoto","LOVE","U.S. Representative",1,"Democrat","HURT, JAMES K.",6
+"DeSoto","LOVE","U.S. Representative",1,"Democrat","SHAPIRO, RON",2
+"DeSoto","LOVE","US Senator",NA,"Democrat","BOWLIN, BILL",3
+"DeSoto","LOVE","US Senator",NA,"Democrat","FLEMING, ERIK",1
+"DeSoto","LOVE","US Senator",NA,"Democrat","O'KEEFE, JAMES",5
+"DeSoto","LOVE","US Senator",NA,"Democrat","STARR, CATHERINE M.",4
+"DeSoto","MILLER","U.S. Representative",1,"Democrat","BAMBACH, WILLIAM",2
+"DeSoto","MILLER","U.S. Representative",1,"Democrat","FORSYTHE, JOE JR.",1
+"DeSoto","MILLER","U.S. Representative",1,"Democrat","HURT, JAMES K.",0
+"DeSoto","MILLER","U.S. Representative",1,"Democrat","SHAPIRO, RON",3
+"DeSoto","MILLER","US Senator",NA,"Democrat","BOWLIN, BILL",4
+"DeSoto","MILLER","US Senator",NA,"Democrat","FLEMING, ERIK",1
+"DeSoto","MILLER","US Senator",NA,"Democrat","O'KEEFE, JAMES",1
+"DeSoto","MILLER","US Senator",NA,"Democrat","STARR, CATHERINE M.",0
+"DeSoto","MINERAL WELLS","U.S. Representative",1,"Democrat","BAMBACH, WILLIAM",3
+"DeSoto","MINERAL WELLS","U.S. Representative",1,"Democrat","FORSYTHE, JOE JR.",2
+"DeSoto","MINERAL WELLS","U.S. Representative",1,"Democrat","HURT, JAMES K.",7
+"DeSoto","MINERAL WELLS","U.S. Representative",1,"Democrat","SHAPIRO, RON",3
+"DeSoto","MINERAL WELLS","US Senator",NA,"Democrat","BOWLIN, BILL",9
+"DeSoto","MINERAL WELLS","US Senator",NA,"Democrat","FLEMING, ERIK",2
+"DeSoto","MINERAL WELLS","US Senator",NA,"Democrat","O'KEEFE, JAMES",1
+"DeSoto","MINERAL WELLS","US Senator",NA,"Democrat","STARR, CATHERINE M.",3
+"DeSoto","NESBIT EAST","U.S. Representative",1,"Democrat","BAMBACH, WILLIAM",2
+"DeSoto","NESBIT EAST","U.S. Representative",1,"Democrat","FORSYTHE, JOE JR.",2
+"DeSoto","NESBIT EAST","U.S. Representative",1,"Democrat","HURT, JAMES K.",6
+"DeSoto","NESBIT EAST","U.S. Representative",1,"Democrat","SHAPIRO, RON",1
+"DeSoto","NESBIT EAST","US Senator",NA,"Democrat","BOWLIN, BILL",2
+"DeSoto","NESBIT EAST","US Senator",NA,"Democrat","FLEMING, ERIK",8
+"DeSoto","NESBIT EAST","US Senator",NA,"Democrat","O'KEEFE, JAMES",0
+"DeSoto","NESBIT EAST","US Senator",NA,"Democrat","STARR, CATHERINE M.",1
+"DeSoto","NESBIT WEST","U.S. Representative",1,"Democrat","BAMBACH, WILLIAM",10
+"DeSoto","NESBIT WEST","U.S. Representative",1,"Democrat","FORSYTHE, JOE JR.",4
+"DeSoto","NESBIT WEST","U.S. Representative",1,"Democrat","HURT, JAMES K.",20
+"DeSoto","NESBIT WEST","U.S. Representative",1,"Democrat","SHAPIRO, RON",13
+"DeSoto","NESBIT WEST","US Senator",NA,"Democrat","BOWLIN, BILL",8
+"DeSoto","NESBIT WEST","US Senator",NA,"Democrat","FLEMING, ERIK",20
+"DeSoto","NESBIT WEST","US Senator",NA,"Democrat","O'KEEFE, JAMES",10
+"DeSoto","NESBIT WEST","US Senator",NA,"Democrat","STARR, CATHERINE M.",9
+"DeSoto","OAK GROVE","U.S. Representative",1,"Democrat","BAMBACH, WILLIAM",3
+"DeSoto","OAK GROVE","U.S. Representative",1,"Democrat","FORSYTHE, JOE JR.",0
+"DeSoto","OAK GROVE","U.S. Representative",1,"Democrat","HURT, JAMES K.",5
+"DeSoto","OAK GROVE","U.S. Representative",1,"Democrat","SHAPIRO, RON",4
+"DeSoto","OAK GROVE","US Senator",NA,"Democrat","BOWLIN, BILL",1
+"DeSoto","OAK GROVE","US Senator",NA,"Democrat","FLEMING, ERIK",2
+"DeSoto","OAK GROVE","US Senator",NA,"Democrat","O'KEEFE, JAMES",6
+"DeSoto","OAK GROVE","US Senator",NA,"Democrat","STARR, CATHERINE M.",4
+"DeSoto","OLIVE BRANCH NORTH","U.S. Representative",1,"Democrat","BAMBACH, WILLIAM",2
+"DeSoto","OLIVE BRANCH NORTH","U.S. Representative",1,"Democrat","FORSYTHE, JOE JR.",2
+"DeSoto","OLIVE BRANCH NORTH","U.S. Representative",1,"Democrat","HURT, JAMES K.",4
+"DeSoto","OLIVE BRANCH NORTH","U.S. Representative",1,"Democrat","SHAPIRO, RON",12
+"DeSoto","OLIVE BRANCH NORTH","US Senator",NA,"Democrat","BOWLIN, BILL",12
+"DeSoto","OLIVE BRANCH NORTH","US Senator",NA,"Democrat","FLEMING, ERIK",10
+"DeSoto","OLIVE BRANCH NORTH","US Senator",NA,"Democrat","O'KEEFE, JAMES",0
+"DeSoto","OLIVE BRANCH NORTH","US Senator",NA,"Democrat","STARR, CATHERINE M.",0
+"DeSoto","OLIVE BRANCH SOUTH","U.S. Representative",1,"Democrat","BAMBACH, WILLIAM",3
+"DeSoto","OLIVE BRANCH SOUTH","U.S. Representative",1,"Democrat","FORSYTHE, JOE JR.",6
+"DeSoto","OLIVE BRANCH SOUTH","U.S. Representative",1,"Democrat","HURT, JAMES K.",4
+"DeSoto","OLIVE BRANCH SOUTH","U.S. Representative",1,"Democrat","SHAPIRO, RON",10
+"DeSoto","OLIVE BRANCH SOUTH","US Senator",NA,"Democrat","BOWLIN, BILL",9
+"DeSoto","OLIVE BRANCH SOUTH","US Senator",NA,"Democrat","FLEMING, ERIK",11
+"DeSoto","OLIVE BRANCH SOUTH","US Senator",NA,"Democrat","O'KEEFE, JAMES",2
+"DeSoto","OLIVE BRANCH SOUTH","US Senator",NA,"Democrat","STARR, CATHERINE M.",3
+"DeSoto","PLEASANT HILL NORTH","U.S. Representative",1,"Democrat","BAMBACH, WILLIAM",1
+"DeSoto","PLEASANT HILL NORTH","U.S. Representative",1,"Democrat","FORSYTHE, JOE JR.",1
+"DeSoto","PLEASANT HILL NORTH","U.S. Representative",1,"Democrat","HURT, JAMES K.",0
+"DeSoto","PLEASANT HILL NORTH","U.S. Representative",1,"Democrat","SHAPIRO, RON",1
+"DeSoto","PLEASANT HILL NORTH","US Senator",NA,"Democrat","BOWLIN, BILL",0
+"DeSoto","PLEASANT HILL NORTH","US Senator",NA,"Democrat","FLEMING, ERIK",0
+"DeSoto","PLEASANT HILL NORTH","US Senator",NA,"Democrat","O'KEEFE, JAMES",1
+"DeSoto","PLEASANT HILL NORTH","US Senator",NA,"Democrat","STARR, CATHERINE M.",2
+"DeSoto","PLEASANT HILL SOUTH","U.S. Representative",1,"Democrat","BAMBACH, WILLIAM",0
+"DeSoto","PLEASANT HILL SOUTH","U.S. Representative",1,"Democrat","FORSYTHE, JOE JR.",0
+"DeSoto","PLEASANT HILL SOUTH","U.S. Representative",1,"Democrat","HURT, JAMES K.",0
+"DeSoto","PLEASANT HILL SOUTH","U.S. Representative",1,"Democrat","SHAPIRO, RON",2
+"DeSoto","PLEASANT HILL SOUTH","US Senator",NA,"Democrat","BOWLIN, BILL",2
+"DeSoto","PLEASANT HILL SOUTH","US Senator",NA,"Democrat","FLEMING, ERIK",0
+"DeSoto","PLEASANT HILL SOUTH","US Senator",NA,"Democrat","O'KEEFE, JAMES",0
+"DeSoto","PLEASANT HILL SOUTH","US Senator",NA,"Democrat","STARR, CATHERINE M.",0
+"DeSoto","PLUM POINT","U.S. Representative",1,"Democrat","BAMBACH, WILLIAM",3
+"DeSoto","PLUM POINT","U.S. Representative",1,"Democrat","FORSYTHE, JOE JR.",3
+"DeSoto","PLUM POINT","U.S. Representative",1,"Democrat","HURT, JAMES K.",1
+"DeSoto","PLUM POINT","U.S. Representative",1,"Democrat","SHAPIRO, RON",3
+"DeSoto","PLUM POINT","US Senator",NA,"Democrat","BOWLIN, BILL",1
+"DeSoto","PLUM POINT","US Senator",NA,"Democrat","FLEMING, ERIK",5
+"DeSoto","PLUM POINT","US Senator",NA,"Democrat","O'KEEFE, JAMES",2
+"DeSoto","PLUM POINT","US Senator",NA,"Democrat","STARR, CATHERINE M.",2
+"DeSoto","PURGED VOTER PVP","U.S. Representative",1,"Democrat","BAMBACH, WILLIAM",0
+"DeSoto","PURGED VOTER PVP","U.S. Representative",1,"Democrat","FORSYTHE, JOE JR.",0
+"DeSoto","PURGED VOTER PVP","U.S. Representative",1,"Democrat","HURT, JAMES K.",0
+"DeSoto","PURGED VOTER PVP","U.S. Representative",1,"Democrat","SHAPIRO, RON",0
+"DeSoto","PURGED VOTER PVP","US Senator",NA,"Democrat","BOWLIN, BILL",0
+"DeSoto","PURGED VOTER PVP","US Senator",NA,"Democrat","FLEMING, ERIK",0
+"DeSoto","PURGED VOTER PVP","US Senator",NA,"Democrat","O'KEEFE, JAMES",0
+"DeSoto","PURGED VOTER PVP","US Senator",NA,"Democrat","STARR, CATHERINE M.",0
+"DeSoto","SOUTHAVEN NORTH","U.S. Representative",1,"Democrat","BAMBACH, WILLIAM",2
+"DeSoto","SOUTHAVEN NORTH","U.S. Representative",1,"Democrat","FORSYTHE, JOE JR.",7
+"DeSoto","SOUTHAVEN NORTH","U.S. Representative",1,"Democrat","HURT, JAMES K.",0
+"DeSoto","SOUTHAVEN NORTH","U.S. Representative",1,"Democrat","SHAPIRO, RON",8
+"DeSoto","SOUTHAVEN NORTH","US Senator",NA,"Democrat","BOWLIN, BILL",7
+"DeSoto","SOUTHAVEN NORTH","US Senator",NA,"Democrat","FLEMING, ERIK",5
+"DeSoto","SOUTHAVEN NORTH","US Senator",NA,"Democrat","O'KEEFE, JAMES",2
+"DeSoto","SOUTHAVEN NORTH","US Senator",NA,"Democrat","STARR, CATHERINE M.",4
+"DeSoto","SOUTHAVEN SOUTH","U.S. Representative",1,"Democrat","BAMBACH, WILLIAM",0
+"DeSoto","SOUTHAVEN SOUTH","U.S. Representative",1,"Democrat","FORSYTHE, JOE JR.",0
+"DeSoto","SOUTHAVEN SOUTH","U.S. Representative",1,"Democrat","HURT, JAMES K.",0
+"DeSoto","SOUTHAVEN SOUTH","U.S. Representative",1,"Democrat","SHAPIRO, RON",0
+"DeSoto","SOUTHAVEN SOUTH","US Senator",NA,"Democrat","BOWLIN, BILL",0
+"DeSoto","SOUTHAVEN SOUTH","US Senator",NA,"Democrat","FLEMING, ERIK",0
+"DeSoto","SOUTHAVEN SOUTH","US Senator",NA,"Democrat","O'KEEFE, JAMES",0
+"DeSoto","SOUTHAVEN SOUTH","US Senator",NA,"Democrat","STARR, CATHERINE M.",0
+"DeSoto","SOUTHAVEN WEST","U.S. Representative",1,"Democrat","BAMBACH, WILLIAM",1
+"DeSoto","SOUTHAVEN WEST","U.S. Representative",1,"Democrat","FORSYTHE, JOE JR.",1
+"DeSoto","SOUTHAVEN WEST","U.S. Representative",1,"Democrat","HURT, JAMES K.",4
+"DeSoto","SOUTHAVEN WEST","U.S. Representative",1,"Democrat","SHAPIRO, RON",8
+"DeSoto","SOUTHAVEN WEST","US Senator",NA,"Democrat","BOWLIN, BILL",3
+"DeSoto","SOUTHAVEN WEST","US Senator",NA,"Democrat","FLEMING, ERIK",4
+"DeSoto","SOUTHAVEN WEST","US Senator",NA,"Democrat","O'KEEFE, JAMES",1
+"DeSoto","SOUTHAVEN WEST","US Senator",NA,"Democrat","STARR, CATHERINE M.",5
+"DeSoto","TWIN LAKES & HOLLY HILLS","U.S. Representative",1,"Democrat","BAMBACH, WILLIAM",0
+"DeSoto","TWIN LAKES & HOLLY HILLS","U.S. Representative",1,"Democrat","FORSYTHE, JOE JR.",4
+"DeSoto","TWIN LAKES & HOLLY HILLS","U.S. Representative",1,"Democrat","HURT, JAMES K.",3
+"DeSoto","TWIN LAKES & HOLLY HILLS","U.S. Representative",1,"Democrat","SHAPIRO, RON",7
+"DeSoto","TWIN LAKES & HOLLY HILLS","US Senator",NA,"Democrat","BOWLIN, BILL",7
+"DeSoto","TWIN LAKES & HOLLY HILLS","US Senator",NA,"Democrat","FLEMING, ERIK",3
+"DeSoto","TWIN LAKES & HOLLY HILLS","US Senator",NA,"Democrat","O'KEEFE, JAMES",3
+"DeSoto","TWIN LAKES & HOLLY HILLS","US Senator",NA,"Democrat","STARR, CATHERINE M.",1
+"DeSoto","WALLS","U.S. Representative",1,"Democrat","BAMBACH, WILLIAM",2
+"DeSoto","WALLS","U.S. Representative",1,"Democrat","FORSYTHE, JOE JR.",3
+"DeSoto","WALLS","U.S. Representative",1,"Democrat","HURT, JAMES K.",4
+"DeSoto","WALLS","U.S. Representative",1,"Democrat","SHAPIRO, RON",19
+"DeSoto","WALLS","US Senator",NA,"Democrat","BOWLIN, BILL",7
+"DeSoto","WALLS","US Senator",NA,"Democrat","FLEMING, ERIK",9
+"DeSoto","WALLS","US Senator",NA,"Democrat","O'KEEFE, JAMES",6
+"DeSoto","WALLS","US Senator",NA,"Democrat","STARR, CATHERINE M.",4

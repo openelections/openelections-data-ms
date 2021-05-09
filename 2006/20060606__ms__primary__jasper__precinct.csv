@@ -1,106 +1,106 @@
-"","county","precinct","office","district","party","candidate","votes"
-"1","Jasper","BAY SPRINGS BEAT 3","U.S. Representative",4,"Democrat","TAYLOR, GENE",NA
-"2","Jasper","BAY SPRINGS BEAT 3","US Senator",NA,"Democrat","BOWLIN, BILL",5
-"3","Jasper","BAY SPRINGS BEAT 3","US Senator",NA,"Democrat","FLEMING, ERIK",13
-"4","Jasper","BAY SPRINGS BEAT 3","US Senator",NA,"Democrat","O'KEEFE, JAMES",6
-"5","Jasper","BAY SPRINGS BEAT 3","US Senator",NA,"Democrat","STARR, CATHERINE M.",1
-"6","Jasper","BAY SPRINGS BEAT 4","U.S. Representative",4,"Democrat","TAYLOR, GENE",NA
-"7","Jasper","BAY SPRINGS BEAT 4","US Senator",NA,"Democrat","BOWLIN, BILL",9
-"8","Jasper","BAY SPRINGS BEAT 4","US Senator",NA,"Democrat","FLEMING, ERIK",19
-"9","Jasper","BAY SPRINGS BEAT 4","US Senator",NA,"Democrat","O'KEEFE, JAMES",4
-"10","Jasper","BAY SPRINGS BEAT 4","US Senator",NA,"Democrat","STARR, CATHERINE M.",1
-"11","Jasper","BEAT 1 ANTIOCH 2 JUDICIAL","U.S. Representative",4,"Democrat","TAYLOR, GENE",13
-"12","Jasper","BEAT 1 ANTIOCH 2 JUDICIAL","US Senator",NA,"Democrat","BOWLIN, BILL",3
-"13","Jasper","BEAT 1 ANTIOCH 2 JUDICIAL","US Senator",NA,"Democrat","FLEMING, ERIK",2
-"14","Jasper","BEAT 1 ANTIOCH 2 JUDICIAL","US Senator",NA,"Democrat","O'KEEFE, JAMES",5
-"15","Jasper","BEAT 1 ANTIOCH 2 JUDICIAL","US Senator",NA,"Democrat","STARR, CATHERINE M.",0
-"16","Jasper","BEAT 1 HOLDERS-WALDRUP","U.S. Representative",4,"Democrat","TAYLOR, GENE",NA
-"17","Jasper","BEAT 1 HOLDERS-WALDRUP","US Senator",NA,"Democrat","BOWLIN, BILL",3
-"18","Jasper","BEAT 1 HOLDERS-WALDRUP","US Senator",NA,"Democrat","FLEMING, ERIK",2
-"19","Jasper","BEAT 1 HOLDERS-WALDRUP","US Senator",NA,"Democrat","O'KEEFE, JAMES",0
-"20","Jasper","BEAT 1 HOLDERS-WALDRUP","US Senator",NA,"Democrat","STARR, CATHERINE M.",4
-"21","Jasper","BEAT 1 HOLDERS-WALDRUP","U.S. Representative",4,"Democrat","TAYLOR, GENE",NA
-"22","Jasper","BEAT 1 HOLDERS-WALDRUP","US Senator",NA,"Democrat","BOWLIN, BILL",3
-"23","Jasper","BEAT 1 HOLDERS-WALDRUP","US Senator",NA,"Democrat","FLEMING, ERIK",2
-"24","Jasper","BEAT 1 HOLDERS-WALDRUP","US Senator",NA,"Democrat","O'KEEFE, JAMES",2
-"25","Jasper","BEAT 1 HOLDERS-WALDRUP","US Senator",NA,"Democrat","STARR, CATHERINE M.",2
-"26","Jasper","CLAIBORNE","U.S. Representative",4,"Democrat","TAYLOR, GENE",20
-"27","Jasper","CLAIBORNE","US Senator",NA,"Democrat","BOWLIN, BILL",4
-"28","Jasper","CLAIBORNE","US Senator",NA,"Democrat","FLEMING, ERIK",9
-"29","Jasper","CLAIBORNE","US Senator",NA,"Democrat","O'KEEFE, JAMES",1
-"30","Jasper","CLAIBORNE","US Senator",NA,"Democrat","STARR, CATHERINE M.",7
-"31","Jasper","COOKS MILL","U.S. Representative",4,"Democrat","TAYLOR, GENE",52
-"32","Jasper","COOKS MILL","US Senator",NA,"Democrat","BOWLIN, BILL",14
-"33","Jasper","COOKS MILL","US Senator",NA,"Democrat","FLEMING, ERIK",23
-"34","Jasper","COOKS MILL","US Senator",NA,"Democrat","O'KEEFE, JAMES",15
-"35","Jasper","COOKS MILL","US Senator",NA,"Democrat","STARR, CATHERINE M.",3
-"36","Jasper","FELLOWSHIP","U.S. Representative",4,"Democrat","TAYLOR, GENE",28
-"37","Jasper","FELLOWSHIP","US Senator",NA,"Democrat","BOWLIN, BILL",12
-"38","Jasper","FELLOWSHIP","US Senator",NA,"Democrat","FLEMING, ERIK",1
-"39","Jasper","FELLOWSHIP","US Senator",NA,"Democrat","O'KEEFE, JAMES",7
-"40","Jasper","FELLOWSHIP","US Senator",NA,"Democrat","STARR, CATHERINE M.",5
-"41","Jasper","GARLANDSVILLE","U.S. Representative",4,"Democrat","TAYLOR, GENE",NA
-"42","Jasper","GARLANDSVILLE","US Senator",NA,"Democrat","BOWLIN, BILL",4
-"43","Jasper","GARLANDSVILLE","US Senator",NA,"Democrat","FLEMING, ERIK",2
-"44","Jasper","GARLANDSVILLE","US Senator",NA,"Democrat","O'KEEFE, JAMES",6
-"45","Jasper","GARLANDSVILLE","US Senator",NA,"Democrat","STARR, CATHERINE M.",1
-"46","Jasper","HEIDELBERG BEAT 5","U.S. Representative",4,"Democrat","TAYLOR, GENE",48
-"47","Jasper","HEIDELBERG BEAT 5","US Senator",NA,"Democrat","BOWLIN, BILL",17
-"48","Jasper","HEIDELBERG BEAT 5","US Senator",NA,"Democrat","FLEMING, ERIK",13
-"49","Jasper","HEIDELBERG BEAT 5","US Senator",NA,"Democrat","O'KEEFE, JAMES",13
-"50","Jasper","HEIDELBERG BEAT 5","US Senator",NA,"Democrat","STARR, CATHERINE M.",5
-"51","Jasper","LOUIN","U.S. Representative",4,"Democrat","TAYLOR, GENE",NA
-"52","Jasper","LOUIN","US Senator",NA,"Democrat","BOWLIN, BILL",5
-"53","Jasper","LOUIN","US Senator",NA,"Democrat","FLEMING, ERIK",1
-"54","Jasper","LOUIN","US Senator",NA,"Democrat","O'KEEFE, JAMES",18
-"55","Jasper","LOUIN","US Senator",NA,"Democrat","STARR, CATHERINE M.",2
-"56","Jasper","MIDWAY","U.S. Representative",4,"Democrat","TAYLOR, GENE",36
-"57","Jasper","MIDWAY","US Senator",NA,"Democrat","BOWLIN, BILL",15
-"58","Jasper","MIDWAY","US Senator",NA,"Democrat","FLEMING, ERIK",12
-"59","Jasper","MIDWAY","US Senator",NA,"Democrat","O'KEEFE, JAMES",4
-"60","Jasper","MIDWAY","US Senator",NA,"Democrat","STARR, CATHERINE M.",5
-"61","Jasper","MONTROSE","U.S. Representative",4,"Democrat","TAYLOR, GENE",NA
-"62","Jasper","MONTROSE","US Senator",NA,"Democrat","BOWLIN, BILL",6
-"63","Jasper","MONTROSE","US Senator",NA,"Democrat","FLEMING, ERIK",15
-"64","Jasper","MONTROSE","US Senator",NA,"Democrat","O'KEEFE, JAMES",5
-"65","Jasper","MONTROSE","US Senator",NA,"Democrat","STARR, CATHERINE M.",1
-"66","Jasper","MOSS FIRST","U.S. Representative",4,"Democrat","TAYLOR, GENE",2
-"67","Jasper","MOSS FIRST","US Senator",NA,"Democrat","BOWLIN, BILL",0
-"68","Jasper","MOSS FIRST","US Senator",NA,"Democrat","FLEMING, ERIK",0
-"69","Jasper","MOSS FIRST","US Senator",NA,"Democrat","O'KEEFE, JAMES",2
-"70","Jasper","MOSS FIRST","US Senator",NA,"Democrat","STARR, CATHERINE M.",0
-"71","Jasper","MOSS SECOND","U.S. Representative",4,"Democrat","TAYLOR, GENE",30
-"72","Jasper","MOSS SECOND","US Senator",NA,"Democrat","BOWLIN, BILL",14
-"73","Jasper","MOSS SECOND","US Senator",NA,"Democrat","FLEMING, ERIK",6
-"74","Jasper","MOSS SECOND","US Senator",NA,"Democrat","O'KEEFE, JAMES",2
-"75","Jasper","MOSS SECOND","US Senator",NA,"Democrat","STARR, CATHERINE M.",6
-"76","Jasper","PALESTINE","U.S. Representative",4,"Democrat","TAYLOR, GENE",28
-"77","Jasper","PALESTINE","US Senator",NA,"Democrat","BOWLIN, BILL",6
-"78","Jasper","PALESTINE","US Senator",NA,"Democrat","FLEMING, ERIK",7
-"79","Jasper","PALESTINE","US Senator",NA,"Democrat","O'KEEFE, JAMES",8
-"80","Jasper","PALESTINE","US Senator",NA,"Democrat","STARR, CATHERINE M.",6
-"81","Jasper","PHILADELPHIA","U.S. Representative",4,"Democrat","TAYLOR, GENE",17
-"82","Jasper","PHILADELPHIA","US Senator",NA,"Democrat","BOWLIN, BILL",6
-"83","Jasper","PHILADELPHIA","US Senator",NA,"Democrat","FLEMING, ERIK",9
-"84","Jasper","PHILADELPHIA","US Senator",NA,"Democrat","O'KEEFE, JAMES",2
-"85","Jasper","PHILADELPHIA","US Senator",NA,"Democrat","STARR, CATHERINE M.",0
-"86","Jasper","PURGED VOTER","U.S. Representative",4,"Democrat","TAYLOR, GENE",NA
-"87","Jasper","PURGED VOTER","US Senator",NA,"Democrat","BOWLIN, BILL",0
-"88","Jasper","PURGED VOTER","US Senator",NA,"Democrat","FLEMING, ERIK",0
-"89","Jasper","PURGED VOTER","US Senator",NA,"Democrat","O'KEEFE, JAMES",0
-"90","Jasper","PURGED VOTER","US Senator",NA,"Democrat","STARR, CATHERINE M.",0
-"91","Jasper","ROSE HILL","U.S. Representative",4,"Democrat","TAYLOR, GENE",32
-"92","Jasper","ROSE HILL","US Senator",NA,"Democrat","BOWLIN, BILL",8
-"93","Jasper","ROSE HILL","US Senator",NA,"Democrat","FLEMING, ERIK",8
-"94","Jasper","ROSE HILL","US Senator",NA,"Democrat","O'KEEFE, JAMES",15
-"95","Jasper","ROSE HILL","US Senator",NA,"Democrat","STARR, CATHERINE M.",1
-"96","Jasper","STRINGER","U.S. Representative",4,"Democrat","TAYLOR, GENE",41
-"97","Jasper","STRINGER","US Senator",NA,"Democrat","BOWLIN, BILL",11
-"98","Jasper","STRINGER","US Senator",NA,"Democrat","FLEMING, ERIK",2
-"99","Jasper","STRINGER","US Senator",NA,"Democrat","O'KEEFE, JAMES",27
-"100","Jasper","STRINGER","US Senator",NA,"Democrat","STARR, CATHERINE M.",2
-"101","Jasper","VOSSBURG","U.S. Representative",4,"Democrat","TAYLOR, GENE",28
-"102","Jasper","VOSSBURG","US Senator",NA,"Democrat","BOWLIN, BILL",8
-"103","Jasper","VOSSBURG","US Senator",NA,"Democrat","FLEMING, ERIK",7
-"104","Jasper","VOSSBURG","US Senator",NA,"Democrat","O'KEEFE, JAMES",8
-"105","Jasper","VOSSBURG","US Senator",NA,"Democrat","STARR, CATHERINE M.",5
+"county","precinct","office","district","party","candidate","votes"
+"Jasper","BAY SPRINGS BEAT 3","U.S. Representative",4,"Democrat","TAYLOR, GENE",NA
+"Jasper","BAY SPRINGS BEAT 3","US Senator",NA,"Democrat","BOWLIN, BILL",5
+"Jasper","BAY SPRINGS BEAT 3","US Senator",NA,"Democrat","FLEMING, ERIK",13
+"Jasper","BAY SPRINGS BEAT 3","US Senator",NA,"Democrat","O'KEEFE, JAMES",6
+"Jasper","BAY SPRINGS BEAT 3","US Senator",NA,"Democrat","STARR, CATHERINE M.",1
+"Jasper","BAY SPRINGS BEAT 4","U.S. Representative",4,"Democrat","TAYLOR, GENE",NA
+"Jasper","BAY SPRINGS BEAT 4","US Senator",NA,"Democrat","BOWLIN, BILL",9
+"Jasper","BAY SPRINGS BEAT 4","US Senator",NA,"Democrat","FLEMING, ERIK",19
+"Jasper","BAY SPRINGS BEAT 4","US Senator",NA,"Democrat","O'KEEFE, JAMES",4
+"Jasper","BAY SPRINGS BEAT 4","US Senator",NA,"Democrat","STARR, CATHERINE M.",1
+"Jasper","BEAT 1 ANTIOCH 2 JUDICIAL","U.S. Representative",4,"Democrat","TAYLOR, GENE",13
+"Jasper","BEAT 1 ANTIOCH 2 JUDICIAL","US Senator",NA,"Democrat","BOWLIN, BILL",3
+"Jasper","BEAT 1 ANTIOCH 2 JUDICIAL","US Senator",NA,"Democrat","FLEMING, ERIK",2
+"Jasper","BEAT 1 ANTIOCH 2 JUDICIAL","US Senator",NA,"Democrat","O'KEEFE, JAMES",5
+"Jasper","BEAT 1 ANTIOCH 2 JUDICIAL","US Senator",NA,"Democrat","STARR, CATHERINE M.",0
+"Jasper","BEAT 1 HOLDERS-WALDRUP","U.S. Representative",4,"Democrat","TAYLOR, GENE",NA
+"Jasper","BEAT 1 HOLDERS-WALDRUP","US Senator",NA,"Democrat","BOWLIN, BILL",3
+"Jasper","BEAT 1 HOLDERS-WALDRUP","US Senator",NA,"Democrat","FLEMING, ERIK",2
+"Jasper","BEAT 1 HOLDERS-WALDRUP","US Senator",NA,"Democrat","O'KEEFE, JAMES",0
+"Jasper","BEAT 1 HOLDERS-WALDRUP","US Senator",NA,"Democrat","STARR, CATHERINE M.",4
+"Jasper","BEAT 1 HOLDERS-WALDRUP","U.S. Representative",4,"Democrat","TAYLOR, GENE",NA
+"Jasper","BEAT 1 HOLDERS-WALDRUP","US Senator",NA,"Democrat","BOWLIN, BILL",3
+"Jasper","BEAT 1 HOLDERS-WALDRUP","US Senator",NA,"Democrat","FLEMING, ERIK",2
+"Jasper","BEAT 1 HOLDERS-WALDRUP","US Senator",NA,"Democrat","O'KEEFE, JAMES",2
+"Jasper","BEAT 1 HOLDERS-WALDRUP","US Senator",NA,"Democrat","STARR, CATHERINE M.",2
+"Jasper","CLAIBORNE","U.S. Representative",4,"Democrat","TAYLOR, GENE",20
+"Jasper","CLAIBORNE","US Senator",NA,"Democrat","BOWLIN, BILL",4
+"Jasper","CLAIBORNE","US Senator",NA,"Democrat","FLEMING, ERIK",9
+"Jasper","CLAIBORNE","US Senator",NA,"Democrat","O'KEEFE, JAMES",1
+"Jasper","CLAIBORNE","US Senator",NA,"Democrat","STARR, CATHERINE M.",7
+"Jasper","COOKS MILL","U.S. Representative",4,"Democrat","TAYLOR, GENE",52
+"Jasper","COOKS MILL","US Senator",NA,"Democrat","BOWLIN, BILL",14
+"Jasper","COOKS MILL","US Senator",NA,"Democrat","FLEMING, ERIK",23
+"Jasper","COOKS MILL","US Senator",NA,"Democrat","O'KEEFE, JAMES",15
+"Jasper","COOKS MILL","US Senator",NA,"Democrat","STARR, CATHERINE M.",3
+"Jasper","FELLOWSHIP","U.S. Representative",4,"Democrat","TAYLOR, GENE",28
+"Jasper","FELLOWSHIP","US Senator",NA,"Democrat","BOWLIN, BILL",12
+"Jasper","FELLOWSHIP","US Senator",NA,"Democrat","FLEMING, ERIK",1
+"Jasper","FELLOWSHIP","US Senator",NA,"Democrat","O'KEEFE, JAMES",7
+"Jasper","FELLOWSHIP","US Senator",NA,"Democrat","STARR, CATHERINE M.",5
+"Jasper","GARLANDSVILLE","U.S. Representative",4,"Democrat","TAYLOR, GENE",NA
+"Jasper","GARLANDSVILLE","US Senator",NA,"Democrat","BOWLIN, BILL",4
+"Jasper","GARLANDSVILLE","US Senator",NA,"Democrat","FLEMING, ERIK",2
+"Jasper","GARLANDSVILLE","US Senator",NA,"Democrat","O'KEEFE, JAMES",6
+"Jasper","GARLANDSVILLE","US Senator",NA,"Democrat","STARR, CATHERINE M.",1
+"Jasper","HEIDELBERG BEAT 5","U.S. Representative",4,"Democrat","TAYLOR, GENE",48
+"Jasper","HEIDELBERG BEAT 5","US Senator",NA,"Democrat","BOWLIN, BILL",17
+"Jasper","HEIDELBERG BEAT 5","US Senator",NA,"Democrat","FLEMING, ERIK",13
+"Jasper","HEIDELBERG BEAT 5","US Senator",NA,"Democrat","O'KEEFE, JAMES",13
+"Jasper","HEIDELBERG BEAT 5","US Senator",NA,"Democrat","STARR, CATHERINE M.",5
+"Jasper","LOUIN","U.S. Representative",4,"Democrat","TAYLOR, GENE",NA
+"Jasper","LOUIN","US Senator",NA,"Democrat","BOWLIN, BILL",5
+"Jasper","LOUIN","US Senator",NA,"Democrat","FLEMING, ERIK",1
+"Jasper","LOUIN","US Senator",NA,"Democrat","O'KEEFE, JAMES",18
+"Jasper","LOUIN","US Senator",NA,"Democrat","STARR, CATHERINE M.",2
+"Jasper","MIDWAY","U.S. Representative",4,"Democrat","TAYLOR, GENE",36
+"Jasper","MIDWAY","US Senator",NA,"Democrat","BOWLIN, BILL",15
+"Jasper","MIDWAY","US Senator",NA,"Democrat","FLEMING, ERIK",12
+"Jasper","MIDWAY","US Senator",NA,"Democrat","O'KEEFE, JAMES",4
+"Jasper","MIDWAY","US Senator",NA,"Democrat","STARR, CATHERINE M.",5
+"Jasper","MONTROSE","U.S. Representative",4,"Democrat","TAYLOR, GENE",NA
+"Jasper","MONTROSE","US Senator",NA,"Democrat","BOWLIN, BILL",6
+"Jasper","MONTROSE","US Senator",NA,"Democrat","FLEMING, ERIK",15
+"Jasper","MONTROSE","US Senator",NA,"Democrat","O'KEEFE, JAMES",5
+"Jasper","MONTROSE","US Senator",NA,"Democrat","STARR, CATHERINE M.",1
+"Jasper","MOSS FIRST","U.S. Representative",4,"Democrat","TAYLOR, GENE",2
+"Jasper","MOSS FIRST","US Senator",NA,"Democrat","BOWLIN, BILL",0
+"Jasper","MOSS FIRST","US Senator",NA,"Democrat","FLEMING, ERIK",0
+"Jasper","MOSS FIRST","US Senator",NA,"Democrat","O'KEEFE, JAMES",2
+"Jasper","MOSS FIRST","US Senator",NA,"Democrat","STARR, CATHERINE M.",0
+"Jasper","MOSS SECOND","U.S. Representative",4,"Democrat","TAYLOR, GENE",30
+"Jasper","MOSS SECOND","US Senator",NA,"Democrat","BOWLIN, BILL",14
+"Jasper","MOSS SECOND","US Senator",NA,"Democrat","FLEMING, ERIK",6
+"Jasper","MOSS SECOND","US Senator",NA,"Democrat","O'KEEFE, JAMES",2
+"Jasper","MOSS SECOND","US Senator",NA,"Democrat","STARR, CATHERINE M.",6
+"Jasper","PALESTINE","U.S. Representative",4,"Democrat","TAYLOR, GENE",28
+"Jasper","PALESTINE","US Senator",NA,"Democrat","BOWLIN, BILL",6
+"Jasper","PALESTINE","US Senator",NA,"Democrat","FLEMING, ERIK",7
+"Jasper","PALESTINE","US Senator",NA,"Democrat","O'KEEFE, JAMES",8
+"Jasper","PALESTINE","US Senator",NA,"Democrat","STARR, CATHERINE M.",6
+"Jasper","PHILADELPHIA","U.S. Representative",4,"Democrat","TAYLOR, GENE",17
+"Jasper","PHILADELPHIA","US Senator",NA,"Democrat","BOWLIN, BILL",6
+"Jasper","PHILADELPHIA","US Senator",NA,"Democrat","FLEMING, ERIK",9
+"Jasper","PHILADELPHIA","US Senator",NA,"Democrat","O'KEEFE, JAMES",2
+"Jasper","PHILADELPHIA","US Senator",NA,"Democrat","STARR, CATHERINE M.",0
+"Jasper","PURGED VOTER","U.S. Representative",4,"Democrat","TAYLOR, GENE",NA
+"Jasper","PURGED VOTER","US Senator",NA,"Democrat","BOWLIN, BILL",0
+"Jasper","PURGED VOTER","US Senator",NA,"Democrat","FLEMING, ERIK",0
+"Jasper","PURGED VOTER","US Senator",NA,"Democrat","O'KEEFE, JAMES",0
+"Jasper","PURGED VOTER","US Senator",NA,"Democrat","STARR, CATHERINE M.",0
+"Jasper","ROSE HILL","U.S. Representative",4,"Democrat","TAYLOR, GENE",32
+"Jasper","ROSE HILL","US Senator",NA,"Democrat","BOWLIN, BILL",8
+"Jasper","ROSE HILL","US Senator",NA,"Democrat","FLEMING, ERIK",8
+"Jasper","ROSE HILL","US Senator",NA,"Democrat","O'KEEFE, JAMES",15
+"Jasper","ROSE HILL","US Senator",NA,"Democrat","STARR, CATHERINE M.",1
+"Jasper","STRINGER","U.S. Representative",4,"Democrat","TAYLOR, GENE",41
+"Jasper","STRINGER","US Senator",NA,"Democrat","BOWLIN, BILL",11
+"Jasper","STRINGER","US Senator",NA,"Democrat","FLEMING, ERIK",2
+"Jasper","STRINGER","US Senator",NA,"Democrat","O'KEEFE, JAMES",27
+"Jasper","STRINGER","US Senator",NA,"Democrat","STARR, CATHERINE M.",2
+"Jasper","VOSSBURG","U.S. Representative",4,"Democrat","TAYLOR, GENE",28
+"Jasper","VOSSBURG","US Senator",NA,"Democrat","BOWLIN, BILL",8
+"Jasper","VOSSBURG","US Senator",NA,"Democrat","FLEMING, ERIK",7
+"Jasper","VOSSBURG","US Senator",NA,"Democrat","O'KEEFE, JAMES",8
+"Jasper","VOSSBURG","US Senator",NA,"Democrat","STARR, CATHERINE M.",5

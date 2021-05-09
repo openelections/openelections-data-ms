@@ -1,176 +1,176 @@
-"","county","precinct","office","district","party","candidate","votes"
-"1","Forrest","BAR","U.S. Representative",4,"Democrat","TAYLOR, GENE",23
-"2","Forrest","BAR","US Senator",NA,"Democrat","BOWLIN, BILL",7
-"3","Forrest","BAR","US Senator",NA,"Democrat","FLEMING, ERIK",2
-"4","Forrest","BAR","US Senator",NA,"Democrat","O'KEEFE, JAMES",11
-"5","Forrest","BAR","US Senator",NA,"Democrat","STARR, CATHERINE M.",2
-"6","Forrest","BLAI","U.S. Representative",4,"Democrat","TAYLOR, GENE",22
-"7","Forrest","BLAI","US Senator",NA,"Democrat","BOWLIN, BILL",3
-"8","Forrest","BLAI","US Senator",NA,"Democrat","FLEMING, ERIK",4
-"9","Forrest","BLAI","US Senator",NA,"Democrat","O'KEEFE, JAMES",6
-"10","Forrest","BLAI","US Senator",NA,"Democrat","STARR, CATHERINE M.",7
-"11","Forrest","BRO","U.S. Representative",4,"Democrat","TAYLOR, GENE",12
-"12","Forrest","BRO","US Senator",NA,"Democrat","BOWLIN, BILL",2
-"13","Forrest","BRO","US Senator",NA,"Democrat","FLEMING, ERIK",0
-"14","Forrest","BRO","US Senator",NA,"Democrat","O'KEEFE, JAMES",8
-"15","Forrest","BRO","US Senator",NA,"Democrat","STARR, CATHERINE M.",3
-"16","Forrest","CAM","U.S. Representative",4,"Democrat","TAYLOR, GENE",8
-"17","Forrest","CAM","US Senator",NA,"Democrat","BOWLIN, BILL",2
-"18","Forrest","CAM","US Senator",NA,"Democrat","FLEMING, ERIK",4
-"19","Forrest","CAM","US Senator",NA,"Democrat","O'KEEFE, JAMES",3
-"20","Forrest","CAM","US Senator",NA,"Democrat","STARR, CATHERINE M.",0
-"21","Forrest","CAR","U.S. Representative",4,"Democrat","TAYLOR, GENE",10
-"22","Forrest","CAR","US Senator",NA,"Democrat","BOWLIN, BILL",1
-"23","Forrest","CAR","US Senator",NA,"Democrat","FLEMING, ERIK",2
-"24","Forrest","CAR","US Senator",NA,"Democrat","O'KEEFE, JAMES",5
-"25","Forrest","CAR","US Senator",NA,"Democrat","STARR, CATHERINE M.",1
-"26","Forrest","DAN","U.S. Representative",4,"Democrat","TAYLOR, GENE",17
-"27","Forrest","DAN","US Senator",NA,"Democrat","BOWLIN, BILL",4
-"28","Forrest","DAN","US Senator",NA,"Democrat","FLEMING, ERIK",4
-"29","Forrest","DAN","US Senator",NA,"Democrat","O'KEEFE, JAMES",4
-"30","Forrest","DAN","US Senator",NA,"Democrat","STARR, CATHERINE M.",3
-"31","Forrest","DAVI","U.S. Representative",4,"Democrat","TAYLOR, GENE",43
-"32","Forrest","DAVI","US Senator",NA,"Democrat","BOWLIN, BILL",6
-"33","Forrest","DAVI","US Senator",NA,"Democrat","FLEMING, ERIK",15
-"34","Forrest","DAVI","US Senator",NA,"Democrat","O'KEEFE, JAMES",13
-"35","Forrest","DAVI","US Senator",NA,"Democrat","STARR, CATHERINE M.",6
-"36","Forrest","DIXI","U.S. Representative",4,"Democrat","TAYLOR, GENE",41
-"37","Forrest","DIXI","US Senator",NA,"Democrat","BOWLIN, BILL",10
-"38","Forrest","DIXI","US Senator",NA,"Democrat","FLEMING, ERIK",6
-"39","Forrest","DIXI","US Senator",NA,"Democrat","O'KEEFE, JAMES",16
-"40","Forrest","DIXI","US Senator",NA,"Democrat","STARR, CATHERINE M.",8
-"41","Forrest","DIXI","U.S. Representative",4,"Democrat","TAYLOR, GENE",39
-"42","Forrest","DIXI","US Senator",NA,"Democrat","BOWLIN, BILL",10
-"43","Forrest","DIXI","US Senator",NA,"Democrat","FLEMING, ERIK",11
-"44","Forrest","DIXI","US Senator",NA,"Democrat","O'KEEFE, JAMES",15
-"45","Forrest","DIXI","US Senator",NA,"Democrat","STARR, CATHERINE M.",5
-"46","Forrest","EAS","U.S. Representative",4,"Democrat","TAYLOR, GENE",17
-"47","Forrest","EAS","US Senator",NA,"Democrat","BOWLIN, BILL",6
-"48","Forrest","EAS","US Senator",NA,"Democrat","FLEMING, ERIK",3
-"49","Forrest","EAS","US Senator",NA,"Democrat","O'KEEFE, JAMES",6
-"50","Forrest","EAS","US Senator",NA,"Democrat","STARR, CATHERINE M.",1
-"51","Forrest","EAT","U.S. Representative",4,"Democrat","TAYLOR, GENE",22
-"52","Forrest","EAT","US Senator",NA,"Democrat","BOWLIN, BILL",0
-"53","Forrest","EAT","US Senator",NA,"Democrat","FLEMING, ERIK",22
-"54","Forrest","EAT","US Senator",NA,"Democrat","O'KEEFE, JAMES",3
-"55","Forrest","EAT","US Senator",NA,"Democrat","STARR, CATHERINE M.",0
-"56","Forrest","EAT","U.S. Representative",4,"Democrat","TAYLOR, GENE",27
-"57","Forrest","EAT","US Senator",NA,"Democrat","BOWLIN, BILL",0
-"58","Forrest","EAT","US Senator",NA,"Democrat","FLEMING, ERIK",13
-"59","Forrest","EAT","US Senator",NA,"Democrat","O'KEEFE, JAMES",12
-"60","Forrest","EAT","US Senator",NA,"Democrat","STARR, CATHERINE M.",2
-"61","Forrest","GLE","U.S. Representative",4,"Democrat","TAYLOR, GENE",46
-"62","Forrest","GLE","US Senator",NA,"Democrat","BOWLIN, BILL",5
-"63","Forrest","GLE","US Senator",NA,"Democrat","FLEMING, ERIK",25
-"64","Forrest","GLE","US Senator",NA,"Democrat","O'KEEFE, JAMES",6
-"65","Forrest","GLE","US Senator",NA,"Democrat","STARR, CATHERINE M.",7
-"66","Forrest","HIG","U.S. Representative",4,"Democrat","TAYLOR, GENE",13
-"67","Forrest","HIG","US Senator",NA,"Democrat","BOWLIN, BILL",0
-"68","Forrest","HIG","US Senator",NA,"Democrat","FLEMING, ERIK",3
-"69","Forrest","HIG","US Senator",NA,"Democrat","O'KEEFE, JAMES",9
-"70","Forrest","HIG","US Senator",NA,"Democrat","STARR, CATHERINE M.",1
-"71","Forrest","JON","U.S. Representative",4,"Democrat","TAYLOR, GENE",30
-"72","Forrest","JON","US Senator",NA,"Democrat","BOWLIN, BILL",2
-"73","Forrest","JON","US Senator",NA,"Democrat","FLEMING, ERIK",15
-"74","Forrest","JON","US Senator",NA,"Democrat","O'KEEFE, JAMES",3
-"75","Forrest","JON","US Senator",NA,"Democrat","STARR, CATHERINE M.",9
-"76","Forrest","LEEV","U.S. Representative",4,"Democrat","TAYLOR, GENE",14
-"77","Forrest","LEEV","US Senator",NA,"Democrat","BOWLIN, BILL",2
-"78","Forrest","LEEV","US Senator",NA,"Democrat","FLEMING, ERIK",4
-"79","Forrest","LEEV","US Senator",NA,"Democrat","O'KEEFE, JAMES",4
-"80","Forrest","LEEV","US Senator",NA,"Democrat","STARR, CATHERINE M.",4
-"81","Forrest","LILLI","U.S. Representative",4,"Democrat","TAYLOR, GENE",19
-"82","Forrest","LILLI","US Senator",NA,"Democrat","BOWLIN, BILL",0
-"83","Forrest","LILLI","US Senator",NA,"Democrat","FLEMING, ERIK",14
-"84","Forrest","LILLI","US Senator",NA,"Democrat","O'KEEFE, JAMES",3
-"85","Forrest","LILLI","US Senator",NA,"Democrat","STARR, CATHERINE M.",4
-"86","Forrest","MAX","U.S. Representative",4,"Democrat","TAYLOR, GENE",11
-"87","Forrest","MAX","US Senator",NA,"Democrat","BOWLIN, BILL",3
-"88","Forrest","MAX","US Senator",NA,"Democrat","FLEMING, ERIK",2
-"89","Forrest","MAX","US Senator",NA,"Democrat","O'KEEFE, JAMES",4
-"90","Forrest","MAX","US Senator",NA,"Democrat","STARR, CATHERINE M.",2
-"91","Forrest","MCL","U.S. Representative",4,"Democrat","TAYLOR, GENE",12
-"92","Forrest","MCL","US Senator",NA,"Democrat","BOWLIN, BILL",6
-"93","Forrest","MCL","US Senator",NA,"Democrat","FLEMING, ERIK",2
-"94","Forrest","MCL","US Senator",NA,"Democrat","O'KEEFE, JAMES",2
-"95","Forrest","MCL","US Senator",NA,"Democrat","STARR, CATHERINE M.",1
-"96","Forrest","NOR","U.S. Representative",4,"Democrat","TAYLOR, GENE",11
-"97","Forrest","NOR","US Senator",NA,"Democrat","BOWLIN, BILL",0
-"98","Forrest","NOR","US Senator",NA,"Democrat","FLEMING, ERIK",4
-"99","Forrest","NOR","US Senator",NA,"Democrat","O'KEEFE, JAMES",1
-"100","Forrest","NOR","US Senator",NA,"Democrat","STARR, CATHERINE M.",6
-"101","Forrest","PETA","U.S. Representative",4,"Democrat","TAYLOR, GENE",26
-"102","Forrest","PETA","US Senator",NA,"Democrat","BOWLIN, BILL",5
-"103","Forrest","PETA","US Senator",NA,"Democrat","FLEMING, ERIK",2
-"104","Forrest","PETA","US Senator",NA,"Democrat","O'KEEFE, JAMES",13
-"105","Forrest","PETA","US Senator",NA,"Democrat","STARR, CATHERINE M.",3
-"106","Forrest","PINE","U.S. Representative",4,"Democrat","TAYLOR, GENE",11
-"107","Forrest","PINE","US Senator",NA,"Democrat","BOWLIN, BILL",1
-"108","Forrest","PINE","US Senator",NA,"Democrat","FLEMING, ERIK",3
-"109","Forrest","PINE","US Senator",NA,"Democrat","O'KEEFE, JAMES",3
-"110","Forrest","PINE","US Senator",NA,"Democrat","STARR, CATHERINE M.",4
-"111","Forrest","PRE","U.S. Representative",4,"Democrat","TAYLOR, GENE",0
-"112","Forrest","PRE","US Senator",NA,"Democrat","BOWLIN, BILL",0
-"113","Forrest","PRE","US Senator",NA,"Democrat","FLEMING, ERIK",0
-"114","Forrest","PRE","US Senator",NA,"Democrat","O'KEEFE, JAMES",0
-"115","Forrest","PRE","US Senator",NA,"Democrat","STARR, CATHERINE M.",0
-"116","Forrest","PRE","U.S. Representative",4,"Democrat","TAYLOR, GENE",0
-"117","Forrest","PRE","US Senator",NA,"Democrat","BOWLIN, BILL",0
-"118","Forrest","PRE","US Senator",NA,"Democrat","FLEMING, ERIK",0
-"119","Forrest","PRE","US Senator",NA,"Democrat","O'KEEFE, JAMES",0
-"120","Forrest","PRE","US Senator",NA,"Democrat","STARR, CATHERINE M.",0
-"121","Forrest","RAW","U.S. Representative",4,"Democrat","TAYLOR, GENE",23
-"122","Forrest","RAW","US Senator",NA,"Democrat","BOWLIN, BILL",5
-"123","Forrest","RAW","US Senator",NA,"Democrat","FLEMING, ERIK",7
-"124","Forrest","RAW","US Senator",NA,"Democrat","O'KEEFE, JAMES",7
-"125","Forrest","RAW","US Senator",NA,"Democrat","STARR, CATHERINE M.",3
-"126","Forrest","ROW","U.S. Representative",4,"Democrat","TAYLOR, GENE",35
-"127","Forrest","ROW","US Senator",NA,"Democrat","BOWLIN, BILL",8
-"128","Forrest","ROW","US Senator",NA,"Democrat","FLEMING, ERIK",15
-"129","Forrest","ROW","US Senator",NA,"Democrat","O'KEEFE, JAMES",6
-"130","Forrest","ROW","US Senator",NA,"Democrat","STARR, CATHERINE M.",5
-"131","Forrest","SAL","U.S. Representative",4,"Democrat","TAYLOR, GENE",41
-"132","Forrest","SAL","US Senator",NA,"Democrat","BOWLIN, BILL",6
-"133","Forrest","SAL","US Senator",NA,"Democrat","FLEMING, ERIK",18
-"134","Forrest","SAL","US Senator",NA,"Democrat","O'KEEFE, JAMES",11
-"135","Forrest","SAL","US Senator",NA,"Democrat","STARR, CATHERINE M.",6
-"136","Forrest","SUN","U.S. Representative",4,"Democrat","TAYLOR, GENE",14
-"137","Forrest","SUN","US Senator",NA,"Democrat","BOWLIN, BILL",1
-"138","Forrest","SUN","US Senator",NA,"Democrat","FLEMING, ERIK",6
-"139","Forrest","SUN","US Senator",NA,"Democrat","O'KEEFE, JAMES",5
-"140","Forrest","SUN","US Senator",NA,"Democrat","STARR, CATHERINE M.",2
-"141","Forrest","THA","U.S. Representative",4,"Democrat","TAYLOR, GENE",35
-"142","Forrest","THA","US Senator",NA,"Democrat","BOWLIN, BILL",3
-"143","Forrest","THA","US Senator",NA,"Democrat","FLEMING, ERIK",5
-"144","Forrest","THA","US Senator",NA,"Democrat","O'KEEFE, JAMES",22
-"145","Forrest","THA","US Senator",NA,"Democrat","STARR, CATHERINE M.",3
-"146","Forrest","TIMB","U.S. Representative",4,"Democrat","TAYLOR, GENE",11
-"147","Forrest","TIMB","US Senator",NA,"Democrat","BOWLIN, BILL",0
-"148","Forrest","TIMB","US Senator",NA,"Democrat","FLEMING, ERIK",5
-"149","Forrest","TIMB","US Senator",NA,"Democrat","O'KEEFE, JAMES",2
-"150","Forrest","TIMB","US Senator",NA,"Democrat","STARR, CATHERINE M.",2
-"151","Forrest","U.S.","U.S. Representative",4,"Democrat","TAYLOR, GENE",6
-"152","Forrest","U.S.","US Senator",NA,"Democrat","BOWLIN, BILL",0
-"153","Forrest","U.S.","US Senator",NA,"Democrat","FLEMING, ERIK",3
-"154","Forrest","U.S.","US Senator",NA,"Democrat","O'KEEFE, JAMES",3
-"155","Forrest","U.S.","US Senator",NA,"Democrat","STARR, CATHERINE M.",2
-"156","Forrest","WAL","U.S. Representative",4,"Democrat","TAYLOR, GENE",45
-"157","Forrest","WAL","US Senator",NA,"Democrat","BOWLIN, BILL",9
-"158","Forrest","WAL","US Senator",NA,"Democrat","FLEMING, ERIK",10
-"159","Forrest","WAL","US Senator",NA,"Democrat","O'KEEFE, JAMES",16
-"160","Forrest","WAL","US Senator",NA,"Democrat","STARR, CATHERINE M.",8
-"161","Forrest","WES","U.S. Representative",4,"Democrat","TAYLOR, GENE",5
-"162","Forrest","WES","US Senator",NA,"Democrat","BOWLIN, BILL",0
-"163","Forrest","WES","US Senator",NA,"Democrat","FLEMING, ERIK",2
-"164","Forrest","WES","US Senator",NA,"Democrat","O'KEEFE, JAMES",3
-"165","Forrest","WES","US Senator",NA,"Democrat","STARR, CATHERINE M.",0
-"166","Forrest","WES","U.S. Representative",4,"Democrat","TAYLOR, GENE",19
-"167","Forrest","WES","US Senator",NA,"Democrat","BOWLIN, BILL",4
-"168","Forrest","WES","US Senator",NA,"Democrat","FLEMING, ERIK",5
-"169","Forrest","WES","US Senator",NA,"Democrat","O'KEEFE, JAMES",10
-"170","Forrest","WES","US Senator",NA,"Democrat","STARR, CATHERINE M.",1
-"171","Forrest","WOO","U.S. Representative",4,"Democrat","TAYLOR, GENE",51
-"172","Forrest","WOO","US Senator",NA,"Democrat","BOWLIN, BILL",7
-"173","Forrest","WOO","US Senator",NA,"Democrat","FLEMING, ERIK",10
-"174","Forrest","WOO","US Senator",NA,"Democrat","O'KEEFE, JAMES",22
-"175","Forrest","WOO","US Senator",NA,"Democrat","STARR, CATHERINE M.",10
+"county","precinct","office","district","party","candidate","votes"
+"Forrest","BAR","U.S. Representative",4,"Democrat","TAYLOR, GENE",23
+"Forrest","BAR","US Senator",NA,"Democrat","BOWLIN, BILL",7
+"Forrest","BAR","US Senator",NA,"Democrat","FLEMING, ERIK",2
+"Forrest","BAR","US Senator",NA,"Democrat","O'KEEFE, JAMES",11
+"Forrest","BAR","US Senator",NA,"Democrat","STARR, CATHERINE M.",2
+"Forrest","BLAI","U.S. Representative",4,"Democrat","TAYLOR, GENE",22
+"Forrest","BLAI","US Senator",NA,"Democrat","BOWLIN, BILL",3
+"Forrest","BLAI","US Senator",NA,"Democrat","FLEMING, ERIK",4
+"Forrest","BLAI","US Senator",NA,"Democrat","O'KEEFE, JAMES",6
+"Forrest","BLAI","US Senator",NA,"Democrat","STARR, CATHERINE M.",7
+"Forrest","BRO","U.S. Representative",4,"Democrat","TAYLOR, GENE",12
+"Forrest","BRO","US Senator",NA,"Democrat","BOWLIN, BILL",2
+"Forrest","BRO","US Senator",NA,"Democrat","FLEMING, ERIK",0
+"Forrest","BRO","US Senator",NA,"Democrat","O'KEEFE, JAMES",8
+"Forrest","BRO","US Senator",NA,"Democrat","STARR, CATHERINE M.",3
+"Forrest","CAM","U.S. Representative",4,"Democrat","TAYLOR, GENE",8
+"Forrest","CAM","US Senator",NA,"Democrat","BOWLIN, BILL",2
+"Forrest","CAM","US Senator",NA,"Democrat","FLEMING, ERIK",4
+"Forrest","CAM","US Senator",NA,"Democrat","O'KEEFE, JAMES",3
+"Forrest","CAM","US Senator",NA,"Democrat","STARR, CATHERINE M.",0
+"Forrest","CAR","U.S. Representative",4,"Democrat","TAYLOR, GENE",10
+"Forrest","CAR","US Senator",NA,"Democrat","BOWLIN, BILL",1
+"Forrest","CAR","US Senator",NA,"Democrat","FLEMING, ERIK",2
+"Forrest","CAR","US Senator",NA,"Democrat","O'KEEFE, JAMES",5
+"Forrest","CAR","US Senator",NA,"Democrat","STARR, CATHERINE M.",1
+"Forrest","DAN","U.S. Representative",4,"Democrat","TAYLOR, GENE",17
+"Forrest","DAN","US Senator",NA,"Democrat","BOWLIN, BILL",4
+"Forrest","DAN","US Senator",NA,"Democrat","FLEMING, ERIK",4
+"Forrest","DAN","US Senator",NA,"Democrat","O'KEEFE, JAMES",4
+"Forrest","DAN","US Senator",NA,"Democrat","STARR, CATHERINE M.",3
+"Forrest","DAVI","U.S. Representative",4,"Democrat","TAYLOR, GENE",43
+"Forrest","DAVI","US Senator",NA,"Democrat","BOWLIN, BILL",6
+"Forrest","DAVI","US Senator",NA,"Democrat","FLEMING, ERIK",15
+"Forrest","DAVI","US Senator",NA,"Democrat","O'KEEFE, JAMES",13
+"Forrest","DAVI","US Senator",NA,"Democrat","STARR, CATHERINE M.",6
+"Forrest","DIXI","U.S. Representative",4,"Democrat","TAYLOR, GENE",41
+"Forrest","DIXI","US Senator",NA,"Democrat","BOWLIN, BILL",10
+"Forrest","DIXI","US Senator",NA,"Democrat","FLEMING, ERIK",6
+"Forrest","DIXI","US Senator",NA,"Democrat","O'KEEFE, JAMES",16
+"Forrest","DIXI","US Senator",NA,"Democrat","STARR, CATHERINE M.",8
+"Forrest","DIXI","U.S. Representative",4,"Democrat","TAYLOR, GENE",39
+"Forrest","DIXI","US Senator",NA,"Democrat","BOWLIN, BILL",10
+"Forrest","DIXI","US Senator",NA,"Democrat","FLEMING, ERIK",11
+"Forrest","DIXI","US Senator",NA,"Democrat","O'KEEFE, JAMES",15
+"Forrest","DIXI","US Senator",NA,"Democrat","STARR, CATHERINE M.",5
+"Forrest","EAS","U.S. Representative",4,"Democrat","TAYLOR, GENE",17
+"Forrest","EAS","US Senator",NA,"Democrat","BOWLIN, BILL",6
+"Forrest","EAS","US Senator",NA,"Democrat","FLEMING, ERIK",3
+"Forrest","EAS","US Senator",NA,"Democrat","O'KEEFE, JAMES",6
+"Forrest","EAS","US Senator",NA,"Democrat","STARR, CATHERINE M.",1
+"Forrest","EAT","U.S. Representative",4,"Democrat","TAYLOR, GENE",22
+"Forrest","EAT","US Senator",NA,"Democrat","BOWLIN, BILL",0
+"Forrest","EAT","US Senator",NA,"Democrat","FLEMING, ERIK",22
+"Forrest","EAT","US Senator",NA,"Democrat","O'KEEFE, JAMES",3
+"Forrest","EAT","US Senator",NA,"Democrat","STARR, CATHERINE M.",0
+"Forrest","EAT","U.S. Representative",4,"Democrat","TAYLOR, GENE",27
+"Forrest","EAT","US Senator",NA,"Democrat","BOWLIN, BILL",0
+"Forrest","EAT","US Senator",NA,"Democrat","FLEMING, ERIK",13
+"Forrest","EAT","US Senator",NA,"Democrat","O'KEEFE, JAMES",12
+"Forrest","EAT","US Senator",NA,"Democrat","STARR, CATHERINE M.",2
+"Forrest","GLE","U.S. Representative",4,"Democrat","TAYLOR, GENE",46
+"Forrest","GLE","US Senator",NA,"Democrat","BOWLIN, BILL",5
+"Forrest","GLE","US Senator",NA,"Democrat","FLEMING, ERIK",25
+"Forrest","GLE","US Senator",NA,"Democrat","O'KEEFE, JAMES",6
+"Forrest","GLE","US Senator",NA,"Democrat","STARR, CATHERINE M.",7
+"Forrest","HIG","U.S. Representative",4,"Democrat","TAYLOR, GENE",13
+"Forrest","HIG","US Senator",NA,"Democrat","BOWLIN, BILL",0
+"Forrest","HIG","US Senator",NA,"Democrat","FLEMING, ERIK",3
+"Forrest","HIG","US Senator",NA,"Democrat","O'KEEFE, JAMES",9
+"Forrest","HIG","US Senator",NA,"Democrat","STARR, CATHERINE M.",1
+"Forrest","JON","U.S. Representative",4,"Democrat","TAYLOR, GENE",30
+"Forrest","JON","US Senator",NA,"Democrat","BOWLIN, BILL",2
+"Forrest","JON","US Senator",NA,"Democrat","FLEMING, ERIK",15
+"Forrest","JON","US Senator",NA,"Democrat","O'KEEFE, JAMES",3
+"Forrest","JON","US Senator",NA,"Democrat","STARR, CATHERINE M.",9
+"Forrest","LEEV","U.S. Representative",4,"Democrat","TAYLOR, GENE",14
+"Forrest","LEEV","US Senator",NA,"Democrat","BOWLIN, BILL",2
+"Forrest","LEEV","US Senator",NA,"Democrat","FLEMING, ERIK",4
+"Forrest","LEEV","US Senator",NA,"Democrat","O'KEEFE, JAMES",4
+"Forrest","LEEV","US Senator",NA,"Democrat","STARR, CATHERINE M.",4
+"Forrest","LILLI","U.S. Representative",4,"Democrat","TAYLOR, GENE",19
+"Forrest","LILLI","US Senator",NA,"Democrat","BOWLIN, BILL",0
+"Forrest","LILLI","US Senator",NA,"Democrat","FLEMING, ERIK",14
+"Forrest","LILLI","US Senator",NA,"Democrat","O'KEEFE, JAMES",3
+"Forrest","LILLI","US Senator",NA,"Democrat","STARR, CATHERINE M.",4
+"Forrest","MAX","U.S. Representative",4,"Democrat","TAYLOR, GENE",11
+"Forrest","MAX","US Senator",NA,"Democrat","BOWLIN, BILL",3
+"Forrest","MAX","US Senator",NA,"Democrat","FLEMING, ERIK",2
+"Forrest","MAX","US Senator",NA,"Democrat","O'KEEFE, JAMES",4
+"Forrest","MAX","US Senator",NA,"Democrat","STARR, CATHERINE M.",2
+"Forrest","MCL","U.S. Representative",4,"Democrat","TAYLOR, GENE",12
+"Forrest","MCL","US Senator",NA,"Democrat","BOWLIN, BILL",6
+"Forrest","MCL","US Senator",NA,"Democrat","FLEMING, ERIK",2
+"Forrest","MCL","US Senator",NA,"Democrat","O'KEEFE, JAMES",2
+"Forrest","MCL","US Senator",NA,"Democrat","STARR, CATHERINE M.",1
+"Forrest","NOR","U.S. Representative",4,"Democrat","TAYLOR, GENE",11
+"Forrest","NOR","US Senator",NA,"Democrat","BOWLIN, BILL",0
+"Forrest","NOR","US Senator",NA,"Democrat","FLEMING, ERIK",4
+"Forrest","NOR","US Senator",NA,"Democrat","O'KEEFE, JAMES",1
+"Forrest","NOR","US Senator",NA,"Democrat","STARR, CATHERINE M.",6
+"Forrest","PETA","U.S. Representative",4,"Democrat","TAYLOR, GENE",26
+"Forrest","PETA","US Senator",NA,"Democrat","BOWLIN, BILL",5
+"Forrest","PETA","US Senator",NA,"Democrat","FLEMING, ERIK",2
+"Forrest","PETA","US Senator",NA,"Democrat","O'KEEFE, JAMES",13
+"Forrest","PETA","US Senator",NA,"Democrat","STARR, CATHERINE M.",3
+"Forrest","PINE","U.S. Representative",4,"Democrat","TAYLOR, GENE",11
+"Forrest","PINE","US Senator",NA,"Democrat","BOWLIN, BILL",1
+"Forrest","PINE","US Senator",NA,"Democrat","FLEMING, ERIK",3
+"Forrest","PINE","US Senator",NA,"Democrat","O'KEEFE, JAMES",3
+"Forrest","PINE","US Senator",NA,"Democrat","STARR, CATHERINE M.",4
+"Forrest","PRE","U.S. Representative",4,"Democrat","TAYLOR, GENE",0
+"Forrest","PRE","US Senator",NA,"Democrat","BOWLIN, BILL",0
+"Forrest","PRE","US Senator",NA,"Democrat","FLEMING, ERIK",0
+"Forrest","PRE","US Senator",NA,"Democrat","O'KEEFE, JAMES",0
+"Forrest","PRE","US Senator",NA,"Democrat","STARR, CATHERINE M.",0
+"Forrest","PRE","U.S. Representative",4,"Democrat","TAYLOR, GENE",0
+"Forrest","PRE","US Senator",NA,"Democrat","BOWLIN, BILL",0
+"Forrest","PRE","US Senator",NA,"Democrat","FLEMING, ERIK",0
+"Forrest","PRE","US Senator",NA,"Democrat","O'KEEFE, JAMES",0
+"Forrest","PRE","US Senator",NA,"Democrat","STARR, CATHERINE M.",0
+"Forrest","RAW","U.S. Representative",4,"Democrat","TAYLOR, GENE",23
+"Forrest","RAW","US Senator",NA,"Democrat","BOWLIN, BILL",5
+"Forrest","RAW","US Senator",NA,"Democrat","FLEMING, ERIK",7
+"Forrest","RAW","US Senator",NA,"Democrat","O'KEEFE, JAMES",7
+"Forrest","RAW","US Senator",NA,"Democrat","STARR, CATHERINE M.",3
+"Forrest","ROW","U.S. Representative",4,"Democrat","TAYLOR, GENE",35
+"Forrest","ROW","US Senator",NA,"Democrat","BOWLIN, BILL",8
+"Forrest","ROW","US Senator",NA,"Democrat","FLEMING, ERIK",15
+"Forrest","ROW","US Senator",NA,"Democrat","O'KEEFE, JAMES",6
+"Forrest","ROW","US Senator",NA,"Democrat","STARR, CATHERINE M.",5
+"Forrest","SAL","U.S. Representative",4,"Democrat","TAYLOR, GENE",41
+"Forrest","SAL","US Senator",NA,"Democrat","BOWLIN, BILL",6
+"Forrest","SAL","US Senator",NA,"Democrat","FLEMING, ERIK",18
+"Forrest","SAL","US Senator",NA,"Democrat","O'KEEFE, JAMES",11
+"Forrest","SAL","US Senator",NA,"Democrat","STARR, CATHERINE M.",6
+"Forrest","SUN","U.S. Representative",4,"Democrat","TAYLOR, GENE",14
+"Forrest","SUN","US Senator",NA,"Democrat","BOWLIN, BILL",1
+"Forrest","SUN","US Senator",NA,"Democrat","FLEMING, ERIK",6
+"Forrest","SUN","US Senator",NA,"Democrat","O'KEEFE, JAMES",5
+"Forrest","SUN","US Senator",NA,"Democrat","STARR, CATHERINE M.",2
+"Forrest","THA","U.S. Representative",4,"Democrat","TAYLOR, GENE",35
+"Forrest","THA","US Senator",NA,"Democrat","BOWLIN, BILL",3
+"Forrest","THA","US Senator",NA,"Democrat","FLEMING, ERIK",5
+"Forrest","THA","US Senator",NA,"Democrat","O'KEEFE, JAMES",22
+"Forrest","THA","US Senator",NA,"Democrat","STARR, CATHERINE M.",3
+"Forrest","TIMB","U.S. Representative",4,"Democrat","TAYLOR, GENE",11
+"Forrest","TIMB","US Senator",NA,"Democrat","BOWLIN, BILL",0
+"Forrest","TIMB","US Senator",NA,"Democrat","FLEMING, ERIK",5
+"Forrest","TIMB","US Senator",NA,"Democrat","O'KEEFE, JAMES",2
+"Forrest","TIMB","US Senator",NA,"Democrat","STARR, CATHERINE M.",2
+"Forrest","U.S.","U.S. Representative",4,"Democrat","TAYLOR, GENE",6
+"Forrest","U.S.","US Senator",NA,"Democrat","BOWLIN, BILL",0
+"Forrest","U.S.","US Senator",NA,"Democrat","FLEMING, ERIK",3
+"Forrest","U.S.","US Senator",NA,"Democrat","O'KEEFE, JAMES",3
+"Forrest","U.S.","US Senator",NA,"Democrat","STARR, CATHERINE M.",2
+"Forrest","WAL","U.S. Representative",4,"Democrat","TAYLOR, GENE",45
+"Forrest","WAL","US Senator",NA,"Democrat","BOWLIN, BILL",9
+"Forrest","WAL","US Senator",NA,"Democrat","FLEMING, ERIK",10
+"Forrest","WAL","US Senator",NA,"Democrat","O'KEEFE, JAMES",16
+"Forrest","WAL","US Senator",NA,"Democrat","STARR, CATHERINE M.",8
+"Forrest","WES","U.S. Representative",4,"Democrat","TAYLOR, GENE",5
+"Forrest","WES","US Senator",NA,"Democrat","BOWLIN, BILL",0
+"Forrest","WES","US Senator",NA,"Democrat","FLEMING, ERIK",2
+"Forrest","WES","US Senator",NA,"Democrat","O'KEEFE, JAMES",3
+"Forrest","WES","US Senator",NA,"Democrat","STARR, CATHERINE M.",0
+"Forrest","WES","U.S. Representative",4,"Democrat","TAYLOR, GENE",19
+"Forrest","WES","US Senator",NA,"Democrat","BOWLIN, BILL",4
+"Forrest","WES","US Senator",NA,"Democrat","FLEMING, ERIK",5
+"Forrest","WES","US Senator",NA,"Democrat","O'KEEFE, JAMES",10
+"Forrest","WES","US Senator",NA,"Democrat","STARR, CATHERINE M.",1
+"Forrest","WOO","U.S. Representative",4,"Democrat","TAYLOR, GENE",51
+"Forrest","WOO","US Senator",NA,"Democrat","BOWLIN, BILL",7
+"Forrest","WOO","US Senator",NA,"Democrat","FLEMING, ERIK",10
+"Forrest","WOO","US Senator",NA,"Democrat","O'KEEFE, JAMES",22
+"Forrest","WOO","US Senator",NA,"Democrat","STARR, CATHERINE M.",10
