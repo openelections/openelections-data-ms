@@ -1,56 +1,56 @@
-"","county","precinct","office","district","party","candidate","votes"
-"1","George","MIDDLE SCHOOL","U.S. Representative",4,"Democrat","TAYLOR, GENE",15
-"2","George","MIDDLE SCHOOL","US Senator",NA,"Democrat","BOWLIN, BILL",2
-"3","George","MIDDLE SCHOOL","US Senator",NA,"Democrat","FLEMING, ERIK",2
-"4","George","MIDDLE SCHOOL","US Senator",NA,"Democrat","O'KEEFE, JAMES",9
-"5","George","MIDDLE SCHOOL","US Senator",NA,"Democrat","STARR, CATHERINE M.",1
-"6","George","MOVELLA","U.S. Representative",4,"Democrat","TAYLOR, GENE",15
-"7","George","MOVELLA","US Senator",NA,"Democrat","BOWLIN, BILL",5
-"8","George","MOVELLA","US Senator",NA,"Democrat","FLEMING, ERIK",1
-"9","George","MOVELLA","US Senator",NA,"Democrat","O'KEEFE, JAMES",5
-"10","George","MOVELLA","US Senator",NA,"Democrat","STARR, CATHERINE M.",2
-"11","George","MULTI MART","U.S. Representative",4,"Democrat","TAYLOR, GENE",17
-"12","George","MULTI MART","US Senator",NA,"Democrat","BOWLIN, BILL",1
-"13","George","MULTI MART","US Senator",NA,"Democrat","FLEMING, ERIK",7
-"14","George","MULTI MART","US Senator",NA,"Democrat","O'KEEFE, JAMES",6
-"15","George","MULTI MART","US Senator",NA,"Democrat","STARR, CATHERINE M.",0
-"16","George","MULTI-PURPOSE","U.S. Representative",4,"Democrat","TAYLOR, GENE",10
-"17","George","MULTI-PURPOSE","US Senator",NA,"Democrat","BOWLIN, BILL",1
-"18","George","MULTI-PURPOSE","US Senator",NA,"Democrat","FLEMING, ERIK",5
-"19","George","MULTI-PURPOSE","US Senator",NA,"Democrat","O'KEEFE, JAMES",3
-"20","George","MULTI-PURPOSE","US Senator",NA,"Democrat","STARR, CATHERINE M.",1
-"21","George","PINE LEVEL","U.S. Representative",4,"Democrat","TAYLOR, GENE",6
-"22","George","PINE LEVEL","US Senator",NA,"Democrat","BOWLIN, BILL",0
-"23","George","PINE LEVEL","US Senator",NA,"Democrat","FLEMING, ERIK",0
-"24","George","PINE LEVEL","US Senator",NA,"Democrat","O'KEEFE, JAMES",0
-"25","George","PINE LEVEL","US Senator",NA,"Democrat","STARR, CATHERINE M.",0
-"26","George","ROCKY CREEK","U.S. Representative",4,"Democrat","TAYLOR, GENE",23
-"27","George","ROCKY CREEK","US Senator",NA,"Democrat","BOWLIN, BILL",6
-"28","George","ROCKY CREEK","US Senator",NA,"Democrat","FLEMING, ERIK",1
-"29","George","ROCKY CREEK","US Senator",NA,"Democrat","O'KEEFE, JAMES",8
-"30","George","ROCKY CREEK","US Senator",NA,"Democrat","STARR, CATHERINE M.",5
-"31","George","SALEM","U.S. Representative",4,"Democrat","TAYLOR, GENE",10
-"32","George","SALEM","US Senator",NA,"Democrat","BOWLIN, BILL",1
-"33","George","SALEM","US Senator",NA,"Democrat","FLEMING, ERIK",1
-"34","George","SALEM","US Senator",NA,"Democrat","O'KEEFE, JAMES",3
-"35","George","SALEM","US Senator",NA,"Democrat","STARR, CATHERINE M.",6
-"36","George","SHADY GROVE","U.S. Representative",4,"Democrat","TAYLOR, GENE",20
-"37","George","SHADY GROVE","US Senator",NA,"Democrat","BOWLIN, BILL",3
-"38","George","SHADY GROVE","US Senator",NA,"Democrat","FLEMING, ERIK",2
-"39","George","SHADY GROVE","US Senator",NA,"Democrat","O'KEEFE, JAMES",6
-"40","George","SHADY GROVE","US Senator",NA,"Democrat","STARR, CATHERINE M.",7
-"41","George","SHIPMAN","U.S. Representative",4,"Democrat","TAYLOR, GENE",15
-"42","George","SHIPMAN","US Senator",NA,"Democrat","BOWLIN, BILL",0
-"43","George","SHIPMAN","US Senator",NA,"Democrat","FLEMING, ERIK",5
-"44","George","SHIPMAN","US Senator",NA,"Democrat","O'KEEFE, JAMES",7
-"45","George","SHIPMAN","US Senator",NA,"Democrat","STARR, CATHERINE M.",2
-"46","George","TWIN CREEK","U.S. Representative",4,"Democrat","TAYLOR, GENE",12
-"47","George","TWIN CREEK","US Senator",NA,"Democrat","BOWLIN, BILL",0
-"48","George","TWIN CREEK","US Senator",NA,"Democrat","FLEMING, ERIK",0
-"49","George","TWIN CREEK","US Senator",NA,"Democrat","O'KEEFE, JAMES",11
-"50","George","TWIN CREEK","US Senator",NA,"Democrat","STARR, CATHERINE M.",1
-"51","George","WARD","U.S. Representative",4,"Democrat","TAYLOR, GENE",13
-"52","George","WARD","US Senator",NA,"Democrat","BOWLIN, BILL",3
-"53","George","WARD","US Senator",NA,"Democrat","FLEMING, ERIK",1
-"54","George","WARD","US Senator",NA,"Democrat","O'KEEFE, JAMES",4
-"55","George","WARD","US Senator",NA,"Democrat","STARR, CATHERINE M.",1
+"county","precinct","office","district","party","candidate","votes"
+"George","MIDDLE SCHOOL","U.S. Representative",4,"Democrat","TAYLOR, GENE",15
+"George","MIDDLE SCHOOL","US Senator",NA,"Democrat","BOWLIN, BILL",2
+"George","MIDDLE SCHOOL","US Senator",NA,"Democrat","FLEMING, ERIK",2
+"George","MIDDLE SCHOOL","US Senator",NA,"Democrat","O'KEEFE, JAMES",9
+"George","MIDDLE SCHOOL","US Senator",NA,"Democrat","STARR, CATHERINE M.",1
+"George","MOVELLA","U.S. Representative",4,"Democrat","TAYLOR, GENE",15
+"George","MOVELLA","US Senator",NA,"Democrat","BOWLIN, BILL",5
+"George","MOVELLA","US Senator",NA,"Democrat","FLEMING, ERIK",1
+"George","MOVELLA","US Senator",NA,"Democrat","O'KEEFE, JAMES",5
+"George","MOVELLA","US Senator",NA,"Democrat","STARR, CATHERINE M.",2
+"George","MULTI MART","U.S. Representative",4,"Democrat","TAYLOR, GENE",17
+"George","MULTI MART","US Senator",NA,"Democrat","BOWLIN, BILL",1
+"George","MULTI MART","US Senator",NA,"Democrat","FLEMING, ERIK",7
+"George","MULTI MART","US Senator",NA,"Democrat","O'KEEFE, JAMES",6
+"George","MULTI MART","US Senator",NA,"Democrat","STARR, CATHERINE M.",0
+"George","MULTI-PURPOSE","U.S. Representative",4,"Democrat","TAYLOR, GENE",10
+"George","MULTI-PURPOSE","US Senator",NA,"Democrat","BOWLIN, BILL",1
+"George","MULTI-PURPOSE","US Senator",NA,"Democrat","FLEMING, ERIK",5
+"George","MULTI-PURPOSE","US Senator",NA,"Democrat","O'KEEFE, JAMES",3
+"George","MULTI-PURPOSE","US Senator",NA,"Democrat","STARR, CATHERINE M.",1
+"George","PINE LEVEL","U.S. Representative",4,"Democrat","TAYLOR, GENE",6
+"George","PINE LEVEL","US Senator",NA,"Democrat","BOWLIN, BILL",0
+"George","PINE LEVEL","US Senator",NA,"Democrat","FLEMING, ERIK",0
+"George","PINE LEVEL","US Senator",NA,"Democrat","O'KEEFE, JAMES",0
+"George","PINE LEVEL","US Senator",NA,"Democrat","STARR, CATHERINE M.",0
+"George","ROCKY CREEK","U.S. Representative",4,"Democrat","TAYLOR, GENE",23
+"George","ROCKY CREEK","US Senator",NA,"Democrat","BOWLIN, BILL",6
+"George","ROCKY CREEK","US Senator",NA,"Democrat","FLEMING, ERIK",1
+"George","ROCKY CREEK","US Senator",NA,"Democrat","O'KEEFE, JAMES",8
+"George","ROCKY CREEK","US Senator",NA,"Democrat","STARR, CATHERINE M.",5
+"George","SALEM","U.S. Representative",4,"Democrat","TAYLOR, GENE",10
+"George","SALEM","US Senator",NA,"Democrat","BOWLIN, BILL",1
+"George","SALEM","US Senator",NA,"Democrat","FLEMING, ERIK",1
+"George","SALEM","US Senator",NA,"Democrat","O'KEEFE, JAMES",3
+"George","SALEM","US Senator",NA,"Democrat","STARR, CATHERINE M.",6
+"George","SHADY GROVE","U.S. Representative",4,"Democrat","TAYLOR, GENE",20
+"George","SHADY GROVE","US Senator",NA,"Democrat","BOWLIN, BILL",3
+"George","SHADY GROVE","US Senator",NA,"Democrat","FLEMING, ERIK",2
+"George","SHADY GROVE","US Senator",NA,"Democrat","O'KEEFE, JAMES",6
+"George","SHADY GROVE","US Senator",NA,"Democrat","STARR, CATHERINE M.",7
+"George","SHIPMAN","U.S. Representative",4,"Democrat","TAYLOR, GENE",15
+"George","SHIPMAN","US Senator",NA,"Democrat","BOWLIN, BILL",0
+"George","SHIPMAN","US Senator",NA,"Democrat","FLEMING, ERIK",5
+"George","SHIPMAN","US Senator",NA,"Democrat","O'KEEFE, JAMES",7
+"George","SHIPMAN","US Senator",NA,"Democrat","STARR, CATHERINE M.",2
+"George","TWIN CREEK","U.S. Representative",4,"Democrat","TAYLOR, GENE",12
+"George","TWIN CREEK","US Senator",NA,"Democrat","BOWLIN, BILL",0
+"George","TWIN CREEK","US Senator",NA,"Democrat","FLEMING, ERIK",0
+"George","TWIN CREEK","US Senator",NA,"Democrat","O'KEEFE, JAMES",11
+"George","TWIN CREEK","US Senator",NA,"Democrat","STARR, CATHERINE M.",1
+"George","WARD","U.S. Representative",4,"Democrat","TAYLOR, GENE",13
+"George","WARD","US Senator",NA,"Democrat","BOWLIN, BILL",3
+"George","WARD","US Senator",NA,"Democrat","FLEMING, ERIK",1
+"George","WARD","US Senator",NA,"Democrat","O'KEEFE, JAMES",4
+"George","WARD","US Senator",NA,"Democrat","STARR, CATHERINE M.",1

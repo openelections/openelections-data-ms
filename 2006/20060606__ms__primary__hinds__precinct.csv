@@ -1,848 +1,848 @@
-"","county","precinct","office","district","party","candidate","votes"
-"1","Hinds","(BO) Bolton","US Senator",NA,"Democrat","BOWLIN, BILL",44
-"2","Hinds","(BO) Bolton","US Senator",NA,"Democrat","FLEMING, ERIK",359
-"3","Hinds","(BO) Bolton","US Senator",NA,"Democrat","O'KEEFE, JAMES",40
-"4","Hinds","(BO) Bolton","US Senator",NA,"Democrat","STARR, CATHERINE M.",40
-"5","Hinds","(BO) Bolton","U.S. Representative",2,"Democrat","BENFORD, DOROTHY",1
-"6","Hinds","(BO) Bolton","U.S. Representative",2,"Democrat","ESPY, CHUCK",73
-"7","Hinds","(BO) Bolton","U.S. Representative",2,"Democrat","THOMPSON, BENNIE G.",518
-"8","Hinds","(BR) Brownsville","US Senator",NA,"Democrat","BOWLIN, BILL",30
-"9","Hinds","(BR) Brownsville","US Senator",NA,"Democrat","FLEMING, ERIK",62
-"10","Hinds","(BR) Brownsville","US Senator",NA,"Democrat","O'KEEFE, JAMES",22
-"11","Hinds","(BR) Brownsville","US Senator",NA,"Democrat","STARR, CATHERINE M.",21
-"12","Hinds","(BR) Brownsville","U.S. Representative",2,"Democrat","BENFORD, DOROTHY",1
-"13","Hinds","(BR) Brownsville","U.S. Representative",2,"Democrat","ESPY, CHUCK",82
-"14","Hinds","(BR) Brownsville","U.S. Representative",2,"Democrat","THOMPSON, BENNIE G.",101
-"15","Hinds","(B1) Byram 1","US Senator",NA,"Democrat","BOWLIN, BILL",60
-"16","Hinds","(B1) Byram 1","US Senator",NA,"Democrat","FLEMING, ERIK",275
-"17","Hinds","(B1) Byram 1","US Senator",NA,"Democrat","O'KEEFE, JAMES",56
-"18","Hinds","(B1) Byram 1","US Senator",NA,"Democrat","STARR, CATHERINE M.",93
-"19","Hinds","(B1) Byram 1","U.S. Representative",2,"Democrat","BENFORD, DOROTHY",2
-"20","Hinds","(B1) Byram 1","U.S. Representative",2,"Democrat","ESPY, CHUCK",270
-"21","Hinds","(B1) Byram 1","U.S. Representative",2,"Democrat","THOMPSON, BENNIE G.",274
-"22","Hinds","(B2) Byram 2","US Senator",NA,"Democrat","BOWLIN, BILL",59
-"23","Hinds","(B2) Byram 2","US Senator",NA,"Democrat","FLEMING, ERIK",117
-"24","Hinds","(B2) Byram 2","US Senator",NA,"Democrat","O'KEEFE, JAMES",63
-"25","Hinds","(B2) Byram 2","US Senator",NA,"Democrat","STARR, CATHERINE M.",18
-"26","Hinds","(B2) Byram 2","U.S. Representative",2,"Democrat","BENFORD, DOROTHY",0
-"27","Hinds","(B2) Byram 2","U.S. Representative",2,"Democrat","ESPY, CHUCK",230
-"28","Hinds","(B2) Byram 2","U.S. Representative",2,"Democrat","THOMPSON, BENNIE G.",78
-"29","Hinds","(CA) Cayuga","US Senator",NA,"Democrat","BOWLIN, BILL",21
-"30","Hinds","(CA) Cayuga","US Senator",NA,"Democrat","FLEMING, ERIK",44
-"31","Hinds","(CA) Cayuga","US Senator",NA,"Democrat","O'KEEFE, JAMES",15
-"32","Hinds","(CA) Cayuga","US Senator",NA,"Democrat","STARR, CATHERINE M.",19
-"33","Hinds","(CA) Cayuga","U.S. Representative",2,"Democrat","BENFORD, DOROTHY",1
-"34","Hinds","(CA) Cayuga","U.S. Representative",2,"Democrat","ESPY, CHUCK",20
-"35","Hinds","(CA) Cayuga","U.S. Representative",2,"Democrat","THOMPSON, BENNIE G.",96
-"36","Hinds","(CH) Chappel Hill","US Senator",NA,"Democrat","BOWLIN, BILL",22
-"37","Hinds","(CH) Chappel Hill","US Senator",NA,"Democrat","FLEMING, ERIK",69
-"38","Hinds","(CH) Chappel Hill","US Senator",NA,"Democrat","O'KEEFE, JAMES",17
-"39","Hinds","(CH) Chappel Hill","US Senator",NA,"Democrat","STARR, CATHERINE M.",13
-"40","Hinds","(CH) Chappel Hill","U.S. Representative",2,"Democrat","BENFORD, DOROTHY",0
-"41","Hinds","(CH) Chappel Hill","U.S. Representative",2,"Democrat","ESPY, CHUCK",62
-"42","Hinds","(CH) Chappel Hill","U.S. Representative",2,"Democrat","THOMPSON, BENNIE G.",105
-"43","Hinds","(C1) Clinton 1","US Senator",NA,"Democrat","BOWLIN, BILL",51
-"44","Hinds","(C1) Clinton 1","US Senator",NA,"Democrat","FLEMING, ERIK",128
-"45","Hinds","(C1) Clinton 1","US Senator",NA,"Democrat","O'KEEFE, JAMES",47
-"46","Hinds","(C1) Clinton 1","US Senator",NA,"Democrat","STARR, CATHERINE M.",25
-"47","Hinds","(C1) Clinton 1","U.S. Representative",2,"Democrat","BENFORD, DOROTHY",5
-"48","Hinds","(C1) Clinton 1","U.S. Representative",2,"Democrat","ESPY, CHUCK",183
-"49","Hinds","(C1) Clinton 1","U.S. Representative",2,"Democrat","THOMPSON, BENNIE G.",126
-"50","Hinds","(C2) Clinton 2","US Senator",NA,"Democrat","BOWLIN, BILL",99
-"51","Hinds","(C2) Clinton 2","US Senator",NA,"Democrat","FLEMING, ERIK",244
-"52","Hinds","(C2) Clinton 2","US Senator",NA,"Democrat","O'KEEFE, JAMES",100
-"53","Hinds","(C2) Clinton 2","US Senator",NA,"Democrat","STARR, CATHERINE M.",70
-"54","Hinds","(C2) Clinton 2","U.S. Representative",2,"Democrat","BENFORD, DOROTHY",5
-"55","Hinds","(C2) Clinton 2","U.S. Representative",2,"Democrat","ESPY, CHUCK",500
-"56","Hinds","(C2) Clinton 2","U.S. Representative",2,"Democrat","THOMPSON, BENNIE G.",139
-"57","Hinds","(C3) Clinton 3","US Senator",NA,"Democrat","BOWLIN, BILL",78
-"58","Hinds","(C3) Clinton 3","US Senator",NA,"Democrat","FLEMING, ERIK",242
-"59","Hinds","(C3) Clinton 3","US Senator",NA,"Democrat","O'KEEFE, JAMES",78
-"60","Hinds","(C3) Clinton 3","US Senator",NA,"Democrat","STARR, CATHERINE M.",62
-"61","Hinds","(C3) Clinton 3","U.S. Representative",2,"Democrat","BENFORD, DOROTHY",5
-"62","Hinds","(C3) Clinton 3","U.S. Representative",2,"Democrat","ESPY, CHUCK",415
-"63","Hinds","(C3) Clinton 3","U.S. Representative",2,"Democrat","THOMPSON, BENNIE G.",188
-"64","Hinds","(C4) Clinton 4","US Senator",NA,"Democrat","BOWLIN, BILL",38
-"65","Hinds","(C4) Clinton 4","US Senator",NA,"Democrat","FLEMING, ERIK",110
-"66","Hinds","(C4) Clinton 4","US Senator",NA,"Democrat","O'KEEFE, JAMES",27
-"67","Hinds","(C4) Clinton 4","US Senator",NA,"Democrat","STARR, CATHERINE M.",56
-"68","Hinds","(C4) Clinton 4","U.S. Representative",2,"Democrat","BENFORD, DOROTHY",0
-"69","Hinds","(C4) Clinton 4","U.S. Representative",2,"Democrat","ESPY, CHUCK",195
-"70","Hinds","(C4) Clinton 4","U.S. Representative",2,"Democrat","THOMPSON, BENNIE G.",79
-"71","Hinds","(C5) Clinton 5","US Senator",NA,"Democrat","BOWLIN, BILL",24
-"72","Hinds","(C5) Clinton 5","US Senator",NA,"Democrat","FLEMING, ERIK",71
-"73","Hinds","(C5) Clinton 5","US Senator",NA,"Democrat","O'KEEFE, JAMES",36
-"74","Hinds","(C5) Clinton 5","US Senator",NA,"Democrat","STARR, CATHERINE M.",20
-"75","Hinds","(C5) Clinton 5","U.S. Representative",2,"Democrat","BENFORD, DOROTHY",2
-"76","Hinds","(C5) Clinton 5","U.S. Representative",2,"Democrat","ESPY, CHUCK",146
-"77","Hinds","(C5) Clinton 5","U.S. Representative",2,"Democrat","THOMPSON, BENNIE G.",41
-"78","Hinds","(C6) Clinton 6","US Senator",NA,"Democrat","BOWLIN, BILL",35
-"79","Hinds","(C6) Clinton 6","US Senator",NA,"Democrat","FLEMING, ERIK",105
-"80","Hinds","(C6) Clinton 6","US Senator",NA,"Democrat","O'KEEFE, JAMES",50
-"81","Hinds","(C6) Clinton 6","US Senator",NA,"Democrat","STARR, CATHERINE M.",32
-"82","Hinds","(C6) Clinton 6","U.S. Representative",2,"Democrat","BENFORD, DOROTHY",3
-"83","Hinds","(C6) Clinton 6","U.S. Representative",2,"Democrat","ESPY, CHUCK",173
-"84","Hinds","(C6) Clinton 6","U.S. Representative",2,"Democrat","THOMPSON, BENNIE G.",96
-"85","Hinds","(CY) Cynthia","US Senator",NA,"Democrat","BOWLIN, BILL",20
-"86","Hinds","(CY) Cynthia","US Senator",NA,"Democrat","FLEMING, ERIK",116
-"87","Hinds","(CY) Cynthia","US Senator",NA,"Democrat","O'KEEFE, JAMES",36
-"88","Hinds","(CY) Cynthia","US Senator",NA,"Democrat","STARR, CATHERINE M.",16
-"89","Hinds","(CY) Cynthia","U.S. Representative",2,"Democrat","BENFORD, DOROTHY",2
-"90","Hinds","(CY) Cynthia","U.S. Representative",2,"Democrat","ESPY, CHUCK",22
-"91","Hinds","(CY) Cynthia","U.S. Representative",2,"Democrat","THOMPSON, BENNIE G.",201
-"92","Hinds","(DG) Dry Grove","US Senator",NA,"Democrat","BOWLIN, BILL",39
-"93","Hinds","(DG) Dry Grove","US Senator",NA,"Democrat","FLEMING, ERIK",89
-"94","Hinds","(DG) Dry Grove","US Senator",NA,"Democrat","O'KEEFE, JAMES",34
-"95","Hinds","(DG) Dry Grove","US Senator",NA,"Democrat","STARR, CATHERINE M.",16
-"96","Hinds","(DG) Dry Grove","U.S. Representative",2,"Democrat","BENFORD, DOROTHY",2
-"97","Hinds","(DG) Dry Grove","U.S. Representative",2,"Democrat","ESPY, CHUCK",142
-"98","Hinds","(DG) Dry Grove","U.S. Representative",2,"Democrat","THOMPSON, BENNIE G.",78
-"99","Hinds","(ED) Edwards","US Senator",NA,"Democrat","BOWLIN, BILL",55
-"100","Hinds","(ED) Edwards","US Senator",NA,"Democrat","FLEMING, ERIK",360
-"101","Hinds","(ED) Edwards","US Senator",NA,"Democrat","O'KEEFE, JAMES",43
-"102","Hinds","(ED) Edwards","US Senator",NA,"Democrat","STARR, CATHERINE M.",44
-"103","Hinds","(ED) Edwards","U.S. Representative",2,"Democrat","BENFORD, DOROTHY",1
-"104","Hinds","(ED) Edwards","U.S. Representative",2,"Democrat","ESPY, CHUCK",125
-"105","Hinds","(ED) Edwards","U.S. Representative",2,"Democrat","THOMPSON, BENNIE G.",508
-"106","Hinds","(LE) Learned","US Senator",NA,"Democrat","BOWLIN, BILL",23
-"107","Hinds","(LE) Learned","US Senator",NA,"Democrat","FLEMING, ERIK",33
-"108","Hinds","(LE) Learned","US Senator",NA,"Democrat","O'KEEFE, JAMES",21
-"109","Hinds","(LE) Learned","US Senator",NA,"Democrat","STARR, CATHERINE M.",8
-"110","Hinds","(LE) Learned","U.S. Representative",2,"Democrat","BENFORD, DOROTHY",3
-"111","Hinds","(LE) Learned","U.S. Representative",2,"Democrat","ESPY, CHUCK",63
-"112","Hinds","(LE) Learned","U.S. Representative",2,"Democrat","THOMPSON, BENNIE G.",47
-"113","Hinds","(OB) Old Byram","US Senator",NA,"Democrat","BOWLIN, BILL",51
-"114","Hinds","(OB) Old Byram","US Senator",NA,"Democrat","FLEMING, ERIK",72
-"115","Hinds","(OB) Old Byram","US Senator",NA,"Democrat","O'KEEFE, JAMES",37
-"116","Hinds","(OB) Old Byram","US Senator",NA,"Democrat","STARR, CATHERINE M.",21
-"117","Hinds","(OB) Old Byram","U.S. Representative",2,"Democrat","BENFORD, DOROTHY",2
-"118","Hinds","(OB) Old Byram","U.S. Representative",2,"Democrat","ESPY, CHUCK",161
-"119","Hinds","(OB) Old Byram","U.S. Representative",2,"Democrat","THOMPSON, BENNIE G.",54
-"120","Hinds","(PN) Pinehaven","US Senator",NA,"Democrat","BOWLIN, BILL",74
-"121","Hinds","(PN) Pinehaven","US Senator",NA,"Democrat","FLEMING, ERIK",230
-"122","Hinds","(PN) Pinehaven","US Senator",NA,"Democrat","O'KEEFE, JAMES",69
-"123","Hinds","(PN) Pinehaven","US Senator",NA,"Democrat","STARR, CATHERINE M.",54
-"124","Hinds","(PN) Pinehaven","U.S. Representative",2,"Democrat","BENFORD, DOROTHY",2
-"125","Hinds","(PN) Pinehaven","U.S. Representative",2,"Democrat","ESPY, CHUCK",263
-"126","Hinds","(PN) Pinehaven","U.S. Representative",2,"Democrat","THOMPSON, BENNIE G.",303
-"127","Hinds","(PO) Pocahontas","US Senator",NA,"Democrat","BOWLIN, BILL",23
-"128","Hinds","(PO) Pocahontas","US Senator",NA,"Democrat","FLEMING, ERIK",104
-"129","Hinds","(PO) Pocahontas","US Senator",NA,"Democrat","O'KEEFE, JAMES",21
-"130","Hinds","(PO) Pocahontas","US Senator",NA,"Democrat","STARR, CATHERINE M.",27
-"131","Hinds","(PO) Pocahontas","U.S. Representative",2,"Democrat","BENFORD, DOROTHY",0
-"132","Hinds","(PO) Pocahontas","U.S. Representative",2,"Democrat","ESPY, CHUCK",72
-"133","Hinds","(PO) Pocahontas","U.S. Representative",2,"Democrat","THOMPSON, BENNIE G.",121
-"134","Hinds","01","US Senator",NA,"Democrat","BOWLIN, BILL",2
-"135","Hinds","01","US Senator",NA,"Democrat","FLEMING, ERIK",7
-"136","Hinds","01","US Senator",NA,"Democrat","O'KEEFE, JAMES",4
-"137","Hinds","01","US Senator",NA,"Democrat","STARR, CATHERINE M.",0
-"138","Hinds","01","U.S. Representative",2,"Democrat","BENFORD, DOROTHY",0
-"139","Hinds","01","U.S. Representative",2,"Democrat","ESPY, CHUCK",7
-"140","Hinds","01","U.S. Representative",2,"Democrat","THOMPSON, BENNIE G.",8
-"141","Hinds","02","US Senator",NA,"Democrat","BOWLIN, BILL",10
-"142","Hinds","02","US Senator",NA,"Democrat","FLEMING, ERIK",30
-"143","Hinds","02","US Senator",NA,"Democrat","O'KEEFE, JAMES",2
-"144","Hinds","02","US Senator",NA,"Democrat","STARR, CATHERINE M.",4
-"145","Hinds","02","U.S. Representative",2,"Democrat","BENFORD, DOROTHY",0
-"146","Hinds","02","U.S. Representative",2,"Democrat","ESPY, CHUCK",8
-"147","Hinds","02","U.S. Representative",2,"Democrat","THOMPSON, BENNIE G.",51
-"148","Hinds","04","US Senator",NA,"Democrat","BOWLIN, BILL",14
-"149","Hinds","04","US Senator",NA,"Democrat","FLEMING, ERIK",64
-"150","Hinds","04","US Senator",NA,"Democrat","O'KEEFE, JAMES",12
-"151","Hinds","04","US Senator",NA,"Democrat","STARR, CATHERINE M.",14
-"152","Hinds","04","U.S. Representative",2,"Democrat","BENFORD, DOROTHY",0
-"153","Hinds","04","U.S. Representative",2,"Democrat","ESPY, CHUCK",8
-"154","Hinds","04","U.S. Representative",2,"Democrat","THOMPSON, BENNIE G.",115
-"155","Hinds","05","US Senator",NA,"Democrat","BOWLIN, BILL",10
-"156","Hinds","05","US Senator",NA,"Democrat","FLEMING, ERIK",39
-"157","Hinds","05","US Senator",NA,"Democrat","O'KEEFE, JAMES",11
-"158","Hinds","05","US Senator",NA,"Democrat","STARR, CATHERINE M.",9
-"159","Hinds","05","U.S. Representative",2,"Democrat","BENFORD, DOROTHY",1
-"160","Hinds","05","U.S. Representative",2,"Democrat","ESPY, CHUCK",27
-"161","Hinds","05","U.S. Representative",2,"Democrat","THOMPSON, BENNIE G.",52
-"162","Hinds","06","US Senator",NA,"Democrat","BOWLIN, BILL",5
-"163","Hinds","06","US Senator",NA,"Democrat","FLEMING, ERIK",28
-"164","Hinds","06","US Senator",NA,"Democrat","O'KEEFE, JAMES",10
-"165","Hinds","06","US Senator",NA,"Democrat","STARR, CATHERINE M.",14
-"166","Hinds","06","U.S. Representative",2,"Democrat","BENFORD, DOROTHY",3
-"167","Hinds","06","U.S. Representative",2,"Democrat","ESPY, CHUCK",11
-"168","Hinds","06","U.S. Representative",2,"Democrat","THOMPSON, BENNIE G.",54
-"169","Hinds","08","US Senator",NA,"Democrat","BOWLIN, BILL",9
-"170","Hinds","08","US Senator",NA,"Democrat","FLEMING, ERIK",33
-"171","Hinds","08","US Senator",NA,"Democrat","O'KEEFE, JAMES",13
-"172","Hinds","08","US Senator",NA,"Democrat","STARR, CATHERINE M.",5
-"173","Hinds","08","U.S. Representative",2,"Democrat","BENFORD, DOROTHY",NA
-"174","Hinds","08","U.S. Representative",2,"Democrat","ESPY, CHUCK",NA
-"175","Hinds","08","U.S. Representative",2,"Democrat","THOMPSON, BENNIE G.",NA
-"176","Hinds","09","US Senator",NA,"Democrat","BOWLIN, BILL",14
-"177","Hinds","09","US Senator",NA,"Democrat","FLEMING, ERIK",44
-"178","Hinds","09","US Senator",NA,"Democrat","O'KEEFE, JAMES",18
-"179","Hinds","09","US Senator",NA,"Democrat","STARR, CATHERINE M.",10
-"180","Hinds","09","U.S. Representative",2,"Democrat","BENFORD, DOROTHY",NA
-"181","Hinds","09","U.S. Representative",2,"Democrat","ESPY, CHUCK",NA
-"182","Hinds","09","U.S. Representative",2,"Democrat","THOMPSON, BENNIE G.",NA
-"183","Hinds","10","US Senator",NA,"Democrat","BOWLIN, BILL",11
-"184","Hinds","10","US Senator",NA,"Democrat","FLEMING, ERIK",46
-"185","Hinds","10","US Senator",NA,"Democrat","O'KEEFE, JAMES",3
-"186","Hinds","10","US Senator",NA,"Democrat","STARR, CATHERINE M.",7
-"187","Hinds","10","U.S. Representative",2,"Democrat","BENFORD, DOROTHY",0
-"188","Hinds","10","U.S. Representative",2,"Democrat","ESPY, CHUCK",10
-"189","Hinds","10","U.S. Representative",2,"Democrat","THOMPSON, BENNIE G.",60
-"190","Hinds","11","US Senator",NA,"Democrat","BOWLIN, BILL",15
-"191","Hinds","11","US Senator",NA,"Democrat","FLEMING, ERIK",121
-"192","Hinds","11","US Senator",NA,"Democrat","O'KEEFE, JAMES",15
-"193","Hinds","11","US Senator",NA,"Democrat","STARR, CATHERINE M.",15
-"194","Hinds","11","U.S. Representative",2,"Democrat","BENFORD, DOROTHY",3
-"195","Hinds","11","U.S. Representative",2,"Democrat","ESPY, CHUCK",15
-"196","Hinds","11","U.S. Representative",2,"Democrat","THOMPSON, BENNIE G.",166
-"197","Hinds","12","US Senator",NA,"Democrat","BOWLIN, BILL",16
-"198","Hinds","12","US Senator",NA,"Democrat","FLEMING, ERIK",161
-"199","Hinds","12","US Senator",NA,"Democrat","O'KEEFE, JAMES",8
-"200","Hinds","12","US Senator",NA,"Democrat","STARR, CATHERINE M.",13
-"201","Hinds","12","U.S. Representative",2,"Democrat","BENFORD, DOROTHY",2
-"202","Hinds","12","U.S. Representative",2,"Democrat","ESPY, CHUCK",11
-"203","Hinds","12","U.S. Representative",2,"Democrat","THOMPSON, BENNIE G.",200
-"204","Hinds","13","US Senator",NA,"Democrat","BOWLIN, BILL",19
-"205","Hinds","13","US Senator",NA,"Democrat","FLEMING, ERIK",135
-"206","Hinds","13","US Senator",NA,"Democrat","O'KEEFE, JAMES",11
-"207","Hinds","13","US Senator",NA,"Democrat","STARR, CATHERINE M.",13
-"208","Hinds","13","U.S. Representative",2,"Democrat","BENFORD, DOROTHY",1
-"209","Hinds","13","U.S. Representative",2,"Democrat","ESPY, CHUCK",18
-"210","Hinds","13","U.S. Representative",2,"Democrat","THOMPSON, BENNIE G.",195
-"211","Hinds","14","US Senator",NA,"Democrat","BOWLIN, BILL",14
-"212","Hinds","14","US Senator",NA,"Democrat","FLEMING, ERIK",26
-"213","Hinds","14","US Senator",NA,"Democrat","O'KEEFE, JAMES",23
-"214","Hinds","14","US Senator",NA,"Democrat","STARR, CATHERINE M.",6
-"215","Hinds","14","U.S. Representative",2,"Democrat","BENFORD, DOROTHY",NA
-"216","Hinds","14","U.S. Representative",2,"Democrat","ESPY, CHUCK",NA
-"217","Hinds","14","U.S. Representative",2,"Democrat","THOMPSON, BENNIE G.",NA
-"218","Hinds","15","US Senator",NA,"Democrat","BOWLIN, BILL",14
-"219","Hinds","15","US Senator",NA,"Democrat","FLEMING, ERIK",21
-"220","Hinds","15","US Senator",NA,"Democrat","O'KEEFE, JAMES",9
-"221","Hinds","15","US Senator",NA,"Democrat","STARR, CATHERINE M.",8
-"222","Hinds","15","U.S. Representative",2,"Democrat","BENFORD, DOROTHY",1
-"223","Hinds","15","U.S. Representative",2,"Democrat","ESPY, CHUCK",41
-"224","Hinds","15","U.S. Representative",2,"Democrat","THOMPSON, BENNIE G.",24
-"225","Hinds","16","US Senator",NA,"Democrat","BOWLIN, BILL",12
-"226","Hinds","16","US Senator",NA,"Democrat","FLEMING, ERIK",72
-"227","Hinds","16","US Senator",NA,"Democrat","O'KEEFE, JAMES",18
-"228","Hinds","16","US Senator",NA,"Democrat","STARR, CATHERINE M.",17
-"229","Hinds","16","U.S. Representative",2,"Democrat","BENFORD, DOROTHY",0
-"230","Hinds","16","U.S. Representative",2,"Democrat","ESPY, CHUCK",48
-"231","Hinds","16","U.S. Representative",2,"Democrat","THOMPSON, BENNIE G.",95
-"232","Hinds","17","US Senator",NA,"Democrat","BOWLIN, BILL",10
-"233","Hinds","17","US Senator",NA,"Democrat","FLEMING, ERIK",24
-"234","Hinds","17","US Senator",NA,"Democrat","O'KEEFE, JAMES",5
-"235","Hinds","17","US Senator",NA,"Democrat","STARR, CATHERINE M.",5
-"236","Hinds","17","U.S. Representative",2,"Democrat","BENFORD, DOROTHY",NA
-"237","Hinds","17","U.S. Representative",2,"Democrat","ESPY, CHUCK",NA
-"238","Hinds","17","U.S. Representative",2,"Democrat","THOMPSON, BENNIE G.",NA
-"239","Hinds","18","US Senator",NA,"Democrat","BOWLIN, BILL",5
-"240","Hinds","18","US Senator",NA,"Democrat","FLEMING, ERIK",64
-"241","Hinds","18","US Senator",NA,"Democrat","O'KEEFE, JAMES",4
-"242","Hinds","18","US Senator",NA,"Democrat","STARR, CATHERINE M.",6
-"243","Hinds","18","U.S. Representative",2,"Democrat","BENFORD, DOROTHY",0
-"244","Hinds","18","U.S. Representative",2,"Democrat","ESPY, CHUCK",3
-"245","Hinds","18","U.S. Representative",2,"Democrat","THOMPSON, BENNIE G.",77
-"246","Hinds","19","US Senator",NA,"Democrat","BOWLIN, BILL",12
-"247","Hinds","19","US Senator",NA,"Democrat","FLEMING, ERIK",112
-"248","Hinds","19","US Senator",NA,"Democrat","O'KEEFE, JAMES",11
-"249","Hinds","19","US Senator",NA,"Democrat","STARR, CATHERINE M.",19
-"250","Hinds","19","U.S. Representative",2,"Democrat","BENFORD, DOROTHY",1
-"251","Hinds","19","U.S. Representative",2,"Democrat","ESPY, CHUCK",29
-"252","Hinds","19","U.S. Representative",2,"Democrat","THOMPSON, BENNIE G.",170
-"253","Hinds","20","US Senator",NA,"Democrat","BOWLIN, BILL",19
-"254","Hinds","20","US Senator",NA,"Democrat","FLEMING, ERIK",116
-"255","Hinds","20","US Senator",NA,"Democrat","O'KEEFE, JAMES",18
-"256","Hinds","20","US Senator",NA,"Democrat","STARR, CATHERINE M.",11
-"257","Hinds","20","U.S. Representative",2,"Democrat","BENFORD, DOROTHY",2
-"258","Hinds","20","U.S. Representative",2,"Democrat","ESPY, CHUCK",36
-"259","Hinds","20","U.S. Representative",2,"Democrat","THOMPSON, BENNIE G.",167
-"260","Hinds","21","US Senator",NA,"Democrat","BOWLIN, BILL",4
-"261","Hinds","21","US Senator",NA,"Democrat","FLEMING, ERIK",48
-"262","Hinds","21","US Senator",NA,"Democrat","O'KEEFE, JAMES",8
-"263","Hinds","21","US Senator",NA,"Democrat","STARR, CATHERINE M.",10
-"264","Hinds","21","U.S. Representative",2,"Democrat","BENFORD, DOROTHY",0
-"265","Hinds","21","U.S. Representative",2,"Democrat","ESPY, CHUCK",9
-"266","Hinds","21","U.S. Representative",2,"Democrat","THOMPSON, BENNIE G.",81
-"267","Hinds","22","US Senator",NA,"Democrat","BOWLIN, BILL",56
-"268","Hinds","22","US Senator",NA,"Democrat","FLEMING, ERIK",219
-"269","Hinds","22","US Senator",NA,"Democrat","O'KEEFE, JAMES",44
-"270","Hinds","22","US Senator",NA,"Democrat","STARR, CATHERINE M.",63
-"271","Hinds","22","U.S. Representative",2,"Democrat","BENFORD, DOROTHY",7
-"272","Hinds","22","U.S. Representative",2,"Democrat","ESPY, CHUCK",36
-"273","Hinds","22","U.S. Representative",2,"Democrat","THOMPSON, BENNIE G.",381
-"274","Hinds","23","US Senator",NA,"Democrat","BOWLIN, BILL",24
-"275","Hinds","23","US Senator",NA,"Democrat","FLEMING, ERIK",190
-"276","Hinds","23","US Senator",NA,"Democrat","O'KEEFE, JAMES",23
-"277","Hinds","23","US Senator",NA,"Democrat","STARR, CATHERINE M.",46
-"278","Hinds","23","U.S. Representative",2,"Democrat","BENFORD, DOROTHY",1
-"279","Hinds","23","U.S. Representative",2,"Democrat","ESPY, CHUCK",47
-"280","Hinds","23","U.S. Representative",2,"Democrat","THOMPSON, BENNIE G.",371
-"281","Hinds","24","US Senator",NA,"Democrat","BOWLIN, BILL",19
-"282","Hinds","24","US Senator",NA,"Democrat","FLEMING, ERIK",101
-"283","Hinds","24","US Senator",NA,"Democrat","O'KEEFE, JAMES",15
-"284","Hinds","24","US Senator",NA,"Democrat","STARR, CATHERINE M.",24
-"285","Hinds","24","U.S. Representative",2,"Democrat","BENFORD, DOROTHY",0
-"286","Hinds","24","U.S. Representative",2,"Democrat","ESPY, CHUCK",32
-"287","Hinds","24","U.S. Representative",2,"Democrat","THOMPSON, BENNIE G.",150
-"288","Hinds","25","US Senator",NA,"Democrat","BOWLIN, BILL",24
-"289","Hinds","25","US Senator",NA,"Democrat","FLEMING, ERIK",204
-"290","Hinds","25","US Senator",NA,"Democrat","O'KEEFE, JAMES",12
-"291","Hinds","25","US Senator",NA,"Democrat","STARR, CATHERINE M.",34
-"292","Hinds","25","U.S. Representative",2,"Democrat","BENFORD, DOROTHY",3
-"293","Hinds","25","U.S. Representative",2,"Democrat","ESPY, CHUCK",44
-"294","Hinds","25","U.S. Representative",2,"Democrat","THOMPSON, BENNIE G.",265
-"295","Hinds","26","US Senator",NA,"Democrat","BOWLIN, BILL",12
-"296","Hinds","26","US Senator",NA,"Democrat","FLEMING, ERIK",101
-"297","Hinds","26","US Senator",NA,"Democrat","O'KEEFE, JAMES",11
-"298","Hinds","26","US Senator",NA,"Democrat","STARR, CATHERINE M.",20
-"299","Hinds","26","U.S. Representative",2,"Democrat","BENFORD, DOROTHY",0
-"300","Hinds","26","U.S. Representative",2,"Democrat","ESPY, CHUCK",39
-"301","Hinds","26","U.S. Representative",2,"Democrat","THOMPSON, BENNIE G.",121
-"302","Hinds","27","US Senator",NA,"Democrat","BOWLIN, BILL",43
-"303","Hinds","27","US Senator",NA,"Democrat","FLEMING, ERIK",308
-"304","Hinds","27","US Senator",NA,"Democrat","O'KEEFE, JAMES",50
-"305","Hinds","27","US Senator",NA,"Democrat","STARR, CATHERINE M.",63
-"306","Hinds","27","U.S. Representative",2,"Democrat","BENFORD, DOROTHY",5
-"307","Hinds","27","U.S. Representative",2,"Democrat","ESPY, CHUCK",75
-"308","Hinds","27","U.S. Representative",2,"Democrat","THOMPSON, BENNIE G.",498
-"309","Hinds","28","US Senator",NA,"Democrat","BOWLIN, BILL",31
-"310","Hinds","28","US Senator",NA,"Democrat","FLEMING, ERIK",276
-"311","Hinds","28","US Senator",NA,"Democrat","O'KEEFE, JAMES",30
-"312","Hinds","28","US Senator",NA,"Democrat","STARR, CATHERINE M.",34
-"313","Hinds","28","U.S. Representative",2,"Democrat","BENFORD, DOROTHY",4
-"314","Hinds","28","U.S. Representative",2,"Democrat","ESPY, CHUCK",45
-"315","Hinds","28","U.S. Representative",2,"Democrat","THOMPSON, BENNIE G.",429
-"316","Hinds","29","US Senator",NA,"Democrat","BOWLIN, BILL",25
-"317","Hinds","29","US Senator",NA,"Democrat","FLEMING, ERIK",188
-"318","Hinds","29","US Senator",NA,"Democrat","O'KEEFE, JAMES",25
-"319","Hinds","29","US Senator",NA,"Democrat","STARR, CATHERINE M.",26
-"320","Hinds","29","U.S. Representative",2,"Democrat","BENFORD, DOROTHY",2
-"321","Hinds","29","U.S. Representative",2,"Democrat","ESPY, CHUCK",32
-"322","Hinds","29","U.S. Representative",2,"Democrat","THOMPSON, BENNIE G.",264
-"323","Hinds","30","US Senator",NA,"Democrat","BOWLIN, BILL",16
-"324","Hinds","30","US Senator",NA,"Democrat","FLEMING, ERIK",114
-"325","Hinds","30","US Senator",NA,"Democrat","O'KEEFE, JAMES",24
-"326","Hinds","30","US Senator",NA,"Democrat","STARR, CATHERINE M.",23
-"327","Hinds","30","U.S. Representative",2,"Democrat","BENFORD, DOROTHY",2
-"328","Hinds","30","U.S. Representative",2,"Democrat","ESPY, CHUCK",20
-"329","Hinds","30","U.S. Representative",2,"Democrat","THOMPSON, BENNIE G.",186
-"330","Hinds","31","US Senator",NA,"Democrat","BOWLIN, BILL",26
-"331","Hinds","31","US Senator",NA,"Democrat","FLEMING, ERIK",217
-"332","Hinds","31","US Senator",NA,"Democrat","O'KEEFE, JAMES",30
-"333","Hinds","31","US Senator",NA,"Democrat","STARR, CATHERINE M.",24
-"334","Hinds","31","U.S. Representative",2,"Democrat","BENFORD, DOROTHY",5
-"335","Hinds","31","U.S. Representative",2,"Democrat","ESPY, CHUCK",27
-"336","Hinds","31","U.S. Representative",2,"Democrat","THOMPSON, BENNIE G.",363
-"337","Hinds","32","US Senator",NA,"Democrat","BOWLIN, BILL",9
-"338","Hinds","32","US Senator",NA,"Democrat","FLEMING, ERIK",16
-"339","Hinds","32","US Senator",NA,"Democrat","O'KEEFE, JAMES",6
-"340","Hinds","32","US Senator",NA,"Democrat","STARR, CATHERINE M.",5
-"341","Hinds","32","U.S. Representative",2,"Democrat","BENFORD, DOROTHY",NA
-"342","Hinds","32","U.S. Representative",2,"Democrat","ESPY, CHUCK",NA
-"343","Hinds","32","U.S. Representative",2,"Democrat","THOMPSON, BENNIE G.",NA
-"344","Hinds","33","US Senator",NA,"Democrat","BOWLIN, BILL",6
-"345","Hinds","33","US Senator",NA,"Democrat","FLEMING, ERIK",17
-"346","Hinds","33","US Senator",NA,"Democrat","O'KEEFE, JAMES",7
-"347","Hinds","33","US Senator",NA,"Democrat","STARR, CATHERINE M.",7
-"348","Hinds","33","U.S. Representative",2,"Democrat","BENFORD, DOROTHY",NA
-"349","Hinds","33","U.S. Representative",2,"Democrat","ESPY, CHUCK",NA
-"350","Hinds","33","U.S. Representative",2,"Democrat","THOMPSON, BENNIE G.",NA
-"351","Hinds","34","US Senator",NA,"Democrat","BOWLIN, BILL",8
-"352","Hinds","34","US Senator",NA,"Democrat","FLEMING, ERIK",25
-"353","Hinds","34","US Senator",NA,"Democrat","O'KEEFE, JAMES",12
-"354","Hinds","34","US Senator",NA,"Democrat","STARR, CATHERINE M.",4
-"355","Hinds","34","U.S. Representative",2,"Democrat","BENFORD, DOROTHY",NA
-"356","Hinds","34","U.S. Representative",2,"Democrat","ESPY, CHUCK",NA
-"357","Hinds","34","U.S. Representative",2,"Democrat","THOMPSON, BENNIE G.",NA
-"358","Hinds","35","US Senator",NA,"Democrat","BOWLIN, BILL",18
-"359","Hinds","35","US Senator",NA,"Democrat","FLEMING, ERIK",22
-"360","Hinds","35","US Senator",NA,"Democrat","O'KEEFE, JAMES",14
-"361","Hinds","35","US Senator",NA,"Democrat","STARR, CATHERINE M.",2
-"362","Hinds","35","U.S. Representative",2,"Democrat","BENFORD, DOROTHY",NA
-"363","Hinds","35","U.S. Representative",2,"Democrat","ESPY, CHUCK",NA
-"364","Hinds","35","U.S. Representative",2,"Democrat","THOMPSON, BENNIE G.",NA
-"365","Hinds","36","US Senator",NA,"Democrat","BOWLIN, BILL",11
-"366","Hinds","36","US Senator",NA,"Democrat","FLEMING, ERIK",52
-"367","Hinds","36","US Senator",NA,"Democrat","O'KEEFE, JAMES",11
-"368","Hinds","36","US Senator",NA,"Democrat","STARR, CATHERINE M.",9
-"369","Hinds","36","U.S. Representative",2,"Democrat","BENFORD, DOROTHY",NA
-"370","Hinds","36","U.S. Representative",2,"Democrat","ESPY, CHUCK",NA
-"371","Hinds","36","U.S. Representative",2,"Democrat","THOMPSON, BENNIE G.",NA
-"372","Hinds","37","US Senator",NA,"Democrat","BOWLIN, BILL",10
-"373","Hinds","37","US Senator",NA,"Democrat","FLEMING, ERIK",46
-"374","Hinds","37","US Senator",NA,"Democrat","O'KEEFE, JAMES",10
-"375","Hinds","37","US Senator",NA,"Democrat","STARR, CATHERINE M.",5
-"376","Hinds","37","U.S. Representative",2,"Democrat","BENFORD, DOROTHY",NA
-"377","Hinds","37","U.S. Representative",2,"Democrat","ESPY, CHUCK",NA
-"378","Hinds","37","U.S. Representative",2,"Democrat","THOMPSON, BENNIE G.",NA
-"379","Hinds","38","US Senator",NA,"Democrat","BOWLIN, BILL",10
-"380","Hinds","38","US Senator",NA,"Democrat","FLEMING, ERIK",95
-"381","Hinds","38","US Senator",NA,"Democrat","O'KEEFE, JAMES",13
-"382","Hinds","38","US Senator",NA,"Democrat","STARR, CATHERINE M.",14
-"383","Hinds","38","U.S. Representative",2,"Democrat","BENFORD, DOROTHY",0
-"384","Hinds","38","U.S. Representative",2,"Democrat","ESPY, CHUCK",43
-"385","Hinds","38","U.S. Representative",2,"Democrat","THOMPSON, BENNIE G.",103
-"386","Hinds","39","US Senator",NA,"Democrat","BOWLIN, BILL",15
-"387","Hinds","39","US Senator",NA,"Democrat","FLEMING, ERIK",180
-"388","Hinds","39","US Senator",NA,"Democrat","O'KEEFE, JAMES",26
-"389","Hinds","39","US Senator",NA,"Democrat","STARR, CATHERINE M.",32
-"390","Hinds","39","U.S. Representative",2,"Democrat","BENFORD, DOROTHY",2
-"391","Hinds","39","U.S. Representative",2,"Democrat","ESPY, CHUCK",24
-"392","Hinds","39","U.S. Representative",2,"Democrat","THOMPSON, BENNIE G.",259
-"393","Hinds","40","US Senator",NA,"Democrat","BOWLIN, BILL",27
-"394","Hinds","40","US Senator",NA,"Democrat","FLEMING, ERIK",221
-"395","Hinds","40","US Senator",NA,"Democrat","O'KEEFE, JAMES",33
-"396","Hinds","40","US Senator",NA,"Democrat","STARR, CATHERINE M.",57
-"397","Hinds","40","U.S. Representative",2,"Democrat","BENFORD, DOROTHY",1
-"398","Hinds","40","U.S. Representative",2,"Democrat","ESPY, CHUCK",38
-"399","Hinds","40","U.S. Representative",2,"Democrat","THOMPSON, BENNIE G.",351
-"400","Hinds","41","US Senator",NA,"Democrat","BOWLIN, BILL",36
-"401","Hinds","41","US Senator",NA,"Democrat","FLEMING, ERIK",318
-"402","Hinds","41","US Senator",NA,"Democrat","O'KEEFE, JAMES",47
-"403","Hinds","41","US Senator",NA,"Democrat","STARR, CATHERINE M.",66
-"404","Hinds","41","U.S. Representative",2,"Democrat","BENFORD, DOROTHY",1
-"405","Hinds","41","U.S. Representative",2,"Democrat","ESPY, CHUCK",55
-"406","Hinds","41","U.S. Representative",2,"Democrat","THOMPSON, BENNIE G.",530
-"407","Hinds","42","US Senator",NA,"Democrat","BOWLIN, BILL",21
-"408","Hinds","42","US Senator",NA,"Democrat","FLEMING, ERIK",166
-"409","Hinds","42","US Senator",NA,"Democrat","O'KEEFE, JAMES",21
-"410","Hinds","42","US Senator",NA,"Democrat","STARR, CATHERINE M.",29
-"411","Hinds","42","U.S. Representative",2,"Democrat","BENFORD, DOROTHY",1
-"412","Hinds","42","U.S. Representative",2,"Democrat","ESPY, CHUCK",65
-"413","Hinds","42","U.S. Representative",2,"Democrat","THOMPSON, BENNIE G.",207
-"414","Hinds","43","US Senator",NA,"Democrat","BOWLIN, BILL",18
-"415","Hinds","43","US Senator",NA,"Democrat","FLEMING, ERIK",195
-"416","Hinds","43","US Senator",NA,"Democrat","O'KEEFE, JAMES",26
-"417","Hinds","43","US Senator",NA,"Democrat","STARR, CATHERINE M.",16
-"418","Hinds","43","U.S. Representative",2,"Democrat","BENFORD, DOROTHY",2
-"419","Hinds","43","U.S. Representative",2,"Democrat","ESPY, CHUCK",75
-"420","Hinds","43","U.S. Representative",2,"Democrat","THOMPSON, BENNIE G.",215
-"421","Hinds","44","US Senator",NA,"Democrat","BOWLIN, BILL",13
-"422","Hinds","44","US Senator",NA,"Democrat","FLEMING, ERIK",56
-"423","Hinds","44","US Senator",NA,"Democrat","O'KEEFE, JAMES",9
-"424","Hinds","44","US Senator",NA,"Democrat","STARR, CATHERINE M.",9
-"425","Hinds","44","U.S. Representative",2,"Democrat","BENFORD, DOROTHY",NA
-"426","Hinds","44","U.S. Representative",2,"Democrat","ESPY, CHUCK",NA
-"427","Hinds","44","U.S. Representative",2,"Democrat","THOMPSON, BENNIE G.",NA
-"428","Hinds","45","US Senator",NA,"Democrat","BOWLIN, BILL",12
-"429","Hinds","45","US Senator",NA,"Democrat","FLEMING, ERIK",20
-"430","Hinds","45","US Senator",NA,"Democrat","O'KEEFE, JAMES",14
-"431","Hinds","45","US Senator",NA,"Democrat","STARR, CATHERINE M.",4
-"432","Hinds","45","U.S. Representative",2,"Democrat","BENFORD, DOROTHY",NA
-"433","Hinds","45","U.S. Representative",2,"Democrat","ESPY, CHUCK",NA
-"434","Hinds","45","U.S. Representative",2,"Democrat","THOMPSON, BENNIE G.",NA
-"435","Hinds","46","US Senator",NA,"Democrat","BOWLIN, BILL",27
-"436","Hinds","46","US Senator",NA,"Democrat","FLEMING, ERIK",71
-"437","Hinds","46","US Senator",NA,"Democrat","O'KEEFE, JAMES",25
-"438","Hinds","46","US Senator",NA,"Democrat","STARR, CATHERINE M.",20
-"439","Hinds","46","U.S. Representative",2,"Democrat","BENFORD, DOROTHY",NA
-"440","Hinds","46","U.S. Representative",2,"Democrat","ESPY, CHUCK",NA
-"441","Hinds","46","U.S. Representative",2,"Democrat","THOMPSON, BENNIE G.",NA
-"442","Hinds","47","US Senator",NA,"Democrat","BOWLIN, BILL",8
-"443","Hinds","47","US Senator",NA,"Democrat","FLEMING, ERIK",76
-"444","Hinds","47","US Senator",NA,"Democrat","O'KEEFE, JAMES",14
-"445","Hinds","47","US Senator",NA,"Democrat","STARR, CATHERINE M.",16
-"446","Hinds","47","U.S. Representative",2,"Democrat","BENFORD, DOROTHY",0
-"447","Hinds","47","U.S. Representative",2,"Democrat","ESPY, CHUCK",24
-"448","Hinds","47","U.S. Representative",2,"Democrat","THOMPSON, BENNIE G.",101
-"449","Hinds","48","US Senator",NA,"Democrat","BOWLIN, BILL",3
-"450","Hinds","48","US Senator",NA,"Democrat","FLEMING, ERIK",23
-"451","Hinds","48","US Senator",NA,"Democrat","O'KEEFE, JAMES",5
-"452","Hinds","48","US Senator",NA,"Democrat","STARR, CATHERINE M.",7
-"453","Hinds","48","U.S. Representative",2,"Democrat","BENFORD, DOROTHY",0
-"454","Hinds","48","U.S. Representative",2,"Democrat","ESPY, CHUCK",11
-"455","Hinds","48","U.S. Representative",2,"Democrat","THOMPSON, BENNIE G.",30
-"456","Hinds","49","US Senator",NA,"Democrat","BOWLIN, BILL",2
-"457","Hinds","49","US Senator",NA,"Democrat","FLEMING, ERIK",29
-"458","Hinds","49","US Senator",NA,"Democrat","O'KEEFE, JAMES",3
-"459","Hinds","49","US Senator",NA,"Democrat","STARR, CATHERINE M.",6
-"460","Hinds","49","U.S. Representative",2,"Democrat","BENFORD, DOROTHY",0
-"461","Hinds","49","U.S. Representative",2,"Democrat","ESPY, CHUCK",6
-"462","Hinds","49","U.S. Representative",2,"Democrat","THOMPSON, BENNIE G.",42
-"463","Hinds","50","US Senator",NA,"Democrat","BOWLIN, BILL",2
-"464","Hinds","50","US Senator",NA,"Democrat","FLEMING, ERIK",29
-"465","Hinds","50","US Senator",NA,"Democrat","O'KEEFE, JAMES",3
-"466","Hinds","50","US Senator",NA,"Democrat","STARR, CATHERINE M.",6
-"467","Hinds","50","U.S. Representative",2,"Democrat","BENFORD, DOROTHY",0
-"468","Hinds","50","U.S. Representative",2,"Democrat","ESPY, CHUCK",6
-"469","Hinds","50","U.S. Representative",2,"Democrat","THOMPSON, BENNIE G.",42
-"470","Hinds","51","US Senator",NA,"Democrat","BOWLIN, BILL",10
-"471","Hinds","51","US Senator",NA,"Democrat","FLEMING, ERIK",113
-"472","Hinds","51","US Senator",NA,"Democrat","O'KEEFE, JAMES",9
-"473","Hinds","51","US Senator",NA,"Democrat","STARR, CATHERINE M.",23
-"474","Hinds","51","U.S. Representative",2,"Democrat","BENFORD, DOROTHY",2
-"475","Hinds","51","U.S. Representative",2,"Democrat","ESPY, CHUCK",33
-"476","Hinds","51","U.S. Representative",2,"Democrat","THOMPSON, BENNIE G.",134
-"477","Hinds","52","US Senator",NA,"Democrat","BOWLIN, BILL",14
-"478","Hinds","52","US Senator",NA,"Democrat","FLEMING, ERIK",116
-"479","Hinds","52","US Senator",NA,"Democrat","O'KEEFE, JAMES",19
-"480","Hinds","52","US Senator",NA,"Democrat","STARR, CATHERINE M.",25
-"481","Hinds","52","U.S. Representative",2,"Democrat","BENFORD, DOROTHY",5
-"482","Hinds","52","U.S. Representative",2,"Democrat","ESPY, CHUCK",24
-"483","Hinds","52","U.S. Representative",2,"Democrat","THOMPSON, BENNIE G.",156
-"484","Hinds","53","US Senator",NA,"Democrat","BOWLIN, BILL",1
-"485","Hinds","53","US Senator",NA,"Democrat","FLEMING, ERIK",10
-"486","Hinds","53","US Senator",NA,"Democrat","O'KEEFE, JAMES",5
-"487","Hinds","53","US Senator",NA,"Democrat","STARR, CATHERINE M.",1
-"488","Hinds","53","U.S. Representative",2,"Democrat","BENFORD, DOROTHY",0
-"489","Hinds","53","U.S. Representative",2,"Democrat","ESPY, CHUCK",5
-"490","Hinds","53","U.S. Representative",2,"Democrat","THOMPSON, BENNIE G.",14
-"491","Hinds","54","US Senator",NA,"Democrat","BOWLIN, BILL",10
-"492","Hinds","54","US Senator",NA,"Democrat","FLEMING, ERIK",62
-"493","Hinds","54","US Senator",NA,"Democrat","O'KEEFE, JAMES",8
-"494","Hinds","54","US Senator",NA,"Democrat","STARR, CATHERINE M.",13
-"495","Hinds","54","U.S. Representative",2,"Democrat","BENFORD, DOROTHY",1
-"496","Hinds","54","U.S. Representative",2,"Democrat","ESPY, CHUCK",7
-"497","Hinds","54","U.S. Representative",2,"Democrat","THOMPSON, BENNIE G.",89
-"498","Hinds","55","US Senator",NA,"Democrat","BOWLIN, BILL",10
-"499","Hinds","55","US Senator",NA,"Democrat","FLEMING, ERIK",101
-"500","Hinds","55","US Senator",NA,"Democrat","O'KEEFE, JAMES",19
-"501","Hinds","55","US Senator",NA,"Democrat","STARR, CATHERINE M.",12
-"502","Hinds","55","U.S. Representative",2,"Democrat","BENFORD, DOROTHY",0
-"503","Hinds","55","U.S. Representative",2,"Democrat","ESPY, CHUCK",21
-"504","Hinds","55","U.S. Representative",2,"Democrat","THOMPSON, BENNIE G.",144
-"505","Hinds","56","US Senator",NA,"Democrat","BOWLIN, BILL",3
-"506","Hinds","56","US Senator",NA,"Democrat","FLEMING, ERIK",56
-"507","Hinds","56","US Senator",NA,"Democrat","O'KEEFE, JAMES",11
-"508","Hinds","56","US Senator",NA,"Democrat","STARR, CATHERINE M.",13
-"509","Hinds","56","U.S. Representative",2,"Democrat","BENFORD, DOROTHY",1
-"510","Hinds","56","U.S. Representative",2,"Democrat","ESPY, CHUCK",12
-"511","Hinds","56","U.S. Representative",2,"Democrat","THOMPSON, BENNIE G.",81
-"512","Hinds","57","US Senator",NA,"Democrat","BOWLIN, BILL",14
-"513","Hinds","57","US Senator",NA,"Democrat","FLEMING, ERIK",144
-"514","Hinds","57","US Senator",NA,"Democrat","O'KEEFE, JAMES",14
-"515","Hinds","57","US Senator",NA,"Democrat","STARR, CATHERINE M.",22
-"516","Hinds","57","U.S. Representative",2,"Democrat","BENFORD, DOROTHY",3
-"517","Hinds","57","U.S. Representative",2,"Democrat","ESPY, CHUCK",28
-"518","Hinds","57","U.S. Representative",2,"Democrat","THOMPSON, BENNIE G.",198
-"519","Hinds","58","US Senator",NA,"Democrat","BOWLIN, BILL",20
-"520","Hinds","58","US Senator",NA,"Democrat","FLEMING, ERIK",310
-"521","Hinds","58","US Senator",NA,"Democrat","O'KEEFE, JAMES",38
-"522","Hinds","58","US Senator",NA,"Democrat","STARR, CATHERINE M.",34
-"523","Hinds","58","U.S. Representative",2,"Democrat","BENFORD, DOROTHY",1
-"524","Hinds","58","U.S. Representative",2,"Democrat","ESPY, CHUCK",50
-"525","Hinds","58","U.S. Representative",2,"Democrat","THOMPSON, BENNIE G.",380
-"526","Hinds","59","US Senator",NA,"Democrat","BOWLIN, BILL",13
-"527","Hinds","59","US Senator",NA,"Democrat","FLEMING, ERIK",222
-"528","Hinds","59","US Senator",NA,"Democrat","O'KEEFE, JAMES",24
-"529","Hinds","59","US Senator",NA,"Democrat","STARR, CATHERINE M.",33
-"530","Hinds","59","U.S. Representative",2,"Democrat","BENFORD, DOROTHY",1
-"531","Hinds","59","U.S. Representative",2,"Democrat","ESPY, CHUCK",71
-"532","Hinds","59","U.S. Representative",2,"Democrat","THOMPSON, BENNIE G.",259
-"533","Hinds","60","US Senator",NA,"Democrat","BOWLIN, BILL",2
-"534","Hinds","60","US Senator",NA,"Democrat","FLEMING, ERIK",41
-"535","Hinds","60","US Senator",NA,"Democrat","O'KEEFE, JAMES",10
-"536","Hinds","60","US Senator",NA,"Democrat","STARR, CATHERINE M.",8
-"537","Hinds","60","U.S. Representative",2,"Democrat","BENFORD, DOROTHY",0
-"538","Hinds","60","U.S. Representative",2,"Democrat","ESPY, CHUCK",10
-"539","Hinds","60","U.S. Representative",2,"Democrat","THOMPSON, BENNIE G.",55
-"540","Hinds","61","US Senator",NA,"Democrat","BOWLIN, BILL",23
-"541","Hinds","61","US Senator",NA,"Democrat","FLEMING, ERIK",101
-"542","Hinds","61","US Senator",NA,"Democrat","O'KEEFE, JAMES",27
-"543","Hinds","61","US Senator",NA,"Democrat","STARR, CATHERINE M.",24
-"544","Hinds","61","U.S. Representative",2,"Democrat","BENFORD, DOROTHY",1
-"545","Hinds","61","U.S. Representative",2,"Democrat","ESPY, CHUCK",36
-"546","Hinds","61","U.S. Representative",2,"Democrat","THOMPSON, BENNIE G.",164
-"547","Hinds","62","US Senator",NA,"Democrat","BOWLIN, BILL",22
-"548","Hinds","62","US Senator",NA,"Democrat","FLEMING, ERIK",141
-"549","Hinds","62","US Senator",NA,"Democrat","O'KEEFE, JAMES",33
-"550","Hinds","62","US Senator",NA,"Democrat","STARR, CATHERINE M.",32
-"551","Hinds","62","U.S. Representative",2,"Democrat","BENFORD, DOROTHY",1
-"552","Hinds","62","U.S. Representative",2,"Democrat","ESPY, CHUCK",39
-"553","Hinds","62","U.S. Representative",2,"Democrat","THOMPSON, BENNIE G.",214
-"554","Hinds","63","US Senator",NA,"Democrat","BOWLIN, BILL",6
-"555","Hinds","63","US Senator",NA,"Democrat","FLEMING, ERIK",95
-"556","Hinds","63","US Senator",NA,"Democrat","O'KEEFE, JAMES",19
-"557","Hinds","63","US Senator",NA,"Democrat","STARR, CATHERINE M.",16
-"558","Hinds","63","U.S. Representative",2,"Democrat","BENFORD, DOROTHY",1
-"559","Hinds","63","U.S. Representative",2,"Democrat","ESPY, CHUCK",19
-"560","Hinds","63","U.S. Representative",2,"Democrat","THOMPSON, BENNIE G.",162
-"561","Hinds","64","US Senator",NA,"Democrat","BOWLIN, BILL",14
-"562","Hinds","64","US Senator",NA,"Democrat","FLEMING, ERIK",83
-"563","Hinds","64","US Senator",NA,"Democrat","O'KEEFE, JAMES",13
-"564","Hinds","64","US Senator",NA,"Democrat","STARR, CATHERINE M.",19
-"565","Hinds","64","U.S. Representative",2,"Democrat","BENFORD, DOROTHY",1
-"566","Hinds","64","U.S. Representative",2,"Democrat","ESPY, CHUCK",24
-"567","Hinds","64","U.S. Representative",2,"Democrat","THOMPSON, BENNIE G.",146
-"568","Hinds","66","US Senator",NA,"Democrat","BOWLIN, BILL",0
-"569","Hinds","66","US Senator",NA,"Democrat","FLEMING, ERIK",2
-"570","Hinds","66","US Senator",NA,"Democrat","O'KEEFE, JAMES",0
-"571","Hinds","66","US Senator",NA,"Democrat","STARR, CATHERINE M.",0
-"572","Hinds","66","U.S. Representative",2,"Democrat","BENFORD, DOROTHY",0
-"573","Hinds","66","U.S. Representative",2,"Democrat","ESPY, CHUCK",1
-"574","Hinds","66","U.S. Representative",2,"Democrat","THOMPSON, BENNIE G.",0
-"575","Hinds","67","US Senator",NA,"Democrat","BOWLIN, BILL",7
-"576","Hinds","67","US Senator",NA,"Democrat","FLEMING, ERIK",54
-"577","Hinds","67","US Senator",NA,"Democrat","O'KEEFE, JAMES",8
-"578","Hinds","67","US Senator",NA,"Democrat","STARR, CATHERINE M.",8
-"579","Hinds","67","U.S. Representative",2,"Democrat","BENFORD, DOROTHY",1
-"580","Hinds","67","U.S. Representative",2,"Democrat","ESPY, CHUCK",24
-"581","Hinds","67","U.S. Representative",2,"Democrat","THOMPSON, BENNIE G.",66
-"582","Hinds","68","US Senator",NA,"Democrat","BOWLIN, BILL",42
-"583","Hinds","68","US Senator",NA,"Democrat","FLEMING, ERIK",247
-"584","Hinds","68","US Senator",NA,"Democrat","O'KEEFE, JAMES",44
-"585","Hinds","68","US Senator",NA,"Democrat","STARR, CATHERINE M.",54
-"586","Hinds","68","U.S. Representative",2,"Democrat","BENFORD, DOROTHY",3
-"587","Hinds","68","U.S. Representative",2,"Democrat","ESPY, CHUCK",120
-"588","Hinds","68","U.S. Representative",2,"Democrat","THOMPSON, BENNIE G.",309
-"589","Hinds","69","US Senator",NA,"Democrat","BOWLIN, BILL",14
-"590","Hinds","69","US Senator",NA,"Democrat","FLEMING, ERIK",69
-"591","Hinds","69","US Senator",NA,"Democrat","O'KEEFE, JAMES",20
-"592","Hinds","69","US Senator",NA,"Democrat","STARR, CATHERINE M.",15
-"593","Hinds","69","U.S. Representative",2,"Democrat","BENFORD, DOROTHY",1
-"594","Hinds","69","U.S. Representative",2,"Democrat","ESPY, CHUCK",44
-"595","Hinds","69","U.S. Representative",2,"Democrat","THOMPSON, BENNIE G.",87
-"596","Hinds","70","US Senator",NA,"Democrat","BOWLIN, BILL",7
-"597","Hinds","70","US Senator",NA,"Democrat","FLEMING, ERIK",22
-"598","Hinds","70","US Senator",NA,"Democrat","O'KEEFE, JAMES",9
-"599","Hinds","70","US Senator",NA,"Democrat","STARR, CATHERINE M.",7
-"600","Hinds","70","U.S. Representative",2,"Democrat","BENFORD, DOROTHY",0
-"601","Hinds","70","U.S. Representative",2,"Democrat","ESPY, CHUCK",17
-"602","Hinds","70","U.S. Representative",2,"Democrat","THOMPSON, BENNIE G.",34
-"603","Hinds","71","US Senator",NA,"Democrat","BOWLIN, BILL",14
-"604","Hinds","71","US Senator",NA,"Democrat","FLEMING, ERIK",92
-"605","Hinds","71","US Senator",NA,"Democrat","O'KEEFE, JAMES",26
-"606","Hinds","71","US Senator",NA,"Democrat","STARR, CATHERINE M.",21
-"607","Hinds","71","U.S. Representative",2,"Democrat","BENFORD, DOROTHY",1
-"608","Hinds","71","U.S. Representative",2,"Democrat","ESPY, CHUCK",59
-"609","Hinds","71","U.S. Representative",2,"Democrat","THOMPSON, BENNIE G.",107
-"610","Hinds","72","US Senator",NA,"Democrat","BOWLIN, BILL",14
-"611","Hinds","72","US Senator",NA,"Democrat","FLEMING, ERIK",48
-"612","Hinds","72","US Senator",NA,"Democrat","O'KEEFE, JAMES",16
-"613","Hinds","72","US Senator",NA,"Democrat","STARR, CATHERINE M.",10
-"614","Hinds","72","U.S. Representative",2,"Democrat","BENFORD, DOROTHY",0
-"615","Hinds","72","U.S. Representative",2,"Democrat","ESPY, CHUCK",34
-"616","Hinds","72","U.S. Representative",2,"Democrat","THOMPSON, BENNIE G.",60
-"617","Hinds","73","US Senator",NA,"Democrat","BOWLIN, BILL",19
-"618","Hinds","73","US Senator",NA,"Democrat","FLEMING, ERIK",44
-"619","Hinds","73","US Senator",NA,"Democrat","O'KEEFE, JAMES",15
-"620","Hinds","73","US Senator",NA,"Democrat","STARR, CATHERINE M.",11
-"621","Hinds","73","U.S. Representative",2,"Democrat","BENFORD, DOROTHY",4
-"622","Hinds","73","U.S. Representative",2,"Democrat","ESPY, CHUCK",32
-"623","Hinds","73","U.S. Representative",2,"Democrat","THOMPSON, BENNIE G.",73
-"624","Hinds","74","US Senator",NA,"Democrat","BOWLIN, BILL",19
-"625","Hinds","74","US Senator",NA,"Democrat","FLEMING, ERIK",50
-"626","Hinds","74","US Senator",NA,"Democrat","O'KEEFE, JAMES",23
-"627","Hinds","74","US Senator",NA,"Democrat","STARR, CATHERINE M.",15
-"628","Hinds","74","U.S. Representative",2,"Democrat","BENFORD, DOROTHY",3
-"629","Hinds","74","U.S. Representative",2,"Democrat","ESPY, CHUCK",41
-"630","Hinds","74","U.S. Representative",2,"Democrat","THOMPSON, BENNIE G.",79
-"631","Hinds","75","US Senator",NA,"Democrat","BOWLIN, BILL",13
-"632","Hinds","75","US Senator",NA,"Democrat","FLEMING, ERIK",60
-"633","Hinds","75","US Senator",NA,"Democrat","O'KEEFE, JAMES",7
-"634","Hinds","75","US Senator",NA,"Democrat","STARR, CATHERINE M.",8
-"635","Hinds","75","U.S. Representative",2,"Democrat","BENFORD, DOROTHY",0
-"636","Hinds","75","U.S. Representative",2,"Democrat","ESPY, CHUCK",32
-"637","Hinds","75","U.S. Representative",2,"Democrat","THOMPSON, BENNIE G.",68
-"638","Hinds","76","US Senator",NA,"Democrat","BOWLIN, BILL",15
-"639","Hinds","76","US Senator",NA,"Democrat","FLEMING, ERIK",57
-"640","Hinds","76","US Senator",NA,"Democrat","O'KEEFE, JAMES",19
-"641","Hinds","76","US Senator",NA,"Democrat","STARR, CATHERINE M.",20
-"642","Hinds","76","U.S. Representative",2,"Democrat","BENFORD, DOROTHY",4
-"643","Hinds","76","U.S. Representative",2,"Democrat","ESPY, CHUCK",55
-"644","Hinds","76","U.S. Representative",2,"Democrat","THOMPSON, BENNIE G.",67
-"645","Hinds","77","US Senator",NA,"Democrat","BOWLIN, BILL",11
-"646","Hinds","77","US Senator",NA,"Democrat","FLEMING, ERIK",59
-"647","Hinds","77","US Senator",NA,"Democrat","O'KEEFE, JAMES",10
-"648","Hinds","77","US Senator",NA,"Democrat","STARR, CATHERINE M.",8
-"649","Hinds","77","U.S. Representative",2,"Democrat","BENFORD, DOROTHY",0
-"650","Hinds","77","U.S. Representative",2,"Democrat","ESPY, CHUCK",55
-"651","Hinds","77","U.S. Representative",2,"Democrat","THOMPSON, BENNIE G.",48
-"652","Hinds","78","US Senator",NA,"Democrat","BOWLIN, BILL",19
-"653","Hinds","78","US Senator",NA,"Democrat","FLEMING, ERIK",34
-"654","Hinds","78","US Senator",NA,"Democrat","O'KEEFE, JAMES",6
-"655","Hinds","78","US Senator",NA,"Democrat","STARR, CATHERINE M.",5
-"656","Hinds","78","U.S. Representative",2,"Democrat","BENFORD, DOROTHY",NA
-"657","Hinds","78","U.S. Representative",2,"Democrat","ESPY, CHUCK",NA
-"658","Hinds","78","U.S. Representative",2,"Democrat","THOMPSON, BENNIE G.",NA
-"659","Hinds","79","US Senator",NA,"Democrat","BOWLIN, BILL",13
-"660","Hinds","79","US Senator",NA,"Democrat","FLEMING, ERIK",73
-"661","Hinds","79","US Senator",NA,"Democrat","O'KEEFE, JAMES",10
-"662","Hinds","79","US Senator",NA,"Democrat","STARR, CATHERINE M.",17
-"663","Hinds","79","U.S. Representative",2,"Democrat","BENFORD, DOROTHY",NA
-"664","Hinds","79","U.S. Representative",2,"Democrat","ESPY, CHUCK",NA
-"665","Hinds","79","U.S. Representative",2,"Democrat","THOMPSON, BENNIE G.",NA
-"666","Hinds","80","US Senator",NA,"Democrat","BOWLIN, BILL",27
-"667","Hinds","80","US Senator",NA,"Democrat","FLEMING, ERIK",252
-"668","Hinds","80","US Senator",NA,"Democrat","O'KEEFE, JAMES",33
-"669","Hinds","80","US Senator",NA,"Democrat","STARR, CATHERINE M.",42
-"670","Hinds","80","U.S. Representative",2,"Democrat","BENFORD, DOROTHY",1
-"671","Hinds","80","U.S. Representative",2,"Democrat","ESPY, CHUCK",51
-"672","Hinds","80","U.S. Representative",2,"Democrat","THOMPSON, BENNIE G.",365
-"673","Hinds","81","US Senator",NA,"Democrat","BOWLIN, BILL",41
-"674","Hinds","81","US Senator",NA,"Democrat","FLEMING, ERIK",554
-"675","Hinds","81","US Senator",NA,"Democrat","O'KEEFE, JAMES",47
-"676","Hinds","81","US Senator",NA,"Democrat","STARR, CATHERINE M.",50
-"677","Hinds","81","U.S. Representative",2,"Democrat","BENFORD, DOROTHY",2
-"678","Hinds","81","U.S. Representative",2,"Democrat","ESPY, CHUCK",118
-"679","Hinds","81","U.S. Representative",2,"Democrat","THOMPSON, BENNIE G.",651
-"680","Hinds","82","US Senator",NA,"Democrat","BOWLIN, BILL",25
-"681","Hinds","82","US Senator",NA,"Democrat","FLEMING, ERIK",292
-"682","Hinds","82","US Senator",NA,"Democrat","O'KEEFE, JAMES",19
-"683","Hinds","82","US Senator",NA,"Democrat","STARR, CATHERINE M.",49
-"684","Hinds","82","U.S. Representative",2,"Democrat","BENFORD, DOROTHY",1
-"685","Hinds","82","U.S. Representative",2,"Democrat","ESPY, CHUCK",61
-"686","Hinds","82","U.S. Representative",2,"Democrat","THOMPSON, BENNIE G.",387
-"687","Hinds","83","US Senator",NA,"Democrat","BOWLIN, BILL",45
-"688","Hinds","83","US Senator",NA,"Democrat","FLEMING, ERIK",739
-"689","Hinds","83","US Senator",NA,"Democrat","O'KEEFE, JAMES",54
-"690","Hinds","83","US Senator",NA,"Democrat","STARR, CATHERINE M.",73
-"691","Hinds","83","U.S. Representative",2,"Democrat","BENFORD, DOROTHY",6
-"692","Hinds","83","U.S. Representative",2,"Democrat","ESPY, CHUCK",144
-"693","Hinds","83","U.S. Representative",2,"Democrat","THOMPSON, BENNIE G.",856
-"694","Hinds","84","US Senator",NA,"Democrat","BOWLIN, BILL",5
-"695","Hinds","84","US Senator",NA,"Democrat","FLEMING, ERIK",73
-"696","Hinds","84","US Senator",NA,"Democrat","O'KEEFE, JAMES",7
-"697","Hinds","84","US Senator",NA,"Democrat","STARR, CATHERINE M.",8
-"698","Hinds","84","U.S. Representative",2,"Democrat","BENFORD, DOROTHY",0
-"699","Hinds","84","U.S. Representative",2,"Democrat","ESPY, CHUCK",2
-"700","Hinds","84","U.S. Representative",2,"Democrat","THOMPSON, BENNIE G.",100
-"701","Hinds","85","US Senator",NA,"Democrat","BOWLIN, BILL",79
-"702","Hinds","85","US Senator",NA,"Democrat","FLEMING, ERIK",571
-"703","Hinds","85","US Senator",NA,"Democrat","O'KEEFE, JAMES",61
-"704","Hinds","85","US Senator",NA,"Democrat","STARR, CATHERINE M.",83
-"705","Hinds","85","U.S. Representative",2,"Democrat","BENFORD, DOROTHY",7
-"706","Hinds","85","U.S. Representative",2,"Democrat","ESPY, CHUCK",80
-"707","Hinds","85","U.S. Representative",2,"Democrat","THOMPSON, BENNIE G.",809
-"708","Hinds","86","US Senator",NA,"Democrat","BOWLIN, BILL",13
-"709","Hinds","86","US Senator",NA,"Democrat","FLEMING, ERIK",232
-"710","Hinds","86","US Senator",NA,"Democrat","O'KEEFE, JAMES",17
-"711","Hinds","86","US Senator",NA,"Democrat","STARR, CATHERINE M.",21
-"712","Hinds","86","U.S. Representative",2,"Democrat","BENFORD, DOROTHY",3
-"713","Hinds","86","U.S. Representative",2,"Democrat","ESPY, CHUCK",34
-"714","Hinds","86","U.S. Representative",2,"Democrat","THOMPSON, BENNIE G.",291
-"715","Hinds","87","US Senator",NA,"Democrat","BOWLIN, BILL",16
-"716","Hinds","87","US Senator",NA,"Democrat","FLEMING, ERIK",113
-"717","Hinds","87","US Senator",NA,"Democrat","O'KEEFE, JAMES",13
-"718","Hinds","87","US Senator",NA,"Democrat","STARR, CATHERINE M.",12
-"719","Hinds","87","U.S. Representative",2,"Democrat","BENFORD, DOROTHY",1
-"720","Hinds","87","U.S. Representative",2,"Democrat","ESPY, CHUCK",34
-"721","Hinds","87","U.S. Representative",2,"Democrat","THOMPSON, BENNIE G.",137
-"722","Hinds","88","US Senator",NA,"Democrat","BOWLIN, BILL",56
-"723","Hinds","88","US Senator",NA,"Democrat","FLEMING, ERIK",287
-"724","Hinds","88","US Senator",NA,"Democrat","O'KEEFE, JAMES",31
-"725","Hinds","88","US Senator",NA,"Democrat","STARR, CATHERINE M.",21
-"726","Hinds","88","U.S. Representative",2,"Democrat","BENFORD, DOROTHY",7
-"727","Hinds","88","U.S. Representative",2,"Democrat","ESPY, CHUCK",47
-"728","Hinds","88","U.S. Representative",2,"Democrat","THOMPSON, BENNIE G.",388
-"729","Hinds","89","US Senator",NA,"Democrat","BOWLIN, BILL",6
-"730","Hinds","89","US Senator",NA,"Democrat","FLEMING, ERIK",40
-"731","Hinds","89","US Senator",NA,"Democrat","O'KEEFE, JAMES",4
-"732","Hinds","89","US Senator",NA,"Democrat","STARR, CATHERINE M.",5
-"733","Hinds","89","U.S. Representative",2,"Democrat","BENFORD, DOROTHY",0
-"734","Hinds","89","U.S. Representative",2,"Democrat","ESPY, CHUCK",17
-"735","Hinds","89","U.S. Representative",2,"Democrat","THOMPSON, BENNIE G.",46
-"736","Hinds","90","US Senator",NA,"Democrat","BOWLIN, BILL",13
-"737","Hinds","90","US Senator",NA,"Democrat","FLEMING, ERIK",63
-"738","Hinds","90","US Senator",NA,"Democrat","O'KEEFE, JAMES",7
-"739","Hinds","90","US Senator",NA,"Democrat","STARR, CATHERINE M.",13
-"740","Hinds","90","U.S. Representative",2,"Democrat","BENFORD, DOROTHY",1
-"741","Hinds","90","U.S. Representative",2,"Democrat","ESPY, CHUCK",26
-"742","Hinds","90","U.S. Representative",2,"Democrat","THOMPSON, BENNIE G.",78
-"743","Hinds","91","US Senator",NA,"Democrat","BOWLIN, BILL",33
-"744","Hinds","91","US Senator",NA,"Democrat","FLEMING, ERIK",301
-"745","Hinds","91","US Senator",NA,"Democrat","O'KEEFE, JAMES",48
-"746","Hinds","91","US Senator",NA,"Democrat","STARR, CATHERINE M.",46
-"747","Hinds","91","U.S. Representative",2,"Democrat","BENFORD, DOROTHY",1
-"748","Hinds","91","U.S. Representative",2,"Democrat","ESPY, CHUCK",101
-"749","Hinds","91","U.S. Representative",2,"Democrat","THOMPSON, BENNIE G.",367
-"750","Hinds","92","US Senator",NA,"Democrat","BOWLIN, BILL",27
-"751","Hinds","92","US Senator",NA,"Democrat","FLEMING, ERIK",198
-"752","Hinds","92","US Senator",NA,"Democrat","O'KEEFE, JAMES",37
-"753","Hinds","92","US Senator",NA,"Democrat","STARR, CATHERINE M.",52
-"754","Hinds","92","U.S. Representative",2,"Democrat","BENFORD, DOROTHY",1
-"755","Hinds","92","U.S. Representative",2,"Democrat","ESPY, CHUCK",112
-"756","Hinds","92","U.S. Representative",2,"Democrat","THOMPSON, BENNIE G.",227
-"757","Hinds","93","US Senator",NA,"Democrat","BOWLIN, BILL",22
-"758","Hinds","93","US Senator",NA,"Democrat","FLEMING, ERIK",80
-"759","Hinds","93","US Senator",NA,"Democrat","O'KEEFE, JAMES",26
-"760","Hinds","93","US Senator",NA,"Democrat","STARR, CATHERINE M.",20
-"761","Hinds","93","U.S. Representative",2,"Democrat","BENFORD, DOROTHY",0
-"762","Hinds","93","U.S. Representative",2,"Democrat","ESPY, CHUCK",79
-"763","Hinds","93","U.S. Representative",2,"Democrat","THOMPSON, BENNIE G.",92
-"764","Hinds","94","US Senator",NA,"Democrat","BOWLIN, BILL",39
-"765","Hinds","94","US Senator",NA,"Democrat","FLEMING, ERIK",389
-"766","Hinds","94","US Senator",NA,"Democrat","O'KEEFE, JAMES",58
-"767","Hinds","94","US Senator",NA,"Democrat","STARR, CATHERINE M.",39
-"768","Hinds","94","U.S. Representative",2,"Democrat","BENFORD, DOROTHY",1
-"769","Hinds","94","U.S. Representative",2,"Democrat","ESPY, CHUCK",109
-"770","Hinds","94","U.S. Representative",2,"Democrat","THOMPSON, BENNIE G.",458
-"771","Hinds","95","US Senator",NA,"Democrat","BOWLIN, BILL",11
-"772","Hinds","95","US Senator",NA,"Democrat","FLEMING, ERIK",47
-"773","Hinds","95","US Senator",NA,"Democrat","O'KEEFE, JAMES",17
-"774","Hinds","95","US Senator",NA,"Democrat","STARR, CATHERINE M.",7
-"775","Hinds","95","U.S. Representative",2,"Democrat","BENFORD, DOROTHY",0
-"776","Hinds","95","U.S. Representative",2,"Democrat","ESPY, CHUCK",53
-"777","Hinds","95","U.S. Representative",2,"Democrat","THOMPSON, BENNIE G.",43
-"778","Hinds","96","US Senator",NA,"Democrat","BOWLIN, BILL",40
-"779","Hinds","96","US Senator",NA,"Democrat","FLEMING, ERIK",183
-"780","Hinds","96","US Senator",NA,"Democrat","O'KEEFE, JAMES",47
-"781","Hinds","96","US Senator",NA,"Democrat","STARR, CATHERINE M.",33
-"782","Hinds","96","U.S. Representative",2,"Democrat","BENFORD, DOROTHY",0
-"783","Hinds","96","U.S. Representative",2,"Democrat","ESPY, CHUCK",169
-"784","Hinds","96","U.S. Representative",2,"Democrat","THOMPSON, BENNIE G.",177
-"785","Hinds","97","US Senator",NA,"Democrat","BOWLIN, BILL",11
-"786","Hinds","97","US Senator",NA,"Democrat","FLEMING, ERIK",27
-"787","Hinds","97","US Senator",NA,"Democrat","O'KEEFE, JAMES",12
-"788","Hinds","97","US Senator",NA,"Democrat","STARR, CATHERINE M.",6
-"789","Hinds","97","U.S. Representative",2,"Democrat","BENFORD, DOROTHY",1
-"790","Hinds","97","U.S. Representative",2,"Democrat","ESPY, CHUCK",39
-"791","Hinds","97","U.S. Representative",2,"Democrat","THOMPSON, BENNIE G.",28
-"792","Hinds","(R1) Raymond 1","US Senator",NA,"Democrat","BOWLIN, BILL",82
-"793","Hinds","(R1) Raymond 1","US Senator",NA,"Democrat","FLEMING, ERIK",174
-"794","Hinds","(R1) Raymond 1","US Senator",NA,"Democrat","O'KEEFE, JAMES",71
-"795","Hinds","(R1) Raymond 1","US Senator",NA,"Democrat","STARR, CATHERINE M.",39
-"796","Hinds","(R1) Raymond 1","U.S. Representative",2,"Democrat","BENFORD, DOROTHY",5
-"797","Hinds","(R1) Raymond 1","U.S. Representative",2,"Democrat","ESPY, CHUCK",258
-"798","Hinds","(R1) Raymond 1","U.S. Representative",2,"Democrat","THOMPSON, BENNIE G.",197
-"799","Hinds","(R2) Raymond 2","US Senator",NA,"Democrat","BOWLIN, BILL",78
-"800","Hinds","(R2) Raymond 2","US Senator",NA,"Democrat","FLEMING, ERIK",175
-"801","Hinds","(R2) Raymond 2","US Senator",NA,"Democrat","O'KEEFE, JAMES",50
-"802","Hinds","(R2) Raymond 2","US Senator",NA,"Democrat","STARR, CATHERINE M.",41
-"803","Hinds","(R2) Raymond 2","U.S. Representative",2,"Democrat","BENFORD, DOROTHY",5
-"804","Hinds","(R2) Raymond 2","U.S. Representative",2,"Democrat","ESPY, CHUCK",242
-"805","Hinds","(R2) Raymond 2","U.S. Representative",2,"Democrat","THOMPSON, BENNIE G.",191
-"806","Hinds","(SR) Springridge","US Senator",NA,"Democrat","BOWLIN, BILL",79
-"807","Hinds","(SR) Springridge","US Senator",NA,"Democrat","FLEMING, ERIK",267
-"808","Hinds","(SR) Springridge","US Senator",NA,"Democrat","O'KEEFE, JAMES",52
-"809","Hinds","(SR) Springridge","US Senator",NA,"Democrat","STARR, CATHERINE M.",37
-"810","Hinds","(SR) Springridge","U.S. Representative",2,"Democrat","BENFORD, DOROTHY",9
-"811","Hinds","(SR) Springridge","U.S. Representative",2,"Democrat","ESPY, CHUCK",243
-"812","Hinds","(SR) Springridge","U.S. Representative",2,"Democrat","THOMPSON, BENNIE G.",267
-"813","Hinds","(ST) St. Thomas","US Senator",NA,"Democrat","BOWLIN, BILL",21
-"814","Hinds","(ST) St. Thomas","US Senator",NA,"Democrat","FLEMING, ERIK",117
-"815","Hinds","(ST) St. Thomas","US Senator",NA,"Democrat","O'KEEFE, JAMES",16
-"816","Hinds","(ST) St. Thomas","US Senator",NA,"Democrat","STARR, CATHERINE M.",10
-"817","Hinds","(ST) St. Thomas","U.S. Representative",2,"Democrat","BENFORD, DOROTHY",1
-"818","Hinds","(ST) St. Thomas","U.S. Representative",2,"Democrat","ESPY, CHUCK",15
-"819","Hinds","(ST) St. Thomas","U.S. Representative",2,"Democrat","THOMPSON, BENNIE G.",172
-"820","Hinds","(TE) Terry","US Senator",NA,"Democrat","BOWLIN, BILL",148
-"821","Hinds","(TE) Terry","US Senator",NA,"Democrat","FLEMING, ERIK",320
-"822","Hinds","(TE) Terry","US Senator",NA,"Democrat","O'KEEFE, JAMES",115
-"823","Hinds","(TE) Terry","US Senator",NA,"Democrat","STARR, CATHERINE M.",83
-"824","Hinds","(TE) Terry","U.S. Representative",2,"Democrat","BENFORD, DOROTHY",6
-"825","Hinds","(TE) Terry","U.S. Representative",2,"Democrat","ESPY, CHUCK",380
-"826","Hinds","(TE) Terry","U.S. Representative",2,"Democrat","THOMPSON, BENNIE G.",433
-"827","Hinds","(TI) Tinnin","US Senator",NA,"Democrat","BOWLIN, BILL",31
-"828","Hinds","(TI) Tinnin","US Senator",NA,"Democrat","FLEMING, ERIK",72
-"829","Hinds","(TI) Tinnin","US Senator",NA,"Democrat","O'KEEFE, JAMES",30
-"830","Hinds","(TI) Tinnin","US Senator",NA,"Democrat","STARR, CATHERINE M.",11
-"831","Hinds","(TI) Tinnin","U.S. Representative",2,"Democrat","BENFORD, DOROTHY",1
-"832","Hinds","(TI) Tinnin","U.S. Representative",2,"Democrat","ESPY, CHUCK",128
-"833","Hinds","(TI) Tinnin","U.S. Representative",2,"Democrat","THOMPSON, BENNIE G.",60
-"834","Hinds","(U1) Utica 1","US Senator",NA,"Democrat","BOWLIN, BILL",44
-"835","Hinds","(U1) Utica 1","US Senator",NA,"Democrat","FLEMING, ERIK",79
-"836","Hinds","(U1) Utica 1","US Senator",NA,"Democrat","O'KEEFE, JAMES",32
-"837","Hinds","(U1) Utica 1","US Senator",NA,"Democrat","STARR, CATHERINE M.",18
-"838","Hinds","(U1) Utica 1","U.S. Representative",2,"Democrat","BENFORD, DOROTHY",1
-"839","Hinds","(U1) Utica 1","U.S. Representative",2,"Democrat","ESPY, CHUCK",96
-"840","Hinds","(U1) Utica 1","U.S. Representative",2,"Democrat","THOMPSON, BENNIE G.",98
-"841","Hinds","(U2) Utica 2","US Senator",NA,"Democrat","BOWLIN, BILL",27
-"842","Hinds","(U2) Utica 2","US Senator",NA,"Democrat","FLEMING, ERIK",137
-"843","Hinds","(U2) Utica 2","US Senator",NA,"Democrat","O'KEEFE, JAMES",24
-"844","Hinds","(U2) Utica 2","US Senator",NA,"Democrat","STARR, CATHERINE M.",40
-"845","Hinds","(U2) Utica 2","U.S. Representative",2,"Democrat","BENFORD, DOROTHY",2
-"846","Hinds","(U2) Utica 2","U.S. Representative",2,"Democrat","ESPY, CHUCK",38
-"847","Hinds","(U2) Utica 2","U.S. Representative",2,"Democrat","THOMPSON, BENNIE G.",208
+"county","precinct","office","district","party","candidate","votes"
+"Hinds","(BO) Bolton","US Senator",NA,"Democrat","BOWLIN, BILL",44
+"Hinds","(BO) Bolton","US Senator",NA,"Democrat","FLEMING, ERIK",359
+"Hinds","(BO) Bolton","US Senator",NA,"Democrat","O'KEEFE, JAMES",40
+"Hinds","(BO) Bolton","US Senator",NA,"Democrat","STARR, CATHERINE M.",40
+"Hinds","(BO) Bolton","U.S. Representative",2,"Democrat","BENFORD, DOROTHY",1
+"Hinds","(BO) Bolton","U.S. Representative",2,"Democrat","ESPY, CHUCK",73
+"Hinds","(BO) Bolton","U.S. Representative",2,"Democrat","THOMPSON, BENNIE G.",518
+"Hinds","(BR) Brownsville","US Senator",NA,"Democrat","BOWLIN, BILL",30
+"Hinds","(BR) Brownsville","US Senator",NA,"Democrat","FLEMING, ERIK",62
+"Hinds","(BR) Brownsville","US Senator",NA,"Democrat","O'KEEFE, JAMES",22
+"Hinds","(BR) Brownsville","US Senator",NA,"Democrat","STARR, CATHERINE M.",21
+"Hinds","(BR) Brownsville","U.S. Representative",2,"Democrat","BENFORD, DOROTHY",1
+"Hinds","(BR) Brownsville","U.S. Representative",2,"Democrat","ESPY, CHUCK",82
+"Hinds","(BR) Brownsville","U.S. Representative",2,"Democrat","THOMPSON, BENNIE G.",101
+"Hinds","(B1) Byram 1","US Senator",NA,"Democrat","BOWLIN, BILL",60
+"Hinds","(B1) Byram 1","US Senator",NA,"Democrat","FLEMING, ERIK",275
+"Hinds","(B1) Byram 1","US Senator",NA,"Democrat","O'KEEFE, JAMES",56
+"Hinds","(B1) Byram 1","US Senator",NA,"Democrat","STARR, CATHERINE M.",93
+"Hinds","(B1) Byram 1","U.S. Representative",2,"Democrat","BENFORD, DOROTHY",2
+"Hinds","(B1) Byram 1","U.S. Representative",2,"Democrat","ESPY, CHUCK",270
+"Hinds","(B1) Byram 1","U.S. Representative",2,"Democrat","THOMPSON, BENNIE G.",274
+"Hinds","(B2) Byram 2","US Senator",NA,"Democrat","BOWLIN, BILL",59
+"Hinds","(B2) Byram 2","US Senator",NA,"Democrat","FLEMING, ERIK",117
+"Hinds","(B2) Byram 2","US Senator",NA,"Democrat","O'KEEFE, JAMES",63
+"Hinds","(B2) Byram 2","US Senator",NA,"Democrat","STARR, CATHERINE M.",18
+"Hinds","(B2) Byram 2","U.S. Representative",2,"Democrat","BENFORD, DOROTHY",0
+"Hinds","(B2) Byram 2","U.S. Representative",2,"Democrat","ESPY, CHUCK",230
+"Hinds","(B2) Byram 2","U.S. Representative",2,"Democrat","THOMPSON, BENNIE G.",78
+"Hinds","(CA) Cayuga","US Senator",NA,"Democrat","BOWLIN, BILL",21
+"Hinds","(CA) Cayuga","US Senator",NA,"Democrat","FLEMING, ERIK",44
+"Hinds","(CA) Cayuga","US Senator",NA,"Democrat","O'KEEFE, JAMES",15
+"Hinds","(CA) Cayuga","US Senator",NA,"Democrat","STARR, CATHERINE M.",19
+"Hinds","(CA) Cayuga","U.S. Representative",2,"Democrat","BENFORD, DOROTHY",1
+"Hinds","(CA) Cayuga","U.S. Representative",2,"Democrat","ESPY, CHUCK",20
+"Hinds","(CA) Cayuga","U.S. Representative",2,"Democrat","THOMPSON, BENNIE G.",96
+"Hinds","(CH) Chappel Hill","US Senator",NA,"Democrat","BOWLIN, BILL",22
+"Hinds","(CH) Chappel Hill","US Senator",NA,"Democrat","FLEMING, ERIK",69
+"Hinds","(CH) Chappel Hill","US Senator",NA,"Democrat","O'KEEFE, JAMES",17
+"Hinds","(CH) Chappel Hill","US Senator",NA,"Democrat","STARR, CATHERINE M.",13
+"Hinds","(CH) Chappel Hill","U.S. Representative",2,"Democrat","BENFORD, DOROTHY",0
+"Hinds","(CH) Chappel Hill","U.S. Representative",2,"Democrat","ESPY, CHUCK",62
+"Hinds","(CH) Chappel Hill","U.S. Representative",2,"Democrat","THOMPSON, BENNIE G.",105
+"Hinds","(C1) Clinton 1","US Senator",NA,"Democrat","BOWLIN, BILL",51
+"Hinds","(C1) Clinton 1","US Senator",NA,"Democrat","FLEMING, ERIK",128
+"Hinds","(C1) Clinton 1","US Senator",NA,"Democrat","O'KEEFE, JAMES",47
+"Hinds","(C1) Clinton 1","US Senator",NA,"Democrat","STARR, CATHERINE M.",25
+"Hinds","(C1) Clinton 1","U.S. Representative",2,"Democrat","BENFORD, DOROTHY",5
+"Hinds","(C1) Clinton 1","U.S. Representative",2,"Democrat","ESPY, CHUCK",183
+"Hinds","(C1) Clinton 1","U.S. Representative",2,"Democrat","THOMPSON, BENNIE G.",126
+"Hinds","(C2) Clinton 2","US Senator",NA,"Democrat","BOWLIN, BILL",99
+"Hinds","(C2) Clinton 2","US Senator",NA,"Democrat","FLEMING, ERIK",244
+"Hinds","(C2) Clinton 2","US Senator",NA,"Democrat","O'KEEFE, JAMES",100
+"Hinds","(C2) Clinton 2","US Senator",NA,"Democrat","STARR, CATHERINE M.",70
+"Hinds","(C2) Clinton 2","U.S. Representative",2,"Democrat","BENFORD, DOROTHY",5
+"Hinds","(C2) Clinton 2","U.S. Representative",2,"Democrat","ESPY, CHUCK",500
+"Hinds","(C2) Clinton 2","U.S. Representative",2,"Democrat","THOMPSON, BENNIE G.",139
+"Hinds","(C3) Clinton 3","US Senator",NA,"Democrat","BOWLIN, BILL",78
+"Hinds","(C3) Clinton 3","US Senator",NA,"Democrat","FLEMING, ERIK",242
+"Hinds","(C3) Clinton 3","US Senator",NA,"Democrat","O'KEEFE, JAMES",78
+"Hinds","(C3) Clinton 3","US Senator",NA,"Democrat","STARR, CATHERINE M.",62
+"Hinds","(C3) Clinton 3","U.S. Representative",2,"Democrat","BENFORD, DOROTHY",5
+"Hinds","(C3) Clinton 3","U.S. Representative",2,"Democrat","ESPY, CHUCK",415
+"Hinds","(C3) Clinton 3","U.S. Representative",2,"Democrat","THOMPSON, BENNIE G.",188
+"Hinds","(C4) Clinton 4","US Senator",NA,"Democrat","BOWLIN, BILL",38
+"Hinds","(C4) Clinton 4","US Senator",NA,"Democrat","FLEMING, ERIK",110
+"Hinds","(C4) Clinton 4","US Senator",NA,"Democrat","O'KEEFE, JAMES",27
+"Hinds","(C4) Clinton 4","US Senator",NA,"Democrat","STARR, CATHERINE M.",56
+"Hinds","(C4) Clinton 4","U.S. Representative",2,"Democrat","BENFORD, DOROTHY",0
+"Hinds","(C4) Clinton 4","U.S. Representative",2,"Democrat","ESPY, CHUCK",195
+"Hinds","(C4) Clinton 4","U.S. Representative",2,"Democrat","THOMPSON, BENNIE G.",79
+"Hinds","(C5) Clinton 5","US Senator",NA,"Democrat","BOWLIN, BILL",24
+"Hinds","(C5) Clinton 5","US Senator",NA,"Democrat","FLEMING, ERIK",71
+"Hinds","(C5) Clinton 5","US Senator",NA,"Democrat","O'KEEFE, JAMES",36
+"Hinds","(C5) Clinton 5","US Senator",NA,"Democrat","STARR, CATHERINE M.",20
+"Hinds","(C5) Clinton 5","U.S. Representative",2,"Democrat","BENFORD, DOROTHY",2
+"Hinds","(C5) Clinton 5","U.S. Representative",2,"Democrat","ESPY, CHUCK",146
+"Hinds","(C5) Clinton 5","U.S. Representative",2,"Democrat","THOMPSON, BENNIE G.",41
+"Hinds","(C6) Clinton 6","US Senator",NA,"Democrat","BOWLIN, BILL",35
+"Hinds","(C6) Clinton 6","US Senator",NA,"Democrat","FLEMING, ERIK",105
+"Hinds","(C6) Clinton 6","US Senator",NA,"Democrat","O'KEEFE, JAMES",50
+"Hinds","(C6) Clinton 6","US Senator",NA,"Democrat","STARR, CATHERINE M.",32
+"Hinds","(C6) Clinton 6","U.S. Representative",2,"Democrat","BENFORD, DOROTHY",3
+"Hinds","(C6) Clinton 6","U.S. Representative",2,"Democrat","ESPY, CHUCK",173
+"Hinds","(C6) Clinton 6","U.S. Representative",2,"Democrat","THOMPSON, BENNIE G.",96
+"Hinds","(CY) Cynthia","US Senator",NA,"Democrat","BOWLIN, BILL",20
+"Hinds","(CY) Cynthia","US Senator",NA,"Democrat","FLEMING, ERIK",116
+"Hinds","(CY) Cynthia","US Senator",NA,"Democrat","O'KEEFE, JAMES",36
+"Hinds","(CY) Cynthia","US Senator",NA,"Democrat","STARR, CATHERINE M.",16
+"Hinds","(CY) Cynthia","U.S. Representative",2,"Democrat","BENFORD, DOROTHY",2
+"Hinds","(CY) Cynthia","U.S. Representative",2,"Democrat","ESPY, CHUCK",22
+"Hinds","(CY) Cynthia","U.S. Representative",2,"Democrat","THOMPSON, BENNIE G.",201
+"Hinds","(DG) Dry Grove","US Senator",NA,"Democrat","BOWLIN, BILL",39
+"Hinds","(DG) Dry Grove","US Senator",NA,"Democrat","FLEMING, ERIK",89
+"Hinds","(DG) Dry Grove","US Senator",NA,"Democrat","O'KEEFE, JAMES",34
+"Hinds","(DG) Dry Grove","US Senator",NA,"Democrat","STARR, CATHERINE M.",16
+"Hinds","(DG) Dry Grove","U.S. Representative",2,"Democrat","BENFORD, DOROTHY",2
+"Hinds","(DG) Dry Grove","U.S. Representative",2,"Democrat","ESPY, CHUCK",142
+"Hinds","(DG) Dry Grove","U.S. Representative",2,"Democrat","THOMPSON, BENNIE G.",78
+"Hinds","(ED) Edwards","US Senator",NA,"Democrat","BOWLIN, BILL",55
+"Hinds","(ED) Edwards","US Senator",NA,"Democrat","FLEMING, ERIK",360
+"Hinds","(ED) Edwards","US Senator",NA,"Democrat","O'KEEFE, JAMES",43
+"Hinds","(ED) Edwards","US Senator",NA,"Democrat","STARR, CATHERINE M.",44
+"Hinds","(ED) Edwards","U.S. Representative",2,"Democrat","BENFORD, DOROTHY",1
+"Hinds","(ED) Edwards","U.S. Representative",2,"Democrat","ESPY, CHUCK",125
+"Hinds","(ED) Edwards","U.S. Representative",2,"Democrat","THOMPSON, BENNIE G.",508
+"Hinds","(LE) Learned","US Senator",NA,"Democrat","BOWLIN, BILL",23
+"Hinds","(LE) Learned","US Senator",NA,"Democrat","FLEMING, ERIK",33
+"Hinds","(LE) Learned","US Senator",NA,"Democrat","O'KEEFE, JAMES",21
+"Hinds","(LE) Learned","US Senator",NA,"Democrat","STARR, CATHERINE M.",8
+"Hinds","(LE) Learned","U.S. Representative",2,"Democrat","BENFORD, DOROTHY",3
+"Hinds","(LE) Learned","U.S. Representative",2,"Democrat","ESPY, CHUCK",63
+"Hinds","(LE) Learned","U.S. Representative",2,"Democrat","THOMPSON, BENNIE G.",47
+"Hinds","(OB) Old Byram","US Senator",NA,"Democrat","BOWLIN, BILL",51
+"Hinds","(OB) Old Byram","US Senator",NA,"Democrat","FLEMING, ERIK",72
+"Hinds","(OB) Old Byram","US Senator",NA,"Democrat","O'KEEFE, JAMES",37
+"Hinds","(OB) Old Byram","US Senator",NA,"Democrat","STARR, CATHERINE M.",21
+"Hinds","(OB) Old Byram","U.S. Representative",2,"Democrat","BENFORD, DOROTHY",2
+"Hinds","(OB) Old Byram","U.S. Representative",2,"Democrat","ESPY, CHUCK",161
+"Hinds","(OB) Old Byram","U.S. Representative",2,"Democrat","THOMPSON, BENNIE G.",54
+"Hinds","(PN) Pinehaven","US Senator",NA,"Democrat","BOWLIN, BILL",74
+"Hinds","(PN) Pinehaven","US Senator",NA,"Democrat","FLEMING, ERIK",230
+"Hinds","(PN) Pinehaven","US Senator",NA,"Democrat","O'KEEFE, JAMES",69
+"Hinds","(PN) Pinehaven","US Senator",NA,"Democrat","STARR, CATHERINE M.",54
+"Hinds","(PN) Pinehaven","U.S. Representative",2,"Democrat","BENFORD, DOROTHY",2
+"Hinds","(PN) Pinehaven","U.S. Representative",2,"Democrat","ESPY, CHUCK",263
+"Hinds","(PN) Pinehaven","U.S. Representative",2,"Democrat","THOMPSON, BENNIE G.",303
+"Hinds","(PO) Pocahontas","US Senator",NA,"Democrat","BOWLIN, BILL",23
+"Hinds","(PO) Pocahontas","US Senator",NA,"Democrat","FLEMING, ERIK",104
+"Hinds","(PO) Pocahontas","US Senator",NA,"Democrat","O'KEEFE, JAMES",21
+"Hinds","(PO) Pocahontas","US Senator",NA,"Democrat","STARR, CATHERINE M.",27
+"Hinds","(PO) Pocahontas","U.S. Representative",2,"Democrat","BENFORD, DOROTHY",0
+"Hinds","(PO) Pocahontas","U.S. Representative",2,"Democrat","ESPY, CHUCK",72
+"Hinds","(PO) Pocahontas","U.S. Representative",2,"Democrat","THOMPSON, BENNIE G.",121
+"Hinds","01","US Senator",NA,"Democrat","BOWLIN, BILL",2
+"Hinds","01","US Senator",NA,"Democrat","FLEMING, ERIK",7
+"Hinds","01","US Senator",NA,"Democrat","O'KEEFE, JAMES",4
+"Hinds","01","US Senator",NA,"Democrat","STARR, CATHERINE M.",0
+"Hinds","01","U.S. Representative",2,"Democrat","BENFORD, DOROTHY",0
+"Hinds","01","U.S. Representative",2,"Democrat","ESPY, CHUCK",7
+"Hinds","01","U.S. Representative",2,"Democrat","THOMPSON, BENNIE G.",8
+"Hinds","02","US Senator",NA,"Democrat","BOWLIN, BILL",10
+"Hinds","02","US Senator",NA,"Democrat","FLEMING, ERIK",30
+"Hinds","02","US Senator",NA,"Democrat","O'KEEFE, JAMES",2
+"Hinds","02","US Senator",NA,"Democrat","STARR, CATHERINE M.",4
+"Hinds","02","U.S. Representative",2,"Democrat","BENFORD, DOROTHY",0
+"Hinds","02","U.S. Representative",2,"Democrat","ESPY, CHUCK",8
+"Hinds","02","U.S. Representative",2,"Democrat","THOMPSON, BENNIE G.",51
+"Hinds","04","US Senator",NA,"Democrat","BOWLIN, BILL",14
+"Hinds","04","US Senator",NA,"Democrat","FLEMING, ERIK",64
+"Hinds","04","US Senator",NA,"Democrat","O'KEEFE, JAMES",12
+"Hinds","04","US Senator",NA,"Democrat","STARR, CATHERINE M.",14
+"Hinds","04","U.S. Representative",2,"Democrat","BENFORD, DOROTHY",0
+"Hinds","04","U.S. Representative",2,"Democrat","ESPY, CHUCK",8
+"Hinds","04","U.S. Representative",2,"Democrat","THOMPSON, BENNIE G.",115
+"Hinds","05","US Senator",NA,"Democrat","BOWLIN, BILL",10
+"Hinds","05","US Senator",NA,"Democrat","FLEMING, ERIK",39
+"Hinds","05","US Senator",NA,"Democrat","O'KEEFE, JAMES",11
+"Hinds","05","US Senator",NA,"Democrat","STARR, CATHERINE M.",9
+"Hinds","05","U.S. Representative",2,"Democrat","BENFORD, DOROTHY",1
+"Hinds","05","U.S. Representative",2,"Democrat","ESPY, CHUCK",27
+"Hinds","05","U.S. Representative",2,"Democrat","THOMPSON, BENNIE G.",52
+"Hinds","06","US Senator",NA,"Democrat","BOWLIN, BILL",5
+"Hinds","06","US Senator",NA,"Democrat","FLEMING, ERIK",28
+"Hinds","06","US Senator",NA,"Democrat","O'KEEFE, JAMES",10
+"Hinds","06","US Senator",NA,"Democrat","STARR, CATHERINE M.",14
+"Hinds","06","U.S. Representative",2,"Democrat","BENFORD, DOROTHY",3
+"Hinds","06","U.S. Representative",2,"Democrat","ESPY, CHUCK",11
+"Hinds","06","U.S. Representative",2,"Democrat","THOMPSON, BENNIE G.",54
+"Hinds","08","US Senator",NA,"Democrat","BOWLIN, BILL",9
+"Hinds","08","US Senator",NA,"Democrat","FLEMING, ERIK",33
+"Hinds","08","US Senator",NA,"Democrat","O'KEEFE, JAMES",13
+"Hinds","08","US Senator",NA,"Democrat","STARR, CATHERINE M.",5
+"Hinds","08","U.S. Representative",2,"Democrat","BENFORD, DOROTHY",NA
+"Hinds","08","U.S. Representative",2,"Democrat","ESPY, CHUCK",NA
+"Hinds","08","U.S. Representative",2,"Democrat","THOMPSON, BENNIE G.",NA
+"Hinds","09","US Senator",NA,"Democrat","BOWLIN, BILL",14
+"Hinds","09","US Senator",NA,"Democrat","FLEMING, ERIK",44
+"Hinds","09","US Senator",NA,"Democrat","O'KEEFE, JAMES",18
+"Hinds","09","US Senator",NA,"Democrat","STARR, CATHERINE M.",10
+"Hinds","09","U.S. Representative",2,"Democrat","BENFORD, DOROTHY",NA
+"Hinds","09","U.S. Representative",2,"Democrat","ESPY, CHUCK",NA
+"Hinds","09","U.S. Representative",2,"Democrat","THOMPSON, BENNIE G.",NA
+"Hinds","10","US Senator",NA,"Democrat","BOWLIN, BILL",11
+"Hinds","10","US Senator",NA,"Democrat","FLEMING, ERIK",46
+"Hinds","10","US Senator",NA,"Democrat","O'KEEFE, JAMES",3
+"Hinds","10","US Senator",NA,"Democrat","STARR, CATHERINE M.",7
+"Hinds","10","U.S. Representative",2,"Democrat","BENFORD, DOROTHY",0
+"Hinds","10","U.S. Representative",2,"Democrat","ESPY, CHUCK",10
+"Hinds","10","U.S. Representative",2,"Democrat","THOMPSON, BENNIE G.",60
+"Hinds","11","US Senator",NA,"Democrat","BOWLIN, BILL",15
+"Hinds","11","US Senator",NA,"Democrat","FLEMING, ERIK",121
+"Hinds","11","US Senator",NA,"Democrat","O'KEEFE, JAMES",15
+"Hinds","11","US Senator",NA,"Democrat","STARR, CATHERINE M.",15
+"Hinds","11","U.S. Representative",2,"Democrat","BENFORD, DOROTHY",3
+"Hinds","11","U.S. Representative",2,"Democrat","ESPY, CHUCK",15
+"Hinds","11","U.S. Representative",2,"Democrat","THOMPSON, BENNIE G.",166
+"Hinds","12","US Senator",NA,"Democrat","BOWLIN, BILL",16
+"Hinds","12","US Senator",NA,"Democrat","FLEMING, ERIK",161
+"Hinds","12","US Senator",NA,"Democrat","O'KEEFE, JAMES",8
+"Hinds","12","US Senator",NA,"Democrat","STARR, CATHERINE M.",13
+"Hinds","12","U.S. Representative",2,"Democrat","BENFORD, DOROTHY",2
+"Hinds","12","U.S. Representative",2,"Democrat","ESPY, CHUCK",11
+"Hinds","12","U.S. Representative",2,"Democrat","THOMPSON, BENNIE G.",200
+"Hinds","13","US Senator",NA,"Democrat","BOWLIN, BILL",19
+"Hinds","13","US Senator",NA,"Democrat","FLEMING, ERIK",135
+"Hinds","13","US Senator",NA,"Democrat","O'KEEFE, JAMES",11
+"Hinds","13","US Senator",NA,"Democrat","STARR, CATHERINE M.",13
+"Hinds","13","U.S. Representative",2,"Democrat","BENFORD, DOROTHY",1
+"Hinds","13","U.S. Representative",2,"Democrat","ESPY, CHUCK",18
+"Hinds","13","U.S. Representative",2,"Democrat","THOMPSON, BENNIE G.",195
+"Hinds","14","US Senator",NA,"Democrat","BOWLIN, BILL",14
+"Hinds","14","US Senator",NA,"Democrat","FLEMING, ERIK",26
+"Hinds","14","US Senator",NA,"Democrat","O'KEEFE, JAMES",23
+"Hinds","14","US Senator",NA,"Democrat","STARR, CATHERINE M.",6
+"Hinds","14","U.S. Representative",2,"Democrat","BENFORD, DOROTHY",NA
+"Hinds","14","U.S. Representative",2,"Democrat","ESPY, CHUCK",NA
+"Hinds","14","U.S. Representative",2,"Democrat","THOMPSON, BENNIE G.",NA
+"Hinds","15","US Senator",NA,"Democrat","BOWLIN, BILL",14
+"Hinds","15","US Senator",NA,"Democrat","FLEMING, ERIK",21
+"Hinds","15","US Senator",NA,"Democrat","O'KEEFE, JAMES",9
+"Hinds","15","US Senator",NA,"Democrat","STARR, CATHERINE M.",8
+"Hinds","15","U.S. Representative",2,"Democrat","BENFORD, DOROTHY",1
+"Hinds","15","U.S. Representative",2,"Democrat","ESPY, CHUCK",41
+"Hinds","15","U.S. Representative",2,"Democrat","THOMPSON, BENNIE G.",24
+"Hinds","16","US Senator",NA,"Democrat","BOWLIN, BILL",12
+"Hinds","16","US Senator",NA,"Democrat","FLEMING, ERIK",72
+"Hinds","16","US Senator",NA,"Democrat","O'KEEFE, JAMES",18
+"Hinds","16","US Senator",NA,"Democrat","STARR, CATHERINE M.",17
+"Hinds","16","U.S. Representative",2,"Democrat","BENFORD, DOROTHY",0
+"Hinds","16","U.S. Representative",2,"Democrat","ESPY, CHUCK",48
+"Hinds","16","U.S. Representative",2,"Democrat","THOMPSON, BENNIE G.",95
+"Hinds","17","US Senator",NA,"Democrat","BOWLIN, BILL",10
+"Hinds","17","US Senator",NA,"Democrat","FLEMING, ERIK",24
+"Hinds","17","US Senator",NA,"Democrat","O'KEEFE, JAMES",5
+"Hinds","17","US Senator",NA,"Democrat","STARR, CATHERINE M.",5
+"Hinds","17","U.S. Representative",2,"Democrat","BENFORD, DOROTHY",NA
+"Hinds","17","U.S. Representative",2,"Democrat","ESPY, CHUCK",NA
+"Hinds","17","U.S. Representative",2,"Democrat","THOMPSON, BENNIE G.",NA
+"Hinds","18","US Senator",NA,"Democrat","BOWLIN, BILL",5
+"Hinds","18","US Senator",NA,"Democrat","FLEMING, ERIK",64
+"Hinds","18","US Senator",NA,"Democrat","O'KEEFE, JAMES",4
+"Hinds","18","US Senator",NA,"Democrat","STARR, CATHERINE M.",6
+"Hinds","18","U.S. Representative",2,"Democrat","BENFORD, DOROTHY",0
+"Hinds","18","U.S. Representative",2,"Democrat","ESPY, CHUCK",3
+"Hinds","18","U.S. Representative",2,"Democrat","THOMPSON, BENNIE G.",77
+"Hinds","19","US Senator",NA,"Democrat","BOWLIN, BILL",12
+"Hinds","19","US Senator",NA,"Democrat","FLEMING, ERIK",112
+"Hinds","19","US Senator",NA,"Democrat","O'KEEFE, JAMES",11
+"Hinds","19","US Senator",NA,"Democrat","STARR, CATHERINE M.",19
+"Hinds","19","U.S. Representative",2,"Democrat","BENFORD, DOROTHY",1
+"Hinds","19","U.S. Representative",2,"Democrat","ESPY, CHUCK",29
+"Hinds","19","U.S. Representative",2,"Democrat","THOMPSON, BENNIE G.",170
+"Hinds","20","US Senator",NA,"Democrat","BOWLIN, BILL",19
+"Hinds","20","US Senator",NA,"Democrat","FLEMING, ERIK",116
+"Hinds","20","US Senator",NA,"Democrat","O'KEEFE, JAMES",18
+"Hinds","20","US Senator",NA,"Democrat","STARR, CATHERINE M.",11
+"Hinds","20","U.S. Representative",2,"Democrat","BENFORD, DOROTHY",2
+"Hinds","20","U.S. Representative",2,"Democrat","ESPY, CHUCK",36
+"Hinds","20","U.S. Representative",2,"Democrat","THOMPSON, BENNIE G.",167
+"Hinds","21","US Senator",NA,"Democrat","BOWLIN, BILL",4
+"Hinds","21","US Senator",NA,"Democrat","FLEMING, ERIK",48
+"Hinds","21","US Senator",NA,"Democrat","O'KEEFE, JAMES",8
+"Hinds","21","US Senator",NA,"Democrat","STARR, CATHERINE M.",10
+"Hinds","21","U.S. Representative",2,"Democrat","BENFORD, DOROTHY",0
+"Hinds","21","U.S. Representative",2,"Democrat","ESPY, CHUCK",9
+"Hinds","21","U.S. Representative",2,"Democrat","THOMPSON, BENNIE G.",81
+"Hinds","22","US Senator",NA,"Democrat","BOWLIN, BILL",56
+"Hinds","22","US Senator",NA,"Democrat","FLEMING, ERIK",219
+"Hinds","22","US Senator",NA,"Democrat","O'KEEFE, JAMES",44
+"Hinds","22","US Senator",NA,"Democrat","STARR, CATHERINE M.",63
+"Hinds","22","U.S. Representative",2,"Democrat","BENFORD, DOROTHY",7
+"Hinds","22","U.S. Representative",2,"Democrat","ESPY, CHUCK",36
+"Hinds","22","U.S. Representative",2,"Democrat","THOMPSON, BENNIE G.",381
+"Hinds","23","US Senator",NA,"Democrat","BOWLIN, BILL",24
+"Hinds","23","US Senator",NA,"Democrat","FLEMING, ERIK",190
+"Hinds","23","US Senator",NA,"Democrat","O'KEEFE, JAMES",23
+"Hinds","23","US Senator",NA,"Democrat","STARR, CATHERINE M.",46
+"Hinds","23","U.S. Representative",2,"Democrat","BENFORD, DOROTHY",1
+"Hinds","23","U.S. Representative",2,"Democrat","ESPY, CHUCK",47
+"Hinds","23","U.S. Representative",2,"Democrat","THOMPSON, BENNIE G.",371
+"Hinds","24","US Senator",NA,"Democrat","BOWLIN, BILL",19
+"Hinds","24","US Senator",NA,"Democrat","FLEMING, ERIK",101
+"Hinds","24","US Senator",NA,"Democrat","O'KEEFE, JAMES",15
+"Hinds","24","US Senator",NA,"Democrat","STARR, CATHERINE M.",24
+"Hinds","24","U.S. Representative",2,"Democrat","BENFORD, DOROTHY",0
+"Hinds","24","U.S. Representative",2,"Democrat","ESPY, CHUCK",32
+"Hinds","24","U.S. Representative",2,"Democrat","THOMPSON, BENNIE G.",150
+"Hinds","25","US Senator",NA,"Democrat","BOWLIN, BILL",24
+"Hinds","25","US Senator",NA,"Democrat","FLEMING, ERIK",204
+"Hinds","25","US Senator",NA,"Democrat","O'KEEFE, JAMES",12
+"Hinds","25","US Senator",NA,"Democrat","STARR, CATHERINE M.",34
+"Hinds","25","U.S. Representative",2,"Democrat","BENFORD, DOROTHY",3
+"Hinds","25","U.S. Representative",2,"Democrat","ESPY, CHUCK",44
+"Hinds","25","U.S. Representative",2,"Democrat","THOMPSON, BENNIE G.",265
+"Hinds","26","US Senator",NA,"Democrat","BOWLIN, BILL",12
+"Hinds","26","US Senator",NA,"Democrat","FLEMING, ERIK",101
+"Hinds","26","US Senator",NA,"Democrat","O'KEEFE, JAMES",11
+"Hinds","26","US Senator",NA,"Democrat","STARR, CATHERINE M.",20
+"Hinds","26","U.S. Representative",2,"Democrat","BENFORD, DOROTHY",0
+"Hinds","26","U.S. Representative",2,"Democrat","ESPY, CHUCK",39
+"Hinds","26","U.S. Representative",2,"Democrat","THOMPSON, BENNIE G.",121
+"Hinds","27","US Senator",NA,"Democrat","BOWLIN, BILL",43
+"Hinds","27","US Senator",NA,"Democrat","FLEMING, ERIK",308
+"Hinds","27","US Senator",NA,"Democrat","O'KEEFE, JAMES",50
+"Hinds","27","US Senator",NA,"Democrat","STARR, CATHERINE M.",63
+"Hinds","27","U.S. Representative",2,"Democrat","BENFORD, DOROTHY",5
+"Hinds","27","U.S. Representative",2,"Democrat","ESPY, CHUCK",75
+"Hinds","27","U.S. Representative",2,"Democrat","THOMPSON, BENNIE G.",498
+"Hinds","28","US Senator",NA,"Democrat","BOWLIN, BILL",31
+"Hinds","28","US Senator",NA,"Democrat","FLEMING, ERIK",276
+"Hinds","28","US Senator",NA,"Democrat","O'KEEFE, JAMES",30
+"Hinds","28","US Senator",NA,"Democrat","STARR, CATHERINE M.",34
+"Hinds","28","U.S. Representative",2,"Democrat","BENFORD, DOROTHY",4
+"Hinds","28","U.S. Representative",2,"Democrat","ESPY, CHUCK",45
+"Hinds","28","U.S. Representative",2,"Democrat","THOMPSON, BENNIE G.",429
+"Hinds","29","US Senator",NA,"Democrat","BOWLIN, BILL",25
+"Hinds","29","US Senator",NA,"Democrat","FLEMING, ERIK",188
+"Hinds","29","US Senator",NA,"Democrat","O'KEEFE, JAMES",25
+"Hinds","29","US Senator",NA,"Democrat","STARR, CATHERINE M.",26
+"Hinds","29","U.S. Representative",2,"Democrat","BENFORD, DOROTHY",2
+"Hinds","29","U.S. Representative",2,"Democrat","ESPY, CHUCK",32
+"Hinds","29","U.S. Representative",2,"Democrat","THOMPSON, BENNIE G.",264
+"Hinds","30","US Senator",NA,"Democrat","BOWLIN, BILL",16
+"Hinds","30","US Senator",NA,"Democrat","FLEMING, ERIK",114
+"Hinds","30","US Senator",NA,"Democrat","O'KEEFE, JAMES",24
+"Hinds","30","US Senator",NA,"Democrat","STARR, CATHERINE M.",23
+"Hinds","30","U.S. Representative",2,"Democrat","BENFORD, DOROTHY",2
+"Hinds","30","U.S. Representative",2,"Democrat","ESPY, CHUCK",20
+"Hinds","30","U.S. Representative",2,"Democrat","THOMPSON, BENNIE G.",186
+"Hinds","31","US Senator",NA,"Democrat","BOWLIN, BILL",26
+"Hinds","31","US Senator",NA,"Democrat","FLEMING, ERIK",217
+"Hinds","31","US Senator",NA,"Democrat","O'KEEFE, JAMES",30
+"Hinds","31","US Senator",NA,"Democrat","STARR, CATHERINE M.",24
+"Hinds","31","U.S. Representative",2,"Democrat","BENFORD, DOROTHY",5
+"Hinds","31","U.S. Representative",2,"Democrat","ESPY, CHUCK",27
+"Hinds","31","U.S. Representative",2,"Democrat","THOMPSON, BENNIE G.",363
+"Hinds","32","US Senator",NA,"Democrat","BOWLIN, BILL",9
+"Hinds","32","US Senator",NA,"Democrat","FLEMING, ERIK",16
+"Hinds","32","US Senator",NA,"Democrat","O'KEEFE, JAMES",6
+"Hinds","32","US Senator",NA,"Democrat","STARR, CATHERINE M.",5
+"Hinds","32","U.S. Representative",2,"Democrat","BENFORD, DOROTHY",NA
+"Hinds","32","U.S. Representative",2,"Democrat","ESPY, CHUCK",NA
+"Hinds","32","U.S. Representative",2,"Democrat","THOMPSON, BENNIE G.",NA
+"Hinds","33","US Senator",NA,"Democrat","BOWLIN, BILL",6
+"Hinds","33","US Senator",NA,"Democrat","FLEMING, ERIK",17
+"Hinds","33","US Senator",NA,"Democrat","O'KEEFE, JAMES",7
+"Hinds","33","US Senator",NA,"Democrat","STARR, CATHERINE M.",7
+"Hinds","33","U.S. Representative",2,"Democrat","BENFORD, DOROTHY",NA
+"Hinds","33","U.S. Representative",2,"Democrat","ESPY, CHUCK",NA
+"Hinds","33","U.S. Representative",2,"Democrat","THOMPSON, BENNIE G.",NA
+"Hinds","34","US Senator",NA,"Democrat","BOWLIN, BILL",8
+"Hinds","34","US Senator",NA,"Democrat","FLEMING, ERIK",25
+"Hinds","34","US Senator",NA,"Democrat","O'KEEFE, JAMES",12
+"Hinds","34","US Senator",NA,"Democrat","STARR, CATHERINE M.",4
+"Hinds","34","U.S. Representative",2,"Democrat","BENFORD, DOROTHY",NA
+"Hinds","34","U.S. Representative",2,"Democrat","ESPY, CHUCK",NA
+"Hinds","34","U.S. Representative",2,"Democrat","THOMPSON, BENNIE G.",NA
+"Hinds","35","US Senator",NA,"Democrat","BOWLIN, BILL",18
+"Hinds","35","US Senator",NA,"Democrat","FLEMING, ERIK",22
+"Hinds","35","US Senator",NA,"Democrat","O'KEEFE, JAMES",14
+"Hinds","35","US Senator",NA,"Democrat","STARR, CATHERINE M.",2
+"Hinds","35","U.S. Representative",2,"Democrat","BENFORD, DOROTHY",NA
+"Hinds","35","U.S. Representative",2,"Democrat","ESPY, CHUCK",NA
+"Hinds","35","U.S. Representative",2,"Democrat","THOMPSON, BENNIE G.",NA
+"Hinds","36","US Senator",NA,"Democrat","BOWLIN, BILL",11
+"Hinds","36","US Senator",NA,"Democrat","FLEMING, ERIK",52
+"Hinds","36","US Senator",NA,"Democrat","O'KEEFE, JAMES",11
+"Hinds","36","US Senator",NA,"Democrat","STARR, CATHERINE M.",9
+"Hinds","36","U.S. Representative",2,"Democrat","BENFORD, DOROTHY",NA
+"Hinds","36","U.S. Representative",2,"Democrat","ESPY, CHUCK",NA
+"Hinds","36","U.S. Representative",2,"Democrat","THOMPSON, BENNIE G.",NA
+"Hinds","37","US Senator",NA,"Democrat","BOWLIN, BILL",10
+"Hinds","37","US Senator",NA,"Democrat","FLEMING, ERIK",46
+"Hinds","37","US Senator",NA,"Democrat","O'KEEFE, JAMES",10
+"Hinds","37","US Senator",NA,"Democrat","STARR, CATHERINE M.",5
+"Hinds","37","U.S. Representative",2,"Democrat","BENFORD, DOROTHY",NA
+"Hinds","37","U.S. Representative",2,"Democrat","ESPY, CHUCK",NA
+"Hinds","37","U.S. Representative",2,"Democrat","THOMPSON, BENNIE G.",NA
+"Hinds","38","US Senator",NA,"Democrat","BOWLIN, BILL",10
+"Hinds","38","US Senator",NA,"Democrat","FLEMING, ERIK",95
+"Hinds","38","US Senator",NA,"Democrat","O'KEEFE, JAMES",13
+"Hinds","38","US Senator",NA,"Democrat","STARR, CATHERINE M.",14
+"Hinds","38","U.S. Representative",2,"Democrat","BENFORD, DOROTHY",0
+"Hinds","38","U.S. Representative",2,"Democrat","ESPY, CHUCK",43
+"Hinds","38","U.S. Representative",2,"Democrat","THOMPSON, BENNIE G.",103
+"Hinds","39","US Senator",NA,"Democrat","BOWLIN, BILL",15
+"Hinds","39","US Senator",NA,"Democrat","FLEMING, ERIK",180
+"Hinds","39","US Senator",NA,"Democrat","O'KEEFE, JAMES",26
+"Hinds","39","US Senator",NA,"Democrat","STARR, CATHERINE M.",32
+"Hinds","39","U.S. Representative",2,"Democrat","BENFORD, DOROTHY",2
+"Hinds","39","U.S. Representative",2,"Democrat","ESPY, CHUCK",24
+"Hinds","39","U.S. Representative",2,"Democrat","THOMPSON, BENNIE G.",259
+"Hinds","40","US Senator",NA,"Democrat","BOWLIN, BILL",27
+"Hinds","40","US Senator",NA,"Democrat","FLEMING, ERIK",221
+"Hinds","40","US Senator",NA,"Democrat","O'KEEFE, JAMES",33
+"Hinds","40","US Senator",NA,"Democrat","STARR, CATHERINE M.",57
+"Hinds","40","U.S. Representative",2,"Democrat","BENFORD, DOROTHY",1
+"Hinds","40","U.S. Representative",2,"Democrat","ESPY, CHUCK",38
+"Hinds","40","U.S. Representative",2,"Democrat","THOMPSON, BENNIE G.",351
+"Hinds","41","US Senator",NA,"Democrat","BOWLIN, BILL",36
+"Hinds","41","US Senator",NA,"Democrat","FLEMING, ERIK",318
+"Hinds","41","US Senator",NA,"Democrat","O'KEEFE, JAMES",47
+"Hinds","41","US Senator",NA,"Democrat","STARR, CATHERINE M.",66
+"Hinds","41","U.S. Representative",2,"Democrat","BENFORD, DOROTHY",1
+"Hinds","41","U.S. Representative",2,"Democrat","ESPY, CHUCK",55
+"Hinds","41","U.S. Representative",2,"Democrat","THOMPSON, BENNIE G.",530
+"Hinds","42","US Senator",NA,"Democrat","BOWLIN, BILL",21
+"Hinds","42","US Senator",NA,"Democrat","FLEMING, ERIK",166
+"Hinds","42","US Senator",NA,"Democrat","O'KEEFE, JAMES",21
+"Hinds","42","US Senator",NA,"Democrat","STARR, CATHERINE M.",29
+"Hinds","42","U.S. Representative",2,"Democrat","BENFORD, DOROTHY",1
+"Hinds","42","U.S. Representative",2,"Democrat","ESPY, CHUCK",65
+"Hinds","42","U.S. Representative",2,"Democrat","THOMPSON, BENNIE G.",207
+"Hinds","43","US Senator",NA,"Democrat","BOWLIN, BILL",18
+"Hinds","43","US Senator",NA,"Democrat","FLEMING, ERIK",195
+"Hinds","43","US Senator",NA,"Democrat","O'KEEFE, JAMES",26
+"Hinds","43","US Senator",NA,"Democrat","STARR, CATHERINE M.",16
+"Hinds","43","U.S. Representative",2,"Democrat","BENFORD, DOROTHY",2
+"Hinds","43","U.S. Representative",2,"Democrat","ESPY, CHUCK",75
+"Hinds","43","U.S. Representative",2,"Democrat","THOMPSON, BENNIE G.",215
+"Hinds","44","US Senator",NA,"Democrat","BOWLIN, BILL",13
+"Hinds","44","US Senator",NA,"Democrat","FLEMING, ERIK",56
+"Hinds","44","US Senator",NA,"Democrat","O'KEEFE, JAMES",9
+"Hinds","44","US Senator",NA,"Democrat","STARR, CATHERINE M.",9
+"Hinds","44","U.S. Representative",2,"Democrat","BENFORD, DOROTHY",NA
+"Hinds","44","U.S. Representative",2,"Democrat","ESPY, CHUCK",NA
+"Hinds","44","U.S. Representative",2,"Democrat","THOMPSON, BENNIE G.",NA
+"Hinds","45","US Senator",NA,"Democrat","BOWLIN, BILL",12
+"Hinds","45","US Senator",NA,"Democrat","FLEMING, ERIK",20
+"Hinds","45","US Senator",NA,"Democrat","O'KEEFE, JAMES",14
+"Hinds","45","US Senator",NA,"Democrat","STARR, CATHERINE M.",4
+"Hinds","45","U.S. Representative",2,"Democrat","BENFORD, DOROTHY",NA
+"Hinds","45","U.S. Representative",2,"Democrat","ESPY, CHUCK",NA
+"Hinds","45","U.S. Representative",2,"Democrat","THOMPSON, BENNIE G.",NA
+"Hinds","46","US Senator",NA,"Democrat","BOWLIN, BILL",27
+"Hinds","46","US Senator",NA,"Democrat","FLEMING, ERIK",71
+"Hinds","46","US Senator",NA,"Democrat","O'KEEFE, JAMES",25
+"Hinds","46","US Senator",NA,"Democrat","STARR, CATHERINE M.",20
+"Hinds","46","U.S. Representative",2,"Democrat","BENFORD, DOROTHY",NA
+"Hinds","46","U.S. Representative",2,"Democrat","ESPY, CHUCK",NA
+"Hinds","46","U.S. Representative",2,"Democrat","THOMPSON, BENNIE G.",NA
+"Hinds","47","US Senator",NA,"Democrat","BOWLIN, BILL",8
+"Hinds","47","US Senator",NA,"Democrat","FLEMING, ERIK",76
+"Hinds","47","US Senator",NA,"Democrat","O'KEEFE, JAMES",14
+"Hinds","47","US Senator",NA,"Democrat","STARR, CATHERINE M.",16
+"Hinds","47","U.S. Representative",2,"Democrat","BENFORD, DOROTHY",0
+"Hinds","47","U.S. Representative",2,"Democrat","ESPY, CHUCK",24
+"Hinds","47","U.S. Representative",2,"Democrat","THOMPSON, BENNIE G.",101
+"Hinds","48","US Senator",NA,"Democrat","BOWLIN, BILL",3
+"Hinds","48","US Senator",NA,"Democrat","FLEMING, ERIK",23
+"Hinds","48","US Senator",NA,"Democrat","O'KEEFE, JAMES",5
+"Hinds","48","US Senator",NA,"Democrat","STARR, CATHERINE M.",7
+"Hinds","48","U.S. Representative",2,"Democrat","BENFORD, DOROTHY",0
+"Hinds","48","U.S. Representative",2,"Democrat","ESPY, CHUCK",11
+"Hinds","48","U.S. Representative",2,"Democrat","THOMPSON, BENNIE G.",30
+"Hinds","49","US Senator",NA,"Democrat","BOWLIN, BILL",2
+"Hinds","49","US Senator",NA,"Democrat","FLEMING, ERIK",29
+"Hinds","49","US Senator",NA,"Democrat","O'KEEFE, JAMES",3
+"Hinds","49","US Senator",NA,"Democrat","STARR, CATHERINE M.",6
+"Hinds","49","U.S. Representative",2,"Democrat","BENFORD, DOROTHY",0
+"Hinds","49","U.S. Representative",2,"Democrat","ESPY, CHUCK",6
+"Hinds","49","U.S. Representative",2,"Democrat","THOMPSON, BENNIE G.",42
+"Hinds","50","US Senator",NA,"Democrat","BOWLIN, BILL",2
+"Hinds","50","US Senator",NA,"Democrat","FLEMING, ERIK",29
+"Hinds","50","US Senator",NA,"Democrat","O'KEEFE, JAMES",3
+"Hinds","50","US Senator",NA,"Democrat","STARR, CATHERINE M.",6
+"Hinds","50","U.S. Representative",2,"Democrat","BENFORD, DOROTHY",0
+"Hinds","50","U.S. Representative",2,"Democrat","ESPY, CHUCK",6
+"Hinds","50","U.S. Representative",2,"Democrat","THOMPSON, BENNIE G.",42
+"Hinds","51","US Senator",NA,"Democrat","BOWLIN, BILL",10
+"Hinds","51","US Senator",NA,"Democrat","FLEMING, ERIK",113
+"Hinds","51","US Senator",NA,"Democrat","O'KEEFE, JAMES",9
+"Hinds","51","US Senator",NA,"Democrat","STARR, CATHERINE M.",23
+"Hinds","51","U.S. Representative",2,"Democrat","BENFORD, DOROTHY",2
+"Hinds","51","U.S. Representative",2,"Democrat","ESPY, CHUCK",33
+"Hinds","51","U.S. Representative",2,"Democrat","THOMPSON, BENNIE G.",134
+"Hinds","52","US Senator",NA,"Democrat","BOWLIN, BILL",14
+"Hinds","52","US Senator",NA,"Democrat","FLEMING, ERIK",116
+"Hinds","52","US Senator",NA,"Democrat","O'KEEFE, JAMES",19
+"Hinds","52","US Senator",NA,"Democrat","STARR, CATHERINE M.",25
+"Hinds","52","U.S. Representative",2,"Democrat","BENFORD, DOROTHY",5
+"Hinds","52","U.S. Representative",2,"Democrat","ESPY, CHUCK",24
+"Hinds","52","U.S. Representative",2,"Democrat","THOMPSON, BENNIE G.",156
+"Hinds","53","US Senator",NA,"Democrat","BOWLIN, BILL",1
+"Hinds","53","US Senator",NA,"Democrat","FLEMING, ERIK",10
+"Hinds","53","US Senator",NA,"Democrat","O'KEEFE, JAMES",5
+"Hinds","53","US Senator",NA,"Democrat","STARR, CATHERINE M.",1
+"Hinds","53","U.S. Representative",2,"Democrat","BENFORD, DOROTHY",0
+"Hinds","53","U.S. Representative",2,"Democrat","ESPY, CHUCK",5
+"Hinds","53","U.S. Representative",2,"Democrat","THOMPSON, BENNIE G.",14
+"Hinds","54","US Senator",NA,"Democrat","BOWLIN, BILL",10
+"Hinds","54","US Senator",NA,"Democrat","FLEMING, ERIK",62
+"Hinds","54","US Senator",NA,"Democrat","O'KEEFE, JAMES",8
+"Hinds","54","US Senator",NA,"Democrat","STARR, CATHERINE M.",13
+"Hinds","54","U.S. Representative",2,"Democrat","BENFORD, DOROTHY",1
+"Hinds","54","U.S. Representative",2,"Democrat","ESPY, CHUCK",7
+"Hinds","54","U.S. Representative",2,"Democrat","THOMPSON, BENNIE G.",89
+"Hinds","55","US Senator",NA,"Democrat","BOWLIN, BILL",10
+"Hinds","55","US Senator",NA,"Democrat","FLEMING, ERIK",101
+"Hinds","55","US Senator",NA,"Democrat","O'KEEFE, JAMES",19
+"Hinds","55","US Senator",NA,"Democrat","STARR, CATHERINE M.",12
+"Hinds","55","U.S. Representative",2,"Democrat","BENFORD, DOROTHY",0
+"Hinds","55","U.S. Representative",2,"Democrat","ESPY, CHUCK",21
+"Hinds","55","U.S. Representative",2,"Democrat","THOMPSON, BENNIE G.",144
+"Hinds","56","US Senator",NA,"Democrat","BOWLIN, BILL",3
+"Hinds","56","US Senator",NA,"Democrat","FLEMING, ERIK",56
+"Hinds","56","US Senator",NA,"Democrat","O'KEEFE, JAMES",11
+"Hinds","56","US Senator",NA,"Democrat","STARR, CATHERINE M.",13
+"Hinds","56","U.S. Representative",2,"Democrat","BENFORD, DOROTHY",1
+"Hinds","56","U.S. Representative",2,"Democrat","ESPY, CHUCK",12
+"Hinds","56","U.S. Representative",2,"Democrat","THOMPSON, BENNIE G.",81
+"Hinds","57","US Senator",NA,"Democrat","BOWLIN, BILL",14
+"Hinds","57","US Senator",NA,"Democrat","FLEMING, ERIK",144
+"Hinds","57","US Senator",NA,"Democrat","O'KEEFE, JAMES",14
+"Hinds","57","US Senator",NA,"Democrat","STARR, CATHERINE M.",22
+"Hinds","57","U.S. Representative",2,"Democrat","BENFORD, DOROTHY",3
+"Hinds","57","U.S. Representative",2,"Democrat","ESPY, CHUCK",28
+"Hinds","57","U.S. Representative",2,"Democrat","THOMPSON, BENNIE G.",198
+"Hinds","58","US Senator",NA,"Democrat","BOWLIN, BILL",20
+"Hinds","58","US Senator",NA,"Democrat","FLEMING, ERIK",310
+"Hinds","58","US Senator",NA,"Democrat","O'KEEFE, JAMES",38
+"Hinds","58","US Senator",NA,"Democrat","STARR, CATHERINE M.",34
+"Hinds","58","U.S. Representative",2,"Democrat","BENFORD, DOROTHY",1
+"Hinds","58","U.S. Representative",2,"Democrat","ESPY, CHUCK",50
+"Hinds","58","U.S. Representative",2,"Democrat","THOMPSON, BENNIE G.",380
+"Hinds","59","US Senator",NA,"Democrat","BOWLIN, BILL",13
+"Hinds","59","US Senator",NA,"Democrat","FLEMING, ERIK",222
+"Hinds","59","US Senator",NA,"Democrat","O'KEEFE, JAMES",24
+"Hinds","59","US Senator",NA,"Democrat","STARR, CATHERINE M.",33
+"Hinds","59","U.S. Representative",2,"Democrat","BENFORD, DOROTHY",1
+"Hinds","59","U.S. Representative",2,"Democrat","ESPY, CHUCK",71
+"Hinds","59","U.S. Representative",2,"Democrat","THOMPSON, BENNIE G.",259
+"Hinds","60","US Senator",NA,"Democrat","BOWLIN, BILL",2
+"Hinds","60","US Senator",NA,"Democrat","FLEMING, ERIK",41
+"Hinds","60","US Senator",NA,"Democrat","O'KEEFE, JAMES",10
+"Hinds","60","US Senator",NA,"Democrat","STARR, CATHERINE M.",8
+"Hinds","60","U.S. Representative",2,"Democrat","BENFORD, DOROTHY",0
+"Hinds","60","U.S. Representative",2,"Democrat","ESPY, CHUCK",10
+"Hinds","60","U.S. Representative",2,"Democrat","THOMPSON, BENNIE G.",55
+"Hinds","61","US Senator",NA,"Democrat","BOWLIN, BILL",23
+"Hinds","61","US Senator",NA,"Democrat","FLEMING, ERIK",101
+"Hinds","61","US Senator",NA,"Democrat","O'KEEFE, JAMES",27
+"Hinds","61","US Senator",NA,"Democrat","STARR, CATHERINE M.",24
+"Hinds","61","U.S. Representative",2,"Democrat","BENFORD, DOROTHY",1
+"Hinds","61","U.S. Representative",2,"Democrat","ESPY, CHUCK",36
+"Hinds","61","U.S. Representative",2,"Democrat","THOMPSON, BENNIE G.",164
+"Hinds","62","US Senator",NA,"Democrat","BOWLIN, BILL",22
+"Hinds","62","US Senator",NA,"Democrat","FLEMING, ERIK",141
+"Hinds","62","US Senator",NA,"Democrat","O'KEEFE, JAMES",33
+"Hinds","62","US Senator",NA,"Democrat","STARR, CATHERINE M.",32
+"Hinds","62","U.S. Representative",2,"Democrat","BENFORD, DOROTHY",1
+"Hinds","62","U.S. Representative",2,"Democrat","ESPY, CHUCK",39
+"Hinds","62","U.S. Representative",2,"Democrat","THOMPSON, BENNIE G.",214
+"Hinds","63","US Senator",NA,"Democrat","BOWLIN, BILL",6
+"Hinds","63","US Senator",NA,"Democrat","FLEMING, ERIK",95
+"Hinds","63","US Senator",NA,"Democrat","O'KEEFE, JAMES",19
+"Hinds","63","US Senator",NA,"Democrat","STARR, CATHERINE M.",16
+"Hinds","63","U.S. Representative",2,"Democrat","BENFORD, DOROTHY",1
+"Hinds","63","U.S. Representative",2,"Democrat","ESPY, CHUCK",19
+"Hinds","63","U.S. Representative",2,"Democrat","THOMPSON, BENNIE G.",162
+"Hinds","64","US Senator",NA,"Democrat","BOWLIN, BILL",14
+"Hinds","64","US Senator",NA,"Democrat","FLEMING, ERIK",83
+"Hinds","64","US Senator",NA,"Democrat","O'KEEFE, JAMES",13
+"Hinds","64","US Senator",NA,"Democrat","STARR, CATHERINE M.",19
+"Hinds","64","U.S. Representative",2,"Democrat","BENFORD, DOROTHY",1
+"Hinds","64","U.S. Representative",2,"Democrat","ESPY, CHUCK",24
+"Hinds","64","U.S. Representative",2,"Democrat","THOMPSON, BENNIE G.",146
+"Hinds","66","US Senator",NA,"Democrat","BOWLIN, BILL",0
+"Hinds","66","US Senator",NA,"Democrat","FLEMING, ERIK",2
+"Hinds","66","US Senator",NA,"Democrat","O'KEEFE, JAMES",0
+"Hinds","66","US Senator",NA,"Democrat","STARR, CATHERINE M.",0
+"Hinds","66","U.S. Representative",2,"Democrat","BENFORD, DOROTHY",0
+"Hinds","66","U.S. Representative",2,"Democrat","ESPY, CHUCK",1
+"Hinds","66","U.S. Representative",2,"Democrat","THOMPSON, BENNIE G.",0
+"Hinds","67","US Senator",NA,"Democrat","BOWLIN, BILL",7
+"Hinds","67","US Senator",NA,"Democrat","FLEMING, ERIK",54
+"Hinds","67","US Senator",NA,"Democrat","O'KEEFE, JAMES",8
+"Hinds","67","US Senator",NA,"Democrat","STARR, CATHERINE M.",8
+"Hinds","67","U.S. Representative",2,"Democrat","BENFORD, DOROTHY",1
+"Hinds","67","U.S. Representative",2,"Democrat","ESPY, CHUCK",24
+"Hinds","67","U.S. Representative",2,"Democrat","THOMPSON, BENNIE G.",66
+"Hinds","68","US Senator",NA,"Democrat","BOWLIN, BILL",42
+"Hinds","68","US Senator",NA,"Democrat","FLEMING, ERIK",247
+"Hinds","68","US Senator",NA,"Democrat","O'KEEFE, JAMES",44
+"Hinds","68","US Senator",NA,"Democrat","STARR, CATHERINE M.",54
+"Hinds","68","U.S. Representative",2,"Democrat","BENFORD, DOROTHY",3
+"Hinds","68","U.S. Representative",2,"Democrat","ESPY, CHUCK",120
+"Hinds","68","U.S. Representative",2,"Democrat","THOMPSON, BENNIE G.",309
+"Hinds","69","US Senator",NA,"Democrat","BOWLIN, BILL",14
+"Hinds","69","US Senator",NA,"Democrat","FLEMING, ERIK",69
+"Hinds","69","US Senator",NA,"Democrat","O'KEEFE, JAMES",20
+"Hinds","69","US Senator",NA,"Democrat","STARR, CATHERINE M.",15
+"Hinds","69","U.S. Representative",2,"Democrat","BENFORD, DOROTHY",1
+"Hinds","69","U.S. Representative",2,"Democrat","ESPY, CHUCK",44
+"Hinds","69","U.S. Representative",2,"Democrat","THOMPSON, BENNIE G.",87
+"Hinds","70","US Senator",NA,"Democrat","BOWLIN, BILL",7
+"Hinds","70","US Senator",NA,"Democrat","FLEMING, ERIK",22
+"Hinds","70","US Senator",NA,"Democrat","O'KEEFE, JAMES",9
+"Hinds","70","US Senator",NA,"Democrat","STARR, CATHERINE M.",7
+"Hinds","70","U.S. Representative",2,"Democrat","BENFORD, DOROTHY",0
+"Hinds","70","U.S. Representative",2,"Democrat","ESPY, CHUCK",17
+"Hinds","70","U.S. Representative",2,"Democrat","THOMPSON, BENNIE G.",34
+"Hinds","71","US Senator",NA,"Democrat","BOWLIN, BILL",14
+"Hinds","71","US Senator",NA,"Democrat","FLEMING, ERIK",92
+"Hinds","71","US Senator",NA,"Democrat","O'KEEFE, JAMES",26
+"Hinds","71","US Senator",NA,"Democrat","STARR, CATHERINE M.",21
+"Hinds","71","U.S. Representative",2,"Democrat","BENFORD, DOROTHY",1
+"Hinds","71","U.S. Representative",2,"Democrat","ESPY, CHUCK",59
+"Hinds","71","U.S. Representative",2,"Democrat","THOMPSON, BENNIE G.",107
+"Hinds","72","US Senator",NA,"Democrat","BOWLIN, BILL",14
+"Hinds","72","US Senator",NA,"Democrat","FLEMING, ERIK",48
+"Hinds","72","US Senator",NA,"Democrat","O'KEEFE, JAMES",16
+"Hinds","72","US Senator",NA,"Democrat","STARR, CATHERINE M.",10
+"Hinds","72","U.S. Representative",2,"Democrat","BENFORD, DOROTHY",0
+"Hinds","72","U.S. Representative",2,"Democrat","ESPY, CHUCK",34
+"Hinds","72","U.S. Representative",2,"Democrat","THOMPSON, BENNIE G.",60
+"Hinds","73","US Senator",NA,"Democrat","BOWLIN, BILL",19
+"Hinds","73","US Senator",NA,"Democrat","FLEMING, ERIK",44
+"Hinds","73","US Senator",NA,"Democrat","O'KEEFE, JAMES",15
+"Hinds","73","US Senator",NA,"Democrat","STARR, CATHERINE M.",11
+"Hinds","73","U.S. Representative",2,"Democrat","BENFORD, DOROTHY",4
+"Hinds","73","U.S. Representative",2,"Democrat","ESPY, CHUCK",32
+"Hinds","73","U.S. Representative",2,"Democrat","THOMPSON, BENNIE G.",73
+"Hinds","74","US Senator",NA,"Democrat","BOWLIN, BILL",19
+"Hinds","74","US Senator",NA,"Democrat","FLEMING, ERIK",50
+"Hinds","74","US Senator",NA,"Democrat","O'KEEFE, JAMES",23
+"Hinds","74","US Senator",NA,"Democrat","STARR, CATHERINE M.",15
+"Hinds","74","U.S. Representative",2,"Democrat","BENFORD, DOROTHY",3
+"Hinds","74","U.S. Representative",2,"Democrat","ESPY, CHUCK",41
+"Hinds","74","U.S. Representative",2,"Democrat","THOMPSON, BENNIE G.",79
+"Hinds","75","US Senator",NA,"Democrat","BOWLIN, BILL",13
+"Hinds","75","US Senator",NA,"Democrat","FLEMING, ERIK",60
+"Hinds","75","US Senator",NA,"Democrat","O'KEEFE, JAMES",7
+"Hinds","75","US Senator",NA,"Democrat","STARR, CATHERINE M.",8
+"Hinds","75","U.S. Representative",2,"Democrat","BENFORD, DOROTHY",0
+"Hinds","75","U.S. Representative",2,"Democrat","ESPY, CHUCK",32
+"Hinds","75","U.S. Representative",2,"Democrat","THOMPSON, BENNIE G.",68
+"Hinds","76","US Senator",NA,"Democrat","BOWLIN, BILL",15
+"Hinds","76","US Senator",NA,"Democrat","FLEMING, ERIK",57
+"Hinds","76","US Senator",NA,"Democrat","O'KEEFE, JAMES",19
+"Hinds","76","US Senator",NA,"Democrat","STARR, CATHERINE M.",20
+"Hinds","76","U.S. Representative",2,"Democrat","BENFORD, DOROTHY",4
+"Hinds","76","U.S. Representative",2,"Democrat","ESPY, CHUCK",55
+"Hinds","76","U.S. Representative",2,"Democrat","THOMPSON, BENNIE G.",67
+"Hinds","77","US Senator",NA,"Democrat","BOWLIN, BILL",11
+"Hinds","77","US Senator",NA,"Democrat","FLEMING, ERIK",59
+"Hinds","77","US Senator",NA,"Democrat","O'KEEFE, JAMES",10
+"Hinds","77","US Senator",NA,"Democrat","STARR, CATHERINE M.",8
+"Hinds","77","U.S. Representative",2,"Democrat","BENFORD, DOROTHY",0
+"Hinds","77","U.S. Representative",2,"Democrat","ESPY, CHUCK",55
+"Hinds","77","U.S. Representative",2,"Democrat","THOMPSON, BENNIE G.",48
+"Hinds","78","US Senator",NA,"Democrat","BOWLIN, BILL",19
+"Hinds","78","US Senator",NA,"Democrat","FLEMING, ERIK",34
+"Hinds","78","US Senator",NA,"Democrat","O'KEEFE, JAMES",6
+"Hinds","78","US Senator",NA,"Democrat","STARR, CATHERINE M.",5
+"Hinds","78","U.S. Representative",2,"Democrat","BENFORD, DOROTHY",NA
+"Hinds","78","U.S. Representative",2,"Democrat","ESPY, CHUCK",NA
+"Hinds","78","U.S. Representative",2,"Democrat","THOMPSON, BENNIE G.",NA
+"Hinds","79","US Senator",NA,"Democrat","BOWLIN, BILL",13
+"Hinds","79","US Senator",NA,"Democrat","FLEMING, ERIK",73
+"Hinds","79","US Senator",NA,"Democrat","O'KEEFE, JAMES",10
+"Hinds","79","US Senator",NA,"Democrat","STARR, CATHERINE M.",17
+"Hinds","79","U.S. Representative",2,"Democrat","BENFORD, DOROTHY",NA
+"Hinds","79","U.S. Representative",2,"Democrat","ESPY, CHUCK",NA
+"Hinds","79","U.S. Representative",2,"Democrat","THOMPSON, BENNIE G.",NA
+"Hinds","80","US Senator",NA,"Democrat","BOWLIN, BILL",27
+"Hinds","80","US Senator",NA,"Democrat","FLEMING, ERIK",252
+"Hinds","80","US Senator",NA,"Democrat","O'KEEFE, JAMES",33
+"Hinds","80","US Senator",NA,"Democrat","STARR, CATHERINE M.",42
+"Hinds","80","U.S. Representative",2,"Democrat","BENFORD, DOROTHY",1
+"Hinds","80","U.S. Representative",2,"Democrat","ESPY, CHUCK",51
+"Hinds","80","U.S. Representative",2,"Democrat","THOMPSON, BENNIE G.",365
+"Hinds","81","US Senator",NA,"Democrat","BOWLIN, BILL",41
+"Hinds","81","US Senator",NA,"Democrat","FLEMING, ERIK",554
+"Hinds","81","US Senator",NA,"Democrat","O'KEEFE, JAMES",47
+"Hinds","81","US Senator",NA,"Democrat","STARR, CATHERINE M.",50
+"Hinds","81","U.S. Representative",2,"Democrat","BENFORD, DOROTHY",2
+"Hinds","81","U.S. Representative",2,"Democrat","ESPY, CHUCK",118
+"Hinds","81","U.S. Representative",2,"Democrat","THOMPSON, BENNIE G.",651
+"Hinds","82","US Senator",NA,"Democrat","BOWLIN, BILL",25
+"Hinds","82","US Senator",NA,"Democrat","FLEMING, ERIK",292
+"Hinds","82","US Senator",NA,"Democrat","O'KEEFE, JAMES",19
+"Hinds","82","US Senator",NA,"Democrat","STARR, CATHERINE M.",49
+"Hinds","82","U.S. Representative",2,"Democrat","BENFORD, DOROTHY",1
+"Hinds","82","U.S. Representative",2,"Democrat","ESPY, CHUCK",61
+"Hinds","82","U.S. Representative",2,"Democrat","THOMPSON, BENNIE G.",387
+"Hinds","83","US Senator",NA,"Democrat","BOWLIN, BILL",45
+"Hinds","83","US Senator",NA,"Democrat","FLEMING, ERIK",739
+"Hinds","83","US Senator",NA,"Democrat","O'KEEFE, JAMES",54
+"Hinds","83","US Senator",NA,"Democrat","STARR, CATHERINE M.",73
+"Hinds","83","U.S. Representative",2,"Democrat","BENFORD, DOROTHY",6
+"Hinds","83","U.S. Representative",2,"Democrat","ESPY, CHUCK",144
+"Hinds","83","U.S. Representative",2,"Democrat","THOMPSON, BENNIE G.",856
+"Hinds","84","US Senator",NA,"Democrat","BOWLIN, BILL",5
+"Hinds","84","US Senator",NA,"Democrat","FLEMING, ERIK",73
+"Hinds","84","US Senator",NA,"Democrat","O'KEEFE, JAMES",7
+"Hinds","84","US Senator",NA,"Democrat","STARR, CATHERINE M.",8
+"Hinds","84","U.S. Representative",2,"Democrat","BENFORD, DOROTHY",0
+"Hinds","84","U.S. Representative",2,"Democrat","ESPY, CHUCK",2
+"Hinds","84","U.S. Representative",2,"Democrat","THOMPSON, BENNIE G.",100
+"Hinds","85","US Senator",NA,"Democrat","BOWLIN, BILL",79
+"Hinds","85","US Senator",NA,"Democrat","FLEMING, ERIK",571
+"Hinds","85","US Senator",NA,"Democrat","O'KEEFE, JAMES",61
+"Hinds","85","US Senator",NA,"Democrat","STARR, CATHERINE M.",83
+"Hinds","85","U.S. Representative",2,"Democrat","BENFORD, DOROTHY",7
+"Hinds","85","U.S. Representative",2,"Democrat","ESPY, CHUCK",80
+"Hinds","85","U.S. Representative",2,"Democrat","THOMPSON, BENNIE G.",809
+"Hinds","86","US Senator",NA,"Democrat","BOWLIN, BILL",13
+"Hinds","86","US Senator",NA,"Democrat","FLEMING, ERIK",232
+"Hinds","86","US Senator",NA,"Democrat","O'KEEFE, JAMES",17
+"Hinds","86","US Senator",NA,"Democrat","STARR, CATHERINE M.",21
+"Hinds","86","U.S. Representative",2,"Democrat","BENFORD, DOROTHY",3
+"Hinds","86","U.S. Representative",2,"Democrat","ESPY, CHUCK",34
+"Hinds","86","U.S. Representative",2,"Democrat","THOMPSON, BENNIE G.",291
+"Hinds","87","US Senator",NA,"Democrat","BOWLIN, BILL",16
+"Hinds","87","US Senator",NA,"Democrat","FLEMING, ERIK",113
+"Hinds","87","US Senator",NA,"Democrat","O'KEEFE, JAMES",13
+"Hinds","87","US Senator",NA,"Democrat","STARR, CATHERINE M.",12
+"Hinds","87","U.S. Representative",2,"Democrat","BENFORD, DOROTHY",1
+"Hinds","87","U.S. Representative",2,"Democrat","ESPY, CHUCK",34
+"Hinds","87","U.S. Representative",2,"Democrat","THOMPSON, BENNIE G.",137
+"Hinds","88","US Senator",NA,"Democrat","BOWLIN, BILL",56
+"Hinds","88","US Senator",NA,"Democrat","FLEMING, ERIK",287
+"Hinds","88","US Senator",NA,"Democrat","O'KEEFE, JAMES",31
+"Hinds","88","US Senator",NA,"Democrat","STARR, CATHERINE M.",21
+"Hinds","88","U.S. Representative",2,"Democrat","BENFORD, DOROTHY",7
+"Hinds","88","U.S. Representative",2,"Democrat","ESPY, CHUCK",47
+"Hinds","88","U.S. Representative",2,"Democrat","THOMPSON, BENNIE G.",388
+"Hinds","89","US Senator",NA,"Democrat","BOWLIN, BILL",6
+"Hinds","89","US Senator",NA,"Democrat","FLEMING, ERIK",40
+"Hinds","89","US Senator",NA,"Democrat","O'KEEFE, JAMES",4
+"Hinds","89","US Senator",NA,"Democrat","STARR, CATHERINE M.",5
+"Hinds","89","U.S. Representative",2,"Democrat","BENFORD, DOROTHY",0
+"Hinds","89","U.S. Representative",2,"Democrat","ESPY, CHUCK",17
+"Hinds","89","U.S. Representative",2,"Democrat","THOMPSON, BENNIE G.",46
+"Hinds","90","US Senator",NA,"Democrat","BOWLIN, BILL",13
+"Hinds","90","US Senator",NA,"Democrat","FLEMING, ERIK",63
+"Hinds","90","US Senator",NA,"Democrat","O'KEEFE, JAMES",7
+"Hinds","90","US Senator",NA,"Democrat","STARR, CATHERINE M.",13
+"Hinds","90","U.S. Representative",2,"Democrat","BENFORD, DOROTHY",1
+"Hinds","90","U.S. Representative",2,"Democrat","ESPY, CHUCK",26
+"Hinds","90","U.S. Representative",2,"Democrat","THOMPSON, BENNIE G.",78
+"Hinds","91","US Senator",NA,"Democrat","BOWLIN, BILL",33
+"Hinds","91","US Senator",NA,"Democrat","FLEMING, ERIK",301
+"Hinds","91","US Senator",NA,"Democrat","O'KEEFE, JAMES",48
+"Hinds","91","US Senator",NA,"Democrat","STARR, CATHERINE M.",46
+"Hinds","91","U.S. Representative",2,"Democrat","BENFORD, DOROTHY",1
+"Hinds","91","U.S. Representative",2,"Democrat","ESPY, CHUCK",101
+"Hinds","91","U.S. Representative",2,"Democrat","THOMPSON, BENNIE G.",367
+"Hinds","92","US Senator",NA,"Democrat","BOWLIN, BILL",27
+"Hinds","92","US Senator",NA,"Democrat","FLEMING, ERIK",198
+"Hinds","92","US Senator",NA,"Democrat","O'KEEFE, JAMES",37
+"Hinds","92","US Senator",NA,"Democrat","STARR, CATHERINE M.",52
+"Hinds","92","U.S. Representative",2,"Democrat","BENFORD, DOROTHY",1
+"Hinds","92","U.S. Representative",2,"Democrat","ESPY, CHUCK",112
+"Hinds","92","U.S. Representative",2,"Democrat","THOMPSON, BENNIE G.",227
+"Hinds","93","US Senator",NA,"Democrat","BOWLIN, BILL",22
+"Hinds","93","US Senator",NA,"Democrat","FLEMING, ERIK",80
+"Hinds","93","US Senator",NA,"Democrat","O'KEEFE, JAMES",26
+"Hinds","93","US Senator",NA,"Democrat","STARR, CATHERINE M.",20
+"Hinds","93","U.S. Representative",2,"Democrat","BENFORD, DOROTHY",0
+"Hinds","93","U.S. Representative",2,"Democrat","ESPY, CHUCK",79
+"Hinds","93","U.S. Representative",2,"Democrat","THOMPSON, BENNIE G.",92
+"Hinds","94","US Senator",NA,"Democrat","BOWLIN, BILL",39
+"Hinds","94","US Senator",NA,"Democrat","FLEMING, ERIK",389
+"Hinds","94","US Senator",NA,"Democrat","O'KEEFE, JAMES",58
+"Hinds","94","US Senator",NA,"Democrat","STARR, CATHERINE M.",39
+"Hinds","94","U.S. Representative",2,"Democrat","BENFORD, DOROTHY",1
+"Hinds","94","U.S. Representative",2,"Democrat","ESPY, CHUCK",109
+"Hinds","94","U.S. Representative",2,"Democrat","THOMPSON, BENNIE G.",458
+"Hinds","95","US Senator",NA,"Democrat","BOWLIN, BILL",11
+"Hinds","95","US Senator",NA,"Democrat","FLEMING, ERIK",47
+"Hinds","95","US Senator",NA,"Democrat","O'KEEFE, JAMES",17
+"Hinds","95","US Senator",NA,"Democrat","STARR, CATHERINE M.",7
+"Hinds","95","U.S. Representative",2,"Democrat","BENFORD, DOROTHY",0
+"Hinds","95","U.S. Representative",2,"Democrat","ESPY, CHUCK",53
+"Hinds","95","U.S. Representative",2,"Democrat","THOMPSON, BENNIE G.",43
+"Hinds","96","US Senator",NA,"Democrat","BOWLIN, BILL",40
+"Hinds","96","US Senator",NA,"Democrat","FLEMING, ERIK",183
+"Hinds","96","US Senator",NA,"Democrat","O'KEEFE, JAMES",47
+"Hinds","96","US Senator",NA,"Democrat","STARR, CATHERINE M.",33
+"Hinds","96","U.S. Representative",2,"Democrat","BENFORD, DOROTHY",0
+"Hinds","96","U.S. Representative",2,"Democrat","ESPY, CHUCK",169
+"Hinds","96","U.S. Representative",2,"Democrat","THOMPSON, BENNIE G.",177
+"Hinds","97","US Senator",NA,"Democrat","BOWLIN, BILL",11
+"Hinds","97","US Senator",NA,"Democrat","FLEMING, ERIK",27
+"Hinds","97","US Senator",NA,"Democrat","O'KEEFE, JAMES",12
+"Hinds","97","US Senator",NA,"Democrat","STARR, CATHERINE M.",6
+"Hinds","97","U.S. Representative",2,"Democrat","BENFORD, DOROTHY",1
+"Hinds","97","U.S. Representative",2,"Democrat","ESPY, CHUCK",39
+"Hinds","97","U.S. Representative",2,"Democrat","THOMPSON, BENNIE G.",28
+"Hinds","(R1) Raymond 1","US Senator",NA,"Democrat","BOWLIN, BILL",82
+"Hinds","(R1) Raymond 1","US Senator",NA,"Democrat","FLEMING, ERIK",174
+"Hinds","(R1) Raymond 1","US Senator",NA,"Democrat","O'KEEFE, JAMES",71
+"Hinds","(R1) Raymond 1","US Senator",NA,"Democrat","STARR, CATHERINE M.",39
+"Hinds","(R1) Raymond 1","U.S. Representative",2,"Democrat","BENFORD, DOROTHY",5
+"Hinds","(R1) Raymond 1","U.S. Representative",2,"Democrat","ESPY, CHUCK",258
+"Hinds","(R1) Raymond 1","U.S. Representative",2,"Democrat","THOMPSON, BENNIE G.",197
+"Hinds","(R2) Raymond 2","US Senator",NA,"Democrat","BOWLIN, BILL",78
+"Hinds","(R2) Raymond 2","US Senator",NA,"Democrat","FLEMING, ERIK",175
+"Hinds","(R2) Raymond 2","US Senator",NA,"Democrat","O'KEEFE, JAMES",50
+"Hinds","(R2) Raymond 2","US Senator",NA,"Democrat","STARR, CATHERINE M.",41
+"Hinds","(R2) Raymond 2","U.S. Representative",2,"Democrat","BENFORD, DOROTHY",5
+"Hinds","(R2) Raymond 2","U.S. Representative",2,"Democrat","ESPY, CHUCK",242
+"Hinds","(R2) Raymond 2","U.S. Representative",2,"Democrat","THOMPSON, BENNIE G.",191
+"Hinds","(SR) Springridge","US Senator",NA,"Democrat","BOWLIN, BILL",79
+"Hinds","(SR) Springridge","US Senator",NA,"Democrat","FLEMING, ERIK",267
+"Hinds","(SR) Springridge","US Senator",NA,"Democrat","O'KEEFE, JAMES",52
+"Hinds","(SR) Springridge","US Senator",NA,"Democrat","STARR, CATHERINE M.",37
+"Hinds","(SR) Springridge","U.S. Representative",2,"Democrat","BENFORD, DOROTHY",9
+"Hinds","(SR) Springridge","U.S. Representative",2,"Democrat","ESPY, CHUCK",243
+"Hinds","(SR) Springridge","U.S. Representative",2,"Democrat","THOMPSON, BENNIE G.",267
+"Hinds","(ST) St. Thomas","US Senator",NA,"Democrat","BOWLIN, BILL",21
+"Hinds","(ST) St. Thomas","US Senator",NA,"Democrat","FLEMING, ERIK",117
+"Hinds","(ST) St. Thomas","US Senator",NA,"Democrat","O'KEEFE, JAMES",16
+"Hinds","(ST) St. Thomas","US Senator",NA,"Democrat","STARR, CATHERINE M.",10
+"Hinds","(ST) St. Thomas","U.S. Representative",2,"Democrat","BENFORD, DOROTHY",1
+"Hinds","(ST) St. Thomas","U.S. Representative",2,"Democrat","ESPY, CHUCK",15
+"Hinds","(ST) St. Thomas","U.S. Representative",2,"Democrat","THOMPSON, BENNIE G.",172
+"Hinds","(TE) Terry","US Senator",NA,"Democrat","BOWLIN, BILL",148
+"Hinds","(TE) Terry","US Senator",NA,"Democrat","FLEMING, ERIK",320
+"Hinds","(TE) Terry","US Senator",NA,"Democrat","O'KEEFE, JAMES",115
+"Hinds","(TE) Terry","US Senator",NA,"Democrat","STARR, CATHERINE M.",83
+"Hinds","(TE) Terry","U.S. Representative",2,"Democrat","BENFORD, DOROTHY",6
+"Hinds","(TE) Terry","U.S. Representative",2,"Democrat","ESPY, CHUCK",380
+"Hinds","(TE) Terry","U.S. Representative",2,"Democrat","THOMPSON, BENNIE G.",433
+"Hinds","(TI) Tinnin","US Senator",NA,"Democrat","BOWLIN, BILL",31
+"Hinds","(TI) Tinnin","US Senator",NA,"Democrat","FLEMING, ERIK",72
+"Hinds","(TI) Tinnin","US Senator",NA,"Democrat","O'KEEFE, JAMES",30
+"Hinds","(TI) Tinnin","US Senator",NA,"Democrat","STARR, CATHERINE M.",11
+"Hinds","(TI) Tinnin","U.S. Representative",2,"Democrat","BENFORD, DOROTHY",1
+"Hinds","(TI) Tinnin","U.S. Representative",2,"Democrat","ESPY, CHUCK",128
+"Hinds","(TI) Tinnin","U.S. Representative",2,"Democrat","THOMPSON, BENNIE G.",60
+"Hinds","(U1) Utica 1","US Senator",NA,"Democrat","BOWLIN, BILL",44
+"Hinds","(U1) Utica 1","US Senator",NA,"Democrat","FLEMING, ERIK",79
+"Hinds","(U1) Utica 1","US Senator",NA,"Democrat","O'KEEFE, JAMES",32
+"Hinds","(U1) Utica 1","US Senator",NA,"Democrat","STARR, CATHERINE M.",18
+"Hinds","(U1) Utica 1","U.S. Representative",2,"Democrat","BENFORD, DOROTHY",1
+"Hinds","(U1) Utica 1","U.S. Representative",2,"Democrat","ESPY, CHUCK",96
+"Hinds","(U1) Utica 1","U.S. Representative",2,"Democrat","THOMPSON, BENNIE G.",98
+"Hinds","(U2) Utica 2","US Senator",NA,"Democrat","BOWLIN, BILL",27
+"Hinds","(U2) Utica 2","US Senator",NA,"Democrat","FLEMING, ERIK",137
+"Hinds","(U2) Utica 2","US Senator",NA,"Democrat","O'KEEFE, JAMES",24
+"Hinds","(U2) Utica 2","US Senator",NA,"Democrat","STARR, CATHERINE M.",40
+"Hinds","(U2) Utica 2","U.S. Representative",2,"Democrat","BENFORD, DOROTHY",2
+"Hinds","(U2) Utica 2","U.S. Representative",2,"Democrat","ESPY, CHUCK",38
+"Hinds","(U2) Utica 2","U.S. Representative",2,"Democrat","THOMPSON, BENNIE G.",208

@@ -1,113 +1,113 @@
-"","county","precinct","office","district","party","candidate","votes"
-"1","Lawrence","Courthouse","US Senator",NA,"Democrat","BOWLIN, BILL",NA
-"2","Lawrence","Courthouse","US Senator",NA,"Democrat","FLEMING, ERIK",NA
-"3","Lawrence","Courthouse","US Senator",NA,"Democrat","O'KEEFE, JAMES",NA
-"4","Lawrence","Courthouse","US Senator",NA,"Democrat","STARR, CATHERINE M.",NA
-"5","Lawrence","ARMORY","US Senator",NA,"Democrat","BOWLIN, BILL",2
-"6","Lawrence","ARMORY","US Senator",NA,"Democrat","FLEMING, ERIK",1
-"7","Lawrence","ARMORY","US Senator",NA,"Democrat","O'KEEFE, JAMES",0
-"8","Lawrence","ARMORY","US Senator",NA,"Democrat","STARR, CATHERINE M.",2
-"9","Lawrence","CENTER","US Senator",NA,"Democrat","BOWLIN, BILL",6
-"10","Lawrence","CENTER","US Senator",NA,"Democrat","FLEMING, ERIK",1
-"11","Lawrence","CENTER","US Senator",NA,"Democrat","O'KEEFE, JAMES",0
-"12","Lawrence","CENTER","US Senator",NA,"Democrat","STARR, CATHERINE M.",0
-"13","Lawrence","COOPERS CREEK (A-Z)","US Senator",NA,"Democrat","BOWLIN, BILL",2
-"14","Lawrence","COOPERS CREEK (A-Z)","US Senator",NA,"Democrat","FLEMING, ERIK",1
-"15","Lawrence","COOPERS CREEK (A-Z)","US Senator",NA,"Democrat","O'KEEFE, JAMES",3
-"16","Lawrence","COOPERS CREEK (A-Z)","US Senator",NA,"Democrat","STARR, CATHERINE M.",0
-"17","Lawrence","COURTHOUSE A-Z","US Senator",NA,"Democrat","BOWLIN, BILL",17
-"18","Lawrence","COURTHOUSE A-Z","US Senator",NA,"Democrat","FLEMING, ERIK",13
-"19","Lawrence","COURTHOUSE A-Z","US Senator",NA,"Democrat","O'KEEFE, JAMES",8
-"20","Lawrence","COURTHOUSE A-Z","US Senator",NA,"Democrat","STARR, CATHERINE M.",8
-"21","Lawrence","EAST ARM","US Senator",NA,"Democrat","BOWLIN, BILL",3
-"22","Lawrence","EAST ARM","US Senator",NA,"Democrat","FLEMING, ERIK",10
-"23","Lawrence","EAST ARM","US Senator",NA,"Democrat","O'KEEFE, JAMES",1
-"24","Lawrence","EAST ARM","US Senator",NA,"Democrat","STARR, CATHERINE M.",2
-"25","Lawrence","GRANGE","US Senator",NA,"Democrat","BOWLIN, BILL",8
-"26","Lawrence","GRANGE","US Senator",NA,"Democrat","FLEMING, ERIK",6
-"27","Lawrence","GRANGE","US Senator",NA,"Democrat","O'KEEFE, JAMES",2
-"28","Lawrence","GRANGE","US Senator",NA,"Democrat","STARR, CATHERINE M.",1
-"29","Lawrence","HOOKER","US Senator",NA,"Democrat","BOWLIN, BILL",10
-"30","Lawrence","HOOKER","US Senator",NA,"Democrat","FLEMING, ERIK",9
-"31","Lawrence","HOOKER","US Senator",NA,"Democrat","O'KEEFE, JAMES",1
-"32","Lawrence","HOOKER","US Senator",NA,"Democrat","STARR, CATHERINE M.",7
-"33","Lawrence","JAYESS","US Senator",NA,"Democrat","BOWLIN, BILL",8
-"34","Lawrence","JAYESS","US Senator",NA,"Democrat","FLEMING, ERIK",1
-"35","Lawrence","JAYESS","US Senator",NA,"Democrat","O'KEEFE, JAMES",8
-"36","Lawrence","JAYESS","US Senator",NA,"Democrat","STARR, CATHERINE M.",1
-"37","Lawrence","MONTICELLO-BEAT 5","US Senator",NA,"Democrat","BOWLIN, BILL",3
-"38","Lawrence","MONTICELLO-BEAT 5","US Senator",NA,"Democrat","FLEMING, ERIK",11
-"39","Lawrence","MONTICELLO-BEAT 5","US Senator",NA,"Democrat","O'KEEFE, JAMES",2
-"40","Lawrence","MONTICELLO-BEAT 5","US Senator",NA,"Democrat","STARR, CATHERINE M.",1
-"41","Lawrence","NEW HEBRON","US Senator",NA,"Democrat","BOWLIN, BILL",10
-"42","Lawrence","NEW HEBRON","US Senator",NA,"Democrat","FLEMING, ERIK",1
-"43","Lawrence","NEW HEBRON","US Senator",NA,"Democrat","O'KEEFE, JAMES",9
-"44","Lawrence","NEW HEBRON","US Senator",NA,"Democrat","STARR, CATHERINE M.",4
-"45","Lawrence","NOLA","US Senator",NA,"Democrat","BOWLIN, BILL",2
-"46","Lawrence","NOLA","US Senator",NA,"Democrat","FLEMING, ERIK",5
-"47","Lawrence","NOLA","US Senator",NA,"Democrat","O'KEEFE, JAMES",0
-"48","Lawrence","NOLA","US Senator",NA,"Democrat","STARR, CATHERINE M.",0
-"49","Lawrence","NORTH SILVER CREEK","US Senator",NA,"Democrat","BOWLIN, BILL",5
-"50","Lawrence","NORTH SILVER CREEK","US Senator",NA,"Democrat","FLEMING, ERIK",3
-"51","Lawrence","NORTH SILVER CREEK","US Senator",NA,"Democrat","O'KEEFE, JAMES",5
-"52","Lawrence","NORTH SILVER CREEK","US Senator",NA,"Democrat","STARR, CATHERINE M.",5
-"53","Lawrence","OAKVALE","US Senator",NA,"Democrat","BOWLIN, BILL",12
-"54","Lawrence","OAKVALE","US Senator",NA,"Democrat","FLEMING, ERIK",9
-"55","Lawrence","OAKVALE","US Senator",NA,"Democrat","O'KEEFE, JAMES",4
-"56","Lawrence","OAKVALE","US Senator",NA,"Democrat","STARR, CATHERINE M.",2
-"57","Lawrence","OAKVALE-53","US Senator",NA,"Democrat","BOWLIN, BILL",1
-"58","Lawrence","OAKVALE-53","US Senator",NA,"Democrat","FLEMING, ERIK",0
-"59","Lawrence","OAKVALE-53","US Senator",NA,"Democrat","O'KEEFE, JAMES",0
-"60","Lawrence","OAKVALE-53","US Senator",NA,"Democrat","STARR, CATHERINE M.",0
-"61","Lawrence","OMA","US Senator",NA,"Democrat","BOWLIN, BILL",14
-"62","Lawrence","OMA","US Senator",NA,"Democrat","FLEMING, ERIK",29
-"63","Lawrence","OMA","US Senator",NA,"Democrat","O'KEEFE, JAMES",8
-"64","Lawrence","OMA","US Senator",NA,"Democrat","STARR, CATHERINE M.",6
-"65","Lawrence","PEYTON TOWN","US Senator",NA,"Democrat","BOWLIN, BILL",7
-"66","Lawrence","PEYTON TOWN","US Senator",NA,"Democrat","FLEMING, ERIK",19
-"67","Lawrence","PEYTON TOWN","US Senator",NA,"Democrat","O'KEEFE, JAMES",2
-"68","Lawrence","PEYTON TOWN","US Senator",NA,"Democrat","STARR, CATHERINE M.",8
-"69","Lawrence","PRECINCT 53","US Senator",NA,"Democrat","BOWLIN, BILL",3
-"70","Lawrence","PRECINCT 53","US Senator",NA,"Democrat","FLEMING, ERIK",1
-"71","Lawrence","PRECINCT 53","US Senator",NA,"Democrat","O'KEEFE, JAMES",1
-"72","Lawrence","PRECINCT 53","US Senator",NA,"Democrat","STARR, CATHERINE M.",4
-"73","Lawrence","PURGED VOTER","US Senator",NA,"Democrat","BOWLIN, BILL",0
-"74","Lawrence","PURGED VOTER","US Senator",NA,"Democrat","FLEMING, ERIK",0
-"75","Lawrence","PURGED VOTER","US Senator",NA,"Democrat","O'KEEFE, JAMES",0
-"76","Lawrence","PURGED VOTER","US Senator",NA,"Democrat","STARR, CATHERINE M.",0
-"77","Lawrence","SONTAG","US Senator",NA,"Democrat","BOWLIN, BILL",2
-"78","Lawrence","SONTAG","US Senator",NA,"Democrat","FLEMING, ERIK",3
-"79","Lawrence","SONTAG","US Senator",NA,"Democrat","O'KEEFE, JAMES",3
-"80","Lawrence","SONTAG","US Senator",NA,"Democrat","STARR, CATHERINE M.",1
-"81","Lawrence","SOUTH SILVER CREEK","US Senator",NA,"Democrat","BOWLIN, BILL",6
-"82","Lawrence","SOUTH SILVER CREEK","US Senator",NA,"Democrat","FLEMING, ERIK",11
-"83","Lawrence","SOUTH SILVER CREEK","US Senator",NA,"Democrat","O'KEEFE, JAMES",9
-"84","Lawrence","SOUTH SILVER CREEK","US Senator",NA,"Democrat","STARR, CATHERINE M.",3
-"85","Lawrence","STRINGER","US Senator",NA,"Democrat","BOWLIN, BILL",6
-"86","Lawrence","STRINGER","US Senator",NA,"Democrat","FLEMING, ERIK",13
-"87","Lawrence","STRINGER","US Senator",NA,"Democrat","O'KEEFE, JAMES",8
-"88","Lawrence","STRINGER","US Senator",NA,"Democrat","STARR, CATHERINE M.",3
-"89","Lawrence","TILTON","US Senator",NA,"Democrat","BOWLIN, BILL",3
-"90","Lawrence","TILTON","US Senator",NA,"Democrat","FLEMING, ERIK",0
-"91","Lawrence","TILTON","US Senator",NA,"Democrat","O'KEEFE, JAMES",2
-"92","Lawrence","TILTON","US Senator",NA,"Democrat","STARR, CATHERINE M.",1
-"93","Lawrence","TOPEKA","US Senator",NA,"Democrat","BOWLIN, BILL",6
-"94","Lawrence","TOPEKA","US Senator",NA,"Democrat","FLEMING, ERIK",0
-"95","Lawrence","TOPEKA","US Senator",NA,"Democrat","O'KEEFE, JAMES",2
-"96","Lawrence","TOPEKA","US Senator",NA,"Democrat","STARR, CATHERINE M.",1
-"97","Lawrence","WANILLA","US Senator",NA,"Democrat","BOWLIN, BILL",3
-"98","Lawrence","WANILLA","US Senator",NA,"Democrat","FLEMING, ERIK",1
-"99","Lawrence","WANILLA","US Senator",NA,"Democrat","O'KEEFE, JAMES",6
-"100","Lawrence","WANILLA","US Senator",NA,"Democrat","STARR, CATHERINE M.",2
-"101","Lawrence","WEST ARM","US Senator",NA,"Democrat","BOWLIN, BILL",3
-"102","Lawrence","WEST ARM","US Senator",NA,"Democrat","FLEMING, ERIK",19
-"103","Lawrence","WEST ARM","US Senator",NA,"Democrat","O'KEEFE, JAMES",5
-"104","Lawrence","WEST ARM","US Senator",NA,"Democrat","STARR, CATHERINE M.",6
-"105","Lawrence","WEST MONTICELLO (A-Z)","US Senator",NA,"Democrat","BOWLIN, BILL",10
-"106","Lawrence","WEST MONTICELLO (A-Z)","US Senator",NA,"Democrat","FLEMING, ERIK",20
-"107","Lawrence","WEST MONTICELLO (A-Z)","US Senator",NA,"Democrat","O'KEEFE, JAMES",8
-"108","Lawrence","WEST MONTICELLO (A-Z)","US Senator",NA,"Democrat","STARR, CATHERINE M.",8
-"109","Lawrence","WEST MONTICELLO 53","US Senator",NA,"Democrat","BOWLIN, BILL",0
-"110","Lawrence","WEST MONTICELLO 53","US Senator",NA,"Democrat","FLEMING, ERIK",0
-"111","Lawrence","WEST MONTICELLO 53","US Senator",NA,"Democrat","O'KEEFE, JAMES",0
-"112","Lawrence","WEST MONTICELLO 53","US Senator",NA,"Democrat","STARR, CATHERINE M.",1
+"county","precinct","office","district","party","candidate","votes"
+"Lawrence","Courthouse","US Senator",NA,"Democrat","BOWLIN, BILL",NA
+"Lawrence","Courthouse","US Senator",NA,"Democrat","FLEMING, ERIK",NA
+"Lawrence","Courthouse","US Senator",NA,"Democrat","O'KEEFE, JAMES",NA
+"Lawrence","Courthouse","US Senator",NA,"Democrat","STARR, CATHERINE M.",NA
+"Lawrence","ARMORY","US Senator",NA,"Democrat","BOWLIN, BILL",2
+"Lawrence","ARMORY","US Senator",NA,"Democrat","FLEMING, ERIK",1
+"Lawrence","ARMORY","US Senator",NA,"Democrat","O'KEEFE, JAMES",0
+"Lawrence","ARMORY","US Senator",NA,"Democrat","STARR, CATHERINE M.",2
+"Lawrence","CENTER","US Senator",NA,"Democrat","BOWLIN, BILL",6
+"Lawrence","CENTER","US Senator",NA,"Democrat","FLEMING, ERIK",1
+"Lawrence","CENTER","US Senator",NA,"Democrat","O'KEEFE, JAMES",0
+"Lawrence","CENTER","US Senator",NA,"Democrat","STARR, CATHERINE M.",0
+"Lawrence","COOPERS CREEK (A-Z)","US Senator",NA,"Democrat","BOWLIN, BILL",2
+"Lawrence","COOPERS CREEK (A-Z)","US Senator",NA,"Democrat","FLEMING, ERIK",1
+"Lawrence","COOPERS CREEK (A-Z)","US Senator",NA,"Democrat","O'KEEFE, JAMES",3
+"Lawrence","COOPERS CREEK (A-Z)","US Senator",NA,"Democrat","STARR, CATHERINE M.",0
+"Lawrence","COURTHOUSE A-Z","US Senator",NA,"Democrat","BOWLIN, BILL",17
+"Lawrence","COURTHOUSE A-Z","US Senator",NA,"Democrat","FLEMING, ERIK",13
+"Lawrence","COURTHOUSE A-Z","US Senator",NA,"Democrat","O'KEEFE, JAMES",8
+"Lawrence","COURTHOUSE A-Z","US Senator",NA,"Democrat","STARR, CATHERINE M.",8
+"Lawrence","EAST ARM","US Senator",NA,"Democrat","BOWLIN, BILL",3
+"Lawrence","EAST ARM","US Senator",NA,"Democrat","FLEMING, ERIK",10
+"Lawrence","EAST ARM","US Senator",NA,"Democrat","O'KEEFE, JAMES",1
+"Lawrence","EAST ARM","US Senator",NA,"Democrat","STARR, CATHERINE M.",2
+"Lawrence","GRANGE","US Senator",NA,"Democrat","BOWLIN, BILL",8
+"Lawrence","GRANGE","US Senator",NA,"Democrat","FLEMING, ERIK",6
+"Lawrence","GRANGE","US Senator",NA,"Democrat","O'KEEFE, JAMES",2
+"Lawrence","GRANGE","US Senator",NA,"Democrat","STARR, CATHERINE M.",1
+"Lawrence","HOOKER","US Senator",NA,"Democrat","BOWLIN, BILL",10
+"Lawrence","HOOKER","US Senator",NA,"Democrat","FLEMING, ERIK",9
+"Lawrence","HOOKER","US Senator",NA,"Democrat","O'KEEFE, JAMES",1
+"Lawrence","HOOKER","US Senator",NA,"Democrat","STARR, CATHERINE M.",7
+"Lawrence","JAYESS","US Senator",NA,"Democrat","BOWLIN, BILL",8
+"Lawrence","JAYESS","US Senator",NA,"Democrat","FLEMING, ERIK",1
+"Lawrence","JAYESS","US Senator",NA,"Democrat","O'KEEFE, JAMES",8
+"Lawrence","JAYESS","US Senator",NA,"Democrat","STARR, CATHERINE M.",1
+"Lawrence","MONTICELLO-BEAT 5","US Senator",NA,"Democrat","BOWLIN, BILL",3
+"Lawrence","MONTICELLO-BEAT 5","US Senator",NA,"Democrat","FLEMING, ERIK",11
+"Lawrence","MONTICELLO-BEAT 5","US Senator",NA,"Democrat","O'KEEFE, JAMES",2
+"Lawrence","MONTICELLO-BEAT 5","US Senator",NA,"Democrat","STARR, CATHERINE M.",1
+"Lawrence","NEW HEBRON","US Senator",NA,"Democrat","BOWLIN, BILL",10
+"Lawrence","NEW HEBRON","US Senator",NA,"Democrat","FLEMING, ERIK",1
+"Lawrence","NEW HEBRON","US Senator",NA,"Democrat","O'KEEFE, JAMES",9
+"Lawrence","NEW HEBRON","US Senator",NA,"Democrat","STARR, CATHERINE M.",4
+"Lawrence","NOLA","US Senator",NA,"Democrat","BOWLIN, BILL",2
+"Lawrence","NOLA","US Senator",NA,"Democrat","FLEMING, ERIK",5
+"Lawrence","NOLA","US Senator",NA,"Democrat","O'KEEFE, JAMES",0
+"Lawrence","NOLA","US Senator",NA,"Democrat","STARR, CATHERINE M.",0
+"Lawrence","NORTH SILVER CREEK","US Senator",NA,"Democrat","BOWLIN, BILL",5
+"Lawrence","NORTH SILVER CREEK","US Senator",NA,"Democrat","FLEMING, ERIK",3
+"Lawrence","NORTH SILVER CREEK","US Senator",NA,"Democrat","O'KEEFE, JAMES",5
+"Lawrence","NORTH SILVER CREEK","US Senator",NA,"Democrat","STARR, CATHERINE M.",5
+"Lawrence","OAKVALE","US Senator",NA,"Democrat","BOWLIN, BILL",12
+"Lawrence","OAKVALE","US Senator",NA,"Democrat","FLEMING, ERIK",9
+"Lawrence","OAKVALE","US Senator",NA,"Democrat","O'KEEFE, JAMES",4
+"Lawrence","OAKVALE","US Senator",NA,"Democrat","STARR, CATHERINE M.",2
+"Lawrence","OAKVALE-53","US Senator",NA,"Democrat","BOWLIN, BILL",1
+"Lawrence","OAKVALE-53","US Senator",NA,"Democrat","FLEMING, ERIK",0
+"Lawrence","OAKVALE-53","US Senator",NA,"Democrat","O'KEEFE, JAMES",0
+"Lawrence","OAKVALE-53","US Senator",NA,"Democrat","STARR, CATHERINE M.",0
+"Lawrence","OMA","US Senator",NA,"Democrat","BOWLIN, BILL",14
+"Lawrence","OMA","US Senator",NA,"Democrat","FLEMING, ERIK",29
+"Lawrence","OMA","US Senator",NA,"Democrat","O'KEEFE, JAMES",8
+"Lawrence","OMA","US Senator",NA,"Democrat","STARR, CATHERINE M.",6
+"Lawrence","PEYTON TOWN","US Senator",NA,"Democrat","BOWLIN, BILL",7
+"Lawrence","PEYTON TOWN","US Senator",NA,"Democrat","FLEMING, ERIK",19
+"Lawrence","PEYTON TOWN","US Senator",NA,"Democrat","O'KEEFE, JAMES",2
+"Lawrence","PEYTON TOWN","US Senator",NA,"Democrat","STARR, CATHERINE M.",8
+"Lawrence","PRECINCT 53","US Senator",NA,"Democrat","BOWLIN, BILL",3
+"Lawrence","PRECINCT 53","US Senator",NA,"Democrat","FLEMING, ERIK",1
+"Lawrence","PRECINCT 53","US Senator",NA,"Democrat","O'KEEFE, JAMES",1
+"Lawrence","PRECINCT 53","US Senator",NA,"Democrat","STARR, CATHERINE M.",4
+"Lawrence","PURGED VOTER","US Senator",NA,"Democrat","BOWLIN, BILL",0
+"Lawrence","PURGED VOTER","US Senator",NA,"Democrat","FLEMING, ERIK",0
+"Lawrence","PURGED VOTER","US Senator",NA,"Democrat","O'KEEFE, JAMES",0
+"Lawrence","PURGED VOTER","US Senator",NA,"Democrat","STARR, CATHERINE M.",0
+"Lawrence","SONTAG","US Senator",NA,"Democrat","BOWLIN, BILL",2
+"Lawrence","SONTAG","US Senator",NA,"Democrat","FLEMING, ERIK",3
+"Lawrence","SONTAG","US Senator",NA,"Democrat","O'KEEFE, JAMES",3
+"Lawrence","SONTAG","US Senator",NA,"Democrat","STARR, CATHERINE M.",1
+"Lawrence","SOUTH SILVER CREEK","US Senator",NA,"Democrat","BOWLIN, BILL",6
+"Lawrence","SOUTH SILVER CREEK","US Senator",NA,"Democrat","FLEMING, ERIK",11
+"Lawrence","SOUTH SILVER CREEK","US Senator",NA,"Democrat","O'KEEFE, JAMES",9
+"Lawrence","SOUTH SILVER CREEK","US Senator",NA,"Democrat","STARR, CATHERINE M.",3
+"Lawrence","STRINGER","US Senator",NA,"Democrat","BOWLIN, BILL",6
+"Lawrence","STRINGER","US Senator",NA,"Democrat","FLEMING, ERIK",13
+"Lawrence","STRINGER","US Senator",NA,"Democrat","O'KEEFE, JAMES",8
+"Lawrence","STRINGER","US Senator",NA,"Democrat","STARR, CATHERINE M.",3
+"Lawrence","TILTON","US Senator",NA,"Democrat","BOWLIN, BILL",3
+"Lawrence","TILTON","US Senator",NA,"Democrat","FLEMING, ERIK",0
+"Lawrence","TILTON","US Senator",NA,"Democrat","O'KEEFE, JAMES",2
+"Lawrence","TILTON","US Senator",NA,"Democrat","STARR, CATHERINE M.",1
+"Lawrence","TOPEKA","US Senator",NA,"Democrat","BOWLIN, BILL",6
+"Lawrence","TOPEKA","US Senator",NA,"Democrat","FLEMING, ERIK",0
+"Lawrence","TOPEKA","US Senator",NA,"Democrat","O'KEEFE, JAMES",2
+"Lawrence","TOPEKA","US Senator",NA,"Democrat","STARR, CATHERINE M.",1
+"Lawrence","WANILLA","US Senator",NA,"Democrat","BOWLIN, BILL",3
+"Lawrence","WANILLA","US Senator",NA,"Democrat","FLEMING, ERIK",1
+"Lawrence","WANILLA","US Senator",NA,"Democrat","O'KEEFE, JAMES",6
+"Lawrence","WANILLA","US Senator",NA,"Democrat","STARR, CATHERINE M.",2
+"Lawrence","WEST ARM","US Senator",NA,"Democrat","BOWLIN, BILL",3
+"Lawrence","WEST ARM","US Senator",NA,"Democrat","FLEMING, ERIK",19
+"Lawrence","WEST ARM","US Senator",NA,"Democrat","O'KEEFE, JAMES",5
+"Lawrence","WEST ARM","US Senator",NA,"Democrat","STARR, CATHERINE M.",6
+"Lawrence","WEST MONTICELLO (A-Z)","US Senator",NA,"Democrat","BOWLIN, BILL",10
+"Lawrence","WEST MONTICELLO (A-Z)","US Senator",NA,"Democrat","FLEMING, ERIK",20
+"Lawrence","WEST MONTICELLO (A-Z)","US Senator",NA,"Democrat","O'KEEFE, JAMES",8
+"Lawrence","WEST MONTICELLO (A-Z)","US Senator",NA,"Democrat","STARR, CATHERINE M.",8
+"Lawrence","WEST MONTICELLO 53","US Senator",NA,"Democrat","BOWLIN, BILL",0
+"Lawrence","WEST MONTICELLO 53","US Senator",NA,"Democrat","FLEMING, ERIK",0
+"Lawrence","WEST MONTICELLO 53","US Senator",NA,"Democrat","O'KEEFE, JAMES",0
+"Lawrence","WEST MONTICELLO 53","US Senator",NA,"Democrat","STARR, CATHERINE M.",1

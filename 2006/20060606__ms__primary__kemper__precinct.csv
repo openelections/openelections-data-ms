@@ -1,61 +1,61 @@
-"","county","precinct","office","district","party","candidate","votes"
-"1","Kemper","BAND BUILDING","US Senator",NA,"Democrat","BOWLIN, BILL",11
-"2","Kemper","BAND BUILDING","US Senator",NA,"Democrat","FLEMING, ERIK",2
-"3","Kemper","BAND BUILDING","US Senator",NA,"Democrat","O'KEEFE, JAMES",11
-"4","Kemper","BAND BUILDING","US Senator",NA,"Democrat","STARR, CATHERINE M.",5
-"5","Kemper","COURTHOUSE","US Senator",NA,"Democrat","BOWLIN, BILL",13
-"6","Kemper","COURTHOUSE","US Senator",NA,"Democrat","FLEMING, ERIK",17
-"7","Kemper","COURTHOUSE","US Senator",NA,"Democrat","O'KEEFE, JAMES",7
-"8","Kemper","COURTHOUSE","US Senator",NA,"Democrat","STARR, CATHERINE M.",10
-"9","Kemper","FARMERS MARKET","US Senator",NA,"Democrat","BOWLIN, BILL",0
-"10","Kemper","FARMERS MARKET","US Senator",NA,"Democrat","FLEMING, ERIK",1
-"11","Kemper","FARMERS MARKET","US Senator",NA,"Democrat","O'KEEFE, JAMES",0
-"12","Kemper","FARMERS MARKET","US Senator",NA,"Democrat","STARR, CATHERINE M.",1
-"13","Kemper","FORT STEVENS","US Senator",NA,"Democrat","BOWLIN, BILL",0
-"14","Kemper","FORT STEVENS","US Senator",NA,"Democrat","FLEMING, ERIK",2
-"15","Kemper","FORT STEVENS","US Senator",NA,"Democrat","O'KEEFE, JAMES",2
-"16","Kemper","FORT STEVENS","US Senator",NA,"Democrat","STARR, CATHERINE M.",0
-"17","Kemper","KELLIS STORE","US Senator",NA,"Democrat","BOWLIN, BILL",5
-"18","Kemper","KELLIS STORE","US Senator",NA,"Democrat","FLEMING, ERIK",3
-"19","Kemper","KELLIS STORE","US Senator",NA,"Democrat","O'KEEFE, JAMES",13
-"20","Kemper","KELLIS STORE","US Senator",NA,"Democrat","STARR, CATHERINE M.",2
-"21","Kemper","KEMPER SPRINGS","US Senator",NA,"Democrat","BOWLIN, BILL",1
-"22","Kemper","KEMPER SPRINGS","US Senator",NA,"Democrat","FLEMING, ERIK",12
-"23","Kemper","KEMPER SPRINGS","US Senator",NA,"Democrat","O'KEEFE, JAMES",2
-"24","Kemper","KEMPER SPRINGS","US Senator",NA,"Democrat","STARR, CATHERINE M.",2
-"25","Kemper","LYNVILLE","US Senator",NA,"Democrat","BOWLIN, BILL",11
-"26","Kemper","LYNVILLE","US Senator",NA,"Democrat","FLEMING, ERIK",12
-"27","Kemper","LYNVILLE","US Senator",NA,"Democrat","O'KEEFE, JAMES",8
-"28","Kemper","LYNVILLE","US Senator",NA,"Democrat","STARR, CATHERINE M.",8
-"29","Kemper","LYNWOOD","US Senator",NA,"Democrat","BOWLIN, BILL",7
-"30","Kemper","LYNWOOD","US Senator",NA,"Democrat","FLEMING, ERIK",25
-"31","Kemper","LYNWOOD","US Senator",NA,"Democrat","O'KEEFE, JAMES",10
-"32","Kemper","LYNWOOD","US Senator",NA,"Democrat","STARR, CATHERINE M.",4
-"33","Kemper","MOUNT NEBO","US Senator",NA,"Democrat","BOWLIN, BILL",6
-"34","Kemper","MOUNT NEBO","US Senator",NA,"Democrat","FLEMING, ERIK",14
-"35","Kemper","MOUNT NEBO","US Senator",NA,"Democrat","O'KEEFE, JAMES",12
-"36","Kemper","MOUNT NEBO","US Senator",NA,"Democrat","STARR, CATHERINE M.",6
-"37","Kemper","PORTERVILLE","US Senator",NA,"Democrat","BOWLIN, BILL",3
-"38","Kemper","PORTERVILLE","US Senator",NA,"Democrat","FLEMING, ERIK",6
-"39","Kemper","PORTERVILLE","US Senator",NA,"Democrat","O'KEEFE, JAMES",7
-"40","Kemper","PORTERVILLE","US Senator",NA,"Democrat","STARR, CATHERINE M.",5
-"41","Kemper","PRESTON","US Senator",NA,"Democrat","BOWLIN, BILL",13
-"42","Kemper","PRESTON","US Senator",NA,"Democrat","FLEMING, ERIK",37
-"43","Kemper","PRESTON","US Senator",NA,"Democrat","O'KEEFE, JAMES",13
-"44","Kemper","PRESTON","US Senator",NA,"Democrat","STARR, CATHERINE M.",3
-"45","Kemper","PURGED VOTER","US Senator",NA,"Democrat","BOWLIN, BILL",0
-"46","Kemper","PURGED VOTER","US Senator",NA,"Democrat","FLEMING, ERIK",0
-"47","Kemper","PURGED VOTER","US Senator",NA,"Democrat","O'KEEFE, JAMES",0
-"48","Kemper","PURGED VOTER","US Senator",NA,"Democrat","STARR, CATHERINE M.",0
-"49","Kemper","SATELLITE","US Senator",NA,"Democrat","BOWLIN, BILL",10
-"50","Kemper","SATELLITE","US Senator",NA,"Democrat","FLEMING, ERIK",32
-"51","Kemper","SATELLITE","US Senator",NA,"Democrat","O'KEEFE, JAMES",5
-"52","Kemper","SATELLITE","US Senator",NA,"Democrat","STARR, CATHERINE M.",4
-"53","Kemper","SCOOBA A-L","US Senator",NA,"Democrat","BOWLIN, BILL",4
-"54","Kemper","SCOOBA A-L","US Senator",NA,"Democrat","FLEMING, ERIK",6
-"55","Kemper","SCOOBA A-L","US Senator",NA,"Democrat","O'KEEFE, JAMES",11
-"56","Kemper","SCOOBA A-L","US Senator",NA,"Democrat","STARR, CATHERINE M.",1
-"57","Kemper","SCOOBA M-Z","US Senator",NA,"Democrat","BOWLIN, BILL",4
-"58","Kemper","SCOOBA M-Z","US Senator",NA,"Democrat","FLEMING, ERIK",3
-"59","Kemper","SCOOBA M-Z","US Senator",NA,"Democrat","O'KEEFE, JAMES",14
-"60","Kemper","SCOOBA M-Z","US Senator",NA,"Democrat","STARR, CATHERINE M.",2
+"county","precinct","office","district","party","candidate","votes"
+"Kemper","BAND BUILDING","US Senator",NA,"Democrat","BOWLIN, BILL",11
+"Kemper","BAND BUILDING","US Senator",NA,"Democrat","FLEMING, ERIK",2
+"Kemper","BAND BUILDING","US Senator",NA,"Democrat","O'KEEFE, JAMES",11
+"Kemper","BAND BUILDING","US Senator",NA,"Democrat","STARR, CATHERINE M.",5
+"Kemper","COURTHOUSE","US Senator",NA,"Democrat","BOWLIN, BILL",13
+"Kemper","COURTHOUSE","US Senator",NA,"Democrat","FLEMING, ERIK",17
+"Kemper","COURTHOUSE","US Senator",NA,"Democrat","O'KEEFE, JAMES",7
+"Kemper","COURTHOUSE","US Senator",NA,"Democrat","STARR, CATHERINE M.",10
+"Kemper","FARMERS MARKET","US Senator",NA,"Democrat","BOWLIN, BILL",0
+"Kemper","FARMERS MARKET","US Senator",NA,"Democrat","FLEMING, ERIK",1
+"Kemper","FARMERS MARKET","US Senator",NA,"Democrat","O'KEEFE, JAMES",0
+"Kemper","FARMERS MARKET","US Senator",NA,"Democrat","STARR, CATHERINE M.",1
+"Kemper","FORT STEVENS","US Senator",NA,"Democrat","BOWLIN, BILL",0
+"Kemper","FORT STEVENS","US Senator",NA,"Democrat","FLEMING, ERIK",2
+"Kemper","FORT STEVENS","US Senator",NA,"Democrat","O'KEEFE, JAMES",2
+"Kemper","FORT STEVENS","US Senator",NA,"Democrat","STARR, CATHERINE M.",0
+"Kemper","KELLIS STORE","US Senator",NA,"Democrat","BOWLIN, BILL",5
+"Kemper","KELLIS STORE","US Senator",NA,"Democrat","FLEMING, ERIK",3
+"Kemper","KELLIS STORE","US Senator",NA,"Democrat","O'KEEFE, JAMES",13
+"Kemper","KELLIS STORE","US Senator",NA,"Democrat","STARR, CATHERINE M.",2
+"Kemper","KEMPER SPRINGS","US Senator",NA,"Democrat","BOWLIN, BILL",1
+"Kemper","KEMPER SPRINGS","US Senator",NA,"Democrat","FLEMING, ERIK",12
+"Kemper","KEMPER SPRINGS","US Senator",NA,"Democrat","O'KEEFE, JAMES",2
+"Kemper","KEMPER SPRINGS","US Senator",NA,"Democrat","STARR, CATHERINE M.",2
+"Kemper","LYNVILLE","US Senator",NA,"Democrat","BOWLIN, BILL",11
+"Kemper","LYNVILLE","US Senator",NA,"Democrat","FLEMING, ERIK",12
+"Kemper","LYNVILLE","US Senator",NA,"Democrat","O'KEEFE, JAMES",8
+"Kemper","LYNVILLE","US Senator",NA,"Democrat","STARR, CATHERINE M.",8
+"Kemper","LYNWOOD","US Senator",NA,"Democrat","BOWLIN, BILL",7
+"Kemper","LYNWOOD","US Senator",NA,"Democrat","FLEMING, ERIK",25
+"Kemper","LYNWOOD","US Senator",NA,"Democrat","O'KEEFE, JAMES",10
+"Kemper","LYNWOOD","US Senator",NA,"Democrat","STARR, CATHERINE M.",4
+"Kemper","MOUNT NEBO","US Senator",NA,"Democrat","BOWLIN, BILL",6
+"Kemper","MOUNT NEBO","US Senator",NA,"Democrat","FLEMING, ERIK",14
+"Kemper","MOUNT NEBO","US Senator",NA,"Democrat","O'KEEFE, JAMES",12
+"Kemper","MOUNT NEBO","US Senator",NA,"Democrat","STARR, CATHERINE M.",6
+"Kemper","PORTERVILLE","US Senator",NA,"Democrat","BOWLIN, BILL",3
+"Kemper","PORTERVILLE","US Senator",NA,"Democrat","FLEMING, ERIK",6
+"Kemper","PORTERVILLE","US Senator",NA,"Democrat","O'KEEFE, JAMES",7
+"Kemper","PORTERVILLE","US Senator",NA,"Democrat","STARR, CATHERINE M.",5
+"Kemper","PRESTON","US Senator",NA,"Democrat","BOWLIN, BILL",13
+"Kemper","PRESTON","US Senator",NA,"Democrat","FLEMING, ERIK",37
+"Kemper","PRESTON","US Senator",NA,"Democrat","O'KEEFE, JAMES",13
+"Kemper","PRESTON","US Senator",NA,"Democrat","STARR, CATHERINE M.",3
+"Kemper","PURGED VOTER","US Senator",NA,"Democrat","BOWLIN, BILL",0
+"Kemper","PURGED VOTER","US Senator",NA,"Democrat","FLEMING, ERIK",0
+"Kemper","PURGED VOTER","US Senator",NA,"Democrat","O'KEEFE, JAMES",0
+"Kemper","PURGED VOTER","US Senator",NA,"Democrat","STARR, CATHERINE M.",0
+"Kemper","SATELLITE","US Senator",NA,"Democrat","BOWLIN, BILL",10
+"Kemper","SATELLITE","US Senator",NA,"Democrat","FLEMING, ERIK",32
+"Kemper","SATELLITE","US Senator",NA,"Democrat","O'KEEFE, JAMES",5
+"Kemper","SATELLITE","US Senator",NA,"Democrat","STARR, CATHERINE M.",4
+"Kemper","SCOOBA A-L","US Senator",NA,"Democrat","BOWLIN, BILL",4
+"Kemper","SCOOBA A-L","US Senator",NA,"Democrat","FLEMING, ERIK",6
+"Kemper","SCOOBA A-L","US Senator",NA,"Democrat","O'KEEFE, JAMES",11
+"Kemper","SCOOBA A-L","US Senator",NA,"Democrat","STARR, CATHERINE M.",1
+"Kemper","SCOOBA M-Z","US Senator",NA,"Democrat","BOWLIN, BILL",4
+"Kemper","SCOOBA M-Z","US Senator",NA,"Democrat","FLEMING, ERIK",3
+"Kemper","SCOOBA M-Z","US Senator",NA,"Democrat","O'KEEFE, JAMES",14
+"Kemper","SCOOBA M-Z","US Senator",NA,"Democrat","STARR, CATHERINE M.",2
