@@ -1,8 +1,8 @@
 county,precinct,office,district,candidate,party,votes
 Adams,"Dist. 1, Bellemont Precinct",U.S. Senate,,Richard Warren Boyanton,R,87
 Adams,"Dist. 1, Bellemont Precinct",U.S. Senate,,Roger F. Wicker,R,409
-Adams,"Dist. 1, By-Pass Fire Precinct ",U.S. Senate,,Richard Warren Boyanton,R,12
-Adams,"Dist. 1, By-Pass Fire Precinct ",U.S. Senate,,Roger F. Wicker,R,51
+Adams,"Dist. 1, By-Pass Fire Precinct",U.S. Senate,,Richard Warren Boyanton,R,12
+Adams,"Dist. 1, By-Pass Fire Precinct",U.S. Senate,,Roger F. Wicker,R,51
 Adams,"Dist. 1, Courthouse Precinct",U.S. Senate,,Richard Warren Boyanton,R,14
 Adams,"Dist. 1, Courthouse Precinct",U.S. Senate,,Roger F. Wicker,R,155
 Adams,"Dist. 2, Beau Pre Precinct",U.S. Senate,,Richard Warren Boyanton,R,34
@@ -45,12 +45,12 @@ Adams,"Dist. 1, Bellemont Precinct",U.S. House,03,Michael Guest,R,101
 Adams,"Dist. 1, Bellemont Precinct",U.S. House,03,Whit Hughes,R,241
 Adams,"Dist. 1, Bellemont Precinct",U.S. House,03,Perry Parker,R,75
 Adams,"Dist. 1, Bellemont Precinct",U.S. House,03,Katherine 'Bitzi' Tate,R,7
-Adams,"Dist. 1, By-Pass Fire Precinct ",U.S. House,03,Sally Doty,R,10
-Adams,"Dist. 1, By-Pass Fire Precinct ",U.S. House,03,Morgan Dunn,R,11
-Adams,"Dist. 1, By-Pass Fire Precinct ",U.S. House,03,Michael Guest,R,17
-Adams,"Dist. 1, By-Pass Fire Precinct ",U.S. House,03,Whit Hughes,R,18
-Adams,"Dist. 1, By-Pass Fire Precinct ",U.S. House,03,Perry Parker,R,7
-Adams,"Dist. 1, By-Pass Fire Precinct ",U.S. House,03,Katherine 'Bitzi' Tate,R,0
+Adams,"Dist. 1, By-Pass Fire Precinct",U.S. House,03,Sally Doty,R,10
+Adams,"Dist. 1, By-Pass Fire Precinct",U.S. House,03,Morgan Dunn,R,11
+Adams,"Dist. 1, By-Pass Fire Precinct",U.S. House,03,Michael Guest,R,17
+Adams,"Dist. 1, By-Pass Fire Precinct",U.S. House,03,Whit Hughes,R,18
+Adams,"Dist. 1, By-Pass Fire Precinct",U.S. House,03,Perry Parker,R,7
+Adams,"Dist. 1, By-Pass Fire Precinct",U.S. House,03,Katherine 'Bitzi' Tate,R,0
 Adams,"Dist. 1, Courthouse Precinct",U.S. House,03,Sally Doty,R,21
 Adams,"Dist. 1, Courthouse Precinct",U.S. House,03,Morgan Dunn,R,6
 Adams,"Dist. 1, Courthouse Precinct",U.S. House,03,Michael Guest,R,33
@@ -165,12 +165,12 @@ Adams,"Dist. 1, Bellemont Precinct",U.S. Senate,,Jerone Garland,D,4
 Adams,"Dist. 1, Bellemont Precinct",U.S. Senate,,Victor G. Maurice Jr.,D,5
 Adams,"Dist. 1, Bellemont Precinct",U.S. Senate,,Omeria Scott,D,53
 Adams,"Dist. 1, Bellemont Precinct",U.S. Senate,,Howard Sherman,D,31
-Adams,"Dist. 1, By-Pass Fire Precinct ",U.S. Senate,,David Baria,D,12
-Adams,"Dist. 1, By-Pass Fire Precinct ",U.S. Senate,,Jensen Bohren,D,2
-Adams,"Dist. 1, By-Pass Fire Precinct ",U.S. Senate,,Jerone Garland,D,4
-Adams,"Dist. 1, By-Pass Fire Precinct ",U.S. Senate,,Victor G. Maurice Jr.,D,7
-Adams,"Dist. 1, By-Pass Fire Precinct ",U.S. Senate,,Omeria Scott,D,75
-Adams,"Dist. 1, By-Pass Fire Precinct ",U.S. Senate,,Howard Sherman,D,42
+Adams,"Dist. 1, By-Pass Fire Precinct",U.S. Senate,,David Baria,D,12
+Adams,"Dist. 1, By-Pass Fire Precinct",U.S. Senate,,Jensen Bohren,D,2
+Adams,"Dist. 1, By-Pass Fire Precinct",U.S. Senate,,Jerone Garland,D,4
+Adams,"Dist. 1, By-Pass Fire Precinct",U.S. Senate,,Victor G. Maurice Jr.,D,7
+Adams,"Dist. 1, By-Pass Fire Precinct",U.S. Senate,,Omeria Scott,D,75
+Adams,"Dist. 1, By-Pass Fire Precinct",U.S. Senate,,Howard Sherman,D,42
 Adams,"Dist. 1, Courthouse Precinct",U.S. Senate,,David Baria,D,66
 Adams,"Dist. 1, Courthouse Precinct",U.S. Senate,,Jensen Bohren,D,1
 Adams,"Dist. 1, Courthouse Precinct",U.S. Senate,,Jerone Garland,D,1
@@ -281,8 +281,8 @@ Adams,TOTAL,U.S. Senate,,Omeria Scott,D,970
 Adams,TOTAL,U.S. Senate,,Howard Sherman,D,554
 Adams,"Dist. 1, Bellemont Precinct",U.S. House,03,Michael Aycox,D,46
 Adams,"Dist. 1, Bellemont Precinct",U.S. House,03,Michael Ted Evans,D,78
-Adams,"Dist. 1, By-Pass Fire Precinct ",U.S. House,03,Michael Aycox,D,27
-Adams,"Dist. 1, By-Pass Fire Precinct ",U.S. House,03,Michael Ted Evans,D,102
+Adams,"Dist. 1, By-Pass Fire Precinct",U.S. House,03,Michael Aycox,D,27
+Adams,"Dist. 1, By-Pass Fire Precinct",U.S. House,03,Michael Ted Evans,D,102
 Adams,"Dist. 1, Courthouse Precinct",U.S. House,03,Michael Aycox,D,62
 Adams,"Dist. 1, Courthouse Precinct",U.S. House,03,Michael Ted Evans,D,25
 Adams,"Dist. 2, Beau Pre Precinct",U.S. House,03,Michael Aycox,D,12

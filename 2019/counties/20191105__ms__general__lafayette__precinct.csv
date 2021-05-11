@@ -21,7 +21,7 @@ Trey Lamar,State House,8,R,Lafayette,Abbeville,X
 Bobby E Dailey,State House,10,D,Lafayette,Abbeville,X
 Brady Williamson,State House,10,R,Lafayette,Abbeville,X
 Josh Hawkins,State House,10,IND,Lafayette,Abbeville,X
-Clay Deweese ,State House,12,R,Lafayette,Abbeville,X
+Clay Deweese,State House,12,R,Lafayette,Abbeville,X
 Tiffany Kilpatrick,State House,12,D,Lafayette,Abbeville,X
 Pamela J Denham,State House,13,D,Lafayette,Abbeville,43
 Steve Massengill,State House,13,R,Lafayette,Abbeville,219
@@ -48,7 +48,7 @@ Trey Lamar,State House,8,R,Lafayette,Airport Grocery,X
 Bobby E Dailey,State House,10,D,Lafayette,Airport Grocery,91
 Brady Williamson,State House,10,R,Lafayette,Airport Grocery,280
 Josh Hawkins,State House,10,IND,Lafayette,Airport Grocery,46
-Clay Deweese ,State House,12,R,Lafayette,Airport Grocery,X
+Clay Deweese,State House,12,R,Lafayette,Airport Grocery,X
 Tiffany Kilpatrick,State House,12,D,Lafayette,Airport Grocery,X
 Pamela J Denham,State House,13,D,Lafayette,Airport Grocery,X
 Steve Massengill,State House,13,R,Lafayette,Airport Grocery,X
@@ -75,7 +75,7 @@ Trey Lamar,State House,8,R,Lafayette,Anchor-Taylor 4,X
 Bobby E Dailey,State House,10,D,Lafayette,Anchor-Taylor 4,57
 Brady Williamson,State House,10,R,Lafayette,Anchor-Taylor 4,314
 Josh Hawkins,State House,10,IND,Lafayette,Anchor-Taylor 4,30
-Clay Deweese ,State House,12,R,Lafayette,Anchor-Taylor 4,X
+Clay Deweese,State House,12,R,Lafayette,Anchor-Taylor 4,X
 Tiffany Kilpatrick,State House,12,D,Lafayette,Anchor-Taylor 4,X
 Pamela J Denham,State House,13,D,Lafayette,Anchor-Taylor 4,X
 Steve Massengill,State House,13,R,Lafayette,Anchor-Taylor 4,X
@@ -102,7 +102,7 @@ Trey Lamar,State House,8,R,Lafayette,Burgess,X
 Bobby E Dailey,State House,10,D,Lafayette,Burgess,75
 Brady Williamson,State House,10,R,Lafayette,Burgess,226
 Josh Hawkins,State House,10,IND,Lafayette,Burgess,43
-Clay Deweese ,State House,12,R,Lafayette,Burgess,X
+Clay Deweese,State House,12,R,Lafayette,Burgess,X
 Tiffany Kilpatrick,State House,12,D,Lafayette,Burgess,X
 Pamela J Denham,State House,13,D,Lafayette,Burgess,X
 Steve Massengill,State House,13,R,Lafayette,Burgess,X
@@ -129,7 +129,7 @@ Trey Lamar,State House,8,R,Lafayette,College Hill,X
 Bobby E Dailey,State House,10,D,Lafayette,College Hill,465
 Brady Williamson,State House,10,R,Lafayette,College Hill,708
 Josh Hawkins,State House,10,IND,Lafayette,College Hill,86
-Clay Deweese ,State House,12,R,Lafayette,College Hill,X
+Clay Deweese,State House,12,R,Lafayette,College Hill,X
 Tiffany Kilpatrick,State House,12,D,Lafayette,College Hill,X
 Pamela J Denham,State House,13,D,Lafayette,College Hill,X
 Steve Massengill,State House,13,R,Lafayette,College Hill,X
@@ -156,7 +156,7 @@ Trey Lamar,State House,8,R,Lafayette,Denmark-Laf Springs-Pine Bluff,X
 Bobby E Dailey,State House,10,D,Lafayette,Denmark-Laf Springs-Pine Bluff,X
 Brady Williamson,State House,10,R,Lafayette,Denmark-Laf Springs-Pine Bluff,X
 Josh Hawkins,State House,10,IND,Lafayette,Denmark-Laf Springs-Pine Bluff,X
-Clay Deweese ,State House,12,R,Lafayette,Denmark-Laf Springs-Pine Bluff,X
+Clay Deweese,State House,12,R,Lafayette,Denmark-Laf Springs-Pine Bluff,X
 Tiffany Kilpatrick,State House,12,D,Lafayette,Denmark-Laf Springs-Pine Bluff,X
 Pamela J Denham,State House,13,D,Lafayette,Denmark-Laf Springs-Pine Bluff,72
 Steve Massengill,State House,13,R,Lafayette,Denmark-Laf Springs-Pine Bluff,340
@@ -183,7 +183,7 @@ Trey Lamar,State House,8,R,Lafayette,Harmontown,274
 Bobby E Dailey,State House,10,D,Lafayette,Harmontown,X
 Brady Williamson,State House,10,R,Lafayette,Harmontown,X
 Josh Hawkins,State House,10,IND,Lafayette,Harmontown,X
-Clay Deweese ,State House,12,R,Lafayette,Harmontown,X
+Clay Deweese,State House,12,R,Lafayette,Harmontown,X
 Tiffany Kilpatrick,State House,12,D,Lafayette,Harmontown,X
 Pamela J Denham,State House,13,D,Lafayette,Harmontown,X
 Steve Massengill,State House,13,R,Lafayette,Harmontown,X
@@ -210,7 +210,7 @@ Trey Lamar,State House,8,R,Lafayette,Oxford 1,X
 Bobby E Dailey,State House,10,D,Lafayette,Oxford 1,X
 Brady Williamson,State House,10,R,Lafayette,Oxford 1,X
 Josh Hawkins,State House,10,IND,Lafayette,Oxford 1,X
-Clay Deweese ,State House,12,R,Lafayette,Oxford 1,564
+Clay Deweese,State House,12,R,Lafayette,Oxford 1,564
 Tiffany Kilpatrick,State House,12,D,Lafayette,Oxford 1,390
 Pamela J Denham,State House,13,D,Lafayette,Oxford 1,383
 Steve Massengill,State House,13,R,Lafayette,Oxford 1,638
@@ -237,7 +237,7 @@ Trey Lamar,State House,8,R,Lafayette,Oxford 2,X
 Bobby E Dailey,State House,10,D,Lafayette,Oxford 2,X
 Brady Williamson,State House,10,R,Lafayette,Oxford 2,X
 Josh Hawkins,State House,10,IND,Lafayette,Oxford 2,X
-Clay Deweese ,State House,12,R,Lafayette,Oxford 2,815
+Clay Deweese,State House,12,R,Lafayette,Oxford 2,815
 Tiffany Kilpatrick,State House,12,D,Lafayette,Oxford 2,757
 Pamela J Denham,State House,13,D,Lafayette,Oxford 2,848
 Steve Massengill,State House,13,R,Lafayette,Oxford 2,983
@@ -264,7 +264,7 @@ Trey Lamar,State House,8,R,Lafayette,Oxford 3,X
 Bobby E Dailey,State House,10,D,Lafayette,Oxford 3,10
 Brady Williamson,State House,10,R,Lafayette,Oxford 3,37
 Josh Hawkins,State House,10,IND,Lafayette,Oxford 3,3
-Clay Deweese ,State House,12,R,Lafayette,Oxford 3,633
+Clay Deweese,State House,12,R,Lafayette,Oxford 3,633
 Tiffany Kilpatrick,State House,12,D,Lafayette,Oxford 3,793
 Pamela J Denham,State House,13,D,Lafayette,Oxford 3,X
 Steve Massengill,State House,13,R,Lafayette,Oxford 3,X
@@ -291,7 +291,7 @@ Trey Lamar,State House,8,R,Lafayette,Oxford 4,X
 Bobby E Dailey,State House,10,D,Lafayette,Oxford 4,288
 Brady Williamson,State House,10,R,Lafayette,Oxford 4,311
 Josh Hawkins,State House,10,IND,Lafayette,Oxford 4,52
-Clay Deweese ,State House,12,R,Lafayette,Oxford 4,681
+Clay Deweese,State House,12,R,Lafayette,Oxford 4,681
 Tiffany Kilpatrick,State House,12,D,Lafayette,Oxford 4,586
 Pamela J Denham,State House,13,D,Lafayette,Oxford 4,9
 Steve Massengill,State House,13,R,Lafayette,Oxford 4,17
@@ -318,7 +318,7 @@ Trey Lamar,State House,8,R,Lafayette,Oxford 5,X
 Bobby E Dailey,State House,10,D,Lafayette,Oxford 5,27
 Brady Williamson,State House,10,R,Lafayette,Oxford 5,30
 Josh Hawkins,State House,10,IND,Lafayette,Oxford 5,7
-Clay Deweese ,State House,12,R,Lafayette,Oxford 5,381
+Clay Deweese,State House,12,R,Lafayette,Oxford 5,381
 Tiffany Kilpatrick,State House,12,D,Lafayette,Oxford 5,394
 Pamela J Denham,State House,13,D,Lafayette,Oxford 5,29
 Steve Massengill,State House,13,R,Lafayette,Oxford 5,39
@@ -345,7 +345,7 @@ Trey Lamar,State House,8,R,Lafayette,Paris,X
 Bobby E Dailey,State House,10,D,Lafayette,Paris,X
 Brady Williamson,State House,10,R,Lafayette,Paris,X
 Josh Hawkins,State House,10,IND,Lafayette,Paris,X
-Clay Deweese ,State House,12,R,Lafayette,Paris,X
+Clay Deweese,State House,12,R,Lafayette,Paris,X
 Tiffany Kilpatrick,State House,12,D,Lafayette,Paris,X
 Pamela J Denham,State House,13,D,Lafayette,Paris,X
 Steve Massengill,State House,13,R,Lafayette,Paris,X
@@ -372,7 +372,7 @@ Trey Lamar,State House,8,R,Lafayette,Philadelphia,X
 Bobby E Dailey,State House,10,D,Lafayette,Philadelphia,X
 Brady Williamson,State House,10,R,Lafayette,Philadelphia,X
 Josh Hawkins,State House,10,IND,Lafayette,Philadelphia,X
-Clay Deweese ,State House,12,R,Lafayette,Philadelphia,X
+Clay Deweese,State House,12,R,Lafayette,Philadelphia,X
 Tiffany Kilpatrick,State House,12,D,Lafayette,Philadelphia,X
 Pamela J Denham,State House,13,D,Lafayette,Philadelphia,74
 Steve Massengill,State House,13,R,Lafayette,Philadelphia,90
@@ -399,7 +399,7 @@ Trey Lamar,State House,8,R,Lafayette,Taylor 3,X
 Bobby E Dailey,State House,10,D,Lafayette,Taylor 3,251
 Brady Williamson,State House,10,R,Lafayette,Taylor 3,141
 Josh Hawkins,State House,10,IND,Lafayette,Taylor 3,31
-Clay Deweese ,State House,12,R,Lafayette,Taylor 3,X
+Clay Deweese,State House,12,R,Lafayette,Taylor 3,X
 Tiffany Kilpatrick,State House,12,D,Lafayette,Taylor 3,X
 Pamela J Denham,State House,13,D,Lafayette,Taylor 3,X
 Steve Massengill,State House,13,R,Lafayette,Taylor 3,X
@@ -426,7 +426,7 @@ Trey Lamar,State House,8,R,Lafayette,Tula,X
 Bobby E Dailey,State House,10,D,Lafayette,Tula,X
 Brady Williamson,State House,10,R,Lafayette,Tula,X
 Josh Hawkins,State House,10,IND,Lafayette,Tula,X
-Clay Deweese ,State House,12,R,Lafayette,Tula,X
+Clay Deweese,State House,12,R,Lafayette,Tula,X
 Tiffany Kilpatrick,State House,12,D,Lafayette,Tula,X
 Pamela J Denham,State House,13,D,Lafayette,Tula,27
 Steve Massengill,State House,13,R,Lafayette,Tula,119
@@ -453,7 +453,7 @@ Trey Lamar,State House,8,R,Lafayette,Union West 4,X
 Bobby E Dailey,State House,10,D,Lafayette,Union West 4,64
 Brady Williamson,State House,10,R,Lafayette,Union West 4,125
 Josh Hawkins,State House,10,IND,Lafayette,Union West 4,26
-Clay Deweese ,State House,12,R,Lafayette,Union West 4,X
+Clay Deweese,State House,12,R,Lafayette,Union West 4,X
 Tiffany Kilpatrick,State House,12,D,Lafayette,Union West 4,X
 Pamela J Denham,State House,13,D,Lafayette,Union West 4,X
 Steve Massengill,State House,13,R,Lafayette,Union West 4,X
@@ -480,38 +480,38 @@ Trey Lamar,State House,8,R,Lafayette,Yocona Community,X
 Bobby E Dailey,State House,10,D,Lafayette,Yocona Community,X
 Brady Williamson,State House,10,R,Lafayette,Yocona Community,X
 Josh Hawkins,State House,10,IND,Lafayette,Yocona Community,X
-Clay Deweese ,State House,12,R,Lafayette,Yocona Community,X
+Clay Deweese,State House,12,R,Lafayette,Yocona Community,X
 Tiffany Kilpatrick,State House,12,D,Lafayette,Yocona Community,X
 Pamela J Denham,State House,13,D,Lafayette,Yocona Community,83
 Steve Massengill,State House,13,R,Lafayette,Yocona Community,365
 Charles Jim Beckett,State House,23,R,Lafayette,Yocona Community,X
-Jim Hood,Governor,,D,Lafayette,TOTAL ,8162
-Tate Reeves,Governor,,R,Lafayette,TOTAL ,7122
-Bob Hickingbottom,Governor,,C,Lafayette,TOTAL ,56
-David R Singletary,Governor,,IND,Lafayette,TOTAL ,151
-Delbert Hosemann,Lieutenant Governor,,R,Lafayette,TOTAL ,7318
-Jay Hughes,Lieutenant Governor,,D,Lafayette,TOTAL ,8122
-Johnny DuPree,Secretary of State,,D,Lafayette,TOTAL ,6526
-Michael Watson,Secretary of State,,R,Lafayette,TOTAL ,8559
-Jennifer Riley Collins,Attorney General,,D,Lafayette,TOTAL ,6535
-Lynn Fitch,Attorney General,,R,Lafayette,TOTAL ,8783
-Shad White,State Auditor,,R,Lafayette,TOTAL ,11656
-Addie Lee Green,State Treasurer,,D,Lafayette,TOTAL ,6096
-David McRae,State Treasurer,,R,Lafayette,TOTAL ,9034
-Rickey L Cole,Commissioner of Agriculture & Commerce,,D,Lafayette,TOTAL ,6429
-Andy Gipson,Commissioner of Agriculture & Commerce,,R,Lafayette,TOTAL ,8651
-Nicole Akins Boyd,State Senate,9,R,Lafayette,TOTAL ,8557
-Kevin W Frye,State Senate,9,D,Lafayette,TOTAL ,6855
-John Faulkner,State House,5,D,Lafayette,TOTAL ,419
-Trey Lamar,State House,8,R,Lafayette,TOTAL ,274
-Bobby E Dailey,State House,10,D,Lafayette,TOTAL ,1328
-Brady Williamson,State House,10,R,Lafayette,TOTAL ,2172
-Josh Hawkins,State House,10,IND,Lafayette,TOTAL ,324
-Clay Deweese ,State House,12,R,Lafayette,TOTAL ,3074
-Tiffany Kilpatrick,State House,12,D,Lafayette,TOTAL ,2920
-Pamela J Denham,State House,13,D,Lafayette,TOTAL ,1568
-Steve Massengill,State House,13,R,Lafayette,TOTAL ,2810
-Charles Jim Beckett,State House,23,R,Lafayette,TOTAL ,267
+Jim Hood,Governor,,D,Lafayette,TOTAL,8162
+Tate Reeves,Governor,,R,Lafayette,TOTAL,7122
+Bob Hickingbottom,Governor,,C,Lafayette,TOTAL,56
+David R Singletary,Governor,,IND,Lafayette,TOTAL,151
+Delbert Hosemann,Lieutenant Governor,,R,Lafayette,TOTAL,7318
+Jay Hughes,Lieutenant Governor,,D,Lafayette,TOTAL,8122
+Johnny DuPree,Secretary of State,,D,Lafayette,TOTAL,6526
+Michael Watson,Secretary of State,,R,Lafayette,TOTAL,8559
+Jennifer Riley Collins,Attorney General,,D,Lafayette,TOTAL,6535
+Lynn Fitch,Attorney General,,R,Lafayette,TOTAL,8783
+Shad White,State Auditor,,R,Lafayette,TOTAL,11656
+Addie Lee Green,State Treasurer,,D,Lafayette,TOTAL,6096
+David McRae,State Treasurer,,R,Lafayette,TOTAL,9034
+Rickey L Cole,Commissioner of Agriculture & Commerce,,D,Lafayette,TOTAL,6429
+Andy Gipson,Commissioner of Agriculture & Commerce,,R,Lafayette,TOTAL,8651
+Nicole Akins Boyd,State Senate,9,R,Lafayette,TOTAL,8557
+Kevin W Frye,State Senate,9,D,Lafayette,TOTAL,6855
+John Faulkner,State House,5,D,Lafayette,TOTAL,419
+Trey Lamar,State House,8,R,Lafayette,TOTAL,274
+Bobby E Dailey,State House,10,D,Lafayette,TOTAL,1328
+Brady Williamson,State House,10,R,Lafayette,TOTAL,2172
+Josh Hawkins,State House,10,IND,Lafayette,TOTAL,324
+Clay Deweese,State House,12,R,Lafayette,TOTAL,3074
+Tiffany Kilpatrick,State House,12,D,Lafayette,TOTAL,2920
+Pamela J Denham,State House,13,D,Lafayette,TOTAL,1568
+Steve Massengill,State House,13,R,Lafayette,TOTAL,2810
+Charles Jim Beckett,State House,23,R,Lafayette,TOTAL,267
 Robert E. Amos,Commissioner of Insurance,,D,Lafayette,Abbeville,409
 Mike Chaney,Commissioner of Insurance,,R,Lafayette,Abbeville,318
 Robert E. Amos,Commissioner of Insurance,,D,Lafayette,Airport Grocery,101
@@ -548,5 +548,5 @@ Robert E. Amos,Commissioner of Insurance,,D,Lafayette,Union West 4,63
 Mike Chaney,Commissioner of Insurance,,R,Lafayette,Union West 4,152
 Robert E. Amos,Commissioner of Insurance,,D,Lafayette,Yocona Community,65
 Mike Chaney,Commissioner of Insurance,,R,Lafayette,Yocona Community,384
-Robert E. Amos,Commissioner of Insurance,,D,Lafayette,TOTAL ,5892
-Mike Chaney,Commissioner of Insurance,,R,Lafayette,TOTAL ,9228
+Robert E. Amos,Commissioner of Insurance,,D,Lafayette,TOTAL,5892
+Mike Chaney,Commissioner of Insurance,,R,Lafayette,TOTAL,9228
