@@ -437,8 +437,6 @@ Tippah,Walnut,State Senate,02,Republican,Michael Cobb,196
 Tippah,Chalybeate,State Senate,02,Republican,Michael Cobb,180
 Tippah,Tiplersville,State Senate,02,Republican,Michael Cobb,81
 Tippah,North Falkner,State Senate,02,Republican,Michael Cobb,63
-Tippah,Falkner,State Senate,02,Republican,Michael Cobb,x
-Tippah,North Ripley,State Senate,02,Republican,Michael Cobb,x
 Tippah,Blue Mountain,State Senate,02,Republican,Michael Cobb,217
 Tippah,Cotton Plant,State Senate,02,Republican,Michael Cobb,33
 Tippah,New Hope,State Senate,02,Republican,Michael Cobb,87
@@ -449,20 +447,13 @@ Tippah,Mitchell,State Senate,02,Republican,Michael Cobb,70
 Tippah,Pine Grove,State Senate,02,Republican,Michael Cobb,84
 Tippah,Dumas,State Senate,02,Republican,Michael Cobb,159
 Tippah,Dry Creek,State Senate,02,Republican,Michael Cobb,98
-Tippah,Southwest Ripley,State Senate,02,Republican,Michael Cobb,x
-Tippah,Chapman,State Senate,02,Republican,Michael Cobb,x
-Tippah,Spout Springs,State Senate,02,Republican,Michael Cobb,x
-Tippah,Peoples,State Senate,02,Republican,Michael Cobb,x
 Tippah,Providence,State Senate,02,Republican,Michael Cobb,48
-Tippah,Ripley,State Senate,02,Republican,Michael Cobb,x
 Tippah,Threeforks,State Senate,02,Democrat,Bill Stone,90
 Tippah,Brownfield,State Senate,02,Democrat,Bill Stone,44
 Tippah,Walnut,State Senate,02,Democrat,Bill Stone,166
 Tippah,Chalybeate,State Senate,02,Democrat,Bill Stone,229
 Tippah,Tiplersville,State Senate,02,Democrat,Bill Stone,118
 Tippah,North Falkner,State Senate,02,Democrat,Bill Stone,77
-Tippah,Falkner,State Senate,02,Democrat,Bill Stone,x
-Tippah,North Ripley,State Senate,02,Democrat,Bill Stone,x
 Tippah,Blue Mountain,State Senate,02,Democrat,Bill Stone,413
 Tippah,Cotton Plant,State Senate,02,Democrat,Bill Stone,101
 Tippah,New Hope,State Senate,02,Democrat,Bill Stone,166
@@ -473,108 +464,71 @@ Tippah,Mitchell,State Senate,02,Democrat,Bill Stone,88
 Tippah,Pine Grove,State Senate,02,Democrat,Bill Stone,87
 Tippah,Dumas,State Senate,02,Democrat,Bill Stone,236
 Tippah,Dry Creek,State Senate,02,Democrat,Bill Stone,95
-Tippah,Southwest Ripley,State Senate,02,Democrat,Bill Stone,x
-Tippah,Chapman,State Senate,02,Democrat,Bill Stone,x
-Tippah,Spout Springs,State Senate,02,Democrat,Bill Stone,x
-Tippah,Peoples,State Senate,02,Democrat,Bill Stone,x
 Tippah,Providence,State Senate,02,Democrat,Bill Stone,47
-Tippah,Ripley,State Senate,02,Democrat,Bill Stone,x
-Tippah,Threeforks,State Senate,04,Republican,Rita Potts Parks,x
-Tippah,Brownfield,State Senate,04,Republican,Rita Potts Parks,x
-Tippah,Walnut,State Senate,04,Republican,Rita Potts Parks,x
-Tippah,Chalybeate,State Senate,04,Republican,Rita Potts Parks,x
-Tippah,Tiplersville,State Senate,04,Republican,Rita Potts Parks,x
-Tippah,North Falkner,State Senate,04,Republican,Rita Potts Parks,x
 Tippah,Falkner,State Senate,04,Republican,Rita Potts Parks,299
 Tippah,North Ripley,State Senate,04,Republican,Rita Potts Parks,455
-Tippah,Blue Mountain,State Senate,04,Republican,Rita Potts Parks,x
-Tippah,Cotton Plant,State Senate,04,Republican,Rita Potts Parks,x
-Tippah,New Hope,State Senate,04,Republican,Rita Potts Parks,x
-Tippah,Clarysville,State Senate,04,Republican,Rita Potts Parks,x
-Tippah,Palmer,State Senate,04,Republican,Rita Potts Parks,x
-Tippah,Shady Grove,State Senate,04,Republican,Rita Potts Parks,x
-Tippah,Mitchell,State Senate,04,Republican,Rita Potts Parks,x
-Tippah,Pine Grove,State Senate,04,Republican,Rita Potts Parks,x
-Tippah,Dumas,State Senate,04,Republican,Rita Potts Parks,x
-Tippah,Dry Creek,State Senate,04,Republican,Rita Potts Parks,x
 Tippah,Southwest Ripley,State Senate,04,Republican,Rita Potts Parks,350
 Tippah,Chapman,State Senate,04,Republican,Rita Potts Parks,213
 Tippah,Spout Springs,State Senate,04,Republican,Rita Potts Parks,76
 Tippah,Peoples,State Senate,04,Republican,Rita Potts Parks,98
 Tippah,Providence,State Senate,04,Republican,Rita Potts Parks,44
 Tippah,Ripley,State Senate,04,Republican,Rita Potts Parks,306
-Tippah,Threeforks,State Senate,04,Democrat,Eric Powell,x
-Tippah,Brownfield,State Senate,04,Democrat,Eric Powell,x
-Tippah,Walnut,State Senate,04,Democrat,Eric Powell,x
-Tippah,Chalybeate,State Senate,04,Democrat,Eric Powell,x
-Tippah,Tiplersville,State Senate,04,Democrat,Eric Powell,x
-Tippah,North Falkner,State Senate,04,Democrat,Eric Powell,x
 Tippah,Falkner,State Senate,04,Democrat,Eric Powell,211
 Tippah,North Ripley,State Senate,04,Democrat,Eric Powell,476
-Tippah,Blue Mountain,State Senate,04,Democrat,Eric Powell,x
-Tippah,Cotton Plant,State Senate,04,Democrat,Eric Powell,x
-Tippah,New Hope,State Senate,04,Democrat,Eric Powell,x
-Tippah,Clarysville,State Senate,04,Democrat,Eric Powell,x
-Tippah,Palmer,State Senate,04,Democrat,Eric Powell,x
-Tippah,Shady Grove,State Senate,04,Democrat,Eric Powell,x
-Tippah,Mitchell,State Senate,04,Democrat,Eric Powell,x
-Tippah,Pine Grove,State Senate,04,Democrat,Eric Powell,x
-Tippah,Dumas,State Senate,04,Democrat,Eric Powell,x
-Tippah,Dry Creek,State Senate,04,Democrat,Eric Powell,x
 Tippah,Southwest Ripley,State Senate,04,Democrat,Eric Powell,419
 Tippah,Chapman,State Senate,04,Democrat,Eric Powell,170
 Tippah,Spout Springs,State Senate,04,Democrat,Eric Powell,63
 Tippah,Peoples,State Senate,04,Democrat,Eric Powell,81
 Tippah,Providence,State Senate,04,Democrat,Eric Powell,37
 Tippah,Ripley,State Senate,04,Democrat,Eric Powell,339
-Tippah,Threeforks,State House,04,Republican,"James E. 'Jimmy' Benefield",139
-Tippah,Brownfield,State House,04,Republican,"James E. 'Jimmy' Benefield",43
-Tippah,Walnut,State House,04,Republican,"James E. 'Jimmy' Benefield",183
-Tippah,Chalybeate,State House,04,Republican,"James E. 'Jimmy' Benefield",218
-Tippah,Tiplersville,State House,04,Republican,"James E. 'Jimmy' Benefield",76
-Tippah,North Falkner,State House,04,Republican,"James E. 'Jimmy' Benefield",66
-Tippah,Falkner,State House,04,Republican,"James E. 'Jimmy' Benefield",245
-Tippah,North Ripley,State House,04,Republican,"James E. 'Jimmy' Benefield",368
-Tippah,Blue Mountain,State House,04,Republican,"James E. 'Jimmy' Benefield",244
-Tippah,Cotton Plant,State House,04,Republican,"James E. 'Jimmy' Benefield",47
-Tippah,New Hope,State House,04,Republican,"James E. 'Jimmy' Benefield",115
-Tippah,Clarysville,State House,04,Republican,"James E. 'Jimmy' Benefield",88
-Tippah,Palmer,State House,04,Republican,"James E. 'Jimmy' Benefield",197
-Tippah,Shady Grove,State House,04,Republican,"James E. 'Jimmy' Benefield",47
-Tippah,Mitchell,State House,04,Republican,"James E. 'Jimmy' Benefield",94
-Tippah,Pine Grove,State House,04,Republican,"James E. 'Jimmy' Benefield",124
-Tippah,Dumas,State House,04,Republican,"James E. 'Jimmy' Benefield",302
-Tippah,Dry Creek,State House,04,Republican,"James E. 'Jimmy' Benefield",144
-Tippah,Southwest Ripley,State House,04,Republican,"James E. 'Jimmy' Benefield",268
-Tippah,Chapman,State House,04,Republican,"James E. 'Jimmy' Benefield",214
-Tippah,Spout Springs,State House,04,Republican,"James E. 'Jimmy' Benefield",75
-Tippah,Peoples,State House,04,Republican,"James E. 'Jimmy' Benefield",84
-Tippah,Providence,State House,04,Republican,"James E. 'Jimmy' Benefield",87
-Tippah,Ripley,State House,04,Republican,"James E. 'Jimmy' Benefield",243
-Tippah,Threeforks,State House,04,Democrat,"Joseph F. 'Jody' Steverson",93
-Tippah,Brownfield,State House,04,Democrat,"Joseph F. 'Jody' Steverson",49
-Tippah,Walnut,State House,04,Democrat,"Joseph F. 'Jody' Steverson",169
-Tippah,Chalybeate,State House,04,Democrat,"Joseph F. 'Jody' Steverson",187
-Tippah,Tiplersville,State House,04,Democrat,"Joseph F. 'Jody' Steverson",116
-Tippah,North Falkner,State House,04,Democrat,"Joseph F. 'Jody' Steverson",74
-Tippah,Falkner,State House,04,Democrat,"Joseph F. 'Jody' Steverson",268
-Tippah,North Ripley,State House,04,Democrat,"Joseph F. 'Jody' Steverson",565
-Tippah,Blue Mountain,State House,04,Democrat,"Joseph F. 'Jody' Steverson",386
-Tippah,Cotton Plant,State House,04,Democrat,"Joseph F. 'Jody' Steverson",84
-Tippah,New Hope,State House,04,Democrat,"Joseph F. 'Jody' Steverson",140
-Tippah,Clarysville,State House,04,Democrat,"Joseph F. 'Jody' Steverson",53
-Tippah,Palmer,State House,04,Democrat,"Joseph F. 'Jody' Steverson",197
-Tippah,Shady Grove,State House,04,Democrat,"Joseph F. 'Jody' Steverson",86
-Tippah,Mitchell,State House,04,Democrat,"Joseph F. 'Jody' Steverson",62
-Tippah,Pine Grove,State House,04,Democrat,"Joseph F. 'Jody' Steverson",50
-Tippah,Dumas,State House,04,Democrat,"Joseph F. 'Jody' Steverson",101
-Tippah,Dry Creek,State House,04,Democrat,"Joseph F. 'Jody' Steverson",53
-Tippah,Southwest Ripley,State House,04,Democrat,"Joseph F. 'Jody' Steverson",506
-Tippah,Chapman,State House,04,Democrat,"Joseph F. 'Jody' Steverson",175
-Tippah,Spout Springs,State House,04,Democrat,"Joseph F. 'Jody' Steverson",64
-Tippah,Peoples,State House,04,Democrat,"Joseph F. 'Jody' Steverson",93
-Tippah,Providence,State House,04,Democrat,"Joseph F. 'Jody' Steverson",90
-Tippah,Ripley,State House,04,Democrat,"Joseph F. 'Jody' Steverson",411
+Tippah,Threeforks,State House,04,Republican,James E. 'Jimmy' Benefield,139
+Tippah,Brownfield,State House,04,Republican,James E. 'Jimmy' Benefield,43
+Tippah,Walnut,State House,04,Republican,James E. 'Jimmy' Benefield,183
+Tippah,Chalybeate,State House,04,Republican,James E. 'Jimmy' Benefield,218
+Tippah,Tiplersville,State House,04,Republican,James E. 'Jimmy' Benefield,76
+Tippah,North Falkner,State House,04,Republican,James E. 'Jimmy' Benefield,66
+Tippah,Falkner,State House,04,Republican,James E. 'Jimmy' Benefield,245
+Tippah,North Ripley,State House,04,Republican,James E. 'Jimmy' Benefield,368
+Tippah,Blue Mountain,State House,04,Republican,James E. 'Jimmy' Benefield,244
+Tippah,Cotton Plant,State House,04,Republican,James E. 'Jimmy' Benefield,47
+Tippah,New Hope,State House,04,Republican,James E. 'Jimmy' Benefield,115
+Tippah,Clarysville,State House,04,Republican,James E. 'Jimmy' Benefield,88
+Tippah,Palmer,State House,04,Republican,James E. 'Jimmy' Benefield,197
+Tippah,Shady Grove,State House,04,Republican,James E. 'Jimmy' Benefield,47
+Tippah,Mitchell,State House,04,Republican,James E. 'Jimmy' Benefield,94
+Tippah,Pine Grove,State House,04,Republican,James E. 'Jimmy' Benefield,124
+Tippah,Dumas,State House,04,Republican,James E. 'Jimmy' Benefield,302
+Tippah,Dry Creek,State House,04,Republican,James E. 'Jimmy' Benefield,144
+Tippah,Southwest Ripley,State House,04,Republican,James E. 'Jimmy' Benefield,268
+Tippah,Chapman,State House,04,Republican,James E. 'Jimmy' Benefield,214
+Tippah,Spout Springs,State House,04,Republican,James E. 'Jimmy' Benefield,75
+Tippah,Peoples,State House,04,Republican,James E. 'Jimmy' Benefield,84
+Tippah,Providence,State House,04,Republican,James E. 'Jimmy' Benefield,87
+Tippah,Ripley,State House,04,Republican,James E. 'Jimmy' Benefield,243
+Tippah,Threeforks,State House,04,Democrat,Joseph F. 'Jody' Steverson,93
+Tippah,Brownfield,State House,04,Democrat,Joseph F. 'Jody' Steverson,49
+Tippah,Walnut,State House,04,Democrat,Joseph F. 'Jody' Steverson,169
+Tippah,Chalybeate,State House,04,Democrat,Joseph F. 'Jody' Steverson,187
+Tippah,Tiplersville,State House,04,Democrat,Joseph F. 'Jody' Steverson,116
+Tippah,North Falkner,State House,04,Democrat,Joseph F. 'Jody' Steverson,74
+Tippah,Falkner,State House,04,Democrat,Joseph F. 'Jody' Steverson,268
+Tippah,North Ripley,State House,04,Democrat,Joseph F. 'Jody' Steverson,565
+Tippah,Blue Mountain,State House,04,Democrat,Joseph F. 'Jody' Steverson,386
+Tippah,Cotton Plant,State House,04,Democrat,Joseph F. 'Jody' Steverson,84
+Tippah,New Hope,State House,04,Democrat,Joseph F. 'Jody' Steverson,140
+Tippah,Clarysville,State House,04,Democrat,Joseph F. 'Jody' Steverson,53
+Tippah,Palmer,State House,04,Democrat,Joseph F. 'Jody' Steverson,197
+Tippah,Shady Grove,State House,04,Democrat,Joseph F. 'Jody' Steverson,86
+Tippah,Mitchell,State House,04,Democrat,Joseph F. 'Jody' Steverson,62
+Tippah,Pine Grove,State House,04,Democrat,Joseph F. 'Jody' Steverson,50
+Tippah,Dumas,State House,04,Democrat,Joseph F. 'Jody' Steverson,101
+Tippah,Dry Creek,State House,04,Democrat,Joseph F. 'Jody' Steverson,53
+Tippah,Southwest Ripley,State House,04,Democrat,Joseph F. 'Jody' Steverson,506
+Tippah,Chapman,State House,04,Democrat,Joseph F. 'Jody' Steverson,175
+Tippah,Spout Springs,State House,04,Democrat,Joseph F. 'Jody' Steverson,64
+Tippah,Peoples,State House,04,Democrat,Joseph F. 'Jody' Steverson,93
+Tippah,Providence,State House,04,Democrat,Joseph F. 'Jody' Steverson,90
+Tippah,Ripley,State House,04,Democrat,Joseph F. 'Jody' Steverson,411
 Tippah,,Governor,,Republican,Phil Bryant,5895
 Tippah,,Governor,,Democrat,Johnny L. DuPree,1926
 Tippah,,Lieutenant Governor,,Republican,Tate Reeves,6380
@@ -597,5 +551,5 @@ Tippah,,State Senate,02,Republican,Michael Cobb,1753
 Tippah,,State Senate,02,Democrat,Bill Stone,2367
 Tippah,,State Senate,04,Republican,Rita Potts Parks,1841
 Tippah,,State Senate,04,Democrat,Eric Powell,1796
-Tippah,,State House,04,Republican,"James E. 'Jimmy' Benefield",3711
-Tippah,,State House,04,Democrat,"Joseph F. 'Jody' Steverson",4072
+Tippah,,State House,04,Republican,James E. 'Jimmy' Benefield,3711
+Tippah,,State House,04,Democrat,Joseph F. 'Jody' Steverson,4072

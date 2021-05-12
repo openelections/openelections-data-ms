@@ -418,8 +418,6 @@ Simpson,Magee 1,State Senate,35,Republican,Perry E. Lee,250
 Simpson,Weathersby,State Senate,35,Republican,Perry E. Lee,374
 Simpson,Jupiter,State Senate,35,Republican,Perry E. Lee,251
 Simpson,Magee 2,State Senate,35,Republican,Perry E. Lee,223
-Simpson,Oak Grove,State Senate,35,Republican,Perry E. Lee,x
-Simpson,Bowie,State Senate,35,Republican,Perry E. Lee,x
 Simpson,New Hope,State Senate,35,Republican,Perry E. Lee,139
 Simpson,Saratoga,State Senate,35,Republican,Perry E. Lee,171
 Simpson,Mendenhall 3,State Senate,35,Republican,Perry E. Lee,719
@@ -427,106 +425,28 @@ Simpson,Sumrall,State Senate,35,Republican,Perry E. Lee,286
 Simpson,D'Lo,State Senate,35,Republican,Perry E. Lee,224
 Simpson,Dry Creek,State Senate,35,Republican,Perry E. Lee,439
 Simpson,Magee 4 North,State Senate,35,Republican,Perry E. Lee,82
-Simpson,Magee 4 South,State Senate,35,Republican,Perry E. Lee,x
-Simpson,Shivers,State Senate,35,Republican,Perry E. Lee,x
-Simpson,Bridgeport,State Senate,35,Republican,Perry E. Lee,x
-Simpson,Pinola,State Senate,35,Republican,Perry E. Lee,x
 Simpson,Braxton,State Senate,35,Republican,Perry E. Lee,538
 Simpson,Harrisville,State Senate,35,Republican,Perry E. Lee,521
 Simpson,Merit,State Senate,35,Republican,Perry E. Lee,497
 Simpson,Fork Church,State Senate,35,Republican,Perry E. Lee,197
 Simpson,Pearl,State Senate,35,Republican,Perry E. Lee,298
-Simpson,Mendenhall 1,State Senate,39,Republican,Sally Doty,x
-Simpson,Magee 1,State Senate,39,Republican,Sally Doty,x
-Simpson,Weathersby,State Senate,39,Republican,Sally Doty,x
-Simpson,Jupiter,State Senate,39,Republican,Sally Doty,x
 Simpson,Magee 2,State Senate,39,Republican,Sally Doty,418
 Simpson,Oak Grove,State Senate,39,Republican,Sally Doty,217
 Simpson,Bowie,State Senate,39,Republican,Sally Doty,153
-Simpson,New Hope,State Senate,39,Republican,Sally Doty,x
-Simpson,Saratoga,State Senate,39,Republican,Sally Doty,x
-Simpson,Mendenhall 3,State Senate,39,Republican,Sally Doty,x
-Simpson,Sumrall,State Senate,39,Republican,Sally Doty,x
-Simpson,D'Lo,State Senate,39,Republican,Sally Doty,x
-Simpson,Dry Creek,State Senate,39,Republican,Sally Doty,x
 Simpson,Magee 4 North,State Senate,39,Republican,Sally Doty,240
 Simpson,Magee 4 South,State Senate,39,Republican,Sally Doty,478
 Simpson,Shivers,State Senate,39,Republican,Sally Doty,130
 Simpson,Bridgeport,State Senate,39,Republican,Sally Doty,77
 Simpson,Pinola,State Senate,39,Republican,Sally Doty,173
-Simpson,Braxton,State Senate,39,Republican,Sally Doty,x
-Simpson,Harrisville,State Senate,39,Republican,Sally Doty,x
-Simpson,Merit,State Senate,39,Republican,Sally Doty,x
-Simpson,Fork Church,State Senate,39,Republican,Sally Doty,x
-Simpson,Pearl,State Senate,39,Republican,Sally Doty,x
-Simpson,Mendenhall 1,State Senate,39,Democrat,W.L. Rayborn,x
-Simpson,Magee 1,State Senate,39,Democrat,W.L. Rayborn,x
-Simpson,Weathersby,State Senate,39,Democrat,W.L. Rayborn,x
-Simpson,Jupiter,State Senate,39,Democrat,W.L. Rayborn,x
 Simpson,Magee 2,State Senate,39,Democrat,W.L. Rayborn,144
 Simpson,Oak Grove,State Senate,39,Democrat,W.L. Rayborn,203
 Simpson,Bowie,State Senate,39,Democrat,W.L. Rayborn,87
-Simpson,New Hope,State Senate,39,Democrat,W.L. Rayborn,x
-Simpson,Saratoga,State Senate,39,Democrat,W.L. Rayborn,x
-Simpson,Mendenhall 3,State Senate,39,Democrat,W.L. Rayborn,x
-Simpson,Sumrall,State Senate,39,Democrat,W.L. Rayborn,x
-Simpson,D'Lo,State Senate,39,Democrat,W.L. Rayborn,x
-Simpson,Dry Creek,State Senate,39,Democrat,W.L. Rayborn,x
 Simpson,Magee 4 North,State Senate,39,Democrat,W.L. Rayborn,72
 Simpson,Magee 4 South,State Senate,39,Democrat,W.L. Rayborn,133
 Simpson,Shivers,State Senate,39,Democrat,W.L. Rayborn,146
 Simpson,Bridgeport,State Senate,39,Democrat,W.L. Rayborn,142
 Simpson,Pinola,State Senate,39,Democrat,W.L. Rayborn,93
-Simpson,Braxton,State Senate,39,Democrat,W.L. Rayborn,x
-Simpson,Harrisville,State Senate,39,Democrat,W.L. Rayborn,x
-Simpson,Merit,State Senate,39,Democrat,W.L. Rayborn,x
-Simpson,Fork Church,State Senate,39,Democrat,W.L. Rayborn,x
-Simpson,Pearl,State Senate,39,Democrat,W.L. Rayborn,x
-Simpson,Mendenhall 1,State House,60,Republican,John L. Moore,x
-Simpson,Magee 1,State House,60,Republican,John L. Moore,x
-Simpson,Weathersby,State House,60,Republican,John L. Moore,x
 Simpson,Jupiter,State House,60,Republican,John L. Moore,203
-Simpson,Magee 2,State House,60,Republican,John L. Moore,x
-Simpson,Oak Grove,State House,60,Republican,John L. Moore,x
-Simpson,Bowie,State House,60,Republican,John L. Moore,x
-Simpson,New Hope,State House,60,Republican,John L. Moore,x
-Simpson,Saratoga,State House,60,Republican,John L. Moore,x
-Simpson,Mendenhall 3,State House,60,Republican,John L. Moore,x
-Simpson,Sumrall,State House,60,Republican,John L. Moore,x
-Simpson,D'Lo,State House,60,Republican,John L. Moore,x
-Simpson,Dry Creek,State House,60,Republican,John L. Moore,x
-Simpson,Magee 4 North,State House,60,Republican,John L. Moore,x
-Simpson,Magee 4 South,State House,60,Republican,John L. Moore,x
-Simpson,Shivers,State House,60,Republican,John L. Moore,x
-Simpson,Bridgeport,State House,60,Republican,John L. Moore,x
-Simpson,Pinola,State House,60,Republican,John L. Moore,x
-Simpson,Braxton,State House,60,Republican,John L. Moore,x
-Simpson,Harrisville,State House,60,Republican,John L. Moore,x
-Simpson,Merit,State House,60,Republican,John L. Moore,x
-Simpson,Fork Church,State House,60,Republican,John L. Moore,x
-Simpson,Pearl,State House,60,Republican,John L. Moore,x
-Simpson,Mendenhall 1,State House,62,Republican,Tom Weathersby,x
-Simpson,Magee 1,State House,62,Republican,Tom Weathersby,x
-Simpson,Weathersby,State House,62,Republican,Tom Weathersby,x
-Simpson,Jupiter,State House,62,Republican,Tom Weathersby,x
-Simpson,Magee 2,State House,62,Republican,Tom Weathersby,x
-Simpson,Oak Grove,State House,62,Republican,Tom Weathersby,x
-Simpson,Bowie,State House,62,Republican,Tom Weathersby,x
-Simpson,New Hope,State House,62,Republican,Tom Weathersby,x
-Simpson,Saratoga,State House,62,Republican,Tom Weathersby,x
-Simpson,Mendenhall 3,State House,62,Republican,Tom Weathersby,x
-Simpson,Sumrall,State House,62,Republican,Tom Weathersby,x
-Simpson,D'Lo,State House,62,Republican,Tom Weathersby,x
-Simpson,Dry Creek,State House,62,Republican,Tom Weathersby,x
-Simpson,Magee 4 North,State House,62,Republican,Tom Weathersby,x
-Simpson,Magee 4 South,State House,62,Republican,Tom Weathersby,x
-Simpson,Shivers,State House,62,Republican,Tom Weathersby,x
-Simpson,Bridgeport,State House,62,Republican,Tom Weathersby,x
-Simpson,Pinola,State House,62,Republican,Tom Weathersby,x
-Simpson,Braxton,State House,62,Republican,Tom Weathersby,x
-Simpson,Harrisville,State House,62,Republican,Tom Weathersby,x
-Simpson,Merit,State House,62,Republican,Tom Weathersby,x
-Simpson,Fork Church,State House,62,Republican,Tom Weathersby,x
 Simpson,Pearl,State House,62,Republican,Tom Weathersby,22
 Simpson,Mendenhall 1,State House,77,Republican,Andy Gipson,167
 Simpson,Magee 1,State House,77,Republican,Andy Gipson,248
@@ -534,9 +454,6 @@ Simpson,Weathersby,State House,77,Republican,Andy Gipson,360
 Simpson,Jupiter,State House,77,Republican,Andy Gipson,45
 Simpson,Magee 2,State House,77,Republican,Andy Gipson,748
 Simpson,Oak Grove,State House,77,Republican,Andy Gipson,87
-Simpson,Bowie,State House,77,Republican,Andy Gipson,x
-Simpson,New Hope,State House,77,Republican,Andy Gipson,x
-Simpson,Saratoga,State House,77,Republican,Andy Gipson,x
 Simpson,Mendenhall 3,State House,77,Republican,Andy Gipson,719
 Simpson,Sumrall,State House,77,Republican,Andy Gipson,294
 Simpson,D'Lo,State House,77,Republican,Andy Gipson,224
@@ -544,82 +461,23 @@ Simpson,Dry Creek,State House,77,Republican,Andy Gipson,449
 Simpson,Magee 4 North,State House,77,Republican,Andy Gipson,370
 Simpson,Magee 4 South,State House,77,Republican,Andy Gipson,561
 Simpson,Shivers,State House,77,Republican,Andy Gipson,96
-Simpson,Bridgeport,State House,77,Republican,Andy Gipson,x
 Simpson,Pinola,State House,77,Republican,Andy Gipson,219
 Simpson,Braxton,State House,77,Republican,Andy Gipson,547
 Simpson,Harrisville,State House,77,Republican,Andy Gipson,537
 Simpson,Merit,State House,77,Republican,Andy Gipson,504
-Simpson,Fork Church,State House,77,Republican,Andy Gipson,x
 Simpson,Pearl,State House,77,Republican,Andy Gipson,278
-Simpson,Mendenhall 1,State House,90,Democrat,"Joe 'J.L.' Warren",x
-Simpson,Magee 1,State House,90,Democrat,"Joe 'J.L.' Warren",x
-Simpson,Weathersby,State House,90,Democrat,"Joe 'J.L.' Warren",x
-Simpson,Jupiter,State House,90,Democrat,"Joe 'J.L.' Warren",x
-Simpson,Magee 2,State House,90,Democrat,"Joe 'J.L.' Warren",x
-Simpson,Oak Grove,State House,90,Democrat,"Joe 'J.L.' Warren",169
-Simpson,Bowie,State House,90,Democrat,"Joe 'J.L.' Warren",197
-Simpson,New Hope,State House,90,Democrat,"Joe 'J.L.' Warren",164
-Simpson,Saratoga,State House,90,Democrat,"Joe 'J.L.' Warren",221
-Simpson,Mendenhall 3,State House,90,Democrat,"Joe 'J.L.' Warren",x
-Simpson,Sumrall,State House,90,Democrat,"Joe 'J.L.' Warren",x
-Simpson,D'Lo,State House,90,Democrat,"Joe 'J.L.' Warren",x
-Simpson,Dry Creek,State House,90,Democrat,"Joe 'J.L.' Warren",x
-Simpson,Magee 4 North,State House,90,Democrat,"Joe 'J.L.' Warren",x
-Simpson,Magee 4 South,State House,90,Democrat,"Joe 'J.L.' Warren",x
-Simpson,Shivers,State House,90,Democrat,"Joe 'J.L.' Warren",x
-Simpson,Bridgeport,State House,90,Democrat,"Joe 'J.L.' Warren",x
-Simpson,Pinola,State House,90,Democrat,"Joe 'J.L.' Warren",x
-Simpson,Braxton,State House,90,Democrat,"Joe 'J.L.' Warren",x
-Simpson,Harrisville,State House,90,Democrat,"Joe 'J.L.' Warren",x
-Simpson,Merit,State House,90,Democrat,"Joe 'J.L.' Warren",x
-Simpson,Fork Church,State House,90,Democrat,"Joe 'J.L.' Warren",x
-Simpson,Pearl,State House,90,Democrat,"Joe 'J.L.' Warren",x
-Simpson,Mendenhall 1,State House,91,Republican,Cindy Shivers Bryan,x
-Simpson,Magee 1,State House,91,Republican,Cindy Shivers Bryan,x
-Simpson,Weathersby,State House,91,Republican,Cindy Shivers Bryan,x
-Simpson,Jupiter,State House,91,Republican,Cindy Shivers Bryan,x
-Simpson,Magee 2,State House,91,Republican,Cindy Shivers Bryan,x
+Simpson,Oak Grove,State House,90,Democrat,Joe 'J.L.' Warren,169
+Simpson,Bowie,State House,90,Democrat,Joe 'J.L.' Warren,197
+Simpson,New Hope,State House,90,Democrat,Joe 'J.L.' Warren,164
+Simpson,Saratoga,State House,90,Democrat,Joe 'J.L.' Warren,221
 Simpson,Oak Grove,State House,91,Republican,Cindy Shivers Bryan,20
-Simpson,Bowie,State House,91,Republican,Cindy Shivers Bryan,x
-Simpson,New Hope,State House,91,Republican,Cindy Shivers Bryan,x
-Simpson,Saratoga,State House,91,Republican,Cindy Shivers Bryan,x
-Simpson,Mendenhall 3,State House,91,Republican,Cindy Shivers Bryan,x
-Simpson,Sumrall,State House,91,Republican,Cindy Shivers Bryan,x
-Simpson,D'Lo,State House,91,Republican,Cindy Shivers Bryan,x
-Simpson,Dry Creek,State House,91,Republican,Cindy Shivers Bryan,x
-Simpson,Magee 4 North,State House,91,Republican,Cindy Shivers Bryan,x
-Simpson,Magee 4 South,State House,91,Republican,Cindy Shivers Bryan,x
 Simpson,Shivers,State House,91,Republican,Cindy Shivers Bryan,64
 Simpson,Bridgeport,State House,91,Republican,Cindy Shivers Bryan,68
-Simpson,Pinola,State House,91,Republican,Cindy Shivers Bryan,x
-Simpson,Braxton,State House,91,Republican,Cindy Shivers Bryan,x
-Simpson,Harrisville,State House,91,Republican,Cindy Shivers Bryan,x
-Simpson,Merit,State House,91,Republican,Cindy Shivers Bryan,x
 Simpson,Fork Church,State House,91,Republican,Cindy Shivers Bryan,80
-Simpson,Pearl,State House,91,Republican,Cindy Shivers Bryan,x
-Simpson,Mendenhall 1,State House,91,Democrat,Bob Evans,x
-Simpson,Magee 1,State House,91,Democrat,Bob Evans,x
-Simpson,Weathersby,State House,91,Democrat,Bob Evans,x
-Simpson,Jupiter,State House,91,Democrat,Bob Evans,x
-Simpson,Magee 2,State House,91,Democrat,Bob Evans,x
 Simpson,Oak Grove,State House,91,Democrat,Bob Evans,116
-Simpson,Bowie,State House,91,Democrat,Bob Evans,x
-Simpson,New Hope,State House,91,Democrat,Bob Evans,x
-Simpson,Saratoga,State House,91,Democrat,Bob Evans,x
-Simpson,Mendenhall 3,State House,91,Democrat,Bob Evans,x
-Simpson,Sumrall,State House,91,Democrat,Bob Evans,x
-Simpson,D'Lo,State House,91,Democrat,Bob Evans,x
-Simpson,Dry Creek,State House,91,Democrat,Bob Evans,x
-Simpson,Magee 4 North,State House,91,Democrat,Bob Evans,x
-Simpson,Magee 4 South,State House,91,Democrat,Bob Evans,x
 Simpson,Shivers,State House,91,Democrat,Bob Evans,101
 Simpson,Bridgeport,State House,91,Democrat,Bob Evans,156
-Simpson,Pinola,State House,91,Democrat,Bob Evans,x
-Simpson,Braxton,State House,91,Democrat,Bob Evans,x
-Simpson,Harrisville,State House,91,Democrat,Bob Evans,x
-Simpson,Merit,State House,91,Democrat,Bob Evans,x
 Simpson,Fork Church,State House,91,Democrat,Bob Evans,208
-Simpson,Pearl,State House,91,Democrat,Bob Evans,x
 Simpson,,Governor,,Republican,Phil Bryant,6208
 Simpson,,Governor,,Democrat,Johnny L. DuPree,3259
 Simpson,,Lieutenant Governor,,Republican,Tate Reeves,7263
@@ -644,6 +502,6 @@ Simpson,,State Senate,39,Democrat,W.L. Rayborn,1020
 Simpson,,State House,60,Republican,John L. Moore,203
 Simpson,,State House,62,Republican,Tom Weathersby,22
 Simpson,,State House,77,Republican,Andy Gipson,6453
-Simpson,,State House,90,Democrat,"Joe 'J.L.' Warren",751
+Simpson,,State House,90,Democrat,Joe 'J.L.' Warren,751
 Simpson,,State House,91,Republican,Cindy Shivers Bryan,232
 Simpson,,State House,91,Democrat,Bob Evans,581
