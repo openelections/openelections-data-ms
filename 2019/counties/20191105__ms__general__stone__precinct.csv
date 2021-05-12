@@ -21,7 +21,7 @@ Stone,Public Service Commissioner,Southern,Connie Moran,Democrat,Bond,10
 Stone,Transportation Commissioner,Southern,Tom King,Republican,Bond,68
 Stone,District Attorney,2,Joel Smith,Republican,Bond,66
 Stone,State Senate,47,Joseph M 'Mike' Seymour,Republican,Bond,66
-Stone,State House,93,Tommy Ladner,Republican,Bond,X
+Stone,State House,93,Tommy Ladner,Republican,Bond,
 Stone,State House,107,Doug McLeod,Republican,Bond,63
 Stone,Chancery Clerk,,Samuel 'Tom' Smith,Republican,Bond,67
 Stone,Circuit Clerk,,Treba Parker Davis,Republican,Bond,56
@@ -31,16 +31,16 @@ Stone,County Attorney,,Thomas Melvin Matthews III,Republican,Bond,57
 Stone,Sheriff,,Mike Farmer,Republican,Bond,69
 Stone,Tax Assessor/Collector,,Charles E Williams Jr,Republic.an,Bond,67
 Stone,Supervisor,1,Clark Byrd,Republican,Bond,72
-Stone,Supervisor,2,Andy Blanchard,Democrat,Bond,X
-Stone,Supervisor,2,James Snowden,Republican,Bond,X
-Stone,Supervisor,2,Daniel E Harris,Independent,Bond,X
-Stone,Supervisor,3,Lance Peterson,Republican,Bond,X
-Stone,Supervisor,3,Chester 'Dusty' Rhodes,Independent,Bond,X
-Stone,Supervisor,4,Clark Bond,Republican,Bond,X
-Stone,Supervisor,5,Nathan Joel Bond,Republican,Bond,X
-Stone,Justice Court Judge East,,Justin Miles,Republican,Bond,X
+Stone,Supervisor,2,Andy Blanchard,Democrat,Bond,
+Stone,Supervisor,2,James Snowden,Republican,Bond,
+Stone,Supervisor,2,Daniel E Harris,Independent,Bond,
+Stone,Supervisor,3,Lance Peterson,Republican,Bond,
+Stone,Supervisor,3,Chester 'Dusty' Rhodes,Independent,Bond,
+Stone,Supervisor,4,Clark Bond,Republican,Bond,
+Stone,Supervisor,5,Nathan Joel Bond,Republican,Bond,
+Stone,Justice Court Judge East,,Justin Miles,Republican,Bond,
 Stone,Justice Court Judge West,,Ricky Farmer,Republican,Bond,70
-Stone,Constable East,,Everett S 'Steve' Compston Jr,Republican,Bond,X
+Stone,Constable East,,Everett S 'Steve' Compston Jr,Republican,Bond,
 Stone,Constable West,,Mike Allen,Republican,Bond,55
 Stone,Constable West,,Brandon Reid,Independent,Bond,16
 Stone,Governor,,Jim Hood,Democrat,National Guard,27
@@ -65,7 +65,7 @@ Stone,Public Service Commissioner,Southern,Connie Moran,Democrat,National Guard,
 Stone,Transportation Commissioner,Southern,Tom King,Republican,National Guard,202
 Stone,District Attorney,2,Joel Smith,Republican,National Guard,201
 Stone,State Senate,47,Joseph M 'Mike' Seymour,Republican,National Guard,200
-Stone,State House,93,Tommy Ladner,Republican,National Guard,X
+Stone,State House,93,Tommy Ladner,Republican,National Guard,
 Stone,State House,107,Doug McLeod,Republican,National Guard,191
 Stone,Chancery Clerk,,Samuel 'Tom' Smith,Republican,National Guard,202
 Stone,Circuit Clerk,,Treba Parker Davis,Republican,National Guard,174
@@ -75,18 +75,18 @@ Stone,County Attorney,,Thomas Melvin Matthews III,Republican,National Guard,198
 Stone,Sheriff,,Mike Farmer,Republican,National Guard,197
 Stone,Tax Assessor/Collector,,Charles E Williams Jr,Republic.an,National Guard,203
 Stone,Supervisor,1,Clark Byrd,Republican,National Guard,201
-Stone,Supervisor,2,Andy Blanchard,Democrat,National Guard,X
-Stone,Supervisor,2,James Snowden,Republican,National Guard,X
-Stone,Supervisor,2,Daniel E Harris,Independent,National Guard,X
-Stone,Supervisor,3,Lance Peterson,Republican,National Guard,X
-Stone,Supervisor,3,Chester 'Dusty' Rhodes,Independent,National Guard,X
-Stone,Supervisor,4,Clark Bond,Republican,National Guard,X
-Stone,Supervisor,5,Nathan Joel Bond,Republican,National Guard,X
+Stone,Supervisor,2,Andy Blanchard,Democrat,National Guard,
+Stone,Supervisor,2,James Snowden,Republican,National Guard,
+Stone,Supervisor,2,Daniel E Harris,Independent,National Guard,
+Stone,Supervisor,3,Lance Peterson,Republican,National Guard,
+Stone,Supervisor,3,Chester 'Dusty' Rhodes,Independent,National Guard,
+Stone,Supervisor,4,Clark Bond,Republican,National Guard,
+Stone,Supervisor,5,Nathan Joel Bond,Republican,National Guard,
 Stone,Justice Court Judge East,,Justin Miles,Republican,National Guard,203
-Stone,Justice Court Judge West,,Ricky Farmer,Republican,National Guard,X
+Stone,Justice Court Judge West,,Ricky Farmer,Republican,National Guard,
 Stone,Constable East,,Everett S 'Steve' Compston Jr,Republican,National Guard,199
-Stone,Constable West,,Mike Allen,Republican,National Guard,X
-Stone,Constable West,,Brandon Reid,Independent,National Guard,X
+Stone,Constable West,,Mike Allen,Republican,National Guard,
+Stone,Constable West,,Brandon Reid,Independent,National Guard,
 Stone,Governor,,Jim Hood,Democrat,Old Health Department,77
 Stone,Governor,,Tate Reeves,Repubilcan,Old Health Department,237
 Stone,Governor,,Bob Hickingbottom,Constitution,Old Health Department,1
@@ -119,16 +119,16 @@ Stone,County Attorney,,Thomas Melvin Matthews III,Republican,Old Health Departme
 Stone,Sheriff,,Mike Farmer,Republican,Old Health Department,295
 Stone,Tax Assessor/Collector,,Charles E Williams Jr,Republic.an,Old Health Department,302
 Stone,Supervisor,1,Clark Byrd,Republican,Old Health Department,299
-Stone,Supervisor,2,Andy Blanchard,Democrat,Old Health Department,X
-Stone,Supervisor,2,James Snowden,Republican,Old Health Department,X
-Stone,Supervisor,2,Daniel E Harris,Independent,Old Health Department,X
-Stone,Supervisor,3,Lance Peterson,Republican,Old Health Department,X
-Stone,Supervisor,3,Chester 'Dusty' Rhodes,Independent,Old Health Department,X
-Stone,Supervisor,4,Clark Bond,Republican,Old Health Department,X
-Stone,Supervisor,5,Nathan Joel Bond,Republican,Old Health Department,X
-Stone,Justice Court Judge East,,Justin Miles,Republican,Old Health Department,X
+Stone,Supervisor,2,Andy Blanchard,Democrat,Old Health Department,
+Stone,Supervisor,2,James Snowden,Republican,Old Health Department,
+Stone,Supervisor,2,Daniel E Harris,Independent,Old Health Department,
+Stone,Supervisor,3,Lance Peterson,Republican,Old Health Department,
+Stone,Supervisor,3,Chester 'Dusty' Rhodes,Independent,Old Health Department,
+Stone,Supervisor,4,Clark Bond,Republican,Old Health Department,
+Stone,Supervisor,5,Nathan Joel Bond,Republican,Old Health Department,
+Stone,Justice Court Judge East,,Justin Miles,Republican,Old Health Department,
 Stone,Justice Court Judge West,,Ricky Farmer,Republican,Old Health Department,300
-Stone,Constable East,,Everett S 'Steve' Compston Jr,Republican,Old Health Department,X
+Stone,Constable East,,Everett S 'Steve' Compston Jr,Republican,Old Health Department,
 Stone,Constable West,,Mike Allen,Republican,Old Health Department,258
 Stone,Constable West,,Brandon Reid,Independent,Old Health Department,50
 Stone,Governor,,Jim Hood,Democrat,Courthouse,82
@@ -153,7 +153,7 @@ Stone,Public Service Commissioner,Southern,Connie Moran,Democrat,Courthouse,69
 Stone,Transportation Commissioner,Southern,Tom King,Republican,Courthouse,279
 Stone,District Attorney,2,Joel Smith,Republican,Courthouse,277
 Stone,State Senate,47,Joseph M 'Mike' Seymour,Republican,Courthouse,275
-Stone,State House,93,Tommy Ladner,Republican,Courthouse,X
+Stone,State House,93,Tommy Ladner,Republican,Courthouse,
 Stone,State House,107,Doug McLeod,Republican,Courthouse,262
 Stone,Chancery Clerk,,Samuel 'Tom' Smith,Republican,Courthouse,282
 Stone,Circuit Clerk,,Treba Parker Davis,Republican,Courthouse,225
@@ -163,13 +163,13 @@ Stone,County Attorney,,Thomas Melvin Matthews III,Republican,Courthouse,277
 Stone,Sheriff,,Mike Farmer,Republican,Courthouse,275
 Stone,Tax Assessor/Collector,,Charles E Williams Jr,Republic.an,Courthouse,281
 Stone,Supervisor,1,Clark Byrd,Republican,Courthouse,277
-Stone,Supervisor,2,Andy Blanchard,Democrat,Courthouse,X
-Stone,Supervisor,2,James Snowden,Republican,Courthouse,X
-Stone,Supervisor,2,Daniel E Harris,Independent,Courthouse,X
-Stone,Supervisor,3,Lance Peterson,Republican,Courthouse,X
-Stone,Supervisor,3,Chester 'Dusty' Rhodes,Independent,Courthouse,X
-Stone,Supervisor,4,Clark Bond,Republican,Courthouse,X
-Stone,Supervisor,5,Nathan Joel Bond,Republican,Courthouse,X
+Stone,Supervisor,2,Andy Blanchard,Democrat,Courthouse,
+Stone,Supervisor,2,James Snowden,Republican,Courthouse,
+Stone,Supervisor,2,Daniel E Harris,Independent,Courthouse,
+Stone,Supervisor,3,Lance Peterson,Republican,Courthouse,
+Stone,Supervisor,3,Chester 'Dusty' Rhodes,Independent,Courthouse,
+Stone,Supervisor,4,Clark Bond,Republican,Courthouse,
+Stone,Supervisor,5,Nathan Joel Bond,Republican,Courthouse,
 Stone,Justice Court Judge East,,Justin Miles,Republican,Courthouse,144
 Stone,Justice Court Judge West,,Ricky Farmer,Republican,Courthouse,129
 Stone,Constable East,,Everett S 'Steve' Compston Jr,Republican,Courthouse,147
@@ -206,14 +206,14 @@ Stone,Coroner,,Wayne Flurry,Republican,American Legion,305
 Stone,County Attorney,,Thomas Melvin Matthews III,Republican,American Legion,287
 Stone,Sheriff,,Mike Farmer,Republican,American Legion,340
 Stone,Tax Assessor/Collector,,Charles E Williams Jr,Republic.an,American Legion,317
-Stone,Supervisor,1,Clark Byrd,Republican,American Legion,X
+Stone,Supervisor,1,Clark Byrd,Republican,American Legion,
 Stone,Supervisor,2,Andy Blanchard,Democrat,American Legion,88
 Stone,Supervisor,2,James Snowden,Republican,American Legion,124
 Stone,Supervisor,2,Daniel E Harris,Independent,American Legion,261
-Stone,Supervisor,3,Lance Peterson,Republican,American Legion,X
-Stone,Supervisor,3,Chester 'Dusty' Rhodes,Independent,American Legion,X
-Stone,Supervisor,4,Clark Bond,Republican,American Legion,X
-Stone,Supervisor,5,Nathan Joel Bond,Republican,American Legion,X
+Stone,Supervisor,3,Lance Peterson,Republican,American Legion,
+Stone,Supervisor,3,Chester 'Dusty' Rhodes,Independent,American Legion,
+Stone,Supervisor,4,Clark Bond,Republican,American Legion,
+Stone,Supervisor,5,Nathan Joel Bond,Republican,American Legion,
 Stone,Justice Court Judge East,,Justin Miles,Republican,American Legion,220
 Stone,Justice Court Judge West,,Ricky Farmer,Republican,American Legion,72
 Stone,Constable East,,Everett S 'Steve' Compston Jr,Republican,American Legion,228
@@ -242,7 +242,7 @@ Stone,Transportation Commissioner,Southern,Tom King,Republican,New Hope,307
 Stone,District Attorney,2,Joel Smith,Republican,New Hope,303
 Stone,State Senate,47,Joseph M 'Mike' Seymour,Republican,New Hope,303
 Stone,State House,93,Tommy Ladner,Republican,New Hope,303
-Stone,State House,107,Doug McLeod,Republican,New Hope,X
+Stone,State House,107,Doug McLeod,Republican,New Hope,
 Stone,Chancery Clerk,,Samuel 'Tom' Smith,Republican,New Hope,340
 Stone,Circuit Clerk,,Treba Parker Davis,Republican,New Hope,181
 Stone,Circuit Clerk,,Billy Allen,Independent,New Hope,337
@@ -250,17 +250,17 @@ Stone,Coroner,,Wayne Flurry,Republican,New Hope,328
 Stone,County Attorney,,Thomas Melvin Matthews III,Republican,New Hope,325
 Stone,Sheriff,,Mike Farmer,Republican,New Hope,373
 Stone,Tax Assessor/Collector,,Charles E Williams Jr,Republic.an,New Hope,335
-Stone,Supervisor,1,Clark Byrd,Republican,New Hope,X
+Stone,Supervisor,1,Clark Byrd,Republican,New Hope,
 Stone,Supervisor,2,Andy Blanchard,Democrat,New Hope,119
 Stone,Supervisor,2,James Snowden,Republican,New Hope,98
 Stone,Supervisor,2,Daniel E Harris,Independent,New Hope,326
-Stone,Supervisor,3,Lance Peterson,Republican,New Hope,X
-Stone,Supervisor,3,Chester 'Dusty' Rhodes,Independent,New Hope,X
-Stone,Supervisor,4,Clark Bond,Republican,New Hope,X
-Stone,Supervisor,5,Nathan Joel Bond,Republican,New Hope,X
-Stone,Justice Court Judge East,,Justin Miles,Republican,New Hope,X
+Stone,Supervisor,3,Lance Peterson,Republican,New Hope,
+Stone,Supervisor,3,Chester 'Dusty' Rhodes,Independent,New Hope,
+Stone,Supervisor,4,Clark Bond,Republican,New Hope,
+Stone,Supervisor,5,Nathan Joel Bond,Republican,New Hope,
+Stone,Justice Court Judge East,,Justin Miles,Republican,New Hope,
 Stone,Justice Court Judge West,,Ricky Farmer,Republican,New Hope,342
-Stone,Constable East,,Everett S 'Steve' Compston Jr,Republican,New Hope,X
+Stone,Constable East,,Everett S 'Steve' Compston Jr,Republican,New Hope,
 Stone,Constable West,,Mike Allen,Republican,New Hope,241
 Stone,Constable West,,Brandon Reid,Independent,New Hope,224
 Stone,Governor,,Jim Hood,Democrat,Perkinston,49
@@ -294,17 +294,17 @@ Stone,Coroner,,Wayne Flurry,Republican,Perkinston,188
 Stone,County Attorney,,Thomas Melvin Matthews III,Republican,Perkinston,189
 Stone,Sheriff,,Mike Farmer,Republican,Perkinston,192
 Stone,Tax Assessor/Collector,,Charles E Williams Jr,Republic.an,Perkinston,198
-Stone,Supervisor,1,Clark Byrd,Republican,Perkinston,X
-Stone,Supervisor,2,Andy Blanchard,Democrat,Perkinston,X
-Stone,Supervisor,2,James Snowden,Republican,Perkinston,X
-Stone,Supervisor,2,Daniel E Harris,Independent,Perkinston,X
+Stone,Supervisor,1,Clark Byrd,Republican,Perkinston,
+Stone,Supervisor,2,Andy Blanchard,Democrat,Perkinston,
+Stone,Supervisor,2,James Snowden,Republican,Perkinston,
+Stone,Supervisor,2,Daniel E Harris,Independent,Perkinston,
 Stone,Supervisor,3,Lance Peterson,Republican,Perkinston,159
 Stone,Supervisor,3,Chester 'Dusty' Rhodes,Independent,Perkinston,59
-Stone,Supervisor,4,Clark Bond,Republican,Perkinston,X
-Stone,Supervisor,5,Nathan Joel Bond,Republican,Perkinston,X
-Stone,Justice Court Judge East,,Justin Miles,Republican,Perkinston,X
+Stone,Supervisor,4,Clark Bond,Republican,Perkinston,
+Stone,Supervisor,5,Nathan Joel Bond,Republican,Perkinston,
+Stone,Justice Court Judge East,,Justin Miles,Republican,Perkinston,
 Stone,Justice Court Judge West,,Ricky Farmer,Republican,Perkinston,192
-Stone,Constable East,,Everett S 'Steve' Compston Jr,Republican,Perkinston,X
+Stone,Constable East,,Everett S 'Steve' Compston Jr,Republican,Perkinston,
 Stone,Constable West,,Mike Allen,Republican,Perkinston,177
 Stone,Constable West,,Brandon Reid,Independent,Perkinston,38
 Stone,Governor,,Jim Hood,Democrat,Magnolia,33
@@ -330,7 +330,7 @@ Stone,Transportation Commissioner,Southern,Tom King,Republican,Magnolia,256
 Stone,District Attorney,2,Joel Smith,Republican,Magnolia,250
 Stone,State Senate,47,Joseph M 'Mike' Seymour,Republican,Magnolia,253
 Stone,State House,93,Tommy Ladner,Republican,Magnolia,252
-Stone,State House,107,Doug McLeod,Republican,Magnolia,X
+Stone,State House,107,Doug McLeod,Republican,Magnolia,
 Stone,Chancery Clerk,,Samuel 'Tom' Smith,Republican,Magnolia,250
 Stone,Circuit Clerk,,Treba Parker Davis,Republican,Magnolia,232
 Stone,Circuit Clerk,,Billy Allen,Independent,Magnolia,52
@@ -338,17 +338,17 @@ Stone,Coroner,,Wayne Flurry,Republican,Magnolia,251
 Stone,County Attorney,,Thomas Melvin Matthews III,Republican,Magnolia,243
 Stone,Sheriff,,Mike Farmer,Republican,Magnolia,243
 Stone,Tax Assessor/Collector,,Charles E Williams Jr,Republic.an,Magnolia,258
-Stone,Supervisor,1,Clark Byrd,Republican,Magnolia,X
-Stone,Supervisor,2,Andy Blanchard,Democrat,Magnolia,X
+Stone,Supervisor,1,Clark Byrd,Republican,Magnolia,
+Stone,Supervisor,2,Andy Blanchard,Democrat,Magnolia,
 Stone,Supervisor,2,James Snowden,Republican,Magnolia,X.
-Stone,Supervisor,2,Daniel E Harris,Independent,Magnolia,X
+Stone,Supervisor,2,Daniel E Harris,Independent,Magnolia,
 Stone,Supervisor,3,Lance Peterson,Republican,Magnolia,219
 Stone,Supervisor,3,Chester 'Dusty' Rhodes,Independent,Magnolia,58
-Stone,Supervisor,4,Clark Bond,Republican,Magnolia,x
-Stone,Supervisor,5,Nathan Joel Bond,Republican,Magnolia,X
-Stone,Justice Court Judge East,,Justin Miles,Republican,Magnolia,X
+Stone,Supervisor,4,Clark Bond,Republican,Magnolia,
+Stone,Supervisor,5,Nathan Joel Bond,Republican,Magnolia,
+Stone,Justice Court Judge East,,Justin Miles,Republican,Magnolia,
 Stone,Justice Court Judge West,,Ricky Farmer,Republican,Magnolia,242
-Stone,Constable East,,Everett S 'Steve' Compston Jr,Republican,Magnolia,X
+Stone,Constable East,,Everett S 'Steve' Compston Jr,Republican,Magnolia,
 Stone,Constable West,,Mike Allen,Republican,Magnolia,206
 Stone,Constable West,,Brandon Reid,Independent,Magnolia,73
 Stone,Governor,,Jim Hood,Democrat,McHenry Library,36
@@ -382,17 +382,17 @@ Stone,Coroner,,Wayne Flurry,Republican,McHenry Library,229
 Stone,County Attorney,,Thomas Melvin Matthews III,Republican,McHenry Library,231
 Stone,Sheriff,,Mike Farmer,Republican,McHenry Library,234
 Stone,Tax Assessor/Collector,,Charles E Williams Jr,Republic.an,McHenry Library,239
-Stone,Supervisor,1,Clark Byrd,Republican,McHenry Library,X
-Stone,Supervisor,2,Andy Blanchard,Democrat,McHenry Library,X
-Stone,Supervisor,2,James Snowden,Republican,McHenry Library,X
-Stone,Supervisor,2,Daniel E Harris,Independent,McHenry Library,X
+Stone,Supervisor,1,Clark Byrd,Republican,McHenry Library,
+Stone,Supervisor,2,Andy Blanchard,Democrat,McHenry Library,
+Stone,Supervisor,2,James Snowden,Republican,McHenry Library,
+Stone,Supervisor,2,Daniel E Harris,Independent,McHenry Library,
 Stone,Supervisor,3,Lance Peterson,Republican,McHenry Library,198
 Stone,Supervisor,3,Chester 'Dusty' Rhodes,Independent,McHenry Library,59
-Stone,Supervisor,4,Clark Bond,Republican,McHenry Library,X
-Stone,Supervisor,5,Nathan Joel Bond,Republican,McHenry Library,X
-Stone,Justice Court Judge East,,Justin Miles,Republican,McHenry Library,X
+Stone,Supervisor,4,Clark Bond,Republican,McHenry Library,
+Stone,Supervisor,5,Nathan Joel Bond,Republican,McHenry Library,
+Stone,Justice Court Judge East,,Justin Miles,Republican,McHenry Library,
 Stone,Justice Court Judge West,,Ricky Farmer,Republican,McHenry Library,232
-Stone,Constable East,,Everett S 'Steve' Compston Jr,Republican,McHenry Library,X
+Stone,Constable East,,Everett S 'Steve' Compston Jr,Republican,McHenry Library,
 Stone,Constable West,,Mike Allen,Republican,McHenry Library,224
 Stone,Constable West,,Brandon Reid,Independent,McHenry Library,29
 Stone,Governor,,Jim Hood,Democrat,Elarbee,30
@@ -418,7 +418,7 @@ Stone,Transportation Commissioner,Southern,Tom King,Republican,Elarbee,270
 Stone,District Attorney,2,Joel Smith,Republican,Elarbee,271
 Stone,State Senate,47,Joseph M 'Mike' Seymour,Republican,Elarbee,266
 Stone,State House,93,Tommy Ladner,Republican,Elarbee,266
-Stone,State House,107,Doug McLeod,Republican,Elarbee,X
+Stone,State House,107,Doug McLeod,Republican,Elarbee,
 Stone,Chancery Clerk,,Samuel 'Tom' Smith,Republican,Elarbee,269
 Stone,Circuit Clerk,,Treba Parker Davis,Republican,Elarbee,253
 Stone,Circuit Clerk,,Billy Allen,Independent,Elarbee,31
@@ -426,17 +426,17 @@ Stone,Coroner,,Wayne Flurry,Republican,Elarbee,267
 Stone,County Attorney,,Thomas Melvin Matthews III,Republican,Elarbee,263
 Stone,Sheriff,,Mike Farmer,Republican,Elarbee,263
 Stone,Tax Assessor/Collector,,Charles E Williams Jr,Republic.an,Elarbee,265
-Stone,Supervisor,1,Clark Byrd,Republican,Elarbee,X
-Stone,Supervisor,2,Andy Blanchard,Democrat,Elarbee,X
-Stone,Supervisor,2,James Snowden,Republican,Elarbee,X
-Stone,Supervisor,2,Daniel E Harris,Independent,Elarbee,X
+Stone,Supervisor,1,Clark Byrd,Republican,Elarbee,
+Stone,Supervisor,2,Andy Blanchard,Democrat,Elarbee,
+Stone,Supervisor,2,James Snowden,Republican,Elarbee,
+Stone,Supervisor,2,Daniel E Harris,Independent,Elarbee,
 Stone,Supervisor,3,Lance Peterson,Republican,Elarbee,220
 Stone,Supervisor,3,Chester 'Dusty' Rhodes,Independent,Elarbee,60
-Stone,Supervisor,4,Clark Bond,Republican,Elarbee,X
-Stone,Supervisor,5,Nathan Joel Bond,Republican,Elarbee,X
-Stone,Justice Court Judge East,,Justin Miles,Republican,Elarbee,X
+Stone,Supervisor,4,Clark Bond,Republican,Elarbee,
+Stone,Supervisor,5,Nathan Joel Bond,Republican,Elarbee,
+Stone,Justice Court Judge East,,Justin Miles,Republican,Elarbee,
 Stone,Justice Court Judge West,,Ricky Farmer,Republican,Elarbee,258
-Stone,Constable East,,Everett S 'Steve' Compston Jr,Republican,Elarbee,X
+Stone,Constable East,,Everett S 'Steve' Compston Jr,Republican,Elarbee,
 Stone,Constable West,,Mike Allen,Republican,Elarbee,226
 Stone,Constable West,,Brandon Reid,Independent,Elarbee,54
 Stone,Governor,,Jim Hood,Democrat,Tuxechana,83
@@ -461,7 +461,7 @@ Stone,Public Service Commissioner,Southern,Connie Moran,Democrat,Tuxechana,83
 Stone,Transportation Commissioner,Southern,Tom King,Republican,Tuxechana,633
 Stone,District Attorney,2,Joel Smith,Republican,Tuxechana,627
 Stone,State Senate,47,Joseph M 'Mike' Seymour,Republican,Tuxechana,630
-Stone,State House,93,Tommy Ladner,Republican,Tuxechana,X
+Stone,State House,93,Tommy Ladner,Republican,Tuxechana,
 Stone,State House,107,Doug McLeod,Republican,Tuxechana,613
 Stone,Chancery Clerk,,Samuel 'Tom' Smith,Republican,Tuxechana,624
 Stone,Circuit Clerk,,Treba Parker Davis,Republican,Tuxechana,502
@@ -470,19 +470,19 @@ Stone,Coroner,,Wayne Flurry,Republican,Tuxechana,624
 Stone,County Attorney,,Thomas Melvin Matthews III,Republican,Tuxechana,617
 Stone,Sheriff,,Mike Farmer,Republican,Tuxechana,629
 Stone,Tax Assessor/Collector,,Charles E Williams Jr,Republic.an,Tuxechana,633
-Stone,Supervisor,1,Clark Byrd,Republican,Tuxechana,X
-Stone,Supervisor,2,Andy Blanchard,Democrat,Tuxechana,X
-Stone,Supervisor,2,James Snowden,Republican,Tuxechana,X
-Stone,Supervisor,2,Daniel E Harris,Independent,Tuxechana,X
-Stone,Supervisor,3,Lance Peterson,Republican,Tuxechana,X
-Stone,Supervisor,3,Chester 'Dusty' Rhodes,Independent,Tuxechana,X
+Stone,Supervisor,1,Clark Byrd,Republican,Tuxechana,
+Stone,Supervisor,2,Andy Blanchard,Democrat,Tuxechana,
+Stone,Supervisor,2,James Snowden,Republican,Tuxechana,
+Stone,Supervisor,2,Daniel E Harris,Independent,Tuxechana,
+Stone,Supervisor,3,Lance Peterson,Republican,Tuxechana,
+Stone,Supervisor,3,Chester 'Dusty' Rhodes,Independent,Tuxechana,
 Stone,Supervisor,4,Clark Bond,Republican,Tuxechana,634
-Stone,Supervisor,5,Nathan Joel Bond,Republican,Tuxechana,X
+Stone,Supervisor,5,Nathan Joel Bond,Republican,Tuxechana,
 Stone,Justice Court Judge East,,Justin Miles,Republican,Tuxechana,628
-Stone,Justice Court Judge West,,Ricky Farmer,Republican,Tuxechana,X
-Stone,Constable East,,Everett S 'Steve' Compston Jr,Republican,Tuxechana,X
-Stone,Constable West,,Mike Allen,Republican,Tuxechana,X
-Stone,Constable West,,Brandon Reid,Independent,Tuxechana,X
+Stone,Justice Court Judge West,,Ricky Farmer,Republican,Tuxechana,
+Stone,Constable East,,Everett S 'Steve' Compston Jr,Republican,Tuxechana,
+Stone,Constable West,,Mike Allen,Republican,Tuxechana,
+Stone,Constable West,,Brandon Reid,Independent,Tuxechana,
 Stone,Governor,,Jim Hood,Democrat,McHenry Fire Station,118
 Stone,Governor,,Tate Reeves,Repubilcan,McHenry Fire Station,248
 Stone,Governor,,Bob Hickingbottom,Constitution,McHenry Fire Station,2
@@ -514,14 +514,14 @@ Stone,Coroner,,Wayne Flurry,Republican,McHenry Fire Station,327
 Stone,County Attorney,,Thomas Melvin Matthews III,Republican,McHenry Fire Station,320
 Stone,Sheriff,,Mike Farmer,Republican,McHenry Fire Station,326
 Stone,Tax Assessor/Collector,,Charles E Williams Jr,Republic.an,McHenry Fire Station,334
-Stone,Supervisor,1,Clark Byrd,Republican,McHenry Fire Station,X
-Stone,Supervisor,2,Andy Blanchard,Democrat,McHenry Fire Station,X
-Stone,Supervisor,2,James Snowden,Republican,McHenry Fire Station,X
-Stone,Supervisor,2,Daniel E Harris,Independent,McHenry Fire Station,X
-Stone,Supervisor,3,Lance Peterson,Republican,McHenry Fire Station,X
-Stone,Supervisor,3,Chester 'Dusty' Rhodes,Independent,McHenry Fire Station,X
+Stone,Supervisor,1,Clark Byrd,Republican,McHenry Fire Station,
+Stone,Supervisor,2,Andy Blanchard,Democrat,McHenry Fire Station,
+Stone,Supervisor,2,James Snowden,Republican,McHenry Fire Station,
+Stone,Supervisor,2,Daniel E Harris,Independent,McHenry Fire Station,
+Stone,Supervisor,3,Lance Peterson,Republican,McHenry Fire Station,
+Stone,Supervisor,3,Chester 'Dusty' Rhodes,Independent,McHenry Fire Station,
 Stone,Supervisor,4,Clark Bond,Republican,McHenry Fire Station,3287
-Stone,Supervisor,5,Nathan Joel Bond,Republican,McHenry Fire Station,X
+Stone,Supervisor,5,Nathan Joel Bond,Republican,McHenry Fire Station,
 Stone,Justice Court Judge East,,Justin Miles,Republican,McHenry Fire Station,125
 Stone,Justice Court Judge West,,Ricky Farmer,Republican,McHenry Fire Station,203
 Stone,Constable East,,Everett S 'Steve' Compston Jr,Republican,McHenry Fire Station,126
@@ -549,7 +549,7 @@ Stone,Public Service Commissioner,Southern,Connie Moran,Democrat,Flint Creek,138
 Stone,Transportation Commissioner,Southern,Tom King,Republican,Flint Creek,504
 Stone,District Attorney,2,Joel Smith,Republican,Flint Creek,498
 Stone,State Senate,47,Joseph M 'Mike' Seymour,Republican,Flint Creek,496
-Stone,State House,93,Tommy Ladner,Republican,Flint Creek,X
+Stone,State House,93,Tommy Ladner,Republican,Flint Creek,
 Stone,State House,107,Doug McLeod,Republican,Flint Creek,482
 Stone,Chancery Clerk,,Samuel 'Tom' Smith,Republican,Flint Creek,501
 Stone,Circuit Clerk,,Treba Parker Davis,Republican,Flint Creek,370
@@ -558,13 +558,13 @@ Stone,Coroner,,Wayne Flurry,Republican,Flint Creek,510
 Stone,County Attorney,,Thomas Melvin Matthews III,Republican,Flint Creek,488
 Stone,Sheriff,,Mike Farmer,Republican,Flint Creek,512
 Stone,Tax Assessor/Collector,,Charles E Williams Jr,Republic.an,Flint Creek,518
-Stone,Supervisor,1,Clark Byrd,Republican,Flint Creek,X
-Stone,Supervisor,2,Andy Blanchard,Democrat,Flint Creek,X
-Stone,Supervisor,2,James Snowden,Republican,Flint Creek,X
-Stone,Supervisor,2,Daniel E Harris,Independent,Flint Creek,X
-Stone,Supervisor,3,Lance Peterson,Republican,Flint Creek,X
-Stone,Supervisor,3,Chester 'Dusty' Rhodes,Independent,Flint Creek,X
-Stone,Supervisor,4,Clark Bond,Republican,Flint Creek,X
+Stone,Supervisor,1,Clark Byrd,Republican,Flint Creek,
+Stone,Supervisor,2,Andy Blanchard,Democrat,Flint Creek,
+Stone,Supervisor,2,James Snowden,Republican,Flint Creek,
+Stone,Supervisor,2,Daniel E Harris,Independent,Flint Creek,
+Stone,Supervisor,3,Lance Peterson,Republican,Flint Creek,
+Stone,Supervisor,3,Chester 'Dusty' Rhodes,Independent,Flint Creek,
+Stone,Supervisor,4,Clark Bond,Republican,Flint Creek,
 Stone,Supervisor,5,Nathan Joel Bond,Republican,Flint Creek,507
 Stone,Justice Court Judge East,,Justin Miles,Republican,Flint Creek,506
 Stone,Justice Court Judge West,,Ricky Farmer,Republican,Flint Creek,0
@@ -593,7 +593,7 @@ Stone,Public Service Commissioner,Southern,Connie Moran,Democrat,Big Level,89
 Stone,Transportation Commissioner,Southern,Tom King,Republican,Big Level,445
 Stone,District Attorney,2,Joel Smith,Republican,Big Level,440
 Stone,State Senate,47,Joseph M 'Mike' Seymour,Republican,Big Level,443
-Stone,State House,93,Tommy Ladner,Republican,Big Level,X
+Stone,State House,93,Tommy Ladner,Republican,Big Level,
 Stone,State House,107,Doug McLeod,Republican,Big Level,409
 Stone,Chancery Clerk,,Samuel 'Tom' Smith,Republican,Big Level,442
 Stone,Circuit Clerk,,Treba Parker Davis,Republican,Big Level,333
@@ -602,19 +602,19 @@ Stone,Coroner,,Wayne Flurry,Republican,Big Level,435
 Stone,County Attorney,,Thomas Melvin Matthews III,Republican,Big Level,431
 Stone,Sheriff,,Mike Farmer,Republican,Big Level,445
 Stone,Tax Assessor/Collector,,Charles E Williams Jr,Republic.an,Big Level,458
-Stone,Supervisor,1,Clark Byrd,Republican,Big Level,X
-Stone,Supervisor,2,Andy Blanchard,Democrat,Big Level,X
-Stone,Supervisor,2,James Snowden,Republican,Big Level,X
-Stone,Supervisor,2,Daniel E Harris,Independent,Big Level,X
-Stone,Supervisor,3,Lance Peterson,Republican,Big Level,X
-Stone,Supervisor,3,Chester 'Dusty' Rhodes,Independent,Big Level,X
-Stone,Supervisor,4,Clark Bond,Republican,Big Level,X
+Stone,Supervisor,1,Clark Byrd,Republican,Big Level,
+Stone,Supervisor,2,Andy Blanchard,Democrat,Big Level,
+Stone,Supervisor,2,James Snowden,Republican,Big Level,
+Stone,Supervisor,2,Daniel E Harris,Independent,Big Level,
+Stone,Supervisor,3,Lance Peterson,Republican,Big Level,
+Stone,Supervisor,3,Chester 'Dusty' Rhodes,Independent,Big Level,
+Stone,Supervisor,4,Clark Bond,Republican,Big Level,
 Stone,Supervisor,5,Nathan Joel Bond,Republican,Big Level,450
 Stone,Justice Court Judge East,,Justin Miles,Republican,Big Level,444
-Stone,Justice Court Judge West,,Ricky Farmer,Republican,Big Level,X
+Stone,Justice Court Judge West,,Ricky Farmer,Republican,Big Level,
 Stone,Constable East,,Everett S 'Steve' Compston Jr,Republican,Big Level,440
-Stone,Constable West,,Mike Allen,Republican,Big Level,X
-Stone,Constable West,,Brandon Reid,Independent,Big Level,X
+Stone,Constable West,,Mike Allen,Republican,Big Level,
+Stone,Constable West,,Brandon Reid,Independent,Big Level,
 Stone,Governor,,Jim Hood,Democrat,Pleasant Hill,21
 Stone,Governor,,Tate Reeves,Repubilcan,Pleasant Hill,130
 Stone,Governor,,Bob Hickingbottom,Constitution,Pleasant Hill,0
@@ -637,7 +637,7 @@ Stone,Public Service Commissioner,Southern,Connie Moran,Democrat,Pleasant Hill,2
 Stone,Transportation Commissioner,Southern,Tom King,Republican,Pleasant Hill,145
 Stone,District Attorney,2,Joel Smith,Republican,Pleasant Hill,143
 Stone,State Senate,47,Joseph M 'Mike' Seymour,Republican,Pleasant Hill,145
-Stone,State House,93,Tommy Ladner,Republican,Pleasant Hill,X
+Stone,State House,93,Tommy Ladner,Republican,Pleasant Hill,
 Stone,State House,107,Doug McLeod,Republican,Pleasant Hill,136
 Stone,Chancery Clerk,,Samuel 'Tom' Smith,Republican,Pleasant Hill,143
 Stone,Circuit Clerk,,Treba Parker Davis,Republican,Pleasant Hill,81
@@ -646,19 +646,19 @@ Stone,Coroner,,Wayne Flurry,Republican,Pleasant Hill,145
 Stone,County Attorney,,Thomas Melvin Matthews III,Republican,Pleasant Hill,140
 Stone,Sheriff,,Mike Farmer,Republican,Pleasant Hill,142
 Stone,Tax Assessor/Collector,,Charles E Williams Jr,Republic.an,Pleasant Hill,148
-Stone,Supervisor,1,Clark Byrd,Republican,Pleasant Hill,X
-Stone,Supervisor,2,Andy Blanchard,Democrat,Pleasant Hill,X
-Stone,Supervisor,2,James Snowden,Republican,Pleasant Hill,X
-Stone,Supervisor,2,Daniel E Harris,Independent,Pleasant Hill,X
-Stone,Supervisor,3,Lance Peterson,Republican,Pleasant Hill,X
-Stone,Supervisor,3,Chester 'Dusty' Rhodes,Independent,Pleasant Hill,X
-Stone,Supervisor,4,Clark Bond,Republican,Pleasant Hill,X
+Stone,Supervisor,1,Clark Byrd,Republican,Pleasant Hill,
+Stone,Supervisor,2,Andy Blanchard,Democrat,Pleasant Hill,
+Stone,Supervisor,2,James Snowden,Republican,Pleasant Hill,
+Stone,Supervisor,2,Daniel E Harris,Independent,Pleasant Hill,
+Stone,Supervisor,3,Lance Peterson,Republican,Pleasant Hill,
+Stone,Supervisor,3,Chester 'Dusty' Rhodes,Independent,Pleasant Hill,
+Stone,Supervisor,4,Clark Bond,Republican,Pleasant Hill,
 Stone,Supervisor,5,Nathan Joel Bond,Republican,Pleasant Hill,146
 Stone,Justice Court Judge East,,Justin Miles,Republican,Pleasant Hill,141
-Stone,Justice Court Judge West,,Ricky Farmer,Republican,Pleasant Hill,X
+Stone,Justice Court Judge West,,Ricky Farmer,Republican,Pleasant Hill,
 Stone,Constable East,,Everett S 'Steve' Compston Jr,Republican,Pleasant Hill,145
-Stone,Constable West,,Mike Allen,Republican,Pleasant Hill,X
-Stone,Constable West,,Brandon Reid,Independent,Pleasant Hill,X
+Stone,Constable West,,Mike Allen,Republican,Pleasant Hill,
+Stone,Constable West,,Brandon Reid,Independent,Pleasant Hill,
 Stone,Governor,,Jim Hood,Democrat,Total,1530
 Stone,Governor,,Tate Reeves,Repubilcan,Total,3628
 Stone,Governor,,Bob Hickingbottom,Constitution,Total,24

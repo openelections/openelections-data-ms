@@ -14,12 +14,12 @@ Addie Lee Green,State Treasurer,,D,Jones,Antioch,16
 David McRae,State Treasurer,,R,Jones,Antioch,234
 Rickey L Cole,Commissioner of Agriculture & Commerce,,D,Jones,Antioch,27
 Andy Gipson,Commissioner of Agriculture & Commerce,,R,Jones,Antioch,224
-Juan Barnett,State Senate,34,D,Jones,Antioch,X
-Steven L Wade,State Senate,34,R,Jones,Antioch,X
+Juan Barnett,State Senate,34,D,Jones,Antioch,
+Steven L Wade,State Senate,34,R,Jones,Antioch,
 Chris McDaniel,State Senate,42,R,Jones,Antioch,245
-Omeria Scott,State House,80,D,Jones,Antioch,X
+Omeria Scott,State House,80,D,Jones,Antioch,
 Ramona Q Blackledge,State House,88,R,Jones,Antioch,252
-Donnie Scoggin,State House,89,R,Jones,Antioch,X
+Donnie Scoggin,State House,89,R,Jones,Antioch,
 Jim Hood,Governor,,D,Jones,Big Creek,46
 Tate Reeves,Governor,,R,Jones,Big Creek,296
 Bob Hickingbottom,Governor,,C,Jones,Big Creek,0
@@ -37,10 +37,10 @@ Rickey L Cole,Commissioner of Agriculture & Commerce,,D,Jones,Big Creek,25
 Andy Gipson,Commissioner of Agriculture & Commerce,,R,Jones,Big Creek,317
 Juan Barnett,State Senate,34,D,Jones,Big Creek,19
 Steven L Wade,State Senate,34,R,Jones,Big Creek,323
-Chris McDaniel,State Senate,42,R,Jones,Big Creek,X
-Omeria Scott,State House,80,D,Jones,Big Creek,X
+Chris McDaniel,State Senate,42,R,Jones,Big Creek,
+Omeria Scott,State House,80,D,Jones,Big Creek,
 Ramona Q Blackledge,State House,88,R,Jones,Big Creek,337
-Donnie Scoggin,State House,89,R,Jones,Big Creek,X
+Donnie Scoggin,State House,89,R,Jones,Big Creek,
 Jim Hood,Governor,,D,Jones,Blackwell,20
 Tate Reeves,Governor,,R,Jones,Blackwell,203
 Bob Hickingbottom,Governor,,C,Jones,Blackwell,0
@@ -58,10 +58,10 @@ Rickey L Cole,Commissioner of Agriculture & Commerce,,D,Jones,Blackwell,19
 Andy Gipson,Commissioner of Agriculture & Commerce,,R,Jones,Blackwell,211
 Juan Barnett,State Senate,34,D,Jones,Blackwell,12
 Steven L Wade,State Senate,34,R,Jones,Blackwell,219
-Chris McDaniel,State Senate,42,R,Jones,Blackwell,X
-Omeria Scott,State House,80,D,Jones,Blackwell,X
+Chris McDaniel,State Senate,42,R,Jones,Blackwell,
+Omeria Scott,State House,80,D,Jones,Blackwell,
 Ramona Q Blackledge,State House,88,R,Jones,Blackwell,226
-Donnie Scoggin,State House,89,R,Jones,Blackwell,X
+Donnie Scoggin,State House,89,R,Jones,Blackwell,
 Jim Hood,Governor,,D,Jones,Calhoun,154
 Tate Reeves,Governor,,R,Jones,Calhoun,950
 Bob Hickingbottom,Governor,,C,Jones,Calhoun,3
@@ -77,11 +77,11 @@ Addie Lee Green,State Treasurer,,D,Jones,Calhoun,70
 David McRae,State Treasurer,,R,Jones,Calhoun,1054
 Rickey L Cole,Commissioner of Agriculture & Commerce,,D,Jones,Calhoun,117
 Andy Gipson,Commissioner of Agriculture & Commerce,,R,Jones,Calhoun,1007
-Juan Barnett,State Senate,34,D,Jones,Calhoun,X
-Steven L Wade,State Senate,34,R,Jones,Calhoun,X
+Juan Barnett,State Senate,34,D,Jones,Calhoun,
+Steven L Wade,State Senate,34,R,Jones,Calhoun,
 Chris McDaniel,State Senate,42,R,Jones,Calhoun,1077
-Omeria Scott,State House,80,D,Jones,Calhoun,X
-Ramona Q Blackledge,State House,88,R,Jones,Calhoun,X
+Omeria Scott,State House,80,D,Jones,Calhoun,
+Ramona Q Blackledge,State House,88,R,Jones,Calhoun,
 Donnie Scoggin,State House,89,R,Jones,Calhoun,1100
 Jim Hood,Governor,,D,Jones,Centerville,17
 Tate Reeves,Governor,,R,Jones,Centerville,115
@@ -100,10 +100,10 @@ Rickey L Cole,Commissioner of Agriculture & Commerce,,D,Jones,Centerville,15
 Andy Gipson,Commissioner of Agriculture & Commerce,,R,Jones,Centerville,119
 Juan Barnett,State Senate,34,D,Jones,Centerville,11
 Steven L Wade,State Senate,34,R,Jones,Centerville,122
-Chris McDaniel,State Senate,42,R,Jones,Centerville,X
-Omeria Scott,State House,80,D,Jones,Centerville,X
+Chris McDaniel,State Senate,42,R,Jones,Centerville,
+Omeria Scott,State House,80,D,Jones,Centerville,
 Ramona Q Blackledge,State House,88,R,Jones,Centerville,134
-Donnie Scoggin,State House,89,R,Jones,Centerville,X
+Donnie Scoggin,State House,89,R,Jones,Centerville,
 Jim Hood,Governor,,D,Jones,Currie,135
 Tate Reeves,Governor,,R,Jones,Currie,12
 Bob Hickingbottom,Governor,,C,Jones,Currie,0
@@ -119,12 +119,12 @@ Addie Lee Green,State Treasurer,,D,Jones,Currie,124
 David McRae,State Treasurer,,R,Jones,Currie,21
 Rickey L Cole,Commissioner of Agriculture & Commerce,,D,Jones,Currie,127
 Andy Gipson,Commissioner of Agriculture & Commerce,,R,Jones,Currie,16
-Juan Barnett,State Senate,34,D,Jones,Currie,X
-Steven L Wade,State Senate,34,R,Jones,Currie,X
+Juan Barnett,State Senate,34,D,Jones,Currie,
+Steven L Wade,State Senate,34,R,Jones,Currie,
 Chris McDaniel,State Senate,42,R,Jones,Currie,79
-Omeria Scott,State House,80,D,Jones,Currie,X
+Omeria Scott,State House,80,D,Jones,Currie,
 Ramona Q Blackledge,State House,88,R,Jones,Currie,93
-Donnie Scoggin,State House,89,R,Jones,Currie,X
+Donnie Scoggin,State House,89,R,Jones,Currie,
 Jim Hood,Governor,,D,Jones,Erata,144
 Tate Reeves,Governor,,R,Jones,Erata,107
 Bob Hickingbottom,Governor,,C,Jones,Erata,1
@@ -140,11 +140,11 @@ Addie Lee Green,State Treasurer,,D,Jones,Erata,122
 David McRae,State Treasurer,,R,Jones,Erata,128
 Rickey L Cole,Commissioner of Agriculture & Commerce,,D,Jones,Erata,129
 Andy Gipson,Commissioner of Agriculture & Commerce,,R,Jones,Erata,120
-Juan Barnett,State Senate,34,D,Jones,Erata,X
-Steven L Wade,State Senate,34,R,Jones,Erata,X
+Juan Barnett,State Senate,34,D,Jones,Erata,
+Steven L Wade,State Senate,34,R,Jones,Erata,
 Chris McDaniel,State Senate,42,R,Jones,Erata,169
 Omeria Scott,State House,80,D,Jones,Erata,197
-Ramona Q Blackledge,State House,88,R,Jones,Erata,X
+Ramona Q Blackledge,State House,88,R,Jones,Erata,
 Donnie Scoggin,State House,89,R,Jones,Erata,
 Jim Hood,Governor,,D,Jones,First Assembly of God,246
 Tate Reeves,Governor,,R,Jones,First Assembly of God,238
@@ -161,11 +161,11 @@ Addie Lee Green,State Treasurer,,D,Jones,First Assembly of God,201
 David McRae,State Treasurer,,R,Jones,First Assembly of God,284
 Rickey L Cole,Commissioner of Agriculture & Commerce,,D,Jones,First Assembly of God,221
 Andy Gipson,Commissioner of Agriculture & Commerce,,R,Jones,First Assembly of God,265
-Juan Barnett,State Senate,34,D,Jones,First Assembly of God,X
-Steven L Wade,State Senate,34,R,Jones,First Assembly of God,X
+Juan Barnett,State Senate,34,D,Jones,First Assembly of God,
+Steven L Wade,State Senate,34,R,Jones,First Assembly of God,
 Chris McDaniel,State Senate,42,R,Jones,First Assembly of God,386
-Omeria Scott,State House,80,D,Jones,First Assembly of God,X
-Ramona Q Blackledge,State House,88,R,Jones,First Assembly of God,X
+Omeria Scott,State House,80,D,Jones,First Assembly of God,
+Ramona Q Blackledge,State House,88,R,Jones,First Assembly of God,
 Donnie Scoggin,State House,89,R,Jones,First Assembly of God,418
 Jim Hood,Governor,,D,Jones,George Harrison,288
 Tate Reeves,Governor,,R,Jones,George Harrison,581
@@ -182,11 +182,11 @@ Addie Lee Green,State Treasurer,,D,Jones,George Harrison,212
 David McRae,State Treasurer,,R,Jones,George Harrison,664
 Rickey L Cole,Commissioner of Agriculture & Commerce,,D,Jones,George Harrison,260
 Andy Gipson,Commissioner of Agriculture & Commerce,,R,Jones,George Harrison,616
-Juan Barnett,State Senate,34,D,Jones,George Harrison,X
-Steven L Wade,State Senate,34,R,Jones,George Harrison,X
+Juan Barnett,State Senate,34,D,Jones,George Harrison,
+Steven L Wade,State Senate,34,R,Jones,George Harrison,
 Chris McDaniel,State Senate,42,R,Jones,George Harrison,737
-Omeria Scott,State House,80,D,Jones,George Harrison,X
-Ramona Q Blackledge,State House,88,R,Jones,George Harrison,X
+Omeria Scott,State House,80,D,Jones,George Harrison,
+Ramona Q Blackledge,State House,88,R,Jones,George Harrison,
 Donnie Scoggin,State House,89,R,Jones,George Harrison,783
 Jim Hood,Governor,,D,Jones,Gitano,54
 Tate Reeves,Governor,,R,Jones,Gitano,129
@@ -205,10 +205,10 @@ Rickey L Cole,Commissioner of Agriculture & Commerce,,D,Jones,Gitano,50
 Andy Gipson,Commissioner of Agriculture & Commerce,,R,Jones,Gitano,134
 Juan Barnett,State Senate,34,D,Jones,Gitano,44
 Steven L Wade,State Senate,34,R,Jones,Gitano,140
-Chris McDaniel,State Senate,42,R,Jones,Gitano,X
-Omeria Scott,State House,80,D,Jones,Gitano,X
+Chris McDaniel,State Senate,42,R,Jones,Gitano,
+Omeria Scott,State House,80,D,Jones,Gitano,
 Ramona Q Blackledge,State House,88,R,Jones,Gitano,174
-Donnie Scoggin,State House,89,R,Jones,Gitano,X
+Donnie Scoggin,State House,89,R,Jones,Gitano,
 Jim Hood,Governor,,D,Jones,Glade,86
 Tate Reeves,Governor,,R,Jones,Glade,542
 Bob Hickingbottom,Governor,,C,Jones,Glade,0
@@ -224,12 +224,12 @@ Addie Lee Green,State Treasurer,,D,Jones,Glade,35
 David McRae,State Treasurer,,R,Jones,Glade,605
 Rickey L Cole,Commissioner of Agriculture & Commerce,,D,Jones,Glade,60
 Andy Gipson,Commissioner of Agriculture & Commerce,,R,Jones,Glade,583
-Juan Barnett,State Senate,34,D,Jones,Glade,X
-Steven L Wade,State Senate,34,R,Jones,Glade,X
+Juan Barnett,State Senate,34,D,Jones,Glade,
+Steven L Wade,State Senate,34,R,Jones,Glade,
 Chris McDaniel,State Senate,42,R,Jones,Glade,626
-Omeria Scott,State House,80,D,Jones,Glade,X
+Omeria Scott,State House,80,D,Jones,Glade,
 Ramona Q Blackledge,State House,88,R,Jones,Glade,635
-Donnie Scoggin,State House,89,R,Jones,Glade,X
+Donnie Scoggin,State House,89,R,Jones,Glade,
 Jim Hood,Governor,,D,Jones,Hebron,281
 Tate Reeves,Governor,,R,Jones,Hebron,142
 Bob Hickingbottom,Governor,,C,Jones,Hebron,0
@@ -247,10 +247,10 @@ Rickey L Cole,Commissioner of Agriculture & Commerce,,D,Jones,Hebron,254
 Andy Gipson,Commissioner of Agriculture & Commerce,,R,Jones,Hebron,165
 Juan Barnett,State Senate,34,D,Jones,Hebron,270
 Steven L Wade,State Senate,34,R,Jones,Hebron,151
-Chris McDaniel,State Senate,42,R,Jones,Hebron,X
-Omeria Scott,State House,80,D,Jones,Hebron,X
+Chris McDaniel,State Senate,42,R,Jones,Hebron,
+Omeria Scott,State House,80,D,Jones,Hebron,
 Ramona Q Blackledge,State House,88,R,Jones,Hebron,302
-Donnie Scoggin,State House,89,R,Jones,Hebron,X
+Donnie Scoggin,State House,89,R,Jones,Hebron,
 Jim Hood,Governor,,D,Jones,Johnson,54
 Tate Reeves,Governor,,R,Jones,Johnson,327
 Bob Hickingbottom,Governor,,C,Jones,Johnson,5
@@ -266,10 +266,10 @@ Addie Lee Green,State Treasurer,,D,Jones,Johnson,18
 David McRae,State Treasurer,,R,Jones,Johnson,370
 Rickey L Cole,Commissioner of Agriculture & Commerce,,D,Jones,Johnson,33
 Andy Gipson,Commissioner of Agriculture & Commerce,,R,Jones,Johnson,354
-Juan Barnett,State Senate,34,D,Jones,Johnson,X
-Steven L Wade,State Senate,34,R,Jones,Johnson,X
+Juan Barnett,State Senate,34,D,Jones,Johnson,
+Steven L Wade,State Senate,34,R,Jones,Johnson,
 Chris McDaniel,State Senate,42,R,Jones,Johnson,378
-Omeria Scott,State House,80,D,Jones,Johnson,X
+Omeria Scott,State House,80,D,Jones,Johnson,
 Ramona Q Blackledge,State House,88,R,Jones,Johnson,208
 Donnie Scoggin,State House,89,R,Jones,Johnson,171
 Jim Hood,Governor,,D,Jones,L T Ellis Center,964
@@ -289,10 +289,10 @@ Rickey L Cole,Commissioner of Agriculture & Commerce,,D,Jones,L T Ellis Center,9
 Andy Gipson,Commissioner of Agriculture & Commerce,,R,Jones,L T Ellis Center,48
 Juan Barnett,State Senate,34,D,Jones,L T Ellis Center,943
 Steven L Wade,State Senate,34,R,Jones,L T Ellis Center,30
-Chris McDaniel,State Senate,42,R,Jones,L T Ellis Center,X
+Chris McDaniel,State Senate,42,R,Jones,L T Ellis Center,
 Omeria Scott,State House,80,D,Jones,L T Ellis Center,952
-Ramona Q Blackledge,State House,88,R,Jones,L T Ellis Center,X
-Donnie Scoggin,State House,89,R,Jones,L T Ellis Center,X
+Ramona Q Blackledge,State House,88,R,Jones,L T Ellis Center,
+Donnie Scoggin,State House,89,R,Jones,L T Ellis Center,
 Jim Hood,Governor,,D,Jones,Landrum,29
 Tate Reeves,Governor,,R,Jones,Landrum,230
 Bob Hickingbottom,Governor,,C,Jones,Landrum,2
@@ -308,12 +308,12 @@ Addie Lee Green,State Treasurer,,D,Jones,Landrum,16
 David McRae,State Treasurer,,R,Jones,Landrum,252
 Rickey L Cole,Commissioner of Agriculture & Commerce,,D,Jones,Landrum,32
 Andy Gipson,Commissioner of Agriculture & Commerce,,R,Jones,Landrum,237
-Juan Barnett,State Senate,34,D,Jones,Landrum,X
-Steven L Wade,State Senate,34,R,Jones,Landrum,X
+Juan Barnett,State Senate,34,D,Jones,Landrum,
+Steven L Wade,State Senate,34,R,Jones,Landrum,
 Chris McDaniel,State Senate,42,R,Jones,Landrum,262
-Omeria Scott,State House,80,D,Jones,Landrum,X
+Omeria Scott,State House,80,D,Jones,Landrum,
 Ramona Q Blackledge,State House,88,R,Jones,Landrum,264
-Donnie Scoggin,State House,89,R,Jones,Landrum,X
+Donnie Scoggin,State House,89,R,Jones,Landrum,
 Jim Hood,Governor,,D,Jones,Magnolia Center,809
 Tate Reeves,Governor,,R,Jones,Magnolia Center,193
 Bob Hickingbottom,Governor,,C,Jones,Magnolia Center,1
@@ -331,10 +331,10 @@ Rickey L Cole,Commissioner of Agriculture & Commerce,,D,Jones,Magnolia Center,76
 Andy Gipson,Commissioner of Agriculture & Commerce,,R,Jones,Magnolia Center,204
 Juan Barnett,State Senate,34,D,Jones,Magnolia Center,782
 Steven L Wade,State Senate,34,R,Jones,Magnolia Center,206
-Chris McDaniel,State Senate,42,R,Jones,Magnolia Center,X
+Chris McDaniel,State Senate,42,R,Jones,Magnolia Center,
 Omeria Scott,State House,80,D,Jones,Magnolia Center,915
-Ramona Q Blackledge,State House,88,R,Jones,Magnolia Center,X
-Donnie Scoggin,State House,89,R,Jones,Magnolia Center,X
+Ramona Q Blackledge,State House,88,R,Jones,Magnolia Center,
+Donnie Scoggin,State House,89,R,Jones,Magnolia Center,
 Jim Hood,Governor,,D,Jones,Matthews,55
 Tate Reeves,Governor,,R,Jones,Matthews,275
 Bob Hickingbottom,Governor,,C,Jones,Matthews,0
@@ -350,11 +350,11 @@ Addie Lee Green,State Treasurer,,D,Jones,Matthews,28
 David McRae,State Treasurer,,R,Jones,Matthews,305
 Rickey L Cole,Commissioner of Agriculture & Commerce,,D,Jones,Matthews,40
 Andy Gipson,Commissioner of Agriculture & Commerce,,R,Jones,Matthews,294
-Juan Barnett,State Senate,34,D,Jones,Matthews,X
-Steven L Wade,State Senate,34,R,Jones,Matthews,X
+Juan Barnett,State Senate,34,D,Jones,Matthews,
+Steven L Wade,State Senate,34,R,Jones,Matthews,
 Chris McDaniel,State Senate,42,R,Jones,Matthews,318
-Omeria Scott,State House,80,D,Jones,Matthews,X
-Ramona Q Blackledge,State House,88,R,Jones,Matthews,X
+Omeria Scott,State House,80,D,Jones,Matthews,
+Ramona Q Blackledge,State House,88,R,Jones,Matthews,
 Donnie Scoggin,State House,89,R,Jones,Matthews,317
 Jim Hood,Governor,,D,Jones,Moselle,152
 Tate Reeves,Governor,,R,Jones,Moselle,445
@@ -371,12 +371,12 @@ Addie Lee Green,State Treasurer,,D,Jones,Moselle,122
 David McRae,State Treasurer,,R,Jones,Moselle,483
 Rickey L Cole,Commissioner of Agriculture & Commerce,,D,Jones,Moselle,140
 Andy Gipson,Commissioner of Agriculture & Commerce,,R,Jones,Moselle,470
-Juan Barnett,State Senate,34,D,Jones,Moselle,X
-Steven L Wade,State Senate,34,R,Jones,Moselle,X
+Juan Barnett,State Senate,34,D,Jones,Moselle,
+Steven L Wade,State Senate,34,R,Jones,Moselle,
 Chris McDaniel,State Senate,42,R,Jones,Moselle,531
-Omeria Scott,State House,80,D,Jones,Moselle,X
+Omeria Scott,State House,80,D,Jones,Moselle,
 Ramona Q Blackledge,State House,88,R,Jones,Moselle,554
-Donnie Scoggin,State House,89,R,Jones,Moselle,X
+Donnie Scoggin,State House,89,R,Jones,Moselle,
 Jim Hood,Governor,,D,Jones,Myrick,103
 Tate Reeves,Governor,,R,Jones,Myrick,700
 Bob Hickingbottom,Governor,,C,Jones,Myrick,3
@@ -392,12 +392,12 @@ Addie Lee Green,State Treasurer,,D,Jones,Myrick,40
 David McRae,State Treasurer,,R,Jones,Myrick,781
 Rickey L Cole,Commissioner of Agriculture & Commerce,,D,Jones,Myrick,77
 Andy Gipson,Commissioner of Agriculture & Commerce,,R,Jones,Myrick,742
-Juan Barnett,State Senate,34,D,Jones,Myrick,X
-Steven L Wade,State Senate,34,R,Jones,Myrick,X
+Juan Barnett,State Senate,34,D,Jones,Myrick,
+Steven L Wade,State Senate,34,R,Jones,Myrick,
 Chris McDaniel,State Senate,42,R,Jones,Myrick,803
-Omeria Scott,State House,80,D,Jones,Myrick,X
+Omeria Scott,State House,80,D,Jones,Myrick,
 Ramona Q Blackledge,State House,88,R,Jones,Myrick,803
-Donnie Scoggin,State House,89,R,Jones,Myrick,X
+Donnie Scoggin,State House,89,R,Jones,Myrick,
 Jim Hood,Governor,,D,Jones,North Laurel,663
 Tate Reeves,Governor,,R,Jones,North Laurel,761
 Bob Hickingbottom,Governor,,C,Jones,North Laurel,6
@@ -417,7 +417,7 @@ Juan Barnett,State Senate,34,D,Jones,North Laurel,222
 Steven L Wade,State Senate,34,R,Jones,North Laurel,221
 Chris McDaniel,State Senate,42,R,Jones,North Laurel,782
 Omeria Scott,State House,80,D,Jones,North Laurel,438
-Ramona Q Blackledge,State House,88,R,Jones,North Laurel,X
+Ramona Q Blackledge,State House,88,R,Jones,North Laurel,
 Donnie Scoggin,State House,89,R,Jones,North Laurel,781
 Jim Hood,Governor,,D,Jones,Oak Park School,442
 Tate Reeves,Governor,,R,Jones,Oak Park School,10
@@ -436,10 +436,10 @@ Rickey L Cole,Commissioner of Agriculture & Commerce,,D,Jones,Oak Park School,42
 Andy Gipson,Commissioner of Agriculture & Commerce,,R,Jones,Oak Park School,14
 Juan Barnett,State Senate,34,D,Jones,Oak Park School,434
 Steven L Wade,State Senate,34,R,Jones,Oak Park School,9
-Chris McDaniel,State Senate,42,R,Jones,Oak Park School,X
+Chris McDaniel,State Senate,42,R,Jones,Oak Park School,
 Omeria Scott,State House,80,D,Jones,Oak Park School,441
-Ramona Q Blackledge,State House,88,R,Jones,Oak Park School,X
-Donnie Scoggin,State House,89,R,Jones,Oak Park School,X
+Ramona Q Blackledge,State House,88,R,Jones,Oak Park School,
+Donnie Scoggin,State House,89,R,Jones,Oak Park School,
 Jim Hood,Governor,,D,Jones,Ovett,58
 Tate Reeves,Governor,,R,Jones,Ovett,381
 Bob Hickingbottom,Governor,,C,Jones,Ovett,2
@@ -455,12 +455,12 @@ Addie Lee Green,State Treasurer,,D,Jones,Ovett,31
 David McRae,State Treasurer,,R,Jones,Ovett,411
 Rickey L Cole,Commissioner of Agriculture & Commerce,,D,Jones,Ovett,66
 Andy Gipson,Commissioner of Agriculture & Commerce,,R,Jones,Ovett,376
-Juan Barnett,State Senate,34,D,Jones,Ovett,X
-Steven L Wade,State Senate,34,R,Jones,Ovett,X
+Juan Barnett,State Senate,34,D,Jones,Ovett,
+Steven L Wade,State Senate,34,R,Jones,Ovett,
 Chris McDaniel,State Senate,42,R,Jones,Ovett,423
-Omeria Scott,State House,80,D,Jones,Ovett,X
+Omeria Scott,State House,80,D,Jones,Ovett,
 Ramona Q Blackledge,State House,88,R,Jones,Ovett,431
-Donnie Scoggin,State House,89,R,Jones,Ovett,X
+Donnie Scoggin,State House,89,R,Jones,Ovett,
 Jim Hood,Governor,,D,Jones,Parkview Baptist Church,288
 Tate Reeves,Governor,,R,Jones,Parkview Baptist Church,267
 Bob Hickingbottom,Governor,,C,Jones,Parkview Baptist Church,0
@@ -480,7 +480,7 @@ Juan Barnett,State Senate,34,D,Jones,Parkview Baptist Church,186
 Steven L Wade,State Senate,34,R,Jones,Parkview Baptist Church,165
 Chris McDaniel,State Senate,42,R,Jones,Parkview Baptist Church,157
 Omeria Scott,State House,80,D,Jones,Parkview Baptist Church,157
-Ramona Q Blackledge,State House,88,R,Jones,Parkview Baptist Church,X
+Ramona Q Blackledge,State House,88,R,Jones,Parkview Baptist Church,
 Donnie Scoggin,State House,89,R,Jones,Parkview Baptist Church,346
 Jim Hood,Governor,,D,Jones,Pine Grove,69
 Tate Reeves,Governor,,R,Jones,Pine Grove,423
@@ -497,11 +497,11 @@ Addie Lee Green,State Treasurer,,D,Jones,Pine Grove,27
 David McRae,State Treasurer,,R,Jones,Pine Grove,474
 Rickey L Cole,Commissioner of Agriculture & Commerce,,D,Jones,Pine Grove,32
 Andy Gipson,Commissioner of Agriculture & Commerce,,R,Jones,Pine Grove,469
-Juan Barnett,State Senate,34,D,Jones,Pine Grove,X
-Steven L Wade,State Senate,34,R,Jones,Pine Grove,X
+Juan Barnett,State Senate,34,D,Jones,Pine Grove,
+Steven L Wade,State Senate,34,R,Jones,Pine Grove,
 Chris McDaniel,State Senate,42,R,Jones,Pine Grove,485
-Omeria Scott,State House,80,D,Jones,Pine Grove,X
-Ramona Q Blackledge,State House,88,R,Jones,Pine Grove,X
+Omeria Scott,State House,80,D,Jones,Pine Grove,
+Ramona Q Blackledge,State House,88,R,Jones,Pine Grove,
 Donnie Scoggin,State House,89,R,Jones,Pine Grove,487
 Jim Hood,Governor,,D,Jones,Pleasant Ridge,52
 Tate Reeves,Governor,,R,Jones,Pleasant Ridge,363
@@ -518,11 +518,11 @@ Addie Lee Green,State Treasurer,,D,Jones,Pleasant Ridge,23
 David McRae,State Treasurer,,R,Jones,Pleasant Ridge,398
 Rickey L Cole,Commissioner of Agriculture & Commerce,,D,Jones,Pleasant Ridge,35
 Andy Gipson,Commissioner of Agriculture & Commerce,,R,Jones,Pleasant Ridge,387
-Juan Barnett,State Senate,34,D,Jones,Pleasant Ridge,X
-Steven L Wade,State Senate,34,R,Jones,Pleasant Ridge,X
+Juan Barnett,State Senate,34,D,Jones,Pleasant Ridge,
+Steven L Wade,State Senate,34,R,Jones,Pleasant Ridge,
 Chris McDaniel,State Senate,42,R,Jones,Pleasant Ridge,405
-Omeria Scott,State House,80,D,Jones,Pleasant Ridge,X
-Ramona Q Blackledge,State House,88,R,Jones,Pleasant Ridge,X
+Omeria Scott,State House,80,D,Jones,Pleasant Ridge,
+Ramona Q Blackledge,State House,88,R,Jones,Pleasant Ridge,
 Donnie Scoggin,State House,89,R,Jones,Pleasant Ridge,414
 Jim Hood,Governor,,D,Jones,Powers,186
 Tate Reeves,Governor,,R,Jones,Powers,482
@@ -539,12 +539,12 @@ Addie Lee Green,State Treasurer,,D,Jones,Powers,125
 David McRae,State Treasurer,,R,Jones,Powers,558
 Rickey L Cole,Commissioner of Agriculture & Commerce,,D,Jones,Powers,157
 Andy Gipson,Commissioner of Agriculture & Commerce,,R,Jones,Powers,527
-Juan Barnett,State Senate,34,D,Jones,Powers,X
-Steven L Wade,State Senate,34,R,Jones,Powers,X
+Juan Barnett,State Senate,34,D,Jones,Powers,
+Steven L Wade,State Senate,34,R,Jones,Powers,
 Chris McDaniel,State Senate,42,R,Jones,Powers,618
-Omeria Scott,State House,80,D,Jones,Powers,X
+Omeria Scott,State House,80,D,Jones,Powers,
 Ramona Q Blackledge,State House,88,R,Jones,Powers,628
-Donnie Scoggin,State House,89,R,Jones,Powers,X
+Donnie Scoggin,State House,89,R,Jones,Powers,
 Jim Hood,Governor,,D,Jones,Rainey,70
 Tate Reeves,Governor,,R,Jones,Rainey,581
 Bob Hickingbottom,Governor,,C,Jones,Rainey,4
@@ -562,10 +562,10 @@ Rickey L Cole,Commissioner of Agriculture & Commerce,,D,Jones,Rainey,50
 Andy Gipson,Commissioner of Agriculture & Commerce,,R,Jones,Rainey,613
 Juan Barnett,State Senate,34,D,Jones,Rainey,39
 Steven L Wade,State Senate,34,R,Jones,Rainey,624
-Chris McDaniel,State Senate,42,R,Jones,Rainey,X
-Omeria Scott,State House,80,D,Jones,Rainey,X
+Chris McDaniel,State Senate,42,R,Jones,Rainey,
+Omeria Scott,State House,80,D,Jones,Rainey,
 Ramona Q Blackledge,State House,88,R,Jones,Rainey,656
-Donnie Scoggin,State House,89,R,Jones,Rainey,X
+Donnie Scoggin,State House,89,R,Jones,Rainey,
 Jim Hood,Governor,,D,Jones,Rustin,42
 Tate Reeves,Governor,,R,Jones,Rustin,362
 Bob Hickingbottom,Governor,,C,Jones,Rustin,4
@@ -581,12 +581,12 @@ Addie Lee Green,State Treasurer,,D,Jones,Rustin,20
 David McRae,State Treasurer,,R,Jones,Rustin,389
 Rickey L Cole,Commissioner of Agriculture & Commerce,,D,Jones,Rustin,35
 Andy Gipson,Commissioner of Agriculture & Commerce,,R,Jones,Rustin,374
-Juan Barnett,State Senate,34,D,Jones,Rustin,X
-Steven L Wade,State Senate,34,R,Jones,Rustin,X
+Juan Barnett,State Senate,34,D,Jones,Rustin,
+Steven L Wade,State Senate,34,R,Jones,Rustin,
 Chris McDaniel,State Senate,42,R,Jones,Rustin,404
-Omeria Scott,State House,80,D,Jones,Rustin,X
+Omeria Scott,State House,80,D,Jones,Rustin,
 Ramona Q Blackledge,State House,88,R,Jones,Rustin,408
-Donnie Scoggin,State House,89,R,Jones,Rustin,X
+Donnie Scoggin,State House,89,R,Jones,Rustin,
 Jim Hood,Governor,,D,Jones,Sand Hill,88
 Tate Reeves,Governor,,R,Jones,Sand Hill,418
 Bob Hickingbottom,Governor,,C,Jones,Sand Hill,3
@@ -604,10 +604,10 @@ Rickey L Cole,Commissioner of Agriculture & Commerce,,D,Jones,Sand Hill,51
 Andy Gipson,Commissioner of Agriculture & Commerce,,R,Jones,Sand Hill,471
 Juan Barnett,State Senate,34,D,Jones,Sand Hill,43
 Steven L Wade,State Senate,34,R,Jones,Sand Hill,478
-Chris McDaniel,State Senate,42,R,Jones,Sand Hill,X
-Omeria Scott,State House,80,D,Jones,Sand Hill,X
+Chris McDaniel,State Senate,42,R,Jones,Sand Hill,
+Omeria Scott,State House,80,D,Jones,Sand Hill,
 Ramona Q Blackledge,State House,88,R,Jones,Sand Hill,511
-Donnie Scoggin,State House,89,R,Jones,Sand Hill,X
+Donnie Scoggin,State House,89,R,Jones,Sand Hill,
 Jim Hood,Governor,,D,Jones,Sandersville,117
 Tate Reeves,Governor,,R,Jones,Sandersville,335
 Bob Hickingbottom,Governor,,C,Jones,Sandersville,0
@@ -623,12 +623,12 @@ Addie Lee Green,State Treasurer,,D,Jones,Sandersville,79
 David McRae,State Treasurer,,R,Jones,Sandersville,385
 Rickey L Cole,Commissioner of Agriculture & Commerce,,D,Jones,Sandersville,95
 Andy Gipson,Commissioner of Agriculture & Commerce,,R,Jones,Sandersville,368
-Juan Barnett,State Senate,34,D,Jones,Sandersville,X
-Steven L Wade,State Senate,34,R,Jones,Sandersville,X
+Juan Barnett,State Senate,34,D,Jones,Sandersville,
+Steven L Wade,State Senate,34,R,Jones,Sandersville,
 Chris McDaniel,State Senate,42,R,Jones,Sandersville,429
 Omeria Scott,State House,80,D,Jones,Sandersville,327
-Ramona Q Blackledge,State House,88,R,Jones,Sandersville,X
-Donnie Scoggin,State House,89,R,Jones,Sandersville,X
+Ramona Q Blackledge,State House,88,R,Jones,Sandersville,
+Donnie Scoggin,State House,89,R,Jones,Sandersville,
 Jim Hood,Governor,,D,Jones,Shady Grove,458
 Tate Reeves,Governor,,R,Jones,Shady Grove,947
 Bob Hickingbottom,Governor,,C,Jones,Shady Grove,2
@@ -644,11 +644,11 @@ Addie Lee Green,State Treasurer,,D,Jones,Shady Grove,349
 David McRae,State Treasurer,,R,Jones,Shady Grove,1063
 Rickey L Cole,Commissioner of Agriculture & Commerce,,D,Jones,Shady Grove,385
 Andy Gipson,Commissioner of Agriculture & Commerce,,R,Jones,Shady Grove,1015
-Juan Barnett,State Senate,34,D,Jones,Shady Grove,X
-Steven L Wade,State Senate,34,R,Jones,Shady Grove,X
+Juan Barnett,State Senate,34,D,Jones,Shady Grove,
+Steven L Wade,State Senate,34,R,Jones,Shady Grove,
 Chris McDaniel,State Senate,42,R,Jones,Shady Grove,1197
 Omeria Scott,State House,80,D,Jones,Shady Grove,302
-Ramona Q Blackledge,State House,88,R,Jones,Shady Grove,X
+Ramona Q Blackledge,State House,88,R,Jones,Shady Grove,
 Donnie Scoggin,State House,89,R,Jones,Shady Grove,1000
 Jim Hood,Governor,,D,Jones,Sharon,156
 Tate Reeves,Governor,,R,Jones,Sharon,643
@@ -665,11 +665,11 @@ Addie Lee Green,State Treasurer,,D,Jones,Sharon,100
 David McRae,State Treasurer,,R,Jones,Sharon,704
 Rickey L Cole,Commissioner of Agriculture & Commerce,,D,Jones,Sharon,139
 Andy Gipson,Commissioner of Agriculture & Commerce,,R,Jones,Sharon,662
-Juan Barnett,State Senate,34,D,Jones,Sharon,X
-Steven L Wade,State Senate,34,R,Jones,Sharon,X
+Juan Barnett,State Senate,34,D,Jones,Sharon,
+Steven L Wade,State Senate,34,R,Jones,Sharon,
 Chris McDaniel,State Senate,42,R,Jones,Sharon,750
 Omeria Scott,State House,80,D,Jones,Sharon,5
-Ramona Q Blackledge,State House,88,R,Jones,Sharon,X
+Ramona Q Blackledge,State House,88,R,Jones,Sharon,
 Donnie Scoggin,State House,89,R,Jones,Sharon,761
 Jim Hood,Governor,,D,Jones,Shelton,148
 Tate Reeves,Governor,,R,Jones,Shelton,271
@@ -688,10 +688,10 @@ Rickey L Cole,Commissioner of Agriculture & Commerce,,D,Jones,Shelton,128
 Andy Gipson,Commissioner of Agriculture & Commerce,,R,Jones,Shelton,292
 Juan Barnett,State Senate,34,D,Jones,Shelton,124
 Steven L Wade,State Senate,34,R,Jones,Shelton,292
-Chris McDaniel,State Senate,42,R,Jones,Shelton,X
-Omeria Scott,State House,80,D,Jones,Shelton,X
+Chris McDaniel,State Senate,42,R,Jones,Shelton,
+Omeria Scott,State House,80,D,Jones,Shelton,
 Ramona Q Blackledge,State House,88,R,Jones,Shelton,373
-Donnie Scoggin,State House,89,R,Jones,Shelton,X
+Donnie Scoggin,State House,89,R,Jones,Shelton,
 Jim Hood,Governor,,D,Jones,Soso,293
 Tate Reeves,Governor,,R,Jones,Soso,327
 Bob Hickingbottom,Governor,,C,Jones,Soso,2
@@ -709,10 +709,10 @@ Rickey L Cole,Commissioner of Agriculture & Commerce,,D,Jones,Soso,267
 Andy Gipson,Commissioner of Agriculture & Commerce,,R,Jones,Soso,349
 Juan Barnett,State Senate,34,D,Jones,Soso,264
 Steven L Wade,State Senate,34,R,Jones,Soso,350
-Chris McDaniel,State Senate,42,R,Jones,Soso,X
-Omeria Scott,State House,80,D,Jones,Soso,X
+Chris McDaniel,State Senate,42,R,Jones,Soso,
+Omeria Scott,State House,80,D,Jones,Soso,
 Ramona Q Blackledge,State House,88,R,Jones,Soso,500
-Donnie Scoggin,State House,89,R,Jones,Soso,X
+Donnie Scoggin,State House,89,R,Jones,Soso,
 Jim Hood,Governor,,D,Jones,Springhill/Mauldin,212
 Tate Reeves,Governor,,R,Jones,Springhill/Mauldin,601
 Bob Hickingbottom,Governor,,C,Jones,Springhill/Mauldin,3
@@ -731,8 +731,8 @@ Andy Gipson,Commissioner of Agriculture & Commerce,,R,Jones,Springhill/Mauldin,6
 Juan Barnett,State Senate,34,D,Jones,Springhill/Mauldin,12
 Steven L Wade,State Senate,34,R,Jones,Springhill/Mauldin,145
 Chris McDaniel,State Senate,42,R,Jones,Springhill/Mauldin,583
-Omeria Scott,State House,80,D,Jones,Springhill/Mauldin,X
-Ramona Q Blackledge,State House,88,R,Jones,Springhill/Mauldin,X
+Omeria Scott,State House,80,D,Jones,Springhill/Mauldin,
+Ramona Q Blackledge,State House,88,R,Jones,Springhill/Mauldin,
 Donnie Scoggin,State House,89,R,Jones,Springhill/Mauldin,757
 Jim Hood,Governor,,D,Jones,Tuckers,63
 Tate Reeves,Governor,,R,Jones,Tuckers,460
@@ -749,12 +749,12 @@ Addie Lee Green,State Treasurer,,D,Jones,Tuckers,27
 David McRae,State Treasurer,,R,Jones,Tuckers,504
 Rickey L Cole,Commissioner of Agriculture & Commerce,,D,Jones,Tuckers,57
 Andy Gipson,Commissioner of Agriculture & Commerce,,R,Jones,Tuckers,472
-Juan Barnett,State Senate,34,D,Jones,Tuckers,X
-Steven L Wade,State Senate,34,R,Jones,Tuckers,X
+Juan Barnett,State Senate,34,D,Jones,Tuckers,
+Steven L Wade,State Senate,34,R,Jones,Tuckers,
 Chris McDaniel,State Senate,42,R,Jones,Tuckers,519
-Omeria Scott,State House,80,D,Jones,Tuckers,X
+Omeria Scott,State House,80,D,Jones,Tuckers,
 Ramona Q Blackledge,State House,88,R,Jones,Tuckers,520
-Donnie Scoggin,State House,89,R,Jones,Tuckers,X
+Donnie Scoggin,State House,89,R,Jones,Tuckers,
 Jim Hood,Governor,,D,Jones,Union,47
 Tate Reeves,Governor,,R,Jones,Union,433
 Bob Hickingbottom,Governor,,C,Jones,Union,3
@@ -770,12 +770,12 @@ Addie Lee Green,State Treasurer,,D,Jones,Union,32
 David McRae,State Treasurer,,R,Jones,Union,450
 Rickey L Cole,Commissioner of Agriculture & Commerce,,D,Jones,Union,50
 Andy Gipson,Commissioner of Agriculture & Commerce,,R,Jones,Union,435
-Juan Barnett,State Senate,34,D,Jones,Union,X
-Steven L Wade,State Senate,34,R,Jones,Union,X
+Juan Barnett,State Senate,34,D,Jones,Union,
+Steven L Wade,State Senate,34,R,Jones,Union,
 Chris McDaniel,State Senate,42,R,Jones,Union,456
-Omeria Scott,State House,80,D,Jones,Union,X
+Omeria Scott,State House,80,D,Jones,Union,
 Ramona Q Blackledge,State House,88,R,Jones,Union,471
-Donnie Scoggin,State House,89,R,Jones,Union,X
+Donnie Scoggin,State House,89,R,Jones,Union,
 Jim Hood,Governor,,D,Jones,TOTAL,7123
 Tate Reeves,Governor,,R,Jones,TOTAL,13784
 Bob Hickingbottom,Governor,,C,Jones,TOTAL,74

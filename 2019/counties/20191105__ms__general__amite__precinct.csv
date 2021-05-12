@@ -19,8 +19,8 @@ Melanie Sojourner,State Senate,37,R,Amite,Amite River,0
 Tammy Witherspoon,State Senate,38,D,Amite,Amite River,173
 Aisha A Sanders,State House,96,D,Amite,Amite River,96
 Angela Cockerham,State House,96,IND,Amite,Amite River,119
-Sam C Mims V,State House,97,R,Amite,Amite River,X
-Ben Thompson,State House,97,D,Amite,Amite River,X
+Sam C Mims V,State House,97,R,Amite,Amite River,
+Ben Thompson,State House,97,D,Amite,Amite River,
 Jim Hood,Governor,,D,Amite,Ariel,189
 Tate Reeves,Governor,,R,Amite,Ariel,39
 Bob Hickingbottom,Governor,,C,Amite,Ariel,1
@@ -36,13 +36,13 @@ Addie Lee Green,State Treasurer,,D,Amite,Ariel,181
 David McRae,State Treasurer,,R,Amite,Ariel,47
 Rickey L Cole,Commissioner of Agriculture & Commerce,,D,Amite,Ariel,185
 Andy Gipson,Commissioner of Agriculture & Commerce,,R,Amite,Ariel,44
-William E Godfrey,State Senate,37,D,Amite,Ariel,X
-Melanie Sojourner,State Senate,37,R,Amite,Ariel,X
+William E Godfrey,State Senate,37,D,Amite,Ariel,
+Melanie Sojourner,State Senate,37,R,Amite,Ariel,
 Tammy Witherspoon,State Senate,38,D,Amite,Ariel,211
 Aisha A Sanders,State House,96,D,Amite,Ariel,24
 Angela Cockerham,State House,96,IND,Amite,Ariel,102
-Sam C Mims V,State House,97,R,Amite,Ariel,X
-Ben Thompson,State House,97,D,Amite,Ariel,X
+Sam C Mims V,State House,97,R,Amite,Ariel,
+Ben Thompson,State House,97,D,Amite,Ariel,
 Jim Hood,Governor,,D,Amite,Berwick,172
 Tate Reeves,Governor,,R,Amite,Berwick,56
 Bob Hickingbottom,Governor,,C,Amite,Berwick,1
@@ -58,13 +58,13 @@ Addie Lee Green,State Treasurer,,D,Amite,Berwick,165
 David McRae,State Treasurer,,R,Amite,Berwick,60
 Rickey L Cole,Commissioner of Agriculture & Commerce,,D,Amite,Berwick,167
 Andy Gipson,Commissioner of Agriculture & Commerce,,R,Amite,Berwick,58
-William E Godfrey,State Senate,37,D,Amite,Berwick,X
-Melanie Sojourner,State Senate,37,R,Amite,Berwick,X
+William E Godfrey,State Senate,37,D,Amite,Berwick,
+Melanie Sojourner,State Senate,37,R,Amite,Berwick,
 Tammy Witherspoon,State Senate,38,D,Amite,Berwick,200
 Aisha A Sanders,State House,96,D,Amite,Berwick,121
 Angela Cockerham,State House,96,IND,Amite,Berwick,98
-Sam C Mims V,State House,97,R,Amite,Berwick,X
-Ben Thompson,State House,97,D,Amite,Berwick,X
+Sam C Mims V,State House,97,R,Amite,Berwick,
+Ben Thompson,State House,97,D,Amite,Berwick,
 Jim Hood,Governor,,D,Amite,Crosby,73
 Tate Reeves,Governor,,R,Amite,Crosby,56
 Bob Hickingbottom,Governor,,C,Amite,Crosby,1
@@ -82,11 +82,11 @@ Rickey L Cole,Commissioner of Agriculture & Commerce,,D,Amite,Crosby,72
 Andy Gipson,Commissioner of Agriculture & Commerce,,R,Amite,Crosby,57
 William E Godfrey,State Senate,37,D,Amite,Crosby,71
 Melanie Sojourner,State Senate,37,R,Amite,Crosby,55
-Tammy Witherspoon,State Senate,38,D,Amite,Crosby,X
+Tammy Witherspoon,State Senate,38,D,Amite,Crosby,
 Aisha A Sanders,State House,96,D,Amite,Crosby,66
 Angela Cockerham,State House,96,IND,Amite,Crosby,58
-Sam C Mims V,State House,97,R,Amite,Crosby,X
-Ben Thompson,State House,97,D,Amite,Crosby,X
+Sam C Mims V,State House,97,R,Amite,Crosby,
+Ben Thompson,State House,97,D,Amite,Crosby,
 Jim Hood,Governor,,D,Amite,East Centreville,114
 Tate Reeves,Governor,,R,Amite,East Centreville,146
 Bob Hickingbottom,Governor,,C,Amite,East Centreville,2
@@ -102,12 +102,12 @@ Addie Lee Green,State Treasurer,,D,Amite,East Centreville,110
 David McRae,State Treasurer,,R,Amite,East Centreville,152
 Rickey L Cole,Commissioner of Agriculture & Commerce,,D,Amite,East Centreville,110
 Andy Gipson,Commissioner of Agriculture & Commerce,,R,Amite,East Centreville,149
-William E Godfrey,State Senate,37,D,Amite,East Centreville,X
-Melanie Sojourner,State Senate,37,R,Amite,East Centreville,X
+William E Godfrey,State Senate,37,D,Amite,East Centreville,
+Melanie Sojourner,State Senate,37,R,Amite,East Centreville,
 Tammy Witherspoon,State Senate,38,D,Amite,East Centreville,197
 Aisha A Sanders,State House,96,D,Amite,East Centreville,62
 Angela Cockerham,State House,96,IND,Amite,East Centreville,184
-Sam C Mims V,State House,97,R,Amite,East Centreville,X
+Sam C Mims V,State House,97,R,Amite,East Centreville,
 Ben Thompson,State House,97,D,Amite,East Centreville,
 Jim Hood,Governor,,D,Amite,East Fork,72
 Tate Reeves,Governor,,R,Amite,East Fork,242
@@ -126,9 +126,9 @@ Rickey L Cole,Commissioner of Agriculture & Commerce,,D,Amite,East Fork,53
 Andy Gipson,Commissioner of Agriculture & Commerce,,R,Amite,East Fork,257
 William E Godfrey,State Senate,37,D,Amite,East Fork,54
 Melanie Sojourner,State Senate,37,R,Amite,East Fork,260
-Tammy Witherspoon,State Senate,38,D,Amite,East Fork,X
-Aisha A Sanders,State House,96,D,Amite,East Fork,X
-Angela Cockerham,State House,96,IND,Amite,East Fork,X
+Tammy Witherspoon,State Senate,38,D,Amite,East Fork,
+Aisha A Sanders,State House,96,D,Amite,East Fork,
+Angela Cockerham,State House,96,IND,Amite,East Fork,
 Sam C Mims V,State House,97,R,Amite,East Fork,258
 Ben Thompson,State House,97,D,Amite,East Fork,54
 Jim Hood,Governor,,D,Amite,East Gloster,60
@@ -148,11 +148,11 @@ Rickey L Cole,Commissioner of Agriculture & Commerce,,D,Amite,East Gloster,58
 Andy Gipson,Commissioner of Agriculture & Commerce,,R,Amite,East Gloster,118
 William E Godfrey,State Senate,37,D,Amite,East Gloster,55
 Melanie Sojourner,State Senate,37,R,Amite,East Gloster,120
-Tammy Witherspoon,State Senate,38,D,Amite,East Gloster,X
+Tammy Witherspoon,State Senate,38,D,Amite,East Gloster,
 Aisha A Sanders,State House,96,D,Amite,East Gloster,48
 Angela Cockerham,State House,96,IND,Amite,East Gloster,122
-Sam C Mims V,State House,97,R,Amite,East Gloster,X
-Ben Thompson,State House,97,D,Amite,East Gloster,X
+Sam C Mims V,State House,97,R,Amite,East Gloster,
+Ben Thompson,State House,97,D,Amite,East Gloster,
 Jim Hood,Governor,,D,Amite,East Liberty,62
 Tate Reeves,Governor,,R,Amite,East Liberty,111
 Bob Hickingbottom,Governor,,C,Amite,East Liberty,0
@@ -170,7 +170,7 @@ Rickey L Cole,Commissioner of Agriculture & Commerce,,D,Amite,East Liberty,50
 Andy Gipson,Commissioner of Agriculture & Commerce,,R,Amite,East Liberty,122
 William E Godfrey,State Senate,37,D,Amite,East Liberty,63
 Melanie Sojourner,State Senate,37,R,Amite,East Liberty,111
-Tammy Witherspoon,State Senate,38,D,Amite,East Liberty,X
+Tammy Witherspoon,State Senate,38,D,Amite,East Liberty,
 Aisha A Sanders,State House,96,D,Amite,East Liberty,13
 Angela Cockerham,State House,96,IND,Amite,East Liberty,51
 Sam C Mims V,State House,97,R,Amite,East Liberty,70
@@ -190,13 +190,13 @@ Addie Lee Green,State Treasurer,,D,Amite,Gloster,354
 David McRae,State Treasurer,,R,Amite,Gloster,90
 Rickey L Cole,Commissioner of Agriculture & Commerce,,D,Amite,Gloster,352
 Andy Gipson,Commissioner of Agriculture & Commerce,,R,Amite,Gloster,90
-William E Godfrey,State Senate,37,D,Amite,Gloster,X
-Melanie Sojourner,State Senate,37,R,Amite,Gloster,X
+William E Godfrey,State Senate,37,D,Amite,Gloster,
+Melanie Sojourner,State Senate,37,R,Amite,Gloster,
 Tammy Witherspoon,State Senate,38,D,Amite,Gloster,412
 Aisha A Sanders,State House,96,D,Amite,Gloster,245
 Angela Cockerham,State House,96,IND,Amite,Gloster,205
-Sam C Mims V,State House,97,R,Amite,Gloster,X
-Ben Thompson,State House,97,D,Amite,Gloster,X
+Sam C Mims V,State House,97,R,Amite,Gloster,
+Ben Thompson,State House,97,D,Amite,Gloster,
 Jim Hood,Governor,,D,Amite,Homochitto,11
 Tate Reeves,Governor,,R,Amite,Homochitto,40
 Bob Hickingbottom,Governor,,C,Amite,Homochitto,0
@@ -214,9 +214,9 @@ Rickey L Cole,Commissioner of Agriculture & Commerce,,D,Amite,Homochitto,9
 Andy Gipson,Commissioner of Agriculture & Commerce,,R,Amite,Homochitto,40
 William E Godfrey,State Senate,37,D,Amite,Homochitto,7
 Melanie Sojourner,State Senate,37,R,Amite,Homochitto,43
-Tammy Witherspoon,State Senate,38,D,Amite,Homochitto,X
-Aisha A Sanders,State House,96,D,Amite,Homochitto,X
-Angela Cockerham,State House,96,IND,Amite,Homochitto,X
+Tammy Witherspoon,State Senate,38,D,Amite,Homochitto,
+Aisha A Sanders,State House,96,D,Amite,Homochitto,
+Angela Cockerham,State House,96,IND,Amite,Homochitto,
 Sam C Mims V,State House,97,R,Amite,Homochitto,43
 Ben Thompson,State House,97,D,Amite,Homochitto,8
 Jim Hood,Governor,,D,Amite,Liberty,136
@@ -258,9 +258,9 @@ Rickey L Cole,Commissioner of Agriculture & Commerce,,D,Amite,New Zion,36
 Andy Gipson,Commissioner of Agriculture & Commerce,,R,Amite,New Zion,177
 William E Godfrey,State Senate,37,D,Amite,New Zion,39
 Melanie Sojourner,State Senate,37,R,Amite,New Zion,174
-Tammy Witherspoon,State Senate,38,D,Amite,New Zion,X
-Aisha A Sanders,State House,96,D,Amite,New Zion,X
-Angela Cockerham,State House,96,IND,Amite,New Zion,X
+Tammy Witherspoon,State Senate,38,D,Amite,New Zion,
+Aisha A Sanders,State House,96,D,Amite,New Zion,
+Angela Cockerham,State House,96,IND,Amite,New Zion,
 Sam C Mims V,State House,97,R,Amite,New Zion,175
 Ben Thompson,State House,97,D,Amite,New Zion,36
 Jim Hood,Governor,,D,Amite,Oneil,11
@@ -280,9 +280,9 @@ Rickey L Cole,Commissioner of Agriculture & Commerce,,D,Amite,Oneil,14
 Andy Gipson,Commissioner of Agriculture & Commerce,,R,Amite,Oneil,178
 William E Godfrey,State Senate,37,D,Amite,Oneil,17
 Melanie Sojourner,State Senate,37,R,Amite,Oneil,177
-Tammy Witherspoon,State Senate,38,D,Amite,Oneil,X
-Aisha A Sanders,State House,96,D,Amite,Oneil,X
-Angela Cockerham,State House,96,IND,Amite,Oneil,X
+Tammy Witherspoon,State Senate,38,D,Amite,Oneil,
+Aisha A Sanders,State House,96,D,Amite,Oneil,
+Angela Cockerham,State House,96,IND,Amite,Oneil,
 Sam C Mims V,State House,97,R,Amite,Oneil,179
 Ben Thompson,State House,97,D,Amite,Oneil,11
 Jim Hood,Governor,,D,Amite,Riceville,123
@@ -300,13 +300,13 @@ Addie Lee Green,State Treasurer,,D,Amite,Riceville,110
 David McRae,State Treasurer,,R,Amite,Riceville,131
 Rickey L Cole,Commissioner of Agriculture & Commerce,,D,Amite,Riceville,113
 Andy Gipson,Commissioner of Agriculture & Commerce,,R,Amite,Riceville,129
-William E Godfrey,State Senate,37,D,Amite,Riceville,X
-Melanie Sojourner,State Senate,37,R,Amite,Riceville,X
+William E Godfrey,State Senate,37,D,Amite,Riceville,
+Melanie Sojourner,State Senate,37,R,Amite,Riceville,
 Tammy Witherspoon,State Senate,38,D,Amite,Riceville,171
 Aisha A Sanders,State House,96,D,Amite,Riceville,53
 Angela Cockerham,State House,96,IND,Amite,Riceville,178
-Sam C Mims V,State House,97,R,Amite,Riceville,X
-Ben Thompson,State House,97,D,Amite,Riceville,X
+Sam C Mims V,State House,97,R,Amite,Riceville,
+Ben Thompson,State House,97,D,Amite,Riceville,
 Jim Hood,Governor,,D,Amite,Smithdale,104
 Tate Reeves,Governor,,R,Amite,Smithdale,161
 Bob Hickingbottom,Governor,,C,Amite,Smithdale,1
@@ -324,9 +324,9 @@ Rickey L Cole,Commissioner of Agriculture & Commerce,,D,Amite,Smithdale,98
 Andy Gipson,Commissioner of Agriculture & Commerce,,R,Amite,Smithdale,162
 William E Godfrey,State Senate,37,D,Amite,Smithdale,97
 Melanie Sojourner,State Senate,37,R,Amite,Smithdale,164
-Tammy Witherspoon,State Senate,38,D,Amite,Smithdale,X
-Aisha A Sanders,State House,96,D,Amite,Smithdale,X
-Angela Cockerham,State House,96,IND,Amite,Smithdale,X
+Tammy Witherspoon,State Senate,38,D,Amite,Smithdale,
+Aisha A Sanders,State House,96,D,Amite,Smithdale,
+Angela Cockerham,State House,96,IND,Amite,Smithdale,
 Sam C Mims V,State House,97,R,Amite,Smithdale,165
 Ben Thompson,State House,97,D,Amite,Smithdale,97
 Jim Hood,Governor,,D,Amite,South Liberty,160
@@ -368,9 +368,9 @@ Rickey L Cole,Commissioner of Agriculture & Commerce,,D,Amite,Tangipahoa,49
 Andy Gipson,Commissioner of Agriculture & Commerce,,R,Amite,Tangipahoa,294
 William E Godfrey,State Senate,37,D,Amite,Tangipahoa,41
 Melanie Sojourner,State Senate,37,R,Amite,Tangipahoa,302
-Tammy Witherspoon,State Senate,38,D,Amite,Tangipahoa,X
-Aisha A Sanders,State House,96,D,Amite,Tangipahoa,X
-Angela Cockerham,State House,96,IND,Amite,Tangipahoa,X
+Tammy Witherspoon,State Senate,38,D,Amite,Tangipahoa,
+Aisha A Sanders,State House,96,D,Amite,Tangipahoa,
+Angela Cockerham,State House,96,IND,Amite,Tangipahoa,
 Sam C Mims V,State House,97,R,Amite,Tangipahoa,302
 Ben Thompson,State House,97,D,Amite,Tangipahoa,42
 Jim Hood,Governor,,D,Amite,Tickfaw,97
@@ -415,8 +415,8 @@ Melanie Sojourner,State Senate,37,R,Amite,Vance Park,103
 Tammy Witherspoon,State Senate,38,D,Amite,Vance Park,13
 Aisha A Sanders,State House,96,D,Amite,Vance Park,23
 Angela Cockerham,State House,96,IND,Amite,Vance Park,114
-Sam C Mims V,State House,97,R,Amite,Vance Park,X
-Ben Thompson,State House,97,D,Amite,Vance Park,X
+Sam C Mims V,State House,97,R,Amite,Vance Park,
+Ben Thompson,State House,97,D,Amite,Vance Park,
 Jim Hood,Governor,,D,Amite,Walls,165
 Tate Reeves,Governor,,R,Amite,Walls,271
 Bob Hickingbottom,Governor,,C,Amite,Walls,2
@@ -432,13 +432,13 @@ Addie Lee Green,State Treasurer,,D,Amite,Walls,141
 David McRae,State Treasurer,,R,Amite,Walls,286
 Rickey L Cole,Commissioner of Agriculture & Commerce,,D,Amite,Walls,145
 Andy Gipson,Commissioner of Agriculture & Commerce,,R,Amite,Walls,202
-William E Godfrey,State Senate,37,D,Amite,Walls,X
-Melanie Sojourner,State Senate,37,R,Amite,Walls,X
+William E Godfrey,State Senate,37,D,Amite,Walls,
+Melanie Sojourner,State Senate,37,R,Amite,Walls,
 Tammy Witherspoon,State Senate,38,D,Amite,Walls,295
 Aisha A Sanders,State House,96,D,Amite,Walls,111
 Angela Cockerham,State House,96,IND,Amite,Walls,303
-Sam C Mims V,State House,97,R,Amite,Walls,X
-Ben Thompson,State House,97,D,Amite,Walls,X
+Sam C Mims V,State House,97,R,Amite,Walls,
+Ben Thompson,State House,97,D,Amite,Walls,
 Jim Hood,Governor,,D,Amite,Zion Hill,66
 Tate Reeves,Governor,,R,Amite,Zion Hill,223
 Bob Hickingbottom,Governor,,C,Amite,Zion Hill,0
@@ -456,9 +456,9 @@ Rickey L Cole,Commissioner of Agriculture & Commerce,,D,Amite,Zion Hill,60
 Andy Gipson,Commissioner of Agriculture & Commerce,,R,Amite,Zion Hill,224
 William E Godfrey,State Senate,37,D,Amite,Zion Hill,59
 Melanie Sojourner,State Senate,37,R,Amite,Zion Hill,225
-Tammy Witherspoon,State Senate,38,D,Amite,Zion Hill,X
-Aisha A Sanders,State House,96,D,Amite,Zion Hill,X
-Angela Cockerham,State House,96,IND,Amite,Zion Hill,X
+Tammy Witherspoon,State Senate,38,D,Amite,Zion Hill,
+Aisha A Sanders,State House,96,D,Amite,Zion Hill,
+Angela Cockerham,State House,96,IND,Amite,Zion Hill,
 Sam C Mims V,State House,97,R,Amite,Zion Hill,228
 Ben Thompson,State House,97,D,Amite,Zion Hill,55
 Jim Hood,Governor,,D,Amite,TOTAL,2252

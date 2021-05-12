@@ -9,40 +9,40 @@ page,candidate,office,district,party,county,precinct,votes
 2,Brady Williamson,State House,10,R,Panola,Blackjack Community Center,118
 2,Tate Reeves,Governor,,R,Panola,Cliff Finch Building,49
 2,Bill Waller Jr.,Governor,,R,Panola,Cliff Finch Building,64
-2,Kelly Morris,State House,10,R,Panola,Cliff Finch Building,X
-2,Brady Williamson,State House,10,R,Panola,Cliff Finch Building,X
+2,Kelly Morris,State House,10,R,Panola,Cliff Finch Building,
+2,Brady Williamson,State House,10,R,Panola,Cliff Finch Building,
 2,Tate Reeves,Governor,,R,Panola,Como Library,63
 2,Bill Waller Jr.,Governor,,R,Panola,Como Library,59
-2,Kelly Morris,State House,10,R,Panola,Como Library,X
-2,Brady Williamson,State House,10,R,Panola,Como Library,X
+2,Kelly Morris,State House,10,R,Panola,Como Library,
+2,Brady Williamson,State House,10,R,Panola,Como Library,
 2,Tate Reeves,Governor,,R,Panola,Courtland Baptist Church,23
 2,Bill Waller Jr.,Governor,,R,Panola,Courtland Baptist Church,18
-2,Kelly Morris,State House,10,R,Panola,Courtland Baptist Church,X
-2,Brady Williamson,State House,10,R,Panola,Courtland Baptist Church,X
+2,Kelly Morris,State House,10,R,Panola,Courtland Baptist Church,
+2,Brady Williamson,State House,10,R,Panola,Courtland Baptist Church,
 2,Tate Reeves,Governor,,R,Panola,Crenshaw Old City Hall,22
 2,Bill Waller Jr.,Governor,,R,Panola,Crenshaw Old City Hall,3
-2,Kelly Morris,State House,10,R,Panola,Crenshaw Old City Hall,X
-2,Brady Williamson,State House,10,R,Panola,Crenshaw Old City Hall,X
+2,Kelly Morris,State House,10,R,Panola,Crenshaw Old City Hall,
+2,Brady Williamson,State House,10,R,Panola,Crenshaw Old City Hall,
 2,Tate Reeves,Governor,,R,Panola,Crowder Wastewater Treatment Building,7
 2,Bill Waller Jr.,Governor,,R,Panola,Crowder Wastewater Treatment Building,1
 2,Kelly Morris,State House,10,R,Panola,Crowder Wastewater Treatment Building,5
 2,Brady Williamson,State House,10,R,Panola,Crowder Wastewater Treatment Building,2
 2,Tate Reeves,Governor,,R,Panola,Enon Water Building,11
 2,Bill Waller Jr.,Governor,,R,Panola,Enon Water Building,5
-2,Kelly Morris,State House,10,R,Panola,Enon Water Building,X
-2,Brady Williamson,State House,10,R,Panola,Enon Water Building,X
+2,Kelly Morris,State House,10,R,Panola,Enon Water Building,
+2,Brady Williamson,State House,10,R,Panola,Enon Water Building,
 2,Tate Reeves,Governor,,R,Panola,Eureka Community Center,111
 2,Bill Waller Jr.,Governor,,R,Panola,Eureka Community Center,50
 2,Kelly Morris,State House,10,R,Panola,Eureka Community Center,77
 2,Brady Williamson,State House,10,R,Panola,Eureka Community Center,81
 2,Tate Reeves,Governor,,R,Panola,Longtown Fire Station,16
 2,Bill Waller Jr.,Governor,,R,Panola,Longtown Fire Station,12
-2,Kelly Morris,State House,10,R,Panola,Longtown Fire Station,X
-2,Brady Williamson,State House,10,R,Panola,Longtown Fire Station,X
+2,Kelly Morris,State House,10,R,Panola,Longtown Fire Station,
+2,Brady Williamson,State House,10,R,Panola,Longtown Fire Station,
 2,Tate Reeves,Governor,,R,Panola,Macedonia-Concord Community Center,12
 2,Bill Waller Jr.,Governor,,R,Panola,Macedonia-Concord Community Center,6
-2,Kelly Morris,State House,10,R,Panola,Macedonia-Concord Community Center,X
-2,Brady Williamson,State House,10,R,Panola,Macedonia-Concord Community Center,X
+2,Kelly Morris,State House,10,R,Panola,Macedonia-Concord Community Center,
+2,Brady Williamson,State House,10,R,Panola,Macedonia-Concord Community Center,
 3,Tate Reeves,Governor,,R,Panola,Mt Olivet Fire Dept.,144
 3,Bill Waller Jr.,Governor,,R,Panola,Mt Olivet Fire Dept.,81
 3,Kelly Morris,State House,10,R,Panola,Mt Olivet Fire Dept.,116
@@ -53,16 +53,16 @@ page,candidate,office,district,party,county,precinct,votes
 3,Brady Williamson,State House,10,R,Panola,Panola County Extension Building,55
 3,Tate Reeves,Governor,,R,Panola,Patton Lane Community Center,8
 3,Bill Waller Jr.,Governor,,R,Panola,Patton Lane Community Center,4
-3,Kelly Morris,State House,10,R,Panola,Patton Lane Community Center,X
-3,Brady Williamson,State House,10,R,Panola,Patton Lane Community Center,X
+3,Kelly Morris,State House,10,R,Panola,Patton Lane Community Center,
+3,Brady Williamson,State House,10,R,Panola,Patton Lane Community Center,
 3,Tate Reeves,Governor,,R,Panola,Pleasant Grove Fire Station,22
 3,Bill Waller Jr.,Governor,,R,Panola,Pleasant Grove Fire Station,9
-3,Kelly Morris,State House,10,R,Panola,Pleasant Grove Fire Station,X
-3,Brady Williamson,State House,10,R,Panola,Pleasant Grove Fire Station,X
+3,Kelly Morris,State House,10,R,Panola,Pleasant Grove Fire Station,
+3,Brady Williamson,State House,10,R,Panola,Pleasant Grove Fire Station,
 3,Tate Reeves,Governor,,R,Panola,Pleasant Mount Fire Station,43
 3,Bill Waller Jr.,Governor,,R,Panola,Pleasant Mount Fire Station,34
-3,Kelly Morris,State House,10,R,Panola,Pleasant Mount Fire Station,X
-3,Brady Williamson,State House,10,R,Panola,Pleasant Mount Fire Station,X
+3,Kelly Morris,State House,10,R,Panola,Pleasant Mount Fire Station,
+3,Brady Williamson,State House,10,R,Panola,Pleasant Mount Fire Station,
 3,Tate Reeves,Governor,,R,Panola,Pope City Hall,60
 3,Bill Waller Jr.,Governor,,R,Panola,Pope City Hall,49
 3,Kelly Morris,State House,10,R,Panola,Pope City Hall,50
@@ -77,8 +77,8 @@ page,candidate,office,district,party,county,precinct,votes
 3,Brady Williamson,State House,10,R,Panola,Sardis Lake Fire Department,17
 3,Tate Reeves,Governor,,R,Panola,Sardis Library,40
 3,Bill Waller Jr.,Governor,,R,Panola,Sardis Library,30
-3,Kelly Morris,State House,10,R,Panola,Sardis Library,X
-3,Brady Williamson,State House,10,R,Panola,Sardis Library,X
+3,Kelly Morris,State House,10,R,Panola,Sardis Library,
+3,Brady Williamson,State House,10,R,Panola,Sardis Library,
 3,Tate Reeves,Governor,,R,Panola,Tocowa Community Center,54
 3,Bill Waller Jr.,Governor,,R,Panola,Tocowa Community Center,46
 3,Kelly Morris,State House,10,R,Panola,Tocowa Community Center,74

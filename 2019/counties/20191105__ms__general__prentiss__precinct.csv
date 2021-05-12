@@ -16,8 +16,8 @@ Rickey L Cole,Commissioner of Agriculture & Commerce,,D,Prentiss,Baldwyn,300
 Andy Gipson,Commissioner of Agriculture & Commerce,,R,Prentiss,Baldwyn,326
 Steve Eaton,State Senate,5,D,Prentiss,Baldwyn,367
 Daniel H Sparks,State Senate,5,R,Prentiss,Baldwyn,276
-William Tracy Arnold,State House,3,R,Prentiss,Baldwyn,x
-Janis Tripiett Patterson,State House,3,D,Prentiss,Baldwyn,x
+William Tracy Arnold,State House,3,R,Prentiss,Baldwyn,
+Janis Tripiett Patterson,State House,3,D,Prentiss,Baldwyn,
 Jerry R Turner,State House,18,R,Prentiss,Baldwyn,464
 Jim Hood,Governor,,D,Prentiss,Blackland,73
 Tate Reeves,Governor,,R,Prentiss,Blackland,229
@@ -38,7 +38,7 @@ Steve Eaton,State Senate,5,D,Prentiss,Blackland,149
 Daniel H Sparks,State Senate,5,R,Prentiss,Blackland,157
 William Tracy Arnold,State House,3,R,Prentiss,Blackland,218
 Janis Tripiett Patterson,State House,3,D,Prentiss,Blackland,83
-Jerry R Turner,State House,18,R,Prentiss,Blackland,x
+Jerry R Turner,State House,18,R,Prentiss,Blackland,
 Jim Hood,Governor,,D,Prentiss,Booneville/Ag-Ctr,193
 Tate Reeves,Governor,,R,Prentiss,Booneville/Ag-Ctr,564
 Bob Hickingbottom,Governor,,C,Prentiss,Booneville/Ag-Ctr,1
@@ -58,7 +58,7 @@ Steve Eaton,State Senate,5,D,Prentiss,Booneville/Ag-Ctr,275
 Daniel H Sparks,State Senate,5,R,Prentiss,Booneville/Ag-Ctr,494
 William Tracy Arnold,State House,3,R,Prentiss,Booneville/Ag-Ctr,558
 Janis Tripiett Patterson,State House,3,D,Prentiss,Booneville/Ag-Ctr,202
-Jerry R Turner,State House,18,R,Prentiss,Booneville/Ag-Ctr,x
+Jerry R Turner,State House,18,R,Prentiss,Booneville/Ag-Ctr,
 Jim Hood,Governor,,D,Prentiss,Cairo,45
 Tate Reeves,Governor,,R,Prentiss,Cairo,216
 Bob Hickingbottom,Governor,,C,Prentiss,Cairo,3
@@ -78,7 +78,7 @@ Steve Eaton,State Senate,5,D,Prentiss,Cairo,72
 Daniel H Sparks,State Senate,5,R,Prentiss,Cairo,193
 William Tracy Arnold,State House,3,R,Prentiss,Cairo,218
 Janis Tripiett Patterson,State House,3,D,Prentiss,Cairo,42
-Jerry R Turner,State House,18,R,Prentiss,Cairo,x
+Jerry R Turner,State House,18,R,Prentiss,Cairo,
 Jim Hood,Governor,,D,Prentiss,Cross Roads,141
 Tate Reeves,Governor,,R,Prentiss,Cross Roads,274
 Bob Hickingbottom,Governor,,C,Prentiss,Cross Roads,2
@@ -98,7 +98,7 @@ Steve Eaton,State Senate,5,D,Prentiss,Cross Roads,247
 Daniel H Sparks,State Senate,5,R,Prentiss,Cross Roads,173
 William Tracy Arnold,State House,3,R,Prentiss,Cross Roads,274
 Janis Tripiett Patterson,State House,3,D,Prentiss,Cross Roads,142
-Jerry R Turner,State House,18,R,Prentiss,Cross Roads,x
+Jerry R Turner,State House,18,R,Prentiss,Cross Roads,
 Jim Hood,Governor,,D,Prentiss,East Booneville,183
 Tate Reeves,Governor,,R,Prentiss,East Booneville,358
 Bob Hickingbottom,Governor,,C,Prentiss,East Booneville,0
@@ -118,7 +118,7 @@ Steve Eaton,State Senate,5,D,Prentiss,East Booneville,242
 Daniel H Sparks,State Senate,5,R,Prentiss,East Booneville,305
 William Tracy Arnold,State House,3,R,Prentiss,East Booneville,361
 Janis Tripiett Patterson,State House,3,D,Prentiss,East Booneville,183
-Jerry R Turner,State House,18,R,Prentiss,East Booneville,x
+Jerry R Turner,State House,18,R,Prentiss,East Booneville,
 Jim Hood,Governor,,D,Prentiss,Hills Chapel-New Hope,124
 Tate Reeves,Governor,,R,Prentiss,Hills Chapel-New Hope,475
 Bob Hickingbottom,Governor,,C,Prentiss,Hills Chapel-New Hope,4
@@ -138,7 +138,7 @@ Steve Eaton,State Senate,5,D,Prentiss,Hills Chapel-New Hope,192
 Daniel H Sparks,State Senate,5,R,Prentiss,Hills Chapel-New Hope,422
 William Tracy Arnold,State House,3,R,Prentiss,Hills Chapel-New Hope,491
 Janis Tripiett Patterson,State House,3,D,Prentiss,Hills Chapel-New Hope,117
-Jerry R Turner,State House,18,R,Prentiss,Hills Chapel-New Hope,x
+Jerry R Turner,State House,18,R,Prentiss,Hills Chapel-New Hope,
 Jim Hood,Governor,,D,Prentiss,Ingram,47
 Tate Reeves,Governor,,R,Prentiss,Ingram,129
 Bob Hickingbottom,Governor,,C,Prentiss,Ingram,1
@@ -178,7 +178,7 @@ Steve Eaton,State Senate,5,D,Prentiss,Marietta,205
 Daniel H Sparks,State Senate,5,R,Prentiss,Marietta,345
 William Tracy Arnold,State House,3,R,Prentiss,Marietta,378
 Janis Tripiett Patterson,State House,3,D,Prentiss,Marietta,173
-Jerry R Turner,State House,18,R,Prentiss,Marietta,x
+Jerry R Turner,State House,18,R,Prentiss,Marietta,
 Jim Hood,Governor,,D,Prentiss,New Site,109
 Tate Reeves,Governor,,R,Prentiss,New Site,350
 Bob Hickingbottom,Governor,,C,Prentiss,New Site,0
@@ -198,7 +198,7 @@ Steve Eaton,State Senate,5,D,Prentiss,New Site,159
 Daniel H Sparks,State Senate,5,R,Prentiss,New Site,303
 William Tracy Arnold,State House,3,R,Prentiss,New Site,350
 Janis Tripiett Patterson,State House,3,D,Prentiss,New Site,113
-Jerry R Turner,State House,18,R,Prentiss,New Site,x
+Jerry R Turner,State House,18,R,Prentiss,New Site,
 Jim Hood,Governor,,D,Prentiss,North Booneville/Sunflower,317
 Tate Reeves,Governor,,R,Prentiss,North Booneville/Sunflower,130
 Bob Hickingbottom,Governor,,C,Prentiss,North Booneville/Sunflower,1
@@ -218,7 +218,7 @@ Steve Eaton,State Senate,5,D,Prentiss,North Booneville/Sunflower,338
 Daniel H Sparks,State Senate,5,R,Prentiss,North Booneville/Sunflower,107
 William Tracy Arnold,State House,3,R,Prentiss,North Booneville/Sunflower,143
 Janis Tripiett Patterson,State House,3,D,Prentiss,North Booneville/Sunflower,304
-Jerry R Turner,State House,18,R,Prentiss,North Booneville/Sunflower,x
+Jerry R Turner,State House,18,R,Prentiss,North Booneville/Sunflower,
 Jim Hood,Governor,,D,Prentiss,Thrasher,150
 Tate Reeves,Governor,,R,Prentiss,Thrasher,212
 Bob Hickingbottom,Governor,,C,Prentiss,Thrasher,1
@@ -238,7 +238,7 @@ Steve Eaton,State Senate,5,D,Prentiss,Thrasher,189
 Daniel H Sparks,State Senate,5,R,Prentiss,Thrasher,176
 William Tracy Arnold,State House,3,R,Prentiss,Thrasher,205
 Janis Tripiett Patterson,State House,3,D,Prentiss,Thrasher,157
-Jerry R Turner,State House,18,R,Prentiss,Thrasher,x
+Jerry R Turner,State House,18,R,Prentiss,Thrasher,
 Jim Hood,Governor,,D,Prentiss,Tuscumbia-New Candler,110
 Tate Reeves,Governor,,R,Prentiss,Tuscumbia-New Candler,341
 Bob Hickingbottom,Governor,,C,Prentiss,Tuscumbia-New Candler,1
@@ -258,7 +258,7 @@ Steve Eaton,State Senate,5,D,Prentiss,Tuscumbia-New Candler,211
 Daniel H Sparks,State Senate,5,R,Prentiss,Tuscumbia-New Candler,258
 William Tracy Arnold,State House,3,R,Prentiss,Tuscumbia-New Candler,350
 Janis Tripiett Patterson,State House,3,D,Prentiss,Tuscumbia-New Candler,113
-Jerry R Turner,State House,18,R,Prentiss,Tuscumbia-New Candler,x
+Jerry R Turner,State House,18,R,Prentiss,Tuscumbia-New Candler,
 Jim Hood,Governor,,D,Prentiss,West Booneville,425
 Tate Reeves,Governor,,R,Prentiss,West Booneville,802
 Bob Hickingbottom,Governor,,C,Prentiss,West Booneville,4
@@ -278,7 +278,7 @@ Steve Eaton,State Senate,5,D,Prentiss,West Booneville,571
 Daniel H Sparks,State Senate,5,R,Prentiss,West Booneville,673
 William Tracy Arnold,State House,3,R,Prentiss,West Booneville,773
 Janis Tripiett Patterson,State House,3,D,Prentiss,West Booneville,452
-Jerry R Turner,State House,18,R,Prentiss,West Booneville,x
+Jerry R Turner,State House,18,R,Prentiss,West Booneville,
 Jim Hood,Governor,,D,Prentiss,Wheeler,168
 Tate Reeves,Governor,,R,Prentiss,Wheeler,297
 Bob Hickingbottom,Governor,,C,Prentiss,Wheeler,0

@@ -19,9 +19,9 @@ Jeffrey Mitchell,State Senate,3,R,Union,Macedonia,8
 Jeff Olson,State Senate,3,R,Union,Macedonia,13
 Kevin Walls,State Senate,3,R,Union,Macedonia,8
 Steve Massengill,State House,13,R,Union,Macedonia,78
-Sam J Creekmore IV,State House,14,R,Union,Macedonia,X
-Robbins Ellis Rogers,State House,14,R,Union,Macedonia,X
-Jerry R Turner,State House,18,R,Union,Macedonia,X
+Sam J Creekmore IV,State House,14,R,Union,Macedonia,
+Robbins Ellis Rogers,State House,14,R,Union,Macedonia,
+Jerry R Turner,State House,18,R,Union,Macedonia,
 Michael Brown,Governor,,D,Union,Macedonia,7
 William Bond Compton Jr.,Governor,,D,Union,Macedonia,4
 Jim Hood,Governor,,D,Union,Macedonia,59
@@ -59,9 +59,9 @@ Jeffrey Mitchell,State Senate,3,R,Union,Blythe,9
 Jeff Olson,State Senate,3,R,Union,Blythe,19
 Kevin Walls,State Senate,3,R,Union,Blythe,8
 Steve Massengill,State House,13,R,Union,Blythe,75
-Sam J Creekmore IV,State House,14,R,Union,Blythe,X
-Robbins Ellis Rogers,State House,14,R,Union,Blythe,X
-Jerry R Turner,State House,18,R,Union,Blythe,X
+Sam J Creekmore IV,State House,14,R,Union,Blythe,
+Robbins Ellis Rogers,State House,14,R,Union,Blythe,
+Jerry R Turner,State House,18,R,Union,Blythe,
 Michael Brown,Governor,,D,Union,Blythe,9
 William Bond Compton Jr.,Governor,,D,Union,Blythe,1
 Jim Hood,Governor,,D,Union,Blythe,43
@@ -98,10 +98,10 @@ Kathy L Chism,State Senate,3,R,Union,Myrtle,238
 Jeffrey Mitchell,State Senate,3,R,Union,Myrtle,11
 Jeff Olson,State Senate,3,R,Union,Myrtle,71
 Kevin Walls,State Senate,3,R,Union,Myrtle,30
-Steve Massengill,State House,13,R,Union,Myrtle,X
+Steve Massengill,State House,13,R,Union,Myrtle,
 Sam J Creekmore IV,State House,14,R,Union,Myrtle,223
 Robbins Ellis Rogers,State House,14,R,Union,Myrtle,115
-Jerry R Turner,State House,18,R,Union,Myrtle,X
+Jerry R Turner,State House,18,R,Union,Myrtle,
 Michael Brown,Governor,,D,Union,Myrtle,35
 William Bond Compton Jr.,Governor,,D,Union,Myrtle,1
 Jim Hood,Governor,,D,Union,Myrtle,237
@@ -118,7 +118,7 @@ Addie Lee Green,State Treasurer,,D,Union,Myrtle,257
 Rickey L Cole,Commissioner of Agriculture & Commerce,,D,Union,Myrtle,263
 Robert E. Amos,Commissioner of Insurance,,D,Union,Myrtle,256
 Tim Tucker,State Senate,3,D,Union,Myrtle,256
-Pamela J Denham,State House,13,D,Union,Myrtle,X
+Pamela J Denham,State House,13,D,Union,Myrtle,
 Robert Foster,Governor,,R,Union,Glenfield,46
 Tate Reeves,Governor,,R,Union,Glenfield,110
 Bill Waller Jr.,Governor,,R,Union,Glenfield,100
@@ -138,10 +138,10 @@ Kathy L Chism,State Senate,3,R,Union,Glenfield,106
 Jeffrey Mitchell,State Senate,3,R,Union,Glenfield,16
 Jeff Olson,State Senate,3,R,Union,Glenfield,119
 Kevin Walls,State Senate,3,R,Union,Glenfield,16
-Steve Massengill,State House,13,R,Union,Glenfield,X
+Steve Massengill,State House,13,R,Union,Glenfield,
 Sam J Creekmore IV,State House,14,R,Union,Glenfield,177
 Robbins Ellis Rogers,State House,14,R,Union,Glenfield,80
-Jerry R Turner,State House,18,R,Union,Glenfield,X
+Jerry R Turner,State House,18,R,Union,Glenfield,
 Michael Brown,Governor,,D,Union,Glenfield,12
 William Bond Compton Jr.,Governor,,D,Union,Glenfield,6
 Jim Hood,Governor,,D,Union,Glenfield,104
@@ -158,7 +158,7 @@ Addie Lee Green,State Treasurer,,D,Union,Glenfield,119
 Rickey L Cole,Commissioner of Agriculture & Commerce,,D,Union,Glenfield,125
 Robert E. Amos,Commissioner of Insurance,,D,Union,Glenfield,123
 Tim Tucker,State Senate,3,D,Union,Glenfield,120
-Pamela J Denham,State House,13,D,Union,Glenfield,X
+Pamela J Denham,State House,13,D,Union,Glenfield,
 Robert Foster,Governor,,R,Union,Pinedale,11
 Tate Reeves,Governor,,R,Union,Pinedale,45
 Bill Waller Jr.,Governor,,R,Union,Pinedale,21
@@ -179,9 +179,9 @@ Jeffrey Mitchell,State Senate,3,R,Union,Pinedale,7
 Jeff Olson,State Senate,3,R,Union,Pinedale,17
 Kevin Walls,State Senate,3,R,Union,Pinedale,12
 Steve Massengill,State House,13,R,Union,Pinedale,63
-Sam J Creekmore IV,State House,14,R,Union,Pinedale,X
-Robbins Ellis Rogers,State House,14,R,Union,Pinedale,X
-Jerry R Turner,State House,18,R,Union,Pinedale,X
+Sam J Creekmore IV,State House,14,R,Union,Pinedale,
+Robbins Ellis Rogers,State House,14,R,Union,Pinedale,
+Jerry R Turner,State House,18,R,Union,Pinedale,
 Michael Brown,Governor,,D,Union,Pinedale,8
 William Bond Compton Jr.,Governor,,D,Union,Pinedale,2
 Jim Hood,Governor,,D,Union,Pinedale,94
@@ -219,9 +219,9 @@ Jeffrey Mitchell,State Senate,3,R,Union,West Union,10
 Jeff Olson,State Senate,3,R,Union,West Union,65
 Kevin Walls,State Senate,3,R,Union,West Union,18
 Steve Massengill,State House,13,R,Union,West Union,165
-Sam J Creekmore IV,State House,14,R,Union,West Union,X
-Robbins Ellis Rogers,State House,14,R,Union,West Union,X
-Jerry R Turner,State House,18,R,Union,West Union,X
+Sam J Creekmore IV,State House,14,R,Union,West Union,
+Robbins Ellis Rogers,State House,14,R,Union,West Union,
+Jerry R Turner,State House,18,R,Union,West Union,
 Michael Brown,Governor,,D,Union,West Union,11
 William Bond Compton Jr.,Governor,,D,Union,West Union,0
 Jim Hood,Governor,,D,Union,West Union,144
@@ -258,10 +258,10 @@ Kathy L Chism,State Senate,3,R,Union,Sportsplex,114
 Jeffrey Mitchell,State Senate,3,R,Union,Sportsplex,16
 Jeff Olson,State Senate,3,R,Union,Sportsplex,172
 Kevin Walls,State Senate,3,R,Union,Sportsplex,25
-Steve Massengill,State House,13,R,Union,Sportsplex,X
+Steve Massengill,State House,13,R,Union,Sportsplex,
 Sam J Creekmore IV,State House,14,R,Union,Sportsplex,216
 Robbins Ellis Rogers,State House,14,R,Union,Sportsplex,104
-Jerry R Turner,State House,18,R,Union,Sportsplex,X
+Jerry R Turner,State House,18,R,Union,Sportsplex,
 Michael Brown,Governor,,D,Union,Sportsplex,19
 William Bond Compton Jr.,Governor,,D,Union,Sportsplex,4
 Jim Hood,Governor,,D,Union,Sportsplex,148
@@ -278,7 +278,7 @@ Addie Lee Green,State Treasurer,,D,Union,Sportsplex,177
 Rickey L Cole,Commissioner of Agriculture & Commerce,,D,Union,Sportsplex,178
 Robert E. Amos,Commissioner of Insurance,,D,Union,Sportsplex,175
 Tim Tucker,State Senate,3,D,Union,Sportsplex,179
-Pamela J Denham,State House,13,D,Union,Sportsplex,X
+Pamela J Denham,State House,13,D,Union,Sportsplex,
 Robert Foster,Governor,,R,Union,Ingomar,83
 Tate Reeves,Governor,,R,Union,Ingomar,111
 Bill Waller Jr.,Governor,,R,Union,Ingomar,125
@@ -298,10 +298,10 @@ Kathy L Chism,State Senate,3,R,Union,Ingomar,131
 Jeffrey Mitchell,State Senate,3,R,Union,Ingomar,12
 Jeff Olson,State Senate,3,R,Union,Ingomar,121
 Kevin Walls,State Senate,3,R,Union,Ingomar,43
-Steve Massengill,State House,13,R,Union,Ingomar,X
+Steve Massengill,State House,13,R,Union,Ingomar,
 Sam J Creekmore IV,State House,14,R,Union,Ingomar,237
 Robbins Ellis Rogers,State House,14,R,Union,Ingomar,73
-Jerry R Turner,State House,18,R,Union,Ingomar,X
+Jerry R Turner,State House,18,R,Union,Ingomar,
 Michael Brown,Governor,,D,Union,Ingomar,18
 William Bond Compton Jr.,Governor,,D,Union,Ingomar,1
 Jim Hood,Governor,,D,Union,Ingomar,108
@@ -318,7 +318,7 @@ Addie Lee Green,State Treasurer,,D,Union,Ingomar,104
 Rickey L Cole,Commissioner of Agriculture & Commerce,,D,Union,Ingomar,108
 Robert E. Amos,Commissioner of Insurance,,D,Union,Ingomar,109
 Tim Tucker,State Senate,3,D,Union,Ingomar,109
-Pamela J Denham,State House,13,D,Union,Ingomar,X
+Pamela J Denham,State House,13,D,Union,Ingomar,
 Robert Foster,Governor,,R,Union,King's Chapel,64
 Tate Reeves,Governor,,R,Union,King's Chapel,70
 Bill Waller Jr.,Governor,,R,Union,King's Chapel,85
@@ -338,10 +338,10 @@ Kathy L Chism,State Senate,3,R,Union,King's Chapel,88
 Jeffrey Mitchell,State Senate,3,R,Union,King's Chapel,8
 Jeff Olson,State Senate,3,R,Union,King's Chapel,84
 Kevin Walls,State Senate,3,R,Union,King's Chapel,33
-Steve Massengill,State House,13,R,Union,King's Chapel,X
+Steve Massengill,State House,13,R,Union,King's Chapel,
 Sam J Creekmore IV,State House,14,R,Union,King's Chapel,169
 Robbins Ellis Rogers,State House,14,R,Union,King's Chapel,46
-Jerry R Turner,State House,18,R,Union,King's Chapel,X
+Jerry R Turner,State House,18,R,Union,King's Chapel,
 Michael Brown,Governor,,D,Union,King's Chapel,5
 William Bond Compton Jr.,Governor,,D,Union,King's Chapel,0
 Jim Hood,Governor,,D,Union,King's Chapel,55
@@ -358,7 +358,7 @@ Addie Lee Green,State Treasurer,,D,Union,King's Chapel,63
 Rickey L Cole,Commissioner of Agriculture & Commerce,,D,Union,King's Chapel,64
 Robert E. Amos,Commissioner of Insurance,,D,Union,King's Chapel,64
 Tim Tucker,State Senate,3,D,Union,King's Chapel,64
-Pamela J Denham,State House,13,D,Union,King's Chapel,X
+Pamela J Denham,State House,13,D,Union,King's Chapel,
 Robert Foster,Governor,,R,Union,Courthouse,76
 Tate Reeves,Governor,,R,Union,Courthouse,160
 Bill Waller Jr.,Governor,,R,Union,Courthouse,208
@@ -378,10 +378,10 @@ Kathy L Chism,State Senate,3,R,Union,Courthouse,139
 Jeffrey Mitchell,State Senate,3,R,Union,Courthouse,18
 Jeff Olson,State Senate,3,R,Union,Courthouse,257
 Kevin Walls,State Senate,3,R,Union,Courthouse,25
-Steve Massengill,State House,13,R,Union,Courthouse,X
+Steve Massengill,State House,13,R,Union,Courthouse,
 Sam J Creekmore IV,State House,14,R,Union,Courthouse,322
 Robbins Ellis Rogers,State House,14,R,Union,Courthouse,117
-Jerry R Turner,State House,18,R,Union,Courthouse,X
+Jerry R Turner,State House,18,R,Union,Courthouse,
 Michael Brown,Governor,,D,Union,Courthouse,3
 William Bond Compton Jr.,Governor,,D,Union,Courthouse,3
 Jim Hood,Governor,,D,Union,Courthouse,63
@@ -398,7 +398,7 @@ Addie Lee Green,State Treasurer,,D,Union,Courthouse,62
 Rickey L Cole,Commissioner of Agriculture & Commerce,,D,Union,Courthouse,67
 Robert E. Amos,Commissioner of Insurance,,D,Union,Courthouse,62
 Tim Tucker,State Senate,3,D,Union,Courthouse,63
-Pamela J Denham,State House,13,D,Union,Courthouse,X
+Pamela J Denham,State House,13,D,Union,Courthouse,
 Robert Foster,Governor,,R,Union,Central Maintenance,96
 Tate Reeves,Governor,,R,Union,Central Maintenance,227
 Bill Waller Jr.,Governor,,R,Union,Central Maintenance,183
@@ -418,10 +418,10 @@ Kathy L Chism,State Senate,3,R,Union,Central Maintenance,222
 Jeffrey Mitchell,State Senate,3,R,Union,Central Maintenance,16
 Jeff Olson,State Senate,3,R,Union,Central Maintenance,234
 Kevin Walls,State Senate,3,R,Union,Central Maintenance,32
-Steve Massengill,State House,13,R,Union,Central Maintenance,X
+Steve Massengill,State House,13,R,Union,Central Maintenance,
 Sam J Creekmore IV,State House,14,R,Union,Central Maintenance,360
 Robbins Ellis Rogers,State House,14,R,Union,Central Maintenance,149
-Jerry R Turner,State House,18,R,Union,Central Maintenance,X
+Jerry R Turner,State House,18,R,Union,Central Maintenance,
 Michael Brown,Governor,,D,Union,Central Maintenance,13
 William Bond Compton Jr.,Governor,,D,Union,Central Maintenance,0
 Jim Hood,Governor,,D,Union,Central Maintenance,52
@@ -438,7 +438,7 @@ Addie Lee Green,State Treasurer,,D,Union,Central Maintenance,63
 Rickey L Cole,Commissioner of Agriculture & Commerce,,D,Union,Central Maintenance,65
 Robert E. Amos,Commissioner of Insurance,,D,Union,Central Maintenance,64
 Tim Tucker,State Senate,3,D,Union,Central Maintenance,64
-Pamela J Denham,State House,13,D,Union,Central Maintenance,X
+Pamela J Denham,State House,13,D,Union,Central Maintenance,
 Robert Foster,Governor,,R,Union,Beacon Hill,54
 Tate Reeves,Governor,,R,Union,Beacon Hill,173
 Bill Waller Jr.,Governor,,R,Union,Beacon Hill,138
@@ -458,10 +458,10 @@ Kathy L Chism,State Senate,3,R,Union,Beacon Hill,138
 Jeffrey Mitchell,State Senate,3,R,Union,Beacon Hill,14
 Jeff Olson,State Senate,3,R,Union,Beacon Hill,167
 Kevin Walls,State Senate,3,R,Union,Beacon Hill,41
-Steve Massengill,State House,13,R,Union,Beacon Hill,X
+Steve Massengill,State House,13,R,Union,Beacon Hill,
 Sam J Creekmore IV,State House,14,R,Union,Beacon Hill,266
 Robbins Ellis Rogers,State House,14,R,Union,Beacon Hill,96
-Jerry R Turner,State House,18,R,Union,Beacon Hill,X
+Jerry R Turner,State House,18,R,Union,Beacon Hill,
 Michael Brown,Governor,,D,Union,Beacon Hill,12
 William Bond Compton Jr.,Governor,,D,Union,Beacon Hill,2
 Jim Hood,Governor,,D,Union,Beacon Hill,77
@@ -478,7 +478,7 @@ Addie Lee Green,State Treasurer,,D,Union,Beacon Hill,83
 Rickey L Cole,Commissioner of Agriculture & Commerce,,D,Union,Beacon Hill,82
 Robert E. Amos,Commissioner of Insurance,,D,Union,Beacon Hill,81
 Tim Tucker,State Senate,3,D,Union,Beacon Hill,82
-Pamela J Denham,State House,13,D,Union,Beacon Hill,X
+Pamela J Denham,State House,13,D,Union,Beacon Hill,
 Robert Foster,Governor,,R,Union,Blue Springs,29
 Tate Reeves,Governor,,R,Union,Blue Springs,76
 Bill Waller Jr.,Governor,,R,Union,Blue Springs,66
@@ -498,10 +498,10 @@ Kathy L Chism,State Senate,3,R,Union,Blue Springs,79
 Jeffrey Mitchell,State Senate,3,R,Union,Blue Springs,18
 Jeff Olson,State Senate,3,R,Union,Blue Springs,41
 Kevin Walls,State Senate,3,R,Union,Blue Springs,20
-Steve Massengill,State House,13,R,Union,Blue Springs,X
+Steve Massengill,State House,13,R,Union,Blue Springs,
 Sam J Creekmore IV,State House,14,R,Union,Blue Springs,104
 Robbins Ellis Rogers,State House,14,R,Union,Blue Springs,58
-Jerry R Turner,State House,18,R,Union,Blue Springs,X
+Jerry R Turner,State House,18,R,Union,Blue Springs,
 Michael Brown,Governor,,D,Union,Blue Springs,3
 William Bond Compton Jr.,Governor,,D,Union,Blue Springs,0
 Jim Hood,Governor,,D,Union,Blue Springs,61
@@ -518,7 +518,7 @@ Addie Lee Green,State Treasurer,,D,Union,Blue Springs,53
 Rickey L Cole,Commissioner of Agriculture & Commerce,,D,Union,Blue Springs,55
 Robert E. Amos,Commissioner of Insurance,,D,Union,Blue Springs,54
 Tim Tucker,State Senate,3,D,Union,Blue Springs,54
-Pamela J Denham,State House,13,D,Union,Blue Springs,X
+Pamela J Denham,State House,13,D,Union,Blue Springs,
 Robert Foster,Governor,,R,Union,Hillcrest Church,40
 Tate Reeves,Governor,,R,Union,Hillcrest Church,88
 Bill Waller Jr.,Governor,,R,Union,Hillcrest Church,122
@@ -538,10 +538,10 @@ Kathy L Chism,State Senate,3,R,Union,Hillcrest Church,76
 Jeffrey Mitchell,State Senate,3,R,Union,Hillcrest Church,3
 Jeff Olson,State Senate,3,R,Union,Hillcrest Church,161
 Kevin Walls,State Senate,3,R,Union,Hillcrest Church,9
-Steve Massengill,State House,13,R,Union,Hillcrest Church,X
+Steve Massengill,State House,13,R,Union,Hillcrest Church,
 Sam J Creekmore IV,State House,14,R,Union,Hillcrest Church,192
 Robbins Ellis Rogers,State House,14,R,Union,Hillcrest Church,61
-Jerry R Turner,State House,18,R,Union,Hillcrest Church,X
+Jerry R Turner,State House,18,R,Union,Hillcrest Church,
 Michael Brown,Governor,,D,Union,Hillcrest Church,12
 William Bond Compton Jr.,Governor,,D,Union,Hillcrest Church,2
 Jim Hood,Governor,,D,Union,Hillcrest Church,75
@@ -558,7 +558,7 @@ Addie Lee Green,State Treasurer,,D,Union,Hillcrest Church,75
 Rickey L Cole,Commissioner of Agriculture & Commerce,,D,Union,Hillcrest Church,74
 Robert E. Amos,Commissioner of Insurance,,D,Union,Hillcrest Church,76
 Tim Tucker,State Senate,3,D,Union,Hillcrest Church,79
-Pamela J Denham,State House,13,D,Union,Hillcrest Church,X
+Pamela J Denham,State House,13,D,Union,Hillcrest Church,
 Robert Foster,Governor,,R,Union,Center,35
 Tate Reeves,Governor,,R,Union,Center,71
 Bill Waller Jr.,Governor,,R,Union,Center,59
@@ -578,10 +578,10 @@ Kathy L Chism,State Senate,3,R,Union,Center,64
 Jeffrey Mitchell,State Senate,3,R,Union,Center,8
 Jeff Olson,State Senate,3,R,Union,Center,73
 Kevin Walls,State Senate,3,R,Union,Center,13
-Steve Massengill,State House,13,R,Union,Center,X
+Steve Massengill,State House,13,R,Union,Center,
 Sam J Creekmore IV,State House,14,R,Union,Center,127
 Robbins Ellis Rogers,State House,14,R,Union,Center,36
-Jerry R Turner,State House,18,R,Union,Center,X
+Jerry R Turner,State House,18,R,Union,Center,
 Michael Brown,Governor,,D,Union,Center,9
 William Bond Compton Jr.,Governor,,D,Union,Center,0
 Jim Hood,Governor,,D,Union,Center,56
@@ -598,7 +598,7 @@ Addie Lee Green,State Treasurer,,D,Union,Center,61
 Rickey L Cole,Commissioner of Agriculture & Commerce,,D,Union,Center,63
 Robert E. Amos,Commissioner of Insurance,,D,Union,Center,60
 Tim Tucker,State Senate,3,D,Union,Center,62
-Pamela J Denham,State House,13,D,Union,Center,X
+Pamela J Denham,State House,13,D,Union,Center,
 Robert Foster,Governor,,R,Union,East Union,57
 Tate Reeves,Governor,,R,Union,East Union,110
 Bill Waller Jr.,Governor,,R,Union,East Union,81
@@ -618,10 +618,10 @@ Kathy L Chism,State Senate,3,R,Union,East Union,107
 Jeffrey Mitchell,State Senate,3,R,Union,East Union,34
 Jeff Olson,State Senate,3,R,Union,East Union,53
 Kevin Walls,State Senate,3,R,Union,East Union,30
-Steve Massengill,State House,13,R,Union,East Union,X
+Steve Massengill,State House,13,R,Union,East Union,
 Sam J Creekmore IV,State House,14,R,Union,East Union,169
 Robbins Ellis Rogers,State House,14,R,Union,East Union,67
-Jerry R Turner,State House,18,R,Union,East Union,X
+Jerry R Turner,State House,18,R,Union,East Union,
 Michael Brown,Governor,,D,Union,East Union,14
 William Bond Compton Jr.,Governor,,D,Union,East Union,5
 Jim Hood,Governor,,D,Union,East Union,144
@@ -638,7 +638,7 @@ Addie Lee Green,State Treasurer,,D,Union,East Union,141
 Rickey L Cole,Commissioner of Agriculture & Commerce,,D,Union,East Union,147
 Robert E. Amos,Commissioner of Insurance,,D,Union,East Union,138
 Tim Tucker,State Senate,3,D,Union,East Union,141
-Pamela J Denham,State House,13,D,Union,East Union,X
+Pamela J Denham,State House,13,D,Union,East Union,
 Robert Foster,Governor,,R,Union,NE Community College,98
 Tate Reeves,Governor,,R,Union,NE Community College,166
 Bill Waller Jr.,Governor,,R,Union,NE Community College,222
@@ -658,10 +658,10 @@ Kathy L Chism,State Senate,3,R,Union,NE Community College,154
 Jeffrey Mitchell,State Senate,3,R,Union,NE Community College,12
 Jeff Olson,State Senate,3,R,Union,NE Community College,284
 Kevin Walls,State Senate,3,R,Union,NE Community College,35
-Steve Massengill,State House,13,R,Union,NE Community College,X
+Steve Massengill,State House,13,R,Union,NE Community College,
 Sam J Creekmore IV,State House,14,R,Union,NE Community College,351
 Robbins Ellis Rogers,State House,14,R,Union,NE Community College,134
-Jerry R Turner,State House,18,R,Union,NE Community College,X
+Jerry R Turner,State House,18,R,Union,NE Community College,
 Michael Brown,Governor,,D,Union,NE Community College,19
 William Bond Compton Jr.,Governor,,D,Union,NE Community College,2
 Jim Hood,Governor,,D,Union,NE Community College,114
@@ -678,7 +678,7 @@ Addie Lee Green,State Treasurer,,D,Union,NE Community College,124
 Rickey L Cole,Commissioner of Agriculture & Commerce,,D,Union,NE Community College,127
 Robert E. Amos,Commissioner of Insurance,,D,Union,NE Community College,121
 Tim Tucker,State Senate,3,D,Union,NE Community College,126
-Pamela J Denham,State House,13,D,Union,NE Community College,X
+Pamela J Denham,State House,13,D,Union,NE Community College,
 Robert Foster,Governor,,R,Union,Keownville,53
 Tate Reeves,Governor,,R,Union,Keownville,125
 Bill Waller Jr.,Governor,,R,Union,Keownville,68
@@ -698,10 +698,10 @@ Kathy L Chism,State Senate,3,R,Union,Keownville,134
 Jeffrey Mitchell,State Senate,3,R,Union,Keownville,15
 Jeff Olson,State Senate,3,R,Union,Keownville,73
 Kevin Walls,State Senate,3,R,Union,Keownville,21
-Steve Massengill,State House,13,R,Union,Keownville,X
+Steve Massengill,State House,13,R,Union,Keownville,
 Sam J Creekmore IV,State House,14,R,Union,Keownville,172
 Robbins Ellis Rogers,State House,14,R,Union,Keownville,72
-Jerry R Turner,State House,18,R,Union,Keownville,X
+Jerry R Turner,State House,18,R,Union,Keownville,
 Michael Brown,Governor,,D,Union,Keownville,6
 William Bond Compton Jr.,Governor,,D,Union,Keownville,0
 Jim Hood,Governor,,D,Union,Keownville,44
@@ -718,7 +718,7 @@ Addie Lee Green,State Treasurer,,D,Union,Keownville,47
 Rickey L Cole,Commissioner of Agriculture & Commerce,,D,Union,Keownville,48
 Robert E. Amos,Commissioner of Insurance,,D,Union,Keownville,49
 Tim Tucker,State Senate,3,D,Union,Keownville,50
-Pamela J Denham,State House,13,D,Union,Keownville,X
+Pamela J Denham,State House,13,D,Union,Keownville,
 Robert Foster,Governor,,R,Union,Pleasant Ridge,29
 Tate Reeves,Governor,,R,Union,Pleasant Ridge,65
 Bill Waller Jr.,Governor,,R,Union,Pleasant Ridge,24
@@ -738,10 +738,10 @@ Kathy L Chism,State Senate,3,R,Union,Pleasant Ridge,66
 Jeffrey Mitchell,State Senate,3,R,Union,Pleasant Ridge,6
 Jeff Olson,State Senate,3,R,Union,Pleasant Ridge,36
 Kevin Walls,State Senate,3,R,Union,Pleasant Ridge,5
-Steve Massengill,State House,13,R,Union,Pleasant Ridge,X
+Steve Massengill,State House,13,R,Union,Pleasant Ridge,
 Sam J Creekmore IV,State House,14,R,Union,Pleasant Ridge,85
 Robbins Ellis Rogers,State House,14,R,Union,Pleasant Ridge,30
-Jerry R Turner,State House,18,R,Union,Pleasant Ridge,X
+Jerry R Turner,State House,18,R,Union,Pleasant Ridge,
 Michael Brown,Governor,,D,Union,Pleasant Ridge,6
 William Bond Compton Jr.,Governor,,D,Union,Pleasant Ridge,1
 Jim Hood,Governor,,D,Union,Pleasant Ridge,22
@@ -758,7 +758,7 @@ Addie Lee Green,State Treasurer,,D,Union,Pleasant Ridge,30
 Rickey L Cole,Commissioner of Agriculture & Commerce,,D,Union,Pleasant Ridge,30
 Robert E. Amos,Commissioner of Insurance,,D,Union,Pleasant Ridge,30
 Tim Tucker,State Senate,3,D,Union,Pleasant Ridge,30
-Pamela J Denham,State House,13,D,Union,Pleasant Ridge,X
+Pamela J Denham,State House,13,D,Union,Pleasant Ridge,
 Robert Foster,Governor,,R,Union,Jericho,21
 Tate Reeves,Governor,,R,Union,Jericho,76
 Bill Waller Jr.,Governor,,R,Union,Jericho,50
@@ -778,9 +778,9 @@ Kathy L Chism,State Senate,3,R,Union,Jericho,85
 Jeffrey Mitchell,State Senate,3,R,Union,Jericho,8
 Jeff Olson,State Senate,3,R,Union,Jericho,22
 Kevin Walls,State Senate,3,R,Union,Jericho,24
-Steve Massengill,State House,13,R,Union,Jericho,X
-Sam J Creekmore IV,State House,14,R,Union,Jericho,X
-Robbins Ellis Rogers,State House,14,R,Union,Jericho,X
+Steve Massengill,State House,13,R,Union,Jericho,
+Sam J Creekmore IV,State House,14,R,Union,Jericho,
+Robbins Ellis Rogers,State House,14,R,Union,Jericho,
 Jerry R Turner,State House,18,R,Union,Jericho,135
 Michael Brown,Governor,,D,Union,Jericho,2
 William Bond Compton Jr.,Governor,,D,Union,Jericho,0
@@ -798,7 +798,7 @@ Addie Lee Green,State Treasurer,,D,Union,Jericho,21
 Rickey L Cole,Commissioner of Agriculture & Commerce,,D,Union,Jericho,21
 Robert E. Amos,Commissioner of Insurance,,D,Union,Jericho,22
 Tim Tucker,State Senate,3,D,Union,Jericho,23
-Pamela J Denham,State House,13,D,Union,Jericho,X
+Pamela J Denham,State House,13,D,Union,Jericho,
 Robert Foster,Governor,,R,Union,TOTAL,1063
 Tate Reeves,Governor,,R,Union,TOTAL,2139
 Bill Waller Jr.,Governor,,R,Union,TOTAL,1859

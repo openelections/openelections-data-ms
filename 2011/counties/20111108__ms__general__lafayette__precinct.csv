@@ -18,15 +18,15 @@ Lafayette,Oxford 1,Commissioner of Insurance,,Democrat,Louis Fondren,530
 Lafayette,Oxford 1,Commissioner of Insurance,,Republican,Mike Chaney,970
 Lafayette,Oxford 1,Commissioner of Insurance,,Reform,Barbara Dale Washer,73
 Lafayette,Oxford 1,State Senate,09,Democrat,Gray Tollison,1350
-Lafayette,Oxford 1,State House,10,Democrat,Greg Hodges,x
-Lafayette,Oxford 1,State House,10,Republican,Nolan Mettetal,x
-Lafayette,Oxford 1,State House,12,Democrat,"Hollaman 'Holly' Raney",623
+Lafayette,Oxford 1,State House,10,Democrat,Greg Hodges,
+Lafayette,Oxford 1,State House,10,Republican,Nolan Mettetal,
+Lafayette,Oxford 1,State House,12,Democrat,Hollaman 'Holly' Raney,623
 Lafayette,Oxford 1,State House,12,Republican,Brad Mayo,989
-Lafayette,Oxford 1,State House,13,Democrat,Billy B. Gray,x
-Lafayette,Oxford 1,State House,13,Republican,Steve E. Massengill,x
-Lafayette,Oxford 1,State House,33,Democrat,"Thomas U. 'Tommy' Reynolds",x
-Lafayette,Oxford 1,State House,33,Republican,Jerrerico Chambers,x
-Lafayette,Oxford 1,State House,33,Libertarian,Sean T. Holmes,x
+Lafayette,Oxford 1,State House,13,Democrat,Billy B. Gray,
+Lafayette,Oxford 1,State House,13,Republican,Steve E. Massengill,
+Lafayette,Oxford 1,State House,33,Democrat,Thomas U. 'Tommy' Reynolds,
+Lafayette,Oxford 1,State House,33,Republican,Jerrerico Chambers,
+Lafayette,Oxford 1,State House,33,Libertarian,Sean T. Holmes,
 Lafayette,Denmark-Laf Springs-Pine Bluff,Governor,,Democrat,Johnny L. DuPree,60
 Lafayette,Denmark-Laf Springs-Pine Bluff,Governor,,Republican,Phil Bryant,317
 Lafayette,Denmark-Laf Springs-Pine Bluff,Lieutenant Governor,,Republican,Tate Reeves,338
@@ -48,13 +48,13 @@ Lafayette,Denmark-Laf Springs-Pine Bluff,Commissioner of Insurance,,Reform,Barba
 Lafayette,Denmark-Laf Springs-Pine Bluff,State Senate,09,Democrat,Gray Tollison,325
 Lafayette,Denmark-Laf Springs-Pine Bluff,State House,10,Democrat,Greg Hodges,5
 Lafayette,Denmark-Laf Springs-Pine Bluff,State House,10,Republican,Nolan Mettetal,18
-Lafayette,Denmark-Laf Springs-Pine Bluff,State House,12,Democrat,"Hollaman 'Holly' Raney",x
-Lafayette,Denmark-Laf Springs-Pine Bluff,State House,12,Republican,Brad Mayo,x
+Lafayette,Denmark-Laf Springs-Pine Bluff,State House,12,Democrat,Hollaman 'Holly' Raney,
+Lafayette,Denmark-Laf Springs-Pine Bluff,State House,12,Republican,Brad Mayo,
 Lafayette,Denmark-Laf Springs-Pine Bluff,State House,13,Democrat,Billy B. Gray,85
 Lafayette,Denmark-Laf Springs-Pine Bluff,State House,13,Republican,Steve E. Massengill,261
-Lafayette,Denmark-Laf Springs-Pine Bluff,State House,33,Democrat,"Thomas U. 'Tommy' Reynolds",x
-Lafayette,Denmark-Laf Springs-Pine Bluff,State House,33,Republican,Jerrerico Chambers,x
-Lafayette,Denmark-Laf Springs-Pine Bluff,State House,33,Libertarian,Sean T. Holmes,x
+Lafayette,Denmark-Laf Springs-Pine Bluff,State House,33,Democrat,Thomas U. 'Tommy' Reynolds,
+Lafayette,Denmark-Laf Springs-Pine Bluff,State House,33,Republican,Jerrerico Chambers,
+Lafayette,Denmark-Laf Springs-Pine Bluff,State House,33,Libertarian,Sean T. Holmes,
 Lafayette,Yocona Community Center,Governor,,Democrat,Johnny L. DuPree,72
 Lafayette,Yocona Community Center,Governor,,Republican,Phil Bryant,318
 Lafayette,Yocona Community Center,Lieutenant Governor,,Republican,Tate Reeves,342
@@ -76,13 +76,13 @@ Lafayette,Yocona Community Center,Commissioner of Insurance,,Reform,Barbara Dale
 Lafayette,Yocona Community Center,State Senate,09,Democrat,Gray Tollison,315
 Lafayette,Yocona Community Center,State House,10,Democrat,Greg Hodges,95
 Lafayette,Yocona Community Center,State House,10,Republican,Nolan Mettetal,229
-Lafayette,Yocona Community Center,State House,12,Democrat,"Hollaman 'Holly' Raney",x
-Lafayette,Yocona Community Center,State House,12,Republican,Brad Mayo,x
+Lafayette,Yocona Community Center,State House,12,Democrat,Hollaman 'Holly' Raney,
+Lafayette,Yocona Community Center,State House,12,Republican,Brad Mayo,
 Lafayette,Yocona Community Center,State House,13,Democrat,Billy B. Gray,25
 Lafayette,Yocona Community Center,State House,13,Republican,Steve E. Massengill,32
-Lafayette,Yocona Community Center,State House,33,Democrat,"Thomas U. 'Tommy' Reynolds",x
-Lafayette,Yocona Community Center,State House,33,Republican,Jerrerico Chambers,x
-Lafayette,Yocona Community Center,State House,33,Libertarian,Sean T. Holmes,x
+Lafayette,Yocona Community Center,State House,33,Democrat,Thomas U. 'Tommy' Reynolds,
+Lafayette,Yocona Community Center,State House,33,Republican,Jerrerico Chambers,
+Lafayette,Yocona Community Center,State House,33,Libertarian,Sean T. Holmes,
 Lafayette,Oxford 2,Governor,,Democrat,Johnny L. DuPree,1076
 Lafayette,Oxford 2,Governor,,Republican,Phil Bryant,1478
 Lafayette,Oxford 2,Lieutenant Governor,,Republican,Tate Reeves,1780
@@ -104,13 +104,13 @@ Lafayette,Oxford 2,Commissioner of Insurance,,Reform,Barbara Dale Washer,73
 Lafayette,Oxford 2,State Senate,09,Democrat,Gray Tollison,2146
 Lafayette,Oxford 2,State House,10,Democrat,Greg Hodges,72
 Lafayette,Oxford 2,State House,10,Republican,Nolan Mettetal,150
-Lafayette,Oxford 2,State House,12,Democrat,"Hollaman 'Holly' Raney",907
+Lafayette,Oxford 2,State House,12,Democrat,Hollaman 'Holly' Raney,907
 Lafayette,Oxford 2,State House,12,Republican,Brad Mayo,1287
 Lafayette,Oxford 2,State House,13,Democrat,Billy B. Gray,25
 Lafayette,Oxford 2,State House,13,Republican,Steve E. Massengill,43
-Lafayette,Oxford 2,State House,33,Democrat,"Thomas U. 'Tommy' Reynolds",x
-Lafayette,Oxford 2,State House,33,Republican,Jerrerico Chambers,x
-Lafayette,Oxford 2,State House,33,Libertarian,Sean T. Holmes,x
+Lafayette,Oxford 2,State House,33,Democrat,Thomas U. 'Tommy' Reynolds,
+Lafayette,Oxford 2,State House,33,Republican,Jerrerico Chambers,
+Lafayette,Oxford 2,State House,33,Libertarian,Sean T. Holmes,
 Lafayette,Philadelphia,Governor,,Democrat,Johnny L. DuPree,64
 Lafayette,Philadelphia,Governor,,Republican,Phil Bryant,87
 Lafayette,Philadelphia,Lieutenant Governor,,Republican,Tate Reeves,102
@@ -130,15 +130,15 @@ Lafayette,Philadelphia,Commissioner of Insurance,,Democrat,Louis Fondren,61
 Lafayette,Philadelphia,Commissioner of Insurance,,Republican,Mike Chaney,87
 Lafayette,Philadelphia,Commissioner of Insurance,,Reform,Barbara Dale Washer,2
 Lafayette,Philadelphia,State Senate,09,Democrat,Gray Tollison,134
-Lafayette,Philadelphia,State House,10,Democrat,Greg Hodges,x
-Lafayette,Philadelphia,State House,10,Republican,Nolan Mettetal,x
-Lafayette,Philadelphia,State House,12,Democrat,"Hollaman 'Holly' Raney",x
-Lafayette,Philadelphia,State House,12,Republican,Brad Mayo,x
+Lafayette,Philadelphia,State House,10,Democrat,Greg Hodges,
+Lafayette,Philadelphia,State House,10,Republican,Nolan Mettetal,
+Lafayette,Philadelphia,State House,12,Democrat,Hollaman 'Holly' Raney,
+Lafayette,Philadelphia,State House,12,Republican,Brad Mayo,
 Lafayette,Philadelphia,State House,13,Democrat,Billy B. Gray,69
 Lafayette,Philadelphia,State House,13,Republican,Steve E. Massengill,78
-Lafayette,Philadelphia,State House,33,Democrat,"Thomas U. 'Tommy' Reynolds",x
-Lafayette,Philadelphia,State House,33,Republican,Jerrerico Chambers,x
-Lafayette,Philadelphia,State House,33,Libertarian,Sean T. Holmes,x
+Lafayette,Philadelphia,State House,33,Democrat,Thomas U. 'Tommy' Reynolds,
+Lafayette,Philadelphia,State House,33,Republican,Jerrerico Chambers,
+Lafayette,Philadelphia,State House,33,Libertarian,Sean T. Holmes,
 Lafayette,Oxford 3,Governor,,Democrat,Johnny L. DuPree,611
 Lafayette,Oxford 3,Governor,,Republican,Phil Bryant,491
 Lafayette,Oxford 3,Lieutenant Governor,,Republican,Tate Reeves,640
@@ -160,11 +160,11 @@ Lafayette,Oxford 3,Commissioner of Insurance,,Reform,Barbara Dale Washer,25
 Lafayette,Oxford 3,State Senate,09,Democrat,Gray Tollison,906
 Lafayette,Oxford 3,State House,10,Democrat,Greg Hodges,13
 Lafayette,Oxford 3,State House,10,Republican,Nolan Mettetal,20
-Lafayette,Oxford 3,State House,12,Democrat,"Hollaman 'Holly' Raney",111
+Lafayette,Oxford 3,State House,12,Democrat,Hollaman 'Holly' Raney,111
 Lafayette,Oxford 3,State House,12,Republican,Brad Mayo,13
-Lafayette,Oxford 3,State House,13,Democrat,Billy B. Gray,x
-Lafayette,Oxford 3,State House,13,Republican,Steve E. Massengill,x
-Lafayette,Oxford 3,State House,33,Democrat,"Thomas U. 'Tommy' Reynolds",518
+Lafayette,Oxford 3,State House,13,Democrat,Billy B. Gray,
+Lafayette,Oxford 3,State House,13,Republican,Steve E. Massengill,
+Lafayette,Oxford 3,State House,33,Democrat,Thomas U. 'Tommy' Reynolds,518
 Lafayette,Oxford 3,State House,33,Republican,Jerrerico Chambers,354
 Lafayette,Oxford 3,State House,33,Libertarian,Sean T. Holmes,36
 Lafayette,Abbeville,Governor,,Democrat,Johnny L. DuPree,398
@@ -188,13 +188,13 @@ Lafayette,Abbeville,Commissioner of Insurance,,Reform,Barbara Dale Washer,19
 Lafayette,Abbeville,State Senate,09,Democrat,Gray Tollison,599
 Lafayette,Abbeville,State House,10,Democrat,Greg Hodges,223
 Lafayette,Abbeville,State House,10,Republican,Nolan Mettetal,45
-Lafayette,Abbeville,State House,12,Democrat,"Hollaman 'Holly' Raney",5
+Lafayette,Abbeville,State House,12,Democrat,Hollaman 'Holly' Raney,5
 Lafayette,Abbeville,State House,12,Republican,Brad Mayo,5
 Lafayette,Abbeville,State House,13,Democrat,Billy B. Gray,193
 Lafayette,Abbeville,State House,13,Republican,Steve E. Massengill,200
-Lafayette,Abbeville,State House,33,Democrat,"Thomas U. 'Tommy' Reynolds",x
-Lafayette,Abbeville,State House,33,Republican,Jerrerico Chambers,x
-Lafayette,Abbeville,State House,33,Libertarian,Sean T. Holmes,x
+Lafayette,Abbeville,State House,33,Democrat,Thomas U. 'Tommy' Reynolds,
+Lafayette,Abbeville,State House,33,Republican,Jerrerico Chambers,
+Lafayette,Abbeville,State House,33,Libertarian,Sean T. Holmes,
 Lafayette,College Hill,Governor,,Democrat,Johnny L. DuPree,384
 Lafayette,College Hill,Governor,,Republican,Phil Bryant,628
 Lafayette,College Hill,Lieutenant Governor,,Republican,Tate Reeves,720
@@ -216,11 +216,11 @@ Lafayette,College Hill,Commissioner of Insurance,,Reform,Barbara Dale Washer,27
 Lafayette,College Hill,State Senate,09,Democrat,Gray Tollison,816
 Lafayette,College Hill,State House,10,Democrat,Greg Hodges,316
 Lafayette,College Hill,State House,10,Republican,Nolan Mettetal,557
-Lafayette,College Hill,State House,12,Democrat,"Hollaman 'Holly' Raney",2
+Lafayette,College Hill,State House,12,Democrat,Hollaman 'Holly' Raney,2
 Lafayette,College Hill,State House,12,Republican,Brad Mayo,2
-Lafayette,College Hill,State House,13,Democrat,Billy B. Gray,x
-Lafayette,College Hill,State House,13,Republican,Steve E. Massengill,x
-Lafayette,College Hill,State House,33,Democrat,"Thomas U. 'Tommy' Reynolds",90
+Lafayette,College Hill,State House,13,Democrat,Billy B. Gray,
+Lafayette,College Hill,State House,13,Republican,Steve E. Massengill,
+Lafayette,College Hill,State House,33,Democrat,Thomas U. 'Tommy' Reynolds,90
 Lafayette,College Hill,State House,33,Republican,Jerrerico Chambers,16
 Lafayette,College Hill,State House,33,Libertarian,Sean T. Holmes,5
 Lafayette,Taylor 3,Governor,,Democrat,Johnny L. DuPree,239
@@ -244,11 +244,11 @@ Lafayette,Taylor 3,Commissioner of Insurance,,Reform,Barbara Dale Washer,8
 Lafayette,Taylor 3,State Senate,09,Democrat,Gray Tollison,287
 Lafayette,Taylor 3,State House,10,Democrat,Greg Hodges,15
 Lafayette,Taylor 3,State House,10,Republican,Nolan Mettetal,1
-Lafayette,Taylor 3,State House,12,Democrat,"Hollaman 'Holly' Raney",x
-Lafayette,Taylor 3,State House,12,Republican,Brad Mayo,x
-Lafayette,Taylor 3,State House,13,Democrat,Billy B. Gray,x
-Lafayette,Taylor 3,State House,13,Republican,Steve E. Massengill,x
-Lafayette,Taylor 3,State House,33,Democrat,"Thomas U. 'Tommy' Reynolds",231
+Lafayette,Taylor 3,State House,12,Democrat,Hollaman 'Holly' Raney,
+Lafayette,Taylor 3,State House,12,Republican,Brad Mayo,
+Lafayette,Taylor 3,State House,13,Democrat,Billy B. Gray,
+Lafayette,Taylor 3,State House,13,Republican,Steve E. Massengill,
+Lafayette,Taylor 3,State House,33,Democrat,Thomas U. 'Tommy' Reynolds,231
 Lafayette,Taylor 3,State House,33,Republican,Jerrerico Chambers,40
 Lafayette,Taylor 3,State House,33,Libertarian,Sean T. Holmes,16
 Lafayette,Oxford 4,Governor,,Democrat,Johnny L. DuPree,730
@@ -272,11 +272,11 @@ Lafayette,Oxford 4,Commissioner of Insurance,,Reform,Barbara Dale Washer,56
 Lafayette,Oxford 4,State Senate,09,Democrat,Gray Tollison,1457
 Lafayette,Oxford 4,State House,10,Democrat,Greg Hodges,256
 Lafayette,Oxford 4,State House,10,Republican,Nolan Mettetal,369
-Lafayette,Oxford 4,State House,12,Democrat,"Hollaman 'Holly' Raney",394
+Lafayette,Oxford 4,State House,12,Democrat,Hollaman 'Holly' Raney,394
 Lafayette,Oxford 4,State House,12,Republican,Brad Mayo,678
-Lafayette,Oxford 4,State House,13,Democrat,Billy B. Gray,x
-Lafayette,Oxford 4,State House,13,Republican,Steve E. Massengill,x
-Lafayette,Oxford 4,State House,33,Democrat,"Thomas U. 'Tommy' Reynolds",23
+Lafayette,Oxford 4,State House,13,Democrat,Billy B. Gray,
+Lafayette,Oxford 4,State House,13,Republican,Steve E. Massengill,
+Lafayette,Oxford 4,State House,33,Democrat,Thomas U. 'Tommy' Reynolds,23
 Lafayette,Oxford 4,State House,33,Republican,Jerrerico Chambers,14
 Lafayette,Oxford 4,State House,33,Libertarian,Sean T. Holmes,1
 Lafayette,Burgess,Governor,,Democrat,Johnny L. DuPree,66
@@ -300,11 +300,11 @@ Lafayette,Burgess,Commissioner of Insurance,,Reform,Barbara Dale Washer,8
 Lafayette,Burgess,State Senate,09,Democrat,Gray Tollison,216
 Lafayette,Burgess,State House,10,Democrat,Greg Hodges,62
 Lafayette,Burgess,State House,10,Republican,Nolan Mettetal,151
-Lafayette,Burgess,State House,12,Democrat,"Hollaman 'Holly' Raney",x
-Lafayette,Burgess,State House,12,Republican,Brad Mayo,x
-Lafayette,Burgess,State House,13,Democrat,Billy B. Gray,x
-Lafayette,Burgess,State House,13,Republican,Steve E. Massengill,x
-Lafayette,Burgess,State House,33,Democrat,"Thomas U. 'Tommy' Reynolds",31
+Lafayette,Burgess,State House,12,Democrat,Hollaman 'Holly' Raney,
+Lafayette,Burgess,State House,12,Republican,Brad Mayo,
+Lafayette,Burgess,State House,13,Democrat,Billy B. Gray,
+Lafayette,Burgess,State House,13,Republican,Steve E. Massengill,
+Lafayette,Burgess,State House,33,Democrat,Thomas U. 'Tommy' Reynolds,31
 Lafayette,Burgess,State House,33,Republican,Jerrerico Chambers,19
 Lafayette,Burgess,State House,33,Libertarian,Sean T. Holmes,3
 Lafayette,Anchor-Taylor 4,Governor,,Democrat,Johnny L. DuPree,50
@@ -328,11 +328,11 @@ Lafayette,Anchor-Taylor 4,Commissioner of Insurance,,Reform,Barbara Dale Washer,
 Lafayette,Anchor-Taylor 4,State Senate,09,Democrat,Gray Tollison,269
 Lafayette,Anchor-Taylor 4,State House,10,Democrat,Greg Hodges,5
 Lafayette,Anchor-Taylor 4,State House,10,Republican,Nolan Mettetal,14
-Lafayette,Anchor-Taylor 4,State House,12,Democrat,"Hollaman 'Holly' Raney",x
-Lafayette,Anchor-Taylor 4,State House,12,Republican,Brad Mayo,x
+Lafayette,Anchor-Taylor 4,State House,12,Democrat,Hollaman 'Holly' Raney,
+Lafayette,Anchor-Taylor 4,State House,12,Republican,Brad Mayo,
 Lafayette,Anchor-Taylor 4,State House,13,Democrat,Billy B. Gray,47
 Lafayette,Anchor-Taylor 4,State House,13,Republican,Steve E. Massengill,146
-Lafayette,Anchor-Taylor 4,State House,33,Democrat,"Thomas U. 'Tommy' Reynolds",69
+Lafayette,Anchor-Taylor 4,State House,33,Democrat,Thomas U. 'Tommy' Reynolds,69
 Lafayette,Anchor-Taylor 4,State House,33,Republican,Jerrerico Chambers,50
 Lafayette,Anchor-Taylor 4,State House,33,Libertarian,Sean T. Holmes,2
 Lafayette,Harmontown,Governor,,Democrat,Johnny L. DuPree,53
@@ -354,15 +354,15 @@ Lafayette,Harmontown,Commissioner of Insurance,,Democrat,Louis Fondren,63
 Lafayette,Harmontown,Commissioner of Insurance,,Republican,Mike Chaney,170
 Lafayette,Harmontown,Commissioner of Insurance,,Reform,Barbara Dale Washer,14
 Lafayette,Harmontown,State Senate,09,Democrat,Gray Tollison,194
-Lafayette,Harmontown,State House,10,Democrat,Greg Hodges,x
-Lafayette,Harmontown,State House,10,Republican,Nolan Mettetal,x
-Lafayette,Harmontown,State House,12,Democrat,"Hollaman 'Holly' Raney",x
-Lafayette,Harmontown,State House,12,Republican,Brad Mayo,x
+Lafayette,Harmontown,State House,10,Democrat,Greg Hodges,
+Lafayette,Harmontown,State House,10,Republican,Nolan Mettetal,
+Lafayette,Harmontown,State House,12,Democrat,Hollaman 'Holly' Raney,
+Lafayette,Harmontown,State House,12,Republican,Brad Mayo,
 Lafayette,Harmontown,State House,13,Democrat,Billy B. Gray,80
 Lafayette,Harmontown,State House,13,Republican,Steve E. Massengill,176
-Lafayette,Harmontown,State House,33,Democrat,"Thomas U. 'Tommy' Reynolds",x
-Lafayette,Harmontown,State House,33,Republican,Jerrerico Chambers,x
-Lafayette,Harmontown,State House,33,Libertarian,Sean T. Holmes,x
+Lafayette,Harmontown,State House,33,Democrat,Thomas U. 'Tommy' Reynolds,
+Lafayette,Harmontown,State House,33,Republican,Jerrerico Chambers,
+Lafayette,Harmontown,State House,33,Libertarian,Sean T. Holmes,
 Lafayette,Union West 4,Governor,,Democrat,Johnny L. DuPree,65
 Lafayette,Union West 4,Governor,,Republican,Phil Bryant,137
 Lafayette,Union West 4,Lieutenant Governor,,Republican,Tate Reeves,150
@@ -382,13 +382,13 @@ Lafayette,Union West 4,Commissioner of Insurance,,Democrat,Louis Fondren,62
 Lafayette,Union West 4,Commissioner of Insurance,,Republican,Mike Chaney,134
 Lafayette,Union West 4,Commissioner of Insurance,,Reform,Barbara Dale Washer,3
 Lafayette,Union West 4,State Senate,09,Democrat,Gray Tollison,167
-Lafayette,Union West 4,State House,10,Democrat,Greg Hodges,x
-Lafayette,Union West 4,State House,10,Republican,Nolan Mettetal,x
-Lafayette,Union West 4,State House,12,Democrat,"Hollaman 'Holly' Raney",x
-Lafayette,Union West 4,State House,12,Republican,Brad Mayo,x
-Lafayette,Union West 4,State House,13,Democrat,Billy B. Gray,x
-Lafayette,Union West 4,State House,13,Republican,Steve E. Massengill,x
-Lafayette,Union West 4,State House,33,Democrat,"Thomas U. 'Tommy' Reynolds",129
+Lafayette,Union West 4,State House,10,Democrat,Greg Hodges,
+Lafayette,Union West 4,State House,10,Republican,Nolan Mettetal,
+Lafayette,Union West 4,State House,12,Democrat,Hollaman 'Holly' Raney,
+Lafayette,Union West 4,State House,12,Republican,Brad Mayo,
+Lafayette,Union West 4,State House,13,Democrat,Billy B. Gray,
+Lafayette,Union West 4,State House,13,Republican,Steve E. Massengill,
+Lafayette,Union West 4,State House,33,Democrat,Thomas U. 'Tommy' Reynolds,129
 Lafayette,Union West 4,State House,33,Republican,Jerrerico Chambers,54
 Lafayette,Union West 4,State House,33,Libertarian,Sean T. Holmes,10
 Lafayette,Oxford 5,Governor,,Democrat,Johnny L. DuPree,375
@@ -412,13 +412,13 @@ Lafayette,Oxford 5,Commissioner of Insurance,,Reform,Barbara Dale Washer,37
 Lafayette,Oxford 5,State Senate,09,Democrat,Gray Tollison,717
 Lafayette,Oxford 5,State House,10,Democrat,Greg Hodges,77
 Lafayette,Oxford 5,State House,10,Republican,Nolan Mettetal,111
-Lafayette,Oxford 5,State House,12,Democrat,"Hollaman 'Holly' Raney",246
+Lafayette,Oxford 5,State House,12,Democrat,Hollaman 'Holly' Raney,246
 Lafayette,Oxford 5,State House,12,Republican,Brad Mayo,418
-Lafayette,Oxford 5,State House,13,Democrat,Billy B. Gray,x
-Lafayette,Oxford 5,State House,13,Republican,Steve E. Massengill,x
-Lafayette,Oxford 5,State House,33,Democrat,"Thomas U. 'Tommy' Reynolds",x
-Lafayette,Oxford 5,State House,33,Republican,Jerrerico Chambers,x
-Lafayette,Oxford 5,State House,33,Libertarian,Sean T. Holmes,x
+Lafayette,Oxford 5,State House,13,Democrat,Billy B. Gray,
+Lafayette,Oxford 5,State House,13,Republican,Steve E. Massengill,
+Lafayette,Oxford 5,State House,33,Democrat,Thomas U. 'Tommy' Reynolds,
+Lafayette,Oxford 5,State House,33,Republican,Jerrerico Chambers,
+Lafayette,Oxford 5,State House,33,Libertarian,Sean T. Holmes,
 Lafayette,Paris,Governor,,Democrat,Johnny L. DuPree,20
 Lafayette,Paris,Governor,,Republican,Phil Bryant,192
 Lafayette,Paris,Lieutenant Governor,,Republican,Tate Reeves,198
@@ -440,13 +440,13 @@ Lafayette,Paris,Commissioner of Insurance,,Reform,Barbara Dale Washer,10
 Lafayette,Paris,State Senate,09,Democrat,Gray Tollison,153
 Lafayette,Paris,State House,10,Democrat,Greg Hodges,1
 Lafayette,Paris,State House,10,Republican,Nolan Mettetal,1
-Lafayette,Paris,State House,12,Democrat,"Hollaman 'Holly' Raney",x
-Lafayette,Paris,State House,12,Republican,Brad Mayo,x
+Lafayette,Paris,State House,12,Democrat,Hollaman 'Holly' Raney,
+Lafayette,Paris,State House,12,Republican,Brad Mayo,
 Lafayette,Paris,State House,13,Democrat,Billy B. Gray,43
 Lafayette,Paris,State House,13,Republican,Steve E. Massengill,161
-Lafayette,Paris,State House,33,Democrat,"Thomas U. 'Tommy' Reynolds",x
-Lafayette,Paris,State House,33,Republican,Jerrerico Chambers,x
-Lafayette,Paris,State House,33,Libertarian,Sean T. Holmes,x
+Lafayette,Paris,State House,33,Democrat,Thomas U. 'Tommy' Reynolds,
+Lafayette,Paris,State House,33,Republican,Jerrerico Chambers,
+Lafayette,Paris,State House,33,Libertarian,Sean T. Holmes,
 Lafayette,Tula,Governor,,Democrat,Johnny L. DuPree,56
 Lafayette,Tula,Governor,,Republican,Phil Bryant,225
 Lafayette,Tula,Lieutenant Governor,,Republican,Tate Reeves,239
@@ -468,13 +468,13 @@ Lafayette,Tula,Commissioner of Insurance,,Reform,Barbara Dale Washer,14
 Lafayette,Tula,State Senate,09,Democrat,Gray Tollison,230
 Lafayette,Tula,State House,10,Democrat,Greg Hodges,18
 Lafayette,Tula,State House,10,Republican,Nolan Mettetal,42
-Lafayette,Tula,State House,12,Democrat,"Hollaman 'Holly' Raney",x
-Lafayette,Tula,State House,12,Republican,Brad Mayo,x
+Lafayette,Tula,State House,12,Democrat,Hollaman 'Holly' Raney,
+Lafayette,Tula,State House,12,Republican,Brad Mayo,
 Lafayette,Tula,State House,13,Democrat,Billy B. Gray,88
 Lafayette,Tula,State House,13,Republican,Steve E. Massengill,120
-Lafayette,Tula,State House,33,Democrat,"Thomas U. 'Tommy' Reynolds",x
-Lafayette,Tula,State House,33,Republican,Jerrerico Chambers,x
-Lafayette,Tula,State House,33,Libertarian,Sean T. Holmes,x
+Lafayette,Tula,State House,33,Democrat,Thomas U. 'Tommy' Reynolds,
+Lafayette,Tula,State House,33,Republican,Jerrerico Chambers,
+Lafayette,Tula,State House,33,Libertarian,Sean T. Holmes,
 Lafayette,Airport Grocery,Governor,,Democrat,Johnny L. DuPree,60
 Lafayette,Airport Grocery,Governor,,Republican,Phil Bryant,304
 Lafayette,Airport Grocery,Lieutenant Governor,,Republican,Tate Reeves,312
@@ -496,13 +496,13 @@ Lafayette,Airport Grocery,Commissioner of Insurance,,Reform,Barbara Dale Washer,
 Lafayette,Airport Grocery,State Senate,09,Democrat,Gray Tollison,302
 Lafayette,Airport Grocery,State House,10,Democrat,Greg Hodges,103
 Lafayette,Airport Grocery,State House,10,Republican,Nolan Mettetal,229
-Lafayette,Airport Grocery,State House,12,Democrat,"Hollaman 'Holly' Raney",x
-Lafayette,Airport Grocery,State House,12,Republican,Brad Mayo,x
+Lafayette,Airport Grocery,State House,12,Democrat,Hollaman 'Holly' Raney,
+Lafayette,Airport Grocery,State House,12,Republican,Brad Mayo,
 Lafayette,Airport Grocery,State House,13,Democrat,Billy B. Gray,0
 Lafayette,Airport Grocery,State House,13,Republican,Steve E. Massengill,13
-Lafayette,Airport Grocery,State House,33,Democrat,"Thomas U. 'Tommy' Reynolds",x
-Lafayette,Airport Grocery,State House,33,Republican,Jerrerico Chambers,x
-Lafayette,Airport Grocery,State House,33,Libertarian,Sean T. Holmes,x
+Lafayette,Airport Grocery,State House,33,Democrat,Thomas U. 'Tommy' Reynolds,
+Lafayette,Airport Grocery,State House,33,Republican,Jerrerico Chambers,
+Lafayette,Airport Grocery,State House,33,Libertarian,Sean T. Holmes,
 Lafayette,,Governor,,Democrat,Johnny L. DuPree,4984
 Lafayette,,Governor,,Republican,Phil Bryant,7827
 Lafayette,,Lieutenant Governor,,Republican,Tate Reeves,9129
@@ -524,10 +524,10 @@ Lafayette,,Commissioner of Insurance,,Reform,Barbara Dale Washer,431
 Lafayette,,State Senate,09,Democrat,Gray Tollison,10583
 Lafayette,,State House,10,Democrat,Greg Hodges,1261
 Lafayette,,State House,10,Republican,Nolan Mettetal,1937
-Lafayette,,State House,12,Democrat,"Hollaman 'Holly' Raney",2288
+Lafayette,,State House,12,Democrat,Hollaman 'Holly' Raney,2288
 Lafayette,,State House,12,Republican,Brad Mayo,3392
 Lafayette,,State House,13,Democrat,Billy B. Gray,655
 Lafayette,,State House,13,Republican,Steve E. Massengill,1230
-Lafayette,,State House,33,Democrat,"Thomas U. 'Tommy' Reynolds",1091
+Lafayette,,State House,33,Democrat,Thomas U. 'Tommy' Reynolds,1091
 Lafayette,,State House,33,Republican,Jerrerico Chambers,547
 Lafayette,,State House,33,Libertarian,Sean T. Holmes,73

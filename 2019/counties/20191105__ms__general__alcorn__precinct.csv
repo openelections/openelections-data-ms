@@ -17,9 +17,9 @@ Andy Gipson,Commissioner of Agriculture & Commerce,,R,Alcorn,2nd District Centra
 Rita Potts Parks,State Senate,4,R,Alcorn,2nd District Central Precinct,884
 Lester E 'Bubba' Carpenter,State House,1,R,Alcorn,2nd District Central Precinct,508
 Nick Bain,State House,2,R,Alcorn,2nd District Central Precinct,381
-William Tracy Arnold,State House,3,R,Alcorn,2nd District Central Precinct,X
-Janis Triplett Patterson,State House,3,D,Alcorn,2nd District Central Precinct,X
-Joseph F. 'Jody' Steverson,State House,4,R,Alcorn,2nd District Central Precinct,X
+William Tracy Arnold,State House,3,R,Alcorn,2nd District Central Precinct,
+Janis Triplett Patterson,State House,3,D,Alcorn,2nd District Central Precinct,
+Joseph F. 'Jody' Steverson,State House,4,R,Alcorn,2nd District Central Precinct,
 Jim Hood,Governor,,D,Alcorn,Bethel,19
 Tate Reeves,Governor,,R,Alcorn,Bethel,61
 Bob Hickingbottom,Governor,,C,Alcorn,Bethel,0
@@ -36,10 +36,10 @@ David McRae,State Treasurer,,R,Alcorn,Bethel,64
 Rickey L Cole,Commissioner of Agriculture & Commerce,,D,Alcorn,Bethel,16
 Andy Gipson,Commissioner of Agriculture & Commerce,,R,Alcorn,Bethel,58
 Rita Potts Parks,State Senate,4,R,Alcorn,Bethel,71
-Lester E 'Bubba' Carpenter,State House,1,R,Alcorn,Bethel,X
-Nick Bain,State House,2,R,Alcorn,Bethel,X
-William Tracy Arnold,State House,3,R,Alcorn,Bethel,X
-Janis Triplett Patterson,State House,3,D,Alcorn,Bethel,X
+Lester E 'Bubba' Carpenter,State House,1,R,Alcorn,Bethel,
+Nick Bain,State House,2,R,Alcorn,Bethel,
+William Tracy Arnold,State House,3,R,Alcorn,Bethel,
+Janis Triplett Patterson,State House,3,D,Alcorn,Bethel,
 Joseph F. 'Jody' Steverson,State House,4,R,Alcorn,Bethel,66
 Jim Hood,Governor,,D,Alcorn,Biggersville,141
 Tate Reeves,Governor,,R,Alcorn,Biggersville,423
@@ -57,11 +57,11 @@ David McRae,State Treasurer,,R,Alcorn,Biggersville,439
 Rickey L Cole,Commissioner of Agriculture & Commerce,,D,Alcorn,Biggersville,129
 Andy Gipson,Commissioner of Agriculture & Commerce,,R,Alcorn,Biggersville,418
 Rita Potts Parks,State Senate,4,R,Alcorn,Biggersville,469
-Lester E 'Bubba' Carpenter,State House,1,R,Alcorn,Biggersville,X
+Lester E 'Bubba' Carpenter,State House,1,R,Alcorn,Biggersville,
 Nick Bain,State House,2,R,Alcorn,Biggersville,492
-William Tracy Arnold,State House,3,R,Alcorn,Biggersville,X
-Janis Triplett Patterson,State House,3,D,Alcorn,Biggersville,X
-Joseph F. 'Jody' Steverson,State House,4,R,Alcorn,Biggersville,X
+William Tracy Arnold,State House,3,R,Alcorn,Biggersville,
+Janis Triplett Patterson,State House,3,D,Alcorn,Biggersville,
+Joseph F. 'Jody' Steverson,State House,4,R,Alcorn,Biggersville,
 Jim Hood,Governor,,D,Alcorn,College Hill,164
 Tate Reeves,Governor,,R,Alcorn,College Hill,263
 Bob Hickingbottom,Governor,,C,Alcorn,College Hill,4
@@ -78,11 +78,11 @@ David McRae,State Treasurer,,R,Alcorn,College Hill,304
 Rickey L Cole,Commissioner of Agriculture & Commerce,,D,Alcorn,College Hill,140
 Andy Gipson,Commissioner of Agriculture & Commerce,,R,Alcorn,College Hill,290
 Rita Potts Parks,State Senate,4,R,Alcorn,College Hill,352
-Lester E 'Bubba' Carpenter,State House,1,R,Alcorn,College Hill,X
+Lester E 'Bubba' Carpenter,State House,1,R,Alcorn,College Hill,
 Nick Bain,State House,2,R,Alcorn,College Hill,374
-William Tracy Arnold,State House,3,R,Alcorn,College Hill,X
-Janis Triplett Patterson,State House,3,D,Alcorn,College Hill,X
-Joseph F. 'Jody' Steverson,State House,4,R,Alcorn,College Hill,X
+William Tracy Arnold,State House,3,R,Alcorn,College Hill,
+Janis Triplett Patterson,State House,3,D,Alcorn,College Hill,
+Joseph F. 'Jody' Steverson,State House,4,R,Alcorn,College Hill,
 Jim Hood,Governor,,D,Alcorn,East Corinth,318
 Tate Reeves,Governor,,R,Alcorn,East Corinth,607
 Bob Hickingbottom,Governor,,C,Alcorn,East Corinth,0
@@ -99,11 +99,11 @@ David McRae,State Treasurer,,R,Alcorn,East Corinth,681
 Rickey L Cole,Commissioner of Agriculture & Commerce,,D,Alcorn,East Corinth,259
 Andy Gipson,Commissioner of Agriculture & Commerce,,R,Alcorn,East Corinth,651
 Rita Potts Parks,State Senate,4,R,Alcorn,East Corinth,757
-Lester E 'Bubba' Carpenter,State House,1,R,Alcorn,East Corinth,X
+Lester E 'Bubba' Carpenter,State House,1,R,Alcorn,East Corinth,
 Nick Bain,State House,2,R,Alcorn,East Corinth,775
-William Tracy Arnold,State House,3,R,Alcorn,East Corinth,X
-Janis Triplett Patterson,State House,3,D,Alcorn,East Corinth,X
-Joseph F. 'Jody' Steverson,State House,4,R,Alcorn,East Corinth,X
+William Tracy Arnold,State House,3,R,Alcorn,East Corinth,
+Janis Triplett Patterson,State House,3,D,Alcorn,East Corinth,
+Joseph F. 'Jody' Steverson,State House,4,R,Alcorn,East Corinth,
 Jim Hood,Governor,,D,Alcorn,Five Points 1st Dist,192
 Tate Reeves,Governor,,R,Alcorn,Five Points 1st Dist,963
 Bob Hickingbottom,Governor,,C,Alcorn,Five Points 1st Dist,5
@@ -121,10 +121,10 @@ Rickey L Cole,Commissioner of Agriculture & Commerce,,D,Alcorn,Five Points 1st D
 Andy Gipson,Commissioner of Agriculture & Commerce,,R,Alcorn,Five Points 1st Dist,978
 Rita Potts Parks,State Senate,4,R,Alcorn,Five Points 1st Dist,1053
 Lester E 'Bubba' Carpenter,State House,1,R,Alcorn,Five Points 1st Dist,1046
-Nick Bain,State House,2,R,Alcorn,Five Points 1st Dist,X
-William Tracy Arnold,State House,3,R,Alcorn,Five Points 1st Dist,X
-Janis Triplett Patterson,State House,3,D,Alcorn,Five Points 1st Dist,X
-Joseph F. 'Jody' Steverson,State House,4,R,Alcorn,Five Points 1st Dist,X
+Nick Bain,State House,2,R,Alcorn,Five Points 1st Dist,
+William Tracy Arnold,State House,3,R,Alcorn,Five Points 1st Dist,
+Janis Triplett Patterson,State House,3,D,Alcorn,Five Points 1st Dist,
+Joseph F. 'Jody' Steverson,State House,4,R,Alcorn,Five Points 1st Dist,
 Jim Hood,Governor,,D,Alcorn,Glen,130
 Tate Reeves,Governor,,R,Alcorn,Glen,571
 Bob Hickingbottom,Governor,,C,Alcorn,Glen,3
@@ -145,7 +145,7 @@ Lester E 'Bubba' Carpenter,State House,1,R,Alcorn,Glen,540
 Nick Bain,State House,2,R,Alcorn,Glen,15
 William Tracy Arnold,State House,3,R,Alcorn,Glen,66
 Janis Triplett Patterson,State House,3,D,Alcorn,Glen,8
-Joseph F. 'Jody' Steverson,State House,4,R,Alcorn,Glen,X
+Joseph F. 'Jody' Steverson,State House,4,R,Alcorn,Glen,
 Jim Hood,Governor,,D,Alcorn,Jacinto,41
 Tate Reeves,Governor,,R,Alcorn,Jacinto,212
 Bob Hickingbottom,Governor,,C,Alcorn,Jacinto,1
@@ -163,10 +163,10 @@ Rickey L Cole,Commissioner of Agriculture & Commerce,,D,Alcorn,Jacinto,38
 Andy Gipson,Commissioner of Agriculture & Commerce,,R,Alcorn,Jacinto,222
 Rita Potts Parks,State Senate,4,R,Alcorn,Jacinto,227
 Lester E 'Bubba' Carpenter,State House,1,R,Alcorn,Jacinto,9
-Nick Bain,State House,2,R,Alcorn,Jacinto,X
+Nick Bain,State House,2,R,Alcorn,Jacinto,
 William Tracy Arnold,State House,3,R,Alcorn,Jacinto,218
 Janis Triplett Patterson,State House,3,D,Alcorn,Jacinto,29
-Joseph F. 'Jody' Steverson,State House,4,R,Alcorn,Jacinto,X
+Joseph F. 'Jody' Steverson,State House,4,R,Alcorn,Jacinto,
 Jim Hood,Governor,,D,Alcorn,Kossuth,146
 Tate Reeves,Governor,,R,Alcorn,Kossuth,1063
 Bob Hickingbottom,Governor,,C,Alcorn,Kossuth,6
@@ -183,11 +183,11 @@ David McRae,State Treasurer,,R,Alcorn,Kossuth,1087
 Rickey L Cole,Commissioner of Agriculture & Commerce,,D,Alcorn,Kossuth,125
 Andy Gipson,Commissioner of Agriculture & Commerce,,R,Alcorn,Kossuth,1055
 Rita Potts Parks,State Senate,4,R,Alcorn,Kossuth,1148
-Lester E 'Bubba' Carpenter,State House,1,R,Alcorn,Kossuth,X
+Lester E 'Bubba' Carpenter,State House,1,R,Alcorn,Kossuth,
 Nick Bain,State House,2,R,Alcorn,Kossuth,1131
-William Tracy Arnold,State House,3,R,Alcorn,Kossuth,X
-Janis Triplett Patterson,State House,3,D,Alcorn,Kossuth,X
-Joseph F. 'Jody' Steverson,State House,4,R,Alcorn,Kossuth,X
+William Tracy Arnold,State House,3,R,Alcorn,Kossuth,
+Janis Triplett Patterson,State House,3,D,Alcorn,Kossuth,
+Joseph F. 'Jody' Steverson,State House,4,R,Alcorn,Kossuth,
 Jim Hood,Governor,,D,Alcorn,North Corinth,159
 Tate Reeves,Governor,,R,Alcorn,North Corinth,585
 Bob Hickingbottom,Governor,,C,Alcorn,North Corinth,1
@@ -206,9 +206,9 @@ Andy Gipson,Commissioner of Agriculture & Commerce,,R,Alcorn,North Corinth,622
 Rita Potts Parks,State Senate,4,R,Alcorn,North Corinth,676
 Lester E 'Bubba' Carpenter,State House,1,R,Alcorn,North Corinth,596
 Nick Bain,State House,2,R,Alcorn,North Corinth,81
-William Tracy Arnold,State House,3,R,Alcorn,North Corinth,X
-Janis Triplett Patterson,State House,3,D,Alcorn,North Corinth,X
-Joseph F. 'Jody' Steverson,State House,4,R,Alcorn,North Corinth,X
+William Tracy Arnold,State House,3,R,Alcorn,North Corinth,
+Janis Triplett Patterson,State House,3,D,Alcorn,North Corinth,
+Joseph F. 'Jody' Steverson,State House,4,R,Alcorn,North Corinth,
 Jim Hood,Governor,,D,Alcorn,Pinecrest,97
 Tate Reeves,Governor,,R,Alcorn,Pinecrest,249
 Bob Hickingbottom,Governor,,C,Alcorn,Pinecrest,0
@@ -227,9 +227,9 @@ Andy Gipson,Commissioner of Agriculture & Commerce,,R,Alcorn,Pinecrest,270
 Rita Potts Parks,State Senate,4,R,Alcorn,Pinecrest,299
 Lester E 'Bubba' Carpenter,State House,1,R,Alcorn,Pinecrest,256
 Nick Bain,State House,2,R,Alcorn,Pinecrest,46
-William Tracy Arnold,State House,3,R,Alcorn,Pinecrest,X
-Janis Triplett Patterson,State House,3,D,Alcorn,Pinecrest,X
-Joseph F. 'Jody' Steverson,State House,4,R,Alcorn,Pinecrest,X
+William Tracy Arnold,State House,3,R,Alcorn,Pinecrest,
+Janis Triplett Patterson,State House,3,D,Alcorn,Pinecrest,
+Joseph F. 'Jody' Steverson,State House,4,R,Alcorn,Pinecrest,
 Jim Hood,Governor,,D,Alcorn,Rienzi,182
 Tate Reeves,Governor,,R,Alcorn,Rienzi,475
 Bob Hickingbottom,Governor,,C,Alcorn,Rienzi,3
@@ -246,11 +246,11 @@ David McRae,State Treasurer,,R,Alcorn,Rienzi,531
 Rickey L Cole,Commissioner of Agriculture & Commerce,,D,Alcorn,Rienzi,165
 Andy Gipson,Commissioner of Agriculture & Commerce,,R,Alcorn,Rienzi,495
 Rita Potts Parks,State Senate,4,R,Alcorn,Rienzi,579
-Lester E 'Bubba' Carpenter,State House,1,R,Alcorn,Rienzi,X
-Nick Bain,State House,2,R,Alcorn,Rienzi,X
+Lester E 'Bubba' Carpenter,State House,1,R,Alcorn,Rienzi,
+Nick Bain,State House,2,R,Alcorn,Rienzi,
 William Tracy Arnold,State House,3,R,Alcorn,Rienzi,509
 Janis Triplett Patterson,State House,3,D,Alcorn,Rienzi,155
-Joseph F. 'Jody' Steverson,State House,4,R,Alcorn,Rienzi,X
+Joseph F. 'Jody' Steverson,State House,4,R,Alcorn,Rienzi,
 Jim Hood,Governor,,D,Alcorn,Shady Grove,137
 Tate Reeves,Governor,,R,Alcorn,Shady Grove,507
 Bob Hickingbottom,Governor,,C,Alcorn,Shady Grove,3
@@ -267,11 +267,11 @@ David McRae,State Treasurer,,R,Alcorn,Shady Grove,538
 Rickey L Cole,Commissioner of Agriculture & Commerce,,D,Alcorn,Shady Grove,110
 Andy Gipson,Commissioner of Agriculture & Commerce,,R,Alcorn,Shady Grove,526
 Rita Potts Parks,State Senate,4,R,Alcorn,Shady Grove,584
-Lester E 'Bubba' Carpenter,State House,1,R,Alcorn,Shady Grove,X
+Lester E 'Bubba' Carpenter,State House,1,R,Alcorn,Shady Grove,
 Nick Bain,State House,2,R,Alcorn,Shady Grove,581
-William Tracy Arnold,State House,3,R,Alcorn,Shady Grove,X
-Janis Triplett Patterson,State House,3,D,Alcorn,Shady Grove,X
-Joseph F. 'Jody' Steverson,State House,4,R,Alcorn,Shady Grove,X
+William Tracy Arnold,State House,3,R,Alcorn,Shady Grove,
+Janis Triplett Patterson,State House,3,D,Alcorn,Shady Grove,
+Joseph F. 'Jody' Steverson,State House,4,R,Alcorn,Shady Grove,
 Jim Hood,Governor,,D,Alcorn,South Corinth,332
 Tate Reeves,Governor,,R,Alcorn,South Corinth,311
 Bob Hickingbottom,Governor,,C,Alcorn,South Corinth,3
@@ -288,11 +288,11 @@ David McRae,State Treasurer,,R,Alcorn,South Corinth,338
 Rickey L Cole,Commissioner of Agriculture & Commerce,,D,Alcorn,South Corinth,298
 Andy Gipson,Commissioner of Agriculture & Commerce,,R,Alcorn,South Corinth,319
 Rita Potts Parks,State Senate,4,R,Alcorn,South Corinth,402
-Lester E 'Bubba' Carpenter,State House,1,R,Alcorn,South Corinth,X
+Lester E 'Bubba' Carpenter,State House,1,R,Alcorn,South Corinth,
 Nick Bain,State House,2,R,Alcorn,South Corinth,437
-William Tracy Arnold,State House,3,R,Alcorn,South Corinth,X
-Janis Triplett Patterson,State House,3,D,Alcorn,South Corinth,X
-Joseph F. 'Jody' Steverson,State House,4,R,Alcorn,South Corinth,X
+William Tracy Arnold,State House,3,R,Alcorn,South Corinth,
+Janis Triplett Patterson,State House,3,D,Alcorn,South Corinth,
+Joseph F. 'Jody' Steverson,State House,4,R,Alcorn,South Corinth,
 Jim Hood,Governor,,D,Alcorn,Union Center,140
 Tate Reeves,Governor,,R,Alcorn,Union Center,728
 Bob Hickingbottom,Governor,,C,Alcorn,Union Center,2
@@ -309,10 +309,10 @@ David McRae,State Treasurer,,R,Alcorn,Union Center,734
 Rickey L Cole,Commissioner of Agriculture & Commerce,,D,Alcorn,Union Center,156
 Andy Gipson,Commissioner of Agriculture & Commerce,,R,Alcorn,Union Center,687
 Rita Potts Parks,State Senate,4,R,Alcorn,Union Center,803
-Lester E 'Bubba' Carpenter,State House,1,R,Alcorn,Union Center,X
+Lester E 'Bubba' Carpenter,State House,1,R,Alcorn,Union Center,
 Nick Bain,State House,2,R,Alcorn,Union Center,530
-William Tracy Arnold,State House,3,R,Alcorn,Union Center,X
-Janis Triplett Patterson,State House,3,D,Alcorn,Union Center,X
+William Tracy Arnold,State House,3,R,Alcorn,Union Center,
+Janis Triplett Patterson,State House,3,D,Alcorn,Union Center,
 Joseph F. 'Jody' Steverson,State House,4,R,Alcorn,Union Center,273
 Jim Hood,Governor,,D,Alcorn,Wenasoga,154
 Tate Reeves,Governor,,R,Alcorn,Wenasoga,481
@@ -330,11 +330,11 @@ David McRae,State Treasurer,,R,Alcorn,Wenasoga,484
 Rickey L Cole,Commissioner of Agriculture & Commerce,,D,Alcorn,Wenasoga,136
 Andy Gipson,Commissioner of Agriculture & Commerce,,R,Alcorn,Wenasoga,479
 Rita Potts Parks,State Senate,4,R,Alcorn,Wenasoga,531
-Lester E 'Bubba' Carpenter,State House,1,R,Alcorn,Wenasoga,X
+Lester E 'Bubba' Carpenter,State House,1,R,Alcorn,Wenasoga,
 Nick Bain,State House,2,R,Alcorn,Wenasoga,555
-William Tracy Arnold,State House,3,R,Alcorn,Wenasoga,X
-Janis Triplett Patterson,State House,3,D,Alcorn,Wenasoga,X
-Joseph F. 'Jody' Steverson,State House,4,R,Alcorn,Wenasoga,X
+William Tracy Arnold,State House,3,R,Alcorn,Wenasoga,
+Janis Triplett Patterson,State House,3,D,Alcorn,Wenasoga,
+Joseph F. 'Jody' Steverson,State House,4,R,Alcorn,Wenasoga,
 Jim Hood,Governor,,D,Alcorn,West Corinth,124
 Tate Reeves,Governor,,R,Alcorn,West Corinth,334
 Bob Hickingbottom,Governor,,C,Alcorn,West Corinth,3
@@ -351,11 +351,11 @@ David McRae,State Treasurer,,R,Alcorn,West Corinth,362
 Rickey L Cole,Commissioner of Agriculture & Commerce,,D,Alcorn,West Corinth,99
 Andy Gipson,Commissioner of Agriculture & Commerce,,R,Alcorn,West Corinth,349
 Rita Potts Parks,State Senate,4,R,Alcorn,West Corinth,415
-Lester E 'Bubba' Carpenter,State House,1,R,Alcorn,West Corinth,X
+Lester E 'Bubba' Carpenter,State House,1,R,Alcorn,West Corinth,
 Nick Bain,State House,2,R,Alcorn,West Corinth,419
-William Tracy Arnold,State House,3,R,Alcorn,West Corinth,X
-Janis Triplett Patterson,State House,3,D,Alcorn,West Corinth,X
-Joseph F. 'Jody' Steverson,State House,4,R,Alcorn,West Corinth,X
+William Tracy Arnold,State House,3,R,Alcorn,West Corinth,
+Janis Triplett Patterson,State House,3,D,Alcorn,West Corinth,
+Joseph F. 'Jody' Steverson,State House,4,R,Alcorn,West Corinth,
 Jim Hood,Governor,,D,Alcorn,TOTAL,2649
 Tate Reeves,Governor,,R,Alcorn,TOTAL,8629
 Bob Hickingbottom,Governor,,C,Alcorn,TOTAL,38

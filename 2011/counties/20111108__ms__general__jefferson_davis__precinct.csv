@@ -45,8 +45,8 @@ Phil Bryant,Governor,,R,Jefferson Davis,Whiting 56,50
 Johnny L. DuPree,Governor,,D,Jefferson Davis,Whiting 56,214
 Phil Bryant,Governor,,R,Jefferson Davis,City of Prentiss,0
 Johnny L. DuPree,Governor,,D,Jefferson Davis,City of Prentiss,0
-Phil Bryant,Governor,,R,Jefferson Davis,Mubass,x
-Johnny L. DuPree,Governor,,D,Jefferson Davis,Mubass,x
+Phil Bryant,Governor,,R,Jefferson Davis,Mubass,
+Johnny L. DuPree,Governor,,D,Jefferson Davis,Mubass,
 Phil Bryant,Governor,,R,Jefferson Davis,TOTAL,2313
 Johnny L. DuPree,Governor,,D,Jefferson Davis,TOTAL,3113
 Tate Reeves,Lieutenant Governor,,R,Jefferson Davis,Granby 11,62
@@ -95,8 +95,8 @@ Tate Reeves,Lieutenant Governor,,R,Jefferson Davis,Whiting 56,124
 Tracella Lou O'Hara Hill,Lieutenant Governor,,Reform,Jefferson Davis,Whiting 56,80
 Tate Reeves,Lieutenant Governor,,R,Jefferson Davis,City of Prentiss,0
 Tracella Lou O'Hara Hill,Lieutenant Governor,,Reform,Jefferson Davis,City of Prentiss,0
-Tate Reeves,Lieutenant Governor,,R,Jefferson Davis,Mubass,x
-Tracella Lou O'Hara Hill,Lieutenant Governor,,Reform,Jefferson Davis,Mubass,x
+Tate Reeves,Lieutenant Governor,,R,Jefferson Davis,Mubass,
+Tracella Lou O'Hara Hill,Lieutenant Governor,,Reform,Jefferson Davis,Mubass,
 Tate Reeves,Lieutenant Governor,,R,Jefferson Davis,TOTAL,3335
 Tracella Lou O'Hara Hill,Lieutenant Governor,,Reform,Jefferson Davis,TOTAL,1337
 Delbert Hosemann,Secretary of State,,R,Jefferson Davis,Granby 11,71
@@ -122,7 +122,7 @@ Delbert Hosemann,Secretary of State,,R,Jefferson Davis,North West Prentiss 53,14
 Delbert Hosemann,Secretary of State,,R,Jefferson Davis,Red House 55,178
 Delbert Hosemann,Secretary of State,,R,Jefferson Davis,Whiting 56,156
 Delbert Hosemann,Secretary of State,,R,Jefferson Davis,City of Prentiss,0
-Delbert Hosemann,Secretary of State,,R,Jefferson Davis,Mubass,x
+Delbert Hosemann,Secretary of State,,R,Jefferson Davis,Mubass,
 Delbert Hosemann,Secretary of State,,R,Jefferson Davis,TOTAL,3968
 Jim Hood,Attorney General,,D,Jefferson Davis,Granby 11,78
 Steve Simpson,Attorney General,,R,Jefferson Davis,Granby 11,28
@@ -170,8 +170,8 @@ Jim Hood,Attorney General,,D,Jefferson Davis,Whiting 56,229
 Steve Simpson,Attorney General,,R,Jefferson Davis,Whiting 56,26
 Jim Hood,Attorney General,,D,Jefferson Davis,City of Prentiss,0
 Steve Simpson,Attorney General,,R,Jefferson Davis,City of Prentiss,0
-Jim Hood,Attorney General,,D,Jefferson Davis,Mubass,x
-Steve Simpson,Attorney General,,R,Jefferson Davis,Mubass,x
+Jim Hood,Attorney General,,D,Jefferson Davis,Mubass,
+Steve Simpson,Attorney General,,R,Jefferson Davis,Mubass,
 Jim Hood,Attorney General,,D,Jefferson Davis,TOTAL,3909
 Steve Simpson,Attorney General,,R,Jefferson Davis,TOTAL,1416
 Stacey E. Pickering,State Auditor,,R,Jefferson Davis,Granby 11,57
@@ -220,8 +220,8 @@ Stacey E. Pickering,State Auditor,,R,Jefferson Davis,Whiting 56,94
 Ashley Norwood,State Auditor,,Reform,Jefferson Davis,Whiting 56,112
 Stacey E. Pickering,State Auditor,,R,Jefferson Davis,City of Prentiss,0
 Ashley Norwood,State Auditor,,Reform,Jefferson Davis,City of Prentiss,0
-Stacey E. Pickering,State Auditor,,R,Jefferson Davis,Mubass,x
-Ashley Norwood,State Auditor,,Reform,Jefferson Davis,Mubass,x
+Stacey E. Pickering,State Auditor,,R,Jefferson Davis,Mubass,
+Ashley Norwood,State Auditor,,Reform,Jefferson Davis,Mubass,
 Stacey E. Pickering,State Auditor,,R,Jefferson Davis,TOTAL,2964
 Ashley Norwood,State Auditor,,Reform,Jefferson Davis,TOTAL,1665
 Lynn Fitch,State Treasurer,,R,Jefferson Davis,Granby 11,43
@@ -293,9 +293,9 @@ Shawn O'Hara,State Treasurer,,Reform,Jefferson Davis,Whiting 56,7
 Lynn Fitch,State Treasurer,,R,Jefferson Davis,City of Prentiss,0
 Connie Moran,State Treasurer,,D,Jefferson Davis,City of Prentiss,0
 Shawn O'Hara,State Treasurer,,Reform,Jefferson Davis,City of Prentiss,0
-Lynn Fitch,State Treasurer,,R,Jefferson Davis,Mubass,x
-Connie Moran,State Treasurer,,D,Jefferson Davis,Mubass,x
-Shawn O'Hara,State Treasurer,,Reform,Jefferson Davis,Mubass,x
+Lynn Fitch,State Treasurer,,R,Jefferson Davis,Mubass,
+Connie Moran,State Treasurer,,D,Jefferson Davis,Mubass,
+Shawn O'Hara,State Treasurer,,Reform,Jefferson Davis,Mubass,
 Lynn Fitch,State Treasurer,,R,Jefferson Davis,TOTAL,2413
 Connie Moran,State Treasurer,,D,Jefferson Davis,TOTAL,2720
 Shawn O'Hara,State Treasurer,,Reform,Jefferson Davis,TOTAL,158
@@ -368,9 +368,9 @@ Cathy L. Toole,Commissioner of Agriculture & Commerce,,Reform,Jefferson Davis,Wh
 Joel Gill,Commissioner of Agriculture & Commerce,,D,Jefferson Davis,City of Prentiss,0
 Cindy Hyde-Smith,Commissioner of Agriculture & Commerce,,R,Jefferson Davis,City of Prentiss,0
 Cathy L. Toole,Commissioner of Agriculture & Commerce,,Reform,Jefferson Davis,City of Prentiss,0
-Joel Gill,Commissioner of Agriculture & Commerce,,D,Jefferson Davis,Mubass,x
-Cindy Hyde-Smith,Commissioner of Agriculture & Commerce,,R,Jefferson Davis,Mubass,x
-Cathy L. Toole,Commissioner of Agriculture & Commerce,,Reform,Jefferson Davis,Mubass,x
+Joel Gill,Commissioner of Agriculture & Commerce,,D,Jefferson Davis,Mubass,
+Cindy Hyde-Smith,Commissioner of Agriculture & Commerce,,R,Jefferson Davis,Mubass,
+Cathy L. Toole,Commissioner of Agriculture & Commerce,,Reform,Jefferson Davis,Mubass,
 Joel Gill,Commissioner of Agriculture & Commerce,,D,Jefferson Davis,TOTAL,2963
 Cindy Hyde-Smith,Commissioner of Agriculture & Commerce,,R,Jefferson Davis,TOTAL,2208
 Cathy L. Toole,Commissioner of Agriculture & Commerce,,Reform,Jefferson Davis,TOTAL,97
@@ -443,9 +443,9 @@ Barbara Dale Washer,Commissioner of Insurance,,Reform,Jefferson Davis,Whiting 56
 Mike Chaney,Commissioner of Insurance,,R,Jefferson Davis,City of Prentiss,0
 Louis Fondren,Commissioner of Insurance,,D,Jefferson Davis,City of Prentiss,0
 Barbara Dale Washer,Commissioner of Insurance,,Reform,Jefferson Davis,City of Prentiss,0
-Mike Chaney,Commissioner of Insurance,,R,Jefferson Davis,Mubass,x
-Louis Fondren,Commissioner of Insurance,,D,Jefferson Davis,Mubass,x
-Barbara Dale Washer,Commissioner of Insurance,,Reform,Jefferson Davis,Mubass,x
+Mike Chaney,Commissioner of Insurance,,R,Jefferson Davis,Mubass,
+Louis Fondren,Commissioner of Insurance,,D,Jefferson Davis,Mubass,
+Barbara Dale Washer,Commissioner of Insurance,,Reform,Jefferson Davis,Mubass,
 Mike Chaney,Commissioner of Insurance,,R,Jefferson Davis,TOTAL,2475
 Louis Fondren,Commissioner of Insurance,,D,Jefferson Davis,TOTAL,2591
 Barbara Dale Washer,Commissioner of Insurance,,Reform,Jefferson Davis,TOTAL,180
@@ -472,7 +472,7 @@ Joey Fillingane,State Senate,41,R,Jefferson Davis,North West Prentiss 53,141
 Joey Fillingane,State Senate,41,R,Jefferson Davis,Red House 55,169
 Joey Fillingane,State Senate,41,R,Jefferson Davis,Whiting 56,140
 Joey Fillingane,State Senate,41,R,Jefferson Davis,City of Prentiss,0
-Joey Fillingane,State Senate,41,R,Jefferson Davis,Mubass,x
+Joey Fillingane,State Senate,41,R,Jefferson Davis,Mubass,
 Joey Fillingane,State Senate,41,R,Jefferson Davis,TOTAL,3816
 Joe J. L. Warren,State House,90,D,Jefferson Davis,Granby 11,86
 Joe J. L. Warren,State House,90,D,Jefferson Davis,South Prentiss 12,370
@@ -481,23 +481,23 @@ Joe J. L. Warren,State House,90,D,Jefferson Davis,Bournham 21,0
 Joe J. L. Warren,State House,90,D,Jefferson Davis,Carson 22,201
 Joe J. L. Warren,State House,90,D,Jefferson Davis,Green's Creek 23,173
 Joe J. L. Warren,State House,90,D,Jefferson Davis,Hathorn 24,3
-Joe J. L. Warren,State House,90,D,Jefferson Davis,Son's Academy 25,x
+Joe J. L. Warren,State House,90,D,Jefferson Davis,Son's Academy 25,
 Joe J. L. Warren,State House,90,D,Jefferson Davis,Bassfield 26,206
-Joe J. L. Warren,State House,90,D,Jefferson Davis,Bassfield 31,x
-Joe J. L. Warren,State House,90,D,Jefferson Davis,Bassfield 32,x
+Joe J. L. Warren,State House,90,D,Jefferson Davis,Bassfield 31,
+Joe J. L. Warren,State House,90,D,Jefferson Davis,Bassfield 32,
 Joe J. L. Warren,State House,90,D,Jefferson Davis,Good Hope 33,170
 Joe J. L. Warren,State House,90,D,Jefferson Davis,Melba 34,46
 Joe J. L. Warren,State House,90,D,Jefferson Davis,Clem 41,142
-Joe J. L. Warren,State House,90,D,Jefferson Davis,Mt Carmel 42,x
-Joe J. L. Warren,State House,90,D,Jefferson Davis,North East Prentiss 43,x
+Joe J. L. Warren,State House,90,D,Jefferson Davis,Mt Carmel 42,
+Joe J. L. Warren,State House,90,D,Jefferson Davis,North East Prentiss 43,
 Joe J. L. Warren,State House,90,D,Jefferson Davis,Williamson Mill 44,3
-Joe J. L. Warren,State House,90,D,Jefferson Davis,Gwinville 51,x
-Joe J. L. Warren,State House,90,D,Jefferson Davis,Hebron 52,x
-Joe J. L. Warren,State House,90,D,Jefferson Davis,North West Prentiss 53,x
-Joe J. L. Warren,State House,90,D,Jefferson Davis,Red House 55,x
-Joe J. L. Warren,State House,90,D,Jefferson Davis,Whiting 56,x
+Joe J. L. Warren,State House,90,D,Jefferson Davis,Gwinville 51,
+Joe J. L. Warren,State House,90,D,Jefferson Davis,Hebron 52,
+Joe J. L. Warren,State House,90,D,Jefferson Davis,North West Prentiss 53,
+Joe J. L. Warren,State House,90,D,Jefferson Davis,Red House 55,
+Joe J. L. Warren,State House,90,D,Jefferson Davis,Whiting 56,
 Joe J. L. Warren,State House,90,D,Jefferson Davis,City of Prentiss,0
-Joe J. L. Warren,State House,90,D,Jefferson Davis,Mubass,x
+Joe J. L. Warren,State House,90,D,Jefferson Davis,Mubass,
 Joe J. L. Warren,State House,90,D,Jefferson Davis,TOTAL,1703
 Cindy Shivers Bryan,State House,91,R,Jefferson Davis,Granby 11,4
 Bob Evans,State House,91,D,Jefferson Davis,Granby 11,7
@@ -505,14 +505,14 @@ Cindy Shivers Bryan,State House,91,R,Jefferson Davis,South Prentiss 12,83
 Bob Evans,State House,91,D,Jefferson Davis,South Prentiss 12,35
 Cindy Shivers Bryan,State House,91,R,Jefferson Davis,south Prentiss 13,5
 Bob Evans,State House,91,D,Jefferson Davis,south Prentiss 13,21
-Cindy Shivers Bryan,State House,91,R,Jefferson Davis,Bournham 21,x
-Bob Evans,State House,91,D,Jefferson Davis,Bournham 21,x
-Cindy Shivers Bryan,State House,91,R,Jefferson Davis,Carson 22,x
-Bob Evans,State House,91,D,Jefferson Davis,Carson 22,x
+Cindy Shivers Bryan,State House,91,R,Jefferson Davis,Bournham 21,
+Bob Evans,State House,91,D,Jefferson Davis,Bournham 21,
+Cindy Shivers Bryan,State House,91,R,Jefferson Davis,Carson 22,
+Bob Evans,State House,91,D,Jefferson Davis,Carson 22,
 Cindy Shivers Bryan,State House,91,R,Jefferson Davis,Green's Creek 23,40
 Bob Evans,State House,91,D,Jefferson Davis,Green's Creek 23,17
-Cindy Shivers Bryan,State House,91,R,Jefferson Davis,Hathorn 24,x
-Bob Evans,State House,91,D,Jefferson Davis,Hathorn 24,x
+Cindy Shivers Bryan,State House,91,R,Jefferson Davis,Hathorn 24,
+Bob Evans,State House,91,D,Jefferson Davis,Hathorn 24,
 Cindy Shivers Bryan,State House,91,R,Jefferson Davis,Son's Academy 25,51
 Bob Evans,State House,91,D,Jefferson Davis,Son's Academy 25,134
 Cindy Shivers Bryan,State House,91,R,Jefferson Davis,Bassfield 26,29
@@ -521,10 +521,10 @@ Cindy Shivers Bryan,State House,91,R,Jefferson Davis,Bassfield 31,113
 Bob Evans,State House,91,D,Jefferson Davis,Bassfield 31,338
 Cindy Shivers Bryan,State House,91,R,Jefferson Davis,Bassfield 32,95
 Bob Evans,State House,91,D,Jefferson Davis,Bassfield 32,327
-Cindy Shivers Bryan,State House,91,R,Jefferson Davis,Good Hope 33,x
-Bob Evans,State House,91,D,Jefferson Davis,Good Hope 33,x
-Cindy Shivers Bryan,State House,91,R,Jefferson Davis,Melba 34,x
-Bob Evans,State House,91,D,Jefferson Davis,Melba 34,x
+Cindy Shivers Bryan,State House,91,R,Jefferson Davis,Good Hope 33,
+Bob Evans,State House,91,D,Jefferson Davis,Good Hope 33,
+Cindy Shivers Bryan,State House,91,R,Jefferson Davis,Melba 34,
+Bob Evans,State House,91,D,Jefferson Davis,Melba 34,
 Cindy Shivers Bryan,State House,91,R,Jefferson Davis,Clem 41,4
 Bob Evans,State House,91,D,Jefferson Davis,Clem 41,3
 Cindy Shivers Bryan,State House,91,R,Jefferson Davis,Mt Carmel 42,11
@@ -543,59 +543,59 @@ Cindy Shivers Bryan,State House,91,R,Jefferson Davis,Red House 55,89
 Bob Evans,State House,91,D,Jefferson Davis,Red House 55,165
 Cindy Shivers Bryan,State House,91,R,Jefferson Davis,Whiting 56,44
 Bob Evans,State House,91,D,Jefferson Davis,Whiting 56,212
-Cindy Shivers Bryan,State House,91,R,Jefferson Davis,City of Prentiss,x
-Bob Evans,State House,91,D,Jefferson Davis,City of Prentiss,x
-Cindy Shivers Bryan,State House,91,R,Jefferson Davis,Mubass,x
-Bob Evans,State House,91,D,Jefferson Davis,Mubass,x
+Cindy Shivers Bryan,State House,91,R,Jefferson Davis,City of Prentiss,
+Bob Evans,State House,91,D,Jefferson Davis,City of Prentiss,
+Cindy Shivers Bryan,State House,91,R,Jefferson Davis,Mubass,
+Bob Evans,State House,91,D,Jefferson Davis,Mubass,
 Cindy Shivers Bryan,State House,91,R,Jefferson Davis,TOTAL,1019
 Bob Evans,State House,91,D,Jefferson Davis,TOTAL,2230
-Harry C. Griffith,State House,100,D,Jefferson Davis,Granby 11,x
-Ken Morgan,State House,100,R,Jefferson Davis,Granby 11,x
-Harry C. Griffith,State House,100,D,Jefferson Davis,South Prentiss 12,x
-Ken Morgan,State House,100,R,Jefferson Davis,South Prentiss 12,x
-Harry C. Griffith,State House,100,D,Jefferson Davis,south Prentiss 13,x
-Ken Morgan,State House,100,R,Jefferson Davis,south Prentiss 13,x
-Harry C. Griffith,State House,100,D,Jefferson Davis,Bournham 21,x
-Ken Morgan,State House,100,R,Jefferson Davis,Bournham 21,x
-Harry C. Griffith,State House,100,D,Jefferson Davis,Carson 22,x
-Ken Morgan,State House,100,R,Jefferson Davis,Carson 22,x
+Harry C. Griffith,State House,100,D,Jefferson Davis,Granby 11,
+Ken Morgan,State House,100,R,Jefferson Davis,Granby 11,
+Harry C. Griffith,State House,100,D,Jefferson Davis,South Prentiss 12,
+Ken Morgan,State House,100,R,Jefferson Davis,South Prentiss 12,
+Harry C. Griffith,State House,100,D,Jefferson Davis,south Prentiss 13,
+Ken Morgan,State House,100,R,Jefferson Davis,south Prentiss 13,
+Harry C. Griffith,State House,100,D,Jefferson Davis,Bournham 21,
+Ken Morgan,State House,100,R,Jefferson Davis,Bournham 21,
+Harry C. Griffith,State House,100,D,Jefferson Davis,Carson 22,
+Ken Morgan,State House,100,R,Jefferson Davis,Carson 22,
 Harry C. Griffith,State House,100,D,Jefferson Davis,Green's Creek 23,0
 Ken Morgan,State House,100,R,Jefferson Davis,Green's Creek 23,5
 Harry C. Griffith,State House,100,D,Jefferson Davis,Hathorn 24,37
 Ken Morgan,State House,100,R,Jefferson Davis,Hathorn 24,105
-Harry C. Griffith,State House,100,D,Jefferson Davis,Son's Academy 25,x
-Ken Morgan,State House,100,R,Jefferson Davis,Son's Academy 25,x
-Harry C. Griffith,State House,100,D,Jefferson Davis,Bassfield 26,x
-Ken Morgan,State House,100,R,Jefferson Davis,Bassfield 26,x
-Harry C. Griffith,State House,100,D,Jefferson Davis,Bassfield 31,x
-Ken Morgan,State House,100,R,Jefferson Davis,Bassfield 31,x
-Harry C. Griffith,State House,100,D,Jefferson Davis,Bassfield 32,x
-Ken Morgan,State House,100,R,Jefferson Davis,Bassfield 32,x
-Harry C. Griffith,State House,100,D,Jefferson Davis,Good Hope 33,x
-Ken Morgan,State House,100,R,Jefferson Davis,Good Hope 33,x
-Harry C. Griffith,State House,100,D,Jefferson Davis,Melba 34,x
-Ken Morgan,State House,100,R,Jefferson Davis,Melba 34,x
-Harry C. Griffith,State House,100,D,Jefferson Davis,Clem 41,x
-Ken Morgan,State House,100,R,Jefferson Davis,Clem 41,x
-Harry C. Griffith,State House,100,D,Jefferson Davis,Mt Carmel 42,x
-Ken Morgan,State House,100,R,Jefferson Davis,Mt Carmel 42,x
-Harry C. Griffith,State House,100,D,Jefferson Davis,North East Prentiss 43,x
-Ken Morgan,State House,100,R,Jefferson Davis,North East Prentiss 43,x
-Harry C. Griffith,State House,100,D,Jefferson Davis,Williamson Mill 44,x
-Ken Morgan,State House,100,R,Jefferson Davis,Williamson Mill 44,x
-Harry C. Griffith,State House,100,D,Jefferson Davis,Gwinville 51,x
-Ken Morgan,State House,100,R,Jefferson Davis,Gwinville 51,x
-Harry C. Griffith,State House,100,D,Jefferson Davis,Hebron 52,x
-Ken Morgan,State House,100,R,Jefferson Davis,Hebron 52,x
-Harry C. Griffith,State House,100,D,Jefferson Davis,North West Prentiss 53,x
-Ken Morgan,State House,100,R,Jefferson Davis,North West Prentiss 53,x
-Harry C. Griffith,State House,100,D,Jefferson Davis,Red House 55,x
-Ken Morgan,State House,100,R,Jefferson Davis,Red House 55,x
-Harry C. Griffith,State House,100,D,Jefferson Davis,Whiting 56,x
-Ken Morgan,State House,100,R,Jefferson Davis,Whiting 56,x
-Harry C. Griffith,State House,100,D,Jefferson Davis,City of Prentiss,x
-Ken Morgan,State House,100,R,Jefferson Davis,City of Prentiss,x
-Harry C. Griffith,State House,100,D,Jefferson Davis,Mubass,x
-Ken Morgan,State House,100,R,Jefferson Davis,Mubass,x
+Harry C. Griffith,State House,100,D,Jefferson Davis,Son's Academy 25,
+Ken Morgan,State House,100,R,Jefferson Davis,Son's Academy 25,
+Harry C. Griffith,State House,100,D,Jefferson Davis,Bassfield 26,
+Ken Morgan,State House,100,R,Jefferson Davis,Bassfield 26,
+Harry C. Griffith,State House,100,D,Jefferson Davis,Bassfield 31,
+Ken Morgan,State House,100,R,Jefferson Davis,Bassfield 31,
+Harry C. Griffith,State House,100,D,Jefferson Davis,Bassfield 32,
+Ken Morgan,State House,100,R,Jefferson Davis,Bassfield 32,
+Harry C. Griffith,State House,100,D,Jefferson Davis,Good Hope 33,
+Ken Morgan,State House,100,R,Jefferson Davis,Good Hope 33,
+Harry C. Griffith,State House,100,D,Jefferson Davis,Melba 34,
+Ken Morgan,State House,100,R,Jefferson Davis,Melba 34,
+Harry C. Griffith,State House,100,D,Jefferson Davis,Clem 41,
+Ken Morgan,State House,100,R,Jefferson Davis,Clem 41,
+Harry C. Griffith,State House,100,D,Jefferson Davis,Mt Carmel 42,
+Ken Morgan,State House,100,R,Jefferson Davis,Mt Carmel 42,
+Harry C. Griffith,State House,100,D,Jefferson Davis,North East Prentiss 43,
+Ken Morgan,State House,100,R,Jefferson Davis,North East Prentiss 43,
+Harry C. Griffith,State House,100,D,Jefferson Davis,Williamson Mill 44,
+Ken Morgan,State House,100,R,Jefferson Davis,Williamson Mill 44,
+Harry C. Griffith,State House,100,D,Jefferson Davis,Gwinville 51,
+Ken Morgan,State House,100,R,Jefferson Davis,Gwinville 51,
+Harry C. Griffith,State House,100,D,Jefferson Davis,Hebron 52,
+Ken Morgan,State House,100,R,Jefferson Davis,Hebron 52,
+Harry C. Griffith,State House,100,D,Jefferson Davis,North West Prentiss 53,
+Ken Morgan,State House,100,R,Jefferson Davis,North West Prentiss 53,
+Harry C. Griffith,State House,100,D,Jefferson Davis,Red House 55,
+Ken Morgan,State House,100,R,Jefferson Davis,Red House 55,
+Harry C. Griffith,State House,100,D,Jefferson Davis,Whiting 56,
+Ken Morgan,State House,100,R,Jefferson Davis,Whiting 56,
+Harry C. Griffith,State House,100,D,Jefferson Davis,City of Prentiss,
+Ken Morgan,State House,100,R,Jefferson Davis,City of Prentiss,
+Harry C. Griffith,State House,100,D,Jefferson Davis,Mubass,
+Ken Morgan,State House,100,R,Jefferson Davis,Mubass,
 Harry C. Griffith,State House,100,D,Jefferson Davis,TOTAL,37
 Ken Morgan,State House,100,R,Jefferson Davis,TOTAL,110

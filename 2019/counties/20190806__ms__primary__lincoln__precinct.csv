@@ -18,7 +18,7 @@ Beth Brown,State Senate,39,R,Lincoln,Alexander,5
 Josh Davis,State Senate,39,R,Lincoln,Alexander,0
 Sally Doty,State Senate,39,R,Lincoln,Alexander,5
 Vince Mangold,State House,53,R,Lincoln,Alexander,8
-Becky Currie,State House,92,R,Lincoln,Alexander,x
+Becky Currie,State House,92,R,Lincoln,Alexander,
 Michael Brown,Governor,,D,Lincoln,Alexander,25
 William Bond Compton Jr.,Governor,,D,Lincoln,Alexander,1
 Jim Hood,Governor,,D,Lincoln,Alexander,175
@@ -54,7 +54,7 @@ Beth Brown,State Senate,39,R,Lincoln,Arlington,119
 Josh Davis,State Senate,39,R,Lincoln,Arlington,35
 Sally Doty,State Senate,39,R,Lincoln,Arlington,212
 Vince Mangold,State House,53,R,Lincoln,Arlington,347
-Becky Currie,State House,92,R,Lincoln,Arlington,x
+Becky Currie,State House,92,R,Lincoln,Arlington,
 Michael Brown,Governor,,D,Lincoln,Arlington,4
 William Bond Compton Jr.,Governor,,D,Lincoln,Arlington,0
 Jim Hood,Governor,,D,Lincoln,Arlington,40
@@ -89,7 +89,7 @@ Mike Chaney,Commissioner of Insurance,,R,Lincoln,Big Springs,110
 Beth Brown,State Senate,39,R,Lincoln,Big Springs,81
 Josh Davis,State Senate,39,R,Lincoln,Big Springs,7
 Sally Doty,State Senate,39,R,Lincoln,Big Springs,31
-Vince Mangold,State House,53,R,Lincoln,Big Springs,x
+Vince Mangold,State House,53,R,Lincoln,Big Springs,
 Becky Currie,State House,92,R,Lincoln,Big Springs,110
 Michael Brown,Governor,,D,Lincoln,Big Springs,1
 William Bond Compton Jr.,Governor,,D,Lincoln,Big Springs,0
@@ -106,7 +106,7 @@ Jennifer Riley Collins,Attorney General,,D,Lincoln,Big Springs,22
 Addie Lee Green,State Treasurer,,D,Lincoln,Big Springs,25
 Rickey L Cole,Commissioner of Agriculture & Commerce,,D,Lincoln,Big Springs,24
 Robert E. Amos,Commissioner of Insurance,,D,Lincoln,Big Springs,24
-Rita Wilkinson Goss,State House,53,D,Lincoln,Big Springs,x
+Rita Wilkinson Goss,State House,53,D,Lincoln,Big Springs,
 Robert Foster,Governor,,R,Lincoln,Bogue Chitto,50
 Tate Reeves,Governor,,R,Lincoln,Bogue Chitto,109
 Bill Waller Jr.,Governor,,R,Lincoln,Bogue Chitto,44
@@ -126,7 +126,7 @@ Beth Brown,State Senate,39,R,Lincoln,Bogue Chitto,80
 Josh Davis,State Senate,39,R,Lincoln,Bogue Chitto,32
 Sally Doty,State Senate,39,R,Lincoln,Bogue Chitto,90
 Vince Mangold,State House,53,R,Lincoln,Bogue Chitto,177
-Becky Currie,State House,92,R,Lincoln,Bogue Chitto,x
+Becky Currie,State House,92,R,Lincoln,Bogue Chitto,
 Michael Brown,Governor,,D,Lincoln,Bogue Chitto,2
 William Bond Compton Jr.,Governor,,D,Lincoln,Bogue Chitto,2
 Jim Hood,Governor,,D,Lincoln,Bogue Chitto,25
@@ -197,7 +197,7 @@ Mike Chaney,Commissioner of Insurance,,R,Lincoln,Caseyville,228
 Beth Brown,State Senate,39,R,Lincoln,Caseyville,111
 Josh Davis,State Senate,39,R,Lincoln,Caseyville,20
 Sally Doty,State Senate,39,R,Lincoln,Caseyville,121
-Vince Mangold,State House,53,R,Lincoln,Caseyville,x
+Vince Mangold,State House,53,R,Lincoln,Caseyville,
 Becky Currie,State House,92,R,Lincoln,Caseyville,233
 Michael Brown,Governor,,D,Lincoln,Caseyville,7
 William Bond Compton Jr.,Governor,,D,Lincoln,Caseyville,1
@@ -214,7 +214,7 @@ Jennifer Riley Collins,Attorney General,,D,Lincoln,Caseyville,43
 Addie Lee Green,State Treasurer,,D,Lincoln,Caseyville,45
 Rickey L Cole,Commissioner of Agriculture & Commerce,,D,Lincoln,Caseyville,45
 Robert E. Amos,Commissioner of Insurance,,D,Lincoln,Caseyville,44
-Rita Wilkinson Goss,State House,53,D,Lincoln,Caseyville,x
+Rita Wilkinson Goss,State House,53,D,Lincoln,Caseyville,
 Robert Foster,Governor,,R,Lincoln,City Hall,14
 Tate Reeves,Governor,,R,Lincoln,City Hall,42
 Bill Waller Jr.,Governor,,R,Lincoln,City Hall,76
@@ -234,7 +234,7 @@ Beth Brown,State Senate,39,R,Lincoln,City Hall,41
 Josh Davis,State Senate,39,R,Lincoln,City Hall,4
 Sally Doty,State Senate,39,R,Lincoln,City Hall,88
 Vince Mangold,State House,53,R,Lincoln,City Hall,122
-Becky Currie,State House,92,R,Lincoln,City Hall,x
+Becky Currie,State House,92,R,Lincoln,City Hall,
 Michael Brown,Governor,,D,Lincoln,City Hall,6
 William Bond Compton Jr.,Governor,,D,Lincoln,City Hall,1
 Jim Hood,Governor,,D,Lincoln,City Hall,24
@@ -270,7 +270,7 @@ Beth Brown,State Senate,39,R,Lincoln,East Lincoln,81
 Josh Davis,State Senate,39,R,Lincoln,East Lincoln,33
 Sally Doty,State Senate,39,R,Lincoln,East Lincoln,73
 Vince Mangold,State House,53,R,Lincoln,East Lincoln,164
-Becky Currie,State House,92,R,Lincoln,East Lincoln,x
+Becky Currie,State House,92,R,Lincoln,East Lincoln,
 Michael Brown,Governor,,D,Lincoln,East Lincoln,0
 William Bond Compton Jr.,Governor,,D,Lincoln,East Lincoln,0
 Jim Hood,Governor,,D,Lincoln,East Lincoln,3
@@ -306,7 +306,7 @@ Beth Brown,State Senate,39,R,Lincoln,Enterprise,272
 Josh Davis,State Senate,39,R,Lincoln,Enterprise,126
 Sally Doty,State Senate,39,R,Lincoln,Enterprise,258
 Vince Mangold,State House,53,R,Lincoln,Enterprise,625
-Becky Currie,State House,92,R,Lincoln,Enterprise,x
+Becky Currie,State House,92,R,Lincoln,Enterprise,
 Michael Brown,Governor,,D,Lincoln,Enterprise,2
 William Bond Compton Jr.,Governor,,D,Lincoln,Enterprise,0
 Jim Hood,Governor,,D,Lincoln,Enterprise,15
@@ -342,7 +342,7 @@ Beth Brown,State Senate,39,R,Lincoln,Fair River,93
 Josh Davis,State Senate,39,R,Lincoln,Fair River,4
 Sally Doty,State Senate,39,R,Lincoln,Fair River,66
 Vince Mangold,State House,53,R,Lincoln,Fair River,153
-Becky Currie,State House,92,R,Lincoln,Fair River,x
+Becky Currie,State House,92,R,Lincoln,Fair River,
 Michael Brown,Governor,,D,Lincoln,Fair River,0
 William Bond Compton Jr.,Governor,,D,Lincoln,Fair River,0
 Jim Hood,Governor,,D,Lincoln,Fair River,1
@@ -378,7 +378,7 @@ Beth Brown,State Senate,39,R,Lincoln,Forrestry,100
 Josh Davis,State Senate,39,R,Lincoln,Forrestry,12
 Sally Doty,State Senate,39,R,Lincoln,Forrestry,126
 Vince Mangold,State House,53,R,Lincoln,Forrestry,226
-Becky Currie,State House,92,R,Lincoln,Forrestry,x
+Becky Currie,State House,92,R,Lincoln,Forrestry,
 Michael Brown,Governor,,D,Lincoln,Forrestry,19
 William Bond Compton Jr.,Governor,,D,Lincoln,Forrestry,1
 Jim Hood,Governor,,D,Lincoln,Forrestry,91
@@ -485,7 +485,7 @@ Mike Chaney,Commissioner of Insurance,,R,Lincoln,Heucks Retreat,359
 Beth Brown,State Senate,39,R,Lincoln,Heucks Retreat,171
 Josh Davis,State Senate,39,R,Lincoln,Heucks Retreat,22
 Sally Doty,State Senate,39,R,Lincoln,Heucks Retreat,186
-Vince Mangold,State House,53,R,Lincoln,Heucks Retreat,x
+Vince Mangold,State House,53,R,Lincoln,Heucks Retreat,
 Becky Currie,State House,92,R,Lincoln,Heucks Retreat,358
 Michael Brown,Governor,,D,Lincoln,Heucks Retreat,7
 William Bond Compton Jr.,Governor,,D,Lincoln,Heucks Retreat,0
@@ -502,7 +502,7 @@ Jennifer Riley Collins,Attorney General,,D,Lincoln,Heucks Retreat,41
 Addie Lee Green,State Treasurer,,D,Lincoln,Heucks Retreat,42
 Rickey L Cole,Commissioner of Agriculture & Commerce,,D,Lincoln,Heucks Retreat,42
 Robert E. Amos,Commissioner of Insurance,,D,Lincoln,Heucks Retreat,40
-Rita Wilkinson Goss,State House,53,D,Lincoln,Heucks Retreat,x
+Rita Wilkinson Goss,State House,53,D,Lincoln,Heucks Retreat,
 Robert Foster,Governor,,R,Lincoln,High School,2
 Tate Reeves,Governor,,R,Lincoln,High School,9
 Bill Waller Jr.,Governor,,R,Lincoln,High School,14
@@ -522,7 +522,7 @@ Beth Brown,State Senate,39,R,Lincoln,High School,13
 Josh Davis,State Senate,39,R,Lincoln,High School,0
 Sally Doty,State Senate,39,R,Lincoln,High School,13
 Vince Mangold,State House,53,R,Lincoln,High School,17
-Becky Currie,State House,92,R,Lincoln,High School,x
+Becky Currie,State House,92,R,Lincoln,High School,
 Michael Brown,Governor,,D,Lincoln,High School,13
 William Bond Compton Jr.,Governor,,D,Lincoln,High School,1
 Jim Hood,Governor,,D,Lincoln,High School,114
@@ -558,7 +558,7 @@ Beth Brown,State Senate,39,R,Lincoln,Johnson,102
 Josh Davis,State Senate,39,R,Lincoln,Johnson,22
 Sally Doty,State Senate,39,R,Lincoln,Johnson,183
 Vince Mangold,State House,53,R,Lincoln,Johnson,292
-Becky Currie,State House,92,R,Lincoln,Johnson,x
+Becky Currie,State House,92,R,Lincoln,Johnson,
 Michael Brown,Governor,,D,Lincoln,Johnson,4
 William Bond Compton Jr.,Governor,,D,Lincoln,Johnson,1
 Jim Hood,Governor,,D,Lincoln,Johnson,26
@@ -593,7 +593,7 @@ Mike Chaney,Commissioner of Insurance,,R,Lincoln,Johnson Grove,359
 Beth Brown,State Senate,39,R,Lincoln,Johnson Grove,157
 Josh Davis,State Senate,39,R,Lincoln,Johnson Grove,33
 Sally Doty,State Senate,39,R,Lincoln,Johnson Grove,194
-Vince Mangold,State House,53,R,Lincoln,Johnson Grove,x
+Vince Mangold,State House,53,R,Lincoln,Johnson Grove,
 Becky Currie,State House,92,R,Lincoln,Johnson Grove,362
 Michael Brown,Governor,,D,Lincoln,Johnson Grove,2
 William Bond Compton Jr.,Governor,,D,Lincoln,Johnson Grove,0
@@ -610,7 +610,7 @@ Jennifer Riley Collins,Attorney General,,D,Lincoln,Johnson Grove,31
 Addie Lee Green,State Treasurer,,D,Lincoln,Johnson Grove,31
 Rickey L Cole,Commissioner of Agriculture & Commerce,,D,Lincoln,Johnson Grove,32
 Robert E. Amos,Commissioner of Insurance,,D,Lincoln,Johnson Grove,33
-Rita Wilkinson Goss,State House,53,D,Lincoln,Johnson Grove,x
+Rita Wilkinson Goss,State House,53,D,Lincoln,Johnson Grove,
 Robert Foster,Governor,,R,Lincoln,Lipsey,59
 Tate Reeves,Governor,,R,Lincoln,Lipsey,105
 Bill Waller Jr.,Governor,,R,Lincoln,Lipsey,85
@@ -629,7 +629,7 @@ Mike Chaney,Commissioner of Insurance,,R,Lincoln,Lipsey,239
 Beth Brown,State Senate,39,R,Lincoln,Lipsey,103
 Josh Davis,State Senate,39,R,Lincoln,Lipsey,11
 Sally Doty,State Senate,39,R,Lincoln,Lipsey,136
-Vince Mangold,State House,53,R,Lincoln,Lipsey,x
+Vince Mangold,State House,53,R,Lincoln,Lipsey,
 Becky Currie,State House,92,R,Lincoln,Lipsey,242
 Michael Brown,Governor,,D,Lincoln,Lipsey,19
 William Bond Compton Jr.,Governor,,D,Lincoln,Lipsey,3
@@ -646,7 +646,7 @@ Jennifer Riley Collins,Attorney General,,D,Lincoln,Lipsey,121
 Addie Lee Green,State Treasurer,,D,Lincoln,Lipsey,119
 Rickey L Cole,Commissioner of Agriculture & Commerce,,D,Lincoln,Lipsey,121
 Robert E. Amos,Commissioner of Insurance,,D,Lincoln,Lipsey,118
-Rita Wilkinson Goss,State House,53,D,Lincoln,Lipsey,x
+Rita Wilkinson Goss,State House,53,D,Lincoln,Lipsey,
 Robert Foster,Governor,,R,Lincoln,Little Bahala,13
 Tate Reeves,Governor,,R,Lincoln,Little Bahala,50
 Bill Waller Jr.,Governor,,R,Lincoln,Little Bahala,35
@@ -665,7 +665,7 @@ Mike Chaney,Commissioner of Insurance,,R,Lincoln,Little Bahala,92
 Beth Brown,State Senate,39,R,Lincoln,Little Bahala,41
 Josh Davis,State Senate,39,R,Lincoln,Little Bahala,3
 Sally Doty,State Senate,39,R,Lincoln,Little Bahala,55
-Vince Mangold,State House,53,R,Lincoln,Little Bahala,x
+Vince Mangold,State House,53,R,Lincoln,Little Bahala,
 Becky Currie,State House,92,R,Lincoln,Little Bahala,93
 Michael Brown,Governor,,D,Lincoln,Little Bahala,5
 William Bond Compton Jr.,Governor,,D,Lincoln,Little Bahala,2
@@ -682,7 +682,7 @@ Jennifer Riley Collins,Attorney General,,D,Lincoln,Little Bahala,35
 Addie Lee Green,State Treasurer,,D,Lincoln,Little Bahala,35
 Rickey L Cole,Commissioner of Agriculture & Commerce,,D,Lincoln,Little Bahala,35
 Robert E. Amos,Commissioner of Insurance,,D,Lincoln,Little Bahala,35
-Rita Wilkinson Goss,State House,53,D,Lincoln,Little Bahala,x
+Rita Wilkinson Goss,State House,53,D,Lincoln,Little Bahala,
 Robert Foster,Governor,,R,Lincoln,Loyd Star,108
 Tate Reeves,Governor,,R,Lincoln,Loyd Star,237
 Bill Waller Jr.,Governor,,R,Lincoln,Loyd Star,174
@@ -701,7 +701,7 @@ Mike Chaney,Commissioner of Insurance,,R,Lincoln,Loyd Star,497
 Beth Brown,State Senate,39,R,Lincoln,Loyd Star,220
 Josh Davis,State Senate,39,R,Lincoln,Loyd Star,38
 Sally Doty,State Senate,39,R,Lincoln,Loyd Star,267
-Vince Mangold,State House,53,R,Lincoln,Loyd Star,x
+Vince Mangold,State House,53,R,Lincoln,Loyd Star,
 Becky Currie,State House,92,R,Lincoln,Loyd Star,495
 Michael Brown,Governor,,D,Lincoln,Loyd Star,7
 William Bond Compton Jr.,Governor,,D,Lincoln,Loyd Star,0
@@ -718,7 +718,7 @@ Jennifer Riley Collins,Attorney General,,D,Lincoln,Loyd Star,68
 Addie Lee Green,State Treasurer,,D,Lincoln,Loyd Star,65
 Rickey L Cole,Commissioner of Agriculture & Commerce,,D,Lincoln,Loyd Star,68
 Robert E. Amos,Commissioner of Insurance,,D,Lincoln,Loyd Star,70
-Rita Wilkinson Goss,State House,53,D,Lincoln,Loyd Star,x
+Rita Wilkinson Goss,State House,53,D,Lincoln,Loyd Star,
 Robert Foster,Governor,,R,Lincoln,Montgomery,47
 Tate Reeves,Governor,,R,Lincoln,Montgomery,64
 Bill Waller Jr.,Governor,,R,Lincoln,Montgomery,51
@@ -737,7 +737,7 @@ Mike Chaney,Commissioner of Insurance,,R,Lincoln,Montgomery,150
 Beth Brown,State Senate,39,R,Lincoln,Montgomery,75
 Josh Davis,State Senate,39,R,Lincoln,Montgomery,12
 Sally Doty,State Senate,39,R,Lincoln,Montgomery,73
-Vince Mangold,State House,53,R,Lincoln,Montgomery,x
+Vince Mangold,State House,53,R,Lincoln,Montgomery,
 Becky Currie,State House,92,R,Lincoln,Montgomery,152
 Michael Brown,Governor,,D,Lincoln,Montgomery,5
 William Bond Compton Jr.,Governor,,D,Lincoln,Montgomery,1
@@ -754,7 +754,7 @@ Jennifer Riley Collins,Attorney General,,D,Lincoln,Montgomery,45
 Addie Lee Green,State Treasurer,,D,Lincoln,Montgomery,43
 Rickey L Cole,Commissioner of Agriculture & Commerce,,D,Lincoln,Montgomery,43
 Robert E. Amos,Commissioner of Insurance,,D,Lincoln,Montgomery,42
-Rita Wilkinson Goss,State House,53,D,Lincoln,Montgomery,x
+Rita Wilkinson Goss,State House,53,D,Lincoln,Montgomery,
 Robert Foster,Governor,,R,Lincoln,New Sight,99
 Tate Reeves,Governor,,R,Lincoln,New Sight,211
 Bill Waller Jr.,Governor,,R,Lincoln,New Sight,185
@@ -773,7 +773,7 @@ Mike Chaney,Commissioner of Insurance,,R,Lincoln,New Sight,470
 Beth Brown,State Senate,39,R,Lincoln,New Sight,212
 Josh Davis,State Senate,39,R,Lincoln,New Sight,21
 Sally Doty,State Senate,39,R,Lincoln,New Sight,264
-Vince Mangold,State House,53,R,Lincoln,New Sight,x
+Vince Mangold,State House,53,R,Lincoln,New Sight,
 Becky Currie,State House,92,R,Lincoln,New Sight,467
 Michael Brown,Governor,,D,Lincoln,New Sight,14
 William Bond Compton Jr.,Governor,,D,Lincoln,New Sight,1
@@ -790,7 +790,7 @@ Jennifer Riley Collins,Attorney General,,D,Lincoln,New Sight,125
 Addie Lee Green,State Treasurer,,D,Lincoln,New Sight,126
 Rickey L Cole,Commissioner of Agriculture & Commerce,,D,Lincoln,New Sight,128
 Robert E. Amos,Commissioner of Insurance,,D,Lincoln,New Sight,127
-Rita Wilkinson Goss,State House,53,D,Lincoln,New Sight,x
+Rita Wilkinson Goss,State House,53,D,Lincoln,New Sight,
 Robert Foster,Governor,,R,Lincoln,Norfield,11
 Tate Reeves,Governor,,R,Lincoln,Norfield,74
 Bill Waller Jr.,Governor,,R,Lincoln,Norfield,24
@@ -810,7 +810,7 @@ Beth Brown,State Senate,39,R,Lincoln,Norfield,18
 Josh Davis,State Senate,39,R,Lincoln,Norfield,14
 Sally Doty,State Senate,39,R,Lincoln,Norfield,74
 Vince Mangold,State House,53,R,Lincoln,Norfield,100
-Becky Currie,State House,92,R,Lincoln,Norfield,x
+Becky Currie,State House,92,R,Lincoln,Norfield,
 Michael Brown,Governor,,D,Lincoln,Norfield,4
 William Bond Compton Jr.,Governor,,D,Lincoln,Norfield,0
 Jim Hood,Governor,,D,Lincoln,Norfield,27
@@ -845,7 +845,7 @@ Mike Chaney,Commissioner of Insurance,,R,Lincoln,Old Brook,514
 Beth Brown,State Senate,39,R,Lincoln,Old Brook,204
 Josh Davis,State Senate,39,R,Lincoln,Old Brook,28
 Sally Doty,State Senate,39,R,Lincoln,Old Brook,314
-Vince Mangold,State House,53,R,Lincoln,Old Brook,x
+Vince Mangold,State House,53,R,Lincoln,Old Brook,
 Becky Currie,State House,92,R,Lincoln,Old Brook,519
 Michael Brown,Governor,,D,Lincoln,Old Brook,2
 William Bond Compton Jr.,Governor,,D,Lincoln,Old Brook,1
@@ -862,7 +862,7 @@ Jennifer Riley Collins,Attorney General,,D,Lincoln,Old Brook,48
 Addie Lee Green,State Treasurer,,D,Lincoln,Old Brook,48
 Rickey L Cole,Commissioner of Agriculture & Commerce,,D,Lincoln,Old Brook,48
 Robert E. Amos,Commissioner of Insurance,,D,Lincoln,Old Brook,46
-Rita Wilkinson Goss,State House,53,D,Lincoln,Old Brook,x
+Rita Wilkinson Goss,State House,53,D,Lincoln,Old Brook,
 Robert Foster,Governor,,R,Lincoln,Old Red Star,67
 Tate Reeves,Governor,,R,Lincoln,Old Red Star,132
 Bill Waller Jr.,Governor,,R,Lincoln,Old Red Star,106
@@ -881,7 +881,7 @@ Mike Chaney,Commissioner of Insurance,,R,Lincoln,Old Red Star,290
 Beth Brown,State Senate,39,R,Lincoln,Old Red Star,140
 Josh Davis,State Senate,39,R,Lincoln,Old Red Star,18
 Sally Doty,State Senate,39,R,Lincoln,Old Red Star,148
-Vince Mangold,State House,53,R,Lincoln,Old Red Star,x
+Vince Mangold,State House,53,R,Lincoln,Old Red Star,
 Becky Currie,State House,92,R,Lincoln,Old Red Star,293
 Michael Brown,Governor,,D,Lincoln,Old Red Star,2
 William Bond Compton Jr.,Governor,,D,Lincoln,Old Red Star,1
@@ -898,7 +898,7 @@ Jennifer Riley Collins,Attorney General,,D,Lincoln,Old Red Star,20
 Addie Lee Green,State Treasurer,,D,Lincoln,Old Red Star,19
 Rickey L Cole,Commissioner of Agriculture & Commerce,,D,Lincoln,Old Red Star,18
 Robert E. Amos,Commissioner of Insurance,,D,Lincoln,Old Red Star,22
-Rita Wilkinson Goss,State House,53,D,Lincoln,Old Red Star,x
+Rita Wilkinson Goss,State House,53,D,Lincoln,Old Red Star,
 Robert Foster,Governor,,R,Lincoln,Pearlhaven,3
 Tate Reeves,Governor,,R,Lincoln,Pearlhaven,29
 Bill Waller Jr.,Governor,,R,Lincoln,Pearlhaven,13
@@ -918,7 +918,7 @@ Beth Brown,State Senate,39,R,Lincoln,Pearlhaven,20
 Josh Davis,State Senate,39,R,Lincoln,Pearlhaven,4
 Sally Doty,State Senate,39,R,Lincoln,Pearlhaven,21
 Vince Mangold,State House,53,R,Lincoln,Pearlhaven,43
-Becky Currie,State House,92,R,Lincoln,Pearlhaven,x
+Becky Currie,State House,92,R,Lincoln,Pearlhaven,
 Michael Brown,Governor,,D,Lincoln,Pearlhaven,18
 William Bond Compton Jr.,Governor,,D,Lincoln,Pearlhaven,3
 Jim Hood,Governor,,D,Lincoln,Pearlhaven,112
@@ -954,7 +954,7 @@ Beth Brown,State Senate,39,R,Lincoln,Ruth,81
 Josh Davis,State Senate,39,R,Lincoln,Ruth,120
 Sally Doty,State Senate,39,R,Lincoln,Ruth,132
 Vince Mangold,State House,53,R,Lincoln,Ruth,298
-Becky Currie,State House,92,R,Lincoln,Ruth,x
+Becky Currie,State House,92,R,Lincoln,Ruth,
 Michael Brown,Governor,,D,Lincoln,Ruth,0
 William Bond Compton Jr.,Governor,,D,Lincoln,Ruth,0
 Jim Hood,Governor,,D,Lincoln,Ruth,5
@@ -989,7 +989,7 @@ Mike Chaney,Commissioner of Insurance,,R,Lincoln,Vaughn,197
 Beth Brown,State Senate,39,R,Lincoln,Vaughn,87
 Josh Davis,State Senate,39,R,Lincoln,Vaughn,15
 Sally Doty,State Senate,39,R,Lincoln,Vaughn,117
-Vince Mangold,State House,53,R,Lincoln,Vaughn,x
+Vince Mangold,State House,53,R,Lincoln,Vaughn,
 Becky Currie,State House,92,R,Lincoln,Vaughn,204
 Michael Brown,Governor,,D,Lincoln,Vaughn,3
 William Bond Compton Jr.,Governor,,D,Lincoln,Vaughn,1
@@ -1006,7 +1006,7 @@ Jennifer Riley Collins,Attorney General,,D,Lincoln,Vaughn,33
 Addie Lee Green,State Treasurer,,D,Lincoln,Vaughn,32
 Rickey L Cole,Commissioner of Agriculture & Commerce,,D,Lincoln,Vaughn,34
 Robert E. Amos,Commissioner of Insurance,,D,Lincoln,Vaughn,31
-Rita Wilkinson Goss,State House,53,D,Lincoln,Vaughn,x
+Rita Wilkinson Goss,State House,53,D,Lincoln,Vaughn,
 Robert Foster,Governor,,R,Lincoln,West Lincoln,134
 Tate Reeves,Governor,,R,Lincoln,West Lincoln,289
 Bill Waller Jr.,Governor,,R,Lincoln,West Lincoln,120
@@ -1025,7 +1025,7 @@ Mike Chaney,Commissioner of Insurance,,R,Lincoln,West Lincoln,518
 Beth Brown,State Senate,39,R,Lincoln,West Lincoln,243
 Josh Davis,State Senate,39,R,Lincoln,West Lincoln,30
 Sally Doty,State Senate,39,R,Lincoln,West Lincoln,271
-Vince Mangold,State House,53,R,Lincoln,West Lincoln,x
+Vince Mangold,State House,53,R,Lincoln,West Lincoln,
 Becky Currie,State House,92,R,Lincoln,West Lincoln,508
 Michael Brown,Governor,,D,Lincoln,West Lincoln,1
 William Bond Compton Jr.,Governor,,D,Lincoln,West Lincoln,0
@@ -1042,7 +1042,7 @@ Jennifer Riley Collins,Attorney General,,D,Lincoln,West Lincoln,9
 Addie Lee Green,State Treasurer,,D,Lincoln,West Lincoln,10
 Rickey L Cole,Commissioner of Agriculture & Commerce,,D,Lincoln,West Lincoln,10
 Robert E. Amos,Commissioner of Insurance,,D,Lincoln,West Lincoln,9
-Rita Wilkinson Goss,State House,53,D,Lincoln,West Lincoln,x
+Rita Wilkinson Goss,State House,53,D,Lincoln,West Lincoln,
 Robert Foster,Governor,,R,Lincoln,Zetus,70
 Tate Reeves,Governor,,R,Lincoln,Zetus,149
 Bill Waller Jr.,Governor,,R,Lincoln,Zetus,116
@@ -1061,7 +1061,7 @@ Mike Chaney,Commissioner of Insurance,,R,Lincoln,Zetus,322
 Beth Brown,State Senate,39,R,Lincoln,Zetus,140
 Josh Davis,State Senate,39,R,Lincoln,Zetus,12
 Sally Doty,State Senate,39,R,Lincoln,Zetus,183
-Vince Mangold,State House,53,R,Lincoln,Zetus,x
+Vince Mangold,State House,53,R,Lincoln,Zetus,
 Becky Currie,State House,92,R,Lincoln,Zetus,324
 Michael Brown,Governor,,D,Lincoln,Zetus,2
 William Bond Compton Jr.,Governor,,D,Lincoln,Zetus,1
@@ -1078,7 +1078,7 @@ Jennifer Riley Collins,Attorney General,,D,Lincoln,Zetus,21
 Addie Lee Green,State Treasurer,,D,Lincoln,Zetus,21
 Rickey L Cole,Commissioner of Agriculture & Commerce,,D,Lincoln,Zetus,21
 Robert E. Amos,Commissioner of Insurance,,D,Lincoln,Zetus,23
-Rita Wilkinson Goss,State House,53,D,Lincoln,Zetus,x
+Rita Wilkinson Goss,State House,53,D,Lincoln,Zetus,
 Robert Foster,Governor,,R,Lincoln,TOTAL,1800
 Tate Reeves,Governor,,R,Lincoln,TOTAL,3981
 Bill Waller Jr.,Governor,,R,Lincoln,TOTAL,2565

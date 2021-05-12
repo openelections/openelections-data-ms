@@ -16,8 +16,8 @@ Rickey L Cole,Commissioner of Agriculture & Commerce,,D,Newton,Chunky,18
 Andy Gipson,Commissioner of Agriculture & Commerce,,R,Newton,Chunky,304
 Mike Marlow,State Senate,31,D,Newton,Chunky,32
 Tyler McCaughn,State Senate,31,R,Newton,Chunky,290
-Joe C Bradford,State Senate,78,D,Newton,Chunky,X
-Randal 'Randy'Rushing,State Senate,78,R,Newton,Chunky,X
+Joe C Bradford,State Senate,78,D,Newton,Chunky,
+Randal 'Randy'Rushing,State Senate,78,R,Newton,Chunky,
 Troy Smith,State House,84,R,Newton,Chunky,251
 Roy May,State House,84,IND,Newton,Chunky,69
 Jim Hood,Governor,,D,Newton,Conehatta,119
@@ -39,8 +39,8 @@ Mike Marlow,State Senate,31,D,Newton,Conehatta,87
 Tyler McCaughn,State Senate,31,R,Newton,Conehatta,255
 Joe C Bradford,State Senate,78,D,Newton,Conehatta,116
 Randal 'Randy'Rushing,State Senate,78,R,Newton,Conehatta,225
-Troy Smith,State House,84,R,Newton,Conehatta,X
-Roy May,State House,84,IND,Newton,Conehatta,X
+Troy Smith,State House,84,R,Newton,Conehatta,
+Roy May,State House,84,IND,Newton,Conehatta,
 Jim Hood,Governor,,D,Newton,Decatur #1,169
 Tate Reeves,Governor,,R,Newton,Decatur #1,259
 Bob Hickingbottom,Governor,,C,Newton,Decatur #1,3
@@ -100,8 +100,8 @@ Rickey L Cole,Commissioner of Agriculture & Commerce,,D,Newton,Duffee,30
 Andy Gipson,Commissioner of Agriculture & Commerce,,R,Newton,Duffee,356
 Mike Marlow,State Senate,31,D,Newton,Duffee,32
 Tyler McCaughn,State Senate,31,R,Newton,Duffee,352
-Joe C Bradford,State Senate,78,D,Newton,Duffee,X
-Randal 'Randy'Rushing,State Senate,78,R,Newton,Duffee,X
+Joe C Bradford,State Senate,78,D,Newton,Duffee,
+Randal 'Randy'Rushing,State Senate,78,R,Newton,Duffee,
 Troy Smith,State House,84,R,Newton,Duffee,323
 Roy May,State House,84,IND,Newton,Duffee,59
 Jim Hood,Governor,,D,Newton,Hickory,299
@@ -121,8 +121,8 @@ Rickey L Cole,Commissioner of Agriculture & Commerce,,D,Newton,Hickory,239
 Andy Gipson,Commissioner of Agriculture & Commerce,,R,Newton,Hickory,685
 Mike Marlow,State Senate,31,D,Newton,Hickory,213
 Tyler McCaughn,State Senate,31,R,Newton,Hickory,712
-Joe C Bradford,State Senate,78,D,Newton,Hickory,X
-Randal 'Randy'Rushing,State Senate,78,R,Newton,Hickory,X
+Joe C Bradford,State Senate,78,D,Newton,Hickory,
+Randal 'Randy'Rushing,State Senate,78,R,Newton,Hickory,
 Troy Smith,State House,84,R,Newton,Hickory,541
 Roy May,State House,84,IND,Newton,Hickory,369
 Jim Hood,Governor,,D,Newton,Lawrence,295
@@ -144,8 +144,8 @@ Mike Marlow,State Senate,31,D,Newton,Lawrence,248
 Tyler McCaughn,State Senate,31,R,Newton,Lawrence,464
 Joe C Bradford,State Senate,78,D,Newton,Lawrence,298
 Randal 'Randy'Rushing,State Senate,78,R,Newton,Lawrence,416
-Troy Smith,State House,84,R,Newton,Lawrence,X
-Roy May,State House,84,IND,Newton,Lawrence,X
+Troy Smith,State House,84,R,Newton,Lawrence,
+Roy May,State House,84,IND,Newton,Lawrence,
 Jim Hood,Governor,,D,Newton,Little Rock,66
 Tate Reeves,Governor,,R,Newton,Little Rock,486
 Bob Hickingbottom,Governor,,C,Newton,Little Rock,0
@@ -165,8 +165,8 @@ Mike Marlow,State Senate,31,D,Newton,Little Rock,37
 Tyler McCaughn,State Senate,31,R,Newton,Little Rock,519
 Joe C Bradford,State Senate,78,D,Newton,Little Rock,78
 Randal 'Randy'Rushing,State Senate,78,R,Newton,Little Rock,475
-Troy Smith,State House,84,R,Newton,Little Rock,X
-Roy May,State House,84,IND,Newton,Little Rock,X
+Troy Smith,State House,84,R,Newton,Little Rock,
+Roy May,State House,84,IND,Newton,Little Rock,
 Jim Hood,Governor,,D,Newton,Newton #1,503
 Tate Reeves,Governor,,R,Newton,Newton #1,45
 Bob Hickingbottom,Governor,,C,Newton,Newton #1,3
@@ -184,8 +184,8 @@ Rickey L Cole,Commissioner of Agriculture & Commerce,,D,Newton,Newton #1,501
 Andy Gipson,Commissioner of Agriculture & Commerce,,R,Newton,Newton #1,52
 Mike Marlow,State Senate,31,D,Newton,Newton #1,452
 Tyler McCaughn,State Senate,31,R,Newton,Newton #1,87
-Joe C Bradford,State Senate,78,D,Newton,Newton #1,X
-Randal 'Randy'Rushing,State Senate,78,R,Newton,Newton #1,X
+Joe C Bradford,State Senate,78,D,Newton,Newton #1,
+Randal 'Randy'Rushing,State Senate,78,R,Newton,Newton #1,
 Troy Smith,State House,84,R,Newton,Newton #1,56
 Roy May,State House,84,IND,Newton,Newton #1,415
 Jim Hood,Governor,,D,Newton,Newton #4,333
@@ -205,8 +205,8 @@ Rickey L Cole,Commissioner of Agriculture & Commerce,,D,Newton,Newton #4,292
 Andy Gipson,Commissioner of Agriculture & Commerce,,R,Newton,Newton #4,442
 Mike Marlow,State Senate,31,D,Newton,Newton #4,262
 Tyler McCaughn,State Senate,31,R,Newton,Newton #4,468
-Joe C Bradford,State Senate,78,D,Newton,Newton #4,X
-Randal 'Randy'Rushing,State Senate,78,R,Newton,Newton #4,X
+Joe C Bradford,State Senate,78,D,Newton,Newton #4,
+Randal 'Randy'Rushing,State Senate,78,R,Newton,Newton #4,
 Troy Smith,State House,84,R,Newton,Newton #4,349
 Roy May,State House,84,IND,Newton,Newton #4,358
 Jim Hood,Governor,,D,Newton,Newton #5,177
@@ -226,8 +226,8 @@ Rickey L Cole,Commissioner of Agriculture & Commerce,,D,Newton,Newton #5,152
 Andy Gipson,Commissioner of Agriculture & Commerce,,R,Newton,Newton #5,241
 Mike Marlow,State Senate,31,D,Newton,Newton #5,141
 Tyler McCaughn,State Senate,31,R,Newton,Newton #5,252
-Joe C Bradford,State Senate,78,D,Newton,Newton #5,X
-Randal 'Randy'Rushing,State Senate,78,R,Newton,Newton #5,X
+Joe C Bradford,State Senate,78,D,Newton,Newton #5,
+Randal 'Randy'Rushing,State Senate,78,R,Newton,Newton #5,
 Troy Smith,State House,84,R,Newton,Newton #5,166
 Roy May,State House,84,IND,Newton,Newton #5,217
 Jim Hood,Governor,,D,Newton,Prospect,33
@@ -249,8 +249,8 @@ Mike Marlow,State Senate,31,D,Newton,Prospect,15
 Tyler McCaughn,State Senate,31,R,Newton,Prospect,275
 Joe C Bradford,State Senate,78,D,Newton,Prospect,38
 Randal 'Randy'Rushing,State Senate,78,R,Newton,Prospect,250
-Troy Smith,State House,84,R,Newton,Prospect,X
-Roy May,State House,84,IND,Newton,Prospect,X
+Troy Smith,State House,84,R,Newton,Prospect,
+Roy May,State House,84,IND,Newton,Prospect,
 Jim Hood,Governor,,D,Newton,Scanlan,147
 Tate Reeves,Governor,,R,Newton,Scanlan,328
 Bob Hickingbottom,Governor,,C,Newton,Scanlan,3
@@ -270,8 +270,8 @@ Mike Marlow,State Senate,31,D,Newton,Scanlan,94
 Tyler McCaughn,State Senate,31,R,Newton,Scanlan,386
 Joe C Bradford,State Senate,78,D,Newton,Scanlan,119
 Randal 'Randy'Rushing,State Senate,78,R,Newton,Scanlan,363
-Troy Smith,State House,84,R,Newton,Scanlan,X
-Roy May,State House,84,IND,Newton,Scanlan,X
+Troy Smith,State House,84,R,Newton,Scanlan,
+Roy May,State House,84,IND,Newton,Scanlan,
 Jim Hood,Governor,,D,Newton,Union #1,143
 Tate Reeves,Governor,,R,Newton,Union #1,84
 Bob Hickingbottom,Governor,,C,Newton,Union #1,2
@@ -291,8 +291,8 @@ Mike Marlow,State Senate,31,D,Newton,Union #1,130
 Tyler McCaughn,State Senate,31,R,Newton,Union #1,96
 Joe C Bradford,State Senate,78,D,Newton,Union #1,134
 Randal 'Randy'Rushing,State Senate,78,R,Newton,Union #1,90
-Troy Smith,State House,84,R,Newton,Union #1,X
-Roy May,State House,84,IND,Newton,Union #1,X
+Troy Smith,State House,84,R,Newton,Union #1,
+Roy May,State House,84,IND,Newton,Union #1,
 Jim Hood,Governor,,D,Newton,Union #2,78
 Tate Reeves,Governor,,R,Newton,Union #2,250
 Bob Hickingbottom,Governor,,C,Newton,Union #2,6
@@ -312,8 +312,8 @@ Mike Marlow,State Senate,31,D,Newton,Union #2,32
 Tyler McCaughn,State Senate,31,R,Newton,Union #2,315
 Joe C Bradford,State Senate,78,D,Newton,Union #2,80
 Randal 'Randy'Rushing,State Senate,78,R,Newton,Union #2,268
-Troy Smith,State House,84,R,Newton,Union #2,X
-Roy May,State House,84,IND,Newton,Union #2,X
+Troy Smith,State House,84,R,Newton,Union #2,
+Roy May,State House,84,IND,Newton,Union #2,
 Jim Hood,Governor,,D,Newton,Union #3,66
 Tate Reeves,Governor,,R,Newton,Union #3,179
 Bob Hickingbottom,Governor,,C,Newton,Union #3,1
@@ -333,8 +333,8 @@ Mike Marlow,State Senate,31,D,Newton,Union #3,47
 Tyler McCaughn,State Senate,31,R,Newton,Union #3,209
 Joe C Bradford,State Senate,78,D,Newton,Union #3,70
 Randal 'Randy'Rushing,State Senate,78,R,Newton,Union #3,187
-Troy Smith,State House,84,R,Newton,Union #3,X
-Roy May,State House,84,IND,Newton,Union #3,X
+Troy Smith,State House,84,R,Newton,Union #3,
+Roy May,State House,84,IND,Newton,Union #3,
 Jim Hood,Governor,,D,Newton,TOTAL,2618
 Tate Reeves,Governor,,R,Newton,TOTAL,4574
 Bob Hickingbottom,Governor,,C,Newton,TOTAL,37

@@ -35,8 +35,8 @@ Addie Lee Green,State Treasurer,,D,Adams,"District 1, Bellemont Precinct",637
 Rickey L Cole,Commissioner of Agriculture & Commerce,,D,Adams,"District 1, Bellemont Precinct",661
 Robert E Arnos,Commissioner of Insurance,,D,Adams,"District 1, Bellemont Precinct",636
 William E Godfrey,State Senate,37,D,Adams,"District 1, Bellemont Precinct",752
-Kelvin E Butler,State Senate,38,D,Adams,"District 1, Bellemont Precinct",X
-Tammy Whitherspoon,State Senate,38,D,Adams,"District 1, Bellemont Precinct",x
+Kelvin E Butler,State Senate,38,D,Adams,"District 1, Bellemont Precinct",
+Tammy Whitherspoon,State Senate,38,D,Adams,"District 1, Bellemont Precinct",
 Robert L Johnson III,State House,94,D,Adams,"District 1, Bellemont Precinct",47
 Aisha A Sanders,State House,96,D,Adams,"District 1, Bellemont Precinct",188
 Ben Thompson,State House,97,D,Adams,"District 1, Bellemont Precinct",420
@@ -55,11 +55,11 @@ Eugene S. 'Buck' Clarke,State Treasurer,,R,Adams,"Dist. 1, By-Pass Fire Precinct
 David McRae,State Treasurer,,R,Adams,"Dist. 1, By-Pass Fire Precinct",29
 Andy Gipson,Commissioner of Agriculture & Commerce,,R,Adams,"Dist. 1, By-Pass Fire Precinct",37
 Mike Chaney,Commissioner of Insurance,,R,Adams,"Dist. 1, By-Pass Fire Precinct",37
-Milt Burris,State Senate,37,R,Adams,"Dist. 1, By-Pass Fire Precinct",X
-Morgan Halford Poore,State Senate,37,R,Adams,"Dist. 1, By-Pass Fire Precinct",X
-Melanie Sojourner,State Senate,37,R,Adams,"Dist. 1, By-Pass Fire Precinct",X
-Kevin B Wells,State Senate,37,R,Adams,"Dist. 1, By-Pass Fire Precinct",X
-Sam C Mims V,State House,97,R,Adams,"Dist. 1, By-Pass Fire Precinct",X
+Milt Burris,State Senate,37,R,Adams,"Dist. 1, By-Pass Fire Precinct",
+Morgan Halford Poore,State Senate,37,R,Adams,"Dist. 1, By-Pass Fire Precinct",
+Melanie Sojourner,State Senate,37,R,Adams,"Dist. 1, By-Pass Fire Precinct",
+Kevin B Wells,State Senate,37,R,Adams,"Dist. 1, By-Pass Fire Precinct",
+Sam C Mims V,State House,97,R,Adams,"Dist. 1, By-Pass Fire Precinct",
 Michael Brown,Governor,,D,Adams,"Dist. 1, By-Pass Fire Precinct",90
 William Bond Compton Jr.,Governor,,D,Adams,"Dist. 1, By-Pass Fire Precinct",10
 Jim Hood,Governor,,D,Adams,"Dist. 1, By-Pass Fire Precinct",304
@@ -75,12 +75,12 @@ Jennifer Riley Collins,Attorney General,,D,Adams,"Dist. 1, By-Pass Fire Precinct
 Addie Lee Green,State Treasurer,,D,Adams,"Dist. 1, By-Pass Fire Precinct",325
 Rickey L Cole,Commissioner of Agriculture & Commerce,,D,Adams,"Dist. 1, By-Pass Fire Precinct",331
 Robert E Arnos,Commissioner of Insurance,,D,Adams,"Dist. 1, By-Pass Fire Precinct",328
-William E Godfrey,State Senate,37,D,Adams,"Dist. 1, By-Pass Fire Precinct",X
+William E Godfrey,State Senate,37,D,Adams,"Dist. 1, By-Pass Fire Precinct",
 Kelvin E Butler,State Senate,38,D,Adams,"Dist. 1, By-Pass Fire Precinct",292
 Tammy Whitherspoon,State Senate,38,D,Adams,"Dist. 1, By-Pass Fire Precinct",141
-Robert L Johnson III,State House,94,D,Adams,"Dist. 1, By-Pass Fire Precinct",x
+Robert L Johnson III,State House,94,D,Adams,"Dist. 1, By-Pass Fire Precinct",
 Aisha A Sanders,State House,96,D,Adams,"Dist. 1, By-Pass Fire Precinct",367
-Ben Thompson,State House,97,D,Adams,"Dist. 1, By-Pass Fire Precinct",x
+Ben Thompson,State House,97,D,Adams,"Dist. 1, By-Pass Fire Precinct",
 Robert Foster,Governor,,R,Adams,"Dist. 1, Courthouse Precinct",6
 Tate Reeves,Governor,,R,Adams,"Dist. 1, Courthouse Precinct",21
 Bill Waller Jr.,Governor,,R,Adams,"Dist. 1, Courthouse Precinct",34
@@ -117,10 +117,10 @@ Addie Lee Green,State Treasurer,,D,Adams,"Dist. 1, Courthouse Precinct",211
 Rickey L Cole,Commissioner of Agriculture & Commerce,,D,Adams,"Dist. 1, Courthouse Precinct",218
 Robert E Arnos,Commissioner of Insurance,,D,Adams,"Dist. 1, Courthouse Precinct",214
 William E Godfrey,State Senate,37,D,Adams,"Dist. 1, Courthouse Precinct",277
-Kelvin E Butler,State Senate,38,D,Adams,"Dist. 1, Courthouse Precinct",X
-Tammy Whitherspoon,State Senate,38,D,Adams,"Dist. 1, Courthouse Precinct",x
+Kelvin E Butler,State Senate,38,D,Adams,"Dist. 1, Courthouse Precinct",
+Tammy Whitherspoon,State Senate,38,D,Adams,"Dist. 1, Courthouse Precinct",
 Robert L Johnson III,State House,94,D,Adams,"Dist. 1, Courthouse Precinct",0
-Aisha A Sanders,State House,96,D,Adams,"Dist. 1, Courthouse Precinct",x
+Aisha A Sanders,State House,96,D,Adams,"Dist. 1, Courthouse Precinct",
 Ben Thompson,State House,97,D,Adams,"Dist. 1, Courthouse Precinct",199
 Robert Foster,Governor,,R,Adams,"Dist. 2, Beau Pre Precinct",14
 Tate Reeves,Governor,,R,Adams,"Dist. 2, Beau Pre Precinct",68
@@ -158,9 +158,9 @@ Addie Lee Green,State Treasurer,,D,Adams,"Dist. 2, Beau Pre Precinct",303
 Rickey L Cole,Commissioner of Agriculture & Commerce,,D,Adams,"Dist. 2, Beau Pre Precinct",317
 Robert E Arnos,Commissioner of Insurance,,D,Adams,"Dist. 2, Beau Pre Precinct",307
 William E Godfrey,State Senate,37,D,Adams,"Dist. 2, Beau Pre Precinct",335
-Kelvin E Butler,State Senate,38,D,Adams,"Dist. 2, Beau Pre Precinct",X
-Tammy Whitherspoon,State Senate,38,D,Adams,"Dist. 2, Beau Pre Precinct",x
-Robert L Johnson III,State House,94,D,Adams,"Dist. 2, Beau Pre Precinct",x
+Kelvin E Butler,State Senate,38,D,Adams,"Dist. 2, Beau Pre Precinct",
+Tammy Whitherspoon,State Senate,38,D,Adams,"Dist. 2, Beau Pre Precinct",
+Robert L Johnson III,State House,94,D,Adams,"Dist. 2, Beau Pre Precinct",
 Aisha A Sanders,State House,96,D,Adams,"Dist. 2, Beau Pre Precinct",56
 Ben Thompson,State House,97,D,Adams,"Dist. 2, Beau Pre Precinct",261
 Robert Foster,Governor,,R,Adams,"Dist. 2, Duncan Park Precinct",10
@@ -199,10 +199,10 @@ Addie Lee Green,State Treasurer,,D,Adams,"Dist. 2, Duncan Park Precinct",326
 Rickey L Cole,Commissioner of Agriculture & Commerce,,D,Adams,"Dist. 2, Duncan Park Precinct",333
 Robert E Arnos,Commissioner of Insurance,,D,Adams,"Dist. 2, Duncan Park Precinct",333
 William E Godfrey,State Senate,37,D,Adams,"Dist. 2, Duncan Park Precinct",379
-Kelvin E Butler,State Senate,38,D,Adams,"Dist. 2, Duncan Park Precinct",X
-Tammy Whitherspoon,State Senate,38,D,Adams,"Dist. 2, Duncan Park Precinct",x
+Kelvin E Butler,State Senate,38,D,Adams,"Dist. 2, Duncan Park Precinct",
+Tammy Whitherspoon,State Senate,38,D,Adams,"Dist. 2, Duncan Park Precinct",
 Robert L Johnson III,State House,94,D,Adams,"Dist. 2, Duncan Park Precinct",119
-Aisha A Sanders,State House,96,D,Adams,"Dist. 2, Duncan Park Precinct",x
+Aisha A Sanders,State House,96,D,Adams,"Dist. 2, Duncan Park Precinct",
 Ben Thompson,State House,97,D,Adams,"Dist. 2, Duncan Park Precinct",241
 Robert Foster,Governor,,R,Adams,"Dist. 2, Kingston Precinct",32
 Tate Reeves,Governor,,R,Adams,"Dist. 2, Kingston Precinct",110
@@ -240,10 +240,10 @@ Addie Lee Green,State Treasurer,,D,Adams,"Dist. 2, Kingston Precinct",144
 Rickey L Cole,Commissioner of Agriculture & Commerce,,D,Adams,"Dist. 2, Kingston Precinct",146
 Robert E Arnos,Commissioner of Insurance,,D,Adams,"Dist. 2, Kingston Precinct",141
 William E Godfrey,State Senate,37,D,Adams,"Dist. 2, Kingston Precinct",163
-Kelvin E Butler,State Senate,38,D,Adams,"Dist. 2, Kingston Precinct",X
-Tammy Whitherspoon,State Senate,38,D,Adams,"Dist. 2, Kingston Precinct",x
-Robert L Johnson III,State House,94,D,Adams,"Dist. 2, Kingston Precinct",x
-Aisha A Sanders,State House,96,D,Adams,"Dist. 2, Kingston Precinct",x
+Kelvin E Butler,State Senate,38,D,Adams,"Dist. 2, Kingston Precinct",
+Tammy Whitherspoon,State Senate,38,D,Adams,"Dist. 2, Kingston Precinct",
+Robert L Johnson III,State House,94,D,Adams,"Dist. 2, Kingston Precinct",
+Aisha A Sanders,State House,96,D,Adams,"Dist. 2, Kingston Precinct",
 Ben Thompson,State House,97,D,Adams,"Dist. 2, Kingston Precinct",146
 Robert Foster,Governor,,R,Adams,"Dist. 2, Liberty Park Precinct",18
 Tate Reeves,Governor,,R,Adams,"Dist. 2, Liberty Park Precinct",66
@@ -281,10 +281,10 @@ Addie Lee Green,State Treasurer,,D,Adams,"Dist. 2, Liberty Park Precinct",251
 Rickey L Cole,Commissioner of Agriculture & Commerce,,D,Adams,"Dist. 2, Liberty Park Precinct",260
 Robert E Arnos,Commissioner of Insurance,,D,Adams,"Dist. 2, Liberty Park Precinct",251
 William E Godfrey,State Senate,37,D,Adams,"Dist. 2, Liberty Park Precinct",282
-Kelvin E Butler,State Senate,38,D,Adams,"Dist. 2, Liberty Park Precinct",X
-Tammy Whitherspoon,State Senate,38,D,Adams,"Dist. 2, Liberty Park Precinct",x
-Robert L Johnson III,State House,94,D,Adams,"Dist. 2, Liberty Park Precinct",x
-Aisha A Sanders,State House,96,D,Adams,"Dist. 2, Liberty Park Precinct",x
+Kelvin E Butler,State Senate,38,D,Adams,"Dist. 2, Liberty Park Precinct",
+Tammy Whitherspoon,State Senate,38,D,Adams,"Dist. 2, Liberty Park Precinct",
+Robert L Johnson III,State House,94,D,Adams,"Dist. 2, Liberty Park Precinct",
+Aisha A Sanders,State House,96,D,Adams,"Dist. 2, Liberty Park Precinct",
 Ben Thompson,State House,97,D,Adams,"Dist. 2, Liberty Park Precinct",251
 Robert Foster,Governor,,R,Adams,"Dist. 3, Concord Precinct",2
 Tate Reeves,Governor,,R,Adams,"Dist. 3, Concord Precinct",5
@@ -305,7 +305,7 @@ Milt Burris,State Senate,37,R,Adams,"Dist. 3, Concord Precinct",0
 Morgan Halford Poore,State Senate,37,R,Adams,"Dist. 3, Concord Precinct",0
 Melanie Sojourner,State Senate,37,R,Adams,"Dist. 3, Concord Precinct",9
 Kevin B Wells,State Senate,37,R,Adams,"Dist. 3, Concord Precinct",1
-Sam C Mims V,State House,97,R,Adams,"Dist. 3, Concord Precinct",X
+Sam C Mims V,State House,97,R,Adams,"Dist. 3, Concord Precinct",
 Michael Brown,Governor,,D,Adams,"Dist. 3, Concord Precinct",76
 William Bond Compton Jr.,Governor,,D,Adams,"Dist. 3, Concord Precinct",7
 Jim Hood,Governor,,D,Adams,"Dist. 3, Concord Precinct",209
@@ -322,11 +322,11 @@ Addie Lee Green,State Treasurer,,D,Adams,"Dist. 3, Concord Precinct",291
 Rickey L Cole,Commissioner of Agriculture & Commerce,,D,Adams,"Dist. 3, Concord Precinct",291
 Robert E Arnos,Commissioner of Insurance,,D,Adams,"Dist. 3, Concord Precinct",278
 William E Godfrey,State Senate,37,D,Adams,"Dist. 3, Concord Precinct",292
-Kelvin E Butler,State Senate,38,D,Adams,"Dist. 3, Concord Precinct",X
-Tammy Whitherspoon,State Senate,38,D,Adams,"Dist. 3, Concord Precinct",x
+Kelvin E Butler,State Senate,38,D,Adams,"Dist. 3, Concord Precinct",
+Tammy Whitherspoon,State Senate,38,D,Adams,"Dist. 3, Concord Precinct",
 Robert L Johnson III,State House,94,D,Adams,"Dist. 3, Concord Precinct",319
-Aisha A Sanders,State House,96,D,Adams,"Dist. 3, Concord Precinct",x
-Ben Thompson,State House,97,D,Adams,"Dist. 3, Concord Precinct",x
+Aisha A Sanders,State House,96,D,Adams,"Dist. 3, Concord Precinct",
+Ben Thompson,State House,97,D,Adams,"Dist. 3, Concord Precinct",
 Robert Foster,Governor,,R,Adams,"Dist. 3, Maryland Hgts, Precinct",0
 Tate Reeves,Governor,,R,Adams,"Dist. 3, Maryland Hgts, Precinct",1
 Bill Waller Jr.,Governor,,R,Adams,"Dist. 3, Maryland Hgts, Precinct",0
@@ -346,7 +346,7 @@ Milt Burris,State Senate,37,R,Adams,"Dist. 3, Maryland Hgts, Precinct",1
 Morgan Halford Poore,State Senate,37,R,Adams,"Dist. 3, Maryland Hgts, Precinct",0
 Melanie Sojourner,State Senate,37,R,Adams,"Dist. 3, Maryland Hgts, Precinct",0
 Kevin B Wells,State Senate,37,R,Adams,"Dist. 3, Maryland Hgts, Precinct",0
-Sam C Mims V,State House,97,R,Adams,"Dist. 3, Maryland Hgts, Precinct",X
+Sam C Mims V,State House,97,R,Adams,"Dist. 3, Maryland Hgts, Precinct",
 Michael Brown,Governor,,D,Adams,"Dist. 3, Maryland Hgts, Precinct",87
 William Bond Compton Jr.,Governor,,D,Adams,"Dist. 3, Maryland Hgts, Precinct",5
 Jim Hood,Governor,,D,Adams,"Dist. 3, Maryland Hgts, Precinct",199
@@ -363,11 +363,11 @@ Addie Lee Green,State Treasurer,,D,Adams,"Dist. 3, Maryland Hgts, Precinct",254
 Rickey L Cole,Commissioner of Agriculture & Commerce,,D,Adams,"Dist. 3, Maryland Hgts, Precinct",262
 Robert E Arnos,Commissioner of Insurance,,D,Adams,"Dist. 3, Maryland Hgts, Precinct",254
 William E Godfrey,State Senate,37,D,Adams,"Dist. 3, Maryland Hgts, Precinct",261
-Kelvin E Butler,State Senate,38,D,Adams,"Dist. 3, Maryland Hgts, Precinct",X
-Tammy Whitherspoon,State Senate,38,D,Adams,"Dist. 3, Maryland Hgts, Precinct",x
+Kelvin E Butler,State Senate,38,D,Adams,"Dist. 3, Maryland Hgts, Precinct",
+Tammy Whitherspoon,State Senate,38,D,Adams,"Dist. 3, Maryland Hgts, Precinct",
 Robert L Johnson III,State House,94,D,Adams,"Dist. 3, Maryland Hgts, Precinct",306
-Aisha A Sanders,State House,96,D,Adams,"Dist. 3, Maryland Hgts, Precinct",x
-Ben Thompson,State House,97,D,Adams,"Dist. 3, Maryland Hgts, Precinct",x
+Aisha A Sanders,State House,96,D,Adams,"Dist. 3, Maryland Hgts, Precinct",
+Ben Thompson,State House,97,D,Adams,"Dist. 3, Maryland Hgts, Precinct",
 Robert Foster,Governor,,R,Adams,"Dist. 3, Nps Multi Purpose Bldg.",7
 Tate Reeves,Governor,,R,Adams,"Dist. 3, Nps Multi Purpose Bldg.",15
 Bill Waller Jr.,Governor,,R,Adams,"Dist. 3, Nps Multi Purpose Bldg.",13
@@ -387,7 +387,7 @@ Milt Burris,State Senate,37,R,Adams,"Dist. 3, Nps Multi Purpose Bldg.",0
 Morgan Halford Poore,State Senate,37,R,Adams,"Dist. 3, Nps Multi Purpose Bldg.",9
 Melanie Sojourner,State Senate,37,R,Adams,"Dist. 3, Nps Multi Purpose Bldg.",24
 Kevin B Wells,State Senate,37,R,Adams,"Dist. 3, Nps Multi Purpose Bldg.",1
-Sam C Mims V,State House,97,R,Adams,"Dist. 3, Nps Multi Purpose Bldg.",X
+Sam C Mims V,State House,97,R,Adams,"Dist. 3, Nps Multi Purpose Bldg.",
 Michael Brown,Governor,,D,Adams,"Dist. 3, Nps Multi Purpose Bldg.",44
 William Bond Compton Jr.,Governor,,D,Adams,"Dist. 3, Nps Multi Purpose Bldg.",2
 Jim Hood,Governor,,D,Adams,"Dist. 3, Nps Multi Purpose Bldg.",154
@@ -404,11 +404,11 @@ Addie Lee Green,State Treasurer,,D,Adams,"Dist. 3, Nps Multi Purpose Bldg.",183
 Rickey L Cole,Commissioner of Agriculture & Commerce,,D,Adams,"Dist. 3, Nps Multi Purpose Bldg.",186
 Robert E Arnos,Commissioner of Insurance,,D,Adams,"Dist. 3, Nps Multi Purpose Bldg.",178
 William E Godfrey,State Senate,37,D,Adams,"Dist. 3, Nps Multi Purpose Bldg.",200
-Kelvin E Butler,State Senate,38,D,Adams,"Dist. 3, Nps Multi Purpose Bldg.",X
-Tammy Whitherspoon,State Senate,38,D,Adams,"Dist. 3, Nps Multi Purpose Bldg.",x
+Kelvin E Butler,State Senate,38,D,Adams,"Dist. 3, Nps Multi Purpose Bldg.",
+Tammy Whitherspoon,State Senate,38,D,Adams,"Dist. 3, Nps Multi Purpose Bldg.",
 Robert L Johnson III,State House,94,D,Adams,"Dist. 3, Nps Multi Purpose Bldg.",215
-Aisha A Sanders,State House,96,D,Adams,"Dist. 3, Nps Multi Purpose Bldg.",x
-Ben Thompson,State House,97,D,Adams,"Dist. 3, Nps Multi Purpose Bldg.",x
+Aisha A Sanders,State House,96,D,Adams,"Dist. 3, Nps Multi Purpose Bldg.",
+Ben Thompson,State House,97,D,Adams,"Dist. 3, Nps Multi Purpose Bldg.",
 Robert Foster,Governor,,R,Adams,"Dist. 3, Palestine Precinct",16
 Tate Reeves,Governor,,R,Adams,"Dist. 3, Palestine Precinct",71
 Bill Waller Jr.,Governor,,R,Adams,"Dist. 3, Palestine Precinct",13
@@ -445,10 +445,10 @@ Addie Lee Green,State Treasurer,,D,Adams,"Dist. 3, Palestine Precinct",345
 Rickey L Cole,Commissioner of Agriculture & Commerce,,D,Adams,"Dist. 3, Palestine Precinct",354
 Robert E Arnos,Commissioner of Insurance,,D,Adams,"Dist. 3, Palestine Precinct",343
 William E Godfrey,State Senate,37,D,Adams,"Dist. 3, Palestine Precinct",358
-Kelvin E Butler,State Senate,38,D,Adams,"Dist. 3, Palestine Precinct",X
-Tammy Whitherspoon,State Senate,38,D,Adams,"Dist. 3, Palestine Precinct",x
+Kelvin E Butler,State Senate,38,D,Adams,"Dist. 3, Palestine Precinct",
+Tammy Whitherspoon,State Senate,38,D,Adams,"Dist. 3, Palestine Precinct",
 Robert L Johnson III,State House,94,D,Adams,"Dist. 3, Palestine Precinct",71
-Aisha A Sanders,State House,96,D,Adams,"Dist. 3, Palestine Precinct",x
+Aisha A Sanders,State House,96,D,Adams,"Dist. 3, Palestine Precinct",
 Ben Thompson,State House,97,D,Adams,"Dist. 3, Palestine Precinct",304
 Robert Foster,Governor,,R,Adams,"Dist. 4, Carpenter Precinct",1
 Tate Reeves,Governor,,R,Adams,"Dist. 4, Carpenter Precinct",16
@@ -469,7 +469,7 @@ Milt Burris,State Senate,37,R,Adams,"Dist. 4, Carpenter Precinct",0
 Morgan Halford Poore,State Senate,37,R,Adams,"Dist. 4, Carpenter Precinct",7
 Melanie Sojourner,State Senate,37,R,Adams,"Dist. 4, Carpenter Precinct",20
 Kevin B Wells,State Senate,37,R,Adams,"Dist. 4, Carpenter Precinct",2
-Sam C Mims V,State House,97,R,Adams,"Dist. 4, Carpenter Precinct",X
+Sam C Mims V,State House,97,R,Adams,"Dist. 4, Carpenter Precinct",
 Michael Brown,Governor,,D,Adams,"Dist. 4, Carpenter Precinct",34
 William Bond Compton Jr.,Governor,,D,Adams,"Dist. 4, Carpenter Precinct",1
 Jim Hood,Governor,,D,Adams,"Dist. 4, Carpenter Precinct",138
@@ -486,11 +486,11 @@ Addie Lee Green,State Treasurer,,D,Adams,"Dist. 4, Carpenter Precinct",184
 Rickey L Cole,Commissioner of Agriculture & Commerce,,D,Adams,"Dist. 4, Carpenter Precinct",180
 Robert E Arnos,Commissioner of Insurance,,D,Adams,"Dist. 4, Carpenter Precinct",178
 William E Godfrey,State Senate,37,D,Adams,"Dist. 4, Carpenter Precinct",193
-Kelvin E Butler,State Senate,38,D,Adams,"Dist. 4, Carpenter Precinct",X
-Tammy Whitherspoon,State Senate,38,D,Adams,"Dist. 4, Carpenter Precinct",x
+Kelvin E Butler,State Senate,38,D,Adams,"Dist. 4, Carpenter Precinct",
+Tammy Whitherspoon,State Senate,38,D,Adams,"Dist. 4, Carpenter Precinct",
 Robert L Johnson III,State House,94,D,Adams,"Dist. 4, Carpenter Precinct",201
-Aisha A Sanders,State House,96,D,Adams,"Dist. 4, Carpenter Precinct",x
-Ben Thompson,State House,97,D,Adams,"Dist. 4, Carpenter Precinct",x
+Aisha A Sanders,State House,96,D,Adams,"Dist. 4, Carpenter Precinct",
+Ben Thompson,State House,97,D,Adams,"Dist. 4, Carpenter Precinct",
 Robert Foster,Governor,,R,Adams,"Dist. 4, Morgantown Precinct",2
 Tate Reeves,Governor,,R,Adams,"Dist. 4, Morgantown Precinct",24
 Bill Waller Jr.,Governor,,R,Adams,"Dist. 4, Morgantown Precinct",4
@@ -510,7 +510,7 @@ Milt Burris,State Senate,37,R,Adams,"Dist. 4, Morgantown Precinct",2
 Morgan Halford Poore,State Senate,37,R,Adams,"Dist. 4, Morgantown Precinct",1
 Melanie Sojourner,State Senate,37,R,Adams,"Dist. 4, Morgantown Precinct",22
 Kevin B Wells,State Senate,37,R,Adams,"Dist. 4, Morgantown Precinct",6
-Sam C Mims V,State House,97,R,Adams,"Dist. 4, Morgantown Precinct",X
+Sam C Mims V,State House,97,R,Adams,"Dist. 4, Morgantown Precinct",
 Michael Brown,Governor,,D,Adams,"Dist. 4, Morgantown Precinct",83
 William Bond Compton Jr.,Governor,,D,Adams,"Dist. 4, Morgantown Precinct",10
 Jim Hood,Governor,,D,Adams,"Dist. 4, Morgantown Precinct",162
@@ -527,11 +527,11 @@ Addie Lee Green,State Treasurer,,D,Adams,"Dist. 4, Morgantown Precinct",243
 Rickey L Cole,Commissioner of Agriculture & Commerce,,D,Adams,"Dist. 4, Morgantown Precinct",245
 Robert E Arnos,Commissioner of Insurance,,D,Adams,"Dist. 4, Morgantown Precinct",246
 William E Godfrey,State Senate,37,D,Adams,"Dist. 4, Morgantown Precinct",244
-Kelvin E Butler,State Senate,38,D,Adams,"Dist. 4, Morgantown Precinct",X
-Tammy Whitherspoon,State Senate,38,D,Adams,"Dist. 4, Morgantown Precinct",x
+Kelvin E Butler,State Senate,38,D,Adams,"Dist. 4, Morgantown Precinct",
+Tammy Whitherspoon,State Senate,38,D,Adams,"Dist. 4, Morgantown Precinct",
 Robert L Johnson III,State House,94,D,Adams,"Dist. 4, Morgantown Precinct",284
-Aisha A Sanders,State House,96,D,Adams,"Dist. 4, Morgantown Precinct",x
-Ben Thompson,State House,97,D,Adams,"Dist. 4, Morgantown Precinct",x
+Aisha A Sanders,State House,96,D,Adams,"Dist. 4, Morgantown Precinct",
+Ben Thompson,State House,97,D,Adams,"Dist. 4, Morgantown Precinct",
 Robert Foster,Governor,,R,Adams,"Dist. 4, Northside Precinct",2
 Tate Reeves,Governor,,R,Adams,"Dist. 4, Northside Precinct",2
 Bill Waller Jr.,Governor,,R,Adams,"Dist. 4, Northside Precinct",1
@@ -547,11 +547,11 @@ Eugene S. 'Buck' Clarke,State Treasurer,,R,Adams,"Dist. 4, Northside Precinct",2
 David McRae,State Treasurer,,R,Adams,"Dist. 4, Northside Precinct",3
 Andy Gipson,Commissioner of Agriculture & Commerce,,R,Adams,"Dist. 4, Northside Precinct",5
 Mike Chaney,Commissioner of Insurance,,R,Adams,"Dist. 4, Northside Precinct",5
-Milt Burris,State Senate,37,R,Adams,"Dist. 4, Northside Precinct",X
-Morgan Halford Poore,State Senate,37,R,Adams,"Dist. 4, Northside Precinct",X
-Melanie Sojourner,State Senate,37,R,Adams,"Dist. 4, Northside Precinct",X
-Kevin B Wells,State Senate,37,R,Adams,"Dist. 4, Northside Precinct",X
-Sam C Mims V,State House,97,R,Adams,"Dist. 4, Northside Precinct",X
+Milt Burris,State Senate,37,R,Adams,"Dist. 4, Northside Precinct",
+Morgan Halford Poore,State Senate,37,R,Adams,"Dist. 4, Northside Precinct",
+Melanie Sojourner,State Senate,37,R,Adams,"Dist. 4, Northside Precinct",
+Kevin B Wells,State Senate,37,R,Adams,"Dist. 4, Northside Precinct",
+Sam C Mims V,State House,97,R,Adams,"Dist. 4, Northside Precinct",
 Michael Brown,Governor,,D,Adams,"Dist. 4, Northside Precinct",169
 William Bond Compton Jr.,Governor,,D,Adams,"Dist. 4, Northside Precinct",13
 Jim Hood,Governor,,D,Adams,"Dist. 4, Northside Precinct",533
@@ -567,12 +567,12 @@ Jennifer Riley Collins,Attorney General,,D,Adams,"Dist. 4, Northside Precinct",6
 Addie Lee Green,State Treasurer,,D,Adams,"Dist. 4, Northside Precinct",620
 Rickey L Cole,Commissioner of Agriculture & Commerce,,D,Adams,"Dist. 4, Northside Precinct",635
 Robert E Arnos,Commissioner of Insurance,,D,Adams,"Dist. 4, Northside Precinct",619
-William E Godfrey,State Senate,37,D,Adams,"Dist. 4, Northside Precinct",X
+William E Godfrey,State Senate,37,D,Adams,"Dist. 4, Northside Precinct",
 Kelvin E Butler,State Senate,38,D,Adams,"Dist. 4, Northside Precinct",477
 Tammy Whitherspoon,State Senate,38,D,Adams,"Dist. 4, Northside Precinct",310
 Robert L Johnson III,State House,94,D,Adams,"Dist. 4, Northside Precinct",749
-Aisha A Sanders,State House,96,D,Adams,"Dist. 4, Northside Precinct",x
-Ben Thompson,State House,97,D,Adams,"Dist. 4, Northside Precinct",x
+Aisha A Sanders,State House,96,D,Adams,"Dist. 4, Northside Precinct",
+Ben Thompson,State House,97,D,Adams,"Dist. 4, Northside Precinct",
 Robert Foster,Governor,,R,Adams,"Dist. 4, Pine Ridge Precinct",1
 Tate Reeves,Governor,,R,Adams,"Dist. 4, Pine Ridge Precinct",13
 Bill Waller Jr.,Governor,,R,Adams,"Dist. 4, Pine Ridge Precinct",6
@@ -588,11 +588,11 @@ Eugene S. 'Buck' Clarke,State Treasurer,,R,Adams,"Dist. 4, Pine Ridge Precinct",
 David McRae,State Treasurer,,R,Adams,"Dist. 4, Pine Ridge Precinct",13
 Andy Gipson,Commissioner of Agriculture & Commerce,,R,Adams,"Dist. 4, Pine Ridge Precinct",17
 Mike Chaney,Commissioner of Insurance,,R,Adams,"Dist. 4, Pine Ridge Precinct",17
-Milt Burris,State Senate,37,R,Adams,"Dist. 4, Pine Ridge Precinct",X
-Morgan Halford Poore,State Senate,37,R,Adams,"Dist. 4, Pine Ridge Precinct",X
-Melanie Sojourner,State Senate,37,R,Adams,"Dist. 4, Pine Ridge Precinct",X
-Kevin B Wells,State Senate,37,R,Adams,"Dist. 4, Pine Ridge Precinct",X
-Sam C Mims V,State House,97,R,Adams,"Dist. 4, Pine Ridge Precinct",X
+Milt Burris,State Senate,37,R,Adams,"Dist. 4, Pine Ridge Precinct",
+Morgan Halford Poore,State Senate,37,R,Adams,"Dist. 4, Pine Ridge Precinct",
+Melanie Sojourner,State Senate,37,R,Adams,"Dist. 4, Pine Ridge Precinct",
+Kevin B Wells,State Senate,37,R,Adams,"Dist. 4, Pine Ridge Precinct",
+Sam C Mims V,State House,97,R,Adams,"Dist. 4, Pine Ridge Precinct",
 Michael Brown,Governor,,D,Adams,"Dist. 4, Pine Ridge Precinct",49
 William Bond Compton Jr.,Governor,,D,Adams,"Dist. 4, Pine Ridge Precinct",3
 Jim Hood,Governor,,D,Adams,"Dist. 4, Pine Ridge Precinct",210
@@ -608,12 +608,12 @@ Jennifer Riley Collins,Attorney General,,D,Adams,"Dist. 4, Pine Ridge Precinct",
 Addie Lee Green,State Treasurer,,D,Adams,"Dist. 4, Pine Ridge Precinct",241
 Rickey L Cole,Commissioner of Agriculture & Commerce,,D,Adams,"Dist. 4, Pine Ridge Precinct",241
 Robert E Arnos,Commissioner of Insurance,,D,Adams,"Dist. 4, Pine Ridge Precinct",240
-William E Godfrey,State Senate,37,D,Adams,"Dist. 4, Pine Ridge Precinct",X
+William E Godfrey,State Senate,37,D,Adams,"Dist. 4, Pine Ridge Precinct",
 Kelvin E Butler,State Senate,38,D,Adams,"Dist. 4, Pine Ridge Precinct",177
 Tammy Whitherspoon,State Senate,38,D,Adams,"Dist. 4, Pine Ridge Precinct",116
 Robert L Johnson III,State House,94,D,Adams,"Dist. 4, Pine Ridge Precinct",283
-Aisha A Sanders,State House,96,D,Adams,"Dist. 4, Pine Ridge Precinct",x
-Ben Thompson,State House,97,D,Adams,"Dist. 4, Pine Ridge Precinct",x
+Aisha A Sanders,State House,96,D,Adams,"Dist. 4, Pine Ridge Precinct",
+Ben Thompson,State House,97,D,Adams,"Dist. 4, Pine Ridge Precinct",
 Robert Foster,Governor,,R,Adams,"Dist. 5, Airport Precinct",9
 Tate Reeves,Governor,,R,Adams,"Dist. 5, Airport Precinct",34
 Bill Waller Jr.,Governor,,R,Adams,"Dist. 5, Airport Precinct",6
@@ -633,7 +633,7 @@ Milt Burris,State Senate,37,R,Adams,"Dist. 5, Airport Precinct",3
 Morgan Halford Poore,State Senate,37,R,Adams,"Dist. 5, Airport Precinct",10
 Melanie Sojourner,State Senate,37,R,Adams,"Dist. 5, Airport Precinct",34
 Kevin B Wells,State Senate,37,R,Adams,"Dist. 5, Airport Precinct",2
-Sam C Mims V,State House,97,R,Adams,"Dist. 5, Airport Precinct",X
+Sam C Mims V,State House,97,R,Adams,"Dist. 5, Airport Precinct",
 Michael Brown,Governor,,D,Adams,"Dist. 5, Airport Precinct",88
 William Bond Compton Jr.,Governor,,D,Adams,"Dist. 5, Airport Precinct",7
 Jim Hood,Governor,,D,Adams,"Dist. 5, Airport Precinct",246
@@ -650,11 +650,11 @@ Addie Lee Green,State Treasurer,,D,Adams,"Dist. 5, Airport Precinct",295
 Rickey L Cole,Commissioner of Agriculture & Commerce,,D,Adams,"Dist. 5, Airport Precinct",309
 Robert E Arnos,Commissioner of Insurance,,D,Adams,"Dist. 5, Airport Precinct",305
 William E Godfrey,State Senate,37,D,Adams,"Dist. 5, Airport Precinct",313
-Kelvin E Butler,State Senate,38,D,Adams,"Dist. 5, Airport Precinct",X
-Tammy Whitherspoon,State Senate,38,D,Adams,"Dist. 5, Airport Precinct",x
+Kelvin E Butler,State Senate,38,D,Adams,"Dist. 5, Airport Precinct",
+Tammy Whitherspoon,State Senate,38,D,Adams,"Dist. 5, Airport Precinct",
 Robert L Johnson III,State House,94,D,Adams,"Dist. 5, Airport Precinct",358
-Aisha A Sanders,State House,96,D,Adams,"Dist. 5, Airport Precinct",x
-Ben Thompson,State House,97,D,Adams,"Dist. 5, Airport Precinct",x
+Aisha A Sanders,State House,96,D,Adams,"Dist. 5, Airport Precinct",
+Ben Thompson,State House,97,D,Adams,"Dist. 5, Airport Precinct",
 Robert Foster,Governor,,R,Adams,"Dist. 5, Foster Mound Precinct",1
 Tate Reeves,Governor,,R,Adams,"Dist. 5, Foster Mound Precinct",11
 Bill Waller Jr.,Governor,,R,Adams,"Dist. 5, Foster Mound Precinct",1
@@ -670,11 +670,11 @@ Eugene S. 'Buck' Clarke,State Treasurer,,R,Adams,"Dist. 5, Foster Mound Precinct
 David McRae,State Treasurer,,R,Adams,"Dist. 5, Foster Mound Precinct",8
 Andy Gipson,Commissioner of Agriculture & Commerce,,R,Adams,"Dist. 5, Foster Mound Precinct",10
 Mike Chaney,Commissioner of Insurance,,R,Adams,"Dist. 5, Foster Mound Precinct",11
-Milt Burris,State Senate,37,R,Adams,"Dist. 5, Foster Mound Precinct",X
-Morgan Halford Poore,State Senate,37,R,Adams,"Dist. 5, Foster Mound Precinct",X
-Melanie Sojourner,State Senate,37,R,Adams,"Dist. 5, Foster Mound Precinct",X
-Kevin B Wells,State Senate,37,R,Adams,"Dist. 5, Foster Mound Precinct",X
-Sam C Mims V,State House,97,R,Adams,"Dist. 5, Foster Mound Precinct",X
+Milt Burris,State Senate,37,R,Adams,"Dist. 5, Foster Mound Precinct",
+Morgan Halford Poore,State Senate,37,R,Adams,"Dist. 5, Foster Mound Precinct",
+Melanie Sojourner,State Senate,37,R,Adams,"Dist. 5, Foster Mound Precinct",
+Kevin B Wells,State Senate,37,R,Adams,"Dist. 5, Foster Mound Precinct",
+Sam C Mims V,State House,97,R,Adams,"Dist. 5, Foster Mound Precinct",
 Michael Brown,Governor,,D,Adams,"Dist. 5, Foster Mound Precinct",152
 William Bond Compton Jr.,Governor,,D,Adams,"Dist. 5, Foster Mound Precinct",8
 Jim Hood,Governor,,D,Adams,"Dist. 5, Foster Mound Precinct",395
@@ -690,12 +690,12 @@ Jennifer Riley Collins,Attorney General,,D,Adams,"Dist. 5, Foster Mound Precinct
 Addie Lee Green,State Treasurer,,D,Adams,"Dist. 5, Foster Mound Precinct",523
 Rickey L Cole,Commissioner of Agriculture & Commerce,,D,Adams,"Dist. 5, Foster Mound Precinct",529
 Robert E Arnos,Commissioner of Insurance,,D,Adams,"Dist. 5, Foster Mound Precinct",509
-William E Godfrey,State Senate,37,D,Adams,"Dist. 5, Foster Mound Precinct",X
+William E Godfrey,State Senate,37,D,Adams,"Dist. 5, Foster Mound Precinct",
 Kelvin E Butler,State Senate,38,D,Adams,"Dist. 5, Foster Mound Precinct",372
 Tammy Whitherspoon,State Senate,38,D,Adams,"Dist. 5, Foster Mound Precinct",263
 Robert L Johnson III,State House,94,D,Adams,"Dist. 5, Foster Mound Precinct",611
-Aisha A Sanders,State House,96,D,Adams,"Dist. 5, Foster Mound Precinct",x
-Ben Thompson,State House,97,D,Adams,"Dist. 5, Foster Mound Precinct",x
+Aisha A Sanders,State House,96,D,Adams,"Dist. 5, Foster Mound Precinct",
+Ben Thompson,State House,97,D,Adams,"Dist. 5, Foster Mound Precinct",
 Robert Foster,Governor,,R,Adams,"Dist. 5, Oakland Precinct",29
 Tate Reeves,Governor,,R,Adams,"Dist. 5, Oakland Precinct",84
 Bill Waller Jr.,Governor,,R,Adams,"Dist. 5, Oakland Precinct",24
@@ -715,7 +715,7 @@ Milt Burris,State Senate,37,R,Adams,"Dist. 5, Oakland Precinct",3
 Morgan Halford Poore,State Senate,37,R,Adams,"Dist. 5, Oakland Precinct",16
 Melanie Sojourner,State Senate,37,R,Adams,"Dist. 5, Oakland Precinct",115
 Kevin B Wells,State Senate,37,R,Adams,"Dist. 5, Oakland Precinct",1
-Sam C Mims V,State House,97,R,Adams,"Dist. 5, Oakland Precinct",X
+Sam C Mims V,State House,97,R,Adams,"Dist. 5, Oakland Precinct",
 Michael Brown,Governor,,D,Adams,"Dist. 5, Oakland Precinct",137
 William Bond Compton Jr.,Governor,,D,Adams,"Dist. 5, Oakland Precinct",14
 Jim Hood,Governor,,D,Adams,"Dist. 5, Oakland Precinct",330
@@ -732,11 +732,11 @@ Addie Lee Green,State Treasurer,,D,Adams,"Dist. 5, Oakland Precinct",399
 Rickey L Cole,Commissioner of Agriculture & Commerce,,D,Adams,"Dist. 5, Oakland Precinct",414
 Robert E Arnos,Commissioner of Insurance,,D,Adams,"Dist. 5, Oakland Precinct",403
 William E Godfrey,State Senate,37,D,Adams,"Dist. 5, Oakland Precinct",425
-Kelvin E Butler,State Senate,38,D,Adams,"Dist. 5, Oakland Precinct",X
-Tammy Whitherspoon,State Senate,38,D,Adams,"Dist. 5, Oakland Precinct",x
+Kelvin E Butler,State Senate,38,D,Adams,"Dist. 5, Oakland Precinct",
+Tammy Whitherspoon,State Senate,38,D,Adams,"Dist. 5, Oakland Precinct",
 Robert L Johnson III,State House,94,D,Adams,"Dist. 5, Oakland Precinct",459
-Aisha A Sanders,State House,96,D,Adams,"Dist. 5, Oakland Precinct",x
-Ben Thompson,State House,97,D,Adams,"Dist. 5, Oakland Precinct",x
+Aisha A Sanders,State House,96,D,Adams,"Dist. 5, Oakland Precinct",
+Ben Thompson,State House,97,D,Adams,"Dist. 5, Oakland Precinct",
 Robert Foster,Governor,,R,Adams,"Dist. 5, Washington Precinct",14
 Tate Reeves,Governor,,R,Adams,"Dist. 5, Washington Precinct",65
 Bill Waller Jr.,Governor,,R,Adams,"Dist. 5, Washington Precinct",15
@@ -756,7 +756,7 @@ Milt Burris,State Senate,37,R,Adams,"Dist. 5, Washington Precinct",2
 Morgan Halford Poore,State Senate,37,R,Adams,"Dist. 5, Washington Precinct",21
 Melanie Sojourner,State Senate,37,R,Adams,"Dist. 5, Washington Precinct",64
 Kevin B Wells,State Senate,37,R,Adams,"Dist. 5, Washington Precinct",7
-Sam C Mims V,State House,97,R,Adams,"Dist. 5, Washington Precinct",X
+Sam C Mims V,State House,97,R,Adams,"Dist. 5, Washington Precinct",
 Michael Brown,Governor,,D,Adams,"Dist. 5, Washington Precinct",55
 William Bond Compton Jr.,Governor,,D,Adams,"Dist. 5, Washington Precinct",2
 Jim Hood,Governor,,D,Adams,"Dist. 5, Washington Precinct",163
@@ -773,11 +773,11 @@ Addie Lee Green,State Treasurer,,D,Adams,"Dist. 5, Washington Precinct",197
 Rickey L Cole,Commissioner of Agriculture & Commerce,,D,Adams,"Dist. 5, Washington Precinct",198
 Robert E Arnos,Commissioner of Insurance,,D,Adams,"Dist. 5, Washington Precinct",202
 William E Godfrey,State Senate,37,D,Adams,"Dist. 5, Washington Precinct",203
-Kelvin E Butler,State Senate,38,D,Adams,"Dist. 5, Washington Precinct",X
-Tammy Whitherspoon,State Senate,38,D,Adams,"Dist. 5, Washington Precinct",x
+Kelvin E Butler,State Senate,38,D,Adams,"Dist. 5, Washington Precinct",
+Tammy Whitherspoon,State Senate,38,D,Adams,"Dist. 5, Washington Precinct",
 Robert L Johnson III,State House,94,D,Adams,"Dist. 5, Washington Precinct",230
-Aisha A Sanders,State House,96,D,Adams,"Dist. 5, Washington Precinct",x
-Ben Thompson,State House,97,D,Adams,"Dist. 5, Washington Precinct",x
+Aisha A Sanders,State House,96,D,Adams,"Dist. 5, Washington Precinct",
+Ben Thompson,State House,97,D,Adams,"Dist. 5, Washington Precinct",
 Robert Foster,Governor,,R,Adams,TOTAL,204
 Tate Reeves,Governor,,R,Adams,TOTAL,813
 Bill Waller Jr.,Governor,,R,Adams,TOTAL,281

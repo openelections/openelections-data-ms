@@ -1,16 +1,16 @@
 page,candidate,office,district,party,county,precinct,votes
 2,Tate Reeves,Governor,,R,Humphreys,Belzoni - 4010,6
 2,Bill Waller Jr.,Governor,,R,Humphreys,Belzoni - 4010,7
-2,Ruffin Smith,State Senate,22,D,Humphreys,Belzoni - 4010,X
-2,Joseph C Thomas Sr.,State Senate,22,D,Humphreys,Belzoni - 4010,X
+2,Ruffin Smith,State Senate,22,D,Humphreys,Belzoni - 4010,
+2,Joseph C Thomas Sr.,State Senate,22,D,Humphreys,Belzoni - 4010,
 2,Tate Reeves,Governor,,R,Humphreys,Belzoni North - 1bn 1020,6
 2,Bill Waller Jr.,Governor,,R,Humphreys,Belzoni North - 1bn 1020,4
-2,Ruffin Smith,State Senate,22,D,Humphreys,Belzoni North - 1bn 1020,X
-2,Joseph C Thomas Sr.,State Senate,22,D,Humphreys,Belzoni North - 1bn 1020,X
+2,Ruffin Smith,State Senate,22,D,Humphreys,Belzoni North - 1bn 1020,
+2,Joseph C Thomas Sr.,State Senate,22,D,Humphreys,Belzoni North - 1bn 1020,
 2,Tate Reeves,Governor,,R,Humphreys,Belzoni North - 2bn 2020,1
 2,Bill Waller Jr.,Governor,,R,Humphreys,Belzoni North - 2bn 2020,0
-2,Ruffin Smith,State Senate,22,D,Humphreys,Belzoni North - 2bn 2020,X
-2,Joseph C Thomas Sr.,State Senate,22,D,Humphreys,Belzoni North - 2bn 2020,X
+2,Ruffin Smith,State Senate,22,D,Humphreys,Belzoni North - 2bn 2020,
+2,Joseph C Thomas Sr.,State Senate,22,D,Humphreys,Belzoni North - 2bn 2020,
 2,Tate Reeves,Governor,,R,Humphreys,Belzoni South - 3bs 3010,1
 2,Bill Waller Jr.,Governor,,R,Humphreys,Belzoni South - 3bs 3010,0
 2,Ruffin Smith,State Senate,22,D,Humphreys,Belzoni South - 3bs 3010,82
@@ -21,8 +21,8 @@ page,candidate,office,district,party,county,precinct,votes
 2,Joseph C Thomas Sr.,State Senate,22,D,Humphreys,Belzoni South - 5bs 5010,108
 2,Tate Reeves,Governor,,R,Humphreys,Fourmile North - 1fn 1010,1
 2,Bill Waller Jr.,Governor,,R,Humphreys,Fourmile North - 1fn 1010,1
-2,Ruffin Smith,State Senate,22,D,Humphreys,Fourmile North - 1fn 1010,X
-2,Joseph C Thomas Sr.,State Senate,22,D,Humphreys,Fourmile North - 1fn 1010,X
+2,Ruffin Smith,State Senate,22,D,Humphreys,Fourmile North - 1fn 1010,
+2,Joseph C Thomas Sr.,State Senate,22,D,Humphreys,Fourmile North - 1fn 1010,
 2,Tate Reeves,Governor,,R,Humphreys,Gooden Lake North - 2gn 2030,5
 2,Bill Waller Jr.,Governor,,R,Humphreys,Gooden Lake North - 2gn 2030,0
 2,Ruffin Smith,State Senate,22,D,Humphreys,Gooden Lake North - 2gn 2030,17

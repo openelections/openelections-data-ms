@@ -16,9 +16,9 @@ Andy Gipson,Commissioner of Agriculture & Commerce,,R,Webster,Bellefontaine,42
 Mike Chaney,Commissioner of Insurance,,R,Webster,Bellefontaine,41
 Gary Jackson,State Senate,15,R,Webster,Bellefontaine,44
 Charles Jim Beckett,State House,23,R,Webster,Bellefontaine,39
-Joey Hood,State House,35,R,Webster,Bellefontaine,x
-William 'Billy' Tabb,State House,35,R,Webster,Bellefontaine,x
-Karl Oliver,State House,46,R,Webster,Bellefontaine,x
+Joey Hood,State House,35,R,Webster,Bellefontaine,
+William 'Billy' Tabb,State House,35,R,Webster,Bellefontaine,
+Karl Oliver,State House,46,R,Webster,Bellefontaine,
 Michael Brown,Governor,,D,Webster,Bellefontaine,10
 William Bond Compton Jr.,Governor,,D,Webster,Bellefontaine,1
 Jim Hood,Governor,,D,Webster,Bellefontaine,80
@@ -53,7 +53,7 @@ Gary Jackson,State Senate,15,R,Webster,Big Black,40
 Charles Jim Beckett,State House,23,R,Webster,Big Black,14
 Joey Hood,State House,35,R,Webster,Big Black,18
 William 'Billy' Tabb,State House,35,R,Webster,Big Black,11
-Karl Oliver,State House,46,R,Webster,Big Black,x
+Karl Oliver,State House,46,R,Webster,Big Black,
 Michael Brown,Governor,,D,Webster,Big Black,7
 William Bond Compton Jr.,Governor,,D,Webster,Big Black,1
 Jim Hood,Governor,,D,Webster,Big Black,74
@@ -85,9 +85,9 @@ David McRae,State Treasurer,,R,Webster,Bluff Springs,13
 Andy Gipson,Commissioner of Agriculture & Commerce,,R,Webster,Bluff Springs,13
 Mike Chaney,Commissioner of Insurance,,R,Webster,Bluff Springs,13
 Gary Jackson,State Senate,15,R,Webster,Bluff Springs,13
-Charles Jim Beckett,State House,23,R,Webster,Bluff Springs,x
-Joey Hood,State House,35,R,Webster,Bluff Springs,x
-William 'Billy' Tabb,State House,35,R,Webster,Bluff Springs,x
+Charles Jim Beckett,State House,23,R,Webster,Bluff Springs,
+Joey Hood,State House,35,R,Webster,Bluff Springs,
+William 'Billy' Tabb,State House,35,R,Webster,Bluff Springs,
 Karl Oliver,State House,46,R,Webster,Bluff Springs,13
 Michael Brown,Governor,,D,Webster,Bluff Springs,3
 William Bond Compton Jr.,Governor,,D,Webster,Bluff Springs,0
@@ -120,9 +120,9 @@ David McRae,State Treasurer,,R,Webster,Cadaretta,12
 Andy Gipson,Commissioner of Agriculture & Commerce,,R,Webster,Cadaretta,22
 Mike Chaney,Commissioner of Insurance,,R,Webster,Cadaretta,23
 Gary Jackson,State Senate,15,R,Webster,Cadaretta,22
-Charles Jim Beckett,State House,23,R,Webster,Cadaretta,x
-Joey Hood,State House,35,R,Webster,Cadaretta,x
-William 'Billy' Tabb,State House,35,R,Webster,Cadaretta,x
+Charles Jim Beckett,State House,23,R,Webster,Cadaretta,
+Joey Hood,State House,35,R,Webster,Cadaretta,
+William 'Billy' Tabb,State House,35,R,Webster,Cadaretta,
 Karl Oliver,State House,46,R,Webster,Cadaretta,22
 Michael Brown,Governor,,D,Webster,Cadaretta,3
 William Bond Compton Jr.,Governor,,D,Webster,Cadaretta,0
@@ -156,9 +156,9 @@ Andy Gipson,Commissioner of Agriculture & Commerce,,R,Webster,Clarkson,35
 Mike Chaney,Commissioner of Insurance,,R,Webster,Clarkson,35
 Gary Jackson,State Senate,15,R,Webster,Clarkson,36
 Charles Jim Beckett,State House,23,R,Webster,Clarkson,34
-Joey Hood,State House,35,R,Webster,Clarkson,x
-William 'Billy' Tabb,State House,35,R,Webster,Clarkson,x
-Karl Oliver,State House,46,R,Webster,Clarkson,x
+Joey Hood,State House,35,R,Webster,Clarkson,
+William 'Billy' Tabb,State House,35,R,Webster,Clarkson,
+Karl Oliver,State House,46,R,Webster,Clarkson,
 Michael Brown,Governor,,D,Webster,Clarkson,10
 William Bond Compton Jr.,Governor,,D,Webster,Clarkson,3
 Jim Hood,Governor,,D,Webster,Clarkson,97
@@ -191,9 +191,9 @@ Andy Gipson,Commissioner of Agriculture & Commerce,,R,Webster,Cumberland,18
 Mike Chaney,Commissioner of Insurance,,R,Webster,Cumberland,17
 Gary Jackson,State Senate,15,R,Webster,Cumberland,17
 Charles Jim Beckett,State House,23,R,Webster,Cumberland,17
-Joey Hood,State House,35,R,Webster,Cumberland,x
-William 'Billy' Tabb,State House,35,R,Webster,Cumberland,x
-Karl Oliver,State House,46,R,Webster,Cumberland,x
+Joey Hood,State House,35,R,Webster,Cumberland,
+William 'Billy' Tabb,State House,35,R,Webster,Cumberland,
+Karl Oliver,State House,46,R,Webster,Cumberland,
 Michael Brown,Governor,,D,Webster,Cumberland,28
 William Bond Compton Jr.,Governor,,D,Webster,Cumberland,7
 Jim Hood,Governor,,D,Webster,Cumberland,124
@@ -228,7 +228,7 @@ Gary Jackson,State Senate,15,R,Webster,Eupora No. 1,104
 Charles Jim Beckett,State House,23,R,Webster,Eupora No. 1,0
 Joey Hood,State House,35,R,Webster,Eupora No. 1,40
 William 'Billy' Tabb,State House,35,R,Webster,Eupora No. 1,77
-Karl Oliver,State House,46,R,Webster,Eupora No. 1,x
+Karl Oliver,State House,46,R,Webster,Eupora No. 1,
 Michael Brown,Governor,,D,Webster,Eupora No. 1,29
 William Bond Compton Jr.,Governor,,D,Webster,Eupora No. 1,9
 Jim Hood,Governor,,D,Webster,Eupora No. 1,307
@@ -260,10 +260,10 @@ David McRae,State Treasurer,,R,Webster,Eupora No. 2,50
 Andy Gipson,Commissioner of Agriculture & Commerce,,R,Webster,Eupora No. 2,76
 Mike Chaney,Commissioner of Insurance,,R,Webster,Eupora No. 2,77
 Gary Jackson,State Senate,15,R,Webster,Eupora No. 2,78
-Charles Jim Beckett,State House,23,R,Webster,Eupora No. 2,x
+Charles Jim Beckett,State House,23,R,Webster,Eupora No. 2,
 Joey Hood,State House,35,R,Webster,Eupora No. 2,49
 William 'Billy' Tabb,State House,35,R,Webster,Eupora No. 2,37
-Karl Oliver,State House,46,R,Webster,Eupora No. 2,x
+Karl Oliver,State House,46,R,Webster,Eupora No. 2,
 Michael Brown,Governor,,D,Webster,Eupora No. 2,12
 William Bond Compton Jr.,Governor,,D,Webster,Eupora No. 2,0
 Jim Hood,Governor,,D,Webster,Eupora No. 2,88
@@ -295,10 +295,10 @@ David McRae,State Treasurer,,R,Webster,Eupora No. 3,39
 Andy Gipson,Commissioner of Agriculture & Commerce,,R,Webster,Eupora No. 3,58
 Mike Chaney,Commissioner of Insurance,,R,Webster,Eupora No. 3,60
 Gary Jackson,State Senate,15,R,Webster,Eupora No. 3,64
-Charles Jim Beckett,State House,23,R,Webster,Eupora No. 3,x
+Charles Jim Beckett,State House,23,R,Webster,Eupora No. 3,
 Joey Hood,State House,35,R,Webster,Eupora No. 3,30
 William 'Billy' Tabb,State House,35,R,Webster,Eupora No. 3,37
-Karl Oliver,State House,46,R,Webster,Eupora No. 3,x
+Karl Oliver,State House,46,R,Webster,Eupora No. 3,
 Michael Brown,Governor,,D,Webster,Eupora No. 3,8
 William Bond Compton Jr.,Governor,,D,Webster,Eupora No. 3,1
 Jim Hood,Governor,,D,Webster,Eupora No. 3,79
@@ -331,9 +331,9 @@ Andy Gipson,Commissioner of Agriculture & Commerce,,R,Webster,Fame,49
 Mike Chaney,Commissioner of Insurance,,R,Webster,Fame,48
 Gary Jackson,State Senate,15,R,Webster,Fame,47
 Charles Jim Beckett,State House,23,R,Webster,Fame,46
-Joey Hood,State House,35,R,Webster,Fame,x
-William 'Billy' Tabb,State House,35,R,Webster,Fame,x
-Karl Oliver,State House,46,R,Webster,Fame,x
+Joey Hood,State House,35,R,Webster,Fame,
+William 'Billy' Tabb,State House,35,R,Webster,Fame,
+Karl Oliver,State House,46,R,Webster,Fame,
 Michael Brown,Governor,,D,Webster,Fame,11
 William Bond Compton Jr.,Governor,,D,Webster,Fame,3
 Jim Hood,Governor,,D,Webster,Fame,88
@@ -365,7 +365,7 @@ David McRae,State Treasurer,,R,Webster,Fay,16
 Andy Gipson,Commissioner of Agriculture & Commerce,,R,Webster,Fay,24
 Mike Chaney,Commissioner of Insurance,,R,Webster,Fay,23
 Gary Jackson,State Senate,15,R,Webster,Fay,24
-Charles Jim Beckett,State House,23,R,Webster,Fay,x
+Charles Jim Beckett,State House,23,R,Webster,Fay,
 Joey Hood,State House,35,R,Webster,Fay,0
 William 'Billy' Tabb,State House,35,R,Webster,Fay,0
 Karl Oliver,State House,46,R,Webster,Fay,25
@@ -400,10 +400,10 @@ David McRae,State Treasurer,,R,Webster,Grady,18
 Andy Gipson,Commissioner of Agriculture & Commerce,,R,Webster,Grady,38
 Mike Chaney,Commissioner of Insurance,,R,Webster,Grady,37
 Gary Jackson,State Senate,15,R,Webster,Grady,38
-Charles Jim Beckett,State House,23,R,Webster,Grady,x
+Charles Jim Beckett,State House,23,R,Webster,Grady,
 Joey Hood,State House,35,R,Webster,Grady,29
 William 'Billy' Tabb,State House,35,R,Webster,Grady,13
-Karl Oliver,State House,46,R,Webster,Grady,x
+Karl Oliver,State House,46,R,Webster,Grady,
 Michael Brown,Governor,,D,Webster,Grady,13
 William Bond Compton Jr.,Governor,,D,Webster,Grady,1
 Jim Hood,Governor,,D,Webster,Grady,86
@@ -438,7 +438,7 @@ Gary Jackson,State Senate,15,R,Webster,Maben,51
 Charles Jim Beckett,State House,23,R,Webster,Maben,0
 Joey Hood,State House,35,R,Webster,Maben,37
 William 'Billy' Tabb,State House,35,R,Webster,Maben,17
-Karl Oliver,State House,46,R,Webster,Maben,x
+Karl Oliver,State House,46,R,Webster,Maben,
 Michael Brown,Governor,,D,Webster,Maben,24
 William Bond Compton Jr.,Governor,,D,Webster,Maben,4
 Jim Hood,Governor,,D,Webster,Maben,144
@@ -471,9 +471,9 @@ Andy Gipson,Commissioner of Agriculture & Commerce,,R,Webster,Mantee,90
 Mike Chaney,Commissioner of Insurance,,R,Webster,Mantee,90
 Gary Jackson,State Senate,15,R,Webster,Mantee,87
 Charles Jim Beckett,State House,23,R,Webster,Mantee,88
-Joey Hood,State House,35,R,Webster,Mantee,x
-William 'Billy' Tabb,State House,35,R,Webster,Mantee,x
-Karl Oliver,State House,46,R,Webster,Mantee,x
+Joey Hood,State House,35,R,Webster,Mantee,
+William 'Billy' Tabb,State House,35,R,Webster,Mantee,
+Karl Oliver,State House,46,R,Webster,Mantee,
 Michael Brown,Governor,,D,Webster,Mantee,22
 William Bond Compton Jr.,Governor,,D,Webster,Mantee,5
 Jim Hood,Governor,,D,Webster,Mantee,117
@@ -505,10 +505,10 @@ David McRae,State Treasurer,,R,Webster,Mathiston,107
 Andy Gipson,Commissioner of Agriculture & Commerce,,R,Webster,Mathiston,158
 Mike Chaney,Commissioner of Insurance,,R,Webster,Mathiston,167
 Gary Jackson,State Senate,15,R,Webster,Mathiston,165
-Charles Jim Beckett,State House,23,R,Webster,Mathiston,x
+Charles Jim Beckett,State House,23,R,Webster,Mathiston,
 Joey Hood,State House,35,R,Webster,Mathiston,122
 William 'Billy' Tabb,State House,35,R,Webster,Mathiston,57
-Karl Oliver,State House,46,R,Webster,Mathiston,x
+Karl Oliver,State House,46,R,Webster,Mathiston,
 Michael Brown,Governor,,D,Webster,Mathiston,12
 William Bond Compton Jr.,Governor,,D,Webster,Mathiston,6
 Jim Hood,Governor,,D,Webster,Mathiston,121
@@ -540,10 +540,10 @@ David McRae,State Treasurer,,R,Webster,Tomnolen,26
 Andy Gipson,Commissioner of Agriculture & Commerce,,R,Webster,Tomnolen,38
 Mike Chaney,Commissioner of Insurance,,R,Webster,Tomnolen,37
 Gary Jackson,State Senate,15,R,Webster,Tomnolen,41
-Charles Jim Beckett,State House,23,R,Webster,Tomnolen,x
+Charles Jim Beckett,State House,23,R,Webster,Tomnolen,
 Joey Hood,State House,35,R,Webster,Tomnolen,28
 William 'Billy' Tabb,State House,35,R,Webster,Tomnolen,15
-Karl Oliver,State House,46,R,Webster,Tomnolen,x
+Karl Oliver,State House,46,R,Webster,Tomnolen,
 Michael Brown,Governor,,D,Webster,Tomnolen,9
 William Bond Compton Jr.,Governor,,D,Webster,Tomnolen,3
 Jim Hood,Governor,,D,Webster,Tomnolen,156
@@ -578,7 +578,7 @@ Gary Jackson,State Senate,15,R,Webster,Walthall,72
 Charles Jim Beckett,State House,23,R,Webster,Walthall,61
 Joey Hood,State House,35,R,Webster,Walthall,2
 William 'Billy' Tabb,State House,35,R,Webster,Walthall,6
-Karl Oliver,State House,46,R,Webster,Walthall,x
+Karl Oliver,State House,46,R,Webster,Walthall,
 Michael Brown,Governor,,D,Webster,Walthall,17
 William Bond Compton Jr.,Governor,,D,Webster,Walthall,8
 Jim Hood,Governor,,D,Webster,Walthall,133

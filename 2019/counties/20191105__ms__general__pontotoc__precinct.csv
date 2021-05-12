@@ -20,8 +20,8 @@ Kegan Coleman,State Senate,8,D,Pontotoc,Algoma Al,66
 Benjamin A Suber,State Senate,8,R,Pontotoc,Algoma Al,14
 E Mac Huddleston,State House,15,R,Pontotoc,Algoma Al,256
 Pat Montgomery,State House,15,D,Pontotoc,Algoma Al,156
-Thomas 'Tommy' Futral,State House,22,R,Pontotoc,Algoma Al,x
-Jon Lancaster,State House,22,D,Pontotoc,Algoma Al,x
+Thomas 'Tommy' Futral,State House,22,R,Pontotoc,Algoma Al,
+Jon Lancaster,State House,22,D,Pontotoc,Algoma Al,
 Jim Hood,Governor,,D,Pontotoc,Bankhead Ba,250
 Tate Reeves,Governor,,R,Pontotoc,Bankhead Ba,228
 Bob Hickingbottom,Governor,,C,Pontotoc,Bankhead Ba,1
@@ -39,10 +39,10 @@ Rickey L Cole,Commissioner of Agriculture & Commerce,,D,Pontotoc,Bankhead Ba,223
 Andy Gipson,Commissioner of Agriculture & Commerce,,R,Pontotoc,Bankhead Ba,241
 Kathy L Chism,State Senate,3,R,Pontotoc,Bankhead Ba,226
 Tim Tucker,State Senate,3,D,Pontotoc,Bankhead Ba,238
-Kegan Coleman,State Senate,8,D,Pontotoc,Bankhead Ba,x
-Benjamin A Suber,State Senate,8,R,Pontotoc,Bankhead Ba,x
-E Mac Huddleston,State House,15,R,Pontotoc,Bankhead Ba,x
-Pat Montgomery,State House,15,D,Pontotoc,Bankhead Ba,x
+Kegan Coleman,State Senate,8,D,Pontotoc,Bankhead Ba,
+Benjamin A Suber,State Senate,8,R,Pontotoc,Bankhead Ba,
+E Mac Huddleston,State House,15,R,Pontotoc,Bankhead Ba,
+Pat Montgomery,State House,15,D,Pontotoc,Bankhead Ba,
 Thomas 'Tommy' Futral,State House,22,R,Pontotoc,Bankhead Ba,238
 Jon Lancaster,State House,22,D,Pontotoc,Bankhead Ba,224
 Jim Hood,Governor,,D,Pontotoc,Beckham Bec,116
@@ -60,12 +60,12 @@ Addie Lee Green,State Treasurer,,D,Pontotoc,Beckham Bec,64
 David McRae,State Treasurer,,R,Pontotoc,Beckham Bec,299
 Rickey L Cole,Commissioner of Agriculture & Commerce,,D,Pontotoc,Beckham Bec,80
 Andy Gipson,Commissioner of Agriculture & Commerce,,R,Pontotoc,Beckham Bec,282
-Kathy L Chism,State Senate,3,R,Pontotoc,Beckham Bec,x
-Tim Tucker,State Senate,3,D,Pontotoc,Beckham Bec,x
+Kathy L Chism,State Senate,3,R,Pontotoc,Beckham Bec,
+Tim Tucker,State Senate,3,D,Pontotoc,Beckham Bec,
 Kegan Coleman,State Senate,8,D,Pontotoc,Beckham Bec,85
 Benjamin A Suber,State Senate,8,R,Pontotoc,Beckham Bec,278
-E Mac Huddleston,State House,15,R,Pontotoc,Beckham Bec,x
-Pat Montgomery,State House,15,D,Pontotoc,Beckham Bec,x
+E Mac Huddleston,State House,15,R,Pontotoc,Beckham Bec,
+Pat Montgomery,State House,15,D,Pontotoc,Beckham Bec,
 Thomas 'Tommy' Futral,State House,22,R,Pontotoc,Beckham Bec,257
 Jon Lancaster,State House,22,D,Pontotoc,Beckham Bec,103
 Jim Hood,Governor,,D,Pontotoc,Bethel/Endville Be,92
@@ -85,12 +85,12 @@ Rickey L Cole,Commissioner of Agriculture & Commerce,,D,Pontotoc,Bethel/Endville
 Andy Gipson,Commissioner of Agriculture & Commerce,,R,Pontotoc,Bethel/Endville Be,307
 Kathy L Chism,State Senate,3,R,Pontotoc,Bethel/Endville Be,303
 Tim Tucker,State Senate,3,D,Pontotoc,Bethel/Endville Be,79
-Kegan Coleman,State Senate,8,D,Pontotoc,Bethel/Endville Be,x
-Benjamin A Suber,State Senate,8,R,Pontotoc,Bethel/Endville Be,x
+Kegan Coleman,State Senate,8,D,Pontotoc,Bethel/Endville Be,
+Benjamin A Suber,State Senate,8,R,Pontotoc,Bethel/Endville Be,
 E Mac Huddleston,State House,15,R,Pontotoc,Bethel/Endville Be,317
 Pat Montgomery,State House,15,D,Pontotoc,Bethel/Endville Be,66
-Thomas 'Tommy' Futral,State House,22,R,Pontotoc,Bethel/Endville Be,x
-Jon Lancaster,State House,22,D,Pontotoc,Bethel/Endville Be,x
+Thomas 'Tommy' Futral,State House,22,R,Pontotoc,Bethel/Endville Be,
+Jon Lancaster,State House,22,D,Pontotoc,Bethel/Endville Be,
 Jim Hood,Governor,,D,Pontotoc,Buchanan Bu,57
 Tate Reeves,Governor,,R,Pontotoc,Buchanan Bu,250
 Bob Hickingbottom,Governor,,C,Pontotoc,Buchanan Bu,0
@@ -109,11 +109,11 @@ Andy Gipson,Commissioner of Agriculture & Commerce,,R,Pontotoc,Buchanan Bu,260
 Kathy L Chism,State Senate,3,R,Pontotoc,Buchanan Bu,247
 Tim Tucker,State Senate,3,D,Pontotoc,Buchanan Bu,53
 Kegan Coleman,State Senate,8,D,Pontotoc,Buchanan Bu,
-Benjamin A Suber,State Senate,8,R,Pontotoc,Buchanan Bu,x
+Benjamin A Suber,State Senate,8,R,Pontotoc,Buchanan Bu,
 E Mac Huddleston,State House,15,R,Pontotoc,Buchanan Bu,259
 Pat Montgomery,State House,15,D,Pontotoc,Buchanan Bu,43
-Thomas 'Tommy' Futral,State House,22,R,Pontotoc,Buchanan Bu,x
-Jon Lancaster,State House,22,D,Pontotoc,Buchanan Bu,x
+Thomas 'Tommy' Futral,State House,22,R,Pontotoc,Buchanan Bu,
+Jon Lancaster,State House,22,D,Pontotoc,Buchanan Bu,
 Jim Hood,Governor,,D,Pontotoc,Cherry Creek Cc,81
 Tate Reeves,Governor,,R,Pontotoc,Cherry Creek Cc,314
 Bob Hickingbottom,Governor,,C,Pontotoc,Cherry Creek Cc,0
@@ -131,12 +131,12 @@ Rickey L Cole,Commissioner of Agriculture & Commerce,,D,Pontotoc,Cherry Creek Cc
 Andy Gipson,Commissioner of Agriculture & Commerce,,R,Pontotoc,Cherry Creek Cc,341
 Kathy L Chism,State Senate,3,R,Pontotoc,Cherry Creek Cc,327
 Tim Tucker,State Senate,3,D,Pontotoc,Cherry Creek Cc,66
-Kegan Coleman,State Senate,8,D,Pontotoc,Cherry Creek Cc,x
-Benjamin A Suber,State Senate,8,R,Pontotoc,Cherry Creek Cc,x
+Kegan Coleman,State Senate,8,D,Pontotoc,Cherry Creek Cc,
+Benjamin A Suber,State Senate,8,R,Pontotoc,Cherry Creek Cc,
 E Mac Huddleston,State House,15,R,Pontotoc,Cherry Creek Cc,316
 Pat Montgomery,State House,15,D,Pontotoc,Cherry Creek Cc,77
-Thomas 'Tommy' Futral,State House,22,R,Pontotoc,Cherry Creek Cc,x
-Jon Lancaster,State House,22,D,Pontotoc,Cherry Creek Cc,x
+Thomas 'Tommy' Futral,State House,22,R,Pontotoc,Cherry Creek Cc,
+Jon Lancaster,State House,22,D,Pontotoc,Cherry Creek Cc,
 Jim Hood,Governor,,D,Pontotoc,Ecru Ec,151
 Tate Reeves,Governor,,R,Pontotoc,Ecru Ec,310
 Bob Hickingbottom,Governor,,C,Pontotoc,Ecru Ec,2
@@ -154,12 +154,12 @@ Rickey L Cole,Commissioner of Agriculture & Commerce,,D,Pontotoc,Ecru Ec,121
 Andy Gipson,Commissioner of Agriculture & Commerce,,R,Pontotoc,Ecru Ec,349
 Kathy L Chism,State Senate,3,R,Pontotoc,Ecru Ec,343
 Tim Tucker,State Senate,3,D,Pontotoc,Ecru Ec,127
-Kegan Coleman,State Senate,8,D,Pontotoc,Ecru Ec,x
-Benjamin A Suber,State Senate,8,R,Pontotoc,Ecru Ec,x
+Kegan Coleman,State Senate,8,D,Pontotoc,Ecru Ec,
+Benjamin A Suber,State Senate,8,R,Pontotoc,Ecru Ec,
 E Mac Huddleston,State House,15,R,Pontotoc,Ecru Ec,325
 Pat Montgomery,State House,15,D,Pontotoc,Ecru Ec,149
-Thomas 'Tommy' Futral,State House,22,R,Pontotoc,Ecru Ec,x
-Jon Lancaster,State House,22,D,Pontotoc,Ecru Ec,x
+Thomas 'Tommy' Futral,State House,22,R,Pontotoc,Ecru Ec,
+Jon Lancaster,State House,22,D,Pontotoc,Ecru Ec,
 Jim Hood,Governor,,D,Pontotoc,Friendship Fr,38
 Tate Reeves,Governor,,R,Pontotoc,Friendship Fr,116
 Bob Hickingbottom,Governor,,C,Pontotoc,Friendship Fr,0
@@ -177,12 +177,12 @@ Rickey L Cole,Commissioner of Agriculture & Commerce,,D,Pontotoc,Friendship Fr,2
 Andy Gipson,Commissioner of Agriculture & Commerce,,R,Pontotoc,Friendship Fr,127
 Kathy L Chism,State Senate,3,R,Pontotoc,Friendship Fr,122
 Tim Tucker,State Senate,3,D,Pontotoc,Friendship Fr,30
-Kegan Coleman,State Senate,8,D,Pontotoc,Friendship Fr,x
-Benjamin A Suber,State Senate,8,R,Pontotoc,Friendship Fr,x
+Kegan Coleman,State Senate,8,D,Pontotoc,Friendship Fr,
+Benjamin A Suber,State Senate,8,R,Pontotoc,Friendship Fr,
 E Mac Huddleston,State House,15,R,Pontotoc,Friendship Fr,120
 Pat Montgomery,State House,15,D,Pontotoc,Friendship Fr,35
-Thomas 'Tommy' Futral,State House,22,R,Pontotoc,Friendship Fr,x
-Jon Lancaster,State House,22,D,Pontotoc,Friendship Fr,x
+Thomas 'Tommy' Futral,State House,22,R,Pontotoc,Friendship Fr,
+Jon Lancaster,State House,22,D,Pontotoc,Friendship Fr,
 Jim Hood,Governor,,D,Pontotoc,Hoyle Ho,239
 Tate Reeves,Governor,,R,Pontotoc,Hoyle Ho,244
 Bob Hickingbottom,Governor,,C,Pontotoc,Hoyle Ho,0
@@ -200,10 +200,10 @@ Rickey L Cole,Commissioner of Agriculture & Commerce,,D,Pontotoc,Hoyle Ho,214
 Andy Gipson,Commissioner of Agriculture & Commerce,,R,Pontotoc,Hoyle Ho,253
 Kathy L Chism,State Senate,3,R,Pontotoc,Hoyle Ho,251
 Tim Tucker,State Senate,3,D,Pontotoc,Hoyle Ho,216
-Kegan Coleman,State Senate,8,D,Pontotoc,Hoyle Ho,x
-Benjamin A Suber,State Senate,8,R,Pontotoc,Hoyle Ho,x
-E Mac Huddleston,State House,15,R,Pontotoc,Hoyle Ho,x
-Pat Montgomery,State House,15,D,Pontotoc,Hoyle Ho,x
+Kegan Coleman,State Senate,8,D,Pontotoc,Hoyle Ho,
+Benjamin A Suber,State Senate,8,R,Pontotoc,Hoyle Ho,
+E Mac Huddleston,State House,15,R,Pontotoc,Hoyle Ho,
+Pat Montgomery,State House,15,D,Pontotoc,Hoyle Ho,
 Thomas 'Tommy' Futral,State House,22,R,Pontotoc,Hoyle Ho,252
 Jon Lancaster,State House,22,D,Pontotoc,Hoyle Ho,209
 Jim Hood,Governor,,D,Pontotoc,Hurricane Hu,60
@@ -223,12 +223,12 @@ Rickey L Cole,Commissioner of Agriculture & Commerce,,D,Pontotoc,Hurricane Hu,36
 Andy Gipson,Commissioner of Agriculture & Commerce,,R,Pontotoc,Hurricane Hu,274
 Kathy L Chism,State Senate,3,R,Pontotoc,Hurricane Hu,261
 Tim Tucker,State Senate,3,D,Pontotoc,Hurricane Hu,48
-Kegan Coleman,State Senate,8,D,Pontotoc,Hurricane Hu,x
-Benjamin A Suber,State Senate,8,R,Pontotoc,Hurricane Hu,x
+Kegan Coleman,State Senate,8,D,Pontotoc,Hurricane Hu,
+Benjamin A Suber,State Senate,8,R,Pontotoc,Hurricane Hu,
 E Mac Huddleston,State House,15,R,Pontotoc,Hurricane Hu,257
 Pat Montgomery,State House,15,D,Pontotoc,Hurricane Hu,56
-Thomas 'Tommy' Futral,State House,22,R,Pontotoc,Hurricane Hu,x
-Jon Lancaster,State House,22,D,Pontotoc,Hurricane Hu,x
+Thomas 'Tommy' Futral,State House,22,R,Pontotoc,Hurricane Hu,
+Jon Lancaster,State House,22,D,Pontotoc,Hurricane Hu,
 Jim Hood,Governor,,D,Pontotoc,Judah Ju,51
 Tate Reeves,Governor,,R,Pontotoc,Judah Ju,167
 Bob Hickingbottom,Governor,,C,Pontotoc,Judah Ju,0
@@ -244,14 +244,14 @@ Addie Lee Green,State Treasurer,,D,Pontotoc,Judah Ju,16
 David McRae,State Treasurer,,R,Pontotoc,Judah Ju,193
 Rickey L Cole,Commissioner of Agriculture & Commerce,,D,Pontotoc,Judah Ju,29
 Andy Gipson,Commissioner of Agriculture & Commerce,,R,Pontotoc,Judah Ju,176
-Kathy L Chism,State Senate,3,R,Pontotoc,Judah Ju,x
-Tim Tucker,State Senate,3,D,Pontotoc,Judah Ju,x
+Kathy L Chism,State Senate,3,R,Pontotoc,Judah Ju,
+Tim Tucker,State Senate,3,D,Pontotoc,Judah Ju,
 Kegan Coleman,State Senate,8,D,Pontotoc,Judah Ju,31
 Benjamin A Suber,State Senate,8,R,Pontotoc,Judah Ju,177
 E Mac Huddleston,State House,15,R,Pontotoc,Judah Ju,174
 Pat Montgomery,State House,15,D,Pontotoc,Judah Ju,36
-Thomas 'Tommy' Futral,State House,22,R,Pontotoc,Judah Ju,x
-Jon Lancaster,State House,22,D,Pontotoc,Judah Ju,x
+Thomas 'Tommy' Futral,State House,22,R,Pontotoc,Judah Ju,
+Jon Lancaster,State House,22,D,Pontotoc,Judah Ju,
 Jim Hood,Governor,,D,Pontotoc,Longview Lo,102
 Tate Reeves,Governor,,R,Pontotoc,Longview Lo,108
 Bob Hickingbottom,Governor,,C,Pontotoc,Longview Lo,0
@@ -269,10 +269,10 @@ Rickey L Cole,Commissioner of Agriculture & Commerce,,D,Pontotoc,Longview Lo,96
 Andy Gipson,Commissioner of Agriculture & Commerce,,R,Pontotoc,Longview Lo,109
 Kathy L Chism,State Senate,3,R,Pontotoc,Longview Lo,109
 Tim Tucker,State Senate,3,D,Pontotoc,Longview Lo,95
-Kegan Coleman,State Senate,8,D,Pontotoc,Longview Lo,x
-Benjamin A Suber,State Senate,8,R,Pontotoc,Longview Lo,x
-E Mac Huddleston,State House,15,R,Pontotoc,Longview Lo,x
-Pat Montgomery,State House,15,D,Pontotoc,Longview Lo,x
+Kegan Coleman,State Senate,8,D,Pontotoc,Longview Lo,
+Benjamin A Suber,State Senate,8,R,Pontotoc,Longview Lo,
+E Mac Huddleston,State House,15,R,Pontotoc,Longview Lo,
+Pat Montgomery,State House,15,D,Pontotoc,Longview Lo,
 Thomas 'Tommy' Futral,State House,22,R,Pontotoc,Longview Lo,110
 Jon Lancaster,State House,22,D,Pontotoc,Longview Lo,94
 Jim Hood,Governor,,D,Pontotoc,Oakhill Oh,45
@@ -292,12 +292,12 @@ Rickey L Cole,Commissioner of Agriculture & Commerce,,D,Pontotoc,Oakhill Oh,36
 Andy Gipson,Commissioner of Agriculture & Commerce,,R,Pontotoc,Oakhill Oh,182
 Kathy L Chism,State Senate,3,R,Pontotoc,Oakhill Oh,174
 Tim Tucker,State Senate,3,D,Pontotoc,Oakhill Oh,45
-Kegan Coleman,State Senate,8,D,Pontotoc,Oakhill Oh,x
-Benjamin A Suber,State Senate,8,R,Pontotoc,Oakhill Oh,x
+Kegan Coleman,State Senate,8,D,Pontotoc,Oakhill Oh,
+Benjamin A Suber,State Senate,8,R,Pontotoc,Oakhill Oh,
 E Mac Huddleston,State House,15,R,Pontotoc,Oakhill Oh,181
 Pat Montgomery,State House,15,D,Pontotoc,Oakhill Oh,38
-Thomas 'Tommy' Futral,State House,22,R,Pontotoc,Oakhill Oh,x
-Jon Lancaster,State House,22,D,Pontotoc,Oakhill Oh,x
+Thomas 'Tommy' Futral,State House,22,R,Pontotoc,Oakhill Oh,
+Jon Lancaster,State House,22,D,Pontotoc,Oakhill Oh,
 Jim Hood,Governor,,D,Pontotoc,Pontotoc 1 P1,81
 Tate Reeves,Governor,,R,Pontotoc,Pontotoc 1 P1,201
 Bob Hickingbottom,Governor,,C,Pontotoc,Pontotoc 1 P1,0
@@ -315,12 +315,12 @@ Rickey L Cole,Commissioner of Agriculture & Commerce,,D,Pontotoc,Pontotoc 1 P1,6
 Andy Gipson,Commissioner of Agriculture & Commerce,,R,Pontotoc,Pontotoc 1 P1,214
 Kathy L Chism,State Senate,3,R,Pontotoc,Pontotoc 1 P1,198
 Tim Tucker,State Senate,3,D,Pontotoc,Pontotoc 1 P1,84
-Kegan Coleman,State Senate,8,D,Pontotoc,Pontotoc 1 P1,x
-Benjamin A Suber,State Senate,8,R,Pontotoc,Pontotoc 1 P1,x
+Kegan Coleman,State Senate,8,D,Pontotoc,Pontotoc 1 P1,
+Benjamin A Suber,State Senate,8,R,Pontotoc,Pontotoc 1 P1,
 E Mac Huddleston,State House,15,R,Pontotoc,Pontotoc 1 P1,225
 Pat Montgomery,State House,15,D,Pontotoc,Pontotoc 1 P1,60
-Thomas 'Tommy' Futral,State House,22,R,Pontotoc,Pontotoc 1 P1,x
-Jon Lancaster,State House,22,D,Pontotoc,Pontotoc 1 P1,x
+Thomas 'Tommy' Futral,State House,22,R,Pontotoc,Pontotoc 1 P1,
+Jon Lancaster,State House,22,D,Pontotoc,Pontotoc 1 P1,
 Jim Hood,Governor,,D,Pontotoc,Pontotoc 2 P2,102
 Tate Reeves,Governor,,R,Pontotoc,Pontotoc 2 P2,231
 Bob Hickingbottom,Governor,,C,Pontotoc,Pontotoc 2 P2,1
@@ -338,12 +338,12 @@ Rickey L Cole,Commissioner of Agriculture & Commerce,,D,Pontotoc,Pontotoc 2 P2,8
 Andy Gipson,Commissioner of Agriculture & Commerce,,R,Pontotoc,Pontotoc 2 P2,251
 Kathy L Chism,State Senate,3,R,Pontotoc,Pontotoc 2 P2,238
 Tim Tucker,State Senate,3,D,Pontotoc,Pontotoc 2 P2,95
-Kegan Coleman,State Senate,8,D,Pontotoc,Pontotoc 2 P2,x
-Benjamin A Suber,State Senate,8,R,Pontotoc,Pontotoc 2 P2,x
+Kegan Coleman,State Senate,8,D,Pontotoc,Pontotoc 2 P2,
+Benjamin A Suber,State Senate,8,R,Pontotoc,Pontotoc 2 P2,
 E Mac Huddleston,State House,15,R,Pontotoc,Pontotoc 2 P2,229
 Pat Montgomery,State House,15,D,Pontotoc,Pontotoc 2 P2,106
-Thomas 'Tommy' Futral,State House,22,R,Pontotoc,Pontotoc 2 P2,x
-Jon Lancaster,State House,22,D,Pontotoc,Pontotoc 2 P2,x
+Thomas 'Tommy' Futral,State House,22,R,Pontotoc,Pontotoc 2 P2,
+Jon Lancaster,State House,22,D,Pontotoc,Pontotoc 2 P2,
 Jim Hood,Governor,,D,Pontotoc,Pontotoc 3 P3,237
 Tate Reeves,Governor,,R,Pontotoc,Pontotoc 3 P3,379
 Bob Hickingbottom,Governor,,C,Pontotoc,Pontotoc 3 P3,2
@@ -361,12 +361,12 @@ Rickey L Cole,Commissioner of Agriculture & Commerce,,D,Pontotoc,Pontotoc 3 P3,1
 Andy Gipson,Commissioner of Agriculture & Commerce,,R,Pontotoc,Pontotoc 3 P3,448
 Kathy L Chism,State Senate,3,R,Pontotoc,Pontotoc 3 P3,405
 Tim Tucker,State Senate,3,D,Pontotoc,Pontotoc 3 P3,204
-Kegan Coleman,State Senate,8,D,Pontotoc,Pontotoc 3 P3,x
-Benjamin A Suber,State Senate,8,R,Pontotoc,Pontotoc 3 P3,x
+Kegan Coleman,State Senate,8,D,Pontotoc,Pontotoc 3 P3,
+Benjamin A Suber,State Senate,8,R,Pontotoc,Pontotoc 3 P3,
 E Mac Huddleston,State House,15,R,Pontotoc,Pontotoc 3 P3,449
 Pat Montgomery,State House,15,D,Pontotoc,Pontotoc 3 P3,170
-Thomas 'Tommy' Futral,State House,22,R,Pontotoc,Pontotoc 3 P3,x
-Jon Lancaster,State House,22,D,Pontotoc,Pontotoc 3 P3,x
+Thomas 'Tommy' Futral,State House,22,R,Pontotoc,Pontotoc 3 P3,
+Jon Lancaster,State House,22,D,Pontotoc,Pontotoc 3 P3,
 Jim Hood,Governor,,D,Pontotoc,Pontotoc 4 P4,158
 Tate Reeves,Governor,,R,Pontotoc,Pontotoc 4 P4,233
 Bob Hickingbottom,Governor,,C,Pontotoc,Pontotoc 4 P4,0
@@ -388,8 +388,8 @@ Kegan Coleman,State Senate,8,D,Pontotoc,Pontotoc 4 P4,0
 Benjamin A Suber,State Senate,8,R,Pontotoc,Pontotoc 4 P4,7
 E Mac Huddleston,State House,15,R,Pontotoc,Pontotoc 4 P4,247
 Pat Montgomery,State House,15,D,Pontotoc,Pontotoc 4 P4,138
-Thomas 'Tommy' Futral,State House,22,R,Pontotoc,Pontotoc 4 P4,x
-Jon Lancaster,State House,22,D,Pontotoc,Pontotoc 4 P4,x
+Thomas 'Tommy' Futral,State House,22,R,Pontotoc,Pontotoc 4 P4,
+Jon Lancaster,State House,22,D,Pontotoc,Pontotoc 4 P4,
 Jim Hood,Governor,,D,Pontotoc,Pontotoc 5 P5,298
 Tate Reeves,Governor,,R,Pontotoc,Pontotoc 5 P5,460
 Bob Hickingbottom,Governor,,C,Pontotoc,Pontotoc 5 P5,0
@@ -407,12 +407,12 @@ Rickey L Cole,Commissioner of Agriculture & Commerce,,D,Pontotoc,Pontotoc 5 P5,1
 Andy Gipson,Commissioner of Agriculture & Commerce,,R,Pontotoc,Pontotoc 5 P5,540
 Kathy L Chism,State Senate,3,R,Pontotoc,Pontotoc 5 P5,495
 Tim Tucker,State Senate,3,D,Pontotoc,Pontotoc 5 P5,253
-Kegan Coleman,State Senate,8,D,Pontotoc,Pontotoc 5 P5,x
-Benjamin A Suber,State Senate,8,R,Pontotoc,Pontotoc 5 P5,x
+Kegan Coleman,State Senate,8,D,Pontotoc,Pontotoc 5 P5,
+Benjamin A Suber,State Senate,8,R,Pontotoc,Pontotoc 5 P5,
 E Mac Huddleston,State House,15,R,Pontotoc,Pontotoc 5 P5,535
 Pat Montgomery,State House,15,D,Pontotoc,Pontotoc 5 P5,219
-Thomas 'Tommy' Futral,State House,22,R,Pontotoc,Pontotoc 5 P5,x
-Jon Lancaster,State House,22,D,Pontotoc,Pontotoc 5 P5,x
+Thomas 'Tommy' Futral,State House,22,R,Pontotoc,Pontotoc 5 P5,
+Jon Lancaster,State House,22,D,Pontotoc,Pontotoc 5 P5,
 Jim Hood,Governor,,D,Pontotoc,Randolph,81
 Tate Reeves,Governor,,R,Pontotoc,Randolph,387
 Bob Hickingbottom,Governor,,C,Pontotoc,Randolph,1
@@ -428,14 +428,14 @@ Addie Lee Green,State Treasurer,,D,Pontotoc,Randolph,30
 David McRae,State Treasurer,,R,Pontotoc,Randolph,438
 Rickey L Cole,Commissioner of Agriculture & Commerce,,D,Pontotoc,Randolph,55
 Andy Gipson,Commissioner of Agriculture & Commerce,,R,Pontotoc,Randolph,413
-Kathy L Chism,State Senate,3,R,Pontotoc,Randolph,x
-Tim Tucker,State Senate,3,D,Pontotoc,Randolph,x
+Kathy L Chism,State Senate,3,R,Pontotoc,Randolph,
+Tim Tucker,State Senate,3,D,Pontotoc,Randolph,
 Kegan Coleman,State Senate,8,D,Pontotoc,Randolph,60
 Benjamin A Suber,State Senate,8,R,Pontotoc,Randolph,404
 E Mac Huddleston,State House,15,R,Pontotoc,Randolph,372
 Pat Montgomery,State House,15,D,Pontotoc,Randolph,99
-Thomas 'Tommy' Futral,State House,22,R,Pontotoc,Randolph,x
-Jon Lancaster,State House,22,D,Pontotoc,Randolph,x
+Thomas 'Tommy' Futral,State House,22,R,Pontotoc,Randolph,
+Jon Lancaster,State House,22,D,Pontotoc,Randolph,
 Jim Hood,Governor,,D,Pontotoc,Robbs Ro,18
 Tate Reeves,Governor,,R,Pontotoc,Robbs Ro,31
 Bob Hickingbottom,Governor,,C,Pontotoc,Robbs Ro,0
@@ -451,14 +451,14 @@ Addie Lee Green,State Treasurer,,D,Pontotoc,Robbs Ro,9
 David McRae,State Treasurer,,R,Pontotoc,Robbs Ro,38
 Rickey L Cole,Commissioner of Agriculture & Commerce,,D,Pontotoc,Robbs Ro,14
 Andy Gipson,Commissioner of Agriculture & Commerce,,R,Pontotoc,Robbs Ro,34
-Kathy L Chism,State Senate,3,R,Pontotoc,Robbs Ro,x
-Tim Tucker,State Senate,3,D,Pontotoc,Robbs Ro,x
+Kathy L Chism,State Senate,3,R,Pontotoc,Robbs Ro,
+Tim Tucker,State Senate,3,D,Pontotoc,Robbs Ro,
 Kegan Coleman,State Senate,8,D,Pontotoc,Robbs Ro,18
 Benjamin A Suber,State Senate,8,R,Pontotoc,Robbs Ro,33
 E Mac Huddleston,State House,15,R,Pontotoc,Robbs Ro,32
 Pat Montgomery,State House,15,D,Pontotoc,Robbs Ro,16
-Thomas 'Tommy' Futral,State House,22,R,Pontotoc,Robbs Ro,x
-Jon Lancaster,State House,22,D,Pontotoc,Robbs Ro,x
+Thomas 'Tommy' Futral,State House,22,R,Pontotoc,Robbs Ro,
+Jon Lancaster,State House,22,D,Pontotoc,Robbs Ro,
 Jim Hood,Governor,,D,Pontotoc,Sherman Sh,41
 Tate Reeves,Governor,,R,Pontotoc,Sherman Sh,185
 Bob Hickingbottom,Governor,,C,Pontotoc,Sherman Sh,1
@@ -476,12 +476,12 @@ Rickey L Cole,Commissioner of Agriculture & Commerce,,D,Pontotoc,Sherman Sh,31
 Andy Gipson,Commissioner of Agriculture & Commerce,,R,Pontotoc,Sherman Sh,194
 Kathy L Chism,State Senate,3,R,Pontotoc,Sherman Sh,194
 Tim Tucker,State Senate,3,D,Pontotoc,Sherman Sh,29
-Kegan Coleman,State Senate,8,D,Pontotoc,Sherman Sh,x
-Benjamin A Suber,State Senate,8,R,Pontotoc,Sherman Sh,x
+Kegan Coleman,State Senate,8,D,Pontotoc,Sherman Sh,
+Benjamin A Suber,State Senate,8,R,Pontotoc,Sherman Sh,
 E Mac Huddleston,State House,15,R,Pontotoc,Sherman Sh,190
 Pat Montgomery,State House,15,D,Pontotoc,Sherman Sh,35
-Thomas 'Tommy' Futral,State House,22,R,Pontotoc,Sherman Sh,x
-Jon Lancaster,State House,22,D,Pontotoc,Sherman Sh,x
+Thomas 'Tommy' Futral,State House,22,R,Pontotoc,Sherman Sh,
+Jon Lancaster,State House,22,D,Pontotoc,Sherman Sh,
 Jim Hood,Governor,,D,Pontotoc,Springville Sp,141
 Tate Reeves,Governor,,R,Pontotoc,Springville Sp,325
 Bob Hickingbottom,Governor,,C,Pontotoc,Springville Sp,1
@@ -503,8 +503,8 @@ Kegan Coleman,State Senate,8,D,Pontotoc,Springville Sp,93
 Benjamin A Suber,State Senate,8,R,Pontotoc,Springville Sp,288
 E Mac Huddleston,State House,15,R,Pontotoc,Springville Sp,284
 Pat Montgomery,State House,15,D,Pontotoc,Springville Sp,188
-Thomas 'Tommy' Futral,State House,22,R,Pontotoc,Springville Sp,x
-Jon Lancaster,State House,22,D,Pontotoc,Springville Sp,x
+Thomas 'Tommy' Futral,State House,22,R,Pontotoc,Springville Sp,
+Jon Lancaster,State House,22,D,Pontotoc,Springville Sp,
 Jim Hood,Governor,,D,Pontotoc,Thaxton Th,89
 Tate Reeves,Governor,,R,Pontotoc,Thaxton Th,282
 Bob Hickingbottom,Governor,,C,Pontotoc,Thaxton Th,0
@@ -520,14 +520,14 @@ Addie Lee Green,State Treasurer,,D,Pontotoc,Thaxton Th,38
 David McRae,State Treasurer,,R,Pontotoc,Thaxton Th,328
 Rickey L Cole,Commissioner of Agriculture & Commerce,,D,Pontotoc,Thaxton Th,49
 Andy Gipson,Commissioner of Agriculture & Commerce,,R,Pontotoc,Thaxton Th,316
-Kathy L Chism,State Senate,3,R,Pontotoc,Thaxton Th,x
-Tim Tucker,State Senate,3,D,Pontotoc,Thaxton Th,x
+Kathy L Chism,State Senate,3,R,Pontotoc,Thaxton Th,
+Tim Tucker,State Senate,3,D,Pontotoc,Thaxton Th,
 Kegan Coleman,State Senate,8,D,Pontotoc,Thaxton Th,55
 Benjamin A Suber,State Senate,8,R,Pontotoc,Thaxton Th,316
 E Mac Huddleston,State House,15,R,Pontotoc,Thaxton Th,293
 Pat Montgomery,State House,15,D,Pontotoc,Thaxton Th,76
-Thomas 'Tommy' Futral,State House,22,R,Pontotoc,Thaxton Th,x
-Jon Lancaster,State House,22,D,Pontotoc,Thaxton Th,x
+Thomas 'Tommy' Futral,State House,22,R,Pontotoc,Thaxton Th,
+Jon Lancaster,State House,22,D,Pontotoc,Thaxton Th,
 Jim Hood,Governor,,D,Pontotoc,Toccopola To,42
 Tate Reeves,Governor,,R,Pontotoc,Toccopola To,112
 Bob Hickingbottom,Governor,,C,Pontotoc,Toccopola To,1
@@ -543,14 +543,14 @@ Addie Lee Green,State Treasurer,,D,Pontotoc,Toccopola To,27
 David McRae,State Treasurer,,R,Pontotoc,Toccopola To,124
 Rickey L Cole,Commissioner of Agriculture & Commerce,,D,Pontotoc,Toccopola To,38
 Andy Gipson,Commissioner of Agriculture & Commerce,,R,Pontotoc,Toccopola To,115
-Kathy L Chism,State Senate,3,R,Pontotoc,Toccopola To,x
-Tim Tucker,State Senate,3,D,Pontotoc,Toccopola To,x
+Kathy L Chism,State Senate,3,R,Pontotoc,Toccopola To,
+Tim Tucker,State Senate,3,D,Pontotoc,Toccopola To,
 Kegan Coleman,State Senate,8,D,Pontotoc,Toccopola To,36
 Benjamin A Suber,State Senate,8,R,Pontotoc,Toccopola To,116
 E Mac Huddleston,State House,15,R,Pontotoc,Toccopola To,104
 Pat Montgomery,State House,15,D,Pontotoc,Toccopola To,52
-Thomas 'Tommy' Futral,State House,22,R,Pontotoc,Toccopola To,x
-Jon Lancaster,State House,22,D,Pontotoc,Toccopola To,x
+Thomas 'Tommy' Futral,State House,22,R,Pontotoc,Toccopola To,
+Jon Lancaster,State House,22,D,Pontotoc,Toccopola To,
 Jim Hood,Governor,,D,Pontotoc,Troy Tr,78
 Tate Reeves,Governor,,R,Pontotoc,Troy Tr,292
 Bob Hickingbottom,Governor,,C,Pontotoc,Troy Tr,1
@@ -566,12 +566,12 @@ Addie Lee Green,State Treasurer,,D,Pontotoc,Troy Tr,55
 David McRae,State Treasurer,,R,Pontotoc,Troy Tr,308
 Rickey L Cole,Commissioner of Agriculture & Commerce,,D,Pontotoc,Troy Tr,63
 Andy Gipson,Commissioner of Agriculture & Commerce,,R,Pontotoc,Troy Tr,298
-Kathy L Chism,State Senate,3,R,Pontotoc,Troy Tr,x
-Tim Tucker,State Senate,3,D,Pontotoc,Troy Tr,x
+Kathy L Chism,State Senate,3,R,Pontotoc,Troy Tr,
+Tim Tucker,State Senate,3,D,Pontotoc,Troy Tr,
 Kegan Coleman,State Senate,8,D,Pontotoc,Troy Tr,61
 Benjamin A Suber,State Senate,8,R,Pontotoc,Troy Tr,304
-E Mac Huddleston,State House,15,R,Pontotoc,Troy Tr,x
-Pat Montgomery,State House,15,D,Pontotoc,Troy Tr,x
+E Mac Huddleston,State House,15,R,Pontotoc,Troy Tr,
+Pat Montgomery,State House,15,D,Pontotoc,Troy Tr,
 Thomas 'Tommy' Futral,State House,22,R,Pontotoc,Troy Tr,296
 Jon Lancaster,State House,22,D,Pontotoc,Troy Tr,65
 Jim Hood,Governor,,D,Pontotoc,Turnpike Tu,47
@@ -591,12 +591,12 @@ Rickey L Cole,Commissioner of Agriculture & Commerce,,D,Pontotoc,Turnpike Tu,31
 Andy Gipson,Commissioner of Agriculture & Commerce,,R,Pontotoc,Turnpike Tu,225
 Kathy L Chism,State Senate,3,R,Pontotoc,Turnpike Tu,214
 Tim Tucker,State Senate,3,D,Pontotoc,Turnpike Tu,42
-Kegan Coleman,State Senate,8,D,Pontotoc,Turnpike Tu,x
-Benjamin A Suber,State Senate,8,R,Pontotoc,Turnpike Tu,x
+Kegan Coleman,State Senate,8,D,Pontotoc,Turnpike Tu,
+Benjamin A Suber,State Senate,8,R,Pontotoc,Turnpike Tu,
 E Mac Huddleston,State House,15,R,Pontotoc,Turnpike Tu,206
 Pat Montgomery,State House,15,D,Pontotoc,Turnpike Tu,51
-Thomas 'Tommy' Futral,State House,22,R,Pontotoc,Turnpike Tu,x
-Jon Lancaster,State House,22,D,Pontotoc,Turnpike Tu,x
+Thomas 'Tommy' Futral,State House,22,R,Pontotoc,Turnpike Tu,
+Jon Lancaster,State House,22,D,Pontotoc,Turnpike Tu,
 Jim Hood,Governor,,D,Pontotoc,Woodland Wo,24
 Tate Reeves,Governor,,R,Pontotoc,Woodland Wo,90
 Bob Hickingbottom,Governor,,C,Pontotoc,Woodland Wo,0
@@ -614,10 +614,10 @@ Rickey L Cole,Commissioner of Agriculture & Commerce,,D,Pontotoc,Woodland Wo,16
 Andy Gipson,Commissioner of Agriculture & Commerce,,R,Pontotoc,Woodland Wo,97
 Kathy L Chism,State Senate,3,R,Pontotoc,Woodland Wo,83
 Tim Tucker,State Senate,3,D,Pontotoc,Woodland Wo,25
-Kegan Coleman,State Senate,8,D,Pontotoc,Woodland Wo,x
-Benjamin A Suber,State Senate,8,R,Pontotoc,Woodland Wo,x
-E Mac Huddleston,State House,15,R,Pontotoc,Woodland Wo,x
-Pat Montgomery,State House,15,D,Pontotoc,Woodland Wo,x
+Kegan Coleman,State Senate,8,D,Pontotoc,Woodland Wo,
+Benjamin A Suber,State Senate,8,R,Pontotoc,Woodland Wo,
+E Mac Huddleston,State House,15,R,Pontotoc,Woodland Wo,
+Pat Montgomery,State House,15,D,Pontotoc,Woodland Wo,
 Thomas 'Tommy' Futral,State House,22,R,Pontotoc,Woodland Wo,98
 Jon Lancaster,State House,22,D,Pontotoc,Woodland Wo,15
 Jim Hood,Governor,,D,Pontotoc,Zion Z,102
@@ -637,10 +637,10 @@ Rickey L Cole,Commissioner of Agriculture & Commerce,,D,Pontotoc,Zion Z,83
 Andy Gipson,Commissioner of Agriculture & Commerce,,R,Pontotoc,Zion Z,214
 Kathy L Chism,State Senate,3,R,Pontotoc,Zion Z,205
 Tim Tucker,State Senate,3,D,Pontotoc,Zion Z,93
-Kegan Coleman,State Senate,8,D,Pontotoc,Zion Z,x
-Benjamin A Suber,State Senate,8,R,Pontotoc,Zion Z,x
-E Mac Huddleston,State House,15,R,Pontotoc,Zion Z,x
-Pat Montgomery,State House,15,D,Pontotoc,Zion Z,x
+Kegan Coleman,State Senate,8,D,Pontotoc,Zion Z,
+Benjamin A Suber,State Senate,8,R,Pontotoc,Zion Z,
+E Mac Huddleston,State House,15,R,Pontotoc,Zion Z,
+Pat Montgomery,State House,15,D,Pontotoc,Zion Z,
 Thomas 'Tommy' Futral,State House,22,R,Pontotoc,Zion Z,207
 Jon Lancaster,State House,22,D,Pontotoc,Zion Z,83
 Jim Hood,Governor,,D,Pontotoc,TOTAL,2941
