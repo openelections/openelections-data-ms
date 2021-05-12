@@ -15,8 +15,8 @@ David McRae,State Treasurer,,R,Walthall,3rd District Tylertown,238
 Rickey L Cole,Commissioner of Agriculture & Commerce,,D,Walthall,3rd District Tylertown,89
 Andy Gipson,Commissioner of Agriculture & Commerce,,R,Walthall,3rd District Tylertown,232
 Tammy Witherspoon,State Senate,38,D,Walthall,3rd District Tylertown,242
-Sally Doty,State Senate,39,R,Walthall,3rd District Tylertown,
-Daryl L Porter Jr.,State House,98,D,Walthall,3rd District Tylertown,
+Sally Doty,State Senate,39,R,Walthall,3rd District Tylertown,x
+Daryl L Porter Jr.,State House,98,D,Walthall,3rd District Tylertown,x
 Bill Pigott,State House,99,R,Walthall,3rd District Tylertown,271
 Jim Hood,Governor,,D,Walthall,4th District West Tylertown,63
 Tate Reeves,Governor,,R,Walthall,4th District West Tylertown,211
@@ -33,9 +33,9 @@ Addie Lee Green,State Treasurer,,D,Walthall,4th District West Tylertown,52
 David McRae,State Treasurer,,R,Walthall,4th District West Tylertown,220
 Rickey L Cole,Commissioner of Agriculture & Commerce,,D,Walthall,4th District West Tylertown,61
 Andy Gipson,Commissioner of Agriculture & Commerce,,R,Walthall,4th District West Tylertown,209
-Tammy Witherspoon,State Senate,38,D,Walthall,4th District West Tylertown,
+Tammy Witherspoon,State Senate,38,D,Walthall,4th District West Tylertown,x
 Sally Doty,State Senate,39,R,Walthall,4th District West Tylertown,236
-Daryl L Porter Jr.,State House,98,D,Walthall,4th District West Tylertown,
+Daryl L Porter Jr.,State House,98,D,Walthall,4th District West Tylertown,x
 Bill Pigott,State House,99,R,Walthall,4th District West Tylertown,240
 Jim Hood,Governor,,D,Walthall,4th District Tylertown,44
 Tate Reeves,Governor,,R,Walthall,4th District Tylertown,193
@@ -52,9 +52,9 @@ Addie Lee Green,State Treasurer,,D,Walthall,4th District Tylertown,16
 David McRae,State Treasurer,,R,Walthall,4th District Tylertown,219
 Rickey L Cole,Commissioner of Agriculture & Commerce,,D,Walthall,4th District Tylertown,26
 Andy Gipson,Commissioner of Agriculture & Commerce,,R,Walthall,4th District Tylertown,207
-Tammy Witherspoon,State Senate,38,D,Walthall,4th District Tylertown,
+Tammy Witherspoon,State Senate,38,D,Walthall,4th District Tylertown,x
 Sally Doty,State Senate,39,R,Walthall,4th District Tylertown,226
-Daryl L Porter Jr.,State House,98,D,Walthall,4th District Tylertown,
+Daryl L Porter Jr.,State House,98,D,Walthall,4th District Tylertown,x
 Bill Pigott,State House,99,R,Walthall,4th District Tylertown,229
 Jim Hood,Governor,,D,Walthall,Darbun,18
 Tate Reeves,Governor,,R,Walthall,Darbun,63
@@ -71,9 +71,9 @@ Addie Lee Green,State Treasurer,,D,Walthall,Darbun,10
 David McRae,State Treasurer,,R,Walthall,Darbun,70
 Rickey L Cole,Commissioner of Agriculture & Commerce,,D,Walthall,Darbun,12
 Andy Gipson,Commissioner of Agriculture & Commerce,,R,Walthall,Darbun,67
-Tammy Witherspoon,State Senate,38,D,Walthall,Darbun,
+Tammy Witherspoon,State Senate,38,D,Walthall,Darbun,x
 Sally Doty,State Senate,39,R,Walthall,Darbun,71
-Daryl L Porter Jr.,State House,98,D,Walthall,Darbun,
+Daryl L Porter Jr.,State House,98,D,Walthall,Darbun,x
 Bill Pigott,State House,99,R,Walthall,Darbun,74
 Jim Hood,Governor,,D,Walthall,Dexter,105
 Tate Reeves,Governor,,R,Walthall,Dexter,289
@@ -91,8 +91,8 @@ David McRae,State Treasurer,,R,Walthall,Dexter,308
 Rickey L Cole,Commissioner of Agriculture & Commerce,,D,Walthall,Dexter,96
 Andy Gipson,Commissioner of Agriculture & Commerce,,R,Walthall,Dexter,293
 Tammy Witherspoon,State Senate,38,D,Walthall,Dexter,276
-Sally Doty,State Senate,39,R,Walthall,Dexter,
-Daryl L Porter Jr.,State House,98,D,Walthall,Dexter,
+Sally Doty,State Senate,39,R,Walthall,Dexter,x
+Daryl L Porter Jr.,State House,98,D,Walthall,Dexter,x
 Bill Pigott,State House,99,R,Walthall,Dexter,343
 Jim Hood,Governor,,D,Walthall,Dinan,325
 Tate Reeves,Governor,,R,Walthall,Dinan,99
@@ -110,9 +110,9 @@ David McRae,State Treasurer,,R,Walthall,Dinan,118
 Rickey L Cole,Commissioner of Agriculture & Commerce,,D,Walthall,Dinan,293
 Andy Gipson,Commissioner of Agriculture & Commerce,,R,Walthall,Dinan,125
 Tammy Witherspoon,State Senate,38,D,Walthall,Dinan,380
-Sally Doty,State Senate,39,R,Walthall,Dinan,
+Sally Doty,State Senate,39,R,Walthall,Dinan,x
 Daryl L Porter Jr.,State House,98,D,Walthall,Dinan,382
-Bill Pigott,State House,99,R,Walthall,Dinan,
+Bill Pigott,State House,99,R,Walthall,Dinan,x
 Jim Hood,Governor,,D,Walthall,East Tylertown,7
 Tate Reeves,Governor,,R,Walthall,East Tylertown,40
 Bob Hickingbottom,Governor,,C,Walthall,East Tylertown,0
@@ -130,7 +130,7 @@ Rickey L Cole,Commissioner of Agriculture & Commerce,,D,Walthall,East Tylertown,
 Andy Gipson,Commissioner of Agriculture & Commerce,,R,Walthall,East Tylertown,41
 Tammy Witherspoon,State Senate,38,D,Walthall,East Tylertown,7
 Sally Doty,State Senate,39,R,Walthall,East Tylertown,36
-Daryl L Porter Jr.,State House,98,D,Walthall,East Tylertown,
+Daryl L Porter Jr.,State House,98,D,Walthall,East Tylertown,x
 Bill Pigott,State House,99,R,Walthall,East Tylertown,47
 Jim Hood,Governor,,D,Walthall,Enon,46
 Tate Reeves,Governor,,R,Walthall,Enon,103
@@ -147,9 +147,9 @@ Addie Lee Green,State Treasurer,,D,Walthall,Enon,29
 David McRae,State Treasurer,,R,Walthall,Enon,120
 Rickey L Cole,Commissioner of Agriculture & Commerce,,D,Walthall,Enon,29
 Andy Gipson,Commissioner of Agriculture & Commerce,,R,Walthall,Enon,115
-Tammy Witherspoon,State Senate,38,D,Walthall,Enon,
+Tammy Witherspoon,State Senate,38,D,Walthall,Enon,x
 Sally Doty,State Senate,39,R,Walthall,Enon,131
-Daryl L Porter Jr.,State House,98,D,Walthall,Enon,
+Daryl L Porter Jr.,State House,98,D,Walthall,Enon,x
 Bill Pigott,State House,99,R,Walthall,Enon,133
 Jim Hood,Governor,,D,Walthall,Hope,156
 Tate Reeves,Governor,,R,Walthall,Hope,20
@@ -166,10 +166,10 @@ Addie Lee Green,State Treasurer,,D,Walthall,Hope,147
 David McRae,State Treasurer,,R,Walthall,Hope,30
 Rickey L Cole,Commissioner of Agriculture & Commerce,,D,Walthall,Hope,149
 Andy Gipson,Commissioner of Agriculture & Commerce,,R,Walthall,Hope,27
-Tammy Witherspoon,State Senate,38,D,Walthall,Hope,
+Tammy Witherspoon,State Senate,38,D,Walthall,Hope,x
 Sally Doty,State Senate,39,R,Walthall,Hope,76
 Daryl L Porter Jr.,State House,98,D,Walthall,Hope,162
-Bill Pigott,State House,99,R,Walthall,Hope,
+Bill Pigott,State House,99,R,Walthall,Hope,x
 Jim Hood,Governor,,D,Walthall,Improve,70
 Tate Reeves,Governor,,R,Walthall,Improve,237
 Bob Hickingbottom,Governor,,C,Walthall,Improve,0
@@ -186,8 +186,8 @@ David McRae,State Treasurer,,R,Walthall,Improve,234
 Rickey L Cole,Commissioner of Agriculture & Commerce,,D,Walthall,Improve,64
 Andy Gipson,Commissioner of Agriculture & Commerce,,R,Walthall,Improve,229
 Tammy Witherspoon,State Senate,38,D,Walthall,Improve,168
-Sally Doty,State Senate,39,R,Walthall,Improve,
-Daryl L Porter Jr.,State House,98,D,Walthall,Improve,
+Sally Doty,State Senate,39,R,Walthall,Improve,x
+Daryl L Porter Jr.,State House,98,D,Walthall,Improve,x
 Bill Pigott,State House,99,R,Walthall,Improve,240
 Jim Hood,Governor,,D,Walthall,Lexie,77
 Tate Reeves,Governor,,R,Walthall,Lexie,297
@@ -205,8 +205,8 @@ David McRae,State Treasurer,,R,Walthall,Lexie,324
 Rickey L Cole,Commissioner of Agriculture & Commerce,,D,Walthall,Lexie,75
 Andy Gipson,Commissioner of Agriculture & Commerce,,R,Walthall,Lexie,296
 Tammy Witherspoon,State Senate,38,D,Walthall,Lexie,266
-Sally Doty,State Senate,39,R,Walthall,Lexie,
-Daryl L Porter Jr.,State House,98,D,Walthall,Lexie,
+Sally Doty,State Senate,39,R,Walthall,Lexie,x
+Daryl L Porter Jr.,State House,98,D,Walthall,Lexie,x
 Bill Pigott,State House,99,R,Walthall,Lexie,345
 Jim Hood,Governor,,D,Walthall,Mesa,9
 Tate Reeves,Governor,,R,Walthall,Mesa,36
@@ -224,8 +224,8 @@ David McRae,State Treasurer,,R,Walthall,Mesa,35
 Rickey L Cole,Commissioner of Agriculture & Commerce,,D,Walthall,Mesa,10
 Andy Gipson,Commissioner of Agriculture & Commerce,,R,Walthall,Mesa,35
 Tammy Witherspoon,State Senate,38,D,Walthall,Mesa,24
-Sally Doty,State Senate,39,R,Walthall,Mesa,
-Daryl L Porter Jr.,State House,98,D,Walthall,Mesa,
+Sally Doty,State Senate,39,R,Walthall,Mesa,x
+Daryl L Porter Jr.,State House,98,D,Walthall,Mesa,x
 Bill Pigott,State House,99,R,Walthall,Mesa,39
 Jim Hood,Governor,,D,Walthall,Midway,35
 Tate Reeves,Governor,,R,Walthall,Midway,124
@@ -243,8 +243,8 @@ David McRae,State Treasurer,,R,Walthall,Midway,121
 Rickey L Cole,Commissioner of Agriculture & Commerce,,D,Walthall,Midway,39
 Andy Gipson,Commissioner of Agriculture & Commerce,,R,Walthall,Midway,118
 Tammy Witherspoon,State Senate,38,D,Walthall,Midway,120
-Sally Doty,State Senate,39,R,Walthall,Midway,
-Daryl L Porter Jr.,State House,98,D,Walthall,Midway,
+Sally Doty,State Senate,39,R,Walthall,Midway,x
+Daryl L Porter Jr.,State House,98,D,Walthall,Midway,x
 Bill Pigott,State House,99,R,Walthall,Midway,134
 Jim Hood,Governor,,D,Walthall,North Kirklin,165
 Tate Reeves,Governor,,R,Walthall,North Kirklin,130
@@ -262,8 +262,8 @@ David McRae,State Treasurer,,R,Walthall,North Kirklin,141
 Rickey L Cole,Commissioner of Agriculture & Commerce,,D,Walthall,North Kirklin,153
 Andy Gipson,Commissioner of Agriculture & Commerce,,R,Walthall,North Kirklin,138
 Tammy Witherspoon,State Senate,38,D,Walthall,North Kirklin,254
-Sally Doty,State Senate,39,R,Walthall,North Kirklin,
-Daryl L Porter Jr.,State House,98,D,Walthall,North Kirklin,
+Sally Doty,State Senate,39,R,Walthall,North Kirklin,x
+Daryl L Porter Jr.,State House,98,D,Walthall,North Kirklin,x
 Bill Pigott,State House,99,R,Walthall,North Kirklin,193
 Jim Hood,Governor,,D,Walthall,North Knoxo,373
 Tate Reeves,Governor,,R,Walthall,North Knoxo,36
@@ -281,8 +281,8 @@ David McRae,State Treasurer,,R,Walthall,North Knoxo,51
 Rickey L Cole,Commissioner of Agriculture & Commerce,,D,Walthall,North Knoxo,348
 Andy Gipson,Commissioner of Agriculture & Commerce,,R,Walthall,North Knoxo,41
 Tammy Witherspoon,State Senate,38,D,Walthall,North Knoxo,370
-Sally Doty,State Senate,39,R,Walthall,North Knoxo,
-Daryl L Porter Jr.,State House,98,D,Walthall,North Knoxo,
+Sally Doty,State Senate,39,R,Walthall,North Knoxo,x
+Daryl L Porter Jr.,State House,98,D,Walthall,North Knoxo,x
 Bill Pigott,State House,99,R,Walthall,North Knoxo,167
 Jim Hood,Governor,,D,Walthall,Sartinsville,65
 Tate Reeves,Governor,,R,Walthall,Sartinsville,85
@@ -299,9 +299,9 @@ Addie Lee Green,State Treasurer,,D,Walthall,Sartinsville,55
 David McRae,State Treasurer,,R,Walthall,Sartinsville,93
 Rickey L Cole,Commissioner of Agriculture & Commerce,,D,Walthall,Sartinsville,55
 Andy Gipson,Commissioner of Agriculture & Commerce,,R,Walthall,Sartinsville,91
-Tammy Witherspoon,State Senate,38,D,Walthall,Sartinsville,
+Tammy Witherspoon,State Senate,38,D,Walthall,Sartinsville,x
 Sally Doty,State Senate,39,R,Walthall,Sartinsville,108
-Daryl L Porter Jr.,State House,98,D,Walthall,Sartinsville,
+Daryl L Porter Jr.,State House,98,D,Walthall,Sartinsville,x
 Bill Pigott,State House,99,R,Walthall,Sartinsville,113
 Jim Hood,Governor,,D,Walthall,South Kirklin,33
 Tate Reeves,Governor,,R,Walthall,South Kirklin,83
@@ -319,8 +319,8 @@ David McRae,State Treasurer,,R,Walthall,South Kirklin,91
 Rickey L Cole,Commissioner of Agriculture & Commerce,,D,Walthall,South Kirklin,29
 Andy Gipson,Commissioner of Agriculture & Commerce,,R,Walthall,South Kirklin,84
 Tammy Witherspoon,State Senate,38,D,Walthall,South Kirklin,83
-Sally Doty,State Senate,39,R,Walthall,South Kirklin,
-Daryl L Porter Jr.,State House,98,D,Walthall,South Kirklin,
+Sally Doty,State Senate,39,R,Walthall,South Kirklin,x
+Daryl L Porter Jr.,State House,98,D,Walthall,South Kirklin,x
 Bill Pigott,State House,99,R,Walthall,South Kirklin,94
 Jim Hood,Governor,,D,Walthall,St Paul,132
 Tate Reeves,Governor,,R,Walthall,St Paul,42
@@ -338,8 +338,8 @@ David McRae,State Treasurer,,R,Walthall,St Paul,50
 Rickey L Cole,Commissioner of Agriculture & Commerce,,D,Walthall,St Paul,121
 Andy Gipson,Commissioner of Agriculture & Commerce,,R,Walthall,St Paul,47
 Tammy Witherspoon,State Senate,38,D,Walthall,St Paul,156
-Sally Doty,State Senate,39,R,Walthall,St Paul,
-Daryl L Porter Jr.,State House,98,D,Walthall,St Paul,
+Sally Doty,State Senate,39,R,Walthall,St Paul,x
+Daryl L Porter Jr.,State House,98,D,Walthall,St Paul,x
 Bill Pigott,State House,99,R,Walthall,St Paul,104
 Jim Hood,Governor,,D,Walthall,Varnel,126
 Tate Reeves,Governor,,R,Walthall,Varnel,250
@@ -356,9 +356,9 @@ Addie Lee Green,State Treasurer,,D,Walthall,Varnel,88
 David McRae,State Treasurer,,R,Walthall,Varnel,282
 Rickey L Cole,Commissioner of Agriculture & Commerce,,D,Walthall,Varnel,105
 Andy Gipson,Commissioner of Agriculture & Commerce,,R,Walthall,Varnel,264
-Tammy Witherspoon,State Senate,38,D,Walthall,Varnel,
+Tammy Witherspoon,State Senate,38,D,Walthall,Varnel,x
 Sally Doty,State Senate,39,R,Walthall,Varnel,314
-Daryl L Porter Jr.,State House,98,D,Walthall,Varnel,
+Daryl L Porter Jr.,State House,98,D,Walthall,Varnel,x
 Bill Pigott,State House,99,R,Walthall,Varnel,324
 Jim Hood,Governor,,D,Walthall,West Tylertown,158
 Tate Reeves,Governor,,R,Walthall,West Tylertown,112
@@ -377,7 +377,7 @@ Rickey L Cole,Commissioner of Agriculture & Commerce,,D,Walthall,West Tylertown,
 Andy Gipson,Commissioner of Agriculture & Commerce,,R,Walthall,West Tylertown,115
 Tammy Witherspoon,State Senate,38,D,Walthall,West Tylertown,171
 Sally Doty,State Senate,39,R,Walthall,West Tylertown,64
-Daryl L Porter Jr.,State House,98,D,Walthall,West Tylertown,
+Daryl L Porter Jr.,State House,98,D,Walthall,West Tylertown,x
 Bill Pigott,State House,99,R,Walthall,West Tylertown,179
 Jim Hood,Governor,,D,Walthall,TOTAL,2128
 Tate Reeves,Governor,,R,Walthall,TOTAL,2657

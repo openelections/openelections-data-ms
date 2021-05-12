@@ -14,12 +14,12 @@ Eugene S. 'Buck' Clarke,State Treasurer,,R,Jones,Antioch,79
 David McRae,State Treasurer,,R,Jones,Antioch,162
 Andy Gipson,Commissioner of Agriculture & Commerce,,R,Jones,Antioch,244
 Mike Chaney,Commissioner of Insurance,,R,Jones,Antioch,243
-Steven L Wade,State Senate,34,R,Jones,Antioch,
+Steven L Wade,State Senate,34,R,Jones,Antioch,x
 Chris McDaniel,State Senate,42,R,Jones,Antioch,244
 Ramona Q Blackledge,State House,88,R,Jones,Antioch,105
 Christopher S Hodge,State House,88,R,Jones,Antioch,63
 Gary V Staples,State House,88,R,Jones,Antioch,81
-Donnie Scoggin,State House,89,R,Jones,Antioch,
+Donnie Scoggin,State House,89,R,Jones,Antioch,x
 Michael Brown,Governor,,D,Jones,Antioch,0
 William Bond Compton Jr.,Governor,,D,Jones,Antioch,0
 Jim Hood,Governor,,D,Jones,Antioch,3
@@ -35,9 +35,9 @@ Jennifer Riley Collins,Attorney General,,D,Jones,Antioch,3
 Addie Lee Green,State Treasurer,,D,Jones,Antioch,3
 Rickey L Cole,Commissioner of Agriculture & Commerce,,D,Jones,Antioch,3
 Robert E Arnos,Commissioner of Insurance,,D,Jones,Antioch,3
-Juan Barnett,State Senate,34,D,Jones,Antioch,
-Deborah Denard Delgado,State Senate,34,D,Jones,Antioch,
-Omeria Scott,State House,80,D,Jones,Antioch,
+Juan Barnett,State Senate,34,D,Jones,Antioch,x
+Deborah Denard Delgado,State Senate,34,D,Jones,Antioch,x
+Omeria Scott,State House,80,D,Jones,Antioch,x
 Robert Foster,Governor,,R,Jones,Big Creek,74
 Tate Reeves,Governor,,R,Jones,Big Creek,152
 Bill Waller Jr.,Governor,,R,Jones,Big Creek,73
@@ -54,11 +54,11 @@ David McRae,State Treasurer,,R,Jones,Big Creek,177
 Andy Gipson,Commissioner of Agriculture & Commerce,,R,Jones,Big Creek,288
 Mike Chaney,Commissioner of Insurance,,R,Jones,Big Creek,289
 Steven L Wade,State Senate,34,R,Jones,Big Creek,283
-Chris McDaniel,State Senate,42,R,Jones,Big Creek,
+Chris McDaniel,State Senate,42,R,Jones,Big Creek,x
 Ramona Q Blackledge,State House,88,R,Jones,Big Creek,164
 Christopher S Hodge,State House,88,R,Jones,Big Creek,41
 Gary V Staples,State House,88,R,Jones,Big Creek,95
-Donnie Scoggin,State House,89,R,Jones,Big Creek,
+Donnie Scoggin,State House,89,R,Jones,Big Creek,x
 Michael Brown,Governor,,D,Jones,Big Creek,0
 William Bond Compton Jr.,Governor,,D,Jones,Big Creek,0
 Jim Hood,Governor,,D,Jones,Big Creek,5
@@ -76,7 +76,7 @@ Rickey L Cole,Commissioner of Agriculture & Commerce,,D,Jones,Big Creek,7
 Robert E Arnos,Commissioner of Insurance,,D,Jones,Big Creek,5
 Juan Barnett,State Senate,34,D,Jones,Big Creek,1
 Deborah Denard Delgado,State Senate,34,D,Jones,Big Creek,6
-Omeria Scott,State House,80,D,Jones,Big Creek,
+Omeria Scott,State House,80,D,Jones,Big Creek,x
 Robert Foster,Governor,,R,Jones,Blackwell,60
 Tate Reeves,Governor,,R,Jones,Blackwell,94
 Bill Waller Jr.,Governor,,R,Jones,Blackwell,45
@@ -93,11 +93,11 @@ David McRae,State Treasurer,,R,Jones,Blackwell,110
 Andy Gipson,Commissioner of Agriculture & Commerce,,R,Jones,Blackwell,194
 Mike Chaney,Commissioner of Insurance,,R,Jones,Blackwell,193
 Steven L Wade,State Senate,34,R,Jones,Blackwell,193
-Chris McDaniel,State Senate,42,R,Jones,Blackwell,
+Chris McDaniel,State Senate,42,R,Jones,Blackwell,x
 Ramona Q Blackledge,State House,88,R,Jones,Blackwell,91
 Christopher S Hodge,State House,88,R,Jones,Blackwell,35
 Gary V Staples,State House,88,R,Jones,Blackwell,74
-Donnie Scoggin,State House,89,R,Jones,Blackwell,
+Donnie Scoggin,State House,89,R,Jones,Blackwell,x
 Michael Brown,Governor,,D,Jones,Blackwell,0
 William Bond Compton Jr.,Governor,,D,Jones,Blackwell,0
 Jim Hood,Governor,,D,Jones,Blackwell,1
@@ -115,7 +115,7 @@ Rickey L Cole,Commissioner of Agriculture & Commerce,,D,Jones,Blackwell,1
 Robert E Arnos,Commissioner of Insurance,,D,Jones,Blackwell,1
 Juan Barnett,State Senate,34,D,Jones,Blackwell,1
 Deborah Denard Delgado,State Senate,34,D,Jones,Blackwell,0
-Omeria Scott,State House,80,D,Jones,Blackwell,
+Omeria Scott,State House,80,D,Jones,Blackwell,x
 Robert Foster,Governor,,R,Jones,Calhoun,247
 Tate Reeves,Governor,,R,Jones,Calhoun,441
 Bill Waller Jr.,Governor,,R,Jones,Calhoun,275
@@ -131,11 +131,11 @@ Eugene S. 'Buck' Clarke,State Treasurer,,R,Jones,Calhoun,355
 David McRae,State Treasurer,,R,Jones,Calhoun,580
 Andy Gipson,Commissioner of Agriculture & Commerce,,R,Jones,Calhoun,916
 Mike Chaney,Commissioner of Insurance,,R,Jones,Calhoun,921
-Steven L Wade,State Senate,34,R,Jones,Calhoun,
+Steven L Wade,State Senate,34,R,Jones,Calhoun,x
 Chris McDaniel,State Senate,42,R,Jones,Calhoun,925
-Ramona Q Blackledge,State House,88,R,Jones,Calhoun,
-Christopher S Hodge,State House,88,R,Jones,Calhoun,
-Gary V Staples,State House,88,R,Jones,Calhoun,
+Ramona Q Blackledge,State House,88,R,Jones,Calhoun,x
+Christopher S Hodge,State House,88,R,Jones,Calhoun,x
+Gary V Staples,State House,88,R,Jones,Calhoun,x
 Donnie Scoggin,State House,89,R,Jones,Calhoun,929
 Michael Brown,Governor,,D,Jones,Calhoun,2
 William Bond Compton Jr.,Governor,,D,Jones,Calhoun,0
@@ -152,9 +152,9 @@ Jennifer Riley Collins,Attorney General,,D,Jones,Calhoun,28
 Addie Lee Green,State Treasurer,,D,Jones,Calhoun,28
 Rickey L Cole,Commissioner of Agriculture & Commerce,,D,Jones,Calhoun,29
 Robert E Arnos,Commissioner of Insurance,,D,Jones,Calhoun,28
-Juan Barnett,State Senate,34,D,Jones,Calhoun,
-Deborah Denard Delgado,State Senate,34,D,Jones,Calhoun,
-Omeria Scott,State House,80,D,Jones,Calhoun,
+Juan Barnett,State Senate,34,D,Jones,Calhoun,x
+Deborah Denard Delgado,State Senate,34,D,Jones,Calhoun,x
+Omeria Scott,State House,80,D,Jones,Calhoun,x
 Robert Foster,Governor,,R,Jones,Centerville,40
 Tate Reeves,Governor,,R,Jones,Centerville,62
 Bill Waller Jr.,Governor,,R,Jones,Centerville,20
@@ -171,11 +171,11 @@ David McRae,State Treasurer,,R,Jones,Centerville,76
 Andy Gipson,Commissioner of Agriculture & Commerce,,R,Jones,Centerville,115
 Mike Chaney,Commissioner of Insurance,,R,Jones,Centerville,114
 Steven L Wade,State Senate,34,R,Jones,Centerville,114
-Chris McDaniel,State Senate,42,R,Jones,Centerville,
+Chris McDaniel,State Senate,42,R,Jones,Centerville,x
 Ramona Q Blackledge,State House,88,R,Jones,Centerville,80
 Christopher S Hodge,State House,88,R,Jones,Centerville,21
 Gary V Staples,State House,88,R,Jones,Centerville,20
-Donnie Scoggin,State House,89,R,Jones,Centerville,
+Donnie Scoggin,State House,89,R,Jones,Centerville,x
 Michael Brown,Governor,,D,Jones,Centerville,0
 William Bond Compton Jr.,Governor,,D,Jones,Centerville,0
 Jim Hood,Governor,,D,Jones,Centerville,0
@@ -193,7 +193,7 @@ Rickey L Cole,Commissioner of Agriculture & Commerce,,D,Jones,Centerville,0
 Robert E Arnos,Commissioner of Insurance,,D,Jones,Centerville,0
 Juan Barnett,State Senate,34,D,Jones,Centerville,0
 Deborah Denard Delgado,State Senate,34,D,Jones,Centerville,0
-Omeria Scott,State House,80,D,Jones,Centerville,
+Omeria Scott,State House,80,D,Jones,Centerville,x
 Robert Foster,Governor,,R,Jones,Currie,6
 Tate Reeves,Governor,,R,Jones,Currie,7
 Bill Waller Jr.,Governor,,R,Jones,Currie,3
@@ -209,12 +209,12 @@ Eugene S. 'Buck' Clarke,State Treasurer,,R,Jones,Currie,6
 David McRae,State Treasurer,,R,Jones,Currie,10
 Andy Gipson,Commissioner of Agriculture & Commerce,,R,Jones,Currie,15
 Mike Chaney,Commissioner of Insurance,,R,Jones,Currie,15
-Steven L Wade,State Senate,34,R,Jones,Currie,
+Steven L Wade,State Senate,34,R,Jones,Currie,x
 Chris McDaniel,State Senate,42,R,Jones,Currie,14
 Ramona Q Blackledge,State House,88,R,Jones,Currie,5
 Christopher S Hodge,State House,88,R,Jones,Currie,2
 Gary V Staples,State House,88,R,Jones,Currie,9
-Donnie Scoggin,State House,89,R,Jones,Currie,
+Donnie Scoggin,State House,89,R,Jones,Currie,x
 Michael Brown,Governor,,D,Jones,Currie,18
 William Bond Compton Jr.,Governor,,D,Jones,Currie,1
 Jim Hood,Governor,,D,Jones,Currie,83
@@ -230,9 +230,9 @@ Jennifer Riley Collins,Attorney General,,D,Jones,Currie,102
 Addie Lee Green,State Treasurer,,D,Jones,Currie,99
 Rickey L Cole,Commissioner of Agriculture & Commerce,,D,Jones,Currie,107
 Robert E Arnos,Commissioner of Insurance,,D,Jones,Currie,103
-Juan Barnett,State Senate,34,D,Jones,Currie,
-Deborah Denard Delgado,State Senate,34,D,Jones,Currie,
-Omeria Scott,State House,80,D,Jones,Currie,
+Juan Barnett,State Senate,34,D,Jones,Currie,x
+Deborah Denard Delgado,State Senate,34,D,Jones,Currie,x
+Omeria Scott,State House,80,D,Jones,Currie,x
 Robert Foster,Governor,,R,Jones,Erata,28
 Tate Reeves,Governor,,R,Jones,Erata,52
 Bill Waller Jr.,Governor,,R,Jones,Erata,34
@@ -248,12 +248,12 @@ Eugene S. 'Buck' Clarke,State Treasurer,,R,Jones,Erata,41
 David McRae,State Treasurer,,R,Jones,Erata,68
 Andy Gipson,Commissioner of Agriculture & Commerce,,R,Jones,Erata,105
 Mike Chaney,Commissioner of Insurance,,R,Jones,Erata,108
-Steven L Wade,State Senate,34,R,Jones,Erata,
+Steven L Wade,State Senate,34,R,Jones,Erata,x
 Chris McDaniel,State Senate,42,R,Jones,Erata,105
-Ramona Q Blackledge,State House,88,R,Jones,Erata,
-Christopher S Hodge,State House,88,R,Jones,Erata,
-Gary V Staples,State House,88,R,Jones,Erata,
-Donnie Scoggin,State House,89,R,Jones,Erata,
+Ramona Q Blackledge,State House,88,R,Jones,Erata,x
+Christopher S Hodge,State House,88,R,Jones,Erata,x
+Gary V Staples,State House,88,R,Jones,Erata,x
+Donnie Scoggin,State House,89,R,Jones,Erata,x
 Michael Brown,Governor,,D,Jones,Erata,6
 William Bond Compton Jr.,Governor,,D,Jones,Erata,2
 Jim Hood,Governor,,D,Jones,Erata,68
@@ -269,8 +269,8 @@ Jennifer Riley Collins,Attorney General,,D,Jones,Erata,79
 Addie Lee Green,State Treasurer,,D,Jones,Erata,77
 Rickey L Cole,Commissioner of Agriculture & Commerce,,D,Jones,Erata,80
 Robert E Arnos,Commissioner of Insurance,,D,Jones,Erata,84
-Juan Barnett,State Senate,34,D,Jones,Erata,
-Deborah Denard Delgado,State Senate,34,D,Jones,Erata,
+Juan Barnett,State Senate,34,D,Jones,Erata,x
+Deborah Denard Delgado,State Senate,34,D,Jones,Erata,x
 Omeria Scott,State House,80,D,Jones,Erata,93
 Robert Foster,Governor,,R,Jones,First Assembly of God,52
 Tate Reeves,Governor,,R,Jones,First Assembly of God,100
@@ -287,11 +287,11 @@ Eugene S. 'Buck' Clarke,State Treasurer,,R,Jones,First Assembly of God,91
 David McRae,State Treasurer,,R,Jones,First Assembly of God,131
 Andy Gipson,Commissioner of Agriculture & Commerce,,R,Jones,First Assembly of God,218
 Mike Chaney,Commissioner of Insurance,,R,Jones,First Assembly of God,216
-Steven L Wade,State Senate,34,R,Jones,First Assembly of God,
+Steven L Wade,State Senate,34,R,Jones,First Assembly of God,x
 Chris McDaniel,State Senate,42,R,Jones,First Assembly of God,212
-Ramona Q Blackledge,State House,88,R,Jones,First Assembly of God,
-Christopher S Hodge,State House,88,R,Jones,First Assembly of God,
-Gary V Staples,State House,88,R,Jones,First Assembly of God,
+Ramona Q Blackledge,State House,88,R,Jones,First Assembly of God,x
+Christopher S Hodge,State House,88,R,Jones,First Assembly of God,x
+Gary V Staples,State House,88,R,Jones,First Assembly of God,x
 Donnie Scoggin,State House,89,R,Jones,First Assembly of God,219
 Michael Brown,Governor,,D,Jones,First Assembly of God,17
 William Bond Compton Jr.,Governor,,D,Jones,First Assembly of God,3
@@ -308,9 +308,9 @@ Jennifer Riley Collins,Attorney General,,D,Jones,First Assembly of God,141
 Addie Lee Green,State Treasurer,,D,Jones,First Assembly of God,143
 Rickey L Cole,Commissioner of Agriculture & Commerce,,D,Jones,First Assembly of God,148
 Robert E Arnos,Commissioner of Insurance,,D,Jones,First Assembly of God,147
-Juan Barnett,State Senate,34,D,Jones,First Assembly of God,
-Deborah Denard Delgado,State Senate,34,D,Jones,First Assembly of God,
-Omeria Scott,State House,80,D,Jones,First Assembly of God,
+Juan Barnett,State Senate,34,D,Jones,First Assembly of God,x
+Deborah Denard Delgado,State Senate,34,D,Jones,First Assembly of God,x
+Omeria Scott,State House,80,D,Jones,First Assembly of God,x
 Robert Foster,Governor,,R,Jones,George Harrison,152
 Tate Reeves,Governor,,R,Jones,George Harrison,275
 Bill Waller Jr.,Governor,,R,Jones,George Harrison,189
@@ -326,11 +326,11 @@ Eugene S. 'Buck' Clarke,State Treasurer,,R,Jones,George Harrison,243
 David McRae,State Treasurer,,R,Jones,George Harrison,352
 Andy Gipson,Commissioner of Agriculture & Commerce,,R,Jones,George Harrison,580
 Mike Chaney,Commissioner of Insurance,,R,Jones,George Harrison,580
-Steven L Wade,State Senate,34,R,Jones,George Harrison,
+Steven L Wade,State Senate,34,R,Jones,George Harrison,x
 Chris McDaniel,State Senate,42,R,Jones,George Harrison,577
-Ramona Q Blackledge,State House,88,R,Jones,George Harrison,
-Christopher S Hodge,State House,88,R,Jones,George Harrison,
-Gary V Staples,State House,88,R,Jones,George Harrison,
+Ramona Q Blackledge,State House,88,R,Jones,George Harrison,x
+Christopher S Hodge,State House,88,R,Jones,George Harrison,x
+Gary V Staples,State House,88,R,Jones,George Harrison,x
 Donnie Scoggin,State House,89,R,Jones,George Harrison,581
 Michael Brown,Governor,,D,Jones,George Harrison,12
 William Bond Compton Jr.,Governor,,D,Jones,George Harrison,2
@@ -347,9 +347,9 @@ Jennifer Riley Collins,Attorney General,,D,Jones,George Harrison,96
 Addie Lee Green,State Treasurer,,D,Jones,George Harrison,96
 Rickey L Cole,Commissioner of Agriculture & Commerce,,D,Jones,George Harrison,98
 Robert E Arnos,Commissioner of Insurance,,D,Jones,George Harrison,97
-Juan Barnett,State Senate,34,D,Jones,George Harrison,
-Deborah Denard Delgado,State Senate,34,D,Jones,George Harrison,
-Omeria Scott,State House,80,D,Jones,George Harrison,
+Juan Barnett,State Senate,34,D,Jones,George Harrison,x
+Deborah Denard Delgado,State Senate,34,D,Jones,George Harrison,x
+Omeria Scott,State House,80,D,Jones,George Harrison,x
 Robert Foster,Governor,,R,Jones,Gitano,52
 Tate Reeves,Governor,,R,Jones,Gitano,67
 Bill Waller Jr.,Governor,,R,Jones,Gitano,33
@@ -366,11 +366,11 @@ David McRae,State Treasurer,,R,Jones,Gitano,99
 Andy Gipson,Commissioner of Agriculture & Commerce,,R,Jones,Gitano,144
 Mike Chaney,Commissioner of Insurance,,R,Jones,Gitano,144
 Steven L Wade,State Senate,34,R,Jones,Gitano,143
-Chris McDaniel,State Senate,42,R,Jones,Gitano,
+Chris McDaniel,State Senate,42,R,Jones,Gitano,x
 Ramona Q Blackledge,State House,88,R,Jones,Gitano,81
 Christopher S Hodge,State House,88,R,Jones,Gitano,15
 Gary V Staples,State House,88,R,Jones,Gitano,54
-Donnie Scoggin,State House,89,R,Jones,Gitano,
+Donnie Scoggin,State House,89,R,Jones,Gitano,x
 Michael Brown,Governor,,D,Jones,Gitano,2
 William Bond Compton Jr.,Governor,,D,Jones,Gitano,0
 Jim Hood,Governor,,D,Jones,Gitano,20
@@ -388,7 +388,7 @@ Rickey L Cole,Commissioner of Agriculture & Commerce,,D,Jones,Gitano,25
 Robert E Arnos,Commissioner of Insurance,,D,Jones,Gitano,25
 Juan Barnett,State Senate,34,D,Jones,Gitano,15
 Deborah Denard Delgado,State Senate,34,D,Jones,Gitano,11
-Omeria Scott,State House,80,D,Jones,Gitano,
+Omeria Scott,State House,80,D,Jones,Gitano,x
 Robert Foster,Governor,,R,Jones,Glade,131
 Tate Reeves,Governor,,R,Jones,Glade,288
 Bill Waller Jr.,Governor,,R,Jones,Glade,186
@@ -404,12 +404,12 @@ Eugene S. 'Buck' Clarke,State Treasurer,,R,Jones,Glade,240
 David McRae,State Treasurer,,R,Jones,Glade,349
 Andy Gipson,Commissioner of Agriculture & Commerce,,R,Jones,Glade,585
 Mike Chaney,Commissioner of Insurance,,R,Jones,Glade,587
-Steven L Wade,State Senate,34,R,Jones,Glade,
+Steven L Wade,State Senate,34,R,Jones,Glade,x
 Chris McDaniel,State Senate,42,R,Jones,Glade,590
 Ramona Q Blackledge,State House,88,R,Jones,Glade,284
 Christopher S Hodge,State House,88,R,Jones,Glade,94
 Gary V Staples,State House,88,R,Jones,Glade,229
-Donnie Scoggin,State House,89,R,Jones,Glade,
+Donnie Scoggin,State House,89,R,Jones,Glade,x
 Michael Brown,Governor,,D,Jones,Glade,1
 William Bond Compton Jr.,Governor,,D,Jones,Glade,0
 Jim Hood,Governor,,D,Jones,Glade,3
@@ -425,9 +425,9 @@ Jennifer Riley Collins,Attorney General,,D,Jones,Glade,6
 Addie Lee Green,State Treasurer,,D,Jones,Glade,6
 Rickey L Cole,Commissioner of Agriculture & Commerce,,D,Jones,Glade,6
 Robert E Arnos,Commissioner of Insurance,,D,Jones,Glade,7
-Juan Barnett,State Senate,34,D,Jones,Glade,
-Deborah Denard Delgado,State Senate,34,D,Jones,Glade,
-Omeria Scott,State House,80,D,Jones,Glade,
+Juan Barnett,State Senate,34,D,Jones,Glade,x
+Deborah Denard Delgado,State Senate,34,D,Jones,Glade,x
+Omeria Scott,State House,80,D,Jones,Glade,x
 Robert Foster,Governor,,R,Jones,Hebron,38
 Tate Reeves,Governor,,R,Jones,Hebron,50
 Bill Waller Jr.,Governor,,R,Jones,Hebron,65
@@ -444,11 +444,11 @@ David McRae,State Treasurer,,R,Jones,Hebron,88
 Andy Gipson,Commissioner of Agriculture & Commerce,,R,Jones,Hebron,148
 Mike Chaney,Commissioner of Insurance,,R,Jones,Hebron,148
 Steven L Wade,State Senate,34,R,Jones,Hebron,147
-Chris McDaniel,State Senate,42,R,Jones,Hebron,
+Chris McDaniel,State Senate,42,R,Jones,Hebron,x
 Ramona Q Blackledge,State House,88,R,Jones,Hebron,82
 Christopher S Hodge,State House,88,R,Jones,Hebron,32
 Gary V Staples,State House,88,R,Jones,Hebron,37
-Donnie Scoggin,State House,89,R,Jones,Hebron,
+Donnie Scoggin,State House,89,R,Jones,Hebron,x
 Michael Brown,Governor,,D,Jones,Hebron,21
 William Bond Compton Jr.,Governor,,D,Jones,Hebron,1
 Jim Hood,Governor,,D,Jones,Hebron,142
@@ -466,7 +466,7 @@ Rickey L Cole,Commissioner of Agriculture & Commerce,,D,Jones,Hebron,151
 Robert E Arnos,Commissioner of Insurance,,D,Jones,Hebron,153
 Juan Barnett,State Senate,34,D,Jones,Hebron,134
 Deborah Denard Delgado,State Senate,34,D,Jones,Hebron,41
-Omeria Scott,State House,80,D,Jones,Hebron,
+Omeria Scott,State House,80,D,Jones,Hebron,x
 Robert Foster,Governor,,R,Jones,Johnson,89
 Tate Reeves,Governor,,R,Jones,Johnson,173
 Bill Waller Jr.,Governor,,R,Jones,Johnson,75
@@ -482,7 +482,7 @@ Eugene S. 'Buck' Clarke,State Treasurer,,R,Jones,Johnson,100
 David McRae,State Treasurer,,R,Jones,Johnson,222
 Andy Gipson,Commissioner of Agriculture & Commerce,,R,Jones,Johnson,319
 Mike Chaney,Commissioner of Insurance,,R,Jones,Johnson,318
-Steven L Wade,State Senate,34,R,Jones,Johnson,
+Steven L Wade,State Senate,34,R,Jones,Johnson,x
 Chris McDaniel,State Senate,42,R,Jones,Johnson,325
 Ramona Q Blackledge,State House,88,R,Jones,Johnson,63
 Christopher S Hodge,State House,88,R,Jones,Johnson,17
@@ -503,9 +503,9 @@ Jennifer Riley Collins,Attorney General,,D,Jones,Johnson,3
 Addie Lee Green,State Treasurer,,D,Jones,Johnson,3
 Rickey L Cole,Commissioner of Agriculture & Commerce,,D,Jones,Johnson,4
 Robert E Arnos,Commissioner of Insurance,,D,Jones,Johnson,4
-Juan Barnett,State Senate,34,D,Jones,Johnson,
-Deborah Denard Delgado,State Senate,34,D,Jones,Johnson,
-Omeria Scott,State House,80,D,Jones,Johnson,
+Juan Barnett,State Senate,34,D,Jones,Johnson,x
+Deborah Denard Delgado,State Senate,34,D,Jones,Johnson,x
+Omeria Scott,State House,80,D,Jones,Johnson,x
 Robert Foster,Governor,,R,Jones,L T Ellis Center,3
 Tate Reeves,Governor,,R,Jones,L T Ellis Center,8
 Bill Waller Jr.,Governor,,R,Jones,L T Ellis Center,6
@@ -522,11 +522,11 @@ David McRae,State Treasurer,,R,Jones,L T Ellis Center,8
 Andy Gipson,Commissioner of Agriculture & Commerce,,R,Jones,L T Ellis Center,15
 Mike Chaney,Commissioner of Insurance,,R,Jones,L T Ellis Center,15
 Steven L Wade,State Senate,34,R,Jones,L T Ellis Center,16
-Chris McDaniel,State Senate,42,R,Jones,L T Ellis Center,
-Ramona Q Blackledge,State House,88,R,Jones,L T Ellis Center,
-Christopher S Hodge,State House,88,R,Jones,L T Ellis Center,
-Gary V Staples,State House,88,R,Jones,L T Ellis Center,
-Donnie Scoggin,State House,89,R,Jones,L T Ellis Center,
+Chris McDaniel,State Senate,42,R,Jones,L T Ellis Center,x
+Ramona Q Blackledge,State House,88,R,Jones,L T Ellis Center,x
+Christopher S Hodge,State House,88,R,Jones,L T Ellis Center,x
+Gary V Staples,State House,88,R,Jones,L T Ellis Center,x
+Donnie Scoggin,State House,89,R,Jones,L T Ellis Center,x
 Michael Brown,Governor,,D,Jones,L T Ellis Center,103
 William Bond Compton Jr.,Governor,,D,Jones,L T Ellis Center,15
 Jim Hood,Governor,,D,Jones,L T Ellis Center,486
@@ -560,12 +560,12 @@ Eugene S. 'Buck' Clarke,State Treasurer,,R,Jones,Landrum,106
 David McRae,State Treasurer,,R,Jones,Landrum,121
 Andy Gipson,Commissioner of Agriculture & Commerce,,R,Jones,Landrum,220
 Mike Chaney,Commissioner of Insurance,,R,Jones,Landrum,218
-Steven L Wade,State Senate,34,R,Jones,Landrum,
+Steven L Wade,State Senate,34,R,Jones,Landrum,x
 Chris McDaniel,State Senate,42,R,Jones,Landrum,224
 Ramona Q Blackledge,State House,88,R,Jones,Landrum,80
 Christopher S Hodge,State House,88,R,Jones,Landrum,35
 Gary V Staples,State House,88,R,Jones,Landrum,114
-Donnie Scoggin,State House,89,R,Jones,Landrum,
+Donnie Scoggin,State House,89,R,Jones,Landrum,x
 Michael Brown,Governor,,D,Jones,Landrum,0
 William Bond Compton Jr.,Governor,,D,Jones,Landrum,0
 Jim Hood,Governor,,D,Jones,Landrum,2
@@ -581,9 +581,9 @@ Jennifer Riley Collins,Attorney General,,D,Jones,Landrum,2
 Addie Lee Green,State Treasurer,,D,Jones,Landrum,2
 Rickey L Cole,Commissioner of Agriculture & Commerce,,D,Jones,Landrum,2
 Robert E Arnos,Commissioner of Insurance,,D,Jones,Landrum,2
-Juan Barnett,State Senate,34,D,Jones,Landrum,
-Deborah Denard Delgado,State Senate,34,D,Jones,Landrum,
-Omeria Scott,State House,80,D,Jones,Landrum,
+Juan Barnett,State Senate,34,D,Jones,Landrum,x
+Deborah Denard Delgado,State Senate,34,D,Jones,Landrum,x
+Omeria Scott,State House,80,D,Jones,Landrum,x
 Robert Foster,Governor,,R,Jones,Magnolia Center,35
 Tate Reeves,Governor,,R,Jones,Magnolia Center,76
 Bill Waller Jr.,Governor,,R,Jones,Magnolia Center,67
@@ -600,11 +600,11 @@ David McRae,State Treasurer,,R,Jones,Magnolia Center,110
 Andy Gipson,Commissioner of Agriculture & Commerce,,R,Jones,Magnolia Center,171
 Mike Chaney,Commissioner of Insurance,,R,Jones,Magnolia Center,173
 Steven L Wade,State Senate,34,R,Jones,Magnolia Center,168
-Chris McDaniel,State Senate,42,R,Jones,Magnolia Center,
-Ramona Q Blackledge,State House,88,R,Jones,Magnolia Center,
-Christopher S Hodge,State House,88,R,Jones,Magnolia Center,
-Gary V Staples,State House,88,R,Jones,Magnolia Center,
-Donnie Scoggin,State House,89,R,Jones,Magnolia Center,
+Chris McDaniel,State Senate,42,R,Jones,Magnolia Center,x
+Ramona Q Blackledge,State House,88,R,Jones,Magnolia Center,x
+Christopher S Hodge,State House,88,R,Jones,Magnolia Center,x
+Gary V Staples,State House,88,R,Jones,Magnolia Center,x
+Donnie Scoggin,State House,89,R,Jones,Magnolia Center,x
 Michael Brown,Governor,,D,Jones,Magnolia Center,79
 William Bond Compton Jr.,Governor,,D,Jones,Magnolia Center,6
 Jim Hood,Governor,,D,Jones,Magnolia Center,446
@@ -638,11 +638,11 @@ Eugene S. 'Buck' Clarke,State Treasurer,,R,Jones,Matthews,110
 David McRae,State Treasurer,,R,Jones,Matthews,177
 Andy Gipson,Commissioner of Agriculture & Commerce,,R,Jones,Matthews,288
 Mike Chaney,Commissioner of Insurance,,R,Jones,Matthews,286
-Steven L Wade,State Senate,34,R,Jones,Matthews,
+Steven L Wade,State Senate,34,R,Jones,Matthews,x
 Chris McDaniel,State Senate,42,R,Jones,Matthews,283
-Ramona Q Blackledge,State House,88,R,Jones,Matthews,
-Christopher S Hodge,State House,88,R,Jones,Matthews,
-Gary V Staples,State House,88,R,Jones,Matthews,
+Ramona Q Blackledge,State House,88,R,Jones,Matthews,x
+Christopher S Hodge,State House,88,R,Jones,Matthews,x
+Gary V Staples,State House,88,R,Jones,Matthews,x
 Donnie Scoggin,State House,89,R,Jones,Matthews,285
 Michael Brown,Governor,,D,Jones,Matthews,0
 William Bond Compton Jr.,Governor,,D,Jones,Matthews,1
@@ -659,9 +659,9 @@ Jennifer Riley Collins,Attorney General,,D,Jones,Matthews,16
 Addie Lee Green,State Treasurer,,D,Jones,Matthews,16
 Rickey L Cole,Commissioner of Agriculture & Commerce,,D,Jones,Matthews,16
 Robert E Arnos,Commissioner of Insurance,,D,Jones,Matthews,17
-Juan Barnett,State Senate,34,D,Jones,Matthews,
-Deborah Denard Delgado,State Senate,34,D,Jones,Matthews,
-Omeria Scott,State House,80,D,Jones,Matthews,
+Juan Barnett,State Senate,34,D,Jones,Matthews,x
+Deborah Denard Delgado,State Senate,34,D,Jones,Matthews,x
+Omeria Scott,State House,80,D,Jones,Matthews,x
 Robert Foster,Governor,,R,Jones,Moselle,88
 Tate Reeves,Governor,,R,Jones,Moselle,199
 Bill Waller Jr.,Governor,,R,Jones,Moselle,111
@@ -677,12 +677,12 @@ Eugene S. 'Buck' Clarke,State Treasurer,,R,Jones,Moselle,145
 David McRae,State Treasurer,,R,Jones,Moselle,244
 Andy Gipson,Commissioner of Agriculture & Commerce,,R,Jones,Moselle,366
 Mike Chaney,Commissioner of Insurance,,R,Jones,Moselle,366
-Steven L Wade,State Senate,34,R,Jones,Moselle,
+Steven L Wade,State Senate,34,R,Jones,Moselle,x
 Chris McDaniel,State Senate,42,R,Jones,Moselle,372
 Ramona Q Blackledge,State House,88,R,Jones,Moselle,213
 Christopher S Hodge,State House,88,R,Jones,Moselle,83
 Gary V Staples,State House,88,R,Jones,Moselle,97
-Donnie Scoggin,State House,89,R,Jones,Moselle,
+Donnie Scoggin,State House,89,R,Jones,Moselle,x
 Michael Brown,Governor,,D,Jones,Moselle,3
 William Bond Compton Jr.,Governor,,D,Jones,Moselle,2
 Jim Hood,Governor,,D,Jones,Moselle,50
@@ -698,9 +698,9 @@ Jennifer Riley Collins,Attorney General,,D,Jones,Moselle,54
 Addie Lee Green,State Treasurer,,D,Jones,Moselle,54
 Rickey L Cole,Commissioner of Agriculture & Commerce,,D,Jones,Moselle,56
 Robert E Arnos,Commissioner of Insurance,,D,Jones,Moselle,55
-Juan Barnett,State Senate,34,D,Jones,Moselle,
-Deborah Denard Delgado,State Senate,34,D,Jones,Moselle,
-Omeria Scott,State House,80,D,Jones,Moselle,
+Juan Barnett,State Senate,34,D,Jones,Moselle,x
+Deborah Denard Delgado,State Senate,34,D,Jones,Moselle,x
+Omeria Scott,State House,80,D,Jones,Moselle,x
 Robert Foster,Governor,,R,Jones,Myrick,176
 Tate Reeves,Governor,,R,Jones,Myrick,337
 Bill Waller Jr.,Governor,,R,Jones,Myrick,221
@@ -716,12 +716,12 @@ Eugene S. 'Buck' Clarke,State Treasurer,,R,Jones,Myrick,299
 David McRae,State Treasurer,,R,Jones,Myrick,417
 Andy Gipson,Commissioner of Agriculture & Commerce,,R,Jones,Myrick,703
 Mike Chaney,Commissioner of Insurance,,R,Jones,Myrick,703
-Steven L Wade,State Senate,34,R,Jones,Myrick,
+Steven L Wade,State Senate,34,R,Jones,Myrick,x
 Chris McDaniel,State Senate,42,R,Jones,Myrick,711
 Ramona Q Blackledge,State House,88,R,Jones,Myrick,251
 Christopher S Hodge,State House,88,R,Jones,Myrick,180
 Gary V Staples,State House,88,R,Jones,Myrick,308
-Donnie Scoggin,State House,89,R,Jones,Myrick,
+Donnie Scoggin,State House,89,R,Jones,Myrick,x
 Michael Brown,Governor,,D,Jones,Myrick,0
 William Bond Compton Jr.,Governor,,D,Jones,Myrick,0
 Jim Hood,Governor,,D,Jones,Myrick,5
@@ -737,9 +737,9 @@ Jennifer Riley Collins,Attorney General,,D,Jones,Myrick,4
 Addie Lee Green,State Treasurer,,D,Jones,Myrick,4
 Rickey L Cole,Commissioner of Agriculture & Commerce,,D,Jones,Myrick,4
 Robert E Arnos,Commissioner of Insurance,,D,Jones,Myrick,4
-Juan Barnett,State Senate,34,D,Jones,Myrick,
-Deborah Denard Delgado,State Senate,34,D,Jones,Myrick,
-Omeria Scott,State House,80,D,Jones,Myrick,
+Juan Barnett,State Senate,34,D,Jones,Myrick,x
+Deborah Denard Delgado,State Senate,34,D,Jones,Myrick,x
+Omeria Scott,State House,80,D,Jones,Myrick,x
 Robert Foster,Governor,,R,Jones,North Laurel,129
 Tate Reeves,Governor,,R,Jones,North Laurel,299
 Bill Waller Jr.,Governor,,R,Jones,North Laurel,388
@@ -757,9 +757,9 @@ Andy Gipson,Commissioner of Agriculture & Commerce,,R,Jones,North Laurel,768
 Mike Chaney,Commissioner of Insurance,,R,Jones,North Laurel,777
 Steven L Wade,State Senate,34,R,Jones,North Laurel,215
 Chris McDaniel,State Senate,42,R,Jones,North Laurel,534
-Ramona Q Blackledge,State House,88,R,Jones,North Laurel,
-Christopher S Hodge,State House,88,R,Jones,North Laurel,
-Gary V Staples,State House,88,R,Jones,North Laurel,
+Ramona Q Blackledge,State House,88,R,Jones,North Laurel,x
+Christopher S Hodge,State House,88,R,Jones,North Laurel,x
+Gary V Staples,State House,88,R,Jones,North Laurel,x
 Donnie Scoggin,State House,89,R,Jones,North Laurel,554
 Michael Brown,Governor,,D,Jones,North Laurel,43
 William Bond Compton Jr.,Governor,,D,Jones,North Laurel,4
@@ -795,11 +795,11 @@ David McRae,State Treasurer,,R,Jones,Oak Park School,1
 Andy Gipson,Commissioner of Agriculture & Commerce,,R,Jones,Oak Park School,0
 Mike Chaney,Commissioner of Insurance,,R,Jones,Oak Park School,0
 Steven L Wade,State Senate,34,R,Jones,Oak Park School,0
-Chris McDaniel,State Senate,42,R,Jones,Oak Park School,
-Ramona Q Blackledge,State House,88,R,Jones,Oak Park School,
-Christopher S Hodge,State House,88,R,Jones,Oak Park School,
-Gary V Staples,State House,88,R,Jones,Oak Park School,
-Donnie Scoggin,State House,89,R,Jones,Oak Park School,
+Chris McDaniel,State Senate,42,R,Jones,Oak Park School,x
+Ramona Q Blackledge,State House,88,R,Jones,Oak Park School,x
+Christopher S Hodge,State House,88,R,Jones,Oak Park School,x
+Gary V Staples,State House,88,R,Jones,Oak Park School,x
+Donnie Scoggin,State House,89,R,Jones,Oak Park School,x
 Michael Brown,Governor,,D,Jones,Oak Park School,45
 William Bond Compton Jr.,Governor,,D,Jones,Oak Park School,7
 Jim Hood,Governor,,D,Jones,Oak Park School,260
@@ -833,12 +833,12 @@ Eugene S. 'Buck' Clarke,State Treasurer,,R,Jones,Ovett,166
 David McRae,State Treasurer,,R,Jones,Ovett,205
 Andy Gipson,Commissioner of Agriculture & Commerce,,R,Jones,Ovett,367
 Mike Chaney,Commissioner of Insurance,,R,Jones,Ovett,368
-Steven L Wade,State Senate,34,R,Jones,Ovett,
+Steven L Wade,State Senate,34,R,Jones,Ovett,x
 Chris McDaniel,State Senate,42,R,Jones,Ovett,368
 Ramona Q Blackledge,State House,88,R,Jones,Ovett,181
 Christopher S Hodge,State House,88,R,Jones,Ovett,81
 Gary V Staples,State House,88,R,Jones,Ovett,117
-Donnie Scoggin,State House,89,R,Jones,Ovett,
+Donnie Scoggin,State House,89,R,Jones,Ovett,x
 Michael Brown,Governor,,D,Jones,Ovett,0
 William Bond Compton Jr.,Governor,,D,Jones,Ovett,0
 Jim Hood,Governor,,D,Jones,Ovett,11
@@ -854,9 +854,9 @@ Jennifer Riley Collins,Attorney General,,D,Jones,Ovett,11
 Addie Lee Green,State Treasurer,,D,Jones,Ovett,11
 Rickey L Cole,Commissioner of Agriculture & Commerce,,D,Jones,Ovett,11
 Robert E Arnos,Commissioner of Insurance,,D,Jones,Ovett,11
-Juan Barnett,State Senate,34,D,Jones,Ovett,
-Deborah Denard Delgado,State Senate,34,D,Jones,Ovett,
-Omeria Scott,State House,80,D,Jones,Ovett,
+Juan Barnett,State Senate,34,D,Jones,Ovett,x
+Deborah Denard Delgado,State Senate,34,D,Jones,Ovett,x
+Omeria Scott,State House,80,D,Jones,Ovett,x
 Robert Foster,Governor,,R,Jones,Parkview Baptist Church,53
 Tate Reeves,Governor,,R,Jones,Parkview Baptist Church,94
 Bill Waller Jr.,Governor,,R,Jones,Parkview Baptist Church,159
@@ -874,9 +874,9 @@ Andy Gipson,Commissioner of Agriculture & Commerce,,R,Jones,Parkview Baptist Chu
 Mike Chaney,Commissioner of Insurance,,R,Jones,Parkview Baptist Church,284
 Steven L Wade,State Senate,34,R,Jones,Parkview Baptist Church,164
 Chris McDaniel,State Senate,42,R,Jones,Parkview Baptist Church,117
-Ramona Q Blackledge,State House,88,R,Jones,Parkview Baptist Church,
-Christopher S Hodge,State House,88,R,Jones,Parkview Baptist Church,
-Gary V Staples,State House,88,R,Jones,Parkview Baptist Church,
+Ramona Q Blackledge,State House,88,R,Jones,Parkview Baptist Church,x
+Christopher S Hodge,State House,88,R,Jones,Parkview Baptist Church,x
+Gary V Staples,State House,88,R,Jones,Parkview Baptist Church,x
 Donnie Scoggin,State House,89,R,Jones,Parkview Baptist Church,257
 Michael Brown,Governor,,D,Jones,Parkview Baptist Church,16
 William Bond Compton Jr.,Governor,,D,Jones,Parkview Baptist Church,0
@@ -911,11 +911,11 @@ Eugene S. 'Buck' Clarke,State Treasurer,,R,Jones,Pine Grove,167
 David McRae,State Treasurer,,R,Jones,Pine Grove,279
 Andy Gipson,Commissioner of Agriculture & Commerce,,R,Jones,Pine Grove,436
 Mike Chaney,Commissioner of Insurance,,R,Jones,Pine Grove,433
-Steven L Wade,State Senate,34,R,Jones,Pine Grove,
+Steven L Wade,State Senate,34,R,Jones,Pine Grove,x
 Chris McDaniel,State Senate,42,R,Jones,Pine Grove,436
-Ramona Q Blackledge,State House,88,R,Jones,Pine Grove,
-Christopher S Hodge,State House,88,R,Jones,Pine Grove,
-Gary V Staples,State House,88,R,Jones,Pine Grove,
+Ramona Q Blackledge,State House,88,R,Jones,Pine Grove,x
+Christopher S Hodge,State House,88,R,Jones,Pine Grove,x
+Gary V Staples,State House,88,R,Jones,Pine Grove,x
 Donnie Scoggin,State House,89,R,Jones,Pine Grove,439
 Michael Brown,Governor,,D,Jones,Pine Grove,0
 William Bond Compton Jr.,Governor,,D,Jones,Pine Grove,0
@@ -932,9 +932,9 @@ Jennifer Riley Collins,Attorney General,,D,Jones,Pine Grove,8
 Addie Lee Green,State Treasurer,,D,Jones,Pine Grove,8
 Rickey L Cole,Commissioner of Agriculture & Commerce,,D,Jones,Pine Grove,8
 Robert E Arnos,Commissioner of Insurance,,D,Jones,Pine Grove,8
-Juan Barnett,State Senate,34,D,Jones,Pine Grove,
-Deborah Denard Delgado,State Senate,34,D,Jones,Pine Grove,
-Omeria Scott,State House,80,D,Jones,Pine Grove,
+Juan Barnett,State Senate,34,D,Jones,Pine Grove,x
+Deborah Denard Delgado,State Senate,34,D,Jones,Pine Grove,x
+Omeria Scott,State House,80,D,Jones,Pine Grove,x
 Robert Foster,Governor,,R,Jones,Pleasant Ridge,98
 Tate Reeves,Governor,,R,Jones,Pleasant Ridge,166
 Bill Waller Jr.,Governor,,R,Jones,Pleasant Ridge,97
@@ -950,11 +950,11 @@ Eugene S. 'Buck' Clarke,State Treasurer,,R,Jones,Pleasant Ridge,132
 David McRae,State Treasurer,,R,Jones,Pleasant Ridge,215
 Andy Gipson,Commissioner of Agriculture & Commerce,,R,Jones,Pleasant Ridge,341
 Mike Chaney,Commissioner of Insurance,,R,Jones,Pleasant Ridge,345
-Steven L Wade,State Senate,34,R,Jones,Pleasant Ridge,
+Steven L Wade,State Senate,34,R,Jones,Pleasant Ridge,x
 Chris McDaniel,State Senate,42,R,Jones,Pleasant Ridge,344
-Ramona Q Blackledge,State House,88,R,Jones,Pleasant Ridge,
-Christopher S Hodge,State House,88,R,Jones,Pleasant Ridge,
-Gary V Staples,State House,88,R,Jones,Pleasant Ridge,
+Ramona Q Blackledge,State House,88,R,Jones,Pleasant Ridge,x
+Christopher S Hodge,State House,88,R,Jones,Pleasant Ridge,x
+Gary V Staples,State House,88,R,Jones,Pleasant Ridge,x
 Donnie Scoggin,State House,89,R,Jones,Pleasant Ridge,352
 Michael Brown,Governor,,D,Jones,Pleasant Ridge,1
 William Bond Compton Jr.,Governor,,D,Jones,Pleasant Ridge,0
@@ -971,9 +971,9 @@ Jennifer Riley Collins,Attorney General,,D,Jones,Pleasant Ridge,9
 Addie Lee Green,State Treasurer,,D,Jones,Pleasant Ridge,9
 Rickey L Cole,Commissioner of Agriculture & Commerce,,D,Jones,Pleasant Ridge,10
 Robert E Arnos,Commissioner of Insurance,,D,Jones,Pleasant Ridge,9
-Juan Barnett,State Senate,34,D,Jones,Pleasant Ridge,
-Deborah Denard Delgado,State Senate,34,D,Jones,Pleasant Ridge,
-Omeria Scott,State House,80,D,Jones,Pleasant Ridge,
+Juan Barnett,State Senate,34,D,Jones,Pleasant Ridge,x
+Deborah Denard Delgado,State Senate,34,D,Jones,Pleasant Ridge,x
+Omeria Scott,State House,80,D,Jones,Pleasant Ridge,x
 Robert Foster,Governor,,R,Jones,Powers,128
 Tate Reeves,Governor,,R,Jones,Powers,251
 Bill Waller Jr.,Governor,,R,Jones,Powers,167
@@ -989,12 +989,12 @@ Eugene S. 'Buck' Clarke,State Treasurer,,R,Jones,Powers,240
 David McRae,State Treasurer,,R,Jones,Powers,289
 Andy Gipson,Commissioner of Agriculture & Commerce,,R,Jones,Powers,525
 Mike Chaney,Commissioner of Insurance,,R,Jones,Powers,527
-Steven L Wade,State Senate,34,R,Jones,Powers,
+Steven L Wade,State Senate,34,R,Jones,Powers,x
 Chris McDaniel,State Senate,42,R,Jones,Powers,532
 Ramona Q Blackledge,State House,88,R,Jones,Powers,265
 Christopher S Hodge,State House,88,R,Jones,Powers,114
 Gary V Staples,State House,88,R,Jones,Powers,169
-Donnie Scoggin,State House,89,R,Jones,Powers,
+Donnie Scoggin,State House,89,R,Jones,Powers,x
 Michael Brown,Governor,,D,Jones,Powers,3
 William Bond Compton Jr.,Governor,,D,Jones,Powers,0
 Jim Hood,Governor,,D,Jones,Powers,45
@@ -1010,9 +1010,9 @@ Jennifer Riley Collins,Attorney General,,D,Jones,Powers,49
 Addie Lee Green,State Treasurer,,D,Jones,Powers,47
 Rickey L Cole,Commissioner of Agriculture & Commerce,,D,Jones,Powers,50
 Robert E Arnos,Commissioner of Insurance,,D,Jones,Powers,50
-Juan Barnett,State Senate,34,D,Jones,Powers,
-Deborah Denard Delgado,State Senate,34,D,Jones,Powers,
-Omeria Scott,State House,80,D,Jones,Powers,
+Juan Barnett,State Senate,34,D,Jones,Powers,x
+Deborah Denard Delgado,State Senate,34,D,Jones,Powers,x
+Omeria Scott,State House,80,D,Jones,Powers,x
 Robert Foster,Governor,,R,Jones,Rainey,128
 Tate Reeves,Governor,,R,Jones,Rainey,299
 Bill Waller Jr.,Governor,,R,Jones,Rainey,136
@@ -1029,11 +1029,11 @@ David McRae,State Treasurer,,R,Jones,Rainey,319
 Andy Gipson,Commissioner of Agriculture & Commerce,,R,Jones,Rainey,534
 Mike Chaney,Commissioner of Insurance,,R,Jones,Rainey,537
 Steven L Wade,State Senate,34,R,Jones,Rainey,531
-Chris McDaniel,State Senate,42,R,Jones,Rainey,
+Chris McDaniel,State Senate,42,R,Jones,Rainey,x
 Ramona Q Blackledge,State House,88,R,Jones,Rainey,308
 Christopher S Hodge,State House,88,R,Jones,Rainey,82
 Gary V Staples,State House,88,R,Jones,Rainey,165
-Donnie Scoggin,State House,89,R,Jones,Rainey,
+Donnie Scoggin,State House,89,R,Jones,Rainey,x
 Michael Brown,Governor,,D,Jones,Rainey,0
 William Bond Compton Jr.,Governor,,D,Jones,Rainey,0
 Jim Hood,Governor,,D,Jones,Rainey,10
@@ -1051,7 +1051,7 @@ Rickey L Cole,Commissioner of Agriculture & Commerce,,D,Jones,Rainey,10
 Robert E Arnos,Commissioner of Insurance,,D,Jones,Rainey,9
 Juan Barnett,State Senate,34,D,Jones,Rainey,8
 Deborah Denard Delgado,State Senate,34,D,Jones,Rainey,1
-Omeria Scott,State House,80,D,Jones,Rainey,
+Omeria Scott,State House,80,D,Jones,Rainey,x
 Robert Foster,Governor,,R,Jones,Rustin,70
 Tate Reeves,Governor,,R,Jones,Rustin,190
 Bill Waller Jr.,Governor,,R,Jones,Rustin,83
@@ -1067,12 +1067,12 @@ Eugene S. 'Buck' Clarke,State Treasurer,,R,Jones,Rustin,140
 David McRae,State Treasurer,,R,Jones,Rustin,199
 Andy Gipson,Commissioner of Agriculture & Commerce,,R,Jones,Rustin,337
 Mike Chaney,Commissioner of Insurance,,R,Jones,Rustin,337
-Steven L Wade,State Senate,34,R,Jones,Rustin,
+Steven L Wade,State Senate,34,R,Jones,Rustin,x
 Chris McDaniel,State Senate,42,R,Jones,Rustin,332
 Ramona Q Blackledge,State House,88,R,Jones,Rustin,144
 Christopher S Hodge,State House,88,R,Jones,Rustin,102
 Gary V Staples,State House,88,R,Jones,Rustin,99
-Donnie Scoggin,State House,89,R,Jones,Rustin,
+Donnie Scoggin,State House,89,R,Jones,Rustin,x
 Michael Brown,Governor,,D,Jones,Rustin,0
 William Bond Compton Jr.,Governor,,D,Jones,Rustin,0
 Jim Hood,Governor,,D,Jones,Rustin,6
@@ -1088,9 +1088,9 @@ Jennifer Riley Collins,Attorney General,,D,Jones,Rustin,4
 Addie Lee Green,State Treasurer,,D,Jones,Rustin,5
 Rickey L Cole,Commissioner of Agriculture & Commerce,,D,Jones,Rustin,6
 Robert E Arnos,Commissioner of Insurance,,D,Jones,Rustin,5
-Juan Barnett,State Senate,34,D,Jones,Rustin,
-Deborah Denard Delgado,State Senate,34,D,Jones,Rustin,
-Omeria Scott,State House,80,D,Jones,Rustin,
+Juan Barnett,State Senate,34,D,Jones,Rustin,x
+Deborah Denard Delgado,State Senate,34,D,Jones,Rustin,x
+Omeria Scott,State House,80,D,Jones,Rustin,x
 Robert Foster,Governor,,R,Jones,Sand Hill,115
 Tate Reeves,Governor,,R,Jones,Sand Hill,158
 Bill Waller Jr.,Governor,,R,Jones,Sand Hill,197
@@ -1107,11 +1107,11 @@ David McRae,State Treasurer,,R,Jones,Sand Hill,284
 Andy Gipson,Commissioner of Agriculture & Commerce,,R,Jones,Sand Hill,455
 Mike Chaney,Commissioner of Insurance,,R,Jones,Sand Hill,456
 Steven L Wade,State Senate,34,R,Jones,Sand Hill,447
-Chris McDaniel,State Senate,42,R,Jones,Sand Hill,
+Chris McDaniel,State Senate,42,R,Jones,Sand Hill,x
 Ramona Q Blackledge,State House,88,R,Jones,Sand Hill,210
 Christopher S Hodge,State House,88,R,Jones,Sand Hill,77
 Gary V Staples,State House,88,R,Jones,Sand Hill,179
-Donnie Scoggin,State House,89,R,Jones,Sand Hill,
+Donnie Scoggin,State House,89,R,Jones,Sand Hill,x
 Michael Brown,Governor,,D,Jones,Sand Hill,2
 William Bond Compton Jr.,Governor,,D,Jones,Sand Hill,0
 Jim Hood,Governor,,D,Jones,Sand Hill,8
@@ -1129,7 +1129,7 @@ Rickey L Cole,Commissioner of Agriculture & Commerce,,D,Jones,Sand Hill,14
 Robert E Arnos,Commissioner of Insurance,,D,Jones,Sand Hill,14
 Juan Barnett,State Senate,34,D,Jones,Sand Hill,7
 Deborah Denard Delgado,State Senate,34,D,Jones,Sand Hill,7
-Omeria Scott,State House,80,D,Jones,Sand Hill,
+Omeria Scott,State House,80,D,Jones,Sand Hill,x
 Robert Foster,Governor,,R,Jones,Sandersville,113
 Tate Reeves,Governor,,R,Jones,Sandersville,174
 Bill Waller Jr.,Governor,,R,Jones,Sandersville,75
@@ -1145,12 +1145,12 @@ Eugene S. 'Buck' Clarke,State Treasurer,,R,Jones,Sandersville,156
 David McRae,State Treasurer,,R,Jones,Sandersville,200
 Andy Gipson,Commissioner of Agriculture & Commerce,,R,Jones,Sandersville,353
 Mike Chaney,Commissioner of Insurance,,R,Jones,Sandersville,354
-Steven L Wade,State Senate,34,R,Jones,Sandersville,
+Steven L Wade,State Senate,34,R,Jones,Sandersville,x
 Chris McDaniel,State Senate,42,R,Jones,Sandersville,347
-Ramona Q Blackledge,State House,88,R,Jones,Sandersville,
-Christopher S Hodge,State House,88,R,Jones,Sandersville,
-Gary V Staples,State House,88,R,Jones,Sandersville,
-Donnie Scoggin,State House,89,R,Jones,Sandersville,
+Ramona Q Blackledge,State House,88,R,Jones,Sandersville,x
+Christopher S Hodge,State House,88,R,Jones,Sandersville,x
+Gary V Staples,State House,88,R,Jones,Sandersville,x
+Donnie Scoggin,State House,89,R,Jones,Sandersville,x
 Michael Brown,Governor,,D,Jones,Sandersville,6
 William Bond Compton Jr.,Governor,,D,Jones,Sandersville,2
 Jim Hood,Governor,,D,Jones,Sandersville,37
@@ -1166,8 +1166,8 @@ Jennifer Riley Collins,Attorney General,,D,Jones,Sandersville,51
 Addie Lee Green,State Treasurer,,D,Jones,Sandersville,52
 Rickey L Cole,Commissioner of Agriculture & Commerce,,D,Jones,Sandersville,54
 Robert E Arnos,Commissioner of Insurance,,D,Jones,Sandersville,53
-Juan Barnett,State Senate,34,D,Jones,Sandersville,
-Deborah Denard Delgado,State Senate,34,D,Jones,Sandersville,
+Juan Barnett,State Senate,34,D,Jones,Sandersville,x
+Deborah Denard Delgado,State Senate,34,D,Jones,Sandersville,x
 Omeria Scott,State House,80,D,Jones,Sandersville,54
 Robert Foster,Governor,,R,Jones,Shady Grove,267
 Tate Reeves,Governor,,R,Jones,Shady Grove,432
@@ -1184,11 +1184,11 @@ Eugene S. 'Buck' Clarke,State Treasurer,,R,Jones,Shady Grove,388
 David McRae,State Treasurer,,R,Jones,Shady Grove,541
 Andy Gipson,Commissioner of Agriculture & Commerce,,R,Jones,Shady Grove,912
 Mike Chaney,Commissioner of Insurance,,R,Jones,Shady Grove,904
-Steven L Wade,State Senate,34,R,Jones,Shady Grove,
+Steven L Wade,State Senate,34,R,Jones,Shady Grove,x
 Chris McDaniel,State Senate,42,R,Jones,Shady Grove,904
-Ramona Q Blackledge,State House,88,R,Jones,Shady Grove,
-Christopher S Hodge,State House,88,R,Jones,Shady Grove,
-Gary V Staples,State House,88,R,Jones,Shady Grove,
+Ramona Q Blackledge,State House,88,R,Jones,Shady Grove,x
+Christopher S Hodge,State House,88,R,Jones,Shady Grove,x
+Gary V Staples,State House,88,R,Jones,Shady Grove,x
 Donnie Scoggin,State House,89,R,Jones,Shady Grove,818
 Michael Brown,Governor,,D,Jones,Shady Grove,27
 William Bond Compton Jr.,Governor,,D,Jones,Shady Grove,4
@@ -1205,8 +1205,8 @@ Jennifer Riley Collins,Attorney General,,D,Jones,Shady Grove,189
 Addie Lee Green,State Treasurer,,D,Jones,Shady Grove,191
 Rickey L Cole,Commissioner of Agriculture & Commerce,,D,Jones,Shady Grove,196
 Robert E Arnos,Commissioner of Insurance,,D,Jones,Shady Grove,195
-Juan Barnett,State Senate,34,D,Jones,Shady Grove,
-Deborah Denard Delgado,State Senate,34,D,Jones,Shady Grove,
+Juan Barnett,State Senate,34,D,Jones,Shady Grove,x
+Deborah Denard Delgado,State Senate,34,D,Jones,Shady Grove,x
 Omeria Scott,State House,80,D,Jones,Shady Grove,146
 Robert Foster,Governor,,R,Jones,Sharon,190
 Tate Reeves,Governor,,R,Jones,Sharon,329
@@ -1223,11 +1223,11 @@ Eugene S. 'Buck' Clarke,State Treasurer,,R,Jones,Sharon,250
 David McRae,State Treasurer,,R,Jones,Sharon,367
 Andy Gipson,Commissioner of Agriculture & Commerce,,R,Jones,Sharon,601
 Mike Chaney,Commissioner of Insurance,,R,Jones,Sharon,604
-Steven L Wade,State Senate,34,R,Jones,Sharon,
+Steven L Wade,State Senate,34,R,Jones,Sharon,x
 Chris McDaniel,State Senate,42,R,Jones,Sharon,608
-Ramona Q Blackledge,State House,88,R,Jones,Sharon,
-Christopher S Hodge,State House,88,R,Jones,Sharon,
-Gary V Staples,State House,88,R,Jones,Sharon,
+Ramona Q Blackledge,State House,88,R,Jones,Sharon,x
+Christopher S Hodge,State House,88,R,Jones,Sharon,x
+Gary V Staples,State House,88,R,Jones,Sharon,x
 Donnie Scoggin,State House,89,R,Jones,Sharon,401
 Michael Brown,Governor,,D,Jones,Sharon,8
 William Bond Compton Jr.,Governor,,D,Jones,Sharon,1
@@ -1244,8 +1244,8 @@ Jennifer Riley Collins,Attorney General,,D,Jones,Sharon,62
 Addie Lee Green,State Treasurer,,D,Jones,Sharon,61
 Rickey L Cole,Commissioner of Agriculture & Commerce,,D,Jones,Sharon,62
 Robert E Arnos,Commissioner of Insurance,,D,Jones,Sharon,61
-Juan Barnett,State Senate,34,D,Jones,Sharon,
-Deborah Denard Delgado,State Senate,34,D,Jones,Sharon,
+Juan Barnett,State Senate,34,D,Jones,Sharon,x
+Deborah Denard Delgado,State Senate,34,D,Jones,Sharon,x
 Omeria Scott,State House,80,D,Jones,Sharon,15
 Robert Foster,Governor,,R,Jones,Shelton,33
 Tate Reeves,Governor,,R,Jones,Shelton,130
@@ -1263,11 +1263,11 @@ David McRae,State Treasurer,,R,Jones,Shelton,129
 Andy Gipson,Commissioner of Agriculture & Commerce,,R,Jones,Shelton,233
 Mike Chaney,Commissioner of Insurance,,R,Jones,Shelton,232
 Steven L Wade,State Senate,34,R,Jones,Shelton,227
-Chris McDaniel,State Senate,42,R,Jones,Shelton,
+Chris McDaniel,State Senate,42,R,Jones,Shelton,x
 Ramona Q Blackledge,State House,88,R,Jones,Shelton,137
 Christopher S Hodge,State House,88,R,Jones,Shelton,50
 Gary V Staples,State House,88,R,Jones,Shelton,54
-Donnie Scoggin,State House,89,R,Jones,Shelton,
+Donnie Scoggin,State House,89,R,Jones,Shelton,x
 Michael Brown,Governor,,D,Jones,Shelton,2
 William Bond Compton Jr.,Governor,,D,Jones,Shelton,0
 Jim Hood,Governor,,D,Jones,Shelton,81
@@ -1285,7 +1285,7 @@ Rickey L Cole,Commissioner of Agriculture & Commerce,,D,Jones,Shelton,79
 Robert E Arnos,Commissioner of Insurance,,D,Jones,Shelton,75
 Juan Barnett,State Senate,34,D,Jones,Shelton,33
 Deborah Denard Delgado,State Senate,34,D,Jones,Shelton,56
-Omeria Scott,State House,80,D,Jones,Shelton,
+Omeria Scott,State House,80,D,Jones,Shelton,x
 Robert Foster,Governor,,R,Jones,SoSo,142
 Tate Reeves,Governor,,R,Jones,SoSo,142
 Bill Waller Jr.,Governor,,R,Jones,SoSo,56
@@ -1302,11 +1302,11 @@ David McRae,State Treasurer,,R,Jones,SoSo,196
 Andy Gipson,Commissioner of Agriculture & Commerce,,R,Jones,SoSo,330
 Mike Chaney,Commissioner of Insurance,,R,Jones,SoSo,332
 Steven L Wade,State Senate,34,R,Jones,SoSo,327
-Chris McDaniel,State Senate,42,R,Jones,SoSo,
+Chris McDaniel,State Senate,42,R,Jones,SoSo,x
 Ramona Q Blackledge,State House,88,R,Jones,SoSo,174
 Christopher S Hodge,State House,88,R,Jones,SoSo,34
 Gary V Staples,State House,88,R,Jones,SoSo,134
-Donnie Scoggin,State House,89,R,Jones,SoSo,
+Donnie Scoggin,State House,89,R,Jones,SoSo,x
 Michael Brown,Governor,,D,Jones,SoSo,23
 William Bond Compton Jr.,Governor,,D,Jones,SoSo,2
 Jim Hood,Governor,,D,Jones,SoSo,132
@@ -1324,7 +1324,7 @@ Rickey L Cole,Commissioner of Agriculture & Commerce,,D,Jones,SoSo,148
 Robert E Arnos,Commissioner of Insurance,,D,Jones,SoSo,133
 Juan Barnett,State Senate,34,D,Jones,SoSo,105
 Deborah Denard Delgado,State Senate,34,D,Jones,SoSo,61
-Omeria Scott,State House,80,D,Jones,SoSo,
+Omeria Scott,State House,80,D,Jones,SoSo,x
 Robert Foster,Governor,,R,Jones,Springhill/Mauldin,183
 Tate Reeves,Governor,,R,Jones,Springhill/Mauldin,222
 Bill Waller Jr.,Governor,,R,Jones,Springhill/Mauldin,238
@@ -1342,9 +1342,9 @@ Andy Gipson,Commissioner of Agriculture & Commerce,,R,Jones,Springhill/Mauldin,6
 Mike Chaney,Commissioner of Insurance,,R,Jones,Springhill/Mauldin,620
 Steven L Wade,State Senate,34,R,Jones,Springhill/Mauldin,138
 Chris McDaniel,State Senate,42,R,Jones,Springhill/Mauldin,479
-Ramona Q Blackledge,State House,88,R,Jones,Springhill/Mauldin,
-Christopher S Hodge,State House,88,R,Jones,Springhill/Mauldin,
-Gary V Staples,State House,88,R,Jones,Springhill/Mauldin,
+Ramona Q Blackledge,State House,88,R,Jones,Springhill/Mauldin,x
+Christopher S Hodge,State House,88,R,Jones,Springhill/Mauldin,x
+Gary V Staples,State House,88,R,Jones,Springhill/Mauldin,x
 Donnie Scoggin,State House,89,R,Jones,Springhill/Mauldin,627
 Michael Brown,Governor,,D,Jones,Springhill/Mauldin,5
 William Bond Compton Jr.,Governor,,D,Jones,Springhill/Mauldin,3
@@ -1363,7 +1363,7 @@ Rickey L Cole,Commissioner of Agriculture & Commerce,,D,Jones,Springhill/Mauldin
 Robert E Arnos,Commissioner of Insurance,,D,Jones,Springhill/Mauldin,80
 Juan Barnett,State Senate,34,D,Jones,Springhill/Mauldin,5
 Deborah Denard Delgado,State Senate,34,D,Jones,Springhill/Mauldin,2
-Omeria Scott,State House,80,D,Jones,Springhill/Mauldin,
+Omeria Scott,State House,80,D,Jones,Springhill/Mauldin,x
 Robert Foster,Governor,,R,Jones,Tuckers,109
 Tate Reeves,Governor,,R,Jones,Tuckers,238
 Bill Waller Jr.,Governor,,R,Jones,Tuckers,127
@@ -1379,12 +1379,12 @@ Eugene S. 'Buck' Clarke,State Treasurer,,R,Jones,Tuckers,183
 David McRae,State Treasurer,,R,Jones,Tuckers,281
 Andy Gipson,Commissioner of Agriculture & Commerce,,R,Jones,Tuckers,457
 Mike Chaney,Commissioner of Insurance,,R,Jones,Tuckers,460
-Steven L Wade,State Senate,34,R,Jones,Tuckers,
+Steven L Wade,State Senate,34,R,Jones,Tuckers,x
 Chris McDaniel,State Senate,42,R,Jones,Tuckers,454
 Ramona Q Blackledge,State House,88,R,Jones,Tuckers,158
 Christopher S Hodge,State House,88,R,Jones,Tuckers,94
 Gary V Staples,State House,88,R,Jones,Tuckers,224
-Donnie Scoggin,State House,89,R,Jones,Tuckers,
+Donnie Scoggin,State House,89,R,Jones,Tuckers,x
 Michael Brown,Governor,,D,Jones,Tuckers,1
 William Bond Compton Jr.,Governor,,D,Jones,Tuckers,0
 Jim Hood,Governor,,D,Jones,Tuckers,6
@@ -1400,9 +1400,9 @@ Jennifer Riley Collins,Attorney General,,D,Jones,Tuckers,7
 Addie Lee Green,State Treasurer,,D,Jones,Tuckers,7
 Rickey L Cole,Commissioner of Agriculture & Commerce,,D,Jones,Tuckers,7
 Robert E Arnos,Commissioner of Insurance,,D,Jones,Tuckers,7
-Juan Barnett,State Senate,34,D,Jones,Tuckers,
-Deborah Denard Delgado,State Senate,34,D,Jones,Tuckers,
-Omeria Scott,State House,80,D,Jones,Tuckers,
+Juan Barnett,State Senate,34,D,Jones,Tuckers,x
+Deborah Denard Delgado,State Senate,34,D,Jones,Tuckers,x
+Omeria Scott,State House,80,D,Jones,Tuckers,x
 Robert Foster,Governor,,R,Jones,Union,111
 Tate Reeves,Governor,,R,Jones,Union,212
 Bill Waller Jr.,Governor,,R,Jones,Union,80
@@ -1418,12 +1418,12 @@ Eugene S. 'Buck' Clarke,State Treasurer,,R,Jones,Union,161
 David McRae,State Treasurer,,R,Jones,Union,235
 Andy Gipson,Commissioner of Agriculture & Commerce,,R,Jones,Union,384
 Mike Chaney,Commissioner of Insurance,,R,Jones,Union,385
-Steven L Wade,State Senate,34,R,Jones,Union,
+Steven L Wade,State Senate,34,R,Jones,Union,x
 Chris McDaniel,State Senate,42,R,Jones,Union,383
 Ramona Q Blackledge,State House,88,R,Jones,Union,235
 Christopher S Hodge,State House,88,R,Jones,Union,62
 Gary V Staples,State House,88,R,Jones,Union,102
-Donnie Scoggin,State House,89,R,Jones,Union,
+Donnie Scoggin,State House,89,R,Jones,Union,x
 Michael Brown,Governor,,D,Jones,Union,0
 William Bond Compton Jr.,Governor,,D,Jones,Union,1
 Jim Hood,Governor,,D,Jones,Union,8
@@ -1439,9 +1439,9 @@ Jennifer Riley Collins,Attorney General,,D,Jones,Union,8
 Addie Lee Green,State Treasurer,,D,Jones,Union,8
 Rickey L Cole,Commissioner of Agriculture & Commerce,,D,Jones,Union,9
 Robert E Arnos,Commissioner of Insurance,,D,Jones,Union,7
-Juan Barnett,State Senate,34,D,Jones,Union,
-Deborah Denard Delgado,State Senate,34,D,Jones,Union,
-Omeria Scott,State House,80,D,Jones,Union,
+Juan Barnett,State Senate,34,D,Jones,Union,x
+Deborah Denard Delgado,State Senate,34,D,Jones,Union,x
+Omeria Scott,State House,80,D,Jones,Union,x
 Robert Foster,Governor,,R,Jones,TOTAL,3553
 Tate Reeves,Governor,,R,Jones,TOTAL,6488
 Bill Waller Jr.,Governor,,R,Jones,TOTAL,4157

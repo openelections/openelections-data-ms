@@ -11,14 +11,14 @@ page,candidate,office,district,party,county,precinct,votes
 2,Bill Waller Jr.,Governor,,R,Pontotoc,Bankhead Ba,55
 2,Kathy L Chism,State Senate,3,R,Pontotoc,Bankhead Ba,15
 2,Kevin Walls,State Senate,3,R,Pontotoc,Bankhead Ba,104
-2,Stephen Scott Griffin,State Senate,8,R,Pontotoc,Bankhead Ba,
-2,Benjamin A Suber,State Senate,8,R,Pontotoc,Bankhead Ba,
-2,Kegan Coleman,State Senate,8,D,Pontotoc,Bankhead Ba,
-2,Kathryn York,State Senate,8,D,Pontotoc,Bankhead Ba,
+2,Stephen Scott Griffin,State Senate,8,R,Pontotoc,Bankhead Ba,x
+2,Benjamin A Suber,State Senate,8,R,Pontotoc,Bankhead Ba,x
+2,Kegan Coleman,State Senate,8,D,Pontotoc,Bankhead Ba,x
+2,Kathryn York,State Senate,8,D,Pontotoc,Bankhead Ba,x
 2,Tate Reeves,Governor,,R,Pontotoc,Beckham Bec,87
 2,Bill Waller Jr.,Governor,,R,Pontotoc,Beckham Bec,71
-2,Kathy L Chism,State Senate,3,R,Pontotoc,Beckham Bec,
-2,Kevin Walls,State Senate,3,R,Pontotoc,Beckham Bec,
+2,Kathy L Chism,State Senate,3,R,Pontotoc,Beckham Bec,X
+2,Kevin Walls,State Senate,3,R,Pontotoc,Beckham Bec,X
 2,Stephen Scott Griffin,State Senate,8,R,Pontotoc,Beckham Bec,79
 2,Benjamin A Suber,State Senate,8,R,Pontotoc,Beckham Bec,74
 2,Kegan Coleman,State Senate,8,D,Pontotoc,Beckham Bec,26
@@ -27,62 +27,62 @@ page,candidate,office,district,party,county,precinct,votes
 2,Bill Waller Jr.,Governor,,R,Pontotoc,Bethel/Endville Be,83
 2,Kathy L Chism,State Senate,3,R,Pontotoc,Bethel/Endville Be,68
 2,Kevin Walls,State Senate,3,R,Pontotoc,Bethel/Endville Be,129
-2,Stephen Scott Griffin,State Senate,8,R,Pontotoc,Bethel/Endville Be,
-2,Benjamin A Suber,State Senate,8,R,Pontotoc,Bethel/Endville Be,
-2,Kegan Coleman,State Senate,8,D,Pontotoc,Bethel/Endville Be,
-2,Kathryn York,State Senate,8,D,Pontotoc,Bethel/Endville Be,
+2,Stephen Scott Griffin,State Senate,8,R,Pontotoc,Bethel/Endville Be,X
+2,Benjamin A Suber,State Senate,8,R,Pontotoc,Bethel/Endville Be,X
+2,Kegan Coleman,State Senate,8,D,Pontotoc,Bethel/Endville Be,X
+2,Kathryn York,State Senate,8,D,Pontotoc,Bethel/Endville Be,X
 2,Tate Reeves,Governor,,R,Pontotoc,Buchanan Bu,91
 2,Bill Waller Jr.,Governor,,R,Pontotoc,Buchanan Bu,65
 2,Kathy L Chism,State Senate,3,R,Pontotoc,Buchanan Bu,62
 2,Kevin Walls,State Senate,3,R,Pontotoc,Buchanan Bu,92
-2,Stephen Scott Griffin,State Senate,8,R,Pontotoc,Buchanan Bu,
-2,Benjamin A Suber,State Senate,8,R,Pontotoc,Buchanan Bu,
-2,Kegan Coleman,State Senate,8,D,Pontotoc,Buchanan Bu,
-2,Kathryn York,State Senate,8,D,Pontotoc,Buchanan Bu,
+2,Stephen Scott Griffin,State Senate,8,R,Pontotoc,Buchanan Bu,X
+2,Benjamin A Suber,State Senate,8,R,Pontotoc,Buchanan Bu,X
+2,Kegan Coleman,State Senate,8,D,Pontotoc,Buchanan Bu,X
+2,Kathryn York,State Senate,8,D,Pontotoc,Buchanan Bu,X
 2,Tate Reeves,Governor,,R,Pontotoc,Cherry Creek Cc,103
 2,Bill Waller Jr.,Governor,,R,Pontotoc,Cherry Creek Cc,95
 2,Kathy L Chism,State Senate,3,R,Pontotoc,Cherry Creek Cc,48
 2,Kevin Walls,State Senate,3,R,Pontotoc,Cherry Creek Cc,145
-2,Stephen Scott Griffin,State Senate,8,R,Pontotoc,Cherry Creek Cc,
-2,Benjamin A Suber,State Senate,8,R,Pontotoc,Cherry Creek Cc,
-2,Kegan Coleman,State Senate,8,D,Pontotoc,Cherry Creek Cc,
-2,Kathryn York,State Senate,8,D,Pontotoc,Cherry Creek Cc,
+2,Stephen Scott Griffin,State Senate,8,R,Pontotoc,Cherry Creek Cc,X
+2,Benjamin A Suber,State Senate,8,R,Pontotoc,Cherry Creek Cc,X
+2,Kegan Coleman,State Senate,8,D,Pontotoc,Cherry Creek Cc,X
+2,Kathryn York,State Senate,8,D,Pontotoc,Cherry Creek Cc,X
 2,Tate Reeves,Governor,,R,Pontotoc,Ecru Ec,102
 2,Bill Waller Jr.,Governor,,R,Pontotoc,Ecru Ec,113
 2,Kathy L Chism,State Senate,3,R,Pontotoc,Ecru Ec,95
 2,Kevin Walls,State Senate,3,R,Pontotoc,Ecru Ec,113
-2,Stephen Scott Griffin,State Senate,8,R,Pontotoc,Ecru Ec,
-2,Benjamin A Suber,State Senate,8,R,Pontotoc,Ecru Ec,
-2,Kegan Coleman,State Senate,8,D,Pontotoc,Ecru Ec,
-2,Kathryn York,State Senate,8,D,Pontotoc,Ecru Ec,
+2,Stephen Scott Griffin,State Senate,8,R,Pontotoc,Ecru Ec,X
+2,Benjamin A Suber,State Senate,8,R,Pontotoc,Ecru Ec,X
+2,Kegan Coleman,State Senate,8,D,Pontotoc,Ecru Ec,X
+2,Kathryn York,State Senate,8,D,Pontotoc,Ecru Ec,X
 2,Tate Reeves,Governor,,R,Pontotoc,Friendship Fr,42
 2,Bill Waller Jr.,Governor,,R,Pontotoc,Friendship Fr,44
 2,Kathy L Chism,State Senate,3,R,Pontotoc,Friendship Fr,26
 2,Kevin Walls,State Senate,3,R,Pontotoc,Friendship Fr,59
-2,Stephen Scott Griffin,State Senate,8,R,Pontotoc,Friendship Fr,
-2,Benjamin A Suber,State Senate,8,R,Pontotoc,Friendship Fr,
-2,Kegan Coleman,State Senate,8,D,Pontotoc,Friendship Fr,
-2,Kathryn York,State Senate,8,D,Pontotoc,Friendship Fr,
+2,Stephen Scott Griffin,State Senate,8,R,Pontotoc,Friendship Fr,X
+2,Benjamin A Suber,State Senate,8,R,Pontotoc,Friendship Fr,X
+2,Kegan Coleman,State Senate,8,D,Pontotoc,Friendship Fr,X
+2,Kathryn York,State Senate,8,D,Pontotoc,Friendship Fr,X
 2,Tate Reeves,Governor,,R,Pontotoc,Hoyle Ho,84
 2,Bill Waller Jr.,Governor,,R,Pontotoc,Hoyle Ho,85
 2,Kathy L Chism,State Senate,3,R,Pontotoc,Hoyle Ho,38
 2,Kevin Walls,State Senate,3,R,Pontotoc,Hoyle Ho,126
-2,Stephen Scott Griffin,State Senate,8,R,Pontotoc,Hoyle Ho,
-2,Benjamin A Suber,State Senate,8,R,Pontotoc,Hoyle Ho,
-2,Kegan Coleman,State Senate,8,D,Pontotoc,Hoyle Ho,
-2,Kathryn York,State Senate,8,D,Pontotoc,Hoyle Ho,
+2,Stephen Scott Griffin,State Senate,8,R,Pontotoc,Hoyle Ho,X
+2,Benjamin A Suber,State Senate,8,R,Pontotoc,Hoyle Ho,X
+2,Kegan Coleman,State Senate,8,D,Pontotoc,Hoyle Ho,X
+2,Kathryn York,State Senate,8,D,Pontotoc,Hoyle Ho,X
 2,Tate Reeves,Governor,,R,Pontotoc,Hurricane Hu,115
 2,Bill Waller Jr.,Governor,,R,Pontotoc,Hurricane Hu,70
 2,Kathy L Chism,State Senate,3,R,Pontotoc,Hurricane Hu,77
 2,Kevin Walls,State Senate,3,R,Pontotoc,Hurricane Hu,107
-2,Stephen Scott Griffin,State Senate,8,R,Pontotoc,Hurricane Hu,
-2,Benjamin A Suber,State Senate,8,R,Pontotoc,Hurricane Hu,
-2,Kegan Coleman,State Senate,8,D,Pontotoc,Hurricane Hu,
-2,Kathryn York,State Senate,8,D,Pontotoc,Hurricane Hu,
+2,Stephen Scott Griffin,State Senate,8,R,Pontotoc,Hurricane Hu,X
+2,Benjamin A Suber,State Senate,8,R,Pontotoc,Hurricane Hu,X
+2,Kegan Coleman,State Senate,8,D,Pontotoc,Hurricane Hu,X
+2,Kathryn York,State Senate,8,D,Pontotoc,Hurricane Hu,X
 2,Tate Reeves,Governor,,R,Pontotoc,Judah Ju,32
 2,Bill Waller Jr.,Governor,,R,Pontotoc,Judah Ju,17
-2,Kathy L Chism,State Senate,3,R,Pontotoc,Judah Ju,
-2,Kevin Walls,State Senate,3,R,Pontotoc,Judah Ju,
+2,Kathy L Chism,State Senate,3,R,Pontotoc,Judah Ju,X
+2,Kevin Walls,State Senate,3,R,Pontotoc,Judah Ju,X
 2,Stephen Scott Griffin,State Senate,8,R,Pontotoc,Judah Ju,19
 2,Benjamin A Suber,State Senate,8,R,Pontotoc,Judah Ju,25
 2,Kegan Coleman,State Senate,8,D,Pontotoc,Judah Ju,5
@@ -91,42 +91,42 @@ page,candidate,office,district,party,county,precinct,votes
 3,Bill Waller Jr.,Governor,,R,Pontotoc,Longview Lo,32
 3,Kathy L Chism,State Senate,3,R,Pontotoc,Longview Lo,9
 3,Kevin Walls,State Senate,3,R,Pontotoc,Longview Lo,61
-3,Stephen Scott Griffin,State Senate,8,R,Pontotoc,Longview Lo,
-3,Benjamin A Suber,State Senate,8,R,Pontotoc,Longview Lo,
-3,Kegan Coleman,State Senate,8,D,Pontotoc,Longview Lo,
-3,Kathryn York,State Senate,8,D,Pontotoc,Longview Lo,
+3,Stephen Scott Griffin,State Senate,8,R,Pontotoc,Longview Lo,X
+3,Benjamin A Suber,State Senate,8,R,Pontotoc,Longview Lo,X
+3,Kegan Coleman,State Senate,8,D,Pontotoc,Longview Lo,X
+3,Kathryn York,State Senate,8,D,Pontotoc,Longview Lo,X
 3,Tate Reeves,Governor,,R,Pontotoc,Oakhill Oh,61
 3,Bill Waller Jr.,Governor,,R,Pontotoc,Oakhill Oh,40
 3,Kathy L Chism,State Senate,3,R,Pontotoc,Oakhill Oh,19
 3,Kevin Walls,State Senate,3,R,Pontotoc,Oakhill Oh,80
-3,Stephen Scott Griffin,State Senate,8,R,Pontotoc,Oakhill Oh,
-3,Benjamin A Suber,State Senate,8,R,Pontotoc,Oakhill Oh,
-3,Kegan Coleman,State Senate,8,D,Pontotoc,Oakhill Oh,
-3,Kathryn York,State Senate,8,D,Pontotoc,Oakhill Oh,
+3,Stephen Scott Griffin,State Senate,8,R,Pontotoc,Oakhill Oh,X
+3,Benjamin A Suber,State Senate,8,R,Pontotoc,Oakhill Oh,X
+3,Kegan Coleman,State Senate,8,D,Pontotoc,Oakhill Oh,X
+3,Kathryn York,State Senate,8,D,Pontotoc,Oakhill Oh,X
 3,Tate Reeves,Governor,,R,Pontotoc,Pontotoc 1 P1,67
 3,Bill Waller Jr.,Governor,,R,Pontotoc,Pontotoc 1 P1,100
 3,Kathy L Chism,State Senate,3,R,Pontotoc,Pontotoc 1 P1,35
 3,Kevin Walls,State Senate,3,R,Pontotoc,Pontotoc 1 P1,129
-3,Stephen Scott Griffin,State Senate,8,R,Pontotoc,Pontotoc 1 P1,
-3,Benjamin A Suber,State Senate,8,R,Pontotoc,Pontotoc 1 P1,
-3,Kegan Coleman,State Senate,8,D,Pontotoc,Pontotoc 1 P1,
-3,Kathryn York,State Senate,8,D,Pontotoc,Pontotoc 1 P1,
+3,Stephen Scott Griffin,State Senate,8,R,Pontotoc,Pontotoc 1 P1,X
+3,Benjamin A Suber,State Senate,8,R,Pontotoc,Pontotoc 1 P1,X
+3,Kegan Coleman,State Senate,8,D,Pontotoc,Pontotoc 1 P1,X
+3,Kathryn York,State Senate,8,D,Pontotoc,Pontotoc 1 P1,X
 3,Tate Reeves,Governor,,R,Pontotoc,Pontotoc 2 P2,80
 3,Bill Waller Jr.,Governor,,R,Pontotoc,Pontotoc 2 P2,91
 3,Kathy L Chism,State Senate,3,R,Pontotoc,Pontotoc 2 P2,28
 3,Kevin Walls,State Senate,3,R,Pontotoc,Pontotoc 2 P2,137
-3,Stephen Scott Griffin,State Senate,8,R,Pontotoc,Pontotoc 2 P2,
-3,Benjamin A Suber,State Senate,8,R,Pontotoc,Pontotoc 2 P2,
-3,Kegan Coleman,State Senate,8,D,Pontotoc,Pontotoc 2 P2,
-3,Kathryn York,State Senate,8,D,Pontotoc,Pontotoc 2 P2,
+3,Stephen Scott Griffin,State Senate,8,R,Pontotoc,Pontotoc 2 P2,X
+3,Benjamin A Suber,State Senate,8,R,Pontotoc,Pontotoc 2 P2,X
+3,Kegan Coleman,State Senate,8,D,Pontotoc,Pontotoc 2 P2,X
+3,Kathryn York,State Senate,8,D,Pontotoc,Pontotoc 2 P2,X
 3,Tate Reeves,Governor,,R,Pontotoc,Pontotoc 3 P3,130
 3,Bill Waller Jr.,Governor,,R,Pontotoc,Pontotoc 3 P3,127
 3,Kathy L Chism,State Senate,3,R,Pontotoc,Pontotoc 3 P3,35
 3,Kevin Walls,State Senate,3,R,Pontotoc,Pontotoc 3 P3,214
-3,Stephen Scott Griffin,State Senate,8,R,Pontotoc,Pontotoc 3 P3,
-3,Benjamin A Suber,State Senate,8,R,Pontotoc,Pontotoc 3 P3,
-3,Kegan Coleman,State Senate,8,D,Pontotoc,Pontotoc 3 P3,
-3,Kathryn York,State Senate,8,D,Pontotoc,Pontotoc 3 P3,
+3,Stephen Scott Griffin,State Senate,8,R,Pontotoc,Pontotoc 3 P3,X
+3,Benjamin A Suber,State Senate,8,R,Pontotoc,Pontotoc 3 P3,X
+3,Kegan Coleman,State Senate,8,D,Pontotoc,Pontotoc 3 P3,X
+3,Kathryn York,State Senate,8,D,Pontotoc,Pontotoc 3 P3,X
 3,Tate Reeves,Governor,,R,Pontotoc,Pontotoc 4 P4,82
 3,Bill Waller Jr.,Governor,,R,Pontotoc,Pontotoc 4 P4,56
 3,Kathy L Chism,State Senate,3,R,Pontotoc,Pontotoc 4 P4,28
@@ -139,22 +139,22 @@ page,candidate,office,district,party,county,precinct,votes
 3,Bill Waller Jr.,Governor,,R,Pontotoc,Pontotoc 5 P5,199
 3,Kathy L Chism,State Senate,3,R,Pontotoc,Pontotoc 5 P5,73
 3,Kevin Walls,State Senate,3,R,Pontotoc,Pontotoc 5 P5,296
-3,Stephen Scott Griffin,State Senate,8,R,Pontotoc,Pontotoc 5 P5,
-3,Benjamin A Suber,State Senate,8,R,Pontotoc,Pontotoc 5 P5,
-3,Kegan Coleman,State Senate,8,D,Pontotoc,Pontotoc 5 P5,
-3,Kathryn York,State Senate,8,D,Pontotoc,Pontotoc 5 P5,
+3,Stephen Scott Griffin,State Senate,8,R,Pontotoc,Pontotoc 5 P5,X
+3,Benjamin A Suber,State Senate,8,R,Pontotoc,Pontotoc 5 P5,X
+3,Kegan Coleman,State Senate,8,D,Pontotoc,Pontotoc 5 P5,X
+3,Kathryn York,State Senate,8,D,Pontotoc,Pontotoc 5 P5,X
 3,Tate Reeves,Governor,,R,Pontotoc,Randolph,79
 3,Bill Waller Jr.,Governor,,R,Pontotoc,Randolph,96
-3,Kathy L Chism,State Senate,3,R,Pontotoc,Randolph,
-3,Kevin Walls,State Senate,3,R,Pontotoc,Randolph,
+3,Kathy L Chism,State Senate,3,R,Pontotoc,Randolph,X
+3,Kevin Walls,State Senate,3,R,Pontotoc,Randolph,X
 3,Stephen Scott Griffin,State Senate,8,R,Pontotoc,Randolph,73
 3,Benjamin A Suber,State Senate,8,R,Pontotoc,Randolph,91
 3,Kegan Coleman,State Senate,8,D,Pontotoc,Randolph,14
 3,Kathryn York,State Senate,8,D,Pontotoc,Randolph,37
 3,Tate Reeves,Governor,,R,Pontotoc,Robbs Ro,6
 3,Bill Waller Jr.,Governor,,R,Pontotoc,Robbs Ro,6
-3,Kathy L Chism,State Senate,3,R,Pontotoc,Robbs Ro,
-3,Kevin Walls,State Senate,3,R,Pontotoc,Robbs Ro,
+3,Kathy L Chism,State Senate,3,R,Pontotoc,Robbs Ro,X
+3,Kevin Walls,State Senate,3,R,Pontotoc,Robbs Ro,X
 3,Stephen Scott Griffin,State Senate,8,R,Pontotoc,Robbs Ro,9
 3,Benjamin A Suber,State Senate,8,R,Pontotoc,Robbs Ro,3
 3,Kegan Coleman,State Senate,8,D,Pontotoc,Robbs Ro,5
@@ -163,10 +163,10 @@ page,candidate,office,district,party,county,precinct,votes
 3,Bill Waller Jr.,Governor,,R,Pontotoc,Sherman Sh,61
 3,Kathy L Chism,State Senate,3,R,Pontotoc,Sherman Sh,49
 3,Kevin Walls,State Senate,3,R,Pontotoc,Sherman Sh,57
-3,Stephen Scott Griffin,State Senate,8,R,Pontotoc,Sherman Sh,
-3,Benjamin A Suber,State Senate,8,R,Pontotoc,Sherman Sh,
-3,Kegan Coleman,State Senate,8,D,Pontotoc,Sherman Sh,
-3,Kathryn York,State Senate,8,D,Pontotoc,Sherman Sh,
+3,Stephen Scott Griffin,State Senate,8,R,Pontotoc,Sherman Sh,X
+3,Benjamin A Suber,State Senate,8,R,Pontotoc,Sherman Sh,X
+3,Kegan Coleman,State Senate,8,D,Pontotoc,Sherman Sh,X
+3,Kathryn York,State Senate,8,D,Pontotoc,Sherman Sh,X
 3,Tate Reeves,Governor,,R,Pontotoc,Springville Sp,80
 3,Bill Waller Jr.,Governor,,R,Pontotoc,Springville Sp,80
 3,Kathy L Chism,State Senate,3,R,Pontotoc,Springville Sp,4
@@ -177,24 +177,24 @@ page,candidate,office,district,party,county,precinct,votes
 3,Kathryn York,State Senate,8,D,Pontotoc,Springville Sp,31
 4,Tate Reeves,Governor,,R,Pontotoc,Thaxton Th,112
 4,Bill Waller Jr.,Governor,,R,Pontotoc,Thaxton Th,128
-4,Kathy L Chism,State Senate,3,R,Pontotoc,Thaxton Th,
-4,Kevin Walls,State Senate,3,R,Pontotoc,Thaxton Th,
+4,Kathy L Chism,State Senate,3,R,Pontotoc,Thaxton Th,X
+4,Kevin Walls,State Senate,3,R,Pontotoc,Thaxton Th,X
 4,Stephen Scott Griffin,State Senate,8,R,Pontotoc,Thaxton Th,92
 4,Benjamin A Suber,State Senate,8,R,Pontotoc,Thaxton Th,137
 4,Kegan Coleman,State Senate,8,D,Pontotoc,Thaxton Th,2
 4,Kathryn York,State Senate,8,D,Pontotoc,Thaxton Th,10
 4,Tate Reeves,Governor,,R,Pontotoc,Toccopola To,48
 4,Bill Waller Jr.,Governor,,R,Pontotoc,Toccopola To,26
-4,Kathy L Chism,State Senate,3,R,Pontotoc,Toccopola To,
-4,Kevin Walls,State Senate,3,R,Pontotoc,Toccopola To,
+4,Kathy L Chism,State Senate,3,R,Pontotoc,Toccopola To,X
+4,Kevin Walls,State Senate,3,R,Pontotoc,Toccopola To,X
 4,Stephen Scott Griffin,State Senate,8,R,Pontotoc,Toccopola To,24
 4,Benjamin A Suber,State Senate,8,R,Pontotoc,Toccopola To,45
 4,Kegan Coleman,State Senate,8,D,Pontotoc,Toccopola To,15
 4,Kathryn York,State Senate,8,D,Pontotoc,Toccopola To,7
 4,Tate Reeves,Governor,,R,Pontotoc,Troy Tr,156
 4,Bill Waller Jr.,Governor,,R,Pontotoc,Troy Tr,59
-4,Kathy L Chism,State Senate,3,R,Pontotoc,Troy Tr,
-4,Kevin Walls,State Senate,3,R,Pontotoc,Troy Tr,
+4,Kathy L Chism,State Senate,3,R,Pontotoc,Troy Tr,X
+4,Kevin Walls,State Senate,3,R,Pontotoc,Troy Tr,X
 4,Stephen Scott Griffin,State Senate,8,R,Pontotoc,Troy Tr,108
 4,Benjamin A Suber,State Senate,8,R,Pontotoc,Troy Tr,101
 4,Kegan Coleman,State Senate,8,D,Pontotoc,Troy Tr,10
@@ -203,26 +203,26 @@ page,candidate,office,district,party,county,precinct,votes
 4,Bill Waller Jr.,Governor,,R,Pontotoc,Turnpike Tu,67
 4,Kathy L Chism,State Senate,3,R,Pontotoc,Turnpike Tu,34
 4,Kevin Walls,State Senate,3,R,Pontotoc,Turnpike Tu,116
-4,Stephen Scott Griffin,State Senate,8,R,Pontotoc,Turnpike Tu,
-4,Benjamin A Suber,State Senate,8,R,Pontotoc,Turnpike Tu,
-4,Kegan Coleman,State Senate,8,D,Pontotoc,Turnpike Tu,
-4,Kathryn York,State Senate,8,D,Pontotoc,Turnpike Tu,
+4,Stephen Scott Griffin,State Senate,8,R,Pontotoc,Turnpike Tu,X
+4,Benjamin A Suber,State Senate,8,R,Pontotoc,Turnpike Tu,X
+4,Kegan Coleman,State Senate,8,D,Pontotoc,Turnpike Tu,X
+4,Kathryn York,State Senate,8,D,Pontotoc,Turnpike Tu,X
 4,Tate Reeves,Governor,,R,Pontotoc,Woodland Wo,41
 4,Bill Waller Jr.,Governor,,R,Pontotoc,Woodland Wo,24
 4,Kathy L Chism,State Senate,3,R,Pontotoc,Woodland Wo,11
 4,Kevin Walls,State Senate,3,R,Pontotoc,Woodland Wo,54
-4,Stephen Scott Griffin,State Senate,8,R,Pontotoc,Woodland Wo,
-4,Benjamin A Suber,State Senate,8,R,Pontotoc,Woodland Wo,
-4,Kegan Coleman,State Senate,8,D,Pontotoc,Woodland Wo,
-4,Kathryn York,State Senate,8,D,Pontotoc,Woodland Wo,
+4,Stephen Scott Griffin,State Senate,8,R,Pontotoc,Woodland Wo,X
+4,Benjamin A Suber,State Senate,8,R,Pontotoc,Woodland Wo,X
+4,Kegan Coleman,State Senate,8,D,Pontotoc,Woodland Wo,X
+4,Kathryn York,State Senate,8,D,Pontotoc,Woodland Wo,X
 4,Tate Reeves,Governor,,R,Pontotoc,Zion Z,92
 4,Bill Waller Jr.,Governor,,R,Pontotoc,Zion Z,52
 4,Kathy L Chism,State Senate,3,R,Pontotoc,Zion Z,18
 4,Kevin Walls,State Senate,3,R,Pontotoc,Zion Z,120
-4,Stephen Scott Griffin,State Senate,8,R,Pontotoc,Zion Z,
-4,Benjamin A Suber,State Senate,8,R,Pontotoc,Zion Z,
-4,Kegan Coleman,State Senate,8,D,Pontotoc,Zion Z,
-4,Kathryn York,State Senate,8,D,Pontotoc,Zion Z,
+4,Stephen Scott Griffin,State Senate,8,R,Pontotoc,Zion Z,x
+4,Benjamin A Suber,State Senate,8,R,Pontotoc,Zion Z,x
+4,Kegan Coleman,State Senate,8,D,Pontotoc,Zion Z,X
+4,Kathryn York,State Senate,8,D,Pontotoc,Zion Z,X
 4,Tate Reeves,Governor,,R,Pontotoc,TOTAL,2306
 4,Bill Waller Jr.,Governor,,R,Pontotoc,TOTAL,2077
 4,Kathy L Chism,State Senate,3,R,Pontotoc,TOTAL,773

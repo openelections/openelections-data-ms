@@ -37,23 +37,23 @@ Smith,Supervisor,1,Sammy Hancock,Democrat,Ag-Complex,29
 Smith,Supervisor,1,Mike Bavido,Independent,Ag-Complex,17
 Smith,Supervisor,1,Joseph (Jody) Blakeney,Independent,Ag-Complex,45
 Smith,Supervisor,1,Donny Lowery,Independent,Ag-Complex,120
-Smith,Supervisor,2,Eddie McMullan,Republican,Ag-Complex,
-Smith,Supervisor,2,Dwight D Norris,Democrat,Ag-Complex,
-Smith,Supervisor,2,Mike Ford,Independent,Ag-Complex,
-Smith,Supervisor,3,Benjie Ford,Independent,Ag-Complex,
-Smith,Supervisor,4,Danny Avender,Democrat,Ag-Complex,
-Smith,Supervisor,4,Bob J Miles,Republican,Ag-Complex,
-Smith,Supervisor,5,Robert Hallman,Republican,Ag-Complex,
-Smith,Supervisor,5,Howard Hammons,Democrat,Ag-Complex,
+Smith,Supervisor,2,Eddie McMullan,Republican,Ag-Complex,X
+Smith,Supervisor,2,Dwight D Norris,Democrat,Ag-Complex,X
+Smith,Supervisor,2,Mike Ford,Independent,Ag-Complex,X
+Smith,Supervisor,3,Benjie Ford,Independent,Ag-Complex,X
+Smith,Supervisor,4,Danny Avender,Democrat,Ag-Complex,X
+Smith,Supervisor,4,Bob J Miles,Republican,Ag-Complex,X
+Smith,Supervisor,5,Robert Hallman,Republican,Ag-Complex,X
+Smith,Supervisor,5,Howard Hammons,Democrat,Ag-Complex,X
 Smith,Justice Court Judge,1,David 'Red' Easterling,Democrat,Ag-Complex,328
 Smith,Justice Court Judge,1,Charles 'Chuck' Jones Jr,Republican,Ag-Complex,165
-Smith,Justice Court Judge,2,Larry Allen,Republican,Ag-Complex,
-Smith,Justice Court Judge,2,Hulon West,Democrat,Ag-Complex,
+Smith,Justice Court Judge,2,Larry Allen,Republican,Ag-Complex,X
+Smith,Justice Court Judge,2,Hulon West,Democrat,Ag-Complex,X
 Smith,Constable,1,Joe Robert Blakeney,Republican,Ag-Complex,248
 Smith,Constable,1,Carlie (Bobo) Bowen,Democrat,Ag-Complex,243
-Smith,Constable,2,Brad Boykin,Democrat,Ag-Complex,
-Smith,Constable,2,Bobby Easterling,Republican,Ag-Complex,
-Smith,Constable,2,William Logan Pruitt,Independent,Ag-Complex,
+Smith,Constable,2,Brad Boykin,Democrat,Ag-Complex,X
+Smith,Constable,2,Bobby Easterling,Republican,Ag-Complex,X
+Smith,Constable,2,William Logan Pruitt,Independent,Ag-Complex,X
 Smith,Governor,,Jim Hood,Democrat,Burns,67
 Smith,Governor,,Tate Reeves,Repubilcan,Burns,143
 Smith,Governor,,Bob Hickingbottom,Constitution,Burns,2
@@ -87,28 +87,28 @@ Smith,Sheriff,,Marty Peterson,Democrat,Burns,64
 Smith,Surveyor,,Landry Adcock,Republican,Burns,176
 Smith,Tax Assessor,,Mary Lou Powell,Democrat,Burns,118
 Smith,Tax Assessor,,Samuel (Sam) Yeager,Republican,Burns,98
-Smith,Supervisor,1,Jerry Fields,Republican,Burns,
-Smith,Supervisor,1,Sammy Hancock,Democrat,Burns,
-Smith,Supervisor,1,Mike Bavido,Independent,Burns,
-Smith,Supervisor,1,Joseph (Jody) Blakeney,Independent,Burns,
-Smith,Supervisor,1,Donny Lowery,Independent,Burns,
-Smith,Supervisor,2,Eddie McMullan,Republican,Burns,
-Smith,Supervisor,2,Dwight D Norris,Democrat,Burns,
-Smith,Supervisor,2,Mike Ford,Independent,Burns,
-Smith,Supervisor,3,Benjie Ford,Independent,Burns,
-Smith,Supervisor,4,Danny Avender,Democrat,Burns,
-Smith,Supervisor,4,Bob J Miles,Republican,Burns,
+Smith,Supervisor,1,Jerry Fields,Republican,Burns,X
+Smith,Supervisor,1,Sammy Hancock,Democrat,Burns,X
+Smith,Supervisor,1,Mike Bavido,Independent,Burns,X
+Smith,Supervisor,1,Joseph (Jody) Blakeney,Independent,Burns,X
+Smith,Supervisor,1,Donny Lowery,Independent,Burns,X
+Smith,Supervisor,2,Eddie McMullan,Republican,Burns,X
+Smith,Supervisor,2,Dwight D Norris,Democrat,Burns,X
+Smith,Supervisor,2,Mike Ford,Independent,Burns,X
+Smith,Supervisor,3,Benjie Ford,Independent,Burns,X
+Smith,Supervisor,4,Danny Avender,Democrat,Burns,X
+Smith,Supervisor,4,Bob J Miles,Republican,Burns,X
 Smith,Supervisor,5,Robert Hallman,Republican,Burns,97
 Smith,Supervisor,5,Howard Hammons,Democrat,Burns,117
 Smith,Justice Court Judge,1,David 'Red' Easterling,Democrat,Burns,101
 Smith,Justice Court Judge,1,Charles 'Chuck' Jones Jr,Republican,Burns,109
-Smith,Justice Court Judge,2,Larry Allen,Republican,Burns,
-Smith,Justice Court Judge,2,Hulon West,Democrat,Burns,
+Smith,Justice Court Judge,2,Larry Allen,Republican,Burns,X
+Smith,Justice Court Judge,2,Hulon West,Democrat,Burns,X
 Smith,Constable,1,Joe Robert Blakeney,Republican,Burns,130
 Smith,Constable,1,Carlie (Bobo) Bowen,Democrat,Burns,78
-Smith,Constable,2,Brad Boykin,Democrat,Burns,
-Smith,Constable,2,Bobby Easterling,Republican,Burns,
-Smith,Constable,2,William Logan Pruitt,Independent,Burns,
+Smith,Constable,2,Brad Boykin,Democrat,Burns,X
+Smith,Constable,2,Bobby Easterling,Republican,Burns,X
+Smith,Constable,2,William Logan Pruitt,Independent,Burns,X
 Smith,Governor,,Jim Hood,Democrat,Cedar Grove,51
 Smith,Governor,,Tate Reeves,Repubilcan,Cedar Grove,77
 Smith,Governor,,Bob Hickingbottom,Constitution,Cedar Grove,1
@@ -142,28 +142,28 @@ Smith,Sheriff,,Marty Peterson,Democrat,Cedar Grove,45
 Smith,Surveyor,,Landry Adcock,Republican,Cedar Grove,99
 Smith,Tax Assessor,,Mary Lou Powell,Democrat,Cedar Grove,63
 Smith,Tax Assessor,,Samuel (Sam) Yeager,Republican,Cedar Grove,66
-Smith,Supervisor,1,Jerry Fields,Republican,Cedar Grove,
-Smith,Supervisor,1,Sammy Hancock,Democrat,Cedar Grove,
-Smith,Supervisor,1,Mike Bavido,Independent,Cedar Grove,
-Smith,Supervisor,1,Joseph (Jody) Blakeney,Independent,Cedar Grove,
-Smith,Supervisor,1,Donny Lowery,Independent,Cedar Grove,
+Smith,Supervisor,1,Jerry Fields,Republican,Cedar Grove,X
+Smith,Supervisor,1,Sammy Hancock,Democrat,Cedar Grove,X
+Smith,Supervisor,1,Mike Bavido,Independent,Cedar Grove,X
+Smith,Supervisor,1,Joseph (Jody) Blakeney,Independent,Cedar Grove,X
+Smith,Supervisor,1,Donny Lowery,Independent,Cedar Grove,X
 Smith,Supervisor,2,Eddie McMullan,Republican,Cedar Grove,45
 Smith,Supervisor,2,Dwight D Norris,Democrat,Cedar Grove,64
 Smith,Supervisor,2,Mike Ford,Independent,Cedar Grove,16
-Smith,Supervisor,3,Benjie Ford,Independent,Cedar Grove,
-Smith,Supervisor,4,Danny Avender,Democrat,Cedar Grove,
-Smith,Supervisor,4,Bob J Miles,Republican,Cedar Grove,
-Smith,Supervisor,5,Robert Hallman,Republican,Cedar Grove,
-Smith,Supervisor,5,Howard Hammons,Democrat,Cedar Grove,
+Smith,Supervisor,3,Benjie Ford,Independent,Cedar Grove,X
+Smith,Supervisor,4,Danny Avender,Democrat,Cedar Grove,X
+Smith,Supervisor,4,Bob J Miles,Republican,Cedar Grove,X
+Smith,Supervisor,5,Robert Hallman,Republican,Cedar Grove,X
+Smith,Supervisor,5,Howard Hammons,Democrat,Cedar Grove,X
 Smith,Justice Court Judge,1,David 'Red' Easterling,Democrat,Cedar Grove,82
 Smith,Justice Court Judge,1,Charles 'Chuck' Jones Jr,Republican,Cedar Grove,45
-Smith,Justice Court Judge,2,Larry Allen,Republican,Cedar Grove,
-Smith,Justice Court Judge,2,Hulon West,Democrat,Cedar Grove,
+Smith,Justice Court Judge,2,Larry Allen,Republican,Cedar Grove,X
+Smith,Justice Court Judge,2,Hulon West,Democrat,Cedar Grove,X
 Smith,Constable,1,Joe Robert Blakeney,Republican,Cedar Grove,66
 Smith,Constable,1,Carlie (Bobo) Bowen,Democrat,Cedar Grove,63
-Smith,Constable,2,Brad Boykin,Democrat,Cedar Grove,
-Smith,Constable,2,Bobby Easterling,Republican,Cedar Grove,
-Smith,Constable,2,William Logan Pruitt,Independent,Cedar Grove,
+Smith,Constable,2,Brad Boykin,Democrat,Cedar Grove,X
+Smith,Constable,2,Bobby Easterling,Republican,Cedar Grove,X
+Smith,Constable,2,William Logan Pruitt,Independent,Cedar Grove,X
 Smith,Governor,,Jim Hood,Democrat,Center Ridge,53
 Smith,Governor,,Tate Reeves,Repubilcan,Center Ridge,276
 Smith,Governor,,Bob Hickingbottom,Constitution,Center Ridge,3
@@ -202,20 +202,20 @@ Smith,Supervisor,1,Sammy Hancock,Democrat,Center Ridge,12
 Smith,Supervisor,1,Mike Bavido,Independent,Center Ridge,19
 Smith,Supervisor,1,Joseph (Jody) Blakeney,Independent,Center Ridge,91
 Smith,Supervisor,1,Donny Lowery,Independent,Center Ridge,55
-Smith,Supervisor,2,Eddie McMullan,Republican,Center Ridge,
-Smith,Supervisor,2,Dwight D Norris,Democrat,Center Ridge,
-Smith,Supervisor,2,Mike Ford,Independent,Center Ridge,
-Smith,Supervisor,3,Benjie Ford,Independent,Center Ridge,
-Smith,Supervisor,4,Danny Avender,Democrat,Center Ridge,
-Smith,Supervisor,4,Bob J Miles,Republican,Center Ridge,
-Smith,Supervisor,5,Robert Hallman,Republican,Center Ridge,
-Smith,Supervisor,5,Howard Hammons,Democrat,Center Ridge,
-Smith,Justice Court Judge,1,David 'Red' Easterling,Democrat,Center Ridge,
-Smith,Justice Court Judge,1,Charles 'Chuck' Jones Jr,Republican,Center Ridge,
+Smith,Supervisor,2,Eddie McMullan,Republican,Center Ridge,X
+Smith,Supervisor,2,Dwight D Norris,Democrat,Center Ridge,X
+Smith,Supervisor,2,Mike Ford,Independent,Center Ridge,X
+Smith,Supervisor,3,Benjie Ford,Independent,Center Ridge,X
+Smith,Supervisor,4,Danny Avender,Democrat,Center Ridge,X
+Smith,Supervisor,4,Bob J Miles,Republican,Center Ridge,X
+Smith,Supervisor,5,Robert Hallman,Republican,Center Ridge,X
+Smith,Supervisor,5,Howard Hammons,Democrat,Center Ridge,X
+Smith,Justice Court Judge,1,David 'Red' Easterling,Democrat,Center Ridge,X
+Smith,Justice Court Judge,1,Charles 'Chuck' Jones Jr,Republican,Center Ridge,X
 Smith,Justice Court Judge,2,Larry Allen,Republican,Center Ridge,158
 Smith,Justice Court Judge,2,Hulon West,Democrat,Center Ridge,179
-Smith,Constable,1,Joe Robert Blakeney,Republican,Center Ridge,
-Smith,Constable,1,Carlie (Bobo) Bowen,Democrat,Center Ridge,
+Smith,Constable,1,Joe Robert Blakeney,Republican,Center Ridge,X
+Smith,Constable,1,Carlie (Bobo) Bowen,Democrat,Center Ridge,X
 Smith,Constable,2,Brad Boykin,Democrat,Center Ridge,71
 Smith,Constable,2,Bobby Easterling,Republican,Center Ridge,213
 Smith,Constable,2,William Logan Pruitt,Independent,Center Ridge,51
@@ -252,28 +252,28 @@ Smith,Sheriff,,Marty Peterson,Democrat,Clear Springs-Pineville,42
 Smith,Surveyor,,Landry Adcock,Republican,Clear Springs-Pineville,205
 Smith,Tax Assessor,,Mary Lou Powell,Democrat,Clear Springs-Pineville,75
 Smith,Tax Assessor,,Samuel (Sam) Yeager,Republican,Clear Springs-Pineville,143
-Smith,Supervisor,1,Jerry Fields,Republican,Clear Springs-Pineville,
-Smith,Supervisor,1,Sammy Hancock,Democrat,Clear Springs-Pineville,
-Smith,Supervisor,1,Mike Bavido,Independent,Clear Springs-Pineville,
-Smith,Supervisor,1,Joseph (Jody) Blakeney,Independent,Clear Springs-Pineville,
-Smith,Supervisor,1,Donny Lowery,Independent,Clear Springs-Pineville,
-Smith,Supervisor,2,Eddie McMullan,Republican,Clear Springs-Pineville,
-Smith,Supervisor,2,Dwight D Norris,Democrat,Clear Springs-Pineville,
-Smith,Supervisor,2,Mike Ford,Independent,Clear Springs-Pineville,
-Smith,Supervisor,3,Benjie Ford,Independent,Clear Springs-Pineville,
-Smith,Supervisor,4,Danny Avender,Democrat,Clear Springs-Pineville,
-Smith,Supervisor,4,Bob J Miles,Republican,Clear Springs-Pineville,
+Smith,Supervisor,1,Jerry Fields,Republican,Clear Springs-Pineville,X
+Smith,Supervisor,1,Sammy Hancock,Democrat,Clear Springs-Pineville,X
+Smith,Supervisor,1,Mike Bavido,Independent,Clear Springs-Pineville,X
+Smith,Supervisor,1,Joseph (Jody) Blakeney,Independent,Clear Springs-Pineville,X
+Smith,Supervisor,1,Donny Lowery,Independent,Clear Springs-Pineville,X
+Smith,Supervisor,2,Eddie McMullan,Republican,Clear Springs-Pineville,X
+Smith,Supervisor,2,Dwight D Norris,Democrat,Clear Springs-Pineville,X
+Smith,Supervisor,2,Mike Ford,Independent,Clear Springs-Pineville,X
+Smith,Supervisor,3,Benjie Ford,Independent,Clear Springs-Pineville,X
+Smith,Supervisor,4,Danny Avender,Democrat,Clear Springs-Pineville,X
+Smith,Supervisor,4,Bob J Miles,Republican,Clear Springs-Pineville,X
 Smith,Supervisor,5,Robert Hallman,Republican,Clear Springs-Pineville,79
 Smith,Supervisor,5,Howard Hammons,Democrat,Clear Springs-Pineville,139
 Smith,Justice Court Judge,1,David 'Red' Easterling,Democrat,Clear Springs-Pineville,104
 Smith,Justice Court Judge,1,Charles 'Chuck' Jones Jr,Republican,Clear Springs-Pineville,112
-Smith,Justice Court Judge,2,Larry Allen,Republican,Clear Springs-Pineville,
-Smith,Justice Court Judge,2,Hulon West,Democrat,Clear Springs-Pineville,
+Smith,Justice Court Judge,2,Larry Allen,Republican,Clear Springs-Pineville,X
+Smith,Justice Court Judge,2,Hulon West,Democrat,Clear Springs-Pineville,X
 Smith,Constable,1,Joe Robert Blakeney,Republican,Clear Springs-Pineville,146
 Smith,Constable,1,Carlie (Bobo) Bowen,Democrat,Clear Springs-Pineville,68
-Smith,Constable,2,Brad Boykin,Democrat,Clear Springs-Pineville,
-Smith,Constable,2,Bobby Easterling,Republican,Clear Springs-Pineville,
-Smith,Constable,2,William Logan Pruitt,Independent,Clear Springs-Pineville,
+Smith,Constable,2,Brad Boykin,Democrat,Clear Springs-Pineville,X
+Smith,Constable,2,Bobby Easterling,Republican,Clear Springs-Pineville,X
+Smith,Constable,2,William Logan Pruitt,Independent,Clear Springs-Pineville,X
 Smith,Governor,,Jim Hood,Democrat,Lorena-Sophia,73
 Smith,Governor,,Tate Reeves,Repubilcan,Lorena-Sophia,200
 Smith,Governor,,Bob Hickingbottom,Constitution,Lorena-Sophia,1
@@ -307,28 +307,28 @@ Smith,Sheriff,,Marty Peterson,Democrat,Lorena-Sophia,90
 Smith,Surveyor,,Landry Adcock,Republican,Lorena-Sophia,244
 Smith,Tax Assessor,,Mary Lou Powell,Democrat,Lorena-Sophia,131
 Smith,Tax Assessor,,Samuel (Sam) Yeager,Republican,Lorena-Sophia,142
-Smith,Supervisor,1,Jerry Fields,Republican,Lorena-Sophia,
-Smith,Supervisor,1,Sammy Hancock,Democrat,Lorena-Sophia,
-Smith,Supervisor,1,Mike Bavido,Independent,Lorena-Sophia,
-Smith,Supervisor,1,Joseph (Jody) Blakeney,Independent,Lorena-Sophia,
-Smith,Supervisor,1,Donny Lowery,Independent,Lorena-Sophia,
-Smith,Supervisor,2,Eddie McMullan,Republican,Lorena-Sophia,
-Smith,Supervisor,2,Dwight D Norris,Democrat,Lorena-Sophia,
-Smith,Supervisor,2,Mike Ford,Independent,Lorena-Sophia,
-Smith,Supervisor,3,Benjie Ford,Independent,Lorena-Sophia,
-Smith,Supervisor,4,Danny Avender,Democrat,Lorena-Sophia,
-Smith,Supervisor,4,Bob J Miles,Republican,Lorena-Sophia,
+Smith,Supervisor,1,Jerry Fields,Republican,Lorena-Sophia,X
+Smith,Supervisor,1,Sammy Hancock,Democrat,Lorena-Sophia,X
+Smith,Supervisor,1,Mike Bavido,Independent,Lorena-Sophia,X
+Smith,Supervisor,1,Joseph (Jody) Blakeney,Independent,Lorena-Sophia,X
+Smith,Supervisor,1,Donny Lowery,Independent,Lorena-Sophia,X
+Smith,Supervisor,2,Eddie McMullan,Republican,Lorena-Sophia,X
+Smith,Supervisor,2,Dwight D Norris,Democrat,Lorena-Sophia,X
+Smith,Supervisor,2,Mike Ford,Independent,Lorena-Sophia,X
+Smith,Supervisor,3,Benjie Ford,Independent,Lorena-Sophia,X
+Smith,Supervisor,4,Danny Avender,Democrat,Lorena-Sophia,X
+Smith,Supervisor,4,Bob J Miles,Republican,Lorena-Sophia,X
 Smith,Supervisor,5,Robert Hallman,Republican,Lorena-Sophia,122
 Smith,Supervisor,5,Howard Hammons,Democrat,Lorena-Sophia,152
 Smith,Justice Court Judge,1,David 'Red' Easterling,Democrat,Lorena-Sophia,150
 Smith,Justice Court Judge,1,Charles 'Chuck' Jones Jr,Republican,Lorena-Sophia,122
-Smith,Justice Court Judge,2,Larry Allen,Republican,Lorena-Sophia,
-Smith,Justice Court Judge,2,Hulon West,Democrat,Lorena-Sophia,
+Smith,Justice Court Judge,2,Larry Allen,Republican,Lorena-Sophia,X
+Smith,Justice Court Judge,2,Hulon West,Democrat,Lorena-Sophia,X
 Smith,Constable,1,Joe Robert Blakeney,Republican,Lorena-Sophia,178
 Smith,Constable,1,Carlie (Bobo) Bowen,Democrat,Lorena-Sophia,91
-Smith,Constable,2,Brad Boykin,Democrat,Lorena-Sophia,
-Smith,Constable,2,Bobby Easterling,Republican,Lorena-Sophia,
-Smith,Constable,2,William Logan Pruitt,Independent,Lorena-Sophia,
+Smith,Constable,2,Brad Boykin,Democrat,Lorena-Sophia,X
+Smith,Constable,2,Bobby Easterling,Republican,Lorena-Sophia,X
+Smith,Constable,2,William Logan Pruitt,Independent,Lorena-Sophia,X
 Smith,Governor,,Jim Hood,Democrat,Mize,82
 Smith,Governor,,Tate Reeves,Repubilcan,Mize,374
 Smith,Governor,,Bob Hickingbottom,Constitution,Mize,0
@@ -367,20 +367,20 @@ Smith,Supervisor,1,Sammy Hancock,Democrat,Mize,20
 Smith,Supervisor,1,Mike Bavido,Independent,Mize,69
 Smith,Supervisor,1,Joseph (Jody) Blakeney,Independent,Mize,45
 Smith,Supervisor,1,Donny Lowery,Independent,Mize,129
-Smith,Supervisor,2,Eddie McMullan,Republican,Mize,
-Smith,Supervisor,2,Dwight D Norris,Democrat,Mize,
-Smith,Supervisor,2,Mike Ford,Independent,Mize,
-Smith,Supervisor,3,Benjie Ford,Independent,Mize,
-Smith,Supervisor,4,Danny Avender,Democrat,Mize,
-Smith,Supervisor,4,Bob J Miles,Republican,Mize,
-Smith,Supervisor,5,Robert Hallman,Republican,Mize,
-Smith,Supervisor,5,Howard Hammons,Democrat,Mize,
-Smith,Justice Court Judge,1,David 'Red' Easterling,Democrat,Mize,
-Smith,Justice Court Judge,1,Charles 'Chuck' Jones Jr,Republican,Mize,
+Smith,Supervisor,2,Eddie McMullan,Republican,Mize,X
+Smith,Supervisor,2,Dwight D Norris,Democrat,Mize,X
+Smith,Supervisor,2,Mike Ford,Independent,Mize,X
+Smith,Supervisor,3,Benjie Ford,Independent,Mize,X
+Smith,Supervisor,4,Danny Avender,Democrat,Mize,X
+Smith,Supervisor,4,Bob J Miles,Republican,Mize,X
+Smith,Supervisor,5,Robert Hallman,Republican,Mize,X
+Smith,Supervisor,5,Howard Hammons,Democrat,Mize,X
+Smith,Justice Court Judge,1,David 'Red' Easterling,Democrat,Mize,X
+Smith,Justice Court Judge,1,Charles 'Chuck' Jones Jr,Republican,Mize,X
 Smith,Justice Court Judge,2,Larry Allen,Republican,Mize,264
 Smith,Justice Court Judge,2,Hulon West,Democrat,Mize,207
-Smith,Constable,1,Joe Robert Blakeney,Republican,Mize,
-Smith,Constable,1,Carlie (Bobo) Bowen,Democrat,Mize,
+Smith,Constable,1,Joe Robert Blakeney,Republican,Mize,X
+Smith,Constable,1,Carlie (Bobo) Bowen,Democrat,Mize,X
 Smith,Constable,2,Brad Boykin,Democrat,Mize,60
 Smith,Constable,2,Bobby Easterling,Republican,Mize,285
 Smith,Constable,2,William Logan Pruitt,Independent,Mize,129
@@ -417,28 +417,28 @@ Smith,Sheriff,,Marty Peterson,Democrat,North Raleigh,311
 Smith,Surveyor,,Landry Adcock,Republican,North Raleigh,437
 Smith,Tax Assessor,,Mary Lou Powell,Democrat,North Raleigh,343
 Smith,Tax Assessor,,Samuel (Sam) Yeager,Republican,North Raleigh,218
-Smith,Supervisor,1,Jerry Fields,Republican,North Raleigh,
-Smith,Supervisor,1,Sammy Hancock,Democrat,North Raleigh,
-Smith,Supervisor,1,Mike Bavido,Independent,North Raleigh,
-Smith,Supervisor,1,Joseph (Jody) Blakeney,Independent,North Raleigh,
-Smith,Supervisor,1,Donny Lowery,Independent,North Raleigh,
-Smith,Supervisor,2,Eddie McMullan,Republican,North Raleigh,
-Smith,Supervisor,2,Dwight D Norris,Democrat,North Raleigh,
-Smith,Supervisor,2,Mike Ford,Independent,North Raleigh,
-Smith,Supervisor,3,Benjie Ford,Independent,North Raleigh,
-Smith,Supervisor,4,Danny Avender,Democrat,North Raleigh,
-Smith,Supervisor,4,Bob J Miles,Republican,North Raleigh,
+Smith,Supervisor,1,Jerry Fields,Republican,North Raleigh,X
+Smith,Supervisor,1,Sammy Hancock,Democrat,North Raleigh,X
+Smith,Supervisor,1,Mike Bavido,Independent,North Raleigh,X
+Smith,Supervisor,1,Joseph (Jody) Blakeney,Independent,North Raleigh,X
+Smith,Supervisor,1,Donny Lowery,Independent,North Raleigh,X
+Smith,Supervisor,2,Eddie McMullan,Republican,North Raleigh,X
+Smith,Supervisor,2,Dwight D Norris,Democrat,North Raleigh,X
+Smith,Supervisor,2,Mike Ford,Independent,North Raleigh,X
+Smith,Supervisor,3,Benjie Ford,Independent,North Raleigh,X
+Smith,Supervisor,4,Danny Avender,Democrat,North Raleigh,X
+Smith,Supervisor,4,Bob J Miles,Republican,North Raleigh,X
 Smith,Supervisor,5,Robert Hallman,Republican,North Raleigh,218
 Smith,Supervisor,5,Howard Hammons,Democrat,North Raleigh,344
 Smith,Justice Court Judge,1,David 'Red' Easterling,Democrat,North Raleigh,446
 Smith,Justice Court Judge,1,Charles 'Chuck' Jones Jr,Republican,North Raleigh,115
-Smith,Justice Court Judge,2,Larry Allen,Republican,North Raleigh,
-Smith,Justice Court Judge,2,Hulon West,Democrat,North Raleigh,
+Smith,Justice Court Judge,2,Larry Allen,Republican,North Raleigh,X
+Smith,Justice Court Judge,2,Hulon West,Democrat,North Raleigh,X
 Smith,Constable,1,Joe Robert Blakeney,Republican,North Raleigh,218
 Smith,Constable,1,Carlie (Bobo) Bowen,Democrat,North Raleigh,334
-Smith,Constable,2,Brad Boykin,Democrat,North Raleigh,
+Smith,Constable,2,Brad Boykin,Democrat,North Raleigh,X
 Smith,Constable,2,Bobby Easterling,Republican,North Raleigh,X:
-Smith,Constable,2,William Logan Pruitt,Independent,North Raleigh,
+Smith,Constable,2,William Logan Pruitt,Independent,North Raleigh,X
 Smith,Governor,,Jim Hood,Democrat,Polkville,63
 Smith,Governor,,Tate Reeves,Repubilcan,Polkville,319
 Smith,Governor,,Bob Hickingbottom,Constitution,Polkville,0
@@ -472,28 +472,28 @@ Smith,Sheriff,,Marty Peterson,Democrat,Polkville,91
 Smith,Surveyor,,Landry Adcock,Republican,Polkville,359
 Smith,Tax Assessor,,Mary Lou Powell,Democrat,Polkville,192
 Smith,Tax Assessor,,Samuel (Sam) Yeager,Republican,Polkville,189
-Smith,Supervisor,1,Jerry Fields,Republican,Polkville,
-Smith,Supervisor,1,Sammy Hancock,Democrat,Polkville,
-Smith,Supervisor,1,Mike Bavido,Independent,Polkville,
-Smith,Supervisor,1,Joseph (Jody) Blakeney,Independent,Polkville,
-Smith,Supervisor,1,Donny Lowery,Independent,Polkville,
-Smith,Supervisor,2,Eddie McMullan,Republican,Polkville,
-Smith,Supervisor,2,Dwight D Norris,Democrat,Polkville,
-Smith,Supervisor,2,Mike Ford,Independent,Polkville,
-Smith,Supervisor,3,Benjie Ford,Independent,Polkville,
+Smith,Supervisor,1,Jerry Fields,Republican,Polkville,X
+Smith,Supervisor,1,Sammy Hancock,Democrat,Polkville,X
+Smith,Supervisor,1,Mike Bavido,Independent,Polkville,X
+Smith,Supervisor,1,Joseph (Jody) Blakeney,Independent,Polkville,X
+Smith,Supervisor,1,Donny Lowery,Independent,Polkville,X
+Smith,Supervisor,2,Eddie McMullan,Republican,Polkville,X
+Smith,Supervisor,2,Dwight D Norris,Democrat,Polkville,X
+Smith,Supervisor,2,Mike Ford,Independent,Polkville,X
+Smith,Supervisor,3,Benjie Ford,Independent,Polkville,X
 Smith,Supervisor,4,Danny Avender,Democrat,Polkville,157
 Smith,Supervisor,4,Bob J Miles,Republican,Polkville,226
-Smith,Supervisor,5,Robert Hallman,Republican,Polkville,
-Smith,Supervisor,5,Howard Hammons,Democrat,Polkville,
+Smith,Supervisor,5,Robert Hallman,Republican,Polkville,X
+Smith,Supervisor,5,Howard Hammons,Democrat,Polkville,X
 Smith,Justice Court Judge,1,David 'Red' Easterling,Democrat,Polkville,174
 Smith,Justice Court Judge,1,Charles 'Chuck' Jones Jr,Republican,Polkville,208
-Smith,Justice Court Judge,2,Larry Allen,Republican,Polkville,
-Smith,Justice Court Judge,2,Hulon West,Democrat,Polkville,
+Smith,Justice Court Judge,2,Larry Allen,Republican,Polkville,X
+Smith,Justice Court Judge,2,Hulon West,Democrat,Polkville,X
 Smith,Constable,1,Joe Robert Blakeney,Republican,Polkville,267
 Smith,Constable,1,Carlie (Bobo) Bowen,Democrat,Polkville,108
-Smith,Constable,2,Brad Boykin,Democrat,Polkville,
-Smith,Constable,2,Bobby Easterling,Republican,Polkville,
-Smith,Constable,2,William Logan Pruitt,Independent,Polkville,
+Smith,Constable,2,Brad Boykin,Democrat,Polkville,X
+Smith,Constable,2,Bobby Easterling,Republican,Polkville,X
+Smith,Constable,2,William Logan Pruitt,Independent,Polkville,X
 Smith,Governor,,Jim Hood,Democrat,Shady Grove,66
 Smith,Governor,,Tate Reeves,Repubilcan,Shady Grove,225
 Smith,Governor,,Bob Hickingbottom,Constitution,Shady Grove,3
@@ -527,25 +527,25 @@ Smith,Sheriff,,Marty Peterson,Democrat,Shady Grove,76
 Smith,Surveyor,,Landry Adcock,Republican,Shady Grove,290
 Smith,Tax Assessor,,Mary Lou Powell,Democrat,Shady Grove,105
 Smith,Tax Assessor,,Samuel (Sam) Yeager,Republican,Shady Grove,192
-Smith,Supervisor,1,Jerry Fields,Republican,Shady Grove,
-Smith,Supervisor,1,Sammy Hancock,Democrat,Shady Grove,
-Smith,Supervisor,1,Mike Bavido,Independent,Shady Grove,
-Smith,Supervisor,1,Joseph (Jody) Blakeney,Independent,Shady Grove,
-Smith,Supervisor,1,Donny Lowery,Independent,Shady Grove,
-Smith,Supervisor,2,Eddie McMullan,Republican,Shady Grove,
-Smith,Supervisor,2,Dwight D Norris,Democrat,Shady Grove,
-Smith,Supervisor,2,Mike Ford,Independent,Shady Grove,
-Smith,Supervisor,3,Benjie Ford,Independent,Shady Grove,
+Smith,Supervisor,1,Jerry Fields,Republican,Shady Grove,X
+Smith,Supervisor,1,Sammy Hancock,Democrat,Shady Grove,X
+Smith,Supervisor,1,Mike Bavido,Independent,Shady Grove,X
+Smith,Supervisor,1,Joseph (Jody) Blakeney,Independent,Shady Grove,X
+Smith,Supervisor,1,Donny Lowery,Independent,Shady Grove,X
+Smith,Supervisor,2,Eddie McMullan,Republican,Shady Grove,X
+Smith,Supervisor,2,Dwight D Norris,Democrat,Shady Grove,X
+Smith,Supervisor,2,Mike Ford,Independent,Shady Grove,X
+Smith,Supervisor,3,Benjie Ford,Independent,Shady Grove,X
 Smith,Supervisor,4,Danny Avender,Democrat,Shady Grove,144
 Smith,Supervisor,4,Bob J Miles,Republican,Shady Grove,157
-Smith,Supervisor,5,Robert Hallman,Republican,Shady Grove,
-Smith,Supervisor,5,Howard Hammons,Democrat,Shady Grove,
-Smith,Justice Court Judge,1,David 'Red' Easterling,Democrat,Shady Grove,
-Smith,Justice Court Judge,1,Charles 'Chuck' Jones Jr,Republican,Shady Grove,
+Smith,Supervisor,5,Robert Hallman,Republican,Shady Grove,X
+Smith,Supervisor,5,Howard Hammons,Democrat,Shady Grove,X
+Smith,Justice Court Judge,1,David 'Red' Easterling,Democrat,Shady Grove,X
+Smith,Justice Court Judge,1,Charles 'Chuck' Jones Jr,Republican,Shady Grove,X
 Smith,Justice Court Judge,2,Larry Allen,Republican,Shady Grove,200
 Smith,Justice Court Judge,2,Hulon West,Democrat,Shady Grove,100
-Smith,Constable,1,Joe Robert Blakeney,Republican,Shady Grove,
-Smith,Constable,1,Carlie (Bobo) Bowen,Democrat,Shady Grove,
+Smith,Constable,1,Joe Robert Blakeney,Republican,Shady Grove,X
+Smith,Constable,1,Carlie (Bobo) Bowen,Democrat,Shady Grove,X
 Smith,Constable,2,Brad Boykin,Democrat,Shady Grove,20
 Smith,Constable,2,Bobby Easterling,Republican,Shady Grove,230
 Smith,Constable,2,William Logan Pruitt,Independent,Shady Grove,52
@@ -582,25 +582,25 @@ Smith,Sheriff,,Marty Peterson,Democrat,Summerland,365
 Smith,Surveyor,,Landry Adcock,Republican,Summerland,334
 Smith,Tax Assessor,,Mary Lou Powell,Democrat,Summerland,399
 Smith,Tax Assessor,,Samuel (Sam) Yeager,Republican,Summerland,114
-Smith,Supervisor,1,Jerry Fields,Republican,Summerland,
-Smith,Supervisor,1,Sammy Hancock,Democrat,Summerland,
-Smith,Supervisor,1,Mike Bavido,Independent,Summerland,
-Smith,Supervisor,1,Joseph (Jody) Blakeney,Independent,Summerland,
-Smith,Supervisor,1,Donny Lowery,Independent,Summerland,
+Smith,Supervisor,1,Jerry Fields,Republican,Summerland,X
+Smith,Supervisor,1,Sammy Hancock,Democrat,Summerland,X
+Smith,Supervisor,1,Mike Bavido,Independent,Summerland,X
+Smith,Supervisor,1,Joseph (Jody) Blakeney,Independent,Summerland,X
+Smith,Supervisor,1,Donny Lowery,Independent,Summerland,X
 Smith,Supervisor,2,Eddie McMullan,Republican,Summerland,35
 Smith,Supervisor,2,Dwight D Norris,Democrat,Summerland,321
 Smith,Supervisor,2,Mike Ford,Independent,Summerland,160
-Smith,Supervisor,3,Benjie Ford,Independent,Summerland,
-Smith,Supervisor,4,Danny Avender,Democrat,Summerland,
-Smith,Supervisor,4,Bob J Miles,Republican,Summerland,
-Smith,Supervisor,5,Robert Hallman,Republican,Summerland,
-Smith,Supervisor,5,Howard Hammons,Democrat,Summerland,
-Smith,Justice Court Judge,1,David 'Red' Easterling,Democrat,Summerland,
-Smith,Justice Court Judge,1,Charles 'Chuck' Jones Jr,Republican,Summerland,
+Smith,Supervisor,3,Benjie Ford,Independent,Summerland,X
+Smith,Supervisor,4,Danny Avender,Democrat,Summerland,X
+Smith,Supervisor,4,Bob J Miles,Republican,Summerland,X
+Smith,Supervisor,5,Robert Hallman,Republican,Summerland,X
+Smith,Supervisor,5,Howard Hammons,Democrat,Summerland,X
+Smith,Justice Court Judge,1,David 'Red' Easterling,Democrat,Summerland,X
+Smith,Justice Court Judge,1,Charles 'Chuck' Jones Jr,Republican,Summerland,X
 Smith,Justice Court Judge,2,Larry Allen,Republican,Summerland,70
 Smith,Justice Court Judge,2,Hulon West,Democrat,Summerland,441
-Smith,Constable,1,Joe Robert Blakeney,Republican,Summerland,
-Smith,Constable,1,Carlie (Bobo) Bowen,Democrat,Summerland,
+Smith,Constable,1,Joe Robert Blakeney,Republican,Summerland,X
+Smith,Constable,1,Carlie (Bobo) Bowen,Democrat,Summerland,X
 Smith,Constable,2,Brad Boykin,Democrat,Summerland,350
 Smith,Constable,2,Bobby Easterling,Republican,Summerland,117
 Smith,Constable,2,William Logan Pruitt,Independent,Summerland,43
@@ -642,23 +642,23 @@ Smith,Supervisor,1,Sammy Hancock,Democrat,Sylvarena,8
 Smith,Supervisor,1,Mike Bavido,Independent,Sylvarena,11
 Smith,Supervisor,1,Joseph (Jody) Blakeney,Independent,Sylvarena,20
 Smith,Supervisor,1,Donny Lowery,Independent,Sylvarena,14
-Smith,Supervisor,2,Eddie McMullan,Republican,Sylvarena,
-Smith,Supervisor,2,Dwight D Norris,Democrat,Sylvarena,
-Smith,Supervisor,2,Mike Ford,Independent,Sylvarena,
-Smith,Supervisor,3,Benjie Ford,Independent,Sylvarena,
-Smith,Supervisor,4,Danny Avender,Democrat,Sylvarena,
-Smith,Supervisor,4,Bob J Miles,Republican,Sylvarena,
-Smith,Supervisor,5,Robert Hallman,Republican,Sylvarena,
-Smith,Supervisor,5,Howard Hammons,Democrat,Sylvarena,
+Smith,Supervisor,2,Eddie McMullan,Republican,Sylvarena,X
+Smith,Supervisor,2,Dwight D Norris,Democrat,Sylvarena,X
+Smith,Supervisor,2,Mike Ford,Independent,Sylvarena,X
+Smith,Supervisor,3,Benjie Ford,Independent,Sylvarena,X
+Smith,Supervisor,4,Danny Avender,Democrat,Sylvarena,X
+Smith,Supervisor,4,Bob J Miles,Republican,Sylvarena,X
+Smith,Supervisor,5,Robert Hallman,Republican,Sylvarena,X
+Smith,Supervisor,5,Howard Hammons,Democrat,Sylvarena,X
 Smith,Justice Court Judge,1,David 'Red' Easterling,Democrat,Sylvarena,101
 Smith,Justice Court Judge,1,Charles 'Chuck' Jones Jr,Republican,Sylvarena,89
-Smith,Justice Court Judge,2,Larry Allen,Republican,Sylvarena,
-Smith,Justice Court Judge,2,Hulon West,Democrat,Sylvarena,
+Smith,Justice Court Judge,2,Larry Allen,Republican,Sylvarena,X
+Smith,Justice Court Judge,2,Hulon West,Democrat,Sylvarena,X
 Smith,Constable,1,Joe Robert Blakeney,Republican,Sylvarena,119
 Smith,Constable,1,Carlie (Bobo) Bowen,Democrat,Sylvarena,72
-Smith,Constable,2,Brad Boykin,Democrat,Sylvarena,
-Smith,Constable,2,Bobby Easterling,Republican,Sylvarena,
-Smith,Constable,2,William Logan Pruitt,Independent,Sylvarena,
+Smith,Constable,2,Brad Boykin,Democrat,Sylvarena,X
+Smith,Constable,2,Bobby Easterling,Republican,Sylvarena,X
+Smith,Constable,2,William Logan Pruitt,Independent,Sylvarena,X
 Smith,Governor,,Jim Hood,Democrat,Taylorsville,156
 Smith,Governor,,Tate Reeves,Repubilcan,Taylorsville,473
 Smith,Governor,,Bob Hickingbottom,Constitution,Taylorsville,2
@@ -692,25 +692,25 @@ Smith,Sheriff,,Marty Peterson,Democrat,Taylorsville,204
 Smith,Surveyor,,Landry Adcock,Republican,Taylorsville,578
 Smith,Tax Assessor,,Mary Lou Powell,Democrat,Taylorsville,266
 Smith,Tax Assessor,,Samuel (Sam) Yeager,Republican,Taylorsville,372
-Smith,Supervisor,1,Jerry Fields,Republican,Taylorsville,
-Smith,Supervisor,1,Sammy Hancock,Democrat,Taylorsville,
-Smith,Supervisor,1,Mike Bavido,Independent,Taylorsville,
-Smith,Supervisor,1,Joseph (Jody) Blakeney,Independent,Taylorsville,
-Smith,Supervisor,1,Donny Lowery,Independent,Taylorsville,
-Smith,Supervisor,2,Eddie McMullan,Republican,Taylorsville,
-Smith,Supervisor,2,Dwight D Norris,Democrat,Taylorsville,
-Smith,Supervisor,2,Mike Ford,Independent,Taylorsville,
+Smith,Supervisor,1,Jerry Fields,Republican,Taylorsville,X
+Smith,Supervisor,1,Sammy Hancock,Democrat,Taylorsville,X
+Smith,Supervisor,1,Mike Bavido,Independent,Taylorsville,X
+Smith,Supervisor,1,Joseph (Jody) Blakeney,Independent,Taylorsville,X
+Smith,Supervisor,1,Donny Lowery,Independent,Taylorsville,X
+Smith,Supervisor,2,Eddie McMullan,Republican,Taylorsville,X
+Smith,Supervisor,2,Dwight D Norris,Democrat,Taylorsville,X
+Smith,Supervisor,2,Mike Ford,Independent,Taylorsville,X
 Smith,Supervisor,3,Benjie Ford,Independent,Taylorsville,591
-Smith,Supervisor,4,Danny Avender,Democrat,Taylorsville,
-Smith,Supervisor,4,Bob J Miles,Republican,Taylorsville,
-Smith,Supervisor,5,Robert Hallman,Republican,Taylorsville,
-Smith,Supervisor,5,Howard Hammons,Democrat,Taylorsville,
-Smith,Justice Court Judge,1,David 'Red' Easterling,Democrat,Taylorsville,
-Smith,Justice Court Judge,1,Charles 'Chuck' Jones Jr,Republican,Taylorsville,
+Smith,Supervisor,4,Danny Avender,Democrat,Taylorsville,X
+Smith,Supervisor,4,Bob J Miles,Republican,Taylorsville,X
+Smith,Supervisor,5,Robert Hallman,Republican,Taylorsville,X
+Smith,Supervisor,5,Howard Hammons,Democrat,Taylorsville,X
+Smith,Justice Court Judge,1,David 'Red' Easterling,Democrat,Taylorsville,X
+Smith,Justice Court Judge,1,Charles 'Chuck' Jones Jr,Republican,Taylorsville,X
 Smith,Justice Court Judge,2,Larry Allen,Republican,Taylorsville,212
 Smith,Justice Court Judge,2,Hulon West,Democrat,Taylorsville,430
-Smith,Constable,1,Joe Robert Blakeney,Republican,Taylorsville,
-Smith,Constable,1,Carlie (Bobo) Bowen,Democrat,Taylorsville,
+Smith,Constable,1,Joe Robert Blakeney,Republican,Taylorsville,X
+Smith,Constable,1,Carlie (Bobo) Bowen,Democrat,Taylorsville,X
 Smith,Constable,2,Brad Boykin,Democrat,Taylorsville,175
 Smith,Constable,2,Bobby Easterling,Republican,Taylorsville,352
 Smith,Constable,2,William Logan Pruitt,Independent,Taylorsville,116
@@ -747,25 +747,25 @@ Smith,Sheriff,,Marty Peterson,Democrat,Union-New Home,134
 Smith,Surveyor,,Landry Adcock,Republican,Union-New Home,303
 Smith,Tax Assessor,,Mary Lou Powell,Democrat,Union-New Home,160
 Smith,Tax Assessor,,Samuel (Sam) Yeager,Republican,Union-New Home,210
-Smith,Supervisor,1,Jerry Fields,Republican,Union-New Home,
-Smith,Supervisor,1,Sammy Hancock,Democrat,Union-New Home,
-Smith,Supervisor,1,Mike Bavido,Independent,Union-New Home,
-Smith,Supervisor,1,Joseph (Jody) Blakeney,Independent,Union-New Home,
-Smith,Supervisor,1,Donny Lowery,Independent,Union-New Home,
+Smith,Supervisor,1,Jerry Fields,Republican,Union-New Home,X
+Smith,Supervisor,1,Sammy Hancock,Democrat,Union-New Home,X
+Smith,Supervisor,1,Mike Bavido,Independent,Union-New Home,X
+Smith,Supervisor,1,Joseph (Jody) Blakeney,Independent,Union-New Home,X
+Smith,Supervisor,1,Donny Lowery,Independent,Union-New Home,X
 Smith,Supervisor,2,Eddie McMullan,Republican,Union-New Home,126
 Smith,Supervisor,2,Dwight D Norris,Democrat,Union-New Home,102
 Smith,Supervisor,2,Mike Ford,Independent,Union-New Home,142
-Smith,Supervisor,3,Benjie Ford,Independent,Union-New Home,
-Smith,Supervisor,4,Danny Avender,Democrat,Union-New Home,
-Smith,Supervisor,4,Bob J Miles,Republican,Union-New Home,
-Smith,Supervisor,5,Robert Hallman,Republican,Union-New Home,
-Smith,Supervisor,5,Howard Hammons,Democrat,Union-New Home,
-Smith,Justice Court Judge,1,David 'Red' Easterling,Democrat,Union-New Home,
-Smith,Justice Court Judge,1,Charles 'Chuck' Jones Jr,Republican,Union-New Home,
+Smith,Supervisor,3,Benjie Ford,Independent,Union-New Home,X
+Smith,Supervisor,4,Danny Avender,Democrat,Union-New Home,X
+Smith,Supervisor,4,Bob J Miles,Republican,Union-New Home,X
+Smith,Supervisor,5,Robert Hallman,Republican,Union-New Home,X
+Smith,Supervisor,5,Howard Hammons,Democrat,Union-New Home,X
+Smith,Justice Court Judge,1,David 'Red' Easterling,Democrat,Union-New Home,X
+Smith,Justice Court Judge,1,Charles 'Chuck' Jones Jr,Republican,Union-New Home,X
 Smith,Justice Court Judge,2,Larry Allen,Republican,Union-New Home,177
 Smith,Justice Court Judge,2,Hulon West,Democrat,Union-New Home,191
-Smith,Constable,1,Joe Robert Blakeney,Republican,Union-New Home,
-Smith,Constable,1,Carlie (Bobo) Bowen,Democrat,Union-New Home,
+Smith,Constable,1,Joe Robert Blakeney,Republican,Union-New Home,X
+Smith,Constable,1,Carlie (Bobo) Bowen,Democrat,Union-New Home,X
 Smith,Constable,2,Brad Boykin,Democrat,Union-New Home,114
 Smith,Constable,2,Bobby Easterling,Republican,Union-New Home,225
 Smith,Constable,2,William Logan Pruitt,Independent,Union-New Home,23
@@ -802,28 +802,28 @@ Smith,Sheriff,,Marty Peterson,Democrat,Warren Hill,227
 Smith,Surveyor,,Landry Adcock,Republican,Warren Hill,184
 Smith,Tax Assessor,,Mary Lou Powell,Democrat,Warren Hill,256
 Smith,Tax Assessor,,Samuel (Sam) Yeager,Republican,Warren Hill,40
-Smith,Supervisor,1,Jerry Fields,Republican,Warren Hill,
-Smith,Supervisor,1,Sammy Hancock,Democrat,Warren Hill,
-Smith,Supervisor,1,Mike Bavido,Independent,Warren Hill,
-Smith,Supervisor,1,Joseph (Jody) Blakeney,Independent,Warren Hill,
-Smith,Supervisor,1,Donny Lowery,Independent,Warren Hill,
+Smith,Supervisor,1,Jerry Fields,Republican,Warren Hill,X
+Smith,Supervisor,1,Sammy Hancock,Democrat,Warren Hill,X
+Smith,Supervisor,1,Mike Bavido,Independent,Warren Hill,X
+Smith,Supervisor,1,Joseph (Jody) Blakeney,Independent,Warren Hill,X
+Smith,Supervisor,1,Donny Lowery,Independent,Warren Hill,X
 Smith,Supervisor,2,Eddie McMullan,Republican,Warren Hill,34
 Smith,Supervisor,2,Dwight D Norris,Democrat,Warren Hill,197
 Smith,Supervisor,2,Mike Ford,Independent,Warren Hill,61
-Smith,Supervisor,3,Benjie Ford,Independent,Warren Hill,
-Smith,Supervisor,4,Danny Avender,Democrat,Warren Hill,
-Smith,Supervisor,4,Bob J Miles,Republican,Warren Hill,
-Smith,Supervisor,5,Robert Hallman,Republican,Warren Hill,
-Smith,Supervisor,5,Howard Hammons,Democrat,Warren Hill,
+Smith,Supervisor,3,Benjie Ford,Independent,Warren Hill,X
+Smith,Supervisor,4,Danny Avender,Democrat,Warren Hill,X
+Smith,Supervisor,4,Bob J Miles,Republican,Warren Hill,X
+Smith,Supervisor,5,Robert Hallman,Republican,Warren Hill,X
+Smith,Supervisor,5,Howard Hammons,Democrat,Warren Hill,X
 Smith,Justice Court Judge,1,David 'Red' Easterling,Democrat,Warren Hill,259
 Smith,Justice Court Judge,1,Charles 'Chuck' Jones Jr,Republican,Warren Hill,33
-Smith,Justice Court Judge,2,Larry Allen,Republican,Warren Hill,
-Smith,Justice Court Judge,2,Hulon West,Democrat,Warren Hill,
+Smith,Justice Court Judge,2,Larry Allen,Republican,Warren Hill,X
+Smith,Justice Court Judge,2,Hulon West,Democrat,Warren Hill,X
 Smith,Constable,1,Joe Robert Blakeney,Republican,Warren Hill,42
 Smith,Constable,1,Carlie (Bobo) Bowen,Democrat,Warren Hill,248
-Smith,Constable,2,Brad Boykin,Democrat,Warren Hill,
-Smith,Constable,2,Bobby Easterling,Republican,Warren Hill,
-Smith,Constable,2,William Logan Pruitt,Independent,Warren Hill,
+Smith,Constable,2,Brad Boykin,Democrat,Warren Hill,X
+Smith,Constable,2,Bobby Easterling,Republican,Warren Hill,X
+Smith,Constable,2,William Logan Pruitt,Independent,Warren Hill,X
 Smith,Governor,,Jim Hood,Democrat,West Raleigh,84
 Smith,Governor,,Tate Reeves,Repubilcan,West Raleigh,209
 Smith,Governor,,Bob Hickingbottom,Constitution,West Raleigh,2
@@ -857,28 +857,28 @@ Smith,Sheriff,,Marty Peterson,Democrat,West Raleigh,137
 Smith,Surveyor,,Landry Adcock,Republican,West Raleigh,269
 Smith,Tax Assessor,,Mary Lou Powell,Democrat,West Raleigh,187
 Smith,Tax Assessor,,Samuel (Sam) Yeager,Republican,West Raleigh,111
-Smith,Supervisor,1,Jerry Fields,Republican,West Raleigh,
-Smith,Supervisor,1,Sammy Hancock,Democrat,West Raleigh,
-Smith,Supervisor,1,Mike Bavido,Independent,West Raleigh,
-Smith,Supervisor,1,Joseph (Jody) Blakeney,Independent,West Raleigh,
-Smith,Supervisor,1,Donny Lowery,Independent,West Raleigh,
-Smith,Supervisor,2,Eddie McMullan,Republican,West Raleigh,
-Smith,Supervisor,2,Dwight D Norris,Democrat,West Raleigh,
-Smith,Supervisor,2,Mike Ford,Independent,West Raleigh,
-Smith,Supervisor,3,Benjie Ford,Independent,West Raleigh,
+Smith,Supervisor,1,Jerry Fields,Republican,West Raleigh,X
+Smith,Supervisor,1,Sammy Hancock,Democrat,West Raleigh,X
+Smith,Supervisor,1,Mike Bavido,Independent,West Raleigh,X
+Smith,Supervisor,1,Joseph (Jody) Blakeney,Independent,West Raleigh,X
+Smith,Supervisor,1,Donny Lowery,Independent,West Raleigh,X
+Smith,Supervisor,2,Eddie McMullan,Republican,West Raleigh,X
+Smith,Supervisor,2,Dwight D Norris,Democrat,West Raleigh,X
+Smith,Supervisor,2,Mike Ford,Independent,West Raleigh,X
+Smith,Supervisor,3,Benjie Ford,Independent,West Raleigh,X
 Smith,Supervisor,4,Danny Avender,Democrat,West Raleigh,231
 Smith,Supervisor,4,Bob J Miles,Republican,West Raleigh,71
-Smith,Supervisor,5,Robert Hallman,Republican,West Raleigh,
-Smith,Supervisor,5,Howard Hammons,Democrat,West Raleigh,
+Smith,Supervisor,5,Robert Hallman,Republican,West Raleigh,X
+Smith,Supervisor,5,Howard Hammons,Democrat,West Raleigh,X
 Smith,Justice Court Judge,1,David 'Red' Easterling,Democrat,West Raleigh,216
 Smith,Justice Court Judge,1,Charles 'Chuck' Jones Jr,Republican,West Raleigh,83
-Smith,Justice Court Judge,2,Larry Allen,Republican,West Raleigh,
-Smith,Justice Court Judge,2,Hulon West,Democrat,West Raleigh,
+Smith,Justice Court Judge,2,Larry Allen,Republican,West Raleigh,X
+Smith,Justice Court Judge,2,Hulon West,Democrat,West Raleigh,X
 Smith,Constable,1,Joe Robert Blakeney,Republican,West Raleigh,108
 Smith,Constable,1,Carlie (Bobo) Bowen,Democrat,West Raleigh,191
-Smith,Constable,2,Brad Boykin,Democrat,West Raleigh,
-Smith,Constable,2,Bobby Easterling,Republican,West Raleigh,
-Smith,Constable,2,William Logan Pruitt,Independent,West Raleigh,
+Smith,Constable,2,Brad Boykin,Democrat,West Raleigh,X
+Smith,Constable,2,Bobby Easterling,Republican,West Raleigh,X
+Smith,Constable,2,William Logan Pruitt,Independent,West Raleigh,X
 Smith,Governor,,Jim Hood,Democrat,White Oak,57
 Smith,Governor,,Tate Reeves,Repubilcan,White Oak,233
 Smith,Governor,,Bob Hickingbottom,Constitution,White Oak,0
@@ -912,28 +912,28 @@ Smith,Sheriff,,Marty Peterson,Democrat,White Oak,139
 Smith,Surveyor,,Landry Adcock,Republican,White Oak,278
 Smith,Tax Assessor,,Mary Lou Powell,Democrat,White Oak,220
 Smith,Tax Assessor,,Samuel (Sam) Yeager,Republican,White Oak,73
-Smith,Supervisor,1,Jerry Fields,Republican,White Oak,
-Smith,Supervisor,1,Sammy Hancock,Democrat,White Oak,
-Smith,Supervisor,1,Mike Bavido,Independent,White Oak,
-Smith,Supervisor,1,Joseph (Jody) Blakeney,Independent,White Oak,
-Smith,Supervisor,1,Donny Lowery,Independent,White Oak,
-Smith,Supervisor,2,Eddie McMullan,Republican,White Oak,
-Smith,Supervisor,2,Dwight D Norris,Democrat,White Oak,
-Smith,Supervisor,2,Mike Ford,Independent,White Oak,
-Smith,Supervisor,3,Benjie Ford,Independent,White Oak,
+Smith,Supervisor,1,Jerry Fields,Republican,White Oak,X
+Smith,Supervisor,1,Sammy Hancock,Democrat,White Oak,X
+Smith,Supervisor,1,Mike Bavido,Independent,White Oak,X
+Smith,Supervisor,1,Joseph (Jody) Blakeney,Independent,White Oak,X
+Smith,Supervisor,1,Donny Lowery,Independent,White Oak,X
+Smith,Supervisor,2,Eddie McMullan,Republican,White Oak,X
+Smith,Supervisor,2,Dwight D Norris,Democrat,White Oak,X
+Smith,Supervisor,2,Mike Ford,Independent,White Oak,X
+Smith,Supervisor,3,Benjie Ford,Independent,White Oak,X
 Smith,Supervisor,4,Danny Avender,Democrat,White Oak,182
 Smith,Supervisor,4,Bob J Miles,Republican,White Oak,112
-Smith,Supervisor,5,Robert Hallman,Republican,White Oak,
-Smith,Supervisor,5,Howard Hammons,Democrat,White Oak,
+Smith,Supervisor,5,Robert Hallman,Republican,White Oak,X
+Smith,Supervisor,5,Howard Hammons,Democrat,White Oak,X
 Smith,Justice Court Judge,1,David 'Red' Easterling,Democrat,White Oak,140
 Smith,Justice Court Judge,1,Charles 'Chuck' Jones Jr,Republican,White Oak,146
-Smith,Justice Court Judge,2,Larry Allen,Republican,White Oak,
-Smith,Justice Court Judge,2,Hulon West,Democrat,White Oak,
+Smith,Justice Court Judge,2,Larry Allen,Republican,White Oak,X
+Smith,Justice Court Judge,2,Hulon West,Democrat,White Oak,X
 Smith,Constable,1,Joe Robert Blakeney,Republican,White Oak,153
 Smith,Constable,1,Carlie (Bobo) Bowen,Democrat,White Oak,132
-Smith,Constable,2,Brad Boykin,Democrat,White Oak,
-Smith,Constable,2,Bobby Easterling,Republican,White Oak,
-Smith,Constable,2,William Logan Pruitt,Independent,White Oak,
+Smith,Constable,2,Brad Boykin,Democrat,White Oak,X
+Smith,Constable,2,Bobby Easterling,Republican,White Oak,X
+Smith,Constable,2,William Logan Pruitt,Independent,White Oak,X
 Smith,Governor,,Jim Hood,Democrat,Zion Hill-New Haven,171
 Smith,Governor,,Tate Reeves,Repubilcan,Zion Hill-New Haven,352
 Smith,Governor,,Bob Hickingbottom,Constitution,Zion Hill-New Haven,0
@@ -967,25 +967,25 @@ Smith,Sheriff,,Marty Peterson,Democrat,Zion Hill-New Haven,233
 Smith,Surveyor,,Landry Adcock,Republican,Zion Hill-New Haven,461
 Smith,Tax Assessor,,Mary Lou Powell,Democrat,Zion Hill-New Haven,243
 Smith,Tax Assessor,,Samuel (Sam) Yeager,Republican,Zion Hill-New Haven,290
-Smith,Supervisor,1,Jerry Fields,Republican,Zion Hill-New Haven,
-Smith,Supervisor,1,Sammy Hancock,Democrat,Zion Hill-New Haven,
-Smith,Supervisor,1,Mike Bavido,Independent,Zion Hill-New Haven,
-Smith,Supervisor,1,Joseph (Jody) Blakeney,Independent,Zion Hill-New Haven,
-Smith,Supervisor,1,Donny Lowery,Independent,Zion Hill-New Haven,
-Smith,Supervisor,2,Eddie McMullan,Republican,Zion Hill-New Haven,
-Smith,Supervisor,2,Dwight D Norris,Democrat,Zion Hill-New Haven,
-Smith,Supervisor,2,Mike Ford,Independent,Zion Hill-New Haven,
+Smith,Supervisor,1,Jerry Fields,Republican,Zion Hill-New Haven,X
+Smith,Supervisor,1,Sammy Hancock,Democrat,Zion Hill-New Haven,X
+Smith,Supervisor,1,Mike Bavido,Independent,Zion Hill-New Haven,X
+Smith,Supervisor,1,Joseph (Jody) Blakeney,Independent,Zion Hill-New Haven,X
+Smith,Supervisor,1,Donny Lowery,Independent,Zion Hill-New Haven,X
+Smith,Supervisor,2,Eddie McMullan,Republican,Zion Hill-New Haven,X
+Smith,Supervisor,2,Dwight D Norris,Democrat,Zion Hill-New Haven,X
+Smith,Supervisor,2,Mike Ford,Independent,Zion Hill-New Haven,X
 Smith,Supervisor,3,Benjie Ford,Independent,Zion Hill-New Haven,498
-Smith,Supervisor,4,Danny Avender,Democrat,Zion Hill-New Haven,
-Smith,Supervisor,4,Bob J Miles,Republican,Zion Hill-New Haven,
-Smith,Supervisor,5,Robert Hallman,Republican,Zion Hill-New Haven,
-Smith,Supervisor,5,Howard Hammons,Democrat,Zion Hill-New Haven,
-Smith,Justice Court Judge,1,David 'Red' Easterling,Democrat,Zion Hill-New Haven,
-Smith,Justice Court Judge,1,Charles 'Chuck' Jones Jr,Republican,Zion Hill-New Haven,
+Smith,Supervisor,4,Danny Avender,Democrat,Zion Hill-New Haven,X
+Smith,Supervisor,4,Bob J Miles,Republican,Zion Hill-New Haven,X
+Smith,Supervisor,5,Robert Hallman,Republican,Zion Hill-New Haven,X
+Smith,Supervisor,5,Howard Hammons,Democrat,Zion Hill-New Haven,X
+Smith,Justice Court Judge,1,David 'Red' Easterling,Democrat,Zion Hill-New Haven,X
+Smith,Justice Court Judge,1,Charles 'Chuck' Jones Jr,Republican,Zion Hill-New Haven,X
 Smith,Justice Court Judge,2,Larry Allen,Republican,Zion Hill-New Haven,253
 Smith,Justice Court Judge,2,Hulon West,Democrat,Zion Hill-New Haven,281
-Smith,Constable,1,Joe Robert Blakeney,Republican,Zion Hill-New Haven,
-Smith,Constable,1,Carlie (Bobo) Bowen,Democrat,Zion Hill-New Haven,
+Smith,Constable,1,Joe Robert Blakeney,Republican,Zion Hill-New Haven,X
+Smith,Constable,1,Carlie (Bobo) Bowen,Democrat,Zion Hill-New Haven,X
 Smith,Constable,2,Brad Boykin,Democrat,Zion Hill-New Haven,101
 Smith,Constable,2,Bobby Easterling,Republican,Zion Hill-New Haven,269
 Smith,Constable,2,William Logan Pruitt,Independent,Zion Hill-New Haven,163

@@ -14,15 +14,15 @@ Addie Lee Green,State Treasurer,,D,Forrest,Bar Mac,224
 David McRae,State Treasurer,,R,Forrest,Bar Mac,1188
 Rickey L Cole,Commissioner of Agriculture & Commerce,,D,Forrest,Bar Mac,242
 Andy Gipson,Commissioner of Agriculture & Commerce,,R,Forrest,Bar Mac,1167
-Juan Barnett,State Senate,34,D,Forrest,Bar Mac,
-Steven L Wade,State Senate,34,R,Forrest,Bar Mac,
-Joey Fillingane,State Senate,41,R,Forrest,Bar Mac,
+Juan Barnett,State Senate,34,D,Forrest,Bar Mac,X
+Steven L Wade,State Senate,34,R,Forrest,Bar Mac,X
+Joey Fillingane,State Senate,41,R,Forrest,Bar Mac,X
 Chris McDaniel,State Senate,42,R,Forrest,Bar Mac,1256
-Chris Johnson,State Senate,45,R,Forrest,Bar Mac,
-William E 'Billy' Andrews III,State House,87,R,Forrest,Bar Mac,
-Missy Warren McGee,State House,102,R,Forrest,Bar Mac,
-Brandon Terrion Rue,State House,102,D,Forrest,Bar Mac,
-Percy W Watson,State House,103,D,Forrest,Bar Mac,
+Chris Johnson,State Senate,45,R,Forrest,Bar Mac,X
+William E 'Billy' Andrews III,State House,87,R,Forrest,Bar Mac,X
+Missy Warren McGee,State House,102,R,Forrest,Bar Mac,X
+Brandon Terrion Rue,State House,102,D,Forrest,Bar Mac,X
+Percy W Watson,State House,103,D,Forrest,Bar Mac,X
 Larry Byrd,State House,104,R,Forrest,Bar Mac,1297
 Jim Hood,Governor,,D,Forrest,Brooklyn,48
 Tate Reeves,Governor,,R,Forrest,Brooklyn,303
@@ -40,14 +40,14 @@ David McRae,State Treasurer,,R,Forrest,Brooklyn,336
 Rickey L Cole,Commissioner of Agriculture & Commerce,,D,Forrest,Brooklyn,29
 Andy Gipson,Commissioner of Agriculture & Commerce,,R,Forrest,Brooklyn,328
 Juan Barnett,State Senate,34,D,Forrest,Brooklyn,8
-Steven L Wade,State Senate,34,R,Forrest,Brooklyn,
-Joey Fillingane,State Senate,41,R,Forrest,Brooklyn,
-Chris McDaniel,State Senate,42,R,Forrest,Brooklyn,
-Chris Johnson,State Senate,45,R,Forrest,Brooklyn,
+Steven L Wade,State Senate,34,R,Forrest,Brooklyn,X
+Joey Fillingane,State Senate,41,R,Forrest,Brooklyn,X
+Chris McDaniel,State Senate,42,R,Forrest,Brooklyn,X
+Chris Johnson,State Senate,45,R,Forrest,Brooklyn,X
 William E 'Billy' Andrews III,State House,87,R,Forrest,Brooklyn,342
-Missy Warren McGee,State House,102,R,Forrest,Brooklyn,
-Brandon Terrion Rue,State House,102,D,Forrest,Brooklyn,
-Percy W Watson,State House,103,D,Forrest,Brooklyn,
+Missy Warren McGee,State House,102,R,Forrest,Brooklyn,X
+Brandon Terrion Rue,State House,102,D,Forrest,Brooklyn,X
+Percy W Watson,State House,103,D,Forrest,Brooklyn,X
 Larry Byrd,State House,104,R,Forrest,Brooklyn,345
 Jim Hood,Governor,,D,Forrest,Camp,269
 Tate Reeves,Governor,,R,Forrest,Camp,138
@@ -66,14 +66,14 @@ Rickey L Cole,Commissioner of Agriculture & Commerce,,D,Forrest,Camp,207
 Andy Gipson,Commissioner of Agriculture & Commerce,,R,Forrest,Camp,184
 Juan Barnett,State Senate,34,D,Forrest,Camp,0
 Steven L Wade,State Senate,34,R,Forrest,Camp,0
-Joey Fillingane,State Senate,41,R,Forrest,Camp,
-Chris McDaniel,State Senate,42,R,Forrest,Camp,
+Joey Fillingane,State Senate,41,R,Forrest,Camp,X
+Chris McDaniel,State Senate,42,R,Forrest,Camp,X
 Chris Johnson,State Senate,45,R,Forrest,Camp,311
-William E 'Billy' Andrews III,State House,87,R,Forrest,Camp,
+William E 'Billy' Andrews III,State House,87,R,Forrest,Camp,X
 Missy Warren McGee,State House,102,R,Forrest,Camp,255
 Brandon Terrion Rue,State House,102,D,Forrest,Camp,149
 Percy W Watson,State House,103,D,Forrest,Camp,0
-Larry Byrd,State House,104,R,Forrest,Camp,
+Larry Byrd,State House,104,R,Forrest,Camp,X
 Jim Hood,Governor,,D,Forrest,Cames,52
 Tate Reeves,Governor,,R,Forrest,Cames,422
 Bob Hickingbottom,Governor,,C,Forrest,Cames,3
@@ -89,16 +89,16 @@ Addie Lee Green,State Treasurer,,D,Forrest,Cames,14
 David McRae,State Treasurer,,R,Forrest,Cames,459
 Rickey L Cole,Commissioner of Agriculture & Commerce,,D,Forrest,Cames,23
 Andy Gipson,Commissioner of Agriculture & Commerce,,R,Forrest,Cames,451
-Juan Barnett,State Senate,34,D,Forrest,Cames,
-Steven L Wade,State Senate,34,R,Forrest,Cames,
-Joey Fillingane,State Senate,41,R,Forrest,Cames,
-Chris McDaniel,State Senate,42,R,Forrest,Cames,
+Juan Barnett,State Senate,34,D,Forrest,Cames,X
+Steven L Wade,State Senate,34,R,Forrest,Cames,X
+Joey Fillingane,State Senate,41,R,Forrest,Cames,X
+Chris McDaniel,State Senate,42,R,Forrest,Cames,X
 Chris Johnson,State Senate,45,R,Forrest,Cames,465
 William E 'Billy' Andrews III,State House,87,R,Forrest,Cames,468
-Missy Warren McGee,State House,102,R,Forrest,Cames,
-Brandon Terrion Rue,State House,102,D,Forrest,Cames,
-Percy W Watson,State House,103,D,Forrest,Cames,
-Larry Byrd,State House,104,R,Forrest,Cames,
+Missy Warren McGee,State House,102,R,Forrest,Cames,X
+Brandon Terrion Rue,State House,102,D,Forrest,Cames,X
+Percy W Watson,State House,103,D,Forrest,Cames,X
+Larry Byrd,State House,104,R,Forrest,Cames,X
 Jim Hood,Governor,,D,Forrest,Court Street,289
 Tate Reeves,Governor,,R,Forrest,Court Street,53
 Bob Hickingbottom,Governor,,C,Forrest,Court Street,2
@@ -116,14 +116,14 @@ Rickey L Cole,Commissioner of Agriculture & Commerce,,D,Forrest,Court Street,265
 Andy Gipson,Commissioner of Agriculture & Commerce,,R,Forrest,Court Street,72
 Juan Barnett,State Senate,34,D,Forrest,Court Street,269
 Steven L Wade,State Senate,34,R,Forrest,Court Street,67
-Joey Fillingane,State Senate,41,R,Forrest,Court Street,
-Chris McDaniel,State Senate,42,R,Forrest,Court Street,
-Chris Johnson,State Senate,45,R,Forrest,Court Street,
-William E 'Billy' Andrews III,State House,87,R,Forrest,Court Street,
-Missy Warren McGee,State House,102,R,Forrest,Court Street,
-Brandon Terrion Rue,State House,102,D,Forrest,Court Street,
+Joey Fillingane,State Senate,41,R,Forrest,Court Street,X
+Chris McDaniel,State Senate,42,R,Forrest,Court Street,X
+Chris Johnson,State Senate,45,R,Forrest,Court Street,X
+William E 'Billy' Andrews III,State House,87,R,Forrest,Court Street,X
+Missy Warren McGee,State House,102,R,Forrest,Court Street,X
+Brandon Terrion Rue,State House,102,D,Forrest,Court Street,X
 Percy W Watson,State House,103,D,Forrest,Court Street,295
-Larry Byrd,State House,104,R,Forrest,Court Street,
+Larry Byrd,State House,104,R,Forrest,Court Street,X
 Jim Hood,Governor,,D,Forrest,Dantzler,49
 Tate Reeves,Governor,,R,Forrest,Dantzler,291
 Bob Hickingbottom,Governor,,C,Forrest,Dantzler,1
@@ -139,16 +139,16 @@ Addie Lee Green,State Treasurer,,D,Forrest,Dantzler,28
 David McRae,State Treasurer,,R,Forrest,Dantzler,323
 Rickey L Cole,Commissioner of Agriculture & Commerce,,D,Forrest,Dantzler,35
 Andy Gipson,Commissioner of Agriculture & Commerce,,R,Forrest,Dantzler,317
-Juan Barnett,State Senate,34,D,Forrest,Dantzler,
-Steven L Wade,State Senate,34,R,Forrest,Dantzler,
-Joey Fillingane,State Senate,41,R,Forrest,Dantzler,
-Chris McDaniel,State Senate,42,R,Forrest,Dantzler,
+Juan Barnett,State Senate,34,D,Forrest,Dantzler,X
+Steven L Wade,State Senate,34,R,Forrest,Dantzler,X
+Joey Fillingane,State Senate,41,R,Forrest,Dantzler,X
+Chris McDaniel,State Senate,42,R,Forrest,Dantzler,X
 Chris Johnson,State Senate,45,R,Forrest,Dantzler,339
 William E 'Billy' Andrews III,State House,87,R,Forrest,Dantzler,336
-Missy Warren McGee,State House,102,R,Forrest,Dantzler,
-Brandon Terrion Rue,State House,102,D,Forrest,Dantzler,
-Percy W Watson,State House,103,D,Forrest,Dantzler,
-Larry Byrd,State House,104,R,Forrest,Dantzler,
+Missy Warren McGee,State House,102,R,Forrest,Dantzler,X
+Brandon Terrion Rue,State House,102,D,Forrest,Dantzler,X
+Percy W Watson,State House,103,D,Forrest,Dantzler,X
+Larry Byrd,State House,104,R,Forrest,Dantzler,X
 Jim Hood,Governor,,D,Forrest,Dixie,186
 Tate Reeves,Governor,,R,Forrest,Dixie,684
 Bob Hickingbottom,Governor,,C,Forrest,Dixie,6
@@ -164,15 +164,15 @@ Addie Lee Green,State Treasurer,,D,Forrest,Dixie,81
 David McRae,State Treasurer,,R,Forrest,Dixie,801
 Rickey L Cole,Commissioner of Agriculture & Commerce,,D,Forrest,Dixie,115
 Andy Gipson,Commissioner of Agriculture & Commerce,,R,Forrest,Dixie,765
-Juan Barnett,State Senate,34,D,Forrest,Dixie,
-Steven L Wade,State Senate,34,R,Forrest,Dixie,
-Joey Fillingane,State Senate,41,R,Forrest,Dixie,
-Chris McDaniel,State Senate,42,R,Forrest,Dixie,
+Juan Barnett,State Senate,34,D,Forrest,Dixie,X
+Steven L Wade,State Senate,34,R,Forrest,Dixie,X
+Joey Fillingane,State Senate,41,R,Forrest,Dixie,X
+Chris McDaniel,State Senate,42,R,Forrest,Dixie,X
 Chris Johnson,State Senate,45,R,Forrest,Dixie,841
 William E 'Billy' Andrews III,State House,87,R,Forrest,Dixie,741
-Missy Warren McGee,State House,102,R,Forrest,Dixie,
-Brandon Terrion Rue,State House,102,D,Forrest,Dixie,
-Percy W Watson,State House,103,D,Forrest,Dixie,
+Missy Warren McGee,State House,102,R,Forrest,Dixie,X
+Brandon Terrion Rue,State House,102,D,Forrest,Dixie,X
+Percy W Watson,State House,103,D,Forrest,Dixie,X
 Larry Byrd,State House,104,R,Forrest,Dixie,94
 Jim Hood,Governor,,D,Forrest,Dixe Pine Central,535
 Tate Reeves,Governor,,R,Forrest,Dixe Pine Central,119
@@ -189,14 +189,14 @@ Addie Lee Green,State Treasurer,,D,Forrest,Dixe Pine Central,493
 David McRae,State Treasurer,,R,Forrest,Dixe Pine Central,144
 Rickey L Cole,Commissioner of Agriculture & Commerce,,D,Forrest,Dixe Pine Central,501
 Andy Gipson,Commissioner of Agriculture & Commerce,,R,Forrest,Dixe Pine Central,131
-Juan Barnett,State Senate,34,D,Forrest,Dixe Pine Central,
-Steven L Wade,State Senate,34,R,Forrest,Dixe Pine Central,
-Joey Fillingane,State Senate,41,R,Forrest,Dixe Pine Central,
-Chris McDaniel,State Senate,42,R,Forrest,Dixe Pine Central,
+Juan Barnett,State Senate,34,D,Forrest,Dixe Pine Central,X
+Steven L Wade,State Senate,34,R,Forrest,Dixe Pine Central,X
+Joey Fillingane,State Senate,41,R,Forrest,Dixe Pine Central,X
+Chris McDaniel,State Senate,42,R,Forrest,Dixe Pine Central,X
 Chris Johnson,State Senate,45,R,Forrest,Dixe Pine Central,355
-William E 'Billy' Andrews III,State House,87,R,Forrest,Dixe Pine Central,
-Missy Warren McGee,State House,102,R,Forrest,Dixe Pine Central,
-Brandon Terrion Rue,State House,102,D,Forrest,Dixe Pine Central,
+William E 'Billy' Andrews III,State House,87,R,Forrest,Dixe Pine Central,X
+Missy Warren McGee,State House,102,R,Forrest,Dixe Pine Central,X
+Brandon Terrion Rue,State House,102,D,Forrest,Dixe Pine Central,X
 Percy W Watson,State House,103,D,Forrest,Dixe Pine Central,564
 Larry Byrd,State House,104,R,Forrest,Dixe Pine Central,30
 Jim Hood,Governor,,D,Forrest,Eatonville,190
@@ -216,14 +216,14 @@ Rickey L Cole,Commissioner of Agriculture & Commerce,,D,Forrest,Eatonville,143
 Andy Gipson,Commissioner of Agriculture & Commerce,,R,Forrest,Eatonville,418
 Juan Barnett,State Senate,34,D,Forrest,Eatonville,148
 Steven L Wade,State Senate,34,R,Forrest,Eatonville,410
-Joey Fillingane,State Senate,41,R,Forrest,Eatonville,
-Chris McDaniel,State Senate,42,R,Forrest,Eatonville,
-Chris Johnson,State Senate,45,R,Forrest,Eatonville,
-William E 'Billy' Andrews III,State House,87,R,Forrest,Eatonville,
-Missy Warren McGee,State House,102,R,Forrest,Eatonville,
-Brandon Terrion Rue,State House,102,D,Forrest,Eatonville,
+Joey Fillingane,State Senate,41,R,Forrest,Eatonville,X
+Chris McDaniel,State Senate,42,R,Forrest,Eatonville,X
+Chris Johnson,State Senate,45,R,Forrest,Eatonville,X
+William E 'Billy' Andrews III,State House,87,R,Forrest,Eatonville,X
+Missy Warren McGee,State House,102,R,Forrest,Eatonville,X
+Brandon Terrion Rue,State House,102,D,Forrest,Eatonville,X
 Percy W Watson,State House,103,D,Forrest,Eatonville,378
-Larry Byrd,State House,104,R,Forrest,Eatonville,
+Larry Byrd,State House,104,R,Forrest,Eatonville,X
 Jim Hood,Governor,,D,Forrest,Eureka School,250
 Tate Reeves,Governor,,R,Forrest,Eureka School,8
 Bob Hickingbottom,Governor,,C,Forrest,Eureka School,1
@@ -241,14 +241,14 @@ Rickey L Cole,Commissioner of Agriculture & Commerce,,D,Forrest,Eureka School,22
 Andy Gipson,Commissioner of Agriculture & Commerce,,R,Forrest,Eureka School,16
 Juan Barnett,State Senate,34,D,Forrest,Eureka School,2929
 Steven L Wade,State Senate,34,R,Forrest,Eureka School,14
-Joey Fillingane,State Senate,41,R,Forrest,Eureka School,
-Chris McDaniel,State Senate,42,R,Forrest,Eureka School,
-Chris Johnson,State Senate,45,R,Forrest,Eureka School,
-William E 'Billy' Andrews III,State House,87,R,Forrest,Eureka School,
-Missy Warren McGee,State House,102,R,Forrest,Eureka School,
-Brandon Terrion Rue,State House,102,D,Forrest,Eureka School,
+Joey Fillingane,State Senate,41,R,Forrest,Eureka School,X
+Chris McDaniel,State Senate,42,R,Forrest,Eureka School,X
+Chris Johnson,State Senate,45,R,Forrest,Eureka School,X
+William E 'Billy' Andrews III,State House,87,R,Forrest,Eureka School,X
+Missy Warren McGee,State House,102,R,Forrest,Eureka School,X
+Brandon Terrion Rue,State House,102,D,Forrest,Eureka School,X
 Percy W Watson,State House,103,D,Forrest,Eureka School,248
-Larry Byrd,State House,104,R,Forrest,Eureka School,
+Larry Byrd,State House,104,R,Forrest,Eureka School,X
 Jim Hood,Governor,,D,Forrest,Glendale,535
 Tate Reeves,Governor,,R,Forrest,Glendale,187
 Bob Hickingbottom,Governor,,C,Forrest,Glendale,0
@@ -266,12 +266,12 @@ Rickey L Cole,Commissioner of Agriculture & Commerce,,D,Forrest,Glendale,507
 Andy Gipson,Commissioner of Agriculture & Commerce,,R,Forrest,Glendale,210
 Juan Barnett,State Senate,34,D,Forrest,Glendale,503
 Steven L Wade,State Senate,34,R,Forrest,Glendale,212
-Joey Fillingane,State Senate,41,R,Forrest,Glendale,
-Chris McDaniel,State Senate,42,R,Forrest,Glendale,
-Chris Johnson,State Senate,45,R,Forrest,Glendale,
-William E 'Billy' Andrews III,State House,87,R,Forrest,Glendale,
-Missy Warren McGee,State House,102,R,Forrest,Glendale,
-Brandon Terrion Rue,State House,102,D,Forrest,Glendale,
+Joey Fillingane,State Senate,41,R,Forrest,Glendale,X
+Chris McDaniel,State Senate,42,R,Forrest,Glendale,X
+Chris Johnson,State Senate,45,R,Forrest,Glendale,X
+William E 'Billy' Andrews III,State House,87,R,Forrest,Glendale,X
+Missy Warren McGee,State House,102,R,Forrest,Glendale,X
+Brandon Terrion Rue,State House,102,D,Forrest,Glendale,X
 Percy W Watson,State House,103,D,Forrest,Glendale,512
 Larry Byrd,State House,104,R,Forrest,Glendale,80
 Jim Hood,Governor,,D,Forrest,Hattiesburg Cultural Center,430
@@ -291,14 +291,14 @@ Rickey L Cole,Commissioner of Agriculture & Commerce,,D,Forrest,Hattiesburg Cult
 Andy Gipson,Commissioner of Agriculture & Commerce,,R,Forrest,Hattiesburg Cultural Center,34
 Juan Barnett,State Senate,34,D,Forrest,Hattiesburg Cultural Center,404
 Steven L Wade,State Senate,34,R,Forrest,Hattiesburg Cultural Center,33
-Joey Fillingane,State Senate,41,R,Forrest,Hattiesburg Cultural Center,
-Chris McDaniel,State Senate,42,R,Forrest,Hattiesburg Cultural Center,
-Chris Johnson,State Senate,45,R,Forrest,Hattiesburg Cultural Center,
-William E 'Billy' Andrews III,State House,87,R,Forrest,Hattiesburg Cultural Center,
-Missy Warren McGee,State House,102,R,Forrest,Hattiesburg Cultural Center,
-Brandon Terrion Rue,State House,102,D,Forrest,Hattiesburg Cultural Center,
+Joey Fillingane,State Senate,41,R,Forrest,Hattiesburg Cultural Center,X
+Chris McDaniel,State Senate,42,R,Forrest,Hattiesburg Cultural Center,X
+Chris Johnson,State Senate,45,R,Forrest,Hattiesburg Cultural Center,X
+William E 'Billy' Andrews III,State House,87,R,Forrest,Hattiesburg Cultural Center,X
+Missy Warren McGee,State House,102,R,Forrest,Hattiesburg Cultural Center,X
+Brandon Terrion Rue,State House,102,D,Forrest,Hattiesburg Cultural Center,X
 Percy W Watson,State House,103,D,Forrest,Hattiesburg Cultural Center,431
-Larry Byrd,State House,104,R,Forrest,Hattiesburg Cultural Center,
+Larry Byrd,State House,104,R,Forrest,Hattiesburg Cultural Center,X
 Jim Hood,Governor,,D,Forrest,Highland Park,328
 Tate Reeves,Governor,,R,Forrest,Highland Park,109
 Bob Hickingbottom,Governor,,C,Forrest,Highland Park,0
@@ -314,16 +314,16 @@ Addie Lee Green,State Treasurer,,D,Forrest,Highland Park,278
 David McRae,State Treasurer,,R,Forrest,Highland Park,152
 Rickey L Cole,Commissioner of Agriculture & Commerce,,D,Forrest,Highland Park,288
 Andy Gipson,Commissioner of Agriculture & Commerce,,R,Forrest,Highland Park,138
-Juan Barnett,State Senate,34,D,Forrest,Highland Park,
-Steven L Wade,State Senate,34,R,Forrest,Highland Park,
-Joey Fillingane,State Senate,41,R,Forrest,Highland Park,
-Chris McDaniel,State Senate,42,R,Forrest,Highland Park,
+Juan Barnett,State Senate,34,D,Forrest,Highland Park,X
+Steven L Wade,State Senate,34,R,Forrest,Highland Park,X
+Joey Fillingane,State Senate,41,R,Forrest,Highland Park,X
+Chris McDaniel,State Senate,42,R,Forrest,Highland Park,X
 Chris Johnson,State Senate,45,R,Forrest,Highland Park,301
-William E 'Billy' Andrews III,State House,87,R,Forrest,Highland Park,
+William E 'Billy' Andrews III,State House,87,R,Forrest,Highland Park,X
 Missy Warren McGee,State House,102,R,Forrest,Highland Park,183
 Brandon Terrion Rue,State House,102,D,Forrest,Highland Park,252
-Percy W Watson,State House,103,D,Forrest,Highland Park,
-Larry Byrd,State House,104,R,Forrest,Highland Park,
+Percy W Watson,State House,103,D,Forrest,Highland Park,X
+Larry Byrd,State House,104,R,Forrest,Highland Park,X
 Jim Hood,Governor,,D,Forrest,Kamper Park,509
 Tate Reeves,Governor,,R,Forrest,Kamper Park,266
 Bob Hickingbottom,Governor,,C,Forrest,Kamper Park,1
@@ -339,16 +339,16 @@ Addie Lee Green,State Treasurer,,D,Forrest,Kamper Park,394
 David McRae,State Treasurer,,R,Forrest,Kamper Park,369
 Rickey L Cole,Commissioner of Agriculture & Commerce,,D,Forrest,Kamper Park,419
 Andy Gipson,Commissioner of Agriculture & Commerce,,R,Forrest,Kamper Park,341
-Juan Barnett,State Senate,34,D,Forrest,Kamper Park,
-Steven L Wade,State Senate,34,R,Forrest,Kamper Park,
-Joey Fillingane,State Senate,41,R,Forrest,Kamper Park,
-Chris McDaniel,State Senate,42,R,Forrest,Kamper Park,
+Juan Barnett,State Senate,34,D,Forrest,Kamper Park,X
+Steven L Wade,State Senate,34,R,Forrest,Kamper Park,X
+Joey Fillingane,State Senate,41,R,Forrest,Kamper Park,X
+Chris McDaniel,State Senate,42,R,Forrest,Kamper Park,X
 Chris Johnson,State Senate,45,R,Forrest,Kamper Park,574
-William E 'Billy' Andrews III,State House,87,R,Forrest,Kamper Park,
+William E 'Billy' Andrews III,State House,87,R,Forrest,Kamper Park,X
 Missy Warren McGee,State House,102,R,Forrest,Kamper Park,473
 Brandon Terrion Rue,State House,102,D,Forrest,Kamper Park,304
-Percy W Watson,State House,103,D,Forrest,Kamper Park,
-Larry Byrd,State House,104,R,Forrest,Kamper Park,
+Percy W Watson,State House,103,D,Forrest,Kamper Park,X
+Larry Byrd,State House,104,R,Forrest,Kamper Park,X
 Jim Hood,Governor,,D,Forrest,Leeville,162
 Tate Reeves,Governor,,R,Forrest,Leeville,606
 Bob Hickingbottom,Governor,,C,Forrest,Leeville,3
@@ -364,15 +364,15 @@ Addie Lee Green,State Treasurer,,D,Forrest,Leeville,87
 David McRae,State Treasurer,,R,Forrest,Leeville,685
 Rickey L Cole,Commissioner of Agriculture & Commerce,,D,Forrest,Leeville,110
 Andy Gipson,Commissioner of Agriculture & Commerce,,R,Forrest,Leeville,661
-Juan Barnett,State Senate,34,D,Forrest,Leeville,
-Steven L Wade,State Senate,34,R,Forrest,Leeville,
-Joey Fillingane,State Senate,41,R,Forrest,Leeville,
+Juan Barnett,State Senate,34,D,Forrest,Leeville,X
+Steven L Wade,State Senate,34,R,Forrest,Leeville,X
+Joey Fillingane,State Senate,41,R,Forrest,Leeville,X
 Chris McDaniel,State Senate,42,R,Forrest,Leeville,723
-Chris Johnson,State Senate,45,R,Forrest,Leeville,
-William E 'Billy' Andrews III,State House,87,R,Forrest,Leeville,
-Missy Warren McGee,State House,102,R,Forrest,Leeville,
-Brandon Terrion Rue,State House,102,D,Forrest,Leeville,
-Percy W Watson,State House,103,D,Forrest,Leeville,
+Chris Johnson,State Senate,45,R,Forrest,Leeville,X
+William E 'Billy' Andrews III,State House,87,R,Forrest,Leeville,X
+Missy Warren McGee,State House,102,R,Forrest,Leeville,X
+Brandon Terrion Rue,State House,102,D,Forrest,Leeville,X
+Percy W Watson,State House,103,D,Forrest,Leeville,X
 Larry Byrd,State House,104,R,Forrest,Leeville,741
 Jim Hood,Governor,,D,Forrest,Lillie Burney,951
 Tate Reeves,Governor,,R,Forrest,Lillie Burney,30
@@ -391,14 +391,14 @@ Rickey L Cole,Commissioner of Agriculture & Commerce,,D,Forrest,Lillie Burney,89
 Andy Gipson,Commissioner of Agriculture & Commerce,,R,Forrest,Lillie Burney,52
 Juan Barnett,State Senate,34,D,Forrest,Lillie Burney,913
 Steven L Wade,State Senate,34,R,Forrest,Lillie Burney,48
-Joey Fillingane,State Senate,41,R,Forrest,Lillie Burney,
-Chris McDaniel,State Senate,42,R,Forrest,Lillie Burney,
-Chris Johnson,State Senate,45,R,Forrest,Lillie Burney,
-William E 'Billy' Andrews III,State House,87,R,Forrest,Lillie Burney,
-Missy Warren McGee,State House,102,R,Forrest,Lillie Burney,
-Brandon Terrion Rue,State House,102,D,Forrest,Lillie Burney,
+Joey Fillingane,State Senate,41,R,Forrest,Lillie Burney,X
+Chris McDaniel,State Senate,42,R,Forrest,Lillie Burney,X
+Chris Johnson,State Senate,45,R,Forrest,Lillie Burney,X
+William E 'Billy' Andrews III,State House,87,R,Forrest,Lillie Burney,X
+Missy Warren McGee,State House,102,R,Forrest,Lillie Burney,X
+Brandon Terrion Rue,State House,102,D,Forrest,Lillie Burney,X
 Percy W Watson,State House,103,D,Forrest,Lillie Burney,947
-Larry Byrd,State House,104,R,Forrest,Lillie Burney,
+Larry Byrd,State House,104,R,Forrest,Lillie Burney,X
 Jim Hood,Governor,,D,Forrest,Maxie,32
 Tate Reeves,Governor,,R,Forrest,Maxie,87
 Bob Hickingbottom,Governor,,C,Forrest,Maxie,0
@@ -414,15 +414,15 @@ Addie Lee Green,State Treasurer,,D,Forrest,Maxie,23
 David McRae,State Treasurer,,R,Forrest,Maxie,99
 Rickey L Cole,Commissioner of Agriculture & Commerce,,D,Forrest,Maxie,25
 Andy Gipson,Commissioner of Agriculture & Commerce,,R,Forrest,Maxie,99
-Juan Barnett,State Senate,34,D,Forrest,Maxie,
-Steven L Wade,State Senate,34,R,Forrest,Maxie,
-Joey Fillingane,State Senate,41,R,Forrest,Maxie,
-Chris McDaniel,State Senate,42,R,Forrest,Maxie,
+Juan Barnett,State Senate,34,D,Forrest,Maxie,X
+Steven L Wade,State Senate,34,R,Forrest,Maxie,X
+Joey Fillingane,State Senate,41,R,Forrest,Maxie,X
+Chris McDaniel,State Senate,42,R,Forrest,Maxie,X
 Chris Johnson,State Senate,45,R,Forrest,Maxie,109
-William E 'Billy' Andrews III,State House,87,R,Forrest,Maxie,
-Missy Warren McGee,State House,102,R,Forrest,Maxie,
-Brandon Terrion Rue,State House,102,D,Forrest,Maxie,
-Percy W Watson,State House,103,D,Forrest,Maxie,
+William E 'Billy' Andrews III,State House,87,R,Forrest,Maxie,X
+Missy Warren McGee,State House,102,R,Forrest,Maxie,X
+Brandon Terrion Rue,State House,102,D,Forrest,Maxie,X
+Percy W Watson,State House,103,D,Forrest,Maxie,X
 Larry Byrd,State House,104,R,Forrest,Maxie,107
 Jim Hood,Governor,,D,Forrest,Mclaurin,53
 Tate Reeves,Governor,,R,Forrest,Mclaurin,197
@@ -439,15 +439,15 @@ Addie Lee Green,State Treasurer,,D,Forrest,Mclaurin,30
 David McRae,State Treasurer,,R,Forrest,Mclaurin,223
 Rickey L Cole,Commissioner of Agriculture & Commerce,,D,Forrest,Mclaurin,37
 Andy Gipson,Commissioner of Agriculture & Commerce,,R,Forrest,Mclaurin,215
-Juan Barnett,State Senate,34,D,Forrest,Mclaurin,
-Steven L Wade,State Senate,34,R,Forrest,Mclaurin,
-Joey Fillingane,State Senate,41,R,Forrest,Mclaurin,
-Chris McDaniel,State Senate,42,R,Forrest,Mclaurin,
+Juan Barnett,State Senate,34,D,Forrest,Mclaurin,X
+Steven L Wade,State Senate,34,R,Forrest,Mclaurin,X
+Joey Fillingane,State Senate,41,R,Forrest,Mclaurin,X
+Chris McDaniel,State Senate,42,R,Forrest,Mclaurin,X
 Chris Johnson,State Senate,45,R,Forrest,Mclaurin,240
-William E 'Billy' Andrews III,State House,87,R,Forrest,Mclaurin,
-Missy Warren McGee,State House,102,R,Forrest,Mclaurin,
-Brandon Terrion Rue,State House,102,D,Forrest,Mclaurin,
-Percy W Watson,State House,103,D,Forrest,Mclaurin,
+William E 'Billy' Andrews III,State House,87,R,Forrest,Mclaurin,X
+Missy Warren McGee,State House,102,R,Forrest,Mclaurin,X
+Brandon Terrion Rue,State House,102,D,Forrest,Mclaurin,X
+Percy W Watson,State House,103,D,Forrest,Mclaurin,X
 Larry Byrd,State House,104,R,Forrest,Mclaurin,241
 Jim Hood,Governor,,D,Forrest,North Heights,490
 Tate Reeves,Governor,,R,Forrest,North Heights,52
@@ -466,14 +466,14 @@ Rickey L Cole,Commissioner of Agriculture & Commerce,,D,Forrest,North Heights,47
 Andy Gipson,Commissioner of Agriculture & Commerce,,R,Forrest,North Heights,63
 Juan Barnett,State Senate,34,D,Forrest,North Heights,455
 Steven L Wade,State Senate,34,R,Forrest,North Heights,58
-Joey Fillingane,State Senate,41,R,Forrest,North Heights,
-Chris McDaniel,State Senate,42,R,Forrest,North Heights,
+Joey Fillingane,State Senate,41,R,Forrest,North Heights,X
+Chris McDaniel,State Senate,42,R,Forrest,North Heights,X
 Chris Johnson,State Senate,45,R,Forrest,North Heights,11
-William E 'Billy' Andrews III,State House,87,R,Forrest,North Heights,
-Missy Warren McGee,State House,102,R,Forrest,North Heights,
-Brandon Terrion Rue,State House,102,D,Forrest,North Heights,
+William E 'Billy' Andrews III,State House,87,R,Forrest,North Heights,X
+Missy Warren McGee,State House,102,R,Forrest,North Heights,X
+Brandon Terrion Rue,State House,102,D,Forrest,North Heights,X
 Percy W Watson,State House,103,D,Forrest,North Heights,513
-Larry Byrd,State House,104,R,Forrest,North Heights,
+Larry Byrd,State House,104,R,Forrest,North Heights,X
 Jim Hood,Governor,,D,Forrest,Petal Civic Center,245
 Tate Reeves,Governor,,R,Forrest,Petal Civic Center,568
 Bob Hickingbottom,Governor,,C,Forrest,Petal Civic Center,6
@@ -489,15 +489,15 @@ Addie Lee Green,State Treasurer,,D,Forrest,Petal Civic Center,147
 David McRae,State Treasurer,,R,Forrest,Petal Civic Center,676
 Rickey L Cole,Commissioner of Agriculture & Commerce,,D,Forrest,Petal Civic Center,175
 Andy Gipson,Commissioner of Agriculture & Commerce,,R,Forrest,Petal Civic Center,646
-Juan Barnett,State Senate,34,D,Forrest,Petal Civic Center,
-Steven L Wade,State Senate,34,R,Forrest,Petal Civic Center,
-Joey Fillingane,State Senate,41,R,Forrest,Petal Civic Center,
-Chris McDaniel,State Senate,42,R,Forrest,Petal Civic Center,
+Juan Barnett,State Senate,34,D,Forrest,Petal Civic Center,X
+Steven L Wade,State Senate,34,R,Forrest,Petal Civic Center,X
+Joey Fillingane,State Senate,41,R,Forrest,Petal Civic Center,X
+Chris McDaniel,State Senate,42,R,Forrest,Petal Civic Center,X
 Chris Johnson,State Senate,45,R,Forrest,Petal Civic Center,771
-William E 'Billy' Andrews III,State House,87,R,Forrest,Petal Civic Center,
-Missy Warren McGee,State House,102,R,Forrest,Petal Civic Center,
-Brandon Terrion Rue,State House,102,D,Forrest,Petal Civic Center,
-Percy W Watson,State House,103,D,Forrest,Petal Civic Center,
+William E 'Billy' Andrews III,State House,87,R,Forrest,Petal Civic Center,X
+Missy Warren McGee,State House,102,R,Forrest,Petal Civic Center,X
+Brandon Terrion Rue,State House,102,D,Forrest,Petal Civic Center,X
+Percy W Watson,State House,103,D,Forrest,Petal Civic Center,X
 Larry Byrd,State House,104,R,Forrest,Petal Civic Center,772
 Jim Hood,Governor,,D,Forrest,Petal Masonic,208
 Tate Reeves,Governor,,R,Forrest,Petal Masonic,532
@@ -514,15 +514,15 @@ Addie Lee Green,State Treasurer,,D,Forrest,Petal Masonic,121
 David McRae,State Treasurer,,R,Forrest,Petal Masonic,627
 Rickey L Cole,Commissioner of Agriculture & Commerce,,D,Forrest,Petal Masonic,136
 Andy Gipson,Commissioner of Agriculture & Commerce,,R,Forrest,Petal Masonic,609
-Juan Barnett,State Senate,34,D,Forrest,Petal Masonic,
-Steven L Wade,State Senate,34,R,Forrest,Petal Masonic,
-Joey Fillingane,State Senate,41,R,Forrest,Petal Masonic,
+Juan Barnett,State Senate,34,D,Forrest,Petal Masonic,X
+Steven L Wade,State Senate,34,R,Forrest,Petal Masonic,X
+Joey Fillingane,State Senate,41,R,Forrest,Petal Masonic,X
 Chris McDaniel,State Senate,42,R,Forrest,Petal Masonic,662
-Chris Johnson,State Senate,45,R,Forrest,Petal Masonic,
-William E 'Billy' Andrews III,State House,87,R,Forrest,Petal Masonic,
-Missy Warren McGee,State House,102,R,Forrest,Petal Masonic,
-Brandon Terrion Rue,State House,102,D,Forrest,Petal Masonic,
-Percy W Watson,State House,103,D,Forrest,Petal Masonic,
+Chris Johnson,State Senate,45,R,Forrest,Petal Masonic,X
+William E 'Billy' Andrews III,State House,87,R,Forrest,Petal Masonic,X
+Missy Warren McGee,State House,102,R,Forrest,Petal Masonic,X
+Brandon Terrion Rue,State House,102,D,Forrest,Petal Masonic,X
+Percy W Watson,State House,103,D,Forrest,Petal Masonic,X
 Larry Byrd,State House,104,R,Forrest,Petal Masonic,687
 Jim Hood,Governor,,D,Forrest,Pinecrest,475
 Tate Reeves,Governor,,R,Forrest,Pinecrest,202
@@ -539,16 +539,16 @@ Addie Lee Green,State Treasurer,,D,Forrest,Pinecrest,365
 David McRae,State Treasurer,,R,Forrest,Pinecrest,299
 Rickey L Cole,Commissioner of Agriculture & Commerce,,D,Forrest,Pinecrest,373
 Andy Gipson,Commissioner of Agriculture & Commerce,,R,Forrest,Pinecrest,294
-Juan Barnett,State Senate,34,D,Forrest,Pinecrest,
-Steven L Wade,State Senate,34,R,Forrest,Pinecrest,
-Joey Fillingane,State Senate,41,R,Forrest,Pinecrest,
-Chris McDaniel,State Senate,42,R,Forrest,Pinecrest,
+Juan Barnett,State Senate,34,D,Forrest,Pinecrest,X
+Steven L Wade,State Senate,34,R,Forrest,Pinecrest,X
+Joey Fillingane,State Senate,41,R,Forrest,Pinecrest,X
+Chris McDaniel,State Senate,42,R,Forrest,Pinecrest,X
 Chris Johnson,State Senate,45,R,Forrest,Pinecrest,507
-William E 'Billy' Andrews III,State House,87,R,Forrest,Pinecrest,
+William E 'Billy' Andrews III,State House,87,R,Forrest,Pinecrest,X
 Missy Warren McGee,State House,102,R,Forrest,Pinecrest,382
 Brandon Terrion Rue,State House,102,D,Forrest,Pinecrest,294
-Percy W Watson,State House,103,D,Forrest,Pinecrest,
-Larry Byrd,State House,104,R,Forrest,Pinecrest,
+Percy W Watson,State House,103,D,Forrest,Pinecrest,X
+Larry Byrd,State House,104,R,Forrest,Pinecrest,X
 Jim Hood,Governor,,D,Forrest,Rawls Springs,343
 Tate Reeves,Governor,,R,Forrest,Rawls Springs,300
 Bob Hickingbottom,Governor,,C,Forrest,Rawls Springs,1
@@ -564,16 +564,16 @@ Addie Lee Green,State Treasurer,,D,Forrest,Rawls Springs,295
 David McRae,State Treasurer,,R,Forrest,Rawls Springs,349
 Rickey L Cole,Commissioner of Agriculture & Commerce,,D,Forrest,Rawls Springs,312
 Andy Gipson,Commissioner of Agriculture & Commerce,,R,Forrest,Rawls Springs,335
-Juan Barnett,State Senate,34,D,Forrest,Rawls Springs,
-Steven L Wade,State Senate,34,R,Forrest,Rawls Springs,
+Juan Barnett,State Senate,34,D,Forrest,Rawls Springs,X
+Steven L Wade,State Senate,34,R,Forrest,Rawls Springs,X
 Joey Fillingane,State Senate,41,R,Forrest,Rawls Springs,479
-Chris McDaniel,State Senate,42,R,Forrest,Rawls Springs,
-Chris Johnson,State Senate,45,R,Forrest,Rawls Springs,
-William E 'Billy' Andrews III,State House,87,R,Forrest,Rawls Springs,
+Chris McDaniel,State Senate,42,R,Forrest,Rawls Springs,X
+Chris Johnson,State Senate,45,R,Forrest,Rawls Springs,X
+William E 'Billy' Andrews III,State House,87,R,Forrest,Rawls Springs,X
 Missy Warren McGee,State House,102,R,Forrest,Rawls Springs,362
 Brandon Terrion Rue,State House,102,D,Forrest,Rawls Springs,286
-Percy W Watson,State House,103,D,Forrest,Rawls Springs,
-Larry Byrd,State House,104,R,Forrest,Rawls Springs,
+Percy W Watson,State House,103,D,Forrest,Rawls Springs,X
+Larry Byrd,State House,104,R,Forrest,Rawls Springs,X
 Jim Hood,Governor,,D,Forrest,Richburg,179
 Tate Reeves,Governor,,R,Forrest,Richburg,233
 Bob Hickingbottom,Governor,,C,Forrest,Richburg,0
@@ -589,16 +589,16 @@ Addie Lee Green,State Treasurer,,D,Forrest,Richburg,129
 David McRae,State Treasurer,,R,Forrest,Richburg,288
 Rickey L Cole,Commissioner of Agriculture & Commerce,,D,Forrest,Richburg,138
 Andy Gipson,Commissioner of Agriculture & Commerce,,R,Forrest,Richburg,277
-Juan Barnett,State Senate,34,D,Forrest,Richburg,
-Steven L Wade,State Senate,34,R,Forrest,Richburg,
-Joey Fillingane,State Senate,41,R,Forrest,Richburg,
-Chris McDaniel,State Senate,42,R,Forrest,Richburg,
+Juan Barnett,State Senate,34,D,Forrest,Richburg,X
+Steven L Wade,State Senate,34,R,Forrest,Richburg,X
+Joey Fillingane,State Senate,41,R,Forrest,Richburg,X
+Chris McDaniel,State Senate,42,R,Forrest,Richburg,X
 Chris Johnson,State Senate,45,R,Forrest,Richburg,355
 William E 'Billy' Andrews III,State House,87,R,Forrest,Richburg,89
 Missy Warren McGee,State House,102,R,Forrest,Richburg,229
 Brandon Terrion Rue,State House,102,D,Forrest,Richburg,91
-Percy W Watson,State House,103,D,Forrest,Richburg,
-Larry Byrd,State House,104,R,Forrest,Richburg,
+Percy W Watson,State House,103,D,Forrest,Richburg,X
+Larry Byrd,State House,104,R,Forrest,Richburg,X
 Jim Hood,Governor,,D,Forrest,Rowan,365
 Tate Reeves,Governor,,R,Forrest,Rowan,3
 Bob Hickingbottom,Governor,,C,Forrest,Rowan,2
@@ -616,14 +616,14 @@ Rickey L Cole,Commissioner of Agriculture & Commerce,,D,Forrest,Rowan,348
 Andy Gipson,Commissioner of Agriculture & Commerce,,R,Forrest,Rowan,5
 Juan Barnett,State Senate,34,D,Forrest,Rowan,358
 Steven L Wade,State Senate,34,R,Forrest,Rowan,4
-Joey Fillingane,State Senate,41,R,Forrest,Rowan,
-Chris McDaniel,State Senate,42,R,Forrest,Rowan,
-Chris Johnson,State Senate,45,R,Forrest,Rowan,
-William E 'Billy' Andrews III,State House,87,R,Forrest,Rowan,
-Missy Warren McGee,State House,102,R,Forrest,Rowan,
-Brandon Terrion Rue,State House,102,D,Forrest,Rowan,
+Joey Fillingane,State Senate,41,R,Forrest,Rowan,X
+Chris McDaniel,State Senate,42,R,Forrest,Rowan,X
+Chris Johnson,State Senate,45,R,Forrest,Rowan,X
+William E 'Billy' Andrews III,State House,87,R,Forrest,Rowan,X
+Missy Warren McGee,State House,102,R,Forrest,Rowan,X
+Brandon Terrion Rue,State House,102,D,Forrest,Rowan,X
 Percy W Watson,State House,103,D,Forrest,Rowan,357
-Larry Byrd,State House,104,R,Forrest,Rowan,
+Larry Byrd,State House,104,R,Forrest,Rowan,X
 Jim Hood,Governor,,D,Forrest,Sheeplo,204
 Tate Reeves,Governor,,R,Forrest,Sheeplo,336
 Bob Hickingbottom,Governor,,C,Forrest,Sheeplo,2
@@ -639,15 +639,15 @@ Addie Lee Green,State Treasurer,,D,Forrest,Sheeplo,172
 David McRae,State Treasurer,,R,Forrest,Sheeplo,366
 Rickey L Cole,Commissioner of Agriculture & Commerce,,D,Forrest,Sheeplo,185
 Andy Gipson,Commissioner of Agriculture & Commerce,,R,Forrest,Sheeplo,348
-Juan Barnett,State Senate,34,D,Forrest,Sheeplo,
-Steven L Wade,State Senate,34,R,Forrest,Sheeplo,
-Joey Fillingane,State Senate,41,R,Forrest,Sheeplo,
-Chris McDaniel,State Senate,42,R,Forrest,Sheeplo,
+Juan Barnett,State Senate,34,D,Forrest,Sheeplo,X
+Steven L Wade,State Senate,34,R,Forrest,Sheeplo,X
+Joey Fillingane,State Senate,41,R,Forrest,Sheeplo,X
+Chris McDaniel,State Senate,42,R,Forrest,Sheeplo,X
 Chris Johnson,State Senate,45,R,Forrest,Sheeplo,444
-William E 'Billy' Andrews III,State House,87,R,Forrest,Sheeplo,
-Missy Warren McGee,State House,102,R,Forrest,Sheeplo,
-Brandon Terrion Rue,State House,102,D,Forrest,Sheeplo,
-Percy W Watson,State House,103,D,Forrest,Sheeplo,
+William E 'Billy' Andrews III,State House,87,R,Forrest,Sheeplo,X
+Missy Warren McGee,State House,102,R,Forrest,Sheeplo,X
+Brandon Terrion Rue,State House,102,D,Forrest,Sheeplo,X
+Percy W Watson,State House,103,D,Forrest,Sheeplo,X
 Larry Byrd,State House,104,R,Forrest,Sheeplo,442
 Jim Hood,Governor,,D,Forrest,Sigler Center,450
 Tate Reeves,Governor,,R,Forrest,Sigler Center,106
@@ -664,16 +664,16 @@ Addie Lee Green,State Treasurer,,D,Forrest,Sigler Center,404
 David McRae,State Treasurer,,R,Forrest,Sigler Center,145
 Rickey L Cole,Commissioner of Agriculture & Commerce,,D,Forrest,Sigler Center,418
 Andy Gipson,Commissioner of Agriculture & Commerce,,R,Forrest,Sigler Center,129
-Juan Barnett,State Senate,34,D,Forrest,Sigler Center,
-Steven L Wade,State Senate,34,R,Forrest,Sigler Center,
-Joey Fillingane,State Senate,41,R,Forrest,Sigler Center,
-Chris McDaniel,State Senate,42,R,Forrest,Sigler Center,
+Juan Barnett,State Senate,34,D,Forrest,Sigler Center,X
+Steven L Wade,State Senate,34,R,Forrest,Sigler Center,X
+Joey Fillingane,State Senate,41,R,Forrest,Sigler Center,X
+Chris McDaniel,State Senate,42,R,Forrest,Sigler Center,X
 Chris Johnson,State Senate,45,R,Forrest,Sigler Center,314
-William E 'Billy' Andrews III,State House,87,R,Forrest,Sigler Center,
+William E 'Billy' Andrews III,State House,87,R,Forrest,Sigler Center,X
 Missy Warren McGee,State House,102,R,Forrest,Sigler Center,100
 Brandon Terrion Rue,State House,102,D,Forrest,Sigler Center,146
 Percy W Watson,State House,103,D,Forrest,Sigler Center,289
-Larry Byrd,State House,104,R,Forrest,Sigler Center,
+Larry Byrd,State House,104,R,Forrest,Sigler Center,X
 Jim Hood,Governor,,D,Forrest,Sunrise,393
 Tate Reeves,Governor,,R,Forrest,Sunrise,1173
 Bob Hickingbottom,Governor,,C,Forrest,Sunrise,5
@@ -689,15 +689,15 @@ Addie Lee Green,State Treasurer,,D,Forrest,Sunrise,215
 David McRae,State Treasurer,,R,Forrest,Sunrise,1354
 Rickey L Cole,Commissioner of Agriculture & Commerce,,D,Forrest,Sunrise,242
 Andy Gipson,Commissioner of Agriculture & Commerce,,R,Forrest,Sunrise,1329
-Juan Barnett,State Senate,34,D,Forrest,Sunrise,
-Steven L Wade,State Senate,34,R,Forrest,Sunrise,
-Joey Fillingane,State Senate,41,R,Forrest,Sunrise,
-Chris McDaniel,State Senate,42,R,Forrest,Sunrise,
+Juan Barnett,State Senate,34,D,Forrest,Sunrise,X
+Steven L Wade,State Senate,34,R,Forrest,Sunrise,X
+Joey Fillingane,State Senate,41,R,Forrest,Sunrise,X
+Chris McDaniel,State Senate,42,R,Forrest,Sunrise,X
 Chris Johnson,State Senate,45,R,Forrest,Sunrise,1459
-William E 'Billy' Andrews III,State House,87,R,Forrest,Sunrise,
-Missy Warren McGee,State House,102,R,Forrest,Sunrise,
-Brandon Terrion Rue,State House,102,D,Forrest,Sunrise,
-Percy W Watson,State House,103,D,Forrest,Sunrise,
+William E 'Billy' Andrews III,State House,87,R,Forrest,Sunrise,X
+Missy Warren McGee,State House,102,R,Forrest,Sunrise,X
+Brandon Terrion Rue,State House,102,D,Forrest,Sunrise,X
+Percy W Watson,State House,103,D,Forrest,Sunrise,X
 Larry Byrd,State House,104,R,Forrest,Sunrise,1467
 Jim Hood,Governor,,D,Forrest,Thames,616
 Tate Reeves,Governor,,R,Forrest,Thames,792
@@ -714,16 +714,16 @@ Addie Lee Green,State Treasurer,,D,Forrest,Thames,352
 David McRae,State Treasurer,,R,Forrest,Thames,1051
 Rickey L Cole,Commissioner of Agriculture & Commerce,,D,Forrest,Thames,409
 Andy Gipson,Commissioner of Agriculture & Commerce,,R,Forrest,Thames,988
-Juan Barnett,State Senate,34,D,Forrest,Thames,
-Steven L Wade,State Senate,34,R,Forrest,Thames,
-Joey Fillingane,State Senate,41,R,Forrest,Thames,
-Chris McDaniel,State Senate,42,R,Forrest,Thames,
+Juan Barnett,State Senate,34,D,Forrest,Thames,X
+Steven L Wade,State Senate,34,R,Forrest,Thames,X
+Joey Fillingane,State Senate,41,R,Forrest,Thames,X
+Chris McDaniel,State Senate,42,R,Forrest,Thames,X
 Chris Johnson,State Senate,45,R,Forrest,Thames,1224
-William E 'Billy' Andrews III,State House,87,R,Forrest,Thames,
+William E 'Billy' Andrews III,State House,87,R,Forrest,Thames,X
 Missy Warren McGee,State House,102,R,Forrest,Thames,1179
 Brandon Terrion Rue,State House,102,D,Forrest,Thames,249
-Percy W Watson,State House,103,D,Forrest,Thames,
-Larry Byrd,State House,104,R,Forrest,Thames,
+Percy W Watson,State House,103,D,Forrest,Thames,X
+Larry Byrd,State House,104,R,Forrest,Thames,X
 Jim Hood,Governor,,D,Forrest,Timberton,222
 Tate Reeves,Governor,,R,Forrest,Timberton,456
 Bob Hickingbottom,Governor,,C,Forrest,Timberton,3
@@ -739,16 +739,16 @@ Addie Lee Green,State Treasurer,,D,Forrest,Timberton,125
 David McRae,State Treasurer,,R,Forrest,Timberton,563
 Rickey L Cole,Commissioner of Agriculture & Commerce,,D,Forrest,Timberton,160
 Andy Gipson,Commissioner of Agriculture & Commerce,,R,Forrest,Timberton,527
-Juan Barnett,State Senate,34,D,Forrest,Timberton,
-Steven L Wade,State Senate,34,R,Forrest,Timberton,
-Joey Fillingane,State Senate,41,R,Forrest,Timberton,
-Chris McDaniel,State Senate,42,R,Forrest,Timberton,
+Juan Barnett,State Senate,34,D,Forrest,Timberton,X
+Steven L Wade,State Senate,34,R,Forrest,Timberton,X
+Joey Fillingane,State Senate,41,R,Forrest,Timberton,X
+Chris McDaniel,State Senate,42,R,Forrest,Timberton,X
 Chris Johnson,State Senate,45,R,Forrest,Timberton,626
 William E 'Billy' Andrews III,State House,87,R,Forrest,Timberton,514
 Missy Warren McGee,State House,102,R,Forrest,Timberton,103
 Brandon Terrion Rue,State House,102,D,Forrest,Timberton,18
-Percy W Watson,State House,103,D,Forrest,Timberton,
-Larry Byrd,State House,104,R,Forrest,Timberton,
+Percy W Watson,State House,103,D,Forrest,Timberton,X
+Larry Byrd,State House,104,R,Forrest,Timberton,X
 Jim Hood,Governor,,D,Forrest,Train Depot,227
 Tate Reeves,Governor,,R,Forrest,Train Depot,29
 Bob Hickingbottom,Governor,,C,Forrest,Train Depot,1
@@ -766,14 +766,14 @@ Rickey L Cole,Commissioner of Agriculture & Commerce,,D,Forrest,Train Depot,205
 Andy Gipson,Commissioner of Agriculture & Commerce,,R,Forrest,Train Depot,46
 Juan Barnett,State Senate,34,D,Forrest,Train Depot,201
 Steven L Wade,State Senate,34,R,Forrest,Train Depot,40
-Joey Fillingane,State Senate,41,R,Forrest,Train Depot,
-Chris McDaniel,State Senate,42,R,Forrest,Train Depot,
+Joey Fillingane,State Senate,41,R,Forrest,Train Depot,X
+Chris McDaniel,State Senate,42,R,Forrest,Train Depot,X
 Chris Johnson,State Senate,45,R,Forrest,Train Depot,2
-William E 'Billy' Andrews III,State House,87,R,Forrest,Train Depot,
-Missy Warren McGee,State House,102,R,Forrest,Train Depot,
-Brandon Terrion Rue,State House,102,D,Forrest,Train Depot,
+William E 'Billy' Andrews III,State House,87,R,Forrest,Train Depot,X
+Missy Warren McGee,State House,102,R,Forrest,Train Depot,X
+Brandon Terrion Rue,State House,102,D,Forrest,Train Depot,X
 Percy W Watson,State House,103,D,Forrest,Train Depot,233
-Larry Byrd,State House,104,R,Forrest,Train Depot,
+Larry Byrd,State House,104,R,Forrest,Train Depot,X
 Jim Hood,Governor,,D,Forrest,West Hills,157
 Tate Reeves,Governor,,R,Forrest,West Hills,224
 Bob Hickingbottom,Governor,,C,Forrest,West Hills,1
@@ -789,16 +789,16 @@ Addie Lee Green,State Treasurer,,D,Forrest,West Hills,104
 David McRae,State Treasurer,,R,Forrest,West Hills,279
 Rickey L Cole,Commissioner of Agriculture & Commerce,,D,Forrest,West Hills,117
 Andy Gipson,Commissioner of Agriculture & Commerce,,R,Forrest,West Hills,267
-Juan Barnett,State Senate,34,D,Forrest,West Hills,
-Steven L Wade,State Senate,34,R,Forrest,West Hills,
-Joey Fillingane,State Senate,41,R,Forrest,West Hills,
-Chris McDaniel,State Senate,42,R,Forrest,West Hills,
+Juan Barnett,State Senate,34,D,Forrest,West Hills,X
+Steven L Wade,State Senate,34,R,Forrest,West Hills,X
+Joey Fillingane,State Senate,41,R,Forrest,West Hills,X
+Chris McDaniel,State Senate,42,R,Forrest,West Hills,X
 Chris Johnson,State Senate,45,R,Forrest,West Hills,332
-William E 'Billy' Andrews III,State House,87,R,Forrest,West Hills,
+William E 'Billy' Andrews III,State House,87,R,Forrest,West Hills,X
 Missy Warren McGee,State House,102,R,Forrest,West Hills,282
 Brandon Terrion Rue,State House,102,D,Forrest,West Hills,99
-Percy W Watson,State House,103,D,Forrest,West Hills,
-Larry Byrd,State House,104,R,Forrest,West Hills,
+Percy W Watson,State House,103,D,Forrest,West Hills,X
+Larry Byrd,State House,104,R,Forrest,West Hills,X
 Jim Hood,Governor,,D,Forrest,West Petal,125
 Tate Reeves,Governor,,R,Forrest,West Petal,185
 Bob Hickingbottom,Governor,,C,Forrest,West Petal,1
@@ -814,15 +814,15 @@ Addie Lee Green,State Treasurer,,D,Forrest,West Petal,103
 David McRae,State Treasurer,,R,Forrest,West Petal,209
 Rickey L Cole,Commissioner of Agriculture & Commerce,,D,Forrest,West Petal,108
 Andy Gipson,Commissioner of Agriculture & Commerce,,R,Forrest,West Petal,205
-Juan Barnett,State Senate,34,D,Forrest,West Petal,
-Steven L Wade,State Senate,34,R,Forrest,West Petal,
-Joey Fillingane,State Senate,41,R,Forrest,West Petal,
+Juan Barnett,State Senate,34,D,Forrest,West Petal,X
+Steven L Wade,State Senate,34,R,Forrest,West Petal,X
+Joey Fillingane,State Senate,41,R,Forrest,West Petal,X
 Chris McDaniel,State Senate,42,R,Forrest,West Petal,268
-Chris Johnson,State Senate,45,R,Forrest,West Petal,
-William E 'Billy' Andrews III,State House,87,R,Forrest,West Petal,
-Missy Warren McGee,State House,102,R,Forrest,West Petal,
-Brandon Terrion Rue,State House,102,D,Forrest,West Petal,
-Percy W Watson,State House,103,D,Forrest,West Petal,
+Chris Johnson,State Senate,45,R,Forrest,West Petal,X
+William E 'Billy' Andrews III,State House,87,R,Forrest,West Petal,X
+Missy Warren McGee,State House,102,R,Forrest,West Petal,X
+Brandon Terrion Rue,State House,102,D,Forrest,West Petal,X
+Percy W Watson,State House,103,D,Forrest,West Petal,X
 Larry Byrd,State House,104,R,Forrest,West Petal,268
 Jim Hood,Governor,,D,Forrest,Westside,341
 Tate Reeves,Governor,,R,Forrest,Westside,204
@@ -841,14 +841,14 @@ Rickey L Cole,Commissioner of Agriculture & Commerce,,D,Forrest,Westside,297
 Andy Gipson,Commissioner of Agriculture & Commerce,,R,Forrest,Westside,236
 Juan Barnett,State Senate,34,D,Forrest,Westside,21
 Steven L Wade,State Senate,34,R,Forrest,Westside,3
-Joey Fillingane,State Senate,41,R,Forrest,Westside,
-Chris McDaniel,State Senate,42,R,Forrest,Westside,
+Joey Fillingane,State Senate,41,R,Forrest,Westside,X
+Chris McDaniel,State Senate,42,R,Forrest,Westside,X
 Chris Johnson,State Senate,45,R,Forrest,Westside,380
-William E 'Billy' Andrews III,State House,87,R,Forrest,Westside,
+William E 'Billy' Andrews III,State House,87,R,Forrest,Westside,X
 Missy Warren McGee,State House,102,R,Forrest,Westside,259
 Brandon Terrion Rue,State House,102,D,Forrest,Westside,165
 Percy W Watson,State House,103,D,Forrest,Westside,99
-Larry Byrd,State House,104,R,Forrest,Westside,
+Larry Byrd,State House,104,R,Forrest,Westside,X
 Jim Hood,Governor,,D,Forrest,TOTAL,10223
 Tate Reeves,Governor,,R,Forrest,TOTAL,10380
 Bob Hickingbottom,Governor,,C,Forrest,TOTAL,65

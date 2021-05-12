@@ -14,12 +14,12 @@ Eugene S. 'Buck' Clarke,State Treasurer,,R,Copiah,Beauregard,47
 David McRae,State Treasurer,,R,Copiah,Beauregard,92
 Andy Gipson,Commissioner of Agriculture & Commerce,,R,Copiah,Beauregard,135
 Mike Chaney,Commissioner of Insurance,,R,Copiah,Beauregard,139
-Chris Caughman,State Senate,35,R,Copiah,Beauregard,
-Cheramie Kay Mitchell,State Senate,35,R,Copiah,Beauregard,
-Beth Brown,State Senate,39,R,Copiah,Beauregard,
-Josh Davis,State Senate,39,R,Copiah,Beauregard,
-Sally Doty,State Senate,39,R,Copiah,Beauregard,
-Tom Weathersby,State House,62,R,Copiah,Beauregard,
+Chris Caughman,State Senate,35,R,Copiah,Beauregard,X
+Cheramie Kay Mitchell,State Senate,35,R,Copiah,Beauregard,X
+Beth Brown,State Senate,39,R,Copiah,Beauregard,X
+Josh Davis,State Senate,39,R,Copiah,Beauregard,X
+Sally Doty,State Senate,39,R,Copiah,Beauregard,X
+Tom Weathersby,State House,62,R,Copiah,Beauregard,X
 Becky Currie,State House,92,R,Copiah,Beauregard,95
 Michael Brown,Governor,,D,Copiah,Beauregard,20
 William Bond Compton Jr.,Governor,,D,Copiah,Beauregard,3
@@ -39,7 +39,7 @@ Robert E. Amos,Commissioner of Insurance,,D,Copiah,Beauregard,183
 Albert Butler,State Senate,36,D,Copiah,Beauregard,149
 Tyler K Doss,State Senate,36,D,Copiah,Beauregard,47
 Gregory L Holloway Sr.,State House,76,D,Copiah,Beauregard,74
-Bob Evans,State House,91,D,Copiah,Beauregard,
+Bob Evans,State House,91,D,Copiah,Beauregard,X
 Robert Foster,Governor,,R,Copiah,Carpenter,1
 Tate Reeves,Governor,,R,Copiah,Carpenter,14
 Bill Waller Jr.,Governor,,R,Copiah,Carpenter,8
@@ -55,13 +55,13 @@ Eugene S. 'Buck' Clarke,State Treasurer,,R,Copiah,Carpenter,6
 David McRae,State Treasurer,,R,Copiah,Carpenter,17
 Andy Gipson,Commissioner of Agriculture & Commerce,,R,Copiah,Carpenter,21
 Mike Chaney,Commissioner of Insurance,,R,Copiah,Carpenter,21
-Chris Caughman,State Senate,35,R,Copiah,Carpenter,
-Cheramie Kay Mitchell,State Senate,35,R,Copiah,Carpenter,
-Beth Brown,State Senate,39,R,Copiah,Carpenter,
-Josh Davis,State Senate,39,R,Copiah,Carpenter,
-Sally Doty,State Senate,39,R,Copiah,Carpenter,
-Tom Weathersby,State House,62,R,Copiah,Carpenter,
-Becky Currie,State House,92,R,Copiah,Carpenter,
+Chris Caughman,State Senate,35,R,Copiah,Carpenter,X
+Cheramie Kay Mitchell,State Senate,35,R,Copiah,Carpenter,X
+Beth Brown,State Senate,39,R,Copiah,Carpenter,X
+Josh Davis,State Senate,39,R,Copiah,Carpenter,X
+Sally Doty,State Senate,39,R,Copiah,Carpenter,X
+Tom Weathersby,State House,62,R,Copiah,Carpenter,X
+Becky Currie,State House,92,R,Copiah,Carpenter,X
 Michael Brown,Governor,,D,Copiah,Carpenter,1
 William Bond Compton Jr.,Governor,,D,Copiah,Carpenter,0
 Jim Hood,Governor,,D,Copiah,Carpenter,62
@@ -80,7 +80,7 @@ Robert E. Amos,Commissioner of Insurance,,D,Copiah,Carpenter,67
 Albert Butler,State Senate,36,D,Copiah,Carpenter,68
 Tyler K Doss,State Senate,36,D,Copiah,Carpenter,12
 Gregory L Holloway Sr.,State House,76,D,Copiah,Carpenter,72
-Bob Evans,State House,91,D,Copiah,Carpenter,
+Bob Evans,State House,91,D,Copiah,Carpenter,X
 Robert Foster,Governor,,R,Copiah,Centerpoint,29
 Tate Reeves,Governor,,R,Copiah,Centerpoint,62
 Bill Waller Jr.,Governor,,R,Copiah,Centerpoint,31
@@ -96,12 +96,12 @@ Eugene S. 'Buck' Clarke,State Treasurer,,R,Copiah,Centerpoint,32
 David McRae,State Treasurer,,R,Copiah,Centerpoint,87
 Andy Gipson,Commissioner of Agriculture & Commerce,,R,Copiah,Centerpoint,110
 Mike Chaney,Commissioner of Insurance,,R,Copiah,Centerpoint,109
-Chris Caughman,State Senate,35,R,Copiah,Centerpoint,
-Cheramie Kay Mitchell,State Senate,35,R,Copiah,Centerpoint,
-Beth Brown,State Senate,39,R,Copiah,Centerpoint,
-Josh Davis,State Senate,39,R,Copiah,Centerpoint,
-Sally Doty,State Senate,39,R,Copiah,Centerpoint,
-Tom Weathersby,State House,62,R,Copiah,Centerpoint,
+Chris Caughman,State Senate,35,R,Copiah,Centerpoint,X
+Cheramie Kay Mitchell,State Senate,35,R,Copiah,Centerpoint,X
+Beth Brown,State Senate,39,R,Copiah,Centerpoint,X
+Josh Davis,State Senate,39,R,Copiah,Centerpoint,X
+Sally Doty,State Senate,39,R,Copiah,Centerpoint,X
+Tom Weathersby,State House,62,R,Copiah,Centerpoint,X
 Becky Currie,State House,92,R,Copiah,Centerpoint,34
 Michael Brown,Governor,,D,Copiah,Centerpoint,36
 William Bond Compton Jr.,Governor,,D,Copiah,Centerpoint,3
@@ -121,7 +121,7 @@ Robert E. Amos,Commissioner of Insurance,,D,Copiah,Centerpoint,358
 Albert Butler,State Senate,36,D,Copiah,Centerpoint,332
 Tyler K Doss,State Senate,36,D,Copiah,Centerpoint,86
 Gregory L Holloway Sr.,State House,76,D,Copiah,Centerpoint,287
-Bob Evans,State House,91,D,Copiah,Centerpoint,
+Bob Evans,State House,91,D,Copiah,Centerpoint,X
 Robert Foster,Governor,,R,Copiah,Crystal Springs East,53
 Tate Reeves,Governor,,R,Copiah,Crystal Springs East,238
 Bill Waller Jr.,Governor,,R,Copiah,Crystal Springs East,116
@@ -139,11 +139,11 @@ Andy Gipson,Commissioner of Agriculture & Commerce,,R,Copiah,Crystal Springs Eas
 Mike Chaney,Commissioner of Insurance,,R,Copiah,Crystal Springs East,384
 Chris Caughman,State Senate,35,R,Copiah,Crystal Springs East,198
 Cheramie Kay Mitchell,State Senate,35,R,Copiah,Crystal Springs East,40
-Beth Brown,State Senate,39,R,Copiah,Crystal Springs East,
-Josh Davis,State Senate,39,R,Copiah,Crystal Springs East,
-Sally Doty,State Senate,39,R,Copiah,Crystal Springs East,
+Beth Brown,State Senate,39,R,Copiah,Crystal Springs East,X
+Josh Davis,State Senate,39,R,Copiah,Crystal Springs East,X
+Sally Doty,State Senate,39,R,Copiah,Crystal Springs East,X
 Tom Weathersby,State House,62,R,Copiah,Crystal Springs East,286
-Becky Currie,State House,92,R,Copiah,Crystal Springs East,
+Becky Currie,State House,92,R,Copiah,Crystal Springs East,X
 Michael Brown,Governor,,D,Copiah,Crystal Springs East,52
 William Bond Compton Jr.,Governor,,D,Copiah,Crystal Springs East,15
 Jim Hood,Governor,,D,Copiah,Crystal Springs East,496
@@ -178,13 +178,13 @@ Eugene S. 'Buck' Clarke,State Treasurer,,R,Copiah,Crystal Springs North,4
 David McRae,State Treasurer,,R,Copiah,Crystal Springs North,28
 Andy Gipson,Commissioner of Agriculture & Commerce,,R,Copiah,Crystal Springs North,31
 Mike Chaney,Commissioner of Insurance,,R,Copiah,Crystal Springs North,29
-Chris Caughman,State Senate,35,R,Copiah,Crystal Springs North,
-Cheramie Kay Mitchell,State Senate,35,R,Copiah,Crystal Springs North,
-Beth Brown,State Senate,39,R,Copiah,Crystal Springs North,
-Josh Davis,State Senate,39,R,Copiah,Crystal Springs North,
-Sally Doty,State Senate,39,R,Copiah,Crystal Springs North,
-Tom Weathersby,State House,62,R,Copiah,Crystal Springs North,
-Becky Currie,State House,92,R,Copiah,Crystal Springs North,
+Chris Caughman,State Senate,35,R,Copiah,Crystal Springs North,X
+Cheramie Kay Mitchell,State Senate,35,R,Copiah,Crystal Springs North,X
+Beth Brown,State Senate,39,R,Copiah,Crystal Springs North,X
+Josh Davis,State Senate,39,R,Copiah,Crystal Springs North,X
+Sally Doty,State Senate,39,R,Copiah,Crystal Springs North,X
+Tom Weathersby,State House,62,R,Copiah,Crystal Springs North,X
+Becky Currie,State House,92,R,Copiah,Crystal Springs North,X
 Michael Brown,Governor,,D,Copiah,Crystal Springs North,9
 William Bond Compton Jr.,Governor,,D,Copiah,Crystal Springs North,0
 Jim Hood,Governor,,D,Copiah,Crystal Springs North,154
@@ -203,7 +203,7 @@ Robert E. Amos,Commissioner of Insurance,,D,Copiah,Crystal Springs North,166
 Albert Butler,State Senate,36,D,Copiah,Crystal Springs North,151
 Tyler K Doss,State Senate,36,D,Copiah,Crystal Springs North,25
 Gregory L Holloway Sr.,State House,76,D,Copiah,Crystal Springs North,172
-Bob Evans,State House,91,D,Copiah,Crystal Springs North,
+Bob Evans,State House,91,D,Copiah,Crystal Springs North,X
 Robert Foster,Governor,,R,Copiah,Crystal Springs South,17
 Tate Reeves,Governor,,R,Copiah,Crystal Springs South,57
 Bill Waller Jr.,Governor,,R,Copiah,Crystal Springs South,39
@@ -219,13 +219,13 @@ Eugene S. 'Buck' Clarke,State Treasurer,,R,Copiah,Crystal Springs South,43
 David McRae,State Treasurer,,R,Copiah,Crystal Springs South,68
 Andy Gipson,Commissioner of Agriculture & Commerce,,R,Copiah,Crystal Springs South,108
 Mike Chaney,Commissioner of Insurance,,R,Copiah,Crystal Springs South,108
-Chris Caughman,State Senate,35,R,Copiah,Crystal Springs South,
-Cheramie Kay Mitchell,State Senate,35,R,Copiah,Crystal Springs South,
-Beth Brown,State Senate,39,R,Copiah,Crystal Springs South,
-Josh Davis,State Senate,39,R,Copiah,Crystal Springs South,
-Sally Doty,State Senate,39,R,Copiah,Crystal Springs South,
+Chris Caughman,State Senate,35,R,Copiah,Crystal Springs South,X
+Cheramie Kay Mitchell,State Senate,35,R,Copiah,Crystal Springs South,X
+Beth Brown,State Senate,39,R,Copiah,Crystal Springs South,X
+Josh Davis,State Senate,39,R,Copiah,Crystal Springs South,X
+Sally Doty,State Senate,39,R,Copiah,Crystal Springs South,X
 Tom Weathersby,State House,62,R,Copiah,Crystal Springs South,88
-Becky Currie,State House,92,R,Copiah,Crystal Springs South,
+Becky Currie,State House,92,R,Copiah,Crystal Springs South,X
 Michael Brown,Governor,,D,Copiah,Crystal Springs South,82
 William Bond Compton Jr.,Governor,,D,Copiah,Crystal Springs South,8
 Jim Hood,Governor,,D,Copiah,Crystal Springs South,592
@@ -244,7 +244,7 @@ Robert E. Amos,Commissioner of Insurance,,D,Copiah,Crystal Springs South,699
 Albert Butler,State Senate,36,D,Copiah,Crystal Springs South,687
 Tyler K Doss,State Senate,36,D,Copiah,Crystal Springs South,98
 Gregory L Holloway Sr.,State House,76,D,Copiah,Crystal Springs South,719
-Bob Evans,State House,91,D,Copiah,Crystal Springs South,
+Bob Evans,State House,91,D,Copiah,Crystal Springs South,X
 Robert Foster,Governor,,R,Copiah,Crystal Springs West,22
 Tate Reeves,Governor,,R,Copiah,Crystal Springs West,91
 Bill Waller Jr.,Governor,,R,Copiah,Crystal Springs West,51
@@ -260,13 +260,13 @@ Eugene S. 'Buck' Clarke,State Treasurer,,R,Copiah,Crystal Springs West,68
 David McRae,State Treasurer,,R,Copiah,Crystal Springs West,89
 Andy Gipson,Commissioner of Agriculture & Commerce,,R,Copiah,Crystal Springs West,151
 Mike Chaney,Commissioner of Insurance,,R,Copiah,Crystal Springs West,151
-Chris Caughman,State Senate,35,R,Copiah,Crystal Springs West,
-Cheramie Kay Mitchell,State Senate,35,R,Copiah,Crystal Springs West,
-Beth Brown,State Senate,39,R,Copiah,Crystal Springs West,
-Josh Davis,State Senate,39,R,Copiah,Crystal Springs West,
-Sally Doty,State Senate,39,R,Copiah,Crystal Springs West,
-Tom Weathersby,State House,62,R,Copiah,Crystal Springs West,
-Becky Currie,State House,92,R,Copiah,Crystal Springs West,
+Chris Caughman,State Senate,35,R,Copiah,Crystal Springs West,X
+Cheramie Kay Mitchell,State Senate,35,R,Copiah,Crystal Springs West,X
+Beth Brown,State Senate,39,R,Copiah,Crystal Springs West,X
+Josh Davis,State Senate,39,R,Copiah,Crystal Springs West,X
+Sally Doty,State Senate,39,R,Copiah,Crystal Springs West,X
+Tom Weathersby,State House,62,R,Copiah,Crystal Springs West,X
+Becky Currie,State House,92,R,Copiah,Crystal Springs West,X
 Michael Brown,Governor,,D,Copiah,Crystal Springs West,16
 William Bond Compton Jr.,Governor,,D,Copiah,Crystal Springs West,7
 Jim Hood,Governor,,D,Copiah,Crystal Springs West,220
@@ -285,7 +285,7 @@ Robert E. Amos,Commissioner of Insurance,,D,Copiah,Crystal Springs West,247
 Albert Butler,State Senate,36,D,Copiah,Crystal Springs West,230
 Tyler K Doss,State Senate,36,D,Copiah,Crystal Springs West,47
 Gregory L Holloway Sr.,State House,76,D,Copiah,Crystal Springs West,280
-Bob Evans,State House,91,D,Copiah,Crystal Springs West,
+Bob Evans,State House,91,D,Copiah,Crystal Springs West,X
 Robert Foster,Governor,,R,Copiah,Dentville,5
 Tate Reeves,Governor,,R,Copiah,Dentville,27
 Bill Waller Jr.,Governor,,R,Copiah,Dentville,13
@@ -301,13 +301,13 @@ Eugene S. 'Buck' Clarke,State Treasurer,,R,Copiah,Dentville,12
 David McRae,State Treasurer,,R,Copiah,Dentville,32
 Andy Gipson,Commissioner of Agriculture & Commerce,,R,Copiah,Dentville,40
 Mike Chaney,Commissioner of Insurance,,R,Copiah,Dentville,42
-Chris Caughman,State Senate,35,R,Copiah,Dentville,
-Cheramie Kay Mitchell,State Senate,35,R,Copiah,Dentville,
-Beth Brown,State Senate,39,R,Copiah,Dentville,
-Josh Davis,State Senate,39,R,Copiah,Dentville,
-Sally Doty,State Senate,39,R,Copiah,Dentville,
-Tom Weathersby,State House,62,R,Copiah,Dentville,
-Becky Currie,State House,92,R,Copiah,Dentville,
+Chris Caughman,State Senate,35,R,Copiah,Dentville,X
+Cheramie Kay Mitchell,State Senate,35,R,Copiah,Dentville,X
+Beth Brown,State Senate,39,R,Copiah,Dentville,X
+Josh Davis,State Senate,39,R,Copiah,Dentville,X
+Sally Doty,State Senate,39,R,Copiah,Dentville,X
+Tom Weathersby,State House,62,R,Copiah,Dentville,X
+Becky Currie,State House,92,R,Copiah,Dentville,X
 Michael Brown,Governor,,D,Copiah,Dentville,5
 William Bond Compton Jr.,Governor,,D,Copiah,Dentville,1
 Jim Hood,Governor,,D,Copiah,Dentville,67
@@ -326,7 +326,7 @@ Robert E. Amos,Commissioner of Insurance,,D,Copiah,Dentville,71
 Albert Butler,State Senate,36,D,Copiah,Dentville,72
 Tyler K Doss,State Senate,36,D,Copiah,Dentville,8
 Gregory L Holloway Sr.,State House,76,D,Copiah,Dentville,79
-Bob Evans,State House,91,D,Copiah,Dentville,
+Bob Evans,State House,91,D,Copiah,Dentville,X
 Robert Foster,Governor,,R,Copiah,Gallman,19
 Tate Reeves,Governor,,R,Copiah,Gallman,112
 Bill Waller Jr.,Governor,,R,Copiah,Gallman,74
@@ -342,13 +342,13 @@ Eugene S. 'Buck' Clarke,State Treasurer,,R,Copiah,Gallman,64
 David McRae,State Treasurer,,R,Copiah,Gallman,133
 Andy Gipson,Commissioner of Agriculture & Commerce,,R,Copiah,Gallman,184
 Mike Chaney,Commissioner of Insurance,,R,Copiah,Gallman,187
-Chris Caughman,State Senate,35,R,Copiah,Gallman,
-Cheramie Kay Mitchell,State Senate,35,R,Copiah,Gallman,
-Beth Brown,State Senate,39,R,Copiah,Gallman,
-Josh Davis,State Senate,39,R,Copiah,Gallman,
-Sally Doty,State Senate,39,R,Copiah,Gallman,
-Tom Weathersby,State House,62,R,Copiah,Gallman,
-Becky Currie,State House,92,R,Copiah,Gallman,
+Chris Caughman,State Senate,35,R,Copiah,Gallman,X
+Cheramie Kay Mitchell,State Senate,35,R,Copiah,Gallman,X
+Beth Brown,State Senate,39,R,Copiah,Gallman,X
+Josh Davis,State Senate,39,R,Copiah,Gallman,X
+Sally Doty,State Senate,39,R,Copiah,Gallman,X
+Tom Weathersby,State House,62,R,Copiah,Gallman,X
+Becky Currie,State House,92,R,Copiah,Gallman,X
 Michael Brown,Governor,,D,Copiah,Gallman,41
 William Bond Compton Jr.,Governor,,D,Copiah,Gallman,7
 Jim Hood,Governor,,D,Copiah,Gallman,558
@@ -367,7 +367,7 @@ Robert E. Amos,Commissioner of Insurance,,D,Copiah,Gallman,609
 Albert Butler,State Senate,36,D,Copiah,Gallman,563
 Tyler K Doss,State Senate,36,D,Copiah,Gallman,111
 Gregory L Holloway Sr.,State House,76,D,Copiah,Gallman,707
-Bob Evans,State House,91,D,Copiah,Gallman,
+Bob Evans,State House,91,D,Copiah,Gallman,X
 Robert Foster,Governor,,R,Copiah,Georgetown North,1
 Tate Reeves,Governor,,R,Copiah,Georgetown North,20
 Bill Waller Jr.,Governor,,R,Copiah,Georgetown North,8
@@ -383,13 +383,13 @@ Eugene S. 'Buck' Clarke,State Treasurer,,R,Copiah,Georgetown North,10
 David McRae,State Treasurer,,R,Copiah,Georgetown North,18
 Andy Gipson,Commissioner of Agriculture & Commerce,,R,Copiah,Georgetown North,28
 Mike Chaney,Commissioner of Insurance,,R,Copiah,Georgetown North,29
-Chris Caughman,State Senate,35,R,Copiah,Georgetown North,
-Cheramie Kay Mitchell,State Senate,35,R,Copiah,Georgetown North,
-Beth Brown,State Senate,39,R,Copiah,Georgetown North,
-Josh Davis,State Senate,39,R,Copiah,Georgetown North,
-Sally Doty,State Senate,39,R,Copiah,Georgetown North,
-Tom Weathersby,State House,62,R,Copiah,Georgetown North,
-Becky Currie,State House,92,R,Copiah,Georgetown North,
+Chris Caughman,State Senate,35,R,Copiah,Georgetown North,X
+Cheramie Kay Mitchell,State Senate,35,R,Copiah,Georgetown North,X
+Beth Brown,State Senate,39,R,Copiah,Georgetown North,X
+Josh Davis,State Senate,39,R,Copiah,Georgetown North,X
+Sally Doty,State Senate,39,R,Copiah,Georgetown North,X
+Tom Weathersby,State House,62,R,Copiah,Georgetown North,X
+Becky Currie,State House,92,R,Copiah,Georgetown North,X
 Michael Brown,Governor,,D,Copiah,Georgetown North,13
 William Bond Compton Jr.,Governor,,D,Copiah,Georgetown North,3
 Jim Hood,Governor,,D,Copiah,Georgetown North,100
@@ -407,7 +407,7 @@ Rickey L Cole,Commissioner of Agriculture & Commerce,,D,Copiah,Georgetown North,
 Robert E. Amos,Commissioner of Insurance,,D,Copiah,Georgetown North,126
 Albert Butler,State Senate,36,D,Copiah,Georgetown North,100
 Tyler K Doss,State Senate,36,D,Copiah,Georgetown North,32
-Gregory L Holloway Sr.,State House,76,D,Copiah,Georgetown North,
+Gregory L Holloway Sr.,State House,76,D,Copiah,Georgetown North,X
 Bob Evans,State House,91,D,Copiah,Georgetown North,123
 Robert Foster,Governor,,R,Copiah,Georgetown South,6
 Tate Reeves,Governor,,R,Copiah,Georgetown South,34
@@ -424,12 +424,12 @@ Eugene S. 'Buck' Clarke,State Treasurer,,R,Copiah,Georgetown South,18
 David McRae,State Treasurer,,R,Copiah,Georgetown South,34
 Andy Gipson,Commissioner of Agriculture & Commerce,,R,Copiah,Georgetown South,51
 Mike Chaney,Commissioner of Insurance,,R,Copiah,Georgetown South,51
-Chris Caughman,State Senate,35,R,Copiah,Georgetown South,
-Cheramie Kay Mitchell,State Senate,35,R,Copiah,Georgetown South,
+Chris Caughman,State Senate,35,R,Copiah,Georgetown South,X
+Cheramie Kay Mitchell,State Senate,35,R,Copiah,Georgetown South,X
 Beth Brown,State Senate,39,R,Copiah,Georgetown South,10
 Josh Davis,State Senate,39,R,Copiah,Georgetown South,10
 Sally Doty,State Senate,39,R,Copiah,Georgetown South,33
-Tom Weathersby,State House,62,R,Copiah,Georgetown South,
+Tom Weathersby,State House,62,R,Copiah,Georgetown South,X
 Becky Currie,State House,92,R,Copiah,Georgetown South,22
 Michael Brown,Governor,,D,Copiah,Georgetown South,9
 William Bond Compton Jr.,Governor,,D,Copiah,Georgetown South,2
@@ -446,9 +446,9 @@ Jennifer Riley Collins,Attorney General,,D,Copiah,Georgetown South,133
 Addie Lee Green,State Treasurer,,D,Copiah,Georgetown South,129
 Rickey L Cole,Commissioner of Agriculture & Commerce,,D,Copiah,Georgetown South,129
 Robert E. Amos,Commissioner of Insurance,,D,Copiah,Georgetown South,135
-Albert Butler,State Senate,36,D,Copiah,Georgetown South,
-Tyler K Doss,State Senate,36,D,Copiah,Georgetown South,
-Gregory L Holloway Sr.,State House,76,D,Copiah,Georgetown South,
+Albert Butler,State Senate,36,D,Copiah,Georgetown South,X
+Tyler K Doss,State Senate,36,D,Copiah,Georgetown South,X
+Gregory L Holloway Sr.,State House,76,D,Copiah,Georgetown South,X
 Bob Evans,State House,91,D,Copiah,Georgetown South,61
 Robert Foster,Governor,,R,Copiah,Hazlehurst East,1
 Tate Reeves,Governor,,R,Copiah,Hazlehurst East,8
@@ -465,13 +465,13 @@ Eugene S. 'Buck' Clarke,State Treasurer,,R,Copiah,Hazlehurst East,7
 David McRae,State Treasurer,,R,Copiah,Hazlehurst East,6
 Andy Gipson,Commissioner of Agriculture & Commerce,,R,Copiah,Hazlehurst East,12
 Mike Chaney,Commissioner of Insurance,,R,Copiah,Hazlehurst East,12
-Chris Caughman,State Senate,35,R,Copiah,Hazlehurst East,
-Cheramie Kay Mitchell,State Senate,35,R,Copiah,Hazlehurst East,
-Beth Brown,State Senate,39,R,Copiah,Hazlehurst East,
-Josh Davis,State Senate,39,R,Copiah,Hazlehurst East,
-Sally Doty,State Senate,39,R,Copiah,Hazlehurst East,
-Tom Weathersby,State House,62,R,Copiah,Hazlehurst East,
-Becky Currie,State House,92,R,Copiah,Hazlehurst East,
+Chris Caughman,State Senate,35,R,Copiah,Hazlehurst East,X
+Cheramie Kay Mitchell,State Senate,35,R,Copiah,Hazlehurst East,X
+Beth Brown,State Senate,39,R,Copiah,Hazlehurst East,X
+Josh Davis,State Senate,39,R,Copiah,Hazlehurst East,X
+Sally Doty,State Senate,39,R,Copiah,Hazlehurst East,X
+Tom Weathersby,State House,62,R,Copiah,Hazlehurst East,X
+Becky Currie,State House,92,R,Copiah,Hazlehurst East,X
 Michael Brown,Governor,,D,Copiah,Hazlehurst East,45
 William Bond Compton Jr.,Governor,,D,Copiah,Hazlehurst East,4
 Jim Hood,Governor,,D,Copiah,Hazlehurst East,644
@@ -490,7 +490,7 @@ Robert E. Amos,Commissioner of Insurance,,D,Copiah,Hazlehurst East,698
 Albert Butler,State Senate,36,D,Copiah,Hazlehurst East,626
 Tyler K Doss,State Senate,36,D,Copiah,Hazlehurst East,117
 Gregory L Holloway Sr.,State House,76,D,Copiah,Hazlehurst East,786
-Bob Evans,State House,91,D,Copiah,Hazlehurst East,
+Bob Evans,State House,91,D,Copiah,Hazlehurst East,X
 Robert Foster,Governor,,R,Copiah,Hazlehurst North,1
 Tate Reeves,Governor,,R,Copiah,Hazlehurst North,5
 Bill Waller Jr.,Governor,,R,Copiah,Hazlehurst North,1
@@ -506,13 +506,13 @@ Eugene S. 'Buck' Clarke,State Treasurer,,R,Copiah,Hazlehurst North,1
 David McRae,State Treasurer,,R,Copiah,Hazlehurst North,6
 Andy Gipson,Commissioner of Agriculture & Commerce,,R,Copiah,Hazlehurst North,7
 Mike Chaney,Commissioner of Insurance,,R,Copiah,Hazlehurst North,7
-Chris Caughman,State Senate,35,R,Copiah,Hazlehurst North,
-Cheramie Kay Mitchell,State Senate,35,R,Copiah,Hazlehurst North,
-Beth Brown,State Senate,39,R,Copiah,Hazlehurst North,
-Josh Davis,State Senate,39,R,Copiah,Hazlehurst North,
-Sally Doty,State Senate,39,R,Copiah,Hazlehurst North,
-Tom Weathersby,State House,62,R,Copiah,Hazlehurst North,
-Becky Currie,State House,92,R,Copiah,Hazlehurst North,
+Chris Caughman,State Senate,35,R,Copiah,Hazlehurst North,X
+Cheramie Kay Mitchell,State Senate,35,R,Copiah,Hazlehurst North,X
+Beth Brown,State Senate,39,R,Copiah,Hazlehurst North,X
+Josh Davis,State Senate,39,R,Copiah,Hazlehurst North,X
+Sally Doty,State Senate,39,R,Copiah,Hazlehurst North,X
+Tom Weathersby,State House,62,R,Copiah,Hazlehurst North,X
+Becky Currie,State House,92,R,Copiah,Hazlehurst North,X
 Michael Brown,Governor,,D,Copiah,Hazlehurst North,7
 William Bond Compton Jr.,Governor,,D,Copiah,Hazlehurst North,3
 Jim Hood,Governor,,D,Copiah,Hazlehurst North,87
@@ -531,7 +531,7 @@ Robert E. Amos,Commissioner of Insurance,,D,Copiah,Hazlehurst North,92
 Albert Butler,State Senate,36,D,Copiah,Hazlehurst North,83
 Tyler K Doss,State Senate,36,D,Copiah,Hazlehurst North,12
 Gregory L Holloway Sr.,State House,76,D,Copiah,Hazlehurst North,102
-Bob Evans,State House,91,D,Copiah,Hazlehurst North,
+Bob Evans,State House,91,D,Copiah,Hazlehurst North,X
 Robert Foster,Governor,,R,Copiah,Hazlehurst South,3
 Tate Reeves,Governor,,R,Copiah,Hazlehurst South,10
 Bill Waller Jr.,Governor,,R,Copiah,Hazlehurst South,7
@@ -547,13 +547,13 @@ Eugene S. 'Buck' Clarke,State Treasurer,,R,Copiah,Hazlehurst South,8
 David McRae,State Treasurer,,R,Copiah,Hazlehurst South,12
 Andy Gipson,Commissioner of Agriculture & Commerce,,R,Copiah,Hazlehurst South,20
 Mike Chaney,Commissioner of Insurance,,R,Copiah,Hazlehurst South,19
-Chris Caughman,State Senate,35,R,Copiah,Hazlehurst South,
-Cheramie Kay Mitchell,State Senate,35,R,Copiah,Hazlehurst South,
-Beth Brown,State Senate,39,R,Copiah,Hazlehurst South,
-Josh Davis,State Senate,39,R,Copiah,Hazlehurst South,
-Sally Doty,State Senate,39,R,Copiah,Hazlehurst South,
-Tom Weathersby,State House,62,R,Copiah,Hazlehurst South,
-Becky Currie,State House,92,R,Copiah,Hazlehurst South,
+Chris Caughman,State Senate,35,R,Copiah,Hazlehurst South,X
+Cheramie Kay Mitchell,State Senate,35,R,Copiah,Hazlehurst South,X
+Beth Brown,State Senate,39,R,Copiah,Hazlehurst South,X
+Josh Davis,State Senate,39,R,Copiah,Hazlehurst South,X
+Sally Doty,State Senate,39,R,Copiah,Hazlehurst South,X
+Tom Weathersby,State House,62,R,Copiah,Hazlehurst South,X
+Becky Currie,State House,92,R,Copiah,Hazlehurst South,X
 Michael Brown,Governor,,D,Copiah,Hazlehurst South,10
 William Bond Compton Jr.,Governor,,D,Copiah,Hazlehurst South,2
 Jim Hood,Governor,,D,Copiah,Hazlehurst South,155
@@ -572,7 +572,7 @@ Robert E. Amos,Commissioner of Insurance,,D,Copiah,Hazlehurst South,168
 Albert Butler,State Senate,36,D,Copiah,Hazlehurst South,160
 Tyler K Doss,State Senate,36,D,Copiah,Hazlehurst South,23
 Gregory L Holloway Sr.,State House,76,D,Copiah,Hazlehurst South,195
-Bob Evans,State House,91,D,Copiah,Hazlehurst South,
+Bob Evans,State House,91,D,Copiah,Hazlehurst South,X
 Robert Foster,Governor,,R,Copiah,Hazlehurst West,10
 Tate Reeves,Governor,,R,Copiah,Hazlehurst West,18
 Bill Waller Jr.,Governor,,R,Copiah,Hazlehurst West,27
@@ -588,13 +588,13 @@ Eugene S. 'Buck' Clarke,State Treasurer,,R,Copiah,Hazlehurst West,22
 David McRae,State Treasurer,,R,Copiah,Hazlehurst West,32
 Andy Gipson,Commissioner of Agriculture & Commerce,,R,Copiah,Hazlehurst West,52
 Mike Chaney,Commissioner of Insurance,,R,Copiah,Hazlehurst West,51
-Chris Caughman,State Senate,35,R,Copiah,Hazlehurst West,
-Cheramie Kay Mitchell,State Senate,35,R,Copiah,Hazlehurst West,
-Beth Brown,State Senate,39,R,Copiah,Hazlehurst West,
-Josh Davis,State Senate,39,R,Copiah,Hazlehurst West,
-Sally Doty,State Senate,39,R,Copiah,Hazlehurst West,
-Tom Weathersby,State House,62,R,Copiah,Hazlehurst West,
-Becky Currie,State House,92,R,Copiah,Hazlehurst West,
+Chris Caughman,State Senate,35,R,Copiah,Hazlehurst West,X
+Cheramie Kay Mitchell,State Senate,35,R,Copiah,Hazlehurst West,X
+Beth Brown,State Senate,39,R,Copiah,Hazlehurst West,X
+Josh Davis,State Senate,39,R,Copiah,Hazlehurst West,X
+Sally Doty,State Senate,39,R,Copiah,Hazlehurst West,X
+Tom Weathersby,State House,62,R,Copiah,Hazlehurst West,X
+Becky Currie,State House,92,R,Copiah,Hazlehurst West,X
 Michael Brown,Governor,,D,Copiah,Hazlehurst West,46
 William Bond Compton Jr.,Governor,,D,Copiah,Hazlehurst West,4
 Jim Hood,Governor,,D,Copiah,Hazlehurst West,610
@@ -613,7 +613,7 @@ Robert E. Amos,Commissioner of Insurance,,D,Copiah,Hazlehurst West,646
 Albert Butler,State Senate,36,D,Copiah,Hazlehurst West,605
 Tyler K Doss,State Senate,36,D,Copiah,Hazlehurst West,100
 Gregory L Holloway Sr.,State House,76,D,Copiah,Hazlehurst West,727
-Bob Evans,State House,91,D,Copiah,Hazlehurst West,
+Bob Evans,State House,91,D,Copiah,Hazlehurst West,X
 Robert Foster,Governor,,R,Copiah,Martinsville,6
 Tate Reeves,Governor,,R,Copiah,Martinsville,34
 Bill Waller Jr.,Governor,,R,Copiah,Martinsville,18
@@ -629,13 +629,13 @@ Eugene S. 'Buck' Clarke,State Treasurer,,R,Copiah,Martinsville,18
 David McRae,State Treasurer,,R,Copiah,Martinsville,39
 Andy Gipson,Commissioner of Agriculture & Commerce,,R,Copiah,Martinsville,56
 Mike Chaney,Commissioner of Insurance,,R,Copiah,Martinsville,56
-Chris Caughman,State Senate,35,R,Copiah,Martinsville,
-Cheramie Kay Mitchell,State Senate,35,R,Copiah,Martinsville,
-Beth Brown,State Senate,39,R,Copiah,Martinsville,
-Josh Davis,State Senate,39,R,Copiah,Martinsville,
-Sally Doty,State Senate,39,R,Copiah,Martinsville,
-Tom Weathersby,State House,62,R,Copiah,Martinsville,
-Becky Currie,State House,92,R,Copiah,Martinsville,
+Chris Caughman,State Senate,35,R,Copiah,Martinsville,X
+Cheramie Kay Mitchell,State Senate,35,R,Copiah,Martinsville,X
+Beth Brown,State Senate,39,R,Copiah,Martinsville,X
+Josh Davis,State Senate,39,R,Copiah,Martinsville,X
+Sally Doty,State Senate,39,R,Copiah,Martinsville,X
+Tom Weathersby,State House,62,R,Copiah,Martinsville,X
+Becky Currie,State House,92,R,Copiah,Martinsville,X
 Michael Brown,Governor,,D,Copiah,Martinsville,20
 William Bond Compton Jr.,Governor,,D,Copiah,Martinsville,0
 Jim Hood,Governor,,D,Copiah,Martinsville,219
@@ -654,7 +654,7 @@ Robert E. Amos,Commissioner of Insurance,,D,Copiah,Martinsville,229
 Albert Butler,State Senate,36,D,Copiah,Martinsville,202
 Tyler K Doss,State Senate,36,D,Copiah,Martinsville,40
 Gregory L Holloway Sr.,State House,76,D,Copiah,Martinsville,257
-Bob Evans,State House,91,D,Copiah,Martinsville,
+Bob Evans,State House,91,D,Copiah,Martinsville,X
 Robert Foster,Governor,,R,Copiah,Shady Grove,8
 Tate Reeves,Governor,,R,Copiah,Shady Grove,40
 Bill Waller Jr.,Governor,,R,Copiah,Shady Grove,27
@@ -670,12 +670,12 @@ Eugene S. 'Buck' Clarke,State Treasurer,,R,Copiah,Shady Grove,24
 David McRae,State Treasurer,,R,Copiah,Shady Grove,48
 Andy Gipson,Commissioner of Agriculture & Commerce,,R,Copiah,Shady Grove,69
 Mike Chaney,Commissioner of Insurance,,R,Copiah,Shady Grove,71
-Chris Caughman,State Senate,35,R,Copiah,Shady Grove,
-Cheramie Kay Mitchell,State Senate,35,R,Copiah,Shady Grove,
+Chris Caughman,State Senate,35,R,Copiah,Shady Grove,X
+Cheramie Kay Mitchell,State Senate,35,R,Copiah,Shady Grove,X
 Beth Brown,State Senate,39,R,Copiah,Shady Grove,11
 Josh Davis,State Senate,39,R,Copiah,Shady Grove,14
 Sally Doty,State Senate,39,R,Copiah,Shady Grove,48
-Tom Weathersby,State House,62,R,Copiah,Shady Grove,
+Tom Weathersby,State House,62,R,Copiah,Shady Grove,X
 Becky Currie,State House,92,R,Copiah,Shady Grove,69
 Michael Brown,Governor,,D,Copiah,Shady Grove,12
 William Bond Compton Jr.,Governor,,D,Copiah,Shady Grove,2
@@ -692,10 +692,10 @@ Jennifer Riley Collins,Attorney General,,D,Copiah,Shady Grove,196
 Addie Lee Green,State Treasurer,,D,Copiah,Shady Grove,187
 Rickey L Cole,Commissioner of Agriculture & Commerce,,D,Copiah,Shady Grove,197
 Robert E. Amos,Commissioner of Insurance,,D,Copiah,Shady Grove,203
-Albert Butler,State Senate,36,D,Copiah,Shady Grove,
-Tyler K Doss,State Senate,36,D,Copiah,Shady Grove,
-Gregory L Holloway Sr.,State House,76,D,Copiah,Shady Grove,
-Bob Evans,State House,91,D,Copiah,Shady Grove,
+Albert Butler,State Senate,36,D,Copiah,Shady Grove,X
+Tyler K Doss,State Senate,36,D,Copiah,Shady Grove,X
+Gregory L Holloway Sr.,State House,76,D,Copiah,Shady Grove,X
+Bob Evans,State House,91,D,Copiah,Shady Grove,X
 Robert Foster,Governor,,R,Copiah,Stronghope Union,9
 Tate Reeves,Governor,,R,Copiah,Stronghope Union,43
 Bill Waller Jr.,Governor,,R,Copiah,Stronghope Union,17
@@ -711,12 +711,12 @@ Eugene S. 'Buck' Clarke,State Treasurer,,R,Copiah,Stronghope Union,19
 David McRae,State Treasurer,,R,Copiah,Stronghope Union,46
 Andy Gipson,Commissioner of Agriculture & Commerce,,R,Copiah,Stronghope Union,59
 Mike Chaney,Commissioner of Insurance,,R,Copiah,Stronghope Union,63
-Chris Caughman,State Senate,35,R,Copiah,Stronghope Union,
-Cheramie Kay Mitchell,State Senate,35,R,Copiah,Stronghope Union,
+Chris Caughman,State Senate,35,R,Copiah,Stronghope Union,X
+Cheramie Kay Mitchell,State Senate,35,R,Copiah,Stronghope Union,X
 Beth Brown,State Senate,39,R,Copiah,Stronghope Union,9
 Josh Davis,State Senate,39,R,Copiah,Stronghope Union,8
 Sally Doty,State Senate,39,R,Copiah,Stronghope Union,49
-Tom Weathersby,State House,62,R,Copiah,Stronghope Union,
+Tom Weathersby,State House,62,R,Copiah,Stronghope Union,X
 Becky Currie,State House,92,R,Copiah,Stronghope Union,63
 Michael Brown,Governor,,D,Copiah,Stronghope Union,15
 William Bond Compton Jr.,Governor,,D,Copiah,Stronghope Union,4
@@ -733,10 +733,10 @@ Jennifer Riley Collins,Attorney General,,D,Copiah,Stronghope Union,133
 Addie Lee Green,State Treasurer,,D,Copiah,Stronghope Union,133
 Rickey L Cole,Commissioner of Agriculture & Commerce,,D,Copiah,Stronghope Union,137
 Robert E. Amos,Commissioner of Insurance,,D,Copiah,Stronghope Union,137
-Albert Butler,State Senate,36,D,Copiah,Stronghope Union,
-Tyler K Doss,State Senate,36,D,Copiah,Stronghope Union,
-Gregory L Holloway Sr.,State House,76,D,Copiah,Stronghope Union,
-Bob Evans,State House,91,D,Copiah,Stronghope Union,
+Albert Butler,State Senate,36,D,Copiah,Stronghope Union,X
+Tyler K Doss,State Senate,36,D,Copiah,Stronghope Union,X
+Gregory L Holloway Sr.,State House,76,D,Copiah,Stronghope Union,X
+Bob Evans,State House,91,D,Copiah,Stronghope Union,X
 Robert Foster,Governor,,R,Copiah,Wesson,30
 Tate Reeves,Governor,,R,Copiah,Wesson,82
 Bill Waller Jr.,Governor,,R,Copiah,Wesson,96
@@ -752,12 +752,12 @@ Eugene S. 'Buck' Clarke,State Treasurer,,R,Copiah,Wesson,63
 David McRae,State Treasurer,,R,Copiah,Wesson,132
 Andy Gipson,Commissioner of Agriculture & Commerce,,R,Copiah,Wesson,196
 Mike Chaney,Commissioner of Insurance,,R,Copiah,Wesson,198
-Chris Caughman,State Senate,35,R,Copiah,Wesson,
-Cheramie Kay Mitchell,State Senate,35,R,Copiah,Wesson,
+Chris Caughman,State Senate,35,R,Copiah,Wesson,X
+Cheramie Kay Mitchell,State Senate,35,R,Copiah,Wesson,X
 Beth Brown,State Senate,39,R,Copiah,Wesson,60
 Josh Davis,State Senate,39,R,Copiah,Wesson,8
 Sally Doty,State Senate,39,R,Copiah,Wesson,124
-Tom Weathersby,State House,62,R,Copiah,Wesson,
+Tom Weathersby,State House,62,R,Copiah,Wesson,X
 Becky Currie,State House,92,R,Copiah,Wesson,201
 Michael Brown,Governor,,D,Copiah,Wesson,12
 William Bond Compton Jr.,Governor,,D,Copiah,Wesson,1
@@ -776,8 +776,8 @@ Rickey L Cole,Commissioner of Agriculture & Commerce,,D,Copiah,Wesson,137
 Robert E. Amos,Commissioner of Insurance,,D,Copiah,Wesson,133
 Albert Butler,State Senate,36,D,Copiah,Wesson,9
 Tyler K Doss,State Senate,36,D,Copiah,Wesson,9
-Gregory L Holloway Sr.,State House,76,D,Copiah,Wesson,
-Bob Evans,State House,91,D,Copiah,Wesson,
+Gregory L Holloway Sr.,State House,76,D,Copiah,Wesson,X
+Bob Evans,State House,91,D,Copiah,Wesson,X
 Robert Foster,Governor,,R,Copiah,TOTAL,247
 Tate Reeves,Governor,,R,Copiah,TOTAL,1001
 Bill Waller Jr.,Governor,,R,Copiah,TOTAL,602

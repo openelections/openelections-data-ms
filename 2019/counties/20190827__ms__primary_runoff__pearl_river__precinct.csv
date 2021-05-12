@@ -13,8 +13,8 @@ page,candidate,office,district,party,county,precinct,votes
 2,Jansen Owen,State House,106,R,Pearl River,Carriere 5,74
 2,Tate Reeves,Governor,,R,Pearl River,Ceasar 3,44
 2,Bill Waller Jr.,Governor,,R,Pearl River,Ceasar 3,20
-2,John Glen Corley,State House,106,R,Pearl River,Ceasar 3,
-2,Jansen Owen,State House,106,R,Pearl River,Ceasar 3,
+2,John Glen Corley,State House,106,R,Pearl River,Ceasar 3,X
+2,Jansen Owen,State House,106,R,Pearl River,Ceasar 3,X
 2,Tate Reeves,Governor,,R,Pearl River,Crossroads 2,164
 2,Bill Waller Jr.,Governor,,R,Pearl River,Crossroads 2,86
 2,John Glen Corley,State House,106,R,Pearl River,Crossroads 2,82
@@ -25,16 +25,16 @@ page,candidate,office,district,party,county,precinct,votes
 2,Jansen Owen,State House,106,R,Pearl River,Derby 1,108
 2,Tate Reeves,Governor,,R,Pearl River,F Z Goss 4,457
 2,Bill Waller Jr.,Governor,,R,Pearl River,F Z Goss 4,198
-2,John Glen Corley,State House,106,R,Pearl River,F Z Goss 4,
-2,Jansen Owen,State House,106,R,Pearl River,F Z Goss 4,
+2,John Glen Corley,State House,106,R,Pearl River,F Z Goss 4,X
+2,Jansen Owen,State House,106,R,Pearl River,F Z Goss 4,X
 2,Tate Reeves,Governor,,R,Pearl River,Gumpond/Hickory Grove 3,258
 2,Bill Waller Jr.,Governor,,R,Pearl River,Gumpond/Hickory Grove 3,138
 2,John Glen Corley,State House,106,R,Pearl River,Gumpond/Hickory Grove 3,172
 2,Jansen Owen,State House,106,R,Pearl River,Gumpond/Hickory Grove 3,221
 2,Tate Reeves,Governor,,R,Pearl River,Henleyfield 2,169
 2,Bill Waller Jr.,Governor,,R,Pearl River,Henleyfield 2,83
-2,John Glen Corley,State House,106,R,Pearl River,Henleyfield 2,
-2,Jansen Owen,State House,106,R,Pearl River,Henleyfield 2,
+2,John Glen Corley,State House,106,R,Pearl River,Henleyfield 2,X
+2,Jansen Owen,State House,106,R,Pearl River,Henleyfield 2,X
 2,Tate Reeves,Governor,,R,Pearl River,Mcneill 3,159
 2,Bill Waller Jr.,Governor,,R,Pearl River,Mcneill 3,141
 2,John Glen Corley,State House,106,R,Pearl River,Mcneill 3,80
@@ -45,8 +45,8 @@ page,candidate,office,district,party,county,precinct,votes
 2,Jansen Owen,State House,106,R,Pearl River,Mill Creek 2,143
 3,Tate Reeves,Governor,,R,Pearl River,Nicholson 4,133
 3,Bill Waller Jr.,Governor,,R,Pearl River,Nicholson 4,49
-3,John Glen Corley,State House,106,R,Pearl River,Nicholson 4,
-3,Jansen Owen,State House,106,R,Pearl River,Nicholson 4,
+3,John Glen Corley,State House,106,R,Pearl River,Nicholson 4,X
+3,Jansen Owen,State House,106,R,Pearl River,Nicholson 4,X
 3,Tate Reeves,Governor,,R,Pearl River,Pic/Hawl/Nh 5,539
 3,Bill Waller Jr.,Governor,,R,Pearl River,Pic/Hawl/Nh 5,218
 3,John Glen Corley,State House,106,R,Pearl River,Pic/Hawl/Nh 5,2
@@ -57,20 +57,20 @@ page,candidate,office,district,party,county,precinct,votes
 3,Jansen Owen,State House,106,R,Pearl River,Picayune 1 Eastside,30
 3,Tate Reeves,Governor,,R,Pearl River,Picayune 1 Southside,39
 3,Bill Waller Jr.,Governor,,R,Pearl River,Picayune 1 Southside,18
-3,John Glen Corley,State House,106,R,Pearl River,Picayune 1 Southside,
-3,Jansen Owen,State House,106,R,Pearl River,Picayune 1 Southside,
+3,John Glen Corley,State House,106,R,Pearl River,Picayune 1 Southside,X
+3,Jansen Owen,State House,106,R,Pearl River,Picayune 1 Southside,X
 3,Tate Reeves,Governor,,R,Pearl River,Picayune 2,271
 3,Bill Waller Jr.,Governor,,R,Pearl River,Picayune 2,125
 3,John Glen Corley,State House,106,R,Pearl River,Picayune 2,44
 3,Jansen Owen,State House,106,R,Pearl River,Picayune 2,68
 3,Tate Reeves,Governor,,R,Pearl River,Picayune 4,140
 3,Bill Waller Jr.,Governor,,R,Pearl River,Picayune 4,93
-3,John Glen Corley,State House,106,R,Pearl River,Picayune 4,
-3,Jansen Owen,State House,106,R,Pearl River,Picayune 4,
+3,John Glen Corley,State House,106,R,Pearl River,Picayune 4,X
+3,Jansen Owen,State House,106,R,Pearl River,Picayune 4,X
 3,Tate Reeves,Governor,,R,Pearl River,Pine Grove 4,181
 3,Bill Waller Jr.,Governor,,R,Pearl River,Pine Grove 4,115
-3,John Glen Corley,State House,106,R,Pearl River,Pine Grove 4,
-3,Jansen Owen,State House,106,R,Pearl River,Pine Grove 4,
+3,John Glen Corley,State House,106,R,Pearl River,Pine Grove 4,X
+3,Jansen Owen,State House,106,R,Pearl River,Pine Grove 4,X
 3,Tate Reeves,Governor,,R,Pearl River,Poplarville 1,98
 3,Bill Waller Jr.,Governor,,R,Pearl River,Poplarville 1,107
 3,John Glen Corley,State House,106,R,Pearl River,Poplarville 1,98
@@ -97,8 +97,8 @@ page,candidate,office,district,party,county,precinct,votes
 4,Jansen Owen,State House,106,R,Pearl River,Steep Hollow 3,0
 4,Tate Reeves,Governor,,R,Pearl River,Sycamore 5,175
 4,Bill Waller Jr.,Governor,,R,Pearl River,Sycamore 5,47
-4,John Glen Corley,State House,106,R,Pearl River,Sycamore 5,
-4,Jansen Owen,State House,106,R,Pearl River,Sycamore 5,
+4,John Glen Corley,State House,106,R,Pearl River,Sycamore 5,X
+4,Jansen Owen,State House,106,R,Pearl River,Sycamore 5,X
 4,Tate Reeves,Governor,,R,Pearl River,Whitesand 1,49
 4,Bill Waller Jr.,Governor,,R,Pearl River,Whitesand 1,40
 4,John Glen Corley,State House,106,R,Pearl River,Whitesand 1,35

@@ -1910,8 +1910,8 @@ Claiborne,County Precinct 1-A,U.S. Senate,,Richard Warren Boyanton,R,1
 Claiborne,County Precinct 1-A,U.S. Senate,,Roger F. Wicker,R,10
 Claiborne,County Precinct 1-B,U.S. Senate,,Richard Warren Boyanton,R,0
 Claiborne,County Precinct 1-B,U.S. Senate,,Roger F. Wicker,R,0
-Claiborne,County Precinct 1-C,U.S. Senate,,Richard Warren Boyanton,R,
-Claiborne,County Precinct 1-C,U.S. Senate,,Roger F. Wicker,R,
+Claiborne,County Precinct 1-C,U.S. Senate,,Richard Warren Boyanton,R,X
+Claiborne,County Precinct 1-C,U.S. Senate,,Roger F. Wicker,R,X
 Claiborne,County Precinct 2-A,U.S. Senate,,Richard Warren Boyanton,R,1
 Claiborne,County Precinct 2-A,U.S. Senate,,Roger F. Wicker,R,15
 Claiborne,County Precinct 2-B,U.S. Senate,,Richard Warren Boyanton,R,0
@@ -1924,8 +1924,8 @@ Claiborne,County Precinct 4-A,U.S. Senate,,Richard Warren Boyanton,R,1
 Claiborne,County Precinct 4-A,U.S. Senate,,Roger F. Wicker,R,8
 Claiborne,County Precinct 4-B,U.S. Senate,,Richard Warren Boyanton,R,0
 Claiborne,County Precinct 4-B,U.S. Senate,,Roger F. Wicker,R,0
-Claiborne,County Precinct 4-C,U.S. Senate,,Richard Warren Boyanton,R,
-Claiborne,County Precinct 4-C,U.S. Senate,,Roger F. Wicker,R,
+Claiborne,County Precinct 4-C,U.S. Senate,,Richard Warren Boyanton,R,X
+Claiborne,County Precinct 4-C,U.S. Senate,,Roger F. Wicker,R,X
 Claiborne,County Precinct 4-D,U.S. Senate,,Richard Warren Boyanton,R,2
 Claiborne,County Precinct 4-D,U.S. Senate,,Roger F. Wicker,R,8
 Claiborne,County Precinct 5-A,U.S. Senate,,Richard Warren Boyanton,R,0
@@ -1946,12 +1946,12 @@ Claiborne,County Precinct 1-B,U.S. Senate,,Jerone Garland,D,0
 Claiborne,County Precinct 1-B,U.S. Senate,,Victor G. Maurice Jr.,D,1
 Claiborne,County Precinct 1-B,U.S. Senate,,Omeria Scott,D,19
 Claiborne,County Precinct 1-B,U.S. Senate,,Howard Sherman,D,8
-Claiborne,County Precinct 1-C,U.S. Senate,,David Baria,D,
-Claiborne,County Precinct 1-C,U.S. Senate,,Jensen Bohren,D,
-Claiborne,County Precinct 1-C,U.S. Senate,,Jerone Garland,D,
-Claiborne,County Precinct 1-C,U.S. Senate,,Victor G. Maurice Jr.,D,
-Claiborne,County Precinct 1-C,U.S. Senate,,Omeria Scott,D,
-Claiborne,County Precinct 1-C,U.S. Senate,,Howard Sherman,D,
+Claiborne,County Precinct 1-C,U.S. Senate,,David Baria,D,x
+Claiborne,County Precinct 1-C,U.S. Senate,,Jensen Bohren,D,x
+Claiborne,County Precinct 1-C,U.S. Senate,,Jerone Garland,D,x
+Claiborne,County Precinct 1-C,U.S. Senate,,Victor G. Maurice Jr.,D,x
+Claiborne,County Precinct 1-C,U.S. Senate,,Omeria Scott,D,x
+Claiborne,County Precinct 1-C,U.S. Senate,,Howard Sherman,D,x
 Claiborne,County Precinct 2-A,U.S. Senate,,David Baria,D,19
 Claiborne,County Precinct 2-A,U.S. Senate,,Jensen Bohren,D,0
 Claiborne,County Precinct 2-A,U.S. Senate,,Jerone Garland,D,1
@@ -1988,12 +1988,12 @@ Claiborne,County Precinct 4-B,U.S. Senate,,Jerone Garland,D,4
 Claiborne,County Precinct 4-B,U.S. Senate,,Victor G. Maurice Jr.,D,9
 Claiborne,County Precinct 4-B,U.S. Senate,,Omeria Scott,D,19
 Claiborne,County Precinct 4-B,U.S. Senate,,Howard Sherman,D,21
-Claiborne,County Precinct 4-C,U.S. Senate,,David Baria,D,
-Claiborne,County Precinct 4-C,U.S. Senate,,Jensen Bohren,D,
-Claiborne,County Precinct 4-C,U.S. Senate,,Jerone Garland,D,
-Claiborne,County Precinct 4-C,U.S. Senate,,Victor G. Maurice Jr.,D,
-Claiborne,County Precinct 4-C,U.S. Senate,,Omeria Scott,D,
-Claiborne,County Precinct 4-C,U.S. Senate,,Howard Sherman,D,
+Claiborne,County Precinct 4-C,U.S. Senate,,David Baria,D,x
+Claiborne,County Precinct 4-C,U.S. Senate,,Jensen Bohren,D,x
+Claiborne,County Precinct 4-C,U.S. Senate,,Jerone Garland,D,x
+Claiborne,County Precinct 4-C,U.S. Senate,,Victor G. Maurice Jr.,D,x
+Claiborne,County Precinct 4-C,U.S. Senate,,Omeria Scott,D,x
+Claiborne,County Precinct 4-C,U.S. Senate,,Howard Sherman,D,x
 Claiborne,County Precinct 4-D,U.S. Senate,,David Baria,D,5
 Claiborne,County Precinct 4-D,U.S. Senate,,Jensen Bohren,D,0
 Claiborne,County Precinct 4-D,U.S. Senate,,Jerone Garland,D,0
@@ -2020,14 +2020,14 @@ Claiborne,TOTAL,U.S. Senate,,Omeria Scott,D,218
 Claiborne,TOTAL,U.S. Senate,,Howard Sherman,D,196
 Claiborne,County Precinct 1-A,U.S. House,02,Bennie G. Thompson,D,121
 Claiborne,County Precinct 1-B,U.S. House,02,Bennie G. Thompson,D,48
-Claiborne,County Precinct 1-C,U.S. House,02,Bennie G. Thompson,D,
+Claiborne,County Precinct 1-C,U.S. House,02,Bennie G. Thompson,D,x
 Claiborne,County Precinct 2-A,U.S. House,02,Bennie G. Thompson,D,79
 Claiborne,County Precinct 2-B,U.S. House,02,Bennie G. Thompson,D,55
 Claiborne,County Precinct 3-A,U.S. House,02,Bennie G. Thompson,D,110
 Claiborne,County Precinct 3-B,U.S. House,02,Bennie G. Thompson,D,4
 Claiborne,County Precinct 4-A,U.S. House,02,Bennie G. Thompson,D,61
 Claiborne,County Precinct 4-B,U.S. House,02,Bennie G. Thompson,D,76
-Claiborne,County Precinct 4-C,U.S. House,02,Bennie G. Thompson,D,
+Claiborne,County Precinct 4-C,U.S. House,02,Bennie G. Thompson,D,x
 Claiborne,County Precinct 4-D,U.S. House,02,Bennie G. Thompson,D,7
 Claiborne,County Precinct 5-A,U.S. House,02,Bennie G. Thompson,D,67
 Claiborne,County Precinct 5-B,U.S. House,02,Bennie G. Thompson,D,77
@@ -2086,12 +2086,12 @@ Clarke,Beaverdam,U.S. House,03,Michael Guest,R,3
 Clarke,Beaverdam,U.S. House,03,Whit Hughes,R,3
 Clarke,Beaverdam,U.S. House,03,Perry Parker,R,0
 Clarke,Beaverdam,U.S. House,03,Katherine 'Bitzi' Tate,R,2
-Clarke,Carmichael,U.S. House,03,Sally Doty,R,
-Clarke,Carmichael,U.S. House,03,Morgan Dunn,R,
-Clarke,Carmichael,U.S. House,03,Michael Guest,R,
-Clarke,Carmichael,U.S. House,03,Whit Hughes,R,
-Clarke,Carmichael,U.S. House,03,Perry Parker,R,
-Clarke,Carmichael,U.S. House,03,Katherine 'Bitzi' Tate,R,
+Clarke,Carmichael,U.S. House,03,Sally Doty,R,x
+Clarke,Carmichael,U.S. House,03,Morgan Dunn,R,x
+Clarke,Carmichael,U.S. House,03,Michael Guest,R,x
+Clarke,Carmichael,U.S. House,03,Whit Hughes,R,x
+Clarke,Carmichael,U.S. House,03,Perry Parker,R,x
+Clarke,Carmichael,U.S. House,03,Katherine 'Bitzi' Tate,R,x
 Clarke,Desoto,U.S. House,03,Sally Doty,R,3
 Clarke,Desoto,U.S. House,03,Morgan Dunn,R,6
 Clarke,Desoto,U.S. House,03,Michael Guest,R,14
@@ -2134,18 +2134,18 @@ Clarke,Harmony Dist. 2,U.S. House,03,Michael Guest,R,16
 Clarke,Harmony Dist. 2,U.S. House,03,Whit Hughes,R,14
 Clarke,Harmony Dist. 2,U.S. House,03,Perry Parker,R,17
 Clarke,Harmony Dist. 2,U.S. House,03,Katherine 'Bitzi' Tate,R,0
-Clarke,Langsdale,U.S. House,03,Sally Doty,R,
-Clarke,Langsdale,U.S. House,03,Morgan Dunn,R,
-Clarke,Langsdale,U.S. House,03,Michael Guest,R,
-Clarke,Langsdale,U.S. House,03,Whit Hughes,R,
-Clarke,Langsdale,U.S. House,03,Perry Parker,R,
-Clarke,Langsdale,U.S. House,03,Katherine 'Bitzi' Tate,R,
-Clarke,Manassa,U.S. House,03,Sally Doty,R,
-Clarke,Manassa,U.S. House,03,Morgan Dunn,R,
-Clarke,Manassa,U.S. House,03,Michael Guest,R,
-Clarke,Manassa,U.S. House,03,Whit Hughes,R,
-Clarke,Manassa,U.S. House,03,Perry Parker,R,
-Clarke,Manassa,U.S. House,03,Katherine 'Bitzi' Tate,R,
+Clarke,Langsdale,U.S. House,03,Sally Doty,R,x
+Clarke,Langsdale,U.S. House,03,Morgan Dunn,R,x
+Clarke,Langsdale,U.S. House,03,Michael Guest,R,x
+Clarke,Langsdale,U.S. House,03,Whit Hughes,R,x
+Clarke,Langsdale,U.S. House,03,Perry Parker,R,x
+Clarke,Langsdale,U.S. House,03,Katherine 'Bitzi' Tate,R,x
+Clarke,Manassa,U.S. House,03,Sally Doty,R,x
+Clarke,Manassa,U.S. House,03,Morgan Dunn,R,x
+Clarke,Manassa,U.S. House,03,Michael Guest,R,x
+Clarke,Manassa,U.S. House,03,Whit Hughes,R,x
+Clarke,Manassa,U.S. House,03,Perry Parker,R,x
+Clarke,Manassa,U.S. House,03,Katherine 'Bitzi' Tate,R,x
 Clarke,North Quitman,U.S. House,03,Sally Doty,R,1
 Clarke,North Quitman,U.S. House,03,Morgan Dunn,R,12
 Clarke,North Quitman,U.S. House,03,Michael Guest,R,34
@@ -2170,12 +2170,12 @@ Clarke,Rolling Creek,U.S. House,03,Michael Guest,R,19
 Clarke,Rolling Creek,U.S. House,03,Whit Hughes,R,17
 Clarke,Rolling Creek,U.S. House,03,Perry Parker,R,12
 Clarke,Rolling Creek,U.S. House,03,Katherine 'Bitzi' Tate,R,2
-Clarke,Shubuta,U.S. House,03,Sally Doty,R,
-Clarke,Shubuta,U.S. House,03,Morgan Dunn,R,
-Clarke,Shubuta,U.S. House,03,Michael Guest,R,
-Clarke,Shubuta,U.S. House,03,Whit Hughes,R,
-Clarke,Shubuta,U.S. House,03,Perry Parker,R,
-Clarke,Shubuta,U.S. House,03,Katherine 'Bitzi' Tate,R,
+Clarke,Shubuta,U.S. House,03,Sally Doty,R,x
+Clarke,Shubuta,U.S. House,03,Morgan Dunn,R,x
+Clarke,Shubuta,U.S. House,03,Michael Guest,R,x
+Clarke,Shubuta,U.S. House,03,Whit Hughes,R,x
+Clarke,Shubuta,U.S. House,03,Perry Parker,R,x
+Clarke,Shubuta,U.S. House,03,Katherine 'Bitzi' Tate,R,x
 Clarke,Snell,U.S. House,03,Sally Doty,R,2
 Clarke,Snell,U.S. House,03,Morgan Dunn,R,9
 Clarke,Snell,U.S. House,03,Michael Guest,R,18
@@ -2194,12 +2194,12 @@ Clarke,South Quitman,U.S. House,03,Michael Guest,R,38
 Clarke,South Quitman,U.S. House,03,Whit Hughes,R,13
 Clarke,South Quitman,U.S. House,03,Perry Parker,R,15
 Clarke,South Quitman,U.S. House,03,Katherine 'Bitzi' Tate,R,1
-Clarke,Springs,U.S. House,03,Sally Doty,R,
-Clarke,Springs,U.S. House,03,Morgan Dunn,R,
-Clarke,Springs,U.S. House,03,Michael Guest,R,
-Clarke,Springs,U.S. House,03,Whit Hughes,R,
-Clarke,Springs,U.S. House,03,Perry Parker,R,
-Clarke,Springs,U.S. House,03,Katherine 'Bitzi' Tate,R,
+Clarke,Springs,U.S. House,03,Sally Doty,R,x
+Clarke,Springs,U.S. House,03,Morgan Dunn,R,x
+Clarke,Springs,U.S. House,03,Michael Guest,R,x
+Clarke,Springs,U.S. House,03,Whit Hughes,R,x
+Clarke,Springs,U.S. House,03,Perry Parker,R,x
+Clarke,Springs,U.S. House,03,Katherine 'Bitzi' Tate,R,x
 Clarke,Stonewall Dist. 3,U.S. House,03,Sally Doty,R,0
 Clarke,Stonewall Dist. 3,U.S. House,03,Morgan Dunn,R,38
 Clarke,Stonewall Dist. 3,U.S. House,03,Michael Guest,R,39
@@ -2224,52 +2224,52 @@ Clarke,TOTAL,U.S. House,03,Michael Guest,R,486
 Clarke,TOTAL,U.S. House,03,Whit Hughes,R,357
 Clarke,TOTAL,U.S. House,03,Perry Parker,R,237
 Clarke,TOTAL,U.S. House,03,Katherine 'Bitzi' Tate,R,13
-Clarke,Beaverdam,U.S. House,04,Steven Palazzo,R,
-Clarke,Beaverdam,U.S. House,04,E. Brian Rose,R,
+Clarke,Beaverdam,U.S. House,04,Steven Palazzo,R,x
+Clarke,Beaverdam,U.S. House,04,E. Brian Rose,R,x
 Clarke,Carmichael,U.S. House,04,Steven Palazzo,R,38
 Clarke,Carmichael,U.S. House,04,E. Brian Rose,R,2
-Clarke,Desoto,U.S. House,04,Steven Palazzo,R,
-Clarke,Desoto,U.S. House,04,E. Brian Rose,R,
-Clarke,East Quitman,U.S. House,04,Steven Palazzo,R,
-Clarke,East Quitman,U.S. House,04,E. Brian Rose,R,
-Clarke,Energy,U.S. House,04,Steven Palazzo,R,
-Clarke,Energy,U.S. House,04,E. Brian Rose,R,
-Clarke,Enterprise,U.S. House,04,Steven Palazzo,R,
-Clarke,Enterprise,U.S. House,04,E. Brian Rose,R,
-Clarke,Hopewell,U.S. House,04,Steven Palazzo,R,
-Clarke,Hopewell,U.S. House,04,E. Brian Rose,R,
-Clarke,Harmony Dist. 1,U.S. House,04,Steven Palazzo,R,
-Clarke,Harmony Dist. 1,U.S. House,04,E. Brian Rose,R,
-Clarke,Harmony Dist. 2,U.S. House,04,Steven Palazzo,R,
-Clarke,Harmony Dist. 2,U.S. House,04,E. Brian Rose,R,
+Clarke,Desoto,U.S. House,04,Steven Palazzo,R,x
+Clarke,Desoto,U.S. House,04,E. Brian Rose,R,x
+Clarke,East Quitman,U.S. House,04,Steven Palazzo,R,x
+Clarke,East Quitman,U.S. House,04,E. Brian Rose,R,x
+Clarke,Energy,U.S. House,04,Steven Palazzo,R,x
+Clarke,Energy,U.S. House,04,E. Brian Rose,R,x
+Clarke,Enterprise,U.S. House,04,Steven Palazzo,R,x
+Clarke,Enterprise,U.S. House,04,E. Brian Rose,R,x
+Clarke,Hopewell,U.S. House,04,Steven Palazzo,R,x
+Clarke,Hopewell,U.S. House,04,E. Brian Rose,R,x
+Clarke,Harmony Dist. 1,U.S. House,04,Steven Palazzo,R,x
+Clarke,Harmony Dist. 1,U.S. House,04,E. Brian Rose,R,x
+Clarke,Harmony Dist. 2,U.S. House,04,Steven Palazzo,R,x
+Clarke,Harmony Dist. 2,U.S. House,04,E. Brian Rose,R,x
 Clarke,Langsdale,U.S. House,04,Steven Palazzo,R,7
 Clarke,Langsdale,U.S. House,04,E. Brian Rose,R,2
 Clarke,Manassa,U.S. House,04,Steven Palazzo,R,23
 Clarke,Manassa,U.S. House,04,E. Brian Rose,R,3
-Clarke,North Quitman,U.S. House,04,Steven Palazzo,R,
-Clarke,North Quitman,U.S. House,04,E. Brian Rose,R,
-Clarke,Oakgrove,U.S. House,04,Steven Palazzo,R,
-Clarke,Oakgrove,U.S. House,04,E. Brian Rose,R,
-Clarke,Pachuta,U.S. House,04,Steven Palazzo,R,
-Clarke,Pachuta,U.S. House,04,E. Brian Rose,R,
-Clarke,Rolling Creek,U.S. House,04,Steven Palazzo,R,
-Clarke,Rolling Creek,U.S. House,04,E. Brian Rose,R,
+Clarke,North Quitman,U.S. House,04,Steven Palazzo,R,x
+Clarke,North Quitman,U.S. House,04,E. Brian Rose,R,x
+Clarke,Oakgrove,U.S. House,04,Steven Palazzo,R,x
+Clarke,Oakgrove,U.S. House,04,E. Brian Rose,R,x
+Clarke,Pachuta,U.S. House,04,Steven Palazzo,R,x
+Clarke,Pachuta,U.S. House,04,E. Brian Rose,R,x
+Clarke,Rolling Creek,U.S. House,04,Steven Palazzo,R,x
+Clarke,Rolling Creek,U.S. House,04,E. Brian Rose,R,x
 Clarke,Shubuta,U.S. House,04,Steven Palazzo,R,16
 Clarke,Shubuta,U.S. House,04,E. Brian Rose,R,5
-Clarke,Snell,U.S. House,04,Steven Palazzo,R,
-Clarke,Snell,U.S. House,04,E. Brian Rose,R,
-Clarke,Souinlovie,U.S. House,04,Steven Palazzo,R,
-Clarke,Souinlovie,U.S. House,04,E. Brian Rose,R,
-Clarke,South Quitman,U.S. House,04,Steven Palazzo,R,
-Clarke,South Quitman,U.S. House,04,E. Brian Rose,R,
+Clarke,Snell,U.S. House,04,Steven Palazzo,R,x
+Clarke,Snell,U.S. House,04,E. Brian Rose,R,x
+Clarke,Souinlovie,U.S. House,04,Steven Palazzo,R,x
+Clarke,Souinlovie,U.S. House,04,E. Brian Rose,R,x
+Clarke,South Quitman,U.S. House,04,Steven Palazzo,R,x
+Clarke,South Quitman,U.S. House,04,E. Brian Rose,R,x
 Clarke,Springs,U.S. House,04,Steven Palazzo,R,16
 Clarke,Springs,U.S. House,04,E. Brian Rose,R,3
-Clarke,Stonewall Dist. 3,U.S. House,04,Steven Palazzo,R,
-Clarke,Stonewall Dist. 3,U.S. House,04,E. Brian Rose,R,
-Clarke,Stonewall Dist. 1,U.S. House,04,Steven Palazzo,R,
-Clarke,Stonewall Dist. 1,U.S. House,04,E. Brian Rose,R,
-Clarke,Union,U.S. House,04,Steven Palazzo,R,
-Clarke,Union,U.S. House,04,E. Brian Rose,R,
+Clarke,Stonewall Dist. 3,U.S. House,04,Steven Palazzo,R,x
+Clarke,Stonewall Dist. 3,U.S. House,04,E. Brian Rose,R,x
+Clarke,Stonewall Dist. 1,U.S. House,04,Steven Palazzo,R,x
+Clarke,Stonewall Dist. 1,U.S. House,04,E. Brian Rose,R,x
+Clarke,Union,U.S. House,04,Steven Palazzo,R,x
+Clarke,Union,U.S. House,04,E. Brian Rose,R,x
 Clarke,TOTAL,U.S. House,04,Steven Palazzo,R,100
 Clarke,TOTAL,U.S. House,04,E. Brian Rose,R,15
 Clarke,Beaverdam,U.S. Senate,,David Baria,D,2
@@ -2418,8 +2418,8 @@ Clarke,TOTAL,U.S. Senate,,Omeria Scott,D,382
 Clarke,TOTAL,U.S. Senate,,Howard Sherman,D,177
 Clarke,Beaverdam,U.S. House,03,Michael Aycox,D,9
 Clarke,Beaverdam,U.S. House,03,Michael Ted Evans,D,28
-Clarke,Carmichael,U.S. House,03,Michael Aycox,D,
-Clarke,Carmichael,U.S. House,03,Michael Ted Evans,D,
+Clarke,Carmichael,U.S. House,03,Michael Aycox,D,x
+Clarke,Carmichael,U.S. House,03,Michael Ted Evans,D,x
 Clarke,Desoto,U.S. House,03,Michael Aycox,D,6
 Clarke,Desoto,U.S. House,03,Michael Ted Evans,D,23
 Clarke,East Quitman,U.S. House,03,Michael Aycox,D,8
@@ -2434,10 +2434,10 @@ Clarke,Harmony Dist. 1,U.S. House,03,Michael Aycox,D,3
 Clarke,Harmony Dist. 1,U.S. House,03,Michael Ted Evans,D,9
 Clarke,Harmony Dist. 2,U.S. House,03,Michael Aycox,D,5
 Clarke,Harmony Dist. 2,U.S. House,03,Michael Ted Evans,D,13
-Clarke,Langsdale,U.S. House,03,Michael Aycox,D,
-Clarke,Langsdale,U.S. House,03,Michael Ted Evans,D,
-Clarke,Manassa,U.S. House,03,Michael Aycox,D,
-Clarke,Manassa,U.S. House,03,Michael Ted Evans,D,
+Clarke,Langsdale,U.S. House,03,Michael Aycox,D,x
+Clarke,Langsdale,U.S. House,03,Michael Ted Evans,D,x
+Clarke,Manassa,U.S. House,03,Michael Aycox,D,x
+Clarke,Manassa,U.S. House,03,Michael Ted Evans,D,x
 Clarke,North Quitman,U.S. House,03,Michael Aycox,D,1
 Clarke,North Quitman,U.S. House,03,Michael Ted Evans,D,15
 Clarke,Oakgrove,U.S. House,03,Michael Aycox,D,7
@@ -2446,16 +2446,16 @@ Clarke,Pachuta,U.S. House,03,Michael Aycox,D,20
 Clarke,Pachuta,U.S. House,03,Michael Ted Evans,D,37
 Clarke,Rolling Creek,U.S. House,03,Michael Aycox,D,1
 Clarke,Rolling Creek,U.S. House,03,Michael Ted Evans,D,3
-Clarke,Shubuta,U.S. House,03,Michael Aycox,D,
-Clarke,Shubuta,U.S. House,03,Michael Ted Evans,D,
+Clarke,Shubuta,U.S. House,03,Michael Aycox,D,x
+Clarke,Shubuta,U.S. House,03,Michael Ted Evans,D,x
 Clarke,Snell,U.S. House,03,Michael Aycox,D,0
 Clarke,Snell,U.S. House,03,Michael Ted Evans,D,2
 Clarke,Souinlovie,U.S. House,03,Michael Aycox,D,8
 Clarke,Souinlovie,U.S. House,03,Michael Ted Evans,D,8
 Clarke,South Quitman,U.S. House,03,Michael Aycox,D,24
 Clarke,South Quitman,U.S. House,03,Michael Ted Evans,D,81
-Clarke,Springs,U.S. House,03,Michael Aycox,D,
-Clarke,Springs,U.S. House,03,Michael Ted Evans,D,
+Clarke,Springs,U.S. House,03,Michael Aycox,D,x
+Clarke,Springs,U.S. House,03,Michael Ted Evans,D,x
 Clarke,Stonewall Dist. 3,U.S. House,03,Michael Aycox,D,4
 Clarke,Stonewall Dist. 3,U.S. House,03,Michael Ted Evans,D,8
 Clarke,Stonewall Dist. 1,U.S. House,03,Michael Aycox,D,13
@@ -2464,29 +2464,29 @@ Clarke,Union,U.S. House,03,Michael Aycox,D,4
 Clarke,Union,U.S. House,03,Michael Ted Evans,D,1
 Clarke,TOTAL,U.S. House,03,Michael Aycox,D,142
 Clarke,TOTAL,U.S. House,03,Michael Ted Evans,D,355
-Clarke,Beaverdam,U.S. House,04,Jeramey Anderson,D,
+Clarke,Beaverdam,U.S. House,04,Jeramey Anderson,D,x
 Clarke,Carmichael,U.S. House,04,Jeramey Anderson,D,21
-Clarke,Desoto,U.S. House,04,Jeramey Anderson,D,
-Clarke,East Quitman,U.S. House,04,Jeramey Anderson,D,
-Clarke,Energy,U.S. House,04,Jeramey Anderson,D,
-Clarke,Enterprise,U.S. House,04,Jeramey Anderson,D,
-Clarke,Hopewell,U.S. House,04,Jeramey Anderson,D,
-Clarke,Harmony Dist. 1,U.S. House,04,Jeramey Anderson,D,
-Clarke,Harmony Dist. 2,U.S. House,04,Jeramey Anderson,D,
+Clarke,Desoto,U.S. House,04,Jeramey Anderson,D,x
+Clarke,East Quitman,U.S. House,04,Jeramey Anderson,D,x
+Clarke,Energy,U.S. House,04,Jeramey Anderson,D,x
+Clarke,Enterprise,U.S. House,04,Jeramey Anderson,D,x
+Clarke,Hopewell,U.S. House,04,Jeramey Anderson,D,x
+Clarke,Harmony Dist. 1,U.S. House,04,Jeramey Anderson,D,x
+Clarke,Harmony Dist. 2,U.S. House,04,Jeramey Anderson,D,x
 Clarke,Langsdale,U.S. House,04,Jeramey Anderson,D,4
 Clarke,Manassa,U.S. House,04,Jeramey Anderson,D,1
-Clarke,North Quitman,U.S. House,04,Jeramey Anderson,D,
-Clarke,Oakgrove,U.S. House,04,Jeramey Anderson,D,
-Clarke,Pachuta,U.S. House,04,Jeramey Anderson,D,
-Clarke,Rolling Creek,U.S. House,04,Jeramey Anderson,D,
+Clarke,North Quitman,U.S. House,04,Jeramey Anderson,D,x
+Clarke,Oakgrove,U.S. House,04,Jeramey Anderson,D,x
+Clarke,Pachuta,U.S. House,04,Jeramey Anderson,D,x
+Clarke,Rolling Creek,U.S. House,04,Jeramey Anderson,D,x
 Clarke,Shubuta,U.S. House,04,Jeramey Anderson,D,76
-Clarke,Snell,U.S. House,04,Jeramey Anderson,D,
-Clarke,Souinlovie,U.S. House,04,Jeramey Anderson,D,
-Clarke,South Quitman,U.S. House,04,Jeramey Anderson,D,
+Clarke,Snell,U.S. House,04,Jeramey Anderson,D,x
+Clarke,Souinlovie,U.S. House,04,Jeramey Anderson,D,x
+Clarke,South Quitman,U.S. House,04,Jeramey Anderson,D,x
 Clarke,Springs,U.S. House,04,Jeramey Anderson,D,18
-Clarke,Stonewall Dist. 3,U.S. House,04,Jeramey Anderson,D,
-Clarke,Stonewall Dist. 1,U.S. House,04,Jeramey Anderson,D,
-Clarke,Union,U.S. House,04,Jeramey Anderson,D,
+Clarke,Stonewall Dist. 3,U.S. House,04,Jeramey Anderson,D,x
+Clarke,Stonewall Dist. 1,U.S. House,04,Jeramey Anderson,D,x
+Clarke,Union,U.S. House,04,Jeramey Anderson,D,x
 Clarke,TOTAL,U.S. House,04,Jeramey Anderson,D,120
 Clay,Cairo,U.S. Senate,,Richard Warren Boyanton,R,1
 Clay,Cairo,U.S. Senate,,Roger F. Wicker,R,41
@@ -5968,156 +5968,156 @@ Hinds,Utica 2,U.S. Senate,,Richard Warren Boyanton,R,7
 Hinds,Utica 2,U.S. Senate,,Roger F. Wicker,R,14
 Hinds,TOTAL,U.S. Senate,,Richard Warren Boyanton,R,778
 Hinds,TOTAL,U.S. Senate,,Roger F. Wicker,R,5721
-Hinds,Bolton,U.S. House,03,Sally Doty,R,
-Hinds,Bolton,U.S. House,03,Morgan Dunn,R,
-Hinds,Bolton,U.S. House,03,Michael Guest,R,
-Hinds,Bolton,U.S. House,03,Whit Hughes,R,
-Hinds,Bolton,U.S. House,03,Perry Parker,R,
-Hinds,Bolton,U.S. House,03,Katherine 'Bitzi' Tate,R,
-Hinds,Brownsville,U.S. House,03,Sally Doty,R,
-Hinds,Brownsville,U.S. House,03,Morgan Dunn,R,
-Hinds,Brownsville,U.S. House,03,Michael Guest,R,
-Hinds,Brownsville,U.S. House,03,Whit Hughes,R,
-Hinds,Brownsville,U.S. House,03,Perry Parker,R,
-Hinds,Brownsville,U.S. House,03,Katherine 'Bitzi' Tate,R,
-Hinds,Byram 1,U.S. House,03,Sally Doty,R,
-Hinds,Byram 1,U.S. House,03,Morgan Dunn,R,
-Hinds,Byram 1,U.S. House,03,Michael Guest,R,
-Hinds,Byram 1,U.S. House,03,Whit Hughes,R,
-Hinds,Byram 1,U.S. House,03,Perry Parker,R,
-Hinds,Byram 1,U.S. House,03,Katherine 'Bitzi' Tate,R,
-Hinds,Byram 2,U.S. House,03,Sally Doty,R,
-Hinds,Byram 2,U.S. House,03,Morgan Dunn,R,
-Hinds,Byram 2,U.S. House,03,Michael Guest,R,
-Hinds,Byram 2,U.S. House,03,Whit Hughes,R,
-Hinds,Byram 2,U.S. House,03,Perry Parker,R,
-Hinds,Byram 2,U.S. House,03,Katherine 'Bitzi' Tate,R,
-Hinds,Byram 3,U.S. House,03,Sally Doty,R,
-Hinds,Byram 3,U.S. House,03,Morgan Dunn,R,
-Hinds,Byram 3,U.S. House,03,Michael Guest,R,
-Hinds,Byram 3,U.S. House,03,Whit Hughes,R,
-Hinds,Byram 3,U.S. House,03,Perry Parker,R,
-Hinds,Byram 3,U.S. House,03,Katherine 'Bitzi' Tate,R,
-Hinds,Cayuga,U.S. House,03,Sally Doty,R,
-Hinds,Cayuga,U.S. House,03,Morgan Dunn,R,
-Hinds,Cayuga,U.S. House,03,Michael Guest,R,
-Hinds,Cayuga,U.S. House,03,Whit Hughes,R,
-Hinds,Cayuga,U.S. House,03,Perry Parker,R,
-Hinds,Cayuga,U.S. House,03,Katherine 'Bitzi' Tate,R,
-Hinds,Chapel Hill,U.S. House,03,Sally Doty,R,
-Hinds,Chapel Hill,U.S. House,03,Morgan Dunn,R,
-Hinds,Chapel Hill,U.S. House,03,Michael Guest,R,
-Hinds,Chapel Hill,U.S. House,03,Whit Hughes,R,
-Hinds,Chapel Hill,U.S. House,03,Perry Parker,R,
-Hinds,Chapel Hill,U.S. House,03,Katherine 'Bitzi' Tate,R,
-Hinds,Clinton 1,U.S. House,03,Sally Doty,R,
-Hinds,Clinton 1,U.S. House,03,Morgan Dunn,R,
-Hinds,Clinton 1,U.S. House,03,Michael Guest,R,
-Hinds,Clinton 1,U.S. House,03,Whit Hughes,R,
-Hinds,Clinton 1,U.S. House,03,Perry Parker,R,
-Hinds,Clinton 1,U.S. House,03,Katherine 'Bitzi' Tate,R,
-Hinds,Clinton 2,U.S. House,03,Sally Doty,R,
-Hinds,Clinton 2,U.S. House,03,Morgan Dunn,R,
-Hinds,Clinton 2,U.S. House,03,Michael Guest,R,
-Hinds,Clinton 2,U.S. House,03,Whit Hughes,R,
-Hinds,Clinton 2,U.S. House,03,Perry Parker,R,
-Hinds,Clinton 2,U.S. House,03,Katherine 'Bitzi' Tate,R,
-Hinds,Clinton 3,U.S. House,03,Sally Doty,R,
-Hinds,Clinton 3,U.S. House,03,Morgan Dunn,R,
-Hinds,Clinton 3,U.S. House,03,Michael Guest,R,
-Hinds,Clinton 3,U.S. House,03,Whit Hughes,R,
-Hinds,Clinton 3,U.S. House,03,Perry Parker,R,
-Hinds,Clinton 3,U.S. House,03,Katherine 'Bitzi' Tate,R,
-Hinds,Clinton 4,U.S. House,03,Sally Doty,R,
-Hinds,Clinton 4,U.S. House,03,Morgan Dunn,R,
-Hinds,Clinton 4,U.S. House,03,Michael Guest,R,
-Hinds,Clinton 4,U.S. House,03,Whit Hughes,R,
-Hinds,Clinton 4,U.S. House,03,Perry Parker,R,
-Hinds,Clinton 4,U.S. House,03,Katherine 'Bitzi' Tate,R,
-Hinds,Clinton 5,U.S. House,03,Sally Doty,R,
-Hinds,Clinton 5,U.S. House,03,Morgan Dunn,R,
-Hinds,Clinton 5,U.S. House,03,Michael Guest,R,
-Hinds,Clinton 5,U.S. House,03,Whit Hughes,R,
-Hinds,Clinton 5,U.S. House,03,Perry Parker,R,
-Hinds,Clinton 5,U.S. House,03,Katherine 'Bitzi' Tate,R,
-Hinds,Clinton 6,U.S. House,03,Sally Doty,R,
-Hinds,Clinton 6,U.S. House,03,Morgan Dunn,R,
-Hinds,Clinton 6,U.S. House,03,Michael Guest,R,
-Hinds,Clinton 6,U.S. House,03,Whit Hughes,R,
-Hinds,Clinton 6,U.S. House,03,Perry Parker,R,
-Hinds,Clinton 6,U.S. House,03,Katherine 'Bitzi' Tate,R,
-Hinds,Clinton 7,U.S. House,03,Sally Doty,R,
-Hinds,Clinton 7,U.S. House,03,Morgan Dunn,R,
-Hinds,Clinton 7,U.S. House,03,Michael Guest,R,
-Hinds,Clinton 7,U.S. House,03,Whit Hughes,R,
-Hinds,Clinton 7,U.S. House,03,Perry Parker,R,
-Hinds,Clinton 7,U.S. House,03,Katherine 'Bitzi' Tate,R,
-Hinds,Cynthia,U.S. House,03,Sally Doty,R,
-Hinds,Cynthia,U.S. House,03,Morgan Dunn,R,
-Hinds,Cynthia,U.S. House,03,Michael Guest,R,
-Hinds,Cynthia,U.S. House,03,Whit Hughes,R,
-Hinds,Cynthia,U.S. House,03,Perry Parker,R,
-Hinds,Cynthia,U.S. House,03,Katherine 'Bitzi' Tate,R,
-Hinds,Dry Grove,U.S. House,03,Sally Doty,R,
-Hinds,Dry Grove,U.S. House,03,Morgan Dunn,R,
-Hinds,Dry Grove,U.S. House,03,Michael Guest,R,
-Hinds,Dry Grove,U.S. House,03,Whit Hughes,R,
-Hinds,Dry Grove,U.S. House,03,Perry Parker,R,
-Hinds,Dry Grove,U.S. House,03,Katherine 'Bitzi' Tate,R,
-Hinds,Edwards,U.S. House,03,Sally Doty,R,
-Hinds,Edwards,U.S. House,03,Morgan Dunn,R,
-Hinds,Edwards,U.S. House,03,Michael Guest,R,
-Hinds,Edwards,U.S. House,03,Whit Hughes,R,
-Hinds,Edwards,U.S. House,03,Perry Parker,R,
-Hinds,Edwards,U.S. House,03,Katherine 'Bitzi' Tate,R,
-Hinds,Learned,U.S. House,03,Sally Doty,R,
-Hinds,Learned,U.S. House,03,Morgan Dunn,R,
-Hinds,Learned,U.S. House,03,Michael Guest,R,
-Hinds,Learned,U.S. House,03,Whit Hughes,R,
-Hinds,Learned,U.S. House,03,Perry Parker,R,
-Hinds,Learned,U.S. House,03,Katherine 'Bitzi' Tate,R,
-Hinds,Old Byram,U.S. House,03,Sally Doty,R,
-Hinds,Old Byram,U.S. House,03,Morgan Dunn,R,
-Hinds,Old Byram,U.S. House,03,Michael Guest,R,
-Hinds,Old Byram,U.S. House,03,Whit Hughes,R,
-Hinds,Old Byram,U.S. House,03,Perry Parker,R,
-Hinds,Old Byram,U.S. House,03,Katherine 'Bitzi' Tate,R,
-Hinds,Pinehaven,U.S. House,03,Sally Doty,R,
-Hinds,Pinehaven,U.S. House,03,Morgan Dunn,R,
-Hinds,Pinehaven,U.S. House,03,Michael Guest,R,
-Hinds,Pinehaven,U.S. House,03,Whit Hughes,R,
-Hinds,Pinehaven,U.S. House,03,Perry Parker,R,
-Hinds,Pinehaven,U.S. House,03,Katherine 'Bitzi' Tate,R,
-Hinds,Pocahontas,U.S. House,03,Sally Doty,R,
-Hinds,Pocahontas,U.S. House,03,Morgan Dunn,R,
-Hinds,Pocahontas,U.S. House,03,Michael Guest,R,
-Hinds,Pocahontas,U.S. House,03,Whit Hughes,R,
-Hinds,Pocahontas,U.S. House,03,Perry Parker,R,
-Hinds,Pocahontas,U.S. House,03,Katherine 'Bitzi' Tate,R,
+Hinds,Bolton,U.S. House,03,Sally Doty,R,x
+Hinds,Bolton,U.S. House,03,Morgan Dunn,R,x
+Hinds,Bolton,U.S. House,03,Michael Guest,R,x
+Hinds,Bolton,U.S. House,03,Whit Hughes,R,x
+Hinds,Bolton,U.S. House,03,Perry Parker,R,x
+Hinds,Bolton,U.S. House,03,Katherine 'Bitzi' Tate,R,x
+Hinds,Brownsville,U.S. House,03,Sally Doty,R,x
+Hinds,Brownsville,U.S. House,03,Morgan Dunn,R,x
+Hinds,Brownsville,U.S. House,03,Michael Guest,R,x
+Hinds,Brownsville,U.S. House,03,Whit Hughes,R,x
+Hinds,Brownsville,U.S. House,03,Perry Parker,R,x
+Hinds,Brownsville,U.S. House,03,Katherine 'Bitzi' Tate,R,x
+Hinds,Byram 1,U.S. House,03,Sally Doty,R,x
+Hinds,Byram 1,U.S. House,03,Morgan Dunn,R,x
+Hinds,Byram 1,U.S. House,03,Michael Guest,R,x
+Hinds,Byram 1,U.S. House,03,Whit Hughes,R,x
+Hinds,Byram 1,U.S. House,03,Perry Parker,R,x
+Hinds,Byram 1,U.S. House,03,Katherine 'Bitzi' Tate,R,x
+Hinds,Byram 2,U.S. House,03,Sally Doty,R,x
+Hinds,Byram 2,U.S. House,03,Morgan Dunn,R,x
+Hinds,Byram 2,U.S. House,03,Michael Guest,R,x
+Hinds,Byram 2,U.S. House,03,Whit Hughes,R,x
+Hinds,Byram 2,U.S. House,03,Perry Parker,R,x
+Hinds,Byram 2,U.S. House,03,Katherine 'Bitzi' Tate,R,x
+Hinds,Byram 3,U.S. House,03,Sally Doty,R,x
+Hinds,Byram 3,U.S. House,03,Morgan Dunn,R,x
+Hinds,Byram 3,U.S. House,03,Michael Guest,R,x
+Hinds,Byram 3,U.S. House,03,Whit Hughes,R,x
+Hinds,Byram 3,U.S. House,03,Perry Parker,R,x
+Hinds,Byram 3,U.S. House,03,Katherine 'Bitzi' Tate,R,x
+Hinds,Cayuga,U.S. House,03,Sally Doty,R,x
+Hinds,Cayuga,U.S. House,03,Morgan Dunn,R,x
+Hinds,Cayuga,U.S. House,03,Michael Guest,R,x
+Hinds,Cayuga,U.S. House,03,Whit Hughes,R,x
+Hinds,Cayuga,U.S. House,03,Perry Parker,R,x
+Hinds,Cayuga,U.S. House,03,Katherine 'Bitzi' Tate,R,x
+Hinds,Chapel Hill,U.S. House,03,Sally Doty,R,x
+Hinds,Chapel Hill,U.S. House,03,Morgan Dunn,R,x
+Hinds,Chapel Hill,U.S. House,03,Michael Guest,R,x
+Hinds,Chapel Hill,U.S. House,03,Whit Hughes,R,x
+Hinds,Chapel Hill,U.S. House,03,Perry Parker,R,x
+Hinds,Chapel Hill,U.S. House,03,Katherine 'Bitzi' Tate,R,x
+Hinds,Clinton 1,U.S. House,03,Sally Doty,R,x
+Hinds,Clinton 1,U.S. House,03,Morgan Dunn,R,x
+Hinds,Clinton 1,U.S. House,03,Michael Guest,R,x
+Hinds,Clinton 1,U.S. House,03,Whit Hughes,R,x
+Hinds,Clinton 1,U.S. House,03,Perry Parker,R,x
+Hinds,Clinton 1,U.S. House,03,Katherine 'Bitzi' Tate,R,x
+Hinds,Clinton 2,U.S. House,03,Sally Doty,R,x
+Hinds,Clinton 2,U.S. House,03,Morgan Dunn,R,x
+Hinds,Clinton 2,U.S. House,03,Michael Guest,R,x
+Hinds,Clinton 2,U.S. House,03,Whit Hughes,R,x
+Hinds,Clinton 2,U.S. House,03,Perry Parker,R,x
+Hinds,Clinton 2,U.S. House,03,Katherine 'Bitzi' Tate,R,x
+Hinds,Clinton 3,U.S. House,03,Sally Doty,R,x
+Hinds,Clinton 3,U.S. House,03,Morgan Dunn,R,x
+Hinds,Clinton 3,U.S. House,03,Michael Guest,R,x
+Hinds,Clinton 3,U.S. House,03,Whit Hughes,R,x
+Hinds,Clinton 3,U.S. House,03,Perry Parker,R,x
+Hinds,Clinton 3,U.S. House,03,Katherine 'Bitzi' Tate,R,x
+Hinds,Clinton 4,U.S. House,03,Sally Doty,R,x
+Hinds,Clinton 4,U.S. House,03,Morgan Dunn,R,x
+Hinds,Clinton 4,U.S. House,03,Michael Guest,R,x
+Hinds,Clinton 4,U.S. House,03,Whit Hughes,R,x
+Hinds,Clinton 4,U.S. House,03,Perry Parker,R,x
+Hinds,Clinton 4,U.S. House,03,Katherine 'Bitzi' Tate,R,x
+Hinds,Clinton 5,U.S. House,03,Sally Doty,R,x
+Hinds,Clinton 5,U.S. House,03,Morgan Dunn,R,x
+Hinds,Clinton 5,U.S. House,03,Michael Guest,R,x
+Hinds,Clinton 5,U.S. House,03,Whit Hughes,R,x
+Hinds,Clinton 5,U.S. House,03,Perry Parker,R,x
+Hinds,Clinton 5,U.S. House,03,Katherine 'Bitzi' Tate,R,x
+Hinds,Clinton 6,U.S. House,03,Sally Doty,R,x
+Hinds,Clinton 6,U.S. House,03,Morgan Dunn,R,x
+Hinds,Clinton 6,U.S. House,03,Michael Guest,R,x
+Hinds,Clinton 6,U.S. House,03,Whit Hughes,R,x
+Hinds,Clinton 6,U.S. House,03,Perry Parker,R,x
+Hinds,Clinton 6,U.S. House,03,Katherine 'Bitzi' Tate,R,x
+Hinds,Clinton 7,U.S. House,03,Sally Doty,R,x
+Hinds,Clinton 7,U.S. House,03,Morgan Dunn,R,x
+Hinds,Clinton 7,U.S. House,03,Michael Guest,R,x
+Hinds,Clinton 7,U.S. House,03,Whit Hughes,R,x
+Hinds,Clinton 7,U.S. House,03,Perry Parker,R,x
+Hinds,Clinton 7,U.S. House,03,Katherine 'Bitzi' Tate,R,x
+Hinds,Cynthia,U.S. House,03,Sally Doty,R,x
+Hinds,Cynthia,U.S. House,03,Morgan Dunn,R,x
+Hinds,Cynthia,U.S. House,03,Michael Guest,R,x
+Hinds,Cynthia,U.S. House,03,Whit Hughes,R,x
+Hinds,Cynthia,U.S. House,03,Perry Parker,R,x
+Hinds,Cynthia,U.S. House,03,Katherine 'Bitzi' Tate,R,x
+Hinds,Dry Grove,U.S. House,03,Sally Doty,R,x
+Hinds,Dry Grove,U.S. House,03,Morgan Dunn,R,x
+Hinds,Dry Grove,U.S. House,03,Michael Guest,R,x
+Hinds,Dry Grove,U.S. House,03,Whit Hughes,R,x
+Hinds,Dry Grove,U.S. House,03,Perry Parker,R,x
+Hinds,Dry Grove,U.S. House,03,Katherine 'Bitzi' Tate,R,x
+Hinds,Edwards,U.S. House,03,Sally Doty,R,x
+Hinds,Edwards,U.S. House,03,Morgan Dunn,R,x
+Hinds,Edwards,U.S. House,03,Michael Guest,R,x
+Hinds,Edwards,U.S. House,03,Whit Hughes,R,x
+Hinds,Edwards,U.S. House,03,Perry Parker,R,x
+Hinds,Edwards,U.S. House,03,Katherine 'Bitzi' Tate,R,x
+Hinds,Learned,U.S. House,03,Sally Doty,R,x
+Hinds,Learned,U.S. House,03,Morgan Dunn,R,x
+Hinds,Learned,U.S. House,03,Michael Guest,R,x
+Hinds,Learned,U.S. House,03,Whit Hughes,R,x
+Hinds,Learned,U.S. House,03,Perry Parker,R,x
+Hinds,Learned,U.S. House,03,Katherine 'Bitzi' Tate,R,x
+Hinds,Old Byram,U.S. House,03,Sally Doty,R,x
+Hinds,Old Byram,U.S. House,03,Morgan Dunn,R,x
+Hinds,Old Byram,U.S. House,03,Michael Guest,R,x
+Hinds,Old Byram,U.S. House,03,Whit Hughes,R,x
+Hinds,Old Byram,U.S. House,03,Perry Parker,R,x
+Hinds,Old Byram,U.S. House,03,Katherine 'Bitzi' Tate,R,x
+Hinds,Pinehaven,U.S. House,03,Sally Doty,R,x
+Hinds,Pinehaven,U.S. House,03,Morgan Dunn,R,x
+Hinds,Pinehaven,U.S. House,03,Michael Guest,R,x
+Hinds,Pinehaven,U.S. House,03,Whit Hughes,R,x
+Hinds,Pinehaven,U.S. House,03,Perry Parker,R,x
+Hinds,Pinehaven,U.S. House,03,Katherine 'Bitzi' Tate,R,x
+Hinds,Pocahontas,U.S. House,03,Sally Doty,R,x
+Hinds,Pocahontas,U.S. House,03,Morgan Dunn,R,x
+Hinds,Pocahontas,U.S. House,03,Michael Guest,R,x
+Hinds,Pocahontas,U.S. House,03,Whit Hughes,R,x
+Hinds,Pocahontas,U.S. House,03,Perry Parker,R,x
+Hinds,Pocahontas,U.S. House,03,Katherine 'Bitzi' Tate,R,x
 Hinds,Precinct 01,U.S. House,03,Sally Doty,R,3
 Hinds,Precinct 01,U.S. House,03,Morgan Dunn,R,4
 Hinds,Precinct 01,U.S. House,03,Michael Guest,R,14
 Hinds,Precinct 01,U.S. House,03,Whit Hughes,R,12
 Hinds,Precinct 01,U.S. House,03,Perry Parker,R,3
 Hinds,Precinct 01,U.S. House,03,Katherine 'Bitzi' Tate,R,0
-Hinds,Precinct 02,U.S. House,03,Sally Doty,R,
-Hinds,Precinct 02,U.S. House,03,Morgan Dunn,R,
-Hinds,Precinct 02,U.S. House,03,Michael Guest,R,
-Hinds,Precinct 02,U.S. House,03,Whit Hughes,R,
-Hinds,Precinct 02,U.S. House,03,Perry Parker,R,
-Hinds,Precinct 02,U.S. House,03,Katherine 'Bitzi' Tate,R,
-Hinds,Precinct 04,U.S. House,03,Sally Doty,R,
-Hinds,Precinct 04,U.S. House,03,Morgan Dunn,R,
-Hinds,Precinct 04,U.S. House,03,Michael Guest,R,
-Hinds,Precinct 04,U.S. House,03,Whit Hughes,R,
-Hinds,Precinct 04,U.S. House,03,Perry Parker,R,
-Hinds,Precinct 04,U.S. House,03,Katherine 'Bitzi' Tate,R,
-Hinds,Precinct 06,U.S. House,03,Sally Doty,R,
-Hinds,Precinct 06,U.S. House,03,Morgan Dunn,R,
-Hinds,Precinct 06,U.S. House,03,Michael Guest,R,
-Hinds,Precinct 06,U.S. House,03,Whit Hughes,R,
-Hinds,Precinct 06,U.S. House,03,Perry Parker,R,
-Hinds,Precinct 06,U.S. House,03,Katherine 'Bitzi' Tate,R,
+Hinds,Precinct 02,U.S. House,03,Sally Doty,R,x
+Hinds,Precinct 02,U.S. House,03,Morgan Dunn,R,x
+Hinds,Precinct 02,U.S. House,03,Michael Guest,R,x
+Hinds,Precinct 02,U.S. House,03,Whit Hughes,R,x
+Hinds,Precinct 02,U.S. House,03,Perry Parker,R,x
+Hinds,Precinct 02,U.S. House,03,Katherine 'Bitzi' Tate,R,x
+Hinds,Precinct 04,U.S. House,03,Sally Doty,R,x
+Hinds,Precinct 04,U.S. House,03,Morgan Dunn,R,x
+Hinds,Precinct 04,U.S. House,03,Michael Guest,R,x
+Hinds,Precinct 04,U.S. House,03,Whit Hughes,R,x
+Hinds,Precinct 04,U.S. House,03,Perry Parker,R,x
+Hinds,Precinct 04,U.S. House,03,Katherine 'Bitzi' Tate,R,x
+Hinds,Precinct 06,U.S. House,03,Sally Doty,R,x
+Hinds,Precinct 06,U.S. House,03,Morgan Dunn,R,x
+Hinds,Precinct 06,U.S. House,03,Michael Guest,R,x
+Hinds,Precinct 06,U.S. House,03,Whit Hughes,R,x
+Hinds,Precinct 06,U.S. House,03,Perry Parker,R,x
+Hinds,Precinct 06,U.S. House,03,Katherine 'Bitzi' Tate,R,x
 Hinds,Precinct 08,U.S. House,03,Sally Doty,R,11
 Hinds,Precinct 08,U.S. House,03,Morgan Dunn,R,0
 Hinds,Precinct 08,U.S. House,03,Michael Guest,R,20
@@ -6130,24 +6130,24 @@ Hinds,Precinct 09,U.S. House,03,Michael Guest,R,44
 Hinds,Precinct 09,U.S. House,03,Whit Hughes,R,63
 Hinds,Precinct 09,U.S. House,03,Perry Parker,R,32
 Hinds,Precinct 09,U.S. House,03,Katherine 'Bitzi' Tate,R,1
-Hinds,Precinct 10,U.S. House,03,Sally Doty,R,
-Hinds,Precinct 10,U.S. House,03,Morgan Dunn,R,
-Hinds,Precinct 10,U.S. House,03,Michael Guest,R,
-Hinds,Precinct 10,U.S. House,03,Whit Hughes,R,
-Hinds,Precinct 10,U.S. House,03,Perry Parker,R,
-Hinds,Precinct 10,U.S. House,03,Katherine 'Bitzi' Tate,R,
-Hinds,Precinct 11,U.S. House,03,Sally Doty,R,
-Hinds,Precinct 11,U.S. House,03,Morgan Dunn,R,
-Hinds,Precinct 11,U.S. House,03,Michael Guest,R,
-Hinds,Precinct 11,U.S. House,03,Whit Hughes,R,
-Hinds,Precinct 11,U.S. House,03,Perry Parker,R,
-Hinds,Precinct 11,U.S. House,03,Katherine 'Bitzi' Tate,R,
-Hinds,Precinct 13,U.S. House,03,Sally Doty,R,
-Hinds,Precinct 13,U.S. House,03,Morgan Dunn,R,
-Hinds,Precinct 13,U.S. House,03,Michael Guest,R,
-Hinds,Precinct 13,U.S. House,03,Whit Hughes,R,
-Hinds,Precinct 13,U.S. House,03,Perry Parker,R,
-Hinds,Precinct 13,U.S. House,03,Katherine 'Bitzi' Tate,R,
+Hinds,Precinct 10,U.S. House,03,Sally Doty,R,x
+Hinds,Precinct 10,U.S. House,03,Morgan Dunn,R,x
+Hinds,Precinct 10,U.S. House,03,Michael Guest,R,x
+Hinds,Precinct 10,U.S. House,03,Whit Hughes,R,x
+Hinds,Precinct 10,U.S. House,03,Perry Parker,R,x
+Hinds,Precinct 10,U.S. House,03,Katherine 'Bitzi' Tate,R,x
+Hinds,Precinct 11,U.S. House,03,Sally Doty,R,x
+Hinds,Precinct 11,U.S. House,03,Morgan Dunn,R,x
+Hinds,Precinct 11,U.S. House,03,Michael Guest,R,x
+Hinds,Precinct 11,U.S. House,03,Whit Hughes,R,x
+Hinds,Precinct 11,U.S. House,03,Perry Parker,R,x
+Hinds,Precinct 11,U.S. House,03,Katherine 'Bitzi' Tate,R,x
+Hinds,Precinct 13,U.S. House,03,Sally Doty,R,x
+Hinds,Precinct 13,U.S. House,03,Morgan Dunn,R,x
+Hinds,Precinct 13,U.S. House,03,Michael Guest,R,x
+Hinds,Precinct 13,U.S. House,03,Whit Hughes,R,x
+Hinds,Precinct 13,U.S. House,03,Perry Parker,R,x
+Hinds,Precinct 13,U.S. House,03,Katherine 'Bitzi' Tate,R,x
 Hinds,Precinct 14,U.S. House,03,Sally Doty,R,12
 Hinds,Precinct 14,U.S. House,03,Morgan Dunn,R,3
 Hinds,Precinct 14,U.S. House,03,Michael Guest,R,45
@@ -6160,90 +6160,90 @@ Hinds,Precinct 16,U.S. House,03,Michael Guest,R,46
 Hinds,Precinct 16,U.S. House,03,Whit Hughes,R,36
 Hinds,Precinct 16,U.S. House,03,Perry Parker,R,16
 Hinds,Precinct 16,U.S. House,03,Katherine 'Bitzi' Tate,R,1
-Hinds,Precinct 18,U.S. House,03,Sally Doty,R,
-Hinds,Precinct 18,U.S. House,03,Morgan Dunn,R,
-Hinds,Precinct 18,U.S. House,03,Michael Guest,R,
-Hinds,Precinct 18,U.S. House,03,Whit Hughes,R,
-Hinds,Precinct 18,U.S. House,03,Perry Parker,R,
-Hinds,Precinct 18,U.S. House,03,Katherine 'Bitzi' Tate,R,
-Hinds,Precinct 19,U.S. House,03,Sally Doty,R,
-Hinds,Precinct 19,U.S. House,03,Morgan Dunn,R,
-Hinds,Precinct 19,U.S. House,03,Michael Guest,R,
-Hinds,Precinct 19,U.S. House,03,Whit Hughes,R,
-Hinds,Precinct 19,U.S. House,03,Perry Parker,R,
-Hinds,Precinct 19,U.S. House,03,Katherine 'Bitzi' Tate,R,
-Hinds,Precinct 20,U.S. House,03,Sally Doty,R,
-Hinds,Precinct 20,U.S. House,03,Morgan Dunn,R,
-Hinds,Precinct 20,U.S. House,03,Michael Guest,R,
-Hinds,Precinct 20,U.S. House,03,Whit Hughes,R,
-Hinds,Precinct 20,U.S. House,03,Perry Parker,R,
-Hinds,Precinct 20,U.S. House,03,Katherine 'Bitzi' Tate,R,
-Hinds,Precinct 21,U.S. House,03,Sally Doty,R,
-Hinds,Precinct 21,U.S. House,03,Morgan Dunn,R,
-Hinds,Precinct 21,U.S. House,03,Michael Guest,R,
-Hinds,Precinct 21,U.S. House,03,Whit Hughes,R,
-Hinds,Precinct 21,U.S. House,03,Perry Parker,R,
-Hinds,Precinct 21,U.S. House,03,Katherine 'Bitzi' Tate,R,
-Hinds,Precinct 22,U.S. House,03,Sally Doty,R,
-Hinds,Precinct 22,U.S. House,03,Morgan Dunn,R,
-Hinds,Precinct 22,U.S. House,03,Michael Guest,R,
-Hinds,Precinct 22,U.S. House,03,Whit Hughes,R,
-Hinds,Precinct 22,U.S. House,03,Perry Parker,R,
-Hinds,Precinct 22,U.S. House,03,Katherine 'Bitzi' Tate,R,
-Hinds,Precinct 23,U.S. House,03,Sally Doty,R,
-Hinds,Precinct 23,U.S. House,03,Morgan Dunn,R,
-Hinds,Precinct 23,U.S. House,03,Michael Guest,R,
-Hinds,Precinct 23,U.S. House,03,Whit Hughes,R,
-Hinds,Precinct 23,U.S. House,03,Perry Parker,R,
-Hinds,Precinct 23,U.S. House,03,Katherine 'Bitzi' Tate,R,
-Hinds,Precinct 24,U.S. House,03,Sally Doty,R,
-Hinds,Precinct 24,U.S. House,03,Morgan Dunn,R,
-Hinds,Precinct 24,U.S. House,03,Michael Guest,R,
-Hinds,Precinct 24,U.S. House,03,Whit Hughes,R,
-Hinds,Precinct 24,U.S. House,03,Perry Parker,R,
-Hinds,Precinct 24,U.S. House,03,Katherine 'Bitzi' Tate,R,
-Hinds,Precinct 25,U.S. House,03,Sally Doty,R,
-Hinds,Precinct 25,U.S. House,03,Morgan Dunn,R,
-Hinds,Precinct 25,U.S. House,03,Michael Guest,R,
-Hinds,Precinct 25,U.S. House,03,Whit Hughes,R,
-Hinds,Precinct 25,U.S. House,03,Perry Parker,R,
-Hinds,Precinct 25,U.S. House,03,Katherine 'Bitzi' Tate,R,
-Hinds,Precinct 26,U.S. House,03,Sally Doty,R,
-Hinds,Precinct 26,U.S. House,03,Morgan Dunn,R,
-Hinds,Precinct 26,U.S. House,03,Michael Guest,R,
-Hinds,Precinct 26,U.S. House,03,Whit Hughes,R,
-Hinds,Precinct 26,U.S. House,03,Perry Parker,R,
-Hinds,Precinct 26,U.S. House,03,Katherine 'Bitzi' Tate,R,
-Hinds,Precinct 27,U.S. House,03,Sally Doty,R,
-Hinds,Precinct 27,U.S. House,03,Morgan Dunn,R,
-Hinds,Precinct 27,U.S. House,03,Michael Guest,R,
-Hinds,Precinct 27,U.S. House,03,Whit Hughes,R,
-Hinds,Precinct 27,U.S. House,03,Perry Parker,R,
-Hinds,Precinct 27,U.S. House,03,Katherine 'Bitzi' Tate,R,
-Hinds,Precinct 28,U.S. House,03,Sally Doty,R,
-Hinds,Precinct 28,U.S. House,03,Morgan Dunn,R,
-Hinds,Precinct 28,U.S. House,03,Michael Guest,R,
-Hinds,Precinct 28,U.S. House,03,Whit Hughes,R,
-Hinds,Precinct 28,U.S. House,03,Perry Parker,R,
-Hinds,Precinct 28,U.S. House,03,Katherine 'Bitzi' Tate,R,
-Hinds,Precinct 29,U.S. House,03,Sally Doty,R,
-Hinds,Precinct 29,U.S. House,03,Morgan Dunn,R,
-Hinds,Precinct 29,U.S. House,03,Michael Guest,R,
-Hinds,Precinct 29,U.S. House,03,Whit Hughes,R,
-Hinds,Precinct 29,U.S. House,03,Perry Parker,R,
-Hinds,Precinct 29,U.S. House,03,Katherine 'Bitzi' Tate,R,
-Hinds,Precinct 30,U.S. House,03,Sally Doty,R,
-Hinds,Precinct 30,U.S. House,03,Morgan Dunn,R,
-Hinds,Precinct 30,U.S. House,03,Michael Guest,R,
-Hinds,Precinct 30,U.S. House,03,Whit Hughes,R,
-Hinds,Precinct 30,U.S. House,03,Perry Parker,R,
-Hinds,Precinct 30,U.S. House,03,Katherine 'Bitzi' Tate,R,
-Hinds,Precinct 31,U.S. House,03,Sally Doty,R,
-Hinds,Precinct 31,U.S. House,03,Morgan Dunn,R,
-Hinds,Precinct 31,U.S. House,03,Michael Guest,R,
-Hinds,Precinct 31,U.S. House,03,Whit Hughes,R,
-Hinds,Precinct 31,U.S. House,03,Perry Parker,R,
-Hinds,Precinct 31,U.S. House,03,Katherine 'Bitzi' Tate,R,
+Hinds,Precinct 18,U.S. House,03,Sally Doty,R,x
+Hinds,Precinct 18,U.S. House,03,Morgan Dunn,R,x
+Hinds,Precinct 18,U.S. House,03,Michael Guest,R,x
+Hinds,Precinct 18,U.S. House,03,Whit Hughes,R,x
+Hinds,Precinct 18,U.S. House,03,Perry Parker,R,x
+Hinds,Precinct 18,U.S. House,03,Katherine 'Bitzi' Tate,R,x
+Hinds,Precinct 19,U.S. House,03,Sally Doty,R,x
+Hinds,Precinct 19,U.S. House,03,Morgan Dunn,R,x
+Hinds,Precinct 19,U.S. House,03,Michael Guest,R,x
+Hinds,Precinct 19,U.S. House,03,Whit Hughes,R,x
+Hinds,Precinct 19,U.S. House,03,Perry Parker,R,x
+Hinds,Precinct 19,U.S. House,03,Katherine 'Bitzi' Tate,R,x
+Hinds,Precinct 20,U.S. House,03,Sally Doty,R,x
+Hinds,Precinct 20,U.S. House,03,Morgan Dunn,R,x
+Hinds,Precinct 20,U.S. House,03,Michael Guest,R,x
+Hinds,Precinct 20,U.S. House,03,Whit Hughes,R,x
+Hinds,Precinct 20,U.S. House,03,Perry Parker,R,x
+Hinds,Precinct 20,U.S. House,03,Katherine 'Bitzi' Tate,R,x
+Hinds,Precinct 21,U.S. House,03,Sally Doty,R,x
+Hinds,Precinct 21,U.S. House,03,Morgan Dunn,R,x
+Hinds,Precinct 21,U.S. House,03,Michael Guest,R,x
+Hinds,Precinct 21,U.S. House,03,Whit Hughes,R,x
+Hinds,Precinct 21,U.S. House,03,Perry Parker,R,x
+Hinds,Precinct 21,U.S. House,03,Katherine 'Bitzi' Tate,R,x
+Hinds,Precinct 22,U.S. House,03,Sally Doty,R,x
+Hinds,Precinct 22,U.S. House,03,Morgan Dunn,R,x
+Hinds,Precinct 22,U.S. House,03,Michael Guest,R,x
+Hinds,Precinct 22,U.S. House,03,Whit Hughes,R,x
+Hinds,Precinct 22,U.S. House,03,Perry Parker,R,x
+Hinds,Precinct 22,U.S. House,03,Katherine 'Bitzi' Tate,R,x
+Hinds,Precinct 23,U.S. House,03,Sally Doty,R,x
+Hinds,Precinct 23,U.S. House,03,Morgan Dunn,R,x
+Hinds,Precinct 23,U.S. House,03,Michael Guest,R,x
+Hinds,Precinct 23,U.S. House,03,Whit Hughes,R,x
+Hinds,Precinct 23,U.S. House,03,Perry Parker,R,x
+Hinds,Precinct 23,U.S. House,03,Katherine 'Bitzi' Tate,R,x
+Hinds,Precinct 24,U.S. House,03,Sally Doty,R,x
+Hinds,Precinct 24,U.S. House,03,Morgan Dunn,R,x
+Hinds,Precinct 24,U.S. House,03,Michael Guest,R,x
+Hinds,Precinct 24,U.S. House,03,Whit Hughes,R,x
+Hinds,Precinct 24,U.S. House,03,Perry Parker,R,x
+Hinds,Precinct 24,U.S. House,03,Katherine 'Bitzi' Tate,R,x
+Hinds,Precinct 25,U.S. House,03,Sally Doty,R,x
+Hinds,Precinct 25,U.S. House,03,Morgan Dunn,R,x
+Hinds,Precinct 25,U.S. House,03,Michael Guest,R,x
+Hinds,Precinct 25,U.S. House,03,Whit Hughes,R,x
+Hinds,Precinct 25,U.S. House,03,Perry Parker,R,x
+Hinds,Precinct 25,U.S. House,03,Katherine 'Bitzi' Tate,R,x
+Hinds,Precinct 26,U.S. House,03,Sally Doty,R,x
+Hinds,Precinct 26,U.S. House,03,Morgan Dunn,R,x
+Hinds,Precinct 26,U.S. House,03,Michael Guest,R,x
+Hinds,Precinct 26,U.S. House,03,Whit Hughes,R,x
+Hinds,Precinct 26,U.S. House,03,Perry Parker,R,x
+Hinds,Precinct 26,U.S. House,03,Katherine 'Bitzi' Tate,R,x
+Hinds,Precinct 27,U.S. House,03,Sally Doty,R,x
+Hinds,Precinct 27,U.S. House,03,Morgan Dunn,R,x
+Hinds,Precinct 27,U.S. House,03,Michael Guest,R,x
+Hinds,Precinct 27,U.S. House,03,Whit Hughes,R,x
+Hinds,Precinct 27,U.S. House,03,Perry Parker,R,x
+Hinds,Precinct 27,U.S. House,03,Katherine 'Bitzi' Tate,R,x
+Hinds,Precinct 28,U.S. House,03,Sally Doty,R,x
+Hinds,Precinct 28,U.S. House,03,Morgan Dunn,R,x
+Hinds,Precinct 28,U.S. House,03,Michael Guest,R,x
+Hinds,Precinct 28,U.S. House,03,Whit Hughes,R,x
+Hinds,Precinct 28,U.S. House,03,Perry Parker,R,x
+Hinds,Precinct 28,U.S. House,03,Katherine 'Bitzi' Tate,R,x
+Hinds,Precinct 29,U.S. House,03,Sally Doty,R,x
+Hinds,Precinct 29,U.S. House,03,Morgan Dunn,R,x
+Hinds,Precinct 29,U.S. House,03,Michael Guest,R,x
+Hinds,Precinct 29,U.S. House,03,Whit Hughes,R,x
+Hinds,Precinct 29,U.S. House,03,Perry Parker,R,x
+Hinds,Precinct 29,U.S. House,03,Katherine 'Bitzi' Tate,R,x
+Hinds,Precinct 30,U.S. House,03,Sally Doty,R,x
+Hinds,Precinct 30,U.S. House,03,Morgan Dunn,R,x
+Hinds,Precinct 30,U.S. House,03,Michael Guest,R,x
+Hinds,Precinct 30,U.S. House,03,Whit Hughes,R,x
+Hinds,Precinct 30,U.S. House,03,Perry Parker,R,x
+Hinds,Precinct 30,U.S. House,03,Katherine 'Bitzi' Tate,R,x
+Hinds,Precinct 31,U.S. House,03,Sally Doty,R,x
+Hinds,Precinct 31,U.S. House,03,Morgan Dunn,R,x
+Hinds,Precinct 31,U.S. House,03,Michael Guest,R,x
+Hinds,Precinct 31,U.S. House,03,Whit Hughes,R,x
+Hinds,Precinct 31,U.S. House,03,Perry Parker,R,x
+Hinds,Precinct 31,U.S. House,03,Katherine 'Bitzi' Tate,R,x
 Hinds,Precinct 32,U.S. House,03,Sally Doty,R,15
 Hinds,Precinct 32,U.S. House,03,Morgan Dunn,R,4
 Hinds,Precinct 32,U.S. House,03,Michael Guest,R,58
@@ -6280,42 +6280,42 @@ Hinds,Precinct 37,U.S. House,03,Michael Guest,R,8
 Hinds,Precinct 37,U.S. House,03,Whit Hughes,R,20
 Hinds,Precinct 37,U.S. House,03,Perry Parker,R,14
 Hinds,Precinct 37,U.S. House,03,Katherine 'Bitzi' Tate,R,1
-Hinds,Precinct 38,U.S. House,03,Sally Doty,R,
-Hinds,Precinct 38,U.S. House,03,Morgan Dunn,R,
-Hinds,Precinct 38,U.S. House,03,Michael Guest,R,
-Hinds,Precinct 38,U.S. House,03,Whit Hughes,R,
-Hinds,Precinct 38,U.S. House,03,Perry Parker,R,
-Hinds,Precinct 38,U.S. House,03,Katherine 'Bitzi' Tate,R,
-Hinds,Precinct 39,U.S. House,03,Sally Doty,R,
-Hinds,Precinct 39,U.S. House,03,Morgan Dunn,R,
-Hinds,Precinct 39,U.S. House,03,Michael Guest,R,
-Hinds,Precinct 39,U.S. House,03,Whit Hughes,R,
-Hinds,Precinct 39,U.S. House,03,Perry Parker,R,
-Hinds,Precinct 39,U.S. House,03,Katherine 'Bitzi' Tate,R,
-Hinds,Precinct 40,U.S. House,03,Sally Doty,R,
-Hinds,Precinct 40,U.S. House,03,Morgan Dunn,R,
-Hinds,Precinct 40,U.S. House,03,Michael Guest,R,
-Hinds,Precinct 40,U.S. House,03,Whit Hughes,R,
-Hinds,Precinct 40,U.S. House,03,Perry Parker,R,
-Hinds,Precinct 40,U.S. House,03,Katherine 'Bitzi' Tate,R,
-Hinds,Precinct 41,U.S. House,03,Sally Doty,R,
-Hinds,Precinct 41,U.S. House,03,Morgan Dunn,R,
-Hinds,Precinct 41,U.S. House,03,Michael Guest,R,
-Hinds,Precinct 41,U.S. House,03,Whit Hughes,R,
-Hinds,Precinct 41,U.S. House,03,Perry Parker,R,
-Hinds,Precinct 41,U.S. House,03,Katherine 'Bitzi' Tate,R,
-Hinds,Precinct 42,U.S. House,03,Sally Doty,R,
-Hinds,Precinct 42,U.S. House,03,Morgan Dunn,R,
-Hinds,Precinct 42,U.S. House,03,Michael Guest,R,
-Hinds,Precinct 42,U.S. House,03,Whit Hughes,R,
-Hinds,Precinct 42,U.S. House,03,Perry Parker,R,
-Hinds,Precinct 42,U.S. House,03,Katherine 'Bitzi' Tate,R,
-Hinds,Precinct 43,U.S. House,03,Sally Doty,R,
-Hinds,Precinct 43,U.S. House,03,Morgan Dunn,R,
-Hinds,Precinct 43,U.S. House,03,Michael Guest,R,
-Hinds,Precinct 43,U.S. House,03,Whit Hughes,R,
-Hinds,Precinct 43,U.S. House,03,Perry Parker,R,
-Hinds,Precinct 43,U.S. House,03,Katherine 'Bitzi' Tate,R,
+Hinds,Precinct 38,U.S. House,03,Sally Doty,R,x
+Hinds,Precinct 38,U.S. House,03,Morgan Dunn,R,x
+Hinds,Precinct 38,U.S. House,03,Michael Guest,R,x
+Hinds,Precinct 38,U.S. House,03,Whit Hughes,R,x
+Hinds,Precinct 38,U.S. House,03,Perry Parker,R,x
+Hinds,Precinct 38,U.S. House,03,Katherine 'Bitzi' Tate,R,x
+Hinds,Precinct 39,U.S. House,03,Sally Doty,R,x
+Hinds,Precinct 39,U.S. House,03,Morgan Dunn,R,x
+Hinds,Precinct 39,U.S. House,03,Michael Guest,R,x
+Hinds,Precinct 39,U.S. House,03,Whit Hughes,R,x
+Hinds,Precinct 39,U.S. House,03,Perry Parker,R,x
+Hinds,Precinct 39,U.S. House,03,Katherine 'Bitzi' Tate,R,x
+Hinds,Precinct 40,U.S. House,03,Sally Doty,R,x
+Hinds,Precinct 40,U.S. House,03,Morgan Dunn,R,x
+Hinds,Precinct 40,U.S. House,03,Michael Guest,R,x
+Hinds,Precinct 40,U.S. House,03,Whit Hughes,R,x
+Hinds,Precinct 40,U.S. House,03,Perry Parker,R,x
+Hinds,Precinct 40,U.S. House,03,Katherine 'Bitzi' Tate,R,x
+Hinds,Precinct 41,U.S. House,03,Sally Doty,R,x
+Hinds,Precinct 41,U.S. House,03,Morgan Dunn,R,x
+Hinds,Precinct 41,U.S. House,03,Michael Guest,R,x
+Hinds,Precinct 41,U.S. House,03,Whit Hughes,R,x
+Hinds,Precinct 41,U.S. House,03,Perry Parker,R,x
+Hinds,Precinct 41,U.S. House,03,Katherine 'Bitzi' Tate,R,x
+Hinds,Precinct 42,U.S. House,03,Sally Doty,R,x
+Hinds,Precinct 42,U.S. House,03,Morgan Dunn,R,x
+Hinds,Precinct 42,U.S. House,03,Michael Guest,R,x
+Hinds,Precinct 42,U.S. House,03,Whit Hughes,R,x
+Hinds,Precinct 42,U.S. House,03,Perry Parker,R,x
+Hinds,Precinct 42,U.S. House,03,Katherine 'Bitzi' Tate,R,x
+Hinds,Precinct 43,U.S. House,03,Sally Doty,R,x
+Hinds,Precinct 43,U.S. House,03,Morgan Dunn,R,x
+Hinds,Precinct 43,U.S. House,03,Michael Guest,R,x
+Hinds,Precinct 43,U.S. House,03,Whit Hughes,R,x
+Hinds,Precinct 43,U.S. House,03,Perry Parker,R,x
+Hinds,Precinct 43,U.S. House,03,Katherine 'Bitzi' Tate,R,x
 Hinds,Precinct 44,U.S. House,03,Sally Doty,R,11
 Hinds,Precinct 44,U.S. House,03,Morgan Dunn,R,3
 Hinds,Precinct 44,U.S. House,03,Michael Guest,R,54
@@ -6340,294 +6340,294 @@ Hinds,Precinct 47,U.S. House,03,Michael Guest,R,1
 Hinds,Precinct 47,U.S. House,03,Whit Hughes,R,1
 Hinds,Precinct 47,U.S. House,03,Perry Parker,R,1
 Hinds,Precinct 47,U.S. House,03,Katherine 'Bitzi' Tate,R,0
-Hinds,Precinct 49,U.S. House,03,Sally Doty,R,
-Hinds,Precinct 49,U.S. House,03,Morgan Dunn,R,
-Hinds,Precinct 49,U.S. House,03,Michael Guest,R,
-Hinds,Precinct 49,U.S. House,03,Whit Hughes,R,
-Hinds,Precinct 49,U.S. House,03,Perry Parker,R,
-Hinds,Precinct 49,U.S. House,03,Katherine 'Bitzi' Tate,R,
-Hinds,Precinct 51,U.S. House,03,Sally Doty,R,
-Hinds,Precinct 51,U.S. House,03,Morgan Dunn,R,
-Hinds,Precinct 51,U.S. House,03,Michael Guest,R,
-Hinds,Precinct 51,U.S. House,03,Whit Hughes,R,
-Hinds,Precinct 51,U.S. House,03,Perry Parker,R,
-Hinds,Precinct 51,U.S. House,03,Katherine 'Bitzi' Tate,R,
-Hinds,Precinct 54,U.S. House,03,Sally Doty,R,
-Hinds,Precinct 54,U.S. House,03,Morgan Dunn,R,
-Hinds,Precinct 54,U.S. House,03,Michael Guest,R,
-Hinds,Precinct 54,U.S. House,03,Whit Hughes,R,
-Hinds,Precinct 54,U.S. House,03,Perry Parker,R,
-Hinds,Precinct 54,U.S. House,03,Katherine 'Bitzi' Tate,R,
-Hinds,Precinct 55,U.S. House,03,Sally Doty,R,
-Hinds,Precinct 55,U.S. House,03,Morgan Dunn,R,
-Hinds,Precinct 55,U.S. House,03,Michael Guest,R,
-Hinds,Precinct 55,U.S. House,03,Whit Hughes,R,
-Hinds,Precinct 55,U.S. House,03,Perry Parker,R,
-Hinds,Precinct 55,U.S. House,03,Katherine 'Bitzi' Tate,R,
-Hinds,Precinct 56,U.S. House,03,Sally Doty,R,
-Hinds,Precinct 56,U.S. House,03,Morgan Dunn,R,
-Hinds,Precinct 56,U.S. House,03,Michael Guest,R,
-Hinds,Precinct 56,U.S. House,03,Whit Hughes,R,
-Hinds,Precinct 56,U.S. House,03,Perry Parker,R,
-Hinds,Precinct 56,U.S. House,03,Katherine 'Bitzi' Tate,R,
-Hinds,Precinct 57,U.S. House,03,Sally Doty,R,
-Hinds,Precinct 57,U.S. House,03,Morgan Dunn,R,
-Hinds,Precinct 57,U.S. House,03,Michael Guest,R,
-Hinds,Precinct 57,U.S. House,03,Whit Hughes,R,
-Hinds,Precinct 57,U.S. House,03,Perry Parker,R,
-Hinds,Precinct 57,U.S. House,03,Katherine 'Bitzi' Tate,R,
-Hinds,Precinct 58,U.S. House,03,Sally Doty,R,
-Hinds,Precinct 58,U.S. House,03,Morgan Dunn,R,
-Hinds,Precinct 58,U.S. House,03,Michael Guest,R,
-Hinds,Precinct 58,U.S. House,03,Whit Hughes,R,
-Hinds,Precinct 58,U.S. House,03,Perry Parker,R,
-Hinds,Precinct 58,U.S. House,03,Katherine 'Bitzi' Tate,R,
-Hinds,Precinct 59,U.S. House,03,Sally Doty,R,
-Hinds,Precinct 59,U.S. House,03,Morgan Dunn,R,
-Hinds,Precinct 59,U.S. House,03,Michael Guest,R,
-Hinds,Precinct 59,U.S. House,03,Whit Hughes,R,
-Hinds,Precinct 59,U.S. House,03,Perry Parker,R,
-Hinds,Precinct 59,U.S. House,03,Katherine 'Bitzi' Tate,R,
-Hinds,Precinct 60,U.S. House,03,Sally Doty,R,
-Hinds,Precinct 60,U.S. House,03,Morgan Dunn,R,
-Hinds,Precinct 60,U.S. House,03,Michael Guest,R,
-Hinds,Precinct 60,U.S. House,03,Whit Hughes,R,
-Hinds,Precinct 60,U.S. House,03,Perry Parker,R,
-Hinds,Precinct 60,U.S. House,03,Katherine 'Bitzi' Tate,R,
-Hinds,Precinct 61,U.S. House,03,Sally Doty,R,
-Hinds,Precinct 61,U.S. House,03,Morgan Dunn,R,
-Hinds,Precinct 61,U.S. House,03,Michael Guest,R,
-Hinds,Precinct 61,U.S. House,03,Whit Hughes,R,
-Hinds,Precinct 61,U.S. House,03,Perry Parker,R,
-Hinds,Precinct 61,U.S. House,03,Katherine 'Bitzi' Tate,R,
-Hinds,Precinct 62,U.S. House,03,Sally Doty,R,
-Hinds,Precinct 62,U.S. House,03,Morgan Dunn,R,
-Hinds,Precinct 62,U.S. House,03,Michael Guest,R,
-Hinds,Precinct 62,U.S. House,03,Whit Hughes,R,
-Hinds,Precinct 62,U.S. House,03,Perry Parker,R,
-Hinds,Precinct 62,U.S. House,03,Katherine 'Bitzi' Tate,R,
-Hinds,Precinct 63,U.S. House,03,Sally Doty,R,
-Hinds,Precinct 63,U.S. House,03,Morgan Dunn,R,
-Hinds,Precinct 63,U.S. House,03,Michael Guest,R,
-Hinds,Precinct 63,U.S. House,03,Whit Hughes,R,
-Hinds,Precinct 63,U.S. House,03,Perry Parker,R,
-Hinds,Precinct 63,U.S. House,03,Katherine 'Bitzi' Tate,R,
-Hinds,Precinct 64,U.S. House,03,Sally Doty,R,
-Hinds,Precinct 64,U.S. House,03,Morgan Dunn,R,
-Hinds,Precinct 64,U.S. House,03,Michael Guest,R,
-Hinds,Precinct 64,U.S. House,03,Whit Hughes,R,
-Hinds,Precinct 64,U.S. House,03,Perry Parker,R,
-Hinds,Precinct 64,U.S. House,03,Katherine 'Bitzi' Tate,R,
-Hinds,Precinct 68,U.S. House,03,Sally Doty,R,
-Hinds,Precinct 68,U.S. House,03,Morgan Dunn,R,
-Hinds,Precinct 68,U.S. House,03,Michael Guest,R,
-Hinds,Precinct 68,U.S. House,03,Whit Hughes,R,
-Hinds,Precinct 68,U.S. House,03,Perry Parker,R,
-Hinds,Precinct 68,U.S. House,03,Katherine 'Bitzi' Tate,R,
-Hinds,Precinct 69,U.S. House,03,Sally Doty,R,
-Hinds,Precinct 69,U.S. House,03,Morgan Dunn,R,
-Hinds,Precinct 69,U.S. House,03,Michael Guest,R,
-Hinds,Precinct 69,U.S. House,03,Whit Hughes,R,
-Hinds,Precinct 69,U.S. House,03,Perry Parker,R,
-Hinds,Precinct 69,U.S. House,03,Katherine 'Bitzi' Tate,R,
-Hinds,Precinct 70,U.S. House,03,Sally Doty,R,
-Hinds,Precinct 70,U.S. House,03,Morgan Dunn,R,
-Hinds,Precinct 70,U.S. House,03,Michael Guest,R,
-Hinds,Precinct 70,U.S. House,03,Whit Hughes,R,
-Hinds,Precinct 70,U.S. House,03,Perry Parker,R,
-Hinds,Precinct 70,U.S. House,03,Katherine 'Bitzi' Tate,R,
-Hinds,Precinct 71,U.S. House,03,Sally Doty,R,
-Hinds,Precinct 71,U.S. House,03,Morgan Dunn,R,
-Hinds,Precinct 71,U.S. House,03,Michael Guest,R,
-Hinds,Precinct 71,U.S. House,03,Whit Hughes,R,
-Hinds,Precinct 71,U.S. House,03,Perry Parker,R,
-Hinds,Precinct 71,U.S. House,03,Katherine 'Bitzi' Tate,R,
-Hinds,Precinct 72,U.S. House,03,Sally Doty,R,
-Hinds,Precinct 72,U.S. House,03,Morgan Dunn,R,
-Hinds,Precinct 72,U.S. House,03,Michael Guest,R,
-Hinds,Precinct 72,U.S. House,03,Whit Hughes,R,
-Hinds,Precinct 72,U.S. House,03,Perry Parker,R,
-Hinds,Precinct 72,U.S. House,03,Katherine 'Bitzi' Tate,R,
-Hinds,Precinct 73,U.S. House,03,Sally Doty,R,
-Hinds,Precinct 73,U.S. House,03,Morgan Dunn,R,
-Hinds,Precinct 73,U.S. House,03,Michael Guest,R,
-Hinds,Precinct 73,U.S. House,03,Whit Hughes,R,
-Hinds,Precinct 73,U.S. House,03,Perry Parker,R,
-Hinds,Precinct 73,U.S. House,03,Katherine 'Bitzi' Tate,R,
-Hinds,Precinct 74,U.S. House,03,Sally Doty,R,
-Hinds,Precinct 74,U.S. House,03,Morgan Dunn,R,
-Hinds,Precinct 74,U.S. House,03,Michael Guest,R,
-Hinds,Precinct 74,U.S. House,03,Whit Hughes,R,
-Hinds,Precinct 74,U.S. House,03,Perry Parker,R,
-Hinds,Precinct 74,U.S. House,03,Katherine 'Bitzi' Tate,R,
-Hinds,Precinct 76,U.S. House,03,Sally Doty,R,
-Hinds,Precinct 76,U.S. House,03,Morgan Dunn,R,
-Hinds,Precinct 76,U.S. House,03,Michael Guest,R,
-Hinds,Precinct 76,U.S. House,03,Whit Hughes,R,
-Hinds,Precinct 76,U.S. House,03,Perry Parker,R,
-Hinds,Precinct 76,U.S. House,03,Katherine 'Bitzi' Tate,R,
-Hinds,Precinct 77,U.S. House,03,Sally Doty,R,
-Hinds,Precinct 77,U.S. House,03,Morgan Dunn,R,
-Hinds,Precinct 77,U.S. House,03,Michael Guest,R,
-Hinds,Precinct 77,U.S. House,03,Whit Hughes,R,
-Hinds,Precinct 77,U.S. House,03,Perry Parker,R,
-Hinds,Precinct 77,U.S. House,03,Katherine 'Bitzi' Tate,R,
+Hinds,Precinct 49,U.S. House,03,Sally Doty,R,x
+Hinds,Precinct 49,U.S. House,03,Morgan Dunn,R,x
+Hinds,Precinct 49,U.S. House,03,Michael Guest,R,x
+Hinds,Precinct 49,U.S. House,03,Whit Hughes,R,x
+Hinds,Precinct 49,U.S. House,03,Perry Parker,R,x
+Hinds,Precinct 49,U.S. House,03,Katherine 'Bitzi' Tate,R,x
+Hinds,Precinct 51,U.S. House,03,Sally Doty,R,x
+Hinds,Precinct 51,U.S. House,03,Morgan Dunn,R,x
+Hinds,Precinct 51,U.S. House,03,Michael Guest,R,x
+Hinds,Precinct 51,U.S. House,03,Whit Hughes,R,x
+Hinds,Precinct 51,U.S. House,03,Perry Parker,R,x
+Hinds,Precinct 51,U.S. House,03,Katherine 'Bitzi' Tate,R,x
+Hinds,Precinct 54,U.S. House,03,Sally Doty,R,x
+Hinds,Precinct 54,U.S. House,03,Morgan Dunn,R,x
+Hinds,Precinct 54,U.S. House,03,Michael Guest,R,x
+Hinds,Precinct 54,U.S. House,03,Whit Hughes,R,x
+Hinds,Precinct 54,U.S. House,03,Perry Parker,R,x
+Hinds,Precinct 54,U.S. House,03,Katherine 'Bitzi' Tate,R,x
+Hinds,Precinct 55,U.S. House,03,Sally Doty,R,x
+Hinds,Precinct 55,U.S. House,03,Morgan Dunn,R,x
+Hinds,Precinct 55,U.S. House,03,Michael Guest,R,x
+Hinds,Precinct 55,U.S. House,03,Whit Hughes,R,x
+Hinds,Precinct 55,U.S. House,03,Perry Parker,R,x
+Hinds,Precinct 55,U.S. House,03,Katherine 'Bitzi' Tate,R,x
+Hinds,Precinct 56,U.S. House,03,Sally Doty,R,x
+Hinds,Precinct 56,U.S. House,03,Morgan Dunn,R,x
+Hinds,Precinct 56,U.S. House,03,Michael Guest,R,x
+Hinds,Precinct 56,U.S. House,03,Whit Hughes,R,x
+Hinds,Precinct 56,U.S. House,03,Perry Parker,R,x
+Hinds,Precinct 56,U.S. House,03,Katherine 'Bitzi' Tate,R,x
+Hinds,Precinct 57,U.S. House,03,Sally Doty,R,x
+Hinds,Precinct 57,U.S. House,03,Morgan Dunn,R,x
+Hinds,Precinct 57,U.S. House,03,Michael Guest,R,x
+Hinds,Precinct 57,U.S. House,03,Whit Hughes,R,x
+Hinds,Precinct 57,U.S. House,03,Perry Parker,R,x
+Hinds,Precinct 57,U.S. House,03,Katherine 'Bitzi' Tate,R,x
+Hinds,Precinct 58,U.S. House,03,Sally Doty,R,x
+Hinds,Precinct 58,U.S. House,03,Morgan Dunn,R,x
+Hinds,Precinct 58,U.S. House,03,Michael Guest,R,x
+Hinds,Precinct 58,U.S. House,03,Whit Hughes,R,x
+Hinds,Precinct 58,U.S. House,03,Perry Parker,R,x
+Hinds,Precinct 58,U.S. House,03,Katherine 'Bitzi' Tate,R,x
+Hinds,Precinct 59,U.S. House,03,Sally Doty,R,x
+Hinds,Precinct 59,U.S. House,03,Morgan Dunn,R,x
+Hinds,Precinct 59,U.S. House,03,Michael Guest,R,x
+Hinds,Precinct 59,U.S. House,03,Whit Hughes,R,x
+Hinds,Precinct 59,U.S. House,03,Perry Parker,R,x
+Hinds,Precinct 59,U.S. House,03,Katherine 'Bitzi' Tate,R,x
+Hinds,Precinct 60,U.S. House,03,Sally Doty,R,x
+Hinds,Precinct 60,U.S. House,03,Morgan Dunn,R,x
+Hinds,Precinct 60,U.S. House,03,Michael Guest,R,x
+Hinds,Precinct 60,U.S. House,03,Whit Hughes,R,x
+Hinds,Precinct 60,U.S. House,03,Perry Parker,R,x
+Hinds,Precinct 60,U.S. House,03,Katherine 'Bitzi' Tate,R,x
+Hinds,Precinct 61,U.S. House,03,Sally Doty,R,x
+Hinds,Precinct 61,U.S. House,03,Morgan Dunn,R,x
+Hinds,Precinct 61,U.S. House,03,Michael Guest,R,x
+Hinds,Precinct 61,U.S. House,03,Whit Hughes,R,x
+Hinds,Precinct 61,U.S. House,03,Perry Parker,R,x
+Hinds,Precinct 61,U.S. House,03,Katherine 'Bitzi' Tate,R,x
+Hinds,Precinct 62,U.S. House,03,Sally Doty,R,x
+Hinds,Precinct 62,U.S. House,03,Morgan Dunn,R,x
+Hinds,Precinct 62,U.S. House,03,Michael Guest,R,x
+Hinds,Precinct 62,U.S. House,03,Whit Hughes,R,x
+Hinds,Precinct 62,U.S. House,03,Perry Parker,R,x
+Hinds,Precinct 62,U.S. House,03,Katherine 'Bitzi' Tate,R,x
+Hinds,Precinct 63,U.S. House,03,Sally Doty,R,x
+Hinds,Precinct 63,U.S. House,03,Morgan Dunn,R,x
+Hinds,Precinct 63,U.S. House,03,Michael Guest,R,x
+Hinds,Precinct 63,U.S. House,03,Whit Hughes,R,x
+Hinds,Precinct 63,U.S. House,03,Perry Parker,R,x
+Hinds,Precinct 63,U.S. House,03,Katherine 'Bitzi' Tate,R,x
+Hinds,Precinct 64,U.S. House,03,Sally Doty,R,x
+Hinds,Precinct 64,U.S. House,03,Morgan Dunn,R,x
+Hinds,Precinct 64,U.S. House,03,Michael Guest,R,x
+Hinds,Precinct 64,U.S. House,03,Whit Hughes,R,x
+Hinds,Precinct 64,U.S. House,03,Perry Parker,R,x
+Hinds,Precinct 64,U.S. House,03,Katherine 'Bitzi' Tate,R,x
+Hinds,Precinct 68,U.S. House,03,Sally Doty,R,x
+Hinds,Precinct 68,U.S. House,03,Morgan Dunn,R,x
+Hinds,Precinct 68,U.S. House,03,Michael Guest,R,x
+Hinds,Precinct 68,U.S. House,03,Whit Hughes,R,x
+Hinds,Precinct 68,U.S. House,03,Perry Parker,R,x
+Hinds,Precinct 68,U.S. House,03,Katherine 'Bitzi' Tate,R,x
+Hinds,Precinct 69,U.S. House,03,Sally Doty,R,x
+Hinds,Precinct 69,U.S. House,03,Morgan Dunn,R,x
+Hinds,Precinct 69,U.S. House,03,Michael Guest,R,x
+Hinds,Precinct 69,U.S. House,03,Whit Hughes,R,x
+Hinds,Precinct 69,U.S. House,03,Perry Parker,R,x
+Hinds,Precinct 69,U.S. House,03,Katherine 'Bitzi' Tate,R,x
+Hinds,Precinct 70,U.S. House,03,Sally Doty,R,x
+Hinds,Precinct 70,U.S. House,03,Morgan Dunn,R,x
+Hinds,Precinct 70,U.S. House,03,Michael Guest,R,x
+Hinds,Precinct 70,U.S. House,03,Whit Hughes,R,x
+Hinds,Precinct 70,U.S. House,03,Perry Parker,R,x
+Hinds,Precinct 70,U.S. House,03,Katherine 'Bitzi' Tate,R,x
+Hinds,Precinct 71,U.S. House,03,Sally Doty,R,x
+Hinds,Precinct 71,U.S. House,03,Morgan Dunn,R,x
+Hinds,Precinct 71,U.S. House,03,Michael Guest,R,x
+Hinds,Precinct 71,U.S. House,03,Whit Hughes,R,x
+Hinds,Precinct 71,U.S. House,03,Perry Parker,R,x
+Hinds,Precinct 71,U.S. House,03,Katherine 'Bitzi' Tate,R,x
+Hinds,Precinct 72,U.S. House,03,Sally Doty,R,x
+Hinds,Precinct 72,U.S. House,03,Morgan Dunn,R,x
+Hinds,Precinct 72,U.S. House,03,Michael Guest,R,x
+Hinds,Precinct 72,U.S. House,03,Whit Hughes,R,x
+Hinds,Precinct 72,U.S. House,03,Perry Parker,R,x
+Hinds,Precinct 72,U.S. House,03,Katherine 'Bitzi' Tate,R,x
+Hinds,Precinct 73,U.S. House,03,Sally Doty,R,x
+Hinds,Precinct 73,U.S. House,03,Morgan Dunn,R,x
+Hinds,Precinct 73,U.S. House,03,Michael Guest,R,x
+Hinds,Precinct 73,U.S. House,03,Whit Hughes,R,x
+Hinds,Precinct 73,U.S. House,03,Perry Parker,R,x
+Hinds,Precinct 73,U.S. House,03,Katherine 'Bitzi' Tate,R,x
+Hinds,Precinct 74,U.S. House,03,Sally Doty,R,x
+Hinds,Precinct 74,U.S. House,03,Morgan Dunn,R,x
+Hinds,Precinct 74,U.S. House,03,Michael Guest,R,x
+Hinds,Precinct 74,U.S. House,03,Whit Hughes,R,x
+Hinds,Precinct 74,U.S. House,03,Perry Parker,R,x
+Hinds,Precinct 74,U.S. House,03,Katherine 'Bitzi' Tate,R,x
+Hinds,Precinct 76,U.S. House,03,Sally Doty,R,x
+Hinds,Precinct 76,U.S. House,03,Morgan Dunn,R,x
+Hinds,Precinct 76,U.S. House,03,Michael Guest,R,x
+Hinds,Precinct 76,U.S. House,03,Whit Hughes,R,x
+Hinds,Precinct 76,U.S. House,03,Perry Parker,R,x
+Hinds,Precinct 76,U.S. House,03,Katherine 'Bitzi' Tate,R,x
+Hinds,Precinct 77,U.S. House,03,Sally Doty,R,x
+Hinds,Precinct 77,U.S. House,03,Morgan Dunn,R,x
+Hinds,Precinct 77,U.S. House,03,Michael Guest,R,x
+Hinds,Precinct 77,U.S. House,03,Whit Hughes,R,x
+Hinds,Precinct 77,U.S. House,03,Perry Parker,R,x
+Hinds,Precinct 77,U.S. House,03,Katherine 'Bitzi' Tate,R,x
 Hinds,Precinct 78,U.S. House,03,Sally Doty,R,7
 Hinds,Precinct 78,U.S. House,03,Morgan Dunn,R,1
 Hinds,Precinct 78,U.S. House,03,Michael Guest,R,62
 Hinds,Precinct 78,U.S. House,03,Whit Hughes,R,84
 Hinds,Precinct 78,U.S. House,03,Perry Parker,R,24
 Hinds,Precinct 78,U.S. House,03,Katherine 'Bitzi' Tate,R,2
-Hinds,Precinct 79,U.S. House,03,Sally Doty,R,
-Hinds,Precinct 79,U.S. House,03,Morgan Dunn,R,
-Hinds,Precinct 79,U.S. House,03,Michael Guest,R,
-Hinds,Precinct 79,U.S. House,03,Whit Hughes,R,
-Hinds,Precinct 79,U.S. House,03,Perry Parker,R,
-Hinds,Precinct 79,U.S. House,03,Katherine 'Bitzi' Tate,R,
-Hinds,Precinct 80,U.S. House,03,Sally Doty,R,
-Hinds,Precinct 80,U.S. House,03,Morgan Dunn,R,
-Hinds,Precinct 80,U.S. House,03,Michael Guest,R,
-Hinds,Precinct 80,U.S. House,03,Whit Hughes,R,
-Hinds,Precinct 80,U.S. House,03,Perry Parker,R,
-Hinds,Precinct 80,U.S. House,03,Katherine 'Bitzi' Tate,R,
-Hinds,Precinct 81,U.S. House,03,Sally Doty,R,
-Hinds,Precinct 81,U.S. House,03,Morgan Dunn,R,
-Hinds,Precinct 81,U.S. House,03,Michael Guest,R,
-Hinds,Precinct 81,U.S. House,03,Whit Hughes,R,
-Hinds,Precinct 81,U.S. House,03,Perry Parker,R,
-Hinds,Precinct 81,U.S. House,03,Katherine 'Bitzi' Tate,R,
-Hinds,Precinct 82,U.S. House,03,Sally Doty,R,
-Hinds,Precinct 82,U.S. House,03,Morgan Dunn,R,
-Hinds,Precinct 82,U.S. House,03,Michael Guest,R,
-Hinds,Precinct 82,U.S. House,03,Whit Hughes,R,
-Hinds,Precinct 82,U.S. House,03,Perry Parker,R,
-Hinds,Precinct 82,U.S. House,03,Katherine 'Bitzi' Tate,R,
-Hinds,Precinct 83,U.S. House,03,Sally Doty,R,
-Hinds,Precinct 83,U.S. House,03,Morgan Dunn,R,
-Hinds,Precinct 83,U.S. House,03,Michael Guest,R,
-Hinds,Precinct 83,U.S. House,03,Whit Hughes,R,
-Hinds,Precinct 83,U.S. House,03,Perry Parker,R,
-Hinds,Precinct 83,U.S. House,03,Katherine 'Bitzi' Tate,R,
-Hinds,Precinct 84,U.S. House,03,Sally Doty,R,
-Hinds,Precinct 84,U.S. House,03,Morgan Dunn,R,
-Hinds,Precinct 84,U.S. House,03,Michael Guest,R,
-Hinds,Precinct 84,U.S. House,03,Whit Hughes,R,
-Hinds,Precinct 84,U.S. House,03,Perry Parker,R,
-Hinds,Precinct 84,U.S. House,03,Katherine 'Bitzi' Tate,R,
-Hinds,Precinct 85,U.S. House,03,Sally Doty,R,
-Hinds,Precinct 85,U.S. House,03,Morgan Dunn,R,
-Hinds,Precinct 85,U.S. House,03,Michael Guest,R,
-Hinds,Precinct 85,U.S. House,03,Whit Hughes,R,
-Hinds,Precinct 85,U.S. House,03,Perry Parker,R,
-Hinds,Precinct 85,U.S. House,03,Katherine 'Bitzi' Tate,R,
-Hinds,Precinct 86,U.S. House,03,Sally Doty,R,
-Hinds,Precinct 86,U.S. House,03,Morgan Dunn,R,
-Hinds,Precinct 86,U.S. House,03,Michael Guest,R,
-Hinds,Precinct 86,U.S. House,03,Whit Hughes,R,
-Hinds,Precinct 86,U.S. House,03,Perry Parker,R,
-Hinds,Precinct 86,U.S. House,03,Katherine 'Bitzi' Tate,R,
-Hinds,Precinct 88,U.S. House,03,Sally Doty,R,
-Hinds,Precinct 88,U.S. House,03,Morgan Dunn,R,
-Hinds,Precinct 88,U.S. House,03,Michael Guest,R,
-Hinds,Precinct 88,U.S. House,03,Whit Hughes,R,
-Hinds,Precinct 88,U.S. House,03,Perry Parker,R,
-Hinds,Precinct 88,U.S. House,03,Katherine 'Bitzi' Tate,R,
-Hinds,Precinct 89,U.S. House,03,Sally Doty,R,
-Hinds,Precinct 89,U.S. House,03,Morgan Dunn,R,
-Hinds,Precinct 89,U.S. House,03,Michael Guest,R,
-Hinds,Precinct 89,U.S. House,03,Whit Hughes,R,
-Hinds,Precinct 89,U.S. House,03,Perry Parker,R,
-Hinds,Precinct 89,U.S. House,03,Katherine 'Bitzi' Tate,R,
-Hinds,Precinct 90,U.S. House,03,Sally Doty,R,
-Hinds,Precinct 90,U.S. House,03,Morgan Dunn,R,
-Hinds,Precinct 90,U.S. House,03,Michael Guest,R,
-Hinds,Precinct 90,U.S. House,03,Whit Hughes,R,
-Hinds,Precinct 90,U.S. House,03,Perry Parker,R,
-Hinds,Precinct 90,U.S. House,03,Katherine 'Bitzi' Tate,R,
-Hinds,Precinct 91,U.S. House,03,Sally Doty,R,
-Hinds,Precinct 91,U.S. House,03,Morgan Dunn,R,
-Hinds,Precinct 91,U.S. House,03,Michael Guest,R,
-Hinds,Precinct 91,U.S. House,03,Whit Hughes,R,
-Hinds,Precinct 91,U.S. House,03,Perry Parker,R,
-Hinds,Precinct 91,U.S. House,03,Katherine 'Bitzi' Tate,R,
-Hinds,Precinct 92,U.S. House,03,Sally Doty,R,
-Hinds,Precinct 92,U.S. House,03,Morgan Dunn,R,
-Hinds,Precinct 92,U.S. House,03,Michael Guest,R,
-Hinds,Precinct 92,U.S. House,03,Whit Hughes,R,
-Hinds,Precinct 92,U.S. House,03,Perry Parker,R,
-Hinds,Precinct 92,U.S. House,03,Katherine 'Bitzi' Tate,R,
-Hinds,Precinct 93,U.S. House,03,Sally Doty,R,
-Hinds,Precinct 93,U.S. House,03,Morgan Dunn,R,
-Hinds,Precinct 93,U.S. House,03,Michael Guest,R,
-Hinds,Precinct 93,U.S. House,03,Whit Hughes,R,
-Hinds,Precinct 93,U.S. House,03,Perry Parker,R,
-Hinds,Precinct 93,U.S. House,03,Katherine 'Bitzi' Tate,R,
-Hinds,Precinct 94,U.S. House,03,Sally Doty,R,
-Hinds,Precinct 94,U.S. House,03,Morgan Dunn,R,
-Hinds,Precinct 94,U.S. House,03,Michael Guest,R,
-Hinds,Precinct 94,U.S. House,03,Whit Hughes,R,
-Hinds,Precinct 94,U.S. House,03,Perry Parker,R,
-Hinds,Precinct 94,U.S. House,03,Katherine 'Bitzi' Tate,R,
-Hinds,Precinct 96,U.S. House,03,Sally Doty,R,
-Hinds,Precinct 96,U.S. House,03,Morgan Dunn,R,
-Hinds,Precinct 96,U.S. House,03,Michael Guest,R,
-Hinds,Precinct 96,U.S. House,03,Whit Hughes,R,
-Hinds,Precinct 96,U.S. House,03,Perry Parker,R,
-Hinds,Precinct 96,U.S. House,03,Katherine 'Bitzi' Tate,R,
-Hinds,Raymond 1,U.S. House,03,Sally Doty,R,
-Hinds,Raymond 1,U.S. House,03,Morgan Dunn,R,
-Hinds,Raymond 1,U.S. House,03,Michael Guest,R,
-Hinds,Raymond 1,U.S. House,03,Whit Hughes,R,
-Hinds,Raymond 1,U.S. House,03,Perry Parker,R,
-Hinds,Raymond 1,U.S. House,03,Katherine 'Bitzi' Tate,R,
-Hinds,Raymond 2,U.S. House,03,Sally Doty,R,
-Hinds,Raymond 2,U.S. House,03,Morgan Dunn,R,
-Hinds,Raymond 2,U.S. House,03,Michael Guest,R,
-Hinds,Raymond 2,U.S. House,03,Whit Hughes,R,
-Hinds,Raymond 2,U.S. House,03,Perry Parker,R,
-Hinds,Raymond 2,U.S. House,03,Katherine 'Bitzi' Tate,R,
-Hinds,Springridge,U.S. House,03,Sally Doty,R,
-Hinds,Springridge,U.S. House,03,Morgan Dunn,R,
-Hinds,Springridge,U.S. House,03,Michael Guest,R,
-Hinds,Springridge,U.S. House,03,Whit Hughes,R,
-Hinds,Springridge,U.S. House,03,Perry Parker,R,
-Hinds,Springridge,U.S. House,03,Katherine 'Bitzi' Tate,R,
-Hinds,St Thomas,U.S. House,03,Sally Doty,R,
-Hinds,St Thomas,U.S. House,03,Morgan Dunn,R,
-Hinds,St Thomas,U.S. House,03,Michael Guest,R,
-Hinds,St Thomas,U.S. House,03,Whit Hughes,R,
-Hinds,St Thomas,U.S. House,03,Perry Parker,R,
-Hinds,St Thomas,U.S. House,03,Katherine 'Bitzi' Tate,R,
-Hinds,Terry 1,U.S. House,03,Sally Doty,R,
-Hinds,Terry 1,U.S. House,03,Morgan Dunn,R,
-Hinds,Terry 1,U.S. House,03,Michael Guest,R,
-Hinds,Terry 1,U.S. House,03,Whit Hughes,R,
-Hinds,Terry 1,U.S. House,03,Perry Parker,R,
-Hinds,Terry 1,U.S. House,03,Katherine 'Bitzi' Tate,R,
-Hinds,Terry 2,U.S. House,03,Sally Doty,R,
-Hinds,Terry 2,U.S. House,03,Morgan Dunn,R,
-Hinds,Terry 2,U.S. House,03,Michael Guest,R,
-Hinds,Terry 2,U.S. House,03,Whit Hughes,R,
-Hinds,Terry 2,U.S. House,03,Perry Parker,R,
-Hinds,Terry 2,U.S. House,03,Katherine 'Bitzi' Tate,R,
-Hinds,Tinnin,U.S. House,03,Sally Doty,R,
-Hinds,Tinnin,U.S. House,03,Morgan Dunn,R,
-Hinds,Tinnin,U.S. House,03,Michael Guest,R,
-Hinds,Tinnin,U.S. House,03,Whit Hughes,R,
-Hinds,Tinnin,U.S. House,03,Perry Parker,R,
-Hinds,Tinnin,U.S. House,03,Katherine 'Bitzi' Tate,R,
-Hinds,Utica 1,U.S. House,03,Sally Doty,R,
-Hinds,Utica 1,U.S. House,03,Morgan Dunn,R,
-Hinds,Utica 1,U.S. House,03,Michael Guest,R,
-Hinds,Utica 1,U.S. House,03,Whit Hughes,R,
-Hinds,Utica 1,U.S. House,03,Perry Parker,R,
-Hinds,Utica 1,U.S. House,03,Katherine 'Bitzi' Tate,R,
-Hinds,Utica 2,U.S. House,03,Sally Doty,R,
-Hinds,Utica 2,U.S. House,03,Morgan Dunn,R,
-Hinds,Utica 2,U.S. House,03,Michael Guest,R,
-Hinds,Utica 2,U.S. House,03,Whit Hughes,R,
-Hinds,Utica 2,U.S. House,03,Perry Parker,R,
-Hinds,Utica 2,U.S. House,03,Katherine 'Bitzi' Tate,R,
+Hinds,Precinct 79,U.S. House,03,Sally Doty,R,x
+Hinds,Precinct 79,U.S. House,03,Morgan Dunn,R,x
+Hinds,Precinct 79,U.S. House,03,Michael Guest,R,x
+Hinds,Precinct 79,U.S. House,03,Whit Hughes,R,x
+Hinds,Precinct 79,U.S. House,03,Perry Parker,R,x
+Hinds,Precinct 79,U.S. House,03,Katherine 'Bitzi' Tate,R,x
+Hinds,Precinct 80,U.S. House,03,Sally Doty,R,x
+Hinds,Precinct 80,U.S. House,03,Morgan Dunn,R,x
+Hinds,Precinct 80,U.S. House,03,Michael Guest,R,x
+Hinds,Precinct 80,U.S. House,03,Whit Hughes,R,x
+Hinds,Precinct 80,U.S. House,03,Perry Parker,R,x
+Hinds,Precinct 80,U.S. House,03,Katherine 'Bitzi' Tate,R,x
+Hinds,Precinct 81,U.S. House,03,Sally Doty,R,x
+Hinds,Precinct 81,U.S. House,03,Morgan Dunn,R,x
+Hinds,Precinct 81,U.S. House,03,Michael Guest,R,x
+Hinds,Precinct 81,U.S. House,03,Whit Hughes,R,x
+Hinds,Precinct 81,U.S. House,03,Perry Parker,R,x
+Hinds,Precinct 81,U.S. House,03,Katherine 'Bitzi' Tate,R,x
+Hinds,Precinct 82,U.S. House,03,Sally Doty,R,x
+Hinds,Precinct 82,U.S. House,03,Morgan Dunn,R,x
+Hinds,Precinct 82,U.S. House,03,Michael Guest,R,x
+Hinds,Precinct 82,U.S. House,03,Whit Hughes,R,x
+Hinds,Precinct 82,U.S. House,03,Perry Parker,R,x
+Hinds,Precinct 82,U.S. House,03,Katherine 'Bitzi' Tate,R,x
+Hinds,Precinct 83,U.S. House,03,Sally Doty,R,x
+Hinds,Precinct 83,U.S. House,03,Morgan Dunn,R,x
+Hinds,Precinct 83,U.S. House,03,Michael Guest,R,x
+Hinds,Precinct 83,U.S. House,03,Whit Hughes,R,x
+Hinds,Precinct 83,U.S. House,03,Perry Parker,R,x
+Hinds,Precinct 83,U.S. House,03,Katherine 'Bitzi' Tate,R,x
+Hinds,Precinct 84,U.S. House,03,Sally Doty,R,x
+Hinds,Precinct 84,U.S. House,03,Morgan Dunn,R,x
+Hinds,Precinct 84,U.S. House,03,Michael Guest,R,x
+Hinds,Precinct 84,U.S. House,03,Whit Hughes,R,x
+Hinds,Precinct 84,U.S. House,03,Perry Parker,R,x
+Hinds,Precinct 84,U.S. House,03,Katherine 'Bitzi' Tate,R,x
+Hinds,Precinct 85,U.S. House,03,Sally Doty,R,x
+Hinds,Precinct 85,U.S. House,03,Morgan Dunn,R,x
+Hinds,Precinct 85,U.S. House,03,Michael Guest,R,x
+Hinds,Precinct 85,U.S. House,03,Whit Hughes,R,x
+Hinds,Precinct 85,U.S. House,03,Perry Parker,R,x
+Hinds,Precinct 85,U.S. House,03,Katherine 'Bitzi' Tate,R,x
+Hinds,Precinct 86,U.S. House,03,Sally Doty,R,x
+Hinds,Precinct 86,U.S. House,03,Morgan Dunn,R,x
+Hinds,Precinct 86,U.S. House,03,Michael Guest,R,x
+Hinds,Precinct 86,U.S. House,03,Whit Hughes,R,x
+Hinds,Precinct 86,U.S. House,03,Perry Parker,R,x
+Hinds,Precinct 86,U.S. House,03,Katherine 'Bitzi' Tate,R,x
+Hinds,Precinct 88,U.S. House,03,Sally Doty,R,x
+Hinds,Precinct 88,U.S. House,03,Morgan Dunn,R,x
+Hinds,Precinct 88,U.S. House,03,Michael Guest,R,x
+Hinds,Precinct 88,U.S. House,03,Whit Hughes,R,x
+Hinds,Precinct 88,U.S. House,03,Perry Parker,R,x
+Hinds,Precinct 88,U.S. House,03,Katherine 'Bitzi' Tate,R,x
+Hinds,Precinct 89,U.S. House,03,Sally Doty,R,x
+Hinds,Precinct 89,U.S. House,03,Morgan Dunn,R,x
+Hinds,Precinct 89,U.S. House,03,Michael Guest,R,x
+Hinds,Precinct 89,U.S. House,03,Whit Hughes,R,x
+Hinds,Precinct 89,U.S. House,03,Perry Parker,R,x
+Hinds,Precinct 89,U.S. House,03,Katherine 'Bitzi' Tate,R,x
+Hinds,Precinct 90,U.S. House,03,Sally Doty,R,x
+Hinds,Precinct 90,U.S. House,03,Morgan Dunn,R,x
+Hinds,Precinct 90,U.S. House,03,Michael Guest,R,x
+Hinds,Precinct 90,U.S. House,03,Whit Hughes,R,x
+Hinds,Precinct 90,U.S. House,03,Perry Parker,R,x
+Hinds,Precinct 90,U.S. House,03,Katherine 'Bitzi' Tate,R,x
+Hinds,Precinct 91,U.S. House,03,Sally Doty,R,x
+Hinds,Precinct 91,U.S. House,03,Morgan Dunn,R,x
+Hinds,Precinct 91,U.S. House,03,Michael Guest,R,x
+Hinds,Precinct 91,U.S. House,03,Whit Hughes,R,x
+Hinds,Precinct 91,U.S. House,03,Perry Parker,R,x
+Hinds,Precinct 91,U.S. House,03,Katherine 'Bitzi' Tate,R,x
+Hinds,Precinct 92,U.S. House,03,Sally Doty,R,x
+Hinds,Precinct 92,U.S. House,03,Morgan Dunn,R,x
+Hinds,Precinct 92,U.S. House,03,Michael Guest,R,x
+Hinds,Precinct 92,U.S. House,03,Whit Hughes,R,x
+Hinds,Precinct 92,U.S. House,03,Perry Parker,R,x
+Hinds,Precinct 92,U.S. House,03,Katherine 'Bitzi' Tate,R,x
+Hinds,Precinct 93,U.S. House,03,Sally Doty,R,x
+Hinds,Precinct 93,U.S. House,03,Morgan Dunn,R,x
+Hinds,Precinct 93,U.S. House,03,Michael Guest,R,x
+Hinds,Precinct 93,U.S. House,03,Whit Hughes,R,x
+Hinds,Precinct 93,U.S. House,03,Perry Parker,R,x
+Hinds,Precinct 93,U.S. House,03,Katherine 'Bitzi' Tate,R,x
+Hinds,Precinct 94,U.S. House,03,Sally Doty,R,x
+Hinds,Precinct 94,U.S. House,03,Morgan Dunn,R,x
+Hinds,Precinct 94,U.S. House,03,Michael Guest,R,x
+Hinds,Precinct 94,U.S. House,03,Whit Hughes,R,x
+Hinds,Precinct 94,U.S. House,03,Perry Parker,R,x
+Hinds,Precinct 94,U.S. House,03,Katherine 'Bitzi' Tate,R,x
+Hinds,Precinct 96,U.S. House,03,Sally Doty,R,x
+Hinds,Precinct 96,U.S. House,03,Morgan Dunn,R,x
+Hinds,Precinct 96,U.S. House,03,Michael Guest,R,x
+Hinds,Precinct 96,U.S. House,03,Whit Hughes,R,x
+Hinds,Precinct 96,U.S. House,03,Perry Parker,R,x
+Hinds,Precinct 96,U.S. House,03,Katherine 'Bitzi' Tate,R,x
+Hinds,Raymond 1,U.S. House,03,Sally Doty,R,x
+Hinds,Raymond 1,U.S. House,03,Morgan Dunn,R,x
+Hinds,Raymond 1,U.S. House,03,Michael Guest,R,x
+Hinds,Raymond 1,U.S. House,03,Whit Hughes,R,x
+Hinds,Raymond 1,U.S. House,03,Perry Parker,R,x
+Hinds,Raymond 1,U.S. House,03,Katherine 'Bitzi' Tate,R,x
+Hinds,Raymond 2,U.S. House,03,Sally Doty,R,x
+Hinds,Raymond 2,U.S. House,03,Morgan Dunn,R,x
+Hinds,Raymond 2,U.S. House,03,Michael Guest,R,x
+Hinds,Raymond 2,U.S. House,03,Whit Hughes,R,x
+Hinds,Raymond 2,U.S. House,03,Perry Parker,R,x
+Hinds,Raymond 2,U.S. House,03,Katherine 'Bitzi' Tate,R,x
+Hinds,Springridge,U.S. House,03,Sally Doty,R,x
+Hinds,Springridge,U.S. House,03,Morgan Dunn,R,x
+Hinds,Springridge,U.S. House,03,Michael Guest,R,x
+Hinds,Springridge,U.S. House,03,Whit Hughes,R,x
+Hinds,Springridge,U.S. House,03,Perry Parker,R,x
+Hinds,Springridge,U.S. House,03,Katherine 'Bitzi' Tate,R,x
+Hinds,St Thomas,U.S. House,03,Sally Doty,R,x
+Hinds,St Thomas,U.S. House,03,Morgan Dunn,R,x
+Hinds,St Thomas,U.S. House,03,Michael Guest,R,x
+Hinds,St Thomas,U.S. House,03,Whit Hughes,R,x
+Hinds,St Thomas,U.S. House,03,Perry Parker,R,x
+Hinds,St Thomas,U.S. House,03,Katherine 'Bitzi' Tate,R,x
+Hinds,Terry 1,U.S. House,03,Sally Doty,R,x
+Hinds,Terry 1,U.S. House,03,Morgan Dunn,R,x
+Hinds,Terry 1,U.S. House,03,Michael Guest,R,x
+Hinds,Terry 1,U.S. House,03,Whit Hughes,R,x
+Hinds,Terry 1,U.S. House,03,Perry Parker,R,x
+Hinds,Terry 1,U.S. House,03,Katherine 'Bitzi' Tate,R,x
+Hinds,Terry 2,U.S. House,03,Sally Doty,R,x
+Hinds,Terry 2,U.S. House,03,Morgan Dunn,R,x
+Hinds,Terry 2,U.S. House,03,Michael Guest,R,x
+Hinds,Terry 2,U.S. House,03,Whit Hughes,R,x
+Hinds,Terry 2,U.S. House,03,Perry Parker,R,x
+Hinds,Terry 2,U.S. House,03,Katherine 'Bitzi' Tate,R,x
+Hinds,Tinnin,U.S. House,03,Sally Doty,R,x
+Hinds,Tinnin,U.S. House,03,Morgan Dunn,R,x
+Hinds,Tinnin,U.S. House,03,Michael Guest,R,x
+Hinds,Tinnin,U.S. House,03,Whit Hughes,R,x
+Hinds,Tinnin,U.S. House,03,Perry Parker,R,x
+Hinds,Tinnin,U.S. House,03,Katherine 'Bitzi' Tate,R,x
+Hinds,Utica 1,U.S. House,03,Sally Doty,R,x
+Hinds,Utica 1,U.S. House,03,Morgan Dunn,R,x
+Hinds,Utica 1,U.S. House,03,Michael Guest,R,x
+Hinds,Utica 1,U.S. House,03,Whit Hughes,R,x
+Hinds,Utica 1,U.S. House,03,Perry Parker,R,x
+Hinds,Utica 1,U.S. House,03,Katherine 'Bitzi' Tate,R,x
+Hinds,Utica 2,U.S. House,03,Sally Doty,R,x
+Hinds,Utica 2,U.S. House,03,Morgan Dunn,R,x
+Hinds,Utica 2,U.S. House,03,Michael Guest,R,x
+Hinds,Utica 2,U.S. House,03,Whit Hughes,R,x
+Hinds,Utica 2,U.S. House,03,Perry Parker,R,x
+Hinds,Utica 2,U.S. House,03,Katherine 'Bitzi' Tate,R,x
 Hinds,TOTAL,U.S. House,03,Sally Doty,R,192
 Hinds,TOTAL,U.S. House,03,Morgan Dunn,R,47
 Hinds,TOTAL,U.S. House,03,Michael Guest,R,886
@@ -7321,16 +7321,16 @@ Hinds,Learned,U.S. House,02,Bennie G. Thompson,D,19
 Hinds,Old Byram,U.S. House,02,Bennie G. Thompson,D,123
 Hinds,Pinehaven,U.S. House,02,Bennie G. Thompson,D,185
 Hinds,Pocahontas,U.S. House,02,Bennie G. Thompson,D,99
-Hinds,Precinct 01,U.S. House,02,Bennie G. Thompson,D,
+Hinds,Precinct 01,U.S. House,02,Bennie G. Thompson,D,x
 Hinds,Precinct 02,U.S. House,02,Bennie G. Thompson,D,28
 Hinds,Precinct 04,U.S. House,02,Bennie G. Thompson,D,60
 Hinds,Precinct 06,U.S. House,02,Bennie G. Thompson,D,46
-Hinds,Precinct 08,U.S. House,02,Bennie G. Thompson,D,
-Hinds,Precinct 09,U.S. House,02,Bennie G. Thompson,D,
+Hinds,Precinct 08,U.S. House,02,Bennie G. Thompson,D,x
+Hinds,Precinct 09,U.S. House,02,Bennie G. Thompson,D,x
 Hinds,Precinct 10,U.S. House,02,Bennie G. Thompson,D,25
 Hinds,Precinct 11,U.S. House,02,Bennie G. Thompson,D,63
 Hinds,Precinct 13,U.S. House,02,Bennie G. Thompson,D,126
-Hinds,Precinct 14,U.S. House,02,Bennie G. Thompson,D,
+Hinds,Precinct 14,U.S. House,02,Bennie G. Thompson,D,x
 Hinds,Precinct 16,U.S. House,02,Bennie G. Thompson,D,95
 Hinds,Precinct 18,U.S. House,02,Bennie G. Thompson,D,71
 Hinds,Precinct 19,U.S. House,02,Bennie G. Thompson,D,49
@@ -7346,22 +7346,22 @@ Hinds,Precinct 28,U.S. House,02,Bennie G. Thompson,D,159
 Hinds,Precinct 29,U.S. House,02,Bennie G. Thompson,D,107
 Hinds,Precinct 30,U.S. House,02,Bennie G. Thompson,D,71
 Hinds,Precinct 31,U.S. House,02,Bennie G. Thompson,D,112
-Hinds,Precinct 32,U.S. House,02,Bennie G. Thompson,D,
-Hinds,Precinct 33,U.S. House,02,Bennie G. Thompson,D,
-Hinds,Precinct 34,U.S. House,02,Bennie G. Thompson,D,
-Hinds,Precinct 35,U.S. House,02,Bennie G. Thompson,D,
-Hinds,Precinct 36,U.S. House,02,Bennie G. Thompson,D,
-Hinds,Precinct 37,U.S. House,02,Bennie G. Thompson,D,
+Hinds,Precinct 32,U.S. House,02,Bennie G. Thompson,D,x
+Hinds,Precinct 33,U.S. House,02,Bennie G. Thompson,D,x
+Hinds,Precinct 34,U.S. House,02,Bennie G. Thompson,D,x
+Hinds,Precinct 35,U.S. House,02,Bennie G. Thompson,D,x
+Hinds,Precinct 36,U.S. House,02,Bennie G. Thompson,D,x
+Hinds,Precinct 37,U.S. House,02,Bennie G. Thompson,D,x
 Hinds,Precinct 38,U.S. House,02,Bennie G. Thompson,D,85
 Hinds,Precinct 39,U.S. House,02,Bennie G. Thompson,D,146
 Hinds,Precinct 40,U.S. House,02,Bennie G. Thompson,D,185
 Hinds,Precinct 41,U.S. House,02,Bennie G. Thompson,D,273
 Hinds,Precinct 42,U.S. House,02,Bennie G. Thompson,D,133
 Hinds,Precinct 43,U.S. House,02,Bennie G. Thompson,D,151
-Hinds,Precinct 44,U.S. House,02,Bennie G. Thompson,D,
-Hinds,Precinct 45,U.S. House,02,Bennie G. Thompson,D,
+Hinds,Precinct 44,U.S. House,02,Bennie G. Thompson,D,x
+Hinds,Precinct 45,U.S. House,02,Bennie G. Thompson,D,x
 Hinds,Precinct 46,U.S. House,02,Bennie G. Thompson,D,199
-Hinds,Precinct 47,U.S. House,02,Bennie G. Thompson,D,
+Hinds,Precinct 47,U.S. House,02,Bennie G. Thompson,D,x
 Hinds,Precinct 49,U.S. House,02,Bennie G. Thompson,D,6
 Hinds,Precinct 51,U.S. House,02,Bennie G. Thompson,D,172
 Hinds,Precinct 54,U.S. House,02,Bennie G. Thompson,D,44
@@ -7384,7 +7384,7 @@ Hinds,Precinct 73,U.S. House,02,Bennie G. Thompson,D,54
 Hinds,Precinct 74,U.S. House,02,Bennie G. Thompson,D,40
 Hinds,Precinct 76,U.S. House,02,Bennie G. Thompson,D,41
 Hinds,Precinct 77,U.S. House,02,Bennie G. Thompson,D,70
-Hinds,Precinct 78,U.S. House,02,Bennie G. Thompson,D,
+Hinds,Precinct 78,U.S. House,02,Bennie G. Thompson,D,x
 Hinds,Precinct 79,U.S. House,02,Bennie G. Thompson,D,189
 Hinds,Precinct 80,U.S. House,02,Bennie G. Thompson,D,197
 Hinds,Precinct 81,U.S. House,02,Bennie G. Thompson,D,514
@@ -7411,98 +7411,98 @@ Hinds,Tinnin,U.S. House,02,Bennie G. Thompson,D,40
 Hinds,Utica 1,U.S. House,02,Bennie G. Thompson,D,63
 Hinds,Utica 2,U.S. House,02,Bennie G. Thompson,D,89
 Hinds,TOTAL,U.S. House,02,Bennie G. Thompson,D,12752
-Hinds,Bolton,U.S. House,03,Michael Aycox,D,
-Hinds,Bolton,U.S. House,03,Michael Ted Evans,D,
-Hinds,Brownsville,U.S. House,03,Michael Aycox,D,
-Hinds,Brownsville,U.S. House,03,Michael Ted Evans,D,
-Hinds,Byram 1,U.S. House,03,Michael Aycox,D,
-Hinds,Byram 1,U.S. House,03,Michael Ted Evans,D,
-Hinds,Byram 2,U.S. House,03,Michael Aycox,D,
-Hinds,Byram 2,U.S. House,03,Michael Ted Evans,D,
-Hinds,Byram 3,U.S. House,03,Michael Aycox,D,
-Hinds,Byram 3,U.S. House,03,Michael Ted Evans,D,
-Hinds,Cayuga,U.S. House,03,Michael Aycox,D,
-Hinds,Cayuga,U.S. House,03,Michael Ted Evans,D,
-Hinds,Chapel Hill,U.S. House,03,Michael Aycox,D,
-Hinds,Chapel Hill,U.S. House,03,Michael Ted Evans,D,
-Hinds,Clinton 1,U.S. House,03,Michael Aycox,D,
-Hinds,Clinton 1,U.S. House,03,Michael Ted Evans,D,
-Hinds,Clinton 2,U.S. House,03,Michael Aycox,D,
-Hinds,Clinton 2,U.S. House,03,Michael Ted Evans,D,
-Hinds,Clinton 3,U.S. House,03,Michael Aycox,D,
-Hinds,Clinton 3,U.S. House,03,Michael Ted Evans,D,
-Hinds,Clinton 4,U.S. House,03,Michael Aycox,D,
-Hinds,Clinton 4,U.S. House,03,Michael Ted Evans,D,
-Hinds,Clinton 5,U.S. House,03,Michael Aycox,D,
-Hinds,Clinton 5,U.S. House,03,Michael Ted Evans,D,
-Hinds,Clinton 6,U.S. House,03,Michael Aycox,D,
-Hinds,Clinton 6,U.S. House,03,Michael Ted Evans,D,
-Hinds,Clinton 7,U.S. House,03,Michael Aycox,D,
-Hinds,Clinton 7,U.S. House,03,Michael Ted Evans,D,
-Hinds,Cynthia,U.S. House,03,Michael Aycox,D,
-Hinds,Cynthia,U.S. House,03,Michael Ted Evans,D,
-Hinds,Dry Grove,U.S. House,03,Michael Aycox,D,
-Hinds,Dry Grove,U.S. House,03,Michael Ted Evans,D,
-Hinds,Edwards,U.S. House,03,Michael Aycox,D,
-Hinds,Edwards,U.S. House,03,Michael Ted Evans,D,
-Hinds,Learned,U.S. House,03,Michael Aycox,D,
-Hinds,Learned,U.S. House,03,Michael Ted Evans,D,
-Hinds,Old Byram,U.S. House,03,Michael Aycox,D,
-Hinds,Old Byram,U.S. House,03,Michael Ted Evans,D,
-Hinds,Pinehaven,U.S. House,03,Michael Aycox,D,
-Hinds,Pinehaven,U.S. House,03,Michael Ted Evans,D,
-Hinds,Pocahontas,U.S. House,03,Michael Aycox,D,
-Hinds,Pocahontas,U.S. House,03,Michael Ted Evans,D,
+Hinds,Bolton,U.S. House,03,Michael Aycox,D,x
+Hinds,Bolton,U.S. House,03,Michael Ted Evans,D,x
+Hinds,Brownsville,U.S. House,03,Michael Aycox,D,x
+Hinds,Brownsville,U.S. House,03,Michael Ted Evans,D,x
+Hinds,Byram 1,U.S. House,03,Michael Aycox,D,x
+Hinds,Byram 1,U.S. House,03,Michael Ted Evans,D,x
+Hinds,Byram 2,U.S. House,03,Michael Aycox,D,x
+Hinds,Byram 2,U.S. House,03,Michael Ted Evans,D,x
+Hinds,Byram 3,U.S. House,03,Michael Aycox,D,x
+Hinds,Byram 3,U.S. House,03,Michael Ted Evans,D,x
+Hinds,Cayuga,U.S. House,03,Michael Aycox,D,x
+Hinds,Cayuga,U.S. House,03,Michael Ted Evans,D,x
+Hinds,Chapel Hill,U.S. House,03,Michael Aycox,D,x
+Hinds,Chapel Hill,U.S. House,03,Michael Ted Evans,D,x
+Hinds,Clinton 1,U.S. House,03,Michael Aycox,D,x
+Hinds,Clinton 1,U.S. House,03,Michael Ted Evans,D,x
+Hinds,Clinton 2,U.S. House,03,Michael Aycox,D,x
+Hinds,Clinton 2,U.S. House,03,Michael Ted Evans,D,x
+Hinds,Clinton 3,U.S. House,03,Michael Aycox,D,x
+Hinds,Clinton 3,U.S. House,03,Michael Ted Evans,D,x
+Hinds,Clinton 4,U.S. House,03,Michael Aycox,D,x
+Hinds,Clinton 4,U.S. House,03,Michael Ted Evans,D,x
+Hinds,Clinton 5,U.S. House,03,Michael Aycox,D,x
+Hinds,Clinton 5,U.S. House,03,Michael Ted Evans,D,x
+Hinds,Clinton 6,U.S. House,03,Michael Aycox,D,x
+Hinds,Clinton 6,U.S. House,03,Michael Ted Evans,D,x
+Hinds,Clinton 7,U.S. House,03,Michael Aycox,D,x
+Hinds,Clinton 7,U.S. House,03,Michael Ted Evans,D,x
+Hinds,Cynthia,U.S. House,03,Michael Aycox,D,x
+Hinds,Cynthia,U.S. House,03,Michael Ted Evans,D,x
+Hinds,Dry Grove,U.S. House,03,Michael Aycox,D,x
+Hinds,Dry Grove,U.S. House,03,Michael Ted Evans,D,x
+Hinds,Edwards,U.S. House,03,Michael Aycox,D,x
+Hinds,Edwards,U.S. House,03,Michael Ted Evans,D,x
+Hinds,Learned,U.S. House,03,Michael Aycox,D,x
+Hinds,Learned,U.S. House,03,Michael Ted Evans,D,x
+Hinds,Old Byram,U.S. House,03,Michael Aycox,D,x
+Hinds,Old Byram,U.S. House,03,Michael Ted Evans,D,x
+Hinds,Pinehaven,U.S. House,03,Michael Aycox,D,x
+Hinds,Pinehaven,U.S. House,03,Michael Ted Evans,D,x
+Hinds,Pocahontas,U.S. House,03,Michael Aycox,D,x
+Hinds,Pocahontas,U.S. House,03,Michael Ted Evans,D,x
 Hinds,Precinct 01,U.S. House,03,Michael Aycox,D,48
 Hinds,Precinct 01,U.S. House,03,Michael Ted Evans,D,38
-Hinds,Precinct 02,U.S. House,03,Michael Aycox,D,
-Hinds,Precinct 02,U.S. House,03,Michael Ted Evans,D,
-Hinds,Precinct 04,U.S. House,03,Michael Aycox,D,
-Hinds,Precinct 04,U.S. House,03,Michael Ted Evans,D,
-Hinds,Precinct 06,U.S. House,03,Michael Aycox,D,
-Hinds,Precinct 06,U.S. House,03,Michael Ted Evans,D,
+Hinds,Precinct 02,U.S. House,03,Michael Aycox,D,x
+Hinds,Precinct 02,U.S. House,03,Michael Ted Evans,D,x
+Hinds,Precinct 04,U.S. House,03,Michael Aycox,D,x
+Hinds,Precinct 04,U.S. House,03,Michael Ted Evans,D,x
+Hinds,Precinct 06,U.S. House,03,Michael Aycox,D,x
+Hinds,Precinct 06,U.S. House,03,Michael Ted Evans,D,x
 Hinds,Precinct 08,U.S. House,03,Michael Aycox,D,51
 Hinds,Precinct 08,U.S. House,03,Michael Ted Evans,D,72
 Hinds,Precinct 09,U.S. House,03,Michael Aycox,D,98
 Hinds,Precinct 09,U.S. House,03,Michael Ted Evans,D,96
-Hinds,Precinct 10,U.S. House,03,Michael Aycox,D,
-Hinds,Precinct 10,U.S. House,03,Michael Ted Evans,D,
-Hinds,Precinct 11,U.S. House,03,Michael Aycox,D,
-Hinds,Precinct 11,U.S. House,03,Michael Ted Evans,D,
-Hinds,Precinct 13,U.S. House,03,Michael Aycox,D,
-Hinds,Precinct 13,U.S. House,03,Michael Ted Evans,D,
+Hinds,Precinct 10,U.S. House,03,Michael Aycox,D,x
+Hinds,Precinct 10,U.S. House,03,Michael Ted Evans,D,x
+Hinds,Precinct 11,U.S. House,03,Michael Aycox,D,x
+Hinds,Precinct 11,U.S. House,03,Michael Ted Evans,D,x
+Hinds,Precinct 13,U.S. House,03,Michael Aycox,D,x
+Hinds,Precinct 13,U.S. House,03,Michael Ted Evans,D,x
 Hinds,Precinct 14,U.S. House,03,Michael Aycox,D,54
 Hinds,Precinct 14,U.S. House,03,Michael Ted Evans,D,27
 Hinds,Precinct 16,U.S. House,03,Michael Aycox,D,103
 Hinds,Precinct 16,U.S. House,03,Michael Ted Evans,D,66
-Hinds,Precinct 18,U.S. House,03,Michael Aycox,D,
-Hinds,Precinct 18,U.S. House,03,Michael Ted Evans,D,
-Hinds,Precinct 19,U.S. House,03,Michael Aycox,D,
-Hinds,Precinct 19,U.S. House,03,Michael Ted Evans,D,
-Hinds,Precinct 20,U.S. House,03,Michael Aycox,D,
-Hinds,Precinct 20,U.S. House,03,Michael Ted Evans,D,
-Hinds,Precinct 21,U.S. House,03,Michael Aycox,D,
-Hinds,Precinct 21,U.S. House,03,Michael Ted Evans,D,
-Hinds,Precinct 22,U.S. House,03,Michael Aycox,D,
-Hinds,Precinct 22,U.S. House,03,Michael Ted Evans,D,
-Hinds,Precinct 23,U.S. House,03,Michael Aycox,D,
-Hinds,Precinct 23,U.S. House,03,Michael Ted Evans,D,
-Hinds,Precinct 24,U.S. House,03,Michael Aycox,D,
-Hinds,Precinct 24,U.S. House,03,Michael Ted Evans,D,
-Hinds,Precinct 25,U.S. House,03,Michael Aycox,D,
-Hinds,Precinct 25,U.S. House,03,Michael Ted Evans,D,
-Hinds,Precinct 26,U.S. House,03,Michael Aycox,D,
-Hinds,Precinct 26,U.S. House,03,Michael Ted Evans,D,
-Hinds,Precinct 27,U.S. House,03,Michael Aycox,D,
-Hinds,Precinct 27,U.S. House,03,Michael Ted Evans,D,
-Hinds,Precinct 28,U.S. House,03,Michael Aycox,D,
-Hinds,Precinct 28,U.S. House,03,Michael Ted Evans,D,
-Hinds,Precinct 29,U.S. House,03,Michael Aycox,D,
-Hinds,Precinct 29,U.S. House,03,Michael Ted Evans,D,
-Hinds,Precinct 30,U.S. House,03,Michael Aycox,D,
-Hinds,Precinct 30,U.S. House,03,Michael Ted Evans,D,
-Hinds,Precinct 31,U.S. House,03,Michael Aycox,D,
-Hinds,Precinct 31,U.S. House,03,Michael Ted Evans,D,
+Hinds,Precinct 18,U.S. House,03,Michael Aycox,D,x
+Hinds,Precinct 18,U.S. House,03,Michael Ted Evans,D,x
+Hinds,Precinct 19,U.S. House,03,Michael Aycox,D,x
+Hinds,Precinct 19,U.S. House,03,Michael Ted Evans,D,x
+Hinds,Precinct 20,U.S. House,03,Michael Aycox,D,x
+Hinds,Precinct 20,U.S. House,03,Michael Ted Evans,D,x
+Hinds,Precinct 21,U.S. House,03,Michael Aycox,D,x
+Hinds,Precinct 21,U.S. House,03,Michael Ted Evans,D,x
+Hinds,Precinct 22,U.S. House,03,Michael Aycox,D,x
+Hinds,Precinct 22,U.S. House,03,Michael Ted Evans,D,x
+Hinds,Precinct 23,U.S. House,03,Michael Aycox,D,x
+Hinds,Precinct 23,U.S. House,03,Michael Ted Evans,D,x
+Hinds,Precinct 24,U.S. House,03,Michael Aycox,D,x
+Hinds,Precinct 24,U.S. House,03,Michael Ted Evans,D,x
+Hinds,Precinct 25,U.S. House,03,Michael Aycox,D,x
+Hinds,Precinct 25,U.S. House,03,Michael Ted Evans,D,x
+Hinds,Precinct 26,U.S. House,03,Michael Aycox,D,x
+Hinds,Precinct 26,U.S. House,03,Michael Ted Evans,D,x
+Hinds,Precinct 27,U.S. House,03,Michael Aycox,D,x
+Hinds,Precinct 27,U.S. House,03,Michael Ted Evans,D,x
+Hinds,Precinct 28,U.S. House,03,Michael Aycox,D,x
+Hinds,Precinct 28,U.S. House,03,Michael Ted Evans,D,x
+Hinds,Precinct 29,U.S. House,03,Michael Aycox,D,x
+Hinds,Precinct 29,U.S. House,03,Michael Ted Evans,D,x
+Hinds,Precinct 30,U.S. House,03,Michael Aycox,D,x
+Hinds,Precinct 30,U.S. House,03,Michael Ted Evans,D,x
+Hinds,Precinct 31,U.S. House,03,Michael Aycox,D,x
+Hinds,Precinct 31,U.S. House,03,Michael Ted Evans,D,x
 Hinds,Precinct 32,U.S. House,03,Michael Aycox,D,35
 Hinds,Precinct 32,U.S. House,03,Michael Ted Evans,D,29
 Hinds,Precinct 33,U.S. House,03,Michael Aycox,D,35
@@ -7515,18 +7515,18 @@ Hinds,Precinct 36,U.S. House,03,Michael Aycox,D,48
 Hinds,Precinct 36,U.S. House,03,Michael Ted Evans,D,77
 Hinds,Precinct 37,U.S. House,03,Michael Aycox,D,59
 Hinds,Precinct 37,U.S. House,03,Michael Ted Evans,D,75
-Hinds,Precinct 38,U.S. House,03,Michael Aycox,D,
-Hinds,Precinct 38,U.S. House,03,Michael Ted Evans,D,
-Hinds,Precinct 39,U.S. House,03,Michael Aycox,D,
-Hinds,Precinct 39,U.S. House,03,Michael Ted Evans,D,
-Hinds,Precinct 40,U.S. House,03,Michael Aycox,D,
-Hinds,Precinct 40,U.S. House,03,Michael Ted Evans,D,
-Hinds,Precinct 41,U.S. House,03,Michael Aycox,D,
-Hinds,Precinct 41,U.S. House,03,Michael Ted Evans,D,
-Hinds,Precinct 42,U.S. House,03,Michael Aycox,D,
-Hinds,Precinct 42,U.S. House,03,Michael Ted Evans,D,
-Hinds,Precinct 43,U.S. House,03,Michael Aycox,D,
-Hinds,Precinct 43,U.S. House,03,Michael Ted Evans,D,
+Hinds,Precinct 38,U.S. House,03,Michael Aycox,D,x
+Hinds,Precinct 38,U.S. House,03,Michael Ted Evans,D,x
+Hinds,Precinct 39,U.S. House,03,Michael Aycox,D,x
+Hinds,Precinct 39,U.S. House,03,Michael Ted Evans,D,x
+Hinds,Precinct 40,U.S. House,03,Michael Aycox,D,x
+Hinds,Precinct 40,U.S. House,03,Michael Ted Evans,D,x
+Hinds,Precinct 41,U.S. House,03,Michael Aycox,D,x
+Hinds,Precinct 41,U.S. House,03,Michael Ted Evans,D,x
+Hinds,Precinct 42,U.S. House,03,Michael Aycox,D,x
+Hinds,Precinct 42,U.S. House,03,Michael Ted Evans,D,x
+Hinds,Precinct 43,U.S. House,03,Michael Aycox,D,x
+Hinds,Precinct 43,U.S. House,03,Michael Ted Evans,D,x
 Hinds,Precinct 44,U.S. House,03,Michael Aycox,D,72
 Hinds,Precinct 44,U.S. House,03,Michael Ted Evans,D,121
 Hinds,Precinct 45,U.S. House,03,Michael Aycox,D,46
@@ -7535,102 +7535,102 @@ Hinds,Precinct 46,U.S. House,03,Michael Aycox,D,53
 Hinds,Precinct 46,U.S. House,03,Michael Ted Evans,D,72
 Hinds,Precinct 47,U.S. House,03,Michael Aycox,D,16
 Hinds,Precinct 47,U.S. House,03,Michael Ted Evans,D,32
-Hinds,Precinct 49,U.S. House,03,Michael Aycox,D,
-Hinds,Precinct 49,U.S. House,03,Michael Ted Evans,D,
-Hinds,Precinct 51,U.S. House,03,Michael Aycox,D,
-Hinds,Precinct 51,U.S. House,03,Michael Ted Evans,D,
-Hinds,Precinct 54,U.S. House,03,Michael Aycox,D,
-Hinds,Precinct 54,U.S. House,03,Michael Ted Evans,D,
-Hinds,Precinct 55,U.S. House,03,Michael Aycox,D,
-Hinds,Precinct 55,U.S. House,03,Michael Ted Evans,D,
-Hinds,Precinct 56,U.S. House,03,Michael Aycox,D,
-Hinds,Precinct 56,U.S. House,03,Michael Ted Evans,D,
-Hinds,Precinct 57,U.S. House,03,Michael Aycox,D,
-Hinds,Precinct 57,U.S. House,03,Michael Ted Evans,D,
-Hinds,Precinct 58,U.S. House,03,Michael Aycox,D,
-Hinds,Precinct 58,U.S. House,03,Michael Ted Evans,D,
-Hinds,Precinct 59,U.S. House,03,Michael Aycox,D,
-Hinds,Precinct 59,U.S. House,03,Michael Ted Evans,D,
-Hinds,Precinct 60,U.S. House,03,Michael Aycox,D,
-Hinds,Precinct 60,U.S. House,03,Michael Ted Evans,D,
-Hinds,Precinct 61,U.S. House,03,Michael Aycox,D,
-Hinds,Precinct 61,U.S. House,03,Michael Ted Evans,D,
-Hinds,Precinct 62,U.S. House,03,Michael Aycox,D,
-Hinds,Precinct 62,U.S. House,03,Michael Ted Evans,D,
-Hinds,Precinct 63,U.S. House,03,Michael Aycox,D,
-Hinds,Precinct 63,U.S. House,03,Michael Ted Evans,D,
-Hinds,Precinct 64,U.S. House,03,Michael Aycox,D,
-Hinds,Precinct 64,U.S. House,03,Michael Ted Evans,D,
-Hinds,Precinct 68,U.S. House,03,Michael Aycox,D,
-Hinds,Precinct 68,U.S. House,03,Michael Ted Evans,D,
-Hinds,Precinct 69,U.S. House,03,Michael Aycox,D,
-Hinds,Precinct 69,U.S. House,03,Michael Ted Evans,D,
-Hinds,Precinct 70,U.S. House,03,Michael Aycox,D,
-Hinds,Precinct 70,U.S. House,03,Michael Ted Evans,D,
-Hinds,Precinct 71,U.S. House,03,Michael Aycox,D,
-Hinds,Precinct 71,U.S. House,03,Michael Ted Evans,D,
-Hinds,Precinct 72,U.S. House,03,Michael Aycox,D,
-Hinds,Precinct 72,U.S. House,03,Michael Ted Evans,D,
-Hinds,Precinct 73,U.S. House,03,Michael Aycox,D,
-Hinds,Precinct 73,U.S. House,03,Michael Ted Evans,D,
-Hinds,Precinct 74,U.S. House,03,Michael Aycox,D,
-Hinds,Precinct 74,U.S. House,03,Michael Ted Evans,D,
-Hinds,Precinct 76,U.S. House,03,Michael Aycox,D,
-Hinds,Precinct 76,U.S. House,03,Michael Ted Evans,D,
-Hinds,Precinct 77,U.S. House,03,Michael Aycox,D,
-Hinds,Precinct 77,U.S. House,03,Michael Ted Evans,D,
+Hinds,Precinct 49,U.S. House,03,Michael Aycox,D,x
+Hinds,Precinct 49,U.S. House,03,Michael Ted Evans,D,x
+Hinds,Precinct 51,U.S. House,03,Michael Aycox,D,x
+Hinds,Precinct 51,U.S. House,03,Michael Ted Evans,D,x
+Hinds,Precinct 54,U.S. House,03,Michael Aycox,D,x
+Hinds,Precinct 54,U.S. House,03,Michael Ted Evans,D,x
+Hinds,Precinct 55,U.S. House,03,Michael Aycox,D,x
+Hinds,Precinct 55,U.S. House,03,Michael Ted Evans,D,x
+Hinds,Precinct 56,U.S. House,03,Michael Aycox,D,x
+Hinds,Precinct 56,U.S. House,03,Michael Ted Evans,D,x
+Hinds,Precinct 57,U.S. House,03,Michael Aycox,D,x
+Hinds,Precinct 57,U.S. House,03,Michael Ted Evans,D,x
+Hinds,Precinct 58,U.S. House,03,Michael Aycox,D,x
+Hinds,Precinct 58,U.S. House,03,Michael Ted Evans,D,x
+Hinds,Precinct 59,U.S. House,03,Michael Aycox,D,x
+Hinds,Precinct 59,U.S. House,03,Michael Ted Evans,D,x
+Hinds,Precinct 60,U.S. House,03,Michael Aycox,D,x
+Hinds,Precinct 60,U.S. House,03,Michael Ted Evans,D,x
+Hinds,Precinct 61,U.S. House,03,Michael Aycox,D,x
+Hinds,Precinct 61,U.S. House,03,Michael Ted Evans,D,x
+Hinds,Precinct 62,U.S. House,03,Michael Aycox,D,x
+Hinds,Precinct 62,U.S. House,03,Michael Ted Evans,D,x
+Hinds,Precinct 63,U.S. House,03,Michael Aycox,D,x
+Hinds,Precinct 63,U.S. House,03,Michael Ted Evans,D,x
+Hinds,Precinct 64,U.S. House,03,Michael Aycox,D,x
+Hinds,Precinct 64,U.S. House,03,Michael Ted Evans,D,x
+Hinds,Precinct 68,U.S. House,03,Michael Aycox,D,x
+Hinds,Precinct 68,U.S. House,03,Michael Ted Evans,D,x
+Hinds,Precinct 69,U.S. House,03,Michael Aycox,D,x
+Hinds,Precinct 69,U.S. House,03,Michael Ted Evans,D,x
+Hinds,Precinct 70,U.S. House,03,Michael Aycox,D,x
+Hinds,Precinct 70,U.S. House,03,Michael Ted Evans,D,x
+Hinds,Precinct 71,U.S. House,03,Michael Aycox,D,x
+Hinds,Precinct 71,U.S. House,03,Michael Ted Evans,D,x
+Hinds,Precinct 72,U.S. House,03,Michael Aycox,D,x
+Hinds,Precinct 72,U.S. House,03,Michael Ted Evans,D,x
+Hinds,Precinct 73,U.S. House,03,Michael Aycox,D,x
+Hinds,Precinct 73,U.S. House,03,Michael Ted Evans,D,x
+Hinds,Precinct 74,U.S. House,03,Michael Aycox,D,x
+Hinds,Precinct 74,U.S. House,03,Michael Ted Evans,D,x
+Hinds,Precinct 76,U.S. House,03,Michael Aycox,D,x
+Hinds,Precinct 76,U.S. House,03,Michael Ted Evans,D,x
+Hinds,Precinct 77,U.S. House,03,Michael Aycox,D,x
+Hinds,Precinct 77,U.S. House,03,Michael Ted Evans,D,x
 Hinds,Precinct 78,U.S. House,03,Michael Aycox,D,42
 Hinds,Precinct 78,U.S. House,03,Michael Ted Evans,D,67
-Hinds,Precinct 79,U.S. House,03,Michael Aycox,D,
-Hinds,Precinct 79,U.S. House,03,Michael Ted Evans,D,
-Hinds,Precinct 80,U.S. House,03,Michael Aycox,D,
-Hinds,Precinct 80,U.S. House,03,Michael Ted Evans,D,
-Hinds,Precinct 81,U.S. House,03,Michael Aycox,D,
-Hinds,Precinct 81,U.S. House,03,Michael Ted Evans,D,
-Hinds,Precinct 82,U.S. House,03,Michael Aycox,D,
-Hinds,Precinct 82,U.S. House,03,Michael Ted Evans,D,
-Hinds,Precinct 83,U.S. House,03,Michael Aycox,D,
-Hinds,Precinct 83,U.S. House,03,Michael Ted Evans,D,
-Hinds,Precinct 84,U.S. House,03,Michael Aycox,D,
-Hinds,Precinct 84,U.S. House,03,Michael Ted Evans,D,
-Hinds,Precinct 85,U.S. House,03,Michael Aycox,D,
-Hinds,Precinct 85,U.S. House,03,Michael Ted Evans,D,
-Hinds,Precinct 86,U.S. House,03,Michael Aycox,D,
-Hinds,Precinct 86,U.S. House,03,Michael Ted Evans,D,
-Hinds,Precinct 88,U.S. House,03,Michael Aycox,D,
-Hinds,Precinct 88,U.S. House,03,Michael Ted Evans,D,
-Hinds,Precinct 89,U.S. House,03,Michael Aycox,D,
-Hinds,Precinct 89,U.S. House,03,Michael Ted Evans,D,
-Hinds,Precinct 90,U.S. House,03,Michael Aycox,D,
-Hinds,Precinct 90,U.S. House,03,Michael Ted Evans,D,
-Hinds,Precinct 91,U.S. House,03,Michael Aycox,D,
-Hinds,Precinct 91,U.S. House,03,Michael Ted Evans,D,
-Hinds,Precinct 92,U.S. House,03,Michael Aycox,D,
-Hinds,Precinct 92,U.S. House,03,Michael Ted Evans,D,
-Hinds,Precinct 93,U.S. House,03,Michael Aycox,D,
-Hinds,Precinct 93,U.S. House,03,Michael Ted Evans,D,
-Hinds,Precinct 94,U.S. House,03,Michael Aycox,D,
-Hinds,Precinct 94,U.S. House,03,Michael Ted Evans,D,
-Hinds,Precinct 96,U.S. House,03,Michael Aycox,D,
-Hinds,Precinct 96,U.S. House,03,Michael Ted Evans,D,
-Hinds,Raymond 1,U.S. House,03,Michael Aycox,D,
-Hinds,Raymond 1,U.S. House,03,Michael Ted Evans,D,
-Hinds,Raymond 2,U.S. House,03,Michael Aycox,D,
-Hinds,Raymond 2,U.S. House,03,Michael Ted Evans,D,
-Hinds,Springridge,U.S. House,03,Michael Aycox,D,
-Hinds,Springridge,U.S. House,03,Michael Ted Evans,D,
-Hinds,St Thomas,U.S. House,03,Michael Aycox,D,
-Hinds,St Thomas,U.S. House,03,Michael Ted Evans,D,
-Hinds,Terry 1,U.S. House,03,Michael Aycox,D,
-Hinds,Terry 1,U.S. House,03,Michael Ted Evans,D,
-Hinds,Terry 2,U.S. House,03,Michael Aycox,D,
-Hinds,Terry 2,U.S. House,03,Michael Ted Evans,D,
-Hinds,Tinnin,U.S. House,03,Michael Aycox,D,
-Hinds,Tinnin,U.S. House,03,Michael Ted Evans,D,
-Hinds,Utica 1,U.S. House,03,Michael Aycox,D,
-Hinds,Utica 1,U.S. House,03,Michael Ted Evans,D,
-Hinds,Utica 2,U.S. House,03,Michael Aycox,D,
-Hinds,Utica 2,U.S. House,03,Michael Ted Evans,D,
+Hinds,Precinct 79,U.S. House,03,Michael Aycox,D,x
+Hinds,Precinct 79,U.S. House,03,Michael Ted Evans,D,x
+Hinds,Precinct 80,U.S. House,03,Michael Aycox,D,x
+Hinds,Precinct 80,U.S. House,03,Michael Ted Evans,D,x
+Hinds,Precinct 81,U.S. House,03,Michael Aycox,D,x
+Hinds,Precinct 81,U.S. House,03,Michael Ted Evans,D,x
+Hinds,Precinct 82,U.S. House,03,Michael Aycox,D,x
+Hinds,Precinct 82,U.S. House,03,Michael Ted Evans,D,x
+Hinds,Precinct 83,U.S. House,03,Michael Aycox,D,x
+Hinds,Precinct 83,U.S. House,03,Michael Ted Evans,D,x
+Hinds,Precinct 84,U.S. House,03,Michael Aycox,D,x
+Hinds,Precinct 84,U.S. House,03,Michael Ted Evans,D,x
+Hinds,Precinct 85,U.S. House,03,Michael Aycox,D,x
+Hinds,Precinct 85,U.S. House,03,Michael Ted Evans,D,x
+Hinds,Precinct 86,U.S. House,03,Michael Aycox,D,x
+Hinds,Precinct 86,U.S. House,03,Michael Ted Evans,D,x
+Hinds,Precinct 88,U.S. House,03,Michael Aycox,D,x
+Hinds,Precinct 88,U.S. House,03,Michael Ted Evans,D,x
+Hinds,Precinct 89,U.S. House,03,Michael Aycox,D,x
+Hinds,Precinct 89,U.S. House,03,Michael Ted Evans,D,x
+Hinds,Precinct 90,U.S. House,03,Michael Aycox,D,x
+Hinds,Precinct 90,U.S. House,03,Michael Ted Evans,D,x
+Hinds,Precinct 91,U.S. House,03,Michael Aycox,D,x
+Hinds,Precinct 91,U.S. House,03,Michael Ted Evans,D,x
+Hinds,Precinct 92,U.S. House,03,Michael Aycox,D,x
+Hinds,Precinct 92,U.S. House,03,Michael Ted Evans,D,x
+Hinds,Precinct 93,U.S. House,03,Michael Aycox,D,x
+Hinds,Precinct 93,U.S. House,03,Michael Ted Evans,D,x
+Hinds,Precinct 94,U.S. House,03,Michael Aycox,D,x
+Hinds,Precinct 94,U.S. House,03,Michael Ted Evans,D,x
+Hinds,Precinct 96,U.S. House,03,Michael Aycox,D,x
+Hinds,Precinct 96,U.S. House,03,Michael Ted Evans,D,x
+Hinds,Raymond 1,U.S. House,03,Michael Aycox,D,x
+Hinds,Raymond 1,U.S. House,03,Michael Ted Evans,D,x
+Hinds,Raymond 2,U.S. House,03,Michael Aycox,D,x
+Hinds,Raymond 2,U.S. House,03,Michael Ted Evans,D,x
+Hinds,Springridge,U.S. House,03,Michael Aycox,D,x
+Hinds,Springridge,U.S. House,03,Michael Ted Evans,D,x
+Hinds,St Thomas,U.S. House,03,Michael Aycox,D,x
+Hinds,St Thomas,U.S. House,03,Michael Ted Evans,D,x
+Hinds,Terry 1,U.S. House,03,Michael Aycox,D,x
+Hinds,Terry 1,U.S. House,03,Michael Ted Evans,D,x
+Hinds,Terry 2,U.S. House,03,Michael Aycox,D,x
+Hinds,Terry 2,U.S. House,03,Michael Ted Evans,D,x
+Hinds,Tinnin,U.S. House,03,Michael Aycox,D,x
+Hinds,Tinnin,U.S. House,03,Michael Ted Evans,D,x
+Hinds,Utica 1,U.S. House,03,Michael Aycox,D,x
+Hinds,Utica 1,U.S. House,03,Michael Ted Evans,D,x
+Hinds,Utica 2,U.S. House,03,Michael Aycox,D,x
+Hinds,Utica 2,U.S. House,03,Michael Ted Evans,D,x
 Hinds,TOTAL,U.S. House,03,Michael Aycox,D,862
 Hinds,TOTAL,U.S. House,03,Michael Ted Evans,D,922
 Holmes,1 Acona,U.S. Senate,,Richard Warren Boyanton,R,0
@@ -13021,72 +13021,72 @@ Madison,Victory Christian Community,U.S. Senate,,Richard Warren Boyanton,R,68
 Madison,Victory Christian Community,U.S. Senate,,Roger F. Wicker,R,502
 Madison,TOTAL,U.S. Senate,,Richard Warren Boyanton,R,1113
 Madison,TOTAL,U.S. Senate,,Roger F. Wicker,R,8827
-Madison,Camden Community Center,U.S. House,03,Sally Doty,R,
-Madison,Camden Community Center,U.S. House,03,Morgan Dunn,R,
-Madison,Camden Community Center,U.S. House,03,Michael Guest,R,
-Madison,Camden Community Center,U.S. House,03,Whit Hughes,R,
-Madison,Camden Community Center,U.S. House,03,Perry Parker,R,
-Madison,Camden Community Center,U.S. House,03,Katherine 'Bitzi' Tate,R,
-Madison,Cameron Bethel M. B. Church,U.S. House,03,Sally Doty,R,
-Madison,Cameron Bethel M. B. Church,U.S. House,03,Morgan Dunn,R,
-Madison,Cameron Bethel M. B. Church,U.S. House,03,Michael Guest,R,
-Madison,Cameron Bethel M. B. Church,U.S. House,03,Whit Hughes,R,
-Madison,Cameron Bethel M. B. Church,U.S. House,03,Perry Parker,R,
-Madison,Cameron Bethel M. B. Church,U.S. House,03,Katherine 'Bitzi' Tate,R,
-Madison,Canton Anderson Lodge,U.S. House,03,Sally Doty,R,
-Madison,Canton Anderson Lodge,U.S. House,03,Morgan Dunn,R,
-Madison,Canton Anderson Lodge,U.S. House,03,Michael Guest,R,
-Madison,Canton Anderson Lodge,U.S. House,03,Whit Hughes,R,
-Madison,Canton Anderson Lodge,U.S. House,03,Perry Parker,R,
-Madison,Canton Anderson Lodge,U.S. House,03,Katherine 'Bitzi' Tate,R,
-Madison,Canton Bible Church,U.S. House,03,Sally Doty,R,
-Madison,Canton Bible Church,U.S. House,03,Morgan Dunn,R,
-Madison,Canton Bible Church,U.S. House,03,Michael Guest,R,
-Madison,Canton Bible Church,U.S. House,03,Whit Hughes,R,
-Madison,Canton Bible Church,U.S. House,03,Perry Parker,R,
-Madison,Canton Bible Church,U.S. House,03,Katherine 'Bitzi' Tate,R,
-Madison,Canton Catholic Parish Center,U.S. House,03,Sally Doty,R,
-Madison,Canton Catholic Parish Center,U.S. House,03,Morgan Dunn,R,
-Madison,Canton Catholic Parish Center,U.S. House,03,Michael Guest,R,
-Madison,Canton Catholic Parish Center,U.S. House,03,Whit Hughes,R,
-Madison,Canton Catholic Parish Center,U.S. House,03,Perry Parker,R,
-Madison,Canton Catholic Parish Center,U.S. House,03,Katherine 'Bitzi' Tate,R,
-Madison,Canton Community Center,U.S. House,03,Sally Doty,R,
-Madison,Canton Community Center,U.S. House,03,Morgan Dunn,R,
-Madison,Canton Community Center,U.S. House,03,Michael Guest,R,
-Madison,Canton Community Center,U.S. House,03,Whit Hughes,R,
-Madison,Canton Community Center,U.S. House,03,Perry Parker,R,
-Madison,Canton Community Center,U.S. House,03,Katherine 'Bitzi' Tate,R,
-Madison,Canton Fire Station # 4,U.S. House,03,Sally Doty,R,
-Madison,Canton Fire Station # 4,U.S. House,03,Morgan Dunn,R,
-Madison,Canton Fire Station # 4,U.S. House,03,Michael Guest,R,
-Madison,Canton Fire Station # 4,U.S. House,03,Whit Hughes,R,
-Madison,Canton Fire Station # 4,U.S. House,03,Perry Parker,R,
-Madison,Canton Fire Station # 4,U.S. House,03,Katherine 'Bitzi' Tate,R,
-Madison,Canton National Guard Armory,U.S. House,03,Sally Doty,R,
-Madison,Canton National Guard Armory,U.S. House,03,Morgan Dunn,R,
-Madison,Canton National Guard Armory,U.S. House,03,Michael Guest,R,
-Madison,Canton National Guard Armory,U.S. House,03,Whit Hughes,R,
-Madison,Canton National Guard Armory,U.S. House,03,Perry Parker,R,
-Madison,Canton National Guard Armory,U.S. House,03,Katherine 'Bitzi' Tate,R,
-Madison,Canton South Liberty Baptist Church,U.S. House,03,Sally Doty,R,
-Madison,Canton South Liberty Baptist Church,U.S. House,03,Morgan Dunn,R,
-Madison,Canton South Liberty Baptist Church,U.S. House,03,Michael Guest,R,
-Madison,Canton South Liberty Baptist Church,U.S. House,03,Whit Hughes,R,
-Madison,Canton South Liberty Baptist Church,U.S. House,03,Perry Parker,R,
-Madison,Canton South Liberty Baptist Church,U.S. House,03,Katherine 'Bitzi' Tate,R,
-Madison,Canton St. Paul Methodist Church,U.S. House,03,Sally Doty,R,
-Madison,Canton St. Paul Methodist Church,U.S. House,03,Morgan Dunn,R,
-Madison,Canton St. Paul Methodist Church,U.S. House,03,Michael Guest,R,
-Madison,Canton St. Paul Methodist Church,U.S. House,03,Whit Hughes,R,
-Madison,Canton St. Paul Methodist Church,U.S. House,03,Perry Parker,R,
-Madison,Canton St. Paul Methodist Church,U.S. House,03,Katherine 'Bitzi' Tate,R,
-Madison,Cedar Grove Baptist Church,U.S. House,03,Sally Doty,R,
-Madison,Cedar Grove Baptist Church,U.S. House,03,Morgan Dunn,R,
-Madison,Cedar Grove Baptist Church,U.S. House,03,Michael Guest,R,
-Madison,Cedar Grove Baptist Church,U.S. House,03,Whit Hughes,R,
-Madison,Cedar Grove Baptist Church,U.S. House,03,Perry Parker,R,
-Madison,Cedar Grove Baptist Church,U.S. House,03,Katherine 'Bitzi' Tate,R,
+Madison,Camden Community Center,U.S. House,03,Sally Doty,R,x
+Madison,Camden Community Center,U.S. House,03,Morgan Dunn,R,x
+Madison,Camden Community Center,U.S. House,03,Michael Guest,R,x
+Madison,Camden Community Center,U.S. House,03,Whit Hughes,R,x
+Madison,Camden Community Center,U.S. House,03,Perry Parker,R,x
+Madison,Camden Community Center,U.S. House,03,Katherine 'Bitzi' Tate,R,x
+Madison,Cameron Bethel M. B. Church,U.S. House,03,Sally Doty,R,x
+Madison,Cameron Bethel M. B. Church,U.S. House,03,Morgan Dunn,R,x
+Madison,Cameron Bethel M. B. Church,U.S. House,03,Michael Guest,R,x
+Madison,Cameron Bethel M. B. Church,U.S. House,03,Whit Hughes,R,x
+Madison,Cameron Bethel M. B. Church,U.S. House,03,Perry Parker,R,x
+Madison,Cameron Bethel M. B. Church,U.S. House,03,Katherine 'Bitzi' Tate,R,x
+Madison,Canton Anderson Lodge,U.S. House,03,Sally Doty,R,x
+Madison,Canton Anderson Lodge,U.S. House,03,Morgan Dunn,R,x
+Madison,Canton Anderson Lodge,U.S. House,03,Michael Guest,R,x
+Madison,Canton Anderson Lodge,U.S. House,03,Whit Hughes,R,x
+Madison,Canton Anderson Lodge,U.S. House,03,Perry Parker,R,x
+Madison,Canton Anderson Lodge,U.S. House,03,Katherine 'Bitzi' Tate,R,x
+Madison,Canton Bible Church,U.S. House,03,Sally Doty,R,x
+Madison,Canton Bible Church,U.S. House,03,Morgan Dunn,R,x
+Madison,Canton Bible Church,U.S. House,03,Michael Guest,R,x
+Madison,Canton Bible Church,U.S. House,03,Whit Hughes,R,x
+Madison,Canton Bible Church,U.S. House,03,Perry Parker,R,x
+Madison,Canton Bible Church,U.S. House,03,Katherine 'Bitzi' Tate,R,x
+Madison,Canton Catholic Parish Center,U.S. House,03,Sally Doty,R,x
+Madison,Canton Catholic Parish Center,U.S. House,03,Morgan Dunn,R,x
+Madison,Canton Catholic Parish Center,U.S. House,03,Michael Guest,R,x
+Madison,Canton Catholic Parish Center,U.S. House,03,Whit Hughes,R,x
+Madison,Canton Catholic Parish Center,U.S. House,03,Perry Parker,R,x
+Madison,Canton Catholic Parish Center,U.S. House,03,Katherine 'Bitzi' Tate,R,x
+Madison,Canton Community Center,U.S. House,03,Sally Doty,R,x
+Madison,Canton Community Center,U.S. House,03,Morgan Dunn,R,x
+Madison,Canton Community Center,U.S. House,03,Michael Guest,R,x
+Madison,Canton Community Center,U.S. House,03,Whit Hughes,R,x
+Madison,Canton Community Center,U.S. House,03,Perry Parker,R,x
+Madison,Canton Community Center,U.S. House,03,Katherine 'Bitzi' Tate,R,x
+Madison,Canton Fire Station # 4,U.S. House,03,Sally Doty,R,x
+Madison,Canton Fire Station # 4,U.S. House,03,Morgan Dunn,R,x
+Madison,Canton Fire Station # 4,U.S. House,03,Michael Guest,R,x
+Madison,Canton Fire Station # 4,U.S. House,03,Whit Hughes,R,x
+Madison,Canton Fire Station # 4,U.S. House,03,Perry Parker,R,x
+Madison,Canton Fire Station # 4,U.S. House,03,Katherine 'Bitzi' Tate,R,x
+Madison,Canton National Guard Armory,U.S. House,03,Sally Doty,R,x
+Madison,Canton National Guard Armory,U.S. House,03,Morgan Dunn,R,x
+Madison,Canton National Guard Armory,U.S. House,03,Michael Guest,R,x
+Madison,Canton National Guard Armory,U.S. House,03,Whit Hughes,R,x
+Madison,Canton National Guard Armory,U.S. House,03,Perry Parker,R,x
+Madison,Canton National Guard Armory,U.S. House,03,Katherine 'Bitzi' Tate,R,x
+Madison,Canton South Liberty Baptist Church,U.S. House,03,Sally Doty,R,x
+Madison,Canton South Liberty Baptist Church,U.S. House,03,Morgan Dunn,R,x
+Madison,Canton South Liberty Baptist Church,U.S. House,03,Michael Guest,R,x
+Madison,Canton South Liberty Baptist Church,U.S. House,03,Whit Hughes,R,x
+Madison,Canton South Liberty Baptist Church,U.S. House,03,Perry Parker,R,x
+Madison,Canton South Liberty Baptist Church,U.S. House,03,Katherine 'Bitzi' Tate,R,x
+Madison,Canton St. Paul Methodist Church,U.S. House,03,Sally Doty,R,x
+Madison,Canton St. Paul Methodist Church,U.S. House,03,Morgan Dunn,R,x
+Madison,Canton St. Paul Methodist Church,U.S. House,03,Michael Guest,R,x
+Madison,Canton St. Paul Methodist Church,U.S. House,03,Whit Hughes,R,x
+Madison,Canton St. Paul Methodist Church,U.S. House,03,Perry Parker,R,x
+Madison,Canton St. Paul Methodist Church,U.S. House,03,Katherine 'Bitzi' Tate,R,x
+Madison,Cedar Grove Baptist Church,U.S. House,03,Sally Doty,R,x
+Madison,Cedar Grove Baptist Church,U.S. House,03,Morgan Dunn,R,x
+Madison,Cedar Grove Baptist Church,U.S. House,03,Michael Guest,R,x
+Madison,Cedar Grove Baptist Church,U.S. House,03,Whit Hughes,R,x
+Madison,Cedar Grove Baptist Church,U.S. House,03,Perry Parker,R,x
+Madison,Cedar Grove Baptist Church,U.S. House,03,Katherine 'Bitzi' Tate,R,x
 Madison,China Grove A.M.E. Church,U.S. House,03,Sally Doty,R,28
 Madison,China Grove A.M.E. Church,U.S. House,03,Morgan Dunn,R,9
 Madison,China Grove A.M.E. Church,U.S. House,03,Michael Guest,R,180
@@ -13099,18 +13099,18 @@ Madison,Colonial Heights Baptist Church,U.S. House,03,Michael Guest,R,84
 Madison,Colonial Heights Baptist Church,U.S. House,03,Whit Hughes,R,26
 Madison,Colonial Heights Baptist Church,U.S. House,03,Perry Parker,R,14
 Madison,Colonial Heights Baptist Church,U.S. House,03,Katherine 'Bitzi' Tate,R,1
-Madison,Couparle United Methodist Church,U.S. House,03,Sally Doty,R,
-Madison,Couparle United Methodist Church,U.S. House,03,Morgan Dunn,R,
-Madison,Couparle United Methodist Church,U.S. House,03,Michael Guest,R,
-Madison,Couparle United Methodist Church,U.S. House,03,Whit Hughes,R,
-Madison,Couparle United Methodist Church,U.S. House,03,Perry Parker,R,
-Madison,Couparle United Methodist Church,U.S. House,03,Katherine 'Bitzi' Tate,R,
-Madison,Farmhaven Fire Station,U.S. House,03,Sally Doty,R,
-Madison,Farmhaven Fire Station,U.S. House,03,Morgan Dunn,R,
-Madison,Farmhaven Fire Station,U.S. House,03,Michael Guest,R,
-Madison,Farmhaven Fire Station,U.S. House,03,Whit Hughes,R,
-Madison,Farmhaven Fire Station,U.S. House,03,Perry Parker,R,
-Madison,Farmhaven Fire Station,U.S. House,03,Katherine 'Bitzi' Tate,R,
+Madison,Couparle United Methodist Church,U.S. House,03,Sally Doty,R,x
+Madison,Couparle United Methodist Church,U.S. House,03,Morgan Dunn,R,x
+Madison,Couparle United Methodist Church,U.S. House,03,Michael Guest,R,x
+Madison,Couparle United Methodist Church,U.S. House,03,Whit Hughes,R,x
+Madison,Couparle United Methodist Church,U.S. House,03,Perry Parker,R,x
+Madison,Couparle United Methodist Church,U.S. House,03,Katherine 'Bitzi' Tate,R,x
+Madison,Farmhaven Fire Station,U.S. House,03,Sally Doty,R,x
+Madison,Farmhaven Fire Station,U.S. House,03,Morgan Dunn,R,x
+Madison,Farmhaven Fire Station,U.S. House,03,Michael Guest,R,x
+Madison,Farmhaven Fire Station,U.S. House,03,Whit Hughes,R,x
+Madison,Farmhaven Fire Station,U.S. House,03,Perry Parker,R,x
+Madison,Farmhaven Fire Station,U.S. House,03,Katherine 'Bitzi' Tate,R,x
 Madison,Fearns Chapel Freewill Baptist,U.S. House,03,Sally Doty,R,5
 Madison,Fearns Chapel Freewill Baptist,U.S. House,03,Morgan Dunn,R,2
 Madison,Fearns Chapel Freewill Baptist,U.S. House,03,Michael Guest,R,137
@@ -13153,12 +13153,12 @@ Madison,Grace Crossing,U.S. House,03,Michael Guest,R,283
 Madison,Grace Crossing,U.S. House,03,Whit Hughes,R,172
 Madison,Grace Crossing,U.S. House,03,Perry Parker,R,47
 Madison,Grace Crossing,U.S. House,03,Katherine 'Bitzi' Tate,R,1
-Madison,Greater Mt Levi Full Gospel,U.S. House,03,Sally Doty,R,
-Madison,Greater Mt Levi Full Gospel,U.S. House,03,Morgan Dunn,R,
-Madison,Greater Mt Levi Full Gospel,U.S. House,03,Michael Guest,R,
-Madison,Greater Mt Levi Full Gospel,U.S. House,03,Whit Hughes,R,
-Madison,Greater Mt Levi Full Gospel,U.S. House,03,Perry Parker,R,
-Madison,Greater Mt Levi Full Gospel,U.S. House,03,Katherine 'Bitzi' Tate,R,
+Madison,Greater Mt Levi Full Gospel,U.S. House,03,Sally Doty,R,x
+Madison,Greater Mt Levi Full Gospel,U.S. House,03,Morgan Dunn,R,x
+Madison,Greater Mt Levi Full Gospel,U.S. House,03,Michael Guest,R,x
+Madison,Greater Mt Levi Full Gospel,U.S. House,03,Whit Hughes,R,x
+Madison,Greater Mt Levi Full Gospel,U.S. House,03,Perry Parker,R,x
+Madison,Greater Mt Levi Full Gospel,U.S. House,03,Katherine 'Bitzi' Tate,R,x
 Madison,Highland Chapel Church,U.S. House,03,Sally Doty,R,62
 Madison,Highland Chapel Church,U.S. House,03,Morgan Dunn,R,15
 Madison,Highland Chapel Church,U.S. House,03,Michael Guest,R,395
@@ -13177,30 +13177,30 @@ Madison,Lake Caroline Clubhouse,U.S. House,03,Michael Guest,R,310
 Madison,Lake Caroline Clubhouse,U.S. House,03,Whit Hughes,R,214
 Madison,Lake Caroline Clubhouse,U.S. House,03,Perry Parker,R,58
 Madison,Lake Caroline Clubhouse,U.S. House,03,Katherine 'Bitzi' Tate,R,3
-Madison,Mad. Co. Baptist Family Life Ct,U.S. House,03,Sally Doty,R,
-Madison,Mad. Co. Baptist Family Life Ct,U.S. House,03,Morgan Dunn,R,
-Madison,Mad. Co. Baptist Family Life Ct,U.S. House,03,Michael Guest,R,
-Madison,Mad. Co. Baptist Family Life Ct,U.S. House,03,Whit Hughes,R,
-Madison,Mad. Co. Baptist Family Life Ct,U.S. House,03,Perry Parker,R,
-Madison,Mad. Co. Baptist Family Life Ct,U.S. House,03,Katherine 'Bitzi' Tate,R,
-Madison,Magnolia Heights,U.S. House,03,Sally Doty,R,
-Madison,Magnolia Heights,U.S. House,03,Morgan Dunn,R,
-Madison,Magnolia Heights,U.S. House,03,Michael Guest,R,
-Madison,Magnolia Heights,U.S. House,03,Whit Hughes,R,
-Madison,Magnolia Heights,U.S. House,03,Perry Parker,R,
-Madison,Magnolia Heights,U.S. House,03,Katherine 'Bitzi' Tate,R,
+Madison,Mad. Co. Baptist Family Life Ct,U.S. House,03,Sally Doty,R,x
+Madison,Mad. Co. Baptist Family Life Ct,U.S. House,03,Morgan Dunn,R,x
+Madison,Mad. Co. Baptist Family Life Ct,U.S. House,03,Michael Guest,R,x
+Madison,Mad. Co. Baptist Family Life Ct,U.S. House,03,Whit Hughes,R,x
+Madison,Mad. Co. Baptist Family Life Ct,U.S. House,03,Perry Parker,R,x
+Madison,Mad. Co. Baptist Family Life Ct,U.S. House,03,Katherine 'Bitzi' Tate,R,x
+Madison,Magnolia Heights,U.S. House,03,Sally Doty,R,x
+Madison,Magnolia Heights,U.S. House,03,Morgan Dunn,R,x
+Madison,Magnolia Heights,U.S. House,03,Michael Guest,R,x
+Madison,Magnolia Heights,U.S. House,03,Whit Hughes,R,x
+Madison,Magnolia Heights,U.S. House,03,Perry Parker,R,x
+Madison,Magnolia Heights,U.S. House,03,Katherine 'Bitzi' Tate,R,x
 Madison,Mark Apartments,U.S. House,03,Sally Doty,R,5
 Madison,Mark Apartments,U.S. House,03,Morgan Dunn,R,0
 Madison,Mark Apartments,U.S. House,03,Michael Guest,R,51
 Madison,Mark Apartments,U.S. House,03,Whit Hughes,R,29
 Madison,Mark Apartments,U.S. House,03,Perry Parker,R,10
 Madison,Mark Apartments,U.S. House,03,Katherine 'Bitzi' Tate,R,1
-Madison,Mt. Hope M.B. Church,U.S. House,03,Sally Doty,R,
-Madison,Mt. Hope M.B. Church,U.S. House,03,Morgan Dunn,R,
-Madison,Mt. Hope M.B. Church,U.S. House,03,Michael Guest,R,
-Madison,Mt. Hope M.B. Church,U.S. House,03,Whit Hughes,R,
-Madison,Mt. Hope M.B. Church,U.S. House,03,Perry Parker,R,
-Madison,Mt. Hope M.B. Church,U.S. House,03,Katherine 'Bitzi' Tate,R,
+Madison,Mt. Hope M.B. Church,U.S. House,03,Sally Doty,R,x
+Madison,Mt. Hope M.B. Church,U.S. House,03,Morgan Dunn,R,x
+Madison,Mt. Hope M.B. Church,U.S. House,03,Michael Guest,R,x
+Madison,Mt. Hope M.B. Church,U.S. House,03,Whit Hughes,R,x
+Madison,Mt. Hope M.B. Church,U.S. House,03,Perry Parker,R,x
+Madison,Mt. Hope M.B. Church,U.S. House,03,Katherine 'Bitzi' Tate,R,x
 Madison,New Life Baptist Church,U.S. House,03,Sally Doty,R,16
 Madison,New Life Baptist Church,U.S. House,03,Morgan Dunn,R,10
 Madison,New Life Baptist Church,U.S. House,03,Michael Guest,R,230
@@ -13213,18 +13213,18 @@ Madison,Northbay Bayview Clubhouse,U.S. House,03,Michael Guest,R,122
 Madison,Northbay Bayview Clubhouse,U.S. House,03,Whit Hughes,R,76
 Madison,Northbay Bayview Clubhouse,U.S. House,03,Perry Parker,R,16
 Madison,Northbay Bayview Clubhouse,U.S. House,03,Katherine 'Bitzi' Tate,R,2
-Madison,Pleasant Gift Baptist Church,U.S. House,03,Sally Doty,R,
-Madison,Pleasant Gift Baptist Church,U.S. House,03,Morgan Dunn,R,
-Madison,Pleasant Gift Baptist Church,U.S. House,03,Michael Guest,R,
-Madison,Pleasant Gift Baptist Church,U.S. House,03,Whit Hughes,R,
-Madison,Pleasant Gift Baptist Church,U.S. House,03,Perry Parker,R,
-Madison,Pleasant Gift Baptist Church,U.S. House,03,Katherine 'Bitzi' Tate,R,
-Madison,Pleasant Green M.B. Church,U.S. House,03,Sally Doty,R,
-Madison,Pleasant Green M.B. Church,U.S. House,03,Morgan Dunn,R,
-Madison,Pleasant Green M.B. Church,U.S. House,03,Michael Guest,R,
-Madison,Pleasant Green M.B. Church,U.S. House,03,Whit Hughes,R,
-Madison,Pleasant Green M.B. Church,U.S. House,03,Perry Parker,R,
-Madison,Pleasant Green M.B. Church,U.S. House,03,Katherine 'Bitzi' Tate,R,
+Madison,Pleasant Gift Baptist Church,U.S. House,03,Sally Doty,R,x
+Madison,Pleasant Gift Baptist Church,U.S. House,03,Morgan Dunn,R,x
+Madison,Pleasant Gift Baptist Church,U.S. House,03,Michael Guest,R,x
+Madison,Pleasant Gift Baptist Church,U.S. House,03,Whit Hughes,R,x
+Madison,Pleasant Gift Baptist Church,U.S. House,03,Perry Parker,R,x
+Madison,Pleasant Gift Baptist Church,U.S. House,03,Katherine 'Bitzi' Tate,R,x
+Madison,Pleasant Green M.B. Church,U.S. House,03,Sally Doty,R,x
+Madison,Pleasant Green M.B. Church,U.S. House,03,Morgan Dunn,R,x
+Madison,Pleasant Green M.B. Church,U.S. House,03,Michael Guest,R,x
+Madison,Pleasant Green M.B. Church,U.S. House,03,Whit Hughes,R,x
+Madison,Pleasant Green M.B. Church,U.S. House,03,Perry Parker,R,x
+Madison,Pleasant Green M.B. Church,U.S. House,03,Katherine 'Bitzi' Tate,R,x
 Madison,Ridgel'D 1st Methodist Church,U.S. House,03,Sally Doty,R,23
 Madison,Ridgel'D 1st Methodist Church,U.S. House,03,Morgan Dunn,R,4
 Madison,Ridgel'D 1st Methodist Church,U.S. House,03,Michael Guest,R,169
@@ -13243,12 +13243,12 @@ Madison,Sunnybrook Retirement Village,U.S. House,03,Michael Guest,R,59
 Madison,Sunnybrook Retirement Village,U.S. House,03,Whit Hughes,R,100
 Madison,Sunnybrook Retirement Village,U.S. House,03,Perry Parker,R,14
 Madison,Sunnybrook Retirement Village,U.S. House,03,Katherine 'Bitzi' Tate,R,0
-Madison,Tougaloo,U.S. House,03,Sally Doty,R,
-Madison,Tougaloo,U.S. House,03,Morgan Dunn,R,
-Madison,Tougaloo,U.S. House,03,Michael Guest,R,
-Madison,Tougaloo,U.S. House,03,Whit Hughes,R,
-Madison,Tougaloo,U.S. House,03,Perry Parker,R,
-Madison,Tougaloo,U.S. House,03,Katherine 'Bitzi' Tate,R,
+Madison,Tougaloo,U.S. House,03,Sally Doty,R,x
+Madison,Tougaloo,U.S. House,03,Morgan Dunn,R,x
+Madison,Tougaloo,U.S. House,03,Michael Guest,R,x
+Madison,Tougaloo,U.S. House,03,Whit Hughes,R,x
+Madison,Tougaloo,U.S. House,03,Perry Parker,R,x
+Madison,Tougaloo,U.S. House,03,Katherine 'Bitzi' Tate,R,x
 Madison,Trace Ridge Baptist Church,U.S. House,03,Sally Doty,R,37
 Madison,Trace Ridge Baptist Church,U.S. House,03,Morgan Dunn,R,13
 Madison,Trace Ridge Baptist Church,U.S. House,03,Michael Guest,R,212
@@ -13560,69 +13560,69 @@ Madison,Canton National Guard Armory,U.S. House,02,Bennie G. Thompson,D,23
 Madison,Canton South Liberty Baptist Church,U.S. House,02,Bennie G. Thompson,D,134
 Madison,Canton St. Paul Methodist Church,U.S. House,02,Bennie G. Thompson,D,29
 Madison,Cedar Grove Baptist Church,U.S. House,02,Bennie G. Thompson,D,4
-Madison,China Grove A.M.E. Church,U.S. House,02,Bennie G. Thompson,D,
-Madison,Colonial Heights Baptist Church,U.S. House,02,Bennie G. Thompson,D,
+Madison,China Grove A.M.E. Church,U.S. House,02,Bennie G. Thompson,D,x
+Madison,Colonial Heights Baptist Church,U.S. House,02,Bennie G. Thompson,D,x
 Madison,Couparle United Methodist Church,U.S. House,02,Bennie G. Thompson,D,10
 Madison,Farmhaven Fire Station,U.S. House,02,Bennie G. Thompson,D,139
-Madison,Fearns Chapel Freewill Baptist,U.S. House,02,Bennie G. Thompson,D,
-Madison,Fellowship Bible Church,U.S. House,02,Bennie G. Thompson,D,
-Madison,First Baptist Madison,U.S. House,02,Bennie G. Thompson,D,
-Madison,First Presbyterian Madison,U.S. House,02,Bennie G. Thompson,D,
-Madison,Franklin Baptist Church,U.S. House,02,Bennie G. Thompson,D,
-Madison,Gluckstadt @ St Joe Catholic,U.S. House,02,Bennie G. Thompson,D,
-Madison,Grace Crossing,U.S. House,02,Bennie G. Thompson,D,
+Madison,Fearns Chapel Freewill Baptist,U.S. House,02,Bennie G. Thompson,D,x
+Madison,Fellowship Bible Church,U.S. House,02,Bennie G. Thompson,D,x
+Madison,First Baptist Madison,U.S. House,02,Bennie G. Thompson,D,x
+Madison,First Presbyterian Madison,U.S. House,02,Bennie G. Thompson,D,x
+Madison,Franklin Baptist Church,U.S. House,02,Bennie G. Thompson,D,x
+Madison,Gluckstadt @ St Joe Catholic,U.S. House,02,Bennie G. Thompson,D,x
+Madison,Grace Crossing,U.S. House,02,Bennie G. Thompson,D,x
 Madison,Greater Mt Levi Full Gospel,U.S. House,02,Bennie G. Thompson,D,73
-Madison,Highland Chapel Church,U.S. House,02,Bennie G. Thompson,D,
-Madison,Highland Colony Baptist Church,U.S. House,02,Bennie G. Thompson,D,
-Madison,Lake Caroline Clubhouse,U.S. House,02,Bennie G. Thompson,D,
+Madison,Highland Chapel Church,U.S. House,02,Bennie G. Thompson,D,x
+Madison,Highland Colony Baptist Church,U.S. House,02,Bennie G. Thompson,D,x
+Madison,Lake Caroline Clubhouse,U.S. House,02,Bennie G. Thompson,D,x
 Madison,Mad. Co. Baptist Family Life Ct,U.S. House,02,Bennie G. Thompson,D,81
 Madison,Magnolia Heights,U.S. House,02,Bennie G. Thompson,D,114
-Madison,Mark Apartments,U.S. House,02,Bennie G. Thompson,D,
+Madison,Mark Apartments,U.S. House,02,Bennie G. Thompson,D,x
 Madison,Mt. Hope M.B. Church,U.S. House,02,Bennie G. Thompson,D,21
-Madison,New Life Baptist Church,U.S. House,02,Bennie G. Thompson,D,
-Madison,Northbay Bayview Clubhouse,U.S. House,02,Bennie G. Thompson,D,
+Madison,New Life Baptist Church,U.S. House,02,Bennie G. Thompson,D,x
+Madison,Northbay Bayview Clubhouse,U.S. House,02,Bennie G. Thompson,D,x
 Madison,Pleasant Gift Baptist Church,U.S. House,02,Bennie G. Thompson,D,80
 Madison,Pleasant Green M.B. Church,U.S. House,02,Bennie G. Thompson,D,141
-Madison,Ridgel'D 1st Methodist Church,U.S. House,02,Bennie G. Thompson,D,
-Madison,Ridgeland Recreation Center,U.S. House,02,Bennie G. Thompson,D,
-Madison,Sunnybrook Retirement Village,U.S. House,02,Bennie G. Thompson,D,
+Madison,Ridgel'D 1st Methodist Church,U.S. House,02,Bennie G. Thompson,D,x
+Madison,Ridgeland Recreation Center,U.S. House,02,Bennie G. Thompson,D,x
+Madison,Sunnybrook Retirement Village,U.S. House,02,Bennie G. Thompson,D,x
 Madison,Tougaloo,U.S. House,02,Bennie G. Thompson,D,9
-Madison,Trace Ridge Baptist Church,U.S. House,02,Bennie G. Thompson,D,
-Madison,Twin Lakes Baptist Church,U.S. House,02,Bennie G. Thompson,D,
-Madison,Vertical Church,U.S. House,02,Bennie G. Thompson,D,
-Madison,Victory Baptist Church,U.S. House,02,Bennie G. Thompson,D,
-Madison,Victory Christian Community,U.S. House,02,Bennie G. Thompson,D,
+Madison,Trace Ridge Baptist Church,U.S. House,02,Bennie G. Thompson,D,x
+Madison,Twin Lakes Baptist Church,U.S. House,02,Bennie G. Thompson,D,x
+Madison,Vertical Church,U.S. House,02,Bennie G. Thompson,D,x
+Madison,Victory Baptist Church,U.S. House,02,Bennie G. Thompson,D,x
+Madison,Victory Christian Community,U.S. House,02,Bennie G. Thompson,D,x
 Madison,TOTAL,U.S. House,02,Bennie G. Thompson,D,1510
-Madison,Camden Community Center,U.S. House,03,Michael Aycox,D,
-Madison,Camden Community Center,U.S. House,03,Michael Ted Evans,D,
-Madison,Cameron Bethel M. B. Church,U.S. House,03,Michael Aycox,D,
-Madison,Cameron Bethel M. B. Church,U.S. House,03,Michael Ted Evans,D,
-Madison,Canton Anderson Lodge,U.S. House,03,Michael Aycox,D,
-Madison,Canton Anderson Lodge,U.S. House,03,Michael Ted Evans,D,
-Madison,Canton Bible Church,U.S. House,03,Michael Aycox,D,
-Madison,Canton Bible Church,U.S. House,03,Michael Ted Evans,D,
-Madison,Canton Catholic Parish Center,U.S. House,03,Michael Aycox,D,
-Madison,Canton Catholic Parish Center,U.S. House,03,Michael Ted Evans,D,
-Madison,Canton Community Center,U.S. House,03,Michael Aycox,D,
-Madison,Canton Community Center,U.S. House,03,Michael Ted Evans,D,
-Madison,Canton Fire Station # 4,U.S. House,03,Michael Aycox,D,
-Madison,Canton Fire Station # 4,U.S. House,03,Michael Ted Evans,D,
-Madison,Canton National Guard Armory,U.S. House,03,Michael Aycox,D,
-Madison,Canton National Guard Armory,U.S. House,03,Michael Ted Evans,D,
-Madison,Canton South Liberty Baptist Church,U.S. House,03,Michael Aycox,D,
-Madison,Canton South Liberty Baptist Church,U.S. House,03,Michael Ted Evans,D,
-Madison,Canton St. Paul Methodist Church,U.S. House,03,Michael Aycox,D,
-Madison,Canton St. Paul Methodist Church,U.S. House,03,Michael Ted Evans,D,
-Madison,Cedar Grove Baptist Church,U.S. House,03,Michael Aycox,D,
-Madison,Cedar Grove Baptist Church,U.S. House,03,Michael Ted Evans,D,
+Madison,Camden Community Center,U.S. House,03,Michael Aycox,D,x
+Madison,Camden Community Center,U.S. House,03,Michael Ted Evans,D,x
+Madison,Cameron Bethel M. B. Church,U.S. House,03,Michael Aycox,D,x
+Madison,Cameron Bethel M. B. Church,U.S. House,03,Michael Ted Evans,D,x
+Madison,Canton Anderson Lodge,U.S. House,03,Michael Aycox,D,x
+Madison,Canton Anderson Lodge,U.S. House,03,Michael Ted Evans,D,x
+Madison,Canton Bible Church,U.S. House,03,Michael Aycox,D,x
+Madison,Canton Bible Church,U.S. House,03,Michael Ted Evans,D,x
+Madison,Canton Catholic Parish Center,U.S. House,03,Michael Aycox,D,x
+Madison,Canton Catholic Parish Center,U.S. House,03,Michael Ted Evans,D,x
+Madison,Canton Community Center,U.S. House,03,Michael Aycox,D,x
+Madison,Canton Community Center,U.S. House,03,Michael Ted Evans,D,x
+Madison,Canton Fire Station # 4,U.S. House,03,Michael Aycox,D,x
+Madison,Canton Fire Station # 4,U.S. House,03,Michael Ted Evans,D,x
+Madison,Canton National Guard Armory,U.S. House,03,Michael Aycox,D,x
+Madison,Canton National Guard Armory,U.S. House,03,Michael Ted Evans,D,x
+Madison,Canton South Liberty Baptist Church,U.S. House,03,Michael Aycox,D,x
+Madison,Canton South Liberty Baptist Church,U.S. House,03,Michael Ted Evans,D,x
+Madison,Canton St. Paul Methodist Church,U.S. House,03,Michael Aycox,D,x
+Madison,Canton St. Paul Methodist Church,U.S. House,03,Michael Ted Evans,D,x
+Madison,Cedar Grove Baptist Church,U.S. House,03,Michael Aycox,D,x
+Madison,Cedar Grove Baptist Church,U.S. House,03,Michael Ted Evans,D,x
 Madison,China Grove A.M.E. Church,U.S. House,03,Michael Aycox,D,25
 Madison,China Grove A.M.E. Church,U.S. House,03,Michael Ted Evans,D,44
 Madison,Colonial Heights Baptist Church,U.S. House,03,Michael Aycox,D,26
 Madison,Colonial Heights Baptist Church,U.S. House,03,Michael Ted Evans,D,51
-Madison,Couparle United Methodist Church,U.S. House,03,Michael Aycox,D,
-Madison,Couparle United Methodist Church,U.S. House,03,Michael Ted Evans,D,
-Madison,Farmhaven Fire Station,U.S. House,03,Michael Aycox,D,
-Madison,Farmhaven Fire Station,U.S. House,03,Michael Ted Evans,D,
+Madison,Couparle United Methodist Church,U.S. House,03,Michael Aycox,D,x
+Madison,Couparle United Methodist Church,U.S. House,03,Michael Ted Evans,D,x
+Madison,Farmhaven Fire Station,U.S. House,03,Michael Aycox,D,x
+Madison,Farmhaven Fire Station,U.S. House,03,Michael Ted Evans,D,x
 Madison,Fearns Chapel Freewill Baptist,U.S. House,03,Michael Aycox,D,19
 Madison,Fearns Chapel Freewill Baptist,U.S. House,03,Michael Ted Evans,D,35
 Madison,Fellowship Bible Church,U.S. House,03,Michael Aycox,D,19
@@ -13637,38 +13637,38 @@ Madison,Gluckstadt @ St Joe Catholic,U.S. House,03,Michael Aycox,D,61
 Madison,Gluckstadt @ St Joe Catholic,U.S. House,03,Michael Ted Evans,D,74
 Madison,Grace Crossing,U.S. House,03,Michael Aycox,D,65
 Madison,Grace Crossing,U.S. House,03,Michael Ted Evans,D,136
-Madison,Greater Mt Levi Full Gospel,U.S. House,03,Michael Aycox,D,
-Madison,Greater Mt Levi Full Gospel,U.S. House,03,Michael Ted Evans,D,
+Madison,Greater Mt Levi Full Gospel,U.S. House,03,Michael Aycox,D,x
+Madison,Greater Mt Levi Full Gospel,U.S. House,03,Michael Ted Evans,D,x
 Madison,Highland Chapel Church,U.S. House,03,Michael Aycox,D,77
 Madison,Highland Chapel Church,U.S. House,03,Michael Ted Evans,D,66
 Madison,Highland Colony Baptist Church,U.S. House,03,Michael Aycox,D,81
 Madison,Highland Colony Baptist Church,U.S. House,03,Michael Ted Evans,D,125
 Madison,Lake Caroline Clubhouse,U.S. House,03,Michael Aycox,D,23
 Madison,Lake Caroline Clubhouse,U.S. House,03,Michael Ted Evans,D,26
-Madison,Mad. Co. Baptist Family Life Ct,U.S. House,03,Michael Aycox,D,
-Madison,Mad. Co. Baptist Family Life Ct,U.S. House,03,Michael Ted Evans,D,
-Madison,Magnolia Heights,U.S. House,03,Michael Aycox,D,
-Madison,Magnolia Heights,U.S. House,03,Michael Ted Evans,D,
+Madison,Mad. Co. Baptist Family Life Ct,U.S. House,03,Michael Aycox,D,x
+Madison,Mad. Co. Baptist Family Life Ct,U.S. House,03,Michael Ted Evans,D,x
+Madison,Magnolia Heights,U.S. House,03,Michael Aycox,D,x
+Madison,Magnolia Heights,U.S. House,03,Michael Ted Evans,D,x
 Madison,Mark Apartments,U.S. House,03,Michael Aycox,D,27
 Madison,Mark Apartments,U.S. House,03,Michael Ted Evans,D,31
-Madison,Mt. Hope M.B. Church,U.S. House,03,Michael Aycox,D,
-Madison,Mt. Hope M.B. Church,U.S. House,03,Michael Ted Evans,D,
+Madison,Mt. Hope M.B. Church,U.S. House,03,Michael Aycox,D,x
+Madison,Mt. Hope M.B. Church,U.S. House,03,Michael Ted Evans,D,x
 Madison,New Life Baptist Church,U.S. House,03,Michael Aycox,D,28
 Madison,New Life Baptist Church,U.S. House,03,Michael Ted Evans,D,23
 Madison,Northbay Bayview Clubhouse,U.S. House,03,Michael Aycox,D,35
 Madison,Northbay Bayview Clubhouse,U.S. House,03,Michael Ted Evans,D,14
-Madison,Pleasant Gift Baptist Church,U.S. House,03,Michael Aycox,D,
-Madison,Pleasant Gift Baptist Church,U.S. House,03,Michael Ted Evans,D,
-Madison,Pleasant Green M.B. Church,U.S. House,03,Michael Aycox,D,
-Madison,Pleasant Green M.B. Church,U.S. House,03,Michael Ted Evans,D,
+Madison,Pleasant Gift Baptist Church,U.S. House,03,Michael Aycox,D,x
+Madison,Pleasant Gift Baptist Church,U.S. House,03,Michael Ted Evans,D,x
+Madison,Pleasant Green M.B. Church,U.S. House,03,Michael Aycox,D,x
+Madison,Pleasant Green M.B. Church,U.S. House,03,Michael Ted Evans,D,x
 Madison,Ridgel'D 1st Methodist Church,U.S. House,03,Michael Aycox,D,58
 Madison,Ridgel'D 1st Methodist Church,U.S. House,03,Michael Ted Evans,D,63
 Madison,Ridgeland Recreation Center,U.S. House,03,Michael Aycox,D,112
 Madison,Ridgeland Recreation Center,U.S. House,03,Michael Ted Evans,D,112
 Madison,Sunnybrook Retirement Village,U.S. House,03,Michael Aycox,D,5
 Madison,Sunnybrook Retirement Village,U.S. House,03,Michael Ted Evans,D,8
-Madison,Tougaloo,U.S. House,03,Michael Aycox,D,
-Madison,Tougaloo,U.S. House,03,Michael Ted Evans,D,
+Madison,Tougaloo,U.S. House,03,Michael Aycox,D,x
+Madison,Tougaloo,U.S. House,03,Michael Ted Evans,D,x
 Madison,Trace Ridge Baptist Church,U.S. House,03,Michael Aycox,D,72
 Madison,Trace Ridge Baptist Church,U.S. House,03,Michael Ted Evans,D,66
 Madison,Twin Lakes Baptist Church,U.S. House,03,Michael Aycox,D,36
@@ -15507,31 +15507,31 @@ Oktibbeha,TOTAL,U.S. Senate,,Richard Warren Boyanton,R,303
 Oktibbeha,TOTAL,U.S. Senate,,Roger F. Wicker,R,2254
 Oktibbeha,Bell Schoolhouse,U.S. House,01,Trent Kelly,R,32
 Oktibbeha,Center Grove/North Adaton,U.S. House,01,Trent Kelly,R,33
-Oktibbeha,Central Starkville,U.S. House,01,Trent Kelly,R,
+Oktibbeha,Central Starkville,U.S. House,01,Trent Kelly,R,x
 Oktibbeha,Craig Springs/South Bradley,U.S. House,01,Trent Kelly,R,1
-Oktibbeha,East Starkville,U.S. House,01,Trent Kelly,R,
-Oktibbeha,Hickory Grove/Southeast,U.S. House,01,Trent Kelly,R,
+Oktibbeha,East Starkville,U.S. House,01,Trent Kelly,R,x
+Oktibbeha,Hickory Grove/Southeast,U.S. House,01,Trent Kelly,R,x
 Oktibbeha,Maben,U.S. House,01,Trent Kelly,R,31
-Oktibbeha,Needmore Community Center,U.S. House,01,Trent Kelly,R,
-Oktibbeha,North Longview,U.S. House,01,Trent Kelly,R,
-Oktibbeha,North Starkville District 2,U.S. House,01,Trent Kelly,R,
-Oktibbeha,North Starkville District 3,U.S. House,01,Trent Kelly,R,
-Oktibbeha,Oktoc,U.S. House,01,Trent Kelly,R,
-Oktibbeha,Osborn,U.S. House,01,Trent Kelly,R,
-Oktibbeha,Self Creek/Double Springs,U.S. House,01,Trent Kelly,R,
-Oktibbeha,Sessums,U.S. House,01,Trent Kelly,R,
-Oktibbeha,South Adaton,U.S. House,01,Trent Kelly,R,
-Oktibbeha,South Longview,U.S. House,01,Trent Kelly,R,
-Oktibbeha,South Starkville,U.S. House,01,Trent Kelly,R,
+Oktibbeha,Needmore Community Center,U.S. House,01,Trent Kelly,R,x
+Oktibbeha,North Longview,U.S. House,01,Trent Kelly,R,x
+Oktibbeha,North Starkville District 2,U.S. House,01,Trent Kelly,R,x
+Oktibbeha,North Starkville District 3,U.S. House,01,Trent Kelly,R,x
+Oktibbeha,Oktoc,U.S. House,01,Trent Kelly,R,x
+Oktibbeha,Osborn,U.S. House,01,Trent Kelly,R,x
+Oktibbeha,Self Creek/Double Springs,U.S. House,01,Trent Kelly,R,x
+Oktibbeha,Sessums,U.S. House,01,Trent Kelly,R,x
+Oktibbeha,South Adaton,U.S. House,01,Trent Kelly,R,x
+Oktibbeha,South Longview,U.S. House,01,Trent Kelly,R,x
+Oktibbeha,South Starkville,U.S. House,01,Trent Kelly,R,x
 Oktibbeha,Sturgis/North Bradley,U.S. House,01,Trent Kelly,R,111
-Oktibbeha,West Starkville,U.S. House,01,Trent Kelly,R,
+Oktibbeha,West Starkville,U.S. House,01,Trent Kelly,R,x
 Oktibbeha,TOTAL,U.S. House,01,Trent Kelly,R,208
-Oktibbeha,Bell Schoolhouse,U.S. House,3,Sally Doty,R,
-Oktibbeha,Bell Schoolhouse,U.S. House,3,Morgan Dunn,R,
-Oktibbeha,Bell Schoolhouse,U.S. House,3,Michael Guest,R,
-Oktibbeha,Bell Schoolhouse,U.S. House,3,Whit Hughes,R,
-Oktibbeha,Bell Schoolhouse,U.S. House,3,Perry Parker,R,
-Oktibbeha,Bell Schoolhouse,U.S. House,3,Katherine 'Bitzi' Tate,R,
+Oktibbeha,Bell Schoolhouse,U.S. House,3,Sally Doty,R,x
+Oktibbeha,Bell Schoolhouse,U.S. House,3,Morgan Dunn,R,x
+Oktibbeha,Bell Schoolhouse,U.S. House,3,Michael Guest,R,x
+Oktibbeha,Bell Schoolhouse,U.S. House,3,Whit Hughes,R,x
+Oktibbeha,Bell Schoolhouse,U.S. House,3,Perry Parker,R,x
+Oktibbeha,Bell Schoolhouse,U.S. House,3,Katherine 'Bitzi' Tate,R,x
 Oktibbeha,Center Grove/North Adaton,U.S. House,3,Sally Doty,R,4
 Oktibbeha,Center Grove/North Adaton,U.S. House,3,Morgan Dunn,R,0
 Oktibbeha,Center Grove/North Adaton,U.S. House,3,Michael Guest,R,23
@@ -15562,12 +15562,12 @@ Oktibbeha,Hickory Grove/Southeast,U.S. House,3,Michael Guest,R,51
 Oktibbeha,Hickory Grove/Southeast,U.S. House,3,Whit Hughes,R,70
 Oktibbeha,Hickory Grove/Southeast,U.S. House,3,Perry Parker,R,46
 Oktibbeha,Hickory Grove/Southeast,U.S. House,3,Katherine 'Bitzi' Tate,R,1
-Oktibbeha,Maben,U.S. House,3,Sally Doty,R,
-Oktibbeha,Maben,U.S. House,3,Morgan Dunn,R,
-Oktibbeha,Maben,U.S. House,3,Michael Guest,R,
-Oktibbeha,Maben,U.S. House,3,Whit Hughes,R,
-Oktibbeha,Maben,U.S. House,3,Perry Parker,R,
-Oktibbeha,Maben,U.S. House,3,Katherine 'Bitzi' Tate,R,
+Oktibbeha,Maben,U.S. House,3,Sally Doty,R,x
+Oktibbeha,Maben,U.S. House,3,Morgan Dunn,R,x
+Oktibbeha,Maben,U.S. House,3,Michael Guest,R,x
+Oktibbeha,Maben,U.S. House,3,Whit Hughes,R,x
+Oktibbeha,Maben,U.S. House,3,Perry Parker,R,x
+Oktibbeha,Maben,U.S. House,3,Katherine 'Bitzi' Tate,R,x
 Oktibbeha,Needmore Community Center,U.S. House,3,Sally Doty,R,9
 Oktibbeha,Needmore Community Center,U.S. House,3,Morgan Dunn,R,0
 Oktibbeha,Needmore Community Center,U.S. House,3,Michael Guest,R,12
@@ -15634,12 +15634,12 @@ Oktibbeha,South Starkville,U.S. House,3,Michael Guest,R,217
 Oktibbeha,South Starkville,U.S. House,3,Whit Hughes,R,424
 Oktibbeha,South Starkville,U.S. House,3,Perry Parker,R,110
 Oktibbeha,South Starkville,U.S. House,3,Katherine 'Bitzi' Tate,R,2
-Oktibbeha,Sturgis/North Bradley,U.S. House,3,Sally Doty,R,
-Oktibbeha,Sturgis/North Bradley,U.S. House,3,Morgan Dunn,R,
-Oktibbeha,Sturgis/North Bradley,U.S. House,3,Michael Guest,R,
-Oktibbeha,Sturgis/North Bradley,U.S. House,3,Whit Hughes,R,
-Oktibbeha,Sturgis/North Bradley,U.S. House,3,Perry Parker,R,
-Oktibbeha,Sturgis/North Bradley,U.S. House,3,Katherine 'Bitzi' Tate,R,
+Oktibbeha,Sturgis/North Bradley,U.S. House,3,Sally Doty,R,x
+Oktibbeha,Sturgis/North Bradley,U.S. House,3,Morgan Dunn,R,x
+Oktibbeha,Sturgis/North Bradley,U.S. House,3,Michael Guest,R,x
+Oktibbeha,Sturgis/North Bradley,U.S. House,3,Whit Hughes,R,x
+Oktibbeha,Sturgis/North Bradley,U.S. House,3,Perry Parker,R,x
+Oktibbeha,Sturgis/North Bradley,U.S. House,3,Katherine 'Bitzi' Tate,R,x
 Oktibbeha,West Starkville,U.S. House,3,Sally Doty,R,15
 Oktibbeha,West Starkville,U.S. House,3,Morgan Dunn,R,4
 Oktibbeha,West Starkville,U.S. House,3,Michael Guest,R,97
@@ -15780,27 +15780,27 @@ Oktibbeha,TOTAL,U.S. Senate,,Omeria Scott,D,394
 Oktibbeha,TOTAL,U.S. Senate,,Howard Sherman,D,485
 Oktibbeha,Bell Schoolhouse,U.S. House,01,Randy Mack Wadkins,D,33
 Oktibbeha,Center Grove/North Adaton,U.S. House,01,Randy Mack Wadkins,D,20
-Oktibbeha,Central Starkville,U.S. House,01,Randy Mack Wadkins,D,
+Oktibbeha,Central Starkville,U.S. House,01,Randy Mack Wadkins,D,x
 Oktibbeha,Craig Springs/South Bradley,U.S. House,01,Randy Mack Wadkins,D,0
-Oktibbeha,East Starkville,U.S. House,01,Randy Mack Wadkins,D,
-Oktibbeha,Hickory Grove/Southeast,U.S. House,01,Randy Mack Wadkins,D,
+Oktibbeha,East Starkville,U.S. House,01,Randy Mack Wadkins,D,x
+Oktibbeha,Hickory Grove/Southeast,U.S. House,01,Randy Mack Wadkins,D,x
 Oktibbeha,Maben,U.S. House,01,Randy Mack Wadkins,D,9
-Oktibbeha,Needmore Community Center,U.S. House,01,Randy Mack Wadkins,D,
-Oktibbeha,North Longview,U.S. House,01,Randy Mack Wadkins,D,
-Oktibbeha,North Starkville District 2,U.S. House,01,Randy Mack Wadkins,D,
-Oktibbeha,North Starkville District 3,U.S. House,01,Randy Mack Wadkins,D,
-Oktibbeha,Oktoc,U.S. House,01,Randy Mack Wadkins,D,
-Oktibbeha,Osborn,U.S. House,01,Randy Mack Wadkins,D,
-Oktibbeha,Self Creek/Double Springs,U.S. House,01,Randy Mack Wadkins,D,
-Oktibbeha,Sessums,U.S. House,01,Randy Mack Wadkins,D,
-Oktibbeha,South Adaton,U.S. House,01,Randy Mack Wadkins,D,
-Oktibbeha,South Longview,U.S. House,01,Randy Mack Wadkins,D,
-Oktibbeha,South Starkville,U.S. House,01,Randy Mack Wadkins,D,
+Oktibbeha,Needmore Community Center,U.S. House,01,Randy Mack Wadkins,D,x
+Oktibbeha,North Longview,U.S. House,01,Randy Mack Wadkins,D,x
+Oktibbeha,North Starkville District 2,U.S. House,01,Randy Mack Wadkins,D,x
+Oktibbeha,North Starkville District 3,U.S. House,01,Randy Mack Wadkins,D,x
+Oktibbeha,Oktoc,U.S. House,01,Randy Mack Wadkins,D,x
+Oktibbeha,Osborn,U.S. House,01,Randy Mack Wadkins,D,x
+Oktibbeha,Self Creek/Double Springs,U.S. House,01,Randy Mack Wadkins,D,x
+Oktibbeha,Sessums,U.S. House,01,Randy Mack Wadkins,D,x
+Oktibbeha,South Adaton,U.S. House,01,Randy Mack Wadkins,D,x
+Oktibbeha,South Longview,U.S. House,01,Randy Mack Wadkins,D,x
+Oktibbeha,South Starkville,U.S. House,01,Randy Mack Wadkins,D,x
 Oktibbeha,Sturgis/North Bradley,U.S. House,01,Randy Mack Wadkins,D,25
-Oktibbeha,West Starkville,U.S. House,01,Randy Mack Wadkins,D,
+Oktibbeha,West Starkville,U.S. House,01,Randy Mack Wadkins,D,x
 Oktibbeha,TOTAL,U.S. House,01,Randy Mack Wadkins,D,87
-Oktibbeha,Bell Schoolhouse,U.S. House,03,Michael Aycox,D,
-Oktibbeha,Bell Schoolhouse,U.S. House,03,Michael Ted Evans,D,
+Oktibbeha,Bell Schoolhouse,U.S. House,03,Michael Aycox,D,x
+Oktibbeha,Bell Schoolhouse,U.S. House,03,Michael Ted Evans,D,x
 Oktibbeha,Center Grove/North Adaton,U.S. House,03,Michael Aycox,D,10
 Oktibbeha,Center Grove/North Adaton,U.S. House,03,Michael Ted Evans,D,12
 Oktibbeha,Central Starkville,U.S. House,03,Michael Aycox,D,38
@@ -15811,8 +15811,8 @@ Oktibbeha,East Starkville,U.S. House,03,Michael Aycox,D,9
 Oktibbeha,East Starkville,U.S. House,03,Michael Ted Evans,D,7
 Oktibbeha,Hickory Grove/Southeast,U.S. House,03,Michael Aycox,D,29
 Oktibbeha,Hickory Grove/Southeast,U.S. House,03,Michael Ted Evans,D,76
-Oktibbeha,Maben,U.S. House,03,Michael Aycox,D,
-Oktibbeha,Maben,U.S. House,03,Michael Ted Evans,D,
+Oktibbeha,Maben,U.S. House,03,Michael Aycox,D,x
+Oktibbeha,Maben,U.S. House,03,Michael Ted Evans,D,x
 Oktibbeha,Needmore Community Center,U.S. House,03,Michael Aycox,D,26
 Oktibbeha,Needmore Community Center,U.S. House,03,Michael Ted Evans,D,60
 Oktibbeha,North Longview,U.S. House,03,Michael Aycox,D,19
@@ -15835,8 +15835,8 @@ Oktibbeha,South Longview,U.S. House,03,Michael Aycox,D,6
 Oktibbeha,South Longview,U.S. House,03,Michael Ted Evans,D,12
 Oktibbeha,South Starkville,U.S. House,03,Michael Aycox,D,89
 Oktibbeha,South Starkville,U.S. House,03,Michael Ted Evans,D,144
-Oktibbeha,Sturgis/North Bradley,U.S. House,03,Michael Aycox,D,
-Oktibbeha,Sturgis/North Bradley,U.S. House,03,Michael Ted Evans,D,
+Oktibbeha,Sturgis/North Bradley,U.S. House,03,Michael Aycox,D,x
+Oktibbeha,Sturgis/North Bradley,U.S. House,03,Michael Ted Evans,D,x
 Oktibbeha,West Starkville,U.S. House,03,Michael Aycox,D,45
 Oktibbeha,West Starkville,U.S. House,03,Michael Ted Evans,D,115
 Oktibbeha,TOTAL,U.S. House,03,Michael Aycox,D,424
