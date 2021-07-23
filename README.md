@@ -1,4 +1,4 @@
-OpenElections Data Mississippi
+OpenElections Data Mississippi [![Build Status](https://github.com/openelections/openelections-data-ms/actions/workflows/format_tests.yml/badge.svg?branch=master)](https://github.com/openelections/openelections-data-ms/actions)
 =====================
 
 Converted CSVs of Mississippi election results.
