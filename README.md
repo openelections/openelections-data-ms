@@ -1,4 +1,7 @@
-OpenElections Data Mississippi [![Build Status](https://github.com/openelections/openelections-data-ms/actions/workflows/format_tests.yml/badge.svg?branch=master)](https://github.com/openelections/openelections-data-ms/actions)
+[![Build Status](https://github.com/openelections/openelections-data-ms/actions/workflows/data_tests.yml/badge.svg?branch=master)](https://github.com/openelections/openelections-data-ms/actions/workflows/data_tests.yml?query=branch%3Amaster)
+[![Build Status](https://github.com/openelections/openelections-data-ms/actions/workflows/format_tests.yml/badge.svg?branch=master)](https://github.com/openelections/openelections-data-ms/actions/workflows/format_tests.yml?query=branch%3Amaster)
+
+OpenElections Data Mississippi
 =====================
 
 Converted CSVs of Mississippi election results.
