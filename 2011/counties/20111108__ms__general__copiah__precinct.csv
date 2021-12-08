@@ -1,428 +1,630 @@
-candidate,office,district,party,county,precinct,votes
-Phil Bryant,Governor,,R,Copiah,Beauregard,394
-Johnny L. DuPree,Governor,,D,Copiah,Beauregard,99
-Phil Bryant,Governor,,R,Copiah,Centerpoint,386
-Johnny L. DuPree,Governor,,D,Copiah,Centerpoint,222
-Phil Bryant,Governor,,R,Copiah,Carpenter,59
-Johnny L. DuPree,Governor,,D,Copiah,Carpenter,104
-Phil Bryant,Governor,,R,Copiah,Crystal Springs East,894
-Johnny L. DuPree,Governor,,D,Copiah,Crystal Springs East,420
-Phil Bryant,Governor,,R,Copiah,Crystal Springs North,86
-Johnny L. DuPree,Governor,,D,Copiah,Crystal Springs North,197
-Phil Bryant,Governor,,R,Copiah,Crystal Springs South,354
-Johnny L. DuPree,Governor,,D,Copiah,Crystal Springs South,595
-Phil Bryant,Governor,,R,Copiah,Crystal Springs West,388
-Johnny L. DuPree,Governor,,D,Copiah,Crystal Springs West,243
-Phil Bryant,Governor,,R,Copiah,Dentville,118
-Johnny L. DuPree,Governor,,D,Copiah,Dentville,28
-Phil Bryant,Governor,,R,Copiah,Georgetown North,67
-Johnny L. DuPree,Governor,,D,Copiah,Georgetown North,120
-Phil Bryant,Governor,,R,Copiah,Georgetown South,186
-Johnny L. DuPree,Governor,,D,Copiah,Georgetown South,94
-Phil Bryant,Governor,,R,Copiah,Hazlehurst East,45
-Johnny L. DuPree,Governor,,D,Copiah,Hazlehurst East,605
-Phil Bryant,Governor,,R,Copiah,Hazlehurst North,73
-Johnny L. DuPree,Governor,,D,Copiah,Hazlehurst North,103
-Phil Bryant,Governor,,R,Copiah,Hazlehurst South,108
-Johnny L. DuPree,Governor,,D,Copiah,Hazlehurst South,217
-Phil Bryant,Governor,,R,Copiah,Hazlehurst West,240
-Johnny L. DuPree,Governor,,D,Copiah,Hazlehurst West,700
-Phil Bryant,Governor,,R,Copiah,Martinsville,102
-Johnny L. DuPree,Governor,,D,Copiah,Martinsville,161
-Phil Bryant,Governor,,R,Copiah,Shady Grove,237
-Johnny L. DuPree,Governor,,D,Copiah,Shady Grove,64
-Phil Bryant,Governor,,R,Copiah,Stronghope Union,266
-Johnny L. DuPree,Governor,,D,Copiah,Stronghope Union,21
-Phil Bryant,Governor,,R,Copiah,Wesson,395
-Johnny L. DuPree,Governor,,D,Copiah,Wesson,66
-Phil Bryant,Governor,,R,Copiah,Gallman,675
-Johnny L. DuPree,Governor,,D,Copiah,Gallman,450
-Phil Bryant,Governor,,R,Copiah,TOTAL,5073
-Johnny L. DuPree,Governor,,D,Copiah,TOTAL,4509
-Tate Reeves,Lieutenant Governor,,R,Copiah,Beauregard,433
-Tracella Lou O'Hara Hill,Lieutenant Governor,,Reform,Copiah,Beauregard,47
-Tate Reeves,Lieutenant Governor,,R,Copiah,Centerpoint,450
-Tracella Lou O'Hara Hill,Lieutenant Governor,,Reform,Copiah,Centerpoint,102
-Tate Reeves,Lieutenant Governor,,R,Copiah,Carpenter,90
-Tracella Lou O'Hara Hill,Lieutenant Governor,,Reform,Copiah,Carpenter,53
-Tate Reeves,Lieutenant Governor,,R,Copiah,Crystal Springs East,1048
-Tracella Lou O'Hara Hill,Lieutenant Governor,,Reform,Copiah,Crystal Springs East,177
-Tate Reeves,Lieutenant Governor,,R,Copiah,Crystal Springs North,157
-Tracella Lou O'Hara Hill,Lieutenant Governor,,Reform,Copiah,Crystal Springs North,95
-Tate Reeves,Lieutenant Governor,,R,Copiah,Crystal Springs South,559
-Tracella Lou O'Hara Hill,Lieutenant Governor,,Reform,Copiah,Crystal Springs South,271
-Tate Reeves,Lieutenant Governor,,R,Copiah,Crystal Springs West,463
-Tracella Lou O'Hara Hill,Lieutenant Governor,,Reform,Copiah,Crystal Springs West,113
-Tate Reeves,Lieutenant Governor,,R,Copiah,Dentville,127
-Tracella Lou O'Hara Hill,Lieutenant Governor,,Reform,Copiah,Dentville,17
-Tate Reeves,Lieutenant Governor,,R,Copiah,Georgetown North,107
-Tracella Lou O'Hara Hill,Lieutenant Governor,,Reform,Copiah,Georgetown North,64
-Tate Reeves,Lieutenant Governor,,R,Copiah,Georgetown South,209
-Tracella Lou O'Hara Hill,Lieutenant Governor,,Reform,Copiah,Georgetown South,45
-Tate Reeves,Lieutenant Governor,,R,Copiah,Hazlehurst East,243
-Tracella Lou O'Hara Hill,Lieutenant Governor,,Reform,Copiah,Hazlehurst East,281
-Tate Reeves,Lieutenant Governor,,R,Copiah,Hazlehurst North,112
-Tracella Lou O'Hara Hill,Lieutenant Governor,,Reform,Copiah,Hazlehurst North,40
-Tate Reeves,Lieutenant Governor,,R,Copiah,Hazlehurst South,175
-Tracella Lou O'Hara Hill,Lieutenant Governor,,Reform,Copiah,Hazlehurst South,102
-Tate Reeves,Lieutenant Governor,,R,Copiah,Hazlehurst West,471
-Tracella Lou O'Hara Hill,Lieutenant Governor,,Reform,Copiah,Hazlehurst West,312
-Tate Reeves,Lieutenant Governor,,R,Copiah,Martinsville,153
-Tracella Lou O'Hara Hill,Lieutenant Governor,,Reform,Copiah,Martinsville,71
-Tate Reeves,Lieutenant Governor,,R,Copiah,Shady Grove,261
-Tracella Lou O'Hara Hill,Lieutenant Governor,,Reform,Copiah,Shady Grove,28
-Tate Reeves,Lieutenant Governor,,R,Copiah,Stronghope Union,269
-Tracella Lou O'Hara Hill,Lieutenant Governor,,Reform,Copiah,Stronghope Union,15
-Tate Reeves,Lieutenant Governor,,R,Copiah,Wesson,418
-Tracella Lou O'Hara Hill,Lieutenant Governor,,Reform,Copiah,Wesson,29
-Tate Reeves,Lieutenant Governor,,R,Copiah,Gallman,812
-Tracella Lou O'Hara Hill,Lieutenant Governor,,Reform,Copiah,Gallman,220
-Tate Reeves,Lieutenant Governor,,R,Copiah,TOTAL,6557
-Tracella Lou O'Hara Hill,Lieutenant Governor,,Reform,Copiah,TOTAL,2082
-Delbert Hosemann,Secretary of State,,R,Copiah,Beauregard,447
-Delbert Hosemann,Secretary of State,,R,Copiah,Centerpoint,495
-Delbert Hosemann,Secretary of State,,R,Copiah,Carpenter,122
-Delbert Hosemann,Secretary of State,,R,Copiah,Crystal Springs East,1139
-Delbert Hosemann,Secretary of State,,R,Copiah,Crystal Springs North,219
-Delbert Hosemann,Secretary of State,,R,Copiah,Crystal Springs South,721
-Delbert Hosemann,Secretary of State,,R,Copiah,Crystal Springs West,519
-Delbert Hosemann,Secretary of State,,R,Copiah,Dentville,134
-Delbert Hosemann,Secretary of State,,R,Copiah,Georgetown North,139
-Delbert Hosemann,Secretary of State,,R,Copiah,Georgetown South,235
-Delbert Hosemann,Secretary of State,,R,Copiah,Hazlehurst East,390
-Delbert Hosemann,Secretary of State,,R,Copiah,Hazlehurst North,132
-Delbert Hosemann,Secretary of State,,R,Copiah,Hazlehurst South,237
-Delbert Hosemann,Secretary of State,,R,Copiah,Hazlehurst West,636
-Delbert Hosemann,Secretary of State,,R,Copiah,Martinsville,190
-Delbert Hosemann,Secretary of State,,R,Copiah,Shady Grove,276
-Delbert Hosemann,Secretary of State,,R,Copiah,Stronghope Union,272
-Delbert Hosemann,Secretary of State,,R,Copiah,Wesson,428
-Delbert Hosemann,Secretary of State,,R,Copiah,Gallman,921
-Delbert Hosemann,Secretary of State,,R,Copiah,TOTAL,7652
-Jim Hood,Attorney General,,D,Copiah,Beauregard,311
-Steve Simpson,Attorney General,,R,Copiah,Beauregard,178
-Jim Hood,Attorney General,,D,Copiah,Centerpoint,429
-Steve Simpson,Attorney General,,R,Copiah,Centerpoint,180
-Jim Hood,Attorney General,,D,Copiah,Carpenter,132
-Steve Simpson,Attorney General,,R,Copiah,Carpenter,30
-Jim Hood,Attorney General,,D,Copiah,Crystal Springs East,805
-Steve Simpson,Attorney General,,R,Copiah,Crystal Springs East,498
-Jim Hood,Attorney General,,D,Copiah,Crystal Springs North,228
-Steve Simpson,Attorney General,,R,Copiah,Crystal Springs North,53
-Jim Hood,Attorney General,,D,Copiah,Crystal Springs South,754
-Steve Simpson,Attorney General,,R,Copiah,Crystal Springs South,179
-Jim Hood,Attorney General,,D,Copiah,Crystal Springs West,413
-Steve Simpson,Attorney General,,R,Copiah,Crystal Springs West,211
-Jim Hood,Attorney General,,D,Copiah,Dentville,97
-Steve Simpson,Attorney General,,R,Copiah,Dentville,50
-Jim Hood,Attorney General,,D,Copiah,Georgetown North,152
-Steve Simpson,Attorney General,,R,Copiah,Georgetown North,36
-Jim Hood,Attorney General,,D,Copiah,Georgetown South,181
-Steve Simpson,Attorney General,,R,Copiah,Georgetown South,96
-Jim Hood,Attorney General,,D,Copiah,Hazlehurst East,611
-Steve Simpson,Attorney General,,R,Copiah,Hazlehurst East,32
-Jim Hood,Attorney General,,D,Copiah,Hazlehurst North,141
-Steve Simpson,Attorney General,,R,Copiah,Hazlehurst North,33
-Jim Hood,Attorney General,,D,Copiah,Hazlehurst South,263
-Steve Simpson,Attorney General,,R,Copiah,Hazlehurst South,58
-Jim Hood,Attorney General,,D,Copiah,Hazlehurst West,820
-Steve Simpson,Attorney General,,R,Copiah,Hazlehurst West,111
-Jim Hood,Attorney General,,D,Copiah,Martinsville,216
-Steve Simpson,Attorney General,,R,Copiah,Martinsville,48
-Jim Hood,Attorney General,,D,Copiah,Shady Grove,174
-Steve Simpson,Attorney General,,R,Copiah,Shady Grove,127
-Jim Hood,Attorney General,,D,Copiah,Stronghope Union,140
-Steve Simpson,Attorney General,,R,Copiah,Stronghope Union,144
-Jim Hood,Attorney General,,D,Copiah,Wesson,274
-Steve Simpson,Attorney General,,R,Copiah,Wesson,184
-Jim Hood,Attorney General,,D,Copiah,Gallman,685
-Steve Simpson,Attorney General,,R,Copiah,Gallman,437
-Jim Hood,Attorney General,,D,Copiah,TOTAL,6826
-Steve Simpson,Attorney General,,R,Copiah,TOTAL,2685
-Stacey E. Pickering,State Auditor,,R,Copiah,Beauregard,417
-Ashley Norwood,State Auditor,,Reform,Copiah,Beauregard,61
-Stacey E. Pickering,State Auditor,,R,Copiah,Centerpoint,411
-Ashley Norwood,State Auditor,,Reform,Copiah,Centerpoint,122
-Stacey E. Pickering,State Auditor,,R,Copiah,Carpenter,83
-Ashley Norwood,State Auditor,,Reform,Copiah,Carpenter,50
-Stacey E. Pickering,State Auditor,,R,Copiah,Crystal Springs East,994
-Ashley Norwood,State Auditor,,Reform,Copiah,Crystal Springs East,218
-Stacey E. Pickering,State Auditor,,R,Copiah,Crystal Springs North,135
-Ashley Norwood,State Auditor,,Reform,Copiah,Crystal Springs North,109
-Stacey E. Pickering,State Auditor,,R,Copiah,Crystal Springs South,492
-Ashley Norwood,State Auditor,,Reform,Copiah,Crystal Springs South,325
-Stacey E. Pickering,State Auditor,,R,Copiah,Crystal Springs West,429
-Ashley Norwood,State Auditor,,Reform,Copiah,Crystal Springs West,142
-Stacey E. Pickering,State Auditor,,R,Copiah,Dentville,120
-Ashley Norwood,State Auditor,,Reform,Copiah,Dentville,20
-Stacey E. Pickering,State Auditor,,R,Copiah,Georgetown North,97
-Ashley Norwood,State Auditor,,Reform,Copiah,Georgetown North,66
-Stacey E. Pickering,State Auditor,,R,Copiah,Georgetown South,205
-Ashley Norwood,State Auditor,,Reform,Copiah,Georgetown South,51
-Stacey E. Pickering,State Auditor,,R,Copiah,Hazlehurst East,184
-Ashley Norwood,State Auditor,,Reform,Copiah,Hazlehurst East,316
-Stacey E. Pickering,State Auditor,,R,Copiah,Hazlehurst North,95
-Ashley Norwood,State Auditor,,Reform,Copiah,Hazlehurst North,53
-Stacey E. Pickering,State Auditor,,R,Copiah,Hazlehurst South,161
-Ashley Norwood,State Auditor,,Reform,Copiah,Hazlehurst South,106
-Stacey E. Pickering,State Auditor,,R,Copiah,Hazlehurst West,419
-Ashley Norwood,State Auditor,,Reform,Copiah,Hazlehurst West,358
-Stacey E. Pickering,State Auditor,,R,Copiah,Martinsville,136
-Ashley Norwood,State Auditor,,Reform,Copiah,Martinsville,86
-Stacey E. Pickering,State Auditor,,R,Copiah,Shady Grove,263
-Ashley Norwood,State Auditor,,Reform,Copiah,Shady Grove,24
-Stacey E. Pickering,State Auditor,,R,Copiah,Stronghope Union,266
-Ashley Norwood,State Auditor,,Reform,Copiah,Stronghope Union,15
-Stacey E. Pickering,State Auditor,,R,Copiah,Wesson,397
-Ashley Norwood,State Auditor,,Reform,Copiah,Wesson,51
-Stacey E. Pickering,State Auditor,,R,Copiah,Gallman,741
-Ashley Norwood,State Auditor,,Reform,Copiah,Gallman,268
-Stacey E. Pickering,State Auditor,,R,Copiah,TOTAL,6045
-Ashley Norwood,State Auditor,,Reform,Copiah,TOTAL,2441
-Lynn Fitch,State Treasurer,,R,Copiah,Beauregard,396
-Connie Moran,State Treasurer,,D,Copiah,Beauregard,76
-Shawn O'Hara,State Treasurer,,Reform,Copiah,Beauregard,16
-Lynn Fitch,State Treasurer,,R,Copiah,Centerpoint,376
-Connie Moran,State Treasurer,,D,Copiah,Centerpoint,212
-Shawn O'Hara,State Treasurer,,Reform,Copiah,Centerpoint,15
-Lynn Fitch,State Treasurer,,R,Copiah,Carpenter,65
-Connie Moran,State Treasurer,,D,Copiah,Carpenter,89
-Shawn O'Hara,State Treasurer,,Reform,Copiah,Carpenter,6
-Lynn Fitch,State Treasurer,,R,Copiah,Crystal Springs East,884
-Connie Moran,State Treasurer,,D,Copiah,Crystal Springs East,375
-Shawn O'Hara,State Treasurer,,Reform,Copiah,Crystal Springs East,33
-Lynn Fitch,State Treasurer,,R,Copiah,Crystal Springs North,100
-Connie Moran,State Treasurer,,D,Copiah,Crystal Springs North,168
-Shawn O'Hara,State Treasurer,,Reform,Copiah,Crystal Springs North,12
-Lynn Fitch,State Treasurer,,R,Copiah,Crystal Springs South,387
-Connie Moran,State Treasurer,,D,Copiah,Crystal Springs South,520
-Shawn O'Hara,State Treasurer,,Reform,Copiah,Crystal Springs South,26
-Lynn Fitch,State Treasurer,,R,Copiah,Crystal Springs West,388
-Connie Moran,State Treasurer,,D,Copiah,Crystal Springs West,212
-Shawn O'Hara,State Treasurer,,Reform,Copiah,Crystal Springs West,19
-Lynn Fitch,State Treasurer,,R,Copiah,Dentville,119
-Connie Moran,State Treasurer,,D,Copiah,Dentville,21
-Shawn O'Hara,State Treasurer,,Reform,Copiah,Dentville,4
-Lynn Fitch,State Treasurer,,R,Copiah,Georgetown North,67
-Connie Moran,State Treasurer,,D,Copiah,Georgetown North,107
-Shawn O'Hara,State Treasurer,,Reform,Copiah,Georgetown North,8
-Lynn Fitch,State Treasurer,,R,Copiah,Georgetown South,183
-Connie Moran,State Treasurer,,D,Copiah,Georgetown South,83
-Shawn O'Hara,State Treasurer,,Reform,Copiah,Georgetown South,11
-Lynn Fitch,State Treasurer,,R,Copiah,Hazlehurst East,91
-Connie Moran,State Treasurer,,D,Copiah,Hazlehurst East,526
-Shawn O'Hara,State Treasurer,,Reform,Copiah,Hazlehurst East,25
-Lynn Fitch,State Treasurer,,R,Copiah,Hazlehurst North,76
-Connie Moran,State Treasurer,,D,Copiah,Hazlehurst North,93
-Shawn O'Hara,State Treasurer,,Reform,Copiah,Hazlehurst North,3
-Lynn Fitch,State Treasurer,,R,Copiah,Hazlehurst South,115
-Connie Moran,State Treasurer,,D,Copiah,Hazlehurst South,198
-Shawn O'Hara,State Treasurer,,Reform,Copiah,Hazlehurst South,7
-Lynn Fitch,State Treasurer,,R,Copiah,Hazlehurst West,268
-Connie Moran,State Treasurer,,D,Copiah,Hazlehurst West,610
-Shawn O'Hara,State Treasurer,,Reform,Copiah,Hazlehurst West,32
-Lynn Fitch,State Treasurer,,R,Copiah,Martinsville,107
-Connie Moran,State Treasurer,,D,Copiah,Martinsville,142
-Shawn O'Hara,State Treasurer,,Reform,Copiah,Martinsville,7
-Lynn Fitch,State Treasurer,,R,Copiah,Shady Grove,232
-Connie Moran,State Treasurer,,D,Copiah,Shady Grove,68
-Shawn O'Hara,State Treasurer,,Reform,Copiah,Shady Grove,2
-Lynn Fitch,State Treasurer,,R,Copiah,Stronghope Union,250
-Connie Moran,State Treasurer,,D,Copiah,Stronghope Union,26
-Shawn O'Hara,State Treasurer,,Reform,Copiah,Stronghope Union,10
-Lynn Fitch,State Treasurer,,R,Copiah,Wesson,372
-Connie Moran,State Treasurer,,D,Copiah,Wesson,78
-Shawn O'Hara,State Treasurer,,Reform,Copiah,Wesson,9
-Lynn Fitch,State Treasurer,,R,Copiah,Gallman,686
-Connie Moran,State Treasurer,,D,Copiah,Gallman,396
-Shawn O'Hara,State Treasurer,,Reform,Copiah,Gallman,23
-Lynn Fitch,State Treasurer,,R,Copiah,TOTAL,5162
-Connie Moran,State Treasurer,,D,Copiah,TOTAL,4000
-Shawn O'Hara,State Treasurer,,Reform,Copiah,TOTAL,268
-Joel Gill,Commissioner of Agriculture & Commerce,,D,Copiah,Beauregard,89
-Cindy Hyde-Smith,Commissioner of Agriculture & Commerce,,R,Copiah,Beauregard,397
-Cathy L. Toole,Commissioner of Agriculture & Commerce,,Reform,Copiah,Beauregard,4
-Joel Gill,Commissioner of Agriculture & Commerce,,D,Copiah,Centerpoint,230
-Cindy Hyde-Smith,Commissioner of Agriculture & Commerce,,R,Copiah,Centerpoint,356
-Cathy L. Toole,Commissioner of Agriculture & Commerce,,Reform,Copiah,Centerpoint,11
-Joel Gill,Commissioner of Agriculture & Commerce,,D,Copiah,Carpenter,97
-Cindy Hyde-Smith,Commissioner of Agriculture & Commerce,,R,Copiah,Carpenter,54
-Cathy L. Toole,Commissioner of Agriculture & Commerce,,Reform,Copiah,Carpenter,7
-Joel Gill,Commissioner of Agriculture & Commerce,,D,Copiah,Crystal Springs East,456
-Cindy Hyde-Smith,Commissioner of Agriculture & Commerce,,R,Copiah,Crystal Springs East,812
-Cathy L. Toole,Commissioner of Agriculture & Commerce,,Reform,Copiah,Crystal Springs East,24
-Joel Gill,Commissioner of Agriculture & Commerce,,D,Copiah,Crystal Springs North,172
-Cindy Hyde-Smith,Commissioner of Agriculture & Commerce,,R,Copiah,Crystal Springs North,99
-Cathy L. Toole,Commissioner of Agriculture & Commerce,,Reform,Copiah,Crystal Springs North,5
-Joel Gill,Commissioner of Agriculture & Commerce,,D,Copiah,Crystal Springs South,555
-Cindy Hyde-Smith,Commissioner of Agriculture & Commerce,,R,Copiah,Crystal Springs South,348
-Cathy L. Toole,Commissioner of Agriculture & Commerce,,Reform,Copiah,Crystal Springs South,23
-Joel Gill,Commissioner of Agriculture & Commerce,,D,Copiah,Crystal Springs West,231
-Cindy Hyde-Smith,Commissioner of Agriculture & Commerce,,R,Copiah,Crystal Springs West,383
-Cathy L. Toole,Commissioner of Agriculture & Commerce,,Reform,Copiah,Crystal Springs West,5
-Joel Gill,Commissioner of Agriculture & Commerce,,D,Copiah,Dentville,37
-Cindy Hyde-Smith,Commissioner of Agriculture & Commerce,,R,Copiah,Dentville,109
-Cathy L. Toole,Commissioner of Agriculture & Commerce,,Reform,Copiah,Dentville,0
-Joel Gill,Commissioner of Agriculture & Commerce,,D,Copiah,Georgetown North,115
-Cindy Hyde-Smith,Commissioner of Agriculture & Commerce,,R,Copiah,Georgetown North,56
-Cathy L. Toole,Commissioner of Agriculture & Commerce,,Reform,Copiah,Georgetown North,8
-Joel Gill,Commissioner of Agriculture & Commerce,,D,Copiah,Georgetown South,88
-Cindy Hyde-Smith,Commissioner of Agriculture & Commerce,,R,Copiah,Georgetown South,180
-Cathy L. Toole,Commissioner of Agriculture & Commerce,,Reform,Copiah,Georgetown South,5
-Joel Gill,Commissioner of Agriculture & Commerce,,D,Copiah,Hazlehurst East,537
-Cindy Hyde-Smith,Commissioner of Agriculture & Commerce,,R,Copiah,Hazlehurst East,80
-Cathy L. Toole,Commissioner of Agriculture & Commerce,,Reform,Copiah,Hazlehurst East,14
-Joel Gill,Commissioner of Agriculture & Commerce,,D,Copiah,Hazlehurst North,95
-Cindy Hyde-Smith,Commissioner of Agriculture & Commerce,,R,Copiah,Hazlehurst North,71
-Cathy L. Toole,Commissioner of Agriculture & Commerce,,Reform,Copiah,Hazlehurst North,2
-Joel Gill,Commissioner of Agriculture & Commerce,,D,Copiah,Hazlehurst South,196
-Cindy Hyde-Smith,Commissioner of Agriculture & Commerce,,R,Copiah,Hazlehurst South,116
-Cathy L. Toole,Commissioner of Agriculture & Commerce,,Reform,Copiah,Hazlehurst South,7
-Joel Gill,Commissioner of Agriculture & Commerce,,D,Copiah,Hazlehurst West,619
-Cindy Hyde-Smith,Commissioner of Agriculture & Commerce,,R,Copiah,Hazlehurst West,262
-Cathy L. Toole,Commissioner of Agriculture & Commerce,,Reform,Copiah,Hazlehurst West,22
-Joel Gill,Commissioner of Agriculture & Commerce,,D,Copiah,Martinsville,150
-Cindy Hyde-Smith,Commissioner of Agriculture & Commerce,,R,Copiah,Martinsville,109
-Cathy L. Toole,Commissioner of Agriculture & Commerce,,Reform,Copiah,Martinsville,3
-Joel Gill,Commissioner of Agriculture & Commerce,,D,Copiah,Shady Grove,84
-Cindy Hyde-Smith,Commissioner of Agriculture & Commerce,,R,Copiah,Shady Grove,214
-Cathy L. Toole,Commissioner of Agriculture & Commerce,,Reform,Copiah,Shady Grove,3
-Joel Gill,Commissioner of Agriculture & Commerce,,D,Copiah,Stronghope Union,31
-Cindy Hyde-Smith,Commissioner of Agriculture & Commerce,,R,Copiah,Stronghope Union,249
-Cathy L. Toole,Commissioner of Agriculture & Commerce,,Reform,Copiah,Stronghope Union,5
-Joel Gill,Commissioner of Agriculture & Commerce,,D,Copiah,Wesson,58
-Cindy Hyde-Smith,Commissioner of Agriculture & Commerce,,R,Copiah,Wesson,389
-Cathy L. Toole,Commissioner of Agriculture & Commerce,,Reform,Copiah,Wesson,11
-Joel Gill,Commissioner of Agriculture & Commerce,,D,Copiah,Gallman,431
-Cindy Hyde-Smith,Commissioner of Agriculture & Commerce,,R,Copiah,Gallman,653
-Cathy L. Toole,Commissioner of Agriculture & Commerce,,Reform,Copiah,Gallman,21
-Joel Gill,Commissioner of Agriculture & Commerce,,D,Copiah,TOTAL,4271
-Cindy Hyde-Smith,Commissioner of Agriculture & Commerce,,R,Copiah,TOTAL,4937
-Cathy L. Toole,Commissioner of Agriculture & Commerce,,Reform,Copiah,TOTAL,180
-Mike Chaney,Commissioner of Insurance,,R,Copiah,Beauregard,396
-Louis Fondren,Commissioner of Insurance,,D,Copiah,Beauregard,76
-Barbara Dale Washer,Commissioner of Insurance,,Reform,Copiah,Beauregard,16
-Mike Chaney,Commissioner of Insurance,,R,Copiah,Centerpoint,380
-Louis Fondren,Commissioner of Insurance,,D,Copiah,Centerpoint,194
-Barbara Dale Washer,Commissioner of Insurance,,Reform,Copiah,Centerpoint,18
-Mike Chaney,Commissioner of Insurance,,R,Copiah,Carpenter,63
-Louis Fondren,Commissioner of Insurance,,D,Copiah,Carpenter,88
-Barbara Dale Washer,Commissioner of Insurance,,Reform,Copiah,Carpenter,6
-Mike Chaney,Commissioner of Insurance,,R,Copiah,Crystal Springs East,908
-Louis Fondren,Commissioner of Insurance,,D,Copiah,Crystal Springs East,346
-Barbara Dale Washer,Commissioner of Insurance,,Reform,Copiah,Crystal Springs East,31
-Mike Chaney,Commissioner of Insurance,,R,Copiah,Crystal Springs North,97
-Louis Fondren,Commissioner of Insurance,,D,Copiah,Crystal Springs North,172
-Barbara Dale Washer,Commissioner of Insurance,,Reform,Copiah,Crystal Springs North,9
-Mike Chaney,Commissioner of Insurance,,R,Copiah,Crystal Springs South,372
-Louis Fondren,Commissioner of Insurance,,D,Copiah,Crystal Springs South,525
-Barbara Dale Washer,Commissioner of Insurance,,Reform,Copiah,Crystal Springs South,29
-Mike Chaney,Commissioner of Insurance,,R,Copiah,Crystal Springs West,400
-Louis Fondren,Commissioner of Insurance,,D,Copiah,Crystal Springs West,209
-Barbara Dale Washer,Commissioner of Insurance,,Reform,Copiah,Crystal Springs West,11
-Mike Chaney,Commissioner of Insurance,,R,Copiah,Dentville,117
-Louis Fondren,Commissioner of Insurance,,D,Copiah,Dentville,21
-Barbara Dale Washer,Commissioner of Insurance,,Reform,Copiah,Dentville,6
-Mike Chaney,Commissioner of Insurance,,R,Copiah,Georgetown North,73
-Louis Fondren,Commissioner of Insurance,,D,Copiah,Georgetown North,103
-Barbara Dale Washer,Commissioner of Insurance,,Reform,Copiah,Georgetown North,6
-Mike Chaney,Commissioner of Insurance,,R,Copiah,Georgetown South,192
-Louis Fondren,Commissioner of Insurance,,D,Copiah,Georgetown South,76
-Barbara Dale Washer,Commissioner of Insurance,,Reform,Copiah,Georgetown South,7
-Mike Chaney,Commissioner of Insurance,,R,Copiah,Hazlehurst East,83
-Louis Fondren,Commissioner of Insurance,,D,Copiah,Hazlehurst East,531
-Barbara Dale Washer,Commissioner of Insurance,,Reform,Copiah,Hazlehurst East,24
-Mike Chaney,Commissioner of Insurance,,R,Copiah,Hazlehurst North,77
-Louis Fondren,Commissioner of Insurance,,D,Copiah,Hazlehurst North,87
-Barbara Dale Washer,Commissioner of Insurance,,Reform,Copiah,Hazlehurst North,5
-Mike Chaney,Commissioner of Insurance,,R,Copiah,Hazlehurst South,117
-Louis Fondren,Commissioner of Insurance,,D,Copiah,Hazlehurst South,188
-Barbara Dale Washer,Commissioner of Insurance,,Reform,Copiah,Hazlehurst South,7
-Mike Chaney,Commissioner of Insurance,,R,Copiah,Hazlehurst West,282
-Louis Fondren,Commissioner of Insurance,,D,Copiah,Hazlehurst West,591
-Barbara Dale Washer,Commissioner of Insurance,,Reform,Copiah,Hazlehurst West,31
-Mike Chaney,Commissioner of Insurance,,R,Copiah,Martinsville,115
-Louis Fondren,Commissioner of Insurance,,D,Copiah,Martinsville,138
-Barbara Dale Washer,Commissioner of Insurance,,Reform,Copiah,Martinsville,6
-Mike Chaney,Commissioner of Insurance,,R,Copiah,Shady Grove,246
-Louis Fondren,Commissioner of Insurance,,D,Copiah,Shady Grove,53
-Barbara Dale Washer,Commissioner of Insurance,,Reform,Copiah,Shady Grove,3
-Mike Chaney,Commissioner of Insurance,,R,Copiah,Stronghope Union,251
-Louis Fondren,Commissioner of Insurance,,D,Copiah,Stronghope Union,21
-Barbara Dale Washer,Commissioner of Insurance,,Reform,Copiah,Stronghope Union,11
-Mike Chaney,Commissioner of Insurance,,R,Copiah,Wesson,379
-Louis Fondren,Commissioner of Insurance,,D,Copiah,Wesson,55
-Barbara Dale Washer,Commissioner of Insurance,,Reform,Copiah,Wesson,23
-Mike Chaney,Commissioner of Insurance,,R,Copiah,Gallman,688
-Louis Fondren,Commissioner of Insurance,,D,Copiah,Gallman,390
-Barbara Dale Washer,Commissioner of Insurance,,Reform,Copiah,Gallman,23
-Mike Chaney,Commissioner of Insurance,,R,Copiah,TOTAL,5236
-Louis Fondren,Commissioner of Insurance,,D,Copiah,TOTAL,3864
-Barbara Dale Washer,Commissioner of Insurance,,Reform,Copiah,TOTAL,272
-Perry E. Lee,State Senate,35,R,Copiah,Crystal Springs East,1095
-Perry E. Lee,State Senate,35,R,Copiah,Crystal Springs North,9
-Perry E. Lee,State Senate,35,R,Copiah,Crystal Springs South,7
-Perry E. Lee,State Senate,35,R,Copiah,TOTAL,1111
-Albert Butler,State Senate,36,D,Copiah,Beauregard,391
-Albert Butler,State Senate,36,D,Copiah,Centerpoint,521
-Albert Butler,State Senate,36,D,Copiah,Carpenter,134
-Albert Butler,State Senate,36,D,Copiah,Crystal Springs North,235
-Albert Butler,State Senate,36,D,Copiah,Crystal Springs South,846
-Albert Butler,State Senate,36,D,Copiah,Crystal Springs West,532
-Albert Butler,State Senate,36,D,Copiah,Dentville,120
-Albert Butler,State Senate,36,D,Copiah,Georgetown North,162
-Albert Butler,State Senate,36,D,Copiah,Georgetown South,223
-Albert Butler,State Senate,36,D,Copiah,Hazlehurst East,624
-Albert Butler,State Senate,36,D,Copiah,Hazlehurst North,158
-Albert Butler,State Senate,36,D,Copiah,Hazlehurst South,306
-Albert Butler,State Senate,36,D,Copiah,Hazlehurst West,860
-Albert Butler,State Senate,36,D,Copiah,Martinsville,232
-Albert Butler,State Senate,36,D,Copiah,Shady Grove,269
-Albert Butler,State Senate,36,D,Copiah,Stronghope Union,237
-Albert Butler,State Senate,36,D,Copiah,Wesson,367
-Albert Butler,State Senate,36,D,Copiah,Gallman,945
-Albert Butler,State Senate,36,D,Copiah,TOTAL,7162
-Tom Weathersby,State House,62,R,Copiah,Beauregard,414
-Tom Weathersby,State House,62,R,Copiah,Crystal Springs East,916
-Tom Weathersby,State House,62,R,Copiah,Crystal Springs North,6
-Tom Weathersby,State House,62,R,Copiah,Crystal Springs South,7
-Tom Weathersby,State House,62,R,Copiah,Crystal Springs West,253
-Tom Weathersby,State House,62,R,Copiah,Georgetown North,69
-Tom Weathersby,State House,62,R,Copiah,Georgetown South,42
-Tom Weathersby,State House,62,R,Copiah,Hazlehurst East,3
-Tom Weathersby,State House,62,R,Copiah,Martinsville,54
-Tom Weathersby,State House,62,R,Copiah,Shady Grove,273
-Tom Weathersby,State House,62,R,Copiah,Stronghope Union,267
-Tom Weathersby,State House,62,R,Copiah,Wesson,224
-Tom Weathersby,State House,62,R,Copiah,Gallman,117
-Tom Weathersby,State House,62,R,Copiah,TOTAL,2645
-Greg Holloway,State House,76,R,Copiah,Beauregard,7
-Greg Holloway,State House,76,R,Copiah,Centerpoint,533
-Greg Holloway,State House,76,R,Copiah,Carpenter,139
-Greg Holloway,State House,76,R,Copiah,Crystal Springs East,240
-Greg Holloway,State House,76,R,Copiah,Crystal Springs North,252
-Greg Holloway,State House,76,R,Copiah,Crystal Springs South,859
-Greg Holloway,State House,76,R,Copiah,Crystal Springs West,297
-Greg Holloway,State House,76,R,Copiah,Dentville,129
-Greg Holloway,State House,76,R,Copiah,Georgetown North,60
-Greg Holloway,State House,76,R,Copiah,Hazlehurst East,639
-Greg Holloway,State House,76,R,Copiah,Hazlehurst North,163
-Greg Holloway,State House,76,R,Copiah,Hazlehurst South,317
-Greg Holloway,State House,76,R,Copiah,Hazlehurst West,906
-Greg Holloway,State House,76,R,Copiah,Martinsville,194
-Greg Holloway,State House,76,R,Copiah,Gallman,868
-Greg Holloway,State House,76,R,Copiah,TOTAL,5603
-Cindy Shivers Bryan,State House,91,R,Copiah,Georgetown North,11
-Bob Evans,State House,91,D,Copiah,Georgetown North,21
-Cindy Shivers Bryan,State House,91,R,Copiah,Georgetown South,135
-Bob Evans,State House,91,D,Copiah,Georgetown South,85
-Cindy Shivers Bryan,State House,91,R,Copiah,Stronghope Union,7
-Bob Evans,State House,91,D,Copiah,Stronghope Union,0
-Cindy Shivers Bryan,State House,91,R,Copiah,TOTAL,153
-Bob Evans,State House,91,D,Copiah,TOTAL,106
-Becky Currie,State House,92,R,Copiah,Beauregard,2
-Ken Dale Sullivan,State House,92,D,Copiah,Beauregard,0
-Becky Currie,State House,92,R,Copiah,Wesson,114
-Ken Dale Sullivan,State House,92,D,Copiah,Wesson,103
-Becky Currie,State House,92,R,Copiah,TOTAL,116
-Ken Dale Sullivan,State House,92,D,Copiah,TOTAL,103
+county,precinct,office,district,candidate,party,votes
+Copiah,Beauregard,Governor,,Phil Bryant,R,394
+Copiah,Beauregard,Governor,,Johnny L. DuPree,D,99
+Copiah,Centerpoint,Governor,,Phil Bryant,R,386
+Copiah,Centerpoint,Governor,,Johnny L. DuPree,D,222
+Copiah,Carpenter,Governor,,Phil Bryant,R,59
+Copiah,Carpenter,Governor,,Johnny L. DuPree,D,104
+Copiah,Crystal Springs East,Governor,,Phil Bryant,R,894
+Copiah,Crystal Springs East,Governor,,Johnny L. DuPree,D,420
+Copiah,Crystal Springs North,Governor,,Phil Bryant,R,86
+Copiah,Crystal Springs North,Governor,,Johnny L. DuPree,D,197
+Copiah,Crystal Springs South,Governor,,Phil Bryant,R,354
+Copiah,Crystal Springs South,Governor,,Johnny L. DuPree,D,595
+Copiah,Crystal Springs West,Governor,,Phil Bryant,R,388
+Copiah,Crystal Springs West,Governor,,Johnny L. DuPree,D,243
+Copiah,Dentville,Governor,,Phil Bryant,R,118
+Copiah,Dentville,Governor,,Johnny L. DuPree,D,28
+Copiah,Georgetown North,Governor,,Phil Bryant,R,67
+Copiah,Georgetown North,Governor,,Johnny L. DuPree,D,120
+Copiah,Georgetown South,Governor,,Phil Bryant,R,186
+Copiah,Georgetown South,Governor,,Johnny L. DuPree,D,94
+Copiah,Hazlehurst East,Governor,,Phil Bryant,R,45
+Copiah,Hazlehurst East,Governor,,Johnny L. DuPree,D,605
+Copiah,Hazlehurst North,Governor,,Phil Bryant,R,73
+Copiah,Hazlehurst North,Governor,,Johnny L. DuPree,D,103
+Copiah,Hazlehurst South,Governor,,Phil Bryant,R,108
+Copiah,Hazlehurst South,Governor,,Johnny L. DuPree,D,217
+Copiah,Hazlehurst West,Governor,,Phil Bryant,R,240
+Copiah,Hazlehurst West,Governor,,Johnny L. DuPree,D,700
+Copiah,Martinsville,Governor,,Phil Bryant,R,102
+Copiah,Martinsville,Governor,,Johnny L. DuPree,D,161
+Copiah,Shady Grove,Governor,,Phil Bryant,R,237
+Copiah,Shady Grove,Governor,,Johnny L. DuPree,D,64
+Copiah,Stronghope Union,Governor,,Phil Bryant,R,266
+Copiah,Stronghope Union,Governor,,Johnny L. DuPree,D,21
+Copiah,Wesson,Governor,,Phil Bryant,R,395
+Copiah,Wesson,Governor,,Johnny L. DuPree,D,66
+Copiah,Gallman,Governor,,Phil Bryant,R,675
+Copiah,Gallman,Governor,,Johnny L. DuPree,D,450
+Copiah,Beauregard,Lieutenant Governor,,Tate Reeves,R,433
+Copiah,Beauregard,Lieutenant Governor,,Tracella Lou O'Hara Hill,Reform,47
+Copiah,Centerpoint,Lieutenant Governor,,Tate Reeves,R,450
+Copiah,Centerpoint,Lieutenant Governor,,Tracella Lou O'Hara Hill,Reform,102
+Copiah,Carpenter,Lieutenant Governor,,Tate Reeves,R,90
+Copiah,Carpenter,Lieutenant Governor,,Tracella Lou O'Hara Hill,Reform,53
+Copiah,Crystal Springs East,Lieutenant Governor,,Tate Reeves,R,1048
+Copiah,Crystal Springs East,Lieutenant Governor,,Tracella Lou O'Hara Hill,Reform,177
+Copiah,Crystal Springs North,Lieutenant Governor,,Tate Reeves,R,157
+Copiah,Crystal Springs North,Lieutenant Governor,,Tracella Lou O'Hara Hill,Reform,95
+Copiah,Crystal Springs South,Lieutenant Governor,,Tate Reeves,R,559
+Copiah,Crystal Springs South,Lieutenant Governor,,Tracella Lou O'Hara Hill,Reform,271
+Copiah,Crystal Springs West,Lieutenant Governor,,Tate Reeves,R,463
+Copiah,Crystal Springs West,Lieutenant Governor,,Tracella Lou O'Hara Hill,Reform,113
+Copiah,Dentville,Lieutenant Governor,,Tate Reeves,R,127
+Copiah,Dentville,Lieutenant Governor,,Tracella Lou O'Hara Hill,Reform,17
+Copiah,Georgetown North,Lieutenant Governor,,Tate Reeves,R,107
+Copiah,Georgetown North,Lieutenant Governor,,Tracella Lou O'Hara Hill,Reform,64
+Copiah,Georgetown South,Lieutenant Governor,,Tate Reeves,R,209
+Copiah,Georgetown South,Lieutenant Governor,,Tracella Lou O'Hara Hill,Reform,45
+Copiah,Hazlehurst East,Lieutenant Governor,,Tate Reeves,R,243
+Copiah,Hazlehurst East,Lieutenant Governor,,Tracella Lou O'Hara Hill,Reform,281
+Copiah,Hazlehurst North,Lieutenant Governor,,Tate Reeves,R,112
+Copiah,Hazlehurst North,Lieutenant Governor,,Tracella Lou O'Hara Hill,Reform,40
+Copiah,Hazlehurst South,Lieutenant Governor,,Tate Reeves,R,175
+Copiah,Hazlehurst South,Lieutenant Governor,,Tracella Lou O'Hara Hill,Reform,102
+Copiah,Hazlehurst West,Lieutenant Governor,,Tate Reeves,R,471
+Copiah,Hazlehurst West,Lieutenant Governor,,Tracella Lou O'Hara Hill,Reform,312
+Copiah,Martinsville,Lieutenant Governor,,Tate Reeves,R,153
+Copiah,Martinsville,Lieutenant Governor,,Tracella Lou O'Hara Hill,Reform,71
+Copiah,Shady Grove,Lieutenant Governor,,Tate Reeves,R,261
+Copiah,Shady Grove,Lieutenant Governor,,Tracella Lou O'Hara Hill,Reform,28
+Copiah,Stronghope Union,Lieutenant Governor,,Tate Reeves,R,269
+Copiah,Stronghope Union,Lieutenant Governor,,Tracella Lou O'Hara Hill,Reform,15
+Copiah,Wesson,Lieutenant Governor,,Tate Reeves,R,418
+Copiah,Wesson,Lieutenant Governor,,Tracella Lou O'Hara Hill,Reform,29
+Copiah,Gallman,Lieutenant Governor,,Tate Reeves,R,812
+Copiah,Gallman,Lieutenant Governor,,Tracella Lou O'Hara Hill,Reform,220
+Copiah,Beauregard,Secretary of State,,Delbert Hosemann,R,447
+Copiah,Centerpoint,Secretary of State,,Delbert Hosemann,R,495
+Copiah,Carpenter,Secretary of State,,Delbert Hosemann,R,122
+Copiah,Crystal Springs East,Secretary of State,,Delbert Hosemann,R,1139
+Copiah,Crystal Springs North,Secretary of State,,Delbert Hosemann,R,219
+Copiah,Crystal Springs South,Secretary of State,,Delbert Hosemann,R,721
+Copiah,Crystal Springs West,Secretary of State,,Delbert Hosemann,R,519
+Copiah,Dentville,Secretary of State,,Delbert Hosemann,R,134
+Copiah,Georgetown North,Secretary of State,,Delbert Hosemann,R,139
+Copiah,Georgetown South,Secretary of State,,Delbert Hosemann,R,235
+Copiah,Hazlehurst East,Secretary of State,,Delbert Hosemann,R,390
+Copiah,Hazlehurst North,Secretary of State,,Delbert Hosemann,R,132
+Copiah,Hazlehurst South,Secretary of State,,Delbert Hosemann,R,237
+Copiah,Hazlehurst West,Secretary of State,,Delbert Hosemann,R,636
+Copiah,Martinsville,Secretary of State,,Delbert Hosemann,R,190
+Copiah,Shady Grove,Secretary of State,,Delbert Hosemann,R,276
+Copiah,Stronghope Union,Secretary of State,,Delbert Hosemann,R,272
+Copiah,Wesson,Secretary of State,,Delbert Hosemann,R,428
+Copiah,Gallman,Secretary of State,,Delbert Hosemann,R,921
+Copiah,Beauregard,Attorney General,,Jim Hood,D,311
+Copiah,Beauregard,Attorney General,,Steve Simpson,R,178
+Copiah,Centerpoint,Attorney General,,Jim Hood,D,429
+Copiah,Centerpoint,Attorney General,,Steve Simpson,R,180
+Copiah,Carpenter,Attorney General,,Jim Hood,D,132
+Copiah,Carpenter,Attorney General,,Steve Simpson,R,30
+Copiah,Crystal Springs East,Attorney General,,Jim Hood,D,805
+Copiah,Crystal Springs East,Attorney General,,Steve Simpson,R,498
+Copiah,Crystal Springs North,Attorney General,,Jim Hood,D,228
+Copiah,Crystal Springs North,Attorney General,,Steve Simpson,R,53
+Copiah,Crystal Springs South,Attorney General,,Jim Hood,D,754
+Copiah,Crystal Springs South,Attorney General,,Steve Simpson,R,179
+Copiah,Crystal Springs West,Attorney General,,Jim Hood,D,413
+Copiah,Crystal Springs West,Attorney General,,Steve Simpson,R,211
+Copiah,Dentville,Attorney General,,Jim Hood,D,97
+Copiah,Dentville,Attorney General,,Steve Simpson,R,50
+Copiah,Georgetown North,Attorney General,,Jim Hood,D,152
+Copiah,Georgetown North,Attorney General,,Steve Simpson,R,36
+Copiah,Georgetown South,Attorney General,,Jim Hood,D,181
+Copiah,Georgetown South,Attorney General,,Steve Simpson,R,96
+Copiah,Hazlehurst East,Attorney General,,Jim Hood,D,611
+Copiah,Hazlehurst East,Attorney General,,Steve Simpson,R,32
+Copiah,Hazlehurst North,Attorney General,,Jim Hood,D,141
+Copiah,Hazlehurst North,Attorney General,,Steve Simpson,R,33
+Copiah,Hazlehurst South,Attorney General,,Jim Hood,D,263
+Copiah,Hazlehurst South,Attorney General,,Steve Simpson,R,58
+Copiah,Hazlehurst West,Attorney General,,Jim Hood,D,820
+Copiah,Hazlehurst West,Attorney General,,Steve Simpson,R,111
+Copiah,Martinsville,Attorney General,,Jim Hood,D,216
+Copiah,Martinsville,Attorney General,,Steve Simpson,R,48
+Copiah,Shady Grove,Attorney General,,Jim Hood,D,174
+Copiah,Shady Grove,Attorney General,,Steve Simpson,R,127
+Copiah,Stronghope Union,Attorney General,,Jim Hood,D,140
+Copiah,Stronghope Union,Attorney General,,Steve Simpson,R,144
+Copiah,Wesson,Attorney General,,Jim Hood,D,274
+Copiah,Wesson,Attorney General,,Steve Simpson,R,184
+Copiah,Gallman,Attorney General,,Jim Hood,D,685
+Copiah,Gallman,Attorney General,,Steve Simpson,R,437
+Copiah,Beauregard,State Auditor,,Stacey E. Pickering,R,417
+Copiah,Beauregard,State Auditor,,Ashley Norwood,Reform,61
+Copiah,Centerpoint,State Auditor,,Stacey E. Pickering,R,411
+Copiah,Centerpoint,State Auditor,,Ashley Norwood,Reform,122
+Copiah,Carpenter,State Auditor,,Stacey E. Pickering,R,83
+Copiah,Carpenter,State Auditor,,Ashley Norwood,Reform,50
+Copiah,Crystal Springs East,State Auditor,,Stacey E. Pickering,R,994
+Copiah,Crystal Springs East,State Auditor,,Ashley Norwood,Reform,218
+Copiah,Crystal Springs North,State Auditor,,Stacey E. Pickering,R,135
+Copiah,Crystal Springs North,State Auditor,,Ashley Norwood,Reform,109
+Copiah,Crystal Springs South,State Auditor,,Stacey E. Pickering,R,492
+Copiah,Crystal Springs South,State Auditor,,Ashley Norwood,Reform,325
+Copiah,Crystal Springs West,State Auditor,,Stacey E. Pickering,R,429
+Copiah,Crystal Springs West,State Auditor,,Ashley Norwood,Reform,142
+Copiah,Dentville,State Auditor,,Stacey E. Pickering,R,120
+Copiah,Dentville,State Auditor,,Ashley Norwood,Reform,20
+Copiah,Georgetown North,State Auditor,,Stacey E. Pickering,R,97
+Copiah,Georgetown North,State Auditor,,Ashley Norwood,Reform,66
+Copiah,Georgetown South,State Auditor,,Stacey E. Pickering,R,205
+Copiah,Georgetown South,State Auditor,,Ashley Norwood,Reform,51
+Copiah,Hazlehurst East,State Auditor,,Stacey E. Pickering,R,184
+Copiah,Hazlehurst East,State Auditor,,Ashley Norwood,Reform,316
+Copiah,Hazlehurst North,State Auditor,,Stacey E. Pickering,R,95
+Copiah,Hazlehurst North,State Auditor,,Ashley Norwood,Reform,53
+Copiah,Hazlehurst South,State Auditor,,Stacey E. Pickering,R,161
+Copiah,Hazlehurst South,State Auditor,,Ashley Norwood,Reform,106
+Copiah,Hazlehurst West,State Auditor,,Stacey E. Pickering,R,419
+Copiah,Hazlehurst West,State Auditor,,Ashley Norwood,Reform,358
+Copiah,Martinsville,State Auditor,,Stacey E. Pickering,R,136
+Copiah,Martinsville,State Auditor,,Ashley Norwood,Reform,86
+Copiah,Shady Grove,State Auditor,,Stacey E. Pickering,R,263
+Copiah,Shady Grove,State Auditor,,Ashley Norwood,Reform,24
+Copiah,Stronghope Union,State Auditor,,Stacey E. Pickering,R,266
+Copiah,Stronghope Union,State Auditor,,Ashley Norwood,Reform,15
+Copiah,Wesson,State Auditor,,Stacey E. Pickering,R,397
+Copiah,Wesson,State Auditor,,Ashley Norwood,Reform,51
+Copiah,Gallman,State Auditor,,Stacey E. Pickering,R,741
+Copiah,Gallman,State Auditor,,Ashley Norwood,Reform,268
+Copiah,Beauregard,State Treasurer,,Lynn Fitch,R,396
+Copiah,Beauregard,State Treasurer,,Connie Moran,D,76
+Copiah,Beauregard,State Treasurer,,Shawn O'Hara,Reform,16
+Copiah,Centerpoint,State Treasurer,,Lynn Fitch,R,376
+Copiah,Centerpoint,State Treasurer,,Connie Moran,D,212
+Copiah,Centerpoint,State Treasurer,,Shawn O'Hara,Reform,15
+Copiah,Carpenter,State Treasurer,,Lynn Fitch,R,65
+Copiah,Carpenter,State Treasurer,,Connie Moran,D,89
+Copiah,Carpenter,State Treasurer,,Shawn O'Hara,Reform,6
+Copiah,Crystal Springs East,State Treasurer,,Lynn Fitch,R,884
+Copiah,Crystal Springs East,State Treasurer,,Connie Moran,D,375
+Copiah,Crystal Springs East,State Treasurer,,Shawn O'Hara,Reform,33
+Copiah,Crystal Springs North,State Treasurer,,Lynn Fitch,R,100
+Copiah,Crystal Springs North,State Treasurer,,Connie Moran,D,168
+Copiah,Crystal Springs North,State Treasurer,,Shawn O'Hara,Reform,12
+Copiah,Crystal Springs South,State Treasurer,,Lynn Fitch,R,387
+Copiah,Crystal Springs South,State Treasurer,,Connie Moran,D,520
+Copiah,Crystal Springs South,State Treasurer,,Shawn O'Hara,Reform,26
+Copiah,Crystal Springs West,State Treasurer,,Lynn Fitch,R,388
+Copiah,Crystal Springs West,State Treasurer,,Connie Moran,D,212
+Copiah,Crystal Springs West,State Treasurer,,Shawn O'Hara,Reform,19
+Copiah,Dentville,State Treasurer,,Lynn Fitch,R,119
+Copiah,Dentville,State Treasurer,,Connie Moran,D,21
+Copiah,Dentville,State Treasurer,,Shawn O'Hara,Reform,4
+Copiah,Georgetown North,State Treasurer,,Lynn Fitch,R,67
+Copiah,Georgetown North,State Treasurer,,Connie Moran,D,107
+Copiah,Georgetown North,State Treasurer,,Shawn O'Hara,Reform,8
+Copiah,Georgetown South,State Treasurer,,Lynn Fitch,R,183
+Copiah,Georgetown South,State Treasurer,,Connie Moran,D,83
+Copiah,Georgetown South,State Treasurer,,Shawn O'Hara,Reform,11
+Copiah,Hazlehurst East,State Treasurer,,Lynn Fitch,R,91
+Copiah,Hazlehurst East,State Treasurer,,Connie Moran,D,526
+Copiah,Hazlehurst East,State Treasurer,,Shawn O'Hara,Reform,25
+Copiah,Hazlehurst North,State Treasurer,,Lynn Fitch,R,76
+Copiah,Hazlehurst North,State Treasurer,,Connie Moran,D,93
+Copiah,Hazlehurst North,State Treasurer,,Shawn O'Hara,Reform,3
+Copiah,Hazlehurst South,State Treasurer,,Lynn Fitch,R,115
+Copiah,Hazlehurst South,State Treasurer,,Connie Moran,D,198
+Copiah,Hazlehurst South,State Treasurer,,Shawn O'Hara,Reform,7
+Copiah,Hazlehurst West,State Treasurer,,Lynn Fitch,R,268
+Copiah,Hazlehurst West,State Treasurer,,Connie Moran,D,610
+Copiah,Hazlehurst West,State Treasurer,,Shawn O'Hara,Reform,32
+Copiah,Martinsville,State Treasurer,,Lynn Fitch,R,107
+Copiah,Martinsville,State Treasurer,,Connie Moran,D,142
+Copiah,Martinsville,State Treasurer,,Shawn O'Hara,Reform,7
+Copiah,Shady Grove,State Treasurer,,Lynn Fitch,R,232
+Copiah,Shady Grove,State Treasurer,,Connie Moran,D,68
+Copiah,Shady Grove,State Treasurer,,Shawn O'Hara,Reform,2
+Copiah,Stronghope Union,State Treasurer,,Lynn Fitch,R,250
+Copiah,Stronghope Union,State Treasurer,,Connie Moran,D,26
+Copiah,Stronghope Union,State Treasurer,,Shawn O'Hara,Reform,10
+Copiah,Wesson,State Treasurer,,Lynn Fitch,R,372
+Copiah,Wesson,State Treasurer,,Connie Moran,D,78
+Copiah,Wesson,State Treasurer,,Shawn O'Hara,Reform,9
+Copiah,Gallman,State Treasurer,,Lynn Fitch,R,686
+Copiah,Gallman,State Treasurer,,Connie Moran,D,396
+Copiah,Gallman,State Treasurer,,Shawn O'Hara,Reform,23
+Copiah,Beauregard,Commissioner of Agriculture & Commerce,,Joel Gill,D,89
+Copiah,Beauregard,Commissioner of Agriculture & Commerce,,Cindy Hyde-Smith,R,397
+Copiah,Beauregard,Commissioner of Agriculture & Commerce,,Cathy L. Toole,Reform,4
+Copiah,Centerpoint,Commissioner of Agriculture & Commerce,,Joel Gill,D,230
+Copiah,Centerpoint,Commissioner of Agriculture & Commerce,,Cindy Hyde-Smith,R,356
+Copiah,Centerpoint,Commissioner of Agriculture & Commerce,,Cathy L. Toole,Reform,11
+Copiah,Carpenter,Commissioner of Agriculture & Commerce,,Joel Gill,D,97
+Copiah,Carpenter,Commissioner of Agriculture & Commerce,,Cindy Hyde-Smith,R,54
+Copiah,Carpenter,Commissioner of Agriculture & Commerce,,Cathy L. Toole,Reform,7
+Copiah,Crystal Springs East,Commissioner of Agriculture & Commerce,,Joel Gill,D,456
+Copiah,Crystal Springs East,Commissioner of Agriculture & Commerce,,Cindy Hyde-Smith,R,812
+Copiah,Crystal Springs East,Commissioner of Agriculture & Commerce,,Cathy L. Toole,Reform,24
+Copiah,Crystal Springs North,Commissioner of Agriculture & Commerce,,Joel Gill,D,172
+Copiah,Crystal Springs North,Commissioner of Agriculture & Commerce,,Cindy Hyde-Smith,R,99
+Copiah,Crystal Springs North,Commissioner of Agriculture & Commerce,,Cathy L. Toole,Reform,5
+Copiah,Crystal Springs South,Commissioner of Agriculture & Commerce,,Joel Gill,D,555
+Copiah,Crystal Springs South,Commissioner of Agriculture & Commerce,,Cindy Hyde-Smith,R,348
+Copiah,Crystal Springs South,Commissioner of Agriculture & Commerce,,Cathy L. Toole,Reform,23
+Copiah,Crystal Springs West,Commissioner of Agriculture & Commerce,,Joel Gill,D,231
+Copiah,Crystal Springs West,Commissioner of Agriculture & Commerce,,Cindy Hyde-Smith,R,383
+Copiah,Crystal Springs West,Commissioner of Agriculture & Commerce,,Cathy L. Toole,Reform,5
+Copiah,Dentville,Commissioner of Agriculture & Commerce,,Joel Gill,D,37
+Copiah,Dentville,Commissioner of Agriculture & Commerce,,Cindy Hyde-Smith,R,109
+Copiah,Dentville,Commissioner of Agriculture & Commerce,,Cathy L. Toole,Reform,0
+Copiah,Georgetown North,Commissioner of Agriculture & Commerce,,Joel Gill,D,115
+Copiah,Georgetown North,Commissioner of Agriculture & Commerce,,Cindy Hyde-Smith,R,56
+Copiah,Georgetown North,Commissioner of Agriculture & Commerce,,Cathy L. Toole,Reform,8
+Copiah,Georgetown South,Commissioner of Agriculture & Commerce,,Joel Gill,D,88
+Copiah,Georgetown South,Commissioner of Agriculture & Commerce,,Cindy Hyde-Smith,R,180
+Copiah,Georgetown South,Commissioner of Agriculture & Commerce,,Cathy L. Toole,Reform,5
+Copiah,Hazlehurst East,Commissioner of Agriculture & Commerce,,Joel Gill,D,537
+Copiah,Hazlehurst East,Commissioner of Agriculture & Commerce,,Cindy Hyde-Smith,R,80
+Copiah,Hazlehurst East,Commissioner of Agriculture & Commerce,,Cathy L. Toole,Reform,14
+Copiah,Hazlehurst North,Commissioner of Agriculture & Commerce,,Joel Gill,D,95
+Copiah,Hazlehurst North,Commissioner of Agriculture & Commerce,,Cindy Hyde-Smith,R,71
+Copiah,Hazlehurst North,Commissioner of Agriculture & Commerce,,Cathy L. Toole,Reform,2
+Copiah,Hazlehurst South,Commissioner of Agriculture & Commerce,,Joel Gill,D,196
+Copiah,Hazlehurst South,Commissioner of Agriculture & Commerce,,Cindy Hyde-Smith,R,116
+Copiah,Hazlehurst South,Commissioner of Agriculture & Commerce,,Cathy L. Toole,Reform,7
+Copiah,Hazlehurst West,Commissioner of Agriculture & Commerce,,Joel Gill,D,619
+Copiah,Hazlehurst West,Commissioner of Agriculture & Commerce,,Cindy Hyde-Smith,R,262
+Copiah,Hazlehurst West,Commissioner of Agriculture & Commerce,,Cathy L. Toole,Reform,22
+Copiah,Martinsville,Commissioner of Agriculture & Commerce,,Joel Gill,D,150
+Copiah,Martinsville,Commissioner of Agriculture & Commerce,,Cindy Hyde-Smith,R,109
+Copiah,Martinsville,Commissioner of Agriculture & Commerce,,Cathy L. Toole,Reform,3
+Copiah,Shady Grove,Commissioner of Agriculture & Commerce,,Joel Gill,D,84
+Copiah,Shady Grove,Commissioner of Agriculture & Commerce,,Cindy Hyde-Smith,R,214
+Copiah,Shady Grove,Commissioner of Agriculture & Commerce,,Cathy L. Toole,Reform,3
+Copiah,Stronghope Union,Commissioner of Agriculture & Commerce,,Joel Gill,D,31
+Copiah,Stronghope Union,Commissioner of Agriculture & Commerce,,Cindy Hyde-Smith,R,249
+Copiah,Stronghope Union,Commissioner of Agriculture & Commerce,,Cathy L. Toole,Reform,5
+Copiah,Wesson,Commissioner of Agriculture & Commerce,,Joel Gill,D,58
+Copiah,Wesson,Commissioner of Agriculture & Commerce,,Cindy Hyde-Smith,R,389
+Copiah,Wesson,Commissioner of Agriculture & Commerce,,Cathy L. Toole,Reform,11
+Copiah,Gallman,Commissioner of Agriculture & Commerce,,Joel Gill,D,431
+Copiah,Gallman,Commissioner of Agriculture & Commerce,,Cindy Hyde-Smith,R,653
+Copiah,Gallman,Commissioner of Agriculture & Commerce,,Cathy L. Toole,Reform,21
+Copiah,Beauregard,Commissioner of Insurance,,Mike Chaney,R,396
+Copiah,Beauregard,Commissioner of Insurance,,Louis Fondren,D,76
+Copiah,Beauregard,Commissioner of Insurance,,Barbara Dale Washer,Reform,16
+Copiah,Centerpoint,Commissioner of Insurance,,Mike Chaney,R,380
+Copiah,Centerpoint,Commissioner of Insurance,,Louis Fondren,D,194
+Copiah,Centerpoint,Commissioner of Insurance,,Barbara Dale Washer,Reform,18
+Copiah,Carpenter,Commissioner of Insurance,,Mike Chaney,R,63
+Copiah,Carpenter,Commissioner of Insurance,,Louis Fondren,D,88
+Copiah,Carpenter,Commissioner of Insurance,,Barbara Dale Washer,Reform,6
+Copiah,Crystal Springs East,Commissioner of Insurance,,Mike Chaney,R,908
+Copiah,Crystal Springs East,Commissioner of Insurance,,Louis Fondren,D,346
+Copiah,Crystal Springs East,Commissioner of Insurance,,Barbara Dale Washer,Reform,31
+Copiah,Crystal Springs North,Commissioner of Insurance,,Mike Chaney,R,97
+Copiah,Crystal Springs North,Commissioner of Insurance,,Louis Fondren,D,172
+Copiah,Crystal Springs North,Commissioner of Insurance,,Barbara Dale Washer,Reform,9
+Copiah,Crystal Springs South,Commissioner of Insurance,,Mike Chaney,R,372
+Copiah,Crystal Springs South,Commissioner of Insurance,,Louis Fondren,D,525
+Copiah,Crystal Springs South,Commissioner of Insurance,,Barbara Dale Washer,Reform,29
+Copiah,Crystal Springs West,Commissioner of Insurance,,Mike Chaney,R,400
+Copiah,Crystal Springs West,Commissioner of Insurance,,Louis Fondren,D,209
+Copiah,Crystal Springs West,Commissioner of Insurance,,Barbara Dale Washer,Reform,11
+Copiah,Dentville,Commissioner of Insurance,,Mike Chaney,R,117
+Copiah,Dentville,Commissioner of Insurance,,Louis Fondren,D,21
+Copiah,Dentville,Commissioner of Insurance,,Barbara Dale Washer,Reform,6
+Copiah,Georgetown North,Commissioner of Insurance,,Mike Chaney,R,73
+Copiah,Georgetown North,Commissioner of Insurance,,Louis Fondren,D,103
+Copiah,Georgetown North,Commissioner of Insurance,,Barbara Dale Washer,Reform,6
+Copiah,Georgetown South,Commissioner of Insurance,,Mike Chaney,R,192
+Copiah,Georgetown South,Commissioner of Insurance,,Louis Fondren,D,76
+Copiah,Georgetown South,Commissioner of Insurance,,Barbara Dale Washer,Reform,7
+Copiah,Hazlehurst East,Commissioner of Insurance,,Mike Chaney,R,83
+Copiah,Hazlehurst East,Commissioner of Insurance,,Louis Fondren,D,531
+Copiah,Hazlehurst East,Commissioner of Insurance,,Barbara Dale Washer,Reform,24
+Copiah,Hazlehurst North,Commissioner of Insurance,,Mike Chaney,R,77
+Copiah,Hazlehurst North,Commissioner of Insurance,,Louis Fondren,D,87
+Copiah,Hazlehurst North,Commissioner of Insurance,,Barbara Dale Washer,Reform,5
+Copiah,Hazlehurst South,Commissioner of Insurance,,Mike Chaney,R,117
+Copiah,Hazlehurst South,Commissioner of Insurance,,Louis Fondren,D,188
+Copiah,Hazlehurst South,Commissioner of Insurance,,Barbara Dale Washer,Reform,7
+Copiah,Hazlehurst West,Commissioner of Insurance,,Mike Chaney,R,282
+Copiah,Hazlehurst West,Commissioner of Insurance,,Louis Fondren,D,591
+Copiah,Hazlehurst West,Commissioner of Insurance,,Barbara Dale Washer,Reform,31
+Copiah,Martinsville,Commissioner of Insurance,,Mike Chaney,R,115
+Copiah,Martinsville,Commissioner of Insurance,,Louis Fondren,D,138
+Copiah,Martinsville,Commissioner of Insurance,,Barbara Dale Washer,Reform,6
+Copiah,Shady Grove,Commissioner of Insurance,,Mike Chaney,R,246
+Copiah,Shady Grove,Commissioner of Insurance,,Louis Fondren,D,53
+Copiah,Shady Grove,Commissioner of Insurance,,Barbara Dale Washer,Reform,3
+Copiah,Stronghope Union,Commissioner of Insurance,,Mike Chaney,R,251
+Copiah,Stronghope Union,Commissioner of Insurance,,Louis Fondren,D,21
+Copiah,Stronghope Union,Commissioner of Insurance,,Barbara Dale Washer,Reform,11
+Copiah,Wesson,Commissioner of Insurance,,Mike Chaney,R,379
+Copiah,Wesson,Commissioner of Insurance,,Louis Fondren,D,55
+Copiah,Wesson,Commissioner of Insurance,,Barbara Dale Washer,Reform,23
+Copiah,Gallman,Commissioner of Insurance,,Mike Chaney,R,688
+Copiah,Gallman,Commissioner of Insurance,,Louis Fondren,D,390
+Copiah,Gallman,Commissioner of Insurance,,Barbara Dale Washer,Reform,23
+Copiah,Crystal Springs East,State Senate,35,Perry E. Lee,R,1095
+Copiah,Crystal Springs North,State Senate,35,Perry E. Lee,R,9
+Copiah,Crystal Springs South,State Senate,35,Perry E. Lee,R,7
+Copiah,Beauregard,State Senate,36,Albert Butler,D,391
+Copiah,Centerpoint,State Senate,36,Albert Butler,D,521
+Copiah,Carpenter,State Senate,36,Albert Butler,D,134
+Copiah,Crystal Springs North,State Senate,36,Albert Butler,D,235
+Copiah,Crystal Springs South,State Senate,36,Albert Butler,D,846
+Copiah,Crystal Springs West,State Senate,36,Albert Butler,D,532
+Copiah,Dentville,State Senate,36,Albert Butler,D,120
+Copiah,Georgetown North,State Senate,36,Albert Butler,D,162
+Copiah,Georgetown South,State Senate,36,Albert Butler,D,223
+Copiah,Hazlehurst East,State Senate,36,Albert Butler,D,624
+Copiah,Hazlehurst North,State Senate,36,Albert Butler,D,158
+Copiah,Hazlehurst South,State Senate,36,Albert Butler,D,306
+Copiah,Hazlehurst West,State Senate,36,Albert Butler,D,860
+Copiah,Martinsville,State Senate,36,Albert Butler,D,232
+Copiah,Shady Grove,State Senate,36,Albert Butler,D,269
+Copiah,Stronghope Union,State Senate,36,Albert Butler,D,237
+Copiah,Wesson,State Senate,36,Albert Butler,D,367
+Copiah,Gallman,State Senate,36,Albert Butler,D,945
+Copiah,Beauregard,State House,62,Tom Weathersby,R,414
+Copiah,Crystal Springs East,State House,62,Tom Weathersby,R,916
+Copiah,Crystal Springs North,State House,62,Tom Weathersby,R,6
+Copiah,Crystal Springs South,State House,62,Tom Weathersby,R,7
+Copiah,Crystal Springs West,State House,62,Tom Weathersby,R,253
+Copiah,Georgetown North,State House,62,Tom Weathersby,R,69
+Copiah,Georgetown South,State House,62,Tom Weathersby,R,42
+Copiah,Hazlehurst East,State House,62,Tom Weathersby,R,3
+Copiah,Martinsville,State House,62,Tom Weathersby,R,54
+Copiah,Shady Grove,State House,62,Tom Weathersby,R,273
+Copiah,Stronghope Union,State House,62,Tom Weathersby,R,267
+Copiah,Wesson,State House,62,Tom Weathersby,R,224
+Copiah,Gallman,State House,62,Tom Weathersby,R,117
+Copiah,Beauregard,State House,76,Greg Holloway,R,7
+Copiah,Centerpoint,State House,76,Greg Holloway,R,533
+Copiah,Carpenter,State House,76,Greg Holloway,R,139
+Copiah,Crystal Springs East,State House,76,Greg Holloway,R,240
+Copiah,Crystal Springs North,State House,76,Greg Holloway,R,252
+Copiah,Crystal Springs South,State House,76,Greg Holloway,R,859
+Copiah,Crystal Springs West,State House,76,Greg Holloway,R,297
+Copiah,Dentville,State House,76,Greg Holloway,R,129
+Copiah,Georgetown North,State House,76,Greg Holloway,R,60
+Copiah,Hazlehurst East,State House,76,Greg Holloway,R,639
+Copiah,Hazlehurst North,State House,76,Greg Holloway,R,163
+Copiah,Hazlehurst South,State House,76,Greg Holloway,R,317
+Copiah,Hazlehurst West,State House,76,Greg Holloway,R,906
+Copiah,Martinsville,State House,76,Greg Holloway,R,194
+Copiah,Gallman,State House,76,Greg Holloway,R,868
+Copiah,Georgetown North,State House,91,Cindy Shivers Bryan,R,11
+Copiah,Georgetown North,State House,91,Bob Evans,D,21
+Copiah,Georgetown South,State House,91,Cindy Shivers Bryan,R,135
+Copiah,Georgetown South,State House,91,Bob Evans,D,85
+Copiah,Stronghope Union,State House,91,Cindy Shivers Bryan,R,7
+Copiah,Stronghope Union,State House,91,Bob Evans,D,0
+Copiah,Beauregard,State House,92,Becky Currie,R,2
+Copiah,Beauregard,State House,92,Ken Dale Sullivan,D,0
+Copiah,Wesson,State House,92,Becky Currie,R,114
+Copiah,Wesson,State House,92,Ken Dale Sullivan,D,103
+Copiah,Beauregard,Measure No. 26 - Definition of a person,,Yes,,1
+Copiah,Centerpoint,Measure No. 26 - Definition of a person,,Yes,,219
+Copiah,Carpenter,Measure No. 26 - Definition of a person,,Yes,,34
+Copiah,Crystal Springs East,Measure No. 26 - Definition of a person,,Yes,,84
+Copiah,Crystal Springs North,Measure No. 26 - Definition of a person,,Yes,,70
+Copiah,Crystal Springs South,Measure No. 26 - Definition of a person,,Yes,,289
+Copiah,Crystal Springs West,Measure No. 26 - Definition of a person,,Yes,,7
+Copiah,Dentville,Measure No. 26 - Definition of a person,,Yes,,40
+Copiah,Georgetown North,Measure No. 26 - Definition of a person,,Yes,,9
+Copiah,Georgetown South,Measure No. 26 - Definition of a person,,Yes,,93
+Copiah,Hazlehurst East,Measure No. 26 - Definition of a person,,Yes,,141
+Copiah,Hazlehurst North,Measure No. 26 - Definition of a person,,Yes,,41
+Copiah,Hazlehurst South,Measure No. 26 - Definition of a person,,Yes,,83
+Copiah,Hazlehurst West,Measure No. 26 - Definition of a person,,Yes,,220
+Copiah,Martinsville,Measure No. 26 - Definition of a person,,Yes,,40
+Copiah,Shady Grove,Measure No. 26 - Definition of a person,,Yes,,100
+Copiah,Stronghope Union,Measure No. 26 - Definition of a person,,Yes,,5
+Copiah,Wesson,Measure No. 26 - Definition of a person,,Yes,,100
+Copiah,Gallman,Measure No. 26 - Definition of a person,,Yes,,155
+Copiah,Beauregard,Measure No. 26 - Definition of a person,,No,,1
+Copiah,Centerpoint,Measure No. 26 - Definition of a person,,No,,361
+Copiah,Carpenter,Measure No. 26 - Definition of a person,,No,,110
+Copiah,Crystal Springs East,Measure No. 26 - Definition of a person,,No,,174
+Copiah,Crystal Springs North,Measure No. 26 - Definition of a person,,No,,176
+Copiah,Crystal Springs South,Measure No. 26 - Definition of a person,,No,,618
+Copiah,Crystal Springs West,Measure No. 26 - Definition of a person,,No,,8
+Copiah,Dentville,Measure No. 26 - Definition of a person,,No,,99
+Copiah,Georgetown North,Measure No. 26 - Definition of a person,,No,,25
+Copiah,Georgetown South,Measure No. 26 - Definition of a person,,No,,128
+Copiah,Hazlehurst East,Measure No. 26 - Definition of a person,,No,,472
+Copiah,Hazlehurst North,Measure No. 26 - Definition of a person,,No,,129
+Copiah,Hazlehurst South,Measure No. 26 - Definition of a person,,No,,232
+Copiah,Hazlehurst West,Measure No. 26 - Definition of a person,,No,,669
+Copiah,Martinsville,Measure No. 26 - Definition of a person,,No,,156
+Copiah,Shady Grove,Measure No. 26 - Definition of a person,,No,,194
+Copiah,Stronghope Union,Measure No. 26 - Definition of a person,,No,,2
+Copiah,Wesson,Measure No. 26 - Definition of a person,,No,,117
+Copiah,Gallman,Measure No. 26 - Definition of a person,,No,,240
+Copiah,Beauregard,Measure No. 26 - Definition of a person,,Over Votes,,0
+Copiah,Centerpoint,Measure No. 26 - Definition of a person,,Over Votes,,0
+Copiah,Carpenter,Measure No. 26 - Definition of a person,,Over Votes,,0
+Copiah,Crystal Springs East,Measure No. 26 - Definition of a person,,Over Votes,,0
+Copiah,Crystal Springs North,Measure No. 26 - Definition of a person,,Over Votes,,0
+Copiah,Crystal Springs South,Measure No. 26 - Definition of a person,,Over Votes,,0
+Copiah,Crystal Springs West,Measure No. 26 - Definition of a person,,Over Votes,,0
+Copiah,Dentville,Measure No. 26 - Definition of a person,,Over Votes,,0
+Copiah,Georgetown North,Measure No. 26 - Definition of a person,,Over Votes,,0
+Copiah,Georgetown South,Measure No. 26 - Definition of a person,,Over Votes,,0
+Copiah,Hazlehurst East,Measure No. 26 - Definition of a person,,Over Votes,,0
+Copiah,Hazlehurst North,Measure No. 26 - Definition of a person,,Over Votes,,0
+Copiah,Hazlehurst South,Measure No. 26 - Definition of a person,,Over Votes,,0
+Copiah,Hazlehurst West,Measure No. 26 - Definition of a person,,Over Votes,,0
+Copiah,Martinsville,Measure No. 26 - Definition of a person,,Over Votes,,0
+Copiah,Shady Grove,Measure No. 26 - Definition of a person,,Over Votes,,0
+Copiah,Stronghope Union,Measure No. 26 - Definition of a person,,Over Votes,,0
+Copiah,Wesson,Measure No. 26 - Definition of a person,,Over Votes,,0
+Copiah,Gallman,Measure No. 26 - Definition of a person,,Over Votes,,0
+Copiah,Beauregard,Measure No. 26 - Definition of a person,,Under Votes,,0
+Copiah,Centerpoint,Measure No. 26 - Definition of a person,,Under Votes,,36
+Copiah,Carpenter,Measure No. 26 - Definition of a person,,Under Votes,,23
+Copiah,Crystal Springs East,Measure No. 26 - Definition of a person,,Under Votes,,4
+Copiah,Crystal Springs North,Measure No. 26 - Definition of a person,,Under Votes,,15
+Copiah,Crystal Springs South,Measure No. 26 - Definition of a person,,Under Votes,,41
+Copiah,Crystal Springs West,Measure No. 26 - Definition of a person,,Under Votes,,0
+Copiah,Dentville,Measure No. 26 - Definition of a person,,Under Votes,,9
+Copiah,Georgetown North,Measure No. 26 - Definition of a person,,Under Votes,,0
+Copiah,Georgetown South,Measure No. 26 - Definition of a person,,Under Votes,,7
+Copiah,Hazlehurst East,Measure No. 26 - Definition of a person,,Under Votes,,35
+Copiah,Hazlehurst North,Measure No. 26 - Definition of a person,,Under Votes,,7
+Copiah,Hazlehurst South,Measure No. 26 - Definition of a person,,Under Votes,,13
+Copiah,Hazlehurst West,Measure No. 26 - Definition of a person,,Under Votes,,60
+Copiah,Martinsville,Measure No. 26 - Definition of a person,,Under Votes,,11
+Copiah,Shady Grove,Measure No. 26 - Definition of a person,,Under Votes,,10
+Copiah,Stronghope Union,Measure No. 26 - Definition of a person,,Under Votes,,0
+Copiah,Wesson,Measure No. 26 - Definition of a person,,Under Votes,,2
+Copiah,Gallman,Measure No. 26 - Definition of a person,,Under Votes,,21
+Copiah,Beauregard,Measure No. 27 - Voter ID,,Yes,,1
+Copiah,Centerpoint,Measure No. 27 - Voter ID,,Yes,,373
+Copiah,Carpenter,Measure No. 27 - Voter ID,,Yes,,71
+Copiah,Crystal Springs East,Measure No. 27 - Voter ID,,Yes,,108
+Copiah,Crystal Springs North,Measure No. 27 - Voter ID,,Yes,,113
+Copiah,Crystal Springs South,Measure No. 27 - Voter ID,,Yes,,407
+Copiah,Crystal Springs West,Measure No. 27 - Voter ID,,Yes,,12
+Copiah,Dentville,Measure No. 27 - Voter ID,,Yes,,99
+Copiah,Georgetown North,Measure No. 27 - Voter ID,,Yes,,8
+Copiah,Georgetown South,Measure No. 27 - Voter ID,,Yes,,149
+Copiah,Hazlehurst East,Measure No. 27 - Voter ID,,Yes,,153
+Copiah,Hazlehurst North,Measure No. 27 - Voter ID,,Yes,,81
+Copiah,Hazlehurst South,Measure No. 27 - Voter ID,,Yes,,125
+Copiah,Hazlehurst West,Measure No. 27 - Voter ID,,Yes,,330
+Copiah,Martinsville,Measure No. 27 - Voter ID,,Yes,,70
+Copiah,Shady Grove,Measure No. 27 - Voter ID,,Yes,,208
+Copiah,Stronghope Union,Measure No. 27 - Voter ID,,Yes,,5
+Copiah,Wesson,Measure No. 27 - Voter ID,,Yes,,166
+Copiah,Gallman,Measure No. 27 - Voter ID,,Yes,,258
+Copiah,Beauregard,Measure No. 27 - Voter ID,,No,,0
+Copiah,Centerpoint,Measure No. 27 - Voter ID,,No,,223
+Copiah,Carpenter,Measure No. 27 - Voter ID,,No,,86
+Copiah,Crystal Springs East,Measure No. 27 - Voter ID,,No,,149
+Copiah,Crystal Springs North,Measure No. 27 - Voter ID,,No,,141
+Copiah,Crystal Springs South,Measure No. 27 - Voter ID,,No,,510
+Copiah,Crystal Springs West,Measure No. 27 - Voter ID,,No,,2
+Copiah,Dentville,Measure No. 27 - Voter ID,,No,,43
+Copiah,Georgetown North,Measure No. 27 - Voter ID,,No,,26
+Copiah,Georgetown South,Measure No. 27 - Voter ID,,No,,71
+Copiah,Hazlehurst East,Measure No. 27 - Voter ID,,No,,472
+Copiah,Hazlehurst North,Measure No. 27 - Voter ID,,No,,90
+Copiah,Hazlehurst South,Measure No. 27 - Voter ID,,No,,189
+Copiah,Hazlehurst West,Measure No. 27 - Voter ID,,No,,590
+Copiah,Martinsville,Measure No. 27 - Voter ID,,No,,131
+Copiah,Shady Grove,Measure No. 27 - Voter ID,,No,,93
+Copiah,Stronghope Union,Measure No. 27 - Voter ID,,No,,2
+Copiah,Wesson,Measure No. 27 - Voter ID,,No,,48
+Copiah,Gallman,Measure No. 27 - Voter ID,,No,,150
+Copiah,Beauregard,Measure No. 27 - Voter ID,,Over Votes,,0
+Copiah,Centerpoint,Measure No. 27 - Voter ID,,Over Votes,,0
+Copiah,Carpenter,Measure No. 27 - Voter ID,,Over Votes,,0
+Copiah,Crystal Springs East,Measure No. 27 - Voter ID,,Over Votes,,0
+Copiah,Crystal Springs North,Measure No. 27 - Voter ID,,Over Votes,,0
+Copiah,Crystal Springs South,Measure No. 27 - Voter ID,,Over Votes,,0
+Copiah,Crystal Springs West,Measure No. 27 - Voter ID,,Over Votes,,0
+Copiah,Dentville,Measure No. 27 - Voter ID,,Over Votes,,0
+Copiah,Georgetown North,Measure No. 27 - Voter ID,,Over Votes,,0
+Copiah,Georgetown South,Measure No. 27 - Voter ID,,Over Votes,,0
+Copiah,Hazlehurst East,Measure No. 27 - Voter ID,,Over Votes,,0
+Copiah,Hazlehurst North,Measure No. 27 - Voter ID,,Over Votes,,0
+Copiah,Hazlehurst South,Measure No. 27 - Voter ID,,Over Votes,,0
+Copiah,Hazlehurst West,Measure No. 27 - Voter ID,,Over Votes,,0
+Copiah,Martinsville,Measure No. 27 - Voter ID,,Over Votes,,0
+Copiah,Shady Grove,Measure No. 27 - Voter ID,,Over Votes,,0
+Copiah,Stronghope Union,Measure No. 27 - Voter ID,,Over Votes,,0
+Copiah,Wesson,Measure No. 27 - Voter ID,,Over Votes,,0
+Copiah,Gallman,Measure No. 27 - Voter ID,,Over Votes,,0
+Copiah,Beauregard,Measure No. 27 - Voter ID,,Under Votes,,1
+Copiah,Centerpoint,Measure No. 27 - Voter ID,,Under Votes,,20
+Copiah,Carpenter,Measure No. 27 - Voter ID,,Under Votes,,10
+Copiah,Crystal Springs East,Measure No. 27 - Voter ID,,Under Votes,,5
+Copiah,Crystal Springs North,Measure No. 27 - Voter ID,,Under Votes,,7
+Copiah,Crystal Springs South,Measure No. 27 - Voter ID,,Under Votes,,31
+Copiah,Crystal Springs West,Measure No. 27 - Voter ID,,Under Votes,,1
+Copiah,Dentville,Measure No. 27 - Voter ID,,Under Votes,,6
+Copiah,Georgetown North,Measure No. 27 - Voter ID,,Under Votes,,0
+Copiah,Georgetown South,Measure No. 27 - Voter ID,,Under Votes,,8
+Copiah,Hazlehurst East,Measure No. 27 - Voter ID,,Under Votes,,23
+Copiah,Hazlehurst North,Measure No. 27 - Voter ID,,Under Votes,,6
+Copiah,Hazlehurst South,Measure No. 27 - Voter ID,,Under Votes,,14
+Copiah,Hazlehurst West,Measure No. 27 - Voter ID,,Under Votes,,29
+Copiah,Martinsville,Measure No. 27 - Voter ID,,Under Votes,,6
+Copiah,Shady Grove,Measure No. 27 - Voter ID,,Under Votes,,3
+Copiah,Stronghope Union,Measure No. 27 - Voter ID,,Under Votes,,0
+Copiah,Wesson,Measure No. 27 - Voter ID,,Under Votes,,5
+Copiah,Gallman,Measure No. 27 - Voter ID,,Under Votes,,8
+Copiah,Beauregard,Measure No. 31 - Eminent Domain,,Yes,,2
+Copiah,Centerpoint,Measure No. 31 - Eminent Domain,,Yes,,430
+Copiah,Carpenter,Measure No. 31 - Eminent Domain,,Yes,,94
+Copiah,Crystal Springs East,Measure No. 31 - Eminent Domain,,Yes,,157
+Copiah,Crystal Springs North,Measure No. 31 - Eminent Domain,,Yes,,156
+Copiah,Crystal Springs South,Measure No. 31 - Eminent Domain,,Yes,,553
+Copiah,Crystal Springs West,Measure No. 31 - Eminent Domain,,Yes,,14
+Copiah,Dentville,Measure No. 31 - Eminent Domain,,Yes,,111
+Copiah,Georgetown North,Measure No. 31 - Eminent Domain,,Yes,,19
+Copiah,Georgetown South,Measure No. 31 - Eminent Domain,,Yes,,155
+Copiah,Hazlehurst East,Measure No. 31 - Eminent Domain,,Yes,,316
+Copiah,Hazlehurst North,Measure No. 31 - Eminent Domain,,Yes,,107
+Copiah,Hazlehurst South,Measure No. 31 - Eminent Domain,,Yes,,223
+Copiah,Hazlehurst West,Measure No. 31 - Eminent Domain,,Yes,,550
+Copiah,Martinsville,Measure No. 31 - Eminent Domain,,Yes,,130
+Copiah,Shady Grove,Measure No. 31 - Eminent Domain,,Yes,,235
+Copiah,Stronghope Union,Measure No. 31 - Eminent Domain,,Yes,,6
+Copiah,Wesson,Measure No. 31 - Eminent Domain,,Yes,,157
+Copiah,Gallman,Measure No. 31 - Eminent Domain,,Yes,,298
+Copiah,Beauregard,Measure No. 31 - Eminent Domain,,No,,0
+Copiah,Centerpoint,Measure No. 31 - Eminent Domain,,No,,168
+Copiah,Carpenter,Measure No. 31 - Eminent Domain,,No,,61
+Copiah,Crystal Springs East,Measure No. 31 - Eminent Domain,,No,,101
+Copiah,Crystal Springs North,Measure No. 31 - Eminent Domain,,No,,101
+Copiah,Crystal Springs South,Measure No. 31 - Eminent Domain,,No,,366
+Copiah,Crystal Springs West,Measure No. 31 - Eminent Domain,,No,,1
+Copiah,Dentville,Measure No. 31 - Eminent Domain,,No,,32
+Copiah,Georgetown North,Measure No. 31 - Eminent Domain,,No,,15
+Copiah,Georgetown South,Measure No. 31 - Eminent Domain,,No,,67
+Copiah,Hazlehurst East,Measure No. 31 - Eminent Domain,,No,,312
+Copiah,Hazlehurst North,Measure No. 31 - Eminent Domain,,No,,66
+Copiah,Hazlehurst South,Measure No. 31 - Eminent Domain,,No,,92
+Copiah,Hazlehurst West,Measure No. 31 - Eminent Domain,,No,,361
+Copiah,Martinsville,Measure No. 31 - Eminent Domain,,No,,69
+Copiah,Shady Grove,Measure No. 31 - Eminent Domain,,No,,69
+Copiah,Stronghope Union,Measure No. 31 - Eminent Domain,,No,,1
+Copiah,Wesson,Measure No. 31 - Eminent Domain,,No,,60
+Copiah,Gallman,Measure No. 31 - Eminent Domain,,No,,109
+Copiah,Beauregard,Measure No. 31 - Eminent Domain,,Over Votes,,0
+Copiah,Centerpoint,Measure No. 31 - Eminent Domain,,Over Votes,,0
+Copiah,Carpenter,Measure No. 31 - Eminent Domain,,Over Votes,,0
+Copiah,Crystal Springs East,Measure No. 31 - Eminent Domain,,Over Votes,,0
+Copiah,Crystal Springs North,Measure No. 31 - Eminent Domain,,Over Votes,,0
+Copiah,Crystal Springs South,Measure No. 31 - Eminent Domain,,Over Votes,,0
+Copiah,Crystal Springs West,Measure No. 31 - Eminent Domain,,Over Votes,,0
+Copiah,Dentville,Measure No. 31 - Eminent Domain,,Over Votes,,0
+Copiah,Georgetown North,Measure No. 31 - Eminent Domain,,Over Votes,,0
+Copiah,Georgetown South,Measure No. 31 - Eminent Domain,,Over Votes,,0
+Copiah,Hazlehurst East,Measure No. 31 - Eminent Domain,,Over Votes,,0
+Copiah,Hazlehurst North,Measure No. 31 - Eminent Domain,,Over Votes,,0
+Copiah,Hazlehurst South,Measure No. 31 - Eminent Domain,,Over Votes,,0
+Copiah,Hazlehurst West,Measure No. 31 - Eminent Domain,,Over Votes,,0
+Copiah,Martinsville,Measure No. 31 - Eminent Domain,,Over Votes,,0
+Copiah,Shady Grove,Measure No. 31 - Eminent Domain,,Over Votes,,0
+Copiah,Stronghope Union,Measure No. 31 - Eminent Domain,,Over Votes,,0
+Copiah,Wesson,Measure No. 31 - Eminent Domain,,Over Votes,,0
+Copiah,Gallman,Measure No. 31 - Eminent Domain,,Over Votes,,0
+Copiah,Beauregard,Measure No. 31 - Eminent Domain,,Under Votes,,0
+Copiah,Centerpoint,Measure No. 31 - Eminent Domain,,Under Votes,,18
+Copiah,Carpenter,Measure No. 31 - Eminent Domain,,Under Votes,,12
+Copiah,Crystal Springs East,Measure No. 31 - Eminent Domain,,Under Votes,,4
+Copiah,Crystal Springs North,Measure No. 31 - Eminent Domain,,Under Votes,,4
+Copiah,Crystal Springs South,Measure No. 31 - Eminent Domain,,Under Votes,,29
+Copiah,Crystal Springs West,Measure No. 31 - Eminent Domain,,Under Votes,,0
+Copiah,Dentville,Measure No. 31 - Eminent Domain,,Under Votes,,5
+Copiah,Georgetown North,Measure No. 31 - Eminent Domain,,Under Votes,,0
+Copiah,Georgetown South,Measure No. 31 - Eminent Domain,,Under Votes,,6
+Copiah,Hazlehurst East,Measure No. 31 - Eminent Domain,,Under Votes,,20
+Copiah,Hazlehurst North,Measure No. 31 - Eminent Domain,,Under Votes,,4
+Copiah,Hazlehurst South,Measure No. 31 - Eminent Domain,,Under Votes,,13
+Copiah,Hazlehurst West,Measure No. 31 - Eminent Domain,,Under Votes,,38
+Copiah,Martinsville,Measure No. 31 - Eminent Domain,,Under Votes,,8
+Copiah,Shady Grove,Measure No. 31 - Eminent Domain,,Under Votes,,0
+Copiah,Stronghope Union,Measure No. 31 - Eminent Domain,,Under Votes,,0
+Copiah,Wesson,Measure No. 31 - Eminent Domain,,Under Votes,,2
+Copiah,Gallman,Measure No. 31 - Eminent Domain,,Under Votes,,9
