@@ -1,326 +1,470 @@
-candidate,office,district,party,county,precinct,votes
-Phil Bryant,Governor,,R,Franklin,Knoxville,64
-Johnny L. DuPree,Governor,,D,Franklin,Knoxville,60
-Phil Bryant,Governor,,R,Franklin,Roxie,140
-Johnny L. DuPree,Governor,,D,Franklin,Roxie,190
-Phil Bryant,Governor,,R,Franklin,Antioch,150
-Johnny L. DuPree,Governor,,D,Franklin,Antioch,134
-Phil Bryant,Governor,,R,Franklin,Hamburg,47
-Johnny L. DuPree,Governor,,D,Franklin,Hamburg,126
-Phil Bryant,Governor,,R,Franklin,Meadville,235
-Johnny L. DuPree,Governor,,D,Franklin,Meadville,70
-Phil Bryant,Governor,,R,Franklin,Bude,216
-Johnny L. DuPree,Governor,,D,Franklin,Bude,283
-Phil Bryant,Governor,,R,Franklin,Pine Grove,83
-Johnny L. DuPree,Governor,,D,Franklin,Pine Grove,12
-Phil Bryant,Governor,,R,Franklin,Wesley Chapel,35
-Johnny L. DuPree,Governor,,D,Franklin,Wesley Chapel,50
-Phil Bryant,Governor,,R,Franklin,Eddiceton,267
-Johnny L. DuPree,Governor,,D,Franklin,Eddiceton,39
-Phil Bryant,Governor,,R,Franklin,Lucien,128
-Johnny L. DuPree,Governor,,D,Franklin,Lucien,18
-Phil Bryant,Governor,,R,Franklin,Mccall,210
-Johnny L. DuPree,Governor,,D,Franklin,Mccall,49
-Phil Bryant,Governor,,R,Franklin,Bad Bayou,282
-Johnny L. DuPree,Governor,,D,Franklin,Bad Bayou,15
-Phil Bryant,Governor,,R,Franklin,Cains,181
-Johnny L. DuPree,Governor,,D,Franklin,Cains,39
-Phil Bryant,Governor,,R,Franklin,Whittington,190
-Johnny L. DuPree,Governor,,D,Franklin,Whittington,26
-Phil Bryant,Governor,,R,Franklin,TOTAL,2228
-Johnny L. DuPree,Governor,,D,Franklin,TOTAL,1111
-Tate Reeves,Lieutenant Governor,,R,Franklin,Knoxville,71
-Tracella Lou O'Hara Hill,Lieutenant Governor,,Reform,Franklin,Knoxville,24
-Tate Reeves,Lieutenant Governor,,R,Franklin,Roxie,186
-Tracella Lou O'Hara Hill,Lieutenant Governor,,Reform,Franklin,Roxie,82
-Tate Reeves,Lieutenant Governor,,R,Franklin,Antioch,181
-Tracella Lou O'Hara Hill,Lieutenant Governor,,Reform,Franklin,Antioch,64
-Tate Reeves,Lieutenant Governor,,R,Franklin,Hamburg,77
-Tracella Lou O'Hara Hill,Lieutenant Governor,,Reform,Franklin,Hamburg,59
-Tate Reeves,Lieutenant Governor,,R,Franklin,Meadville,272
-Tracella Lou O'Hara Hill,Lieutenant Governor,,Reform,Franklin,Meadville,23
-Tate Reeves,Lieutenant Governor,,R,Franklin,Bude,311
-Tracella Lou O'Hara Hill,Lieutenant Governor,,Reform,Franklin,Bude,127
-Tate Reeves,Lieutenant Governor,,R,Franklin,Pine Grove,89
-Tracella Lou O'Hara Hill,Lieutenant Governor,,Reform,Franklin,Pine Grove,1
-Tate Reeves,Lieutenant Governor,,R,Franklin,Wesley Chapel,51
-Tracella Lou O'Hara Hill,Lieutenant Governor,,Reform,Franklin,Wesley Chapel,21
-Tate Reeves,Lieutenant Governor,,R,Franklin,Eddiceton,276
-Tracella Lou O'Hara Hill,Lieutenant Governor,,Reform,Franklin,Eddiceton,20
-Tate Reeves,Lieutenant Governor,,R,Franklin,Lucien,131
-Tracella Lou O'Hara Hill,Lieutenant Governor,,Reform,Franklin,Lucien,8
-Tate Reeves,Lieutenant Governor,,R,Franklin,Mccall,229
-Tracella Lou O'Hara Hill,Lieutenant Governor,,Reform,Franklin,Mccall,15
-Tate Reeves,Lieutenant Governor,,R,Franklin,Bad Bayou,282
-Tracella Lou O'Hara Hill,Lieutenant Governor,,Reform,Franklin,Bad Bayou,11
-Tate Reeves,Lieutenant Governor,,R,Franklin,Cains,192
-Tracella Lou O'Hara Hill,Lieutenant Governor,,Reform,Franklin,Cains,22
-Tate Reeves,Lieutenant Governor,,R,Franklin,Whittington,195
-Tracella Lou O'Hara Hill,Lieutenant Governor,,Reform,Franklin,Whittington,10
-Tate Reeves,Lieutenant Governor,,R,Franklin,TOTAL,2543
-Tracella Lou O'Hara Hill,Lieutenant Governor,,Reform,Franklin,TOTAL,487
-Delbert Hosemann,Secretary of State,,R,Franklin,Knoxville,76
-Delbert Hosemann,Secretary of State,,R,Franklin,Roxie,233
-Delbert Hosemann,Secretary of State,,R,Franklin,Antioch,208
-Delbert Hosemann,Secretary of State,,R,Franklin,Hamburg,105
-Delbert Hosemann,Secretary of State,,R,Franklin,Meadville,251
-Delbert Hosemann,Secretary of State,,R,Franklin,Bude,356
-Delbert Hosemann,Secretary of State,,R,Franklin,Pine Grove,77
-Delbert Hosemann,Secretary of State,,R,Franklin,Wesley Chapel,61
-Delbert Hosemann,Secretary of State,,R,Franklin,Eddiceton,276
-Delbert Hosemann,Secretary of State,,R,Franklin,Lucien,129
-Delbert Hosemann,Secretary of State,,R,Franklin,Mccall,224
-Delbert Hosemann,Secretary of State,,R,Franklin,Bad Bayou,281
-Delbert Hosemann,Secretary of State,,R,Franklin,Cains,201
-Delbert Hosemann,Secretary of State,,R,Franklin,Whittington,197
-Delbert Hosemann,Secretary of State,,R,Franklin,TOTAL,2675
-Jim Hood,Attorney General,,D,Franklin,Knoxville,74
-Steve Simpson,Attorney General,,R,Franklin,Knoxville,48
-Jim Hood,Attorney General,,D,Franklin,Roxie,245
-Steve Simpson,Attorney General,,R,Franklin,Roxie,78
-Jim Hood,Attorney General,,D,Franklin,Antioch,191
-Steve Simpson,Attorney General,,R,Franklin,Antioch,83
-Jim Hood,Attorney General,,D,Franklin,Hamburg,139
-Steve Simpson,Attorney General,,R,Franklin,Hamburg,28
-Jim Hood,Attorney General,,D,Franklin,Meadville,170
-Steve Simpson,Attorney General,,R,Franklin,Meadville,135
-Jim Hood,Attorney General,,D,Franklin,Bude,398
-Steve Simpson,Attorney General,,R,Franklin,Bude,96
-Jim Hood,Attorney General,,D,Franklin,Pine Grove,49
-Steve Simpson,Attorney General,,R,Franklin,Pine Grove,44
-Jim Hood,Attorney General,,D,Franklin,Wesley Chapel,67
-Steve Simpson,Attorney General,,R,Franklin,Wesley Chapel,18
-Jim Hood,Attorney General,,D,Franklin,Eddiceton,156
-Steve Simpson,Attorney General,,R,Franklin,Eddiceton,148
-Jim Hood,Attorney General,,D,Franklin,Lucien,83
-Steve Simpson,Attorney General,,R,Franklin,Lucien,58
-Jim Hood,Attorney General,,D,Franklin,Mccall,141
-Steve Simpson,Attorney General,,R,Franklin,Mccall,115
-Jim Hood,Attorney General,,D,Franklin,Bad Bayou,147
-Steve Simpson,Attorney General,,R,Franklin,Bad Bayou,149
-Jim Hood,Attorney General,,D,Franklin,Cains,103
-Steve Simpson,Attorney General,,R,Franklin,Cains,117
-Jim Hood,Attorney General,,D,Franklin,Whittington,92
-Steve Simpson,Attorney General,,R,Franklin,Whittington,122
-Jim Hood,Attorney General,,D,Franklin,TOTAL,2055
-Steve Simpson,Attorney General,,R,Franklin,TOTAL,1239
-Stacey E. Pickering,State Auditor,,R,Franklin,Knoxville,73
-Ashley Norwood,State Auditor,,Reform,Franklin,Knoxville,23
-Stacey E. Pickering,State Auditor,,R,Franklin,Roxie,179
-Ashley Norwood,State Auditor,,Reform,Franklin,Roxie,77
-Stacey E. Pickering,State Auditor,,R,Franklin,Antioch,173
-Ashley Norwood,State Auditor,,Reform,Franklin,Antioch,68
-Stacey E. Pickering,State Auditor,,R,Franklin,Hamburg,77
-Ashley Norwood,State Auditor,,Reform,Franklin,Hamburg,59
-Stacey E. Pickering,State Auditor,,R,Franklin,Meadville,246
-Ashley Norwood,State Auditor,,Reform,Franklin,Meadville,39
-Stacey E. Pickering,State Auditor,,R,Franklin,Bude,283
-Ashley Norwood,State Auditor,,Reform,Franklin,Bude,144
-Stacey E. Pickering,State Auditor,,R,Franklin,Pine Grove,87
-Ashley Norwood,State Auditor,,Reform,Franklin,Pine Grove,2
-Stacey E. Pickering,State Auditor,,R,Franklin,Wesley Chapel,45
-Ashley Norwood,State Auditor,,Reform,Franklin,Wesley Chapel,25
-Stacey E. Pickering,State Auditor,,R,Franklin,Eddiceton,268
-Ashley Norwood,State Auditor,,Reform,Franklin,Eddiceton,26
-Stacey E. Pickering,State Auditor,,R,Franklin,Lucien,128
-Ashley Norwood,State Auditor,,Reform,Franklin,Lucien,10
-Stacey E. Pickering,State Auditor,,R,Franklin,Mccall,218
-Ashley Norwood,State Auditor,,Reform,Franklin,Mccall,22
-Stacey E. Pickering,State Auditor,,R,Franklin,Bad Bayou,278
-Ashley Norwood,State Auditor,,Reform,Franklin,Bad Bayou,13
-Stacey E. Pickering,State Auditor,,R,Franklin,Cains,193
-Ashley Norwood,State Auditor,,Reform,Franklin,Cains,18
-Stacey E. Pickering,State Auditor,,R,Franklin,Whittington,187
-Ashley Norwood,State Auditor,,Reform,Franklin,Whittington,23
-Stacey E. Pickering,State Auditor,,R,Franklin,TOTAL,2435
-Ashley Norwood,State Auditor,,Reform,Franklin,TOTAL,549
-Lynn Fitch,State Treasurer,,R,Franklin,Knoxville,62
-Connie Moran,State Treasurer,,D,Franklin,Knoxville,61
-Shawn O'Hara,State Treasurer,,Reform,Franklin,Knoxville,0
-Lynn Fitch,State Treasurer,,R,Franklin,Roxie,143
-Connie Moran,State Treasurer,,D,Franklin,Roxie,175
-Shawn O'Hara,State Treasurer,,Reform,Franklin,Roxie,6
-Lynn Fitch,State Treasurer,,R,Franklin,Antioch,148
-Connie Moran,State Treasurer,,D,Franklin,Antioch,115
-Shawn O'Hara,State Treasurer,,Reform,Franklin,Antioch,3
-Lynn Fitch,State Treasurer,,R,Franklin,Hamburg,49
-Connie Moran,State Treasurer,,D,Franklin,Hamburg,107
-Shawn O'Hara,State Treasurer,,Reform,Franklin,Hamburg,5
-Lynn Fitch,State Treasurer,,R,Franklin,Meadville,220
-Connie Moran,State Treasurer,,D,Franklin,Meadville,62
-Shawn O'Hara,State Treasurer,,Reform,Franklin,Meadville,10
-Lynn Fitch,State Treasurer,,R,Franklin,Bude,223
-Connie Moran,State Treasurer,,D,Franklin,Bude,242
-Shawn O'Hara,State Treasurer,,Reform,Franklin,Bude,18
-Lynn Fitch,State Treasurer,,R,Franklin,Pine Grove,69
-Connie Moran,State Treasurer,,D,Franklin,Pine Grove,17
-Shawn O'Hara,State Treasurer,,Reform,Franklin,Pine Grove,4
-Lynn Fitch,State Treasurer,,R,Franklin,Wesley Chapel,39
-Connie Moran,State Treasurer,,D,Franklin,Wesley Chapel,41
-Shawn O'Hara,State Treasurer,,Reform,Franklin,Wesley Chapel,1
-Lynn Fitch,State Treasurer,,R,Franklin,Eddiceton,244
-Connie Moran,State Treasurer,,D,Franklin,Eddiceton,46
-Shawn O'Hara,State Treasurer,,Reform,Franklin,Eddiceton,8
-Lynn Fitch,State Treasurer,,R,Franklin,Lucien,116
-Connie Moran,State Treasurer,,D,Franklin,Lucien,22
-Shawn O'Hara,State Treasurer,,Reform,Franklin,Lucien,3
-Lynn Fitch,State Treasurer,,R,Franklin,Mccall,200
-Connie Moran,State Treasurer,,D,Franklin,Mccall,44
-Shawn O'Hara,State Treasurer,,Reform,Franklin,Mccall,7
-Lynn Fitch,State Treasurer,,R,Franklin,Bad Bayou,263
-Connie Moran,State Treasurer,,D,Franklin,Bad Bayou,27
-Shawn O'Hara,State Treasurer,,Reform,Franklin,Bad Bayou,4
-Lynn Fitch,State Treasurer,,R,Franklin,Cains,183
-Connie Moran,State Treasurer,,D,Franklin,Cains,32
-Shawn O'Hara,State Treasurer,,Reform,Franklin,Cains,5
-Lynn Fitch,State Treasurer,,R,Franklin,Whittington,172
-Connie Moran,State Treasurer,,D,Franklin,Whittington,34
-Shawn O'Hara,State Treasurer,,Reform,Franklin,Whittington,7
-Lynn Fitch,State Treasurer,,R,Franklin,TOTAL,2131
-Connie Moran,State Treasurer,,D,Franklin,TOTAL,1025
-Shawn O'Hara,State Treasurer,,Reform,Franklin,TOTAL,81
-Joel Gill,Commissioner of Agriculture & Commerce,,D,Franklin,Knoxville,55
-Cindy Hyde-Smith,Commissioner of Agriculture & Commerce,,R,Franklin,Knoxville,66
-Cathy L. Toole,Commissioner of Agriculture & Commerce,,Reform,Franklin,Knoxville,2
-Joel Gill,Commissioner of Agriculture & Commerce,,D,Franklin,Roxie,185
-Cindy Hyde-Smith,Commissioner of Agriculture & Commerce,,R,Franklin,Roxie,132
-Cathy L. Toole,Commissioner of Agriculture & Commerce,,Reform,Franklin,Roxie,5
-Joel Gill,Commissioner of Agriculture & Commerce,,D,Franklin,Antioch,120
-Cindy Hyde-Smith,Commissioner of Agriculture & Commerce,,R,Franklin,Antioch,150
-Cathy L. Toole,Commissioner of Agriculture & Commerce,,Reform,Franklin,Antioch,4
-Joel Gill,Commissioner of Agriculture & Commerce,,D,Franklin,Hamburg,120
-Cindy Hyde-Smith,Commissioner of Agriculture & Commerce,,R,Franklin,Hamburg,42
-Cathy L. Toole,Commissioner of Agriculture & Commerce,,Reform,Franklin,Hamburg,2
-Joel Gill,Commissioner of Agriculture & Commerce,,D,Franklin,Meadville,69
-Cindy Hyde-Smith,Commissioner of Agriculture & Commerce,,R,Franklin,Meadville,225
-Cathy L. Toole,Commissioner of Agriculture & Commerce,,Reform,Franklin,Meadville,6
-Joel Gill,Commissioner of Agriculture & Commerce,,D,Franklin,Bude,260
-Cindy Hyde-Smith,Commissioner of Agriculture & Commerce,,R,Franklin,Bude,218
-Cathy L. Toole,Commissioner of Agriculture & Commerce,,Reform,Franklin,Bude,6
-Joel Gill,Commissioner of Agriculture & Commerce,,D,Franklin,Pine Grove,14
-Cindy Hyde-Smith,Commissioner of Agriculture & Commerce,,R,Franklin,Pine Grove,76
-Cathy L. Toole,Commissioner of Agriculture & Commerce,,Reform,Franklin,Pine Grove,1
-Joel Gill,Commissioner of Agriculture & Commerce,,D,Franklin,Wesley Chapel,50
-Cindy Hyde-Smith,Commissioner of Agriculture & Commerce,,R,Franklin,Wesley Chapel,30
-Cathy L. Toole,Commissioner of Agriculture & Commerce,,Reform,Franklin,Wesley Chapel,0
-Joel Gill,Commissioner of Agriculture & Commerce,,D,Franklin,Eddiceton,57
-Cindy Hyde-Smith,Commissioner of Agriculture & Commerce,,R,Franklin,Eddiceton,240
-Cathy L. Toole,Commissioner of Agriculture & Commerce,,Reform,Franklin,Eddiceton,6
-Joel Gill,Commissioner of Agriculture & Commerce,,D,Franklin,Lucien,23
-Cindy Hyde-Smith,Commissioner of Agriculture & Commerce,,R,Franklin,Lucien,119
-Cathy L. Toole,Commissioner of Agriculture & Commerce,,Reform,Franklin,Lucien,1
-Joel Gill,Commissioner of Agriculture & Commerce,,D,Franklin,Mccall,49
-Cindy Hyde-Smith,Commissioner of Agriculture & Commerce,,R,Franklin,Mccall,207
-Cathy L. Toole,Commissioner of Agriculture & Commerce,,Reform,Franklin,Mccall,1
-Joel Gill,Commissioner of Agriculture & Commerce,,D,Franklin,Bad Bayou,39
-Cindy Hyde-Smith,Commissioner of Agriculture & Commerce,,R,Franklin,Bad Bayou,255
-Cathy L. Toole,Commissioner of Agriculture & Commerce,,Reform,Franklin,Bad Bayou,3
-Joel Gill,Commissioner of Agriculture & Commerce,,D,Franklin,Cains,45
-Cindy Hyde-Smith,Commissioner of Agriculture & Commerce,,R,Franklin,Cains,169
-Cathy L. Toole,Commissioner of Agriculture & Commerce,,Reform,Franklin,Cains,5
-Joel Gill,Commissioner of Agriculture & Commerce,,D,Franklin,Whittington,35
-Cindy Hyde-Smith,Commissioner of Agriculture & Commerce,,R,Franklin,Whittington,173
-Cathy L. Toole,Commissioner of Agriculture & Commerce,,Reform,Franklin,Whittington,6
-Joel Gill,Commissioner of Agriculture & Commerce,,D,Franklin,TOTAL,1121
-Cindy Hyde-Smith,Commissioner of Agriculture & Commerce,,R,Franklin,TOTAL,2102
-Cathy L. Toole,Commissioner of Agriculture & Commerce,,Reform,Franklin,TOTAL,48
-Mike Chaney,Commissioner of Insurance,,R,Franklin,Knoxville,65
-Louis Fondren,Commissioner of Insurance,,D,Franklin,Knoxville,53
-Barbara Dale Washer,Commissioner of Insurance,,Reform,Franklin,Knoxville,1
-Mike Chaney,Commissioner of Insurance,,R,Franklin,Roxie,142
-Louis Fondren,Commissioner of Insurance,,D,Franklin,Roxie,161
-Barbara Dale Washer,Commissioner of Insurance,,Reform,Franklin,Roxie,12
-Mike Chaney,Commissioner of Insurance,,R,Franklin,Antioch,148
-Louis Fondren,Commissioner of Insurance,,D,Franklin,Antioch,105
-Barbara Dale Washer,Commissioner of Insurance,,Reform,Franklin,Antioch,12
-Mike Chaney,Commissioner of Insurance,,R,Franklin,Hamburg,51
-Louis Fondren,Commissioner of Insurance,,D,Franklin,Hamburg,108
-Barbara Dale Washer,Commissioner of Insurance,,Reform,Franklin,Hamburg,5
-Mike Chaney,Commissioner of Insurance,,R,Franklin,Meadville,235
-Louis Fondren,Commissioner of Insurance,,D,Franklin,Meadville,51
-Barbara Dale Washer,Commissioner of Insurance,,Reform,Franklin,Meadville,7
-Mike Chaney,Commissioner of Insurance,,R,Franklin,Bude,235
-Louis Fondren,Commissioner of Insurance,,D,Franklin,Bude,233
-Barbara Dale Washer,Commissioner of Insurance,,Reform,Franklin,Bude,16
-Mike Chaney,Commissioner of Insurance,,R,Franklin,Pine Grove,75
-Louis Fondren,Commissioner of Insurance,,D,Franklin,Pine Grove,12
-Barbara Dale Washer,Commissioner of Insurance,,Reform,Franklin,Pine Grove,2
-Mike Chaney,Commissioner of Insurance,,R,Franklin,Wesley Chapel,35
-Louis Fondren,Commissioner of Insurance,,D,Franklin,Wesley Chapel,45
-Barbara Dale Washer,Commissioner of Insurance,,Reform,Franklin,Wesley Chapel,1
-Mike Chaney,Commissioner of Insurance,,R,Franklin,Eddiceton,248
-Louis Fondren,Commissioner of Insurance,,D,Franklin,Eddiceton,40
-Barbara Dale Washer,Commissioner of Insurance,,Reform,Franklin,Eddiceton,8
-Mike Chaney,Commissioner of Insurance,,R,Franklin,Lucien,126
-Louis Fondren,Commissioner of Insurance,,D,Franklin,Lucien,14
-Barbara Dale Washer,Commissioner of Insurance,,Reform,Franklin,Lucien,2
-Mike Chaney,Commissioner of Insurance,,R,Franklin,Mccall,202
-Louis Fondren,Commissioner of Insurance,,D,Franklin,Mccall,42
-Barbara Dale Washer,Commissioner of Insurance,,Reform,Franklin,Mccall,7
-Mike Chaney,Commissioner of Insurance,,R,Franklin,Bad Bayou,263
-Louis Fondren,Commissioner of Insurance,,D,Franklin,Bad Bayou,16
-Barbara Dale Washer,Commissioner of Insurance,,Reform,Franklin,Bad Bayou,10
-Mike Chaney,Commissioner of Insurance,,R,Franklin,Cains,179
-Louis Fondren,Commissioner of Insurance,,D,Franklin,Cains,30
-Barbara Dale Washer,Commissioner of Insurance,,Reform,Franklin,Cains,9
-Mike Chaney,Commissioner of Insurance,,R,Franklin,Whittington,180
-Louis Fondren,Commissioner of Insurance,,D,Franklin,Whittington,24
-Barbara Dale Washer,Commissioner of Insurance,,Reform,Franklin,Whittington,10
-Mike Chaney,Commissioner of Insurance,,R,Franklin,TOTAL,2184
-Louis Fondren,Commissioner of Insurance,,D,Franklin,TOTAL,934
-Barbara Dale Washer,Commissioner of Insurance,,Reform,Franklin,TOTAL,102
-Bob M. Dearing,State Senate,37,D,Franklin,Knoxville,60
-Melanie Sojourner,State Senate,37,R,Franklin,Knoxville,61
-Bob M. Dearing,State Senate,37,D,Franklin,Roxie,219
-Melanie Sojourner,State Senate,37,R,Franklin,Roxie,105
-Bob M. Dearing,State Senate,37,D,Franklin,Antioch,131
-Melanie Sojourner,State Senate,37,R,Franklin,Antioch,142
-Bob M. Dearing,State Senate,37,D,Franklin,Hamburg,125
-Melanie Sojourner,State Senate,37,R,Franklin,Hamburg,41
-Bob M. Dearing,State Senate,37,D,Franklin,Meadville,119
-Melanie Sojourner,State Senate,37,R,Franklin,Meadville,185
-Bob M. Dearing,State Senate,37,D,Franklin,Bude,310
-Melanie Sojourner,State Senate,37,R,Franklin,Bude,177
-Bob M. Dearing,State Senate,37,D,Franklin,Pine Grove,27
-Melanie Sojourner,State Senate,37,R,Franklin,Pine Grove,64
-Bob M. Dearing,State Senate,37,D,Franklin,Wesley Chapel,52
-Melanie Sojourner,State Senate,37,R,Franklin,Wesley Chapel,33
-Bob M. Dearing,State Senate,37,D,Franklin,Eddiceton,107
-Melanie Sojourner,State Senate,37,R,Franklin,Eddiceton,198
-Bob M. Dearing,State Senate,37,D,Franklin,Lucien,42
-Melanie Sojourner,State Senate,37,R,Franklin,Lucien,100
-Bob M. Dearing,State Senate,37,D,Franklin,Mccall,78
-Melanie Sojourner,State Senate,37,R,Franklin,Mccall,178
-Bob M. Dearing,State Senate,37,D,Franklin,Bad Bayou,96
-Melanie Sojourner,State Senate,37,R,Franklin,Bad Bayou,199
-Bob M. Dearing,State Senate,37,D,Franklin,Cains,56
-Melanie Sojourner,State Senate,37,R,Franklin,Cains,162
-Bob M. Dearing,State Senate,37,D,Franklin,Whittington,48
-Melanie Sojourner,State Senate,37,R,Franklin,Whittington,168
-Bob M. Dearing,State Senate,37,D,Franklin,TOTAL,1470
-Melanie Sojourner,State Senate,37,R,Franklin,TOTAL,1813
-Bobby Moak,State House,53,D,Franklin,Knoxville,46
-Bobby Moak,State House,53,D,Franklin,Roxie,302
-Bobby Moak,State House,53,D,Franklin,Antioch,229
-Bobby Moak,State House,53,D,Franklin,Hamburg,156
-Bobby Moak,State House,53,D,Franklin,Bude,436
-Bobby Moak,State House,53,D,Franklin,Wesley Chapel,73
-Bobby Moak,State House,53,D,Franklin,Mccall,12
-Bobby Moak,State House,53,D,Franklin,Bad Bayou,233
-Bobby Moak,State House,53,D,Franklin,Cains,177
-Bobby Moak,State House,53,D,Franklin,Whittington,172
-Bobby Moak,State House,53,D,Franklin,TOTAL,1836
-Becky Currie,State House,92,R,Franklin,Meadville,186
-Ken Dale Sullivan,State House,92,D,Franklin,Meadville,116
-Becky Currie,State House,92,R,Franklin,Pine Grove,67
-Ken Dale Sullivan,State House,92,D,Franklin,Pine Grove,23
-Becky Currie,State House,92,R,Franklin,Eddiceton,236
-Ken Dale Sullivan,State House,92,D,Franklin,Eddiceton,68
-Becky Currie,State House,92,R,Franklin,Lucien,107
-Ken Dale Sullivan,State House,92,D,Franklin,Lucien,34
-Becky Currie,State House,92,R,Franklin,Mccall,172
-Ken Dale Sullivan,State House,92,D,Franklin,Mccall,67
-Becky Currie,State House,92,R,Franklin,TOTAL,768
-Ken Dale Sullivan,State House,92,D,Franklin,TOTAL,308
-"Sam C. Mims, V",State House,97,R,Franklin,Knoxville,47
-"Sam C. Mims, V",State House,97,R,Franklin,TOTAL,47
+county,precinct,office,district,candidate,party,votes
+Franklin,Knoxville,Governor,,Phil Bryant,R,64
+Franklin,Knoxville,Governor,,Johnny L. DuPree,D,60
+Franklin,Roxie,Governor,,Phil Bryant,R,140
+Franklin,Roxie,Governor,,Johnny L. DuPree,D,190
+Franklin,Antioch,Governor,,Phil Bryant,R,150
+Franklin,Antioch,Governor,,Johnny L. DuPree,D,134
+Franklin,Hamburg,Governor,,Phil Bryant,R,47
+Franklin,Hamburg,Governor,,Johnny L. DuPree,D,126
+Franklin,Meadville,Governor,,Phil Bryant,R,235
+Franklin,Meadville,Governor,,Johnny L. DuPree,D,70
+Franklin,Bude,Governor,,Phil Bryant,R,216
+Franklin,Bude,Governor,,Johnny L. DuPree,D,283
+Franklin,Pine Grove,Governor,,Phil Bryant,R,83
+Franklin,Pine Grove,Governor,,Johnny L. DuPree,D,12
+Franklin,Wesley Chapel,Governor,,Phil Bryant,R,35
+Franklin,Wesley Chapel,Governor,,Johnny L. DuPree,D,50
+Franklin,Eddiceton,Governor,,Phil Bryant,R,267
+Franklin,Eddiceton,Governor,,Johnny L. DuPree,D,39
+Franklin,Lucien,Governor,,Phil Bryant,R,128
+Franklin,Lucien,Governor,,Johnny L. DuPree,D,18
+Franklin,Mccall,Governor,,Phil Bryant,R,210
+Franklin,Mccall,Governor,,Johnny L. DuPree,D,49
+Franklin,Bad Bayou,Governor,,Phil Bryant,R,282
+Franklin,Bad Bayou,Governor,,Johnny L. DuPree,D,15
+Franklin,Cains,Governor,,Phil Bryant,R,181
+Franklin,Cains,Governor,,Johnny L. DuPree,D,39
+Franklin,Whittington,Governor,,Phil Bryant,R,190
+Franklin,Whittington,Governor,,Johnny L. DuPree,D,26
+Franklin,Knoxville,Lieutenant Governor,,Tate Reeves,R,71
+Franklin,Knoxville,Lieutenant Governor,,Tracella Lou O'Hara Hill,Reform,24
+Franklin,Roxie,Lieutenant Governor,,Tate Reeves,R,186
+Franklin,Roxie,Lieutenant Governor,,Tracella Lou O'Hara Hill,Reform,82
+Franklin,Antioch,Lieutenant Governor,,Tate Reeves,R,181
+Franklin,Antioch,Lieutenant Governor,,Tracella Lou O'Hara Hill,Reform,64
+Franklin,Hamburg,Lieutenant Governor,,Tate Reeves,R,77
+Franklin,Hamburg,Lieutenant Governor,,Tracella Lou O'Hara Hill,Reform,59
+Franklin,Meadville,Lieutenant Governor,,Tate Reeves,R,272
+Franklin,Meadville,Lieutenant Governor,,Tracella Lou O'Hara Hill,Reform,23
+Franklin,Bude,Lieutenant Governor,,Tate Reeves,R,311
+Franklin,Bude,Lieutenant Governor,,Tracella Lou O'Hara Hill,Reform,127
+Franklin,Pine Grove,Lieutenant Governor,,Tate Reeves,R,89
+Franklin,Pine Grove,Lieutenant Governor,,Tracella Lou O'Hara Hill,Reform,1
+Franklin,Wesley Chapel,Lieutenant Governor,,Tate Reeves,R,51
+Franklin,Wesley Chapel,Lieutenant Governor,,Tracella Lou O'Hara Hill,Reform,21
+Franklin,Eddiceton,Lieutenant Governor,,Tate Reeves,R,276
+Franklin,Eddiceton,Lieutenant Governor,,Tracella Lou O'Hara Hill,Reform,20
+Franklin,Lucien,Lieutenant Governor,,Tate Reeves,R,131
+Franklin,Lucien,Lieutenant Governor,,Tracella Lou O'Hara Hill,Reform,8
+Franklin,Mccall,Lieutenant Governor,,Tate Reeves,R,229
+Franklin,Mccall,Lieutenant Governor,,Tracella Lou O'Hara Hill,Reform,15
+Franklin,Bad Bayou,Lieutenant Governor,,Tate Reeves,R,282
+Franklin,Bad Bayou,Lieutenant Governor,,Tracella Lou O'Hara Hill,Reform,11
+Franklin,Cains,Lieutenant Governor,,Tate Reeves,R,192
+Franklin,Cains,Lieutenant Governor,,Tracella Lou O'Hara Hill,Reform,22
+Franklin,Whittington,Lieutenant Governor,,Tate Reeves,R,195
+Franklin,Whittington,Lieutenant Governor,,Tracella Lou O'Hara Hill,Reform,10
+Franklin,Knoxville,Secretary of State,,Delbert Hosemann,R,76
+Franklin,Roxie,Secretary of State,,Delbert Hosemann,R,233
+Franklin,Antioch,Secretary of State,,Delbert Hosemann,R,208
+Franklin,Hamburg,Secretary of State,,Delbert Hosemann,R,105
+Franklin,Meadville,Secretary of State,,Delbert Hosemann,R,251
+Franklin,Bude,Secretary of State,,Delbert Hosemann,R,356
+Franklin,Pine Grove,Secretary of State,,Delbert Hosemann,R,77
+Franklin,Wesley Chapel,Secretary of State,,Delbert Hosemann,R,61
+Franklin,Eddiceton,Secretary of State,,Delbert Hosemann,R,276
+Franklin,Lucien,Secretary of State,,Delbert Hosemann,R,129
+Franklin,Mccall,Secretary of State,,Delbert Hosemann,R,224
+Franklin,Bad Bayou,Secretary of State,,Delbert Hosemann,R,281
+Franklin,Cains,Secretary of State,,Delbert Hosemann,R,201
+Franklin,Whittington,Secretary of State,,Delbert Hosemann,R,197
+Franklin,Knoxville,Attorney General,,Jim Hood,D,74
+Franklin,Knoxville,Attorney General,,Steve Simpson,R,48
+Franklin,Roxie,Attorney General,,Jim Hood,D,245
+Franklin,Roxie,Attorney General,,Steve Simpson,R,78
+Franklin,Antioch,Attorney General,,Jim Hood,D,191
+Franklin,Antioch,Attorney General,,Steve Simpson,R,83
+Franklin,Hamburg,Attorney General,,Jim Hood,D,139
+Franklin,Hamburg,Attorney General,,Steve Simpson,R,28
+Franklin,Meadville,Attorney General,,Jim Hood,D,170
+Franklin,Meadville,Attorney General,,Steve Simpson,R,135
+Franklin,Bude,Attorney General,,Jim Hood,D,398
+Franklin,Bude,Attorney General,,Steve Simpson,R,96
+Franklin,Pine Grove,Attorney General,,Jim Hood,D,49
+Franklin,Pine Grove,Attorney General,,Steve Simpson,R,44
+Franklin,Wesley Chapel,Attorney General,,Jim Hood,D,67
+Franklin,Wesley Chapel,Attorney General,,Steve Simpson,R,18
+Franklin,Eddiceton,Attorney General,,Jim Hood,D,156
+Franklin,Eddiceton,Attorney General,,Steve Simpson,R,148
+Franklin,Lucien,Attorney General,,Jim Hood,D,83
+Franklin,Lucien,Attorney General,,Steve Simpson,R,58
+Franklin,Mccall,Attorney General,,Jim Hood,D,141
+Franklin,Mccall,Attorney General,,Steve Simpson,R,115
+Franklin,Bad Bayou,Attorney General,,Jim Hood,D,147
+Franklin,Bad Bayou,Attorney General,,Steve Simpson,R,149
+Franklin,Cains,Attorney General,,Jim Hood,D,103
+Franklin,Cains,Attorney General,,Steve Simpson,R,117
+Franklin,Whittington,Attorney General,,Jim Hood,D,92
+Franklin,Whittington,Attorney General,,Steve Simpson,R,122
+Franklin,Knoxville,State Auditor,,Stacey E. Pickering,R,73
+Franklin,Knoxville,State Auditor,,Ashley Norwood,Reform,23
+Franklin,Roxie,State Auditor,,Stacey E. Pickering,R,179
+Franklin,Roxie,State Auditor,,Ashley Norwood,Reform,77
+Franklin,Antioch,State Auditor,,Stacey E. Pickering,R,173
+Franklin,Antioch,State Auditor,,Ashley Norwood,Reform,68
+Franklin,Hamburg,State Auditor,,Stacey E. Pickering,R,77
+Franklin,Hamburg,State Auditor,,Ashley Norwood,Reform,59
+Franklin,Meadville,State Auditor,,Stacey E. Pickering,R,246
+Franklin,Meadville,State Auditor,,Ashley Norwood,Reform,39
+Franklin,Bude,State Auditor,,Stacey E. Pickering,R,283
+Franklin,Bude,State Auditor,,Ashley Norwood,Reform,144
+Franklin,Pine Grove,State Auditor,,Stacey E. Pickering,R,87
+Franklin,Pine Grove,State Auditor,,Ashley Norwood,Reform,2
+Franklin,Wesley Chapel,State Auditor,,Stacey E. Pickering,R,45
+Franklin,Wesley Chapel,State Auditor,,Ashley Norwood,Reform,25
+Franklin,Eddiceton,State Auditor,,Stacey E. Pickering,R,268
+Franklin,Eddiceton,State Auditor,,Ashley Norwood,Reform,26
+Franklin,Lucien,State Auditor,,Stacey E. Pickering,R,128
+Franklin,Lucien,State Auditor,,Ashley Norwood,Reform,10
+Franklin,Mccall,State Auditor,,Stacey E. Pickering,R,218
+Franklin,Mccall,State Auditor,,Ashley Norwood,Reform,22
+Franklin,Bad Bayou,State Auditor,,Stacey E. Pickering,R,278
+Franklin,Bad Bayou,State Auditor,,Ashley Norwood,Reform,13
+Franklin,Cains,State Auditor,,Stacey E. Pickering,R,193
+Franklin,Cains,State Auditor,,Ashley Norwood,Reform,18
+Franklin,Whittington,State Auditor,,Stacey E. Pickering,R,187
+Franklin,Whittington,State Auditor,,Ashley Norwood,Reform,23
+Franklin,Knoxville,State Treasurer,,Lynn Fitch,R,62
+Franklin,Knoxville,State Treasurer,,Connie Moran,D,61
+Franklin,Knoxville,State Treasurer,,Shawn O'Hara,Reform,0
+Franklin,Roxie,State Treasurer,,Lynn Fitch,R,143
+Franklin,Roxie,State Treasurer,,Connie Moran,D,175
+Franklin,Roxie,State Treasurer,,Shawn O'Hara,Reform,6
+Franklin,Antioch,State Treasurer,,Lynn Fitch,R,148
+Franklin,Antioch,State Treasurer,,Connie Moran,D,115
+Franklin,Antioch,State Treasurer,,Shawn O'Hara,Reform,3
+Franklin,Hamburg,State Treasurer,,Lynn Fitch,R,49
+Franklin,Hamburg,State Treasurer,,Connie Moran,D,107
+Franklin,Hamburg,State Treasurer,,Shawn O'Hara,Reform,5
+Franklin,Meadville,State Treasurer,,Lynn Fitch,R,220
+Franklin,Meadville,State Treasurer,,Connie Moran,D,62
+Franklin,Meadville,State Treasurer,,Shawn O'Hara,Reform,10
+Franklin,Bude,State Treasurer,,Lynn Fitch,R,223
+Franklin,Bude,State Treasurer,,Connie Moran,D,242
+Franklin,Bude,State Treasurer,,Shawn O'Hara,Reform,18
+Franklin,Pine Grove,State Treasurer,,Lynn Fitch,R,69
+Franklin,Pine Grove,State Treasurer,,Connie Moran,D,17
+Franklin,Pine Grove,State Treasurer,,Shawn O'Hara,Reform,4
+Franklin,Wesley Chapel,State Treasurer,,Lynn Fitch,R,39
+Franklin,Wesley Chapel,State Treasurer,,Connie Moran,D,41
+Franklin,Wesley Chapel,State Treasurer,,Shawn O'Hara,Reform,1
+Franklin,Eddiceton,State Treasurer,,Lynn Fitch,R,244
+Franklin,Eddiceton,State Treasurer,,Connie Moran,D,46
+Franklin,Eddiceton,State Treasurer,,Shawn O'Hara,Reform,8
+Franklin,Lucien,State Treasurer,,Lynn Fitch,R,116
+Franklin,Lucien,State Treasurer,,Connie Moran,D,22
+Franklin,Lucien,State Treasurer,,Shawn O'Hara,Reform,3
+Franklin,Mccall,State Treasurer,,Lynn Fitch,R,200
+Franklin,Mccall,State Treasurer,,Connie Moran,D,44
+Franklin,Mccall,State Treasurer,,Shawn O'Hara,Reform,7
+Franklin,Bad Bayou,State Treasurer,,Lynn Fitch,R,263
+Franklin,Bad Bayou,State Treasurer,,Connie Moran,D,27
+Franklin,Bad Bayou,State Treasurer,,Shawn O'Hara,Reform,4
+Franklin,Cains,State Treasurer,,Lynn Fitch,R,183
+Franklin,Cains,State Treasurer,,Connie Moran,D,32
+Franklin,Cains,State Treasurer,,Shawn O'Hara,Reform,5
+Franklin,Whittington,State Treasurer,,Lynn Fitch,R,172
+Franklin,Whittington,State Treasurer,,Connie Moran,D,34
+Franklin,Whittington,State Treasurer,,Shawn O'Hara,Reform,7
+Franklin,Knoxville,Commissioner of Agriculture & Commerce,,Joel Gill,D,55
+Franklin,Knoxville,Commissioner of Agriculture & Commerce,,Cindy Hyde-Smith,R,66
+Franklin,Knoxville,Commissioner of Agriculture & Commerce,,Cathy L. Toole,Reform,2
+Franklin,Roxie,Commissioner of Agriculture & Commerce,,Joel Gill,D,185
+Franklin,Roxie,Commissioner of Agriculture & Commerce,,Cindy Hyde-Smith,R,132
+Franklin,Roxie,Commissioner of Agriculture & Commerce,,Cathy L. Toole,Reform,5
+Franklin,Antioch,Commissioner of Agriculture & Commerce,,Joel Gill,D,120
+Franklin,Antioch,Commissioner of Agriculture & Commerce,,Cindy Hyde-Smith,R,150
+Franklin,Antioch,Commissioner of Agriculture & Commerce,,Cathy L. Toole,Reform,4
+Franklin,Hamburg,Commissioner of Agriculture & Commerce,,Joel Gill,D,120
+Franklin,Hamburg,Commissioner of Agriculture & Commerce,,Cindy Hyde-Smith,R,42
+Franklin,Hamburg,Commissioner of Agriculture & Commerce,,Cathy L. Toole,Reform,2
+Franklin,Meadville,Commissioner of Agriculture & Commerce,,Joel Gill,D,69
+Franklin,Meadville,Commissioner of Agriculture & Commerce,,Cindy Hyde-Smith,R,225
+Franklin,Meadville,Commissioner of Agriculture & Commerce,,Cathy L. Toole,Reform,6
+Franklin,Bude,Commissioner of Agriculture & Commerce,,Joel Gill,D,260
+Franklin,Bude,Commissioner of Agriculture & Commerce,,Cindy Hyde-Smith,R,218
+Franklin,Bude,Commissioner of Agriculture & Commerce,,Cathy L. Toole,Reform,6
+Franklin,Pine Grove,Commissioner of Agriculture & Commerce,,Joel Gill,D,14
+Franklin,Pine Grove,Commissioner of Agriculture & Commerce,,Cindy Hyde-Smith,R,76
+Franklin,Pine Grove,Commissioner of Agriculture & Commerce,,Cathy L. Toole,Reform,1
+Franklin,Wesley Chapel,Commissioner of Agriculture & Commerce,,Joel Gill,D,50
+Franklin,Wesley Chapel,Commissioner of Agriculture & Commerce,,Cindy Hyde-Smith,R,30
+Franklin,Wesley Chapel,Commissioner of Agriculture & Commerce,,Cathy L. Toole,Reform,0
+Franklin,Eddiceton,Commissioner of Agriculture & Commerce,,Joel Gill,D,57
+Franklin,Eddiceton,Commissioner of Agriculture & Commerce,,Cindy Hyde-Smith,R,240
+Franklin,Eddiceton,Commissioner of Agriculture & Commerce,,Cathy L. Toole,Reform,6
+Franklin,Lucien,Commissioner of Agriculture & Commerce,,Joel Gill,D,23
+Franklin,Lucien,Commissioner of Agriculture & Commerce,,Cindy Hyde-Smith,R,119
+Franklin,Lucien,Commissioner of Agriculture & Commerce,,Cathy L. Toole,Reform,1
+Franklin,Mccall,Commissioner of Agriculture & Commerce,,Joel Gill,D,49
+Franklin,Mccall,Commissioner of Agriculture & Commerce,,Cindy Hyde-Smith,R,207
+Franklin,Mccall,Commissioner of Agriculture & Commerce,,Cathy L. Toole,Reform,1
+Franklin,Bad Bayou,Commissioner of Agriculture & Commerce,,Joel Gill,D,39
+Franklin,Bad Bayou,Commissioner of Agriculture & Commerce,,Cindy Hyde-Smith,R,255
+Franklin,Bad Bayou,Commissioner of Agriculture & Commerce,,Cathy L. Toole,Reform,3
+Franklin,Cains,Commissioner of Agriculture & Commerce,,Joel Gill,D,45
+Franklin,Cains,Commissioner of Agriculture & Commerce,,Cindy Hyde-Smith,R,169
+Franklin,Cains,Commissioner of Agriculture & Commerce,,Cathy L. Toole,Reform,5
+Franklin,Whittington,Commissioner of Agriculture & Commerce,,Joel Gill,D,35
+Franklin,Whittington,Commissioner of Agriculture & Commerce,,Cindy Hyde-Smith,R,173
+Franklin,Whittington,Commissioner of Agriculture & Commerce,,Cathy L. Toole,Reform,6
+Franklin,Knoxville,Commissioner of Insurance,,Mike Chaney,R,65
+Franklin,Knoxville,Commissioner of Insurance,,Louis Fondren,D,53
+Franklin,Knoxville,Commissioner of Insurance,,Barbara Dale Washer,Reform,1
+Franklin,Roxie,Commissioner of Insurance,,Mike Chaney,R,142
+Franklin,Roxie,Commissioner of Insurance,,Louis Fondren,D,161
+Franklin,Roxie,Commissioner of Insurance,,Barbara Dale Washer,Reform,12
+Franklin,Antioch,Commissioner of Insurance,,Mike Chaney,R,148
+Franklin,Antioch,Commissioner of Insurance,,Louis Fondren,D,105
+Franklin,Antioch,Commissioner of Insurance,,Barbara Dale Washer,Reform,12
+Franklin,Hamburg,Commissioner of Insurance,,Mike Chaney,R,51
+Franklin,Hamburg,Commissioner of Insurance,,Louis Fondren,D,108
+Franklin,Hamburg,Commissioner of Insurance,,Barbara Dale Washer,Reform,5
+Franklin,Meadville,Commissioner of Insurance,,Mike Chaney,R,235
+Franklin,Meadville,Commissioner of Insurance,,Louis Fondren,D,51
+Franklin,Meadville,Commissioner of Insurance,,Barbara Dale Washer,Reform,7
+Franklin,Bude,Commissioner of Insurance,,Mike Chaney,R,235
+Franklin,Bude,Commissioner of Insurance,,Louis Fondren,D,233
+Franklin,Bude,Commissioner of Insurance,,Barbara Dale Washer,Reform,16
+Franklin,Pine Grove,Commissioner of Insurance,,Mike Chaney,R,75
+Franklin,Pine Grove,Commissioner of Insurance,,Louis Fondren,D,12
+Franklin,Pine Grove,Commissioner of Insurance,,Barbara Dale Washer,Reform,2
+Franklin,Wesley Chapel,Commissioner of Insurance,,Mike Chaney,R,35
+Franklin,Wesley Chapel,Commissioner of Insurance,,Louis Fondren,D,45
+Franklin,Wesley Chapel,Commissioner of Insurance,,Barbara Dale Washer,Reform,1
+Franklin,Eddiceton,Commissioner of Insurance,,Mike Chaney,R,248
+Franklin,Eddiceton,Commissioner of Insurance,,Louis Fondren,D,40
+Franklin,Eddiceton,Commissioner of Insurance,,Barbara Dale Washer,Reform,8
+Franklin,Lucien,Commissioner of Insurance,,Mike Chaney,R,126
+Franklin,Lucien,Commissioner of Insurance,,Louis Fondren,D,14
+Franklin,Lucien,Commissioner of Insurance,,Barbara Dale Washer,Reform,2
+Franklin,Mccall,Commissioner of Insurance,,Mike Chaney,R,202
+Franklin,Mccall,Commissioner of Insurance,,Louis Fondren,D,42
+Franklin,Mccall,Commissioner of Insurance,,Barbara Dale Washer,Reform,7
+Franklin,Bad Bayou,Commissioner of Insurance,,Mike Chaney,R,263
+Franklin,Bad Bayou,Commissioner of Insurance,,Louis Fondren,D,16
+Franklin,Bad Bayou,Commissioner of Insurance,,Barbara Dale Washer,Reform,10
+Franklin,Cains,Commissioner of Insurance,,Mike Chaney,R,179
+Franklin,Cains,Commissioner of Insurance,,Louis Fondren,D,30
+Franklin,Cains,Commissioner of Insurance,,Barbara Dale Washer,Reform,9
+Franklin,Whittington,Commissioner of Insurance,,Mike Chaney,R,180
+Franklin,Whittington,Commissioner of Insurance,,Louis Fondren,D,24
+Franklin,Whittington,Commissioner of Insurance,,Barbara Dale Washer,Reform,10
+Franklin,Knoxville,State Senate,37,Bob M. Dearing,D,60
+Franklin,Knoxville,State Senate,37,Melanie Sojourner,R,61
+Franklin,Roxie,State Senate,37,Bob M. Dearing,D,219
+Franklin,Roxie,State Senate,37,Melanie Sojourner,R,105
+Franklin,Antioch,State Senate,37,Bob M. Dearing,D,131
+Franklin,Antioch,State Senate,37,Melanie Sojourner,R,142
+Franklin,Hamburg,State Senate,37,Bob M. Dearing,D,125
+Franklin,Hamburg,State Senate,37,Melanie Sojourner,R,41
+Franklin,Meadville,State Senate,37,Bob M. Dearing,D,119
+Franklin,Meadville,State Senate,37,Melanie Sojourner,R,185
+Franklin,Bude,State Senate,37,Bob M. Dearing,D,310
+Franklin,Bude,State Senate,37,Melanie Sojourner,R,177
+Franklin,Pine Grove,State Senate,37,Bob M. Dearing,D,27
+Franklin,Pine Grove,State Senate,37,Melanie Sojourner,R,64
+Franklin,Wesley Chapel,State Senate,37,Bob M. Dearing,D,52
+Franklin,Wesley Chapel,State Senate,37,Melanie Sojourner,R,33
+Franklin,Eddiceton,State Senate,37,Bob M. Dearing,D,107
+Franklin,Eddiceton,State Senate,37,Melanie Sojourner,R,198
+Franklin,Lucien,State Senate,37,Bob M. Dearing,D,42
+Franklin,Lucien,State Senate,37,Melanie Sojourner,R,100
+Franklin,Mccall,State Senate,37,Bob M. Dearing,D,78
+Franklin,Mccall,State Senate,37,Melanie Sojourner,R,178
+Franklin,Bad Bayou,State Senate,37,Bob M. Dearing,D,96
+Franklin,Bad Bayou,State Senate,37,Melanie Sojourner,R,199
+Franklin,Cains,State Senate,37,Bob M. Dearing,D,56
+Franklin,Cains,State Senate,37,Melanie Sojourner,R,162
+Franklin,Whittington,State Senate,37,Bob M. Dearing,D,48
+Franklin,Whittington,State Senate,37,Melanie Sojourner,R,168
+Franklin,Knoxville,State House,53,Bobby Moak,D,46
+Franklin,Roxie,State House,53,Bobby Moak,D,302
+Franklin,Antioch,State House,53,Bobby Moak,D,229
+Franklin,Hamburg,State House,53,Bobby Moak,D,156
+Franklin,Bude,State House,53,Bobby Moak,D,436
+Franklin,Wesley Chapel,State House,53,Bobby Moak,D,73
+Franklin,Mccall,State House,53,Bobby Moak,D,12
+Franklin,Bad Bayou,State House,53,Bobby Moak,D,233
+Franklin,Cains,State House,53,Bobby Moak,D,177
+Franklin,Whittington,State House,53,Bobby Moak,D,172
+Franklin,Meadville,State House,92,Becky Currie,R,186
+Franklin,Meadville,State House,92,Ken Dale Sullivan,D,116
+Franklin,Pine Grove,State House,92,Becky Currie,R,67
+Franklin,Pine Grove,State House,92,Ken Dale Sullivan,D,23
+Franklin,Eddiceton,State House,92,Becky Currie,R,236
+Franklin,Eddiceton,State House,92,Ken Dale Sullivan,D,68
+Franklin,Lucien,State House,92,Becky Currie,R,107
+Franklin,Lucien,State House,92,Ken Dale Sullivan,D,34
+Franklin,Mccall,State House,92,Becky Currie,R,172
+Franklin,Mccall,State House,92,Ken Dale Sullivan,D,67
+Franklin,Knoxville,State House,97,"Sam C. Mims, V",R,47
+Franklin,Knoxville,Measure No. 26 - Definition of a person,,Yes,,57
+Franklin,Roxie,Measure No. 26 - Definition of a person,,Yes,,138
+Franklin,Antioch,Measure No. 26 - Definition of a person,,Yes,,115
+Franklin,Hamburg,Measure No. 26 - Definition of a person,,Yes,,57
+Franklin,Meadville,Measure No. 26 - Definition of a person,,Yes,,142
+Franklin,Bude,Measure No. 26 - Definition of a person,,Yes,,180
+Franklin,Pine Grove,Measure No. 26 - Definition of a person,,Yes,,47
+Franklin,Wesley Chapel,Measure No. 26 - Definition of a person,,Yes,,26
+Franklin,Eddiceton,Measure No. 26 - Definition of a person,,Yes,,173
+Franklin,Lucien,Measure No. 26 - Definition of a person,,Yes,,79
+Franklin,Mccall,Measure No. 26 - Definition of a person,,Yes,,143
+Franklin,Bad Bayou,Measure No. 26 - Definition of a person,,Yes,,171
+Franklin,Cains,Measure No. 26 - Definition of a person,,Yes,,148
+Franklin,Whittington,Measure No. 26 - Definition of a person,,Yes,,139
+Franklin,Knoxville,Measure No. 26 - Definition of a person,,No,,64
+Franklin,Roxie,Measure No. 26 - Definition of a person,,No,,182
+Franklin,Antioch,Measure No. 26 - Definition of a person,,No,,155
+Franklin,Hamburg,Measure No. 26 - Definition of a person,,No,,106
+Franklin,Meadville,Measure No. 26 - Definition of a person,,No,,146
+Franklin,Bude,Measure No. 26 - Definition of a person,,No,,292
+Franklin,Pine Grove,Measure No. 26 - Definition of a person,,No,,41
+Franklin,Wesley Chapel,Measure No. 26 - Definition of a person,,No,,54
+Franklin,Eddiceton,Measure No. 26 - Definition of a person,,No,,128
+Franklin,Lucien,Measure No. 26 - Definition of a person,,No,,64
+Franklin,Mccall,Measure No. 26 - Definition of a person,,No,,112
+Franklin,Bad Bayou,Measure No. 26 - Definition of a person,,No,,120
+Franklin,Cains,Measure No. 26 - Definition of a person,,No,,69
+Franklin,Whittington,Measure No. 26 - Definition of a person,,No,,77
+Franklin,Knoxville,Measure No. 26 - Definition of a person,,Over Votes,,0
+Franklin,Roxie,Measure No. 26 - Definition of a person,,Over Votes,,0
+Franklin,Antioch,Measure No. 26 - Definition of a person,,Over Votes,,0
+Franklin,Hamburg,Measure No. 26 - Definition of a person,,Over Votes,,0
+Franklin,Meadville,Measure No. 26 - Definition of a person,,Over Votes,,0
+Franklin,Bude,Measure No. 26 - Definition of a person,,Over Votes,,0
+Franklin,Pine Grove,Measure No. 26 - Definition of a person,,Over Votes,,0
+Franklin,Wesley Chapel,Measure No. 26 - Definition of a person,,Over Votes,,0
+Franklin,Eddiceton,Measure No. 26 - Definition of a person,,Over Votes,,0
+Franklin,Lucien,Measure No. 26 - Definition of a person,,Over Votes,,0
+Franklin,Mccall,Measure No. 26 - Definition of a person,,Over Votes,,0
+Franklin,Bad Bayou,Measure No. 26 - Definition of a person,,Over Votes,,0
+Franklin,Cains,Measure No. 26 - Definition of a person,,Over Votes,,0
+Franklin,Whittington,Measure No. 26 - Definition of a person,,Over Votes,,0
+Franklin,Knoxville,Measure No. 26 - Definition of a person,,Under Votes,,3
+Franklin,Roxie,Measure No. 26 - Definition of a person,,Under Votes,,16
+Franklin,Antioch,Measure No. 26 - Definition of a person,,Under Votes,,15
+Franklin,Hamburg,Measure No. 26 - Definition of a person,,Under Votes,,11
+Franklin,Meadville,Measure No. 26 - Definition of a person,,Under Votes,,25
+Franklin,Bude,Measure No. 26 - Definition of a person,,Under Votes,,33
+Franklin,Pine Grove,Measure No. 26 - Definition of a person,,Under Votes,,9
+Franklin,Wesley Chapel,Measure No. 26 - Definition of a person,,Under Votes,,5
+Franklin,Eddiceton,Measure No. 26 - Definition of a person,,Under Votes,,7
+Franklin,Lucien,Measure No. 26 - Definition of a person,,Under Votes,,4
+Franklin,Mccall,Measure No. 26 - Definition of a person,,Under Votes,,9
+Franklin,Bad Bayou,Measure No. 26 - Definition of a person,,Under Votes,,7
+Franklin,Cains,Measure No. 26 - Definition of a person,,Under Votes,,5
+Franklin,Whittington,Measure No. 26 - Definition of a person,,Under Votes,,3
+Franklin,Knoxville,Measure No. 27 - Voter ID,,Yes,,65
+Franklin,Roxie,Measure No. 27 - Voter ID,,Yes,,156
+Franklin,Antioch,Measure No. 27 - Voter ID,,Yes,,141
+Franklin,Hamburg,Measure No. 27 - Voter ID,,Yes,,72
+Franklin,Meadville,Measure No. 27 - Voter ID,,Yes,,230
+Franklin,Bude,Measure No. 27 - Voter ID,,Yes,,267
+Franklin,Pine Grove,Measure No. 27 - Voter ID,,Yes,,74
+Franklin,Wesley Chapel,Measure No. 27 - Voter ID,,Yes,,30
+Franklin,Eddiceton,Measure No. 27 - Voter ID,,Yes,,235
+Franklin,Lucien,Measure No. 27 - Voter ID,,Yes,,106
+Franklin,Mccall,Measure No. 27 - Voter ID,,Yes,,184
+Franklin,Bad Bayou,Measure No. 27 - Voter ID,,Yes,,252
+Franklin,Cains,Measure No. 27 - Voter ID,,Yes,,163
+Franklin,Whittington,Measure No. 27 - Voter ID,,Yes,,173
+Franklin,Knoxville,Measure No. 27 - Voter ID,,No,,54
+Franklin,Roxie,Measure No. 27 - Voter ID,,No,,164
+Franklin,Antioch,Measure No. 27 - Voter ID,,No,,128
+Franklin,Hamburg,Measure No. 27 - Voter ID,,No,,90
+Franklin,Meadville,Measure No. 27 - Voter ID,,No,,72
+Franklin,Bude,Measure No. 27 - Voter ID,,No,,214
+Franklin,Pine Grove,Measure No. 27 - Voter ID,,No,,13
+Franklin,Wesley Chapel,Measure No. 27 - Voter ID,,No,,50
+Franklin,Eddiceton,Measure No. 27 - Voter ID,,No,,68
+Franklin,Lucien,Measure No. 27 - Voter ID,,No,,36
+Franklin,Mccall,Measure No. 27 - Voter ID,,No,,69
+Franklin,Bad Bayou,Measure No. 27 - Voter ID,,No,,40
+Franklin,Cains,Measure No. 27 - Voter ID,,No,,55
+Franklin,Whittington,Measure No. 27 - Voter ID,,No,,46
+Franklin,Knoxville,Measure No. 27 - Voter ID,,Over Votes,,0
+Franklin,Roxie,Measure No. 27 - Voter ID,,Over Votes,,0
+Franklin,Antioch,Measure No. 27 - Voter ID,,Over Votes,,0
+Franklin,Hamburg,Measure No. 27 - Voter ID,,Over Votes,,0
+Franklin,Meadville,Measure No. 27 - Voter ID,,Over Votes,,0
+Franklin,Bude,Measure No. 27 - Voter ID,,Over Votes,,0
+Franklin,Pine Grove,Measure No. 27 - Voter ID,,Over Votes,,0
+Franklin,Wesley Chapel,Measure No. 27 - Voter ID,,Over Votes,,0
+Franklin,Eddiceton,Measure No. 27 - Voter ID,,Over Votes,,0
+Franklin,Lucien,Measure No. 27 - Voter ID,,Over Votes,,0
+Franklin,Mccall,Measure No. 27 - Voter ID,,Over Votes,,0
+Franklin,Bad Bayou,Measure No. 27 - Voter ID,,Over Votes,,0
+Franklin,Cains,Measure No. 27 - Voter ID,,Over Votes,,0
+Franklin,Whittington,Measure No. 27 - Voter ID,,Over Votes,,0
+Franklin,Knoxville,Measure No. 27 - Voter ID,,Under Votes,,4
+Franklin,Roxie,Measure No. 27 - Voter ID,,Under Votes,,15
+Franklin,Antioch,Measure No. 27 - Voter ID,,Under Votes,,16
+Franklin,Hamburg,Measure No. 27 - Voter ID,,Under Votes,,12
+Franklin,Meadville,Measure No. 27 - Voter ID,,Under Votes,,11
+Franklin,Bude,Measure No. 27 - Voter ID,,Under Votes,,24
+Franklin,Pine Grove,Measure No. 27 - Voter ID,,Under Votes,,10
+Franklin,Wesley Chapel,Measure No. 27 - Voter ID,,Under Votes,,5
+Franklin,Eddiceton,Measure No. 27 - Voter ID,,Under Votes,,5
+Franklin,Lucien,Measure No. 27 - Voter ID,,Under Votes,,5
+Franklin,Mccall,Measure No. 27 - Voter ID,,Under Votes,,11
+Franklin,Bad Bayou,Measure No. 27 - Voter ID,,Under Votes,,6
+Franklin,Cains,Measure No. 27 - Voter ID,,Under Votes,,4
+Franklin,Whittington,Measure No. 27 - Voter ID,,Under Votes,,0
+Franklin,Knoxville,Measure No. 31 - Eminent Domain,,Yes,,74
+Franklin,Roxie,Measure No. 31 - Eminent Domain,,Yes,,195
+Franklin,Antioch,Measure No. 31 - Eminent Domain,,Yes,,180
+Franklin,Hamburg,Measure No. 31 - Eminent Domain,,Yes,,108
+Franklin,Meadville,Measure No. 31 - Eminent Domain,,Yes,,230
+Franklin,Bude,Measure No. 31 - Eminent Domain,,Yes,,321
+Franklin,Pine Grove,Measure No. 31 - Eminent Domain,,Yes,,82
+Franklin,Wesley Chapel,Measure No. 31 - Eminent Domain,,Yes,,42
+Franklin,Eddiceton,Measure No. 31 - Eminent Domain,,Yes,,248
+Franklin,Lucien,Measure No. 31 - Eminent Domain,,Yes,,114
+Franklin,Mccall,Measure No. 31 - Eminent Domain,,Yes,,202
+Franklin,Bad Bayou,Measure No. 31 - Eminent Domain,,Yes,,243
+Franklin,Cains,Measure No. 31 - Eminent Domain,,Yes,,173
+Franklin,Whittington,Measure No. 31 - Eminent Domain,,Yes,,183
+Franklin,Knoxville,Measure No. 31 - Eminent Domain,,No,,49
+Franklin,Roxie,Measure No. 31 - Eminent Domain,,No,,131
+Franklin,Antioch,Measure No. 31 - Eminent Domain,,No,,99
+Franklin,Hamburg,Measure No. 31 - Eminent Domain,,No,,59
+Franklin,Meadville,Measure No. 31 - Eminent Domain,,No,,70
+Franklin,Bude,Measure No. 31 - Eminent Domain,,No,,164
+Franklin,Pine Grove,Measure No. 31 - Eminent Domain,,No,,6
+Franklin,Wesley Chapel,Measure No. 31 - Eminent Domain,,No,,39
+Franklin,Eddiceton,Measure No. 31 - Eminent Domain,,No,,57
+Franklin,Lucien,Measure No. 31 - Eminent Domain,,No,,29
+Franklin,Mccall,Measure No. 31 - Eminent Domain,,No,,55
+Franklin,Bad Bayou,Measure No. 31 - Eminent Domain,,No,,52
+Franklin,Cains,Measure No. 31 - Eminent Domain,,No,,42
+Franklin,Whittington,Measure No. 31 - Eminent Domain,,No,,35
+Franklin,Knoxville,Measure No. 31 - Eminent Domain,,Over Votes,,0
+Franklin,Roxie,Measure No. 31 - Eminent Domain,,Over Votes,,0
+Franklin,Antioch,Measure No. 31 - Eminent Domain,,Over Votes,,0
+Franklin,Hamburg,Measure No. 31 - Eminent Domain,,Over Votes,,0
+Franklin,Meadville,Measure No. 31 - Eminent Domain,,Over Votes,,0
+Franklin,Bude,Measure No. 31 - Eminent Domain,,Over Votes,,0
+Franklin,Pine Grove,Measure No. 31 - Eminent Domain,,Over Votes,,0
+Franklin,Wesley Chapel,Measure No. 31 - Eminent Domain,,Over Votes,,0
+Franklin,Eddiceton,Measure No. 31 - Eminent Domain,,Over Votes,,0
+Franklin,Lucien,Measure No. 31 - Eminent Domain,,Over Votes,,0
+Franklin,Mccall,Measure No. 31 - Eminent Domain,,Over Votes,,0
+Franklin,Bad Bayou,Measure No. 31 - Eminent Domain,,Over Votes,,0
+Franklin,Cains,Measure No. 31 - Eminent Domain,,Over Votes,,0
+Franklin,Whittington,Measure No. 31 - Eminent Domain,,Over Votes,,0
+Franklin,Knoxville,Measure No. 31 - Eminent Domain,,Under Votes,,2
+Franklin,Roxie,Measure No. 31 - Eminent Domain,,Under Votes,,10
+Franklin,Antioch,Measure No. 31 - Eminent Domain,,Under Votes,,6
+Franklin,Hamburg,Measure No. 31 - Eminent Domain,,Under Votes,,7
+Franklin,Meadville,Measure No. 31 - Eminent Domain,,Under Votes,,13
+Franklin,Bude,Measure No. 31 - Eminent Domain,,Under Votes,,20
+Franklin,Pine Grove,Measure No. 31 - Eminent Domain,,Under Votes,,9
+Franklin,Wesley Chapel,Measure No. 31 - Eminent Domain,,Under Votes,,4
+Franklin,Eddiceton,Measure No. 31 - Eminent Domain,,Under Votes,,3
+Franklin,Lucien,Measure No. 31 - Eminent Domain,,Under Votes,,4
+Franklin,Mccall,Measure No. 31 - Eminent Domain,,Under Votes,,7
+Franklin,Bad Bayou,Measure No. 31 - Eminent Domain,,Under Votes,,3
+Franklin,Cains,Measure No. 31 - Eminent Domain,,Under Votes,,7
+Franklin,Whittington,Measure No. 31 - Eminent Domain,,Under Votes,,1
