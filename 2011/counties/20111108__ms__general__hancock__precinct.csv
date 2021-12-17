@@ -1,651 +1,949 @@
-candidate,office,district,party,county,precinct,votes
-Phil Bryant,Governor,,R,Hancock,Ansley,70
-Johnny L. DuPree,Governor,,D,Hancock,Ansley,26
-Phil Bryant,Governor,,R,Hancock,Lakeshore,369
-Johnny L. DuPree,Governor,,D,Hancock,Lakeshore,106
-Phil Bryant,Governor,,R,Hancock,Clermont Harbor,157
-Johnny L. DuPree,Governor,,D,Hancock,Clermont Harbor,57
-Phil Bryant,Governor,,R,Hancock,Arlington,145
-Johnny L. DuPree,Governor,,D,Hancock,Arlington,85
-Phil Bryant,Governor,,R,Hancock,Waveland East,293
-Johnny L. DuPree,Governor,,D,Hancock,Waveland East,202
-Phil Bryant,Governor,,R,Hancock,Lee Town,386
-Johnny L. DuPree,Governor,,D,Hancock,Lee Town,43
-Phil Bryant,Governor,,R,Hancock,Flat Top,359
-Johnny L. DuPree,Governor,,D,Hancock,Flat Top,46
-Phil Bryant,Governor,,R,Hancock,Catahoula,80
-Johnny L. DuPree,Governor,,D,Hancock,Catahoula,17
-Phil Bryant,Governor,,R,Hancock,Pearlington,237
-Johnny L. DuPree,Governor,,D,Hancock,Pearlington,179
-Phil Bryant,Governor,,R,Hancock,Bayou Phillip,83
-Johnny L. DuPree,Governor,,D,Hancock,Bayou Phillip,31
-Phil Bryant,Governor,,R,Hancock,Waveland West,426
-Johnny L. DuPree,Governor,,D,Hancock,Waveland West,224
-Phil Bryant,Governor,,R,Hancock,Crane Creek,504
-Johnny L. DuPree,Governor,,D,Hancock,Crane Creek,114
-Phil Bryant,Governor,,R,Hancock,Dedeaux,292
-Johnny L. DuPree,Governor,,D,Hancock,Dedeaux,60
-Phil Bryant,Governor,,R,Hancock,North Bay West,402
-Johnny L. DuPree,Governor,,D,Hancock,North Bay West,153
-Phil Bryant,Governor,,R,Hancock,Diamondhead East,1556
-Johnny L. DuPree,Governor,,D,Hancock,Diamondhead East,425
-Phil Bryant,Governor,,R,Hancock,Courthouse,91
-Johnny L. DuPree,Governor,,D,Hancock,Courthouse,48
-Phil Bryant,Governor,,R,Hancock,Kiln West,384
-Johnny L. DuPree,Governor,,D,Hancock,Kiln West,105
-Phil Bryant,Governor,,R,Hancock,West Shoreline Park,114
-Johnny L. DuPree,Governor,,D,Hancock,West Shoreline Park,66
-Phil Bryant,Governor,,R,Hancock,City Hall,86
-Johnny L. DuPree,Governor,,D,Hancock,City Hall,278
-Phil Bryant,Governor,,R,Hancock,South Bay,462
-Johnny L. DuPree,Governor,,D,Hancock,South Bay,298
-Phil Bryant,Governor,,R,Hancock,North Bay East,231
-Johnny L. DuPree,Governor,,D,Hancock,North Bay East,173
-Phil Bryant,Governor,,R,Hancock,Standard,421
-Johnny L. DuPree,Governor,,D,Hancock,Standard,121
-Phil Bryant,Governor,,R,Hancock,Edwardsville,171
-Johnny L. DuPree,Governor,,D,Hancock,Edwardsville,53
-Phil Bryant,Governor,,R,Hancock,Fenton,416
-Johnny L. DuPree,Governor,,D,Hancock,Fenton,84
-Phil Bryant,Governor,,R,Hancock,Kiln East,319
-Johnny L. DuPree,Governor,,D,Hancock,Kiln East,66
-Phil Bryant,Governor,,R,Hancock,Diamondhead West,557
-Johnny L. DuPree,Governor,,D,Hancock,Diamondhead West,188
-Phil Bryant,Governor,,R,Hancock,Garden Isle,226
-Johnny L. DuPree,Governor,,D,Hancock,Garden Isle,82
-Phil Bryant,Governor,,R,Hancock,TOTAL,8837
-Johnny L. DuPree,Governor,,D,Hancock,TOTAL,3330
-Tate Reeves,Lieutenant Governor,,R,Hancock,Ansley,72
-Tracella Lou O'Hara Hill,Lieutenant Governor,,Reform,Hancock,Ansley,13
-Tate Reeves,Lieutenant Governor,,R,Hancock,Lakeshore,385
-Tracella Lou O'Hara Hill,Lieutenant Governor,,Reform,Hancock,Lakeshore,77
-Tate Reeves,Lieutenant Governor,,R,Hancock,Clermont Harbor,171
-Tracella Lou O'Hara Hill,Lieutenant Governor,,Reform,Hancock,Clermont Harbor,38
-Tate Reeves,Lieutenant Governor,,R,Hancock,Arlington,188
-Tracella Lou O'Hara Hill,Lieutenant Governor,,Reform,Hancock,Arlington,26
-Tate Reeves,Lieutenant Governor,,R,Hancock,Waveland East,370
-Tracella Lou O'Hara Hill,Lieutenant Governor,,Reform,Hancock,Waveland East,86
-Tate Reeves,Lieutenant Governor,,R,Hancock,Lee Town,384
-Tracella Lou O'Hara Hill,Lieutenant Governor,,Reform,Hancock,Lee Town,41
-Tate Reeves,Lieutenant Governor,,R,Hancock,Flat Top,360
-Tracella Lou O'Hara Hill,Lieutenant Governor,,Reform,Hancock,Flat Top,36
-Tate Reeves,Lieutenant Governor,,R,Hancock,Catahoula,84
-Tracella Lou O'Hara Hill,Lieutenant Governor,,Reform,Hancock,Catahoula,10
-Tate Reeves,Lieutenant Governor,,R,Hancock,Pearlington,260
-Tracella Lou O'Hara Hill,Lieutenant Governor,,Reform,Hancock,Pearlington,97
-Tate Reeves,Lieutenant Governor,,R,Hancock,Bayou Phillip,92
-Tracella Lou O'Hara Hill,Lieutenant Governor,,Reform,Hancock,Bayou Phillip,14
-Tate Reeves,Lieutenant Governor,,R,Hancock,Waveland West,503
-Tracella Lou O'Hara Hill,Lieutenant Governor,,Reform,Hancock,Waveland West,99
-Tate Reeves,Lieutenant Governor,,R,Hancock,Crane Creek,542
-Tracella Lou O'Hara Hill,Lieutenant Governor,,Reform,Hancock,Crane Creek,59
-Tate Reeves,Lieutenant Governor,,R,Hancock,Dedeaux,310
-Tracella Lou O'Hara Hill,Lieutenant Governor,,Reform,Hancock,Dedeaux,27
-Tate Reeves,Lieutenant Governor,,R,Hancock,North Bay West,467
-Tracella Lou O'Hara Hill,Lieutenant Governor,,Reform,Hancock,North Bay West,66
-Tate Reeves,Lieutenant Governor,,R,Hancock,Diamondhead East,1673
-Tracella Lou O'Hara Hill,Lieutenant Governor,,Reform,Hancock,Diamondhead East,219
-Tate Reeves,Lieutenant Governor,,R,Hancock,Courthouse,107
-Tracella Lou O'Hara Hill,Lieutenant Governor,,Reform,Hancock,Courthouse,24
-Tate Reeves,Lieutenant Governor,,R,Hancock,Kiln West,406
-Tracella Lou O'Hara Hill,Lieutenant Governor,,Reform,Hancock,Kiln West,63
-Tate Reeves,Lieutenant Governor,,R,Hancock,West Shoreline Park,122
-Tracella Lou O'Hara Hill,Lieutenant Governor,,Reform,Hancock,West Shoreline Park,44
-Tate Reeves,Lieutenant Governor,,R,Hancock,City Hall,157
-Tracella Lou O'Hara Hill,Lieutenant Governor,,Reform,Hancock,City Hall,81
-Tate Reeves,Lieutenant Governor,,R,Hancock,South Bay,551
-Tracella Lou O'Hara Hill,Lieutenant Governor,,Reform,Hancock,South Bay,138
-Tate Reeves,Lieutenant Governor,,R,Hancock,North Bay East,280
-Tracella Lou O'Hara Hill,Lieutenant Governor,,Reform,Hancock,North Bay East,75
-Tate Reeves,Lieutenant Governor,,R,Hancock,Standard,459
-Tracella Lou O'Hara Hill,Lieutenant Governor,,Reform,Hancock,Standard,80
-Tate Reeves,Lieutenant Governor,,R,Hancock,Edwardsville,180
-Tracella Lou O'Hara Hill,Lieutenant Governor,,Reform,Hancock,Edwardsville,35
-Tate Reeves,Lieutenant Governor,,R,Hancock,Fenton,443
-Tracella Lou O'Hara Hill,Lieutenant Governor,,Reform,Hancock,Fenton,52
-Tate Reeves,Lieutenant Governor,,R,Hancock,Kiln East,325
-Tracella Lou O'Hara Hill,Lieutenant Governor,,Reform,Hancock,Kiln East,40
-Tate Reeves,Lieutenant Governor,,R,Hancock,Diamondhead West,615
-Tracella Lou O'Hara Hill,Lieutenant Governor,,Reform,Hancock,Diamondhead West,98
-Tate Reeves,Lieutenant Governor,,R,Hancock,Garden Isle,257
-Tracella Lou O'Hara Hill,Lieutenant Governor,,Reform,Hancock,Garden Isle,40
-Tate Reeves,Lieutenant Governor,,R,Hancock,TOTAL,9763
-Tracella Lou O'Hara Hill,Lieutenant Governor,,Reform,Hancock,TOTAL,1678
-Delbert Hosemann,Secretary of State,,R,Hancock,Ansley,73
-Delbert Hosemann,Secretary of State,,R,Hancock,Lakeshore,429
-Delbert Hosemann,Secretary of State,,R,Hancock,Clermont Harbor,193
-Delbert Hosemann,Secretary of State,,R,Hancock,Arlington,196
-Delbert Hosemann,Secretary of State,,R,Hancock,Waveland East,407
-Delbert Hosemann,Secretary of State,,R,Hancock,Lee Town,398
-Delbert Hosemann,Secretary of State,,R,Hancock,Flat Top,369
-Delbert Hosemann,Secretary of State,,R,Hancock,Catahoula,87
-Delbert Hosemann,Secretary of State,,R,Hancock,Pearlington,306
-Delbert Hosemann,Secretary of State,,R,Hancock,Bayou Phillip,96
-Delbert Hosemann,Secretary of State,,R,Hancock,Waveland West,568
-Delbert Hosemann,Secretary of State,,R,Hancock,Crane Creek,556
-Delbert Hosemann,Secretary of State,,R,Hancock,Dedeaux,308
-Delbert Hosemann,Secretary of State,,R,Hancock,North Bay West,483
-Delbert Hosemann,Secretary of State,,R,Hancock,Diamondhead East,1752
-Delbert Hosemann,Secretary of State,,R,Hancock,Courthouse,112
-Delbert Hosemann,Secretary of State,,R,Hancock,Kiln West,440
-Delbert Hosemann,Secretary of State,,R,Hancock,West Shoreline Park,147
-Delbert Hosemann,Secretary of State,,R,Hancock,City Hall,197
-Delbert Hosemann,Secretary of State,,R,Hancock,South Bay,603
-Delbert Hosemann,Secretary of State,,R,Hancock,North Bay East,307
-Delbert Hosemann,Secretary of State,,R,Hancock,Standard,478
-Delbert Hosemann,Secretary of State,,R,Hancock,Edwardsville,196
-Delbert Hosemann,Secretary of State,,R,Hancock,Fenton,457
-Delbert Hosemann,Secretary of State,,R,Hancock,Kiln East,339
-Delbert Hosemann,Secretary of State,,R,Hancock,Diamondhead West,668
-Delbert Hosemann,Secretary of State,,R,Hancock,Garden Isle,265
-Delbert Hosemann,Secretary of State,,R,Hancock,TOTAL,10430
-Jim Hood,Attorney General,,D,Hancock,Ansley,55
-Steve Simpson,Attorney General,,R,Hancock,Ansley,35
-Jim Hood,Attorney General,,D,Hancock,Lakeshore,303
-Steve Simpson,Attorney General,,R,Hancock,Lakeshore,171
-Jim Hood,Attorney General,,D,Hancock,Clermont Harbor,112
-Steve Simpson,Attorney General,,R,Hancock,Clermont Harbor,106
-Jim Hood,Attorney General,,D,Hancock,Arlington,122
-Steve Simpson,Attorney General,,R,Hancock,Arlington,104
-Jim Hood,Attorney General,,D,Hancock,Waveland East,305
-Steve Simpson,Attorney General,,R,Hancock,Waveland East,186
-Jim Hood,Attorney General,,D,Hancock,Lee Town,143
-Steve Simpson,Attorney General,,R,Hancock,Lee Town,287
-Jim Hood,Attorney General,,D,Hancock,Flat Top,127
-Steve Simpson,Attorney General,,R,Hancock,Flat Top,268
-Jim Hood,Attorney General,,D,Hancock,Catahoula,34
-Steve Simpson,Attorney General,,R,Hancock,Catahoula,60
-Jim Hood,Attorney General,,D,Hancock,Pearlington,240
-Steve Simpson,Attorney General,,R,Hancock,Pearlington,168
-Jim Hood,Attorney General,,D,Hancock,Bayou Phillip,69
-Steve Simpson,Attorney General,,R,Hancock,Bayou Phillip,44
-Jim Hood,Attorney General,,D,Hancock,Waveland West,365
-Steve Simpson,Attorney General,,R,Hancock,Waveland West,279
-Jim Hood,Attorney General,,D,Hancock,Crane Creek,297
-Steve Simpson,Attorney General,,R,Hancock,Crane Creek,312
-Jim Hood,Attorney General,,D,Hancock,Dedeaux,175
-Steve Simpson,Attorney General,,R,Hancock,Dedeaux,170
-Jim Hood,Attorney General,,D,Hancock,North Bay West,234
-Steve Simpson,Attorney General,,R,Hancock,North Bay West,314
-Jim Hood,Attorney General,,D,Hancock,Diamondhead East,705
-Steve Simpson,Attorney General,,R,Hancock,Diamondhead East,1234
-Jim Hood,Attorney General,,D,Hancock,Courthouse,69
-Steve Simpson,Attorney General,,R,Hancock,Courthouse,66
-Jim Hood,Attorney General,,D,Hancock,Kiln West,252
-Steve Simpson,Attorney General,,R,Hancock,Kiln West,233
-Jim Hood,Attorney General,,D,Hancock,West Shoreline Park,110
-Steve Simpson,Attorney General,,R,Hancock,West Shoreline Park,68
-Jim Hood,Attorney General,,D,Hancock,City Hall,286
-Steve Simpson,Attorney General,,R,Hancock,City Hall,72
-Jim Hood,Attorney General,,D,Hancock,South Bay,446
-Steve Simpson,Attorney General,,R,Hancock,South Bay,303
-Jim Hood,Attorney General,,D,Hancock,North Bay East,244
-Steve Simpson,Attorney General,,R,Hancock,North Bay East,156
-Jim Hood,Attorney General,,D,Hancock,Standard,300
-Steve Simpson,Attorney General,,R,Hancock,Standard,245
-Jim Hood,Attorney General,,D,Hancock,Edwardsville,93
-Steve Simpson,Attorney General,,R,Hancock,Edwardsville,130
-Jim Hood,Attorney General,,D,Hancock,Fenton,230
-Steve Simpson,Attorney General,,R,Hancock,Fenton,267
-Jim Hood,Attorney General,,D,Hancock,Kiln East,162
-Steve Simpson,Attorney General,,R,Hancock,Kiln East,216
-Jim Hood,Attorney General,,D,Hancock,Diamondhead West,280
-Steve Simpson,Attorney General,,R,Hancock,Diamondhead West,450
-Jim Hood,Attorney General,,D,Hancock,Garden Isle,140
-Steve Simpson,Attorney General,,R,Hancock,Garden Isle,167
-Jim Hood,Attorney General,,D,Hancock,TOTAL,5898
-Steve Simpson,Attorney General,,R,Hancock,TOTAL,6111
-Stacey E. Pickering,State Auditor,,R,Hancock,Ansley,60
-Ashley Norwood,State Auditor,,Reform,Hancock,Ansley,24
-Stacey E. Pickering,State Auditor,,R,Hancock,Lakeshore,325
-Ashley Norwood,State Auditor,,Reform,Hancock,Lakeshore,129
-Stacey E. Pickering,State Auditor,,R,Hancock,Clermont Harbor,158
-Ashley Norwood,State Auditor,,Reform,Hancock,Clermont Harbor,50
-Stacey E. Pickering,State Auditor,,R,Hancock,Arlington,156
-Ashley Norwood,State Auditor,,Reform,Hancock,Arlington,57
-Stacey E. Pickering,State Auditor,,R,Hancock,Waveland East,331
-Ashley Norwood,State Auditor,,Reform,Hancock,Waveland East,120
-Stacey E. Pickering,State Auditor,,R,Hancock,Lee Town,366
-Ashley Norwood,State Auditor,,Reform,Hancock,Lee Town,53
-Stacey E. Pickering,State Auditor,,R,Hancock,Flat Top,348
-Ashley Norwood,State Auditor,,Reform,Hancock,Flat Top,43
-Stacey E. Pickering,State Auditor,,R,Hancock,Catahoula,85
-Ashley Norwood,State Auditor,,Reform,Hancock,Catahoula,9
-Stacey E. Pickering,State Auditor,,R,Hancock,Pearlington,234
-Ashley Norwood,State Auditor,,Reform,Hancock,Pearlington,118
-Stacey E. Pickering,State Auditor,,R,Hancock,Bayou Phillip,75
-Ashley Norwood,State Auditor,,Reform,Hancock,Bayou Phillip,23
-Stacey E. Pickering,State Auditor,,R,Hancock,Waveland West,471
-Ashley Norwood,State Auditor,,Reform,Hancock,Waveland West,122
-Stacey E. Pickering,State Auditor,,R,Hancock,Crane Creek,499
-Ashley Norwood,State Auditor,,Reform,Hancock,Crane Creek,95
-Stacey E. Pickering,State Auditor,,R,Hancock,Dedeaux,275
-Ashley Norwood,State Auditor,,Reform,Hancock,Dedeaux,56
-Stacey E. Pickering,State Auditor,,R,Hancock,North Bay West,442
-Ashley Norwood,State Auditor,,Reform,Hancock,North Bay West,75
-Stacey E. Pickering,State Auditor,,R,Hancock,Diamondhead East,1594
-Ashley Norwood,State Auditor,,Reform,Hancock,Diamondhead East,262
-Stacey E. Pickering,State Auditor,,R,Hancock,Courthouse,103
-Ashley Norwood,State Auditor,,Reform,Hancock,Courthouse,23
-Stacey E. Pickering,State Auditor,,R,Hancock,Kiln West,378
-Ashley Norwood,State Auditor,,Reform,Hancock,Kiln West,84
-Stacey E. Pickering,State Auditor,,R,Hancock,West Shoreline Park,113
-Ashley Norwood,State Auditor,,Reform,Hancock,West Shoreline Park,50
-Stacey E. Pickering,State Auditor,,R,Hancock,City Hall,127
-Ashley Norwood,State Auditor,,Reform,Hancock,City Hall,107
-Stacey E. Pickering,State Auditor,,R,Hancock,South Bay,517
-Ashley Norwood,State Auditor,,Reform,Hancock,South Bay,157
-Stacey E. Pickering,State Auditor,,R,Hancock,North Bay East,241
-Ashley Norwood,State Auditor,,Reform,Hancock,North Bay East,96
-Stacey E. Pickering,State Auditor,,R,Hancock,Standard,421
-Ashley Norwood,State Auditor,,Reform,Hancock,Standard,96
-Stacey E. Pickering,State Auditor,,R,Hancock,Edwardsville,171
-Ashley Norwood,State Auditor,,Reform,Hancock,Edwardsville,39
-Stacey E. Pickering,State Auditor,,R,Hancock,Fenton,404
-Ashley Norwood,State Auditor,,Reform,Hancock,Fenton,78
-Stacey E. Pickering,State Auditor,,R,Hancock,Kiln East,298
-Ashley Norwood,State Auditor,,Reform,Hancock,Kiln East,63
-Stacey E. Pickering,State Auditor,,R,Hancock,Diamondhead West,586
-Ashley Norwood,State Auditor,,Reform,Hancock,Diamondhead West,108
-Stacey E. Pickering,State Auditor,,R,Hancock,Garden Isle,239
-Ashley Norwood,State Auditor,,Reform,Hancock,Garden Isle,48
-Stacey E. Pickering,State Auditor,,R,Hancock,TOTAL,9017
-Ashley Norwood,State Auditor,,Reform,Hancock,TOTAL,2185
-Lynn Fitch,State Treasurer,,R,Hancock,Ansley,48
-Connie Moran,State Treasurer,,D,Hancock,Ansley,40
-Shawn O'Hara,State Treasurer,,Reform,Hancock,Ansley,6
-Lynn Fitch,State Treasurer,,R,Hancock,Lakeshore,177
-Connie Moran,State Treasurer,,D,Hancock,Lakeshore,271
-Shawn O'Hara,State Treasurer,,Reform,Hancock,Lakeshore,25
-Lynn Fitch,State Treasurer,,R,Hancock,Clermont Harbor,101
-Connie Moran,State Treasurer,,D,Hancock,Clermont Harbor,106
-Shawn O'Hara,State Treasurer,,Reform,Hancock,Clermont Harbor,11
-Lynn Fitch,State Treasurer,,R,Hancock,Arlington,116
-Connie Moran,State Treasurer,,D,Hancock,Arlington,92
-Shawn O'Hara,State Treasurer,,Reform,Hancock,Arlington,15
-Lynn Fitch,State Treasurer,,R,Hancock,Waveland East,229
-Connie Moran,State Treasurer,,D,Hancock,Waveland East,237
-Shawn O'Hara,State Treasurer,,Reform,Hancock,Waveland East,23
-Lynn Fitch,State Treasurer,,R,Hancock,Lee Town,305
-Connie Moran,State Treasurer,,D,Hancock,Lee Town,95
-Shawn O'Hara,State Treasurer,,Reform,Hancock,Lee Town,29
-Lynn Fitch,State Treasurer,,R,Hancock,Flat Top,292
-Connie Moran,State Treasurer,,D,Hancock,Flat Top,83
-Shawn O'Hara,State Treasurer,,Reform,Hancock,Flat Top,20
-Lynn Fitch,State Treasurer,,R,Hancock,Catahoula,70
-Connie Moran,State Treasurer,,D,Hancock,Catahoula,23
-Shawn O'Hara,State Treasurer,,Reform,Hancock,Catahoula,3
-Lynn Fitch,State Treasurer,,R,Hancock,Pearlington,168
-Connie Moran,State Treasurer,,D,Hancock,Pearlington,216
-Shawn O'Hara,State Treasurer,,Reform,Hancock,Pearlington,25
-Lynn Fitch,State Treasurer,,R,Hancock,Bayou Phillip,52
-Connie Moran,State Treasurer,,D,Hancock,Bayou Phillip,58
-Shawn O'Hara,State Treasurer,,Reform,Hancock,Bayou Phillip,0
-Lynn Fitch,State Treasurer,,R,Hancock,Waveland West,327
-Connie Moran,State Treasurer,,D,Hancock,Waveland West,285
-Shawn O'Hara,State Treasurer,,Reform,Hancock,Waveland West,31
-Lynn Fitch,State Treasurer,,R,Hancock,Crane Creek,368
-Connie Moran,State Treasurer,,D,Hancock,Crane Creek,215
-Shawn O'Hara,State Treasurer,,Reform,Hancock,Crane Creek,31
-Lynn Fitch,State Treasurer,,R,Hancock,Dedeaux,213
-Connie Moran,State Treasurer,,D,Hancock,Dedeaux,123
-Shawn O'Hara,State Treasurer,,Reform,Hancock,Dedeaux,10
-Lynn Fitch,State Treasurer,,R,Hancock,North Bay West,329
-Connie Moran,State Treasurer,,D,Hancock,North Bay West,213
-Shawn O'Hara,State Treasurer,,Reform,Hancock,North Bay West,14
-Lynn Fitch,State Treasurer,,R,Hancock,Diamondhead East,1285
-Connie Moran,State Treasurer,,D,Hancock,Diamondhead East,603
-Shawn O'Hara,State Treasurer,,Reform,Hancock,Diamondhead East,69
-Lynn Fitch,State Treasurer,,R,Hancock,Courthouse,64
-Connie Moran,State Treasurer,,D,Hancock,Courthouse,66
-Shawn O'Hara,State Treasurer,,Reform,Hancock,Courthouse,3
-Lynn Fitch,State Treasurer,,R,Hancock,Kiln West,279
-Connie Moran,State Treasurer,,D,Hancock,Kiln West,184
-Shawn O'Hara,State Treasurer,,Reform,Hancock,Kiln West,21
-Lynn Fitch,State Treasurer,,R,Hancock,West Shoreline Park,80
-Connie Moran,State Treasurer,,D,Hancock,West Shoreline Park,89
-Shawn O'Hara,State Treasurer,,Reform,Hancock,West Shoreline Park,12
-Lynn Fitch,State Treasurer,,R,Hancock,City Hall,67
-Connie Moran,State Treasurer,,D,Hancock,City Hall,284
-Shawn O'Hara,State Treasurer,,Reform,Hancock,City Hall,10
-Lynn Fitch,State Treasurer,,R,Hancock,South Bay,346
-Connie Moran,State Treasurer,,D,Hancock,South Bay,369
-Shawn O'Hara,State Treasurer,,Reform,Hancock,South Bay,27
-Lynn Fitch,State Treasurer,,R,Hancock,North Bay East,178
-Connie Moran,State Treasurer,,D,Hancock,North Bay East,207
-Shawn O'Hara,State Treasurer,,Reform,Hancock,North Bay East,12
-Lynn Fitch,State Treasurer,,R,Hancock,Standard,309
-Connie Moran,State Treasurer,,D,Hancock,Standard,214
-Shawn O'Hara,State Treasurer,,Reform,Hancock,Standard,21
-Lynn Fitch,State Treasurer,,R,Hancock,Edwardsville,140
-Connie Moran,State Treasurer,,D,Hancock,Edwardsville,64
-Shawn O'Hara,State Treasurer,,Reform,Hancock,Edwardsville,16
-Lynn Fitch,State Treasurer,,R,Hancock,Fenton,297
-Connie Moran,State Treasurer,,D,Hancock,Fenton,183
-Shawn O'Hara,State Treasurer,,Reform,Hancock,Fenton,15
-Lynn Fitch,State Treasurer,,R,Hancock,Kiln East,222
-Connie Moran,State Treasurer,,D,Hancock,Kiln East,140
-Shawn O'Hara,State Treasurer,,Reform,Hancock,Kiln East,18
-Lynn Fitch,State Treasurer,,R,Hancock,Diamondhead West,474
-Connie Moran,State Treasurer,,D,Hancock,Diamondhead West,231
-Shawn O'Hara,State Treasurer,,Reform,Hancock,Diamondhead West,30
-Lynn Fitch,State Treasurer,,R,Hancock,Garden Isle,167
-Connie Moran,State Treasurer,,D,Hancock,Garden Isle,126
-Shawn O'Hara,State Treasurer,,Reform,Hancock,Garden Isle,9
-Lynn Fitch,State Treasurer,,R,Hancock,TOTAL,6703
-Connie Moran,State Treasurer,,D,Hancock,TOTAL,4817
-Shawn O'Hara,State Treasurer,,Reform,Hancock,TOTAL,506
-Joel Gill,Commissioner of Agriculture & Commerce,,D,Hancock,Ansley,40
-Cindy Hyde-Smith,Commissioner of Agriculture & Commerce,,R,Hancock,Ansley,42
-Cathy L. Toole,Commissioner of Agriculture & Commerce,,Reform,Hancock,Ansley,8
-Joel Gill,Commissioner of Agriculture & Commerce,,D,Hancock,Lakeshore,175
-Cindy Hyde-Smith,Commissioner of Agriculture & Commerce,,R,Hancock,Lakeshore,246
-Cathy L. Toole,Commissioner of Agriculture & Commerce,,Reform,Hancock,Lakeshore,41
-Joel Gill,Commissioner of Agriculture & Commerce,,D,Hancock,Clermont Harbor,66
-Cindy Hyde-Smith,Commissioner of Agriculture & Commerce,,R,Hancock,Clermont Harbor,130
-Cathy L. Toole,Commissioner of Agriculture & Commerce,,Reform,Hancock,Clermont Harbor,17
-Joel Gill,Commissioner of Agriculture & Commerce,,D,Hancock,Arlington,70
-Cindy Hyde-Smith,Commissioner of Agriculture & Commerce,,R,Hancock,Arlington,130
-Cathy L. Toole,Commissioner of Agriculture & Commerce,,Reform,Hancock,Arlington,19
-Joel Gill,Commissioner of Agriculture & Commerce,,D,Hancock,Waveland East,187
-Cindy Hyde-Smith,Commissioner of Agriculture & Commerce,,R,Hancock,Waveland East,257
-Cathy L. Toole,Commissioner of Agriculture & Commerce,,Reform,Hancock,Waveland East,33
-Joel Gill,Commissioner of Agriculture & Commerce,,D,Hancock,Lee Town,49
-Cindy Hyde-Smith,Commissioner of Agriculture & Commerce,,R,Hancock,Lee Town,365
-Cathy L. Toole,Commissioner of Agriculture & Commerce,,Reform,Hancock,Lee Town,17
-Joel Gill,Commissioner of Agriculture & Commerce,,D,Hancock,Flat Top,65
-Cindy Hyde-Smith,Commissioner of Agriculture & Commerce,,R,Hancock,Flat Top,314
-Cathy L. Toole,Commissioner of Agriculture & Commerce,,Reform,Hancock,Flat Top,18
-Joel Gill,Commissioner of Agriculture & Commerce,,D,Hancock,Catahoula,9
-Cindy Hyde-Smith,Commissioner of Agriculture & Commerce,,R,Hancock,Catahoula,85
-Cathy L. Toole,Commissioner of Agriculture & Commerce,,Reform,Hancock,Catahoula,1
-Joel Gill,Commissioner of Agriculture & Commerce,,D,Hancock,Pearlington,180
-Cindy Hyde-Smith,Commissioner of Agriculture & Commerce,,R,Hancock,Pearlington,187
-Cathy L. Toole,Commissioner of Agriculture & Commerce,,Reform,Hancock,Pearlington,31
-Joel Gill,Commissioner of Agriculture & Commerce,,D,Hancock,Bayou Phillip,37
-Cindy Hyde-Smith,Commissioner of Agriculture & Commerce,,R,Hancock,Bayou Phillip,67
-Cathy L. Toole,Commissioner of Agriculture & Commerce,,Reform,Hancock,Bayou Phillip,3
-Joel Gill,Commissioner of Agriculture & Commerce,,D,Hancock,Waveland West,212
-Cindy Hyde-Smith,Commissioner of Agriculture & Commerce,,R,Hancock,Waveland West,394
-Cathy L. Toole,Commissioner of Agriculture & Commerce,,Reform,Hancock,Waveland West,24
-Joel Gill,Commissioner of Agriculture & Commerce,,D,Hancock,Crane Creek,131
-Cindy Hyde-Smith,Commissioner of Agriculture & Commerce,,R,Hancock,Crane Creek,458
-Cathy L. Toole,Commissioner of Agriculture & Commerce,,Reform,Hancock,Crane Creek,21
-Joel Gill,Commissioner of Agriculture & Commerce,,D,Hancock,Dedeaux,71
-Cindy Hyde-Smith,Commissioner of Agriculture & Commerce,,R,Hancock,Dedeaux,259
-Cathy L. Toole,Commissioner of Agriculture & Commerce,,Reform,Hancock,Dedeaux,9
-Joel Gill,Commissioner of Agriculture & Commerce,,D,Hancock,North Bay West,135
-Cindy Hyde-Smith,Commissioner of Agriculture & Commerce,,R,Hancock,North Bay West,376
-Cathy L. Toole,Commissioner of Agriculture & Commerce,,Reform,Hancock,North Bay West,26
-Joel Gill,Commissioner of Agriculture & Commerce,,D,Hancock,Diamondhead East,337
-Cindy Hyde-Smith,Commissioner of Agriculture & Commerce,,R,Hancock,Diamondhead East,1506
-Cathy L. Toole,Commissioner of Agriculture & Commerce,,Reform,Hancock,Diamondhead East,68
-Joel Gill,Commissioner of Agriculture & Commerce,,D,Hancock,Courthouse,40
-Cindy Hyde-Smith,Commissioner of Agriculture & Commerce,,R,Hancock,Courthouse,88
-Cathy L. Toole,Commissioner of Agriculture & Commerce,,Reform,Hancock,Courthouse,4
-Joel Gill,Commissioner of Agriculture & Commerce,,D,Hancock,Kiln West,111
-Cindy Hyde-Smith,Commissioner of Agriculture & Commerce,,R,Hancock,Kiln West,352
-Cathy L. Toole,Commissioner of Agriculture & Commerce,,Reform,Hancock,Kiln West,16
-Joel Gill,Commissioner of Agriculture & Commerce,,D,Hancock,West Shoreline Park,69
-Cindy Hyde-Smith,Commissioner of Agriculture & Commerce,,R,Hancock,West Shoreline Park,88
-Cathy L. Toole,Commissioner of Agriculture & Commerce,,Reform,Hancock,West Shoreline Park,19
-Joel Gill,Commissioner of Agriculture & Commerce,,D,Hancock,City Hall,262
-Cindy Hyde-Smith,Commissioner of Agriculture & Commerce,,R,Hancock,City Hall,79
-Cathy L. Toole,Commissioner of Agriculture & Commerce,,Reform,Hancock,City Hall,13
-Joel Gill,Commissioner of Agriculture & Commerce,,D,Hancock,South Bay,258
-Cindy Hyde-Smith,Commissioner of Agriculture & Commerce,,R,Hancock,South Bay,431
-Cathy L. Toole,Commissioner of Agriculture & Commerce,,Reform,Hancock,South Bay,33
-Joel Gill,Commissioner of Agriculture & Commerce,,D,Hancock,North Bay East,160
-Cindy Hyde-Smith,Commissioner of Agriculture & Commerce,,R,Hancock,North Bay East,199
-Cathy L. Toole,Commissioner of Agriculture & Commerce,,Reform,Hancock,North Bay East,25
-Joel Gill,Commissioner of Agriculture & Commerce,,D,Hancock,Standard,125
-Cindy Hyde-Smith,Commissioner of Agriculture & Commerce,,R,Hancock,Standard,383
-Cathy L. Toole,Commissioner of Agriculture & Commerce,,Reform,Hancock,Standard,26
-Joel Gill,Commissioner of Agriculture & Commerce,,D,Hancock,Edwardsville,40
-Cindy Hyde-Smith,Commissioner of Agriculture & Commerce,,R,Hancock,Edwardsville,152
-Cathy L. Toole,Commissioner of Agriculture & Commerce,,Reform,Hancock,Edwardsville,21
-Joel Gill,Commissioner of Agriculture & Commerce,,D,Hancock,Fenton,100
-Cindy Hyde-Smith,Commissioner of Agriculture & Commerce,,R,Hancock,Fenton,370
-Cathy L. Toole,Commissioner of Agriculture & Commerce,,Reform,Hancock,Fenton,22
-Joel Gill,Commissioner of Agriculture & Commerce,,D,Hancock,Kiln East,68
-Cindy Hyde-Smith,Commissioner of Agriculture & Commerce,,R,Hancock,Kiln East,292
-Cathy L. Toole,Commissioner of Agriculture & Commerce,,Reform,Hancock,Kiln East,17
-Joel Gill,Commissioner of Agriculture & Commerce,,D,Hancock,Diamondhead West,125
-Cindy Hyde-Smith,Commissioner of Agriculture & Commerce,,R,Hancock,Diamondhead West,550
-Cathy L. Toole,Commissioner of Agriculture & Commerce,,Reform,Hancock,Diamondhead West,38
-Joel Gill,Commissioner of Agriculture & Commerce,,D,Hancock,Garden Isle,77
-Cindy Hyde-Smith,Commissioner of Agriculture & Commerce,,R,Hancock,Garden Isle,206
-Cathy L. Toole,Commissioner of Agriculture & Commerce,,Reform,Hancock,Garden Isle,14
-Joel Gill,Commissioner of Agriculture & Commerce,,D,Hancock,TOTAL,3199
-Cindy Hyde-Smith,Commissioner of Agriculture & Commerce,,R,Hancock,TOTAL,8006
-Cathy L. Toole,Commissioner of Agriculture & Commerce,,Reform,Hancock,TOTAL,584
-Mike Chaney,Commissioner of Insurance,,R,Hancock,Ansley,51
-Louis Fondren,Commissioner of Insurance,,D,Hancock,Ansley,28
-Barbara Dale Washer,Commissioner of Insurance,,Reform,Hancock,Ansley,10
-Mike Chaney,Commissioner of Insurance,,R,Hancock,Lakeshore,312
-Louis Fondren,Commissioner of Insurance,,D,Hancock,Lakeshore,99
-Barbara Dale Washer,Commissioner of Insurance,,Reform,Hancock,Lakeshore,54
-Mike Chaney,Commissioner of Insurance,,R,Hancock,Clermont Harbor,139
-Louis Fondren,Commissioner of Insurance,,D,Hancock,Clermont Harbor,55
-Barbara Dale Washer,Commissioner of Insurance,,Reform,Hancock,Clermont Harbor,18
-Mike Chaney,Commissioner of Insurance,,R,Hancock,Arlington,138
-Louis Fondren,Commissioner of Insurance,,D,Hancock,Arlington,58
-Barbara Dale Washer,Commissioner of Insurance,,Reform,Hancock,Arlington,24
-Mike Chaney,Commissioner of Insurance,,R,Hancock,Waveland East,303
-Louis Fondren,Commissioner of Insurance,,D,Hancock,Waveland East,149
-Barbara Dale Washer,Commissioner of Insurance,,Reform,Hancock,Waveland East,37
-Mike Chaney,Commissioner of Insurance,,R,Hancock,Lee Town,355
-Louis Fondren,Commissioner of Insurance,,D,Hancock,Lee Town,45
-Barbara Dale Washer,Commissioner of Insurance,,Reform,Hancock,Lee Town,27
-Mike Chaney,Commissioner of Insurance,,R,Hancock,Flat Top,324
-Louis Fondren,Commissioner of Insurance,,D,Hancock,Flat Top,34
-Barbara Dale Washer,Commissioner of Insurance,,Reform,Hancock,Flat Top,32
-Mike Chaney,Commissioner of Insurance,,R,Hancock,Catahoula,77
-Louis Fondren,Commissioner of Insurance,,D,Hancock,Catahoula,11
-Barbara Dale Washer,Commissioner of Insurance,,Reform,Hancock,Catahoula,6
-Mike Chaney,Commissioner of Insurance,,R,Hancock,Pearlington,206
-Louis Fondren,Commissioner of Insurance,,D,Hancock,Pearlington,162
-Barbara Dale Washer,Commissioner of Insurance,,Reform,Hancock,Pearlington,33
-Mike Chaney,Commissioner of Insurance,,R,Hancock,Bayou Phillip,72
-Louis Fondren,Commissioner of Insurance,,D,Hancock,Bayou Phillip,28
-Barbara Dale Washer,Commissioner of Insurance,,Reform,Hancock,Bayou Phillip,7
-Mike Chaney,Commissioner of Insurance,,R,Hancock,Waveland West,418
-Louis Fondren,Commissioner of Insurance,,D,Hancock,Waveland West,169
-Barbara Dale Washer,Commissioner of Insurance,,Reform,Hancock,Waveland West,46
-Mike Chaney,Commissioner of Insurance,,R,Hancock,Crane Creek,476
-Louis Fondren,Commissioner of Insurance,,D,Hancock,Crane Creek,91
-Barbara Dale Washer,Commissioner of Insurance,,Reform,Hancock,Crane Creek,36
-Mike Chaney,Commissioner of Insurance,,R,Hancock,Dedeaux,267
-Louis Fondren,Commissioner of Insurance,,D,Hancock,Dedeaux,46
-Barbara Dale Washer,Commissioner of Insurance,,Reform,Hancock,Dedeaux,24
-Mike Chaney,Commissioner of Insurance,,R,Hancock,North Bay West,406
-Louis Fondren,Commissioner of Insurance,,D,Hancock,North Bay West,109
-Barbara Dale Washer,Commissioner of Insurance,,Reform,Hancock,North Bay West,29
-Mike Chaney,Commissioner of Insurance,,R,Hancock,Diamondhead East,1518
-Louis Fondren,Commissioner of Insurance,,D,Hancock,Diamondhead East,299
-Barbara Dale Washer,Commissioner of Insurance,,Reform,Hancock,Diamondhead East,116
-Mike Chaney,Commissioner of Insurance,,R,Hancock,Courthouse,99
-Louis Fondren,Commissioner of Insurance,,D,Hancock,Courthouse,28
-Barbara Dale Washer,Commissioner of Insurance,,Reform,Hancock,Courthouse,6
-Mike Chaney,Commissioner of Insurance,,R,Hancock,Kiln West,348
-Louis Fondren,Commissioner of Insurance,,D,Hancock,Kiln West,97
-Barbara Dale Washer,Commissioner of Insurance,,Reform,Hancock,Kiln West,36
-Mike Chaney,Commissioner of Insurance,,R,Hancock,West Shoreline Park,105
-Louis Fondren,Commissioner of Insurance,,D,Hancock,West Shoreline Park,54
-Barbara Dale Washer,Commissioner of Insurance,,Reform,Hancock,West Shoreline Park,18
-Mike Chaney,Commissioner of Insurance,,R,Hancock,City Hall,104
-Louis Fondren,Commissioner of Insurance,,D,Hancock,City Hall,228
-Barbara Dale Washer,Commissioner of Insurance,,Reform,Hancock,City Hall,14
-Mike Chaney,Commissioner of Insurance,,R,Hancock,South Bay,456
-Louis Fondren,Commissioner of Insurance,,D,Hancock,South Bay,224
-Barbara Dale Washer,Commissioner of Insurance,,Reform,Hancock,South Bay,52
-Mike Chaney,Commissioner of Insurance,,R,Hancock,North Bay East,235
-Louis Fondren,Commissioner of Insurance,,D,Hancock,North Bay East,135
-Barbara Dale Washer,Commissioner of Insurance,,Reform,Hancock,North Bay East,20
-Mike Chaney,Commissioner of Insurance,,R,Hancock,Standard,397
-Louis Fondren,Commissioner of Insurance,,D,Hancock,Standard,94
-Barbara Dale Washer,Commissioner of Insurance,,Reform,Hancock,Standard,41
-Mike Chaney,Commissioner of Insurance,,R,Hancock,Edwardsville,166
-Louis Fondren,Commissioner of Insurance,,D,Hancock,Edwardsville,25
-Barbara Dale Washer,Commissioner of Insurance,,Reform,Hancock,Edwardsville,25
-Mike Chaney,Commissioner of Insurance,,R,Hancock,Fenton,380
-Louis Fondren,Commissioner of Insurance,,D,Hancock,Fenton,83
-Barbara Dale Washer,Commissioner of Insurance,,Reform,Hancock,Fenton,28
-Mike Chaney,Commissioner of Insurance,,R,Hancock,Kiln East,288
-Louis Fondren,Commissioner of Insurance,,D,Hancock,Kiln East,56
-Barbara Dale Washer,Commissioner of Insurance,,Reform,Hancock,Kiln East,32
-Mike Chaney,Commissioner of Insurance,,R,Hancock,Diamondhead West,551
-Louis Fondren,Commissioner of Insurance,,D,Hancock,Diamondhead West,106
-Barbara Dale Washer,Commissioner of Insurance,,Reform,Hancock,Diamondhead West,57
-Mike Chaney,Commissioner of Insurance,,R,Hancock,Garden Isle,214
-Louis Fondren,Commissioner of Insurance,,D,Hancock,Garden Isle,62
-Barbara Dale Washer,Commissioner of Insurance,,Reform,Hancock,Garden Isle,23
-Mike Chaney,Commissioner of Insurance,,R,Hancock,TOTAL,8405
-Louis Fondren,Commissioner of Insurance,,D,Hancock,TOTAL,2575
-Barbara Dale Washer,Commissioner of Insurance,,Reform,Hancock,TOTAL,851
-Joe Bye,State Senate,46,D,Hancock,Ansley,49
-Phillip Moran,State Senate,46,R,Hancock,Ansley,46
-James K. 'Ken' Overstreet,State Senate,46,C,Hancock,Ansley,6
-Joe Bye,State Senate,46,D,Hancock,Lakeshore,161
-Phillip Moran,State Senate,46,R,Hancock,Lakeshore,287
-James K. 'Ken' Overstreet,State Senate,46,C,Hancock,Lakeshore,36
-Joe Bye,State Senate,46,D,Hancock,Clermont Harbor,85
-Phillip Moran,State Senate,46,R,Hancock,Clermont Harbor,122
-James K. 'Ken' Overstreet,State Senate,46,C,Hancock,Clermont Harbor,9
-Joe Bye,State Senate,46,D,Hancock,Arlington,91
-Phillip Moran,State Senate,46,R,Hancock,Arlington,122
-James K. 'Ken' Overstreet,State Senate,46,C,Hancock,Arlington,14
-Joe Bye,State Senate,46,D,Hancock,Waveland East,238
-Phillip Moran,State Senate,46,R,Hancock,Waveland East,236
-James K. 'Ken' Overstreet,State Senate,46,C,Hancock,Waveland East,21
-Joe Bye,State Senate,46,D,Hancock,Lee Town,70
-Phillip Moran,State Senate,46,R,Hancock,Lee Town,337
-James K. 'Ken' Overstreet,State Senate,46,C,Hancock,Lee Town,25
-Joe Bye,State Senate,46,D,Hancock,Flat Top,73
-Phillip Moran,State Senate,46,R,Hancock,Flat Top,310
-James K. 'Ken' Overstreet,State Senate,46,C,Hancock,Flat Top,20
-Joe Bye,State Senate,46,D,Hancock,Catahoula,25
-Phillip Moran,State Senate,46,R,Hancock,Catahoula,69
-James K. 'Ken' Overstreet,State Senate,46,C,Hancock,Catahoula,3
-Joe Bye,State Senate,46,D,Hancock,Pearlington,198
-Phillip Moran,State Senate,46,R,Hancock,Pearlington,193
-James K. 'Ken' Overstreet,State Senate,46,C,Hancock,Pearlington,26
-Joe Bye,State Senate,46,D,Hancock,Bayou Phillip,49
-Phillip Moran,State Senate,46,R,Hancock,Bayou Phillip,64
-James K. 'Ken' Overstreet,State Senate,46,C,Hancock,Bayou Phillip,2
-Joe Bye,State Senate,46,D,Hancock,Waveland West,241
-Phillip Moran,State Senate,46,R,Hancock,Waveland West,374
-James K. 'Ken' Overstreet,State Senate,46,C,Hancock,Waveland West,32
-Joe Bye,State Senate,46,D,Hancock,Crane Creek,132
-Phillip Moran,State Senate,46,R,Hancock,Crane Creek,449
-James K. 'Ken' Overstreet,State Senate,46,C,Hancock,Crane Creek,31
-Joe Bye,State Senate,46,D,Hancock,Dedeaux,80
-Phillip Moran,State Senate,46,R,Hancock,Dedeaux,256
-James K. 'Ken' Overstreet,State Senate,46,C,Hancock,Dedeaux,16
-Joe Bye,State Senate,46,D,Hancock,North Bay West,185
-Phillip Moran,State Senate,46,R,Hancock,North Bay West,347
-James K. 'Ken' Overstreet,State Senate,46,C,Hancock,North Bay West,21
-Joe Bye,State Senate,46,D,Hancock,Diamondhead East,311
-Phillip Moran,State Senate,46,R,Hancock,Diamondhead East,1562
-James K. 'Ken' Overstreet,State Senate,46,C,Hancock,Diamondhead East,83
-Joe Bye,State Senate,46,D,Hancock,Courthouse,38
-Phillip Moran,State Senate,46,R,Hancock,Courthouse,88
-James K. 'Ken' Overstreet,State Senate,46,C,Hancock,Courthouse,9
-Joe Bye,State Senate,46,D,Hancock,Kiln West,131
-Phillip Moran,State Senate,46,R,Hancock,Kiln West,320
-James K. 'Ken' Overstreet,State Senate,46,C,Hancock,Kiln West,32
-Joe Bye,State Senate,46,D,Hancock,West Shoreline Park,85
-Phillip Moran,State Senate,46,R,Hancock,West Shoreline Park,85
-James K. 'Ken' Overstreet,State Senate,46,C,Hancock,West Shoreline Park,12
-Joe Bye,State Senate,46,D,Hancock,City Hall,267
-Phillip Moran,State Senate,46,R,Hancock,City Hall,86
-James K. 'Ken' Overstreet,State Senate,46,C,Hancock,City Hall,6
-Joe Bye,State Senate,46,D,Hancock,South Bay,363
-Phillip Moran,State Senate,46,R,Hancock,South Bay,367
-James K. 'Ken' Overstreet,State Senate,46,C,Hancock,South Bay,20
-Joe Bye,State Senate,46,D,Hancock,North Bay East,172
-Phillip Moran,State Senate,46,R,Hancock,North Bay East,197
-James K. 'Ken' Overstreet,State Senate,46,C,Hancock,North Bay East,16
-Joe Bye,State Senate,46,D,Hancock,Standard,162
-Phillip Moran,State Senate,46,R,Hancock,Standard,365
-James K. 'Ken' Overstreet,State Senate,46,C,Hancock,Standard,26
-Joe Bye,State Senate,46,D,Hancock,Edwardsville,49
-Phillip Moran,State Senate,46,R,Hancock,Edwardsville,156
-James K. 'Ken' Overstreet,State Senate,46,C,Hancock,Edwardsville,18
-Joe Bye,State Senate,46,D,Hancock,Fenton,109
-Phillip Moran,State Senate,46,R,Hancock,Fenton,374
-James K. 'Ken' Overstreet,State Senate,46,C,Hancock,Fenton,15
-Joe Bye,State Senate,46,D,Hancock,Kiln East,84
-Phillip Moran,State Senate,46,R,Hancock,Kiln East,289
-James K. 'Ken' Overstreet,State Senate,46,C,Hancock,Kiln East,20
-Joe Bye,State Senate,46,D,Hancock,Diamondhead West,132
-Phillip Moran,State Senate,46,R,Hancock,Diamondhead West,566
-James K. 'Ken' Overstreet,State Senate,46,C,Hancock,Diamondhead West,36
-Joe Bye,State Senate,46,D,Hancock,Garden Isle,112
-Phillip Moran,State Senate,46,R,Hancock,Garden Isle,176
-James K. 'Ken' Overstreet,State Senate,46,C,Hancock,Garden Isle,19
-Joe Bye,State Senate,46,D,Hancock,TOTAL,3692
-Phillip Moran,State Senate,46,R,Hancock,TOTAL,7843
-James K. 'Ken' Overstreet,State Senate,46,C,Hancock,TOTAL,574
-Dirk D. Dedeaux,State House,93,D,Hancock,Ansley,33
-John 'Timmy' Ladner,State House,93,R,Hancock,Ansley,33
-Dirk D. Dedeaux,State House,93,D,Hancock,Lee Town,115
-John 'Timmy' Ladner,State House,93,R,Hancock,Lee Town,320
-Dirk D. Dedeaux,State House,93,D,Hancock,Flat Top,140
-John 'Timmy' Ladner,State House,93,R,Hancock,Flat Top,266
-Dirk D. Dedeaux,State House,93,D,Hancock,Catahoula,32
-John 'Timmy' Ladner,State House,93,R,Hancock,Catahoula,65
-Dirk D. Dedeaux,State House,93,D,Hancock,Pearlington,258
-John 'Timmy' Ladner,State House,93,R,Hancock,Pearlington,157
-Dirk D. Dedeaux,State House,93,D,Hancock,Crane Creek,294
-John 'Timmy' Ladner,State House,93,R,Hancock,Crane Creek,325
-Dirk D. Dedeaux,State House,93,D,Hancock,Dedeaux,101
-John 'Timmy' Ladner,State House,93,R,Hancock,Dedeaux,90
-Dirk D. Dedeaux,State House,93,D,Hancock,Kiln West,222
-John 'Timmy' Ladner,State House,93,R,Hancock,Kiln West,266
-Dirk D. Dedeaux,State House,93,D,Hancock,Standard,286
-John 'Timmy' Ladner,State House,93,R,Hancock,Standard,233
-Dirk D. Dedeaux,State House,93,D,Hancock,Fenton,227
-John 'Timmy' Ladner,State House,93,R,Hancock,Fenton,272
-Dirk D. Dedeaux,State House,93,D,Hancock,Kiln East,170
-John 'Timmy' Ladner,State House,93,R,Hancock,Kiln East,216
-Dirk D. Dedeaux,State House,93,D,Hancock,TOTAL,1878
-John 'Timmy' Ladner,State House,93,R,Hancock,TOTAL,2243
-Jessica Sibley Upshaw,State House,95,R,Hancock,Crane Creek,0
-Jessica Sibley Upshaw,State House,95,R,Hancock,Dedeaux,142
-Jessica Sibley Upshaw,State House,95,R,Hancock,Diamondhead East,1770
-Jessica Sibley Upshaw,State House,95,R,Hancock,Standard,22
-Jessica Sibley Upshaw,State House,95,R,Hancock,Diamondhead West,664
-Jessica Sibley Upshaw,State House,95,R,Hancock,TOTAL,2598
-David Baria,State House,122,D,Hancock,Ansley,18
-Dorothy Wilcox,State House,122,R,Hancock,Ansley,11
-David Baria,State House,122,D,Hancock,Lakeshore,268
-Dorothy Wilcox,State House,122,R,Hancock,Lakeshore,215
-David Baria,State House,122,D,Hancock,Clermont Harbor,107
-Dorothy Wilcox,State House,122,R,Hancock,Clermont Harbor,113
-David Baria,State House,122,D,Hancock,Arlington,124
-Dorothy Wilcox,State House,122,R,Hancock,Arlington,109
-David Baria,State House,122,D,Hancock,Waveland East,307
-Dorothy Wilcox,State House,122,R,Hancock,Waveland East,193
-David Baria,State House,122,D,Hancock,Bayou Phillip,68
-Dorothy Wilcox,State House,122,R,Hancock,Bayou Phillip,45
-David Baria,State House,122,D,Hancock,Waveland West,385
-Dorothy Wilcox,State House,122,R,Hancock,Waveland West,266
-David Baria,State House,122,D,Hancock,North Bay West,307
-Dorothy Wilcox,State House,122,R,Hancock,North Bay West,247
-David Baria,State House,122,D,Hancock,Courthouse,70
-Dorothy Wilcox,State House,122,R,Hancock,Courthouse,66
-David Baria,State House,122,D,Hancock,West Shoreline Park,101
-Dorothy Wilcox,State House,122,R,Hancock,West Shoreline Park,79
-David Baria,State House,122,D,Hancock,City Hall,302
-Dorothy Wilcox,State House,122,R,Hancock,City Hall,60
-David Baria,State House,122,D,Hancock,South Bay,468
-Dorothy Wilcox,State House,122,R,Hancock,South Bay,287
-David Baria,State House,122,D,Hancock,North Bay East,258
-Dorothy Wilcox,State House,122,R,Hancock,North Bay East,148
-David Baria,State House,122,D,Hancock,Edwardsville,85
-Dorothy Wilcox,State House,122,R,Hancock,Edwardsville,137
-David Baria,State House,122,D,Hancock,Garden Isle,154
-Dorothy Wilcox,State House,122,R,Hancock,Garden Isle,155
-David Baria,State House,122,D,Hancock,TOTAL,3022
-Dorothy Wilcox,State House,122,R,Hancock,TOTAL,2131
+county,precinct,office,district,candidate,party,votes
+Hancock,Ansley,Governor,,Phil Bryant,R,70
+Hancock,Ansley,Governor,,Johnny L. DuPree,D,26
+Hancock,Lakeshore,Governor,,Phil Bryant,R,369
+Hancock,Lakeshore,Governor,,Johnny L. DuPree,D,106
+Hancock,Clermont Harbor,Governor,,Phil Bryant,R,157
+Hancock,Clermont Harbor,Governor,,Johnny L. DuPree,D,57
+Hancock,Arlington,Governor,,Phil Bryant,R,145
+Hancock,Arlington,Governor,,Johnny L. DuPree,D,85
+Hancock,Waveland East,Governor,,Phil Bryant,R,293
+Hancock,Waveland East,Governor,,Johnny L. DuPree,D,202
+Hancock,Lee Town,Governor,,Phil Bryant,R,386
+Hancock,Lee Town,Governor,,Johnny L. DuPree,D,43
+Hancock,Flat Top,Governor,,Phil Bryant,R,359
+Hancock,Flat Top,Governor,,Johnny L. DuPree,D,46
+Hancock,Catahoula,Governor,,Phil Bryant,R,80
+Hancock,Catahoula,Governor,,Johnny L. DuPree,D,17
+Hancock,Pearlington,Governor,,Phil Bryant,R,237
+Hancock,Pearlington,Governor,,Johnny L. DuPree,D,179
+Hancock,Bayou Phillip,Governor,,Phil Bryant,R,83
+Hancock,Bayou Phillip,Governor,,Johnny L. DuPree,D,31
+Hancock,Waveland West,Governor,,Phil Bryant,R,426
+Hancock,Waveland West,Governor,,Johnny L. DuPree,D,224
+Hancock,Crane Creek,Governor,,Phil Bryant,R,504
+Hancock,Crane Creek,Governor,,Johnny L. DuPree,D,114
+Hancock,Dedeaux,Governor,,Phil Bryant,R,292
+Hancock,Dedeaux,Governor,,Johnny L. DuPree,D,60
+Hancock,North Bay West,Governor,,Phil Bryant,R,402
+Hancock,North Bay West,Governor,,Johnny L. DuPree,D,153
+Hancock,Diamondhead East,Governor,,Phil Bryant,R,1556
+Hancock,Diamondhead East,Governor,,Johnny L. DuPree,D,425
+Hancock,Courthouse,Governor,,Phil Bryant,R,91
+Hancock,Courthouse,Governor,,Johnny L. DuPree,D,48
+Hancock,Kiln West,Governor,,Phil Bryant,R,384
+Hancock,Kiln West,Governor,,Johnny L. DuPree,D,105
+Hancock,West Shoreline Park,Governor,,Phil Bryant,R,114
+Hancock,West Shoreline Park,Governor,,Johnny L. DuPree,D,66
+Hancock,City Hall,Governor,,Phil Bryant,R,86
+Hancock,City Hall,Governor,,Johnny L. DuPree,D,278
+Hancock,South Bay,Governor,,Phil Bryant,R,462
+Hancock,South Bay,Governor,,Johnny L. DuPree,D,298
+Hancock,North Bay East,Governor,,Phil Bryant,R,231
+Hancock,North Bay East,Governor,,Johnny L. DuPree,D,173
+Hancock,Standard,Governor,,Phil Bryant,R,421
+Hancock,Standard,Governor,,Johnny L. DuPree,D,121
+Hancock,Edwardsville,Governor,,Phil Bryant,R,171
+Hancock,Edwardsville,Governor,,Johnny L. DuPree,D,53
+Hancock,Fenton,Governor,,Phil Bryant,R,416
+Hancock,Fenton,Governor,,Johnny L. DuPree,D,84
+Hancock,Kiln East,Governor,,Phil Bryant,R,319
+Hancock,Kiln East,Governor,,Johnny L. DuPree,D,66
+Hancock,Diamondhead West,Governor,,Phil Bryant,R,557
+Hancock,Diamondhead West,Governor,,Johnny L. DuPree,D,188
+Hancock,Garden Isle,Governor,,Phil Bryant,R,226
+Hancock,Garden Isle,Governor,,Johnny L. DuPree,D,82
+Hancock,Ansley,Lieutenant Governor,,Tate Reeves,R,72
+Hancock,Ansley,Lieutenant Governor,,Tracella Lou O'Hara Hill,Reform,13
+Hancock,Lakeshore,Lieutenant Governor,,Tate Reeves,R,385
+Hancock,Lakeshore,Lieutenant Governor,,Tracella Lou O'Hara Hill,Reform,77
+Hancock,Clermont Harbor,Lieutenant Governor,,Tate Reeves,R,171
+Hancock,Clermont Harbor,Lieutenant Governor,,Tracella Lou O'Hara Hill,Reform,38
+Hancock,Arlington,Lieutenant Governor,,Tate Reeves,R,188
+Hancock,Arlington,Lieutenant Governor,,Tracella Lou O'Hara Hill,Reform,26
+Hancock,Waveland East,Lieutenant Governor,,Tate Reeves,R,370
+Hancock,Waveland East,Lieutenant Governor,,Tracella Lou O'Hara Hill,Reform,86
+Hancock,Lee Town,Lieutenant Governor,,Tate Reeves,R,384
+Hancock,Lee Town,Lieutenant Governor,,Tracella Lou O'Hara Hill,Reform,41
+Hancock,Flat Top,Lieutenant Governor,,Tate Reeves,R,360
+Hancock,Flat Top,Lieutenant Governor,,Tracella Lou O'Hara Hill,Reform,36
+Hancock,Catahoula,Lieutenant Governor,,Tate Reeves,R,84
+Hancock,Catahoula,Lieutenant Governor,,Tracella Lou O'Hara Hill,Reform,10
+Hancock,Pearlington,Lieutenant Governor,,Tate Reeves,R,260
+Hancock,Pearlington,Lieutenant Governor,,Tracella Lou O'Hara Hill,Reform,97
+Hancock,Bayou Phillip,Lieutenant Governor,,Tate Reeves,R,92
+Hancock,Bayou Phillip,Lieutenant Governor,,Tracella Lou O'Hara Hill,Reform,14
+Hancock,Waveland West,Lieutenant Governor,,Tate Reeves,R,503
+Hancock,Waveland West,Lieutenant Governor,,Tracella Lou O'Hara Hill,Reform,99
+Hancock,Crane Creek,Lieutenant Governor,,Tate Reeves,R,542
+Hancock,Crane Creek,Lieutenant Governor,,Tracella Lou O'Hara Hill,Reform,59
+Hancock,Dedeaux,Lieutenant Governor,,Tate Reeves,R,310
+Hancock,Dedeaux,Lieutenant Governor,,Tracella Lou O'Hara Hill,Reform,27
+Hancock,North Bay West,Lieutenant Governor,,Tate Reeves,R,467
+Hancock,North Bay West,Lieutenant Governor,,Tracella Lou O'Hara Hill,Reform,66
+Hancock,Diamondhead East,Lieutenant Governor,,Tate Reeves,R,1673
+Hancock,Diamondhead East,Lieutenant Governor,,Tracella Lou O'Hara Hill,Reform,219
+Hancock,Courthouse,Lieutenant Governor,,Tate Reeves,R,107
+Hancock,Courthouse,Lieutenant Governor,,Tracella Lou O'Hara Hill,Reform,24
+Hancock,Kiln West,Lieutenant Governor,,Tate Reeves,R,406
+Hancock,Kiln West,Lieutenant Governor,,Tracella Lou O'Hara Hill,Reform,63
+Hancock,West Shoreline Park,Lieutenant Governor,,Tate Reeves,R,122
+Hancock,West Shoreline Park,Lieutenant Governor,,Tracella Lou O'Hara Hill,Reform,44
+Hancock,City Hall,Lieutenant Governor,,Tate Reeves,R,157
+Hancock,City Hall,Lieutenant Governor,,Tracella Lou O'Hara Hill,Reform,81
+Hancock,South Bay,Lieutenant Governor,,Tate Reeves,R,551
+Hancock,South Bay,Lieutenant Governor,,Tracella Lou O'Hara Hill,Reform,138
+Hancock,North Bay East,Lieutenant Governor,,Tate Reeves,R,280
+Hancock,North Bay East,Lieutenant Governor,,Tracella Lou O'Hara Hill,Reform,75
+Hancock,Standard,Lieutenant Governor,,Tate Reeves,R,459
+Hancock,Standard,Lieutenant Governor,,Tracella Lou O'Hara Hill,Reform,80
+Hancock,Edwardsville,Lieutenant Governor,,Tate Reeves,R,180
+Hancock,Edwardsville,Lieutenant Governor,,Tracella Lou O'Hara Hill,Reform,35
+Hancock,Fenton,Lieutenant Governor,,Tate Reeves,R,443
+Hancock,Fenton,Lieutenant Governor,,Tracella Lou O'Hara Hill,Reform,52
+Hancock,Kiln East,Lieutenant Governor,,Tate Reeves,R,325
+Hancock,Kiln East,Lieutenant Governor,,Tracella Lou O'Hara Hill,Reform,40
+Hancock,Diamondhead West,Lieutenant Governor,,Tate Reeves,R,615
+Hancock,Diamondhead West,Lieutenant Governor,,Tracella Lou O'Hara Hill,Reform,98
+Hancock,Garden Isle,Lieutenant Governor,,Tate Reeves,R,257
+Hancock,Garden Isle,Lieutenant Governor,,Tracella Lou O'Hara Hill,Reform,40
+Hancock,Ansley,Secretary of State,,Delbert Hosemann,R,73
+Hancock,Lakeshore,Secretary of State,,Delbert Hosemann,R,429
+Hancock,Clermont Harbor,Secretary of State,,Delbert Hosemann,R,193
+Hancock,Arlington,Secretary of State,,Delbert Hosemann,R,196
+Hancock,Waveland East,Secretary of State,,Delbert Hosemann,R,407
+Hancock,Lee Town,Secretary of State,,Delbert Hosemann,R,398
+Hancock,Flat Top,Secretary of State,,Delbert Hosemann,R,369
+Hancock,Catahoula,Secretary of State,,Delbert Hosemann,R,87
+Hancock,Pearlington,Secretary of State,,Delbert Hosemann,R,306
+Hancock,Bayou Phillip,Secretary of State,,Delbert Hosemann,R,96
+Hancock,Waveland West,Secretary of State,,Delbert Hosemann,R,568
+Hancock,Crane Creek,Secretary of State,,Delbert Hosemann,R,556
+Hancock,Dedeaux,Secretary of State,,Delbert Hosemann,R,308
+Hancock,North Bay West,Secretary of State,,Delbert Hosemann,R,483
+Hancock,Diamondhead East,Secretary of State,,Delbert Hosemann,R,1752
+Hancock,Courthouse,Secretary of State,,Delbert Hosemann,R,112
+Hancock,Kiln West,Secretary of State,,Delbert Hosemann,R,440
+Hancock,West Shoreline Park,Secretary of State,,Delbert Hosemann,R,147
+Hancock,City Hall,Secretary of State,,Delbert Hosemann,R,197
+Hancock,South Bay,Secretary of State,,Delbert Hosemann,R,603
+Hancock,North Bay East,Secretary of State,,Delbert Hosemann,R,307
+Hancock,Standard,Secretary of State,,Delbert Hosemann,R,478
+Hancock,Edwardsville,Secretary of State,,Delbert Hosemann,R,196
+Hancock,Fenton,Secretary of State,,Delbert Hosemann,R,457
+Hancock,Kiln East,Secretary of State,,Delbert Hosemann,R,339
+Hancock,Diamondhead West,Secretary of State,,Delbert Hosemann,R,668
+Hancock,Garden Isle,Secretary of State,,Delbert Hosemann,R,265
+Hancock,Ansley,Attorney General,,Jim Hood,D,55
+Hancock,Ansley,Attorney General,,Steve Simpson,R,35
+Hancock,Lakeshore,Attorney General,,Jim Hood,D,303
+Hancock,Lakeshore,Attorney General,,Steve Simpson,R,171
+Hancock,Clermont Harbor,Attorney General,,Jim Hood,D,112
+Hancock,Clermont Harbor,Attorney General,,Steve Simpson,R,106
+Hancock,Arlington,Attorney General,,Jim Hood,D,122
+Hancock,Arlington,Attorney General,,Steve Simpson,R,104
+Hancock,Waveland East,Attorney General,,Jim Hood,D,305
+Hancock,Waveland East,Attorney General,,Steve Simpson,R,186
+Hancock,Lee Town,Attorney General,,Jim Hood,D,143
+Hancock,Lee Town,Attorney General,,Steve Simpson,R,287
+Hancock,Flat Top,Attorney General,,Jim Hood,D,127
+Hancock,Flat Top,Attorney General,,Steve Simpson,R,268
+Hancock,Catahoula,Attorney General,,Jim Hood,D,34
+Hancock,Catahoula,Attorney General,,Steve Simpson,R,60
+Hancock,Pearlington,Attorney General,,Jim Hood,D,240
+Hancock,Pearlington,Attorney General,,Steve Simpson,R,168
+Hancock,Bayou Phillip,Attorney General,,Jim Hood,D,69
+Hancock,Bayou Phillip,Attorney General,,Steve Simpson,R,44
+Hancock,Waveland West,Attorney General,,Jim Hood,D,365
+Hancock,Waveland West,Attorney General,,Steve Simpson,R,279
+Hancock,Crane Creek,Attorney General,,Jim Hood,D,297
+Hancock,Crane Creek,Attorney General,,Steve Simpson,R,312
+Hancock,Dedeaux,Attorney General,,Jim Hood,D,175
+Hancock,Dedeaux,Attorney General,,Steve Simpson,R,170
+Hancock,North Bay West,Attorney General,,Jim Hood,D,234
+Hancock,North Bay West,Attorney General,,Steve Simpson,R,314
+Hancock,Diamondhead East,Attorney General,,Jim Hood,D,705
+Hancock,Diamondhead East,Attorney General,,Steve Simpson,R,1234
+Hancock,Courthouse,Attorney General,,Jim Hood,D,69
+Hancock,Courthouse,Attorney General,,Steve Simpson,R,66
+Hancock,Kiln West,Attorney General,,Jim Hood,D,252
+Hancock,Kiln West,Attorney General,,Steve Simpson,R,233
+Hancock,West Shoreline Park,Attorney General,,Jim Hood,D,110
+Hancock,West Shoreline Park,Attorney General,,Steve Simpson,R,68
+Hancock,City Hall,Attorney General,,Jim Hood,D,286
+Hancock,City Hall,Attorney General,,Steve Simpson,R,72
+Hancock,South Bay,Attorney General,,Jim Hood,D,446
+Hancock,South Bay,Attorney General,,Steve Simpson,R,303
+Hancock,North Bay East,Attorney General,,Jim Hood,D,244
+Hancock,North Bay East,Attorney General,,Steve Simpson,R,156
+Hancock,Standard,Attorney General,,Jim Hood,D,300
+Hancock,Standard,Attorney General,,Steve Simpson,R,245
+Hancock,Edwardsville,Attorney General,,Jim Hood,D,93
+Hancock,Edwardsville,Attorney General,,Steve Simpson,R,130
+Hancock,Fenton,Attorney General,,Jim Hood,D,230
+Hancock,Fenton,Attorney General,,Steve Simpson,R,267
+Hancock,Kiln East,Attorney General,,Jim Hood,D,162
+Hancock,Kiln East,Attorney General,,Steve Simpson,R,216
+Hancock,Diamondhead West,Attorney General,,Jim Hood,D,280
+Hancock,Diamondhead West,Attorney General,,Steve Simpson,R,450
+Hancock,Garden Isle,Attorney General,,Jim Hood,D,140
+Hancock,Garden Isle,Attorney General,,Steve Simpson,R,167
+Hancock,Ansley,State Auditor,,Stacey E. Pickering,R,60
+Hancock,Ansley,State Auditor,,Ashley Norwood,Reform,24
+Hancock,Lakeshore,State Auditor,,Stacey E. Pickering,R,325
+Hancock,Lakeshore,State Auditor,,Ashley Norwood,Reform,129
+Hancock,Clermont Harbor,State Auditor,,Stacey E. Pickering,R,158
+Hancock,Clermont Harbor,State Auditor,,Ashley Norwood,Reform,50
+Hancock,Arlington,State Auditor,,Stacey E. Pickering,R,156
+Hancock,Arlington,State Auditor,,Ashley Norwood,Reform,57
+Hancock,Waveland East,State Auditor,,Stacey E. Pickering,R,331
+Hancock,Waveland East,State Auditor,,Ashley Norwood,Reform,120
+Hancock,Lee Town,State Auditor,,Stacey E. Pickering,R,366
+Hancock,Lee Town,State Auditor,,Ashley Norwood,Reform,53
+Hancock,Flat Top,State Auditor,,Stacey E. Pickering,R,348
+Hancock,Flat Top,State Auditor,,Ashley Norwood,Reform,43
+Hancock,Catahoula,State Auditor,,Stacey E. Pickering,R,85
+Hancock,Catahoula,State Auditor,,Ashley Norwood,Reform,9
+Hancock,Pearlington,State Auditor,,Stacey E. Pickering,R,234
+Hancock,Pearlington,State Auditor,,Ashley Norwood,Reform,118
+Hancock,Bayou Phillip,State Auditor,,Stacey E. Pickering,R,75
+Hancock,Bayou Phillip,State Auditor,,Ashley Norwood,Reform,23
+Hancock,Waveland West,State Auditor,,Stacey E. Pickering,R,471
+Hancock,Waveland West,State Auditor,,Ashley Norwood,Reform,122
+Hancock,Crane Creek,State Auditor,,Stacey E. Pickering,R,499
+Hancock,Crane Creek,State Auditor,,Ashley Norwood,Reform,95
+Hancock,Dedeaux,State Auditor,,Stacey E. Pickering,R,275
+Hancock,Dedeaux,State Auditor,,Ashley Norwood,Reform,56
+Hancock,North Bay West,State Auditor,,Stacey E. Pickering,R,442
+Hancock,North Bay West,State Auditor,,Ashley Norwood,Reform,75
+Hancock,Diamondhead East,State Auditor,,Stacey E. Pickering,R,1594
+Hancock,Diamondhead East,State Auditor,,Ashley Norwood,Reform,262
+Hancock,Courthouse,State Auditor,,Stacey E. Pickering,R,103
+Hancock,Courthouse,State Auditor,,Ashley Norwood,Reform,23
+Hancock,Kiln West,State Auditor,,Stacey E. Pickering,R,378
+Hancock,Kiln West,State Auditor,,Ashley Norwood,Reform,84
+Hancock,West Shoreline Park,State Auditor,,Stacey E. Pickering,R,113
+Hancock,West Shoreline Park,State Auditor,,Ashley Norwood,Reform,50
+Hancock,City Hall,State Auditor,,Stacey E. Pickering,R,127
+Hancock,City Hall,State Auditor,,Ashley Norwood,Reform,107
+Hancock,South Bay,State Auditor,,Stacey E. Pickering,R,517
+Hancock,South Bay,State Auditor,,Ashley Norwood,Reform,157
+Hancock,North Bay East,State Auditor,,Stacey E. Pickering,R,241
+Hancock,North Bay East,State Auditor,,Ashley Norwood,Reform,96
+Hancock,Standard,State Auditor,,Stacey E. Pickering,R,421
+Hancock,Standard,State Auditor,,Ashley Norwood,Reform,96
+Hancock,Edwardsville,State Auditor,,Stacey E. Pickering,R,171
+Hancock,Edwardsville,State Auditor,,Ashley Norwood,Reform,39
+Hancock,Fenton,State Auditor,,Stacey E. Pickering,R,404
+Hancock,Fenton,State Auditor,,Ashley Norwood,Reform,78
+Hancock,Kiln East,State Auditor,,Stacey E. Pickering,R,298
+Hancock,Kiln East,State Auditor,,Ashley Norwood,Reform,63
+Hancock,Diamondhead West,State Auditor,,Stacey E. Pickering,R,586
+Hancock,Diamondhead West,State Auditor,,Ashley Norwood,Reform,108
+Hancock,Garden Isle,State Auditor,,Stacey E. Pickering,R,239
+Hancock,Garden Isle,State Auditor,,Ashley Norwood,Reform,48
+Hancock,Ansley,State Treasurer,,Lynn Fitch,R,48
+Hancock,Ansley,State Treasurer,,Connie Moran,D,40
+Hancock,Ansley,State Treasurer,,Shawn O'Hara,Reform,6
+Hancock,Lakeshore,State Treasurer,,Lynn Fitch,R,177
+Hancock,Lakeshore,State Treasurer,,Connie Moran,D,271
+Hancock,Lakeshore,State Treasurer,,Shawn O'Hara,Reform,25
+Hancock,Clermont Harbor,State Treasurer,,Lynn Fitch,R,101
+Hancock,Clermont Harbor,State Treasurer,,Connie Moran,D,106
+Hancock,Clermont Harbor,State Treasurer,,Shawn O'Hara,Reform,11
+Hancock,Arlington,State Treasurer,,Lynn Fitch,R,116
+Hancock,Arlington,State Treasurer,,Connie Moran,D,92
+Hancock,Arlington,State Treasurer,,Shawn O'Hara,Reform,15
+Hancock,Waveland East,State Treasurer,,Lynn Fitch,R,229
+Hancock,Waveland East,State Treasurer,,Connie Moran,D,237
+Hancock,Waveland East,State Treasurer,,Shawn O'Hara,Reform,23
+Hancock,Lee Town,State Treasurer,,Lynn Fitch,R,305
+Hancock,Lee Town,State Treasurer,,Connie Moran,D,95
+Hancock,Lee Town,State Treasurer,,Shawn O'Hara,Reform,29
+Hancock,Flat Top,State Treasurer,,Lynn Fitch,R,292
+Hancock,Flat Top,State Treasurer,,Connie Moran,D,83
+Hancock,Flat Top,State Treasurer,,Shawn O'Hara,Reform,20
+Hancock,Catahoula,State Treasurer,,Lynn Fitch,R,70
+Hancock,Catahoula,State Treasurer,,Connie Moran,D,23
+Hancock,Catahoula,State Treasurer,,Shawn O'Hara,Reform,3
+Hancock,Pearlington,State Treasurer,,Lynn Fitch,R,168
+Hancock,Pearlington,State Treasurer,,Connie Moran,D,216
+Hancock,Pearlington,State Treasurer,,Shawn O'Hara,Reform,25
+Hancock,Bayou Phillip,State Treasurer,,Lynn Fitch,R,52
+Hancock,Bayou Phillip,State Treasurer,,Connie Moran,D,58
+Hancock,Bayou Phillip,State Treasurer,,Shawn O'Hara,Reform,0
+Hancock,Waveland West,State Treasurer,,Lynn Fitch,R,327
+Hancock,Waveland West,State Treasurer,,Connie Moran,D,285
+Hancock,Waveland West,State Treasurer,,Shawn O'Hara,Reform,31
+Hancock,Crane Creek,State Treasurer,,Lynn Fitch,R,368
+Hancock,Crane Creek,State Treasurer,,Connie Moran,D,215
+Hancock,Crane Creek,State Treasurer,,Shawn O'Hara,Reform,31
+Hancock,Dedeaux,State Treasurer,,Lynn Fitch,R,213
+Hancock,Dedeaux,State Treasurer,,Connie Moran,D,123
+Hancock,Dedeaux,State Treasurer,,Shawn O'Hara,Reform,10
+Hancock,North Bay West,State Treasurer,,Lynn Fitch,R,329
+Hancock,North Bay West,State Treasurer,,Connie Moran,D,213
+Hancock,North Bay West,State Treasurer,,Shawn O'Hara,Reform,14
+Hancock,Diamondhead East,State Treasurer,,Lynn Fitch,R,1285
+Hancock,Diamondhead East,State Treasurer,,Connie Moran,D,603
+Hancock,Diamondhead East,State Treasurer,,Shawn O'Hara,Reform,69
+Hancock,Courthouse,State Treasurer,,Lynn Fitch,R,64
+Hancock,Courthouse,State Treasurer,,Connie Moran,D,66
+Hancock,Courthouse,State Treasurer,,Shawn O'Hara,Reform,3
+Hancock,Kiln West,State Treasurer,,Lynn Fitch,R,279
+Hancock,Kiln West,State Treasurer,,Connie Moran,D,184
+Hancock,Kiln West,State Treasurer,,Shawn O'Hara,Reform,21
+Hancock,West Shoreline Park,State Treasurer,,Lynn Fitch,R,80
+Hancock,West Shoreline Park,State Treasurer,,Connie Moran,D,89
+Hancock,West Shoreline Park,State Treasurer,,Shawn O'Hara,Reform,12
+Hancock,City Hall,State Treasurer,,Lynn Fitch,R,67
+Hancock,City Hall,State Treasurer,,Connie Moran,D,284
+Hancock,City Hall,State Treasurer,,Shawn O'Hara,Reform,10
+Hancock,South Bay,State Treasurer,,Lynn Fitch,R,346
+Hancock,South Bay,State Treasurer,,Connie Moran,D,369
+Hancock,South Bay,State Treasurer,,Shawn O'Hara,Reform,27
+Hancock,North Bay East,State Treasurer,,Lynn Fitch,R,178
+Hancock,North Bay East,State Treasurer,,Connie Moran,D,207
+Hancock,North Bay East,State Treasurer,,Shawn O'Hara,Reform,12
+Hancock,Standard,State Treasurer,,Lynn Fitch,R,309
+Hancock,Standard,State Treasurer,,Connie Moran,D,214
+Hancock,Standard,State Treasurer,,Shawn O'Hara,Reform,21
+Hancock,Edwardsville,State Treasurer,,Lynn Fitch,R,140
+Hancock,Edwardsville,State Treasurer,,Connie Moran,D,64
+Hancock,Edwardsville,State Treasurer,,Shawn O'Hara,Reform,16
+Hancock,Fenton,State Treasurer,,Lynn Fitch,R,297
+Hancock,Fenton,State Treasurer,,Connie Moran,D,183
+Hancock,Fenton,State Treasurer,,Shawn O'Hara,Reform,15
+Hancock,Kiln East,State Treasurer,,Lynn Fitch,R,222
+Hancock,Kiln East,State Treasurer,,Connie Moran,D,140
+Hancock,Kiln East,State Treasurer,,Shawn O'Hara,Reform,18
+Hancock,Diamondhead West,State Treasurer,,Lynn Fitch,R,474
+Hancock,Diamondhead West,State Treasurer,,Connie Moran,D,231
+Hancock,Diamondhead West,State Treasurer,,Shawn O'Hara,Reform,30
+Hancock,Garden Isle,State Treasurer,,Lynn Fitch,R,167
+Hancock,Garden Isle,State Treasurer,,Connie Moran,D,126
+Hancock,Garden Isle,State Treasurer,,Shawn O'Hara,Reform,9
+Hancock,Ansley,Commissioner of Agriculture & Commerce,,Joel Gill,D,40
+Hancock,Ansley,Commissioner of Agriculture & Commerce,,Cindy Hyde-Smith,R,42
+Hancock,Ansley,Commissioner of Agriculture & Commerce,,Cathy L. Toole,Reform,8
+Hancock,Lakeshore,Commissioner of Agriculture & Commerce,,Joel Gill,D,175
+Hancock,Lakeshore,Commissioner of Agriculture & Commerce,,Cindy Hyde-Smith,R,246
+Hancock,Lakeshore,Commissioner of Agriculture & Commerce,,Cathy L. Toole,Reform,41
+Hancock,Clermont Harbor,Commissioner of Agriculture & Commerce,,Joel Gill,D,66
+Hancock,Clermont Harbor,Commissioner of Agriculture & Commerce,,Cindy Hyde-Smith,R,130
+Hancock,Clermont Harbor,Commissioner of Agriculture & Commerce,,Cathy L. Toole,Reform,17
+Hancock,Arlington,Commissioner of Agriculture & Commerce,,Joel Gill,D,70
+Hancock,Arlington,Commissioner of Agriculture & Commerce,,Cindy Hyde-Smith,R,130
+Hancock,Arlington,Commissioner of Agriculture & Commerce,,Cathy L. Toole,Reform,19
+Hancock,Waveland East,Commissioner of Agriculture & Commerce,,Joel Gill,D,187
+Hancock,Waveland East,Commissioner of Agriculture & Commerce,,Cindy Hyde-Smith,R,257
+Hancock,Waveland East,Commissioner of Agriculture & Commerce,,Cathy L. Toole,Reform,33
+Hancock,Lee Town,Commissioner of Agriculture & Commerce,,Joel Gill,D,49
+Hancock,Lee Town,Commissioner of Agriculture & Commerce,,Cindy Hyde-Smith,R,365
+Hancock,Lee Town,Commissioner of Agriculture & Commerce,,Cathy L. Toole,Reform,17
+Hancock,Flat Top,Commissioner of Agriculture & Commerce,,Joel Gill,D,65
+Hancock,Flat Top,Commissioner of Agriculture & Commerce,,Cindy Hyde-Smith,R,314
+Hancock,Flat Top,Commissioner of Agriculture & Commerce,,Cathy L. Toole,Reform,18
+Hancock,Catahoula,Commissioner of Agriculture & Commerce,,Joel Gill,D,9
+Hancock,Catahoula,Commissioner of Agriculture & Commerce,,Cindy Hyde-Smith,R,85
+Hancock,Catahoula,Commissioner of Agriculture & Commerce,,Cathy L. Toole,Reform,1
+Hancock,Pearlington,Commissioner of Agriculture & Commerce,,Joel Gill,D,180
+Hancock,Pearlington,Commissioner of Agriculture & Commerce,,Cindy Hyde-Smith,R,187
+Hancock,Pearlington,Commissioner of Agriculture & Commerce,,Cathy L. Toole,Reform,31
+Hancock,Bayou Phillip,Commissioner of Agriculture & Commerce,,Joel Gill,D,37
+Hancock,Bayou Phillip,Commissioner of Agriculture & Commerce,,Cindy Hyde-Smith,R,67
+Hancock,Bayou Phillip,Commissioner of Agriculture & Commerce,,Cathy L. Toole,Reform,3
+Hancock,Waveland West,Commissioner of Agriculture & Commerce,,Joel Gill,D,212
+Hancock,Waveland West,Commissioner of Agriculture & Commerce,,Cindy Hyde-Smith,R,394
+Hancock,Waveland West,Commissioner of Agriculture & Commerce,,Cathy L. Toole,Reform,24
+Hancock,Crane Creek,Commissioner of Agriculture & Commerce,,Joel Gill,D,131
+Hancock,Crane Creek,Commissioner of Agriculture & Commerce,,Cindy Hyde-Smith,R,458
+Hancock,Crane Creek,Commissioner of Agriculture & Commerce,,Cathy L. Toole,Reform,21
+Hancock,Dedeaux,Commissioner of Agriculture & Commerce,,Joel Gill,D,71
+Hancock,Dedeaux,Commissioner of Agriculture & Commerce,,Cindy Hyde-Smith,R,259
+Hancock,Dedeaux,Commissioner of Agriculture & Commerce,,Cathy L. Toole,Reform,9
+Hancock,North Bay West,Commissioner of Agriculture & Commerce,,Joel Gill,D,135
+Hancock,North Bay West,Commissioner of Agriculture & Commerce,,Cindy Hyde-Smith,R,376
+Hancock,North Bay West,Commissioner of Agriculture & Commerce,,Cathy L. Toole,Reform,26
+Hancock,Diamondhead East,Commissioner of Agriculture & Commerce,,Joel Gill,D,337
+Hancock,Diamondhead East,Commissioner of Agriculture & Commerce,,Cindy Hyde-Smith,R,1506
+Hancock,Diamondhead East,Commissioner of Agriculture & Commerce,,Cathy L. Toole,Reform,68
+Hancock,Courthouse,Commissioner of Agriculture & Commerce,,Joel Gill,D,40
+Hancock,Courthouse,Commissioner of Agriculture & Commerce,,Cindy Hyde-Smith,R,88
+Hancock,Courthouse,Commissioner of Agriculture & Commerce,,Cathy L. Toole,Reform,4
+Hancock,Kiln West,Commissioner of Agriculture & Commerce,,Joel Gill,D,111
+Hancock,Kiln West,Commissioner of Agriculture & Commerce,,Cindy Hyde-Smith,R,352
+Hancock,Kiln West,Commissioner of Agriculture & Commerce,,Cathy L. Toole,Reform,16
+Hancock,West Shoreline Park,Commissioner of Agriculture & Commerce,,Joel Gill,D,69
+Hancock,West Shoreline Park,Commissioner of Agriculture & Commerce,,Cindy Hyde-Smith,R,88
+Hancock,West Shoreline Park,Commissioner of Agriculture & Commerce,,Cathy L. Toole,Reform,19
+Hancock,City Hall,Commissioner of Agriculture & Commerce,,Joel Gill,D,262
+Hancock,City Hall,Commissioner of Agriculture & Commerce,,Cindy Hyde-Smith,R,79
+Hancock,City Hall,Commissioner of Agriculture & Commerce,,Cathy L. Toole,Reform,13
+Hancock,South Bay,Commissioner of Agriculture & Commerce,,Joel Gill,D,258
+Hancock,South Bay,Commissioner of Agriculture & Commerce,,Cindy Hyde-Smith,R,431
+Hancock,South Bay,Commissioner of Agriculture & Commerce,,Cathy L. Toole,Reform,33
+Hancock,North Bay East,Commissioner of Agriculture & Commerce,,Joel Gill,D,160
+Hancock,North Bay East,Commissioner of Agriculture & Commerce,,Cindy Hyde-Smith,R,199
+Hancock,North Bay East,Commissioner of Agriculture & Commerce,,Cathy L. Toole,Reform,25
+Hancock,Standard,Commissioner of Agriculture & Commerce,,Joel Gill,D,125
+Hancock,Standard,Commissioner of Agriculture & Commerce,,Cindy Hyde-Smith,R,383
+Hancock,Standard,Commissioner of Agriculture & Commerce,,Cathy L. Toole,Reform,26
+Hancock,Edwardsville,Commissioner of Agriculture & Commerce,,Joel Gill,D,40
+Hancock,Edwardsville,Commissioner of Agriculture & Commerce,,Cindy Hyde-Smith,R,152
+Hancock,Edwardsville,Commissioner of Agriculture & Commerce,,Cathy L. Toole,Reform,21
+Hancock,Fenton,Commissioner of Agriculture & Commerce,,Joel Gill,D,100
+Hancock,Fenton,Commissioner of Agriculture & Commerce,,Cindy Hyde-Smith,R,370
+Hancock,Fenton,Commissioner of Agriculture & Commerce,,Cathy L. Toole,Reform,22
+Hancock,Kiln East,Commissioner of Agriculture & Commerce,,Joel Gill,D,68
+Hancock,Kiln East,Commissioner of Agriculture & Commerce,,Cindy Hyde-Smith,R,292
+Hancock,Kiln East,Commissioner of Agriculture & Commerce,,Cathy L. Toole,Reform,17
+Hancock,Diamondhead West,Commissioner of Agriculture & Commerce,,Joel Gill,D,125
+Hancock,Diamondhead West,Commissioner of Agriculture & Commerce,,Cindy Hyde-Smith,R,550
+Hancock,Diamondhead West,Commissioner of Agriculture & Commerce,,Cathy L. Toole,Reform,38
+Hancock,Garden Isle,Commissioner of Agriculture & Commerce,,Joel Gill,D,77
+Hancock,Garden Isle,Commissioner of Agriculture & Commerce,,Cindy Hyde-Smith,R,206
+Hancock,Garden Isle,Commissioner of Agriculture & Commerce,,Cathy L. Toole,Reform,14
+Hancock,Ansley,Commissioner of Insurance,,Mike Chaney,R,51
+Hancock,Ansley,Commissioner of Insurance,,Louis Fondren,D,28
+Hancock,Ansley,Commissioner of Insurance,,Barbara Dale Washer,Reform,10
+Hancock,Lakeshore,Commissioner of Insurance,,Mike Chaney,R,312
+Hancock,Lakeshore,Commissioner of Insurance,,Louis Fondren,D,99
+Hancock,Lakeshore,Commissioner of Insurance,,Barbara Dale Washer,Reform,54
+Hancock,Clermont Harbor,Commissioner of Insurance,,Mike Chaney,R,139
+Hancock,Clermont Harbor,Commissioner of Insurance,,Louis Fondren,D,55
+Hancock,Clermont Harbor,Commissioner of Insurance,,Barbara Dale Washer,Reform,18
+Hancock,Arlington,Commissioner of Insurance,,Mike Chaney,R,138
+Hancock,Arlington,Commissioner of Insurance,,Louis Fondren,D,58
+Hancock,Arlington,Commissioner of Insurance,,Barbara Dale Washer,Reform,24
+Hancock,Waveland East,Commissioner of Insurance,,Mike Chaney,R,303
+Hancock,Waveland East,Commissioner of Insurance,,Louis Fondren,D,149
+Hancock,Waveland East,Commissioner of Insurance,,Barbara Dale Washer,Reform,37
+Hancock,Lee Town,Commissioner of Insurance,,Mike Chaney,R,355
+Hancock,Lee Town,Commissioner of Insurance,,Louis Fondren,D,45
+Hancock,Lee Town,Commissioner of Insurance,,Barbara Dale Washer,Reform,27
+Hancock,Flat Top,Commissioner of Insurance,,Mike Chaney,R,324
+Hancock,Flat Top,Commissioner of Insurance,,Louis Fondren,D,34
+Hancock,Flat Top,Commissioner of Insurance,,Barbara Dale Washer,Reform,32
+Hancock,Catahoula,Commissioner of Insurance,,Mike Chaney,R,77
+Hancock,Catahoula,Commissioner of Insurance,,Louis Fondren,D,11
+Hancock,Catahoula,Commissioner of Insurance,,Barbara Dale Washer,Reform,6
+Hancock,Pearlington,Commissioner of Insurance,,Mike Chaney,R,206
+Hancock,Pearlington,Commissioner of Insurance,,Louis Fondren,D,162
+Hancock,Pearlington,Commissioner of Insurance,,Barbara Dale Washer,Reform,33
+Hancock,Bayou Phillip,Commissioner of Insurance,,Mike Chaney,R,72
+Hancock,Bayou Phillip,Commissioner of Insurance,,Louis Fondren,D,28
+Hancock,Bayou Phillip,Commissioner of Insurance,,Barbara Dale Washer,Reform,7
+Hancock,Waveland West,Commissioner of Insurance,,Mike Chaney,R,418
+Hancock,Waveland West,Commissioner of Insurance,,Louis Fondren,D,169
+Hancock,Waveland West,Commissioner of Insurance,,Barbara Dale Washer,Reform,46
+Hancock,Crane Creek,Commissioner of Insurance,,Mike Chaney,R,476
+Hancock,Crane Creek,Commissioner of Insurance,,Louis Fondren,D,91
+Hancock,Crane Creek,Commissioner of Insurance,,Barbara Dale Washer,Reform,36
+Hancock,Dedeaux,Commissioner of Insurance,,Mike Chaney,R,267
+Hancock,Dedeaux,Commissioner of Insurance,,Louis Fondren,D,46
+Hancock,Dedeaux,Commissioner of Insurance,,Barbara Dale Washer,Reform,24
+Hancock,North Bay West,Commissioner of Insurance,,Mike Chaney,R,406
+Hancock,North Bay West,Commissioner of Insurance,,Louis Fondren,D,109
+Hancock,North Bay West,Commissioner of Insurance,,Barbara Dale Washer,Reform,29
+Hancock,Diamondhead East,Commissioner of Insurance,,Mike Chaney,R,1518
+Hancock,Diamondhead East,Commissioner of Insurance,,Louis Fondren,D,299
+Hancock,Diamondhead East,Commissioner of Insurance,,Barbara Dale Washer,Reform,116
+Hancock,Courthouse,Commissioner of Insurance,,Mike Chaney,R,99
+Hancock,Courthouse,Commissioner of Insurance,,Louis Fondren,D,28
+Hancock,Courthouse,Commissioner of Insurance,,Barbara Dale Washer,Reform,6
+Hancock,Kiln West,Commissioner of Insurance,,Mike Chaney,R,348
+Hancock,Kiln West,Commissioner of Insurance,,Louis Fondren,D,97
+Hancock,Kiln West,Commissioner of Insurance,,Barbara Dale Washer,Reform,36
+Hancock,West Shoreline Park,Commissioner of Insurance,,Mike Chaney,R,105
+Hancock,West Shoreline Park,Commissioner of Insurance,,Louis Fondren,D,54
+Hancock,West Shoreline Park,Commissioner of Insurance,,Barbara Dale Washer,Reform,18
+Hancock,City Hall,Commissioner of Insurance,,Mike Chaney,R,104
+Hancock,City Hall,Commissioner of Insurance,,Louis Fondren,D,228
+Hancock,City Hall,Commissioner of Insurance,,Barbara Dale Washer,Reform,14
+Hancock,South Bay,Commissioner of Insurance,,Mike Chaney,R,456
+Hancock,South Bay,Commissioner of Insurance,,Louis Fondren,D,224
+Hancock,South Bay,Commissioner of Insurance,,Barbara Dale Washer,Reform,52
+Hancock,North Bay East,Commissioner of Insurance,,Mike Chaney,R,235
+Hancock,North Bay East,Commissioner of Insurance,,Louis Fondren,D,135
+Hancock,North Bay East,Commissioner of Insurance,,Barbara Dale Washer,Reform,20
+Hancock,Standard,Commissioner of Insurance,,Mike Chaney,R,397
+Hancock,Standard,Commissioner of Insurance,,Louis Fondren,D,94
+Hancock,Standard,Commissioner of Insurance,,Barbara Dale Washer,Reform,41
+Hancock,Edwardsville,Commissioner of Insurance,,Mike Chaney,R,166
+Hancock,Edwardsville,Commissioner of Insurance,,Louis Fondren,D,25
+Hancock,Edwardsville,Commissioner of Insurance,,Barbara Dale Washer,Reform,25
+Hancock,Fenton,Commissioner of Insurance,,Mike Chaney,R,380
+Hancock,Fenton,Commissioner of Insurance,,Louis Fondren,D,83
+Hancock,Fenton,Commissioner of Insurance,,Barbara Dale Washer,Reform,28
+Hancock,Kiln East,Commissioner of Insurance,,Mike Chaney,R,288
+Hancock,Kiln East,Commissioner of Insurance,,Louis Fondren,D,56
+Hancock,Kiln East,Commissioner of Insurance,,Barbara Dale Washer,Reform,32
+Hancock,Diamondhead West,Commissioner of Insurance,,Mike Chaney,R,551
+Hancock,Diamondhead West,Commissioner of Insurance,,Louis Fondren,D,106
+Hancock,Diamondhead West,Commissioner of Insurance,,Barbara Dale Washer,Reform,57
+Hancock,Garden Isle,Commissioner of Insurance,,Mike Chaney,R,214
+Hancock,Garden Isle,Commissioner of Insurance,,Louis Fondren,D,62
+Hancock,Garden Isle,Commissioner of Insurance,,Barbara Dale Washer,Reform,23
+Hancock,Ansley,State Senate,46,Joe Bye,D,49
+Hancock,Ansley,State Senate,46,Phillip Moran,R,46
+Hancock,Ansley,State Senate,46,James K. 'Ken' Overstreet,C,6
+Hancock,Lakeshore,State Senate,46,Joe Bye,D,161
+Hancock,Lakeshore,State Senate,46,Phillip Moran,R,287
+Hancock,Lakeshore,State Senate,46,James K. 'Ken' Overstreet,C,36
+Hancock,Clermont Harbor,State Senate,46,Joe Bye,D,85
+Hancock,Clermont Harbor,State Senate,46,Phillip Moran,R,122
+Hancock,Clermont Harbor,State Senate,46,James K. 'Ken' Overstreet,C,9
+Hancock,Arlington,State Senate,46,Joe Bye,D,91
+Hancock,Arlington,State Senate,46,Phillip Moran,R,122
+Hancock,Arlington,State Senate,46,James K. 'Ken' Overstreet,C,14
+Hancock,Waveland East,State Senate,46,Joe Bye,D,238
+Hancock,Waveland East,State Senate,46,Phillip Moran,R,236
+Hancock,Waveland East,State Senate,46,James K. 'Ken' Overstreet,C,21
+Hancock,Lee Town,State Senate,46,Joe Bye,D,70
+Hancock,Lee Town,State Senate,46,Phillip Moran,R,337
+Hancock,Lee Town,State Senate,46,James K. 'Ken' Overstreet,C,25
+Hancock,Flat Top,State Senate,46,Joe Bye,D,73
+Hancock,Flat Top,State Senate,46,Phillip Moran,R,310
+Hancock,Flat Top,State Senate,46,James K. 'Ken' Overstreet,C,20
+Hancock,Catahoula,State Senate,46,Joe Bye,D,25
+Hancock,Catahoula,State Senate,46,Phillip Moran,R,69
+Hancock,Catahoula,State Senate,46,James K. 'Ken' Overstreet,C,3
+Hancock,Pearlington,State Senate,46,Joe Bye,D,198
+Hancock,Pearlington,State Senate,46,Phillip Moran,R,193
+Hancock,Pearlington,State Senate,46,James K. 'Ken' Overstreet,C,26
+Hancock,Bayou Phillip,State Senate,46,Joe Bye,D,49
+Hancock,Bayou Phillip,State Senate,46,Phillip Moran,R,64
+Hancock,Bayou Phillip,State Senate,46,James K. 'Ken' Overstreet,C,2
+Hancock,Waveland West,State Senate,46,Joe Bye,D,241
+Hancock,Waveland West,State Senate,46,Phillip Moran,R,374
+Hancock,Waveland West,State Senate,46,James K. 'Ken' Overstreet,C,32
+Hancock,Crane Creek,State Senate,46,Joe Bye,D,132
+Hancock,Crane Creek,State Senate,46,Phillip Moran,R,449
+Hancock,Crane Creek,State Senate,46,James K. 'Ken' Overstreet,C,31
+Hancock,Dedeaux,State Senate,46,Joe Bye,D,80
+Hancock,Dedeaux,State Senate,46,Phillip Moran,R,256
+Hancock,Dedeaux,State Senate,46,James K. 'Ken' Overstreet,C,16
+Hancock,North Bay West,State Senate,46,Joe Bye,D,185
+Hancock,North Bay West,State Senate,46,Phillip Moran,R,347
+Hancock,North Bay West,State Senate,46,James K. 'Ken' Overstreet,C,21
+Hancock,Diamondhead East,State Senate,46,Joe Bye,D,311
+Hancock,Diamondhead East,State Senate,46,Phillip Moran,R,1562
+Hancock,Diamondhead East,State Senate,46,James K. 'Ken' Overstreet,C,83
+Hancock,Courthouse,State Senate,46,Joe Bye,D,38
+Hancock,Courthouse,State Senate,46,Phillip Moran,R,88
+Hancock,Courthouse,State Senate,46,James K. 'Ken' Overstreet,C,9
+Hancock,Kiln West,State Senate,46,Joe Bye,D,131
+Hancock,Kiln West,State Senate,46,Phillip Moran,R,320
+Hancock,Kiln West,State Senate,46,James K. 'Ken' Overstreet,C,32
+Hancock,West Shoreline Park,State Senate,46,Joe Bye,D,85
+Hancock,West Shoreline Park,State Senate,46,Phillip Moran,R,85
+Hancock,West Shoreline Park,State Senate,46,James K. 'Ken' Overstreet,C,12
+Hancock,City Hall,State Senate,46,Joe Bye,D,267
+Hancock,City Hall,State Senate,46,Phillip Moran,R,86
+Hancock,City Hall,State Senate,46,James K. 'Ken' Overstreet,C,6
+Hancock,South Bay,State Senate,46,Joe Bye,D,363
+Hancock,South Bay,State Senate,46,Phillip Moran,R,367
+Hancock,South Bay,State Senate,46,James K. 'Ken' Overstreet,C,20
+Hancock,North Bay East,State Senate,46,Joe Bye,D,172
+Hancock,North Bay East,State Senate,46,Phillip Moran,R,197
+Hancock,North Bay East,State Senate,46,James K. 'Ken' Overstreet,C,16
+Hancock,Standard,State Senate,46,Joe Bye,D,162
+Hancock,Standard,State Senate,46,Phillip Moran,R,365
+Hancock,Standard,State Senate,46,James K. 'Ken' Overstreet,C,26
+Hancock,Edwardsville,State Senate,46,Joe Bye,D,49
+Hancock,Edwardsville,State Senate,46,Phillip Moran,R,156
+Hancock,Edwardsville,State Senate,46,James K. 'Ken' Overstreet,C,18
+Hancock,Fenton,State Senate,46,Joe Bye,D,109
+Hancock,Fenton,State Senate,46,Phillip Moran,R,374
+Hancock,Fenton,State Senate,46,James K. 'Ken' Overstreet,C,15
+Hancock,Kiln East,State Senate,46,Joe Bye,D,84
+Hancock,Kiln East,State Senate,46,Phillip Moran,R,289
+Hancock,Kiln East,State Senate,46,James K. 'Ken' Overstreet,C,20
+Hancock,Diamondhead West,State Senate,46,Joe Bye,D,132
+Hancock,Diamondhead West,State Senate,46,Phillip Moran,R,566
+Hancock,Diamondhead West,State Senate,46,James K. 'Ken' Overstreet,C,36
+Hancock,Garden Isle,State Senate,46,Joe Bye,D,112
+Hancock,Garden Isle,State Senate,46,Phillip Moran,R,176
+Hancock,Garden Isle,State Senate,46,James K. 'Ken' Overstreet,C,19
+Hancock,Ansley,State House,93,Dirk D. Dedeaux,D,33
+Hancock,Ansley,State House,93,John 'Timmy' Ladner,R,33
+Hancock,Lee Town,State House,93,Dirk D. Dedeaux,D,115
+Hancock,Lee Town,State House,93,John 'Timmy' Ladner,R,320
+Hancock,Flat Top,State House,93,Dirk D. Dedeaux,D,140
+Hancock,Flat Top,State House,93,John 'Timmy' Ladner,R,266
+Hancock,Catahoula,State House,93,Dirk D. Dedeaux,D,32
+Hancock,Catahoula,State House,93,John 'Timmy' Ladner,R,65
+Hancock,Pearlington,State House,93,Dirk D. Dedeaux,D,258
+Hancock,Pearlington,State House,93,John 'Timmy' Ladner,R,157
+Hancock,Crane Creek,State House,93,Dirk D. Dedeaux,D,294
+Hancock,Crane Creek,State House,93,John 'Timmy' Ladner,R,325
+Hancock,Dedeaux,State House,93,Dirk D. Dedeaux,D,101
+Hancock,Dedeaux,State House,93,John 'Timmy' Ladner,R,90
+Hancock,Kiln West,State House,93,Dirk D. Dedeaux,D,222
+Hancock,Kiln West,State House,93,John 'Timmy' Ladner,R,266
+Hancock,Standard,State House,93,Dirk D. Dedeaux,D,286
+Hancock,Standard,State House,93,John 'Timmy' Ladner,R,233
+Hancock,Fenton,State House,93,Dirk D. Dedeaux,D,227
+Hancock,Fenton,State House,93,John 'Timmy' Ladner,R,272
+Hancock,Kiln East,State House,93,Dirk D. Dedeaux,D,170
+Hancock,Kiln East,State House,93,John 'Timmy' Ladner,R,216
+Hancock,Crane Creek,State House,95,Jessica Sibley Upshaw,R,0
+Hancock,Dedeaux,State House,95,Jessica Sibley Upshaw,R,142
+Hancock,Diamondhead East,State House,95,Jessica Sibley Upshaw,R,1770
+Hancock,Standard,State House,95,Jessica Sibley Upshaw,R,22
+Hancock,Diamondhead West,State House,95,Jessica Sibley Upshaw,R,664
+Hancock,Ansley,State House,122,David Baria,D,18
+Hancock,Ansley,State House,122,Dorothy Wilcox,R,11
+Hancock,Lakeshore,State House,122,David Baria,D,268
+Hancock,Lakeshore,State House,122,Dorothy Wilcox,R,215
+Hancock,Clermont Harbor,State House,122,David Baria,D,107
+Hancock,Clermont Harbor,State House,122,Dorothy Wilcox,R,113
+Hancock,Arlington,State House,122,David Baria,D,124
+Hancock,Arlington,State House,122,Dorothy Wilcox,R,109
+Hancock,Waveland East,State House,122,David Baria,D,307
+Hancock,Waveland East,State House,122,Dorothy Wilcox,R,193
+Hancock,Bayou Phillip,State House,122,David Baria,D,68
+Hancock,Bayou Phillip,State House,122,Dorothy Wilcox,R,45
+Hancock,Waveland West,State House,122,David Baria,D,385
+Hancock,Waveland West,State House,122,Dorothy Wilcox,R,266
+Hancock,North Bay West,State House,122,David Baria,D,307
+Hancock,North Bay West,State House,122,Dorothy Wilcox,R,247
+Hancock,Courthouse,State House,122,David Baria,D,70
+Hancock,Courthouse,State House,122,Dorothy Wilcox,R,66
+Hancock,West Shoreline Park,State House,122,David Baria,D,101
+Hancock,West Shoreline Park,State House,122,Dorothy Wilcox,R,79
+Hancock,City Hall,State House,122,David Baria,D,302
+Hancock,City Hall,State House,122,Dorothy Wilcox,R,60
+Hancock,South Bay,State House,122,David Baria,D,468
+Hancock,South Bay,State House,122,Dorothy Wilcox,R,287
+Hancock,North Bay East,State House,122,David Baria,D,258
+Hancock,North Bay East,State House,122,Dorothy Wilcox,R,148
+Hancock,Edwardsville,State House,122,David Baria,D,85
+Hancock,Edwardsville,State House,122,Dorothy Wilcox,R,137
+Hancock,Garden Isle,State House,122,David Baria,D,154
+Hancock,Garden Isle,State House,122,Dorothy Wilcox,R,155
+Hancock,Ansley,Measure No. 26 - Definition of a person,,Yes,,42
+Hancock,Lakeshore,Measure No. 26 - Definition of a person,,Yes,,201
+Hancock,Clermont Harbor,Measure No. 26 - Definition of a person,,Yes,,99
+Hancock,Arlington,Measure No. 26 - Definition of a person,,Yes,,80
+Hancock,Waveland East,Measure No. 26 - Definition of a person,,Yes,,182
+Hancock,Lee Town,Measure No. 26 - Definition of a person,,Yes,,313
+Hancock,Flat Top,Measure No. 26 - Definition of a person,,Yes,,253
+Hancock,Catahoula,Measure No. 26 - Definition of a person,,Yes,,60
+Hancock,Pearlington,Measure No. 26 - Definition of a person,,Yes,,199
+Hancock,Bayou Phillip,Measure No. 26 - Definition of a person,,Yes,,51
+Hancock,Waveland West,Measure No. 26 - Definition of a person,,Yes,,263
+Hancock,Crane Creek,Measure No. 26 - Definition of a person,,Yes,,428
+Hancock,Dedeaux,Measure No. 26 - Definition of a person,,Yes,,188
+Hancock,North Bay West,Measure No. 26 - Definition of a person,,Yes,,219
+Hancock,Diamondhead East,Measure No. 26 - Definition of a person,,Yes,,775
+Hancock,Courthouse,Measure No. 26 - Definition of a person,,Yes,,64
+Hancock,Kiln West,Measure No. 26 - Definition of a person,,Yes,,213
+Hancock,West Shoreline Park,Measure No. 26 - Definition of a person,,Yes,,67
+Hancock,City Hall,Measure No. 26 - Definition of a person,,Yes,,112
+Hancock,South Bay,Measure No. 26 - Definition of a person,,Yes,,275
+Hancock,North Bay East,Measure No. 26 - Definition of a person,,Yes,,149
+Hancock,Standard,Measure No. 26 - Definition of a person,,Yes,,275
+Hancock,Edwardsville,Measure No. 26 - Definition of a person,,Yes,,89
+Hancock,Fenton,Measure No. 26 - Definition of a person,,Yes,,240
+Hancock,Kiln East,Measure No. 26 - Definition of a person,,Yes,,198
+Hancock,Diamondhead West,Measure No. 26 - Definition of a person,,Yes,,300
+Hancock,Garden Isle,Measure No. 26 - Definition of a person,,Yes,,130
+Hancock,Ansley,Measure No. 26 - Definition of a person,,No,,46
+Hancock,Lakeshore,Measure No. 26 - Definition of a person,,No,,281
+Hancock,Clermont Harbor,Measure No. 26 - Definition of a person,,No,,112
+Hancock,Arlington,Measure No. 26 - Definition of a person,,No,,146
+Hancock,Waveland East,Measure No. 26 - Definition of a person,,No,,306
+Hancock,Lee Town,Measure No. 26 - Definition of a person,,No,,125
+Hancock,Flat Top,Measure No. 26 - Definition of a person,,No,,151
+Hancock,Catahoula,Measure No. 26 - Definition of a person,,No,,35
+Hancock,Pearlington,Measure No. 26 - Definition of a person,,No,,205
+Hancock,Bayou Phillip,Measure No. 26 - Definition of a person,,No,,64
+Hancock,Waveland West,Measure No. 26 - Definition of a person,,No,,385
+Hancock,Crane Creek,Measure No. 26 - Definition of a person,,No,,181
+Hancock,Dedeaux,Measure No. 26 - Definition of a person,,No,,157
+Hancock,North Bay West,Measure No. 26 - Definition of a person,,No,,330
+Hancock,Diamondhead East,Measure No. 26 - Definition of a person,,No,,1182
+Hancock,Courthouse,Measure No. 26 - Definition of a person,,No,,74
+Hancock,Kiln West,Measure No. 26 - Definition of a person,,No,,271
+Hancock,West Shoreline Park,Measure No. 26 - Definition of a person,,No,,110
+Hancock,City Hall,Measure No. 26 - Definition of a person,,No,,244
+Hancock,South Bay,Measure No. 26 - Definition of a person,,No,,475
+Hancock,North Bay East,Measure No. 26 - Definition of a person,,No,,250
+Hancock,Standard,Measure No. 26 - Definition of a person,,No,,267
+Hancock,Edwardsville,Measure No. 26 - Definition of a person,,No,,130
+Hancock,Fenton,Measure No. 26 - Definition of a person,,No,,244
+Hancock,Kiln East,Measure No. 26 - Definition of a person,,No,,178
+Hancock,Diamondhead West,Measure No. 26 - Definition of a person,,No,,433
+Hancock,Garden Isle,Measure No. 26 - Definition of a person,,No,,175
+Hancock,Ansley,Measure No. 26 - Definition of a person,,Over Votes,,0
+Hancock,Lakeshore,Measure No. 26 - Definition of a person,,Over Votes,,0
+Hancock,Clermont Harbor,Measure No. 26 - Definition of a person,,Over Votes,,0
+Hancock,Arlington,Measure No. 26 - Definition of a person,,Over Votes,,0
+Hancock,Waveland East,Measure No. 26 - Definition of a person,,Over Votes,,0
+Hancock,Lee Town,Measure No. 26 - Definition of a person,,Over Votes,,0
+Hancock,Flat Top,Measure No. 26 - Definition of a person,,Over Votes,,0
+Hancock,Catahoula,Measure No. 26 - Definition of a person,,Over Votes,,0
+Hancock,Pearlington,Measure No. 26 - Definition of a person,,Over Votes,,0
+Hancock,Bayou Phillip,Measure No. 26 - Definition of a person,,Over Votes,,0
+Hancock,Waveland West,Measure No. 26 - Definition of a person,,Over Votes,,0
+Hancock,Crane Creek,Measure No. 26 - Definition of a person,,Over Votes,,0
+Hancock,Dedeaux,Measure No. 26 - Definition of a person,,Over Votes,,0
+Hancock,North Bay West,Measure No. 26 - Definition of a person,,Over Votes,,0
+Hancock,Diamondhead East,Measure No. 26 - Definition of a person,,Over Votes,,0
+Hancock,Courthouse,Measure No. 26 - Definition of a person,,Over Votes,,0
+Hancock,Kiln West,Measure No. 26 - Definition of a person,,Over Votes,,0
+Hancock,West Shoreline Park,Measure No. 26 - Definition of a person,,Over Votes,,0
+Hancock,City Hall,Measure No. 26 - Definition of a person,,Over Votes,,0
+Hancock,South Bay,Measure No. 26 - Definition of a person,,Over Votes,,0
+Hancock,North Bay East,Measure No. 26 - Definition of a person,,Over Votes,,0
+Hancock,Standard,Measure No. 26 - Definition of a person,,Over Votes,,0
+Hancock,Edwardsville,Measure No. 26 - Definition of a person,,Over Votes,,0
+Hancock,Fenton,Measure No. 26 - Definition of a person,,Over Votes,,0
+Hancock,Kiln East,Measure No. 26 - Definition of a person,,Over Votes,,0
+Hancock,Diamondhead West,Measure No. 26 - Definition of a person,,Over Votes,,0
+Hancock,Garden Isle,Measure No. 26 - Definition of a person,,Over Votes,,0
+Hancock,Ansley,Measure No. 26 - Definition of a person,,Under Votes,,4
+Hancock,Lakeshore,Measure No. 26 - Definition of a person,,Under Votes,,20
+Hancock,Clermont Harbor,Measure No. 26 - Definition of a person,,Under Votes,,16
+Hancock,Arlington,Measure No. 26 - Definition of a person,,Under Votes,,9
+Hancock,Waveland East,Measure No. 26 - Definition of a person,,Under Votes,,19
+Hancock,Lee Town,Measure No. 26 - Definition of a person,,Under Votes,,11
+Hancock,Flat Top,Measure No. 26 - Definition of a person,,Under Votes,,11
+Hancock,Catahoula,Measure No. 26 - Definition of a person,,Under Votes,,3
+Hancock,Pearlington,Measure No. 26 - Definition of a person,,Under Votes,,27
+Hancock,Bayou Phillip,Measure No. 26 - Definition of a person,,Under Votes,,6
+Hancock,Waveland West,Measure No. 26 - Definition of a person,,Under Votes,,14
+Hancock,Crane Creek,Measure No. 26 - Definition of a person,,Under Votes,,0
+Hancock,Dedeaux,Measure No. 26 - Definition of a person,,Under Votes,,4
+Hancock,North Bay West,Measure No. 26 - Definition of a person,,Under Votes,,12
+Hancock,Diamondhead East,Measure No. 26 - Definition of a person,,Under Votes,,39
+Hancock,Courthouse,Measure No. 26 - Definition of a person,,Under Votes,,1
+Hancock,Kiln West,Measure No. 26 - Definition of a person,,Under Votes,,8
+Hancock,West Shoreline Park,Measure No. 26 - Definition of a person,,Under Votes,,11
+Hancock,City Hall,Measure No. 26 - Definition of a person,,Under Votes,,12
+Hancock,South Bay,Measure No. 26 - Definition of a person,,Under Votes,,17
+Hancock,North Bay East,Measure No. 26 - Definition of a person,,Under Votes,,14
+Hancock,Standard,Measure No. 26 - Definition of a person,,Under Votes,,0
+Hancock,Edwardsville,Measure No. 26 - Definition of a person,,Under Votes,,8
+Hancock,Fenton,Measure No. 26 - Definition of a person,,Under Votes,,24
+Hancock,Kiln East,Measure No. 26 - Definition of a person,,Under Votes,,19
+Hancock,Diamondhead West,Measure No. 26 - Definition of a person,,Under Votes,,21
+Hancock,Garden Isle,Measure No. 26 - Definition of a person,,Under Votes,,8
+Hancock,Ansley,Measure No. 27 - Voter ID,,Yes,,49
+Hancock,Lakeshore,Measure No. 27 - Voter ID,,Yes,,336
+Hancock,Clermont Harbor,Measure No. 27 - Voter ID,,Yes,,141
+Hancock,Arlington,Measure No. 27 - Voter ID,,Yes,,171
+Hancock,Waveland East,Measure No. 27 - Voter ID,,Yes,,315
+Hancock,Lee Town,Measure No. 27 - Voter ID,,Yes,,297
+Hancock,Flat Top,Measure No. 27 - Voter ID,,Yes,,317
+Hancock,Catahoula,Measure No. 27 - Voter ID,,Yes,,65
+Hancock,Pearlington,Measure No. 27 - Voter ID,,Yes,,239
+Hancock,Bayou Phillip,Measure No. 27 - Voter ID,,Yes,,82
+Hancock,Waveland West,Measure No. 27 - Voter ID,,Yes,,455
+Hancock,Crane Creek,Measure No. 27 - Voter ID,,Yes,,389
+Hancock,Dedeaux,Measure No. 27 - Voter ID,,Yes,,231
+Hancock,North Bay West,Measure No. 27 - Voter ID,,Yes,,414
+Hancock,Diamondhead East,Measure No. 27 - Voter ID,,Yes,,1495
+Hancock,Courthouse,Measure No. 27 - Voter ID,,Yes,,99
+Hancock,Kiln West,Measure No. 27 - Voter ID,,Yes,,320
+Hancock,West Shoreline Park,Measure No. 27 - Voter ID,,Yes,,113
+Hancock,City Hall,Measure No. 27 - Voter ID,,Yes,,138
+Hancock,South Bay,Measure No. 27 - Voter ID,,Yes,,490
+Hancock,North Bay East,Measure No. 27 - Voter ID,,Yes,,249
+Hancock,Standard,Measure No. 27 - Voter ID,,Yes,,333
+Hancock,Edwardsville,Measure No. 27 - Voter ID,,Yes,,152
+Hancock,Fenton,Measure No. 27 - Voter ID,,Yes,,349
+Hancock,Kiln East,Measure No. 27 - Voter ID,,Yes,,268
+Hancock,Diamondhead West,Measure No. 27 - Voter ID,,Yes,,573
+Hancock,Garden Isle,Measure No. 27 - Voter ID,,Yes,,231
+Hancock,Ansley,Measure No. 27 - Voter ID,,No,,38
+Hancock,Lakeshore,Measure No. 27 - Voter ID,,No,,139
+Hancock,Clermont Harbor,Measure No. 27 - Voter ID,,No,,70
+Hancock,Arlington,Measure No. 27 - Voter ID,,No,,52
+Hancock,Waveland East,Measure No. 27 - Voter ID,,No,,18
+Hancock,Lee Town,Measure No. 27 - Voter ID,,No,,135
+Hancock,Flat Top,Measure No. 27 - Voter ID,,No,,81
+Hancock,Catahoula,Measure No. 27 - Voter ID,,No,,31
+Hancock,Pearlington,Measure No. 27 - Voter ID,,No,,172
+Hancock,Bayou Phillip,Measure No. 27 - Voter ID,,No,,26
+Hancock,Waveland West,Measure No. 27 - Voter ID,,No,,192
+Hancock,Crane Creek,Measure No. 27 - Voter ID,,No,,214
+Hancock,Dedeaux,Measure No. 27 - Voter ID,,No,,113
+Hancock,North Bay West,Measure No. 27 - Voter ID,,No,,137
+Hancock,Diamondhead East,Measure No. 27 - Voter ID,,No,,470
+Hancock,Courthouse,Measure No. 27 - Voter ID,,No,,36
+Hancock,Kiln West,Measure No. 27 - Voter ID,,No,,158
+Hancock,West Shoreline Park,Measure No. 27 - Voter ID,,No,,66
+Hancock,City Hall,Measure No. 27 - Voter ID,,No,,209
+Hancock,South Bay,Measure No. 27 - Voter ID,,No,,262
+Hancock,North Bay East,Measure No. 27 - Voter ID,,No,,149
+Hancock,Standard,Measure No. 27 - Voter ID,,No,,202
+Hancock,Edwardsville,Measure No. 27 - Voter ID,,No,,68
+Hancock,Fenton,Measure No. 27 - Voter ID,,No,,144
+Hancock,Kiln East,Measure No. 27 - Voter ID,,No,,113
+Hancock,Diamondhead West,Measure No. 27 - Voter ID,,No,,163
+Hancock,Garden Isle,Measure No. 27 - Voter ID,,No,,72
+Hancock,Ansley,Measure No. 27 - Voter ID,,Over Votes,,0
+Hancock,Lakeshore,Measure No. 27 - Voter ID,,Over Votes,,0
+Hancock,Clermont Harbor,Measure No. 27 - Voter ID,,Over Votes,,0
+Hancock,Arlington,Measure No. 27 - Voter ID,,Over Votes,,0
+Hancock,Waveland East,Measure No. 27 - Voter ID,,Over Votes,,0
+Hancock,Lee Town,Measure No. 27 - Voter ID,,Over Votes,,0
+Hancock,Flat Top,Measure No. 27 - Voter ID,,Over Votes,,0
+Hancock,Catahoula,Measure No. 27 - Voter ID,,Over Votes,,0
+Hancock,Pearlington,Measure No. 27 - Voter ID,,Over Votes,,0
+Hancock,Bayou Phillip,Measure No. 27 - Voter ID,,Over Votes,,0
+Hancock,Waveland West,Measure No. 27 - Voter ID,,Over Votes,,0
+Hancock,Crane Creek,Measure No. 27 - Voter ID,,Over Votes,,0
+Hancock,Dedeaux,Measure No. 27 - Voter ID,,Over Votes,,0
+Hancock,North Bay West,Measure No. 27 - Voter ID,,Over Votes,,0
+Hancock,Diamondhead East,Measure No. 27 - Voter ID,,Over Votes,,0
+Hancock,Courthouse,Measure No. 27 - Voter ID,,Over Votes,,0
+Hancock,Kiln West,Measure No. 27 - Voter ID,,Over Votes,,0
+Hancock,West Shoreline Park,Measure No. 27 - Voter ID,,Over Votes,,0
+Hancock,City Hall,Measure No. 27 - Voter ID,,Over Votes,,0
+Hancock,South Bay,Measure No. 27 - Voter ID,,Over Votes,,0
+Hancock,North Bay East,Measure No. 27 - Voter ID,,Over Votes,,0
+Hancock,Standard,Measure No. 27 - Voter ID,,Over Votes,,0
+Hancock,Edwardsville,Measure No. 27 - Voter ID,,Over Votes,,0
+Hancock,Fenton,Measure No. 27 - Voter ID,,Over Votes,,0
+Hancock,Kiln East,Measure No. 27 - Voter ID,,Over Votes,,0
+Hancock,Diamondhead West,Measure No. 27 - Voter ID,,Over Votes,,0
+Hancock,Garden Isle,Measure No. 27 - Voter ID,,Over Votes,,0
+Hancock,Ansley,Measure No. 27 - Voter ID,,Under Votes,,7
+Hancock,Lakeshore,Measure No. 27 - Voter ID,,Under Votes,,26
+Hancock,Clermont Harbor,Measure No. 27 - Voter ID,,Under Votes,,16
+Hancock,Arlington,Measure No. 27 - Voter ID,,Under Votes,,12
+Hancock,Waveland East,Measure No. 27 - Voter ID,,Under Votes,,14
+Hancock,Lee Town,Measure No. 27 - Voter ID,,Under Votes,,17
+Hancock,Flat Top,Measure No. 27 - Voter ID,,Under Votes,,17
+Hancock,Catahoula,Measure No. 27 - Voter ID,,Under Votes,,2
+Hancock,Pearlington,Measure No. 27 - Voter ID,,Under Votes,,20
+Hancock,Bayou Phillip,Measure No. 27 - Voter ID,,Under Votes,,13
+Hancock,Waveland West,Measure No. 27 - Voter ID,,Under Votes,,14
+Hancock,Crane Creek,Measure No. 27 - Voter ID,,Under Votes,,0
+Hancock,Dedeaux,Measure No. 27 - Voter ID,,Under Votes,,7
+Hancock,North Bay West,Measure No. 27 - Voter ID,,Under Votes,,10
+Hancock,Diamondhead East,Measure No. 27 - Voter ID,,Under Votes,,31
+Hancock,Courthouse,Measure No. 27 - Voter ID,,Under Votes,,4
+Hancock,Kiln West,Measure No. 27 - Voter ID,,Under Votes,,14
+Hancock,West Shoreline Park,Measure No. 27 - Voter ID,,Under Votes,,9
+Hancock,City Hall,Measure No. 27 - Voter ID,,Under Votes,,21
+Hancock,South Bay,Measure No. 27 - Voter ID,,Under Votes,,15
+Hancock,North Bay East,Measure No. 27 - Voter ID,,Under Votes,,15
+Hancock,Standard,Measure No. 27 - Voter ID,,Under Votes,,4
+Hancock,Edwardsville,Measure No. 27 - Voter ID,,Under Votes,,7
+Hancock,Fenton,Measure No. 27 - Voter ID,,Under Votes,,15
+Hancock,Kiln East,Measure No. 27 - Voter ID,,Under Votes,,14
+Hancock,Diamondhead West,Measure No. 27 - Voter ID,,Under Votes,,18
+Hancock,Garden Isle,Measure No. 27 - Voter ID,,Under Votes,,10
+Hancock,Ansley,Measure No. 31 - Eminent Domain,,Yes,,67
+Hancock,Lakeshore,Measure No. 31 - Eminent Domain,,Yes,,327
+Hancock,Clermont Harbor,Measure No. 31 - Eminent Domain,,Yes,,154
+Hancock,Arlington,Measure No. 31 - Eminent Domain,,Yes,,180
+Hancock,Waveland East,Measure No. 31 - Eminent Domain,,Yes,,381
+Hancock,Lee Town,Measure No. 31 - Eminent Domain,,Yes,,367
+Hancock,Flat Top,Measure No. 31 - Eminent Domain,,Yes,,348
+Hancock,Catahoula,Measure No. 31 - Eminent Domain,,Yes,,77
+Hancock,Pearlington,Measure No. 31 - Eminent Domain,,Yes,,294
+Hancock,Bayou Phillip,Measure No. 31 - Eminent Domain,,Yes,,89
+Hancock,Waveland West,Measure No. 31 - Eminent Domain,,Yes,,512
+Hancock,Crane Creek,Measure No. 31 - Eminent Domain,,Yes,,501
+Hancock,Dedeaux,Measure No. 31 - Eminent Domain,,Yes,,252
+Hancock,North Bay West,Measure No. 31 - Eminent Domain,,Yes,,442
+Hancock,Diamondhead East,Measure No. 31 - Eminent Domain,,Yes,,1555
+Hancock,Courthouse,Measure No. 31 - Eminent Domain,,Yes,,112
+Hancock,Kiln West,Measure No. 31 - Eminent Domain,,Yes,,386
+Hancock,West Shoreline Park,Measure No. 31 - Eminent Domain,,Yes,,127
+Hancock,City Hall,Measure No. 31 - Eminent Domain,,Yes,,238
+Hancock,South Bay,Measure No. 31 - Eminent Domain,,Yes,,563
+Hancock,North Bay East,Measure No. 31 - Eminent Domain,,Yes,,323
+Hancock,Standard,Measure No. 31 - Eminent Domain,,Yes,,392
+Hancock,Edwardsville,Measure No. 31 - Eminent Domain,,Yes,,175
+Hancock,Fenton,Measure No. 31 - Eminent Domain,,Yes,,380
+Hancock,Kiln East,Measure No. 31 - Eminent Domain,,Yes,,300
+Hancock,Diamondhead West,Measure No. 31 - Eminent Domain,,Yes,,602
+Hancock,Garden Isle,Measure No. 31 - Eminent Domain,,Yes,,236
+Hancock,Ansley,Measure No. 31 - Eminent Domain,,No,,28
+Hancock,Lakeshore,Measure No. 31 - Eminent Domain,,No,,152
+Hancock,Clermont Harbor,Measure No. 31 - Eminent Domain,,No,,58
+Hancock,Arlington,Measure No. 31 - Eminent Domain,,No,,48
+Hancock,Waveland East,Measure No. 31 - Eminent Domain,,No,,118
+Hancock,Lee Town,Measure No. 31 - Eminent Domain,,No,,72
+Hancock,Flat Top,Measure No. 31 - Eminent Domain,,No,,61
+Hancock,Catahoula,Measure No. 31 - Eminent Domain,,No,,20
+Hancock,Pearlington,Measure No. 31 - Eminent Domain,,No,,115
+Hancock,Bayou Phillip,Measure No. 31 - Eminent Domain,,No,,22
+Hancock,Waveland West,Measure No. 31 - Eminent Domain,,No,,134
+Hancock,Crane Creek,Measure No. 31 - Eminent Domain,,No,,112
+Hancock,Dedeaux,Measure No. 31 - Eminent Domain,,No,,95
+Hancock,North Bay West,Measure No. 31 - Eminent Domain,,No,,112
+Hancock,Diamondhead East,Measure No. 31 - Eminent Domain,,No,,413
+Hancock,Courthouse,Measure No. 31 - Eminent Domain,,No,,26
+Hancock,Kiln West,Measure No. 31 - Eminent Domain,,No,,95
+Hancock,West Shoreline Park,Measure No. 31 - Eminent Domain,,No,,55
+Hancock,City Hall,Measure No. 31 - Eminent Domain,,No,,119
+Hancock,South Bay,Measure No. 31 - Eminent Domain,,No,,191
+Hancock,North Bay East,Measure No. 31 - Eminent Domain,,No,,79
+Hancock,Standard,Measure No. 31 - Eminent Domain,,No,,146
+Hancock,Edwardsville,Measure No. 31 - Eminent Domain,,No,,47
+Hancock,Fenton,Measure No. 31 - Eminent Domain,,No,,117
+Hancock,Kiln East,Measure No. 31 - Eminent Domain,,No,,82
+Hancock,Diamondhead West,Measure No. 31 - Eminent Domain,,No,,138
+Hancock,Garden Isle,Measure No. 31 - Eminent Domain,,No,,72
+Hancock,Ansley,Measure No. 31 - Eminent Domain,,Over Votes,,0
+Hancock,Lakeshore,Measure No. 31 - Eminent Domain,,Over Votes,,0
+Hancock,Clermont Harbor,Measure No. 31 - Eminent Domain,,Over Votes,,0
+Hancock,Arlington,Measure No. 31 - Eminent Domain,,Over Votes,,0
+Hancock,Waveland East,Measure No. 31 - Eminent Domain,,Over Votes,,0
+Hancock,Lee Town,Measure No. 31 - Eminent Domain,,Over Votes,,0
+Hancock,Flat Top,Measure No. 31 - Eminent Domain,,Over Votes,,0
+Hancock,Catahoula,Measure No. 31 - Eminent Domain,,Over Votes,,0
+Hancock,Pearlington,Measure No. 31 - Eminent Domain,,Over Votes,,0
+Hancock,Bayou Phillip,Measure No. 31 - Eminent Domain,,Over Votes,,0
+Hancock,Waveland West,Measure No. 31 - Eminent Domain,,Over Votes,,0
+Hancock,Crane Creek,Measure No. 31 - Eminent Domain,,Over Votes,,0
+Hancock,Dedeaux,Measure No. 31 - Eminent Domain,,Over Votes,,0
+Hancock,North Bay West,Measure No. 31 - Eminent Domain,,Over Votes,,0
+Hancock,Diamondhead East,Measure No. 31 - Eminent Domain,,Over Votes,,0
+Hancock,Courthouse,Measure No. 31 - Eminent Domain,,Over Votes,,0
+Hancock,Kiln West,Measure No. 31 - Eminent Domain,,Over Votes,,0
+Hancock,West Shoreline Park,Measure No. 31 - Eminent Domain,,Over Votes,,0
+Hancock,City Hall,Measure No. 31 - Eminent Domain,,Over Votes,,0
+Hancock,South Bay,Measure No. 31 - Eminent Domain,,Over Votes,,0
+Hancock,North Bay East,Measure No. 31 - Eminent Domain,,Over Votes,,0
+Hancock,Standard,Measure No. 31 - Eminent Domain,,Over Votes,,0
+Hancock,Edwardsville,Measure No. 31 - Eminent Domain,,Over Votes,,0
+Hancock,Fenton,Measure No. 31 - Eminent Domain,,Over Votes,,0
+Hancock,Kiln East,Measure No. 31 - Eminent Domain,,Over Votes,,0
+Hancock,Diamondhead West,Measure No. 31 - Eminent Domain,,Over Votes,,0
+Hancock,Garden Isle,Measure No. 31 - Eminent Domain,,Over Votes,,0
+Hancock,Ansley,Measure No. 31 - Eminent Domain,,Under Votes,,4
+Hancock,Lakeshore,Measure No. 31 - Eminent Domain,,Under Votes,,23
+Hancock,Clermont Harbor,Measure No. 31 - Eminent Domain,,Under Votes,,15
+Hancock,Arlington,Measure No. 31 - Eminent Domain,,Under Votes,,7
+Hancock,Waveland East,Measure No. 31 - Eminent Domain,,Under Votes,,8
+Hancock,Lee Town,Measure No. 31 - Eminent Domain,,Under Votes,,10
+Hancock,Flat Top,Measure No. 31 - Eminent Domain,,Under Votes,,6
+Hancock,Catahoula,Measure No. 31 - Eminent Domain,,Under Votes,,1
+Hancock,Pearlington,Measure No. 31 - Eminent Domain,,Under Votes,,22
+Hancock,Bayou Phillip,Measure No. 31 - Eminent Domain,,Under Votes,,10
+Hancock,Waveland West,Measure No. 31 - Eminent Domain,,Under Votes,,16
+Hancock,Crane Creek,Measure No. 31 - Eminent Domain,,Under Votes,,0
+Hancock,Dedeaux,Measure No. 31 - Eminent Domain,,Under Votes,,5
+Hancock,North Bay West,Measure No. 31 - Eminent Domain,,Under Votes,,7
+Hancock,Diamondhead East,Measure No. 31 - Eminent Domain,,Under Votes,,28
+Hancock,Courthouse,Measure No. 31 - Eminent Domain,,Under Votes,,1
+Hancock,Kiln West,Measure No. 31 - Eminent Domain,,Under Votes,,11
+Hancock,West Shoreline Park,Measure No. 31 - Eminent Domain,,Under Votes,,6
+Hancock,City Hall,Measure No. 31 - Eminent Domain,,Under Votes,,11
+Hancock,South Bay,Measure No. 31 - Eminent Domain,,Under Votes,,13
+Hancock,North Bay East,Measure No. 31 - Eminent Domain,,Under Votes,,11
+Hancock,Standard,Measure No. 31 - Eminent Domain,,Under Votes,,3
+Hancock,Edwardsville,Measure No. 31 - Eminent Domain,,Under Votes,,5
+Hancock,Fenton,Measure No. 31 - Eminent Domain,,Under Votes,,11
+Hancock,Kiln East,Measure No. 31 - Eminent Domain,,Under Votes,,13
+Hancock,Diamondhead West,Measure No. 31 - Eminent Domain,,Under Votes,,14
+Hancock,Garden Isle,Measure No. 31 - Eminent Domain,,Under Votes,,5

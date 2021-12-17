@@ -1,41 +1,39 @@
-page,candidate,office,district,party,county,precinct,votes
-2,Tate Reeves,Governor,,R,Copiah,Beauregard,75
-2,Bill Waller Jr.,Governor,,R,Copiah,Beauregard,55
-2,Tate Reeves,Governor,,R,Copiah,Carpenter,14
-2,Bill Waller Jr.,Governor,,R,Copiah,Carpenter,6
-2,Tate Reeves,Governor,,R,Copiah,Centerpoint,66
-2,Bill Waller Jr.,Governor,,R,Copiah,Centerpoint,32
-2,Tate Reeves,Governor,,R,Copiah,Crystal Springs East,234
-2,Bill Waller Jr.,Governor,,R,Copiah,Crystal Springs East,101
-2,Tate Reeves,Governor,,R,Copiah,Crystal Springs North,16
-2,Tate Reeves,Governor,,R,Copiah,Crystal Springs North,10
-2,Bill Waller Jr.,Governor,,R,Copiah,Crystal Springs South,58
-2,Tate Reeves,Governor,,R,Copiah,Crystal Springs South,39
-2,Bill Waller Jr.,Governor,,R,Copiah,Crystal Springs West,92
-2,Tate Reeves,Governor,,R,Copiah,Crystal Springs West,56
-2,Bill Waller Jr.,Governor,,R,Copiah,Dentville,25
-2,Tate Reeves,Governor,,R,Copiah,Dentville,11
-2,Bill Waller Jr.,Governor,,R,Copiah,Gallman,112
-2,Tate Reeves,Governor,,R,Copiah,Gallman,64
-2,Tate Reeves,Governor,,R,Copiah,Georgetown North,18
-2,Bill Waller Jr.,Governor,,R,Copiah,Georgetown North,4
-2,Tate Reeves,Governor,,R,Copiah,Georgetown South,34
-2,Bill Waller Jr.,Governor,,R,Copiah,Georgetown South,13
-3,Tate Reeves,Governor,,R,Copiah,Hazlehurst East,4
-3,Bill Waller Jr.,Governor,,R,Copiah,Hazlehurst East,4
-3,Tate Reeves,Governor,,R,Copiah,Hazlehurst North,2
-3,Bill Waller Jr.,Governor,,R,Copiah,Hazlehurst North,0
-3,Tate Reeves,Governor,,R,Copiah,Hazlehurst South,11
-3,Tate Reeves,Governor,,R,Copiah,Hazlehurst South,12
-3,Bill Waller Jr.,Governor,,R,Copiah,Hazlehurst West,24
-3,Tate Reeves,Governor,,R,Copiah,Hazlehurst West,23
-3,Bill Waller Jr.,Governor,,R,Copiah,Martinsville,38
-3,Tate Reeves,Governor,,R,Copiah,Martinsville,18
-3,Bill Waller Jr.,Governor,,R,Copiah,Shady Grove,37
-3,Tate Reeves,Governor,,R,Copiah,Shady Grove,26
-3,Bill Waller Jr.,Governor,,R,Copiah,Stronghope Union,43
-3,Tate Reeves,Governor,,R,Copiah,Stronghope Union,15
-3,Tate Reeves,Governor,,R,Copiah,Wesson,94
-3,Bill Waller Jr.,Governor,,R,Copiah,Wesson,95
-3,Tate Reeves,Governor,,R,Copiah,TOTAL,997
-3,Bill Waller Jr.,Governor,,R,Copiah,TOTAL,584
+county,precinct,office,district,candidate,party,votes
+Copiah,Beauregard,Governor,,Tate Reeves,R,75
+Copiah,Beauregard,Governor,,Bill Waller Jr.,R,55
+Copiah,Carpenter,Governor,,Tate Reeves,R,14
+Copiah,Carpenter,Governor,,Bill Waller Jr.,R,6
+Copiah,Centerpoint,Governor,,Tate Reeves,R,66
+Copiah,Centerpoint,Governor,,Bill Waller Jr.,R,32
+Copiah,Crystal Springs East,Governor,,Tate Reeves,R,234
+Copiah,Crystal Springs East,Governor,,Bill Waller Jr.,R,101
+Copiah,Crystal Springs North,Governor,,Tate Reeves,R,16
+Copiah,Crystal Springs North,Governor,,Bill Waller Jr.,R,10
+Copiah,Crystal Springs South,Governor,,Tate Reeves,R,58
+Copiah,Crystal Springs South,Governor,,Bill Waller Jr.,R,39
+Copiah,Crystal Springs West,Governor,,Tate Reeves,R,92
+Copiah,Crystal Springs West,Governor,,Bill Waller Jr.,R,56
+Copiah,Dentville,Governor,,Bill Waller Jr.,R,11
+Copiah,Dentville,Governor,,Tate Reeves,R,25
+Copiah,Gallman,Governor,,Bill Waller Jr.,R,64
+Copiah,Gallman,Governor,,Tate Reeves,R,112
+Copiah,Georgetown North,Governor,,Tate Reeves,R,18
+Copiah,Georgetown North,Governor,,Bill Waller Jr.,R,4
+Copiah,Georgetown South,Governor,,Tate Reeves,R,34
+Copiah,Georgetown South,Governor,,Bill Waller Jr.,R,13
+Copiah,Hazlehurst East,Governor,,Tate Reeves,R,4
+Copiah,Hazlehurst East,Governor,,Bill Waller Jr.,R,4
+Copiah,Hazlehurst North,Governor,,Tate Reeves,R,2
+Copiah,Hazlehurst North,Governor,,Bill Waller Jr.,R,0
+Copiah,Hazlehurst South,Governor,,Tate Reeves,R,11
+Copiah,Hazlehurst South,Governor,,Bill Waller Jr.,R,12
+Copiah,Hazlehurst West,Governor,,Tate Reeves,R,24
+Copiah,Hazlehurst West,Governor,,Bill Waller Jr.,R,23
+Copiah,Martinsville,Governor,,Bill Waller Jr.,R,38
+Copiah,Martinsville,Governor,,Tate Reeves,R,18
+Copiah,Shady Grove,Governor,,Bill Waller Jr.,R,37
+Copiah,Shady Grove,Governor,,Tate Reeves,R,26
+Copiah,Stronghope Union,Governor,,Bill Waller Jr.,R,43
+Copiah,Stronghope Union,Governor,,Tate Reeves,R,15
+Copiah,Wesson,Governor,,Tate Reeves,R,94
+Copiah,Wesson,Governor,,Bill Waller Jr.,R,95
