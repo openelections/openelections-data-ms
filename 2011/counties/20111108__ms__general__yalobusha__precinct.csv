@@ -197,17 +197,17 @@ Yalobusha,Five Tillatoba,Commissioner of Agriculture & Commerce,,Reform,Cathy L.
 Yalobusha,Five Tillatoba,Commissioner of Insurance,,Republican,Mike Chaney,131
 Yalobusha,Five Tillatoba,Commissioner of Insurance,,Democrat,Louis Fondren,37
 Yalobusha,Five Tillatoba,Commissioner of Insurance,,Reform,Barbara Dale Washer,10
-Yalobusha,Beat One North,State Senate,09,Democrat,Gray Tollison,595
-Yalobusha,Beat One South,State Senate,09,Democrat,Gray Tollison,242
-Yalobusha,Beat Two Water Valley,State Senate,09,Democrat,Gray Tollison,694
-Yalobusha,Three North West,State Senate,09,Democrat,Gray Tollison,521
-Yalobusha,Three Sylva Rena,State Senate,09,Democrat,Gray Tollison,314
-Yalobusha,Four Coffeeville,State Senate,09,Democrat,Gray Tollison,341
-Yalobusha,Four Oakland,State Senate,09,Democrat,Gray Tollison,533
-Yalobusha,Five Coffeeville,State Senate,09,Democrat,Gray Tollison,445
-Yalobusha,Five Scobey,State Senate,09,Democrat,Gray Tollison,134
-Yalobusha,Five Scuna - Vann's Mill,State Senate,09,Democrat,Gray Tollison,101
-Yalobusha,Five Tillatoba,State Senate,09,Democrat,Gray Tollison,160
+Yalobusha,Beat One North,State Senate,9,Democrat,Gray Tollison,595
+Yalobusha,Beat One South,State Senate,9,Democrat,Gray Tollison,242
+Yalobusha,Beat Two Water Valley,State Senate,9,Democrat,Gray Tollison,694
+Yalobusha,Three North West,State Senate,9,Democrat,Gray Tollison,521
+Yalobusha,Three Sylva Rena,State Senate,9,Democrat,Gray Tollison,314
+Yalobusha,Four Coffeeville,State Senate,9,Democrat,Gray Tollison,341
+Yalobusha,Four Oakland,State Senate,9,Democrat,Gray Tollison,533
+Yalobusha,Five Coffeeville,State Senate,9,Democrat,Gray Tollison,445
+Yalobusha,Five Scobey,State Senate,9,Democrat,Gray Tollison,134
+Yalobusha,Five Scuna - Vann's Mill,State Senate,9,Democrat,Gray Tollison,101
+Yalobusha,Five Tillatoba,State Senate,9,Democrat,Gray Tollison,160
 Yalobusha,Four Coffeeville,State House,24,Republican,Sidney W. Bondurant,0
 Yalobusha,Five Coffeeville,State House,24,Republican,Sidney W. Bondurant,270
 Yalobusha,Five Scobey,State House,24,Republican,Sidney W. Bondurant,82
@@ -248,27 +248,135 @@ Yalobusha,Four Oakland,State House,33,Libertarian,Sean T. Holmes,13
 Yalobusha,Five Coffeeville,State House,33,Libertarian,Sean T. Holmes,0
 Yalobusha,Five Scuna - Vann's Mill,State House,33,Libertarian,Sean T. Holmes,0
 Yalobusha,Five Tillatoba,State House,33,Libertarian,Sean T. Holmes,1
-Yalobusha,,Governor,,Republican,Phil Bryant,2749
-Yalobusha,,Governor,,Democrat,Johnny L. DuPree,2025
-Yalobusha,,Lieutenant Governor,,Republican,Tate Reeves,3320
-Yalobusha,,Lieutenant Governor,,Reform,Tracella Lou O'Hara Hill,1065
-Yalobusha,,Secretary of State,,Republican,Delbert Hosemann,3773
-Yalobusha,,Attorney General,,Democrat,Jim Hood,3036
-Yalobusha,,Attorney General,,Republican,Steve Simpson,1710
-Yalobusha,,State Auditor,,Republican,Stacey E. Pickering,2919
-Yalobusha,,State Auditor,,Reform,Ashley Norwood,1364
-Yalobusha,,Treasurer,,Republican,Lynn Fitch,2660
-Yalobusha,,Treasurer,,Democrat,Connie Moran,1880
-Yalobusha,,Treasurer,,Reform,Shawn O'Hara,129
-Yalobusha,,Commissioner of Agricultute & Commerce,,Democrat,Joel Gill,2118
-Yalobusha,,Commissioner of Agricultute & Commerce,,Republican,Cindy Hyde-Smith,2427
-Yalobusha,,Commissioner of Agriculture & Commerce,,Reform,Cathy L. Toole,153
-Yalobusha,,Commissioner of Insurance,,Republican,Mike Chaney,2692
-Yalobusha,,Commissioner of Insurance,,Democrat,Louis Fondren,1835
-Yalobusha,,Commissioner of Insurance,,Reform,Barbara Dale Washer,167
-Yalobusha,,State Senate,09,Democrat,Gray Tollison,4080
-Yalobusha,,State House,24,Republican,Sidney W. Bondurant,452
-Yalobusha,,State House,24,Democrat,Kevin Horan,432
-Yalobusha,,State House,33,Republican,Jerrerico Chambers,850
-Yalobusha,,State House,33,Democrat,Thomas U. 'Tommy' Reynolds,2857
-Yalobusha,,State House,33,Libertarian,Sean T. Holmes,139
+Yalobusha,Beat One North,Measure No. 26 - Definition of a person,,,Yes,370
+Yalobusha,Beat One South,Measure No. 26 - Definition of a person,,,Yes,129
+Yalobusha,Beat Two Water Valley,Measure No. 26 - Definition of a person,,,Yes,281
+Yalobusha,Three North West,Measure No. 26 - Definition of a person,,,Yes,296
+Yalobusha,Three Sylva Rena,Measure No. 26 - Definition of a person,,,Yes,169
+Yalobusha,Four Coffeeville,Measure No. 26 - Definition of a person,,,Yes,116
+Yalobusha,Four Oakland,Measure No. 26 - Definition of a person,,,Yes,265
+Yalobusha,Five Coffeeville,Measure No. 26 - Definition of a person,,,Yes,250
+Yalobusha,Five Scobey,Measure No. 26 - Definition of a person,,,Yes,73
+Yalobusha,Five Scuna - Vann's Mill,Measure No. 26 - Definition of a person,,,Yes,54
+Yalobusha,Five Tillatoba,Measure No. 26 - Definition of a person,,,Yes,100
+Yalobusha,Beat One North,Measure No. 26 - Definition of a person,,,No,326
+Yalobusha,Beat One South,Measure No. 26 - Definition of a person,,,No,154
+Yalobusha,Beat Two Water Valley,Measure No. 26 - Definition of a person,,,No,492
+Yalobusha,Three North West,Measure No. 26 - Definition of a person,,,No,312
+Yalobusha,Three Sylva Rena,Measure No. 26 - Definition of a person,,,No,200
+Yalobusha,Four Coffeeville,Measure No. 26 - Definition of a person,,,No,245
+Yalobusha,Four Oakland,Measure No. 26 - Definition of a person,,,No,365
+Yalobusha,Five Coffeeville,Measure No. 26 - Definition of a person,,,No,245
+Yalobusha,Five Scobey,Measure No. 26 - Definition of a person,,,No,77
+Yalobusha,Five Scuna - Vann's Mill,Measure No. 26 - Definition of a person,,,No,52
+Yalobusha,Five Tillatoba,Measure No. 26 - Definition of a person,,,No,77
+Yalobusha,Beat One North,Measure No. 26 - Definition of a person,,,Over votes,0
+Yalobusha,Beat One South,Measure No. 26 - Definition of a person,,,Over votes,0
+Yalobusha,Beat Two Water Valley,Measure No. 26 - Definition of a person,,,Over votes,0
+Yalobusha,Three North West,Measure No. 26 - Definition of a person,,,Over votes,0
+Yalobusha,Three Sylva Rena,Measure No. 26 - Definition of a person,,,Over votes,0
+Yalobusha,Four Coffeeville,Measure No. 26 - Definition of a person,,,Over votes,0
+Yalobusha,Four Oakland,Measure No. 26 - Definition of a person,,,Over votes,0
+Yalobusha,Five Coffeeville,Measure No. 26 - Definition of a person,,,Over votes,0
+Yalobusha,Five Scobey,Measure No. 26 - Definition of a person,,,Over votes,0
+Yalobusha,Five Scuna - Vann's Mill,Measure No. 26 - Definition of a person,,,Over votes,0
+Yalobusha,Five Tillatoba,Measure No. 26 - Definition of a person,,,Over votes,0
+Yalobusha,Beat One North,Measure No. 26 - Definition of a person,,,Under votes,0
+Yalobusha,Beat One South,Measure No. 26 - Definition of a person,,,Under votes,0
+Yalobusha,Beat Two Water Valley,Measure No. 26 - Definition of a person,,,Under votes,0
+Yalobusha,Three North West,Measure No. 26 - Definition of a person,,,Under votes,0
+Yalobusha,Three Sylva Rena,Measure No. 26 - Definition of a person,,,Under votes,0
+Yalobusha,Four Coffeeville,Measure No. 26 - Definition of a person,,,Under votes,0
+Yalobusha,Four Oakland,Measure No. 26 - Definition of a person,,,Under votes,0
+Yalobusha,Five Coffeeville,Measure No. 26 - Definition of a person,,,Under votes,0
+Yalobusha,Five Scobey,Measure No. 26 - Definition of a person,,,Under votes,0
+Yalobusha,Five Scuna - Vann's Mill,Measure No. 26 - Definition of a person,,,Under votes,0
+Yalobusha,Five Tillatoba,Measure No. 26 - Definition of a person,,,Under votes,0
+Yalobusha,Beat One North,Measure No. 27 - Voter ID,,,Yes,532
+Yalobusha,Beat One South,Measure No. 27 - Voter ID,,,Yes,183
+Yalobusha,Beat Two Water Valley,Measure No. 27 - Voter ID,,,Yes,367
+Yalobusha,Three North West,Measure No. 27 - Voter ID,,,Yes,452
+Yalobusha,Three Sylva Rena,Measure No. 27 - Voter ID,,,Yes,249
+Yalobusha,Four Coffeeville,Measure No. 27 - Voter ID,,,Yes,115
+Yalobusha,Four Oakland,Measure No. 27 - Voter ID,,,Yes,342
+Yalobusha,Five Coffeeville,Measure No. 27 - Voter ID,,,Yes,318
+Yalobusha,Five Scobey,Measure No. 27 - Voter ID,,,Yes,83
+Yalobusha,Five Scuna - Vann's Mill,Measure No. 27 - Voter ID,,,Yes,67
+Yalobusha,Five Tillatoba,Measure No. 27 - Voter ID,,,Yes,125
+Yalobusha,Beat One North,Measure No. 27 - Voter ID,,,No,167
+Yalobusha,Beat One South,Measure No. 27 - Voter ID,,,No,103
+Yalobusha,Beat Two Water Valley,Measure No. 27 - Voter ID,,,No,406
+Yalobusha,Three North West,Measure No. 27 - Voter ID,,,No,160
+Yalobusha,Three Sylva Rena,Measure No. 27 - Voter ID,,,No,116
+Yalobusha,Four Coffeeville,Measure No. 27 - Voter ID,,,No,247
+Yalobusha,Four Oakland,Measure No. 27 - Voter ID,,,No,289
+Yalobusha,Five Coffeeville,Measure No. 27 - Voter ID,,,No,178
+Yalobusha,Five Scobey,Measure No. 27 - Voter ID,,,No,69
+Yalobusha,Five Scuna - Vann's Mill,Measure No. 27 - Voter ID,,,No,42
+Yalobusha,Five Tillatoba,Measure No. 27 - Voter ID,,,No,55
+Yalobusha,Beat One North,Measure No. 27 - Voter ID,,,Over votes,0
+Yalobusha,Beat One South,Measure No. 27 - Voter ID,,,Over votes,0
+Yalobusha,Beat Two Water Valley,Measure No. 27 - Voter ID,,,Over votes,0
+Yalobusha,Three North West,Measure No. 27 - Voter ID,,,Over votes,0
+Yalobusha,Three Sylva Rena,Measure No. 27 - Voter ID,,,Over votes,0
+Yalobusha,Four Coffeeville,Measure No. 27 - Voter ID,,,Over votes,0
+Yalobusha,Four Oakland,Measure No. 27 - Voter ID,,,Over votes,0
+Yalobusha,Five Coffeeville,Measure No. 27 - Voter ID,,,Over votes,0
+Yalobusha,Five Scobey,Measure No. 27 - Voter ID,,,Over votes,0
+Yalobusha,Five Scuna - Vann's Mill,Measure No. 27 - Voter ID,,,Over votes,0
+Yalobusha,Five Tillatoba,Measure No. 27 - Voter ID,,,Over votes,0
+Yalobusha,Beat One North,Measure No. 27 - Voter ID,,,Under votes,0
+Yalobusha,Beat One South,Measure No. 27 - Voter ID,,,Under votes,0
+Yalobusha,Beat Two Water Valley,Measure No. 27 - Voter ID,,,Under votes,0
+Yalobusha,Three North West,Measure No. 27 - Voter ID,,,Under votes,0
+Yalobusha,Three Sylva Rena,Measure No. 27 - Voter ID,,,Under votes,0
+Yalobusha,Four Coffeeville,Measure No. 27 - Voter ID,,,Under votes,0
+Yalobusha,Four Oakland,Measure No. 27 - Voter ID,,,Under votes,0
+Yalobusha,Five Coffeeville,Measure No. 27 - Voter ID,,,Under votes,0
+Yalobusha,Five Scobey,Measure No. 27 - Voter ID,,,Under votes,0
+Yalobusha,Five Scuna - Vann's Mill,Measure No. 27 - Voter ID,,,Under votes,0
+Yalobusha,Five Tillatoba,Measure No. 27 - Voter ID,,,Under votes,0
+Yalobusha,Beat One North,Measure No. 31 - Eminent Domain,,,Yes,569
+Yalobusha,Beat One South,Measure No. 31 - Eminent Domain,,,Yes,223
+Yalobusha,Beat Two Water Valley,Measure No. 31 - Eminent Domain,,,Yes,525
+Yalobusha,Three North West,Measure No. 31 - Eminent Domain,,,Yes,477
+Yalobusha,Three Sylva Rena,Measure No. 31 - Eminent Domain,,,Yes,308
+Yalobusha,Four Coffeeville,Measure No. 31 - Eminent Domain,,,Yes,217
+Yalobusha,Four Oakland,Measure No. 31 - Eminent Domain,,,Yes,438
+Yalobusha,Five Coffeeville,Measure No. 31 - Eminent Domain,,,Yes,392
+Yalobusha,Five Scobey,Measure No. 31 - Eminent Domain,,,Yes,104
+Yalobusha,Five Scuna - Vann's Mill,Measure No. 31 - Eminent Domain,,,Yes,81
+Yalobusha,Five Tillatoba,Measure No. 31 - Eminent Domain,,,Yes,140
+Yalobusha,Beat One North,Measure No. 31 - Eminent Domain,,,No,131
+Yalobusha,Beat One South,Measure No. 31 - Eminent Domain,,,No,62
+Yalobusha,Beat Two Water Valley,Measure No. 31 - Eminent Domain,,,No,245
+Yalobusha,Three North West,Measure No. 31 - Eminent Domain,,,No,130
+Yalobusha,Three Sylva Rena,Measure No. 31 - Eminent Domain,,,No,60
+Yalobusha,Four Coffeeville,Measure No. 31 - Eminent Domain,,,No,142
+Yalobusha,Four Oakland,Measure No. 31 - Eminent Domain,,,No,188
+Yalobusha,Five Coffeeville,Measure No. 31 - Eminent Domain,,,No,101
+Yalobusha,Five Scobey,Measure No. 31 - Eminent Domain,,,No,49
+Yalobusha,Five Scuna - Vann's Mill,Measure No. 31 - Eminent Domain,,,No,26
+Yalobusha,Five Tillatoba,Measure No. 31 - Eminent Domain,,,No,43
+Yalobusha,Beat One North,Measure No. 31 - Eminent Domain,,,Over votes,0
+Yalobusha,Beat One South,Measure No. 31 - Eminent Domain,,,Over votes,0
+Yalobusha,Beat Two Water Valley,Measure No. 31 - Eminent Domain,,,Over votes,0
+Yalobusha,Three North West,Measure No. 31 - Eminent Domain,,,Over votes,0
+Yalobusha,Three Sylva Rena,Measure No. 31 - Eminent Domain,,,Over votes,0
+Yalobusha,Four Coffeeville,Measure No. 31 - Eminent Domain,,,Over votes,0
+Yalobusha,Four Oakland,Measure No. 31 - Eminent Domain,,,Over votes,0
+Yalobusha,Five Coffeeville,Measure No. 31 - Eminent Domain,,,Over votes,0
+Yalobusha,Five Scobey,Measure No. 31 - Eminent Domain,,,Over votes,0
+Yalobusha,Five Scuna - Vann's Mill,Measure No. 31 - Eminent Domain,,,Over votes,0
+Yalobusha,Five Tillatoba,Measure No. 31 - Eminent Domain,,,Over votes,0
+Yalobusha,Beat One North,Measure No. 31 - Eminent Domain,,,Under votes,0
+Yalobusha,Beat One South,Measure No. 31 - Eminent Domain,,,Under votes,0
+Yalobusha,Beat Two Water Valley,Measure No. 31 - Eminent Domain,,,Under votes,0
+Yalobusha,Three North West,Measure No. 31 - Eminent Domain,,,Under votes,0
+Yalobusha,Three Sylva Rena,Measure No. 31 - Eminent Domain,,,Under votes,0
+Yalobusha,Four Coffeeville,Measure No. 31 - Eminent Domain,,,Under votes,0
+Yalobusha,Four Oakland,Measure No. 31 - Eminent Domain,,,Under votes,0
+Yalobusha,Five Coffeeville,Measure No. 31 - Eminent Domain,,,Under votes,0
+Yalobusha,Five Scobey,Measure No. 31 - Eminent Domain,,,Under votes,0
+Yalobusha,Five Scuna - Vann's Mill,Measure No. 31 - Eminent Domain,,,Under votes,0
+Yalobusha,Five Tillatoba,Measure No. 31 - Eminent Domain,,,Under votes,0
