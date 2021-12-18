@@ -469,37 +469,255 @@ Lamar,Sumrall,Commissioner of Insurance,,Democrat,Louis Fondren,151
 Lamar,Sumrall,Commissioner of Insurance,,Reform,Barbara Dale Washer,40
 Lamar,Sumrall,State Senate,41,Republican,Joey Fillingane,1491
 Lamar,Sumrall,State House,101,Republican,Hank Lott,1494
-Lamar,,Governor,,Republican,Phil Bryant,14468
-Lamar,,Governor,,Democrat,Johnny L. DuPree,3839
-Lamar,,Lieutenant Governor,,Republican,Tate Reeves,1824
-Lamar,,Lieutenant Governor,,Reform,Tracella Lou O'Hara Hill,15644
-Lamar,,Secretary of State,,Republican,Delbert Hosemann,16789
-Lamar,,Attorney General,,Democrat,Jim Hood,8226
-Lamar,,Attorney General,,Republican,Steve Simpson,9875
-Lamar,,State Auditor,,Reform,Ashley Norwood,2239
-Lamar,,State Auditor,,Republican,Stacey E. Pickering,15119
-Lamar,,Treasurer,,Republican,Lynn Fitch,14064
-Lamar,,Treasurer,,Democrat,Connie Moran,3395
-Lamar,,Treasurer,,Reform,Shawn O'Hara,575
-Lamar,,Commissioner of Agriculture & Commerce,,Democrat,Joel Gill,3552
-Lamar,,Commissioner of Agriculture & Commerce,,Republican,Cindy Hyde-Smith,13975
-Lamar,,Commissioner of Agriculture & Commerce,,Reform,Cathy L. Toole,416
-Lamar,,Commissioner of Insurance,,Republican,Mike Chaney,14407
-Lamar,,Commissioner of Insurance,,Democrat,Louis Fondren,2971
-Lamar,,Commissioner of Insurance,,Reform,Barbara Dale Washer,581
-Lamar,,State Senate,41,Republican,Joey Fillingane,5012
-Lamar,,State Senate,44,Republican,John A. Polk,10299
-Lamar,,State Senate,44,Reform,Lajena Williams,1238
-Lamar,,State Senate,45,Republican,Billy Hudson,508
-Lamar,,State House,93,Democrat,Dirk D. Dedeaux,447
-Lamar,,State House,93,Republican,John 'Timmy' Ladner,166
-Lamar,,State House,99,Republican,Bill Pigott,1125
-Lamar,,State House,100,Democrat,Harry C. Griffith,371
-Lamar,,State House,100,Republican,Ken Morgan,2239
-Lamar,,State House,101,Republican,Hank Lott,10678
-Lamar,,State House,102,Republican,Toby Barker,117
-Lamar,,State House,102,Democrat,David Cook,150
-Lamar,,State House,104,Republican,Larry Byrd,1358
-Lamar,,State House,104,Reform,Randy Walker,160
-Lamar,,State House,106,Republican,Herb Frierson,145
-Lamar,,State House,106,Libertarian,Donna Y. Knezevich,32
+Lamar,Lamar Park,Measure No. 26 - Definition of a person,,,Yes,323
+Lamar,Okahola,Measure No. 26 - Definition of a person,,,Yes,190
+Lamar,Richburg,Measure No. 26 - Definition of a person,,,Yes,485
+Lamar,Northeast Lamar,Measure No. 26 - Definition of a person,,,Yes,249
+Lamar,Lumberton,Measure No. 26 - Definition of a person,,,Yes,396
+Lamar,South Purvis,Measure No. 26 - Definition of a person,,,Yes,637
+Lamar,Yawn,Measure No. 26 - Definition of a person,,,Yes,99
+Lamar,Wesley Manor,Measure No. 26 - Definition of a person,,,Yes,229
+Lamar,Pine Grove,Measure No. 26 - Definition of a person,,,Yes,233
+Lamar,Baxterville,Measure No. 26 - Definition of a person,,,Yes,160
+Lamar,Greenville,Measure No. 26 - Definition of a person,,,Yes,330
+Lamar,Purvis,Measure No. 26 - Definition of a person,,,Yes,649
+Lamar,Arnold Line,Measure No. 26 - Definition of a person,,,Yes,324
+Lamar,Midway,Measure No. 26 - Definition of a person,,,Yes,488
+Lamar,Oak Grove,Measure No. 26 - Definition of a person,,,Yes,585
+Lamar,Lake Serene,Measure No. 26 - Definition of a person,,,Yes,740
+Lamar,Kingsmill,Measure No. 26 - Definition of a person,,,Yes,397
+Lamar,Breland,Measure No. 26 - Definition of a person,,,Yes,605
+Lamar,Oloh,Measure No. 26 - Definition of a person,,,Yes,247
+Lamar,Rocky Branch,Measure No. 26 - Definition of a person,,,Yes,239
+Lamar,Sumrall,Measure No. 26 - Definition of a person,,,Yes,902
+Lamar,Lamar Park,Measure No. 26 - Definition of a person,,,No,590
+Lamar,Okahola,Measure No. 26 - Definition of a person,,,No,168
+Lamar,Richburg,Measure No. 26 - Definition of a person,,,No,585
+Lamar,Northeast Lamar,Measure No. 26 - Definition of a person,,,No,493
+Lamar,Lumberton,Measure No. 26 - Definition of a person,,,No,521
+Lamar,South Purvis,Measure No. 26 - Definition of a person,,,No,532
+Lamar,Yawn,Measure No. 26 - Definition of a person,,,No,82
+Lamar,Wesley Manor,Measure No. 26 - Definition of a person,,,No,439
+Lamar,Pine Grove,Measure No. 26 - Definition of a person,,,No,156
+Lamar,Baxterville,Measure No. 26 - Definition of a person,,,No,113
+Lamar,Greenville,Measure No. 26 - Definition of a person,,,No,211
+Lamar,Purvis,Measure No. 26 - Definition of a person,,,No,632
+Lamar,Arnold Line,Measure No. 26 - Definition of a person,,,No,464
+Lamar,Midway,Measure No. 26 - Definition of a person,,,No,376
+Lamar,Oak Grove,Measure No. 26 - Definition of a person,,,No,668
+Lamar,Lake Serene,Measure No. 26 - Definition of a person,,,No,949
+Lamar,Kingsmill,Measure No. 26 - Definition of a person,,,No,568
+Lamar,Breland,Measure No. 26 - Definition of a person,,,No,961
+Lamar,Oloh,Measure No. 26 - Definition of a person,,,No,165
+Lamar,Rocky Branch,Measure No. 26 - Definition of a person,,,No,192
+Lamar,Sumrall,Measure No. 26 - Definition of a person,,,No,655
+Lamar,Lamar Park,Measure No. 26 - Definition of a person,,,Over Votes,0
+Lamar,Okahola,Measure No. 26 - Definition of a person,,,Over Votes,0
+Lamar,Richburg,Measure No. 26 - Definition of a person,,,Over Votes,0
+Lamar,Northeast Lamar,Measure No. 26 - Definition of a person,,,Over Votes,0
+Lamar,Lumberton,Measure No. 26 - Definition of a person,,,Over Votes,0
+Lamar,South Purvis,Measure No. 26 - Definition of a person,,,Over Votes,0
+Lamar,Yawn,Measure No. 26 - Definition of a person,,,Over Votes,0
+Lamar,Wesley Manor,Measure No. 26 - Definition of a person,,,Over Votes,0
+Lamar,Pine Grove,Measure No. 26 - Definition of a person,,,Over Votes,0
+Lamar,Baxterville,Measure No. 26 - Definition of a person,,,Over Votes,0
+Lamar,Greenville,Measure No. 26 - Definition of a person,,,Over Votes,0
+Lamar,Purvis,Measure No. 26 - Definition of a person,,,Over Votes,0
+Lamar,Arnold Line,Measure No. 26 - Definition of a person,,,Over Votes,0
+Lamar,Midway,Measure No. 26 - Definition of a person,,,Over Votes,0
+Lamar,Oak Grove,Measure No. 26 - Definition of a person,,,Over Votes,0
+Lamar,Lake Serene,Measure No. 26 - Definition of a person,,,Over Votes,0
+Lamar,Kingsmill,Measure No. 26 - Definition of a person,,,Over Votes,0
+Lamar,Breland,Measure No. 26 - Definition of a person,,,Over Votes,0
+Lamar,Oloh,Measure No. 26 - Definition of a person,,,Over Votes,0
+Lamar,Rocky Branch,Measure No. 26 - Definition of a person,,,Over Votes,0
+Lamar,Sumrall,Measure No. 26 - Definition of a person,,,Over Votes,0
+Lamar,Lamar Park,Measure No. 26 - Definition of a person,,,Under Votes,26
+Lamar,Okahola,Measure No. 26 - Definition of a person,,,Under Votes,7
+Lamar,Richburg,Measure No. 26 - Definition of a person,,,Under Votes,0
+Lamar,Northeast Lamar,Measure No. 26 - Definition of a person,,,Under Votes,22
+Lamar,Lumberton,Measure No. 26 - Definition of a person,,,Under Votes,10
+Lamar,South Purvis,Measure No. 26 - Definition of a person,,,Under Votes,3
+Lamar,Yawn,Measure No. 26 - Definition of a person,,,Under Votes,8
+Lamar,Wesley Manor,Measure No. 26 - Definition of a person,,,Under Votes,0
+Lamar,Pine Grove,Measure No. 26 - Definition of a person,,,Under Votes,0
+Lamar,Baxterville,Measure No. 26 - Definition of a person,,,Under Votes,0
+Lamar,Greenville,Measure No. 26 - Definition of a person,,,Under Votes,6
+Lamar,Purvis,Measure No. 26 - Definition of a person,,,Under Votes,3
+Lamar,Arnold Line,Measure No. 26 - Definition of a person,,,Under Votes,3
+Lamar,Midway,Measure No. 26 - Definition of a person,,,Under Votes,21
+Lamar,Oak Grove,Measure No. 26 - Definition of a person,,,Under Votes,25
+Lamar,Lake Serene,Measure No. 26 - Definition of a person,,,Under Votes,20
+Lamar,Kingsmill,Measure No. 26 - Definition of a person,,,Under Votes,19
+Lamar,Breland,Measure No. 26 - Definition of a person,,,Under Votes,2
+Lamar,Oloh,Measure No. 26 - Definition of a person,,,Under Votes,10
+Lamar,Rocky Branch,Measure No. 26 - Definition of a person,,,Under Votes,7
+Lamar,Sumrall,Measure No. 26 - Definition of a person,,,Under Votes,32
+Lamar,Lamar Park,Measure No. 27 - Voter ID,,,Yes,625
+Lamar,Okahola,Measure No. 27 - Voter ID,,,Yes,299
+Lamar,Richburg,Measure No. 27 - Voter ID,,,Yes,855
+Lamar,Northeast Lamar,Measure No. 27 - Voter ID,,,Yes,499
+Lamar,Lumberton,Measure No. 27 - Voter ID,,,Yes,518
+Lamar,South Purvis,Measure No. 27 - Voter ID,,,Yes,979
+Lamar,Yawn,Measure No. 27 - Voter ID,,,Yes,144
+Lamar,Wesley Manor,Measure No. 27 - Voter ID,,,Yes,385
+Lamar,Pine Grove,Measure No. 27 - Voter ID,,,Yes,323
+Lamar,Baxterville,Measure No. 27 - Voter ID,,,Yes,209
+Lamar,Greenville,Measure No. 27 - Voter ID,,,Yes,425
+Lamar,Purvis,Measure No. 27 - Voter ID,,,Yes,974
+Lamar,Arnold Line,Measure No. 27 - Voter ID,,,Yes,583
+Lamar,Midway,Measure No. 27 - Voter ID,,,Yes,697
+Lamar,Oak Grove,Measure No. 27 - Voter ID,,,Yes,1045
+Lamar,Lake Serene,Measure No. 27 - Voter ID,,,Yes,1479
+Lamar,Kingsmill,Measure No. 27 - Voter ID,,,Yes,861
+Lamar,Breland,Measure No. 27 - Voter ID,,,Yes,1201
+Lamar,Oloh,Measure No. 27 - Voter ID,,,Yes,350
+Lamar,Rocky Branch,Measure No. 27 - Voter ID,,,Yes,328
+Lamar,Sumrall,Measure No. 27 - Voter ID,,,Yes,1294
+Lamar,Lamar Park,Measure No. 27 - Voter ID,,,No,301
+Lamar,Okahola,Measure No. 27 - Voter ID,,,No,65
+Lamar,Richburg,Measure No. 27 - Voter ID,,,No,220
+Lamar,Northeast Lamar,Measure No. 27 - Voter ID,,,No,247
+Lamar,Lumberton,Measure No. 27 - Voter ID,,,No,421
+Lamar,South Purvis,Measure No. 27 - Voter ID,,,No,197
+Lamar,Yawn,Measure No. 27 - Voter ID,,,No,43
+Lamar,Wesley Manor,Measure No. 27 - Voter ID,,,No,277
+Lamar,Pine Grove,Measure No. 27 - Voter ID,,,No,61
+Lamar,Baxterville,Measure No. 27 - Voter ID,,,No,64
+Lamar,Greenville,Measure No. 27 - Voter ID,,,No,116
+Lamar,Purvis,Measure No. 27 - Voter ID,,,No,318
+Lamar,Arnold Line,Measure No. 27 - Voter ID,,,No,209
+Lamar,Midway,Measure No. 27 - Voter ID,,,No,178
+Lamar,Oak Grove,Measure No. 27 - Voter ID,,,No,214
+Lamar,Lake Serene,Measure No. 27 - Voter ID,,,No,219
+Lamar,Kingsmill,Measure No. 27 - Voter ID,,,No,114
+Lamar,Breland,Measure No. 27 - Voter ID,,,No,381
+Lamar,Oloh,Measure No. 27 - Voter ID,,,No,67
+Lamar,Rocky Branch,Measure No. 27 - Voter ID,,,No,109
+Lamar,Sumrall,Measure No. 27 - Voter ID,,,No,271
+Lamar,Lamar Park,Measure No. 27 - Voter ID,,,Over Votes,0
+Lamar,Okahola,Measure No. 27 - Voter ID,,,Over Votes,0
+Lamar,Richburg,Measure No. 27 - Voter ID,,,Over Votes,0
+Lamar,Northeast Lamar,Measure No. 27 - Voter ID,,,Over Votes,0
+Lamar,Lumberton,Measure No. 27 - Voter ID,,,Over Votes,0
+Lamar,South Purvis,Measure No. 27 - Voter ID,,,Over Votes,0
+Lamar,Yawn,Measure No. 27 - Voter ID,,,Over Votes,0
+Lamar,Wesley Manor,Measure No. 27 - Voter ID,,,Over Votes,0
+Lamar,Pine Grove,Measure No. 27 - Voter ID,,,Over Votes,0
+Lamar,Baxterville,Measure No. 27 - Voter ID,,,Over Votes,0
+Lamar,Greenville,Measure No. 27 - Voter ID,,,Over Votes,0
+Lamar,Purvis,Measure No. 27 - Voter ID,,,Over Votes,0
+Lamar,Arnold Line,Measure No. 27 - Voter ID,,,Over Votes,0
+Lamar,Midway,Measure No. 27 - Voter ID,,,Over Votes,0
+Lamar,Oak Grove,Measure No. 27 - Voter ID,,,Over Votes,0
+Lamar,Lake Serene,Measure No. 27 - Voter ID,,,Over Votes,0
+Lamar,Kingsmill,Measure No. 27 - Voter ID,,,Over Votes,0
+Lamar,Breland,Measure No. 27 - Voter ID,,,Over Votes,0
+Lamar,Oloh,Measure No. 27 - Voter ID,,,Over Votes,0
+Lamar,Rocky Branch,Measure No. 27 - Voter ID,,,Over Votes,0
+Lamar,Sumrall,Measure No. 27 - Voter ID,,,Over Votes,0
+Lamar,Lamar Park,Measure No. 27 - Voter ID,,,Under Votes,14
+Lamar,Okahola,Measure No. 27 - Voter ID,,,Under Votes,2
+Lamar,Richburg,Measure No. 27 - Voter ID,,,Under Votes,0
+Lamar,Northeast Lamar,Measure No. 27 - Voter ID,,,Under Votes,19
+Lamar,Lumberton,Measure No. 27 - Voter ID,,,Under Votes,1
+Lamar,South Purvis,Measure No. 27 - Voter ID,,,Under Votes,3
+Lamar,Yawn,Measure No. 27 - Voter ID,,,Under Votes,2
+Lamar,Wesley Manor,Measure No. 27 - Voter ID,,,Under Votes,3
+Lamar,Pine Grove,Measure No. 27 - Voter ID,,,Under Votes,0
+Lamar,Baxterville,Measure No. 27 - Voter ID,,,Under Votes,0
+Lamar,Greenville,Measure No. 27 - Voter ID,,,Under Votes,5
+Lamar,Purvis,Measure No. 27 - Voter ID,,,Under Votes,0
+Lamar,Arnold Line,Measure No. 27 - Voter ID,,,Under Votes,2
+Lamar,Midway,Measure No. 27 - Voter ID,,,Under Votes,10
+Lamar,Oak Grove,Measure No. 27 - Voter ID,,,Under Votes,20
+Lamar,Lake Serene,Measure No. 27 - Voter ID,,,Under Votes,11
+Lamar,Kingsmill,Measure No. 27 - Voter ID,,,Under Votes,9
+Lamar,Breland,Measure No. 27 - Voter ID,,,Under Votes,3
+Lamar,Oloh,Measure No. 27 - Voter ID,,,Under Votes,5
+Lamar,Rocky Branch,Measure No. 27 - Voter ID,,,Under Votes,1
+Lamar,Sumrall,Measure No. 27 - Voter ID,,,Under Votes,23
+Lamar,Lamar Park,Measure No. 31 - Eminent Domain,,,Yes,722
+Lamar,Okahola,Measure No. 31 - Eminent Domain,,,Yes,316
+Lamar,Richburg,Measure No. 31 - Eminent Domain,,,Yes,884
+Lamar,Northeast Lamar,Measure No. 31 - Eminent Domain,,,Yes,579
+Lamar,Lumberton,Measure No. 31 - Eminent Domain,,,Yes,660
+Lamar,South Purvis,Measure No. 31 - Eminent Domain,,,Yes,970
+Lamar,Yawn,Measure No. 31 - Eminent Domain,,,Yes,157
+Lamar,Wesley Manor,Measure No. 31 - Eminent Domain,,,Yes,496
+Lamar,Pine Grove,Measure No. 31 - Eminent Domain,,,Yes,321
+Lamar,Baxterville,Measure No. 31 - Eminent Domain,,,Yes,236
+Lamar,Greenville,Measure No. 31 - Eminent Domain,,,Yes,462
+Lamar,Purvis,Measure No. 31 - Eminent Domain,,,Yes,1004
+Lamar,Arnold Line,Measure No. 31 - Eminent Domain,,,Yes,644
+Lamar,Midway,Measure No. 31 - Eminent Domain,,,Yes,743
+Lamar,Oak Grove,Measure No. 31 - Eminent Domain,,,Yes,1083
+Lamar,Lake Serene,Measure No. 31 - Eminent Domain,,,Yes,1359
+Lamar,Kingsmill,Measure No. 31 - Eminent Domain,,,Yes,754
+Lamar,Breland,Measure No. 31 - Eminent Domain,,,Yes,1233
+Lamar,Oloh,Measure No. 31 - Eminent Domain,,,Yes,358
+Lamar,Rocky Branch,Measure No. 31 - Eminent Domain,,,Yes,358
+Lamar,Sumrall,Measure No. 31 - Eminent Domain,,,Yes,1334
+Lamar,Lamar Park,Measure No. 31 - Eminent Domain,,,No,203
+Lamar,Okahola,Measure No. 31 - Eminent Domain,,,No,47
+Lamar,Richburg,Measure No. 31 - Eminent Domain,,,No,192
+Lamar,Northeast Lamar,Measure No. 31 - Eminent Domain,,,No,166
+Lamar,Lumberton,Measure No. 31 - Eminent Domain,,,No,282
+Lamar,South Purvis,Measure No. 31 - Eminent Domain,,,No,206
+Lamar,Yawn,Measure No. 31 - Eminent Domain,,,No,31
+Lamar,Wesley Manor,Measure No. 31 - Eminent Domain,,,No,173
+Lamar,Pine Grove,Measure No. 31 - Eminent Domain,,,No,68
+Lamar,Baxterville,Measure No. 31 - Eminent Domain,,,No,42
+Lamar,Greenville,Measure No. 31 - Eminent Domain,,,No,81
+Lamar,Purvis,Measure No. 31 - Eminent Domain,,,No,287
+Lamar,Arnold Line,Measure No. 31 - Eminent Domain,,,No,150
+Lamar,Midway,Measure No. 31 - Eminent Domain,,,No,135
+Lamar,Oak Grove,Measure No. 31 - Eminent Domain,,,No,175
+Lamar,Lake Serene,Measure No. 31 - Eminent Domain,,,No,326
+Lamar,Kingsmill,Measure No. 31 - Eminent Domain,,,No,216
+Lamar,Breland,Measure No. 31 - Eminent Domain,,,No,347
+Lamar,Oloh,Measure No. 31 - Eminent Domain,,,No,59
+Lamar,Rocky Branch,Measure No. 31 - Eminent Domain,,,No,79
+Lamar,Sumrall,Measure No. 31 - Eminent Domain,,,No,228
+Lamar,Lamar Park,Measure No. 31 - Eminent Domain,,,Over Votes,0
+Lamar,Okahola,Measure No. 31 - Eminent Domain,,,Over Votes,0
+Lamar,Richburg,Measure No. 31 - Eminent Domain,,,Over Votes,0
+Lamar,Northeast Lamar,Measure No. 31 - Eminent Domain,,,Over Votes,0
+Lamar,Lumberton,Measure No. 31 - Eminent Domain,,,Over Votes,0
+Lamar,South Purvis,Measure No. 31 - Eminent Domain,,,Over Votes,0
+Lamar,Yawn,Measure No. 31 - Eminent Domain,,,Over Votes,0
+Lamar,Wesley Manor,Measure No. 31 - Eminent Domain,,,Over Votes,0
+Lamar,Pine Grove,Measure No. 31 - Eminent Domain,,,Over Votes,0
+Lamar,Baxterville,Measure No. 31 - Eminent Domain,,,Over Votes,0
+Lamar,Greenville,Measure No. 31 - Eminent Domain,,,Over Votes,0
+Lamar,Purvis,Measure No. 31 - Eminent Domain,,,Over Votes,0
+Lamar,Arnold Line,Measure No. 31 - Eminent Domain,,,Over Votes,0
+Lamar,Midway,Measure No. 31 - Eminent Domain,,,Over Votes,0
+Lamar,Oak Grove,Measure No. 31 - Eminent Domain,,,Over Votes,0
+Lamar,Lake Serene,Measure No. 31 - Eminent Domain,,,Over Votes,0
+Lamar,Kingsmill,Measure No. 31 - Eminent Domain,,,Over Votes,0
+Lamar,Breland,Measure No. 31 - Eminent Domain,,,Over Votes,0
+Lamar,Oloh,Measure No. 31 - Eminent Domain,,,Over Votes,0
+Lamar,Rocky Branch,Measure No. 31 - Eminent Domain,,,Over Votes,0
+Lamar,Sumrall,Measure No. 31 - Eminent Domain,,,Over Votes,0
+Lamar,Lamar Park,Measure No. 31 - Eminent Domain,,,Under Votes,14
+Lamar,Okahola,Measure No. 31 - Eminent Domain,,,Under Votes,2
+Lamar,Richburg,Measure No. 31 - Eminent Domain,,,Under Votes,0
+Lamar,Northeast Lamar,Measure No. 31 - Eminent Domain,,,Under Votes,19
+Lamar,Lumberton,Measure No. 31 - Eminent Domain,,,Under Votes,1
+Lamar,South Purvis,Measure No. 31 - Eminent Domain,,,Under Votes,3
+Lamar,Yawn,Measure No. 31 - Eminent Domain,,,Under Votes,2
+Lamar,Wesley Manor,Measure No. 31 - Eminent Domain,,,Under Votes,3
+Lamar,Pine Grove,Measure No. 31 - Eminent Domain,,,Under Votes,0
+Lamar,Baxterville,Measure No. 31 - Eminent Domain,,,Under Votes,0
+Lamar,Greenville,Measure No. 31 - Eminent Domain,,,Under Votes,5
+Lamar,Purvis,Measure No. 31 - Eminent Domain,,,Under Votes,0
+Lamar,Arnold Line,Measure No. 31 - Eminent Domain,,,Under Votes,1
+Lamar,Midway,Measure No. 31 - Eminent Domain,,,Under Votes,7
+Lamar,Oak Grove,Measure No. 31 - Eminent Domain,,,Under Votes,20
+Lamar,Lake Serene,Measure No. 31 - Eminent Domain,,,Under Votes,24
+Lamar,Kingsmill,Measure No. 31 - Eminent Domain,,,Under Votes,14
+Lamar,Breland,Measure No. 31 - Eminent Domain,,,Under Votes,4
+Lamar,Oloh,Measure No. 31 - Eminent Domain,,,Under Votes,5
+Lamar,Rocky Branch,Measure No. 31 - Eminent Domain,,,Under Votes,1
+Lamar,Sumrall,Measure No. 31 - Eminent Domain,,,Under Votes,27
