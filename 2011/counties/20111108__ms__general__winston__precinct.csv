@@ -266,27 +266,147 @@ Winston,Noxapater,State House,43,Republican,Russ C. Nowell,414
 Winston,New National Guard,State House,43,Republican,Russ C. Nowell,273
 Winston,East Winston,State House,43,Republican,Russ C. Nowell,317
 Winston,Mill Creek,State House,43,Republican,Russ C. Nowell,565
-Winston,,Governor,,Republican,Phil Bryant,4797
-Winston,,Governor,,Democrat,Johnny L. DuPree,3423
-Winston,,Lieutenant Governor,,Republican,Tate Reeves,5520
-Winston,,Lieutenant Governor,,Reform,Tracella Lou O'Hara Hill,1731
-Winston,,Secretary of State,,Republican,Delbert Hosemann,6516
-Winston,,Attorney General,,Democrat,Jim Hood,5396
-Winston,,Attorney General,,Republican,Steve Simpson,2727
-Winston,,State Auditor,,Republican,Stacey E. Pickering,5264
-Winston,,State Auditor,,Reform,Ashley Norwood,1947
-Winston,,Treasurer,,Republican,Lynn Fitch,4569
-Winston,,Treasurer,,Democrat,Connie Moran,3302
-Winston,,Treasurer,,Reform,Shawn O'Hara,210
-Winston,,Commissioner of Agriculture & Commerce,,Democrat,Joel Gill,3981
-Winston,,Commissioner of Agriculture & Commerce,,Republican,Cindy Hyde-Smith,3981
-Winston,,Commissioner of Agriculture & Commerce,,Reform,Cathy L. Toole,127
-Winston,,Commissioner of Insurance,,Republican,Mike Chaney,4772
-Winston,,Commissioner of Insurance,,Democrat,Louis Fondren,3103
-Winston,,Commissioner of Insurance,,Reform,Barbara Dale Washer,206
-Winston,,State Senate,15,Republican,Gary Jackson,437
-Winston,,State Senate,18,Democrat,Steven Kilgore,1199
-Winston,,State Senate,18,Republican,Giles K. Ward,1703
-Winston,,State Senate,32,Democrat,"Sampson Jackson, II",4127
-Winston,,State House,43,Democrat,Michael T. Evans,4106
-Winston,,State House,43,Republican,Russ C. Nowell,4088
+Winston,Fairground,Measure No. 26 - Definition of a person,,,Yes,772
+Winston,Nanih Waiya,Measure No. 26 - Definition of a person,,,Yes,529
+Winston,Lovorn Tractor,Measure No. 26 - Definition of a person,,,Yes,206
+Winston,American Legion,Measure No. 26 - Definition of a person,,,Yes,198
+Winston,Zion Ridge,Measure No. 26 - Definition of a person,,,Yes,120
+Winston,Shiloh,Measure No. 26 - Definition of a person,,,Yes,208
+Winston,County Agent,Measure No. 26 - Definition of a person,,,Yes,259
+Winston,Mars Hill,Measure No. 26 - Definition of a person,,,Yes,246
+Winston,Noxapater,Measure No. 26 - Definition of a person,,,Yes,397
+Winston,New National Guard,Measure No. 26 - Definition of a person,,,Yes,192
+Winston,East Winston,Measure No. 26 - Definition of a person,,,Yes,302
+Winston,Mill Creek,Measure No. 26 - Definition of a person,,,Yes,452
+Winston,Fairground,Measure No. 26 - Definition of a person,,,No,752
+Winston,Nanih Waiya,Measure No. 26 - Definition of a person,,,No,372
+Winston,Lovorn Tractor,Measure No. 26 - Definition of a person,,,No,205
+Winston,American Legion,Measure No. 26 - Definition of a person,,,No,426
+Winston,Zion Ridge,Measure No. 26 - Definition of a person,,,No,265
+Winston,Shiloh,Measure No. 26 - Definition of a person,,,No,186
+Winston,County Agent,Measure No. 26 - Definition of a person,,,No,520
+Winston,Mars Hill,Measure No. 26 - Definition of a person,,,No,223
+Winston,Noxapater,Measure No. 26 - Definition of a person,,,No,296
+Winston,New National Guard,Measure No. 26 - Definition of a person,,,No,216
+Winston,East Winston,Measure No. 26 - Definition of a person,,,No,237
+Winston,Mill Creek,Measure No. 26 - Definition of a person,,,No,478
+Winston,Fairground,Measure No. 26 - Definition of a person,,,Over votes,0
+Winston,Nanih Waiya,Measure No. 26 - Definition of a person,,,Over votes,0
+Winston,Lovorn Tractor,Measure No. 26 - Definition of a person,,,Over votes,0
+Winston,American Legion,Measure No. 26 - Definition of a person,,,Over votes,0
+Winston,Zion Ridge,Measure No. 26 - Definition of a person,,,Over votes,0
+Winston,Shiloh,Measure No. 26 - Definition of a person,,,Over votes,0
+Winston,County Agent,Measure No. 26 - Definition of a person,,,Over votes,0
+Winston,Mars Hill,Measure No. 26 - Definition of a person,,,Over votes,0
+Winston,Noxapater,Measure No. 26 - Definition of a person,,,Over votes,0
+Winston,New National Guard,Measure No. 26 - Definition of a person,,,Over votes,0
+Winston,East Winston,Measure No. 26 - Definition of a person,,,Over votes,0
+Winston,Mill Creek,Measure No. 26 - Definition of a person,,,Over votes,0
+Winston,Fairground,Measure No. 26 - Definition of a person,,,Under votes,42
+Winston,Nanih Waiya,Measure No. 26 - Definition of a person,,,Under votes,37
+Winston,Lovorn Tractor,Measure No. 26 - Definition of a person,,,Under votes,10
+Winston,American Legion,Measure No. 26 - Definition of a person,,,Under votes,17
+Winston,Zion Ridge,Measure No. 26 - Definition of a person,,,Under votes,20
+Winston,Shiloh,Measure No. 26 - Definition of a person,,,Under votes,11
+Winston,County Agent,Measure No. 26 - Definition of a person,,,Under votes,38
+Winston,Mars Hill,Measure No. 26 - Definition of a person,,,Under votes,11
+Winston,Noxapater,Measure No. 26 - Definition of a person,,,Under votes,10
+Winston,New National Guard,Measure No. 26 - Definition of a person,,,Under votes,13
+Winston,East Winston,Measure No. 26 - Definition of a person,,,Under votes,5
+Winston,Mill Creek,Measure No. 26 - Definition of a person,,,Under votes,32
+Winston,Fairground,Measure No. 27 - Voter ID,,,Yes,1067
+Winston,Nanih Waiya,Measure No. 27 - Voter ID,,,Yes,618
+Winston,Lovorn Tractor,Measure No. 27 - Voter ID,,,Yes,242
+Winston,American Legion,Measure No. 27 - Voter ID,,,Yes,226
+Winston,Zion Ridge,Measure No. 27 - Voter ID,,,Yes,125
+Winston,Shiloh,Measure No. 27 - Voter ID,,,Yes,273
+Winston,County Agent,Measure No. 27 - Voter ID,,,Yes,290
+Winston,Mars Hill,Measure No. 27 - Voter ID,,,Yes,265
+Winston,Noxapater,Measure No. 27 - Voter ID,,,Yes,440
+Winston,New National Guard,Measure No. 27 - Voter ID,,,Yes,268
+Winston,East Winston,Measure No. 27 - Voter ID,,,Yes,365
+Winston,Mill Creek,Measure No. 27 - Voter ID,,,Yes,616
+Winston,Fairground,Measure No. 27 - Voter ID,,,No,459
+Winston,Nanih Waiya,Measure No. 27 - Voter ID,,,No,284
+Winston,Lovorn Tractor,Measure No. 27 - Voter ID,,,No,167
+Winston,American Legion,Measure No. 27 - Voter ID,,,No,403
+Winston,Zion Ridge,Measure No. 27 - Voter ID,,,No,263
+Winston,Shiloh,Measure No. 27 - Voter ID,,,No,125
+Winston,County Agent,Measure No. 27 - Voter ID,,,No,487
+Winston,Mars Hill,Measure No. 27 - Voter ID,,,No,207
+Winston,Noxapater,Measure No. 27 - Voter ID,,,No,249
+Winston,New National Guard,Measure No. 27 - Voter ID,,,No,139
+Winston,East Winston,Measure No. 27 - Voter ID,,,No,166
+Winston,Mill Creek,Measure No. 27 - Voter ID,,,No,313
+Winston,Fairground,Measure No. 27 - Voter ID,,,Over votes,0
+Winston,Nanih Waiya,Measure No. 27 - Voter ID,,,Over votes,0
+Winston,Lovorn Tractor,Measure No. 27 - Voter ID,,,Over votes,0
+Winston,American Legion,Measure No. 27 - Voter ID,,,Over votes,0
+Winston,Zion Ridge,Measure No. 27 - Voter ID,,,Over votes,0
+Winston,Shiloh,Measure No. 27 - Voter ID,,,Over votes,0
+Winston,County Agent,Measure No. 27 - Voter ID,,,Over votes,0
+Winston,Mars Hill,Measure No. 27 - Voter ID,,,Over votes,0
+Winston,Noxapater,Measure No. 27 - Voter ID,,,Over votes,0
+Winston,New National Guard,Measure No. 27 - Voter ID,,,Over votes,0
+Winston,East Winston,Measure No. 27 - Voter ID,,,Over votes,0
+Winston,Mill Creek,Measure No. 27 - Voter ID,,,Over votes,0
+Winston,Fairground,Measure No. 27 - Voter ID,,,Under votes,40
+Winston,Nanih Waiya,Measure No. 27 - Voter ID,,,Under votes,36
+Winston,Lovorn Tractor,Measure No. 27 - Voter ID,,,Under votes,12
+Winston,American Legion,Measure No. 27 - Voter ID,,,Under votes,12
+Winston,Zion Ridge,Measure No. 27 - Voter ID,,,Under votes,17
+Winston,Shiloh,Measure No. 27 - Voter ID,,,Under votes,7
+Winston,County Agent,Measure No. 27 - Voter ID,,,Under votes,40
+Winston,Mars Hill,Measure No. 27 - Voter ID,,,Under votes,8
+Winston,Noxapater,Measure No. 27 - Voter ID,,,Under votes,14
+Winston,New National Guard,Measure No. 27 - Voter ID,,,Under votes,14
+Winston,East Winston,Measure No. 27 - Voter ID,,,Under votes,13
+Winston,Mill Creek,Measure No. 27 - Voter ID,,,Under votes,33
+Winston,Fairground,Measure No. 31 - Eminent Domain,,,Yes,1183
+Winston,Nanih Waiya,Measure No. 31 - Eminent Domain,,,Yes,715
+Winston,Lovorn Tractor,Measure No. 31 - Eminent Domain,,,Yes,310
+Winston,American Legion,Measure No. 31 - Eminent Domain,,,Yes,382
+Winston,Zion Ridge,Measure No. 31 - Eminent Domain,,,Yes,260
+Winston,Shiloh,Measure No. 31 - Eminent Domain,,,Yes,328
+Winston,County Agent,Measure No. 31 - Eminent Domain,,,Yes,514
+Winston,Mars Hill,Measure No. 31 - Eminent Domain,,,Yes,356
+Winston,Noxapater,Measure No. 31 - Eminent Domain,,,Yes,540
+Winston,New National Guard,Measure No. 31 - Eminent Domain,,,Yes,292
+Winston,East Winston,Measure No. 31 - Eminent Domain,,,Yes,406
+Winston,Mill Creek,Measure No. 31 - Eminent Domain,,,Yes,703
+Winston,Fairground,Measure No. 31 - Eminent Domain,,,No,353
+Winston,Nanih Waiya,Measure No. 31 - Eminent Domain,,,No,196
+Winston,Lovorn Tractor,Measure No. 31 - Eminent Domain,,,No,102
+Winston,American Legion,Measure No. 31 - Eminent Domain,,,No,244
+Winston,Zion Ridge,Measure No. 31 - Eminent Domain,,,No,128
+Winston,Shiloh,Measure No. 31 - Eminent Domain,,,No,71
+Winston,County Agent,Measure No. 31 - Eminent Domain,,,No,271
+Winston,Mars Hill,Measure No. 31 - Eminent Domain,,,No,115
+Winston,Noxapater,Measure No. 31 - Eminent Domain,,,No,154
+Winston,New National Guard,Measure No. 31 - Eminent Domain,,,No,119
+Winston,East Winston,Measure No. 31 - Eminent Domain,,,No,124
+Winston,Mill Creek,Measure No. 31 - Eminent Domain,,,No,230
+Winston,Fairground,Measure No. 31 - Eminent Domain,,,Over votes,0
+Winston,Nanih Waiya,Measure No. 31 - Eminent Domain,,,Over votes,0
+Winston,Lovorn Tractor,Measure No. 31 - Eminent Domain,,,Over votes,0
+Winston,American Legion,Measure No. 31 - Eminent Domain,,,Over votes,0
+Winston,Zion Ridge,Measure No. 31 - Eminent Domain,,,Over votes,0
+Winston,Shiloh,Measure No. 31 - Eminent Domain,,,Over votes,0
+Winston,County Agent,Measure No. 31 - Eminent Domain,,,Over votes,0
+Winston,Mars Hill,Measure No. 31 - Eminent Domain,,,Over votes,0
+Winston,Noxapater,Measure No. 31 - Eminent Domain,,,Over votes,0
+Winston,New National Guard,Measure No. 31 - Eminent Domain,,,Over votes,0
+Winston,East Winston,Measure No. 31 - Eminent Domain,,,Over votes,0
+Winston,Mill Creek,Measure No. 31 - Eminent Domain,,,Over votes,0
+Winston,Fairground,Measure No. 31 - Eminent Domain,,,Under votes,30
+Winston,Nanih Waiya,Measure No. 31 - Eminent Domain,,,Under votes,27
+Winston,Lovorn Tractor,Measure No. 31 - Eminent Domain,,,Under votes,9
+Winston,American Legion,Measure No. 31 - Eminent Domain,,,Under votes,15
+Winston,Zion Ridge,Measure No. 31 - Eminent Domain,,,Under votes,17
+Winston,Shiloh,Measure No. 31 - Eminent Domain,,,Under votes,6
+Winston,County Agent,Measure No. 31 - Eminent Domain,,,Under votes,32
+Winston,Mars Hill,Measure No. 31 - Eminent Domain,,,Under votes,9
+Winston,Noxapater,Measure No. 31 - Eminent Domain,,,Under votes,9
+Winston,New National Guard,Measure No. 31 - Eminent Domain,,,Under votes,10
+Winston,East Winston,Measure No. 31 - Eminent Domain,,,Under votes,14
+Winston,Mill Creek,Measure No. 31 - Eminent Domain,,,Under votes,29
