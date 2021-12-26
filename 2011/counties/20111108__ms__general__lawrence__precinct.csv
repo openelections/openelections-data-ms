@@ -563,27 +563,315 @@ Lawrence,Jayess,Commissioner of Insurance,,Reform,Barbara Dale Washer,8
 Lawrence,Jayess,State Senate,39,Republican,Sally Doty,217
 Lawrence,Jayess,State Senate,39,Democrat,W.L. Rayborn,88
 Lawrence,Jayess,State House,97,Republican,"Sam C. Mims, V",281
-Lawrence,,Governor,,Republican,Phil Bryant,3756
-Lawrence,,Governor,,Democrat,Johnny L. DuPree,1980
-Lawrence,,Lieutenant Governor,,Republican,Tate Reeves,4452
-Lawrence,,Lieutenant Governor,,Reform,Tracella Lou O'Hara Hill,879
-Lawrence,,Secretary of State,,Republican,Delbert Hosemann,4798
-Lawrence,,Attorney General,,Democrat,Jim Hood,3620
-Lawrence,,Attorney General,,Republican,Steve Simpson,2046
-Lawrence,,State Auditor,,Republican,Stacey E. Pickering,4070
-Lawrence,,State Auditor,,Reform,Ashley Norwood,1144
-Lawrence,,Treasurer,,Republican,Lynn Fitch,3639
-Lawrence,,Treasurer,,Democrat,Connie Moran,1814
-Lawrence,,Treasurer,,Reform,Shawn O'Hara,185
-Lawrence,,Commissioner of Agriculture & Commerce,,Democrat,Joel Gill,1849
-Lawrence,,Commissioner of Agriculture & Commerce,,Republican,Cindy Hyde-Smith,3781
-Lawrence,,Commissioner of Agriculture & Commerce,,Reform,Cathy L. Toole,66
-Lawrence,,Commissioner of Insurance,,Republican,Mike Chaney,3749
-Lawrence,,Commissioner of Insurance,,Democrat,Louis Fondren,1654
-Lawrence,,Commissioner of Insurance,,Reform,Barbara Dale Washer,183
-Lawrence,,State Senate,39,Republican,Sally Doty,3023
-Lawrence,,State Senate,39,Democrat,W.L. Rayborn,2671
-Lawrence,,State House,53,Democrat,Bobby Moak,874
-Lawrence,,State House,91,Republican,Cindy Shivers Bryan,1591
-Lawrence,,State House,91,Democrat,Bob Evans,2526
-Lawrence,,State House,97,Republican,"Sam C. Mims, V",519
+Lawrence,Courthouse A-Z,Measure No. 26 - Definition of a person,,,Yes,430
+Lawrence,Tilton,Measure No. 26 - Definition of a person,,,Yes,73
+Lawrence,Topeka,Measure No. 26 - Definition of a person,,,Yes,135
+Lawrence,Armory,Measure No. 26 - Definition of a person,,,Yes,49
+Lawrence,Grange,Measure No. 26 - Definition of a person,,,Yes,74
+Lawrence,Hooker,Measure No. 26 - Definition of a person,,,Yes,37
+Lawrence,New Hebron,Measure No. 26 - Definition of a person,,,Yes,222
+Lawrence,Stringer,Measure No. 26 - Definition of a person,,,Yes,86
+Lawrence,East Arm,Measure No. 26 - Definition of a person,,,Yes,48
+Lawrence,Monticello-Beat 5,Measure No. 26 - Definition of a person,,,Yes,10
+Lawrence,North Silver Creek,Measure No. 26 - Definition of a person,,,Yes,38
+Lawrence,Nola,Measure No. 26 - Definition of a person,,,Yes,51
+Lawrence,Oakvale,Measure No. 26 - Definition of a person,,,Yes,58
+Lawrence,Peyton Town,Measure No. 26 - Definition of a person,,,Yes,28
+Lawrence,South Silver Creek,Measure No. 26 - Definition of a person,,,Yes,69
+Lawrence,West Arm,Measure No. 26 - Definition of a person,,,Yes,50
+Lawrence,West Monticello - 53,Measure No. 26 - Definition of a person,,,Yes,14
+Lawrence,Oakvale-91,Measure No. 26 - Definition of a person,,,Yes,9
+Lawrence,Oma,Measure No. 26 - Definition of a person,,,Yes,53
+Lawrence,Sontag,Measure No. 26 - Definition of a person,,,Yes,133
+Lawrence,Wanilla,Measure No. 26 - Definition of a person,,,Yes,47
+Lawrence,Precinct 53,Measure No. 26 - Definition of a person,,,Yes,69
+Lawrence,West Monticello (A-Z),Measure No. 26 - Definition of a person,,,Yes,169
+Lawrence,Center,Measure No. 26 - Definition of a person,,,Yes,72
+Lawrence,Coopers Creek (A-Z),Measure No. 26 - Definition of a person,,,Yes,211
+Lawrence,Jayess,Measure No. 26 - Definition of a person,,,Yes,194
+Lawrence,Courthouse A-Z,Measure No. 26 - Definition of a person,,,No,458
+Lawrence,Tilton,Measure No. 26 - Definition of a person,,,No,91
+Lawrence,Topeka,Measure No. 26 - Definition of a person,,,No,112
+Lawrence,Armory,Measure No. 26 - Definition of a person,,,No,56
+Lawrence,Grange,Measure No. 26 - Definition of a person,,,No,81
+Lawrence,Hooker,Measure No. 26 - Definition of a person,,,No,107
+Lawrence,New Hebron,Measure No. 26 - Definition of a person,,,No,141
+Lawrence,Stringer,Measure No. 26 - Definition of a person,,,No,170
+Lawrence,East Arm,Measure No. 26 - Definition of a person,,,No,131
+Lawrence,Monticello-Beat 5,Measure No. 26 - Definition of a person,,,No,75
+Lawrence,North Silver Creek,Measure No. 26 - Definition of a person,,,No,55
+Lawrence,Nola,Measure No. 26 - Definition of a person,,,No,43
+Lawrence,Oakvale,Measure No. 26 - Definition of a person,,,No,39
+Lawrence,Peyton Town,Measure No. 26 - Definition of a person,,,No,110
+Lawrence,South Silver Creek,Measure No. 26 - Definition of a person,,,No,160
+Lawrence,West Arm,Measure No. 26 - Definition of a person,,,No,110
+Lawrence,West Monticello - 53,Measure No. 26 - Definition of a person,,,No,14
+Lawrence,Oakvale-91,Measure No. 26 - Definition of a person,,,No,6
+Lawrence,Oma,Measure No. 26 - Definition of a person,,,No,193
+Lawrence,Sontag,Measure No. 26 - Definition of a person,,,No,138
+Lawrence,Wanilla,Measure No. 26 - Definition of a person,,,No,56
+Lawrence,Precinct 53,Measure No. 26 - Definition of a person,,,No,66
+Lawrence,West Monticello (A-Z),Measure No. 26 - Definition of a person,,,No,280
+Lawrence,Center,Measure No. 26 - Definition of a person,,,No,73
+Lawrence,Coopers Creek (A-Z),Measure No. 26 - Definition of a person,,,No,203
+Lawrence,Jayess,Measure No. 26 - Definition of a person,,,No,103
+Lawrence,Courthouse A-Z,Measure No. 26 - Definition of a person,,,Over Votes,0
+Lawrence,Tilton,Measure No. 26 - Definition of a person,,,Over Votes,0
+Lawrence,Topeka,Measure No. 26 - Definition of a person,,,Over Votes,0
+Lawrence,Armory,Measure No. 26 - Definition of a person,,,Over Votes,0
+Lawrence,Grange,Measure No. 26 - Definition of a person,,,Over Votes,0
+Lawrence,Hooker,Measure No. 26 - Definition of a person,,,Over Votes,0
+Lawrence,New Hebron,Measure No. 26 - Definition of a person,,,Over Votes,0
+Lawrence,Stringer,Measure No. 26 - Definition of a person,,,Over Votes,0
+Lawrence,East Arm,Measure No. 26 - Definition of a person,,,Over Votes,0
+Lawrence,Monticello-Beat 5,Measure No. 26 - Definition of a person,,,Over Votes,0
+Lawrence,North Silver Creek,Measure No. 26 - Definition of a person,,,Over Votes,0
+Lawrence,Nola,Measure No. 26 - Definition of a person,,,Over Votes,0
+Lawrence,Oakvale,Measure No. 26 - Definition of a person,,,Over Votes,0
+Lawrence,Peyton Town,Measure No. 26 - Definition of a person,,,Over Votes,0
+Lawrence,South Silver Creek,Measure No. 26 - Definition of a person,,,Over Votes,0
+Lawrence,West Arm,Measure No. 26 - Definition of a person,,,Over Votes,0
+Lawrence,West Monticello - 53,Measure No. 26 - Definition of a person,,,Over Votes,0
+Lawrence,Oakvale-91,Measure No. 26 - Definition of a person,,,Over Votes,0
+Lawrence,Oma,Measure No. 26 - Definition of a person,,,Over Votes,0
+Lawrence,Sontag,Measure No. 26 - Definition of a person,,,Over Votes,0
+Lawrence,Wanilla,Measure No. 26 - Definition of a person,,,Over Votes,0
+Lawrence,Precinct 53,Measure No. 26 - Definition of a person,,,Over Votes,0
+Lawrence,West Monticello (A-Z),Measure No. 26 - Definition of a person,,,Over Votes,0
+Lawrence,Center,Measure No. 26 - Definition of a person,,,Over Votes,0
+Lawrence,Coopers Creek (A-Z),Measure No. 26 - Definition of a person,,,Over Votes,0
+Lawrence,Jayess,Measure No. 26 - Definition of a person,,,Over Votes,0
+Lawrence,Courthouse A-Z,Measure No. 26 - Definition of a person,,,Under Votes,23
+Lawrence,Tilton,Measure No. 26 - Definition of a person,,,Under Votes,4
+Lawrence,Topeka,Measure No. 26 - Definition of a person,,,Under Votes,13
+Lawrence,Armory,Measure No. 26 - Definition of a person,,,Under Votes,7
+Lawrence,Grange,Measure No. 26 - Definition of a person,,,Under Votes,7
+Lawrence,Hooker,Measure No. 26 - Definition of a person,,,Under Votes,12
+Lawrence,New Hebron,Measure No. 26 - Definition of a person,,,Under Votes,16
+Lawrence,Stringer,Measure No. 26 - Definition of a person,,,Under Votes,2
+Lawrence,East Arm,Measure No. 26 - Definition of a person,,,Under Votes,10
+Lawrence,Monticello-Beat 5,Measure No. 26 - Definition of a person,,,Under Votes,5
+Lawrence,North Silver Creek,Measure No. 26 - Definition of a person,,,Under Votes,3
+Lawrence,Nola,Measure No. 26 - Definition of a person,,,Under Votes,1
+Lawrence,Oakvale,Measure No. 26 - Definition of a person,,,Under Votes,2
+Lawrence,Peyton Town,Measure No. 26 - Definition of a person,,,Under Votes,6
+Lawrence,South Silver Creek,Measure No. 26 - Definition of a person,,,Under Votes,9
+Lawrence,West Arm,Measure No. 26 - Definition of a person,,,Under Votes,4
+Lawrence,West Monticello - 53,Measure No. 26 - Definition of a person,,,Under Votes,0
+Lawrence,Oakvale-91,Measure No. 26 - Definition of a person,,,Under Votes,2
+Lawrence,Oma,Measure No. 26 - Definition of a person,,,Under Votes,10
+Lawrence,Sontag,Measure No. 26 - Definition of a person,,,Under Votes,7
+Lawrence,Wanilla,Measure No. 26 - Definition of a person,,,Under Votes,7
+Lawrence,Precinct 53,Measure No. 26 - Definition of a person,,,Under Votes,1
+Lawrence,West Monticello (A-Z),Measure No. 26 - Definition of a person,,,Under Votes,12
+Lawrence,Center,Measure No. 26 - Definition of a person,,,Under Votes,2
+Lawrence,Coopers Creek (A-Z),Measure No. 26 - Definition of a person,,,Under Votes,17
+Lawrence,Jayess,Measure No. 26 - Definition of a person,,,Under Votes,11
+Lawrence,Courthouse A-Z,Measure No. 27 - Voter ID,,,Yes,657
+Lawrence,Tilton,Measure No. 27 - Voter ID,,,Yes,111
+Lawrence,Topeka,Measure No. 27 - Voter ID,,,Yes,205
+Lawrence,Armory,Measure No. 27 - Voter ID,,,Yes,88
+Lawrence,Grange,Measure No. 27 - Voter ID,,,Yes,124
+Lawrence,Hooker,Measure No. 27 - Voter ID,,,Yes,61
+Lawrence,New Hebron,Measure No. 27 - Voter ID,,,Yes,274
+Lawrence,Stringer,Measure No. 27 - Voter ID,,,Yes,107
+Lawrence,East Arm,Measure No. 27 - Voter ID,,,Yes,95
+Lawrence,Monticello-Beat 5,Measure No. 27 - Voter ID,,,Yes,14
+Lawrence,North Silver Creek,Measure No. 27 - Voter ID,,,Yes,55
+Lawrence,Nola,Measure No. 27 - Voter ID,,,Yes,51
+Lawrence,Oakvale,Measure No. 27 - Voter ID,,,Yes,76
+Lawrence,Peyton Town,Measure No. 27 - Voter ID,,,Yes,27
+Lawrence,South Silver Creek,Measure No. 27 - Voter ID,,,Yes,95
+Lawrence,West Arm,Measure No. 27 - Voter ID,,,Yes,73
+Lawrence,West Monticello - 53,Measure No. 27 - Voter ID,,,Yes,20
+Lawrence,Oakvale-91,Measure No. 27 - Voter ID,,,Yes,14
+Lawrence,Oma,Measure No. 27 - Voter ID,,,Yes,86
+Lawrence,Sontag,Measure No. 27 - Voter ID,,,Yes,175
+Lawrence,Wanilla,Measure No. 27 - Voter ID,,,Yes,65
+Lawrence,Precinct 53,Measure No. 27 - Voter ID,,,Yes,110
+Lawrence,West Monticello (A-Z),Measure No. 27 - Voter ID,,,Yes,227
+Lawrence,Center,Measure No. 27 - Voter ID,,,Yes,123
+Lawrence,Coopers Creek (A-Z),Measure No. 27 - Voter ID,,,Yes,338
+Lawrence,Jayess,Measure No. 27 - Voter ID,,,Yes,239
+Lawrence,Courthouse A-Z,Measure No. 27 - Voter ID,,,No,239
+Lawrence,Tilton,Measure No. 27 - Voter ID,,,No,51
+Lawrence,Topeka,Measure No. 27 - Voter ID,,,No,45
+Lawrence,Armory,Measure No. 27 - Voter ID,,,No,18
+Lawrence,Grange,Measure No. 27 - Voter ID,,,No,37
+Lawrence,Hooker,Measure No. 27 - Voter ID,,,No,92
+Lawrence,New Hebron,Measure No. 27 - Voter ID,,,No,86
+Lawrence,Stringer,Measure No. 27 - Voter ID,,,No,146
+Lawrence,East Arm,Measure No. 27 - Voter ID,,,No,91
+Lawrence,Monticello-Beat 5,Measure No. 27 - Voter ID,,,No,73
+Lawrence,North Silver Creek,Measure No. 27 - Voter ID,,,No,38
+Lawrence,Nola,Measure No. 27 - Voter ID,,,No,42
+Lawrence,Oakvale,Measure No. 27 - Voter ID,,,No,22
+Lawrence,Peyton Town,Measure No. 27 - Voter ID,,,No,109
+Lawrence,South Silver Creek,Measure No. 27 - Voter ID,,,No,137
+Lawrence,West Arm,Measure No. 27 - Voter ID,,,No,88
+Lawrence,West Monticello - 53,Measure No. 27 - Voter ID,,,No,6
+Lawrence,Oakvale-91,Measure No. 27 - Voter ID,,,No,2
+Lawrence,Oma,Measure No. 27 - Voter ID,,,No,165
+Lawrence,Sontag,Measure No. 27 - Voter ID,,,No,100
+Lawrence,Wanilla,Measure No. 27 - Voter ID,,,No,43
+Lawrence,Precinct 53,Measure No. 27 - Voter ID,,,No,26
+Lawrence,West Monticello (A-Z),Measure No. 27 - Voter ID,,,No,222
+Lawrence,Center,Measure No. 27 - Voter ID,,,No,22
+Lawrence,Coopers Creek (A-Z),Measure No. 27 - Voter ID,,,No,80
+Lawrence,Jayess,Measure No. 27 - Voter ID,,,No,60
+Lawrence,Courthouse A-Z,Measure No. 27 - Voter ID,,,Over Votes,0
+Lawrence,Tilton,Measure No. 27 - Voter ID,,,Over Votes,0
+Lawrence,Topeka,Measure No. 27 - Voter ID,,,Over Votes,0
+Lawrence,Armory,Measure No. 27 - Voter ID,,,Over Votes,0
+Lawrence,Grange,Measure No. 27 - Voter ID,,,Over Votes,0
+Lawrence,Hooker,Measure No. 27 - Voter ID,,,Over Votes,0
+Lawrence,New Hebron,Measure No. 27 - Voter ID,,,Over Votes,0
+Lawrence,Stringer,Measure No. 27 - Voter ID,,,Over Votes,0
+Lawrence,East Arm,Measure No. 27 - Voter ID,,,Over Votes,0
+Lawrence,Monticello-Beat 5,Measure No. 27 - Voter ID,,,Over Votes,0
+Lawrence,North Silver Creek,Measure No. 27 - Voter ID,,,Over Votes,0
+Lawrence,Nola,Measure No. 27 - Voter ID,,,Over Votes,0
+Lawrence,Oakvale,Measure No. 27 - Voter ID,,,Over Votes,0
+Lawrence,Peyton Town,Measure No. 27 - Voter ID,,,Over Votes,0
+Lawrence,South Silver Creek,Measure No. 27 - Voter ID,,,Over Votes,0
+Lawrence,West Arm,Measure No. 27 - Voter ID,,,Over Votes,0
+Lawrence,West Monticello - 53,Measure No. 27 - Voter ID,,,Over Votes,0
+Lawrence,Oakvale-91,Measure No. 27 - Voter ID,,,Over Votes,0
+Lawrence,Oma,Measure No. 27 - Voter ID,,,Over Votes,0
+Lawrence,Sontag,Measure No. 27 - Voter ID,,,Over Votes,0
+Lawrence,Wanilla,Measure No. 27 - Voter ID,,,Over Votes,0
+Lawrence,Precinct 53,Measure No. 27 - Voter ID,,,Over Votes,0
+Lawrence,West Monticello (A-Z),Measure No. 27 - Voter ID,,,Over Votes,0
+Lawrence,Center,Measure No. 27 - Voter ID,,,Over Votes,0
+Lawrence,Coopers Creek (A-Z),Measure No. 27 - Voter ID,,,Over Votes,0
+Lawrence,Jayess,Measure No. 27 - Voter ID,,,Over Votes,0
+Lawrence,Courthouse A-Z,Measure No. 27 - Voter ID,,,Under Votes,15
+Lawrence,Tilton,Measure No. 27 - Voter ID,,,Under Votes,6
+Lawrence,Topeka,Measure No. 27 - Voter ID,,,Under Votes,10
+Lawrence,Armory,Measure No. 27 - Voter ID,,,Under Votes,6
+Lawrence,Grange,Measure No. 27 - Voter ID,,,Under Votes,1
+Lawrence,Hooker,Measure No. 27 - Voter ID,,,Under Votes,3
+Lawrence,New Hebron,Measure No. 27 - Voter ID,,,Under Votes,19
+Lawrence,Stringer,Measure No. 27 - Voter ID,,,Under Votes,5
+Lawrence,East Arm,Measure No. 27 - Voter ID,,,Under Votes,3
+Lawrence,Monticello-Beat 5,Measure No. 27 - Voter ID,,,Under Votes,3
+Lawrence,North Silver Creek,Measure No. 27 - Voter ID,,,Under Votes,3
+Lawrence,Nola,Measure No. 27 - Voter ID,,,Under Votes,2
+Lawrence,Oakvale,Measure No. 27 - Voter ID,,,Under Votes,1
+Lawrence,Peyton Town,Measure No. 27 - Voter ID,,,Under Votes,8
+Lawrence,South Silver Creek,Measure No. 27 - Voter ID,,,Under Votes,6
+Lawrence,West Arm,Measure No. 27 - Voter ID,,,Under Votes,3
+Lawrence,West Monticello - 53,Measure No. 27 - Voter ID,,,Under Votes,2
+Lawrence,Oakvale-91,Measure No. 27 - Voter ID,,,Under Votes,1
+Lawrence,Oma,Measure No. 27 - Voter ID,,,Under Votes,5
+Lawrence,Sontag,Measure No. 27 - Voter ID,,,Under Votes,3
+Lawrence,Wanilla,Measure No. 27 - Voter ID,,,Under Votes,2
+Lawrence,Precinct 53,Measure No. 27 - Voter ID,,,Under Votes,0
+Lawrence,West Monticello (A-Z),Measure No. 27 - Voter ID,,,Under Votes,12
+Lawrence,Center,Measure No. 27 - Voter ID,,,Under Votes,2
+Lawrence,Coopers Creek (A-Z),Measure No. 27 - Voter ID,,,Under Votes,13
+Lawrence,Jayess,Measure No. 27 - Voter ID,,,Under Votes,9
+Lawrence,Courthouse A-Z,Measure No. 31 - Eminent Domain,,,Yes,695
+Lawrence,Tilton,Measure No. 31 - Eminent Domain,,,Yes,129
+Lawrence,Topeka,Measure No. 31 - Eminent Domain,,,Yes,210
+Lawrence,Armory,Measure No. 31 - Eminent Domain,,,Yes,88
+Lawrence,Grange,Measure No. 31 - Eminent Domain,,,Yes,133
+Lawrence,Hooker,Measure No. 31 - Eminent Domain,,,Yes,114
+Lawrence,New Hebron,Measure No. 31 - Eminent Domain,,,Yes,279
+Lawrence,Stringer,Measure No. 31 - Eminent Domain,,,Yes,184
+Lawrence,East Arm,Measure No. 31 - Eminent Domain,,,Yes,130
+Lawrence,Monticello-Beat 5,Measure No. 31 - Eminent Domain,,,Yes,62
+Lawrence,North Silver Creek,Measure No. 31 - Eminent Domain,,,Yes,70
+Lawrence,Nola,Measure No. 31 - Eminent Domain,,,Yes,65
+Lawrence,Oakvale,Measure No. 31 - Eminent Domain,,,Yes,81
+Lawrence,Peyton Town,Measure No. 31 - Eminent Domain,,,Yes,81
+Lawrence,South Silver Creek,Measure No. 31 - Eminent Domain,,,Yes,162
+Lawrence,West Arm,Measure No. 31 - Eminent Domain,,,Yes,128
+Lawrence,West Monticello - 53,Measure No. 31 - Eminent Domain,,,Yes,21
+Lawrence,Oakvale-91,Measure No. 31 - Eminent Domain,,,Yes,12
+Lawrence,Oma,Measure No. 31 - Eminent Domain,,,Yes,143
+Lawrence,Sontag,Measure No. 31 - Eminent Domain,,,Yes,198
+Lawrence,Wanilla,Measure No. 31 - Eminent Domain,,,Yes,82
+Lawrence,Precinct 53,Measure No. 31 - Eminent Domain,,,Yes,111
+Lawrence,West Monticello (A-Z),Measure No. 31 - Eminent Domain,,,Yes,310
+Lawrence,Center,Measure No. 31 - Eminent Domain,,,Yes,117
+Lawrence,Coopers Creek (A-Z),Measure No. 31 - Eminent Domain,,,Yes,331
+Lawrence,Jayess,Measure No. 31 - Eminent Domain,,,Yes,247
+Lawrence,Courthouse A-Z,Measure No. 31 - Eminent Domain,,,No,210
+Lawrence,Tilton,Measure No. 31 - Eminent Domain,,,No,35
+Lawrence,Topeka,Measure No. 31 - Eminent Domain,,,No,39
+Lawrence,Armory,Measure No. 31 - Eminent Domain,,,No,17
+Lawrence,Grange,Measure No. 31 - Eminent Domain,,,No,28
+Lawrence,Hooker,Measure No. 31 - Eminent Domain,,,No,37
+Lawrence,New Hebron,Measure No. 31 - Eminent Domain,,,No,84
+Lawrence,Stringer,Measure No. 31 - Eminent Domain,,,No,70
+Lawrence,East Arm,Measure No. 31 - Eminent Domain,,,No,56
+Lawrence,Monticello-Beat 5,Measure No. 31 - Eminent Domain,,,No,25
+Lawrence,North Silver Creek,Measure No. 31 - Eminent Domain,,,No,22
+Lawrence,Nola,Measure No. 31 - Eminent Domain,,,No,28
+Lawrence,Oakvale,Measure No. 31 - Eminent Domain,,,No,17
+Lawrence,Peyton Town,Measure No. 31 - Eminent Domain,,,No,59
+Lawrence,South Silver Creek,Measure No. 31 - Eminent Domain,,,No,72
+Lawrence,West Arm,Measure No. 31 - Eminent Domain,,,No,34
+Lawrence,West Monticello - 53,Measure No. 31 - Eminent Domain,,,No,6
+Lawrence,Oakvale-91,Measure No. 31 - Eminent Domain,,,No,5
+Lawrence,Oma,Measure No. 31 - Eminent Domain,,,No,109
+Lawrence,Sontag,Measure No. 31 - Eminent Domain,,,No,79
+Lawrence,Wanilla,Measure No. 31 - Eminent Domain,,,No,26
+Lawrence,Precinct 53,Measure No. 31 - Eminent Domain,,,No,25
+Lawrence,West Monticello (A-Z),Measure No. 31 - Eminent Domain,,,No,143
+Lawrence,Center,Measure No. 31 - Eminent Domain,,,No,30
+Lawrence,Coopers Creek (A-Z),Measure No. 31 - Eminent Domain,,,No,89
+Lawrence,Jayess,Measure No. 31 - Eminent Domain,,,No,51
+Lawrence,Courthouse A-Z,Measure No. 31 - Eminent Domain,,,Over Votes,0
+Lawrence,Tilton,Measure No. 31 - Eminent Domain,,,Over Votes,0
+Lawrence,Topeka,Measure No. 31 - Eminent Domain,,,Over Votes,0
+Lawrence,Armory,Measure No. 31 - Eminent Domain,,,Over Votes,0
+Lawrence,Grange,Measure No. 31 - Eminent Domain,,,Over Votes,0
+Lawrence,Hooker,Measure No. 31 - Eminent Domain,,,Over Votes,0
+Lawrence,New Hebron,Measure No. 31 - Eminent Domain,,,Over Votes,0
+Lawrence,Stringer,Measure No. 31 - Eminent Domain,,,Over Votes,0
+Lawrence,East Arm,Measure No. 31 - Eminent Domain,,,Over Votes,0
+Lawrence,Monticello-Beat 5,Measure No. 31 - Eminent Domain,,,Over Votes,0
+Lawrence,North Silver Creek,Measure No. 31 - Eminent Domain,,,Over Votes,0
+Lawrence,Nola,Measure No. 31 - Eminent Domain,,,Over Votes,0
+Lawrence,Oakvale,Measure No. 31 - Eminent Domain,,,Over Votes,0
+Lawrence,Peyton Town,Measure No. 31 - Eminent Domain,,,Over Votes,0
+Lawrence,South Silver Creek,Measure No. 31 - Eminent Domain,,,Over Votes,0
+Lawrence,West Arm,Measure No. 31 - Eminent Domain,,,Over Votes,0
+Lawrence,West Monticello - 53,Measure No. 31 - Eminent Domain,,,Over Votes,0
+Lawrence,Oakvale-91,Measure No. 31 - Eminent Domain,,,Over Votes,0
+Lawrence,Oma,Measure No. 31 - Eminent Domain,,,Over Votes,0
+Lawrence,Sontag,Measure No. 31 - Eminent Domain,,,Over Votes,0
+Lawrence,Wanilla,Measure No. 31 - Eminent Domain,,,Over Votes,0
+Lawrence,Precinct 53,Measure No. 31 - Eminent Domain,,,Over Votes,0
+Lawrence,West Monticello (A-Z),Measure No. 31 - Eminent Domain,,,Over Votes,0
+Lawrence,Center,Measure No. 31 - Eminent Domain,,,Over Votes,0
+Lawrence,Coopers Creek (A-Z),Measure No. 31 - Eminent Domain,,,Over Votes,0
+Lawrence,Jayess,Measure No. 31 - Eminent Domain,,,Over Votes,0
+Lawrence,Courthouse A-Z,Measure No. 31 - Eminent Domain,,,Under Votes,6
+Lawrence,Tilton,Measure No. 31 - Eminent Domain,,,Under Votes,4
+Lawrence,Topeka,Measure No. 31 - Eminent Domain,,,Under Votes,11
+Lawrence,Armory,Measure No. 31 - Eminent Domain,,,Under Votes,7
+Lawrence,Grange,Measure No. 31 - Eminent Domain,,,Under Votes,1
+Lawrence,Hooker,Measure No. 31 - Eminent Domain,,,Under Votes,5
+Lawrence,New Hebron,Measure No. 31 - Eminent Domain,,,Under Votes,16
+Lawrence,Stringer,Measure No. 31 - Eminent Domain,,,Under Votes,4
+Lawrence,East Arm,Measure No. 31 - Eminent Domain,,,Under Votes,3
+Lawrence,Monticello-Beat 5,Measure No. 31 - Eminent Domain,,,Under Votes,3
+Lawrence,North Silver Creek,Measure No. 31 - Eminent Domain,,,Under Votes,4
+Lawrence,Nola,Measure No. 31 - Eminent Domain,,,Under Votes,3
+Lawrence,Oakvale,Measure No. 31 - Eminent Domain,,,Under Votes,1
+Lawrence,Peyton Town,Measure No. 31 - Eminent Domain,,,Under Votes,4
+Lawrence,South Silver Creek,Measure No. 31 - Eminent Domain,,,Under Votes,4
+Lawrence,West Arm,Measure No. 31 - Eminent Domain,,,Under Votes,2
+Lawrence,West Monticello - 53,Measure No. 31 - Eminent Domain,,,Under Votes,1
+Lawrence,Oakvale-91,Measure No. 31 - Eminent Domain,,,Under Votes,0
+Lawrence,Oma,Measure No. 31 - Eminent Domain,,,Under Votes,4
+Lawrence,Sontag,Measure No. 31 - Eminent Domain,,,Under Votes,1
+Lawrence,Wanilla,Measure No. 31 - Eminent Domain,,,Under Votes,2
+Lawrence,Precinct 53,Measure No. 31 - Eminent Domain,,,Under Votes,0
+Lawrence,West Monticello (A-Z),Measure No. 31 - Eminent Domain,,,Under Votes,8
+Lawrence,Center,Measure No. 31 - Eminent Domain,,,Under Votes,0
+Lawrence,Coopers Creek (A-Z),Measure No. 31 - Eminent Domain,,,Under Votes,11
+Lawrence,Jayess,Measure No. 31 - Eminent Domain,,,Under Votes,10
