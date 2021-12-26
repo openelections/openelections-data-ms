@@ -370,26 +370,207 @@ Webster,Fame,State House,35,Libertarian,"Jan R. 'Jay' Butler, Jr.",19
 Webster,Clarkson,State House,35,Libertarian,"Jan R. 'Jay' Butler, Jr.",19
 Webster,Cumberland,State House,35,Libertarian,"Jan R. 'Jay' Butler, Jr.",20
 Webster,Mantee,State House,35,Libertarian,"Jan R. 'Jay' Butler, Jr.",10
-Webster,,Governor,,Republican,Phil Bryant,3459
-Webster,,Governor,,Democrat,Johnny L. DuPree,946
-Webster,,Lieutenant Governor,,Republican,Tate Reeves,3760
-Webster,,Lieutenant Governor,,Reform,Tracella Lou O'Hara Hill,408
-Webster,,Secretary of State,,Republican,Delbert Hosemann,3916
-Webster,,Attorney General,,Democrat,Jim Hood,2564
-Webster,,Attorney General,,Republican,Steve Simpson,1810
-Webster,,State Auditor,,Republican,Stacey E. Pickering,3489
-Webster,,State Auditor,,Reform,Ashley Norwood,673
-Webster,,Treasurer,,Republican,Lynn Fitch,3157
-Webster,,Treasurer,,Democrat,Connie Moran,1025
-Webster,,Treasurer,,Reform,Shawn O'Hara,133
-Webster,,Commissioner of Agriculture & Commerce,,Democrat,Joel Gill,1165
-Webster,,Commissioner of Agriculture & Commerce,,Republican,Cindy Hyde-Smith,3063
-Webster,,Commissioner of Agriculture & Commerce,,Reform,Cathy L. Toole,95
-Webster,,Commissioner of Insurance,,Republican,Mike Chaney,3272
-Webster,,Commissioner of Insurance,,Democrat,Louis Fondren,891
-Webster,,Commissioner of Insurance,,Reform,Barbara Dale Washer,161
-Webster,,State Senate,15,Republican,Gary Jackson,3819
-Webster,,State House,23,Republican,Charles Jim Beckett,698
-Webster,,State House,23,Democrat,Steve Whitten,443
-Webster,,State House,35,Republican,Joey Hood,2727
-Webster,,State House,35,Libertarian,"Jan R. 'Jay' Butler, Jr.",415
+Webster,Eupora No. 1,Measure No. 26 - Definition of a person,,,Yes,311
+Webster,Bluff Springs,Measure No. 26 - Definition of a person,,,Yes,54
+Webster,Eupora No. 2,Measure No. 26 - Definition of a person,,,Yes,137
+Webster,Walthall,Measure No. 26 - Definition of a person,,,Yes,159
+Webster,Bellefontaine,Measure No. 26 - Definition of a person,,,Yes,116
+Webster,Cadaretta,Measure No. 26 - Definition of a person,,,Yes,47
+Webster,Eupora No. 3,Measure No. 26 - Definition of a person,,,Yes,118
+Webster,Grady,Measure No. 26 - Definition of a person,,,Yes,92
+Webster,Tomnolen,Measure No. 26 - Definition of a person,,,Yes,162
+Webster,Fay,Measure No. 26 - Definition of a person,,,Yes,56
+Webster,Mathiston,Measure No. 26 - Definition of a person,,,Yes,226
+Webster,Maben,Measure No. 26 - Definition of a person,,,Yes,162
+Webster,Big Black,Measure No. 26 - Definition of a person,,,Yes,133
+Webster,Fame,Measure No. 26 - Definition of a person,,,Yes,145
+Webster,Clarkson,Measure No. 26 - Definition of a person,,,Yes,122
+Webster,Cumberland,Measure No. 26 - Definition of a person,,,Yes,126
+Webster,Mantee,Measure No. 26 - Definition of a person,,,Yes,187
+Webster,Eupora No. 1,Measure No. 26 - Definition of a person,,,No,342
+Webster,Bluff Springs,Measure No. 26 - Definition of a person,,,No,61
+Webster,Eupora No. 2,Measure No. 26 - Definition of a person,,,No,115
+Webster,Walthall,Measure No. 26 - Definition of a person,,,No,116
+Webster,Bellefontaine,Measure No. 26 - Definition of a person,,,No,77
+Webster,Cadaretta,Measure No. 26 - Definition of a person,,,No,54
+Webster,Eupora No. 3,Measure No. 26 - Definition of a person,,,No,102
+Webster,Grady,Measure No. 26 - Definition of a person,,,No,111
+Webster,Tomnolen,Measure No. 26 - Definition of a person,,,No,141
+Webster,Fay,Measure No. 26 - Definition of a person,,,No,37
+Webster,Mathiston,Measure No. 26 - Definition of a person,,,No,157
+Webster,Maben,Measure No. 26 - Definition of a person,,,No,163
+Webster,Big Black,Measure No. 26 - Definition of a person,,,No,80
+Webster,Fame,Measure No. 26 - Definition of a person,,,No,85
+Webster,Clarkson,Measure No. 26 - Definition of a person,,,No,113
+Webster,Cumberland,Measure No. 26 - Definition of a person,,,No,104
+Webster,Mantee,Measure No. 26 - Definition of a person,,,No,110
+Webster,Eupora No. 1,Measure No. 26 - Definition of a person,,,Over votes,0
+Webster,Bluff Springs,Measure No. 26 - Definition of a person,,,Over votes,0
+Webster,Eupora No. 2,Measure No. 26 - Definition of a person,,,Over votes,0
+Webster,Walthall,Measure No. 26 - Definition of a person,,,Over votes,0
+Webster,Bellefontaine,Measure No. 26 - Definition of a person,,,Over votes,0
+Webster,Cadaretta,Measure No. 26 - Definition of a person,,,Over votes,0
+Webster,Eupora No. 3,Measure No. 26 - Definition of a person,,,Over votes,0
+Webster,Grady,Measure No. 26 - Definition of a person,,,Over votes,0
+Webster,Tomnolen,Measure No. 26 - Definition of a person,,,Over votes,0
+Webster,Fay,Measure No. 26 - Definition of a person,,,Over votes,0
+Webster,Mathiston,Measure No. 26 - Definition of a person,,,Over votes,0
+Webster,Maben,Measure No. 26 - Definition of a person,,,Over votes,0
+Webster,Big Black,Measure No. 26 - Definition of a person,,,Over votes,0
+Webster,Fame,Measure No. 26 - Definition of a person,,,Over votes,0
+Webster,Clarkson,Measure No. 26 - Definition of a person,,,Over votes,0
+Webster,Cumberland,Measure No. 26 - Definition of a person,,,Over votes,0
+Webster,Mantee,Measure No. 26 - Definition of a person,,,Over votes,0
+Webster,Eupora No. 1,Measure No. 26 - Definition of a person,,,Under votes,2
+Webster,Bluff Springs,Measure No. 26 - Definition of a person,,,Under votes,0
+Webster,Eupora No. 2,Measure No. 26 - Definition of a person,,,Under votes,12
+Webster,Walthall,Measure No. 26 - Definition of a person,,,Under votes,5
+Webster,Bellefontaine,Measure No. 26 - Definition of a person,,,Under votes,4
+Webster,Cadaretta,Measure No. 26 - Definition of a person,,,Under votes,1
+Webster,Eupora No. 3,Measure No. 26 - Definition of a person,,,Under votes,8
+Webster,Grady,Measure No. 26 - Definition of a person,,,Under votes,7
+Webster,Tomnolen,Measure No. 26 - Definition of a person,,,Under votes,9
+Webster,Fay,Measure No. 26 - Definition of a person,,,Under votes,7
+Webster,Mathiston,Measure No. 26 - Definition of a person,,,Under votes,9
+Webster,Maben,Measure No. 26 - Definition of a person,,,Under votes,8
+Webster,Big Black,Measure No. 26 - Definition of a person,,,Under votes,3
+Webster,Fame,Measure No. 26 - Definition of a person,,,Under votes,5
+Webster,Clarkson,Measure No. 26 - Definition of a person,,,Under votes,9
+Webster,Cumberland,Measure No. 26 - Definition of a person,,,Under votes,2
+Webster,Mantee,Measure No. 26 - Definition of a person,,,Under votes,0
+Webster,Eupora No. 1,Measure No. 27 - Voter ID,,,Yes,399
+Webster,Bluff Springs,Measure No. 27 - Voter ID,,,Yes,62
+Webster,Eupora No. 2,Measure No. 27 - Voter ID,,,Yes,188
+Webster,Walthall,Measure No. 27 - Voter ID,,,Yes,234
+Webster,Bellefontaine,Measure No. 27 - Voter ID,,,Yes,138
+Webster,Cadaretta,Measure No. 27 - Voter ID,,,Yes,72
+Webster,Eupora No. 3,Measure No. 27 - Voter ID,,,Yes,147
+Webster,Grady,Measure No. 27 - Voter ID,,,Yes,134
+Webster,Tomnolen,Measure No. 27 - Voter ID,,,Yes,213
+Webster,Fay,Measure No. 27 - Voter ID,,,Yes,69
+Webster,Mathiston,Measure No. 27 - Voter ID,,,Yes,285
+Webster,Maben,Measure No. 27 - Voter ID,,,Yes,222
+Webster,Big Black,Measure No. 27 - Voter ID,,,Yes,163
+Webster,Fame,Measure No. 27 - Voter ID,,,Yes,159
+Webster,Clarkson,Measure No. 27 - Voter ID,,,Yes,174
+Webster,Cumberland,Measure No. 27 - Voter ID,,,Yes,157
+Webster,Mantee,Measure No. 27 - Voter ID,,,Yes,232
+Webster,Eupora No. 1,Measure No. 27 - Voter ID,,,No,250
+Webster,Bluff Springs,Measure No. 27 - Voter ID,,,No,51
+Webster,Eupora No. 2,Measure No. 27 - Voter ID,,,No,66
+Webster,Walthall,Measure No. 27 - Voter ID,,,No,41
+Webster,Bellefontaine,Measure No. 27 - Voter ID,,,No,55
+Webster,Cadaretta,Measure No. 27 - Voter ID,,,No,26
+Webster,Eupora No. 3,Measure No. 27 - Voter ID,,,No,74
+Webster,Grady,Measure No. 27 - Voter ID,,,No,72
+Webster,Tomnolen,Measure No. 27 - Voter ID,,,No,90
+Webster,Fay,Measure No. 27 - Voter ID,,,No,26
+Webster,Mathiston,Measure No. 27 - Voter ID,,,No,100
+Webster,Maben,Measure No. 27 - Voter ID,,,No,104
+Webster,Big Black,Measure No. 27 - Voter ID,,,No,47
+Webster,Fame,Measure No. 27 - Voter ID,,,No,71
+Webster,Clarkson,Measure No. 27 - Voter ID,,,No,65
+Webster,Cumberland,Measure No. 27 - Voter ID,,,No,73
+Webster,Mantee,Measure No. 27 - Voter ID,,,No,61
+Webster,Eupora No. 1,Measure No. 27 - Voter ID,,,Over votes,0
+Webster,Bluff Springs,Measure No. 27 - Voter ID,,,Over votes,0
+Webster,Eupora No. 2,Measure No. 27 - Voter ID,,,Over votes,0
+Webster,Walthall,Measure No. 27 - Voter ID,,,Over votes,0
+Webster,Bellefontaine,Measure No. 27 - Voter ID,,,Over votes,0
+Webster,Cadaretta,Measure No. 27 - Voter ID,,,Over votes,0
+Webster,Eupora No. 3,Measure No. 27 - Voter ID,,,Over votes,0
+Webster,Grady,Measure No. 27 - Voter ID,,,Over votes,0
+Webster,Tomnolen,Measure No. 27 - Voter ID,,,Over votes,0
+Webster,Fay,Measure No. 27 - Voter ID,,,Over votes,0
+Webster,Mathiston,Measure No. 27 - Voter ID,,,Over votes,0
+Webster,Maben,Measure No. 27 - Voter ID,,,Over votes,0
+Webster,Big Black,Measure No. 27 - Voter ID,,,Over votes,0
+Webster,Fame,Measure No. 27 - Voter ID,,,Over votes,0
+Webster,Clarkson,Measure No. 27 - Voter ID,,,Over votes,0
+Webster,Cumberland,Measure No. 27 - Voter ID,,,Over votes,0
+Webster,Mantee,Measure No. 27 - Voter ID,,,Over votes,0
+Webster,Eupora No. 1,Measure No. 27 - Voter ID,,,Under votes,2
+Webster,Bluff Springs,Measure No. 27 - Voter ID,,,Under votes,0
+Webster,Eupora No. 2,Measure No. 27 - Voter ID,,,Under votes,10
+Webster,Walthall,Measure No. 27 - Voter ID,,,Under votes,5
+Webster,Bellefontaine,Measure No. 27 - Voter ID,,,Under votes,3
+Webster,Cadaretta,Measure No. 27 - Voter ID,,,Under votes,4
+Webster,Eupora No. 3,Measure No. 27 - Voter ID,,,Under votes,7
+Webster,Grady,Measure No. 27 - Voter ID,,,Under votes,4
+Webster,Tomnolen,Measure No. 27 - Voter ID,,,Under votes,9
+Webster,Fay,Measure No. 27 - Voter ID,,,Under votes,5
+Webster,Mathiston,Measure No. 27 - Voter ID,,,Under votes,7
+Webster,Maben,Measure No. 27 - Voter ID,,,Under votes,8
+Webster,Big Black,Measure No. 27 - Voter ID,,,Under votes,6
+Webster,Fame,Measure No. 27 - Voter ID,,,Under votes,4
+Webster,Clarkson,Measure No. 27 - Voter ID,,,Under votes,5
+Webster,Cumberland,Measure No. 27 - Voter ID,,,Under votes,3
+Webster,Mantee,Measure No. 27 - Voter ID,,,Under votes,1
+Webster,Eupora No. 1,Measure No. 31 - Eminent Domain,,,Yes,451
+Webster,Bluff Springs,Measure No. 31 - Eminent Domain,,,Yes,87
+Webster,Eupora No. 2,Measure No. 31 - Eminent Domain,,,Yes,202
+Webster,Walthall,Measure No. 31 - Eminent Domain,,,Yes,236
+Webster,Bellefontaine,Measure No. 31 - Eminent Domain,,,Yes,154
+Webster,Cadaretta,Measure No. 31 - Eminent Domain,,,Yes,84
+Webster,Eupora No. 3,Measure No. 31 - Eminent Domain,,,Yes,161
+Webster,Grady,Measure No. 31 - Eminent Domain,,,Yes,157
+Webster,Tomnolen,Measure No. 31 - Eminent Domain,,,Yes,240
+Webster,Fay,Measure No. 31 - Eminent Domain,,,Yes,72
+Webster,Mathiston,Measure No. 31 - Eminent Domain,,,Yes,286
+Webster,Maben,Measure No. 31 - Eminent Domain,,,Yes,252
+Webster,Big Black,Measure No. 31 - Eminent Domain,,,Yes,186
+Webster,Fame,Measure No. 31 - Eminent Domain,,,Yes,193
+Webster,Clarkson,Measure No. 31 - Eminent Domain,,,Yes,201
+Webster,Cumberland,Measure No. 31 - Eminent Domain,,,Yes,183
+Webster,Mantee,Measure No. 31 - Eminent Domain,,,Yes,235
+Webster,Eupora No. 1,Measure No. 31 - Eminent Domain,,,No,201
+Webster,Bluff Springs,Measure No. 31 - Eminent Domain,,,No,27
+Webster,Eupora No. 2,Measure No. 31 - Eminent Domain,,,No,56
+Webster,Walthall,Measure No. 31 - Eminent Domain,,,No,43
+Webster,Bellefontaine,Measure No. 31 - Eminent Domain,,,No,41
+Webster,Cadaretta,Measure No. 31 - Eminent Domain,,,No,17
+Webster,Eupora No. 3,Measure No. 31 - Eminent Domain,,,No,61
+Webster,Grady,Measure No. 31 - Eminent Domain,,,No,52
+Webster,Tomnolen,Measure No. 31 - Eminent Domain,,,No,66
+Webster,Fay,Measure No. 31 - Eminent Domain,,,No,23
+Webster,Mathiston,Measure No. 31 - Eminent Domain,,,No,99
+Webster,Maben,Measure No. 31 - Eminent Domain,,,No,75
+Webster,Big Black,Measure No. 31 - Eminent Domain,,,No,26
+Webster,Fame,Measure No. 31 - Eminent Domain,,,No,38
+Webster,Clarkson,Measure No. 31 - Eminent Domain,,,No,38
+Webster,Cumberland,Measure No. 31 - Eminent Domain,,,No,48
+Webster,Mantee,Measure No. 31 - Eminent Domain,,,No,57
+Webster,Eupora No. 1,Measure No. 31 - Eminent Domain,,,Over votes,0
+Webster,Bluff Springs,Measure No. 31 - Eminent Domain,,,Over votes,0
+Webster,Eupora No. 2,Measure No. 31 - Eminent Domain,,,Over votes,0
+Webster,Walthall,Measure No. 31 - Eminent Domain,,,Over votes,0
+Webster,Bellefontaine,Measure No. 31 - Eminent Domain,,,Over votes,0
+Webster,Cadaretta,Measure No. 31 - Eminent Domain,,,Over votes,0
+Webster,Eupora No. 3,Measure No. 31 - Eminent Domain,,,Over votes,0
+Webster,Grady,Measure No. 31 - Eminent Domain,,,Over votes,0
+Webster,Tomnolen,Measure No. 31 - Eminent Domain,,,Over votes,0
+Webster,Fay,Measure No. 31 - Eminent Domain,,,Over votes,0
+Webster,Mathiston,Measure No. 31 - Eminent Domain,,,Over votes,0
+Webster,Maben,Measure No. 31 - Eminent Domain,,,Over votes,0
+Webster,Big Black,Measure No. 31 - Eminent Domain,,,Over votes,0
+Webster,Fame,Measure No. 31 - Eminent Domain,,,Over votes,0
+Webster,Clarkson,Measure No. 31 - Eminent Domain,,,Over votes,0
+Webster,Cumberland,Measure No. 31 - Eminent Domain,,,Over votes,0
+Webster,Mantee,Measure No. 31 - Eminent Domain,,,Over votes,0
+Webster,Eupora No. 1,Measure No. 31 - Eminent Domain,,,Under votes,3
+Webster,Bluff Springs,Measure No. 31 - Eminent Domain,,,Under votes,0
+Webster,Eupora No. 2,Measure No. 31 - Eminent Domain,,,Under votes,6
+Webster,Walthall,Measure No. 31 - Eminent Domain,,,Under votes,1
+Webster,Bellefontaine,Measure No. 31 - Eminent Domain,,,Under votes,1
+Webster,Cadaretta,Measure No. 31 - Eminent Domain,,,Under votes,1
+Webster,Eupora No. 3,Measure No. 31 - Eminent Domain,,,Under votes,6
+Webster,Grady,Measure No. 31 - Eminent Domain,,,Under votes,1
+Webster,Tomnolen,Measure No. 31 - Eminent Domain,,,Under votes,6
+Webster,Fay,Measure No. 31 - Eminent Domain,,,Under votes,5
+Webster,Mathiston,Measure No. 31 - Eminent Domain,,,Under votes,7
+Webster,Maben,Measure No. 31 - Eminent Domain,,,Under votes,6
+Webster,Big Black,Measure No. 31 - Eminent Domain,,,Under votes,4
+Webster,Fame,Measure No. 31 - Eminent Domain,,,Under votes,4
+Webster,Clarkson,Measure No. 31 - Eminent Domain,,,Under votes,5
+Webster,Cumberland,Measure No. 31 - Eminent Domain,,,Under votes,2
+Webster,Mantee,Measure No. 31 - Eminent Domain,,,Under votes,2

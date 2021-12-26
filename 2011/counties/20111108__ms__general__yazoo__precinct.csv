@@ -569,32 +569,315 @@ Yazoo,Benton,State House,56,Republican,Philip Gunn,338
 Yazoo,Ward 2,State House,56,Republican,Philip Gunn,281
 Yazoo,Zion,State House,56,Republican,Philip Gunn,154
 Yazoo,Ward 4,State House,56,Republican,Philip Gunn,267
-Yazoo,,Governor,,Republican,Phil Bryant,4492
-Yazoo,,Governor,,Democrat,Johnny L. DuPree,3971
-Yazoo,,Lieutenant Governor,,Republican,Tate Reeves,5500
-Yazoo,,Lieutenant Governor,,Reform,Tracella Lou O'Hara Hill,1724
-Yazoo,,Secretary of State,,Republican,Delbert Hosemann,6096
-Yazoo,,Attorney General,,Democrat,Jim Hood,5773
-Yazoo,,Attorney General,,Republican,Steve Simpson,2514
-Yazoo,,State Auditor,,Republican,Stacey E. Pickering,5003
-Yazoo,,State Auditor,,Reform,Ashley Norwood,1944
-Yazoo,,Treasurer,,Republican,Lynn Fitch,4503
-Yazoo,,Treasurer,,Democrat,Connie Moran,3443
-Yazoo,,Treasurer,,Reform,Shawn O'Hara,208
-Yazoo,,Commissioner of Agricultute & Commerce,,Democrat,Joel Gill,4000
-Yazoo,,Commissioner of Agricultute & Commerce,,Republican,Cindy Hyde-Smith,3969
-Yazoo,,Commissioner of Agriculture & Commerce,,Reform,Cathy L. Toole,125
-Yazoo,,Commissioner of Insurance,,Republican,Mike Chaney,4501
-Yazoo,,Commissioner of Insurance,,Democrat,Louis Fondren,3376
-Yazoo,,Commissioner of Insurance,,Reform,Barbara Dale Washer,225
-Yazoo,,State Senate,22,Republican,Eugene S. 'Buck' Clarke,997
-Yazoo,,State Senate,22,Democrat,George 'Boo' Hollowell,757
-Yazoo,,State Senate,23,Republican,Briggs Hopson,519
-Yazoo,,State Senate,21,Democrat,Kenneth Wayne Jones,3487
-Yazoo,,State Senate,21,Republican,Loren Ross,2157
-Yazoo,,State House,27,Republican,R. Dewayne Gill,732
-Yazoo,,State House,27,Democrat,Ferr Smith,937
-Yazoo,,State House,47,Democrat,Bryant W. Clark,1750
-Yazoo,,State House,51,Democrat,Rufus E. 'Pete' Straughter,1383
-Yazoo,,State House,56,Democrat,Jim Culberson,648
-Yazoo,,State House,56,Republican,Philip Gunn,2210
+Yazoo,Mechanicsburg,Measure No. 26 - Definition of a person,,,Yes,196
+Yazoo,East Bentonia,Measure No. 26 - Definition of a person,,,Yes,101
+Yazoo,West Bentonia,Measure No. 26 - Definition of a person,,,Yes,128
+Yazoo,Center Ridge,Measure No. 26 - Definition of a person,,,Yes,156
+Yazoo,Dover,Measure No. 26 - Definition of a person,,,Yes,135
+Yazoo,Robinette,Measure No. 26 - Definition of a person,,,Yes,117
+Yazoo,Satartia,Measure No. 26 - Definition of a person,,,Yes,22
+Yazoo,Valley,Measure No. 26 - Definition of a person,,,Yes,45
+Yazoo,Benton,Measure No. 26 - Definition of a person,,,Yes,192
+Yazoo,Ward 2,Measure No. 26 - Definition of a person,,,Yes,213
+Yazoo,Deasonville,Measure No. 26 - Definition of a person,,,Yes,107
+Yazoo,Harttown,Measure No. 26 - Definition of a person,,,Yes,32
+Yazoo,Zion,Measure No. 26 - Definition of a person,,,Yes,79
+Yazoo,Fugates,Measure No. 26 - Definition of a person,,,Yes,126
+Yazoo,3-1 West,Measure No. 26 - Definition of a person,,,Yes,43
+Yazoo,3-2 East,Measure No. 26 - Definition of a person,,,Yes,130
+Yazoo,Jonestown,Measure No. 26 - Definition of a person,,,Yes,65
+Yazoo,3-4 South,Measure No. 26 - Definition of a person,,,Yes,139
+Yazoo,Eden,Measure No. 26 - Definition of a person,,,Yes,78
+Yazoo,East Midway,Measure No. 26 - Definition of a person,,,Yes,61
+Yazoo,West Midway,Measure No. 26 - Definition of a person,,,Yes,60
+Yazoo,Ward 4,Measure No. 26 - Definition of a person,,,Yes,298
+Yazoo,Free Run,Measure No. 26 - Definition of a person,,,Yes,57
+Yazoo,Lake City,Measure No. 26 - Definition of a person,,,Yes,67
+Yazoo,Holly Bluff,Measure No. 26 - Definition of a person,,,Yes,52
+Yazoo,Ward 5,Measure No. 26 - Definition of a person,,,Yes,183
+Yazoo,Mechanicsburg,Measure No. 26 - Definition of a person,,,No,191
+Yazoo,East Bentonia,Measure No. 26 - Definition of a person,,,No,150
+Yazoo,West Bentonia,Measure No. 26 - Definition of a person,,,No,270
+Yazoo,Center Ridge,Measure No. 26 - Definition of a person,,,No,181
+Yazoo,Dover,Measure No. 26 - Definition of a person,,,No,119
+Yazoo,Robinette,Measure No. 26 - Definition of a person,,,No,161
+Yazoo,Satartia,Measure No. 26 - Definition of a person,,,No,32
+Yazoo,Valley,Measure No. 26 - Definition of a person,,,No,71
+Yazoo,Benton,Measure No. 26 - Definition of a person,,,No,324
+Yazoo,Ward 2,Measure No. 26 - Definition of a person,,,No,220
+Yazoo,Deasonville,Measure No. 26 - Definition of a person,,,No,247
+Yazoo,Harttown,Measure No. 26 - Definition of a person,,,No,124
+Yazoo,Zion,Measure No. 26 - Definition of a person,,,No,118
+Yazoo,Fugates,Measure No. 26 - Definition of a person,,,No,201
+Yazoo,3-1 West,Measure No. 26 - Definition of a person,,,No,210
+Yazoo,3-2 East,Measure No. 26 - Definition of a person,,,No,309
+Yazoo,Jonestown,Measure No. 26 - Definition of a person,,,No,168
+Yazoo,3-4 South,Measure No. 26 - Definition of a person,,,No,178
+Yazoo,Eden,Measure No. 26 - Definition of a person,,,No,114
+Yazoo,East Midway,Measure No. 26 - Definition of a person,,,No,137
+Yazoo,West Midway,Measure No. 26 - Definition of a person,,,No,89
+Yazoo,Ward 4,Measure No. 26 - Definition of a person,,,No,550
+Yazoo,Free Run,Measure No. 26 - Definition of a person,,,No,70
+Yazoo,Lake City,Measure No. 26 - Definition of a person,,,No,79
+Yazoo,Holly Bluff,Measure No. 26 - Definition of a person,,,No,93
+Yazoo,Ward 5,Measure No. 26 - Definition of a person,,,No,692
+Yazoo,Mechanicsburg,Measure No. 26 - Definition of a person,,,Over votes,0
+Yazoo,East Bentonia,Measure No. 26 - Definition of a person,,,Over votes,0
+Yazoo,West Bentonia,Measure No. 26 - Definition of a person,,,Over votes,0
+Yazoo,Center Ridge,Measure No. 26 - Definition of a person,,,Over votes,0
+Yazoo,Dover,Measure No. 26 - Definition of a person,,,Over votes,0
+Yazoo,Robinette,Measure No. 26 - Definition of a person,,,Over votes,0
+Yazoo,Satartia,Measure No. 26 - Definition of a person,,,Over votes,0
+Yazoo,Valley,Measure No. 26 - Definition of a person,,,Over votes,0
+Yazoo,Benton,Measure No. 26 - Definition of a person,,,Over votes,0
+Yazoo,Ward 2,Measure No. 26 - Definition of a person,,,Over votes,0
+Yazoo,Deasonville,Measure No. 26 - Definition of a person,,,Over votes,0
+Yazoo,Harttown,Measure No. 26 - Definition of a person,,,Over votes,0
+Yazoo,Zion,Measure No. 26 - Definition of a person,,,Over votes,0
+Yazoo,Fugates,Measure No. 26 - Definition of a person,,,Over votes,0
+Yazoo,3-1 West,Measure No. 26 - Definition of a person,,,Over votes,0
+Yazoo,3-2 East,Measure No. 26 - Definition of a person,,,Over votes,0
+Yazoo,Jonestown,Measure No. 26 - Definition of a person,,,Over votes,0
+Yazoo,3-4 South,Measure No. 26 - Definition of a person,,,Over votes,0
+Yazoo,Eden,Measure No. 26 - Definition of a person,,,Over votes,0
+Yazoo,East Midway,Measure No. 26 - Definition of a person,,,Over votes,0
+Yazoo,West Midway,Measure No. 26 - Definition of a person,,,Over votes,0
+Yazoo,Ward 4,Measure No. 26 - Definition of a person,,,Over votes,0
+Yazoo,Free Run,Measure No. 26 - Definition of a person,,,Over votes,0
+Yazoo,Lake City,Measure No. 26 - Definition of a person,,,Over votes,0
+Yazoo,Holly Bluff,Measure No. 26 - Definition of a person,,,Over votes,0
+Yazoo,Ward 5,Measure No. 26 - Definition of a person,,,Over votes,0
+Yazoo,Mechanicsburg,Measure No. 26 - Definition of a person,,,Under votes,16
+Yazoo,East Bentonia,Measure No. 26 - Definition of a person,,,Under votes,13
+Yazoo,West Bentonia,Measure No. 26 - Definition of a person,,,Under votes,0
+Yazoo,Center Ridge,Measure No. 26 - Definition of a person,,,Under votes,19
+Yazoo,Dover,Measure No. 26 - Definition of a person,,,Under votes,9
+Yazoo,Robinette,Measure No. 26 - Definition of a person,,,Under votes,7
+Yazoo,Satartia,Measure No. 26 - Definition of a person,,,Under votes,7
+Yazoo,Valley,Measure No. 26 - Definition of a person,,,Under votes,4
+Yazoo,Benton,Measure No. 26 - Definition of a person,,,Under votes,31
+Yazoo,Ward 2,Measure No. 26 - Definition of a person,,,Under votes,0
+Yazoo,Deasonville,Measure No. 26 - Definition of a person,,,Under votes,20
+Yazoo,Harttown,Measure No. 26 - Definition of a person,,,Under votes,12
+Yazoo,Zion,Measure No. 26 - Definition of a person,,,Under votes,13
+Yazoo,Fugates,Measure No. 26 - Definition of a person,,,Under votes,30
+Yazoo,3-1 West,Measure No. 26 - Definition of a person,,,Under votes,20
+Yazoo,3-2 East,Measure No. 26 - Definition of a person,,,Under votes,43
+Yazoo,Jonestown,Measure No. 26 - Definition of a person,,,Under votes,25
+Yazoo,3-4 South,Measure No. 26 - Definition of a person,,,Under votes,19
+Yazoo,Eden,Measure No. 26 - Definition of a person,,,Under votes,21
+Yazoo,East Midway,Measure No. 26 - Definition of a person,,,Under votes,16
+Yazoo,West Midway,Measure No. 26 - Definition of a person,,,Under votes,5
+Yazoo,Ward 4,Measure No. 26 - Definition of a person,,,Under votes,16
+Yazoo,Free Run,Measure No. 26 - Definition of a person,,,Under votes,4
+Yazoo,Lake City,Measure No. 26 - Definition of a person,,,Under votes,7
+Yazoo,Holly Bluff,Measure No. 26 - Definition of a person,,,Under votes,15
+Yazoo,Ward 5,Measure No. 26 - Definition of a person,,,Under votes,109
+Yazoo,Mechanicsburg,Measure No. 27 - Voter ID,,,Yes,325
+Yazoo,East Bentonia,Measure No. 27 - Voter ID,,,Yes,161
+Yazoo,West Bentonia,Measure No. 27 - Voter ID,,,Yes,198
+Yazoo,Center Ridge,Measure No. 27 - Voter ID,,,Yes,302
+Yazoo,Dover,Measure No. 27 - Voter ID,,,Yes,205
+Yazoo,Robinette,Measure No. 27 - Voter ID,,,Yes,239
+Yazoo,Satartia,Measure No. 27 - Voter ID,,,Yes,33
+Yazoo,Valley,Measure No. 27 - Voter ID,,,Yes,96
+Yazoo,Benton,Measure No. 27 - Voter ID,,,Yes,375
+Yazoo,Ward 2,Measure No. 27 - Voter ID,,,Yes,321
+Yazoo,Deasonville,Measure No. 27 - Voter ID,,,Yes,206
+Yazoo,Harttown,Measure No. 27 - Voter ID,,,Yes,53
+Yazoo,Zion,Measure No. 27 - Voter ID,,,Yes,154
+Yazoo,Fugates,Measure No. 27 - Voter ID,,,Yes,200
+Yazoo,3-1 West,Measure No. 27 - Voter ID,,,Yes,53
+Yazoo,3-2 East,Measure No. 27 - Voter ID,,,Yes,164
+Yazoo,Jonestown,Measure No. 27 - Voter ID,,,Yes,48
+Yazoo,3-4 South,Measure No. 27 - Voter ID,,,Yes,198
+Yazoo,Eden,Measure No. 27 - Voter ID,,,Yes,145
+Yazoo,East Midway,Measure No. 27 - Voter ID,,,Yes,95
+Yazoo,West Midway,Measure No. 27 - Voter ID,,,Yes,116
+Yazoo,Ward 4,Measure No. 27 - Voter ID,,,Yes,458
+Yazoo,Free Run,Measure No. 27 - Voter ID,,,Yes,98
+Yazoo,Lake City,Measure No. 27 - Voter ID,,,Yes,114
+Yazoo,Holly Bluff,Measure No. 27 - Voter ID,,,Yes,98
+Yazoo,Ward 5,Measure No. 27 - Voter ID,,,Yes,206
+Yazoo,Mechanicsburg,Measure No. 27 - Voter ID,,,No,65
+Yazoo,East Bentonia,Measure No. 27 - Voter ID,,,No,85
+Yazoo,West Bentonia,Measure No. 27 - Voter ID,,,No,207
+Yazoo,Center Ridge,Measure No. 27 - Voter ID,,,No,48
+Yazoo,Dover,Measure No. 27 - Voter ID,,,No,52
+Yazoo,Robinette,Measure No. 27 - Voter ID,,,No,41
+Yazoo,Satartia,Measure No. 27 - Voter ID,,,No,20
+Yazoo,Valley,Measure No. 27 - Voter ID,,,No,24
+Yazoo,Benton,Measure No. 27 - Voter ID,,,No,152
+Yazoo,Ward 2,Measure No. 27 - Voter ID,,,No,112
+Yazoo,Deasonville,Measure No. 27 - Voter ID,,,No,154
+Yazoo,Harttown,Measure No. 27 - Voter ID,,,No,108
+Yazoo,Zion,Measure No. 27 - Voter ID,,,No,48
+Yazoo,Fugates,Measure No. 27 - Voter ID,,,No,137
+Yazoo,3-1 West,Measure No. 27 - Voter ID,,,No,197
+Yazoo,3-2 East,Measure No. 27 - Voter ID,,,No,268
+Yazoo,Jonestown,Measure No. 27 - Voter ID,,,No,179
+Yazoo,3-4 South,Measure No. 27 - Voter ID,,,No,119
+Yazoo,Eden,Measure No. 27 - Voter ID,,,No,49
+Yazoo,East Midway,Measure No. 27 - Voter ID,,,No,106
+Yazoo,West Midway,Measure No. 27 - Voter ID,,,No,36
+Yazoo,Ward 4,Measure No. 27 - Voter ID,,,No,387
+Yazoo,Free Run,Measure No. 27 - Voter ID,,,No,31
+Yazoo,Lake City,Measure No. 27 - Voter ID,,,No,34
+Yazoo,Holly Bluff,Measure No. 27 - Voter ID,,,No,46
+Yazoo,Ward 5,Measure No. 27 - Voter ID,,,No,658
+Yazoo,Mechanicsburg,Measure No. 27 - Voter ID,,,Over votes,0
+Yazoo,East Bentonia,Measure No. 27 - Voter ID,,,Over votes,0
+Yazoo,West Bentonia,Measure No. 27 - Voter ID,,,Over votes,0
+Yazoo,Center Ridge,Measure No. 27 - Voter ID,,,Over votes,0
+Yazoo,Dover,Measure No. 27 - Voter ID,,,Over votes,0
+Yazoo,Robinette,Measure No. 27 - Voter ID,,,Over votes,0
+Yazoo,Satartia,Measure No. 27 - Voter ID,,,Over votes,0
+Yazoo,Valley,Measure No. 27 - Voter ID,,,Over votes,0
+Yazoo,Benton,Measure No. 27 - Voter ID,,,Over votes,0
+Yazoo,Ward 2,Measure No. 27 - Voter ID,,,Over votes,0
+Yazoo,Deasonville,Measure No. 27 - Voter ID,,,Over votes,0
+Yazoo,Harttown,Measure No. 27 - Voter ID,,,Over votes,0
+Yazoo,Zion,Measure No. 27 - Voter ID,,,Over votes,0
+Yazoo,Fugates,Measure No. 27 - Voter ID,,,Over votes,0
+Yazoo,3-1 West,Measure No. 27 - Voter ID,,,Over votes,0
+Yazoo,3-2 East,Measure No. 27 - Voter ID,,,Over votes,0
+Yazoo,Jonestown,Measure No. 27 - Voter ID,,,Over votes,0
+Yazoo,3-4 South,Measure No. 27 - Voter ID,,,Over votes,0
+Yazoo,Eden,Measure No. 27 - Voter ID,,,Over votes,0
+Yazoo,East Midway,Measure No. 27 - Voter ID,,,Over votes,0
+Yazoo,West Midway,Measure No. 27 - Voter ID,,,Over votes,0
+Yazoo,Ward 4,Measure No. 27 - Voter ID,,,Over votes,0
+Yazoo,Free Run,Measure No. 27 - Voter ID,,,Over votes,0
+Yazoo,Lake City,Measure No. 27 - Voter ID,,,Over votes,0
+Yazoo,Holly Bluff,Measure No. 27 - Voter ID,,,Over votes,0
+Yazoo,Ward 5,Measure No. 27 - Voter ID,,,Over votes,0
+Yazoo,Mechanicsburg,Measure No. 27 - Voter ID,,,Under votes,13
+Yazoo,East Bentonia,Measure No. 27 - Voter ID,,,Under votes,18
+Yazoo,West Bentonia,Measure No. 27 - Voter ID,,,Under votes,0
+Yazoo,Center Ridge,Measure No. 27 - Voter ID,,,Under votes,6
+Yazoo,Dover,Measure No. 27 - Voter ID,,,Under votes,6
+Yazoo,Robinette,Measure No. 27 - Voter ID,,,Under votes,6
+Yazoo,Satartia,Measure No. 27 - Voter ID,,,Under votes,8
+Yazoo,Valley,Measure No. 27 - Voter ID,,,Under votes,2
+Yazoo,Benton,Measure No. 27 - Voter ID,,,Under votes,20
+Yazoo,Ward 2,Measure No. 27 - Voter ID,,,Under votes,0
+Yazoo,Deasonville,Measure No. 27 - Voter ID,,,Under votes,14
+Yazoo,Harttown,Measure No. 27 - Voter ID,,,Under votes,7
+Yazoo,Zion,Measure No. 27 - Voter ID,,,Under votes,8
+Yazoo,Fugates,Measure No. 27 - Voter ID,,,Under votes,21
+Yazoo,3-1 West,Measure No. 27 - Voter ID,,,Under votes,23
+Yazoo,3-2 East,Measure No. 27 - Voter ID,,,Under votes,50
+Yazoo,Jonestown,Measure No. 27 - Voter ID,,,Under votes,31
+Yazoo,3-4 South,Measure No. 27 - Voter ID,,,Under votes,17
+Yazoo,Eden,Measure No. 27 - Voter ID,,,Under votes,18
+Yazoo,East Midway,Measure No. 27 - Voter ID,,,Under votes,13
+Yazoo,West Midway,Measure No. 27 - Voter ID,,,Under votes,3
+Yazoo,Ward 4,Measure No. 27 - Voter ID,,,Under votes,15
+Yazoo,Free Run,Measure No. 27 - Voter ID,,,Under votes,2
+Yazoo,Lake City,Measure No. 27 - Voter ID,,,Under votes,5
+Yazoo,Holly Bluff,Measure No. 27 - Voter ID,,,Under votes,16
+Yazoo,Ward 5,Measure No. 27 - Voter ID,,,Under votes,121
+Yazoo,Mechanicsburg,Measure No. 31 - Eminent Domain,,,Yes,316
+Yazoo,East Bentonia,Measure No. 31 - Eminent Domain,,,Yes,190
+Yazoo,West Bentonia,Measure No. 31 - Eminent Domain,,,Yes,252
+Yazoo,Center Ridge,Measure No. 31 - Eminent Domain,,,Yes,257
+Yazoo,Dover,Measure No. 31 - Eminent Domain,,,Yes,214
+Yazoo,Robinette,Measure No. 31 - Eminent Domain,,,Yes,223
+Yazoo,Satartia,Measure No. 31 - Eminent Domain,,,Yes,45
+Yazoo,Valley,Measure No. 31 - Eminent Domain,,,Yes,95
+Yazoo,Benton,Measure No. 31 - Eminent Domain,,,Yes,386
+Yazoo,Ward 2,Measure No. 31 - Eminent Domain,,,Yes,316
+Yazoo,Deasonville,Measure No. 31 - Eminent Domain,,,Yes,236
+Yazoo,Harttown,Measure No. 31 - Eminent Domain,,,Yes,88
+Yazoo,Zion,Measure No. 31 - Eminent Domain,,,Yes,151
+Yazoo,Fugates,Measure No. 31 - Eminent Domain,,,Yes,250
+Yazoo,3-1 West,Measure No. 31 - Eminent Domain,,,Yes,175
+Yazoo,3-2 East,Measure No. 31 - Eminent Domain,,,Yes,264
+Yazoo,Jonestown,Measure No. 31 - Eminent Domain,,,Yes,139
+Yazoo,3-4 South,Measure No. 31 - Eminent Domain,,,Yes,236
+Yazoo,Eden,Measure No. 31 - Eminent Domain,,,Yes,144
+Yazoo,East Midway,Measure No. 31 - Eminent Domain,,,Yes,125
+Yazoo,West Midway,Measure No. 31 - Eminent Domain,,,Yes,117
+Yazoo,Ward 4,Measure No. 31 - Eminent Domain,,,Yes,565
+Yazoo,Free Run,Measure No. 31 - Eminent Domain,,,Yes,101
+Yazoo,Lake City,Measure No. 31 - Eminent Domain,,,Yes,127
+Yazoo,Holly Bluff,Measure No. 31 - Eminent Domain,,,Yes,100
+Yazoo,Ward 5,Measure No. 31 - Eminent Domain,,,Yes,537
+Yazoo,Mechanicsburg,Measure No. 31 - Eminent Domain,,,No,72
+Yazoo,East Bentonia,Measure No. 31 - Eminent Domain,,,No,56
+Yazoo,West Bentonia,Measure No. 31 - Eminent Domain,,,No,151
+Yazoo,Center Ridge,Measure No. 31 - Eminent Domain,,,No,89
+Yazoo,Dover,Measure No. 31 - Eminent Domain,,,No,47
+Yazoo,Robinette,Measure No. 31 - Eminent Domain,,,No,61
+Yazoo,Satartia,Measure No. 31 - Eminent Domain,,,No,9
+Yazoo,Valley,Measure No. 31 - Eminent Domain,,,No,26
+Yazoo,Benton,Measure No. 31 - Eminent Domain,,,No,142
+Yazoo,Ward 2,Measure No. 31 - Eminent Domain,,,No,122
+Yazoo,Deasonville,Measure No. 31 - Eminent Domain,,,No,121
+Yazoo,Harttown,Measure No. 31 - Eminent Domain,,,No,74
+Yazoo,Zion,Measure No. 31 - Eminent Domain,,,No,54
+Yazoo,Fugates,Measure No. 31 - Eminent Domain,,,No,92
+Yazoo,3-1 West,Measure No. 31 - Eminent Domain,,,No,83
+Yazoo,3-2 East,Measure No. 31 - Eminent Domain,,,No,190
+Yazoo,Jonestown,Measure No. 31 - Eminent Domain,,,No,104
+Yazoo,3-4 South,Measure No. 31 - Eminent Domain,,,No,86
+Yazoo,Eden,Measure No. 31 - Eminent Domain,,,No,55
+Yazoo,East Midway,Measure No. 31 - Eminent Domain,,,No,73
+Yazoo,West Midway,Measure No. 31 - Eminent Domain,,,No,35
+Yazoo,Ward 4,Measure No. 31 - Eminent Domain,,,No,286
+Yazoo,Free Run,Measure No. 31 - Eminent Domain,,,No,29
+Yazoo,Lake City,Measure No. 31 - Eminent Domain,,,No,23
+Yazoo,Holly Bluff,Measure No. 31 - Eminent Domain,,,No,54
+Yazoo,Ward 5,Measure No. 31 - Eminent Domain,,,No,362
+Yazoo,Mechanicsburg,Measure No. 31 - Eminent Domain,,,Over votes,0
+Yazoo,East Bentonia,Measure No. 31 - Eminent Domain,,,Over votes,0
+Yazoo,West Bentonia,Measure No. 31 - Eminent Domain,,,Over votes,0
+Yazoo,Center Ridge,Measure No. 31 - Eminent Domain,,,Over votes,0
+Yazoo,Dover,Measure No. 31 - Eminent Domain,,,Over votes,0
+Yazoo,Robinette,Measure No. 31 - Eminent Domain,,,Over votes,0
+Yazoo,Satartia,Measure No. 31 - Eminent Domain,,,Over votes,0
+Yazoo,Valley,Measure No. 31 - Eminent Domain,,,Over votes,0
+Yazoo,Benton,Measure No. 31 - Eminent Domain,,,Over votes,0
+Yazoo,Ward 2,Measure No. 31 - Eminent Domain,,,Over votes,0
+Yazoo,Deasonville,Measure No. 31 - Eminent Domain,,,Over votes,0
+Yazoo,Harttown,Measure No. 31 - Eminent Domain,,,Over votes,0
+Yazoo,Zion,Measure No. 31 - Eminent Domain,,,Over votes,0
+Yazoo,Fugates,Measure No. 31 - Eminent Domain,,,Over votes,0
+Yazoo,3-1 West,Measure No. 31 - Eminent Domain,,,Over votes,0
+Yazoo,3-2 East,Measure No. 31 - Eminent Domain,,,Over votes,0
+Yazoo,Jonestown,Measure No. 31 - Eminent Domain,,,Over votes,0
+Yazoo,3-4 South,Measure No. 31 - Eminent Domain,,,Over votes,0
+Yazoo,Eden,Measure No. 31 - Eminent Domain,,,Over votes,0
+Yazoo,East Midway,Measure No. 31 - Eminent Domain,,,Over votes,0
+Yazoo,West Midway,Measure No. 31 - Eminent Domain,,,Over votes,0
+Yazoo,Ward 4,Measure No. 31 - Eminent Domain,,,Over votes,0
+Yazoo,Free Run,Measure No. 31 - Eminent Domain,,,Over votes,0
+Yazoo,Lake City,Measure No. 31 - Eminent Domain,,,Over votes,0
+Yazoo,Holly Bluff,Measure No. 31 - Eminent Domain,,,Over votes,0
+Yazoo,Ward 5,Measure No. 31 - Eminent Domain,,,Over votes,0
+Yazoo,Mechanicsburg,Measure No. 31 - Eminent Domain,,,Under votes,15
+Yazoo,East Bentonia,Measure No. 31 - Eminent Domain,,,Under votes,18
+Yazoo,West Bentonia,Measure No. 31 - Eminent Domain,,,Under votes,0
+Yazoo,Center Ridge,Measure No. 31 - Eminent Domain,,,Under votes,9
+Yazoo,Dover,Measure No. 31 - Eminent Domain,,,Under votes,3
+Yazoo,Robinette,Measure No. 31 - Eminent Domain,,,Under votes,2
+Yazoo,Satartia,Measure No. 31 - Eminent Domain,,,Under votes,7
+Yazoo,Valley,Measure No. 31 - Eminent Domain,,,Under votes,1
+Yazoo,Benton,Measure No. 31 - Eminent Domain,,,Under votes,20
+Yazoo,Ward 2,Measure No. 31 - Eminent Domain,,,Under votes,0
+Yazoo,Deasonville,Measure No. 31 - Eminent Domain,,,Under votes,17
+Yazoo,Harttown,Measure No. 31 - Eminent Domain,,,Under votes,6
+Yazoo,Zion,Measure No. 31 - Eminent Domain,,,Under votes,5
+Yazoo,Fugates,Measure No. 31 - Eminent Domain,,,Under votes,16
+Yazoo,3-1 West,Measure No. 31 - Eminent Domain,,,Under votes,15
+Yazoo,3-2 East,Measure No. 31 - Eminent Domain,,,Under votes,29
+Yazoo,Jonestown,Measure No. 31 - Eminent Domain,,,Under votes,15
+Yazoo,3-4 South,Measure No. 31 - Eminent Domain,,,Under votes,13
+Yazoo,Eden,Measure No. 31 - Eminent Domain,,,Under votes,15
+Yazoo,East Midway,Measure No. 31 - Eminent Domain,,,Under votes,17
+Yazoo,West Midway,Measure No. 31 - Eminent Domain,,,Under votes,3
+Yazoo,Ward 4,Measure No. 31 - Eminent Domain,,,Under votes,12
+Yazoo,Free Run,Measure No. 31 - Eminent Domain,,,Under votes,1
+Yazoo,Lake City,Measure No. 31 - Eminent Domain,,,Under votes,3
+Yazoo,Holly Bluff,Measure No. 31 - Eminent Domain,,,Under votes,6
+Yazoo,Ward 5,Measure No. 31 - Eminent Domain,,,Under votes,85

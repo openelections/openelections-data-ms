@@ -179,23 +179,111 @@ Wilkinson,Woodville 4th 4010,State House,96,Democrat,Angela Cockerham,396
 Wilkinson,Cold Springs 4020,State House,96,Democrat,Angela Cockerham,84
 Wilkinson,Woodville 5th 5010,State House,96,Democrat,Angela Cockerham,212
 Wilkinson,Longmire 5020,State House,96,Democrat,Angela Cockerham,219
-Wilkinson,,Governor,,Republican,Phil Bryant,1067
-Wilkinson,,Governor,,Democrat,Johnny L. DuPree,2067
-Wilkinson,,Lieutenant Governor,,Republican,Tate Reeves,1408
-Wilkinson,,Lieutenant Governor,,Reform,Tracella Lou O'Hara Hill,1093
-Wilkinson,,Secretary of State,,Republican,Delbert Hosemann,2063
-Wilkinson,,Attorney General,,Democrat,Jim Hood,1943
-Wilkinson,,Attorney General,,Republican,Steve Simpson,969
-Wilkinson,,State Auditor,,Republican,Stacey E. Pickering,1304
-Wilkinson,,State Auditor,,Reform,Ashley Norwood,1145
-Wilkinson,,Treasurer,,Republican,Lynn Fitch,1050
-Wilkinson,,Treasurer,,Democrat,Connie Moran,1703
-Wilkinson,,Treasurer,,Reform,Shawn O'Hara,155
-Wilkinson,,Commissioner of Agriculture & Commerce,,Democrat,Joel Gill,1783
-Wilkinson,,Commissioner of Agriculture & Commerce,,Republican,Cindy Hyde-Smith,1008
-Wilkinson,,Commissioner of Agriculture & Commerce,,Reform,Cathy L. Toole,101
-Wilkinson,,Commissioner of Insurance,,Republican,Mike Chaney,1118
-Wilkinson,,Commissioner of Insurance,,Democrat,Louis Fondren,1669
-Wilkinson,,Commissioner of Insurance,,Reform,Barbara Dale Washer,125
-Wilkinson,,State Senate,38,Democrat,Kelvin E. Butler,2533
-Wilkinson,,State House,96,Democrat,Angela Cockerham,2651
+Wilkinson,Woodville 1010,Measure No. 26 - Definition of a person,,,Yes,116
+Wilkinson,Centreville 1st 1020,Measure No. 26 - Definition of a person,,,Yes,108
+Wilkinson,Woodville 2nd 2010,Measure No. 26 - Definition of a person,,,Yes,165
+Wilkinson,Fort Adams 2020,Measure No. 26 - Definition of a person,,,Yes,82
+Wilkinson,Centreville 3rd 3010,Measure No. 26 - Definition of a person,,,Yes,179
+Wilkinson,Woodville 4th 4010,Measure No. 26 - Definition of a person,,,Yes,110
+Wilkinson,Cold Springs 4020,Measure No. 26 - Definition of a person,,,Yes,39
+Wilkinson,Woodville 5th 5010,Measure No. 26 - Definition of a person,,,Yes,108
+Wilkinson,Longmire 5020,Measure No. 26 - Definition of a person,,,Yes,125
+Wilkinson,Woodville 1010,Measure No. 26 - Definition of a person,,,No,168
+Wilkinson,Centreville 1st 1020,Measure No. 26 - Definition of a person,,,No,201
+Wilkinson,Woodville 2nd 2010,Measure No. 26 - Definition of a person,,,No,369
+Wilkinson,Fort Adams 2020,Measure No. 26 - Definition of a person,,,No,151
+Wilkinson,Centreville 3rd 3010,Measure No. 26 - Definition of a person,,,No,275
+Wilkinson,Woodville 4th 4010,Measure No. 26 - Definition of a person,,,No,319
+Wilkinson,Cold Springs 4020,Measure No. 26 - Definition of a person,,,No,57
+Wilkinson,Woodville 5th 5010,Measure No. 26 - Definition of a person,,,No,128
+Wilkinson,Longmire 5020,Measure No. 26 - Definition of a person,,,No,136
+Wilkinson,Woodville 1010,Measure No. 26 - Definition of a person,,,Over votes,0
+Wilkinson,Centreville 1st 1020,Measure No. 26 - Definition of a person,,,Over votes,0
+Wilkinson,Woodville 2nd 2010,Measure No. 26 - Definition of a person,,,Over votes,0
+Wilkinson,Fort Adams 2020,Measure No. 26 - Definition of a person,,,Over votes,0
+Wilkinson,Centreville 3rd 3010,Measure No. 26 - Definition of a person,,,Over votes,0
+Wilkinson,Woodville 4th 4010,Measure No. 26 - Definition of a person,,,Over votes,0
+Wilkinson,Cold Springs 4020,Measure No. 26 - Definition of a person,,,Over votes,0
+Wilkinson,Woodville 5th 5010,Measure No. 26 - Definition of a person,,,Over votes,0
+Wilkinson,Longmire 5020,Measure No. 26 - Definition of a person,,,Over votes,0
+Wilkinson,Woodville 1010,Measure No. 26 - Definition of a person,,,Under votes,39
+Wilkinson,Centreville 1st 1020,Measure No. 26 - Definition of a person,,,Under votes,47
+Wilkinson,Woodville 2nd 2010,Measure No. 26 - Definition of a person,,,Under votes,100
+Wilkinson,Fort Adams 2020,Measure No. 26 - Definition of a person,,,Under votes,72
+Wilkinson,Centreville 3rd 3010,Measure No. 26 - Definition of a person,,,Under votes,37
+Wilkinson,Woodville 4th 4010,Measure No. 26 - Definition of a person,,,Under votes,55
+Wilkinson,Cold Springs 4020,Measure No. 26 - Definition of a person,,,Under votes,7
+Wilkinson,Woodville 5th 5010,Measure No. 26 - Definition of a person,,,Under votes,21
+Wilkinson,Longmire 5020,Measure No. 26 - Definition of a person,,,Under votes,12
+Wilkinson,Woodville 1010,Measure No. 27 - Voter ID,,,Yes,187
+Wilkinson,Centreville 1st 1020,Measure No. 27 - Voter ID,,,Yes,144
+Wilkinson,Woodville 2nd 2010,Measure No. 27 - Voter ID,,,Yes,245
+Wilkinson,Fort Adams 2020,Measure No. 27 - Voter ID,,,Yes,127
+Wilkinson,Centreville 3rd 3010,Measure No. 27 - Voter ID,,,Yes,280
+Wilkinson,Woodville 4th 4010,Measure No. 27 - Voter ID,,,Yes,150
+Wilkinson,Cold Springs 4020,Measure No. 27 - Voter ID,,,Yes,67
+Wilkinson,Woodville 5th 5010,Measure No. 27 - Voter ID,,,Yes,178
+Wilkinson,Longmire 5020,Measure No. 27 - Voter ID,,,Yes,168
+Wilkinson,Woodville 1010,Measure No. 27 - Voter ID,,,No,110
+Wilkinson,Centreville 1st 1020,Measure No. 27 - Voter ID,,,No,177
+Wilkinson,Woodville 2nd 2010,Measure No. 27 - Voter ID,,,No,347
+Wilkinson,Fort Adams 2020,Measure No. 27 - Voter ID,,,No,128
+Wilkinson,Centreville 3rd 3010,Measure No. 27 - Voter ID,,,No,189
+Wilkinson,Woodville 4th 4010,Measure No. 27 - Voter ID,,,No,313
+Wilkinson,Cold Springs 4020,Measure No. 27 - Voter ID,,,No,30
+Wilkinson,Woodville 5th 5010,Measure No. 27 - Voter ID,,,No,66
+Wilkinson,Longmire 5020,Measure No. 27 - Voter ID,,,No,99
+Wilkinson,Woodville 1010,Measure No. 27 - Voter ID,,,Over votes,0
+Wilkinson,Centreville 1st 1020,Measure No. 27 - Voter ID,,,Over votes,0
+Wilkinson,Woodville 2nd 2010,Measure No. 27 - Voter ID,,,Over votes,0
+Wilkinson,Fort Adams 2020,Measure No. 27 - Voter ID,,,Over votes,0
+Wilkinson,Centreville 3rd 3010,Measure No. 27 - Voter ID,,,Over votes,0
+Wilkinson,Woodville 4th 4010,Measure No. 27 - Voter ID,,,Over votes,0
+Wilkinson,Cold Springs 4020,Measure No. 27 - Voter ID,,,Over votes,0
+Wilkinson,Woodville 5th 5010,Measure No. 27 - Voter ID,,,Over votes,0
+Wilkinson,Longmire 5020,Measure No. 27 - Voter ID,,,Over votes,0
+Wilkinson,Woodville 1010,Measure No. 27 - Voter ID,,,Under votes,27
+Wilkinson,Centreville 1st 1020,Measure No. 27 - Voter ID,,,Under votes,35
+Wilkinson,Woodville 2nd 2010,Measure No. 27 - Voter ID,,,Under votes,46
+Wilkinson,Fort Adams 2020,Measure No. 27 - Voter ID,,,Under votes,50
+Wilkinson,Centreville 3rd 3010,Measure No. 27 - Voter ID,,,Under votes,23
+Wilkinson,Woodville 4th 4010,Measure No. 27 - Voter ID,,,Under votes,22
+Wilkinson,Cold Springs 4020,Measure No. 27 - Voter ID,,,Under votes,6
+Wilkinson,Woodville 5th 5010,Measure No. 27 - Voter ID,,,Under votes,13
+Wilkinson,Longmire 5020,Measure No. 27 - Voter ID,,,Under votes,6
+Wilkinson,Woodville 1010,Measure No. 31 - Eminent Domain,,,Yes,183
+Wilkinson,Centreville 1st 1020,Measure No. 31 - Eminent Domain,,,Yes,181
+Wilkinson,Woodville 2nd 2010,Measure No. 31 - Eminent Domain,,,Yes,284
+Wilkinson,Fort Adams 2020,Measure No. 31 - Eminent Domain,,,Yes,129
+Wilkinson,Centreville 3rd 3010,Measure No. 31 - Eminent Domain,,,Yes,289
+Wilkinson,Woodville 4th 4010,Measure No. 31 - Eminent Domain,,,Yes,162
+Wilkinson,Cold Springs 4020,Measure No. 31 - Eminent Domain,,,Yes,65
+Wilkinson,Woodville 5th 5010,Measure No. 31 - Eminent Domain,,,Yes,189
+Wilkinson,Longmire 5020,Measure No. 31 - Eminent Domain,,,Yes,178
+Wilkinson,Woodville 1010,Measure No. 31 - Eminent Domain,,,No,112
+Wilkinson,Centreville 1st 1020,Measure No. 31 - Eminent Domain,,,No,147
+Wilkinson,Woodville 2nd 2010,Measure No. 31 - Eminent Domain,,,No,305
+Wilkinson,Fort Adams 2020,Measure No. 31 - Eminent Domain,,,No,121
+Wilkinson,Centreville 3rd 3010,Measure No. 31 - Eminent Domain,,,No,180
+Wilkinson,Woodville 4th 4010,Measure No. 31 - Eminent Domain,,,No,296
+Wilkinson,Cold Springs 4020,Measure No. 31 - Eminent Domain,,,No,33
+Wilkinson,Woodville 5th 5010,Measure No. 31 - Eminent Domain,,,No,58
+Wilkinson,Longmire 5020,Measure No. 31 - Eminent Domain,,,No,89
+Wilkinson,Woodville 1010,Measure No. 31 - Eminent Domain,,,Over votes,0
+Wilkinson,Centreville 1st 1020,Measure No. 31 - Eminent Domain,,,Over votes,0
+Wilkinson,Woodville 2nd 2010,Measure No. 31 - Eminent Domain,,,Over votes,0
+Wilkinson,Fort Adams 2020,Measure No. 31 - Eminent Domain,,,Over votes,0
+Wilkinson,Centreville 3rd 3010,Measure No. 31 - Eminent Domain,,,Over votes,0
+Wilkinson,Woodville 4th 4010,Measure No. 31 - Eminent Domain,,,Over votes,0
+Wilkinson,Cold Springs 4020,Measure No. 31 - Eminent Domain,,,Over votes,0
+Wilkinson,Woodville 5th 5010,Measure No. 31 - Eminent Domain,,,Over votes,0
+Wilkinson,Longmire 5020,Measure No. 31 - Eminent Domain,,,Over votes,0
+Wilkinson,Woodville 1010,Measure No. 31 - Eminent Domain,,,Under votes,28
+Wilkinson,Centreville 1st 1020,Measure No. 31 - Eminent Domain,,,Under votes,28
+Wilkinson,Woodville 2nd 2010,Measure No. 31 - Eminent Domain,,,Under votes,47
+Wilkinson,Fort Adams 2020,Measure No. 31 - Eminent Domain,,,Under votes,54
+Wilkinson,Centreville 3rd 3010,Measure No. 31 - Eminent Domain,,,Under votes,23
+Wilkinson,Woodville 4th 4010,Measure No. 31 - Eminent Domain,,,Under votes,26
+Wilkinson,Cold Springs 4020,Measure No. 31 - Eminent Domain,,,Under votes,5
+Wilkinson,Woodville 5th 5010,Measure No. 31 - Eminent Domain,,,Under votes,10
+Wilkinson,Longmire 5020,Measure No. 31 - Eminent Domain,,,Under votes,6
