@@ -161,24 +161,24 @@ Warren,Brunswick,Commissioner of Agriculture & Commerce,,Reform,Cathy L. Toole,5
 Warren,Brunswick,Commissioner of Insurance,,Republican,Mike Chaney,166
 Warren,Brunswick,Commissioner of Insurance,,Democrat,Louis Fondren,18
 Warren,Brunswick,Commissioner of Insurance,,Reform,Barbara Dale Washer,2
-Warren,3-61,Governor,,Republican,Phil Bryant,88
-Warren,3-61,Governor,,Democrat,Johnny L. DuPree,34
-Warren,3-61,Lieutenant Governor,,Reform,Tracella Lou O'Hara Hill,17
-Warren,3-61,Lieutenant Governor,,Republican,Tate Reeves,98
-Warren,3-61,Secretary of State,,Republican,Delbert Hosemann,105
-Warren,3-61,Attorney General,,Democrat,Jim Hood,80
-Warren,3-61,Attorney General,,Republican,Steve Simpson,40
-Warren,3-61,State Auditor,,Reform,Ashley Norwood,20
-Warren,3-61,State Auditor,,Republican,Stacey E. Pickering,92
-Warren,3-61,Treasurer,,Republican,Lynn Fitch,84
-Warren,3-61,Treasurer,,Democrat,Connie Moran,29
-Warren,3-61,Treasurer,,Reform,Shawn O'Hara,4
-Warren,3-61,Commissioner of Agriculture & Commerce,,Democrat,Joel Gill,44
-Warren,3-61,Commissioner of Agriculture & Commerce,,Republican,Cindy Hyde-Smith,68
-Warren,3-61,Commissioner of Agriculture & Commerce,,Reform,Cathy L. Toole,4
-Warren,3-61,Commissioner of Insurance,,Republican,Mike Chaney,92
-Warren,3-61,Commissioner of Insurance,,Democrat,Louis Fondren,20
-Warren,3-61,Commissioner of Insurance,,Reform,Barbara Dale Washer,6
+Warren,Mar-61,Governor,,Republican,Phil Bryant,88
+Warren,Mar-61,Governor,,Democrat,Johnny L. DuPree,34
+Warren,Mar-61,Lieutenant Governor,,Reform,Tracella Lou O'Hara Hill,17
+Warren,Mar-61,Lieutenant Governor,,Republican,Tate Reeves,98
+Warren,Mar-61,Secretary of State,,Republican,Delbert Hosemann,105
+Warren,Mar-61,Attorney General,,Democrat,Jim Hood,80
+Warren,Mar-61,Attorney General,,Republican,Steve Simpson,40
+Warren,Mar-61,State Auditor,,Reform,Ashley Norwood,20
+Warren,Mar-61,State Auditor,,Republican,Stacey E. Pickering,92
+Warren,Mar-61,Treasurer,,Republican,Lynn Fitch,84
+Warren,Mar-61,Treasurer,,Democrat,Connie Moran,29
+Warren,Mar-61,Treasurer,,Reform,Shawn O'Hara,4
+Warren,Mar-61,Commissioner of Agriculture & Commerce,,Democrat,Joel Gill,44
+Warren,Mar-61,Commissioner of Agriculture & Commerce,,Republican,Cindy Hyde-Smith,68
+Warren,Mar-61,Commissioner of Agriculture & Commerce,,Reform,Cathy L. Toole,4
+Warren,Mar-61,Commissioner of Insurance,,Republican,Mike Chaney,92
+Warren,Mar-61,Commissioner of Insurance,,Democrat,Louis Fondren,20
+Warren,Mar-61,Commissioner of Insurance,,Reform,Barbara Dale Washer,6
 Warren,American Legion Post,Governor,,Republican,Phil Bryant,218
 Warren,American Legion Post,Governor,,Democrat,Johnny L. DuPree,657
 Warren,American Legion Post,Lieutenant Governor,,Reform,Tracella Lou O'Hara Hill,315
@@ -404,7 +404,7 @@ Warren,Kings,State Senate,23,Republican,Briggs Hopson,494
 Warren,St. Aloysius,State Senate,23,Republican,Briggs Hopson,123
 Warren,Auditorium,State Senate,23,Republican,Briggs Hopson,459
 Warren,Brunswick,State Senate,23,Republican,Briggs Hopson,178
-Warren,3-61,State Senate,23,Republican,Briggs Hopson,104
+Warren,Mar-61,State Senate,23,Republican,Briggs Hopson,104
 Warren,American Legion Post,State Senate,23,Republican,Briggs Hopson,586
 Warren,Vicksburg Junior High School,State Senate,23,Republican,Briggs Hopson,753
 Warren,No. 7 Fire Station,State Senate,23,Republican,Briggs Hopson,357
@@ -421,7 +421,7 @@ Warren,Redwood,State House,54,Republican,Alex Monsour,107
 Warren,Bovina,State House,54,Republican,Alex Monsour,47
 Warren,Culkin,State House,54,Republican,Alex Monsour,2484
 Warren,Kings,State House,54,Republican,Alex Monsour,187
-Warren,3-61,State House,54,Republican,Alex Monsour,100
+Warren,Mar-61,State House,54,Republican,Alex Monsour,100
 Warren,Vicksburg Junior High School,State House,54,Republican,Alex Monsour,11
 Warren,Jett,State House,54,Republican,Alex Monsour,170
 Warren,Goodrum,State House,54,Republican,Alex Monsour,499
@@ -467,28 +467,267 @@ Warren,Bovina,State House,85,Democrat,America 'Chuck' Middleton,34
 Warren,Goodrum,State House,85,Democrat,America 'Chuck' Middleton,56
 Warren,Moose Lodge,State House,85,Democrat,America 'Chuck' Middleton,102
 Warren,Tingleville,State House,85,Democrat,America 'Chuck' Middleton,254
-Warren,,Governor,,Republican,Phil Bryant,9019
-Warren,,Governor,,Democrat,Johnny L. DuPree,6380
-Warren,,Lieutenant Governor,,Reform,Tracella Lou O'Hara Hill,3027
-Warren,,Lieutenant Governor,,Republican,Tate Reeves,11090
-Warren,,Secretary of State,,Republican,Delbert Hosemann,13214
-Warren,,Attorney General,,Democrat,Jim Hood,10328
-Warren,,Attorney General,,Republican,Steve Simpson,4927
-Warren,,State Auditor,,Reform,Ashley Norwood,3727
-Warren,,State Auditor,,Republican,Stacey E. Pickering,10254
-Warren,,Treasurer,,Republican,Lynn Fitch,8956
-Warren,,Treasurer,,Democrat,Connie Moran,5533
-Warren,,Treasurer,,Reform,Shawn O'Hara,504
-Warren,,Commissioner of Agriculture & Commerce,,Democrat,Joel Gill,6421
-Warren,,Commissioner of Agriculture & Commerce,,Republican,Cindy Hyde-Smith,8082
-Warren,,Commissioner of Agriculture & Commerce,,Reform,Cathy L. Toole,396
-Warren,,Commissioner of Insurance,,Republican,Mike Chaney,10112
-Warren,,Commissioner of Insurance,,Democrat,Louis Fondren,4726
-Warren,,Commissioner of Insurance,,Reform,Barbara Dale Washer,349
-Warren,,State Senate,23,Republican,Briggs Hopson,12953
-Warren,,State House,54,Republican,Alex Monsour,6589
-Warren,,State House,55,Democrat,"George Flaggs, Jr.",4840
-Warren,,State House,55,Republican,Sam Smith,1676
-Warren,,State House,56,Democrat,Jim Culberson,210
-Warren,,State House,56,Republican,Philip Gunn,630
-Warren,,State House,85,Democrat,America 'Chuck' Middleton,446
+Warren,Oak Ridge,"	Measure No. 26 - Definition of a person",,,Yes,41
+Warren,Redwood,"	Measure No. 26 - Definition of a person",,,Yes,47
+Warren,Bovina,"	Measure No. 26 - Definition of a person",,,Yes,321
+Warren,Culkin,"	Measure No. 26 - Definition of a person",,,Yes,1119
+Warren,Cedar Grove,"	Measure No. 26 - Definition of a person",,,Yes,131
+Warren,Kings,"	Measure No. 26 - Definition of a person",,,Yes,203
+Warren,St. Aloysius,"	Measure No. 26 - Definition of a person",,,Yes,36
+Warren,Auditorium,"	Measure No. 26 - Definition of a person",,,Yes,136
+Warren,Brunswick,"	Measure No. 26 - Definition of a person",,,Yes,67
+Warren,Mar-61,"	Measure No. 26 - Definition of a person",,,Yes,37
+Warren,American Legion Post,"	Measure No. 26 - Definition of a person",,,Yes,182
+Warren,Vicksburg Junior High School,"	Measure No. 26 - Definition of a person",,,Yes,231
+Warren,No. 7 Fire Station,"	Measure No. 26 - Definition of a person",,,Yes,130
+Warren,Jett,"	Measure No. 26 - Definition of a person",,,Yes,302
+Warren,Goodrum,"	Measure No. 26 - Definition of a person",,,Yes,256
+Warren,Yokena,"	Measure No. 26 - Definition of a person",,,Yes,143
+Warren,Elks Lodge,"	Measure No. 26 - Definition of a person",,,Yes,306
+Warren,Beechwood,"	Measure No. 26 - Definition of a person",,,Yes,370
+Warren,Moose Lodge,"	Measure No. 26 - Definition of a person",,,Yes,310
+Warren,Tingleville,"	Measure No. 26 - Definition of a person",,,Yes,240
+Warren,Plumbers & Pipefitters,"	Measure No. 26 - Definition of a person",,,Yes,208
+Warren,YMCA,"	Measure No. 26 - Definition of a person",,,Yes,176
+Warren,Oak Ridge,"	Measure No. 26 - Definition of a person",,,No,64
+Warren,Redwood,"	Measure No. 26 - Definition of a person",,,No,74
+Warren,Bovina,"	Measure No. 26 - Definition of a person",,,No,481
+Warren,Culkin,"	Measure No. 26 - Definition of a person",,,No,1685
+Warren,Cedar Grove,"	Measure No. 26 - Definition of a person",,,No,475
+Warren,Kings,"	Measure No. 26 - Definition of a person",,,No,407
+Warren,St. Aloysius,"	Measure No. 26 - Definition of a person",,,No,138
+Warren,Auditorium,"	Measure No. 26 - Definition of a person",,,No,519
+Warren,Brunswick,"	Measure No. 26 - Definition of a person",,,No,117
+Warren,Mar-61,"	Measure No. 26 - Definition of a person",,,No,81
+Warren,American Legion Post,"	Measure No. 26 - Definition of a person",,,No,657
+Warren,Vicksburg Junior High School,"	Measure No. 26 - Definition of a person",,,No,731
+Warren,No. 7 Fire Station,"	Measure No. 26 - Definition of a person",,,No,336
+Warren,Jett,"	Measure No. 26 - Definition of a person",,,No,674
+Warren,Goodrum,"	Measure No. 26 - Definition of a person",,,No,368
+Warren,Yokena,"	Measure No. 26 - Definition of a person",,,No,252
+Warren,Elks Lodge,"	Measure No. 26 - Definition of a person",,,No,600
+Warren,Beechwood,"	Measure No. 26 - Definition of a person",,,No,634
+Warren,Moose Lodge,"	Measure No. 26 - Definition of a person",,,No,478
+Warren,Tingleville,"	Measure No. 26 - Definition of a person",,,No,601
+Warren,Plumbers & Pipefitters,"	Measure No. 26 - Definition of a person",,,No,442
+Warren,YMCA,"	Measure No. 26 - Definition of a person",,,No,250
+Warren,Oak Ridge,"	Measure No. 26 - Definition of a person",,,"Over Votes	",0
+Warren,Redwood,"	Measure No. 26 - Definition of a person",,,"Over Votes	",0
+Warren,Bovina,"	Measure No. 26 - Definition of a person",,,"Over Votes	",0
+Warren,Culkin,"	Measure No. 26 - Definition of a person",,,"Over Votes	",0
+Warren,Cedar Grove,"	Measure No. 26 - Definition of a person",,,"Over Votes	",0
+Warren,Kings,"	Measure No. 26 - Definition of a person",,,"Over Votes	",0
+Warren,St. Aloysius,"	Measure No. 26 - Definition of a person",,,"Over Votes	",0
+Warren,Auditorium,"	Measure No. 26 - Definition of a person",,,"Over Votes	",0
+Warren,Brunswick,"	Measure No. 26 - Definition of a person",,,"Over Votes	",0
+Warren,Mar-61,"	Measure No. 26 - Definition of a person",,,"Over Votes	",0
+Warren,American Legion Post,"	Measure No. 26 - Definition of a person",,,"Over Votes	",0
+Warren,Vicksburg Junior High School,"	Measure No. 26 - Definition of a person",,,"Over Votes	",0
+Warren,No. 7 Fire Station,"	Measure No. 26 - Definition of a person",,,"Over Votes	",0
+Warren,Jett,"	Measure No. 26 - Definition of a person",,,"Over Votes	",0
+Warren,Goodrum,"	Measure No. 26 - Definition of a person",,,"Over Votes	",0
+Warren,Yokena,"	Measure No. 26 - Definition of a person",,,"Over Votes	",0
+Warren,Elks Lodge,"	Measure No. 26 - Definition of a person",,,"Over Votes	",0
+Warren,Beechwood,"	Measure No. 26 - Definition of a person",,,"Over Votes	",0
+Warren,Moose Lodge,"	Measure No. 26 - Definition of a person",,,"Over Votes	",0
+Warren,Tingleville,"	Measure No. 26 - Definition of a person",,,"Over Votes	",0
+Warren,Plumbers & Pipefitters,"	Measure No. 26 - Definition of a person",,,"Over Votes	",0
+Warren,YMCA,"	Measure No. 26 - Definition of a person",,,"Over Votes	",0
+Warren,Oak Ridge,"	Measure No. 26 - Definition of a person",,,"Under Votes	",3
+Warren,Redwood,"	Measure No. 26 - Definition of a person",,,"Under Votes	",3
+Warren,Bovina,"	Measure No. 26 - Definition of a person",,,"Under Votes	",0
+Warren,Culkin,"	Measure No. 26 - Definition of a person",,,"Under Votes	",2
+Warren,Cedar Grove,"	Measure No. 26 - Definition of a person",,,"Under Votes	",0
+Warren,Kings,"	Measure No. 26 - Definition of a person",,,"Under Votes	",0
+Warren,St. Aloysius,"	Measure No. 26 - Definition of a person",,,"Under Votes	",0
+Warren,Auditorium,"	Measure No. 26 - Definition of a person",,,"Under Votes	",0
+Warren,Brunswick,"	Measure No. 26 - Definition of a person",,,"Under Votes	",0
+Warren,Mar-61,"	Measure No. 26 - Definition of a person",,,"Under Votes	",0
+Warren,American Legion Post,"	Measure No. 26 - Definition of a person",,,"Under Votes	",0
+Warren,Vicksburg Junior High School,"	Measure No. 26 - Definition of a person",,,"Under Votes	",0
+Warren,No. 7 Fire Station,"	Measure No. 26 - Definition of a person",,,"Under Votes	",0
+Warren,Jett,"	Measure No. 26 - Definition of a person",,,"Under Votes	",0
+Warren,Goodrum,"	Measure No. 26 - Definition of a person",,,"Under Votes	",0
+Warren,Yokena,"	Measure No. 26 - Definition of a person",,,"Under Votes	",0
+Warren,Elks Lodge,"	Measure No. 26 - Definition of a person",,,"Under Votes	",0
+Warren,Beechwood,"	Measure No. 26 - Definition of a person",,,"Under Votes	",0
+Warren,Moose Lodge,"	Measure No. 26 - Definition of a person",,,"Under Votes	",0
+Warren,Tingleville,"	Measure No. 26 - Definition of a person",,,"Under Votes	",0
+Warren,Plumbers & Pipefitters,"	Measure No. 26 - Definition of a person",,,"Under Votes	",0
+Warren,YMCA,"	Measure No. 26 - Definition of a person",,,"Under Votes	",0
+Warren,Oak Ridge,"Measure No. 27 - Voter ID	",,,Yes,72
+Warren,Redwood,"Measure No. 27 - Voter ID	",,,Yes,90
+Warren,Bovina,"Measure No. 27 - Voter ID	",,,Yes,606
+Warren,Culkin,"Measure No. 27 - Voter ID	",,,Yes,2113
+Warren,Cedar Grove,"Measure No. 27 - Voter ID	",,,Yes,239
+Warren,Kings,"Measure No. 27 - Voter ID	",,,Yes,319
+Warren,St. Aloysius,"Measure No. 27 - Voter ID	",,,Yes,55
+Warren,Auditorium,"Measure No. 27 - Voter ID	",,,Yes,207
+Warren,Brunswick,"Measure No. 27 - Voter ID	",,,Yes,147
+Warren,Mar-61,"Measure No. 27 - Voter ID	",,,Yes,87
+Warren,American Legion Post,"Measure No. 27 - Voter ID	",,,Yes,305
+Warren,Vicksburg Junior High School,"Measure No. 27 - Voter ID	",,,Yes,451
+Warren,No. 7 Fire Station,"Measure No. 27 - Voter ID	",,,Yes,231
+Warren,Jett,"Measure No. 27 - Voter ID	",,,Yes,491
+Warren,Goodrum,"Measure No. 27 - Voter ID	",,,Yes,477
+Warren,Yokena,"Measure No. 27 - Voter ID	",,,Yes,283
+Warren,Elks Lodge,"Measure No. 27 - Voter ID	",,,Yes,621
+Warren,Beechwood,"Measure No. 27 - Voter ID	",,,Yes,827
+Warren,Moose Lodge,"Measure No. 27 - Voter ID	",,,Yes,607
+Warren,Tingleville,"Measure No. 27 - Voter ID	",,,Yes,419
+Warren,Plumbers & Pipefitters,"Measure No. 27 - Voter ID	",,,Yes,481
+Warren,YMCA,"Measure No. 27 - Voter ID	",,,Yes,325
+Warren,Oak Ridge,"Measure No. 27 - Voter ID	",,,No,34
+Warren,Redwood,"Measure No. 27 - Voter ID	",,,No,28
+Warren,Bovina,"Measure No. 27 - Voter ID	",,,No,199
+Warren,Culkin,"Measure No. 27 - Voter ID	",,,No,723
+Warren,Cedar Grove,"Measure No. 27 - Voter ID	",,,No,380
+Warren,Kings,"Measure No. 27 - Voter ID	",,,No,314
+Warren,St. Aloysius,"Measure No. 27 - Voter ID	",,,No,121
+Warren,Auditorium,"Measure No. 27 - Voter ID	",,,No,461
+Warren,Brunswick,"Measure No. 27 - Voter ID	",,,No,38
+Warren,Mar-61,"Measure No. 27 - Voter ID	",,,No,32
+Warren,American Legion Post,"Measure No. 27 - Voter ID	",,,No,534
+Warren,Vicksburg Junior High School,"Measure No. 27 - Voter ID	",,,No,518
+Warren,No. 7 Fire Station,"Measure No. 27 - Voter ID	",,,No,239
+Warren,Jett,"Measure No. 27 - Voter ID	",,,No,486
+Warren,Goodrum,"Measure No. 27 - Voter ID	",,,No,148
+Warren,Yokena,"Measure No. 27 - Voter ID	",,,No,106
+Warren,Elks Lodge,"Measure No. 27 - Voter ID	",,,No,286
+Warren,Beechwood,"Measure No. 27 - Voter ID	",,,No,184
+Warren,Moose Lodge,"Measure No. 27 - Voter ID	",,,No,188
+Warren,Tingleville,"Measure No. 27 - Voter ID	",,,No,429
+Warren,Plumbers & Pipefitters,"Measure No. 27 - Voter ID	",,,No,178
+Warren,YMCA,"Measure No. 27 - Voter ID	",,,No,105
+Warren,Oak Ridge,"Measure No. 27 - Voter ID	",,,"Over Votes	",0
+Warren,Redwood,"Measure No. 27 - Voter ID	",,,"Over Votes	",0
+Warren,Bovina,"Measure No. 27 - Voter ID	",,,"Over Votes	",0
+Warren,Culkin,"Measure No. 27 - Voter ID	",,,"Over Votes	",0
+Warren,Cedar Grove,"Measure No. 27 - Voter ID	",,,"Over Votes	",0
+Warren,Kings,"Measure No. 27 - Voter ID	",,,"Over Votes	",0
+Warren,St. Aloysius,"Measure No. 27 - Voter ID	",,,"Over Votes	",0
+Warren,Auditorium,"Measure No. 27 - Voter ID	",,,"Over Votes	",0
+Warren,Brunswick,"Measure No. 27 - Voter ID	",,,"Over Votes	",0
+Warren,Mar-61,"Measure No. 27 - Voter ID	",,,"Over Votes	",0
+Warren,American Legion Post,"Measure No. 27 - Voter ID	",,,"Over Votes	",0
+Warren,Vicksburg Junior High School,"Measure No. 27 - Voter ID	",,,"Over Votes	",0
+Warren,No. 7 Fire Station,"Measure No. 27 - Voter ID	",,,"Over Votes	",0
+Warren,Jett,"Measure No. 27 - Voter ID	",,,"Over Votes	",0
+Warren,Goodrum,"Measure No. 27 - Voter ID	",,,"Over Votes	",0
+Warren,Yokena,"Measure No. 27 - Voter ID	",,,"Over Votes	",0
+Warren,Elks Lodge,"Measure No. 27 - Voter ID	",,,"Over Votes	",0
+Warren,Beechwood,"Measure No. 27 - Voter ID	",,,"Over Votes	",0
+Warren,Moose Lodge,"Measure No. 27 - Voter ID	",,,"Over Votes	",0
+Warren,Tingleville,"Measure No. 27 - Voter ID	",,,"Over Votes	",0
+Warren,Plumbers & Pipefitters,"Measure No. 27 - Voter ID	",,,"Over Votes	",0
+Warren,YMCA,"Measure No. 27 - Voter ID	",,,"Over Votes	",0
+Warren,Oak Ridge,"Measure No. 27 - Voter ID	",,,"Under Votes	",2
+Warren,Redwood,"Measure No. 27 - Voter ID	",,,"Under Votes	",5
+Warren,Bovina,"Measure No. 27 - Voter ID	",,,"Under Votes	",0
+Warren,Culkin,"Measure No. 27 - Voter ID	",,,"Under Votes	",0
+Warren,Cedar Grove,"Measure No. 27 - Voter ID	",,,"Under Votes	",0
+Warren,Kings,"Measure No. 27 - Voter ID	",,,"Under Votes	",0
+Warren,St. Aloysius,"Measure No. 27 - Voter ID	",,,"Under Votes	",0
+Warren,Auditorium,"Measure No. 27 - Voter ID	",,,"Under Votes	",0
+Warren,Brunswick,"Measure No. 27 - Voter ID	",,,"Under Votes	",0
+Warren,Mar-61,"Measure No. 27 - Voter ID	",,,"Under Votes	",0
+Warren,American Legion Post,"Measure No. 27 - Voter ID	",,,"Under Votes	",0
+Warren,Vicksburg Junior High School,"Measure No. 27 - Voter ID	",,,"Under Votes	",0
+Warren,No. 7 Fire Station,"Measure No. 27 - Voter ID	",,,"Under Votes	",0
+Warren,Jett,"Measure No. 27 - Voter ID	",,,"Under Votes	",0
+Warren,Goodrum,"Measure No. 27 - Voter ID	",,,"Under Votes	",0
+Warren,Yokena,"Measure No. 27 - Voter ID	",,,"Under Votes	",0
+Warren,Elks Lodge,"Measure No. 27 - Voter ID	",,,"Under Votes	",0
+Warren,Beechwood,"Measure No. 27 - Voter ID	",,,"Under Votes	",0
+Warren,Moose Lodge,"Measure No. 27 - Voter ID	",,,"Under Votes	",0
+Warren,Tingleville,"Measure No. 27 - Voter ID	",,,"Under Votes	",0
+Warren,Plumbers & Pipefitters,"Measure No. 27 - Voter ID	",,,"Under Votes	",0
+Warren,YMCA,"Measure No. 27 - Voter ID	",,,"Under Votes	",0
+Warren,Oak Ridge,"Measure No. 31 - Eminent Domain	",,,Yes,82
+Warren,Redwood,"Measure No. 31 - Eminent Domain	",,,Yes,92
+Warren,Bovina,"Measure No. 31 - Eminent Domain	",,,Yes,601
+Warren,Culkin,"Measure No. 31 - Eminent Domain	",,,Yes,2080
+Warren,Cedar Grove,"Measure No. 31 - Eminent Domain	",,,Yes,360
+Warren,Kings,"Measure No. 31 - Eminent Domain	",,,Yes,383
+Warren,St. Aloysius,"Measure No. 31 - Eminent Domain	",,,Yes,100
+Warren,Auditorium,"Measure No. 31 - Eminent Domain	",,,Yes,357
+Warren,Brunswick,"Measure No. 31 - Eminent Domain	",,,Yes,116
+Warren,Mar-61,"Measure No. 31 - Eminent Domain	",,,Yes,89
+Warren,American Legion Post,"Measure No. 31 - Eminent Domain	",,,Yes,506
+Warren,Vicksburg Junior High School,"Measure No. 31 - Eminent Domain	",,,Yes,585
+Warren,No. 7 Fire Station,"Measure No. 31 - Eminent Domain	",,,Yes,297
+Warren,Jett,"Measure No. 31 - Eminent Domain	",,,Yes,660
+Warren,Goodrum,"Measure No. 31 - Eminent Domain	",,,Yes,468
+Warren,Yokena,"Measure No. 31 - Eminent Domain	",,,Yes,295
+Warren,Elks Lodge,"Measure No. 31 - Eminent Domain	",,,Yes,644
+Warren,Beechwood,"Measure No. 31 - Eminent Domain	",,,Yes,712
+Warren,Moose Lodge,"Measure No. 31 - Eminent Domain	",,,Yes,600
+Warren,Tingleville,"Measure No. 31 - Eminent Domain	",,,Yes,557
+Warren,Plumbers & Pipefitters,"Measure No. 31 - Eminent Domain	",,,Yes,434
+Warren,YMCA,"Measure No. 31 - Eminent Domain	",,,Yes,335
+Warren,Oak Ridge,"Measure No. 31 - Eminent Domain	",,,No,25
+Warren,Redwood,"Measure No. 31 - Eminent Domain	",,,No,27
+Warren,Bovina,"Measure No. 31 - Eminent Domain	",,,No,199
+Warren,Culkin,"Measure No. 31 - Eminent Domain	",,,No,751
+Warren,Cedar Grove,"Measure No. 31 - Eminent Domain	",,,No,262
+Warren,Kings,"Measure No. 31 - Eminent Domain	",,,No,245
+Warren,St. Aloysius,"Measure No. 31 - Eminent Domain	",,,No,79
+Warren,Auditorium,"Measure No. 31 - Eminent Domain	",,,No,319
+Warren,Brunswick,"Measure No. 31 - Eminent Domain	",,,No,70
+Warren,Mar-61,"Measure No. 31 - Eminent Domain	",,,No,28
+Warren,American Legion Post,"Measure No. 31 - Eminent Domain	",,,No,354
+Warren,Vicksburg Junior High School,"Measure No. 31 - Eminent Domain	",,,No,395
+Warren,No. 7 Fire Station,"Measure No. 31 - Eminent Domain	",,,No,178
+Warren,Jett,"Measure No. 31 - Eminent Domain	",,,No,327
+Warren,Goodrum,"Measure No. 31 - Eminent Domain	",,,No,161
+Warren,Yokena,"Measure No. 31 - Eminent Domain	",,,No,100
+Warren,Elks Lodge,"Measure No. 31 - Eminent Domain	",,,No,272
+Warren,Beechwood,"Measure No. 31 - Eminent Domain	",,,No,301
+Warren,Moose Lodge,"Measure No. 31 - Eminent Domain	",,,No,198
+Warren,Tingleville,"Measure No. 31 - Eminent Domain	",,,No,299
+Warren,Plumbers & Pipefitters,"Measure No. 31 - Eminent Domain	",,,No,230
+Warren,YMCA,"Measure No. 31 - Eminent Domain	",,,No,95
+Warren,Oak Ridge,"Measure No. 31 - Eminent Domain	",,,"Over Votes	",0
+Warren,Redwood,"Measure No. 31 - Eminent Domain	",,,"Over Votes	",0
+Warren,Bovina,"Measure No. 31 - Eminent Domain	",,,"Over Votes	",0
+Warren,Culkin,"Measure No. 31 - Eminent Domain	",,,"Over Votes	",0
+Warren,Cedar Grove,"Measure No. 31 - Eminent Domain	",,,"Over Votes	",0
+Warren,Kings,"Measure No. 31 - Eminent Domain	",,,"Over Votes	",0
+Warren,St. Aloysius,"Measure No. 31 - Eminent Domain	",,,"Over Votes	",0
+Warren,Auditorium,"Measure No. 31 - Eminent Domain	",,,"Over Votes	",0
+Warren,Brunswick,"Measure No. 31 - Eminent Domain	",,,"Over Votes	",0
+Warren,Mar-61,"Measure No. 31 - Eminent Domain	",,,"Over Votes	",0
+Warren,American Legion Post,"Measure No. 31 - Eminent Domain	",,,"Over Votes	",0
+Warren,Vicksburg Junior High School,"Measure No. 31 - Eminent Domain	",,,"Over Votes	",0
+Warren,No. 7 Fire Station,"Measure No. 31 - Eminent Domain	",,,"Over Votes	",0
+Warren,Jett,"Measure No. 31 - Eminent Domain	",,,"Over Votes	",0
+Warren,Goodrum,"Measure No. 31 - Eminent Domain	",,,"Over Votes	",0
+Warren,Yokena,"Measure No. 31 - Eminent Domain	",,,"Over Votes	",0
+Warren,Elks Lodge,"Measure No. 31 - Eminent Domain	",,,"Over Votes	",0
+Warren,Beechwood,"Measure No. 31 - Eminent Domain	",,,"Over Votes	",0
+Warren,Moose Lodge,"Measure No. 31 - Eminent Domain	",,,"Over Votes	",0
+Warren,Tingleville,"Measure No. 31 - Eminent Domain	",,,"Over Votes	",0
+Warren,Plumbers & Pipefitters,"Measure No. 31 - Eminent Domain	",,,"Over Votes	",0
+Warren,YMCA,"Measure No. 31 - Eminent Domain	",,,"Over Votes	",0
+Warren,Oak Ridge,"Measure No. 31 - Eminent Domain	",,,"Under Votes	",1
+Warren,Redwood,"Measure No. 31 - Eminent Domain	",,,"Under Votes	",4
+Warren,Bovina,"Measure No. 31 - Eminent Domain	",,,"Under Votes	",0
+Warren,Culkin,"Measure No. 31 - Eminent Domain	",,,"Under Votes	",1
+Warren,Cedar Grove,"Measure No. 31 - Eminent Domain	",,,"Under Votes	",0
+Warren,Kings,"Measure No. 31 - Eminent Domain	",,,"Under Votes	",0
+Warren,St. Aloysius,"Measure No. 31 - Eminent Domain	",,,"Under Votes	",0
+Warren,Auditorium,"Measure No. 31 - Eminent Domain	",,,"Under Votes	",0
+Warren,Brunswick,"Measure No. 31 - Eminent Domain	",,,"Under Votes	",0
+Warren,Mar-61,"Measure No. 31 - Eminent Domain	",,,"Under Votes	",0
+Warren,American Legion Post,"Measure No. 31 - Eminent Domain	",,,"Under Votes	",0
+Warren,Vicksburg Junior High School,"Measure No. 31 - Eminent Domain	",,,"Under Votes	",0
+Warren,No. 7 Fire Station,"Measure No. 31 - Eminent Domain	",,,"Under Votes	",0
+Warren,Jett,"Measure No. 31 - Eminent Domain	",,,"Under Votes	",0
+Warren,Goodrum,"Measure No. 31 - Eminent Domain	",,,"Under Votes	",0
+Warren,Yokena,"Measure No. 31 - Eminent Domain	",,,"Under Votes	",0
+Warren,Elks Lodge,"Measure No. 31 - Eminent Domain	",,,"Under Votes	",0
+Warren,Beechwood,"Measure No. 31 - Eminent Domain	",,,"Under Votes	",0
+Warren,Moose Lodge,"Measure No. 31 - Eminent Domain	",,,"Under Votes	",0
+Warren,Tingleville,"Measure No. 31 - Eminent Domain	",,,"Under Votes	",0
+Warren,Plumbers & Pipefitters,"Measure No. 31 - Eminent Domain	",,,"Under Votes	",0
+Warren,YMCA,"Measure No. 31 - Eminent Domain	",,,"Under Votes	",0
