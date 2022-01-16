@@ -434,28 +434,231 @@ Leake,Wiggins,State House,27,Republican,R. Dewayne Gill,60
 Leake,Wiggins,State House,27,Democrat,Ferr Smith,148
 Leake,Wiggins,State House,45,Democrat,Bennett Malone,0
 Leake,Wiggins,State House,45,Republican,Jay W. Mathis,1
-Leake,,Governor,,Republican,Phil Bryant,3983
-Leake,,Governor,,Democrat,Johnny L. DuPree,2537
-Leake,,Lieutenant Governor,,Republican,Tate Reeves,4643
-Leake,,Lieutenant Governor,,Reform,Tracella Lou O'Hara Hill,1187
-Leake,,Secretary of State,,Republican,Delbert Hosemann,5267
-Leake,,Attorney General,,Democrat,Jim Hood,4231
-Leake,,Attorney General,,Republican,Steve Simpson,2242
-Leake,,State Auditor,,Republican,Stacey E. Pickering,4450
-Leake,,State Auditor,,Reform,Ashley Norwood,1341
-Leake,,Treasurer,,Republican,Lynn Fitch,3947
-Leake,,Treasurer,,Democrat,Connie Moran,2378
-Leake,,Treasurer,,Reform,Shawn O'Hara,125
-Leake,,Commissioner of Agriculture & Commerce,,Democrat,Joel Gill,3340
-Leake,,Commissioner of Agriculture & Commerce,,Republican,Cindy Hyde-Smith,2993
-Leake,,Commissioner of Agriculture & Commerce,,Reform,Cathy L. Toole,85
-Leake,,Commissioner of Insurance,,Republican,Mike Chaney,4017
-Leake,,Commissioner of Insurance,,Democrat,Louis Fondren,2244
-Leake,,Commissioner of Insurance,,Reform,Barbara Dale Washer,153
-Leake,,State Senate,18,Democrat,Steven Kilgore,3279
-Leake,,State Senate,18,Republican,Giles K. Ward,3142
-Leake,,State House,27,Republican,R. Dewayne Gill,388
-Leake,,State House,27,Democrat,Ferr Smith,1376
-Leake,,State House,45,Democrat,Bennett Malone,2163
-Leake,,State House,45,Republican,Jay W. Mathis,2231
-Leake,,State House,48,Democrat,Jason M. White,255
+Leake,Conway,Measure No. 26 - Definition of a person,,,Yes,64
+Leake,East Carthage,Measure No. 26 - Definition of a person,,,Yes,246
+Leake,Harmony,Measure No. 26 - Definition of a person,,,Yes,71
+Leake,Edinburg,Measure No. 26 - Definition of a person,,,Yes,216
+Leake,Freeny,Measure No. 26 - Definition of a person,,,Yes,144
+Leake,Good Hope,Measure No. 26 - Definition of a person,,,Yes,175
+Leake,Lena,Measure No. 26 - Definition of a person,,,Yes,104
+Leake,Madden,Measure No. 26 - Definition of a person,,,Yes,206
+Leake,North Carthage,Measure No. 26 - Definition of a person,,,Yes,278
+Leake,Ofahoma,Measure No. 26 - Definition of a person,,,Yes,79
+Leake,Renfroe,Measure No. 26 - Definition of a person,,,Yes,159
+Leake,South Carthage,Measure No. 26 - Definition of a person,,,Yes,136
+Leake,Salem,Measure No. 26 - Definition of a person,,,Yes,132
+Leake,Singleton,Measure No. 26 - Definition of a person,,,Yes,238
+Leake,Sunrise,Measure No. 26 - Definition of a person,,,Yes,160
+Leake,Thomastown,Measure No. 26 - Definition of a person,,,Yes,119
+Leake,West Carthage,Measure No. 26 - Definition of a person,,,Yes,179
+Leake,Walnut Grove,Measure No. 26 - Definition of a person,,,Yes,121
+Leake,Wiggins,Measure No. 26 - Definition of a person,,,Yes,64
+Leake,Conway,Measure No. 26 - Definition of a person,,,No,163
+Leake,East Carthage,Measure No. 26 - Definition of a person,,,No,254
+Leake,Harmony,Measure No. 26 - Definition of a person,,,No,159
+Leake,Edinburg,Measure No. 26 - Definition of a person,,,No,141
+Leake,Freeny,Measure No. 26 - Definition of a person,,,No,142
+Leake,Good Hope,Measure No. 26 - Definition of a person,,,No,175
+Leake,Lena,Measure No. 26 - Definition of a person,,,No,196
+Leake,Madden,Measure No. 26 - Definition of a person,,,No,133
+Leake,North Carthage,Measure No. 26 - Definition of a person,,,No,279
+Leake,Ofahoma,Measure No. 26 - Definition of a person,,,No,162
+Leake,Renfroe,Measure No. 26 - Definition of a person,,,No,112
+Leake,South Carthage,Measure No. 26 - Definition of a person,,,No,106
+Leake,Salem,Measure No. 26 - Definition of a person,,,No,56
+Leake,Singleton,Measure No. 26 - Definition of a person,,,No,223
+Leake,Sunrise,Measure No. 26 - Definition of a person,,,No,93
+Leake,Thomastown,Measure No. 26 - Definition of a person,,,No,164
+Leake,West Carthage,Measure No. 26 - Definition of a person,,,No,402
+Leake,Walnut Grove,Measure No. 26 - Definition of a person,,,No,353
+Leake,Wiggins,Measure No. 26 - Definition of a person,,,No,144
+Leake,Conway,Measure No. 26 - Definition of a person,,,Over Votes,0
+Leake,East Carthage,Measure No. 26 - Definition of a person,,,Over Votes,0
+Leake,Harmony,Measure No. 26 - Definition of a person,,,Over Votes,0
+Leake,Edinburg,Measure No. 26 - Definition of a person,,,Over Votes,0
+Leake,Freeny,Measure No. 26 - Definition of a person,,,Over Votes,0
+Leake,Good Hope,Measure No. 26 - Definition of a person,,,Over Votes,0
+Leake,Lena,Measure No. 26 - Definition of a person,,,Over Votes,0
+Leake,Madden,Measure No. 26 - Definition of a person,,,Over Votes,0
+Leake,North Carthage,Measure No. 26 - Definition of a person,,,Over Votes,0
+Leake,Ofahoma,Measure No. 26 - Definition of a person,,,Over Votes,0
+Leake,Renfroe,Measure No. 26 - Definition of a person,,,Over Votes,0
+Leake,South Carthage,Measure No. 26 - Definition of a person,,,Over Votes,0
+Leake,Salem,Measure No. 26 - Definition of a person,,,Over Votes,0
+Leake,Singleton,Measure No. 26 - Definition of a person,,,Over Votes,0
+Leake,Sunrise,Measure No. 26 - Definition of a person,,,Over Votes,0
+Leake,Thomastown,Measure No. 26 - Definition of a person,,,Over Votes,0
+Leake,West Carthage,Measure No. 26 - Definition of a person,,,Over Votes,0
+Leake,Walnut Grove,Measure No. 26 - Definition of a person,,,Over Votes,0
+Leake,Wiggins,Measure No. 26 - Definition of a person,,,Over Votes,0
+Leake,Conway,Measure No. 26 - Definition of a person,,,Under Votes,13
+Leake,East Carthage,Measure No. 26 - Definition of a person,,,Under Votes,13
+Leake,Harmony,Measure No. 26 - Definition of a person,,,Under Votes,11
+Leake,Edinburg,Measure No. 26 - Definition of a person,,,Under Votes,9
+Leake,Freeny,Measure No. 26 - Definition of a person,,,Under Votes,13
+Leake,Good Hope,Measure No. 26 - Definition of a person,,,Under Votes,11
+Leake,Lena,Measure No. 26 - Definition of a person,,,Under Votes,2
+Leake,Madden,Measure No. 26 - Definition of a person,,,Under Votes,7
+Leake,North Carthage,Measure No. 26 - Definition of a person,,,Under Votes,2
+Leake,Ofahoma,Measure No. 26 - Definition of a person,,,Under Votes,6
+Leake,Renfroe,Measure No. 26 - Definition of a person,,,Under Votes,9
+Leake,South Carthage,Measure No. 26 - Definition of a person,,,Under Votes,7
+Leake,Salem,Measure No. 26 - Definition of a person,,,Under Votes,4
+Leake,Singleton,Measure No. 26 - Definition of a person,,,Under Votes,3
+Leake,Sunrise,Measure No. 26 - Definition of a person,,,Under Votes,6
+Leake,Thomastown,Measure No. 26 - Definition of a person,,,Under Votes,14
+Leake,West Carthage,Measure No. 26 - Definition of a person,,,Under Votes,2
+Leake,Walnut Grove,Measure No. 26 - Definition of a person,,,Under Votes,15
+Leake,Wiggins,Measure No. 26 - Definition of a person,,,Under Votes,0
+Leake,Conway,Measure No. 27 - Voter ID,,,Yes,90
+Leake,East Carthage,Measure No. 27 - Voter ID,,,Yes,381
+Leake,Harmony,Measure No. 27 - Voter ID,,,Yes,99
+Leake,Edinburg,Measure No. 27 - Voter ID,,,Yes,295
+Leake,Freeny,Measure No. 27 - Voter ID,,,Yes,192
+Leake,Good Hope,Measure No. 27 - Voter ID,,,Yes,258
+Leake,Lena,Measure No. 27 - Voter ID,,,Yes,148
+Leake,Madden,Measure No. 27 - Voter ID,,,Yes,243
+Leake,North Carthage,Measure No. 27 - Voter ID,,,Yes,390
+Leake,Ofahoma,Measure No. 27 - Voter ID,,,Yes,66
+Leake,Renfroe,Measure No. 27 - Voter ID,,,Yes,219
+Leake,South Carthage,Measure No. 27 - Voter ID,,,Yes,159
+Leake,Salem,Measure No. 27 - Voter ID,,,Yes,155
+Leake,Singleton,Measure No. 27 - Voter ID,,,Yes,277
+Leake,Sunrise,Measure No. 27 - Voter ID,,,Yes,193
+Leake,Thomastown,Measure No. 27 - Voter ID,,,Yes,134
+Leake,West Carthage,Measure No. 27 - Voter ID,,,Yes,167
+Leake,Walnut Grove,Measure No. 27 - Voter ID,,,Yes,182
+Leake,Wiggins,Measure No. 27 - Voter ID,,,Yes,75
+Leake,Conway,Measure No. 27 - Voter ID,,,No,138
+Leake,East Carthage,Measure No. 27 - Voter ID,,,No,122
+Leake,Harmony,Measure No. 27 - Voter ID,,,No,135
+Leake,Edinburg,Measure No. 27 - Voter ID,,,No,64
+Leake,Freeny,Measure No. 27 - Voter ID,,,No,99
+Leake,Good Hope,Measure No. 27 - Voter ID,,,No,89
+Leake,Lena,Measure No. 27 - Voter ID,,,No,145
+Leake,Madden,Measure No. 27 - Voter ID,,,No,99
+Leake,North Carthage,Measure No. 27 - Voter ID,,,No,173
+Leake,Ofahoma,Measure No. 27 - Voter ID,,,No,169
+Leake,Renfroe,Measure No. 27 - Voter ID,,,No,54
+Leake,South Carthage,Measure No. 27 - Voter ID,,,No,87
+Leake,Salem,Measure No. 27 - Voter ID,,,No,33
+Leake,Singleton,Measure No. 27 - Voter ID,,,No,182
+Leake,Sunrise,Measure No. 27 - Voter ID,,,No,56
+Leake,Thomastown,Measure No. 27 - Voter ID,,,No,146
+Leake,West Carthage,Measure No. 27 - Voter ID,,,No,408
+Leake,Walnut Grove,Measure No. 27 - Voter ID,,,No,306
+Leake,Wiggins,Measure No. 27 - Voter ID,,,No,132
+Leake,Conway,Measure No. 27 - Voter ID,,,Over Votes,0
+Leake,East Carthage,Measure No. 27 - Voter ID,,,Over Votes,0
+Leake,Harmony,Measure No. 27 - Voter ID,,,Over Votes,0
+Leake,Edinburg,Measure No. 27 - Voter ID,,,Over Votes,0
+Leake,Freeny,Measure No. 27 - Voter ID,,,Over Votes,0
+Leake,Good Hope,Measure No. 27 - Voter ID,,,Over Votes,0
+Leake,Lena,Measure No. 27 - Voter ID,,,Over Votes,0
+Leake,Madden,Measure No. 27 - Voter ID,,,Over Votes,0
+Leake,North Carthage,Measure No. 27 - Voter ID,,,Over Votes,0
+Leake,Ofahoma,Measure No. 27 - Voter ID,,,Over Votes,0
+Leake,Renfroe,Measure No. 27 - Voter ID,,,Over Votes,0
+Leake,South Carthage,Measure No. 27 - Voter ID,,,Over Votes,0
+Leake,Salem,Measure No. 27 - Voter ID,,,Over Votes,0
+Leake,Singleton,Measure No. 27 - Voter ID,,,Over Votes,0
+Leake,Sunrise,Measure No. 27 - Voter ID,,,Over Votes,0
+Leake,Thomastown,Measure No. 27 - Voter ID,,,Over Votes,0
+Leake,West Carthage,Measure No. 27 - Voter ID,,,Over Votes,0
+Leake,Walnut Grove,Measure No. 27 - Voter ID,,,Over Votes,0
+Leake,Wiggins,Measure No. 27 - Voter ID,,,Over Votes,0
+Leake,Conway,Measure No. 27 - Voter ID,,,Under Votes,12
+Leake,East Carthage,Measure No. 27 - Voter ID,,,Under Votes,10
+Leake,Harmony,Measure No. 27 - Voter ID,,,Under Votes,7
+Leake,Edinburg,Measure No. 27 - Voter ID,,,Under Votes,7
+Leake,Freeny,Measure No. 27 - Voter ID,,,Under Votes,8
+Leake,Good Hope,Measure No. 27 - Voter ID,,,Under Votes,14
+Leake,Lena,Measure No. 27 - Voter ID,,,Under Votes,6
+Leake,Madden,Measure No. 27 - Voter ID,,,Under Votes,4
+Leake,North Carthage,Measure No. 27 - Voter ID,,,Under Votes,2
+Leake,Ofahoma,Measure No. 27 - Voter ID,,,Under Votes,12
+Leake,Renfroe,Measure No. 27 - Voter ID,,,Under Votes,8
+Leake,South Carthage,Measure No. 27 - Voter ID,,,Under Votes,3
+Leake,Salem,Measure No. 27 - Voter ID,,,Under Votes,4
+Leake,Singleton,Measure No. 27 - Voter ID,,,Under Votes,6
+Leake,Sunrise,Measure No. 27 - Voter ID,,,Under Votes,10
+Leake,Thomastown,Measure No. 27 - Voter ID,,,Under Votes,17
+Leake,West Carthage,Measure No. 27 - Voter ID,,,Under Votes,2
+Leake,Walnut Grove,Measure No. 27 - Voter ID,,,Under Votes,10
+Leake,Wiggins,Measure No. 27 - Voter ID,,,Under Votes,0
+Leake,Conway,Measure No. 31 - Eminent Domain,,,Yes,108
+Leake,East Carthage,Measure No. 31 - Eminent Domain,,,Yes,373
+Leake,Harmony,Measure No. 31 - Eminent Domain,,,Yes,142
+Leake,Edinburg,Measure No. 31 - Eminent Domain,,,Yes,286
+Leake,Freeny,Measure No. 31 - Eminent Domain,,,Yes,211
+Leake,Good Hope,Measure No. 31 - Eminent Domain,,,Yes,282
+Leake,Lena,Measure No. 31 - Eminent Domain,,,Yes,167
+Leake,Madden,Measure No. 31 - Eminent Domain,,,Yes,266
+Leake,North Carthage,Measure No. 31 - Eminent Domain,,,Yes,396
+Leake,Ofahoma,Measure No. 31 - Eminent Domain,,,Yes,145
+Leake,Renfroe,Measure No. 31 - Eminent Domain,,,Yes,225
+Leake,South Carthage,Measure No. 31 - Eminent Domain,,,Yes,188
+Leake,Salem,Measure No. 31 - Eminent Domain,,,Yes,154
+Leake,Singleton,Measure No. 31 - Eminent Domain,,,Yes,348
+Leake,Sunrise,Measure No. 31 - Eminent Domain,,,Yes,203
+Leake,Thomastown,Measure No. 31 - Eminent Domain,,,Yes,180
+Leake,West Carthage,Measure No. 31 - Eminent Domain,,,Yes,285
+Leake,Walnut Grove,Measure No. 31 - Eminent Domain,,,Yes,242
+Leake,Wiggins,Measure No. 31 - Eminent Domain,,,Yes,127
+Leake,Conway,Measure No. 31 - Eminent Domain,,,No,120
+Leake,East Carthage,Measure No. 31 - Eminent Domain,,,No,130
+Leake,Harmony,Measure No. 31 - Eminent Domain,,,No,92
+Leake,Edinburg,Measure No. 31 - Eminent Domain,,,No,73
+Leake,Freeny,Measure No. 31 - Eminent Domain,,,No,86
+Leake,Good Hope,Measure No. 31 - Eminent Domain,,,No,69
+Leake,Lena,Measure No. 31 - Eminent Domain,,,No,126
+Leake,Madden,Measure No. 31 - Eminent Domain,,,No,79
+Leake,North Carthage,Measure No. 31 - Eminent Domain,,,No,171
+Leake,Ofahoma,Measure No. 31 - Eminent Domain,,,No,93
+Leake,Renfroe,Measure No. 31 - Eminent Domain,,,No,51
+Leake,South Carthage,Measure No. 31 - Eminent Domain,,,No,57
+Leake,Salem,Measure No. 31 - Eminent Domain,,,No,32
+Leake,Singleton,Measure No. 31 - Eminent Domain,,,No,112
+Leake,Sunrise,Measure No. 31 - Eminent Domain,,,No,48
+Leake,Thomastown,Measure No. 31 - Eminent Domain,,,No,106
+Leake,West Carthage,Measure No. 31 - Eminent Domain,,,No,295
+Leake,Walnut Grove,Measure No. 31 - Eminent Domain,,,No,245
+Leake,Wiggins,Measure No. 31 - Eminent Domain,,,No,84
+Leake,Conway,Measure No. 31 - Eminent Domain,,,Over Votes,0
+Leake,East Carthage,Measure No. 31 - Eminent Domain,,,Over Votes,0
+Leake,Harmony,Measure No. 31 - Eminent Domain,,,Over Votes,0
+Leake,Edinburg,Measure No. 31 - Eminent Domain,,,Over Votes,0
+Leake,Freeny,Measure No. 31 - Eminent Domain,,,Over Votes,0
+Leake,Good Hope,Measure No. 31 - Eminent Domain,,,Over Votes,0
+Leake,Lena,Measure No. 31 - Eminent Domain,,,Over Votes,0
+Leake,Madden,Measure No. 31 - Eminent Domain,,,Over Votes,0
+Leake,North Carthage,Measure No. 31 - Eminent Domain,,,Over Votes,0
+Leake,Ofahoma,Measure No. 31 - Eminent Domain,,,Over Votes,0
+Leake,Renfroe,Measure No. 31 - Eminent Domain,,,Over Votes,0
+Leake,South Carthage,Measure No. 31 - Eminent Domain,,,Over Votes,0
+Leake,Salem,Measure No. 31 - Eminent Domain,,,Over Votes,0
+Leake,Singleton,Measure No. 31 - Eminent Domain,,,Over Votes,0
+Leake,Sunrise,Measure No. 31 - Eminent Domain,,,Over Votes,0
+Leake,Thomastown,Measure No. 31 - Eminent Domain,,,Over Votes,0
+Leake,West Carthage,Measure No. 31 - Eminent Domain,,,Over Votes,0
+Leake,Walnut Grove,Measure No. 31 - Eminent Domain,,,Over Votes,0
+Leake,Wiggins,Measure No. 31 - Eminent Domain,,,Over Votes,0
+Leake,Conway,Measure No. 31 - Eminent Domain,,,Under Votes,12
+Leake,East Carthage,Measure No. 31 - Eminent Domain,,,Under Votes,10
+Leake,Harmony,Measure No. 31 - Eminent Domain,,,Under Votes,7
+Leake,Edinburg,Measure No. 31 - Eminent Domain,,,Under Votes,7
+Leake,Freeny,Measure No. 31 - Eminent Domain,,,Under Votes,2
+Leake,Good Hope,Measure No. 31 - Eminent Domain,,,Under Votes,10
+Leake,Lena,Measure No. 31 - Eminent Domain,,,Under Votes,3
+Leake,Madden,Measure No. 31 - Eminent Domain,,,Under Votes,1
+Leake,North Carthage,Measure No. 31 - Eminent Domain,,,Under Votes,2
+Leake,Ofahoma,Measure No. 31 - Eminent Domain,,,Under Votes,9
+Leake,Renfroe,Measure No. 31 - Eminent Domain,,,Under Votes,5
+Leake,South Carthage,Measure No. 31 - Eminent Domain,,,Under Votes,3
+Leake,Salem,Measure No. 31 - Eminent Domain,,,Under Votes,6
+Leake,Singleton,Measure No. 31 - Eminent Domain,,,Under Votes,3
+Leake,Sunrise,Measure No. 31 - Eminent Domain,,,Under Votes,8
+Leake,Thomastown,Measure No. 31 - Eminent Domain,,,Under Votes,11
+Leake,West Carthage,Measure No. 31 - Eminent Domain,,,Under Votes,2
+Leake,Walnut Grove,Measure No. 31 - Eminent Domain,,,Under Votes,11
+Leake,Wiggins,Measure No. 31 - Eminent Domain,,,Under Votes,0
