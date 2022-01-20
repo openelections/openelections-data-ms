@@ -380,28 +380,28 @@ Tate,Wyatte,State Senate,10,Democrat,Steve Hale,81
 Tate,Arkabutla,State Senate,11,Democrat,Robert L. Jackson,286
 Tate,Evansville,State Senate,11,Democrat,Robert L. Jackson,77
 Tate,Strayhorn,State Senate,11,Democrat,Robert L. Jackson,181
-Tate,Arkabutla,State House,08,Republican,"John Thomas 'Trey' Lamar, III",35
-Tate,Coldwater 3,State House,08,Republican,"John Thomas 'Trey' Lamar, III",112
-Tate,Evansville,State House,08,Republican,"John Thomas 'Trey' Lamar, III",57
-Tate,Independence,State House,08,Republican,"John Thomas 'Trey' Lamar, III",746
-Tate,Looxahoma,State House,08,Republican,"John Thomas 'Trey' Lamar, III",203
-Tate,Palestine,State House,08,Republican,"John Thomas 'Trey' Lamar, III",226
-Tate,Poagville 5,State House,08,Republican,"John Thomas 'Trey' Lamar, III",115
-Tate,Poagville 4,State House,08,Republican,"John Thomas 'Trey' Lamar, III",380
-Tate,Sarah,State House,08,Republican,"John Thomas 'Trey' Lamar, III",91
-Tate,Senatobia 1,State House,08,Republican,"John Thomas 'Trey' Lamar, III",517
-Tate,Sherrod,State House,08,Republican,"John Thomas 'Trey' Lamar, III",176
-Tate,Senatobia 2,State House,08,Republican,"John Thomas 'Trey' Lamar, III",682
-Tate,Senatobia 3,State House,08,Republican,"John Thomas 'Trey' Lamar, III",52
-Tate,Senatobia 4,State House,08,Republican,"John Thomas 'Trey' Lamar, III",396
-Tate,Strayhorn,State House,08,Republican,"John Thomas 'Trey' Lamar, III",444
-Tate,Taylor,State House,08,Republican,"John Thomas 'Trey' Lamar, III",52
-Tate,Thyatira,State House,08,Republican,"John Thomas 'Trey' Lamar, III",134
-Tate,Wyatte,State House,08,Republican,"John Thomas 'Trey' Lamar, III",7
-Tate,Arkabutla,State House,09,Democrat,Clara Henderson Burnett,285
-Tate,Coldwater 3,State House,09,Democrat,Clara Henderson Burnett,632
-Tate,Evansville,State House,09,Democrat,Clara Henderson Burnett,31
-Tate,Taylor,State House,09,Democrat,Clara Henderson Burnett,97
+Tate,Arkabutla,State House,8,Republican,"John Thomas 'Trey' Lamar, III",35
+Tate,Coldwater 3,State House,8,Republican,"John Thomas 'Trey' Lamar, III",112
+Tate,Evansville,State House,8,Republican,"John Thomas 'Trey' Lamar, III",57
+Tate,Independence,State House,8,Republican,"John Thomas 'Trey' Lamar, III",746
+Tate,Looxahoma,State House,8,Republican,"John Thomas 'Trey' Lamar, III",203
+Tate,Palestine,State House,8,Republican,"John Thomas 'Trey' Lamar, III",226
+Tate,Poagville 5,State House,8,Republican,"John Thomas 'Trey' Lamar, III",115
+Tate,Poagville 4,State House,8,Republican,"John Thomas 'Trey' Lamar, III",380
+Tate,Sarah,State House,8,Republican,"John Thomas 'Trey' Lamar, III",91
+Tate,Senatobia 1,State House,8,Republican,"John Thomas 'Trey' Lamar, III",517
+Tate,Sherrod,State House,8,Republican,"John Thomas 'Trey' Lamar, III",176
+Tate,Senatobia 2,State House,8,Republican,"John Thomas 'Trey' Lamar, III",682
+Tate,Senatobia 3,State House,8,Republican,"John Thomas 'Trey' Lamar, III",52
+Tate,Senatobia 4,State House,8,Republican,"John Thomas 'Trey' Lamar, III",396
+Tate,Strayhorn,State House,8,Republican,"John Thomas 'Trey' Lamar, III",444
+Tate,Taylor,State House,8,Republican,"John Thomas 'Trey' Lamar, III",52
+Tate,Thyatira,State House,8,Republican,"John Thomas 'Trey' Lamar, III",134
+Tate,Wyatte,State House,8,Republican,"John Thomas 'Trey' Lamar, III",7
+Tate,Arkabutla,State House,9,Democrat,Clara Henderson Burnett,285
+Tate,Coldwater 3,State House,9,Democrat,Clara Henderson Burnett,632
+Tate,Evansville,State House,9,Democrat,Clara Henderson Burnett,31
+Tate,Taylor,State House,9,Democrat,Clara Henderson Burnett,97
 Tate,Looxahoma,State House,11,Democrat,Joe C. Gardner,259
 Tate,Senatobia 1,State House,11,Democrat,Joe C. Gardner,525
 Tate,Senatobia 3,State House,11,Democrat,Joe C. Gardner,149
@@ -409,27 +409,231 @@ Tate,Senatobia 4,State House,11,Democrat,Joe C. Gardner,67
 Tate,Thyatira,State House,11,Democrat,Joe C. Gardner,14
 Tate,Tyro,State House,11,Democrat,Joe C. Gardner,154
 Tate,Wyatte,State House,11,Democrat,Joe C. Gardner,79
-Tate,,Governor,,Republican,Phil Bryant,5612
-Tate,,Governor,,Democrat,Johnny L. DuPree,2621
-Tate,,Lieutenant Governor,,Republican,Tate Reeves,6202
-Tate,,Lieutenant Governor,,Reform,Tracella Lou O'Hara Hill,1198
-Tate,,Secretary of State,,Republican,Delbert Hosemann,6478
-Tate,,Attorney General,,Democrat,Jim Hood,4202
-Tate,,Attorney General,,Republican,Steve Simpson,3719
-Tate,,State Auditor,,Republican,Stacey E. Pickering,5409
-Tate,,State Auditor,,Reform,Ashley Norwood,1765
-Tate,,Treasurer,,Republican,Lynn Fitch,4946
-Tate,,Treasurer,,Democrat,Connie Moran,2660
-Tate,,Treasurer,,Reform,Shawn O'Hara,273
-Tate,,Commissioner of Agriculture & Commerce,,Democrat,Joel Gill,3151
-Tate,,Commissioner of Agriculture & Commerce,,Republican,Cindy Hyde-Smith,4367
-Tate,,Commissioner of Agriculture & Commerce,,Reform,Cathy L. Toole,266
-Tate,,Commissioner of Insurance,,Republican,Mike Chaney,5100
-Tate,,Commissioner of Insurance,,Democrat,Louis Fondren,2429
-Tate,,Commissioner of Insurance,,Reform,Barbara Dale Washer,309
-Tate,,State Senate,10,Republican,Vann J. Branch,2832
-Tate,,State Senate,10,Democrat,Steve Hale,4545
-Tate,,State Senate,11,Democrat,Robert L. Jackson,544
-Tate,,State House,08,Republican,"John Thomas 'Trey' Lamar, III",4425
-Tate,,State House,09,Democrat,Clara Henderson Burnett,1045
-Tate,,State House,11,Democrat,Joe C. Gardner,1247
+Tate,Arkabutla,Measure No. 26 - Definition of a person,,,Yes,231
+Tate,Coldwater 3,Measure No. 26 - Definition of a person,,,Yes,310
+Tate,Evansville,Measure No. 26 - Definition of a person,,,Yes,61
+Tate,Independence,Measure No. 26 - Definition of a person,,,Yes,524
+Tate,Looxahoma,Measure No. 26 - Definition of a person,,,Yes,260
+Tate,Palestine,Measure No. 26 - Definition of a person,,,Yes,136
+Tate,Poagville 5,Measure No. 26 - Definition of a person,,,Yes,88
+Tate,Poagville 4,Measure No. 26 - Definition of a person,,,Yes,235
+Tate,Sarah,Measure No. 26 - Definition of a person,,,Yes,46
+Tate,Senatobia 1,Measure No. 26 - Definition of a person,,,Yes,569
+Tate,Sherrod,Measure No. 26 - Definition of a person,,,Yes,93
+Tate,Senatobia 2,Measure No. 26 - Definition of a person,,,Yes,315
+Tate,Senatobia 3,Measure No. 26 - Definition of a person,,,Yes,66
+Tate,Senatobia 4,Measure No. 26 - Definition of a person,,,Yes,273
+Tate,Strayhorn,Measure No. 26 - Definition of a person,,,Yes,285
+Tate,Taylor,Measure No. 26 - Definition of a person,,,Yes,74
+Tate,Thyatira,Measure No. 26 - Definition of a person,,,Yes,101
+Tate,Tyro,Measure No. 26 - Definition of a person,,,Yes,80
+Tate,Wyatte,Measure No. 26 - Definition of a person,,,Yes,105
+Tate,Arkabutla,Measure No. 26 - Definition of a person,,,No,206
+Tate,Coldwater 3,Measure No. 26 - Definition of a person,,,No,576
+Tate,Evansville,Measure No. 26 - Definition of a person,,,No,42
+Tate,Independence,Measure No. 26 - Definition of a person,,,No,392
+Tate,Looxahoma,Measure No. 26 - Definition of a person,,,No,290
+Tate,Palestine,Measure No. 26 - Definition of a person,,,No,108
+Tate,Poagville 5,Measure No. 26 - Definition of a person,,,No,65
+Tate,Poagville 4,Measure No. 26 - Definition of a person,,,No,209
+Tate,Sarah,Measure No. 26 - Definition of a person,,,No,46
+Tate,Senatobia 1,Measure No. 26 - Definition of a person,,,No,761
+Tate,Sherrod,Measure No. 26 - Definition of a person,,,No,94
+Tate,Senatobia 2,Measure No. 26 - Definition of a person,,,No,452
+Tate,Senatobia 3,Measure No. 26 - Definition of a person,,,No,181
+Tate,Senatobia 4,Measure No. 26 - Definition of a person,,,No,259
+Tate,Strayhorn,Measure No. 26 - Definition of a person,,,No,208
+Tate,Taylor,Measure No. 26 - Definition of a person,,,No,107
+Tate,Thyatira,Measure No. 26 - Definition of a person,,,No,76
+Tate,Tyro,Measure No. 26 - Definition of a person,,,No,118
+Tate,Wyatte,Measure No. 26 - Definition of a person,,,No,47
+Tate,Arkabutla,Measure No. 26 - Definition of a person,,,Over Votes,0
+Tate,Coldwater 3,Measure No. 26 - Definition of a person,,,Over Votes,0
+Tate,Evansville,Measure No. 26 - Definition of a person,,,Over Votes,0
+Tate,Independence,Measure No. 26 - Definition of a person,,,Over Votes,0
+Tate,Looxahoma,Measure No. 26 - Definition of a person,,,Over Votes,0
+Tate,Palestine,Measure No. 26 - Definition of a person,,,Over Votes,0
+Tate,Poagville 5,Measure No. 26 - Definition of a person,,,Over Votes,0
+Tate,Poagville 4,Measure No. 26 - Definition of a person,,,Over Votes,0
+Tate,Sarah,Measure No. 26 - Definition of a person,,,Over Votes,0
+Tate,Senatobia 1,Measure No. 26 - Definition of a person,,,Over Votes,0
+Tate,Sherrod,Measure No. 26 - Definition of a person,,,Over Votes,0
+Tate,Senatobia 2,Measure No. 26 - Definition of a person,,,Over Votes,0
+Tate,Senatobia 3,Measure No. 26 - Definition of a person,,,Over Votes,0
+Tate,Senatobia 4,Measure No. 26 - Definition of a person,,,Over Votes,0
+Tate,Strayhorn,Measure No. 26 - Definition of a person,,,Over Votes,0
+Tate,Taylor,Measure No. 26 - Definition of a person,,,Over Votes,0
+Tate,Thyatira,Measure No. 26 - Definition of a person,,,Over Votes,0
+Tate,Tyro,Measure No. 26 - Definition of a person,,,Over Votes,0
+Tate,Wyatte,Measure No. 26 - Definition of a person,,,Over Votes,0
+Tate,Arkabutla,Measure No. 26 - Definition of a person,,,"	Under Votes",19
+Tate,Coldwater 3,Measure No. 26 - Definition of a person,,,"	Under Votes",36
+Tate,Evansville,Measure No. 26 - Definition of a person,,,"	Under Votes",1
+Tate,Independence,Measure No. 26 - Definition of a person,,,"	Under Votes",31
+Tate,Looxahoma,Measure No. 26 - Definition of a person,,,"	Under Votes",1
+Tate,Palestine,Measure No. 26 - Definition of a person,,,"	Under Votes",5
+Tate,Poagville 5,Measure No. 26 - Definition of a person,,,"	Under Votes",8
+Tate,Poagville 4,Measure No. 26 - Definition of a person,,,"	Under Votes",12
+Tate,Sarah,Measure No. 26 - Definition of a person,,,"	Under Votes",2
+Tate,Senatobia 1,Measure No. 26 - Definition of a person,,,"	Under Votes",20
+Tate,Sherrod,Measure No. 26 - Definition of a person,,,"	Under Votes",7
+Tate,Senatobia 2,Measure No. 26 - Definition of a person,,,"	Under Votes",22
+Tate,Senatobia 3,Measure No. 26 - Definition of a person,,,"	Under Votes",8
+Tate,Senatobia 4,Measure No. 26 - Definition of a person,,,"	Under Votes",12
+Tate,Strayhorn,Measure No. 26 - Definition of a person,,,"	Under Votes",6
+Tate,Taylor,Measure No. 26 - Definition of a person,,,"	Under Votes",10
+Tate,Thyatira,Measure No. 26 - Definition of a person,,,"	Under Votes",7
+Tate,Tyro,Measure No. 26 - Definition of a person,,,"	Under Votes",5
+Tate,Wyatte,Measure No. 26 - Definition of a person,,,"	Under Votes",0
+Tate,Arkabutla,"	Measure No. 27 - Voter ID",,,Yes,261
+Tate,Coldwater 3,"	Measure No. 27 - Voter ID",,,Yes,371
+Tate,Evansville,"	Measure No. 27 - Voter ID",,,Yes,74
+Tate,Independence,"	Measure No. 27 - Voter ID",,,Yes,569
+Tate,Looxahoma,"	Measure No. 27 - Voter ID",,,Yes,340
+Tate,Palestine,"	Measure No. 27 - Voter ID",,,Yes,178
+Tate,Poagville 5,"	Measure No. 27 - Voter ID",,,Yes,99
+Tate,Poagville 4,"	Measure No. 27 - Voter ID",,,Yes,334
+Tate,Sarah,"	Measure No. 27 - Voter ID",,,Yes,64
+Tate,Senatobia 1,"	Measure No. 27 - Voter ID",,,Yes,994
+Tate,Sherrod,"	Measure No. 27 - Voter ID",,,Yes,149
+Tate,Senatobia 2,"	Measure No. 27 - Voter ID",,,Yes,564
+Tate,Senatobia 3,"	Measure No. 27 - Voter ID",,,Yes,97
+Tate,Senatobia 4,"	Measure No. 27 - Voter ID",,,Yes,390
+Tate,Strayhorn,"	Measure No. 27 - Voter ID",,,Yes,376
+Tate,Taylor,"	Measure No. 27 - Voter ID",,,Yes,92
+Tate,Thyatira,"	Measure No. 27 - Voter ID",,,Yes,116
+Tate,Tyro,"	Measure No. 27 - Voter ID",,,Yes,93
+Tate,Wyatte,"	Measure No. 27 - Voter ID",,,Yes,110
+Tate,Arkabutla,"	Measure No. 27 - Voter ID",,,No,163
+Tate,Coldwater 3,"	Measure No. 27 - Voter ID",,,No,503
+Tate,Evansville,"	Measure No. 27 - Voter ID",,,No,31
+Tate,Independence,"	Measure No. 27 - Voter ID",,,No,336
+Tate,Looxahoma,"	Measure No. 27 - Voter ID",,,No,204
+Tate,Palestine,"	Measure No. 27 - Voter ID",,,No,62
+Tate,Poagville 5,"	Measure No. 27 - Voter ID",,,No,51
+Tate,Poagville 4,"	Measure No. 27 - Voter ID",,,No,108
+Tate,Sarah,"	Measure No. 27 - Voter ID",,,No,27
+Tate,Senatobia 1,"	Measure No. 27 - Voter ID",,,No,315
+Tate,Sherrod,"	Measure No. 27 - Voter ID",,,No,35
+Tate,Senatobia 2,"	Measure No. 27 - Voter ID",,,No,196
+Tate,Senatobia 3,"	Measure No. 27 - Voter ID",,,No,151
+Tate,Senatobia 4,"	Measure No. 27 - Voter ID",,,No,147
+Tate,Strayhorn,"	Measure No. 27 - Voter ID",,,No,108
+Tate,Taylor,"	Measure No. 27 - Voter ID",,,No,98
+Tate,Thyatira,"	Measure No. 27 - Voter ID",,,No,57
+Tate,Tyro,"	Measure No. 27 - Voter ID",,,No,101
+Tate,Wyatte,"	Measure No. 27 - Voter ID",,,No,39
+Tate,Arkabutla,"	Measure No. 27 - Voter ID",,,Over Votes,0
+Tate,Coldwater 3,"	Measure No. 27 - Voter ID",,,Over Votes,0
+Tate,Evansville,"	Measure No. 27 - Voter ID",,,Over Votes,0
+Tate,Independence,"	Measure No. 27 - Voter ID",,,Over Votes,0
+Tate,Looxahoma,"	Measure No. 27 - Voter ID",,,Over Votes,0
+Tate,Palestine,"	Measure No. 27 - Voter ID",,,Over Votes,0
+Tate,Poagville 5,"	Measure No. 27 - Voter ID",,,Over Votes,0
+Tate,Poagville 4,"	Measure No. 27 - Voter ID",,,Over Votes,0
+Tate,Sarah,"	Measure No. 27 - Voter ID",,,Over Votes,0
+Tate,Senatobia 1,"	Measure No. 27 - Voter ID",,,Over Votes,0
+Tate,Sherrod,"	Measure No. 27 - Voter ID",,,Over Votes,0
+Tate,Senatobia 2,"	Measure No. 27 - Voter ID",,,Over Votes,0
+Tate,Senatobia 3,"	Measure No. 27 - Voter ID",,,Over Votes,0
+Tate,Senatobia 4,"	Measure No. 27 - Voter ID",,,Over Votes,0
+Tate,Strayhorn,"	Measure No. 27 - Voter ID",,,Over Votes,0
+Tate,Taylor,"	Measure No. 27 - Voter ID",,,Over Votes,0
+Tate,Thyatira,"	Measure No. 27 - Voter ID",,,Over Votes,0
+Tate,Tyro,"	Measure No. 27 - Voter ID",,,Over Votes,0
+Tate,Wyatte,"	Measure No. 27 - Voter ID",,,Over Votes,0
+Tate,Arkabutla,"	Measure No. 27 - Voter ID",,,"	Under Votes",29
+Tate,Coldwater 3,"	Measure No. 27 - Voter ID",,,"	Under Votes",45
+Tate,Evansville,"	Measure No. 27 - Voter ID",,,"	Under Votes",2
+Tate,Independence,"	Measure No. 27 - Voter ID",,,"	Under Votes",42
+Tate,Looxahoma,"	Measure No. 27 - Voter ID",,,"	Under Votes",1
+Tate,Palestine,"	Measure No. 27 - Voter ID",,,"	Under Votes",9
+Tate,Poagville 5,"	Measure No. 27 - Voter ID",,,"	Under Votes",11
+Tate,Poagville 4,"	Measure No. 27 - Voter ID",,,"	Under Votes",14
+Tate,Sarah,"	Measure No. 27 - Voter ID",,,"	Under Votes",3
+Tate,Senatobia 1,"	Measure No. 27 - Voter ID",,,"	Under Votes",33
+Tate,Sherrod,"	Measure No. 27 - Voter ID",,,"	Under Votes",10
+Tate,Senatobia 2,"	Measure No. 27 - Voter ID",,,"	Under Votes",29
+Tate,Senatobia 3,"	Measure No. 27 - Voter ID",,,"	Under Votes",8
+Tate,Senatobia 4,"	Measure No. 27 - Voter ID",,,"	Under Votes",9
+Tate,Strayhorn,"	Measure No. 27 - Voter ID",,,"	Under Votes",15
+Tate,Taylor,"	Measure No. 27 - Voter ID",,,"	Under Votes",4
+Tate,Thyatira,"	Measure No. 27 - Voter ID",,,"	Under Votes",11
+Tate,Tyro,"	Measure No. 27 - Voter ID",,,"	Under Votes",9
+Tate,Wyatte,"	Measure No. 27 - Voter ID",,,"	Under Votes",0
+Tate,Arkabutla,"	Measure No. 31 - Eminent Domain",,,Yes,325
+Tate,Coldwater 3,"	Measure No. 31 - Eminent Domain",,,Yes,543
+Tate,Evansville,"	Measure No. 31 - Eminent Domain",,,Yes,81
+Tate,Independence,"	Measure No. 31 - Eminent Domain",,,Yes,689
+Tate,Looxahoma,"	Measure No. 31 - Eminent Domain",,,Yes,431
+Tate,Palestine,"	Measure No. 31 - Eminent Domain",,,Yes,204
+Tate,Poagville 5,"	Measure No. 31 - Eminent Domain",,,Yes,125
+Tate,Poagville 4,"	Measure No. 31 - Eminent Domain",,,Yes,361
+Tate,Sarah,"	Measure No. 31 - Eminent Domain",,,Yes,79
+Tate,Senatobia 1,"	Measure No. 31 - Eminent Domain",,,Yes,959
+Tate,Sherrod,"	Measure No. 31 - Eminent Domain",,,Yes,161
+Tate,Senatobia 2,"	Measure No. 31 - Eminent Domain",,,Yes,604
+Tate,Senatobia 3,"	Measure No. 31 - Eminent Domain",,,Yes,115
+Tate,Senatobia 4,"	Measure No. 31 - Eminent Domain",,,Yes,438
+Tate,Strayhorn,"	Measure No. 31 - Eminent Domain",,,Yes,420
+Tate,Taylor,"	Measure No. 31 - Eminent Domain",,,Yes,141
+Tate,Thyatira,"	Measure No. 31 - Eminent Domain",,,Yes,147
+Tate,Tyro,"	Measure No. 31 - Eminent Domain",,,Yes,137
+Tate,Wyatte,"	Measure No. 31 - Eminent Domain",,,Yes,116
+Tate,Arkabutla,"	Measure No. 31 - Eminent Domain",,,No,109
+Tate,Coldwater 3,"	Measure No. 31 - Eminent Domain",,,No,341
+Tate,Evansville,"	Measure No. 31 - Eminent Domain",,,No,22
+Tate,Independence,"	Measure No. 31 - Eminent Domain",,,No,225
+Tate,Looxahoma,"	Measure No. 31 - Eminent Domain",,,No,112
+Tate,Palestine,"	Measure No. 31 - Eminent Domain",,,No,39
+Tate,Poagville 5,"	Measure No. 31 - Eminent Domain",,,No,29
+Tate,Poagville 4,"	Measure No. 31 - Eminent Domain",,,No,87
+Tate,Sarah,"	Measure No. 31 - Eminent Domain",,,No,11
+Tate,Senatobia 1,"	Measure No. 31 - Eminent Domain",,,No,351
+Tate,Sherrod,"	Measure No. 31 - Eminent Domain",,,No,26
+Tate,Senatobia 2,"	Measure No. 31 - Eminent Domain",,,No,164
+Tate,Senatobia 3,"	Measure No. 31 - Eminent Domain",,,No,130
+Tate,Senatobia 4,"	Measure No. 31 - Eminent Domain",,,No,98
+Tate,Strayhorn,"	Measure No. 31 - Eminent Domain",,,No,68
+Tate,Taylor,"	Measure No. 31 - Eminent Domain",,,No,49
+Tate,Thyatira,"	Measure No. 31 - Eminent Domain",,,No,29
+Tate,Tyro,"	Measure No. 31 - Eminent Domain",,,No,58
+Tate,Wyatte,"	Measure No. 31 - Eminent Domain",,,No,33
+Tate,Arkabutla,"	Measure No. 31 - Eminent Domain",,,Over Votes,0
+Tate,Coldwater 3,"	Measure No. 31 - Eminent Domain",,,Over Votes,0
+Tate,Evansville,"	Measure No. 31 - Eminent Domain",,,Over Votes,0
+Tate,Independence,"	Measure No. 31 - Eminent Domain",,,Over Votes,0
+Tate,Looxahoma,"	Measure No. 31 - Eminent Domain",,,Over Votes,0
+Tate,Palestine,"	Measure No. 31 - Eminent Domain",,,Over Votes,0
+Tate,Poagville 5,"	Measure No. 31 - Eminent Domain",,,Over Votes,0
+Tate,Poagville 4,"	Measure No. 31 - Eminent Domain",,,Over Votes,0
+Tate,Sarah,"	Measure No. 31 - Eminent Domain",,,Over Votes,0
+Tate,Senatobia 1,"	Measure No. 31 - Eminent Domain",,,Over Votes,0
+Tate,Sherrod,"	Measure No. 31 - Eminent Domain",,,Over Votes,0
+Tate,Senatobia 2,"	Measure No. 31 - Eminent Domain",,,Over Votes,0
+Tate,Senatobia 3,"	Measure No. 31 - Eminent Domain",,,Over Votes,0
+Tate,Senatobia 4,"	Measure No. 31 - Eminent Domain",,,Over Votes,0
+Tate,Strayhorn,"	Measure No. 31 - Eminent Domain",,,Over Votes,0
+Tate,Taylor,"	Measure No. 31 - Eminent Domain",,,Over Votes,0
+Tate,Thyatira,"	Measure No. 31 - Eminent Domain",,,Over Votes,0
+Tate,Tyro,"	Measure No. 31 - Eminent Domain",,,Over Votes,0
+Tate,Wyatte,"	Measure No. 31 - Eminent Domain",,,Over Votes,0
+Tate,Arkabutla,"	Measure No. 31 - Eminent Domain",,,"	Under Votes",21
+Tate,Coldwater 3,"	Measure No. 31 - Eminent Domain",,,"	Under Votes",38
+Tate,Evansville,"	Measure No. 31 - Eminent Domain",,,"	Under Votes",2
+Tate,Independence,"	Measure No. 31 - Eminent Domain",,,"	Under Votes",33
+Tate,Looxahoma,"	Measure No. 31 - Eminent Domain",,,"	Under Votes",0
+Tate,Palestine,"	Measure No. 31 - Eminent Domain",,,"	Under Votes",6
+Tate,Poagville 5,"	Measure No. 31 - Eminent Domain",,,"	Under Votes",7
+Tate,Poagville 4,"	Measure No. 31 - Eminent Domain",,,"	Under Votes",8
+Tate,Sarah,"	Measure No. 31 - Eminent Domain",,,"	Under Votes",4
+Tate,Senatobia 1,"	Measure No. 31 - Eminent Domain",,,"	Under Votes",31
+Tate,Sherrod,"	Measure No. 31 - Eminent Domain",,,"	Under Votes",7
+Tate,Senatobia 2,"	Measure No. 31 - Eminent Domain",,,"	Under Votes",21
+Tate,Senatobia 3,"	Measure No. 31 - Eminent Domain",,,"	Under Votes",9
+Tate,Senatobia 4,"	Measure No. 31 - Eminent Domain",,,"	Under Votes",11
+Tate,Strayhorn,"	Measure No. 31 - Eminent Domain",,,"	Under Votes",11
+Tate,Taylor,"	Measure No. 31 - Eminent Domain",,,"	Under Votes",3
+Tate,Thyatira,"	Measure No. 31 - Eminent Domain",,,"	Under Votes",8
+Tate,Tyro,"	Measure No. 31 - Eminent Domain",,,"	Under Votes",8
+Tate,Wyatte,"	Measure No. 31 - Eminent Domain",,,"	Under Votes",0
