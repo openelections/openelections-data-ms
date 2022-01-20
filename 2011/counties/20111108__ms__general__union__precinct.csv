@@ -359,77 +359,292 @@ Union,East Union,Commissioner of Agriculture & Commerce,,Reform,Cathy L. Toole,1
 Union,East Union,Commissioner of Insurance,,Republican,Mike Chaney,396
 Union,East Union,Commissioner of Insurance,,Democrat,Louis Fondren,133
 Union,East Union,Commissioner of Insurance,,Reform,Barbara Dale Washer,19
-Union,Macedonia,State Senate,03,Democrat,Nickey Browning,140
-Union,Blythe,State Senate,03,Democrat,Nickey Browning,102
-Union,Myrtle,State Senate,03,Democrat,Nickey Browning,407
-Union,Glenfield,State Senate,03,Democrat,Nickey Browning,283
-Union,Pinedale,State Senate,03,Democrat,Nickey Browning,184
-Union,West Union,State Senate,03,Democrat,Nickey Browning,267
-Union,Ingomar Fire Station,State Senate,03,Democrat,Nickey Browning,201
-Union,Courthouse,State Senate,03,Democrat,Nickey Browning,295
-Union,Blue Springs,State Senate,03,Democrat,Nickey Browning,175
-Union,Center,State Senate,03,Democrat,Nickey Browning,122
-Union,Ingomar,State Senate,03,Democrat,Nickey Browning,363
-Union,Sportsplex,State Senate,03,Democrat,Nickey Browning,437
-Union,NE Community College,State Senate,03,Democrat,Nickey Browning,410
-Union,B.F. Ford,State Senate,03,Democrat,Nickey Browning,277
-Union,Central Maintenance,State Senate,03,Democrat,Nickey Browning,358
-Union,Beacon Hill,State Senate,03,Democrat,Nickey Browning,278
-Union,Keownville,State Senate,03,Democrat,Nickey Browning,231
-Union,Pleasant Ridge,State Senate,03,Democrat,Nickey Browning,96
-Union,Jericho,State Senate,03,Democrat,Nickey Browning,126
-Union,East Union,State Senate,03,Democrat,Nickey Browning,332
-Union,Macedonia,State Senate,03,Republican,Betsey Hamilton,86
-Union,Blythe,State Senate,03,Republican,Betsey Hamilton,67
-Union,Myrtle,State Senate,03,Republican,Betsey Hamilton,318
-Union,Glenfield,State Senate,03,Republican,Betsey Hamilton,205
-Union,Pinedale,State Senate,03,Republican,Betsey Hamilton,106
-Union,West Union,State Senate,03,Republican,Betsey Hamilton,190
-Union,Ingomar Fire Station,State Senate,03,Republican,Betsey Hamilton,90
-Union,Courthouse,State Senate,03,Republican,Betsey Hamilton,259
-Union,Blue Springs,State Senate,03,Republican,Betsey Hamilton,160
-Union,Center,State Senate,03,Republican,Betsey Hamilton,138
-Union,Ingomar,State Senate,03,Republican,Betsey Hamilton,159
-Union,Sportsplex,State Senate,03,Republican,Betsey Hamilton,225
-Union,NE Community College,State Senate,03,Republican,Betsey Hamilton,435
-Union,B.F. Ford,State Senate,03,Republican,Betsey Hamilton,211
-Union,Central Maintenance,State Senate,03,Republican,Betsey Hamilton,294
-Union,Beacon Hill,State Senate,03,Republican,Betsey Hamilton,201
-Union,Keownville,State Senate,03,Republican,Betsey Hamilton,183
-Union,Pleasant Ridge,State Senate,03,Republican,Betsey Hamilton,84
-Union,Jericho,State Senate,03,Republican,Betsey Hamilton,117
-Union,East Union,State Senate,03,Republican,Betsey Hamilton,226
-Union,Pleasant Ridge,State House,04,Republican,James E. 'Jimmy' Benefield,44
-Union,Jericho,State House,04,Republican,James E. 'Jimmy' Benefield,162
-Union,East Union,State House,04,Republican,James E. 'Jimmy' Benefield,94
-Union,Pleasant Ridge,State House,04,Democrat,Joseph F. 'Jody' Steverson,13
-Union,Jericho,State House,04,Democrat,Joseph F. 'Jody' Steverson,79
-Union,East Union,State House,04,Democrat,Joseph F. 'Jody' Steverson,47
+Union,Macedonia,State Senate,3,Democrat,Nickey Browning,140
+Union,Blythe,State Senate,3,Democrat,Nickey Browning,102
+Union,Myrtle,State Senate,3,Democrat,Nickey Browning,407
+Union,Glenfield,State Senate,3,Democrat,Nickey Browning,283
+Union,Pinedale,State Senate,3,Democrat,Nickey Browning,184
+Union,West Union,State Senate,3,Democrat,Nickey Browning,267
+Union,Ingomar Fire Station,State Senate,3,Democrat,Nickey Browning,201
+Union,Courthouse,State Senate,3,Democrat,Nickey Browning,295
+Union,Blue Springs,State Senate,3,Democrat,Nickey Browning,175
+Union,Center,State Senate,3,Democrat,Nickey Browning,122
+Union,Ingomar,State Senate,3,Democrat,Nickey Browning,363
+Union,Sportsplex,State Senate,3,Democrat,Nickey Browning,437
+Union,NE Community College,State Senate,3,Democrat,Nickey Browning,410
+Union,B.F. Ford,State Senate,3,Democrat,Nickey Browning,277
+Union,Central Maintenance,State Senate,3,Democrat,Nickey Browning,358
+Union,Beacon Hill,State Senate,3,Democrat,Nickey Browning,278
+Union,Keownville,State Senate,3,Democrat,Nickey Browning,231
+Union,Pleasant Ridge,State Senate,3,Democrat,Nickey Browning,96
+Union,Jericho,State Senate,3,Democrat,Nickey Browning,126
+Union,East Union,State Senate,3,Democrat,Nickey Browning,332
+Union,Macedonia,State Senate,3,Republican,Betsey Hamilton,86
+Union,Blythe,State Senate,3,Republican,Betsey Hamilton,67
+Union,Myrtle,State Senate,3,Republican,Betsey Hamilton,318
+Union,Glenfield,State Senate,3,Republican,Betsey Hamilton,205
+Union,Pinedale,State Senate,3,Republican,Betsey Hamilton,106
+Union,West Union,State Senate,3,Republican,Betsey Hamilton,190
+Union,Ingomar Fire Station,State Senate,3,Republican,Betsey Hamilton,90
+Union,Courthouse,State Senate,3,Republican,Betsey Hamilton,259
+Union,Blue Springs,State Senate,3,Republican,Betsey Hamilton,160
+Union,Center,State Senate,3,Republican,Betsey Hamilton,138
+Union,Ingomar,State Senate,3,Republican,Betsey Hamilton,159
+Union,Sportsplex,State Senate,3,Republican,Betsey Hamilton,225
+Union,NE Community College,State Senate,3,Republican,Betsey Hamilton,435
+Union,B.F. Ford,State Senate,3,Republican,Betsey Hamilton,211
+Union,Central Maintenance,State Senate,3,Republican,Betsey Hamilton,294
+Union,Beacon Hill,State Senate,3,Republican,Betsey Hamilton,201
+Union,Keownville,State Senate,3,Republican,Betsey Hamilton,183
+Union,Pleasant Ridge,State Senate,3,Republican,Betsey Hamilton,84
+Union,Jericho,State Senate,3,Republican,Betsey Hamilton,117
+Union,East Union,State Senate,3,Republican,Betsey Hamilton,226
+Union,Pleasant Ridge,State House,4,Republican,James E. 'Jimmy' Benefield,44
+Union,Jericho,State House,4,Republican,James E. 'Jimmy' Benefield,162
+Union,East Union,State House,4,Republican,James E. 'Jimmy' Benefield,94
+Union,Pleasant Ridge,State House,4,Democrat,Joseph F. 'Jody' Steverson,13
+Union,Jericho,State House,4,Democrat,Joseph F. 'Jody' Steverson,79
+Union,East Union,State House,4,Democrat,Joseph F. 'Jody' Steverson,47
 Union,Macedonia,State House,13,Democrat,Billy B. Gray,69
 Union,Blythe,State House,13,Democrat,Billy B. Gray,44
 Union,West Union,State House,13,Democrat,Billy B. Gray,14
-Union,,Governor,,Republican,Phil Bryant,6997
-Union,,Governor,,Democrat,Johnny L. DuPree,1929
-Union,,Lieutenant Governor,,Republican,Tate Reeves,7680
-Union,,Lieutenant Governor,,Reform,Tracella Lou O'Hara Hill,769
-Union,,Secretary of State,,Republican,Delbert Hosemann,7900
-Union,,Attorney General,,Democrat,Jim Hood,5519
-Union,,Attorney General,,Republican,Steve Simpson,3305
-Union,,State Auditor,,Republican,Stacey E. Pickering,6921
-Union,,State Auditor,,Reform,Ashley Norwood,1348
-Union,,Treasurer,,Republican,Lynn Fitch,6336
-Union,,Treasurer,,Democrat,Connie Moran,2032
-Union,,Treasurer,,Reform,Shawn O'Hara,286
-Union,,Commissioner of Agriculture & Commerce,,Democrat,Joel Gill,2821
-Union,,Commissioner of Agriculture & Commerce,,Republican,Cindy Hyde-Smith,5451
-Union,,Commissioner of Agriculture & Commerce,,Reform,Cathy L. Toole,260
-Union,,Commissioner of Insurance,,Republican,Mike Chaney,6593
-Union,,Commissioner of Insurance,,Democrat,Louis Fondren,1640
-Union,,Commissioner of Insurance,,Reform,Barbara Dale Washer,340
-Union,,State Senate,03,Democrat,Nickey Browning,5084
-Union,,State Senate,03,Republican,Betsey Hamilton,3754
-Union,,State House,04,Republican,James E. 'Jimmy' Benefield,300
-Union,,State House,04,Democrat,Joseph F. 'Jody' Steverson,139
-Union,,State House,13,Democrat,Billy B. Gray,127
-Union,,State House,13,Democrat,Steve E. Massengill,320
-Union,,State House,14,Republican,Margaret Ellis Rogers,7077
+Union,Macedonia,Measure No. 26 - Definition of a person,,,Yes,157
+Union,Blythe,Measure No. 26 - Definition of a person,,,Yes,124
+Union,Myrtle,Measure No. 26 - Definition of a person,,,Yes,526
+Union,Glenfield,Measure No. 26 - Definition of a person,,,Yes,330
+Union,Pinedale,Measure No. 26 - Definition of a person,,,Yes,201
+Union,West Union,Measure No. 26 - Definition of a person,,,Yes,310
+Union,Ingomar Fire Station,Measure No. 26 - Definition of a person,,,Yes,186
+Union,Courthouse,Measure No. 26 - Definition of a person,,,Yes,322
+Union,Blue Springs,Measure No. 26 - Definition of a person,,,Yes,198
+Union,Center,Measure No. 26 - Definition of a person,,,Yes,179
+Union,Ingomar,Measure No. 26 - Definition of a person,,,Yes,361
+Union,Sportsplex,Measure No. 26 - Definition of a person,,,Yes,408
+Union,NE Community College,Measure No. 26 - Definition of a person,,,Yes,473
+Union,B.F. Ford,Measure No. 26 - Definition of a person,,,Yes,272
+Union,Central Maintenance,Measure No. 26 - Definition of a person,,,Yes,429
+Union,Beacon Hill,Measure No. 26 - Definition of a person,,,Yes,326
+Union,Keownville,Measure No. 26 - Definition of a person,,,Yes,296
+Union,Pleasant Ridge,Measure No. 26 - Definition of a person,,,Yes,126
+Union,Jericho,Measure No. 26 - Definition of a person,,,Yes,150
+Union,East Union,Measure No. 26 - Definition of a person,,,Yes,375
+Union,Macedonia,Measure No. 26 - Definition of a person,,,No,68
+Union,Blythe,Measure No. 26 - Definition of a person,,,No,44
+Union,Myrtle,Measure No. 26 - Definition of a person,,,No,194
+Union,Glenfield,Measure No. 26 - Definition of a person,,,No,159
+Union,Pinedale,Measure No. 26 - Definition of a person,,,No,78
+Union,West Union,Measure No. 26 - Definition of a person,,,No,147
+Union,Ingomar Fire Station,Measure No. 26 - Definition of a person,,,No,99
+Union,Courthouse,Measure No. 26 - Definition of a person,,,No,227
+Union,Blue Springs,Measure No. 26 - Definition of a person,,,No,140
+Union,Center,Measure No. 26 - Definition of a person,,,No,76
+Union,Ingomar,Measure No. 26 - Definition of a person,,,No,153
+Union,Sportsplex,Measure No. 26 - Definition of a person,,,No,249
+Union,NE Community College,Measure No. 26 - Definition of a person,,,No,363
+Union,B.F. Ford,Measure No. 26 - Definition of a person,,,No,204
+Union,Central Maintenance,Measure No. 26 - Definition of a person,,,No,211
+Union,Beacon Hill,Measure No. 26 - Definition of a person,,,No,157
+Union,Keownville,Measure No. 26 - Definition of a person,,,No,121
+Union,Pleasant Ridge,Measure No. 26 - Definition of a person,,,No,55
+Union,Jericho,Measure No. 26 - Definition of a person,,,No,89
+Union,East Union,Measure No. 26 - Definition of a person,,,No,171
+Union,Macedonia,Measure No. 26 - Definition of a person,,,Over Votes,0
+Union,Blythe,Measure No. 26 - Definition of a person,,,Over Votes,0
+Union,Myrtle,Measure No. 26 - Definition of a person,,,Over Votes,0
+Union,Glenfield,Measure No. 26 - Definition of a person,,,Over Votes,0
+Union,Pinedale,Measure No. 26 - Definition of a person,,,Over Votes,0
+Union,West Union,Measure No. 26 - Definition of a person,,,Over Votes,0
+Union,Ingomar Fire Station,Measure No. 26 - Definition of a person,,,Over Votes,0
+Union,Courthouse,Measure No. 26 - Definition of a person,,,Over Votes,0
+Union,Blue Springs,Measure No. 26 - Definition of a person,,,Over Votes,0
+Union,Center,Measure No. 26 - Definition of a person,,,Over Votes,0
+Union,Ingomar,Measure No. 26 - Definition of a person,,,Over Votes,0
+Union,Sportsplex,Measure No. 26 - Definition of a person,,,Over Votes,0
+Union,NE Community College,Measure No. 26 - Definition of a person,,,Over Votes,0
+Union,B.F. Ford,Measure No. 26 - Definition of a person,,,Over Votes,0
+Union,Central Maintenance,Measure No. 26 - Definition of a person,,,Over Votes,0
+Union,Beacon Hill,Measure No. 26 - Definition of a person,,,Over Votes,0
+Union,Keownville,Measure No. 26 - Definition of a person,,,Over Votes,0
+Union,Pleasant Ridge,Measure No. 26 - Definition of a person,,,Over Votes,0
+Union,Jericho,Measure No. 26 - Definition of a person,,,Over Votes,0
+Union,East Union,Measure No. 26 - Definition of a person,,,Over Votes,0
+Union,Macedonia,Measure No. 26 - Definition of a person,,,Under Votes,7
+Union,Blythe,Measure No. 26 - Definition of a person,,,Under Votes,6
+Union,Myrtle,Measure No. 26 - Definition of a person,,,Under Votes,23
+Union,Glenfield,Measure No. 26 - Definition of a person,,,Under Votes,16
+Union,Pinedale,Measure No. 26 - Definition of a person,,,Under Votes,14
+Union,West Union,Measure No. 26 - Definition of a person,,,Under Votes,18
+Union,Ingomar Fire Station,Measure No. 26 - Definition of a person,,,Under Votes,12
+Union,Courthouse,Measure No. 26 - Definition of a person,,,Under Votes,12
+Union,Blue Springs,Measure No. 26 - Definition of a person,,,Under Votes,13
+Union,Center,Measure No. 26 - Definition of a person,,,Under Votes,7
+Union,Ingomar,Measure No. 26 - Definition of a person,,,Under Votes,22
+Union,Sportsplex,Measure No. 26 - Definition of a person,,,Under Votes,27
+Union,NE Community College,Measure No. 26 - Definition of a person,,,Under Votes,32
+Union,B.F. Ford,Measure No. 26 - Definition of a person,,,Under Votes,27
+Union,Central Maintenance,Measure No. 26 - Definition of a person,,,Under Votes,24
+Union,Beacon Hill,Measure No. 26 - Definition of a person,,,Under Votes,10
+Union,Keownville,Measure No. 26 - Definition of a person,,,Under Votes,20
+Union,Pleasant Ridge,Measure No. 26 - Definition of a person,,,Under Votes,2
+Union,Jericho,Measure No. 26 - Definition of a person,,,Under Votes,15
+Union,East Union,Measure No. 26 - Definition of a person,,,Under Votes,8
+Union,Macedonia,Measure No. 27 - Voter ID,,,Yes,157
+Union,Blythe,Measure No. 27 - Voter ID,,,Yes,115
+Union,Myrtle,Measure No. 27 - Voter ID,,,Yes,522
+Union,Glenfield,Measure No. 27 - Voter ID,,,Yes,363
+Union,Pinedale,Measure No. 27 - Voter ID,,,Yes,208
+Union,West Union,Measure No. 27 - Voter ID,,,Yes,347
+Union,Ingomar Fire Station,Measure No. 27 - Voter ID,,,Yes,235
+Union,Courthouse,Measure No. 27 - Voter ID,,,Yes,409
+Union,Blue Springs,Measure No. 27 - Voter ID,,,Yes,226
+Union,Center,Measure No. 27 - Voter ID,,,Yes,193
+Union,Ingomar,Measure No. 27 - Voter ID,,,Yes,372
+Union,Sportsplex,Measure No. 27 - Voter ID,,,Yes,440
+Union,NE Community College,Measure No. 27 - Voter ID,,,Yes,574
+Union,B.F. Ford,Measure No. 27 - Voter ID,,,Yes,300
+Union,Central Maintenance,Measure No. 27 - Voter ID,,,Yes,486
+Union,Beacon Hill,Measure No. 27 - Voter ID,,,Yes,351
+Union,Keownville,Measure No. 27 - Voter ID,,,Yes,319
+Union,Pleasant Ridge,Measure No. 27 - Voter ID,,,Yes,133
+Union,Jericho,Measure No. 27 - Voter ID,,,Yes,161
+Union,East Union,Measure No. 27 - Voter ID,,,Yes,381
+Union,Macedonia,Measure No. 27 - Voter ID,,,No,61
+Union,Blythe,Measure No. 27 - Voter ID,,,No,51
+Union,Myrtle,Measure No. 27 - Voter ID,,,No,193
+Union,Glenfield,Measure No. 27 - Voter ID,,,No,128
+Union,Pinedale,Measure No. 27 - Voter ID,,,No,64
+Union,West Union,Measure No. 27 - Voter ID,,,No,98
+Union,Ingomar Fire Station,Measure No. 27 - Voter ID,,,No,48
+Union,Courthouse,Measure No. 27 - Voter ID,,,No,143
+Union,Blue Springs,Measure No. 27 - Voter ID,,,No,104
+Union,Center,Measure No. 27 - Voter ID,,,No,62
+Union,Ingomar,Measure No. 27 - Voter ID,,,No,141
+Union,Sportsplex,Measure No. 27 - Voter ID,,,No,213
+Union,NE Community College,Measure No. 27 - Voter ID,,,No,266
+Union,B.F. Ford,Measure No. 27 - Voter ID,,,No,168
+Union,Central Maintenance,Measure No. 27 - Voter ID,,,No,153
+Union,Beacon Hill,Measure No. 27 - Voter ID,,,No,126
+Union,Keownville,Measure No. 27 - Voter ID,,,No,103
+Union,Pleasant Ridge,Measure No. 27 - Voter ID,,,No,42
+Union,Jericho,Measure No. 27 - Voter ID,,,No,79
+Union,East Union,Measure No. 27 - Voter ID,,,No,177
+Union,Macedonia,Measure No. 27 - Voter ID,,,Over Votes,0
+Union,Blythe,Measure No. 27 - Voter ID,,,Over Votes,0
+Union,Myrtle,Measure No. 27 - Voter ID,,,Over Votes,0
+Union,Glenfield,Measure No. 27 - Voter ID,,,Over Votes,0
+Union,Pinedale,Measure No. 27 - Voter ID,,,Over Votes,0
+Union,West Union,Measure No. 27 - Voter ID,,,Over Votes,0
+Union,Ingomar Fire Station,Measure No. 27 - Voter ID,,,Over Votes,0
+Union,Courthouse,Measure No. 27 - Voter ID,,,Over Votes,0
+Union,Blue Springs,Measure No. 27 - Voter ID,,,Over Votes,0
+Union,Center,Measure No. 27 - Voter ID,,,Over Votes,0
+Union,Ingomar,Measure No. 27 - Voter ID,,,Over Votes,0
+Union,Sportsplex,Measure No. 27 - Voter ID,,,Over Votes,0
+Union,NE Community College,Measure No. 27 - Voter ID,,,Over Votes,0
+Union,B.F. Ford,Measure No. 27 - Voter ID,,,Over Votes,0
+Union,Central Maintenance,Measure No. 27 - Voter ID,,,Over Votes,0
+Union,Beacon Hill,Measure No. 27 - Voter ID,,,Over Votes,0
+Union,Keownville,Measure No. 27 - Voter ID,,,Over Votes,0
+Union,Pleasant Ridge,Measure No. 27 - Voter ID,,,Over Votes,0
+Union,Jericho,Measure No. 27 - Voter ID,,,Over Votes,0
+Union,East Union,Measure No. 27 - Voter ID,,,Over Votes,0
+Union,Macedonia,Measure No. 27 - Voter ID,,,Under Votes,14
+Union,Blythe,Measure No. 27 - Voter ID,,,Under Votes,8
+Union,Myrtle,Measure No. 27 - Voter ID,,,Under Votes,28
+Union,Glenfield,Measure No. 27 - Voter ID,,,Under Votes,14
+Union,Pinedale,Measure No. 27 - Voter ID,,,Under Votes,21
+Union,West Union,Measure No. 27 - Voter ID,,,Under Votes,27
+Union,Ingomar Fire Station,Measure No. 27 - Voter ID,,,Under Votes,14
+Union,Courthouse,Measure No. 27 - Voter ID,,,Under Votes,9
+Union,Blue Springs,Measure No. 27 - Voter ID,,,Under Votes,21
+Union,Center,Measure No. 27 - Voter ID,,,Under Votes,7
+Union,Ingomar,Measure No. 27 - Voter ID,,,Under Votes,23
+Union,Sportsplex,Measure No. 27 - Voter ID,,,Under Votes,31
+Union,NE Community College,Measure No. 27 - Voter ID,,,Under Votes,28
+Union,B.F. Ford,Measure No. 27 - Voter ID,,,Under Votes,35
+Union,Central Maintenance,Measure No. 27 - Voter ID,,,Under Votes,25
+Union,Beacon Hill,Measure No. 27 - Voter ID,,,Under Votes,16
+Union,Keownville,Measure No. 27 - Voter ID,,,Under Votes,15
+Union,Pleasant Ridge,Measure No. 27 - Voter ID,,,Under Votes,2
+Union,Jericho,Measure No. 27 - Voter ID,,,Under Votes,14
+Union,East Union,Measure No. 27 - Voter ID,,,Under Votes,3
+Union,Macedonia,Measure No. 31 - Eminent Domain,,,Yes,168
+Union,Blythe,Measure No. 31 - Eminent Domain,,,Yes,140
+Union,Myrtle,Measure No. 31 - Eminent Domain,,,Yes,568
+Union,Glenfield,Measure No. 31 - Eminent Domain,,,Yes,404
+Union,Pinedale,Measure No. 31 - Eminent Domain,,,Yes,223
+Union,West Union,Measure No. 31 - Eminent Domain,,,Yes,359
+Union,Ingomar Fire Station,Measure No. 31 - Eminent Domain,,,Yes,230
+Union,Courthouse,Measure No. 31 - Eminent Domain,,,Yes,405
+Union,Blue Springs,Measure No. 31 - Eminent Domain,,,Yes,273
+Union,Center,Measure No. 31 - Eminent Domain,,,Yes,203
+Union,Ingomar,Measure No. 31 - Eminent Domain,,,Yes,413
+Union,Sportsplex,Measure No. 31 - Eminent Domain,,,Yes,521
+Union,NE Community College,Measure No. 31 - Eminent Domain,,,Yes,620
+Union,B.F. Ford,Measure No. 31 - Eminent Domain,,,Yes,337
+Union,Central Maintenance,Measure No. 31 - Eminent Domain,,,Yes,512
+Union,Beacon Hill,Measure No. 31 - Eminent Domain,,,Yes,397
+Union,Keownville,Measure No. 31 - Eminent Domain,,,Yes,319
+Union,Pleasant Ridge,Measure No. 31 - Eminent Domain,,,Yes,147
+Union,Jericho,Measure No. 31 - Eminent Domain,,,Yes,181
+Union,East Union,Measure No. 31 - Eminent Domain,,,Yes,470
+Union,Macedonia,Measure No. 31 - Eminent Domain,,,No,54
+Union,Blythe,Measure No. 31 - Eminent Domain,,,No,27
+Union,Myrtle,Measure No. 31 - Eminent Domain,,,No,151
+Union,Glenfield,Measure No. 31 - Eminent Domain,,,No,82
+Union,Pinedale,Measure No. 31 - Eminent Domain,,,No,53
+Union,West Union,Measure No. 31 - Eminent Domain,,,No,94
+Union,Ingomar Fire Station,Measure No. 31 - Eminent Domain,,,No,55
+Union,Courthouse,Measure No. 31 - Eminent Domain,,,No,145
+Union,Blue Springs,Measure No. 31 - Eminent Domain,,,No,64
+Union,Center,Measure No. 31 - Eminent Domain,,,No,53
+Union,Ingomar,Measure No. 31 - Eminent Domain,,,No,102
+Union,Sportsplex,Measure No. 31 - Eminent Domain,,,No,131
+Union,NE Community College,Measure No. 31 - Eminent Domain,,,No,225
+Union,B.F. Ford,Measure No. 31 - Eminent Domain,,,No,140
+Union,Central Maintenance,Measure No. 31 - Eminent Domain,,,No,132
+Union,Beacon Hill,Measure No. 31 - Eminent Domain,,,No,89
+Union,Keownville,Measure No. 31 - Eminent Domain,,,No,94
+Union,Pleasant Ridge,Measure No. 31 - Eminent Domain,,,No,30
+Union,Jericho,Measure No. 31 - Eminent Domain,,,No,63
+Union,East Union,Measure No. 31 - Eminent Domain,,,No,84
+Union,Macedonia,Measure No. 31 - Eminent Domain,,,Over Votes,0
+Union,Blythe,Measure No. 31 - Eminent Domain,,,Over Votes,0
+Union,Myrtle,Measure No. 31 - Eminent Domain,,,Over Votes,0
+Union,Glenfield,Measure No. 31 - Eminent Domain,,,Over Votes,0
+Union,Pinedale,Measure No. 31 - Eminent Domain,,,Over Votes,0
+Union,West Union,Measure No. 31 - Eminent Domain,,,Over Votes,0
+Union,Ingomar Fire Station,Measure No. 31 - Eminent Domain,,,Over Votes,0
+Union,Courthouse,Measure No. 31 - Eminent Domain,,,Over Votes,0
+Union,Blue Springs,Measure No. 31 - Eminent Domain,,,Over Votes,0
+Union,Center,Measure No. 31 - Eminent Domain,,,Over Votes,0
+Union,Ingomar,Measure No. 31 - Eminent Domain,,,Over Votes,0
+Union,Sportsplex,Measure No. 31 - Eminent Domain,,,Over Votes,0
+Union,NE Community College,Measure No. 31 - Eminent Domain,,,Over Votes,0
+Union,B.F. Ford,Measure No. 31 - Eminent Domain,,,Over Votes,0
+Union,Central Maintenance,Measure No. 31 - Eminent Domain,,,Over Votes,0
+Union,Beacon Hill,Measure No. 31 - Eminent Domain,,,Over Votes,0
+Union,Keownville,Measure No. 31 - Eminent Domain,,,Over Votes,0
+Union,Pleasant Ridge,Measure No. 31 - Eminent Domain,,,Over Votes,0
+Union,Jericho,Measure No. 31 - Eminent Domain,,,Over Votes,0
+Union,East Union,Measure No. 31 - Eminent Domain,,,Over Votes,0
+Union,Macedonia,Measure No. 31 - Eminent Domain,,,Under Votes,10
+Union,Blythe,Measure No. 31 - Eminent Domain,,,Under Votes,7
+Union,Myrtle,Measure No. 31 - Eminent Domain,,,Under Votes,24
+Union,Glenfield,Measure No. 31 - Eminent Domain,,,Under Votes,19
+Union,Pinedale,Measure No. 31 - Eminent Domain,,,Under Votes,17
+Union,West Union,Measure No. 31 - Eminent Domain,,,Under Votes,20
+Union,Ingomar Fire Station,Measure No. 31 - Eminent Domain,,,Under Votes,12
+Union,Courthouse,Measure No. 31 - Eminent Domain,,,Under Votes,11
+Union,Blue Springs,Measure No. 31 - Eminent Domain,,,Under Votes,14
+Union,Center,Measure No. 31 - Eminent Domain,,,Under Votes,6
+Union,Ingomar,Measure No. 31 - Eminent Domain,,,Under Votes,21
+Union,Sportsplex,Measure No. 31 - Eminent Domain,,,Under Votes,32
+Union,NE Community College,Measure No. 31 - Eminent Domain,,,Under Votes,23
+Union,B.F. Ford,Measure No. 31 - Eminent Domain,,,Under Votes,26
+Union,Central Maintenance,Measure No. 31 - Eminent Domain,,,Under Votes,20
+Union,Beacon Hill,Measure No. 31 - Eminent Domain,,,Under Votes,7
+Union,Keownville,Measure No. 31 - Eminent Domain,,,Under Votes,24
+Union,Pleasant Ridge,Measure No. 31 - Eminent Domain,,,Under Votes,1
+Union,Jericho,Measure No. 31 - Eminent Domain,,,Under Votes,10
+Union,East Union,Measure No. 31 - Eminent Domain,,,Under Votes,7
