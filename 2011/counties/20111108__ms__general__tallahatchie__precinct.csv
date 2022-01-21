@@ -395,14 +395,14 @@ Tallahatchie,Tutwiler,Commissioner of Agriculture & Commerce,,Reform,Cathy L. To
 Tallahatchie,Tutwiler,Commissioner of Insurance,,Republican,Mike Chaney,69
 Tallahatchie,Tutwiler,Commissioner of Insurance,,Democrat,Louis Fondren,290
 Tallahatchie,Tutwiler,Commissioner of Insurance,,Reform,Barbara Dale Washer,12
-Tallahatchie,Teasdale,State Senate,09,Democrat,Gray Tollison,191
-Tallahatchie,Enid,State Senate,09,Democrat,Gray Tollison,150
-Tallahatchie,Charleston Beat #1,State Senate,09,Democrat,Gray Tollison,369
-Tallahatchie,Charleston Beat #2,State Senate,09,Democrat,Gray Tollison,182
-Tallahatchie,Brazil,State Senate,09,Democrat,Gray Tollison,34
-Tallahatchie,Webb Beat #2,State Senate,09,Democrat,Gray Tollison,13
-Tallahatchie,Tippo,State Senate,09,Democrat,Gray Tollison,14
-Tallahatchie,Blue Cane,State Senate,09,Democrat,Gray Tollison,18
+Tallahatchie,Teasdale,State Senate,9,Democrat,Gray Tollison,191
+Tallahatchie,Enid,State Senate,9,Democrat,Gray Tollison,150
+Tallahatchie,Charleston Beat #1,State Senate,9,Democrat,Gray Tollison,369
+Tallahatchie,Charleston Beat #2,State Senate,9,Democrat,Gray Tollison,182
+Tallahatchie,Brazil,State Senate,9,Democrat,Gray Tollison,34
+Tallahatchie,Webb Beat #2,State Senate,9,Democrat,Gray Tollison,13
+Tallahatchie,Tippo,State Senate,9,Democrat,Gray Tollison,14
+Tallahatchie,Blue Cane,State Senate,9,Democrat,Gray Tollison,18
 Tallahatchie,Cascilla,State Senate,14,Republican,Lydia Graves Chassaniol,106
 Tallahatchie,Rosebloom,State Senate,14,Republican,Lydia Graves Chassaniol,76
 Tallahatchie,Cascilla,State Senate,14,Democrat,Carlos E. Moore,75
@@ -480,32 +480,267 @@ Tallahatchie,Leverette,State House,33,Libertarian,Sean T. Holmes,3
 Tallahatchie,Cascilla,State House,33,Libertarian,Sean T. Holmes,4
 Tallahatchie,Murphreesboro,State House,33,Libertarian,Sean T. Holmes,12
 Tallahatchie,Rosebloom,State House,33,Libertarian,Sean T. Holmes,5
-Tallahatchie,,Governor,,Republican,Phil Bryant,2112
-Tallahatchie,,Governor,,Democrat,Johnny L. DuPree,2224
-Tallahatchie,,Lieutenant Governor,,Republican,Tate Reeves,2608
-Tallahatchie,,Lieutenant Governor,,Reform,Tracella Lou O'Hara Hill,1094
-Tallahatchie,,Secretary of State,,Republican,Delbert Hosemann,2982
-Tallahatchie,,Attorney General,,Democrat,Jim Hood,3010
-Tallahatchie,,Attorney General,,Republican,Steve Simpson,1153
-Tallahatchie,,State Auditor,,Republican,Stacey E. Pickering,2309
-Tallahatchie,,State Auditor,,Reform,Ashley Norwood,1334
-Tallahatchie,,Treasurer,,Republican,Lynn Fitch,1936
-Tallahatchie,,Treasurer,,Democrat,Connie Moran,1992
-Tallahatchie,,Treasurer,,Reform,Shawn O'Hara,174
-Tallahatchie,,Commissioner of Agriculture & Commerce,,Democrat,Joel Gill,2259
-Tallahatchie,,Commissioner of Agriculture & Commerce,,Republican,Cindy Hyde-Smith,1640
-Tallahatchie,,Commissioner of Agriculture & Commerce,,Reform,Cathy L. Toole,192
-Tallahatchie,,Commissioner of Insurance,,Republican,Mike Chaney,2136
-Tallahatchie,,Commissioner of Insurance,,Democrat,Louis Fondren,1817
-Tallahatchie,,Commissioner of Insurance,,Reform,Barbara Dale Washer,169
-Tallahatchie,,State Senate,09,Democrat,Gray Tollison,971
-Tallahatchie,,State Senate,14,Republican,Lydia Graves Chassaniol,182
-Tallahatchie,,State Senate,14,Democrat,Carlos E. Moore,89
-Tallahatchie,,State Senate,24,Democrat,David Jordan,2022
-Tallahatchie,,State Senate,24,Independent,Rogrick Wardell,673
-Tallahatchie,,State House,10,Democrat,Greg Hodges,118
-Tallahatchie,,State House,10,Republican,Nolan Mettetal,118
-Tallahatchie,,State House,30,Democrat,Robert E. Huddleston,1254
-Tallahatchie,,State House,33,Republican,Jerrerico Chambers,401
-Tallahatchie,,State House,33,Democrat,Thomas U. 'Tommy' Reynolds,1980
-Tallahatchie,,State House,33,Libertarian,Sean T. Holmes,90
+Tallahatchie,Teasdale,"	Measure No. 26 - Definition of a person",,,Yes,122
+Tallahatchie,Enid,"	Measure No. 26 - Definition of a person",,,Yes,89
+Tallahatchie,Springhill,"	Measure No. 26 - Definition of a person",,,Yes,56
+Tallahatchie,Charleston Beat #1,"	Measure No. 26 - Definition of a person",,,Yes,149
+Tallahatchie,Charleston Beat #2,"	Measure No. 26 - Definition of a person",,,Yes,168
+Tallahatchie,Brazil,"	Measure No. 26 - Definition of a person",,,Yes,10
+Tallahatchie,Webb Beat #2,"	Measure No. 26 - Definition of a person",,,Yes,18
+Tallahatchie,Sumner Beat #2,"	Measure No. 26 - Definition of a person",,,Yes,56
+Tallahatchie,Charleston Beat #3,"	Measure No. 26 - Definition of a person",,,Yes,86
+Tallahatchie,Paynes,"	Measure No. 26 - Definition of a person",,,Yes,131
+Tallahatchie,Leverette,"	Measure No. 26 - Definition of a person",,,Yes,95
+Tallahatchie,Cascilla,"	Measure No. 26 - Definition of a person",,,Yes,90
+Tallahatchie,Murphreesboro,"	Measure No. 26 - Definition of a person",,,Yes,110
+Tallahatchie,Rosebloom,"	Measure No. 26 - Definition of a person",,,Yes,68
+Tallahatchie,Tippo,"	Measure No. 26 - Definition of a person",,,Yes,43
+Tallahatchie,Phillip,"	Measure No. 26 - Definition of a person",,,Yes,40
+Tallahatchie,Glendora,"	Measure No. 26 - Definition of a person",,,Yes,55
+Tallahatchie,Webb Beat #4,"	Measure No. 26 - Definition of a person",,,Yes,17
+Tallahatchie,Blue Cane,"	Measure No. 26 - Definition of a person",,,Yes,13
+Tallahatchie,Webb Beat #5,"	Measure No. 26 - Definition of a person",,,Yes,43
+Tallahatchie,Sumner Beat #5,"	Measure No. 26 - Definition of a person",,,Yes,42
+Tallahatchie,Tutwiler,"	Measure No. 26 - Definition of a person",,,Yes,95
+Tallahatchie,Teasdale,"	Measure No. 26 - Definition of a person",,,No,120
+Tallahatchie,Enid,"	Measure No. 26 - Definition of a person",,,No,91
+Tallahatchie,Springhill,"	Measure No. 26 - Definition of a person",,,No,65
+Tallahatchie,Charleston Beat #1,"	Measure No. 26 - Definition of a person",,,No,242
+Tallahatchie,Charleston Beat #2,"	Measure No. 26 - Definition of a person",,,No,325
+Tallahatchie,Brazil,"	Measure No. 26 - Definition of a person",,,No,24
+Tallahatchie,Webb Beat #2,"	Measure No. 26 - Definition of a person",,,No,39
+Tallahatchie,Sumner Beat #2,"	Measure No. 26 - Definition of a person",,,No,80
+Tallahatchie,Charleston Beat #3,"	Measure No. 26 - Definition of a person",,,No,164
+Tallahatchie,Paynes,"	Measure No. 26 - Definition of a person",,,No,206
+Tallahatchie,Leverette,"	Measure No. 26 - Definition of a person",,,No,67
+Tallahatchie,Cascilla,"	Measure No. 26 - Definition of a person",,,No,89
+Tallahatchie,Murphreesboro,"	Measure No. 26 - Definition of a person",,,No,54
+Tallahatchie,Rosebloom,"	Measure No. 26 - Definition of a person",,,No,24
+Tallahatchie,Tippo,"	Measure No. 26 - Definition of a person",,,No,117
+Tallahatchie,Phillip,"	Measure No. 26 - Definition of a person",,,No,54
+Tallahatchie,Glendora,"	Measure No. 26 - Definition of a person",,,No,188
+Tallahatchie,Webb Beat #4,"	Measure No. 26 - Definition of a person",,,No,54
+Tallahatchie,Blue Cane,"	Measure No. 26 - Definition of a person",,,No,8
+Tallahatchie,Webb Beat #5,"	Measure No. 26 - Definition of a person",,,No,145
+Tallahatchie,Sumner Beat #5,"	Measure No. 26 - Definition of a person",,,No,68
+Tallahatchie,Tutwiler,"	Measure No. 26 - Definition of a person",,,No,279
+Tallahatchie,Teasdale,"	Measure No. 26 - Definition of a person",,,Over votes,0
+Tallahatchie,Enid,"	Measure No. 26 - Definition of a person",,,Over votes,0
+Tallahatchie,Springhill,"	Measure No. 26 - Definition of a person",,,Over votes,0
+Tallahatchie,Charleston Beat #1,"	Measure No. 26 - Definition of a person",,,Over votes,0
+Tallahatchie,Charleston Beat #2,"	Measure No. 26 - Definition of a person",,,Over votes,0
+Tallahatchie,Brazil,"	Measure No. 26 - Definition of a person",,,Over votes,0
+Tallahatchie,Webb Beat #2,"	Measure No. 26 - Definition of a person",,,Over votes,0
+Tallahatchie,Sumner Beat #2,"	Measure No. 26 - Definition of a person",,,Over votes,0
+Tallahatchie,Charleston Beat #3,"	Measure No. 26 - Definition of a person",,,Over votes,0
+Tallahatchie,Paynes,"	Measure No. 26 - Definition of a person",,,Over votes,0
+Tallahatchie,Leverette,"	Measure No. 26 - Definition of a person",,,Over votes,0
+Tallahatchie,Cascilla,"	Measure No. 26 - Definition of a person",,,Over votes,0
+Tallahatchie,Murphreesboro,"	Measure No. 26 - Definition of a person",,,Over votes,0
+Tallahatchie,Rosebloom,"	Measure No. 26 - Definition of a person",,,Over votes,0
+Tallahatchie,Tippo,"	Measure No. 26 - Definition of a person",,,Over votes,0
+Tallahatchie,Phillip,"	Measure No. 26 - Definition of a person",,,Over votes,0
+Tallahatchie,Glendora,"	Measure No. 26 - Definition of a person",,,Over votes,0
+Tallahatchie,Webb Beat #4,"	Measure No. 26 - Definition of a person",,,Over votes,0
+Tallahatchie,Blue Cane,"	Measure No. 26 - Definition of a person",,,Over votes,0
+Tallahatchie,Webb Beat #5,"	Measure No. 26 - Definition of a person",,,Over votes,0
+Tallahatchie,Sumner Beat #5,"	Measure No. 26 - Definition of a person",,,Over votes,0
+Tallahatchie,Tutwiler,"	Measure No. 26 - Definition of a person",,,Over votes,0
+Tallahatchie,Teasdale,"	Measure No. 26 - Definition of a person",,,Under votes,7
+Tallahatchie,Enid,"	Measure No. 26 - Definition of a person",,,Under votes,18
+Tallahatchie,Springhill,"	Measure No. 26 - Definition of a person",,,Under votes,9
+Tallahatchie,Charleston Beat #1,"	Measure No. 26 - Definition of a person",,,Under votes,37
+Tallahatchie,Charleston Beat #2,"	Measure No. 26 - Definition of a person",,,Under votes,41
+Tallahatchie,Brazil,"	Measure No. 26 - Definition of a person",,,Under votes,6
+Tallahatchie,Webb Beat #2,"	Measure No. 26 - Definition of a person",,,Under votes,8
+Tallahatchie,Sumner Beat #2,"	Measure No. 26 - Definition of a person",,,Under votes,5
+Tallahatchie,Charleston Beat #3,"	Measure No. 26 - Definition of a person",,,Under votes,18
+Tallahatchie,Paynes,"	Measure No. 26 - Definition of a person",,,Under votes,9
+Tallahatchie,Leverette,"	Measure No. 26 - Definition of a person",,,Under votes,3
+Tallahatchie,Cascilla,"	Measure No. 26 - Definition of a person",,,Under votes,9
+Tallahatchie,Murphreesboro,"	Measure No. 26 - Definition of a person",,,Under votes,6
+Tallahatchie,Rosebloom,"	Measure No. 26 - Definition of a person",,,Under votes,2
+Tallahatchie,Tippo,"	Measure No. 26 - Definition of a person",,,Under votes,13
+Tallahatchie,Phillip,"	Measure No. 26 - Definition of a person",,,Under votes,10
+Tallahatchie,Glendora,"	Measure No. 26 - Definition of a person",,,Under votes,22
+Tallahatchie,Webb Beat #4,"	Measure No. 26 - Definition of a person",,,Under votes,9
+Tallahatchie,Blue Cane,"	Measure No. 26 - Definition of a person",,,Under votes,2
+Tallahatchie,Webb Beat #5,"	Measure No. 26 - Definition of a person",,,Under votes,19
+Tallahatchie,Sumner Beat #5,"	Measure No. 26 - Definition of a person",,,Under votes,14
+Tallahatchie,Tutwiler,"	Measure No. 26 - Definition of a person",,,Under votes,21
+Tallahatchie,Teasdale,Measure No. 27 - Voter ID,,,Yes,177
+Tallahatchie,Enid,Measure No. 27 - Voter ID,,,Yes,122
+Tallahatchie,Springhill,Measure No. 27 - Voter ID,,,Yes,94
+Tallahatchie,Charleston Beat #1,Measure No. 27 - Voter ID,,,Yes,241
+Tallahatchie,Charleston Beat #2,Measure No. 27 - Voter ID,,,Yes,247
+Tallahatchie,Brazil,Measure No. 27 - Voter ID,,,Yes,10
+Tallahatchie,Webb Beat #2,Measure No. 27 - Voter ID,,,Yes,25
+Tallahatchie,Sumner Beat #2,Measure No. 27 - Voter ID,,,Yes,108
+Tallahatchie,Charleston Beat #3,Measure No. 27 - Voter ID,,,Yes,138
+Tallahatchie,Paynes,Measure No. 27 - Voter ID,,,Yes,193
+Tallahatchie,Leverette,Measure No. 27 - Voter ID,,,Yes,104
+Tallahatchie,Cascilla,Measure No. 27 - Voter ID,,,Yes,105
+Tallahatchie,Murphreesboro,Measure No. 27 - Voter ID,,,Yes,130
+Tallahatchie,Rosebloom,Measure No. 27 - Voter ID,,,Yes,71
+Tallahatchie,Tippo,Measure No. 27 - Voter ID,,,Yes,88
+Tallahatchie,Phillip,Measure No. 27 - Voter ID,,,Yes,45
+Tallahatchie,Glendora,Measure No. 27 - Voter ID,,,Yes,71
+Tallahatchie,Webb Beat #4,Measure No. 27 - Voter ID,,,Yes,36
+Tallahatchie,Blue Cane,Measure No. 27 - Voter ID,,,Yes,11
+Tallahatchie,Webb Beat #5,Measure No. 27 - Voter ID,,,Yes,61
+Tallahatchie,Sumner Beat #5,Measure No. 27 - Voter ID,,,Yes,53
+Tallahatchie,Tutwiler,Measure No. 27 - Voter ID,,,Yes,157
+Tallahatchie,Teasdale,Measure No. 27 - Voter ID,,,No,72
+Tallahatchie,Enid,Measure No. 27 - Voter ID,,,No,65
+Tallahatchie,Springhill,Measure No. 27 - Voter ID,,,No,33
+Tallahatchie,Charleston Beat #1,Measure No. 27 - Voter ID,,,No,171
+Tallahatchie,Charleston Beat #2,Measure No. 27 - Voter ID,,,No,250
+Tallahatchie,Brazil,Measure No. 27 - Voter ID,,,No,25
+Tallahatchie,Webb Beat #2,Measure No. 27 - Voter ID,,,No,33
+Tallahatchie,Sumner Beat #2,Measure No. 27 - Voter ID,,,No,22
+Tallahatchie,Charleston Beat #3,Measure No. 27 - Voter ID,,,No,112
+Tallahatchie,Paynes,Measure No. 27 - Voter ID,,,No,143
+Tallahatchie,Leverette,Measure No. 27 - Voter ID,,,No,55
+Tallahatchie,Cascilla,Measure No. 27 - Voter ID,,,No,73
+Tallahatchie,Murphreesboro,Measure No. 27 - Voter ID,,,No,32
+Tallahatchie,Rosebloom,Measure No. 27 - Voter ID,,,No,18
+Tallahatchie,Tippo,Measure No. 27 - Voter ID,,,No,78
+Tallahatchie,Phillip,Measure No. 27 - Voter ID,,,No,46
+Tallahatchie,Glendora,Measure No. 27 - Voter ID,,,No,176
+Tallahatchie,Webb Beat #4,Measure No. 27 - Voter ID,,,No,38
+Tallahatchie,Blue Cane,Measure No. 27 - Voter ID,,,No,8
+Tallahatchie,Webb Beat #5,Measure No. 27 - Voter ID,,,No,130
+Tallahatchie,Sumner Beat #5,Measure No. 27 - Voter ID,,,No,56
+Tallahatchie,Tutwiler,Measure No. 27 - Voter ID,,,No,224
+Tallahatchie,Teasdale,Measure No. 27 - Voter ID,,,Over votes,0
+Tallahatchie,Enid,Measure No. 27 - Voter ID,,,Over votes,0
+Tallahatchie,Springhill,Measure No. 27 - Voter ID,,,Over votes,0
+Tallahatchie,Charleston Beat #1,Measure No. 27 - Voter ID,,,Over votes,0
+Tallahatchie,Charleston Beat #2,Measure No. 27 - Voter ID,,,Over votes,0
+Tallahatchie,Brazil,Measure No. 27 - Voter ID,,,Over votes,0
+Tallahatchie,Webb Beat #2,Measure No. 27 - Voter ID,,,Over votes,0
+Tallahatchie,Sumner Beat #2,Measure No. 27 - Voter ID,,,Over votes,0
+Tallahatchie,Charleston Beat #3,Measure No. 27 - Voter ID,,,Over votes,0
+Tallahatchie,Paynes,Measure No. 27 - Voter ID,,,Over votes,0
+Tallahatchie,Leverette,Measure No. 27 - Voter ID,,,Over votes,0
+Tallahatchie,Cascilla,Measure No. 27 - Voter ID,,,Over votes,0
+Tallahatchie,Murphreesboro,Measure No. 27 - Voter ID,,,Over votes,0
+Tallahatchie,Rosebloom,Measure No. 27 - Voter ID,,,Over votes,0
+Tallahatchie,Tippo,Measure No. 27 - Voter ID,,,Over votes,0
+Tallahatchie,Phillip,Measure No. 27 - Voter ID,,,Over votes,0
+Tallahatchie,Glendora,Measure No. 27 - Voter ID,,,Over votes,0
+Tallahatchie,Webb Beat #4,Measure No. 27 - Voter ID,,,Over votes,0
+Tallahatchie,Blue Cane,Measure No. 27 - Voter ID,,,Over votes,0
+Tallahatchie,Webb Beat #5,Measure No. 27 - Voter ID,,,Over votes,0
+Tallahatchie,Sumner Beat #5,Measure No. 27 - Voter ID,,,Over votes,0
+Tallahatchie,Tutwiler,Measure No. 27 - Voter ID,,,Over votes,0
+Tallahatchie,Teasdale,Measure No. 27 - Voter ID,,,Under votes,10
+Tallahatchie,Enid,Measure No. 27 - Voter ID,,,Under votes,11
+Tallahatchie,Springhill,Measure No. 27 - Voter ID,,,Under votes,3
+Tallahatchie,Charleston Beat #1,Measure No. 27 - Voter ID,,,Under votes,18
+Tallahatchie,Charleston Beat #2,Measure No. 27 - Voter ID,,,Under votes,37
+Tallahatchie,Brazil,Measure No. 27 - Voter ID,,,Under votes,5
+Tallahatchie,Webb Beat #2,Measure No. 27 - Voter ID,,,Under votes,7
+Tallahatchie,Sumner Beat #2,Measure No. 27 - Voter ID,,,Under votes,2
+Tallahatchie,Charleston Beat #3,Measure No. 27 - Voter ID,,,Under votes,18
+Tallahatchie,Paynes,Measure No. 27 - Voter ID,,,Under votes,11
+Tallahatchie,Leverette,Measure No. 27 - Voter ID,,,Under votes,6
+Tallahatchie,Cascilla,Measure No. 27 - Voter ID,,,Under votes,10
+Tallahatchie,Murphreesboro,Measure No. 27 - Voter ID,,,Under votes,8
+Tallahatchie,Rosebloom,Measure No. 27 - Voter ID,,,Under votes,5
+Tallahatchie,Tippo,Measure No. 27 - Voter ID,,,Under votes,7
+Tallahatchie,Phillip,Measure No. 27 - Voter ID,,,Under votes,13
+Tallahatchie,Glendora,Measure No. 27 - Voter ID,,,Under votes,18
+Tallahatchie,Webb Beat #4,Measure No. 27 - Voter ID,,,Under votes,6
+Tallahatchie,Blue Cane,Measure No. 27 - Voter ID,,,Under votes,4
+Tallahatchie,Webb Beat #5,Measure No. 27 - Voter ID,,,Under votes,18
+Tallahatchie,Sumner Beat #5,Measure No. 27 - Voter ID,,,Under votes,15
+Tallahatchie,Tutwiler,Measure No. 27 - Voter ID,,,Under votes,14
+Tallahatchie,Teasdale,"Measure No. 31 - Eminent Domain	",,,Yes,201
+Tallahatchie,Enid,"Measure No. 31 - Eminent Domain	",,,Yes,142
+Tallahatchie,Springhill,"Measure No. 31 - Eminent Domain	",,,Yes,106
+Tallahatchie,Charleston Beat #1,"Measure No. 31 - Eminent Domain	",,,Yes,285
+Tallahatchie,Charleston Beat #2,"Measure No. 31 - Eminent Domain	",,,Yes,302
+Tallahatchie,Brazil,"Measure No. 31 - Eminent Domain	",,,Yes,15
+Tallahatchie,Webb Beat #2,"Measure No. 31 - Eminent Domain	",,,Yes,28
+Tallahatchie,Sumner Beat #2,"Measure No. 31 - Eminent Domain	",,,Yes,108
+Tallahatchie,Charleston Beat #3,"Measure No. 31 - Eminent Domain	",,,Yes,165
+Tallahatchie,Paynes,"Measure No. 31 - Eminent Domain	",,,Yes,232
+Tallahatchie,Leverette,"Measure No. 31 - Eminent Domain	",,,Yes,131
+Tallahatchie,Cascilla,"Measure No. 31 - Eminent Domain	",,,Yes,142
+Tallahatchie,Murphreesboro,"Measure No. 31 - Eminent Domain	",,,Yes,142
+Tallahatchie,Rosebloom,"Measure No. 31 - Eminent Domain	",,,Yes,80
+Tallahatchie,Tippo,"Measure No. 31 - Eminent Domain	",,,Yes,91
+Tallahatchie,Phillip,"Measure No. 31 - Eminent Domain	",,,Yes,62
+Tallahatchie,Glendora,"Measure No. 31 - Eminent Domain	",,,Yes,117
+Tallahatchie,Webb Beat #4,"Measure No. 31 - Eminent Domain	",,,Yes,49
+Tallahatchie,Blue Cane,"Measure No. 31 - Eminent Domain	",,,Yes,17
+Tallahatchie,Webb Beat #5,"Measure No. 31 - Eminent Domain	",,,Yes,85
+Tallahatchie,Sumner Beat #5,"Measure No. 31 - Eminent Domain	",,,Yes,66
+Tallahatchie,Tutwiler,"Measure No. 31 - Eminent Domain	",,,Yes,194
+Tallahatchie,Teasdale,"Measure No. 31 - Eminent Domain	",,,No,48
+Tallahatchie,Enid,"Measure No. 31 - Eminent Domain	",,,No,47
+Tallahatchie,Springhill,"Measure No. 31 - Eminent Domain	",,,No,20
+Tallahatchie,Charleston Beat #1,"Measure No. 31 - Eminent Domain	",,,No,132
+Tallahatchie,Charleston Beat #2,"Measure No. 31 - Eminent Domain	",,,No,200
+Tallahatchie,Brazil,"Measure No. 31 - Eminent Domain	",,,No,22
+Tallahatchie,Webb Beat #2,"Measure No. 31 - Eminent Domain	",,,No,29
+Tallahatchie,Sumner Beat #2,"Measure No. 31 - Eminent Domain	",,,No,27
+Tallahatchie,Charleston Beat #3,"Measure No. 31 - Eminent Domain	",,,No,87
+Tallahatchie,Paynes,"Measure No. 31 - Eminent Domain	",,,No,104
+Tallahatchie,Leverette,"Measure No. 31 - Eminent Domain	",,,No,26
+Tallahatchie,Cascilla,"Measure No. 31 - Eminent Domain	",,,No,38
+Tallahatchie,Murphreesboro,"Measure No. 31 - Eminent Domain	",,,No,23
+Tallahatchie,Rosebloom,"Measure No. 31 - Eminent Domain	",,,No,11
+Tallahatchie,Tippo,"Measure No. 31 - Eminent Domain	",,,No,79
+Tallahatchie,Phillip,"Measure No. 31 - Eminent Domain	",,,No,38
+Tallahatchie,Glendora,"Measure No. 31 - Eminent Domain	",,,No,135
+Tallahatchie,Webb Beat #4,"Measure No. 31 - Eminent Domain	",,,No,28
+Tallahatchie,Blue Cane,"Measure No. 31 - Eminent Domain	",,,No,6
+Tallahatchie,Webb Beat #5,"Measure No. 31 - Eminent Domain	",,,No,110
+Tallahatchie,Sumner Beat #5,"Measure No. 31 - Eminent Domain	",,,No,48
+Tallahatchie,Tutwiler,"Measure No. 31 - Eminent Domain	",,,No,186
+Tallahatchie,Teasdale,"Measure No. 31 - Eminent Domain	",,,Over votes,0
+Tallahatchie,Enid,"Measure No. 31 - Eminent Domain	",,,Over votes,0
+Tallahatchie,Springhill,"Measure No. 31 - Eminent Domain	",,,Over votes,0
+Tallahatchie,Charleston Beat #1,"Measure No. 31 - Eminent Domain	",,,Over votes,0
+Tallahatchie,Charleston Beat #2,"Measure No. 31 - Eminent Domain	",,,Over votes,0
+Tallahatchie,Brazil,"Measure No. 31 - Eminent Domain	",,,Over votes,0
+Tallahatchie,Webb Beat #2,"Measure No. 31 - Eminent Domain	",,,Over votes,0
+Tallahatchie,Sumner Beat #2,"Measure No. 31 - Eminent Domain	",,,Over votes,0
+Tallahatchie,Charleston Beat #3,"Measure No. 31 - Eminent Domain	",,,Over votes,0
+Tallahatchie,Paynes,"Measure No. 31 - Eminent Domain	",,,Over votes,0
+Tallahatchie,Leverette,"Measure No. 31 - Eminent Domain	",,,Over votes,0
+Tallahatchie,Cascilla,"Measure No. 31 - Eminent Domain	",,,Over votes,0
+Tallahatchie,Murphreesboro,"Measure No. 31 - Eminent Domain	",,,Over votes,0
+Tallahatchie,Rosebloom,"Measure No. 31 - Eminent Domain	",,,Over votes,0
+Tallahatchie,Tippo,"Measure No. 31 - Eminent Domain	",,,Over votes,0
+Tallahatchie,Phillip,"Measure No. 31 - Eminent Domain	",,,Over votes,0
+Tallahatchie,Glendora,"Measure No. 31 - Eminent Domain	",,,Over votes,0
+Tallahatchie,Webb Beat #4,"Measure No. 31 - Eminent Domain	",,,Over votes,0
+Tallahatchie,Blue Cane,"Measure No. 31 - Eminent Domain	",,,Over votes,0
+Tallahatchie,Webb Beat #5,"Measure No. 31 - Eminent Domain	",,,Over votes,0
+Tallahatchie,Sumner Beat #5,"Measure No. 31 - Eminent Domain	",,,Over votes,0
+Tallahatchie,Tutwiler,"Measure No. 31 - Eminent Domain	",,,Over votes,0
+Tallahatchie,Teasdale,"Measure No. 31 - Eminent Domain	",,,Under votes,3
+Tallahatchie,Enid,"Measure No. 31 - Eminent Domain	",,,Under votes,9
+Tallahatchie,Springhill,"Measure No. 31 - Eminent Domain	",,,Under votes,4
+Tallahatchie,Charleston Beat #1,"Measure No. 31 - Eminent Domain	",,,Under votes,14
+Tallahatchie,Charleston Beat #2,"Measure No. 31 - Eminent Domain	",,,Under votes,32
+Tallahatchie,Brazil,"Measure No. 31 - Eminent Domain	",,,Under votes,3
+Tallahatchie,Webb Beat #2,"Measure No. 31 - Eminent Domain	",,,Under votes,8
+Tallahatchie,Sumner Beat #2,"Measure No. 31 - Eminent Domain	",,,Under votes,0
+Tallahatchie,Charleston Beat #3,"Measure No. 31 - Eminent Domain	",,,Under votes,16
+Tallahatchie,Paynes,"Measure No. 31 - Eminent Domain	",,,Under votes,11
+Tallahatchie,Leverette,"Measure No. 31 - Eminent Domain	",,,Under votes,8
+Tallahatchie,Cascilla,"Measure No. 31 - Eminent Domain	",,,Under votes,8
+Tallahatchie,Murphreesboro,"Measure No. 31 - Eminent Domain	",,,Under votes,5
+Tallahatchie,Rosebloom,"Measure No. 31 - Eminent Domain	",,,Under votes,3
+Tallahatchie,Tippo,"Measure No. 31 - Eminent Domain	",,,Under votes,3
+Tallahatchie,Phillip,"Measure No. 31 - Eminent Domain	",,,Under votes,4
+Tallahatchie,Glendora,"Measure No. 31 - Eminent Domain	",,,Under votes,12
+Tallahatchie,Webb Beat #4,"Measure No. 31 - Eminent Domain	",,,Under votes,3
+Tallahatchie,Blue Cane,"Measure No. 31 - Eminent Domain	",,,Under votes,0
+Tallahatchie,Webb Beat #5,"Measure No. 31 - Eminent Domain	",,,Under votes,14
+Tallahatchie,Sumner Beat #5,"Measure No. 31 - Eminent Domain	",,,Under votes,10
+Tallahatchie,Tutwiler,"Measure No. 31 - Eminent Domain	",,,Under votes,15
