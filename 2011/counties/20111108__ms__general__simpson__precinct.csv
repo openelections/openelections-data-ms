@@ -478,30 +478,279 @@ Simpson,Oak Grove,State House,91,Democrat,Bob Evans,116
 Simpson,Shivers,State House,91,Democrat,Bob Evans,101
 Simpson,Bridgeport,State House,91,Democrat,Bob Evans,156
 Simpson,Fork Church,State House,91,Democrat,Bob Evans,208
-Simpson,,Governor,,Republican,Phil Bryant,6208
-Simpson,,Governor,,Democrat,Johnny L. DuPree,3259
-Simpson,,Lieutenant Governor,,Republican,Tate Reeves,7263
-Simpson,,Lieutenant Governor,,Reform,Tracella Lou O'Hara Hill,1403
-Simpson,,Secretary of State,,Republican,Delbert Hosemann,7969
-Simpson,,Attorney General,,Democrat,Jim Hood,5818
-Simpson,,Attorney General,,Republican,Steve Simpson,3577
-Simpson,,State Auditor,,Republican,Stacey E. Pickering,6902
-Simpson,,State Auditor,,Reform,Ashley Norwood,1662
-Simpson,,Treasurer,,Republican,Lynn Fitch,6198
-Simpson,,Treasurer,,Democrat,Connie Moran,2969
-Simpson,,Treasurer,,Reform,Shawn O'Hara,185
-Simpson,,Commissioner of Agriculture & Commerce,,Democrat,Joel Gill,3398
-Simpson,,Commissioner of Agriculture & Commerce,,Republican,Cindy Hyde-Smith,5827
-Simpson,,Commissioner of Agriculture & Commerce,,Reform,Cathy L. Toole,132
-Simpson,,Commissioner of Insurance,,Republican,Mike Chaney,6283
-Simpson,,Commissioner of Insurance,,Democrat,Louis Fondren,2815
-Simpson,,Commissioner of Insurance,,Reform,Barbara Dale Washer,216
-Simpson,,State Senate,35,Republican,Perry E. Lee,5375
-Simpson,,State Senate,39,Republican,Sally Doty,1886
-Simpson,,State Senate,39,Democrat,W.L. Rayborn,1020
-Simpson,,State House,60,Republican,John L. Moore,203
-Simpson,,State House,62,Republican,Tom Weathersby,22
-Simpson,,State House,77,Republican,Andy Gipson,6453
-Simpson,,State House,90,Democrat,Joe 'J.L.' Warren,751
-Simpson,,State House,91,Republican,Cindy Shivers Bryan,232
-Simpson,,State House,91,Democrat,Bob Evans,581
+Simpson,Mendenhall 1,"Measure No. 26 - Definition of a person	",,,Yes,68
+Simpson,Magee 1,"Measure No. 26 - Definition of a person	",,,Yes,84
+Simpson,Weathersby,"Measure No. 26 - Definition of a person	",,,Yes,120
+Simpson,Jupiter,"Measure No. 26 - Definition of a person	",,,Yes,127
+Simpson,Magee 2,"Measure No. 26 - Definition of a person	",,,Yes,395
+Simpson,Oak Grove,"Measure No. 26 - Definition of a person	",,,Yes,211
+Simpson,Bowie,"Measure No. 26 - Definition of a person	",,,Yes,146
+Simpson,New Hope,"Measure No. 26 - Definition of a person	",,,Yes,69
+Simpson,Saratoga,"Measure No. 26 - Definition of a person	",,,Yes,106
+Simpson,Mendenhall 3,"Measure No. 26 - Definition of a person	",,,Yes,413
+Simpson,Sumrall,"Measure No. 26 - Definition of a person	",,,Yes,159
+Simpson,D'Lo,"Measure No. 26 - Definition of a person	",,,Yes,115
+Simpson,Dry Creek,"Measure No. 26 - Definition of a person	",,,Yes,270
+Simpson,Magee 4 North,"Measure No. 26 - Definition of a person	",,,Yes,195
+Simpson,Magee 4 South,"Measure No. 26 - Definition of a person	",,,Yes,338
+Simpson,Shivers,"Measure No. 26 - Definition of a person	",,,Yes,116
+Simpson,Bridgeport,"Measure No. 26 - Definition of a person	",,,Yes,60
+Simpson,Pinola,"Measure No. 26 - Definition of a person	",,,Yes,128
+Simpson,Braxton,"Measure No. 26 - Definition of a person	",,,Yes,306
+Simpson,Harrisville,"Measure No. 26 - Definition of a person	",,,Yes,275
+Simpson,Merit,"Measure No. 26 - Definition of a person	",,,Yes,271
+Simpson,Fork Church,"Measure No. 26 - Definition of a person	",,,Yes,66
+Simpson,Pearl,"Measure No. 26 - Definition of a person	",,,Yes,124
+Simpson,Mendenhall 1,"Measure No. 26 - Definition of a person	",,,No,146
+Simpson,Magee 1,"Measure No. 26 - Definition of a person	",,,No,312
+Simpson,Weathersby,"Measure No. 26 - Definition of a person	",,,No,401
+Simpson,Jupiter,"Measure No. 26 - Definition of a person	",,,No,276
+Simpson,Magee 2,"Measure No. 26 - Definition of a person	",,,No,397
+Simpson,Oak Grove,"Measure No. 26 - Definition of a person	",,,No,210
+Simpson,Bowie,"Measure No. 26 - Definition of a person	",,,No,96
+Simpson,New Hope,"Measure No. 26 - Definition of a person	",,,No,113
+Simpson,Saratoga,"Measure No. 26 - Definition of a person	",,,No,133
+Simpson,Mendenhall 3,"Measure No. 26 - Definition of a person	",,,No,334
+Simpson,Sumrall,"Measure No. 26 - Definition of a person	",,,No,163
+Simpson,D'Lo,"Measure No. 26 - Definition of a person	",,,No,123
+Simpson,Dry Creek,"Measure No. 26 - Definition of a person	",,,No,197
+Simpson,Magee 4 North,"Measure No. 26 - Definition of a person	",,,No,199
+Simpson,Magee 4 South,"Measure No. 26 - Definition of a person	",,,No,258
+Simpson,Shivers,"Measure No. 26 - Definition of a person	",,,No,154
+Simpson,Bridgeport,"Measure No. 26 - Definition of a person	",,,No,150
+Simpson,Pinola,"Measure No. 26 - Definition of a person	",,,No,135
+Simpson,Braxton,"Measure No. 26 - Definition of a person	",,,No,257
+Simpson,Harrisville,"Measure No. 26 - Definition of a person	",,,No,294
+Simpson,Merit,"Measure No. 26 - Definition of a person	",,,No,258
+Simpson,Fork Church,"Measure No. 26 - Definition of a person	",,,No,226
+Simpson,Pearl,"Measure No. 26 - Definition of a person	",,,No,221
+Simpson,Mendenhall 1,"Measure No. 26 - Definition of a person	",,,Over votes,0
+Simpson,Magee 1,"Measure No. 26 - Definition of a person	",,,Over votes,0
+Simpson,Weathersby,"Measure No. 26 - Definition of a person	",,,Over votes,0
+Simpson,Jupiter,"Measure No. 26 - Definition of a person	",,,Over votes,0
+Simpson,Magee 2,"Measure No. 26 - Definition of a person	",,,Over votes,0
+Simpson,Oak Grove,"Measure No. 26 - Definition of a person	",,,Over votes,0
+Simpson,Bowie,"Measure No. 26 - Definition of a person	",,,Over votes,0
+Simpson,New Hope,"Measure No. 26 - Definition of a person	",,,Over votes,0
+Simpson,Saratoga,"Measure No. 26 - Definition of a person	",,,Over votes,0
+Simpson,Mendenhall 3,"Measure No. 26 - Definition of a person	",,,Over votes,0
+Simpson,Sumrall,"Measure No. 26 - Definition of a person	",,,Over votes,0
+Simpson,D'Lo,"Measure No. 26 - Definition of a person	",,,Over votes,0
+Simpson,Dry Creek,"Measure No. 26 - Definition of a person	",,,Over votes,0
+Simpson,Magee 4 North,"Measure No. 26 - Definition of a person	",,,Over votes,0
+Simpson,Magee 4 South,"Measure No. 26 - Definition of a person	",,,Over votes,0
+Simpson,Shivers,"Measure No. 26 - Definition of a person	",,,Over votes,0
+Simpson,Bridgeport,"Measure No. 26 - Definition of a person	",,,Over votes,0
+Simpson,Pinola,"Measure No. 26 - Definition of a person	",,,Over votes,0
+Simpson,Braxton,"Measure No. 26 - Definition of a person	",,,Over votes,0
+Simpson,Harrisville,"Measure No. 26 - Definition of a person	",,,Over votes,0
+Simpson,Merit,"Measure No. 26 - Definition of a person	",,,Over votes,0
+Simpson,Fork Church,"Measure No. 26 - Definition of a person	",,,Over votes,0
+Simpson,Pearl,"Measure No. 26 - Definition of a person	",,,Over votes,0
+Simpson,Mendenhall 1,"Measure No. 26 - Definition of a person	",,,"Under votes	",17
+Simpson,Magee 1,"Measure No. 26 - Definition of a person	",,,"Under votes	",20
+Simpson,Weathersby,"Measure No. 26 - Definition of a person	",,,"Under votes	",31
+Simpson,Jupiter,"Measure No. 26 - Definition of a person	",,,"Under votes	",3
+Simpson,Magee 2,"Measure No. 26 - Definition of a person	",,,"Under votes	",18
+Simpson,Oak Grove,"Measure No. 26 - Definition of a person	",,,"Under votes	",3
+Simpson,Bowie,"Measure No. 26 - Definition of a person	",,,"Under votes	",3
+Simpson,New Hope,"Measure No. 26 - Definition of a person	",,,"Under votes	",1
+Simpson,Saratoga,"Measure No. 26 - Definition of a person	",,,"Under votes	",5
+Simpson,Mendenhall 3,"Measure No. 26 - Definition of a person	",,,"Under votes	",19
+Simpson,Sumrall,"Measure No. 26 - Definition of a person	",,,"Under votes	",9
+Simpson,D'Lo,"Measure No. 26 - Definition of a person	",,,"Under votes	",11
+Simpson,Dry Creek,"Measure No. 26 - Definition of a person	",,,"Under votes	",17
+Simpson,Magee 4 North,"Measure No. 26 - Definition of a person	",,,"Under votes	",7
+Simpson,Magee 4 South,"Measure No. 26 - Definition of a person	",,,"Under votes	",18
+Simpson,Shivers,"Measure No. 26 - Definition of a person	",,,"Under votes	",7
+Simpson,Bridgeport,"Measure No. 26 - Definition of a person	",,,"Under votes	",17
+Simpson,Pinola,"Measure No. 26 - Definition of a person	",,,"Under votes	",11
+Simpson,Braxton,"Measure No. 26 - Definition of a person	",,,"Under votes	",11
+Simpson,Harrisville,"Measure No. 26 - Definition of a person	",,,"Under votes	",14
+Simpson,Merit,"Measure No. 26 - Definition of a person	",,,"Under votes	",11
+Simpson,Fork Church,"Measure No. 26 - Definition of a person	",,,"Under votes	",9
+Simpson,Pearl,"Measure No. 26 - Definition of a person	",,,"Under votes	",0
+Simpson,Mendenhall 1,"Measure No. 27 - Voter ID	",,,Yes,89
+Simpson,Magee 1,"Measure No. 27 - Voter ID	",,,Yes,103
+Simpson,Weathersby,"Measure No. 27 - Voter ID	",,,Yes,175
+Simpson,Jupiter,"Measure No. 27 - Voter ID	",,,Yes,157
+Simpson,Magee 2,"Measure No. 27 - Voter ID	",,,Yes,585
+Simpson,Oak Grove,"Measure No. 27 - Voter ID	",,,Yes,238
+Simpson,Bowie,"Measure No. 27 - Voter ID	",,,Yes,158
+Simpson,New Hope,"Measure No. 27 - Voter ID	",,,Yes,85
+Simpson,Saratoga,"Measure No. 27 - Voter ID	",,,Yes,113
+Simpson,Mendenhall 3,"Measure No. 27 - Voter ID	",,,Yes,597
+Simpson,Sumrall,"Measure No. 27 - Voter ID	",,,Yes,236
+Simpson,D'Lo,"Measure No. 27 - Voter ID	",,,Yes,171
+Simpson,Dry Creek,"Measure No. 27 - Voter ID	",,,Yes,359
+Simpson,Magee 4 North,"Measure No. 27 - Voter ID	",,,Yes,309
+Simpson,Magee 4 South,"Measure No. 27 - Voter ID	",,,Yes,462
+Simpson,Shivers,"Measure No. 27 - Voter ID	",,,Yes,148
+Simpson,Bridgeport,"Measure No. 27 - Voter ID	",,,Yes,78
+Simpson,Pinola,"Measure No. 27 - Voter ID	",,,Yes,164
+Simpson,Braxton,"Measure No. 27 - Voter ID	",,,Yes,454
+Simpson,Harrisville,"Measure No. 27 - Voter ID	",,,Yes,417
+Simpson,Merit,"Measure No. 27 - Voter ID	",,,Yes,419
+Simpson,Fork Church,"Measure No. 27 - Voter ID	",,,Yes,100
+Simpson,Pearl,"Measure No. 27 - Voter ID	",,,Yes,249
+Simpson,Mendenhall 1,"Measure No. 27 - Voter ID	",,,No,138
+Simpson,Magee 1,"Measure No. 27 - Voter ID	",,,No,306
+Simpson,Weathersby,"Measure No. 27 - Voter ID	",,,No,354
+Simpson,Jupiter,"Measure No. 27 - Voter ID	",,,No,258
+Simpson,Magee 2,"Measure No. 27 - Voter ID	",,,No,210
+Simpson,Oak Grove,"Measure No. 27 - Voter ID	",,,No,179
+Simpson,Bowie,"Measure No. 27 - Voter ID	",,,No,86
+Simpson,New Hope,"Measure No. 27 - Voter ID	",,,No,91
+Simpson,Saratoga,"Measure No. 27 - Voter ID	",,,No,124
+Simpson,Mendenhall 3,"Measure No. 27 - Voter ID	",,,No,155
+Simpson,Sumrall,"Measure No. 27 - Voter ID	",,,No,93
+Simpson,D'Lo,"Measure No. 27 - Voter ID	",,,No,76
+Simpson,Dry Creek,"Measure No. 27 - Voter ID	",,,No,115
+Simpson,Magee 4 North,"Measure No. 27 - Voter ID	",,,No,88
+Simpson,Magee 4 South,"Measure No. 27 - Voter ID	",,,No,140
+Simpson,Shivers,"Measure No. 27 - Voter ID	",,,No,122
+Simpson,Bridgeport,"Measure No. 27 - Voter ID	",,,No,140
+Simpson,Pinola,"Measure No. 27 - Voter ID	",,,No,102
+Simpson,Braxton,"Measure No. 27 - Voter ID	",,,No,107
+Simpson,Harrisville,"Measure No. 27 - Voter ID	",,,No,151
+Simpson,Merit,"Measure No. 27 - Voter ID	",,,No,112
+Simpson,Fork Church,"Measure No. 27 - Voter ID	",,,No,194
+Simpson,Pearl,"Measure No. 27 - Voter ID	",,,No,97
+Simpson,Mendenhall 1,"Measure No. 27 - Voter ID	",,,Over votes,0
+Simpson,Magee 1,"Measure No. 27 - Voter ID	",,,Over votes,0
+Simpson,Weathersby,"Measure No. 27 - Voter ID	",,,Over votes,0
+Simpson,Jupiter,"Measure No. 27 - Voter ID	",,,Over votes,0
+Simpson,Magee 2,"Measure No. 27 - Voter ID	",,,Over votes,0
+Simpson,Oak Grove,"Measure No. 27 - Voter ID	",,,Over votes,0
+Simpson,Bowie,"Measure No. 27 - Voter ID	",,,Over votes,0
+Simpson,New Hope,"Measure No. 27 - Voter ID	",,,Over votes,0
+Simpson,Saratoga,"Measure No. 27 - Voter ID	",,,Over votes,0
+Simpson,Mendenhall 3,"Measure No. 27 - Voter ID	",,,Over votes,0
+Simpson,Sumrall,"Measure No. 27 - Voter ID	",,,Over votes,0
+Simpson,D'Lo,"Measure No. 27 - Voter ID	",,,Over votes,0
+Simpson,Dry Creek,"Measure No. 27 - Voter ID	",,,Over votes,0
+Simpson,Magee 4 North,"Measure No. 27 - Voter ID	",,,Over votes,0
+Simpson,Magee 4 South,"Measure No. 27 - Voter ID	",,,Over votes,0
+Simpson,Shivers,"Measure No. 27 - Voter ID	",,,Over votes,0
+Simpson,Bridgeport,"Measure No. 27 - Voter ID	",,,Over votes,0
+Simpson,Pinola,"Measure No. 27 - Voter ID	",,,Over votes,0
+Simpson,Braxton,"Measure No. 27 - Voter ID	",,,Over votes,0
+Simpson,Harrisville,"Measure No. 27 - Voter ID	",,,Over votes,0
+Simpson,Merit,"Measure No. 27 - Voter ID	",,,Over votes,0
+Simpson,Fork Church,"Measure No. 27 - Voter ID	",,,Over votes,0
+Simpson,Pearl,"Measure No. 27 - Voter ID	",,,Over votes,0
+Simpson,Mendenhall 1,"Measure No. 27 - Voter ID	",,,"Under votes	",6
+Simpson,Magee 1,"Measure No. 27 - Voter ID	",,,"Under votes	",8
+Simpson,Weathersby,"Measure No. 27 - Voter ID	",,,"Under votes	",23
+Simpson,Jupiter,"Measure No. 27 - Voter ID	",,,"Under votes	",0
+Simpson,Magee 2,"Measure No. 27 - Voter ID	",,,"Under votes	",15
+Simpson,Oak Grove,"Measure No. 27 - Voter ID	",,,"Under votes	",1
+Simpson,Bowie,"Measure No. 27 - Voter ID	",,,"Under votes	",2
+Simpson,New Hope,"Measure No. 27 - Voter ID	",,,"Under votes	",7
+Simpson,Saratoga,"Measure No. 27 - Voter ID	",,,"Under votes	",10
+Simpson,Mendenhall 3,"Measure No. 27 - Voter ID	",,,"Under votes	",11
+Simpson,Sumrall,"Measure No. 27 - Voter ID	",,,"Under votes	",2
+Simpson,D'Lo,"Measure No. 27 - Voter ID	",,,"Under votes	",2
+Simpson,Dry Creek,"Measure No. 27 - Voter ID	",,,"Under votes	",10
+Simpson,Magee 4 North,"Measure No. 27 - Voter ID	",,,"Under votes	",4
+Simpson,Magee 4 South,"Measure No. 27 - Voter ID	",,,"Under votes	",13
+Simpson,Shivers,"Measure No. 27 - Voter ID	",,,"Under votes	",6
+Simpson,Bridgeport,"Measure No. 27 - Voter ID	",,,"Under votes	",9
+Simpson,Pinola,"Measure No. 27 - Voter ID	",,,"Under votes	",7
+Simpson,Braxton,"Measure No. 27 - Voter ID	",,,"Under votes	",13
+Simpson,Harrisville,"Measure No. 27 - Voter ID	",,,"Under votes	",15
+Simpson,Merit,"Measure No. 27 - Voter ID	",,,"Under votes	",11
+Simpson,Fork Church,"Measure No. 27 - Voter ID	",,,"Under votes	",7
+Simpson,Pearl,"Measure No. 27 - Voter ID	",,,"Under votes	",0
+Simpson,Mendenhall 1,"Measure No. 31 - Eminent Domain	",,,Yes,129
+Simpson,Magee 1,"Measure No. 31 - Eminent Domain	",,,Yes,216
+Simpson,Weathersby,"Measure No. 31 - Eminent Domain	",,,Yes,303
+Simpson,Jupiter,"Measure No. 31 - Eminent Domain	",,,Yes,270
+Simpson,Magee 2,"Measure No. 31 - Eminent Domain	",,,Yes,644
+Simpson,Oak Grove,"Measure No. 31 - Eminent Domain	",,,Yes,290
+Simpson,Bowie,"Measure No. 31 - Eminent Domain	",,,Yes,188
+Simpson,New Hope,"Measure No. 31 - Eminent Domain	",,,Yes,120
+Simpson,Saratoga,"Measure No. 31 - Eminent Domain	",,,Yes,191
+Simpson,Mendenhall 3,"Measure No. 31 - Eminent Domain	",,,Yes,612
+Simpson,Sumrall,"Measure No. 31 - Eminent Domain	",,,Yes,256
+Simpson,D'Lo,"Measure No. 31 - Eminent Domain	",,,Yes,176
+Simpson,Dry Creek,"Measure No. 31 - Eminent Domain	",,,Yes,393
+Simpson,Magee 4 North,"Measure No. 31 - Eminent Domain	",,,Yes,281
+Simpson,Magee 4 South,"Measure No. 31 - Eminent Domain	",,,Yes,466
+Simpson,Shivers,"Measure No. 31 - Eminent Domain	",,,Yes,186
+Simpson,Bridgeport,"Measure No. 31 - Eminent Domain	",,,Yes,132
+Simpson,Pinola,"Measure No. 31 - Eminent Domain	",,,Yes,215
+Simpson,Braxton,"Measure No. 31 - Eminent Domain	",,,Yes,450
+Simpson,Harrisville,"Measure No. 31 - Eminent Domain	",,,Yes,441
+Simpson,Merit,"Measure No. 31 - Eminent Domain	",,,Yes,418
+Simpson,Fork Church,"Measure No. 31 - Eminent Domain	",,,Yes,189
+Simpson,Pearl,"Measure No. 31 - Eminent Domain	",,,Yes,264
+Simpson,Mendenhall 1,"Measure No. 31 - Eminent Domain	",,,No,99
+Simpson,Magee 1,"Measure No. 31 - Eminent Domain	",,,No,193
+Simpson,Weathersby,"Measure No. 31 - Eminent Domain	",,,No,232
+Simpson,Jupiter,"Measure No. 31 - Eminent Domain	",,,No,141
+Simpson,Magee 2,"Measure No. 31 - Eminent Domain	",,,No,156
+Simpson,Oak Grove,"Measure No. 31 - Eminent Domain	",,,No,129
+Simpson,Bowie,"Measure No. 31 - Eminent Domain	",,,No,54
+Simpson,New Hope,"Measure No. 31 - Eminent Domain	",,,No,58
+Simpson,Saratoga,"Measure No. 31 - Eminent Domain	",,,No,73
+Simpson,Mendenhall 3,"Measure No. 31 - Eminent Domain	",,,No,146
+Simpson,Sumrall,"Measure No. 31 - Eminent Domain	",,,No,75
+Simpson,D'Lo,"Measure No. 31 - Eminent Domain	",,,No,71
+Simpson,Dry Creek,"Measure No. 31 - Eminent Domain	",,,No,84
+Simpson,Magee 4 North,"Measure No. 31 - Eminent Domain	",,,No,118
+Simpson,Magee 4 South,"Measure No. 31 - Eminent Domain	",,,No,140
+Simpson,Shivers,"Measure No. 31 - Eminent Domain	",,,No,85
+Simpson,Bridgeport,"Measure No. 31 - Eminent Domain	",,,No,86
+Simpson,Pinola,"Measure No. 31 - Eminent Domain	",,,No,54
+Simpson,Braxton,"Measure No. 31 - Eminent Domain	",,,No,114
+Simpson,Harrisville,"Measure No. 31 - Eminent Domain	",,,No,131
+Simpson,Merit,"Measure No. 31 - Eminent Domain	",,,No,117
+Simpson,Fork Church,"Measure No. 31 - Eminent Domain	",,,No,102
+Simpson,Pearl,"Measure No. 31 - Eminent Domain	",,,No,85
+Simpson,Mendenhall 1,"Measure No. 31 - Eminent Domain	",,,Over votes,0
+Simpson,Magee 1,"Measure No. 31 - Eminent Domain	",,,Over votes,0
+Simpson,Weathersby,"Measure No. 31 - Eminent Domain	",,,Over votes,0
+Simpson,Jupiter,"Measure No. 31 - Eminent Domain	",,,Over votes,0
+Simpson,Magee 2,"Measure No. 31 - Eminent Domain	",,,Over votes,0
+Simpson,Oak Grove,"Measure No. 31 - Eminent Domain	",,,Over votes,0
+Simpson,Bowie,"Measure No. 31 - Eminent Domain	",,,Over votes,0
+Simpson,New Hope,"Measure No. 31 - Eminent Domain	",,,Over votes,0
+Simpson,Saratoga,"Measure No. 31 - Eminent Domain	",,,Over votes,0
+Simpson,Mendenhall 3,"Measure No. 31 - Eminent Domain	",,,Over votes,0
+Simpson,Sumrall,"Measure No. 31 - Eminent Domain	",,,Over votes,0
+Simpson,D'Lo,"Measure No. 31 - Eminent Domain	",,,Over votes,0
+Simpson,Dry Creek,"Measure No. 31 - Eminent Domain	",,,Over votes,0
+Simpson,Magee 4 North,"Measure No. 31 - Eminent Domain	",,,Over votes,0
+Simpson,Magee 4 South,"Measure No. 31 - Eminent Domain	",,,Over votes,0
+Simpson,Shivers,"Measure No. 31 - Eminent Domain	",,,Over votes,0
+Simpson,Bridgeport,"Measure No. 31 - Eminent Domain	",,,Over votes,0
+Simpson,Pinola,"Measure No. 31 - Eminent Domain	",,,Over votes,0
+Simpson,Braxton,"Measure No. 31 - Eminent Domain	",,,Over votes,0
+Simpson,Harrisville,"Measure No. 31 - Eminent Domain	",,,Over votes,0
+Simpson,Merit,"Measure No. 31 - Eminent Domain	",,,Over votes,0
+Simpson,Fork Church,"Measure No. 31 - Eminent Domain	",,,Over votes,0
+Simpson,Pearl,"Measure No. 31 - Eminent Domain	",,,Over votes,0
+Simpson,Mendenhall 1,"Measure No. 31 - Eminent Domain	",,,"Under votes	",5
+Simpson,Magee 1,"Measure No. 31 - Eminent Domain	",,,"Under votes	",8
+Simpson,Weathersby,"Measure No. 31 - Eminent Domain	",,,"Under votes	",17
+Simpson,Jupiter,"Measure No. 31 - Eminent Domain	",,,"Under votes	",3
+Simpson,Magee 2,"Measure No. 31 - Eminent Domain	",,,"Under votes	",11
+Simpson,Oak Grove,"Measure No. 31 - Eminent Domain	",,,"Under votes	",1
+Simpson,Bowie,"Measure No. 31 - Eminent Domain	",,,"Under votes	",4
+Simpson,New Hope,"Measure No. 31 - Eminent Domain	",,,"Under votes	",5
+Simpson,Saratoga,"Measure No. 31 - Eminent Domain	",,,"Under votes	",7
+Simpson,Mendenhall 3,"Measure No. 31 - Eminent Domain	",,,"Under votes	",8
+Simpson,Sumrall,"Measure No. 31 - Eminent Domain	",,,"Under votes	",0
+Simpson,D'Lo,"Measure No. 31 - Eminent Domain	",,,"Under votes	",2
+Simpson,Dry Creek,"Measure No. 31 - Eminent Domain	",,,"Under votes	",7
+Simpson,Magee 4 North,"Measure No. 31 - Eminent Domain	",,,"Under votes	",2
+Simpson,Magee 4 South,"Measure No. 31 - Eminent Domain	",,,"Under votes	",9
+Simpson,Shivers,"Measure No. 31 - Eminent Domain	",,,"Under votes	",6
+Simpson,Bridgeport,"Measure No. 31 - Eminent Domain	",,,"Under votes	",9
+Simpson,Pinola,"Measure No. 31 - Eminent Domain	",,,"Under votes	",4
+Simpson,Braxton,"Measure No. 31 - Eminent Domain	",,,"Under votes	",10
+Simpson,Harrisville,"Measure No. 31 - Eminent Domain	",,,"Under votes	",10
+Simpson,Merit,"Measure No. 31 - Eminent Domain	",,,"Under votes	",8
+Simpson,Fork Church,"Measure No. 31 - Eminent Domain	",,,"Under votes	",10
+Simpson,Pearl,"Measure No. 31 - Eminent Domain	",,,"Under votes	",1
