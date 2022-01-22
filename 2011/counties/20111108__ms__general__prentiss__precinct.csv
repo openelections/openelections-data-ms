@@ -269,83 +269,240 @@ Prentiss,Hills Chapel - New Hope,Commissioner of Agriculture & Commerce,,Reform,
 Prentiss,Hills Chapel - New Hope,Commissioner of Insurance,,Republican,Mike Chaney,451
 Prentiss,Hills Chapel - New Hope,Commissioner of Insurance,,Democrat,Louis Fondren,100
 Prentiss,Hills Chapel - New Hope,Commissioner of Insurance,,Reform,Barbara Dale Washer,35
-Prentiss,Baldwyn,State Senate,05,Republican,Jerry Don Keith,268
-Prentiss,Blackland,State Senate,05,Republican,Jerry Don Keith,134
-Prentiss,Booneville/Ag-Ctr,State Senate,05,Republican,Jerry Don Keith,380
-Prentiss,Cross Roads,State Senate,05,Republican,Jerry Don Keith,148
-Prentiss,East Booneville,State Senate,05,Republican,Jerry Don Keith,250
-Prentiss,Ingram,State Senate,05,Republican,Jerry Don Keith,105
-Prentiss,Marietta,State Senate,05,Republican,Jerry Don Keith,176
-Prentiss,North Booneville,State Senate,05,Republican,Jerry Don Keith,109
-Prentiss,New Site,State Senate,05,Republican,Jerry Don Keith,173
-Prentiss,Cairo,State Senate,05,Republican,Jerry Don Keith,111
-Prentiss,Thrasher,State Senate,05,Republican,Jerry Don Keith,139
-Prentiss,Tuscumbia-New Candler,State Senate,05,Republican,Jerry Don Keith,234
-Prentiss,West Booneville,State Senate,05,Republican,Jerry Don Keith,658
-Prentiss,Wheeler,State Senate,05,Republican,Jerry Don Keith,223
-Prentiss,Hills Chapel - New Hope,State Senate,05,Republican,Jerry Don Keith,315
-Prentiss,Baldwyn,State Senate,05,Democrat,"J.P. Wilemon, Jr.",427
-Prentiss,Blackland,State Senate,05,Democrat,"J.P. Wilemon, Jr.",169
-Prentiss,Booneville/Ag-Ctr,State Senate,05,Democrat,"J.P. Wilemon, Jr.",374
-Prentiss,Cross Roads,State Senate,05,Democrat,"J.P. Wilemon, Jr.",264
-Prentiss,East Booneville,State Senate,05,Democrat,"J.P. Wilemon, Jr.",321
-Prentiss,Ingram,State Senate,05,Democrat,"J.P. Wilemon, Jr.",79
-Prentiss,Marietta,State Senate,05,Democrat,"J.P. Wilemon, Jr.",299
-Prentiss,North Booneville,State Senate,05,Democrat,"J.P. Wilemon, Jr.",326
-Prentiss,New Site,State Senate,05,Democrat,"J.P. Wilemon, Jr.",238
-Prentiss,Cairo,State Senate,05,Democrat,"J.P. Wilemon, Jr.",119
-Prentiss,Thrasher,State Senate,05,Democrat,"J.P. Wilemon, Jr.",237
-Prentiss,Tuscumbia-New Candler,State Senate,05,Democrat,"J.P. Wilemon, Jr.",256
-Prentiss,West Booneville,State Senate,05,Democrat,"J.P. Wilemon, Jr.",619
-Prentiss,Wheeler,State Senate,05,Democrat,"J.P. Wilemon, Jr.",232
-Prentiss,Hills Chapel - New Hope,State Senate,05,Democrat,"J.P. Wilemon, Jr.",295
-Prentiss,Blackland,State House,03,Republican,William Tracy Arnold,159
-Prentiss,Booneville/Ag-Ctr,State House,03,Republican,William Tracy Arnold,409
-Prentiss,Cross Roads,State House,03,Republican,William Tracy Arnold,212
-Prentiss,East Booneville,State House,03,Republican,William Tracy Arnold,280
-Prentiss,Marietta,State House,03,Republican,William Tracy Arnold,252
-Prentiss,North Booneville,State House,03,Republican,William Tracy Arnold,152
-Prentiss,New Site,State House,03,Republican,William Tracy Arnold,233
-Prentiss,Cairo,State House,03,Republican,William Tracy Arnold,140
-Prentiss,Thrasher,State House,03,Republican,William Tracy Arnold,165
-Prentiss,Tuscumbia-New Candler,State House,03,Republican,William Tracy Arnold,233
-Prentiss,West Booneville,State House,03,Republican,William Tracy Arnold,670
-Prentiss,Hills Chapel - New Hope,State House,03,Republican,William Tracy Arnold,391
-Prentiss,Blackland,State House,03,Democrat,Tommy Dexter Cadle,147
-Prentiss,Booneville/Ag-Ctr,State House,03,Democrat,Tommy Dexter Cadle,348
-Prentiss,Cross Roads,State House,03,Democrat,Tommy Dexter Cadle,205
-Prentiss,East Booneville,State House,03,Democrat,Tommy Dexter Cadle,298
-Prentiss,Marietta,State House,03,Democrat,Tommy Dexter Cadle,221
-Prentiss,North Booneville,State House,03,Democrat,Tommy Dexter Cadle,282
-Prentiss,New Site,State House,03,Democrat,Tommy Dexter Cadle,173
-Prentiss,Cairo,State House,03,Democrat,Tommy Dexter Cadle,92
-Prentiss,Thrasher,State House,03,Democrat,Tommy Dexter Cadle,211
-Prentiss,Tuscumbia-New Candler,State House,03,Democrat,Tommy Dexter Cadle,253
-Prentiss,West Booneville,State House,03,Democrat,Tommy Dexter Cadle,594
-Prentiss,Hills Chapel - New Hope,State House,03,Democrat,Tommy Dexter Cadle,210
+Prentiss,Baldwyn,State Senate,5,Republican,Jerry Don Keith,268
+Prentiss,Blackland,State Senate,5,Republican,Jerry Don Keith,134
+Prentiss,Booneville/Ag-Ctr,State Senate,5,Republican,Jerry Don Keith,380
+Prentiss,Cross Roads,State Senate,5,Republican,Jerry Don Keith,148
+Prentiss,East Booneville,State Senate,5,Republican,Jerry Don Keith,250
+Prentiss,Ingram,State Senate,5,Republican,Jerry Don Keith,105
+Prentiss,Marietta,State Senate,5,Republican,Jerry Don Keith,176
+Prentiss,North Booneville,State Senate,5,Republican,Jerry Don Keith,109
+Prentiss,New Site,State Senate,5,Republican,Jerry Don Keith,173
+Prentiss,Cairo,State Senate,5,Republican,Jerry Don Keith,111
+Prentiss,Thrasher,State Senate,5,Republican,Jerry Don Keith,139
+Prentiss,Tuscumbia-New Candler,State Senate,5,Republican,Jerry Don Keith,234
+Prentiss,West Booneville,State Senate,5,Republican,Jerry Don Keith,658
+Prentiss,Wheeler,State Senate,5,Republican,Jerry Don Keith,223
+Prentiss,Hills Chapel - New Hope,State Senate,5,Republican,Jerry Don Keith,315
+Prentiss,Baldwyn,State Senate,5,Democrat,"J.P. Wilemon, Jr.",427
+Prentiss,Blackland,State Senate,5,Democrat,"J.P. Wilemon, Jr.",169
+Prentiss,Booneville/Ag-Ctr,State Senate,5,Democrat,"J.P. Wilemon, Jr.",374
+Prentiss,Cross Roads,State Senate,5,Democrat,"J.P. Wilemon, Jr.",264
+Prentiss,East Booneville,State Senate,5,Democrat,"J.P. Wilemon, Jr.",321
+Prentiss,Ingram,State Senate,5,Democrat,"J.P. Wilemon, Jr.",79
+Prentiss,Marietta,State Senate,5,Democrat,"J.P. Wilemon, Jr.",299
+Prentiss,North Booneville,State Senate,5,Democrat,"J.P. Wilemon, Jr.",326
+Prentiss,New Site,State Senate,5,Democrat,"J.P. Wilemon, Jr.",238
+Prentiss,Cairo,State Senate,5,Democrat,"J.P. Wilemon, Jr.",119
+Prentiss,Thrasher,State Senate,5,Democrat,"J.P. Wilemon, Jr.",237
+Prentiss,Tuscumbia-New Candler,State Senate,5,Democrat,"J.P. Wilemon, Jr.",256
+Prentiss,West Booneville,State Senate,5,Democrat,"J.P. Wilemon, Jr.",619
+Prentiss,Wheeler,State Senate,5,Democrat,"J.P. Wilemon, Jr.",232
+Prentiss,Hills Chapel - New Hope,State Senate,5,Democrat,"J.P. Wilemon, Jr.",295
+Prentiss,Blackland,State House,3,Republican,William Tracy Arnold,159
+Prentiss,Booneville/Ag-Ctr,State House,3,Republican,William Tracy Arnold,409
+Prentiss,Cross Roads,State House,3,Republican,William Tracy Arnold,212
+Prentiss,East Booneville,State House,3,Republican,William Tracy Arnold,280
+Prentiss,Marietta,State House,3,Republican,William Tracy Arnold,252
+Prentiss,North Booneville,State House,3,Republican,William Tracy Arnold,152
+Prentiss,New Site,State House,3,Republican,William Tracy Arnold,233
+Prentiss,Cairo,State House,3,Republican,William Tracy Arnold,140
+Prentiss,Thrasher,State House,3,Republican,William Tracy Arnold,165
+Prentiss,Tuscumbia-New Candler,State House,3,Republican,William Tracy Arnold,233
+Prentiss,West Booneville,State House,3,Republican,William Tracy Arnold,670
+Prentiss,Hills Chapel - New Hope,State House,3,Republican,William Tracy Arnold,391
+Prentiss,Blackland,State House,3,Democrat,Tommy Dexter Cadle,147
+Prentiss,Booneville/Ag-Ctr,State House,3,Democrat,Tommy Dexter Cadle,348
+Prentiss,Cross Roads,State House,3,Democrat,Tommy Dexter Cadle,205
+Prentiss,East Booneville,State House,3,Democrat,Tommy Dexter Cadle,298
+Prentiss,Marietta,State House,3,Democrat,Tommy Dexter Cadle,221
+Prentiss,North Booneville,State House,3,Democrat,Tommy Dexter Cadle,282
+Prentiss,New Site,State House,3,Democrat,Tommy Dexter Cadle,173
+Prentiss,Cairo,State House,3,Democrat,Tommy Dexter Cadle,92
+Prentiss,Thrasher,State House,3,Democrat,Tommy Dexter Cadle,211
+Prentiss,Tuscumbia-New Candler,State House,3,Democrat,Tommy Dexter Cadle,253
+Prentiss,West Booneville,State House,3,Democrat,Tommy Dexter Cadle,594
+Prentiss,Hills Chapel - New Hope,State House,3,Democrat,Tommy Dexter Cadle,210
 Prentiss,Baldwyn,State House,18,Republican,Jerry R. Turner,567
 Prentiss,Ingram,State House,18,Republican,Jerry R. Turner,173
 Prentiss,Wheeler,State House,18,Republican,Jerry R. Turner,412
-Prentiss,,Governor,,Republican,Phil Bryant,5423
-Prentiss,,Governor,,Democrat,Johnny L. DuPree,2285
-Prentiss,,Lieutenant Governor,,Republican,Tate Reeves,6035
-Prentiss,,Lieutenant Governor,,Reform,Tracella Lou O'Hara Hill,1147
-Prentiss,,Secretary of State,,Republican,Delbert Hosemann,6639
-Prentiss,,Attorney General,,Democrat,Jim Hood,4713
-Prentiss,,Attorney General,,Republican,Steve Simpson,2952
-Prentiss,,State Auditor,,Republican,Stacey E. Pickering,5505
-Prentiss,,State Auditor,,Reform,Ashley Norwood,1560
-Prentiss,,Treasurer,,Republican,Lynn Fitch,4875
-Prentiss,,Treasurer,,Democrat,Connie Moran,2369
-Prentiss,,Treasurer,,Reform,Shawn O'Hara,301
-Prentiss,,Commissioner of Agriculture & Commerce,,Democrat,Joel Gill,2790
-Prentiss,,Commissioner of Agriculture & Commerce,,Republican,Cindy Hyde-Smith,4475
-Prentiss,,Commissioner of Agriculture & Commerce,,Reform,Cathy L. Toole,225
-Prentiss,,Commissioner of Insurance,,Republican,Mike Chaney,5081
-Prentiss,,Commissioner of Insurance,,Democrat,Louis Fondren,2065
-Prentiss,,Commissioner of Insurance,,Reform,Barbara Dale Washer,358
-Prentiss,,State Senate,05,Republican,Jerry Don Keith,3423
-Prentiss,,State Senate,05,Democrat,"J.P. Wilemon, Jr.",4255
-Prentiss,,State House,03,Republican,William Tracy Arnold,3296
-Prentiss,,State House,03,Democrat,Tommy Dexter Cadle,3034
-Prentiss,,State House,18,Republican,Jerry R. Turner,1152
+Prentiss,Baldwyn,"Measure No. 26 - Definition of a person	",,,Yes,341
+Prentiss,Blackland,"Measure No. 26 - Definition of a person	",,,Yes,194
+Prentiss,Booneville/Ag-Ctr,"Measure No. 26 - Definition of a person	",,,Yes,474
+Prentiss,Cross Roads,"Measure No. 26 - Definition of a person	",,,Yes,257
+Prentiss,East Booneville,"Measure No. 26 - Definition of a person	",,,Yes,349
+Prentiss,Ingram,"Measure No. 26 - Definition of a person	",,,Yes,142
+Prentiss,Marietta,"Measure No. 26 - Definition of a person	",,,Yes,305
+Prentiss,North Booneville,"Measure No. 26 - Definition of a person	",,,Yes,206
+Prentiss,New Site,"Measure No. 26 - Definition of a person	",,,Yes,302
+Prentiss,Cairo,"Measure No. 26 - Definition of a person	",,,Yes,145
+Prentiss,Thrasher,"Measure No. 26 - Definition of a person	",,,Yes,218
+Prentiss,Tuscumbia-New Candler,"Measure No. 26 - Definition of a person	",,,Yes,260
+Prentiss,West Booneville,"Measure No. 26 - Definition of a person	",,,Yes,708
+Prentiss,Wheeler,"Measure No. 26 - Definition of a person	",,,Yes,308
+Prentiss,Hills Chapel - New Hope,"Measure No. 26 - Definition of a person	",,,Yes,428
+Prentiss,Baldwyn,"Measure No. 26 - Definition of a person	",,,No,344
+Prentiss,Blackland,"Measure No. 26 - Definition of a person	",,,No,109
+Prentiss,Booneville/Ag-Ctr,"Measure No. 26 - Definition of a person	",,,No,272
+Prentiss,Cross Roads,"Measure No. 26 - Definition of a person	",,,No,144
+Prentiss,East Booneville,"Measure No. 26 - Definition of a person	",,,No,207
+Prentiss,Ingram,"Measure No. 26 - Definition of a person	",,,No,46
+Prentiss,Marietta,"Measure No. 26 - Definition of a person	",,,No,156
+Prentiss,North Booneville,"Measure No. 26 - Definition of a person	",,,No,213
+Prentiss,New Site,"Measure No. 26 - Definition of a person	",,,No,95
+Prentiss,Cairo,"Measure No. 26 - Definition of a person	",,,No,81
+Prentiss,Thrasher,"Measure No. 26 - Definition of a person	",,,No,146
+Prentiss,Tuscumbia-New Candler,"Measure No. 26 - Definition of a person	",,,No,216
+Prentiss,West Booneville,"Measure No. 26 - Definition of a person	",,,No,541
+Prentiss,Wheeler,"Measure No. 26 - Definition of a person	",,,No,140
+Prentiss,Hills Chapel - New Hope,"Measure No. 26 - Definition of a person	",,,No,173
+Prentiss,Baldwyn,"Measure No. 26 - Definition of a person	",,,"Over votes	",0
+Prentiss,Blackland,"Measure No. 26 - Definition of a person	",,,"Over votes	",0
+Prentiss,Booneville/Ag-Ctr,"Measure No. 26 - Definition of a person	",,,"Over votes	",0
+Prentiss,Cross Roads,"Measure No. 26 - Definition of a person	",,,"Over votes	",0
+Prentiss,East Booneville,"Measure No. 26 - Definition of a person	",,,"Over votes	",0
+Prentiss,Ingram,"Measure No. 26 - Definition of a person	",,,"Over votes	",0
+Prentiss,Marietta,"Measure No. 26 - Definition of a person	",,,"Over votes	",0
+Prentiss,North Booneville,"Measure No. 26 - Definition of a person	",,,"Over votes	",0
+Prentiss,New Site,"Measure No. 26 - Definition of a person	",,,"Over votes	",0
+Prentiss,Cairo,"Measure No. 26 - Definition of a person	",,,"Over votes	",0
+Prentiss,Thrasher,"Measure No. 26 - Definition of a person	",,,"Over votes	",0
+Prentiss,Tuscumbia-New Candler,"Measure No. 26 - Definition of a person	",,,"Over votes	",0
+Prentiss,West Booneville,"Measure No. 26 - Definition of a person	",,,"Over votes	",0
+Prentiss,Wheeler,"Measure No. 26 - Definition of a person	",,,"Over votes	",0
+Prentiss,Hills Chapel - New Hope,"Measure No. 26 - Definition of a person	",,,"Over votes	",0
+Prentiss,Baldwyn,"Measure No. 26 - Definition of a person	",,,"Under votes	",36
+Prentiss,Blackland,"Measure No. 26 - Definition of a person	",,,"Under votes	",6
+Prentiss,Booneville/Ag-Ctr,"Measure No. 26 - Definition of a person	",,,"Under votes	",28
+Prentiss,Cross Roads,"Measure No. 26 - Definition of a person	",,,"Under votes	",23
+Prentiss,East Booneville,"Measure No. 26 - Definition of a person	",,,"Under votes	",30
+Prentiss,Ingram,"Measure No. 26 - Definition of a person	",,,"Under votes	",2
+Prentiss,Marietta,"Measure No. 26 - Definition of a person	",,,"Under votes	",26
+Prentiss,North Booneville,"Measure No. 26 - Definition of a person	",,,"Under votes	",25
+Prentiss,New Site,"Measure No. 26 - Definition of a person	",,,"Under votes	",18
+Prentiss,Cairo,"Measure No. 26 - Definition of a person	",,,"Under votes	",9
+Prentiss,Thrasher,"Measure No. 26 - Definition of a person	",,,"Under votes	",20
+Prentiss,Tuscumbia-New Candler,"Measure No. 26 - Definition of a person	",,,"Under votes	",24
+Prentiss,West Booneville,"Measure No. 26 - Definition of a person	",,,"Under votes	",56
+Prentiss,Wheeler,"Measure No. 26 - Definition of a person	",,,"Under votes	",19
+Prentiss,Hills Chapel - New Hope,"Measure No. 26 - Definition of a person	",,,"Under votes	",22
+Prentiss,Baldwyn,"Measure No. 27 - Voter ID	",,,Yes,391
+Prentiss,Blackland,"Measure No. 27 - Voter ID	",,,Yes,224
+Prentiss,Booneville/Ag-Ctr,"Measure No. 27 - Voter ID	",,,Yes,558
+Prentiss,Cross Roads,"Measure No. 27 - Voter ID	",,,Yes,262
+Prentiss,East Booneville,"Measure No. 27 - Voter ID	",,,Yes,377
+Prentiss,Ingram,"Measure No. 27 - Voter ID	",,,Yes,131
+Prentiss,Marietta,"Measure No. 27 - Voter ID	",,,Yes,325
+Prentiss,North Booneville,"Measure No. 27 - Voter ID	",,,Yes,211
+Prentiss,New Site,"Measure No. 27 - Voter ID	",,,Yes,273
+Prentiss,Cairo,"Measure No. 27 - Voter ID	",,,Yes,151
+Prentiss,Thrasher,"Measure No. 27 - Voter ID	",,,Yes,211
+Prentiss,Tuscumbia-New Candler,"Measure No. 27 - Voter ID	",,,Yes,324
+Prentiss,West Booneville,"Measure No. 27 - Voter ID	",,,Yes,945
+Prentiss,Wheeler,"Measure No. 27 - Voter ID	",,,Yes,299
+Prentiss,Hills Chapel - New Hope,"Measure No. 27 - Voter ID	",,,Yes,449
+Prentiss,Baldwyn,"Measure No. 27 - Voter ID	",,,No,287
+Prentiss,Blackland,"Measure No. 27 - Voter ID	",,,No,79
+Prentiss,Booneville/Ag-Ctr,"Measure No. 27 - Voter ID	",,,No,178
+Prentiss,Cross Roads,"Measure No. 27 - Voter ID	",,,No,129
+Prentiss,East Booneville,"Measure No. 27 - Voter ID	",,,No,176
+Prentiss,Ingram,"Measure No. 27 - Voter ID	",,,No,55
+Prentiss,Marietta,"Measure No. 27 - Voter ID	",,,No,128
+Prentiss,North Booneville,"Measure No. 27 - Voter ID	",,,No,217
+Prentiss,New Site,"Measure No. 27 - Voter ID	",,,No,123
+Prentiss,Cairo,"Measure No. 27 - Voter ID	",,,No,74
+Prentiss,Thrasher,"Measure No. 27 - Voter ID	",,,No,139
+Prentiss,Tuscumbia-New Candler,"Measure No. 27 - Voter ID	",,,No,147
+Prentiss,West Booneville,"Measure No. 27 - Voter ID	",,,No,301
+Prentiss,Wheeler,"Measure No. 27 - Voter ID	",,,No,144
+Prentiss,Hills Chapel - New Hope,"Measure No. 27 - Voter ID	",,,No,143
+Prentiss,Baldwyn,"Measure No. 27 - Voter ID	",,,"Over votes	",0
+Prentiss,Blackland,"Measure No. 27 - Voter ID	",,,"Over votes	",0
+Prentiss,Booneville/Ag-Ctr,"Measure No. 27 - Voter ID	",,,"Over votes	",0
+Prentiss,Cross Roads,"Measure No. 27 - Voter ID	",,,"Over votes	",0
+Prentiss,East Booneville,"Measure No. 27 - Voter ID	",,,"Over votes	",0
+Prentiss,Ingram,"Measure No. 27 - Voter ID	",,,"Over votes	",0
+Prentiss,Marietta,"Measure No. 27 - Voter ID	",,,"Over votes	",0
+Prentiss,North Booneville,"Measure No. 27 - Voter ID	",,,"Over votes	",0
+Prentiss,New Site,"Measure No. 27 - Voter ID	",,,"Over votes	",0
+Prentiss,Cairo,"Measure No. 27 - Voter ID	",,,"Over votes	",0
+Prentiss,Thrasher,"Measure No. 27 - Voter ID	",,,"Over votes	",0
+Prentiss,Tuscumbia-New Candler,"Measure No. 27 - Voter ID	",,,"Over votes	",0
+Prentiss,West Booneville,"Measure No. 27 - Voter ID	",,,"Over votes	",0
+Prentiss,Wheeler,"Measure No. 27 - Voter ID	",,,"Over votes	",0
+Prentiss,Hills Chapel - New Hope,"Measure No. 27 - Voter ID	",,,"Over votes	",0
+Prentiss,Baldwyn,"Measure No. 27 - Voter ID	",,,"Under votes	",43
+Prentiss,Blackland,"Measure No. 27 - Voter ID	",,,"Under votes	",6
+Prentiss,Booneville/Ag-Ctr,"Measure No. 27 - Voter ID	",,,"Under votes	",38
+Prentiss,Cross Roads,"Measure No. 27 - Voter ID	",,,"Under votes	",33
+Prentiss,East Booneville,"Measure No. 27 - Voter ID	",,,"Under votes	",33
+Prentiss,Ingram,"Measure No. 27 - Voter ID	",,,"Under votes	",4
+Prentiss,Marietta,"Measure No. 27 - Voter ID	",,,"Under votes	",34
+Prentiss,North Booneville,"Measure No. 27 - Voter ID	",,,"Under votes	",16
+Prentiss,New Site,"Measure No. 27 - Voter ID	",,,"Under votes	",19
+Prentiss,Cairo,"Measure No. 27 - Voter ID	",,,"Under votes	",10
+Prentiss,Thrasher,"Measure No. 27 - Voter ID	",,,"Under votes	",34
+Prentiss,Tuscumbia-New Candler,"Measure No. 27 - Voter ID	",,,"Under votes	",29
+Prentiss,West Booneville,"Measure No. 27 - Voter ID	",,,"Under votes	",59
+Prentiss,Wheeler,"Measure No. 27 - Voter ID	",,,"Under votes	",24
+Prentiss,Hills Chapel - New Hope,"Measure No. 27 - Voter ID	",,,"Under votes	",31
+Prentiss,Baldwyn,"Measure No. 31 - Eminent Domain	",,,Yes,495
+Prentiss,Blackland,"Measure No. 31 - Eminent Domain	",,,Yes,233
+Prentiss,Booneville/Ag-Ctr,"Measure No. 31 - Eminent Domain	",,,Yes,588
+Prentiss,Cross Roads,"Measure No. 31 - Eminent Domain	",,,Yes,312
+Prentiss,East Booneville,"Measure No. 31 - Eminent Domain	",,,Yes,432
+Prentiss,Ingram,"Measure No. 31 - Eminent Domain	",,,Yes,152
+Prentiss,Marietta,"Measure No. 31 - Eminent Domain	",,,Yes,379
+Prentiss,North Booneville,"Measure No. 31 - Eminent Domain	",,,Yes,292
+Prentiss,New Site,"Measure No. 31 - Eminent Domain	",,,Yes,335
+Prentiss,Cairo,"Measure No. 31 - Eminent Domain	",,,Yes,191
+Prentiss,Thrasher,"Measure No. 31 - Eminent Domain	",,,Yes,253
+Prentiss,Tuscumbia-New Candler,"Measure No. 31 - Eminent Domain	",,,Yes,363
+Prentiss,West Booneville,"Measure No. 31 - Eminent Domain	",,,Yes,974
+Prentiss,Wheeler,"Measure No. 31 - Eminent Domain	",,,Yes,345
+Prentiss,Hills Chapel - New Hope,"Measure No. 31 - Eminent Domain	",,,Yes,483
+Prentiss,Baldwyn,"Measure No. 31 - Eminent Domain	",,,No,192
+Prentiss,Blackland,"Measure No. 31 - Eminent Domain	",,,No,69
+Prentiss,Booneville/Ag-Ctr,"Measure No. 31 - Eminent Domain	",,,No,154
+Prentiss,Cross Roads,"Measure No. 31 - Eminent Domain	",,,No,87
+Prentiss,East Booneville,"Measure No. 31 - Eminent Domain	",,,No,131
+Prentiss,Ingram,"Measure No. 31 - Eminent Domain	",,,No,33
+Prentiss,Marietta,"Measure No. 31 - Eminent Domain	",,,No,84
+Prentiss,North Booneville,"Measure No. 31 - Eminent Domain	",,,No,134
+Prentiss,New Site,"Measure No. 31 - Eminent Domain	",,,No,66
+Prentiss,Cairo,"Measure No. 31 - Eminent Domain	",,,No,38
+Prentiss,Thrasher,"Measure No. 31 - Eminent Domain	",,,No,99
+Prentiss,Tuscumbia-New Candler,"Measure No. 31 - Eminent Domain	",,,No,118
+Prentiss,West Booneville,"Measure No. 31 - Eminent Domain	",,,No,281
+Prentiss,Wheeler,"Measure No. 31 - Eminent Domain	",,,No,106
+Prentiss,Hills Chapel - New Hope,"Measure No. 31 - Eminent Domain	",,,No,115
+Prentiss,Baldwyn,"Measure No. 31 - Eminent Domain	",,,"Over votes	",0
+Prentiss,Blackland,"Measure No. 31 - Eminent Domain	",,,"Over votes	",0
+Prentiss,Booneville/Ag-Ctr,"Measure No. 31 - Eminent Domain	",,,"Over votes	",0
+Prentiss,Cross Roads,"Measure No. 31 - Eminent Domain	",,,"Over votes	",0
+Prentiss,East Booneville,"Measure No. 31 - Eminent Domain	",,,"Over votes	",0
+Prentiss,Ingram,"Measure No. 31 - Eminent Domain	",,,"Over votes	",0
+Prentiss,Marietta,"Measure No. 31 - Eminent Domain	",,,"Over votes	",0
+Prentiss,North Booneville,"Measure No. 31 - Eminent Domain	",,,"Over votes	",0
+Prentiss,New Site,"Measure No. 31 - Eminent Domain	",,,"Over votes	",0
+Prentiss,Cairo,"Measure No. 31 - Eminent Domain	",,,"Over votes	",0
+Prentiss,Thrasher,"Measure No. 31 - Eminent Domain	",,,"Over votes	",0
+Prentiss,Tuscumbia-New Candler,"Measure No. 31 - Eminent Domain	",,,"Over votes	",0
+Prentiss,West Booneville,"Measure No. 31 - Eminent Domain	",,,"Over votes	",0
+Prentiss,Wheeler,"Measure No. 31 - Eminent Domain	",,,"Over votes	",0
+Prentiss,Hills Chapel - New Hope,"Measure No. 31 - Eminent Domain	",,,"Over votes	",0
+Prentiss,Baldwyn,"Measure No. 31 - Eminent Domain	",,,"Under votes	",34
+Prentiss,Blackland,"Measure No. 31 - Eminent Domain	",,,"Under votes	",7
+Prentiss,Booneville/Ag-Ctr,"Measure No. 31 - Eminent Domain	",,,"Under votes	",32
+Prentiss,Cross Roads,"Measure No. 31 - Eminent Domain	",,,"Under votes	",25
+Prentiss,East Booneville,"Measure No. 31 - Eminent Domain	",,,"Under votes	",23
+Prentiss,Ingram,"Measure No. 31 - Eminent Domain	",,,"Under votes	",5
+Prentiss,Marietta,"Measure No. 31 - Eminent Domain	",,,"Under votes	",24
+Prentiss,North Booneville,"Measure No. 31 - Eminent Domain	",,,"Under votes	",18
+Prentiss,New Site,"Measure No. 31 - Eminent Domain	",,,"Under votes	",14
+Prentiss,Cairo,"Measure No. 31 - Eminent Domain	",,,"Under votes	",6
+Prentiss,Thrasher,"Measure No. 31 - Eminent Domain	",,,"Under votes	",32
+Prentiss,Tuscumbia-New Candler,"Measure No. 31 - Eminent Domain	",,,"Under votes	",19
+Prentiss,West Booneville,"Measure No. 31 - Eminent Domain	",,,"Under votes	",50
+Prentiss,Wheeler,"Measure No. 31 - Eminent Domain	",,,"Under votes	",16
+Prentiss,Hills Chapel - New Hope,"Measure No. 31 - Eminent Domain	",,,"Under votes	",25
