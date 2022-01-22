@@ -415,26 +415,231 @@ Smith,Burns,State House,79,Democrat,Ron Swindall,95
 Smith,Clear Springs-Pineville,State House,79,Democrat,Ron Swindall,107
 Smith,Lorena-Spinola,State House,79,Democrat,Ron Swindall,123
 Smith,North Raleigh,State House,79,Democrat,Ron Swindall,226
-Smith,,Governor,,Republican,Phil Bryant,5377
-Smith,,Governor,,Democrat,Johnny L. DuPree,1651
-Smith,,Lieutenant Governor,,Republican,Tate Reeves,5964
-Smith,,Lieutenant Governor,,Reform,Tracella Lou O'Hara Hill,781
-Smith,,Secretary of State,,Republican,Delbert Hosemann,6318
-Smith,,Attorney General,,Democrat,Jim Hood,4306
-Smith,,Attorney General,,Republican,Steve Simpson,2713
-Smith,,State Auditor,,Republican,Stacey E. Pickering,5762
-Smith,,State Auditor,,Reform,Ashley Norwood,931
-Smith,,Treasurer,,Republican,Lynn Fitch,5089
-Smith,,Treasurer,,Democrat,Connie Moran,1681
-Smith,,Treasurer,,Reform,Shawn O'Hara,223
-Smith,,Commissioner of Agriculture & Commerce,,Democrat,Joel Gill,2526
-Smith,,Commissioner of Agriculture & Commerce,,Republican,Cindy Hyde-Smith,4329
-Smith,,Commissioner of Agriculture & Commerce,,Reform,Cathy L. Toole,113
-Smith,,Commissioner of Insurance,,Republican,Mike Chaney,5323
-Smith,,Commissioner of Insurance,,Democrat,Louis Fondren,1424
-Smith,,Commissioner of Insurance,,Reform,Barbara Dale Washer,196
-Smith,,State Senate,34,Republican,gary Blakeney,3370
-Smith,,State Senate,34,Democrat,Haskins Montgomery,3591
-Smith,,State House,77,Republican,Andy Gipson,603
-Smith,,State House,79,Democrat,Blaine 'Bo' Eaton,3871
-Smith,,State House,79,Democrat,Ron Swindall,2543
+Smith,Ag-Complex,"Measure No. 26 - Definition of a person	",,,Yes,261
+Smith,Center Ridge,"Measure No. 26 - Definition of a person	",,,Yes,235
+Smith,Mize,"Measure No. 26 - Definition of a person	",,,Yes,230
+Smith,Sylvarena,"Measure No. 26 - Definition of a person	",,,Yes,84
+Smith,Cedar Grove,"Measure No. 26 - Definition of a person	",,,Yes,65
+Smith,Summerland,"Measure No. 26 - Definition of a person	",,,Yes,198
+Smith,Union-New Home,"Measure No. 26 - Definition of a person	",,,Yes,208
+Smith,Warren Hill,"Measure No. 26 - Definition of a person	",,,Yes,53
+Smith,Taylorsville,"Measure No. 26 - Definition of a person	",,,Yes,451
+Smith,Zion Hill-New Haven,"Measure No. 26 - Definition of a person	",,,Yes,304
+Smith,Polkville-77,"Measure No. 26 - Definition of a person	",,,Yes,168
+Smith,Polkville-79,"Measure No. 26 - Definition of a person	",,,Yes,65
+Smith,Shady Grove,"Measure No. 26 - Definition of a person	",,,Yes,273
+Smith,West Raleigh,"Measure No. 26 - Definition of a person	",,,Yes,168
+Smith,White Oak,"Measure No. 26 - Definition of a person	",,,Yes,202
+Smith,Burns,"Measure No. 26 - Definition of a person	",,,Yes,106
+Smith,Clear Springs-Pineville,"Measure No. 26 - Definition of a person	",,,Yes,140
+Smith,Lorena-Spinola,"Measure No. 26 - Definition of a person	",,,Yes,150
+Smith,North Raleigh,"Measure No. 26 - Definition of a person	",,,Yes,259
+Smith,Ag-Complex,"Measure No. 26 - Definition of a person	",,,No,208
+Smith,Center Ridge,"Measure No. 26 - Definition of a person	",,,No,144
+Smith,Mize,"Measure No. 26 - Definition of a person	",,,No,144
+Smith,Sylvarena,"Measure No. 26 - Definition of a person	",,,No,89
+Smith,Cedar Grove,"Measure No. 26 - Definition of a person	",,,No,72
+Smith,Summerland,"Measure No. 26 - Definition of a person	",,,No,362
+Smith,Union-New Home,"Measure No. 26 - Definition of a person	",,,No,212
+Smith,Warren Hill,"Measure No. 26 - Definition of a person	",,,No,245
+Smith,Taylorsville,"Measure No. 26 - Definition of a person	",,,No,311
+Smith,Zion Hill-New Haven,"Measure No. 26 - Definition of a person	",,,No,250
+Smith,Polkville-77,"Measure No. 26 - Definition of a person	",,,No,131
+Smith,Polkville-79,"Measure No. 26 - Definition of a person	",,,No,29
+Smith,Shady Grove,"Measure No. 26 - Definition of a person	",,,No,139
+Smith,West Raleigh,"Measure No. 26 - Definition of a person	",,,No,170
+Smith,White Oak,"Measure No. 26 - Definition of a person	",,,No,121
+Smith,Burns,"Measure No. 26 - Definition of a person	",,,No,114
+Smith,Clear Springs-Pineville,"Measure No. 26 - Definition of a person	",,,No,96
+Smith,Lorena-Spinola,"Measure No. 26 - Definition of a person	",,,No,94
+Smith,North Raleigh,"Measure No. 26 - Definition of a person	",,,No,339
+Smith,Ag-Complex,"Measure No. 26 - Definition of a person	",,,"	Over votes",0
+Smith,Center Ridge,"Measure No. 26 - Definition of a person	",,,"	Over votes",0
+Smith,Mize,"Measure No. 26 - Definition of a person	",,,"	Over votes",0
+Smith,Sylvarena,"Measure No. 26 - Definition of a person	",,,"	Over votes",0
+Smith,Cedar Grove,"Measure No. 26 - Definition of a person	",,,"	Over votes",0
+Smith,Summerland,"Measure No. 26 - Definition of a person	",,,"	Over votes",0
+Smith,Union-New Home,"Measure No. 26 - Definition of a person	",,,"	Over votes",0
+Smith,Warren Hill,"Measure No. 26 - Definition of a person	",,,"	Over votes",0
+Smith,Taylorsville,"Measure No. 26 - Definition of a person	",,,"	Over votes",0
+Smith,Zion Hill-New Haven,"Measure No. 26 - Definition of a person	",,,"	Over votes",0
+Smith,Polkville-77,"Measure No. 26 - Definition of a person	",,,"	Over votes",0
+Smith,Polkville-79,"Measure No. 26 - Definition of a person	",,,"	Over votes",0
+Smith,Shady Grove,"Measure No. 26 - Definition of a person	",,,"	Over votes",0
+Smith,West Raleigh,"Measure No. 26 - Definition of a person	",,,"	Over votes",0
+Smith,White Oak,"Measure No. 26 - Definition of a person	",,,"	Over votes",0
+Smith,Burns,"Measure No. 26 - Definition of a person	",,,"	Over votes",0
+Smith,Clear Springs-Pineville,"Measure No. 26 - Definition of a person	",,,"	Over votes",0
+Smith,Lorena-Spinola,"Measure No. 26 - Definition of a person	",,,"	Over votes",0
+Smith,North Raleigh,"Measure No. 26 - Definition of a person	",,,"	Over votes",0
+Smith,Ag-Complex,"Measure No. 26 - Definition of a person	",,,"Under votes	",11
+Smith,Center Ridge,"Measure No. 26 - Definition of a person	",,,"Under votes	",7
+Smith,Mize,"Measure No. 26 - Definition of a person	",,,"Under votes	",12
+Smith,Sylvarena,"Measure No. 26 - Definition of a person	",,,"Under votes	",7
+Smith,Cedar Grove,"Measure No. 26 - Definition of a person	",,,"Under votes	",0
+Smith,Summerland,"Measure No. 26 - Definition of a person	",,,"Under votes	",18
+Smith,Union-New Home,"Measure No. 26 - Definition of a person	",,,"Under votes	",6
+Smith,Warren Hill,"Measure No. 26 - Definition of a person	",,,"Under votes	",4
+Smith,Taylorsville,"Measure No. 26 - Definition of a person	",,,"Under votes	",17
+Smith,Zion Hill-New Haven,"Measure No. 26 - Definition of a person	",,,"Under votes	",14
+Smith,Polkville-77,"Measure No. 26 - Definition of a person	",,,"Under votes	",16
+Smith,Polkville-79,"Measure No. 26 - Definition of a person	",,,"Under votes	",2
+Smith,Shady Grove,"Measure No. 26 - Definition of a person	",,,"Under votes	",11
+Smith,West Raleigh,"Measure No. 26 - Definition of a person	",,,"Under votes	",16
+Smith,White Oak,"Measure No. 26 - Definition of a person	",,,"Under votes	",4
+Smith,Burns,"Measure No. 26 - Definition of a person	",,,"Under votes	",9
+Smith,Clear Springs-Pineville,"Measure No. 26 - Definition of a person	",,,"Under votes	",10
+Smith,Lorena-Spinola,"Measure No. 26 - Definition of a person	",,,"Under votes	",0
+Smith,North Raleigh,"Measure No. 26 - Definition of a person	",,,"Under votes	",14
+Smith,Ag-Complex,"Measure No. 27 - Voter ID	",,,Yes,372
+Smith,Center Ridge,"Measure No. 27 - Voter ID	",,,Yes,309
+Smith,Mize,"Measure No. 27 - Voter ID	",,,Yes,297
+Smith,Sylvarena,"Measure No. 27 - Voter ID	",,,Yes,136
+Smith,Cedar Grove,"Measure No. 27 - Voter ID	",,,Yes,75
+Smith,Summerland,"Measure No. 27 - Voter ID	",,,Yes,259
+Smith,Union-New Home,"Measure No. 27 - Voter ID	",,,Yes,272
+Smith,Warren Hill,"Measure No. 27 - Voter ID	",,,Yes,61
+Smith,Taylorsville,"Measure No. 27 - Voter ID	",,,Yes,631
+Smith,Zion Hill-New Haven,"Measure No. 27 - Voter ID	",,,Yes,388
+Smith,Polkville-77,"Measure No. 27 - Voter ID	",,,Yes,262
+Smith,Polkville-79,"Measure No. 27 - Voter ID	",,,Yes,72
+Smith,Shady Grove,"Measure No. 27 - Voter ID	",,,Yes,321
+Smith,West Raleigh,"Measure No. 27 - Voter ID	",,,Yes,232
+Smith,White Oak,"Measure No. 27 - Voter ID	",,,Yes,239
+Smith,Burns,"Measure No. 27 - Voter ID	",,,Yes,135
+Smith,Clear Springs-Pineville,"Measure No. 27 - Voter ID	",,,Yes,175
+Smith,Lorena-Spinola,"Measure No. 27 - Voter ID	",,,Yes,193
+Smith,North Raleigh,"Measure No. 27 - Voter ID	",,,Yes,352
+Smith,Ag-Complex,"Measure No. 27 - Voter ID	",,,No,102
+Smith,Center Ridge,"Measure No. 27 - Voter ID	",,,No,73
+Smith,Mize,"Measure No. 27 - Voter ID	",,,No,76
+Smith,Sylvarena,"Measure No. 27 - Voter ID	",,,No,38
+Smith,Cedar Grove,"Measure No. 27 - Voter ID	",,,No,61
+Smith,Summerland,"Measure No. 27 - Voter ID	",,,No,301
+Smith,Union-New Home,"Measure No. 27 - Voter ID	",,,No,146
+Smith,Warren Hill,"Measure No. 27 - Voter ID	",,,No,236
+Smith,Taylorsville,"Measure No. 27 - Voter ID	",,,No,146
+Smith,Zion Hill-New Haven,"Measure No. 27 - Voter ID	",,,No,169
+Smith,Polkville-77,"Measure No. 27 - Voter ID	",,,No,47
+Smith,Polkville-79,"Measure No. 27 - Voter ID	",,,No,18
+Smith,Shady Grove,"Measure No. 27 - Voter ID	",,,No,91
+Smith,West Raleigh,"Measure No. 27 - Voter ID	",,,No,108
+Smith,White Oak,"Measure No. 27 - Voter ID	",,,No,85
+Smith,Burns,"Measure No. 27 - Voter ID	",,,No,81
+Smith,Clear Springs-Pineville,"Measure No. 27 - Voter ID	",,,No,63
+Smith,Lorena-Spinola,"Measure No. 27 - Voter ID	",,,No,50
+Smith,North Raleigh,"Measure No. 27 - Voter ID	",,,No,249
+Smith,Ag-Complex,"Measure No. 27 - Voter ID	",,,"	Over votes",0
+Smith,Center Ridge,"Measure No. 27 - Voter ID	",,,"	Over votes",0
+Smith,Mize,"Measure No. 27 - Voter ID	",,,"	Over votes",0
+Smith,Sylvarena,"Measure No. 27 - Voter ID	",,,"	Over votes",0
+Smith,Cedar Grove,"Measure No. 27 - Voter ID	",,,"	Over votes",0
+Smith,Summerland,"Measure No. 27 - Voter ID	",,,"	Over votes",0
+Smith,Union-New Home,"Measure No. 27 - Voter ID	",,,"	Over votes",0
+Smith,Warren Hill,"Measure No. 27 - Voter ID	",,,"	Over votes",0
+Smith,Taylorsville,"Measure No. 27 - Voter ID	",,,"	Over votes",0
+Smith,Zion Hill-New Haven,"Measure No. 27 - Voter ID	",,,"	Over votes",0
+Smith,Polkville-77,"Measure No. 27 - Voter ID	",,,"	Over votes",0
+Smith,Polkville-79,"Measure No. 27 - Voter ID	",,,"	Over votes",0
+Smith,Shady Grove,"Measure No. 27 - Voter ID	",,,"	Over votes",0
+Smith,West Raleigh,"Measure No. 27 - Voter ID	",,,"	Over votes",0
+Smith,White Oak,"Measure No. 27 - Voter ID	",,,"	Over votes",0
+Smith,Burns,"Measure No. 27 - Voter ID	",,,"	Over votes",0
+Smith,Clear Springs-Pineville,"Measure No. 27 - Voter ID	",,,"	Over votes",0
+Smith,Lorena-Spinola,"Measure No. 27 - Voter ID	",,,"	Over votes",0
+Smith,North Raleigh,"Measure No. 27 - Voter ID	",,,"	Over votes",0
+Smith,Ag-Complex,"Measure No. 27 - Voter ID	",,,"Under votes	",7
+Smith,Center Ridge,"Measure No. 27 - Voter ID	",,,"Under votes	",8
+Smith,Mize,"Measure No. 27 - Voter ID	",,,"Under votes	",14
+Smith,Sylvarena,"Measure No. 27 - Voter ID	",,,"Under votes	",6
+Smith,Cedar Grove,"Measure No. 27 - Voter ID	",,,"Under votes	",1
+Smith,Summerland,"Measure No. 27 - Voter ID	",,,"Under votes	",21
+Smith,Union-New Home,"Measure No. 27 - Voter ID	",,,"Under votes	",8
+Smith,Warren Hill,"Measure No. 27 - Voter ID	",,,"Under votes	",5
+Smith,Taylorsville,"Measure No. 27 - Voter ID	",,,"Under votes	",12
+Smith,Zion Hill-New Haven,"Measure No. 27 - Voter ID	",,,"Under votes	",11
+Smith,Polkville-77,"Measure No. 27 - Voter ID	",,,"Under votes	",6
+Smith,Polkville-79,"Measure No. 27 - Voter ID	",,,"Under votes	",6
+Smith,Shady Grove,"Measure No. 27 - Voter ID	",,,"Under votes	",11
+Smith,West Raleigh,"Measure No. 27 - Voter ID	",,,"Under votes	",14
+Smith,White Oak,"Measure No. 27 - Voter ID	",,,"Under votes	",3
+Smith,Burns,"Measure No. 27 - Voter ID	",,,"Under votes	",12
+Smith,Clear Springs-Pineville,"Measure No. 27 - Voter ID	",,,"Under votes	",8
+Smith,Lorena-Spinola,"Measure No. 27 - Voter ID	",,,"Under votes	",2
+Smith,North Raleigh,"Measure No. 27 - Voter ID	",,,"Under votes	",14
+Smith,Ag-Complex,"Measure No. 31 - Eminent Domain	",,,Yes,379
+Smith,Center Ridge,"Measure No. 31 - Eminent Domain	",,,Yes,317
+Smith,Mize,"Measure No. 31 - Eminent Domain	",,,Yes,314
+Smith,Sylvarena,"Measure No. 31 - Eminent Domain	",,,Yes,147
+Smith,Cedar Grove,"Measure No. 31 - Eminent Domain	",,,Yes,101
+Smith,Summerland,"Measure No. 31 - Eminent Domain	",,,Yes,371
+Smith,Union-New Home,"Measure No. 31 - Eminent Domain	",,,Yes,332
+Smith,Warren Hill,"Measure No. 31 - Eminent Domain	",,,Yes,215
+Smith,Taylorsville,"Measure No. 31 - Eminent Domain	",,,Yes,647
+Smith,Zion Hill-New Haven,"Measure No. 31 - Eminent Domain	",,,Yes,436
+Smith,Polkville-77,"Measure No. 31 - Eminent Domain	",,,Yes,255
+Smith,Polkville-79,"Measure No. 31 - Eminent Domain	",,,Yes,71
+Smith,Shady Grove,"Measure No. 31 - Eminent Domain	",,,Yes,354
+Smith,West Raleigh,"Measure No. 31 - Eminent Domain	",,,Yes,265
+Smith,White Oak,"Measure No. 31 - Eminent Domain	",,,Yes,275
+Smith,Burns,"Measure No. 31 - Eminent Domain	",,,Yes,173
+Smith,Clear Springs-Pineville,"Measure No. 31 - Eminent Domain	",,,Yes,191
+Smith,Lorena-Spinola,"Measure No. 31 - Eminent Domain	",,,Yes,215
+Smith,North Raleigh,"Measure No. 31 - Eminent Domain	",,,Yes,411
+Smith,Ag-Complex,"Measure No. 31 - Eminent Domain	",,,No,99
+Smith,Center Ridge,"Measure No. 31 - Eminent Domain	",,,No,64
+Smith,Mize,"Measure No. 31 - Eminent Domain	",,,No,59
+Smith,Sylvarena,"Measure No. 31 - Eminent Domain	",,,No,29
+Smith,Cedar Grove,"Measure No. 31 - Eminent Domain	",,,No,35
+Smith,Summerland,"Measure No. 31 - Eminent Domain	",,,No,189
+Smith,Union-New Home,"Measure No. 31 - Eminent Domain	",,,No,92
+Smith,Warren Hill,"Measure No. 31 - Eminent Domain	",,,No,81
+Smith,Taylorsville,"Measure No. 31 - Eminent Domain	",,,No,128
+Smith,Zion Hill-New Haven,"Measure No. 31 - Eminent Domain	",,,No,124
+Smith,Polkville-77,"Measure No. 31 - Eminent Domain	",,,No,53
+Smith,Polkville-79,"Measure No. 31 - Eminent Domain	",,,No,23
+Smith,Shady Grove,"Measure No. 31 - Eminent Domain	",,,No,64
+Smith,West Raleigh,"Measure No. 31 - Eminent Domain	",,,No,78
+Smith,White Oak,"Measure No. 31 - Eminent Domain	",,,No,47
+Smith,Burns,"Measure No. 31 - Eminent Domain	",,,No,45
+Smith,Clear Springs-Pineville,"Measure No. 31 - Eminent Domain	",,,No,48
+Smith,Lorena-Spinola,"Measure No. 31 - Eminent Domain	",,,No,30
+Smith,North Raleigh,"Measure No. 31 - Eminent Domain	",,,No,193
+Smith,Ag-Complex,"Measure No. 31 - Eminent Domain	",,,"	Over votes",0
+Smith,Center Ridge,"Measure No. 31 - Eminent Domain	",,,"	Over votes",0
+Smith,Mize,"Measure No. 31 - Eminent Domain	",,,"	Over votes",0
+Smith,Sylvarena,"Measure No. 31 - Eminent Domain	",,,"	Over votes",0
+Smith,Cedar Grove,"Measure No. 31 - Eminent Domain	",,,"	Over votes",0
+Smith,Summerland,"Measure No. 31 - Eminent Domain	",,,"	Over votes",0
+Smith,Union-New Home,"Measure No. 31 - Eminent Domain	",,,"	Over votes",0
+Smith,Warren Hill,"Measure No. 31 - Eminent Domain	",,,"	Over votes",0
+Smith,Taylorsville,"Measure No. 31 - Eminent Domain	",,,"	Over votes",0
+Smith,Zion Hill-New Haven,"Measure No. 31 - Eminent Domain	",,,"	Over votes",0
+Smith,Polkville-77,"Measure No. 31 - Eminent Domain	",,,"	Over votes",0
+Smith,Polkville-79,"Measure No. 31 - Eminent Domain	",,,"	Over votes",0
+Smith,Shady Grove,"Measure No. 31 - Eminent Domain	",,,"	Over votes",0
+Smith,West Raleigh,"Measure No. 31 - Eminent Domain	",,,"	Over votes",0
+Smith,White Oak,"Measure No. 31 - Eminent Domain	",,,"	Over votes",0
+Smith,Burns,"Measure No. 31 - Eminent Domain	",,,"	Over votes",0
+Smith,Clear Springs-Pineville,"Measure No. 31 - Eminent Domain	",,,"	Over votes",0
+Smith,Lorena-Spinola,"Measure No. 31 - Eminent Domain	",,,"	Over votes",0
+Smith,North Raleigh,"Measure No. 31 - Eminent Domain	",,,"	Over votes",0
+Smith,Ag-Complex,"Measure No. 31 - Eminent Domain	",,,"Under votes	",3
+Smith,Center Ridge,"Measure No. 31 - Eminent Domain	",,,"Under votes	",9
+Smith,Mize,"Measure No. 31 - Eminent Domain	",,,"Under votes	",13
+Smith,Sylvarena,"Measure No. 31 - Eminent Domain	",,,"Under votes	",4
+Smith,Cedar Grove,"Measure No. 31 - Eminent Domain	",,,"Under votes	",1
+Smith,Summerland,"Measure No. 31 - Eminent Domain	",,,"Under votes	",21
+Smith,Union-New Home,"Measure No. 31 - Eminent Domain	",,,"Under votes	",3
+Smith,Warren Hill,"Measure No. 31 - Eminent Domain	",,,"Under votes	",6
+Smith,Taylorsville,"Measure No. 31 - Eminent Domain	",,,"Under votes	",7
+Smith,Zion Hill-New Haven,"Measure No. 31 - Eminent Domain	",,,"Under votes	",9
+Smith,Polkville-77,"Measure No. 31 - Eminent Domain	",,,"Under votes	",7
+Smith,Polkville-79,"Measure No. 31 - Eminent Domain	",,,"Under votes	",2
+Smith,Shady Grove,"Measure No. 31 - Eminent Domain	",,,"Under votes	",5
+Smith,West Raleigh,"Measure No. 31 - Eminent Domain	",,,"Under votes	",11
+Smith,White Oak,"Measure No. 31 - Eminent Domain	",,,"Under votes	",5
+Smith,Burns,"Measure No. 31 - Eminent Domain	",,,"Under votes	",11
+Smith,Clear Springs-Pineville,"Measure No. 31 - Eminent Domain	",,,"Under votes	",7
+Smith,Lorena-Spinola,"Measure No. 31 - Eminent Domain	",,,"Under votes	",0
+Smith,North Raleigh,"Measure No. 31 - Eminent Domain	",,,"Under votes	",11

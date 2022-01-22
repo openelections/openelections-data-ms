@@ -426,26 +426,255 @@ Walthall,Darbun,State House,99,Republican,Bill Pigott,171
 Walthall,Enon,State House,99,Republican,Bill Pigott,138
 Walthall,St Paul,State House,99,Republican,Bill Pigott,116
 Walthall,Hope,State House,99,Republican,Bill Pigott,78
-Walthall,,Governor,,Republican,Phil Bryant,3261
-Walthall,,Governor,,Democrat,Johnny L. DuPree,2068
-Walthall,,Lieutenant Governor,,Reform,Tracella Lou O'Hara Hill,950
-Walthall,,Lieutenant Governor,,Republican,Tate Reeves,3786
-Walthall,,Secretary of State,,Republican,Delbert Hosemann,4118
-Walthall,,Attorney General,,Democrat,Jim Hood,3263
-Walthall,,Attorney General,,Republican,Steve Simpson,1923
-Walthall,,State Auditor,,Reform,Ashley Norwood,1115
-Walthall,,State Auditor,,Republican,Stacey E. Pickering,3468
-Walthall,,Treasurer,,Republican,Lynn Fitch,3120
-Walthall,,Treasurer,,Democrat,Connie Moran,1839
-Walthall,,Treasurer,,Reform,Shawn O'Hara,219
-Walthall,,Commissioner of Agriculture & Commerce,,Democrat,Joel Gill,2225
-Walthall,,Commissioner of Agriculture & Commerce,,Republican,Cindy Hyde-Smith,2801
-Walthall,,Commissioner of Agriculture & Commerce,,Reform,Cathy L. Toole,101
-Walthall,,Commissioner of Insurance,,Republican,Mike Chaney,3217
-Walthall,,Commissioner of Insurance,,Democrat,Louis Fondren,1726
-Walthall,,Commissioner of Insurance,,Reform,Barbara Dale Washer,168
-Walthall,,State Senate,38,Democrat,Kelvin E. Butler,1127
-Walthall,,State Senate,40,Republican,Angela Burks Hill,3010
-Walthall,,State House,97,Republican,"Sam C. Mims, V",285
-Walthall,,State House,98,Democrat,David W. Myers,473
-Walthall,,State House,99,Republican,Bill Pigott,3493
+Walthall,Midway,Measure No. 26 - Definition of a person,,,Yes,85
+Walthall,Lexie,Measure No. 26 - Definition of a person,,,Yes,253
+Walthall,South Kirklin,Measure No. 26 - Definition of a person,,,Yes,59
+Walthall,North Kirklin,Measure No. 26 - Definition of a person,,,Yes,124
+Walthall,East Tylertown,Measure No. 26 - Definition of a person,,,Yes,45
+Walthall,West Tylertown,Measure No. 26 - Definition of a person,,,Yes,92
+Walthall,Mesa,Measure No. 26 - Definition of a person,,,Yes,26
+Walthall,South Knoxo,Measure No. 26 - Definition of a person,,,Yes,38
+Walthall,North Knoxo,Measure No. 26 - Definition of a person,,,Yes,86
+Walthall,Dexter,Measure No. 26 - Definition of a person,,,Yes,210
+Walthall,Improve,Measure No. 26 - Definition of a person,,,Yes,208
+Walthall,3rd District Tylertown,Measure No. 26 - Definition of a person,,,Yes,107
+Walthall,4th District Tylertown,Measure No. 26 - Definition of a person,,,Yes,196
+Walthall,Varnel,Measure No. 26 - Definition of a person,,,Yes,195
+Walthall,Sartinsville,Measure No. 26 - Definition of a person,,,Yes,64
+Walthall,4th District West,Measure No. 26 - Definition of a person,,,Yes,69
+Walthall,Darbun,Measure No. 26 - Definition of a person,,,Yes,161
+Walthall,Dinan,Measure No. 26 - Definition of a person,,,Yes,146
+Walthall,Enon,Measure No. 26 - Definition of a person,,,Yes,132
+Walthall,St Paul,Measure No. 26 - Definition of a person,,,Yes,47
+Walthall,Hope,Measure No. 26 - Definition of a person,,,Yes,38
+Walthall,Midway,Measure No. 26 - Definition of a person,,,No,59
+Walthall,Lexie,Measure No. 26 - Definition of a person,,,No,229
+Walthall,South Kirklin,Measure No. 26 - Definition of a person,,,No,56
+Walthall,North Kirklin,Measure No. 26 - Definition of a person,,,No,191
+Walthall,East Tylertown,Measure No. 26 - Definition of a person,,,No,26
+Walthall,West Tylertown,Measure No. 26 - Definition of a person,,,No,170
+Walthall,Mesa,Measure No. 26 - Definition of a person,,,No,17
+Walthall,South Knoxo,Measure No. 26 - Definition of a person,,,No,47
+Walthall,North Knoxo,Measure No. 26 - Definition of a person,,,No,289
+Walthall,Dexter,Measure No. 26 - Definition of a person,,,No,189
+Walthall,Improve,Measure No. 26 - Definition of a person,,,No,112
+Walthall,3rd District Tylertown,Measure No. 26 - Definition of a person,,,No,153
+Walthall,4th District Tylertown,Measure No. 26 - Definition of a person,,,No,171
+Walthall,Varnel,Measure No. 26 - Definition of a person,,,No,207
+Walthall,Sartinsville,Measure No. 26 - Definition of a person,,,No,82
+Walthall,4th District West,Measure No. 26 - Definition of a person,,,No,67
+Walthall,Darbun,Measure No. 26 - Definition of a person,,,No,86
+Walthall,Dinan,Measure No. 26 - Definition of a person,,,No,248
+Walthall,Enon,Measure No. 26 - Definition of a person,,,No,81
+Walthall,St Paul,Measure No. 26 - Definition of a person,,,No,133
+Walthall,Hope,Measure No. 26 - Definition of a person,,,No,111
+Walthall,Midway,Measure No. 26 - Definition of a person,,,Over Votes,0
+Walthall,Lexie,Measure No. 26 - Definition of a person,,,Over Votes,0
+Walthall,South Kirklin,Measure No. 26 - Definition of a person,,,Over Votes,0
+Walthall,North Kirklin,Measure No. 26 - Definition of a person,,,Over Votes,0
+Walthall,East Tylertown,Measure No. 26 - Definition of a person,,,Over Votes,0
+Walthall,West Tylertown,Measure No. 26 - Definition of a person,,,Over Votes,0
+Walthall,Mesa,Measure No. 26 - Definition of a person,,,Over Votes,0
+Walthall,South Knoxo,Measure No. 26 - Definition of a person,,,Over Votes,0
+Walthall,North Knoxo,Measure No. 26 - Definition of a person,,,Over Votes,0
+Walthall,Dexter,Measure No. 26 - Definition of a person,,,Over Votes,0
+Walthall,Improve,Measure No. 26 - Definition of a person,,,Over Votes,0
+Walthall,3rd District Tylertown,Measure No. 26 - Definition of a person,,,Over Votes,0
+Walthall,4th District Tylertown,Measure No. 26 - Definition of a person,,,Over Votes,0
+Walthall,Varnel,Measure No. 26 - Definition of a person,,,Over Votes,0
+Walthall,Sartinsville,Measure No. 26 - Definition of a person,,,Over Votes,0
+Walthall,4th District West,Measure No. 26 - Definition of a person,,,Over Votes,0
+Walthall,Darbun,Measure No. 26 - Definition of a person,,,Over Votes,0
+Walthall,Dinan,Measure No. 26 - Definition of a person,,,Over Votes,0
+Walthall,Enon,Measure No. 26 - Definition of a person,,,Over Votes,0
+Walthall,St Paul,Measure No. 26 - Definition of a person,,,Over Votes,0
+Walthall,Hope,Measure No. 26 - Definition of a person,,,Over Votes,0
+Walthall,Midway,Measure No. 26 - Definition of a person,,,Under Votes,5
+Walthall,Lexie,Measure No. 26 - Definition of a person,,,Under Votes,24
+Walthall,South Kirklin,Measure No. 26 - Definition of a person,,,Under Votes,6
+Walthall,North Kirklin,Measure No. 26 - Definition of a person,,,Under Votes,14
+Walthall,East Tylertown,Measure No. 26 - Definition of a person,,,Under Votes,1
+Walthall,West Tylertown,Measure No. 26 - Definition of a person,,,Under Votes,27
+Walthall,Mesa,Measure No. 26 - Definition of a person,,,Under Votes,1
+Walthall,South Knoxo,Measure No. 26 - Definition of a person,,,Under Votes,8
+Walthall,North Knoxo,Measure No. 26 - Definition of a person,,,Under Votes,19
+Walthall,Dexter,Measure No. 26 - Definition of a person,,,Under Votes,18
+Walthall,Improve,Measure No. 26 - Definition of a person,,,Under Votes,31
+Walthall,3rd District Tylertown,Measure No. 26 - Definition of a person,,,Under Votes,4
+Walthall,4th District Tylertown,Measure No. 26 - Definition of a person,,,Under Votes,0
+Walthall,Varnel,Measure No. 26 - Definition of a person,,,Under Votes,10
+Walthall,Sartinsville,Measure No. 26 - Definition of a person,,,Under Votes,6
+Walthall,4th District West,Measure No. 26 - Definition of a person,,,Under Votes,1
+Walthall,Darbun,Measure No. 26 - Definition of a person,,,Under Votes,6
+Walthall,Dinan,Measure No. 26 - Definition of a person,,,Under Votes,23
+Walthall,Enon,Measure No. 26 - Definition of a person,,,Under Votes,2
+Walthall,St Paul,Measure No. 26 - Definition of a person,,,Under Votes,5
+Walthall,Hope,Measure No. 26 - Definition of a person,,,Under Votes,19
+Walthall,Midway,Measure No. 27 - Voter ID,,,Yes,106
+Walthall,Lexie,Measure No. 27 - Voter ID,,,Yes,400
+Walthall,South Kirklin,Measure No. 27 - Voter ID,,,Yes,74
+Walthall,North Kirklin,Measure No. 27 - Voter ID,,,Yes,161
+Walthall,East Tylertown,Measure No. 27 - Voter ID,,,Yes,58
+Walthall,West Tylertown,Measure No. 27 - Voter ID,,,Yes,128
+Walthall,Mesa,Measure No. 27 - Voter ID,,,Yes,38
+Walthall,South Knoxo,Measure No. 27 - Voter ID,,,Yes,59
+Walthall,North Knoxo,Measure No. 27 - Voter ID,,,Yes,84
+Walthall,Dexter,Measure No. 27 - Voter ID,,,Yes,300
+Walthall,Improve,Measure No. 27 - Voter ID,,,Yes,233
+Walthall,3rd District Tylertown,Measure No. 27 - Voter ID,,,Yes,196
+Walthall,4th District Tylertown,Measure No. 27 - Voter ID,,,Yes,305
+Walthall,Varnel,Measure No. 27 - Voter ID,,,Yes,281
+Walthall,Sartinsville,Measure No. 27 - Voter ID,,,Yes,99
+Walthall,4th District West,Measure No. 27 - Voter ID,,,Yes,116
+Walthall,Darbun,Measure No. 27 - Voter ID,,,Yes,194
+Walthall,Dinan,Measure No. 27 - Voter ID,,,Yes,155
+Walthall,Enon,Measure No. 27 - Voter ID,,,Yes,144
+Walthall,St Paul,Measure No. 27 - Voter ID,,,Yes,72
+Walthall,Hope,Measure No. 27 - Voter ID,,,Yes,42
+Walthall,Midway,Measure No. 27 - Voter ID,,,No,36
+Walthall,Lexie,Measure No. 27 - Voter ID,,,No,89
+Walthall,South Kirklin,Measure No. 27 - Voter ID,,,No,46
+Walthall,North Kirklin,Measure No. 27 - Voter ID,,,No,145
+Walthall,East Tylertown,Measure No. 27 - Voter ID,,,No,14
+Walthall,West Tylertown,Measure No. 27 - Voter ID,,,No,133
+Walthall,Mesa,Measure No. 27 - Voter ID,,,No,5
+Walthall,South Knoxo,Measure No. 27 - Voter ID,,,No,26
+Walthall,North Knoxo,Measure No. 27 - Voter ID,,,No,281
+Walthall,Dexter,Measure No. 27 - Voter ID,,,No,102
+Walthall,Improve,Measure No. 27 - Voter ID,,,No,95
+Walthall,3rd District Tylertown,Measure No. 27 - Voter ID,,,No,65
+Walthall,4th District Tylertown,Measure No. 27 - Voter ID,,,No,67
+Walthall,Varnel,Measure No. 27 - Voter ID,,,No,120
+Walthall,Sartinsville,Measure No. 27 - Voter ID,,,No,49
+Walthall,4th District West,Measure No. 27 - Voter ID,,,No,24
+Walthall,Darbun,Measure No. 27 - Voter ID,,,No,52
+Walthall,Dinan,Measure No. 27 - Voter ID,,,No,231
+Walthall,Enon,Measure No. 27 - Voter ID,,,No,67
+Walthall,St Paul,Measure No. 27 - Voter ID,,,No,105
+Walthall,Hope,Measure No. 27 - Voter ID,,,No,106
+Walthall,Midway,Measure No. 27 - Voter ID,,,Over Votes,0
+Walthall,Lexie,Measure No. 27 - Voter ID,,,Over Votes,0
+Walthall,South Kirklin,Measure No. 27 - Voter ID,,,Over Votes,0
+Walthall,North Kirklin,Measure No. 27 - Voter ID,,,Over Votes,0
+Walthall,East Tylertown,Measure No. 27 - Voter ID,,,Over Votes,0
+Walthall,West Tylertown,Measure No. 27 - Voter ID,,,Over Votes,0
+Walthall,Mesa,Measure No. 27 - Voter ID,,,Over Votes,0
+Walthall,South Knoxo,Measure No. 27 - Voter ID,,,Over Votes,0
+Walthall,North Knoxo,Measure No. 27 - Voter ID,,,Over Votes,0
+Walthall,Dexter,Measure No. 27 - Voter ID,,,Over Votes,0
+Walthall,Improve,Measure No. 27 - Voter ID,,,Over Votes,0
+Walthall,3rd District Tylertown,Measure No. 27 - Voter ID,,,Over Votes,0
+Walthall,4th District Tylertown,Measure No. 27 - Voter ID,,,Over Votes,0
+Walthall,Varnel,Measure No. 27 - Voter ID,,,Over Votes,0
+Walthall,Sartinsville,Measure No. 27 - Voter ID,,,Over Votes,0
+Walthall,4th District West,Measure No. 27 - Voter ID,,,Over Votes,0
+Walthall,Darbun,Measure No. 27 - Voter ID,,,Over Votes,0
+Walthall,Dinan,Measure No. 27 - Voter ID,,,Over Votes,0
+Walthall,Enon,Measure No. 27 - Voter ID,,,Over Votes,0
+Walthall,St Paul,Measure No. 27 - Voter ID,,,Over Votes,0
+Walthall,Hope,Measure No. 27 - Voter ID,,,Over Votes,0
+Walthall,Midway,Measure No. 27 - Voter ID,,,Under Votes,7
+Walthall,Lexie,Measure No. 27 - Voter ID,,,Under Votes,17
+Walthall,South Kirklin,Measure No. 27 - Voter ID,,,Under Votes,1
+Walthall,North Kirklin,Measure No. 27 - Voter ID,,,Under Votes,23
+Walthall,East Tylertown,Measure No. 27 - Voter ID,,,Under Votes,0
+Walthall,West Tylertown,Measure No. 27 - Voter ID,,,Under Votes,28
+Walthall,Mesa,Measure No. 27 - Voter ID,,,Under Votes,1
+Walthall,South Knoxo,Measure No. 27 - Voter ID,,,Under Votes,8
+Walthall,North Knoxo,Measure No. 27 - Voter ID,,,Under Votes,29
+Walthall,Dexter,Measure No. 27 - Voter ID,,,Under Votes,15
+Walthall,Improve,Measure No. 27 - Voter ID,,,Under Votes,23
+Walthall,3rd District Tylertown,Measure No. 27 - Voter ID,,,Under Votes,3
+Walthall,4th District Tylertown,Measure No. 27 - Voter ID,,,Under Votes,0
+Walthall,Varnel,Measure No. 27 - Voter ID,,,Under Votes,10
+Walthall,Sartinsville,Measure No. 27 - Voter ID,,,Under Votes,4
+Walthall,4th District West,Measure No. 27 - Voter ID,,,Under Votes,1
+Walthall,Darbun,Measure No. 27 - Voter ID,,,Under Votes,7
+Walthall,Dinan,Measure No. 27 - Voter ID,,,Under Votes,31
+Walthall,Enon,Measure No. 27 - Voter ID,,,Under Votes,2
+Walthall,St Paul,Measure No. 27 - Voter ID,,,Under Votes,8
+Walthall,Hope,Measure No. 27 - Voter ID,,,Under Votes,20
+Walthall,Midway,Measure No. 31 - Eminent Domain,,,Yes,113
+Walthall,Lexie,Measure No. 31 - Eminent Domain,,,Yes,390
+Walthall,South Kirklin,Measure No. 31 - Eminent Domain,,,Yes,82
+Walthall,North Kirklin,Measure No. 31 - Eminent Domain,,,Yes,195
+Walthall,East Tylertown,Measure No. 31 - Eminent Domain,,,Yes,61
+Walthall,West Tylertown,Measure No. 31 - Eminent Domain,,,Yes,174
+Walthall,Mesa,Measure No. 31 - Eminent Domain,,,Yes,39
+Walthall,South Knoxo,Measure No. 31 - Eminent Domain,,,Yes,66
+Walthall,North Knoxo,Measure No. 31 - Eminent Domain,,,Yes,233
+Walthall,Dexter,Measure No. 31 - Eminent Domain,,,Yes,300
+Walthall,Improve,Measure No. 31 - Eminent Domain,,,Yes,267
+Walthall,3rd District Tylertown,Measure No. 31 - Eminent Domain,,,Yes,199
+Walthall,4th District Tylertown,Measure No. 31 - Eminent Domain,,,Yes,311
+Walthall,Varnel,Measure No. 31 - Eminent Domain,,,Yes,297
+Walthall,Sartinsville,Measure No. 31 - Eminent Domain,,,Yes,115
+Walthall,4th District West,Measure No. 31 - Eminent Domain,,,Yes,108
+Walthall,Darbun,Measure No. 31 - Eminent Domain,,,Yes,183
+Walthall,Dinan,Measure No. 31 - Eminent Domain,,,Yes,241
+Walthall,Enon,Measure No. 31 - Eminent Domain,,,Yes,167
+Walthall,St Paul,Measure No. 31 - Eminent Domain,,,Yes,91
+Walthall,Hope,Measure No. 31 - Eminent Domain,,,Yes,86
+Walthall,Midway,Measure No. 31 - Eminent Domain,,,No,29
+Walthall,Lexie,Measure No. 31 - Eminent Domain,,,No,99
+Walthall,South Kirklin,Measure No. 31 - Eminent Domain,,,No,37
+Walthall,North Kirklin,Measure No. 31 - Eminent Domain,,,No,114
+Walthall,East Tylertown,Measure No. 31 - Eminent Domain,,,No,11
+Walthall,West Tylertown,Measure No. 31 - Eminent Domain,,,No,91
+Walthall,Mesa,Measure No. 31 - Eminent Domain,,,No,5
+Walthall,South Knoxo,Measure No. 31 - Eminent Domain,,,No,18
+Walthall,North Knoxo,Measure No. 31 - Eminent Domain,,,No,141
+Walthall,Dexter,Measure No. 31 - Eminent Domain,,,No,99
+Walthall,Improve,Measure No. 31 - Eminent Domain,,,No,62
+Walthall,3rd District Tylertown,Measure No. 31 - Eminent Domain,,,No,64
+Walthall,4th District Tylertown,Measure No. 31 - Eminent Domain,,,No,62
+Walthall,Varnel,Measure No. 31 - Eminent Domain,,,No,110
+Walthall,Sartinsville,Measure No. 31 - Eminent Domain,,,No,31
+Walthall,4th District West,Measure No. 31 - Eminent Domain,,,No,33
+Walthall,Darbun,Measure No. 31 - Eminent Domain,,,No,63
+Walthall,Dinan,Measure No. 31 - Eminent Domain,,,No,149
+Walthall,Enon,Measure No. 31 - Eminent Domain,,,No,47
+Walthall,St Paul,Measure No. 31 - Eminent Domain,,,No,85
+Walthall,Hope,Measure No. 31 - Eminent Domain,,,No,70
+Walthall,Midway,Measure No. 31 - Eminent Domain,,,Over Votes,0
+Walthall,Lexie,Measure No. 31 - Eminent Domain,,,Over Votes,0
+Walthall,South Kirklin,Measure No. 31 - Eminent Domain,,,Over Votes,0
+Walthall,North Kirklin,Measure No. 31 - Eminent Domain,,,Over Votes,0
+Walthall,East Tylertown,Measure No. 31 - Eminent Domain,,,Over Votes,0
+Walthall,West Tylertown,Measure No. 31 - Eminent Domain,,,Over Votes,0
+Walthall,Mesa,Measure No. 31 - Eminent Domain,,,Over Votes,0
+Walthall,South Knoxo,Measure No. 31 - Eminent Domain,,,Over Votes,0
+Walthall,North Knoxo,Measure No. 31 - Eminent Domain,,,Over Votes,0
+Walthall,Dexter,Measure No. 31 - Eminent Domain,,,Over Votes,0
+Walthall,Improve,Measure No. 31 - Eminent Domain,,,Over Votes,0
+Walthall,3rd District Tylertown,Measure No. 31 - Eminent Domain,,,Over Votes,0
+Walthall,4th District Tylertown,Measure No. 31 - Eminent Domain,,,Over Votes,0
+Walthall,Varnel,Measure No. 31 - Eminent Domain,,,Over Votes,0
+Walthall,Sartinsville,Measure No. 31 - Eminent Domain,,,Over Votes,0
+Walthall,4th District West,Measure No. 31 - Eminent Domain,,,Over Votes,0
+Walthall,Darbun,Measure No. 31 - Eminent Domain,,,Over Votes,0
+Walthall,Dinan,Measure No. 31 - Eminent Domain,,,Over Votes,0
+Walthall,Enon,Measure No. 31 - Eminent Domain,,,Over Votes,0
+Walthall,St Paul,Measure No. 31 - Eminent Domain,,,Over Votes,0
+Walthall,Hope,Measure No. 31 - Eminent Domain,,,Over Votes,0
+Walthall,Midway,Measure No. 31 - Eminent Domain,,,Under Votes,7
+Walthall,Lexie,Measure No. 31 - Eminent Domain,,,Under Votes,17
+Walthall,South Kirklin,Measure No. 31 - Eminent Domain,,,Under Votes,2
+Walthall,North Kirklin,Measure No. 31 - Eminent Domain,,,Under Votes,20
+Walthall,East Tylertown,Measure No. 31 - Eminent Domain,,,Under Votes,0
+Walthall,West Tylertown,Measure No. 31 - Eminent Domain,,,Under Votes,24
+Walthall,Mesa,Measure No. 31 - Eminent Domain,,,Under Votes,0
+Walthall,South Knoxo,Measure No. 31 - Eminent Domain,,,Under Votes,9
+Walthall,North Knoxo,Measure No. 31 - Eminent Domain,,,Under Votes,20
+Walthall,Dexter,Measure No. 31 - Eminent Domain,,,Under Votes,18
+Walthall,Improve,Measure No. 31 - Eminent Domain,,,Under Votes,22
+Walthall,3rd District Tylertown,Measure No. 31 - Eminent Domain,,,Under Votes,1
+Walthall,4th District Tylertown,Measure No. 31 - Eminent Domain,,,Under Votes,0
+Walthall,Varnel,Measure No. 31 - Eminent Domain,,,Under Votes,11
+Walthall,Sartinsville,Measure No. 31 - Eminent Domain,,,Under Votes,6
+Walthall,4th District West,Measure No. 31 - Eminent Domain,,,Under Votes,0
+Walthall,Darbun,Measure No. 31 - Eminent Domain,,,Under Votes,6
+Walthall,Dinan,Measure No. 31 - Eminent Domain,,,Under Votes,27
+Walthall,Enon,Measure No. 31 - Eminent Domain,,,Under Votes,1
+Walthall,St Paul,Measure No. 31 - Eminent Domain,,,Under Votes,9
+Walthall,Hope,Measure No. 31 - Eminent Domain,,,Under Votes,12

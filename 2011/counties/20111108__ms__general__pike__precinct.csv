@@ -670,29 +670,387 @@ Pike,(04) Mepa Bldg. Hwy 98 East,State House,99,Republican,Bill Pigott,256
 Pike,(08) Alpha Center,State House,99,Republican,Bill Pigott,23
 Pike,(13) Holmsville Comm.,State House,99,Republican,Bill Pigott,195
 Pike,(14) Calvary Baptist Church,State House,99,Republican,Bill Pigott,59
-Pike,,Governor,,Republican,Phil Bryant,6663
-Pike,,Governor,,Democrat,Johnny L. DuPree,6458
-Pike,,Lieutenant Governor,,Republican,Tate Reeves,8589
-Pike,,Lieutenant Governor,,Reform,Tracella Lou O'Hara Hill,2872
-Pike,,Secretary of State,,Republican,Delbert Hosemann,10097
-Pike,,Attorney General,,Democrat,Jim Hood,8831
-Pike,,Attorney General,,Republican,Steve Simpson,4029
-Pike,,State Auditor,,Republican,Stacey E. Pickering,7921
-Pike,,State Auditor,,Reform,Ashley Norwood,3315
-Pike,,Treasurer,,Republican,Lynn Fitch,6588
-Pike,,Treasurer,,Democrat,Connie Moran,5847
-Pike,,Treasurer,,Reform,Shawn O'Hara,371
-Pike,,Commissioner of Agriculture & Commerce,,Democrat,Joel Gill,6072
-Pike,,Commissioner of Agriculture & Commerce,,Republican,Cindy Hyde-Smith,6508
-Pike,,Commissioner of Agriculture & Commerce,,Reform,Cathy L. Toole,223
-Pike,,Commissioner of Insurance,,Republican,Mike Chaney,6877
-Pike,,Commissioner of Insurance,,Democrat,Louis Fondren,5421
-Pike,,Commissioner of Insurance,,Reform,Barbara Dale Washer,425
-Pike,,State Senate,37,Democrat,Bob M. Dearing,1689
-Pike,,State Senate,37,Republican,Melanie Sojourner,2760
-Pike,,State Senate,38,Democrat,Kelvin E. Butler,7733
-Pike,,State House,53,Democrat,Bobby Moak,420
-Pike,,State House,96,Democrat,Angela Cockerham,402
-Pike,,State House,97,Republican,"Sam C. Mims, V",4165
-Pike,,State House,98,Democrat,David W. Myers,6003
-Pike,,State House,99,Republican,Bill Pigott,651
+Pike,(01) Progress Library,"Measure No. 26 - Definition of a person	",,,Yes,205
+Pike,(02) Leggett Community,"Measure No. 26 - Definition of a person	",,,Yes,154
+Pike,(03) Pike Baptist Assoc. Bldg.,"Measure No. 26 - Definition of a person	",,,Yes,264
+Pike,(04) Mepa Bldg. Hwy 98 East,"Measure No. 26 - Definition of a person	",,,Yes,143
+Pike,(05) Pleasant Grove Bapt Church,"Measure No. 26 - Definition of a person	",,,Yes,73
+Pike,(06) Jewel Rushing Community Ctr,"Measure No. 26 - Definition of a person	",,,Yes,85
+Pike,(07) S. Pike Comm. Ctr.,"Measure No. 26 - Definition of a person	",,,Yes,66
+Pike,(08) Alpha Center,"Measure No. 26 - Definition of a person	",,,Yes,130
+Pike,(09) Fernwood School,"Measure No. 26 - Definition of a person	",,,Yes,159
+Pike,(10) Magnolia Comm Ctr.,"Measure No. 26 - Definition of a person	",,,Yes,220
+Pike,(11) Courthouse,"Measure No. 26 - Definition of a person	",,,Yes,163
+Pike,(12) Courthouse,"Measure No. 26 - Definition of a person	",,,Yes,58
+Pike,(13) Holmsville Comm.,"Measure No. 26 - Definition of a person	",,,Yes,194
+Pike,(14) Calvary Baptist Church,"Measure No. 26 - Definition of a person	",,,Yes,260
+Pike,(15) Old Jones School,"Measure No. 26 - Definition of a person	",,,Yes,175
+Pike,(16) New Hope Baptist Church,"Measure No. 26 - Definition of a person	",,,Yes,131
+Pike,(17) Entergy,"Measure No. 26 - Definition of a person	",,,Yes,92
+Pike,(18) Summit Learn. Ctr,"Measure No. 26 - Definition of a person	",,,Yes,74
+Pike,(19) Summit City Hall,"Measure No. 26 - Definition of a person	",,,Yes,229
+Pike,(20) Southwest BSU Bldg.,"Measure No. 26 - Definition of a person	",,,Yes,243
+Pike,(21) Johnson Chapel Meth. Church,"Measure No. 26 - Definition of a person	",,,Yes,329
+Pike,(22) Pisgah Methodist Church,"Measure No. 26 - Definition of a person	",,,Yes,182
+Pike,(23) Legacy Motors,"Measure No. 26 - Definition of a person	",,,Yes,201
+Pike,(24) Mlk Center,"Measure No. 26 - Definition of a person	",,,Yes,100
+Pike,(25) Pike Co. Nat. Bank,"Measure No. 26 - Definition of a person	",,,Yes,143
+Pike,(26) American Leg. Hut,"Measure No. 26 - Definition of a person	",,,Yes,130
+Pike,(27) Storehouse Church,"Measure No. 26 - Definition of a person	",,,Yes,60
+Pike,(28) Church Of Christ,"Measure No. 26 - Definition of a person	",,,Yes,177
+Pike,(29) Joe's Tractor,"Measure No. 26 - Definition of a person	",,,Yes,215
+Pike,(30) CHATAWA POST OFFICE,"Measure No. 26 - Definition of a person	",,,Yes,142
+Pike,(31) Osyka City Hall,"Measure No. 26 - Definition of a person	",,,Yes,123
+Pike,(32) Old Cent. School,"Measure No. 26 - Definition of a person	",,,Yes,151
+Pike,(01) Progress Library,"Measure No. 26 - Definition of a person	",,,No,308
+Pike,(02) Leggett Community,"Measure No. 26 - Definition of a person	",,,No,306
+Pike,(03) Pike Baptist Assoc. Bldg.,"Measure No. 26 - Definition of a person	",,,No,340
+Pike,(04) Mepa Bldg. Hwy 98 East,"Measure No. 26 - Definition of a person	",,,No,164
+Pike,(05) Pleasant Grove Bapt Church,"Measure No. 26 - Definition of a person	",,,No,185
+Pike,(06) Jewel Rushing Community Ctr,"Measure No. 26 - Definition of a person	",,,No,156
+Pike,(07) S. Pike Comm. Ctr.,"Measure No. 26 - Definition of a person	",,,No,147
+Pike,(08) Alpha Center,"Measure No. 26 - Definition of a person	",,,No,227
+Pike,(09) Fernwood School,"Measure No. 26 - Definition of a person	",,,No,259
+Pike,(10) Magnolia Comm Ctr.,"Measure No. 26 - Definition of a person	",,,No,411
+Pike,(11) Courthouse,"Measure No. 26 - Definition of a person	",,,No,279
+Pike,(12) Courthouse,"Measure No. 26 - Definition of a person	",,,No,152
+Pike,(13) Holmsville Comm.,"Measure No. 26 - Definition of a person	",,,No,251
+Pike,(14) Calvary Baptist Church,"Measure No. 26 - Definition of a person	",,,No,318
+Pike,(15) Old Jones School,"Measure No. 26 - Definition of a person	",,,No,188
+Pike,(16) New Hope Baptist Church,"Measure No. 26 - Definition of a person	",,,No,407
+Pike,(17) Entergy,"Measure No. 26 - Definition of a person	",,,No,159
+Pike,(18) Summit Learn. Ctr,"Measure No. 26 - Definition of a person	",,,No,146
+Pike,(19) Summit City Hall,"Measure No. 26 - Definition of a person	",,,No,329
+Pike,(20) Southwest BSU Bldg.,"Measure No. 26 - Definition of a person	",,,No,310
+Pike,(21) Johnson Chapel Meth. Church,"Measure No. 26 - Definition of a person	",,,No,251
+Pike,(22) Pisgah Methodist Church,"Measure No. 26 - Definition of a person	",,,No,183
+Pike,(23) Legacy Motors,"Measure No. 26 - Definition of a person	",,,No,289
+Pike,(24) Mlk Center,"Measure No. 26 - Definition of a person	",,,No,301
+Pike,(25) Pike Co. Nat. Bank,"Measure No. 26 - Definition of a person	",,,No,185
+Pike,(26) American Leg. Hut,"Measure No. 26 - Definition of a person	",,,No,180
+Pike,(27) Storehouse Church,"Measure No. 26 - Definition of a person	",,,No,98
+Pike,(28) Church Of Christ,"Measure No. 26 - Definition of a person	",,,No,307
+Pike,(29) Joe's Tractor,"Measure No. 26 - Definition of a person	",,,No,278
+Pike,(30) CHATAWA POST OFFICE,"Measure No. 26 - Definition of a person	",,,No,163
+Pike,(31) Osyka City Hall,"Measure No. 26 - Definition of a person	",,,No,136
+Pike,(32) Old Cent. School,"Measure No. 26 - Definition of a person	",,,No,211
+Pike,(01) Progress Library,"Measure No. 26 - Definition of a person	",,,"Over votes	",0
+Pike,(02) Leggett Community,"Measure No. 26 - Definition of a person	",,,"Over votes	",0
+Pike,(03) Pike Baptist Assoc. Bldg.,"Measure No. 26 - Definition of a person	",,,"Over votes	",0
+Pike,(04) Mepa Bldg. Hwy 98 East,"Measure No. 26 - Definition of a person	",,,"Over votes	",0
+Pike,(05) Pleasant Grove Bapt Church,"Measure No. 26 - Definition of a person	",,,"Over votes	",0
+Pike,(06) Jewel Rushing Community Ctr,"Measure No. 26 - Definition of a person	",,,"Over votes	",0
+Pike,(07) S. Pike Comm. Ctr.,"Measure No. 26 - Definition of a person	",,,"Over votes	",0
+Pike,(08) Alpha Center,"Measure No. 26 - Definition of a person	",,,"Over votes	",0
+Pike,(09) Fernwood School,"Measure No. 26 - Definition of a person	",,,"Over votes	",0
+Pike,(10) Magnolia Comm Ctr.,"Measure No. 26 - Definition of a person	",,,"Over votes	",0
+Pike,(11) Courthouse,"Measure No. 26 - Definition of a person	",,,"Over votes	",0
+Pike,(12) Courthouse,"Measure No. 26 - Definition of a person	",,,"Over votes	",0
+Pike,(13) Holmsville Comm.,"Measure No. 26 - Definition of a person	",,,"Over votes	",0
+Pike,(14) Calvary Baptist Church,"Measure No. 26 - Definition of a person	",,,"Over votes	",0
+Pike,(15) Old Jones School,"Measure No. 26 - Definition of a person	",,,"Over votes	",0
+Pike,(16) New Hope Baptist Church,"Measure No. 26 - Definition of a person	",,,"Over votes	",0
+Pike,(17) Entergy,"Measure No. 26 - Definition of a person	",,,"Over votes	",0
+Pike,(18) Summit Learn. Ctr,"Measure No. 26 - Definition of a person	",,,"Over votes	",0
+Pike,(19) Summit City Hall,"Measure No. 26 - Definition of a person	",,,"Over votes	",0
+Pike,(20) Southwest BSU Bldg.,"Measure No. 26 - Definition of a person	",,,"Over votes	",0
+Pike,(21) Johnson Chapel Meth. Church,"Measure No. 26 - Definition of a person	",,,"Over votes	",0
+Pike,(22) Pisgah Methodist Church,"Measure No. 26 - Definition of a person	",,,"Over votes	",0
+Pike,(23) Legacy Motors,"Measure No. 26 - Definition of a person	",,,"Over votes	",0
+Pike,(24) Mlk Center,"Measure No. 26 - Definition of a person	",,,"Over votes	",0
+Pike,(25) Pike Co. Nat. Bank,"Measure No. 26 - Definition of a person	",,,"Over votes	",0
+Pike,(26) American Leg. Hut,"Measure No. 26 - Definition of a person	",,,"Over votes	",0
+Pike,(27) Storehouse Church,"Measure No. 26 - Definition of a person	",,,"Over votes	",0
+Pike,(28) Church Of Christ,"Measure No. 26 - Definition of a person	",,,"Over votes	",0
+Pike,(29) Joe's Tractor,"Measure No. 26 - Definition of a person	",,,"Over votes	",0
+Pike,(30) CHATAWA POST OFFICE,"Measure No. 26 - Definition of a person	",,,"Over votes	",0
+Pike,(31) Osyka City Hall,"Measure No. 26 - Definition of a person	",,,"Over votes	",0
+Pike,(32) Old Cent. School,"Measure No. 26 - Definition of a person	",,,"Over votes	",0
+Pike,(01) Progress Library,"Measure No. 26 - Definition of a person	",,,"Under votes	",23
+Pike,(02) Leggett Community,"Measure No. 26 - Definition of a person	",,,"Under votes	",16
+Pike,(03) Pike Baptist Assoc. Bldg.,"Measure No. 26 - Definition of a person	",,,"Under votes	",3
+Pike,(04) Mepa Bldg. Hwy 98 East,"Measure No. 26 - Definition of a person	",,,"Under votes	",6
+Pike,(05) Pleasant Grove Bapt Church,"Measure No. 26 - Definition of a person	",,,"Under votes	",16
+Pike,(06) Jewel Rushing Community Ctr,"Measure No. 26 - Definition of a person	",,,"Under votes	",20
+Pike,(07) S. Pike Comm. Ctr.,"Measure No. 26 - Definition of a person	",,,"Under votes	",16
+Pike,(08) Alpha Center,"Measure No. 26 - Definition of a person	",,,"Under votes	",0
+Pike,(09) Fernwood School,"Measure No. 26 - Definition of a person	",,,"Under votes	",21
+Pike,(10) Magnolia Comm Ctr.,"Measure No. 26 - Definition of a person	",,,"Under votes	",30
+Pike,(11) Courthouse,"Measure No. 26 - Definition of a person	",,,"Under votes	",12
+Pike,(12) Courthouse,"Measure No. 26 - Definition of a person	",,,"Under votes	",20
+Pike,(13) Holmsville Comm.,"Measure No. 26 - Definition of a person	",,,"Under votes	",4
+Pike,(14) Calvary Baptist Church,"Measure No. 26 - Definition of a person	",,,"Under votes	",3
+Pike,(15) Old Jones School,"Measure No. 26 - Definition of a person	",,,"Under votes	",1
+Pike,(16) New Hope Baptist Church,"Measure No. 26 - Definition of a person	",,,"Under votes	",22
+Pike,(17) Entergy,"Measure No. 26 - Definition of a person	",,,"Under votes	",18
+Pike,(18) Summit Learn. Ctr,"Measure No. 26 - Definition of a person	",,,"Under votes	",11
+Pike,(19) Summit City Hall,"Measure No. 26 - Definition of a person	",,,"Under votes	",17
+Pike,(20) Southwest BSU Bldg.,"Measure No. 26 - Definition of a person	",,,"Under votes	",1
+Pike,(21) Johnson Chapel Meth. Church,"Measure No. 26 - Definition of a person	",,,"Under votes	",8
+Pike,(22) Pisgah Methodist Church,"Measure No. 26 - Definition of a person	",,,"Under votes	",8
+Pike,(23) Legacy Motors,"Measure No. 26 - Definition of a person	",,,"Under votes	",2
+Pike,(24) Mlk Center,"Measure No. 26 - Definition of a person	",,,"Under votes	",32
+Pike,(25) Pike Co. Nat. Bank,"Measure No. 26 - Definition of a person	",,,"Under votes	",5
+Pike,(26) American Leg. Hut,"Measure No. 26 - Definition of a person	",,,"Under votes	",0
+Pike,(27) Storehouse Church,"Measure No. 26 - Definition of a person	",,,"Under votes	",6
+Pike,(28) Church Of Christ,"Measure No. 26 - Definition of a person	",,,"Under votes	",8
+Pike,(29) Joe's Tractor,"Measure No. 26 - Definition of a person	",,,"Under votes	",0
+Pike,(30) CHATAWA POST OFFICE,"Measure No. 26 - Definition of a person	",,,"Under votes	",0
+Pike,(31) Osyka City Hall,"Measure No. 26 - Definition of a person	",,,"Under votes	",19
+Pike,(32) Old Cent. School,"Measure No. 26 - Definition of a person	",,,"Under votes	",18
+Pike,(01) Progress Library,"Measure No. 27 - Voter ID	",,,Yes,286
+Pike,(02) Leggett Community,"Measure No. 27 - Voter ID	",,,Yes,181
+Pike,(03) Pike Baptist Assoc. Bldg.,"Measure No. 27 - Voter ID	",,,Yes,368
+Pike,(04) Mepa Bldg. Hwy 98 East,"Measure No. 27 - Voter ID	",,,Yes,195
+Pike,(05) Pleasant Grove Bapt Church,"Measure No. 27 - Voter ID	",,,Yes,68
+Pike,(06) Jewel Rushing Community Ctr,"Measure No. 27 - Voter ID	",,,Yes,122
+Pike,(07) S. Pike Comm. Ctr.,"Measure No. 27 - Voter ID	",,,Yes,53
+Pike,(08) Alpha Center,"Measure No. 27 - Voter ID	",,,Yes,118
+Pike,(09) Fernwood School,"Measure No. 27 - Voter ID	",,,Yes,176
+Pike,(10) Magnolia Comm Ctr.,"Measure No. 27 - Voter ID	",,,Yes,281
+Pike,(11) Courthouse,"Measure No. 27 - Voter ID	",,,Yes,254
+Pike,(12) Courthouse,"Measure No. 27 - Voter ID	",,,Yes,68
+Pike,(13) Holmsville Comm.,"Measure No. 27 - Voter ID	",,,Yes,238
+Pike,(14) Calvary Baptist Church,"Measure No. 27 - Voter ID	",,,Yes,405
+Pike,(15) Old Jones School,"Measure No. 27 - Voter ID	",,,Yes,278
+Pike,(16) New Hope Baptist Church,"Measure No. 27 - Voter ID	",,,Yes,142
+Pike,(17) Entergy,"Measure No. 27 - Voter ID	",,,Yes,151
+Pike,(18) Summit Learn. Ctr,"Measure No. 27 - Voter ID	",,,Yes,87
+Pike,(19) Summit City Hall,"Measure No. 27 - Voter ID	",,,Yes,309
+Pike,(20) Southwest BSU Bldg.,"Measure No. 27 - Voter ID	",,,Yes,354
+Pike,(21) Johnson Chapel Meth. Church,"Measure No. 27 - Voter ID	",,,Yes,476
+Pike,(22) Pisgah Methodist Church,"Measure No. 27 - Voter ID	",,,Yes,287
+Pike,(23) Legacy Motors,"Measure No. 27 - Voter ID	",,,Yes,355
+Pike,(24) Mlk Center,"Measure No. 27 - Voter ID	",,,Yes,110
+Pike,(25) Pike Co. Nat. Bank,"Measure No. 27 - Voter ID	",,,Yes,245
+Pike,(26) American Leg. Hut,"Measure No. 27 - Voter ID	",,,Yes,246
+Pike,(27) Storehouse Church,"Measure No. 27 - Voter ID	",,,Yes,99
+Pike,(28) Church Of Christ,"Measure No. 27 - Voter ID	",,,Yes,283
+Pike,(29) Joe's Tractor,"Measure No. 27 - Voter ID	",,,Yes,335
+Pike,(30) CHATAWA POST OFFICE,"Measure No. 27 - Voter ID	",,,Yes,196
+Pike,(31) Osyka City Hall,"Measure No. 27 - Voter ID	",,,Yes,175
+Pike,(32) Old Cent. School,"Measure No. 27 - Voter ID	",,,Yes,198
+Pike,(01) Progress Library,"Measure No. 27 - Voter ID	",,,No,221
+Pike,(02) Leggett Community,"Measure No. 27 - Voter ID	",,,No,271
+Pike,(03) Pike Baptist Assoc. Bldg.,"Measure No. 27 - Voter ID	",,,No,230
+Pike,(04) Mepa Bldg. Hwy 98 East,"Measure No. 27 - Voter ID	",,,No,113
+Pike,(05) Pleasant Grove Bapt Church,"Measure No. 27 - Voter ID	",,,No,194
+Pike,(06) Jewel Rushing Community Ctr,"Measure No. 27 - Voter ID	",,,No,120
+Pike,(07) S. Pike Comm. Ctr.,"Measure No. 27 - Voter ID	",,,No,158
+Pike,(08) Alpha Center,"Measure No. 27 - Voter ID	",,,No,241
+Pike,(09) Fernwood School,"Measure No. 27 - Voter ID	",,,No,244
+Pike,(10) Magnolia Comm Ctr.,"Measure No. 27 - Voter ID	",,,No,357
+Pike,(11) Courthouse,"Measure No. 27 - Voter ID	",,,No,184
+Pike,(12) Courthouse,"Measure No. 27 - Voter ID	",,,No,140
+Pike,(13) Holmsville Comm.,"Measure No. 27 - Voter ID	",,,No,196
+Pike,(14) Calvary Baptist Church,"Measure No. 27 - Voter ID	",,,No,175
+Pike,(15) Old Jones School,"Measure No. 27 - Voter ID	",,,No,86
+Pike,(16) New Hope Baptist Church,"Measure No. 27 - Voter ID	",,,No,390
+Pike,(17) Entergy,"Measure No. 27 - Voter ID	",,,No,104
+Pike,(18) Summit Learn. Ctr,"Measure No. 27 - Voter ID	",,,No,130
+Pike,(19) Summit City Hall,"Measure No. 27 - Voter ID	",,,No,247
+Pike,(20) Southwest BSU Bldg.,"Measure No. 27 - Voter ID	",,,No,197
+Pike,(21) Johnson Chapel Meth. Church,"Measure No. 27 - Voter ID	",,,No,105
+Pike,(22) Pisgah Methodist Church,"Measure No. 27 - Voter ID	",,,No,80
+Pike,(23) Legacy Motors,"Measure No. 27 - Voter ID	",,,No,136
+Pike,(24) Mlk Center,"Measure No. 27 - Voter ID	",,,No,282
+Pike,(25) Pike Co. Nat. Bank,"Measure No. 27 - Voter ID	",,,No,86
+Pike,(26) American Leg. Hut,"Measure No. 27 - Voter ID	",,,No,65
+Pike,(27) Storehouse Church,"Measure No. 27 - Voter ID	",,,No,61
+Pike,(28) Church Of Christ,"Measure No. 27 - Voter ID	",,,No,202
+Pike,(29) Joe's Tractor,"Measure No. 27 - Voter ID	",,,No,159
+Pike,(30) CHATAWA POST OFFICE,"Measure No. 27 - Voter ID	",,,No,112
+Pike,(31) Osyka City Hall,"Measure No. 27 - Voter ID	",,,No,79
+Pike,(32) Old Cent. School,"Measure No. 27 - Voter ID	",,,No,169
+Pike,(01) Progress Library,"Measure No. 27 - Voter ID	",,,"Over votes	",0
+Pike,(02) Leggett Community,"Measure No. 27 - Voter ID	",,,"Over votes	",0
+Pike,(03) Pike Baptist Assoc. Bldg.,"Measure No. 27 - Voter ID	",,,"Over votes	",0
+Pike,(04) Mepa Bldg. Hwy 98 East,"Measure No. 27 - Voter ID	",,,"Over votes	",0
+Pike,(05) Pleasant Grove Bapt Church,"Measure No. 27 - Voter ID	",,,"Over votes	",0
+Pike,(06) Jewel Rushing Community Ctr,"Measure No. 27 - Voter ID	",,,"Over votes	",0
+Pike,(07) S. Pike Comm. Ctr.,"Measure No. 27 - Voter ID	",,,"Over votes	",0
+Pike,(08) Alpha Center,"Measure No. 27 - Voter ID	",,,"Over votes	",0
+Pike,(09) Fernwood School,"Measure No. 27 - Voter ID	",,,"Over votes	",0
+Pike,(10) Magnolia Comm Ctr.,"Measure No. 27 - Voter ID	",,,"Over votes	",0
+Pike,(11) Courthouse,"Measure No. 27 - Voter ID	",,,"Over votes	",0
+Pike,(12) Courthouse,"Measure No. 27 - Voter ID	",,,"Over votes	",0
+Pike,(13) Holmsville Comm.,"Measure No. 27 - Voter ID	",,,"Over votes	",0
+Pike,(14) Calvary Baptist Church,"Measure No. 27 - Voter ID	",,,"Over votes	",0
+Pike,(15) Old Jones School,"Measure No. 27 - Voter ID	",,,"Over votes	",0
+Pike,(16) New Hope Baptist Church,"Measure No. 27 - Voter ID	",,,"Over votes	",0
+Pike,(17) Entergy,"Measure No. 27 - Voter ID	",,,"Over votes	",0
+Pike,(18) Summit Learn. Ctr,"Measure No. 27 - Voter ID	",,,"Over votes	",0
+Pike,(19) Summit City Hall,"Measure No. 27 - Voter ID	",,,"Over votes	",0
+Pike,(20) Southwest BSU Bldg.,"Measure No. 27 - Voter ID	",,,"Over votes	",0
+Pike,(21) Johnson Chapel Meth. Church,"Measure No. 27 - Voter ID	",,,"Over votes	",0
+Pike,(22) Pisgah Methodist Church,"Measure No. 27 - Voter ID	",,,"Over votes	",0
+Pike,(23) Legacy Motors,"Measure No. 27 - Voter ID	",,,"Over votes	",0
+Pike,(24) Mlk Center,"Measure No. 27 - Voter ID	",,,"Over votes	",0
+Pike,(25) Pike Co. Nat. Bank,"Measure No. 27 - Voter ID	",,,"Over votes	",0
+Pike,(26) American Leg. Hut,"Measure No. 27 - Voter ID	",,,"Over votes	",0
+Pike,(27) Storehouse Church,"Measure No. 27 - Voter ID	",,,"Over votes	",0
+Pike,(28) Church Of Christ,"Measure No. 27 - Voter ID	",,,"Over votes	",0
+Pike,(29) Joe's Tractor,"Measure No. 27 - Voter ID	",,,"Over votes	",0
+Pike,(30) CHATAWA POST OFFICE,"Measure No. 27 - Voter ID	",,,"Over votes	",0
+Pike,(31) Osyka City Hall,"Measure No. 27 - Voter ID	",,,"Over votes	",0
+Pike,(32) Old Cent. School,"Measure No. 27 - Voter ID	",,,"Over votes	",0
+Pike,(01) Progress Library,"Measure No. 27 - Voter ID	",,,"Under votes	",29
+Pike,(02) Leggett Community,"Measure No. 27 - Voter ID	",,,"Under votes	",24
+Pike,(03) Pike Baptist Assoc. Bldg.,"Measure No. 27 - Voter ID	",,,"Under votes	",3
+Pike,(04) Mepa Bldg. Hwy 98 East,"Measure No. 27 - Voter ID	",,,"Under votes	",5
+Pike,(05) Pleasant Grove Bapt Church,"Measure No. 27 - Voter ID	",,,"Under votes	",12
+Pike,(06) Jewel Rushing Community Ctr,"Measure No. 27 - Voter ID	",,,"Under votes	",19
+Pike,(07) S. Pike Comm. Ctr.,"Measure No. 27 - Voter ID	",,,"Under votes	",18
+Pike,(08) Alpha Center,"Measure No. 27 - Voter ID	",,,"Under votes	",0
+Pike,(09) Fernwood School,"Measure No. 27 - Voter ID	",,,"Under votes	",19
+Pike,(10) Magnolia Comm Ctr.,"Measure No. 27 - Voter ID	",,,"Under votes	",30
+Pike,(11) Courthouse,"Measure No. 27 - Voter ID	",,,"Under votes	",16
+Pike,(12) Courthouse,"Measure No. 27 - Voter ID	",,,"Under votes	",22
+Pike,(13) Holmsville Comm.,"Measure No. 27 - Voter ID	",,,"Under votes	",8
+Pike,(14) Calvary Baptist Church,"Measure No. 27 - Voter ID	",,,"Under votes	",5
+Pike,(15) Old Jones School,"Measure No. 27 - Voter ID	",,,"Under votes	",1
+Pike,(16) New Hope Baptist Church,"Measure No. 27 - Voter ID	",,,"Under votes	",28
+Pike,(17) Entergy,"Measure No. 27 - Voter ID	",,,"Under votes	",14
+Pike,(18) Summit Learn. Ctr,"Measure No. 27 - Voter ID	",,,"Under votes	",14
+Pike,(19) Summit City Hall,"Measure No. 27 - Voter ID	",,,"Under votes	",20
+Pike,(20) Southwest BSU Bldg.,"Measure No. 27 - Voter ID	",,,"Under votes	",3
+Pike,(21) Johnson Chapel Meth. Church,"Measure No. 27 - Voter ID	",,,"Under votes	",8
+Pike,(22) Pisgah Methodist Church,"Measure No. 27 - Voter ID	",,,"Under votes	",6
+Pike,(23) Legacy Motors,"Measure No. 27 - Voter ID	",,,"Under votes	",5
+Pike,(24) Mlk Center,"Measure No. 27 - Voter ID	",,,"Under votes	",41
+Pike,(25) Pike Co. Nat. Bank,"Measure No. 27 - Voter ID	",,,"Under votes	",5
+Pike,(26) American Leg. Hut,"Measure No. 27 - Voter ID	",,,"Under votes	",0
+Pike,(27) Storehouse Church,"Measure No. 27 - Voter ID	",,,"Under votes	",4
+Pike,(28) Church Of Christ,"Measure No. 27 - Voter ID	",,,"Under votes	",8
+Pike,(29) Joe's Tractor,"Measure No. 27 - Voter ID	",,,"Under votes	",1
+Pike,(30) CHATAWA POST OFFICE,"Measure No. 27 - Voter ID	",,,"Under votes	",0
+Pike,(31) Osyka City Hall,"Measure No. 27 - Voter ID	",,,"Under votes	",24
+Pike,(32) Old Cent. School,"Measure No. 27 - Voter ID	",,,"Under votes	",13
+Pike,(01) Progress Library,"Measure No. 31 - Eminent Domain	",,,Yes,336
+Pike,(02) Leggett Community,"Measure No. 31 - Eminent Domain	",,,Yes,279
+Pike,(03) Pike Baptist Assoc. Bldg.,"Measure No. 31 - Eminent Domain	",,,Yes,424
+Pike,(04) Mepa Bldg. Hwy 98 East,"Measure No. 31 - Eminent Domain	",,,Yes,233
+Pike,(05) Pleasant Grove Bapt Church,"Measure No. 31 - Eminent Domain	",,,Yes,133
+Pike,(06) Jewel Rushing Community Ctr,"Measure No. 31 - Eminent Domain	",,,Yes,158
+Pike,(07) S. Pike Comm. Ctr.,"Measure No. 31 - Eminent Domain	",,,Yes,89
+Pike,(08) Alpha Center,"Measure No. 31 - Eminent Domain	",,,Yes,187
+Pike,(09) Fernwood School,"Measure No. 31 - Eminent Domain	",,,Yes,262
+Pike,(10) Magnolia Comm Ctr.,"Measure No. 31 - Eminent Domain	",,,Yes,369
+Pike,(11) Courthouse,"Measure No. 31 - Eminent Domain	",,,Yes,299
+Pike,(12) Courthouse,"Measure No. 31 - Eminent Domain	",,,Yes,113
+Pike,(13) Holmsville Comm.,"Measure No. 31 - Eminent Domain	",,,Yes,292
+Pike,(14) Calvary Baptist Church,"Measure No. 31 - Eminent Domain	",,,Yes,449
+Pike,(15) Old Jones School,"Measure No. 31 - Eminent Domain	",,,Yes,274
+Pike,(16) New Hope Baptist Church,"Measure No. 31 - Eminent Domain	",,,Yes,258
+Pike,(17) Entergy,"Measure No. 31 - Eminent Domain	",,,Yes,163
+Pike,(18) Summit Learn. Ctr,"Measure No. 31 - Eminent Domain	",,,Yes,118
+Pike,(19) Summit City Hall,"Measure No. 31 - Eminent Domain	",,,Yes,372
+Pike,(20) Southwest BSU Bldg.,"Measure No. 31 - Eminent Domain	",,,Yes,430
+Pike,(21) Johnson Chapel Meth. Church,"Measure No. 31 - Eminent Domain	",,,Yes,474
+Pike,(22) Pisgah Methodist Church,"Measure No. 31 - Eminent Domain	",,,Yes,284
+Pike,(23) Legacy Motors,"Measure No. 31 - Eminent Domain	",,,Yes,375
+Pike,(24) Mlk Center,"Measure No. 31 - Eminent Domain	",,,Yes,174
+Pike,(25) Pike Co. Nat. Bank,"Measure No. 31 - Eminent Domain	",,,Yes,247
+Pike,(26) American Leg. Hut,"Measure No. 31 - Eminent Domain	",,,Yes,236
+Pike,(27) Storehouse Church,"Measure No. 31 - Eminent Domain	",,,Yes,123
+Pike,(28) Church Of Christ,"Measure No. 31 - Eminent Domain	",,,Yes,337
+Pike,(29) Joe's Tractor,"Measure No. 31 - Eminent Domain	",,,Yes,363
+Pike,(30) CHATAWA POST OFFICE,"Measure No. 31 - Eminent Domain	",,,Yes,229
+Pike,(31) Osyka City Hall,"Measure No. 31 - Eminent Domain	",,,Yes,182
+Pike,(32) Old Cent. School,"Measure No. 31 - Eminent Domain	",,,Yes,254
+Pike,(01) Progress Library,"Measure No. 31 - Eminent Domain	",,,No,173
+Pike,(02) Leggett Community,"Measure No. 31 - Eminent Domain	",,,No,176
+Pike,(03) Pike Baptist Assoc. Bldg.,"Measure No. 31 - Eminent Domain	",,,No,177
+Pike,(04) Mepa Bldg. Hwy 98 East,"Measure No. 31 - Eminent Domain	",,,No,76
+Pike,(05) Pleasant Grove Bapt Church,"Measure No. 31 - Eminent Domain	",,,No,130
+Pike,(06) Jewel Rushing Community Ctr,"Measure No. 31 - Eminent Domain	",,,No,82
+Pike,(07) S. Pike Comm. Ctr.,"Measure No. 31 - Eminent Domain	",,,No,121
+Pike,(08) Alpha Center,"Measure No. 31 - Eminent Domain	",,,No,173
+Pike,(09) Fernwood School,"Measure No. 31 - Eminent Domain	",,,No,160
+Pike,(10) Magnolia Comm Ctr.,"Measure No. 31 - Eminent Domain	",,,No,277
+Pike,(11) Courthouse,"Measure No. 31 - Eminent Domain	",,,No,145
+Pike,(12) Courthouse,"Measure No. 31 - Eminent Domain	",,,No,100
+Pike,(13) Holmsville Comm.,"Measure No. 31 - Eminent Domain	",,,No,150
+Pike,(14) Calvary Baptist Church,"Measure No. 31 - Eminent Domain	",,,No,131
+Pike,(15) Old Jones School,"Measure No. 31 - Eminent Domain	",,,No,89
+Pike,(16) New Hope Baptist Church,"Measure No. 31 - Eminent Domain	",,,No,274
+Pike,(17) Entergy,"Measure No. 31 - Eminent Domain	",,,No,90
+Pike,(18) Summit Learn. Ctr,"Measure No. 31 - Eminent Domain	",,,No,99
+Pike,(19) Summit City Hall,"Measure No. 31 - Eminent Domain	",,,No,183
+Pike,(20) Southwest BSU Bldg.,"Measure No. 31 - Eminent Domain	",,,No,127
+Pike,(21) Johnson Chapel Meth. Church,"Measure No. 31 - Eminent Domain	",,,No,105
+Pike,(22) Pisgah Methodist Church,"Measure No. 31 - Eminent Domain	",,,No,81
+Pike,(23) Legacy Motors,"Measure No. 31 - Eminent Domain	",,,No,116
+Pike,(24) Mlk Center,"Measure No. 31 - Eminent Domain	",,,No,228
+Pike,(25) Pike Co. Nat. Bank,"Measure No. 31 - Eminent Domain	",,,No,82
+Pike,(26) American Leg. Hut,"Measure No. 31 - Eminent Domain	",,,No,76
+Pike,(27) Storehouse Church,"Measure No. 31 - Eminent Domain	",,,No,38
+Pike,(28) Church Of Christ,"Measure No. 31 - Eminent Domain	",,,No,145
+Pike,(29) Joe's Tractor,"Measure No. 31 - Eminent Domain	",,,No,133
+Pike,(30) CHATAWA POST OFFICE,"Measure No. 31 - Eminent Domain	",,,No,81
+Pike,(31) Osyka City Hall,"Measure No. 31 - Eminent Domain	",,,No,74
+Pike,(32) Old Cent. School,"Measure No. 31 - Eminent Domain	",,,No,114
+Pike,(01) Progress Library,"Measure No. 31 - Eminent Domain	",,,"Over votes	",0
+Pike,(02) Leggett Community,"Measure No. 31 - Eminent Domain	",,,"Over votes	",0
+Pike,(03) Pike Baptist Assoc. Bldg.,"Measure No. 31 - Eminent Domain	",,,"Over votes	",0
+Pike,(04) Mepa Bldg. Hwy 98 East,"Measure No. 31 - Eminent Domain	",,,"Over votes	",0
+Pike,(05) Pleasant Grove Bapt Church,"Measure No. 31 - Eminent Domain	",,,"Over votes	",0
+Pike,(06) Jewel Rushing Community Ctr,"Measure No. 31 - Eminent Domain	",,,"Over votes	",0
+Pike,(07) S. Pike Comm. Ctr.,"Measure No. 31 - Eminent Domain	",,,"Over votes	",0
+Pike,(08) Alpha Center,"Measure No. 31 - Eminent Domain	",,,"Over votes	",0
+Pike,(09) Fernwood School,"Measure No. 31 - Eminent Domain	",,,"Over votes	",0
+Pike,(10) Magnolia Comm Ctr.,"Measure No. 31 - Eminent Domain	",,,"Over votes	",0
+Pike,(11) Courthouse,"Measure No. 31 - Eminent Domain	",,,"Over votes	",0
+Pike,(12) Courthouse,"Measure No. 31 - Eminent Domain	",,,"Over votes	",0
+Pike,(13) Holmsville Comm.,"Measure No. 31 - Eminent Domain	",,,"Over votes	",0
+Pike,(14) Calvary Baptist Church,"Measure No. 31 - Eminent Domain	",,,"Over votes	",0
+Pike,(15) Old Jones School,"Measure No. 31 - Eminent Domain	",,,"Over votes	",0
+Pike,(16) New Hope Baptist Church,"Measure No. 31 - Eminent Domain	",,,"Over votes	",0
+Pike,(17) Entergy,"Measure No. 31 - Eminent Domain	",,,"Over votes	",0
+Pike,(18) Summit Learn. Ctr,"Measure No. 31 - Eminent Domain	",,,"Over votes	",0
+Pike,(19) Summit City Hall,"Measure No. 31 - Eminent Domain	",,,"Over votes	",0
+Pike,(20) Southwest BSU Bldg.,"Measure No. 31 - Eminent Domain	",,,"Over votes	",0
+Pike,(21) Johnson Chapel Meth. Church,"Measure No. 31 - Eminent Domain	",,,"Over votes	",0
+Pike,(22) Pisgah Methodist Church,"Measure No. 31 - Eminent Domain	",,,"Over votes	",0
+Pike,(23) Legacy Motors,"Measure No. 31 - Eminent Domain	",,,"Over votes	",0
+Pike,(24) Mlk Center,"Measure No. 31 - Eminent Domain	",,,"Over votes	",0
+Pike,(25) Pike Co. Nat. Bank,"Measure No. 31 - Eminent Domain	",,,"Over votes	",0
+Pike,(26) American Leg. Hut,"Measure No. 31 - Eminent Domain	",,,"Over votes	",0
+Pike,(27) Storehouse Church,"Measure No. 31 - Eminent Domain	",,,"Over votes	",0
+Pike,(28) Church Of Christ,"Measure No. 31 - Eminent Domain	",,,"Over votes	",0
+Pike,(29) Joe's Tractor,"Measure No. 31 - Eminent Domain	",,,"Over votes	",0
+Pike,(30) CHATAWA POST OFFICE,"Measure No. 31 - Eminent Domain	",,,"Over votes	",0
+Pike,(31) Osyka City Hall,"Measure No. 31 - Eminent Domain	",,,"Over votes	",0
+Pike,(32) Old Cent. School,"Measure No. 31 - Eminent Domain	",,,"Over votes	",0
+Pike,(01) Progress Library,"Measure No. 31 - Eminent Domain	",,,"Under votes	",27
+Pike,(02) Leggett Community,"Measure No. 31 - Eminent Domain	",,,"Under votes	",21
+Pike,(03) Pike Baptist Assoc. Bldg.,"Measure No. 31 - Eminent Domain	",,,"Under votes	",2
+Pike,(04) Mepa Bldg. Hwy 98 East,"Measure No. 31 - Eminent Domain	",,,"Under votes	",4
+Pike,(05) Pleasant Grove Bapt Church,"Measure No. 31 - Eminent Domain	",,,"Under votes	",11
+Pike,(06) Jewel Rushing Community Ctr,"Measure No. 31 - Eminent Domain	",,,"Under votes	",21
+Pike,(07) S. Pike Comm. Ctr.,"Measure No. 31 - Eminent Domain	",,,"Under votes	",19
+Pike,(08) Alpha Center,"Measure No. 31 - Eminent Domain	",,,"Under votes	",0
+Pike,(09) Fernwood School,"Measure No. 31 - Eminent Domain	",,,"Under votes	",17
+Pike,(10) Magnolia Comm Ctr.,"Measure No. 31 - Eminent Domain	",,,"Under votes	",18
+Pike,(11) Courthouse,"Measure No. 31 - Eminent Domain	",,,"Under votes	",10
+Pike,(12) Courthouse,"Measure No. 31 - Eminent Domain	",,,"Under votes	",17
+Pike,(13) Holmsville Comm.,"Measure No. 31 - Eminent Domain	",,,"Under votes	",4
+Pike,(14) Calvary Baptist Church,"Measure No. 31 - Eminent Domain	",,,"Under votes	",4
+Pike,(15) Old Jones School,"Measure No. 31 - Eminent Domain	",,,"Under votes	",1
+Pike,(16) New Hope Baptist Church,"Measure No. 31 - Eminent Domain	",,,"Under votes	",28
+Pike,(17) Entergy,"Measure No. 31 - Eminent Domain	",,,"Under votes	",16
+Pike,(18) Summit Learn. Ctr,"Measure No. 31 - Eminent Domain	",,,"Under votes	",14
+Pike,(19) Summit City Hall,"Measure No. 31 - Eminent Domain	",,,"Under votes	",20
+Pike,(20) Southwest BSU Bldg.,"Measure No. 31 - Eminent Domain	",,,"Under votes	",2
+Pike,(21) Johnson Chapel Meth. Church,"Measure No. 31 - Eminent Domain	",,,"Under votes	",11
+Pike,(22) Pisgah Methodist Church,"Measure No. 31 - Eminent Domain	",,,"Under votes	",8
+Pike,(23) Legacy Motors,"Measure No. 31 - Eminent Domain	",,,"Under votes	",4
+Pike,(24) Mlk Center,"Measure No. 31 - Eminent Domain	",,,"Under votes	",31
+Pike,(25) Pike Co. Nat. Bank,"Measure No. 31 - Eminent Domain	",,,"Under votes	",6
+Pike,(26) American Leg. Hut,"Measure No. 31 - Eminent Domain	",,,"Under votes	",0
+Pike,(27) Storehouse Church,"Measure No. 31 - Eminent Domain	",,,"Under votes	",3
+Pike,(28) Church Of Christ,"Measure No. 31 - Eminent Domain	",,,"Under votes	",9
+Pike,(29) Joe's Tractor,"Measure No. 31 - Eminent Domain	",,,"Under votes	",0
+Pike,(30) CHATAWA POST OFFICE,"Measure No. 31 - Eminent Domain	",,,"Under votes	",0
+Pike,(31) Osyka City Hall,"Measure No. 31 - Eminent Domain	",,,"Under votes	",22
+Pike,(32) Old Cent. School,"Measure No. 31 - Eminent Domain	",,,"Under votes	",12

@@ -227,14 +227,14 @@ Tunica,Milton Landing,State Senate,11,Democrat,Robert L. Jackson,60
 Tunica,West End Store,State Senate,11,Democrat,Robert L. Jackson,71
 Tunica,Supt. Of Education,State Senate,11,Democrat,Robert L. Jackson,129
 Tunica,Two-Mile Lake,State Senate,11,Democrat,Robert L. Jackson,313
-Tunica,Watsonville,State House,09,Democrat,Clara Henderson Burnett,98
-Tunica,Pritchard,State House,09,Democrat,Clara Henderson Burnett,212
-Tunica,Tunica,State House,09,Democrat,Clara Henderson Burnett,398
-Tunica,Courthouse,State House,09,Democrat,Clara Henderson Burnett,338
-Tunica,Evansville-Highway 61,State House,09,Democrat,Clara Henderson Burnett,342
-Tunica,Justice Court Building,State House,09,Democrat,Clara Henderson Burnett,402
-Tunica,Supt. Of Education,State House,09,Democrat,Clara Henderson Burnett,156
-Tunica,Two-Mile Lake,State House,09,Democrat,Clara Henderson Burnett,345
+Tunica,Watsonville,State House,9,Democrat,Clara Henderson Burnett,98
+Tunica,Pritchard,State House,9,Democrat,Clara Henderson Burnett,212
+Tunica,Tunica,State House,9,Democrat,Clara Henderson Burnett,398
+Tunica,Courthouse,State House,9,Democrat,Clara Henderson Burnett,338
+Tunica,Evansville-Highway 61,State House,9,Democrat,Clara Henderson Burnett,342
+Tunica,Justice Court Building,State House,9,Democrat,Clara Henderson Burnett,402
+Tunica,Supt. Of Education,State House,9,Democrat,Clara Henderson Burnett,156
+Tunica,Two-Mile Lake,State House,9,Democrat,Clara Henderson Burnett,345
 Tunica,Robinsonville,State House,25,Democrat,John Mayo,101
 Tunica,Banks/Hambrick,State House,25,Democrat,John Mayo,80
 Tunica,Milton Landing,State House,25,Democrat,John Mayo,56
@@ -243,25 +243,147 @@ Tunica,Robinsonville,State House,25,Republican,W.E. 'Gene' Alday,30
 Tunica,Banks/Hambrick,State House,25,Republican,W.E. 'Gene' Alday,13
 Tunica,Milton Landing,State House,25,Republican,W.E. 'Gene' Alday,34
 Tunica,West End Store,State House,25,Republican,W.E. 'Gene' Alday,20
-Tunica,,Governor,,Republican,Phil Bryant,949
-Tunica,,Governor,,Democrat,Johnny L. DuPree,2297
-Tunica,,Lieutenant Governor,,Republican,Tate Reeves,1397
-Tunica,,Lieutenant Governor,,Reform,Tracella Lou O'Hara Hill,1092
-Tunica,,Secretary of State,,Republican,Delbert Hosemann,1961
-Tunica,,Attorney General,,Democrat,Jim Hood,2185
-Tunica,,Attorney General,,Republican,Steve Simpson,781
-Tunica,,State Auditor,,Republican,Stacey E. Pickering,1056
-Tunica,,State Auditor,,Reform,Ashley Norwood,1395
-Tunica,,Treasurer,,Republican,Lynn Fitch,892
-Tunica,,Treasurer,,Democrat,Connie Moran,1925
-Tunica,,Treasurer,,Reform,Shawn O'Hara,133
-Tunica,,Commissioner of Agriculture & Commerce,,Democrat,Joel Gill,2010
-Tunica,,Commissioner of Agriculture & Commerce,,Republican,Cindy Hyde-Smith,788
-Tunica,,Commissioner of Agriculture & Commerce,,Reform,Cathy L. Toole,128
-Tunica,,Commissioner of Insurance,,Republican,Mike Chaney,959
-Tunica,,Commissioner of Insurance,,Democrat,Louis Fondren,1843
-Tunica,,Commissioner of Insurance,,Reform,Barbara Dale Washer,154
-Tunica,,State Senate,11,Democrat,Robert L. Jackson,2610
-Tunica,,State House,09,Democrat,Clara Henderson Burnett,2291
-Tunica,,State House,25,Democrat,John Mayo,302
-Tunica,,State House,25,Republican,W.E. 'Gene' Alday,97
+Tunica,Robinsonville,Measure No. 26 - Definition of a person,,,Yes,40
+Tunica,Banks/Hambrick,Measure No. 26 - Definition of a person,,,Yes,76
+Tunica,Watsonville,Measure No. 26 - Definition of a person,,,Yes,34
+Tunica,Pritchard,Measure No. 26 - Definition of a person,,,Yes,68
+Tunica,Tunica,Measure No. 26 - Definition of a person,,,Yes,141
+Tunica,Courthouse,Measure No. 26 - Definition of a person,,,Yes,155
+Tunica,Evansville-Highway 61,Measure No. 26 - Definition of a person,,,Yes,135
+Tunica,Justice Court Building,Measure No. 26 - Definition of a person,,,Yes,159
+Tunica,Milton Landing,Measure No. 26 - Definition of a person,,,Yes,32
+Tunica,West End Store,Measure No. 26 - Definition of a person,,,Yes,43
+Tunica,Supt. Of Education,Measure No. 26 - Definition of a person,,,Yes,91
+Tunica,Two-Mile Lake,Measure No. 26 - Definition of a person,,,Yes,146
+Tunica,Robinsonville,Measure No. 26 - Definition of a person,,,No,92
+Tunica,Banks/Hambrick,Measure No. 26 - Definition of a person,,,No,204
+Tunica,Watsonville,Measure No. 26 - Definition of a person,,,No,66
+Tunica,Pritchard,Measure No. 26 - Definition of a person,,,No,140
+Tunica,Tunica,Measure No. 26 - Definition of a person,,,No,242
+Tunica,Courthouse,Measure No. 26 - Definition of a person,,,No,235
+Tunica,Evansville-Highway 61,Measure No. 26 - Definition of a person,,,No,226
+Tunica,Justice Court Building,Measure No. 26 - Definition of a person,,,No,272
+Tunica,Milton Landing,Measure No. 26 - Definition of a person,,,No,57
+Tunica,West End Store,Measure No. 26 - Definition of a person,,,No,42
+Tunica,Supt. Of Education,Measure No. 26 - Definition of a person,,,No,100
+Tunica,Two-Mile Lake,Measure No. 26 - Definition of a person,,,No,216
+Tunica,Robinsonville,Measure No. 26 - Definition of a person,,,Over Votes,0
+Tunica,Banks/Hambrick,Measure No. 26 - Definition of a person,,,Over Votes,0
+Tunica,Watsonville,Measure No. 26 - Definition of a person,,,Over Votes,0
+Tunica,Pritchard,Measure No. 26 - Definition of a person,,,Over Votes,0
+Tunica,Tunica,Measure No. 26 - Definition of a person,,,Over Votes,0
+Tunica,Courthouse,Measure No. 26 - Definition of a person,,,Over Votes,0
+Tunica,Evansville-Highway 61,Measure No. 26 - Definition of a person,,,Over Votes,0
+Tunica,Justice Court Building,Measure No. 26 - Definition of a person,,,Over Votes,0
+Tunica,Milton Landing,Measure No. 26 - Definition of a person,,,Over Votes,0
+Tunica,West End Store,Measure No. 26 - Definition of a person,,,Over Votes,0
+Tunica,Supt. Of Education,Measure No. 26 - Definition of a person,,,Over Votes,0
+Tunica,Two-Mile Lake,Measure No. 26 - Definition of a person,,,Over Votes,0
+Tunica,Robinsonville,Measure No. 26 - Definition of a person,,,Under Votes,10
+Tunica,Banks/Hambrick,Measure No. 26 - Definition of a person,,,Under Votes,32
+Tunica,Watsonville,Measure No. 26 - Definition of a person,,,Under Votes,14
+Tunica,Pritchard,Measure No. 26 - Definition of a person,,,Under Votes,31
+Tunica,Tunica,Measure No. 26 - Definition of a person,,,Under Votes,67
+Tunica,Courthouse,Measure No. 26 - Definition of a person,,,Under Votes,19
+Tunica,Evansville-Highway 61,Measure No. 26 - Definition of a person,,,Under Votes,49
+Tunica,Justice Court Building,Measure No. 26 - Definition of a person,,,Under Votes,73
+Tunica,Milton Landing,Measure No. 26 - Definition of a person,,,Under Votes,14
+Tunica,West End Store,Measure No. 26 - Definition of a person,,,Under Votes,12
+Tunica,Supt. Of Education,Measure No. 26 - Definition of a person,,,Under Votes,25
+Tunica,Two-Mile Lake,Measure No. 26 - Definition of a person,,,Under Votes,58
+Tunica,Robinsonville,Measure No. 27 - Voter ID,,,Yes,75
+Tunica,Banks/Hambrick,Measure No. 27 - Voter ID,,,Yes,120
+Tunica,Watsonville,Measure No. 27 - Voter ID,,,Yes,42
+Tunica,Pritchard,Measure No. 27 - Voter ID,,,Yes,79
+Tunica,Tunica,Measure No. 27 - Voter ID,,,Yes,187
+Tunica,Courthouse,Measure No. 27 - Voter ID,,,Yes,270
+Tunica,Evansville-Highway 61,Measure No. 27 - Voter ID,,,Yes,170
+Tunica,Justice Court Building,Measure No. 27 - Voter ID,,,Yes,210
+Tunica,Milton Landing,Measure No. 27 - Voter ID,,,Yes,56
+Tunica,West End Store,Measure No. 27 - Voter ID,,,Yes,51
+Tunica,Supt. Of Education,Measure No. 27 - Voter ID,,,Yes,131
+Tunica,Two-Mile Lake,Measure No. 27 - Voter ID,,,Yes,201
+Tunica,Robinsonville,Measure No. 27 - Voter ID,,,No,60
+Tunica,Banks/Hambrick,Measure No. 27 - Voter ID,,,No,169
+Tunica,Watsonville,Measure No. 27 - Voter ID,,,No,54
+Tunica,Pritchard,Measure No. 27 - Voter ID,,,No,133
+Tunica,Tunica,Measure No. 27 - Voter ID,,,No,208
+Tunica,Courthouse,Measure No. 27 - Voter ID,,,No,127
+Tunica,Evansville-Highway 61,Measure No. 27 - Voter ID,,,No,182
+Tunica,Justice Court Building,Measure No. 27 - Voter ID,,,No,216
+Tunica,Milton Landing,Measure No. 27 - Voter ID,,,No,34
+Tunica,West End Store,Measure No. 27 - Voter ID,,,No,32
+Tunica,Supt. Of Education,Measure No. 27 - Voter ID,,,No,52
+Tunica,Two-Mile Lake,Measure No. 27 - Voter ID,,,No,152
+Tunica,Robinsonville,Measure No. 27 - Voter ID,,,Over Votes,0
+Tunica,Banks/Hambrick,Measure No. 27 - Voter ID,,,Over Votes,0
+Tunica,Watsonville,Measure No. 27 - Voter ID,,,Over Votes,0
+Tunica,Pritchard,Measure No. 27 - Voter ID,,,Over Votes,0
+Tunica,Tunica,Measure No. 27 - Voter ID,,,Over Votes,0
+Tunica,Courthouse,Measure No. 27 - Voter ID,,,Over Votes,0
+Tunica,Evansville-Highway 61,Measure No. 27 - Voter ID,,,Over Votes,0
+Tunica,Justice Court Building,Measure No. 27 - Voter ID,,,Over Votes,0
+Tunica,Milton Landing,Measure No. 27 - Voter ID,,,Over Votes,0
+Tunica,West End Store,Measure No. 27 - Voter ID,,,Over Votes,0
+Tunica,Supt. Of Education,Measure No. 27 - Voter ID,,,Over Votes,0
+Tunica,Two-Mile Lake,Measure No. 27 - Voter ID,,,Over Votes,0
+Tunica,Robinsonville,Measure No. 27 - Voter ID,,,Under Votes,7
+Tunica,Banks/Hambrick,Measure No. 27 - Voter ID,,,Under Votes,23
+Tunica,Watsonville,Measure No. 27 - Voter ID,,,Under Votes,18
+Tunica,Pritchard,Measure No. 27 - Voter ID,,,Under Votes,27
+Tunica,Tunica,Measure No. 27 - Voter ID,,,Under Votes,55
+Tunica,Courthouse,Measure No. 27 - Voter ID,,,Under Votes,12
+Tunica,Evansville-Highway 61,Measure No. 27 - Voter ID,,,Under Votes,58
+Tunica,Justice Court Building,Measure No. 27 - Voter ID,,,Under Votes,78
+Tunica,Milton Landing,Measure No. 27 - Voter ID,,,Under Votes,13
+Tunica,West End Store,Measure No. 27 - Voter ID,,,Under Votes,14
+Tunica,Supt. Of Education,Measure No. 27 - Voter ID,,,Under Votes,33
+Tunica,Two-Mile Lake,Measure No. 27 - Voter ID,,,Under Votes,67
+Tunica,Robinsonville,"Measure No. 31 - Eminent Domain	",,,Yes,76
+Tunica,Banks/Hambrick,"Measure No. 31 - Eminent Domain	",,,Yes,130
+Tunica,Watsonville,"Measure No. 31 - Eminent Domain	",,,Yes,59
+Tunica,Pritchard,"Measure No. 31 - Eminent Domain	",,,Yes,114
+Tunica,Tunica,"Measure No. 31 - Eminent Domain	",,,Yes,223
+Tunica,Courthouse,"Measure No. 31 - Eminent Domain	",,,Yes,260
+Tunica,Evansville-Highway 61,"Measure No. 31 - Eminent Domain	",,,Yes,177
+Tunica,Justice Court Building,"Measure No. 31 - Eminent Domain	",,,Yes,207
+Tunica,Milton Landing,"Measure No. 31 - Eminent Domain	",,,Yes,54
+Tunica,West End Store,"Measure No. 31 - Eminent Domain	",,,Yes,56
+Tunica,Supt. Of Education,"Measure No. 31 - Eminent Domain	",,,Yes,119
+Tunica,Two-Mile Lake,"Measure No. 31 - Eminent Domain	",,,Yes,216
+Tunica,Robinsonville,"Measure No. 31 - Eminent Domain	",,,No,58
+Tunica,Banks/Hambrick,"Measure No. 31 - Eminent Domain	",,,No,161
+Tunica,Watsonville,"Measure No. 31 - Eminent Domain	",,,No,38
+Tunica,Pritchard,"Measure No. 31 - Eminent Domain	",,,No,97
+Tunica,Tunica,"Measure No. 31 - Eminent Domain	",,,No,176
+Tunica,Courthouse,"Measure No. 31 - Eminent Domain	",,,No,136
+Tunica,Evansville-Highway 61,"Measure No. 31 - Eminent Domain	",,,No,161
+Tunica,Justice Court Building,"Measure No. 31 - Eminent Domain	",,,No,216
+Tunica,Milton Landing,"Measure No. 31 - Eminent Domain	",,,No,34
+Tunica,West End Store,"Measure No. 31 - Eminent Domain	",,,No,28
+Tunica,Supt. Of Education,"Measure No. 31 - Eminent Domain	",,,No,67
+Tunica,Two-Mile Lake,"Measure No. 31 - Eminent Domain	",,,No,136
+Tunica,Robinsonville,"Measure No. 31 - Eminent Domain	",,,Over Votes,0
+Tunica,Banks/Hambrick,"Measure No. 31 - Eminent Domain	",,,Over Votes,0
+Tunica,Watsonville,"Measure No. 31 - Eminent Domain	",,,Over Votes,0
+Tunica,Pritchard,"Measure No. 31 - Eminent Domain	",,,Over Votes,0
+Tunica,Tunica,"Measure No. 31 - Eminent Domain	",,,Over Votes,0
+Tunica,Courthouse,"Measure No. 31 - Eminent Domain	",,,Over Votes,0
+Tunica,Evansville-Highway 61,"Measure No. 31 - Eminent Domain	",,,Over Votes,0
+Tunica,Justice Court Building,"Measure No. 31 - Eminent Domain	",,,Over Votes,0
+Tunica,Milton Landing,"Measure No. 31 - Eminent Domain	",,,Over Votes,0
+Tunica,West End Store,"Measure No. 31 - Eminent Domain	",,,Over Votes,0
+Tunica,Supt. Of Education,"Measure No. 31 - Eminent Domain	",,,Over Votes,0
+Tunica,Two-Mile Lake,"Measure No. 31 - Eminent Domain	",,,Over Votes,0
+Tunica,Robinsonville,"Measure No. 31 - Eminent Domain	",,,Under Votes,8
+Tunica,Banks/Hambrick,"Measure No. 31 - Eminent Domain	",,,Under Votes,21
+Tunica,Watsonville,"Measure No. 31 - Eminent Domain	",,,Under Votes,17
+Tunica,Pritchard,"Measure No. 31 - Eminent Domain	",,,Under Votes,28
+Tunica,Tunica,"Measure No. 31 - Eminent Domain	",,,Under Votes,51
+Tunica,Courthouse,"Measure No. 31 - Eminent Domain	",,,Under Votes,13
+Tunica,Evansville-Highway 61,"Measure No. 31 - Eminent Domain	",,,Under Votes,72
+Tunica,Justice Court Building,"Measure No. 31 - Eminent Domain	",,,Under Votes,81
+Tunica,Milton Landing,"Measure No. 31 - Eminent Domain	",,,Under Votes,15
+Tunica,West End Store,"Measure No. 31 - Eminent Domain	",,,Under Votes,13
+Tunica,Supt. Of Education,"Measure No. 31 - Eminent Domain	",,,Under Votes,30
+Tunica,Two-Mile Lake,"Measure No. 31 - Eminent Domain	",,,Under Votes,68

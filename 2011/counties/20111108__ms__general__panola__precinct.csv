@@ -525,27 +525,291 @@ Panola,Como,State Senate,10,Republican,Vann J. Branch,170
 Panola,Como,State Senate,10,Democrat,Steve Hale,753
 Panola,Como,State House,9,Democrat,Clara Henderson Burnett,98
 Panola,Como,State House,11,Democrat,Joe C. Gardner,666
-Panola,,Governor,,Republican,Phil Bryant,7258
-Panola,,Governor,,Democrat,Johnny L. DuPree,6140
-Panola,,Lieutenant Governor,,Republican,Tate Reeves,8341
-Panola,,Lieutenant Governor,,Reform,Tracella Lou O'Hara Hill,2524
-Panola,,Secretary of State,,Republican,Delbert Hosemann,9224
-Panola,,Attorney General,,Democrat,Jim Hood,8201
-Panola,,Attorney General,,Republican,Steve Simpson,4645
-Panola,,State Auditor,,Republican,Stacey E. Pickering,7145
-Panola,,State Auditor,,Reform,Ashley Norwood,3462
-Panola,,Treasurer,,Republican,Lynn Fitch,6223
-Panola,,Treasurer,,Democrat,Connie Moran,6084
-Panola,,Treasurer,,Reform,Shawn O'Hara,465
-Panola,,Commissioner of Agriculture & Commerce,,Democrat,Joel Gill,6736
-Panola,,Commissioner of Agriculture & Commerce,,Republican,Cindy Hyde-Smith,5483
-Panola,,Commissioner of Agriculture & Commerce,,Reform,Cathy L. Toole,420
-Panola,,Commissioner of Insurance,,Republican,Mike Chaney,6812
-Panola,,Commissioner of Insurance,,Democrat,Louis Fondren,5505
-Panola,,Commissioner of Insurance,,Reform,Barbara Dale Washer,427
-Panola,,State Senate,10,Republican,Vann J. Branch,4698
-Panola,,State Senate,10,Democrat,Steve Hale,8301
-Panola,,State House,9,Democrat,Clara Henderson Burnett,521
-Panola,,State House,10,Democrat,Greg Hodges,2479
-Panola,,State House,10,Republican,Nolan Mettetal,4138
-Panola,,State House,11,Democrat,Joe C. Gardner,5311
+Panola,Pleasant Mount,"Measure No. 26 - Definition of a person	",,,Yes,120
+Panola,East Sardis,"Measure No. 26 - Definition of a person	",,,Yes,176
+Panola,West Sardis,"Measure No. 26 - Definition of a person	",,,Yes,151
+Panola,Cold Springs,"Measure No. 26 - Definition of a person	",,,Yes,55
+Panola,South Sardis,"Measure No. 26 - Definition of a person	",,,Yes,254
+Panola,Pleasant Grove,"Measure No. 26 - Definition of a person	",,,Yes,81
+Panola,Longtown,"Measure No. 26 - Definition of a person	",,,Yes,76
+Panola,Crenshaw,"Measure No. 26 - Definition of a person	",,,Yes,123
+Panola,Curtis,"Measure No. 26 - Definition of a person	",,,Yes,136
+Panola,Macedonia-Concord,"Measure No. 26 - Definition of a person	",,,Yes,64
+Panola,Batesville #3,"Measure No. 26 - Definition of a person	",,,Yes,240
+Panola,Courtland,"Measure No. 26 - Definition of a person	",,,Yes,287
+Panola,Pope,"Measure No. 26 - Definition of a person	",,,Yes,321
+Panola,Tocowa,"Measure No. 26 - Definition of a person	",,,Yes,343
+Panola,East Batesville #4,"Measure No. 26 - Definition of a person	",,,Yes,207
+Panola,Eureka,"Measure No. 26 - Definition of a person	",,,Yes,415
+Panola,North Springport,"Measure No. 26 - Definition of a person	",,,Yes,240
+Panola,South Springport,"Measure No. 26 - Definition of a person	",,,Yes,368
+Panola,Cole's Point,"Measure No. 26 - Definition of a person	",,,Yes,109
+Panola,East Batesville,"Measure No. 26 - Definition of a person	",,,Yes,497
+Panola,North Batesville #A,"Measure No. 26 - Definition of a person	",,,Yes,258
+Panola,North Batesville #B,"Measure No. 26 - Definition of a person	",,,Yes,240
+Panola,Enon,"Measure No. 26 - Definition of a person	",,,Yes,62
+Panola,Como,"Measure No. 26 - Definition of a person	",,,Yes,241
+Panola,Pleasant Mount,"Measure No. 26 - Definition of a person	",,,No,178
+Panola,East Sardis,"Measure No. 26 - Definition of a person	",,,No,185
+Panola,West Sardis,"Measure No. 26 - Definition of a person	",,,No,339
+Panola,Cold Springs,"Measure No. 26 - Definition of a person	",,,No,176
+Panola,South Sardis,"Measure No. 26 - Definition of a person	",,,No,609
+Panola,Pleasant Grove,"Measure No. 26 - Definition of a person	",,,No,108
+Panola,Longtown,"Measure No. 26 - Definition of a person	",,,No,129
+Panola,Crenshaw,"Measure No. 26 - Definition of a person	",,,No,167
+Panola,Curtis,"Measure No. 26 - Definition of a person	",,,No,295
+Panola,Macedonia-Concord,"Measure No. 26 - Definition of a person	",,,No,180
+Panola,Batesville #3,"Measure No. 26 - Definition of a person	",,,No,305
+Panola,Courtland,"Measure No. 26 - Definition of a person	",,,No,660
+Panola,Pope,"Measure No. 26 - Definition of a person	",,,No,374
+Panola,Tocowa,"Measure No. 26 - Definition of a person	",,,No,391
+Panola,East Batesville #4,"Measure No. 26 - Definition of a person	",,,No,290
+Panola,Eureka,"Measure No. 26 - Definition of a person	",,,No,331
+Panola,North Springport,"Measure No. 26 - Definition of a person	",,,No,346
+Panola,South Springport,"Measure No. 26 - Definition of a person	",,,No,390
+Panola,Cole's Point,"Measure No. 26 - Definition of a person	",,,No,186
+Panola,East Batesville,"Measure No. 26 - Definition of a person	",,,No,465
+Panola,North Batesville #A,"Measure No. 26 - Definition of a person	",,,No,412
+Panola,North Batesville #B,"Measure No. 26 - Definition of a person	",,,No,616
+Panola,Enon,"Measure No. 26 - Definition of a person	",,,No,55
+Panola,Como,"Measure No. 26 - Definition of a person	",,,No,639
+Panola,Pleasant Mount,"Measure No. 26 - Definition of a person	",,,"Over votes	",0
+Panola,East Sardis,"Measure No. 26 - Definition of a person	",,,"Over votes	",0
+Panola,West Sardis,"Measure No. 26 - Definition of a person	",,,"Over votes	",0
+Panola,Cold Springs,"Measure No. 26 - Definition of a person	",,,"Over votes	",0
+Panola,South Sardis,"Measure No. 26 - Definition of a person	",,,"Over votes	",0
+Panola,Pleasant Grove,"Measure No. 26 - Definition of a person	",,,"Over votes	",0
+Panola,Longtown,"Measure No. 26 - Definition of a person	",,,"Over votes	",0
+Panola,Crenshaw,"Measure No. 26 - Definition of a person	",,,"Over votes	",0
+Panola,Curtis,"Measure No. 26 - Definition of a person	",,,"Over votes	",0
+Panola,Macedonia-Concord,"Measure No. 26 - Definition of a person	",,,"Over votes	",0
+Panola,Batesville #3,"Measure No. 26 - Definition of a person	",,,"Over votes	",0
+Panola,Courtland,"Measure No. 26 - Definition of a person	",,,"Over votes	",0
+Panola,Pope,"Measure No. 26 - Definition of a person	",,,"Over votes	",0
+Panola,Tocowa,"Measure No. 26 - Definition of a person	",,,"Over votes	",0
+Panola,East Batesville #4,"Measure No. 26 - Definition of a person	",,,"Over votes	",0
+Panola,Eureka,"Measure No. 26 - Definition of a person	",,,"Over votes	",0
+Panola,North Springport,"Measure No. 26 - Definition of a person	",,,"Over votes	",0
+Panola,South Springport,"Measure No. 26 - Definition of a person	",,,"Over votes	",0
+Panola,Cole's Point,"Measure No. 26 - Definition of a person	",,,"Over votes	",0
+Panola,East Batesville,"Measure No. 26 - Definition of a person	",,,"Over votes	",0
+Panola,North Batesville #A,"Measure No. 26 - Definition of a person	",,,"Over votes	",0
+Panola,North Batesville #B,"Measure No. 26 - Definition of a person	",,,"Over votes	",0
+Panola,Enon,"Measure No. 26 - Definition of a person	",,,"Over votes	",0
+Panola,Como,"Measure No. 26 - Definition of a person	",,,"Over votes	",0
+Panola,Pleasant Mount,"Measure No. 26 - Definition of a person	",,,"Under votes	",18
+Panola,East Sardis,"Measure No. 26 - Definition of a person	",,,"Under votes	",6
+Panola,West Sardis,"Measure No. 26 - Definition of a person	",,,"Under votes	",2
+Panola,Cold Springs,"Measure No. 26 - Definition of a person	",,,"Under votes	",18
+Panola,South Sardis,"Measure No. 26 - Definition of a person	",,,"Under votes	",0
+Panola,Pleasant Grove,"Measure No. 26 - Definition of a person	",,,"Under votes	",8
+Panola,Longtown,"Measure No. 26 - Definition of a person	",,,"Under votes	",14
+Panola,Crenshaw,"Measure No. 26 - Definition of a person	",,,"Under votes	",17
+Panola,Curtis,"Measure No. 26 - Definition of a person	",,,"Under votes	",16
+Panola,Macedonia-Concord,"Measure No. 26 - Definition of a person	",,,"Under votes	",21
+Panola,Batesville #3,"Measure No. 26 - Definition of a person	",,,"Under votes	",12
+Panola,Courtland,"Measure No. 26 - Definition of a person	",,,"Under votes	",35
+Panola,Pope,"Measure No. 26 - Definition of a person	",,,"Under votes	",32
+Panola,Tocowa,"Measure No. 26 - Definition of a person	",,,"Under votes	",6
+Panola,East Batesville #4,"Measure No. 26 - Definition of a person	",,,"Under votes	",21
+Panola,Eureka,"Measure No. 26 - Definition of a person	",,,"Under votes	",24
+Panola,North Springport,"Measure No. 26 - Definition of a person	",,,"Under votes	",42
+Panola,South Springport,"Measure No. 26 - Definition of a person	",,,"Under votes	",55
+Panola,Cole's Point,"Measure No. 26 - Definition of a person	",,,"Under votes	",13
+Panola,East Batesville,"Measure No. 26 - Definition of a person	",,,"Under votes	",1
+Panola,North Batesville #A,"Measure No. 26 - Definition of a person	",,,"Under votes	",16
+Panola,North Batesville #B,"Measure No. 26 - Definition of a person	",,,"Under votes	",72
+Panola,Enon,"Measure No. 26 - Definition of a person	",,,"Under votes	",3
+Panola,Como,"Measure No. 26 - Definition of a person	",,,"Under votes	",13
+Panola,Pleasant Mount,"Measure No. 27 - Voter ID	",,,Yes,178
+Panola,East Sardis,"Measure No. 27 - Voter ID	",,,Yes,286
+Panola,West Sardis,"Measure No. 27 - Voter ID	",,,Yes,151
+Panola,Cold Springs,"Measure No. 27 - Voter ID	",,,Yes,86
+Panola,South Sardis,"Measure No. 27 - Voter ID	",,,Yes,374
+Panola,Pleasant Grove,"Measure No. 27 - Voter ID	",,,Yes,131
+Panola,Longtown,"Measure No. 27 - Voter ID	",,,Yes,100
+Panola,Crenshaw,"Measure No. 27 - Voter ID	",,,Yes,164
+Panola,Curtis,"Measure No. 27 - Voter ID	",,,Yes,177
+Panola,Macedonia-Concord,"Measure No. 27 - Voter ID	",,,Yes,66
+Panola,Batesville #3,"Measure No. 27 - Voter ID	",,,Yes,428
+Panola,Courtland,"Measure No. 27 - Voter ID	",,,Yes,382
+Panola,Pope,"Measure No. 27 - Voter ID	",,,Yes,480
+Panola,Tocowa,"Measure No. 27 - Voter ID	",,,Yes,544
+Panola,East Batesville #4,"Measure No. 27 - Voter ID	",,,Yes,409
+Panola,Eureka,"Measure No. 27 - Voter ID	",,,Yes,589
+Panola,North Springport,"Measure No. 27 - Voter ID	",,,Yes,391
+Panola,South Springport,"Measure No. 27 - Voter ID	",,,Yes,548
+Panola,Cole's Point,"Measure No. 27 - Voter ID	",,,Yes,228
+Panola,East Batesville,"Measure No. 27 - Voter ID	",,,Yes,793
+Panola,North Batesville #A,"Measure No. 27 - Voter ID	",,,Yes,479
+Panola,North Batesville #B,"Measure No. 27 - Voter ID	",,,Yes,269
+Panola,Enon,"Measure No. 27 - Voter ID	",,,Yes,87
+Panola,Como,"Measure No. 27 - Voter ID	",,,Yes,375
+Panola,Pleasant Mount,"Measure No. 27 - Voter ID	",,,No,128
+Panola,East Sardis,"Measure No. 27 - Voter ID	",,,No,73
+Panola,West Sardis,"Measure No. 27 - Voter ID	",,,No,361
+Panola,Cold Springs,"Measure No. 27 - Voter ID	",,,No,147
+Panola,South Sardis,"Measure No. 27 - Voter ID	",,,No,483
+Panola,Pleasant Grove,"Measure No. 27 - Voter ID	",,,No,58
+Panola,Longtown,"Measure No. 27 - Voter ID	",,,No,103
+Panola,Crenshaw,"Measure No. 27 - Voter ID	",,,No,117
+Panola,Curtis,"Measure No. 27 - Voter ID	",,,No,249
+Panola,Macedonia-Concord,"Measure No. 27 - Voter ID	",,,No,181
+Panola,Batesville #3,"Measure No. 27 - Voter ID	",,,No,125
+Panola,Courtland,"Measure No. 27 - Voter ID	",,,No,559
+Panola,Pope,"Measure No. 27 - Voter ID	",,,No,206
+Panola,Tocowa,"Measure No. 27 - Voter ID	",,,No,184
+Panola,East Batesville #4,"Measure No. 27 - Voter ID	",,,No,87
+Panola,Eureka,"Measure No. 27 - Voter ID	",,,No,153
+Panola,North Springport,"Measure No. 27 - Voter ID	",,,No,212
+Panola,South Springport,"Measure No. 27 - Voter ID	",,,No,233
+Panola,Cole's Point,"Measure No. 27 - Voter ID	",,,No,66
+Panola,East Batesville,"Measure No. 27 - Voter ID	",,,No,163
+Panola,North Batesville #A,"Measure No. 27 - Voter ID	",,,No,194
+Panola,North Batesville #B,"Measure No. 27 - Voter ID	",,,No,589
+Panola,Enon,"Measure No. 27 - Voter ID	",,,No,32
+Panola,Como,"Measure No. 27 - Voter ID	",,,No,545
+Panola,Pleasant Mount,"Measure No. 27 - Voter ID	",,,"Over votes	",0
+Panola,East Sardis,"Measure No. 27 - Voter ID	",,,"Over votes	",0
+Panola,West Sardis,"Measure No. 27 - Voter ID	",,,"Over votes	",0
+Panola,Cold Springs,"Measure No. 27 - Voter ID	",,,"Over votes	",0
+Panola,South Sardis,"Measure No. 27 - Voter ID	",,,"Over votes	",0
+Panola,Pleasant Grove,"Measure No. 27 - Voter ID	",,,"Over votes	",0
+Panola,Longtown,"Measure No. 27 - Voter ID	",,,"Over votes	",0
+Panola,Crenshaw,"Measure No. 27 - Voter ID	",,,"Over votes	",0
+Panola,Curtis,"Measure No. 27 - Voter ID	",,,"Over votes	",0
+Panola,Macedonia-Concord,"Measure No. 27 - Voter ID	",,,"Over votes	",0
+Panola,Batesville #3,"Measure No. 27 - Voter ID	",,,"Over votes	",0
+Panola,Courtland,"Measure No. 27 - Voter ID	",,,"Over votes	",0
+Panola,Pope,"Measure No. 27 - Voter ID	",,,"Over votes	",0
+Panola,Tocowa,"Measure No. 27 - Voter ID	",,,"Over votes	",0
+Panola,East Batesville #4,"Measure No. 27 - Voter ID	",,,"Over votes	",0
+Panola,Eureka,"Measure No. 27 - Voter ID	",,,"Over votes	",0
+Panola,North Springport,"Measure No. 27 - Voter ID	",,,"Over votes	",0
+Panola,South Springport,"Measure No. 27 - Voter ID	",,,"Over votes	",0
+Panola,Cole's Point,"Measure No. 27 - Voter ID	",,,"Over votes	",0
+Panola,East Batesville,"Measure No. 27 - Voter ID	",,,"Over votes	",0
+Panola,North Batesville #A,"Measure No. 27 - Voter ID	",,,"Over votes	",0
+Panola,North Batesville #B,"Measure No. 27 - Voter ID	",,,"Over votes	",0
+Panola,Enon,"Measure No. 27 - Voter ID	",,,"Over votes	",0
+Panola,Como,"Measure No. 27 - Voter ID	",,,"Over votes	",0
+Panola,Pleasant Mount,"Measure No. 27 - Voter ID	",,,"Under votes	",10
+Panola,East Sardis,"Measure No. 27 - Voter ID	",,,"Under votes	",8
+Panola,West Sardis,"Measure No. 27 - Voter ID	",,,"Under votes	",3
+Panola,Cold Springs,"Measure No. 27 - Voter ID	",,,"Under votes	",16
+Panola,South Sardis,"Measure No. 27 - Voter ID	",,,"Under votes	",0
+Panola,Pleasant Grove,"Measure No. 27 - Voter ID	",,,"Under votes	",8
+Panola,Longtown,"Measure No. 27 - Voter ID	",,,"Under votes	",16
+Panola,Crenshaw,"Measure No. 27 - Voter ID	",,,"Under votes	",26
+Panola,Curtis,"Measure No. 27 - Voter ID	",,,"Under votes	",21
+Panola,Macedonia-Concord,"Measure No. 27 - Voter ID	",,,"Under votes	",18
+Panola,Batesville #3,"Measure No. 27 - Voter ID	",,,"Under votes	",3
+Panola,Courtland,"Measure No. 27 - Voter ID	",,,"Under votes	",40
+Panola,Pope,"Measure No. 27 - Voter ID	",,,"Under votes	",41
+Panola,Tocowa,"Measure No. 27 - Voter ID	",,,"Under votes	",6
+Panola,East Batesville #4,"Measure No. 27 - Voter ID	",,,"Under votes	",22
+Panola,Eureka,"Measure No. 27 - Voter ID	",,,"Under votes	",28
+Panola,North Springport,"Measure No. 27 - Voter ID	",,,"Under votes	",25
+Panola,South Springport,"Measure No. 27 - Voter ID	",,,"Under votes	",32
+Panola,Cole's Point,"Measure No. 27 - Voter ID	",,,"Under votes	",14
+Panola,East Batesville,"Measure No. 27 - Voter ID	",,,"Under votes	",2
+Panola,North Batesville #A,"Measure No. 27 - Voter ID	",,,"Under votes	",12
+Panola,North Batesville #B,"Measure No. 27 - Voter ID	",,,"Under votes	",70
+Panola,Enon,"Measure No. 27 - Voter ID	",,,"Under votes	",1
+Panola,Como,"Measure No. 27 - Voter ID	",,,"Under votes	",6
+Panola,Pleasant Mount,"Measure No. 31 - Eminent Domain	",,,Yes,208
+Panola,East Sardis,"Measure No. 31 - Eminent Domain	",,,Yes,287
+Panola,West Sardis,"Measure No. 31 - Eminent Domain	",,,Yes,318
+Panola,Cold Springs,"Measure No. 31 - Eminent Domain	",,,Yes,169
+Panola,South Sardis,"Measure No. 31 - Eminent Domain	",,,Yes,602
+Panola,Pleasant Grove,"Measure No. 31 - Eminent Domain	",,,Yes,143
+Panola,Longtown,"Measure No. 31 - Eminent Domain	",,,Yes,142
+Panola,Crenshaw,"Measure No. 31 - Eminent Domain	",,,Yes,186
+Panola,Curtis,"Measure No. 31 - Eminent Domain	",,,Yes,270
+Panola,Macedonia-Concord,"Measure No. 31 - Eminent Domain	",,,Yes,162
+Panola,Batesville #3,"Measure No. 31 - Eminent Domain	",,,Yes,437
+Panola,Courtland,"Measure No. 31 - Eminent Domain	",,,Yes,678
+Panola,Pope,"Measure No. 31 - Eminent Domain	",,,Yes,549
+Panola,Tocowa,"Measure No. 31 - Eminent Domain	",,,Yes,576
+Panola,East Batesville #4,"Measure No. 31 - Eminent Domain	",,,Yes,400
+Panola,Eureka,"Measure No. 31 - Eminent Domain	",,,Yes,628
+Panola,North Springport,"Measure No. 31 - Eminent Domain	",,,Yes,474
+Panola,South Springport,"Measure No. 31 - Eminent Domain	",,,Yes,607
+Panola,Cole's Point,"Measure No. 31 - Eminent Domain	",,,Yes,228
+Panola,East Batesville,"Measure No. 31 - Eminent Domain	",,,Yes,762
+Panola,North Batesville #A,"Measure No. 31 - Eminent Domain	",,,Yes,520
+Panola,North Batesville #B,"Measure No. 31 - Eminent Domain	",,,Yes,500
+Panola,Enon,"Measure No. 31 - Eminent Domain	",,,Yes,91
+Panola,Como,"Measure No. 31 - Eminent Domain	",,,Yes,562
+Panola,Pleasant Mount,"Measure No. 31 - Eminent Domain	",,,No,99
+Panola,East Sardis,"Measure No. 31 - Eminent Domain	",,,No,69
+Panola,West Sardis,"Measure No. 31 - Eminent Domain	",,,No,194
+Panola,Cold Springs,"Measure No. 31 - Eminent Domain	",,,No,57
+Panola,South Sardis,"Measure No. 31 - Eminent Domain	",,,No,259
+Panola,Pleasant Grove,"Measure No. 31 - Eminent Domain	",,,No,46
+Panola,Longtown,"Measure No. 31 - Eminent Domain	",,,No,64
+Panola,Crenshaw,"Measure No. 31 - Eminent Domain	",,,No,97
+Panola,Curtis,"Measure No. 31 - Eminent Domain	",,,No,159
+Panola,Macedonia-Concord,"Measure No. 31 - Eminent Domain	",,,No,82
+Panola,Batesville #3,"Measure No. 31 - Eminent Domain	",,,No,113
+Panola,Courtland,"Measure No. 31 - Eminent Domain	",,,No,275
+Panola,Pope,"Measure No. 31 - Eminent Domain	",,,No,138
+Panola,Tocowa,"Measure No. 31 - Eminent Domain	",,,No,154
+Panola,East Batesville #4,"Measure No. 31 - Eminent Domain	",,,No,103
+Panola,Eureka,"Measure No. 31 - Eminent Domain	",,,No,127
+Panola,North Springport,"Measure No. 31 - Eminent Domain	",,,No,135
+Panola,South Springport,"Measure No. 31 - Eminent Domain	",,,No,178
+Panola,Cole's Point,"Measure No. 31 - Eminent Domain	",,,No,69
+Panola,East Batesville,"Measure No. 31 - Eminent Domain	",,,No,195
+Panola,North Batesville #A,"Measure No. 31 - Eminent Domain	",,,No,156
+Panola,North Batesville #B,"Measure No. 31 - Eminent Domain	",,,No,359
+Panola,Enon,"Measure No. 31 - Eminent Domain	",,,No,29
+Panola,Como,"Measure No. 31 - Eminent Domain	",,,No,359
+Panola,Pleasant Mount,"Measure No. 31 - Eminent Domain	",,,"Over votes	",0
+Panola,East Sardis,"Measure No. 31 - Eminent Domain	",,,"Over votes	",0
+Panola,West Sardis,"Measure No. 31 - Eminent Domain	",,,"Over votes	",0
+Panola,Cold Springs,"Measure No. 31 - Eminent Domain	",,,"Over votes	",0
+Panola,South Sardis,"Measure No. 31 - Eminent Domain	",,,"Over votes	",0
+Panola,Pleasant Grove,"Measure No. 31 - Eminent Domain	",,,"Over votes	",0
+Panola,Longtown,"Measure No. 31 - Eminent Domain	",,,"Over votes	",0
+Panola,Crenshaw,"Measure No. 31 - Eminent Domain	",,,"Over votes	",0
+Panola,Curtis,"Measure No. 31 - Eminent Domain	",,,"Over votes	",0
+Panola,Macedonia-Concord,"Measure No. 31 - Eminent Domain	",,,"Over votes	",0
+Panola,Batesville #3,"Measure No. 31 - Eminent Domain	",,,"Over votes	",0
+Panola,Courtland,"Measure No. 31 - Eminent Domain	",,,"Over votes	",0
+Panola,Pope,"Measure No. 31 - Eminent Domain	",,,"Over votes	",0
+Panola,Tocowa,"Measure No. 31 - Eminent Domain	",,,"Over votes	",0
+Panola,East Batesville #4,"Measure No. 31 - Eminent Domain	",,,"Over votes	",0
+Panola,Eureka,"Measure No. 31 - Eminent Domain	",,,"Over votes	",0
+Panola,North Springport,"Measure No. 31 - Eminent Domain	",,,"Over votes	",0
+Panola,South Springport,"Measure No. 31 - Eminent Domain	",,,"Over votes	",0
+Panola,Cole's Point,"Measure No. 31 - Eminent Domain	",,,"Over votes	",0
+Panola,East Batesville,"Measure No. 31 - Eminent Domain	",,,"Over votes	",0
+Panola,North Batesville #A,"Measure No. 31 - Eminent Domain	",,,"Over votes	",0
+Panola,North Batesville #B,"Measure No. 31 - Eminent Domain	",,,"Over votes	",0
+Panola,Enon,"Measure No. 31 - Eminent Domain	",,,"Over votes	",0
+Panola,Como,"Measure No. 31 - Eminent Domain	",,,"Over votes	",0
+Panola,Pleasant Mount,"Measure No. 31 - Eminent Domain	",,,"Under votes	",9
+Panola,East Sardis,"Measure No. 31 - Eminent Domain	",,,"Under votes	",11
+Panola,West Sardis,"Measure No. 31 - Eminent Domain	",,,"Under votes	",2
+Panola,Cold Springs,"Measure No. 31 - Eminent Domain	",,,"Under votes	",23
+Panola,South Sardis,"Measure No. 31 - Eminent Domain	",,,"Under votes	",0
+Panola,Pleasant Grove,"Measure No. 31 - Eminent Domain	",,,"Under votes	",8
+Panola,Longtown,"Measure No. 31 - Eminent Domain	",,,"Under votes	",13
+Panola,Crenshaw,"Measure No. 31 - Eminent Domain	",,,"Under votes	",24
+Panola,Curtis,"Measure No. 31 - Eminent Domain	",,,"Under votes	",19
+Panola,Macedonia-Concord,"Measure No. 31 - Eminent Domain	",,,"Under votes	",21
+Panola,Batesville #3,"Measure No. 31 - Eminent Domain	",,,"Under votes	",6
+Panola,Courtland,"Measure No. 31 - Eminent Domain	",,,"Under votes	",34
+Panola,Pope,"Measure No. 31 - Eminent Domain	",,,"Under votes	",40
+Panola,Tocowa,"Measure No. 31 - Eminent Domain	",,,"Under votes	",4
+Panola,East Batesville #4,"Measure No. 31 - Eminent Domain	",,,"Under votes	",15
+Panola,Eureka,"Measure No. 31 - Eminent Domain	",,,"Under votes	",15
+Panola,North Springport,"Measure No. 31 - Eminent Domain	",,,"Under votes	",19
+Panola,South Springport,"Measure No. 31 - Eminent Domain	",,,"Under votes	",28
+Panola,Cole's Point,"Measure No. 31 - Eminent Domain	",,,"Under votes	",11
+Panola,East Batesville,"Measure No. 31 - Eminent Domain	",,,"Under votes	",2
+Panola,North Batesville #A,"Measure No. 31 - Eminent Domain	",,,"Under votes	",10
+Panola,North Batesville #B,"Measure No. 31 - Eminent Domain	",,,"Under votes	",69
+Panola,Enon,"Measure No. 31 - Eminent Domain	",,,"Under votes	",0
+Panola,Como,"Measure No. 31 - Eminent Domain	",,,"Under votes	",5
