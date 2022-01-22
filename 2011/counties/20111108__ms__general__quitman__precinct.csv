@@ -319,24 +319,24 @@ Quitman,West Lambert -2,State Senate,11,,Write-in,7
 Quitman,Lambert-7,State Senate,11,,Write-in,7
 Quitman,Lambert-10,State Senate,11,,Write-in,4
 Quitman,Crowder,State Senate,11,,Write-in,24
-Quitman,Crenshaw,State House,09,Democrat,Clara Henderson Burnett,98
-Quitman,Sledge,State House,09,Democrat,Clara Henderson Burnett,189
-Quitman,Darling,State House,09,Democrat,Clara Henderson Burnett,162
-Quitman,Belen,State House,09,Democrat,Clara Henderson Burnett,99
-Quitman,District 3 North,State House,09,Democrat,Clara Henderson Burnett,228
-Quitman,North West Marks,State House,09,Democrat,Clara Henderson Burnett,186
-Quitman,District 3 South -3,State House,09,Democrat,Clara Henderson Burnett,155
-Quitman,South West Marks -2,State House,09,Democrat,Clara Henderson Burnett,15
-Quitman,West Lambert -2,State House,09,Democrat,Clara Henderson Burnett,55
-Quitman,Crenshaw,State House,09,,Write-in,0
-Quitman,Sledge,State House,09,,Write-in,0
-Quitman,Darling,State House,09,,Write-in,0
-Quitman,Belen,State House,09,,Write-in,0
-Quitman,District 3 North,State House,09,,Write-in,3
-Quitman,North West Marks,State House,09,,Write-in,0
-Quitman,District 3 South -3,State House,09,,Write-in,2
-Quitman,South West Marks -2,State House,09,,Write-in,0
-Quitman,West Lambert -2,State House,09,,Write-in,0
+Quitman,Crenshaw,State House,9,Democrat,Clara Henderson Burnett,98
+Quitman,Sledge,State House,9,Democrat,Clara Henderson Burnett,189
+Quitman,Darling,State House,9,Democrat,Clara Henderson Burnett,162
+Quitman,Belen,State House,9,Democrat,Clara Henderson Burnett,99
+Quitman,District 3 North,State House,9,Democrat,Clara Henderson Burnett,228
+Quitman,North West Marks,State House,9,Democrat,Clara Henderson Burnett,186
+Quitman,District 3 South -3,State House,9,Democrat,Clara Henderson Burnett,155
+Quitman,South West Marks -2,State House,9,Democrat,Clara Henderson Burnett,15
+Quitman,West Lambert -2,State House,9,Democrat,Clara Henderson Burnett,55
+Quitman,Crenshaw,State House,9,,Write-in,0
+Quitman,Sledge,State House,9,,Write-in,0
+Quitman,Darling,State House,9,,Write-in,0
+Quitman,Belen,State House,9,,Write-in,0
+Quitman,District 3 North,State House,9,,Write-in,3
+Quitman,North West Marks,State House,9,,Write-in,0
+Quitman,District 3 South -3,State House,9,,Write-in,2
+Quitman,South West Marks -2,State House,9,,Write-in,0
+Quitman,West Lambert -2,State House,9,,Write-in,0
 Quitman,District 3 South -9,State House,26,Democrat,Chuck Espy,14
 Quitman,South West Marks -8,State House,26,Democrat,Chuck Espy,105
 Quitman,West Lambert -8,State House,26,Democrat,Chuck Espy,97
@@ -351,29 +351,195 @@ Quitman,West Lambert -11,State House,30,Democrat,Robert E. Huddleston,9
 Quitman,Lambert-10,State House,30,Democrat,Robert E. Huddleston,15
 Quitman,West Lambert -11,State House,30,,Write-in,0
 Quitman,Lambert-10,State House,30,,Write-in,0
-Quitman,,Governor,,Republican,Phil Bryant,1009
-Quitman,,Governor,,Democrat,Johnny L. DuPree,1307
-Quitman,,Lieutenant Governor,,Republican,Tate Reeves,1286
-Quitman,,Lieutenant Governor,,Reform,Tracella Lou O'Hara Hill,654
-Quitman,,Secretary of State,,Republican,Delbert Hosemann,1521
-Quitman,,Attorney General,,Democrat,Jim Hood,1536
-Quitman,,Attorney General,,Republican,Steve Simpson,644
-Quitman,,State Auditor,,Republican,Stacey E. Pickering,1050
-Quitman,,State Auditor,,Reform,Ashley Norwood,839
-Quitman,,Treasurer,,Republican,Lynn Fitch,859
-Quitman,,Treasurer,,Democrat,Connie Moran,1125
-Quitman,,Treasurer,,Reform,Shawn O'Hara,127
-Quitman,,Commissioner of Agriculture & Commerce,,Democrat,Joel Gill,1264
-Quitman,,Commissioner of Agriculture & Commerce,,Republican,Cindy Hyde-Smith,745
-Quitman,,Commissioner of Agriculture & Commerce,,Reform,Cathy L. Toole,102
-Quitman,,Commissioner of Insurance,,Republican,Mike Chaney,974
-Quitman,,Commissioner of Insurance,,Democrat,Louis Fondren,1026
-Quitman,,Commissioner of Insurance,,Reform,Barbara Dale Washer,147
-Quitman,,State Senate,11,Democrat,Robert L. Jackson,1578
-Quitman,,State Senate,11,,Write-in,140
-Quitman,,State House,09,Democrat,Clara Henderson Burnett,1187
-Quitman,,State House,09,,Write-in,5
-Quitman,,State House,26,Democrat,Chuck Espy,560
-Quitman,,State House,26,,Write-in,5
-Quitman,,State House,30,Democrat,Robert E. Huddleston,24
-Quitman,,State House,30,,Write-in,0
+Quitman,Crenshaw,"Measure No. 26 - Definition of a person	",,,Yes,28
+Quitman,Sledge,"Measure No. 26 - Definition of a person	",,,Yes,77
+Quitman,Darling,"Measure No. 26 - Definition of a person	",,,Yes,69
+Quitman,Belen,"Measure No. 26 - Definition of a person	",,,Yes,60
+Quitman,District 3 North,"Measure No. 26 - Definition of a person	",,,Yes,156
+Quitman,North West Marks,"Measure No. 26 - Definition of a person	",,,Yes,87
+Quitman,District 3 South -9,"Measure No. 26 - Definition of a person	",,,Yes,23
+Quitman,District 3 South -3,"Measure No. 26 - Definition of a person	",,,Yes,117
+Quitman,South West Marks -8,"Measure No. 26 - Definition of a person	",,,Yes,46
+Quitman,South West Marks -2,"Measure No. 26 - Definition of a person	",,,Yes,19
+Quitman,West Lambert -8,"Measure No. 26 - Definition of a person	",,,Yes,40
+Quitman,West Lambert -11,"Measure No. 26 - Definition of a person	",,,Yes,6
+Quitman,West Lambert -2,"Measure No. 26 - Definition of a person	",,,Yes,33
+Quitman,Lambert-7,"Measure No. 26 - Definition of a person	",,,Yes,57
+Quitman,Lambert-10,"Measure No. 26 - Definition of a person	",,,Yes,16
+Quitman,Crowder,"Measure No. 26 - Definition of a person	",,,Yes,153
+Quitman,Crenshaw,"Measure No. 26 - Definition of a person	",,,No,61
+Quitman,Sledge,"Measure No. 26 - Definition of a person	",,,No,121
+Quitman,Darling,"Measure No. 26 - Definition of a person	",,,No,106
+Quitman,Belen,"Measure No. 26 - Definition of a person	",,,No,60
+Quitman,District 3 North,"Measure No. 26 - Definition of a person	",,,No,157
+Quitman,North West Marks,"Measure No. 26 - Definition of a person	",,,No,146
+Quitman,District 3 South -9,"Measure No. 26 - Definition of a person	",,,No,4
+Quitman,District 3 South -3,"Measure No. 26 - Definition of a person	",,,No,89
+Quitman,South West Marks -8,"Measure No. 26 - Definition of a person	",,,No,62
+Quitman,South West Marks -2,"Measure No. 26 - Definition of a person	",,,No,9
+Quitman,West Lambert -8,"Measure No. 26 - Definition of a person	",,,No,59
+Quitman,West Lambert -11,"Measure No. 26 - Definition of a person	",,,No,7
+Quitman,West Lambert -2,"Measure No. 26 - Definition of a person	",,,No,36
+Quitman,Lambert-7,"Measure No. 26 - Definition of a person	",,,No,134
+Quitman,Lambert-10,"Measure No. 26 - Definition of a person	",,,No,4
+Quitman,Crowder,"Measure No. 26 - Definition of a person	",,,No,72
+Quitman,Crenshaw,"Measure No. 26 - Definition of a person	",,,"Over votes	",0
+Quitman,Sledge,"Measure No. 26 - Definition of a person	",,,"Over votes	",0
+Quitman,Darling,"Measure No. 26 - Definition of a person	",,,"Over votes	",0
+Quitman,Belen,"Measure No. 26 - Definition of a person	",,,"Over votes	",0
+Quitman,District 3 North,"Measure No. 26 - Definition of a person	",,,"Over votes	",0
+Quitman,North West Marks,"Measure No. 26 - Definition of a person	",,,"Over votes	",0
+Quitman,District 3 South -9,"Measure No. 26 - Definition of a person	",,,"Over votes	",0
+Quitman,District 3 South -3,"Measure No. 26 - Definition of a person	",,,"Over votes	",0
+Quitman,South West Marks -8,"Measure No. 26 - Definition of a person	",,,"Over votes	",0
+Quitman,South West Marks -2,"Measure No. 26 - Definition of a person	",,,"Over votes	",0
+Quitman,West Lambert -8,"Measure No. 26 - Definition of a person	",,,"Over votes	",0
+Quitman,West Lambert -11,"Measure No. 26 - Definition of a person	",,,"Over votes	",0
+Quitman,West Lambert -2,"Measure No. 26 - Definition of a person	",,,"Over votes	",0
+Quitman,Lambert-7,"Measure No. 26 - Definition of a person	",,,"Over votes	",0
+Quitman,Lambert-10,"Measure No. 26 - Definition of a person	",,,"Over votes	",0
+Quitman,Crowder,"Measure No. 26 - Definition of a person	",,,"Over votes	",0
+Quitman,Crenshaw,"Measure No. 26 - Definition of a person	",,,"Under votes	",0
+Quitman,Sledge,"Measure No. 26 - Definition of a person	",,,"Under votes	",0
+Quitman,Darling,"Measure No. 26 - Definition of a person	",,,"Under votes	",0
+Quitman,Belen,"Measure No. 26 - Definition of a person	",,,"Under votes	",0
+Quitman,District 3 North,"Measure No. 26 - Definition of a person	",,,"Under votes	",0
+Quitman,North West Marks,"Measure No. 26 - Definition of a person	",,,"Under votes	",0
+Quitman,District 3 South -9,"Measure No. 26 - Definition of a person	",,,"Under votes	",0
+Quitman,District 3 South -3,"Measure No. 26 - Definition of a person	",,,"Under votes	",0
+Quitman,South West Marks -8,"Measure No. 26 - Definition of a person	",,,"Under votes	",0
+Quitman,South West Marks -2,"Measure No. 26 - Definition of a person	",,,"Under votes	",0
+Quitman,West Lambert -8,"Measure No. 26 - Definition of a person	",,,"Under votes	",0
+Quitman,West Lambert -11,"Measure No. 26 - Definition of a person	",,,"Under votes	",0
+Quitman,West Lambert -2,"Measure No. 26 - Definition of a person	",,,"Under votes	",0
+Quitman,Lambert-7,"Measure No. 26 - Definition of a person	",,,"Under votes	",0
+Quitman,Lambert-10,"Measure No. 26 - Definition of a person	",,,"Under votes	",0
+Quitman,Crowder,"Measure No. 26 - Definition of a person	",,,"Under votes	",0
+Quitman,Crenshaw,"Measure No. 27 - Voter ID	",,,Yes,37
+Quitman,Sledge,"Measure No. 27 - Voter ID	",,,Yes,106
+Quitman,Darling,"Measure No. 27 - Voter ID	",,,Yes,84
+Quitman,Belen,"Measure No. 27 - Voter ID	",,,Yes,62
+Quitman,District 3 North,"Measure No. 27 - Voter ID	",,,Yes,208
+Quitman,North West Marks,"Measure No. 27 - Voter ID	",,,Yes,120
+Quitman,District 3 South -9,"Measure No. 27 - Voter ID	",,,Yes,26
+Quitman,District 3 South -3,"Measure No. 27 - Voter ID	",,,Yes,151
+Quitman,South West Marks -8,"Measure No. 27 - Voter ID	",,,Yes,48
+Quitman,South West Marks -2,"Measure No. 27 - Voter ID	",,,Yes,21
+Quitman,West Lambert -8,"Measure No. 27 - Voter ID	",,,Yes,47
+Quitman,West Lambert -11,"Measure No. 27 - Voter ID	",,,Yes,8
+Quitman,West Lambert -2,"Measure No. 27 - Voter ID	",,,Yes,36
+Quitman,Lambert-7,"Measure No. 27 - Voter ID	",,,Yes,88
+Quitman,Lambert-10,"Measure No. 27 - Voter ID	",,,Yes,13
+Quitman,Crowder,"Measure No. 27 - Voter ID	",,,Yes,188
+Quitman,Crenshaw,"Measure No. 27 - Voter ID	",,,No,63
+Quitman,Sledge,"Measure No. 27 - Voter ID	",,,No,110
+Quitman,Darling,"Measure No. 27 - Voter ID	",,,No,101
+Quitman,Belen,"Measure No. 27 - Voter ID	",,,No,60
+Quitman,District 3 North,"Measure No. 27 - Voter ID	",,,No,109
+Quitman,North West Marks,"Measure No. 27 - Voter ID	",,,No,120
+Quitman,District 3 South -9,"Measure No. 27 - Voter ID	",,,No,3
+Quitman,District 3 South -3,"Measure No. 27 - Voter ID	",,,No,60
+Quitman,South West Marks -8,"Measure No. 27 - Voter ID	",,,No,66
+Quitman,South West Marks -2,"Measure No. 27 - Voter ID	",,,No,7
+Quitman,West Lambert -8,"Measure No. 27 - Voter ID	",,,No,55
+Quitman,West Lambert -11,"Measure No. 27 - Voter ID	",,,No,5
+Quitman,West Lambert -2,"Measure No. 27 - Voter ID	",,,No,37
+Quitman,Lambert-7,"Measure No. 27 - Voter ID	",,,No,112
+Quitman,Lambert-10,"Measure No. 27 - Voter ID	",,,No,6
+Quitman,Crowder,"Measure No. 27 - Voter ID	",,,No,42
+Quitman,Crenshaw,"Measure No. 27 - Voter ID	",,,"Over votes	",0
+Quitman,Sledge,"Measure No. 27 - Voter ID	",,,"Over votes	",0
+Quitman,Darling,"Measure No. 27 - Voter ID	",,,"Over votes	",0
+Quitman,Belen,"Measure No. 27 - Voter ID	",,,"Over votes	",0
+Quitman,District 3 North,"Measure No. 27 - Voter ID	",,,"Over votes	",0
+Quitman,North West Marks,"Measure No. 27 - Voter ID	",,,"Over votes	",0
+Quitman,District 3 South -9,"Measure No. 27 - Voter ID	",,,"Over votes	",0
+Quitman,District 3 South -3,"Measure No. 27 - Voter ID	",,,"Over votes	",0
+Quitman,South West Marks -8,"Measure No. 27 - Voter ID	",,,"Over votes	",0
+Quitman,South West Marks -2,"Measure No. 27 - Voter ID	",,,"Over votes	",0
+Quitman,West Lambert -8,"Measure No. 27 - Voter ID	",,,"Over votes	",0
+Quitman,West Lambert -11,"Measure No. 27 - Voter ID	",,,"Over votes	",0
+Quitman,West Lambert -2,"Measure No. 27 - Voter ID	",,,"Over votes	",0
+Quitman,Lambert-7,"Measure No. 27 - Voter ID	",,,"Over votes	",0
+Quitman,Lambert-10,"Measure No. 27 - Voter ID	",,,"Over votes	",0
+Quitman,Crowder,"Measure No. 27 - Voter ID	",,,"Over votes	",0
+Quitman,Crenshaw,"Measure No. 27 - Voter ID	",,,"Under votes	",0
+Quitman,Sledge,"Measure No. 27 - Voter ID	",,,"Under votes	",0
+Quitman,Darling,"Measure No. 27 - Voter ID	",,,"Under votes	",0
+Quitman,Belen,"Measure No. 27 - Voter ID	",,,"Under votes	",0
+Quitman,District 3 North,"Measure No. 27 - Voter ID	",,,"Under votes	",0
+Quitman,North West Marks,"Measure No. 27 - Voter ID	",,,"Under votes	",0
+Quitman,District 3 South -9,"Measure No. 27 - Voter ID	",,,"Under votes	",0
+Quitman,District 3 South -3,"Measure No. 27 - Voter ID	",,,"Under votes	",0
+Quitman,South West Marks -8,"Measure No. 27 - Voter ID	",,,"Under votes	",0
+Quitman,South West Marks -2,"Measure No. 27 - Voter ID	",,,"Under votes	",0
+Quitman,West Lambert -8,"Measure No. 27 - Voter ID	",,,"Under votes	",0
+Quitman,West Lambert -11,"Measure No. 27 - Voter ID	",,,"Under votes	",0
+Quitman,West Lambert -2,"Measure No. 27 - Voter ID	",,,"Under votes	",0
+Quitman,Lambert-7,"Measure No. 27 - Voter ID	",,,"Under votes	",0
+Quitman,Lambert-10,"Measure No. 27 - Voter ID	",,,"Under votes	",0
+Quitman,Crowder,"Measure No. 27 - Voter ID	",,,"Under votes	",0
+Quitman,Crenshaw,"Measure No. 31 - Eminent Domain	",,,Yes,49
+Quitman,Sledge,"Measure No. 31 - Eminent Domain	",,,Yes,119
+Quitman,Darling,"Measure No. 31 - Eminent Domain	",,,Yes,97
+Quitman,Belen,"Measure No. 31 - Eminent Domain	",,,Yes,73
+Quitman,District 3 North,"Measure No. 31 - Eminent Domain	",,,Yes,226
+Quitman,North West Marks,"Measure No. 31 - Eminent Domain	",,,Yes,147
+Quitman,District 3 South -9,"Measure No. 31 - Eminent Domain	",,,Yes,23
+Quitman,District 3 South -3,"Measure No. 31 - Eminent Domain	",,,Yes,165
+Quitman,South West Marks -8,"Measure No. 31 - Eminent Domain	",,,Yes,64
+Quitman,South West Marks -2,"Measure No. 31 - Eminent Domain	",,,Yes,21
+Quitman,West Lambert -8,"Measure No. 31 - Eminent Domain	",,,Yes,51
+Quitman,West Lambert -11,"Measure No. 31 - Eminent Domain	",,,Yes,11
+Quitman,West Lambert -2,"Measure No. 31 - Eminent Domain	",,,Yes,43
+Quitman,Lambert-7,"Measure No. 31 - Eminent Domain	",,,Yes,106
+Quitman,Lambert-10,"Measure No. 31 - Eminent Domain	",,,Yes,15
+Quitman,Crowder,"Measure No. 31 - Eminent Domain	",,,Yes,196
+Quitman,Crenshaw,"Measure No. 31 - Eminent Domain	",,,No,54
+Quitman,Sledge,"Measure No. 31 - Eminent Domain	",,,No,98
+Quitman,Darling,"Measure No. 31 - Eminent Domain	",,,No,85
+Quitman,Belen,"Measure No. 31 - Eminent Domain	",,,No,49
+Quitman,District 3 North,"Measure No. 31 - Eminent Domain	",,,No,89
+Quitman,North West Marks,"Measure No. 31 - Eminent Domain	",,,No,91
+Quitman,District 3 South -9,"Measure No. 31 - Eminent Domain	",,,No,4
+Quitman,District 3 South -3,"Measure No. 31 - Eminent Domain	",,,No,43
+Quitman,South West Marks -8,"Measure No. 31 - Eminent Domain	",,,No,50
+Quitman,South West Marks -2,"Measure No. 31 - Eminent Domain	",,,No,7
+Quitman,West Lambert -8,"Measure No. 31 - Eminent Domain	",,,No,49
+Quitman,West Lambert -11,"Measure No. 31 - Eminent Domain	",,,No,2
+Quitman,West Lambert -2,"Measure No. 31 - Eminent Domain	",,,No,31
+Quitman,Lambert-7,"Measure No. 31 - Eminent Domain	",,,No,91
+Quitman,Lambert-10,"Measure No. 31 - Eminent Domain	",,,No,7
+Quitman,Crowder,"Measure No. 31 - Eminent Domain	",,,No,34
+Quitman,Crenshaw,"Measure No. 31 - Eminent Domain	",,,"Over votes	",0
+Quitman,Sledge,"Measure No. 31 - Eminent Domain	",,,"Over votes	",0
+Quitman,Darling,"Measure No. 31 - Eminent Domain	",,,"Over votes	",0
+Quitman,Belen,"Measure No. 31 - Eminent Domain	",,,"Over votes	",0
+Quitman,District 3 North,"Measure No. 31 - Eminent Domain	",,,"Over votes	",0
+Quitman,North West Marks,"Measure No. 31 - Eminent Domain	",,,"Over votes	",0
+Quitman,District 3 South -9,"Measure No. 31 - Eminent Domain	",,,"Over votes	",0
+Quitman,District 3 South -3,"Measure No. 31 - Eminent Domain	",,,"Over votes	",0
+Quitman,South West Marks -8,"Measure No. 31 - Eminent Domain	",,,"Over votes	",0
+Quitman,South West Marks -2,"Measure No. 31 - Eminent Domain	",,,"Over votes	",0
+Quitman,West Lambert -8,"Measure No. 31 - Eminent Domain	",,,"Over votes	",0
+Quitman,West Lambert -11,"Measure No. 31 - Eminent Domain	",,,"Over votes	",0
+Quitman,West Lambert -2,"Measure No. 31 - Eminent Domain	",,,"Over votes	",0
+Quitman,Lambert-7,"Measure No. 31 - Eminent Domain	",,,"Over votes	",0
+Quitman,Lambert-10,"Measure No. 31 - Eminent Domain	",,,"Over votes	",0
+Quitman,Crowder,"Measure No. 31 - Eminent Domain	",,,"Over votes	",0
+Quitman,Crenshaw,"Measure No. 31 - Eminent Domain	",,,"Under votes	",0
+Quitman,Sledge,"Measure No. 31 - Eminent Domain	",,,"Under votes	",0
+Quitman,Darling,"Measure No. 31 - Eminent Domain	",,,"Under votes	",0
+Quitman,Belen,"Measure No. 31 - Eminent Domain	",,,"Under votes	",0
+Quitman,District 3 North,"Measure No. 31 - Eminent Domain	",,,"Under votes	",0
+Quitman,North West Marks,"Measure No. 31 - Eminent Domain	",,,"Under votes	",0
+Quitman,District 3 South -9,"Measure No. 31 - Eminent Domain	",,,"Under votes	",0
+Quitman,District 3 South -3,"Measure No. 31 - Eminent Domain	",,,"Under votes	",0
+Quitman,South West Marks -8,"Measure No. 31 - Eminent Domain	",,,"Under votes	",0
+Quitman,South West Marks -2,"Measure No. 31 - Eminent Domain	",,,"Under votes	",0
+Quitman,West Lambert -8,"Measure No. 31 - Eminent Domain	",,,"Under votes	",0
+Quitman,West Lambert -11,"Measure No. 31 - Eminent Domain	",,,"Under votes	",0
+Quitman,West Lambert -2,"Measure No. 31 - Eminent Domain	",,,"Under votes	",0
+Quitman,Lambert-7,"Measure No. 31 - Eminent Domain	",,,"Under votes	",0
+Quitman,Lambert-10,"Measure No. 31 - Eminent Domain	",,,"Under votes	",0
+Quitman,Crowder,"Measure No. 31 - Eminent Domain	",,,"Under votes	",0
