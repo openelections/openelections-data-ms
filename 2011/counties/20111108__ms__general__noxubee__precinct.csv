@@ -212,26 +212,123 @@ Noxubee,District 3 Central,Commissioner of Insurance,,Reform,Barbara Dale Washer
 Noxubee,District 3 Central,State Senate,32,Democrat,"Sampson Jackson, II",656
 Noxubee,District 3 Central,State House,42,Democrat,Reecy L. Dickson,540
 Noxubee,District 3 Central,State House,42,Independent,Roy O. VanDevender,261
-Noxubee,,Governor,,Democrat,Johnny L. DuPree,2836
-Noxubee,,Governor,,Republican,Phil Bryant,1099
-Noxubee,,Lieutenant Governor,,Republican,Tate Reeves,1774
-Noxubee,,Lieutenant Governor,,Reform,Tracella Lou O'Hara Hill,960
-Noxubee,,Secretary of State,,Republican,Delbert Hosemann,1961
-Noxubee,,Attorney General,,Democrat,Jim Hood,2887
-Noxubee,,Attorney General,,Republican,Steve Simpson,847
-Noxubee,,State Auditor,,Republican,Stacey E. Pickering,1508
-Noxubee,,State Auditor,,Reform,Ashley Norwood,1098
-Noxubee,,Treasurer,,Republican,Lynn Fitch,1136
-Noxubee,,Treasurer,,Democrat,Connie Moran,2465
-Noxubee,,Treasurer,,Reform,Shawn O'Hara,92
-Noxubee,,Commissioner of Agriculture & Commerce,,Democrat,Joel Gill,2550
-Noxubee,,Commissioner of Agriculture & Commerce,,Republican,Cindy Hyde-Smith,1077
-Noxubee,,Commissioner of Agriculture & Commerce,,Reform,Cathy L. Toole,59
-Noxubee,,Commissioner of Insurance,,Democrat,Louis Fondren,2394
-Noxubee,,Commissioner of Insurance,,Republican,Mike Chaney,1157
-Noxubee,,Commissioner of Insurance,,Reform,Barbara Dale Washer,118
-Noxubee,,State Senate,16,Democrat,Bennie L. Turner,1032
-Noxubee,,State Senate,32,Democrat,"Sampson Jackson, II",1934
-Noxubee,,State House,38,Democrat,Tyrone Ellis,424
-Noxubee,,State House,42,Democrat,Reecy L. Dickson,2172
-Noxubee,,State House,42,Independent,Roy O. VanDevender,895
+Noxubee,Brooksville,Measure No. 26 - Definition of a person,,,Yes,257
+Noxubee,Mashulaville,Measure No. 26 - Definition of a person,,,Yes,90
+Noxubee,Prairie Point,Measure No. 26 - Definition of a person,,,Yes,83
+Noxubee,Shuqualak,Measure No. 26 - Definition of a person,,,Yes,165
+Noxubee,Summerville,Measure No. 26 - Definition of a person,,,Yes,47
+Noxubee,EARL NASH GYM,Measure No. 26 - Definition of a person,,,Yes,215
+Noxubee,Vo-Tech,Measure No. 26 - Definition of a person,,,Yes,67
+Noxubee,Savannah,Measure No. 26 - Definition of a person,,,Yes,17
+Noxubee,Cliftonville,Measure No. 26 - Definition of a person,,,Yes,88
+Noxubee,District 3 Central,Measure No. 26 - Definition of a person,,,Yes,247
+Noxubee,Brooksville,Measure No. 26 - Definition of a person,,,No,445
+Noxubee,Mashulaville,Measure No. 26 - Definition of a person,,,No,111
+Noxubee,Prairie Point,Measure No. 26 - Definition of a person,,,No,138
+Noxubee,Shuqualak,Measure No. 26 - Definition of a person,,,No,270
+Noxubee,Summerville,Measure No. 26 - Definition of a person,,,No,21
+Noxubee,EARL NASH GYM,Measure No. 26 - Definition of a person,,,No,404
+Noxubee,Vo-Tech,Measure No. 26 - Definition of a person,,,No,66
+Noxubee,Savannah,Measure No. 26 - Definition of a person,,,No,76
+Noxubee,Cliftonville,Measure No. 26 - Definition of a person,,,No,270
+Noxubee,District 3 Central,Measure No. 26 - Definition of a person,,,No,491
+Noxubee,Brooksville,Measure No. 26 - Definition of a person,,,Over Votes,0
+Noxubee,Mashulaville,Measure No. 26 - Definition of a person,,,Over Votes,0
+Noxubee,Prairie Point,Measure No. 26 - Definition of a person,,,Over Votes,0
+Noxubee,Shuqualak,Measure No. 26 - Definition of a person,,,Over Votes,0
+Noxubee,Summerville,Measure No. 26 - Definition of a person,,,Over Votes,0
+Noxubee,EARL NASH GYM,Measure No. 26 - Definition of a person,,,Over Votes,0
+Noxubee,Vo-Tech,Measure No. 26 - Definition of a person,,,Over Votes,0
+Noxubee,Savannah,Measure No. 26 - Definition of a person,,,Over Votes,0
+Noxubee,Cliftonville,Measure No. 26 - Definition of a person,,,Over Votes,0
+Noxubee,District 3 Central,Measure No. 26 - Definition of a person,,,Over Votes,0
+Noxubee,Brooksville,Measure No. 26 - Definition of a person,,,"Under Votes	",19
+Noxubee,Mashulaville,Measure No. 26 - Definition of a person,,,"Under Votes	",10
+Noxubee,Prairie Point,Measure No. 26 - Definition of a person,,,"Under Votes	",52
+Noxubee,Shuqualak,Measure No. 26 - Definition of a person,,,"Under Votes	",44
+Noxubee,Summerville,Measure No. 26 - Definition of a person,,,"Under Votes	",1
+Noxubee,EARL NASH GYM,Measure No. 26 - Definition of a person,,,"Under Votes	",73
+Noxubee,Vo-Tech,Measure No. 26 - Definition of a person,,,"Under Votes	",20
+Noxubee,Savannah,Measure No. 26 - Definition of a person,,,"Under Votes	",4
+Noxubee,Cliftonville,Measure No. 26 - Definition of a person,,,"Under Votes	",29
+Noxubee,District 3 Central,Measure No. 26 - Definition of a person,,,"Under Votes	",89
+Noxubee,Brooksville,"Measure No. 27 - Voter ID	",,,Yes,405
+Noxubee,Mashulaville,"Measure No. 27 - Voter ID	",,,Yes,131
+Noxubee,Prairie Point,"Measure No. 27 - Voter ID	",,,Yes,102
+Noxubee,Shuqualak,"Measure No. 27 - Voter ID	",,,Yes,259
+Noxubee,Summerville,"Measure No. 27 - Voter ID	",,,Yes,53
+Noxubee,EARL NASH GYM,"Measure No. 27 - Voter ID	",,,Yes,313
+Noxubee,Vo-Tech,"Measure No. 27 - Voter ID	",,,Yes,90
+Noxubee,Savannah,"Measure No. 27 - Voter ID	",,,Yes,54
+Noxubee,Cliftonville,"Measure No. 27 - Voter ID	",,,Yes,212
+Noxubee,District 3 Central,"Measure No. 27 - Voter ID	",,,Yes,358
+Noxubee,Brooksville,"Measure No. 27 - Voter ID	",,,No,319
+Noxubee,Mashulaville,"Measure No. 27 - Voter ID	",,,No,66
+Noxubee,Prairie Point,"Measure No. 27 - Voter ID	",,,No,132
+Noxubee,Shuqualak,"Measure No. 27 - Voter ID	",,,No,185
+Noxubee,Summerville,"Measure No. 27 - Voter ID	",,,No,19
+Noxubee,EARL NASH GYM,"Measure No. 27 - Voter ID	",,,No,328
+Noxubee,Vo-Tech,"Measure No. 27 - Voter ID	",,,No,49
+Noxubee,Savannah,"Measure No. 27 - Voter ID	",,,No,41
+Noxubee,Cliftonville,"Measure No. 27 - Voter ID	",,,No,148
+Noxubee,District 3 Central,"Measure No. 27 - Voter ID	",,,No,374
+Noxubee,Brooksville,"Measure No. 27 - Voter ID	",,,Over Votes,0
+Noxubee,Mashulaville,"Measure No. 27 - Voter ID	",,,Over Votes,0
+Noxubee,Prairie Point,"Measure No. 27 - Voter ID	",,,Over Votes,0
+Noxubee,Shuqualak,"Measure No. 27 - Voter ID	",,,Over Votes,0
+Noxubee,Summerville,"Measure No. 27 - Voter ID	",,,Over Votes,0
+Noxubee,EARL NASH GYM,"Measure No. 27 - Voter ID	",,,Over Votes,0
+Noxubee,Vo-Tech,"Measure No. 27 - Voter ID	",,,Over Votes,0
+Noxubee,Savannah,"Measure No. 27 - Voter ID	",,,Over Votes,0
+Noxubee,Cliftonville,"Measure No. 27 - Voter ID	",,,Over Votes,0
+Noxubee,District 3 Central,"Measure No. 27 - Voter ID	",,,Over Votes,0
+Noxubee,Brooksville,"Measure No. 27 - Voter ID	",,,"Under Votes	",19
+Noxubee,Mashulaville,"Measure No. 27 - Voter ID	",,,"Under Votes	",12
+Noxubee,Prairie Point,"Measure No. 27 - Voter ID	",,,"Under Votes	",46
+Noxubee,Shuqualak,"Measure No. 27 - Voter ID	",,,"Under Votes	",38
+Noxubee,Summerville,"Measure No. 27 - Voter ID	",,,"Under Votes	",0
+Noxubee,EARL NASH GYM,"Measure No. 27 - Voter ID	",,,"Under Votes	",62
+Noxubee,Vo-Tech,"Measure No. 27 - Voter ID	",,,"Under Votes	",19
+Noxubee,Savannah,"Measure No. 27 - Voter ID	",,,"Under Votes	",3
+Noxubee,Cliftonville,"Measure No. 27 - Voter ID	",,,"Under Votes	",32
+Noxubee,District 3 Central,"Measure No. 27 - Voter ID	",,,"Under Votes	",100
+Noxubee,Brooksville,"Measure No. 31 - Eminent Domain	",,,Yes,365
+Noxubee,Mashulaville,"Measure No. 31 - Eminent Domain	",,,Yes,117
+Noxubee,Prairie Point,"Measure No. 31 - Eminent Domain	",,,Yes,71
+Noxubee,Shuqualak,"Measure No. 31 - Eminent Domain	",,,Yes,208
+Noxubee,Summerville,"Measure No. 31 - Eminent Domain	",,,Yes,70
+Noxubee,EARL NASH GYM,"Measure No. 31 - Eminent Domain	",,,Yes,297
+Noxubee,Vo-Tech,"Measure No. 31 - Eminent Domain	",,,Yes,80
+Noxubee,Savannah,"Measure No. 31 - Eminent Domain	",,,Yes,57
+Noxubee,Cliftonville,"Measure No. 31 - Eminent Domain	",,,Yes,84
+Noxubee,District 3 Central,"Measure No. 31 - Eminent Domain	",,,Yes,325
+Noxubee,Brooksville,"Measure No. 31 - Eminent Domain	",,,No,365
+Noxubee,Mashulaville,"Measure No. 31 - Eminent Domain	",,,No,82
+Noxubee,Prairie Point,"Measure No. 31 - Eminent Domain	",,,No,156
+Noxubee,Shuqualak,"Measure No. 31 - Eminent Domain	",,,No,233
+Noxubee,Summerville,"Measure No. 31 - Eminent Domain	",,,No,44
+Noxubee,EARL NASH GYM,"Measure No. 31 - Eminent Domain	",,,No,333
+Noxubee,Vo-Tech,"Measure No. 31 - Eminent Domain	",,,No,54
+Noxubee,Savannah,"Measure No. 31 - Eminent Domain	",,,No,37
+Noxubee,Cliftonville,"Measure No. 31 - Eminent Domain	",,,No,271
+Noxubee,District 3 Central,"Measure No. 31 - Eminent Domain	",,,No,402
+Noxubee,Brooksville,"Measure No. 31 - Eminent Domain	",,,Over Votes,0
+Noxubee,Mashulaville,"Measure No. 31 - Eminent Domain	",,,Over Votes,0
+Noxubee,Prairie Point,"Measure No. 31 - Eminent Domain	",,,Over Votes,0
+Noxubee,Shuqualak,"Measure No. 31 - Eminent Domain	",,,Over Votes,0
+Noxubee,Summerville,"Measure No. 31 - Eminent Domain	",,,Over Votes,0
+Noxubee,EARL NASH GYM,"Measure No. 31 - Eminent Domain	",,,Over Votes,0
+Noxubee,Vo-Tech,"Measure No. 31 - Eminent Domain	",,,Over Votes,0
+Noxubee,Savannah,"Measure No. 31 - Eminent Domain	",,,Over Votes,0
+Noxubee,Cliftonville,"Measure No. 31 - Eminent Domain	",,,Over Votes,0
+Noxubee,District 3 Central,"Measure No. 31 - Eminent Domain	",,,Over Votes,0
+Noxubee,Brooksville,"Measure No. 31 - Eminent Domain	",,,"Under Votes	",21
+Noxubee,Mashulaville,"Measure No. 31 - Eminent Domain	",,,"Under Votes	",14
+Noxubee,Prairie Point,"Measure No. 31 - Eminent Domain	",,,"Under Votes	",39
+Noxubee,Shuqualak,"Measure No. 31 - Eminent Domain	",,,"Under Votes	",35
+Noxubee,Summerville,"Measure No. 31 - Eminent Domain	",,,"Under Votes	",0
+Noxubee,EARL NASH GYM,"Measure No. 31 - Eminent Domain	",,,"Under Votes	",51
+Noxubee,Vo-Tech,"Measure No. 31 - Eminent Domain	",,,"Under Votes	",14
+Noxubee,Savannah,"Measure No. 31 - Eminent Domain	",,,"Under Votes	",2
+Noxubee,Cliftonville,"Measure No. 31 - Eminent Domain	",,,"Under Votes	",27
+Noxubee,District 3 Central,"Measure No. 31 - Eminent Domain	",,,"Under Votes	",95
