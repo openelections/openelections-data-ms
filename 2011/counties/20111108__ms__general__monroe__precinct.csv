@@ -526,27 +526,303 @@ Monroe,5 Nettleton 5f3,State Senate,7,Democrat,Hob Bryan,508
 Monroe,5 Nettleton 5f3,State House,21,Democrat,Donnie Bell,166
 Monroe,5 Nettleton 5f3,State House,21,Republican,Deborah Tierce,164
 Monroe,5 Nettleton 5f3,State House,36,Democrat,David Gibbs,207
-Monroe,,Governor,,Republican,Phil Bryant,7721
-Monroe,,Governor,,Democrat,Johnny L. DuPree,4517
-Monroe,,Lieutenant Governor,,Republican,Tate Reeves,8773
-Monroe,,Lieutenant Governor,,Reform,Tracella Lou O'Hara Hill,2080
-Monroe,,Secretary of State,,Republican,Delbert Hosemann,9948
-Monroe,,Attorney General,,Democrat,Jim Hood,7591
-Monroe,,Attorney General,,Republican,Steve Simpson,4502
-Monroe,,State Auditor,,Republican,Stacey E. Pickering,8089
-Monroe,,State Auditor,,Reform,Ashley Norwood,2544
-Monroe,,Treasurer,,Republican,Lynn Fitch,7322
-Monroe,,Treasurer,,Democrat,Connie Moran,4414
-Monroe,,Treasurer,,Reform,Shawn O'Hara,267
-Monroe,,Commissioner of Agriculture & Commerce,,Democrat,Joel Gill,4762
-Monroe,,Commissioner of Agriculture & Commerce,,Republican,Cindy Hyde-Smith,6900
-Monroe,,Commissioner of Agriculture & Commerce,,Reform,Cathy L. Toole,268
-Monroe,,Commissioner of Insurance,,Republican,Mike Chaney,7561
-Monroe,,Commissioner of Insurance,,Democrat,Louis Fondren,4038
-Monroe,,Commissioner of Insurance,,Reform,Barbara Dale Washer,365
-Monroe,,State Senate,7,Democrat,Hob Bryan,10737
-Monroe,,State House,20,Republican,Chris Brown,3870
-Monroe,,State House,20,Democrat,Jimmy G. Puckett,3063
-Monroe,,State House,21,Democrat,Donnie Bell,1621
-Monroe,,State House,21,Republican,Deborah Tierce,1446
-Monroe,,State House,36,Democrat,David Gibbs,1957
+Monroe,1 Armory First 1f1,Measure No. 26 - Definition of a person,,,Yes,277
+Monroe,1 Parham 1f5,Measure No. 26 - Definition of a person,,,Yes,78
+Monroe,1 Smithville 1f6,Measure No. 26 - Definition of a person,,,Yes,342
+Monroe,1 Bigbee 1f2,Measure No. 26 - Definition of a person,,,Yes,85
+Monroe,1 Boyds 1f3,Measure No. 26 - Definition of a person,,,Yes,148
+Monroe,1 Hatley 1f4,Measure No. 26 - Definition of a person,,,Yes,602
+Monroe,2 Armory Second 2f1,Measure No. 26 - Definition of a person,,,Yes,582
+Monroe,2 Becker 2f2,Measure No. 26 - Definition of a person,,,Yes,434
+Monroe,2 Greenwood Springs 2f3,Measure No. 26 - Definition of a person,,,Yes,177
+Monroe,2 Williams 2f4,Measure No. 26 - Definition of a person,,,Yes,30
+Monroe,3 Lackey 3f5,Measure No. 26 - Definition of a person,,,Yes,299
+Monroe,3 Aberdeen Third 3f1,Measure No. 26 - Definition of a person,,,Yes,174
+Monroe,3 Athens 3f2,Measure No. 26 - Definition of a person,,,Yes,86
+Monroe,3 Bartahatchie 3f3,Measure No. 26 - Definition of a person,,,Yes,101
+Monroe,3 Hamilton 3f4,Measure No. 26 - Definition of a person,,,Yes,439
+Monroe,4 North Aberdeen 4f1,Measure No. 26 - Definition of a person,,,Yes,212
+Monroe,4 South Aberdeen 4f2,Measure No. 26 - Definition of a person,,,Yes,237
+Monroe,4 Darracott 4f3,Measure No. 26 - Definition of a person,,,Yes,45
+Monroe,4 Gibson 4f4,Measure No. 26 - Definition of a person,,,Yes,84
+Monroe,4 Prairie 4f5,Measure No. 26 - Definition of a person,,,Yes,88
+Monroe,5 Armory Fifth 5f1,Measure No. 26 - Definition of a person,,,Yes,158
+Monroe,5 Willis 5f4,Measure No. 26 - Definition of a person,,,Yes,121
+Monroe,5 Wren 5f5,Measure No. 26 - Definition of a person,,,Yes,349
+Monroe,5 Central Grove 5f2,Measure No. 26 - Definition of a person,,,Yes,143
+Monroe,5 Nettleton 5f3,Measure No. 26 - Definition of a person,,,Yes,316
+Monroe,1 Armory First 1f1,Measure No. 26 - Definition of a person,,,No,330
+Monroe,1 Parham 1f5,Measure No. 26 - Definition of a person,,,No,80
+Monroe,1 Smithville 1f6,Measure No. 26 - Definition of a person,,,No,215
+Monroe,1 Bigbee 1f2,Measure No. 26 - Definition of a person,,,No,32
+Monroe,1 Boyds 1f3,Measure No. 26 - Definition of a person,,,No,97
+Monroe,1 Hatley 1f4,Measure No. 26 - Definition of a person,,,No,364
+Monroe,2 Armory Second 2f1,Measure No. 26 - Definition of a person,,,No,517
+Monroe,2 Becker 2f2,Measure No. 26 - Definition of a person,,,No,283
+Monroe,2 Greenwood Springs 2f3,Measure No. 26 - Definition of a person,,,No,94
+Monroe,2 Williams 2f4,Measure No. 26 - Definition of a person,,,No,28
+Monroe,3 Lackey 3f5,Measure No. 26 - Definition of a person,,,No,302
+Monroe,3 Aberdeen Third 3f1,Measure No. 26 - Definition of a person,,,No,319
+Monroe,3 Athens 3f2,Measure No. 26 - Definition of a person,,,No,106
+Monroe,3 Bartahatchie 3f3,Measure No. 26 - Definition of a person,,,No,70
+Monroe,3 Hamilton 3f4,Measure No. 26 - Definition of a person,,,No,484
+Monroe,4 North Aberdeen 4f1,Measure No. 26 - Definition of a person,,,No,479
+Monroe,4 South Aberdeen 4f2,Measure No. 26 - Definition of a person,,,No,501
+Monroe,4 Darracott 4f3,Measure No. 26 - Definition of a person,,,No,71
+Monroe,4 Gibson 4f4,Measure No. 26 - Definition of a person,,,No,198
+Monroe,4 Prairie 4f5,Measure No. 26 - Definition of a person,,,No,274
+Monroe,5 Armory Fifth 5f1,Measure No. 26 - Definition of a person,,,No,304
+Monroe,5 Willis 5f4,Measure No. 26 - Definition of a person,,,No,356
+Monroe,5 Wren 5f5,Measure No. 26 - Definition of a person,,,No,340
+Monroe,5 Central Grove 5f2,Measure No. 26 - Definition of a person,,,No,173
+Monroe,5 Nettleton 5f3,Measure No. 26 - Definition of a person,,,No,214
+Monroe,1 Armory First 1f1,Measure No. 26 - Definition of a person,,,Over Votes,0
+Monroe,1 Parham 1f5,Measure No. 26 - Definition of a person,,,Over Votes,0
+Monroe,1 Smithville 1f6,Measure No. 26 - Definition of a person,,,Over Votes,0
+Monroe,1 Bigbee 1f2,Measure No. 26 - Definition of a person,,,Over Votes,0
+Monroe,1 Boyds 1f3,Measure No. 26 - Definition of a person,,,Over Votes,0
+Monroe,1 Hatley 1f4,Measure No. 26 - Definition of a person,,,Over Votes,0
+Monroe,2 Armory Second 2f1,Measure No. 26 - Definition of a person,,,Over Votes,0
+Monroe,2 Becker 2f2,Measure No. 26 - Definition of a person,,,Over Votes,0
+Monroe,2 Greenwood Springs 2f3,Measure No. 26 - Definition of a person,,,Over Votes,0
+Monroe,2 Williams 2f4,Measure No. 26 - Definition of a person,,,Over Votes,0
+Monroe,3 Lackey 3f5,Measure No. 26 - Definition of a person,,,Over Votes,0
+Monroe,3 Aberdeen Third 3f1,Measure No. 26 - Definition of a person,,,Over Votes,0
+Monroe,3 Athens 3f2,Measure No. 26 - Definition of a person,,,Over Votes,0
+Monroe,3 Bartahatchie 3f3,Measure No. 26 - Definition of a person,,,Over Votes,0
+Monroe,3 Hamilton 3f4,Measure No. 26 - Definition of a person,,,Over Votes,0
+Monroe,4 North Aberdeen 4f1,Measure No. 26 - Definition of a person,,,Over Votes,0
+Monroe,4 South Aberdeen 4f2,Measure No. 26 - Definition of a person,,,Over Votes,0
+Monroe,4 Darracott 4f3,Measure No. 26 - Definition of a person,,,Over Votes,0
+Monroe,4 Gibson 4f4,Measure No. 26 - Definition of a person,,,Over Votes,0
+Monroe,4 Prairie 4f5,Measure No. 26 - Definition of a person,,,Over Votes,0
+Monroe,5 Armory Fifth 5f1,Measure No. 26 - Definition of a person,,,Over Votes,0
+Monroe,5 Willis 5f4,Measure No. 26 - Definition of a person,,,Over Votes,0
+Monroe,5 Wren 5f5,Measure No. 26 - Definition of a person,,,Over Votes,0
+Monroe,5 Central Grove 5f2,Measure No. 26 - Definition of a person,,,Over Votes,0
+Monroe,5 Nettleton 5f3,Measure No. 26 - Definition of a person,,,Over Votes,0
+Monroe,1 Armory First 1f1,Measure No. 26 - Definition of a person,,,Under Votes,20
+Monroe,1 Parham 1f5,Measure No. 26 - Definition of a person,,,Under Votes,9
+Monroe,1 Smithville 1f6,Measure No. 26 - Definition of a person,,,Under Votes,19
+Monroe,1 Bigbee 1f2,Measure No. 26 - Definition of a person,,,Under Votes,5
+Monroe,1 Boyds 1f3,Measure No. 26 - Definition of a person,,,Under Votes,11
+Monroe,1 Hatley 1f4,Measure No. 26 - Definition of a person,,,Under Votes,33
+Monroe,2 Armory Second 2f1,Measure No. 26 - Definition of a person,,,Under Votes,30
+Monroe,2 Becker 2f2,Measure No. 26 - Definition of a person,,,Under Votes,16
+Monroe,2 Greenwood Springs 2f3,Measure No. 26 - Definition of a person,,,Under Votes,8
+Monroe,2 Williams 2f4,Measure No. 26 - Definition of a person,,,Under Votes,2
+Monroe,3 Lackey 3f5,Measure No. 26 - Definition of a person,,,Under Votes,19
+Monroe,3 Aberdeen Third 3f1,Measure No. 26 - Definition of a person,,,Under Votes,10
+Monroe,3 Athens 3f2,Measure No. 26 - Definition of a person,,,Under Votes,5
+Monroe,3 Bartahatchie 3f3,Measure No. 26 - Definition of a person,,,Under Votes,4
+Monroe,3 Hamilton 3f4,Measure No. 26 - Definition of a person,,,Under Votes,24
+Monroe,4 North Aberdeen 4f1,Measure No. 26 - Definition of a person,,,Under Votes,20
+Monroe,4 South Aberdeen 4f2,Measure No. 26 - Definition of a person,,,Under Votes,50
+Monroe,4 Darracott 4f3,Measure No. 26 - Definition of a person,,,Under Votes,3
+Monroe,4 Gibson 4f4,Measure No. 26 - Definition of a person,,,Under Votes,20
+Monroe,4 Prairie 4f5,Measure No. 26 - Definition of a person,,,Under Votes,32
+Monroe,5 Armory Fifth 5f1,Measure No. 26 - Definition of a person,,,Under Votes,39
+Monroe,5 Willis 5f4,Measure No. 26 - Definition of a person,,,Under Votes,7
+Monroe,5 Wren 5f5,Measure No. 26 - Definition of a person,,,Under Votes,23
+Monroe,5 Central Grove 5f2,Measure No. 26 - Definition of a person,,,Under Votes,30
+Monroe,5 Nettleton 5f3,Measure No. 26 - Definition of a person,,,Under Votes,1
+Monroe,1 Armory First 1f1,Measure No. 27 - Voter ID,,,Yes,480
+Monroe,1 Parham 1f5,Measure No. 27 - Voter ID,,,Yes,113
+Monroe,1 Smithville 1f6,Measure No. 27 - Voter ID,,,Yes,401
+Monroe,1 Bigbee 1f2,Measure No. 27 - Voter ID,,,Yes,90
+Monroe,1 Boyds 1f3,Measure No. 27 - Voter ID,,,Yes,198
+Monroe,1 Hatley 1f4,Measure No. 27 - Voter ID,,,Yes,750
+Monroe,2 Armory Second 2f1,Measure No. 27 - Voter ID,,,Yes,813
+Monroe,2 Becker 2f2,Measure No. 27 - Voter ID,,,Yes,537
+Monroe,2 Greenwood Springs 2f3,Measure No. 27 - Voter ID,,,Yes,213
+Monroe,2 Williams 2f4,Measure No. 27 - Voter ID,,,Yes,42
+Monroe,3 Lackey 3f5,Measure No. 27 - Voter ID,,,Yes,461
+Monroe,3 Aberdeen Third 3f1,Measure No. 27 - Voter ID,,,Yes,364
+Monroe,3 Athens 3f2,Measure No. 27 - Voter ID,,,Yes,139
+Monroe,3 Bartahatchie 3f3,Measure No. 27 - Voter ID,,,Yes,117
+Monroe,3 Hamilton 3f4,Measure No. 27 - Voter ID,,,Yes,666
+Monroe,4 North Aberdeen 4f1,Measure No. 27 - Voter ID,,,Yes,337
+Monroe,4 South Aberdeen 4f2,Measure No. 27 - Voter ID,,,Yes,339
+Monroe,4 Darracott 4f3,Measure No. 27 - Voter ID,,,Yes,86
+Monroe,4 Gibson 4f4,Measure No. 27 - Voter ID,,,Yes,117
+Monroe,4 Prairie 4f5,Measure No. 27 - Voter ID,,,Yes,102
+Monroe,5 Armory Fifth 5f1,Measure No. 27 - Voter ID,,,Yes,125
+Monroe,5 Willis 5f4,Measure No. 27 - Voter ID,,,Yes,156
+Monroe,5 Wren 5f5,Measure No. 27 - Voter ID,,,Yes,506
+Monroe,5 Central Grove 5f2,Measure No. 27 - Voter ID,,,Yes,150
+Monroe,5 Nettleton 5f3,Measure No. 27 - Voter ID,,,Yes,288
+Monroe,1 Armory First 1f1,Measure No. 27 - Voter ID,,,No,130
+Monroe,1 Parham 1f5,Measure No. 27 - Voter ID,,,No,45
+Monroe,1 Smithville 1f6,Measure No. 27 - Voter ID,,,No,158
+Monroe,1 Bigbee 1f2,Measure No. 27 - Voter ID,,,No,30
+Monroe,1 Boyds 1f3,Measure No. 27 - Voter ID,,,No,50
+Monroe,1 Hatley 1f4,Measure No. 27 - Voter ID,,,No,220
+Monroe,2 Armory Second 2f1,Measure No. 27 - Voter ID,,,No,291
+Monroe,2 Becker 2f2,Measure No. 27 - Voter ID,,,No,177
+Monroe,2 Greenwood Springs 2f3,Measure No. 27 - Voter ID,,,No,54
+Monroe,2 Williams 2f4,Measure No. 27 - Voter ID,,,No,18
+Monroe,3 Lackey 3f5,Measure No. 27 - Voter ID,,,No,141
+Monroe,3 Aberdeen Third 3f1,Measure No. 27 - Voter ID,,,No,133
+Monroe,3 Athens 3f2,Measure No. 27 - Voter ID,,,No,48
+Monroe,3 Bartahatchie 3f3,Measure No. 27 - Voter ID,,,No,49
+Monroe,3 Hamilton 3f4,Measure No. 27 - Voter ID,,,No,262
+Monroe,4 North Aberdeen 4f1,Measure No. 27 - Voter ID,,,No,344
+Monroe,4 South Aberdeen 4f2,Measure No. 27 - Voter ID,,,No,434
+Monroe,4 Darracott 4f3,Measure No. 27 - Voter ID,,,No,29
+Monroe,4 Gibson 4f4,Measure No. 27 - Voter ID,,,No,177
+Monroe,4 Prairie 4f5,Measure No. 27 - Voter ID,,,No,264
+Monroe,5 Armory Fifth 5f1,Measure No. 27 - Voter ID,,,No,331
+Monroe,5 Willis 5f4,Measure No. 27 - Voter ID,,,No,318
+Monroe,5 Wren 5f5,Measure No. 27 - Voter ID,,,No,182
+Monroe,5 Central Grove 5f2,Measure No. 27 - Voter ID,,,No,167
+Monroe,5 Nettleton 5f3,Measure No. 27 - Voter ID,,,No,246
+Monroe,1 Armory First 1f1,Measure No. 27 - Voter ID,,,Over Votes,0
+Monroe,1 Parham 1f5,Measure No. 27 - Voter ID,,,Over Votes,0
+Monroe,1 Smithville 1f6,Measure No. 27 - Voter ID,,,Over Votes,0
+Monroe,1 Bigbee 1f2,Measure No. 27 - Voter ID,,,Over Votes,0
+Monroe,1 Boyds 1f3,Measure No. 27 - Voter ID,,,Over Votes,0
+Monroe,1 Hatley 1f4,Measure No. 27 - Voter ID,,,Over Votes,0
+Monroe,2 Armory Second 2f1,Measure No. 27 - Voter ID,,,Over Votes,0
+Monroe,2 Becker 2f2,Measure No. 27 - Voter ID,,,Over Votes,0
+Monroe,2 Greenwood Springs 2f3,Measure No. 27 - Voter ID,,,Over Votes,0
+Monroe,2 Williams 2f4,Measure No. 27 - Voter ID,,,Over Votes,0
+Monroe,3 Lackey 3f5,Measure No. 27 - Voter ID,,,Over Votes,0
+Monroe,3 Aberdeen Third 3f1,Measure No. 27 - Voter ID,,,Over Votes,0
+Monroe,3 Athens 3f2,Measure No. 27 - Voter ID,,,Over Votes,0
+Monroe,3 Bartahatchie 3f3,Measure No. 27 - Voter ID,,,Over Votes,0
+Monroe,3 Hamilton 3f4,Measure No. 27 - Voter ID,,,Over Votes,0
+Monroe,4 North Aberdeen 4f1,Measure No. 27 - Voter ID,,,Over Votes,0
+Monroe,4 South Aberdeen 4f2,Measure No. 27 - Voter ID,,,Over Votes,0
+Monroe,4 Darracott 4f3,Measure No. 27 - Voter ID,,,Over Votes,0
+Monroe,4 Gibson 4f4,Measure No. 27 - Voter ID,,,Over Votes,0
+Monroe,4 Prairie 4f5,Measure No. 27 - Voter ID,,,Over Votes,0
+Monroe,5 Armory Fifth 5f1,Measure No. 27 - Voter ID,,,Over Votes,0
+Monroe,5 Willis 5f4,Measure No. 27 - Voter ID,,,Over Votes,0
+Monroe,5 Wren 5f5,Measure No. 27 - Voter ID,,,Over Votes,0
+Monroe,5 Central Grove 5f2,Measure No. 27 - Voter ID,,,Over Votes,0
+Monroe,5 Nettleton 5f3,Measure No. 27 - Voter ID,,,Over Votes,0
+Monroe,1 Armory First 1f1,Measure No. 27 - Voter ID,,,Under Votes,17
+Monroe,1 Parham 1f5,Measure No. 27 - Voter ID,,,Under Votes,9
+Monroe,1 Smithville 1f6,Measure No. 27 - Voter ID,,,Under Votes,17
+Monroe,1 Bigbee 1f2,Measure No. 27 - Voter ID,,,Under Votes,2
+Monroe,1 Boyds 1f3,Measure No. 27 - Voter ID,,,Under Votes,8
+Monroe,1 Hatley 1f4,Measure No. 27 - Voter ID,,,Under Votes,29
+Monroe,2 Armory Second 2f1,Measure No. 27 - Voter ID,,,Under Votes,25
+Monroe,2 Becker 2f2,Measure No. 27 - Voter ID,,,Under Votes,19
+Monroe,2 Greenwood Springs 2f3,Measure No. 27 - Voter ID,,,Under Votes,12
+Monroe,2 Williams 2f4,Measure No. 27 - Voter ID,,,Under Votes,0
+Monroe,3 Lackey 3f5,Measure No. 27 - Voter ID,,,Under Votes,18
+Monroe,3 Aberdeen Third 3f1,Measure No. 27 - Voter ID,,,Under Votes,6
+Monroe,3 Athens 3f2,Measure No. 27 - Voter ID,,,Under Votes,10
+Monroe,3 Bartahatchie 3f3,Measure No. 27 - Voter ID,,,Under Votes,9
+Monroe,3 Hamilton 3f4,Measure No. 27 - Voter ID,,,Under Votes,19
+Monroe,4 North Aberdeen 4f1,Measure No. 27 - Voter ID,,,Under Votes,30
+Monroe,4 South Aberdeen 4f2,Measure No. 27 - Voter ID,,,Under Votes,20
+Monroe,4 Darracott 4f3,Measure No. 27 - Voter ID,,,Under Votes,4
+Monroe,4 Gibson 4f4,Measure No. 27 - Voter ID,,,Under Votes,8
+Monroe,4 Prairie 4f5,Measure No. 27 - Voter ID,,,Under Votes,28
+Monroe,5 Armory Fifth 5f1,Measure No. 27 - Voter ID,,,Under Votes,45
+Monroe,5 Willis 5f4,Measure No. 27 - Voter ID,,,Under Votes,8
+Monroe,5 Wren 5f5,Measure No. 27 - Voter ID,,,Under Votes,24
+Monroe,5 Central Grove 5f2,Measure No. 27 - Voter ID,,,Under Votes,29
+Monroe,5 Nettleton 5f3,Measure No. 27 - Voter ID,,,Under Votes,2
+Monroe,1 Armory First 1f1,Measure No. 31 - Eminent Domain,,,Yes,462
+Monroe,1 Parham 1f5,Measure No. 31 - Eminent Domain,,,Yes,128
+Monroe,1 Smithville 1f6,Measure No. 31 - Eminent Domain,,,Yes,439
+Monroe,1 Bigbee 1f2,Measure No. 31 - Eminent Domain,,,Yes,99
+Monroe,1 Boyds 1f3,Measure No. 31 - Eminent Domain,,,Yes,207
+Monroe,1 Hatley 1f4,Measure No. 31 - Eminent Domain,,,Yes,801
+Monroe,2 Armory Second 2f1,Measure No. 31 - Eminent Domain,,,Yes,837
+Monroe,2 Becker 2f2,Measure No. 31 - Eminent Domain,,,Yes,580
+Monroe,2 Greenwood Springs 2f3,Measure No. 31 - Eminent Domain,,,Yes,223
+Monroe,2 Williams 2f4,Measure No. 31 - Eminent Domain,,,Yes,48
+Monroe,3 Lackey 3f5,Measure No. 31 - Eminent Domain,,,Yes,482
+Monroe,3 Aberdeen Third 3f1,Measure No. 31 - Eminent Domain,,,Yes,365
+Monroe,3 Athens 3f2,Measure No. 31 - Eminent Domain,,,Yes,149
+Monroe,3 Bartahatchie 3f3,Measure No. 31 - Eminent Domain,,,Yes,133
+Monroe,3 Hamilton 3f4,Measure No. 31 - Eminent Domain,,,Yes,725
+Monroe,4 North Aberdeen 4f1,Measure No. 31 - Eminent Domain,,,Yes,416
+Monroe,4 South Aberdeen 4f2,Measure No. 31 - Eminent Domain,,,Yes,445
+Monroe,4 Darracott 4f3,Measure No. 31 - Eminent Domain,,,Yes,88
+Monroe,4 Gibson 4f4,Measure No. 31 - Eminent Domain,,,Yes,180
+Monroe,4 Prairie 4f5,Measure No. 31 - Eminent Domain,,,Yes,207
+Monroe,5 Armory Fifth 5f1,Measure No. 31 - Eminent Domain,,,Yes,254
+Monroe,5 Willis 5f4,Measure No. 31 - Eminent Domain,,,Yes,327
+Monroe,5 Wren 5f5,Measure No. 31 - Eminent Domain,,,Yes,530
+Monroe,5 Central Grove 5f2,Measure No. 31 - Eminent Domain,,,Yes,223
+Monroe,5 Nettleton 5f3,Measure No. 31 - Eminent Domain,,,Yes,400
+Monroe,1 Armory First 1f1,Measure No. 31 - Eminent Domain,,,No,158
+Monroe,1 Parham 1f5,Measure No. 31 - Eminent Domain,,,No,29
+Monroe,1 Smithville 1f6,Measure No. 31 - Eminent Domain,,,No,117
+Monroe,1 Bigbee 1f2,Measure No. 31 - Eminent Domain,,,No,22
+Monroe,1 Boyds 1f3,Measure No. 31 - Eminent Domain,,,No,43
+Monroe,1 Hatley 1f4,Measure No. 31 - Eminent Domain,,,No,174
+Monroe,2 Armory Second 2f1,Measure No. 31 - Eminent Domain,,,No,266
+Monroe,2 Becker 2f2,Measure No. 31 - Eminent Domain,,,No,137
+Monroe,2 Greenwood Springs 2f3,Measure No. 31 - Eminent Domain,,,No,44
+Monroe,2 Williams 2f4,Measure No. 31 - Eminent Domain,,,No,11
+Monroe,3 Lackey 3f5,Measure No. 31 - Eminent Domain,,,No,125
+Monroe,3 Aberdeen Third 3f1,Measure No. 31 - Eminent Domain,,,No,131
+Monroe,3 Athens 3f2,Measure No. 31 - Eminent Domain,,,No,40
+Monroe,3 Bartahatchie 3f3,Measure No. 31 - Eminent Domain,,,No,36
+Monroe,3 Hamilton 3f4,Measure No. 31 - Eminent Domain,,,No,205
+Monroe,4 North Aberdeen 4f1,Measure No. 31 - Eminent Domain,,,No,271
+Monroe,4 South Aberdeen 4f2,Measure No. 31 - Eminent Domain,,,No,320
+Monroe,4 Darracott 4f3,Measure No. 31 - Eminent Domain,,,No,29
+Monroe,4 Gibson 4f4,Measure No. 31 - Eminent Domain,,,No,111
+Monroe,4 Prairie 4f5,Measure No. 31 - Eminent Domain,,,No,162
+Monroe,5 Armory Fifth 5f1,Measure No. 31 - Eminent Domain,,,No,202
+Monroe,5 Willis 5f4,Measure No. 31 - Eminent Domain,,,No,153
+Monroe,5 Wren 5f5,Measure No. 31 - Eminent Domain,,,No,163
+Monroe,5 Central Grove 5f2,Measure No. 31 - Eminent Domain,,,No,97
+Monroe,5 Nettleton 5f3,Measure No. 31 - Eminent Domain,,,No,137
+Monroe,1 Armory First 1f1,Measure No. 31 - Eminent Domain,,,Over Votes,0
+Monroe,1 Parham 1f5,Measure No. 31 - Eminent Domain,,,Over Votes,0
+Monroe,1 Smithville 1f6,Measure No. 31 - Eminent Domain,,,Over Votes,0
+Monroe,1 Bigbee 1f2,Measure No. 31 - Eminent Domain,,,Over Votes,0
+Monroe,1 Boyds 1f3,Measure No. 31 - Eminent Domain,,,Over Votes,0
+Monroe,1 Hatley 1f4,Measure No. 31 - Eminent Domain,,,Over Votes,0
+Monroe,2 Armory Second 2f1,Measure No. 31 - Eminent Domain,,,Over Votes,0
+Monroe,2 Becker 2f2,Measure No. 31 - Eminent Domain,,,Over Votes,0
+Monroe,2 Greenwood Springs 2f3,Measure No. 31 - Eminent Domain,,,Over Votes,0
+Monroe,2 Williams 2f4,Measure No. 31 - Eminent Domain,,,Over Votes,0
+Monroe,3 Lackey 3f5,Measure No. 31 - Eminent Domain,,,Over Votes,0
+Monroe,3 Aberdeen Third 3f1,Measure No. 31 - Eminent Domain,,,Over Votes,0
+Monroe,3 Athens 3f2,Measure No. 31 - Eminent Domain,,,Over Votes,0
+Monroe,3 Bartahatchie 3f3,Measure No. 31 - Eminent Domain,,,Over Votes,0
+Monroe,3 Hamilton 3f4,Measure No. 31 - Eminent Domain,,,Over Votes,0
+Monroe,4 North Aberdeen 4f1,Measure No. 31 - Eminent Domain,,,Over Votes,0
+Monroe,4 South Aberdeen 4f2,Measure No. 31 - Eminent Domain,,,Over Votes,0
+Monroe,4 Darracott 4f3,Measure No. 31 - Eminent Domain,,,Over Votes,0
+Monroe,4 Gibson 4f4,Measure No. 31 - Eminent Domain,,,Over Votes,0
+Monroe,4 Prairie 4f5,Measure No. 31 - Eminent Domain,,,Over Votes,0
+Monroe,5 Armory Fifth 5f1,Measure No. 31 - Eminent Domain,,,Over Votes,0
+Monroe,5 Willis 5f4,Measure No. 31 - Eminent Domain,,,Over Votes,0
+Monroe,5 Wren 5f5,Measure No. 31 - Eminent Domain,,,Over Votes,0
+Monroe,5 Central Grove 5f2,Measure No. 31 - Eminent Domain,,,Over Votes,0
+Monroe,5 Nettleton 5f3,Measure No. 31 - Eminent Domain,,,Over Votes,0
+Monroe,1 Armory First 1f1,Measure No. 31 - Eminent Domain,,,Under Votes,7
+Monroe,1 Parham 1f5,Measure No. 31 - Eminent Domain,,,Under Votes,10
+Monroe,1 Smithville 1f6,Measure No. 31 - Eminent Domain,,,Under Votes,20
+Monroe,1 Bigbee 1f2,Measure No. 31 - Eminent Domain,,,Under Votes,1
+Monroe,1 Boyds 1f3,Measure No. 31 - Eminent Domain,,,Under Votes,6
+Monroe,1 Hatley 1f4,Measure No. 31 - Eminent Domain,,,Under Votes,24
+Monroe,2 Armory Second 2f1,Measure No. 31 - Eminent Domain,,,Under Votes,26
+Monroe,2 Becker 2f2,Measure No. 31 - Eminent Domain,,,Under Votes,16
+Monroe,2 Greenwood Springs 2f3,Measure No. 31 - Eminent Domain,,,Under Votes,12
+Monroe,2 Williams 2f4,Measure No. 31 - Eminent Domain,,,Under Votes,1
+Monroe,3 Lackey 3f5,Measure No. 31 - Eminent Domain,,,Under Votes,13
+Monroe,3 Aberdeen Third 3f1,Measure No. 31 - Eminent Domain,,,Under Votes,6
+Monroe,3 Athens 3f2,Measure No. 31 - Eminent Domain,,,Under Votes,8
+Monroe,3 Bartahatchie 3f3,Measure No. 31 - Eminent Domain,,,Under Votes,6
+Monroe,3 Hamilton 3f4,Measure No. 31 - Eminent Domain,,,Under Votes,17
+Monroe,4 North Aberdeen 4f1,Measure No. 31 - Eminent Domain,,,Under Votes,24
+Monroe,4 South Aberdeen 4f2,Measure No. 31 - Eminent Domain,,,Under Votes,28
+Monroe,4 Darracott 4f3,Measure No. 31 - Eminent Domain,,,Under Votes,2
+Monroe,4 Gibson 4f4,Measure No. 31 - Eminent Domain,,,Under Votes,11
+Monroe,4 Prairie 4f5,Measure No. 31 - Eminent Domain,,,Under Votes,25
+Monroe,5 Armory Fifth 5f1,Measure No. 31 - Eminent Domain,,,Under Votes,45
+Monroe,5 Willis 5f4,Measure No. 31 - Eminent Domain,,,Under Votes,6
+Monroe,5 Wren 5f5,Measure No. 31 - Eminent Domain,,,Under Votes,19
+Monroe,5 Central Grove 5f2,Measure No. 31 - Eminent Domain,,,Under Votes,26
+Monroe,5 Nettleton 5f3,Measure No. 31 - Eminent Domain,,,Under Votes,2
