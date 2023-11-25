@@ -9,24 +9,30 @@ Converted CSVs of Mississippi election results.
 
 | year  | general  | primary  |
 |---|---|---|
-| 2020  | [working](https://github.com/openelections/openelections-data-ms/issues/118) | [working](https://github.com/openelections/openelections-data-ms/issues/113) |
+| 2023  | not started | not started |
+| 2022  | done | not started |
+| 2020  | done | done |
 | 2019  | done | done |
-| 2018  |  done | done |
-| 2016  | done  |  done |
-| 2015  | done  |  [working](https://github.com/openelections/openelections-data-ms/issues/33) |
-| 2014  |  done | done  |
-| 2012  |  done | done |
-| 2011  |  done | done |
-| 2010  |  done | not started |
-| 2008  |  done | [working](https://github.com/openelections/openelections-data-ms/issues/83) |
-| 2007  |  [working](https://github.com/openelections/openelections-data-ms/issues/110) | not started |
-| 2006  |  not started | working |
-
+| 2018  | done | done |
+| 2016  | done  | done |
+| 2015  | done  | [working](https://github.com/openelections/openelections-data-ms/issues/33) |
+| 2014  | done | done  |
+| 2012  | done | done |
+| 2011  | done | done |
+| 2010  | done | not started |
+| 2008  | done | [working](https://github.com/openelections/openelections-data-ms/issues/83) |
+| 2007  | [working](https://github.com/openelections/openelections-data-ms/issues/110) | not started |
+| 2006  | not started | working |
 
 ## County Results
 
 | year  | general  | primary  |
 |---|---|---|
+| 2023  | [done](https://github.com/openelections/openelections-data-ms/blob/master/2023/20231107__ms__general__county.csv) | not started |
+| 2022  | not started | not started |
+| 2020  | [done](https://github.com/openelections/openelections-data-ms/blob/master/2020/20201103__ms__general__county.csv) | [done](https://github.com/openelections/openelections-data-ms/blob/master/2020/20200310__ms__primary__county.csv) |
+| 2019  | not started | not started |
+| 2018  | not started | done |
 | 2016  | [done](https://github.com/openelections/openelections-data-ms/blob/master/2016/20161108__ms__general.csv)  |  [done](https://github.com/openelections/openelections-data-ms/blob/master/2016/20160308__ms__primary.csv) |
 | 2015  |  [done](https://github.com/openelections/openelections-data-ms/blob/master/2015/20151103__ms__general.csv) | [done](https://github.com/openelections/openelections-data-ms/blob/master/2015/20150804__ms__primary.csv) |
 | 2014 |  [done](https://github.com/openelections/openelections-data-ms/blob/master/2014/20141104__ms__general.csv) | working  |
@@ -41,7 +47,6 @@ Converted CSVs of Mississippi election results.
 | 2000  |  not started | not started |
 
 To contribute, email openelections@gmail.com or [find us on Twitter](https://twitter.com/openelex) and let us know what counties/elections you'd like to work on. You also can leave a comment on one of the [issues](https://github.com/openelections/openelections-data-ms/issues) in this repository. Volunteers can do as much or as little as they like - one county or all of them.
-
 
 ### The Process
 
