@@ -31,17 +31,17 @@ Converted CSVs of Mississippi election results.
 | 2023  | [done](https://github.com/openelections/openelections-data-ms/blob/master/2023/20231107__ms__general__county.csv) | not started |
 | 2022  | not started | not started |
 | 2020  | [done](https://github.com/openelections/openelections-data-ms/blob/master/2020/20201103__ms__general__county.csv) | [done](https://github.com/openelections/openelections-data-ms/blob/master/2020/20200310__ms__primary__county.csv) |
-| 2019  | not started | not started |
+| 2019  | [done](https://github.com/openelections/openelections-data-ms/blob/master/2019/20191105__ms__general__county.csv) | not started |
 | 2018  | not started | done |
 | 2016  | [done](https://github.com/openelections/openelections-data-ms/blob/master/2016/20161108__ms__general.csv)  |  [done](https://github.com/openelections/openelections-data-ms/blob/master/2016/20160308__ms__primary.csv) |
 | 2015  |  [done](https://github.com/openelections/openelections-data-ms/blob/master/2015/20151103__ms__general.csv) | [done](https://github.com/openelections/openelections-data-ms/blob/master/2015/20150804__ms__primary.csv) |
 | 2014 |  [done](https://github.com/openelections/openelections-data-ms/blob/master/2014/20141104__ms__general.csv) | working  |
-| 2012  |  [done](https://github.com/openelections/openelections-data-ms/blob/master/2012/20121106__ms__general.csv) | working |
-| 2011  |  [done](https://github.com/openelections/openelections-data-ms/blob/master/2011/20111108__ms__general.csv) | working |
-| 2010  |  [done](https://github.com/openelections/openelections-data-ms/blob/master/2010/20101102__ms__general.csv) | [done](https://github.com/openelections/openelections-data-ms/blob/master/2010/20100601__ms__primary.csv) |
-| 2008  |  [done](https://github.com/openelections/openelections-data-ms/blob/master/2008/20081104__ms__general.csv) | done |
+| 2012  | [done](https://github.com/openelections/openelections-data-ms/blob/master/2012/20121106__ms__general.csv) | working |
+| 2011  | [done](https://github.com/openelections/openelections-data-ms/blob/master/2011/20111108__ms__general.csv) | working |
+| 2010  | [done](https://github.com/openelections/openelections-data-ms/blob/master/2010/20101102__ms__general.csv) | [done](https://github.com/openelections/openelections-data-ms/blob/master/2010/20100601__ms__primary.csv) |
+| 2008  | [done](https://github.com/openelections/openelections-data-ms/blob/master/2008/20081104__ms__general.csv) | done |
 | 2007  | [done](https://github.com/openelections/openelections-data-ms/blob/master/2007/20071106__ms__general.csv) | not started |
-| 2006  |  [done](https://github.com/openelections/openelections-data-ms/blob/master/2006/20061107__ms__general.csv) | not started |
+| 2006  | [done](https://github.com/openelections/openelections-data-ms/blob/master/2006/20061107__ms__general.csv) | not started |
 | 2004  |  not started | not started |
 | 2002  |  not started | not started |
 | 2000  |  not started | not started |
