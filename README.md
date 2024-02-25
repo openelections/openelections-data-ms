@@ -9,7 +9,7 @@ Converted CSVs of Mississippi election results.
 
 | year  | general  | primary  |
 |---|---|---|
-| 2023  | not started | not started |
+| 2023  | done | not started |
 | 2022  | done | not started |
 | 2020  | done | done |
 | 2019  | done | done |
