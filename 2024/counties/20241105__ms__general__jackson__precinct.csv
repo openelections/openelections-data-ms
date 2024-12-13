@@ -1,0 +1,559 @@
+county,precinct,office,district,candidate,party,votes
+Jackson,Big Point,President,,Kamala D. Harris,DEM,113
+Jackson,Big Point,President,,Chase Oliver,LIB,6
+Jackson,Big Point,President,,Jill Stein,GRN,4
+Jackson,Big Point,President,,Randall Terry,CON,2
+Jackson,Big Point,President,,Donald J. Trump,REP,1461
+Jackson,Big Point,President,,Shiva Ayyadurai,IND,0
+Jackson,Big Point,President,,Claudia De la Cruz,IND,0
+Jackson,Big Point,President,,Robert F. Kennedy Jr.,IND,1
+Jackson,Big Point,President,,Peter Sonski,IND,0
+Jackson,Big Point,U.S. Senate,,Ty Pinkins,DEM,116
+Jackson,Big Point,U.S. Senate,,Roger F. Wicker,REP,1454
+Jackson,Carterville,President,,Kamala D. Harris,DEM,22
+Jackson,Carterville,President,,Chase Oliver,LIB,3
+Jackson,Carterville,President,,Jill Stein,GRN,0
+Jackson,Carterville,President,,Randall Terry,CON,0
+Jackson,Carterville,President,,Donald J. Trump,REP,411
+Jackson,Carterville,President,,Shiva Ayyadurai,IND,0
+Jackson,Carterville,President,,Claudia De la Cruz,IND,0
+Jackson,Carterville,President,,Robert F. Kennedy Jr.,IND,2
+Jackson,Carterville,President,,Peter Sonski,IND,0
+Jackson,Carterville,U.S. Senate,,Ty Pinkins,DEM,20
+Jackson,Carterville,U.S. Senate,,Roger F. Wicker,REP,414
+Jackson,East Central,President,,Kamala D. Harris,DEM,324
+Jackson,East Central,President,,Chase Oliver,LIB,8
+Jackson,East Central,President,,Jill Stein,GRN,4
+Jackson,East Central,President,,Randall Terry,CON,1
+Jackson,East Central,President,,Donald J. Trump,REP,3989
+Jackson,East Central,President,,Shiva Ayyadurai,IND,1
+Jackson,East Central,President,,Claudia De la Cruz,IND,2
+Jackson,East Central,President,,Robert F. Kennedy Jr.,IND,6
+Jackson,East Central,President,,Peter Sonski,IND,1
+Jackson,East Central,U.S. Senate,,Ty Pinkins,DEM,327
+Jackson,East Central,U.S. Senate,,Roger F. Wicker,REP,3980
+Jackson,Eastlawn,President,,Kamala D. Harris,DEM,375
+Jackson,Eastlawn,President,,Chase Oliver,LIB,4
+Jackson,Eastlawn,President,,Jill Stein,GRN,1
+Jackson,Eastlawn,President,,Randall Terry,CON,2
+Jackson,Eastlawn,President,,Donald J. Trump,REP,1280
+Jackson,Eastlawn,President,,Shiva Ayyadurai,IND,0
+Jackson,Eastlawn,President,,Claudia De la Cruz,IND,1
+Jackson,Eastlawn,President,,Robert F. Kennedy Jr.,IND,9
+Jackson,Eastlawn,President,,Peter Sonski,IND,0
+Jackson,Eastlawn,U.S. Senate,,Ty Pinkins,DEM,348
+Jackson,Eastlawn,U.S. Senate,,Roger F. Wicker,REP,1318
+Jackson,Escatawpa,President,,Kamala D. Harris,DEM,480
+Jackson,Escatawpa,President,,Chase Oliver,LIB,6
+Jackson,Escatawpa,President,,Jill Stein,GRN,1
+Jackson,Escatawpa,President,,Randall Terry,CON,0
+Jackson,Escatawpa,President,,Donald J. Trump,REP,1492
+Jackson,Escatawpa,President,,Shiva Ayyadurai,IND,1
+Jackson,Escatawpa,President,,Claudia De la Cruz,IND,0
+Jackson,Escatawpa,President,,Robert F. Kennedy Jr.,IND,7
+Jackson,Escatawpa,President,,Peter Sonski,IND,1
+Jackson,Escatawpa,U.S. Senate,,Ty Pinkins,DEM,486
+Jackson,Escatawpa,U.S. Senate,,Roger F. Wicker,REP,1480
+Jackson,Fair,President,,Kamala D. Harris,DEM,1199
+Jackson,Fair,President,,Chase Oliver,LIB,2
+Jackson,Fair,President,,Jill Stein,GRN,2
+Jackson,Fair,President,,Randall Terry,CON,2
+Jackson,Fair,President,,Donald J. Trump,REP,698
+Jackson,Fair,President,,Shiva Ayyadurai,IND,0
+Jackson,Fair,President,,Claudia De la Cruz,IND,2
+Jackson,Fair,President,,Robert F. Kennedy Jr.,IND,13
+Jackson,Fair,President,,Peter Sonski,IND,0
+Jackson,Fair,U.S. Senate,,Ty Pinkins,DEM,1175
+Jackson,Fair,U.S. Senate,,Roger F. Wicker,REP,713
+Jackson,Fontainebleau,President,,Kamala D. Harris,DEM,1079
+Jackson,Fontainebleau,President,,Chase Oliver,LIB,9
+Jackson,Fontainebleau,President,,Jill Stein,GRN,5
+Jackson,Fontainebleau,President,,Randall Terry,CON,2
+Jackson,Fontainebleau,President,,Donald J. Trump,REP,2667
+Jackson,Fontainebleau,President,,Shiva Ayyadurai,IND,0
+Jackson,Fontainebleau,President,,Claudia De la Cruz,IND,2
+Jackson,Fontainebleau,President,,Robert F. Kennedy Jr.,IND,22
+Jackson,Fontainebleau,President,,Peter Sonski,IND,2
+Jackson,Fontainebleau,U.S. Senate,,Ty Pinkins,DEM,1037
+Jackson,Fontainebleau,U.S. Senate,,Roger F. Wicker,REP,2714
+Jackson,Gautier North,President,,Kamala D. Harris,DEM,587
+Jackson,Gautier North,President,,Chase Oliver,LIB,4
+Jackson,Gautier North,President,,Jill Stein,GRN,3
+Jackson,Gautier North,President,,Randall Terry,CON,1
+Jackson,Gautier North,President,,Donald J. Trump,REP,792
+Jackson,Gautier North,President,,Shiva Ayyadurai,IND,0
+Jackson,Gautier North,President,,Claudia De la Cruz,IND,2
+Jackson,Gautier North,President,,Robert F. Kennedy Jr.,IND,7
+Jackson,Gautier North,President,,Peter Sonski,IND,1
+Jackson,Gautier North,U.S. Senate,,Ty Pinkins,DEM,576
+Jackson,Gautier North,U.S. Senate,,Roger F. Wicker,REP,816
+Jackson,Gautier South,President,,Kamala D. Harris,DEM,943
+Jackson,Gautier South,President,,Chase Oliver,LIB,8
+Jackson,Gautier South,President,,Jill Stein,GRN,7
+Jackson,Gautier South,President,,Randall Terry,CON,0
+Jackson,Gautier South,President,,Donald J. Trump,REP,1370
+Jackson,Gautier South,President,,Shiva Ayyadurai,IND,1
+Jackson,Gautier South,President,,Claudia De la Cruz,IND,2
+Jackson,Gautier South,President,,Robert F. Kennedy Jr.,IND,7
+Jackson,Gautier South,President,,Peter Sonski,IND,1
+Jackson,Gautier South,U.S. Senate,,Ty Pinkins,DEM,888
+Jackson,Gautier South,U.S. Senate,,Roger F. Wicker,REP,1417
+Jackson,Grace Baptist Church,President,,Kamala D. Harris,DEM,841
+Jackson,Grace Baptist Church,President,,Chase Oliver,LIB,5
+Jackson,Grace Baptist Church,President,,Jill Stein,GRN,7
+Jackson,Grace Baptist Church,President,,Randall Terry,CON,3
+Jackson,Grace Baptist Church,President,,Donald J. Trump,REP,1939
+Jackson,Grace Baptist Church,President,,Shiva Ayyadurai,IND,1
+Jackson,Grace Baptist Church,President,,Claudia De la Cruz,IND,4
+Jackson,Grace Baptist Church,President,,Robert F. Kennedy Jr.,IND,13
+Jackson,Grace Baptist Church,President,,Peter Sonski,IND,2
+Jackson,Grace Baptist Church,U.S. Senate,,Ty Pinkins,DEM,776
+Jackson,Grace Baptist Church,U.S. Senate,,Roger F. Wicker,REP,2002
+Jackson,Gulf Park Estates,President,,Kamala D. Harris,DEM,596
+Jackson,Gulf Park Estates,President,,Chase Oliver,LIB,14
+Jackson,Gulf Park Estates,President,,Jill Stein,GRN,6
+Jackson,Gulf Park Estates,President,,Randall Terry,CON,1
+Jackson,Gulf Park Estates,President,,Donald J. Trump,REP,1599
+Jackson,Gulf Park Estates,President,,Shiva Ayyadurai,IND,0
+Jackson,Gulf Park Estates,President,,Claudia De la Cruz,IND,1
+Jackson,Gulf Park Estates,President,,Robert F. Kennedy Jr.,IND,6
+Jackson,Gulf Park Estates,President,,Peter Sonski,IND,2
+Jackson,Gulf Park Estates,U.S. Senate,,Ty Pinkins,DEM,589
+Jackson,Gulf Park Estates,U.S. Senate,,Roger F. Wicker,REP,1615
+Jackson,Hickory Hills,President,,Kamala D. Harris,DEM,487
+Jackson,Hickory Hills,President,,Chase Oliver,LIB,5
+Jackson,Hickory Hills,President,,Jill Stein,GRN,6
+Jackson,Hickory Hills,President,,Randall Terry,CON,1
+Jackson,Hickory Hills,President,,Donald J. Trump,REP,988
+Jackson,Hickory Hills,President,,Shiva Ayyadurai,IND,2
+Jackson,Hickory Hills,President,,Claudia De la Cruz,IND,1
+Jackson,Hickory Hills,President,,Robert F. Kennedy Jr.,IND,7
+Jackson,Hickory Hills,President,,Peter Sonski,IND,1
+Jackson,Hickory Hills,U.S. Senate,,Ty Pinkins,DEM,466
+Jackson,Hickory Hills,U.S. Senate,,Roger F. Wicker,REP,1018
+Jackson,Hwy 57,President,,Kamala D. Harris,DEM,18
+Jackson,Hwy 57,President,,Chase Oliver,LIB,3
+Jackson,Hwy 57,President,,Jill Stein,GRN,0
+Jackson,Hwy 57,President,,Randall Terry,CON,0
+Jackson,Hwy 57,President,,Donald J. Trump,REP,381
+Jackson,Hwy 57,President,,Shiva Ayyadurai,IND,0
+Jackson,Hwy 57,President,,Claudia De la Cruz,IND,0
+Jackson,Hwy 57,President,,Robert F. Kennedy Jr.,IND,0
+Jackson,Hwy 57,President,,Peter Sonski,IND,0
+Jackson,Hwy 57,U.S. Senate,,Ty Pinkins,DEM,21
+Jackson,Hwy 57,U.S. Senate,,Roger F. Wicker,REP,373
+Jackson,Ingalls Avenue Baptist Church,President,,Kamala D. Harris,DEM,341
+Jackson,Ingalls Avenue Baptist Church,President,,Chase Oliver,LIB,4
+Jackson,Ingalls Avenue Baptist Church,President,,Jill Stein,GRN,3
+Jackson,Ingalls Avenue Baptist Church,President,,Randall Terry,CON,1
+Jackson,Ingalls Avenue Baptist Church,President,,Donald J. Trump,REP,950
+Jackson,Ingalls Avenue Baptist Church,President,,Shiva Ayyadurai,IND,1
+Jackson,Ingalls Avenue Baptist Church,President,,Claudia De la Cruz,IND,1
+Jackson,Ingalls Avenue Baptist Church,President,,Robert F. Kennedy Jr.,IND,4
+Jackson,Ingalls Avenue Baptist Church,President,,Peter Sonski,IND,1
+Jackson,Ingalls Avenue Baptist Church,U.S. Senate,,Ty Pinkins,DEM,318
+Jackson,Ingalls Avenue Baptist Church,U.S. Senate,,Roger F. Wicker,REP,980
+Jackson,Jefferson Street,President,,Kamala D. Harris,DEM,870
+Jackson,Jefferson Street,President,,Chase Oliver,LIB,0
+Jackson,Jefferson Street,President,,Jill Stein,GRN,1
+Jackson,Jefferson Street,President,,Randall Terry,CON,0
+Jackson,Jefferson Street,President,,Donald J. Trump,REP,330
+Jackson,Jefferson Street,President,,Shiva Ayyadurai,IND,1
+Jackson,Jefferson Street,President,,Claudia De la Cruz,IND,1
+Jackson,Jefferson Street,President,,Robert F. Kennedy Jr.,IND,1
+Jackson,Jefferson Street,President,,Peter Sonski,IND,0
+Jackson,Jefferson Street,U.S. Senate,,Ty Pinkins,DEM,858
+Jackson,Jefferson Street,U.S. Senate,,Roger F. Wicker,REP,352
+Jackson,Larue,President,,Kamala D. Harris,DEM,16
+Jackson,Larue,President,,Chase Oliver,LIB,0
+Jackson,Larue,President,,Jill Stein,GRN,1
+Jackson,Larue,President,,Randall Terry,CON,0
+Jackson,Larue,President,,Donald J. Trump,REP,242
+Jackson,Larue,President,,Shiva Ayyadurai,IND,0
+Jackson,Larue,President,,Claudia De la Cruz,IND,0
+Jackson,Larue,President,,Robert F. Kennedy Jr.,IND,1
+Jackson,Larue,President,,Peter Sonski,IND,0
+Jackson,Larue,U.S. Senate,,Ty Pinkins,DEM,19
+Jackson,Larue,U.S. Senate,,Roger F. Wicker,REP,239
+Jackson,Latimer,President,,Kamala D. Harris,DEM,494
+Jackson,Latimer,President,,Chase Oliver,LIB,3
+Jackson,Latimer,President,,Jill Stein,GRN,6
+Jackson,Latimer,President,,Randall Terry,CON,1
+Jackson,Latimer,President,,Donald J. Trump,REP,2296
+Jackson,Latimer,President,,Shiva Ayyadurai,IND,0
+Jackson,Latimer,President,,Claudia De la Cruz,IND,1
+Jackson,Latimer,President,,Robert F. Kennedy Jr.,IND,16
+Jackson,Latimer,President,,Peter Sonski,IND,5
+Jackson,Latimer,U.S. Senate,,Ty Pinkins,DEM,495
+Jackson,Latimer,U.S. Senate,,Roger F. Wicker,REP,2308
+Jackson,North Pascagoula,President,,Kamala D. Harris,DEM,58
+Jackson,North Pascagoula,President,,Chase Oliver,LIB,0
+Jackson,North Pascagoula,President,,Jill Stein,GRN,0
+Jackson,North Pascagoula,President,,Randall Terry,CON,1
+Jackson,North Pascagoula,President,,Donald J. Trump,REP,273
+Jackson,North Pascagoula,President,,Shiva Ayyadurai,IND,0
+Jackson,North Pascagoula,President,,Claudia De la Cruz,IND,1
+Jackson,North Pascagoula,President,,Robert F. Kennedy Jr.,IND,4
+Jackson,North Pascagoula,President,,Peter Sonski,IND,0
+Jackson,North Pascagoula,U.S. Senate,,Ty Pinkins,DEM,49
+Jackson,North Pascagoula,U.S. Senate,,Roger F. Wicker,REP,287
+Jackson,North Vancleave,President,,Kamala D. Harris,DEM,253
+Jackson,North Vancleave,President,,Chase Oliver,LIB,4
+Jackson,North Vancleave,President,,Jill Stein,GRN,5
+Jackson,North Vancleave,President,,Randall Terry,CON,1
+Jackson,North Vancleave,President,,Donald J. Trump,REP,1494
+Jackson,North Vancleave,President,,Shiva Ayyadurai,IND,0
+Jackson,North Vancleave,President,,Claudia De la Cruz,IND,1
+Jackson,North Vancleave,President,,Robert F. Kennedy Jr.,IND,5
+Jackson,North Vancleave,President,,Peter Sonski,IND,0
+Jackson,North Vancleave,U.S. Senate,,Ty Pinkins,DEM,252
+Jackson,North Vancleave,U.S. Senate,,Roger F. Wicker,REP,1503
+Jackson,OS Civic Ctr,President,,Kamala D. Harris,DEM,956
+Jackson,OS Civic Ctr,President,,Chase Oliver,LIB,21
+Jackson,OS Civic Ctr,President,,Jill Stein,GRN,9
+Jackson,OS Civic Ctr,President,,Randall Terry,CON,1
+Jackson,OS Civic Ctr,President,,Donald J. Trump,REP,2005
+Jackson,OS Civic Ctr,President,,Shiva Ayyadurai,IND,1
+Jackson,OS Civic Ctr,President,,Claudia De la Cruz,IND,2
+Jackson,OS Civic Ctr,President,,Robert F. Kennedy Jr.,IND,13
+Jackson,OS Civic Ctr,President,,Peter Sonski,IND,0
+Jackson,OS Civic Ctr,U.S. Senate,,Ty Pinkins,DEM,875
+Jackson,OS Civic Ctr,U.S. Senate,,Roger F. Wicker,REP,2101
+Jackson,OS Senior Center,President,,Kamala D. Harris,DEM,72
+Jackson,OS Senior Center,President,,Chase Oliver,LIB,0
+Jackson,OS Senior Center,President,,Jill Stein,GRN,1
+Jackson,OS Senior Center,President,,Randall Terry,CON,0
+Jackson,OS Senior Center,President,,Donald J. Trump,REP,146
+Jackson,OS Senior Center,President,,Shiva Ayyadurai,IND,0
+Jackson,OS Senior Center,President,,Claudia De la Cruz,IND,0
+Jackson,OS Senior Center,President,,Robert F. Kennedy Jr.,IND,2
+Jackson,OS Senior Center,President,,Peter Sonski,IND,0
+Jackson,OS Senior Center,U.S. Senate,,Ty Pinkins,DEM,66
+Jackson,OS Senior Center,U.S. Senate,,Roger F. Wicker,REP,161
+Jackson,Orange Grove,President,,Kamala D. Harris,DEM,102
+Jackson,Orange Grove,President,,Chase Oliver,LIB,1
+Jackson,Orange Grove,President,,Jill Stein,GRN,1
+Jackson,Orange Grove,President,,Randall Terry,CON,1
+Jackson,Orange Grove,President,,Donald J. Trump,REP,702
+Jackson,Orange Grove,President,,Shiva Ayyadurai,IND,0
+Jackson,Orange Grove,President,,Claudia De la Cruz,IND,0
+Jackson,Orange Grove,President,,Robert F. Kennedy Jr.,IND,1
+Jackson,Orange Grove,President,,Peter Sonski,IND,0
+Jackson,Orange Grove,U.S. Senate,,Ty Pinkins,DEM,111
+Jackson,Orange Grove,U.S. Senate,,Roger F. Wicker,REP,686
+Jackson,Pelican Landing,President,,Kamala D. Harris,DEM,683
+Jackson,Pelican Landing,President,,Chase Oliver,LIB,1
+Jackson,Pelican Landing,President,,Jill Stein,GRN,0
+Jackson,Pelican Landing,President,,Randall Terry,CON,0
+Jackson,Pelican Landing,President,,Donald J. Trump,REP,142
+Jackson,Pelican Landing,President,,Shiva Ayyadurai,IND,0
+Jackson,Pelican Landing,President,,Claudia De la Cruz,IND,0
+Jackson,Pelican Landing,President,,Robert F. Kennedy Jr.,IND,3
+Jackson,Pelican Landing,President,,Peter Sonski,IND,0
+Jackson,Pelican Landing,U.S. Senate,,Ty Pinkins,DEM,681
+Jackson,Pelican Landing,U.S. Senate,,Roger F. Wicker,REP,154
+Jackson,Presbyterian,President,,Kamala D. Harris,DEM,174
+Jackson,Presbyterian,President,,Chase Oliver,LIB,5
+Jackson,Presbyterian,President,,Jill Stein,GRN,4
+Jackson,Presbyterian,President,,Randall Terry,CON,0
+Jackson,Presbyterian,President,,Donald J. Trump,REP,702
+Jackson,Presbyterian,President,,Shiva Ayyadurai,IND,0
+Jackson,Presbyterian,President,,Claudia De la Cruz,IND,0
+Jackson,Presbyterian,President,,Robert F. Kennedy Jr.,IND,2
+Jackson,Presbyterian,President,,Peter Sonski,IND,1
+Jackson,Presbyterian,U.S. Senate,,Ty Pinkins,DEM,153
+Jackson,Presbyterian,U.S. Senate,,Roger F. Wicker,REP,726
+Jackson,Ryan Youth Center,President,,Kamala D. Harris,DEM,537
+Jackson,Ryan Youth Center,President,,Chase Oliver,LIB,9
+Jackson,Ryan Youth Center,President,,Jill Stein,GRN,4
+Jackson,Ryan Youth Center,President,,Randall Terry,CON,3
+Jackson,Ryan Youth Center,President,,Donald J. Trump,REP,1005
+Jackson,Ryan Youth Center,President,,Shiva Ayyadurai,IND,1
+Jackson,Ryan Youth Center,President,,Claudia De la Cruz,IND,1
+Jackson,Ryan Youth Center,President,,Robert F. Kennedy Jr.,IND,16
+Jackson,Ryan Youth Center,President,,Peter Sonski,IND,4
+Jackson,Ryan Youth Center,U.S. Senate,,Ty Pinkins,DEM,483
+Jackson,Ryan Youth Center,U.S. Senate,,Roger F. Wicker,REP,1097
+Jackson,South Vancleave,President,,Kamala D. Harris,DEM,207
+Jackson,South Vancleave,President,,Chase Oliver,LIB,3
+Jackson,South Vancleave,President,,Jill Stein,GRN,2
+Jackson,South Vancleave,President,,Randall Terry,CON,3
+Jackson,South Vancleave,President,,Donald J. Trump,REP,2170
+Jackson,South Vancleave,President,,Shiva Ayyadurai,IND,2
+Jackson,South Vancleave,President,,Claudia De la Cruz,IND,0
+Jackson,South Vancleave,President,,Robert F. Kennedy Jr.,IND,5
+Jackson,South Vancleave,President,,Peter Sonski,IND,2
+Jackson,South Vancleave,U.S. Senate,,Ty Pinkins,DEM,200
+Jackson,South Vancleave,U.S. Senate,,Roger F. Wicker,REP,2167
+Jackson,St Martin,President,,Kamala D. Harris,DEM,607
+Jackson,St Martin,President,,Chase Oliver,LIB,4
+Jackson,St Martin,President,,Jill Stein,GRN,4
+Jackson,St Martin,President,,Randall Terry,CON,3
+Jackson,St Martin,President,,Donald J. Trump,REP,1678
+Jackson,St Martin,President,,Shiva Ayyadurai,IND,0
+Jackson,St Martin,President,,Claudia De la Cruz,IND,6
+Jackson,St Martin,President,,Robert F. Kennedy Jr.,IND,12
+Jackson,St Martin,President,,Peter Sonski,IND,0
+Jackson,St Martin,U.S. Senate,,Ty Pinkins,DEM,620
+Jackson,St Martin,U.S. Senate,,Roger F. Wicker,REP,1672
+Jackson,Sue Ellen,President,,Kamala D. Harris,DEM,1203
+Jackson,Sue Ellen,President,,Chase Oliver,LIB,1
+Jackson,Sue Ellen,President,,Jill Stein,GRN,3
+Jackson,Sue Ellen,President,,Randall Terry,CON,0
+Jackson,Sue Ellen,President,,Donald J. Trump,REP,55
+Jackson,Sue Ellen,President,,Shiva Ayyadurai,IND,0
+Jackson,Sue Ellen,President,,Claudia De la Cruz,IND,0
+Jackson,Sue Ellen,President,,Robert F. Kennedy Jr.,IND,4
+Jackson,Sue Ellen,President,,Peter Sonski,IND,0
+Jackson,Sue Ellen,U.S. Senate,,Ty Pinkins,DEM,1175
+Jackson,Sue Ellen,U.S. Senate,,Roger F. Wicker,REP,97
+Jackson,Villa Maria,President,,Kamala D. Harris,DEM,126
+Jackson,Villa Maria,President,,Chase Oliver,LIB,1
+Jackson,Villa Maria,President,,Jill Stein,GRN,3
+Jackson,Villa Maria,President,,Randall Terry,CON,0
+Jackson,Villa Maria,President,,Donald J. Trump,REP,274
+Jackson,Villa Maria,President,,Shiva Ayyadurai,IND,0
+Jackson,Villa Maria,President,,Claudia De la Cruz,IND,1
+Jackson,Villa Maria,President,,Robert F. Kennedy Jr.,IND,2
+Jackson,Villa Maria,President,,Peter Sonski,IND,0
+Jackson,Villa Maria,U.S. Senate,,Ty Pinkins,DEM,117
+Jackson,Villa Maria,U.S. Senate,,Roger F. Wicker,REP,282
+Jackson,West Jackson,President,,Kamala D. Harris,DEM,1076
+Jackson,West Jackson,President,,Chase Oliver,LIB,9
+Jackson,West Jackson,President,,Jill Stein,GRN,8
+Jackson,West Jackson,President,,Randall Terry,CON,1
+Jackson,West Jackson,President,,Donald J. Trump,REP,2448
+Jackson,West Jackson,President,,Shiva Ayyadurai,IND,0
+Jackson,West Jackson,President,,Claudia De la Cruz,IND,0
+Jackson,West Jackson,President,,Robert F. Kennedy Jr.,IND,21
+Jackson,West Jackson,President,,Peter Sonski,IND,4
+Jackson,West Jackson,U.S. Senate,,Ty Pinkins,DEM,1025
+Jackson,West Jackson,U.S. Senate,,Roger F. Wicker,REP,2512
+Jackson,YMBC-Dantzler,President,,Kamala D. Harris,DEM,630
+Jackson,YMBC-Dantzler,President,,Chase Oliver,LIB,0
+Jackson,YMBC-Dantzler,President,,Jill Stein,GRN,1
+Jackson,YMBC-Dantzler,President,,Randall Terry,CON,0
+Jackson,YMBC-Dantzler,President,,Donald J. Trump,REP,397
+Jackson,YMBC-Dantzler,President,,Shiva Ayyadurai,IND,0
+Jackson,YMBC-Dantzler,President,,Claudia De la Cruz,IND,0
+Jackson,YMBC-Dantzler,President,,Robert F. Kennedy Jr.,IND,4
+Jackson,YMBC-Dantzler,President,,Peter Sonski,IND,1
+Jackson,YMBC-Dantzler,U.S. Senate,,Ty Pinkins,DEM,610
+Jackson,YMBC-Dantzler,U.S. Senate,,Roger F. Wicker,REP,421
+Jackson,Big Point,U.S. House,4,Mike Ezell,REP,1473
+Jackson,Big Point,U.S. House,4,Craig Elliot Raybon,DEM,105
+Jackson,Big Point,Supreme Court,2,Dawn H. Beam,,644
+Jackson,Big Point,Supreme Court,2,David P. Sullivan,,805
+Jackson,Big Point,Court of Appeals,5,Ian Baker,,167
+Jackson,Big Point,Court of Appeals,5,Jennifer T. Schloegel,,187
+Jackson,Big Point,Court of Appeals,5,Amy Lassitter St. Pe',,1167
+Jackson,Carterville,U.S. House,4,Mike Ezell,REP,422
+Jackson,Carterville,U.S. House,4,Craig Elliot Raybon,DEM,14
+Jackson,Carterville,Supreme Court,2,Dawn H. Beam,,155
+Jackson,Carterville,Supreme Court,2,David P. Sullivan,,233
+Jackson,Carterville,Court of Appeals,5,Ian Baker,,73
+Jackson,Carterville,Court of Appeals,5,Jennifer T. Schloegel,,73
+Jackson,Carterville,Court of Appeals,5,Amy Lassitter St. Pe',,261
+Jackson,East Central,U.S. House,4,Mike Ezell,REP,4027
+Jackson,East Central,U.S. House,4,Craig Elliot Raybon,DEM,287
+Jackson,East Central,Supreme Court,2,Dawn H. Beam,,1735
+Jackson,East Central,Supreme Court,2,David P. Sullivan,,2242
+Jackson,East Central,Court of Appeals,5,Ian Baker,,459
+Jackson,East Central,Court of Appeals,5,Jennifer T. Schloegel,,434
+Jackson,East Central,Court of Appeals,5,Amy Lassitter St. Pe',,3271
+Jackson,Eastlawn,U.S. House,4,Mike Ezell,REP,1348
+Jackson,Eastlawn,U.S. House,4,Craig Elliot Raybon,DEM,317
+Jackson,Eastlawn,Supreme Court,2,Dawn H. Beam,,737
+Jackson,Eastlawn,Supreme Court,2,David P. Sullivan,,814
+Jackson,Eastlawn,Court of Appeals,5,Ian Baker,,183
+Jackson,Eastlawn,Court of Appeals,5,Jennifer T. Schloegel,,266
+Jackson,Eastlawn,Court of Appeals,5,Amy Lassitter St. Pe',,1154
+Jackson,Escatawpa,U.S. House,4,Mike Ezell,REP,1549
+Jackson,Escatawpa,U.S. House,4,Craig Elliot Raybon,DEM,427
+Jackson,Escatawpa,Supreme Court,2,Dawn H. Beam,,860
+Jackson,Escatawpa,Supreme Court,2,David P. Sullivan,,1000
+Jackson,Escatawpa,Court of Appeals,5,Ian Baker,,271
+Jackson,Escatawpa,Court of Appeals,5,Jennifer T. Schloegel,,375
+Jackson,Escatawpa,Court of Appeals,5,Amy Lassitter St. Pe',,1275
+Jackson,Fair,U.S. House,4,Mike Ezell,REP,811
+Jackson,Fair,U.S. House,4,Craig Elliot Raybon,DEM,1064
+Jackson,Fair,Supreme Court,2,Dawn H. Beam,,790
+Jackson,Fair,Supreme Court,2,David P. Sullivan,,852
+Jackson,Fair,Court of Appeals,5,Ian Baker,,254
+Jackson,Fair,Court of Appeals,5,Jennifer T. Schloegel,,388
+Jackson,Fair,Court of Appeals,5,Amy Lassitter St. Pe',,1039
+Jackson,Fontainebleau,U.S. House,4,Mike Ezell,REP,2789
+Jackson,Fontainebleau,U.S. House,4,Craig Elliot Raybon,DEM,955
+Jackson,Fontainebleau,Supreme Court,2,Dawn H. Beam,,1654
+Jackson,Fontainebleau,Supreme Court,2,David P. Sullivan,,1719
+Jackson,Fontainebleau,Court of Appeals,5,Ian Baker,,591
+Jackson,Fontainebleau,Court of Appeals,5,Jennifer T. Schloegel,,1213
+Jackson,Fontainebleau,Court of Appeals,5,Amy Lassitter St. Pe',,1695
+Jackson,Gautier North,U.S. House,4,Mike Ezell,REP,873
+Jackson,Gautier North,U.S. House,4,Craig Elliot Raybon,DEM,520
+Jackson,Gautier North,Supreme Court,2,Dawn H. Beam,,643
+Jackson,Gautier North,Supreme Court,2,David P. Sullivan,,613
+Jackson,Gautier North,Court of Appeals,5,Ian Baker,,197
+Jackson,Gautier North,Court of Appeals,5,Jennifer T. Schloegel,,336
+Jackson,Gautier North,Court of Appeals,5,Amy Lassitter St. Pe',,779
+Jackson,Gautier South,U.S. House,4,Mike Ezell,REP,1489
+Jackson,Gautier South,U.S. House,4,Craig Elliot Raybon,DEM,818
+Jackson,Gautier South,Supreme Court,2,Dawn H. Beam,,1050
+Jackson,Gautier South,Supreme Court,2,David P. Sullivan,,1020
+Jackson,Gautier South,Court of Appeals,5,Ian Baker,,323
+Jackson,Gautier South,Court of Appeals,5,Jennifer T. Schloegel,,566
+Jackson,Gautier South,Court of Appeals,5,Amy Lassitter St. Pe',,1263
+Jackson,Grace Baptist Church,U.S. House,4,Mike Ezell,REP,2061
+Jackson,Grace Baptist Church,U.S. House,4,Craig Elliot Raybon,DEM,717
+Jackson,Grace Baptist Church,Supreme Court,2,Dawn H. Beam,,1338
+Jackson,Grace Baptist Church,Supreme Court,2,David P. Sullivan,,1204
+Jackson,Grace Baptist Church,Court of Appeals,5,Ian Baker,,473
+Jackson,Grace Baptist Church,Court of Appeals,5,Jennifer T. Schloegel,,957
+Jackson,Grace Baptist Church,Court of Appeals,5,Amy Lassitter St. Pe',,1209
+Jackson,Gulf Park Estates,U.S. House,4,Mike Ezell,REP,1629
+Jackson,Gulf Park Estates,U.S. House,4,Craig Elliot Raybon,DEM,575
+Jackson,Gulf Park Estates,Supreme Court,2,Dawn H. Beam,,962
+Jackson,Gulf Park Estates,Supreme Court,2,David P. Sullivan,,1008
+Jackson,Gulf Park Estates,Court of Appeals,5,Ian Baker,,354
+Jackson,Gulf Park Estates,Court of Appeals,5,Jennifer T. Schloegel,,879
+Jackson,Gulf Park Estates,Court of Appeals,5,Amy Lassitter St. Pe',,835
+Jackson,Hickory Hills,U.S. House,4,Mike Ezell,REP,1046
+Jackson,Hickory Hills,U.S. House,4,Craig Elliot Raybon,DEM,437
+Jackson,Hickory Hills,Supreme Court,2,Dawn H. Beam,,629
+Jackson,Hickory Hills,Supreme Court,2,David P. Sullivan,,703
+Jackson,Hickory Hills,Court of Appeals,5,Ian Baker,,234
+Jackson,Hickory Hills,Court of Appeals,5,Jennifer T. Schloegel,,341
+Jackson,Hickory Hills,Court of Appeals,5,Amy Lassitter St. Pe',,816
+Jackson,Hwy 57,U.S. House,4,Mike Ezell,REP,377
+Jackson,Hwy 57,U.S. House,4,Craig Elliot Raybon,DEM,18
+Jackson,Hwy 57,Supreme Court,2,Dawn H. Beam,,133
+Jackson,Hwy 57,Supreme Court,2,David P. Sullivan,,215
+Jackson,Hwy 57,Court of Appeals,5,Ian Baker,,66
+Jackson,Hwy 57,Court of Appeals,5,Jennifer T. Schloegel,,68
+Jackson,Hwy 57,Court of Appeals,5,Amy Lassitter St. Pe',,241
+Jackson,Ingalls Avenue Baptist Church,U.S. House,4,Mike Ezell,REP,1020
+Jackson,Ingalls Avenue Baptist Church,U.S. House,4,Craig Elliot Raybon,DEM,282
+Jackson,Ingalls Avenue Baptist Church,Supreme Court,2,Dawn H. Beam,,588
+Jackson,Ingalls Avenue Baptist Church,Supreme Court,2,David P. Sullivan,,610
+Jackson,Ingalls Avenue Baptist Church,Court of Appeals,5,Ian Baker,,119
+Jackson,Ingalls Avenue Baptist Church,Court of Appeals,5,Jennifer T. Schloegel,,224
+Jackson,Ingalls Avenue Baptist Church,Court of Appeals,5,Amy Lassitter St. Pe',,911
+Jackson,Jefferson Street,U.S. House,4,Mike Ezell,REP,437
+Jackson,Jefferson Street,U.S. House,4,Craig Elliot Raybon,DEM,770
+Jackson,Jefferson Street,Supreme Court,2,Dawn H. Beam,,502
+Jackson,Jefferson Street,Supreme Court,2,David P. Sullivan,,556
+Jackson,Jefferson Street,Court of Appeals,5,Ian Baker,,177
+Jackson,Jefferson Street,Court of Appeals,5,Jennifer T. Schloegel,,254
+Jackson,Jefferson Street,Court of Appeals,5,Amy Lassitter St. Pe',,664
+Jackson,Larue,U.S. House,4,Mike Ezell,REP,244
+Jackson,Larue,U.S. House,4,Craig Elliot Raybon,DEM,10
+Jackson,Larue,Supreme Court,2,Dawn H. Beam,,113
+Jackson,Larue,Supreme Court,2,David P. Sullivan,,126
+Jackson,Larue,Court of Appeals,5,Ian Baker,,54
+Jackson,Larue,Court of Appeals,5,Jennifer T. Schloegel,,75
+Jackson,Larue,Court of Appeals,5,Amy Lassitter St. Pe',,113
+Jackson,Latimer,U.S. House,4,Mike Ezell,REP,2348
+Jackson,Latimer,U.S. House,4,Craig Elliot Raybon,DEM,456
+Jackson,Latimer,Supreme Court,2,Dawn H. Beam,,1207
+Jackson,Latimer,Supreme Court,2,David P. Sullivan,,1377
+Jackson,Latimer,Court of Appeals,5,Ian Baker,,572
+Jackson,Latimer,Court of Appeals,5,Jennifer T. Schloegel,,833
+Jackson,Latimer,Court of Appeals,5,Amy Lassitter St. Pe',,1252
+Jackson,North Pascagoula,U.S. House,4,Mike Ezell,REP,297
+Jackson,North Pascagoula,U.S. House,4,Craig Elliot Raybon,DEM,41
+Jackson,North Pascagoula,Supreme Court,2,Dawn H. Beam,,149
+Jackson,North Pascagoula,Supreme Court,2,David P. Sullivan,,164
+Jackson,North Pascagoula,Court of Appeals,5,Ian Baker,,27
+Jackson,North Pascagoula,Court of Appeals,5,Jennifer T. Schloegel,,40
+Jackson,North Pascagoula,Court of Appeals,5,Amy Lassitter St. Pe',,268
+Jackson,North Vancleave,U.S. House,4,Mike Ezell,REP,1537
+Jackson,North Vancleave,U.S. House,4,Craig Elliot Raybon,DEM,220
+Jackson,North Vancleave,Supreme Court,2,Dawn H. Beam,,693
+Jackson,North Vancleave,Supreme Court,2,David P. Sullivan,,861
+Jackson,North Vancleave,Court of Appeals,5,Ian Baker,,257
+Jackson,North Vancleave,Court of Appeals,5,Jennifer T. Schloegel,,333
+Jackson,North Vancleave,Court of Appeals,5,Amy Lassitter St. Pe',,1040
+Jackson,OS Civic Ctr,U.S. House,4,Mike Ezell,REP,2155
+Jackson,OS Civic Ctr,U.S. House,4,Craig Elliot Raybon,DEM,820
+Jackson,OS Civic Ctr,Supreme Court,2,Dawn H. Beam,,1317
+Jackson,OS Civic Ctr,Supreme Court,2,David P. Sullivan,,1380
+Jackson,OS Civic Ctr,Court of Appeals,5,Ian Baker,,410
+Jackson,OS Civic Ctr,Court of Appeals,5,Jennifer T. Schloegel,,1039
+Jackson,OS Civic Ctr,Court of Appeals,5,Amy Lassitter St. Pe',,1339
+Jackson,OS Senior Center,U.S. House,4,Mike Ezell,REP,168
+Jackson,OS Senior Center,U.S. House,4,Craig Elliot Raybon,DEM,59
+Jackson,OS Senior Center,Supreme Court,2,Dawn H. Beam,,94
+Jackson,OS Senior Center,Supreme Court,2,David P. Sullivan,,109
+Jackson,OS Senior Center,Court of Appeals,5,Ian Baker,,26
+Jackson,OS Senior Center,Court of Appeals,5,Jennifer T. Schloegel,,88
+Jackson,OS Senior Center,Court of Appeals,5,Amy Lassitter St. Pe',,100
+Jackson,Orange Grove,U.S. House,4,Mike Ezell,REP,702
+Jackson,Orange Grove,U.S. House,4,Craig Elliot Raybon,DEM,102
+Jackson,Orange Grove,Supreme Court,2,Dawn H. Beam,,343
+Jackson,Orange Grove,Supreme Court,2,David P. Sullivan,,386
+Jackson,Orange Grove,Court of Appeals,5,Ian Baker,,145
+Jackson,Orange Grove,Court of Appeals,5,Jennifer T. Schloegel,,107
+Jackson,Orange Grove,Court of Appeals,5,Amy Lassitter St. Pe',,495
+Jackson,Pelican Landing,U.S. House,4,Mike Ezell,REP,210
+Jackson,Pelican Landing,U.S. House,4,Craig Elliot Raybon,DEM,613
+Jackson,Pelican Landing,Supreme Court,2,Dawn H. Beam,,370
+Jackson,Pelican Landing,Supreme Court,2,David P. Sullivan,,362
+Jackson,Pelican Landing,Court of Appeals,5,Ian Baker,,154
+Jackson,Pelican Landing,Court of Appeals,5,Jennifer T. Schloegel,,183
+Jackson,Pelican Landing,Court of Appeals,5,Amy Lassitter St. Pe',,422
+Jackson,Presbyterian,U.S. House,4,Mike Ezell,REP,761
+Jackson,Presbyterian,U.S. House,4,Craig Elliot Raybon,DEM,122
+Jackson,Presbyterian,Supreme Court,2,Dawn H. Beam,,380
+Jackson,Presbyterian,Supreme Court,2,David P. Sullivan,,411
+Jackson,Presbyterian,Court of Appeals,5,Ian Baker,,75
+Jackson,Presbyterian,Court of Appeals,5,Jennifer T. Schloegel,,91
+Jackson,Presbyterian,Court of Appeals,5,Amy Lassitter St. Pe',,682
+Jackson,Ryan Youth Center,U.S. House,4,Mike Ezell,REP,1118
+Jackson,Ryan Youth Center,U.S. House,4,Craig Elliot Raybon,DEM,460
+Jackson,Ryan Youth Center,Supreme Court,2,Dawn H. Beam,,730
+Jackson,Ryan Youth Center,Supreme Court,2,David P. Sullivan,,686
+Jackson,Ryan Youth Center,Court of Appeals,5,Ian Baker,,206
+Jackson,Ryan Youth Center,Court of Appeals,5,Jennifer T. Schloegel,,566
+Jackson,Ryan Youth Center,Court of Appeals,5,Amy Lassitter St. Pe',,706
+Jackson,South Vancleave,U.S. House,4,Mike Ezell,REP,2187
+Jackson,South Vancleave,U.S. House,4,Craig Elliot Raybon,DEM,195
+Jackson,South Vancleave,Supreme Court,2,Dawn H. Beam,,1038
+Jackson,South Vancleave,Supreme Court,2,David P. Sullivan,,1168
+Jackson,South Vancleave,Court of Appeals,5,Ian Baker,,383
+Jackson,South Vancleave,Court of Appeals,5,Jennifer T. Schloegel,,499
+Jackson,South Vancleave,Court of Appeals,5,Amy Lassitter St. Pe',,1378
+Jackson,St Martin,U.S. House,4,Mike Ezell,REP,1712
+Jackson,St Martin,U.S. House,4,Craig Elliot Raybon,DEM,575
+Jackson,St Martin,Supreme Court,2,Dawn H. Beam,,1016
+Jackson,St Martin,Supreme Court,2,David P. Sullivan,,1056
+Jackson,St Martin,Court of Appeals,5,Ian Baker,,484
+Jackson,St Martin,Court of Appeals,5,Jennifer T. Schloegel,,698
+Jackson,St Martin,Court of Appeals,5,Amy Lassitter St. Pe',,895
+Jackson,Sue Ellen,U.S. House,4,Mike Ezell,REP,170
+Jackson,Sue Ellen,U.S. House,4,Craig Elliot Raybon,DEM,1088
+Jackson,Sue Ellen,Supreme Court,2,Dawn H. Beam,,527
+Jackson,Sue Ellen,Supreme Court,2,David P. Sullivan,,568
+Jackson,Sue Ellen,Court of Appeals,5,Ian Baker,,189
+Jackson,Sue Ellen,Court of Appeals,5,Jennifer T. Schloegel,,290
+Jackson,Sue Ellen,Court of Appeals,5,Amy Lassitter St. Pe',,590
+Jackson,Villa Maria,U.S. House,4,Mike Ezell,REP,283
+Jackson,Villa Maria,U.S. House,4,Craig Elliot Raybon,DEM,111
+Jackson,Villa Maria,Supreme Court,2,Dawn H. Beam,,179
+Jackson,Villa Maria,Supreme Court,2,David P. Sullivan,,169
+Jackson,Villa Maria,Court of Appeals,5,Ian Baker,,46
+Jackson,Villa Maria,Court of Appeals,5,Jennifer T. Schloegel,,165
+Jackson,Villa Maria,Court of Appeals,5,Amy Lassitter St. Pe',,150
+Jackson,West Jackson,U.S. House,4,Mike Ezell,REP,2583
+Jackson,West Jackson,U.S. House,4,Craig Elliot Raybon,DEM,958
+Jackson,West Jackson,Supreme Court,2,Dawn H. Beam,,1599
+Jackson,West Jackson,Supreme Court,2,David P. Sullivan,,1609
+Jackson,West Jackson,Court of Appeals,5,Ian Baker,,643
+Jackson,West Jackson,Court of Appeals,5,Jennifer T. Schloegel,,1316
+Jackson,West Jackson,Court of Appeals,5,Amy Lassitter St. Pe',,1352
+Jackson,YMBC-Dantzler,U.S. House,4,Mike Ezell,REP,462
+Jackson,YMBC-Dantzler,U.S. House,4,Craig Elliot Raybon,DEM,562
+Jackson,YMBC-Dantzler,Supreme Court,2,Dawn H. Beam,,455
+Jackson,YMBC-Dantzler,Supreme Court,2,David P. Sullivan,,448
+Jackson,YMBC-Dantzler,Court of Appeals,5,Ian Baker,,109
+Jackson,YMBC-Dantzler,Court of Appeals,5,Jennifer T. Schloegel,,191
+Jackson,YMBC-Dantzler,Court of Appeals,5,Amy Lassitter St. Pe',,663
