@@ -1,0 +1,496 @@
+county,precinct,office,district,candidate,party,votes
+Lee,Pratts,President,,Kamala D. Harris,DEM,26
+Lee,Pratts,President,,Chase Oliver,LIB,0
+Lee,Pratts,President,,Jill Stein,GRN,0
+Lee,Pratts,President,,Randall Terry,CON,0
+Lee,Pratts,President,,Donald J. Trump,REP,352
+Lee,Pratts,President,,Shiva Ayyadurai,IND,0
+Lee,Pratts,President,,Claudia De la Cruz,IND,0
+Lee,Pratts,President,,Robert F. Kennedy Jr.,IND,0
+Lee,Pratts,President,,Peter Sonski,IND,1
+Lee,Pratts,U.S. Senate,,Ty Pinkins,DEM,27
+Lee,Pratts,U.S. Senate,,Roger F. Wicker,REP,343
+Lee,Baldwyn,President,,Kamala D. Harris,DEM,312
+Lee,Baldwyn,President,,Chase Oliver,LIB,2
+Lee,Baldwyn,President,,Jill Stein,GRN,0
+Lee,Baldwyn,President,,Randall Terry,CON,0
+Lee,Baldwyn,President,,Donald J. Trump,REP,347
+Lee,Baldwyn,President,,Shiva Ayyadurai,IND,0
+Lee,Baldwyn,President,,Claudia De la Cruz,IND,2
+Lee,Baldwyn,President,,Robert F. Kennedy Jr.,IND,2
+Lee,Baldwyn,President,,Peter Sonski,IND,2
+Lee,Baldwyn,U.S. Senate,,Ty Pinkins,DEM,303
+Lee,Baldwyn,U.S. Senate,,Roger F. Wicker,REP,364
+Lee,Guntown,President,,Kamala D. Harris,DEM,290
+Lee,Guntown,President,,Chase Oliver,LIB,2
+Lee,Guntown,President,,Jill Stein,GRN,4
+Lee,Guntown,President,,Randall Terry,CON,0
+Lee,Guntown,President,,Donald J. Trump,REP,885
+Lee,Guntown,President,,Shiva Ayyadurai,IND,0
+Lee,Guntown,President,,Claudia De la Cruz,IND,0
+Lee,Guntown,President,,Robert F. Kennedy Jr.,IND,5
+Lee,Guntown,President,,Peter Sonski,IND,1
+Lee,Guntown,U.S. Senate,,Ty Pinkins,DEM,288
+Lee,Guntown,U.S. Senate,,Roger F. Wicker,REP,879
+Lee,Friendship,President,,Kamala D. Harris,DEM,8
+Lee,Friendship,President,,Chase Oliver,LIB,1
+Lee,Friendship,President,,Jill Stein,GRN,0
+Lee,Friendship,President,,Randall Terry,CON,0
+Lee,Friendship,President,,Donald J. Trump,REP,164
+Lee,Friendship,President,,Shiva Ayyadurai,IND,0
+Lee,Friendship,President,,Claudia De la Cruz,IND,0
+Lee,Friendship,President,,Robert F. Kennedy Jr.,IND,0
+Lee,Friendship,President,,Peter Sonski,IND,0
+Lee,Friendship,U.S. Senate,,Ty Pinkins,DEM,8
+Lee,Friendship,U.S. Senate,,Roger F. Wicker,REP,161
+Lee,Unity,President,,Kamala D. Harris,DEM,52
+Lee,Unity,President,,Chase Oliver,LIB,1
+Lee,Unity,President,,Jill Stein,GRN,0
+Lee,Unity,President,,Randall Terry,CON,0
+Lee,Unity,President,,Donald J. Trump,REP,825
+Lee,Unity,President,,Shiva Ayyadurai,IND,0
+Lee,Unity,President,,Claudia De la Cruz,IND,0
+Lee,Unity,President,,Robert F. Kennedy Jr.,IND,2
+Lee,Unity,President,,Peter Sonski,IND,3
+Lee,Unity,U.S. Senate,,Ty Pinkins,DEM,60
+Lee,Unity,U.S. Senate,,Roger F. Wicker,REP,805
+Lee,Auburn,President,,Kamala D. Harris,DEM,95
+Lee,Auburn,President,,Chase Oliver,LIB,0
+Lee,Auburn,President,,Jill Stein,GRN,0
+Lee,Auburn,President,,Randall Terry,CON,1
+Lee,Auburn,President,,Donald J. Trump,REP,785
+Lee,Auburn,President,,Shiva Ayyadurai,IND,0
+Lee,Auburn,President,,Claudia De la Cruz,IND,0
+Lee,Auburn,President,,Robert F. Kennedy Jr.,IND,0
+Lee,Auburn,President,,Peter Sonski,IND,0
+Lee,Auburn,U.S. Senate,,Ty Pinkins,DEM,99
+Lee,Auburn,U.S. Senate,,Roger F. Wicker,REP,767
+Lee,Oak Hill,President,,Kamala D. Harris,DEM,89
+Lee,Oak Hill,President,,Chase Oliver,LIB,1
+Lee,Oak Hill,President,,Jill Stein,GRN,4
+Lee,Oak Hill,President,,Randall Terry,CON,1
+Lee,Oak Hill,President,,Donald J. Trump,REP,577
+Lee,Oak Hill,President,,Shiva Ayyadurai,IND,0
+Lee,Oak Hill,President,,Claudia De la Cruz,IND,1
+Lee,Oak Hill,President,,Robert F. Kennedy Jr.,IND,0
+Lee,Oak Hill,President,,Peter Sonski,IND,0
+Lee,Oak Hill,U.S. Senate,,Ty Pinkins,DEM,97
+Lee,Oak Hill,U.S. Senate,,Roger F. Wicker,REP,560
+Lee,Veterans Park,President,,Kamala D. Harris,DEM,394
+Lee,Veterans Park,President,,Chase Oliver,LIB,4
+Lee,Veterans Park,President,,Jill Stein,GRN,2
+Lee,Veterans Park,President,,Randall Terry,CON,0
+Lee,Veterans Park,President,,Donald J. Trump,REP,1120
+Lee,Veterans Park,President,,Shiva Ayyadurai,IND,0
+Lee,Veterans Park,President,,Claudia De la Cruz,IND,1
+Lee,Veterans Park,President,,Robert F. Kennedy Jr.,IND,6
+Lee,Veterans Park,President,,Peter Sonski,IND,5
+Lee,Veterans Park,U.S. Senate,,Ty Pinkins,DEM,387
+Lee,Veterans Park,U.S. Senate,,Roger F. Wicker,REP,1118
+Lee,Tupelo 1,President,,Kamala D. Harris,DEM,352
+Lee,Tupelo 1,President,,Chase Oliver,LIB,4
+Lee,Tupelo 1,President,,Jill Stein,GRN,0
+Lee,Tupelo 1,President,,Randall Terry,CON,0
+Lee,Tupelo 1,President,,Donald J. Trump,REP,766
+Lee,Tupelo 1,President,,Shiva Ayyadurai,IND,0
+Lee,Tupelo 1,President,,Claudia De la Cruz,IND,0
+Lee,Tupelo 1,President,,Robert F. Kennedy Jr.,IND,9
+Lee,Tupelo 1,President,,Peter Sonski,IND,1
+Lee,Tupelo 1,U.S. Senate,,Ty Pinkins,DEM,275
+Lee,Tupelo 1,U.S. Senate,,Roger F. Wicker,REP,849
+Lee,Cedar Hill,President,,Kamala D. Harris,DEM,153
+Lee,Cedar Hill,President,,Chase Oliver,LIB,1
+Lee,Cedar Hill,President,,Jill Stein,GRN,0
+Lee,Cedar Hill,President,,Randall Terry,CON,2
+Lee,Cedar Hill,President,,Donald J. Trump,REP,954
+Lee,Cedar Hill,President,,Shiva Ayyadurai,IND,0
+Lee,Cedar Hill,President,,Claudia De la Cruz,IND,0
+Lee,Cedar Hill,President,,Robert F. Kennedy Jr.,IND,3
+Lee,Cedar Hill,President,,Peter Sonski,IND,1
+Lee,Cedar Hill,U.S. Senate,,Ty Pinkins,DEM,165
+Lee,Cedar Hill,U.S. Senate,,Roger F. Wicker,REP,915
+Lee,Tupelo 2,President,,Kamala D. Harris,DEM,835
+Lee,Tupelo 2,President,,Chase Oliver,LIB,10
+Lee,Tupelo 2,President,,Jill Stein,GRN,1
+Lee,Tupelo 2,President,,Randall Terry,CON,1
+Lee,Tupelo 2,President,,Donald J. Trump,REP,1573
+Lee,Tupelo 2,President,,Shiva Ayyadurai,IND,0
+Lee,Tupelo 2,President,,Claudia De la Cruz,IND,1
+Lee,Tupelo 2,President,,Robert F. Kennedy Jr.,IND,17
+Lee,Tupelo 2,President,,Peter Sonski,IND,2
+Lee,Tupelo 2,U.S. Senate,,Ty Pinkins,DEM,791
+Lee,Tupelo 2,U.S. Senate,,Roger F. Wicker,REP,1612
+Lee,Beech Springs,President,,Kamala D. Harris,DEM,175
+Lee,Beech Springs,President,,Chase Oliver,LIB,6
+Lee,Beech Springs,President,,Jill Stein,GRN,4
+Lee,Beech Springs,President,,Randall Terry,CON,0
+Lee,Beech Springs,President,,Donald J. Trump,REP,335
+Lee,Beech Springs,President,,Shiva Ayyadurai,IND,1
+Lee,Beech Springs,President,,Claudia De la Cruz,IND,1
+Lee,Beech Springs,President,,Robert F. Kennedy Jr.,IND,4
+Lee,Beech Springs,President,,Peter Sonski,IND,0
+Lee,Beech Springs,U.S. Senate,,Ty Pinkins,DEM,166
+Lee,Beech Springs,U.S. Senate,,Roger F. Wicker,REP,345
+Lee,Birmingham Ridge,President,,Kamala D. Harris,DEM,174
+Lee,Birmingham Ridge,President,,Chase Oliver,LIB,6
+Lee,Birmingham Ridge,President,,Jill Stein,GRN,3
+Lee,Birmingham Ridge,President,,Randall Terry,CON,0
+Lee,Birmingham Ridge,President,,Donald J. Trump,REP,1237
+Lee,Birmingham Ridge,President,,Shiva Ayyadurai,IND,0
+Lee,Birmingham Ridge,President,,Claudia De la Cruz,IND,0
+Lee,Birmingham Ridge,President,,Robert F. Kennedy Jr.,IND,4
+Lee,Birmingham Ridge,President,,Peter Sonski,IND,0
+Lee,Birmingham Ridge,U.S. Senate,,Ty Pinkins,DEM,162
+Lee,Birmingham Ridge,U.S. Senate,,Roger F. Wicker,REP,1230
+Lee,Euclatubba,President,,Kamala D. Harris,DEM,28
+Lee,Euclatubba,President,,Chase Oliver,LIB,0
+Lee,Euclatubba,President,,Jill Stein,GRN,0
+Lee,Euclatubba,President,,Randall Terry,CON,0
+Lee,Euclatubba,President,,Donald J. Trump,REP,275
+Lee,Euclatubba,President,,Shiva Ayyadurai,IND,0
+Lee,Euclatubba,President,,Claudia De la Cruz,IND,0
+Lee,Euclatubba,President,,Robert F. Kennedy Jr.,IND,0
+Lee,Euclatubba,President,,Peter Sonski,IND,0
+Lee,Euclatubba,U.S. Senate,,Ty Pinkins,DEM,28
+Lee,Euclatubba,U.S. Senate,,Roger F. Wicker,REP,265
+Lee,Saltillo,President,,Kamala D. Harris,DEM,413
+Lee,Saltillo,President,,Chase Oliver,LIB,8
+Lee,Saltillo,President,,Jill Stein,GRN,3
+Lee,Saltillo,President,,Randall Terry,CON,1
+Lee,Saltillo,President,,Donald J. Trump,REP,1697
+Lee,Saltillo,President,,Shiva Ayyadurai,IND,1
+Lee,Saltillo,President,,Claudia De la Cruz,IND,0
+Lee,Saltillo,President,,Robert F. Kennedy Jr.,IND,6
+Lee,Saltillo,President,,Peter Sonski,IND,1
+Lee,Saltillo,U.S. Senate,,Ty Pinkins,DEM,413
+Lee,Saltillo,U.S. Senate,,Roger F. Wicker,REP,1684
+Lee,Belden,President,,Kamala D. Harris,DEM,104
+Lee,Belden,President,,Chase Oliver,LIB,1
+Lee,Belden,President,,Jill Stein,GRN,0
+Lee,Belden,President,,Randall Terry,CON,0
+Lee,Belden,President,,Donald J. Trump,REP,472
+Lee,Belden,President,,Shiva Ayyadurai,IND,0
+Lee,Belden,President,,Claudia De la Cruz,IND,1
+Lee,Belden,President,,Robert F. Kennedy Jr.,IND,2
+Lee,Belden,President,,Peter Sonski,IND,0
+Lee,Belden,U.S. Senate,,Ty Pinkins,DEM,114
+Lee,Belden,U.S. Senate,,Roger F. Wicker,REP,457
+Lee,TFM #5,President,,Kamala D. Harris,DEM,1238
+Lee,TFM #5,President,,Chase Oliver,LIB,16
+Lee,TFM #5,President,,Jill Stein,GRN,8
+Lee,TFM #5,President,,Randall Terry,CON,7
+Lee,TFM #5,President,,Donald J. Trump,REP,3642
+Lee,TFM #5,President,,Shiva Ayyadurai,IND,1
+Lee,TFM #5,President,,Claudia De la Cruz,IND,2
+Lee,TFM #5,President,,Robert F. Kennedy Jr.,IND,27
+Lee,TFM #5,President,,Peter Sonski,IND,7
+Lee,TFM #5,U.S. Senate,,Ty Pinkins,DEM,1205
+Lee,TFM #5,U.S. Senate,,Roger F. Wicker,REP,3675
+Lee,Tupelo 3,President,,Kamala D. Harris,DEM,1107
+Lee,Tupelo 3,President,,Chase Oliver,LIB,7
+Lee,Tupelo 3,President,,Jill Stein,GRN,3
+Lee,Tupelo 3,President,,Randall Terry,CON,1
+Lee,Tupelo 3,President,,Donald J. Trump,REP,1625
+Lee,Tupelo 3,President,,Shiva Ayyadurai,IND,1
+Lee,Tupelo 3,President,,Claudia De la Cruz,IND,3
+Lee,Tupelo 3,President,,Robert F. Kennedy Jr.,IND,19
+Lee,Tupelo 3,President,,Peter Sonski,IND,2
+Lee,Tupelo 3,U.S. Senate,,Ty Pinkins,DEM,1068
+Lee,Tupelo 3,U.S. Senate,,Roger F. Wicker,REP,1658
+Lee,Palmetto,President,,Kamala D. Harris,DEM,159
+Lee,Palmetto,President,,Chase Oliver,LIB,0
+Lee,Palmetto,President,,Jill Stein,GRN,1
+Lee,Palmetto,President,,Randall Terry,CON,0
+Lee,Palmetto,President,,Donald J. Trump,REP,376
+Lee,Palmetto,President,,Shiva Ayyadurai,IND,1
+Lee,Palmetto,President,,Claudia De la Cruz,IND,1
+Lee,Palmetto,President,,Robert F. Kennedy Jr.,IND,3
+Lee,Palmetto,President,,Peter Sonski,IND,0
+Lee,Palmetto,U.S. Senate,,Ty Pinkins,DEM,160
+Lee,Palmetto,U.S. Senate,,Roger F. Wicker,REP,376
+Lee,Pleasant Grove,President,,Kamala D. Harris,DEM,466
+Lee,Pleasant Grove,President,,Chase Oliver,LIB,0
+Lee,Pleasant Grove,President,,Jill Stein,GRN,2
+Lee,Pleasant Grove,President,,Randall Terry,CON,1
+Lee,Pleasant Grove,President,,Donald J. Trump,REP,312
+Lee,Pleasant Grove,President,,Shiva Ayyadurai,IND,1
+Lee,Pleasant Grove,President,,Claudia De la Cruz,IND,0
+Lee,Pleasant Grove,President,,Robert F. Kennedy Jr.,IND,3
+Lee,Pleasant Grove,President,,Peter Sonski,IND,0
+Lee,Pleasant Grove,U.S. Senate,,Ty Pinkins,DEM,465
+Lee,Pleasant Grove,U.S. Senate,,Roger F. Wicker,REP,313
+Lee,Old Union,President,,Kamala D. Harris,DEM,147
+Lee,Old Union,President,,Chase Oliver,LIB,0
+Lee,Old Union,President,,Jill Stein,GRN,0
+Lee,Old Union,President,,Randall Terry,CON,0
+Lee,Old Union,President,,Donald J. Trump,REP,211
+Lee,Old Union,President,,Shiva Ayyadurai,IND,0
+Lee,Old Union,President,,Claudia De la Cruz,IND,0
+Lee,Old Union,President,,Robert F. Kennedy Jr.,IND,0
+Lee,Old Union,President,,Peter Sonski,IND,0
+Lee,Old Union,U.S. Senate,,Ty Pinkins,DEM,138
+Lee,Old Union,U.S. Senate,,Roger F. Wicker,REP,217
+Lee,Verona,President,,Kamala D. Harris,DEM,491
+Lee,Verona,President,,Chase Oliver,LIB,0
+Lee,Verona,President,,Jill Stein,GRN,1
+Lee,Verona,President,,Randall Terry,CON,0
+Lee,Verona,President,,Donald J. Trump,REP,157
+Lee,Verona,President,,Shiva Ayyadurai,IND,0
+Lee,Verona,President,,Claudia De la Cruz,IND,0
+Lee,Verona,President,,Robert F. Kennedy Jr.,IND,5
+Lee,Verona,President,,Peter Sonski,IND,0
+Lee,Verona,U.S. Senate,,Ty Pinkins,DEM,479
+Lee,Verona,U.S. Senate,,Roger F. Wicker,REP,181
+Lee,Tupelo 4 North,President,,Kamala D. Harris,DEM,1046
+Lee,Tupelo 4 North,President,,Chase Oliver,LIB,2
+Lee,Tupelo 4 North,President,,Jill Stein,GRN,4
+Lee,Tupelo 4 North,President,,Randall Terry,CON,0
+Lee,Tupelo 4 North,President,,Donald J. Trump,REP,394
+Lee,Tupelo 4 North,President,,Shiva Ayyadurai,IND,0
+Lee,Tupelo 4 North,President,,Claudia De la Cruz,IND,0
+Lee,Tupelo 4 North,President,,Robert F. Kennedy Jr.,IND,11
+Lee,Tupelo 4 North,President,,Peter Sonski,IND,5
+Lee,Tupelo 4 North,U.S. Senate,,Ty Pinkins,DEM,1004
+Lee,Tupelo 4 North,U.S. Senate,,Roger F. Wicker,REP,435
+Lee,Tupelo 4 South,President,,Kamala D. Harris,DEM,850
+Lee,Tupelo 4 South,President,,Chase Oliver,LIB,2
+Lee,Tupelo 4 South,President,,Jill Stein,GRN,4
+Lee,Tupelo 4 South,President,,Randall Terry,CON,2
+Lee,Tupelo 4 South,President,,Donald J. Trump,REP,153
+Lee,Tupelo 4 South,President,,Shiva Ayyadurai,IND,1
+Lee,Tupelo 4 South,President,,Claudia De la Cruz,IND,1
+Lee,Tupelo 4 South,President,,Robert F. Kennedy Jr.,IND,5
+Lee,Tupelo 4 South,President,,Peter Sonski,IND,0
+Lee,Tupelo 4 South,U.S. Senate,,Ty Pinkins,DEM,835
+Lee,Tupelo 4 South,U.S. Senate,,Roger F. Wicker,REP,168
+Lee,Brewer,President,,Kamala D. Harris,DEM,165
+Lee,Brewer,President,,Chase Oliver,LIB,3
+Lee,Brewer,President,,Jill Stein,GRN,2
+Lee,Brewer,President,,Randall Terry,CON,1
+Lee,Brewer,President,,Donald J. Trump,REP,485
+Lee,Brewer,President,,Shiva Ayyadurai,IND,0
+Lee,Brewer,President,,Claudia De la Cruz,IND,1
+Lee,Brewer,President,,Robert F. Kennedy Jr.,IND,2
+Lee,Brewer,President,,Peter Sonski,IND,1
+Lee,Brewer,U.S. Senate,,Ty Pinkins,DEM,152
+Lee,Brewer,U.S. Senate,,Roger F. Wicker,REP,500
+Lee,Shannon,President,,Kamala D. Harris,DEM,241
+Lee,Shannon,President,,Chase Oliver,LIB,2
+Lee,Shannon,President,,Jill Stein,GRN,0
+Lee,Shannon,President,,Randall Terry,CON,0
+Lee,Shannon,President,,Donald J. Trump,REP,214
+Lee,Shannon,President,,Shiva Ayyadurai,IND,0
+Lee,Shannon,President,,Claudia De la Cruz,IND,0
+Lee,Shannon,President,,Robert F. Kennedy Jr.,IND,1
+Lee,Shannon,President,,Peter Sonski,IND,0
+Lee,Shannon,U.S. Senate,,Ty Pinkins,DEM,235
+Lee,Shannon,U.S. Senate,,Roger F. Wicker,REP,216
+Lee,Richmond,President,,Kamala D. Harris,DEM,55
+Lee,Richmond,President,,Chase Oliver,LIB,0
+Lee,Richmond,President,,Jill Stein,GRN,0
+Lee,Richmond,President,,Randall Terry,CON,1
+Lee,Richmond,President,,Donald J. Trump,REP,366
+Lee,Richmond,President,,Shiva Ayyadurai,IND,0
+Lee,Richmond,President,,Claudia De la Cruz,IND,0
+Lee,Richmond,President,,Robert F. Kennedy Jr.,IND,3
+Lee,Richmond,President,,Peter Sonski,IND,0
+Lee,Richmond,U.S. Senate,,Ty Pinkins,DEM,59
+Lee,Richmond,U.S. Senate,,Roger F. Wicker,REP,357
+Lee,Plantersville,President,,Kamala D. Harris,DEM,357
+Lee,Plantersville,President,,Chase Oliver,LIB,1
+Lee,Plantersville,President,,Jill Stein,GRN,1
+Lee,Plantersville,President,,Randall Terry,CON,0
+Lee,Plantersville,President,,Donald J. Trump,REP,406
+Lee,Plantersville,President,,Shiva Ayyadurai,IND,1
+Lee,Plantersville,President,,Claudia De la Cruz,IND,0
+Lee,Plantersville,President,,Robert F. Kennedy Jr.,IND,6
+Lee,Plantersville,President,,Peter Sonski,IND,0
+Lee,Plantersville,U.S. Senate,,Ty Pinkins,DEM,345
+Lee,Plantersville,U.S. Senate,,Roger F. Wicker,REP,398
+Lee,Tupelo 5,President,,Kamala D. Harris,DEM,380
+Lee,Tupelo 5,President,,Chase Oliver,LIB,2
+Lee,Tupelo 5,President,,Jill Stein,GRN,1
+Lee,Tupelo 5,President,,Randall Terry,CON,2
+Lee,Tupelo 5,President,,Donald J. Trump,REP,348
+Lee,Tupelo 5,President,,Shiva Ayyadurai,IND,0
+Lee,Tupelo 5,President,,Claudia De la Cruz,IND,0
+Lee,Tupelo 5,President,,Robert F. Kennedy Jr.,IND,4
+Lee,Tupelo 5,President,,Peter Sonski,IND,0
+Lee,Tupelo 5,U.S. Senate,,Ty Pinkins,DEM,372
+Lee,Tupelo 5,U.S. Senate,,Roger F. Wicker,REP,354
+Lee,Eggville,President,,Kamala D. Harris,DEM,46
+Lee,Eggville,President,,Chase Oliver,LIB,3
+Lee,Eggville,President,,Jill Stein,GRN,0
+Lee,Eggville,President,,Randall Terry,CON,0
+Lee,Eggville,President,,Donald J. Trump,REP,522
+Lee,Eggville,President,,Shiva Ayyadurai,IND,1
+Lee,Eggville,President,,Claudia De la Cruz,IND,0
+Lee,Eggville,President,,Robert F. Kennedy Jr.,IND,0
+Lee,Eggville,President,,Peter Sonski,IND,0
+Lee,Eggville,U.S. Senate,,Ty Pinkins,DEM,49
+Lee,Eggville,U.S. Senate,,Roger F. Wicker,REP,511
+Lee,Mooreville,President,,Kamala D. Harris,DEM,114
+Lee,Mooreville,President,,Chase Oliver,LIB,1
+Lee,Mooreville,President,,Jill Stein,GRN,0
+Lee,Mooreville,President,,Randall Terry,CON,0
+Lee,Mooreville,President,,Donald J. Trump,REP,1343
+Lee,Mooreville,President,,Shiva Ayyadurai,IND,0
+Lee,Mooreville,President,,Claudia De la Cruz,IND,1
+Lee,Mooreville,President,,Robert F. Kennedy Jr.,IND,5
+Lee,Mooreville,President,,Peter Sonski,IND,2
+Lee,Mooreville,U.S. Senate,,Ty Pinkins,DEM,127
+Lee,Mooreville,U.S. Senate,,Roger F. Wicker,REP,1308
+Lee,Nettleton,President,,Kamala D. Harris,DEM,236
+Lee,Nettleton,President,,Chase Oliver,LIB,3
+Lee,Nettleton,President,,Jill Stein,GRN,4
+Lee,Nettleton,President,,Randall Terry,CON,2
+Lee,Nettleton,President,,Donald J. Trump,REP,1155
+Lee,Nettleton,President,,Shiva Ayyadurai,IND,0
+Lee,Nettleton,President,,Claudia De la Cruz,IND,0
+Lee,Nettleton,President,,Robert F. Kennedy Jr.,IND,3
+Lee,Nettleton,President,,Peter Sonski,IND,0
+Lee,Nettleton,U.S. Senate,,Ty Pinkins,DEM,254
+Lee,Nettleton,U.S. Senate,,Roger F. Wicker,REP,1136
+Lee,Gilvo,President,,Kamala D. Harris,DEM,18
+Lee,Gilvo,President,,Chase Oliver,LIB,0
+Lee,Gilvo,President,,Jill Stein,GRN,1
+Lee,Gilvo,President,,Randall Terry,CON,0
+Lee,Gilvo,President,,Donald J. Trump,REP,266
+Lee,Gilvo,President,,Shiva Ayyadurai,IND,0
+Lee,Gilvo,President,,Claudia De la Cruz,IND,0
+Lee,Gilvo,President,,Robert F. Kennedy Jr.,IND,2
+Lee,Gilvo,President,,Peter Sonski,IND,0
+Lee,Gilvo,U.S. Senate,,Ty Pinkins,DEM,22
+Lee,Gilvo,U.S. Senate,,Roger F. Wicker,REP,258
+Lee,Pratts,U.S. House,1,Dianne Dodson Black,DEM,25
+Lee,Pratts,U.S. House,1,Trent Kelly,REP,347
+Lee,Pratts,Supreme Court,3,"Robert P. ""Bobby"" Chamberlin",,309
+Lee,Pratts,Supreme Court,3,Jimmy Maxwell,,305
+Lee,Baldwyn,U.S. House,1,Dianne Dodson Black,DEM,287
+Lee,Baldwyn,U.S. House,1,Trent Kelly,REP,378
+Lee,Baldwyn,Supreme Court,3,"Robert P. ""Bobby"" Chamberlin",,468
+Lee,Baldwyn,Supreme Court,3,Jimmy Maxwell,,436
+Lee,Guntown,U.S. House,1,Dianne Dodson Black,DEM,278
+Lee,Guntown,U.S. House,1,Trent Kelly,REP,901
+Lee,Guntown,Supreme Court,3,"Robert P. ""Bobby"" Chamberlin",,993
+Lee,Guntown,Supreme Court,3,Jimmy Maxwell,,974
+Lee,Friendship,U.S. House,1,Dianne Dodson Black,DEM,9
+Lee,Friendship,U.S. House,1,Trent Kelly,REP,164
+Lee,Friendship,Supreme Court,3,"Robert P. ""Bobby"" Chamberlin",,155
+Lee,Friendship,Supreme Court,3,Jimmy Maxwell,,154
+Lee,Unity,U.S. House,1,Dianne Dodson Black,DEM,45
+Lee,Unity,U.S. House,1,Trent Kelly,REP,834
+Lee,Unity,Supreme Court,3,"Robert P. ""Bobby"" Chamberlin",,771
+Lee,Unity,Supreme Court,3,Jimmy Maxwell,,770
+Lee,Auburn,U.S. House,1,Dianne Dodson Black,DEM,84
+Lee,Auburn,U.S. House,1,Trent Kelly,REP,788
+Lee,Auburn,Supreme Court,3,"Robert P. ""Bobby"" Chamberlin",,739
+Lee,Auburn,Supreme Court,3,Jimmy Maxwell,,729
+Lee,Oak Hill,U.S. House,1,Dianne Dodson Black,DEM,91
+Lee,Oak Hill,U.S. House,1,Trent Kelly,REP,574
+Lee,Oak Hill,Supreme Court,3,"Robert P. ""Bobby"" Chamberlin",,563
+Lee,Oak Hill,Supreme Court,3,Jimmy Maxwell,,562
+Lee,Veterans Park,U.S. House,1,Dianne Dodson Black,DEM,357
+Lee,Veterans Park,U.S. House,1,Trent Kelly,REP,1153
+Lee,Veterans Park,Supreme Court,3,"Robert P. ""Bobby"" Chamberlin",,1200
+Lee,Veterans Park,Supreme Court,3,Jimmy Maxwell,,1182
+Lee,Tupelo 1,U.S. House,1,Dianne Dodson Black,DEM,257
+Lee,Tupelo 1,U.S. House,1,Trent Kelly,REP,876
+Lee,Tupelo 1,Supreme Court,3,"Robert P. ""Bobby"" Chamberlin",,924
+Lee,Tupelo 1,Supreme Court,3,Jimmy Maxwell,,914
+Lee,Cedar Hill,U.S. House,1,Dianne Dodson Black,DEM,141
+Lee,Cedar Hill,U.S. House,1,Trent Kelly,REP,953
+Lee,Cedar Hill,Supreme Court,3,"Robert P. ""Bobby"" Chamberlin",,854
+Lee,Cedar Hill,Supreme Court,3,Jimmy Maxwell,,790
+Lee,Tupelo 2,U.S. House,1,Dianne Dodson Black,DEM,753
+Lee,Tupelo 2,U.S. House,1,Trent Kelly,REP,1662
+Lee,Tupelo 2,Supreme Court,3,"Robert P. ""Bobby"" Chamberlin",,1990
+Lee,Tupelo 2,Supreme Court,3,Jimmy Maxwell,,1997
+Lee,Beech Springs,U.S. House,1,Dianne Dodson Black,DEM,163
+Lee,Beech Springs,U.S. House,1,Trent Kelly,REP,356
+Lee,Beech Springs,Supreme Court,3,"Robert P. ""Bobby"" Chamberlin",,389
+Lee,Beech Springs,Supreme Court,3,Jimmy Maxwell,,358
+Lee,Birmingham Ridge,U.S. House,1,Dianne Dodson Black,DEM,147
+Lee,Birmingham Ridge,U.S. House,1,Trent Kelly,REP,1277
+Lee,Birmingham Ridge,Supreme Court,3,"Robert P. ""Bobby"" Chamberlin",,1171
+Lee,Birmingham Ridge,Supreme Court,3,Jimmy Maxwell,,1148
+Lee,Euclatubba,U.S. House,1,Dianne Dodson Black,DEM,23
+Lee,Euclatubba,U.S. House,1,Trent Kelly,REP,280
+Lee,Euclatubba,Supreme Court,3,"Robert P. ""Bobby"" Chamberlin",,261
+Lee,Euclatubba,Supreme Court,3,Jimmy Maxwell,,257
+Lee,Saltillo,U.S. House,1,Dianne Dodson Black,DEM,372
+Lee,Saltillo,U.S. House,1,Trent Kelly,REP,1752
+Lee,Saltillo,Supreme Court,3,"Robert P. ""Bobby"" Chamberlin",,1811
+Lee,Saltillo,Supreme Court,3,Jimmy Maxwell,,1797
+Lee,Belden,U.S. House,1,Dianne Dodson Black,DEM,107
+Lee,Belden,U.S. House,1,Trent Kelly,REP,474
+Lee,Belden,Supreme Court,3,"Robert P. ""Bobby"" Chamberlin",,474
+Lee,Belden,Supreme Court,3,Jimmy Maxwell,,474
+Lee,TFM #5,U.S. House,1,Dianne Dodson Black,DEM,1091
+Lee,TFM #5,U.S. House,1,Trent Kelly,REP,3824
+Lee,TFM #5,Supreme Court,3,"Robert P. ""Bobby"" Chamberlin",,4034
+Lee,TFM #5,Supreme Court,3,Jimmy Maxwell,,4076
+Lee,Tupelo 3,U.S. House,1,Dianne Dodson Black,DEM,1021
+Lee,Tupelo 3,U.S. House,1,Trent Kelly,REP,1713
+Lee,Tupelo 3,Supreme Court,3,"Robert P. ""Bobby"" Chamberlin",,2166
+Lee,Tupelo 3,Supreme Court,3,Jimmy Maxwell,,2192
+Lee,Palmetto,U.S. House,1,Dianne Dodson Black,DEM,159
+Lee,Palmetto,U.S. House,1,Trent Kelly,REP,379
+Lee,Palmetto,Supreme Court,3,"Robert P. ""Bobby"" Chamberlin",,425
+Lee,Palmetto,Supreme Court,3,Jimmy Maxwell,,436
+Lee,Pleasant Grove,U.S. House,1,Dianne Dodson Black,DEM,451
+Lee,Pleasant Grove,U.S. House,1,Trent Kelly,REP,324
+Lee,Pleasant Grove,Supreme Court,3,"Robert P. ""Bobby"" Chamberlin",,618
+Lee,Pleasant Grove,Supreme Court,3,Jimmy Maxwell,,624
+Lee,Old Union,U.S. House,1,Dianne Dodson Black,DEM,133
+Lee,Old Union,U.S. House,1,Trent Kelly,REP,222
+Lee,Old Union,Supreme Court,3,"Robert P. ""Bobby"" Chamberlin",,256
+Lee,Old Union,Supreme Court,3,Jimmy Maxwell,,233
+Lee,Verona,U.S. House,1,Dianne Dodson Black,DEM,479
+Lee,Verona,U.S. House,1,Trent Kelly,REP,174
+Lee,Verona,Supreme Court,3,"Robert P. ""Bobby"" Chamberlin",,443
+Lee,Verona,Supreme Court,3,Jimmy Maxwell,,386
+Lee,Tupelo 4 North,U.S. House,1,Dianne Dodson Black,DEM,987
+Lee,Tupelo 4 North,U.S. House,1,Trent Kelly,REP,446
+Lee,Tupelo 4 North,Supreme Court,3,"Robert P. ""Bobby"" Chamberlin",,1008
+Lee,Tupelo 4 North,Supreme Court,3,Jimmy Maxwell,,923
+Lee,Tupelo 4 South,U.S. House,1,Dianne Dodson Black,DEM,818
+Lee,Tupelo 4 South,U.S. House,1,Trent Kelly,REP,174
+Lee,Tupelo 4 South,Supreme Court,3,"Robert P. ""Bobby"" Chamberlin",,738
+Lee,Tupelo 4 South,Supreme Court,3,Jimmy Maxwell,,705
+Lee,Brewer,U.S. House,1,Dianne Dodson Black,DEM,146
+Lee,Brewer,U.S. House,1,Trent Kelly,REP,508
+Lee,Brewer,Supreme Court,3,"Robert P. ""Bobby"" Chamberlin",,530
+Lee,Brewer,Supreme Court,3,Jimmy Maxwell,,540
+Lee,Shannon,U.S. House,1,Dianne Dodson Black,DEM,231
+Lee,Shannon,U.S. House,1,Trent Kelly,REP,221
+Lee,Shannon,Supreme Court,3,"Robert P. ""Bobby"" Chamberlin",,298
+Lee,Shannon,Supreme Court,3,Jimmy Maxwell,,295
+Lee,Richmond,U.S. House,1,Dianne Dodson Black,DEM,58
+Lee,Richmond,U.S. House,1,Trent Kelly,REP,363
+Lee,Richmond,Supreme Court,3,"Robert P. ""Bobby"" Chamberlin",,356
+Lee,Richmond,Supreme Court,3,Jimmy Maxwell,,356
+Lee,Plantersville,U.S. House,1,Dianne Dodson Black,DEM,339
+Lee,Plantersville,U.S. House,1,Trent Kelly,REP,414
+Lee,Plantersville,Supreme Court,3,"Robert P. ""Bobby"" Chamberlin",,533
+Lee,Plantersville,Supreme Court,3,Jimmy Maxwell,,548
+Lee,Tupelo 5,U.S. House,1,Dianne Dodson Black,DEM,347
+Lee,Tupelo 5,U.S. House,1,Trent Kelly,REP,377
+Lee,Tupelo 5,Supreme Court,3,"Robert P. ""Bobby"" Chamberlin",,568
+Lee,Tupelo 5,Supreme Court,3,Jimmy Maxwell,,564
+Lee,Eggville,U.S. House,1,Dianne Dodson Black,DEM,41
+Lee,Eggville,U.S. House,1,Trent Kelly,REP,526
+Lee,Eggville,Supreme Court,3,"Robert P. ""Bobby"" Chamberlin",,459
+Lee,Eggville,Supreme Court,3,Jimmy Maxwell,,457
+Lee,Mooreville,U.S. House,1,Dianne Dodson Black,DEM,106
+Lee,Mooreville,U.S. House,1,Trent Kelly,REP,1341
+Lee,Mooreville,Supreme Court,3,"Robert P. ""Bobby"" Chamberlin",,1227
+Lee,Mooreville,Supreme Court,3,Jimmy Maxwell,,1225
+Lee,Nettleton,U.S. House,1,Dianne Dodson Black,DEM,233
+Lee,Nettleton,U.S. House,1,Trent Kelly,REP,1158
+Lee,Nettleton,Supreme Court,3,"Robert P. ""Bobby"" Chamberlin",,1166
+Lee,Nettleton,Supreme Court,3,Jimmy Maxwell,,1166
+Lee,Gilvo,U.S. House,1,Dianne Dodson Black,DEM,22
+Lee,Gilvo,U.S. House,1,Trent Kelly,REP,260
+Lee,Gilvo,Supreme Court,3,"Robert P. ""Bobby"" Chamberlin",,226
+Lee,Gilvo,Supreme Court,3,Jimmy Maxwell,,216
