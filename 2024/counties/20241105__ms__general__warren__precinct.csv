@@ -1,0 +1,438 @@
+county,precinct,office,district,candidate,party,votes
+Warren,Ridgeway,President,,Kamala D. Harris,DEM,45
+Warren,Ridgeway,President,,Chase Oliver,LIB,0
+Warren,Ridgeway,President,,Jill Stein,GRN,0
+Warren,Ridgeway,President,,Randall Terry,CON,0
+Warren,Ridgeway,President,,Donald J. Trump,REP,277
+Warren,Ridgeway,President,,Shiva Ayyadurai,IND,0
+Warren,Ridgeway,President,,Claudia De la Cruz,IND,0
+Warren,Ridgeway,President,,Robert F. Kennedy Jr.,IND,0
+Warren,Ridgeway,President,,Peter Sonski,IND,0
+Warren,Ridgeway,U.S. Senate,,Ty Pinkins,DEM,46
+Warren,Ridgeway,U.S. Senate,,Roger F. Wicker,REP,275
+Warren,Bovina,President,,Kamala D. Harris,DEM,257
+Warren,Bovina,President,,Chase Oliver,LIB,2
+Warren,Bovina,President,,Jill Stein,GRN,0
+Warren,Bovina,President,,Randall Terry,CON,4
+Warren,Bovina,President,,Donald J. Trump,REP,913
+Warren,Bovina,President,,Shiva Ayyadurai,IND,0
+Warren,Bovina,President,,Claudia De la Cruz,IND,0
+Warren,Bovina,President,,Robert F. Kennedy Jr.,IND,4
+Warren,Bovina,President,,Peter Sonski,IND,3
+Warren,Bovina,U.S. Senate,,Ty Pinkins,DEM,241
+Warren,Bovina,U.S. Senate,,Roger F. Wicker,REP,926
+Warren,Gibson,President,,Kamala D. Harris,DEM,823
+Warren,Gibson,President,,Chase Oliver,LIB,1
+Warren,Gibson,President,,Jill Stein,GRN,4
+Warren,Gibson,President,,Randall Terry,CON,1
+Warren,Gibson,President,,Donald J. Trump,REP,1296
+Warren,Gibson,President,,Shiva Ayyadurai,IND,2
+Warren,Gibson,President,,Claudia De la Cruz,IND,1
+Warren,Gibson,President,,Robert F. Kennedy Jr.,IND,6
+Warren,Gibson,President,,Peter Sonski,IND,1
+Warren,Gibson,U.S. Senate,,Ty Pinkins,DEM,788
+Warren,Gibson,U.S. Senate,,Roger F. Wicker,REP,1315
+Warren,Oakland,President,,Kamala D. Harris,DEM,153
+Warren,Oakland,President,,Chase Oliver,LIB,2
+Warren,Oakland,President,,Jill Stein,GRN,1
+Warren,Oakland,President,,Randall Terry,CON,1
+Warren,Oakland,President,,Donald J. Trump,REP,581
+Warren,Oakland,President,,Shiva Ayyadurai,IND,0
+Warren,Oakland,President,,Claudia De la Cruz,IND,0
+Warren,Oakland,President,,Robert F. Kennedy Jr.,IND,3
+Warren,Oakland,President,,Peter Sonski,IND,0
+Warren,Oakland,U.S. Senate,,Ty Pinkins,DEM,143
+Warren,Oakland,U.S. Senate,,Roger F. Wicker,REP,589
+Warren,Medgar Foundation,President,,Kamala D. Harris,DEM,324
+Warren,Medgar Foundation,President,,Chase Oliver,LIB,0
+Warren,Medgar Foundation,President,,Jill Stein,GRN,1
+Warren,Medgar Foundation,President,,Randall Terry,CON,1
+Warren,Medgar Foundation,President,,Donald J. Trump,REP,445
+Warren,Medgar Foundation,President,,Shiva Ayyadurai,IND,1
+Warren,Medgar Foundation,President,,Claudia De la Cruz,IND,0
+Warren,Medgar Foundation,President,,Robert F. Kennedy Jr.,IND,9
+Warren,Medgar Foundation,President,,Peter Sonski,IND,2
+Warren,Medgar Foundation,U.S. Senate,,Ty Pinkins,DEM,323
+Warren,Medgar Foundation,U.S. Senate,,Roger F. Wicker,REP,437
+Warren,Elizabeth Circle,President,,Kamala D. Harris,DEM,352
+Warren,Elizabeth Circle,President,,Chase Oliver,LIB,1
+Warren,Elizabeth Circle,President,,Jill Stein,GRN,2
+Warren,Elizabeth Circle,President,,Randall Terry,CON,0
+Warren,Elizabeth Circle,President,,Donald J. Trump,REP,43
+Warren,Elizabeth Circle,President,,Shiva Ayyadurai,IND,1
+Warren,Elizabeth Circle,President,,Claudia De la Cruz,IND,0
+Warren,Elizabeth Circle,President,,Robert F. Kennedy Jr.,IND,1
+Warren,Elizabeth Circle,President,,Peter Sonski,IND,1
+Warren,Elizabeth Circle,U.S. Senate,,Ty Pinkins,DEM,336
+Warren,Elizabeth Circle,U.S. Senate,,Roger F. Wicker,REP,61
+Warren,Triumph Kings,President,,Kamala D. Harris,DEM,283
+Warren,Triumph Kings,President,,Chase Oliver,LIB,2
+Warren,Triumph Kings,President,,Jill Stein,GRN,0
+Warren,Triumph Kings,President,,Randall Terry,CON,0
+Warren,Triumph Kings,President,,Donald J. Trump,REP,58
+Warren,Triumph Kings,President,,Shiva Ayyadurai,IND,0
+Warren,Triumph Kings,President,,Claudia De la Cruz,IND,1
+Warren,Triumph Kings,President,,Robert F. Kennedy Jr.,IND,0
+Warren,Triumph Kings,President,,Peter Sonski,IND,0
+Warren,Triumph Kings,U.S. Senate,,Ty Pinkins,DEM,262
+Warren,Triumph Kings,U.S. Senate,,Roger F. Wicker,REP,67
+Warren,Springhill,President,,Kamala D. Harris,DEM,319
+Warren,Springhill,President,,Chase Oliver,LIB,0
+Warren,Springhill,President,,Jill Stein,GRN,0
+Warren,Springhill,President,,Randall Terry,CON,1
+Warren,Springhill,President,,Donald J. Trump,REP,64
+Warren,Springhill,President,,Shiva Ayyadurai,IND,0
+Warren,Springhill,President,,Claudia De la Cruz,IND,0
+Warren,Springhill,President,,Robert F. Kennedy Jr.,IND,0
+Warren,Springhill,President,,Peter Sonski,IND,0
+Warren,Springhill,U.S. Senate,,Ty Pinkins,DEM,305
+Warren,Springhill,U.S. Senate,,Roger F. Wicker,REP,71
+Warren,Auditorium,President,,Kamala D. Harris,DEM,510
+Warren,Auditorium,President,,Chase Oliver,LIB,3
+Warren,Auditorium,President,,Jill Stein,GRN,4
+Warren,Auditorium,President,,Randall Terry,CON,0
+Warren,Auditorium,President,,Donald J. Trump,REP,100
+Warren,Auditorium,President,,Shiva Ayyadurai,IND,1
+Warren,Auditorium,President,,Claudia De la Cruz,IND,0
+Warren,Auditorium,President,,Robert F. Kennedy Jr.,IND,1
+Warren,Auditorium,President,,Peter Sonski,IND,1
+Warren,Auditorium,U.S. Senate,,Ty Pinkins,DEM,491
+Warren,Auditorium,U.S. Senate,,Roger F. Wicker,REP,121
+Warren,Eagle Lake Methodist,President,,Kamala D. Harris,DEM,30
+Warren,Eagle Lake Methodist,President,,Chase Oliver,LIB,1
+Warren,Eagle Lake Methodist,President,,Jill Stein,GRN,1
+Warren,Eagle Lake Methodist,President,,Randall Terry,CON,0
+Warren,Eagle Lake Methodist,President,,Donald J. Trump,REP,218
+Warren,Eagle Lake Methodist,President,,Shiva Ayyadurai,IND,0
+Warren,Eagle Lake Methodist,President,,Claudia De la Cruz,IND,0
+Warren,Eagle Lake Methodist,President,,Robert F. Kennedy Jr.,IND,0
+Warren,Eagle Lake Methodist,President,,Peter Sonski,IND,0
+Warren,Eagle Lake Methodist,U.S. Senate,,Ty Pinkins,DEM,29
+Warren,Eagle Lake Methodist,U.S. Senate,,Roger F. Wicker,REP,217
+Warren,International Paper,President,,Kamala D. Harris,DEM,19
+Warren,International Paper,President,,Chase Oliver,LIB,0
+Warren,International Paper,President,,Jill Stein,GRN,0
+Warren,International Paper,President,,Randall Terry,CON,0
+Warren,International Paper,President,,Donald J. Trump,REP,97
+Warren,International Paper,President,,Shiva Ayyadurai,IND,0
+Warren,International Paper,President,,Claudia De la Cruz,IND,0
+Warren,International Paper,President,,Robert F. Kennedy Jr.,IND,0
+Warren,International Paper,President,,Peter Sonski,IND,0
+Warren,International Paper,U.S. Senate,,Ty Pinkins,DEM,19
+Warren,International Paper,U.S. Senate,,Roger F. Wicker,REP,95
+Warren,Calvary Indiana,President,,Kamala D. Harris,DEM,469
+Warren,Calvary Indiana,President,,Chase Oliver,LIB,4
+Warren,Calvary Indiana,President,,Jill Stein,GRN,1
+Warren,Calvary Indiana,President,,Randall Terry,CON,0
+Warren,Calvary Indiana,President,,Donald J. Trump,REP,400
+Warren,Calvary Indiana,President,,Shiva Ayyadurai,IND,1
+Warren,Calvary Indiana,President,,Claudia De la Cruz,IND,0
+Warren,Calvary Indiana,President,,Robert F. Kennedy Jr.,IND,8
+Warren,Calvary Indiana,President,,Peter Sonski,IND,0
+Warren,Calvary Indiana,U.S. Senate,,Ty Pinkins,DEM,430
+Warren,Calvary Indiana,U.S. Senate,,Roger F. Wicker,REP,448
+Warren,American Legion,President,,Kamala D. Harris,DEM,611
+Warren,American Legion,President,,Chase Oliver,LIB,1
+Warren,American Legion,President,,Jill Stein,GRN,1
+Warren,American Legion,President,,Randall Terry,CON,2
+Warren,American Legion,President,,Donald J. Trump,REP,137
+Warren,American Legion,President,,Shiva Ayyadurai,IND,1
+Warren,American Legion,President,,Claudia De la Cruz,IND,0
+Warren,American Legion,President,,Robert F. Kennedy Jr.,IND,6
+Warren,American Legion,President,,Peter Sonski,IND,3
+Warren,American Legion,U.S. Senate,,Ty Pinkins,DEM,569
+Warren,American Legion,U.S. Senate,,Roger F. Wicker,REP,157
+Warren,Travelers Rest,President,,Kamala D. Harris,DEM,810
+Warren,Travelers Rest,President,,Chase Oliver,LIB,4
+Warren,Travelers Rest,President,,Jill Stein,GRN,6
+Warren,Travelers Rest,President,,Randall Terry,CON,4
+Warren,Travelers Rest,President,,Donald J. Trump,REP,208
+Warren,Travelers Rest,President,,Shiva Ayyadurai,IND,0
+Warren,Travelers Rest,President,,Claudia De la Cruz,IND,1
+Warren,Travelers Rest,President,,Robert F. Kennedy Jr.,IND,6
+Warren,Travelers Rest,President,,Peter Sonski,IND,2
+Warren,Travelers Rest,U.S. Senate,,Ty Pinkins,DEM,767
+Warren,Travelers Rest,U.S. Senate,,Roger F. Wicker,REP,249
+Warren,Plumbers & Pipefitters,President,,Kamala D. Harris,DEM,202
+Warren,Plumbers & Pipefitters,President,,Chase Oliver,LIB,2
+Warren,Plumbers & Pipefitters,President,,Jill Stein,GRN,2
+Warren,Plumbers & Pipefitters,President,,Randall Terry,CON,0
+Warren,Plumbers & Pipefitters,President,,Donald J. Trump,REP,253
+Warren,Plumbers & Pipefitters,President,,Shiva Ayyadurai,IND,0
+Warren,Plumbers & Pipefitters,President,,Claudia De la Cruz,IND,0
+Warren,Plumbers & Pipefitters,President,,Robert F. Kennedy Jr.,IND,3
+Warren,Plumbers & Pipefitters,President,,Peter Sonski,IND,0
+Warren,Plumbers & Pipefitters,U.S. Senate,,Ty Pinkins,DEM,180
+Warren,Plumbers & Pipefitters,U.S. Senate,,Roger F. Wicker,REP,280
+Warren,Immanuel,President,,Kamala D. Harris,DEM,765
+Warren,Immanuel,President,,Chase Oliver,LIB,1
+Warren,Immanuel,President,,Jill Stein,GRN,0
+Warren,Immanuel,President,,Randall Terry,CON,1
+Warren,Immanuel,President,,Donald J. Trump,REP,349
+Warren,Immanuel,President,,Shiva Ayyadurai,IND,0
+Warren,Immanuel,President,,Claudia De la Cruz,IND,1
+Warren,Immanuel,President,,Robert F. Kennedy Jr.,IND,10
+Warren,Immanuel,President,,Peter Sonski,IND,0
+Warren,Immanuel,U.S. Senate,,Ty Pinkins,DEM,749
+Warren,Immanuel,U.S. Senate,,Roger F. Wicker,REP,368
+Warren,Goodrum,President,,Kamala D. Harris,DEM,155
+Warren,Goodrum,President,,Chase Oliver,LIB,0
+Warren,Goodrum,President,,Jill Stein,GRN,0
+Warren,Goodrum,President,,Randall Terry,CON,0
+Warren,Goodrum,President,,Donald J. Trump,REP,508
+Warren,Goodrum,President,,Shiva Ayyadurai,IND,0
+Warren,Goodrum,President,,Claudia De la Cruz,IND,1
+Warren,Goodrum,President,,Robert F. Kennedy Jr.,IND,2
+Warren,Goodrum,President,,Peter Sonski,IND,0
+Warren,Goodrum,U.S. Senate,,Ty Pinkins,DEM,147
+Warren,Goodrum,U.S. Senate,,Roger F. Wicker,REP,516
+Warren,Yokena,President,,Kamala D. Harris,DEM,52
+Warren,Yokena,President,,Chase Oliver,LIB,1
+Warren,Yokena,President,,Jill Stein,GRN,0
+Warren,Yokena,President,,Randall Terry,CON,1
+Warren,Yokena,President,,Donald J. Trump,REP,307
+Warren,Yokena,President,,Shiva Ayyadurai,IND,0
+Warren,Yokena,President,,Claudia De la Cruz,IND,0
+Warren,Yokena,President,,Robert F. Kennedy Jr.,IND,2
+Warren,Yokena,President,,Peter Sonski,IND,0
+Warren,Yokena,U.S. Senate,,Ty Pinkins,DEM,51
+Warren,Yokena,U.S. Senate,,Roger F. Wicker,REP,307
+Warren,Elks Lodge,President,,Kamala D. Harris,DEM,859
+Warren,Elks Lodge,President,,Chase Oliver,LIB,4
+Warren,Elks Lodge,President,,Jill Stein,GRN,1
+Warren,Elks Lodge,President,,Randall Terry,CON,2
+Warren,Elks Lodge,President,,Donald J. Trump,REP,518
+Warren,Elks Lodge,President,,Shiva Ayyadurai,IND,1
+Warren,Elks Lodge,President,,Claudia De la Cruz,IND,0
+Warren,Elks Lodge,President,,Robert F. Kennedy Jr.,IND,8
+Warren,Elks Lodge,President,,Peter Sonski,IND,2
+Warren,Elks Lodge,U.S. Senate,,Ty Pinkins,DEM,831
+Warren,Elks Lodge,U.S. Senate,,Roger F. Wicker,REP,555
+Warren,Calvary Old 27,President,,Kamala D. Harris,DEM,477
+Warren,Calvary Old 27,President,,Chase Oliver,LIB,0
+Warren,Calvary Old 27,President,,Jill Stein,GRN,1
+Warren,Calvary Old 27,President,,Randall Terry,CON,1
+Warren,Calvary Old 27,President,,Donald J. Trump,REP,641
+Warren,Calvary Old 27,President,,Shiva Ayyadurai,IND,0
+Warren,Calvary Old 27,President,,Claudia De la Cruz,IND,1
+Warren,Calvary Old 27,President,,Robert F. Kennedy Jr.,IND,1
+Warren,Calvary Old 27,President,,Peter Sonski,IND,0
+Warren,Calvary Old 27,U.S. Senate,,Ty Pinkins,DEM,464
+Warren,Calvary Old 27,U.S. Senate,,Roger F. Wicker,REP,640
+Warren,Life,President,,Kamala D. Harris,DEM,314
+Warren,Life,President,,Chase Oliver,LIB,3
+Warren,Life,President,,Jill Stein,GRN,2
+Warren,Life,President,,Randall Terry,CON,0
+Warren,Life,President,,Donald J. Trump,REP,686
+Warren,Life,President,,Shiva Ayyadurai,IND,1
+Warren,Life,President,,Claudia De la Cruz,IND,1
+Warren,Life,President,,Robert F. Kennedy Jr.,IND,4
+Warren,Life,President,,Peter Sonski,IND,2
+Warren,Life,U.S. Senate,,Ty Pinkins,DEM,301
+Warren,Life,U.S. Senate,,Roger F. Wicker,REP,704
+Warren,Lee Rd Fire,President,,Kamala D. Harris,DEM,566
+Warren,Lee Rd Fire,President,,Chase Oliver,LIB,3
+Warren,Lee Rd Fire,President,,Jill Stein,GRN,3
+Warren,Lee Rd Fire,President,,Randall Terry,CON,0
+Warren,Lee Rd Fire,President,,Donald J. Trump,REP,716
+Warren,Lee Rd Fire,President,,Shiva Ayyadurai,IND,0
+Warren,Lee Rd Fire,President,,Claudia De la Cruz,IND,0
+Warren,Lee Rd Fire,President,,Robert F. Kennedy Jr.,IND,5
+Warren,Lee Rd Fire,President,,Peter Sonski,IND,1
+Warren,Lee Rd Fire,U.S. Senate,,Ty Pinkins,DEM,529
+Warren,Lee Rd Fire,U.S. Senate,,Roger F. Wicker,REP,755
+Warren,Porters Chapel,President,,Kamala D. Harris,DEM,288
+Warren,Porters Chapel,President,,Chase Oliver,LIB,0
+Warren,Porters Chapel,President,,Jill Stein,GRN,3
+Warren,Porters Chapel,President,,Randall Terry,CON,0
+Warren,Porters Chapel,President,,Donald J. Trump,REP,592
+Warren,Porters Chapel,President,,Shiva Ayyadurai,IND,2
+Warren,Porters Chapel,President,,Claudia De la Cruz,IND,1
+Warren,Porters Chapel,President,,Robert F. Kennedy Jr.,IND,5
+Warren,Porters Chapel,President,,Peter Sonski,IND,0
+Warren,Porters Chapel,U.S. Senate,,Ty Pinkins,DEM,271
+Warren,Porters Chapel,U.S. Senate,,Roger F. Wicker,REP,617
+Warren,Ridgeway,U.S. House,2,Ron Eller,REP,275
+Warren,Ridgeway,U.S. House,2,Bennie G. Thompson,DEM,44
+Warren,Ridgeway,Supreme Court,1,Jenifer B. Branning,,193
+Warren,Ridgeway,Supreme Court,1,Byron Carter,,8
+Warren,Ridgeway,Supreme Court,1,Ceola James,,30
+Warren,Ridgeway,Supreme Court,1,Jim Kitchens,,67
+Warren,Ridgeway,Supreme Court,1,Abby Gale Robinson,,11
+Warren,Ridgeway,Court of Appeals,2,Latrice Westbrooks,,262
+Warren,Bovina,U.S. House,2,Ron Eller,REP,926
+Warren,Bovina,U.S. House,2,Bennie G. Thompson,DEM,254
+Warren,Bovina,Supreme Court,1,Jenifer B. Branning,,620
+Warren,Bovina,Supreme Court,1,Byron Carter,,53
+Warren,Bovina,Supreme Court,1,Ceola James,,122
+Warren,Bovina,Supreme Court,1,Jim Kitchens,,295
+Warren,Bovina,Supreme Court,1,Abby Gale Robinson,,33
+Warren,Bovina,Court of Appeals,2,Latrice Westbrooks,,933
+Warren,Gibson,U.S. House,2,Ron Eller,REP,1305
+Warren,Gibson,U.S. House,2,Bennie G. Thompson,DEM,818
+Warren,Gibson,Supreme Court,1,Jenifer B. Branning,,901
+Warren,Gibson,Supreme Court,1,Byron Carter,,64
+Warren,Gibson,Supreme Court,1,Ceola James,,446
+Warren,Gibson,Supreme Court,1,Jim Kitchens,,590
+Warren,Gibson,Supreme Court,1,Abby Gale Robinson,,55
+Warren,Gibson,Court of Appeals,2,Latrice Westbrooks,,1703
+Warren,Oakland,U.S. House,2,Ron Eller,REP,587
+Warren,Oakland,U.S. House,2,Bennie G. Thompson,DEM,148
+Warren,Oakland,Supreme Court,1,Jenifer B. Branning,,422
+Warren,Oakland,Supreme Court,1,Byron Carter,,19
+Warren,Oakland,Supreme Court,1,Ceola James,,63
+Warren,Oakland,Supreme Court,1,Jim Kitchens,,190
+Warren,Oakland,Supreme Court,1,Abby Gale Robinson,,24
+Warren,Oakland,Court of Appeals,2,Latrice Westbrooks,,573
+Warren,Medgar Foundation,U.S. House,2,Ron Eller,REP,443
+Warren,Medgar Foundation,U.S. House,2,Bennie G. Thompson,DEM,330
+Warren,Medgar Foundation,Supreme Court,1,Jenifer B. Branning,,317
+Warren,Medgar Foundation,Supreme Court,1,Byron Carter,,33
+Warren,Medgar Foundation,Supreme Court,1,Ceola James,,185
+Warren,Medgar Foundation,Supreme Court,1,Jim Kitchens,,173
+Warren,Medgar Foundation,Supreme Court,1,Abby Gale Robinson,,33
+Warren,Medgar Foundation,Court of Appeals,2,Latrice Westbrooks,,602
+Warren,Elizabeth Circle,U.S. House,2,Ron Eller,REP,45
+Warren,Elizabeth Circle,U.S. House,2,Bennie G. Thompson,DEM,356
+Warren,Elizabeth Circle,Supreme Court,1,Jenifer B. Branning,,35
+Warren,Elizabeth Circle,Supreme Court,1,Byron Carter,,12
+Warren,Elizabeth Circle,Supreme Court,1,Ceola James,,237
+Warren,Elizabeth Circle,Supreme Court,1,Jim Kitchens,,99
+Warren,Elizabeth Circle,Supreme Court,1,Abby Gale Robinson,,7
+Warren,Elizabeth Circle,Court of Appeals,2,Latrice Westbrooks,,349
+Warren,Triumph Kings,U.S. House,2,Ron Eller,REP,59
+Warren,Triumph Kings,U.S. House,2,Bennie G. Thompson,DEM,284
+Warren,Triumph Kings,Supreme Court,1,Jenifer B. Branning,,55
+Warren,Triumph Kings,Supreme Court,1,Byron Carter,,13
+Warren,Triumph Kings,Supreme Court,1,Ceola James,,189
+Warren,Triumph Kings,Supreme Court,1,Jim Kitchens,,66
+Warren,Triumph Kings,Supreme Court,1,Abby Gale Robinson,,5
+Warren,Triumph Kings,Court of Appeals,2,Latrice Westbrooks,,278
+Warren,Springhill,U.S. House,2,Ron Eller,REP,66
+Warren,Springhill,U.S. House,2,Bennie G. Thompson,DEM,314
+Warren,Springhill,Supreme Court,1,Jenifer B. Branning,,52
+Warren,Springhill,Supreme Court,1,Byron Carter,,24
+Warren,Springhill,Supreme Court,1,Ceola James,,178
+Warren,Springhill,Supreme Court,1,Jim Kitchens,,104
+Warren,Springhill,Supreme Court,1,Abby Gale Robinson,,8
+Warren,Springhill,Court of Appeals,2,Latrice Westbrooks,,313
+Warren,Auditorium,U.S. House,2,Ron Eller,REP,101
+Warren,Auditorium,U.S. House,2,Bennie G. Thompson,DEM,530
+Warren,Auditorium,Supreme Court,1,Jenifer B. Branning,,79
+Warren,Auditorium,Supreme Court,1,Byron Carter,,30
+Warren,Auditorium,Supreme Court,1,Ceola James,,326
+Warren,Auditorium,Supreme Court,1,Jim Kitchens,,152
+Warren,Auditorium,Supreme Court,1,Abby Gale Robinson,,22
+Warren,Auditorium,Court of Appeals,2,Latrice Westbrooks,,517
+Warren,Eagle Lake Methodist,U.S. House,2,Ron Eller,REP,218
+Warren,Eagle Lake Methodist,U.S. House,2,Bennie G. Thompson,DEM,31
+Warren,Eagle Lake Methodist,Supreme Court,1,Jenifer B. Branning,,146
+Warren,Eagle Lake Methodist,Supreme Court,1,Byron Carter,,6
+Warren,Eagle Lake Methodist,Supreme Court,1,Ceola James,,18
+Warren,Eagle Lake Methodist,Supreme Court,1,Jim Kitchens,,61
+Warren,Eagle Lake Methodist,Supreme Court,1,Abby Gale Robinson,,4
+Warren,Eagle Lake Methodist,Court of Appeals,2,Latrice Westbrooks,,185
+Warren,International Paper,U.S. House,2,Ron Eller,REP,97
+Warren,International Paper,U.S. House,2,Bennie G. Thompson,DEM,17
+Warren,International Paper,Supreme Court,1,Jenifer B. Branning,,70
+Warren,International Paper,Supreme Court,1,Byron Carter,,5
+Warren,International Paper,Supreme Court,1,Ceola James,,9
+Warren,International Paper,Supreme Court,1,Jim Kitchens,,22
+Warren,International Paper,Supreme Court,1,Abby Gale Robinson,,4
+Warren,International Paper,Court of Appeals,2,Latrice Westbrooks,,81
+Warren,Calvary Indiana,U.S. House,2,Ron Eller,REP,403
+Warren,Calvary Indiana,U.S. House,2,Bennie G. Thompson,DEM,484
+Warren,Calvary Indiana,Supreme Court,1,Jenifer B. Branning,,321
+Warren,Calvary Indiana,Supreme Court,1,Byron Carter,,40
+Warren,Calvary Indiana,Supreme Court,1,Ceola James,,259
+Warren,Calvary Indiana,Supreme Court,1,Jim Kitchens,,206
+Warren,Calvary Indiana,Supreme Court,1,Abby Gale Robinson,,26
+Warren,Calvary Indiana,Court of Appeals,2,Latrice Westbrooks,,727
+Warren,American Legion,U.S. House,2,Ron Eller,REP,142
+Warren,American Legion,U.S. House,2,Bennie G. Thompson,DEM,618
+Warren,American Legion,Supreme Court,1,Jenifer B. Branning,,96
+Warren,American Legion,Supreme Court,1,Byron Carter,,37
+Warren,American Legion,Supreme Court,1,Ceola James,,391
+Warren,American Legion,Supreme Court,1,Jim Kitchens,,172
+Warren,American Legion,Supreme Court,1,Abby Gale Robinson,,27
+Warren,American Legion,Court of Appeals,2,Latrice Westbrooks,,593
+Warren,Travelers Rest,U.S. House,2,Ron Eller,REP,229
+Warren,Travelers Rest,U.S. House,2,Bennie G. Thompson,DEM,808
+Warren,Travelers Rest,Supreme Court,1,Jenifer B. Branning,,193
+Warren,Travelers Rest,Supreme Court,1,Byron Carter,,40
+Warren,Travelers Rest,Supreme Court,1,Ceola James,,485
+Warren,Travelers Rest,Supreme Court,1,Jim Kitchens,,250
+Warren,Travelers Rest,Supreme Court,1,Abby Gale Robinson,,34
+Warren,Travelers Rest,Court of Appeals,2,Latrice Westbrooks,,848
+Warren,Plumbers & Pipefitters,U.S. House,2,Ron Eller,REP,265
+Warren,Plumbers & Pipefitters,U.S. House,2,Bennie G. Thompson,DEM,196
+Warren,Plumbers & Pipefitters,Supreme Court,1,Jenifer B. Branning,,174
+Warren,Plumbers & Pipefitters,Supreme Court,1,Byron Carter,,12
+Warren,Plumbers & Pipefitters,Supreme Court,1,Ceola James,,89
+Warren,Plumbers & Pipefitters,Supreme Court,1,Jim Kitchens,,135
+Warren,Plumbers & Pipefitters,Supreme Court,1,Abby Gale Robinson,,21
+Warren,Plumbers & Pipefitters,Court of Appeals,2,Latrice Westbrooks,,353
+Warren,Immanuel,U.S. House,2,Ron Eller,REP,328
+Warren,Immanuel,U.S. House,2,Bennie G. Thompson,DEM,797
+Warren,Immanuel,Supreme Court,1,Jenifer B. Branning,,263
+Warren,Immanuel,Supreme Court,1,Byron Carter,,69
+Warren,Immanuel,Supreme Court,1,Ceola James,,461
+Warren,Immanuel,Supreme Court,1,Jim Kitchens,,251
+Warren,Immanuel,Supreme Court,1,Abby Gale Robinson,,36
+Warren,Immanuel,Court of Appeals,2,Latrice Westbrooks,,917
+Warren,Goodrum,U.S. House,2,Ron Eller,REP,508
+Warren,Goodrum,U.S. House,2,Bennie G. Thompson,DEM,157
+Warren,Goodrum,Supreme Court,1,Jenifer B. Branning,,332
+Warren,Goodrum,Supreme Court,1,Byron Carter,,20
+Warren,Goodrum,Supreme Court,1,Ceola James,,108
+Warren,Goodrum,Supreme Court,1,Jim Kitchens,,149
+Warren,Goodrum,Supreme Court,1,Abby Gale Robinson,,22
+Warren,Goodrum,Court of Appeals,2,Latrice Westbrooks,,532
+Warren,Yokena,U.S. House,2,Ron Eller,REP,309
+Warren,Yokena,U.S. House,2,Bennie G. Thompson,DEM,52
+Warren,Yokena,Supreme Court,1,Jenifer B. Branning,,196
+Warren,Yokena,Supreme Court,1,Byron Carter,,17
+Warren,Yokena,Supreme Court,1,Ceola James,,30
+Warren,Yokena,Supreme Court,1,Jim Kitchens,,91
+Warren,Yokena,Supreme Court,1,Abby Gale Robinson,,15
+Warren,Yokena,Court of Appeals,2,Latrice Westbrooks,,263
+Warren,Elks Lodge,U.S. House,2,Ron Eller,REP,517
+Warren,Elks Lodge,U.S. House,2,Bennie G. Thompson,DEM,882
+Warren,Elks Lodge,Supreme Court,1,Jenifer B. Branning,,395
+Warren,Elks Lodge,Supreme Court,1,Byron Carter,,64
+Warren,Elks Lodge,Supreme Court,1,Ceola James,,548
+Warren,Elks Lodge,Supreme Court,1,Jim Kitchens,,316
+Warren,Elks Lodge,Supreme Court,1,Abby Gale Robinson,,26
+Warren,Elks Lodge,Court of Appeals,2,Latrice Westbrooks,,1138
+Warren,Calvary Old 27,U.S. House,2,Ron Eller,REP,638
+Warren,Calvary Old 27,U.S. House,2,Bennie G. Thompson,DEM,488
+Warren,Calvary Old 27,Supreme Court,1,Jenifer B. Branning,,445
+Warren,Calvary Old 27,Supreme Court,1,Byron Carter,,41
+Warren,Calvary Old 27,Supreme Court,1,Ceola James,,338
+Warren,Calvary Old 27,Supreme Court,1,Jim Kitchens,,234
+Warren,Calvary Old 27,Supreme Court,1,Abby Gale Robinson,,26
+Warren,Calvary Old 27,Court of Appeals,2,Latrice Westbrooks,,868
+Warren,Life,U.S. House,2,Ron Eller,REP,695
+Warren,Life,U.S. House,2,Bennie G. Thompson,DEM,322
+Warren,Life,Supreme Court,1,Jenifer B. Branning,,462
+Warren,Life,Supreme Court,1,Byron Carter,,48
+Warren,Life,Supreme Court,1,Ceola James,,181
+Warren,Life,Supreme Court,1,Jim Kitchens,,263
+Warren,Life,Supreme Court,1,Abby Gale Robinson,,26
+Warren,Life,Court of Appeals,2,Latrice Westbrooks,,825
+Warren,Lee Rd Fire,U.S. House,2,Ron Eller,REP,715
+Warren,Lee Rd Fire,U.S. House,2,Bennie G. Thompson,DEM,582
+Warren,Lee Rd Fire,Supreme Court,1,Jenifer B. Branning,,546
+Warren,Lee Rd Fire,Supreme Court,1,Byron Carter,,41
+Warren,Lee Rd Fire,Supreme Court,1,Ceola James,,343
+Warren,Lee Rd Fire,Supreme Court,1,Jim Kitchens,,279
+Warren,Lee Rd Fire,Supreme Court,1,Abby Gale Robinson,,41
+Warren,Lee Rd Fire,Court of Appeals,2,Latrice Westbrooks,,1026
+Warren,Porters Chapel,U.S. House,2,Ron Eller,REP,594
+Warren,Porters Chapel,U.S. House,2,Bennie G. Thompson,DEM,295
+Warren,Porters Chapel,Supreme Court,1,Jenifer B. Branning,,439
+Warren,Porters Chapel,Supreme Court,1,Byron Carter,,30
+Warren,Porters Chapel,Supreme Court,1,Ceola James,,146
+Warren,Porters Chapel,Supreme Court,1,Jim Kitchens,,225
+Warren,Porters Chapel,Supreme Court,1,Abby Gale Robinson,,20
+Warren,Porters Chapel,Court of Appeals,2,Latrice Westbrooks,,722
