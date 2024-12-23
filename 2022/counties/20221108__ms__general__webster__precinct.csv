@@ -1,7 +1,7 @@
 county,precinct,office,district,party,candidate,votes
 Webster,bellefontaine,U.S. House,1,Democrat,Dianne Black,18
 Webster,bellefontaine,U.S. House,1,Republican,Trent Kelly,223
-Webster,bellefontaine,Court Of Appeals 01-District 1  Position 1,1,Nonpartisan,Jim M. Greenlee,203
+Webster,bellefontaine,Court Of Appeals 01-District 1 Position 1,1,Nonpartisan,Jim M. Greenlee,203
 Webster,bellefontaine,Chancery Court 14-1-Chancery District 14-1,14,Nonpartisan,Rodney Faver,206
 Webster,bellefontaine,Circuit Court 5-Circuit District 05 Place 1,5,Nonpartisan,"Joseph H. 'Joey' Loper, Jr.",217
 Webster,bellefontaine,Circuit Court 5-Circuit District 05 Place 2,5,Nonpartisan,Doug S. Crosby,23
@@ -11,7 +11,7 @@ Webster,bellefontaine,Circuit Court 5-Circuit District 05 Place 2,5,Nonpartisan,
 Webster,bellefontaine,Circuit Court 5-Circuit District 05 Place 2,5,Nonpartisan,Kasey Burney Young,30
 Webster,big black,U.S. House,1,Democrat,Dianne Black,10
 Webster,big black,U.S. House,1,Republican,Trent Kelly,128
-Webster,big black,Court Of Appeals 01-District 1  Position 1,1,Nonpartisan,Jim M. Greenlee,117
+Webster,big black,Court Of Appeals 01-District 1 Position 1,1,Nonpartisan,Jim M. Greenlee,117
 Webster,big black,Chancery Court 14-1-Chancery District 14-1,14,Nonpartisan,Rodney Faver,118
 Webster,big black,Circuit Court 5-Circuit District 05 Place 1,5,Nonpartisan,"Joseph H. 'Joey' Loper, Jr.",121
 Webster,big black,Circuit Court 5-Circuit District 05 Place 2,5,Nonpartisan,Doug S. Crosby,33
@@ -21,7 +21,7 @@ Webster,big black,Circuit Court 5-Circuit District 05 Place 2,5,Nonpartisan,Zach
 Webster,big black,Circuit Court 5-Circuit District 05 Place 2,5,Nonpartisan,Kasey Burney Young,40
 Webster,clarkson,U.S. House,1,Democrat,Dianne Black,10
 Webster,clarkson,U.S. House,1,Republican,Trent Kelly,316
-Webster,clarkson,Court Of Appeals 01-District 1  Position 1,1,Nonpartisan,Jim M. Greenlee,270
+Webster,clarkson,Court Of Appeals 01-District 1 Position 1,1,Nonpartisan,Jim M. Greenlee,270
 Webster,clarkson,Chancery Court 14-1-Chancery District 14-1,14,Nonpartisan,Rodney Faver,271
 Webster,clarkson,Circuit Court 5-Circuit District 05 Place 1,5,Nonpartisan,"Joseph H. 'Joey' Loper, Jr.",283
 Webster,clarkson,Circuit Court 5-Circuit District 05 Place 2,5,Nonpartisan,Doug S. Crosby,69
@@ -31,7 +31,7 @@ Webster,clarkson,Circuit Court 5-Circuit District 05 Place 2,5,Nonpartisan,Zacha
 Webster,clarkson,Circuit Court 5-Circuit District 05 Place 2,5,Nonpartisan,Kasey Burney Young,93
 Webster,cumberland,U.S. House,1,Democrat,Dianne Black,29
 Webster,cumberland,U.S. House,1,Republican,Trent Kelly,157
-Webster,cumberland,Court Of Appeals 01-District 1  Position 1,1,Nonpartisan,Jim M. Greenlee,154
+Webster,cumberland,Court Of Appeals 01-District 1 Position 1,1,Nonpartisan,Jim M. Greenlee,154
 Webster,cumberland,Chancery Court 14-1-Chancery District 14-1,14,Nonpartisan,Rodney Faver,151
 Webster,cumberland,Circuit Court 5-Circuit District 05 Place 1,5,Nonpartisan,"Joseph H. 'Joey' Loper, Jr.",153
 Webster,cumberland,Circuit Court 5-Circuit District 05 Place 2,5,Nonpartisan,Doug S. Crosby,47
@@ -41,7 +41,7 @@ Webster,cumberland,Circuit Court 5-Circuit District 05 Place 2,5,Nonpartisan,Zac
 Webster,cumberland,Circuit Court 5-Circuit District 05 Place 2,5,Nonpartisan,Kasey Burney Young,55
 Webster,eupora no. 1,U.S. House,1,Democrat,Dianne Black,203
 Webster,eupora no. 1,U.S. House,1,Republican,Trent Kelly,306
-Webster,eupora no. 1,Court Of Appeals 01-District 1  Position 1,1,Nonpartisan,Jim M. Greenlee,432
+Webster,eupora no. 1,Court Of Appeals 01-District 1 Position 1,1,Nonpartisan,Jim M. Greenlee,432
 Webster,eupora no. 1,Chancery Court 14-1-Chancery District 14-1,14,Nonpartisan,Rodney Faver,432
 Webster,eupora no. 1,Circuit Court 5-Circuit District 05 Place 1,5,Nonpartisan,"Joseph H. 'Joey' Loper, Jr.",432
 Webster,eupora no. 1,Circuit Court 5-Circuit District 05 Place 2,5,Nonpartisan,Doug S. Crosby,36
@@ -51,7 +51,7 @@ Webster,eupora no. 1,Circuit Court 5-Circuit District 05 Place 2,5,Nonpartisan,Z
 Webster,eupora no. 1,Circuit Court 5-Circuit District 05 Place 2,5,Nonpartisan,Kasey Burney Young,118
 Webster,eupora no. 2,U.S. House,1,Democrat,Dianne Black,17
 Webster,eupora no. 2,U.S. House,1,Republican,Trent Kelly,153
-Webster,eupora no. 2,Court Of Appeals 01-District 1  Position 1,1,Nonpartisan,Jim M. Greenlee,146
+Webster,eupora no. 2,Court Of Appeals 01-District 1 Position 1,1,Nonpartisan,Jim M. Greenlee,146
 Webster,eupora no. 2,Chancery Court 14-1-Chancery District 14-1,14,Nonpartisan,Rodney Faver,147
 Webster,eupora no. 2,Circuit Court 5-Circuit District 05 Place 1,5,Nonpartisan,"Joseph H. 'Joey' Loper, Jr.",152
 Webster,eupora no. 2,Circuit Court 5-Circuit District 05 Place 2,5,Nonpartisan,Doug S. Crosby,25
@@ -61,7 +61,7 @@ Webster,eupora no. 2,Circuit Court 5-Circuit District 05 Place 2,5,Nonpartisan,Z
 Webster,eupora no. 2,Circuit Court 5-Circuit District 05 Place 2,5,Nonpartisan,Kasey Burney Young,58
 Webster,eupora no. 3,U.S. House,1,Democrat,Dianne Black,27
 Webster,eupora no. 3,U.S. House,1,Republican,Trent Kelly,98
-Webster,eupora no. 3,Court Of Appeals 01-District 1  Position 1,1,Nonpartisan,Jim M. Greenlee,105
+Webster,eupora no. 3,Court Of Appeals 01-District 1 Position 1,1,Nonpartisan,Jim M. Greenlee,105
 Webster,eupora no. 3,Chancery Court 14-1-Chancery District 14-1,14,Nonpartisan,Rodney Faver,106
 Webster,eupora no. 3,Circuit Court 5-Circuit District 05 Place 1,5,Nonpartisan,"Joseph H. 'Joey' Loper, Jr.",111
 Webster,eupora no. 3,Circuit Court 5-Circuit District 05 Place 2,5,Nonpartisan,Doug S. Crosby,17
@@ -71,7 +71,7 @@ Webster,eupora no. 3,Circuit Court 5-Circuit District 05 Place 2,5,Nonpartisan,Z
 Webster,eupora no. 3,Circuit Court 5-Circuit District 05 Place 2,5,Nonpartisan,Kasey Burney Young,32
 Webster,grady,U.S. House,1,Democrat,Dianne Black,24
 Webster,grady,U.S. House,1,Republican,Trent Kelly,108
-Webster,grady,Court Of Appeals 01-District 1  Position 1,1,Nonpartisan,Jim M. Greenlee,126
+Webster,grady,Court Of Appeals 01-District 1 Position 1,1,Nonpartisan,Jim M. Greenlee,126
 Webster,grady,Chancery Court 14-1-Chancery District 14-1,14,Nonpartisan,Rodney Faver,122
 Webster,grady,Circuit Court 5-Circuit District 05 Place 1,5,Nonpartisan,"Joseph H. 'Joey' Loper, Jr.",124
 Webster,grady,Circuit Court 5-Circuit District 05 Place 2,5,Nonpartisan,Doug S. Crosby,11
@@ -81,7 +81,7 @@ Webster,grady,Circuit Court 5-Circuit District 05 Place 2,5,Nonpartisan,Zachary 
 Webster,grady,Circuit Court 5-Circuit District 05 Place 2,5,Nonpartisan,Kasey Burney Young,37
 Webster,maben,U.S. House,1,Democrat,Dianne Black,43
 Webster,maben,U.S. House,1,Republican,Trent Kelly,239
-Webster,maben,Court Of Appeals 01-District 1  Position 1,1,Nonpartisan,Jim M. Greenlee,225
+Webster,maben,Court Of Appeals 01-District 1 Position 1,1,Nonpartisan,Jim M. Greenlee,225
 Webster,maben,Chancery Court 14-1-Chancery District 14-1,14,Nonpartisan,Rodney Faver,233
 Webster,maben,Circuit Court 5-Circuit District 05 Place 1,5,Nonpartisan,"Joseph H. 'Joey' Loper, Jr.",229
 Webster,maben,Circuit Court 5-Circuit District 05 Place 2,5,Nonpartisan,Doug S. Crosby,52
@@ -91,7 +91,7 @@ Webster,maben,Circuit Court 5-Circuit District 05 Place 2,5,Nonpartisan,Zachary 
 Webster,maben,Circuit Court 5-Circuit District 05 Place 2,5,Nonpartisan,Kasey Burney Young,77
 Webster,mantee,U.S. House,1,Democrat,Dianne Black,13
 Webster,mantee,U.S. House,1,Republican,Trent Kelly,220
-Webster,mantee,Court Of Appeals 01-District 1  Position 1,1,Nonpartisan,Jim M. Greenlee,205
+Webster,mantee,Court Of Appeals 01-District 1 Position 1,1,Nonpartisan,Jim M. Greenlee,205
 Webster,mantee,Chancery Court 14-1-Chancery District 14-1,14,Nonpartisan,Rodney Faver,208
 Webster,mantee,Circuit Court 5-Circuit District 05 Place 1,5,Nonpartisan,"Joseph H. 'Joey' Loper, Jr.",210
 Webster,mantee,Circuit Court 5-Circuit District 05 Place 2,5,Nonpartisan,Doug S. Crosby,71
@@ -101,7 +101,7 @@ Webster,mantee,Circuit Court 5-Circuit District 05 Place 2,5,Nonpartisan,Zachary
 Webster,mantee,Circuit Court 5-Circuit District 05 Place 2,5,Nonpartisan,Kasey Burney Young,74
 Webster,mathiston,U.S. House,1,Democrat,Dianne Black,34
 Webster,mathiston,U.S. House,1,Republican,Trent Kelly,322
-Webster,mathiston,Court Of Appeals 01-District 1  Position 1,1,Nonpartisan,Jim M. Greenlee,312
+Webster,mathiston,Court Of Appeals 01-District 1 Position 1,1,Nonpartisan,Jim M. Greenlee,312
 Webster,mathiston,Chancery Court 14-1-Chancery District 14-1,14,Nonpartisan,Rodney Faver,319
 Webster,mathiston,Circuit Court 5-Circuit District 05 Place 1,5,Nonpartisan,"Joseph H. 'Joey' Loper, Jr.",319
 Webster,mathiston,Circuit Court 5-Circuit District 05 Place 2,5,Nonpartisan,Doug S. Crosby,62
@@ -111,7 +111,7 @@ Webster,mathiston,Circuit Court 5-Circuit District 05 Place 2,5,Nonpartisan,Zach
 Webster,mathiston,Circuit Court 5-Circuit District 05 Place 2,5,Nonpartisan,Kasey Burney Young,114
 Webster,tomnolen,U.S. House,1,Democrat,Dianne Black,13
 Webster,tomnolen,U.S. House,1,Republican,Trent Kelly,274
-Webster,tomnolen,Court Of Appeals 01-District 1  Position 1,1,Nonpartisan,Jim M. Greenlee,228
+Webster,tomnolen,Court Of Appeals 01-District 1 Position 1,1,Nonpartisan,Jim M. Greenlee,228
 Webster,tomnolen,Chancery Court 14-1-Chancery District 14-1,14,Nonpartisan,Rodney Faver,222
 Webster,tomnolen,Circuit Court 5-Circuit District 05 Place 1,5,Nonpartisan,"Joseph H. 'Joey' Loper, Jr.",227
 Webster,tomnolen,Circuit Court 5-Circuit District 05 Place 2,5,Nonpartisan,Doug S. Crosby,17
@@ -121,7 +121,7 @@ Webster,tomnolen,Circuit Court 5-Circuit District 05 Place 2,5,Nonpartisan,Zacha
 Webster,tomnolen,Circuit Court 5-Circuit District 05 Place 2,5,Nonpartisan,Kasey Burney Young,56
 Webster,walthall,U.S. House,1,Democrat,Dianne Black,9
 Webster,walthall,U.S. House,1,Republican,Trent Kelly,206
-Webster,walthall,Court Of Appeals 01-District 1  Position 1,1,Nonpartisan,Jim M. Greenlee,177
+Webster,walthall,Court Of Appeals 01-District 1 Position 1,1,Nonpartisan,Jim M. Greenlee,177
 Webster,walthall,Chancery Court 14-1-Chancery District 14-1,14,Nonpartisan,Rodney Faver,181
 Webster,walthall,Circuit Court 5-Circuit District 05 Place 1,5,Nonpartisan,"Joseph H. 'Joey' Loper, Jr.",185
 Webster,walthall,Circuit Court 5-Circuit District 05 Place 2,5,Nonpartisan,Doug S. Crosby,16
