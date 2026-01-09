@@ -1,0 +1,463 @@
+county,precinct,office,district,candidate,party,votes
+Lincoln,Alexander,President,,Kamala D. Harris,DEM,367
+Lincoln,Alexander,President,,Chase Oliver,LIB,0
+Lincoln,Alexander,President,,Jill Stein,GRN,0
+Lincoln,Alexander,President,,Randall Terry,CON,1
+Lincoln,Alexander,President,,Donald J. Trump,REP,15
+Lincoln,Alexander,President,,Shiva Ayyadurai,IND,1
+Lincoln,Alexander,President,,Claudia De la Cruz,IND,0
+Lincoln,Alexander,President,,Robert F. Kennedy Jr.,IND,0
+Lincoln,Alexander,President,,Peter Sonski,IND,1
+Lincoln,Alexander,U.S. Senate,,Ty Pinkins,DEM,361
+Lincoln,Alexander,U.S. Senate,,Roger F. Wickler,REP,17
+Lincoln,Kirlston,President,,Kamala D. Harris,DEM,102
+Lincoln,Kirlston,President,,Chase Oliver,LIB,0
+Lincoln,Kirlston,President,,Jill Stein,GRN,0
+Lincoln,Kirlston,President,,Randall Terry,CON,1
+Lincoln,Kirlston,President,,Donald J. Trump,REP,517
+Lincoln,Kirlston,President,,Shiva Ayyadurai,IND,0
+Lincoln,Kirlston,President,,Claudia De la Cruz,IND,0
+Lincoln,Kirlston,President,,Robert F. Kennedy Jr.,IND,1
+Lincoln,Kirlston,President,,Peter Sonski,IND,0
+Lincoln,Kirlston,U.S. Senate,,Ty Pinkins,DEM,101
+Lincoln,Kirlston,U.S. Senate,,Roger F. Wickler,REP,509
+Lincoln,Big Springs,President,,Kamala D. Harris,DEM,35
+Lincoln,Big Springs,President,,Chase Oliver,LIB,0
+Lincoln,Big Springs,President,,Jill Stein,GRN,1
+Lincoln,Big Springs,President,,Randall Terry,CON,1
+Lincoln,Big Springs,President,,Donald J. Trump,REP,166
+Lincoln,Big Springs,President,,Shiva Ayyadurai,IND,0
+Lincoln,Big Springs,President,,Claudia De la Cruz,IND,0
+Lincoln,Big Springs,President,,Robert F. Kennedy Jr.,IND,0
+Lincoln,Big Springs,President,,Peter Sonski,IND,0
+Lincoln,Big Springs,U.S. Senate,,Ty Pinkins,DEM,35
+Lincoln,Big Springs,U.S. Senate,,Roger F. Wickler,REP,163
+Lincoln,Bogus Chito,President,,Kamala D. Harris,DEM,144
+Lincoln,Bogus Chito,President,,Chase Oliver,LIB,1
+Lincoln,Bogus Chito,President,,Jill Stein,GRN,0
+Lincoln,Bogus Chito,President,,Randall Terry,CON,0
+Lincoln,Bogus Chito,President,,Donald J. Trump,REP,188
+Lincoln,Bogus Chito,President,,Shiva Ayyadurai,IND,1
+Lincoln,Bogus Chito,President,,Claudia De la Cruz,IND,0
+Lincoln,Bogus Chito,President,,Robert F. Kennedy Jr.,IND,1
+Lincoln,Bogus Chito,President,,Peter Sonski,IND,0
+Lincoln,Bogus Chito,U.S. Senate,,Ty Pinkins,DEM,126
+Lincoln,Bogus Chito,U.S. Senate,,Roger F. Wickler,REP,208
+Lincoln,Fidget / Rogers District,President,,Kamala D. Harris,DEM,228
+Lincoln,Fidget / Rogers District,President,,Chase Oliver,LIB,1
+Lincoln,Fidget / Rogers District,President,,Jill Stein,GRN,0
+Lincoln,Fidget / Rogers District,President,,Randall Terry,CON,2
+Lincoln,Fidget / Rogers District,President,,Donald J. Trump,REP,144
+Lincoln,Fidget / Rogers District,President,,Shiva Ayyadurai,IND,0
+Lincoln,Fidget / Rogers District,President,,Claudia De la Cruz,IND,0
+Lincoln,Fidget / Rogers District,President,,Robert F. Kennedy Jr.,IND,2
+Lincoln,Fidget / Rogers District,President,,Peter Sonski,IND,0
+Lincoln,Fidget / Rogers District,U.S. Senate,,Ty Pinkins,DEM,225
+Lincoln,Fidget / Rogers District,U.S. Senate,,Roger F. Wickler,REP,151
+Lincoln,Caseyville,President,,Kamala D. Harris,DEM,72
+Lincoln,Caseyville,President,,Chase Oliver,LIB,0
+Lincoln,Caseyville,President,,Jill Stein,GRN,0
+Lincoln,Caseyville,President,,Randall Terry,CON,0
+Lincoln,Caseyville,President,,Donald J. Trump,REP,357
+Lincoln,Caseyville,President,,Shiva Ayyadurai,IND,0
+Lincoln,Caseyville,President,,Claudia De la Cruz,IND,0
+Lincoln,Caseyville,President,,Robert F. Kennedy Jr.,IND,0
+Lincoln,Caseyville,President,,Peter Sonski,IND,0
+Lincoln,Caseyville,U.S. Senate,,Ty Pinkins,DEM,71
+Lincoln,Caseyville,U.S. Senate,,Roger F. Wickler,REP,358
+Lincoln,City Hall,President,,Kamala D. Harris,DEM,51
+Lincoln,City Hall,President,,Chase Oliver,LIB,2
+Lincoln,City Hall,President,,Jill Stein,GRN,1
+Lincoln,City Hall,President,,Randall Terry,CON,1
+Lincoln,City Hall,President,,Donald J. Trump,REP,164
+Lincoln,City Hall,President,,Shiva Ayyadurai,IND,0
+Lincoln,City Hall,President,,Claudia De la Cruz,IND,0
+Lincoln,City Hall,President,,Robert F. Kennedy Jr.,IND,0
+Lincoln,City Hall,President,,Peter Sonski,IND,0
+Lincoln,City Hall,U.S. Senate,,Ty Pinkins,DEM,38
+Lincoln,City Hall,U.S. Senate,,Roger F. Wickler,REP,183
+Lincoln,East Lincoln,President,,Kamala D. Harris,DEM,14
+Lincoln,East Lincoln,President,,Chase Oliver,LIB,0
+Lincoln,East Lincoln,President,,Jill Stein,GRN,1
+Lincoln,East Lincoln,President,,Randall Terry,CON,0
+Lincoln,East Lincoln,President,,Donald J. Trump,REP,289
+Lincoln,East Lincoln,President,,Shiva Ayyadurai,IND,0
+Lincoln,East Lincoln,President,,Claudia De la Cruz,IND,0
+Lincoln,East Lincoln,President,,Robert F. Kennedy Jr.,IND,0
+Lincoln,East Lincoln,President,,Peter Sonski,IND,0
+Lincoln,East Lincoln,U.S. Senate,,Ty Pinkins,DEM,13
+Lincoln,East Lincoln,U.S. Senate,,Roger F. Wickler,REP,294
+Lincoln,Enterprise,President,,Kamala D. Harris,DEM,61
+Lincoln,Enterprise,President,,Chase Oliver,LIB,1
+Lincoln,Enterprise,President,,Jill Stein,GRN,0
+Lincoln,Enterprise,President,,Randall Terry,CON,1
+Lincoln,Enterprise,President,,Donald J. Trump,REP,981
+Lincoln,Enterprise,President,,Shiva Ayyadurai,IND,0
+Lincoln,Enterprise,President,,Claudia De la Cruz,IND,3
+Lincoln,Enterprise,President,,Robert F. Kennedy Jr.,IND,3
+Lincoln,Enterprise,President,,Peter Sonski,IND,0
+Lincoln,Enterprise,U.S. Senate,,Ty Pinkins,DEM,60
+Lincoln,Enterprise,U.S. Senate,,Roger F. Wickler,REP,976
+Lincoln,Fair Tower,President,,Kamala D. Harris,DEM,18
+Lincoln,Fair Tower,President,,Chase Oliver,LIB,0
+Lincoln,Fair Tower,President,,Jill Stein,GRN,0
+Lincoln,Fair Tower,President,,Randall Terry,CON,0
+Lincoln,Fair Tower,President,,Donald J. Trump,REP,197
+Lincoln,Fair Tower,President,,Shiva Ayyadurai,IND,0
+Lincoln,Fair Tower,President,,Claudia De la Cruz,IND,1
+Lincoln,Fair Tower,President,,Robert F. Kennedy Jr.,IND,1
+Lincoln,Fair Tower,President,,Peter Sonski,IND,0
+Lincoln,Fair Tower,U.S. Senate,,Ty Pinkins,DEM,12
+Lincoln,Fair Tower,U.S. Senate,,Roger F. Wickler,REP,204
+Lincoln,Forrestry,President,,Kamala D. Harris,DEM,186
+Lincoln,Forrestry,President,,Chase Oliver,LIB,0
+Lincoln,Forrestry,President,,Jill Stein,GRN,0
+Lincoln,Forrestry,President,,Randall Terry,CON,0
+Lincoln,Forrestry,President,,Donald J. Trump,REP,360
+Lincoln,Forrestry,President,,Shiva Ayyadurai,IND,0
+Lincoln,Forrestry,President,,Claudia De la Cruz,IND,4
+Lincoln,Forrestry,President,,Robert F. Kennedy Jr.,IND,4
+Lincoln,Forrestry,President,,Peter Sonski,IND,1
+Lincoln,Forrestry,U.S. Senate,,Ty Pinkins,DEM,179
+Lincoln,Forrestry,U.S. Senate,,Roger F. Wickler,REP,364
+Lincoln,Governmental Complex,President,,Kamala D. Harris,DEM,336
+Lincoln,Governmental Complex,President,,Chase Oliver,LIB,0
+Lincoln,Governmental Complex,President,,Jill Stein,GRN,1
+Lincoln,Governmental Complex,President,,Randall Terry,CON,0
+Lincoln,Governmental Complex,President,,Donald J. Trump,REP,12
+Lincoln,Governmental Complex,President,,Shiva Ayyadurai,IND,0
+Lincoln,Governmental Complex,President,,Claudia De la Cruz,IND,1
+Lincoln,Governmental Complex,President,,Robert F. Kennedy Jr.,IND,0
+Lincoln,Governmental Complex,President,,Peter Sonski,IND,0
+Lincoln,Governmental Complex,U.S. Senate,,Ty Pinkins,DEM,323
+Lincoln,Governmental Complex,U.S. Senate,,Roger F. Wickler,REP,23
+Lincoln,Halbert Heights,President,,Kamala D. Harris,DEM,180
+Lincoln,Halbert Heights,President,,Chase Oliver,LIB,2
+Lincoln,Halbert Heights,President,,Jill Stein,GRN,1
+Lincoln,Halbert Heights,President,,Randall Terry,CON,1
+Lincoln,Halbert Heights,President,,Donald J. Trump,REP,786
+Lincoln,Halbert Heights,President,,Shiva Ayyadurai,IND,0
+Lincoln,Halbert Heights,President,,Claudia De la Cruz,IND,0
+Lincoln,Halbert Heights,President,,Robert F. Kennedy Jr.,IND,5
+Lincoln,Halbert Heights,President,,Peter Sonski,IND,2
+Lincoln,Halbert Heights,U.S. Senate,,Ty Pinkins,DEM,169
+Lincoln,Halbert Heights,U.S. Senate,,Roger F. Wickler,REP,812
+Lincoln,Halbert Retreat,President,,Kamala D. Harris,DEM,104
+Lincoln,Halbert Retreat,President,,Chase Oliver,LIB,3
+Lincoln,Halbert Retreat,President,,Jill Stein,GRN,0
+Lincoln,Halbert Retreat,President,,Randall Terry,CON,0
+Lincoln,Halbert Retreat,President,,Donald J. Trump,REP,504
+Lincoln,Halbert Retreat,President,,Shiva Ayyadurai,IND,0
+Lincoln,Halbert Retreat,President,,Claudia De la Cruz,IND,0
+Lincoln,Halbert Retreat,President,,Robert F. Kennedy Jr.,IND,1
+Lincoln,Halbert Retreat,President,,Peter Sonski,IND,1
+Lincoln,Halbert Retreat,U.S. Senate,,Ty Pinkins,DEM,98
+Lincoln,Halbert Retreat,U.S. Senate,,Roger F. Wickler,REP,509
+Lincoln,High School,President,,Kamala D. Harris,DEM,365
+Lincoln,High School,President,,Chase Oliver,LIB,3
+Lincoln,High School,President,,Jill Stein,GRN,1
+Lincoln,High School,President,,Randall Terry,CON,0
+Lincoln,High School,President,,Donald J. Trump,REP,72
+Lincoln,High School,President,,Shiva Ayyadurai,IND,0
+Lincoln,High School,President,,Claudia De la Cruz,IND,1
+Lincoln,High School,President,,Robert F. Kennedy Jr.,IND,4
+Lincoln,High School,President,,Peter Sonski,IND,0
+Lincoln,High School,U.S. Senate,,Ty Pinkins,DEM,362
+Lincoln,High School,U.S. Senate,,Roger F. Wickler,REP,84
+Lincoln,Johnson,President,,Kamala D. Harris,DEM,70
+Lincoln,Johnson,President,,Chase Oliver,LIB,1
+Lincoln,Johnson,President,,Jill Stein,GRN,1
+Lincoln,Johnson,President,,Randall Terry,CON,0
+Lincoln,Johnson,President,,Donald J. Trump,REP,440
+Lincoln,Johnson,President,,Shiva Ayyadurai,IND,0
+Lincoln,Johnson,President,,Claudia De la Cruz,IND,0
+Lincoln,Johnson,President,,Robert F. Kennedy Jr.,IND,2
+Lincoln,Johnson,President,,Peter Sonski,IND,0
+Lincoln,Johnson,U.S. Senate,,Ty Pinkins,DEM,67
+Lincoln,Johnson,U.S. Senate,,Roger F. Wickler,REP,441
+Lincoln,Johnson Grove,President,,Kamala D. Harris,DEM,89
+Lincoln,Johnson Grove,President,,Chase Oliver,LIB,1
+Lincoln,Johnson Grove,President,,Jill Stein,GRN,0
+Lincoln,Johnson Grove,President,,Randall Terry,CON,0
+Lincoln,Johnson Grove,President,,Donald J. Trump,REP,493
+Lincoln,Johnson Grove,President,,Shiva Ayyadurai,IND,0
+Lincoln,Johnson Grove,President,,Claudia De la Cruz,IND,0
+Lincoln,Johnson Grove,President,,Robert F. Kennedy Jr.,IND,2
+Lincoln,Johnson Grove,President,,Peter Sonski,IND,0
+Lincoln,Johnson Grove,U.S. Senate,,Ty Pinkins,DEM,88
+Lincoln,Johnson Grove,U.S. Senate,,Roger F. Wickler,REP,495
+Lincoln,Lamprey,President,,Kamala D. Harris,DEM,143
+Lincoln,Lamprey,President,,Chase Oliver,LIB,1
+Lincoln,Lamprey,President,,Jill Stein,GRN,0
+Lincoln,Lamprey,President,,Randall Terry,CON,0
+Lincoln,Lamprey,President,,Donald J. Trump,REP,242
+Lincoln,Lamprey,President,,Shiva Ayyadurai,IND,0
+Lincoln,Lamprey,President,,Claudia De la Cruz,IND,0
+Lincoln,Lamprey,President,,Robert F. Kennedy Jr.,IND,1
+Lincoln,Lamprey,President,,Peter Sonski,IND,3
+Lincoln,Lamprey,U.S. Senate,,Ty Pinkins,DEM,130
+Lincoln,Lamprey,U.S. Senate,,Roger F. Wickler,REP,254
+Lincoln,Little Bahela,President,,Kamala D. Harris,DEM,73
+Lincoln,Little Bahela,President,,Chase Oliver,LIB,0
+Lincoln,Little Bahela,President,,Jill Stein,GRN,1
+Lincoln,Little Bahela,President,,Randall Terry,CON,0
+Lincoln,Little Bahela,President,,Donald J. Trump,REP,147
+Lincoln,Little Bahela,President,,Shiva Ayyadurai,IND,0
+Lincoln,Little Bahela,President,,Claudia De la Cruz,IND,1
+Lincoln,Little Bahela,President,,Robert F. Kennedy Jr.,IND,0
+Lincoln,Little Bahela,President,,Peter Sonski,IND,0
+Lincoln,Little Bahela,U.S. Senate,,Ty Pinkins,DEM,72
+Lincoln,Little Bahela,U.S. Senate,,Roger F. Wickler,REP,149
+Lincoln,Lloyd Star,President,,Kamala D. Harris,DEM,155
+Lincoln,Lloyd Star,President,,Chase Oliver,LIB,1
+Lincoln,Lloyd Star,President,,Jill Stein,GRN,0
+Lincoln,Lloyd Star,President,,Randall Terry,CON,0
+Lincoln,Lloyd Star,President,,Donald J. Trump,REP,846
+Lincoln,Lloyd Star,President,,Shiva Ayyadurai,IND,0
+Lincoln,Lloyd Star,President,,Claudia De la Cruz,IND,0
+Lincoln,Lloyd Star,President,,Robert F. Kennedy Jr.,IND,1
+Lincoln,Lloyd Star,President,,Peter Sonski,IND,0
+Lincoln,Lloyd Star,U.S. Senate,,Ty Pinkins,DEM,150
+Lincoln,Lloyd Star,U.S. Senate,,Roger F. Wickler,REP,842
+Lincoln,Monongomery,President,,Kamala D. Harris,DEM,112
+Lincoln,Monongomery,President,,Chase Oliver,LIB,0
+Lincoln,Monongomery,President,,Jill Stein,GRN,1
+Lincoln,Monongomery,President,,Randall Terry,CON,0
+Lincoln,Monongomery,President,,Donald J. Trump,REP,232
+Lincoln,Monongomery,President,,Shiva Ayyadurai,IND,0
+Lincoln,Monongomery,President,,Claudia De la Cruz,IND,0
+Lincoln,Monongomery,President,,Robert F. Kennedy Jr.,IND,0
+Lincoln,Monongomery,President,,Peter Sonski,IND,2
+Lincoln,Monongomery,U.S. Senate,,Ty Pinkins,DEM,103
+Lincoln,Monongomery,U.S. Senate,,Roger F. Wickler,REP,241
+Lincoln,New Sight,President,,Kamala D. Harris,DEM,395
+Lincoln,New Sight,President,,Chase Oliver,LIB,1
+Lincoln,New Sight,President,,Jill Stein,GRN,0
+Lincoln,New Sight,President,,Randall Terry,CON,0
+Lincoln,New Sight,President,,Donald J. Trump,REP,691
+Lincoln,New Sight,President,,Shiva Ayyadurai,IND,0
+Lincoln,New Sight,President,,Claudia De la Cruz,IND,1
+Lincoln,New Sight,President,,Robert F. Kennedy Jr.,IND,3
+Lincoln,New Sight,President,,Peter Sonski,IND,0
+Lincoln,New Sight,U.S. Senate,,Ty Pinkins,DEM,384
+Lincoln,New Sight,U.S. Senate,,Roger F. Wickler,REP,702
+Lincoln,Winfield,President,,Kamala D. Harris,DEM,49
+Lincoln,Winfield,President,,Chase Oliver,LIB,0
+Lincoln,Winfield,President,,Jill Stein,GRN,0
+Lincoln,Winfield,President,,Randall Terry,CON,0
+Lincoln,Winfield,President,,Donald J. Trump,REP,184
+Lincoln,Winfield,President,,Shiva Ayyadurai,IND,0
+Lincoln,Winfield,President,,Claudia De la Cruz,IND,0
+Lincoln,Winfield,President,,Robert F. Kennedy Jr.,IND,0
+Lincoln,Winfield,President,,Peter Sonski,IND,0
+Lincoln,Winfield,U.S. Senate,,Ty Pinkins,DEM,46
+Lincoln,Winfield,U.S. Senate,,Roger F. Wickler,REP,186
+Lincoln,Old Brook,President,,Kamala D. Harris,DEM,149
+Lincoln,Old Brook,President,,Chase Oliver,LIB,0
+Lincoln,Old Brook,President,,Jill Stein,GRN,0
+Lincoln,Old Brook,President,,Randall Terry,CON,2
+Lincoln,Old Brook,President,,Donald J. Trump,REP,695
+Lincoln,Old Brook,President,,Shiva Ayyadurai,IND,1
+Lincoln,Old Brook,President,,Claudia De la Cruz,IND,0
+Lincoln,Old Brook,President,,Robert F. Kennedy Jr.,IND,1
+Lincoln,Old Brook,President,,Peter Sonski,IND,0
+Lincoln,Old Brook,U.S. Senate,,Ty Pinkins,DEM,140
+Lincoln,Old Brook,U.S. Senate,,Roger F. Wickler,REP,699
+Lincoln,Old Red Star,President,,Kamala D. Harris,DEM,71
+Lincoln,Old Red Star,President,,Chase Oliver,LIB,0
+Lincoln,Old Red Star,President,,Jill Stein,GRN,0
+Lincoln,Old Red Star,President,,Randall Terry,CON,0
+Lincoln,Old Red Star,President,,Donald J. Trump,REP,408
+Lincoln,Old Red Star,President,,Shiva Ayyadurai,IND,0
+Lincoln,Old Red Star,President,,Claudia De la Cruz,IND,0
+Lincoln,Old Red Star,President,,Robert F. Kennedy Jr.,IND,0
+Lincoln,Old Red Star,President,,Peter Sonski,IND,1
+Lincoln,Old Red Star,U.S. Senate,,Ty Pinkins,DEM,66
+Lincoln,Old Red Star,U.S. Senate,,Roger F. Wickler,REP,411
+Lincoln,Pearl Haven,President,,Kamala D. Harris,DEM,421
+Lincoln,Pearl Haven,President,,Chase Oliver,LIB,2
+Lincoln,Pearl Haven,President,,Jill Stein,GRN,1
+Lincoln,Pearl Haven,President,,Randall Terry,CON,1
+Lincoln,Pearl Haven,President,,Donald J. Trump,REP,73
+Lincoln,Pearl Haven,President,,Shiva Ayyadurai,IND,0
+Lincoln,Pearl Haven,President,,Claudia De la Cruz,IND,1
+Lincoln,Pearl Haven,President,,Robert F. Kennedy Jr.,IND,4
+Lincoln,Pearl Haven,President,,Peter Sonski,IND,0
+Lincoln,Pearl Haven,U.S. Senate,,Ty Pinkins,DEM,407
+Lincoln,Pearl Haven,U.S. Senate,,Roger F. Wickler,REP,86
+Lincoln,Ruth,President,,Kamala D. Harris,DEM,26
+Lincoln,Ruth,President,,Chase Oliver,LIB,1
+Lincoln,Ruth,President,,Jill Stein,GRN,2
+Lincoln,Ruth,President,,Randall Terry,CON,0
+Lincoln,Ruth,President,,Donald J. Trump,REP,558
+Lincoln,Ruth,President,,Shiva Ayyadurai,IND,0
+Lincoln,Ruth,President,,Claudia De la Cruz,IND,1
+Lincoln,Ruth,President,,Robert F. Kennedy Jr.,IND,2
+Lincoln,Ruth,President,,Peter Sonski,IND,0
+Lincoln,Ruth,U.S. Senate,,Ty Pinkins,DEM,33
+Lincoln,Ruth,U.S. Senate,,Roger F. Wickler,REP,548
+Lincoln,Vaughn,President,,Kamala D. Harris,DEM,85
+Lincoln,Vaughn,President,,Chase Oliver,LIB,0
+Lincoln,Vaughn,President,,Jill Stein,GRN,0
+Lincoln,Vaughn,President,,Randall Terry,CON,0
+Lincoln,Vaughn,President,,Donald J. Trump,REP,322
+Lincoln,Vaughn,President,,Shiva Ayyadurai,IND,0
+Lincoln,Vaughn,President,,Claudia De la Cruz,IND,0
+Lincoln,Vaughn,President,,Robert F. Kennedy Jr.,IND,0
+Lincoln,Vaughn,President,,Peter Sonski,IND,0
+Lincoln,Vaughn,U.S. Senate,,Ty Pinkins,DEM,75
+Lincoln,Vaughn,U.S. Senate,,Roger F. Wickler,REP,329
+Lincoln,West Lincoln,President,,Kamala D. Harris,DEM,38
+Lincoln,West Lincoln,President,,Chase Oliver,LIB,5
+Lincoln,West Lincoln,President,,Jill Stein,GRN,0
+Lincoln,West Lincoln,President,,Randall Terry,CON,0
+Lincoln,West Lincoln,President,,Donald J. Trump,REP,755
+Lincoln,West Lincoln,President,,Shiva Ayyadurai,IND,0
+Lincoln,West Lincoln,President,,Claudia De la Cruz,IND,0
+Lincoln,West Lincoln,President,,Robert F. Kennedy Jr.,IND,1
+Lincoln,West Lincoln,President,,Peter Sonski,IND,0
+Lincoln,West Lincoln,U.S. Senate,,Ty Pinkins,DEM,39
+Lincoln,West Lincoln,U.S. Senate,,Roger F. Wickler,REP,757
+Lincoln,Zeus,President,,Kamala D. Harris,DEM,122
+Lincoln,Zeus,President,,Chase Oliver,LIB,0
+Lincoln,Zeus,President,,Jill Stein,GRN,0
+Lincoln,Zeus,President,,Randall Terry,CON,0
+Lincoln,Zeus,President,,Donald J. Trump,REP,594
+Lincoln,Zeus,President,,Shiva Ayyadurai,IND,0
+Lincoln,Zeus,President,,Claudia De la Cruz,IND,0
+Lincoln,Zeus,President,,Robert F. Kennedy Jr.,IND,3
+Lincoln,Zeus,President,,Peter Sonski,IND,0
+Lincoln,Zeus,U.S. Senate,,Ty Pinkins,DEM,107
+Lincoln,Zeus,U.S. Senate,,Roger F. Wickler,REP,604
+Lincoln,Countywide Totals,President,,Kamala D. Harris,DEM,4262
+Lincoln,Countywide Totals,President,,Chase Oliver,LIB,26
+Lincoln,Countywide Totals,President,,Jill Stein,GRN,12
+Lincoln,Countywide Totals,President,,Randall Terry,CON,11
+Lincoln,Countywide Totals,President,,Donald J. Trump,REP,11432
+Lincoln,Countywide Totals,President,,Shiva Ayyadurai,IND,3
+Lincoln,Countywide Totals,President,,Claudia De la Cruz,IND,6
+Lincoln,Countywide Totals,President,,Robert F. Kennedy Jr.,IND,40
+Lincoln,Countywide Totals,President,,Peter Sonski,IND,10
+Lincoln,Countywide Totals,U.S. Senate,,Ty Pinkins,DEM,4080
+Lincoln,Countywide Totals,U.S. Senate,,Roger F. Wickler,REP,11599
+Lincoln,Alexander,U.S. House,3,Michael Guest,REP,178
+Lincoln,Kirlston,U.S. House,3,Michael Guest,REP,562
+Lincoln,Big Springs,U.S. House,3,Michael Guest,REP,185
+Lincoln,Bogus Chito,U.S. House,3,Michael Guest,REP,286
+Lincoln,Fidget / Rogers District,U.S. House,3,Michael Guest,REP,259
+Lincoln,Caseyville,U.S. House,3,Michael Guest,REP,385
+Lincoln,City Hall,U.S. House,3,Michael Guest,REP,203
+Lincoln,East Lincoln,U.S. House,3,Michael Guest,REP,300
+Lincoln,Enterprise,U.S. House,3,Michael Guest,REP,1021
+Lincoln,Fair Tower,U.S. House,3,Michael Guest,REP,208
+Lincoln,Forrestry,U.S. House,3,Michael Guest,REP,450
+Lincoln,Governmental Complex,U.S. House,3,Michael Guest,REP,191
+Lincoln,Halbert Heights,U.S. House,3,Michael Guest,REP,888
+Lincoln,Halbert Retreat,U.S. House,3,Michael Guest,REP,565
+Lincoln,High School,U.S. House,3,Michael Guest,REP,259
+Lincoln,Johnson,U.S. House,3,Michael Guest,REP,479
+Lincoln,Johnson Grove,U.S. House,3,Michael Guest,REP,546
+Lincoln,Lamprey,U.S. House,3,Michael Guest,REP,310
+Lincoln,Little Bahela,U.S. House,3,Michael Guest,REP,185
+Lincoln,Lloyd Star,U.S. House,3,Michael Guest,REP,916
+Lincoln,Monongomery,U.S. House,3,Michael Guest,REP,299
+Lincoln,New Sight,U.S. House,3,Michael Guest,REP,931
+Lincoln,Winfield,U.S. House,3,Michael Guest,REP,210
+Lincoln,Old Brook,U.S. House,3,Michael Guest,REP,784
+Lincoln,Old Red Star,U.S. House,3,Michael Guest,REP,451
+Lincoln,Pearl Haven,U.S. House,3,Michael Guest,REP,302
+Lincoln,Ruth,U.S. House,3,Michael Guest,REP,573
+Lincoln,Vaughn,U.S. House,3,Michael Guest,REP,370
+Lincoln,West Lincoln,U.S. House,3,Michael Guest,REP,779
+Lincoln,Zeus,U.S. House,3,Michael Guest,REP,657
+Lincoln,Countywide Totals,U.S. House,3,Michael Guest,REP,13732
+Lincoln,Alexander,Supreme Court,2,Dawn H. Beam,,134
+Lincoln,Alexander,Supreme Court,2,David P. Sullivan,,136
+Lincoln,Kirlston,Supreme Court,2,Dawn H. Beam,,228
+Lincoln,Kirlston,Supreme Court,2,David P. Sullivan,,336
+Lincoln,Big Springs,Supreme Court,2,Dawn H. Beam,,63
+Lincoln,Big Springs,Supreme Court,2,David P. Sullivan,,121
+Lincoln,Bogus Chito,Supreme Court,2,Dawn H. Beam,,126
+Lincoln,Bogus Chito,Supreme Court,2,David P. Sullivan,,177
+Lincoln,Fidget / Rogers District,Supreme Court,2,Dawn H. Beam,,125
+Lincoln,Fidget / Rogers District,Supreme Court,2,David P. Sullivan,,194
+Lincoln,Caseyville,Supreme Court,2,Dawn H. Beam,,136
+Lincoln,Caseyville,Supreme Court,2,David P. Sullivan,,247
+Lincoln,City Hall,Supreme Court,2,Dawn H. Beam,,91
+Lincoln,City Hall,Supreme Court,2,David P. Sullivan,,114
+Lincoln,East Lincoln,Supreme Court,2,Dawn H. Beam,,94
+Lincoln,East Lincoln,Supreme Court,2,David P. Sullivan,,192
+Lincoln,Enterprise,Supreme Court,2,Dawn H. Beam,,333
+Lincoln,Enterprise,Supreme Court,2,David P. Sullivan,,650
+Lincoln,Fair Tower,Supreme Court,2,Dawn H. Beam,,85
+Lincoln,Fair Tower,Supreme Court,2,David P. Sullivan,,112
+Lincoln,Forrestry,Supreme Court,2,Dawn H. Beam,,179
+Lincoln,Forrestry,Supreme Court,2,David P. Sullivan,,304
+Lincoln,Governmental Complex,Supreme Court,2,Dawn H. Beam,,118
+Lincoln,Governmental Complex,Supreme Court,2,David P. Sullivan,,150
+Lincoln,Halbert Heights,Supreme Court,2,Dawn H. Beam,,403
+Lincoln,Halbert Heights,Supreme Court,2,David P. Sullivan,,454
+Lincoln,Halbert Retreat,Supreme Court,2,Dawn H. Beam,,207
+Lincoln,Halbert Retreat,Supreme Court,2,David P. Sullivan,,358
+Lincoln,High School,Supreme Court,2,Dawn H. Beam,,144
+Lincoln,High School,Supreme Court,2,David P. Sullivan,,197
+Lincoln,Johnson,Supreme Court,2,Dawn H. Beam,,194
+Lincoln,Johnson,Supreme Court,2,David P. Sullivan,,284
+Lincoln,Johnson Grove,Supreme Court,2,Dawn H. Beam,,179
+Lincoln,Johnson Grove,Supreme Court,2,David P. Sullivan,,352
+Lincoln,Lamprey,Supreme Court,2,Dawn H. Beam,,126
+Lincoln,Lamprey,Supreme Court,2,David P. Sullivan,,202
+Lincoln,Little Bahela,Supreme Court,2,Dawn H. Beam,,62
+Lincoln,Little Bahela,Supreme Court,2,David P. Sullivan,,129
+Lincoln,Lloyd Star,Supreme Court,2,Dawn H. Beam,,290
+Lincoln,Lloyd Star,Supreme Court,2,David P. Sullivan,,594
+Lincoln,Monongomery,Supreme Court,2,Dawn H. Beam,,110
+Lincoln,Monongomery,Supreme Court,2,David P. Sullivan,,198
+Lincoln,New Sight,Supreme Court,2,Dawn H. Beam,,405
+Lincoln,New Sight,Supreme Court,2,David P. Sullivan,,571
+Lincoln,Winfield,Supreme Court,2,Dawn H. Beam,,71
+Lincoln,Winfield,Supreme Court,2,David P. Sullivan,,144
+Lincoln,Old Brook,Supreme Court,2,Dawn H. Beam,,298
+Lincoln,Old Brook,Supreme Court,2,David P. Sullivan,,483
+Lincoln,Old Red Star,Supreme Court,2,Dawn H. Beam,,174
+Lincoln,Old Red Star,Supreme Court,2,David P. Sullivan,,264
+Lincoln,Pearl Haven,Supreme Court,2,Dawn H. Beam,,199
+Lincoln,Pearl Haven,Supreme Court,2,David P. Sullivan,,201
+Lincoln,Ruth,Supreme Court,2,Dawn H. Beam,,186
+Lincoln,Ruth,Supreme Court,2,David P. Sullivan,,357
+Lincoln,Vaughn,Supreme Court,2,Dawn H. Beam,,134
+Lincoln,Vaughn,Supreme Court,2,David P. Sullivan,,232
+Lincoln,West Lincoln,Supreme Court,2,Dawn H. Beam,,227
+Lincoln,West Lincoln,Supreme Court,2,David P. Sullivan,,523
+Lincoln,Zeus,Supreme Court,2,Dawn H. Beam,,227
+Lincoln,Zeus,Supreme Court,2,David P. Sullivan,,432
+Lincoln,Countywide Totals,Supreme Court,2,Dawn H. Beam,,5349
+Lincoln,Countywide Totals,Supreme Court,2,David P. Sullivan,,8708
+Lincoln,Alexander,Election Commissioner,1,Verna Stine Byrd,DEM,353
+Lincoln,Alexander,Election Commissioner,1,Rockie B. Netherland,REP,15
+Lincoln,High School,Election Commissioner,1,Verna Stine Byrd,DEM,361
+Lincoln,High School,Election Commissioner,1,Rockie B. Netherland,REP,74
+Lincoln,Countywide Totals,Election Commissioner,1,Verna Stine Byrd,DEM,1638
+Lincoln,Countywide Totals,Election Commissioner,1,Rockie B. Netherland,REP,984
+Lincoln,Bogus Chito,Election Commissioner,3,Missy Watts Rhodus,REP,269
+Lincoln,Enterprise,Election Commissioner,3,Missy Watts Rhodus,REP,1010
+Lincoln,Countywide Totals,Election Commissioner,3,Missy Watts Rhodus,REP,3021
+Lincoln,Caseyville,Election Commissioner,5,Jane S. James,REP,375
+Lincoln,Lamprey,Election Commissioner,5,Jane S. James,REP,314
+Lincoln,Lloyd Star,Election Commissioner,5,Jane S. James,REP,890
+Lincoln,Countywide Totals,Election Commissioner,5,Jane S. James,REP,3050
+Lincoln,East Lincoln,School District,Ed-1,Diane Crotwell,NPA,189
+Lincoln,Johnson,School District,Ed-1,Diane Crotwell,NPA,689
+Lincoln,Ruth,School District,Ed-1,Diane Crotwell,NPA,538
+Lincoln,Countywide Totals,School District,Ed-1,Diane Crotwell,NPA,1470
+Lincoln,Governmental Complex,School District,Ed-2,Billy Vaughn,NPA,X
+Lincoln,Halbert Heights,School District,Ed-2,Billy Vaughn,NPA,X
+Lincoln,Halbert Retreat,School District,Ed-2,Billy Vaughn,NPA,164
+Lincoln,High School,School District,Ed-2,Billy Vaughn,NPA,X
+Lincoln,Johnson Grove,School District,Ed-2,Billy Vaughn,NPA,X
+Lincoln,Lamprey,School District,Ed-2,Billy Vaughn,NPA,24
+Lincoln,Little Bahela,School District,Ed-2,Billy Vaughn,NPA,172
+Lincoln,Lloyd Star,School District,Ed-2,Billy Vaughn,NPA,281
+Lincoln,Monongomery,School District,Ed-2,Billy Vaughn,NPA,177
+Lincoln,New Sight,School District,Ed-2,Billy Vaughn,NPA,195
+Lincoln,Countywide Totals,School District,Ed-2,Billy Vaughn,NPA,1467

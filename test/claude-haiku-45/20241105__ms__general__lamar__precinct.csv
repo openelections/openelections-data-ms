@@ -1,0 +1,499 @@
+county,precinct,office,district,candidate,party,votes
+Lamar,Lamar Park,President,,Kamala D. Harris,DEM,612
+Lamar,Lamar Park,President,,Chase Oliver,LIB,4
+Lamar,Lamar Park,President,,Jill Stein,GRN,4
+Lamar,Lamar Park,President,,Randall Terry,CON,1
+Lamar,Lamar Park,President,,Donald J. Trump,REP,512
+Lamar,Lamar Park,President,,Shiva Ayyadurai,IND,2
+Lamar,Lamar Park,President,,Claudia De la Cruz,IND,1
+Lamar,Lamar Park,President,,Robert F. Kennedy Jr.,IND,11
+Lamar,Lamar Park,President,,Peter Sonski,IND,4
+Lamar,Lamar Park,U.S. Senate,,Ty Pinkins,DEM,587
+Lamar,Lamar Park,U.S. Senate,,Roger F. Wicker,REP,551
+Lamar,Lamar Park,U.S. House,4,Mike Ezell,REP,578
+Lamar,Lamar Park,U.S. House,4,Craig Elliot Raybon,DEM,559
+Lamar,Lamar Park,Supreme Court,2,Dawn H. Beam,,676
+Lamar,Lamar Park,Supreme Court,2,David P. Sullivan,,389
+Lamar,Lamar Park,Court Of Appeals,5,Ian Baker,,355
+Lamar,Lamar Park,Court Of Appeals,5,Jennifer T. Schloegel,,352
+Lamar,Lamar Park,Court Of Appeals,5,Amy Lassiter St. Pe',,335
+Lamar,Lamar Park,Election Commissioner,1,Misty Hankins Hood,IND,1020
+Lamar,Lamar Park,Election Commissioner,3,Melissa Breazeale Love,REP,X
+Lamar,Lamar Park,Election Commissioner,3,Christie C. Saulters,REP,X
+Lamar,Lamar Park,Election Commissioner,5,Shirley Haddox,IND,X
+Lamar,Oakvola,President,,Kamala D. Harris,DEM,150
+Lamar,Oakvola,President,,Chase Oliver,LIB,4
+Lamar,Oakvola,President,,Jill Stein,GRN,0
+Lamar,Oakvola,President,,Randall Terry,CON,1
+Lamar,Oakvola,President,,Donald J. Trump,REP,406
+Lamar,Oakvola,President,,Shiva Ayyadurai,IND,0
+Lamar,Oakvola,President,,Claudia De la Cruz,IND,1
+Lamar,Oakvola,President,,Robert F. Kennedy Jr.,IND,2
+Lamar,Oakvola,President,,Peter Sonski,IND,0
+Lamar,Oakvola,U.S. Senate,,Ty Pinkins,DEM,140
+Lamar,Oakvola,U.S. Senate,,Roger F. Wicker,REP,417
+Lamar,Oakvola,U.S. House,4,Mike Ezell,REP,434
+Lamar,Oakvola,U.S. House,4,Craig Elliot Raybon,DEM,129
+Lamar,Oakvola,Supreme Court,2,Dawn H. Beam,,316
+Lamar,Oakvola,Supreme Court,2,David P. Sullivan,,199
+Lamar,Oakvola,Court Of Appeals,5,Ian Baker,,205
+Lamar,Oakvola,Court Of Appeals,5,Jennifer T. Schloegel,,142
+Lamar,Oakvola,Court Of Appeals,5,Amy Lassiter St. Pe',,164
+Lamar,Oakvola,Election Commissioner,1,Misty Hankins Hood,IND,502
+Lamar,Oakvola,Election Commissioner,3,Melissa Breazeale Love,REP,X
+Lamar,Oakvola,Election Commissioner,3,Christie C. Saulters,REP,X
+Lamar,Oakvola,Election Commissioner,5,Shirley Haddox,IND,X
+Lamar,Rustburg,President,,Kamala D. Harris,DEM,603
+Lamar,Rustburg,President,,Chase Oliver,LIB,5
+Lamar,Rustburg,President,,Jill Stein,GRN,5
+Lamar,Rustburg,President,,Randall Terry,CON,3
+Lamar,Rustburg,President,,Donald J. Trump,REP,1122
+Lamar,Rustburg,President,,Shiva Ayyadurai,IND,0
+Lamar,Rustburg,President,,Claudia De la Cruz,IND,2
+Lamar,Rustburg,President,,Robert F. Kennedy Jr.,IND,11
+Lamar,Rustburg,President,,Peter Sonski,IND,1
+Lamar,Rustburg,U.S. Senate,,Ty Pinkins,DEM,599
+Lamar,Rustburg,U.S. Senate,,Roger F. Wicker,REP,1143
+Lamar,Rustburg,U.S. House,4,Mike Ezell,REP,1181
+Lamar,Rustburg,U.S. House,4,Craig Elliot Raybon,DEM,559
+Lamar,Rustburg,Supreme Court,2,Dawn H. Beam,,1103
+Lamar,Rustburg,Supreme Court,2,David P. Sullivan,,519
+Lamar,Rustburg,Court Of Appeals,5,Ian Baker,,600
+Lamar,Rustburg,Court Of Appeals,5,Jennifer T. Schloegel,,417
+Lamar,Rustburg,Court Of Appeals,5,Amy Lassiter St. Pe',,592
+Lamar,Rustburg,Election Commissioner,1,Misty Hankins Hood,IND,1580
+Lamar,Rustburg,Election Commissioner,3,Melissa Breazeale Love,REP,X
+Lamar,Rustburg,Election Commissioner,3,Christie C. Saulters,REP,X
+Lamar,Rustburg,Election Commissioner,5,Shirley Haddox,IND,X
+Lamar,Northeast Lamar,President,,Kamala D. Harris,DEM,537
+Lamar,Northeast Lamar,President,,Chase Oliver,LIB,2
+Lamar,Northeast Lamar,President,,Jill Stein,GRN,3
+Lamar,Northeast Lamar,President,,Randall Terry,CON,1
+Lamar,Northeast Lamar,President,,Donald J. Trump,REP,490
+Lamar,Northeast Lamar,President,,Shiva Ayyadurai,IND,0
+Lamar,Northeast Lamar,President,,Claudia De la Cruz,IND,0
+Lamar,Northeast Lamar,President,,Robert F. Kennedy Jr.,IND,6
+Lamar,Northeast Lamar,President,,Peter Sonski,IND,1
+Lamar,Northeast Lamar,U.S. Senate,,Ty Pinkins,DEM,519
+Lamar,Northeast Lamar,U.S. Senate,,Roger F. Wicker,REP,506
+Lamar,Northeast Lamar,U.S. House,4,Mike Ezell,REP,536
+Lamar,Northeast Lamar,U.S. House,4,Craig Elliot Raybon,DEM,486
+Lamar,Northeast Lamar,Supreme Court,2,Dawn H. Beam,,627
+Lamar,Northeast Lamar,Supreme Court,2,David P. Sullivan,,306
+Lamar,Northeast Lamar,Court Of Appeals,5,Ian Baker,,283
+Lamar,Northeast Lamar,Court Of Appeals,5,Jennifer T. Schloegel,,297
+Lamar,Northeast Lamar,Court Of Appeals,5,Amy Lassiter St. Pe',,352
+Lamar,Northeast Lamar,Election Commissioner,1,Misty Hankins Hood,IND,898
+Lamar,Northeast Lamar,Election Commissioner,3,Melissa Breazeale Love,REP,X
+Lamar,Northeast Lamar,Election Commissioner,3,Christie C. Saulters,REP,X
+Lamar,Northeast Lamar,Election Commissioner,5,Shirley Haddox,IND,X
+Lamar,Lumberton,President,,Kamala D. Harris,DEM,482
+Lamar,Lumberton,President,,Chase Oliver,LIB,0
+Lamar,Lumberton,President,,Jill Stein,GRN,3
+Lamar,Lumberton,President,,Randall Terry,CON,1
+Lamar,Lumberton,President,,Donald J. Trump,REP,539
+Lamar,Lumberton,President,,Shiva Ayyadurai,IND,1
+Lamar,Lumberton,President,,Claudia De la Cruz,IND,4
+Lamar,Lumberton,President,,Robert F. Kennedy Jr.,IND,5
+Lamar,Lumberton,President,,Peter Sonski,IND,0
+Lamar,Lumberton,U.S. Senate,,Ty Pinkins,DEM,472
+Lamar,Lumberton,U.S. Senate,,Roger F. Wicker,REP,545
+Lamar,Lumberton,U.S. House,4,Mike Ezell,REP,561
+Lamar,Lumberton,U.S. House,4,Craig Elliot Raybon,DEM,457
+Lamar,Lumberton,Supreme Court,2,Dawn H. Beam,,588
+Lamar,Lumberton,Supreme Court,2,David P. Sullivan,,329
+Lamar,Lumberton,Court Of Appeals,5,Ian Baker,,410
+Lamar,Lumberton,Court Of Appeals,5,Jennifer T. Schloegel,,291
+Lamar,Lumberton,Court Of Appeals,5,Amy Lassiter St. Pe',,220
+Lamar,Lumberton,Election Commissioner,1,Misty Hankins Hood,IND,X
+Lamar,Lumberton,Election Commissioner,3,Melissa Breazeale Love,REP,X
+Lamar,Lumberton,Election Commissioner,3,Christie C. Saulters,REP,X
+Lamar,Lumberton,Election Commissioner,5,Shirley Haddox,IND,X
+Lamar,South Purvis,President,,Kamala D. Harris,DEM,130
+Lamar,South Purvis,President,,Chase Oliver,LIB,6
+Lamar,South Purvis,President,,Jill Stein,GRN,1
+Lamar,South Purvis,President,,Randall Terry,CON,3
+Lamar,South Purvis,President,,Donald J. Trump,REP,1521
+Lamar,South Purvis,President,,Shiva Ayyadurai,IND,1
+Lamar,South Purvis,President,,Claudia De la Cruz,IND,1
+Lamar,South Purvis,President,,Robert F. Kennedy Jr.,IND,6
+Lamar,South Purvis,President,,Peter Sonski,IND,1
+Lamar,South Purvis,U.S. Senate,,Ty Pinkins,DEM,143
+Lamar,South Purvis,U.S. Senate,,Roger F. Wicker,REP,1502
+Lamar,South Purvis,U.S. House,4,Mike Ezell,REP,1532
+Lamar,South Purvis,U.S. House,4,Craig Elliot Raybon,DEM,120
+Lamar,South Purvis,Supreme Court,2,Dawn H. Beam,,953
+Lamar,South Purvis,Supreme Court,2,David P. Sullivan,,602
+Lamar,South Purvis,Court Of Appeals,5,Ian Baker,,858
+Lamar,South Purvis,Court Of Appeals,5,Jennifer T. Schloegel,,325
+Lamar,South Purvis,Court Of Appeals,5,Amy Lassiter St. Pe',,346
+Lamar,South Purvis,Election Commissioner,1,Misty Hankins Hood,IND,X
+Lamar,South Purvis,Election Commissioner,3,Melissa Breazeale Love,REP,X
+Lamar,South Purvis,Election Commissioner,3,Christie C. Saulters,REP,X
+Lamar,South Purvis,Election Commissioner,5,Shirley Haddox,IND,X
+Lamar,Yawn,President,,Kamala D. Harris,DEM,11
+Lamar,Yawn,President,,Chase Oliver,LIB,0
+Lamar,Yawn,President,,Jill Stein,GRN,0
+Lamar,Yawn,President,,Randall Terry,CON,0
+Lamar,Yawn,President,,Donald J. Trump,REP,263
+Lamar,Yawn,President,,Shiva Ayyadurai,IND,0
+Lamar,Yawn,President,,Claudia De la Cruz,IND,1
+Lamar,Yawn,President,,Robert F. Kennedy Jr.,IND,0
+Lamar,Yawn,President,,Peter Sonski,IND,0
+Lamar,Yawn,U.S. Senate,,Ty Pinkins,DEM,14
+Lamar,Yawn,U.S. Senate,,Roger F. Wicker,REP,254
+Lamar,Yawn,U.S. House,4,Mike Ezell,REP,257
+Lamar,Yawn,U.S. House,4,Craig Elliot Raybon,DEM,11
+Lamar,Yawn,Supreme Court,2,Dawn H. Beam,,145
+Lamar,Yawn,Supreme Court,2,David P. Sullivan,,107
+Lamar,Yawn,Court Of Appeals,5,Ian Baker,,159
+Lamar,Yawn,Court Of Appeals,5,Jennifer T. Schloegel,,47
+Lamar,Yawn,Court Of Appeals,5,Amy Lassiter St. Pe',,47
+Lamar,Yawn,Election Commissioner,1,Misty Hankins Hood,IND,X
+Lamar,Yawn,Election Commissioner,3,Melissa Breazeale Love,REP,X
+Lamar,Yawn,Election Commissioner,3,Christie C. Saulters,REP,X
+Lamar,Yawn,Election Commissioner,5,Shirley Haddox,IND,X
+Lamar,Wesley Manor,President,,Kamala D. Harris,DEM,491
+Lamar,Wesley Manor,President,,Chase Oliver,LIB,4
+Lamar,Wesley Manor,President,,Jill Stein,GRN,3
+Lamar,Wesley Manor,President,,Randall Terry,CON,0
+Lamar,Wesley Manor,President,,Donald J. Trump,REP,393
+Lamar,Wesley Manor,President,,Shiva Ayyadurai,IND,1
+Lamar,Wesley Manor,President,,Claudia De la Cruz,IND,4
+Lamar,Wesley Manor,President,,Robert F. Kennedy Jr.,IND,8
+Lamar,Wesley Manor,President,,Peter Sonski,IND,8
+Lamar,Wesley Manor,U.S. Senate,,Ty Pinkins,DEM,501
+Lamar,Wesley Manor,U.S. Senate,,Roger F. Wicker,REP,397
+Lamar,Wesley Manor,U.S. House,4,Mike Ezell,REP,416
+Lamar,Wesley Manor,U.S. House,4,Craig Elliot Raybon,DEM,481
+Lamar,Wesley Manor,Supreme Court,2,Dawn H. Beam,,538
+Lamar,Wesley Manor,Supreme Court,2,David P. Sullivan,,270
+Lamar,Wesley Manor,Court Of Appeals,5,Ian Baker,,260
+Lamar,Wesley Manor,Court Of Appeals,5,Jennifer T. Schloegel,,269
+Lamar,Wesley Manor,Court Of Appeals,5,Amy Lassiter St. Pe',,276
+Lamar,Wesley Manor,Election Commissioner,1,Misty Hankins Hood,IND,X
+Lamar,Wesley Manor,Election Commissioner,3,Melissa Breazeale Love,REP,X
+Lamar,Wesley Manor,Election Commissioner,3,Christie C. Saulters,REP,X
+Lamar,Wesley Manor,Election Commissioner,5,Shirley Haddox,IND,X
+Lamar,Pine Grove,President,,Kamala D. Harris,DEM,35
+Lamar,Pine Grove,President,,Chase Oliver,LIB,0
+Lamar,Pine Grove,President,,Jill Stein,GRN,0
+Lamar,Pine Grove,President,,Randall Terry,CON,0
+Lamar,Pine Grove,President,,Donald J. Trump,REP,546
+Lamar,Pine Grove,President,,Shiva Ayyadurai,IND,0
+Lamar,Pine Grove,President,,Claudia De la Cruz,IND,0
+Lamar,Pine Grove,President,,Robert F. Kennedy Jr.,IND,1
+Lamar,Pine Grove,President,,Peter Sonski,IND,0
+Lamar,Pine Grove,U.S. Senate,,Ty Pinkins,DEM,34
+Lamar,Pine Grove,U.S. Senate,,Roger F. Wicker,REP,541
+Lamar,Pine Grove,U.S. House,4,Mike Ezell,REP,545
+Lamar,Pine Grove,U.S. House,4,Craig Elliot Raybon,DEM,33
+Lamar,Pine Grove,Supreme Court,2,Dawn H. Beam,,337
+Lamar,Pine Grove,Supreme Court,2,David P. Sullivan,,209
+Lamar,Pine Grove,Court Of Appeals,5,Ian Baker,,328
+Lamar,Pine Grove,Court Of Appeals,5,Jennifer T. Schloegel,,99
+Lamar,Pine Grove,Court Of Appeals,5,Amy Lassiter St. Pe',,112
+Lamar,Pine Grove,Election Commissioner,1,Misty Hankins Hood,IND,X
+Lamar,Pine Grove,Election Commissioner,3,Melissa Breazeale Love,REP,421
+Lamar,Pine Grove,Election Commissioner,3,Christie C. Saulters,REP,143
+Lamar,Pine Grove,Election Commissioner,5,Shirley Haddox,IND,X
+Lamar,Barkerville,President,,Kamala D. Harris,DEM,22
+Lamar,Barkerville,President,,Chase Oliver,LIB,0
+Lamar,Barkerville,President,,Jill Stein,GRN,0
+Lamar,Barkerville,President,,Randall Terry,CON,0
+Lamar,Barkerville,President,,Donald J. Trump,REP,383
+Lamar,Barkerville,President,,Shiva Ayyadurai,IND,0
+Lamar,Barkerville,President,,Claudia De la Cruz,IND,0
+Lamar,Barkerville,President,,Robert F. Kennedy Jr.,IND,1
+Lamar,Barkerville,President,,Peter Sonski,IND,1
+Lamar,Barkerville,U.S. Senate,,Ty Pinkins,DEM,29
+Lamar,Barkerville,U.S. Senate,,Roger F. Wicker,REP,378
+Lamar,Barkerville,U.S. House,4,Mike Ezell,REP,378
+Lamar,Barkerville,U.S. House,4,Craig Elliot Raybon,DEM,30
+Lamar,Barkerville,Supreme Court,2,Dawn H. Beam,,215
+Lamar,Barkerville,Supreme Court,2,David P. Sullivan,,166
+Lamar,Barkerville,Court Of Appeals,5,Ian Baker,,206
+Lamar,Barkerville,Court Of Appeals,5,Jennifer T. Schloegel,,100
+Lamar,Barkerville,Court Of Appeals,5,Amy Lassiter St. Pe',,72
+Lamar,Barkerville,Election Commissioner,1,Misty Hankins Hood,IND,X
+Lamar,Barkerville,Election Commissioner,3,Melissa Breazeale Love,REP,305
+Lamar,Barkerville,Election Commissioner,3,Christie C. Saulters,REP,91
+Lamar,Barkerville,Election Commissioner,5,Shirley Haddox,IND,X
+Lamar,Greenville,President,,Kamala D. Harris,DEM,35
+Lamar,Greenville,President,,Chase Oliver,LIB,0
+Lamar,Greenville,President,,Jill Stein,GRN,0
+Lamar,Greenville,President,,Randall Terry,CON,0
+Lamar,Greenville,President,,Donald J. Trump,REP,816
+Lamar,Greenville,President,,Shiva Ayyadurai,IND,0
+Lamar,Greenville,President,,Claudia De la Cruz,IND,0
+Lamar,Greenville,President,,Robert F. Kennedy Jr.,IND,2
+Lamar,Greenville,President,,Peter Sonski,IND,2
+Lamar,Greenville,U.S. Senate,,Ty Pinkins,DEM,40
+Lamar,Greenville,U.S. Senate,,Roger F. Wicker,REP,806
+Lamar,Greenville,U.S. House,4,Mike Ezell,REP,810
+Lamar,Greenville,U.S. House,4,Craig Elliot Raybon,DEM,39
+Lamar,Greenville,Supreme Court,2,Dawn H. Beam,,513
+Lamar,Greenville,Supreme Court,2,David P. Sullivan,,285
+Lamar,Greenville,Court Of Appeals,5,Ian Baker,,419
+Lamar,Greenville,Court Of Appeals,5,Jennifer T. Schloegel,,171
+Lamar,Greenville,Court Of Appeals,5,Amy Lassiter St. Pe',,195
+Lamar,Greenville,Election Commissioner,1,Misty Hankins Hood,IND,X
+Lamar,Greenville,Election Commissioner,3,Melissa Breazeale Love,REP,597
+Lamar,Greenville,Election Commissioner,3,Christie C. Saulters,REP,231
+Lamar,Greenville,Election Commissioner,5,Shirley Haddox,IND,X
+Lamar,Purvis,President,,Kamala D. Harris,DEM,331
+Lamar,Purvis,President,,Chase Oliver,LIB,6
+Lamar,Purvis,President,,Jill Stein,GRN,1
+Lamar,Purvis,President,,Randall Terry,CON,3
+Lamar,Purvis,President,,Donald J. Trump,REP,1608
+Lamar,Purvis,President,,Shiva Ayyadurai,IND,1
+Lamar,Purvis,President,,Claudia De la Cruz,IND,4
+Lamar,Purvis,President,,Robert F. Kennedy Jr.,IND,8
+Lamar,Purvis,President,,Peter Sonski,IND,0
+Lamar,Purvis,U.S. Senate,,Ty Pinkins,DEM,321
+Lamar,Purvis,U.S. Senate,,Roger F. Wicker,REP,1616
+Lamar,Purvis,U.S. House,4,Mike Ezell,REP,1646
+Lamar,Purvis,U.S. House,4,Craig Elliot Raybon,DEM,301
+Lamar,Purvis,Supreme Court,2,Dawn H. Beam,,1188
+Lamar,Purvis,Supreme Court,2,David P. Sullivan,,642
+Lamar,Purvis,Court Of Appeals,5,Ian Baker,,967
+Lamar,Purvis,Court Of Appeals,5,Jennifer T. Schloegel,,404
+Lamar,Purvis,Court Of Appeals,5,Amy Lassiter St. Pe',,447
+Lamar,Purvis,Election Commissioner,1,Misty Hankins Hood,IND,X
+Lamar,Purvis,Election Commissioner,3,Melissa Breazeale Love,REP,1390
+Lamar,Purvis,Election Commissioner,3,Christie C. Saulters,REP,489
+Lamar,Purvis,Election Commissioner,5,Shirley Haddox,IND,X
+Lamar,Arnold Line,President,,Kamala D. Harris,DEM,457
+Lamar,Arnold Line,President,,Chase Oliver,LIB,5
+Lamar,Arnold Line,President,,Jill Stein,GRN,3
+Lamar,Arnold Line,President,,Randall Terry,CON,1
+Lamar,Arnold Line,President,,Donald J. Trump,REP,591
+Lamar,Arnold Line,President,,Shiva Ayyadurai,IND,1
+Lamar,Arnold Line,President,,Claudia De la Cruz,IND,0
+Lamar,Arnold Line,President,,Robert F. Kennedy Jr.,IND,4
+Lamar,Arnold Line,President,,Peter Sonski,IND,3
+Lamar,Arnold Line,U.S. Senate,,Ty Pinkins,DEM,451
+Lamar,Arnold Line,U.S. Senate,,Roger F. Wicker,REP,595
+Lamar,Arnold Line,U.S. House,4,Mike Ezell,REP,637
+Lamar,Arnold Line,U.S. House,4,Craig Elliot Raybon,DEM,410
+Lamar,Arnold Line,Supreme Court,2,Dawn H. Beam,,625
+Lamar,Arnold Line,Supreme Court,2,David P. Sullivan,,332
+Lamar,Arnold Line,Court Of Appeals,5,Ian Baker,,339
+Lamar,Arnold Line,Court Of Appeals,5,Jennifer T. Schloegel,,301
+Lamar,Arnold Line,Court Of Appeals,5,Amy Lassiter St. Pe',,303
+Lamar,Arnold Line,Election Commissioner,1,Misty Hankins Hood,IND,X
+Lamar,Arnold Line,Election Commissioner,3,Melissa Breazeale Love,REP,622
+Lamar,Arnold Line,Election Commissioner,3,Christie C. Saulters,REP,288
+Lamar,Arnold Line,Election Commissioner,5,Shirley Haddox,IND,X
+Lamar,Mill Creek,President,,Kamala D. Harris,DEM,98
+Lamar,Mill Creek,President,,Chase Oliver,LIB,0
+Lamar,Mill Creek,President,,Jill Stein,GRN,0
+Lamar,Mill Creek,President,,Randall Terry,CON,2
+Lamar,Mill Creek,President,,Donald J. Trump,REP,395
+Lamar,Mill Creek,President,,Shiva Ayyadurai,IND,0
+Lamar,Mill Creek,President,,Claudia De la Cruz,IND,0
+Lamar,Mill Creek,President,,Robert F. Kennedy Jr.,IND,4
+Lamar,Mill Creek,President,,Peter Sonski,IND,1
+Lamar,Mill Creek,U.S. Senate,,Ty Pinkins,DEM,98
+Lamar,Mill Creek,U.S. Senate,,Roger F. Wicker,REP,399
+Lamar,Mill Creek,U.S. House,4,Mike Ezell,REP,405
+Lamar,Mill Creek,U.S. House,4,Craig Elliot Raybon,DEM,90
+Lamar,Mill Creek,Supreme Court,2,Dawn H. Beam,,311
+Lamar,Mill Creek,Supreme Court,2,David P. Sullivan,,151
+Lamar,Mill Creek,Court Of Appeals,5,Ian Baker,,191
+Lamar,Mill Creek,Court Of Appeals,5,Jennifer T. Schloegel,,100
+Lamar,Mill Creek,Court Of Appeals,5,Amy Lassiter St. Pe',,155
+Lamar,Mill Creek,Election Commissioner,1,Misty Hankins Hood,IND,X
+Lamar,Mill Creek,Election Commissioner,3,Melissa Breazeale Love,REP,317
+Lamar,Mill Creek,Election Commissioner,3,Christie C. Saulters,REP,137
+Lamar,Mill Creek,Election Commissioner,5,Shirley Haddox,IND,X
+Lamar,Midway,President,,Kamala D. Harris,DEM,230
+Lamar,Midway,President,,Chase Oliver,LIB,3
+Lamar,Midway,President,,Jill Stein,GRN,2
+Lamar,Midway,President,,Randall Terry,CON,2
+Lamar,Midway,President,,Donald J. Trump,REP,1304
+Lamar,Midway,President,,Shiva Ayyadurai,IND,1
+Lamar,Midway,President,,Claudia De la Cruz,IND,0
+Lamar,Midway,President,,Robert F. Kennedy Jr.,IND,6
+Lamar,Midway,President,,Peter Sonski,IND,2
+Lamar,Midway,U.S. Senate,,Ty Pinkins,DEM,219
+Lamar,Midway,U.S. Senate,,Roger F. Wicker,REP,1320
+Lamar,Midway,U.S. House,4,Mike Ezell,REP,1337
+Lamar,Midway,U.S. House,4,Craig Elliot Raybon,DEM,203
+Lamar,Midway,Supreme Court,2,Dawn H. Beam,,1020
+Lamar,Midway,Supreme Court,2,David P. Sullivan,,429
+Lamar,Midway,Court Of Appeals,5,Ian Baker,,625
+Lamar,Midway,Court Of Appeals,5,Jennifer T. Schloegel,,349
+Lamar,Midway,Court Of Appeals,5,Amy Lassiter St. Pe',,452
+Lamar,Midway,Election Commissioner,1,Misty Hankins Hood,IND,X
+Lamar,Midway,Election Commissioner,3,Melissa Breazeale Love,REP,256
+Lamar,Midway,Election Commissioner,3,Christie C. Saulters,REP,117
+Lamar,Midway,Election Commissioner,5,Shirley Haddox,IND,X
+Lamar,Oak Grove,President,,Kamala D. Harris,DEM,448
+Lamar,Oak Grove,President,,Chase Oliver,LIB,4
+Lamar,Oak Grove,President,,Jill Stein,GRN,4
+Lamar,Oak Grove,President,,Randall Terry,CON,3
+Lamar,Oak Grove,President,,Donald J. Trump,REP,1146
+Lamar,Oak Grove,President,,Shiva Ayyadurai,IND,0
+Lamar,Oak Grove,President,,Claudia De la Cruz,IND,0
+Lamar,Oak Grove,President,,Robert F. Kennedy Jr.,IND,13
+Lamar,Oak Grove,President,,Peter Sonski,IND,0
+Lamar,Oak Grove,U.S. Senate,,Ty Pinkins,DEM,454
+Lamar,Oak Grove,U.S. Senate,,Roger F. Wicker,REP,1159
+Lamar,Oak Grove,U.S. House,4,Mike Ezell,REP,1188
+Lamar,Oak Grove,U.S. House,4,Craig Elliot Raybon,DEM,419
+Lamar,Oak Grove,Supreme Court,2,Dawn H. Beam,,1002
+Lamar,Oak Grove,Supreme Court,2,David P. Sullivan,,482
+Lamar,Oak Grove,Court Of Appeals,5,Ian Baker,,567
+Lamar,Oak Grove,Court Of Appeals,5,Jennifer T. Schloegel,,384
+Lamar,Oak Grove,Court Of Appeals,5,Amy Lassiter St. Pe',,517
+Lamar,Oak Grove,Election Commissioner,1,Misty Hankins Hood,IND,X
+Lamar,Oak Grove,Election Commissioner,3,Melissa Breazeale Love,REP,X
+Lamar,Oak Grove,Election Commissioner,3,Christie C. Saulters,REP,X
+Lamar,Oak Grove,Election Commissioner,5,Shirley Haddox,IND,X
+Lamar,Lake Serene,President,,Kamala D. Harris,DEM,556
+Lamar,Lake Serene,President,,Chase Oliver,LIB,7
+Lamar,Lake Serene,President,,Jill Stein,GRN,4
+Lamar,Lake Serene,President,,Randall Terry,CON,7
+Lamar,Lake Serene,President,,Donald J. Trump,REP,1908
+Lamar,Lake Serene,President,,Shiva Ayyadurai,IND,0
+Lamar,Lake Serene,President,,Claudia De la Cruz,IND,4
+Lamar,Lake Serene,President,,Robert F. Kennedy Jr.,IND,10
+Lamar,Lake Serene,President,,Peter Sonski,IND,6
+Lamar,Lake Serene,U.S. Senate,,Ty Pinkins,DEM,509
+Lamar,Lake Serene,U.S. Senate,,Roger F. Wicker,REP,1953
+Lamar,Lake Serene,U.S. House,4,Mike Ezell,REP,1975
+Lamar,Lake Serene,U.S. House,4,Craig Elliot Raybon,DEM,489
+Lamar,Lake Serene,Supreme Court,2,Dawn H. Beam,,1685
+Lamar,Lake Serene,Supreme Court,2,David P. Sullivan,,634
+Lamar,Lake Serene,Court Of Appeals,5,Ian Baker,,709
+Lamar,Lake Serene,Court Of Appeals,5,Jennifer T. Schloegel,,535
+Lamar,Lake Serene,Court Of Appeals,5,Amy Lassiter St. Pe',,1031
+Lamar,Lake Serene,Election Commissioner,1,Misty Hankins Hood,IND,X
+Lamar,Lake Serene,Election Commissioner,3,Melissa Breazeale Love,REP,X
+Lamar,Lake Serene,Election Commissioner,3,Christie C. Saulters,REP,X
+Lamar,Lake Serene,Election Commissioner,5,Shirley Haddox,IND,X
+Lamar,Kingmill,President,,Kamala D. Harris,DEM,123
+Lamar,Kingmill,President,,Chase Oliver,LIB,1
+Lamar,Kingmill,President,,Jill Stein,GRN,0
+Lamar,Kingmill,President,,Randall Terry,CON,0
+Lamar,Kingmill,President,,Donald J. Trump,REP,422
+Lamar,Kingmill,President,,Shiva Ayyadurai,IND,0
+Lamar,Kingmill,President,,Claudia De la Cruz,IND,0
+Lamar,Kingmill,President,,Robert F. Kennedy Jr.,IND,1
+Lamar,Kingmill,President,,Peter Sonski,IND,0
+Lamar,Kingmill,U.S. Senate,,Ty Pinkins,DEM,111
+Lamar,Kingmill,U.S. Senate,,Roger F. Wicker,REP,436
+Lamar,Kingmill,U.S. House,4,Mike Ezell,REP,439
+Lamar,Kingmill,U.S. House,4,Craig Elliot Raybon,DEM,103
+Lamar,Kingmill,Supreme Court,2,Dawn H. Beam,,337
+Lamar,Kingmill,Supreme Court,2,David P. Sullivan,,166
+Lamar,Kingmill,Court Of Appeals,5,Ian Baker,,178
+Lamar,Kingmill,Court Of Appeals,5,Jennifer T. Schloegel,,100
+Lamar,Kingmill,Court Of Appeals,5,Amy Lassiter St. Pe',,209
+Lamar,Kingmill,Election Commissioner,1,Misty Hankins Hood,IND,X
+Lamar,Kingmill,Election Commissioner,3,Melissa Breazeale Love,REP,X
+Lamar,Kingmill,Election Commissioner,3,Christie C. Saulters,REP,X
+Lamar,Kingmill,Election Commissioner,5,Shirley Haddox,IND,X
+Lamar,Canebrake,President,,Kamala D. Harris,DEM,127
+Lamar,Canebrake,President,,Chase Oliver,LIB,3
+Lamar,Canebrake,President,,Jill Stein,GRN,3
+Lamar,Canebrake,President,,Randall Terry,CON,0
+Lamar,Canebrake,President,,Donald J. Trump,REP,1047
+Lamar,Canebrake,President,,Shiva Ayyadurai,IND,1
+Lamar,Canebrake,President,,Claudia De la Cruz,IND,0
+Lamar,Canebrake,President,,Robert F. Kennedy Jr.,IND,4
+Lamar,Canebrake,President,,Peter Sonski,IND,0
+Lamar,Canebrake,U.S. Senate,,Ty Pinkins,DEM,105
+Lamar,Canebrake,U.S. Senate,,Roger F. Wicker,REP,1082
+Lamar,Canebrake,U.S. House,4,Mike Ezell,REP,1091
+Lamar,Canebrake,U.S. House,4,Craig Elliot Raybon,DEM,98
+Lamar,Canebrake,Supreme Court,2,Dawn H. Beam,,855
+Lamar,Canebrake,Supreme Court,2,David P. Sullivan,,260
+Lamar,Canebrake,Court Of Appeals,5,Ian Baker,,327
+Lamar,Canebrake,Court Of Appeals,5,Jennifer T. Schloegel,,238
+Lamar,Canebrake,Court Of Appeals,5,Amy Lassiter St. Pe',,506
+Lamar,Canebrake,Election Commissioner,1,Misty Hankins Hood,IND,X
+Lamar,Canebrake,Election Commissioner,3,Melissa Breazeale Love,REP,X
+Lamar,Canebrake,Election Commissioner,3,Christie C. Saulters,REP,X
+Lamar,Canebrake,Election Commissioner,5,Shirley Haddox,IND,X
+Lamar,Bazeand,President,,Kamala D. Harris,DEM,964
+Lamar,Bazeand,President,,Chase Oliver,LIB,9
+Lamar,Bazeand,President,,Jill Stein,GRN,5
+Lamar,Bazeand,President,,Randall Terry,CON,2
+Lamar,Bazeand,President,,Donald J. Trump,REP,1054
+Lamar,Bazeand,President,,Shiva Ayyadurai,IND,2
+Lamar,Bazeand,President,,Claudia De la Cruz,IND,4
+Lamar,Bazeand,President,,Robert F. Kennedy Jr.,IND,18
+Lamar,Bazeand,President,,Peter Sonski,IND,2
+Lamar,Bazeand,U.S. Senate,,Ty Pinkins,DEM,935
+Lamar,Bazeand,U.S. Senate,,Roger F. Wicker,REP,1092
+Lamar,Bazeand,U.S. House,4,Mike Ezell,REP,1138
+Lamar,Bazeand,U.S. House,4,Craig Elliot Raybon,DEM,894
+Lamar,Bazeand,Supreme Court,2,Dawn H. Beam,,1216
+Lamar,Bazeand,Supreme Court,2,David P. Sullivan,,628
+Lamar,Bazeand,Court Of Appeals,5,Ian Baker,,610
+Lamar,Bazeand,Court Of Appeals,5,Jennifer T. Schloegel,,576
+Lamar,Bazeand,Court Of Appeals,5,Amy Lassiter St. Pe',,640
+Lamar,Bazeand,Election Commissioner,1,Misty Hankins Hood,IND,X
+Lamar,Bazeand,Election Commissioner,3,Melissa Breazeale Love,REP,X
+Lamar,Bazeand,Election Commissioner,3,Christie C. Saulters,REP,X
+Lamar,Bazeand,Election Commissioner,5,Shirley Haddox,IND,X
+Lamar,Olin,President,,Kamala D. Harris,DEM,33
+Lamar,Olin,President,,Chase Oliver,LIB,0
+Lamar,Olin,President,,Jill Stein,GRN,0
+Lamar,Olin,President,,Randall Terry,CON,0
+Lamar,Olin,President,,Donald J. Trump,REP,404
+Lamar,Olin,President,,Shiva Ayyadurai,IND,1
+Lamar,Olin,President,,Claudia De la Cruz,IND,0
+Lamar,Olin,President,,Robert F. Kennedy Jr.,IND,0
+Lamar,Olin,President,,Peter Sonski,IND,0
+Lamar,Olin,U.S. Senate,,Ty Pinkins,DEM,36
+Lamar,Olin,U.S. Senate,,Roger F. Wicker,REP,393
+Lamar,Olin,U.S. House,4,Mike Ezell,REP,399
+Lamar,Olin,U.S. House,4,Craig Elliot Raybon,DEM,36
+Lamar,Olin,Supreme Court,2,Dawn H. Beam,,314
+Lamar,Olin,Supreme Court,2,David P. Sullivan,,107
+Lamar,Olin,Court Of Appeals,5,Ian Baker,,198
+Lamar,Olin,Court Of Appeals,5,Jennifer T. Schloegel,,93
+Lamar,Olin,Court Of Appeals,5,Amy Lassiter St. Pe',,115
+Lamar,Olin,Election Commissioner,1,Misty Hankins Hood,IND,X
+Lamar,Olin,Election Commissioner,3,Melissa Breazeale Love,REP,X
+Lamar,Olin,Election Commissioner,3,Christie C. Saulters,REP,X
+Lamar,Olin,Election Commissioner,5,Shirley Haddox,IND,940
+Lamar,Rocky Branch,President,,Kamala D. Harris,DEM,99
+Lamar,Rocky Branch,President,,Chase Oliver,LIB,1
+Lamar,Rocky Branch,President,,Jill Stein,GRN,1
+Lamar,Rocky Branch,President,,Randall Terry,CON,1
+Lamar,Rocky Branch,President,,Donald J. Trump,REP,514
+Lamar,Rocky Branch,President,,Shiva Ayyadurai,IND,1
+Lamar,Rocky Branch,President,,Claudia De la Cruz,IND,0
+Lamar,Rocky Branch,President,,Robert F. Kennedy Jr.,IND,0
+Lamar,Rocky Branch,President,,Peter Sonski,IND,1
+Lamar,Rocky Branch,U.S. Senate,,Ty Pinkins,DEM,101
+Lamar,Rocky Branch,U.S. Senate,,Roger F. Wicker,REP,508
+Lamar,Rocky Branch,U.S. House,4,Mike Ezell,REP,518
+Lamar,Rocky Branch,U.S. House,4,Craig Elliot Raybon,DEM,92
+Lamar,Rocky Branch,Supreme Court,2,Dawn H. Beam,,418
+Lamar,Rocky Branch,Supreme Court,2,David P. Sullivan,,162
+Lamar,Rocky Branch,Court Of Appeals,5,Ian Baker,,273
+Lamar,Rocky Branch,Court Of Appeals,5,Jennifer T. Schloegel,,150
+Lamar,Rocky Branch,Court Of Appeals,5,Amy Lassiter St. Pe',,149
+Lamar,Rocky Branch,Election Commissioner,1,Misty Hankins Hood,IND,X
+Lamar,Rocky Branch,Election Commissioner,3,Melissa Breazeale Love,REP,X
+Lamar,Rocky Branch,Election Commissioner,3,Christie C. Saulters,REP,X
+Lamar,Rocky Branch,Election Commissioner,5,Shirley Haddox,IND,579
+Lamar,"School Board Member, District D",School Board Member,D,Lance LeFan,,X
+Lamar,"School Board Member, District D",School Board Member,D,Lance LeFan,,392
+Lamar,School Bond Election,School Bond,,FOR THE BOND ISSUE,,850
+Lamar,School Bond Election,School Bond,,AGAINST THE BOND ISSUE,,270
+Lamar,School Bond Election,School Bond,,Over Vote,,1
+Lamar,School Bond Election,School Bond,,Under Vote,,41
+Lamar,School Bond Election,School Bond,,FOR THE BOND ISSUE,,1184
+Lamar,School Bond Election,School Bond,,AGAINST THE BOND ISSUE,,761
+Lamar,School Bond Election,School Bond,,Over Vote,,0
+Lamar,School Bond Election,School Bond,,Under Vote,,29
+Lamar,School Bond Election,School Bond,,FOR THE BOND ISSUE,,1417
+Lamar,School Bond Election,School Bond,,AGAINST THE BOND ISSUE,,1127
+Lamar,School Bond Election,School Bond,,Over Vote,,0
+Lamar,School Bond Election,School Bond,,Under Vote,,39

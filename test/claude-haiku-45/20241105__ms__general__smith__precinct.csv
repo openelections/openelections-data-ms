@@ -1,0 +1,415 @@
+county,precinct,office,district,candidate,party,votes
+Smith,JG-Complex,President,,Kamala D. Harris,DEM,44
+Smith,JG-Complex,President,,Chase Oliver,LIB,0
+Smith,JG-Complex,President,,Jill Stein,GRN,0
+Smith,JG-Complex,President,,Randall Terry,CON,0
+Smith,JG-Complex,President,,Donald J. Trump,REP,464
+Smith,JG-Complex,President,,Shiva Ayyadurai,IND,0
+Smith,JG-Complex,President,,Claudia De la Cruz,IND,0
+Smith,JG-Complex,President,,Robert F. Kennedy Jr.,IND,1
+Smith,JG-Complex,President,,Peter Sonski,IND,0
+Smith,JG-Complex,U.S. Senate,,Ty Pinkins,DEM,41
+Smith,JG-Complex,U.S. Senate,,Roger F. Wicker,REP,462
+Smith,JG-Complex,U.S. House,3,Michael Guest,REP,477
+Smith,Barns,President,,Kamala D. Harris,DEM,72
+Smith,Barns,President,,Chase Oliver,LIB,0
+Smith,Barns,President,,Jill Stein,GRN,0
+Smith,Barns,President,,Randall Terry,CON,0
+Smith,Barns,President,,Donald J. Trump,REP,189
+Smith,Barns,President,,Shiva Ayyadurai,IND,0
+Smith,Barns,President,,Claudia De la Cruz,IND,0
+Smith,Barns,President,,Robert F. Kennedy Jr.,IND,2
+Smith,Barns,President,,Peter Sonski,IND,0
+Smith,Barns,U.S. Senate,,Ty Pinkins,DEM,62
+Smith,Barns,U.S. Senate,,Roger F. Wicker,REP,197
+Smith,Barns,U.S. House,3,Michael Guest,REP,244
+Smith,Cedar Grove,President,,Kamala D. Harris,DEM,39
+Smith,Cedar Grove,President,,Chase Oliver,LIB,0
+Smith,Cedar Grove,President,,Jill Stein,GRN,0
+Smith,Cedar Grove,President,,Randall Terry,CON,0
+Smith,Cedar Grove,President,,Donald J. Trump,REP,113
+Smith,Cedar Grove,President,,Shiva Ayyadurai,IND,0
+Smith,Cedar Grove,President,,Claudia De la Cruz,IND,0
+Smith,Cedar Grove,President,,Robert F. Kennedy Jr.,IND,1
+Smith,Cedar Grove,President,,Peter Sonski,IND,0
+Smith,Cedar Grove,U.S. Senate,,Ty Pinkins,DEM,34
+Smith,Cedar Grove,U.S. Senate,,Roger F. Wicker,REP,116
+Smith,Cedar Grove,U.S. House,3,Michael Guest,REP,126
+Smith,Center Ridge,President,,Kamala D. Harris,DEM,28
+Smith,Center Ridge,President,,Chase Oliver,LIB,1
+Smith,Center Ridge,President,,Jill Stein,GRN,0
+Smith,Center Ridge,President,,Randall Terry,CON,0
+Smith,Center Ridge,President,,Donald J. Trump,REP,393
+Smith,Center Ridge,President,,Shiva Ayyadurai,IND,0
+Smith,Center Ridge,President,,Claudia De la Cruz,IND,0
+Smith,Center Ridge,President,,Robert F. Kennedy Jr.,IND,0
+Smith,Center Ridge,President,,Peter Sonski,IND,0
+Smith,Center Ridge,U.S. Senate,,Ty Pinkins,DEM,27
+Smith,Center Ridge,U.S. Senate,,Roger F. Wicker,REP,391
+Smith,Center Ridge,U.S. House,3,Michael Guest,REP,410
+Smith,Cass Springs-Pinetime,President,,Kamala D. Harris,DEM,15
+Smith,Cass Springs-Pinetime,President,,Chase Oliver,LIB,0
+Smith,Cass Springs-Pinetime,President,,Jill Stein,GRN,0
+Smith,Cass Springs-Pinetime,President,,Randall Terry,CON,0
+Smith,Cass Springs-Pinetime,President,,Donald J. Trump,REP,269
+Smith,Cass Springs-Pinetime,President,,Shiva Ayyadurai,IND,0
+Smith,Cass Springs-Pinetime,President,,Claudia De la Cruz,IND,0
+Smith,Cass Springs-Pinetime,President,,Robert F. Kennedy Jr.,IND,2
+Smith,Cass Springs-Pinetime,President,,Peter Sonski,IND,0
+Smith,Cass Springs-Pinetime,U.S. Senate,,Ty Pinkins,DEM,17
+Smith,Cass Springs-Pinetime,U.S. Senate,,Roger F. Wicker,REP,267
+Smith,Cass Springs-Pinetime,U.S. House,3,Michael Guest,REP,269
+Smith,Lorena - Sphinda,President,,Kamala D. Harris,DEM,45
+Smith,Lorena - Sphinda,President,,Chase Oliver,LIB,0
+Smith,Lorena - Sphinda,President,,Jill Stein,GRN,0
+Smith,Lorena - Sphinda,President,,Randall Terry,CON,0
+Smith,Lorena - Sphinda,President,,Donald J. Trump,REP,290
+Smith,Lorena - Sphinda,President,,Shiva Ayyadurai,IND,0
+Smith,Lorena - Sphinda,President,,Claudia De la Cruz,IND,0
+Smith,Lorena - Sphinda,President,,Robert F. Kennedy Jr.,IND,0
+Smith,Lorena - Sphinda,President,,Peter Sonski,IND,0
+Smith,Lorena - Sphinda,U.S. Senate,,Ty Pinkins,DEM,48
+Smith,Lorena - Sphinda,U.S. Senate,,Roger F. Wicker,REP,288
+Smith,Lorena - Sphinda,U.S. House,3,Michael Guest,REP,322
+Smith,Mize,President,,Kamala D. Harris,DEM,28
+Smith,Mize,President,,Chase Oliver,LIB,2
+Smith,Mize,President,,Jill Stein,GRN,0
+Smith,Mize,President,,Randall Terry,CON,2
+Smith,Mize,President,,Donald J. Trump,REP,515
+Smith,Mize,President,,Shiva Ayyadurai,IND,0
+Smith,Mize,President,,Claudia De la Cruz,IND,0
+Smith,Mize,President,,Robert F. Kennedy Jr.,IND,1
+Smith,Mize,President,,Peter Sonski,IND,0
+Smith,Mize,U.S. Senate,,Ty Pinkins,DEM,33
+Smith,Mize,U.S. Senate,,Roger F. Wicker,REP,508
+Smith,Mize,U.S. House,3,Michael Guest,REP,534
+Smith,North Raleigh,President,,Kamala D. Harris,DEM,215
+Smith,North Raleigh,President,,Chase Oliver,LIB,2
+Smith,North Raleigh,President,,Jill Stein,GRN,1
+Smith,North Raleigh,President,,Randall Terry,CON,2
+Smith,North Raleigh,President,,Donald J. Trump,REP,368
+Smith,North Raleigh,President,,Shiva Ayyadurai,IND,0
+Smith,North Raleigh,President,,Claudia De la Cruz,IND,0
+Smith,North Raleigh,President,,Robert F. Kennedy Jr.,IND,1
+Smith,North Raleigh,President,,Peter Sonski,IND,0
+Smith,North Raleigh,U.S. Senate,,Ty Pinkins,DEM,199
+Smith,North Raleigh,U.S. Senate,,Roger F. Wicker,REP,382
+Smith,North Raleigh,U.S. House,3,Michael Guest,REP,500
+Smith,Parkville,President,,Kamala D. Harris,DEM,19
+Smith,Parkville,President,,Chase Oliver,LIB,0
+Smith,Parkville,President,,Jill Stein,GRN,0
+Smith,Parkville,President,,Randall Terry,CON,1
+Smith,Parkville,President,,Donald J. Trump,REP,433
+Smith,Parkville,President,,Shiva Ayyadurai,IND,0
+Smith,Parkville,President,,Claudia De la Cruz,IND,0
+Smith,Parkville,President,,Robert F. Kennedy Jr.,IND,2
+Smith,Parkville,President,,Peter Sonski,IND,0
+Smith,Parkville,U.S. Senate,,Ty Pinkins,DEM,24
+Smith,Parkville,U.S. Senate,,Roger F. Wicker,REP,428
+Smith,Parkville,U.S. House,3,Michael Guest,REP,444
+Smith,Shady Grove,President,,Kamala D. Harris,DEM,10
+Smith,Shady Grove,President,,Chase Oliver,LIB,0
+Smith,Shady Grove,President,,Jill Stein,GRN,0
+Smith,Shady Grove,President,,Randall Terry,CON,0
+Smith,Shady Grove,President,,Donald J. Trump,REP,400
+Smith,Shady Grove,President,,Shiva Ayyadurai,IND,0
+Smith,Shady Grove,President,,Claudia De la Cruz,IND,1
+Smith,Shady Grove,President,,Robert F. Kennedy Jr.,IND,2
+Smith,Shady Grove,President,,Peter Sonski,IND,0
+Smith,Shady Grove,U.S. Senate,,Ty Pinkins,DEM,11
+Smith,Shady Grove,U.S. Senate,,Roger F. Wicker,REP,400
+Smith,Shady Grove,U.S. House,3,Michael Guest,REP,399
+Smith,Summerland,President,,Kamala D. Harris,DEM,341
+Smith,Summerland,President,,Chase Oliver,LIB,0
+Smith,Summerland,President,,Jill Stein,GRN,1
+Smith,Summerland,President,,Randall Terry,CON,0
+Smith,Summerland,President,,Donald J. Trump,REP,214
+Smith,Summerland,President,,Shiva Ayyadurai,IND,0
+Smith,Summerland,President,,Claudia De la Cruz,IND,0
+Smith,Summerland,President,,Robert F. Kennedy Jr.,IND,2
+Smith,Summerland,President,,Peter Sonski,IND,0
+Smith,Summerland,U.S. Senate,,Ty Pinkins,DEM,338
+Smith,Summerland,U.S. Senate,,Roger F. Wicker,REP,223
+Smith,Summerland,U.S. House,3,Michael Guest,REP,400
+Smith,Sylvanus,President,,Kamala D. Harris,DEM,13
+Smith,Sylvanus,President,,Chase Oliver,LIB,0
+Smith,Sylvanus,President,,Jill Stein,GRN,0
+Smith,Sylvanus,President,,Randall Terry,CON,0
+Smith,Sylvanus,President,,Donald J. Trump,REP,167
+Smith,Sylvanus,President,,Shiva Ayyadurai,IND,0
+Smith,Sylvanus,President,,Claudia De la Cruz,IND,0
+Smith,Sylvanus,President,,Robert F. Kennedy Jr.,IND,0
+Smith,Sylvanus,President,,Peter Sonski,IND,0
+Smith,Sylvanus,U.S. Senate,,Ty Pinkins,DEM,13
+Smith,Sylvanus,U.S. Senate,,Roger F. Wicker,REP,167
+Smith,Sylvanus,U.S. House,3,Michael Guest,REP,172
+Smith,Taylorsville,President,,Kamala D. Harris,DEM,70
+Smith,Taylorsville,President,,Chase Oliver,LIB,0
+Smith,Taylorsville,President,,Jill Stein,GRN,0
+Smith,Taylorsville,President,,Randall Terry,CON,1
+Smith,Taylorsville,President,,Donald J. Trump,REP,697
+Smith,Taylorsville,President,,Shiva Ayyadurai,IND,0
+Smith,Taylorsville,President,,Claudia De la Cruz,IND,0
+Smith,Taylorsville,President,,Robert F. Kennedy Jr.,IND,0
+Smith,Taylorsville,President,,Peter Sonski,IND,2
+Smith,Taylorsville,U.S. Senate,,Ty Pinkins,DEM,71
+Smith,Taylorsville,U.S. Senate,,Roger F. Wicker,REP,689
+Smith,Taylorsville,U.S. House,3,Michael Guest,REP,736
+Smith,Union-New Home,President,,Kamala D. Harris,DEM,100
+Smith,Union-New Home,President,,Chase Oliver,LIB,1
+Smith,Union-New Home,President,,Jill Stein,GRN,0
+Smith,Union-New Home,President,,Randall Terry,CON,1
+Smith,Union-New Home,President,,Donald J. Trump,REP,318
+Smith,Union-New Home,President,,Shiva Ayyadurai,IND,0
+Smith,Union-New Home,President,,Claudia De la Cruz,IND,0
+Smith,Union-New Home,President,,Robert F. Kennedy Jr.,IND,2
+Smith,Union-New Home,President,,Peter Sonski,IND,0
+Smith,Union-New Home,U.S. Senate,,Ty Pinkins,DEM,101
+Smith,Union-New Home,U.S. Senate,,Roger F. Wicker,REP,321
+Smith,Union-New Home,U.S. House,3,Michael Guest,REP,378
+Smith,Merten Hill,President,,Kamala D. Harris,DEM,284
+Smith,Merten Hill,President,,Chase Oliver,LIB,0
+Smith,Merten Hill,President,,Jill Stein,GRN,1
+Smith,Merten Hill,President,,Randall Terry,CON,0
+Smith,Merten Hill,President,,Donald J. Trump,REP,48
+Smith,Merten Hill,President,,Shiva Ayyadurai,IND,0
+Smith,Merten Hill,President,,Claudia De la Cruz,IND,0
+Smith,Merten Hill,President,,Robert F. Kennedy Jr.,IND,1
+Smith,Merten Hill,President,,Peter Sonski,IND,1
+Smith,Merten Hill,U.S. Senate,,Ty Pinkins,DEM,286
+Smith,Merten Hill,U.S. Senate,,Roger F. Wicker,REP,49
+Smith,Merten Hill,U.S. House,3,Michael Guest,REP,193
+Smith,West Raleigh,President,,Kamala D. Harris,DEM,18
+Smith,West Raleigh,President,,Chase Oliver,LIB,0
+Smith,West Raleigh,President,,Jill Stein,GRN,0
+Smith,West Raleigh,President,,Randall Terry,CON,0
+Smith,West Raleigh,President,,Donald J. Trump,REP,315
+Smith,West Raleigh,President,,Shiva Ayyadurai,IND,1
+Smith,West Raleigh,President,,Claudia De la Cruz,IND,0
+Smith,West Raleigh,President,,Robert F. Kennedy Jr.,IND,0
+Smith,West Raleigh,President,,Peter Sonski,IND,0
+Smith,West Raleigh,U.S. Senate,,Ty Pinkins,DEM,16
+Smith,West Raleigh,U.S. Senate,,Roger F. Wicker,REP,313
+Smith,West Raleigh,U.S. House,3,Michael Guest,REP,307
+Smith,White Oak,President,,Kamala D. Harris,DEM,11
+Smith,White Oak,President,,Chase Oliver,LIB,0
+Smith,White Oak,President,,Jill Stein,GRN,0
+Smith,White Oak,President,,Randall Terry,CON,1
+Smith,White Oak,President,,Donald J. Trump,REP,304
+Smith,White Oak,President,,Shiva Ayyadurai,IND,0
+Smith,White Oak,President,,Claudia De la Cruz,IND,0
+Smith,White Oak,President,,Robert F. Kennedy Jr.,IND,0
+Smith,White Oak,President,,Peter Sonski,IND,0
+Smith,White Oak,U.S. Senate,,Ty Pinkins,DEM,7
+Smith,White Oak,U.S. Senate,,Roger F. Wicker,REP,303
+Smith,White Oak,U.S. House,3,Michael Guest,REP,303
+Smith,Zion Hill - New Haven,President,,Kamala D. Harris,DEM,134
+Smith,Zion Hill - New Haven,President,,Chase Oliver,LIB,1
+Smith,Zion Hill - New Haven,President,,Jill Stein,GRN,0
+Smith,Zion Hill - New Haven,President,,Randall Terry,CON,0
+Smith,Zion Hill - New Haven,President,,Donald J. Trump,REP,649
+Smith,Zion Hill - New Haven,President,,Shiva Ayyadurai,IND,1
+Smith,Zion Hill - New Haven,President,,Claudia De la Cruz,IND,0
+Smith,Zion Hill - New Haven,President,,Robert F. Kennedy Jr.,IND,3
+Smith,Zion Hill - New Haven,President,,Peter Sonski,IND,0
+Smith,Zion Hill - New Haven,U.S. Senate,,Ty Pinkins,DEM,130
+Smith,Zion Hill - New Haven,U.S. Senate,,Roger F. Wicker,REP,654
+Smith,Zion Hill - New Haven,U.S. House,3,Michael Guest,REP,726
+Smith,JG-Complex,Supreme Court,2,Dawn H. Beam,,129
+Smith,JG-Complex,Supreme Court,2,David P. Sullivan,,348
+Smith,JG-Complex,Court of Appeals,3,Jack Wilson,,457
+Smith,JG-Complex,Election Commissioner,1,Willie Grace Myatt,NPA,479
+Smith,JG-Complex,Election Commissioner,3,Sherri H. Darden,NPA,X
+Smith,JG-Complex,Election Commissioner,5,Glendell O. Webb,NPA,X
+Smith,JG-Complex,School Board,3,Joey Adcock,NPA,X
+Smith,JG-Complex,School Board,3,James (Jay) Arrington,NPA,X
+Smith,JG-Complex,School Board,4,John P. Adcock Sr.,NPA,X
+Smith,JG-Complex,School Board,4,Jimmy Dell Hancock,NPA,X
+Smith,JG-Complex,School Board,4,Lacey Hutchinson,NPA,X
+Smith,Barns,Supreme Court,2,Dawn H. Beam,,58
+Smith,Barns,Supreme Court,2,David P. Sullivan,,181
+Smith,Barns,Court of Appeals,3,Jack Wilson,,236
+Smith,Barns,Election Commissioner,1,Willie Grace Myatt,NPA,X
+Smith,Barns,Election Commissioner,3,Sherri H. Darden,NPA,X
+Smith,Barns,Election Commissioner,5,Glendell O. Webb,NPA,242
+Smith,Barns,School Board,3,Joey Adcock,NPA,X
+Smith,Barns,School Board,3,James (Jay) Arrington,NPA,X
+Smith,Barns,School Board,4,John P. Adcock Sr.,NPA,X
+Smith,Barns,School Board,4,Jimmy Dell Hancock,NPA,X
+Smith,Barns,School Board,4,Lacey Hutchinson,NPA,X
+Smith,Cedar Grove,Supreme Court,2,Dawn H. Beam,,37
+Smith,Cedar Grove,Supreme Court,2,David P. Sullivan,,98
+Smith,Cedar Grove,Court of Appeals,3,Jack Wilson,,129
+Smith,Cedar Grove,Election Commissioner,1,Willie Grace Myatt,NPA,X
+Smith,Cedar Grove,Election Commissioner,3,Sherri H. Darden,NPA,X
+Smith,Cedar Grove,Election Commissioner,5,Glendell O. Webb,NPA,X
+Smith,Cedar Grove,School Board,3,Joey Adcock,NPA,X
+Smith,Cedar Grove,School Board,3,James (Jay) Arrington,NPA,X
+Smith,Cedar Grove,School Board,4,John P. Adcock Sr.,NPA,X
+Smith,Cedar Grove,School Board,4,Jimmy Dell Hancock,NPA,X
+Smith,Cedar Grove,School Board,4,Lacey Hutchinson,NPA,X
+Smith,Center Ridge,Supreme Court,2,Dawn H. Beam,,91
+Smith,Center Ridge,Supreme Court,2,David P. Sullivan,,316
+Smith,Center Ridge,Court of Appeals,3,Jack Wilson,,391
+Smith,Center Ridge,Election Commissioner,1,Willie Grace Myatt,NPA,398
+Smith,Center Ridge,Election Commissioner,3,Sherri H. Darden,NPA,X
+Smith,Center Ridge,Election Commissioner,5,Glendell O. Webb,NPA,X
+Smith,Center Ridge,School Board,3,Joey Adcock,NPA,X
+Smith,Center Ridge,School Board,3,James (Jay) Arrington,NPA,X
+Smith,Center Ridge,School Board,4,John P. Adcock Sr.,NPA,X
+Smith,Center Ridge,School Board,4,Jimmy Dell Hancock,NPA,X
+Smith,Center Ridge,School Board,4,Lacey Hutchinson,NPA,X
+Smith,Cass Springs-Pinetime,Supreme Court,2,Dawn H. Beam,,57
+Smith,Cass Springs-Pinetime,Supreme Court,2,David P. Sullivan,,206
+Smith,Cass Springs-Pinetime,Court of Appeals,3,Jack Wilson,,257
+Smith,Cass Springs-Pinetime,Election Commissioner,1,Willie Grace Myatt,NPA,X
+Smith,Cass Springs-Pinetime,Election Commissioner,3,Sherri H. Darden,NPA,X
+Smith,Cass Springs-Pinetime,Election Commissioner,5,Glendell O. Webb,NPA,273
+Smith,Cass Springs-Pinetime,School Board,3,Joey Adcock,NPA,X
+Smith,Cass Springs-Pinetime,School Board,3,James (Jay) Arrington,NPA,X
+Smith,Cass Springs-Pinetime,School Board,4,John P. Adcock Sr.,NPA,X
+Smith,Cass Springs-Pinetime,School Board,4,Jimmy Dell Hancock,NPA,X
+Smith,Cass Springs-Pinetime,School Board,4,Lacey Hutchinson,NPA,X
+Smith,Lorena - Sphinda,Supreme Court,2,Dawn H. Beam,,92
+Smith,Lorena - Sphinda,Supreme Court,2,David P. Sullivan,,223
+Smith,Lorena - Sphinda,Court of Appeals,3,Jack Wilson,,314
+Smith,Lorena - Sphinda,Election Commissioner,1,Willie Grace Myatt,NPA,X
+Smith,Lorena - Sphinda,Election Commissioner,3,Sherri H. Darden,NPA,X
+Smith,Lorena - Sphinda,Election Commissioner,5,Glendell O. Webb,NPA,325
+Smith,Lorena - Sphinda,School Board,3,Joey Adcock,NPA,X
+Smith,Lorena - Sphinda,School Board,3,James (Jay) Arrington,NPA,X
+Smith,Lorena - Sphinda,School Board,4,John P. Adcock Sr.,NPA,X
+Smith,Lorena - Sphinda,School Board,4,Jimmy Dell Hancock,NPA,X
+Smith,Lorena - Sphinda,School Board,4,Lacey Hutchinson,NPA,X
+Smith,Mize,Supreme Court,2,Dawn H. Beam,,116
+Smith,Mize,Supreme Court,2,David P. Sullivan,,409
+Smith,Mize,Court of Appeals,3,Jack Wilson,,492
+Smith,Mize,Election Commissioner,1,Willie Grace Myatt,NPA,497
+Smith,Mize,Election Commissioner,3,Sherri H. Darden,NPA,X
+Smith,Mize,Election Commissioner,5,Glendell O. Webb,NPA,X
+Smith,Mize,School Board,3,Joey Adcock,NPA,X
+Smith,Mize,School Board,3,James (Jay) Arrington,NPA,X
+Smith,Mize,School Board,4,John P. Adcock Sr.,NPA,X
+Smith,Mize,School Board,4,Jimmy Dell Hancock,NPA,X
+Smith,Mize,School Board,4,Lacey Hutchinson,NPA,X
+Smith,North Raleigh,Supreme Court,2,Dawn H. Beam,,174
+Smith,North Raleigh,Supreme Court,2,David P. Sullivan,,349
+Smith,North Raleigh,Court of Appeals,3,Jack Wilson,,487
+Smith,North Raleigh,Election Commissioner,1,Willie Grace Myatt,NPA,X
+Smith,North Raleigh,Election Commissioner,3,Sherri H. Darden,NPA,X
+Smith,North Raleigh,Election Commissioner,5,Glendell O. Webb,NPA,513
+Smith,North Raleigh,School Board,3,Joey Adcock,NPA,X
+Smith,North Raleigh,School Board,3,James (Jay) Arrington,NPA,X
+Smith,North Raleigh,School Board,4,John P. Adcock Sr.,NPA,X
+Smith,North Raleigh,School Board,4,Jimmy Dell Hancock,NPA,X
+Smith,North Raleigh,School Board,4,Lacey Hutchinson,NPA,X
+Smith,Parkville,Supreme Court,2,Dawn H. Beam,,104
+Smith,Parkville,Supreme Court,2,David P. Sullivan,,315
+Smith,Parkville,Court of Appeals,3,Jack Wilson,,408
+Smith,Parkville,Election Commissioner,1,Willie Grace Myatt,NPA,X
+Smith,Parkville,Election Commissioner,3,Sherri H. Darden,NPA,X
+Smith,Parkville,Election Commissioner,5,Glendell O. Webb,NPA,X
+Smith,Parkville,School Board,3,Joey Adcock,NPA,X
+Smith,Parkville,School Board,3,James (Jay) Arrington,NPA,X
+Smith,Parkville,School Board,4,John P. Adcock Sr.,NPA,172
+Smith,Parkville,School Board,4,Jimmy Dell Hancock,NPA,123
+Smith,Parkville,School Board,4,Lacey Hutchinson,NPA,138
+Smith,Shady Grove,Supreme Court,2,Dawn H. Beam,,73
+Smith,Shady Grove,Supreme Court,2,David P. Sullivan,,320
+Smith,Shady Grove,Court of Appeals,3,Jack Wilson,,376
+Smith,Shady Grove,Election Commissioner,1,Willie Grace Myatt,NPA,X
+Smith,Shady Grove,Election Commissioner,3,Sherri H. Darden,NPA,X
+Smith,Shady Grove,Election Commissioner,5,Glendell O. Webb,NPA,X
+Smith,Shady Grove,School Board,3,Joey Adcock,NPA,X
+Smith,Shady Grove,School Board,3,James (Jay) Arrington,NPA,X
+Smith,Shady Grove,School Board,4,John P. Adcock Sr.,NPA,X
+Smith,Shady Grove,School Board,4,Jimmy Dell Hancock,NPA,105
+Smith,Shady Grove,School Board,4,Lacey Hutchinson,NPA,263
+Smith,Summerland,Supreme Court,2,Dawn H. Beam,,172
+Smith,Summerland,Supreme Court,2,David P. Sullivan,,309
+Smith,Summerland,Court of Appeals,3,Jack Wilson,,417
+Smith,Summerland,Election Commissioner,1,Willie Grace Myatt,NPA,X
+Smith,Summerland,Election Commissioner,3,Sherri H. Darden,NPA,X
+Smith,Summerland,Election Commissioner,5,Glendell O. Webb,NPA,X
+Smith,Summerland,School Board,3,Joey Adcock,NPA,X
+Smith,Summerland,School Board,3,James (Jay) Arrington,NPA,X
+Smith,Summerland,School Board,4,John P. Adcock Sr.,NPA,X
+Smith,Summerland,School Board,4,Jimmy Dell Hancock,NPA,X
+Smith,Summerland,School Board,4,Lacey Hutchinson,NPA,X
+Smith,Sylvanus,Supreme Court,2,Dawn H. Beam,,32
+Smith,Sylvanus,Supreme Court,2,David P. Sullivan,,145
+Smith,Sylvanus,Court of Appeals,3,Jack Wilson,,172
+Smith,Sylvanus,Election Commissioner,1,Willie Grace Myatt,NPA,175
+Smith,Sylvanus,Election Commissioner,3,Sherri H. Darden,NPA,X
+Smith,Sylvanus,Election Commissioner,5,Glendell O. Webb,NPA,X
+Smith,Sylvanus,School Board,3,Joey Adcock,NPA,X
+Smith,Sylvanus,School Board,3,James (Jay) Arrington,NPA,X
+Smith,Sylvanus,School Board,4,John P. Adcock Sr.,NPA,X
+Smith,Sylvanus,School Board,4,Jimmy Dell Hancock,NPA,X
+Smith,Sylvanus,School Board,4,Lacey Hutchinson,NPA,X
+Smith,Taylorsville,Supreme Court,2,Dawn H. Beam,,155
+Smith,Taylorsville,Supreme Court,2,David P. Sullivan,,581
+Smith,Taylorsville,Court of Appeals,3,Jack Wilson,,702
+Smith,Taylorsville,Election Commissioner,1,Willie Grace Myatt,NPA,X
+Smith,Taylorsville,Election Commissioner,3,Sherri H. Darden,NPA,713
+Smith,Taylorsville,Election Commissioner,5,Glendell O. Webb,NPA,X
+Smith,Taylorsville,School Board,3,Joey Adcock,NPA,483
+Smith,Taylorsville,School Board,3,James (Jay) Arrington,NPA,252
+Smith,Taylorsville,School Board,4,John P. Adcock Sr.,NPA,X
+Smith,Taylorsville,School Board,4,Jimmy Dell Hancock,NPA,X
+Smith,Taylorsville,School Board,4,Lacey Hutchinson,NPA,X
+Smith,Union-New Home,Supreme Court,2,Dawn H. Beam,,108
+Smith,Union-New Home,Supreme Court,2,David P. Sullivan,,284
+Smith,Union-New Home,Court of Appeals,3,Jack Wilson,,378
+Smith,Union-New Home,Election Commissioner,1,Willie Grace Myatt,NPA,X
+Smith,Union-New Home,Election Commissioner,3,Sherri H. Darden,NPA,X
+Smith,Union-New Home,Election Commissioner,5,Glendell O. Webb,NPA,X
+Smith,Union-New Home,School Board,3,Joey Adcock,NPA,X
+Smith,Union-New Home,School Board,3,James (Jay) Arrington,NPA,X
+Smith,Union-New Home,School Board,4,John P. Adcock Sr.,NPA,X
+Smith,Union-New Home,School Board,4,Jimmy Dell Hancock,NPA,X
+Smith,Union-New Home,School Board,4,Lacey Hutchinson,NPA,X
+Smith,Merten Hill,Supreme Court,2,Dawn H. Beam,,107
+Smith,Merten Hill,Supreme Court,2,David P. Sullivan,,133
+Smith,Merten Hill,Court of Appeals,3,Jack Wilson,,217
+Smith,Merten Hill,Election Commissioner,1,Willie Grace Myatt,NPA,X
+Smith,Merten Hill,Election Commissioner,3,Sherri H. Darden,NPA,X
+Smith,Merten Hill,Election Commissioner,5,Glendell O. Webb,NPA,X
+Smith,Merten Hill,School Board,3,Joey Adcock,NPA,X
+Smith,Merten Hill,School Board,3,James (Jay) Arrington,NPA,X
+Smith,Merten Hill,School Board,4,John P. Adcock Sr.,NPA,X
+Smith,Merten Hill,School Board,4,Jimmy Dell Hancock,NPA,X
+Smith,Merten Hill,School Board,4,Lacey Hutchinson,NPA,X
+Smith,West Raleigh,Supreme Court,2,Dawn H. Beam,,61
+Smith,West Raleigh,Supreme Court,2,David P. Sullivan,,250
+Smith,West Raleigh,Court of Appeals,3,Jack Wilson,,289
+Smith,West Raleigh,Election Commissioner,1,Willie Grace Myatt,NPA,X
+Smith,West Raleigh,Election Commissioner,3,Sherri H. Darden,NPA,X
+Smith,West Raleigh,Election Commissioner,5,Glendell O. Webb,NPA,X
+Smith,West Raleigh,School Board,3,Joey Adcock,NPA,X
+Smith,West Raleigh,School Board,3,James (Jay) Arrington,NPA,X
+Smith,West Raleigh,School Board,4,John P. Adcock Sr.,NPA,X
+Smith,West Raleigh,School Board,4,Jimmy Dell Hancock,NPA,X
+Smith,West Raleigh,School Board,4,Lacey Hutchinson,NPA,X
+Smith,White Oak,Supreme Court,2,Dawn H. Beam,,85
+Smith,White Oak,Supreme Court,2,David P. Sullivan,,214
+Smith,White Oak,Court of Appeals,3,Jack Wilson,,282
+Smith,White Oak,Election Commissioner,1,Willie Grace Myatt,NPA,X
+Smith,White Oak,Election Commissioner,3,Sherri H. Darden,NPA,X
+Smith,White Oak,Election Commissioner,5,Glendell O. Webb,NPA,X
+Smith,White Oak,School Board,3,Joey Adcock,NPA,X
+Smith,White Oak,School Board,3,James (Jay) Arrington,NPA,X
+Smith,White Oak,School Board,4,John P. Adcock Sr.,NPA,X
+Smith,White Oak,School Board,4,Jimmy Dell Hancock,NPA,X
+Smith,White Oak,School Board,4,Lacey Hutchinson,NPA,X
+Smith,Zion Hill - New Haven,Supreme Court,2,Dawn H. Beam,,183
+Smith,Zion Hill - New Haven,Supreme Court,2,David P. Sullivan,,582
+Smith,Zion Hill - New Haven,Court of Appeals,3,Jack Wilson,,731
+Smith,Zion Hill - New Haven,Election Commissioner,1,Willie Grace Myatt,NPA,X
+Smith,Zion Hill - New Haven,Election Commissioner,3,Sherri H. Darden,NPA,748
+Smith,Zion Hill - New Haven,Election Commissioner,5,Glendell O. Webb,NPA,X
+Smith,Zion Hill - New Haven,School Board,3,Joey Adcock,NPA,444
+Smith,Zion Hill - New Haven,School Board,3,James (Jay) Arrington,NPA,328
+Smith,Zion Hill - New Haven,School Board,4,John P. Adcock Sr.,NPA,X
+Smith,Zion Hill - New Haven,School Board,4,Jimmy Dell Hancock,NPA,X
+Smith,Zion Hill - New Haven,School Board,4,Lacey Hutchinson,NPA,X

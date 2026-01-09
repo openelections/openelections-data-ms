@@ -1,0 +1,448 @@
+county,precinct,office,district,candidate,party,votes
+George,Rocky Creek,President,,Kamala D. Harris,DEM,80
+George,Rocky Creek,President,,Chase Oliver,LIB,1
+George,Rocky Creek,President,,Jill Stein,GRN,0
+George,Rocky Creek,President,,Randall Terry,CON,0
+George,Rocky Creek,President,,Donald J. Trump,REP,1207
+George,Rocky Creek,President,,Shiva Ayyadurai,IND,0
+George,Rocky Creek,President,,Claudia De la Cruz,IND,0
+George,Rocky Creek,President,,Robert F. Kennedy Jr.,IND,5
+George,Rocky Creek,President,,Peter Sonski,IND,0
+George,Rocky Creek,U.S. Senate,,Ty Pinkins,DEM,76
+George,Rocky Creek,U.S. Senate,,Roger F. Wicker,REP,1201
+George,Rocky Creek,U.S. House,4,Mike Ezell,REP,1222
+George,Rocky Creek,U.S. House,4,Craig Elliot Raybon,DEM,63
+George,Rocky Creek,Supreme Court,2,Dawn H. Beam,,424
+George,Rocky Creek,Supreme Court,2,David P. Sullivan,,726
+George,Rocky Creek,Court of Appeals,5,Ian Baker,,498
+George,Rocky Creek,Court of Appeals,5,Jennifer T. Schloegel,,235
+George,Rocky Creek,Court of Appeals,5,Amy Lassitter St. Pe',,426
+George,Rocky Creek,Election Commissioner,1,Joanie Evans,REP,1235
+George,Rocky Creek,Election Commissioner,3,Darlene Steede,REP,X
+George,Rocky Creek,Election Commissioner,5,Rebecca 'Becky' Berry,REP,X
+George,Mill Mart,President,,Kamala D. Harris,DEM,24
+George,Mill Mart,President,,Chase Oliver,LIB,1
+George,Mill Mart,President,,Jill Stein,GRN,0
+George,Mill Mart,President,,Randall Terry,CON,0
+George,Mill Mart,President,,Donald J. Trump,REP,217
+George,Mill Mart,President,,Shiva Ayyadurai,IND,0
+George,Mill Mart,President,,Claudia De la Cruz,IND,0
+George,Mill Mart,President,,Robert F. Kennedy Jr.,IND,3
+George,Mill Mart,President,,Peter Sonski,IND,2
+George,Mill Mart,U.S. Senate,,Ty Pinkins,DEM,24
+George,Mill Mart,U.S. Senate,,Roger F. Wicker,REP,223
+George,Mill Mart,U.S. House,4,Mike Ezell,REP,225
+George,Mill Mart,U.S. House,4,Craig Elliot Raybon,DEM,23
+George,Mill Mart,Supreme Court,2,Dawn H. Beam,,82
+George,Mill Mart,Supreme Court,2,David P. Sullivan,,139
+George,Mill Mart,Court of Appeals,5,Ian Baker,,77
+George,Mill Mart,Court of Appeals,5,Jennifer T. Schloegel,,57
+George,Mill Mart,Court of Appeals,5,Amy Lassitter St. Pe',,92
+George,Mill Mart,Election Commissioner,1,Joanie Evans,REP,230
+George,Mill Mart,Election Commissioner,3,Darlene Steede,REP,X
+George,Mill Mart,Election Commissioner,5,Rebecca 'Becky' Berry,REP,X
+George,Ward,President,,Kamala D. Harris,DEM,19
+George,Ward,President,,Chase Oliver,LIB,0
+George,Ward,President,,Jill Stein,GRN,0
+George,Ward,President,,Randall Terry,CON,0
+George,Ward,President,,Donald J. Trump,REP,373
+George,Ward,President,,Shiva Ayyadurai,IND,0
+George,Ward,President,,Claudia De la Cruz,IND,0
+George,Ward,President,,Robert F. Kennedy Jr.,IND,0
+George,Ward,President,,Peter Sonski,IND,0
+George,Ward,U.S. Senate,,Ty Pinkins,DEM,24
+George,Ward,U.S. Senate,,Roger F. Wicker,REP,368
+George,Ward,U.S. House,4,Mike Ezell,REP,370
+George,Ward,U.S. House,4,Craig Elliot Raybon,DEM,21
+George,Ward,Supreme Court,2,Dawn H. Beam,,134
+George,Ward,Supreme Court,2,David P. Sullivan,,219
+George,Ward,Court of Appeals,5,Ian Baker,,139
+George,Ward,Court of Appeals,5,Jennifer T. Schloegel,,73
+George,Ward,Court of Appeals,5,Amy Lassitter St. Pe',,150
+George,Ward,Election Commissioner,1,Joanie Evans,REP,368
+George,Ward,Election Commissioner,3,Darlene Steede,REP,X
+George,Ward,Election Commissioner,5,Rebecca 'Becky' Berry,REP,X
+George,Shipman,President,,Kamala D. Harris,DEM,34
+George,Shipman,President,,Chase Oliver,LIB,0
+George,Shipman,President,,Jill Stein,GRN,0
+George,Shipman,President,,Randall Terry,CON,1
+George,Shipman,President,,Donald J. Trump,REP,330
+George,Shipman,President,,Shiva Ayyadurai,IND,0
+George,Shipman,President,,Claudia De la Cruz,IND,0
+George,Shipman,President,,Robert F. Kennedy Jr.,IND,0
+George,Shipman,President,,Peter Sonski,IND,0
+George,Shipman,U.S. Senate,,Ty Pinkins,DEM,33
+George,Shipman,U.S. Senate,,Roger F. Wicker,REP,318
+George,Shipman,U.S. House,4,Mike Ezell,REP,320
+George,Shipman,U.S. House,4,Craig Elliot Raybon,DEM,34
+George,Shipman,Supreme Court,2,Dawn H. Beam,,114
+George,Shipman,Supreme Court,2,David P. Sullivan,,175
+George,Shipman,Court of Appeals,5,Ian Baker,,122
+George,Shipman,Court of Appeals,5,Jennifer T. Schloegel,,63
+George,Shipman,Court of Appeals,5,Amy Lassitter St. Pe',,101
+George,Shipman,Election Commissioner,1,Joanie Evans,REP,324
+George,Shipman,Election Commissioner,3,Darlene Steede,REP,X
+George,Shipman,Election Commissioner,5,Rebecca 'Becky' Berry,REP,X
+George,Courthouse,President,,Kamala D. Harris,DEM,30
+George,Courthouse,President,,Chase Oliver,LIB,3
+George,Courthouse,President,,Jill Stein,GRN,0
+George,Courthouse,President,,Randall Terry,CON,0
+George,Courthouse,President,,Donald J. Trump,REP,188
+George,Courthouse,President,,Shiva Ayyadurai,IND,0
+George,Courthouse,President,,Claudia De la Cruz,IND,0
+George,Courthouse,President,,Robert F. Kennedy Jr.,IND,1
+George,Courthouse,President,,Peter Sonski,IND,2
+George,Courthouse,U.S. Senate,,Ty Pinkins,DEM,35
+George,Courthouse,U.S. Senate,,Roger F. Wicker,REP,187
+George,Courthouse,U.S. House,4,Mike Ezell,REP,193
+George,Courthouse,U.S. House,4,Craig Elliot Raybon,DEM,28
+George,Courthouse,Supreme Court,2,Dawn H. Beam,,88
+George,Courthouse,Supreme Court,2,David P. Sullivan,,106
+George,Courthouse,Court of Appeals,5,Ian Baker,,62
+George,Courthouse,Court of Appeals,5,Jennifer T. Schloegel,,46
+George,Courthouse,Court of Appeals,5,Amy Lassitter St. Pe',,86
+George,Courthouse,Election Commissioner,1,Joanie Evans,REP,X
+George,Courthouse,Election Commissioner,3,Darlene Steede,REP,X
+George,Courthouse,Election Commissioner,5,Rebecca 'Becky' Berry,REP,X
+George,Agricola,President,,Kamala D. Harris,DEM,77
+George,Agricola,President,,Chase Oliver,LIB,1
+George,Agricola,President,,Jill Stein,GRN,2
+George,Agricola,President,,Randall Terry,CON,0
+George,Agricola,President,,Donald J. Trump,REP,1285
+George,Agricola,President,,Shiva Ayyadurai,IND,0
+George,Agricola,President,,Claudia De la Cruz,IND,2
+George,Agricola,President,,Robert F. Kennedy Jr.,IND,2
+George,Agricola,President,,Peter Sonski,IND,0
+George,Agricola,U.S. Senate,,Ty Pinkins,DEM,88
+George,Agricola,U.S. Senate,,Roger F. Wicker,REP,1260
+George,Agricola,U.S. House,4,Mike Ezell,REP,1284
+George,Agricola,U.S. House,4,Craig Elliot Raybon,DEM,73
+George,Agricola,Supreme Court,2,Dawn H. Beam,,453
+George,Agricola,Supreme Court,2,David P. Sullivan,,755
+George,Agricola,Court of Appeals,5,Ian Baker,,399
+George,Agricola,Court of Appeals,5,Jennifer T. Schloegel,,193
+George,Agricola,Court of Appeals,5,Amy Lassitter St. Pe',,645
+George,Agricola,Election Commissioner,1,Joanie Evans,REP,X
+George,Agricola,Election Commissioner,3,Darlene Steede,REP,X
+George,Agricola,Election Commissioner,5,Rebecca 'Becky' Berry,REP,X
+George,Howell,President,,Kamala D. Harris,DEM,31
+George,Howell,President,,Chase Oliver,LIB,0
+George,Howell,President,,Jill Stein,GRN,0
+George,Howell,President,,Randall Terry,CON,0
+George,Howell,President,,Donald J. Trump,REP,439
+George,Howell,President,,Shiva Ayyadurai,IND,0
+George,Howell,President,,Claudia De la Cruz,IND,0
+George,Howell,President,,Robert F. Kennedy Jr.,IND,1
+George,Howell,President,,Peter Sonski,IND,0
+George,Howell,U.S. Senate,,Ty Pinkins,DEM,30
+George,Howell,U.S. Senate,,Roger F. Wicker,REP,430
+George,Howell,U.S. House,4,Mike Ezell,REP,432
+George,Howell,U.S. House,4,Craig Elliot Raybon,DEM,31
+George,Howell,Supreme Court,2,Dawn H. Beam,,139
+George,Howell,Supreme Court,2,David P. Sullivan,,267
+George,Howell,Court of Appeals,5,Ian Baker,,163
+George,Howell,Court of Appeals,5,Jennifer T. Schloegel,,90
+George,Howell,Court of Appeals,5,Amy Lassitter St. Pe',,158
+George,Howell,Election Commissioner,1,Joanie Evans,REP,X
+George,Howell,Election Commissioner,3,Darlene Steede,REP,X
+George,Howell,Election Commissioner,5,Rebecca 'Becky' Berry,REP,X
+George,Kosciulla,President,,Kamala D. Harris,DEM,15
+George,Kosciulla,President,,Chase Oliver,LIB,1
+George,Kosciulla,President,,Jill Stein,GRN,0
+George,Kosciulla,President,,Randall Terry,CON,0
+George,Kosciulla,President,,Donald J. Trump,REP,319
+George,Kosciulla,President,,Shiva Ayyadurai,IND,0
+George,Kosciulla,President,,Claudia De la Cruz,IND,0
+George,Kosciulla,President,,Robert F. Kennedy Jr.,IND,1
+George,Kosciulla,President,,Peter Sonski,IND,0
+George,Kosciulla,U.S. Senate,,Ty Pinkins,DEM,23
+George,Kosciulla,U.S. Senate,,Roger F. Wicker,REP,306
+George,Kosciulla,U.S. House,4,Mike Ezell,REP,311
+George,Kosciulla,U.S. House,4,Craig Elliot Raybon,DEM,21
+George,Kosciulla,Supreme Court,2,Dawn H. Beam,,117
+George,Kosciulla,Supreme Court,2,David P. Sullivan,,171
+George,Kosciulla,Court of Appeals,5,Ian Baker,,77
+George,Kosciulla,Court of Appeals,5,Jennifer T. Schloegel,,44
+George,Kosciulla,Court of Appeals,5,Amy Lassitter St. Pe',,171
+George,Kosciulla,Election Commissioner,1,Joanie Evans,REP,X
+George,Kosciulla,Election Commissioner,3,Darlene Steede,REP,X
+George,Kosciulla,Election Commissioner,5,Rebecca 'Becky' Berry,REP,X
+George,Fairgrounds,President,,Kamala D. Harris,DEM,15
+George,Fairgrounds,President,,Chase Oliver,LIB,0
+George,Fairgrounds,President,,Jill Stein,GRN,0
+George,Fairgrounds,President,,Randall Terry,CON,0
+George,Fairgrounds,President,,Donald J. Trump,REP,145
+George,Fairgrounds,President,,Shiva Ayyadurai,IND,0
+George,Fairgrounds,President,,Claudia De la Cruz,IND,0
+George,Fairgrounds,President,,Robert F. Kennedy Jr.,IND,0
+George,Fairgrounds,President,,Peter Sonski,IND,0
+George,Fairgrounds,U.S. Senate,,Ty Pinkins,DEM,13
+George,Fairgrounds,U.S. Senate,,Roger F. Wicker,REP,147
+George,Fairgrounds,U.S. House,4,Mike Ezell,REP,146
+George,Fairgrounds,U.S. House,4,Craig Elliot Raybon,DEM,12
+George,Fairgrounds,Supreme Court,2,Dawn H. Beam,,62
+George,Fairgrounds,Supreme Court,2,David P. Sullivan,,77
+George,Fairgrounds,Court of Appeals,5,Ian Baker,,40
+George,Fairgrounds,Court of Appeals,5,Jennifer T. Schloegel,,30
+George,Fairgrounds,Court of Appeals,5,Amy Lassitter St. Pe',,74
+George,Fairgrounds,Election Commissioner,1,Joanie Evans,REP,X
+George,Fairgrounds,Election Commissioner,3,Darlene Steede,REP,X
+George,Fairgrounds,Election Commissioner,5,Rebecca 'Becky' Berry,REP,X
+George,Basin,President,,Kamala D. Harris,DEM,139
+George,Basin,President,,Chase Oliver,LIB,1
+George,Basin,President,,Jill Stein,GRN,0
+George,Basin,President,,Randall Terry,CON,0
+George,Basin,President,,Donald J. Trump,REP,913
+George,Basin,President,,Shiva Ayyadurai,IND,0
+George,Basin,President,,Claudia De la Cruz,IND,1
+George,Basin,President,,Robert F. Kennedy Jr.,IND,1
+George,Basin,President,,Peter Sonski,IND,1
+George,Basin,U.S. Senate,,Ty Pinkins,DEM,148
+George,Basin,U.S. Senate,,Roger F. Wicker,REP,891
+George,Basin,U.S. House,4,Mike Ezell,REP,907
+George,Basin,U.S. House,4,Craig Elliot Raybon,DEM,132
+George,Basin,Supreme Court,2,Dawn H. Beam,,339
+George,Basin,Supreme Court,2,David P. Sullivan,,576
+George,Basin,Court of Appeals,5,Ian Baker,,261
+George,Basin,Court of Appeals,5,Jennifer T. Schloegel,,200
+George,Basin,Court of Appeals,5,Amy Lassitter St. Pe',,488
+George,Basin,Election Commissioner,1,Joanie Evans,REP,X
+George,Basin,Election Commissioner,3,Darlene Steede,REP,X
+George,Basin,Election Commissioner,5,Rebecca 'Becky' Berry,REP,X
+George,Devils,President,,Kamala D. Harris,DEM,8
+George,Devils,President,,Chase Oliver,LIB,2
+George,Devils,President,,Jill Stein,GRN,0
+George,Devils,President,,Randall Terry,CON,0
+George,Devils,President,,Donald J. Trump,REP,249
+George,Devils,President,,Shiva Ayyadurai,IND,0
+George,Devils,President,,Claudia De la Cruz,IND,0
+George,Devils,President,,Robert F. Kennedy Jr.,IND,2
+George,Devils,President,,Peter Sonski,IND,0
+George,Devils,U.S. Senate,,Ty Pinkins,DEM,18
+George,Devils,U.S. Senate,,Roger F. Wicker,REP,241
+George,Devils,U.S. House,4,Mike Ezell,REP,249
+George,Devils,U.S. House,4,Craig Elliot Raybon,DEM,10
+George,Devils,Supreme Court,2,Dawn H. Beam,,113
+George,Devils,Supreme Court,2,David P. Sullivan,,117
+George,Devils,Court of Appeals,5,Ian Baker,,83
+George,Devils,Court of Appeals,5,Jennifer T. Schloegel,,38
+George,Devils,Court of Appeals,5,Amy Lassitter St. Pe',,114
+George,Devils,Election Commissioner,1,Joanie Evans,REP,X
+George,Devils,Election Commissioner,3,Darlene Steede,REP,X
+George,Devils,Election Commissioner,5,Rebecca 'Becky' Berry,REP,X
+George,Barron,President,,Kamala D. Harris,DEM,67
+George,Barron,President,,Chase Oliver,LIB,0
+George,Barron,President,,Jill Stein,GRN,3
+George,Barron,President,,Randall Terry,CON,0
+George,Barron,President,,Donald J. Trump,REP,770
+George,Barron,President,,Shiva Ayyadurai,IND,1
+George,Barron,President,,Claudia De la Cruz,IND,1
+George,Barron,President,,Robert F. Kennedy Jr.,IND,2
+George,Barron,President,,Peter Sonski,IND,0
+George,Barron,U.S. Senate,,Ty Pinkins,DEM,77
+George,Barron,U.S. Senate,,Roger F. Wicker,REP,747
+George,Barron,U.S. House,4,Mike Ezell,REP,774
+George,Barron,U.S. House,4,Craig Elliot Raybon,DEM,61
+George,Barron,Supreme Court,2,Dawn H. Beam,,287
+George,Barron,Supreme Court,2,David P. Sullivan,,466
+George,Barron,Court of Appeals,5,Ian Baker,,222
+George,Barron,Court of Appeals,5,Jennifer T. Schloegel,,126
+George,Barron,Court of Appeals,5,Amy Lassitter St. Pe',,422
+George,Barron,Election Commissioner,1,Joanie Evans,REP,X
+George,Barron,Election Commissioner,3,Darlene Steede,REP,788
+George,Barron,Election Commissioner,5,Rebecca 'Becky' Berry,REP,X
+George,City Hall,President,,Kamala D. Harris,DEM,107
+George,City Hall,President,,Chase Oliver,LIB,0
+George,City Hall,President,,Jill Stein,GRN,2
+George,City Hall,President,,Randall Terry,CON,0
+George,City Hall,President,,Donald J. Trump,REP,706
+George,City Hall,President,,Shiva Ayyadurai,IND,0
+George,City Hall,President,,Claudia De la Cruz,IND,1
+George,City Hall,President,,Robert F. Kennedy Jr.,IND,2
+George,City Hall,President,,Peter Sonski,IND,0
+George,City Hall,U.S. Senate,,Ty Pinkins,DEM,102
+George,City Hall,U.S. Senate,,Roger F. Wicker,REP,701
+George,City Hall,U.S. House,4,Mike Ezell,REP,707
+George,City Hall,U.S. House,4,Craig Elliot Raybon,DEM,102
+George,City Hall,Supreme Court,2,Dawn H. Beam,,277
+George,City Hall,Supreme Court,2,David P. Sullivan,,430
+George,City Hall,Court of Appeals,5,Ian Baker,,257
+George,City Hall,Court of Appeals,5,Jennifer T. Schloegel,,181
+George,City Hall,Court of Appeals,5,Amy Lassitter St. Pe',,301
+George,City Hall,Election Commissioner,1,Joanie Evans,REP,X
+George,City Hall,Election Commissioner,3,Darlene Steede,REP,X
+George,City Hall,Election Commissioner,5,Rebecca 'Becky' Berry,REP,X
+George,Shady Grove,President,,Kamala D. Harris,DEM,36
+George,Shady Grove,President,,Chase Oliver,LIB,0
+George,Shady Grove,President,,Jill Stein,GRN,2
+George,Shady Grove,President,,Randall Terry,CON,0
+George,Shady Grove,President,,Donald J. Trump,REP,711
+George,Shady Grove,President,,Shiva Ayyadurai,IND,0
+George,Shady Grove,President,,Claudia De la Cruz,IND,0
+George,Shady Grove,President,,Robert F. Kennedy Jr.,IND,1
+George,Shady Grove,President,,Peter Sonski,IND,1
+George,Shady Grove,U.S. Senate,,Ty Pinkins,DEM,45
+George,Shady Grove,U.S. Senate,,Roger F. Wicker,REP,694
+George,Shady Grove,U.S. House,4,Mike Ezell,REP,700
+George,Shady Grove,U.S. House,4,Craig Elliot Raybon,DEM,45
+George,Shady Grove,Supreme Court,2,Dawn H. Beam,,224
+George,Shady Grove,Supreme Court,2,David P. Sullivan,,453
+George,Shady Grove,Court of Appeals,5,Ian Baker,,262
+George,Shady Grove,Court of Appeals,5,Jennifer T. Schloegel,,134
+George,Shady Grove,Court of Appeals,5,Amy Lassitter St. Pe',,295
+George,Shady Grove,Election Commissioner,1,Joanie Evans,REP,X
+George,Shady Grove,Election Commissioner,3,Darlene Steede,REP,X
+George,Shady Grove,Election Commissioner,5,Rebecca 'Becky' Berry,REP,X
+George,Beverley,President,,Kamala D. Harris,DEM,81
+George,Beverley,President,,Chase Oliver,LIB,0
+George,Beverley,President,,Jill Stein,GRN,0
+George,Beverley,President,,Randall Terry,CON,0
+George,Beverley,President,,Donald J. Trump,REP,368
+George,Beverley,President,,Shiva Ayyadurai,IND,0
+George,Beverley,President,,Claudia De la Cruz,IND,2
+George,Beverley,President,,Robert F. Kennedy Jr.,IND,1
+George,Beverley,President,,Peter Sonski,IND,1
+George,Beverley,U.S. Senate,,Ty Pinkins,DEM,85
+George,Beverley,U.S. Senate,,Roger F. Wicker,REP,355
+George,Beverley,U.S. House,4,Mike Ezell,REP,382
+George,Beverley,U.S. House,4,Craig Elliot Raybon,DEM,65
+George,Beverley,Supreme Court,2,Dawn H. Beam,,163
+George,Beverley,Supreme Court,2,David P. Sullivan,,252
+George,Beverley,Court of Appeals,5,Ian Baker,,168
+George,Beverley,Court of Appeals,5,Jennifer T. Schloegel,,89
+George,Beverley,Court of Appeals,5,Amy Lassitter St. Pe',,159
+George,Beverley,Election Commissioner,1,Joanie Evans,REP,X
+George,Beverley,Election Commissioner,3,Darlene Steede,REP,X
+George,Beverley,Election Commissioner,5,Rebecca 'Becky' Berry,REP,X
+George,Salem,President,,Kamala D. Harris,DEM,22
+George,Salem,President,,Chase Oliver,LIB,0
+George,Salem,President,,Jill Stein,GRN,0
+George,Salem,President,,Randall Terry,CON,0
+George,Salem,President,,Donald J. Trump,REP,75
+George,Salem,President,,Shiva Ayyadurai,IND,0
+George,Salem,President,,Claudia De la Cruz,IND,0
+George,Salem,President,,Robert F. Kennedy Jr.,IND,0
+George,Salem,President,,Peter Sonski,IND,0
+George,Salem,U.S. Senate,,Ty Pinkins,DEM,21
+George,Salem,U.S. Senate,,Roger F. Wicker,REP,72
+George,Salem,U.S. House,4,Mike Ezell,REP,76
+George,Salem,U.S. House,4,Craig Elliot Raybon,DEM,19
+George,Salem,Supreme Court,2,Dawn H. Beam,,40
+George,Salem,Supreme Court,2,David P. Sullivan,,39
+George,Salem,Court of Appeals,5,Ian Baker,,20
+George,Salem,Court of Appeals,5,Jennifer T. Schloegel,,20
+George,Salem,Court of Appeals,5,Amy Lassitter St. Pe',,37
+George,Salem,Election Commissioner,1,Joanie Evans,REP,X
+George,Salem,Election Commissioner,3,Darlene Steede,REP,X
+George,Salem,Election Commissioner,5,Rebecca 'Becky' Berry,REP,X
+George,Middle School,President,,Kamala D. Harris,DEM,186
+George,Middle School,President,,Chase Oliver,LIB,0
+George,Middle School,President,,Jill Stein,GRN,1
+George,Middle School,President,,Randall Terry,CON,2
+George,Middle School,President,,Donald J. Trump,REP,296
+George,Middle School,President,,Shiva Ayyadurai,IND,0
+George,Middle School,President,,Claudia De la Cruz,IND,0
+George,Middle School,President,,Robert F. Kennedy Jr.,IND,2
+George,Middle School,President,,Peter Sonski,IND,0
+George,Middle School,U.S. Senate,,Ty Pinkins,DEM,188
+George,Middle School,U.S. Senate,,Roger F. Wicker,REP,289
+George,Middle School,U.S. House,4,Mike Ezell,REP,303
+George,Middle School,U.S. House,4,Craig Elliot Raybon,DEM,174
+George,Middle School,Supreme Court,2,Dawn H. Beam,,213
+George,Middle School,Supreme Court,2,David P. Sullivan,,226
+George,Middle School,Court of Appeals,5,Ian Baker,,110
+George,Middle School,Court of Appeals,5,Jennifer T. Schloegel,,177
+George,Middle School,Court of Appeals,5,Amy Lassitter St. Pe',,162
+George,Middle School,Election Commissioner,1,Joanie Evans,REP,X
+George,Middle School,Election Commissioner,3,Darlene Steede,REP,X
+George,Middle School,Election Commissioner,5,Rebecca 'Becky' Berry,REP,416
+George,Central,President,,Kamala D. Harris,DEM,28
+George,Central,President,,Chase Oliver,LIB,0
+George,Central,President,,Jill Stein,GRN,0
+George,Central,President,,Randall Terry,CON,0
+George,Central,President,,Donald J. Trump,REP,327
+George,Central,President,,Shiva Ayyadurai,IND,0
+George,Central,President,,Claudia De la Cruz,IND,0
+George,Central,President,,Robert F. Kennedy Jr.,IND,1
+George,Central,President,,Peter Sonski,IND,0
+George,Central,U.S. Senate,,Ty Pinkins,DEM,35
+George,Central,U.S. Senate,,Roger F. Wicker,REP,317
+George,Central,U.S. House,4,Mike Ezell,REP,326
+George,Central,U.S. House,4,Craig Elliot Raybon,DEM,28
+George,Central,Supreme Court,2,Dawn H. Beam,,109
+George,Central,Supreme Court,2,David P. Sullivan,,191
+George,Central,Court of Appeals,5,Ian Baker,,101
+George,Central,Court of Appeals,5,Jennifer T. Schloegel,,60
+George,Central,Court of Appeals,5,Amy Lassitter St. Pe',,145
+George,Central,Election Commissioner,1,Joanie Evans,REP,X
+George,Central,Election Commissioner,3,Darlene Steede,REP,X
+George,Central,Election Commissioner,5,Rebecca 'Becky' Berry,REP,321
+George,Bendale,President,,Kamala D. Harris,DEM,99
+George,Bendale,President,,Chase Oliver,LIB,2
+George,Bendale,President,,Jill Stein,GRN,1
+George,Bendale,President,,Randall Terry,CON,2
+George,Bendale,President,,Donald J. Trump,REP,449
+George,Bendale,President,,Shiva Ayyadurai,IND,0
+George,Bendale,President,,Claudia De la Cruz,IND,0
+George,Bendale,President,,Robert F. Kennedy Jr.,IND,2
+George,Bendale,President,,Peter Sonski,IND,0
+George,Bendale,U.S. Senate,,Ty Pinkins,DEM,103
+George,Bendale,U.S. Senate,,Roger F. Wicker,REP,438
+George,Bendale,U.S. House,4,Mike Ezell,REP,445
+George,Bendale,U.S. House,4,Craig Elliot Raybon,DEM,94
+George,Bendale,Supreme Court,2,Dawn H. Beam,,168
+George,Bendale,Supreme Court,2,David P. Sullivan,,324
+George,Bendale,Court of Appeals,5,Ian Baker,,181
+George,Bendale,Court of Appeals,5,Jennifer T. Schloegel,,106
+George,Bendale,Court of Appeals,5,Amy Lassitter St. Pe',,211
+George,Bendale,Election Commissioner,1,Joanie Evans,REP,X
+George,Bendale,Election Commissioner,3,Darlene Steede,REP,X
+George,Bendale,Election Commissioner,5,Rebecca 'Becky' Berry,REP,495
+George,Browne,President,,Kamala D. Harris,DEM,1
+George,Browne,President,,Chase Oliver,LIB,0
+George,Browne,President,,Jill Stein,GRN,0
+George,Browne,President,,Randall Terry,CON,0
+George,Browne,President,,Donald J. Trump,REP,184
+George,Browne,President,,Shiva Ayyadurai,IND,0
+George,Browne,President,,Claudia De la Cruz,IND,0
+George,Browne,President,,Robert F. Kennedy Jr.,IND,0
+George,Browne,President,,Peter Sonski,IND,0
+George,Browne,U.S. Senate,,Ty Pinkins,DEM,6
+George,Browne,U.S. Senate,,Roger F. Wicker,REP,176
+George,Browne,U.S. House,4,Mike Ezell,REP,182
+George,Browne,U.S. House,4,Craig Elliot Raybon,DEM,5
+George,Browne,Supreme Court,2,Dawn H. Beam,,55
+George,Browne,Supreme Court,2,David P. Sullivan,,97
+George,Browne,Court of Appeals,5,Ian Baker,,56
+George,Browne,Court of Appeals,5,Jennifer T. Schloegel,,38
+George,Browne,Court of Appeals,5,Amy Lassitter St. Pe',,72
+George,Browne,Election Commissioner,1,Joanie Evans,REP,X
+George,Browne,Election Commissioner,3,Darlene Steede,REP,X
+George,Browne,Election Commissioner,5,Rebecca 'Becky' Berry,REP,182
+George,Twin Creek,President,,Kamala D. Harris,DEM,39
+George,Twin Creek,President,,Chase Oliver,LIB,0
+George,Twin Creek,President,,Jill Stein,GRN,1
+George,Twin Creek,President,,Randall Terry,CON,1
+George,Twin Creek,President,,Donald J. Trump,REP,307
+George,Twin Creek,President,,Shiva Ayyadurai,IND,0
+George,Twin Creek,President,,Claudia De la Cruz,IND,0
+George,Twin Creek,President,,Robert F. Kennedy Jr.,IND,1
+George,Twin Creek,President,,Peter Sonski,IND,0
+George,Twin Creek,U.S. Senate,,Ty Pinkins,DEM,42
+George,Twin Creek,U.S. Senate,,Roger F. Wicker,REP,301
+George,Twin Creek,U.S. House,4,Mike Ezell,REP,305
+George,Twin Creek,U.S. House,4,Craig Elliot Raybon,DEM,37
+George,Twin Creek,Supreme Court,2,Dawn H. Beam,,121
+George,Twin Creek,Supreme Court,2,David P. Sullivan,,187
+George,Twin Creek,Court of Appeals,5,Ian Baker,,114
+George,Twin Creek,Court of Appeals,5,Jennifer T. Schloegel,,77
+George,Twin Creek,Court of Appeals,5,Amy Lassitter St. Pe',,124
+George,Twin Creek,Election Commissioner,1,Joanie Evans,REP,X
+George,Twin Creek,Election Commissioner,3,Darlene Steede,REP,X
+George,Twin Creek,Election Commissioner,5,Rebecca 'Becky' Berry,REP,328
+George,School Board 3,James 'Jimmy' Deese,Nonpartisan (Barron),James 'Jimmy' Deese,NONPART,278
+George,School Board 3,Matthew Esser,Nonpartisan (Barron),Matthew Esser,NONPART,185
+George,School Board 3,James 'Panky' Hill,Nonpartisan (Barron),James 'Panky' Hill,NONPART,285
+George,School Board 4,Christopher Hilbun,Nonpartisan (Barron),Christopher Hilbun,NONPART,727
+George,School Board 5,Della Maples Morgan,Nonpartisan (Barron),Della Maples Morgan,NONPART,262
+George,School Board 5,Robert Wade Whittington,Nonpartisan (Barron),Robert Wade Whittington,NONPART,186

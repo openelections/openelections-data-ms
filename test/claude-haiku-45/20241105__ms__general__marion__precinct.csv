@@ -1,0 +1,463 @@
+county,precinct,office,district,candidate,party,votes
+Marion,Bails Hill,President,,Kamala D. Harris,DEM,108
+Marion,Bails Hill,President,,Chase Oliver,LIB,0
+Marion,Bails Hill,President,,Jill Stein,GRN,1
+Marion,Bails Hill,President,,Randall Terry,CON,1
+Marion,Bails Hill,President,,Donald J. Trump,REP,422
+Marion,Bails Hill,President,,Shiva Ayyadurai,IND,0
+Marion,Bails Hill,President,,Claudia De la Cruz,IND,0
+Marion,Bails Hill,President,,Robert F. Kennedy Jr.,IND,4
+Marion,Bails Hill,President,,Peter Sonski,IND,0
+Marion,Bails Hill,U.S. Senate,,Ty Pinkins,DEM,116
+Marion,Bails Hill,U.S. Senate,,Roger F. Wicker,REP,417
+Marion,Bails Hill,U.S. House,3,Michael Guest,REP,471
+Marion,Bails Hill,Supreme Court,2,Dawn H. Beam,,292
+Marion,Bails Hill,Supreme Court,2,David P. Sullivan,,190
+Marion,Bails Hill,County School Board,3,Sebronette Barnes-Aborum,NP,X
+Marion,Bails Hill,County School Board,3,Lillian 'Lill' Johnson,NP,X
+Marion,Bails Hill,County School Board,4,Valeria Aikens Davis,NP,160
+Marion,Bails Hill,County School Board,4,Jimmy 'Porky' Walters,NP,363
+Marion,Bails Hill,Election Commissioner,1,Mike Bennett,REP,X
+Marion,Bails Hill,Election Commissioner,3,Dale Bracey,REP,X
+Marion,Bails Hill,Election Commissioner,5,Ada 'Jackie' Hammond,DEM,X
+Marion,Cartley,President,,Kamala D. Harris,DEM,47
+Marion,Cartley,President,,Chase Oliver,LIB,3
+Marion,Cartley,President,,Jill Stein,GRN,0
+Marion,Cartley,President,,Randall Terry,CON,0
+Marion,Cartley,President,,Donald J. Trump,REP,668
+Marion,Cartley,President,,Shiva Ayyadurai,IND,0
+Marion,Cartley,President,,Claudia De la Cruz,IND,0
+Marion,Cartley,President,,Robert F. Kennedy Jr.,IND,0
+Marion,Cartley,President,,Peter Sonski,IND,0
+Marion,Cartley,U.S. Senate,,Ty Pinkins,DEM,54
+Marion,Cartley,U.S. Senate,,Roger F. Wicker,REP,654
+Marion,Cartley,U.S. House,3,Michael Guest,REP,681
+Marion,Cartley,Supreme Court,2,Dawn H. Beam,,410
+Marion,Cartley,Supreme Court,2,David P. Sullivan,,268
+Marion,Cartley,County School Board,3,Sebronette Barnes-Aborum,NP,X
+Marion,Cartley,County School Board,3,Lillian 'Lill' Johnson,NP,X
+Marion,Cartley,County School Board,4,Valeria Aikens Davis,NP,X
+Marion,Cartley,County School Board,4,Jimmy 'Porky' Walters,NP,X
+Marion,Cartley,Election Commissioner,1,Mike Bennett,REP,X
+Marion,Cartley,Election Commissioner,3,Dale Bracey,REP,X
+Marion,Cartley,Election Commissioner,5,Ada 'Jackie' Hammond,DEM,X
+Marion,Cedar Grove,President,,Kamala D. Harris,DEM,180
+Marion,Cedar Grove,President,,Chase Oliver,LIB,2
+Marion,Cedar Grove,President,,Jill Stein,GRN,0
+Marion,Cedar Grove,President,,Randall Terry,CON,0
+Marion,Cedar Grove,President,,Donald J. Trump,REP,235
+Marion,Cedar Grove,President,,Shiva Ayyadurai,IND,0
+Marion,Cedar Grove,President,,Claudia De la Cruz,IND,1
+Marion,Cedar Grove,President,,Robert F. Kennedy Jr.,IND,1
+Marion,Cedar Grove,President,,Peter Sonski,IND,0
+Marion,Cedar Grove,U.S. Senate,,Ty Pinkins,DEM,183
+Marion,Cedar Grove,U.S. Senate,,Roger F. Wicker,REP,238
+Marion,Cedar Grove,U.S. House,3,Michael Guest,REP,336
+Marion,Cedar Grove,Supreme Court,2,Dawn H. Beam,,253
+Marion,Cedar Grove,Supreme Court,2,David P. Sullivan,,131
+Marion,Cedar Grove,County School Board,3,Sebronette Barnes-Aborum,NP,X
+Marion,Cedar Grove,County School Board,3,Lillian 'Lill' Johnson,NP,X
+Marion,Cedar Grove,County School Board,4,Valeria Aikens Davis,NP,X
+Marion,Cedar Grove,County School Board,4,Jimmy 'Porky' Walters,NP,X
+Marion,Cedar Grove,Election Commissioner,1,Mike Bennett,REP,X
+Marion,Cedar Grove,Election Commissioner,3,Dale Bracey,REP,X
+Marion,Cedar Grove,Election Commissioner,5,Ada 'Jackie' Hammond,DEM,X
+Marion,City Hall,President,,Kamala D. Harris,DEM,100
+Marion,City Hall,President,,Chase Oliver,LIB,0
+Marion,City Hall,President,,Jill Stein,GRN,1
+Marion,City Hall,President,,Randall Terry,CON,0
+Marion,City Hall,President,,Donald J. Trump,REP,117
+Marion,City Hall,President,,Shiva Ayyadurai,IND,0
+Marion,City Hall,President,,Claudia De la Cruz,IND,0
+Marion,City Hall,President,,Robert F. Kennedy Jr.,IND,1
+Marion,City Hall,President,,Peter Sonski,IND,0
+Marion,City Hall,U.S. Senate,,Ty Pinkins,DEM,95
+Marion,City Hall,U.S. Senate,,Roger F. Wicker,REP,127
+Marion,City Hall,U.S. House,3,Michael Guest,REP,169
+Marion,City Hall,Supreme Court,2,Dawn H. Beam,,120
+Marion,City Hall,Supreme Court,2,David P. Sullivan,,69
+Marion,City Hall,County School Board,3,Sebronette Barnes-Aborum,NP,X
+Marion,City Hall,County School Board,3,Lillian 'Lill' Johnson,NP,X
+Marion,City Hall,County School Board,4,Valeria Aikens Davis,NP,X
+Marion,City Hall,County School Board,4,Jimmy 'Porky' Walters,NP,X
+Marion,City Hall,Election Commissioner,1,Mike Bennett,REP,X
+Marion,City Hall,Election Commissioner,3,Dale Bracey,REP,166
+Marion,City Hall,Election Commissioner,5,Ada 'Jackie' Hammond,DEM,X
+Marion,Civil Defense,President,,Kamala D. Harris,DEM,124
+Marion,Civil Defense,President,,Chase Oliver,LIB,3
+Marion,Civil Defense,President,,Jill Stein,GRN,0
+Marion,Civil Defense,President,,Randall Terry,CON,0
+Marion,Civil Defense,President,,Donald J. Trump,REP,294
+Marion,Civil Defense,President,,Shiva Ayyadurai,IND,1
+Marion,Civil Defense,President,,Claudia De la Cruz,IND,0
+Marion,Civil Defense,President,,Robert F. Kennedy Jr.,IND,3
+Marion,Civil Defense,President,,Peter Sonski,IND,2
+Marion,Civil Defense,U.S. Senate,,Ty Pinkins,DEM,120
+Marion,Civil Defense,U.S. Senate,,Roger F. Wicker,REP,300
+Marion,Civil Defense,U.S. House,3,Michael Guest,REP,364
+Marion,Civil Defense,Supreme Court,2,Dawn H. Beam,,218
+Marion,Civil Defense,Supreme Court,2,David P. Sullivan,,163
+Marion,Civil Defense,County School Board,3,Sebronette Barnes-Aborum,NP,X
+Marion,Civil Defense,County School Board,3,Lillian 'Lill' Johnson,NP,X
+Marion,Civil Defense,County School Board,4,Valeria Aikens Davis,NP,1
+Marion,Civil Defense,County School Board,4,Jimmy 'Porky' Walters,NP,1
+Marion,Civil Defense,Election Commissioner,1,Mike Bennett,REP,X
+Marion,Civil Defense,Election Commissioner,3,Dale Bracey,REP,X
+Marion,Civil Defense,Election Commissioner,5,Ada 'Jackie' Hammond,DEM,X
+Marion,Darburn,President,,Kamala D. Harris,DEM,30
+Marion,Darburn,President,,Chase Oliver,LIB,1
+Marion,Darburn,President,,Jill Stein,GRN,0
+Marion,Darburn,President,,Randall Terry,CON,0
+Marion,Darburn,President,,Donald J. Trump,REP,208
+Marion,Darburn,President,,Shiva Ayyadurai,IND,0
+Marion,Darburn,President,,Claudia De la Cruz,IND,1
+Marion,Darburn,President,,Robert F. Kennedy Jr.,IND,1
+Marion,Darburn,President,,Peter Sonski,IND,0
+Marion,Darburn,U.S. Senate,,Ty Pinkins,DEM,31
+Marion,Darburn,U.S. Senate,,Roger F. Wicker,REP,208
+Marion,Darburn,U.S. House,3,Michael Guest,REP,215
+Marion,Darburn,Supreme Court,2,Dawn H. Beam,,118
+Marion,Darburn,Supreme Court,2,David P. Sullivan,,93
+Marion,Darburn,County School Board,3,Sebronette Barnes-Aborum,NP,39
+Marion,Darburn,County School Board,3,Lillian 'Lill' Johnson,NP,168
+Marion,Darburn,County School Board,4,Valeria Aikens Davis,NP,X
+Marion,Darburn,County School Board,4,Jimmy 'Porky' Walters,NP,X
+Marion,Darburn,Election Commissioner,1,Mike Bennett,REP,X
+Marion,Darburn,Election Commissioner,3,Dale Bracey,REP,228
+Marion,Darburn,Election Commissioner,5,Ada 'Jackie' Hammond,DEM,X
+Marion,East Columbia,President,,Kamala D. Harris,DEM,552
+Marion,East Columbia,President,,Chase Oliver,LIB,3
+Marion,East Columbia,President,,Jill Stein,GRN,0
+Marion,East Columbia,President,,Randall Terry,CON,0
+Marion,East Columbia,President,,Donald J. Trump,REP,276
+Marion,East Columbia,President,,Shiva Ayyadurai,IND,1
+Marion,East Columbia,President,,Claudia De la Cruz,IND,1
+Marion,East Columbia,President,,Robert F. Kennedy Jr.,IND,2
+Marion,East Columbia,President,,Peter Sonski,IND,1
+Marion,East Columbia,U.S. Senate,,Ty Pinkins,DEM,543
+Marion,East Columbia,U.S. Senate,,Roger F. Wicker,REP,288
+Marion,East Columbia,U.S. House,3,Michael Guest,REP,543
+Marion,East Columbia,Supreme Court,2,Dawn H. Beam,,495
+Marion,East Columbia,Supreme Court,2,David P. Sullivan,,202
+Marion,East Columbia,County School Board,3,Sebronette Barnes-Aborum,NP,X
+Marion,East Columbia,County School Board,3,Lillian 'Lill' Johnson,NP,X
+Marion,East Columbia,County School Board,4,Valeria Aikens Davis,NP,X
+Marion,East Columbia,County School Board,4,Jimmy 'Porky' Walters,NP,X
+Marion,East Columbia,Election Commissioner,1,Mike Bennett,REP,X
+Marion,East Columbia,Election Commissioner,3,Dale Bracey,REP,X
+Marion,East Columbia,Election Commissioner,5,Ada 'Jackie' Hammond,DEM,687
+Marion,Foxworth,President,,Kamala D. Harris,DEM,234
+Marion,Foxworth,President,,Chase Oliver,LIB,1
+Marion,Foxworth,President,,Jill Stein,GRN,0
+Marion,Foxworth,President,,Randall Terry,CON,2
+Marion,Foxworth,President,,Donald J. Trump,REP,579
+Marion,Foxworth,President,,Shiva Ayyadurai,IND,1
+Marion,Foxworth,President,,Claudia De la Cruz,IND,1
+Marion,Foxworth,President,,Robert F. Kennedy Jr.,IND,1
+Marion,Foxworth,President,,Peter Sonski,IND,1
+Marion,Foxworth,U.S. Senate,,Ty Pinkins,DEM,245
+Marion,Foxworth,U.S. Senate,,Roger F. Wicker,REP,567
+Marion,Foxworth,U.S. House,3,Michael Guest,REP,705
+Marion,Foxworth,Supreme Court,2,Dawn H. Beam,,456
+Marion,Foxworth,Supreme Court,2,David P. Sullivan,,291
+Marion,Foxworth,County School Board,3,Sebronette Barnes-Aborum,NP,306
+Marion,Foxworth,County School Board,3,Lillian 'Lill' Johnson,NP,492
+Marion,Foxworth,County School Board,4,Valeria Aikens Davis,NP,X
+Marion,Foxworth,County School Board,4,Jimmy 'Porky' Walters,NP,X
+Marion,Foxworth,Election Commissioner,1,Mike Bennett,REP,X
+Marion,Foxworth,Election Commissioner,3,Dale Bracey,REP,720
+Marion,Foxworth,Election Commissioner,5,Ada 'Jackie' Hammond,DEM,X
+Marion,Goss,President,,Kamala D. Harris,DEM,41
+Marion,Goss,President,,Chase Oliver,LIB,0
+Marion,Goss,President,,Jill Stein,GRN,0
+Marion,Goss,President,,Randall Terry,CON,0
+Marion,Goss,President,,Donald J. Trump,REP,324
+Marion,Goss,President,,Shiva Ayyadurai,IND,0
+Marion,Goss,President,,Claudia De la Cruz,IND,1
+Marion,Goss,President,,Robert F. Kennedy Jr.,IND,2
+Marion,Goss,President,,Peter Sonski,IND,0
+Marion,Goss,U.S. Senate,,Ty Pinkins,DEM,45
+Marion,Goss,U.S. Senate,,Roger F. Wicker,REP,322
+Marion,Goss,U.S. House,3,Michael Guest,REP,336
+Marion,Goss,Supreme Court,2,Dawn H. Beam,,206
+Marion,Goss,Supreme Court,2,David P. Sullivan,,138
+Marion,Goss,County School Board,3,Sebronette Barnes-Aborum,NP,X
+Marion,Goss,County School Board,3,Lillian 'Lill' Johnson,NP,X
+Marion,Goss,County School Board,4,Valeria Aikens Davis,NP,X
+Marion,Goss,County School Board,4,Jimmy 'Porky' Walters,NP,X
+Marion,Goss,Election Commissioner,1,Mike Bennett,REP,X
+Marion,Goss,Election Commissioner,3,Dale Bracey,REP,X
+Marion,Goss,Election Commissioner,5,Ada 'Jackie' Hammond,DEM,X
+Marion,Hub,President,,Kamala D. Harris,DEM,179
+Marion,Hub,President,,Chase Oliver,LIB,0
+Marion,Hub,President,,Jill Stein,GRN,0
+Marion,Hub,President,,Randall Terry,CON,0
+Marion,Hub,President,,Donald J. Trump,REP,165
+Marion,Hub,President,,Shiva Ayyadurai,IND,2
+Marion,Hub,President,,Claudia De la Cruz,IND,0
+Marion,Hub,President,,Robert F. Kennedy Jr.,IND,2
+Marion,Hub,President,,Peter Sonski,IND,0
+Marion,Hub,U.S. Senate,,Ty Pinkins,DEM,186
+Marion,Hub,U.S. Senate,,Roger F. Wicker,REP,161
+Marion,Hub,U.S. House,3,Michael Guest,REP,236
+Marion,Hub,Supreme Court,2,Dawn H. Beam,,197
+Marion,Hub,Supreme Court,2,David P. Sullivan,,96
+Marion,Hub,County School Board,3,Sebronette Barnes-Aborum,NP,X
+Marion,Hub,County School Board,3,Lillian 'Lill' Johnson,NP,X
+Marion,Hub,County School Board,4,Valeria Aikens Davis,NP,X
+Marion,Hub,County School Board,4,Jimmy 'Porky' Walters,NP,X
+Marion,Hub,Election Commissioner,1,Mike Bennett,REP,X
+Marion,Hub,Election Commissioner,3,Dale Bracey,REP,X
+Marion,Hub,Election Commissioner,5,Ada 'Jackie' Hammond,DEM,264
+Marion,Kokomo,President,,Kamala D. Harris,DEM,111
+Marion,Kokomo,President,,Chase Oliver,LIB,4
+Marion,Kokomo,President,,Jill Stein,GRN,0
+Marion,Kokomo,President,,Randall Terry,CON,0
+Marion,Kokomo,President,,Donald J. Trump,REP,380
+Marion,Kokomo,President,,Shiva Ayyadurai,IND,0
+Marion,Kokomo,President,,Claudia De la Cruz,IND,1
+Marion,Kokomo,President,,Robert F. Kennedy Jr.,IND,1
+Marion,Kokomo,President,,Peter Sonski,IND,0
+Marion,Kokomo,U.S. Senate,,Ty Pinkins,DEM,114
+Marion,Kokomo,U.S. Senate,,Roger F. Wicker,REP,372
+Marion,Kokomo,U.S. House,3,Michael Guest,REP,430
+Marion,Kokomo,Supreme Court,2,Dawn H. Beam,,256
+Marion,Kokomo,Supreme Court,2,David P. Sullivan,,186
+Marion,Kokomo,County School Board,3,Sebronette Barnes-Aborum,NP,51
+Marion,Kokomo,County School Board,3,Lillian 'Lill' Johnson,NP,88
+Marion,Kokomo,County School Board,4,Valeria Aikens Davis,NP,113
+Marion,Kokomo,County School Board,4,Jimmy 'Porky' Walters,NP,218
+Marion,Kokomo,Election Commissioner,1,Mike Bennett,REP,X
+Marion,Kokomo,Election Commissioner,3,Dale Bracey,REP,X
+Marion,Kokomo,Election Commissioner,5,Ada 'Jackie' Hammond,DEM,X
+Marion,Little Rock,President,,Kamala D. Harris,DEM,167
+Marion,Little Rock,President,,Chase Oliver,LIB,0
+Marion,Little Rock,President,,Jill Stein,GRN,0
+Marion,Little Rock,President,,Randall Terry,CON,0
+Marion,Little Rock,President,,Donald J. Trump,REP,255
+Marion,Little Rock,President,,Shiva Ayyadurai,IND,1
+Marion,Little Rock,President,,Claudia De la Cruz,IND,1
+Marion,Little Rock,President,,Robert F. Kennedy Jr.,IND,0
+Marion,Little Rock,President,,Peter Sonski,IND,0
+Marion,Little Rock,U.S. Senate,,Ty Pinkins,DEM,165
+Marion,Little Rock,U.S. Senate,,Roger F. Wicker,REP,250
+Marion,Little Rock,U.S. House,3,Michael Guest,REP,307
+Marion,Little Rock,Supreme Court,2,Dawn H. Beam,,210
+Marion,Little Rock,Supreme Court,2,David P. Sullivan,,119
+Marion,Little Rock,County School Board,3,Sebronette Barnes-Aborum,NP,51
+Marion,Little Rock,County School Board,3,Lillian 'Lill' Johnson,NP,200
+Marion,Little Rock,County School Board,4,Valeria Aikens Davis,NP,X
+Marion,Little Rock,County School Board,4,Jimmy 'Porky' Walters,NP,X
+Marion,Little Rock,Election Commissioner,1,Mike Bennett,REP,X
+Marion,Little Rock,Election Commissioner,3,Dale Bracey,REP,343
+Marion,Little Rock,Election Commissioner,5,Ada 'Jackie' Hammond,DEM,X
+Marion,Mt. Carmel,President,,Kamala D. Harris,DEM,133
+Marion,Mt. Carmel,President,,Chase Oliver,LIB,0
+Marion,Mt. Carmel,President,,Jill Stein,GRN,1
+Marion,Mt. Carmel,President,,Randall Terry,CON,0
+Marion,Mt. Carmel,President,,Donald J. Trump,REP,12
+Marion,Mt. Carmel,President,,Shiva Ayyadurai,IND,0
+Marion,Mt. Carmel,President,,Claudia De la Cruz,IND,0
+Marion,Mt. Carmel,President,,Robert F. Kennedy Jr.,IND,1
+Marion,Mt. Carmel,President,,Peter Sonski,IND,0
+Marion,Mt. Carmel,U.S. Senate,,Ty Pinkins,DEM,131
+Marion,Mt. Carmel,U.S. Senate,,Roger F. Wicker,REP,15
+Marion,Mt. Carmel,U.S. House,3,Michael Guest,REP,78
+Marion,Mt. Carmel,Supreme Court,2,Dawn H. Beam,,78
+Marion,Mt. Carmel,Supreme Court,2,David P. Sullivan,,36
+Marion,Mt. Carmel,County School Board,3,Sebronette Barnes-Aborum,NP,X
+Marion,Mt. Carmel,County School Board,3,Lillian 'Lill' Johnson,NP,X
+Marion,Mt. Carmel,County School Board,4,Valeria Aikens Davis,NP,X
+Marion,Mt. Carmel,County School Board,4,Jimmy 'Porky' Walters,NP,X
+Marion,Mt. Carmel,Election Commissioner,1,Mike Bennett,REP,X
+Marion,Mt. Carmel,Election Commissioner,3,Dale Bracey,REP,X
+Marion,Mt. Carmel,Election Commissioner,5,Ada 'Jackie' Hammond,DEM,138
+Marion,Morgantown,President,,Kamala D. Harris,DEM,16
+Marion,Morgantown,President,,Chase Oliver,LIB,0
+Marion,Morgantown,President,,Jill Stein,GRN,0
+Marion,Morgantown,President,,Randall Terry,CON,0
+Marion,Morgantown,President,,Donald J. Trump,REP,385
+Marion,Morgantown,President,,Shiva Ayyadurai,IND,0
+Marion,Morgantown,President,,Claudia De la Cruz,IND,0
+Marion,Morgantown,President,,Robert F. Kennedy Jr.,IND,1
+Marion,Morgantown,President,,Peter Sonski,IND,0
+Marion,Morgantown,U.S. Senate,,Ty Pinkins,DEM,19
+Marion,Morgantown,U.S. Senate,,Roger F. Wicker,REP,381
+Marion,Morgantown,U.S. House,3,Michael Guest,REP,385
+Marion,Morgantown,Supreme Court,2,Dawn H. Beam,,232
+Marion,Morgantown,Supreme Court,2,David P. Sullivan,,151
+Marion,Morgantown,County School Board,3,Sebronette Barnes-Aborum,NP,X
+Marion,Morgantown,County School Board,3,Lillian 'Lill' Johnson,NP,X
+Marion,Morgantown,County School Board,4,Valeria Aikens Davis,NP,X
+Marion,Morgantown,County School Board,4,Jimmy 'Porky' Walters,NP,X
+Marion,Morgantown,Election Commissioner,1,Mike Bennett,REP,X
+Marion,Morgantown,Election Commissioner,3,Dale Bracey,REP,391
+Marion,Morgantown,Election Commissioner,5,Ada 'Jackie' Hammond,DEM,X
+Marion,Morris,President,,Kamala D. Harris,DEM,378
+Marion,Morris,President,,Chase Oliver,LIB,1
+Marion,Morris,President,,Jill Stein,GRN,1
+Marion,Morris,President,,Randall Terry,CON,0
+Marion,Morris,President,,Donald J. Trump,REP,797
+Marion,Morris,President,,Shiva Ayyadurai,IND,0
+Marion,Morris,President,,Claudia De la Cruz,IND,1
+Marion,Morris,President,,Robert F. Kennedy Jr.,IND,7
+Marion,Morris,President,,Peter Sonski,IND,2
+Marion,Morris,U.S. Senate,,Ty Pinkins,DEM,393
+Marion,Morris,U.S. Senate,,Roger F. Wicker,REP,783
+Marion,Morris,U.S. House,3,Michael Guest,REP,957
+Marion,Morris,Supreme Court,2,Dawn H. Beam,,677
+Marion,Morris,Supreme Court,2,David P. Sullivan,,343
+Marion,Morris,County School Board,3,Sebronette Barnes-Aborum,NP,X
+Marion,Morris,County School Board,3,Lillian 'Lill' Johnson,NP,X
+Marion,Morris,County School Board,4,Valeria Aikens Davis,NP,X
+Marion,Morris,County School Board,4,Jimmy 'Porky' Walters,NP,X
+Marion,Morris,Election Commissioner,1,Mike Bennett,REP,973
+Marion,Morris,Election Commissioner,3,Dale Bracey,REP,X
+Marion,Morris,Election Commissioner,5,Ada 'Jackie' Hammond,DEM,X
+Marion,National Guard,President,,Kamala D. Harris,DEM,145
+Marion,National Guard,President,,Chase Oliver,LIB,0
+Marion,National Guard,President,,Jill Stein,GRN,1
+Marion,National Guard,President,,Randall Terry,CON,2
+Marion,National Guard,President,,Donald J. Trump,REP,1175
+Marion,National Guard,President,,Shiva Ayyadurai,IND,0
+Marion,National Guard,President,,Claudia De la Cruz,IND,0
+Marion,National Guard,President,,Robert F. Kennedy Jr.,IND,3
+Marion,National Guard,President,,Peter Sonski,IND,0
+Marion,National Guard,U.S. Senate,,Ty Pinkins,DEM,138
+Marion,National Guard,U.S. Senate,,Roger F. Wicker,REP,1171
+Marion,National Guard,U.S. House,3,Michael Guest,REP,1243
+Marion,National Guard,Supreme Court,2,Dawn H. Beam,,834
+Marion,National Guard,Supreme Court,2,David P. Sullivan,,400
+Marion,National Guard,County School Board,3,Sebronette Barnes-Aborum,NP,X
+Marion,National Guard,County School Board,3,Lillian 'Lill' Johnson,NP,X
+Marion,National Guard,County School Board,4,Valeria Aikens Davis,NP,X
+Marion,National Guard,County School Board,4,Jimmy 'Porky' Walters,NP,X
+Marion,National Guard,Election Commissioner,1,Mike Bennett,REP,1238
+Marion,National Guard,Election Commissioner,3,Dale Bracey,REP,X
+Marion,National Guard,Election Commissioner,5,Ada 'Jackie' Hammond,DEM,X
+Marion,Pine Burr,President,,Kamala D. Harris,DEM,105
+Marion,Pine Burr,President,,Chase Oliver,LIB,0
+Marion,Pine Burr,President,,Jill Stein,GRN,0
+Marion,Pine Burr,President,,Randall Terry,CON,0
+Marion,Pine Burr,President,,Donald J. Trump,REP,283
+Marion,Pine Burr,President,,Shiva Ayyadurai,IND,0
+Marion,Pine Burr,President,,Claudia De la Cruz,IND,0
+Marion,Pine Burr,President,,Robert F. Kennedy Jr.,IND,2
+Marion,Pine Burr,President,,Peter Sonski,IND,0
+Marion,Pine Burr,U.S. Senate,,Ty Pinkins,DEM,100
+Marion,Pine Burr,U.S. Senate,,Roger F. Wicker,REP,288
+Marion,Pine Burr,U.S. House,3,Michael Guest,REP,332
+Marion,Pine Burr,Supreme Court,2,Dawn H. Beam,,189
+Marion,Pine Burr,Supreme Court,2,David P. Sullivan,,149
+Marion,Pine Burr,County School Board,3,Sebronette Barnes-Aborum,NP,X
+Marion,Pine Burr,County School Board,3,Lillian 'Lill' Johnson,NP,X
+Marion,Pine Burr,County School Board,4,Valeria Aikens Davis,NP,78
+Marion,Pine Burr,County School Board,4,Jimmy 'Porky' Walters,NP,404
+Marion,Pine Burr,Election Commissioner,1,Mike Bennett,REP,X
+Marion,Pine Burr,Election Commissioner,3,Dale Bracey,REP,X
+Marion,Pine Burr,Election Commissioner,5,Ada 'Jackie' Hammond,DEM,253
+Marion,Pitman,President,,Kamala D. Harris,DEM,23
+Marion,Pitman,President,,Chase Oliver,LIB,1
+Marion,Pitman,President,,Jill Stein,GRN,0
+Marion,Pitman,President,,Randall Terry,CON,1
+Marion,Pitman,President,,Donald J. Trump,REP,467
+Marion,Pitman,President,,Shiva Ayyadurai,IND,0
+Marion,Pitman,President,,Claudia De la Cruz,IND,0
+Marion,Pitman,President,,Robert F. Kennedy Jr.,IND,4
+Marion,Pitman,President,,Peter Sonski,IND,1
+Marion,Pitman,U.S. Senate,,Ty Pinkins,DEM,22
+Marion,Pitman,U.S. Senate,,Roger F. Wicker,REP,468
+Marion,Pitman,U.S. House,3,Michael Guest,REP,476
+Marion,Pitman,Supreme Court,2,Dawn H. Beam,,259
+Marion,Pitman,Supreme Court,2,David P. Sullivan,,214
+Marion,Pitman,County School Board,3,Sebronette Barnes-Aborum,NP,X
+Marion,Pitman,County School Board,3,Lillian 'Lill' Johnson,NP,X
+Marion,Pitman,County School Board,4,Valeria Aikens Davis,NP,78
+Marion,Pitman,County School Board,4,Jimmy 'Porky' Walters,NP,404
+Marion,Pitman,Election Commissioner,1,Mike Bennett,REP,X
+Marion,Pitman,Election Commissioner,3,Dale Bracey,REP,X
+Marion,Pitman,Election Commissioner,5,Ada 'Jackie' Hammond,DEM,X
+Marion,Poplartown,President,,Kamala D. Harris,DEM,317
+Marion,Poplartown,President,,Chase Oliver,LIB,2
+Marion,Poplartown,President,,Jill Stein,GRN,0
+Marion,Poplartown,President,,Randall Terry,CON,1
+Marion,Poplartown,President,,Donald J. Trump,REP,352
+Marion,Poplartown,President,,Shiva Ayyadurai,IND,0
+Marion,Poplartown,President,,Claudia De la Cruz,IND,2
+Marion,Poplartown,President,,Robert F. Kennedy Jr.,IND,5
+Marion,Poplartown,President,,Peter Sonski,IND,0
+Marion,Poplartown,U.S. Senate,,Ty Pinkins,DEM,311
+Marion,Poplartown,U.S. Senate,,Roger F. Wicker,REP,360
+Marion,Poplartown,U.S. House,3,Michael Guest,REP,527
+Marion,Poplartown,Supreme Court,2,Dawn H. Beam,,355
+Marion,Poplartown,Supreme Court,2,David P. Sullivan,,232
+Marion,Poplartown,County School Board,3,Sebronette Barnes-Aborum,NP,X
+Marion,Poplartown,County School Board,3,Lillian 'Lill' Johnson,NP,X
+Marion,Poplartown,County School Board,4,Valeria Aikens Davis,NP,X
+Marion,Poplartown,County School Board,4,Jimmy 'Porky' Walters,NP,X
+Marion,Poplartown,Election Commissioner,1,Mike Bennett,REP,X
+Marion,Poplartown,Election Commissioner,3,Dale Bracey,REP,X
+Marion,Poplartown,Election Commissioner,5,Ada 'Jackie' Hammond,DEM,X
+Marion,Sandy Hook,President,,Kamala D. Harris,DEM,104
+Marion,Sandy Hook,President,,Chase Oliver,LIB,0
+Marion,Sandy Hook,President,,Jill Stein,GRN,0
+Marion,Sandy Hook,President,,Randall Terry,CON,0
+Marion,Sandy Hook,President,,Donald J. Trump,REP,220
+Marion,Sandy Hook,President,,Shiva Ayyadurai,IND,0
+Marion,Sandy Hook,President,,Claudia De la Cruz,IND,0
+Marion,Sandy Hook,President,,Robert F. Kennedy Jr.,IND,0
+Marion,Sandy Hook,President,,Peter Sonski,IND,0
+Marion,Sandy Hook,U.S. Senate,,Ty Pinkins,DEM,104
+Marion,Sandy Hook,U.S. Senate,,Roger F. Wicker,REP,220
+Marion,Sandy Hook,U.S. House,3,Michael Guest,REP,260
+Marion,Sandy Hook,Supreme Court,2,Dawn H. Beam,,165
+Marion,Sandy Hook,Supreme Court,2,David P. Sullivan,,115
+Marion,Sandy Hook,County School Board,3,Sebronette Barnes-Aborum,NP,X
+Marion,Sandy Hook,County School Board,3,Lillian 'Lill' Johnson,NP,X
+Marion,Sandy Hook,County School Board,4,Valeria Aikens Davis,NP,121
+Marion,Sandy Hook,County School Board,4,Jimmy 'Porky' Walters,NP,195
+Marion,Sandy Hook,Election Commissioner,1,Mike Bennett,REP,X
+Marion,Sandy Hook,Election Commissioner,3,Dale Bracey,REP,X
+Marion,Sandy Hook,Election Commissioner,5,Ada 'Jackie' Hammond,DEM,X
+Marion,South Columbia,President,,Kamala D. Harris,DEM,112
+Marion,South Columbia,President,,Chase Oliver,LIB,0
+Marion,South Columbia,President,,Jill Stein,GRN,0
+Marion,South Columbia,President,,Randall Terry,CON,0
+Marion,South Columbia,President,,Donald J. Trump,REP,14
+Marion,South Columbia,President,,Shiva Ayyadurai,IND,0
+Marion,South Columbia,President,,Claudia De la Cruz,IND,0
+Marion,South Columbia,President,,Robert F. Kennedy Jr.,IND,0
+Marion,South Columbia,President,,Peter Sonski,IND,0
+Marion,South Columbia,U.S. Senate,,Ty Pinkins,DEM,112
+Marion,South Columbia,U.S. Senate,,Roger F. Wicker,REP,14
+Marion,South Columbia,U.S. House,3,Michael Guest,REP,56
+Marion,South Columbia,Supreme Court,2,Dawn H. Beam,,52
+Marion,South Columbia,Supreme Court,2,David P. Sullivan,,35
+Marion,South Columbia,County School Board,3,Sebronette Barnes-Aborum,NP,X
+Marion,South Columbia,County School Board,3,Lillian 'Lill' Johnson,NP,X
+Marion,South Columbia,County School Board,4,Valeria Aikens Davis,NP,2
+Marion,South Columbia,County School Board,4,Jimmy 'Porky' Walters,NP,4
+Marion,South Columbia,Election Commissioner,1,Mike Bennett,REP,250
+Marion,South Columbia,Election Commissioner,3,Dale Bracey,REP,X
+Marion,South Columbia,Election Commissioner,5,Ada 'Jackie' Hammond,DEM,114
+Marion,Union,President,,Kamala D. Harris,DEM,9
+Marion,Union,President,,Chase Oliver,LIB,0
+Marion,Union,President,,Jill Stein,GRN,0
+Marion,Union,President,,Randall Terry,CON,1
+Marion,Union,President,,Donald J. Trump,REP,246
+Marion,Union,President,,Shiva Ayyadurai,IND,0
+Marion,Union,President,,Claudia De la Cruz,IND,0
+Marion,Union,President,,Robert F. Kennedy Jr.,IND,0
+Marion,Union,President,,Peter Sonski,IND,1
+Marion,Union,U.S. Senate,,Ty Pinkins,DEM,14
+Marion,Union,U.S. Senate,,Roger F. Wicker,REP,241
+Marion,Union,U.S. House,3,Michael Guest,REP,253
+Marion,Union,Supreme Court,2,Dawn H. Beam,,160
+Marion,Union,Supreme Court,2,David P. Sullivan,,84
+Marion,Union,County School Board,3,Sebronette Barnes-Aborum,NP,X
+Marion,Union,County School Board,3,Lillian 'Lill' Johnson,NP,X
+Marion,Union,County School Board,4,Valeria Aikens Davis,NP,X
+Marion,Union,County School Board,4,Jimmy 'Porky' Walters,NP,X
+Marion,Union,Election Commissioner,1,Mike Bennett,REP,X
+Marion,Union,Election Commissioner,3,Dale Bracey,REP,X
+Marion,Union,Election Commissioner,5,Ada 'Jackie' Hammond,DEM,X

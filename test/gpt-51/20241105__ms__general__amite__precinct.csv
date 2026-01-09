@@ -1,0 +1,109 @@
+county,precinct,office,district,candidate,party,votes
+Amite,East Fork,President,,Kamala D. Harris,DEM,158
+Amite,East Fork,President,,Donald J. Trump,REP,225
+Amite,East Fork,President,,Robert F. Kennedy Jr.,IND,20
+Amite,East Fork,President,,Chase Oliver,LIB,1
+Amite,East Fork,President,,Jill Stein,GRN,1
+Amite,East Fork,President,,Claudia De La Cruz,IND,1
+Amite,East Fork,President,,J. D. Sharp,IND,0
+Amite,East Fork,President,,Taylor Reimer,IND,0
+Amite,East Fork,President,,Write-ins,IND,0
+Amite,Gloster Baptist,President,,Kamala D. Harris,DEM,211
+Amite,Gloster Baptist,President,,Donald J. Trump,REP,258
+Amite,Gloster Baptist,President,,Robert F. Kennedy Jr.,IND,13
+Amite,Gloster Baptist,President,,Chase Oliver,LIB,2
+Amite,Gloster Baptist,President,,Jill Stein,GRN,0
+Amite,Gloster Baptist,President,,Claudia De La Cruz,IND,1
+Amite,Gloster Baptist,President,,J. D. Sharp,IND,0
+Amite,Gloster Baptist,President,,Taylor Reimer,IND,0
+Amite,Gloster Baptist,President,,Write-ins,IND,0
+Amite,Gloster City Hall,President,,Kamala D. Harris,DEM,164
+Amite,Gloster City Hall,President,,Donald J. Trump,REP,209
+Amite,Gloster City Hall,President,,Robert F. Kennedy Jr.,IND,9
+Amite,Gloster City Hall,President,,Chase Oliver,LIB,1
+Amite,Gloster City Hall,President,,Jill Stein,GRN,0
+Amite,Gloster City Hall,President,,Claudia De La Cruz,IND,0
+Amite,Gloster City Hall,President,,J. D. Sharp,IND,0
+Amite,Gloster City Hall,President,,Taylor Reimer,IND,0
+Amite,Gloster City Hall,President,,Write-ins,IND,0
+Amite,Liberty,President,,Kamala D. Harris,DEM,167
+Amite,Liberty,President,,Donald J. Trump,REP,249
+Amite,Liberty,President,,Robert F. Kennedy Jr.,IND,17
+Amite,Liberty,President,,Chase Oliver,LIB,3
+Amite,Liberty,President,,Jill Stein,GRN,2
+Amite,Liberty,President,,Claudia De La Cruz,IND,0
+Amite,Liberty,President,,J. D. Sharp,IND,0
+Amite,Liberty,President,,Taylor Reimer,IND,0
+Amite,Liberty,President,,Write-ins,IND,0
+Amite,County Library,President,,Kamala D. Harris,DEM,91
+Amite,County Library,President,,Donald J. Trump,REP,178
+Amite,County Library,President,,Robert F. Kennedy Jr.,IND,5
+Amite,County Library,President,,Chase Oliver,LIB,1
+Amite,County Library,President,,Jill Stein,GRN,0
+Amite,County Library,President,,Claudia De La Cruz,IND,0
+Amite,County Library,President,,J. D. Sharp,IND,0
+Amite,County Library,President,,Taylor Reimer,IND,0
+Amite,County Library,President,,Write-ins,IND,0
+Amite,East Liberty,President,,Kamala D. Harris,DEM,52
+Amite,East Liberty,President,,Donald J. Trump,REP,137
+Amite,East Liberty,President,,Robert F. Kennedy Jr.,IND,3
+Amite,East Liberty,President,,Chase Oliver,LIB,1
+Amite,East Liberty,President,,Jill Stein,GRN,0
+Amite,East Liberty,President,,Claudia De La Cruz,IND,0
+Amite,East Liberty,President,,J. D. Sharp,IND,0
+Amite,East Liberty,President,,Taylor Reimer,IND,0
+Amite,East Liberty,President,,Write-ins,IND,0
+Amite,East Fork,U.S. Senate,,Ty Pinkins,DEM,156
+Amite,East Fork,U.S. Senate,,Roger Wicker,REP,282
+Amite,East Fork,U.S. Senate,,Rashad Lewis,LIB,10
+Amite,East Fork,U.S. Senate,,Dan Eubanks,IND,5
+Amite,East Fork,U.S. Senate,,Sharon Murff,IND,0
+Amite,Gloster Baptist,U.S. Senate,,Ty Pinkins,DEM,202
+Amite,Gloster Baptist,U.S. Senate,,Roger Wicker,REP,272
+Amite,Gloster Baptist,U.S. Senate,,Rashad Lewis,LIB,5
+Amite,Gloster Baptist,U.S. Senate,,Dan Eubanks,IND,6
+Amite,Gloster Baptist,U.S. Senate,,Sharon Murff,IND,1
+Amite,Gloster City Hall,U.S. Senate,,Ty Pinkins,DEM,150
+Amite,Gloster City Hall,U.S. Senate,,Roger Wicker,REP,226
+Amite,Gloster City Hall,U.S. Senate,,Rashad Lewis,LIB,4
+Amite,Gloster City Hall,U.S. Senate,,Dan Eubanks,IND,6
+Amite,Gloster City Hall,U.S. Senate,,Sharon Murff,IND,0
+Amite,Liberty,U.S. Senate,,Ty Pinkins,DEM,166
+Amite,Liberty,U.S. Senate,,Roger Wicker,REP,286
+Amite,Liberty,U.S. Senate,,Rashad Lewis,LIB,7
+Amite,Liberty,U.S. Senate,,Dan Eubanks,IND,4
+Amite,Liberty,U.S. Senate,,Sharon Murff,IND,3
+Amite,County Library,U.S. Senate,,Ty Pinkins,DEM,84
+Amite,County Library,U.S. Senate,,Roger Wicker,REP,199
+Amite,County Library,U.S. Senate,,Rashad Lewis,LIB,4
+Amite,County Library,U.S. Senate,,Dan Eubanks,IND,2
+Amite,County Library,U.S. Senate,,Sharon Murff,IND,1
+Amite,East Liberty,U.S. Senate,,Ty Pinkins,DEM,49
+Amite,East Liberty,U.S. Senate,,Roger Wicker,REP,151
+Amite,East Liberty,U.S. Senate,,Rashad Lewis,LIB,1
+Amite,East Liberty,U.S. Senate,,Dan Eubanks,IND,1
+Amite,East Liberty,U.S. Senate,,Sharon Murff,IND,0
+Amite,East Fork,U.S. House,2,Ron Eller,REP,241
+Amite,Gloster Baptist,U.S. House,2,Ron Eller,REP,272
+Amite,Gloster City Hall,U.S. House,2,Ron Eller,REP,233
+Amite,Liberty,U.S. House,2,Ron Eller,REP,314
+Amite,County Library,U.S. House,2,Ron Eller,REP,207
+Amite,East Liberty,U.S. House,2,Ron Eller,REP,129
+Amite,East Fork,U.S. House,2,Bennie G. Thompson,DEM,164
+Amite,Gloster Baptist,U.S. House,2,Bennie G. Thompson,DEM,208
+Amite,Gloster City Hall,U.S. House,2,Bennie G. Thompson,DEM,178
+Amite,Liberty,U.S. House,2,Bennie G. Thompson,DEM,241
+Amite,County Library,U.S. House,2,Bennie G. Thompson,DEM,98
+Amite,East Liberty,U.S. House,2,Bennie G. Thompson,DEM,56
+Amite,East Fork,Supreme Court,2,Dawn H. Beam,,124
+Amite,Gloster Baptist,Supreme Court,2,Dawn H. Beam,,121
+Amite,Gloster City Hall,Supreme Court,2,Dawn H. Beam,,96
+Amite,Liberty,Supreme Court,2,Dawn H. Beam,,151
+Amite,County Library,Supreme Court,2,Dawn H. Beam,,92
+Amite,East Liberty,Supreme Court,2,Dawn H. Beam,,63
+Amite,East Fork,Supreme Court,2,David M. Ishee,,132
+Amite,Gloster Baptist,Supreme Court,2,David M. Ishee,,171
+Amite,Gloster City Hall,Supreme Court,2,David M. Ishee,,127
+Amite,Liberty,Supreme Court,2,David M. Ishee,,180
+Amite,County Library,Supreme Court,2,David M. Ishee,,111
+Amite,East Liberty,Supreme Court,2,David M. Ishee,,78
