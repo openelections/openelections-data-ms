@@ -1,0 +1,377 @@
+county,precinct,office,district,candidate,party,votes
+DeSoto,Alphaba Cockrum,U.S. House,1,Cliff Johnson,DEM,36
+DeSoto,Alphaba Cockrum,U.S. House,1,Kelvin Buck,DEM,10
+DeSoto,Alphaba Cockrum,U.S. House,1,Trent Kelly,REP,224
+DeSoto,Alphaba Cockrum,U.S. Senate,,Albert R. Littell,DEM,7
+DeSoto,Alphaba Cockrum,U.S. Senate,,Priscilla W. Till,DEM,12
+DeSoto,Alphaba Cockrum,U.S. Senate,,Scott Colom,DEM,27
+DeSoto,Alphaba Cockrum,U.S. Senate,,Cindy Hyde-Smith,REP,197
+DeSoto,Alphaba Cockrum,U.S. Senate,,Sarah Adlakha,REP,36
+DeSoto,Baker's Chapel,U.S. House,1,Cliff Johnson,DEM,25
+DeSoto,Baker's Chapel,U.S. House,1,Kelvin Buck,DEM,8
+DeSoto,Baker's Chapel,U.S. House,1,Trent Kelly,REP,160
+DeSoto,Baker's Chapel,U.S. Senate,,Albert R. Littell,DEM,6
+DeSoto,Baker's Chapel,U.S. Senate,,Priscilla W. Till,DEM,3
+DeSoto,Baker's Chapel,U.S. Senate,,Scott Colom,DEM,24
+DeSoto,Baker's Chapel,U.S. Senate,,Cindy Hyde-Smith,REP,141
+DeSoto,Baker's Chapel,U.S. Senate,,Sarah Adlakha,REP,28
+DeSoto,BankPlus Sports Center,U.S. House,1,Cliff Johnson,DEM,123
+DeSoto,BankPlus Sports Center,U.S. House,1,Kelvin Buck,DEM,60
+DeSoto,BankPlus Sports Center,U.S. House,1,Trent Kelly,REP,178
+DeSoto,BankPlus Sports Center,U.S. Senate,,Albert R. Littell,DEM,20
+DeSoto,BankPlus Sports Center,U.S. Senate,,Priscilla W. Till,DEM,64
+DeSoto,BankPlus Sports Center,U.S. Senate,,Scott Colom,DEM,102
+DeSoto,BankPlus Sports Center,U.S. Senate,,Cindy Hyde-Smith,REP,156
+DeSoto,BankPlus Sports Center,U.S. Senate,,Sarah Adlakha,REP,27
+DeSoto,Boulevard Baptist Church,U.S. House,1,Cliff Johnson,DEM,169
+DeSoto,Boulevard Baptist Church,U.S. House,1,Kelvin Buck,DEM,70
+DeSoto,Boulevard Baptist Church,U.S. House,1,Trent Kelly,REP,189
+DeSoto,Boulevard Baptist Church,U.S. Senate,,Albert R. Littell,DEM,34
+DeSoto,Boulevard Baptist Church,U.S. Senate,,Priscilla W. Till,DEM,60
+DeSoto,Boulevard Baptist Church,U.S. Senate,,Scott Colom,DEM,144
+DeSoto,Boulevard Baptist Church,U.S. Senate,,Cindy Hyde-Smith,REP,163
+DeSoto,Boulevard Baptist Church,U.S. Senate,,Sarah Adlakha,REP,33
+DeSoto,Bridgetown,U.S. House,1,Cliff Johnson,DEM,24
+DeSoto,Bridgetown,U.S. House,1,Kelvin Buck,DEM,3
+DeSoto,Bridgetown,U.S. House,1,Trent Kelly,REP,174
+DeSoto,Bridgetown,U.S. Senate,,Albert R. Littell,DEM,1
+DeSoto,Bridgetown,U.S. Senate,,Priscilla W. Till,DEM,6
+DeSoto,Bridgetown,U.S. Senate,,Scott Colom,DEM,19
+DeSoto,Bridgetown,U.S. Senate,,Cindy Hyde-Smith,REP,152
+DeSoto,Bridgetown,U.S. Senate,,Sarah Adlakha,REP,34
+DeSoto,Church Road Baptist,U.S. House,1,Cliff Johnson,DEM,96
+DeSoto,Church Road Baptist,U.S. House,1,Kelvin Buck,DEM,33
+DeSoto,Church Road Baptist,U.S. House,1,Trent Kelly,REP,160
+DeSoto,Church Road Baptist,U.S. Senate,,Albert R. Littell,DEM,24
+DeSoto,Church Road Baptist,U.S. Senate,,Priscilla W. Till,DEM,42
+DeSoto,Church Road Baptist,U.S. Senate,,Scott Colom,DEM,63
+DeSoto,Church Road Baptist,U.S. Senate,,Cindy Hyde-Smith,REP,149
+DeSoto,Church Road Baptist,U.S. Senate,,Sarah Adlakha,REP,16
+DeSoto,Colonial Hills Hernando,U.S. House,1,Cliff Johnson,DEM,69
+DeSoto,Colonial Hills Hernando,U.S. House,1,Kelvin Buck,DEM,14
+DeSoto,Colonial Hills Hernando,U.S. House,1,Trent Kelly,REP,302
+DeSoto,Colonial Hills Hernando,U.S. Senate,,Albert R. Littell,DEM,10
+DeSoto,Colonial Hills Hernando,U.S. Senate,,Priscilla W. Till,DEM,27
+DeSoto,Colonial Hills Hernando,U.S. Senate,,Scott Colom,DEM,44
+DeSoto,Colonial Hills Hernando,U.S. Senate,,Cindy Hyde-Smith,REP,253
+DeSoto,Colonial Hills Hernando,U.S. Senate,,Sarah Adlakha,REP,64
+DeSoto,Dean Hill Baptist Church,U.S. House,1,Cliff Johnson,DEM,52
+DeSoto,Dean Hill Baptist Church,U.S. House,1,Kelvin Buck,DEM,15
+DeSoto,Dean Hill Baptist Church,U.S. House,1,Trent Kelly,REP,229
+DeSoto,Dean Hill Baptist Church,U.S. Senate,,Albert R. Littell,DEM,8
+DeSoto,Dean Hill Baptist Church,U.S. Senate,,Priscilla W. Till,DEM,18
+DeSoto,Dean Hill Baptist Church,U.S. Senate,,Scott Colom,DEM,38
+DeSoto,Dean Hill Baptist Church,U.S. Senate,,Cindy Hyde-Smith,REP,183
+DeSoto,Dean Hill Baptist Church,U.S. Senate,,Sarah Adlakha,REP,53
+DeSoto,Desoto Hills Baptist Church,U.S. House,1,Cliff Johnson,DEM,163
+DeSoto,Desoto Hills Baptist Church,U.S. House,1,Kelvin Buck,DEM,73
+DeSoto,Desoto Hills Baptist Church,U.S. House,1,Trent Kelly,REP,184
+DeSoto,Desoto Hills Baptist Church,U.S. Senate,,Albert R. Littell,DEM,32
+DeSoto,Desoto Hills Baptist Church,U.S. Senate,,Priscilla W. Till,DEM,66
+DeSoto,Desoto Hills Baptist Church,U.S. Senate,,Scott Colom,DEM,136
+DeSoto,Desoto Hills Baptist Church,U.S. Senate,,Cindy Hyde-Smith,REP,168
+DeSoto,Desoto Hills Baptist Church,U.S. Senate,,Sarah Adlakha,REP,22
+DeSoto,Elmore,U.S. House,1,Cliff Johnson,DEM,66
+DeSoto,Elmore,U.S. House,1,Kelvin Buck,DEM,23
+DeSoto,Elmore,U.S. House,1,Trent Kelly,REP,152
+DeSoto,Elmore,U.S. Senate,,Albert R. Littell,DEM,5
+DeSoto,Elmore,U.S. Senate,,Priscilla W. Till,DEM,27
+DeSoto,Elmore,U.S. Senate,,Scott Colom,DEM,55
+DeSoto,Elmore,U.S. Senate,,Cindy Hyde-Smith,REP,138
+DeSoto,Elmore,U.S. Senate,,Sarah Adlakha,REP,19
+DeSoto,Eudora,U.S. House,1,Cliff Johnson,DEM,70
+DeSoto,Eudora,U.S. House,1,Kelvin Buck,DEM,9
+DeSoto,Eudora,U.S. House,1,Trent Kelly,REP,195
+DeSoto,Eudora,U.S. Senate,,Albert R. Littell,DEM,19
+DeSoto,Eudora,U.S. Senate,,Priscilla W. Till,DEM,18
+DeSoto,Eudora,U.S. Senate,,Scott Colom,DEM,42
+DeSoto,Eudora,U.S. Senate,,Cindy Hyde-Smith,REP,171
+DeSoto,Eudora,U.S. Senate,,Sarah Adlakha,REP,34
+DeSoto,Fairhaven,U.S. House,1,Cliff Johnson,DEM,144
+DeSoto,Fairhaven,U.S. House,1,Kelvin Buck,DEM,72
+DeSoto,Fairhaven,U.S. House,1,Trent Kelly,REP,126
+DeSoto,Fairhaven,U.S. Senate,,Albert R. Littell,DEM,17
+DeSoto,Fairhaven,U.S. Senate,,Priscilla W. Till,DEM,73
+DeSoto,Fairhaven,U.S. Senate,,Scott Colom,DEM,130
+DeSoto,Fairhaven,U.S. Senate,,Cindy Hyde-Smith,REP,109
+DeSoto,Fairhaven,U.S. Senate,,Sarah Adlakha,REP,27
+DeSoto,First Presbyterian Church,U.S. House,1,Cliff Johnson,DEM,49
+DeSoto,First Presbyterian Church,U.S. House,1,Kelvin Buck,DEM,14
+DeSoto,First Presbyterian Church,U.S. House,1,Trent Kelly,REP,261
+DeSoto,First Presbyterian Church,U.S. Senate,,Albert R. Littell,DEM,11
+DeSoto,First Presbyterian Church,U.S. Senate,,Priscilla W. Till,DEM,12
+DeSoto,First Presbyterian Church,U.S. Senate,,Scott Colom,DEM,41
+DeSoto,First Presbyterian Church,U.S. Senate,,Cindy Hyde-Smith,REP,235
+DeSoto,First Presbyterian Church,U.S. Senate,,Sarah Adlakha,REP,44
+DeSoto,Glenn's Chapel,U.S. House,1,Cliff Johnson,DEM,58
+DeSoto,Glenn's Chapel,U.S. House,1,Kelvin Buck,DEM,14
+DeSoto,Glenn's Chapel,U.S. House,1,Trent Kelly,REP,130
+DeSoto,Glenn's Chapel,U.S. Senate,,Albert R. Littell,DEM,12
+DeSoto,Glenn's Chapel,U.S. Senate,,Priscilla W. Till,DEM,20
+DeSoto,Glenn's Chapel,U.S. Senate,,Scott Colom,DEM,38
+DeSoto,Glenn's Chapel,U.S. Senate,,Cindy Hyde-Smith,REP,109
+DeSoto,Glenn's Chapel,U.S. Senate,,Sarah Adlakha,REP,23
+DeSoto,Greenbrook South,U.S. House,1,Cliff Johnson,DEM,158
+DeSoto,Greenbrook South,U.S. House,1,Kelvin Buck,DEM,76
+DeSoto,Greenbrook South,U.S. House,1,Trent Kelly,REP,89
+DeSoto,Greenbrook South,U.S. Senate,,Albert R. Littell,DEM,19
+DeSoto,Greenbrook South,U.S. Senate,,Priscilla W. Till,DEM,78
+DeSoto,Greenbrook South,U.S. Senate,,Scott Colom,DEM,135
+DeSoto,Greenbrook South,U.S. Senate,,Cindy Hyde-Smith,REP,74
+DeSoto,Greenbrook South,U.S. Senate,,Sarah Adlakha,REP,15
+DeSoto,Gwynn Road,U.S. House,1,Cliff Johnson,DEM,79
+DeSoto,Gwynn Road,U.S. House,1,Kelvin Buck,DEM,34
+DeSoto,Gwynn Road,U.S. House,1,Trent Kelly,REP,232
+DeSoto,Gwynn Road,U.S. Senate,,Albert R. Littell,DEM,17
+DeSoto,Gwynn Road,U.S. Senate,,Priscilla W. Till,DEM,35
+DeSoto,Gwynn Road,U.S. Senate,,Scott Colom,DEM,58
+DeSoto,Gwynn Road,U.S. Senate,,Cindy Hyde-Smith,REP,212
+DeSoto,Gwynn Road,U.S. Senate,,Sarah Adlakha,REP,28
+DeSoto,Hacks Cross Road,U.S. House,1,Cliff Johnson,DEM,89
+DeSoto,Hacks Cross Road,U.S. House,1,Kelvin Buck,DEM,52
+DeSoto,Hacks Cross Road,U.S. House,1,Trent Kelly,REP,88
+DeSoto,Hacks Cross Road,U.S. Senate,,Albert R. Littell,DEM,16
+DeSoto,Hacks Cross Road,U.S. Senate,,Priscilla W. Till,DEM,32
+DeSoto,Hacks Cross Road,U.S. Senate,,Scott Colom,DEM,90
+DeSoto,Hacks Cross Road,U.S. Senate,,Cindy Hyde-Smith,REP,74
+DeSoto,Hacks Cross Road,U.S. Senate,,Sarah Adlakha,REP,16
+DeSoto,Heartland Church,U.S. House,1,Cliff Johnson,DEM,135
+DeSoto,Heartland Church,U.S. House,1,Kelvin Buck,DEM,66
+DeSoto,Heartland Church,U.S. House,1,Trent Kelly,REP,238
+DeSoto,Heartland Church,U.S. Senate,,Albert R. Littell,DEM,22
+DeSoto,Heartland Church,U.S. Senate,,Priscilla W. Till,DEM,66
+DeSoto,Heartland Church,U.S. Senate,,Scott Colom,DEM,115
+DeSoto,Heartland Church,U.S. Senate,,Cindy Hyde-Smith,REP,218
+DeSoto,Heartland Church,U.S. Senate,,Sarah Adlakha,REP,32
+DeSoto,Hernando Central,U.S. House,1,Cliff Johnson,DEM,80
+DeSoto,Hernando Central,U.S. House,1,Kelvin Buck,DEM,24
+DeSoto,Hernando Central,U.S. House,1,Trent Kelly,REP,288
+DeSoto,Hernando Central,U.S. Senate,,Albert R. Littell,DEM,5
+DeSoto,Hernando Central,U.S. Senate,,Priscilla W. Till,DEM,27
+DeSoto,Hernando Central,U.S. Senate,,Scott Colom,DEM,71
+DeSoto,Hernando Central,U.S. Senate,,Cindy Hyde-Smith,REP,249
+DeSoto,Hernando Central,U.S. Senate,,Sarah Adlakha,REP,57
+DeSoto,Hernando West,U.S. House,1,Cliff Johnson,DEM,66
+DeSoto,Hernando West,U.S. House,1,Kelvin Buck,DEM,27
+DeSoto,Hernando West,U.S. House,1,Trent Kelly,REP,230
+DeSoto,Hernando West,U.S. Senate,,Albert R. Littell,DEM,11
+DeSoto,Hernando West,U.S. Senate,,Priscilla W. Till,DEM,24
+DeSoto,Hernando West,U.S. Senate,,Scott Colom,DEM,58
+DeSoto,Hernando West,U.S. Senate,,Cindy Hyde-Smith,REP,183
+DeSoto,Hernando West,U.S. Senate,,Sarah Adlakha,REP,62
+DeSoto,Hope Chapel,U.S. House,1,Cliff Johnson,DEM,143
+DeSoto,Hope Chapel,U.S. House,1,Kelvin Buck,DEM,79
+DeSoto,Hope Chapel,U.S. House,1,Trent Kelly,REP,94
+DeSoto,Hope Chapel,U.S. Senate,,Albert R. Littell,DEM,25
+DeSoto,Hope Chapel,U.S. Senate,,Priscilla W. Till,DEM,66
+DeSoto,Hope Chapel,U.S. Senate,,Scott Colom,DEM,128
+DeSoto,Hope Chapel,U.S. Senate,,Cindy Hyde-Smith,REP,80
+DeSoto,Hope Chapel,U.S. Senate,,Sarah Adlakha,REP,19
+DeSoto,Horn Lake Central,U.S. House,1,Cliff Johnson,DEM,76
+DeSoto,Horn Lake Central,U.S. House,1,Kelvin Buck,DEM,29
+DeSoto,Horn Lake Central,U.S. House,1,Trent Kelly,REP,84
+DeSoto,Horn Lake Central,U.S. Senate,,Albert R. Littell,DEM,13
+DeSoto,Horn Lake Central,U.S. Senate,,Priscilla W. Till,DEM,32
+DeSoto,Horn Lake Central,U.S. Senate,,Scott Colom,DEM,58
+DeSoto,Horn Lake Central,U.S. Senate,,Cindy Hyde-Smith,REP,68
+DeSoto,Horn Lake Central,U.S. Senate,,Sarah Adlakha,REP,21
+DeSoto,Horn Lake East,U.S. House,1,Cliff Johnson,DEM,56
+DeSoto,Horn Lake East,U.S. House,1,Kelvin Buck,DEM,25
+DeSoto,Horn Lake East,U.S. House,1,Trent Kelly,REP,32
+DeSoto,Horn Lake East,U.S. Senate,,Albert R. Littell,DEM,7
+DeSoto,Horn Lake East,U.S. Senate,,Priscilla W. Till,DEM,27
+DeSoto,Horn Lake East,U.S. Senate,,Scott Colom,DEM,44
+DeSoto,Horn Lake East,U.S. Senate,,Cindy Hyde-Smith,REP,26
+DeSoto,Horn Lake East,U.S. Senate,,Sarah Adlakha,REP,6
+DeSoto,Horn Lake West,U.S. House,1,Cliff Johnson,DEM,64
+DeSoto,Horn Lake West,U.S. House,1,Kelvin Buck,DEM,25
+DeSoto,Horn Lake West,U.S. House,1,Trent Kelly,REP,55
+DeSoto,Horn Lake West,U.S. Senate,,Albert R. Littell,DEM,18
+DeSoto,Horn Lake West,U.S. Senate,,Priscilla W. Till,DEM,29
+DeSoto,Horn Lake West,U.S. Senate,,Scott Colom,DEM,40
+DeSoto,Horn Lake West,U.S. Senate,,Cindy Hyde-Smith,REP,48
+DeSoto,Horn Lake West,U.S. Senate,,Sarah Adlakha,REP,7
+DeSoto,Ingrams Mill,U.S. House,1,Cliff Johnson,DEM,41
+DeSoto,Ingrams Mill,U.S. House,1,Kelvin Buck,DEM,25
+DeSoto,Ingrams Mill,U.S. House,1,Trent Kelly,REP,172
+DeSoto,Ingrams Mill,U.S. Senate,,Albert R. Littell,DEM,10
+DeSoto,Ingrams Mill,U.S. Senate,,Priscilla W. Till,DEM,23
+DeSoto,Ingrams Mill,U.S. Senate,,Scott Colom,DEM,32
+DeSoto,Ingrams Mill,U.S. Senate,,Cindy Hyde-Smith,REP,153
+DeSoto,Ingrams Mill,U.S. Senate,,Sarah Adlakha,REP,25
+DeSoto,Lewisburg,U.S. House,1,Cliff Johnson,DEM,177
+DeSoto,Lewisburg,U.S. House,1,Kelvin Buck,DEM,91
+DeSoto,Lewisburg,U.S. House,1,Trent Kelly,REP,305
+DeSoto,Lewisburg,U.S. Senate,,Albert R. Littell,DEM,23
+DeSoto,Lewisburg,U.S. Senate,,Priscilla W. Till,DEM,77
+DeSoto,Lewisburg,U.S. Senate,,Scott Colom,DEM,166
+DeSoto,Lewisburg,U.S. Senate,,Cindy Hyde-Smith,REP,249
+DeSoto,Lewisburg,U.S. Senate,,Sarah Adlakha,REP,68
+DeSoto,Lewisburg East,U.S. House,1,Cliff Johnson,DEM,24
+DeSoto,Lewisburg East,U.S. House,1,Kelvin Buck,DEM,16
+DeSoto,Lewisburg East,U.S. House,1,Trent Kelly,REP,154
+DeSoto,Lewisburg East,U.S. Senate,,Albert R. Littell,DEM,5
+DeSoto,Lewisburg East,U.S. Senate,,Priscilla W. Till,DEM,11
+DeSoto,Lewisburg East,U.S. Senate,,Scott Colom,DEM,24
+DeSoto,Lewisburg East,U.S. Senate,,Cindy Hyde-Smith,REP,141
+DeSoto,Lewisburg East,U.S. Senate,,Sarah Adlakha,REP,17
+DeSoto,Love,U.S. House,1,Cliff Johnson,DEM,26
+DeSoto,Love,U.S. House,1,Kelvin Buck,DEM,16
+DeSoto,Love,U.S. House,1,Trent Kelly,REP,254
+DeSoto,Love,U.S. Senate,,Albert R. Littell,DEM,7
+DeSoto,Love,U.S. Senate,,Priscilla W. Till,DEM,9
+DeSoto,Love,U.S. Senate,,Scott Colom,DEM,22
+DeSoto,Love,U.S. Senate,,Cindy Hyde-Smith,REP,233
+DeSoto,Love,U.S. Senate,,Sarah Adlakha,REP,32
+DeSoto,Miller,U.S. House,1,Cliff Johnson,DEM,127
+DeSoto,Miller,U.S. House,1,Kelvin Buck,DEM,77
+DeSoto,Miller,U.S. House,1,Trent Kelly,REP,199
+DeSoto,Miller,U.S. Senate,,Albert R. Littell,DEM,26
+DeSoto,Miller,U.S. Senate,,Priscilla W. Till,DEM,54
+DeSoto,Miller,U.S. Senate,,Scott Colom,DEM,124
+DeSoto,Miller,U.S. Senate,,Cindy Hyde-Smith,REP,162
+DeSoto,Miller,U.S. Senate,,Sarah Adlakha,REP,47
+DeSoto,Minor Memorial UMC,U.S. House,1,Cliff Johnson,DEM,141
+DeSoto,Minor Memorial UMC,U.S. House,1,Kelvin Buck,DEM,65
+DeSoto,Minor Memorial UMC,U.S. House,1,Trent Kelly,REP,102
+DeSoto,Minor Memorial UMC,U.S. Senate,,Albert R. Littell,DEM,28
+DeSoto,Minor Memorial UMC,U.S. Senate,,Priscilla W. Till,DEM,60
+DeSoto,Minor Memorial UMC,U.S. Senate,,Scott Colom,DEM,120
+DeSoto,Minor Memorial UMC,U.S. Senate,,Cindy Hyde-Smith,REP,81
+DeSoto,Minor Memorial UMC,U.S. Senate,,Sarah Adlakha,REP,23
+DeSoto,Northwest Community College,U.S. House,1,Cliff Johnson,DEM,88
+DeSoto,Northwest Community College,U.S. House,1,Kelvin Buck,DEM,35
+DeSoto,Northwest Community College,U.S. House,1,Trent Kelly,REP,123
+DeSoto,Northwest Community College,U.S. Senate,,Albert R. Littell,DEM,12
+DeSoto,Northwest Community College,U.S. Senate,,Priscilla W. Till,DEM,39
+DeSoto,Northwest Community College,U.S. Senate,,Scott Colom,DEM,73
+DeSoto,Northwest Community College,U.S. Senate,,Cindy Hyde-Smith,REP,107
+DeSoto,Northwest Community College,U.S. Senate,,Sarah Adlakha,REP,18
+DeSoto,Olive Branch East,U.S. House,1,Cliff Johnson,DEM,119
+DeSoto,Olive Branch East,U.S. House,1,Kelvin Buck,DEM,53
+DeSoto,Olive Branch East,U.S. House,1,Trent Kelly,REP,73
+DeSoto,Olive Branch East,U.S. Senate,,Albert R. Littell,DEM,25
+DeSoto,Olive Branch East,U.S. Senate,,Priscilla W. Till,DEM,39
+DeSoto,Olive Branch East,U.S. Senate,,Scott Colom,DEM,104
+DeSoto,Olive Branch East,U.S. Senate,,Cindy Hyde-Smith,REP,47
+DeSoto,Olive Branch East,U.S. Senate,,Sarah Adlakha,REP,30
+DeSoto,Olive Branch North,U.S. House,1,Cliff Johnson,DEM,95
+DeSoto,Olive Branch North,U.S. House,1,Kelvin Buck,DEM,60
+DeSoto,Olive Branch North,U.S. House,1,Trent Kelly,REP,105
+DeSoto,Olive Branch North,U.S. Senate,,Albert R. Littell,DEM,22
+DeSoto,Olive Branch North,U.S. Senate,,Priscilla W. Till,DEM,42
+DeSoto,Olive Branch North,U.S. Senate,,Scott Colom,DEM,90
+DeSoto,Olive Branch North,U.S. Senate,,Cindy Hyde-Smith,REP,88
+DeSoto,Olive Branch North,U.S. Senate,,Sarah Adlakha,REP,21
+DeSoto,Olive Branch South,U.S. House,1,Cliff Johnson,DEM,99
+DeSoto,Olive Branch South,U.S. House,1,Kelvin Buck,DEM,52
+DeSoto,Olive Branch South,U.S. House,1,Trent Kelly,REP,201
+DeSoto,Olive Branch South,U.S. Senate,,Albert R. Littell,DEM,8
+DeSoto,Olive Branch South,U.S. Senate,,Priscilla W. Till,DEM,46
+DeSoto,Olive Branch South,U.S. Senate,,Scott Colom,DEM,97
+DeSoto,Olive Branch South,U.S. Senate,,Cindy Hyde-Smith,REP,171
+DeSoto,Olive Branch South,U.S. Senate,,Sarah Adlakha,REP,31
+DeSoto,Olive Branch West,U.S. House,1,Cliff Johnson,DEM,66
+DeSoto,Olive Branch West,U.S. House,1,Kelvin Buck,DEM,42
+DeSoto,Olive Branch West,U.S. House,1,Trent Kelly,REP,95
+DeSoto,Olive Branch West,U.S. Senate,,Albert R. Littell,DEM,6
+DeSoto,Olive Branch West,U.S. Senate,,Priscilla W. Till,DEM,34
+DeSoto,Olive Branch West,U.S. Senate,,Scott Colom,DEM,66
+DeSoto,Olive Branch West,U.S. Senate,,Cindy Hyde-Smith,REP,82
+DeSoto,Olive Branch West,U.S. Senate,,Sarah Adlakha,REP,12
+DeSoto,Pathway Church,U.S. House,1,Cliff Johnson,DEM,202
+DeSoto,Pathway Church,U.S. House,1,Kelvin Buck,DEM,91
+DeSoto,Pathway Church,U.S. House,1,Trent Kelly,REP,183
+DeSoto,Pathway Church,U.S. Senate,,Albert R. Littell,DEM,24
+DeSoto,Pathway Church,U.S. Senate,,Priscilla W. Till,DEM,85
+DeSoto,Pathway Church,U.S. Senate,,Scott Colom,DEM,183
+DeSoto,Pathway Church,U.S. Senate,,Cindy Hyde-Smith,REP,162
+DeSoto,Pathway Church,U.S. Senate,,Sarah Adlakha,REP,27
+DeSoto,Pleasant Hill North,U.S. House,1,Cliff Johnson,DEM,42
+DeSoto,Pleasant Hill North,U.S. House,1,Kelvin Buck,DEM,15
+DeSoto,Pleasant Hill North,U.S. House,1,Trent Kelly,REP,119
+DeSoto,Pleasant Hill North,U.S. Senate,,Albert R. Littell,DEM,3
+DeSoto,Pleasant Hill North,U.S. Senate,,Priscilla W. Till,DEM,14
+DeSoto,Pleasant Hill North,U.S. Senate,,Scott Colom,DEM,41
+DeSoto,Pleasant Hill North,U.S. Senate,,Cindy Hyde-Smith,REP,100
+DeSoto,Pleasant Hill North,U.S. Senate,,Sarah Adlakha,REP,22
+DeSoto,Rejoice Church,U.S. House,1,Cliff Johnson,DEM,125
+DeSoto,Rejoice Church,U.S. House,1,Kelvin Buck,DEM,64
+DeSoto,Rejoice Church,U.S. House,1,Trent Kelly,REP,159
+DeSoto,Rejoice Church,U.S. Senate,,Albert R. Littell,DEM,27
+DeSoto,Rejoice Church,U.S. Senate,,Priscilla W. Till,DEM,59
+DeSoto,Rejoice Church,U.S. Senate,,Scott Colom,DEM,103
+DeSoto,Rejoice Church,U.S. Senate,,Cindy Hyde-Smith,REP,137
+DeSoto,Rejoice Church,U.S. Senate,,Sarah Adlakha,REP,36
+DeSoto,Southaven Library,U.S. House,1,Cliff Johnson,DEM,62
+DeSoto,Southaven Library,U.S. House,1,Kelvin Buck,DEM,35
+DeSoto,Southaven Library,U.S. House,1,Trent Kelly,REP,153
+DeSoto,Southaven Library,U.S. Senate,,Albert R. Littell,DEM,10
+DeSoto,Southaven Library,U.S. Senate,,Priscilla W. Till,DEM,35
+DeSoto,Southaven Library,U.S. Senate,,Scott Colom,DEM,52
+DeSoto,Southaven Library,U.S. Senate,,Cindy Hyde-Smith,REP,128
+DeSoto,Southaven Library,U.S. Senate,,Sarah Adlakha,REP,32
+DeSoto,Southaven South,U.S. House,1,Cliff Johnson,DEM,52
+DeSoto,Southaven South,U.S. House,1,Kelvin Buck,DEM,15
+DeSoto,Southaven South,U.S. House,1,Trent Kelly,REP,20
+DeSoto,Southaven South,U.S. Senate,,Albert R. Littell,DEM,11
+DeSoto,Southaven South,U.S. Senate,,Priscilla W. Till,DEM,21
+DeSoto,Southaven South,U.S. Senate,,Scott Colom,DEM,36
+DeSoto,Southaven South,U.S. Senate,,Cindy Hyde-Smith,REP,16
+DeSoto,Southaven South,U.S. Senate,,Sarah Adlakha,REP,4
+DeSoto,Southpoint Church,U.S. House,1,Cliff Johnson,DEM,150
+DeSoto,Southpoint Church,U.S. House,1,Kelvin Buck,DEM,67
+DeSoto,Southpoint Church,U.S. House,1,Trent Kelly,REP,110
+DeSoto,Southpoint Church,U.S. Senate,,Albert R. Littell,DEM,24
+DeSoto,Southpoint Church,U.S. Senate,,Priscilla W. Till,DEM,81
+DeSoto,Southpoint Church,U.S. Senate,,Scott Colom,DEM,110
+DeSoto,Southpoint Church,U.S. Senate,,Cindy Hyde-Smith,REP,84
+DeSoto,Southpoint Church,U.S. Senate,,Sarah Adlakha,REP,36
+DeSoto,St Paul Missionary Baptist Church,U.S. House,1,Cliff Johnson,DEM,250
+DeSoto,St Paul Missionary Baptist Church,U.S. House,1,Kelvin Buck,DEM,86
+DeSoto,St Paul Missionary Baptist Church,U.S. House,1,Trent Kelly,REP,253
+DeSoto,St Paul Missionary Baptist Church,U.S. Senate,,Albert R. Littell,DEM,28
+DeSoto,St Paul Missionary Baptist Church,U.S. Senate,,Priscilla W. Till,DEM,90
+DeSoto,St Paul Missionary Baptist Church,U.S. Senate,,Scott Colom,DEM,214
+DeSoto,St Paul Missionary Baptist Church,U.S. Senate,,Cindy Hyde-Smith,REP,223
+DeSoto,St Paul Missionary Baptist Church,U.S. Senate,,Sarah Adlakha,REP,37
+DeSoto,Summit Church,U.S. House,1,Cliff Johnson,DEM,81
+DeSoto,Summit Church,U.S. House,1,Kelvin Buck,DEM,31
+DeSoto,Summit Church,U.S. House,1,Trent Kelly,REP,148
+DeSoto,Summit Church,U.S. Senate,,Albert R. Littell,DEM,22
+DeSoto,Summit Church,U.S. Senate,,Priscilla W. Till,DEM,26
+DeSoto,Summit Church,U.S. Senate,,Scott Colom,DEM,61
+DeSoto,Summit Church,U.S. Senate,,Cindy Hyde-Smith,REP,133
+DeSoto,Summit Church,U.S. Senate,,Sarah Adlakha,REP,19
+DeSoto,The Well at Lewisburg,U.S. House,1,Cliff Johnson,DEM,55
+DeSoto,The Well at Lewisburg,U.S. House,1,Kelvin Buck,DEM,17
+DeSoto,The Well at Lewisburg,U.S. House,1,Trent Kelly,REP,195
+DeSoto,The Well at Lewisburg,U.S. Senate,,Albert R. Littell,DEM,12
+DeSoto,The Well at Lewisburg,U.S. Senate,,Priscilla W. Till,DEM,19
+DeSoto,The Well at Lewisburg,U.S. Senate,,Scott Colom,DEM,41
+DeSoto,The Well at Lewisburg,U.S. Senate,,Cindy Hyde-Smith,REP,182
+DeSoto,The Well at Lewisburg,U.S. Senate,,Sarah Adlakha,REP,17
+DeSoto,Trinity Baptist Church,U.S. House,1,Cliff Johnson,DEM,48
+DeSoto,Trinity Baptist Church,U.S. House,1,Kelvin Buck,DEM,25
+DeSoto,Trinity Baptist Church,U.S. House,1,Trent Kelly,REP,145
+DeSoto,Trinity Baptist Church,U.S. Senate,,Albert R. Littell,DEM,6
+DeSoto,Trinity Baptist Church,U.S. Senate,,Priscilla W. Till,DEM,25
+DeSoto,Trinity Baptist Church,U.S. Senate,,Scott Colom,DEM,42
+DeSoto,Trinity Baptist Church,U.S. Senate,,Cindy Hyde-Smith,REP,125
+DeSoto,Trinity Baptist Church,U.S. Senate,,Sarah Adlakha,REP,25
+DeSoto,Twin Lakes Baptist Church,U.S. House,1,Cliff Johnson,DEM,120
+DeSoto,Twin Lakes Baptist Church,U.S. House,1,Kelvin Buck,DEM,42
+DeSoto,Twin Lakes Baptist Church,U.S. House,1,Trent Kelly,REP,122
+DeSoto,Twin Lakes Baptist Church,U.S. Senate,,Albert R. Littell,DEM,21
+DeSoto,Twin Lakes Baptist Church,U.S. Senate,,Priscilla W. Till,DEM,60
+DeSoto,Twin Lakes Baptist Church,U.S. Senate,,Scott Colom,DEM,83
+DeSoto,Twin Lakes Baptist Church,U.S. Senate,,Cindy Hyde-Smith,REP,109
+DeSoto,Twin Lakes Baptist Church,U.S. Senate,,Sarah Adlakha,REP,17
+DeSoto,Walls,U.S. House,1,Cliff Johnson,DEM,133
+DeSoto,Walls,U.S. House,1,Kelvin Buck,DEM,53
+DeSoto,Walls,U.S. House,1,Trent Kelly,REP,144
+DeSoto,Walls,U.S. Senate,,Albert R. Littell,DEM,25
+DeSoto,Walls,U.S. Senate,,Priscilla W. Till,DEM,55
+DeSoto,Walls,U.S. Senate,,Scott Colom,DEM,107
+DeSoto,Walls,U.S. Senate,,Cindy Hyde-Smith,REP,130
+DeSoto,Walls,U.S. Senate,,Sarah Adlakha,REP,19

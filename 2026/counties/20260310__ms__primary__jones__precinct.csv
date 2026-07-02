@@ -1,0 +1,457 @@
+county,precinct,office,district,candidate,party,votes
+Jones,ANTIOCH,U.S. House,3,Michael A. Chiaradio,DEM,X
+Jones,ANTIOCH,U.S. House,3,Michael Guest,REP,X
+Jones,ANTIOCH,U.S. House,4,D. Ryan Grover,DEM,0
+Jones,ANTIOCH,U.S. House,4,Jeffrey Hulum III,DEM,0
+Jones,ANTIOCH,U.S. House,4,Paul James Blackman,DEM,1
+Jones,ANTIOCH,U.S. House,4,Mike Ezell,REP,61
+Jones,ANTIOCH,U.S. House,4,Sawyer Walters,REP,6
+Jones,ANTIOCH,U.S. Senate,,Albert R. Littell,DEM,0
+Jones,ANTIOCH,U.S. Senate,,Priscilla W. Till,DEM,0
+Jones,ANTIOCH,U.S. Senate,,Scott Colom,DEM,1
+Jones,ANTIOCH,U.S. Senate,,Cindy Hyde-Smith,REP,54
+Jones,ANTIOCH,U.S. Senate,,Sarah Adlakha,REP,12
+Jones,BIG CREEK,U.S. House,3,Michael A. Chiaradio,DEM,X
+Jones,BIG CREEK,U.S. House,3,Michael Guest,REP,X
+Jones,BIG CREEK,U.S. House,4,D. Ryan Grover,DEM,2
+Jones,BIG CREEK,U.S. House,4,Jeffrey Hulum III,DEM,1
+Jones,BIG CREEK,U.S. House,4,Paul James Blackman,DEM,2
+Jones,BIG CREEK,U.S. House,4,Mike Ezell,REP,109
+Jones,BIG CREEK,U.S. House,4,Sawyer Walters,REP,8
+Jones,BIG CREEK,U.S. Senate,,Albert R. Littell,DEM,0
+Jones,BIG CREEK,U.S. Senate,,Priscilla W. Till,DEM,1
+Jones,BIG CREEK,U.S. Senate,,Scott Colom,DEM,4
+Jones,BIG CREEK,U.S. Senate,,Cindy Hyde-Smith,REP,93
+Jones,BIG CREEK,U.S. Senate,,Sarah Adlakha,REP,24
+Jones,BLACKWELL,U.S. House,3,Michael A. Chiaradio,DEM,X
+Jones,BLACKWELL,U.S. House,3,Michael Guest,REP,X
+Jones,BLACKWELL,U.S. House,4,D. Ryan Grover,DEM,0
+Jones,BLACKWELL,U.S. House,4,Jeffrey Hulum III,DEM,0
+Jones,BLACKWELL,U.S. House,4,Paul James Blackman,DEM,0
+Jones,BLACKWELL,U.S. House,4,Mike Ezell,REP,65
+Jones,BLACKWELL,U.S. House,4,Sawyer Walters,REP,6
+Jones,BLACKWELL,U.S. Senate,,Albert R. Littell,DEM,0
+Jones,BLACKWELL,U.S. Senate,,Priscilla W. Till,DEM,0
+Jones,BLACKWELL,U.S. Senate,,Scott Colom,DEM,0
+Jones,BLACKWELL,U.S. Senate,,Cindy Hyde-Smith,REP,57
+Jones,BLACKWELL,U.S. Senate,,Sarah Adlakha,REP,14
+Jones,CALHOUN,U.S. House,3,Michael A. Chiaradio,DEM,X
+Jones,CALHOUN,U.S. House,3,Michael Guest,REP,X
+Jones,CALHOUN,U.S. House,4,D. Ryan Grover,DEM,3
+Jones,CALHOUN,U.S. House,4,Jeffrey Hulum III,DEM,3
+Jones,CALHOUN,U.S. House,4,Paul James Blackman,DEM,4
+Jones,CALHOUN,U.S. House,4,Mike Ezell,REP,256
+Jones,CALHOUN,U.S. House,4,Sawyer Walters,REP,42
+Jones,CALHOUN,U.S. Senate,,Albert R. Littell,DEM,1
+Jones,CALHOUN,U.S. Senate,,Priscilla W. Till,DEM,2
+Jones,CALHOUN,U.S. Senate,,Scott Colom,DEM,7
+Jones,CALHOUN,U.S. Senate,,Cindy Hyde-Smith,REP,221
+Jones,CALHOUN,U.S. Senate,,Sarah Adlakha,REP,77
+Jones,CENTERVILLE,U.S. House,3,Michael A. Chiaradio,DEM,X
+Jones,CENTERVILLE,U.S. House,3,Michael Guest,REP,X
+Jones,CENTERVILLE,U.S. House,4,D. Ryan Grover,DEM,0
+Jones,CENTERVILLE,U.S. House,4,Jeffrey Hulum III,DEM,0
+Jones,CENTERVILLE,U.S. House,4,Paul James Blackman,DEM,0
+Jones,CENTERVILLE,U.S. House,4,Mike Ezell,REP,27
+Jones,CENTERVILLE,U.S. House,4,Sawyer Walters,REP,2
+Jones,CENTERVILLE,U.S. Senate,,Albert R. Littell,DEM,0
+Jones,CENTERVILLE,U.S. Senate,,Priscilla W. Till,DEM,0
+Jones,CENTERVILLE,U.S. Senate,,Scott Colom,DEM,0
+Jones,CENTERVILLE,U.S. Senate,,Cindy Hyde-Smith,REP,19
+Jones,CENTERVILLE,U.S. Senate,,Sarah Adlakha,REP,10
+Jones,CURRIE,U.S. House,3,Michael A. Chiaradio,DEM,X
+Jones,CURRIE,U.S. House,3,Michael Guest,REP,X
+Jones,CURRIE,U.S. House,4,D. Ryan Grover,DEM,9
+Jones,CURRIE,U.S. House,4,Jeffrey Hulum III,DEM,22
+Jones,CURRIE,U.S. House,4,Paul James Blackman,DEM,24
+Jones,CURRIE,U.S. House,4,Mike Ezell,REP,0
+Jones,CURRIE,U.S. House,4,Sawyer Walters,REP,3
+Jones,CURRIE,U.S. Senate,,Albert R. Littell,DEM,6
+Jones,CURRIE,U.S. Senate,,Priscilla W. Till,DEM,12
+Jones,CURRIE,U.S. Senate,,Scott Colom,DEM,40
+Jones,CURRIE,U.S. Senate,,Cindy Hyde-Smith,REP,1
+Jones,CURRIE,U.S. Senate,,Sarah Adlakha,REP,2
+Jones,ERATA,U.S. House,3,Michael A. Chiaradio,DEM,X
+Jones,ERATA,U.S. House,3,Michael Guest,REP,X
+Jones,ERATA,U.S. House,4,D. Ryan Grover,DEM,14
+Jones,ERATA,U.S. House,4,Jeffrey Hulum III,DEM,28
+Jones,ERATA,U.S. House,4,Paul James Blackman,DEM,15
+Jones,ERATA,U.S. House,4,Mike Ezell,REP,45
+Jones,ERATA,U.S. House,4,Sawyer Walters,REP,4
+Jones,ERATA,U.S. Senate,,Albert R. Littell,DEM,8
+Jones,ERATA,U.S. Senate,,Priscilla W. Till,DEM,12
+Jones,ERATA,U.S. Senate,,Scott Colom,DEM,37
+Jones,ERATA,U.S. Senate,,Cindy Hyde-Smith,REP,34
+Jones,ERATA,U.S. Senate,,Sarah Adlakha,REP,15
+Jones,FIRST ASSEMBLY OF GOD,U.S. House,3,Michael A. Chiaradio,DEM,X
+Jones,FIRST ASSEMBLY OF GOD,U.S. House,3,Michael Guest,REP,X
+Jones,FIRST ASSEMBLY OF GOD,U.S. House,4,D. Ryan Grover,DEM,25
+Jones,FIRST ASSEMBLY OF GOD,U.S. House,4,Jeffrey Hulum III,DEM,31
+Jones,FIRST ASSEMBLY OF GOD,U.S. House,4,Paul James Blackman,DEM,39
+Jones,FIRST ASSEMBLY OF GOD,U.S. House,4,Mike Ezell,REP,65
+Jones,FIRST ASSEMBLY OF GOD,U.S. House,4,Sawyer Walters,REP,10
+Jones,FIRST ASSEMBLY OF GOD,U.S. Senate,,Albert R. Littell,DEM,9
+Jones,FIRST ASSEMBLY OF GOD,U.S. Senate,,Priscilla W. Till,DEM,23
+Jones,FIRST ASSEMBLY OF GOD,U.S. Senate,,Scott Colom,DEM,64
+Jones,FIRST ASSEMBLY OF GOD,U.S. Senate,,Cindy Hyde-Smith,REP,59
+Jones,FIRST ASSEMBLY OF GOD,U.S. Senate,,Sarah Adlakha,REP,16
+Jones,GEORGE HARRISON,U.S. House,3,Michael A. Chiaradio,DEM,X
+Jones,GEORGE HARRISON,U.S. House,3,Michael Guest,REP,X
+Jones,GEORGE HARRISON,U.S. House,4,D. Ryan Grover,DEM,9
+Jones,GEORGE HARRISON,U.S. House,4,Jeffrey Hulum III,DEM,13
+Jones,GEORGE HARRISON,U.S. House,4,Paul James Blackman,DEM,12
+Jones,GEORGE HARRISON,U.S. House,4,Mike Ezell,REP,152
+Jones,GEORGE HARRISON,U.S. House,4,Sawyer Walters,REP,38
+Jones,GEORGE HARRISON,U.S. Senate,,Albert R. Littell,DEM,6
+Jones,GEORGE HARRISON,U.S. Senate,,Priscilla W. Till,DEM,14
+Jones,GEORGE HARRISON,U.S. Senate,,Scott Colom,DEM,14
+Jones,GEORGE HARRISON,U.S. Senate,,Cindy Hyde-Smith,REP,136
+Jones,GEORGE HARRISON,U.S. Senate,,Sarah Adlakha,REP,54
+Jones,GITANO,U.S. House,3,Michael A. Chiaradio,DEM,X
+Jones,GITANO,U.S. House,3,Michael Guest,REP,X
+Jones,GITANO,U.S. House,4,D. Ryan Grover,DEM,4
+Jones,GITANO,U.S. House,4,Jeffrey Hulum III,DEM,1
+Jones,GITANO,U.S. House,4,Paul James Blackman,DEM,4
+Jones,GITANO,U.S. House,4,Mike Ezell,REP,49
+Jones,GITANO,U.S. House,4,Sawyer Walters,REP,4
+Jones,GITANO,U.S. Senate,,Albert R. Littell,DEM,0
+Jones,GITANO,U.S. Senate,,Priscilla W. Till,DEM,5
+Jones,GITANO,U.S. Senate,,Scott Colom,DEM,6
+Jones,GITANO,U.S. Senate,,Cindy Hyde-Smith,REP,36
+Jones,GITANO,U.S. Senate,,Sarah Adlakha,REP,17
+Jones,GLADE,U.S. House,3,Michael A. Chiaradio,DEM,X
+Jones,GLADE,U.S. House,3,Michael Guest,REP,X
+Jones,GLADE,U.S. House,4,D. Ryan Grover,DEM,2
+Jones,GLADE,U.S. House,4,Jeffrey Hulum III,DEM,1
+Jones,GLADE,U.S. House,4,Paul James Blackman,DEM,3
+Jones,GLADE,U.S. House,4,Mike Ezell,REP,126
+Jones,GLADE,U.S. House,4,Sawyer Walters,REP,24
+Jones,GLADE,U.S. Senate,,Albert R. Littell,DEM,0
+Jones,GLADE,U.S. Senate,,Priscilla W. Till,DEM,0
+Jones,GLADE,U.S. Senate,,Scott Colom,DEM,6
+Jones,GLADE,U.S. Senate,,Cindy Hyde-Smith,REP,121
+Jones,GLADE,U.S. Senate,,Sarah Adlakha,REP,29
+Jones,HEBRON,U.S. House,3,Michael A. Chiaradio,DEM,X
+Jones,HEBRON,U.S. House,4,D. Ryan Grover,DEM,18
+Jones,HEBRON,U.S. House,4,Jeffrey Hulum III,DEM,27
+Jones,HEBRON,U.S. House,4,Paul James Blackman,DEM,39
+Jones,HEBRON,U.S. Senate,,Albert R. Littell,DEM,10
+Jones,HEBRON,U.S. Senate,,Priscilla W. Till,DEM,20
+Jones,HEBRON,U.S. Senate,,Scott Colom,DEM,57
+Jones,Hebron,U.S. House,3,Michael Guest,REP,X
+Jones,Hebron,U.S. House,4,Mike Ezell,REP,58
+Jones,Hebron,U.S. House,4,Sawyer Walters,REP,5
+Jones,Hebron,U.S. Senate,,Cindy Hyde-Smith,REP,51
+Jones,Hebron,U.S. Senate,,Sarah Adlakha,REP,12
+Jones,JOHNSON,U.S. House,3,Michael A. Chiaradio,DEM,X
+Jones,JOHNSON,U.S. House,4,D. Ryan Grover,DEM,0
+Jones,JOHNSON,U.S. House,4,Jeffrey Hulum III,DEM,0
+Jones,JOHNSON,U.S. House,4,Paul James Blackman,DEM,1
+Jones,JOHNSON,U.S. Senate,,Albert R. Littell,DEM,0
+Jones,JOHNSON,U.S. Senate,,Priscilla W. Till,DEM,1
+Jones,JOHNSON,U.S. Senate,,Scott Colom,DEM,0
+Jones,Johnson,U.S. House,3,Michael Guest,REP,X
+Jones,Johnson,U.S. House,4,Mike Ezell,REP,110
+Jones,Johnson,U.S. House,4,Sawyer Walters,REP,15
+Jones,Johnson,U.S. Senate,,Cindy Hyde-Smith,REP,104
+Jones,Johnson,U.S. Senate,,Sarah Adlakha,REP,21
+Jones,L T ELLIS CENTER,U.S. House,3,Michael A. Chiaradio,DEM,X
+Jones,L T ELLIS CENTER,U.S. House,3,Michael Guest,REP,X
+Jones,L T ELLIS CENTER,U.S. House,4,D. Ryan Grover,DEM,48
+Jones,L T ELLIS CENTER,U.S. House,4,Jeffrey Hulum III,DEM,124
+Jones,L T ELLIS CENTER,U.S. House,4,Paul James Blackman,DEM,109
+Jones,L T ELLIS CENTER,U.S. House,4,Mike Ezell,REP,6
+Jones,L T ELLIS CENTER,U.S. House,4,Sawyer Walters,REP,1
+Jones,L T ELLIS CENTER,U.S. Senate,,Albert R. Littell,DEM,26
+Jones,L T ELLIS CENTER,U.S. Senate,,Priscilla W. Till,DEM,65
+Jones,L T ELLIS CENTER,U.S. Senate,,Scott Colom,DEM,193
+Jones,L T ELLIS CENTER,U.S. Senate,,Cindy Hyde-Smith,REP,4
+Jones,L T ELLIS CENTER,U.S. Senate,,Sarah Adlakha,REP,3
+Jones,LANDRUM,U.S. House,3,Michael A. Chiaradio,DEM,X
+Jones,LANDRUM,U.S. House,3,Michael Guest,REP,X
+Jones,LANDRUM,U.S. House,4,D. Ryan Grover,DEM,0
+Jones,LANDRUM,U.S. House,4,Jeffrey Hulum III,DEM,1
+Jones,LANDRUM,U.S. House,4,Paul James Blackman,DEM,1
+Jones,LANDRUM,U.S. House,4,Mike Ezell,REP,84
+Jones,LANDRUM,U.S. House,4,Sawyer Walters,REP,9
+Jones,LANDRUM,U.S. Senate,,Albert R. Littell,DEM,0
+Jones,LANDRUM,U.S. Senate,,Priscilla W. Till,DEM,1
+Jones,LANDRUM,U.S. Senate,,Scott Colom,DEM,1
+Jones,LANDRUM,U.S. Senate,,Cindy Hyde-Smith,REP,67
+Jones,LANDRUM,U.S. Senate,,Sarah Adlakha,REP,25
+Jones,MAGNOLIA CENTER,U.S. House,3,Michael A. Chiaradio,DEM,X
+Jones,MAGNOLIA CENTER,U.S. House,3,Michael Guest,REP,X
+Jones,MAGNOLIA CENTER,U.S. House,4,D. Ryan Grover,DEM,55
+Jones,MAGNOLIA CENTER,U.S. House,4,Jeffrey Hulum III,DEM,84
+Jones,MAGNOLIA CENTER,U.S. House,4,Paul James Blackman,DEM,79
+Jones,MAGNOLIA CENTER,U.S. House,4,Mike Ezell,REP,43
+Jones,MAGNOLIA CENTER,U.S. House,4,Sawyer Walters,REP,6
+Jones,MAGNOLIA CENTER,U.S. Senate,,Albert R. Littell,DEM,25
+Jones,MAGNOLIA CENTER,U.S. Senate,,Priscilla W. Till,DEM,61
+Jones,MAGNOLIA CENTER,U.S. Senate,,Scott Colom,DEM,131
+Jones,MAGNOLIA CENTER,U.S. Senate,,Cindy Hyde-Smith,REP,44
+Jones,MAGNOLIA CENTER,U.S. Senate,,Sarah Adlakha,REP,5
+Jones,MATTHEWS,U.S. House,3,Michael A. Chiaradio,DEM,6
+Jones,MATTHEWS,U.S. House,3,Michael Guest,REP,99
+Jones,MATTHEWS,U.S. House,4,D. Ryan Grover,DEM,X
+Jones,MATTHEWS,U.S. House,4,Jeffrey Hulum III,DEM,X
+Jones,MATTHEWS,U.S. House,4,Paul James Blackman,DEM,X
+Jones,MATTHEWS,U.S. House,4,Mike Ezell,REP,X
+Jones,MATTHEWS,U.S. House,4,Sawyer Walters,REP,X
+Jones,MATTHEWS,U.S. Senate,,Albert R. Littell,DEM,0
+Jones,MATTHEWS,U.S. Senate,,Priscilla W. Till,DEM,2
+Jones,MATTHEWS,U.S. Senate,,Scott Colom,DEM,4
+Jones,MATTHEWS,U.S. Senate,,Cindy Hyde-Smith,REP,70
+Jones,MATTHEWS,U.S. Senate,,Sarah Adlakha,REP,33
+Jones,MERCHANTS PARK,U.S. House,3,Michael A. Chiaradio,DEM,X
+Jones,MERCHANTS PARK,U.S. House,3,Michael Guest,REP,X
+Jones,MERCHANTS PARK,U.S. House,4,D. Ryan Grover,DEM,2
+Jones,MERCHANTS PARK,U.S. House,4,Jeffrey Hulum III,DEM,3
+Jones,MERCHANTS PARK,U.S. House,4,Paul James Blackman,DEM,3
+Jones,MERCHANTS PARK,U.S. House,4,Mike Ezell,REP,119
+Jones,MERCHANTS PARK,U.S. House,4,Sawyer Walters,REP,27
+Jones,MERCHANTS PARK,U.S. Senate,,Albert R. Littell,DEM,6
+Jones,MERCHANTS PARK,U.S. Senate,,Priscilla W. Till,DEM,4
+Jones,MERCHANTS PARK,U.S. Senate,,Scott Colom,DEM,33
+Jones,MERCHANTS PARK,U.S. Senate,,Cindy Hyde-Smith,REP,118
+Jones,MERCHANTS PARK,U.S. Senate,,Sarah Adlakha,REP,28
+Jones,MOSELLE,U.S. House,3,Michael A. Chiaradio,DEM,X
+Jones,MOSELLE,U.S. House,3,Michael Guest,REP,X
+Jones,MOSELLE,U.S. House,4,D. Ryan Grover,DEM,13
+Jones,MOSELLE,U.S. House,4,Jeffrey Hulum III,DEM,19
+Jones,MOSELLE,U.S. House,4,Paul James Blackman,DEM,22
+Jones,MOSELLE,U.S. House,4,Mike Ezell,REP,153
+Jones,MOSELLE,U.S. House,4,Sawyer Walters,REP,35
+Jones,MOSELLE,U.S. Senate,,Albert R. Littell,DEM,0
+Jones,MOSELLE,U.S. Senate,,Priscilla W. Till,DEM,16
+Jones,MOSELLE,U.S. Senate,,Scott Colom,DEM,4
+Jones,MOSELLE,U.S. Senate,,Cindy Hyde-Smith,REP,139
+Jones,MOSELLE,U.S. Senate,,Sarah Adlakha,REP,47
+Jones,MYRICK,U.S. House,3,Michael A. Chiaradio,DEM,X
+Jones,MYRICK,U.S. House,3,Michael Guest,REP,X
+Jones,MYRICK,U.S. House,4,D. Ryan Grover,DEM,2
+Jones,MYRICK,U.S. House,4,Jeffrey Hulum III,DEM,1
+Jones,MYRICK,U.S. House,4,Paul James Blackman,DEM,5
+Jones,MYRICK,U.S. House,4,Mike Ezell,REP,151
+Jones,MYRICK,U.S. House,4,Sawyer Walters,REP,24
+Jones,MYRICK,U.S. Senate,,Albert R. Littell,DEM,15
+Jones,MYRICK,U.S. Senate,,Priscilla W. Till,DEM,5
+Jones,MYRICK,U.S. Senate,,Scott Colom,DEM,3
+Jones,MYRICK,U.S. Senate,,Cindy Hyde-Smith,REP,136
+Jones,MYRICK,U.S. Senate,,Sarah Adlakha,REP,37
+Jones,NORTH LAUREL,U.S. House,3,Michael A. Chiaradio,DEM,X
+Jones,NORTH LAUREL,U.S. House,3,Michael Guest,REP,X
+Jones,NORTH LAUREL,U.S. House,4,D. Ryan Grover,DEM,39
+Jones,NORTH LAUREL,U.S. House,4,Jeffrey Hulum III,DEM,57
+Jones,NORTH LAUREL,U.S. House,4,Paul James Blackman,DEM,70
+Jones,NORTH LAUREL,U.S. House,4,Mike Ezell,REP,266
+Jones,NORTH LAUREL,U.S. House,4,Sawyer Walters,REP,54
+Jones,NORTH LAUREL,U.S. Senate,,Albert R. Littell,DEM,12
+Jones,NORTH LAUREL,U.S. Senate,,Priscilla W. Till,DEM,43
+Jones,NORTH LAUREL,U.S. Senate,,Scott Colom,DEM,111
+Jones,NORTH LAUREL,U.S. Senate,,Cindy Hyde-Smith,REP,217
+Jones,NORTH LAUREL,U.S. Senate,,Sarah Adlakha,REP,105
+Jones,OAK PARK ALUMNI BLDG,U.S. House,3,Michael A. Chiaradio,DEM,X
+Jones,OAK PARK ALUMNI BLDG,U.S. House,3,Michael Guest,REP,X
+Jones,OAK PARK ALUMNI BLDG,U.S. House,4,D. Ryan Grover,DEM,22
+Jones,OAK PARK ALUMNI BLDG,U.S. House,4,Jeffrey Hulum III,DEM,28
+Jones,OAK PARK ALUMNI BLDG,U.S. House,4,Paul James Blackman,DEM,48
+Jones,OAK PARK ALUMNI BLDG,U.S. House,4,Mike Ezell,REP,0
+Jones,OAK PARK ALUMNI BLDG,U.S. House,4,Sawyer Walters,REP,0
+Jones,OAK PARK ALUMNI BLDG,U.S. Senate,,Albert R. Littell,DEM,0
+Jones,OAK PARK ALUMNI BLDG,U.S. Senate,,Priscilla W. Till,DEM,28
+Jones,OAK PARK ALUMNI BLDG,U.S. Senate,,Scott Colom,DEM,62
+Jones,OAK PARK ALUMNI BLDG,U.S. Senate,,Cindy Hyde-Smith,REP,0
+Jones,OAK PARK ALUMNI BLDG,U.S. Senate,,Sarah Adlakha,REP,0
+Jones,OVETT,U.S. House,3,Michael A. Chiaradio,DEM,X
+Jones,OVETT,U.S. House,3,Michael Guest,REP,X
+Jones,OVETT,U.S. House,4,D. Ryan Grover,DEM,0
+Jones,OVETT,U.S. House,4,Jeffrey Hulum III,DEM,1
+Jones,OVETT,U.S. House,4,Paul James Blackman,DEM,4
+Jones,OVETT,U.S. House,4,Mike Ezell,REP,91
+Jones,OVETT,U.S. House,4,Sawyer Walters,REP,16
+Jones,OVETT,U.S. Senate,,Albert R. Littell,DEM,0
+Jones,OVETT,U.S. Senate,,Priscilla W. Till,DEM,2
+Jones,OVETT,U.S. Senate,,Scott Colom,DEM,3
+Jones,OVETT,U.S. Senate,,Cindy Hyde-Smith,REP,79
+Jones,OVETT,U.S. Senate,,Sarah Adlakha,REP,28
+Jones,PARKVIEW BAPTIST CHURCH,U.S. House,3,Michael A. Chiaradio,DEM,X
+Jones,PARKVIEW BAPTIST CHURCH,U.S. House,3,Michael Guest,REP,X
+Jones,PARKVIEW BAPTIST CHURCH,U.S. House,4,D. Ryan Grover,DEM,10
+Jones,PARKVIEW BAPTIST CHURCH,U.S. House,4,Jeffrey Hulum III,DEM,10
+Jones,PARKVIEW BAPTIST CHURCH,U.S. House,4,Paul James Blackman,DEM,15
+Jones,PARKVIEW BAPTIST CHURCH,U.S. House,4,Mike Ezell,REP,78
+Jones,PARKVIEW BAPTIST CHURCH,U.S. House,4,Sawyer Walters,REP,21
+Jones,PARKVIEW BAPTIST CHURCH,U.S. Senate,,Albert R. Littell,DEM,4
+Jones,PARKVIEW BAPTIST CHURCH,U.S. Senate,,Priscilla W. Till,DEM,14
+Jones,PARKVIEW BAPTIST CHURCH,U.S. Senate,,Scott Colom,DEM,18
+Jones,PARKVIEW BAPTIST CHURCH,U.S. Senate,,Cindy Hyde-Smith,REP,59
+Jones,PARKVIEW BAPTIST CHURCH,U.S. Senate,,Sarah Adlakha,REP,41
+Jones,PINE GROVE,U.S. House,3,Michael A. Chiaradio,DEM,X
+Jones,PINE GROVE,U.S. House,3,Michael Guest,REP,X
+Jones,PINE GROVE,U.S. House,4,D. Ryan Grover,DEM,4
+Jones,PINE GROVE,U.S. House,4,Jeffrey Hulum III,DEM,0
+Jones,PINE GROVE,U.S. House,4,Paul James Blackman,DEM,2
+Jones,PINE GROVE,U.S. House,4,Mike Ezell,REP,138
+Jones,PINE GROVE,U.S. House,4,Sawyer Walters,REP,19
+Jones,PINE GROVE,U.S. Senate,,Albert R. Littell,DEM,3
+Jones,PINE GROVE,U.S. Senate,,Priscilla W. Till,DEM,1
+Jones,PINE GROVE,U.S. Senate,,Scott Colom,DEM,2
+Jones,PINE GROVE,U.S. Senate,,Cindy Hyde-Smith,REP,124
+Jones,PINE GROVE,U.S. Senate,,Sarah Adlakha,REP,34
+Jones,PLEASANT RIDGE,U.S. House,3,Michael A. Chiaradio,DEM,X
+Jones,PLEASANT RIDGE,U.S. House,3,Michael Guest,REP,X
+Jones,PLEASANT RIDGE,U.S. House,4,D. Ryan Grover,DEM,3
+Jones,PLEASANT RIDGE,U.S. House,4,Jeffrey Hulum III,DEM,0
+Jones,PLEASANT RIDGE,U.S. House,4,Paul James Blackman,DEM,3
+Jones,PLEASANT RIDGE,U.S. House,4,Mike Ezell,REP,100
+Jones,PLEASANT RIDGE,U.S. House,4,Sawyer Walters,REP,10
+Jones,PLEASANT RIDGE,U.S. Senate,,Albert R. Littell,DEM,0
+Jones,PLEASANT RIDGE,U.S. Senate,,Priscilla W. Till,DEM,3
+Jones,PLEASANT RIDGE,U.S. Senate,,Scott Colom,DEM,3
+Jones,PLEASANT RIDGE,U.S. Senate,,Cindy Hyde-Smith,REP,85
+Jones,PLEASANT RIDGE,U.S. Senate,,Sarah Adlakha,REP,26
+Jones,POWERS,U.S. House,3,Michael A. Chiaradio,DEM,X
+Jones,POWERS,U.S. House,3,Michael Guest,REP,X
+Jones,POWERS,U.S. House,4,D. Ryan Grover,DEM,5
+Jones,POWERS,U.S. House,4,Jeffrey Hulum III,DEM,7
+Jones,POWERS,U.S. House,4,Paul James Blackman,DEM,17
+Jones,POWERS,U.S. House,4,Mike Ezell,REP,133
+Jones,POWERS,U.S. House,4,Sawyer Walters,REP,17
+Jones,POWERS,U.S. Senate,,Albert R. Littell,DEM,7
+Jones,POWERS,U.S. Senate,,Priscilla W. Till,DEM,1
+Jones,POWERS,U.S. Senate,,Scott Colom,DEM,21
+Jones,POWERS,U.S. Senate,,Cindy Hyde-Smith,REP,113
+Jones,POWERS,U.S. Senate,,Sarah Adlakha,REP,36
+Jones,RAINEY,U.S. House,3,Michael A. Chiaradio,DEM,X
+Jones,RAINEY,U.S. House,3,Michael Guest,REP,X
+Jones,RAINEY,U.S. House,4,D. Ryan Grover,DEM,4
+Jones,RAINEY,U.S. House,4,Jeffrey Hulum III,DEM,3
+Jones,RAINEY,U.S. House,4,Paul James Blackman,DEM,1
+Jones,RAINEY,U.S. House,4,Mike Ezell,REP,170
+Jones,RAINEY,U.S. House,4,Sawyer Walters,REP,31
+Jones,RAINEY,U.S. Senate,,Albert R. Littell,DEM,0
+Jones,RAINEY,U.S. Senate,,Priscilla W. Till,DEM,5
+Jones,RAINEY,U.S. Senate,,Scott Colom,DEM,3
+Jones,RAINEY,U.S. Senate,,Cindy Hyde-Smith,REP,155
+Jones,RAINEY,U.S. Senate,,Sarah Adlakha,REP,45
+Jones,RUSTIN,U.S. House,3,Michael A. Chiaradio,DEM,X
+Jones,RUSTIN,U.S. House,3,Michael Guest,REP,X
+Jones,RUSTIN,U.S. House,4,D. Ryan Grover,DEM,0
+Jones,RUSTIN,U.S. House,4,Jeffrey Hulum III,DEM,0
+Jones,RUSTIN,U.S. House,4,Paul James Blackman,DEM,1
+Jones,RUSTIN,U.S. House,4,Mike Ezell,REP,82
+Jones,RUSTIN,U.S. House,4,Sawyer Walters,REP,14
+Jones,RUSTIN,U.S. Senate,,Albert R. Littell,DEM,0
+Jones,RUSTIN,U.S. Senate,,Priscilla W. Till,DEM,0
+Jones,RUSTIN,U.S. Senate,,Scott Colom,DEM,1
+Jones,RUSTIN,U.S. Senate,,Cindy Hyde-Smith,REP,72
+Jones,RUSTIN,U.S. Senate,,Sarah Adlakha,REP,24
+Jones,SAND HILL,U.S. House,3,Michael A. Chiaradio,DEM,X
+Jones,SAND HILL,U.S. House,3,Michael Guest,REP,X
+Jones,SAND HILL,U.S. House,4,D. Ryan Grover,DEM,1
+Jones,SAND HILL,U.S. House,4,Jeffrey Hulum III,DEM,1
+Jones,SAND HILL,U.S. House,4,Paul James Blackman,DEM,0
+Jones,SAND HILL,U.S. House,4,Mike Ezell,REP,40
+Jones,SAND HILL,U.S. House,4,Sawyer Walters,REP,8
+Jones,SAND HILL,U.S. Senate,,Albert R. Littell,DEM,1
+Jones,SAND HILL,U.S. Senate,,Priscilla W. Till,DEM,0
+Jones,SAND HILL,U.S. Senate,,Scott Colom,DEM,1
+Jones,SAND HILL,U.S. Senate,,Cindy Hyde-Smith,REP,32
+Jones,SAND HILL,U.S. Senate,,Sarah Adlakha,REP,14
+Jones,SANDERSVILLE,U.S. House,3,Michael A. Chiaradio,DEM,19
+Jones,SANDERSVILLE,U.S. House,3,Michael Guest,REP,83
+Jones,SANDERSVILLE,U.S. House,4,D. Ryan Grover,DEM,X
+Jones,SANDERSVILLE,U.S. House,4,Jeffrey Hulum III,DEM,X
+Jones,SANDERSVILLE,U.S. House,4,Paul James Blackman,DEM,X
+Jones,SANDERSVILLE,U.S. House,4,Mike Ezell,REP,X
+Jones,SANDERSVILLE,U.S. House,4,Sawyer Walters,REP,X
+Jones,SANDERSVILLE,U.S. Senate,,Albert R. Littell,DEM,5
+Jones,SANDERSVILLE,U.S. Senate,,Priscilla W. Till,DEM,6
+Jones,SANDERSVILLE,U.S. Senate,,Scott Colom,DEM,8
+Jones,SANDERSVILLE,U.S. Senate,,Cindy Hyde-Smith,REP,73
+Jones,SANDERSVILLE,U.S. Senate,,Sarah Adlakha,REP,21
+Jones,SHADY GROVE,U.S. House,3,Michael A. Chiaradio,DEM,70
+Jones,SHADY GROVE,U.S. House,3,Michael Guest,REP,202
+Jones,SHADY GROVE,U.S. House,4,D. Ryan Grover,DEM,X
+Jones,SHADY GROVE,U.S. House,4,Jeffrey Hulum III,DEM,X
+Jones,SHADY GROVE,U.S. House,4,Paul James Blackman,DEM,X
+Jones,SHADY GROVE,U.S. House,4,Mike Ezell,REP,X
+Jones,SHADY GROVE,U.S. House,4,Sawyer Walters,REP,X
+Jones,SHADY GROVE,U.S. Senate,,Albert R. Littell,DEM,10
+Jones,SHADY GROVE,U.S. Senate,,Priscilla W. Till,DEM,16
+Jones,SHADY GROVE,U.S. Senate,,Scott Colom,DEM,55
+Jones,SHADY GROVE,U.S. Senate,,Cindy Hyde-Smith,REP,147
+Jones,SHADY GROVE,U.S. Senate,,Sarah Adlakha,REP,58
+Jones,SHARON,U.S. House,3,Michael A. Chiaradio,DEM,63
+Jones,SHARON,U.S. House,3,Michael Guest,REP,202
+Jones,SHARON,U.S. House,4,D. Ryan Grover,DEM,X
+Jones,SHARON,U.S. House,4,Jeffrey Hulum III,DEM,X
+Jones,SHARON,U.S. House,4,Paul James Blackman,DEM,X
+Jones,SHARON,U.S. House,4,Mike Ezell,REP,X
+Jones,SHARON,U.S. House,4,Sawyer Walters,REP,X
+Jones,SHARON,U.S. Senate,,Albert R. Littell,DEM,15
+Jones,SHARON,U.S. Senate,,Priscilla W. Till,DEM,24
+Jones,SHARON,U.S. Senate,,Scott Colom,DEM,33
+Jones,SHARON,U.S. Senate,,Cindy Hyde-Smith,REP,160
+Jones,SHARON,U.S. Senate,,Sarah Adlakha,REP,58
+Jones,SHELTON,U.S. House,3,Michael A. Chiaradio,DEM,X
+Jones,SHELTON,U.S. House,3,Michael Guest,REP,X
+Jones,SHELTON,U.S. House,4,D. Ryan Grover,DEM,20
+Jones,SHELTON,U.S. House,4,Jeffrey Hulum III,DEM,17
+Jones,SHELTON,U.S. House,4,Paul James Blackman,DEM,23
+Jones,SHELTON,U.S. House,4,Mike Ezell,REP,93
+Jones,SHELTON,U.S. House,4,Sawyer Walters,REP,15
+Jones,SHELTON,U.S. Senate,,Albert R. Littell,DEM,7
+Jones,SHELTON,U.S. Senate,,Priscilla W. Till,DEM,11
+Jones,SHELTON,U.S. Senate,,Scott Colom,DEM,46
+Jones,SHELTON,U.S. Senate,,Cindy Hyde-Smith,REP,88
+Jones,SHELTON,U.S. Senate,,Sarah Adlakha,REP,20
+Jones,SOSO,U.S. House,3,Michael A. Chiaradio,DEM,X
+Jones,SOSO,U.S. House,3,Michael Guest,REP,X
+Jones,SOSO,U.S. House,4,D. Ryan Grover,DEM,14
+Jones,SOSO,U.S. House,4,Jeffrey Hulum III,DEM,22
+Jones,SOSO,U.S. House,4,Paul James Blackman,DEM,37
+Jones,SOSO,U.S. House,4,Mike Ezell,REP,103
+Jones,SOSO,U.S. House,4,Sawyer Walters,REP,28
+Jones,SOSO,U.S. Senate,,Albert R. Littell,DEM,3
+Jones,SOSO,U.S. Senate,,Priscilla W. Till,DEM,22
+Jones,SOSO,U.S. Senate,,Scott Colom,DEM,59
+Jones,SOSO,U.S. Senate,,Cindy Hyde-Smith,REP,89
+Jones,SOSO,U.S. Senate,,Sarah Adlakha,REP,42
+Jones,SPRINGHILL/MAULDIN,U.S. House,3,Michael A. Chiaradio,DEM,X
+Jones,SPRINGHILL/MAULDIN,U.S. House,3,Michael Guest,REP,X
+Jones,SPRINGHILL/MAULDIN,U.S. House,4,D. Ryan Grover,DEM,9
+Jones,SPRINGHILL/MAULDIN,U.S. House,4,Jeffrey Hulum III,DEM,17
+Jones,SPRINGHILL/MAULDIN,U.S. House,4,Paul James Blackman,DEM,17
+Jones,SPRINGHILL/MAULDIN,U.S. House,4,Mike Ezell,REP,179
+Jones,SPRINGHILL/MAULDIN,U.S. House,4,Sawyer Walters,REP,32
+Jones,SPRINGHILL/MAULDIN,U.S. Senate,,Albert R. Littell,DEM,7
+Jones,SPRINGHILL/MAULDIN,U.S. Senate,,Priscilla W. Till,DEM,14
+Jones,SPRINGHILL/MAULDIN,U.S. Senate,,Scott Colom,DEM,22
+Jones,SPRINGHILL/MAULDIN,U.S. Senate,,Cindy Hyde-Smith,REP,161
+Jones,SPRINGHILL/MAULDIN,U.S. Senate,,Sarah Adlakha,REP,49
+Jones,TUCKERS,U.S. House,3,Michael A. Chiaradio,DEM,X
+Jones,TUCKERS,U.S. House,3,Michael Guest,REP,X
+Jones,TUCKERS,U.S. House,4,D. Ryan Grover,DEM,0
+Jones,TUCKERS,U.S. House,4,Jeffrey Hulum III,DEM,0
+Jones,TUCKERS,U.S. House,4,Paul James Blackman,DEM,3
+Jones,TUCKERS,U.S. House,4,Mike Ezell,REP,104
+Jones,TUCKERS,U.S. House,4,Sawyer Walters,REP,14
+Jones,TUCKERS,U.S. Senate,,Albert R. Littell,DEM,0
+Jones,TUCKERS,U.S. Senate,,Priscilla W. Till,DEM,0
+Jones,TUCKERS,U.S. Senate,,Scott Colom,DEM,3
+Jones,TUCKERS,U.S. Senate,,Cindy Hyde-Smith,REP,84
+Jones,TUCKERS,U.S. Senate,,Sarah Adlakha,REP,33
+Jones,UNION,U.S. House,3,Michael A. Chiaradio,DEM,X
+Jones,UNION,U.S. House,3,Michael Guest,REP,X
+Jones,UNION,U.S. House,4,D. Ryan Grover,DEM,3
+Jones,UNION,U.S. House,4,Jeffrey Hulum III,DEM,3
+Jones,UNION,U.S. House,4,Paul James Blackman,DEM,3
+Jones,UNION,U.S. House,4,Mike Ezell,REP,127
+Jones,UNION,U.S. House,4,Sawyer Walters,REP,16
+Jones,UNION,U.S. Senate,,Albert R. Littell,DEM,0
+Jones,UNION,U.S. Senate,,Priscilla W. Till,DEM,3
+Jones,UNION,U.S. Senate,,Scott Colom,DEM,6
+Jones,UNION,U.S. Senate,,Cindy Hyde-Smith,REP,117
+Jones,UNION,U.S. Senate,,Sarah Adlakha,REP,24

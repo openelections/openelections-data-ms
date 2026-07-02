@@ -1,0 +1,71 @@
+county,precinct,office,district,candidate,party,votes
+Clay,Cairo,U.S. House,1,Cliff Johnson,DEM,33
+Clay,Cairo,U.S. House,1,Kelvin Buck,DEM,37
+Clay,Cairo,U.S. Senate,,Albert R. Littell,DEM,1
+Clay,Cairo,U.S. Senate,,Priscilla W. Till,DEM,2
+Clay,Cairo,U.S. Senate,,Scott Colom,DEM,70
+Clay,Caradine,U.S. House,1,Cliff Johnson,DEM,164
+Clay,Caradine,U.S. House,1,Kelvin Buck,DEM,50
+Clay,Caradine,U.S. Senate,,Albert R. Littell,DEM,1
+Clay,Caradine,U.S. Senate,,Priscilla W. Till,DEM,4
+Clay,Caradine,U.S. Senate,,Scott Colom,DEM,220
+Clay,Cedar Bluff,U.S. House,1,Cliff Johnson,DEM,1
+Clay,Cedar Bluff,U.S. House,1,Kelvin Buck,DEM,6
+Clay,Cedar Bluff,U.S. Senate,,Albert R. Littell,DEM,0
+Clay,Cedar Bluff,U.S. Senate,,Priscilla W. Till,DEM,0
+Clay,Cedar Bluff,U.S. Senate,,Scott Colom,DEM,7
+Clay,Central-West Point,U.S. House,1,Cliff Johnson,DEM,108
+Clay,Central-West Point,U.S. House,1,Kelvin Buck,DEM,45
+Clay,Central-West Point,U.S. Senate,,Albert R. Littell,DEM,3
+Clay,Central-West Point,U.S. Senate,,Priscilla W. Till,DEM,4
+Clay,Central-West Point,U.S. Senate,,Scott Colom,DEM,150
+Clay,East-West Point,U.S. House,1,Cliff Johnson,DEM,213
+Clay,East-West Point,U.S. House,1,Kelvin Buck,DEM,72
+Clay,East-West Point,U.S. Senate,,Albert R. Littell,DEM,7
+Clay,East-West Point,U.S. Senate,,Priscilla W. Till,DEM,5
+Clay,East-West Point,U.S. Senate,,Scott Colom,DEM,287
+Clay,North-West Point,U.S. House,1,Cliff Johnson,DEM,299
+Clay,North-West Point,U.S. House,1,Kelvin Buck,DEM,98
+Clay,North-West Point,U.S. Senate,,Albert R. Littell,DEM,3
+Clay,North-West Point,U.S. Senate,,Priscilla W. Till,DEM,15
+Clay,North-West Point,U.S. Senate,,Scott Colom,DEM,392
+Clay,Pheba,U.S. House,1,Cliff Johnson,DEM,77
+Clay,Pheba,U.S. House,1,Kelvin Buck,DEM,40
+Clay,Pheba,U.S. Senate,,Albert R. Littell,DEM,3
+Clay,Pheba,U.S. Senate,,Priscilla W. Till,DEM,4
+Clay,Pheba,U.S. Senate,,Scott Colom,DEM,119
+Clay,Pine Bluff,U.S. House,1,Cliff Johnson,DEM,71
+Clay,Pine Bluff,U.S. House,1,Kelvin Buck,DEM,39
+Clay,Pine Bluff,U.S. Senate,,Albert R. Littell,DEM,1
+Clay,Pine Bluff,U.S. Senate,,Priscilla W. Till,DEM,1
+Clay,Pine Bluff,U.S. Senate,,Scott Colom,DEM,114
+Clay,Siloam,U.S. House,1,Cliff Johnson,DEM,73
+Clay,Siloam,U.S. House,1,Kelvin Buck,DEM,55
+Clay,Siloam,U.S. Senate,,Albert R. Littell,DEM,3
+Clay,Siloam,U.S. Senate,,Priscilla W. Till,DEM,6
+Clay,Siloam,U.S. Senate,,Scott Colom,DEM,124
+Clay,South-West Point,U.S. House,1,Cliff Johnson,DEM,192
+Clay,South-West Point,U.S. House,1,Kelvin Buck,DEM,89
+Clay,South-West Point,U.S. Senate,,Albert R. Littell,DEM,7
+Clay,South-West Point,U.S. Senate,,Priscilla W. Till,DEM,1
+Clay,South-West Point,U.S. Senate,,Scott Colom,DEM,282
+Clay,Tibbee,U.S. House,1,Cliff Johnson,DEM,54
+Clay,Tibbee,U.S. House,1,Kelvin Buck,DEM,37
+Clay,Tibbee,U.S. Senate,,Albert R. Littell,DEM,0
+Clay,Tibbee,U.S. Senate,,Priscilla W. Till,DEM,0
+Clay,Tibbee,U.S. Senate,,Scott Colom,DEM,96
+Clay,Union Star,U.S. House,1,Cliff Johnson,DEM,110
+Clay,Union Star,U.S. House,1,Kelvin Buck,DEM,37
+Clay,Union Star,U.S. Senate,,Albert R. Littell,DEM,5
+Clay,Union Star,U.S. Senate,,Priscilla W. Till,DEM,4
+Clay,Union Star,U.S. Senate,,Scott Colom,DEM,151
+Clay,Vinton,U.S. House,1,Cliff Johnson,DEM,94
+Clay,Vinton,U.S. House,1,Kelvin Buck,DEM,32
+Clay,Vinton,U.S. Senate,,Albert R. Littell,DEM,2
+Clay,Vinton,U.S. Senate,,Priscilla W. Till,DEM,7
+Clay,Vinton,U.S. Senate,,Scott Colom,DEM,120
+Clay,West-West Point,U.S. House,1,Cliff Johnson,DEM,270
+Clay,West-West Point,U.S. House,1,Kelvin Buck,DEM,97
+Clay,West-West Point,U.S. Senate,,Albert R. Littell,DEM,2
+Clay,West-West Point,U.S. Senate,,Priscilla W. Till,DEM,3
+Clay,West-West Point,U.S. Senate,,Scott Colom,DEM,378

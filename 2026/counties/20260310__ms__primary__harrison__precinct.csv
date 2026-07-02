@@ -1,0 +1,491 @@
+county,precinct,office,district,candidate,party,votes
+Harrison,Advance,U.S. House,4,D. Ryan Grover,DEM,8
+Harrison,Advance,U.S. House,4,Jeffrey Hulum III,DEM,17
+Harrison,Advance,U.S. House,4,Paul James Blackman,DEM,8
+Harrison,Advance,U.S. House,4,Mike Ezell,REP,146
+Harrison,Advance,U.S. House,4,Sawyer Walters,REP,32
+Harrison,Advance,U.S. Senate,,Albert R. Littell,DEM,6
+Harrison,Advance,U.S. Senate,,Priscilla W. Till,DEM,12
+Harrison,Advance,U.S. Senate,,Scott Colom,DEM,15
+Harrison,Advance,U.S. Senate,,Cindy Hyde-Smith,REP,131
+Harrison,Advance,U.S. Senate,,Sarah Adlakha,REP,45
+Harrison,Bay Central,U.S. House,4,D. Ryan Grover,DEM,33
+Harrison,Bay Central,U.S. House,4,Jeffrey Hulum III,DEM,137
+Harrison,Bay Central,U.S. House,4,Paul James Blackman,DEM,47
+Harrison,Bay Central,U.S. House,4,Mike Ezell,REP,452
+Harrison,Bay Central,U.S. House,4,Sawyer Walters,REP,115
+Harrison,Bay Central,U.S. Senate,,Albert R. Littell,DEM,22
+Harrison,Bay Central,U.S. Senate,,Priscilla W. Till,DEM,68
+Harrison,Bay Central,U.S. Senate,,Scott Colom,DEM,124
+Harrison,Bay Central,U.S. Senate,,Cindy Hyde-Smith,REP,419
+Harrison,Bay Central,U.S. Senate,,Sarah Adlakha,REP,149
+Harrison,Bayou View,U.S. House,4,D. Ryan Grover,DEM,9
+Harrison,Bayou View,U.S. House,4,Jeffrey Hulum III,DEM,32
+Harrison,Bayou View,U.S. House,4,Paul James Blackman,DEM,13
+Harrison,Bayou View,U.S. House,4,Mike Ezell,REP,364
+Harrison,Bayou View,U.S. House,4,Sawyer Walters,REP,67
+Harrison,Bayou View,U.S. Senate,,Albert R. Littell,DEM,2
+Harrison,Bayou View,U.S. Senate,,Priscilla W. Till,DEM,11
+Harrison,Bayou View,U.S. Senate,,Scott Colom,DEM,41
+Harrison,Bayou View,U.S. Senate,,Cindy Hyde-Smith,REP,323
+Harrison,Bayou View,U.S. Senate,,Sarah Adlakha,REP,110
+Harrison,Biloxi # 11,U.S. House,4,D. Ryan Grover,DEM,22
+Harrison,Biloxi # 11,U.S. House,4,Jeffrey Hulum III,DEM,114
+Harrison,Biloxi # 11,U.S. House,4,Paul James Blackman,DEM,51
+Harrison,Biloxi # 11,U.S. House,4,Mike Ezell,REP,369
+Harrison,Biloxi # 11,U.S. House,4,Sawyer Walters,REP,99
+Harrison,Biloxi # 11,U.S. Senate,,Albert R. Littell,DEM,23
+Harrison,Biloxi # 11,U.S. Senate,,Priscilla W. Till,DEM,44
+Harrison,Biloxi # 11,U.S. Senate,,Scott Colom,DEM,121
+Harrison,Biloxi # 11,U.S. Senate,,Cindy Hyde-Smith,REP,332
+Harrison,Biloxi # 11,U.S. Senate,,Sarah Adlakha,REP,136
+Harrison,Biloxi # 8,U.S. House,4,D. Ryan Grover,DEM,12
+Harrison,Biloxi # 8,U.S. House,4,Jeffrey Hulum III,DEM,53
+Harrison,Biloxi # 8,U.S. House,4,Paul James Blackman,DEM,26
+Harrison,Biloxi # 8,U.S. House,4,Mike Ezell,REP,169
+Harrison,Biloxi # 8,U.S. House,4,Sawyer Walters,REP,44
+Harrison,Biloxi # 8,U.S. Senate,,Albert R. Littell,DEM,12
+Harrison,Biloxi # 8,U.S. Senate,,Priscilla W. Till,DEM,24
+Harrison,Biloxi # 8,U.S. Senate,,Scott Colom,DEM,54
+Harrison,Biloxi # 8,U.S. Senate,,Cindy Hyde-Smith,REP,146
+Harrison,Biloxi # 8,U.S. Senate,,Sarah Adlakha,REP,66
+Harrison,Biloxi 10,U.S. House,4,D. Ryan Grover,DEM,14
+Harrison,Biloxi 10,U.S. House,4,Jeffrey Hulum III,DEM,83
+Harrison,Biloxi 10,U.S. House,4,Paul James Blackman,DEM,39
+Harrison,Biloxi 10,U.S. House,4,Mike Ezell,REP,138
+Harrison,Biloxi 10,U.S. House,4,Sawyer Walters,REP,44
+Harrison,Biloxi 10,U.S. Senate,,Albert R. Littell,DEM,20
+Harrison,Biloxi 10,U.S. Senate,,Priscilla W. Till,DEM,28
+Harrison,Biloxi 10,U.S. Senate,,Scott Colom,DEM,88
+Harrison,Biloxi 10,U.S. Senate,,Cindy Hyde-Smith,REP,120
+Harrison,Biloxi 10,U.S. Senate,,Sarah Adlakha,REP,62
+Harrison,Biloxi Central,U.S. House,4,D. Ryan Grover,DEM,7
+Harrison,Biloxi Central,U.S. House,4,Jeffrey Hulum III,DEM,59
+Harrison,Biloxi Central,U.S. House,4,Paul James Blackman,DEM,10
+Harrison,Biloxi Central,U.S. House,4,Mike Ezell,REP,107
+Harrison,Biloxi Central,U.S. House,4,Sawyer Walters,REP,29
+Harrison,Biloxi Central,U.S. Senate,,Albert R. Littell,DEM,9
+Harrison,Biloxi Central,U.S. Senate,,Priscilla W. Till,DEM,17
+Harrison,Biloxi Central,U.S. Senate,,Scott Colom,DEM,47
+Harrison,Biloxi Central,U.S. Senate,,Cindy Hyde-Smith,REP,95
+Harrison,Biloxi Central,U.S. Senate,,Sarah Adlakha,REP,41
+Harrison,County Farm/Gulf Haven,U.S. House,4,D. Ryan Grover,DEM,11
+Harrison,County Farm/Gulf Haven,U.S. House,4,Jeffrey Hulum III,DEM,60
+Harrison,County Farm/Gulf Haven,U.S. House,4,Paul James Blackman,DEM,22
+Harrison,County Farm/Gulf Haven,U.S. House,4,Mike Ezell,REP,289
+Harrison,County Farm/Gulf Haven,U.S. House,4,Sawyer Walters,REP,49
+Harrison,County Farm/Gulf Haven,U.S. Senate,,Albert R. Littell,DEM,3
+Harrison,County Farm/Gulf Haven,U.S. Senate,,Priscilla W. Till,DEM,21
+Harrison,County Farm/Gulf Haven,U.S. Senate,,Scott Colom,DEM,69
+Harrison,County Farm/Gulf Haven,U.S. Senate,,Cindy Hyde-Smith,REP,256
+Harrison,County Farm/Gulf Haven,U.S. Senate,,Sarah Adlakha,REP,83
+Harrison,Delisle,U.S. House,4,D. Ryan Grover,DEM,17
+Harrison,Delisle,U.S. House,4,Jeffrey Hulum III,DEM,119
+Harrison,Delisle,U.S. House,4,Paul James Blackman,DEM,25
+Harrison,Delisle,U.S. House,4,Mike Ezell,REP,198
+Harrison,Delisle,U.S. House,4,Sawyer Walters,REP,49
+Harrison,Delisle,U.S. Senate,,Albert R. Littell,DEM,11
+Harrison,Delisle,U.S. Senate,,Priscilla W. Till,DEM,42
+Harrison,Delisle,U.S. Senate,,Scott Colom,DEM,110
+Harrison,Delisle,U.S. Senate,,Cindy Hyde-Smith,REP,182
+Harrison,Delisle,U.S. Senate,,Sarah Adlakha,REP,65
+Harrison,E Orange Grove,U.S. House,4,D. Ryan Grover,DEM,15
+Harrison,E Orange Grove,U.S. House,4,Jeffrey Hulum III,DEM,119
+Harrison,E Orange Grove,U.S. House,4,Paul James Blackman,DEM,18
+Harrison,E Orange Grove,U.S. House,4,Mike Ezell,REP,97
+Harrison,E Orange Grove,U.S. House,4,Sawyer Walters,REP,33
+Harrison,E Orange Grove,U.S. Senate,,Albert R. Littell,DEM,16
+Harrison,E Orange Grove,U.S. Senate,,Priscilla W. Till,DEM,48
+Harrison,E Orange Grove,U.S. Senate,,Scott Colom,DEM,86
+Harrison,E Orange Grove,U.S. Senate,,Cindy Hyde-Smith,REP,90
+Harrison,E Orange Grove,U.S. Senate,,Sarah Adlakha,REP,40
+Harrison,E Pass Christian,U.S. House,4,D. Ryan Grover,DEM,18
+Harrison,E Pass Christian,U.S. House,4,Jeffrey Hulum III,DEM,113
+Harrison,E Pass Christian,U.S. House,4,Paul James Blackman,DEM,30
+Harrison,E Pass Christian,U.S. House,4,Mike Ezell,REP,219
+Harrison,E Pass Christian,U.S. House,4,Sawyer Walters,REP,77
+Harrison,E Pass Christian,U.S. Senate,,Albert R. Littell,DEM,19
+Harrison,E Pass Christian,U.S. Senate,,Priscilla W. Till,DEM,59
+Harrison,E Pass Christian,U.S. Senate,,Scott Colom,DEM,87
+Harrison,E Pass Christian,U.S. Senate,,Cindy Hyde-Smith,REP,204
+Harrison,E Pass Christian,U.S. Senate,,Sarah Adlakha,REP,95
+Harrison,East Biloxi,U.S. House,4,D. Ryan Grover,DEM,22
+Harrison,East Biloxi,U.S. House,4,Jeffrey Hulum III,DEM,201
+Harrison,East Biloxi,U.S. House,4,Paul James Blackman,DEM,33
+Harrison,East Biloxi,U.S. House,4,Mike Ezell,REP,68
+Harrison,East Biloxi,U.S. House,4,Sawyer Walters,REP,11
+Harrison,East Biloxi,U.S. Senate,,Albert R. Littell,DEM,28
+Harrison,East Biloxi,U.S. Senate,,Priscilla W. Till,DEM,41
+Harrison,East Biloxi,U.S. Senate,,Scott Colom,DEM,191
+Harrison,East Biloxi,U.S. Senate,,Cindy Hyde-Smith,REP,61
+Harrison,East Biloxi,U.S. Senate,,Sarah Adlakha,REP,20
+Harrison,East Handsboro,U.S. House,4,D. Ryan Grover,DEM,28
+Harrison,East Handsboro,U.S. House,4,Jeffrey Hulum III,DEM,52
+Harrison,East Handsboro,U.S. House,4,Paul James Blackman,DEM,16
+Harrison,East Handsboro,U.S. House,4,Mike Ezell,REP,206
+Harrison,East Handsboro,U.S. House,4,Sawyer Walters,REP,41
+Harrison,East Handsboro,U.S. Senate,,Albert R. Littell,DEM,16
+Harrison,East Handsboro,U.S. Senate,,Priscilla W. Till,DEM,22
+Harrison,East Handsboro,U.S. Senate,,Scott Colom,DEM,58
+Harrison,East Handsboro,U.S. Senate,,Cindy Hyde-Smith,REP,177
+Harrison,East Handsboro,U.S. Senate,,Sarah Adlakha,REP,74
+Harrison,East Long Beach,U.S. House,4,D. Ryan Grover,DEM,12
+Harrison,East Long Beach,U.S. House,4,Jeffrey Hulum III,DEM,53
+Harrison,East Long Beach,U.S. House,4,Paul James Blackman,DEM,19
+Harrison,East Long Beach,U.S. House,4,Mike Ezell,REP,291
+Harrison,East Long Beach,U.S. House,4,Sawyer Walters,REP,76
+Harrison,East Long Beach,U.S. Senate,,Albert R. Littell,DEM,11
+Harrison,East Long Beach,U.S. Senate,,Priscilla W. Till,DEM,27
+Harrison,East Long Beach,U.S. Senate,,Scott Colom,DEM,47
+Harrison,East Long Beach,U.S. Senate,,Cindy Hyde-Smith,REP,288
+Harrison,East Long Beach,U.S. Senate,,Sarah Adlakha,REP,82
+Harrison,East Miss City,U.S. House,4,D. Ryan Grover,DEM,22
+Harrison,East Miss City,U.S. House,4,Jeffrey Hulum III,DEM,87
+Harrison,East Miss City,U.S. House,4,Paul James Blackman,DEM,24
+Harrison,East Miss City,U.S. House,4,Mike Ezell,REP,241
+Harrison,East Miss City,U.S. House,4,Sawyer Walters,REP,71
+Harrison,East Miss City,U.S. Senate,,Albert R. Littell,DEM,13
+Harrison,East Miss City,U.S. Senate,,Priscilla W. Till,DEM,37
+Harrison,East Miss City,U.S. Senate,,Scott Colom,DEM,84
+Harrison,East Miss City,U.S. Senate,,Cindy Hyde-Smith,REP,211
+Harrison,East Miss City,U.S. Senate,,Sarah Adlakha,REP,100
+Harrison,East North Gulfport,U.S. House,4,D. Ryan Grover,DEM,4
+Harrison,East North Gulfport,U.S. House,4,Jeffrey Hulum III,DEM,135
+Harrison,East North Gulfport,U.S. House,4,Paul James Blackman,DEM,6
+Harrison,East North Gulfport,U.S. House,4,Mike Ezell,REP,5
+Harrison,East North Gulfport,U.S. House,4,Sawyer Walters,REP,4
+Harrison,East North Gulfport,U.S. Senate,,Albert R. Littell,DEM,10
+Harrison,East North Gulfport,U.S. Senate,,Priscilla W. Till,DEM,28
+Harrison,East North Gulfport,U.S. Senate,,Scott Colom,DEM,106
+Harrison,East North Gulfport,U.S. Senate,,Cindy Hyde-Smith,REP,4
+Harrison,East North Gulfport,U.S. Senate,,Sarah Adlakha,REP,4
+Harrison,Gulfport # 13,U.S. House,4,D. Ryan Grover,DEM,5
+Harrison,Gulfport # 13,U.S. House,4,Jeffrey Hulum III,DEM,158
+Harrison,Gulfport # 13,U.S. House,4,Paul James Blackman,DEM,22
+Harrison,Gulfport # 13,U.S. House,4,Mike Ezell,REP,23
+Harrison,Gulfport # 13,U.S. House,4,Sawyer Walters,REP,5
+Harrison,Gulfport # 13,U.S. Senate,,Albert R. Littell,DEM,21
+Harrison,Gulfport # 13,U.S. Senate,,Priscilla W. Till,DEM,64
+Harrison,Gulfport # 13,U.S. Senate,,Scott Colom,DEM,93
+Harrison,Gulfport # 13,U.S. Senate,,Cindy Hyde-Smith,REP,21
+Harrison,Gulfport # 13,U.S. Senate,,Sarah Adlakha,REP,8
+Harrison,Gulfport # 14,U.S. House,4,D. Ryan Grover,DEM,1
+Harrison,Gulfport # 14,U.S. House,4,Jeffrey Hulum III,DEM,346
+Harrison,Gulfport # 14,U.S. House,4,Paul James Blackman,DEM,5
+Harrison,Gulfport # 14,U.S. House,4,Mike Ezell,REP,8
+Harrison,Gulfport # 14,U.S. House,4,Sawyer Walters,REP,6
+Harrison,Gulfport # 14,U.S. Senate,,Albert R. Littell,DEM,30
+Harrison,Gulfport # 14,U.S. Senate,,Priscilla W. Till,DEM,114
+Harrison,Gulfport # 14,U.S. Senate,,Scott Colom,DEM,192
+Harrison,Gulfport # 14,U.S. Senate,,Cindy Hyde-Smith,REP,8
+Harrison,Gulfport # 14,U.S. Senate,,Sarah Adlakha,REP,6
+Harrison,Gulfport # 16,U.S. House,4,D. Ryan Grover,DEM,7
+Harrison,Gulfport # 16,U.S. House,4,Jeffrey Hulum III,DEM,151
+Harrison,Gulfport # 16,U.S. House,4,Paul James Blackman,DEM,9
+Harrison,Gulfport # 16,U.S. House,4,Mike Ezell,REP,12
+Harrison,Gulfport # 16,U.S. House,4,Sawyer Walters,REP,25
+Harrison,Gulfport # 16,U.S. Senate,,Albert R. Littell,DEM,13
+Harrison,Gulfport # 16,U.S. Senate,,Priscilla W. Till,DEM,39
+Harrison,Gulfport # 16,U.S. Senate,,Scott Colom,DEM,113
+Harrison,Gulfport # 16,U.S. Senate,,Cindy Hyde-Smith,REP,11
+Harrison,Gulfport # 16,U.S. Senate,,Sarah Adlakha,REP,25
+Harrison,Gulfport # 3,U.S. House,4,D. Ryan Grover,DEM,8
+Harrison,Gulfport # 3,U.S. House,4,Jeffrey Hulum III,DEM,106
+Harrison,Gulfport # 3,U.S. House,4,Paul James Blackman,DEM,7
+Harrison,Gulfport # 3,U.S. House,4,Mike Ezell,REP,9
+Harrison,Gulfport # 3,U.S. House,4,Sawyer Walters,REP,8
+Harrison,Gulfport # 3,U.S. Senate,,Albert R. Littell,DEM,16
+Harrison,Gulfport # 3,U.S. Senate,,Priscilla W. Till,DEM,36
+Harrison,Gulfport # 3,U.S. Senate,,Scott Colom,DEM,65
+Harrison,Gulfport # 3,U.S. Senate,,Cindy Hyde-Smith,REP,9
+Harrison,Gulfport # 3,U.S. Senate,,Sarah Adlakha,REP,8
+Harrison,Gulfport # 8,U.S. House,4,D. Ryan Grover,DEM,8
+Harrison,Gulfport # 8,U.S. House,4,Jeffrey Hulum III,DEM,116
+Harrison,Gulfport # 8,U.S. House,4,Paul James Blackman,DEM,13
+Harrison,Gulfport # 8,U.S. House,4,Mike Ezell,REP,29
+Harrison,Gulfport # 8,U.S. House,4,Sawyer Walters,REP,9
+Harrison,Gulfport # 8,U.S. Senate,,Albert R. Littell,DEM,11
+Harrison,Gulfport # 8,U.S. Senate,,Priscilla W. Till,DEM,37
+Harrison,Gulfport # 8,U.S. Senate,,Scott Colom,DEM,81
+Harrison,Gulfport # 8,U.S. Senate,,Cindy Hyde-Smith,REP,21
+Harrison,Gulfport # 8,U.S. Senate,,Sarah Adlakha,REP,17
+Harrison,Howard Creek,U.S. House,4,D. Ryan Grover,DEM,23
+Harrison,Howard Creek,U.S. House,4,Jeffrey Hulum III,DEM,92
+Harrison,Howard Creek,U.S. House,4,Paul James Blackman,DEM,23
+Harrison,Howard Creek,U.S. House,4,Mike Ezell,REP,448
+Harrison,Howard Creek,U.S. House,4,Sawyer Walters,REP,94
+Harrison,Howard Creek,U.S. Senate,,Albert R. Littell,DEM,14
+Harrison,Howard Creek,U.S. Senate,,Priscilla W. Till,DEM,33
+Harrison,Howard Creek,U.S. Senate,,Scott Colom,DEM,92
+Harrison,Howard Creek,U.S. Senate,,Cindy Hyde-Smith,REP,419
+Harrison,Howard Creek,U.S. Senate,,Sarah Adlakha,REP,125
+Harrison,Ladner,U.S. House,4,D. Ryan Grover,DEM,3
+Harrison,Ladner,U.S. House,4,Jeffrey Hulum III,DEM,20
+Harrison,Ladner,U.S. House,4,Paul James Blackman,DEM,8
+Harrison,Ladner,U.S. House,4,Mike Ezell,REP,181
+Harrison,Ladner,U.S. House,4,Sawyer Walters,REP,23
+Harrison,Ladner,U.S. Senate,,Albert R. Littell,DEM,1
+Harrison,Ladner,U.S. Senate,,Priscilla W. Till,DEM,4
+Harrison,Ladner,U.S. Senate,,Scott Colom,DEM,27
+Harrison,Ladner,U.S. Senate,,Cindy Hyde-Smith,REP,158
+Harrison,Ladner,U.S. Senate,,Sarah Adlakha,REP,47
+Harrison,Long Beach # 5,U.S. House,4,D. Ryan Grover,DEM,22
+Harrison,Long Beach # 5,U.S. House,4,Jeffrey Hulum III,DEM,68
+Harrison,Long Beach # 5,U.S. House,4,Paul James Blackman,DEM,31
+Harrison,Long Beach # 5,U.S. House,4,Mike Ezell,REP,507
+Harrison,Long Beach # 5,U.S. House,4,Sawyer Walters,REP,141
+Harrison,Long Beach # 5,U.S. Senate,,Albert R. Littell,DEM,13
+Harrison,Long Beach # 5,U.S. Senate,,Priscilla W. Till,DEM,24
+Harrison,Long Beach # 5,U.S. Senate,,Scott Colom,DEM,83
+Harrison,Long Beach # 5,U.S. Senate,,Cindy Hyde-Smith,REP,481
+Harrison,Long Beach # 5,U.S. Senate,,Sarah Adlakha,REP,163
+Harrison,Lyman,U.S. House,4,D. Ryan Grover,DEM,17
+Harrison,Lyman,U.S. House,4,Jeffrey Hulum III,DEM,213
+Harrison,Lyman,U.S. House,4,Paul James Blackman,DEM,50
+Harrison,Lyman,U.S. House,4,Mike Ezell,REP,513
+Harrison,Lyman,U.S. House,4,Sawyer Walters,REP,128
+Harrison,Lyman,U.S. Senate,,Albert R. Littell,DEM,24
+Harrison,Lyman,U.S. Senate,,Priscilla W. Till,DEM,73
+Harrison,Lyman,U.S. Senate,,Scott Colom,DEM,177
+Harrison,Lyman,U.S. Senate,,Cindy Hyde-Smith,REP,469
+Harrison,Lyman,U.S. Senate,,Sarah Adlakha,REP,174
+Harrison,Magnolia Grove,U.S. House,4,D. Ryan Grover,DEM,4
+Harrison,Magnolia Grove,U.S. House,4,Jeffrey Hulum III,DEM,136
+Harrison,Magnolia Grove,U.S. House,4,Paul James Blackman,DEM,7
+Harrison,Magnolia Grove,U.S. House,4,Mike Ezell,REP,18
+Harrison,Magnolia Grove,U.S. House,4,Sawyer Walters,REP,3
+Harrison,Magnolia Grove,U.S. Senate,,Albert R. Littell,DEM,8
+Harrison,Magnolia Grove,U.S. Senate,,Priscilla W. Till,DEM,58
+Harrison,Magnolia Grove,U.S. Senate,,Scott Colom,DEM,79
+Harrison,Magnolia Grove,U.S. Senate,,Cindy Hyde-Smith,REP,14
+Harrison,Magnolia Grove,U.S. Senate,,Sarah Adlakha,REP,7
+Harrison,New Hope,U.S. House,4,D. Ryan Grover,DEM,13
+Harrison,New Hope,U.S. House,4,Jeffrey Hulum III,DEM,127
+Harrison,New Hope,U.S. House,4,Paul James Blackman,DEM,19
+Harrison,New Hope,U.S. House,4,Mike Ezell,REP,219
+Harrison,New Hope,U.S. House,4,Sawyer Walters,REP,49
+Harrison,New Hope,U.S. Senate,,Albert R. Littell,DEM,9
+Harrison,New Hope,U.S. Senate,,Priscilla W. Till,DEM,44
+Harrison,New Hope,U.S. Senate,,Scott Colom,DEM,106
+Harrison,New Hope,U.S. Senate,,Cindy Hyde-Smith,REP,205
+Harrison,New Hope,U.S. Senate,,Sarah Adlakha,REP,64
+Harrison,New Popps Ferry,U.S. House,4,D. Ryan Grover,DEM,10
+Harrison,New Popps Ferry,U.S. House,4,Jeffrey Hulum III,DEM,60
+Harrison,New Popps Ferry,U.S. House,4,Paul James Blackman,DEM,17
+Harrison,New Popps Ferry,U.S. House,4,Mike Ezell,REP,113
+Harrison,New Popps Ferry,U.S. House,4,Sawyer Walters,REP,33
+Harrison,New Popps Ferry,U.S. Senate,,Albert R. Littell,DEM,9
+Harrison,New Popps Ferry,U.S. Senate,,Priscilla W. Till,DEM,24
+Harrison,New Popps Ferry,U.S. Senate,,Scott Colom,DEM,54
+Harrison,New Popps Ferry,U.S. Senate,,Cindy Hyde-Smith,REP,111
+Harrison,New Popps Ferry,U.S. Senate,,Sarah Adlakha,REP,35
+Harrison,North Bay,U.S. House,4,D. Ryan Grover,DEM,46
+Harrison,North Bay,U.S. House,4,Jeffrey Hulum III,DEM,203
+Harrison,North Bay,U.S. House,4,Paul James Blackman,DEM,68
+Harrison,North Bay,U.S. House,4,Mike Ezell,REP,454
+Harrison,North Bay,U.S. House,4,Sawyer Walters,REP,118
+Harrison,North Bay,U.S. Senate,,Albert R. Littell,DEM,24
+Harrison,North Bay,U.S. Senate,,Priscilla W. Till,DEM,88
+Harrison,North Bay,U.S. Senate,,Scott Colom,DEM,206
+Harrison,North Bay,U.S. Senate,,Cindy Hyde-Smith,REP,435
+Harrison,North Bay,U.S. Senate,,Sarah Adlakha,REP,136
+Harrison,North Bel-Aire,U.S. House,4,D. Ryan Grover,DEM,26
+Harrison,North Bel-Aire,U.S. House,4,Jeffrey Hulum III,DEM,416
+Harrison,North Bel-Aire,U.S. House,4,Paul James Blackman,DEM,51
+Harrison,North Bel-Aire,U.S. House,4,Mike Ezell,REP,225
+Harrison,North Bel-Aire,U.S. House,4,Sawyer Walters,REP,59
+Harrison,North Bel-Aire,U.S. Senate,,Albert R. Littell,DEM,44
+Harrison,North Bel-Aire,U.S. Senate,,Priscilla W. Till,DEM,156
+Harrison,North Bel-Aire,U.S. Senate,,Scott Colom,DEM,286
+Harrison,North Bel-Aire,U.S. Senate,,Cindy Hyde-Smith,REP,201
+Harrison,North Bel-Aire,U.S. Senate,,Sarah Adlakha,REP,85
+Harrison,Northwood Hills,U.S. House,4,D. Ryan Grover,DEM,11
+Harrison,Northwood Hills,U.S. House,4,Jeffrey Hulum III,DEM,70
+Harrison,Northwood Hills,U.S. House,4,Paul James Blackman,DEM,16
+Harrison,Northwood Hills,U.S. House,4,Mike Ezell,REP,82
+Harrison,Northwood Hills,U.S. House,4,Sawyer Walters,REP,16
+Harrison,Northwood Hills,U.S. Senate,,Albert R. Littell,DEM,13
+Harrison,Northwood Hills,U.S. Senate,,Priscilla W. Till,DEM,24
+Harrison,Northwood Hills,U.S. Senate,,Scott Colom,DEM,58
+Harrison,Northwood Hills,U.S. Senate,,Cindy Hyde-Smith,REP,70
+Harrison,Northwood Hills,U.S. Senate,,Sarah Adlakha,REP,29
+Harrison,Outside Long Beach,U.S. House,4,D. Ryan Grover,DEM,2
+Harrison,Outside Long Beach,U.S. House,4,Jeffrey Hulum III,DEM,2
+Harrison,Outside Long Beach,U.S. House,4,Paul James Blackman,DEM,2
+Harrison,Outside Long Beach,U.S. House,4,Mike Ezell,REP,64
+Harrison,Outside Long Beach,U.S. House,4,Sawyer Walters,REP,12
+Harrison,Outside Long Beach,U.S. Senate,,Albert R. Littell,DEM,1
+Harrison,Outside Long Beach,U.S. Senate,,Priscilla W. Till,DEM,1
+Harrison,Outside Long Beach,U.S. Senate,,Scott Colom,DEM,4
+Harrison,Outside Long Beach,U.S. Senate,,Cindy Hyde-Smith,REP,63
+Harrison,Outside Long Beach,U.S. Senate,,Sarah Adlakha,REP,14
+Harrison,Peace,U.S. House,4,D. Ryan Grover,DEM,11
+Harrison,Peace,U.S. House,4,Jeffrey Hulum III,DEM,32
+Harrison,Peace,U.S. House,4,Paul James Blackman,DEM,12
+Harrison,Peace,U.S. House,4,Mike Ezell,REP,330
+Harrison,Peace,U.S. House,4,Sawyer Walters,REP,54
+Harrison,Peace,U.S. Senate,,Albert R. Littell,DEM,4
+Harrison,Peace,U.S. Senate,,Priscilla W. Till,DEM,14
+Harrison,Peace,U.S. Senate,,Scott Colom,DEM,36
+Harrison,Peace,U.S. Senate,,Cindy Hyde-Smith,REP,318
+Harrison,Peace,U.S. Senate,,Sarah Adlakha,REP,66
+Harrison,Pineville,U.S. House,4,D. Ryan Grover,DEM,4
+Harrison,Pineville,U.S. House,4,Jeffrey Hulum III,DEM,25
+Harrison,Pineville,U.S. House,4,Paul James Blackman,DEM,15
+Harrison,Pineville,U.S. House,4,Mike Ezell,REP,215
+Harrison,Pineville,U.S. House,4,Sawyer Walters,REP,53
+Harrison,Pineville,U.S. Senate,,Albert R. Littell,DEM,0
+Harrison,Pineville,U.S. Senate,,Priscilla W. Till,DEM,15
+Harrison,Pineville,U.S. Senate,,Scott Colom,DEM,27
+Harrison,Pineville,U.S. Senate,,Cindy Hyde-Smith,REP,212
+Harrison,Pineville,U.S. Senate,,Sarah Adlakha,REP,59
+Harrison,Poplar Head,U.S. House,4,D. Ryan Grover,DEM,2
+Harrison,Poplar Head,U.S. House,4,Jeffrey Hulum III,DEM,10
+Harrison,Poplar Head,U.S. House,4,Paul James Blackman,DEM,2
+Harrison,Poplar Head,U.S. House,4,Mike Ezell,REP,82
+Harrison,Poplar Head,U.S. House,4,Sawyer Walters,REP,10
+Harrison,Poplar Head,U.S. Senate,,Albert R. Littell,DEM,5
+Harrison,Poplar Head,U.S. Senate,,Priscilla W. Till,DEM,3
+Harrison,Poplar Head,U.S. Senate,,Scott Colom,DEM,6
+Harrison,Poplar Head,U.S. Senate,,Cindy Hyde-Smith,REP,75
+Harrison,Poplar Head,U.S. Senate,,Sarah Adlakha,REP,17
+Harrison,Riceville,U.S. House,4,D. Ryan Grover,DEM,0
+Harrison,Riceville,U.S. House,4,Jeffrey Hulum III,DEM,0
+Harrison,Riceville,U.S. House,4,Paul James Blackman,DEM,1
+Harrison,Riceville,U.S. House,4,Mike Ezell,REP,36
+Harrison,Riceville,U.S. House,4,Sawyer Walters,REP,14
+Harrison,Riceville,U.S. Senate,,Albert R. Littell,DEM,0
+Harrison,Riceville,U.S. Senate,,Priscilla W. Till,DEM,0
+Harrison,Riceville,U.S. Senate,,Scott Colom,DEM,1
+Harrison,Riceville,U.S. Senate,,Cindy Hyde-Smith,REP,37
+Harrison,Riceville,U.S. Senate,,Sarah Adlakha,REP,11
+Harrison,Saucier,U.S. House,4,D. Ryan Grover,DEM,2
+Harrison,Saucier,U.S. House,4,Jeffrey Hulum III,DEM,22
+Harrison,Saucier,U.S. House,4,Paul James Blackman,DEM,11
+Harrison,Saucier,U.S. House,4,Mike Ezell,REP,187
+Harrison,Saucier,U.S. House,4,Sawyer Walters,REP,31
+Harrison,Saucier,U.S. Senate,,Albert R. Littell,DEM,5
+Harrison,Saucier,U.S. Senate,,Priscilla W. Till,DEM,10
+Harrison,Saucier,U.S. Senate,,Scott Colom,DEM,20
+Harrison,Saucier,U.S. Senate,,Cindy Hyde-Smith,REP,168
+Harrison,Saucier,U.S. Senate,,Sarah Adlakha,REP,50
+Harrison,South Bel-Aire,U.S. House,4,D. Ryan Grover,DEM,7
+Harrison,South Bel-Aire,U.S. House,4,Jeffrey Hulum III,DEM,175
+Harrison,South Bel-Aire,U.S. House,4,Paul James Blackman,DEM,15
+Harrison,South Bel-Aire,U.S. House,4,Mike Ezell,REP,70
+Harrison,South Bel-Aire,U.S. House,4,Sawyer Walters,REP,26
+Harrison,South Bel-Aire,U.S. Senate,,Albert R. Littell,DEM,19
+Harrison,South Bel-Aire,U.S. Senate,,Priscilla W. Till,DEM,46
+Harrison,South Bel-Aire,U.S. Senate,,Scott Colom,DEM,127
+Harrison,South Bel-Aire,U.S. Senate,,Cindy Hyde-Smith,REP,63
+Harrison,South Bel-Aire,U.S. Senate,,Sarah Adlakha,REP,33
+Harrison,Stonewall,U.S. House,4,D. Ryan Grover,DEM,16
+Harrison,Stonewall,U.S. House,4,Jeffrey Hulum III,DEM,81
+Harrison,Stonewall,U.S. House,4,Paul James Blackman,DEM,20
+Harrison,Stonewall,U.S. House,4,Mike Ezell,REP,225
+Harrison,Stonewall,U.S. House,4,Sawyer Walters,REP,53
+Harrison,Stonewall,U.S. Senate,,Albert R. Littell,DEM,16
+Harrison,Stonewall,U.S. Senate,,Priscilla W. Till,DEM,29
+Harrison,Stonewall,U.S. Senate,,Scott Colom,DEM,70
+Harrison,Stonewall,U.S. Senate,,Cindy Hyde-Smith,REP,195
+Harrison,Stonewall,U.S. Senate,,Sarah Adlakha,REP,84
+Harrison,Vidalia,U.S. House,4,D. Ryan Grover,DEM,1
+Harrison,Vidalia,U.S. House,4,Jeffrey Hulum III,DEM,5
+Harrison,Vidalia,U.S. House,4,Paul James Blackman,DEM,1
+Harrison,Vidalia,U.S. House,4,Mike Ezell,REP,92
+Harrison,Vidalia,U.S. House,4,Sawyer Walters,REP,15
+Harrison,Vidalia,U.S. Senate,,Albert R. Littell,DEM,1
+Harrison,Vidalia,U.S. Senate,,Priscilla W. Till,DEM,0
+Harrison,Vidalia,U.S. Senate,,Scott Colom,DEM,6
+Harrison,Vidalia,U.S. Senate,,Cindy Hyde-Smith,REP,86
+Harrison,Vidalia,U.S. Senate,,Sarah Adlakha,REP,21
+Harrison,W Pass Christian,U.S. House,4,D. Ryan Grover,DEM,10
+Harrison,W Pass Christian,U.S. House,4,Jeffrey Hulum III,DEM,59
+Harrison,W Pass Christian,U.S. House,4,Paul James Blackman,DEM,14
+Harrison,W Pass Christian,U.S. House,4,Mike Ezell,REP,155
+Harrison,W Pass Christian,U.S. House,4,Sawyer Walters,REP,29
+Harrison,W Pass Christian,U.S. Senate,,Albert R. Littell,DEM,9
+Harrison,W Pass Christian,U.S. Senate,,Priscilla W. Till,DEM,27
+Harrison,W Pass Christian,U.S. Senate,,Scott Colom,DEM,48
+Harrison,W Pass Christian,U.S. Senate,,Cindy Hyde-Smith,REP,134
+Harrison,W Pass Christian,U.S. Senate,,Sarah Adlakha,REP,49
+Harrison,West Handsboro,U.S. House,4,D. Ryan Grover,DEM,12
+Harrison,West Handsboro,U.S. House,4,Jeffrey Hulum III,DEM,57
+Harrison,West Handsboro,U.S. House,4,Paul James Blackman,DEM,7
+Harrison,West Handsboro,U.S. House,4,Mike Ezell,REP,276
+Harrison,West Handsboro,U.S. House,4,Sawyer Walters,REP,58
+Harrison,West Handsboro,U.S. Senate,,Albert R. Littell,DEM,4
+Harrison,West Handsboro,U.S. Senate,,Priscilla W. Till,DEM,21
+Harrison,West Handsboro,U.S. Senate,,Scott Colom,DEM,51
+Harrison,West Handsboro,U.S. Senate,,Cindy Hyde-Smith,REP,256
+Harrison,West Handsboro,U.S. Senate,,Sarah Adlakha,REP,80
+Harrison,West Lizana,U.S. House,4,D. Ryan Grover,DEM,2
+Harrison,West Lizana,U.S. House,4,Jeffrey Hulum III,DEM,7
+Harrison,West Lizana,U.S. House,4,Paul James Blackman,DEM,1
+Harrison,West Lizana,U.S. House,4,Mike Ezell,REP,116
+Harrison,West Lizana,U.S. House,4,Sawyer Walters,REP,19
+Harrison,West Lizana,U.S. Senate,,Albert R. Littell,DEM,0
+Harrison,West Lizana,U.S. Senate,,Priscilla W. Till,DEM,2
+Harrison,West Lizana,U.S. Senate,,Scott Colom,DEM,8
+Harrison,West Lizana,U.S. Senate,,Cindy Hyde-Smith,REP,106
+Harrison,West Lizana,U.S. Senate,,Sarah Adlakha,REP,29
+Harrison,West Long Beach,U.S. House,4,D. Ryan Grover,DEM,23
+Harrison,West Long Beach,U.S. House,4,Jeffrey Hulum III,DEM,50
+Harrison,West Long Beach,U.S. House,4,Paul James Blackman,DEM,26
+Harrison,West Long Beach,U.S. House,4,Mike Ezell,REP,313
+Harrison,West Long Beach,U.S. House,4,Sawyer Walters,REP,100
+Harrison,West Long Beach,U.S. Senate,,Albert R. Littell,DEM,11
+Harrison,West Long Beach,U.S. Senate,,Priscilla W. Till,DEM,38
+Harrison,West Long Beach,U.S. Senate,,Scott Colom,DEM,50
+Harrison,West Long Beach,U.S. Senate,,Cindy Hyde-Smith,REP,302
+Harrison,West Long Beach,U.S. Senate,,Sarah Adlakha,REP,112
+Harrison,West Mississippi City,U.S. House,4,D. Ryan Grover,DEM,12
+Harrison,West Mississippi City,U.S. House,4,Jeffrey Hulum III,DEM,91
+Harrison,West Mississippi City,U.S. House,4,Paul James Blackman,DEM,23
+Harrison,West Mississippi City,U.S. House,4,Mike Ezell,REP,246
+Harrison,West Mississippi City,U.S. House,4,Sawyer Walters,REP,76
+Harrison,West Mississippi City,U.S. Senate,,Albert R. Littell,DEM,20
+Harrison,West Mississippi City,U.S. Senate,,Priscilla W. Till,DEM,33
+Harrison,West Mississippi City,U.S. Senate,,Scott Colom,DEM,74
+Harrison,West Mississippi City,U.S. Senate,,Cindy Hyde-Smith,REP,223
+Harrison,West Mississippi City,U.S. Senate,,Sarah Adlakha,REP,97
+Harrison,West North Gpt,U.S. House,4,D. Ryan Grover,DEM,14
+Harrison,West North Gpt,U.S. House,4,Jeffrey Hulum III,DEM,290
+Harrison,West North Gpt,U.S. House,4,Paul James Blackman,DEM,10
+Harrison,West North Gpt,U.S. House,4,Mike Ezell,REP,3
+Harrison,West North Gpt,U.S. House,4,Sawyer Walters,REP,10
+Harrison,West North Gpt,U.S. Senate,,Albert R. Littell,DEM,27
+Harrison,West North Gpt,U.S. Senate,,Priscilla W. Till,DEM,118
+Harrison,West North Gpt,U.S. Senate,,Scott Colom,DEM,152
+Harrison,West North Gpt,U.S. Senate,,Cindy Hyde-Smith,REP,2
+Harrison,West North Gpt,U.S. Senate,,Sarah Adlakha,REP,11
+Harrison,West Orange Grove,U.S. House,4,D. Ryan Grover,DEM,28
+Harrison,West Orange Grove,U.S. House,4,Jeffrey Hulum III,DEM,249
+Harrison,West Orange Grove,U.S. House,4,Paul James Blackman,DEM,32
+Harrison,West Orange Grove,U.S. House,4,Mike Ezell,REP,327
+Harrison,West Orange Grove,U.S. House,4,Sawyer Walters,REP,77
+Harrison,West Orange Grove,U.S. Senate,,Albert R. Littell,DEM,24
+Harrison,West Orange Grove,U.S. Senate,,Priscilla W. Till,DEM,87
+Harrison,West Orange Grove,U.S. Senate,,Scott Colom,DEM,192
+Harrison,West Orange Grove,U.S. Senate,,Cindy Hyde-Smith,REP,314
+Harrison,West Orange Grove,U.S. Senate,,Sarah Adlakha,REP,92
+Harrison,Westside,U.S. House,4,D. Ryan Grover,DEM,2
+Harrison,Westside,U.S. House,4,Jeffrey Hulum III,DEM,35
+Harrison,Westside,U.S. House,4,Paul James Blackman,DEM,12
+Harrison,Westside,U.S. House,4,Mike Ezell,REP,87
+Harrison,Westside,U.S. House,4,Sawyer Walters,REP,27
+Harrison,Westside,U.S. Senate,,Albert R. Littell,DEM,3
+Harrison,Westside,U.S. Senate,,Priscilla W. Till,DEM,13
+Harrison,Westside,U.S. Senate,,Scott Colom,DEM,31
+Harrison,Westside,U.S. Senate,,Cindy Hyde-Smith,REP,87
+Harrison,Westside,U.S. Senate,,Sarah Adlakha,REP,27
+Harrison,White Plains,U.S. House,4,D. Ryan Grover,DEM,3
+Harrison,White Plains,U.S. House,4,Jeffrey Hulum III,DEM,28
+Harrison,White Plains,U.S. House,4,Paul James Blackman,DEM,11
+Harrison,White Plains,U.S. House,4,Mike Ezell,REP,145
+Harrison,White Plains,U.S. House,4,Sawyer Walters,REP,30
+Harrison,White Plains,U.S. Senate,,Albert R. Littell,DEM,4
+Harrison,White Plains,U.S. Senate,,Priscilla W. Till,DEM,15
+Harrison,White Plains,U.S. Senate,,Scott Colom,DEM,23
+Harrison,White Plains,U.S. Senate,,Cindy Hyde-Smith,REP,133
+Harrison,White Plains,U.S. Senate,,Sarah Adlakha,REP,41
