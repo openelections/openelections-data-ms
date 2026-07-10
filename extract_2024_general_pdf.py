@@ -60,6 +60,12 @@ OFFICE_SCHOOL_BOARD = "School Board"
 OFFICE_TAX_ASSESSOR = "Tax Assessor"
 OFFICE_CONSTABLE = "Constable"
 OFFICE_COUNTY_ATTORNEY = "County Attorney"
+OFFICE_AUDITOR = "State Auditor"
+OFFICE_AG_COMMERCE = "Commissioner Of Agriculture & Commerce"
+OFFICE_INSURANCE = "Commissioner Of Insurance"
+OFFICE_DISTRICT_ATTORNEY = "District Attorney"
+OFFICE_PSC = "Public Service Commissioner"
+OFFICE_TRANSPORTATION = "Transportation Commissioner"
 
 # All recognized offices for fallback matching
 RECOGNIZED_OFFICES = {
@@ -68,6 +74,8 @@ RECOGNIZED_OFFICES = {
     OFFICE_ELECTION, OFFICE_SHERIFF, OFFICE_TAX, OFFICE_CIRCUIT, OFFICE_CHANCERY,
     OFFICE_SUPERVISOR, OFFICE_JUSTICE, OFFICE_CORONER, OFFICE_SCHOOL_BOARD,
     OFFICE_TAX_ASSESSOR, OFFICE_CONSTABLE, OFFICE_COUNTY_ATTORNEY,
+    OFFICE_AUDITOR, OFFICE_AG_COMMERCE, OFFICE_INSURANCE, OFFICE_DISTRICT_ATTORNEY,
+    OFFICE_PSC, OFFICE_TRANSPORTATION,
 }
 
 # Matches a district/position/commissioner-seat/beat/post number embedded in
@@ -474,6 +482,7 @@ def _looks_like_office(text):
         'justice court', 'coroner', 'election comm', 'position',
         'precinct', 'ward', 'dist.', 'dist ', 'school board', 'school district',
         'tax assessor', 'constable', 'county attorney', 'beat', 'post',
+        'auditor', 'insurance', 'agriculture', 'attorney',
     ]
 
     # If it contains multiple of these keywords, it's likely an office
@@ -535,6 +544,25 @@ def _classify_office(token):
         return OFFICE_CONSTABLE
     if "county attorney" in t:
         return OFFICE_COUNTY_ATTORNEY
+    # Primary-only statewide/district races (not on the 2024 general ballot).
+    # These short returns are safe for roster-matched candidates -- the
+    # authoritative office/district then comes from candidate_info (the
+    # official county CSV), not from this classification -- but do lose a
+    # district/geographic qualifier embedded in the raw text (e.g. "District
+    # Attorney 06", "Public Service Commissioner-Central District") for any
+    # candidate NOT found in the roster.
+    if "auditor" in t:
+        return OFFICE_AUDITOR
+    if "agriculture" in t:
+        return OFFICE_AG_COMMERCE
+    if "insurance" in t:
+        return OFFICE_INSURANCE
+    if "district attorney" in t:
+        return OFFICE_DISTRICT_ATTORNEY
+    if "public service commissioner" in t:
+        return OFFICE_PSC
+    if "transportation commissioner" in t:
+        return OFFICE_TRANSPORTATION
     return None
 
 
