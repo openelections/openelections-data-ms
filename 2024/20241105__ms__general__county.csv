@@ -44,8 +44,8 @@ Amite,U.S. House,2,DEM,Bennie G. Thompson,2411
 Amite,U.S. House,2,REP,Ron Eller,4414
 Amite,U.S. Senate,,DEM,Ty Pinkins,2294
 Amite,U.S. Senate,,REP,Roger F. Wicker,4514
-Attala,Court Of Appeals 02-District 2  Position 2,,,Latrice Westbrooks,2427
-Attala,Court Of Appeals 03-District 3  Position 1,,,Jack Wilson,3744
+Attala,Court Of Appeals 02-District 2 Position 2,,,Latrice Westbrooks,2427
+Attala,Court Of Appeals 03-District 3 Position 1,,,Jack Wilson,3744
 Attala,Northern District-Supreme Court District 3(Northern) Position 1,,,Robert P. 'Bobby' Chamberlin,6191
 Attala,Northern District-Supreme Court District 3(Northern) Position 2,,,Jimmy Maxwell,6130
 Attala,President,,CON,Randall Terry for President and Stephen E. Broden for Vice President,10
@@ -81,7 +81,7 @@ Bolivar,Central District-Supreme Court District 1(Central) Position 3,,,Byron Ca
 Bolivar,Central District-Supreme Court District 1(Central) Position 3,,,Ceola James,1685
 Bolivar,Central District-Supreme Court District 1(Central) Position 3,,,Jenifer B. Branning,2813
 Bolivar,Central District-Supreme Court District 1(Central) Position 3,,,Jim Kitchens,3753
-Bolivar,Court Of Appeals 02-District 2  Position 2,,,Latrice Westbrooks,7933
+Bolivar,Court Of Appeals 02-District 2 Position 2,,,Latrice Westbrooks,7933
 Bolivar,President,,CON,Randall Terry for President and Stephen E. Broden for Vice President,4
 Bolivar,President,,DEM,Kamala D. Harris for President and Tim Walz for Vice President,6419
 Bolivar,President,,GRN,Jill Stein for President and Rudolph Ware for Vice President,12
@@ -110,7 +110,7 @@ Calhoun,U.S. House,1,DEM,Dianne Dodson Black,1472
 Calhoun,U.S. House,1,REP,Trent Kelly,4472
 Calhoun,U.S. Senate,,DEM,Ty Pinkins,1512
 Calhoun,U.S. Senate,,REP,Roger F. Wicker,4402
-Carroll,Court Of Appeals 02-District 2  Position 2,,,Latrice Westbrooks,3949
+Carroll,Court Of Appeals 02-District 2 Position 2,,,Latrice Westbrooks,3949
 Carroll,Northern District-Supreme Court District 3(Northern) Position 1,,,Robert P. 'Bobby' Chamberlin,4064
 Carroll,Northern District-Supreme Court District 3(Northern) Position 2,,,Jimmy Maxwell,4074
 Carroll,President,,CON,Randall Terry for President and Stephen E. Broden for Vice President,3
@@ -161,7 +161,7 @@ Claiborne,Central District-Supreme Court District 1(Central) Position 3,,,Byron 
 Claiborne,Central District-Supreme Court District 1(Central) Position 3,,,Ceola James,811
 Claiborne,Central District-Supreme Court District 1(Central) Position 3,,,Jenifer B. Branning,678
 Claiborne,Central District-Supreme Court District 1(Central) Position 3,,,Jim Kitchens,1449
-Claiborne,Court Of Appeals 02-District 2  Position 2,,,Latrice Westbrooks,2853
+Claiborne,Court Of Appeals 02-District 2 Position 2,,,Latrice Westbrooks,2853
 Claiborne,President,,CON,Randall Terry for President and Stephen E. Broden for Vice President,2
 Claiborne,President,,DEM,Kamala D. Harris for President and Tim Walz for Vice President,2950
 Claiborne,President,,GRN,Jill Stein for President and Rudolph Ware for Vice President,4
@@ -175,7 +175,7 @@ Claiborne,U.S. House,2,DEM,Bennie G. Thompson,3082
 Claiborne,U.S. House,2,REP,Ron Eller,522
 Claiborne,U.S. Senate,,DEM,Ty Pinkins,2843
 Claiborne,U.S. Senate,,REP,Roger F. Wicker,719
-Clarke,Court Of Appeals 03-District 3  Position 1,,,Jack Wilson,6584
+Clarke,Court Of Appeals 03-District 3 Position 1,,,Jack Wilson,6584
 Clarke,President,,CON,Randall Terry for President and Stephen E. Broden for Vice President,4
 Clarke,President,,DEM,Kamala D. Harris for President and Tim Walz for Vice President,2430
 Clarke,President,,GRN,Jill Stein for President and Rudolph Ware for Vice President,5
@@ -190,7 +190,7 @@ Clarke,Southern District-Supreme Court District 2(Southern) Position 2,,,Dawn H.
 Clarke,U.S. House,3,REP,Michael Guest,6400
 Clarke,U.S. Senate,,DEM,Ty Pinkins,2350
 Clarke,U.S. Senate,,REP,Roger F. Wicker,5151
-Clay,Court Of Appeals 03-District 3  Position 1,,,Jack Wilson,7670
+Clay,Court Of Appeals 03-District 3 Position 1,,,Jack Wilson,7670
 Clay,Northern District-Supreme Court District 3(Northern) Position 1,,,Robert P. 'Bobby' Chamberlin,7699
 Clay,Northern District-Supreme Court District 3(Northern) Position 2,,,Jimmy Maxwell,7710
 Clay,President,,CON,Randall Terry for President and Stephen E. Broden for Vice President,5
@@ -206,7 +206,7 @@ Clay,U.S. House,1,DEM,Dianne Dodson Black,4857
 Clay,U.S. House,1,REP,Trent Kelly,4228
 Clay,U.S. Senate,,DEM,Ty Pinkins,4886
 Clay,U.S. Senate,,REP,Roger F. Wicker,4228
-Coahoma,Court Of Appeals 02-District 2  Position 2,,,Latrice Westbrooks,4868
+Coahoma,Court Of Appeals 02-District 2 Position 2,,,Latrice Westbrooks,4868
 Coahoma,Northern District-Supreme Court District 3(Northern) Position 1,,,Robert P. 'Bobby' Chamberlin,4896
 Coahoma,Northern District-Supreme Court District 3(Northern) Position 2,,,Jimmy Maxwell,4887
 Coahoma,President,,CON,Randall Terry for President and Stephen E. Broden for Vice President,6
@@ -269,9 +269,9 @@ DeSoto,U.S. House,1,DEM,Dianne Dodson Black,29065
 DeSoto,U.S. House,1,REP,Trent Kelly,48761
 DeSoto,U.S. Senate,,DEM,Ty Pinkins,28914
 DeSoto,U.S. Senate,,REP,Roger F. Wicker,49073
-Forrest,Court Of Appeals 05-District 5  Position 2,,,Amy Lassitter St. Pe',9659
-Forrest,Court Of Appeals 05-District 5  Position 2,,,Ian Baker,9075
-Forrest,Court Of Appeals 05-District 5  Position 2,,,Jennifer T. Schloegel,6854
+Forrest,Court Of Appeals 05-District 5 Position 2,,,Amy Lassitter St. Pe',9659
+Forrest,Court Of Appeals 05-District 5 Position 2,,,Ian Baker,9075
+Forrest,Court Of Appeals 05-District 5 Position 2,,,Jennifer T. Schloegel,6854
 Forrest,President,,CON,Randall Terry for President and Stephen E. Broden for Vice President,23
 Forrest,President,,DEM,Kamala D. Harris for President and Tim Walz for Vice President,11475
 Forrest,President,,GRN,Jill Stein for President and Rudolph Ware for Vice President,69
@@ -302,9 +302,9 @@ Franklin,U.S. House,2,DEM,Bennie G. Thompson,1297
 Franklin,U.S. House,2,REP,Ron Eller,2779
 Franklin,U.S. Senate,,DEM,Ty Pinkins,1203
 Franklin,U.S. Senate,,REP,Roger F. Wicker,2852
-George,Court Of Appeals 05-District 5  Position 2,,,Amy Lassitter St. Pe',4433
-George,Court Of Appeals 05-District 5  Position 2,,,Ian Baker,3412
-George,Court Of Appeals 05-District 5  Position 2,,,Jennifer T. Schloegel,2077
+George,Court Of Appeals 05-District 5 Position 2,,,Amy Lassitter St. Pe',4433
+George,Court Of Appeals 05-District 5 Position 2,,,Ian Baker,3412
+George,Court Of Appeals 05-District 5 Position 2,,,Jennifer T. Schloegel,2077
 George,President,,CON,Randall Terry for President and Stephen E. Broden for Vice President,6
 George,President,,DEM,Kamala D. Harris for President and Tim Walz for Vice President,1138
 George,President,,GRN,Jill Stein for President and Rudolph Ware for Vice President,12
@@ -320,9 +320,9 @@ George,U.S. House,4,DEM,Craig Elliot Raybon,1078
 George,U.S. House,4,REP,Mike Ezell,9859
 George,U.S. Senate,,DEM,Ty Pinkins,1216
 George,U.S. Senate,,REP,Roger F. Wicker,9662
-Greene,Court Of Appeals 05-District 5  Position 2,,,Amy Lassitter St. Pe',2059
-Greene,Court Of Appeals 05-District 5  Position 2,,,Ian Baker,2025
-Greene,Court Of Appeals 05-District 5  Position 2,,,Jennifer T. Schloegel,1023
+Greene,Court Of Appeals 05-District 5 Position 2,,,Amy Lassitter St. Pe',2059
+Greene,Court Of Appeals 05-District 5 Position 2,,,Ian Baker,2025
+Greene,Court Of Appeals 05-District 5 Position 2,,,Jennifer T. Schloegel,1023
 Greene,President,,CON,Randall Terry for President and Stephen E. Broden for Vice President,5
 Greene,President,,DEM,Kamala D. Harris for President and Tim Walz for Vice President,835
 Greene,President,,GRN,Jill Stein for President and Rudolph Ware for Vice President,1
@@ -338,7 +338,7 @@ Greene,U.S. House,4,DEM,Craig Elliot Raybon,785
 Greene,U.S. House,4,REP,Mike Ezell,4827
 Greene,U.S. Senate,,DEM,Ty Pinkins,891
 Greene,U.S. Senate,,REP,Roger F. Wicker,4712
-Grenada,Court Of Appeals 02-District 2  Position 2,,,Latrice Westbrooks,7502
+Grenada,Court Of Appeals 02-District 2 Position 2,,,Latrice Westbrooks,7502
 Grenada,Northern District-Supreme Court District 3(Northern) Position 1,,,Robert P. 'Bobby' Chamberlin,8089
 Grenada,Northern District-Supreme Court District 3(Northern) Position 2,,,Jimmy Maxwell,7970
 Grenada,President,,CON,Randall Terry for President and Stephen E. Broden for Vice President,2
@@ -354,9 +354,9 @@ Grenada,U.S. House,2,DEM,Bennie G. Thompson,4253
 Grenada,U.S. House,2,REP,Ron Eller,5482
 Grenada,U.S. Senate,,DEM,Ty Pinkins,3989
 Grenada,U.S. Senate,,REP,Roger F. Wicker,5689
-Hancock,Court Of Appeals 05-District 5  Position 2,,,Amy Lassitter St. Pe',4430
-Hancock,Court Of Appeals 05-District 5  Position 2,,,Ian Baker,6405
-Hancock,Court Of Appeals 05-District 5  Position 2,,,Jennifer T. Schloegel,7874
+Hancock,Court Of Appeals 05-District 5 Position 2,,,Amy Lassitter St. Pe',4430
+Hancock,Court Of Appeals 05-District 5 Position 2,,,Ian Baker,6405
+Hancock,Court Of Appeals 05-District 5 Position 2,,,Jennifer T. Schloegel,7874
 Hancock,President,,CON,Randall Terry for President and Stephen E. Broden for Vice President,15
 Hancock,President,,DEM,Kamala D. Harris for President and Tim Walz for Vice President,4262
 Hancock,President,,GRN,Jill Stein for President and Rudolph Ware for Vice President,32
@@ -372,9 +372,9 @@ Hancock,U.S. House,4,DEM,Craig Elliot Raybon,3900
 Hancock,U.S. House,4,REP,Mike Ezell,16945
 Hancock,U.S. Senate,,DEM,Ty Pinkins,4104
 Hancock,U.S. Senate,,REP,Roger F. Wicker,16797
-Harrison,Court Of Appeals 05-District 5  Position 2,,,Amy Lassitter St. Pe',17323
-Harrison,Court Of Appeals 05-District 5  Position 2,,,Ian Baker,21462
-Harrison,Court Of Appeals 05-District 5  Position 2,,,Jennifer T. Schloegel,31025
+Harrison,Court Of Appeals 05-District 5 Position 2,,,Amy Lassitter St. Pe',17323
+Harrison,Court Of Appeals 05-District 5 Position 2,,,Ian Baker,21462
+Harrison,Court Of Appeals 05-District 5 Position 2,,,Jennifer T. Schloegel,31025
 Harrison,President,,CON,Randall Terry for President and Stephen E. Broden for Vice President,53
 Harrison,President,,DEM,Kamala D. Harris for President and Tim Walz for Vice President,26555
 Harrison,President,,GRN,Jill Stein for President and Rudolph Ware for Vice President,139
@@ -395,7 +395,7 @@ Hinds,Central District-Supreme Court District 1(Central) Position 3,,,Byron Cart
 Hinds,Central District-Supreme Court District 1(Central) Position 3,,,Ceola James,9634
 Hinds,Central District-Supreme Court District 1(Central) Position 3,,,Jenifer B. Branning,21268
 Hinds,Central District-Supreme Court District 1(Central) Position 3,,,Jim Kitchens,38598
-Hinds,Court Of Appeals 02-District 2  Position 2,,,Latrice Westbrooks,15299
+Hinds,Court Of Appeals 02-District 2 Position 2,,,Latrice Westbrooks,15299
 Hinds,President,,CON,Randall Terry for President and Stephen E. Broden for Vice President,86
 Hinds,President,,DEM,Kamala D. Harris for President and Tim Walz for Vice President,62840
 Hinds,President,,GRN,Jill Stein for President and Rudolph Ware for Vice President,203
@@ -415,7 +415,7 @@ Holmes,Central District-Supreme Court District 1(Central) Position 3,,,Byron Car
 Holmes,Central District-Supreme Court District 1(Central) Position 3,,,Ceola James,620
 Holmes,Central District-Supreme Court District 1(Central) Position 3,,,Jenifer B. Branning,1561
 Holmes,Central District-Supreme Court District 1(Central) Position 3,,,Jim Kitchens,3046
-Holmes,Court Of Appeals 02-District 2  Position 2,,,Latrice Westbrooks,5586
+Holmes,Court Of Appeals 02-District 2 Position 2,,,Latrice Westbrooks,5586
 Holmes,President,,CON,Randall Terry for President and Stephen E. Broden for Vice President,3
 Holmes,President,,DEM,Kamala D. Harris for President and Tim Walz for Vice President,5420
 Holmes,President,,GRN,Jill Stein for President and Rudolph Ware for Vice President,15
@@ -434,7 +434,7 @@ Humphreys,Central District-Supreme Court District 1(Central) Position 3,,,Byron 
 Humphreys,Central District-Supreme Court District 1(Central) Position 3,,,Ceola James,810
 Humphreys,Central District-Supreme Court District 1(Central) Position 3,,,Jenifer B. Branning,728
 Humphreys,Central District-Supreme Court District 1(Central) Position 3,,,Jim Kitchens,1244
-Humphreys,Court Of Appeals 02-District 2  Position 2,,,Latrice Westbrooks,2716
+Humphreys,Court Of Appeals 02-District 2 Position 2,,,Latrice Westbrooks,2716
 Humphreys,President,,CON,Randall Terry for President and Stephen E. Broden for Vice President,3
 Humphreys,President,,DEM,Kamala D. Harris for President and Tim Walz for Vice President,2443
 Humphreys,President,,GRN,Jill Stein for President and Rudolph Ware for Vice President,6
@@ -453,7 +453,7 @@ Issaquena,Central District-Supreme Court District 1(Central) Position 3,,,Byron 
 Issaquena,Central District-Supreme Court District 1(Central) Position 3,,,Ceola James,111
 Issaquena,Central District-Supreme Court District 1(Central) Position 3,,,Jenifer B. Branning,192
 Issaquena,Central District-Supreme Court District 1(Central) Position 3,,,Jim Kitchens,186
-Issaquena,Court Of Appeals 02-District 2  Position 2,,,Latrice Westbrooks,419
+Issaquena,Court Of Appeals 02-District 2 Position 2,,,Latrice Westbrooks,419
 Issaquena,President,,CON,Randall Terry for President and Stephen E. Broden for Vice President,5
 Issaquena,President,,DEM,Kamala D. Harris for President and Tim Walz for Vice President,287
 Issaquena,President,,GRN,Jill Stein for President and Rudolph Ware for Vice President,7
@@ -482,9 +482,9 @@ Itawamba,U.S. House,1,DEM,Dianne Dodson Black,967
 Itawamba,U.S. House,1,REP,Trent Kelly,9576
 Itawamba,U.S. Senate,,DEM,Ty Pinkins,1114
 Itawamba,U.S. Senate,,REP,Roger F. Wicker,9337
-Jackson,Court Of Appeals 05-District 5  Position 2,,,Amy Lassitter St. Pe',28025
-Jackson,Court Of Appeals 05-District 5  Position 2,,,Ian Baker,7721
-Jackson,Court Of Appeals 05-District 5  Position 2,,,Jennifer T. Schloegel,13075
+Jackson,Court Of Appeals 05-District 5 Position 2,,,Amy Lassitter St. Pe',28025
+Jackson,Court Of Appeals 05-District 5 Position 2,,,Ian Baker,7721
+Jackson,Court Of Appeals 05-District 5 Position 2,,,Jennifer T. Schloegel,13075
 Jackson,President,,CON,Randall Terry for President and Stephen E. Broden for Vice President,31
 Jackson,President,,DEM,Kamala D. Harris for President and Tim Walz for Vice President,15469
 Jackson,President,,GRN,Jill Stein for President and Rudolph Ware for Vice President,102
@@ -500,7 +500,7 @@ Jackson,U.S. House,4,DEM,Craig Elliot Raybon,13698
 Jackson,U.S. House,4,REP,Mike Ezell,38288
 Jackson,U.S. Senate,,DEM,Ty Pinkins,14932
 Jackson,U.S. Senate,,REP,Roger F. Wicker,37059
-Jasper,Court Of Appeals 03-District 3  Position 1,,,Jack Wilson,6442
+Jasper,Court Of Appeals 03-District 3 Position 1,,,Jack Wilson,6442
 Jasper,President,,CON,Randall Terry for President and Stephen E. Broden for Vice President,5
 Jasper,President,,DEM,Kamala D. Harris for President and Tim Walz for Vice President,3722
 Jasper,President,,GRN,Jill Stein for President and Rudolph Ware for Vice President,5
@@ -534,7 +534,7 @@ Jefferson,Central District-Supreme Court District 1(Central) Position 3,,,Byron 
 Jefferson,Central District-Supreme Court District 1(Central) Position 3,,,Ceola James,793
 Jefferson,Central District-Supreme Court District 1(Central) Position 3,,,Jenifer B. Branning,582
 Jefferson,Central District-Supreme Court District 1(Central) Position 3,,,Jim Kitchens,1337
-Jefferson,Court Of Appeals 02-District 2  Position 2,,,Latrice Westbrooks,2850
+Jefferson,Court Of Appeals 02-District 2 Position 2,,,Latrice Westbrooks,2850
 Jefferson,President,,CON,Randall Terry for President and Stephen E. Broden for Vice President,3
 Jefferson,President,,DEM,Kamala D. Harris for President and Tim Walz for Vice President,2727
 Jefferson,President,,GRN,Jill Stein for President and Rudolph Ware for Vice President,3
@@ -548,7 +548,7 @@ Jefferson,U.S. House,2,DEM,Bennie G. Thompson,2864
 Jefferson,U.S. House,2,REP,Ron Eller,494
 Jefferson,U.S. Senate,,DEM,Ty Pinkins,2634
 Jefferson,U.S. Senate,,REP,Roger F. Wicker,693
-Jones,Court Of Appeals 03-District 3  Position 1,,,Jack Wilson,8911
+Jones,Court Of Appeals 03-District 3 Position 1,,,Jack Wilson,8911
 Jones,President,,CON,Randall Terry for President and Stephen E. Broden for Vice President,19
 Jones,President,,DEM,Kamala D. Harris for President and Tim Walz for Vice President,7272
 Jones,President,,GRN,Jill Stein for President and Rudolph Ware for Vice President,22
@@ -570,7 +570,7 @@ Kemper,Central District-Supreme Court District 1(Central) Position 3,,,Byron Car
 Kemper,Central District-Supreme Court District 1(Central) Position 3,,,Ceola James,267
 Kemper,Central District-Supreme Court District 1(Central) Position 3,,,Jenifer B. Branning,1941
 Kemper,Central District-Supreme Court District 1(Central) Position 3,,,Jim Kitchens,1086
-Kemper,Court Of Appeals 03-District 3  Position 1,,,Jack Wilson,3105
+Kemper,Court Of Appeals 03-District 3 Position 1,,,Jack Wilson,3105
 Kemper,President,,CON,Randall Terry for President and Stephen E. Broden for Vice President,1
 Kemper,President,,DEM,Kamala D. Harris for President and Tim Walz for Vice President,2381
 Kemper,President,,GRN,Jill Stein for President and Rudolph Ware for Vice President,1
@@ -598,9 +598,9 @@ Lafayette,U.S. House,1,DEM,Dianne Dodson Black,8435
 Lafayette,U.S. House,1,REP,Trent Kelly,14785
 Lafayette,U.S. Senate,,DEM,Ty Pinkins,8447
 Lafayette,U.S. Senate,,REP,Roger F. Wicker,14761
-Lamar,Court Of Appeals 05-District 5  Position 2,,,Amy Lassitter St. Pe',8348
-Lamar,Court Of Appeals 05-District 5  Position 2,,,Ian Baker,10612
-Lamar,Court Of Appeals 05-District 5  Position 2,,,Jennifer T. Schloegel,6613
+Lamar,Court Of Appeals 05-District 5 Position 2,,,Amy Lassitter St. Pe',8348
+Lamar,Court Of Appeals 05-District 5 Position 2,,,Ian Baker,10612
+Lamar,Court Of Appeals 05-District 5 Position 2,,,Jennifer T. Schloegel,6613
 Lamar,President,,CON,Randall Terry for President and Stephen E. Broden for Vice President,33
 Lamar,President,,DEM,Kamala D. Harris for President and Tim Walz for Vice President,7038
 Lamar,President,,GRN,Jill Stein for President and Rudolph Ware for Vice President,42
@@ -621,7 +621,7 @@ Lauderdale,Central District-Supreme Court District 1(Central) Position 3,,,Byron
 Lauderdale,Central District-Supreme Court District 1(Central) Position 3,,,Ceola James,1945
 Lauderdale,Central District-Supreme Court District 1(Central) Position 3,,,Jenifer B. Branning,14702
 Lauderdale,Central District-Supreme Court District 1(Central) Position 3,,,Jim Kitchens,5006
-Lauderdale,Court Of Appeals 03-District 3  Position 1,,,Jack Wilson,21841
+Lauderdale,Court Of Appeals 03-District 3 Position 1,,,Jack Wilson,21841
 Lauderdale,President,,CON,Randall Terry for President and Stephen E. Broden for Vice President,18
 Lauderdale,President,,DEM,Kamala D. Harris for President and Tim Walz for Vice President,10677
 Lauderdale,President,,GRN,Jill Stein for President and Rudolph Ware for Vice President,26
@@ -653,8 +653,8 @@ Leake,Central District-Supreme Court District 1(Central) Position 3,,,Byron Cart
 Leake,Central District-Supreme Court District 1(Central) Position 3,,,Ceola James,360
 Leake,Central District-Supreme Court District 1(Central) Position 3,,,Jenifer B. Branning,4936
 Leake,Central District-Supreme Court District 1(Central) Position 3,,,Jim Kitchens,2179
-Leake,Court Of Appeals 02-District 2  Position 2,,,Latrice Westbrooks,1689
-Leake,Court Of Appeals 03-District 3  Position 1,,,Jack Wilson,5345
+Leake,Court Of Appeals 02-District 2 Position 2,,,Latrice Westbrooks,1689
+Leake,Court Of Appeals 03-District 3 Position 1,,,Jack Wilson,5345
 Leake,President,,CON,Randall Terry for President and Stephen E. Broden for Vice President,4
 Leake,President,,DEM,Kamala D. Harris for President and Tim Walz for Vice President,3182
 Leake,President,,GRN,Jill Stein for President and Rudolph Ware for Vice President,7
@@ -683,7 +683,7 @@ Lee,U.S. House,1,DEM,Dianne Dodson Black,9801
 Lee,U.S. House,1,REP,Trent Kelly,25193
 Lee,U.S. Senate,,DEM,Ty Pinkins,10352
 Lee,U.S. Senate,,REP,Roger F. Wicker,24415
-Leflore,Court Of Appeals 02-District 2  Position 2,,,Latrice Westbrooks,7176
+Leflore,Court Of Appeals 02-District 2 Position 2,,,Latrice Westbrooks,7176
 Leflore,Northern District-Supreme Court District 3(Northern) Position 1,,,Robert P. 'Bobby' Chamberlin,6957
 Leflore,Northern District-Supreme Court District 3(Northern) Position 2,,,Jimmy Maxwell,6872
 Leflore,President,,CON,Randall Terry for President and Stephen E. Broden for Vice President,9
@@ -713,7 +713,7 @@ Lincoln,Southern District-Supreme Court District 2(Southern) Position 2,,,Dawn H
 Lincoln,U.S. House,3,REP,Michael Guest,13732
 Lincoln,U.S. Senate,,DEM,Ty Pinkins,4080
 Lincoln,U.S. Senate,,REP,Roger F. Wicker,11599
-Lowndes,Court Of Appeals 03-District 3  Position 1,,,Jack Wilson,19031
+Lowndes,Court Of Appeals 03-District 3 Position 1,,,Jack Wilson,19031
 Lowndes,Northern District-Supreme Court District 3(Northern) Position 1,,,Robert P. 'Bobby' Chamberlin,19203
 Lowndes,Northern District-Supreme Court District 3(Northern) Position 2,,,Jimmy Maxwell,19107
 Lowndes,President,,CON,Randall Terry for President and Stephen E. Broden for Vice President,13
@@ -734,8 +734,8 @@ Madison,Central District-Supreme Court District 1(Central) Position 3,,,Byron Ca
 Madison,Central District-Supreme Court District 1(Central) Position 3,,,Ceola James,3606
 Madison,Central District-Supreme Court District 1(Central) Position 3,,,Jenifer B. Branning,24753
 Madison,Central District-Supreme Court District 1(Central) Position 3,,,Jim Kitchens,18715
-Madison,Court Of Appeals 02-District 2  Position 2,,,Latrice Westbrooks,19990
-Madison,Court Of Appeals 03-District 3  Position 1,,,Jack Wilson,25432
+Madison,Court Of Appeals 02-District 2 Position 2,,,Latrice Westbrooks,19990
+Madison,Court Of Appeals 03-District 3 Position 1,,,Jack Wilson,25432
 Madison,President,,CON,Randall Terry for President and Stephen E. Broden for Vice President,33
 Madison,President,,DEM,Kamala D. Harris for President and Tim Walz for Vice President,22700
 Madison,President,,GRN,Jill Stein for President and Rudolph Ware for Vice President,109
@@ -794,7 +794,7 @@ Monroe,U.S. House,1,DEM,Dianne Dodson Black,4884
 Monroe,U.S. House,1,REP,Trent Kelly,11059
 Monroe,U.S. Senate,,DEM,Ty Pinkins,5025
 Monroe,U.S. Senate,,REP,Roger F. Wicker,10920
-Montgomery,Court Of Appeals 02-District 2  Position 2,,,Latrice Westbrooks,2442
+Montgomery,Court Of Appeals 02-District 2 Position 2,,,Latrice Westbrooks,2442
 Montgomery,Northern District-Supreme Court District 3(Northern) Position 1,,,Robert P. 'Bobby' Chamberlin,3456
 Montgomery,Northern District-Supreme Court District 3(Northern) Position 2,,,Jimmy Maxwell,3442
 Montgomery,President,,CON,Randall Terry for President and Stephen E. Broden for Vice President,5
@@ -815,7 +815,7 @@ Neshoba,Central District-Supreme Court District 1(Central) Position 3,,,Byron Ca
 Neshoba,Central District-Supreme Court District 1(Central) Position 3,,,Ceola James,260
 Neshoba,Central District-Supreme Court District 1(Central) Position 3,,,Jenifer B. Branning,8501
 Neshoba,Central District-Supreme Court District 1(Central) Position 3,,,Jim Kitchens,1098
-Neshoba,Court Of Appeals 03-District 3  Position 1,,,Jack Wilson,9750
+Neshoba,Court Of Appeals 03-District 3 Position 1,,,Jack Wilson,9750
 Neshoba,President,,CON,Randall Terry for President and Stephen E. Broden for Vice President,8
 Neshoba,President,,DEM,Kamala D. Harris for President and Tim Walz for Vice President,2622
 Neshoba,President,,GRN,Jill Stein for President and Rudolph Ware for Vice President,9
@@ -833,7 +833,7 @@ Newton,Central District-Supreme Court District 1(Central) Position 3,,,Byron Car
 Newton,Central District-Supreme Court District 1(Central) Position 3,,,Ceola James,416
 Newton,Central District-Supreme Court District 1(Central) Position 3,,,Jenifer B. Branning,5467
 Newton,Central District-Supreme Court District 1(Central) Position 3,,,Jim Kitchens,1870
-Newton,Court Of Appeals 03-District 3  Position 1,,,Jack Wilson,8135
+Newton,Court Of Appeals 03-District 3 Position 1,,,Jack Wilson,8135
 Newton,President,,CON,Randall Terry for President and Stephen E. Broden for Vice President,10
 Newton,President,,DEM,Kamala D. Harris for President and Tim Walz for Vice President,2603
 Newton,President,,GRN,Jill Stein for President and Rudolph Ware for Vice President,10
@@ -851,7 +851,7 @@ Noxubee,Central District-Supreme Court District 1(Central) Position 3,,,Byron Ca
 Noxubee,Central District-Supreme Court District 1(Central) Position 3,,,Ceola James,392
 Noxubee,Central District-Supreme Court District 1(Central) Position 3,,,Jenifer B. Branning,879
 Noxubee,Central District-Supreme Court District 1(Central) Position 3,,,Jim Kitchens,2059
-Noxubee,Court Of Appeals 03-District 3  Position 1,,,Jack Wilson,2208
+Noxubee,Court Of Appeals 03-District 3 Position 1,,,Jack Wilson,2208
 Noxubee,President,,CON,Randall Terry for President and Stephen E. Broden for Vice President,5
 Noxubee,President,,DEM,Kamala D. Harris for President and Tim Walz for Vice President,3269
 Noxubee,President,,GRN,Jill Stein for President and Rudolph Ware for Vice President,2
@@ -864,7 +864,7 @@ Noxubee,President,,REP,Donald J. Trump for President and JD Vance for Vice Presi
 Noxubee,U.S. House,3,REP,Michael Guest,2113
 Noxubee,U.S. Senate,,DEM,Ty Pinkins,2975
 Noxubee,U.S. Senate,,REP,Roger F. Wicker,1312
-Oktibbeha,Court Of Appeals 03-District 3  Position 1,,,Jack Wilson,13941
+Oktibbeha,Court Of Appeals 03-District 3 Position 1,,,Jack Wilson,13941
 Oktibbeha,Northern District-Supreme Court District 3(Northern) Position 1,,,Robert P. 'Bobby' Chamberlin,13861
 Oktibbeha,Northern District-Supreme Court District 3(Northern) Position 2,,,Jimmy Maxwell,14001
 Oktibbeha,President,,CON,Randall Terry for President and Stephen E. Broden for Vice President,17
@@ -881,7 +881,7 @@ Oktibbeha,U.S. House,1,REP,Trent Kelly,1073
 Oktibbeha,U.S. House,3,REP,Michael Guest,12415
 Oktibbeha,U.S. Senate,,DEM,Ty Pinkins,8325
 Oktibbeha,U.S. Senate,,REP,Roger F. Wicker,9498
-Panola,Court Of Appeals 02-District 2  Position 2,,,Latrice Westbrooks,3572
+Panola,Court Of Appeals 02-District 2 Position 2,,,Latrice Westbrooks,3572
 Panola,Northern District-Supreme Court District 3(Northern) Position 1,,,Robert P. 'Bobby' Chamberlin,11760
 Panola,Northern District-Supreme Court District 3(Northern) Position 2,,,Jimmy Maxwell,11788
 Panola,President,,CON,Randall Terry for President and Stephen E. Broden for Vice President,14
@@ -897,9 +897,9 @@ Panola,U.S. House,2,DEM,Bennie G. Thompson,6611
 Panola,U.S. House,2,REP,Ron Eller,7824
 Panola,U.S. Senate,,DEM,Ty Pinkins,5978
 Panola,U.S. Senate,,REP,Roger F. Wicker,8374
-Pearl River,Court Of Appeals 05-District 5  Position 2,,,Amy Lassitter St. Pe',4846
-Pearl River,Court Of Appeals 05-District 5  Position 2,,,Ian Baker,9372
-Pearl River,Court Of Appeals 05-District 5  Position 2,,,Jennifer T. Schloegel,6753
+Pearl River,Court Of Appeals 05-District 5 Position 2,,,Amy Lassitter St. Pe',4846
+Pearl River,Court Of Appeals 05-District 5 Position 2,,,Ian Baker,9372
+Pearl River,Court Of Appeals 05-District 5 Position 2,,,Jennifer T. Schloegel,6753
 Pearl River,President,,CON,Randall Terry for President and Stephen E. Broden for Vice President,18
 Pearl River,President,,DEM,Kamala D. Harris for President and Tim Walz for Vice President,3982
 Pearl River,President,,GRN,Jill Stein for President and Rudolph Ware for Vice President,34
@@ -915,9 +915,9 @@ Pearl River,U.S. House,4,DEM,Craig Elliot Raybon,3781
 Pearl River,U.S. House,4,REP,Mike Ezell,20469
 Pearl River,U.S. Senate,,DEM,Ty Pinkins,4012
 Pearl River,U.S. Senate,,REP,Roger F. Wicker,20157
-Perry,Court Of Appeals 05-District 5  Position 2,,,Amy Lassitter St. Pe',2268
-Perry,Court Of Appeals 05-District 5  Position 2,,,Ian Baker,1820
-Perry,Court Of Appeals 05-District 5  Position 2,,,Jennifer T. Schloegel,960
+Perry,Court Of Appeals 05-District 5 Position 2,,,Amy Lassitter St. Pe',2268
+Perry,Court Of Appeals 05-District 5 Position 2,,,Ian Baker,1820
+Perry,Court Of Appeals 05-District 5 Position 2,,,Jennifer T. Schloegel,960
 Perry,President,,CON,Randall Terry for President and Stephen E. Broden for Vice President,4
 Perry,President,,DEM,Kamala D. Harris for President and Tim Walz for Vice President,1078
 Perry,President,,GRN,Jill Stein for President and Rudolph Ware for Vice President,8
@@ -977,7 +977,7 @@ Prentiss,U.S. House,1,DEM,Dianne Dodson Black,1572
 Prentiss,U.S. House,1,REP,Trent Kelly,8729
 Prentiss,U.S. Senate,,DEM,Ty Pinkins,1717
 Prentiss,U.S. Senate,,REP,Roger F. Wicker,8504
-Quitman,Court Of Appeals 02-District 2  Position 2,,,Latrice Westbrooks,1849
+Quitman,Court Of Appeals 02-District 2 Position 2,,,Latrice Westbrooks,1849
 Quitman,Northern District-Supreme Court District 3(Northern) Position 1,,,Robert P. 'Bobby' Chamberlin,1893
 Quitman,Northern District-Supreme Court District 3(Northern) Position 2,,,Jimmy Maxwell,1885
 Quitman,President,,CON,Randall Terry for President and Stephen E. Broden for Vice President,5
@@ -998,7 +998,7 @@ Rankin,Central District-Supreme Court District 1(Central) Position 3,,,Byron Car
 Rankin,Central District-Supreme Court District 1(Central) Position 3,,,Ceola James,3083
 Rankin,Central District-Supreme Court District 1(Central) Position 3,,,Jenifer B. Branning,35484
 Rankin,Central District-Supreme Court District 1(Central) Position 3,,,Jim Kitchens,20739
-Rankin,Court Of Appeals 03-District 3  Position 1,,,Jack Wilson,57950
+Rankin,Court Of Appeals 03-District 3 Position 1,,,Jack Wilson,57950
 Rankin,President,,CON,Randall Terry for President and Stephen E. Broden for Vice President,51
 Rankin,President,,DEM,Kamala D. Harris for President and Tim Walz for Vice President,18060
 Rankin,President,,GRN,Jill Stein for President and Rudolph Ware for Vice President,104
@@ -1016,7 +1016,7 @@ Scott,Central District-Supreme Court District 1(Central) Position 3,,,Byron Cart
 Scott,Central District-Supreme Court District 1(Central) Position 3,,,Ceola James,364
 Scott,Central District-Supreme Court District 1(Central) Position 3,,,Jenifer B. Branning,4775
 Scott,Central District-Supreme Court District 1(Central) Position 3,,,Jim Kitchens,3148
-Scott,Court Of Appeals 03-District 3  Position 1,,,Jack Wilson,8246
+Scott,Court Of Appeals 03-District 3 Position 1,,,Jack Wilson,8246
 Scott,President,,CON,Randall Terry for President and Stephen E. Broden for Vice President,3
 Scott,President,,DEM,Kamala D. Harris for President and Tim Walz for Vice President,3729
 Scott,President,,GRN,Jill Stein for President and Rudolph Ware for Vice President,6
@@ -1034,7 +1034,7 @@ Sharkey,Central District-Supreme Court District 1(Central) Position 3,,,Byron Ca
 Sharkey,Central District-Supreme Court District 1(Central) Position 3,,,Ceola James,410
 Sharkey,Central District-Supreme Court District 1(Central) Position 3,,,Jenifer B. Branning,456
 Sharkey,Central District-Supreme Court District 1(Central) Position 3,,,Jim Kitchens,611
-Sharkey,Court Of Appeals 02-District 2  Position 2,,,Latrice Westbrooks,1334
+Sharkey,Court Of Appeals 02-District 2 Position 2,,,Latrice Westbrooks,1334
 Sharkey,President,,CON,Randall Terry for President and Stephen E. Broden for Vice President,0
 Sharkey,President,,DEM,Kamala D. Harris for President and Tim Walz for Vice President,1201
 Sharkey,President,,GRN,Jill Stein for President and Rudolph Ware for Vice President,4
@@ -1062,7 +1062,7 @@ Simpson,Southern District-Supreme Court District 2(Southern) Position 2,,,Dawn H
 Simpson,U.S. House,3,REP,Michael Guest,9176
 Simpson,U.S. Senate,,DEM,Ty Pinkins,3389
 Simpson,U.S. Senate,,REP,Roger F. Wicker,7556
-Smith,Court Of Appeals 03-District 3  Position 1,,,Jack Wilson,6735
+Smith,Court Of Appeals 03-District 3 Position 1,,,Jack Wilson,6735
 Smith,President,,CON,Randall Terry for President and Stephen E. Broden for Vice President,8
 Smith,President,,DEM,Kamala D. Harris for President and Tim Walz for Vice President,1486
 Smith,President,,GRN,Jill Stein for President and Rudolph Ware for Vice President,3
@@ -1077,9 +1077,9 @@ Smith,Southern District-Supreme Court District 2(Southern) Position 2,,,Dawn H. 
 Smith,U.S. House,3,REP,Michael Guest,6940
 Smith,U.S. Senate,,DEM,Ty Pinkins,1458
 Smith,U.S. Senate,,REP,Roger F. Wicker,6158
-Stone,Court Of Appeals 05-District 5  Position 2,,,Amy Lassitter St. Pe',1615
-Stone,Court Of Appeals 05-District 5  Position 2,,,Ian Baker,2908
-Stone,Court Of Appeals 05-District 5  Position 2,,,Jennifer T. Schloegel,2529
+Stone,Court Of Appeals 05-District 5 Position 2,,,Amy Lassitter St. Pe',1615
+Stone,Court Of Appeals 05-District 5 Position 2,,,Ian Baker,2908
+Stone,Court Of Appeals 05-District 5 Position 2,,,Jennifer T. Schloegel,2529
 Stone,President,,CON,Randall Terry for President and Stephen E. Broden for Vice President,16
 Stone,President,,DEM,Kamala D. Harris for President and Tim Walz for Vice President,1620
 Stone,President,,GRN,Jill Stein for President and Rudolph Ware for Vice President,4
@@ -1100,7 +1100,7 @@ Sunflower,Central District-Supreme Court District 1(Central) Position 3,,,Byron 
 Sunflower,Central District-Supreme Court District 1(Central) Position 3,,,Ceola James,2300
 Sunflower,Central District-Supreme Court District 1(Central) Position 3,,,Jenifer B. Branning,1535
 Sunflower,Central District-Supreme Court District 1(Central) Position 3,,,Jim Kitchens,2525
-Sunflower,Court Of Appeals 02-District 2  Position 2,,,Latrice Westbrooks,6894
+Sunflower,Court Of Appeals 02-District 2 Position 2,,,Latrice Westbrooks,6894
 Sunflower,President,,CON,Randall Terry for President and Stephen E. Broden for Vice President,4
 Sunflower,President,,DEM,Kamala D. Harris for President and Tim Walz for Vice President,5312
 Sunflower,President,,GRN,Jill Stein for President and Rudolph Ware for Vice President,4
@@ -1114,7 +1114,7 @@ Sunflower,U.S. House,2,DEM,Bennie G. Thompson,5543
 Sunflower,U.S. House,2,REP,Ron Eller,2296
 Sunflower,U.S. Senate,,DEM,Ty Pinkins,4659
 Sunflower,U.S. Senate,,REP,Roger F. Wicker,3074
-Tallahatchie,Court Of Appeals 02-District 2  Position 2,,,Latrice Westbrooks,1227
+Tallahatchie,Court Of Appeals 02-District 2 Position 2,,,Latrice Westbrooks,1227
 Tallahatchie,Northern District-Supreme Court District 3(Northern) Position 1,,,Robert P. 'Bobby' Chamberlin,3732
 Tallahatchie,Northern District-Supreme Court District 3(Northern) Position 2,,,Jimmy Maxwell,3699
 Tallahatchie,President,,CON,Randall Terry for President and Stephen E. Broden for Vice President,8
@@ -1175,7 +1175,7 @@ Tishomingo,U.S. House,1,DEM,Dianne Dodson Black,903
 Tishomingo,U.S. House,1,REP,Trent Kelly,8007
 Tishomingo,U.S. Senate,,DEM,Ty Pinkins,1038
 Tishomingo,U.S. Senate,,REP,Roger F. Wicker,7824
-Tunica,Court Of Appeals 02-District 2  Position 2,,,Latrice Westbrooks,1986
+Tunica,Court Of Appeals 02-District 2 Position 2,,,Latrice Westbrooks,1986
 Tunica,Northern District-Supreme Court District 3(Northern) Position 1,,,Robert P. 'Bobby' Chamberlin,2002
 Tunica,Northern District-Supreme Court District 3(Northern) Position 2,,,Jimmy Maxwell,2019
 Tunica,President,,CON,Randall Terry for President and Stephen E. Broden for Vice President,2
@@ -1225,7 +1225,7 @@ Warren,Central District-Supreme Court District 1(Central) Position 3,,,Byron Car
 Warren,Central District-Supreme Court District 1(Central) Position 3,,,Ceola James,5182
 Warren,Central District-Supreme Court District 1(Central) Position 3,,,Jenifer B. Branning,6752
 Warren,Central District-Supreme Court District 1(Central) Position 3,,,Jim Kitchens,4390
-Warren,Court Of Appeals 02-District 2  Position 2,,,Latrice Westbrooks,14608
+Warren,Court Of Appeals 02-District 2 Position 2,,,Latrice Westbrooks,14608
 Warren,President,,CON,Randall Terry for President and Stephen E. Broden for Vice President,19
 Warren,President,,DEM,Kamala D. Harris for President and Tim Walz for Vice President,8683
 Warren,President,,GRN,Jill Stein for President and Rudolph Ware for Vice President,33
@@ -1244,7 +1244,7 @@ Washington,Central District-Supreme Court District 1(Central) Position 3,,,Byron
 Washington,Central District-Supreme Court District 1(Central) Position 3,,,Ceola James,4320
 Washington,Central District-Supreme Court District 1(Central) Position 3,,,Jenifer B. Branning,3432
 Washington,Central District-Supreme Court District 1(Central) Position 3,,,Jim Kitchens,4043
-Washington,Court Of Appeals 02-District 2  Position 2,,,Latrice Westbrooks,11356
+Washington,Court Of Appeals 02-District 2 Position 2,,,Latrice Westbrooks,11356
 Washington,President,,CON,Randall Terry for President and Stephen E. Broden for Vice President,16
 Washington,President,,DEM,Kamala D. Harris for President and Tim Walz for Vice President,9735
 Washington,President,,GRN,Jill Stein for President and Rudolph Ware for Vice President,15
@@ -1258,10 +1258,10 @@ Washington,U.S. House,2,DEM,Bennie G. Thompson,10036
 Washington,U.S. House,2,REP,Ron Eller,4432
 Washington,U.S. Senate,,DEM,Ty Pinkins,9406
 Washington,U.S. Senate,,REP,Roger F. Wicker,4926
-Wayne,Court Of Appeals 03-District 3  Position 1,,,Jack Wilson,1285
-Wayne,Court Of Appeals 05-District 5  Position 2,,,Amy Lassitter St. Pe',2864
-Wayne,Court Of Appeals 05-District 5  Position 2,,,Ian Baker,2537
-Wayne,Court Of Appeals 05-District 5  Position 2,,,Jennifer T. Schloegel,1732
+Wayne,Court Of Appeals 03-District 3 Position 1,,,Jack Wilson,1285
+Wayne,Court Of Appeals 05-District 5 Position 2,,,Amy Lassitter St. Pe',2864
+Wayne,Court Of Appeals 05-District 5 Position 2,,,Ian Baker,2537
+Wayne,Court Of Appeals 05-District 5 Position 2,,,Jennifer T. Schloegel,1732
 Wayne,President,,CON,Randall Terry for President and Stephen E. Broden for Vice President,8
 Wayne,President,,DEM,Kamala D. Harris for President and Tim Walz for Vice President,3028
 Wayne,President,,GRN,Jill Stein for President and Rudolph Ware for Vice President,6
@@ -1307,7 +1307,7 @@ Wilkinson,U.S. House,2,DEM,Bennie G. Thompson,1873
 Wilkinson,U.S. House,2,REP,Ron Eller,1032
 Wilkinson,U.S. Senate,,DEM,Ty Pinkins,1710
 Wilkinson,U.S. Senate,,REP,Roger F. Wicker,1136
-Winston,Court Of Appeals 03-District 3  Position 1,,,Jack Wilson,6948
+Winston,Court Of Appeals 03-District 3 Position 1,,,Jack Wilson,6948
 Winston,Northern District-Supreme Court District 3(Northern) Position 1,,,Robert P. 'Bobby' Chamberlin,6991
 Winston,Northern District-Supreme Court District 3(Northern) Position 2,,,Jimmy Maxwell,6955
 Winston,President,,CON,Randall Terry for President and Stephen E. Broden for Vice President,8
@@ -1342,7 +1342,7 @@ Yazoo,Central District-Supreme Court District 1(Central) Position 3,,,Byron Cart
 Yazoo,Central District-Supreme Court District 1(Central) Position 3,,,Ceola James,680
 Yazoo,Central District-Supreme Court District 1(Central) Position 3,,,Jenifer B. Branning,3652
 Yazoo,Central District-Supreme Court District 1(Central) Position 3,,,Jim Kitchens,2858
-Yazoo,Court Of Appeals 02-District 2  Position 2,,,Latrice Westbrooks,7005
+Yazoo,Court Of Appeals 02-District 2 Position 2,,,Latrice Westbrooks,7005
 Yazoo,President,,CON,Randall Terry for President and Stephen E. Broden for Vice President,11
 Yazoo,President,,DEM,Kamala D. Harris for President and Tim Walz for Vice President,4342
 Yazoo,President,,GRN,Jill Stein for President and Rudolph Ware for Vice President,6
