@@ -1,8 +1,4 @@
 county,precinct,office,district,candidate,party,votes
-Kemper,Courthouse,U.S. House,3,Michael A. Chiaradio,DEM,56
-Kemper,Courthouse,U.S. Senate,,Albert R. Littell,DEM,4
-Kemper,Courthouse,U.S. Senate,,Priscilla W. Till,DEM,10
-Kemper,Courthouse,U.S. Senate,,Scott Colom,DEM,60
 Kemper,Damascus,U.S. House,3,Michael A. Chiaradio,DEM,21
 Kemper,Damascus,U.S. House,3,Michael Guest,REP,40
 Kemper,Damascus,U.S. Senate,,Albert R. Littell,DEM,2
@@ -52,13 +48,13 @@ Kemper,Little Rock Comm Ctr,U.S. Senate,,Priscilla W. Till,DEM,14
 Kemper,Little Rock Comm Ctr,U.S. Senate,,Scott Colom,DEM,60
 Kemper,Little Rock Comm Ctr,U.S. Senate,,Cindy Hyde-Smith,REP,35
 Kemper,Little Rock Comm Ctr,U.S. Senate,,Sarah Adlakha,REP,4
+Kemper,Lynnville,U.S. House,3,Michael Guest,REP,45
+Kemper,Lynnville,U.S. Senate,,Cindy Hyde-Smith,REP,33
+Kemper,Lynnville,U.S. Senate,,Sarah Adlakha,REP,13
 Kemper,Lynville,U.S. House,3,Michael A. Chiaradio,DEM,14
-Kemper,Lynville,U.S. House,3,Michael Guest,REP,45
 Kemper,Lynville,U.S. Senate,,Albert R. Littell,DEM,0
 Kemper,Lynville,U.S. Senate,,Priscilla W. Till,DEM,3
 Kemper,Lynville,U.S. Senate,,Scott Colom,DEM,13
-Kemper,Lynville,U.S. Senate,,Cindy Hyde-Smith,REP,33
-Kemper,Lynville,U.S. Senate,,Sarah Adlakha,REP,13
 Kemper,Mount Nebo,U.S. House,3,Michael A. Chiaradio,DEM,26
 Kemper,Mount Nebo,U.S. House,3,Michael Guest,REP,13
 Kemper,Mount Nebo,U.S. Senate,,Albert R. Littell,DEM,5
@@ -94,6 +90,3 @@ Kemper,Scooba M-Z,U.S. Senate,,Priscilla W. Till,DEM,2
 Kemper,Scooba M-Z,U.S. Senate,,Scott Colom,DEM,33
 Kemper,Scooba M-Z,U.S. Senate,,Cindy Hyde-Smith,REP,20
 Kemper,Scooba M-Z,U.S. Senate,,Sarah Adlakha,REP,1
-Kemper,U.S. House,U.S. House,3,Michael Guest,REP,19
-Kemper,U.S. Senate,U.S. Senate,,Cindy Hyde-Smith,REP,17
-Kemper,U.S. Senate,U.S. Senate,,Sarah Adlakha,REP,5
