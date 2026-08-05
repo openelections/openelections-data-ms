@@ -41,8 +41,6 @@ Phil Bryant,Governor,,R,Attala,Williamsville,54
 Mitch Young,Governor,,R,Attala,Williamsville,1
 Phil Bryant,Governor,,R,Attala,Zama,18
 Mitch Young,Governor,,R,Attala,Zama,0
-Phil Bryant,Governor,,R,Attala,TOTAL,393
-Mitch Young,Governor,,R,Attala,TOTAL,11
 Alisha Nelson McElhenney,Lieutenant Governor,,R,Attala,Aponaug,0
 Tate Reeves,Lieutenant Governor,,R,Attala,Aponaug,8
 Alisha Nelson McElhenney,Lieutenant Governor,,R,Attala,Berea,0
@@ -85,8 +83,6 @@ Alisha Nelson McElhenney,Lieutenant Governor,,R,Attala,Williamsville,5
 Tate Reeves,Lieutenant Governor,,R,Attala,Williamsville,51
 Alisha Nelson McElhenney,Lieutenant Governor,,R,Attala,Zama,1
 Tate Reeves,Lieutenant Governor,,R,Attala,Zama,6
-Alisha Nelson McElhenney,Lieutenant Governor,,R,Attala,TOTAL,43
-Tate Reeves,Lieutenant Governor,,R,Attala,TOTAL,352
 Delbert Hosemann,Secretary of State,,R,Attala,Aponaug,8
 Delbert Hosemann,Secretary of State,,R,Attala,Berea,5
 Delbert Hosemann,Secretary of State,,R,Attala,Carmack,8
@@ -108,7 +104,6 @@ Delbert Hosemann,Secretary of State,,R,Attala,South West,11
 Delbert Hosemann,Secretary of State,,R,Attala,Thompson,6
 Delbert Hosemann,Secretary of State,,R,Attala,Williamsville,53
 Delbert Hosemann,Secretary of State,,R,Attala,Zama,17
-Delbert Hosemann,Secretary of State,,R,Attala,TOTAL,385
 Mike Hurst,Attorney General,,R,Attala,Aponaug,7
 Mike Hurst,Attorney General,,R,Attala,Berea,4
 Mike Hurst,Attorney General,,R,Attala,Carmack,8
@@ -130,7 +125,6 @@ Mike Hurst,Attorney General,,R,Attala,South West,10
 Mike Hurst,Attorney General,,R,Attala,Thompson,6
 Mike Hurst,Attorney General,,R,Attala,Williamsville,50
 Mike Hurst,Attorney General,,R,Attala,Zama,16
-Mike Hurst,Attorney General,,R,Attala,TOTAL,367
 Mary Hawkins Butler,State Auditor,,R,Attala,Aponaug,1
 Stacey E. Pickering,State Auditor,,R,Attala,Aponaug,7
 Mary Hawkins Butler,State Auditor,,R,Attala,Berea,1
@@ -173,8 +167,6 @@ Mary Hawkins Butler,State Auditor,,R,Attala,Williamsville,16
 Stacey E. Pickering,State Auditor,,R,Attala,Williamsville,38
 Mary Hawkins Butler,State Auditor,,R,Attala,Zama,4
 Stacey E. Pickering,State Auditor,,R,Attala,Zama,14
-Mary Hawkins Butler,State Auditor,,R,Attala,TOTAL,120
-Stacey E. Pickering,State Auditor,,R,Attala,TOTAL,278
 Lynn Fitch,State Treasurer,,R,Attala,Aponaug,4
 David McRae,State Treasurer,,R,Attala,Aponaug,4
 Lynn Fitch,State Treasurer,,R,Attala,Berea,5
@@ -217,8 +209,6 @@ Lynn Fitch,State Treasurer,,R,Attala,Williamsville,34
 David McRae,State Treasurer,,R,Attala,Williamsville,18
 Lynn Fitch,State Treasurer,,R,Attala,Zama,8
 David McRae,State Treasurer,,R,Attala,Zama,10
-Lynn Fitch,State Treasurer,,R,Attala,TOTAL,233
-David McRae,State Treasurer,,R,Attala,TOTAL,161
 Cindy Hyde-Smith,Commissioner of Agriculture & Commerce,,R,Attala,Aponaug,3
 Cindy Hyde-Smith,Commissioner of Agriculture & Commerce,,R,Attala,Berea,5
 Cindy Hyde-Smith,Commissioner of Agriculture & Commerce,,R,Attala,Carmack,8
@@ -240,7 +230,6 @@ Cindy Hyde-Smith,Commissioner of Agriculture & Commerce,,R,Attala,South West,10
 Cindy Hyde-Smith,Commissioner of Agriculture & Commerce,,R,Attala,Thompson,6
 Cindy Hyde-Smith,Commissioner of Agriculture & Commerce,,R,Attala,Williamsville,52
 Cindy Hyde-Smith,Commissioner of Agriculture & Commerce,,R,Attala,Zama,17
-Cindy Hyde-Smith,Commissioner of Agriculture & Commerce,,R,Attala,TOTAL,377
 Mike Chaney,Commissioner of Insurance,,R,Attala,Aponaug,7
 Mike Chaney,Commissioner of Insurance,,R,Attala,Berea,5
 Mike Chaney,Commissioner of Insurance,,R,Attala,Carmack,5
@@ -262,7 +251,6 @@ Mike Chaney,Commissioner of Insurance,,R,Attala,South West,9
 Mike Chaney,Commissioner of Insurance,,R,Attala,Thompson,6
 Mike Chaney,Commissioner of Insurance,,R,Attala,Williamsville,44
 Mike Chaney,Commissioner of Insurance,,R,Attala,Zama,16
-Mike Chaney,Commissioner of Insurance,,R,Attala,TOTAL,305
 Lydia Graves Chassaniol,State Senate,14,R,Attala,Berea,5
 Lydia Graves Chassaniol,State Senate,14,R,Attala,Carmack,7
 Lydia Graves Chassaniol,State Senate,14,R,Attala,Ethel,3
@@ -273,22 +261,18 @@ Lydia Graves Chassaniol,State Senate,14,R,Attala,Providence,20
 Lydia Graves Chassaniol,State Senate,14,R,Attala,Thompson,6
 Lydia Graves Chassaniol,State Senate,14,R,Attala,Williamsville,49
 Lydia Graves Chassaniol,State Senate,14,R,Attala,Zama,16
-Lydia Graves Chassaniol,State Senate,14,R,Attala,TOTAL,128
 Ricky Dewayne Gill,State House,27,R,Attala,Aponaug,1
 Ricky Dewayne Gill,State House,27,R,Attala,Newport,17
 Ricky Dewayne Gill,State House,27,R,Attala,North East,19
 Ricky Dewayne Gill,State House,27,R,Attala,North West,6
 Ricky Dewayne Gill,State House,27,R,Attala,South Central,10
 Ricky Dewayne Gill,State House,27,R,Attala,South West,8
-Ricky Dewayne Gill,State House,27,R,Attala,TOTAL,61
 Joey Hood,State House,35,R,Attala,Ethel,2
 Brian Sims,State House,35,R,Attala,Ethel,0
 Joey Hood,State House,35,R,Attala,Mccool,16
 Brian Sims,State House,35,R,Attala,Mccool,3
 Joey Hood,State House,35,R,Attala,Thompson,3
 Brian Sims,State House,35,R,Attala,Thompson,3
-Joey Hood,State House,35,R,Attala,TOTAL,21
-Brian Sims,State House,35,R,Attala,TOTAL,6
 Jason White,State House,48,R,Attala,Aponaug,6
 Jason White,State House,48,R,Attala,Berea,5
 Jason White,State House,48,R,Attala,Carmack,7
@@ -304,7 +288,6 @@ Jason White,State House,48,R,Attala,Providence,21
 Jason White,State House,48,R,Attala,South Central,24
 Jason White,State House,48,R,Attala,Williamsville,52
 Jason White,State House,48,R,Attala,Zama,17
-Jason White,State House,48,R,Attala,TOTAL,254
 Robert Gray,Governor,,D,Attala,Aponaug,50
 Valerie Adream Smartt Short,Governor,,D,Attala,Aponaug,14
 Vicki Slater,Governor,,D,Attala,Aponaug,29
@@ -368,9 +351,6 @@ Vicki Slater,Governor,,D,Attala,Williamsville,154
 Robert Gray,Governor,,D,Attala,Zama,65
 Valerie Adream Smartt Short,Governor,,D,Attala,Zama,24
 Vicki Slater,Governor,,D,Attala,Zama,39
-Robert Gray,Governor,,D,Attala,TOTAL,2171
-Valerie Adream Smartt Short,Governor,,D,Attala,TOTAL,501
-Vicki Slater,Governor,,D,Attala,TOTAL,1508
 Jelani Barr,Lieutenant Governor,,D,Attala,Aponaug,10
 Tim Johnson,Lieutenant Governor,,D,Attala,Aponaug,101
 Jelani Barr,Lieutenant Governor,,D,Attala,Berea,8
@@ -413,8 +393,6 @@ Jelani Barr,Lieutenant Governor,,D,Attala,Williamsville,56
 Tim Johnson,Lieutenant Governor,,D,Attala,Williamsville,548
 Jelani Barr,Lieutenant Governor,,D,Attala,Zama,27
 Tim Johnson,Lieutenant Governor,,D,Attala,Zama,117
-Jelani Barr,Lieutenant Governor,,D,Attala,TOTAL,539
-Tim Johnson,Lieutenant Governor,,D,Attala,TOTAL,4189
 Charles E. Graham,Secretary of State,,D,Attala,Aponaug,90
 Charles E. Graham,Secretary of State,,D,Attala,Berea,67
 Charles E. Graham,Secretary of State,,D,Attala,Carmack,104
@@ -436,7 +414,6 @@ Charles E. Graham,Secretary of State,,D,Attala,South West,156
 Charles E. Graham,Secretary of State,,D,Attala,Thompson,65
 Charles E. Graham,Secretary of State,,D,Attala,Williamsville,486
 Charles E. Graham,Secretary of State,,D,Attala,Zama,125
-Charles E. Graham,Secretary of State,,D,Attala,TOTAL,3844
 Jim Hood,Attorney General,,D,Attala,Aponaug,115
 Jim Hood,Attorney General,,D,Attala,Berea,78
 Jim Hood,Attorney General,,D,Attala,Carmack,138
@@ -458,7 +435,6 @@ Jim Hood,Attorney General,,D,Attala,South West,176
 Jim Hood,Attorney General,,D,Attala,Thompson,88
 Jim Hood,Attorney General,,D,Attala,Williamsville,593
 Jim Hood,Attorney General,,D,Attala,Zama,150
-Jim Hood,Attorney General,,D,Attala,TOTAL,4672
 Jocelyn Pepper Pritchett,State Auditor,,D,Attala,Aponaug,88
 Jocelyn Pepper Pritchett,State Auditor,,D,Attala,Berea,69
 Jocelyn Pepper Pritchett,State Auditor,,D,Attala,Carmack,108
@@ -480,7 +456,6 @@ Jocelyn Pepper Pritchett,State Auditor,,D,Attala,South West,150
 Jocelyn Pepper Pritchett,State Auditor,,D,Attala,Thompson,65
 Jocelyn Pepper Pritchett,State Auditor,,D,Attala,Williamsville,484
 Jocelyn Pepper Pritchett,State Auditor,,D,Attala,Zama,124
-Jocelyn Pepper Pritchett,State Auditor,,D,Attala,TOTAL,3875
 Addie Lee Green,Commissioner of Agriculture & Commerce,,D,Attala,Aponaug,85
 Addie Lee Green,Commissioner of Agriculture & Commerce,,D,Attala,Berea,68
 Addie Lee Green,Commissioner of Agriculture & Commerce,,D,Attala,Carmack,107
@@ -502,7 +477,6 @@ Addie Lee Green,Commissioner of Agriculture & Commerce,,D,Attala,South West,151
 Addie Lee Green,Commissioner of Agriculture & Commerce,,D,Attala,Thompson,62
 Addie Lee Green,Commissioner of Agriculture & Commerce,,D,Attala,Williamsville,480
 Addie Lee Green,Commissioner of Agriculture & Commerce,,D,Attala,Zama,123
-Addie Lee Green,Commissioner of Agriculture & Commerce,,D,Attala,TOTAL,3849
 Georgio Proctor,State Senate,14,D,Attala,Berea,68
 Georgio Proctor,State Senate,14,D,Attala,Carmack,106
 Georgio Proctor,State Senate,14,D,Attala,Ethel,132
@@ -513,7 +487,6 @@ Georgio Proctor,State Senate,14,D,Attala,Providence,122
 Georgio Proctor,State Senate,14,D,Attala,Thompson,60
 Georgio Proctor,State Senate,14,D,Attala,Williamsville,469
 Georgio Proctor,State Senate,14,D,Attala,Zama,118
-Georgio Proctor,State Senate,14,D,Attala,TOTAL,1405
 Barbara Blackmon,State Senate,21,D,Attala,Aponaug,47
 Kenneth Wayne Jones,State Senate,21,D,Attala,Aponaug,48
 Barbara Blackmon,State Senate,21,D,Attala,East,113
@@ -536,8 +509,6 @@ Barbara Blackmon,State Senate,21,D,Attala,South Central,204
 Kenneth Wayne Jones,State Senate,21,D,Attala,South Central,153
 Barbara Blackmon,State Senate,21,D,Attala,South West,119
 Kenneth Wayne Jones,State Senate,21,D,Attala,South West,67
-Barbara Blackmon,State Senate,21,D,Attala,TOTAL,1625
-Kenneth Wayne Jones,State Senate,21,D,Attala,TOTAL,1338
 Leroy Lacy,State House,27,D,Attala,Aponaug,6
 "Bulus E. Leflore, Jr.",State House,27,D,Attala,Aponaug,1
 Kenneth Walker,State House,27,D,Attala,Aponaug,5
@@ -556,16 +527,11 @@ Kenneth Walker,State House,27,D,Attala,South Central,63
 Leroy Lacy,State House,27,D,Attala,South West,62
 "Bulus E. Leflore, Jr.",State House,27,D,Attala,South West,40
 Kenneth Walker,State House,27,D,Attala,South West,73
-Leroy Lacy,State House,27,D,Attala,TOTAL,274
-"Bulus E. Leflore, Jr.",State House,27,D,Attala,TOTAL,264
-Kenneth Walker,State House,27,D,Attala,TOTAL,450
 Patrick Warner,State House,35,D,Attala,Ethel,24
 Patrick Warner,State House,35,D,Attala,Mccool,141
 Patrick Warner,State House,35,D,Attala,Thompson,65
-Patrick Warner,State House,35,D,Attala,TOTAL,230
 Bryant W. Clark,State House,47,D,Attala,Mcadams,123
 Bryant W. Clark,State House,47,D,Attala,Sallis,464
-Bryant W. Clark,State House,47,D,Attala,TOTAL,587
 Jill Butler,State House,48,D,Attala,Aponaug,77
 Jill Butler,State House,48,D,Attala,Berea,69
 Jill Butler,State House,48,D,Attala,Carmack,110
@@ -581,4 +547,3 @@ Jill Butler,State House,48,D,Attala,Providence,124
 Jill Butler,State House,48,D,Attala,South Central,181
 Jill Butler,State House,48,D,Attala,Williamsville,489
 Jill Butler,State House,48,D,Attala,Zama,123
-Jill Butler,State House,48,D,Attala,TOTAL,2265

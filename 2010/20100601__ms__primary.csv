@@ -23,7 +23,7 @@ Union,U.S. House,1,Republican,Angela McGlowan,244
 Webster,U.S. House,1,Republican,Angela McGlowan,73
 Winston,U.S. House,1,Republican,Angela McGlowan,0
 Yalobusha,U.S. House,1,Republican,Angela McGlowan,67
-,U.S. House,1,Republican,Angela McGlowan,"5,924"
+Total,U.S. House,1,Republican,Angela McGlowan,"5,924"
 Alcorn,U.S. House,1,Republican,Alan Nunnelee,724
 Benton,U.S. House,1,Republican,Alan Nunnelee,104
 Calhoun,U.S. House,1,Republican,Alan Nunnelee,357
@@ -48,7 +48,7 @@ Union,U.S. House,1,Republican,Alan Nunnelee,884
 Webster,U.S. House,1,Republican,Alan Nunnelee,251
 Winston,U.S. House,1,Republican,Alan Nunnelee,10
 Yalobusha,U.S. House,1,Republican,Alan Nunnelee,279
-,U.S. House,1,Republican,Alan Nunnelee,"20,236"
+Total,U.S. House,1,Republican,Alan Nunnelee,"20,236"
 Alcorn,U.S. House,1,Republican,Henry Ross,650
 Benton,U.S. House,1,Republican,Henry Ross,59
 Calhoun,U.S. House,1,Republican,Henry Ross,356
@@ -73,7 +73,7 @@ Union,U.S. House,1,Republican,Henry Ross,481
 Webster,U.S. House,1,Republican,Henry Ross,"1,006"
 Winston,U.S. House,1,Republican,Henry Ross,0
 Yalobusha,U.S. House,1,Republican,Henry Ross,173
-,U.S. House,1,Republican,Henry Ross,"12,894"
+Total,U.S. House,1,Republican,Henry Ross,"12,894"
 Attala,U.S. House,2,Republican,George Bailey,86
 Bolivar,U.S. House,2,Republican,George Bailey,45
 Carroll,U.S. House,2,Republican,George Bailey,49
@@ -97,7 +97,7 @@ Tunica,U.S. House,2,Republican,George Bailey,11
 Warren,U.S. House,2,Republican,George Bailey,112
 Washington,U.S. House,2,Republican,George Bailey,85
 Yazoo,U.S. House,2,Republican,George Bailey,58
-,U.S. House,2,Republican,George Bailey,"1,957"
+Total,U.S. House,2,Republican,George Bailey,"1,957"
 Attala,U.S. House,2,Republican,Richard Cook,156
 Bolivar,U.S. House,2,Republican,Richard Cook,34
 Carroll,U.S. House,2,Republican,Richard Cook,97
@@ -121,7 +121,7 @@ Tunica,U.S. House,2,Republican,Richard Cook,10
 Warren,U.S. House,2,Republican,Richard Cook,157
 Washington,U.S. House,2,Republican,Richard Cook,92
 Yazoo,U.S. House,2,Republican,Richard Cook,188
-,U.S. House,2,Republican,Richard Cook,"2,232"
+Total,U.S. House,2,Republican,Richard Cook,"2,232"
 Attala,U.S. House,2,Republican,Bill Marcy,40
 Bolivar,U.S. House,2,Republican,Bill Marcy,128
 Carroll,U.S. House,2,Republican,Bill Marcy,126
@@ -145,7 +145,7 @@ Tunica,U.S. House,2,Republican,Bill Marcy,4
 Warren,U.S. House,2,Republican,Bill Marcy,537
 Washington,U.S. House,2,Republican,Bill Marcy,143
 Yazoo,U.S. House,2,Republican,Bill Marcy,64
-,U.S. House,2,Republican,Bill Marcy,"2,231"
+Total,U.S. House,2,Republican,Bill Marcy,"2,231"
 Clarke,U.S. House,4,Republican,Steven Palazzo,238
 Forrest,U.S. House,4,Republican,Steven Palazzo,"1,655"
 George,U.S. House,4,Republican,Steven Palazzo,365
@@ -161,7 +161,7 @@ Pearl River,U.S. House,4,Republican,Steven Palazzo,"1,323"
 Perry,U.S. House,4,Republican,Steven Palazzo,177
 Stone,U.S. House,4,Republican,Steven Palazzo,287
 Wayne,U.S. House,4,Republican,Steven Palazzo,271
-,U.S. House,4,Republican,Steven Palazzo,159556
+Total,U.S. House,4,Republican,Steven Palazzo,159556
 Clarke,U.S. House,4,Republican,Joe Tegerdine,403
 Forrest,U.S. House,4,Republican,Joe Tegerdine,"1,544"
 George,U.S. House,4,Republican,Joe Tegerdine,354
@@ -177,7 +177,7 @@ Pearl River,U.S. House,4,Republican,Joe Tegerdine,"1,948"
 Perry,U.S. House,4,Republican,Joe Tegerdine,309
 Stone,U.S. House,4,Republican,Joe Tegerdine,193
 Wayne,U.S. House,4,Republican,Joe Tegerdine,528
-,U.S. House,4,Republican,Joe Tegerdine,"11,663"
+Total,U.S. House,4,Republican,Joe Tegerdine,"11,663"
 Adams,U.S. House,3,Democrat,Joel L. Gill,99
 Adams,U.S. House,3,Democrat,James D. Jackson,175
 Adams,U.S. House,3,Democrat,Shawn O'Hara,70
@@ -262,6 +262,6 @@ Wilkinson,U.S. House,3,Democrat,Shawn O'Hara,17
 Winston,U.S. House,3,Democrat,Joel L. Gill,190
 Winston,U.S. House,3,Democrat,James D. Jackson,66
 Winston,U.S. House,3,Democrat,Shawn O'Hara,32
-,U.S. House,3,Democrat,Joel L. Gill,3805
-,U.S. House,3,Democrat,James D. Jackson,2138
-,U.S. House,3,Democrat,Shawn O'Hara,1328
+Total,U.S. House,3,Democrat,Joel L. Gill,3805
+Total,U.S. House,3,Democrat,James D. Jackson,2138
+Total,U.S. House,3,Democrat,Shawn O'Hara,1328

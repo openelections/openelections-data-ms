@@ -1,4 +1,4 @@
-﻿page,candidate,office,district,party,county,precinct,votes
+page,candidate,office,district,party,county,precinct,votes
 2,Jim Giles,State House,60,,Rankin,Antioch,1
 2,Morris Mock Jr,State House,60,,Rankin,Antioch,5
 2,Bob Morrow,State House,60,,Rankin,Antioch,29
@@ -67,7 +67,3 @@
 3,Morris Mock Jr,State House,60,,Rankin,West Brandon,68
 3,Bob Morrow,State House,60,,Rankin,West Brandon,62
 3,Fred Shanks,State House,60,,Rankin,West Brandon,81
-3,Jim Giles,State House,60,,Rankin,TOTAL,31
-3,Morris Mock Jr,State House,60,,Rankin,TOTAL,326
-3,Bob Morrow,State House,60,,Rankin,TOTAL,754
-3,Fred Shanks,State House,60,,Rankin,TOTAL,838

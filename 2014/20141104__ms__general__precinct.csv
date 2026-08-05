@@ -67,10 +67,6 @@ Covington,Yawn,U.S. House,3,Gregg Harper,Republican,111
 Covington,Yawn,U.S. House,3,Douglas MacArthur (Doug) Magee,Democrat,42
 Covington,Yawn,U.S. House,3,Roger Gerrard,Independent,12
 Covington,Yawn,U.S. House,3,Barbara Dale Washer,Reform,2
-Covington,TOTAL,U.S. House,3,Gregg Harper,Republican,3282
-Covington,TOTAL,U.S. House,3,Douglas MacArthur (Doug) Magee,Democrat,1630
-Covington,TOTAL,U.S. House,3,Roger Gerrard,Independent,160
-Covington,TOTAL,U.S. House,3,Barbara Dale Washer,Reform,74
 Sharkey,Anguilla Fifth District,U.S. Senate,,Travis W. Childers,Democrat,61
 Sharkey,Anguilla Fifth District,U.S. Senate,,Thad Cochran,Republican,14
 Sharkey,Anguilla Fifth District,U.S. Senate,,Shawn O'Hara,Reform,2
@@ -131,12 +127,6 @@ Sharkey,Straight Bayou Fourth District,U.S. Senate,,Shawn O'Hara,Reform,0
 Sharkey,Straight Bayou Fourth District,U.S. House,2,Bennie G. Thompson,Democrat,21
 Sharkey,Straight Bayou Fourth District,U.S. House,2,Troy Ray,Independent,9
 Sharkey,Straight Bayou Fourth District,U.S. House,2,Shelley Shoemake,Reform,5
-Sharkey,Total,U.S. Senate,,Travis W. Childers,Democrat,560
-Sharkey,Total,U.S. Senate,,Thad Cochran,Republican,539
-Sharkey,Total,U.S. Senate,,Shawn O'Hara,Reform,12
-Sharkey,Total,U.S. House,2,Bennie G. Thompson,Democrat,791
-Sharkey,Total,U.S. House,2,Troy Ray,Independent,199
-Sharkey,Total,U.S. House,2,Shelley Shoemake,Reform,64
 Wayne,Beat Four,U.S. House,4,Matt Moore,Democrat,37
 Wayne,Beat Four,U.S. House,4,Steven McCarty Palazzo,Republican,221
 Wayne,Beat Four,U.S. House,4,Cindy Burleson,Independent,3
@@ -269,12 +259,6 @@ Wayne,Yellow Creek,U.S. House,4,Cindy Burleson,Independent,4
 Wayne,Yellow Creek,U.S. House,4,Eli Jackson,Reform,0
 Wayne,Yellow Creek,U.S. House,4,Ed Reich,Independent,1
 Wayne,Yellow Creek,U.S. House,4,Joey Robinson,Libertarian,0
-Wayne,TOTAL,U.S. House,4,Matt Moore,Democrat,1398
-Wayne,TOTAL,U.S. House,4,Steven McCarty Palazzo,Republican,2849
-Wayne,TOTAL,U.S. House,4,Cindy Burleson,Independent,64
-Wayne,TOTAL,U.S. House,4,Eli Jackson,Reform,16
-Wayne,TOTAL,U.S. House,4,Ed Reich,Independent,11
-Wayne,TOTAL,U.S. House,4,Joey Robinson,Libertarian,37
 Prentiss,Baldwyn,U.S. Senate,,Travis W. Childers,Democrat,303
 Prentiss,Baldwyn,U.S. Senate,,Thad Cochran,Republican,215
 Prentiss,Baldwyn,U.S. Senate,,Shawn O'Hara,Reform,5
@@ -320,9 +304,6 @@ Prentiss,West Booneville,U.S. Senate,,Shawn O'Hara,Reform,4
 Prentiss,Wheeler,U.S. Senate,,Travis W. Childers,Democrat,145
 Prentiss,Wheeler,U.S. Senate,,Thad Cochran,Republican,176
 Prentiss,Wheeler,U.S. Senate,,Shawn O'Hara,Reform,3
-Prentiss,Total,U.S. Senate,,Travis W. Childers,Democrat,2635
-Prentiss,Total,U.S. Senate,,Thad Cochran,Republican,2588
-Prentiss,Total,U.S. Senate,,Shawn O'Hara,Reform,59
 Tippah,Blue Mountain,U.S. House,1,Ron E. Dickey,Democrat,103
 Tippah,Blue Mountain,U.S. House,1,Alan Nunnelee,Republican,221
 Tippah,Blue Mountain,U.S. House,1,Danny Bedwell,Libertarian,10
@@ -419,10 +400,6 @@ Tippah,Walnut,U.S. House,1,Ron E. Dickey,Democrat,58
 Tippah,Walnut,U.S. House,1,Alan Nunnelee,Republican,162
 Tippah,Walnut,U.S. House,1,Danny Bedwell,Libertarian,5
 Tippah,Walnut,U.S. House,1,Lajena Walley,Reform,1
-Tippah,TOTAL,U.S. House,1,Ron E. Dickey,Democrat,931
-Tippah,TOTAL,U.S. House,1,Alan Nunnelee,Republican,3700
-Tippah,TOTAL,U.S. House,1,Danny Bedwell,Libertarian,114
-Tippah,TOTAL,U.S. House,1,Lajena Walley,Reform,31
 Tallahatchie,Blue Cane,U.S. House,2,Bennie G. Thompson,Democrat,129
 Tallahatchie,Blue Cane,U.S. House,2,Troy Ray,Independent,9
 Tallahatchie,Blue Cane,U.S. House,2,Shelley Shoemake,Reform,2
@@ -486,9 +463,6 @@ Tallahatchie,Webb Beat #4,U.S. House,2,Shelley Shoemake,Reform,2
 Tallahatchie,Webb Beat #5,U.S. House,2,Bennie G. Thompson,Democrat,205
 Tallahatchie,Webb Beat #5,U.S. House,2,Troy Ray,Independent,15
 Tallahatchie,Webb Beat #5,U.S. House,2,Shelley Shoemake,Reform,4
-Tallahatchie,TOTAL,U.S. House,2,Bennie G. Thompson,Democrat,2007
-Tallahatchie,TOTAL,U.S. House,2,Troy Ray,Independent,686
-Tallahatchie,TOTAL,U.S. House,2,Shelley Shoemake,Reform,144
 Amite,Amite River,U.S. Senate,,Travis W. Childers,Dem,142
 Amite,Ariel,U.S. Senate,,Travis W. Childers,Dem,68
 Amite,Berwick,U.S. Senate,,Travis W. Childers,Dem,138
@@ -510,7 +484,6 @@ Amite,Tangipahoa,U.S. Senate,,Travis W. Childers,Dem,24
 Amite,Tickfaw,U.S. Senate,,Travis W. Childers,Dem,60
 Amite,Walls,U.S. Senate,,Travis W. Childers,Dem,99
 Amite,Zion Hill,U.S. Senate,,Travis W. Childers,Dem,22
-Amite,TOTAL,U.S. Senate,,Travis W. Childers,Dem,1529
 Amite,Amite River,U.S. Senate,,Thad Cochran,Rep,38
 Amite,Ariel,U.S. Senate,,Thad Cochran,Rep,35
 Amite,Berwick,U.S. Senate,,Thad Cochran,Rep,25
@@ -532,7 +505,6 @@ Amite,Tangipahoa,U.S. Senate,,Thad Cochran,Rep,216
 Amite,Tickfaw,U.S. Senate,,Thad Cochran,Rep,46
 Amite,Walls,U.S. Senate,,Thad Cochran,Rep,178
 Amite,Zion Hill,U.S. Senate,,Thad Cochran,Rep,166
-Amite,TOTAL,U.S. Senate,,Thad Cochran,Rep,2306
 Amite,Amite River,U.S. Senate,,Shawn O'Hara,Ref,6
 Amite,Ariel,U.S. Senate,,Shawn O'Hara,Ref,2
 Amite,Berwick,U.S. Senate,,Shawn O'Hara,Ref,4
@@ -554,7 +526,6 @@ Amite,Tangipahoa,U.S. Senate,,Shawn O'Hara,Ref,9
 Amite,Tickfaw,U.S. Senate,,Shawn O'Hara,Ref,4
 Amite,Walls,U.S. Senate,,Shawn O'Hara,Ref,10
 Amite,Zion Hill,U.S. Senate,,Shawn O'Hara,Ref,1
-Amite,TOTAL,U.S. Senate,,Shawn O'Hara,Ref,105
 Amite,Amite River,U.S. House,3,Gregg Harper,Rep,35
 Amite,Ariel,U.S. House,3,Gregg Harper,Rep,37
 Amite,Berwick,U.S. House,3,Gregg Harper,Rep,28
@@ -576,7 +547,6 @@ Amite,Tangipahoa,U.S. House,3,Gregg Harper,Rep,220
 Amite,Tickfaw,U.S. House,3,Gregg Harper,Rep,50
 Amite,Walls,U.S. House,3,Gregg Harper,Rep,196
 Amite,Zion Hill,U.S. House,3,Gregg Harper,Rep,170
-Amite,TOTAL,U.S. House,3,Gregg Harper,Rep,2455
 Amite,Amite River,U.S. House,3,Douglas MacArthur (Doug) Magee,Dem,141
 Amite,Ariel,U.S. House,3,Douglas MacArthur (Doug) Magee,Dem,64
 Amite,Berwick,U.S. House,3,Douglas MacArthur (Doug) Magee,Dem,133
@@ -598,7 +568,6 @@ Amite,Tangipahoa,U.S. House,3,Douglas MacArthur (Doug) Magee,Dem,23
 Amite,Tickfaw,U.S. House,3,Douglas MacArthur (Doug) Magee,Dem,53
 Amite,Walls,U.S. House,3,Douglas MacArthur (Doug) Magee,Dem,83
 Amite,Zion Hill,U.S. House,3,Douglas MacArthur (Doug) Magee,Dem,14
-Amite,TOTAL,U.S. House,3,Douglas MacArthur (Doug) Magee,Dem,1345
 Amite,Amite River,U.S. House,3,Roger Gerrard,Ind,3
 Amite,Ariel,U.S. House,3,Roger Gerrard,Ind,2
 Amite,Berwick,U.S. House,3,Roger Gerrard,Ind,1
@@ -620,7 +589,6 @@ Amite,Tangipahoa,U.S. House,3,Roger Gerrard,Ind,3
 Amite,Tickfaw,U.S. House,3,Roger Gerrard,Ind,4
 Amite,Walls,U.S. House,3,Roger Gerrard,Ind,2
 Amite,Zion Hill,U.S. House,3,Roger Gerrard,Ind,0
-Amite,TOTAL,U.S. House,3,Roger Gerrard,Ind,66
 Amite,Amite River,U.S. House,3,Barbara Dale Washer,Ref,3
 Amite,Ariel,U.S. House,3,Barbara Dale Washer,Ref,1
 Amite,Berwick,U.S. House,3,Barbara Dale Washer,Ref,3
@@ -642,7 +610,6 @@ Amite,Tangipahoa,U.S. House,3,Barbara Dale Washer,Ref,4
 Amite,Tickfaw,U.S. House,3,Barbara Dale Washer,Ref,1
 Amite,Walls,U.S. House,3,Barbara Dale Washer,Ref,2
 Amite,Zion Hill,U.S. House,3,Barbara Dale Washer,Ref,0
-Amite,TOTAL,U.S. House,3,Barbara Dale Washer,Ref,42
 Lauderdale,101 - One,U.S. Senate,,Travis W. Childers,Democrat,175
 Lauderdale,101 - One,U.S. Senate,,Thad Cochran,Republican,720
 Lauderdale,101 - One,U.S. Senate,,Shawn O'Hara,Reform,8
@@ -944,13 +911,6 @@ Lauderdale,583 - Mt Gilead,U.S. House,3,Gregg Harper,Republican,176
 Lauderdale,583 - Mt Gilead,U.S. House,3,Douglas MacArthur (Doug) Magee,Democrat,34
 Lauderdale,583 - Mt Gilead,U.S. House,3,Roger Gerrard,Independent,3
 Lauderdale,583 - Mt Gilead,U.S. House,3,Barbara Dale Washer,Reform,0
-Lauderdale,Total,U.S. Senate,,Travis W. Childers,Democrat,4109
-Lauderdale,Total,U.S. Senate,,Thad Cochran,Republican,10359
-Lauderdale,Total,U.S. Senate,,Shawn O'Hara,Reform,234
-Lauderdale,Total,U.S. House,3,Gregg Harper,Republican,10640
-Lauderdale,Total,U.S. House,3,Douglas MacArthur (Doug) Magee,Democrat,3592
-Lauderdale,Total,U.S. House,3,Roger Gerrard,Independent,264
-Lauderdale,Total,U.S. House,3,Barbara Dale Washer,Reform,115
 Adams,"Dist. 1, Bellemont",U.S. Senate,,Travis W. Childers,Democrat,265
 Adams,"Dist. 1, Bellemont",U.S. Senate,,Thad Cochran,Republican,882
 Adams,"Dist. 1, Bellemont",U.S. Senate,,Shawn O'Hara,Reform,15
@@ -1084,13 +1044,6 @@ Adams,"Dist. 5, Washington",U.S. House,3,Gregg Harper,Republican,209
 Adams,"Dist. 5, Washington",U.S. House,3,Douglas MacArthur (Doug) Magee,Democrat,84
 Adams,"Dist. 5, Washington",U.S. House,3,Roger Gerrard,Independent,4
 Adams,"Dist. 5, Washington",U.S. House,3,Barbara Dale Washer,Reform,4
-Adams,Total,U.S. Senate,,Travis W. Childers,Democrat,4142
-Adams,Total,U.S. Senate,,Thad Cochran,Republican,4360
-Adams,Total,U.S. Senate,,Shawn O'Hara,Reform,113
-Adams,Total,U.S. House,3,Gregg Harper,Republican,4338
-Adams,Total,U.S. House,3,Douglas MacArthur (Doug) Magee,Democrat,3828
-Adams,Total,U.S. House,3,Roger Gerrard,Independent,122
-Adams,Total,U.S. House,3,Barbara Dale Washer,Reform,73
 Walthall,3rd District Tylertown,U.S. House,3,Roger Gerrard,Independent,4
 Walthall,3rd District Tylertown,U.S. House,3,Gregg Harper,Republican,149
 Walthall,3rd District Tylertown,U.S. House,3,Douglas MacArthur (Doug) Magee,Democrat,37
@@ -1175,10 +1128,6 @@ Walthall,West Tylertown,U.S. House,3,Roger Gerrard,Independent,6
 Walthall,West Tylertown,U.S. House,3,Gregg Harper,Republican,75
 Walthall,West Tylertown,U.S. House,3,Douglas MacArthur (Doug) Magee,Democrat,106
 Walthall,West Tylertown,U.S. House,3,Barbara Dale Washer,Reform,1
-Walthall,TOTAL,U.S. House,3,Roger Gerrard,Independent,86
-Walthall,TOTAL,U.S. House,3,Gregg Harper,Republican,2323
-Walthall,TOTAL,U.S. House,3,Douglas MacArthur (Doug) Magee,Democrat,1380
-Walthall,TOTAL,U.S. House,3,Barbara Dale Washer,Reform,36
 Lincoln,Alexander,U.S. House,3,Gregg Harper,Republican,9
 Lincoln,Alexander,U.S. House,3,Douglas MacArthur (Doug) Magee,Democrat,164
 Lincoln,Alexander,U.S. House,3,Roger Gerrard,Independent,1
@@ -1319,10 +1268,6 @@ Lincoln,Zetus,U.S. House,3,Gregg Harper,Republican,196
 Lincoln,Zetus,U.S. House,3,Douglas MacArthur (Doug) Magee,Democrat,29
 Lincoln,Zetus,U.S. House,3,Roger Gerrard,Independent,3
 Lincoln,Zetus,U.S. House,3,Barbara Dale Washer,Reform,1
-Lincoln,TOTAL,U.S. House,3,Gregg Harper,Republican,5550
-Lincoln,TOTAL,U.S. House,3,Douglas MacArthur (Doug) Magee,Democrat,1622
-Lincoln,TOTAL,U.S. House,3,Roger Gerrard,Independent,121
-Lincoln,TOTAL,U.S. House,3,Barbara Dale Washer,Reform,41
 Leflore,Central Gwd,U.S. Senate,,Travis W. Childers,Democrat,126
 Leflore,Central Gwd,U.S. Senate,,Thad Cochran,Republican,43
 Leflore,Central Gwd,U.S. Senate,,Shawn O'Hara,Reform,3
@@ -1437,12 +1382,6 @@ Leflore,West Gwd,U.S. Senate,,Shawn O'Hara,Reform,4
 Leflore,West Gwd,U.S. House,2,Bennie G. Thompson,Democrat,489
 Leflore,West Gwd,U.S. House,2,Troy Ray,Independent,48
 Leflore,West Gwd,U.S. House,2,Shelley Shoemake,Reform,15
-Leflore,Total,U.S. Senate,,Travis W. Childers,Democrat,3332
-Leflore,Total,U.S. Senate,,Thad Cochran,Republican,2472
-Leflore,Total,U.S. Senate,,Shawn O'Hara,Reform,35
-Leflore,Total,U.S. House,2,Bennie G. Thompson,Democrat,4134
-Leflore,Total,U.S. House,2,Troy Ray,Independent,1253
-Leflore,Total,U.S. House,2,Shelley Shoemake,Reform,344
 Choctaw,Bywy,U.S. Senate,,Travis W. Childers,Dem,46
 Choctaw,Chester,U.S. Senate,,Travis W. Childers,Dem,26
 Choctaw,District 5,U.S. Senate,,Travis W. Childers,Dem,104
@@ -1456,7 +1395,6 @@ Choctaw,Reform,U.S. Senate,,Travis W. Childers,Dem,69
 Choctaw,Sherwood,U.S. Senate,,Travis W. Childers,Dem,24
 Choctaw,Southwest Ackerman,U.S. Senate,,Travis W. Childers,Dem,110
 Choctaw,West Weir,U.S. Senate,,Travis W. Childers,Dem,45
-Choctaw,TOTAL,U.S. Senate,,Travis W. Childers,Dem,713
 Choctaw,Bywy,U.S. Senate,,Thad Cochran,Rep,68
 Choctaw,Chester,U.S. Senate,,Thad Cochran,Rep,106
 Choctaw,District 5,U.S. Senate,,Thad Cochran,Rep,406
@@ -1470,7 +1408,6 @@ Choctaw,Reform,U.S. Senate,,Thad Cochran,Rep,94
 Choctaw,Sherwood,U.S. Senate,,Thad Cochran,Rep,146
 Choctaw,Southwest Ackerman,U.S. Senate,,Thad Cochran,Rep,33
 Choctaw,West Weir,U.S. Senate,,Thad Cochran,Rep,110
-Choctaw,TOTAL,U.S. Senate,,Thad Cochran,Rep,1521
 Choctaw,Bywy,U.S. Senate,,Shawn O'Hara,Ref,1
 Choctaw,Chester,U.S. Senate,,Shawn O'Hara,Ref,7
 Choctaw,District 5,U.S. Senate,,Shawn O'Hara,Ref,11
@@ -1484,7 +1421,6 @@ Choctaw,Reform,U.S. Senate,,Shawn O'Hara,Ref,3
 Choctaw,Sherwood,U.S. Senate,,Shawn O'Hara,Ref,3
 Choctaw,Southwest Ackerman,U.S. Senate,,Shawn O'Hara,Ref,0
 Choctaw,West Weir,U.S. Senate,,Shawn O'Hara,Ref,4
-Choctaw,TOTAL,U.S. Senate,,Shawn O'Hara,Ref,43
 Choctaw,Bywy,U.S. House,1,Ron E. Dickey,Dem,41
 Choctaw,Chester,U.S. House,1,Ron E. Dickey,Dem,18
 Choctaw,District 5,U.S. House,1,Ron E. Dickey,Dem,55
@@ -1498,7 +1434,6 @@ Choctaw,Reform,U.S. House,1,Ron E. Dickey,Dem,58
 Choctaw,Sherwood,U.S. House,1,Ron E. Dickey,Dem,9
 Choctaw,Southwest Ackerman,U.S. House,1,Ron E. Dickey,Dem,104
 Choctaw,West Weir,U.S. House,1,Ron E. Dickey,Dem,36
-Choctaw,TOTAL,U.S. House,1,Ron E. Dickey,Dem,546
 Choctaw,Bywy,U.S. House,1,Alan Nunnelee,Rep,68
 Choctaw,Chester,U.S. House,1,Alan Nunnelee,Rep,105
 Choctaw,District 5,U.S. House,1,Alan Nunnelee,Rep,440
@@ -1512,7 +1447,6 @@ Choctaw,Reform,U.S. House,1,Alan Nunnelee,Rep,99
 Choctaw,Sherwood,U.S. House,1,Alan Nunnelee,Rep,150
 Choctaw,Southwest Ackerman,U.S. House,1,Alan Nunnelee,Rep,33
 Choctaw,West Weir,U.S. House,1,Alan Nunnelee,Rep,134
-Choctaw,TOTAL,U.S. House,1,Alan Nunnelee,Rep,1581
 Choctaw,Bywy,U.S. House,1,Danny Bedwell,Lib,1
 Choctaw,Chester,U.S. House,1,Danny Bedwell,Lib,8
 Choctaw,District 5,U.S. House,1,Danny Bedwell,Lib,12
@@ -1526,7 +1460,6 @@ Choctaw,Reform,U.S. House,1,Danny Bedwell,Lib,3
 Choctaw,Sherwood,U.S. House,1,Danny Bedwell,Lib,10
 Choctaw,Southwest Ackerman,U.S. House,1,Danny Bedwell,Lib,1
 Choctaw,West Weir,U.S. House,1,Danny Bedwell,Lib,1
-Choctaw,TOTAL,U.S. House,1,Danny Bedwell,Lib,53
 Choctaw,Bywy,U.S. House,1,Lajena Walley,Ref,1
 Choctaw,Chester,U.S. House,1,Lajena Walley,Ref,8
 Choctaw,District 5,U.S. House,1,Lajena Walley,Ref,3
@@ -1540,7 +1473,6 @@ Choctaw,Reform,U.S. House,1,Lajena Walley,Ref,0
 Choctaw,Sherwood,U.S. House,1,Lajena Walley,Ref,0
 Choctaw,Southwest Ackerman,U.S. House,1,Lajena Walley,Ref,1
 Choctaw,West Weir,U.S. House,1,Lajena Walley,Ref,0
-Choctaw,TOTAL,U.S. House,1,Lajena Walley,Ref,16
 Claiborne,County Precinct 1-A,U.S. Senate,,Travis W. Childers,Dem,66
 Claiborne,County Precinct 1-B,U.S. Senate,,Travis W. Childers,Dem,194
 Claiborne,County Precinct 1-C,U.S. Senate,,Travis W. Childers,Dem,122
@@ -1552,7 +1484,6 @@ Claiborne,County Precinct 4-B,U.S. Senate,,Travis W. Childers,Dem,150
 Claiborne,County Precinct 4-C,U.S. Senate,,Travis W. Childers,Dem,23
 Claiborne,County Precinct 5-A,U.S. Senate,,Travis W. Childers,Dem,197
 Claiborne,County Precinct 5-B,U.S. Senate,,Travis W. Childers,Dem,154
-Claiborne,TOTAL,U.S. Senate,,Travis W. Childers,Dem,1610
 Claiborne,County Precinct 1-A,U.S. Senate,,Thad Cochran,Rep,26
 Claiborne,County Precinct 1-B,U.S. Senate,,Thad Cochran,Rep,50
 Claiborne,County Precinct 1-C,U.S. Senate,,Thad Cochran,Rep,10
@@ -1564,7 +1495,6 @@ Claiborne,County Precinct 4-B,U.S. Senate,,Thad Cochran,Rep,52
 Claiborne,County Precinct 4-C,U.S. Senate,,Thad Cochran,Rep,4
 Claiborne,County Precinct 5-A,U.S. Senate,,Thad Cochran,Rep,38
 Claiborne,County Precinct 5-B,U.S. Senate,,Thad Cochran,Rep,31
-Claiborne,TOTAL,U.S. Senate,,Thad Cochran,Rep,551
 Claiborne,County Precinct 1-A,U.S. Senate,,Shawn O'Hara,Ref,1
 Claiborne,County Precinct 1-B,U.S. Senate,,Shawn O'Hara,Ref,0
 Claiborne,County Precinct 1-C,U.S. Senate,,Shawn O'Hara,Ref,1
@@ -1576,7 +1506,6 @@ Claiborne,County Precinct 4-B,U.S. Senate,,Shawn O'Hara,Ref,2
 Claiborne,County Precinct 4-C,U.S. Senate,,Shawn O'Hara,Ref,1
 Claiborne,County Precinct 5-A,U.S. Senate,,Shawn O'Hara,Ref,2
 Claiborne,County Precinct 5-B,U.S. Senate,,Shawn O'Hara,Ref,3
-Claiborne,TOTAL,U.S. Senate,,Shawn O'Hara,Ref,18
 Claiborne,County Precinct 1-A,U.S. House,2,Bennie G. Thompson,Dem,70
 Claiborne,County Precinct 1-B,U.S. House,2,Bennie G. Thompson,Dem,230
 Claiborne,County Precinct 1-C,U.S. House,2,Bennie G. Thompson,Dem,132
@@ -1588,7 +1517,6 @@ Claiborne,County Precinct 4-B,U.S. House,2,Bennie G. Thompson,Dem,167
 Claiborne,County Precinct 4-C,U.S. House,2,Bennie G. Thompson,Dem,31
 Claiborne,County Precinct 5-A,U.S. House,2,Bennie G. Thompson,Dem,222
 Claiborne,County Precinct 5-B,U.S. House,2,Bennie G. Thompson,Dem,171
-Claiborne,TOTAL,U.S. House,2,Bennie G. Thompson,Dem,1863
 Claiborne,County Precinct 1-A,U.S. House,2,Troy Ray,Ind,11
 Claiborne,County Precinct 1-B,U.S. House,2,Troy Ray,Ind,12
 Claiborne,County Precinct 1-C,U.S. House,2,Troy Ray,Ind,1
@@ -1600,7 +1528,6 @@ Claiborne,County Precinct 4-B,U.S. House,2,Troy Ray,Ind,25
 Claiborne,County Precinct 4-C,U.S. House,2,Troy Ray,Ind,0
 Claiborne,County Precinct 5-A,U.S. House,2,Troy Ray,Ind,13
 Claiborne,County Precinct 5-B,U.S. House,2,Troy Ray,Ind,14
-Claiborne,TOTAL,U.S. House,2,Troy Ray,Ind,251
 Claiborne,County Precinct 1-A,U.S. House,2,Shelley Shoemake,Ref,11
 Claiborne,County Precinct 1-B,U.S. House,2,Shelley Shoemake,Ref,6
 Claiborne,County Precinct 1-C,U.S. House,2,Shelley Shoemake,Ref,0
@@ -1612,7 +1539,6 @@ Claiborne,County Precinct 4-B,U.S. House,2,Shelley Shoemake,Ref,8
 Claiborne,County Precinct 4-C,U.S. House,2,Shelley Shoemake,Ref,0
 Claiborne,County Precinct 5-A,U.S. House,2,Shelley Shoemake,Ref,3
 Claiborne,County Precinct 5-B,U.S. House,2,Shelley Shoemake,Ref,4
-Claiborne,TOTAL,U.S. House,2,Shelley Shoemake,Ref,67
 Yalobusha,Beat One North,U.S. Senate,,Travis W. Childers,Democrat,140
 Yalobusha,Beat One North,U.S. Senate,,Thad Cochran,Republican,330
 Yalobusha,Beat One North,U.S. Senate,,Shawn O'Hara,Reform,11
@@ -1679,12 +1605,6 @@ Yalobusha,Three Sylva Rena,U.S. Senate,,Shawn O'Hara,Reform,7
 Yalobusha,Three Sylva Rena,U.S. House,2,Bennie G. Thompson,Democrat,102
 Yalobusha,Three Sylva Rena,U.S. House,2,Troy Ray,Independent,124
 Yalobusha,Three Sylva Rena,U.S. House,2,Shelley Shoemake,Reform,11
-Yalobusha,Total,U.S. Senate,,Travis W. Childers,Democrat,1465
-Yalobusha,Total,U.S. Senate,,Thad Cochran,Republican,1710
-Yalobusha,Total,U.S. Senate,,Shawn O'Hara,Reform,48
-Yalobusha,Total,U.S. House,2,Bennie G. Thompson,Democrat,1659
-Yalobusha,Total,U.S. House,2,Troy Ray,Independent,1345
-Yalobusha,Total,U.S. House,2,Shelley Shoemake,Reform,147
 Neshoba,Arlington,U.S. House,3,Gregg Harper,Republican,162
 Neshoba,Arlington,U.S. House,3,Douglas MacArthur (Doug) Magee,Democrat,6
 Neshoba,Arlington,U.S. House,3,Roger Gerrard,Independent,7
@@ -1793,10 +1713,6 @@ Neshoba,Zephyrhill,U.S. House,3,Gregg Harper,Republican,122
 Neshoba,Zephyrhill,U.S. House,3,Douglas MacArthur (Doug) Magee,Democrat,17
 Neshoba,Zephyrhill,U.S. House,3,Roger Gerrard,Independent,3
 Neshoba,Zephyrhill,U.S. House,3,Barbara Dale Washer,Reform,1
-Neshoba,TOTAL,U.S. House,3,Gregg Harper,Republican,4751
-Neshoba,TOTAL,U.S. House,3,Douglas MacArthur (Doug) Magee,Democrat,1161
-Neshoba,TOTAL,U.S. House,3,Roger Gerrard,Independent,105
-Neshoba,TOTAL,U.S. House,3,Barbara Dale Washer,Reform,66
 Humphreys,Belzoni North - 1bnh34 1021,U.S. House,2,Bennie G. Thompson,Democrat,21
 Humphreys,Belzoni North - 1bnh34 1021,U.S. House,2,Troy Ray,Independent,17
 Humphreys,Belzoni North - 1bnh34 1021,U.S. House,2,Shelley Shoemake,Reform,7
@@ -1842,9 +1758,6 @@ Humphreys,Putnam South - 4ps 4030,U.S. House,2,Shelley Shoemake,Reform,8
 Humphreys,Silver City South - 3ss 3020,U.S. House,2,Bennie G. Thompson,Democrat,115
 Humphreys,Silver City South - 3ss 3020,U.S. House,2,Troy Ray,Independent,31
 Humphreys,Silver City South - 3ss 3020,U.S. House,2,Shelley Shoemake,Reform,14
-Humphreys,TOTAL,U.S. House,2,Bennie G. Thompson,Democrat,1704
-Humphreys,TOTAL,U.S. House,2,Troy Ray,Independent,358
-Humphreys,TOTAL,U.S. House,2,Shelley Shoemake,Reform,133
 Itawamba,American Legion,U.S. House,1,Danny Bedwell,Libertarian,22
 Itawamba,American Legion,U.S. House,1,Ron E. Dickey,Democrat,72
 Itawamba,American Legion,U.S. House,1,Alan Nunnelee,Republican,465
@@ -1957,10 +1870,6 @@ Itawamba,Tremont,U.S. House,1,Danny Bedwell,Libertarian,7
 Itawamba,Tremont,U.S. House,1,Ron E. Dickey,Democrat,21
 Itawamba,Tremont,U.S. House,1,Alan Nunnelee,Republican,122
 Itawamba,Tremont,U.S. House,1,Lajena Walley,Reform,1
-Itawamba,TOTAL,U.S. House,1,Danny Bedwell,Libertarian,212
-Itawamba,TOTAL,U.S. House,1,Ron E. Dickey,Democrat,806
-Itawamba,TOTAL,U.S. House,1,Alan Nunnelee,Republican,3617
-Itawamba,TOTAL,U.S. House,1,Lajena Walley,Reform,37
 Marion,Balls Mill,U.S. House,4,Matt Moore,Democrat,63
 Marion,Balls Mill,U.S. House,4,Steven McCarty Palazzo,Republican,235
 Marion,Balls Mill,U.S. House,4,Cindy Burleson,Independent,4
@@ -2099,12 +2008,6 @@ Marion,White Bluff,U.S. House,4,Cindy Burleson,Independent,0
 Marion,White Bluff,U.S. House,4,Eli Jackson,Reform,0
 Marion,White Bluff,U.S. House,4,Ed Reich,Independent,0
 Marion,White Bluff,U.S. House,4,Joey Robinson,Libertarian,0
-Marion,TOTAL,U.S. House,4,Matt Moore,Democrat,1740
-Marion,TOTAL,U.S. House,4,Steven McCarty Palazzo,Republican,4344
-Marion,TOTAL,U.S. House,4,Cindy Burleson,Independent,61
-Marion,TOTAL,U.S. House,4,Eli Jackson,Reform,21
-Marion,TOTAL,U.S. House,4,Ed Reich,Independent,13
-Marion,TOTAL,U.S. House,4,Joey Robinson,Libertarian,47
 Attala,Aponaug,U.S. Senate,,Travis W. Childers,Dem,32
 Attala,Berea,U.S. Senate,,Travis W. Childers,Dem,10
 Attala,Carmack,U.S. Senate,,Travis W. Childers,Dem,14
@@ -2126,7 +2029,6 @@ Attala,South West,U.S. Senate,,Travis W. Childers,Dem,58
 Attala,Thompson,U.S. Senate,,Travis W. Childers,Dem,8
 Attala,Williamsville,U.S. Senate,,Travis W. Childers,Dem,181
 Attala,Zama,U.S. Senate,,Travis W. Childers,Dem,43
-Attala,TOTAL,U.S. Senate,,Travis W. Childers,Dem,1575
 Attala,Aponaug,U.S. Senate,,Thad Cochran,Rep,80
 Attala,Berea,U.S. Senate,,Thad Cochran,Rep,54
 Attala,Carmack,U.S. Senate,,Thad Cochran,Rep,96
@@ -2148,7 +2050,6 @@ Attala,South West,U.S. Senate,,Thad Cochran,Rep,35
 Attala,Thompson,U.S. Senate,,Thad Cochran,Rep,65
 Attala,Williamsville,U.S. Senate,,Thad Cochran,Rep,348
 Attala,Zama,U.S. Senate,,Thad Cochran,Rep,64
-Attala,TOTAL,U.S. Senate,,Thad Cochran,Rep,2508
 Attala,Aponaug,U.S. Senate,,Shawn O'Hara,Ref,2
 Attala,Berea,U.S. Senate,,Shawn O'Hara,Ref,6
 Attala,Carmack,U.S. Senate,,Shawn O'Hara,Ref,1
@@ -2170,7 +2071,6 @@ Attala,South West,U.S. Senate,,Shawn O'Hara,Ref,3
 Attala,Thompson,U.S. Senate,,Shawn O'Hara,Ref,3
 Attala,Williamsville,U.S. Senate,,Shawn O'Hara,Ref,11
 Attala,Zama,U.S. Senate,,Shawn O'Hara,Ref,3
-Attala,TOTAL,U.S. Senate,,Shawn O'Hara,Ref,76
 Attala,Aponaug,U.S. House,2,Bennie G. Thompson,Dem,45
 Attala,Berea,U.S. House,2,Bennie G. Thompson,Dem,14
 Attala,Carmack,U.S. House,2,Bennie G. Thompson,Dem,19
@@ -2192,7 +2092,6 @@ Attala,South West,U.S. House,2,Bennie G. Thompson,Dem,66
 Attala,Thompson,U.S. House,2,Bennie G. Thompson,Dem,18
 Attala,Williamsville,U.S. House,2,Bennie G. Thompson,Dem,203
 Attala,Zama,U.S. House,2,Bennie G. Thompson,Dem,44
-Attala,TOTAL,U.S. House,2,Bennie G. Thompson,Dem,1857
 Attala,Aponaug,U.S. House,2,Troy Ray,Ind,52
 Attala,Berea,U.S. House,2,Troy Ray,Ind,41
 Attala,Carmack,U.S. House,2,Troy Ray,Ind,71
@@ -2214,7 +2113,6 @@ Attala,South West,U.S. House,2,Troy Ray,Ind,17
 Attala,Thompson,U.S. House,2,Troy Ray,Ind,42
 Attala,Williamsville,U.S. House,2,Troy Ray,Ind,253
 Attala,Zama,U.S. House,2,Troy Ray,Ind,44
-Attala,TOTAL,U.S. House,2,Troy Ray,Ind,1686
 Attala,Aponaug,U.S. House,2,Shelley Shoemake,Ref,10
 Attala,Berea,U.S. House,2,Shelley Shoemake,Ref,8
 Attala,Carmack,U.S. House,2,Shelley Shoemake,Ref,14
@@ -2236,7 +2134,6 @@ Attala,South West,U.S. House,2,Shelley Shoemake,Ref,13
 Attala,Thompson,U.S. House,2,Shelley Shoemake,Ref,9
 Attala,Williamsville,U.S. House,2,Shelley Shoemake,Ref,59
 Attala,Zama,U.S. House,2,Shelley Shoemake,Ref,11
-Attala,TOTAL,U.S. House,2,Shelley Shoemake,Ref,406
 Pontotoc,Algoma Al,U.S. House,1,Ron E. Dickey,Democrat,44
 Pontotoc,Algoma Al,U.S. House,1,Alan Nunnelee,Republican,219
 Pontotoc,Algoma Al,U.S. House,1,Danny Bedwell,Libertarian,11
@@ -2349,10 +2246,6 @@ Pontotoc,Zion Z,U.S. House,1,Ron E. Dickey,Democrat,47
 Pontotoc,Zion Z,U.S. House,1,Alan Nunnelee,Republican,163
 Pontotoc,Zion Z,U.S. House,1,Danny Bedwell,Libertarian,6
 Pontotoc,Zion Z,U.S. House,1,Lajena Walley,Reform,1
-Pontotoc,TOTAL,U.S. House,1,Ron E. Dickey,Democrat,1147
-Pontotoc,TOTAL,U.S. House,1,Alan Nunnelee,Republican,4988
-Pontotoc,TOTAL,U.S. House,1,Danny Bedwell,Libertarian,229
-Pontotoc,TOTAL,U.S. House,1,Lajena Walley,Reform,39
 Quitman,Crenshaw,U.S. Senate,,Travis W. Childers,Democrat,75
 Quitman,Crenshaw,U.S. Senate,,Thad Cochran,Republican,10
 Quitman,Crenshaw,U.S. Senate,,Shawn O'Hara,Reform,5
@@ -2413,12 +2306,6 @@ Quitman,West Lambert,U.S. Senate,,Shawn O'Hara,Reform,10
 Quitman,West Lambert,U.S. House,2,Bennie G. Thompson,Democrat,231
 Quitman,West Lambert,U.S. House,2,Troy Ray,Independent,32
 Quitman,West Lambert,U.S. House,2,Shelley Shoemake,Reform,3
-Quitman,Total,U.S. Senate,,Travis W. Childers,Democrat,1464
-Quitman,Total,U.S. Senate,,Thad Cochran,Republican,998
-Quitman,Total,U.S. Senate,,Shawn O'Hara,Reform,50
-Quitman,Total,U.S. House,2,Bennie G. Thompson,Democrat,1884
-Quitman,Total,U.S. House,2,Troy Ray,Independent,514
-Quitman,Total,U.S. House,2,Shelley Shoemake,Reform,129
 Warren,3-61,U.S. House,2,Bennie G. Thompson,Democrat,24
 Warren,3-61,U.S. House,2,Troy Ray,Independent,36
 Warren,3-61,U.S. House,2,Shelley Shoemake,Reform,9
@@ -2485,9 +2372,6 @@ Warren,YMCA,U.S. House,2,Shelley Shoemake,Reform,51
 Warren,Yokena,U.S. House,2,Bennie G. Thompson,Democrat,93
 Warren,Yokena,U.S. House,2,Troy Ray,Independent,139
 Warren,Yokena,U.S. House,2,Shelley Shoemake,Reform,39
-Warren,TOTAL,U.S. House,2,Bennie G. Thompson,Democrat,5505
-Warren,TOTAL,U.S. House,2,Troy Ray,Independent,3911
-Warren,TOTAL,U.S. House,2,Shelley Shoemake,Reform,1240
 Coahoma,Bobo,U.S. House,2,Bennie G. Thompson,Democrat,45
 Coahoma,Bobo,U.S. House,2,Troy Ray,Independent,12
 Coahoma,Bobo,U.S. House,2,Shelley Shoemake,Reform,3
@@ -2545,9 +2429,6 @@ Coahoma,Sasse Street Fire Station,U.S. House,2,Shelley Shoemake,Reform,3
 Coahoma,Sherard,U.S. House,2,Bennie G. Thompson,Democrat,8
 Coahoma,Sherard,U.S. House,2,Troy Ray,Independent,2
 Coahoma,Sherard,U.S. House,2,Shelley Shoemake,Reform,1
-Coahoma,TOTAL,U.S. House,2,Bennie G. Thompson,Democrat,3596
-Coahoma,TOTAL,U.S. House,2,Troy Ray,Independent,928
-Coahoma,TOTAL,U.S. House,2,Shelley Shoemake,Reform,248
 Union,Beacon Hill,U.S. House,1,Ron E. Dickey,Democrat,68
 Union,Beacon Hill,U.S. House,1,Alan Nunnelee,Republican,239
 Union,Beacon Hill,U.S. House,1,Danny Bedwell,Libertarian,10
@@ -2628,10 +2509,6 @@ Union,West Union,U.S. House,1,Ron E. Dickey,Democrat,28
 Union,West Union,U.S. House,1,Alan Nunnelee,Republican,232
 Union,West Union,U.S. House,1,Danny Bedwell,Libertarian,9
 Union,West Union,U.S. House,1,Lajena Walley,Reform,2
-Union,TOTAL,U.S. House,1,Ron E. Dickey,Democrat,998
-Union,TOTAL,U.S. House,1,Alan Nunnelee,Republican,4429
-Union,TOTAL,U.S. House,1,Danny Bedwell,Libertarian,100
-Union,TOTAL,U.S. House,1,Lajena Walley,Reform,36
 Benton,Ashland District 3,U.S. House,1,Ron E. Dickey,Democrat,146
 Benton,Ashland District 3,U.S. House,1,Alan Nunnelee,Republican,216
 Benton,Ashland District 3,U.S. House,1,Danny Bedwell,Libertarian,4
@@ -2652,10 +2529,6 @@ Benton,Lamar District 2,U.S. House,1,Ron E. Dickey,Democrat,235
 Benton,Lamar District 2,U.S. House,1,Alan Nunnelee,Republican,82
 Benton,Lamar District 2,U.S. House,1,Danny Bedwell,Libertarian,4
 Benton,Lamar District 2,U.S. House,1,Lajena Walley,Reform,4
-Benton,TOTAL,U.S. House,1,Ron E. Dickey,Democrat,725
-Benton,TOTAL,U.S. House,1,Alan Nunnelee,Republican,1088
-Benton,TOTAL,U.S. House,1,Danny Bedwell,Libertarian,33
-Benton,TOTAL,U.S. House,1,Lajena Walley,Reform,16
 Wilkinson,Centreville 1st 1020,U.S. House,3,Roger Gerrard,Independent,5
 Wilkinson,Centreville 1st 1020,U.S. House,3,Gregg Harper,Republican,52
 Wilkinson,Centreville 1st 1020,U.S. House,3,Douglas MacArthur (Doug) Magee,Democrat,157
@@ -2692,10 +2565,6 @@ Wilkinson,Woodville 2nd 2010,U.S. House,3,Roger Gerrard,Independent,4
 Wilkinson,Woodville 2nd 2010,U.S. House,3,Gregg Harper,Republican,46
 Wilkinson,Woodville 2nd 2010,U.S. House,3,Douglas MacArthur (Doug) Magee,Democrat,214
 Wilkinson,Woodville 2nd 2010,U.S. House,3,Barbara Dale Washer,Reform,2
-Wilkinson,TOTAL,U.S. House,3,Roger Gerrard,Independent,41
-Wilkinson,TOTAL,U.S. House,3,Gregg Harper,Republican,807
-Wilkinson,TOTAL,U.S. House,3,Douglas MacArthur (Doug) Magee,Democrat,1240
-Wilkinson,TOTAL,U.S. House,3,Barbara Dale Washer,Reform,20
 Harrison,Advance,U.S. House,4,Matt Moore,Democrat,60
 Harrison,Advance,U.S. House,4,Steven McCarty Palazzo,Republican,327
 Harrison,Advance,U.S. House,4,Cindy Burleson,Independent,20
@@ -3050,12 +2919,6 @@ Harrison,White Plains,U.S. House,4,Cindy Burleson,Independent,13
 Harrison,White Plains,U.S. House,4,Eli Jackson,Reform,1
 Harrison,White Plains,U.S. House,4,Ed Reich,Independent,5
 Harrison,White Plains,U.S. House,4,Joey Robinson,Libertarian,4
-Harrison,TOTAL,U.S. House,4,Matt Moore,Democrat,10118
-Harrison,TOTAL,U.S. House,4,Steven McCarty Palazzo,Republican,21472
-Harrison,TOTAL,U.S. House,4,Cindy Burleson,Independent,921
-Harrison,TOTAL,U.S. House,4,Eli Jackson,Reform,150
-Harrison,TOTAL,U.S. House,4,Ed Reich,Independent,231
-Harrison,TOTAL,U.S. House,4,Joey Robinson,Libertarian,982
 Lawrence,Armory,U.S. Senate,,Travis W. Childers,Democrat,11
 Lawrence,Armory,U.S. Senate,,Thad Cochran,Republican,57
 Lawrence,Armory,U.S. Senate,,Shawn O'Hara,Reform,0
@@ -3238,13 +3101,6 @@ Lawrence,West Monticello,U.S. House,3,Gregg Harper,Republican,154
 Lawrence,West Monticello,U.S. House,3,Douglas MacArthur (Doug) Magee,Democrat,127
 Lawrence,West Monticello,U.S. House,3,Roger Gerrard,Independent,6
 Lawrence,West Monticello,U.S. House,3,Barbara Dale Washer,Reform,1
-Lawrence,Total,U.S. Senate,,Travis W. Childers,Democrat,1183
-Lawrence,Total,U.S. Senate,,Thad Cochran,Republican,2142
-Lawrence,Total,U.S. Senate,,Shawn O'Hara,Reform,66
-Lawrence,Total,U.S. House,3,Gregg Harper,Republican,2260
-Lawrence,Total,U.S. House,3,Douglas MacArthur (Doug) Magee,Democrat,1026
-Lawrence,Total,U.S. House,3,Roger Gerrard,Independent,42
-Lawrence,Total,U.S. House,3,Barbara Dale Washer,Reform,29
 Lee,Auburn,U.S. Senate,,Travis W. Childers,Democrat,112
 Lee,Auburn,U.S. Senate,,Thad Cochran,Republican,362
 Lee,Auburn,U.S. Senate,,Shawn O'Hara,Reform,8
@@ -3359,9 +3215,6 @@ Lee,Unity,U.S. Senate,,Shawn O'Hara,Reform,7
 Lee,Verona,U.S. Senate,,Travis W. Childers,Democrat,285
 Lee,Verona,U.S. Senate,,Thad Cochran,Republican,215
 Lee,Verona,U.S. Senate,,Shawn O'Hara,Reform,8
-Lee,Total,U.S. Senate,,Travis W. Childers,Democrat,6790
-Lee,Total,U.S. Senate,,Thad Cochran,Republican,11792
-Lee,Total,U.S. Senate,,Shawn O'Hara,Reform,283
 Noxubee,Brooksville,U.S. House,3,Douglas MacArthur (Doug) Magee,Democrat,368
 Noxubee,Brooksville,U.S. House,3,Gregg Harper,Republican,185
 Noxubee,Brooksville,U.S. House,3,Roger Gerrard,Independent,8
@@ -3398,10 +3251,6 @@ Noxubee,Vo-Tech,U.S. House,3,Douglas MacArthur (Doug) Magee,Democrat,0
 Noxubee,Vo-Tech,U.S. House,3,Gregg Harper,Republican,0
 Noxubee,Vo-Tech,U.S. House,3,Roger Gerrard,Independent,0
 Noxubee,Vo-Tech,U.S. House,3,Barbara Dale Washer,Reform,0
-Noxubee,TOTAL,U.S. House,3,Douglas MacArthur (Doug) Magee,Democrat,1788
-Noxubee,TOTAL,U.S. House,3,Gregg Harper,Republican,827
-Noxubee,TOTAL,U.S. House,3,Roger Gerrard,Independent,23
-Noxubee,TOTAL,U.S. House,3,Barbara Dale Washer,Reform,28
 Perry,Arlington 4100,U.S. House,4,Matt Moore,Democrat,32
 Perry,Arlington 4100,U.S. House,4,Steven McCarty Palazzo,Republican,178
 Perry,Arlington 4100,U.S. House,4,Cindy Burleson,Independent,3
@@ -3498,12 +3347,6 @@ Perry,Thompson Hill 5130,U.S. House,4,Cindy Burleson,Independent,1
 Perry,Thompson Hill 5130,U.S. House,4,Eli Jackson,Reform,0
 Perry,Thompson Hill 5130,U.S. House,4,Ed Reich,Independent,0
 Perry,Thompson Hill 5130,U.S. House,4,Joey Robinson,Libertarian,0
-Perry,TOTAL,U.S. House,4,Matt Moore,Democrat,582
-Perry,TOTAL,U.S. House,4,Steven McCarty Palazzo,Republican,2041
-Perry,TOTAL,U.S. House,4,Cindy Burleson,Independent,55
-Perry,TOTAL,U.S. House,4,Eli Jackson,Reform,25
-Perry,TOTAL,U.S. House,4,Ed Reich,Independent,17
-Perry,TOTAL,U.S. House,4,Joey Robinson,Libertarian,30
 Chickasaw,Anchor 001,U.S. House,1,Ron E. Dickey,Democrat,73
 Chickasaw,Anchor 001,U.S. House,1,Alan Nunnelee,Republican,273
 Chickasaw,Anchor 001,U.S. House,1,Danny Bedwell,Libertarian,2
@@ -3564,10 +3407,6 @@ Chickasaw,Woodland 015,U.S. House,1,Ron E. Dickey,Democrat,48
 Chickasaw,Woodland 015,U.S. House,1,Alan Nunnelee,Republican,67
 Chickasaw,Woodland 015,U.S. House,1,Danny Bedwell,Libertarian,3
 Chickasaw,Woodland 015,U.S. House,1,Lajena Walley,Reform,1
-Chickasaw,TOTAL,U.S. House,1,Ron E. Dickey,Democrat,1845
-Chickasaw,TOTAL,U.S. House,1,Alan Nunnelee,Republican,2212
-Chickasaw,TOTAL,U.S. House,1,Danny Bedwell,Libertarian,72
-Chickasaw,TOTAL,U.S. House,1,Lajena Walley,Reform,26
 Yazoo,3-1 West,U.S. Senate,,Travis W. Childers,Democrat,88
 Yazoo,3-1 West,U.S. Senate,,Thad Cochran,Republican,11
 Yazoo,3-1 West,U.S. Senate,,Shawn O'Hara,Reform,0
@@ -3724,12 +3563,6 @@ Yazoo,Zion,U.S. Senate,,Shawn O'Hara,Reform,2
 Yazoo,Zion,U.S. House,2,Bennie G. Thompson,Democrat,36
 Yazoo,Zion,U.S. House,2,Troy Ray,Independent,56
 Yazoo,Zion,U.S. House,2,Shelley Shoemake,Reform,15
-Yazoo,Total,U.S. Senate,,Travis W. Childers,Democrat,2074
-Yazoo,Total,U.S. Senate,,Thad Cochran,Republican,2758
-Yazoo,Total,U.S. Senate,,Shawn O'Hara,Reform,57
-Yazoo,Total,U.S. House,2,Bennie G. Thompson,Democrat,2675
-Yazoo,Total,U.S. House,2,Troy Ray,Independent,1481
-Yazoo,Total,U.S. House,2,Shelley Shoemake,Reform,432
 Montgomery,Duck Hill,U.S. House,2,Bennie G. Thompson,Democrat,123
 Montgomery,Duck Hill,U.S. House,2,Troy Ray,Independent,93
 Montgomery,Duck Hill,U.S. House,2,Shelley Shoemake,Reform,18
@@ -3775,9 +3608,6 @@ Montgomery,Stewart,U.S. House,2,Shelley Shoemake,Reform,4
 Montgomery,West Winona,U.S. House,2,Bennie G. Thompson,Democrat,95
 Montgomery,West Winona,U.S. House,2,Troy Ray,Independent,139
 Montgomery,West Winona,U.S. House,2,Shelley Shoemake,Reform,34
-Montgomery,TOTAL,U.S. House,2,Bennie G. Thompson,Democrat,1452
-Montgomery,TOTAL,U.S. House,2,Troy Ray,Independent,950
-Montgomery,TOTAL,U.S. House,2,Shelley Shoemake,Reform,207
 Winston,American Legion,U.S. Senate,,Travis W. Childers,Democrat,351
 Winston,American Legion,U.S. Senate,,Thad Cochran,Republican,85
 Winston,American Legion,U.S. Senate,,Shawn O'Hara,Reform,3
@@ -3814,9 +3644,6 @@ Winston,Shiloh,U.S. Senate,,Shawn O'Hara,Reform,2
 Winston,Zion Ridge,U.S. Senate,,Travis W. Childers,Democrat,229
 Winston,Zion Ridge,U.S. Senate,,Thad Cochran,Republican,38
 Winston,Zion Ridge,U.S. Senate,,Shawn O'Hara,Reform,2
-Winston,Total,U.S. Senate,,Travis W. Childers,Democrat,2155
-Winston,Total,U.S. Senate,,Thad Cochran,Republican,2783
-Winston,Total,U.S. Senate,,Shawn O'Hara,Reform,57
 Grenada,Box 1,U.S. House,2,Bennie G. Thompson,Democrat,333
 Grenada,Box 1,U.S. House,2,Troy Ray,Independent,364
 Grenada,Box 1,U.S. House,2,Shelley Shoemake,Reform,92
@@ -3853,9 +3680,6 @@ Grenada,Pleasant Grove Commun Cen,U.S. House,2,Shelley Shoemake,Reform,21
 Grenada,Sweethome Hol #2 Fire Stat,U.S. House,2,Bennie G. Thompson,Democrat,66
 Grenada,Sweethome Hol #2 Fire Stat,U.S. House,2,Troy Ray,Independent,80
 Grenada,Sweethome Hol #2 Fire Stat,U.S. House,2,Shelley Shoemake,Reform,20
-Grenada,TOTAL,U.S. House,2,Bennie G. Thompson,Democrat,2815
-Grenada,TOTAL,U.S. House,2,Troy Ray,Independent,1903
-Grenada,TOTAL,U.S. House,2,Shelley Shoemake,Reform,459
 Pearl River,Anchor Lake/West Union Beat 5,U.S. House,4,Matt Moore,Democrat,35
 Pearl River,Anchor Lake/West Union Beat 5,U.S. House,4,Steven McCarty Palazzo,Republican,298
 Pearl River,Anchor Lake/West Union Beat 5,U.S. House,4,Cindy Burleson,Independent,9
@@ -4054,12 +3878,6 @@ Pearl River,Whitesand Bt 1,U.S. House,4,Cindy Burleson,Independent,1
 Pearl River,Whitesand Bt 1,U.S. House,4,Eli Jackson,Reform,1
 Pearl River,Whitesand Bt 1,U.S. House,4,Ed Reich,Independent,1
 Pearl River,Whitesand Bt 1,U.S. House,4,Joey Robinson,Libertarian,4
-Pearl River,TOTAL,U.S. House,4,Matt Moore,Democrat,1769
-Pearl River,TOTAL,U.S. House,4,Steven McCarty Palazzo,Republican,8583
-Pearl River,TOTAL,U.S. House,4,Cindy Burleson,Independent,262
-Pearl River,TOTAL,U.S. House,4,Eli Jackson,Reform,76
-Pearl River,TOTAL,U.S. House,4,Ed Reich,Independent,62
-Pearl River,TOTAL,U.S. House,4,Joey Robinson,Libertarian,250
 Rankin,Antioch,U.S. Senate,,Travis W. Childers,Democrat,14
 Rankin,Antioch,U.S. Senate,,Thad Cochran,Republican,113
 Rankin,Antioch,U.S. Senate,,Shawn O'Hara,Reform,2
@@ -4410,13 +4228,6 @@ Rankin,Y M C A,U.S. House,3,Gregg Harper,Republican,366
 Rankin,Y M C A,U.S. House,3,Douglas MacArthur (Doug) Magee,Democrat,40
 Rankin,Y M C A,U.S. House,3,Roger Gerrard,Independent,15
 Rankin,Y M C A,U.S. House,3,Barbara Dale Washer,Reform,5
-Rankin,Total,U.S. Senate,,Travis W. Childers,Democrat,6840
-Rankin,Total,U.S. Senate,,Thad Cochran,Republican,24552
-Rankin,Total,U.S. Senate,,Shawn O'Hara,Reform,728
-Rankin,Total,U.S. House,3,Gregg Harper,Republican,25973
-Rankin,Total,U.S. House,3,Douglas MacArthur (Doug) Magee,Democrat,4867
-Rankin,Total,U.S. House,3,Roger Gerrard,Independent,1249
-Rankin,Total,U.S. House,3,Barbara Dale Washer,Reform,335
 Tate,Arkabutla,U.S. House,1,Ron E. Dickey,Democrat,85
 Tate,Arkabutla,U.S. House,1,Alan Nunnelee,Republican,172
 Tate,Arkabutla,U.S. House,1,Danny Bedwell,Libertarian,10
@@ -4497,10 +4308,6 @@ Tate,Wyatte,U.S. House,1,Ron E. Dickey,Democrat,13
 Tate,Wyatte,U.S. House,1,Alan Nunnelee,Republican,66
 Tate,Wyatte,U.S. House,1,Danny Bedwell,Libertarian,5
 Tate,Wyatte,U.S. House,1,Lajena Walley,Reform,1
-Tate,TOTAL,U.S. House,1,Ron E. Dickey,Democrat,1425
-Tate,TOTAL,U.S. House,1,Alan Nunnelee,Republican,3388
-Tate,TOTAL,U.S. House,1,Danny Bedwell,Libertarian,146
-Tate,TOTAL,U.S. House,1,Lajena Walley,Reform,24
 Jackson,American Legion,U.S. House,4,Matt Moore,Democrat,37
 Jackson,American Legion,U.S. House,4,Steven McCarty Palazzo,Republican,204
 Jackson,American Legion,U.S. House,4,Cindy Burjeson,Independent,5
@@ -4687,12 +4494,6 @@ Jackson,YMBC-Dantzler,U.S. House,4,Cindy Burjeson,Independent,11
 Jackson,YMBC-Dantzler,U.S. House,4,Eli Jackson,Reform,5
 Jackson,YMBC-Dantzler,U.S. House,4,Ed Relch,Independent,3
 Jackson,YMBC-Dantzler,U.S. House,4,Joey Robinson,Libertarian,13
-Jackson,TOTAL,U.S. House,4,Matt Moore,Democrat,7557
-Jackson,TOTAL,U.S. House,4,Steven McCarty Palazzo,Republican,21374
-Jackson,TOTAL,U.S. House,4,Cindy Burjeson,Independent,700
-Jackson,TOTAL,U.S. House,4,Eli Jackson,Reform,149
-Jackson,TOTAL,U.S. House,4,Ed Relch,Independent,178
-Jackson,TOTAL,U.S. House,4,Joey Robinson,Libertarian,682
 Newton,Chunky,U.S. House,3,Gregg Harper,Republican,187
 Newton,Chunky,U.S. House,3,Douglas MacArthur (Doug) Magee,Democrat,11
 Newton,Chunky,U.S. House,3,Roger Gerrard,Independent,5
@@ -4757,10 +4558,6 @@ Newton,Union #3,U.S. House,3,Gregg Harper,Republican,172
 Newton,Union #3,U.S. House,3,Douglas MacArthur (Doug) Magee,Democrat,34
 Newton,Union #3,U.S. House,3,Roger Gerrard,Independent,1
 Newton,Union #3,U.S. House,3,Barbara Dale Washer,Reform,1
-Newton,TOTAL,U.S. House,3,Gregg Harper,Republican,3819
-Newton,TOTAL,U.S. House,3,Douglas MacArthur (Doug) Magee,Democrat,1124
-Newton,TOTAL,U.S. House,3,Roger Gerrard,Independent,59
-Newton,TOTAL,U.S. House,3,Barbara Dale Washer,Reform,18
 Tishomingo,Iuka,U.S. House,1,Ron E. Dickey,Democrat,198
 Tishomingo,Iuka,U.S. House,1,Alan Nunnelee,Republican,680
 Tishomingo,Iuka,U.S. House,1,Danny Bedwell,Libertarian,42
@@ -4817,10 +4614,6 @@ Tishomingo,Tishomingo,U.S. House,1,Ron E. Dickey,Democrat,142
 Tishomingo,Tishomingo,U.S. House,1,Alan Nunnelee,Republican,406
 Tishomingo,Tishomingo,U.S. House,1,Danny Bedwell,Libertarian,16
 Tishomingo,Tishomingo,U.S. House,1,Lajena Walley,Reform,4
-Tishomingo,TOTAL,U.S. House,1,Ron E. Dickey,Democrat,842
-Tishomingo,TOTAL,U.S. House,1,Alan Nunnelee,Republican,3455
-Tishomingo,TOTAL,U.S. House,1,Danny Bedwell,Libertarian,152
-Tishomingo,TOTAL,U.S. House,1,Lajena Walley,Reform,39
 Webster,Bellefontaine,U.S. House,1,Ron E. Dickey,Democrat,11
 Webster,Bellefontaine,U.S. House,1,Alan Nunnelee,Republican,118
 Webster,Bellefontaine,U.S. House,1,Danny Bedwell,Libertarian,2
@@ -4889,10 +4682,6 @@ Webster,Walthall,U.S. House,1,Ron E. Dickey,Democrat,15
 Webster,Walthall,U.S. House,1,Alan Nunnelee,Republican,137
 Webster,Walthall,U.S. House,1,Danny Bedwell,Libertarian,4
 Webster,Walthall,U.S. House,1,Lajena Walley,Reform,0
-Webster,TOTAL,U.S. House,1,Ron E. Dickey,Democrat,485
-Webster,TOTAL,U.S. House,1,Alan Nunnelee,Republican,2222
-Webster,TOTAL,U.S. House,1,Danny Bedwell,Libertarian,54
-Webster,TOTAL,U.S. House,1,Lajena Walley,Reform,5
 Jefferson Davis,Bassfield 26,U.S. House,3,Gregg Harper,Republican,129
 Jefferson Davis,Bassfield 26,U.S. House,3,Gouglas MacArthur (Doug) Magee,Democrat,120
 Jefferson Davis,Bassfield 26,U.S. House,3,Roger Gerrard,Independent,2
@@ -4985,10 +4774,6 @@ Jefferson Davis,Williamson Mill 44,U.S. House,3,Gregg Harper,Republican,106
 Jefferson Davis,Williamson Mill 44,U.S. House,3,Gouglas MacArthur (Doug) Magee,Democrat,61
 Jefferson Davis,Williamson Mill 44,U.S. House,3,Roger Gerrard,Independent,2
 Jefferson Davis,Williamson Mill 44,U.S. House,3,Barbara Dale Washer,Reform,1
-Jefferson Davis,TOTAL,U.S. House,3,Gregg Harper,Republican,1708
-Jefferson Davis,TOTAL,U.S. House,3,Gouglas MacArthur (Doug) Magee,Democrat,2035
-Jefferson Davis,TOTAL,U.S. House,3,Roger Gerrard,Independent,65
-Jefferson Davis,TOTAL,U.S. House,3,Barbara Dale Washer,Reform,58
 Issaquena,Addie Voting Precinct,U.S. House,2,Bennie G. Thompson,Democrat,72
 Issaquena,Addie Voting Precinct,U.S. House,2,Troy Ray,Independent,11
 Issaquena,Addie Voting Precinct,U.S. House,2,Shelley Shoemake,Reform,4
@@ -5004,9 +4789,6 @@ Issaquena,Tallula Community Center,U.S. House,2,Shelley Shoemake,Reform,11
 Issaquena,Valley Park Community Center,U.S. House,2,Bennie G. Thompson,Democrat,29
 Issaquena,Valley Park Community Center,U.S. House,2,Troy Ray,Independent,34
 Issaquena,Valley Park Community Center,U.S. House,2,Shelley Shoemake,Reform,8
-Issaquena,TOTAL,U.S. House,2,Bennie G. Thompson,Democrat,233
-Issaquena,TOTAL,U.S. House,2,Troy Ray,Independent,102
-Issaquena,TOTAL,U.S. House,2,Shelley Shoemake,Reform,32
 Jasper,Antioch,U.S. House,3,Gregg Harper,Republican,133
 Jasper,Antioch,U.S. House,3,Gouglas MacArthur (Doug) Magee,Democrat,10
 Jasper,Antioch,U.S. House,3,Roger Gerrard,Independent,4
@@ -5083,10 +4865,6 @@ Jasper,Vossburg,U.S. House,3,Gregg Harper,Republican,16
 Jasper,Vossburg,U.S. House,3,Gouglas MacArthur (Doug) Magee,Democrat,118
 Jasper,Vossburg,U.S. House,3,Roger Gerrard,Independent,0
 Jasper,Vossburg,U.S. House,3,Barbara Dale Washer,Reform,4
-Jasper,TOTAL,U.S. House,3,Gregg Harper,Republican,2305
-Jasper,TOTAL,U.S. House,3,Gouglas MacArthur (Doug) Magee,Democrat,2198
-Jasper,TOTAL,U.S. House,3,Roger Gerrard,Independent,91
-Jasper,TOTAL,U.S. House,3,Barbara Dale Washer,Reform,71
 Hinds,Bolton,U.S. House,2,Bennie G. Thompson,Democrat,495
 Hinds,Bolton,U.S. House,2,Troy Ray,Independent,74
 Hinds,Bolton,U.S. House,2,Shelley Shoemake,Reform,32
@@ -5441,9 +5219,6 @@ Hinds,Utica 1,U.S. House,2,Shelley Shoemake,Reform,43
 Hinds,Utica 2,U.S. House,2,Bennie G. Thompson,Democrat,288
 Hinds,Utica 2,U.S. House,2,Troy Ray,Independent,36
 Hinds,Utica 2,U.S. House,2,Shelley Shoemake,Reform,16
-Hinds,TOTAL,U.S. House,2,Bennie G. Thompson,Democrat,31039
-Hinds,TOTAL,U.S. House,2,Troy Ray,Independent,7869
-Hinds,TOTAL,U.S. House,2,Shelley Shoemake,Reform,2878
 Hinds,Bolton,U.S. House,3,Gregg Harper,Republican,X
 Hinds,Bolton,U.S. House,3,Douglas MacArthur (Doug) Magee,Democrat,X
 Hinds,Bolton,U.S. House,3,Roger Gerrard,Independent,X
@@ -5916,10 +5691,6 @@ Hinds,Utica 2,U.S. House,3,Gregg Harper,Republican,X
 Hinds,Utica 2,U.S. House,3,Douglas MacArthur (Doug) Magee,Democrat,X
 Hinds,Utica 2,U.S. House,3,Roger Gerrard,Independent,X
 Hinds,Utica 2,U.S. House,3,Barbara Dale Washer,Reform,X
-Hinds,TOTAL,U.S. House,3,Gregg Harper,Republican,5962
-Hinds,TOTAL,U.S. House,3,Douglas MacArthur (Doug) Magee,Democrat,2342
-Hinds,TOTAL,U.S. House,3,Roger Gerrard,Independent,124
-Hinds,TOTAL,U.S. House,3,Barbara Dale Washer,Reform,58
 Marshall,1 North Holly Springs,U.S. House,1,Ron E. Dickey,Democrat,289
 Marshall,1 North Holly Springs,U.S. House,1,Alan Nunnelee,Republican,118
 Marshall,1 North Holly Springs,U.S. House,1,Danny Bedwell,Libertarian,5
@@ -6016,10 +5787,6 @@ Marshall,5 Waterford,U.S. House,1,Ron E. Dickey,Democrat,119
 Marshall,5 Waterford,U.S. House,1,Alan Nunnelee,Republican,169
 Marshall,5 Waterford,U.S. House,1,Danny Bedwell,Libertarian,3
 Marshall,5 Waterford,U.S. House,1,Lajena Walley,Reform,2
-Marshall,TOTAL,U.S. House,1,Ron E. Dickey,Democrat,3466
-Marshall,TOTAL,U.S. House,1,Alan Nunnelee,Republican,3484
-Marshall,TOTAL,U.S. House,1,Danny Bedwell,Libertarian,119
-Marshall,TOTAL,U.S. House,1,Lajena Walley,Reform,68
 Jefferson,CANNONSBURG,U.S. Senate,,Travis W. Childers,Democrat,113
 Jefferson,CANNONSBURG,U.S. Senate,,Thad Cochran,Republican,12
 Jefferson,CANNONSBURG,U.S. Senate,,Shawn O'Hara,Reform,1
@@ -6104,12 +5871,6 @@ Jefferson,UNION CHURCH,U.S. Senate,,Shawn O'Hara,Reform,4
 Jefferson,UNION CHURCH,U.S. House,2,Bennie G. Thompson,Democrat,92
 Jefferson,UNION CHURCH,U.S. House,2,Troy Ray,Independent,36
 Jefferson,UNION CHURCH,U.S. House,2,Shelley Shoemake,Reform,20
-Jefferson,TOTAL,U.S. Senate,,Travis W. Childers,Democrat,1455
-Jefferson,TOTAL,U.S. Senate,,Thad Cochran,Republican,444
-Jefferson,TOTAL,U.S. Senate,,Shawn O'Hara,Reform,16
-Jefferson,TOTAL,U.S. House,2,Bennie G. Thompson,Democrat,1679
-Jefferson,TOTAL,U.S. House,2,Troy Ray,Independent,173
-Jefferson,TOTAL,U.S. House,2,Shelley Shoemake,Reform,49
 Oktibbeha,Bell Schoolhouse,U.S. House,1,Ron E. Dickey,Democrat,122
 Oktibbeha,Bell Schoolhouse,U.S. House,1,Alan Nunnelee,Republican,86
 Oktibbeha,Bell Schoolhouse,U.S. House,1,Danny Bedwell,Libertarian,1
@@ -6194,10 +5955,6 @@ Oktibbeha,West Starkville,U.S. House,1,Ron E. Dickey,Democrat,X
 Oktibbeha,West Starkville,U.S. House,1,Alan Nunnelee,Republican,X
 Oktibbeha,West Starkville,U.S. House,1,Danny Bedwell,Libertarian,X
 Oktibbeha,West Starkville,U.S. House,1,Lajena Walley,Reform,X
-Oktibbeha,TOTAL,U.S. House,1,Ron E. Dickey,Democrat,291
-Oktibbeha,TOTAL,U.S. House,1,Alan Nunnelee,Republican,515
-Oktibbeha,TOTAL,U.S. House,1,Danny Bedwell,Libertarian,12
-Oktibbeha,TOTAL,U.S. House,1,Lajena Walley,Reform,5
 Oktibbeha,Bell Schoolhouse,U.S. House,3,Gregg Harper,Republican,x
 Oktibbeha,Bell Schoolhouse,U.S. House,3,Douglas MacArthur (Doug) Magee,Democrat,x
 Oktibbeha,Bell Schoolhouse,U.S. House,3,Roger Gerrard,Independent,x
@@ -6282,10 +6039,6 @@ Oktibbeha,West Starkville,U.S. House,3,Gregg Harper,Republican,713
 Oktibbeha,West Starkville,U.S. House,3,Douglas MacArthur (Doug) Magee,Democrat,395
 Oktibbeha,West Starkville,U.S. House,3,Roger Gerrard,Independent,20
 Oktibbeha,West Starkville,U.S. House,3,Barbara Dale Washer,Reform,10
-Oktibbeha,TOTAL,U.S. House,3,Gregg Harper,Republican,4840
-Oktibbeha,TOTAL,U.S. House,3,Douglas MacArthur (Doug) Magee,Democrat,3051
-Oktibbeha,TOTAL,U.S. House,3,Roger Gerrard,Independent,118
-Oktibbeha,TOTAL,U.S. House,3,Barbara Dale Washer,Reform,64
 Hancock,Arlington,U.S. House,4,Matt Moore,Democrat,53
 Hancock,Arlington,U.S. House,4,Steven McCarty Palazzo,Republican,143
 Hancock,Arlington,U.S. House,4,Cindy Burleson,Independent,4
@@ -6436,12 +6189,6 @@ Hancock,West Shoreline Park,U.S. House,4,Cindy Burleson,Independent,8
 Hancock,West Shoreline Park,U.S. House,4,Eli Jackson,Reform,1
 Hancock,West Shoreline Park,U.S. House,4,Ed Reich,Independent,1
 Hancock,West Shoreline Park,U.S. House,4,Joey Robinson,Libertarian,3
-Hancock,TOTAL,U.S. House,4,Matt Moore,Democrat,1994
-Hancock,TOTAL,U.S. House,4,Steven McCarty Palazzo,Republican,6470
-Hancock,TOTAL,U.S. House,4,Cindy Burleson,Independent,364
-Hancock,TOTAL,U.S. House,4,Eli Jackson,Reform,59
-Hancock,TOTAL,U.S. House,4,Ed Reich,Independent,69
-Hancock,TOTAL,U.S. House,4,Joey Robinson,Libertarian,196
 Lowndes,Airbase,U.S. House,1,Danny Bedwell,Libertarian,11
 Lowndes,Airbase,U.S. House,1,Ron E. Dickey,Democrat,206
 Lowndes,Airbase,U.S. House,1,Alan Nunnelee,Republican,251
@@ -6530,10 +6277,6 @@ Lowndes,West Lowndes,U.S. House,1,Danny Bedwell,Libertarian,13
 Lowndes,West Lowndes,U.S. House,1,Ron E. Dickey,Democrat,114
 Lowndes,West Lowndes,U.S. House,1,Alan Nunnelee,Republican,459
 Lowndes,West Lowndes,U.S. House,1,Lajena Walley,Reform,6
-Lowndes,TOTAL,U.S. House,1,Danny Bedwell,Libertarian,343
-Lowndes,TOTAL,U.S. House,1,Ron E. Dickey,Democrat,5279
-Lowndes,TOTAL,U.S. House,1,Alan Nunnelee,Republican,8514
-Lowndes,TOTAL,U.S. House,1,Lajena Walley,Reform,66
 Leake,Conway,U.S. Senate,,Travis W. Childers,Democrat,118
 Leake,Conway,U.S. Senate,,Thad Cochran,Republican,53
 Leake,Conway,U.S. Senate,,Shawn O'Hara,Reform,1
@@ -6648,12 +6391,6 @@ Leake,Wiggins,U.S. Senate,,Shawn O'Hara,Reform,2
 Leake,Wiggins,U.S. House,2,Troy Ray,Independent,29
 Leake,Wiggins,U.S. House,2,Shelley Shoemake,Reform,15
 Leake,Wiggins,U.S. House,2,Bennie G. Thompson,Democrat,107
-Leake,Total,U.S. Senate,,Travis W. Childers,Democrat,1923
-Leake,Total,U.S. Senate,,Thad Cochran,Republican,2667
-Leake,Total,U.S. Senate,,Shawn O'Hara,Reform,96
-Leake,Total,U.S. House,2,Troy Ray,Independent,1447
-Leake,Total,U.S. House,2,Shelley Shoemake,Reform,602
-Leake,Total,U.S. House,2,Bennie G. Thompson,Democrat,2304
 Bolivar,Benoit,U.S. House,2,Troy Ray,Independent,32
 Bolivar,Benoit,U.S. House,2,Shelley Shoemake,Reform,19
 Bolivar,Benoit,U.S. House,2,Bennie G. Thompson,Democrat,150
@@ -6738,9 +6475,6 @@ Bolivar,West Rosedale,U.S. House,2,Bennie G. Thompson,Democrat,175
 Bolivar,Winstonville,U.S. House,2,Troy Ray,Independent,3
 Bolivar,Winstonville,U.S. House,2,Shelley Shoemake,Reform,1
 Bolivar,Winstonville,U.S. House,2,Bennie G. Thompson,Democrat,149
-Bolivar,TOTAL,U.S. House,2,Troy Ray,Independent,1597
-Bolivar,TOTAL,U.S. House,2,Shelley Shoemake,Reform,676
-Bolivar,TOTAL,U.S. House,2,Bennie G. Thompson,Democrat,6099
 Clarke,Beaverdam,U.S. House,3,Roger Gerrard,Independent,6
 Clarke,Beaverdam,U.S. House,3,Gregg Harper,Republican,35
 Clarke,Beaverdam,U.S. House,3,Douglas MacArthur (Doug) Magee,Democrat,73
@@ -6833,10 +6567,6 @@ Clarke,Union,U.S. House,3,Roger Gerrard,Independent,13
 Clarke,Union,U.S. House,3,Gregg Harper,Republican,316
 Clarke,Union,U.S. House,3,Douglas MacArthur (Doug) Magee,Democrat,10
 Clarke,Union,U.S. House,3,Barbara Dale Washer,Reform,1
-Clarke,TOTAL,U.S. House,3,Roger Gerrard,Independent,91
-Clarke,TOTAL,U.S. House,3,Gregg Harper,Republican,2656
-Clarke,TOTAL,U.S. House,3,Douglas MacArthur (Doug) Magee,Democrat,779
-Clarke,TOTAL,U.S. House,3,Barbara Dale Washer,Reform,27
 Clarke,Beaverdam,U.S. House,4,Cindy Burleson,Independent,x
 Clarke,Beaverdam,U.S. House,4,Eli Jackson,Reform,x
 Clarke,Beaverdam,U.S. House,4,Matt Moore,Democrat,x
@@ -6975,12 +6705,6 @@ Clarke,Union,U.S. House,4,Matt Moore,Democrat,x
 Clarke,Union,U.S. House,4,Steven McCarty Palazzo,Republican,x
 Clarke,Union,U.S. House,4,Ed Reich,Independent,x
 Clarke,Union,U.S. House,4,Joey Robinson,Libertarian,x
-Clarke,TOTAL,U.S. House,4,Cindy Burleson,Independent,11
-Clarke,TOTAL,U.S. House,4,Eli Jackson,Reform,6
-Clarke,TOTAL,U.S. House,4,Matt Moore,Democrat,277
-Clarke,TOTAL,U.S. House,4,Steven McCarty Palazzo,Republican,254
-Clarke,TOTAL,U.S. House,4,Ed Reich,Independent,4
-Clarke,TOTAL,U.S. House,4,Joey Robinson,Libertarian,4
 Tunica,Robinsonville Community Center,U.S. Senate,,Travis W. Childers,Democrat,84
 Tunica,Robinsonville Community Center,U.S. Senate,,Thad Cochran,Republican,26
 Tunica,Robinsonville Community Center,U.S. Senate,,Shawn O'Hara,Reform,1
@@ -7545,9 +7269,6 @@ Jones,TUCKERS,U.S. Senate,,Shawn O'Hara,Reform,26
 Jones,UNION,U.S. Senate,,Travis W. Childers,Democrat,81
 Jones,UNION,U.S. Senate,,Thad Cochran,Republican,268
 Jones,UNION,U.S. Senate,,Shawn O'Hara,Reform,15
-Jones,TOTAL,U.S. Senate,,Travis W. Childers,Democrat,6540
-Jones,TOTAL,U.S. Senate,,Thad Cochran,Republican,9444
-Jones,TOTAL,U.S. Senate,,Shawn O'Hara,Reform,742
 Smith,Ag-Complex,U.S. House,3,Gregg Harper,Republican,254
 Smith,Ag-Complex,U.S. House,3,Douglas MacArthur (Doug) Magee,Democrat,26
 Smith,Ag-Complex,U.S. House,3,Roger Gerrard,Independent,10
@@ -7624,10 +7345,6 @@ Smith,Zion Hill-New Haven,U.S. House,3,Gregg Harper,Republican,283
 Smith,Zion Hill-New Haven,U.S. House,3,Douglas MacArthur (Doug) Magee,Democrat,78
 Smith,Zion Hill-New Haven,U.S. House,3,Roger Gerrard,Independent,10
 Smith,Zion Hill-New Haven,U.S. House,3,Barbara Dale Washer,Reform,7
-Smith,TOTAL,U.S. House,3,Gregg Harper,Republican,3284
-Smith,TOTAL,U.S. House,3,Douglas MacArthur (Doug) Magee,Democrat,875
-Smith,TOTAL,U.S. House,3,Roger Gerrard,Independent,129
-Smith,TOTAL,U.S. House,3,Barbara Dale Washer,Reform,42
 Lamar,Arnold Line,U.S. Senate,,Travis W. Childers,Democrat,140
 Lamar,Arnold Line,U.S. Senate,,Thad Cochran,Republican,393
 Lamar,Arnold Line,U.S. Senate,,Shawn O'Hara,Reform,12
@@ -7817,15 +7534,6 @@ Lamar,Yawn,U.S. House,4,Matt Moore,Democrat,9
 Lamar,Yawn,U.S. House,4,Steven McCarty Palazzo,Republican,112
 Lamar,Yawn,U.S. House,4,Ed Reich,Independent,0
 Lamar,Yawn,U.S. House,4,Joey Robinson,Libertarian,4
-Lamar,Total,U.S. Senate,,Travis W. Childers,Democrat,2786
-Lamar,Total,U.S. Senate,,Thad Cochran,Republican,10399
-Lamar,Total,U.S. Senate,,Shawn O'Hara,Reform,413
-Lamar,Total,U.S. House,4,Cindy Burleson,Independent,320
-Lamar,Total,U.S. House,4,Eli Jackson,Reform,67
-Lamar,Total,U.S. House,4,Matt Moore,Democrat,2138
-Lamar,Total,U.S. House,4,Steven McCarty Palazzo,Republican,11015
-Lamar,Total,U.S. House,4,Ed Reich,Independent,73
-Lamar,Total,U.S. House,4,Joey Robinson,Libertarian,264
 Greene,Jonathan,U.S. House,4,Matt Moore,Democrat,9
 Greene,Jonathan,U.S. House,4,Steven McCarty Palazzo,Republican,155
 Greene,Jonathan,U.S. House,4,Cindy Burleson,Independent,3
@@ -7904,12 +7612,6 @@ Greene,Washington Neely,U.S. House,4,Cindy Burleson,Independent,3
 Greene,Washington Neely,U.S. House,4,Eli Jackson,Reform,0
 Greene,Washington Neely,U.S. House,4,Ed Relch,Independent,0
 Greene,Washington Neely,U.S. House,4,Joey Robinson,Libertarian,3
-Greene,TOTAL,U.S. House,4,Matt Moore,Democrat,416
-Greene,TOTAL,U.S. House,4,Steven McCarty Palazzo,Republican,1944
-Greene,TOTAL,U.S. House,4,Cindy Burleson,Independent,41
-Greene,TOTAL,U.S. House,4,Eli Jackson,Reform,9
-Greene,TOTAL,U.S. House,4,Ed Relch,Independent,10
-Greene,TOTAL,U.S. House,4,Joey Robinson,Libertarian,31
 Franklin,Antioch,U.S. House,3,Gregg Harper,Republican,103
 Franklin,Antioch,U.S. House,3,Gouglas MacArthur (Doug) Magee,Democrat,77
 Franklin,Antioch,U.S. House,3,Roger Gerrard,Independent,2
@@ -7966,10 +7668,6 @@ Franklin,Whittington,U.S. House,3,Gregg Harper,Republican,136
 Franklin,Whittington,U.S. House,3,Gouglas MacArthur (Doug) Magee,Democrat,14
 Franklin,Whittington,U.S. House,3,Roger Gerrard,Independent,7
 Franklin,Whittington,U.S. House,3,Barbara Dale Washer,Reform,2
-Franklin,TOTAL,U.S. House,3,Gregg Harper,Republican,1496
-Franklin,TOTAL,U.S. House,3,Gouglas MacArthur (Doug) Magee,Democrat,678
-Franklin,TOTAL,U.S. House,3,Roger Gerrard,Independent,38
-Franklin,TOTAL,U.S. House,3,Barbara Dale Washer,Reform,28
 Desoto,Alphaba-Cockrum,U.S. House,1,Ron E. Dickey,Democrat,33
 Desoto,Alphaba-Cockrum,U.S. House,1,Alan Nunnelee,Republican,287
 Desoto,Alphaba-Cockrum,U.S. House,1,Danny Bedwell,Libertarian,13
@@ -8126,10 +7824,6 @@ Desoto,Walls,U.S. House,1,Ron E. Dickey,Democrat,237
 Desoto,Walls,U.S. House,1,Alan Nunnelee,Republican,469
 Desoto,Walls,U.S. House,1,Danny Bedwell,Libertarian,19
 Desoto,Walls,U.S. House,1,Lajena Walley,Reform,3
-Desoto,TOTAL,U.S. House,1,Ron E. Dickey,Democrat,6178
-Desoto,TOTAL,U.S. House,1,Alan Nunnelee,Republican,18940
-Desoto,TOTAL,U.S. House,1,Danny Bedwell,Libertarian,780
-Desoto,TOTAL,U.S. House,1,Lajena Walley,Reform,171
 Monroe,1 Amory First,U.S. House,1,Danny Bedwell,Libertarian,13
 Monroe,1 Amory First,U.S. House,1,Ron E. Dickey,Democrat,21
 Monroe,1 Amory First,U.S. House,1,Alan Nunnelee,Republican,340
@@ -8234,10 +7928,6 @@ Monroe,5 Wren,U.S. House,1,Danny Bedwell,Libertarian,12
 Monroe,5 Wren,U.S. House,1,Ron E. Dickey,Democrat,67
 Monroe,5 Wren,U.S. House,1,Alan Nunnelee,Republican,301
 Monroe,5 Wren,U.S. House,1,Lajena Walley,Reform,3
-Monroe,TOTAL,U.S. House,1,Danny Bedwell,Libertarian,185
-Monroe,TOTAL,U.S. House,1,Ron E. Dickey,Democrat,2387
-Monroe,TOTAL,U.S. House,1,Alan Nunnelee,Republican,4885
-Monroe,TOTAL,U.S. House,1,Lajena Walley,Reform,36
 Copiah,Beauregard,U.S. House,2,Bennie G. Thompson,Democrat,118
 Copiah,Beauregard,U.S. House,2,Troy Ray,Independent,129
 Copiah,Beauregard,U.S. House,2,Shelley Shoemake,Reform,44
@@ -8295,9 +7985,6 @@ Copiah,Stronghope Union,U.S. House,2,Shelley Shoemake,Reform,31
 Copiah,Wesson,U.S. House,2,Bennie G. Thompson,Democrat,120
 Copiah,Wesson,U.S. House,2,Troy Ray,Independent,144
 Copiah,Wesson,U.S. House,2,Shelley Shoemake,Reform,65
-Copiah,TOTAL,U.S. House,2,Bennie G. Thompson,Democrat,3666
-Copiah,TOTAL,U.S. House,2,Troy Ray,Independent,1795
-Copiah,TOTAL,U.S. House,2,Shelley Shoemake,Reform,712
 Washington,Arcola Technology Center,U.S. Senate,,Travis W. Childers,Democrat,134
 Washington,Arcola Technology Center,U.S. Senate,,Thad Cochran,Republican,86
 Washington,Arcola Technology Center,U.S. Senate,,Shawn O'Hara,Reform,2
@@ -8447,7 +8134,6 @@ Forrest,Train Depot,U.S. Senate,,Travis W. Childers,Dem,110
 Forrest,West Hills,U.S. Senate,,Travis W. Childers,Dem,59
 Forrest,West Petal,U.S. Senate,,Travis W. Childers,Dem,63
 Forrest,Westside,U.S. Senate,,Travis W. Childers,Dem,217
-Forrest,TOTAL,U.S. Senate,,Travis W. Childers,Dem,4766
 Forrest,Bar Mac,U.S. Senate,,Thad Cochran,Rep,724
 Forrest,Brooklyn,U.S. Senate,,Thad Cochran,Rep,230
 Forrest,Burger Center,U.S. Senate,,Thad Cochran,Rep,35
@@ -8483,7 +8169,6 @@ Forrest,Train Depot,U.S. Senate,,Thad Cochran,Rep,44
 Forrest,West Hills,U.S. Senate,,Thad Cochran,Rep,226
 Forrest,West Petal,U.S. Senate,,Thad Cochran,Rep,135
 Forrest,Westside,U.S. Senate,,Thad Cochran,Rep,293
-Forrest,TOTAL,U.S. Senate,,Thad Cochran,Rep,9196
 Forrest,Bar Mac,U.S. Senate,,Shawn O'Hara,Ref,29
 Forrest,Brooklyn,U.S. Senate,,Shawn O'Hara,Ref,15
 Forrest,Burger Center,U.S. Senate,,Shawn O'Hara,Ref,0
@@ -8519,7 +8204,6 @@ Forrest,Train Depot,U.S. Senate,,Shawn O'Hara,Ref,6
 Forrest,West Hills,U.S. Senate,,Shawn O'Hara,Ref,5
 Forrest,West Petal,U.S. Senate,,Shawn O'Hara,Ref,5
 Forrest,Westside,U.S. Senate,,Shawn O'Hara,Ref,12
-Forrest,TOTAL,U.S. Senate,,Shawn O'Hara,Ref,384
 Forrest,Bar Mac,U.S. House,4,Matt Moore,Dem,114
 Pike,(01) New Hope Baptist Church,U.S. House,3,Gregg Harper,Republican,28
 Pike,(01) New Hope Baptist Church,U.S. House,3,Douglas MacArthur (Doug) Magee,Democrat,224
@@ -8621,10 +8305,6 @@ Pike,(25) Osyka City Hall,U.S. House,3,Gregg Harper,Republican,124
 Pike,(25) Osyka City Hall,U.S. House,3,Douglas MacArthur (Doug) Magee,Democrat,44
 Pike,(25) Osyka City Hall,U.S. House,3,Roger Gerrard,Independent,8
 Pike,(25) Osyka City Hall,U.S. House,3,Barbara Dale Washer,Reform,3
-Pike,TOTAL,U.S. House,3,Gregg Harper,Republican,4403
-Pike,TOTAL,U.S. House,3,Douglas MacArthur (Doug) Magee,Democrat,3124
-Pike,TOTAL,U.S. House,3,Roger Gerrard,Independent,129
-Pike,TOTAL,U.S. House,3,Barbara Dale Washer,Reform,68
 Scott,Beat 1/Harpesville,U.S. Senate,,Travis W. Childers,Democrat,189
 Scott,Beat 1/Harpesville,U.S. Senate,,Thad Cochran,Republican,117
 Scott,Beat 1/Harpesville,U.S. Senate,,Shawn O'Hara,Reform,5
@@ -8800,13 +8480,6 @@ Scott,Beat 5/Steele,U.S. House,3,Gregg Harper,Republican,4
 Scott,Beat 5/Steele,U.S. House,3,Douglas MacArthur (Doug) Magee,Democrat,124
 Scott,Beat 5/Steele,U.S. House,3,Roger Gerrard,Independent,104
 Scott,Beat 5/Steele,U.S. House,3,Barbara Dale Washer,Reform,3
-Scott,Total,U.S. Senate,,Travis W. Childers,Democrat,1803
-Scott,Total,U.S. Senate,,Thad Cochran,Republican,3117
-Scott,Total,U.S. Senate,,Shawn O'Hara,Reform,92
-Scott,Total,U.S. House,3,Gregg Harper,Republican,120
-Scott,Total,U.S. House,3,Douglas MacArthur (Doug) Magee,Democrat,3292
-Scott,Total,U.S. House,3,Roger Gerrard,Independent,1453
-Scott,Total,U.S. House,3,Barbara Dale Washer,Reform,38
 Carroll,430 School,U.S. House,2,Troy Ray,Independent,33
 Carroll,430 School,U.S. House,2,Shelley Shoemake,Reform,17
 Carroll,430 School,U.S. House,2,Bennie G. Thompson,Democrat,112
@@ -8849,9 +8522,6 @@ Carroll,West Carroll,U.S. House,2,Bennie G. Thompson,Democrat,31
 Carroll,West Valden,U.S. House,2,Troy Ray,Independent,79
 Carroll,West Valden,U.S. House,2,Shelley Shoemake,Reform,18
 Carroll,West Valden,U.S. House,2,Bennie G. Thompson,Democrat,113
-Carroll,TOTAL,U.S. House,2,Troy Ray,Independent,1337
-Carroll,TOTAL,U.S. House,2,Shelley Shoemake,Reform,424
-Carroll,TOTAL,U.S. House,2,Bennie G. Thompson,Democrat,1203
 Holmes,1 Acona,U.S. House,2,Bennie G. Thompson,Democrat,280
 Holmes,1 Acona,U.S. House,2,Troy Ray,Independent,15
 Holmes,1 Acona,U.S. House,2,Shelley Shoemake,Reform,1
@@ -8903,9 +8573,6 @@ Holmes,Beat 5 Lexington,U.S. House,2,Shelley Shoemake,Reform,13
 Holmes,Beat 5 Tchula,U.S. House,2,Bennie G. Thompson,Democrat,549
 Holmes,Beat 5 Tchula,U.S. House,2,Troy Ray,Independent,35
 Holmes,Beat 5 Tchula,U.S. House,2,Shelley Shoemake,Reform,10
-Holmes,TOTAL,U.S. House,2,Bennie G. Thompson,Democrat,3921
-Holmes,TOTAL,U.S. House,2,Troy Ray,Independent,582
-Holmes,TOTAL,U.S. House,2,Shelley Shoemake,Reform,104
 Stone,American Legion,U.S. House,4,Cindy Burleson,Independent,9
 Stone,American Legion,U.S. House,4,Eli Jackson,Reform,14
 Stone,American Legion,U.S. House,4,Matt Moore,Democrat,198
@@ -8996,12 +8663,6 @@ Stone,Tuxechana,U.S. House,4,Matt Moore,Democrat,49
 Stone,Tuxechana,U.S. House,4,Steven McCarty Palazzo,Republican,439
 Stone,Tuxechana,U.S. House,4,Ed Reich,Independent,6
 Stone,Tuxechana,U.S. House,4,Joey Robinson,Libertarian,8
-Stone,TOTAL,U.S. House,4,Cindy Burleson,Independent,112
-Stone,TOTAL,U.S. House,4,Eli Jackson,Reform,45
-Stone,TOTAL,U.S. House,4,Matt Moore,Democrat,857
-Stone,TOTAL,U.S. House,4,Steven McCarty Palazzo,Republican,2902
-Stone,TOTAL,U.S. House,4,Ed Reich,Independent,37
-Stone,TOTAL,U.S. House,4,Joey Robinson,Libertarian,73
 Lafayette,Abbeville,U.S. Senate,,Travis W. Childers,Democrat,258
 Lafayette,Abbeville,U.S. Senate,,Thad Cochran,Republican,220
 Lafayette,Abbeville,U.S. Senate,,Shawn O'Hara,Reform,7
@@ -9056,9 +8717,6 @@ Lafayette,Union West 4,U.S. Senate,,Shawn O'Hara,Reform,1
 Lafayette,Yocona Community Center,U.S. Senate,,Travis W. Childers,Democrat,51
 Lafayette,Yocona Community Center,U.S. Senate,,Thad Cochran,Republican,215
 Lafayette,Yocona Community Center,U.S. Senate,,Shawn O'Hara,Reform,10
-Lafayette,Total,U.S. Senate,,Travis W. Childers,Democrat,3278
-Lafayette,Total,U.S. Senate,,Thad Cochran,Republican,6311
-Lafayette,Total,U.S. Senate,,Shawn O'Hara,Reform,139
 Kemper,Band Building,U.S. Senate,,Travis W. Childers,Democrat,94
 Kemper,Band Building,U.S. Senate,,Thad Cochran,Republican,80
 Kemper,Band Building,U.S. Senate,,Shawn O'Hara,Reform,4
@@ -9157,13 +8815,6 @@ Kemper,Scooba M-Z,U.S. House,3,Roger Gerrard,Independent,3
 Kemper,Scooba M-Z,U.S. House,3,Gregg Harper,Republican,70
 Kemper,Scooba M-Z,U.S. House,3,Douglas MacArthur (Doug) Magee,Democrat,61
 Kemper,Scooba M-Z,U.S. House,3,Barbara Dale Washer,Reform,3
-Kemper,Total,U.S. Senate,,Travis W. Childers,Democrat,1244
-Kemper,Total,U.S. Senate,,Thad Cochran,Republican,1043
-Kemper,Total,U.S. Senate,,Shawn O'Hara,Reform,28
-Kemper,Total,U.S. House,3,Roger Gerrard,Independent,67
-Kemper,Total,U.S. House,3,Gregg Harper,Republican,1055
-Kemper,Total,U.S. House,3,Douglas MacArthur (Doug) Magee,Democrat,1106
-Kemper,Total,U.S. House,3,Barbara Dale Washer,Reform,24
 Alcorn,2nd District Central,U.S. Senate,,Travis W. Childers,Democrat,123
 Alcorn,2nd District Central,U.S. Senate,,Thad Cochran,Republican,366
 Alcorn,2nd District Central,U.S. Senate,,Shawn O'Hara,Reform,12
@@ -9215,9 +8866,6 @@ Alcorn,Wenasoga,U.S. Senate,,Shawn O'Hara,Reform,6
 Alcorn,West Corinth,U.S. Senate,,Travis W. Childers,Democrat,69
 Alcorn,West Corinth,U.S. Senate,,Thad Cochran,Republican,185
 Alcorn,West Corinth,U.S. Senate,,Shawn O'Hara,Reform,4
-Alcorn,Total,U.S. Senate,,Travis W. Childers,Democrat,1686
-Alcorn,Total,U.S. Senate,,Thad Cochran,Republican,4300
-Alcorn,Total,U.S. Senate,,Shawn O'Hara,Reform,91
 Simpson,Bowie,U.S. House,3,Gregg Harper,Republican,135
 Simpson,Bowie,U.S. House,3,Douglas MacArthur (Doug) Magee,Democrat,66
 Simpson,Bowie,U.S. House,3,Roger Gerrard,Independent,5
@@ -9310,10 +8958,6 @@ Simpson,Weathersby,U.S. House,3,Gregg Harper,Republican,96
 Simpson,Weathersby,U.S. House,3,Douglas MacArthur (Doug) Magee,Democrat,281
 Simpson,Weathersby,U.S. House,3,Roger Gerrard,Independent,4
 Simpson,Weathersby,U.S. House,3,Barbara Dale Washer,Reform,5
-Simpson,TOTAL,U.S. House,3,Gregg Harper,Republican,4591
-Simpson,TOTAL,U.S. House,3,Douglas MacArthur (Doug) Magee,Democrat,2079
-Simpson,TOTAL,U.S. House,3,Roger Gerrard,Independent,153
-Simpson,TOTAL,U.S. House,3,Barbara Dale Washer,Reform,57
 Calhoun,Banner,U.S. House,1,Ron E. Dickey,Democrat,29
 Calhoun,Banner,U.S. House,1,Alan Nunnelee,Republican,174
 Calhoun,Banner,U.S. House,1,Danny Bedwell,Libertarian,2
@@ -9354,10 +8998,6 @@ Calhoun,Vardaman,U.S. House,1,Ron E. Dickey,Democrat,103
 Calhoun,Vardaman,U.S. House,1,Alan Nunnelee,Republican,294
 Calhoun,Vardaman,U.S. House,1,Danny Bedwell,Libertarian,11
 Calhoun,Vardaman,U.S. House,1,Lajena Walley,Reform,4
-Calhoun,TOTAL,U.S. House,1,Ron E. Dickey,Democrat,911
-Calhoun,TOTAL,U.S. House,1,Alan Nunnelee,Republican,2320
-Calhoun,TOTAL,U.S. House,1,Danny Bedwell,Libertarian,59
-Calhoun,TOTAL,U.S. House,1,Lajena Walley,Reform,24
 Clay,Cairo,U.S. House,1,Ron E. Dickey,Democrat,100
 Clay,Cairo,U.S. House,1,Alan Nunnelee,Republican,128
 Clay,Cairo,U.S. House,1,Danny Bedwell,Libertarian,1
@@ -9414,10 +9054,6 @@ Clay,West-West Point,U.S. House,1,Ron E. Dickey,Democrat,471
 Clay,West-West Point,U.S. House,1,Alan Nunnelee,Republican,195
 Clay,West-West Point,U.S. House,1,Danny Bedwell,Libertarian,15
 Clay,West-West Point,U.S. House,1,Lajena Walley,Reform,10
-Clay,TOTAL,U.S. House,1,Ron E. Dickey,Democrat,2997
-Clay,TOTAL,U.S. House,1,Alan Nunnelee,Republican,2950
-Clay,TOTAL,U.S. House,1,Danny Bedwell,Libertarian,129
-Clay,TOTAL,U.S. House,1,Lajena Walley,Reform,38
 George,Agricola,U.S. House,4,Matt Moore,Democrat,28
 George,Agricola,U.S. House,4,Steven McCarty Palazzo,Republican,316
 George,Agricola,U.S. House,4,Cindy Burleson,Independent,4
@@ -9550,9 +9186,3 @@ George,Ward,U.S. House,4,Cindy Burleson,Independent,1
 George,Ward,U.S. House,4,Eli Jackson,Reform,0
 George,Ward,U.S. House,4,Ed Relch,Independent,0
 George,Ward,U.S. House,4,Joey Robinson,Libertarian,5
-George,TOTAL,U.S. House,4,Matt Moore,Democrat,529
-George,TOTAL,U.S. House,4,Steven McCarty Palazzo,Republican,3759
-George,TOTAL,U.S. House,4,Cindy Burleson,Independent,70
-George,TOTAL,U.S. House,4,Eli Jackson,Reform,21
-George,TOTAL,U.S. House,4,Ed Relch,Independent,17
-George,TOTAL,U.S. House,4,Joey Robinson,Libertarian,112

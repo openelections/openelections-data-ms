@@ -1,7 +1,7 @@
 candidate,office,district,party,county,precinct,votes
-Registered Voters,,,,Hinds,Precinct 1,1054
-Ballots Cast,,,D,Hinds,Precinct 1,186
-Ballots Cast,,,R,Hinds,Precinct 1,44
+,Registered Voters,,,Hinds,Precinct 1,1054
+,Ballots Cast,,D,Hinds,Precinct 1,186
+,Ballots Cast,,R,Hinds,Precinct 1,44
 Robert Gray,Governor,,D,Hinds,Precinct 1,31
 Valerie Adream Smartt Short,Governor,,D,Hinds,Precinct 1,26
 Vicki Slater,Governor,,D,Hinds,Precinct 1,111
@@ -26,9 +26,9 @@ Write-in,State Treasurer,,R,Hinds,Precinct 1,0
 Mike Chaney,Commissioner of Insurance,,R,Hinds,Precinct 1,29
 John Mosley,Commissioner of Insurance,,R,Hinds,Precinct 1,14
 Write-in,Commissioner of Insurance,,R,Hinds,Precinct 1,0
-Registered Voters,,,,Hinds,Precinct 2,291
-Ballots Cast,,,D,Hinds,Precinct 2,59
-Ballots Cast,,,R,Hinds,Precinct 2,0
+,Registered Voters,,,Hinds,Precinct 2,291
+,Ballots Cast,,D,Hinds,Precinct 2,59
+,Ballots Cast,,R,Hinds,Precinct 2,0
 Robert Gray,Governor,,D,Hinds,Precinct 2,25
 Valerie Adream Smartt Short,Governor,,D,Hinds,Precinct 2,5
 Vicki Slater,Governor,,D,Hinds,Precinct 2,21
@@ -57,9 +57,9 @@ Write-in,State Treasurer,,R,Hinds,Precinct 2,0
 Mike Chaney,Commissioner of Insurance,,R,Hinds,Precinct 2,0
 John Mosley,Commissioner of Insurance,,R,Hinds,Precinct 2,0
 Write-in,Commissioner of Insurance,,R,Hinds,Precinct 2,0
-Registered Voters,,,,Hinds,Precinct 4,613
-Ballots Cast,,,D,Hinds,Precinct 4,123
-Ballots Cast,,,R,Hinds,Precinct 4,1
+,Registered Voters,,,Hinds,Precinct 4,613
+,Ballots Cast,,D,Hinds,Precinct 4,123
+,Ballots Cast,,R,Hinds,Precinct 4,1
 Robert Gray,Governor,,D,Hinds,Precinct 4,39
 Valerie Adream Smartt Short,Governor,,D,Hinds,Precinct 4,39
 Vicki Slater,Governor,,D,Hinds,Precinct 4,37
@@ -88,9 +88,9 @@ Write-in,State Treasurer,,R,Hinds,Precinct 4,0
 Mike Chaney,Commissioner of Insurance,,R,Hinds,Precinct 4,1
 John Mosley,Commissioner of Insurance,,R,Hinds,Precinct 4,0
 Write-in,Commissioner of Insurance,,R,Hinds,Precinct 4,0
-Registered Voters,,,,Hinds,Precinct 6,855
-Ballots Cast,,,D,Hinds,Precinct 6,114
-Ballots Cast,,,R,Hinds,Precinct 6,11
+,Registered Voters,,,Hinds,Precinct 6,855
+,Ballots Cast,,D,Hinds,Precinct 6,114
+,Ballots Cast,,R,Hinds,Precinct 6,11
 Robert Gray,Governor,,D,Hinds,Precinct 6,26
 Valerie Adream Smartt Short,Governor,,D,Hinds,Precinct 6,19
 Vicki Slater,Governor,,D,Hinds,Precinct 6,38
@@ -119,9 +119,9 @@ Write-in,State Treasurer,,R,Hinds,Precinct 6,0
 Mike Chaney,Commissioner of Insurance,,R,Hinds,Precinct 6,8
 John Mosley,Commissioner of Insurance,,R,Hinds,Precinct 6,3
 Write-in,Commissioner of Insurance,,R,Hinds,Precinct 6,0
-Registered Voters,,,,Hinds,Precinct 8,713
-Ballots Cast,,,D,Hinds,Precinct 8,206
-Ballots Cast,,,R,Hinds,Precinct 8,64
+,Registered Voters,,,Hinds,Precinct 8,713
+,Ballots Cast,,D,Hinds,Precinct 8,206
+,Ballots Cast,,R,Hinds,Precinct 8,64
 Robert Gray,Governor,,D,Hinds,Precinct 8,9
 Valerie Adream Smartt Short,Governor,,D,Hinds,Precinct 8,19
 Vicki Slater,Governor,,D,Hinds,Precinct 8,129
@@ -150,9 +150,9 @@ Write-in,State Treasurer,,R,Hinds,Precinct 8,0
 Mike Chaney,Commissioner of Insurance,,R,Hinds,Precinct 8,49
 John Mosley,Commissioner of Insurance,,R,Hinds,Precinct 8,14
 Write-in,Commissioner of Insurance,,R,Hinds,Precinct 8,0
-Registered Voters,,,,Hinds,Precinct 9,1222
-Ballots Cast,,,D,Hinds,Precinct 9,354
-Ballots Cast,,,R,Hinds,Precinct 9,123
+,Registered Voters,,,Hinds,Precinct 9,1222
+,Ballots Cast,,D,Hinds,Precinct 9,354
+,Ballots Cast,,R,Hinds,Precinct 9,123
 Robert Gray,Governor,,D,Hinds,Precinct 9,27
 Valerie Adream Smartt Short,Governor,,D,Hinds,Precinct 9,32
 Vicki Slater,Governor,,D,Hinds,Precinct 9,235
@@ -181,9 +181,9 @@ Write-in,State Treasurer,,R,Hinds,Precinct 9,0
 Mike Chaney,Commissioner of Insurance,,R,Hinds,Precinct 9,93
 John Mosley,Commissioner of Insurance,,R,Hinds,Precinct 9,21
 Write-in,Commissioner of Insurance,,R,Hinds,Precinct 9,0
-Registered Voters,,,,Hinds,Precinct 10,465
-Ballots Cast,,,D,Hinds,Precinct 10,80
-Ballots Cast,,,R,Hinds,Precinct 10,0
+,Registered Voters,,,Hinds,Precinct 10,465
+,Ballots Cast,,D,Hinds,Precinct 10,80
+,Ballots Cast,,R,Hinds,Precinct 10,0
 Robert Gray,Governor,,D,Hinds,Precinct 10,33
 Valerie Adream Smartt Short,Governor,,D,Hinds,Precinct 10,17
 Vicki Slater,Governor,,D,Hinds,Precinct 10,27
@@ -212,9 +212,9 @@ Write-in,State Treasurer,,R,Hinds,Precinct 10,0
 Mike Chaney,Commissioner of Insurance,,R,Hinds,Precinct 10,0
 John Mosley,Commissioner of Insurance,,R,Hinds,Precinct 10,0
 Write-in,Commissioner of Insurance,,R,Hinds,Precinct 10,0
-Registered Voters,,,,Hinds,Precinct 11,544
-Ballots Cast,,,D,Hinds,Precinct 11,143
-Ballots Cast,,,R,Hinds,Precinct 11,0
+,Registered Voters,,,Hinds,Precinct 11,544
+,Ballots Cast,,D,Hinds,Precinct 11,143
+,Ballots Cast,,R,Hinds,Precinct 11,0
 Robert Gray,Governor,,D,Hinds,Precinct 11,46
 Valerie Adream Smartt Short,Governor,,D,Hinds,Precinct 11,22
 Vicki Slater,Governor,,D,Hinds,Precinct 11,65
@@ -239,9 +239,9 @@ Write-in,State Treasurer,,R,Hinds,Precinct 11,0
 Mike Chaney,Commissioner of Insurance,,R,Hinds,Precinct 11,0
 John Mosley,Commissioner of Insurance,,R,Hinds,Precinct 11,0
 Write-in,Commissioner of Insurance,,R,Hinds,Precinct 11,0
-Registered Voters,,,,Hinds,Precinct 13,1434
-Ballots Cast,,,D,Hinds,Precinct 13,366
-Ballots Cast,,,R,Hinds,Precinct 13,0
+,Registered Voters,,,Hinds,Precinct 13,1434
+,Ballots Cast,,D,Hinds,Precinct 13,366
+,Ballots Cast,,R,Hinds,Precinct 13,0
 Robert Gray,Governor,,D,Hinds,Precinct 13,143
 Valerie Adream Smartt Short,Governor,,D,Hinds,Precinct 13,73
 Vicki Slater,Governor,,D,Hinds,Precinct 13,131
@@ -266,9 +266,9 @@ Write-in,State Treasurer,,R,Hinds,Precinct 13,0
 Mike Chaney,Commissioner of Insurance,,R,Hinds,Precinct 13,0
 John Mosley,Commissioner of Insurance,,R,Hinds,Precinct 13,0
 Write-in,Commissioner of Insurance,,R,Hinds,Precinct 13,0
-Registered Voters,,,,Hinds,Precinct 14,751
-Ballots Cast,,,D,Hinds,Precinct 14,168
-Ballots Cast,,,R,Hinds,Precinct 14,130
+,Registered Voters,,,Hinds,Precinct 14,751
+,Ballots Cast,,D,Hinds,Precinct 14,168
+,Ballots Cast,,R,Hinds,Precinct 14,130
 Robert Gray,Governor,,D,Hinds,Precinct 14,16
 Valerie Adream Smartt Short,Governor,,D,Hinds,Precinct 14,18
 Vicki Slater,Governor,,D,Hinds,Precinct 14,90
@@ -297,9 +297,9 @@ Write-in,State Treasurer,,R,Hinds,Precinct 14,0
 Mike Chaney,Commissioner of Insurance,,R,Hinds,Precinct 14,102
 John Mosley,Commissioner of Insurance,,R,Hinds,Precinct 14,22
 Write-in,Commissioner of Insurance,,R,Hinds,Precinct 14,0
-Registered Voters,,,,Hinds,Precinct 16,1747
-Ballots Cast,,,D,Hinds,Precinct 16,420
-Ballots Cast,,,R,Hinds,Precinct 16,109
+,Registered Voters,,,Hinds,Precinct 16,1747
+,Ballots Cast,,D,Hinds,Precinct 16,420
+,Ballots Cast,,R,Hinds,Precinct 16,109
 Robert Gray,Governor,,D,Hinds,Precinct 16,67
 Valerie Adream Smartt Short,Governor,,D,Hinds,Precinct 16,50
 Vicki Slater,Governor,,D,Hinds,Precinct 16,250
@@ -332,9 +332,9 @@ Write-in,State Treasurer,,R,Hinds,Precinct 16,0
 Mike Chaney,Commissioner of Insurance,,R,Hinds,Precinct 16,83
 John Mosley,Commissioner of Insurance,,R,Hinds,Precinct 16,19
 Write-in,Commissioner of Insurance,,R,Hinds,Precinct 16,0
-Registered Voters,,,,Hinds,Precinct 18,608
-Ballots Cast,,,D,Hinds,Precinct 18,180
-Ballots Cast,,,R,Hinds,Precinct 18,1
+,Registered Voters,,,Hinds,Precinct 18,608
+,Ballots Cast,,D,Hinds,Precinct 18,180
+,Ballots Cast,,R,Hinds,Precinct 18,1
 Robert Gray,Governor,,D,Hinds,Precinct 18,60
 Valerie Adream Smartt Short,Governor,,D,Hinds,Precinct 18,39
 Vicki Slater,Governor,,D,Hinds,Precinct 18,69
@@ -355,9 +355,9 @@ Write-in,State Treasurer,,R,Hinds,Precinct 18,0
 Mike Chaney,Commissioner of Insurance,,R,Hinds,Precinct 18,0
 John Mosley,Commissioner of Insurance,,R,Hinds,Precinct 18,1
 Write-in,Commissioner of Insurance,,R,Hinds,Precinct 18,0
-Registered Voters,,,,Hinds,Precinct 19,656
-Ballots Cast,,,D,Hinds,Precinct 19,166
-Ballots Cast,,,R,Hinds,Precinct 19,1
+,Registered Voters,,,Hinds,Precinct 19,656
+,Ballots Cast,,D,Hinds,Precinct 19,166
+,Ballots Cast,,R,Hinds,Precinct 19,1
 Robert Gray,Governor,,D,Hinds,Precinct 19,53
 Valerie Adream Smartt Short,Governor,,D,Hinds,Precinct 19,39
 Vicki Slater,Governor,,D,Hinds,Precinct 19,68
@@ -382,9 +382,9 @@ Write-in,State Treasurer,,R,Hinds,Precinct 19,0
 Mike Chaney,Commissioner of Insurance,,R,Hinds,Precinct 19,0
 John Mosley,Commissioner of Insurance,,R,Hinds,Precinct 19,1
 Write-in,Commissioner of Insurance,,R,Hinds,Precinct 19,0
-Registered Voters,,,,Hinds,Precinct 20,734
-Ballots Cast,,,D,Hinds,Precinct 20,182
-Ballots Cast,,,R,Hinds,Precinct 20,0
+,Registered Voters,,,Hinds,Precinct 20,734
+,Ballots Cast,,D,Hinds,Precinct 20,182
+,Ballots Cast,,R,Hinds,Precinct 20,0
 Robert Gray,Governor,,D,Hinds,Precinct 20,53
 Valerie Adream Smartt Short,Governor,,D,Hinds,Precinct 20,57
 Vicki Slater,Governor,,D,Hinds,Precinct 20,63
@@ -405,9 +405,9 @@ Write-in,State Treasurer,,R,Hinds,Precinct 20,0
 Mike Chaney,Commissioner of Insurance,,R,Hinds,Precinct 20,0
 John Mosley,Commissioner of Insurance,,R,Hinds,Precinct 20,0
 Write-in,Commissioner of Insurance,,R,Hinds,Precinct 20,0
-Registered Voters,,,,Hinds,Precinct 21,531
-Ballots Cast,,,D,Hinds,Precinct 21,97
-Ballots Cast,,,R,Hinds,Precinct 21,2
+,Registered Voters,,,Hinds,Precinct 21,531
+,Ballots Cast,,D,Hinds,Precinct 21,97
+,Ballots Cast,,R,Hinds,Precinct 21,2
 Robert Gray,Governor,,D,Hinds,Precinct 21,32
 Valerie Adream Smartt Short,Governor,,D,Hinds,Precinct 21,21
 Vicki Slater,Governor,,D,Hinds,Precinct 21,39
@@ -428,9 +428,9 @@ Write-in,State Treasurer,,R,Hinds,Precinct 21,0
 Mike Chaney,Commissioner of Insurance,,R,Hinds,Precinct 21,1
 John Mosley,Commissioner of Insurance,,R,Hinds,Precinct 21,1
 Write-in,Commissioner of Insurance,,R,Hinds,Precinct 21,0
-Registered Voters,,,,Hinds,Precinct 22,1752
-Ballots Cast,,,D,Hinds,Precinct 22,477
-Ballots Cast,,,R,Hinds,Precinct 22,1
+,Registered Voters,,,Hinds,Precinct 22,1752
+,Ballots Cast,,D,Hinds,Precinct 22,477
+,Ballots Cast,,R,Hinds,Precinct 22,1
 Robert Gray,Governor,,D,Hinds,Precinct 22,176
 Valerie Adream Smartt Short,Governor,,D,Hinds,Precinct 22,89
 Vicki Slater,Governor,,D,Hinds,Precinct 22,183
@@ -451,9 +451,9 @@ Write-in,State Treasurer,,R,Hinds,Precinct 22,0
 Mike Chaney,Commissioner of Insurance,,R,Hinds,Precinct 22,0
 John Mosley,Commissioner of Insurance,,R,Hinds,Precinct 22,1
 Write-in,Commissioner of Insurance,,R,Hinds,Precinct 22,0
-Registered Voters,,,,Hinds,Precinct 23,1387
-Ballots Cast,,,D,Hinds,Precinct 23,355
-Ballots Cast,,,R,Hinds,Precinct 23,0
+,Registered Voters,,,Hinds,Precinct 23,1387
+,Ballots Cast,,D,Hinds,Precinct 23,355
+,Ballots Cast,,R,Hinds,Precinct 23,0
 Robert Gray,Governor,,D,Hinds,Precinct 23,120
 Valerie Adream Smartt Short,Governor,,D,Hinds,Precinct 23,73
 Vicki Slater,Governor,,D,Hinds,Precinct 23,132
@@ -478,9 +478,9 @@ Write-in,State Treasurer,,R,Hinds,Precinct 23,0
 Mike Chaney,Commissioner of Insurance,,R,Hinds,Precinct 23,0
 John Mosley,Commissioner of Insurance,,R,Hinds,Precinct 23,0
 Write-in,Commissioner of Insurance,,R,Hinds,Precinct 23,0
-Registered Voters,,,,Hinds,Precinct 24,936
-Ballots Cast,,,D,Hinds,Precinct 24,186
-Ballots Cast,,,R,Hinds,Precinct 24,3
+,Registered Voters,,,Hinds,Precinct 24,936
+,Ballots Cast,,D,Hinds,Precinct 24,186
+,Ballots Cast,,R,Hinds,Precinct 24,3
 Robert Gray,Governor,,D,Hinds,Precinct 24,53
 Valerie Adream Smartt Short,Governor,,D,Hinds,Precinct 24,65
 Vicki Slater,Governor,,D,Hinds,Precinct 24,59
@@ -501,9 +501,9 @@ Write-in,State Treasurer,,R,Hinds,Precinct 24,0
 Mike Chaney,Commissioner of Insurance,,R,Hinds,Precinct 24,2
 John Mosley,Commissioner of Insurance,,R,Hinds,Precinct 24,1
 Write-in,Commissioner of Insurance,,R,Hinds,Precinct 24,0
-Registered Voters,,,,Hinds,Precinct 25,1406
-Ballots Cast,,,D,Hinds,Precinct 25,361
-Ballots Cast,,,R,Hinds,Precinct 25,4
+,Registered Voters,,,Hinds,Precinct 25,1406
+,Ballots Cast,,D,Hinds,Precinct 25,361
+,Ballots Cast,,R,Hinds,Precinct 25,4
 Robert Gray,Governor,,D,Hinds,Precinct 25,125
 Valerie Adream Smartt Short,Governor,,D,Hinds,Precinct 25,95
 Vicki Slater,Governor,,D,Hinds,Precinct 25,114
@@ -524,9 +524,9 @@ Write-in,State Treasurer,,R,Hinds,Precinct 25,0
 Mike Chaney,Commissioner of Insurance,,R,Hinds,Precinct 25,4
 John Mosley,Commissioner of Insurance,,R,Hinds,Precinct 25,0
 Write-in,Commissioner of Insurance,,R,Hinds,Precinct 25,0
-Registered Voters,,,,Hinds,Precinct 26,1920
-Ballots Cast,,,D,Hinds,Precinct 26,399
-Ballots Cast,,,R,Hinds,Precinct 26,16
+,Registered Voters,,,Hinds,Precinct 26,1920
+,Ballots Cast,,D,Hinds,Precinct 26,399
+,Ballots Cast,,R,Hinds,Precinct 26,16
 Robert Gray,Governor,,D,Hinds,Precinct 26,140
 Valerie Adream Smartt Short,Governor,,D,Hinds,Precinct 26,116
 Vicki Slater,Governor,,D,Hinds,Precinct 26,121
@@ -547,9 +547,9 @@ Write-in,State Treasurer,,R,Hinds,Precinct 26,0
 Mike Chaney,Commissioner of Insurance,,R,Hinds,Precinct 26,12
 John Mosley,Commissioner of Insurance,,R,Hinds,Precinct 26,4
 Write-in,Commissioner of Insurance,,R,Hinds,Precinct 26,0
-Registered Voters,,,,Hinds,Precinct 27,1477
-Ballots Cast,,,D,Hinds,Precinct 27,500
-Ballots Cast,,,R,Hinds,Precinct 27,0
+,Registered Voters,,,Hinds,Precinct 27,1477
+,Ballots Cast,,D,Hinds,Precinct 27,500
+,Ballots Cast,,R,Hinds,Precinct 27,0
 Robert Gray,Governor,,D,Hinds,Precinct 27,138
 Valerie Adream Smartt Short,Governor,,D,Hinds,Precinct 27,119
 Vicki Slater,Governor,,D,Hinds,Precinct 27,206
@@ -574,9 +574,9 @@ Write-in,State Treasurer,,R,Hinds,Precinct 27,0
 Mike Chaney,Commissioner of Insurance,,R,Hinds,Precinct 27,0
 John Mosley,Commissioner of Insurance,,R,Hinds,Precinct 27,0
 Write-in,Commissioner of Insurance,,R,Hinds,Precinct 27,0
-Registered Voters,,,,Hinds,Precinct 28,1350
-Ballots Cast,,,D,Hinds,Precinct 28,430
-Ballots Cast,,,R,Hinds,Precinct 28,0
+,Registered Voters,,,Hinds,Precinct 28,1350
+,Ballots Cast,,D,Hinds,Precinct 28,430
+,Ballots Cast,,R,Hinds,Precinct 28,0
 Robert Gray,Governor,,D,Hinds,Precinct 28,124
 Valerie Adream Smartt Short,Governor,,D,Hinds,Precinct 28,89
 Vicki Slater,Governor,,D,Hinds,Precinct 28,163
@@ -601,9 +601,9 @@ Write-in,State Treasurer,,R,Hinds,Precinct 28,0
 Mike Chaney,Commissioner of Insurance,,R,Hinds,Precinct 28,0
 John Mosley,Commissioner of Insurance,,R,Hinds,Precinct 28,0
 Write-in,Commissioner of Insurance,,R,Hinds,Precinct 28,0
-Registered Voters,,,,Hinds,Precinct 29,749
-Ballots Cast,,,D,Hinds,Precinct 29,270
-Ballots Cast,,,R,Hinds,Precinct 29,2
+,Registered Voters,,,Hinds,Precinct 29,749
+,Ballots Cast,,D,Hinds,Precinct 29,270
+,Ballots Cast,,R,Hinds,Precinct 29,2
 Robert Gray,Governor,,D,Hinds,Precinct 29,83
 Valerie Adream Smartt Short,Governor,,D,Hinds,Precinct 29,59
 Vicki Slater,Governor,,D,Hinds,Precinct 29,113
@@ -628,9 +628,9 @@ Write-in,State Treasurer,,R,Hinds,Precinct 29,0
 Mike Chaney,Commissioner of Insurance,,R,Hinds,Precinct 29,1
 John Mosley,Commissioner of Insurance,,R,Hinds,Precinct 29,1
 Write-in,Commissioner of Insurance,,R,Hinds,Precinct 29,0
-Registered Voters,,,,Hinds,Precinct 30,702
-Ballots Cast,,,D,Hinds,Precinct 30,186
-Ballots Cast,,,R,Hinds,Precinct 30,2
+,Registered Voters,,,Hinds,Precinct 30,702
+,Ballots Cast,,D,Hinds,Precinct 30,186
+,Ballots Cast,,R,Hinds,Precinct 30,2
 Robert Gray,Governor,,D,Hinds,Precinct 30,60
 Valerie Adream Smartt Short,Governor,,D,Hinds,Precinct 30,40
 Vicki Slater,Governor,,D,Hinds,Precinct 30,73
@@ -655,9 +655,9 @@ Write-in,State Treasurer,,R,Hinds,Precinct 30,0
 Mike Chaney,Commissioner of Insurance,,R,Hinds,Precinct 30,1
 John Mosley,Commissioner of Insurance,,R,Hinds,Precinct 30,1
 Write-in,Commissioner of Insurance,,R,Hinds,Precinct 30,0
-Registered Voters,,,,Hinds,Precinct 31,1249
-Ballots Cast,,,D,Hinds,Precinct 31,335
-Ballots Cast,,,R,Hinds,Precinct 31,1
+,Registered Voters,,,Hinds,Precinct 31,1249
+,Ballots Cast,,D,Hinds,Precinct 31,335
+,Ballots Cast,,R,Hinds,Precinct 31,1
 Robert Gray,Governor,,D,Hinds,Precinct 31,100
 Valerie Adream Smartt Short,Governor,,D,Hinds,Precinct 31,88
 Vicki Slater,Governor,,D,Hinds,Precinct 31,116
@@ -678,9 +678,9 @@ Write-in,State Treasurer,,R,Hinds,Precinct 31,0
 Mike Chaney,Commissioner of Insurance,,R,Hinds,Precinct 31,0
 John Mosley,Commissioner of Insurance,,R,Hinds,Precinct 31,1
 Write-in,Commissioner of Insurance,,R,Hinds,Precinct 31,0
-Registered Voters,,,,Hinds,Precinct 32,755
-Ballots Cast,,,D,Hinds,Precinct 32,157
-Ballots Cast,,,R,Hinds,Precinct 32,172
+,Registered Voters,,,Hinds,Precinct 32,755
+,Ballots Cast,,D,Hinds,Precinct 32,157
+,Ballots Cast,,R,Hinds,Precinct 32,172
 Robert Gray,Governor,,D,Hinds,Precinct 32,16
 Valerie Adream Smartt Short,Governor,,D,Hinds,Precinct 32,13
 Vicki Slater,Governor,,D,Hinds,Precinct 32,86
@@ -704,9 +704,9 @@ Write-in,Commissioner of Insurance,,R,Hinds,Precinct 32,0
 Bill Billingsley,State Senate,25,R,Hinds,Precinct 32,31
 William F. 'Will' Longwitz,State Senate,25,R,Hinds,Precinct 32,135
 Write-in,State Senate,25,R,Hinds,Precinct 32,0
-Registered Voters,,,,Hinds,Precinct 33,1004
-Ballots Cast,,,D,Hinds,Precinct 33,215
-Ballots Cast,,,R,Hinds,Precinct 33,207
+,Registered Voters,,,Hinds,Precinct 33,1004
+,Ballots Cast,,D,Hinds,Precinct 33,215
+,Ballots Cast,,R,Hinds,Precinct 33,207
 Robert Gray,Governor,,D,Hinds,Precinct 33,25
 Valerie Adream Smartt Short,Governor,,D,Hinds,Precinct 33,21
 Vicki Slater,Governor,,D,Hinds,Precinct 33,80
@@ -730,9 +730,9 @@ Write-in,Commissioner of Insurance,,R,Hinds,Precinct 33,0
 Bill Billingsley,State Senate,25,R,Hinds,Precinct 33,50
 William F. 'Will' Longwitz,State Senate,25,R,Hinds,Precinct 33,152
 Write-in,State Senate,25,R,Hinds,Precinct 33,0
-Registered Voters,,,,Hinds,Precinct 34,1628
-Ballots Cast,,,D,Hinds,Precinct 34,304
-Ballots Cast,,,R,Hinds,Precinct 34,381
+,Registered Voters,,,Hinds,Precinct 34,1628
+,Ballots Cast,,D,Hinds,Precinct 34,304
+,Ballots Cast,,R,Hinds,Precinct 34,381
 Robert Gray,Governor,,D,Hinds,Precinct 34,31
 Valerie Adream Smartt Short,Governor,,D,Hinds,Precinct 34,25
 Vicki Slater,Governor,,D,Hinds,Precinct 34,144
@@ -756,9 +756,9 @@ Write-in,Commissioner of Insurance,,R,Hinds,Precinct 34,0
 Bill Billingsley,State Senate,25,R,Hinds,Precinct 34,76
 William F. 'Will' Longwitz,State Senate,25,R,Hinds,Precinct 34,295
 Write-in,State Senate,25,R,Hinds,Precinct 34,0
-Registered Voters,,,,Hinds,Precinct 35,1576
-Ballots Cast,,,D,Hinds,Precinct 35,229
-Ballots Cast,,,R,Hinds,Precinct 35,375
+,Registered Voters,,,Hinds,Precinct 35,1576
+,Ballots Cast,,D,Hinds,Precinct 35,229
+,Ballots Cast,,R,Hinds,Precinct 35,375
 Robert Gray,Governor,,D,Hinds,Precinct 35,32
 Valerie Adream Smartt Short,Governor,,D,Hinds,Precinct 35,20
 Vicki Slater,Governor,,D,Hinds,Precinct 35,94
@@ -782,9 +782,9 @@ Write-in,Commissioner of Insurance,,R,Hinds,Precinct 35,1
 Bill Billingsley,State Senate,25,R,Hinds,Precinct 35,65
 William F. 'Will' Longwitz,State Senate,25,R,Hinds,Precinct 35,304
 Write-in,State Senate,25,R,Hinds,Precinct 35,0
-Registered Voters,,,,Hinds,Precinct 36,1085
-Ballots Cast,,,D,Hinds,Precinct 36,263
-Ballots Cast,,,R,Hinds,Precinct 36,108
+,Registered Voters,,,Hinds,Precinct 36,1085
+,Ballots Cast,,D,Hinds,Precinct 36,263
+,Ballots Cast,,R,Hinds,Precinct 36,108
 Robert Gray,Governor,,D,Hinds,Precinct 36,66
 Valerie Adream Smartt Short,Governor,,D,Hinds,Precinct 36,56
 Vicki Slater,Governor,,D,Hinds,Precinct 36,123
@@ -808,9 +808,9 @@ Write-in,Commissioner of Insurance,,R,Hinds,Precinct 36,0
 Bill Billingsley,State Senate,25,R,Hinds,Precinct 36,21
 William F. 'Will' Longwitz,State Senate,25,R,Hinds,Precinct 36,82
 Write-in,State Senate,25,R,Hinds,Precinct 36,0
-Registered Voters,,,,Hinds,Precinct 37,798
-Ballots Cast,,,D,Hinds,Precinct 37,201
-Ballots Cast,,,R,Hinds,Precinct 37,57
+,Registered Voters,,,Hinds,Precinct 37,798
+,Ballots Cast,,D,Hinds,Precinct 37,201
+,Ballots Cast,,R,Hinds,Precinct 37,57
 Robert Gray,Governor,,D,Hinds,Precinct 37,33
 Valerie Adream Smartt Short,Governor,,D,Hinds,Precinct 37,40
 Vicki Slater,Governor,,D,Hinds,Precinct 37,106
@@ -839,9 +839,9 @@ Write-in,State Treasurer,,R,Hinds,Precinct 37,1
 Mike Chaney,Commissioner of Insurance,,R,Hinds,Precinct 37,43
 John Mosley,Commissioner of Insurance,,R,Hinds,Precinct 37,13
 Write-in,Commissioner of Insurance,,R,Hinds,Precinct 37,0
-Registered Voters,,,,Hinds,Precinct 38,877
-Ballots Cast,,,D,Hinds,Precinct 38,183
-Ballots Cast,,,R,Hinds,Precinct 38,11
+,Registered Voters,,,Hinds,Precinct 38,877
+,Ballots Cast,,D,Hinds,Precinct 38,183
+,Ballots Cast,,R,Hinds,Precinct 38,11
 Robert Gray,Governor,,D,Hinds,Precinct 38,57
 Valerie Adream Smartt Short,Governor,,D,Hinds,Precinct 38,41
 Vicki Slater,Governor,,D,Hinds,Precinct 38,75
@@ -866,9 +866,9 @@ Write-in,State Treasurer,,R,Hinds,Precinct 38,0
 Mike Chaney,Commissioner of Insurance,,R,Hinds,Precinct 38,7
 John Mosley,Commissioner of Insurance,,R,Hinds,Precinct 38,4
 Write-in,Commissioner of Insurance,,R,Hinds,Precinct 38,0
-Registered Voters,,,,Hinds,Precinct 39,1084
-Ballots Cast,,,D,Hinds,Precinct 39,320
-Ballots Cast,,,R,Hinds,Precinct 39,4
+,Registered Voters,,,Hinds,Precinct 39,1084
+,Ballots Cast,,D,Hinds,Precinct 39,320
+,Ballots Cast,,R,Hinds,Precinct 39,4
 Robert Gray,Governor,,D,Hinds,Precinct 39,82
 Valerie Adream Smartt Short,Governor,,D,Hinds,Precinct 39,74
 Vicki Slater,Governor,,D,Hinds,Precinct 39,139
@@ -893,9 +893,9 @@ Write-in,State Treasurer,,R,Hinds,Precinct 39,0
 Mike Chaney,Commissioner of Insurance,,R,Hinds,Precinct 39,2
 John Mosley,Commissioner of Insurance,,R,Hinds,Precinct 39,2
 Write-in,Commissioner of Insurance,,R,Hinds,Precinct 39,0
-Registered Voters,,,,Hinds,Precinct 40,1496
-Ballots Cast,,,D,Hinds,Precinct 40,394
-Ballots Cast,,,R,Hinds,Precinct 40,0
+,Registered Voters,,,Hinds,Precinct 40,1496
+,Ballots Cast,,D,Hinds,Precinct 40,394
+,Ballots Cast,,R,Hinds,Precinct 40,0
 Robert Gray,Governor,,D,Hinds,Precinct 40,143
 Valerie Adream Smartt Short,Governor,,D,Hinds,Precinct 40,104
 Vicki Slater,Governor,,D,Hinds,Precinct 40,134
@@ -920,9 +920,9 @@ Write-in,State Treasurer,,R,Hinds,Precinct 40,0
 Mike Chaney,Commissioner of Insurance,,R,Hinds,Precinct 40,0
 John Mosley,Commissioner of Insurance,,R,Hinds,Precinct 40,0
 Write-in,Commissioner of Insurance,,R,Hinds,Precinct 40,0
-Registered Voters,,,,Hinds,Precinct 41,1962
-Ballots Cast,,,D,Hinds,Precinct 41,628
-Ballots Cast,,,R,Hinds,Precinct 41,1
+,Registered Voters,,,Hinds,Precinct 41,1962
+,Ballots Cast,,D,Hinds,Precinct 41,628
+,Ballots Cast,,R,Hinds,Precinct 41,1
 Robert Gray,Governor,,D,Hinds,Precinct 41,206
 Valerie Adream Smartt Short,Governor,,D,Hinds,Precinct 41,169
 Vicki Slater,Governor,,D,Hinds,Precinct 41,209
@@ -950,9 +950,9 @@ Write-in,State Treasurer,,R,Hinds,Precinct 41,0
 Mike Chaney,Commissioner of Insurance,,R,Hinds,Precinct 41,0
 John Mosley,Commissioner of Insurance,,R,Hinds,Precinct 41,1
 Write-in,Commissioner of Insurance,,R,Hinds,Precinct 41,0
-Registered Voters,,,,Hinds,Precinct 42,1660
-Ballots Cast,,,D,Hinds,Precinct 42,331
-Ballots Cast,,,R,Hinds,Precinct 42,15
+,Registered Voters,,,Hinds,Precinct 42,1660
+,Ballots Cast,,D,Hinds,Precinct 42,331
+,Ballots Cast,,R,Hinds,Precinct 42,15
 Robert Gray,Governor,,D,Hinds,Precinct 42,89
 Valerie Adream Smartt Short,Governor,,D,Hinds,Precinct 42,96
 Vicki Slater,Governor,,D,Hinds,Precinct 42,126
@@ -977,9 +977,9 @@ Write-in,State Treasurer,,R,Hinds,Precinct 42,0
 Mike Chaney,Commissioner of Insurance,,R,Hinds,Precinct 42,10
 John Mosley,Commissioner of Insurance,,R,Hinds,Precinct 42,5
 Write-in,Commissioner of Insurance,,R,Hinds,Precinct 42,0
-Registered Voters,,,,Hinds,Precinct 43,1869
-Ballots Cast,,,D,Hinds,Precinct 43,399
-Ballots Cast,,,R,Hinds,Precinct 43,22
+,Registered Voters,,,Hinds,Precinct 43,1869
+,Ballots Cast,,D,Hinds,Precinct 43,399
+,Ballots Cast,,R,Hinds,Precinct 43,22
 Robert Gray,Governor,,D,Hinds,Precinct 43,130
 Valerie Adream Smartt Short,Governor,,D,Hinds,Precinct 43,125
 Vicki Slater,Governor,,D,Hinds,Precinct 43,118
@@ -1007,9 +1007,9 @@ Write-in,State Treasurer,,R,Hinds,Precinct 43,0
 Mike Chaney,Commissioner of Insurance,,R,Hinds,Precinct 43,17
 John Mosley,Commissioner of Insurance,,R,Hinds,Precinct 43,5
 Write-in,Commissioner of Insurance,,R,Hinds,Precinct 43,0
-Registered Voters,,,,Hinds,Precinct 44,1796
-Ballots Cast,,,D,Hinds,Precinct 44,414
-Ballots Cast,,,R,Hinds,Precinct 44,183
+,Registered Voters,,,Hinds,Precinct 44,1796
+,Ballots Cast,,D,Hinds,Precinct 44,414
+,Ballots Cast,,R,Hinds,Precinct 44,183
 Robert Gray,Governor,,D,Hinds,Precinct 44,106
 Valerie Adream Smartt Short,Governor,,D,Hinds,Precinct 44,83
 Vicki Slater,Governor,,D,Hinds,Precinct 44,187
@@ -1033,9 +1033,9 @@ Write-in,Commissioner of Insurance,,R,Hinds,Precinct 44,0
 Bill Billingsley,State Senate,25,R,Hinds,Precinct 44,46
 William F. 'Will' Longwitz,State Senate,25,R,Hinds,Precinct 44,132
 Write-in,State Senate,25,R,Hinds,Precinct 44,0
-Registered Voters,,,,Hinds,Precinct 45,1818
-Ballots Cast,,,D,Hinds,Precinct 45,241
-Ballots Cast,,,R,Hinds,Precinct 45,428
+,Registered Voters,,,Hinds,Precinct 45,1818
+,Ballots Cast,,D,Hinds,Precinct 45,241
+,Ballots Cast,,R,Hinds,Precinct 45,428
 Robert Gray,Governor,,D,Hinds,Precinct 45,48
 Valerie Adream Smartt Short,Governor,,D,Hinds,Precinct 45,31
 Vicki Slater,Governor,,D,Hinds,Precinct 45,112
@@ -1059,9 +1059,9 @@ Write-in,Commissioner of Insurance,,R,Hinds,Precinct 45,0
 Bill Billingsley,State Senate,25,R,Hinds,Precinct 45,101
 William F. 'Will' Longwitz,State Senate,25,R,Hinds,Precinct 45,317
 Write-in,State Senate,25,R,Hinds,Precinct 45,0
-Registered Voters,,,,Hinds,Precinct 46,2876
-Ballots Cast,,,D,Hinds,Precinct 46,594
-Ballots Cast,,,R,Hinds,Precinct 46,419
+,Registered Voters,,,Hinds,Precinct 46,2876
+,Ballots Cast,,D,Hinds,Precinct 46,594
+,Ballots Cast,,R,Hinds,Precinct 46,419
 Robert Gray,Governor,,D,Hinds,Precinct 46,131
 Valerie Adream Smartt Short,Governor,,D,Hinds,Precinct 46,125
 Vicki Slater,Governor,,D,Hinds,Precinct 46,280
@@ -1088,9 +1088,9 @@ Write-in,Commissioner of Insurance,,R,Hinds,Precinct 46,1
 Bill Billingsley,State Senate,25,R,Hinds,Precinct 46,65
 William F. 'Will' Longwitz,State Senate,25,R,Hinds,Precinct 46,204
 Write-in,State Senate,25,R,Hinds,Precinct 46,1
-Registered Voters,,,,Hinds,Precinct 47,958
-Ballots Cast,,,D,Hinds,Precinct 47,144
-Ballots Cast,,,R,Hinds,Precinct 47,5
+,Registered Voters,,,Hinds,Precinct 47,958
+,Ballots Cast,,D,Hinds,Precinct 47,144
+,Ballots Cast,,R,Hinds,Precinct 47,5
 Robert Gray,Governor,,D,Hinds,Precinct 47,44
 Valerie Adream Smartt Short,Governor,,D,Hinds,Precinct 47,32
 Vicki Slater,Governor,,D,Hinds,Precinct 47,63
@@ -1118,9 +1118,9 @@ Write-in,State Treasurer,,R,Hinds,Precinct 47,0
 Mike Chaney,Commissioner of Insurance,,R,Hinds,Precinct 47,3
 John Mosley,Commissioner of Insurance,,R,Hinds,Precinct 47,2
 Write-in,Commissioner of Insurance,,R,Hinds,Precinct 47,0
-Registered Voters,,,,Hinds,Precinct 49,1946
-Ballots Cast,,,D,Hinds,Precinct 49,22
-Ballots Cast,,,R,Hinds,Precinct 49,0
+,Registered Voters,,,Hinds,Precinct 49,1946
+,Ballots Cast,,D,Hinds,Precinct 49,22
+,Ballots Cast,,R,Hinds,Precinct 49,0
 Robert Gray,Governor,,D,Hinds,Precinct 49,9
 Valerie Adream Smartt Short,Governor,,D,Hinds,Precinct 49,7
 Vicki Slater,Governor,,D,Hinds,Precinct 49,6
@@ -1144,9 +1144,9 @@ Write-in,State Treasurer,,R,Hinds,Precinct 49,0
 Mike Chaney,Commissioner of Insurance,,R,Hinds,Precinct 49,0
 John Mosley,Commissioner of Insurance,,R,Hinds,Precinct 49,0
 Write-in,Commissioner of Insurance,,R,Hinds,Precinct 49,0
-Registered Voters,,,,Hinds,Precinct 50,1314
-Ballots Cast,,,D,Hinds,Precinct 50,286
-Ballots Cast,,,R,Hinds,Precinct 50,4
+,Registered Voters,,,Hinds,Precinct 50,1314
+,Ballots Cast,,D,Hinds,Precinct 50,286
+,Ballots Cast,,R,Hinds,Precinct 50,4
 Robert Gray,Governor,,D,Hinds,Precinct 50,63
 Valerie Adream Smartt Short,Governor,,D,Hinds,Precinct 50,82
 Vicki Slater,Governor,,D,Hinds,Precinct 50,123
@@ -1174,9 +1174,9 @@ Write-in,State Treasurer,,R,Hinds,Precinct 50,0
 Mike Chaney,Commissioner of Insurance,,R,Hinds,Precinct 50,2
 John Mosley,Commissioner of Insurance,,R,Hinds,Precinct 50,2
 Write-in,Commissioner of Insurance,,R,Hinds,Precinct 50,0
-Registered Voters,,,,Hinds,Precinct 51,567
-Ballots Cast,,,D,Hinds,Precinct 51,160
-Ballots Cast,,,R,Hinds,Precinct 51,2
+,Registered Voters,,,Hinds,Precinct 51,567
+,Ballots Cast,,D,Hinds,Precinct 51,160
+,Ballots Cast,,R,Hinds,Precinct 51,2
 Robert Gray,Governor,,D,Hinds,Precinct 51,57
 Valerie Adream Smartt Short,Governor,,D,Hinds,Precinct 51,41
 Vicki Slater,Governor,,D,Hinds,Precinct 51,57
@@ -1200,9 +1200,9 @@ Write-in,State Treasurer,,R,Hinds,Precinct 51,0
 Mike Chaney,Commissioner of Insurance,,R,Hinds,Precinct 51,1
 John Mosley,Commissioner of Insurance,,R,Hinds,Precinct 51,1
 Write-in,Commissioner of Insurance,,R,Hinds,Precinct 51,0
-Registered Voters,,,,Hinds,Precinct 54,614
-Ballots Cast,,,D,Hinds,Precinct 54,104
-Ballots Cast,,,R,Hinds,Precinct 54,1
+,Registered Voters,,,Hinds,Precinct 54,614
+,Ballots Cast,,D,Hinds,Precinct 54,104
+,Ballots Cast,,R,Hinds,Precinct 54,1
 Robert Gray,Governor,,D,Hinds,Precinct 54,27
 Valerie Adream Smartt Short,Governor,,D,Hinds,Precinct 54,22
 Vicki Slater,Governor,,D,Hinds,Precinct 54,44
@@ -1226,9 +1226,9 @@ Write-in,State Treasurer,,R,Hinds,Precinct 54,0
 Mike Chaney,Commissioner of Insurance,,R,Hinds,Precinct 54,1
 John Mosley,Commissioner of Insurance,,R,Hinds,Precinct 54,0
 Write-in,Commissioner of Insurance,,R,Hinds,Precinct 54,0
-Registered Voters,,,,Hinds,Precinct 55,954
-Ballots Cast,,,D,Hinds,Precinct 55,212
-Ballots Cast,,,R,Hinds,Precinct 55,1
+,Registered Voters,,,Hinds,Precinct 55,954
+,Ballots Cast,,D,Hinds,Precinct 55,212
+,Ballots Cast,,R,Hinds,Precinct 55,1
 Robert Gray,Governor,,D,Hinds,Precinct 55,57
 Valerie Adream Smartt Short,Governor,,D,Hinds,Precinct 55,53
 Vicki Slater,Governor,,D,Hinds,Precinct 55,79
@@ -1252,9 +1252,9 @@ Write-in,State Treasurer,,R,Hinds,Precinct 55,0
 Mike Chaney,Commissioner of Insurance,,R,Hinds,Precinct 55,0
 John Mosley,Commissioner of Insurance,,R,Hinds,Precinct 55,1
 Write-in,Commissioner of Insurance,,R,Hinds,Precinct 55,0
-Registered Voters,,,,Hinds,Precinct 56,472
-Ballots Cast,,,D,Hinds,Precinct 56,88
-Ballots Cast,,,R,Hinds,Precinct 56,5
+,Registered Voters,,,Hinds,Precinct 56,472
+,Ballots Cast,,D,Hinds,Precinct 56,88
+,Ballots Cast,,R,Hinds,Precinct 56,5
 Robert Gray,Governor,,D,Hinds,Precinct 56,28
 Valerie Adream Smartt Short,Governor,,D,Hinds,Precinct 56,15
 Vicki Slater,Governor,,D,Hinds,Precinct 56,41
@@ -1278,9 +1278,9 @@ Write-in,State Treasurer,,R,Hinds,Precinct 56,0
 Mike Chaney,Commissioner of Insurance,,R,Hinds,Precinct 56,1
 John Mosley,Commissioner of Insurance,,R,Hinds,Precinct 56,3
 Write-in,Commissioner of Insurance,,R,Hinds,Precinct 56,0
-Registered Voters,,,,Hinds,Precinct 57,794
-Ballots Cast,,,D,Hinds,Precinct 57,243
-Ballots Cast,,,R,Hinds,Precinct 57,2
+,Registered Voters,,,Hinds,Precinct 57,794
+,Ballots Cast,,D,Hinds,Precinct 57,243
+,Ballots Cast,,R,Hinds,Precinct 57,2
 Robert Gray,Governor,,D,Hinds,Precinct 57,70
 Valerie Adream Smartt Short,Governor,,D,Hinds,Precinct 57,61
 Vicki Slater,Governor,,D,Hinds,Precinct 57,90
@@ -1304,9 +1304,9 @@ Write-in,State Treasurer,,R,Hinds,Precinct 57,0
 Mike Chaney,Commissioner of Insurance,,R,Hinds,Precinct 57,1
 John Mosley,Commissioner of Insurance,,R,Hinds,Precinct 57,1
 Write-in,Commissioner of Insurance,,R,Hinds,Precinct 57,0
-Registered Voters,,,,Hinds,Precinct 58,1389
-Ballots Cast,,,D,Hinds,Precinct 58,432
-Ballots Cast,,,R,Hinds,Precinct 58,3
+,Registered Voters,,,Hinds,Precinct 58,1389
+,Ballots Cast,,D,Hinds,Precinct 58,432
+,Ballots Cast,,R,Hinds,Precinct 58,3
 Robert Gray,Governor,,D,Hinds,Precinct 58,111
 Valerie Adream Smartt Short,Governor,,D,Hinds,Precinct 58,112
 Vicki Slater,Governor,,D,Hinds,Precinct 58,177
@@ -1330,9 +1330,9 @@ Write-in,State Treasurer,,R,Hinds,Precinct 58,0
 Mike Chaney,Commissioner of Insurance,,R,Hinds,Precinct 58,1
 John Mosley,Commissioner of Insurance,,R,Hinds,Precinct 58,2
 Write-in,Commissioner of Insurance,,R,Hinds,Precinct 58,0
-Registered Voters,,,,Hinds,Precinct 59,1395
-Ballots Cast,,,D,Hinds,Precinct 59,366
-Ballots Cast,,,R,Hinds,Precinct 59,2
+,Registered Voters,,,Hinds,Precinct 59,1395
+,Ballots Cast,,D,Hinds,Precinct 59,366
+,Ballots Cast,,R,Hinds,Precinct 59,2
 Robert Gray,Governor,,D,Hinds,Precinct 59,119
 Valerie Adream Smartt Short,Governor,,D,Hinds,Precinct 59,84
 Vicki Slater,Governor,,D,Hinds,Precinct 59,140
@@ -1356,9 +1356,9 @@ Write-in,State Treasurer,,R,Hinds,Precinct 59,0
 Mike Chaney,Commissioner of Insurance,,R,Hinds,Precinct 59,1
 John Mosley,Commissioner of Insurance,,R,Hinds,Precinct 59,1
 Write-in,Commissioner of Insurance,,R,Hinds,Precinct 59,0
-Registered Voters,,,,Hinds,Precinct 60,526
-Ballots Cast,,,D,Hinds,Precinct 60,94
-Ballots Cast,,,R,Hinds,Precinct 60,2
+,Registered Voters,,,Hinds,Precinct 60,526
+,Ballots Cast,,D,Hinds,Precinct 60,94
+,Ballots Cast,,R,Hinds,Precinct 60,2
 Robert Gray,Governor,,D,Hinds,Precinct 60,31
 Valerie Adream Smartt Short,Governor,,D,Hinds,Precinct 60,22
 Vicki Slater,Governor,,D,Hinds,Precinct 60,35
@@ -1379,9 +1379,9 @@ Write-in,State Treasurer,,R,Hinds,Precinct 60,0
 Mike Chaney,Commissioner of Insurance,,R,Hinds,Precinct 60,1
 John Mosley,Commissioner of Insurance,,R,Hinds,Precinct 60,1
 Write-in,Commissioner of Insurance,,R,Hinds,Precinct 60,0
-Registered Voters,,,,Hinds,Precinct 61,794
-Ballots Cast,,,D,Hinds,Precinct 61,129
-Ballots Cast,,,R,Hinds,Precinct 61,0
+,Registered Voters,,,Hinds,Precinct 61,794
+,Ballots Cast,,D,Hinds,Precinct 61,129
+,Ballots Cast,,R,Hinds,Precinct 61,0
 Robert Gray,Governor,,D,Hinds,Precinct 61,49
 Valerie Adream Smartt Short,Governor,,D,Hinds,Precinct 61,28
 Vicki Slater,Governor,,D,Hinds,Precinct 61,44
@@ -1405,9 +1405,9 @@ Write-in,State Treasurer,,R,Hinds,Precinct 61,0
 Mike Chaney,Commissioner of Insurance,,R,Hinds,Precinct 61,0
 John Mosley,Commissioner of Insurance,,R,Hinds,Precinct 61,0
 Write-in,Commissioner of Insurance,,R,Hinds,Precinct 61,0
-Registered Voters,,,,Hinds,Precinct 62,1573
-Ballots Cast,,,D,Hinds,Precinct 62,331
-Ballots Cast,,,R,Hinds,Precinct 62,7
+,Registered Voters,,,Hinds,Precinct 62,1573
+,Ballots Cast,,D,Hinds,Precinct 62,331
+,Ballots Cast,,R,Hinds,Precinct 62,7
 Robert Gray,Governor,,D,Hinds,Precinct 62,93
 Valerie Adream Smartt Short,Governor,,D,Hinds,Precinct 62,86
 Vicki Slater,Governor,,D,Hinds,Precinct 62,127
@@ -1431,9 +1431,9 @@ Write-in,State Treasurer,,R,Hinds,Precinct 62,0
 Mike Chaney,Commissioner of Insurance,,R,Hinds,Precinct 62,5
 John Mosley,Commissioner of Insurance,,R,Hinds,Precinct 62,2
 Write-in,Commissioner of Insurance,,R,Hinds,Precinct 62,0
-Registered Voters,,,,Hinds,Precinct 63,963
-Ballots Cast,,,D,Hinds,Precinct 63,142
-Ballots Cast,,,R,Hinds,Precinct 63,0
+,Registered Voters,,,Hinds,Precinct 63,963
+,Ballots Cast,,D,Hinds,Precinct 63,142
+,Ballots Cast,,R,Hinds,Precinct 63,0
 Robert Gray,Governor,,D,Hinds,Precinct 63,47
 Valerie Adream Smartt Short,Governor,,D,Hinds,Precinct 63,32
 Vicki Slater,Governor,,D,Hinds,Precinct 63,55
@@ -1457,9 +1457,9 @@ Write-in,State Treasurer,,R,Hinds,Precinct 63,0
 Mike Chaney,Commissioner of Insurance,,R,Hinds,Precinct 63,0
 John Mosley,Commissioner of Insurance,,R,Hinds,Precinct 63,0
 Write-in,Commissioner of Insurance,,R,Hinds,Precinct 63,0
-Registered Voters,,,,Hinds,Precinct 64,604
-Ballots Cast,,,D,Hinds,Precinct 64,150
-Ballots Cast,,,R,Hinds,Precinct 64,1
+,Registered Voters,,,Hinds,Precinct 64,604
+,Ballots Cast,,D,Hinds,Precinct 64,150
+,Ballots Cast,,R,Hinds,Precinct 64,1
 Robert Gray,Governor,,D,Hinds,Precinct 64,61
 Valerie Adream Smartt Short,Governor,,D,Hinds,Precinct 64,25
 Vicki Slater,Governor,,D,Hinds,Precinct 64,57
@@ -1483,9 +1483,9 @@ Write-in,State Treasurer,,R,Hinds,Precinct 64,0
 Mike Chaney,Commissioner of Insurance,,R,Hinds,Precinct 64,1
 John Mosley,Commissioner of Insurance,,R,Hinds,Precinct 64,0
 Write-in,Commissioner of Insurance,,R,Hinds,Precinct 64,0
-Registered Voters,,,,Hinds,Precinct 68,2440
-Ballots Cast,,,D,Hinds,Precinct 68,524
-Ballots Cast,,,R,Hinds,Precinct 68,25
+,Registered Voters,,,Hinds,Precinct 68,2440
+,Ballots Cast,,D,Hinds,Precinct 68,524
+,Ballots Cast,,R,Hinds,Precinct 68,25
 Robert Gray,Governor,,D,Hinds,Precinct 68,161
 Valerie Adream Smartt Short,Governor,,D,Hinds,Precinct 68,120
 Vicki Slater,Governor,,D,Hinds,Precinct 68,201
@@ -1509,9 +1509,9 @@ Write-in,State Treasurer,,R,Hinds,Precinct 68,0
 Mike Chaney,Commissioner of Insurance,,R,Hinds,Precinct 68,13
 John Mosley,Commissioner of Insurance,,R,Hinds,Precinct 68,11
 Write-in,Commissioner of Insurance,,R,Hinds,Precinct 68,0
-Registered Voters,,,,Hinds,Precinct 69,11782
-Ballots Cast,,,D,Hinds,Precinct 69,240
-Ballots Cast,,,R,Hinds,Precinct 69,23
+,Registered Voters,,,Hinds,Precinct 69,11782
+,Ballots Cast,,D,Hinds,Precinct 69,240
+,Ballots Cast,,R,Hinds,Precinct 69,23
 Robert Gray,Governor,,D,Hinds,Precinct 69,86
 Valerie Adream Smartt Short,Governor,,D,Hinds,Precinct 69,39
 Vicki Slater,Governor,,D,Hinds,Precinct 69,90
@@ -1535,9 +1535,9 @@ Write-in,State Treasurer,,R,Hinds,Precinct 69,0
 Mike Chaney,Commissioner of Insurance,,R,Hinds,Precinct 69,13
 John Mosley,Commissioner of Insurance,,R,Hinds,Precinct 69,10
 Write-in,Commissioner of Insurance,,R,Hinds,Precinct 69,0
-Registered Voters,,,,Hinds,Precinct 70,537
-Ballots Cast,,,D,Hinds,Precinct 70,84
-Ballots Cast,,,R,Hinds,Precinct 70,2
+,Registered Voters,,,Hinds,Precinct 70,537
+,Ballots Cast,,D,Hinds,Precinct 70,84
+,Ballots Cast,,R,Hinds,Precinct 70,2
 Robert Gray,Governor,,D,Hinds,Precinct 70,29
 Valerie Adream Smartt Short,Governor,,D,Hinds,Precinct 70,23
 Vicki Slater,Governor,,D,Hinds,Precinct 70,28
@@ -1561,9 +1561,9 @@ Write-in,State Treasurer,,R,Hinds,Precinct 70,0
 Mike Chaney,Commissioner of Insurance,,R,Hinds,Precinct 70,1
 John Mosley,Commissioner of Insurance,,R,Hinds,Precinct 70,1
 Write-in,Commissioner of Insurance,,R,Hinds,Precinct 70,0
-Registered Voters,,,,Hinds,Precinct 71,1149
-Ballots Cast,,,D,Hinds,Precinct 71,178
-Ballots Cast,,,R,Hinds,Precinct 71,25
+,Registered Voters,,,Hinds,Precinct 71,1149
+,Ballots Cast,,D,Hinds,Precinct 71,178
+,Ballots Cast,,R,Hinds,Precinct 71,25
 Robert Gray,Governor,,D,Hinds,Precinct 71,57
 Valerie Adream Smartt Short,Governor,,D,Hinds,Precinct 71,31
 Vicki Slater,Governor,,D,Hinds,Precinct 71,84
@@ -1584,9 +1584,9 @@ Write-in,State Treasurer,,R,Hinds,Precinct 71,0
 Mike Chaney,Commissioner of Insurance,,R,Hinds,Precinct 71,18
 John Mosley,Commissioner of Insurance,,R,Hinds,Precinct 71,6
 Write-in,Commissioner of Insurance,,R,Hinds,Precinct 71,0
-Registered Voters,,,,Hinds,Precinct 72,910
-Ballots Cast,,,D,Hinds,Precinct 72,123
-Ballots Cast,,,R,Hinds,Precinct 72,14
+,Registered Voters,,,Hinds,Precinct 72,910
+,Ballots Cast,,D,Hinds,Precinct 72,123
+,Ballots Cast,,R,Hinds,Precinct 72,14
 Robert Gray,Governor,,D,Hinds,Precinct 72,37
 Valerie Adream Smartt Short,Governor,,D,Hinds,Precinct 72,19
 Vicki Slater,Governor,,D,Hinds,Precinct 72,58
@@ -1611,9 +1611,9 @@ Write-in,State Treasurer,,R,Hinds,Precinct 72,0
 Mike Chaney,Commissioner of Insurance,,R,Hinds,Precinct 72,8
 John Mosley,Commissioner of Insurance,,R,Hinds,Precinct 72,5
 Write-in,Commissioner of Insurance,,R,Hinds,Precinct 72,0
-Registered Voters,,,,Hinds,Precinct 73,1090
-Ballots Cast,,,D,Hinds,Precinct 73,125
-Ballots Cast,,,R,Hinds,Precinct 73,13
+,Registered Voters,,,Hinds,Precinct 73,1090
+,Ballots Cast,,D,Hinds,Precinct 73,125
+,Ballots Cast,,R,Hinds,Precinct 73,13
 Robert Gray,Governor,,D,Hinds,Precinct 73,47
 Valerie Adream Smartt Short,Governor,,D,Hinds,Precinct 73,24
 Vicki Slater,Governor,,D,Hinds,Precinct 73,44
@@ -1634,9 +1634,9 @@ Write-in,State Treasurer,,R,Hinds,Precinct 73,0
 Mike Chaney,Commissioner of Insurance,,R,Hinds,Precinct 73,7
 John Mosley,Commissioner of Insurance,,R,Hinds,Precinct 73,6
 Write-in,Commissioner of Insurance,,R,Hinds,Precinct 73,0
-Registered Voters,,,,Hinds,Precinct 74,981
-Ballots Cast,,,D,Hinds,Precinct 74,140
-Ballots Cast,,,R,Hinds,Precinct 74,15
+,Registered Voters,,,Hinds,Precinct 74,981
+,Ballots Cast,,D,Hinds,Precinct 74,140
+,Ballots Cast,,R,Hinds,Precinct 74,15
 Robert Gray,Governor,,D,Hinds,Precinct 74,58
 Valerie Adream Smartt Short,Governor,,D,Hinds,Precinct 74,34
 Vicki Slater,Governor,,D,Hinds,Precinct 74,36
@@ -1660,9 +1660,9 @@ Write-in,State Treasurer,,R,Hinds,Precinct 74,0
 Mike Chaney,Commissioner of Insurance,,R,Hinds,Precinct 74,9
 John Mosley,Commissioner of Insurance,,R,Hinds,Precinct 74,6
 Write-in,Commissioner of Insurance,,R,Hinds,Precinct 74,0
-Registered Voters,,,,Hinds,Precinct 76,809
-Ballots Cast,,,D,Hinds,Precinct 76,127
-Ballots Cast,,,R,Hinds,Precinct 76,23
+,Registered Voters,,,Hinds,Precinct 76,809
+,Ballots Cast,,D,Hinds,Precinct 76,127
+,Ballots Cast,,R,Hinds,Precinct 76,23
 Robert Gray,Governor,,D,Hinds,Precinct 76,46
 Valerie Adream Smartt Short,Governor,,D,Hinds,Precinct 76,20
 Vicki Slater,Governor,,D,Hinds,Precinct 76,48
@@ -1683,9 +1683,9 @@ Write-in,State Treasurer,,R,Hinds,Precinct 76,0
 Mike Chaney,Commissioner of Insurance,,R,Hinds,Precinct 76,13
 John Mosley,Commissioner of Insurance,,R,Hinds,Precinct 76,10
 Write-in,Commissioner of Insurance,,R,Hinds,Precinct 76,0
-Registered Voters,,,,Hinds,Precinct 77,1268
-Ballots Cast,,,D,Hinds,Precinct 77,135
-Ballots Cast,,,R,Hinds,Precinct 77,43
+,Registered Voters,,,Hinds,Precinct 77,1268
+,Ballots Cast,,D,Hinds,Precinct 77,135
+,Ballots Cast,,R,Hinds,Precinct 77,43
 Robert Gray,Governor,,D,Hinds,Precinct 77,51
 Valerie Adream Smartt Short,Governor,,D,Hinds,Precinct 77,27
 Vicki Slater,Governor,,D,Hinds,Precinct 77,51
@@ -1710,9 +1710,9 @@ Write-in,State Treasurer,,R,Hinds,Precinct 77,0
 Mike Chaney,Commissioner of Insurance,,R,Hinds,Precinct 77,24
 John Mosley,Commissioner of Insurance,,R,Hinds,Precinct 77,19
 Write-in,Commissioner of Insurance,,R,Hinds,Precinct 77,0
-Registered Voters,,,,Hinds,Precinct 78,1560
-Ballots Cast,,,D,Hinds,Precinct 78,263
-Ballots Cast,,,R,Hinds,Precinct 78,172
+,Registered Voters,,,Hinds,Precinct 78,1560
+,Ballots Cast,,D,Hinds,Precinct 78,263
+,Ballots Cast,,R,Hinds,Precinct 78,172
 Robert Gray,Governor,,D,Hinds,Precinct 78,60
 Valerie Adream Smartt Short,Governor,,D,Hinds,Precinct 78,52
 Vicki Slater,Governor,,D,Hinds,Precinct 78,110
@@ -1736,9 +1736,9 @@ Write-in,Commissioner of Insurance,,R,Hinds,Precinct 78,1
 Bill Billingsley,State Senate,25,R,Hinds,Precinct 78,37
 William F. 'Will' Longwitz,State Senate,25,R,Hinds,Precinct 78,125
 Write-in,State Senate,25,R,Hinds,Precinct 78,0
-Registered Voters,,,,Hinds,Precinct 79,1830
-Ballots Cast,,,D,Hinds,Precinct 79,434
-Ballots Cast,,,R,Hinds,Precinct 79,89
+,Registered Voters,,,Hinds,Precinct 79,1830
+,Ballots Cast,,D,Hinds,Precinct 79,434
+,Ballots Cast,,R,Hinds,Precinct 79,89
 Robert Gray,Governor,,D,Hinds,Precinct 79,133
 Valerie Adream Smartt Short,Governor,,D,Hinds,Precinct 79,96
 Vicki Slater,Governor,,D,Hinds,Precinct 79,176
@@ -1766,9 +1766,9 @@ Write-in,State Treasurer,,R,Hinds,Precinct 79,0
 Mike Chaney,Commissioner of Insurance,,R,Hinds,Precinct 79,70
 John Mosley,Commissioner of Insurance,,R,Hinds,Precinct 79,18
 Write-in,Commissioner of Insurance,,R,Hinds,Precinct 79,0
-Registered Voters,,,,Hinds,Precinct 80,2214
-Ballots Cast,,,D,Hinds,Precinct 80,473
-Ballots Cast,,,R,Hinds,Precinct 80,10
+,Registered Voters,,,Hinds,Precinct 80,2214
+,Ballots Cast,,D,Hinds,Precinct 80,473
+,Ballots Cast,,R,Hinds,Precinct 80,10
 Robert Gray,Governor,,D,Hinds,Precinct 80,164
 Valerie Adream Smartt Short,Governor,,D,Hinds,Precinct 80,104
 Vicki Slater,Governor,,D,Hinds,Precinct 80,162
@@ -1799,9 +1799,9 @@ Write-in,State Treasurer,,R,Hinds,Precinct 80,0
 Mike Chaney,Commissioner of Insurance,,R,Hinds,Precinct 80,6
 John Mosley,Commissioner of Insurance,,R,Hinds,Precinct 80,4
 Write-in,Commissioner of Insurance,,R,Hinds,Precinct 80,0
-Registered Voters,,,,Hinds,Precinct 81,1829
-Ballots Cast,,,D,Hinds,Precinct 81,876
-Ballots Cast,,,R,Hinds,Precinct 81,16
+,Registered Voters,,,Hinds,Precinct 81,1829
+,Ballots Cast,,D,Hinds,Precinct 81,876
+,Ballots Cast,,R,Hinds,Precinct 81,16
 Robert Gray,Governor,,D,Hinds,Precinct 81,200
 Valerie Adream Smartt Short,Governor,,D,Hinds,Precinct 81,257
 Vicki Slater,Governor,,D,Hinds,Precinct 81,367
@@ -1828,9 +1828,9 @@ Write-in,State Treasurer,,R,Hinds,Precinct 81,0
 Mike Chaney,Commissioner of Insurance,,R,Hinds,Precinct 81,11
 John Mosley,Commissioner of Insurance,,R,Hinds,Precinct 81,4
 Write-in,Commissioner of Insurance,,R,Hinds,Precinct 81,0
-Registered Voters,,,,Hinds,Precinct 82,1295
-Ballots Cast,,,D,Hinds,Precinct 82,503
-Ballots Cast,,,R,Hinds,Precinct 82,6
+,Registered Voters,,,Hinds,Precinct 82,1295
+,Ballots Cast,,D,Hinds,Precinct 82,503
+,Ballots Cast,,R,Hinds,Precinct 82,6
 Robert Gray,Governor,,D,Hinds,Precinct 82,138
 Valerie Adream Smartt Short,Governor,,D,Hinds,Precinct 82,169
 Vicki Slater,Governor,,D,Hinds,Precinct 82,175
@@ -1857,9 +1857,9 @@ Write-in,State Treasurer,,R,Hinds,Precinct 82,0
 Mike Chaney,Commissioner of Insurance,,R,Hinds,Precinct 82,6
 John Mosley,Commissioner of Insurance,,R,Hinds,Precinct 82,0
 Write-in,Commissioner of Insurance,,R,Hinds,Precinct 82,0
-Registered Voters,,,,Hinds,Precinct 83,2762
-Ballots Cast,,,D,Hinds,Precinct 83,1106
-Ballots Cast,,,R,Hinds,Precinct 83,7
+,Registered Voters,,,Hinds,Precinct 83,2762
+,Ballots Cast,,D,Hinds,Precinct 83,1106
+,Ballots Cast,,R,Hinds,Precinct 83,7
 Robert Gray,Governor,,D,Hinds,Precinct 83,274
 Valerie Adream Smartt Short,Governor,,D,Hinds,Precinct 83,289
 Vicki Slater,Governor,,D,Hinds,Precinct 83,473
@@ -1886,9 +1886,9 @@ Write-in,State Treasurer,,R,Hinds,Precinct 83,0
 Mike Chaney,Commissioner of Insurance,,R,Hinds,Precinct 83,4
 John Mosley,Commissioner of Insurance,,R,Hinds,Precinct 83,3
 Write-in,Commissioner of Insurance,,R,Hinds,Precinct 83,0
-Registered Voters,,,,Hinds,Precinct 84,309
-Ballots Cast,,,D,Hinds,Precinct 84,83
-Ballots Cast,,,R,Hinds,Precinct 84,0
+,Registered Voters,,,Hinds,Precinct 84,309
+,Ballots Cast,,D,Hinds,Precinct 84,83
+,Ballots Cast,,R,Hinds,Precinct 84,0
 Robert Gray,Governor,,D,Hinds,Precinct 84,34
 Valerie Adream Smartt Short,Governor,,D,Hinds,Precinct 84,10
 Vicki Slater,Governor,,D,Hinds,Precinct 84,34
@@ -1916,9 +1916,9 @@ Write-in,State Treasurer,,R,Hinds,Precinct 84,0
 Mike Chaney,Commissioner of Insurance,,R,Hinds,Precinct 84,0
 John Mosley,Commissioner of Insurance,,R,Hinds,Precinct 84,0
 Write-in,Commissioner of Insurance,,R,Hinds,Precinct 84,0
-Registered Voters,,,,Hinds,Precinct 85,2584
-Ballots Cast,,,D,Hinds,Precinct 85,871
-Ballots Cast,,,R,Hinds,Precinct 85,0
+,Registered Voters,,,Hinds,Precinct 85,2584
+,Ballots Cast,,D,Hinds,Precinct 85,871
+,Ballots Cast,,R,Hinds,Precinct 85,0
 Robert Gray,Governor,,D,Hinds,Precinct 85,277
 Valerie Adream Smartt Short,Governor,,D,Hinds,Precinct 85,167
 Vicki Slater,Governor,,D,Hinds,Precinct 85,364
@@ -1942,9 +1942,9 @@ Write-in,State Treasurer,,R,Hinds,Precinct 85,0
 Mike Chaney,Commissioner of Insurance,,R,Hinds,Precinct 85,0
 John Mosley,Commissioner of Insurance,,R,Hinds,Precinct 85,0
 Write-in,Commissioner of Insurance,,R,Hinds,Precinct 85,0
-Registered Voters,,,,Hinds,Precinct 86,1327
-Ballots Cast,,,D,Hinds,Precinct 86,379
-Ballots Cast,,,R,Hinds,Precinct 86,2
+,Registered Voters,,,Hinds,Precinct 86,1327
+,Ballots Cast,,D,Hinds,Precinct 86,379
+,Ballots Cast,,R,Hinds,Precinct 86,2
 Robert Gray,Governor,,D,Hinds,Precinct 86,122
 Valerie Adream Smartt Short,Governor,,D,Hinds,Precinct 86,98
 Vicki Slater,Governor,,D,Hinds,Precinct 86,138
@@ -1965,9 +1965,9 @@ Write-in,State Treasurer,,R,Hinds,Precinct 86,0
 Mike Chaney,Commissioner of Insurance,,R,Hinds,Precinct 86,1
 John Mosley,Commissioner of Insurance,,R,Hinds,Precinct 86,1
 Write-in,Commissioner of Insurance,,R,Hinds,Precinct 86,0
-Registered Voters,,,,Hinds,Precinct 88,1823
-Ballots Cast,,,D,Hinds,Precinct 88,460
-Ballots Cast,,,R,Hinds,Precinct 88,19
+,Registered Voters,,,Hinds,Precinct 88,1823
+,Ballots Cast,,D,Hinds,Precinct 88,460
+,Ballots Cast,,R,Hinds,Precinct 88,19
 Robert Gray,Governor,,D,Hinds,Precinct 88,129
 Valerie Adream Smartt Short,Governor,,D,Hinds,Precinct 88,93
 Vicki Slater,Governor,,D,Hinds,Precinct 88,208
@@ -1991,9 +1991,9 @@ Write-in,State Treasurer,,R,Hinds,Precinct 88,0
 Mike Chaney,Commissioner of Insurance,,R,Hinds,Precinct 88,8
 John Mosley,Commissioner of Insurance,,R,Hinds,Precinct 88,11
 Write-in,Commissioner of Insurance,,R,Hinds,Precinct 88,0
-Registered Voters,,,,Hinds,Precinct 89,1854
-Ballots Cast,,,D,Hinds,Precinct 89,218
-Ballots Cast,,,R,Hinds,Precinct 89,26
+,Registered Voters,,,Hinds,Precinct 89,1854
+,Ballots Cast,,D,Hinds,Precinct 89,218
+,Ballots Cast,,R,Hinds,Precinct 89,26
 Robert Gray,Governor,,D,Hinds,Precinct 89,73
 Valerie Adream Smartt Short,Governor,,D,Hinds,Precinct 89,47
 Vicki Slater,Governor,,D,Hinds,Precinct 89,79
@@ -2017,9 +2017,9 @@ Write-in,State Treasurer,,R,Hinds,Precinct 89,0
 Mike Chaney,Commissioner of Insurance,,R,Hinds,Precinct 89,14
 John Mosley,Commissioner of Insurance,,R,Hinds,Precinct 89,11
 Write-in,Commissioner of Insurance,,R,Hinds,Precinct 89,1
-Registered Voters,,,,Hinds,Precinct 90,1048
-Ballots Cast,,,D,Hinds,Precinct 90,201
-Ballots Cast,,,R,Hinds,Precinct 90,24
+,Registered Voters,,,Hinds,Precinct 90,1048
+,Ballots Cast,,D,Hinds,Precinct 90,201
+,Ballots Cast,,R,Hinds,Precinct 90,24
 Robert Gray,Governor,,D,Hinds,Precinct 90,68
 Valerie Adream Smartt Short,Governor,,D,Hinds,Precinct 90,50
 Vicki Slater,Governor,,D,Hinds,Precinct 90,69
@@ -2043,9 +2043,9 @@ Write-in,State Treasurer,,R,Hinds,Precinct 90,0
 Mike Chaney,Commissioner of Insurance,,R,Hinds,Precinct 90,18
 John Mosley,Commissioner of Insurance,,R,Hinds,Precinct 90,5
 Write-in,Commissioner of Insurance,,R,Hinds,Precinct 90,0
-Registered Voters,,,,Hinds,Precinct 91,2002
-Ballots Cast,,,D,Hinds,Precinct 91,654
-Ballots Cast,,,R,Hinds,Precinct 91,27
+,Registered Voters,,,Hinds,Precinct 91,2002
+,Ballots Cast,,D,Hinds,Precinct 91,654
+,Ballots Cast,,R,Hinds,Precinct 91,27
 Robert Gray,Governor,,D,Hinds,Precinct 91,193
 Valerie Adream Smartt Short,Governor,,D,Hinds,Precinct 91,155
 Vicki Slater,Governor,,D,Hinds,Precinct 91,271
@@ -2076,9 +2076,9 @@ Write-in,State Treasurer,,R,Hinds,Precinct 91,0
 Mike Chaney,Commissioner of Insurance,,R,Hinds,Precinct 91,17
 John Mosley,Commissioner of Insurance,,R,Hinds,Precinct 91,10
 Write-in,Commissioner of Insurance,,R,Hinds,Precinct 91,0
-Registered Voters,,,,Hinds,Precinct 92,2446
-Ballots Cast,,,D,Hinds,Precinct 92,516
-Ballots Cast,,,R,Hinds,Precinct 92,49
+,Registered Voters,,,Hinds,Precinct 92,2446
+,Ballots Cast,,D,Hinds,Precinct 92,516
+,Ballots Cast,,R,Hinds,Precinct 92,49
 Robert Gray,Governor,,D,Hinds,Precinct 92,166
 Valerie Adream Smartt Short,Governor,,D,Hinds,Precinct 92,128
 Vicki Slater,Governor,,D,Hinds,Precinct 92,191
@@ -2102,9 +2102,9 @@ Write-in,State Treasurer,,R,Hinds,Precinct 92,0
 Mike Chaney,Commissioner of Insurance,,R,Hinds,Precinct 92,33
 John Mosley,Commissioner of Insurance,,R,Hinds,Precinct 92,16
 Write-in,Commissioner of Insurance,,R,Hinds,Precinct 92,0
-Registered Voters,,,,Hinds,Precinct 93,1361
-Ballots Cast,,,D,Hinds,Precinct 93,280
-Ballots Cast,,,R,Hinds,Precinct 93,37
+,Registered Voters,,,Hinds,Precinct 93,1361
+,Ballots Cast,,D,Hinds,Precinct 93,280
+,Ballots Cast,,R,Hinds,Precinct 93,37
 Robert Gray,Governor,,D,Hinds,Precinct 93,102
 Valerie Adream Smartt Short,Governor,,D,Hinds,Precinct 93,52
 Vicki Slater,Governor,,D,Hinds,Precinct 93,110
@@ -2128,9 +2128,9 @@ Write-in,State Treasurer,,R,Hinds,Precinct 93,0
 Mike Chaney,Commissioner of Insurance,,R,Hinds,Precinct 93,23
 John Mosley,Commissioner of Insurance,,R,Hinds,Precinct 93,13
 Write-in,Commissioner of Insurance,,R,Hinds,Precinct 93,0
-Registered Voters,,,,Hinds,Precinct 94,2505
-Ballots Cast,,,D,Hinds,Precinct 94,666
-Ballots Cast,,,R,Hinds,Precinct 94,22
+,Registered Voters,,,Hinds,Precinct 94,2505
+,Ballots Cast,,D,Hinds,Precinct 94,666
+,Ballots Cast,,R,Hinds,Precinct 94,22
 Robert Gray,Governor,,D,Hinds,Precinct 94,198
 Valerie Adream Smartt Short,Governor,,D,Hinds,Precinct 94,153
 Vicki Slater,Governor,,D,Hinds,Precinct 94,257
@@ -2158,9 +2158,9 @@ Write-in,State Treasurer,,R,Hinds,Precinct 94,0
 Mike Chaney,Commissioner of Insurance,,R,Hinds,Precinct 94,14
 John Mosley,Commissioner of Insurance,,R,Hinds,Precinct 94,8
 Write-in,Commissioner of Insurance,,R,Hinds,Precinct 94,0
-Registered Voters,,,,Hinds,Precinct 95,495
-Ballots Cast,,,D,Hinds,Precinct 95,143
-Ballots Cast,,,R,Hinds,Precinct 95,46
+,Registered Voters,,,Hinds,Precinct 95,495
+,Ballots Cast,,D,Hinds,Precinct 95,143
+,Ballots Cast,,R,Hinds,Precinct 95,46
 Robert Gray,Governor,,D,Hinds,Precinct 95,48
 Valerie Adream Smartt Short,Governor,,D,Hinds,Precinct 95,38
 Vicki Slater,Governor,,D,Hinds,Precinct 95,48
@@ -2188,9 +2188,9 @@ Write-in,State Treasurer,,R,Hinds,Precinct 95,0
 Mike Chaney,Commissioner of Insurance,,R,Hinds,Precinct 95,20
 John Mosley,Commissioner of Insurance,,R,Hinds,Precinct 95,25
 Write-in,Commissioner of Insurance,,R,Hinds,Precinct 95,1
-Registered Voters,,,,Hinds,Precinct 96,1510
-Ballots Cast,,,D,Hinds,Precinct 96,494
-Ballots Cast,,,R,Hinds,Precinct 96,79
+,Registered Voters,,,Hinds,Precinct 96,1510
+,Ballots Cast,,D,Hinds,Precinct 96,494
+,Ballots Cast,,R,Hinds,Precinct 96,79
 Robert Gray,Governor,,D,Hinds,Precinct 96,139
 Valerie Adream Smartt Short,Governor,,D,Hinds,Precinct 96,120
 Vicki Slater,Governor,,D,Hinds,Precinct 96,193
@@ -2215,9 +2215,9 @@ Write-in,State Treasurer,,R,Hinds,Precinct 96,0
 Mike Chaney,Commissioner of Insurance,,R,Hinds,Precinct 96,47
 John Mosley,Commissioner of Insurance,,R,Hinds,Precinct 96,29
 Write-in,Commissioner of Insurance,,R,Hinds,Precinct 96,0
-Registered Voters,,,,Hinds,Precinct 97,440
-Ballots Cast,,,D,Hinds,Precinct 97,92
-Ballots Cast,,,R,Hinds,Precinct 97,21
+,Registered Voters,,,Hinds,Precinct 97,440
+,Ballots Cast,,D,Hinds,Precinct 97,92
+,Ballots Cast,,R,Hinds,Precinct 97,21
 Robert Gray,Governor,,D,Hinds,Precinct 97,23
 Valerie Adream Smartt Short,Governor,,D,Hinds,Precinct 97,29
 Vicki Slater,Governor,,D,Hinds,Precinct 97,32
@@ -2245,9 +2245,9 @@ Write-in,State Treasurer,,R,Hinds,Precinct 97,0
 Mike Chaney,Commissioner of Insurance,,R,Hinds,Precinct 97,14
 John Mosley,Commissioner of Insurance,,R,Hinds,Precinct 97,6
 Write-in,Commissioner of Insurance,,R,Hinds,Precinct 97,0
-Registered Voters,,,,Hinds,Byram 1,2779
-Ballots Cast,,,D,Hinds,Byram 1,670
-Ballots Cast,,,R,Hinds,Byram 1,191
+,Registered Voters,,,Hinds,Byram 1,2779
+,Ballots Cast,,D,Hinds,Byram 1,670
+,Ballots Cast,,R,Hinds,Byram 1,191
 Robert Gray,Governor,,D,Hinds,Byram 1,191
 Valerie Adream Smartt Short,Governor,,D,Hinds,Byram 1,190
 Vicki Slater,Governor,,D,Hinds,Byram 1,248
@@ -2272,9 +2272,9 @@ Write-in,State Treasurer,,R,Hinds,Byram 1,1
 Mike Chaney,Commissioner of Insurance,,R,Hinds,Byram 1,112
 John Mosley,Commissioner of Insurance,,R,Hinds,Byram 1,77
 Write-in,Commissioner of Insurance,,R,Hinds,Byram 1,0
-Registered Voters,,,,Hinds,Byram 2,2065
-Ballots Cast,,,D,Hinds,Byram 2,475
-Ballots Cast,,,R,Hinds,Byram 2,363
+,Registered Voters,,,Hinds,Byram 2,2065
+,Ballots Cast,,D,Hinds,Byram 2,475
+,Ballots Cast,,R,Hinds,Byram 2,363
 Robert Gray,Governor,,D,Hinds,Byram 2,146
 Valerie Adream Smartt Short,Governor,,D,Hinds,Byram 2,103
 Vicki Slater,Governor,,D,Hinds,Byram 2,167
@@ -2306,9 +2306,9 @@ Write-in,State Treasurer,,R,Hinds,Byram 2,0
 Mike Chaney,Commissioner of Insurance,,R,Hinds,Byram 2,191
 John Mosley,Commissioner of Insurance,,R,Hinds,Byram 2,169
 Write-in,Commissioner of Insurance,,R,Hinds,Byram 2,0
-Registered Voters,,,,Hinds,Byram 3,1664
-Ballots Cast,,,D,Hinds,Byram 3,469
-Ballots Cast,,,R,Hinds,Byram 3,111
+,Registered Voters,,,Hinds,Byram 3,1664
+,Ballots Cast,,D,Hinds,Byram 3,469
+,Ballots Cast,,R,Hinds,Byram 3,111
 Robert Gray,Governor,,D,Hinds,Byram 3,157
 Valerie Adream Smartt Short,Governor,,D,Hinds,Byram 3,111
 Vicki Slater,Governor,,D,Hinds,Byram 3,164
@@ -2333,9 +2333,9 @@ Write-in,State Treasurer,,R,Hinds,Byram 3,0
 Mike Chaney,Commissioner of Insurance,,R,Hinds,Byram 3,56
 John Mosley,Commissioner of Insurance,,R,Hinds,Byram 3,53
 Write-in,Commissioner of Insurance,,R,Hinds,Byram 3,0
-Registered Voters,,,,Hinds,Bolton,1465
-Ballots Cast,,,D,Hinds,Bolton,514
-Ballots Cast,,,R,Hinds,Bolton,54
+,Registered Voters,,,Hinds,Bolton,1465
+,Ballots Cast,,D,Hinds,Bolton,514
+,Ballots Cast,,R,Hinds,Bolton,54
 Robert Gray,Governor,,D,Hinds,Bolton,142
 Valerie Adream Smartt Short,Governor,,D,Hinds,Bolton,75
 Vicki Slater,Governor,,D,Hinds,Bolton,228
@@ -2362,9 +2362,9 @@ Write-in,State Treasurer,,R,Hinds,Bolton,0
 Mike Chaney,Commissioner of Insurance,,R,Hinds,Bolton,20
 John Mosley,Commissioner of Insurance,,R,Hinds,Bolton,34
 Write-in,Commissioner of Insurance,,R,Hinds,Bolton,0
-Registered Voters,,,,Hinds,Brownsville,535
-Ballots Cast,,,D,Hinds,Brownsville,140
-Ballots Cast,,,R,Hinds,Brownsville,87
+,Registered Voters,,,Hinds,Brownsville,535
+,Ballots Cast,,D,Hinds,Brownsville,140
+,Ballots Cast,,R,Hinds,Brownsville,87
 Robert Gray,Governor,,D,Hinds,Brownsville,44
 Valerie Adream Smartt Short,Governor,,D,Hinds,Brownsville,22
 Vicki Slater,Governor,,D,Hinds,Brownsville,56
@@ -2391,9 +2391,9 @@ Write-in,State Treasurer,,R,Hinds,Brownsville,0
 Mike Chaney,Commissioner of Insurance,,R,Hinds,Brownsville,26
 John Mosley,Commissioner of Insurance,,R,Hinds,Brownsville,60
 Write-in,Commissioner of Insurance,,R,Hinds,Brownsville,0
-Registered Voters,,,,Hinds,Clinton 1,1479
-Ballots Cast,,,D,Hinds,Clinton 1,250
-Ballots Cast,,,R,Hinds,Clinton 1,263
+,Registered Voters,,,Hinds,Clinton 1,1479
+,Ballots Cast,,D,Hinds,Clinton 1,250
+,Ballots Cast,,R,Hinds,Clinton 1,263
 Robert Gray,Governor,,D,Hinds,Clinton 1,65
 Valerie Adream Smartt Short,Governor,,D,Hinds,Clinton 1,37
 Vicki Slater,Governor,,D,Hinds,Clinton 1,119
@@ -2414,9 +2414,9 @@ Write-in,State Treasurer,,R,Hinds,Clinton 1,0
 Mike Chaney,Commissioner of Insurance,,R,Hinds,Clinton 1,113
 John Mosley,Commissioner of Insurance,,R,Hinds,Clinton 1,147
 Write-in,Commissioner of Insurance,,R,Hinds,Clinton 1,0
-Registered Voters,,,,Hinds,Clinton 2,2478
-Ballots Cast,,,D,Hinds,Clinton 2,292
-Ballots Cast,,,R,Hinds,Clinton 2,663
+,Registered Voters,,,Hinds,Clinton 2,2478
+,Ballots Cast,,D,Hinds,Clinton 2,292
+,Ballots Cast,,R,Hinds,Clinton 2,663
 Robert Gray,Governor,,D,Hinds,Clinton 2,64
 Valerie Adream Smartt Short,Governor,,D,Hinds,Clinton 2,71
 Vicki Slater,Governor,,D,Hinds,Clinton 2,130
@@ -2437,9 +2437,9 @@ Write-in,State Treasurer,,R,Hinds,Clinton 2,1
 Mike Chaney,Commissioner of Insurance,,R,Hinds,Clinton 2,339
 John Mosley,Commissioner of Insurance,,R,Hinds,Clinton 2,315
 Write-in,Commissioner of Insurance,,R,Hinds,Clinton 2,0
-Registered Voters,,,,Hinds,Clinton 3,2466
-Ballots Cast,,,D,Hinds,Clinton 3,399
-Ballots Cast,,,R,Hinds,Clinton 3,545
+,Registered Voters,,,Hinds,Clinton 3,2466
+,Ballots Cast,,D,Hinds,Clinton 3,399
+,Ballots Cast,,R,Hinds,Clinton 3,545
 Robert Gray,Governor,,D,Hinds,Clinton 3,109
 Valerie Adream Smartt Short,Governor,,D,Hinds,Clinton 3,87
 Vicki Slater,Governor,,D,Hinds,Clinton 3,167
@@ -2460,9 +2460,9 @@ Write-in,State Treasurer,,R,Hinds,Clinton 3,0
 Mike Chaney,Commissioner of Insurance,,R,Hinds,Clinton 3,277
 John Mosley,Commissioner of Insurance,,R,Hinds,Clinton 3,263
 Write-in,Commissioner of Insurance,,R,Hinds,Clinton 3,0
-Registered Voters,,,,Hinds,Clinton 4,1148
-Ballots Cast,,,D,Hinds,Clinton 4,169
-Ballots Cast,,,R,Hinds,Clinton 4,197
+,Registered Voters,,,Hinds,Clinton 4,1148
+,Ballots Cast,,D,Hinds,Clinton 4,169
+,Ballots Cast,,R,Hinds,Clinton 4,197
 Robert Gray,Governor,,D,Hinds,Clinton 4,45
 Valerie Adream Smartt Short,Governor,,D,Hinds,Clinton 4,46
 Vicki Slater,Governor,,D,Hinds,Clinton 4,67
@@ -2483,9 +2483,9 @@ Write-in,State Treasurer,,R,Hinds,Clinton 4,0
 Mike Chaney,Commissioner of Insurance,,R,Hinds,Clinton 4,84
 John Mosley,Commissioner of Insurance,,R,Hinds,Clinton 4,112
 Write-in,Commissioner of Insurance,,R,Hinds,Clinton 4,0
-Registered Voters,,,,Hinds,Clinton 5,1002
-Ballots Cast,,,D,Hinds,Clinton 5,81
-Ballots Cast,,,R,Hinds,Clinton 5,246
+,Registered Voters,,,Hinds,Clinton 5,1002
+,Ballots Cast,,D,Hinds,Clinton 5,81
+,Ballots Cast,,R,Hinds,Clinton 5,246
 Robert Gray,Governor,,D,Hinds,Clinton 5,18
 Valerie Adream Smartt Short,Governor,,D,Hinds,Clinton 5,16
 Vicki Slater,Governor,,D,Hinds,Clinton 5,35
@@ -2506,9 +2506,9 @@ Write-in,State Treasurer,,R,Hinds,Clinton 5,0
 Mike Chaney,Commissioner of Insurance,,R,Hinds,Clinton 5,93
 John Mosley,Commissioner of Insurance,,R,Hinds,Clinton 5,147
 Write-in,Commissioner of Insurance,,R,Hinds,Clinton 5,1
-Registered Voters,,,,Hinds,Clinton 6,1449
-Ballots Cast,,,D,Hinds,Clinton 6,248
-Ballots Cast,,,R,Hinds,Clinton 6,204
+,Registered Voters,,,Hinds,Clinton 6,1449
+,Ballots Cast,,D,Hinds,Clinton 6,248
+,Ballots Cast,,R,Hinds,Clinton 6,204
 Robert Gray,Governor,,D,Hinds,Clinton 6,83
 Valerie Adream Smartt Short,Governor,,D,Hinds,Clinton 6,46
 Vicki Slater,Governor,,D,Hinds,Clinton 6,102
@@ -2529,9 +2529,9 @@ Write-in,State Treasurer,,R,Hinds,Clinton 6,0
 Mike Chaney,Commissioner of Insurance,,R,Hinds,Clinton 6,70
 John Mosley,Commissioner of Insurance,,R,Hinds,Clinton 6,131
 Write-in,Commissioner of Insurance,,R,Hinds,Clinton 6,0
-Registered Voters,,,,Hinds,Clinton 7,1662
-Ballots Cast,,,D,Hinds,Clinton 7,238
-Ballots Cast,,,R,Hinds,Clinton 7,364
+,Registered Voters,,,Hinds,Clinton 7,1662
+,Ballots Cast,,D,Hinds,Clinton 7,238
+,Ballots Cast,,R,Hinds,Clinton 7,364
 Robert Gray,Governor,,D,Hinds,Clinton 7,54
 Valerie Adream Smartt Short,Governor,,D,Hinds,Clinton 7,51
 Vicki Slater,Governor,,D,Hinds,Clinton 7,104
@@ -2552,9 +2552,9 @@ Write-in,State Treasurer,,R,Hinds,Clinton 7,0
 Mike Chaney,Commissioner of Insurance,,R,Hinds,Clinton 7,172
 John Mosley,Commissioner of Insurance,,R,Hinds,Clinton 7,188
 Write-in,Commissioner of Insurance,,R,Hinds,Clinton 7,0
-Registered Voters,,,,Hinds,Cayuga,344
-Ballots Cast,,,D,Hinds,Cayuga,107
-Ballots Cast,,,R,Hinds,Cayuga,32
+,Registered Voters,,,Hinds,Cayuga,344
+,Ballots Cast,,D,Hinds,Cayuga,107
+,Ballots Cast,,R,Hinds,Cayuga,32
 Robert Gray,Governor,,D,Hinds,Cayuga,45
 Valerie Adream Smartt Short,Governor,,D,Hinds,Cayuga,18
 Vicki Slater,Governor,,D,Hinds,Cayuga,30
@@ -2582,9 +2582,9 @@ Write-in,State Treasurer,,R,Hinds,Cayuga,0
 Mike Chaney,Commissioner of Insurance,,R,Hinds,Cayuga,24
 John Mosley,Commissioner of Insurance,,R,Hinds,Cayuga,8
 Write-in,Commissioner of Insurance,,R,Hinds,Cayuga,0
-Registered Voters,,,,Hinds,Chapel Hill,892
-Ballots Cast,,,D,Hinds,Chapel Hill,256
-Ballots Cast,,,R,Hinds,Chapel Hill,68
+,Registered Voters,,,Hinds,Chapel Hill,892
+,Ballots Cast,,D,Hinds,Chapel Hill,256
+,Ballots Cast,,R,Hinds,Chapel Hill,68
 Robert Gray,Governor,,D,Hinds,Chapel Hill,83
 Valerie Adream Smartt Short,Governor,,D,Hinds,Chapel Hill,33
 Vicki Slater,Governor,,D,Hinds,Chapel Hill,95
@@ -2612,9 +2612,9 @@ Write-in,State Treasurer,,R,Hinds,Chapel Hill,0
 Mike Chaney,Commissioner of Insurance,,R,Hinds,Chapel Hill,41
 John Mosley,Commissioner of Insurance,,R,Hinds,Chapel Hill,27
 Write-in,Commissioner of Insurance,,R,Hinds,Chapel Hill,0
-Registered Voters,,,,Hinds,Cynthia,653
-Ballots Cast,,,D,Hinds,Cynthia,232
-Ballots Cast,,,R,Hinds,Cynthia,14
+,Registered Voters,,,Hinds,Cynthia,653
+,Ballots Cast,,D,Hinds,Cynthia,232
+,Ballots Cast,,R,Hinds,Cynthia,14
 Robert Gray,Governor,,D,Hinds,Cynthia,64
 Valerie Adream Smartt Short,Governor,,D,Hinds,Cynthia,65
 Vicki Slater,Governor,,D,Hinds,Cynthia,86
@@ -2641,9 +2641,9 @@ Write-in,State Treasurer,,R,Hinds,Cynthia,0
 Mike Chaney,Commissioner of Insurance,,R,Hinds,Cynthia,4
 John Mosley,Commissioner of Insurance,,R,Hinds,Cynthia,10
 Write-in,Commissioner of Insurance,,R,Hinds,Cynthia,0
-Registered Voters,,,,Hinds,Dry Grove,1080
-Ballots Cast,,,D,Hinds,Dry Grove,258
-Ballots Cast,,,R,Hinds,Dry Grove,170
+,Registered Voters,,,Hinds,Dry Grove,1080
+,Ballots Cast,,D,Hinds,Dry Grove,258
+,Ballots Cast,,R,Hinds,Dry Grove,170
 Robert Gray,Governor,,D,Hinds,Dry Grove,76
 Valerie Adream Smartt Short,Governor,,D,Hinds,Dry Grove,52
 Vicki Slater,Governor,,D,Hinds,Dry Grove,97
@@ -2671,9 +2671,9 @@ Write-in,State Treasurer,,R,Hinds,Dry Grove,0
 Mike Chaney,Commissioner of Insurance,,R,Hinds,Dry Grove,88
 John Mosley,Commissioner of Insurance,,R,Hinds,Dry Grove,79
 Write-in,Commissioner of Insurance,,R,Hinds,Dry Grove,0
-Registered Voters,,,,Hinds,Edwards,2116
-Ballots Cast,,,D,Hinds,Edwards,663
-Ballots Cast,,,R,Hinds,Edwards,84
+,Registered Voters,,,Hinds,Edwards,2116
+,Ballots Cast,,D,Hinds,Edwards,663
+,Ballots Cast,,R,Hinds,Edwards,84
 Robert Gray,Governor,,D,Hinds,Edwards,205
 Valerie Adream Smartt Short,Governor,,D,Hinds,Edwards,120
 Vicki Slater,Governor,,D,Hinds,Edwards,272
@@ -2700,9 +2700,9 @@ Write-in,State Treasurer,,R,Hinds,Edwards,0
 Mike Chaney,Commissioner of Insurance,,R,Hinds,Edwards,55
 John Mosley,Commissioner of Insurance,,R,Hinds,Edwards,29
 Write-in,Commissioner of Insurance,,R,Hinds,Edwards,0
-Registered Voters,,,,Hinds,Learned,623
-Ballots Cast,,,D,Hinds,Learned,128
-Ballots Cast,,,R,Hinds,Learned,97
+,Registered Voters,,,Hinds,Learned,623
+,Ballots Cast,,D,Hinds,Learned,128
+,Ballots Cast,,R,Hinds,Learned,97
 Robert Gray,Governor,,D,Hinds,Learned,40
 Valerie Adream Smartt Short,Governor,,D,Hinds,Learned,18
 Vicki Slater,Governor,,D,Hinds,Learned,34
@@ -2733,9 +2733,9 @@ Write-in,State Treasurer,,R,Hinds,Learned,0
 Mike Chaney,Commissioner of Insurance,,R,Hinds,Learned,46
 John Mosley,Commissioner of Insurance,,R,Hinds,Learned,50
 Write-in,Commissioner of Insurance,,R,Hinds,Learned,0
-Registered Voters,,,,Hinds,Old Byram,2081
-Ballots Cast,,,D,Hinds,Old Byram,369
-Ballots Cast,,,R,Hinds,Old Byram,243
+,Registered Voters,,,Hinds,Old Byram,2081
+,Ballots Cast,,D,Hinds,Old Byram,369
+,Ballots Cast,,R,Hinds,Old Byram,243
 Robert Gray,Governor,,D,Hinds,Old Byram,111
 Valerie Adream Smartt Short,Governor,,D,Hinds,Old Byram,90
 Vicki Slater,Governor,,D,Hinds,Old Byram,126
@@ -2763,9 +2763,9 @@ Write-in,State Treasurer,,R,Hinds,Old Byram,1
 Mike Chaney,Commissioner of Insurance,,R,Hinds,Old Byram,141
 John Mosley,Commissioner of Insurance,,R,Hinds,Old Byram,99
 Write-in,Commissioner of Insurance,,R,Hinds,Old Byram,0
-Registered Voters,,,,Hinds,Pinehaven,2546
-Ballots Cast,,,D,Hinds,Pinehaven,530
-Ballots Cast,,,R,Hinds,Pinehaven,385
+,Registered Voters,,,Hinds,Pinehaven,2546
+,Ballots Cast,,D,Hinds,Pinehaven,530
+,Ballots Cast,,R,Hinds,Pinehaven,385
 Robert Gray,Governor,,D,Hinds,Pinehaven,150
 Valerie Adream Smartt Short,Governor,,D,Hinds,Pinehaven,88
 Vicki Slater,Governor,,D,Hinds,Pinehaven,220
@@ -2792,9 +2792,9 @@ Write-in,State Treasurer,,R,Hinds,Pinehaven,0
 Mike Chaney,Commissioner of Insurance,,R,Hinds,Pinehaven,187
 John Mosley,Commissioner of Insurance,,R,Hinds,Pinehaven,197
 Write-in,Commissioner of Insurance,,R,Hinds,Pinehaven,0
-Registered Voters,,,,Hinds,Pocahontas,631
-Ballots Cast,,,D,Hinds,Pocahontas,211
-Ballots Cast,,,R,Hinds,Pocahontas,82
+,Registered Voters,,,Hinds,Pocahontas,631
+,Ballots Cast,,D,Hinds,Pocahontas,211
+,Ballots Cast,,R,Hinds,Pocahontas,82
 Robert Gray,Governor,,D,Hinds,Pocahontas,72
 Valerie Adream Smartt Short,Governor,,D,Hinds,Pocahontas,55
 Vicki Slater,Governor,,D,Hinds,Pocahontas,73
@@ -2818,9 +2818,9 @@ Write-in,State Treasurer,,R,Hinds,Pocahontas,0
 Mike Chaney,Commissioner of Insurance,,R,Hinds,Pocahontas,24
 John Mosley,Commissioner of Insurance,,R,Hinds,Pocahontas,56
 Write-in,Commissioner of Insurance,,R,Hinds,Pocahontas,0
-Registered Voters,,,,Hinds,Raymond 1,2090
-Ballots Cast,,,D,Hinds,Raymond 1,453
-Ballots Cast,,,R,Hinds,Raymond 1,287
+,Registered Voters,,,Hinds,Raymond 1,2090
+,Ballots Cast,,D,Hinds,Raymond 1,453
+,Ballots Cast,,R,Hinds,Raymond 1,287
 Robert Gray,Governor,,D,Hinds,Raymond 1,141
 Valerie Adream Smartt Short,Governor,,D,Hinds,Raymond 1,92
 Vicki Slater,Governor,,D,Hinds,Raymond 1,154
@@ -2848,9 +2848,9 @@ Write-in,State Treasurer,,R,Hinds,Raymond 1,0
 Mike Chaney,Commissioner of Insurance,,R,Hinds,Raymond 1,154
 John Mosley,Commissioner of Insurance,,R,Hinds,Raymond 1,126
 Write-in,Commissioner of Insurance,,R,Hinds,Raymond 1,0
-Registered Voters,,,,Hinds,Raymond 2,2256
-Ballots Cast,,,D,Hinds,Raymond 2,488
-Ballots Cast,,,R,Hinds,Raymond 2,327
+,Registered Voters,,,Hinds,Raymond 2,2256
+,Ballots Cast,,D,Hinds,Raymond 2,488
+,Ballots Cast,,R,Hinds,Raymond 2,327
 Robert Gray,Governor,,D,Hinds,Raymond 2,140
 Valerie Adream Smartt Short,Governor,,D,Hinds,Raymond 2,99
 Vicki Slater,Governor,,D,Hinds,Raymond 2,186
@@ -2884,9 +2884,9 @@ Write-in,State Treasurer,,R,Hinds,Raymond 2,0
 Mike Chaney,Commissioner of Insurance,,R,Hinds,Raymond 2,176
 John Mosley,Commissioner of Insurance,,R,Hinds,Raymond 2,149
 Write-in,Commissioner of Insurance,,R,Hinds,Raymond 2,0
-Registered Voters,,,,Hinds,Springridge,3266
-Ballots Cast,,,D,Hinds,Springridge,777
-Ballots Cast,,,R,Hinds,Springridge,379
+,Registered Voters,,,Hinds,Springridge,3266
+,Ballots Cast,,D,Hinds,Springridge,777
+,Ballots Cast,,R,Hinds,Springridge,379
 Robert Gray,Governor,,D,Hinds,Springridge,217
 Valerie Adream Smartt Short,Governor,,D,Hinds,Springridge,220
 Vicki Slater,Governor,,D,Hinds,Springridge,270
@@ -2924,9 +2924,9 @@ Write-in,State Treasurer,,R,Hinds,Springridge,1
 Mike Chaney,Commissioner of Insurance,,R,Hinds,Springridge,178
 John Mosley,Commissioner of Insurance,,R,Hinds,Springridge,198
 Write-in,Commissioner of Insurance,,R,Hinds,Springridge,0
-Registered Voters,,,,Hinds,St. Thomas,435
-Ballots Cast,,,D,Hinds,St. Thomas,171
-Ballots Cast,,,R,Hinds,St. Thomas,3
+,Registered Voters,,,Hinds,St. Thomas,435
+,Ballots Cast,,D,Hinds,St. Thomas,171
+,Ballots Cast,,R,Hinds,St. Thomas,3
 Robert Gray,Governor,,D,Hinds,St. Thomas,63
 Valerie Adream Smartt Short,Governor,,D,Hinds,St. Thomas,34
 Vicki Slater,Governor,,D,Hinds,St. Thomas,56
@@ -2954,9 +2954,9 @@ Write-in,State Treasurer,,R,Hinds,St. Thomas,0
 Mike Chaney,Commissioner of Insurance,,R,Hinds,St. Thomas,1
 John Mosley,Commissioner of Insurance,,R,Hinds,St. Thomas,2
 Write-in,Commissioner of Insurance,,R,Hinds,St. Thomas,0
-Registered Voters,,,,Hinds,Terry 1,1863
-Ballots Cast,,,D,Hinds,Terry 1,616
-Ballots Cast,,,R,Hinds,Terry 1,82
+,Registered Voters,,,Hinds,Terry 1,1863
+,Ballots Cast,,D,Hinds,Terry 1,616
+,Ballots Cast,,R,Hinds,Terry 1,82
 Robert Gray,Governor,,D,Hinds,Terry 1,203
 Valerie Adream Smartt Short,Governor,,D,Hinds,Terry 1,104
 Vicki Slater,Governor,,D,Hinds,Terry 1,244
@@ -2981,9 +2981,9 @@ Write-in,State Treasurer,,R,Hinds,Terry 1,0
 Mike Chaney,Commissioner of Insurance,,R,Hinds,Terry 1,44
 John Mosley,Commissioner of Insurance,,R,Hinds,Terry 1,38
 Write-in,Commissioner of Insurance,,R,Hinds,Terry 1,0
-Registered Voters,,,,Hinds,Terry 2,3285
-Ballots Cast,,,D,Hinds,Terry 2,688
-Ballots Cast,,,R,Hinds,Terry 2,468
+,Registered Voters,,,Hinds,Terry 2,3285
+,Ballots Cast,,D,Hinds,Terry 2,688
+,Ballots Cast,,R,Hinds,Terry 2,468
 Robert Gray,Governor,,D,Hinds,Terry 2,196
 Valerie Adream Smartt Short,Governor,,D,Hinds,Terry 2,103
 Vicki Slater,Governor,,D,Hinds,Terry 2,278
@@ -3014,9 +3014,9 @@ Write-in,State Treasurer,,R,Hinds,Terry 2,1
 Mike Chaney,Commissioner of Insurance,,R,Hinds,Terry 2,245
 John Mosley,Commissioner of Insurance,,R,Hinds,Terry 2,218
 Write-in,Commissioner of Insurance,,R,Hinds,Terry 2,0
-Registered Voters,,,,Hinds,Tinnin,965
-Ballots Cast,,,D,Hinds,Tinnin,154
-Ballots Cast,,,R,Hinds,Tinnin,228
+,Registered Voters,,,Hinds,Tinnin,965
+,Ballots Cast,,D,Hinds,Tinnin,154
+,Ballots Cast,,R,Hinds,Tinnin,228
 Robert Gray,Governor,,D,Hinds,Tinnin,46
 Valerie Adream Smartt Short,Governor,,D,Hinds,Tinnin,16
 Vicki Slater,Governor,,D,Hinds,Tinnin,70
@@ -3040,9 +3040,9 @@ Write-in,State Treasurer,,R,Hinds,Tinnin,0
 Mike Chaney,Commissioner of Insurance,,R,Hinds,Tinnin,66
 John Mosley,Commissioner of Insurance,,R,Hinds,Tinnin,162
 Write-in,Commissioner of Insurance,,R,Hinds,Tinnin,0
-Registered Voters,,,,Hinds,Utica 1,821
-Ballots Cast,,,D,Hinds,Utica 1,237
-Ballots Cast,,,R,Hinds,Utica 1,86
+,Registered Voters,,,Hinds,Utica 1,821
+,Ballots Cast,,D,Hinds,Utica 1,237
+,Ballots Cast,,R,Hinds,Utica 1,86
 Robert Gray,Governor,,D,Hinds,Utica 1,74
 Valerie Adream Smartt Short,Governor,,D,Hinds,Utica 1,34
 Vicki Slater,Governor,,D,Hinds,Utica 1,91
@@ -3070,9 +3070,9 @@ Write-in,State Treasurer,,R,Hinds,Utica 1,1
 Mike Chaney,Commissioner of Insurance,,R,Hinds,Utica 1,43
 John Mosley,Commissioner of Insurance,,R,Hinds,Utica 1,38
 Write-in,Commissioner of Insurance,,R,Hinds,Utica 1,1
-Registered Voters,,,,Hinds,Utica 2,939
-Ballots Cast,,,D,Hinds,Utica 2,278
-Ballots Cast,,,R,Hinds,Utica 2,36
+,Registered Voters,,,Hinds,Utica 2,939
+,Ballots Cast,,D,Hinds,Utica 2,278
+,Ballots Cast,,R,Hinds,Utica 2,36
 Robert Gray,Governor,,D,Hinds,Utica 2,70
 Valerie Adream Smartt Short,Governor,,D,Hinds,Utica 2,55
 Vicki Slater,Governor,,D,Hinds,Utica 2,126

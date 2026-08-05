@@ -573,13 +573,13 @@ Yazoo,President,,American Delta,Roque 'Rocky' De La Fuente,6
 Yazoo,President,,Prohibition,Jim Hedges,11
 Yazoo,President,,Libertarian,Gary Johnson,47
 Yazoo,President,,Green,Jill Stein,6
-,President,,Democrat,Hillary Clinton,485131
-,President,,Republican,Donald J. Trump,700714
-,President,,Constitution,Darrell Castle,3987
-,President,,American Delta,Roque 'Rocky' De La Fuente,644
-,President,,Prohibition,Jim Hedges,715
-,President,,Libertarian,Gary Johnson,14435
-,President,,Green,Jill Stein,3731
+Total,President,,Democrat,Hillary Clinton,485131
+Total,President,,Republican,Donald J. Trump,700714
+Total,President,,Constitution,Darrell Castle,3987
+Total,President,,American Delta,Roque 'Rocky' De La Fuente,644
+Total,President,,Prohibition,Jim Hedges,715
+Total,President,,Libertarian,Gary Johnson,14435
+Total,President,,Green,Jill Stein,3731
 Alcorn,U.S. House,1,Republican,Trent Kelly,11262
 Alcorn,U.S. House,1,Democrat,Jacob Owens,2337
 Alcorn,U.S. House,1,Reform,Cathy L. Toole,160
@@ -690,7 +690,7 @@ Warren,U.S. House,2,Republican,John Bouie II,8324
 Washington,U.S. House,2,Republican,John Bouie II,4204
 Yalobusha,U.S. House,2,Republican,John Bouie II,2791
 Yazoo,U.S. House,2,Republican,John Bouie II,3633
-,U.S. House,2,Republican,John Bouie II,83542
+Total,U.S. House,2,Republican,John Bouie II,83542
 Attala,U.S. House,2,Democrat,Bennie G. Thompson,3642
 Attala,U.S. House,2,Reform,Johnny McLeod,134
 Attala,U.S. House,2,Independent,Troy Ray,444
@@ -917,18 +917,18 @@ Yalobusha,U.S. House,2,Independent,Troy Ray,140
 Yazoo,U.S. House,2,Democrat,Bennie G. Thompson,5740
 Yazoo,U.S. House,2,Reform,Johnny McLeod,209
 Yazoo,U.S. House,2,Independent,Troy Ray,208
-,U.S. House,2,Democrat,Bennie G. Thompson,192343
-,U.S. House,2,Reform,Johnny McLeod,3823
-,U.S. House,2,Independent,Troy Ray,6918
+Total,U.S. House,2,Democrat,Bennie G. Thompson,192343
+Total,U.S. House,2,Reform,Johnny McLeod,3823
+Total,U.S. House,2,Independent,Troy Ray,6918
 Wilkinson,U.S. House,3,Republican,Gregg Harper,1555
 Wilkinson,U.S. House,3,Democrat,Dennis C. Quinn,2334
 Wilkinson,U.S. House,3,Veterans,Roger I. Gerrard,104
 Wilkinson,U.S. House,3,Reform,Lajena Sheets,52
-,U.S. House,3,Republican,Gregg Harper,209490
-,U.S. House,3,Democrat,Dennis C. Quinn,96101
-,U.S. House,3,Veterans,Roger I. Gerrard,8696
-,U.S. House,3,Reform,Lajena Sheets,2158
-,U.S. House,4,Democrat,Mark Gladney,77505
-,U.S. House,4,Republican,Steven Palazzo,181323
-,U.S. House,4,Libertarian,Richard Blake McCluskey,14687
-,U.S. House,4,Reform,Shawn O'Hara,5264
+Total,U.S. House,3,Republican,Gregg Harper,209490
+Total,U.S. House,3,Democrat,Dennis C. Quinn,96101
+Total,U.S. House,3,Veterans,Roger I. Gerrard,8696
+Total,U.S. House,3,Reform,Lajena Sheets,2158
+Total,U.S. House,4,Democrat,Mark Gladney,77505
+Total,U.S. House,4,Republican,Steven Palazzo,181323
+Total,U.S. House,4,Libertarian,Richard Blake McCluskey,14687
+Total,U.S. House,4,Reform,Shawn O'Hara,5264

@@ -1,6 +1,6 @@
 county,precinct,office,district,party,candidate,votes
-DeSoto,101 Ingrams Mill,,,,Registration,1289
-DeSoto,101 Ingrams Mill,,,,Ballots,369
+DeSoto,101 Ingrams Mill,Registered Voters,,,,1289
+DeSoto,101 Ingrams Mill,Ballots Cast,,,,369
 DeSoto,101 Ingrams Mill,Governor,,Republican,Phil Bryant,279
 DeSoto,101 Ingrams Mill,Governor,,Democrat,Robert Gray,75
 DeSoto,101 Ingrams Mill,Governor,,Reform,Shawn O'Hara,8
@@ -29,8 +29,8 @@ DeSoto,101 Ingrams Mill,State Senate,19,Republican,Kevin Blackwell,304
 DeSoto,101 Ingrams Mill,State Senate,19,,Write-in,8
 DeSoto,101 Ingrams Mill,State House,28,Republican,Robert Foster,305
 DeSoto,101 Ingrams Mill,State House,28,,Write-in,8
-DeSoto,102 Lewisburg East,,,,Registration,542
-DeSoto,102 Lewisburg East,,,,Ballots,190
+DeSoto,102 Lewisburg East,Registered Voters,,,,542
+DeSoto,102 Lewisburg East,Ballots Cast,,,,190
 DeSoto,102 Lewisburg East,Governor,,Republican,Phil Bryant,162
 DeSoto,102 Lewisburg East,Governor,,Democrat,Robert Gray,17
 DeSoto,102 Lewisburg East,Governor,,Reform,Shawn O'Hara,3
@@ -57,8 +57,8 @@ DeSoto,102 Lewisburg East,State Senate,1,Republican,Chris Massey,170
 DeSoto,102 Lewisburg East,State Senate,1,,Write-in,1
 DeSoto,102 Lewisburg East,State House,28,Republican,Robert Foster,168
 DeSoto,102 Lewisburg East,State House,28,,Write-in,1
-DeSoto,103 Miller,,,,Registration,3955
-DeSoto,103 Miller,,,,Ballots,824
+DeSoto,103 Miller,Registered Voters,,,,3955
+DeSoto,103 Miller,Ballots Cast,,,,824
 DeSoto,103 Miller,Governor,,Republican,Phil Bryant,632
 DeSoto,103 Miller,Governor,,Democrat,Robert Gray,164
 DeSoto,103 Miller,Governor,,Reform,Shawn O'Hara,11
@@ -86,8 +86,8 @@ DeSoto,103 Miller,State Senate,19,,Write-in,9
 DeSoto,103 Miller,State House,28,Republican,Robert Foster,50
 DeSoto,103 Miller,State House,52,Republican,William Kinkade,639
 DeSoto,103 Miller,State House,52,,Write-in,8
-DeSoto,104 Fairhaven,,,,Registeration,2418
-DeSoto,104 Fairhaven,,,,Ballots,516
+DeSoto,104 Fairhaven,Registered Voters,,,,2418
+DeSoto,104 Fairhaven,Ballots Cast,,,,516
 DeSoto,104 Fairhaven,Governor,,Republican,Phil Bryant,353
 DeSoto,104 Fairhaven,Governor,,Democrat,Robert Gray,145
 DeSoto,104 Fairhaven,Governor,,Reform,Shawn O'Hara,10
@@ -118,8 +118,8 @@ DeSoto,104 Fairhaven,State Senate,19,Republican,Kevin Blackwell,404
 DeSoto,104 Fairhaven,State Senate,19,,Write-in,6
 DeSoto,104 Fairhaven,State House,6,Republican,Dana Criswell,407
 DeSoto,104 Fairhaven,State House,6,,Write-in,5
-DeSoto,105 Olive Branch South,,,,Registration,3740
-DeSoto,105 Olive Branch South,,,,Ballots,832
+DeSoto,105 Olive Branch South,Registered Voters,,,,3740
+DeSoto,105 Olive Branch South,Ballots Cast,,,,832
 DeSoto,105 Olive Branch South,Governor,,Republican,Phil Bryant,684
 DeSoto,105 Olive Branch South,Governor,,Democrat,Robert Gray,101
 DeSoto,105 Olive Branch South,Governor,,Reform,Shawn O'Hara,14
@@ -150,8 +150,8 @@ DeSoto,105 Olive Branch South,State Senate,19,Republican,Kevin Blackwell,696
 DeSoto,105 Olive Branch South,State Senate,19,,Write-in,6
 DeSoto,105 Olive Branch South,State House,6,Republican,Dana Criswell,691
 DeSoto,105 Olive Branch South,State House,6,,Write-in,9
-DeSoto,106 Olive Branch North,,,,Registration,2972
-DeSoto,106 Olive Branch North,,,,Ballots,570
+DeSoto,106 Olive Branch North,Registered Voters,,,,2972
+DeSoto,106 Olive Branch North,Ballots Cast,,,,570
 DeSoto,106 Olive Branch North,Governor,,Republican,Phil Bryant,440
 DeSoto,106 Olive Branch North,Governor,,Democrat,Robert Gray,110
 DeSoto,106 Olive Branch North,Governor,,Reform,Shawn O'Hara,5
@@ -183,8 +183,8 @@ DeSoto,106 Olive Branch North,State Senate,19,Republican,Kevin Blackwell,470
 DeSoto,106 Olive Branch North,State Senate,19,,Write-in,5
 DeSoto,106 Olive Branch North,State House,6,Republican,Dana Criswell,464
 DeSoto,106 Olive Branch North,State House,6,,Write-in,7
-DeSoto,107 Hacks Cross Road,,,,Registeration,3038
-DeSoto,107 Hacks Cross Road,,,,Ballots,457
+DeSoto,107 Hacks Cross Road,Registered Voters,,,,3038
+DeSoto,107 Hacks Cross Road,Ballots Cast,,,,457
 DeSoto,107 Hacks Cross Road,Governor,,Republican,Phil Bryant,337
 DeSoto,107 Hacks Cross Road,Governor,,Democrat,Robert Gray,96
 DeSoto,107 Hacks Cross Road,Governor,,Reform,Shawn O'Hara,7
@@ -222,13 +222,13 @@ DeSoto,108 Mineral Wells,State House,6,Republican,Dana Criswell,438
 DeSoto,108 Mineral Wells,State House,6,,Write-in,10
 DeSoto,108 Mineral Wells,State House,7,Republican,Steve Hopkins,124
 DeSoto,108 Mineral Wells,State House,24,Republican,Jeff Hale,35
-DeSoto,108 Olive Branch West,,,,Registration,1171
+DeSoto,108 Olive Branch West,Registered Voters,,,,1171
 DeSoto,108 Olive Branch West,State Senate,19,Republican,Kevin Blackwell,212
 DeSoto,108 Olive Branch West,State Senate,19,,Write-in,3
 DeSoto,108 Olive Branch West,State House,6,Republican,Dana Criswell,197
 DeSoto,108 Olive Branch West,State House,6,,Write-in,3
 DeSoto,108 Olive Branch West,State House,24,Republican,Jeff Hale,15
-DeSoto,108 Olive Branch West H06,,,,Ballots,238
+DeSoto,108 Olive Branch West H06,Ballots Cast,,,,238
 DeSoto,108 Olive Branch West H06,Governor,,Republican,Phil Bryant,187
 DeSoto,108 Olive Branch West H06,Governor,,Democrat,Robert Gray,43
 DeSoto,108 Olive Branch West H06,Governor,,Reform,Shawn O'Hara,2
@@ -251,7 +251,7 @@ DeSoto,108 Olive Branch West H06,Commissioner of Agriculture & Commerce,,Republi
 DeSoto,108 Olive Branch West H06,Commissioner of Agriculture & Commerce,,Reform,Cathy L. Toole,4
 DeSoto,108 Olive Branch West H06,Commissioner of Insurance,,Republican,Mike Chaney,199
 DeSoto,108 Olive Branch West H06,Commissioner of Insurance,,,Write-in,4
-DeSoto,108 Olive Branch West H24,,,,Ballots,19
+DeSoto,108 Olive Branch West H24,Ballots Cast,,,,19
 DeSoto,108 Olive Branch West H24,Governor,,Republican,Phil Bryant,13
 DeSoto,108 Olive Branch West H24,Governor,,Democrat,Robert Gray,6
 DeSoto,108 Olive Branch West H24,Governor,,Reform,Shawn O'Hara,0
@@ -274,8 +274,8 @@ DeSoto,108 Olive Branch West H24,Commissioner of Agriculture & Commerce,,Republi
 DeSoto,108 Olive Branch West H24,Commissioner of Agriculture & Commerce,,Reform,Cathy L. Toole,1
 DeSoto,108 Olive Branch West H24,Commissioner of Insurance,,Republican,Mike Chaney,15
 DeSoto,108 Olive Branch West H24,Commissioner of Insurance,,,Write-in,0
-DeSoto,109 Cumberland,,,,Registeration,2319
-DeSoto,109 Cumberland,,,,Ballots,421
+DeSoto,109 Cumberland,Registered Voters,,,,2319
+DeSoto,109 Cumberland,Ballots Cast,,,,421
 DeSoto,109 Cumberland,Governor,,Republican,Phil Bryant,265
 DeSoto,109 Cumberland,Governor,,Democrat,Robert Gray,147
 DeSoto,109 Cumberland,Governor,,Reform,Shawn O'Hara,4
@@ -309,8 +309,8 @@ DeSoto,109 Cumberland,State Senate,19,Republican,Kevin Blackwell,314
 DeSoto,109 Cumberland,State Senate,19,,Write-in,9
 DeSoto,109 Cumberland,State House,6,Republican,Dana Criswell,311
 DeSoto,109 Cumberland,State House,6,,Write-in,10
-DeSoto,201 Mineral Wells,,,,Registration,3090
-DeSoto,201 Mineral Wells H06,,,,Ballots,545
+DeSoto,201 Mineral Wells,Registered Voters,,,,3090
+DeSoto,201 Mineral Wells H06,Ballots Cast,,,,545
 DeSoto,201 Mineral Wells H06,Governor,,Republican,Phil Bryant,399
 DeSoto,201 Mineral Wells H06,Governor,,Democrat,Robert Gray,127
 DeSoto,201 Mineral Wells H06,Governor,,Reform,Shawn O'Hara,7
@@ -335,7 +335,7 @@ DeSoto,201 Mineral Wells H06,Commissioner of Agriculture & Commerce,,Republican,
 DeSoto,201 Mineral Wells H06,Commissioner of Agriculture & Commerce,,Reform,Cathy L. Toole,12
 DeSoto,201 Mineral Wells H06,Commissioner of Insurance,,Republican,Mike Chaney,440
 DeSoto,201 Mineral Wells H06,Commissioner of Insurance,,,Write-in,7
-DeSoto,201 Mineral Wells H07,,,,Ballots,146
+DeSoto,201 Mineral Wells H07,Ballots Cast,,,,146
 DeSoto,201 Mineral Wells H07,Governor,,Republican,Phil Bryant,127
 DeSoto,201 Mineral Wells H07,Governor,,Democrat,Robert Gray,16
 DeSoto,201 Mineral Wells H07,Governor,,Reform,Shawn O'Hara,0
@@ -359,7 +359,7 @@ DeSoto,201 Mineral Wells H07,Commissioner of Agriculture & Commerce,,Republican,
 DeSoto,201 Mineral Wells H07,Commissioner of Agriculture & Commerce,,Reform,Cathy L. Toole,3
 DeSoto,201 Mineral Wells H07,Commissioner of Insurance,,Republican,Mike Chaney,124
 DeSoto,201 Mineral Wells H07,Commissioner of Insurance,,,Write-in,1
-DeSoto,201 Mineral Wells H24,,,,Ballots,36
+DeSoto,201 Mineral Wells H24,Ballots Cast,,,,36
 DeSoto,201 Mineral Wells H24,Governor,,Republican,Phil Bryant,30
 DeSoto,201 Mineral Wells H24,Governor,,Democrat,Robert Gray,5
 DeSoto,201 Mineral Wells H24,Governor,,Reform,Shawn O'Hara,1
@@ -383,8 +383,8 @@ DeSoto,201 Mineral Wells H24,Commissioner of Agriculture & Commerce,,Republican,
 DeSoto,201 Mineral Wells H24,Commissioner of Agriculture & Commerce,,Reform,Cathy L. Toole,2
 DeSoto,201 Mineral Wells H24,Commissioner of Insurance,,Republican,Mike Chaney,32
 DeSoto,201 Mineral Wells H24,Commissioner of Insurance,,,Write-in,2
-DeSoto,202 Greenbrook North,,,,Registeration,3241
-DeSoto,202 Greenbrook North,,,,Ballots,608
+DeSoto,202 Greenbrook North,Registered Voters,,,,3241
+DeSoto,202 Greenbrook North,Ballots Cast,,,,608
 DeSoto,202 Greenbrook North,Governor,,Republican,Phil Bryant,408
 DeSoto,202 Greenbrook North,Governor,,Democrat,Robert Gray,189
 DeSoto,202 Greenbrook North,Governor,,Reform,Shawn O'Hara,2
@@ -413,8 +413,8 @@ DeSoto,202 Greenbrook North,State Senate,2,Republican,David L. Parker,459
 DeSoto,202 Greenbrook North,State Senate,2,,Write-in,17
 DeSoto,202 Greenbrook North,State House,7,Republican,Steve Hopkins,454
 DeSoto,202 Greenbrook North,State House,24,,Write-in,15
-DeSoto,203 Desoto Central,,,,Registeration,3070
-DeSoto,203 Desoto Central,,,,Ballots,714
+DeSoto,203 Desoto Central,Registered Voters,,,,3070
+DeSoto,203 Desoto Central,Ballots Cast,,,,714
 DeSoto,203 Desoto Central,Governor,,Republican,Phil Bryant,556
 DeSoto,203 Desoto Central,Governor,,Democrat,Robert Gray,112
 DeSoto,203 Desoto Central,Governor,,Reform,Shawn O'Hara,8
@@ -443,8 +443,8 @@ DeSoto,203 Desoto Central,State Senate,1,Republican,Chris Massey,577
 DeSoto,203 Desoto Central,State Senate,1,,Write-in,10
 DeSoto,203 Desoto Central,State House,24,Republican,Jeff Hale,581
 DeSoto,203 Desoto Central,State House,24,,Write-in,9
-DeSoto,204 Greenbrook South,,,,Registeration,4345
-DeSoto,204 Greenbrook South,,,,Ballots,912
+DeSoto,204 Greenbrook South,Registered Voters,,,,4345
+DeSoto,204 Greenbrook South,Ballots Cast,,,,912
 DeSoto,204 Greenbrook South,Governor,,Republican,Phil Bryant,702
 DeSoto,204 Greenbrook South,Governor,,Democrat,Robert Gray,158
 DeSoto,204 Greenbrook South,Governor,,Reform,Shawn O'Hara,17
@@ -475,8 +475,8 @@ DeSoto,204 Greenbrook South,State Senate,2,Republican,David L. Parker,744
 DeSoto,204 Greenbrook South,State Senate,2,,Write-in,14
 DeSoto,204 Greenbrook South,State House,7,Republican,Steve Hopkins,730
 DeSoto,204 Greenbrook South,State House,7,,Write-in,24
-DeSoto,205 Summershill,,,,Registration,2797
-DeSoto,205 Summershill,,,,Ballots,749
+DeSoto,205 Summershill,Registered Voters,,,,2797
+DeSoto,205 Summershill,Ballots Cast,,,,749
 DeSoto,205 Summershill,Governor,,Republican,Phil Bryant,632
 DeSoto,205 Summershill,Governor,,Democrat,Robert Gray,98
 DeSoto,205 Summershill,Governor,,Reform,Shawn O'Hara,12
@@ -507,8 +507,8 @@ DeSoto,205 Summershill,State Senate,2,Republican,David L. Parker,629
 DeSoto,205 Summershill,State Senate,2,,Write-in,8
 DeSoto,205 Summershill,State House,7,Republican,Steve Hopkins,621
 DeSoto,205 Summershill,State House,7,,Write-in,9
-DeSoto,206 Pleasant Hill North,,,,Registration,2898
-DeSoto,206 Pleasant Hill North,,,,Ballots,695
+DeSoto,206 Pleasant Hill North,Registered Voters,,,,2898
+DeSoto,206 Pleasant Hill North,Ballots Cast,,,,695
 DeSoto,206 Pleasant Hill North,Governor,,Republican,Phil Bryant,587
 DeSoto,206 Pleasant Hill North,Governor,,Democrat,Robert Gray,70
 DeSoto,206 Pleasant Hill North,Governor,,Reform,Shawn O'Hara,10
@@ -538,7 +538,7 @@ DeSoto,206 Pleasant Hill North,State Senate,19,Republican,Kevin Blackwell,599
 DeSoto,206 Pleasant Hill North,State House,19,,Write-in,1
 DeSoto,206 Pleasant Hill North,State House,24,Republican,Jeff Hale,594
 DeSoto,206 Pleasant Hill North,State House,24,,Write-in,6
-DeSoto,207 Elmore,,,,Registeration,2360
+DeSoto,207 Elmore,Registered Voters,,,,2360
 DeSoto,207 Elmore,State Senate,1,Republican,Chris Massey,218
 DeSoto,207 Elmore,State Senate,1,,Write-in,5
 DeSoto,207 Elmore,State Senate,2,Republican,David L. Parker,231
@@ -547,7 +547,7 @@ DeSoto,207 Elmore,State House,7,Republican,Steve Hopkins,228
 DeSoto,207 Elmore,State House,7,,Write-in,3
 DeSoto,207 Elmore,State House,24,Republican,Jeff Hale,218
 DeSoto,207 Elmore,State House,24,,Write-in,5
-DeSoto,207 Elmore H07,,,,Ballots,292
+DeSoto,207 Elmore H07,Ballots Cast,,,,292
 DeSoto,207 Elmore H07,Governor,,Republican,Phil Bryant,230
 DeSoto,207 Elmore H07,Governor,,Democrat,Robert Gray,40
 DeSoto,207 Elmore H07,Governor,,Reform,Shawn O'Hara,3
@@ -573,7 +573,7 @@ DeSoto,207 Elmore H07,Commissioner of Agriculture & Commerce,,Democrat,Addie Lee
 DeSoto,207 Elmore H07,Commissioner of Agriculture & Commerce,,Republican,Cindy Hyde-Smith,223
 DeSoto,207 Elmore H07,Commissioner of Agriculture & Commerce,,Reform,Cathy L. Toole,5
 DeSoto,207 Elmore H07,Commissioner of Insurance,,Republican,Mike Chaney,229
-DeSoto,207 Elmore H24,,,,Ballots,284
+DeSoto,207 Elmore H24,Ballots Cast,,,,284
 DeSoto,207 Elmore H24,Governor,,Republican,Phil Bryant,209
 DeSoto,207 Elmore H24,Governor,,Democrat,Robert Gray,60
 DeSoto,207 Elmore H24,Governor,,Reform,Shawn O'Hara,4
@@ -603,8 +603,8 @@ DeSoto,207 Elmore H24,Commissioner of Agriculture & Commerce,,Reform,Cathy L. To
 DeSoto,207 Elmore H24,Commissioner of Agriculture & Commerce,,,Write-in,1
 DeSoto,207 Elmore H24,Commissioner of Insurance,,Republican,Mike Chaney,211
 DeSoto,207 Elmore H24,Commissioner of Insurance,,,Write-in,4
-DeSoto,301 Colonial Hills,,,,Registeration,1340
-DeSoto,301 Colonial Hills,,,,Ballots,279
+DeSoto,301 Colonial Hills,Registered Voters,,,,1340
+DeSoto,301 Colonial Hills,Ballots Cast,,,,279
 DeSoto,301 Colonial Hills,Governor,,Republican,Phil Bryant,237
 DeSoto,301 Colonial Hills,Governor,,Democrat,Robert Gray,34
 DeSoto,301 Colonial Hills,Governor,,Reform,Shawn O'Hara,3
@@ -636,8 +636,8 @@ DeSoto,301 Colonial Hills,State Senate,2,Republican,David L. Parker,244
 DeSoto,301 Colonial Hills,State Senate,2,,Write-in,4
 DeSoto,301 Colonial Hills,State House,40,Republican,Ashley Henley,229
 DeSoto,301 Colonial Hills,State House,40,Democrat,Hester Jackson-McCray,39
-DeSoto,302 Southhaven West,,,,Registration,2659
-DeSoto,302 Southhaven West,,,,Ballots,507
+DeSoto,302 Southhaven West,Registered Voters,,,,2659
+DeSoto,302 Southhaven West,Ballots Cast,,,,507
 DeSoto,302 Southhaven West,Governor,,Republican,Phil Bryant,363
 DeSoto,302 Southhaven West,Governor,,Democrat,Robert Gray,121
 DeSoto,302 Southhaven West,Governor,,Reform,Shawn O'Hara,6
@@ -667,8 +667,8 @@ DeSoto,302 Southhaven West,State Senate,2,Republican,David L. Parker,384
 DeSoto,302 Southhaven West,State Senate,2,,Write-in,10
 DeSoto,302 Southhaven West,State House,40,Republican,Ashley Henley,346
 DeSoto,302 Southhaven West,State House,40,Democrat,Hester Jackson-McCray,126
-DeSoto,303 Horn Lake North,,,,Registration,2521
-DeSoto,303 Horn Lake North,,,,Ballots,364
+DeSoto,303 Horn Lake North,Registered Voters,,,,2521
+DeSoto,303 Horn Lake North,Ballots Cast,,,,364
 DeSoto,303 Horn Lake North,Governor,,Republican,Phil Bryant,226
 DeSoto,303 Horn Lake North,Governor,,Democrat,Robert Gray,99
 DeSoto,303 Horn Lake North,Governor,,Reform,Shawn O'Hara,5
@@ -698,8 +698,8 @@ DeSoto,303 Horn Lake North,State Senate,2,,Write-in,10
 DeSoto,303 Horn Lake North,State House,40,Republican,Ashley Henley,206
 DeSoto,303 Horn Lake North,State House,40,Democrat,Hester Jackson-McCray,121
 DeSoto,303 Horn Lake North,State House,40,,Write-in,1
-DeSoto,304 Southhaven North,,,,Registration,3208
-DeSoto,304 Southhaven North,,,,Ballots,627
+DeSoto,304 Southhaven North,Registered Voters,,,,3208
+DeSoto,304 Southhaven North,Ballots Cast,,,,627
 DeSoto,304 Southhaven North,Governor,,Republican,Phil Bryant,549
 DeSoto,304 Southhaven North,Governor,,Democrat,Robert Gray,60
 DeSoto,304 Southhaven North,Governor,,Reform,Shawn O'Hara,8
@@ -732,8 +732,8 @@ DeSoto,304 Southhaven North,State Senate,2,Republican,David L. Parker,540
 DeSoto,304 Southhaven North,State Senate,2,,Write-in,9
 DeSoto,304 Southhaven North,State House,7,Republican,Steve Hopkins,525
 DeSoto,304 Southhaven North,State House,7,,Write-in,10
-DeSoto,305 Walls,,,,Registration,2992
-DeSoto,305 Walls,,,,Ballots,671
+DeSoto,305 Walls,Registered Voters,,,,2992
+DeSoto,305 Walls,Ballots Cast,,,,671
 DeSoto,305 Walls,Governor,,Republican,Phil Bryant,469
 DeSoto,305 Walls,Governor,,Democrat,Robert Gray,170
 DeSoto,305 Walls,Governor,,Reform,Shawn O'Hara,13
@@ -764,8 +764,8 @@ DeSoto,305 Walls,State Senate,1,,Write-in,20
 DeSoto,305 Walls,State House,25,Republican,Dan Eubanks,443
 DeSoto,305 Walls,State House,25,Democrat,Harold D. Harris,202
 DeSoto,305 Walls,State House,25,,Write-in,2
-DeSoto,306 Lake Cormorant,,,,Registration,654
-DeSoto,306 Lake Cormorant,,,,Ballots,143
+DeSoto,306 Lake Cormorant,Registered Voters,,,,654
+DeSoto,306 Lake Cormorant,Ballots Cast,,,,143
 DeSoto,306 Lake Cormorant,Governor,,Republican,Phil Bryant,105
 DeSoto,306 Lake Cormorant,Governor,,Democrat,Robert Gray,32
 DeSoto,306 Lake Cormorant,Governor,,Reform,Shawn O'Hara,1
@@ -792,8 +792,8 @@ DeSoto,306 Lake Cormorant,State Senate,1,Republican,Chris Massey,110
 DeSoto,306 Lake Cormorant,State Senate,1,,Write-in,1
 DeSoto,306 Lake Cormorant,State House,25,Republican,Dan Eubanks,97
 DeSoto,306 Lake Cormorant,State House,25,Democrat,Harold D. Harris,38
-DeSoto,307 Horn Lake Intermediate,,,,Registration,2476
-DeSoto,307 Horn Lake Intermediate,,,,Ballots,425
+DeSoto,307 Horn Lake Intermediate,Registered Voters,,,,2476
+DeSoto,307 Horn Lake Intermediate,Ballots Cast,,,,425
 DeSoto,307 Horn Lake Intermediate,Governor,,Republican,Phil Bryant,291
 DeSoto,307 Horn Lake Intermediate,Governor,,Democrat,Robert Gray,119
 DeSoto,307 Horn Lake Intermediate,Governor,,Reform,Shawn O'Hara,7
@@ -824,7 +824,7 @@ DeSoto,307 Horn Lake Intermediate,State Senate,2,Republican,David L. Parker,350
 DeSoto,307 Horn Lake Intermediate,State Senate,2,,Write-in,11
 DeSoto,307 Horn Lake Intermediate,State House,25,Republican,Dan Eubanks,279
 DeSoto,307 Horn Lake Intermediate,State House,25,Democrat,Harold D. Harris,144
-DeSoto,401 Southhaven South,,,,Registration,1651
+DeSoto,401 Southhaven South,Registered Voters,,,,1651
 DeSoto,401 Southhaven South,State Senate,2,Republican,David L. Parker,119
 DeSoto,401 Southhaven South,State Senate,2,,Write-in,7
 DeSoto,401 Southhaven South H24,State House,24,Republican,Jeff Hale,32
@@ -832,7 +832,7 @@ DeSoto,401 Southhaven South H24,State House,24,,Write-in,3
 DeSoto,401 Southhaven South H40,State House,40,Republican,Ashley Henley,61
 DeSoto,401 Southhaven South H40,State House,40,Democrat,Hester Jackson-McCray,49
 DeSoto,401 Southhaven South H40,State House,40,,Write-in,2
-DeSoto,401 Southhaven South H24,,,,Ballots,47
+DeSoto,401 Southhaven South H24,Ballots Cast,,,,47
 DeSoto,401 Southhaven South H24,Governor,,Republican,Phil Bryant,23
 DeSoto,401 Southhaven South H24,Governor,,Democrat,Robert Gray,22
 DeSoto,401 Southhaven South H24,Governor,,Reform,Shawn O'Hara,1
@@ -855,7 +855,7 @@ DeSoto,401 Southhaven South H24,Commissioner of Agriculture & Commerce,,Republic
 DeSoto,401 Southhaven South H24,Commissioner of Agriculture & Commerce,,Reform,Cathy L. Toole,0
 DeSoto,401 Southhaven South H24,Commissioner of Insurance,,Republican,Mike Chaney,29
 DeSoto,401 Southhaven South H24,Commissioner of Insurance,,,Write-in,4
-DeSoto,401 Southhaven South H40,,,,Ballots,121
+DeSoto,401 Southhaven South H40,Ballots Cast,,,,121
 DeSoto,401 Southhaven South H40,Governor,,Republican,Phil Bryant,72
 DeSoto,401 Southhaven South H40,Governor,,Democrat,Robert Gray,44
 DeSoto,401 Southhaven South H40,Governor,,Reform,Shawn O'Hara,1
@@ -879,8 +879,8 @@ DeSoto,401 Southhaven South H40,Commissioner of Agriculture & Commerce,,Republic
 DeSoto,401 Southhaven South H40,Commissioner of Agriculture & Commerce,,Reform,Cathy L. Toole,1
 DeSoto,401 Southhaven South H40,Commissioner of Insurance,,Republican,Mike Chaney,88
 DeSoto,401 Southhaven South H40,Commissioner of Insurance,,,Write-in,3
-DeSoto,402 Horn Lake East,,,,Registration,2491
-DeSoto,402 Horn Lake East,,,,Ballots,303
+DeSoto,402 Horn Lake East,Registered Voters,,,,2491
+DeSoto,402 Horn Lake East,Ballots Cast,,,,303
 DeSoto,402 Horn Lake East,Governor,,Republican,Phil Bryant,190
 DeSoto,402 Horn Lake East,Governor,,Democrat,Robert Gray,105
 DeSoto,402 Horn Lake East,Governor,,Reform,Shawn O'Hara,1
@@ -911,8 +911,8 @@ DeSoto,402 Horn Lake East,State Senate,2,,Write-in,7
 DeSoto,402 Horn Lake East,State House,40,Republican,Ashley Henley,168
 DeSoto,402 Horn Lake East,State House,40,Democrat,Hester Jackson-McCray,124
 DeSoto,402 Horn Lake East,State House,40,,Write-in,2
-DeSoto,403 Northwest Community College,,,,Registration,4047
-DeSoto,403 Northwest Community College,,,,Ballots,454
+DeSoto,403 Northwest Community College,Registered Voters,,,,4047
+DeSoto,403 Northwest Community College,Ballots Cast,,,,454
 DeSoto,403 Northwest Community College,Governor,,Republican,Phil Bryant,312
 DeSoto,403 Northwest Community College,Governor,,Democrat,Robert Gray,109
 DeSoto,403 Northwest Community College,Governor,,Reform,Shawn O'Hara,7
@@ -945,8 +945,8 @@ DeSoto,403 Northwest Community College,State Senate,1,,Write-in,9
 DeSoto,403 Northwest Community College,State Senate,2,Republican,David L. Parker,2
 DeSoto,403 Northwest Community College,State House,24,Republican,Jeff Hale,370
 DeSoto,403 Northwest Community College,State House,24,,Write-in,9
-DeSoto,404 Horn Lake West,,,,Registration,2460
-DeSoto,404 Horn Lake West,,,,Ballots,266
+DeSoto,404 Horn Lake West,Registered Voters,,,,2460
+DeSoto,404 Horn Lake West,Ballots Cast,,,,266
 DeSoto,404 Horn Lake West,Governor,,Republican,Phil Bryant,167
 DeSoto,404 Horn Lake West,Governor,,Democrat,Robert Gray,78
 DeSoto,404 Horn Lake West,Governor,,Reform,Shawn O'Hara,8
@@ -976,8 +976,8 @@ DeSoto,404 Horn Lake West,State Senate,2,Republican,David L. Parker,206
 DeSoto,404 Horn Lake West,State Senate,2,,Write-in,6
 DeSoto,404 Horn Lake West,State House,40,Republican,Ashley Henley,163
 DeSoto,404 Horn Lake West,State House,40,Democrat,Hester Jackson-McCray,85
-DeSoto,405 Nesbit West,,,,Registration,1611
-DeSoto,405 Nesbit West,,,,Ballots,462
+DeSoto,405 Nesbit West,Registered Voters,,,,1611
+DeSoto,405 Nesbit West,Ballots Cast,,,,462
 DeSoto,405 Nesbit West,Governor,,Republican,Phil Bryant,364
 DeSoto,405 Nesbit West,Governor,,Democrat,Robert Gray,83
 DeSoto,405 Nesbit West,Governor,,Reform,Shawn O'Hara,7
@@ -1007,8 +1007,8 @@ DeSoto,405 Nesbit West,State Senate,1,Republican,Chris Massey,374
 DeSoto,405 Nesbit West,State Senate,1,,Write-in,9
 DeSoto,405 Nesbit West,State House,25,Republican,Dan Eubanks,339
 DeSoto,405 Nesbit West,State House,25,Democrat,Harold D. Harris,104
-DeSoto,406 Eudora,,,,Registeration,1848
-DeSoto,406 Eudora,,,,Ballots,424
+DeSoto,406 Eudora,Registered Voters,,,,1848
+DeSoto,406 Eudora,Ballots Cast,,,,424
 DeSoto,406 Eudora,Governor,,Republican,Phil Bryant,351
 DeSoto,406 Eudora,Governor,,Democrat,Robert Gray,48
 DeSoto,406 Eudora,Governor,,Reform,Shawn O'Hara,16
@@ -1036,8 +1036,8 @@ DeSoto,406 Eudora,State Senate,1,Republican,Chris Massey,373
 DeSoto,406 Eudora,State Senate,1,,Write-in,3
 DeSoto,406 Eudora,State House,25,Republican,Dan Eubanks,344
 DeSoto,406 Eudora,State House,25,Democrat,Harold D. Harris,65
-DeSoto,407 Horn Lake Central,,,,Registration,1773
-DeSoto,407 Horn Lake Central,,,,Ballots,334
+DeSoto,407 Horn Lake Central,Registered Voters,,,,1773
+DeSoto,407 Horn Lake Central,Ballots Cast,,,,334
 DeSoto,407 Horn Lake Central,Governor,,Republican,Phil Bryant,232
 DeSoto,407 Horn Lake Central,Governor,,Democrat,Robert Gray,86
 DeSoto,407 Horn Lake Central,Governor,,Reform,Shawn O'Hara,7
@@ -1066,8 +1066,8 @@ DeSoto,407 Horn Lake Central,State Senate,2,Republican,David L. Parker,262
 DeSoto,407 Horn Lake Central,State Senate,2,,Write-in,6
 DeSoto,407 Horn Lake Central,State House,25,Republican,Dan Eubanks,219
 DeSoto,407 Horn Lake Central,State House,25,Democrat,Harold D. Harris,105
-DeSoto,408 Horn Lake High School,,,,Registration,2501
-DeSoto,408 Horn Lake High School,,,,Ballots,561
+DeSoto,408 Horn Lake High School,Registered Voters,,,,2501
+DeSoto,408 Horn Lake High School,Ballots Cast,,,,561
 DeSoto,408 Horn Lake High School,Governor,,Republican,Phil Bryant,426
 DeSoto,408 Horn Lake High School,Governor,,Democrat,Robert Gray,115
 DeSoto,408 Horn Lake High School,Governor,,Reform,Shawn O'Hara,10
@@ -1103,8 +1103,8 @@ DeSoto,408 Horn Lake High School,State Senate,2,Republican,David L. Parker,168
 DeSoto,408 Horn Lake High School,State Senate,2,,Write-in,4
 DeSoto,408 Horn Lake High School,State House,25,Republican,Dan Eubanks,418
 DeSoto,408 Horn Lake High School,State House,25,Democrat,Harold D. Harris,127
-DeSoto,501 Nesbit East,,,,Registration,1999
-DeSoto,501 Nesbit East,,,,Ballots,480
+DeSoto,501 Nesbit East,Registered Voters,,,,1999
+DeSoto,501 Nesbit East,Ballots Cast,,,,480
 DeSoto,501 Nesbit East,Governor,,Republican,Phil Bryant,366
 DeSoto,501 Nesbit East,Governor,,Democrat,Robert Gray,96
 DeSoto,501 Nesbit East,Governor,,Reform,Shawn O'Hara,10
@@ -1135,8 +1135,8 @@ DeSoto,501 Nesbit East,State Senate,1,Republican,Chris Massey,388
 DeSoto,501 Nesbit East,State Senate,1,,Write-in,10
 DeSoto,501 Nesbit East,State House,24,Republican,Jeff Hale,385
 DeSoto,501 Nesbit East,State House,24,,Write-in,11
-DeSoto,502 Bridgetown,,,,Registration,2430
-DeSoto,502 Bridgetown,,,,Ballots,747
+DeSoto,502 Bridgetown,Registered Voters,,,,2430
+DeSoto,502 Bridgetown,Ballots Cast,,,,747
 DeSoto,502 Bridgetown,Governor,,Republican,Phil Bryant,648
 DeSoto,502 Bridgetown,Governor,,Democrat,Robert Gray,79
 DeSoto,502 Bridgetown,Governor,,Reform,Shawn O'Hara,8
@@ -1165,8 +1165,8 @@ DeSoto,502 Bridgetown,State Senate,1,Republican,Chris Massey,666
 DeSoto,502 Bridgetown,State Senate,1,,Write-in,10
 DeSoto,502 Bridgetown,State House,24,Republican,Jeff Hale,661
 DeSoto,502 Bridgetown,State House,24,,Write-in,7
-DeSoto,503 Lewisburg,,,,Registration,3269
-DeSoto,503 Lewisburg H06,,,,Ballots,354
+DeSoto,503 Lewisburg,Registered Voters,,,,3269
+DeSoto,503 Lewisburg H06,Ballots Cast,,,,354
 DeSoto,503 Lewisburg H06,Governor,,Republican,Phil Bryant,302
 DeSoto,503 Lewisburg H06,Governor,,Democrat,Robert Gray,43
 DeSoto,503 Lewisburg H06,Governor,,Reform,Shawn O'Hara,4
@@ -1198,7 +1198,7 @@ DeSoto,503 Lewisburg,State Senate,19,Republican,Kevin Blackwell,384
 DeSoto,503 Lewisburg,State Senate,19,,Write-in,6
 DeSoto,503 Lewisburg H06,State House,6,Republican,Dana Criswell,310
 DeSoto,503 Lewisburg H06,State House,6,,Write-in,3
-DeSoto,503 Lewisburg H24,,,,Ballots,86
+DeSoto,503 Lewisburg H24,Ballots Cast,,,,86
 DeSoto,503 Lewisburg H24,Governor,,Republican,Phil Bryant,79
 DeSoto,503 Lewisburg H24,Governor,,Democrat,Robert Gray,6
 DeSoto,503 Lewisburg H24,Governor,,Reform,Shawn O'Hara,0
@@ -1222,7 +1222,7 @@ DeSoto,503 Lewisburg H24,Commissioner of Agriculture & Commerce,,Reform,Cathy L.
 DeSoto,503 Lewisburg H24,Commissioner of Insurance,,Republican,Mike Chaney,77
 DeSoto,503 Lewisburg H24,Commissioner of Insurance,,,Write-in,1
 DeSoto,503 Lewisburg H24,State House,24,Republican,Jeff Hale,77
-DeSoto,503 Lewisburg H28,,,,Ballots,428
+DeSoto,503 Lewisburg H28,Ballots Cast,,,,428
 DeSoto,503 Lewisburg H28,Governor,,Republican,Phil Bryant,355
 DeSoto,503 Lewisburg H28,Governor,,Democrat,Robert Gray,61
 DeSoto,503 Lewisburg H28,Governor,,Reform,Shawn O'Hara,5
@@ -1250,8 +1250,8 @@ DeSoto,503 Lewisburg H28,Commissioner of Insurance,,Republican,Mike Chaney,366
 DeSoto,503 Lewisburg H28,Commissioner of Insurance,,,Write-in,5
 DeSoto,503 Lewisburg H28,State House,28,Republican,Robert Foster,366
 DeSoto,503 Lewisburg H28,State House,28,,Write-in,4
-DeSoto,504 Hernando Central,,,,Registration,2859
-DeSoto,504 Hernando Central,,,,Ballots,803
+DeSoto,504 Hernando Central,Registered Voters,,,,2859
+DeSoto,504 Hernando Central,Ballots Cast,,,,803
 DeSoto,504 Hernando Central,Governor,,Republican,Phil Bryant,662
 DeSoto,504 Hernando Central,Governor,,Democrat,Robert Gray,90
 DeSoto,504 Hernando Central,Governor,,Reform,Shawn O'Hara,21
@@ -1284,8 +1284,8 @@ DeSoto,504 Hernando Central,State Senate,1,Republican,Chris Massey,694
 DeSoto,504 Hernando Central,State Senate,1,,Write-in,12
 DeSoto,504 Hernando Central,State House,28,Republican,Robert Foster,711
 DeSoto,504 Hernando Central,State House,28,,Write-in,8
-DeSoto,505 Hernando East,,,,Registration,5335
-DeSoto,505 Hernando East,,,,Ballots,1710
+DeSoto,505 Hernando East,Registered Voters,,,,5335
+DeSoto,505 Hernando East,Ballots Cast,,,,1710
 DeSoto,505 Hernando East,Governor,,Republican,Phil Bryant,1400
 DeSoto,505 Hernando East,Governor,,Democrat,Robert Gray,197
 DeSoto,505 Hernando East,Governor,,Reform,Shawn O'Hara,30
@@ -1319,8 +1319,8 @@ DeSoto,505 Hernando East,State Senate,1,Republican,Chris Massey,1432
 DeSoto,505 Hernando East,State Senate,1,,Write-in,23
 DeSoto,505 Hernando East,State House,28,Republican,Robert Foster,1443
 DeSoto,505 Hernando East,State House,28,,Write-in,19
-DeSoto,506 Hernando West,,,,Registration,3594
-DeSoto,506 Hernando West H25,,,,Ballots,129
+DeSoto,506 Hernando West,Registered Voters,,,,3594
+DeSoto,506 Hernando West H25,Ballots Cast,,,,129
 DeSoto,506 Hernando West H25,Governor,,Republican,Phil Bryant,109
 DeSoto,506 Hernando West H25,Governor,,Democrat,Robert Gray,16
 DeSoto,506 Hernando West H25,Governor,,Reform,Shawn O'Hara,1
@@ -1349,7 +1349,7 @@ DeSoto,506 Hernando West H25,State House,25,Republican,Dan Eubanks,106
 DeSoto,506 Hernando West H25,State House,25,Democrat,Harold D. Harris,19
 DeSoto,506 Hernando West H25,State House,28,Republican,Robert Foster,675
 DeSoto,506 Hernando West H28,State House,28,,Write-in,15
-DeSoto,506 Hernando West H28,,,,Ballots,828
+DeSoto,506 Hernando West H28,Ballots Cast,,,,828
 DeSoto,506 Hernando West H28,Governor,,Republican,Phil Bryant,629
 DeSoto,506 Hernando West H28,Governor,,Democrat,Robert Gray,147
 DeSoto,506 Hernando West H28,Governor,,Reform,Shawn O'Hara,16
@@ -1378,8 +1378,8 @@ DeSoto,506 Hernando West H28,Commissioner of Agriculture & Commerce,,Reform,Cath
 DeSoto,506 Hernando West H28,Commissioner of Agriculture & Commerce,,,Write-in,1
 DeSoto,506 Hernando West H28,Commissioner of Insurance,,Republican,Mike Chaney,678
 DeSoto,506 Hernando West H28,Commissioner of Insurance,,,Write-in,9
-DeSoto,507 Love,,,,Registration,1463
-DeSoto,507 Love,,,,Ballots,471
+DeSoto,507 Love,Registered Voters,,,,1463
+DeSoto,507 Love,Ballots Cast,,,,471
 DeSoto,507 Love,Governor,,Republican,Phil Bryant,404
 DeSoto,507 Love,Governor,,Democrat,Robert Gray,42
 DeSoto,507 Love,Governor,,Reform,Shawn O'Hara,9
@@ -1413,8 +1413,8 @@ DeSoto,507 Love,State Senate,1,Republican,Chris Massey,416
 DeSoto,507 Love,State Senate,1,,Write-in,1
 DeSoto,507 Love,State House,28,Republican,Robert Foster,422
 DeSoto,507 Love,State House,28,,Write-in,3
-DeSoto,508 Alphaba-Cockrum,,,,Registration,972
-DeSoto,508 Alphaba-Cockrum,,,,Ballots,314
+DeSoto,508 Alphaba-Cockrum,Registered Voters,,,,972
+DeSoto,508 Alphaba-Cockrum,Ballots Cast,,,,314
 DeSoto,508 Alphaba-Cockrum,Governor,,Republican,Phil Bryant,274
 DeSoto,508 Alphaba-Cockrum,Governor,,Democrat,Robert Gray,23
 DeSoto,508 Alphaba-Cockrum,Governor,,Reform,Shawn O'Hara,6

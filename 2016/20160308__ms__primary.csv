@@ -81,7 +81,7 @@ Wilkinson,President,,Democratic,Hillary Clinton,1276
 Winston,President,,Democratic,Hillary Clinton,1532
 Yalobusha,President,,Democratic,Hillary Clinton,1220
 Yazoo,President,,Democratic,Hillary Clinton,2360
-,President,,Democratic,Hillary Clinton,187334
+Total,President,,Democratic,Hillary Clinton,187334
 Adams,President,,Democratic,Rocky De La Fuente,5
 Alcorn,President,,Democratic,Rocky De La Fuente,3
 Amite,President,,Democratic,Rocky De La Fuente,2
@@ -164,7 +164,7 @@ Wilkinson,President,,Democratic,Rocky De La Fuente,2
 Winston,President,,Democratic,Rocky De La Fuente,6
 Yalobusha,President,,Democratic,Rocky De La Fuente,1
 Yazoo,President,,Democratic,Rocky De La Fuente,6
-,President,,Democratic,Rocky De La Fuente,481
+Total,President,,Democratic,Rocky De La Fuente,481
 Adams,President,,Democratic,Martin O'Malley,13
 Alcorn,President,,Democratic,Martin O'Malley,8
 Amite,President,,Democratic,Martin O'Malley,7
@@ -247,7 +247,7 @@ Wilkinson,President,,Democratic,Martin O'Malley,8
 Winston,President,,Democratic,Martin O'Malley,10
 Yalobusha,President,,Democratic,Martin O'Malley,8
 Yazoo,President,,Democratic,Martin O'Malley,4
-,President,,Democratic,Martin O'Malley,672
+Total,President,,Democratic,Martin O'Malley,672
 Adams,President,,Democratic,Bernie Sanders,451
 Alcorn,President,,Democratic,Bernie Sanders,318
 Amite,President,,Democratic,Bernie Sanders,132
@@ -330,7 +330,7 @@ Wilkinson,President,,Democratic,Bernie Sanders,69
 Winston,President,,Democratic,Bernie Sanders,214
 Yalobusha,President,,Democratic,Bernie Sanders,218
 Yazoo,President,,Democratic,Bernie Sanders,208
-,President,,Democratic,Bernie Sanders,37748
+Total,President,,Democratic,Bernie Sanders,37748
 Adams,President,,Democratic,Willie Wilson,11
 Alcorn,President,,Democratic,Willie Wilson,21
 Amite,President,,Democratic,Willie Wilson,14
@@ -413,7 +413,7 @@ Wilkinson,President,,Democratic,Willie Wilson,10
 Winston,President,,Democratic,Willie Wilson,10
 Yalobusha,President,,Democratic,Willie Wilson,5
 Yazoo,President,,Democratic,Willie Wilson,11
-,President,,Democratic,Willie Wilson,919
+Total,President,,Democratic,Willie Wilson,919
 Adams,President,,Democratic,Write-in,0
 Alcorn,President,,Democratic,Write-in,0
 Amite,President,,Democratic,Write-in,0
@@ -496,7 +496,7 @@ Wilkinson,President,,Democratic,Write-in,0
 Winston,President,,Democratic,Write-in,0
 Yalobusha,President,,Democratic,Write-in,0
 Yazoo,President,,Democratic,Write-in,0
-,President,,Democratic,Write-in,10
+Total,President,,Democratic,Write-in,10
 Adams,U.S. House,3,Democratic,Dennis C. Quinn,1914
 Amite,U.S. House,3,Democratic,Dennis C. Quinn,794
 Clarke,U.S. House,3,Democratic,Dennis C. Quinn,520
@@ -521,7 +521,7 @@ Simpson,U.S. House,3,Democratic,Dennis C. Quinn,1340
 Smith,U.S. House,3,Democratic,Dennis C. Quinn,550
 Walthall,U.S. House,3,Democratic,Dennis C. Quinn,805
 Wilkinson,U.S. House,3,Democratic,Dennis C. Quinn,694
-,U.S. House,3,Democratic,Dennis C. Quinn,29149
+Total,U.S. House,3,Democratic,Dennis C. Quinn,29149
 Adams,U.S. House,3,Democratic,Nathan Stewart,901
 Amite,U.S. House,3,Democratic,Nathan Stewart,442
 Clarke,U.S. House,3,Democratic,Nathan Stewart,307
@@ -546,7 +546,7 @@ Simpson,U.S. House,3,Democratic,Nathan Stewart,489
 Smith,U.S. House,3,Democratic,Nathan Stewart,229
 Walthall,U.S. House,3,Democratic,Nathan Stewart,294
 Wilkinson,U.S. House,3,Democratic,Nathan Stewart,427
-,U.S. House,3,Democratic,Nathan Stewart,15384
+Total,U.S. House,3,Democratic,Nathan Stewart,15384
 Adams,President,,Republican,Jeb Bush,29
 Adams,President,,Republican,Ben Carson,30
 Adams,President,,Republican,Chris Christie,5
@@ -1613,19 +1613,19 @@ Yazoo,President,,Republican,Rand Paul,1
 Yazoo,President,,Republican,Marco Rubio,163
 Yazoo,President,,Republican,Rick Santorum,1
 Yazoo,President,,Republican,Donald J. Trump,1555
-,President,,Republican,Jeb Bush,1697
-,President,,Republican,Ben Carson,5626
-,President,,Republican,Chris Christie,493
-,President,,Republican,Ted Cruz,150364
-,President,,Republican,Carly Fiorina,224
-,President,,Republican,Lindsey Graham,172
-,President,,Republican,Mike Huckabee,1067
-,President,,Republican,John Kasich,36795
-,President,,Republican,George Pataki,135
-,President,,Republican,Rand Paul,643
-,President,,Republican,Marco Rubio,21885
-,President,,Republican,Rick Santorum,510
-,President,,Republican,Donald J. Trump,196659
+Total,President,,Republican,Jeb Bush,1697
+Total,President,,Republican,Ben Carson,5626
+Total,President,,Republican,Chris Christie,493
+Total,President,,Republican,Ted Cruz,150364
+Total,President,,Republican,Carly Fiorina,224
+Total,President,,Republican,Lindsey Graham,172
+Total,President,,Republican,Mike Huckabee,1067
+Total,President,,Republican,John Kasich,36795
+Total,President,,Republican,George Pataki,135
+Total,President,,Republican,Rand Paul,643
+Total,President,,Republican,Marco Rubio,21885
+Total,President,,Republican,Rick Santorum,510
+Total,President,,Republican,Donald J. Trump,196659
 Alcorn,U.S. House,1,Republican,Paul Clever,532
 Alcorn,U.S. House,1,Republican,Trent Kelly,4852
 Benton,U.S. House,1,Republican,Paul Clever,137
@@ -1746,13 +1746,13 @@ Walthall,U.S. House,3,Republican,Gregg Harper,1771
 Wayne,U.S. House,4,Republican,Steven Palazzo,3134
 Winston,U.S. House,1,Republican,Paul Clever,107
 Winston,U.S. House,1,Republican,Trent Kelly,2432
-,U.S. House,1,Republican,Paul Clever,11397
-,U.S. House,1,Republican,Trent Kelly,95049
+Total,U.S. House,1,Republican,Paul Clever,11397
+Total,U.S. House,1,Republican,Trent Kelly,95049
 Yalobusha,U.S. House,2,Republican,"John Bouie, II",1293
 Yazoo,U.S. House,2,Republican,"John Bouie, II",2130
-,U.S. House,2,Republican,"John Bouie, II",35871
+Total,U.S. House,2,Republican,"John Bouie, II",35871
 Wilkinson,U.S. House,3,Republican,Jimmy Giles,55
 Wilkinson,U.S. House,3,Republican,Gregg Harper,586
-,U.S. House,3,Republican,Jimmy Giles,10760
-,U.S. House,3,Republican,Gregg Harper,87997
-,U.S. House,4,Republican,Steven Palazzo,103558
+Total,U.S. House,3,Republican,Jimmy Giles,10760
+Total,U.S. House,3,Republican,Gregg Harper,87997
+Total,U.S. House,4,Republican,Steven Palazzo,103558

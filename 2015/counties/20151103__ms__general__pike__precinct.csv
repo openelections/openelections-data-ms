@@ -1,6 +1,6 @@
 county,precinct,office,district,party,candidate,votes
-Pike,(01) New Hope Baptist,,,,Registered,1054
-Pike,(01) New Hope Baptist,,,,Ballots,433
+Pike,(01) New Hope Baptist,Registered Voters,,,,1054
+Pike,(01) New Hope Baptist,Ballots Cast,,,,433
 Pike,(01) New Hope Baptist,Governor,,Republican,Phil Bryant,59
 Pike,(01) New Hope Baptist,Governor,,Democrat,Robert Gray,362
 Pike,(01) New Hope Baptist,Governor,,Reform,Shawn O'Hara,2
@@ -36,8 +36,8 @@ Pike,(01) New Hope Baptist,State Senate,38,Independent,Bente Hess Johnson,25
 Pike,(01) New Hope Baptist,State Senate,38,,Write-in,0
 Pike,(01) New Hope Baptist,State House,98,Democrat,David Myers,380
 Pike,(01) New Hope Baptist,State House,98,,Write-in,12
-Pike,(02) S Macomb Baptist,,,,Registered,537
-Pike,(02) S Macomb Baptist,,,,Ballots,215
+Pike,(02) S Macomb Baptist,Registered Voters,,,,537
+Pike,(02) S Macomb Baptist,Ballots Cast,,,,215
 Pike,(02) S Macomb Baptist,Governor,,Republican,Phil Bryant,70
 Pike,(02) S Macomb Baptist,Governor,,Democrat,Robert Gray,133
 Pike,(02) S Macomb Baptist,Governor,,Reform,Shawn O'Hara,6
@@ -73,8 +73,8 @@ Pike,(02) S Macomb Baptist,State Senate,38,Democrat,Tammy Felder Witherspoon,146
 Pike,(02) S Macomb Baptist,State Senate,38,,Write-in,1
 Pike,(02) S Macomb Baptist,State House,98,Republican,David Myers,176
 Pike,(02) S Macomb Baptist,State House,98,,Write-in,11
-Pike,(03) Summit Learning Ctr,,,,Registered,513
-Pike,(03) Summit Learning Ctr,,,,Ballots,298
+Pike,(03) Summit Learning Ctr,Registered Voters,,,,513
+Pike,(03) Summit Learning Ctr,Ballots Cast,,,,298
 Pike,(03) Summit Learning Ctr,Governor,,Republican,Phil Bryant,75
 Pike,(03) Summit Learning Ctr,Governor,,Democrat,Robert Gray,212
 Pike,(03) Summit Learning Ctr,Governor,,Reform,Shawn O'Hara,4
@@ -110,8 +110,8 @@ Pike,(03) Summit Learning Ctr,State Senate,38,Democrat,Tammy Felder Witherspoon,
 Pike,(03) Summit Learning Ctr,State Senate,38,,Write-in,0
 Pike,(03) Summit Learning Ctr,State House,98,Democrat,David Myers,254
 Pike,(03) Summit Learning Ctr,State House,98,,Write-in,6
-Pike,(04) Mile Center,,,,Registered,1138
-Pike,(04) Mile Center,,,,Ballots,551
+Pike,(04) Mile Center,Registered Voters,,,,1138
+Pike,(04) Mile Center,Ballots Cast,,,,551
 Pike,(04) Mile Center,Governor,,Republican,Phil Bryant,63
 Pike,(04) Mile Center,Governor,,Democrat,Robert Gray,452
 Pike,(04) Mile Center,Governor,,Reform,Shawn O'Hara,5
@@ -147,8 +147,8 @@ Pike,(04) Mile Center,State Senate,38,Democrat,Tammy Felder Witherspoon,489
 Pike,(04) Mile Center,State Senate,38,,Write-in,2
 Pike,(04) Mile Center,State House,98,Democrat,David Myers,492
 Pike,(04) Mile Center,State House,98,,Write-in,16
-Pike,(05) American Legion Hut,,,,Registered,648
-Pike,(05) American Legion Hut,,,,Ballots,380
+Pike,(05) American Legion Hut,Registered Voters,,,,648
+Pike,(05) American Legion Hut,Ballots Cast,,,,380
 Pike,(05) American Legion Hut,Governor,,Republican,Phil Bryant,294
 Pike,(05) American Legion Hut,Governor,,Democrat,Robert Gray,79
 Pike,(05) American Legion Hut,Governor,,Reform,Shawn O'Hara,5
@@ -184,8 +184,8 @@ Pike,(05) American Legion Hut,State Senate,37,,Write-in,0
 Pike,(05) American Legion Hut,State House,97,Republican,Sam Mims V,271
 Pike,(05) American Legion Hut,State House,97,Democrat,Kitty Sasser,107
 Pike,(05) American Legion Hut,State House,97,,Write-in,0
-Pike,(06) S Pike Comm Ctr,,,,Registered,467
-Pike,(06) S Pike Comm Ctr,,,,Ballots,215
+Pike,(06) S Pike Comm Ctr,Registered Voters,,,,467
+Pike,(06) S Pike Comm Ctr,Ballots Cast,,,,215
 Pike,(06) S Pike Comm Ctr,Governor,,Republican,Phil Bryant,26
 Pike,(06) S Pike Comm Ctr,Governor,,Democrat,Robert Gray,184
 Pike,(06) S Pike Comm Ctr,Governor,,Reform,Shawn O'Hara,0
@@ -213,8 +213,8 @@ Pike,(06) S Pike Comm Ctr,State Senate,38,Republican,Dennis C. Quinn,5
 Pike,(06) S Pike Comm Ctr,State Senate,38,Democrat,Tammy Felder Witherspoon,196
 Pike,(06) S Pike Comm Ctr,State House,98,Democrat,David Myers,198
 Pike,(06) S Pike Comm Ctr,State House,98,,Write-in,6
-Pike,(07) Alpha Center,,,,Registered,707
-Pike,(07) Alpha Center,,,,Ballots,326
+Pike,(07) Alpha Center,Registered Voters,,,,707
+Pike,(07) Alpha Center,Ballots Cast,,,,326
 Pike,(07) Alpha Center,Governor,,Republican,Phil Bryant,91
 Pike,(07) Alpha Center,Governor,,Democrat,Robert Gray,226
 Pike,(07) Alpha Center,Governor,,Reform,Shawn O'Hara,2
@@ -244,8 +244,8 @@ Pike,(07) Alpha Center,State Senate,38,Democrat,Tammy Felder Witherspoon,235
 Pike,(07) Alpha Center,State Senate,38,,Write-in,1
 Pike,(07) Alpha Center,State House,98,Democrat,David Myers,284
 Pike,(07) Alpha Center,State House,98,,Write-in,10
-Pike,(08) Fernwood School,,,,Registered,989
-Pike,(08) Fernwood School,,,,Ballots,484
+Pike,(08) Fernwood School,Registered Voters,,,,989
+Pike,(08) Fernwood School,Ballots Cast,,,,484
 Pike,(08) Fernwood School,Governor,,Republican,Phil Bryant,180
 Pike,(08) Fernwood School,Governor,,Democrat,Robert Gray,287
 Pike,(08) Fernwood School,Governor,,Reform,Shawn O'Hara,5
@@ -286,8 +286,8 @@ Pike,(08) Fernwood School,State House,98,,Registered,902
 Pike,(08) Fernwood School,State House,98,,Ballots,440
 Pike,(08) Fernwood School,State House,98,Democrat,David Myers,372
 Pike,(08) Fernwood School,State House,98,,Write-in,16
-Pike,(09) Magnolia Comm Ctr,,,,Registered,1218
-Pike,(09) Magnolia Comm Ctr,,,,Ballots,596
+Pike,(09) Magnolia Comm Ctr,Registered Voters,,,,1218
+Pike,(09) Magnolia Comm Ctr,Ballots Cast,,,,596
 Pike,(09) Magnolia Comm Ctr,Governor,,Republican,Phil Bryant,231
 Pike,(09) Magnolia Comm Ctr,Governor,,Democrat,Robert Gray,330
 Pike,(09) Magnolia Comm Ctr,Governor,,Reform,Shawn O'Hara,13
@@ -324,8 +324,8 @@ Pike,(09) Magnolia Comm Ctr,State House,98,,Registered,859
 Pike,(09) Magnolia Comm Ctr,State House,98,,Ballots,438
 Pike,(09) Magnolia Comm Ctr,State House,98,Democrat,David Myers,362
 Pike,(09) Magnolia Comm Ctr,State House,98,,Write-in,16
-Pike,(10) Braswell Education,,,,Registered,1325
-Pike,(10) Braswell Education,,,,Ballots,653
+Pike,(10) Braswell Education,Registered Voters,,,,1325
+Pike,(10) Braswell Education,Ballots Cast,,,,653
 Pike,(10) Braswell Education,Governor,,Republican,Phil Bryant,299
 Pike,(10) Braswell Education,Governor,,Democrat,Robert Gray,328
 Pike,(10) Braswell Education,Governor,,Reform,Shawn O'Hara,17
@@ -352,16 +352,16 @@ Pike,(10) Braswell Education,Commissioner of Insurance,,,Write-in,6
 Pike,(10) Braswell Education,State Senate,38,Independent,Bente Hess Johnson,155
 Pike,(10) Braswell Education,State Senate,38,Republican,Dennis C. Quinn,129
 Pike,(10) Braswell Education,State Senate,38,Democrat,Tammy Felder Witherspoon,356
-Pike,(10) Braswell Education,,96,,Registered,423
-Pike,(10) Braswell Education,,96,,Ballots,209
+Pike,(10) Braswell Education,Registered Voters,96,,,423
+Pike,(10) Braswell Education,Ballots Cast,96,,,209
 Pike,(10) Braswell Education,State House,96,Democrat,Angela Cockerham,193
 Pike,(10) Braswell Education,State House,96,,Write-in,2
-Pike,(10) Braswell Education,,98,,Registered,902
-Pike,(10) Braswell Education,,98,,Ballots,444
+Pike,(10) Braswell Education,Registered Voters,98,,,902
+Pike,(10) Braswell Education,Ballots Cast,98,,,444
 Pike,(10) Braswell Education,State House,98,Democrat,David Myers,351
 Pike,(10) Braswell Education,State House,98,,Write-in,18
-Pike,(11) Leggett Comm,,,,Registered,557
-Pike,(11) Leggett Comm,,,,Ballots,285
+Pike,(11) Leggett Comm,Registered Voters,,,,557
+Pike,(11) Leggett Comm,Ballots Cast,,,,285
 Pike,(11) Leggett Comm,Governor,,Republican,Phil Bryant,119
 Pike,(11) Leggett Comm,Governor,,Democrat,Robert Gray,158
 Pike,(11) Leggett Comm,Governor,,Reform,Shawn O'Hara,1
@@ -386,12 +386,12 @@ Pike,(11) Leggett Comm,Commissioner of Agriculture & Commerce,,Republican,Cindy 
 Pike,(11) Leggett Comm,Commissioner of Agriculture & Commerce,,Reform,Cathy L Toole,6
 Pike,(11) Leggett Comm,Commissioner of Insurance,,Republican,Mike Chaney,197
 Pike,(11) Leggett Comm,Commissioner of Insurance,,,Write-in,0
-Pike,(11) Leggett Comm,,37,,Registered,155
-Pike,(11) Leggett Comm,,37,,Ballots,84
+Pike,(11) Leggett Comm,Registered Voters,37,,,155
+Pike,(11) Leggett Comm,Ballots Cast,37,,,84
 Pike,(11) Leggett Comm,State Senate,37,Republican,Bob M. Dearing,46
 Pike,(11) Leggett Comm,State Senate,37,Democrat,Melanie Sojourner,27
-Pike,(11) Leggett Comm,,38,,Registered,402
-Pike,(11) Leggett Comm,,38,,Ballots,201
+Pike,(11) Leggett Comm,Registered Voters,38,,,402
+Pike,(11) Leggett Comm,Ballots Cast,38,,,201
 Pike,(11) Leggett Comm,State Senate,38,Independent,Bente Hess Johnson,39
 Pike,(11) Leggett Comm,State Senate,38,Republican,Dennis C. Quinn,44
 Pike,(11) Leggett Comm,State Senate,38,Democrat,Tammy Felder Witherspoon,111
@@ -403,8 +403,8 @@ Pike,(11) Leggett Comm,State House,98,,Registered,495
 Pike,(11) Leggett Comm,State House,98,,Ballots,265
 Pike,(11) Leggett Comm,State House,98,Democrat,David Myers,224
 Pike,(11) Leggett Comm,State House,98,,Write-in,2
-Pike,(12) Mepa Bldg Hwy 98 E,,,,Registered,1433
-Pike,(12) Mepa Bldg Hwy 98 E,,,,Ballots,760
+Pike,(12) Mepa Bldg Hwy 98 E,Registered Voters,,,,1433
+Pike,(12) Mepa Bldg Hwy 98 E,Ballots Cast,,,,760
 Pike,(12) Mepa Bldg Hwy 98 E,Governor,,Republican,Phil Bryant,471
 Pike,(12) Mepa Bldg Hwy 98 E,Governor,,Democrat,Robert Gray,267
 Pike,(12) Mepa Bldg Hwy 98 E,Governor,,Reform,Shawn O'Hara,8
@@ -444,8 +444,8 @@ Pike,(12) Mepa Bldg Hwy 98 E,State House,98,,Registered,598
 Pike,(12) Mepa Bldg Hwy 98 E,State House,98,,Ballots,313
 Pike,(12) Mepa Bldg Hwy 98 E,State House,98,Democrat,David Myers,234
 Pike,(12) Mepa Bldg Hwy 98 E,State House,98,,Write-in,16
-Pike,(13) Holmesville Comm,,,,Registered,768
-Pike,(13) Holmesville Comm,,,,Ballots,438
+Pike,(13) Holmesville Comm,Registered Voters,,,,768
+Pike,(13) Holmesville Comm,Ballots Cast,,,,438
 Pike,(13) Holmesville Comm,Governor,,Republican,Phil Bryant,262
 Pike,(13) Holmesville Comm,Governor,,Democrat,Robert Gray,166
 Pike,(13) Holmesville Comm,Governor,,Reform,Shawn O'Hara,4
@@ -482,8 +482,8 @@ Pike,(13) Holmesville Comm,State House,98,,Registered,637
 Pike,(13) Holmesville Comm,State House,98,,Ballots,368
 Pike,(13) Holmesville Comm,State House,98,Democrat,David Myers,293
 Pike,(13) Holmesville Comm,State House,98,,Write-in,8
-Pike,(14) Calvary Baptist,,,,Registered,789
-Pike,(14) Calvary Baptist,,,,Ballots,499
+Pike,(14) Calvary Baptist,Registered Voters,,,,789
+Pike,(14) Calvary Baptist,Ballots Cast,,,,499
 Pike,(14) Calvary Baptist,Governor,,Republican,Phil Bryant,335
 Pike,(14) Calvary Baptist,Governor,,Democrat,Robert Gray,149
 Pike,(14) Calvary Baptist,Governor,,Reform,Shawn O'Hara,5
@@ -514,8 +514,8 @@ Pike,(14) Calvary Baptist,State Senate,37,Republican,Bob M. Dearing,180
 Pike,(14) Calvary Baptist,State Senate,37,Democrat,Melanie Sojourner,312
 Pike,(14) Calvary Baptist,State House,53,Republican,Vince Mangold,255
 Pike,(14) Calvary Baptist,State House,53,Democrat,Bobby Moak,237
-Pike,(15) Old Jones School,,,,Registered,754
-Pike,(15) Old Jones School,,,,Ballots,450
+Pike,(15) Old Jones School,Registered Voters,,,,754
+Pike,(15) Old Jones School,Ballots Cast,,,,450
 Pike,(15) Old Jones School,Governor,,Republican,Phil Bryant,376
 Pike,(15) Old Jones School,Governor,,Democrat,Robert Gray,67
 Pike,(15) Old Jones School,Governor,,Reform,Shawn O'Hara,4
@@ -551,8 +551,8 @@ Pike,(15) Old Jones School,State House,97,Democrat,Kitty Sasser,97
 Pike,(15) Old Jones School,State House,98,,Registered,64
 Pike,(15) Old Jones School,State House,98,,Ballots,41
 Pike,(15) Old Jones School,State House,98,Democrat,David Myers,39
-Pike,(16) Summit City Hall,,,,Registered,907
-Pike,(16) Summit City Hall,,,,Ballots,557
+Pike,(16) Summit City Hall,Registered Voters,,,,907
+Pike,(16) Summit City Hall,Ballots Cast,,,,557
 Pike,(16) Summit City Hall,Governor,,Republican,Phil Bryant,278
 Pike,(16) Summit City Hall,Governor,,Democrat,Robert Gray,262
 Pike,(16) Summit City Hall,Governor,,Reform,Shawn O'Hara,4
@@ -594,8 +594,8 @@ Pike,(16) Summit City Hall,State House,98,,Registered,323
 Pike,(16) Summit City Hall,State House,98,,Ballots,195
 Pike,(16) Summit City Hall,State House,98,Democrat,David Myers,163
 Pike,(16) Summit City Hall,State House,98,,Write-in,6
-Pike,(17) SMCC Work Force,,,,Registered,937
-Pike,(17) SMCC Work Force,,,,Ballots,605
+Pike,(17) SMCC Work Force,Registered Voters,,,,937
+Pike,(17) SMCC Work Force,Ballots Cast,,,,605
 Pike,(17) SMCC Work Force,Governor,,Republican,Phil Bryant,446
 Pike,(17) SMCC Work Force,Governor,,Democrat,Robert Gray,145
 Pike,(17) SMCC Work Force,Governor,,Reform,Shawn O'Hara,7
@@ -624,8 +624,8 @@ Pike,(17) SMCC Work Force,State Senate,37,Democrat,Melanie Sojourner,373
 Pike,(17) SMCC Work Force,State Senate,37,,Write-in,1
 Pike,(17) SMCC Work Force,State House,53,Republican,Vince Mangold,304
 Pike,(17) SMCC Work Force,State House,53,Democrat,Bobby Moak,291
-Pike,(18) Johnston Methodist,,,,Registered,995
-Pike,(18) Johnston Methodist,,,,Ballots,659
+Pike,(18) Johnston Methodist,Registered Voters,,,,995
+Pike,(18) Johnston Methodist,Ballots Cast,,,,659
 Pike,(18) Johnston Methodist,Governor,,Republican,Phil Bryant,580
 Pike,(18) Johnston Methodist,Governor,,Democrat,Robert Gray,69
 Pike,(18) Johnston Methodist,Governor,,Reform,Shawn O'Hara,4
@@ -655,8 +655,8 @@ Pike,(18) Johnston Methodist,State Senate,37,,Write-in,1
 Pike,(18) Johnston Methodist,State House,97,Republican,Sam Mims V,457
 Pike,(18) Johnston Methodist,State House,97,Democrat,Kitty Sasser,195
 Pike,(18) Johnston Methodist,State House,97,,Write-in,1
-Pike,(19) Pisgah Methodist,,,,Registered,1115
-Pike,(19) Pisgah Methodist,,,,Ballots,766
+Pike,(19) Pisgah Methodist,Registered Voters,,,,1115
+Pike,(19) Pisgah Methodist,Ballots Cast,,,,766
 Pike,(19) Pisgah Methodist,Governor,,Republican,Phil Bryant,638
 Pike,(19) Pisgah Methodist,Governor,,Democrat,Robert Gray,115
 Pike,(19) Pisgah Methodist,Governor,,Reform,Shawn O'Hara,5
@@ -687,8 +687,8 @@ Pike,(19) Pisgah Methodist,State Senate,37,Republican,Bob M. Dearing,227
 Pike,(19) Pisgah Methodist,State Senate,37,Democrat,Melanie Sojourner,531
 Pike,(19) Pisgah Methodist,State House,97,Republican,Sam Mims V,589
 Pike,(19) Pisgah Methodist,State House,97,Democrat,Kitty Sasser,170
-Pike,(20) Pike Co Natl Bank,,,,Registered,785
-Pike,(20) Pike Co Natl Bank,,,,Ballots,418
+Pike,(20) Pike Co Natl Bank,Registered Voters,,,,785
+Pike,(20) Pike Co Natl Bank,Ballots Cast,,,,418
 Pike,(20) Pike Co Natl Bank,Governor,,Republican,Phil Bryant,257
 Pike,(20) Pike Co Natl Bank,Governor,,Democrat,Robert Gray,154
 Pike,(20) Pike Co Natl Bank,Governor,,Reform,Shawn O'Hara,4
@@ -722,8 +722,8 @@ Pike,(20) Pike Co Natl Bank,State Senate,38,Republican,Dennis C. Quinn,45
 Pike,(20) Pike Co Natl Bank,State Senate,38,Democrat,Tammy Felder Witherspoon,108
 Pike,(20) Pike Co Natl Bank,State House,97,Republican,Sam Mims V,214
 Pike,(20) Pike Co Natl Bank,State House,97,Democrat,Kitty Sasser,193
-Pike,(21) Unity Missionary,,,,Registered,1248
-Pike,(21) Unity Missionary,,,,Ballots,634
+Pike,(21) Unity Missionary,Registered Voters,,,,1248
+Pike,(21) Unity Missionary,Ballots Cast,,,,634
 Pike,(21) Unity Missionary,Governor,,Republican,Phil Bryant,303
 Pike,(21) Unity Missionary,Governor,,Democrat,Robert Gray,298
 Pike,(21) Unity Missionary,Governor,,Reform,Shawn O'Hara,12
@@ -757,8 +757,8 @@ Pike,(21) Unity Missionary,State Senate,38,Democrat,Tammy Felder Witherspoon,332
 Pike,(21) Unity Missionary,State Senate,38,,Write-in,1
 Pike,(21) Unity Missionary,State House,98,Democrat,David Myers,511
 Pike,(21) Unity Missionary,State House,98,,Write-in,13
-Pike,(22) Church of Christ,,,,Registered,966
-Pike,(22) Church of Christ,,,,Ballots,544
+Pike,(22) Church of Christ,Registered Voters,,,,966
+Pike,(22) Church of Christ,Ballots Cast,,,,544
 Pike,(22) Church of Christ,Governor,,Republican,Phil Bryant,297
 Pike,(22) Church of Christ,Governor,,Democrat,Robert Gray,225
 Pike,(22) Church of Christ,Governor,,Reform,Shawn O'Hara,11
@@ -801,8 +801,8 @@ Pike,(22) Church of Christ,State House,98,,Registered,740
 Pike,(22) Church of Christ,State House,98,,Ballots,439
 Pike,(22) Church of Christ,State House,98,Democrat,David Myers,361
 Pike,(22) Church of Christ,State House,98,,Write-in,10
-Pike,(23) W Mccomb Baptist,,,,Registered,846
-Pike,(23) W Mccomb Baptist,,,,Ballots,506
+Pike,(23) W Mccomb Baptist,Registered Voters,,,,846
+Pike,(23) W Mccomb Baptist,Ballots Cast,,,,506
 Pike,(23) W Mccomb Baptist,Governor,,Republican,Phil Bryant,332
 Pike,(23) W Mccomb Baptist,Governor,,Democrat,Robert Gray,159
 Pike,(23) W Mccomb Baptist,Governor,,Reform,Shawn O'Hara,6
@@ -843,8 +843,8 @@ Pike,(23) W Mccomb Baptist,State House,98,,Registered,54
 Pike,(23) W Mccomb Baptist,State House,98,,Ballots,26
 Pike,(23) W Mccomb Baptist,State House,98,Democrat,David Myers,18
 Pike,(23) W Mccomb Baptist,State House,98,,Write-in,3
-Pike,(24) St Mary of the Pines,,,,Registered,1255
-Pike,(24) St Mary of the Pines,,,,Ballots,694
+Pike,(24) St Mary of the Pines,Registered Voters,,,,1255
+Pike,(24) St Mary of the Pines,Ballots Cast,,,,694
 Pike,(24) St Mary of the Pines,Governor,,Republican,Phil Bryant,428
 Pike,(24) St Mary of the Pines,Governor,,Democrat,Robert Gray,239
 Pike,(24) St Mary of the Pines,Governor,,Reform,Shawn O'Hara,11
@@ -879,8 +879,8 @@ Pike,(24) St Mary of the Pines,State House,98,,Registered,940
 Pike,(24) St Mary of the Pines,State House,98,,Ballots,536
 Pike,(24) St Mary of the Pines,State House,98,Democrat,David Myers,418
 Pike,(24) St Mary of the Pines,State House,98,,Write-in,12
-Pike,(25) Osyka City Hall,,,,Registered,465
-Pike,(25) Osyka City Hall,,,,Ballots,238
+Pike,(25) Osyka City Hall,Registered Voters,,,,465
+Pike,(25) Osyka City Hall,Ballots Cast,,,,238
 Pike,(25) Osyka City Hall,Governor,,Republican,Phil Bryant,172
 Pike,(25) Osyka City Hall,Governor,,Democrat,Robert Gray,60
 Pike,(25) Osyka City Hall,Governor,,Reform,Shawn O'Hara,2
@@ -910,62 +910,3 @@ Pike,(25) Osyka City Hall,State Senate,38,Republican,Dennis C. Quinn,80
 Pike,(25) Osyka City Hall,State Senate,38,Democrat,Tammy Felder Witherspoon,75
 Pike,(25) Osyka City Hall,State House,98,Democrat,David Myers,167
 Pike,(25) Osyka City Hall,State House,98,,Write-in,9
-Pike,,,,,Registered,22416
-Pike,,,,,Ballots,12204
-Pike,,Governor,,Republican,Phil Bryant,6682
-Pike,,Governor,,Democrat,Robert Gray,5126
-Pike,,Governor,,Reform,Shawn O'Hara,147
-Pike,,Governor,,,Write-in,12
-Pike,,Lieutenant Governor,,Democrat,Tim Johnson,5271
-Pike,,Lieutenant Governor,,Republican,Tate Reeves,6182
-Pike,,Lieutenant Governor,,Libertarian,Ron Williams,237
-Pike,,Lieutenant Governor,,Reform,Rosa B. Williams,150
-Pike,,Lieutenant Governor,,,Write-in,6
-Pike,,Secretary of State,,Democrat,Charles E. Graham,5422
-Pike,,Secretary of State,,Republican,Delbert Hosemann,6131
-Pike,,Secretary of State,,Reform,Randy Walker,286
-Pike,,Secretary of State,,,Write-in,8
-Pike,,Attorney General,,Democrat,Jim Hood,7270
-Pike,,Attorney General,,Republican,Mike Hurst,4576
-Pike,,Attorney General,,,Write-in,7
-Pike,,State Auditor,,Republican,Stacey E. Pickering,6487
-Pike,,State Auditor,,Democrat,Jocelyn 'Joce' Pepper Pritchett,5225
-Pike,,State Auditor,,Reform,Lajena Walley,116
-Pike,,State Auditor,,,Write-in,6
-Pike,,State Treasurer,,Republican,Lynn Fitch,7685
-Pike,,State Treasurer,,Reform,Viola McFarland,2887
-Pike,,State Treasurer,,,Write-in,44
-Pike,,Commissioner of Agriculture & Commerce,,Democrat,Addie Lee Green,5292
-Pike,,Commissioner of Agriculture & Commerce,,Republican,Cindy Hyde-Smith,6413
-Pike,,Commissioner of Agriculture & Commerce,,Reform,Cathy L Toole,156
-Pike,,Commissioner of Agriculture & Commerce,,,Write-in,6
-Pike,,Commissioner of Insurance,,Republican,Mike Chaney,9329
-Pike,,Commissioner of Insurance,,,Write-in,99
-Pike,,State Senate,37,,Registered,8319
-Pike,,State Senate,37,,Ballots,5031
-Pike,,State Senate,37,Republican,Bob M. Dearing,1771
-Pike,,State Senate,37,Democrat,Melanie Sojourner,3145
-Pike,,State Senate,37,,Write-in,4
-Pike,,State Senate,38,,Registered,14097
-Pike,,State Senate,38,,Ballots,7173
-Pike,,State Senate,38,Independent,Bente Hess Johnson,1610
-Pike,,State Senate,38,Republican,Dennis C. Quinn,1199
-Pike,,State Senate,38,Democrat,Tammy Felder Witherspoon,4166
-Pike,,State Senate,38,,Write-in,5
-Pike,,State House,53,,Registered,1833
-Pike,,State House,53,,Ballots,1170
-Pike,,State House,53,Republican,Vince Mangold,602
-Pike,,State House,53,Democrat,Bobby Moak,550
-Pike,,State House,96,,Registered,1580
-Pike,,State House,96,,Ballots,795
-Pike,,State House,96,Democrat,Angela Cockerham,727
-Pike,,State House,96,,Write-in,4
-Pike,,State House,97,,Registered,6360
-Pike,,State House,97,,Ballots,3824
-Pike,,State House,97,Republican,Sam Mims V,2415
-Pike,,State House,97,Democrat,Kitty Sasser,1351
-Pike,,State House,97,,Write-in,2
-Pike,,State House,98,,Registered,12643
-Pike,,State House,98,,Ballots,6415
-Pike,,State House,98,Democrat,David Myers,5297
-Pike,,State House,98,,Write-in,190

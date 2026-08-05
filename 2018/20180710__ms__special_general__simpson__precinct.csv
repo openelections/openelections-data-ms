@@ -1,4 +1,4 @@
-﻿page,candidate,office,district,party,county,precinct,votes
+page,candidate,office,district,party,county,precinct,votes
 2,Cliff Brown,State House,77,,Simpson,Braxton,5
 2,Hayes Patrick,State House,77,,Simpson,Braxton,24
 2,Christopher R 'Chris' Purdum,State House,77,,Simpson,Braxton,38
@@ -79,8 +79,3 @@
 3,Christopher R 'Chris' Purdum,State House,77,,Simpson,Weathersby,24
 3,Cemper Scott,State House,77,,Simpson,Weathersby,10
 3,Price Wallace,State House,77,,Simpson,Weathersby,23
-3,Cliff Brown,State House,77,,Simpson,TOTAL,42
-3,Hayes Patrick,State House,77,,Simpson,TOTAL,496
-3,Christopher R 'Chris' Purdum,State House,77,,Simpson,TOTAL,446
-3,Cemper Scott,State House,77,,Simpson,TOTAL,419
-3,Price Wallace,State House,77,,Simpson,TOTAL,651

@@ -163,8 +163,8 @@ Haley Barbour,Governor,,Rep,Yalobusha,2024
 John A. Eaves,Governor,,Dem,Yalobusha,1621
 Haley Barbour,Governor,,Rep,Yazoo,4459
 John A. Eaves,Governor,,Dem,Yazoo,3359
-Haley Barbour,Governor,,Rep,,430807
-John A. Eaves,Governor,,Dem,,313232
+Haley Barbour,Governor,,Rep,Total,430807
+John A. Eaves,Governor,,Dem,Total,313232
 Phil Bryant,Lieutenant Governor,,Rep,Adams,4156
 "Jamie Franks, Jr.",Lieutenant Governor,,Dem,Adams,3937
 Phil Bryant,Lieutenant Governor,,Rep,Alcorn,4913
@@ -329,8 +329,8 @@ Phil Bryant,Lieutenant Governor,,Rep,Yalobusha,1926
 "Jamie Franks, Jr.",Lieutenant Governor,,Dem,Yalobusha,1696
 Phil Bryant,Lieutenant Governor,,Rep,Yazoo,4457
 "Jamie Franks, Jr.",Lieutenant Governor,,Dem,Yazoo,3104
-Phil Bryant,Lieutenant Governor,,Rep,,431747
-"Jamie Franks, Jr.",Lieutenant Governor,,Dem,,305409
+Phil Bryant,Lieutenant Governor,,Rep,Total,431747
+"Jamie Franks, Jr.",Lieutenant Governor,,Dem,Total,305409
 Delbert Hosemann,Secretary of State,,Rep,Adams,4130
 "Robert H. ""Rob"" Smith",Secretary of State,,Dem,Adams,3872
 Delbert Hosemann,Secretary of State,,Rep,Alcorn,4659
@@ -495,8 +495,8 @@ Delbert Hosemann,Secretary of State,,Rep,Yalobusha,1971
 "Robert H. ""Rob"" Smith",Secretary of State,,Dem,Yalobusha,1624
 Delbert Hosemann,Secretary of State,,Rep,Yazoo,4262
 "Robert H. ""Rob"" Smith",Secretary of State,,Dem,Yazoo,3182
-Delbert Hosemann,Secretary of State,,Rep,,425228
-"Robert H. ""Rob"" Smith",Secretary of State,,Dem,,304918
+Delbert Hosemann,Secretary of State,,Rep,Total,425228
+"Robert H. ""Rob"" Smith",Secretary of State,,Dem,Total,304918
 Jim Hood,Attorney General,,Dem,Adams,4929
 Al Hopkins,Attorney General,,Rep,Adams,3177
 Jim Hood,Attorney General,,Dem,Alcorn,4841
@@ -661,8 +661,8 @@ Jim Hood,Attorney General,,Dem,Yalobusha,2118
 Al Hopkins,Attorney General,,Rep,Yalobusha,1497
 Jim Hood,Attorney General,,Dem,Yazoo,4537
 Al Hopkins,Attorney General,,Rep,Yazoo,3068
-Jim Hood,Attorney General,,Dem,,440017
-Al Hopkins,Attorney General,,Rep,,295516
+Jim Hood,Attorney General,,Dem,Total,440017
+Al Hopkins,Attorney General,,Rep,Total,295516
 Shawn O'Hara,State Treasurer,,Dem,Adams,3826
 Tate Reeves,State Treasurer,,Rep,Adams,4076
 Shawn O'Hara,State Treasurer,,Dem,Alcorn,3788
@@ -827,8 +827,8 @@ Shawn O'Hara,State Treasurer,,Dem,Yalobusha,1532
 Tate Reeves,State Treasurer,,Rep,Yalobusha,1996
 Shawn O'Hara,State Treasurer,,Dem,Yazoo,3063
 Tate Reeves,State Treasurer,,Rep,Yazoo,4309
-Shawn O'Hara,State Treasurer,,Dem,,284789
-Tate Reeves,State Treasurer,,Rep,,436833
+Shawn O'Hara,State Treasurer,,Dem,Total,284789
+Tate Reeves,State Treasurer,,Rep,Total,436833
 Stacey E. Pickering,State Auditor,,Rep,Adams,3805
 Mike Sumrall,State Auditor,,Dem,Adams,4191
 Stacey E. Pickering,State Auditor,,Rep,Alcorn,4183
@@ -993,8 +993,8 @@ Stacey E. Pickering,State Auditor,,Rep,Yalobusha,1601
 Mike Sumrall,State Auditor,,Dem,Yalobusha,1945
 Stacey E. Pickering,State Auditor,,Rep,Yazoo,3998
 Mike Sumrall,State Auditor,,Dem,Yazoo,3359
-Stacey E. Pickering,State Auditor,,Rep,,399279
-Mike Sumrall,State Auditor,,Dem,,327033
+Stacey E. Pickering,State Auditor,,Rep,Total,399279
+Mike Sumrall,State Auditor,,Dem,Total,327033
 Gary Anderson,Commissioner of Insurance,,Dem,Adams,4070
 Mike Chaney,Commissioner of Insurance,,Rep,Adams,3932
 Gary Anderson,Commissioner of Insurance,,Dem,Alcorn,4025
@@ -1159,8 +1159,8 @@ Gary Anderson,Commissioner of Insurance,,Dem,Yalobusha,1654
 Mike Chaney,Commissioner of Insurance,,Rep,Yalobusha,1942
 Gary Anderson,Commissioner of Insurance,,Dem,Yazoo,3522
 Mike Chaney,Commissioner of Insurance,,Rep,Yazoo,4050
-Gary Anderson,Commissioner of Insurance,,Dem,,319287
-Mike Chaney,Commissioner of Insurance,,Rep,,414718
+Gary Anderson,Commissioner of Insurance,,Dem,Total,319287
+Mike Chaney,Commissioner of Insurance,,Rep,Total,414718
 Rickey L. Cole,Commissioner of Agriculture & Commerce,,Dem,Adams,3758
 Lester Spell,Commissioner of Agriculture & Commerce,,Rep,Adams,4012
 Paul Leslie Riley,Commissioner of Agriculture & Commerce,,Cns,Adams,233
@@ -1407,85 +1407,85 @@ Paul Leslie Riley,Commissioner of Agriculture & Commerce,,Cns,Yalobusha,317
 Rickey L. Cole,Commissioner of Agriculture & Commerce,,Dem,Yazoo,3393
 Lester Spell,Commissioner of Agriculture & Commerce,,Rep,Yazoo,3591
 Paul Leslie Riley,Commissioner of Agriculture & Commerce,,Cns,Yazoo,439
-Rickey L. Cole,Commissioner of Agriculture & Commerce,,Dem,,308693
-Lester Spell,Commissioner of Agriculture & Commerce,,Rep,,371191
-Paul Leslie Riley,Commissioner of Agriculture & Commerce,,Cns,,47647
+Rickey L. Cole,Commissioner of Agriculture & Commerce,,Dem,Total,308693
+Lester Spell,Commissioner of Agriculture & Commerce,,Rep,Total,371191
+Paul Leslie Riley,Commissioner of Agriculture & Commerce,,Cns,Total,47647
 Ralph H. Doxey,State Senate,2,Rep,Benton,610
 Bill Stone,State Senate,2,Dem,Benton,1703
 Ralph H. Doxey,State Senate,2,Rep,Marshall,3007
 Bill Stone,State Senate,2,Dem,Marshall,4142
 Ralph H. Doxey,State Senate,2,Rep,Tippah,1479
 Bill Stone,State Senate,2,Dem,Tippah,2128
-Ralph H. Doxey,State Senate,2,Rep,,5096
-Bill Stone,State Senate,2,Dem,,7973
+Ralph H. Doxey,State Senate,2,Rep,Total,5096
+Bill Stone,State Senate,2,Dem,Total,7973
 Nickey Browning,State Senate,3,Dem,Calhoun,1551
 Nickey Browning,State Senate,3,Dem,Pontotoc,6741
 Nickey Browning,State Senate,3,Dem,Union,6275
-Nickey Browning,State Senate,3,Dem,,14567
+Nickey Browning,State Senate,3,Dem,Total,14567
 James E. Moffitt,State Senate,4,Rep,Alcorn,3929
 Eric Powell,State Senate,4,Dem,Alcorn,5050
 James E. Moffitt,State Senate,4,Rep,Tippah,3179
 Eric Powell,State Senate,4,Dem,Tippah,1682
 James E. Moffitt,State Senate,4,Rep,Tishomingo,966
 Eric Powell,State Senate,4,Dem,Tishomingo,1839
-James E. Moffitt,State Senate,4,Rep,,8074
-Eric Powell,State Senate,4,Dem,,8571
+James E. Moffitt,State Senate,4,Rep,Total,8074
+Eric Powell,State Senate,4,Dem,Total,8571
 Guyton W. Hinds,State Senate,5,Rep,Itawamba,2209
 "J. P. Wilemon, Jr.",State Senate,5,Dem,Itawamba,3815
 Guyton W. Hinds,State Senate,5,Rep,Prentiss,1712
 "J. P. Wilemon, Jr.",State Senate,5,Dem,Prentiss,5115
 Guyton W. Hinds,State Senate,5,Rep,Tishomingo,609
 "J. P. Wilemon, Jr.",State Senate,5,Dem,Tishomingo,3034
-Guyton W. Hinds,State Senate,5,Rep,,4530
-"J. P. Wilemon, Jr.",State Senate,5,Dem,,11964
+Guyton W. Hinds,State Senate,5,Rep,Total,4530
+"J. P. Wilemon, Jr.",State Senate,5,Dem,Total,11964
 "Johnathan S. ""Jonny"" Davis",State Senate,6,Dem,Lee,5047
 Alan Nunnelee,State Senate,6,Rep,Lee,9588
 "Johnathan S. ""Jonny"" Davis",State Senate,6,Dem,Pontotoc,267
 Alan Nunnelee,State Senate,6,Rep,Pontotoc,506
-"Johnathan S. ""Jonny"" Davis",State Senate,6,Dem,,5314
-Alan Nunnelee,State Senate,6,Rep,,10094
+"Johnathan S. ""Jonny"" Davis",State Senate,6,Dem,Total,5314
+Alan Nunnelee,State Senate,6,Rep,Total,10094
 Hob Bryan,State Senate,7,Dem,Itawamba,842
 Diane P. Malone,State Senate,7,Rep,Itawamba,281
 Hob Bryan,State Senate,7,Dem,Lee,1843
 Diane P. Malone,State Senate,7,Rep,Lee,562
 Hob Bryan,State Senate,7,Dem,Monroe,8057
 Diane P. Malone,State Senate,7,Rep,Monroe,2747
-Hob Bryan,State Senate,7,Dem,,10742
-Diane P. Malone,State Senate,7,Rep,,3590
+Hob Bryan,State Senate,7,Dem,Total,10742
+Diane P. Malone,State Senate,7,Rep,Total,3590
 Jack Gordon,State Senate,8,Dem,Calhoun,2649
 Jack Gordon,State Senate,8,Dem,Chickasaw,4664
 Jack Gordon,State Senate,8,Dem,Grenada,3236
 Jack Gordon,State Senate,8,Dem,Lee,2342
-Jack Gordon,State Senate,8,Dem,,12891
+Jack Gordon,State Senate,8,Dem,Total,12891
 Gray Tollison,State Senate,9,Dem,Lafayette,7039
 Gray Tollison,State Senate,9,Dem,Tallahatchie,1617
 Gray Tollison,State Senate,9,Dem,Yalobusha,2992
-Gray Tollison,State Senate,9,Dem,,11648
+Gray Tollison,State Senate,9,Dem,Total,11648
 Nolan Mettetal,State Senate,10,Dem,Panola,6011
 Shelly Turner,State Senate,10,Rep,Panola,1684
 Nolan Mettetal,State Senate,10,Dem,Tate,4037
 Shelly Turner,State Senate,10,Rep,Tate,1772
-Nolan Mettetal,State Senate,10,Dem,,10048
-Shelly Turner,State Senate,10,Rep,,3456
+Nolan Mettetal,State Senate,10,Dem,Total,10048
+Shelly Turner,State Senate,10,Rep,Total,3456
 "Robert ""Bobby"" Jackson",State Senate,11,Dem,Coahoma,3929
 "Robert ""Bobby"" Jackson",State Senate,11,Dem,Quitman,1859
 "Robert ""Bobby"" Jackson",State Senate,11,Dem,Tate,523
 "Robert ""Bobby"" Jackson",State Senate,11,Dem,Tunica,1946
-"Robert ""Bobby"" Jackson",State Senate,11,Dem,,8257
+"Robert ""Bobby"" Jackson",State Senate,11,Dem,Total,8257
 "Johnnie E. Walls, Jr.",State Senate,12,Dem,Bolivar,3064
 "Johnnie E. Walls, Jr.",State Senate,12,Dem,Washington,3282
-"Johnnie E. Walls, Jr.",State Senate,12,Dem,,9410
+"Johnnie E. Walls, Jr.",State Senate,12,Dem,Total,9410
 Willie L. Simmons,State Senate,13,Dem,Bolivar,2329
 Willie L. Simmons,State Senate,13,Dem,Humphreys,1755
 Willie L. Simmons,State Senate,13,Dem,Sunflower,5454
-Willie L. Simmons,State Senate,13,Dem,,9538
+Willie L. Simmons,State Senate,13,Dem,Total,9538
 Lydia Graves Chassaniol,State Senate,14,Rep,Attala,2587
 Lydia Graves Chassaniol,State Senate,14,Rep,Carroll,3145
 Lydia Graves Chassaniol,State Senate,14,Rep,Grenada,2038
 Lydia Graves Chassaniol,State Senate,14,Rep,Leflore,2845
 Lydia Graves Chassaniol,State Senate,14,Rep,Montgomery,2400
 Lydia Graves Chassaniol,State Senate,14,Rep,Tallahatchie,233
-Lydia Graves Chassaniol,State Senate,14,Rep,,13248
+Lydia Graves Chassaniol,State Senate,14,Rep,Total,13248
 Gary Jackson,State Senate,15,Rep,Attala,678
 Gary Jackson,State Senate,15,Rep,Calhoun,294
 Gary Jackson,State Senate,15,Rep,Choctaw,2377
@@ -1493,28 +1493,28 @@ Gary Jackson,State Senate,15,Rep,Montgomery,1039
 Gary Jackson,State Senate,15,Rep,Oktibbeha,5327
 Gary Jackson,State Senate,15,Rep,Webster,3375
 Gary Jackson,State Senate,15,Rep,Winston,461
-Gary Jackson,State Senate,15,Rep,,13551
+Gary Jackson,State Senate,15,Rep,Total,13551
 Bennie L. Turner,State Senate,16,Dem,Clay,6668
 Bennie L. Turner,State Senate,16,Dem,Lowndes,1771
 Bennie L. Turner,State Senate,16,Dem,Noxubee,1029
 Bennie L. Turner,State Senate,16,Dem,Oktibbeha,3499
-Bennie L. Turner,State Senate,16,Dem,,12967
+Bennie L. Turner,State Senate,16,Dem,Total,12967
 Giles K. Ward,State Senate,18,Rep,Leake,2749
 Gloria C. Williamson,State Senate,18,Dem,Leake,3018
 Giles K. Ward,State Senate,18,Rep,Neshoba,4118
 Gloria C. Williamson,State Senate,18,Dem,Neshoba,3422
 Giles K. Ward,State Senate,18,Rep,Winston,1614
 Gloria C. Williamson,State Senate,18,Dem,Winston,1269
-Giles K. Ward,State Senate,18,Rep,,8481
-Gloria C. Williamson,State Senate,18,Dem,,7709
+Giles K. Ward,State Senate,18,Rep,Total,8481
+Gloria C. Williamson,State Senate,18,Dem,Total,7709
 Lee Yancey,State Senate,20,Rep,Madison,5796
 Lee Yancey,State Senate,20,Rep,Rankin,13055
-Lee Yancey,State Senate,20,Rep,,24647
+Lee Yancey,State Senate,20,Rep,Total,24647
 Kenneth Wayne Jones,State Senate,21,Dem,Attala,908
 Kenneth Wayne Jones,State Senate,21,Dem,Holmes,607
 Kenneth Wayne Jones,State Senate,21,Dem,Madison,6171
 Kenneth Wayne Jones,State Senate,21,Dem,Yazoo,4107
-Kenneth Wayne Jones,State Senate,21,Dem,,11793
+Kenneth Wayne Jones,State Senate,21,Dem,Total,11793
 "Eugene S. ""Buck"" Clarke",State Senate,22,Rep,Bolivar,1417
 "Sandra ""Jaribu"" Hill",State Senate,22,Dem,Bolivar,221
 "Eugene S. ""Buck"" Clarke",State Senate,22,Rep,Humphreys,706
@@ -1525,52 +1525,52 @@ Kenneth Wayne Jones,State Senate,21,Dem,,11793
 "Sandra ""Jaribu"" Hill",State Senate,22,Dem,Washington,2087
 "Eugene S. ""Buck"" Clarke",State Senate,22,Rep,Yazoo,1144
 "Sandra ""Jaribu"" Hill",State Senate,22,Dem,Yazoo,528
-"Eugene S. ""Buck"" Clarke",State Senate,22,Rep,,7266
-"Sandra ""Jaribu"" Hill",State Senate,22,Dem,,5116
+"Eugene S. ""Buck"" Clarke",State Senate,22,Rep,Total,7266
+"Sandra ""Jaribu"" Hill",State Senate,22,Dem,Total,5116
 Briggs Hopson,State Senate,23,Rep,Issaquena,341
 Eric E. Rawlings,State Senate,23,Dem,Issaquena,396
 Briggs Hopson,State Senate,23,Rep,Warren,9047
 Eric E. Rawlings,State Senate,23,Dem,Warren,3972
 Briggs Hopson,State Senate,23,Rep,Yazoo,479
 Eric E. Rawlings,State Senate,23,Dem,Yazoo,75
-Briggs Hopson,State Senate,23,Rep,,9867
-Eric E. Rawlings,State Senate,23,Dem,,4443
+Briggs Hopson,State Senate,23,Rep,Total,9867
+Eric E. Rawlings,State Senate,23,Dem,Total,4443
 David Jordan,State Senate,24,Dem,Holmes,3792
 "Larry ""Blue"" Neal",State Senate,24,Ind,Holmes,757
 David Jordan,State Senate,24,Dem,Leflore,2440
 "Larry ""Blue"" Neal",State Senate,24,Ind,Leflore,1589
 David Jordan,State Senate,24,Dem,Tallahatchie,1736
 "Larry ""Blue"" Neal",State Senate,24,Ind,Tallahatchie,655
-David Jordan,State Senate,24,Dem,,7968
-"Larry ""Blue"" Neal",State Senate,24,Ind,,3001
+David Jordan,State Senate,24,Dem,Total,7968
+"Larry ""Blue"" Neal",State Senate,24,Ind,Total,3001
 Michael Hardin,State Senate,25,Dem,Hinds,2096
 Walter Michel,State Senate,25,Rep,Hinds,6357
 Michael Hardin,State Senate,25,Dem,Madison,2990
 Walter Michel,State Senate,25,Rep,Madison,8744
-Michael Hardin,State Senate,25,Dem,,5086
-Walter Michel,State Senate,25,Rep,,15101
+Michael Hardin,State Senate,25,Dem,Total,5086
+Walter Michel,State Senate,25,Rep,Total,15101
 John A. Horhn,State Senate,26,Dem,Hinds,10598
 John C. Bethea,State Senate,26,Cns,Hinds,2036
 John A. Horhn,State Senate,26,Dem,Madison,346
 John C. Bethea,State Senate,26,Cns,Madison,253
-John A. Horhn,State Senate,26,Dem,,10944
-John C. Bethea,State Senate,26,Cns,,2289
+John A. Horhn,State Senate,26,Dem,Total,10944
+John C. Bethea,State Senate,26,Cns,Total,2289
 Terry C. Burton,State Senate,31,Rep,Lauderdale,4246
 Fred Hamilton,State Senate,31,Dem,Lauderdale,916
 Terry C. Burton,State Senate,31,Rep,Newton,4058
 Fred Hamilton,State Senate,31,Dem,Newton,2059
 Terry C. Burton,State Senate,31,Rep,Scott,2125
 Fred Hamilton,State Senate,31,Dem,Scott,1722
-Terry C. Burton,State Senate,31,Rep,,10429
-Fred Hamilton,State Senate,31,Dem,,4697
+Terry C. Burton,State Senate,31,Rep,Total,10429
+Fred Hamilton,State Senate,31,Dem,Total,4697
 "Sampson Jackson, II",State Senate,32,Dem,Kemper,3314
 "Sampson Jackson, II",State Senate,32,Dem,Lauderdale,2815
 "Sampson Jackson, II",State Senate,32,Dem,Noxubee,1651
 "Sampson Jackson, II",State Senate,32,Dem,Winston,3381
-"Sampson Jackson, II",State Senate,32,Dem,,11161
+"Sampson Jackson, II",State Senate,32,Dem,Total,11161
 Videt Carmichael,State Senate,33,Rep,Clarke,4697
 Videt Carmichael,State Senate,33,Rep,Lauderdale,8397
-Videt Carmichael,State Senate,33,Rep,,13094
+Videt Carmichael,State Senate,33,Rep,Total,13094
 Haskins Montgomery,State Senate,34,Dem,Jasper,4010
 Pete Rutland,State Senate,34,Rep,Jasper,1176
 Terry L. Therrell,State Senate,34,Ind,Jasper,192
@@ -1583,9 +1583,9 @@ Terry L. Therrell,State Senate,34,Ind,Scott,188
 Haskins Montgomery,State Senate,34,Dem,Smith,2280
 Pete Rutland,State Senate,34,Rep,Smith,3026
 Terry L. Therrell,State Senate,34,Ind,Smith,587
-Haskins Montgomery,State Senate,34,Dem,,9895
-Pete Rutland,State Senate,34,Rep,,6165
-Terry L. Therrell,State Senate,34,Ind,,1084
+Haskins Montgomery,State Senate,34,Dem,Total,9895
+Pete Rutland,State Senate,34,Rep,Total,6165
+Terry L. Therrell,State Senate,34,Ind,Total,1084
 Perry E. Lee,State Senate,35,Rep,Copiah,846
 "Parker Dykes, Jr.",State Senate,35,Cns,Copiah,330
 Perry E. Lee,State Senate,35,Rep,Covington,1756
@@ -1594,36 +1594,36 @@ Perry E. Lee,State Senate,35,Rep,Rankin,4321
 "Parker Dykes, Jr.",State Senate,35,Cns,Rankin,1163
 Perry E. Lee,State Senate,35,Rep,Simpson,4172
 "Parker Dykes, Jr.",State Senate,35,Cns,Simpson,1488
-Perry E. Lee,State Senate,35,Rep,,11095
-"Parker Dykes, Jr.",State Senate,35,Cns,,4542
+Perry E. Lee,State Senate,35,Rep,Total,11095
+"Parker Dykes, Jr.",State Senate,35,Cns,Total,4542
 E. Vincent Davis,State Senate,36,Dem,Claiborne,3031
 E. Vincent Davis,State Senate,36,Dem,Copiah,5654
 E. Vincent Davis,State Senate,36,Dem,Hinds,1597
 E. Vincent Davis,State Senate,36,Dem,Jefferson,2697
-E. Vincent Davis,State Senate,36,Dem,,25958
+E. Vincent Davis,State Senate,36,Dem,Total,25958
 Bob M. Dearing,State Senate,37,Dem,Adams,6377
 Bob M. Dearing,State Senate,37,Dem,Amite,2446
 Bob M. Dearing,State Senate,37,Dem,Franklin,2279
 Bob M. Dearing,State Senate,37,Dem,Pike,3620
-Bob M. Dearing,State Senate,37,Dem,,14722
+Bob M. Dearing,State Senate,37,Dem,Total,14722
 Kelvin E. Butler,State Senate,38,Dem,Adams,951
 Kelvin E. Butler,State Senate,38,Dem,Amite,1745
 Kelvin E. Butler,State Senate,38,Dem,Pike,6291
 Kelvin E. Butler,State Senate,38,Dem,Walthall,872
 Kelvin E. Butler,State Senate,38,Dem,Wilkinson,2266
-Kelvin E. Butler,State Senate,38,Dem,,12125
+Kelvin E. Butler,State Senate,38,Dem,Total,12125
 Edwin Case,State Senate,39,Rep,Lawrence,725
 Cindy Hyde-Smith,State Senate,39,Dem,Lawrence,3334
 Edwin Case,State Senate,39,Rep,Lincoln,1812
 Cindy Hyde-Smith,State Senate,39,Dem,Lincoln,7651
 Edwin Case,State Senate,39,Rep,Simpson,786
 Cindy Hyde-Smith,State Senate,39,Dem,Simpson,1859
-Edwin Case,State Senate,39,Rep,,3323
-Cindy Hyde-Smith,State Senate,39,Dem,,12844
+Edwin Case,State Senate,39,Rep,Total,3323
+Cindy Hyde-Smith,State Senate,39,Dem,Total,12844
 Sid Albritton,State Senate,40,Rep,Marion,5990
 Sid Albritton,State Senate,40,Rep,Pearl River,5619
 Sid Albritton,State Senate,40,Rep,Walthall,2381
-Sid Albritton,State Senate,40,Rep,,13990
+Sid Albritton,State Senate,40,Rep,Total,13990
 Gerald Buffington,State Senate,41,Dem,Covington,1261
 Joey Fillingane,State Senate,41,Rep,Covington,2218
 Vince Thornton,State Senate,41,Cns,Covington,48
@@ -1639,9 +1639,9 @@ Vince Thornton,State Senate,41,Cns,Lamar,59
 Gerald Buffington,State Senate,41,Dem,Marion,515
 Joey Fillingane,State Senate,41,Rep,Marion,1247
 Vince Thornton,State Senate,41,Cns,Marion,21
-Gerald Buffington,State Senate,41,Dem,,7296
-Joey Fillingane,State Senate,41,Rep,,9817
-Vince Thornton,State Senate,41,Cns,,270
+Gerald Buffington,State Senate,41,Dem,Total,7296
+Joey Fillingane,State Senate,41,Rep,Total,9817
+Vince Thornton,State Senate,41,Cns,Total,270
 Tommy Dickerson,State Senate,43,Dem,George,2477
 "James ""Shannon"" Walley",State Senate,43,Rep,George,2742
 Tommy Dickerson,State Senate,43,Dem,Greene,1481
@@ -1650,71 +1650,71 @@ Tommy Dickerson,State Senate,43,Dem,Stone,513
 "James ""Shannon"" Walley",State Senate,43,Rep,Stone,611
 Tommy Dickerson,State Senate,43,Dem,Wayne,4540
 "James ""Shannon"" Walley",State Senate,43,Rep,Wayne,2616
-Tommy Dickerson,State Senate,43,Dem,,9011
-"James ""Shannon"" Walley",State Senate,43,Rep,,7987
+Tommy Dickerson,State Senate,43,Dem,Total,9011
+"James ""Shannon"" Walley",State Senate,43,Rep,Total,7987
 Tom King,State Senate,44,Rep,Forrest,5512
 Tom King,State Senate,44,Rep,Lamar,7962
 Tom King,State Senate,44,Rep,Perry,1398
-Tom King,State Senate,44,Rep,,14872
+Tom King,State Senate,44,Rep,Total,14872
 Billy Hudson,State Senate,45,Rep,Forrest,6714
 Billy Hudson,State Senate,45,Rep,Lamar,430
 Billy Hudson,State Senate,45,Rep,Pearl River,3016
 Billy Hudson,State Senate,45,Rep,Perry,1683
 Billy Hudson,State Senate,45,Rep,Stone,631
-Billy Hudson,State Senate,45,Rep,,12474
+Billy Hudson,State Senate,45,Rep,Total,12474
 David Baria,State Senate,46,Dem,Hancock,7346
 "James K. ""Ken"" Overstreet",State Senate,46,Cns,Hancock,2179
 David Baria,State Senate,46,Dem,Harrison,1726
 "James K. ""Ken"" Overstreet",State Senate,46,Cns,Harrison,533
-David Baria,State Senate,46,Dem,,9072
-"James K. ""Ken"" Overstreet",State Senate,46,Cns,,2712
+David Baria,State Senate,46,Dem,Total,9072
+"James K. ""Ken"" Overstreet",State Senate,46,Cns,Total,2712
 Ezell Lee,State Senate,47,Dem,Harrison,1864
 Ezell Lee,State Senate,47,Dem,Jackson,4171
 Ezell Lee,State Senate,47,Dem,Pearl River,2729
 Ezell Lee,State Senate,47,Dem,Stone,2480
-Ezell Lee,State Senate,47,Dem,,11244
+Ezell Lee,State Senate,47,Dem,Total,11244
 "Lester ""Bubba"" Carpenter",State House,1,Rep,Alcorn,1199
 Ricky A. Cummings,State House,1,Dem,Alcorn,976
 "Lester ""Bubba"" Carpenter",State House,1,Rep,Tishomingo,2730
 Ricky A. Cummings,State House,1,Dem,Tishomingo,2393
-"Lester ""Bubba"" Carpenter",State House,1,Rep,,3929
-Ricky A. Cummings,State House,1,Dem,,3369
+"Lester ""Bubba"" Carpenter",State House,1,Rep,Total,3929
+Ricky A. Cummings,State House,1,Dem,Total,3369
 William Tracy Arnold,State House,3,Rep,Alcorn,348
 "W. J. ""Billy"" McCoy",State House,3,Dem,Alcorn,607
 William Tracy Arnold,State House,3,Rep,Prentiss,2199
 "W. J. ""Billy"" McCoy",State House,3,Dem,Prentiss,3576
-William Tracy Arnold,State House,3,Rep,,2547
-"W. J. ""Billy"" McCoy",State House,3,Dem,,4183
+William Tracy Arnold,State House,3,Rep,Total,2547
+"W. J. ""Billy"" McCoy",State House,3,Dem,Total,4183
 Greg Ward,State House,4,Dem,Benton,53
 Greg Ward,State House,4,Dem,Tippah,6041
 Greg Ward,State House,4,Dem,Union,326
-Greg Ward,State House,4,Dem,,6420
+Greg Ward,State House,4,Dem,Total,6420
 Kelvin O. Buck,State House,5,Dem,Benton,269
 James Richard Dunworth,State House,5,Rep,Benton,54
 Kelvin O. Buck,State House,5,Dem,Marshall,2885
 James Richard Dunworth,State House,5,Rep,Marshall,1184
-Kelvin O. Buck,State House,5,Dem,,3154
-James Richard Dunworth,State House,5,Rep,,1238
+Kelvin O. Buck,State House,5,Dem,Total,3154
+James Richard Dunworth,State House,5,Rep,Total,1238
 Larry J. Baker,State House,8,Rep,Desoto,777
 Larry J. Baker,State House,8,Rep,Tate,3864
-Larry J. Baker,State House,8,Rep,,4641
+Larry J. Baker,State House,8,Rep,Total,4641
 Clara Henderson Burnett,State House,9,Dem,Coahoma,353
 Clara Henderson Burnett,State House,9,Dem,Panola,375
 Clara Henderson Burnett,State House,9,Dem,Quitman,1038
 Clara Henderson Burnett,State House,9,Dem,Tate,638
 Clara Henderson Burnett,State House,9,Dem,Tunica,1656
-Clara Henderson Burnett,State House,9,Dem,,4060
+Clara Henderson Burnett,State House,9,Dem,Total,4060
 Warner F. McBride,State House,10,Dem,Lafayette,1464
 Wally Pang,State House,10,Rep,Lafayette,609
 Warner F. McBride,State House,10,Dem,Panola,2843
 Wally Pang,State House,10,Rep,Panola,1297
 Warner F. McBride,State House,10,Dem,Tallahatchie,174
 Wally Pang,State House,10,Rep,Tallahatchie,60
-Warner F. McBride,State House,10,Dem,,4481
-Wally Pang,State House,10,Rep,,1966
+Warner F. McBride,State House,10,Dem,Total,4481
+Wally Pang,State House,10,Rep,Total,1966
 Joe C. Gardner,State House,11,Dem,Panola,2927
 Joe C. Gardner,State House,11,Dem,Tate,990
-Joe C. Gardner,State House,11,Dem,,6844
+Joe C. Gardner,State House,11,Dem,Total,6844
 Jack Gadd,State House,13,Dem,Benton,1468
 John Helmert,State House,13,Rep,Benton,408
 Jack Gadd,State House,13,Dem,Lafayette,689
@@ -1723,41 +1723,41 @@ Jack Gadd,State House,13,Dem,Marshall,1559
 John Helmert,State House,13,Rep,Marshall,621
 Jack Gadd,State House,13,Dem,Union,232
 John Helmert,State House,13,Rep,Union,114
-Jack Gadd,State House,13,Dem,,3948
-John Helmert,State House,13,Rep,,1871
+Jack Gadd,State House,13,Dem,Total,3948
+John Helmert,State House,13,Rep,Total,1871
 Margaret Ellis Rogers,State House,14,Dem,Pontotoc,228
 Margaret Ellis Rogers,State House,14,Dem,Union,5575
-Margaret Ellis Rogers,State House,14,Dem,,6031
+Margaret Ellis Rogers,State House,14,Dem,Total,6031
 Lawrence Deas,State House,18,Dem,Lee,2072
 Jerry R. Turner,State House,18,Rep,Lee,3430
 Lawrence Deas,State House,18,Dem,Prentiss,398
 Jerry R. Turner,State House,18,Rep,Prentiss,844
-Lawrence Deas,State House,18,Dem,,2470
-Jerry R. Turner,State House,18,Rep,,4274
+Lawrence Deas,State House,18,Dem,Total,2470
+Jerry R. Turner,State House,18,Rep,Total,4274
 Randy P. Boyd,State House,19,Rep,Itawamba,1336
 Mark A. DuVall,State House,19,Dem,Itawamba,1776
 Randy P. Boyd,State House,19,Rep,Lee,1645
 Mark A. DuVall,State House,19,Dem,Lee,1336
 Randy P. Boyd,State House,19,Rep,Tishomingo,586
 Mark A. DuVall,State House,19,Dem,Tishomingo,802
-Randy P. Boyd,State House,19,Rep,,3567
-Mark A. DuVall,State House,19,Dem,,3914
+Randy P. Boyd,State House,19,Rep,Total,3567
+Mark A. DuVall,State House,19,Dem,Total,3914
 Chris Brown,State House,20,Rep,Lowndes,128
 Jimmy G. Puckett,State House,20,Dem,Lowndes,68
 Chris Brown,State House,20,Rep,Monroe,3095
 Jimmy G. Puckett,State House,20,Dem,Monroe,3288
-Chris Brown,State House,20,Rep,,3223
-Jimmy G. Puckett,State House,20,Dem,,3356
+Chris Brown,State House,20,Rep,Total,3223
+Jimmy G. Puckett,State House,20,Dem,Total,3356
 Donnie Bell,State House,21,Dem,Itawamba,2883
 Paul M. Walker,State House,21,Rep,Itawamba,1288
 Donnie Bell,State House,21,Dem,Monroe,1801
 Paul M. Walker,State House,21,Rep,Monroe,1048
-Donnie Bell,State House,21,Dem,,4684
-Paul M. Walker,State House,21,Rep,,2336
+Donnie Bell,State House,21,Dem,Total,4684
+Paul M. Walker,State House,21,Rep,Total,2336
 Preston E. Sullivan,State House,22,Dem,Calhoun,571
 Preston E. Sullivan,State House,22,Dem,Chickasaw,4791
 Preston E. Sullivan,State House,22,Dem,Pontotoc,352
-Preston E. Sullivan,State House,22,Dem,,5714
+Preston E. Sullivan,State House,22,Dem,Total,5714
 Charles Jim Beckett,State House,23,Rep,Calhoun,2608
 Marshall W. Coleman,State House,23,Dem,Calhoun,1849
 Charles Jim Beckett,State House,23,Rep,Clay,144
@@ -1766,23 +1766,23 @@ Charles Jim Beckett,State House,23,Rep,Oktibbeha,788
 Marshall W. Coleman,State House,23,Dem,Oktibbeha,725
 Charles Jim Beckett,State House,23,Rep,Webster,658
 Marshall W. Coleman,State House,23,Dem,Webster,509
-Charles Jim Beckett,State House,23,Rep,,4198
-Marshall W. Coleman,State House,23,Dem,,3294
+Charles Jim Beckett,State House,23,Rep,Total,4198
+Marshall W. Coleman,State House,23,Dem,Total,3294
 Sidney W. Bondurant,State House,24,Dem,Calhoun,117
 Sidney W. Bondurant,State House,24,Dem,Grenada,4942
 Sidney W. Bondurant,State House,24,Dem,Yalobusha,652
-Sidney W. Bondurant,State House,24,Dem,,5711
+Sidney W. Bondurant,State House,24,Dem,Total,5711
 Gail Giaramita,State House,25,Rep,Coahoma,623
 John May,State House,25,Dem,Coahoma,1337
 Gail Giaramita,State House,25,Rep,Desoto,1171
 John May,State House,25,Dem,Desoto,714
 Gail Giaramita,State House,25,Rep,Tunica,99
 John May,State House,25,Dem,Tunica,221
-Gail Giaramita,State House,25,Rep,,1893
-John May,State House,25,Dem,,2272
+Gail Giaramita,State House,25,Rep,Total,1893
+John May,State House,25,Dem,Total,2272
 Chuck Espy,State House,26,Dem,Coahoma,2163
 Chuck Espy,State House,26,Dem,Quitman,465
-Chuck Espy,State House,26,Dem,,2628
+Chuck Espy,State House,26,Dem,Total,2628
 Ricky Gill,State House,27,Rep,Attala,602
 Ferr Smith,State House,27,Dem,Attala,1054
 Ricky Gill,State House,27,Rep,Leake,354
@@ -1791,22 +1791,22 @@ Ricky Gill,State House,27,Rep,Madison,304
 Ferr Smith,State House,27,Dem,Madison,1178
 Ricky Gill,State House,27,Rep,Yazoo,655
 Ferr Smith,State House,27,Dem,Yazoo,784
-Ricky Gill,State House,27,Rep,,1915
-Ferr Smith,State House,27,Dem,,4119
+Ricky Gill,State House,27,Rep,Total,1915
+Ferr Smith,State House,27,Dem,Total,4119
 David Norquist,State House,28,Dem,Bolivar,2915
 David Norquist,State House,28,Dem,Sunflower,529
 David Norquist,State House,28,Dem,Washington,1332
-David Norquist,State House,28,Dem,,4776
+David Norquist,State House,28,Dem,Total,4776
 Robert E. Huddleston,State House,30,Dem,Bolivar,577
 Robert E. Huddleston,State House,30,Dem,Leflore,119
 Robert E. Huddleston,State House,30,Dem,Quitman,309
 Robert E. Huddleston,State House,30,Dem,Sunflower,905
 Robert E. Huddleston,State House,30,Dem,Tallahatchie,1272
-Robert E. Huddleston,State House,30,Dem,,5092
+Robert E. Huddleston,State House,30,Dem,Total,5092
 "Thomas U. ""Tommy"" Reynolds",State House,33,Dem,Lafayette,771
 "Thomas U. ""Tommy"" Reynolds",State House,33,Dem,Tallahatchie,2537
 "Thomas U. ""Tommy"" Reynolds",State House,33,Dem,Yalobusha,2214
-"Thomas U. ""Tommy"" Reynolds",State House,33,Dem,,8830
+"Thomas U. ""Tommy"" Reynolds",State House,33,Dem,Total,8830
 Marvin J. Cochran,State House,34,Rep,Carroll,536
 Linda Whittington,State House,34,Dem,Carroll,840
 Marvin J. Cochran,State House,34,Rep,Holmes,15
@@ -1819,38 +1819,38 @@ Marvin J. Cochran,State House,34,Rep,Montgomery,293
 Linda Whittington,State House,34,Dem,Montgomery,832
 Marvin J. Cochran,State House,34,Rep,Washington,952
 Linda Whittington,State House,34,Dem,Washington,374
-Marvin J. Cochran,State House,34,Rep,,2600
-Linda Whittington,State House,34,Dem,,3469
+Marvin J. Cochran,State House,34,Rep,Total,2600
+Linda Whittington,State House,34,Dem,Total,3469
 Dannie Reed,State House,35,Rep,Choctaw,2064
 Dannie Reed,State House,35,Rep,Grenada,82
 Dannie Reed,State House,35,Rep,Oktibbeha,1505
 Dannie Reed,State House,35,Rep,Webster,2423
-Dannie Reed,State House,35,Rep,,6074
+Dannie Reed,State House,35,Rep,Total,6074
 David Gibbs,State House,36,Dem,Clay,4348
 David Gibbs,State House,36,Dem,Lowndes,186
 David Gibbs,State House,36,Dem,Monroe,1559
-David Gibbs,State House,36,Dem,,6093
+David Gibbs,State House,36,Dem,Total,6093
 Gary A. Chism,State House,37,Rep,Clay,956
 "J. C. ""Jim"" Patton, Jr.",State House,37,Dem,Clay,888
 Gary A. Chism,State House,37,Rep,Lowndes,1596
 "J. C. ""Jim"" Patton, Jr.",State House,37,Dem,Lowndes,430
 Gary A. Chism,State House,37,Rep,Oktibbeha,1088
 "J. C. ""Jim"" Patton, Jr.",State House,37,Dem,Oktibbeha,1799
-Gary A. Chism,State House,37,Rep,,3640
-"J. C. ""Jim"" Patton, Jr.",State House,37,Dem,,3117
+Gary A. Chism,State House,37,Rep,Total,3640
+"J. C. ""Jim"" Patton, Jr.",State House,37,Dem,Total,3117
 Tyrone Ellis,State House,38,Dem,Clay,350
 Tyrone Ellis,State House,38,Dem,Lowndes,754
 Tyrone Ellis,State House,38,Dem,Noxubee,562
 Tyrone Ellis,State House,38,Dem,Oktibbeha,3615
-Tyrone Ellis,State House,38,Dem,,5281
+Tyrone Ellis,State House,38,Dem,Total,5281
 Reecy L. Dickson,State House,42,Dem,Kemper,2014
 Janie R. Gregg,State House,42,Rep,Kemper,1008
 Reecy L. Dickson,State House,42,Dem,Lauderdale,230
 Janie R. Gregg,State House,42,Rep,Lauderdale,156
 Reecy L. Dickson,State House,42,Dem,Noxubee,1816
 Janie R. Gregg,State House,42,Rep,Noxubee,771
-Reecy L. Dickson,State House,42,Dem,,4060
-Janie R. Gregg,State House,42,Rep,,1935
+Reecy L. Dickson,State House,42,Dem,Total,4060
+Janie R. Gregg,State House,42,Rep,Total,1935
 James Gale Gregory,State House,43,Rep,Kemper,420
 Russ C. Nowell,State House,43,Dem,Kemper,230
 Harvey Love Darden,State House,43,Ind,Kemper,21
@@ -1860,9 +1860,9 @@ Harvey Love Darden,State House,43,Ind,Noxubee,0
 James Gale Gregory,State House,43,Rep,Winston,3292
 Russ C. Nowell,State House,43,Dem,Winston,3571
 Harvey Love Darden,State House,43,Ind,Winston,599
-James Gale Gregory,State House,43,Rep,,3741
-Russ C. Nowell,State House,43,Dem,,3807
-Harvey Love Darden,State House,43,Ind,,620
+James Gale Gregory,State House,43,Rep,Total,3741
+Russ C. Nowell,State House,43,Dem,Total,3807
+Harvey Love Darden,State House,43,Ind,Total,620
 Bennett Malone,State House,45,Dem,Leake,2191
 Jay W. Mathis,State House,45,Rep,Leake,1898
 Bennett Malone,State House,45,Dem,Neshoba,186
@@ -1871,34 +1871,34 @@ Bennett Malone,State House,45,Dem,Rankin,208
 Jay W. Mathis,State House,45,Rep,Rankin,197
 Bennett Malone,State House,45,Dem,Scott,562
 Jay W. Mathis,State House,45,Rep,Scott,298
-Bennett Malone,State House,45,Dem,,3147
-Jay W. Mathis,State House,45,Rep,,2469
+Bennett Malone,State House,45,Dem,Total,3147
+Jay W. Mathis,State House,45,Rep,Total,2469
 Bobby B. Howell,State House,46,Rep,Attala,260
 Bobby B. Howell,State House,46,Rep,Carroll,1820
 Bobby B. Howell,State House,46,Rep,Grenada,905
 Bobby B. Howell,State House,46,Rep,Leflore,1530
 Bobby B. Howell,State House,46,Rep,Montgomery,2719
-Bobby B. Howell,State House,46,Rep,,11749
+Bobby B. Howell,State House,46,Rep,Total,11749
 Bryant Wandrick Clark,State House,47,Dem,Attala,53
 Bryant Wandrick Clark,State House,47,Dem,Holmes,3141
 Bryant Wandrick Clark,State House,47,Dem,Yazoo,1612
-Bryant Wandrick Clark,State House,47,Dem,,4806
+Bryant Wandrick Clark,State House,47,Dem,Total,4806
 Mary Ann Stevens,State House,48,Dem,Attala,2834
 Mary Ann Stevens,State House,48,Dem,Carroll,432
 Mary Ann Stevens,State House,48,Dem,Choctaw,449
 Mary Ann Stevens,State House,48,Dem,Holmes,1693
 Mary Ann Stevens,State House,48,Dem,Humphreys,159
 Mary Ann Stevens,State House,48,Dem,Leake,227
-Mary Ann Stevens,State House,48,Dem,,5794
+Mary Ann Stevens,State House,48,Dem,Total,5794
 "Rufus E. ""Pete"" Straughter",State House,51,Dem,Humphreys,2415
 "Rufus E. ""Pete"" Straughter",State House,51,Dem,Issaquena,203
 "Rufus E. ""Pete"" Straughter",State House,51,Dem,Sharkey,1299
 "Rufus E. ""Pete"" Straughter",State House,51,Dem,Washington,166
 "Rufus E. ""Pete"" Straughter",State House,51,Dem,Yazoo,1220
-"Rufus E. ""Pete"" Straughter",State House,51,Dem,,5303
+"Rufus E. ""Pete"" Straughter",State House,51,Dem,Total,5303
 Tommy Woods,State House,52,Rep,Desoto,2669
 Tommy Woods,State House,52,Rep,Marshall,600
-Tommy Woods,State House,52,Rep,,3269
+Tommy Woods,State House,52,Rep,Total,3269
 Bobby Moak,State House,53,Dem,Amite,328
 Carl Mason,State House,53,Cns,Amite,107
 Bobby Moak,State House,53,Dem,Franklin,1308
@@ -1909,8 +1909,8 @@ Bobby Moak,State House,53,Dem,Lincoln,2285
 Carl Mason,State House,53,Cns,Lincoln,787
 Bobby Moak,State House,53,Dem,Pike,305
 Carl Mason,State House,53,Cns,Pike,75
-Bobby Moak,State House,53,Dem,,4730
-Carl Mason,State House,53,Cns,,1476
+Bobby Moak,State House,53,Dem,Total,4730
+Carl Mason,State House,53,Cns,Total,1476
 Alex Monsour,State House,54,Rep,Issaquena,253
 "Jennifer ""Jenny"" Thomas",State House,54,Dem,Issaquena,233
 "Thomas ""Tom"" Setser",State House,54,Ind,Issaquena,24
@@ -1920,47 +1920,47 @@ Alex Monsour,State House,54,Rep,Sharkey,242
 Alex Monsour,State House,54,Rep,Warren,4466
 "Jennifer ""Jenny"" Thomas",State House,54,Dem,Warren,1264
 "Thomas ""Tom"" Setser",State House,54,Ind,Warren,735
-Alex Monsour,State House,54,Rep,,4961
-"Jennifer ""Jenny"" Thomas",State House,54,Dem,,1675
-"Thomas ""Tom"" Setser",State House,54,Ind,,809
+Alex Monsour,State House,54,Rep,Total,4961
+"Jennifer ""Jenny"" Thomas",State House,54,Dem,Total,1675
+"Thomas ""Tom"" Setser",State House,54,Ind,Total,809
 Philip Gunn,State House,56,Rep,Hinds,2523
 Philip Gunn,State House,56,Rep,Madison,3424
 Philip Gunn,State House,56,Rep,Warren,605
 Philip Gunn,State House,56,Rep,Yazoo,2196
-Philip Gunn,State House,56,Rep,,8748
+Philip Gunn,State House,56,Rep,Total,8748
 John L. Moore,State House,60,Rep,Rankin,5781
 John L. Moore,State House,60,Rep,Simpson,184
-John L. Moore,State House,60,Rep,,5965
+John L. Moore,State House,60,Rep,Total,5965
 Tom Weathersby,State House,62,Rep,Copiah,2089
 Jim Giles,State House,62,Ind,Copiah,529
 Tom Weathersby,State House,62,Rep,Rankin,4203
 Jim Giles,State House,62,Ind,Rankin,730
 Tom Weathersby,State House,62,Rep,Simpson,32
 Jim Giles,State House,62,Ind,Simpson,1
-Tom Weathersby,State House,62,Rep,,6324
-Jim Giles,State House,62,Ind,,1260
+Tom Weathersby,State House,62,Rep,Total,6324
+Jim Giles,State House,62,Ind,Total,1260
 Bill Denny,State House,64,Rep,Hinds,5853
 Bill Denny,State House,64,Rep,Madison,798
-Bill Denny,State House,64,Rep,,6651
+Bill Denny,State House,64,Rep,Total,6651
 Mary H. Coleman,State House,65,Dem,Hinds,4470
 Mary H. Coleman,State House,65,Dem,Madison,385
-Mary H. Coleman,State House,65,Dem,,4855
+Mary H. Coleman,State House,65,Dem,Total,4855
 John Reeves,State House,71,Rep,Hinds,925
 Adrianne Wooten,State House,71,Dem,Hinds,1081
 John Reeves,State House,71,Rep,Rankin,206
 Adrianne Wooten,State House,71,Dem,Rankin,222
-John Reeves,State House,71,Rep,,1131
-Adrianne Wooten,State House,71,Dem,,1303
+John Reeves,State House,71,Rep,Total,1131
+Adrianne Wooten,State House,71,Dem,Total,1303
 Kimberly L. Campbell,State House,72,Dem,Hinds,6126
 Kimberly L. Campbell,State House,72,Dem,Madison,336
-Kimberly L. Campbell,State House,72,Dem,,6462
+Kimberly L. Campbell,State House,72,Dem,Total,6462
 Mark Baker,State House,74,Rep,Madison,3280
 Mark Baker,State House,74,Rep,Rankin,6777
-Mark Baker,State House,74,Rep,,10057
+Mark Baker,State House,74,Rep,Total,10057
 "Greg Holloway, Sr.",State House,76,Dem,Copiah,4236
 "Greg Holloway, Sr.",State House,76,Dem,Claiborne,717
 "Greg Holloway, Sr.",State House,76,Dem,Hinds,247
-"Greg Holloway, Sr.",State House,76,Dem,,5200
+"Greg Holloway, Sr.",State House,76,Dem,Total,5200
 Dale Berry,State House,77,Dem,Rankin,114
 Andy Gipson,State House,77,Rep,Rankin,247
 Lynn McLean,State House,77,Grn,Rankin,3
@@ -1970,39 +1970,39 @@ Lynn McLean,State House,77,Grn,Simpson,79
 Dale Berry,State House,77,Dem,Smith,161
 Andy Gipson,State House,77,Rep,Smith,301
 Lynn McLean,State House,77,Grn,Smith,7
-Dale Berry,State House,77,Dem,,3128
-Andy Gipson,State House,77,Rep,,4453
-Lynn McLean,State House,77,Grn,,89
+Dale Berry,State House,77,Dem,Total,3128
+Andy Gipson,State House,77,Rep,Total,4453
+Lynn McLean,State House,77,Grn,Total,89
 Billy R. Nicholson,State House,78,Dem,Neshoba,615
 "Randal ""Randy"" Rushing",State House,78,Rep,Neshoba,430
 Billy R. Nicholson,State House,78,Dem,Newton,2557
 "Randal ""Randy"" Rushing",State House,78,Rep,Newton,1866
 Billy R. Nicholson,State House,78,Dem,Scott,305
 "Randal ""Randy"" Rushing",State House,78,Rep,Scott,307
-Billy R. Nicholson,State House,78,Dem,,3477
-"Randal ""Randy"" Rushing",State House,78,Rep,,2603
+Billy R. Nicholson,State House,78,Dem,Total,3477
+"Randal ""Randy"" Rushing",State House,78,Rep,Total,2603
 Bill Allen,State House,79,Rep,Covington,249
 "Blaine ""Bo"" Eaton",State House,79,Dem,Covington,977
 Bill Allen,State House,79,Rep,Jones,602
 "Blaine ""Bo"" Eaton",State House,79,Dem,Jones,1093
 Bill Allen,State House,79,Rep,Smith,2223
 "Blaine ""Bo"" Eaton",State House,79,Dem,Smith,3195
-Bill Allen,State House,79,Rep,,3074
-"Blaine ""Bo"" Eaton",State House,79,Dem,,5265
+Bill Allen,State House,79,Rep,Total,3074
+"Blaine ""Bo"" Eaton",State House,79,Dem,Total,5265
 Omeria Scott,State House,80,Dem,Clarke,745
 Timothy Delrie,State House,80,Cns,Clarke,160
 Omeria Scott,State House,80,Dem,Jasper,1293
 Timothy Delrie,State House,80,Cns,Jasper,162
 Omeria Scott,State House,80,Dem,Jones,2594
 Timothy Delrie,State House,80,Cns,Jones,496
-Omeria Scott,State House,80,Dem,,4632
-Timothy Delrie,State House,80,Cns,,818
+Omeria Scott,State House,80,Dem,Total,4632
+Timothy Delrie,State House,80,Cns,Total,818
 "Stephen A. ""Steve"" Horne",State House,81,Rep,Clarke,404
 "Stephen A. ""Steve"" Horne",State House,81,Rep,Lauderdale,4956
-"Stephen A. ""Steve"" Horne",State House,81,Rep,,5360
+"Stephen A. ""Steve"" Horne",State House,81,Rep,Total,5360
 Greg Snowden,State House,83,Rep,Clarke,856
 Greg Snowden,State House,83,Rep,Lauderdale,3024
-Greg Snowden,State House,83,Rep,,3880
+Greg Snowden,State House,83,Rep,Total,3880
 "David ""Tad"" Campbell",State House,84,Rep,Clarke,2170
 "William G. ""Billy"" Lee",State House,84,Dem,Clarke,371
 "Cecil ""Matt"" Hemphill",State House,84,Ind,Clarke,306
@@ -2015,54 +2015,54 @@ Greg Snowden,State House,83,Rep,,3880
 "David ""Tad"" Campbell",State House,84,Rep,Newton,167
 "William G. ""Billy"" Lee",State House,84,Dem,Newton,19
 "Cecil ""Matt"" Hemphill",State House,84,Ind,Newton,15
-"David ""Tad"" Campbell",State House,84,Rep,,6415
-"William G. ""Billy"" Lee",State House,84,Dem,,954
-"Cecil ""Matt"" Hemphill",State House,84,Ind,,529
+"David ""Tad"" Campbell",State House,84,Rep,Total,6415
+"William G. ""Billy"" Lee",State House,84,Dem,Total,954
+"Cecil ""Matt"" Hemphill",State House,84,Ind,Total,529
 "America ""Chuck"" Middleton",State House,85,Dem,Adams,888
 "America ""Chuck"" Middleton",State House,85,Dem,Claiborne,2289
 "America ""Chuck"" Middleton",State House,85,Dem,Hinds,94
 "America ""Chuck"" Middleton",State House,85,Dem,Jefferson,2445
 "America ""Chuck"" Middleton",State House,85,Dem,Warren,334
-"America ""Chuck"" Middleton",State House,85,Dem,,6050
+"America ""Chuck"" Middleton",State House,85,Dem,Total,6050
 Albert D. Busby,State House,86,Rep,Clarke,97
 Sherra Hillman Lane,State House,86,Dem,Clarke,115
 Albert D. Busby,State House,86,Rep,Perry,297
 Sherra Hillman Lane,State House,86,Dem,Perry,468
 Albert D. Busby,State House,86,Rep,Wayne,2509
 Sherra Hillman Lane,State House,86,Dem,Wayne,4029
-Albert D. Busby,State House,86,Rep,,2903
-Sherra Hillman Lane,State House,86,Dem,,4612
+Albert D. Busby,State House,86,Rep,Total,2903
+Sherra Hillman Lane,State House,86,Dem,Total,4612
 Daniel Kilpatrick,State House,87,Rep,Jasper,878
 Johnny W. Stringer,State House,87,Dem,Jasper,2986
 Daniel Kilpatrick,State House,87,Rep,Jones,425
 Johnny W. Stringer,State House,87,Dem,Jones,592
 Daniel Kilpatrick,State House,87,Rep,Newton,351
 Johnny W. Stringer,State House,87,Dem,Newton,1156
-Daniel Kilpatrick,State House,87,Rep,,1654
-Johnny W. Stringer,State House,87,Dem,,4734
+Daniel Kilpatrick,State House,87,Rep,Total,1654
+Johnny W. Stringer,State House,87,Dem,Total,4734
 Gary V. Staples,State House,88,Rep,Jones,6181
 Gary V. Staples,State House,88,Rep,Perry,821
-Gary V. Staples,State House,88,Rep,,7002
+Gary V. Staples,State House,88,Rep,Total,7002
 "Joe ""J. L."" Warren",State House,90,Dem,Covington,5074
 "Joe ""J. L."" Warren",State House,90,Dem,Forrest,151
 "Joe ""J. L."" Warren",State House,90,Dem,Jefferson Davis,1958
 "Joe ""J. L."" Warren",State House,90,Dem,Marion,86
 "Joe ""J. L."" Warren",State House,90,Dem,Simpson,679
-"Joe ""J. L."" Warren",State House,90,Dem,,7948
+"Joe ""J. L."" Warren",State House,90,Dem,Total,7948
 Bob Evans,State House,91,Dem,Copiah,154
 Bob Evans,State House,91,Dem,Covington,186
 Bob Evans,State House,91,Dem,Jefferson Davis,3063
 Bob Evans,State House,91,Dem,Lawrence,2616
 Bob Evans,State House,91,Dem,Simpson,643
-Bob Evans,State House,91,Dem,,6662
+Bob Evans,State House,91,Dem,Total,6662
 Becky Currie,State House,92,Rep,Copiah,129
 D. W. Maxwell,State House,92,Dem,Copiah,45
 Becky Currie,State House,92,Rep,Franklin,667
 D. W. Maxwell,State House,92,Dem,Franklin,213
 Becky Currie,State House,92,Rep,Lincoln,4071
 D. W. Maxwell,State House,92,Dem,Lincoln,2040
-Becky Currie,State House,92,Rep,,4867
-D. W. Maxwell,State House,92,Dem,,2298
+Becky Currie,State House,92,Rep,Total,4867
+D. W. Maxwell,State House,92,Dem,Total,2298
 John Thomas Cripps,State House,93,Rep,Forrest,87
 Dirk D. Dedeaux,State House,93,Dem,Forrest,77
 John Thomas Cripps,State House,93,Rep,Hancock,776
@@ -2075,30 +2075,30 @@ John Thomas Cripps,State House,93,Rep,Pearl River,138
 Dirk D. Dedeaux,State House,93,Dem,Pearl River,314
 John Thomas Cripps,State House,93,Rep,Stone,390
 Dirk D. Dedeaux,State House,93,Dem,Stone,1400
-John Thomas Cripps,State House,93,Rep,,1693
-Dirk D. Dedeaux,State House,93,Dem,,5184
+John Thomas Cripps,State House,93,Rep,Total,1693
+Dirk D. Dedeaux,State House,93,Dem,Total,5184
 "Robert L. Johnson, III",State House,94,Dem,Adams,3701
 "Robert L. Johnson, III",State House,94,Dem,Claiborne,67
 "Robert L. Johnson, III",State House,94,Dem,Jefferson,257
-"Robert L. Johnson, III",State House,94,Dem,,4025
+"Robert L. Johnson, III",State House,94,Dem,Total,4025
 Jessica Upshaw,State House,95,Rep,Hancock,2340
 Jessica Upshaw,State House,95,Rep,Harrison,2982
-Jessica Upshaw,State House,95,Rep,,7662
+Jessica Upshaw,State House,95,Rep,Total,7662
 Angela Cockerham,State House,96,Dem,Adams,446
 Angela Cockerham,State House,96,Dem,Amite,2678
 Angela Cockerham,State House,96,Dem,Pike,355
 Angela Cockerham,State House,96,Dem,Wilkinson,2338
-Angela Cockerham,State House,96,Dem,,5817
+Angela Cockerham,State House,96,Dem,Total,5817
 Sam C. Mims V,State House,97,Rep,Adams,1686
 Sam C. Mims V,State House,97,Rep,Amite,1125
 Sam C. Mims V,State House,97,Rep,Franklin,26
 Sam C. Mims V,State House,97,Rep,Lawrence,317
 Sam C. Mims V,State House,97,Rep,Pike,3693
 Sam C. Mims V,State House,97,Rep,Walthall,206
-Sam C. Mims V,State House,97,Rep,,4242
+Sam C. Mims V,State House,97,Rep,Total,4242
 David W. Myers,State House,98,Dem,Pike,4612
 David W. Myers,State House,98,Dem,Walthall,358
-David W. Myers,State House,98,Dem,,4970
+David W. Myers,State House,98,Dem,Total,4970
 Winston E. Fortenberry,State House,99,Dem,Lamar,229
 Bill Pigott,State House,99,Rep,Lamar,629
 Winston E. Fortenberry,State House,99,Dem,Marion,1425
@@ -2107,28 +2107,28 @@ Winston E. Fortenberry,State House,99,Dem,Pike,329
 Bill Pigott,State House,99,Rep,Pike,402
 Winston E. Fortenberry,State House,99,Dem,Walthall,2016
 Bill Pigott,State House,99,Rep,Walthall,1617
-Winston E. Fortenberry,State House,99,Dem,,3999
-Bill Pigott,State House,99,Rep,,4235
+Winston E. Fortenberry,State House,99,Dem,Total,3999
+Bill Pigott,State House,99,Rep,Total,4235
 "O. K. ""Kenny"" Moore",State House,100,Dem,Jefferson Davis,126
 Ken Morgan,State House,100,Rep,Jefferson Davis,62
 "O. K. ""Kenny"" Moore",State House,100,Dem,Lamar,564
 Ken Morgan,State House,100,Rep,Lamar,1385
 "O. K. ""Kenny"" Moore",State House,100,Dem,Marion,2952
 Ken Morgan,State House,100,Rep,Marion,3080
-"O. K. ""Kenny"" Moore",State House,100,Dem,,3642
-Ken Morgan,State House,100,Rep,,4527
+"O. K. ""Kenny"" Moore",State House,100,Dem,Total,3642
+Ken Morgan,State House,100,Rep,Total,4527
 Harvey A. Fillingane,State House,101,Rep,Forrest,157
 Harvey A. Fillingane,State House,101,Rep,Lamar,7740
-Harvey A. Fillingane,State House,101,Rep,,7897
+Harvey A. Fillingane,State House,101,Rep,Total,7897
 Toby Barker,State House,102,Rep,Forrest,2889
-Jolly Matthews,State House,102,Dem,,1699
+Jolly Matthews,State House,102,Dem,Total,1699
 Toby Barker,State House,102,Rep,Lamar,66
-Jolly Matthews,State House,102,Dem,,67
-Toby Barker,State House,102,Rep,,2955
-Jolly Matthews,State House,102,Dem,,1766
+Jolly Matthews,State House,102,Dem,Total,67
+Toby Barker,State House,102,Rep,Total,2955
+Jolly Matthews,State House,102,Dem,Total,1766
 Larry Byrd,State House,104,Rep,Forrest,5175
 Larry Byrd,State House,104,Rep,Lamar,1023
-Larry Byrd,State House,104,Rep,,6198
+Larry Byrd,State House,104,Rep,Total,6198
 Ladd Pulliam,State House,105,Rep,Forrest,72
 J. Shaun Walley,State House,105,Dem,Forrest,47
 Ladd Pulliam,State House,105,Rep,George,166
@@ -2139,25 +2139,25 @@ Ladd Pulliam,State House,105,Rep,Perry,628
 J. Shaun Walley,State House,105,Dem,Perry,1205
 Ladd Pulliam,State House,105,Rep,Wayne,160
 J. Shaun Walley,State House,105,Dem,Wayne,464
-Ladd Pulliam,State House,105,Rep,,2759
-J. Shaun Walley,State House,105,Dem,,3800
+Ladd Pulliam,State House,105,Rep,Total,2759
+J. Shaun Walley,State House,105,Dem,Total,3800
 Herb Frierson,State House,106,Rep,Lamar,162
 Herb Frierson,State House,106,Rep,Pearl River,5684
-Herb Frierson,State House,106,Rep,,5846
+Herb Frierson,State House,106,Rep,Total,5846
 Deryk Parker,State House,107,Dem,Forrest,281
 Deryk Parker,State House,107,Dem,George,3533
 Deryk Parker,State House,107,Dem,Jackson,61
 Deryk Parker,State House,107,Dem,Stone,2498
-Deryk Parker,State House,107,Dem,,6373
+Deryk Parker,State House,107,Dem,Total,6373
 "Joe Louis Biggs, Sr.",State House,109,Dem,George,206
 Frank Hamilton,State House,109,Rep,George,681
 "Joe Louis Biggs, Sr.",State House,109,Dem,Jackson,914
 Frank Hamilton,State House,109,Rep,Jackson,4651
-"Joe Louis Biggs, Sr.",State House,109,Dem,,1120
-Frank Hamilton,State House,109,Rep,,5332
+"Joe Louis Biggs, Sr.",State House,109,Dem,Total,1120
+Frank Hamilton,State House,109,Rep,Total,5332
 "Daniel D. ""Danny"" Guice, Jr.",State House,114,Rep,Harrison,1075
 "Daniel D. ""Danny"" Guice, Jr.",State House,114,Rep,Jackson,3475
-"Daniel D. ""Danny"" Guice, Jr.",State House,114,Rep,,4550
+"Daniel D. ""Danny"" Guice, Jr.",State House,114,Rep,Total,4550
 Doug Davis,State Senate,1,Rep,DeSoto,6948
 Terry W. Brown,State Senate,17,Rep,Lowndes,10805
 Merle Flowers,State Senate,19,Rep,Desoto,7278

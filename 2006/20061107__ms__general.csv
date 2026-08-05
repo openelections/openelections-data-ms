@@ -245,9 +245,9 @@ Yalobusha,U.S. Senate,,LBT,Harold M. Taylor,43
 Yazoo,U.S. Senate,,DEM,Erik R. Fleming,2391
 Yazoo,U.S. Senate,,REP,Trent Loft,3483
 Yazoo,U.S. Senate,,LBT,Harold M. Taylor,67
-,U.S. Senate,,DEM,Erik R. Fleming,213000
-,U.S. Senate,,REP,Trent Loft,388399
-,U.S. Senate,,LBT,Harold M. Taylor,9522
+Total,U.S. Senate,,DEM,Erik R. Fleming,213000
+Total,U.S. Senate,,REP,Trent Loft,388399
+Total,U.S. Senate,,LBT,Harold M. Taylor,9522
 Alcorn,U.S. House,1,DEM,James K. (Ken) Hurt,2580
 Alcorn,U.S. House,1,REP,Roger F. Wicker,5106
 Benton,U.S. House,1,DEM,James K. (Ken) Hurt,1024
@@ -296,8 +296,8 @@ Winston,U.S. House,1,DEM,James K. (Ken) Hurt,11
 Winston,U.S. House,1,REP,Roger F. Wicker,29
 Yalobusha,U.S. House,1,DEM,James K. (Ken) Hurt,1274
 Yalobusha,U.S. House,1,REP,Roger F. Wicker,1708
-,U.S. House,1,DEM,James K. (Ken) Hurt,49174
-,U.S. House,1,REP,Roger F. Wicker,95098
+Total,U.S. House,1,DEM,James K. (Ken) Hurt,49174
+Total,U.S. House,1,REP,Roger F. Wicker,95098
 Attala,U.S. House,2,REP,Yvonne R. Brown,2541
 Attala,U.S. House,2,DEM,Bennie G. Thompson,2312
 Bolivar,U.S. House,2,REP,Yvonne R. Brown,2759
@@ -344,8 +344,8 @@ Washington,U.S. House,2,REP,Yvonne R. Brown,3384
 Washington,U.S. House,2,DEM,Bennie G. Thompson,6168
 Yazoo,U.S. House,2,REP,Yvonne R. Brown,3006
 Yazoo,U.S. House,2,DEM,Bennie G. Thompson,2972
-,U.S. House,2,REP,Yvonne R. Brown,55672
-,U.S. House,2,DEM,Bennie G. Thompson,100160
+Total,U.S. House,2,REP,Yvonne R. Brown,55672
+Total,U.S. House,2,DEM,Bennie G. Thompson,100160
 Adams,U.S. House,3,REP,Chip Pickering,3955
 Adams,U.S. House,3,IND,Jim Giles,1770
 Adams,U.S. House,3,REF,Lamonica L. Magee,482
@@ -430,9 +430,9 @@ Wilkinson,U.S. House,3,REF,Lamonica L. Magee,310
 Winston,U.S. House,3,REP,Chip Pickering,3444
 Winston,U.S. House,3,IND,Jim Giles,991
 Winston,U.S. House,3,REF,Lamonica L. Magee,254
-,U.S. House,3,REP,Chip Pickering,125421
-,U.S. House,3,IND,Jim Giles,25999
-,U.S. House,3,REF,Lamonica L. Magee,10060
+Total,U.S. House,3,REP,Chip Pickering,125421
+Total,U.S. House,3,IND,Jim Giles,25999
+Total,U.S. House,3,REF,Lamonica L. Magee,10060
 Clarke,U.S. House,4,REP,Randy McDonnell,1432
 Clarke,U.S. House,4,DEM,Gene Taylor,2812
 Forrest,U.S. House,4,REP,Randy McDonnell,2864
@@ -463,5 +463,5 @@ Stone,U.S. House,4,REP,Randy McDonnell,470
 Stone,U.S. House,4,DEM,Gene Taylor,2731
 Wayne,U.S. House,4,REP,Randy McDonnell,775
 Wayne,U.S. House,4,DEM,Gene Taylor,3834
-,U.S. House,4,REP,Randy McDonnell,28117
-,U.S. House,4,DEM,Gene Taylor,110996
+Total,U.S. House,4,REP,Randy McDonnell,28117
+Total,U.S. House,4,DEM,Gene Taylor,110996

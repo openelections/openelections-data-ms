@@ -1,10 +1,8 @@
 county,precinct,office,district,party,candidate,votes
 Lamar,Lumberton,State House,106,,John Glen Corley,77
 Lamar,Yawn,State House,106,,John Glen Corley,17
-Lamar,,State House,106,,John Glen Corley,94
 Lamar,Lumberton,State House,106,,Greg Holcomb,212
 Lamar,Yawn,State House,106,,Greg Holcomb,34
-Lamar,,State House,106,,Greg Holcomb,246
 Pearl River,Buck Branch Beat 2,State House,106,,John Glen Corley,51
 Pearl River,Byrdline Beat 2,State House,106,,John Glen Corley,32
 Pearl River,Carriere Beat 3,State House,106,,John Glen Corley,29
@@ -27,7 +25,6 @@ Pearl River,Progress Beat 3,State House,106,,John Glen Corley,42
 Pearl River,Savannah Beat 3,State House,106,,John Glen Corley,0
 Pearl River,Whitesand Beat 2,State House,106,,John Glen Corley,41
 Pearl River,Whitesand Bt 1,State House,106,,John Glen Corley,38
-Pearl River,,State House,106,,John Glen Corley,991
 Pearl River,Buck Branch Beat 2,State House,106,,Greg Holcomb,45
 Pearl River,Byrdline Beat 2,State House,106,,Greg Holcomb,27
 Pearl River,Carriere Beat 3,State House,106,,Greg Holcomb,10
@@ -50,4 +47,3 @@ Pearl River,Progress Beat 3,State House,106,,Greg Holcomb,16
 Pearl River,Savannah Beat 3,State House,106,,Greg Holcomb,0
 Pearl River,Whitesand Beat 2,State House,106,,Greg Holcomb,10
 Pearl River,Whitesand Bt 1,State House,106,,Greg Holcomb,19
-Pearl River,,State House,106,,Greg Holcomb,666

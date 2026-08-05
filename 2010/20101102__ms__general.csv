@@ -215,15 +215,15 @@ Yalobusha,U.S. House,1,Independent,Rick 'Rico' Hoskins,6
 Yalobusha,U.S. House,1,Independent,Wally Pang,36
 Yalobusha,U.S. House,1,Libertarian,Harold M. Taylor,15
 Yalobusha,U.S. House,1,Reform,Barbara Dale Washer,14
-,U.S. House,1,Democrat,Travis W. Childers,89388
-,U.S. House,1,Republican,Alan Nunnelee,121074
-,U.S. House,1,Independent,A.G. Baddley,1882
-,U.S. House,1,Constitution,Gail Giaramita,1235
-,U.S. House,1,Independent,Les Green,2020
-,U.S. House,1,Independent,Rick 'Rico' Hoskins,478
-,U.S. House,1,Independent,Wally Pang,2180
-,U.S. House,1,Libertarian,Harold M. Taylor,447
-,U.S. House,1,Reform,Barbara Dale Washer,389
+Total,U.S. House,1,Democrat,Travis W. Childers,89388
+Total,U.S. House,1,Republican,Alan Nunnelee,121074
+Total,U.S. House,1,Independent,A.G. Baddley,1882
+Total,U.S. House,1,Constitution,Gail Giaramita,1235
+Total,U.S. House,1,Independent,Les Green,2020
+Total,U.S. House,1,Independent,Rick 'Rico' Hoskins,478
+Total,U.S. House,1,Independent,Wally Pang,2180
+Total,U.S. House,1,Libertarian,Harold M. Taylor,447
+Total,U.S. House,1,Reform,Barbara Dale Washer,389
 Attala,U.S. House,2,Republican,Bill Marcy,3210
 Attala,U.S. House,2,Democrat,Bennie G. Thompson,1989
 Attala,U.S. House,2,Reform,Ashley Norwood,64
@@ -293,9 +293,9 @@ Washington,U.S. House,2,Reform,Ashley Norwood,77
 Yazoo,U.S. House,2,Republican,Bill Marcy,3433
 Yazoo,U.S. House,2,Democrat,Bennie G. Thompson,2992
 Yazoo,U.S. House,2,Reform,Ashley Norwood,53
-,U.S. House,2,Republican,Bill Marcy,64499
-,U.S. House,2,Democrat,Bennie G. Thompson,105327
-,U.S. House,2,Reform,Ashley Norwood,1530
+Total,U.S. House,2,Republican,Bill Marcy,64499
+Total,U.S. House,2,Democrat,Bennie G. Thompson,105327
+Total,U.S. House,2,Reform,Ashley Norwood,1530
 Adams,U.S. House,3,Democrat,Joel L. Gill,4114
 Adams,U.S. House,3,Republican,Gregg Harper,3710
 Adams,U.S. House,3,Reform,Tracella Lou O'Hara Hill,41
@@ -326,9 +326,9 @@ Wilkinson,U.S. House,3,Reform,Tracella Lou O'Hara Hill,8
 Winston,U.S. House,3,Democrat,Joel L. Gill,2193
 Winston,U.S. House,3,Republican,Gregg Harper,3267
 Winston,U.S. House,3,Reform,Tracella Lou O'Hara Hill,24
-,U.S. House,3,Democrat,Joel L. Gill,60737
-,U.S. House,3,Republican,Gregg Harper,132393
-,U.S. House,3,Reform,Tracella Lou O'Hara Hill,1586
+Total,U.S. House,3,Democrat,Joel L. Gill,60737
+Total,U.S. House,3,Republican,Gregg Harper,132393
+Total,U.S. House,3,Reform,Tracella Lou O'Hara Hill,1586
 Rankin,U.S. House,3,Democrat,Joel L. Gill,4974
 Rankin,U.S. House,3,Republican,Gregg Harper,31297
 Rankin,U.S. House,3,Reform,Tracella Lou O'Hara Hill,549
@@ -443,7 +443,7 @@ Wayne,U.S. House,4,Republican,Steven Palazzo,3611
 Wayne,U.S. House,4,Democrat,Gene Taylor,3235
 Wayne,U.S. House,4,Libertarian,Kenneth 'Tim' Hampton,46
 Wayne,U.S. House,4,Reform,Anna Jewel Revies,34
-,U.S. House,4,Republican,Steven Palazzo,105613
-,U.S. House,4,Democrat,Gene Taylor,95243
-,U.S. House,4,Libertarian,Kenneth 'Tim' Hampton,1741
-,U.S. House,4,Reform,Anna Jewel Revies,787
+Total,U.S. House,4,Republican,Steven Palazzo,105613
+Total,U.S. House,4,Democrat,Gene Taylor,95243
+Total,U.S. House,4,Libertarian,Kenneth 'Tim' Hampton,1741
+Total,U.S. House,4,Reform,Anna Jewel Revies,787

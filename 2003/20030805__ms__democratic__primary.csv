@@ -3,10 +3,10 @@ Ricky A. Cummings,State House,1.0,Democrat,Alcorn,1503.0
 Brian Johnson,State House,1.0,Democrat,Alcorn,874.0
 Ricky A. Cummings,State House,1.0,Democrat,Tishomingo,3887.0
 Brian Johnson,State House,1.0,Democrat,Tishomingo,2096.0
-Brian Johnson,State House,1.0,Democrat,,2970.0
-Ricky A. Cummings,State House,1.0,Democrat,,5390.0
+Brian Johnson,State House,1.0,Democrat,Total,2970.0
+Ricky A. Cummings,State House,1.0,Democrat,Total,5390.0
 Harvey Moss,State House,2.0,Democrat,Alcorn,4905.0
-Harvey Moss,State House,2.0,Democrat,,4905.0
+Harvey Moss,State House,2.0,Democrat,Total,4905.0
 Tom Coward,State Senate,2.0,Democrat,Benton,512.0
 Ralph H. Doxey,State Senate,2.0,Democrat,Benton,2012.0
 Danny Q. Jackson,State Senate,2.0,Democrat,Benton,802.0
@@ -19,12 +19,12 @@ Tom Coward,State Senate,2.0,Democrat,Tippah,1006.0
 Ralph H. Doxey,State Senate,2.0,Democrat,Tippah,1513.0
 Danny Q. Jackson,State Senate,2.0,Democrat,Tippah,1384.0
 Lennell (Big Luke) Lucas,State Senate,2.0,Democrat,Tippah,480.0
-Danny Q. Jackson,State Senate,2.0,Democrat,,2858.0
-Lennell (Big Luke) Lucas,State Senate,2.0,Democrat,,4528.0
-Ralph H. Doxey,State Senate,2.0,Democrat,,7787.0
-Tom Coward,State Senate,2.0,Democrat,,2145.0
+Danny Q. Jackson,State Senate,2.0,Democrat,Total,2858.0
+Lennell (Big Luke) Lucas,State Senate,2.0,Democrat,Total,4528.0
+Ralph H. Doxey,State Senate,2.0,Democrat,Total,7787.0
+Tom Coward,State Senate,2.0,Democrat,Total,2145.0
 W.J. (Billy) McCoy,State House,3.0,Democrat,Alcorn,782.0
-W.J. (Billy) McCoy,State House,3.0,Democrat,,782.0
+W.J. (Billy) McCoy,State House,3.0,Democrat,Total,782.0
 Nickey Browning,State Senate,3.0,Democrat,Calhoun,753.0
 Carl Sudduth,State Senate,3.0,Democrat,Calhoun,264.0
 Tim Tucker,State Senate,3.0,Democrat,Calhoun,409.0
@@ -37,21 +37,21 @@ Nickey Browning,State Senate,3.0,Democrat,Union,5456.0
 Carl Sudduth,State Senate,3.0,Democrat,Union,1296.0
 Tim Tucker,State Senate,3.0,Democrat,Union,1013.0
 Patty Whitten Young,State Senate,3.0,Democrat,Union,542.0
-Carl Sudduth,State Senate,3.0,Democrat,,2636.0
-Nickey Browning,State Senate,3.0,Democrat,,11426.0
-Patty Whitten Young,State Senate,3.0,Democrat,,1367.0
-Tim Tucker,State Senate,3.0,Democrat,,2576.0
+Carl Sudduth,State Senate,3.0,Democrat,Total,2636.0
+Nickey Browning,State Senate,3.0,Democrat,Total,11426.0
+Patty Whitten Young,State Senate,3.0,Democrat,Total,1367.0
+Tim Tucker,State Senate,3.0,Democrat,Total,2576.0
 Steve Fisher,State House,4.0,Democrat,Benton,13.0
 Greg Ward,State House,4.0,Democrat,Benton,38.0
 Steve Fisher,State House,4.0,Democrat,Tippah,1552.0
 Greg Ward,State House,4.0,Democrat,Tippah,6921.0
 Steve Fisher,State House,4.0,Democrat,Union,197.0
 Greg Ward,State House,4.0,Democrat,Union,250.0
-Greg Ward,State House,4.0,Democrat,,7209.0
-Steve Fisher,State House,4.0,Democrat,,1762.0
+Greg Ward,State House,4.0,Democrat,Total,7209.0
+Steve Fisher,State House,4.0,Democrat,Total,1762.0
 Eric Powell,State Senate,4.0,Democrat,Alcorn,7083.0
 Eric Powell,State Senate,4.0,Democrat,Tishomingo,2715.0
-Eric Powell,State Senate,4.0,Democrat,,9798.0
+Eric Powell,State Senate,4.0,Democrat,Total,9798.0
 Samantha M. Bean-McKinnie,State House,5.0,Democrat,Benton,121.0
 Kelvin Buck,State House,5.0,Democrat,Benton,48.0
 Hoyt Johnson,State House,5.0,Democrat,Benton,114.0
@@ -60,27 +60,27 @@ Samantha M. Bean-Mckinnie,State House,5.0,Democrat,Marshall,1045.0
 Kelvin Buck,State House,5.0,Democrat,Marshall,2159.0
 Hoyt Johnson,State House,5.0,Democrat,Marshall,749.0
 Ronnie Luther,State House,5.0,Democrat,Marshall,1415.0
-Hoyt Johnson,State House,5.0,Democrat,,863.0
-Kelvin Buck,State House,5.0,Democrat,,2207.0
-Ronnie Luther,State House,5.0,Democrat,,1822.0
-Samantha M. Bean-McKinnie,State House,5.0,Democrat,,1166.0
+Hoyt Johnson,State House,5.0,Democrat,Total,863.0
+Kelvin Buck,State House,5.0,Democrat,Total,2207.0
+Ronnie Luther,State House,5.0,Democrat,Total,1822.0
+Samantha M. Bean-McKinnie,State House,5.0,Democrat,Total,1166.0
 Brad Morris,State Senate,5.0,Democrat,Itawamba,3028.0
 "J.P. Wilemon, Jr.",State Senate,5.0,Democrat,Itawamba,4247.0
 Brad Morris,State Senate,5.0,Democrat,Prentiss,2674.0
 "J.P. Wilemon, Jr.",State Senate,5.0,Democrat,Prentiss,5219.0
 Brad Morris,State Senate,5.0,Democrat,Tishomingo,586.0
 "J.P. Wilemon, Jr.",State Senate,5.0,Democrat,Tishomingo,3592.0
-Brad Morris,State Senate,5.0,Democrat,,6288.0
-"J.P. Wilemon, Jr.",State Senate,5.0,Democrat,,13058.0
+Brad Morris,State Senate,5.0,Democrat,Total,6288.0
+"J.P. Wilemon, Jr.",State Senate,5.0,Democrat,Total,13058.0
 Doyle Lambert,State Senate,6.0,Democrat,Lee,3728.0
 Sherry M. Pittman,State Senate,6.0,Democrat,Lee,4150.0
 Doyle Lambert,State Senate,6.0,Democrat,Pontotoc,303.0
 Sherry M. Pittman,State Senate,6.0,Democrat,Pontotoc,279.0
-Doyle Lambert,State Senate,6.0,Democrat,,4031.0
-Sherry M. Pittman,State Senate,6.0,Democrat,,4429.0
+Doyle Lambert,State Senate,6.0,Democrat,Total,4031.0
+Sherry M. Pittman,State Senate,6.0,Democrat,Total,4429.0
 Hob Bryan,State Senate,7.0,Democrat,Itawamba,1081.0
 Hob Bryan,State Senate,7.0,Democrat,Lee,1682.0
-Hob Bryan,State Senate,7.0,Democrat,,2763.0
+Hob Bryan,State Senate,7.0,Democrat,Total,2763.0
 Jack Gordon,State Senate,8.0,Democrat,Calhoun,1748.0
 Raymond A. Paden,State Senate,8.0,Democrat,Calhoun,1327.0
 Jack Gordon,State Senate,8.0,Democrat,Chickasaw,3518.0
@@ -89,8 +89,8 @@ Jack Gordon,State Senate,8.0,Democrat,Grenada,2138.0
 Raymond A. Paden,State Senate,8.0,Democrat,Grenada,898.0
 Jack Gordon,State Senate,8.0,Democrat,Lee,1490.0
 Raymond A. Paden,State Senate,8.0,Democrat,Lee,1339.0
-Jack Gordon,State Senate,8.0,Democrat,,8894.0
-Raymond A. Paden,State Senate,8.0,Democrat,,7093.0
+Jack Gordon,State Senate,8.0,Democrat,Total,8894.0
+Raymond A. Paden,State Senate,8.0,Democrat,Total,7093.0
 Clayton P. Henderson,State House,9.0,Democrat,Coahoma,244.0
 "Christophe Thomas, Sr.",State House,9.0,Democrat,Coahoma,123.0
 Clayton P. Henderson,State House,9.0,Democrat,Panola,285.0
@@ -101,22 +101,22 @@ Clayton P. Henderson,State House,9.0,Democrat,Tate,626.0
 "Christophe Thomas, Sr.",State House,9.0,Democrat,Tate,278.0
 Clayton P. Henderson,State House,9.0,Democrat,Tunica,2021.0
 "Christophe Thomas, Sr.",State House,9.0,Democrat,Tunica,397.0
-"Christophe Thomas, Sr.",State House,9.0,Democrat,,1456.0
-Clayton P. Henderson,State House,9.0,Democrat,,5255.0
+"Christophe Thomas, Sr.",State House,9.0,Democrat,Total,1456.0
+Clayton P. Henderson,State House,9.0,Democrat,Total,5255.0
 Gray Tollison,State Senate,9.0,Democrat,Lafayette,6503.0
-Gray Tollison,State Senate,9.0,Democrat,,6503.0
+Gray Tollison,State Senate,9.0,Democrat,Total,6503.0
 James D. (Dennis) Bullard,State House,10.0,Democrat,Lafayette,679.0
 Warner F. McBride,State House,10.0,Democrat,Lafayette,1035.0
 James D. (Dennis) Bullard,State House,10.0,Democrat,Panola,713.0
 Warner F. McBride,State House,10.0,Democrat,Panola,3382.0
 James D. (Dennis) Bullard,State House,10.0,Democrat,Tallahatchie,57.0
 Warner F. McBride,State House,10.0,Democrat,Tallahatchie,247.0
-James D. (Dennis) Bullard,State House,10.0,Democrat,,1449.0
-Warner F. McBride,State House,10.0,Democrat,,4664.0
+James D. (Dennis) Bullard,State House,10.0,Democrat,Total,1449.0
+Warner F. McBride,State House,10.0,Democrat,Total,4664.0
 Nolan Mettetal,State Senate,10.0,Democrat,Panola,7066.0
-Nolan Mettetal,State Senate,10.0,Democrat,,7066.0
+Nolan Mettetal,State Senate,10.0,Democrat,Total,7066.0
 Leonard Morris,State House,11.0,Democrat,Panola,3205.0
-Leonard Morris,State House,11.0,Democrat,,3205.0
+Leonard Morris,State House,11.0,Democrat,Total,3205.0
 Joseph R. (Joe) Dulaney,State Senate,11.0,Democrat,Coahoma,3456.0
 Robert (Bobby) Jackson,State Senate,11.0,Democrat,Coahoma,2529.0
 Boone Newton,State Senate,11.0,Democrat,Coahoma,281.0
@@ -133,42 +133,42 @@ Joseph R. (Joe) Dulaney,State Senate,11.0,Democrat,Tunica,1729.0
 Robert (Bobby) Jackson,State Senate,11.0,Democrat,Tunica,899.0
 Boone Newton,State Senate,11.0,Democrat,Tunica,71.0
 "Joe W. Phillips, Sr.",State Senate,11.0,Democrat,Tunica,72.0
-Boone Newton,State Senate,11.0,Democrat,,814.0
-"Joe W. Phillips, Sr.",State Senate,11.0,Democrat,,830.0
-Joseph R. (Joe) Dulaney,State Senate,11.0,Democrat,,7030.0
-Robert (Bobby) Jackson,State Senate,11.0,Democrat,,6130.0
+Boone Newton,State Senate,11.0,Democrat,Total,814.0
+"Joe W. Phillips, Sr.",State Senate,11.0,Democrat,Total,830.0
+Joseph R. (Joe) Dulaney,State Senate,11.0,Democrat,Total,7030.0
+Robert (Bobby) Jackson,State Senate,11.0,Democrat,Total,6130.0
 Jay Eads,State House,12.0,Democrat,Lafayette,2750.0
-Jay Eads,State House,12.0,Democrat,,2750.0
+Jay Eads,State House,12.0,Democrat,Total,2750.0
 Jack Gadd,State House,13.0,Democrat,Lafayette,1282.0
 Jack Gadd,State House,13.0,Democrat,Marshall,2281.0
 Jack Gadd,State House,13.0,Democrat,Union,329.0
-Jack Gadd,State House,13.0,Democrat,,3892.0
+Jack Gadd,State House,13.0,Democrat,Total,3892.0
 "Terrence Hurssey, Sr.",State Senate,13.0,Democrat,Humphreys,1781.0
 Willie Simmons,State Senate,13.0,Democrat,Humphreys,547.0
 "Terrence Hurssey, Sr.",State Senate,13.0,Democrat,Sunflower,2504.0
 Willie Simmons,State Senate,13.0,Democrat,Sunflower,4392.0
-"Terrence Hurssey, Sr.",State Senate,13.0,Democrat,,4285.0
-Willie Simmons,State Senate,13.0,Democrat,,4939.0
+"Terrence Hurssey, Sr.",State Senate,13.0,Democrat,Total,4285.0
+Willie Simmons,State Senate,13.0,Democrat,Total,4939.0
 Pam Denham,State House,14.0,Democrat,Pontotoc,73.0
 Randy Mitchell,State House,14.0,Democrat,Pontotoc,142.0
 Margaret Ellis Rogers,State House,14.0,Democrat,Pontotoc,70.0
 Pam Denham,State House,14.0,Democrat,Union,1824.0
 Randy Mitchell,State House,14.0,Democrat,Union,2808.0
 Margaret Ellis Rogers,State House,14.0,Democrat,Union,3134.0
-Margaret Ellis Rogers,State House,14.0,Democrat,,3204.0
-Pam Denham,State House,14.0,Democrat,,1897.0
-Randy Mitchell,State House,14.0,Democrat,,2950.0
+Margaret Ellis Rogers,State House,14.0,Democrat,Total,3204.0
+Pam Denham,State House,14.0,Democrat,Total,1897.0
+Randy Mitchell,State House,14.0,Democrat,Total,2950.0
 Mark Ivey Burton,State Senate,14.0,Democrat,Attala,3262.0
 Mark Ivey Burton,State Senate,14.0,Democrat,Grenada,2174.0
 Mark Ivey Burton,State Senate,14.0,Democrat,Leflore,477.0
-Mark Ivey Burton,State Senate,14.0,Democrat,,5913.0
+Mark Ivey Burton,State Senate,14.0,Democrat,Total,5913.0
 Keith Herring,State House,15.0,Democrat,Pontotoc,1578.0
 Pat Montgomery,State House,15.0,Democrat,Pontotoc,3919.0
 Jon David Naugher,State House,15.0,Democrat,Pontotoc,2375.0
-Jon David Naugher,State House,15.0,Democrat,,2375.0
-Keith Herring,State House,15.0,Democrat,,1578.0
-Pat Montgomery,State House,15.0,Democrat,,3919.0
-Jon David Naugher,State House,15.0,Democrat,,3737.0
+Jon David Naugher,State House,15.0,Democrat,Total,2375.0
+Keith Herring,State House,15.0,Democrat,Total,1578.0
+Pat Montgomery,State House,15.0,Democrat,Total,3919.0
+Jon David Naugher,State House,15.0,Democrat,Total,3737.0
 Gloria Liddell,State Senate,15.0,Democrat,Attala,270.0
 Cecil L. Simmons,State Senate,15.0,Democrat,Attala,506.0
 Gloria Liddell,State Senate,15.0,Democrat,Calhoun,130.0
@@ -183,39 +183,39 @@ Gloria Liddell,State Senate,15.0,Democrat,Webster,1340.0
 Cecil L. Simmons,State Senate,15.0,Democrat,Webster,2672.0
 Gloria Liddell,State Senate,15.0,Democrat,Winston,230.0
 Cecil L. Simmons,State Senate,15.0,Democrat,Winston,292.0
-Cecil L. Simmons,State Senate,15.0,Democrat,,9018.0
-Gloria Liddell,State Senate,15.0,Democrat,,4512.0
+Cecil L. Simmons,State Senate,15.0,Democrat,Total,9018.0
+Gloria Liddell,State Senate,15.0,Democrat,Total,4512.0
 Jon David Naugher,State House,16.0,Democrat,Lee,3737.0
 Bennie L. Turner,State Senate,16.0,Democrat,Clay,251.0
 Bennie L. Turner,State Senate,16.0,Democrat,Oktibbeha,2314.0
-Bennie L. Turner,State Senate,16.0,Democrat,,2565.0
+Bennie L. Turner,State Senate,16.0,Democrat,Total,2565.0
 Leon Clay,State House,17.0,Democrat,Lee,2109.0
 Kelly L. Mims,State House,17.0,Democrat,Lee,2168.0
-Kelly L. Mims,State House,17.0,Democrat,,2168.0
-Leon Clay,State House,17.0,Democrat,,2109.0
+Kelly L. Mims,State House,17.0,Democrat,Total,2168.0
+Leon Clay,State House,17.0,Democrat,Total,2109.0
 Christi Antillon-Webb,State House,18.0,Democrat,Lee,1357.0
 Scott Messer,State House,18.0,Democrat,Lee,1481.0
 Billy W. Shelton,State House,18.0,Democrat,Lee,634.0
 Christi Antillon-Webb,State House,18.0,Democrat,Prentiss,954.0
 Scott Messer,State House,18.0,Democrat,Prentiss,183.0
 Billy W. Shelton,State House,18.0,Democrat,Prentiss,227.0
-Billy W. Shelton,State House,18.0,Democrat,,861.0
-Christi Antillon-Webb,State House,18.0,Democrat,,2311.0
-Scott Messer,State House,18.0,Democrat,,1664.0
+Billy W. Shelton,State House,18.0,Democrat,Total,861.0
+Christi Antillon-Webb,State House,18.0,Democrat,Total,2311.0
+Scott Messer,State House,18.0,Democrat,Total,1664.0
 Gloria C. Williamson,State Senate,18.0,Democrat,Leake,4184.0
 Gloria C. Williamson,State Senate,18.0,Democrat,Neshoba,5947.0
 Gloria C. Williamson,State Senate,18.0,Democrat,Winston,2580.0
-Gloria C. Williamson,State Senate,18.0,Democrat,,12711.0
+Gloria C. Williamson,State Senate,18.0,Democrat,Total,12711.0
 "James R. (Jamie) Franks, Jr.",State House,19.0,Democrat,Itawamba,2060.0
 Sid Kirksey,State House,19.0,Democrat,Itawamba,1968.0
 "James R. (Jamie) Franks, Jr.",State House,19.0,Democrat,Lee,1555.0
 Sid Kirksey,State House,19.0,Democrat,Lee,771.0
 "James R. (Jamie) Franks, Jr.",State House,19.0,Democrat,Tishomingo,912.0
 Sid Kirksey,State House,19.0,Democrat,Tishomingo,608.0
-"James R. (Jamie) Franks, Jr.",State House,19.0,Democrat,,4527.0
-Sid Kirksey,State House,19.0,Democrat,,3347.0
+"James R. (Jamie) Franks, Jr.",State House,19.0,Democrat,Total,4527.0
+Sid Kirksey,State House,19.0,Democrat,Total,3347.0
 William T. (Bill) Miles,State House,21.0,Democrat,Itawamba,4211.0
-William T. (Bill) Miles,State House,21.0,Democrat,,4211.0
+William T. (Bill) Miles,State House,21.0,Democrat,Total,4211.0
 Eugene Fouche,State Senate,21.0,Democrat,Attala,315.0
 Kenneth Wayne Jones,State Senate,21.0,Democrat,Attala,417.0
 Rob Martin,State Senate,21.0,Democrat,Attala,230.0
@@ -236,11 +236,11 @@ Kenneth Wayne Jones,State Senate,21.0,Democrat,Yazoo,198.0
 Rob Martin,State Senate,21.0,Democrat,Yazoo,259.0
 Alice Julius Scott,State Senate,21.0,Democrat,Yazoo,597.0
 Joseph C. Thomas,State Senate,21.0,Democrat,Yazoo,1470.0
-Alice Julius Scott,State Senate,21.0,Democrat,,3183.0
-Eugene Fouche,State Senate,21.0,Democrat,,1790.0
-Joseph C. Thomas,State Senate,21.0,Democrat,,1942.0
-Kenneth Wayne Jones,State Senate,21.0,Democrat,,1825.0
-Rob Martin,State Senate,21.0,Democrat,,1444.0
+Alice Julius Scott,State Senate,21.0,Democrat,Total,3183.0
+Eugene Fouche,State Senate,21.0,Democrat,Total,1790.0
+Joseph C. Thomas,State Senate,21.0,Democrat,Total,1942.0
+Kenneth Wayne Jones,State Senate,21.0,Democrat,Total,1825.0
+Rob Martin,State Senate,21.0,Democrat,Total,1444.0
 James (Jay) Gore,State House,22.0,Democrat,Calhoun,397.0
 Lamon K. Griggs,State House,22.0,Democrat,Calhoun,172.0
 Donnie Wayne Sullivan,State House,22.0,Democrat,Calhoun,80.0
@@ -253,57 +253,57 @@ James (Jay) Gore,State House,22.0,Democrat,Pontotoc,129.0
 Lamon K. Griggs,State House,22.0,Democrat,Pontotoc,157.0
 Donnie Wayne Sullivan,State House,22.0,Democrat,Pontotoc,166.0
 Preston E. Sullivan,State House,22.0,Democrat,Pontotoc,129.0
-Donnie Wayne Sullivan,State House,22.0,Democrat,,1416.0
-James (Jay) Gore,State House,22.0,Democrat,,2679.0
-Lamon K. Griggs,State House,22.0,Democrat,,1948.0
-Preston E. Sullivan,State House,22.0,Democrat,,2241.0
+Donnie Wayne Sullivan,State House,22.0,Democrat,Total,1416.0
+James (Jay) Gore,State House,22.0,Democrat,Total,2679.0
+Lamon K. Griggs,State House,22.0,Democrat,Total,1948.0
+Preston E. Sullivan,State House,22.0,Democrat,Total,2241.0
 Mala U. Brooks,State Senate,22.0,Democrat,Sharkey,1458.0
 Mala U. Brooks,State Senate,22.0,Democrat,Yazoo,238.0
-Mala U. Brooks,State Senate,22.0,Democrat,,1696.0
+Mala U. Brooks,State Senate,22.0,Democrat,Total,1696.0
 "Joe T. (Joey) Grist, Jr.",State House,23.0,Democrat,Calhoun,2062.0
 Steve Whitten,State House,23.0,Democrat,Calhoun,2192.0
 "Joe T. (Joey) Grist, Jr.",State House,23.0,Democrat,Oktibbeha,301.0
 Steve Whitten,State House,23.0,Democrat,Oktibbeha,460.0
 "Joe T. (Joey) Grist, Jr.",State House,23.0,Democrat,Webster,312.0
 Steve Whitten,State House,23.0,Democrat,Webster,689.0
-"Joe T. (Joey) Grist, Jr.",State House,23.0,Democrat,,2675.0
-Steve Whitten,State House,23.0,Democrat,,3341.0
+"Joe T. (Joey) Grist, Jr.",State House,23.0,Democrat,Total,2675.0
+Steve Whitten,State House,23.0,Democrat,Total,3341.0
 Marcie Tanner Southerland,State Senate,23.0,Democrat,Issaquena,653.0
 Marcie Tanner Southerland,State Senate,23.0,Democrat,Warren,4572.0
-Marcie Tanner Southerland,State Senate,23.0,Democrat,,5225.0
+Marcie Tanner Southerland,State Senate,23.0,Democrat,Total,5225.0
 Sidney W. Bondurant,State House,24.0,Democrat,Calhoun,66.0
 Donny Ryals,State House,24.0,Democrat,Calhoun,77.0
 Sidney W. Bondurant,State House,24.0,Democrat,Grenada,2748.0
 Donny Ryals,State House,24.0,Democrat,Grenada,2342.0
 Sidney W. Bondurant,State House,24.0,Democrat,Yalobusha,564.0
 Donny Ryals,State House,24.0,Democrat,Yalobusha,563.0
-Donny Ryals,State House,24.0,Democrat,,2982.0
-Sidney W. Bondurant,State House,24.0,Democrat,,3378.0
+Donny Ryals,State House,24.0,Democrat,Total,2982.0
+Sidney W. Bondurant,State House,24.0,Democrat,Total,3378.0
 David Jordan,State Senate,24.0,Democrat,Leflore,2371.0
-David Jordan,State Senate,24.0,Democrat,,2371.0
+David Jordan,State Senate,24.0,Democrat,Total,2371.0
 John Mayo,State House,25.0,Democrat,Tunica,308.0
-John Mayo,State House,25.0,Democrat,,308.0
+John Mayo,State House,25.0,Democrat,Total,308.0
 Chuck Espy,State House,26.0,Democrat,Coahoma,3059.0
 Buster Moton,State House,26.0,Democrat,Coahoma,801.0
 Chuck Espy,State House,26.0,Democrat,Quitman,713.0
 Buster Moton,State House,26.0,Democrat,Quitman,196.0
-Buster Moton,State House,26.0,Democrat,,997.0
-Chuck Espy,State House,26.0,Democrat,,3772.0
+Buster Moton,State House,26.0,Democrat,Total,997.0
+Chuck Espy,State House,26.0,Democrat,Total,3772.0
 John Horhn,State Senate,26.0,Democrat,Hinds,7168.0
 John Horhn,State Senate,26.0,Democrat,Madison,151.0
-John Horhn,State Senate,26.0,Democrat,,7319.0
+John Horhn,State Senate,26.0,Democrat,Total,7319.0
 Ferr Smith,State House,27.0,Democrat,Attala,1877.0
 Ferr Smith,State House,27.0,Democrat,Leake,1336.0
 Ferr Smith,State House,27.0,Democrat,Madison,1034.0
-Ferr Smith,State House,27.0,Democrat,,4247.0
+Ferr Smith,State House,27.0,Democrat,Total,4247.0
 Hillman Terome Frazier,State Senate,27.0,Democrat,Hinds,6422.0
-Hillman Terome Frazier,State Senate,27.0,Democrat,,6422.0
+Hillman Terome Frazier,State Senate,27.0,Democrat,Total,6422.0
 Pam Confer,State Senate,28.0,Democrat,Hinds,1631.0
 Alice Varnado Harden,State Senate,28.0,Democrat,Hinds,4171.0
-Alice Varnado Harden,State Senate,28.0,Democrat,,4171.0
-Pam Confer,State Senate,28.0,Democrat,,1631.0
+Alice Varnado Harden,State Senate,28.0,Democrat,Total,4171.0
+Pam Confer,State Senate,28.0,Democrat,Total,1631.0
 Dewayne Thomas,State Senate,29.0,Democrat,Hinds,5595.0
-Dewayne Thomas,State Senate,29.0,Democrat,,5595.0
+Dewayne Thomas,State Senate,29.0,Democrat,Total,5595.0
 Robert E. Huddleston,State House,30.0,Democrat,Leflore,44.0
 Mark A. Morgan,State House,30.0,Democrat,Leflore,11.0
 Robert E. Huddleston,State House,30.0,Democrat,Quitman,352.0
@@ -312,26 +312,26 @@ Robert E. Huddleston,State House,30.0,Democrat,Sunflower,947.0
 Mark A. Morgan,State House,30.0,Democrat,Sunflower,733.0
 Robert E. Huddleston,State House,30.0,Democrat,Tallahatchie,1568.0
 Mark A. Morgan,State House,30.0,Democrat,Tallahatchie,675.0
-Mark A. Morgan,State House,30.0,Democrat,,1514.0
-Robert E. Huddleston,State House,30.0,Democrat,,2911.0
+Mark A. Morgan,State House,30.0,Democrat,Total,1514.0
+Robert E. Huddleston,State House,30.0,Democrat,Total,2911.0
 Jason Mangum,State Senate,31.0,Democrat,Lauderdale,326.0
 Jason Mangum,State Senate,31.0,Democrat,Scott,3412.0
-Jason Mangum,State Senate,31.0,Democrat,,3738.0
+Jason Mangum,State Senate,31.0,Democrat,Total,3738.0
 "Willie J. Perkins, Sr.",State House,32.0,Democrat,Leflore,1555.0
-"Willie J. Perkins, Sr.",State House,32.0,Democrat,,1555.0
+"Willie J. Perkins, Sr.",State House,32.0,Democrat,Total,1555.0
 "Sampson Jackson, II",State Senate,32.0,Democrat,Lauderdale,1279.0
 "Sampson Jackson, II",State Senate,32.0,Democrat,Wilson,3493.0
-"Sampson Jackson, II",State Senate,32.0,Democrat,,4772.0
+"Sampson Jackson, II",State Senate,32.0,Democrat,Total,4772.0
 Thomas U. (Tommy) Reynolds,State House,33.0,Democrat,Lafayette,602.0
 Johnny (Greene) Sayle,State House,33.0,Democrat,Lafayette,271.0
 Thomas U. (Tommy) Reynolds,State House,33.0,Democrat,Tallahatchie,2811.0
 Johnny (Greene) Sayle,State House,33.0,Democrat,Tallahatchie,664.0
 Thomas U. (Tommy) Reynolds,State House,33.0,Democrat,Yalobusha,3920.0
 Johnny (Greene) Sayle,State House,33.0,Democrat,Yalobusha,731.0
-Johnny (Greene) Sayle,State House,33.0,Democrat,,1666.0
-Thomas U. (Tommy) Reynolds,State House,33.0,Democrat,,7333.0
+Johnny (Greene) Sayle,State House,33.0,Democrat,Total,1666.0
+Thomas U. (Tommy) Reynolds,State House,33.0,Democrat,Total,7333.0
 May Whittington,State House,34.0,Democrat,Leflore,701.0
-May Whittington,State House,34.0,Democrat,,701.0
+May Whittington,State House,34.0,Democrat,Total,701.0
 Dennis R. Robinson,State Senate,34.0,Democrat,Jasper,1321.0
 Jack N. Staples,State Senate,34.0,Democrat,Jasper,1179.0
 Billy H. Thames,State Senate,34.0,Democrat,Jasper,3696.0
@@ -344,9 +344,9 @@ Billy H. Thames,State Senate,34.0,Democrat,Scott,1942.0
 Dennis R. Robinson,State Senate,34.0,Democrat,Smith,2087.0
 Jack N. Staples,State Senate,34.0,Democrat,Smith,467.0
 Billy H. Thames,State Senate,34.0,Democrat,Smith,3895.0
-Billy H. Thames,State Senate,34.0,Democrat,,10411.0
-Dennis R. Robinson,State Senate,34.0,Democrat,,5055.0
-Jack N. Staples,State Senate,34.0,Democrat,,3065.0
+Billy H. Thames,State Senate,34.0,Democrat,Total,10411.0
+Dennis R. Robinson,State Senate,34.0,Democrat,Total,5055.0
+Jack N. Staples,State Senate,34.0,Democrat,Total,3065.0
 Glenn D. Burdine,State House,35.0,Democrat,Choctaw,1321.0
 Jimmy W. (Pete) Powell,State House,35.0,Democrat,Choctaw,1141.0
 Glenn D. Burdine,State House,35.0,Democrat,Grenada,16.0
@@ -355,20 +355,20 @@ Glenn D. Burdine,State House,35.0,Democrat,Oktibbeha,513.0
 Jimmy W. (Pete) Powell,State House,35.0,Democrat,Oktibbeha,563.0
 Glenn D. Burdine,State House,35.0,Democrat,Webster,1343.0
 Jimmy W. (Pete) Powell,State House,35.0,Democrat,Webster,1637.0
-Glenn D. Burdine,State House,35.0,Democrat,,3193.0
-Jimmy W. (Pete) Powell,State House,35.0,Democrat,,3410.0
+Glenn D. Burdine,State House,35.0,Democrat,Total,3193.0
+Jimmy W. (Pete) Powell,State House,35.0,Democrat,Total,3410.0
 Daniel D. Ware,State Senate,35.0,Democrat,Copiah,805.0
 Daniel D. Ware,State Senate,35.0,Democrat,Covington,2969.0
 Daniel D. Ware,State Senate,35.0,Democrat,Rankin,811.0
-Daniel D. Ware,State Senate,35.0,Democrat,,4585.0
+Daniel D. Ware,State Senate,35.0,Democrat,Total,4585.0
 David Gibbs,State House,36.0,Democrat,Clay,160.0
 David W. Lambert,State House,36.0,Democrat,Clay,139.0
 David Gibbs,State House,36.0,Democrat,Lowndes,45.0
 David W. Lambert,State House,36.0,Democrat,Lowndes,45.0
 David Gibbs,State House,36.0,Democrat,Monroe,1442.0
 David W. Lambert,State House,36.0,Democrat,Monroe,616.0
-David Gibbs,State House,36.0,Democrat,,1647.0
-David W. Lambert,State House,36.0,Democrat,,800.0
+David Gibbs,State House,36.0,Democrat,Total,1647.0
+David W. Lambert,State House,36.0,Democrat,Total,800.0
 E. Vincent Davis,State Senate,36.0,Democrat,Claiborne,725.0
 Johnnie McDaniels,State Senate,36.0,Democrat,Claiborne,1743.0
 Lynn Posey,State Senate,36.0,Democrat,Claiborne,1037.0
@@ -381,17 +381,17 @@ Lynn Posey,State Senate,36.0,Democrat,Hinds,309.0
 E. Vincent Davis,State Senate,36.0,Democrat,Jefferson,1833.0
 Johnnie McDaniels,State Senate,36.0,Democrat,Jefferson,171.0
 Lynn Posey,State Senate,36.0,Democrat,Jefferson,1649.0
-E. Vincent Davis,State Senate,36.0,Democrat,,4809.0
-Johnnie McDaniels,State Senate,36.0,Democrat,,2867.0
-Lynn Posey,State Senate,36.0,Democrat,,7294.0
+E. Vincent Davis,State Senate,36.0,Democrat,Total,4809.0
+Johnnie McDaniels,State Senate,36.0,Democrat,Total,2867.0
+Lynn Posey,State Senate,36.0,Democrat,Total,7294.0
 Robert M. (Bob) Ford,State House,37.0,Democrat,Oktibbeha,847.0
-Robert M. (Bob) Ford,State House,37.0,Democrat,,847.0
+Robert M. (Bob) Ford,State House,37.0,Democrat,Total,847.0
 Bob M. Dearing,State Senate,37.0,Democrat,Adams,6000.0
 Bob M. Dearing,State Senate,37.0,Democrat,Amite,2366.0
 Bob M. Dearing,State Senate,37.0,Democrat,Franklin,3070.0
-Bob M. Dearing,State Senate,37.0,Democrat,,11436.0
+Bob M. Dearing,State Senate,37.0,Democrat,Total,11436.0
 Tyrone Ellis,State House,38.0,Democrat,Oktibbeha,2341.0
-Tyrone Ellis,State House,38.0,Democrat,,2341.0
+Tyrone Ellis,State House,38.0,Democrat,Total,2341.0
 Kelvin E. Butler,State Senate,38.0,Democrat,Adams,172.0
 "Robert L. Johnson, III",State Senate,38.0,Democrat,Adams,1509.0
 Kelvin E. Butler,State Senate,38.0,Democrat,Amite,1322.0
@@ -402,31 +402,31 @@ Kelvin E. Butler,State Senate,38.0,Democrat,Walthall,783.0
 "Robert L. Johnson, III",State Senate,38.0,Democrat,Walthall,599.0
 Kelvin E. Butler,State Senate,38.0,Democrat,Wilkinson,1854.0
 "Robert L. Johnson, III",State Senate,38.0,Democrat,Wilkinson,2009.0
-Kelvin E. Butler,State Senate,38.0,Democrat,,8574.0
-"Robert L. Johnson, III",State Senate,38.0,Democrat,,8363.0
+Kelvin E. Butler,State Senate,38.0,Democrat,Total,8574.0
+"Robert L. Johnson, III",State Senate,38.0,Democrat,Total,8363.0
 Cindy Hyde-Smith,State Senate,39.0,Democrat,Lawrence,4086.0
 W.L. Rayborn,State Senate,39.0,Democrat,Lawrence,1818.0
 Cindy Hyde-Smith,State Senate,39.0,Democrat,Lincoln,6472.0
 W.L. Rayborn,State Senate,39.0,Democrat,Lincoln,3893.0
 Cindy Hyde-Smith,State Senate,39.0,Democrat,Simpson,1386.0
 W.L. Rayborn,State Senate,39.0,Democrat,Simpson,588.0
-Cindy Hyde-Smith,State Senate,39.0,Democrat,,11944.0
-W.L. Rayborn,State Senate,39.0,Democrat,,6299.0
+Cindy Hyde-Smith,State Senate,39.0,Democrat,Total,11944.0
+W.L. Rayborn,State Senate,39.0,Democrat,Total,6299.0
 Ann A. Simmons,State Senate,40.0,Democrat,Marion,5651.0
 Ann A. Simmons,State Senate,40.0,Democrat,Pearl River,1406.0
 Ann A. Simmons,State Senate,40.0,Democrat,Walthall,3341.0
-Ann A. Simmons,State Senate,40.0,Democrat,,10398.0
+Ann A. Simmons,State Senate,40.0,Democrat,Total,10398.0
 Billy V. Harvey,State Senate,41.0,Democrat,Covington,2108.0
 Billy V. Harvey,State Senate,41.0,Democrat,Forrest,1593.0
 Billy V. Harvey,State Senate,41.0,Democrat,Lamar,1018.0
 Billy V. Harvey,State Senate,41.0,Democrat,Marion,1330.0
-Billy V. Harvey,State Senate,41.0,Democrat,,6049.0
+Billy V. Harvey,State Senate,41.0,Democrat,Total,6049.0
 Reecy L. Dickson,State House,42.0,Democrat,Lauderdale,143.0
-Reecy L. Dickson,State House,42.0,Democrat,,143.0
+Reecy L. Dickson,State House,42.0,Democrat,Total,143.0
 Jones Brogdon,State Senate,42.0,Democrat,Jones,5211.0
 Randy Ellzey,State Senate,42.0,Democrat,Jones,6904.0
-Jones Brogdon,State Senate,42.0,Democrat,,5211.0
-Randy Ellzey,State Senate,42.0,Democrat,,6904.0
+Jones Brogdon,State Senate,42.0,Democrat,Total,5211.0
+Randy Ellzey,State Senate,42.0,Democrat,Total,6904.0
 Douglas A. Lovorn,State House,43.0,Democrat,Kemper,181.0
 Robert J. (Bobby) Moody,State House,43.0,Democrat,Kemper,446.0
 Linda Marshall Triplett,State House,43.0,Democrat,Kemper,127.0
@@ -436,9 +436,9 @@ Linda Marshall Triplett,State House,43.0,Democrat,Noxubee,0.0
 Douglas A. Lovorn,State House,43.0,Democrat,Winston,2333.0
 Robert J. (Bobby) Moody,State House,43.0,Democrat,Winston,4403.0
 Linda Marshall Triplett,State House,43.0,Democrat,Winston,1470.0
-Douglas A. Lovorn,State House,43.0,Democrat,,2542.0
-Linda Marshall Triplett,State House,43.0,Democrat,,1597.0
-Robert J. (Bobby) Moody,State House,43.0,Democrat,,4873.0
+Douglas A. Lovorn,State House,43.0,Democrat,Total,2542.0
+Linda Marshall Triplett,State House,43.0,Democrat,Total,1597.0
+Robert J. (Bobby) Moody,State House,43.0,Democrat,Total,4873.0
 Billy Z. Gordon,State Senate,43.0,Democrat,George,2042.0
 Sherra Hillman Lane,State Senate,43.0,Democrat,George,1626.0
 James (Shannon) Walley,State Senate,43.0,Democrat,George,2263.0
@@ -451,20 +451,20 @@ James (Shannon) Walley,State Senate,43.0,Democrat,Stone,144.0
 Billy Z. Gordon,State Senate,43.0,Democrat,Wayne,1605.0
 Sherra Hillman Lane,State Senate,43.0,Democrat,Wayne,3563.0
 James (Shannon) Walley,State Senate,43.0,Democrat,Wayne,2665.0
-Billy Z. Gordon,State Senate,43.0,Democrat,,5992.0
-James (Shannon) Walley,State Senate,43.0,Democrat,,7142.0
-Sherra Hillman Lane,State Senate,43.0,Democrat,,6663.0
+Billy Z. Gordon,State Senate,43.0,Democrat,Total,5992.0
+James (Shannon) Walley,State Senate,43.0,Democrat,Total,7142.0
+Sherra Hillman Lane,State Senate,43.0,Democrat,Total,6663.0
 C. Scott Bounds,State House,44.0,Democrat,Neshoba,2881.0
 Mike Eakes,State House,44.0,Democrat,Neshoba,2542.0
 Danny R. Petty,State House,44.0,Democrat,Neshoba,410.0
-C. Scott Bounds,State House,44.0,Democrat,,2881.0
-Danny R. Petty,State House,44.0,Democrat,,410.0
-Mike Eakes,State House,44.0,Democrat,,2542.0
+C. Scott Bounds,State House,44.0,Democrat,Total,2881.0
+Danny R. Petty,State House,44.0,Democrat,Total,410.0
+Mike Eakes,State House,44.0,Democrat,Total,2542.0
 Bennett Malone,State House,45.0,Democrat,Leake,2490.0
 Bennett Malone,State House,45.0,Democrat,Neshoba,117.0
 Bennett Malone,State House,45.0,Democrat,Rankin,84.0
 Bennett Malone,State House,45.0,Democrat,Scott,707.0
-Bennett Malone,State House,45.0,Democrat,,3398.0
+Bennett Malone,State House,45.0,Democrat,Total,3398.0
 Craig F. Ducksworth,State Senate,45.0,Democrat,Forrest,840.0
 Ray T. Price,State Senate,45.0,Democrat,Forrest,1054.0
 Craig F. Ducksworth,State Senate,45.0,Democrat,Lamar,91.0
@@ -475,23 +475,23 @@ Craig F. Ducksworth,State Senate,45.0,Democrat,Perry,838.0
 Ray T. Price,State Senate,45.0,Democrat,Perry,1287.0
 Craig F. Ducksworth,State Senate,45.0,Democrat,Stone,222.0
 Ray T. Price,State Senate,45.0,Democrat,Stone,310.0
-Craig F. Ducksworth,State Senate,45.0,Democrat,,2390.0
-Ray T. Price,State Senate,45.0,Democrat,,3200.0
+Craig F. Ducksworth,State Senate,45.0,Democrat,Total,2390.0
+Ray T. Price,State Senate,45.0,Democrat,Total,3200.0
 Larry Douglas Hayward,State House,46.0,Democrat,Alcorn,252.0
 Larry Douglas Hayward,State House,46.0,Democrat,George,780.0
-Larry Douglas Hayward,State House,46.0,Democrat,,1032.0
+Larry Douglas Hayward,State House,46.0,Democrat,Total,1032.0
 Scottie R. Cuevas,State Senate,46.0,Democrat,Hancock,6386.0
-Scottie R. Cuevas,State Senate,46.0,Democrat,,6386.0
+Scottie R. Cuevas,State Senate,46.0,Democrat,Total,6386.0
 Bryant W. Clark,State House,47.0,Democrat,Attala,66.0
 Leroy J. Johnson,State House,47.0,Democrat,Attala,13.0
 Bryant W. Clark,State House,47.0,Democrat,Holmes,2631.0
 Leroy J. Johnson,State House,47.0,Democrat,Holmes,1184.0
-Bryant W. Clark,State House,47.0,Democrat,,2697.0
-Leroy J. Johnson,State House,47.0,Democrat,,1197.0
+Bryant W. Clark,State House,47.0,Democrat,Total,2697.0
+Leroy J. Johnson,State House,47.0,Democrat,Total,1197.0
 Ezell Lee,State Senate,47.0,Democrat,Jackson,2150.0
 Ezell Lee,State Senate,47.0,Democrat,Pearl River,1394.0
 Ezell Lee,State Senate,47.0,Democrat,Stone,2362.0
-Ezell Lee,State Senate,47.0,Democrat,,5906.0
+Ezell Lee,State Senate,47.0,Democrat,Total,5906.0
 Charles (Chuck) Edwards,State House,48.0,Democrat,Attala,601.0
 John Shaw,State House,48.0,Democrat,Attala,1928.0
 Mary Ann Stevens,State House,48.0,Democrat,Attala,1195.0
@@ -510,9 +510,9 @@ Mary Ann Stevens,State House,48.0,Democrat,Humphreys,125.0
 Charles (Chuck) Edwards,State House,48.0,Democrat,Leake,67.0
 John Shaw,State House,48.0,Democrat,Leake,66.0
 Mary Ann Stevens,State House,48.0,Democrat,Leake,81.0
-Charles (Chuck) Edwards,State House,48.0,Democrat,,1968.0
-John Shaw,State House,48.0,Democrat,,2252.0
-Mary Ann Stevens,State House,48.0,Democrat,,3079.0
+Charles (Chuck) Edwards,State House,48.0,Democrat,Total,1968.0
+John Shaw,State House,48.0,Democrat,Total,2252.0
+Mary Ann Stevens,State House,48.0,Democrat,Total,3079.0
 Allen Gary Farmer,State House,51.0,Democrat,Humphreys,1054.0
 Rufus E. (Pete) Straughter,State House,51.0,Democrat,Humphreys,1887.0
 Robert Williams,State House,51.0,Democrat,Humphreys,540.0
@@ -528,72 +528,72 @@ Rufus E. (Pete) Straughter,State House,51.0,Democrat,Washington,82.0
 Rufus E. (Pete) Straughter,State House,51.0,Democrat,Yazoo,419.0
 Robert Williams,State House,51.0,Democrat,Washington,82.0
 Robert Williams,State House,51.0,Democrat,Yazoo,
-Allen Gary Farmer,State House,51.0,Democrat,,1518.0
-Robert Williams,State House,51.0,Democrat,,1114.0
-Rufus E. (Pete) Straughter,State House,51.0,Democrat,,3355.0
+Allen Gary Farmer,State House,51.0,Democrat,Total,1518.0
+Robert Williams,State House,51.0,Democrat,Total,1114.0
+Rufus E. (Pete) Straughter,State House,51.0,Democrat,Total,3355.0
 Robert Hooks,State Senate,52.0,Democrat,Jackson,1535.0
-Robert Hooks,State Senate,52.0,Democrat,,1535.0
+Robert Hooks,State Senate,52.0,Democrat,Total,1535.0
 Bobby Moak,State House,53.0,Democrat,Amite,347.0
 Bobby Moak,State House,53.0,Democrat,Franklin,2015.0
 Bobby Moak,State House,53.0,Democrat,Lincoln,3111.0
-Bobby Moak,State House,53.0,Democrat,,5473.0
+Bobby Moak,State House,53.0,Democrat,Total,5473.0
 "George Flaggs, Jr.",State House,55.0,Democrat,Warren,3026.0
-"George Flaggs, Jr.",State House,55.0,Democrat,,3026.0
+"George Flaggs, Jr.",State House,55.0,Democrat,Total,3026.0
 Paige Eaves Gill,State House,56.0,Democrat,Hinds,635.0
 Paige Eaves Gill,State House,56.0,Democrat,Madison,304.0
 Paige Eaves Gill,State House,56.0,Democrat,Warren,155.0
-Paige Eaves Gill,State House,56.0,Democrat,,1094.0
+Paige Eaves Gill,State House,56.0,Democrat,Total,1094.0
 "Edward Blackmon, Jr.",State House,57.0,Democrat,Madison,2914.0
-"Edward Blackmon, Jr.",State House,57.0,Democrat,,2914.0
+"Edward Blackmon, Jr.",State House,57.0,Democrat,Total,2914.0
 "Walter L. Robinson, Jr.",State House,63.0,Democrat,Hinds,2619.0
-"Walter L. Robinson, Jr.",State House,63.0,Democrat,,2619.0
+"Walter L. Robinson, Jr.",State House,63.0,Democrat,Total,2619.0
 Christophe M. Bell,State House,65.0,Democrat,Hinds,1021.0
 Mary H. Coleman,State House,65.0,Democrat,Hinds,2787.0
 Christophe M. Bell,State House,65.0,Democrat,Madison,26.0
 Mary H. Coleman,State House,65.0,Democrat,Madison,65.0
-Christophe M. Bell,State House,65.0,Democrat,,1047.0
-Mary H. Coleman,State House,65.0,Democrat,,2852.0
+Christophe M. Bell,State House,65.0,Democrat,Total,1047.0
+Mary H. Coleman,State House,65.0,Democrat,Total,2852.0
 Cecil L. Simmons,State House,66.0,Democrat,Hinds,2083.0
 James D. (Jay) Disharoon,State House,66.0,Democrat,Hinds,87.0
 Chris Klotz,State House,66.0,Democrat,Hinds,977.0
-Cecil L. Simmons,State House,66.0,Democrat,,2083.0
-Chris Klotz,State House,66.0,Democrat,,977.0
-James D. (Jay) Disharoon,State House,66.0,Democrat,,87.0
+Cecil L. Simmons,State House,66.0,Democrat,Total,2083.0
+Chris Klotz,State House,66.0,Democrat,Total,977.0
+James D. (Jay) Disharoon,State House,66.0,Democrat,Total,87.0
 Earle S. Banks,State House,67.0,Democrat,Hinds,2449.0
-Earle S. Banks,State House,67.0,Democrat,,2449.0
+Earle S. Banks,State House,67.0,Democrat,Total,2449.0
 Credell Calhoun,State House,68.0,Democrat,Hinds,1648.0
 Tom L. Wallace,State House,68.0,Democrat,Hinds,1077.0
-Credell Calhoun,State House,68.0,Democrat,,1648.0
-Tom L. Wallace,State House,68.0,Democrat,,1077.0
+Credell Calhoun,State House,68.0,Democrat,Total,1648.0
+Tom L. Wallace,State House,68.0,Democrat,Total,1077.0
 Alyce Griffin Clarke,State House,69.0,Democrat,Hinds,2355.0
-Alyce Griffin Clarke,State House,69.0,Democrat,,2355.0
+Alyce Griffin Clarke,State House,69.0,Democrat,Total,2355.0
 James (Jim) Evans,State House,70.0,Democrat,Hinds,1688.0
-James (Jim) Evans,State House,70.0,Democrat,,1688.0
+James (Jim) Evans,State House,70.0,Democrat,Total,1688.0
 Darrell D. Dobson,State House,71.0,Democrat,Hinds,1185.0
 Darrell D. Dobson,State House,71.0,Democrat,Rankin,165.0
-Darrell D. Dobson,State House,71.0,Democrat,,1350.0
+Darrell D. Dobson,State House,71.0,Democrat,Total,1350.0
 Erik Fleming,State House,72.0,Democrat,Hinds,3456.0
 Erik Fleming,State House,72.0,Democrat,Madison,113.0
-Erik Fleming,State House,72.0,Democrat,,3569.0
+Erik Fleming,State House,72.0,Democrat,Total,3569.0
 Jay M. Loftin,State House,73.0,Democrat,Hinds,2231.0
-Jay M. Loftin,State House,73.0,Democrat,,2231.0
+Jay M. Loftin,State House,73.0,Democrat,Total,2231.0
 Tracy Arinder,State House,75.0,Democrat,Scott,2320.0
 Tom Miles,State House,75.0,Democrat,Scott,2079.0
 Henry D. Minor,State House,75.0,Democrat,Scott,895.0
 "L.G. (Greg) Sessums, II",State House,75.0,Democrat,Scott,957.0
-Henry D. Minor,State House,75.0,Democrat,,895.0
-"L.G. (Greg) Sessums, II",State House,75.0,Democrat,,957.0
-Tom Miles,State House,75.0,Democrat,,2079.0
-Tracy Arinder,State House,75.0,Democrat,,2320.0
+Henry D. Minor,State House,75.0,Democrat,Total,895.0
+"L.G. (Greg) Sessums, II",State House,75.0,Democrat,Total,957.0
+Tom Miles,State House,75.0,Democrat,Total,2079.0
+Tracy Arinder,State House,75.0,Democrat,Total,2320.0
 "Greg Holloway, Sr.",State House,76.0,Democrat,Claiborne,549.0
 "Greg Holloway, Sr.",State House,76.0,Democrat,Copiah,4847.0
 "Greg Holloway, Sr.",State House,76.0,Democrat,Hinds,224.0
-"Greg Holloway, Sr.",State House,76.0,Democrat,,5620.0
+"Greg Holloway, Sr.",State House,76.0,Democrat,Total,5620.0
 Dale Berry,State House,77.0,Democrat,Rankin,21.0
-Dale Berry,State House,77.0,Democrat,,21.0
+Dale Berry,State House,77.0,Democrat,Total,21.0
 Billy R. Nicholson,State House,78.0,Democrat,Neshoba,926.0
 Billy R. Nicholson,State House,78.0,Democrat,Scott,540.0
-Billy R. Nicholson,State House,78.0,Democrat,,1466.0
+Billy R. Nicholson,State House,78.0,Democrat,Total,1466.0
 Blaine (Bo) Eaton,State House,79.0,Democrat,Covington,840.0
 Larry F. Gibson,State House,79.0,Democrat,Covington,169.0
 "Jimmy L. Lofton, Sr.",State House,79.0,Democrat,Covington,91.0
@@ -603,22 +603,22 @@ Larry F. Gibson,State House,79.0,Democrat,Jones,301.0
 Blaine (Bo) Eaton,State House,79.0,Democrat,Smith,2885.0
 Larry F. Gibson,State House,79.0,Democrat,Smith,2218.0
 "Jimmy L. Lofton, Sr.",State House,79.0,Democrat,Smith,784.0
-Blaine (Bo) Eaton,State House,79.0,Democrat,,4741.0
-"Jimmy L. Lofton, Sr.",State House,79.0,Democrat,,1010.0
-Larry F. Gibson,State House,79.0,Democrat,,2688.0
+Blaine (Bo) Eaton,State House,79.0,Democrat,Total,4741.0
+"Jimmy L. Lofton, Sr.",State House,79.0,Democrat,Total,1010.0
+Larry F. Gibson,State House,79.0,Democrat,Total,2688.0
 Omeria McDonald Scott,State House,80.0,Democrat,Clarke,538.0
 Larry Eugene Thomas,State House,80.0,Democrat,Clarke,400.0
 Omeria McDonald Scott,State House,80.0,Democrat,Jasper,886.0
 Larry Eugene Thomas,State House,80.0,Democrat,Jasper,520.0
 Omeria McDonald Scott,State House,80.0,Democrat,Jones,1339.0
 Larry Eugene Thomas,State House,80.0,Democrat,Jones,1656.0
-Larry Eugene Thomas,State House,80.0,Democrat,,2576.0
-Omeria McDonald Scott,State House,80.0,Democrat,,2763.0
+Larry Eugene Thomas,State House,80.0,Democrat,Total,2576.0
+Omeria McDonald Scott,State House,80.0,Democrat,Total,2763.0
 "Charles L. Young, Sr.",State House,82.0,Democrat,Lauderdale,1315.0
-"Charles L. Young, Sr.",State House,82.0,Democrat,,1315.0
+"Charles L. Young, Sr.",State House,82.0,Democrat,Total,1315.0
 Donald Price,State House,83.0,Democrat,Clarke,647.0
 Donald Price,State House,83.0,Democrat,Lauderdale,658.0
-Donald Price,State House,83.0,Democrat,,1305.0
+Donald Price,State House,83.0,Democrat,Total,1305.0
 "Arnold E. Clark, Jr.",State House,85.0,Democrat,Adams,335.0
 Walter Huston,State House,85.0,Democrat,Adams,196.0
 America (Chuck) Middleton,State House,85.0,Democrat,Adams,474.0
@@ -634,9 +634,9 @@ America (Chuck) Middleton,State House,85.0,Democrat,Jefferson,1595.0
 "Arnold E. Clark, Jr.",State House,85.0,Democrat,Warren,62.0
 Walter Huston,State House,85.0,Democrat,Warren,16.0
 America (Chuck) Middleton,State House,85.0,Democrat,Warren,32.0
-America (Chuck) Middleton,State House,85.0,Democrat,,4091.0
-"Arnold E. Clark, Jr.",State House,85.0,Democrat,,1892.0
-Walter Huston,State House,85.0,Democrat,,995.0
+America (Chuck) Middleton,State House,85.0,Democrat,Total,4091.0
+"Arnold E. Clark, Jr.",State House,85.0,Democrat,Total,1892.0
+Walter Huston,State House,85.0,Democrat,Total,995.0
 Samuel F. (Sam) Britton,State House,86.0,Democrat,Clarke,25.0
 Tom Kittrell,State House,86.0,Democrat,Clarke,39.0
 Joe Taylor,State House,86.0,Democrat,Clarke,87.0
@@ -646,21 +646,21 @@ Joe Taylor,State House,86.0,Democrat,Perry,538.0
 Samuel F. (Sam) Britton,State House,86.0,Democrat,Wayne,1999.0
 Tom Kittrell,State House,86.0,Democrat,Wayne,1777.0
 Joe Taylor,State House,86.0,Democrat,Wayne,3956.0
-Joe Taylor,State House,86.0,Democrat,,4581.0
-Samuel F. (Sam) Britton,State House,86.0,Democrat,,2075.0
-Tom Kittrell,State House,86.0,Democrat,,2101.0
+Joe Taylor,State House,86.0,Democrat,Total,4581.0
+Samuel F. (Sam) Britton,State House,86.0,Democrat,Total,2075.0
+Tom Kittrell,State House,86.0,Democrat,Total,2101.0
 Johnny W. Stringer,State House,87.0,Democrat,Jasper,4389.0
 Johnny W. Stringer,State House,87.0,Democrat,Jones,588.0
-Johnny W. Stringer,State House,87.0,Democrat,,4977.0
+Johnny W. Stringer,State House,87.0,Democrat,Total,4977.0
 Joe Ellzey,State House,88.0,Democrat,Jones,4499.0
 Joe Ellzey,State House,88.0,Democrat,Perry,762.0
-Joe Ellzey,State House,88.0,Democrat,,5261.0
+Joe Ellzey,State House,88.0,Democrat,Total,5261.0
 Bobby Shows,State House,89.0,Democrat,Jones,4452.0
-Bobby Shows,State House,89.0,Democrat,,4452.0
+Bobby Shows,State House,89.0,Democrat,Total,4452.0
 Joe (J.L.) Warren,State House,90.0,Democrat,Covington,4089.0
 Joe (J.L.) Warren,State House,90.0,Democrat,Forrest,100.0
 Joe (J.L.) Warren,State House,90.0,Democrat,Marion,40.0
-Joe (J.L.) Warren,State House,90.0,Democrat,,4229.0
+Joe (J.L.) Warren,State House,90.0,Democrat,Total,4229.0
 Antrease Magee Autman,State House,91.0,Democrat,Copiah,71.0
 Joey E. Hudson,State House,91.0,Democrat,Copiah,144.0
 Antrease Magee Autman,State House,91.0,Democrat,Covington,63.0
@@ -671,28 +671,28 @@ Antrease Magee Autman,State House,91.0,Democrat,Lawrence,1883.0
 Joey E. Hudson,State House,91.0,Democrat,Lawrence,2502.0
 Antrease Magee Autman,State House,91.0,Democrat,Simpson,279.0
 Joey E. Hudson,State House,91.0,Democrat,Simpson,280.0
-Antrease Magee Autman,State House,91.0,Democrat,,3686.0
-Joey E. Hudson,State House,91.0,Democrat,,4515.0
+Antrease Magee Autman,State House,91.0,Democrat,Total,3686.0
+Joey E. Hudson,State House,91.0,Democrat,Total,4515.0
 F. C. (Buddy) Turpin,State House,92.0,Democrat,Copiah,145.0
 F. C. (Buddy) Turpin,State House,92.0,Democrat,Franklin,783.0
 F. C. (Buddy) Turpin,State House,92.0,Democrat,Lincoln,5525.0
-F. C. (Buddy) Turpin,State House,92.0,Democrat,,6453.0
+F. C. (Buddy) Turpin,State House,92.0,Democrat,Total,6453.0
 Dirk D. Dedeaux,State House,93.0,Democrat,Forrest,37.0
 Dirk D. Dedeaux,State House,93.0,Democrat,Hancock,2463.0
 Dirk D. Dedeaux,State House,93.0,Democrat,Lamar,362.0
 Dirk D. Dedeaux,State House,93.0,Democrat,Pearl River,175.0
 Dirk D. Dedeaux,State House,93.0,Democrat,Stone,1435.0
-Dirk D. Dedeaux,State House,93.0,Democrat,,4472.0
+Dirk D. Dedeaux,State House,93.0,Democrat,Total,4472.0
 Philip (Bucket) West,State House,94.0,Democrat,Adams,4275.0
 Philip (Bucket) West,State House,94.0,Democrat,Claiborne,18.0
 Philip (Bucket) West,State House,94.0,Democrat,Jefferson,295.0
-Philip (Bucket) West,State House,94.0,Democrat,,4588.0
+Philip (Bucket) West,State House,94.0,Democrat,Total,4588.0
 Linda Johnson,State House,95.0,Democrat,Hancock,473.0
-Linda Johnson,State House,95.0,Democrat,,473.0
+Linda Johnson,State House,95.0,Democrat,Total,473.0
 David L. Green,State House,96.0,Democrat,Adams,564.0
 David L. Green,State House,96.0,Democrat,Amite,2976.0
 David L. Green,State House,96.0,Democrat,Wilkinson,3175.0
-David L. Green,State House,96.0,Democrat,,6715.0
+David L. Green,State House,96.0,Democrat,Total,6715.0
 Derrick Dahl,State House,97.0,Democrat,Adams,991.0
 Chad L. Toney,State House,97.0,Democrat,Adams,367.0
 Derrick Dahl,State House,97.0,Democrat,Amite,765.0
@@ -705,8 +705,8 @@ Derrick Dahl,State House,97.0,Democrat,Pike,1859.0
 Chad L. Toney,State House,97.0,Democrat,Pike,1214.0
 Derrick Dahl,State House,97.0,Democrat,Walthall,149.0
 Chad L. Toney,State House,97.0,Democrat,Walthall,185.0
-Chad L. Toney,State House,97.0,Democrat,,2596.0
-Derrick Dahl,State House,97.0,Democrat,,3999.0
+Chad L. Toney,State House,97.0,Democrat,Total,2596.0
+Derrick Dahl,State House,97.0,Democrat,Total,3999.0
 William R. Brown,State House,98.0,Democrat,Pike,1269.0
 James Hall,State House,98.0,Democrat,Pike,1032.0
 David W. Myers,State House,98.0,Democrat,Pike,3321.0
@@ -715,10 +715,10 @@ William R. Brown,State House,98.0,Democrat,Walthall,110.0
 James Hall,State House,98.0,Democrat,Walthall,184.0
 David W. Myers,State House,98.0,Democrat,Walthall,191.0
 Larry L. Singleton,State House,98.0,Democrat,Walthall,85.0
-David W. Myers,State House,98.0,Democrat,,3512.0
-James Hall,State House,98.0,Democrat,,1216.0
-Larry L. Singleton,State House,98.0,Democrat,,653.0
-William R. Brown,State House,98.0,Democrat,,1379.0
+David W. Myers,State House,98.0,Democrat,Total,3512.0
+James Hall,State House,98.0,Democrat,Total,1216.0
+Larry L. Singleton,State House,98.0,Democrat,Total,653.0
+William R. Brown,State House,98.0,Democrat,Total,1379.0
 Bill Pigott,State House,99.0,Democrat,Lamar,126.0
 Zack Rushing,State House,99.0,Democrat,Lamar,118.0
 Robert E. Vince,State House,99.0,Democrat,Lamar,115.0
@@ -731,20 +731,20 @@ Robert E. Vince,State House,99.0,Democrat,Pike,150.0
 Bill Pigott,State House,99.0,Democrat,Walthall,1317.0
 Zack Rushing,State House,99.0,Democrat,Walthall,1696.0
 Robert E. Vince,State House,99.0,Democrat,Walthall,1880.0
-Bill Pigott,State House,99.0,Democrat,,2431.0
-Robert E. Vince,State House,99.0,Democrat,,3634.0
-Zack Rushing,State House,99.0,Democrat,,2948.0
+Bill Pigott,State House,99.0,Democrat,Total,2431.0
+Robert E. Vince,State House,99.0,Democrat,Total,3634.0
+Zack Rushing,State House,99.0,Democrat,Total,2948.0
 O.K. Kenny Moore,State House,100.0,Democrat,Lamar,185.0
 Ken Morgan,State House,100.0,Democrat,Lamar,309.0
 O.K. Kenny Moore,State House,100.0,Democrat,Marion,2454.0
 Ken Morgan,State House,100.0,Democrat,Marion,2745.0
-Ken Morgan,State House,100.0,Democrat,,3054.0
-O.K. Kenny Moore,State House,100.0,Democrat,,2639.0
+Ken Morgan,State House,100.0,Democrat,Total,3054.0
+O.K. Kenny Moore,State House,100.0,Democrat,Total,2639.0
 Rick James,State House,102.0,Democrat,Forrest,945.0
 Rick James,State House,102.0,Democrat,Lamar,37.0
-Rick James,State House,102.0,Democrat,,982.0
+Rick James,State House,102.0,Democrat,Total,982.0
 Percy Watson,State House,103.0,Democrat,Forrest,2641.0
-Percy Watson,State House,103.0,Democrat,,2641.0
+Percy Watson,State House,103.0,Democrat,Total,2641.0
 Randy (Bubba) Pierce,State House,105.0,Democrat,Forrest,29.0
 Sue Turner,State House,105.0,Democrat,Forrest,14.0
 Randy (Bubba) Pierce,State House,105.0,Democrat,George,384.0
@@ -755,14 +755,14 @@ Randy (Bubba) Pierce,State House,105.0,Democrat,Perry,1863.0
 Sue Turner,State House,105.0,Democrat,Perry,397.0
 Randy (Bubba) Pierce,State House,105.0,Democrat,Wayne,289.0
 Sue Turner,State House,105.0,Democrat,Wayne,123.0
-Randy (Bubba) Pierce,State House,105.0,Democrat,,7186.0
-Sue Turner,State House,105.0,Democrat,,1179.0
+Randy (Bubba) Pierce,State House,105.0,Democrat,Total,7186.0
+Sue Turner,State House,105.0,Democrat,Total,1179.0
 Jesse E. Dedeaux,State House,106.0,Democrat,Lamar,47.0
 Sherry Morris,State House,106.0,Democrat,Lamar,32.0
 Jesse E. Dedeaux,State House,106.0,Democrat,Pearl River,885.0
 Sherry Morris,State House,106.0,Democrat,Pearl River,1646.0
-Jesse E. Dedeaux,State House,106.0,Democrat,,932.0
-Sherry Morris,State House,106.0,Democrat,,1678.0
+Jesse E. Dedeaux,State House,106.0,Democrat,Total,932.0
+Sherry Morris,State House,106.0,Democrat,Total,1678.0
 Jimmy Howell,State House,107.0,Democrat,Forrest,23.0
 Mike Howell,State House,107.0,Democrat,Forrest,11.0
 Doug Lee,State House,107.0,Democrat,Forrest,25.0
@@ -787,24 +787,24 @@ Doug Lee,State House,107.0,Democrat,Stone,501.0
 Deryk R. Parker,State House,107.0,Democrat,Stone,717.0
 Greg Reeves,State House,107.0,Democrat,Stone,214.0
 Nolan (Dink) Walker,State House,107.0,Democrat,Stone,841.0
-Deryk R. Parker,State House,107.0,Democrat,,2485.0
-Doug Lee,State House,107.0,Democrat,,1892.0
-Greg Reeves,State House,107.0,Democrat,,705.0
-Jimmy Howell,State House,107.0,Democrat,,628.0
-Mike Howell,State House,107.0,Democrat,,476.0
-Nolan (Dink) Walker,State House,107.0,Democrat,,1225.0
+Deryk R. Parker,State House,107.0,Democrat,Total,2485.0
+Doug Lee,State House,107.0,Democrat,Total,1892.0
+Greg Reeves,State House,107.0,Democrat,Total,705.0
+Jimmy Howell,State House,107.0,Democrat,Total,628.0
+Mike Howell,State House,107.0,Democrat,Total,476.0
+Nolan (Dink) Walker,State House,107.0,Democrat,Total,1225.0
 Billy Broomfield,State House,110.0,Democrat,Jackson,1730.0
 Mitch Ellerby,State House,110.0,Democrat,Jackson,970.0
-Billy Broomfield,State House,110.0,Democrat,,1730.0
-Mitch Ellerby,State House,110.0,Democrat,,970.0
+Billy Broomfield,State House,110.0,Democrat,Total,1730.0
+Mitch Ellerby,State House,110.0,Democrat,Total,970.0
 Jamie Creel,State House,115.0,Democrat,Harrison,459.0
 Glenn Edwin Endris,State House,115.0,Democrat,Harrison,206.0
 Randall Patterson,State House,115.0,Democrat,Harrison,983.0
-Glenn Edwin Endris,State House,115.0,Democrat,,206.0
-Jamie Creel,State House,115.0,Democrat,,459.0
-Randall Patterson,State House,115.0,Democrat,,983.0
+Glenn Edwin Endris,State House,115.0,Democrat,Total,206.0
+Jamie Creel,State House,115.0,Democrat,Total,459.0
+Randall Patterson,State House,115.0,Democrat,Total,983.0
 J.P. Compretta,State House,122.0,Democrat,Hancock,3606.0
-J.P. Compretta,State House,122.0,Democrat,,3606.0
+J.P. Compretta,State House,122.0,Democrat,Total,3606.0
 Lester Spell,Agriculture and Commerce Commerce Comissioner,,Democrat,Adams,6902.0
 Lester Spell,Agriculture and Commerce Commerce Comissioner,,Democrat,Alcorn,7105.0
 Lester Spell,Agriculture and Commerce Commerce Comissioner,,Democrat,Amite,4293.0
@@ -887,7 +887,7 @@ Lester Spell,Agriculture and Commerce Commerce Comissioner,,Democrat,Wilkinson,2
 Lester Spell,Agriculture and Commerce Commerce Comissioner,,Democrat,Winston,6822.0
 Lester Spell,Agriculture and Commerce Commerce Comissioner,,Democrat,Yalobusha,
 Lester Spell,Agriculture and Commerce Commerce Comissioner,,Democrat,Yazoo,
-Lester Spell,Agriculture and Commerce Commerce Comissioner,,Democrat,,308585.0
+Lester Spell,Agriculture and Commerce Commerce Comissioner,,Democrat,Total,308585.0
 Jim Hood,Attorney General,,Democrat,Adams,6667.0
 Jim Hood,Attorney General,,Democrat,Alcorn,6907.0
 Jim Hood,Attorney General,,Democrat,Amite,4153.0
@@ -970,7 +970,7 @@ Jim Hood,Attorney General,,Democrat,Wilkinson,2923.0
 Jim Hood,Attorney General,,Democrat,Winston,6736.0
 Jim Hood,Attorney General,,Democrat,Yalobusha,
 Jim Hood,Attorney General,,Democrat,Yazoo,
-Jim Hood,Attorney General,,Democrat,,302038.0
+Jim Hood,Attorney General,,Democrat,Total,302038.0
 Gilbert Fountain,Governor,,Democrat,Adams,427.0
 Elder E. McClendon,Governor,,Democrat,Adams,320.0
 Ronnie Musgrove,Governor,,Democrat,Adams,7501.0
@@ -1381,11 +1381,11 @@ Elder E. McClendon,Governor,,Democrat,Yazoo,242.0
 Ronnie Musgrove,Governor,,Democrat,Yazoo,2869.0
 Katie Perrone,Governor,,Democrat,Yazoo,170.0
 Catherine M. Starr,Governor,,Democrat,Yazoo,250.0
-Catherine M. Starr,Governor,,Democrat,,26821.0
-Elder E. McClendon,Governor,,Democrat,,30421.0
-Gilbert Fountain,Governor,,Democrat,,39685.0
-Katie Perrone,Governor,,Democrat,,28154.0
-Ronnie Musgrove,Governor,,Democrat,,392264.0
+Catherine M. Starr,Governor,,Democrat,Total,26821.0
+Elder E. McClendon,Governor,,Democrat,Total,30421.0
+Gilbert Fountain,Governor,,Democrat,Total,39685.0
+Katie Perrone,Governor,,Democrat,Total,28154.0
+Ronnie Musgrove,Governor,,Democrat,Total,392264.0
 George Dale,Insurance Commissioner,,Democrat,Adams,6999.0
 George Dale,Insurance Commissioner,,Democrat,Alcorn,7234.0
 George Dale,Insurance Commissioner,,Democrat,Amite,4348.0
@@ -1468,7 +1468,7 @@ George Dale,Insurance Commissioner,,Democrat,Wilkinson,2969.0
 George Dale,Insurance Commissioner,,Democrat,Winston,7000.0
 George Dale,Insurance Commissioner,,Democrat,Yalobusha,
 George Dale,Insurance Commissioner,,Democrat,Yazoo,
-George Dale,Insurance Commissioner,,Democrat,,310847.0
+George Dale,Insurance Commissioner,,Democrat,Total,310847.0
 Barbara Blackmon,Lieutenant Governor,,Democrat,Adams,5886.0
 "Troy D. Brown, Sr.",Lieutenant Governor,,Democrat,Adams,965.0
 Jim Roberts,Lieutenant Governor,,Democrat,Adams,1903.0
@@ -1715,9 +1715,9 @@ Jim Roberts,Lieutenant Governor,,Democrat,Yalobusha,2167.0
 Barbara Blackmon,Lieutenant Governor,,Democrat,Yazoo,2553.0
 "Troy D. Brown, Sr.",Lieutenant Governor,,Democrat,Yazoo,179.0
 Jim Roberts,Lieutenant Governor,,Democrat,Yazoo,1391.0
-Barbara Blackmon,Lieutenant Governor,,Democrat,,283177.0
-Jim Roberts,Lieutenant Governor,,Democrat,,194204.0
-"Troy D. Brown, Sr.",Lieutenant Governor,,Democrat,,49515.0
+Barbara Blackmon,Lieutenant Governor,,Democrat,Total,283177.0
+Jim Roberts,Lieutenant Governor,,Democrat,Total,194204.0
+"Troy D. Brown, Sr.",Lieutenant Governor,,Democrat,Total,49515.0
 Eric Clark,Secretary of State,,Democrat,Adams,7033.0
 Eric Clark,Secretary of State,,Democrat,Alcorn,6968.0
 Eric Clark,Secretary of State,,Democrat,Amite,4300.0
@@ -1800,7 +1800,7 @@ Eric Clark,Secretary of State,,Democrat,Wilkinson,3053.0
 Eric Clark,Secretary of State,,Democrat,Winston,6981.0
 Eric Clark,Secretary of State,,Democrat,Yalobusha,
 Eric Clark,Secretary of State,,Democrat,Yazoo,
-Eric Clark,Secretary of State,,Democrat,,316126.0
+Eric Clark,Secretary of State,,Democrat,Total,316126.0
 Gary Anderson,State Treasurer,,Democrat,Adams,2656.0
 Cindy Ayers Elliott,State Treasurer,,Democrat,Adams,2447.0
 Robert H. 'Rob' Smith,State Treasurer,,Democrat,Adams,2489.0
@@ -2047,6 +2047,6 @@ Robert H. 'Rob' Smith,State Treasurer,,Democrat,Yalobusha,1884.0
 Gary Anderson,State Treasurer,,Democrat,Yazoo,1454.0
 Cindy Ayers Elliott,State Treasurer,,Democrat,Yazoo,708.0
 Robert H. 'Rob' Smith,State Treasurer,,Democrat,Yazoo,1441.0
-Cindy Ayers Elliott,State Treasurer,,Democrat,,121468.0
-Gary Anderson,State Treasurer,,Democrat,,197320.0
-Robert H. 'Rob' Smith,State Treasurer,,Democrat,,173866.0
+Cindy Ayers Elliott,State Treasurer,,Democrat,Total,121468.0
+Gary Anderson,State Treasurer,,Democrat,Total,197320.0
+Robert H. 'Rob' Smith,State Treasurer,,Democrat,Total,173866.0
