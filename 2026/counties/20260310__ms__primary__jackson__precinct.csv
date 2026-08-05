@@ -1,125 +1,311 @@
 county,precinct,office,district,candidate,party,votes
+Jackson,Big Point,U.S. House,4,D. Ryan Grover,DEM,2
+Jackson,Big Point,U.S. House,4,Jeffrey Hulum III,DEM,9
+Jackson,Big Point,U.S. House,4,Paul James Blackman,DEM,3
 Jackson,Big Point,U.S. House,4,Mike Ezell,REP,275
 Jackson,Big Point,U.S. House,4,Sawyer Walters,REP,30
+Jackson,Big Point,U.S. Senate,,Albert R. Littell,DEM,4
+Jackson,Big Point,U.S. Senate,,Priscilla W. Till,DEM,2
+Jackson,Big Point,U.S. Senate,,Scott Colom,DEM,8
 Jackson,Big Point,U.S. Senate,,Cindy Hyde-Smith,REP,229
 Jackson,Big Point,U.S. Senate,,Sarah Adlakha,REP,75
+Jackson,Carterville,U.S. House,4,D. Ryan Grover,DEM,0
+Jackson,Carterville,U.S. House,4,Jeffrey Hulum III,DEM,0
+Jackson,Carterville,U.S. House,4,Paul James Blackman,DEM,1
 Jackson,Carterville,U.S. House,4,Mike Ezell,REP,93
 Jackson,Carterville,U.S. House,4,Sawyer Walters,REP,7
+Jackson,Carterville,U.S. Senate,,Albert R. Littell,DEM,0
+Jackson,Carterville,U.S. Senate,,Priscilla W. Till,DEM,0
+Jackson,Carterville,U.S. Senate,,Scott Colom,DEM,1
 Jackson,Carterville,U.S. Senate,,Cindy Hyde-Smith,REP,76
 Jackson,Carterville,U.S. Senate,,Sarah Adlakha,REP,24
+Jackson,East Central,U.S. House,4,D. Ryan Grover,DEM,19
+Jackson,East Central,U.S. House,4,Jeffrey Hulum III,DEM,29
+Jackson,East Central,U.S. House,4,Paul James Blackman,DEM,11
 Jackson,East Central,U.S. House,4,Mike Ezell,REP,771
 Jackson,East Central,U.S. House,4,Sawyer Walters,REP,57
+Jackson,East Central,U.S. Senate,,Albert R. Littell,DEM,5
+Jackson,East Central,U.S. Senate,,Priscilla W. Till,DEM,22
+Jackson,East Central,U.S. Senate,,Scott Colom,DEM,32
 Jackson,East Central,U.S. Senate,,Cindy Hyde-Smith,REP,653
 Jackson,East Central,U.S. Senate,,Sarah Adlakha,REP,171
+Jackson,Eastlawn,U.S. House,4,D. Ryan Grover,DEM,12
+Jackson,Eastlawn,U.S. House,4,Jeffrey Hulum III,DEM,29
+Jackson,Eastlawn,U.S. House,4,Paul James Blackman,DEM,23
 Jackson,Eastlawn,U.S. House,4,Mike Ezell,REP,342
 Jackson,Eastlawn,U.S. House,4,Sawyer Walters,REP,36
+Jackson,Eastlawn,U.S. Senate,,Albert R. Littell,DEM,7
+Jackson,Eastlawn,U.S. Senate,,Priscilla W. Till,DEM,18
+Jackson,Eastlawn,U.S. Senate,,Scott Colom,DEM,39
 Jackson,Eastlawn,U.S. Senate,,Cindy Hyde-Smith,REP,284
 Jackson,Eastlawn,U.S. Senate,,Sarah Adlakha,REP,93
+Jackson,Escatawpa,U.S. House,4,D. Ryan Grover,DEM,13
+Jackson,Escatawpa,U.S. House,4,Jeffrey Hulum III,DEM,75
+Jackson,Escatawpa,U.S. House,4,Paul James Blackman,DEM,40
 Jackson,Escatawpa,U.S. House,4,Mike Ezell,REP,304
 Jackson,Escatawpa,U.S. House,4,Sawyer Walters,REP,42
+Jackson,Escatawpa,U.S. Senate,,Albert R. Littell,DEM,13
+Jackson,Escatawpa,U.S. Senate,,Priscilla W. Till,DEM,26
+Jackson,Escatawpa,U.S. Senate,,Scott Colom,DEM,88
 Jackson,Escatawpa,U.S. Senate,,Cindy Hyde-Smith,REP,262
 Jackson,Escatawpa,U.S. Senate,,Sarah Adlakha,REP,86
+Jackson,Fair,U.S. House,4,D. Ryan Grover,DEM,42
+Jackson,Fair,U.S. House,4,Jeffrey Hulum III,DEM,149
+Jackson,Fair,U.S. House,4,Paul James Blackman,DEM,105
 Jackson,Fair,U.S. House,4,Mike Ezell,REP,160
 Jackson,Fair,U.S. House,4,Sawyer Walters,REP,19
+Jackson,Fair,U.S. Senate,,Albert R. Littell,DEM,36
+Jackson,Fair,U.S. Senate,,Priscilla W. Till,DEM,62
+Jackson,Fair,U.S. Senate,,Scott Colom,DEM,195
 Jackson,Fair,U.S. Senate,,Cindy Hyde-Smith,REP,116
 Jackson,Fair,U.S. Senate,,Sarah Adlakha,REP,61
+Jackson,Fontainebleau,U.S. House,4,D. Ryan Grover,DEM,38
+Jackson,Fontainebleau,U.S. House,4,Jeffrey Hulum III,DEM,101
+Jackson,Fontainebleau,U.S. House,4,Paul James Blackman,DEM,58
 Jackson,Fontainebleau,U.S. House,4,Mike Ezell,REP,393
 Jackson,Fontainebleau,U.S. House,4,Sawyer Walters,REP,91
+Jackson,Fontainebleau,U.S. Senate,,Albert R. Littell,DEM,21
+Jackson,Fontainebleau,U.S. Senate,,Priscilla W. Till,DEM,49
+Jackson,Fontainebleau,U.S. Senate,,Scott Colom,DEM,127
 Jackson,Fontainebleau,U.S. Senate,,Cindy Hyde-Smith,REP,300
 Jackson,Fontainebleau,U.S. Senate,,Sarah Adlakha,REP,183
+Jackson,Gautier North,U.S. House,4,D. Ryan Grover,DEM,13
+Jackson,Gautier North,U.S. House,4,Jeffrey Hulum III,DEM,76
+Jackson,Gautier North,U.S. House,4,Paul James Blackman,DEM,38
 Jackson,Gautier North,U.S. House,4,Mike Ezell,REP,248
 Jackson,Gautier North,U.S. House,4,Sawyer Walters,REP,42
+Jackson,Gautier North,U.S. Senate,,Albert R. Littell,DEM,15
+Jackson,Gautier North,U.S. Senate,,Priscilla W. Till,DEM,33
+Jackson,Gautier North,U.S. Senate,,Scott Colom,DEM,78
 Jackson,Gautier North,U.S. Senate,,Cindy Hyde-Smith,REP,205
 Jackson,Gautier North,U.S. Senate,,Sarah Adlakha,REP,86
+Jackson,Gautier South,U.S. House,4,D. Ryan Grover,DEM,33
+Jackson,Gautier South,U.S. House,4,Jeffrey Hulum III,DEM,126
+Jackson,Gautier South,U.S. House,4,Paul James Blackman,DEM,83
 Jackson,Gautier South,U.S. House,4,Mike Ezell,REP,326
 Jackson,Gautier South,U.S. House,4,Sawyer Walters,REP,73
+Jackson,Gautier South,U.S. Senate,,Albert R. Littell,DEM,31
+Jackson,Gautier South,U.S. Senate,,Priscilla W. Till,DEM,62
+Jackson,Gautier South,U.S. Senate,,Scott Colom,DEM,149
 Jackson,Gautier South,U.S. Senate,,Cindy Hyde-Smith,REP,260
 Jackson,Gautier South,U.S. Senate,,Sarah Adlakha,REP,140
+Jackson,Grace Baptist Church,U.S. House,4,D. Ryan Grover,DEM,24
+Jackson,Grace Baptist Church,U.S. House,4,Jeffrey Hulum III,DEM,78
+Jackson,Grace Baptist Church,U.S. House,4,Paul James Blackman,DEM,47
 Jackson,Grace Baptist Church,U.S. House,4,Mike Ezell,REP,393
 Jackson,Grace Baptist Church,U.S. House,4,Sawyer Walters,REP,87
+Jackson,Grace Baptist Church,U.S. Senate,,Albert R. Littell,DEM,13
+Jackson,Grace Baptist Church,U.S. Senate,,Priscilla W. Till,DEM,39
+Jackson,Grace Baptist Church,U.S. Senate,,Scott Colom,DEM,97
 Jackson,Grace Baptist Church,U.S. Senate,,Cindy Hyde-Smith,REP,335
 Jackson,Grace Baptist Church,U.S. Senate,,Sarah Adlakha,REP,148
+Jackson,Gulf Park Estates,U.S. House,4,D. Ryan Grover,DEM,9
+Jackson,Gulf Park Estates,U.S. House,4,Jeffrey Hulum III,DEM,47
+Jackson,Gulf Park Estates,U.S. House,4,Paul James Blackman,DEM,29
 Jackson,Gulf Park Estates,U.S. House,4,Mike Ezell,REP,301
 Jackson,Gulf Park Estates,U.S. House,4,Sawyer Walters,REP,88
+Jackson,Gulf Park Estates,U.S. Senate,,Albert R. Littell,DEM,12
+Jackson,Gulf Park Estates,U.S. Senate,,Priscilla W. Till,DEM,18
+Jackson,Gulf Park Estates,U.S. Senate,,Scott Colom,DEM,55
 Jackson,Gulf Park Estates,U.S. Senate,,Cindy Hyde-Smith,REP,271
 Jackson,Gulf Park Estates,U.S. Senate,,Sarah Adlakha,REP,120
+Jackson,Hickory Hills,U.S. House,4,D. Ryan Grover,DEM,14
+Jackson,Hickory Hills,U.S. House,4,Jeffrey Hulum III,DEM,59
+Jackson,Hickory Hills,U.S. House,4,Paul James Blackman,DEM,32
 Jackson,Hickory Hills,U.S. House,4,Mike Ezell,REP,221
 Jackson,Hickory Hills,U.S. House,4,Sawyer Walters,REP,34
+Jackson,Hickory Hills,U.S. Senate,,Albert R. Littell,DEM,18
+Jackson,Hickory Hills,U.S. Senate,,Priscilla W. Till,DEM,21
+Jackson,Hickory Hills,U.S. Senate,,Scott Colom,DEM,64
 Jackson,Hickory Hills,U.S. Senate,,Cindy Hyde-Smith,REP,187
 Jackson,Hickory Hills,U.S. Senate,,Sarah Adlakha,REP,71
+Jackson,Hwy 57,U.S. House,4,D. Ryan Grover,DEM,0
+Jackson,Hwy 57,U.S. House,4,Jeffrey Hulum III,DEM,3
+Jackson,Hwy 57,U.S. House,4,Paul James Blackman,DEM,0
 Jackson,Hwy 57,U.S. House,4,Mike Ezell,REP,86
 Jackson,Hwy 57,U.S. House,4,Sawyer Walters,REP,11
+Jackson,Hwy 57,U.S. Senate,,Albert R. Littell,DEM,0
+Jackson,Hwy 57,U.S. Senate,,Priscilla W. Till,DEM,1
+Jackson,Hwy 57,U.S. Senate,,Scott Colom,DEM,2
 Jackson,Hwy 57,U.S. Senate,,Cindy Hyde-Smith,REP,68
 Jackson,Hwy 57,U.S. Senate,,Sarah Adlakha,REP,29
+Jackson,Ingalls Avenue Baptist Church,U.S. House,4,D. Ryan Grover,DEM,11
+Jackson,Ingalls Avenue Baptist Church,U.S. House,4,Jeffrey Hulum III,DEM,31
+Jackson,Ingalls Avenue Baptist Church,U.S. House,4,Paul James Blackman,DEM,26
 Jackson,Ingalls Avenue Baptist Church,U.S. House,4,Mike Ezell,REP,308
 Jackson,Ingalls Avenue Baptist Church,U.S. House,4,Sawyer Walters,REP,30
+Jackson,Ingalls Avenue Baptist Church,U.S. Senate,,Albert R. Littell,DEM,15
+Jackson,Ingalls Avenue Baptist Church,U.S. Senate,,Priscilla W. Till,DEM,18
+Jackson,Ingalls Avenue Baptist Church,U.S. Senate,,Scott Colom,DEM,35
 Jackson,Ingalls Avenue Baptist Church,U.S. Senate,,Cindy Hyde-Smith,REP,248
 Jackson,Ingalls Avenue Baptist Church,U.S. Senate,,Sarah Adlakha,REP,90
+Jackson,Jefferson Street,U.S. House,4,D. Ryan Grover,DEM,25
+Jackson,Jefferson Street,U.S. House,4,Jeffrey Hulum III,DEM,189
+Jackson,Jefferson Street,U.S. House,4,Paul James Blackman,DEM,103
 Jackson,Jefferson Street,U.S. House,4,Mike Ezell,REP,83
 Jackson,Jefferson Street,U.S. House,4,Sawyer Walters,REP,12
+Jackson,Jefferson Street,U.S. Senate,,Albert R. Littell,DEM,40
+Jackson,Jefferson Street,U.S. Senate,,Priscilla W. Till,DEM,56
+Jackson,Jefferson Street,U.S. Senate,,Scott Colom,DEM,221
 Jackson,Jefferson Street,U.S. Senate,,Cindy Hyde-Smith,REP,57
 Jackson,Jefferson Street,U.S. Senate,,Sarah Adlakha,REP,38
+Jackson,Larue,U.S. House,4,D. Ryan Grover,DEM,0
+Jackson,Larue,U.S. House,4,Jeffrey Hulum III,DEM,3
+Jackson,Larue,U.S. House,4,Paul James Blackman,DEM,1
 Jackson,Larue,U.S. House,4,Mike Ezell,REP,62
 Jackson,Larue,U.S. House,4,Sawyer Walters,REP,16
+Jackson,Larue,U.S. Senate,,Albert R. Littell,DEM,1
+Jackson,Larue,U.S. Senate,,Priscilla W. Till,DEM,0
+Jackson,Larue,U.S. Senate,,Scott Colom,DEM,3
 Jackson,Larue,U.S. Senate,,Cindy Hyde-Smith,REP,50
 Jackson,Larue,U.S. Senate,,Sarah Adlakha,REP,27
+Jackson,Latimer,U.S. House,4,D. Ryan Grover,DEM,27
+Jackson,Latimer,U.S. House,4,Jeffrey Hulum III,DEM,68
+Jackson,Latimer,U.S. House,4,Paul James Blackman,DEM,38
 Jackson,Latimer,U.S. House,4,Mike Ezell,REP,458
 Jackson,Latimer,U.S. House,4,Sawyer Walters,REP,80
+Jackson,Latimer,U.S. Senate,,Albert R. Littell,DEM,23
+Jackson,Latimer,U.S. Senate,,Priscilla W. Till,DEM,29
+Jackson,Latimer,U.S. Senate,,Scott Colom,DEM,83
 Jackson,Latimer,U.S. Senate,,Cindy Hyde-Smith,REP,369
 Jackson,Latimer,U.S. Senate,,Sarah Adlakha,REP,170
+Jackson,North Pascagoula,U.S. House,4,D. Ryan Grover,DEM,1
+Jackson,North Pascagoula,U.S. House,4,Jeffrey Hulum III,DEM,5
+Jackson,North Pascagoula,U.S. House,4,Paul James Blackman,DEM,4
 Jackson,North Pascagoula,U.S. House,4,Mike Ezell,REP,96
 Jackson,North Pascagoula,U.S. House,4,Sawyer Walters,REP,17
+Jackson,North Pascagoula,U.S. Senate,,Albert R. Littell,DEM,0
+Jackson,North Pascagoula,U.S. Senate,,Priscilla W. Till,DEM,2
+Jackson,North Pascagoula,U.S. Senate,,Scott Colom,DEM,8
 Jackson,North Pascagoula,U.S. Senate,,Cindy Hyde-Smith,REP,85
 Jackson,North Pascagoula,U.S. Senate,,Sarah Adlakha,REP,28
+Jackson,North Vancleave,U.S. House,4,D. Ryan Grover,DEM,6
+Jackson,North Vancleave,U.S. House,4,Jeffrey Hulum III,DEM,16
+Jackson,North Vancleave,U.S. House,4,Paul James Blackman,DEM,11
 Jackson,North Vancleave,U.S. House,4,Mike Ezell,REP,325
 Jackson,North Vancleave,U.S. House,4,Sawyer Walters,REP,46
+Jackson,North Vancleave,U.S. Senate,,Albert R. Littell,DEM,3
+Jackson,North Vancleave,U.S. Senate,,Priscilla W. Till,DEM,6
+Jackson,North Vancleave,U.S. Senate,,Scott Colom,DEM,25
 Jackson,North Vancleave,U.S. Senate,,Cindy Hyde-Smith,REP,273
 Jackson,North Vancleave,U.S. Senate,,Sarah Adlakha,REP,99
+Jackson,OS Civic Ctr,U.S. House,4,D. Ryan Grover,DEM,26
+Jackson,OS Civic Ctr,U.S. House,4,Jeffrey Hulum III,DEM,87
+Jackson,OS Civic Ctr,U.S. House,4,Paul James Blackman,DEM,37
 Jackson,OS Civic Ctr,U.S. House,4,Mike Ezell,REP,421
 Jackson,OS Civic Ctr,U.S. House,4,Sawyer Walters,REP,127
+Jackson,OS Civic Ctr,U.S. Senate,,Albert R. Littell,DEM,18
+Jackson,OS Civic Ctr,U.S. Senate,,Priscilla W. Till,DEM,33
+Jackson,OS Civic Ctr,U.S. Senate,,Scott Colom,DEM,101
 Jackson,OS Civic Ctr,U.S. Senate,,Cindy Hyde-Smith,REP,338
 Jackson,OS Civic Ctr,U.S. Senate,,Sarah Adlakha,REP,214
+Jackson,OS Senior Center,U.S. House,4,D. Ryan Grover,DEM,4
+Jackson,OS Senior Center,U.S. House,4,Jeffrey Hulum III,DEM,9
+Jackson,OS Senior Center,U.S. House,4,Paul James Blackman,DEM,5
 Jackson,OS Senior Center,U.S. House,4,Mike Ezell,REP,28
 Jackson,OS Senior Center,U.S. House,4,Sawyer Walters,REP,14
+Jackson,OS Senior Center,U.S. Senate,,Albert R. Littell,DEM,1
+Jackson,OS Senior Center,U.S. Senate,,Priscilla W. Till,DEM,5
+Jackson,OS Senior Center,U.S. Senate,,Scott Colom,DEM,12
 Jackson,OS Senior Center,U.S. Senate,,Cindy Hyde-Smith,REP,22
 Jackson,OS Senior Center,U.S. Senate,,Sarah Adlakha,REP,21
+Jackson,Orange Grove,U.S. House,4,D. Ryan Grover,DEM,3
+Jackson,Orange Grove,U.S. House,4,Jeffrey Hulum III,DEM,11
+Jackson,Orange Grove,U.S. House,4,Paul James Blackman,DEM,10
 Jackson,Orange Grove,U.S. House,4,Mike Ezell,REP,166
 Jackson,Orange Grove,U.S. House,4,Sawyer Walters,REP,5
+Jackson,Orange Grove,U.S. Senate,,Albert R. Littell,DEM,1
+Jackson,Orange Grove,U.S. Senate,,Priscilla W. Till,DEM,12
+Jackson,Orange Grove,U.S. Senate,,Scott Colom,DEM,11
 Jackson,Orange Grove,U.S. Senate,,Cindy Hyde-Smith,REP,137
 Jackson,Orange Grove,U.S. Senate,,Sarah Adlakha,REP,33
+Jackson,Pelican Landing,U.S. House,4,D. Ryan Grover,DEM,42
+Jackson,Pelican Landing,U.S. House,4,Jeffrey Hulum III,DEM,165
+Jackson,Pelican Landing,U.S. House,4,Paul James Blackman,DEM,82
 Jackson,Pelican Landing,U.S. House,4,Mike Ezell,REP,34
 Jackson,Pelican Landing,U.S. House,4,Sawyer Walters,REP,7
+Jackson,Pelican Landing,U.S. Senate,,Albert R. Littell,DEM,28
+Jackson,Pelican Landing,U.S. Senate,,Priscilla W. Till,DEM,60
+Jackson,Pelican Landing,U.S. Senate,,Scott Colom,DEM,202
 Jackson,Pelican Landing,U.S. Senate,,Cindy Hyde-Smith,REP,24
 Jackson,Pelican Landing,U.S. Senate,,Sarah Adlakha,REP,17
+Jackson,Presbyterian,U.S. House,4,D. Ryan Grover,DEM,5
+Jackson,Presbyterian,U.S. House,4,Jeffrey Hulum III,DEM,9
+Jackson,Presbyterian,U.S. House,4,Paul James Blackman,DEM,12
 Jackson,Presbyterian,U.S. House,4,Mike Ezell,REP,196
 Jackson,Presbyterian,U.S. House,4,Sawyer Walters,REP,25
+Jackson,Presbyterian,U.S. Senate,,Albert R. Littell,DEM,1
+Jackson,Presbyterian,U.S. Senate,,Priscilla W. Till,DEM,7
+Jackson,Presbyterian,U.S. Senate,,Scott Colom,DEM,18
 Jackson,Presbyterian,U.S. Senate,,Cindy Hyde-Smith,REP,171
 Jackson,Presbyterian,U.S. Senate,,Sarah Adlakha,REP,48
+Jackson,Ryan Youth Center,U.S. House,4,D. Ryan Grover,DEM,12
+Jackson,Ryan Youth Center,U.S. House,4,Jeffrey Hulum III,DEM,49
+Jackson,Ryan Youth Center,U.S. House,4,Paul James Blackman,DEM,30
 Jackson,Ryan Youth Center,U.S. House,4,Mike Ezell,REP,265
 Jackson,Ryan Youth Center,U.S. House,4,Sawyer Walters,REP,73
+Jackson,Ryan Youth Center,U.S. Senate,,Albert R. Littell,DEM,5
+Jackson,Ryan Youth Center,U.S. Senate,,Priscilla W. Till,DEM,9
+Jackson,Ryan Youth Center,U.S. Senate,,Scott Colom,DEM,81
 Jackson,Ryan Youth Center,U.S. Senate,,Cindy Hyde-Smith,REP,206
 Jackson,Ryan Youth Center,U.S. Senate,,Sarah Adlakha,REP,134
+Jackson,South Vancleave,U.S. House,4,D. Ryan Grover,DEM,6
+Jackson,South Vancleave,U.S. House,4,Jeffrey Hulum III,DEM,13
+Jackson,South Vancleave,U.S. House,4,Paul James Blackman,DEM,14
 Jackson,South Vancleave,U.S. House,4,Mike Ezell,REP,449
 Jackson,South Vancleave,U.S. House,4,Sawyer Walters,REP,74
+Jackson,South Vancleave,U.S. Senate,,Albert R. Littell,DEM,8
+Jackson,South Vancleave,U.S. Senate,,Priscilla W. Till,DEM,9
+Jackson,South Vancleave,U.S. Senate,,Scott Colom,DEM,16
 Jackson,South Vancleave,U.S. Senate,,Cindy Hyde-Smith,REP,386
 Jackson,South Vancleave,U.S. Senate,,Sarah Adlakha,REP,135
+Jackson,St Martin,U.S. House,4,D. Ryan Grover,DEM,17
+Jackson,St Martin,U.S. House,4,Jeffrey Hulum III,DEM,72
+Jackson,St Martin,U.S. House,4,Paul James Blackman,DEM,27
 Jackson,St Martin,U.S. House,4,Mike Ezell,REP,323
 Jackson,St Martin,U.S. House,4,Sawyer Walters,REP,45
+Jackson,St Martin,U.S. Senate,,Albert R. Littell,DEM,21
+Jackson,St Martin,U.S. Senate,,Priscilla W. Till,DEM,28
+Jackson,St Martin,U.S. Senate,,Scott Colom,DEM,69
 Jackson,St Martin,U.S. Senate,,Cindy Hyde-Smith,REP,288
 Jackson,St Martin,U.S. Senate,,Sarah Adlakha,REP,78
+Jackson,Sue Ellen,U.S. House,4,D. Ryan Grover,DEM,47
+Jackson,Sue Ellen,U.S. House,4,Jeffrey Hulum III,DEM,260
+Jackson,Sue Ellen,U.S. House,4,Paul James Blackman,DEM,145
 Jackson,Sue Ellen,U.S. House,4,Mike Ezell,REP,11
 Jackson,Sue Ellen,U.S. House,4,Sawyer Walters,REP,6
+Jackson,Sue Ellen,U.S. Senate,,Albert R. Littell,DEM,58
+Jackson,Sue Ellen,U.S. Senate,,Priscilla W. Till,DEM,94
+Jackson,Sue Ellen,U.S. Senate,,Scott Colom,DEM,304
 Jackson,Sue Ellen,U.S. Senate,,Cindy Hyde-Smith,REP,7
 Jackson,Sue Ellen,U.S. Senate,,Sarah Adlakha,REP,9
+Jackson,Villa Maria,U.S. House,4,D. Ryan Grover,DEM,7
+Jackson,Villa Maria,U.S. House,4,Jeffrey Hulum III,DEM,19
+Jackson,Villa Maria,U.S. House,4,Paul James Blackman,DEM,7
 Jackson,Villa Maria,U.S. House,4,Mike Ezell,REP,84
 Jackson,Villa Maria,U.S. House,4,Sawyer Walters,REP,12
+Jackson,Villa Maria,U.S. Senate,,Albert R. Littell,DEM,2
+Jackson,Villa Maria,U.S. Senate,,Priscilla W. Till,DEM,12
+Jackson,Villa Maria,U.S. Senate,,Scott Colom,DEM,19
 Jackson,Villa Maria,U.S. Senate,,Cindy Hyde-Smith,REP,70
 Jackson,Villa Maria,U.S. Senate,,Sarah Adlakha,REP,25
+Jackson,West Jackson,U.S. House,4,D. Ryan Grover,DEM,36
+Jackson,West Jackson,U.S. House,4,Jeffrey Hulum III,DEM,119
+Jackson,West Jackson,U.S. House,4,Paul James Blackman,DEM,55
 Jackson,West Jackson,U.S. House,4,Mike Ezell,REP,391
 Jackson,West Jackson,U.S. House,4,Sawyer Walters,REP,105
+Jackson,West Jackson,U.S. Senate,,Albert R. Littell,DEM,27
+Jackson,West Jackson,U.S. Senate,,Priscilla W. Till,DEM,52
+Jackson,West Jackson,U.S. Senate,,Scott Colom,DEM,133
 Jackson,West Jackson,U.S. Senate,,Cindy Hyde-Smith,REP,326
 Jackson,West Jackson,U.S. Senate,,Sarah Adlakha,REP,171
+Jackson,YMBC-Dantzler,U.S. House,4,D. Ryan Grover,DEM,17
+Jackson,YMBC-Dantzler,U.S. House,4,Jeffrey Hulum III,DEM,180
+Jackson,YMBC-Dantzler,U.S. House,4,Paul James Blackman,DEM,46
 Jackson,YMBC-Dantzler,U.S. House,4,Mike Ezell,REP,142
 Jackson,YMBC-Dantzler,U.S. House,4,Sawyer Walters,REP,19
+Jackson,YMBC-Dantzler,U.S. Senate,,Albert R. Littell,DEM,9
+Jackson,YMBC-Dantzler,U.S. Senate,,Priscilla W. Till,DEM,44
+Jackson,YMBC-Dantzler,U.S. Senate,,Scott Colom,DEM,190
 Jackson,YMBC-Dantzler,U.S. Senate,,Cindy Hyde-Smith,REP,112
 Jackson,YMBC-Dantzler,U.S. Senate,,Sarah Adlakha,REP,45
