@@ -1,0 +1,443 @@
+county,precinct,office,district,candidate,party,votes
+Forrest,Bar Mac,President,,Joseph R. Biden Jr.,DEM,40
+Forrest,Brooklyn,President,,Joseph R. Biden Jr.,DEM,1
+Forrest,Camp,President,,Joseph R. Biden Jr.,DEM,8
+Forrest,Carnes,President,,Joseph R. Biden Jr.,DEM,0
+Forrest,Court Street,President,,Joseph R. Biden Jr.,DEM,96
+Forrest,Dantzler,President,,Joseph R. Biden Jr.,DEM,6
+Forrest,Dixie,President,,Joseph R. Biden Jr.,DEM,29
+Forrest,Dixie Pine Central,President,,Joseph R. Biden Jr.,DEM,108
+Forrest,Eatonville,President,,Joseph R. Biden Jr.,DEM,28
+Forrest,Eureka School,President,,Joseph R. Biden Jr.,DEM,61
+Forrest,Glendale,President,,Joseph R. Biden Jr.,DEM,197
+Forrest,Hardy Street,President,,Joseph R. Biden Jr.,DEM,63
+Forrest,Hattiesburg Cultural Center,President,,Joseph R. Biden Jr.,DEM,83
+Forrest,Highland Park,President,,Joseph R. Biden Jr.,DEM,42
+Forrest,Leeville,President,,Joseph R. Biden Jr.,DEM,19
+Forrest,Lillie Burney,President,,Joseph R. Biden Jr.,DEM,213
+Forrest,Maxie,President,,Joseph R. Biden Jr.,DEM,10
+Forrest,Mclaurin,President,,Joseph R. Biden Jr.,DEM,6
+Forrest,North Heights,President,,Joseph R. Biden Jr.,DEM,142
+Forrest,Petal Civic Center,President,,Joseph R. Biden Jr.,DEM,25
+Forrest,Petal Masonic,President,,Joseph R. Biden Jr.,DEM,17
+Forrest,Pinecrest,President,,Joseph R. Biden Jr.,DEM,41
+Forrest,Rawls Springs,President,,Joseph R. Biden Jr.,DEM,81
+Forrest,Richburg,President,,Joseph R. Biden Jr.,DEM,38
+Forrest,Rowan,President,,Joseph R. Biden Jr.,DEM,82
+Forrest,Sheeplo,President,,Joseph R. Biden Jr.,DEM,60
+Forrest,Sigler Center,President,,Joseph R. Biden Jr.,DEM,44
+Forrest,Sunrise,President,,Joseph R. Biden Jr.,DEM,16
+Forrest,Thames,President,,Joseph R. Biden Jr.,DEM,54
+Forrest,Timberton,President,,Joseph R. Biden Jr.,DEM,19
+Forrest,Train Depot,President,,Joseph R. Biden Jr.,DEM,55
+Forrest,West Hills,President,,Joseph R. Biden Jr.,DEM,16
+Forrest,West Petal,President,,Joseph R. Biden Jr.,DEM,20
+Forrest,Westside,President,,Joseph R. Biden Jr.,DEM,51
+Forrest,Bar Mac,U.S. House,4,Craig Elliot Raybon,DEM,39
+Forrest,Brooklyn,U.S. House,4,Craig Elliot Raybon,DEM,0
+Forrest,Camp,U.S. House,4,Craig Elliot Raybon,DEM,9
+Forrest,Carnes,U.S. House,4,Craig Elliot Raybon,DEM,0
+Forrest,Court Street,U.S. House,4,Craig Elliot Raybon,DEM,91
+Forrest,Dantzler,U.S. House,4,Craig Elliot Raybon,DEM,7
+Forrest,Dixie,U.S. House,4,Craig Elliot Raybon,DEM,27
+Forrest,Dixie Pine Central,U.S. House,4,Craig Elliot Raybon,DEM,90
+Forrest,Eatonville,U.S. House,4,Craig Elliot Raybon,DEM,27
+Forrest,Eureka School,U.S. House,4,Craig Elliot Raybon,DEM,50
+Forrest,Glendale,U.S. House,4,Craig Elliot Raybon,DEM,169
+Forrest,Hardy Street,U.S. House,4,Craig Elliot Raybon,DEM,62
+Forrest,Hattiesburg Cultural Center,U.S. House,4,Craig Elliot Raybon,DEM,77
+Forrest,Highland Park,U.S. House,4,Craig Elliot Raybon,DEM,44
+Forrest,Leeville,U.S. House,4,Craig Elliot Raybon,DEM,16
+Forrest,Lillie Burney,U.S. House,4,Craig Elliot Raybon,DEM,192
+Forrest,Maxie,U.S. House,4,Craig Elliot Raybon,DEM,10
+Forrest,Mclaurin,U.S. House,4,Craig Elliot Raybon,DEM,6
+Forrest,North Heights,U.S. House,4,Craig Elliot Raybon,DEM,133
+Forrest,Petal Civic Center,U.S. House,4,Craig Elliot Raybon,DEM,22
+Forrest,Petal Masonic,U.S. House,4,Craig Elliot Raybon,DEM,18
+Forrest,Pinecrest,U.S. House,4,Craig Elliot Raybon,DEM,42
+Forrest,Rawls Springs,U.S. House,4,Craig Elliot Raybon,DEM,72
+Forrest,Richburg,U.S. House,4,Craig Elliot Raybon,DEM,34
+Forrest,Rowan,U.S. House,4,Craig Elliot Raybon,DEM,74
+Forrest,Sheeplo,U.S. House,4,Craig Elliot Raybon,DEM,50
+Forrest,Sigler Center,U.S. House,4,Craig Elliot Raybon,DEM,46
+Forrest,Sunrise,U.S. House,4,Craig Elliot Raybon,DEM,15
+Forrest,Thames,U.S. House,4,Craig Elliot Raybon,DEM,53
+Forrest,Timberton,U.S. House,4,Craig Elliot Raybon,DEM,17
+Forrest,Train Depot,U.S. House,4,Craig Elliot Raybon,DEM,51
+Forrest,West Hills,U.S. House,4,Craig Elliot Raybon,DEM,16
+Forrest,West Petal,U.S. House,4,Craig Elliot Raybon,DEM,16
+Forrest,Westside,U.S. House,4,Craig Elliot Raybon,DEM,49
+Forrest,Bar Mac,U.S. Senate,,Ty Pinkins,DEM,36
+Forrest,Brooklyn,U.S. Senate,,Ty Pinkins,DEM,0
+Forrest,Camp,U.S. Senate,,Ty Pinkins,DEM,10
+Forrest,Carnes,U.S. Senate,,Ty Pinkins,DEM,0
+Forrest,Court Street,U.S. Senate,,Ty Pinkins,DEM,89
+Forrest,Dantzler,U.S. Senate,,Ty Pinkins,DEM,7
+Forrest,Dixie,U.S. Senate,,Ty Pinkins,DEM,29
+Forrest,Dixie Pine Central,U.S. Senate,,Ty Pinkins,DEM,94
+Forrest,Eatonville,U.S. Senate,,Ty Pinkins,DEM,29
+Forrest,Eureka School,U.S. Senate,,Ty Pinkins,DEM,47
+Forrest,Glendale,U.S. Senate,,Ty Pinkins,DEM,170
+Forrest,Hardy Street,U.S. Senate,,Ty Pinkins,DEM,62
+Forrest,Hattiesburg Cultural Center,U.S. Senate,,Ty Pinkins,DEM,77
+Forrest,Highland Park,U.S. Senate,,Ty Pinkins,DEM,44
+Forrest,Leeville,U.S. Senate,,Ty Pinkins,DEM,18
+Forrest,Lillie Burney,U.S. Senate,,Ty Pinkins,DEM,192
+Forrest,Maxie,U.S. Senate,,Ty Pinkins,DEM,10
+Forrest,Mclaurin,U.S. Senate,,Ty Pinkins,DEM,6
+Forrest,North Heights,U.S. Senate,,Ty Pinkins,DEM,132
+Forrest,Petal Civic Center,U.S. Senate,,Ty Pinkins,DEM,23
+Forrest,Petal Masonic,U.S. Senate,,Ty Pinkins,DEM,18
+Forrest,Pinecrest,U.S. Senate,,Ty Pinkins,DEM,42
+Forrest,Rawls Springs,U.S. Senate,,Ty Pinkins,DEM,71
+Forrest,Richburg,U.S. Senate,,Ty Pinkins,DEM,35
+Forrest,Rowan,U.S. Senate,,Ty Pinkins,DEM,76
+Forrest,Sheeplo,U.S. Senate,,Ty Pinkins,DEM,59
+Forrest,Sigler Center,U.S. Senate,,Ty Pinkins,DEM,43
+Forrest,Sunrise,U.S. Senate,,Ty Pinkins,DEM,15
+Forrest,Thames,U.S. Senate,,Ty Pinkins,DEM,52
+Forrest,Timberton,U.S. Senate,,Ty Pinkins,DEM,16
+Forrest,Train Depot,U.S. Senate,,Ty Pinkins,DEM,51
+Forrest,West Hills,U.S. Senate,,Ty Pinkins,DEM,17
+Forrest,West Petal,U.S. Senate,,Ty Pinkins,DEM,17
+Forrest,Westside,U.S. Senate,,Ty Pinkins,DEM,50
+Forrest,Bar Mac,President,,Donald J. Trump,REP,496
+Forrest,Brooklyn,President,,Donald J. Trump,REP,127
+Forrest,Camp,President,,Donald J. Trump,REP,45
+Forrest,Carnes,President,,Donald J. Trump,REP,285
+Forrest,Court Street,President,,Donald J. Trump,REP,27
+Forrest,Dantzler,President,,Donald J. Trump,REP,148
+Forrest,Dixie,President,,Donald J. Trump,REP,382
+Forrest,Dixie Pine Central,President,,Donald J. Trump,REP,49
+Forrest,Eatonville,President,,Donald J. Trump,REP,217
+Forrest,Eureka School,President,,Donald J. Trump,REP,2
+Forrest,Glendale,President,,Donald J. Trump,REP,85
+Forrest,Hardy Street,President,,Donald J. Trump,REP,104
+Forrest,Hattiesburg Cultural Center,President,,Donald J. Trump,REP,8
+Forrest,Highland Park,President,,Donald J. Trump,REP,29
+Forrest,Leeville,President,,Donald J. Trump,REP,323
+Forrest,Lillie Burney,President,,Donald J. Trump,REP,15
+Forrest,Maxie,President,,Donald J. Trump,REP,55
+Forrest,Mclaurin,President,,Donald J. Trump,REP,95
+Forrest,North Heights,President,,Donald J. Trump,REP,31
+Forrest,Petal Civic Center,President,,Donald J. Trump,REP,269
+Forrest,Petal Masonic,President,,Donald J. Trump,REP,222
+Forrest,Pinecrest,President,,Donald J. Trump,REP,72
+Forrest,Rawls Springs,President,,Donald J. Trump,REP,165
+Forrest,Richburg,President,,Donald J. Trump,REP,115
+Forrest,Rowan,President,,Donald J. Trump,REP,0
+Forrest,Sheeplo,President,,Donald J. Trump,REP,209
+Forrest,Sigler Center,President,,Donald J. Trump,REP,32
+Forrest,Sunrise,President,,Donald J. Trump,REP,444
+Forrest,Thames,President,,Donald J. Trump,REP,288
+Forrest,Timberton,President,,Donald J. Trump,REP,228
+Forrest,Train Depot,President,,Donald J. Trump,REP,10
+Forrest,West Hills,President,,Donald J. Trump,REP,123
+Forrest,West Petal,President,,Donald J. Trump,REP,87
+Forrest,Westside,President,,Donald J. Trump,REP,143
+Forrest,Bar Mac,President,,Nikki R. Haley,REP,25
+Forrest,Brooklyn,President,,Nikki R. Haley,REP,3
+Forrest,Camp,President,,Nikki R. Haley,REP,18
+Forrest,Carnes,President,,Nikki R. Haley,REP,8
+Forrest,Court Street,President,,Nikki R. Haley,REP,9
+Forrest,Dantzler,President,,Nikki R. Haley,REP,2
+Forrest,Dixie,President,,Nikki R. Haley,REP,22
+Forrest,Dixie Pine Central,President,,Nikki R. Haley,REP,1
+Forrest,Eatonville,President,,Nikki R. Haley,REP,6
+Forrest,Eureka School,President,,Nikki R. Haley,REP,0
+Forrest,Glendale,President,,Nikki R. Haley,REP,2
+Forrest,Hardy Street,President,,Nikki R. Haley,REP,28
+Forrest,Hattiesburg Cultural Center,President,,Nikki R. Haley,REP,3
+Forrest,Highland Park,President,,Nikki R. Haley,REP,6
+Forrest,Leeville,President,,Nikki R. Haley,REP,14
+Forrest,Lillie Burney,President,,Nikki R. Haley,REP,0
+Forrest,Maxie,President,,Nikki R. Haley,REP,2
+Forrest,Mclaurin,President,,Nikki R. Haley,REP,1
+Forrest,North Heights,President,,Nikki R. Haley,REP,4
+Forrest,Petal Civic Center,President,,Nikki R. Haley,REP,13
+Forrest,Petal Masonic,President,,Nikki R. Haley,REP,13
+Forrest,Pinecrest,President,,Nikki R. Haley,REP,13
+Forrest,Rawls Springs,President,,Nikki R. Haley,REP,5
+Forrest,Richburg,President,,Nikki R. Haley,REP,19
+Forrest,Rowan,President,,Nikki R. Haley,REP,0
+Forrest,Sheeplo,President,,Nikki R. Haley,REP,14
+Forrest,Sigler Center,President,,Nikki R. Haley,REP,0
+Forrest,Sunrise,President,,Nikki R. Haley,REP,38
+Forrest,Thames,President,,Nikki R. Haley,REP,85
+Forrest,Timberton,President,,Nikki R. Haley,REP,27
+Forrest,Train Depot,President,,Nikki R. Haley,REP,3
+Forrest,West Hills,President,,Nikki R. Haley,REP,16
+Forrest,West Petal,President,,Nikki R. Haley,REP,4
+Forrest,Westside,President,,Nikki R. Haley,REP,11
+Forrest,Bar Mac,President,,Ron DeSantis,REP,7
+Forrest,Brooklyn,President,,Ron DeSantis,REP,1
+Forrest,Camp,President,,Ron DeSantis,REP,1
+Forrest,Carnes,President,,Ron DeSantis,REP,5
+Forrest,Court Street,President,,Ron DeSantis,REP,6
+Forrest,Dantzler,President,,Ron DeSantis,REP,1
+Forrest,Dixie,President,,Ron DeSantis,REP,13
+Forrest,Dixie Pine Central,President,,Ron DeSantis,REP,0
+Forrest,Eatonville,President,,Ron DeSantis,REP,3
+Forrest,Eureka School,President,,Ron DeSantis,REP,0
+Forrest,Glendale,President,,Ron DeSantis,REP,1
+Forrest,Hardy Street,President,,Ron DeSantis,REP,7
+Forrest,Hattiesburg Cultural Center,President,,Ron DeSantis,REP,1
+Forrest,Highland Park,President,,Ron DeSantis,REP,2
+Forrest,Leeville,President,,Ron DeSantis,REP,2
+Forrest,Lillie Burney,President,,Ron DeSantis,REP,0
+Forrest,Maxie,President,,Ron DeSantis,REP,2
+Forrest,Mclaurin,President,,Ron DeSantis,REP,0
+Forrest,North Heights,President,,Ron DeSantis,REP,0
+Forrest,Petal Civic Center,President,,Ron DeSantis,REP,6
+Forrest,Petal Masonic,President,,Ron DeSantis,REP,2
+Forrest,Pinecrest,President,,Ron DeSantis,REP,2
+Forrest,Rawls Springs,President,,Ron DeSantis,REP,1
+Forrest,Richburg,President,,Ron DeSantis,REP,1
+Forrest,Rowan,President,,Ron DeSantis,REP,0
+Forrest,Sheeplo,President,,Ron DeSantis,REP,1
+Forrest,Sigler Center,President,,Ron DeSantis,REP,1
+Forrest,Sunrise,President,,Ron DeSantis,REP,10
+Forrest,Thames,President,,Ron DeSantis,REP,13
+Forrest,Timberton,President,,Ron DeSantis,REP,10
+Forrest,Train Depot,President,,Ron DeSantis,REP,2
+Forrest,West Hills,President,,Ron DeSantis,REP,2
+Forrest,West Petal,President,,Ron DeSantis,REP,4
+Forrest,Westside,President,,Ron DeSantis,REP,4
+Forrest,Bar Mac,President,,Vivek Ramaswamy,REP,0
+Forrest,Brooklyn,President,,Vivek Ramaswamy,REP,0
+Forrest,Camp,President,,Vivek Ramaswamy,REP,0
+Forrest,Carnes,President,,Vivek Ramaswamy,REP,0
+Forrest,Court Street,President,,Vivek Ramaswamy,REP,0
+Forrest,Dantzler,President,,Vivek Ramaswamy,REP,0
+Forrest,Dixie,President,,Vivek Ramaswamy,REP,1
+Forrest,Dixie Pine Central,President,,Vivek Ramaswamy,REP,0
+Forrest,Eatonville,President,,Vivek Ramaswamy,REP,2
+Forrest,Eureka School,President,,Vivek Ramaswamy,REP,0
+Forrest,Glendale,President,,Vivek Ramaswamy,REP,1
+Forrest,Hardy Street,President,,Vivek Ramaswamy,REP,2
+Forrest,Hattiesburg Cultural Center,President,,Vivek Ramaswamy,REP,0
+Forrest,Highland Park,President,,Vivek Ramaswamy,REP,1
+Forrest,Leeville,President,,Vivek Ramaswamy,REP,2
+Forrest,Lillie Burney,President,,Vivek Ramaswamy,REP,0
+Forrest,Maxie,President,,Vivek Ramaswamy,REP,0
+Forrest,Mclaurin,President,,Vivek Ramaswamy,REP,0
+Forrest,North Heights,President,,Vivek Ramaswamy,REP,1
+Forrest,Petal Civic Center,President,,Vivek Ramaswamy,REP,1
+Forrest,Petal Masonic,President,,Vivek Ramaswamy,REP,0
+Forrest,Pinecrest,President,,Vivek Ramaswamy,REP,1
+Forrest,Rawls Springs,President,,Vivek Ramaswamy,REP,3
+Forrest,Richburg,President,,Vivek Ramaswamy,REP,1
+Forrest,Rowan,President,,Vivek Ramaswamy,REP,0
+Forrest,Sheeplo,President,,Vivek Ramaswamy,REP,0
+Forrest,Sigler Center,President,,Vivek Ramaswamy,REP,0
+Forrest,Sunrise,President,,Vivek Ramaswamy,REP,0
+Forrest,Thames,President,,Vivek Ramaswamy,REP,4
+Forrest,Timberton,President,,Vivek Ramaswamy,REP,2
+Forrest,Train Depot,President,,Vivek Ramaswamy,REP,0
+Forrest,West Hills,President,,Vivek Ramaswamy,REP,2
+Forrest,West Petal,President,,Vivek Ramaswamy,REP,1
+Forrest,Westside,President,,Vivek Ramaswamy,REP,3
+Forrest,Bar Mac,U.S. House,4,Carl Boyanton,REP,95
+Forrest,Brooklyn,U.S. House,4,Carl Boyanton,REP,24
+Forrest,Camp,U.S. House,4,Carl Boyanton,REP,13
+Forrest,Carnes,U.S. House,4,Carl Boyanton,REP,64
+Forrest,Court Street,U.S. House,4,Carl Boyanton,REP,8
+Forrest,Dantzler,U.S. House,4,Carl Boyanton,REP,22
+Forrest,Dixie,U.S. House,4,Carl Boyanton,REP,102
+Forrest,Dixie Pine Central,U.S. House,4,Carl Boyanton,REP,6
+Forrest,Eatonville,U.S. House,4,Carl Boyanton,REP,57
+Forrest,Eureka School,U.S. House,4,Carl Boyanton,REP,0
+Forrest,Glendale,U.S. House,4,Carl Boyanton,REP,25
+Forrest,Hardy Street,U.S. House,4,Carl Boyanton,REP,29
+Forrest,Hattiesburg Cultural Center,U.S. House,4,Carl Boyanton,REP,1
+Forrest,Highland Park,U.S. House,4,Carl Boyanton,REP,3
+Forrest,Leeville,U.S. House,4,Carl Boyanton,REP,52
+Forrest,Lillie Burney,U.S. House,4,Carl Boyanton,REP,3
+Forrest,Maxie,U.S. House,4,Carl Boyanton,REP,9
+Forrest,Mclaurin,U.S. House,4,Carl Boyanton,REP,23
+Forrest,North Heights,U.S. House,4,Carl Boyanton,REP,3
+Forrest,Petal Civic Center,U.S. House,4,Carl Boyanton,REP,52
+Forrest,Petal Masonic,U.S. House,4,Carl Boyanton,REP,25
+Forrest,Pinecrest,U.S. House,4,Carl Boyanton,REP,13
+Forrest,Rawls Springs,U.S. House,4,Carl Boyanton,REP,31
+Forrest,Richburg,U.S. House,4,Carl Boyanton,REP,20
+Forrest,Rowan,U.S. House,4,Carl Boyanton,REP,0
+Forrest,Sheeplo,U.S. House,4,Carl Boyanton,REP,30
+Forrest,Sigler Center,U.S. House,4,Carl Boyanton,REP,5
+Forrest,Sunrise,U.S. House,4,Carl Boyanton,REP,94
+Forrest,Thames,U.S. House,4,Carl Boyanton,REP,88
+Forrest,Timberton,U.S. House,4,Carl Boyanton,REP,35
+Forrest,Train Depot,U.S. House,4,Carl Boyanton,REP,2
+Forrest,West Hills,U.S. House,4,Carl Boyanton,REP,25
+Forrest,West Petal,U.S. House,4,Carl Boyanton,REP,17
+Forrest,Westside,U.S. House,4,Carl Boyanton,REP,27
+Forrest,Bar Mac,U.S. House,4,Michael McGill,REP,23
+Forrest,Brooklyn,U.S. House,4,Michael McGill,REP,8
+Forrest,Camp,U.S. House,4,Michael McGill,REP,3
+Forrest,Carnes,U.S. House,4,Michael McGill,REP,10
+Forrest,Court Street,U.S. House,4,Michael McGill,REP,1
+Forrest,Dantzler,U.S. House,4,Michael McGill,REP,13
+Forrest,Dixie,U.S. House,4,Michael McGill,REP,27
+Forrest,Dixie Pine Central,U.S. House,4,Michael McGill,REP,4
+Forrest,Eatonville,U.S. House,4,Michael McGill,REP,8
+Forrest,Eureka School,U.S. House,4,Michael McGill,REP,0
+Forrest,Glendale,U.S. House,4,Michael McGill,REP,3
+Forrest,Hardy Street,U.S. House,4,Michael McGill,REP,12
+Forrest,Hattiesburg Cultural Center,U.S. House,4,Michael McGill,REP,2
+Forrest,Highland Park,U.S. House,4,Michael McGill,REP,5
+Forrest,Leeville,U.S. House,4,Michael McGill,REP,14
+Forrest,Lillie Burney,U.S. House,4,Michael McGill,REP,2
+Forrest,Maxie,U.S. House,4,Michael McGill,REP,2
+Forrest,Mclaurin,U.S. House,4,Michael McGill,REP,4
+Forrest,North Heights,U.S. House,4,Michael McGill,REP,3
+Forrest,Petal Civic Center,U.S. House,4,Michael McGill,REP,12
+Forrest,Petal Masonic,U.S. House,4,Michael McGill,REP,9
+Forrest,Pinecrest,U.S. House,4,Michael McGill,REP,5
+Forrest,Rawls Springs,U.S. House,4,Michael McGill,REP,6
+Forrest,Richburg,U.S. House,4,Michael McGill,REP,8
+Forrest,Rowan,U.S. House,4,Michael McGill,REP,0
+Forrest,Sheeplo,U.S. House,4,Michael McGill,REP,19
+Forrest,Sigler Center,U.S. House,4,Michael McGill,REP,4
+Forrest,Sunrise,U.S. House,4,Michael McGill,REP,21
+Forrest,Thames,U.S. House,4,Michael McGill,REP,20
+Forrest,Timberton,U.S. House,4,Michael McGill,REP,12
+Forrest,Train Depot,U.S. House,4,Michael McGill,REP,1
+Forrest,West Hills,U.S. House,4,Michael McGill,REP,10
+Forrest,West Petal,U.S. House,4,Michael McGill,REP,10
+Forrest,Westside,U.S. House,4,Michael McGill,REP,14
+Forrest,Bar Mac,U.S. House,4,Mike Ezell,REP,409
+Forrest,Brooklyn,U.S. House,4,Mike Ezell,REP,99
+Forrest,Camp,U.S. House,4,Mike Ezell,REP,48
+Forrest,Carnes,U.S. House,4,Mike Ezell,REP,225
+Forrest,Court Street,U.S. House,4,Mike Ezell,REP,34
+Forrest,Dantzler,U.S. House,4,Mike Ezell,REP,116
+Forrest,Dixie,U.S. House,4,Mike Ezell,REP,292
+Forrest,Dixie Pine Central,U.S. House,4,Mike Ezell,REP,40
+Forrest,Eatonville,U.S. House,4,Mike Ezell,REP,162
+Forrest,Eureka School,U.S. House,4,Mike Ezell,REP,2
+Forrest,Glendale,U.S. House,4,Mike Ezell,REP,60
+Forrest,Hardy Street,U.S. House,4,Mike Ezell,REP,104
+Forrest,Hattiesburg Cultural Center,U.S. House,4,Mike Ezell,REP,10
+Forrest,Highland Park,U.S. House,4,Mike Ezell,REP,32
+Forrest,Leeville,U.S. House,4,Mike Ezell,REP,273
+Forrest,Lillie Burney,U.S. House,4,Mike Ezell,REP,11
+Forrest,Maxie,U.S. House,4,Mike Ezell,REP,49
+Forrest,Mclaurin,U.S. House,4,Mike Ezell,REP,70
+Forrest,North Heights,U.S. House,4,Mike Ezell,REP,30
+Forrest,Petal Civic Center,U.S. House,4,Mike Ezell,REP,227
+Forrest,Petal Masonic,U.S. House,4,Mike Ezell,REP,207
+Forrest,Pinecrest,U.S. House,4,Mike Ezell,REP,71
+Forrest,Rawls Springs,U.S. House,4,Mike Ezell,REP,136
+Forrest,Richburg,U.S. House,4,Mike Ezell,REP,109
+Forrest,Rowan,U.S. House,4,Mike Ezell,REP,0
+Forrest,Sheeplo,U.S. House,4,Mike Ezell,REP,176
+Forrest,Sigler Center,U.S. House,4,Mike Ezell,REP,25
+Forrest,Sunrise,U.S. House,4,Mike Ezell,REP,376
+Forrest,Thames,U.S. House,4,Mike Ezell,REP,287
+Forrest,Timberton,U.S. House,4,Mike Ezell,REP,220
+Forrest,Train Depot,U.S. House,4,Mike Ezell,REP,9
+Forrest,West Hills,U.S. House,4,Mike Ezell,REP,108
+Forrest,West Petal,U.S. House,4,Mike Ezell,REP,71
+Forrest,Westside,U.S. House,4,Mike Ezell,REP,120
+Forrest,Bar Mac,U.S. Senate,,Dan Eubanks,REP,84
+Forrest,Brooklyn,U.S. Senate,,Dan Eubanks,REP,16
+Forrest,Camp,U.S. Senate,,Dan Eubanks,REP,4
+Forrest,Carnes,U.S. Senate,,Dan Eubanks,REP,64
+Forrest,Court Street,U.S. Senate,,Dan Eubanks,REP,4
+Forrest,Dantzler,U.S. Senate,,Dan Eubanks,REP,23
+Forrest,Dixie,U.S. Senate,,Dan Eubanks,REP,65
+Forrest,Dixie Pine Central,U.S. Senate,,Dan Eubanks,REP,1
+Forrest,Eatonville,U.S. Senate,,Dan Eubanks,REP,34
+Forrest,Eureka School,U.S. Senate,,Dan Eubanks,REP,0
+Forrest,Glendale,U.S. Senate,,Dan Eubanks,REP,9
+Forrest,Hardy Street,U.S. Senate,,Dan Eubanks,REP,23
+Forrest,Hattiesburg Cultural Center,U.S. Senate,,Dan Eubanks,REP,3
+Forrest,Highland Park,U.S. Senate,,Dan Eubanks,REP,7
+Forrest,Leeville,U.S. Senate,,Dan Eubanks,REP,60
+Forrest,Lillie Burney,U.S. Senate,,Dan Eubanks,REP,2
+Forrest,Maxie,U.S. Senate,,Dan Eubanks,REP,9
+Forrest,Mclaurin,U.S. Senate,,Dan Eubanks,REP,18
+Forrest,North Heights,U.S. Senate,,Dan Eubanks,REP,5
+Forrest,Petal Civic Center,U.S. Senate,,Dan Eubanks,REP,53
+Forrest,Petal Masonic,U.S. Senate,,Dan Eubanks,REP,32
+Forrest,Pinecrest,U.S. Senate,,Dan Eubanks,REP,8
+Forrest,Rawls Springs,U.S. Senate,,Dan Eubanks,REP,32
+Forrest,Richburg,U.S. Senate,,Dan Eubanks,REP,10
+Forrest,Rowan,U.S. Senate,,Dan Eubanks,REP,0
+Forrest,Sheeplo,U.S. Senate,,Dan Eubanks,REP,40
+Forrest,Sigler Center,U.S. Senate,,Dan Eubanks,REP,4
+Forrest,Sunrise,U.S. Senate,,Dan Eubanks,REP,74
+Forrest,Thames,U.S. Senate,,Dan Eubanks,REP,36
+Forrest,Timberton,U.S. Senate,,Dan Eubanks,REP,28
+Forrest,Train Depot,U.S. Senate,,Dan Eubanks,REP,1
+Forrest,West Hills,U.S. Senate,,Dan Eubanks,REP,26
+Forrest,West Petal,U.S. Senate,,Dan Eubanks,REP,11
+Forrest,Westside,U.S. Senate,,Dan Eubanks,REP,26
+Forrest,Bar Mac,U.S. Senate,,Ghannon Burton,REP,83
+Forrest,Brooklyn,U.S. Senate,,Ghannon Burton,REP,25
+Forrest,Camp,U.S. Senate,,Ghannon Burton,REP,12
+Forrest,Carnes,U.S. Senate,,Ghannon Burton,REP,32
+Forrest,Court Street,U.S. Senate,,Ghannon Burton,REP,6
+Forrest,Dantzler,U.S. Senate,,Ghannon Burton,REP,25
+Forrest,Dixie,U.S. Senate,,Ghannon Burton,REP,88
+Forrest,Dixie Pine Central,U.S. Senate,,Ghannon Burton,REP,8
+Forrest,Eatonville,U.S. Senate,,Ghannon Burton,REP,41
+Forrest,Eureka School,U.S. Senate,,Ghannon Burton,REP,0
+Forrest,Glendale,U.S. Senate,,Ghannon Burton,REP,17
+Forrest,Hardy Street,U.S. Senate,,Ghannon Burton,REP,19
+Forrest,Hattiesburg Cultural Center,U.S. Senate,,Ghannon Burton,REP,2
+Forrest,Highland Park,U.S. Senate,,Ghannon Burton,REP,8
+Forrest,Leeville,U.S. Senate,,Ghannon Burton,REP,52
+Forrest,Lillie Burney,U.S. Senate,,Ghannon Burton,REP,0
+Forrest,Maxie,U.S. Senate,,Ghannon Burton,REP,6
+Forrest,Mclaurin,U.S. Senate,,Ghannon Burton,REP,11
+Forrest,North Heights,U.S. Senate,,Ghannon Burton,REP,3
+Forrest,Petal Civic Center,U.S. Senate,,Ghannon Burton,REP,34
+Forrest,Petal Masonic,U.S. Senate,,Ghannon Burton,REP,24
+Forrest,Pinecrest,U.S. Senate,,Ghannon Burton,REP,12
+Forrest,Rawls Springs,U.S. Senate,,Ghannon Burton,REP,22
+Forrest,Richburg,U.S. Senate,,Ghannon Burton,REP,31
+Forrest,Rowan,U.S. Senate,,Ghannon Burton,REP,0
+Forrest,Sheeplo,U.S. Senate,,Ghannon Burton,REP,32
+Forrest,Sigler Center,U.S. Senate,,Ghannon Burton,REP,4
+Forrest,Sunrise,U.S. Senate,,Ghannon Burton,REP,72
+Forrest,Thames,U.S. Senate,,Ghannon Burton,REP,54
+Forrest,Timberton,U.S. Senate,,Ghannon Burton,REP,37
+Forrest,Train Depot,U.S. Senate,,Ghannon Burton,REP,0
+Forrest,West Hills,U.S. Senate,,Ghannon Burton,REP,25
+Forrest,West Petal,U.S. Senate,,Ghannon Burton,REP,13
+Forrest,Westside,U.S. Senate,,Ghannon Burton,REP,28
+Forrest,Bar Mac,U.S. Senate,,Roger F. Wicker,REP,362
+Forrest,Brooklyn,U.S. Senate,,Roger F. Wicker,REP,90
+Forrest,Camp,U.S. Senate,,Roger F. Wicker,REP,48
+Forrest,Carnes,U.S. Senate,,Roger F. Wicker,REP,202
+Forrest,Court Street,U.S. Senate,,Roger F. Wicker,REP,33
+Forrest,Dantzler,U.S. Senate,,Roger F. Wicker,REP,103
+Forrest,Dixie,U.S. Senate,,Roger F. Wicker,REP,267
+Forrest,Dixie Pine Central,U.S. Senate,,Roger F. Wicker,REP,41
+Forrest,Eatonville,U.S. Senate,,Roger F. Wicker,REP,152
+Forrest,Eureka School,U.S. Senate,,Roger F. Wicker,REP,2
+Forrest,Glendale,U.S. Senate,,Roger F. Wicker,REP,62
+Forrest,Hardy Street,U.S. Senate,,Roger F. Wicker,REP,102
+Forrest,Hattiesburg Cultural Center,U.S. Senate,,Roger F. Wicker,REP,8
+Forrest,Highland Park,U.S. Senate,,Roger F. Wicker,REP,25
+Forrest,Leeville,U.S. Senate,,Roger F. Wicker,REP,228
+Forrest,Lillie Burney,U.S. Senate,,Roger F. Wicker,REP,14
+Forrest,Maxie,U.S. Senate,,Roger F. Wicker,REP,45
+Forrest,Mclaurin,U.S. Senate,,Roger F. Wicker,REP,67
+Forrest,North Heights,U.S. Senate,,Roger F. Wicker,REP,28
+Forrest,Petal Civic Center,U.S. Senate,,Roger F. Wicker,REP,202
+Forrest,Petal Masonic,U.S. Senate,,Roger F. Wicker,REP,185
+Forrest,Pinecrest,U.S. Senate,,Roger F. Wicker,REP,68
+Forrest,Rawls Springs,U.S. Senate,,Roger F. Wicker,REP,117
+Forrest,Richburg,U.S. Senate,,Roger F. Wicker,REP,97
+Forrest,Rowan,U.S. Senate,,Roger F. Wicker,REP,0
+Forrest,Sheeplo,U.S. Senate,,Roger F. Wicker,REP,153
+Forrest,Sigler Center,U.S. Senate,,Roger F. Wicker,REP,26
+Forrest,Sunrise,U.S. Senate,,Roger F. Wicker,REP,346
+Forrest,Thames,U.S. Senate,,Roger F. Wicker,REP,302
+Forrest,Timberton,U.S. Senate,,Roger F. Wicker,REP,201
+Forrest,Train Depot,U.S. Senate,,Roger F. Wicker,REP,11
+Forrest,West Hills,U.S. Senate,,Roger F. Wicker,REP,92
+Forrest,West Petal,U.S. Senate,,Roger F. Wicker,REP,72
+Forrest,Westside,U.S. Senate,,Roger F. Wicker,REP,108

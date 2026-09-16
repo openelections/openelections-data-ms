@@ -53,14 +53,14 @@ Ronnie Crudup Jr.,State House,71,D,Hinds,Byram 1,1411
 Jim Hood,Governor,,D,Hinds,Byram 2,747
 Tate Reeves,Governor,,R,Hinds,Byram 2,578
 Bob Hickingbottom,Governor,,C,Hinds,Byram 2,2
-David R Singletary,Governor,,IND,Hinds,Byram 2,2
+David R Singletary,Governor,,IND,Hinds,Byram 2,6
 Delbert Hosemann,Lieutenant Governor,,R,Hinds,Byram 2,705
 Jay Hughes,Lieutenant Governor,,D,Hinds,Byram 2,631
 Johnny DuPree,Secretary of State,,D,Hinds,Byram 2,699
 Michael Watson,Secretary of State,,R,Hinds,Byram 2,631
 Jennifer Riley Collins,Attorney General,,D,Hinds,Byram 2,711
 Lynn Fitch,Attorney General,,R,Hinds,Byram 2,621
-Shad White,State Auditor,,R,Hinds,Byram 2,374
+Shad White,State Auditor,,R,Hinds,Byram 2,925
 Addie Lee Green,State Treasurer,,D,Hinds,Byram 2,667
 David McRae,State Treasurer,,R,Hinds,Byram 2,661
 Rickey L Cole,Commissioner of Agriculture & Commerce,,D,Hinds,Byram 2,665
@@ -76,10 +76,10 @@ David R Singletary,Governor,,IND,Hinds,Byram 3,7
 Delbert Hosemann,Lieutenant Governor,,R,Hinds,Byram 3,301
 Jay Hughes,Lieutenant Governor,,D,Hinds,Byram 3,718
 Johnny DuPree,Secretary of State,,D,Hinds,Byram 3,787
-Michael Watson,Secretary of State,,R,Hinds,Byram 3,631
+Michael Watson,Secretary of State,,R,Hinds,Byram 3,226
 Jennifer Riley Collins,Attorney General,,D,Hinds,Byram 3,788
 Lynn Fitch,Attorney General,,R,Hinds,Byram 3,232
-Shad White,State Auditor,,R,Hinds,Byram 3,925
+Shad White,State Auditor,,R,Hinds,Byram 3,601
 Addie Lee Green,State Treasurer,,D,Hinds,Byram 3,761
 David McRae,State Treasurer,,R,Hinds,Byram 3,256
 Rickey L Cole,Commissioner of Agriculture & Commerce,,D,Hinds,Byram 3,770
@@ -319,11 +319,11 @@ Jim Hood,Governor,,D,Hinds,Old Byram,661
 Tate Reeves,Governor,,R,Hinds,Old Byram,418
 Bob Hickingbottom,Governor,,C,Hinds,Old Byram,0
 David R Singletary,Governor,,IND,Hinds,Old Byram,8
-Delbert Hosemann,Lieutenant Governor,,R,Hinds,Old Byram,378
+Delbert Hosemann,Lieutenant Governor,,R,Hinds,Old Byram,508
 Jay Hughes,Lieutenant Governor,,D,Hinds,Old Byram,575
 Johnny DuPree,Secretary of State,,D,Hinds,Old Byram,624
 Michael Watson,Secretary of State,,R,Hinds,Old Byram,458
-Jennifer Riley Collins,Attorney General,,D,Hinds,Old Byram,1079
+Jennifer Riley Collins,Attorney General,,D,Hinds,Old Byram,621
 Lynn Fitch,Attorney General,,R,Hinds,Old Byram,462
 Shad White,State Auditor,,R,Hinds,Old Byram,776
 Addie Lee Green,State Treasurer,,D,Hinds,Old Byram,580
@@ -347,7 +347,7 @@ Shad White,State Auditor,,R,Hinds,Pinehaven,1153
 Addie Lee Green,State Treasurer,,D,Hinds,Pinehaven,728
 David McRae,State Treasurer,,R,Hinds,Pinehaven,876
 Rickey L Cole,Commissioner of Agriculture & Commerce,,D,Hinds,Pinehaven,774
-Andy Gipson,Commissioner of Agriculture & Commerce,,R,Hinds,Pinehaven,826
+Andy Gipson,Commissioner of Agriculture & Commerce,,R,Hinds,Pinehaven,833
 John Horhn,State Senate,26,D,Hinds,Pinehaven,1171
 Hillman Terome Frazler,State Senate,27,D,Hinds,Pinehaven,39
 Phillip Gunn,State House,56,R,Hinds,Pinehaven,764
@@ -1051,7 +1051,7 @@ Jay Hughes,Lieutenant Governor,,D,Hinds,Precinct 46,888
 Johnny DuPree,Secretary of State,,D,Hinds,Precinct 46,994
 Michael Watson,Secretary of State,,R,Hinds,Precinct 46,652
 Jennifer Riley Collins,Attorney General,,D,Hinds,Precinct 46,1021
-Lynn Fitch,Attorney General,,R,Hinds,Precinct 46,652
+Lynn Fitch,Attorney General,,R,Hinds,Precinct 46,626
 Shad White,State Auditor,,R,Hinds,Precinct 46,1077
 Addie Lee Green,State Treasurer,,D,Hinds,Precinct 46,928
 David McRae,State Treasurer,,R,Hinds,Precinct 46,711
@@ -1059,7 +1059,7 @@ Rickey L Cole,Commissioner of Agriculture & Commerce,,D,Hinds,Precinct 46,983
 Andy Gipson,Commissioner of Agriculture & Commerce,,R,Hinds,Precinct 46,652
 Walter Michel,State Senate,25,R,Hinds,Precinct 46,442
 Earl Scales,State Senate,25,D,Hinds,Precinct 46,318
-John Horhn,State Senate,26,D,Hinds,Precinct 46,753
+John Horhn,State Senate,26,D,Hinds,Precinct 46,723
 Bill Denny,State House,64,R,Hinds,Precinct 46,568
 Shanda M Yates,State House,64,D,Hinds,Precinct 46,1061
 Jim Hood,Governor,,D,Hinds,Precinct 47,231
@@ -1334,7 +1334,7 @@ David R Singletary,Governor,,IND,Hinds,Precinct 69,5
 Delbert Hosemann,Lieutenant Governor,,R,Hinds,Precinct 69,92
 Jay Hughes,Lieutenant Governor,,D,Hinds,Precinct 69,413
 Johnny DuPree,Secretary of State,,D,Hinds,Precinct 69,456
-Michael Watson,Secretary of State,,R,Hinds,Precinct 69,18
+Michael Watson,Secretary of State,,R,Hinds,Precinct 69,50
 Jennifer Riley Collins,Attorney General,,D,Hinds,Precinct 69,465
 Lynn Fitch,Attorney General,,R,Hinds,Precinct 69,45
 Shad White,State Auditor,,R,Hinds,Precinct 69,259
@@ -1342,8 +1342,8 @@ Addie Lee Green,State Treasurer,,D,Hinds,Precinct 69,450
 David McRae,State Treasurer,,R,Hinds,Precinct 69,54
 Rickey L Cole,Commissioner of Agriculture & Commerce,,D,Hinds,Precinct 69,451
 Andy Gipson,Commissioner of Agriculture & Commerce,,R,Hinds,Precinct 69,52
-Sollie B Norwood,State Senate,28,D,Hinds,Precinct 69,259
-Jarvis Dortch,State House,66,D,Hinds,Precinct 69,202
+Sollie B Norwood,State Senate,28,D,Hinds,Precinct 69,461
+Jarvis Dortch,State House,66,D,Hinds,Precinct 69,0
 Ronnie Crudup Jr.,State House,71,D,Hinds,Precinct 69,258
 Jim Hood,Governor,,D,Hinds,Precinct 70,188
 Tate Reeves,Governor,,R,Hinds,Precinct 70,7
@@ -1441,11 +1441,11 @@ Michael Watson,Secretary of State,,R,Hinds,Precinct 76,46
 Jennifer Riley Collins,Attorney General,,D,Hinds,Precinct 76,235
 Lynn Fitch,Attorney General,,R,Hinds,Precinct 76,47
 Shad White,State Auditor,,R,Hinds,Precinct 76,179
-Addie Lee Green,State Treasurer,,D,Hinds,Precinct 76,225
-David McRae,State Treasurer,,R,Hinds,Precinct 76,55
-Rickey L Cole,Commissioner of Agriculture & Commerce,,D,Hinds,Precinct 76,230
-Andy Gipson,Commissioner of Agriculture & Commerce,,R,Hinds,Precinct 76,50
-Sollie B Norwood,State Senate,28,D,Hinds,Precinct 76,243
+Addie Lee Green,State Treasurer,,D,Hinds,Precinct 76,400
+David McRae,State Treasurer,,R,Hinds,Precinct 76,107
+Rickey L Cole,Commissioner of Agriculture & Commerce,,D,Hinds,Precinct 76,402
+Andy Gipson,Commissioner of Agriculture & Commerce,,R,Hinds,Precinct 76,106
+Sollie B Norwood,State Senate,28,D,Hinds,Precinct 76,0
 Ronnie Crudup Jr.,State House,71,D,Hinds,Precinct 76,246
 Jim Hood,Governor,,D,Hinds,Precinct 77,424
 Tate Reeves,Governor,,R,Hinds,Precinct 77,81
@@ -1458,10 +1458,10 @@ Michael Watson,Secretary of State,,R,Hinds,Precinct 77,92
 Jennifer Riley Collins,Attorney General,,D,Hinds,Precinct 77,418
 Lynn Fitch,Attorney General,,R,Hinds,Precinct 77,92
 Shad White,State Auditor,,R,Hinds,Precinct 77,276
-Addie Lee Green,State Treasurer,,D,Hinds,Precinct 77,253
-David McRae,State Treasurer,,R,Hinds,Precinct 77,67
-Rickey L Cole,Commissioner of Agriculture & Commerce,,D,Hinds,Precinct 77,402
-Andy Gipson,Commissioner of Agriculture & Commerce,,R,Hinds,Precinct 77,106
+Addie Lee Green,State Treasurer,,D,Hinds,Precinct 77,417
+David McRae,State Treasurer,,R,Hinds,Precinct 77,326
+Rickey L Cole,Commissioner of Agriculture & Commerce,,D,Hinds,Precinct 77,427
+Andy Gipson,Commissioner of Agriculture & Commerce,,R,Hinds,Precinct 77,311
 David Blount,State Senate,29,D,Hinds,Precinct 77,473
 Jon Pond,State House,68,R,Hinds,Precinct 77,38
 Zakiya Summers,State House,68,D,Hinds,Precinct 77,152
@@ -1477,10 +1477,10 @@ Michael Watson,Secretary of State,,R,Hinds,Precinct 78,309
 Jennifer Riley Collins,Attorney General,,D,Hinds,Precinct 78,446
 Lynn Fitch,Attorney General,,R,Hinds,Precinct 78,296
 Shad White,State Auditor,,R,Hinds,Precinct 78,500
-Addie Lee Green,State Treasurer,,D,Hinds,Precinct 78,417
-David McRae,State Treasurer,,R,Hinds,Precinct 78,326
-Rickey L Cole,Commissioner of Agriculture & Commerce,,D,Hinds,Precinct 78,427
-Andy Gipson,Commissioner of Agriculture & Commerce,,R,Hinds,Precinct 78,311
+Addie Lee Green,State Treasurer,,D,Hinds,Precinct 78,655
+David McRae,State Treasurer,,R,Hinds,Precinct 78,150
+Rickey L Cole,Commissioner of Agriculture & Commerce,,D,Hinds,Precinct 78,669
+Andy Gipson,Commissioner of Agriculture & Commerce,,R,Hinds,Precinct 78,140
 Walter Michel,State Senate,25,R,Hinds,Precinct 78,317
 Earl Scales,State Senate,25,D,Hinds,Precinct 78,417
 Bill Denny,State House,64,R,Hinds,Precinct 78,278
@@ -1496,28 +1496,28 @@ Michael Watson,Secretary of State,,R,Hinds,Precinct 79,118
 Jennifer Riley Collins,Attorney General,,D,Hinds,Precinct 79,694
 Lynn Fitch,Attorney General,,R,Hinds,Precinct 79,122
 Shad White,State Auditor,,R,Hinds,Precinct 79,424
-Addie Lee Green,State Treasurer,,D,Hinds,Precinct 79,655
-David McRae,State Treasurer,,R,Hinds,Precinct 79,150
-Rickey L Cole,Commissioner of Agriculture & Commerce,,D,Hinds,Precinct 79,669
-Andy Gipson,Commissioner of Agriculture & Commerce,,R,Hinds,Precinct 79,140
-John Horhn,State Senate,26,D,Hinds,Precinct 79,741
+Addie Lee Green,State Treasurer,,D,Hinds,Precinct 79,743
+David McRae,State Treasurer,,R,Hinds,Precinct 79,48
+Rickey L Cole,Commissioner of Agriculture & Commerce,,D,Hinds,Precinct 79,750
+Andy Gipson,Commissioner of Agriculture & Commerce,,R,Hinds,Precinct 79,38
+John Horhn,State Senate,26,D,Hinds,Precinct 79,1147
 Chris Bell,State House,65,D,Hinds,Precinct 79,736
 Jim Hood,Governor,,D,Hinds,Precinct 80,769
 Tate Reeves,Governor,,R,Hinds,Precinct 80,20
 Bob Hickingbottom,Governor,,C,Hinds,Precinct 80,2
 David R Singletary,Governor,,IND,Hinds,Precinct 80,7
-Delbert Hosemann,Lieutenant Governor,,R,Hinds,Precinct 80,40
-Jay Hughes,Lieutenant Governor,,D,Hinds,Precinct 80,326
-Johnny DuPree,Secretary of State,,D,Hinds,Precinct 80,359
-Michael Watson,Secretary of State,,R,Hinds,Precinct 80,8
-Jennifer Riley Collins,Attorney General,,D,Hinds,Precinct 80,362
-Lynn Fitch,Attorney General,,R,Hinds,Precinct 80,8
+Delbert Hosemann,Lieutenant Governor,,R,Hinds,Precinct 80,102
+Jay Hughes,Lieutenant Governor,,D,Hinds,Precinct 80,686
+Johnny DuPree,Secretary of State,,D,Hinds,Precinct 80,762
+Michael Watson,Secretary of State,,R,Hinds,Precinct 80,28
+Jennifer Riley Collins,Attorney General,,D,Hinds,Precinct 80,765
+Lynn Fitch,Attorney General,,R,Hinds,Precinct 80,28
 Shad White,State Auditor,,R,Hinds,Precinct 80,328
-Addie Lee Green,State Treasurer,,D,Hinds,Precinct 80,743
-David McRae,State Treasurer,,R,Hinds,Precinct 80,48
-Rickey L Cole,Commissioner of Agriculture & Commerce,,D,Hinds,Precinct 80,750
-Andy Gipson,Commissioner of Agriculture & Commerce,,R,Hinds,Precinct 80,38
-John Horhn,State Senate,26,D,Hinds,Precinct 80,355
+Addie Lee Green,State Treasurer,,D,Hinds,Precinct 80,1092
+David McRae,State Treasurer,,R,Hinds,Precinct 80,87
+Rickey L Cole,Commissioner of Agriculture & Commerce,,D,Hinds,Precinct 80,1127
+Andy Gipson,Commissioner of Agriculture & Commerce,,R,Hinds,Precinct 80,55
+John Horhn,State Senate,26,D,Hinds,Precinct 80,0
 Chris Bell,State House,65,D,Hinds,Precinct 80,392
 Debra Gibbs,State House,72,D,Hinds,Precinct 80,352
 Jim Hood,Governor,,D,Hinds,Precinct 81,1172
@@ -1531,11 +1531,11 @@ Michael Watson,Secretary of State,,R,Hinds,Precinct 81,26
 Jennifer Riley Collins,Attorney General,,D,Hinds,Precinct 81,1159
 Lynn Fitch,Attorney General,,R,Hinds,Precinct 81,38
 Shad White,State Auditor,,R,Hinds,Precinct 81,561
-Addie Lee Green,State Treasurer,,D,Hinds,Precinct 81,1092
-David McRae,State Treasurer,,R,Hinds,Precinct 81,87
-Rickey L Cole,Commissioner of Agriculture & Commerce,,D,Hinds,Precinct 81,1127
-Andy Gipson,Commissioner of Agriculture & Commerce,,R,Hinds,Precinct 81,55
-John Horhn,State Senate,26,D,Hinds,Precinct 81,1147
+Addie Lee Green,State Treasurer,,D,Hinds,Precinct 81,629
+David McRae,State Treasurer,,R,Hinds,Precinct 81,38
+Rickey L Cole,Commissioner of Agriculture & Commerce,,D,Hinds,Precinct 81,649
+Andy Gipson,Commissioner of Agriculture & Commerce,,R,Hinds,Precinct 81,19
+John Horhn,State Senate,26,D,Hinds,Precinct 81,0
 Debra Gibbs,State House,72,D,Hinds,Precinct 81,1154
 Jim Hood,Governor,,D,Hinds,Precinct 82,663
 Tate Reeves,Governor,,R,Hinds,Precinct 82,7
@@ -1548,10 +1548,10 @@ Michael Watson,Secretary of State,,R,Hinds,Precinct 82,24
 Jennifer Riley Collins,Attorney General,,D,Hinds,Precinct 82,660
 Lynn Fitch,Attorney General,,R,Hinds,Precinct 82,12
 Shad White,State Auditor,,R,Hinds,Precinct 82,330
-Addie Lee Green,State Treasurer,,D,Hinds,Precinct 82,629
-David McRae,State Treasurer,,R,Hinds,Precinct 82,38
-Rickey L Cole,Commissioner of Agriculture & Commerce,,D,Hinds,Precinct 82,649
-Andy Gipson,Commissioner of Agriculture & Commerce,,R,Hinds,Precinct 82,19
+Addie Lee Green,State Treasurer,,D,Hinds,Precinct 82,0
+David McRae,State Treasurer,,R,Hinds,Precinct 82,0
+Rickey L Cole,Commissioner of Agriculture & Commerce,,D,Hinds,Precinct 82,0
+Andy Gipson,Commissioner of Agriculture & Commerce,,R,Hinds,Precinct 82,0
 John Horhn,State Senate,26,D,Hinds,Precinct 82,651
 Debra Gibbs,State House,72,D,Hinds,Precinct 82,656
 Jim Hood,Governor,,D,Hinds,Precinct 83,1419
@@ -1642,7 +1642,7 @@ Andy Gipson,Commissioner of Agriculture & Commerce,,R,Hinds,Precinct 88,43
 Sollie B Norwood,State Senate,28,D,Hinds,Precinct 88,609
 Jon Pond,State House,68,R,Hinds,Precinct 88,28
 Zakiya Summers,State House,68,D,Hinds,Precinct 88,603
-Jim Hood,Governor,,D,Hinds,Precinct 90,1041
+Jim Hood,Governor,,D,Hinds,Precinct 90,865
 Tate Reeves,Governor,,R,Hinds,Precinct 90,58
 Bob Hickingbottom,Governor,,C,Hinds,Precinct 90,2
 David R Singletary,Governor,,IND,Hinds,Precinct 90,7
@@ -1676,7 +1676,7 @@ Rickey L Cole,Commissioner of Agriculture & Commerce,,D,Hinds,Precinct 91,1013
 Andy Gipson,Commissioner of Agriculture & Commerce,,R,Hinds,Precinct 91,78
 David Blount,State Senate,29,D,Hinds,Precinct 91,1062
 Stephanie McKenzie Foster,State House,63,D,Hinds,Precinct 91,1003
-Jarvis Dortch,State House,66,D,Hinds,Precinct 91,46
+Jarvis Dortch,State House,66,D,Hinds,Precinct 91,0
 Jim Hood,Governor,,D,Hinds,Precinct 92,941
 Tate Reeves,Governor,,R,Hinds,Precinct 92,55
 Bob Hickingbottom,Governor,,C,Hinds,Precinct 92,3
@@ -1693,7 +1693,7 @@ David McRae,State Treasurer,,R,Hinds,Precinct 92,98
 Rickey L Cole,Commissioner of Agriculture & Commerce,,D,Hinds,Precinct 92,912
 Andy Gipson,Commissioner of Agriculture & Commerce,,R,Hinds,Precinct 92,85
 Sollie B Norwood,State Senate,28,D,Hinds,Precinct 92,949
-Jarvis Dortch,State House,66,D,Hinds,Precinct 92,938
+Jarvis Dortch,State House,66,D,Hinds,Precinct 92,46
 Jim Hood,Governor,,D,Hinds,Precinct 93,494
 Tate Reeves,Governor,,R,Hinds,Precinct 93,44
 Bob Hickingbottom,Governor,,C,Hinds,Precinct 93,3
@@ -1710,7 +1710,7 @@ David McRae,State Treasurer,,R,Hinds,Precinct 93,74
 Rickey L Cole,Commissioner of Agriculture & Commerce,,D,Hinds,Precinct 93,469
 Andy Gipson,Commissioner of Agriculture & Commerce,,R,Hinds,Precinct 93,69
 Sollie B Norwood,State Senate,28,D,Hinds,Precinct 93,496
-Jarvis Dortch,State House,66,D,Hinds,Precinct 93,496
+Jarvis Dortch,State House,66,D,Hinds,Precinct 93,938
 Jim Hood,Governor,,D,Hinds,Precinct 94,1337
 Tate Reeves,Governor,,R,Hinds,Precinct 94,113
 Bob Hickingbottom,Governor,,C,Hinds,Precinct 94,0
@@ -1727,7 +1727,7 @@ David McRae,State Treasurer,,R,Hinds,Precinct 94,163
 Rickey L Cole,Commissioner of Agriculture & Commerce,,D,Hinds,Precinct 94,1286
 Andy Gipson,Commissioner of Agriculture & Commerce,,R,Hinds,Precinct 94,150
 David Blount,State Senate,29,D,Hinds,Precinct 94,1369
-Jarvis Dortch,State House,66,D,Hinds,Precinct 94,1345
+Jarvis Dortch,State House,66,D,Hinds,Precinct 94,496
 Jim Hood,Governor,,D,Hinds,Precinct 96,801
 Tate Reeves,Governor,,R,Hinds,Precinct 96,138
 Bob Hickingbottom,Governor,,C,Hinds,Precinct 96,2
@@ -1758,8 +1758,8 @@ Lynn Fitch,Attorney General,,R,Hinds,Raymond 1,692
 Shad White,State Auditor,,R,Hinds,Raymond 1,903
 Addie Lee Green,State Treasurer,,D,Hinds,Raymond 1,453
 David McRae,State Treasurer,,R,Hinds,Raymond 1,757
-Rickey L Cole,Commissioner of Agriculture & Commerce,,D,Hinds,Raymond 1,95
-Andy Gipson,Commissioner of Agriculture & Commerce,,R,Hinds,Raymond 1,106
+Rickey L Cole,Commissioner of Agriculture & Commerce,,D,Hinds,Raymond 1,484
+Andy Gipson,Commissioner of Agriculture & Commerce,,R,Hinds,Raymond 1,720
 Albert Butler,State Senate,36,D,Hinds,Raymond 1,856
 Stephanie McKenzie Foster,State House,63,D,Hinds,Raymond 1,848
 Jim Hood,Governor,,D,Hinds,Raymond 2,607
@@ -1779,18 +1779,18 @@ Rickey L Cole,Commissioner of Agriculture & Commerce,,D,Hinds,Raymond 2,540
 Andy Gipson,Commissioner of Agriculture & Commerce,,R,Hinds,Raymond 2,716
 Albert Butler,State Senate,36,D,Hinds,Raymond 2,855
 Stephanie McKenzie Foster,State House,63,D,Hinds,Raymond 2,552
-Jarvis Dortch,State House,66,D,Hinds,Raymond 2,66
+Jarvis Dortch,State House,66,D,Hinds,Raymond 2,41
 Alyce Griffin Clarke,State House,69,D,Hinds,Raymond 2,266
-Jim Hood,Governor,,D,Hinds,Springridge,78
-Tate Reeves,Governor,,R,Hinds,Springridge,48
-Bob Hickingbottom,Governor,,C,Hinds,Springridge,0
-David R Singletary,Governor,,IND,Hinds,Springridge,0
+Jim Hood,Governor,,D,Hinds,Springridge,1178
+Tate Reeves,Governor,,R,Hinds,Springridge,546
+Bob Hickingbottom,Governor,,C,Hinds,Springridge,4
+David R Singletary,Governor,,IND,Hinds,Springridge,7
 Delbert Hosemann,Lieutenant Governor,,R,Hinds,Springridge,707
 Jay Hughes,Lieutenant Governor,,D,Hinds,Springridge,1023
 Johnny DuPree,Secretary of State,,D,Hinds,Springridge,1109
 Michael Watson,Secretary of State,,R,Hinds,Springridge,613
 Jennifer Riley Collins,Attorney General,,D,Hinds,Springridge,1134
-Lynn Fitch,Attorney General,,R,Hinds,Springridge,47
+Lynn Fitch,Attorney General,,R,Hinds,Springridge,595
 Shad White,State Auditor,,R,Hinds,Springridge,1060
 Addie Lee Green,State Treasurer,,D,Hinds,Springridge,1050
 David McRae,State Treasurer,,R,Hinds,Springridge,658
@@ -1799,7 +1799,7 @@ Andy Gipson,Commissioner of Agriculture & Commerce,,R,Hinds,Springridge,641
 David Blount,State Senate,29,D,Hinds,Springridge,1352
 Albert Butler,State Senate,36,D,Hinds,Springridge,55
 Stephanie McKenzie Foster,State House,63,D,Hinds,Springridge,874
-Jarvis Dortch,State House,66,D,Hinds,Springridge,456
+Jarvis Dortch,State House,66,D,Hinds,Springridge,345
 Alyce Griffin Clarke,State House,69,D,Hinds,Springridge,148
 Jim Hood,Governor,,D,Hinds,St Thomas,228
 Tate Reeves,Governor,,R,Hinds,St Thomas,7
@@ -2052,7 +2052,7 @@ Robert E. Amos,Commissioner of Insurance,,D,Hinds,Precinct 62,567
 Mike Chaney,Commissioner of Insurance,,R,Hinds,Precinct 62,39
 Robert E. Amos,Commissioner of Insurance,,D,Hinds,Precinct 63,198
 Mike Chaney,Commissioner of Insurance,,R,Hinds,Precinct 63,12
-Robert E. Amos,Commissioner of Insurance,,D,Hinds,Precinct 64,183
+Robert E. Amos,Commissioner of Insurance,,D,Hinds,Precinct 64,184
 Mike Chaney,Commissioner of Insurance,,R,Hinds,Precinct 64,12
 Robert E. Amos,Commissioner of Insurance,,D,Hinds,Precinct 68,833
 Mike Chaney,Commissioner of Insurance,,R,Hinds,Precinct 68,74
@@ -2068,19 +2068,19 @@ Robert E. Amos,Commissioner of Insurance,,D,Hinds,Precinct 73,248
 Mike Chaney,Commissioner of Insurance,,R,Hinds,Precinct 73,28
 Robert E. Amos,Commissioner of Insurance,,D,Hinds,Precinct 74,255
 Mike Chaney,Commissioner of Insurance,,R,Hinds,Precinct 74,39
-Robert E. Amos,Commissioner of Insurance,,D,Hinds,Precinct 76,228
+Robert E. Amos,Commissioner of Insurance,,D,Hinds,Precinct 76,406
 Mike Chaney,Commissioner of Insurance,,R,Hinds,Precinct 76,54
-Robert E. Amos,Commissioner of Insurance,,D,Hinds,Precinct 77,406
+Robert E. Amos,Commissioner of Insurance,,D,Hinds,Precinct 77,410
 Mike Chaney,Commissioner of Insurance,,R,Hinds,Precinct 77,102
-Robert E. Amos,Commissioner of Insurance,,D,Hinds,Precinct 78,410
+Robert E. Amos,Commissioner of Insurance,,D,Hinds,Precinct 78,652
 Mike Chaney,Commissioner of Insurance,,R,Hinds,Precinct 78,333
-Robert E. Amos,Commissioner of Insurance,,D,Hinds,Precinct 79,652
+Robert E. Amos,Commissioner of Insurance,,D,Hinds,Precinct 79,754
 Mike Chaney,Commissioner of Insurance,,R,Hinds,Precinct 79,156
-Robert E. Amos,Commissioner of Insurance,,D,Hinds,Precinct 80,754
+Robert E. Amos,Commissioner of Insurance,,D,Hinds,Precinct 80,1103
 Mike Chaney,Commissioner of Insurance,,R,Hinds,Precinct 80,34
-Robert E. Amos,Commissioner of Insurance,,D,Hinds,Precinct 81,1103
+Robert E. Amos,Commissioner of Insurance,,D,Hinds,Precinct 81,625
 Mike Chaney,Commissioner of Insurance,,R,Hinds,Precinct 81,83
-Robert E. Amos,Commissioner of Insurance,,D,Hinds,Precinct 82,625
+Robert E. Amos,Commissioner of Insurance,,D,Hinds,Precinct 82,0
 Mike Chaney,Commissioner of Insurance,,R,Hinds,Precinct 82,42
 Robert E. Amos,Commissioner of Insurance,,D,Hinds,Precinct 83,1364
 Mike Chaney,Commissioner of Insurance,,R,Hinds,Precinct 83,72
@@ -2122,3 +2122,13 @@ Robert E. Amos,Commissioner of Insurance,,D,Hinds,Utica 1,220
 Mike Chaney,Commissioner of Insurance,,R,Hinds,Utica 1,215
 Robert E. Amos,Commissioner of Insurance,,D,Hinds,Utica 2,357
 Mike Chaney,Commissioner of Insurance,,R,Hinds,Utica 2,77
+Addie Lee Green,State Treasurer,,Democrat,Hinds,75,225
+David McRae,State Treasurer,,Republican,Hinds,75,55
+Rickey L. Cole,Commissioner of Agriculture & Commerce,,Democrat,Hinds,75,230
+Andy Gipson,Commissioner of Agriculture & Commerce,,Republican,Hinds,75,50
+Robert E. Amos,Commissioner of Insurance,,Democrat,Hinds,75,228
+John Horhn,State Senate,26,Democrat,Hinds,Precinct 77,741
+John Horhn,State Senate,26,Democrat,Hinds,Precinct 78,763
+Sollie B. Norwood,State Senate,28,Democrat,Hinds,75,243
+Jarvis Dortch,State House,66,Democrat,Hinds,Precinct 70,202
+Jarvis Dortch,State House,66,Democrat,Hinds,Precinct 96,1345
