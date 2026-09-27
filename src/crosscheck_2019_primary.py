@@ -13,7 +13,7 @@ import re
 import sys
 from collections import defaultdict
 
-COUNTIES_DIR = os.path.join(os.path.dirname(__file__), "2019", "counties")
+COUNTIES_DIR = os.path.join(os.path.dirname(os.path.dirname(os.path.abspath(__file__))), "2019", "counties")
 
 # Precinct files don't cover these, or name them differently.
 PRECINCT_OFFICE_MAP = {

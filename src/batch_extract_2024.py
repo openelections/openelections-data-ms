@@ -55,7 +55,7 @@ from verify_2024 import load_official_totals, verify_county
 # added cost/latency for zero observed benefit in this pipeline.
 # Note: qwen3.5:397b-cloud is the primary OCR model
 MODEL_LADDER = [
-    "qwen3.5:397b-cloud", "gemini-3-flash-preview:cloud", "claude-sonnet-4.6",
+    "qwen3.5:397b-cloud", "gemini-3-flash-preview:cloud", "minimax-m3:cloud", "claude-sonnet-4.6",
 ]
 
 # County filename overrides (filename without "County" -> canonical name)
@@ -71,6 +71,10 @@ MANUAL_FILE_COUNTY = {
     "2023%20Democratic%20Primary%20Certified%20Results.pdf": None,
     "2023%20Democratic%20Primary%20Official%20Results%202.pdf": None,
     "2023_Democratic_Primary_Official_Results_2.pdf": None,
+    # Ignore the statewide summary PDF and a duplicate-download artifact
+    # alongside the 2023 GOP primary county PDFs
+    "2023%20Republican%20Primary%20Official%20Results.pdf": None,
+    "Smith(2).pdf": None,
 }
 
 DATE = "20241105"
