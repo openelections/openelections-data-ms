@@ -121,9 +121,19 @@ own 2016 precinct registry (`MS 2016 HD by precinct/Marion Co - no splits.xlsx`:
 - `src/verifier.py`: only the pre-existing consolidated-file complaints
   ("county doesn't match filename", office-name spellings) remain, same as before.
 
+### 9. Jackson County 2023, District Attorney 19 — FIX APPLIED (issue #208)
+The consolidated file had `Jackson,Grace Baptist Church,District Attorney,19,
+Angel Myers McIlrath,REP` **twice**: 963 and 1142.
+Source (Jackson County 2023 Official Recapitulation, p.5, chunk
+Big Point..Gulf Park Estates; county TOTAL on p.5 and p.7): officially
+**Gautier South = 963, Grace Baptist Church = 1142**, county TOTAL 22978. There was no
+Gautier South DA row in the file at all — the "Grace 963" row was Gautier South's result
+under the wrong label (every other cell of the DA row's chunk matches ours bit-for-bit).
+Fix: relabeled the "Grace … 963" row to Gautier South (total-preserving). Post-fix:
+no duplicate result keys remain in the file, and the Jackson McIlrath sum equals
+the printed county TOTAL 22978.
+
 ## Spotted in passing, not changed (out of scope)
-- Pre-existing duplicate rows for `Jackson,Grace Baptist Church,District Attorney,19,
-  Angel Myers McIlrath,REP` (963 and 1142) in the 2023 consolidated file.
 - The 2022 consolidated file still lists only U.S. House races (its per-county county
   CSVs are the same); if the source recaps' legislative rows are wanted downstream,
   that's a separate import.
