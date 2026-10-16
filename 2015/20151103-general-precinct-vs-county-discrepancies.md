@@ -47,9 +47,11 @@ precinct (Bowie 139/79/2 ✓ …) and the TOTAL exactly. County file: 4827/1677/
   The county file has the official attribution (Bryant 3601/Gray 3547).
 - **Lafayette**: same reversal (official Oxford 1: Gray 514/Bryant 952; ours Bryant
   514/Gray 992 — also with digit drift, 952 vs 992). County file attribution correct.
-- **Covington**: per-precinct transposition, and the county file is ALSO transposed
-  (its "Rep Phil Bryant 4471" is officially Gray's total; per precinct official Collins:
-  Gray 402/Bryant 638; ours Bryant 402/Gray 658 — possibly a 638→658 drift as well).
+- **Covington**: per-precinct transposition only. A full-resolution read of the
+  official recap (p.2) settles it: Collins = Gray 402 / Bryant 658 / O'Hara 16, and
+  the officially-attributed county totals are Bryant 4471 / Gray 1838 — as the
+  county file has them. Only the per-county precinct rows were transposed
+  (ours Bryant 402 / Gray 658), fixed by the label swap; no 638-vs-658 drift exists.
 - **Leflore**: State Auditor Pickering/Pritchett rows transposed (ours Pickering 3932
   vs county file 2822; officially Pritchett carries the larger number in this county).
 
