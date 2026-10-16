@@ -31,7 +31,7 @@ Converted CSVs of Mississippi election results.
 | 2023  | [done](https://github.com/openelections/openelections-data-ms/blob/master/2023/20231107__ms__general__county.csv) | not started |
 | 2022  | not started | not started |
 | 2020  | [done](https://github.com/openelections/openelections-data-ms/blob/master/2020/20201103__ms__general__county.csv) | [done](https://github.com/openelections/openelections-data-ms/blob/master/2020/20200310__ms__primary__county.csv) |
-| 2019  | [done](https://github.com/openelections/openelections-data-ms/blob/master/2019/20191105__ms__general__county.csv) | not started |
+| 2019  | [done](https://github.com/openelections/openelections-data-ms/blob/master/2019/20191105__ms__general__county.csv) | [done](https://github.com/openelections/openelections-data-ms/blob/master/2019/20190806__ms__democratic__primary__county.csv) ([Republican](https://github.com/openelections/openelections-data-ms/blob/master/2019/20190806__ms__republican__primary__county.csv)) |
 | 2018  | not started | done |
 | 2016  | [done](https://github.com/openelections/openelections-data-ms/blob/master/2016/20161108__ms__general.csv)  |  [done](https://github.com/openelections/openelections-data-ms/blob/master/2016/20160308__ms__primary.csv) |
 | 2015  |  [done](https://github.com/openelections/openelections-data-ms/blob/master/2015/20151103__ms__general.csv) | [done](https://github.com/openelections/openelections-data-ms/blob/master/2015/20150804__ms__primary.csv) |

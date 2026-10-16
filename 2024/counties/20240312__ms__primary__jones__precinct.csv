@@ -1,0 +1,483 @@
+county,precinct,office,district,candidate,party,votes
+Jones,Antioch,President,,Joseph R. Biden Jr.,DEM,0
+Jones,Big Creek,President,,Joseph R. Biden Jr.,DEM,1
+Jones,Blackwell,President,,Joseph R. Biden Jr.,DEM,0
+Jones,Calhoun,President,,Joseph R. Biden Jr.,DEM,13
+Jones,Centerville,President,,Joseph R. Biden Jr.,DEM,0
+Jones,Currie,President,,Joseph R. Biden Jr.,DEM,57
+Jones,Erata,President,,Joseph R. Biden Jr.,DEM,65
+Jones,First Assembly of God,President,,Joseph R. Biden Jr.,DEM,75
+Jones,GLADE,President,,Joseph R. Biden Jr.,DEM,3
+Jones,George Harrison,President,,Joseph R. Biden Jr.,DEM,25
+Jones,Gitano,President,,Joseph R. Biden Jr.,DEM,6
+Jones,Hebron,President,,Joseph R. Biden Jr.,DEM,46
+Jones,Johnson,President,,Joseph R. Biden Jr.,DEM,1
+Jones,L T Ellis Center,President,,Joseph R. Biden Jr.,DEM,211
+Jones,Landrum,President,,Joseph R. Biden Jr.,DEM,2
+Jones,Magnolia Center,President,,Joseph R. Biden Jr.,DEM,147
+Jones,Matthews,President,,Joseph R. Biden Jr.,DEM,4
+Jones,Merchants Park,President,,Joseph R. Biden Jr.,DEM,4
+Jones,Moselle,President,,Joseph R. Biden Jr.,DEM,41
+Jones,Myrick,President,,Joseph R. Biden Jr.,DEM,5
+Jones,North Laurel,President,,Joseph R. Biden Jr.,DEM,88
+Jones,OAK PARK SCHOOL,President,,Joseph R. Biden Jr.,DEM,87
+Jones,Ovett,President,,Joseph R. Biden Jr.,DEM,5
+Jones,Parkview Baptist Church,President,,Joseph R. Biden Jr.,DEM,25
+Jones,Pine Grove,President,,Joseph R. Biden Jr.,DEM,1
+Jones,Pleasant Ridge,President,,Joseph R. Biden Jr.,DEM,5
+Jones,Powers,President,,Joseph R. Biden Jr.,DEM,26
+Jones,Rainey,President,,Joseph R. Biden Jr.,DEM,7
+Jones,Rustin,President,,Joseph R. Biden Jr.,DEM,2
+Jones,SHARON,President,,Joseph R. Biden Jr.,DEM,55
+Jones,Sand Hill,President,,Joseph R. Biden Jr.,DEM,0
+Jones,Sandersville,President,,Joseph R. Biden Jr.,DEM,20
+Jones,Shady Grove,President,,Joseph R. Biden Jr.,DEM,51
+Jones,Shelton,President,,Joseph R. Biden Jr.,DEM,49
+Jones,Soso,President,,Joseph R. Biden Jr.,DEM,54
+Jones,Springhill/Mauldin,President,,Joseph R. Biden Jr.,DEM,25
+Jones,Tuckers,President,,Joseph R. Biden Jr.,DEM,1
+Jones,Union,President,,Joseph R. Biden Jr.,DEM,0
+Jones,Antioch,U.S. House,4,Craig Elliot Raybon,DEM,0
+Jones,Big Creek,U.S. House,4,Craig Elliot Raybon,DEM,1
+Jones,Blackwell,U.S. House,4,Craig Elliot Raybon,DEM,0
+Jones,Calhoun,U.S. House,4,Craig Elliot Raybon,DEM,13
+Jones,Centerville,U.S. House,4,Craig Elliot Raybon,DEM,0
+Jones,Currie,U.S. House,4,Craig Elliot Raybon,DEM,43
+Jones,Erata,U.S. House,4,Craig Elliot Raybon,DEM,60
+Jones,First Assembly of God,U.S. House,4,Craig Elliot Raybon,DEM,71
+Jones,GLADE,U.S. House,4,Craig Elliot Raybon,DEM,2
+Jones,George Harrison,U.S. House,4,Craig Elliot Raybon,DEM,24
+Jones,Gitano,U.S. House,4,Craig Elliot Raybon,DEM,5
+Jones,Hebron,U.S. House,4,Craig Elliot Raybon,DEM,41
+Jones,Johnson,U.S. House,4,Craig Elliot Raybon,DEM,1
+Jones,L T Ellis Center,U.S. House,4,Craig Elliot Raybon,DEM,176
+Jones,Landrum,U.S. House,4,Craig Elliot Raybon,DEM,2
+Jones,Magnolia Center,U.S. House,4,Craig Elliot Raybon,DEM,135
+Jones,Merchants Park,U.S. House,4,Craig Elliot Raybon,DEM,4
+Jones,Moselle,U.S. House,4,Craig Elliot Raybon,DEM,37
+Jones,Myrick,U.S. House,4,Craig Elliot Raybon,DEM,5
+Jones,North Laurel,U.S. House,4,Craig Elliot Raybon,DEM,82
+Jones,OAK PARK SCHOOL,U.S. House,4,Craig Elliot Raybon,DEM,73
+Jones,Ovett,U.S. House,4,Craig Elliot Raybon,DEM,5
+Jones,Parkview Baptist Church,U.S. House,4,Craig Elliot Raybon,DEM,26
+Jones,Pine Grove,U.S. House,4,Craig Elliot Raybon,DEM,1
+Jones,Pleasant Ridge,U.S. House,4,Craig Elliot Raybon,DEM,5
+Jones,Powers,U.S. House,4,Craig Elliot Raybon,DEM,22
+Jones,Rainey,U.S. House,4,Craig Elliot Raybon,DEM,8
+Jones,Rustin,U.S. House,4,Craig Elliot Raybon,DEM,2
+Jones,Sand Hill,U.S. House,4,Craig Elliot Raybon,DEM,0
+Jones,Shelton,U.S. House,4,Craig Elliot Raybon,DEM,47
+Jones,Soso,U.S. House,4,Craig Elliot Raybon,DEM,50
+Jones,Springhill/Mauldin,U.S. House,4,Craig Elliot Raybon,DEM,25
+Jones,Tuckers,U.S. House,4,Craig Elliot Raybon,DEM,1
+Jones,Union,U.S. House,4,Craig Elliot Raybon,DEM,0
+Jones,Antioch,U.S. Senate,,Ty Pinkins,DEM,0
+Jones,Big Creek,U.S. Senate,,Ty Pinkins,DEM,1
+Jones,Blackwell,U.S. Senate,,Ty Pinkins,DEM,0
+Jones,Calhoun,U.S. Senate,,Ty Pinkins,DEM,13
+Jones,Centerville,U.S. Senate,,Ty Pinkins,DEM,0
+Jones,Currie,U.S. Senate,,Ty Pinkins,DEM,45
+Jones,Erata,U.S. Senate,,Ty Pinkins,DEM,60
+Jones,First Assembly of God,U.S. Senate,,Ty Pinkins,DEM,71
+Jones,GLADE,U.S. Senate,,Ty Pinkins,DEM,2
+Jones,George Harrison,U.S. Senate,,Ty Pinkins,DEM,24
+Jones,Gitano,U.S. Senate,,Ty Pinkins,DEM,6
+Jones,Hebron,U.S. Senate,,Ty Pinkins,DEM,41
+Jones,Johnson,U.S. Senate,,Ty Pinkins,DEM,1
+Jones,L T Ellis Center,U.S. Senate,,Ty Pinkins,DEM,175
+Jones,Landrum,U.S. Senate,,Ty Pinkins,DEM,2
+Jones,Magnolia Center,U.S. Senate,,Ty Pinkins,DEM,136
+Jones,Matthews,U.S. Senate,,Ty Pinkins,DEM,4
+Jones,Merchants Park,U.S. Senate,,Ty Pinkins,DEM,4
+Jones,Moselle,U.S. Senate,,Ty Pinkins,DEM,38
+Jones,Myrick,U.S. Senate,,Ty Pinkins,DEM,5
+Jones,North Laurel,U.S. Senate,,Ty Pinkins,DEM,81
+Jones,OAK PARK SCHOOL,U.S. Senate,,Ty Pinkins,DEM,73
+Jones,Ovett,U.S. Senate,,Ty Pinkins,DEM,5
+Jones,Parkview Baptist Church,U.S. Senate,,Ty Pinkins,DEM,26
+Jones,Pine Grove,U.S. Senate,,Ty Pinkins,DEM,1
+Jones,Pleasant Ridge,U.S. Senate,,Ty Pinkins,DEM,5
+Jones,Powers,U.S. Senate,,Ty Pinkins,DEM,21
+Jones,Rainey,U.S. Senate,,Ty Pinkins,DEM,7
+Jones,Rustin,U.S. Senate,,Ty Pinkins,DEM,2
+Jones,SHARON,U.S. Senate,,Ty Pinkins,DEM,48
+Jones,Sand Hill,U.S. Senate,,Ty Pinkins,DEM,0
+Jones,Sandersville,U.S. Senate,,Ty Pinkins,DEM,19
+Jones,Shady Grove,U.S. Senate,,Ty Pinkins,DEM,47
+Jones,Shelton,U.S. Senate,,Ty Pinkins,DEM,43
+Jones,Soso,U.S. Senate,,Ty Pinkins,DEM,51
+Jones,Springhill/Mauldin,U.S. Senate,,Ty Pinkins,DEM,25
+Jones,Tuckers,U.S. Senate,,Ty Pinkins,DEM,1
+Jones,Union,U.S. Senate,,Ty Pinkins,DEM,0
+Jones,Antioch,President,,Donald J. Trump,REP,125
+Jones,Big Creek,President,,Donald J. Trump,REP,167
+Jones,Blackwell,President,,Donald J. Trump,REP,126
+Jones,Calhoun,President,,Donald J. Trump,REP,505
+Jones,Centerville,President,,Donald J. Trump,REP,59
+Jones,Currie,President,,Donald J. Trump,REP,6
+Jones,Erata,President,,Donald J. Trump,REP,69
+Jones,First Assembly of God,President,,Donald J. Trump,REP,131
+Jones,George Harrison,President,,Donald J. Trump,REP,283
+Jones,Gitano,President,,Donald J. Trump,REP,66
+Jones,Glade,President,,Donald J. Trump,REP,272
+Jones,Hebron,President,,Donald J. Trump,REP,84
+Jones,Johnson,President,,Donald J. Trump,REP,192
+Jones,LT ELLIS CENTER,President,,Donald J. Trump,REP,9
+Jones,Landrum,President,,Donald J. Trump,REP,116
+Jones,Magnolia Center,President,,Donald J. Trump,REP,77
+Jones,Matthews,President,,Donald J. Trump,REP,136
+Jones,Merchants Park,President,,Donald J. Trump,REP,253
+Jones,Moselle,President,,Donald J. Trump,REP,247
+Jones,Myrick,President,,Donald J. Trump,REP,313
+Jones,North Laurel,President,,Donald J. Trump,REP,438
+Jones,OVET,President,,Donald J. Trump,REP,225
+Jones,Oak Park School,President,,Donald J. Trump,REP,1
+Jones,Parkview Baptist Church,President,,Donald J. Trump,REP,109
+Jones,Pine Grove,President,,Donald J. Trump,REP,230
+Jones,Pleasant Ridge,President,,Donald J. Trump,REP,221
+Jones,Powers,President,,Donald J. Trump,REP,258
+Jones,Rainey,President,,Donald J. Trump,REP,323
+Jones,Rustin,President,,Donald J. Trump,REP,167
+Jones,SPRINGILL/MAULDIN,President,,Donald J. Trump,REP,338
+Jones,Sand Hill,President,,Donald J. Trump,REP,87
+Jones,Sandersville,President,,Donald J. Trump,REP,147
+Jones,Shady Grove,President,,Donald J. Trump,REP,413
+Jones,Sharon,President,,Donald J. Trump,REP,363
+Jones,Shelton,President,,Donald J. Trump,REP,146
+Jones,Soso,President,,Donald J. Trump,REP,193
+Jones,Tuckers,President,,Donald J. Trump,REP,244
+Jones,Union,President,,Donald J. Trump,REP,248
+Jones,Antioch,President,,Nikki R. Haley,REP,2
+Jones,Big Creek,President,,Nikki R. Haley,REP,4
+Jones,Blackwell,President,,Nikki R. Haley,REP,1
+Jones,Calhoun,President,,Nikki R. Haley,REP,10
+Jones,Centerville,President,,Nikki R. Haley,REP,0
+Jones,Currie,President,,Nikki R. Haley,REP,0
+Jones,Erata,President,,Nikki R. Haley,REP,3
+Jones,First Assembly of God,President,,Nikki R. Haley,REP,2
+Jones,George Harrison,President,,Nikki R. Haley,REP,9
+Jones,Gitano,President,,Nikki R. Haley,REP,0
+Jones,Glade,President,,Nikki R. Haley,REP,6
+Jones,Hebron,President,,Nikki R. Haley,REP,1
+Jones,Johnson,President,,Nikki R. Haley,REP,1
+Jones,LT ELLIS CENTER,President,,Nikki R. Haley,REP,0
+Jones,Landrum,President,,Nikki R. Haley,REP,2
+Jones,Magnolia Center,President,,Nikki R. Haley,REP,4
+Jones,Matthews,President,,Nikki R. Haley,REP,2
+Jones,Merchants Park,President,,Nikki R. Haley,REP,13
+Jones,Moselle,President,,Nikki R. Haley,REP,8
+Jones,Myrick,President,,Nikki R. Haley,REP,2
+Jones,North Laurel,President,,Nikki R. Haley,REP,35
+Jones,OVET,President,,Nikki R. Haley,REP,2
+Jones,Oak Park School,President,,Nikki R. Haley,REP,0
+Jones,Parkview Baptist Church,President,,Nikki R. Haley,REP,14
+Jones,Pine Grove,President,,Nikki R. Haley,REP,4
+Jones,Pleasant Ridge,President,,Nikki R. Haley,REP,3
+Jones,Powers,President,,Nikki R. Haley,REP,6
+Jones,Rainey,President,,Nikki R. Haley,REP,6
+Jones,Rustin,President,,Nikki R. Haley,REP,2
+Jones,SPRINGILL/MAULDIN,President,,Nikki R. Haley,REP,14
+Jones,Sand Hill,President,,Nikki R. Haley,REP,0
+Jones,Sandersville,President,,Nikki R. Haley,REP,6
+Jones,Shady Grove,President,,Nikki R. Haley,REP,9
+Jones,Sharon,President,,Nikki R. Haley,REP,7
+Jones,Shelton,President,,Nikki R. Haley,REP,3
+Jones,Soso,President,,Nikki R. Haley,REP,4
+Jones,Tuckers,President,,Nikki R. Haley,REP,4
+Jones,Union,President,,Nikki R. Haley,REP,2
+Jones,Antioch,President,,Ron DeSantis,REP,3
+Jones,Big Creek,President,,Ron DeSantis,REP,2
+Jones,Blackwell,President,,Ron DeSantis,REP,2
+Jones,Calhoun,President,,Ron DeSantis,REP,6
+Jones,Centerville,President,,Ron DeSantis,REP,1
+Jones,Currie,President,,Ron DeSantis,REP,0
+Jones,Erata,President,,Ron DeSantis,REP,1
+Jones,First Assembly of God,President,,Ron DeSantis,REP,1
+Jones,George Harrison,President,,Ron DeSantis,REP,5
+Jones,Gitano,President,,Ron DeSantis,REP,2
+Jones,Glade,President,,Ron DeSantis,REP,1
+Jones,Hebron,President,,Ron DeSantis,REP,0
+Jones,Johnson,President,,Ron DeSantis,REP,3
+Jones,LT ELLIS CENTER,President,,Ron DeSantis,REP,1
+Jones,Landrum,President,,Ron DeSantis,REP,1
+Jones,Magnolia Center,President,,Ron DeSantis,REP,5
+Jones,Matthews,President,,Ron DeSantis,REP,2
+Jones,Merchants Park,President,,Ron DeSantis,REP,14
+Jones,Moselle,President,,Ron DeSantis,REP,3
+Jones,Myrick,President,,Ron DeSantis,REP,3
+Jones,North Laurel,President,,Ron DeSantis,REP,10
+Jones,OVET,President,,Ron DeSantis,REP,2
+Jones,Oak Park School,President,,Ron DeSantis,REP,0
+Jones,Parkview Baptist Church,President,,Ron DeSantis,REP,5
+Jones,Pine Grove,President,,Ron DeSantis,REP,3
+Jones,Pleasant Ridge,President,,Ron DeSantis,REP,4
+Jones,Powers,President,,Ron DeSantis,REP,2
+Jones,Rainey,President,,Ron DeSantis,REP,2
+Jones,Rustin,President,,Ron DeSantis,REP,0
+Jones,SPRINGILL/MAULDIN,President,,Ron DeSantis,REP,8
+Jones,Sand Hill,President,,Ron DeSantis,REP,1
+Jones,Sandersville,President,,Ron DeSantis,REP,3
+Jones,Shady Grove,President,,Ron DeSantis,REP,8
+Jones,Sharon,President,,Ron DeSantis,REP,3
+Jones,Shelton,President,,Ron DeSantis,REP,0
+Jones,Soso,President,,Ron DeSantis,REP,4
+Jones,Tuckers,President,,Ron DeSantis,REP,6
+Jones,Union,President,,Ron DeSantis,REP,3
+Jones,Antioch,President,,Vivek Ramaswamy,REP,1
+Jones,Big Creek,President,,Vivek Ramaswamy,REP,0
+Jones,Blackwell,President,,Vivek Ramaswamy,REP,0
+Jones,Calhoun,President,,Vivek Ramaswamy,REP,2
+Jones,Centerville,President,,Vivek Ramaswamy,REP,0
+Jones,Currie,President,,Vivek Ramaswamy,REP,0
+Jones,Erata,President,,Vivek Ramaswamy,REP,2
+Jones,First Assembly of God,President,,Vivek Ramaswamy,REP,1
+Jones,George Harrison,President,,Vivek Ramaswamy,REP,1
+Jones,Gitano,President,,Vivek Ramaswamy,REP,0
+Jones,Glade,President,,Vivek Ramaswamy,REP,1
+Jones,Hebron,President,,Vivek Ramaswamy,REP,0
+Jones,Johnson,President,,Vivek Ramaswamy,REP,0
+Jones,LT ELLIS CENTER,President,,Vivek Ramaswamy,REP,2
+Jones,Landrum,President,,Vivek Ramaswamy,REP,0
+Jones,Magnolia Center,President,,Vivek Ramaswamy,REP,0
+Jones,Matthews,President,,Vivek Ramaswamy,REP,1
+Jones,Merchants Park,President,,Vivek Ramaswamy,REP,0
+Jones,Moselle,President,,Vivek Ramaswamy,REP,2
+Jones,Myrick,President,,Vivek Ramaswamy,REP,3
+Jones,North Laurel,President,,Vivek Ramaswamy,REP,1
+Jones,OVET,President,,Vivek Ramaswamy,REP,0
+Jones,Oak Park School,President,,Vivek Ramaswamy,REP,0
+Jones,Parkview Baptist Church,President,,Vivek Ramaswamy,REP,3
+Jones,Pine Grove,President,,Vivek Ramaswamy,REP,2
+Jones,Pleasant Ridge,President,,Vivek Ramaswamy,REP,0
+Jones,Powers,President,,Vivek Ramaswamy,REP,0
+Jones,Rainey,President,,Vivek Ramaswamy,REP,2
+Jones,Rustin,President,,Vivek Ramaswamy,REP,0
+Jones,SPRINGILL/MAULDIN,President,,Vivek Ramaswamy,REP,0
+Jones,Sand Hill,President,,Vivek Ramaswamy,REP,0
+Jones,Sandersville,President,,Vivek Ramaswamy,REP,0
+Jones,Shady Grove,President,,Vivek Ramaswamy,REP,2
+Jones,Sharon,President,,Vivek Ramaswamy,REP,2
+Jones,Shelton,President,,Vivek Ramaswamy,REP,1
+Jones,Soso,President,,Vivek Ramaswamy,REP,1
+Jones,Tuckers,President,,Vivek Ramaswamy,REP,0
+Jones,Union,President,,Vivek Ramaswamy,REP,0
+Jones,Matthews,U.S. House,3,Michael Guest,REP,137
+Jones,Sandersville,U.S. House,3,Michael Guest,REP,151
+Jones,Shady Grove,U.S. House,3,Michael Guest,REP,418
+Jones,Sharon,U.S. House,3,Michael Guest,REP,365
+Jones,Antioch,U.S. House,4,Carl Boyanton,REP,23
+Jones,Big Creek,U.S. House,4,Carl Boyanton,REP,37
+Jones,Blackwell,U.S. House,4,Carl Boyanton,REP,22
+Jones,Calhoun,U.S. House,4,Carl Boyanton,REP,105
+Jones,Centerville,U.S. House,4,Carl Boyanton,REP,7
+Jones,Currie,U.S. House,4,Carl Boyanton,REP,0
+Jones,Erata,U.S. House,4,Carl Boyanton,REP,18
+Jones,First Assembly of God,U.S. House,4,Carl Boyanton,REP,19
+Jones,George Harrison,U.S. House,4,Carl Boyanton,REP,80
+Jones,Gitano,U.S. House,4,Carl Boyanton,REP,12
+Jones,Glade,U.S. House,4,Carl Boyanton,REP,56
+Jones,Hebron,U.S. House,4,Carl Boyanton,REP,16
+Jones,Johnson,U.S. House,4,Carl Boyanton,REP,56
+Jones,LT ELLIS CENTER,U.S. House,4,Carl Boyanton,REP,0
+Jones,Landrum,U.S. House,4,Carl Boyanton,REP,28
+Jones,Magnolia Center,U.S. House,4,Carl Boyanton,REP,12
+Jones,Merchants Park,U.S. House,4,Carl Boyanton,REP,67
+Jones,Moselle,U.S. House,4,Carl Boyanton,REP,55
+Jones,Myrick,U.S. House,4,Carl Boyanton,REP,71
+Jones,North Laurel,U.S. House,4,Carl Boyanton,REP,125
+Jones,OVET,U.S. House,4,Carl Boyanton,REP,37
+Jones,Oak Park School,U.S. House,4,Carl Boyanton,REP,0
+Jones,Parkview Baptist Church,U.S. House,4,Carl Boyanton,REP,25
+Jones,Pine Grove,U.S. House,4,Carl Boyanton,REP,73
+Jones,Pleasant Ridge,U.S. House,4,Carl Boyanton,REP,47
+Jones,Powers,U.S. House,4,Carl Boyanton,REP,69
+Jones,Rainey,U.S. House,4,Carl Boyanton,REP,88
+Jones,Rustin,U.S. House,4,Carl Boyanton,REP,43
+Jones,SPRINGILL/MAULDIN,U.S. House,4,Carl Boyanton,REP,80
+Jones,Sand Hill,U.S. House,4,Carl Boyanton,REP,21
+Jones,Shelton,U.S. House,4,Carl Boyanton,REP,30
+Jones,Soso,U.S. House,4,Carl Boyanton,REP,45
+Jones,Tuckers,U.S. House,4,Carl Boyanton,REP,45
+Jones,Union,U.S. House,4,Carl Boyanton,REP,57
+Jones,Antioch,U.S. House,4,Michael McGill,REP,14
+Jones,Big Creek,U.S. House,4,Michael McGill,REP,13
+Jones,Blackwell,U.S. House,4,Michael McGill,REP,14
+Jones,Calhoun,U.S. House,4,Michael McGill,REP,26
+Jones,Centerville,U.S. House,4,Michael McGill,REP,0
+Jones,Currie,U.S. House,4,Michael McGill,REP,0
+Jones,Erata,U.S. House,4,Michael McGill,REP,5
+Jones,First Assembly of God,U.S. House,4,Michael McGill,REP,10
+Jones,George Harrison,U.S. House,4,Michael McGill,REP,20
+Jones,Gitano,U.S. House,4,Michael McGill,REP,7
+Jones,Glade,U.S. House,4,Michael McGill,REP,16
+Jones,Hebron,U.S. House,4,Michael McGill,REP,6
+Jones,Johnson,U.S. House,4,Michael McGill,REP,8
+Jones,LT ELLIS CENTER,U.S. House,4,Michael McGill,REP,1
+Jones,Landrum,U.S. House,4,Michael McGill,REP,4
+Jones,Magnolia Center,U.S. House,4,Michael McGill,REP,10
+Jones,Merchants Park,U.S. House,4,Michael McGill,REP,20
+Jones,Moselle,U.S. House,4,Michael McGill,REP,14
+Jones,Myrick,U.S. House,4,Michael McGill,REP,16
+Jones,North Laurel,U.S. House,4,Michael McGill,REP,36
+Jones,OVET,U.S. House,4,Michael McGill,REP,21
+Jones,Oak Park School,U.S. House,4,Michael McGill,REP,1
+Jones,Parkview Baptist Church,U.S. House,4,Michael McGill,REP,8
+Jones,Pine Grove,U.S. House,4,Michael McGill,REP,14
+Jones,Pleasant Ridge,U.S. House,4,Michael McGill,REP,11
+Jones,Powers,U.S. House,4,Michael McGill,REP,17
+Jones,Rainey,U.S. House,4,Michael McGill,REP,19
+Jones,Rustin,U.S. House,4,Michael McGill,REP,8
+Jones,SPRINGILL/MAULDIN,U.S. House,4,Michael McGill,REP,16
+Jones,Sand Hill,U.S. House,4,Michael McGill,REP,4
+Jones,Shelton,U.S. House,4,Michael McGill,REP,4
+Jones,Soso,U.S. House,4,Michael McGill,REP,22
+Jones,Tuckers,U.S. House,4,Michael McGill,REP,12
+Jones,Union,U.S. House,4,Michael McGill,REP,5
+Jones,Antioch,U.S. House,4,Mike Ezell,REP,94
+Jones,Big Creek,U.S. House,4,Mike Ezell,REP,125
+Jones,Blackwell,U.S. House,4,Mike Ezell,REP,92
+Jones,Calhoun,U.S. House,4,Mike Ezell,REP,388
+Jones,Centerville,U.S. House,4,Mike Ezell,REP,53
+Jones,Currie,U.S. House,4,Mike Ezell,REP,6
+Jones,Erata,U.S. House,4,Mike Ezell,REP,52
+Jones,First Assembly of God,U.S. House,4,Mike Ezell,REP,107
+Jones,George Harrison,U.S. House,4,Mike Ezell,REP,198
+Jones,Gitano,U.S. House,4,Mike Ezell,REP,50
+Jones,Glade,U.S. House,4,Mike Ezell,REP,207
+Jones,Hebron,U.S. House,4,Mike Ezell,REP,64
+Jones,Johnson,U.S. House,4,Mike Ezell,REP,131
+Jones,LT ELLIS CENTER,U.S. House,4,Mike Ezell,REP,9
+Jones,Landrum,U.S. House,4,Mike Ezell,REP,87
+Jones,Magnolia Center,U.S. House,4,Mike Ezell,REP,65
+Jones,Merchants Park,U.S. House,4,Mike Ezell,REP,193
+Jones,Moselle,U.S. House,4,Mike Ezell,REP,191
+Jones,Myrick,U.S. House,4,Mike Ezell,REP,232
+Jones,North Laurel,U.S. House,4,Mike Ezell,REP,324
+Jones,OVET,U.S. House,4,Mike Ezell,REP,171
+Jones,Oak Park School,U.S. House,4,Mike Ezell,REP,0
+Jones,Parkview Baptist Church,U.S. House,4,Mike Ezell,REP,100
+Jones,Pine Grove,U.S. House,4,Mike Ezell,REP,152
+Jones,Pleasant Ridge,U.S. House,4,Mike Ezell,REP,168
+Jones,Powers,U.S. House,4,Mike Ezell,REP,176
+Jones,Rainey,U.S. House,4,Mike Ezell,REP,226
+Jones,Rustin,U.S. House,4,Mike Ezell,REP,119
+Jones,SPRINGILL/MAULDIN,U.S. House,4,Mike Ezell,REP,264
+Jones,Sand Hill,U.S. House,4,Mike Ezell,REP,62
+Jones,Shelton,U.S. House,4,Mike Ezell,REP,115
+Jones,Soso,U.S. House,4,Mike Ezell,REP,136
+Jones,Tuckers,U.S. House,4,Mike Ezell,REP,197
+Jones,Union,U.S. House,4,Mike Ezell,REP,190
+Jones,Antioch,U.S. Senate,,Dan Eubanks,REP,23
+Jones,Big Creek,U.S. Senate,,Dan Eubanks,REP,17
+Jones,Blackwell,U.S. Senate,,Dan Eubanks,REP,36
+Jones,Calhoun,U.S. Senate,,Dan Eubanks,REP,81
+Jones,Centerville,U.S. Senate,,Dan Eubanks,REP,10
+Jones,Currie,U.S. Senate,,Dan Eubanks,REP,0
+Jones,Erata,U.S. Senate,,Dan Eubanks,REP,8
+Jones,First Assembly of God,U.S. Senate,,Dan Eubanks,REP,23
+Jones,George Harrison,U.S. Senate,,Dan Eubanks,REP,43
+Jones,Gitano,U.S. Senate,,Dan Eubanks,REP,12
+Jones,Glade,U.S. Senate,,Dan Eubanks,REP,33
+Jones,Hebron,U.S. Senate,,Dan Eubanks,REP,11
+Jones,Johnson,U.S. Senate,,Dan Eubanks,REP,27
+Jones,LT ELLIS CENTER,U.S. Senate,,Dan Eubanks,REP,3
+Jones,Landrum,U.S. Senate,,Dan Eubanks,REP,31
+Jones,Magnolia Center,U.S. Senate,,Dan Eubanks,REP,16
+Jones,Matthews,U.S. Senate,,Dan Eubanks,REP,24
+Jones,Merchants Park,U.S. Senate,,Dan Eubanks,REP,54
+Jones,Moselle,U.S. Senate,,Dan Eubanks,REP,62
+Jones,Myrick,U.S. Senate,,Dan Eubanks,REP,54
+Jones,North Laurel,U.S. Senate,,Dan Eubanks,REP,93
+Jones,OVET,U.S. Senate,,Dan Eubanks,REP,32
+Jones,Oak Park School,U.S. Senate,,Dan Eubanks,REP,1
+Jones,Parkview Baptist Church,U.S. Senate,,Dan Eubanks,REP,26
+Jones,Pine Grove,U.S. Senate,,Dan Eubanks,REP,42
+Jones,Pleasant Ridge,U.S. Senate,,Dan Eubanks,REP,26
+Jones,Powers,U.S. Senate,,Dan Eubanks,REP,50
+Jones,Rainey,U.S. Senate,,Dan Eubanks,REP,48
+Jones,Rustin,U.S. Senate,,Dan Eubanks,REP,22
+Jones,SPRINGILL/MAULDIN,U.S. Senate,,Dan Eubanks,REP,56
+Jones,Sand Hill,U.S. Senate,,Dan Eubanks,REP,16
+Jones,Sandersville,U.S. Senate,,Dan Eubanks,REP,27
+Jones,Shady Grove,U.S. Senate,,Dan Eubanks,REP,82
+Jones,Sharon,U.S. Senate,,Dan Eubanks,REP,61
+Jones,Shelton,U.S. Senate,,Dan Eubanks,REP,22
+Jones,Soso,U.S. Senate,,Dan Eubanks,REP,42
+Jones,Tuckers,U.S. Senate,,Dan Eubanks,REP,43
+Jones,Union,U.S. Senate,,Dan Eubanks,REP,41
+Jones,Antioch,U.S. Senate,,Ghannon Burton,REP,23
+Jones,Big Creek,U.S. Senate,,Ghannon Burton,REP,40
+Jones,Blackwell,U.S. Senate,,Ghannon Burton,REP,31
+Jones,Calhoun,U.S. Senate,,Ghannon Burton,REP,138
+Jones,Centerville,U.S. Senate,,Ghannon Burton,REP,6
+Jones,Currie,U.S. Senate,,Ghannon Burton,REP,2
+Jones,Erata,U.S. Senate,,Ghannon Burton,REP,33
+Jones,First Assembly of God,U.S. Senate,,Ghannon Burton,REP,24
+Jones,George Harrison,U.S. Senate,,Ghannon Burton,REP,80
+Jones,Gitano,U.S. Senate,,Ghannon Burton,REP,17
+Jones,Glade,U.S. Senate,,Ghannon Burton,REP,38
+Jones,Hebron,U.S. Senate,,Ghannon Burton,REP,21
+Jones,Johnson,U.S. Senate,,Ghannon Burton,REP,52
+Jones,LT ELLIS CENTER,U.S. Senate,,Ghannon Burton,REP,2
+Jones,Landrum,U.S. Senate,,Ghannon Burton,REP,20
+Jones,Magnolia Center,U.S. Senate,,Ghannon Burton,REP,10
+Jones,Matthews,U.S. Senate,,Ghannon Burton,REP,37
+Jones,Merchants Park,U.S. Senate,,Ghannon Burton,REP,56
+Jones,Moselle,U.S. Senate,,Ghannon Burton,REP,37
+Jones,Myrick,U.S. Senate,,Ghannon Burton,REP,52
+Jones,North Laurel,U.S. Senate,,Ghannon Burton,REP,117
+Jones,OVET,U.S. Senate,,Ghannon Burton,REP,37
+Jones,Oak Park School,U.S. Senate,,Ghannon Burton,REP,0
+Jones,Parkview Baptist Church,U.S. Senate,,Ghannon Burton,REP,25
+Jones,Pine Grove,U.S. Senate,,Ghannon Burton,REP,63
+Jones,Pleasant Ridge,U.S. Senate,,Ghannon Burton,REP,50
+Jones,Powers,U.S. Senate,,Ghannon Burton,REP,45
+Jones,Rainey,U.S. Senate,,Ghannon Burton,REP,66
+Jones,Rustin,U.S. Senate,,Ghannon Burton,REP,45
+Jones,SPRINGILL/MAULDIN,U.S. Senate,,Ghannon Burton,REP,79
+Jones,Sand Hill,U.S. Senate,,Ghannon Burton,REP,14
+Jones,Sandersville,U.S. Senate,,Ghannon Burton,REP,37
+Jones,Shady Grove,U.S. Senate,,Ghannon Burton,REP,94
+Jones,Sharon,U.S. Senate,,Ghannon Burton,REP,106
+Jones,Shelton,U.S. Senate,,Ghannon Burton,REP,16
+Jones,Soso,U.S. Senate,,Ghannon Burton,REP,51
+Jones,Tuckers,U.S. Senate,,Ghannon Burton,REP,52
+Jones,Union,U.S. Senate,,Ghannon Burton,REP,49
+Jones,Antioch,U.S. Senate,,Roger F. Wicker,REP,86
+Jones,Big Creek,U.S. Senate,,Roger F. Wicker,REP,115
+Jones,Blackwell,U.S. Senate,,Roger F. Wicker,REP,61
+Jones,Calhoun,U.S. Senate,,Roger F. Wicker,REP,300
+Jones,Centerville,U.S. Senate,,Roger F. Wicker,REP,42
+Jones,Currie,U.S. Senate,,Roger F. Wicker,REP,4
+Jones,Erata,U.S. Senate,,Roger F. Wicker,REP,32
+Jones,First Assembly of God,U.S. Senate,,Roger F. Wicker,REP,89
+Jones,George Harrison,U.S. Senate,,Roger F. Wicker,REP,176
+Jones,Gitano,U.S. Senate,,Roger F. Wicker,REP,39
+Jones,Glade,U.S. Senate,,Roger F. Wicker,REP,205
+Jones,Hebron,U.S. Senate,,Roger F. Wicker,REP,53
+Jones,Johnson,U.S. Senate,,Roger F. Wicker,REP,115
+Jones,LT ELLIS CENTER,U.S. Senate,,Roger F. Wicker,REP,5
+Jones,Landrum,U.S. Senate,,Roger F. Wicker,REP,67
+Jones,Magnolia Center,U.S. Senate,,Roger F. Wicker,REP,60
+Jones,Matthews,U.S. Senate,,Roger F. Wicker,REP,82
+Jones,Merchants Park,U.S. Senate,,Roger F. Wicker,REP,169
+Jones,Moselle,U.S. Senate,,Roger F. Wicker,REP,162
+Jones,Myrick,U.S. Senate,,Roger F. Wicker,REP,213
+Jones,North Laurel,U.S. Senate,,Roger F. Wicker,REP,277
+Jones,OVET,U.S. Senate,,Roger F. Wicker,REP,159
+Jones,Oak Park School,U.S. Senate,,Roger F. Wicker,REP,0
+Jones,Parkview Baptist Church,U.S. Senate,,Roger F. Wicker,REP,82
+Jones,Pine Grove,U.S. Senate,,Roger F. Wicker,REP,134
+Jones,Pleasant Ridge,U.S. Senate,,Roger F. Wicker,REP,151
+Jones,Powers,U.S. Senate,,Roger F. Wicker,REP,165
+Jones,Rainey,U.S. Senate,,Roger F. Wicker,REP,219
+Jones,Rustin,U.S. Senate,,Roger F. Wicker,REP,101
+Jones,SPRINGILL/MAULDIN,U.S. Senate,,Roger F. Wicker,REP,227
+Jones,Sand Hill,U.S. Senate,,Roger F. Wicker,REP,57
+Jones,Sandersville,U.S. Senate,,Roger F. Wicker,REP,92
+Jones,Shady Grove,U.S. Senate,,Roger F. Wicker,REP,253
+Jones,Sharon,U.S. Senate,,Roger F. Wicker,REP,210
+Jones,Shelton,U.S. Senate,,Roger F. Wicker,REP,110
+Jones,Soso,U.S. Senate,,Roger F. Wicker,REP,111
+Jones,Tuckers,U.S. Senate,,Roger F. Wicker,REP,160
+Jones,Union,U.S. Senate,,Roger F. Wicker,REP,164

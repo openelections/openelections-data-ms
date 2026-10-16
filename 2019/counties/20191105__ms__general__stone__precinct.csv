@@ -5,8 +5,8 @@ Stone,Governor,,Bob Hickingbottom,Constitution,Bond,2
 Stone,Governor,,David R. Singletary,Independent,Bond,1
 Stone,Lieutenant Governor,,Delbert Hoseman,Republican,Bond,65
 Stone,Lieutenant Governor,,Jay Hugues,Democrat,Bond,7
-Stone,Secretary of State,,Johny DuPree,Republican,Bond,4
-Stone,Secretary of State,,Michael Watson,Democrat,Bond,67
+Stone,Secretary of State,,Johny DuPree,Democrat,Bond,4
+Stone,Secretary of State,,Michael Watson,Republican,Bond,67
 Stone,Attorney General,,Jennifer Riley Collins,Democrat,Bond,5
 Stone,Attorney General,,Lynn Fitch,Republican,Bond,67
 Stone,State Auditor,,Shad White,Republican,Bond,64
@@ -39,8 +39,8 @@ Stone,Governor,,Bob Hickingbottom,Constitution,National Guard,2
 Stone,Governor,,David R. Singletary,Independent,National Guard,3
 Stone,Lieutenant Governor,,Delbert Hoseman,Republican,National Guard,192
 Stone,Lieutenant Governor,,Jay Hugues,Democrat,National Guard,21
-Stone,Secretary of State,,Johny DuPree,Republican,National Guard,17
-Stone,Secretary of State,,Michael Watson,Democrat,National Guard,196
+Stone,Secretary of State,,Johny DuPree,Democrat,National Guard,17
+Stone,Secretary of State,,Michael Watson,Republican,National Guard,196
 Stone,Attorney General,,Jennifer Riley Collins,Democrat,National Guard,24
 Stone,Attorney General,,Lynn Fitch,Republican,National Guard,192
 Stone,State Auditor,,Shad White,Republican,National Guard,199
@@ -72,8 +72,8 @@ Stone,Governor,,Bob Hickingbottom,Constitution,Old Health Department,1
 Stone,Governor,,David R. Singletary,Independent,Old Health Department,6
 Stone,Lieutenant Governor,,Delbert Hoseman,Republican,Old Health Department,272
 Stone,Lieutenant Governor,,Jay Hugues,Democrat,Old Health Department,47
-Stone,Secretary of State,,Johny DuPree,Republican,Old Health Department,32
-Stone,Secretary of State,,Michael Watson,Democrat,Old Health Department,288
+Stone,Secretary of State,,Johny DuPree,Democrat,Old Health Department,32
+Stone,Secretary of State,,Michael Watson,Republican,Old Health Department,288
 Stone,Attorney General,,Jennifer Riley Collins,Democrat,Old Health Department,50
 Stone,Attorney General,,Lynn Fitch,Republican,Old Health Department,271
 Stone,State Auditor,,Shad White,Republican,Old Health Department,291
@@ -107,8 +107,8 @@ Stone,Governor,,Bob Hickingbottom,Constitution,Courthouse,0
 Stone,Governor,,David R. Singletary,Independent,Courthouse,1
 Stone,Lieutenant Governor,,Delbert Hoseman,Republican,Courthouse,239
 Stone,Lieutenant Governor,,Jay Hugues,Democrat,Courthouse,64
-Stone,Secretary of State,,Johny DuPree,Republican,Courthouse,58
-Stone,Secretary of State,,Michael Watson,Democrat,Courthouse,241
+Stone,Secretary of State,,Johny DuPree,Democrat,Courthouse,58
+Stone,Secretary of State,,Michael Watson,Republican,Courthouse,241
 Stone,Attorney General,,Jennifer Riley Collins,Democrat,Courthouse,54
 Stone,Attorney General,,Lynn Fitch,Republican,Courthouse,249
 Stone,State Auditor,,Shad White,Republican,Courthouse,275
@@ -143,8 +143,8 @@ Stone,Governor,,Bob Hickingbottom,Constitution,American Legion,0
 Stone,Governor,,David R. Singletary,Independent,American Legion,3
 Stone,Lieutenant Governor,,Delbert Hoseman,Republican,American Legion,194
 Stone,Lieutenant Governor,,Jay Hugues,Democrat,American Legion,274
-Stone,Secretary of State,,Johny DuPree,Republican,American Legion,299
-Stone,Secretary of State,,Michael Watson,Democrat,American Legion,179
+Stone,Secretary of State,,Johny DuPree,Democrat,American Legion,299
+Stone,Secretary of State,,Michael Watson,Republican,American Legion,179
 Stone,Attorney General,,Jennifer Riley Collins,Democrat,American Legion,303
 Stone,Attorney General,,Lynn Fitch,Republican,American Legion,177
 Stone,State Auditor,,Shad White,Republican,American Legion,275
@@ -160,7 +160,7 @@ Stone,Transportation Commissioner,Southern,Tom King,Republican,American Legion,2
 Stone,District Attorney,2,Joel Smith,Republican,American Legion,278
 Stone,State Senate,47,Joseph M 'Mike' Seymour,Republican,American Legion,278
 Stone,State House,93,Tommy Ladner,Republican,American Legion,194
-Stone,State House,107,Doug McLeod,Republican,American Legion,76
+Stone,State House,107,Doug McLeod,Republican,American Legion,78
 Stone,Chancery Clerk,,Samuel 'Tom' Smith,Republican,American Legion,304
 Stone,Circuit Clerk,,Treba Parker Davis,Republican,American Legion,192
 Stone,Circuit Clerk,,Billy Allen,Independent,American Legion,271
@@ -182,14 +182,14 @@ Stone,Governor,,Bob Hickingbottom,Constitution,New Hope,2
 Stone,Governor,,David R. Singletary,Independent,New Hope,2
 Stone,Lieutenant Governor,,Delbert Hoseman,Republican,New Hope,161
 Stone,Lieutenant Governor,,Jay Hugues,Democrat,New Hope,374
-Stone,Secretary of State,,Johny DuPree,Republican,New Hope,395
-Stone,Secretary of State,,Michael Watson,Democrat,New Hope,149
+Stone,Secretary of State,,Johny DuPree,Democrat,New Hope,395
+Stone,Secretary of State,,Michael Watson,Republican,New Hope,149
 Stone,Attorney General,,Jennifer Riley Collins,Democrat,New Hope,403
 Stone,Attorney General,,Lynn Fitch,Republican,New Hope,145
 Stone,State Auditor,,Shad White,Republican,New Hope,304
 Stone,State Treasurer,,Addie Lee Green,Democrat,New Hope,377
 Stone,State Treasurer,,David McRae,Republican,New Hope,157
-Stone,Commissioner of Agriculture & Commerce,,Rickey L Cole,Democrat,New Hope,386
+Stone,Commissioner of Agriculture & Commerce,,Rickey L Cole,Democrat,New Hope,388
 Stone,Commissioner of Agriculture & Commerce,,Andy Gipson,Republican,New Hope,148
 Stone,Commissioner of Insurance,,Robert E. Amos,Democrat,New Hope,380
 Stone,Commissioner of Insurance,,Mike Chaney,Republican,New Hope,158
@@ -218,8 +218,8 @@ Stone,Governor,,Bob Hickingbottom,Constitution,Perkinston,4
 Stone,Governor,,David R. Singletary,Independent,Perkinston,0
 Stone,Lieutenant Governor,,Delbert Hoseman,Republican,Perkinston,179
 Stone,Lieutenant Governor,,Jay Hugues,Democrat,Perkinston,39
-Stone,Secretary of State,,Johny DuPree,Republican,Perkinston,37
-Stone,Secretary of State,,Michael Watson,Democrat,Perkinston,175
+Stone,Secretary of State,,Johny DuPree,Democrat,Perkinston,37
+Stone,Secretary of State,,Michael Watson,Republican,Perkinston,175
 Stone,Attorney General,,Jennifer Riley Collins,Democrat,Perkinston,43
 Stone,Attorney General,,Lynn Fitch,Republican,Perkinston,176
 Stone,State Auditor,,Shad White,Republican,Perkinston,187
@@ -254,8 +254,8 @@ Stone,Governor,,Bob Hickingbottom,Constitution,Magnolia,0
 Stone,Governor,,David R. Singletary,Independent,Magnolia,7
 Stone,Lieutenant Governor,,Delbert Hoseman,Republican,Magnolia,247
 Stone,Lieutenant Governor,,Jay Hugues,Democrat,Magnolia,34
-Stone,Secretary of State,,Johny DuPree,Republican,Magnolia,30
-Stone,Secretary of State,,Michael Watson,Democrat,Magnolia,248
+Stone,Secretary of State,,Johny DuPree,Democrat,Magnolia,30
+Stone,Secretary of State,,Michael Watson,Republican,Magnolia,248
 Stone,Attorney General,,Jennifer Riley Collins,Democrat,Magnolia,36
 Stone,Attorney General,,Lynn Fitch,Republican,Magnolia,242
 Stone,State Auditor,,Shad White,Republican,Magnolia,248
@@ -290,8 +290,8 @@ Stone,Governor,,Bob Hickingbottom,Constitution,McHenry Library,2
 Stone,Governor,,David R. Singletary,Independent,McHenry Library,2
 Stone,Lieutenant Governor,,Delbert Hoseman,Republican,McHenry Library,224
 Stone,Lieutenant Governor,,Jay Hugues,Democrat,McHenry Library,35
-Stone,Secretary of State,,Johny DuPree,Republican,McHenry Library,30
-Stone,Secretary of State,,Michael Watson,Democrat,McHenry Library,223
+Stone,Secretary of State,,Johny DuPree,Democrat,McHenry Library,30
+Stone,Secretary of State,,Michael Watson,Republican,McHenry Library,223
 Stone,Attorney General,,Jennifer Riley Collins,Democrat,McHenry Library,40
 Stone,Attorney General,,Lynn Fitch,Republican,McHenry Library,218
 Stone,State Auditor,,Shad White,Republican,McHenry Library,228
@@ -326,8 +326,8 @@ Stone,Governor,,Bob Hickingbottom,Constitution,Elarbee,0
 Stone,Governor,,David R. Singletary,Independent,Elarbee,7
 Stone,Lieutenant Governor,,Delbert Hoseman,Republican,Elarbee,249
 Stone,Lieutenant Governor,,Jay Hugues,Democrat,Elarbee,31
-Stone,Secretary of State,,Johny DuPree,Republican,Elarbee,21
-Stone,Secretary of State,,Michael Watson,Democrat,Elarbee,256
+Stone,Secretary of State,,Johny DuPree,Democrat,Elarbee,21
+Stone,Secretary of State,,Michael Watson,Republican,Elarbee,256
 Stone,Attorney General,,Jennifer Riley Collins,Democrat,Elarbee,31
 Stone,Attorney General,,Lynn Fitch,Republican,Elarbee,251
 Stone,State Auditor,,Shad White,Republican,Elarbee,266
@@ -361,10 +361,10 @@ Stone,Governor,,Bob Hickingbottom,Constitution,Tuxechana,3
 Stone,Governor,,David R. Singletary,Independent,Tuxechana,10
 Stone,Lieutenant Governor,,Delbert Hoseman,Republican,Tuxechana,600
 Stone,Lieutenant Governor,,Jay Hugues,Democrat,Tuxechana,68
-Stone,Secretary of State,,Johny DuPree,Republican,Tuxechana,67
-Stone,Secretary of State,,Michael Watson,Democrat,Tuxechana,599
+Stone,Secretary of State,,Johny DuPree,Democrat,Tuxechana,67
+Stone,Secretary of State,,Michael Watson,Republican,Tuxechana,599
 Stone,Attorney General,,Jennifer Riley Collins,Democrat,Tuxechana,79
-Stone,Attorney General,,Lynn Fitch,Republican,Tuxechana,585
+Stone,Attorney General,,Lynn Fitch,Republican,Tuxechana,586
 Stone,State Auditor,,Shad White,Republican,Tuxechana,618
 Stone,State Treasurer,,Addie Lee Green,Democrat,Tuxechana,51
 Stone,State Treasurer,,David McRae,Republican,Tuxechana,614
@@ -393,8 +393,8 @@ Stone,Governor,,Bob Hickingbottom,Constitution,McHenry Fire Station,2
 Stone,Governor,,David R. Singletary,Independent,McHenry Fire Station,4
 Stone,Lieutenant Governor,,Delbert Hoseman,Republican,McHenry Fire Station,274
 Stone,Lieutenant Governor,,Jay Hugues,Democrat,McHenry Fire Station,94
-Stone,Secretary of State,,Johny DuPree,Republican,McHenry Fire Station,90
-Stone,Secretary of State,,Michael Watson,Democrat,McHenry Fire Station,276
+Stone,Secretary of State,,Johny DuPree,Democrat,McHenry Fire Station,90
+Stone,Secretary of State,,Michael Watson,Republican,McHenry Fire Station,276
 Stone,Attorney General,,Jennifer Riley Collins,Democrat,McHenry Fire Station,111
 Stone,Attorney General,,Lynn Fitch,Republican,McHenry Fire Station,257
 Stone,State Auditor,,Shad White,Republican,McHenry Fire Station,324
@@ -430,8 +430,8 @@ Stone,Governor,,Bob Hickingbottom,Constitution,Flint Creek,1
 Stone,Governor,,David R. Singletary,Independent,Flint Creek,12
 Stone,Lieutenant Governor,,Delbert Hoseman,Republican,Flint Creek,437
 Stone,Lieutenant Governor,,Jay Hugues,Democrat,Flint Creek,114
-Stone,Secretary of State,,Johny DuPree,Republican,Flint Creek,86
-Stone,Secretary of State,,Michael Watson,Democrat,Flint Creek,457
+Stone,Secretary of State,,Johny DuPree,Democrat,Flint Creek,86
+Stone,Secretary of State,,Michael Watson,Republican,Flint Creek,457
 Stone,Attorney General,,Jennifer Riley Collins,Democrat,Flint Creek,104
 Stone,Attorney General,,Lynn Fitch,Republican,Flint Creek,448
 Stone,State Auditor,,Shad White,Republican,Flint Creek,500
@@ -466,8 +466,8 @@ Stone,Governor,,Bob Hickingbottom,Constitution,Big Level,5
 Stone,Governor,,David R. Singletary,Independent,Big Level,7
 Stone,Lieutenant Governor,,Delbert Hoseman,Republican,Big Level,404
 Stone,Lieutenant Governor,,Jay Hugues,Democrat,Big Level,90
-Stone,Secretary of State,,Johny DuPree,Republican,Big Level,70
-Stone,Secretary of State,,Michael Watson,Democrat,Big Level,414
+Stone,Secretary of State,,Johny DuPree,Democrat,Big Level,70
+Stone,Secretary of State,,Michael Watson,Republican,Big Level,414
 Stone,Attorney General,,Jennifer Riley Collins,Democrat,Big Level,85
 Stone,Attorney General,,Lynn Fitch,Republican,Big Level,403
 Stone,State Auditor,,Shad White,Republican,Big Level,429
@@ -499,8 +499,8 @@ Stone,Governor,,Bob Hickingbottom,Constitution,Pleasant Hill,0
 Stone,Governor,,David R. Singletary,Independent,Pleasant Hill,0
 Stone,Lieutenant Governor,,Delbert Hoseman,Republican,Pleasant Hill,133
 Stone,Lieutenant Governor,,Jay Hugues,Democrat,Pleasant Hill,19
-Stone,Secretary of State,,Johny DuPree,Republican,Pleasant Hill,21
-Stone,Secretary of State,,Michael Watson,Democrat,Pleasant Hill,129
+Stone,Secretary of State,,Johny DuPree,Democrat,Pleasant Hill,21
+Stone,Secretary of State,,Michael Watson,Republican,Pleasant Hill,129
 Stone,Attorney General,,Jennifer Riley Collins,Democrat,Pleasant Hill,24
 Stone,Attorney General,,Lynn Fitch,Republican,Pleasant Hill,129
 Stone,State Auditor,,Shad White,Republican,Pleasant Hill,141

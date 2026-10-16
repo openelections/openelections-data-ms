@@ -1,0 +1,492 @@
+county,precinct,office,district,candidate,party,votes
+Madison,Camden Community Center,President,,Joseph R. Biden Jr.,DEM,94
+Madison,Cameron Bethel M B Church,President,,Joseph R. Biden Jr.,DEM,26
+Madison,Canton Anderson Lodge,President,,Joseph R. Biden Jr.,DEM,159
+Madison,Canton Bible Church,President,,Joseph R. Biden Jr.,DEM,59
+Madison,Canton Community Center,President,,Joseph R. Biden Jr.,DEM,244
+Madison,Canton Fire Station # 4,President,,Joseph R. Biden Jr.,DEM,70
+Madison,Canton National Guard Armory,President,,Joseph R. Biden Jr.,DEM,72
+Madison,Canton South Liberty Baptist Church,President,,Joseph R. Biden Jr.,DEM,166
+Madison,Canton St. Paul Methodist Church,President,,Joseph R. Biden Jr.,DEM,28
+Madison,Cedar Grove Baptist Church,President,,Joseph R. Biden Jr.,DEM,2
+Madison,China Grove A M E Church,President,,Joseph R. Biden Jr.,DEM,71
+Madison,Colonial Heights Baptist Church,President,,Joseph R. Biden Jr.,DEM,99
+Madison,Couparle United Methodist Church,President,,Joseph R. Biden Jr.,DEM,13
+Madison,Fairview MB Church,President,,Joseph R. Biden Jr.,DEM,269
+Madison,Farmhaven Fire Station,President,,Joseph R. Biden Jr.,DEM,165
+Madison,Fearns Chapel Freewill Baptist,President,,Joseph R. Biden Jr.,DEM,90
+Madison,Fellowship Bible Church,President,,Joseph R. Biden Jr.,DEM,84
+Madison,First Presbyterian Madison,President,,Joseph R. Biden Jr.,DEM,71
+Madison,Franklin Baptist Church,President,,Joseph R. Biden Jr.,DEM,3
+Madison,Gluckstadt @ St Joe Catholic,President,,Joseph R. Biden Jr.,DEM,147
+Madison,Greater Mt Levi Full Gospel,President,,Joseph R. Biden Jr.,DEM,90
+Madison,Holmes CC Workforce Bldg,President,,Joseph R. Biden Jr.,DEM,183
+Madison,Jimmie M Goodloe Elem School,President,,Joseph R. Biden Jr.,DEM,214
+Madison,Lake Caroline Clubhouse,President,,Joseph R. Biden Jr.,DEM,62
+Madison,Mad. Co. Baptist Family Life Ct,President,,Joseph R. Biden Jr.,DEM,84
+Madison,Magnolia Heights,President,,Joseph R. Biden Jr.,DEM,175
+Madison,Mark Apartments,President,,Joseph R. Biden Jr.,DEM,186
+Madison,Mt. Hope M B Church,President,,Joseph R. Biden Jr.,DEM,17
+Madison,Northbay Bayview Clubhouse,President,,Joseph R. Biden Jr.,DEM,26
+Madison,Parkway Pentecostal Church,President,,Joseph R. Biden Jr.,DEM,116
+Madison,Pilgrim Rest MB Church,President,,Joseph R. Biden Jr.,DEM,94
+Madison,Pleasant Gift Baptist Church,President,,Joseph R. Biden Jr.,DEM,121
+Madison,Pleasant Green M B Church,President,,Joseph R. Biden Jr.,DEM,156
+Madison,Ridge'D 1st Methodist Church,President,,Joseph R. Biden Jr.,DEM,124
+Madison,Ridgecrest Baptist Church,President,,Joseph R. Biden Jr.,DEM,55
+Madison,Ridgeland Recreation Center,President,,Joseph R. Biden Jr.,DEM,88
+Madison,Sunnybrook Retirement Village,President,,Joseph R. Biden Jr.,DEM,27
+Madison,The LightHouse Church,President,,Joseph R. Biden Jr.,DEM,41
+Madison,Tougaloo,President,,Joseph R. Biden Jr.,DEM,11
+Madison,Trace Ridge Baptist Church,President,,Joseph R. Biden Jr.,DEM,153
+Madison,Twin Lakes Baptist Church,President,,Joseph R. Biden Jr.,DEM,100
+Madison,Vertical Church,President,,Joseph R. Biden Jr.,DEM,133
+Madison,Victory Baptist Church,President,,Joseph R. Biden Jr.,DEM,25
+Madison,Camden Community Center,U.S. House,2,Bennie G. Thompson,DEM,95
+Madison,Cameron Bethel M B Church,U.S. House,2,Bennie G. Thompson,DEM,26
+Madison,Canton Anderson Lodge,U.S. House,2,Bennie G. Thompson,DEM,161
+Madison,Canton Bible Church,U.S. House,2,Bennie G. Thompson,DEM,60
+Madison,Canton Community Center,U.S. House,2,Bennie G. Thompson,DEM,247
+Madison,Canton Fire Station # 4,U.S. House,2,Bennie G. Thompson,DEM,72
+Madison,Canton National Guard Armory,U.S. House,2,Bennie G. Thompson,DEM,31
+Madison,Canton South Liberty Baptist Church,U.S. House,2,Bennie G. Thompson,DEM,170
+Madison,Canton St. Paul Methodist Church,U.S. House,2,Bennie G. Thompson,DEM,29
+Madison,Cedar Grove Baptist Church,U.S. House,2,Bennie G. Thompson,DEM,2
+Madison,Couparle United Methodist Church,U.S. House,2,Bennie G. Thompson,DEM,14
+Madison,Farmhaven Fire Station,U.S. House,2,Bennie G. Thompson,DEM,176
+Madison,Greater Mt Levi Full Gospel,U.S. House,2,Bennie G. Thompson,DEM,94
+Madison,Jimmie M Goodloe Elem School,U.S. House,2,Bennie G. Thompson,DEM,216
+Madison,Mad. Co. Baptist Family Life Ct,U.S. House,2,Bennie G. Thompson,DEM,85
+Madison,Magnolia Heights,U.S. House,2,Bennie G. Thompson,DEM,174
+Madison,Mt. Hope M B Church,U.S. House,2,Bennie G. Thompson,DEM,17
+Madison,Pleasant Gift Baptist Church,U.S. House,2,Bennie G. Thompson,DEM,124
+Madison,Pleasant Green M B Church,U.S. House,2,Bennie G. Thompson,DEM,156
+Madison,Tougaloo,U.S. House,2,Bennie G. Thompson,DEM,11
+Madison,Camden Community Center,U.S. Senate,,Ty Pinkins,DEM,81
+Madison,Cameron Bethel M B Church,U.S. Senate,,Ty Pinkins,DEM,21
+Madison,Canton Anderson Lodge,U.S. Senate,,Ty Pinkins,DEM,133
+Madison,Canton Bible Church,U.S. Senate,,Ty Pinkins,DEM,56
+Madison,Canton Community Center,U.S. Senate,,Ty Pinkins,DEM,216
+Madison,Canton Fire Station # 4,U.S. Senate,,Ty Pinkins,DEM,64
+Madison,Canton National Guard Armory,U.S. Senate,,Ty Pinkins,DEM,64
+Madison,Canton South Liberty Baptist Church,U.S. Senate,,Ty Pinkins,DEM,157
+Madison,Canton St. Paul Methodist Church,U.S. Senate,,Ty Pinkins,DEM,24
+Madison,Cedar Grove Baptist Church,U.S. Senate,,Ty Pinkins,DEM,2
+Madison,China Grove A M E Church,U.S. Senate,,Ty Pinkins,DEM,64
+Madison,Colonial Heights Baptist Church,U.S. Senate,,Ty Pinkins,DEM,89
+Madison,Couparle United Methodist Church,U.S. Senate,,Ty Pinkins,DEM,12
+Madison,Fairview MB Church,U.S. Senate,,Ty Pinkins,DEM,250
+Madison,Farmhaven Fire Station,U.S. Senate,,Ty Pinkins,DEM,145
+Madison,Fearns Chapel Freewill Baptist,U.S. Senate,,Ty Pinkins,DEM,64
+Madison,Fellowship Bible Church,U.S. Senate,,Ty Pinkins,DEM,77
+Madison,First Presbyterian Madison,U.S. Senate,,Ty Pinkins,DEM,70
+Madison,Franklin Baptist Church,U.S. Senate,,Ty Pinkins,DEM,2
+Madison,Gluckstadt @ St Joe Catholic,U.S. Senate,,Ty Pinkins,DEM,132
+Madison,Greater Mt Levi Full Gospel,U.S. Senate,,Ty Pinkins,DEM,66
+Madison,Holmes CC Workforce Bldg,U.S. Senate,,Ty Pinkins,DEM,167
+Madison,Jimmie M Goodloe Elem School,U.S. Senate,,Ty Pinkins,DEM,199
+Madison,Lake Caroline Clubhouse,U.S. Senate,,Ty Pinkins,DEM,56
+Madison,Mad. Co. Baptist Family Life Ct,U.S. Senate,,Ty Pinkins,DEM,66
+Madison,Magnolia Heights,U.S. Senate,,Ty Pinkins,DEM,149
+Madison,Mark Apartments,U.S. Senate,,Ty Pinkins,DEM,172
+Madison,Mt. Hope M B Church,U.S. Senate,,Ty Pinkins,DEM,16
+Madison,Northbay Bayview Clubhouse,U.S. Senate,,Ty Pinkins,DEM,26
+Madison,Parkway Pentecostal Church,U.S. Senate,,Ty Pinkins,DEM,99
+Madison,Pilgrim Rest MB Church,U.S. Senate,,Ty Pinkins,DEM,78
+Madison,Pleasant Gift Baptist Church,U.S. Senate,,Ty Pinkins,DEM,99
+Madison,Pleasant Green M B Church,U.S. Senate,,Ty Pinkins,DEM,142
+Madison,Ridge'D 1st Methodist Church,U.S. Senate,,Ty Pinkins,DEM,105
+Madison,Ridgecrest Baptist Church,U.S. Senate,,Ty Pinkins,DEM,52
+Madison,Ridgeland Recreation Center,U.S. Senate,,Ty Pinkins,DEM,71
+Madison,Sunnybrook Retirement Village,U.S. Senate,,Ty Pinkins,DEM,23
+Madison,The LightHouse Church,U.S. Senate,,Ty Pinkins,DEM,39
+Madison,Tougaloo,U.S. Senate,,Ty Pinkins,DEM,11
+Madison,Trace Ridge Baptist Church,U.S. Senate,,Ty Pinkins,DEM,143
+Madison,Twin Lakes Baptist Church,U.S. Senate,,Ty Pinkins,DEM,76
+Madison,Vertical Church,U.S. Senate,,Ty Pinkins,DEM,119
+Madison,Victory Baptist Church,U.S. Senate,,Ty Pinkins,DEM,26
+Madison,Cameron Bethel M B Church,President,,Donald J. Trump,REP,16
+Madison,Canden Community Center,President,,Donald J. Trump,REP,60
+Madison,Canton Anderson Lodge,President,,Donald J. Trump,REP,1
+Madison,Canton Bible Church,President,,Donald J. Trump,REP,0
+Madison,Canton Community Center,President,,Donald J. Trump,REP,32
+Madison,Canton Fire Station # 4,President,,Donald J. Trump,REP,30
+Madison,Canton National Guard Armory,President,,Donald J. Trump,REP,48
+Madison,Canton South Liberty Baptist Church,President,,Donald J. Trump,REP,173
+Madison,Canton St. Paul Methodist Church,President,,Donald J. Trump,REP,0
+Madison,Cedar Grove Baptist Church,President,,Donald J. Trump,REP,49
+Madison,China Grove A M E Church,President,,Donald J. Trump,REP,290
+Madison,Colonial Heights Baptist Church,President,,Donald J. Trump,REP,91
+Madison,Couparle United Methodist Church,President,,Donald J. Trump,REP,9
+Madison,Fairview MB Church,President,,Donald J. Trump,REP,442
+Madison,Farmhaven Fire Station,President,,Donald J. Trump,REP,37
+Madison,Fearns Chapel Freewill Baptist,President,,Donald J. Trump,REP,254
+Madison,Fellowship Bible Church,President,,Donald J. Trump,REP,54
+Madison,First Presbyterian Madison,President,,Donald J. Trump,REP,370
+Madison,Franklin Baptist Church,President,,Donald J. Trump,REP,90
+Madison,Gluckstadt @ St Joe Catholic,President,,Donald J. Trump,REP,478
+Madison,Greater Mt Levi Full Gospel,President,,Donald J. Trump,REP,3
+Madison,Holmes CC Workforce Bldg,President,,Donald J. Trump,REP,599
+Madison,Jimmie M Goodloe Elem School,President,,Donald J. Trump,REP,83
+Madison,Lake Caroline Clubhouse,President,,Donald J. Trump,REP,810
+Madison,Mad.Co. Baptist Family Life Ct,President,,Donald J. Trump,REP,1
+Madison,Magnolia Heights,President,,Donald J. Trump,REP,100
+Madison,Mark Apartments,President,,Donald J. Trump,REP,99
+Madison,Mt. Hope M B Church,President,,Donald J. Trump,REP,90
+Madison,Northbay Bayview Clubhouse,President,,Donald J. Trump,REP,194
+Madison,Parkway Pentecostal Church,President,,Donald J. Trump,REP,539
+Madison,Pilgrim Rest MB Church,President,,Donald J. Trump,REP,474
+Madison,Pleasant Gift Baptist Church,President,,Donald J. Trump,REP,108
+Madison,Pleasant Green M B Church,President,,Donald J. Trump,REP,27
+Madison,Ridge'D 1st Methodist Church,President,,Donald J. Trump,REP,231
+Madison,Ridgecrest Baptist Church,President,,Donald J. Trump,REP,390
+Madison,Ridgeland Recreation Center,President,,Donald J. Trump,REP,379
+Madison,Sunnybrook Retirement Village,President,,Donald J. Trump,REP,132
+Madison,The LightHouse Church,President,,Donald J. Trump,REP,423
+Madison,Tougaloo,President,,Donald J. Trump,REP,0
+Madison,Trace Ridge Baptist Church,President,,Donald J. Trump,REP,291
+Madison,Twin Lakes Baptist Church,President,,Donald J. Trump,REP,217
+Madison,Vertical Church,President,,Donald J. Trump,REP,436
+Madison,Victory Baptist Church,President,,Donald J. Trump,REP,232
+Madison,Cameron Bethel M B Church,President,,Nikki R. Haley,REP,0
+Madison,Canden Community Center,President,,Nikki R. Haley,REP,0
+Madison,Canton Anderson Lodge,President,,Nikki R. Haley,REP,0
+Madison,Canton Bible Church,President,,Nikki R. Haley,REP,0
+Madison,Canton Community Center,President,,Nikki R. Haley,REP,4
+Madison,Canton Fire Station # 4,President,,Nikki R. Haley,REP,2
+Madison,Canton National Guard Armory,President,,Nikki R. Haley,REP,8
+Madison,Canton South Liberty Baptist Church,President,,Nikki R. Haley,REP,15
+Madison,Canton St. Paul Methodist Church,President,,Nikki R. Haley,REP,0
+Madison,Cedar Grove Baptist Church,President,,Nikki R. Haley,REP,1
+Madison,China Grove A M E Church,President,,Nikki R. Haley,REP,37
+Madison,Colonial Heights Baptist Church,President,,Nikki R. Haley,REP,13
+Madison,Couparle United Methodist Church,President,,Nikki R. Haley,REP,0
+Madison,Fairview MB Church,President,,Nikki R. Haley,REP,45
+Madison,Farmhaven Fire Station,President,,Nikki R. Haley,REP,1
+Madison,Fearns Chapel Freewill Baptist,President,,Nikki R. Haley,REP,8
+Madison,Fellowship Bible Church,President,,Nikki R. Haley,REP,6
+Madison,First Presbyterian Madison,President,,Nikki R. Haley,REP,45
+Madison,Franklin Baptist Church,President,,Nikki R. Haley,REP,5
+Madison,Gluckstadt @ St Joe Catholic,President,,Nikki R. Haley,REP,55
+Madison,Greater Mt Levi Full Gospel,President,,Nikki R. Haley,REP,0
+Madison,Holmes CC Workforce Bldg,President,,Nikki R. Haley,REP,130
+Madison,Jimmie M Goodloe Elem School,President,,Nikki R. Haley,REP,6
+Madison,Lake Caroline Clubhouse,President,,Nikki R. Haley,REP,69
+Madison,Mad.Co. Baptist Family Life Ct,President,,Nikki R. Haley,REP,0
+Madison,Magnolia Heights,President,,Nikki R. Haley,REP,2
+Madison,Mark Apartments,President,,Nikki R. Haley,REP,24
+Madison,Mt. Hope M B Church,President,,Nikki R. Haley,REP,6
+Madison,Northbay Bayview Clubhouse,President,,Nikki R. Haley,REP,31
+Madison,Parkway Pentecostal Church,President,,Nikki R. Haley,REP,99
+Madison,Pilgrim Rest MB Church,President,,Nikki R. Haley,REP,66
+Madison,Pleasant Gift Baptist Church,President,,Nikki R. Haley,REP,2
+Madison,Pleasant Green M B Church,President,,Nikki R. Haley,REP,1
+Madison,Ridge'D 1st Methodist Church,President,,Nikki R. Haley,REP,42
+Madison,Ridgecrest Baptist Church,President,,Nikki R. Haley,REP,73
+Madison,Ridgeland Recreation Center,President,,Nikki R. Haley,REP,61
+Madison,Sunnybrook Retirement Village,President,,Nikki R. Haley,REP,13
+Madison,The LightHouse Church,President,,Nikki R. Haley,REP,52
+Madison,Tougaloo,President,,Nikki R. Haley,REP,0
+Madison,Trace Ridge Baptist Church,President,,Nikki R. Haley,REP,52
+Madison,Twin Lakes Baptist Church,President,,Nikki R. Haley,REP,28
+Madison,Vertical Church,President,,Nikki R. Haley,REP,48
+Madison,Victory Baptist Church,President,,Nikki R. Haley,REP,36
+Madison,Cameron Bethel M B Church,President,,Ron DeSantis,REP,0
+Madison,Canden Community Center,President,,Ron DeSantis,REP,0
+Madison,Canton Anderson Lodge,President,,Ron DeSantis,REP,0
+Madison,Canton Bible Church,President,,Ron DeSantis,REP,0
+Madison,Canton Community Center,President,,Ron DeSantis,REP,1
+Madison,Canton Fire Station # 4,President,,Ron DeSantis,REP,0
+Madison,Canton National Guard Armory,President,,Ron DeSantis,REP,1
+Madison,Canton South Liberty Baptist Church,President,,Ron DeSantis,REP,3
+Madison,Canton St. Paul Methodist Church,President,,Ron DeSantis,REP,0
+Madison,Cedar Grove Baptist Church,President,,Ron DeSantis,REP,0
+Madison,China Grove A M E Church,President,,Ron DeSantis,REP,16
+Madison,Colonial Heights Baptist Church,President,,Ron DeSantis,REP,4
+Madison,Couparle United Methodist Church,President,,Ron DeSantis,REP,0
+Madison,Fairview MB Church,President,,Ron DeSantis,REP,13
+Madison,Farmhaven Fire Station,President,,Ron DeSantis,REP,0
+Madison,Fearns Chapel Freewill Baptist,President,,Ron DeSantis,REP,2
+Madison,Fellowship Bible Church,President,,Ron DeSantis,REP,0
+Madison,First Presbyterian Madison,President,,Ron DeSantis,REP,6
+Madison,Franklin Baptist Church,President,,Ron DeSantis,REP,1
+Madison,Gluckstadt @ St Joe Catholic,President,,Ron DeSantis,REP,14
+Madison,Greater Mt Levi Full Gospel,President,,Ron DeSantis,REP,0
+Madison,Holmes CC Workforce Bldg,President,,Ron DeSantis,REP,22
+Madison,Jimmie M Goodloe Elem School,President,,Ron DeSantis,REP,2
+Madison,Lake Caroline Clubhouse,President,,Ron DeSantis,REP,16
+Madison,Mad.Co. Baptist Family Life Ct,President,,Ron DeSantis,REP,0
+Madison,Magnolia Heights,President,,Ron DeSantis,REP,0
+Madison,Mark Apartments,President,,Ron DeSantis,REP,2
+Madison,Mt. Hope M B Church,President,,Ron DeSantis,REP,0
+Madison,Northbay Bayview Clubhouse,President,,Ron DeSantis,REP,10
+Madison,Parkway Pentecostal Church,President,,Ron DeSantis,REP,29
+Madison,Pilgrim Rest MB Church,President,,Ron DeSantis,REP,9
+Madison,Pleasant Gift Baptist Church,President,,Ron DeSantis,REP,2
+Madison,Pleasant Green M B Church,President,,Ron DeSantis,REP,0
+Madison,Ridge'D 1st Methodist Church,President,,Ron DeSantis,REP,4
+Madison,Ridgecrest Baptist Church,President,,Ron DeSantis,REP,15
+Madison,Ridgeland Recreation Center,President,,Ron DeSantis,REP,8
+Madison,Sunnybrook Retirement Village,President,,Ron DeSantis,REP,2
+Madison,The LightHouse Church,President,,Ron DeSantis,REP,11
+Madison,Tougaloo,President,,Ron DeSantis,REP,0
+Madison,Trace Ridge Baptist Church,President,,Ron DeSantis,REP,8
+Madison,Twin Lakes Baptist Church,President,,Ron DeSantis,REP,6
+Madison,Vertical Church,President,,Ron DeSantis,REP,13
+Madison,Victory Baptist Church,President,,Ron DeSantis,REP,8
+Madison,Cameron Bethel M B Church,President,,Vivek Ramaswamy,REP,0
+Madison,Canden Community Center,President,,Vivek Ramaswamy,REP,0
+Madison,Canton Anderson Lodge,President,,Vivek Ramaswamy,REP,0
+Madison,Canton Bible Church,President,,Vivek Ramaswamy,REP,0
+Madison,Canton Community Center,President,,Vivek Ramaswamy,REP,0
+Madison,Canton Fire Station # 4,President,,Vivek Ramaswamy,REP,0
+Madison,Canton National Guard Armory,President,,Vivek Ramaswamy,REP,0
+Madison,Canton South Liberty Baptist Church,President,,Vivek Ramaswamy,REP,1
+Madison,Canton St. Paul Methodist Church,President,,Vivek Ramaswamy,REP,0
+Madison,Cedar Grove Baptist Church,President,,Vivek Ramaswamy,REP,0
+Madison,China Grove A M E Church,President,,Vivek Ramaswamy,REP,0
+Madison,Colonial Heights Baptist Church,President,,Vivek Ramaswamy,REP,1
+Madison,Couparle United Methodist Church,President,,Vivek Ramaswamy,REP,0
+Madison,Fairview MB Church,President,,Vivek Ramaswamy,REP,5
+Madison,Farmhaven Fire Station,President,,Vivek Ramaswamy,REP,0
+Madison,Fearns Chapel Freewill Baptist,President,,Vivek Ramaswamy,REP,1
+Madison,Fellowship Bible Church,President,,Vivek Ramaswamy,REP,0
+Madison,First Presbyterian Madison,President,,Vivek Ramaswamy,REP,6
+Madison,Franklin Baptist Church,President,,Vivek Ramaswamy,REP,2
+Madison,Gluckstadt @ St Joe Catholic,President,,Vivek Ramaswamy,REP,3
+Madison,Greater Mt Levi Full Gospel,President,,Vivek Ramaswamy,REP,0
+Madison,Holmes CC Workforce Bldg,President,,Vivek Ramaswamy,REP,7
+Madison,Jimmie M Goodloe Elem School,President,,Vivek Ramaswamy,REP,1
+Madison,Lake Caroline Clubhouse,President,,Vivek Ramaswamy,REP,6
+Madison,Mad.Co. Baptist Family Life Ct,President,,Vivek Ramaswamy,REP,0
+Madison,Magnolia Heights,President,,Vivek Ramaswamy,REP,0
+Madison,Mark Apartments,President,,Vivek Ramaswamy,REP,1
+Madison,Mt. Hope M B Church,President,,Vivek Ramaswamy,REP,1
+Madison,Northbay Bayview Clubhouse,President,,Vivek Ramaswamy,REP,2
+Madison,Parkway Pentecostal Church,President,,Vivek Ramaswamy,REP,8
+Madison,Pilgrim Rest MB Church,President,,Vivek Ramaswamy,REP,0
+Madison,Pleasant Gift Baptist Church,President,,Vivek Ramaswamy,REP,0
+Madison,Pleasant Green M B Church,President,,Vivek Ramaswamy,REP,0
+Madison,Ridge'D 1st Methodist Church,President,,Vivek Ramaswamy,REP,10
+Madison,Ridgecrest Baptist Church,President,,Vivek Ramaswamy,REP,5
+Madison,Ridgeland Recreation Center,President,,Vivek Ramaswamy,REP,3
+Madison,Sunnybrook Retirement Village,President,,Vivek Ramaswamy,REP,0
+Madison,The LightHouse Church,President,,Vivek Ramaswamy,REP,5
+Madison,Tougaloo,President,,Vivek Ramaswamy,REP,0
+Madison,Trace Ridge Baptist Church,President,,Vivek Ramaswamy,REP,2
+Madison,Twin Lakes Baptist Church,President,,Vivek Ramaswamy,REP,5
+Madison,Vertical Church,President,,Vivek Ramaswamy,REP,1
+Madison,Victory Baptist Church,President,,Vivek Ramaswamy,REP,1
+Madison,Cameron Bethel M B Church,U.S. House,2,Andrew Scott Smith,REP,3
+Madison,Canden Community Center,U.S. House,2,Andrew Scott Smith,REP,14
+Madison,Canton Anderson Lodge,U.S. House,2,Andrew Scott Smith,REP,0
+Madison,Canton Bible Church,U.S. House,2,Andrew Scott Smith,REP,0
+Madison,Canton Community Center,U.S. House,2,Andrew Scott Smith,REP,13
+Madison,Canton Fire Station # 4,U.S. House,2,Andrew Scott Smith,REP,7
+Madison,Canton National Guard Armory,U.S. House,2,Andrew Scott Smith,REP,11
+Madison,Canton South Liberty Baptist Church,U.S. House,2,Andrew Scott Smith,REP,48
+Madison,Canton St. Paul Methodist Church,U.S. House,2,Andrew Scott Smith,REP,0
+Madison,Cedar Grove Baptist Church,U.S. House,2,Andrew Scott Smith,REP,13
+Madison,Couparle United Methodist Church,U.S. House,2,Andrew Scott Smith,REP,0
+Madison,Farmhaven Fire Station,U.S. House,2,Andrew Scott Smith,REP,14
+Madison,Greater Mt Levi Full Gospel,U.S. House,2,Andrew Scott Smith,REP,0
+Madison,Jimmie M Goodloe Elem School,U.S. House,2,Andrew Scott Smith,REP,20
+Madison,Mad.Co. Baptist Family Life Ct,U.S. House,2,Andrew Scott Smith,REP,1
+Madison,Magnolia Heights,U.S. House,2,Andrew Scott Smith,REP,29
+Madison,Mt. Hope M B Church,U.S. House,2,Andrew Scott Smith,REP,27
+Madison,Pleasant Gift Baptist Church,U.S. House,2,Andrew Scott Smith,REP,31
+Madison,Pleasant Green M B Church,U.S. House,2,Andrew Scott Smith,REP,5
+Madison,Tougaloo,U.S. House,2,Andrew Scott Smith,REP,0
+Madison,Cameron Bethel M B Church,U.S. House,2,Ron Eller,REP,6
+Madison,Canden Community Center,U.S. House,2,Ron Eller,REP,19
+Madison,Canton Anderson Lodge,U.S. House,2,Ron Eller,REP,0
+Madison,Canton Bible Church,U.S. House,2,Ron Eller,REP,0
+Madison,Canton Community Center,U.S. House,2,Ron Eller,REP,10
+Madison,Canton Fire Station # 4,U.S. House,2,Ron Eller,REP,14
+Madison,Canton National Guard Armory,U.S. House,2,Ron Eller,REP,12
+Madison,Canton South Liberty Baptist Church,U.S. House,2,Ron Eller,REP,74
+Madison,Canton St. Paul Methodist Church,U.S. House,2,Ron Eller,REP,0
+Madison,Cedar Grove Baptist Church,U.S. House,2,Ron Eller,REP,21
+Madison,Couparle United Methodist Church,U.S. House,2,Ron Eller,REP,5
+Madison,Farmhaven Fire Station,U.S. House,2,Ron Eller,REP,13
+Madison,Greater Mt Levi Full Gospel,U.S. House,2,Ron Eller,REP,2
+Madison,Jimmie M Goodloe Elem School,U.S. House,2,Ron Eller,REP,32
+Madison,Mad.Co. Baptist Family Life Ct,U.S. House,2,Ron Eller,REP,0
+Madison,Magnolia Heights,U.S. House,2,Ron Eller,REP,28
+Madison,Mt. Hope M B Church,U.S. House,2,Ron Eller,REP,28
+Madison,Pleasant Gift Baptist Church,U.S. House,2,Ron Eller,REP,48
+Madison,Pleasant Green M B Church,U.S. House,2,Ron Eller,REP,14
+Madison,Tougaloo,U.S. House,2,Ron Eller,REP,0
+Madison,Cameron Bethel M B Church,U.S. House,2,Taylor Turcotte,REP,7
+Madison,Canden Community Center,U.S. House,2,Taylor Turcotte,REP,18
+Madison,Canton Anderson Lodge,U.S. House,2,Taylor Turcotte,REP,1
+Madison,Canton Bible Church,U.S. House,2,Taylor Turcotte,REP,0
+Madison,Canton Community Center,U.S. House,2,Taylor Turcotte,REP,9
+Madison,Canton Fire Station # 4,U.S. House,2,Taylor Turcotte,REP,6
+Madison,Canton National Guard Armory,U.S. House,2,Taylor Turcotte,REP,14
+Madison,Canton South Liberty Baptist Church,U.S. House,2,Taylor Turcotte,REP,61
+Madison,Canton St. Paul Methodist Church,U.S. House,2,Taylor Turcotte,REP,0
+Madison,Cedar Grove Baptist Church,U.S. House,2,Taylor Turcotte,REP,10
+Madison,Couparle United Methodist Church,U.S. House,2,Taylor Turcotte,REP,4
+Madison,Farmhaven Fire Station,U.S. House,2,Taylor Turcotte,REP,11
+Madison,Greater Mt Levi Full Gospel,U.S. House,2,Taylor Turcotte,REP,1
+Madison,Jimmie M Goodloe Elem School,U.S. House,2,Taylor Turcotte,REP,32
+Madison,Mad.Co. Baptist Family Life Ct,U.S. House,2,Taylor Turcotte,REP,0
+Madison,Magnolia Heights,U.S. House,2,Taylor Turcotte,REP,39
+Madison,Mt. Hope M B Church,U.S. House,2,Taylor Turcotte,REP,30
+Madison,Pleasant Gift Baptist Church,U.S. House,2,Taylor Turcotte,REP,33
+Madison,Pleasant Green M B Church,U.S. House,2,Taylor Turcotte,REP,9
+Madison,Tougaloo,U.S. House,2,Taylor Turcotte,REP,0
+Madison,Canton National Guard Armory,U.S. House,3,Michael Guest,REP,17
+Madison,China Grove A M E Church,U.S. House,3,Michael Guest,REP,325
+Madison,Colonial Heights Baptist Church,U.S. House,3,Michael Guest,REP,107
+Madison,Fairview MB Church,U.S. House,3,Michael Guest,REP,461
+Madison,Fearns Chapel Freewill Baptist,U.S. House,3,Michael Guest,REP,251
+Madison,Fellowship Bible Church,U.S. House,3,Michael Guest,REP,56
+Madison,First Presbyterian Madison,U.S. House,3,Michael Guest,REP,396
+Madison,Franklin Baptist Church,U.S. House,3,Michael Guest,REP,91
+Madison,Gluckstadt @ St Joe Catholic,U.S. House,3,Michael Guest,REP,508
+Madison,Holmes CC Workforce Bldg,U.S. House,3,Michael Guest,REP,717
+Madison,Lake Caroline Clubhouse,U.S. House,3,Michael Guest,REP,847
+Madison,Mark Apartments,U.S. House,3,Michael Guest,REP,116
+Madison,Northbay Bayview Clubhouse,U.S. House,3,Michael Guest,REP,219
+Madison,Parkway Pentecostal Church,U.S. House,3,Michael Guest,REP,634
+Madison,Pilgrim Rest MB Church,U.S. House,3,Michael Guest,REP,513
+Madison,Ridge'D 1st Methodist Church,U.S. House,3,Michael Guest,REP,267
+Madison,Ridgecrest Baptist Church,U.S. House,3,Michael Guest,REP,456
+Madison,Ridgeland Recreation Center,U.S. House,3,Michael Guest,REP,439
+Madison,Sunnybrook Retirement Village,U.S. House,3,Michael Guest,REP,134
+Madison,The LightHouse Church,U.S. House,3,Michael Guest,REP,450
+Madison,Trace Ridge Baptist Church,U.S. House,3,Michael Guest,REP,344
+Madison,Twin Lakes Baptist Church,U.S. House,3,Michael Guest,REP,227
+Madison,Vertical Church,U.S. House,3,Michael Guest,REP,477
+Madison,Victory Baptist Church,U.S. House,3,Michael Guest,REP,261
+Madison,Cameron Bethel M B Church,U.S. Senate,,Dan Eubanks,REP,2
+Madison,Canden Community Center,U.S. Senate,,Dan Eubanks,REP,4
+Madison,Canton Anderson Lodge,U.S. Senate,,Dan Eubanks,REP,0
+Madison,Canton Bible Church,U.S. Senate,,Dan Eubanks,REP,0
+Madison,Canton Community Center,U.S. Senate,,Dan Eubanks,REP,4
+Madison,Canton Fire Station # 4,U.S. Senate,,Dan Eubanks,REP,2
+Madison,Canton National Guard Armory,U.S. Senate,,Dan Eubanks,REP,5
+Madison,Canton South Liberty Baptist Church,U.S. Senate,,Dan Eubanks,REP,23
+Madison,Canton St. Paul Methodist Church,U.S. Senate,,Dan Eubanks,REP,0
+Madison,Cedar Grove Baptist Church,U.S. Senate,,Dan Eubanks,REP,11
+Madison,China Grove A M E Church,U.S. Senate,,Dan Eubanks,REP,52
+Madison,Colonial Heights Baptist Church,U.S. Senate,,Dan Eubanks,REP,12
+Madison,Couparle United Methodist Church,U.S. Senate,,Dan Eubanks,REP,0
+Madison,Fairview MB Church,U.S. Senate,,Dan Eubanks,REP,66
+Madison,Farmhaven Fire Station,U.S. Senate,,Dan Eubanks,REP,6
+Madison,Fearns Chapel Freewill Baptist,U.S. Senate,,Dan Eubanks,REP,26
+Madison,Fellowship Bible Church,U.S. Senate,,Dan Eubanks,REP,5
+Madison,First Presbyterian Madison,U.S. Senate,,Dan Eubanks,REP,44
+Madison,Franklin Baptist Church,U.S. Senate,,Dan Eubanks,REP,20
+Madison,Gluckstadt @ St Joe Catholic,U.S. Senate,,Dan Eubanks,REP,74
+Madison,Greater Mt Levi Full Gospel,U.S. Senate,,Dan Eubanks,REP,0
+Madison,Holmes CC Workforce Bldg,U.S. Senate,,Dan Eubanks,REP,77
+Madison,Jimmie M Goodloe Elem School,U.S. Senate,,Dan Eubanks,REP,7
+Madison,Lake Caroline Clubhouse,U.S. Senate,,Dan Eubanks,REP,110
+Madison,Mad.Co. Baptist Family Life Ct,U.S. Senate,,Dan Eubanks,REP,1
+Madison,Magnolia Heights,U.S. Senate,,Dan Eubanks,REP,12
+Madison,Mark Apartments,U.S. Senate,,Dan Eubanks,REP,15
+Madison,Mt. Hope M B Church,U.S. Senate,,Dan Eubanks,REP,7
+Madison,Northbay Bayview Clubhouse,U.S. Senate,,Dan Eubanks,REP,24
+Madison,Parkway Pentecostal Church,U.S. Senate,,Dan Eubanks,REP,83
+Madison,Pilgrim Rest MB Church,U.S. Senate,,Dan Eubanks,REP,78
+Madison,Pleasant Gift Baptist Church,U.S. Senate,,Dan Eubanks,REP,19
+Madison,Pleasant Green M B Church,U.S. Senate,,Dan Eubanks,REP,3
+Madison,Ridge'D 1st Methodist Church,U.S. Senate,,Dan Eubanks,REP,26
+Madison,Ridgecrest Baptist Church,U.S. Senate,,Dan Eubanks,REP,61
+Madison,Ridgeland Recreation Center,U.S. Senate,,Dan Eubanks,REP,57
+Madison,Sunnybrook Retirement Village,U.S. Senate,,Dan Eubanks,REP,21
+Madison,The LightHouse Church,U.S. Senate,,Dan Eubanks,REP,51
+Madison,Tougaloo,U.S. Senate,,Dan Eubanks,REP,0
+Madison,Trace Ridge Baptist Church,U.S. Senate,,Dan Eubanks,REP,43
+Madison,Twin Lakes Baptist Church,U.S. Senate,,Dan Eubanks,REP,36
+Madison,Vertical Church,U.S. Senate,,Dan Eubanks,REP,69
+Madison,Victory Baptist Church,U.S. Senate,,Dan Eubanks,REP,25
+Madison,Cameron Bethel M B Church,U.S. Senate,,Ghannon Burton,REP,3
+Madison,Canden Community Center,U.S. Senate,,Ghannon Burton,REP,13
+Madison,Canton Anderson Lodge,U.S. Senate,,Ghannon Burton,REP,1
+Madison,Canton Bible Church,U.S. Senate,,Ghannon Burton,REP,0
+Madison,Canton Community Center,U.S. Senate,,Ghannon Burton,REP,9
+Madison,Canton Fire Station # 4,U.S. Senate,,Ghannon Burton,REP,4
+Madison,Canton National Guard Armory,U.S. Senate,,Ghannon Burton,REP,14
+Madison,Canton South Liberty Baptist Church,U.S. Senate,,Ghannon Burton,REP,29
+Madison,Canton St. Paul Methodist Church,U.S. Senate,,Ghannon Burton,REP,0
+Madison,Cedar Grove Baptist Church,U.S. Senate,,Ghannon Burton,REP,8
+Madison,China Grove A M E Church,U.S. Senate,,Ghannon Burton,REP,66
+Madison,Colonial Heights Baptist Church,U.S. Senate,,Ghannon Burton,REP,17
+Madison,Couparle United Methodist Church,U.S. Senate,,Ghannon Burton,REP,2
+Madison,Fairview MB Church,U.S. Senate,,Ghannon Burton,REP,115
+Madison,Farmhaven Fire Station,U.S. Senate,,Ghannon Burton,REP,8
+Madison,Fearns Chapel Freewill Baptist,U.S. Senate,,Ghannon Burton,REP,87
+Madison,Fellowship Bible Church,U.S. Senate,,Ghannon Burton,REP,13
+Madison,First Presbyterian Madison,U.S. Senate,,Ghannon Burton,REP,99
+Madison,Franklin Baptist Church,U.S. Senate,,Ghannon Burton,REP,17
+Madison,Gluckstadt @ St Joe Catholic,U.S. Senate,,Ghannon Burton,REP,142
+Madison,Greater Mt Levi Full Gospel,U.S. Senate,,Ghannon Burton,REP,2
+Madison,Holmes CC Workforce Bldg,U.S. Senate,,Ghannon Burton,REP,98
+Madison,Jimmie M Goodloe Elem School,U.S. Senate,,Ghannon Burton,REP,22
+Madison,Lake Caroline Clubhouse,U.S. Senate,,Ghannon Burton,REP,201
+Madison,Mad.Co. Baptist Family Life Ct,U.S. Senate,,Ghannon Burton,REP,0
+Madison,Magnolia Heights,U.S. Senate,,Ghannon Burton,REP,24
+Madison,Mark Apartments,U.S. Senate,,Ghannon Burton,REP,16
+Madison,Mt. Hope M B Church,U.S. Senate,,Ghannon Burton,REP,26
+Madison,Northbay Bayview Clubhouse,U.S. Senate,,Ghannon Burton,REP,55
+Madison,Parkway Pentecostal Church,U.S. Senate,,Ghannon Burton,REP,137
+Madison,Pilgrim Rest MB Church,U.S. Senate,,Ghannon Burton,REP,138
+Madison,Pleasant Gift Baptist Church,U.S. Senate,,Ghannon Burton,REP,27
+Madison,Pleasant Green M B Church,U.S. Senate,,Ghannon Burton,REP,8
+Madison,Ridge'D 1st Methodist Church,U.S. Senate,,Ghannon Burton,REP,57
+Madison,Ridgecrest Baptist Church,U.S. Senate,,Ghannon Burton,REP,102
+Madison,Ridgeland Recreation Center,U.S. Senate,,Ghannon Burton,REP,83
+Madison,Sunnybrook Retirement Village,U.S. Senate,,Ghannon Burton,REP,17
+Madison,The LightHouse Church,U.S. Senate,,Ghannon Burton,REP,112
+Madison,Tougaloo,U.S. Senate,,Ghannon Burton,REP,0
+Madison,Trace Ridge Baptist Church,U.S. Senate,,Ghannon Burton,REP,49
+Madison,Twin Lakes Baptist Church,U.S. Senate,,Ghannon Burton,REP,59
+Madison,Vertical Church,U.S. Senate,,Ghannon Burton,REP,101
+Madison,Victory Baptist Church,U.S. Senate,,Ghannon Burton,REP,47
+Madison,Cameron Bethel M B Church,U.S. Senate,,Roger F. Wicker,REP,11
+Madison,Canden Community Center,U.S. Senate,,Roger F. Wicker,REP,42
+Madison,Canton Anderson Lodge,U.S. Senate,,Roger F. Wicker,REP,0
+Madison,Canton Bible Church,U.S. Senate,,Roger F. Wicker,REP,0
+Madison,Canton Community Center,U.S. Senate,,Roger F. Wicker,REP,25
+Madison,Canton Fire Station # 4,U.S. Senate,,Roger F. Wicker,REP,25
+Madison,Canton National Guard Armory,U.S. Senate,,Roger F. Wicker,REP,38
+Madison,Canton South Liberty Baptist Church,U.S. Senate,,Roger F. Wicker,REP,141
+Madison,Canton St. Paul Methodist Church,U.S. Senate,,Roger F. Wicker,REP,0
+Madison,Cedar Grove Baptist Church,U.S. Senate,,Roger F. Wicker,REP,31
+Madison,China Grove A M E Church,U.S. Senate,,Roger F. Wicker,REP,228
+Madison,Colonial Heights Baptist Church,U.S. Senate,,Roger F. Wicker,REP,83
+Madison,Couparle United Methodist Church,U.S. Senate,,Roger F. Wicker,REP,7
+Madison,Fairview MB Church,U.S. Senate,,Roger F. Wicker,REP,323
+Madison,Farmhaven Fire Station,U.S. Senate,,Roger F. Wicker,REP,24
+Madison,Fearns Chapel Freewill Baptist,U.S. Senate,,Roger F. Wicker,REP,154
+Madison,Fellowship Bible Church,U.S. Senate,,Roger F. Wicker,REP,42
+Madison,First Presbyterian Madison,U.S. Senate,,Roger F. Wicker,REP,281
+Madison,Franklin Baptist Church,U.S. Senate,,Roger F. Wicker,REP,64
+Madison,Gluckstadt @ St Joe Catholic,U.S. Senate,,Roger F. Wicker,REP,336
+Madison,Greater Mt Levi Full Gospel,U.S. Senate,,Roger F. Wicker,REP,1
+Madison,Holmes CC Workforce Bldg,U.S. Senate,,Roger F. Wicker,REP,596
+Madison,Jimmie M Goodloe Elem School,U.S. Senate,,Roger F. Wicker,REP,62
+Madison,Lake Caroline Clubhouse,U.S. Senate,,Roger F. Wicker,REP,581
+Madison,Mad.Co. Baptist Family Life Ct,U.S. Senate,,Roger F. Wicker,REP,0
+Madison,Magnolia Heights,U.S. Senate,,Roger F. Wicker,REP,67
+Madison,Mark Apartments,U.S. Senate,,Roger F. Wicker,REP,96
+Madison,Mt. Hope M B Church,U.S. Senate,,Roger F. Wicker,REP,64
+Madison,Northbay Bayview Clubhouse,U.S. Senate,,Roger F. Wicker,REP,155
+Madison,Parkway Pentecostal Church,U.S. Senate,,Roger F. Wicker,REP,459
+Madison,Pilgrim Rest MB Church,U.S. Senate,,Roger F. Wicker,REP,338
+Madison,Pleasant Gift Baptist Church,U.S. Senate,,Roger F. Wicker,REP,69
+Madison,Pleasant Green M B Church,U.S. Senate,,Roger F. Wicker,REP,17
+Madison,Ridge'D 1st Methodist Church,U.S. Senate,,Roger F. Wicker,REP,206
+Madison,Ridgecrest Baptist Church,U.S. Senate,,Roger F. Wicker,REP,323
+Madison,Ridgeland Recreation Center,U.S. Senate,,Roger F. Wicker,REP,320
+Madison,Sunnybrook Retirement Village,U.S. Senate,,Roger F. Wicker,REP,110
+Madison,The LightHouse Church,U.S. Senate,,Roger F. Wicker,REP,328
+Madison,Tougaloo,U.S. Senate,,Roger F. Wicker,REP,0
+Madison,Trace Ridge Baptist Church,U.S. Senate,,Roger F. Wicker,REP,265
+Madison,Twin Lakes Baptist Church,U.S. Senate,,Roger F. Wicker,REP,165
+Madison,Vertical Church,U.S. Senate,,Roger F. Wicker,REP,335
+Madison,Victory Baptist Church,U.S. Senate,,Roger F. Wicker,REP,201

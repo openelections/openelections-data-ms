@@ -1,0 +1,565 @@
+county,precinct,office,district,candidate,party,votes
+DeSoto,Alphaba-Cockrum,President,,Joseph R. Biden Jr.,DEM,28
+DeSoto,Baker's Chapel,President,,Joseph R. Biden Jr.,DEM,26
+DeSoto,Boulevard Baptist Church,President,,Joseph R. Biden Jr.,DEM,106
+DeSoto,Bridgetown,President,,Joseph R. Biden Jr.,DEM,13
+DeSoto,Church Road Baptist,President,,Joseph R. Biden Jr.,DEM,77
+DeSoto,Colonial Hills Hernando,President,,Joseph R. Biden Jr.,DEM,41
+DeSoto,Cumberland,President,,Joseph R. Biden Jr.,DEM,118
+DeSoto,Dean Hill Baptist Church,President,,Joseph R. Biden Jr.,DEM,51
+DeSoto,Desoto Central,President,,Joseph R. Biden Jr.,DEM,91
+DeSoto,Desoto Hills Baptist Church,President,,Joseph R. Biden Jr.,DEM,122
+DeSoto,Elmore,President,,Joseph R. Biden Jr.,DEM,42
+DeSoto,Eudora,President,,Joseph R. Biden Jr.,DEM,35
+DeSoto,Fairhaven,President,,Joseph R. Biden Jr.,DEM,120
+DeSoto,First Presbyterian Church,President,,Joseph R. Biden Jr.,DEM,37
+DeSoto,Glenn's Chapel,President,,Joseph R. Biden Jr.,DEM,48
+DeSoto,Greenbrook North,President,,Joseph R. Biden Jr.,DEM,149
+DeSoto,Greenbrook South,President,,Joseph R. Biden Jr.,DEM,119
+DeSoto,Gwynn Road,President,,Joseph R. Biden Jr.,DEM,54
+DeSoto,Hacks Cross Road,President,,Joseph R. Biden Jr.,DEM,97
+DeSoto,Heartland Church,President,,Joseph R. Biden Jr.,DEM,116
+DeSoto,Hernando Central,President,,Joseph R. Biden Jr.,DEM,60
+DeSoto,Hernando West,President,,Joseph R. Biden Jr.,DEM,41
+DeSoto,Horn Lake Central,President,,Joseph R. Biden Jr.,DEM,60
+DeSoto,Horn Lake East,President,,Joseph R. Biden Jr.,DEM,39
+DeSoto,Horn Lake West,President,,Joseph R. Biden Jr.,DEM,51
+DeSoto,Ingrams Mill,President,,Joseph R. Biden Jr.,DEM,63
+DeSoto,Lewisburg,President,,Joseph R. Biden Jr.,DEM,156
+DeSoto,Lewisburg East,President,,Joseph R. Biden Jr.,DEM,15
+DeSoto,Love,President,,Joseph R. Biden Jr.,DEM,17
+DeSoto,Miller,President,,Joseph R. Biden Jr.,DEM,124
+DeSoto,Mineral Wells,President,,Joseph R. Biden Jr.,DEM,125
+DeSoto,Minor Memorial UMC,President,,Joseph R. Biden Jr.,DEM,121
+DeSoto,Northwest Community College,President,,Joseph R. Biden Jr.,DEM,67
+DeSoto,Olive Branch East,President,,Joseph R. Biden Jr.,DEM,123
+DeSoto,Olive Branch North,President,,Joseph R. Biden Jr.,DEM,93
+DeSoto,Olive Branch South,President,,Joseph R. Biden Jr.,DEM,50
+DeSoto,Olive Branch West,President,,Joseph R. Biden Jr.,DEM,66
+DeSoto,Pleasant Hill North,President,,Joseph R. Biden Jr.,DEM,16
+DeSoto,SouthPoint Church,President,,Joseph R. Biden Jr.,DEM,122
+DeSoto,Southaven Library,President,,Joseph R. Biden Jr.,DEM,42
+DeSoto,Southaven South,President,,Joseph R. Biden Jr.,DEM,46
+DeSoto,Summershill,President,,Joseph R. Biden Jr.,DEM,187
+DeSoto,Summit Church,President,,Joseph R. Biden Jr.,DEM,56
+DeSoto,The Well at Lewisburg,President,,Joseph R. Biden Jr.,DEM,24
+DeSoto,Trinity Baptist Church,President,,Joseph R. Biden Jr.,DEM,35
+DeSoto,Twin Lakes Baptist Church,President,,Joseph R. Biden Jr.,DEM,89
+DeSoto,Walls,President,,Joseph R. Biden Jr.,DEM,93
+DeSoto,Alphaba-Cockrum,U.S. House,1,Bronco Williams,DEM,6
+DeSoto,Baker's Chapel,U.S. House,1,Bronco Williams,DEM,3
+DeSoto,Boulevard Baptist Church,U.S. House,1,Bronco Williams,DEM,13
+DeSoto,Bridgetown,U.S. House,1,Bronco Williams,DEM,4
+DeSoto,Church Road Baptist,U.S. House,1,Bronco Williams,DEM,13
+DeSoto,Colonial Hills Hernando,U.S. House,1,Bronco Williams,DEM,7
+DeSoto,Cumberland,U.S. House,1,Bronco Williams,DEM,7
+DeSoto,Dean Hill Baptist Church,U.S. House,1,Bronco Williams,DEM,6
+DeSoto,Desoto Central,U.S. House,1,Bronco Williams,DEM,13
+DeSoto,Desoto Hills Baptist Church,U.S. House,1,Bronco Williams,DEM,18
+DeSoto,Elmore,U.S. House,1,Bronco Williams,DEM,4
+DeSoto,Eudora,U.S. House,1,Bronco Williams,DEM,10
+DeSoto,Fairhaven,U.S. House,1,Bronco Williams,DEM,12
+DeSoto,First Presbyterian Church,U.S. House,1,Bronco Williams,DEM,4
+DeSoto,Glenn's Chapel,U.S. House,1,Bronco Williams,DEM,6
+DeSoto,Greenbrook North,U.S. House,1,Bronco Williams,DEM,22
+DeSoto,Greenbrook South,U.S. House,1,Bronco Williams,DEM,13
+DeSoto,Gwynn Road,U.S. House,1,Bronco Williams,DEM,5
+DeSoto,Hacks Cross Road,U.S. House,1,Bronco Williams,DEM,6
+DeSoto,Heartland Church,U.S. House,1,Bronco Williams,DEM,15
+DeSoto,Hernando Central,U.S. House,1,Bronco Williams,DEM,11
+DeSoto,Hernando West,U.S. House,1,Bronco Williams,DEM,5
+DeSoto,Horn Lake Central,U.S. House,1,Bronco Williams,DEM,11
+DeSoto,Horn Lake East,U.S. House,1,Bronco Williams,DEM,10
+DeSoto,Horn Lake West,U.S. House,1,Bronco Williams,DEM,6
+DeSoto,Ingrams Mill,U.S. House,1,Bronco Williams,DEM,8
+DeSoto,Lewisburg,U.S. House,1,Bronco Williams,DEM,23
+DeSoto,Lewisburg East,U.S. House,1,Bronco Williams,DEM,2
+DeSoto,Love,U.S. House,1,Bronco Williams,DEM,5
+DeSoto,Miller,U.S. House,1,Bronco Williams,DEM,10
+DeSoto,Mineral Wells,U.S. House,1,Bronco Williams,DEM,15
+DeSoto,Minor Memorial UMC,U.S. House,1,Bronco Williams,DEM,21
+DeSoto,Northwest Community College,U.S. House,1,Bronco Williams,DEM,7
+DeSoto,Olive Branch East,U.S. House,1,Bronco Williams,DEM,12
+DeSoto,Olive Branch North,U.S. House,1,Bronco Williams,DEM,12
+DeSoto,Olive Branch South,U.S. House,1,Bronco Williams,DEM,7
+DeSoto,Olive Branch West,U.S. House,1,Bronco Williams,DEM,3
+DeSoto,Pleasant Hill North,U.S. House,1,Bronco Williams,DEM,2
+DeSoto,SouthPoint Church,U.S. House,1,Bronco Williams,DEM,15
+DeSoto,Southaven Library,U.S. House,1,Bronco Williams,DEM,6
+DeSoto,Southaven South,U.S. House,1,Bronco Williams,DEM,9
+DeSoto,Summershill,U.S. House,1,Bronco Williams,DEM,24
+DeSoto,Summit Church,U.S. House,1,Bronco Williams,DEM,6
+DeSoto,The Well at Lewisburg,U.S. House,1,Bronco Williams,DEM,4
+DeSoto,Trinity Baptist Church,U.S. House,1,Bronco Williams,DEM,2
+DeSoto,Twin Lakes Baptist Church,U.S. House,1,Bronco Williams,DEM,8
+DeSoto,Walls,U.S. House,1,Bronco Williams,DEM,15
+DeSoto,Alphaba-Cockrum,U.S. House,1,Dianne Dodson Black,DEM,24
+DeSoto,Baker's Chapel,U.S. House,1,Dianne Dodson Black,DEM,23
+DeSoto,Boulevard Baptist Church,U.S. House,1,Dianne Dodson Black,DEM,91
+DeSoto,Bridgetown,U.S. House,1,Dianne Dodson Black,DEM,7
+DeSoto,Church Road Baptist,U.S. House,1,Dianne Dodson Black,DEM,65
+DeSoto,Colonial Hills Hernando,U.S. House,1,Dianne Dodson Black,DEM,34
+DeSoto,Cumberland,U.S. House,1,Dianne Dodson Black,DEM,113
+DeSoto,Dean Hill Baptist Church,U.S. House,1,Dianne Dodson Black,DEM,45
+DeSoto,Desoto Central,U.S. House,1,Dianne Dodson Black,DEM,74
+DeSoto,Desoto Hills Baptist Church,U.S. House,1,Dianne Dodson Black,DEM,105
+DeSoto,Elmore,U.S. House,1,Dianne Dodson Black,DEM,35
+DeSoto,Eudora,U.S. House,1,Dianne Dodson Black,DEM,27
+DeSoto,Fairhaven,U.S. House,1,Dianne Dodson Black,DEM,109
+DeSoto,First Presbyterian Church,U.S. House,1,Dianne Dodson Black,DEM,33
+DeSoto,Glenn's Chapel,U.S. House,1,Dianne Dodson Black,DEM,41
+DeSoto,Greenbrook North,U.S. House,1,Dianne Dodson Black,DEM,120
+DeSoto,Greenbrook South,U.S. House,1,Dianne Dodson Black,DEM,103
+DeSoto,Gwynn Road,U.S. House,1,Dianne Dodson Black,DEM,47
+DeSoto,Hacks Cross Road,U.S. House,1,Dianne Dodson Black,DEM,91
+DeSoto,Heartland Church,U.S. House,1,Dianne Dodson Black,DEM,100
+DeSoto,Hernando Central,U.S. House,1,Dianne Dodson Black,DEM,48
+DeSoto,Hernando West,U.S. House,1,Dianne Dodson Black,DEM,35
+DeSoto,Horn Lake Central,U.S. House,1,Dianne Dodson Black,DEM,50
+DeSoto,Horn Lake East,U.S. House,1,Dianne Dodson Black,DEM,29
+DeSoto,Horn Lake West,U.S. House,1,Dianne Dodson Black,DEM,44
+DeSoto,Ingrams Mill,U.S. House,1,Dianne Dodson Black,DEM,56
+DeSoto,Lewisburg,U.S. House,1,Dianne Dodson Black,DEM,135
+DeSoto,Lewisburg East,U.S. House,1,Dianne Dodson Black,DEM,13
+DeSoto,Love,U.S. House,1,Dianne Dodson Black,DEM,12
+DeSoto,Miller,U.S. House,1,Dianne Dodson Black,DEM,114
+DeSoto,Mineral Wells,U.S. House,1,Dianne Dodson Black,DEM,111
+DeSoto,Minor Memorial UMC,U.S. House,1,Dianne Dodson Black,DEM,99
+DeSoto,Northwest Community College,U.S. House,1,Dianne Dodson Black,DEM,61
+DeSoto,Olive Branch East,U.S. House,1,Dianne Dodson Black,DEM,114
+DeSoto,Olive Branch North,U.S. House,1,Dianne Dodson Black,DEM,83
+DeSoto,Olive Branch South,U.S. House,1,Dianne Dodson Black,DEM,44
+DeSoto,Olive Branch West,U.S. House,1,Dianne Dodson Black,DEM,62
+DeSoto,Pleasant Hill North,U.S. House,1,Dianne Dodson Black,DEM,14
+DeSoto,SouthPoint Church,U.S. House,1,Dianne Dodson Black,DEM,107
+DeSoto,Southaven Library,U.S. House,1,Dianne Dodson Black,DEM,35
+DeSoto,Southaven South,U.S. House,1,Dianne Dodson Black,DEM,39
+DeSoto,Summershill,U.S. House,1,Dianne Dodson Black,DEM,158
+DeSoto,Summit Church,U.S. House,1,Dianne Dodson Black,DEM,48
+DeSoto,The Well at Lewisburg,U.S. House,1,Dianne Dodson Black,DEM,19
+DeSoto,Trinity Baptist Church,U.S. House,1,Dianne Dodson Black,DEM,31
+DeSoto,Twin Lakes Baptist Church,U.S. House,1,Dianne Dodson Black,DEM,80
+DeSoto,Walls,U.S. House,1,Dianne Dodson Black,DEM,79
+DeSoto,Alphaba-Cockrum,U.S. Senate,,Ty Pinkins,DEM,25
+DeSoto,Baker's Chapel,U.S. Senate,,Ty Pinkins,DEM,24
+DeSoto,Boulevard Baptist Church,U.S. Senate,,Ty Pinkins,DEM,100
+DeSoto,Bridgetown,U.S. Senate,,Ty Pinkins,DEM,11
+DeSoto,Church Road Baptist,U.S. Senate,,Ty Pinkins,DEM,78
+DeSoto,Colonial Hills Hernando,U.S. Senate,,Ty Pinkins,DEM,42
+DeSoto,Cumberland,U.S. Senate,,Ty Pinkins,DEM,115
+DeSoto,Dean Hill Baptist Church,U.S. Senate,,Ty Pinkins,DEM,49
+DeSoto,Desoto Central,U.S. Senate,,Ty Pinkins,DEM,84
+DeSoto,Desoto Hills Baptist Church,U.S. Senate,,Ty Pinkins,DEM,119
+DeSoto,Elmore,U.S. Senate,,Ty Pinkins,DEM,38
+DeSoto,Eudora,U.S. Senate,,Ty Pinkins,DEM,35
+DeSoto,Fairhaven,U.S. Senate,,Ty Pinkins,DEM,113
+DeSoto,First Presbyterian Church,U.S. Senate,,Ty Pinkins,DEM,37
+DeSoto,Glenn's Chapel,U.S. Senate,,Ty Pinkins,DEM,46
+DeSoto,Greenbrook North,U.S. Senate,,Ty Pinkins,DEM,133
+DeSoto,Greenbrook South,U.S. Senate,,Ty Pinkins,DEM,112
+DeSoto,Gwynn Road,U.S. Senate,,Ty Pinkins,DEM,50
+DeSoto,Hacks Cross Road,U.S. Senate,,Ty Pinkins,DEM,89
+DeSoto,Heartland Church,U.S. Senate,,Ty Pinkins,DEM,109
+DeSoto,Hernando Central,U.S. Senate,,Ty Pinkins,DEM,60
+DeSoto,Hernando West,U.S. Senate,,Ty Pinkins,DEM,39
+DeSoto,Horn Lake Central,U.S. Senate,,Ty Pinkins,DEM,59
+DeSoto,Horn Lake East,U.S. Senate,,Ty Pinkins,DEM,34
+DeSoto,Horn Lake West,U.S. Senate,,Ty Pinkins,DEM,50
+DeSoto,Ingrams Mill,U.S. Senate,,Ty Pinkins,DEM,60
+DeSoto,Lewisburg,U.S. Senate,,Ty Pinkins,DEM,150
+DeSoto,Lewisburg East,U.S. Senate,,Ty Pinkins,DEM,15
+DeSoto,Love,U.S. Senate,,Ty Pinkins,DEM,15
+DeSoto,Miller,U.S. Senate,,Ty Pinkins,DEM,113
+DeSoto,Mineral Wells,U.S. Senate,,Ty Pinkins,DEM,120
+DeSoto,Minor Memorial UMC,U.S. Senate,,Ty Pinkins,DEM,113
+DeSoto,Northwest Community College,U.S. Senate,,Ty Pinkins,DEM,64
+DeSoto,Olive Branch East,U.S. Senate,,Ty Pinkins,DEM,116
+DeSoto,Olive Branch North,U.S. Senate,,Ty Pinkins,DEM,94
+DeSoto,Olive Branch South,U.S. Senate,,Ty Pinkins,DEM,50
+DeSoto,Olive Branch West,U.S. Senate,,Ty Pinkins,DEM,59
+DeSoto,Pleasant Hill North,U.S. Senate,,Ty Pinkins,DEM,15
+DeSoto,SouthPoint Church,U.S. Senate,,Ty Pinkins,DEM,117
+DeSoto,Southaven Library,U.S. Senate,,Ty Pinkins,DEM,40
+DeSoto,Southaven South,U.S. Senate,,Ty Pinkins,DEM,46
+DeSoto,Summershill,U.S. Senate,,Ty Pinkins,DEM,174
+DeSoto,Summit Church,U.S. Senate,,Ty Pinkins,DEM,55
+DeSoto,The Well at Lewisburg,U.S. Senate,,Ty Pinkins,DEM,25
+DeSoto,Trinity Baptist Church,U.S. Senate,,Ty Pinkins,DEM,34
+DeSoto,Twin Lakes Baptist Church,U.S. Senate,,Ty Pinkins,DEM,88
+DeSoto,Walls,U.S. Senate,,Ty Pinkins,DEM,90
+DeSoto,Alphaba-Cockrum,President,,Donald J. Trump,REP,370
+DeSoto,Baker's Chapel,President,,Donald J. Trump,REP,235
+DeSoto,Boulevard Baptist Church,President,,Donald J. Trump,REP,280
+DeSoto,Bridgetown,President,,Donald J. Trump,REP,282
+DeSoto,Church Road Baptist,President,,Donald J. Trump,REP,247
+DeSoto,Colonial Hills Hernando,President,,Donald J. Trump,REP,415
+DeSoto,Cumberland,President,,Donald J. Trump,REP,141
+DeSoto,Dean Hill Baptist Church,President,,Donald J. Trump,REP,293
+DeSoto,Desoto Central,President,,Donald J. Trump,REP,245
+DeSoto,Desoto Hills Baptist Church,President,,Donald J. Trump,REP,357
+DeSoto,Elmore,President,,Donald J. Trump,REP,290
+DeSoto,Eudora,President,,Donald J. Trump,REP,327
+DeSoto,Fairhaven,President,,Donald J. Trump,REP,253
+DeSoto,First Presbyterian Church,President,,Donald J. Trump,REP,462
+DeSoto,Glenn's Chapel,President,,Donald J. Trump,REP,230
+DeSoto,Greenbrook North,President,,Donald J. Trump,REP,274
+DeSoto,Greenbrook South,President,,Donald J. Trump,REP,147
+DeSoto,Gwynn Road,President,,Donald J. Trump,REP,319
+DeSoto,Hacks Cross Road,President,,Donald J. Trump,REP,195
+DeSoto,Heartland Church,President,,Donald J. Trump,REP,329
+DeSoto,Hernando Central,President,,Donald J. Trump,REP,397
+DeSoto,Hernando West,President,,Donald J. Trump,REP,343
+DeSoto,Horn Lake Central,President,,Donald J. Trump,REP,113
+DeSoto,Horn Lake East,President,,Donald J. Trump,REP,69
+DeSoto,Horn Lake West,President,,Donald J. Trump,REP,117
+DeSoto,Ingrams Mill,President,,Donald J. Trump,REP,317
+DeSoto,Lewisburg,President,,Donald J. Trump,REP,493
+DeSoto,Lewisburg East,President,,Donald J. Trump,REP,210
+DeSoto,Love,President,,Donald J. Trump,REP,381
+DeSoto,Miller,President,,Donald J. Trump,REP,306
+DeSoto,Mineral Wells,President,,Donald J. Trump,REP,241
+DeSoto,Minor Memorial UMC,President,,Donald J. Trump,REP,138
+DeSoto,Northwest Community College,President,,Donald J. Trump,REP,200
+DeSoto,Olive Branch East,President,,Donald J. Trump,REP,136
+DeSoto,Olive Branch North,President,,Donald J. Trump,REP,193
+DeSoto,Olive Branch South,President,,Donald J. Trump,REP,334
+DeSoto,Olive Branch West,President,,Donald J. Trump,REP,148
+DeSoto,Pleasant Hill North,President,,Donald J. Trump,REP,172
+DeSoto,SouthPoint Church,President,,Donald J. Trump,REP,175
+DeSoto,Southaven Library,President,,Donald J. Trump,REP,232
+DeSoto,Southaven South,President,,Donald J. Trump,REP,49
+DeSoto,Summershill,President,,Donald J. Trump,REP,361
+DeSoto,Summit Church,President,,Donald J. Trump,REP,220
+DeSoto,The Well at Lewisburg,President,,Donald J. Trump,REP,269
+DeSoto,Trinity Baptist Church,President,,Donald J. Trump,REP,218
+DeSoto,Twin Lakes Baptist Church,President,,Donald J. Trump,REP,207
+DeSoto,Walls,President,,Donald J. Trump,REP,298
+DeSoto,Alphaba-Cockrum,President,,Nikki R. Haley,REP,11
+DeSoto,Baker's Chapel,President,,Nikki R. Haley,REP,12
+DeSoto,Boulevard Baptist Church,President,,Nikki R. Haley,REP,20
+DeSoto,Bridgetown,President,,Nikki R. Haley,REP,19
+DeSoto,Church Road Baptist,President,,Nikki R. Haley,REP,6
+DeSoto,Colonial Hills Hernando,President,,Nikki R. Haley,REP,27
+DeSoto,Cumberland,President,,Nikki R. Haley,REP,16
+DeSoto,Dean Hill Baptist Church,President,,Nikki R. Haley,REP,9
+DeSoto,Desoto Central,President,,Nikki R. Haley,REP,16
+DeSoto,Desoto Hills Baptist Church,President,,Nikki R. Haley,REP,26
+DeSoto,Elmore,President,,Nikki R. Haley,REP,13
+DeSoto,Eudora,President,,Nikki R. Haley,REP,12
+DeSoto,Fairhaven,President,,Nikki R. Haley,REP,13
+DeSoto,First Presbyterian Church,President,,Nikki R. Haley,REP,35
+DeSoto,Glenn's Chapel,President,,Nikki R. Haley,REP,10
+DeSoto,Greenbrook North,President,,Nikki R. Haley,REP,26
+DeSoto,Greenbrook South,President,,Nikki R. Haley,REP,9
+DeSoto,Gwynn Road,President,,Nikki R. Haley,REP,21
+DeSoto,Hacks Cross Road,President,,Nikki R. Haley,REP,4
+DeSoto,Heartland Church,President,,Nikki R. Haley,REP,18
+DeSoto,Hernando Central,President,,Nikki R. Haley,REP,20
+DeSoto,Hernando West,President,,Nikki R. Haley,REP,29
+DeSoto,Horn Lake Central,President,,Nikki R. Haley,REP,6
+DeSoto,Horn Lake East,President,,Nikki R. Haley,REP,2
+DeSoto,Horn Lake West,President,,Nikki R. Haley,REP,5
+DeSoto,Ingrams Mill,President,,Nikki R. Haley,REP,16
+DeSoto,Lewisburg,President,,Nikki R. Haley,REP,35
+DeSoto,Lewisburg East,President,,Nikki R. Haley,REP,11
+DeSoto,Love,President,,Nikki R. Haley,REP,14
+DeSoto,Miller,President,,Nikki R. Haley,REP,21
+DeSoto,Mineral Wells,President,,Nikki R. Haley,REP,9
+DeSoto,Minor Memorial UMC,President,,Nikki R. Haley,REP,7
+DeSoto,Northwest Community College,President,,Nikki R. Haley,REP,13
+DeSoto,Olive Branch East,President,,Nikki R. Haley,REP,8
+DeSoto,Olive Branch North,President,,Nikki R. Haley,REP,16
+DeSoto,Olive Branch South,President,,Nikki R. Haley,REP,17
+DeSoto,Olive Branch West,President,,Nikki R. Haley,REP,13
+DeSoto,Pleasant Hill North,President,,Nikki R. Haley,REP,23
+DeSoto,SouthPoint Church,President,,Nikki R. Haley,REP,18
+DeSoto,Southaven Library,President,,Nikki R. Haley,REP,14
+DeSoto,Southaven South,President,,Nikki R. Haley,REP,4
+DeSoto,Summershill,President,,Nikki R. Haley,REP,36
+DeSoto,Summit Church,President,,Nikki R. Haley,REP,16
+DeSoto,The Well at Lewisburg,President,,Nikki R. Haley,REP,14
+DeSoto,Trinity Baptist Church,President,,Nikki R. Haley,REP,9
+DeSoto,Twin Lakes Baptist Church,President,,Nikki R. Haley,REP,9
+DeSoto,Walls,President,,Nikki R. Haley,REP,14
+DeSoto,Alphaba-Cockrum,President,,Ron DeSantis,REP,8
+DeSoto,Baker's Chapel,President,,Ron DeSantis,REP,6
+DeSoto,Boulevard Baptist Church,President,,Ron DeSantis,REP,11
+DeSoto,Bridgetown,President,,Ron DeSantis,REP,5
+DeSoto,Church Road Baptist,President,,Ron DeSantis,REP,9
+DeSoto,Colonial Hills Hernando,President,,Ron DeSantis,REP,7
+DeSoto,Cumberland,President,,Ron DeSantis,REP,3
+DeSoto,Dean Hill Baptist Church,President,,Ron DeSantis,REP,5
+DeSoto,Desoto Central,President,,Ron DeSantis,REP,2
+DeSoto,Desoto Hills Baptist Church,President,,Ron DeSantis,REP,8
+DeSoto,Elmore,President,,Ron DeSantis,REP,7
+DeSoto,Eudora,President,,Ron DeSantis,REP,3
+DeSoto,Fairhaven,President,,Ron DeSantis,REP,13
+DeSoto,First Presbyterian Church,President,,Ron DeSantis,REP,10
+DeSoto,Glenn's Chapel,President,,Ron DeSantis,REP,2
+DeSoto,Greenbrook North,President,,Ron DeSantis,REP,6
+DeSoto,Greenbrook South,President,,Ron DeSantis,REP,7
+DeSoto,Gwynn Road,President,,Ron DeSantis,REP,11
+DeSoto,Hacks Cross Road,President,,Ron DeSantis,REP,3
+DeSoto,Heartland Church,President,,Ron DeSantis,REP,10
+DeSoto,Hernando Central,President,,Ron DeSantis,REP,8
+DeSoto,Hernando West,President,,Ron DeSantis,REP,12
+DeSoto,Horn Lake Central,President,,Ron DeSantis,REP,4
+DeSoto,Horn Lake East,President,,Ron DeSantis,REP,1
+DeSoto,Horn Lake West,President,,Ron DeSantis,REP,2
+DeSoto,Ingrams Mill,President,,Ron DeSantis,REP,7
+DeSoto,Lewisburg,President,,Ron DeSantis,REP,21
+DeSoto,Lewisburg East,President,,Ron DeSantis,REP,4
+DeSoto,Love,President,,Ron DeSantis,REP,3
+DeSoto,Miller,President,,Ron DeSantis,REP,9
+DeSoto,Mineral Wells,President,,Ron DeSantis,REP,5
+DeSoto,Minor Memorial UMC,President,,Ron DeSantis,REP,2
+DeSoto,Northwest Community College,President,,Ron DeSantis,REP,8
+DeSoto,Olive Branch East,President,,Ron DeSantis,REP,5
+DeSoto,Olive Branch North,President,,Ron DeSantis,REP,3
+DeSoto,Olive Branch South,President,,Ron DeSantis,REP,11
+DeSoto,Olive Branch West,President,,Ron DeSantis,REP,0
+DeSoto,Pleasant Hill North,President,,Ron DeSantis,REP,3
+DeSoto,SouthPoint Church,President,,Ron DeSantis,REP,0
+DeSoto,Southaven Library,President,,Ron DeSantis,REP,1
+DeSoto,Southaven South,President,,Ron DeSantis,REP,2
+DeSoto,Summershill,President,,Ron DeSantis,REP,6
+DeSoto,Summit Church,President,,Ron DeSantis,REP,2
+DeSoto,The Well at Lewisburg,President,,Ron DeSantis,REP,6
+DeSoto,Trinity Baptist Church,President,,Ron DeSantis,REP,5
+DeSoto,Twin Lakes Baptist Church,President,,Ron DeSantis,REP,5
+DeSoto,Walls,President,,Ron DeSantis,REP,6
+DeSoto,Alphaba-Cockrum,President,,Vivek Ramaswamy,REP,3
+DeSoto,Baker's Chapel,President,,Vivek Ramaswamy,REP,2
+DeSoto,Boulevard Baptist Church,President,,Vivek Ramaswamy,REP,0
+DeSoto,Bridgetown,President,,Vivek Ramaswamy,REP,0
+DeSoto,Church Road Baptist,President,,Vivek Ramaswamy,REP,0
+DeSoto,Colonial Hills Hernando,President,,Vivek Ramaswamy,REP,0
+DeSoto,Cumberland,President,,Vivek Ramaswamy,REP,0
+DeSoto,Dean Hill Baptist Church,President,,Vivek Ramaswamy,REP,1
+DeSoto,Desoto Central,President,,Vivek Ramaswamy,REP,0
+DeSoto,Desoto Hills Baptist Church,President,,Vivek Ramaswamy,REP,2
+DeSoto,Elmore,President,,Vivek Ramaswamy,REP,1
+DeSoto,Eudora,President,,Vivek Ramaswamy,REP,2
+DeSoto,Fairhaven,President,,Vivek Ramaswamy,REP,0
+DeSoto,First Presbyterian Church,President,,Vivek Ramaswamy,REP,4
+DeSoto,Glenn's Chapel,President,,Vivek Ramaswamy,REP,1
+DeSoto,Greenbrook North,President,,Vivek Ramaswamy,REP,2
+DeSoto,Greenbrook South,President,,Vivek Ramaswamy,REP,1
+DeSoto,Gwynn Road,President,,Vivek Ramaswamy,REP,2
+DeSoto,Hacks Cross Road,President,,Vivek Ramaswamy,REP,1
+DeSoto,Heartland Church,President,,Vivek Ramaswamy,REP,1
+DeSoto,Hernando Central,President,,Vivek Ramaswamy,REP,5
+DeSoto,Hernando West,President,,Vivek Ramaswamy,REP,1
+DeSoto,Horn Lake Central,President,,Vivek Ramaswamy,REP,2
+DeSoto,Horn Lake East,President,,Vivek Ramaswamy,REP,1
+DeSoto,Horn Lake West,President,,Vivek Ramaswamy,REP,2
+DeSoto,Ingrams Mill,President,,Vivek Ramaswamy,REP,1
+DeSoto,Lewisburg,President,,Vivek Ramaswamy,REP,3
+DeSoto,Lewisburg East,President,,Vivek Ramaswamy,REP,2
+DeSoto,Love,President,,Vivek Ramaswamy,REP,3
+DeSoto,Miller,President,,Vivek Ramaswamy,REP,0
+DeSoto,Mineral Wells,President,,Vivek Ramaswamy,REP,0
+DeSoto,Minor Memorial UMC,President,,Vivek Ramaswamy,REP,1
+DeSoto,Northwest Community College,President,,Vivek Ramaswamy,REP,1
+DeSoto,Olive Branch East,President,,Vivek Ramaswamy,REP,0
+DeSoto,Olive Branch North,President,,Vivek Ramaswamy,REP,1
+DeSoto,Olive Branch South,President,,Vivek Ramaswamy,REP,1
+DeSoto,Olive Branch West,President,,Vivek Ramaswamy,REP,0
+DeSoto,Pleasant Hill North,President,,Vivek Ramaswamy,REP,0
+DeSoto,SouthPoint Church,President,,Vivek Ramaswamy,REP,1
+DeSoto,Southaven Library,President,,Vivek Ramaswamy,REP,2
+DeSoto,Southaven South,President,,Vivek Ramaswamy,REP,0
+DeSoto,Summershill,President,,Vivek Ramaswamy,REP,1
+DeSoto,Summit Church,President,,Vivek Ramaswamy,REP,1
+DeSoto,The Well at Lewisburg,President,,Vivek Ramaswamy,REP,2
+DeSoto,Trinity Baptist Church,President,,Vivek Ramaswamy,REP,0
+DeSoto,Twin Lakes Baptist Church,President,,Vivek Ramaswamy,REP,2
+DeSoto,Walls,President,,Vivek Ramaswamy,REP,3
+DeSoto,Alphaba-Cockrum,U.S. House,1,Trent Kelly,REP,375
+DeSoto,Baker's Chapel,U.S. House,1,Trent Kelly,REP,247
+DeSoto,Boulevard Baptist Church,U.S. House,1,Trent Kelly,REP,294
+DeSoto,Bridgetown,U.S. House,1,Trent Kelly,REP,282
+DeSoto,Church Road Baptist,U.S. House,1,Trent Kelly,REP,250
+DeSoto,Colonial Hills Hernando,U.S. House,1,Trent Kelly,REP,438
+DeSoto,Cumberland,U.S. House,1,Trent Kelly,REP,145
+DeSoto,Dean Hill Baptist Church,U.S. House,1,Trent Kelly,REP,293
+DeSoto,Desoto Central,U.S. House,1,Trent Kelly,REP,255
+DeSoto,Desoto Hills Baptist Church,U.S. House,1,Trent Kelly,REP,370
+DeSoto,Elmore,U.S. House,1,Trent Kelly,REP,294
+DeSoto,Eudora,U.S. House,1,Trent Kelly,REP,330
+DeSoto,Fairhaven,U.S. House,1,Trent Kelly,REP,269
+DeSoto,First Presbyterian Church,U.S. House,1,Trent Kelly,REP,489
+DeSoto,Glenn's Chapel,U.S. House,1,Trent Kelly,REP,232
+DeSoto,Greenbrook North,U.S. House,1,Trent Kelly,REP,286
+DeSoto,Greenbrook South,U.S. House,1,Trent Kelly,REP,154
+DeSoto,Gwynn Road,U.S. House,1,Trent Kelly,REP,334
+DeSoto,Hacks Cross Road,U.S. House,1,Trent Kelly,REP,189
+DeSoto,Heartland Church,U.S. House,1,Trent Kelly,REP,343
+DeSoto,Hernando Central,U.S. House,1,Trent Kelly,REP,403
+DeSoto,Hernando West,U.S. House,1,Trent Kelly,REP,359
+DeSoto,Horn Lake Central,U.S. House,1,Trent Kelly,REP,124
+DeSoto,Horn Lake East,U.S. House,1,Trent Kelly,REP,69
+DeSoto,Horn Lake West,U.S. House,1,Trent Kelly,REP,121
+DeSoto,Ingrams Mill,U.S. House,1,Trent Kelly,REP,327
+DeSoto,Lewisburg,U.S. House,1,Trent Kelly,REP,528
+DeSoto,Lewisburg East,U.S. House,1,Trent Kelly,REP,224
+DeSoto,Love,U.S. House,1,Trent Kelly,REP,384
+DeSoto,Miller,U.S. House,1,Trent Kelly,REP,325
+DeSoto,Mineral Wells,U.S. House,1,Trent Kelly,REP,242
+DeSoto,Minor Memorial UMC,U.S. House,1,Trent Kelly,REP,136
+DeSoto,Northwest Community College,U.S. House,1,Trent Kelly,REP,215
+DeSoto,Olive Branch East,U.S. House,1,Trent Kelly,REP,144
+DeSoto,Olive Branch North,U.S. House,1,Trent Kelly,REP,201
+DeSoto,Olive Branch South,U.S. House,1,Trent Kelly,REP,355
+DeSoto,Olive Branch West,U.S. House,1,Trent Kelly,REP,153
+DeSoto,Pleasant Hill North,U.S. House,1,Trent Kelly,REP,190
+DeSoto,SouthPoint Church,U.S. House,1,Trent Kelly,REP,172
+DeSoto,Southaven Library,U.S. House,1,Trent Kelly,REP,236
+DeSoto,Southaven South,U.S. House,1,Trent Kelly,REP,55
+DeSoto,Summershill,U.S. House,1,Trent Kelly,REP,382
+DeSoto,Summit Church,U.S. House,1,Trent Kelly,REP,227
+DeSoto,The Well at Lewisburg,U.S. House,1,Trent Kelly,REP,272
+DeSoto,Trinity Baptist Church,U.S. House,1,Trent Kelly,REP,222
+DeSoto,Twin Lakes Baptist Church,U.S. House,1,Trent Kelly,REP,207
+DeSoto,Walls,U.S. House,1,Trent Kelly,REP,288
+DeSoto,Alphaba-Cockrum,U.S. Senate,,Dan Eubanks,REP,104
+DeSoto,Baker's Chapel,U.S. Senate,,Dan Eubanks,REP,66
+DeSoto,Boulevard Baptist Church,U.S. Senate,,Dan Eubanks,REP,74
+DeSoto,Bridgetown,U.S. Senate,,Dan Eubanks,REP,76
+DeSoto,Church Road Baptist,U.S. Senate,,Dan Eubanks,REP,117
+DeSoto,Colonial Hills Hernando,U.S. Senate,,Dan Eubanks,REP,123
+DeSoto,Cumberland,U.S. Senate,,Dan Eubanks,REP,48
+DeSoto,Dean Hill Baptist Church,U.S. Senate,,Dan Eubanks,REP,90
+DeSoto,Desoto Central,U.S. Senate,,Dan Eubanks,REP,64
+DeSoto,Desoto Hills Baptist Church,U.S. Senate,,Dan Eubanks,REP,92
+DeSoto,Elmore,U.S. Senate,,Dan Eubanks,REP,48
+DeSoto,Eudora,U.S. Senate,,Dan Eubanks,REP,132
+DeSoto,Fairhaven,U.S. Senate,,Dan Eubanks,REP,65
+DeSoto,First Presbyterian Church,U.S. Senate,,Dan Eubanks,REP,134
+DeSoto,Glenn's Chapel,U.S. Senate,,Dan Eubanks,REP,115
+DeSoto,Greenbrook North,U.S. Senate,,Dan Eubanks,REP,63
+DeSoto,Greenbrook South,U.S. Senate,,Dan Eubanks,REP,43
+DeSoto,Gwynn Road,U.S. Senate,,Dan Eubanks,REP,116
+DeSoto,Hacks Cross Road,U.S. Senate,,Dan Eubanks,REP,48
+DeSoto,Heartland Church,U.S. Senate,,Dan Eubanks,REP,115
+DeSoto,Hernando Central,U.S. Senate,,Dan Eubanks,REP,123
+DeSoto,Hernando West,U.S. Senate,,Dan Eubanks,REP,110
+DeSoto,Horn Lake Central,U.S. Senate,,Dan Eubanks,REP,47
+DeSoto,Horn Lake East,U.S. Senate,,Dan Eubanks,REP,18
+DeSoto,Horn Lake West,U.S. Senate,,Dan Eubanks,REP,27
+DeSoto,Ingrams Mill,U.S. Senate,,Dan Eubanks,REP,109
+DeSoto,Lewisburg,U.S. Senate,,Dan Eubanks,REP,153
+DeSoto,Lewisburg East,U.S. Senate,,Dan Eubanks,REP,53
+DeSoto,Love,U.S. Senate,,Dan Eubanks,REP,98
+DeSoto,Miller,U.S. Senate,,Dan Eubanks,REP,87
+DeSoto,Mineral Wells,U.S. Senate,,Dan Eubanks,REP,53
+DeSoto,Minor Memorial UMC,U.S. Senate,,Dan Eubanks,REP,48
+DeSoto,Northwest Community College,U.S. Senate,,Dan Eubanks,REP,55
+DeSoto,Olive Branch East,U.S. Senate,,Dan Eubanks,REP,34
+DeSoto,Olive Branch North,U.S. Senate,,Dan Eubanks,REP,51
+DeSoto,Olive Branch South,U.S. Senate,,Dan Eubanks,REP,72
+DeSoto,Olive Branch West,U.S. Senate,,Dan Eubanks,REP,34
+DeSoto,Pleasant Hill North,U.S. Senate,,Dan Eubanks,REP,64
+DeSoto,SouthPoint Church,U.S. Senate,,Dan Eubanks,REP,56
+DeSoto,Southaven Library,U.S. Senate,,Dan Eubanks,REP,66
+DeSoto,Southaven South,U.S. Senate,,Dan Eubanks,REP,14
+DeSoto,Summershill,U.S. Senate,,Dan Eubanks,REP,86
+DeSoto,Summit Church,U.S. Senate,,Dan Eubanks,REP,56
+DeSoto,The Well at Lewisburg,U.S. Senate,,Dan Eubanks,REP,74
+DeSoto,Trinity Baptist Church,U.S. Senate,,Dan Eubanks,REP,58
+DeSoto,Twin Lakes Baptist Church,U.S. Senate,,Dan Eubanks,REP,81
+DeSoto,Walls,U.S. Senate,,Dan Eubanks,REP,146
+DeSoto,Alphaba-Cockrum,U.S. Senate,,Ghannon Burton,REP,53
+DeSoto,Baker's Chapel,U.S. Senate,,Ghannon Burton,REP,39
+DeSoto,Boulevard Baptist Church,U.S. Senate,,Ghannon Burton,REP,47
+DeSoto,Bridgetown,U.S. Senate,,Ghannon Burton,REP,48
+DeSoto,Church Road Baptist,U.S. Senate,,Ghannon Burton,REP,13
+DeSoto,Colonial Hills Hernando,U.S. Senate,,Ghannon Burton,REP,70
+DeSoto,Cumberland,U.S. Senate,,Ghannon Burton,REP,22
+DeSoto,Dean Hill Baptist Church,U.S. Senate,,Ghannon Burton,REP,39
+DeSoto,Desoto Central,U.S. Senate,,Ghannon Burton,REP,30
+DeSoto,Desoto Hills Baptist Church,U.S. Senate,,Ghannon Burton,REP,58
+DeSoto,Elmore,U.S. Senate,,Ghannon Burton,REP,56
+DeSoto,Eudora,U.S. Senate,,Ghannon Burton,REP,40
+DeSoto,Fairhaven,U.S. Senate,,Ghannon Burton,REP,38
+DeSoto,First Presbyterian Church,U.S. Senate,,Ghannon Burton,REP,68
+DeSoto,Glenn's Chapel,U.S. Senate,,Ghannon Burton,REP,21
+DeSoto,Greenbrook North,U.S. Senate,,Ghannon Burton,REP,46
+DeSoto,Greenbrook South,U.S. Senate,,Ghannon Burton,REP,24
+DeSoto,Gwynn Road,U.S. Senate,,Ghannon Burton,REP,35
+DeSoto,Hacks Cross Road,U.S. Senate,,Ghannon Burton,REP,19
+DeSoto,Heartland Church,U.S. Senate,,Ghannon Burton,REP,49
+DeSoto,Hernando Central,U.S. Senate,,Ghannon Burton,REP,68
+DeSoto,Hernando West,U.S. Senate,,Ghannon Burton,REP,58
+DeSoto,Horn Lake Central,U.S. Senate,,Ghannon Burton,REP,13
+DeSoto,Horn Lake East,U.S. Senate,,Ghannon Burton,REP,8
+DeSoto,Horn Lake West,U.S. Senate,,Ghannon Burton,REP,15
+DeSoto,Ingrams Mill,U.S. Senate,,Ghannon Burton,REP,49
+DeSoto,Lewisburg,U.S. Senate,,Ghannon Burton,REP,85
+DeSoto,Lewisburg East,U.S. Senate,,Ghannon Burton,REP,34
+DeSoto,Love,U.S. Senate,,Ghannon Burton,REP,58
+DeSoto,Miller,U.S. Senate,,Ghannon Burton,REP,61
+DeSoto,Mineral Wells,U.S. Senate,,Ghannon Burton,REP,30
+DeSoto,Minor Memorial UMC,U.S. Senate,,Ghannon Burton,REP,15
+DeSoto,Northwest Community College,U.S. Senate,,Ghannon Burton,REP,18
+DeSoto,Olive Branch East,U.S. Senate,,Ghannon Burton,REP,17
+DeSoto,Olive Branch North,U.S. Senate,,Ghannon Burton,REP,22
+DeSoto,Olive Branch South,U.S. Senate,,Ghannon Burton,REP,49
+DeSoto,Olive Branch West,U.S. Senate,,Ghannon Burton,REP,18
+DeSoto,Pleasant Hill North,U.S. Senate,,Ghannon Burton,REP,21
+DeSoto,SouthPoint Church,U.S. Senate,,Ghannon Burton,REP,29
+DeSoto,Southaven Library,U.S. Senate,,Ghannon Burton,REP,41
+DeSoto,Southaven South,U.S. Senate,,Ghannon Burton,REP,12
+DeSoto,Summershill,U.S. Senate,,Ghannon Burton,REP,60
+DeSoto,Summit Church,U.S. Senate,,Ghannon Burton,REP,39
+DeSoto,The Well at Lewisburg,U.S. Senate,,Ghannon Burton,REP,50
+DeSoto,Trinity Baptist Church,U.S. Senate,,Ghannon Burton,REP,28
+DeSoto,Twin Lakes Baptist Church,U.S. Senate,,Ghannon Burton,REP,16
+DeSoto,Walls,U.S. Senate,,Ghannon Burton,REP,23
+DeSoto,Alphaba-Cockrum,U.S. Senate,,Roger F. Wicker,REP,234
+DeSoto,Baker's Chapel,U.S. Senate,,Roger F. Wicker,REP,150
+DeSoto,Boulevard Baptist Church,U.S. Senate,,Roger F. Wicker,REP,183
+DeSoto,Bridgetown,U.S. Senate,,Roger F. Wicker,REP,178
+DeSoto,Church Road Baptist,U.S. Senate,,Roger F. Wicker,REP,132
+DeSoto,Colonial Hills Hernando,U.S. Senate,,Roger F. Wicker,REP,255
+DeSoto,Cumberland,U.S. Senate,,Roger F. Wicker,REP,85
+DeSoto,Dean Hill Baptist Church,U.S. Senate,,Roger F. Wicker,REP,178
+DeSoto,Desoto Central,U.S. Senate,,Roger F. Wicker,REP,167
+DeSoto,Desoto Hills Baptist Church,U.S. Senate,,Roger F. Wicker,REP,237
+DeSoto,Elmore,U.S. Senate,,Roger F. Wicker,REP,204
+DeSoto,Eudora,U.S. Senate,,Roger F. Wicker,REP,168
+DeSoto,Fairhaven,U.S. Senate,,Roger F. Wicker,REP,179
+DeSoto,First Presbyterian Church,U.S. Senate,,Roger F. Wicker,REP,303
+DeSoto,Glenn's Chapel,U.S. Senate,,Roger F. Wicker,REP,101
+DeSoto,Greenbrook North,U.S. Senate,,Roger F. Wicker,REP,196
+DeSoto,Greenbrook South,U.S. Senate,,Roger F. Wicker,REP,95
+DeSoto,Gwynn Road,U.S. Senate,,Roger F. Wicker,REP,199
+DeSoto,Hacks Cross Road,U.S. Senate,,Roger F. Wicker,REP,133
+DeSoto,Heartland Church,U.S. Senate,,Roger F. Wicker,REP,194
+DeSoto,Hernando Central,U.S. Senate,,Roger F. Wicker,REP,238
+DeSoto,Hernando West,U.S. Senate,,Roger F. Wicker,REP,210
+DeSoto,Horn Lake Central,U.S. Senate,,Roger F. Wicker,REP,67
+DeSoto,Horn Lake East,U.S. Senate,,Roger F. Wicker,REP,46
+DeSoto,Horn Lake West,U.S. Senate,,Roger F. Wicker,REP,84
+DeSoto,Ingrams Mill,U.S. Senate,,Roger F. Wicker,REP,182
+DeSoto,Lewisburg,U.S. Senate,,Roger F. Wicker,REP,318
+DeSoto,Lewisburg East,U.S. Senate,,Roger F. Wicker,REP,140
+DeSoto,Love,U.S. Senate,,Roger F. Wicker,REP,238
+DeSoto,Miller,U.S. Senate,,Roger F. Wicker,REP,188
+DeSoto,Mineral Wells,U.S. Senate,,Roger F. Wicker,REP,167
+DeSoto,Minor Memorial UMC,U.S. Senate,,Roger F. Wicker,REP,86
+DeSoto,Northwest Community College,U.S. Senate,,Roger F. Wicker,REP,145
+DeSoto,Olive Branch East,U.S. Senate,,Roger F. Wicker,REP,96
+DeSoto,Olive Branch North,U.S. Senate,,Roger F. Wicker,REP,134
+DeSoto,Olive Branch South,U.S. Senate,,Roger F. Wicker,REP,241
+DeSoto,Olive Branch West,U.S. Senate,,Roger F. Wicker,REP,108
+DeSoto,Pleasant Hill North,U.S. Senate,,Roger F. Wicker,REP,112
+DeSoto,SouthPoint Church,U.S. Senate,,Roger F. Wicker,REP,113
+DeSoto,Southaven Library,U.S. Senate,,Roger F. Wicker,REP,139
+DeSoto,Southaven South,U.S. Senate,,Roger F. Wicker,REP,29
+DeSoto,Summershill,U.S. Senate,,Roger F. Wicker,REP,257
+DeSoto,Summit Church,U.S. Senate,,Roger F. Wicker,REP,142
+DeSoto,The Well at Lewisburg,U.S. Senate,,Roger F. Wicker,REP,165
+DeSoto,Trinity Baptist Church,U.S. Senate,,Roger F. Wicker,REP,145
+DeSoto,Twin Lakes Baptist Church,U.S. Senate,,Roger F. Wicker,REP,126
+DeSoto,Walls,U.S. Senate,,Roger F. Wicker,REP,150
