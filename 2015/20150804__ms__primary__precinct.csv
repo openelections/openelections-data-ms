@@ -1510,7 +1510,7 @@ Oktibbeha,South Starkville,Governor,,Valerie Adream Smartt Short,D,83
 Oktibbeha,South Starkville,Governor,,Vicki Slater,D,168
 Oktibbeha,Sturgis/North Bradley,Governor,,Robert Gray,D,66
 Oktibbeha,Sturgis/North Bradley,Governor,,Valerie Adream Smartt Short,D,19
-Oktibbeha,South Starkville,Governor,,Vicki Slater,D,44
+Oktibbeha,Sturgis/North Bradley,Governor,,Vicki Slater,D,44
 Oktibbeha,West Starkville,Governor,,Robert Gray,D,120
 Oktibbeha,West Starkville,Governor,,Valerie Adream Smartt Short,D,79
 Oktibbeha,West Starkville,Governor,,Vicki Slater,D,102
@@ -5219,8 +5219,8 @@ Rankin,Mountain Creek,Governor,,Robert Gray,D,8
 Rankin,Mountain Creek,Governor,,Valerie Adream Smartt Short,D,6
 Rankin,Mountain Creek,Governor,,Vicki Slater,D,4
 Rankin,North Brandon,Governor,,Robert Gray,D,51
-Rankin,Mountain Creek,Governor,,Valerie Adream Smartt Short,D,44
-Rankin,Mountain Creek,Governor,,Vicki Slater,D,43
+Rankin,North Brandon,Governor,,Valerie Adream Smartt Short,D,44
+Rankin,North Brandon,Governor,,Vicki Slater,D,43
 Rankin,North Mclaurin,Governor,,Robert Gray,D,6
 Rankin,North Mclaurin,Governor,,Valerie Adream Smartt Short,D,1
 Rankin,North Mclaurin,Governor,,Vicki Slater,D,4
@@ -8102,7 +8102,7 @@ Pearl River,Pine Grove Beat 4,Governor,,Valerie Adream Smartt Short,D,0
 Pearl River,Pine Grove Beat 4,Governor,,Vicki Slater,D,1
 Pearl River,Poplarville Beat 1,Governor,,Robert Gray,D,39
 Pearl River,Poplarville Beat 1,Governor,,Valerie Adream Smartt Short,D,15
-Pearl River,Pine Grove Beat 4,Governor,,Vicki Slater,D,30
+Pearl River,Poplarville Beat 1,Governor,,Vicki Slater,D,30
 Pearl River,Poplarville Beat 2,Governor,,Robert Gray,D,6
 Pearl River,Poplarville Beat 2,Governor,,Valerie Adream Smartt Short,D,1
 Pearl River,Poplarville Beat 2,Governor,,Vicki Slater,D,2
@@ -10536,7 +10536,7 @@ Stone,American Legion,Governor,,Valerie Adream Smartt Short,D,43
 Stone,American Legion,Governor,,Vicki Slater,D,29
 Stone,Big Level,Governor,,Robert Gray,D,63
 Stone,Big Level,Governor,,Valerie Adream Smartt Short,D,21
-Stone,American Legion,Governor,,Vicki Slater,D,36
+Stone,Big Level,Governor,,Vicki Slater,D,36
 Stone,Bond,Governor,,Robert Gray,D,2
 Stone,Bond,Governor,,Valerie Adream Smartt Short,D,0
 Stone,Bond,Governor,,Vicki Slater,D,0
@@ -15872,7 +15872,7 @@ Smith,White Oak,Governor,,Valerie Adream Smartt Short,D,7
 Smith,White Oak,Governor,,Vicki Slater,D,22
 Smith,Zion Hill - New Haven,Governor,,Robert Gray,D,99
 Smith,Zion Hill - New Haven,Governor,,Valerie Adream Smartt Short,D,13
-Smith,White Oak,Governor,,Vicki Slater,D,52
+Smith,Zion Hill - New Haven,Governor,,Vicki Slater,D,52
 Smith,Ag-Complex,Lieutenant Governor,,Jelani Barr,D,15
 Smith,Ag-Complex,Lieutenant Governor,,Tim Johnson,D,83
 Smith,Burns,Lieutenant Governor,,Jelani Barr,D,13
@@ -21193,7 +21193,7 @@ Pike,(07) Alpha Center,State House,98,David W. Myers,D,111
 Pike,(08) Fernwood School,State House,98,Tasha Dillon,D,149
 Pike,(08) Fernwood School,State House,98,David W. Myers,D,113
 Pike,(09) Magnolia Comm Ctr.,State House,98,Tasha Dillon,D,136
-Pike,(09) Magnolia Comm Ctr.,State House,98,Tasha Dillon,D,108
+Pike,(09) Magnolia Comm Ctr.,State House,98,David W. Myers,D,108
 Pike,(10) Braswell Education Complex,State House,98,David W. Myers,D,115
 Pike,(10) Braswell Education Complex,State House,98,Tasha Dillon,D,63
 Pike,(11) Leggett Community,State House,98,David W. Myers,D,51
@@ -41338,9 +41338,9 @@ Walthall,South Kirklin,State Treasurer,,Lynn Fitch,R,3
 Walthall,South Kirklin,State Treasurer,,David McRae,R,4
 Walthall,St Paul,State Treasurer,,Lynn Fitch,R,9
 Walthall,St Paul,State Treasurer,,David McRae,R,3
-Walthall,Varnel,State Treasurer,,David McRae,R,16
+Walthall,Varnel,State Treasurer,,Lynn Fitch,R,16
 Walthall,Varnel,State Treasurer,,David McRae,R,24
-Walthall,West Tylertown,State Treasurer,,David McRae,R,2
+Walthall,West Tylertown,State Treasurer,,Lynn Fitch,R,2
 Walthall,West Tylertown,State Treasurer,,David McRae,R,4
 Walthall,3rd District Tylertown,Commissioner of Agriculture & Commerce,,Cindy Hyde-Smith,R,11
 Walthall,4th District West Tylertown,Commissioner of Agriculture & Commerce,,Cindy Hyde-Smith,R,41
