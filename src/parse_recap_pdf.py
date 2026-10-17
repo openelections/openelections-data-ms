@@ -29,7 +29,34 @@ OFFICE_SENATE = "U.S. Senate"
 OFFICE_HOUSE = "U.S. House"
 
 HOUSE_RE = re.compile(r"US House Of Rep\s+0*(\d+)")
-PARTY_WORDS = {"Democrat": "DEM", "Republican": "REP"}
+SENATE_RE = re.compile(r"State Senate\s+0*(\d+)")
+STATEOFFICE_RE = re.compile(
+    r"State Of Mississippi-(Governor|Lieutenant Governor|Secretary Of State|"
+    r"Attorney General|State Auditor|State Treasurer)$"
+)
+OFFICE_OUT = {
+    "Governor": "Governor",
+    "Lieutenant Governor": "Lieutenant Governor",
+    "Secretary Of State": "Secretary of State",
+    "Attorney General": "Attorney General",
+    "State Auditor": "State Auditor",
+    "State Treasurer": "State Treasurer",
+    "Agriculture & Commerce": "Commissioner of Agriculture & Commerce",
+    "Insurance": "Commissioner of Insurance",
+}
+STATE_COMMISH_RE = re.compile(
+    r"State Of Mississippi-Commissioner Of (Agriculture & Commerce|Insurance)$")
+# offices recognized but not emitted to the county file (repo convention:
+# county-level files hold statewide + legislative only)
+SKIP_OFFICES = ("District Attorney", "Judicial", "Public Service Commissioner",
+                "Transportation Commissioner")
+RE_DISTRICT_OFFICE = re.compile(
+    r"(District Attorney|Public Service Commissioner|Transportation Commissioner)"
+    r"-(?P<dist>[A-Za-z ]+)\s*(?:District)?\s*$")
+RE_JUDICIAL = re.compile(r"^(Chancery|Circuit) Court\b")
+PARTY_WORDS = {"Democrat": "DEM", "Republican": "REP", "Reform": "REF",
+               "Libertarian": "LIB", "Independent": "IND", "Constitution": "CON",
+               "Write-in": "WI", "Nonpartisan": "NON", "Green": "GRE"}
 
 # Canonical 82-county spellings (from 2023/20231107__ms__general__county.csv).
 CANONICAL_COUNTIES = {
@@ -73,6 +100,22 @@ def parse_office(label):
     m = HOUSE_RE.search(label)
     if m:
         return OFFICE_HOUSE, str(int(m.group(1)))
+    m = SENATE_RE.search(label)
+    if m:
+        return "State Senate", str(int(m.group(1)))
+    m = STATE_COMMISH_RE.search(label)
+    if m:
+        return OFFICE_OUT[m.group(1)], ""
+    m = STATEOFFICE_RE.match(label)
+    if m:
+        return OFFICE_OUT[m.group(1)], ""
+    m = RE_DISTRICT_OFFICE.search(label)
+    if m:
+        office = m.group(1)
+        dist = m.group("dist").replace(" District", "", 1).strip()
+        return office, dist
+    if RE_JUDICIAL.match(label):
+        return "Judicial", label
     return None
 
 
@@ -82,7 +125,7 @@ def split_candidate(label, expected_party):
     parts = label.rsplit(None, 1)
     if len(parts) == 2 and parts[1] in PARTY_WORDS:
         abbr = PARTY_WORDS[parts[1]]
-        if abbr != expected_party:
+        if expected_party and abbr != expected_party:
             print(f"  ! party mismatch: row says {parts[1]} but file is "
                   f"{expected_party}: {label!r}", file=sys.stderr)
         return parts[0].strip(), abbr
@@ -145,6 +188,8 @@ def parse_pdf(pdf_path, party):
             if current_office is None:
                 print(f"  ! candidate before any office header: {name!r}",
                       file=sys.stderr)
+                continue
+            if current_office in SKIP_OFFICES:
                 continue
 
             key = (current_office, current_district, name)
@@ -256,7 +301,7 @@ def main():
     ap = argparse.ArgumentParser(description=__doc__)
     ap.add_argument("pdf_path")
     ap.add_argument("output_csv")
-    ap.add_argument("--party", required=True, choices=["DEM", "REP"])
+    ap.add_argument("--party", default="", choices=["", "DEM", "REP"],)
     ap.add_argument("--verify", action="store_true",
                     help="cross-check each page with an llm vision model")
     ap.add_argument("-m", "--model", default="claude-haiku-4.5",
