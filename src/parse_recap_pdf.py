@@ -29,7 +29,37 @@ OFFICE_SENATE = "U.S. Senate"
 OFFICE_HOUSE = "U.S. House"
 
 HOUSE_RE = re.compile(r"US House Of Rep\s+0*(\d+)")
-PARTY_WORDS = {"Democrat": "DEM", "Republican": "REP"}
+SENATE_RE = re.compile(r"State Senate\s+0*(\d+)")
+# 2015 general prints State House as "State House Of Rep 01-District 01" (the
+# federal House prints "US House Of Rep"); the leading word disambiguates them.
+STATEHOUSE_RE = re.compile(r"State House Of Rep\s*0*(\d+)")
+STATEOFFICE_RE = re.compile(
+    r"State Of Mississippi-(Governor|Lieutenant Governor|Secretary Of State|"
+    r"Attorney General|State Auditor|State Treasurer)$"
+)
+OFFICE_OUT = {
+    "Governor": "Governor",
+    "Lieutenant Governor": "Lieutenant Governor",
+    "Secretary Of State": "Secretary of State",
+    "Attorney General": "Attorney General",
+    "State Auditor": "State Auditor",
+    "State Treasurer": "State Treasurer",
+    "Agriculture & Commerce": "Commissioner of Agriculture & Commerce",
+    "Insurance": "Commissioner of Insurance",
+}
+STATE_COMMISH_RE = re.compile(
+    r"State Of Mississippi-Commissioner Of (Agriculture & Commerce|Insurance)$")
+# offices recognized but not emitted to the county file (repo convention:
+# District Attorney + judicial races are local; PSC/Transportation are
+# district-level and only emitted when the year's county file wants them)
+SKIP_OFFICES = ("District Attorney", "Judicial")
+RE_DISTRICT_OFFICE = re.compile(
+    r"(District Attorney|Public Service Commissioner|Transportation Commissioner)"
+    r"\s*0*\d*\s*-(?P<dist>[A-Za-z0-9 ]+)\s*(?:District)?\s*$")
+RE_JUDICIAL = re.compile(r"^(Chancery|Circuit) Court\b")
+PARTY_WORDS = {"Democrat": "DEM", "Republican": "REP", "Reform": "REF",
+               "Libertarian": "LIB", "Independent": "IND", "Constitution": "CON",
+               "Write-in": "WI", "Nonpartisan": "NON", "Green": "GRE"}
 
 # Canonical 82-county spellings (from 2023/20231107__ms__general__county.csv).
 CANONICAL_COUNTIES = {
@@ -73,6 +103,25 @@ def parse_office(label):
     m = HOUSE_RE.search(label)
     if m:
         return OFFICE_HOUSE, str(int(m.group(1)))
+    m = STATEHOUSE_RE.match(label)
+    if m:
+        return "State House", str(int(m.group(1)))
+    m = SENATE_RE.search(label)
+    if m:
+        return "State Senate", str(int(m.group(1)))
+    m = STATE_COMMISH_RE.search(label)
+    if m:
+        return OFFICE_OUT[m.group(1)], ""
+    m = STATEOFFICE_RE.match(label)
+    if m:
+        return OFFICE_OUT[m.group(1)], ""
+    m = RE_DISTRICT_OFFICE.search(label)
+    if m:
+        office = m.group(1)
+        dist = m.group("dist").replace(" District", "", 1).strip()
+        return office, dist
+    if RE_JUDICIAL.match(label):
+        return "Judicial", label
     return None
 
 
@@ -82,7 +131,7 @@ def split_candidate(label, expected_party):
     parts = label.rsplit(None, 1)
     if len(parts) == 2 and parts[1] in PARTY_WORDS:
         abbr = PARTY_WORDS[parts[1]]
-        if abbr != expected_party:
+        if expected_party and abbr != expected_party:
             print(f"  ! party mismatch: row says {parts[1]} but file is "
                   f"{expected_party}: {label!r}", file=sys.stderr)
         return parts[0].strip(), abbr
@@ -101,6 +150,17 @@ def parse_pdf(pdf_path, party):
     current_office = None
     current_district = ""
     bad_counties = set()
+
+    # The doc repeats its office sections once per county chunk (sheets come in
+    # groups of 8 chunk page sets). A section row band that does not fit on the
+    # sheet wraps to the top of the NEXT sheet carrying the same county chunk,
+    # before that sheet's first office header. Those wrapped rows belong to the
+    # last section seen on the previous same-chunk sheet (e.g. the 2015 recap's
+    # State Treasurer rows print atop the Ag/Insurance group's chunk pages, and
+    # SH46's Strachan row wraps onto the next group's sheets while SH46's other
+    # candidate prints in place).
+    pending_office = {}  # chunk id -> (office, district) awaiting its wrapped rows
+    chunk_ids = {}  # county-set tuple -> chunk id, learned in encounter order
 
     for page in pdf.pages[1:]:  # skip the title page
         table = page.extract_table()
@@ -125,6 +185,14 @@ def parse_pdf(pdf_path, party):
                             bad_counties.add(rev)
                 break
 
+        chunk_id = None
+        saw_header = False
+        if county_by_col:
+            ckey = tuple(county_by_col[ci] for ci in sorted(county_by_col))
+            if ckey not in chunk_ids:
+                chunk_ids[ckey] = len(chunk_ids)
+            chunk_id = chunk_ids[ckey]
+
         # Walk the body rows in order, tracking the current office.
         for row in data:
             label = _clean(row[0])
@@ -136,18 +204,30 @@ def parse_pdf(pdf_path, party):
             office = parse_office(label)
             if office is not None:
                 current_office, current_district = office
+                saw_header = True
                 continue
 
             cand = split_candidate(label, party)
             if cand is None:
                 continue
             name, abbr = cand
-            if current_office is None:
+
+            # Wrapping rows before this sheet's first office header come from
+            # the previous same-chunk sheet's last section; decide the office
+            # they land in before any skip, since the carried office may be a
+            # skipped section (e.g. a DA band cut at the sheet bottom).
+            if not saw_header and chunk_id in pending_office:
+                row_office, row_district = pending_office[chunk_id]
+            else:
+                row_office, row_district = current_office, current_district
+            if row_office is None:
                 print(f"  ! candidate before any office header: {name!r}",
                       file=sys.stderr)
                 continue
+            if row_office in SKIP_OFFICES:
+                continue
 
-            key = (current_office, current_district, name)
+            key = (row_office, row_district, name)
             for ci, county in county_by_col.items():
                 if ci >= len(row):
                     continue
@@ -161,8 +241,8 @@ def parse_pdf(pdf_path, party):
                 votes = int(val)
                 rows.append({
                     "county": county,
-                    "office": current_office,
-                    "district": current_district,
+                    "office": row_office,
+                    "district": row_district,
                     "party": abbr,
                     "candidate": name,
                     "votes": votes,
@@ -173,6 +253,11 @@ def parse_pdf(pdf_path, party):
                 tval = _clean(row[total_col])
                 if tval.isdigit():
                     totals[key] = int(tval)
+
+        # A sheet's last section is the one whose row band may wrap onto the
+        # next same-chunk sheet's top.
+        if chunk_id is not None and current_office is not None:
+            pending_office[chunk_id] = (current_office, current_district)
 
     if bad_counties:
         print(f"  ! WARNING: unrecognized county names: {sorted(bad_counties)}",
@@ -256,7 +341,7 @@ def main():
     ap = argparse.ArgumentParser(description=__doc__)
     ap.add_argument("pdf_path")
     ap.add_argument("output_csv")
-    ap.add_argument("--party", required=True, choices=["DEM", "REP"])
+    ap.add_argument("--party", default="", choices=["", "DEM", "REP"],)
     ap.add_argument("--verify", action="store_true",
                     help="cross-check each page with an llm vision model")
     ap.add_argument("-m", "--model", default="claude-haiku-4.5",
