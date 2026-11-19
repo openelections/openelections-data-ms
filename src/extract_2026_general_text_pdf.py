@@ -22,14 +22,20 @@ import re
 
 DIGIT_RE = re.compile(r"^-?\d+$")
 
-DIGIT_CLEANUP = str.maketrans({"O": "0", "o": "0", "l": "1", "I": "1", "|": "1", "S": "5", "s": "5"})
+DIGIT_CLEANUP = str.maketrans(
+    {"O": "0", "o": "0", "l": "1", "I": "1", "|": "1", "S": "5", "s": "5"}
+)
+
+# Adjacent-x gap threshold separating numeric columns: crosstab columns sit
+# ~45pt apart, while right-alignment jitter within one column stays under it.
+COLUMN_GAP = 20.0
 
 
-def digit_clean(text, enabled):
+def digit_clean(text, fuzzy):
     """Normalize a suspected numeric token. Only ever applied to tokens chosen
     because they sit in numeric columns -- never to label text."""
     t = text.strip().replace(",", "").replace(" ", "")
-    if enabled:
+    if fuzzy:
         t = t.translate(DIGIT_CLEANUP)
     return t
 
@@ -41,7 +47,13 @@ def looks_numeric(text, fuzzy=False):
 def lines_from_words(words, y_tol=3.0):
     """Group words into text lines by top coordinate; return list of
     {"top", "words": [word dicts sorted by x0], "text": " ".join}
-    sorted by top."""
+    sorted by top.
+
+    line["top"] is the anchor: the top of the first word the line absorbed
+    (words are visited in (top, x0) order, so the smallest top in the line).
+    Each later word joins only while within y_tol of that anchor, so a visual
+    line whose word tops span more than y_tol intentionally splits.
+    """
     order = sorted(words, key=lambda x: (x["top"], x["x0"]))
     lines = []
     for word in order:
@@ -62,20 +74,29 @@ def _x_span(line):
 def find_table_top(lines, min_columns=3):
     """Top coordinate of the first table data line: the first line containing
     >= min_columns numeric tokens in >= min_columns distinct x clusters.
-    Prose lines (strays like '2026', '(3)', '39201,') never reach that count."""
+
+    Prose rejection relies on prose carrying fewer than min_columns numeric
+    tokens; a numeric-dense prose line would be read as a false table top --
+    a known limitation, relevant for the OCR-noisy counties.
+    """
     for line in lines:
-        nums = [x for x in line["words"] if looks_numeric(x["text"])]
-        xs = [x["x0"] for x in nums]
-        clusters = cluster_xs([(x, x) for x in xs], gap=20.0)
+        nums = [wd for wd in line["words"] if looks_numeric(wd["text"])]
+        xs = [wd["x0"] for wd in nums]
+        clusters = cluster_xs([(x, None) for x in xs], gap=COLUMN_GAP)
         if len(nums) >= min_columns and len(clusters) >= min_columns:
             return line["top"]
     return None
 
 
-def cluster_xs(pairs, gap=20.0):
-    """Cluster (x, payload) pairs by x with adjacent-gap threshold.
-    Returns sorted (by creation order of walking sorted input) list of
-    clusters; each cluster is {"center", "items"}."""
+def cluster_xs(pairs, gap=COLUMN_GAP):
+    """Cluster (x, payload) pairs by x with adjacent-gap threshold `gap`.
+
+    Input is sorted by x first, so clusters are returned in ascending x
+    order. The threshold is single-linkage against the previous cluster's
+    last item: a chain of points each within `gap` of its neighbor merges
+    into one cluster, however far apart the chain's ends end up. Each
+    cluster is {"center", "items"}, "center" the mean x of its items.
+    """
     items = sorted(pairs, key=lambda p: p[0])
     clusters = []
     for x, payload in items:
@@ -88,7 +109,7 @@ def cluster_xs(pairs, gap=20.0):
     return clusters
 
 
-def column_centers(digit_words, gap=20.0):
+def column_centers(digit_words, gap=COLUMN_GAP):
     """Distinct x0 centers of numeric columns, ascending."""
-    clusters = cluster_xs([(w["x0"], w) for w in digit_words], gap=gap)
+    clusters = cluster_xs([(wd["x0"], wd) for wd in digit_words], gap=gap)
     return sorted(cl["center"] for cl in clusters)

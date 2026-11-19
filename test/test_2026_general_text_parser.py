@@ -57,6 +57,54 @@ class GeometryTests(unittest.TestCase):
         self.assertAlmostEqual(centers[1], 291.5)
         self.assertAlmostEqual(centers[2], 337.5)
 
+    def test_column_centers_mixed_digit_lengths_stay_one_column(self):
+        # Real cells are right-aligned (x1 is the column's right edge), so x0
+        # varies with digit length within one column; clustering must not
+        # split a column just because its cells differ in digit count.
+        digits = [w("168", 282.2, 150.0, x1=297.2), w("5", 292.1, 300.0, x1=297.1)]
+        centers = ex.column_centers(digits)
+        self.assertEqual(len(centers), 1)
+        self.assertAlmostEqual(centers[0], 287.15)
+
+    def test_column_centers_single_column_two_rows(self):
+        digits = [w("188", 246, 150), w("190", 246, 300)]
+        self.assertEqual(ex.column_centers(digits), [246.0])
+
+    def test_column_centers_empty_input(self):
+        self.assertEqual(ex.column_centers([]), [])
+
+    def test_lines_from_words_sorts_shuffled_input(self):
+        # Words arrive in arbitrary (top, x0) order: output must be sorted by
+        # top, and within-line words re-sorted by x0 ("5" precedes "188" in
+        # the input but not in the line).
+        words = [w("190", 246, 300), w("5", 337, 152),
+                 w("Chunky", 45, 100, x1=130), w("164", 291, 152),
+                 w("188", 246, 152)]
+        lines = ex.lines_from_words(words, y_tol=2.0)
+        self.assertEqual([ln["top"] for ln in lines], [100, 152, 300])
+        self.assertEqual([ln["text"] for ln in lines],
+                         ["Chunky", "188 164 5", "190"])
+
+
+class DigitTests(unittest.TestCase):
+    def test_looks_numeric_accepts_plain_comma_and_signed(self):
+        for text in ("188", "1,234", "-5"):
+            self.assertTrue(ex.looks_numeric(text), repr(text))
+
+    def test_looks_numeric_rejects_prose_fragments(self):
+        for text in ("3rd", "(3)", "", "-"):
+            self.assertFalse(ex.looks_numeric(text), repr(text))
+
+    def test_fuzzy_rescue_only_when_enabled(self):
+        self.assertFalse(ex.looks_numeric("5O"))
+        self.assertTrue(ex.looks_numeric("5O", fuzzy=True))
+
+    def test_digit_clean_fuzzy_mangles_label_text(self):
+        # Exactly why fuzzy cleanup must only ever be applied to tokens chosen
+        # because they sit in numeric columns: on label text it manufactures
+        # digit soup.
+        self.assertEqual(ex.digit_clean("MISSISSIPPI", True), "M1551551PP1")
+
 
 if __name__ == "__main__":
     unittest.main()
