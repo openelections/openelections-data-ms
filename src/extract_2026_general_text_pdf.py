@@ -19,6 +19,7 @@ Usage:
 """
 
 import re
+import difflib  # total_col fuzzy header match; stdlib only
 
 DIGIT_RE = re.compile(r"^-?\d+$")
 
@@ -115,29 +116,49 @@ def column_centers(digit_words, gap=COLUMN_GAP):
     return sorted(cl["center"] for cl in clusters)
 
 
-import difflib  # noqa: E402  (total_col fuzzy header match; stdlib only)
-
 X_TOL = 6.0          # char x0 must sit within this of a column center
 STACK_X_TOL = 2.5    # chars of one vertical stack share x0 this tightly
 CHAR_STEP_JITTER = 2.0
+# Single-glyph vertical headers (e.g. precinct "5") always refuse to None at
+# this floor: one char cannot be told apart from stray noise. Deliberate
+# precision/recall tradeoff.
 MIN_STACK_CHARS = 2
-WORD_GAP_FACTOR = 0.45  # consecutive-top gap > step*(1+this) => word break
+# Accepted vertical gaps, measured against a stack's first inter-row step
+# (`step`, so WORD_GAP_FACTOR is step-relative):
+#   step - CHAR_STEP_JITTER <= gap <= step + CHAR_STEP_JITTER   (same rhythm)
+#   step * (1 + WORD_GAP_FACTOR) < gap < inf                     (word break)
+# Everything else-and-below is rejected -- most importantly the in-between
+# window (step + jitter, step*(1+factor)] that a stray prose char produces.
+WORD_GAP_FACTOR = 0.45
 
 
-def vertical_headers(chars, centers, bands):
+def vertical_headers(chars, centers, bands, max_top):
     """Rebuild each column's vertical header string from char geometry.
 
     Precinct names in SEMS recaps print as vertical char stacks (constant x0,
     descending y) that can interleave in y with the certification prose, so
     chars inside the (top, bottom) `bands` of wide prose lines are dropped
-    before reading. Returns {center: header string or None}."""
+    before reading. `max_top` is the required header-region top bound (the
+    table's top: what find_table_top returns): chars with top >= max_top --
+    the body cells -- are dropped before reading, because body-cell digits
+    share the column x and stack into rhythmic runs longer than any name,
+    which best = longest would read as the header.
+
+    Stack isolation is only ever as complete as the caller's exclusion
+    bands: the reader rejects irregular gaps but accepts any gap above
+    step * (1 + WORD_GAP_FACTOR) as a word break, so an unbanded prose char
+    landing within X_TOL of a column center is silently appended as a
+    "word". `bands` must cover every prose y-range that crosses a column.
+
+    Returns {center: header string or None}."""
     def excluded(ch):
         return any(b0 <= ch["top"] <= b1 for b0, b1 in bands)
 
     out = {}
     for center in centers:
         near = [ch for ch in chars
-                if abs(ch["x0"] - center) <= X_TOL and not excluded(ch)]
+                if ch["top"] < max_top
+                and abs(ch["x0"] - center) <= X_TOL and not excluded(ch)]
         stacks = cluster_xs([(ch["x0"], ch) for ch in near], gap=STACK_X_TOL)
         best = None
         for st in stacks:
@@ -170,7 +191,11 @@ def vertical_headers(chars, centers, bands):
 def stack_text(items, step):
     """Join stacked chars top-to-bottom, inserting a space where the vertical
     gap between consecutive char tops exceeds step * (1 + WORD_GAP_FACTOR)
-    (inter-word spacing)."""
+    (inter-word spacing).
+
+    Precondition: `items` must be sorted by top ascending -- both the space
+    decision and the reading order depend on it. The only caller
+    (vertical_headers) sorts the stack's items by top before calling."""
     chars = []
     prev_top = None
     for _, ch in items:
@@ -182,9 +207,21 @@ def stack_text(items, step):
 
 
 def total_col(headers):
-    """x center of the column whose header reads TOTAL (fuzzy allowed)."""
+    """x center of the column whose header reads TOTAL (fuzzy allowed).
+
+    Every column is scored (SequenceMatcher ratio against "TOTAL", case and
+    blank insensitive) and the best ratio at or above the 0.6 threshold
+    wins; equal ratios tie-break to the smaller center. Scoring all columns
+    instead of first-hit keeps the result independent of dict order and of a
+    weak short match ("Tot", 0.75) beating a perfect one later in the dict."""
+    best = None  # (ratio, center): ratio-maximal, center-minimal on ties
     for center, text in headers.items():
-        if text and difflib.SequenceMatcher(None, text.replace(" ", "").upper(),
-                                            "TOTAL").ratio() >= 0.6:
-            return center
-    return None
+        if not text:
+            continue
+        ratio = difflib.SequenceMatcher(None, text.replace(" ", "").upper(),
+                                        "TOTAL").ratio()
+        if ratio < 0.6:
+            continue
+        if best is None or ratio > best[0] or (ratio == best[0] and center < best[1]):
+            best = (ratio, center)
+    return None if best is None else best[1]

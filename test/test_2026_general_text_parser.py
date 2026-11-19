@@ -113,7 +113,7 @@ class VerticalStackTests(unittest.TestCase):
         chars = []
         for i, ch in enumerate("Bellemont"):
             chars.append(c(ch, 246.0, 120.0 + i * 9))
-        chars.append(c(",", 246.0, 120.0 + 9 * 8))  # comma in the name
+        chars.append(c(",", 246.0, 120.0 + 9 * 8))  # comma kerned onto the final char
         for i, ch in enumerate("Chunky"):
             chars.append(c(ch, 291.0, 120.0 + i * 9))
         # wide prose line to be excluded (spans across columns)
@@ -122,21 +122,80 @@ class VerticalStackTests(unittest.TestCase):
         return chars
 
     def test_read_vertical_headers(self):
+        # Header stacks end at top 192, so the header-region bound passes
+        # them through at 200.0 while any body char (top >= 200) is dropped.
         chars = self.build_table_chars()
-        got = ex.vertical_headers(chars, [246.0, 291.0], [(90.0, 100.0)])
+        got = ex.vertical_headers(chars, [246.0, 291.0], [(90.0, 100.0)], 200.0)
+        self.assertEqual(got[246.0], "Bellemont,")
+        self.assertEqual(got[291.0], "Chunky")
+
+    def test_body_digit_runs_cannot_displace_header_stack(self):
+        # Regression: the consumer passes ALL page chars. Below the table
+        # top, body-cell digits share the column x and form rhythmic
+        # vertical runs longer than any name, so best = longest used to
+        # return that digit soup; max_top must drop body chars outright,
+        # never merely let them be outranked.
+        chars = []
+        for i, ch in enumerate("Bellemont"):
+            chars.append(c(ch, 246.0, 37.0 + i * 9))
+        chars.append(c(",", 246.0, 37.0 + 9 * 8))  # comma kerned onto "t"
+        for i, ch in enumerate("Chunky"):
+            chars.append(c(ch, 291.0, 37.0 + i * 9))
+        # 30 rows of single-digit body cells right under the column center,
+        # starting below the table top: one rhythmic run per column.
+        for i in range(30):
+            chars.append(c("0123456789"[i % 10], 246.0, 130.0 + i * 9))
+            chars.append(c("0123456789"[i % 10], 291.0, 130.0 + i * 9))
+        got = ex.vertical_headers(chars, [246.0, 291.0], [], 118.0)
         self.assertEqual(got[246.0], "Bellemont,")
         self.assertEqual(got[291.0], "Chunky")
 
     def test_total_header_detected(self):
         chars = [c(ch, 700.0, 120.0 + i * 9) for i, ch in enumerate("TOTAL")]
-        got = ex.vertical_headers(chars, [700.0], [])
+        got = ex.vertical_headers(chars, [700.0], [], 200.0)
         self.assertEqual(ex.total_col(got), 700.0)
 
     def test_header_word_gap_becomes_space(self):
         chars = ([c(ch, 246.0, 120.0 + i * 9) for i, ch in enumerate("Dist")]
                  + [c(ch, 246.0, 120.0 + 4 * 9 + 6 + i * 9) for i, ch in enumerate("1")])
-        got = ex.vertical_headers(chars, [246.0], [])
+        got = ex.vertical_headers(chars, [246.0], [], 200.0)
         self.assertEqual(got[246.0], "Dist 1")
+
+    def test_comma_kerned_mid_name_is_preserved(self):
+        # The real "Lake, 1" landmine: the comma kerns onto a mid-name char
+        # (same top), not only onto the final one; reading order must keep
+        # it in place: "Bea" then comma-on-'a' then "lert".
+        chars = ([c(ch, 246.0, 120.0 + i * 9) for i, ch in enumerate("Bea")]
+                 + [c(",", 246.0, 120.0 + 2 * 9)]
+                 + [c(ch, 246.0, 120.0 + (3 + i) * 9) for i, ch in enumerate("lert")])
+        got = ex.vertical_headers(chars, [246.0], [], 300.0)
+        self.assertEqual(got[246.0], "Bea,lert")
+
+    def test_stray_char_in_rejected_gap_window_refuses_column(self):
+        # A stray prose char landing on the column x whose gap falls in the
+        # rejected in-between window (step + jitter < 12 <= word break)
+        # contaminates the stack: the whole column refuses to None.
+        chars = [c(ch, 246.0, 120.0 + i * 9) for i, ch in enumerate("Bellemont")]
+        chars.append(c("x", 246.0, 192.0 + 12.0))
+        got = ex.vertical_headers(chars, [246.0], [], 300.0)
+        self.assertIsNone(got[246.0])
+
+    def test_total_col_scores_every_column_not_first_hit(self):
+        # A weak 3-char match ("Tot", ratio 0.75) must not win just because
+        # it comes first in dict order; the best ratio at or above the
+        # threshold decides.
+        self.assertEqual(ex.total_col({246.0: "Tot", 700.0: "TOTAL"}), 700.0)
+
+    def test_total_col_returns_none_without_total(self):
+        self.assertIsNone(ex.total_col({246.0: "Chunky"}))
+
+    def test_total_col_fuzzy_variant_detected(self):
+        self.assertEqual(ex.total_col({246.0: "T0TAL"}), 246.0)
+
+    def test_total_col_tie_breaks_to_smaller_center(self):
+        # Equal ratios are order-dependent without a stated tie-break; the
+        # smaller center must win regardless of dict insertion order.
+        self.assertEqual(ex.total_col({700.0: "TOTAL", 246.0: "TOTAL"}), 246.0)
 
 
 if __name__ == "__main__":
