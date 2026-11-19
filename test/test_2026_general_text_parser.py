@@ -106,5 +106,38 @@ class DigitTests(unittest.TestCase):
         self.assertEqual(ex.digit_clean("MISSISSIPPI", True), "M1551551PP1")
 
 
+class VerticalStackTests(unittest.TestCase):
+    def build_table_chars(self):
+        # Two columns at x=246 and x=291; precinct names stacked one char per y.
+        # "Dist 1, Bellemont" style name with a comma is the classic landmine.
+        chars = []
+        for i, ch in enumerate("Bellemont"):
+            chars.append(c(ch, 246.0, 120.0 + i * 9))
+        chars.append(c(",", 246.0, 120.0 + 9 * 8))  # comma in the name
+        for i, ch in enumerate("Chunky"):
+            chars.append(c(ch, 291.0, 120.0 + i * 9))
+        # wide prose line to be excluded (spans across columns)
+        for x in range(60, 400, 5):
+            chars.append(c("x", float(x), 96.0))
+        return chars
+
+    def test_read_vertical_headers(self):
+        chars = self.build_table_chars()
+        got = ex.vertical_headers(chars, [246.0, 291.0], [(90.0, 100.0)])
+        self.assertEqual(got[246.0], "Bellemont,")
+        self.assertEqual(got[291.0], "Chunky")
+
+    def test_total_header_detected(self):
+        chars = [c(ch, 700.0, 120.0 + i * 9) for i, ch in enumerate("TOTAL")]
+        got = ex.vertical_headers(chars, [700.0], [])
+        self.assertEqual(ex.total_col(got), 700.0)
+
+    def test_header_word_gap_becomes_space(self):
+        chars = ([c(ch, 246.0, 120.0 + i * 9) for i, ch in enumerate("Dist")]
+                 + [c(ch, 246.0, 120.0 + 4 * 9 + 6 + i * 9) for i, ch in enumerate("1")])
+        got = ex.vertical_headers(chars, [246.0], [])
+        self.assertEqual(got[246.0], "Dist 1")
+
+
 if __name__ == "__main__":
     unittest.main()

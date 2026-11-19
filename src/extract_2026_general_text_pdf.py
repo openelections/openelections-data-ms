@@ -113,3 +113,78 @@ def column_centers(digit_words, gap=COLUMN_GAP):
     """Distinct x0 centers of numeric columns, ascending."""
     clusters = cluster_xs([(wd["x0"], wd) for wd in digit_words], gap=gap)
     return sorted(cl["center"] for cl in clusters)
+
+
+import difflib  # noqa: E402  (total_col fuzzy header match; stdlib only)
+
+X_TOL = 6.0          # char x0 must sit within this of a column center
+STACK_X_TOL = 2.5    # chars of one vertical stack share x0 this tightly
+CHAR_STEP_JITTER = 2.0
+MIN_STACK_CHARS = 2
+WORD_GAP_FACTOR = 0.45  # consecutive-top gap > step*(1+this) => word break
+
+
+def vertical_headers(chars, centers, bands):
+    """Rebuild each column's vertical header string from char geometry.
+
+    Precinct names in SEMS recaps print as vertical char stacks (constant x0,
+    descending y) that can interleave in y with the certification prose, so
+    chars inside the (top, bottom) `bands` of wide prose lines are dropped
+    before reading. Returns {center: header string or None}."""
+    def excluded(ch):
+        return any(b0 <= ch["top"] <= b1 for b0, b1 in bands)
+
+    out = {}
+    for center in centers:
+        near = [ch for ch in chars
+                if abs(ch["x0"] - center) <= X_TOL and not excluded(ch)]
+        stacks = cluster_xs([(ch["x0"], ch) for ch in near], gap=STACK_X_TOL)
+        best = None
+        for st in stacks:
+            st_items = sorted(st["items"], key=lambda p: p[1]["top"])
+            if len(st_items) < MIN_STACK_CHARS:
+                continue
+            tops = [p[1]["top"] for p in st_items]
+            # Chars kerned onto one top are a single row: measure the stack's
+            # rhythm across distinct row tops only.
+            gaps = [hi - lo for lo, hi in zip(tops, tops[1:]) if hi > lo]
+            if not gaps:
+                continue
+            step = gaps[0]
+            # Rows must descend at a uniform step (checked against the first
+            # inter-char step); the one tolerated irregularity is a clear word
+            # break (inter-word spacing, e.g. "Dist 1"). Anything between --
+            # the signature of a stray prose char landing in the stack -- and
+            # any smaller-than-step row disqualify the stack.
+            word_break = step * (1 + WORD_GAP_FACTOR)
+            if any(abs(gap - step) > CHAR_STEP_JITTER and gap <= word_break
+                   for gap in gaps):
+                continue  # irregular => prose contamination
+            text = stack_text(st_items, step)
+            if best is None or len(text) > len(best):
+                best = text
+        out[center] = best
+    return out
+
+
+def stack_text(items, step):
+    """Join stacked chars top-to-bottom, inserting a space where the vertical
+    gap between consecutive char tops exceeds step * (1 + WORD_GAP_FACTOR)
+    (inter-word spacing)."""
+    chars = []
+    prev_top = None
+    for _, ch in items:
+        if prev_top is not None and ch["top"] - prev_top > step * (1 + WORD_GAP_FACTOR):
+            chars.append(" ")
+        chars.append(ch["text"])
+        prev_top = ch["top"]
+    return "".join(chars)
+
+
+def total_col(headers):
+    """x center of the column whose header reads TOTAL (fuzzy allowed)."""
+    for center, text in headers.items():
+        if text and difflib.SequenceMatcher(None, text.replace(" ", "").upper(),
+                                            "TOTAL").ratio() >= 0.6:
+            return center
+    return None
