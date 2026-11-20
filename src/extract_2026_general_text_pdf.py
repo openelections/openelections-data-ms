@@ -21,7 +21,9 @@ importable (and testable) without it.
 Usage:
     uv run python src/extract_2026_general_text_pdf.py \
         ~/code/openelections-sources-ms/2026/general/Union_County_2026_general.pdf \
-        --county Union --out 2026/counties/20261103__ms__general__union__precinct.csv
+        --county Union \
+        --manifest 2026/header-reads/20261103__ms__general__union__headers.json \
+        --out 2026/counties/20261103__ms__general__union__precinct.csv
 """
 
 import json
@@ -1349,3 +1351,160 @@ def run_gates(pd):
     problems["manifest"].extend(pd.get("manifest_problems") or [])
     problems["structure"].extend(pd.get("structure_problems") or [])
     return problems
+
+
+# The repo's row-per-result layout (2024/2026 precedent: no winner column --
+# winners live in the county/statewide stage, and TOTAL rows are
+# verification-only, never written).
+CSV_FIELDS = ["county", "precinct", "office", "district", "candidate",
+              "party", "votes"]
+
+# Printed multi-seat qualifiers, keyed by office family. Consulted only
+# when an (office, district) key carries two or more DISTINCT seats; a
+# single ballot seat keeps the bare office label (2024 precedent).
+SEAT_QUALIFIER = {
+    "Court of Appeals": "Position",
+    "Chancery Court": "Place",
+    "Circuit Court": "Place",
+}
+
+
+def seat_labels(pd):
+    """(office, district) keys holding 2+ distinct seats -> qualifier applies.
+
+    Per the approved two-seat rule: when two or more seats of the same
+    office+district appear on the ballot, EVERY seat's office label gains
+    the printed qualifier ("Court of Appeals Position 2", "Chancery Court
+    Place 3"); with one seat the bare office label is kept (2024 precedent).
+    """
+    seats = {}
+    for r in pd["candidate_rows"]:
+        if r.get("seat") is None:
+            continue
+        key = (r["office"], r["district"])
+        seats.setdefault(key, set()).add(r["seat"])
+    return {key for key, s in seats.items() if len(s) > 1}
+
+
+def _merge_key(row):
+    """Ballot-order identity: same tuple parse_county_from_pages merges on
+    (its name_key collapses internal whitespace before lowering) -- so the
+    index built from it is each merged candidate row's first-seen position."""
+    return (row["office"], row["district"], row.get("seat"),
+            re.sub(r"\s+", " ", row.get("candidate") or "").strip().lower())
+
+
+def write_precinct_csv(pd, out_path):
+    """County parse dict -> OpenElections per-county precinct CSV.
+
+    Header exactly county,precinct,office,district,candidate,party,votes
+    (CRLF, csv-module default, matching the existing repo files). NO winner
+    column, NO TOTAL rows. Rows sort by precinct name (case-insensitive);
+    within a precinct, candidate rows keep ballot order -- their first-seen
+    position in pd["candidate_rows"], since pd["precinct_names"] is a sorted
+    name set and cannot carry it. district is "" when the race is not
+    districted; party is "" when the printed ballot party was blank
+    (Nonpartisan). A party value of None (unknown) is NOT silently blanked
+    here for reporting purposes -- party_check + main() flag it loudly
+    before this writer ever runs.
+
+    Raises ValueError when a multi-seat (office, district) hits an office
+    family with no printed qualifier mapping, or a row inside such a key
+    without a seat number: bare labels there would collide with the
+    suffixed ones, and collision is exactly what the qualifier exists to
+    prevent."""
+    import csv
+    multi = seat_labels(pd)
+    order_index = {}
+    for i, r in enumerate(pd["candidate_rows"]):
+        order_index.setdefault(_merge_key(r), i)
+    rows = []
+    for r in pd["candidate_rows"]:
+        office = r["office"]
+        if (office, r["district"]) in multi:
+            qualifier = SEAT_QUALIFIER.get(office)
+            seat = r.get("seat")
+            if qualifier is None or seat is None:
+                raise ValueError(
+                    f"multi-seat office {office!r} in district "
+                    f"{r['district']!r} has no printed qualifier mapping"
+                    f"{' and this row has no seat number' if seat is None else ''}"
+                    f"; refusing to write bare office labels that collide"
+                    f" with the suffixed ones")
+            office = f"{office} {qualifier} {seat}"
+        key = _merge_key(r)
+        for pname in pd["precinct_names"]:
+            if pname in r["cells"]:
+                # (precinct, ballot order) sort key kept OUT of the row dict
+                # itself -- DictWriter would raise on the unknown field.
+                rows.append((
+                    (pname.lower(), order_index[key]),
+                    {"county": pd["county"], "precinct": pname,
+                     "office": office, "district": r["district"] or "",
+                     "candidate": (r["candidate"] or "").strip(),
+                     "party": r.get("party") or "",
+                     "votes": r["cells"][pname]},
+                ))
+    rows.sort(key=lambda pair: pair[0])
+    with open(out_path, "w", newline="") as fh:
+        wr = csv.DictWriter(fh, fieldnames=CSV_FIELDS)
+        wr.writeheader()
+        wr.writerows(d for _, d in rows)
+
+
+def party_check(pd):
+    """Loud, additive party-completeness check the gates do NOT own.
+
+    A candidate row whose party never resolved (None) must not be silently
+    blanked: in the CSV, "" means the PRINTED ballot party was blank
+    (Nonpartisan), not unknown -- per the repo convention that reads None
+    and the deliberate "" value apart. Union (every candidate, verified
+    roster) should produce no complaints; anything here is reported in
+    main() and counted with the gate problems that hold the CSV back.
+    run_gates is deliberately left untouched."""
+    problems = []
+    for r in pd.get("candidate_rows") or []:
+        if r.get("party") is None:
+            problems.append({
+                "kind": "unknown_party", "office": r.get("office"),
+                "district": r.get("district"), "seat": r.get("seat"),
+                "candidate": r.get("candidate")})
+    return problems
+
+
+def main(argv=None):
+    import argparse
+    ap = argparse.ArgumentParser(description=__doc__)
+    ap.add_argument("pdf_path")
+    ap.add_argument("--county", required=True)
+    ap.add_argument("--manifest", required=True)
+    ap.add_argument("--out", required=True)
+    ap.add_argument("--fuzzy", action="store_true")
+    ap.add_argument("--allow-gate-failures", action="store_true",
+                    help="write the CSV even when gates flag problems (diagnosis only)")
+    args = ap.parse_args(argv)
+    pd = parse_county_pdf(args.pdf_path, args.county, args.manifest,
+                          fuzzy=args.fuzzy)
+    problems = run_gates(pd)
+    n_bad = sum(len(v) for v in problems.values())
+    for kind, items in problems.items():
+        for item in items:
+            print(f"  ! {kind}: {item}")
+    extra = party_check(pd)
+    for item in extra:
+        print(f"  ! structure: {item}")
+    n_bad += len(extra)
+    print(f"{args.county}: {len(pd['candidate_rows'])} candidate rows, "
+          f"{len(pd['precinct_names'])} precincts, "
+          f"{len(pd.get('dropped_local_rows', []))} local rows dropped, "
+          f"{n_bad} gate problem(s)")
+    if n_bad == 0 or args.allow_gate_failures:
+        write_precinct_csv(pd, args.out)
+        print(f"  wrote {args.out}")
+        return 0
+    print("  gates FAILED; CSV not written")
+    return 1
+
+
+if __name__ == "__main__":
+    raise SystemExit(main())

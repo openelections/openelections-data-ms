@@ -1178,5 +1178,158 @@ class UnionCountyTests(unittest.TestCase):
                           ("Trent Kelly", "REP")})
 
 
+class SeatSuffixTests(unittest.TestCase):
+    def make_pd(self, rows):
+        return {"county": "Test", "candidate_rows": rows,
+                "precinct_names": ["P1"]}
+
+    def test_two_seat_ballot_gets_qualifier_suffix(self):
+        rows = [
+            {"office": "Court of Appeals", "district": "1", "seat": 1,
+             "candidate": "A", "party": "", "cells": {"P1": 1}, "total": 1},
+            {"office": "Court of Appeals", "district": "1", "seat": 2,
+             "candidate": "B", "party": "", "cells": {"P1": 2}, "total": 2},
+        ]
+        import tempfile
+        with tempfile.NamedTemporaryFile(suffix=".csv", delete=False) as fh:
+            out = fh.name
+        ex.write_precinct_csv(self.make_pd(rows), out)
+        import csv as _csv
+        with open(out) as fh:
+            got = list(_csv.reader(fh))
+        self.assertEqual(got[0], ["county", "precinct", "office", "district",
+                                  "candidate", "party", "votes"])
+        offices = {(r[0], r[2], r[4], r[5]) for r in got[1:]}
+        self.assertIn(("Test", "Court of Appeals Position 1", "A", ""), offices)
+        self.assertIn(("Test", "Court of Appeals Position 2", "B", ""), offices)
+        os.unlink(out)
+
+    def test_single_seat_keeps_bare_office(self):
+        rows = [{"office": "Chancery Court", "district": "3", "seat": 2,
+                 "candidate": "C", "party": "REP", "cells": {"P1": 3},
+                 "total": 3}]
+        import tempfile
+        with tempfile.NamedTemporaryFile(suffix=".csv", delete=False) as fh:
+            out = fh.name
+        ex.write_precinct_csv(self.make_pd(rows), out)
+        import csv as _csv
+        with open(out) as fh:
+            got = list(_csv.reader(fh))
+        self.assertEqual([r[2] for r in got[1:]], ["Chancery Court"])
+        os.unlink(out)
+
+    def test_place_qualifier_for_chancery_and_circuit(self):
+        rows = [
+            {"office": "Chancery Court", "district": "1", "seat": 1,
+             "candidate": "A", "party": "", "cells": {"P1": 1}, "total": 1},
+            {"office": "Chancery Court", "district": "1", "seat": 3,
+             "candidate": "B", "party": "", "cells": {"P1": 2}, "total": 2},
+            {"office": "Circuit Court", "district": "3", "seat": 1,
+             "candidate": "C", "party": "", "cells": {"P1": 4}, "total": 4},
+            {"office": "Circuit Court", "district": "3", "seat": 2,
+             "candidate": "D", "party": "", "cells": {"P1": 5}, "total": 5},
+        ]
+        import tempfile
+        with tempfile.NamedTemporaryFile(suffix=".csv", delete=False) as fh:
+            out = fh.name
+        ex.write_precinct_csv(self.make_pd(rows), out)
+        import csv as _csv
+        with open(out) as fh:
+            got = list(_csv.reader(fh))
+        labels = {r[2] for r in got[1:]}
+        self.assertIn("Chancery Court Place 1", labels)
+        self.assertIn("Chancery Court Place 3", labels)
+        self.assertIn("Circuit Court Place 1", labels)
+        self.assertIn("Circuit Court Place 2", labels)
+        os.unlink(out)
+
+    def test_partition_sort_and_ballot_order(self):
+        rows = [
+            {"office": "U.S. Senate", "district": "", "seat": None,
+             "candidate": "Zed", "party": "DEM", "cells": {"B": 1, "A": 2},
+             "total": 3},
+            {"office": "U.S. Senate", "district": "", "seat": None,
+             "candidate": "Zed", "party": "REP", "cells": {"A": 2}, "total": 2},
+        ]
+        pd = self.make_pd(rows)
+        pd["precinct_names"] = ["A", "B"]
+        import tempfile
+        with tempfile.NamedTemporaryFile(suffix=".csv", delete=False) as fh:
+            out = fh.name
+        ex.write_precinct_csv(pd, out)
+        import csv as _csv
+        with open(out) as fh:
+            got = list(_csv.reader(fh))
+        # sorted by precinct; within a precinct, rows in candidate order
+        prec = [r[1] for r in got[1:]]
+        self.assertEqual(prec, ["A", "A", "B"])
+        os.unlink(out)
+
+    def test_unmapped_multi_seat_office_raises(self):
+        # a two-seat (office, district) with no printed qualifier mapping
+        # must never silently fall back to bare labels that collide.
+        rows = [
+            {"office": "New Office", "district": "1", "seat": 1,
+             "candidate": "A", "party": "", "cells": {"P1": 1}, "total": 1},
+            {"office": "New Office", "district": "1", "seat": 2,
+             "candidate": "B", "party": "", "cells": {"P1": 2}, "total": 2},
+        ]
+        import tempfile
+        with tempfile.NamedTemporaryFile(suffix=".csv", delete=False) as fh:
+            out = fh.name
+        with self.assertRaises(ValueError) as ctx:
+            ex.write_precinct_csv(self.make_pd(rows), out)
+        self.assertIn("New Office", str(ctx.exception))
+        os.unlink(out)
+
+    def test_single_ballot_seat_with_two_candidates_keeps_bare_office(self):
+        # one seat on the ballot (two-party contest): no qualifier, distinct
+        # party rows stay distinct and keep ballot order.
+        rows = [
+            {"office": "Circuit Court", "district": "3", "seat": 1,
+             "candidate": "Zed", "party": "DEM",
+             "cells": {"P1": 1, "P2": 2}, "total": 3},
+            {"office": "Circuit Court", "district": "3", "seat": 1,
+             "candidate": "Yan", "party": "REP",
+             "cells": {"P1": 4, "P2": 5}, "total": 9},
+        ]
+        pd = self.make_pd(rows)
+        pd["precinct_names"] = ["P1", "P2"]
+        import tempfile
+        with tempfile.NamedTemporaryFile(suffix=".csv", delete=False) as fh:
+            out = fh.name
+        ex.write_precinct_csv(pd, out)
+        import csv as _csv
+        with open(out) as fh:
+            got = list(_csv.reader(fh))
+        self.assertEqual([(r[1], r[2], r[4]) for r in got[1:]],
+                         [("P1", "Circuit Court", "Zed"),
+                          ("P1", "Circuit Court", "Yan"),
+                          ("P2", "Circuit Court", "Zed"),
+                          ("P2", "Circuit Court", "Yan")])
+        os.unlink(out)
+
+
+class PartyCheckTests(unittest.TestCase):
+    def test_unknown_party_reported_blank_party_not_reported(self):
+        rows = [
+            {"office": "U.S. Senate", "district": "", "seat": None,
+             "candidate": "A", "party": None, "cells": {"P1": 1},
+             "total": 1},
+            {"office": "U.S. Senate", "district": "", "seat": None,
+             "candidate": "B", "party": "", "cells": {"P1": 2},
+             "total": 2},
+            {"office": "U.S. Senate", "district": "", "seat": None,
+             "candidate": "C", "party": "DEM", "cells": {"P1": 3},
+             "total": 3},
+        ]
+        pd = {"county": "Test", "candidate_rows": rows,
+              "precinct_names": ["P1"]}
+        problems = ex.party_check(pd)
+        self.assertEqual(len(problems), 1)
+        self.assertEqual(problems[0]["kind"], "unknown_party")
+        self.assertEqual(problems[0]["candidate"], "A")
+
+
 if __name__ == "__main__":
     unittest.main()
