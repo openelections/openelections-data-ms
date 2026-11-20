@@ -1555,3 +1555,30 @@ Task 5 carries (reviewer-verified on real pages):
 3. Minor: pin the unknown_header-ahead-of-is_noise reordering (a standalone
    party word after a dual-classified line must not attach) with a test;
    note in the conflicts docstring that equal-value repeats are also logged.
+
+## Task 5 execution record (2026-11-19)
+
+Approved after three fix rounds. Final shape:
+
+- Assembly is manifest-driven: positional center↔label zip, `precinct_norm`
+  canonicalization with empty-name/collision gates, per-candidate TOTAL
+  capture keyed on the manifest's total-label column, cross-page merge by
+  (office, district, seat, name) preserving ballot order.
+- Office carry refreshed at every page boundary with an adjudicated
+  three-way boundary rule validated against the real pages (Union p5 keeps
+  its consumed carry; Warren's local-section openers never inherit federal
+  context). Dead total-marker block detection removed.
+- Fragment consumption bounded (cap 3, closed by new office rows, lone
+  tokens must be name-implausible garble to be consumed).
+- Manifest validation records key/shape/label-list/total_label problems;
+  bad `pages` shapes degrade to recorded problems, never crash.
+- Union end-to-end: 18 candidates × 20 cells, sums == printed totals, gates
+  all clean; the physically-clipped local school race routes to
+  `dropped_local_rows` (2 rows) and is excluded per the no-local-offices
+  convention.
+- Carries into Task 7: (a) the boundary residual — for repeat groups whose
+  members are not stream-aligned (Warren p3→p4), confirm repeat-group vs
+  continuation with the real pages; only a manifest-declared group can
+  disambiguate beyond in-page heuristics; (b) conflict records use two
+  spellings (`page` within-page, `pages` cross-page) — Task 9's report must
+  handle both; (c) `PLAUSIBLE_NAME_RE` is Title-Case-only by design.
