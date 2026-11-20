@@ -1,0 +1,19 @@
+{
+  "county": "Warren",
+  "source": "Warren_County_2026_general.pdf",
+  "election_date": "2026-11-03",
+  "read_by": "operator-vision",
+  "date": "2026-11-19",
+  "procedure": "Header strips rendered with pdfplumber page.crop(...).to_image(resolution=300); ambiguous cells zoomed at 600 dpi. Labels read left-to-right per page.",
+  "structure_note": "Column-split pagination, unlike Union's row-block scheme: p2+p3+p4 are one table (23 precincts + TOTAL) whose rows (all federal/statewide/judicial races) sit entirely on those three pages; p5+p6 repeat columns 1-22 for the LOCAL-races table (County Court Judge etc.). p4 is a narrow 2-column page (Porters Chapel + TOTAL); its data lines carry only 2 numeric tokens so extract_table_page's default find_table_top thresholds must retry with min_columns=2 for this page to parse. Total check: Colom 2992 (p2) + 5260 (p3) + 324 (p4) = 8576 = printed TOTAL.",
+  "truncation_note": "Medgar Foundation, Eagle Lake Methodist, International Paper are page-edge truncations in the 2026 general recap; full names taken from the same county's 2026 primary precinct file (20260310__ms__primary__warren__precinct.csv), whose printed names match every truncated prefix. Yokena verified by 600 dpi zoom (matches the 2024 general spelling as well); 'Life' is complete (narrow column).",
+  "local_note": "p5/p6 carry only local-office rows (County Court Judge, etc.), which are out of scope per the no-local-offices convention; they are recorded for completeness. Some local cells print 'X' (non-numeric).",
+  "total_label": "TOTAL",
+  "pages": {
+    "2": ["Ridgeway", "Bovina", "Gibson", "Oakland", "Medgar Foundation", "Elizabeth Circle", "Kings", "Spring Hill", "Auditorium", "Eagle Lake Methodist", "International Paper"],
+    "3": ["Calvary Indiana", "American Legion", "Travelers Rest", "Plumbers & Pipefitters", "Immanuel", "Goodrum", "Yokena", "Elks Lodge", "Calvary Old 27", "Life", "Lee Rd Fire"],
+    "4": ["Porters Chapel", "TOTAL"],
+    "5": ["Ridgeway", "Bovina", "Gibson", "Oakland", "Medgar Foundation", "Elizabeth Circle", "Kings", "Spring Hill", "Auditorium", "Eagle Lake Methodist", "International Paper"],
+    "6": ["Calvary Indiana", "American Legion", "Travelers Rest", "Plumbers & Pipefitters", "Immanuel", "Goodrum", "Yokena", "Elks Lodge", "Calvary Old 27", "Life", "Lee Rd Fire"]
+  }
+}
