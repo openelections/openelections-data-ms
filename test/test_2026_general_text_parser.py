@@ -2464,8 +2464,9 @@ class SuiteHygieneTests(unittest.TestCase):
     sources checkout, and direct execution must collect every test class.
     """
 
-    INTEGRATION_CLASSES = ("UnionPage2Tests", "UnionCountyTests",
-                           "WarrenCountyTests")
+    INTEGRATION_CLASSES = ("UnionPage2Tests", "JasperTextLayerTests",
+                           "UnionCountyTests", "WarrenCountyTests",
+                           "LeeCountyTests")
 
     def test_integration_classes_skip_without_sources(self):
         with open(__file__, encoding="utf-8") as fh:
@@ -3083,6 +3084,7 @@ class FullySuppliedCountyTests(unittest.TestCase):
             ex.no_table_pages_reason(manifest, {"2": {}}, "x.pdf"))
 
 
+@unittest.skipUnless(SOURCES_PRESENT, "sources checkout not present")
 class LeeCountyTests(unittest.TestCase):
     """The fully operator-supplied county: Lee's OCR text layer yields no
     parseable candidate rows at all (its digits are letter debris), so all
@@ -3096,8 +3098,6 @@ class LeeCountyTests(unittest.TestCase):
 
     @classmethod
     def setUpClass(cls):
-        if not SOURCES_PRESENT:
-            raise unittest.SkipTest("sources checkout not present")
         cls.pd = ex.parse_county_pdf(cls.LEE, "Lee", manifest_path=cls.MANIFEST)
         cls.totals = {"Scott Colom": 10524, "Cindy Hyde-Smith": 14772,
                       "Ty Pinkins": 505, "Johnny Baucom": 339,
