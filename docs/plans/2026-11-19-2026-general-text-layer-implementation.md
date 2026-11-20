@@ -1445,3 +1445,30 @@ User-approved replacement approach for header sourcing:
 5. Task 6/7/8 execution order per county becomes: manifest vision read first,
    then the CLI run gates against it. The notes report (Task 9) documents
    this procedure and each manifest's provenance.
+
+## Task 3 execution record (2026-11-19, disclosed deviations + decisions)
+
+Spec reviews are run per task; the following deviations were judged and
+recorded so a future reader of this plan is not misled by its sketch:
+
+1. **`[O0][fF]` instead of `0[fF]`** in the US-House and Court-of-Appeals
+   strict patterns — the spec's own non-fuzzy fixtures ("US House **Of**
+   Rep 01...", "Court **Of** Appeals 01...") cannot match a zero-only
+   pattern; letter-O is what the real PDFs print. Approved as necessary.
+2. **Noise fixture swap**: the spec's `"nn Prpclncts"` noise line is
+   unsatisfiable for any implementation of the spec's own anchor set; the
+   test pins `"District 3 - Election Commissioner"` instead (a real
+   mid-table furniture line).
+3. **The spec's generic fuzzy last-resort canon loop was dropped** as inert
+   (only its Senate canon could return a value, redundant with the 0.8
+   Senate branch).
+4. **Speculative State Senate/State House patterns were deleted** in the
+   fix commit — adjudicated unmatchable as written (`[S5]t[aeirl]*[te]`
+   cannot consume "State"), and zero legislative label lines exist in these
+   PDFs. If a real legislative label ever appears (Task 8+), fix against
+   observed text.
+5. **`precinct_norm` wiring decision (was I3 in review):** Task 5's header
+   alignment normalizes each manifest label with `precinct_norm` when
+   building the name-by-center map (single canonicalization point); the
+   structure gate gains an assert that no normalized name is empty and a
+   collision check that no two distinct manifest labels normalize equal.
