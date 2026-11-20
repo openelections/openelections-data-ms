@@ -2554,6 +2554,388 @@ class ManifestDeclarationTests(unittest.TestCase):
         self.assertEqual(ex.run_gates(pd)["total_mismatches"], [])
 
 
+class OperatorManifestTests(unittest.TestCase):
+    """Fix 3 + the operator_rows amendment: operator_cells (page-scoped
+    repairs into parsed rows), operator_rows (identity-supplied rows for
+    layers that parse no usable candidate name), and operator_supply_pages
+    (pages whose text-layer parse the operator declares unused). All apply
+    AFTER manifest alignment and key cells on the manifest's 0-based column-
+    order index (a TOTAL column by its position index like any other); every
+    application is recorded in pd["operator_cells_applied"], and every row
+    faces the printed-TOTAL gate exactly like a parsed row."""
+
+    MANIFEST = {"county": "Synth", "source": "x.pdf",
+                "election_date": "2026-11-03", "read_by": "operator-vision",
+                "date": "2026-11-19", "total_label": "TOTAL",
+                "pages": {"2": ["P1", "P2", "TOTAL"],
+                          "3": ["P3", "TOTAL"]}}
+
+    @staticmethod
+    def parsed_page(centers, candidates, office="U.S. Senate", district="",
+                    seat=None):
+        """A table page dict with candidates:
+        candidates = [(name, {center: value}, total)] in row order, each
+        carrying office/district/seat. office=None makes the rows
+        unattributable garbage (the assembly drops them)."""
+        rows = []
+        if office is not None:
+            rows.append({"kind": "office", "office": office,
+                         "district": district, "seat": seat})
+        for name, cells, total in candidates:
+            rows.append({"kind": "candidate", "candidate": name,
+                         "party": "DEM" if office == "U.S. Senate" else "",
+                         "office": office, "district": district, "seat": seat,
+                         "top": 200.0, "bottom": 208.0,
+                         "cells": dict(cells), "total": total})
+        return {"precinct_centers": centers, "table_top": 200.0,
+                "rows": rows, "conflicts": []}
+
+    def county(self, manifest, pages):
+        return ex.parse_county_from_pages(pages, "Synth", manifest)
+
+    def problems_of(self, pd, kind):
+        return [p for p in pd["manifest_problems"] if p["kind"] == kind]
+
+    def test_operator_cells_override_parsed_cells(self):
+        manifest = dict(self.MANIFEST, operator_cells={
+            "2": {"A": {"0": 9, "2": 15}}})
+        pd = self.county(manifest, {
+            "2": self.parsed_page([246.0, 291.0, 333.0],
+                                  [("A", {246.0: 5, 291.0: 6}, 15)])})
+        (row,) = pd["candidate_rows"]
+        self.assertEqual(row["cells"], {"P1": 9, "P2": 6})
+        self.assertEqual(row["total"], 15)
+        self.assertEqual(self.problems_of(pd, "operator_cell_no_row"), [])
+        self.assertEqual(
+            sorted((r["precinct"], r["old"], r["new"])
+                   for r in pd["operator_cells_applied"]),
+            [("P1", 5, 9), ("TOTAL", 15, 15)])
+        (rec,) = [r for r in pd["operator_cells_applied"]
+                  if r["precinct"] == "P1"]
+        self.assertEqual(rec["mechanism"], "operator_cells")
+        self.assertEqual(rec["column"], "P1")
+        self.assertEqual(rec["page"], 2)
+        self.assertEqual(ex.run_gates(pd)["total_mismatches"], [])
+
+    def test_operator_cells_add_missing_cells(self):
+        manifest = dict(self.MANIFEST, operator_cells={
+            "2": {"A": {"0": 9, "1": 6}}})
+        pd = self.county(manifest, {
+            "2": self.parsed_page([246.0, 291.0, 333.0],
+                                  [("A", {333.0: 15}, 15)])})
+        (row,) = pd["candidate_rows"]
+        self.assertEqual(row["cells"], {"P1": 9, "P2": 6})
+        self.assertEqual(row["total"], 15)
+        self.assertEqual([(r["precinct"], r["old"], r["new"])
+                          for r in pd["operator_cells_applied"]],
+                         [("P1", None, 9), ("P2", None, 6)])
+        self.assertEqual(ex.run_gates(pd)["total_mismatches"], [])
+
+    def test_operator_cells_unmatched_name_is_loud(self):
+        manifest = dict(self.MANIFEST, operator_cells={
+            "2": {"Nope": {"0": 9}}})
+        pd = self.county(manifest, {
+            "2": self.parsed_page([246.0, 291.0],
+                                  [("A", {246.0: 5}, 5)])})
+        self.assertEqual(self.problems_of(pd, "operator_cell_no_row"),
+                         [{"kind": "operator_cell_no_row", "page": 2,
+                           "candidate": "Nope"}])
+        self.assertEqual(pd["operator_cells_applied"], [])
+        manifest_kinds = [p.get("kind")
+                          for p in ex.run_gates(pd)["manifest"]]
+        self.assertIn("operator_cell_no_row", manifest_kinds)
+
+    def test_operator_cells_ambiguous_match_is_loud(self):
+        # a junk fragment row whose name is a tail of BOTH 'Stanley Sorey'
+        # reads cannot bind silently
+        manifest = dict(self.MANIFEST, operator_cells={
+            "2": {"ley Sorey": {"0": 9}}})
+        pd = self.county(manifest, {
+            "2": self.parsed_page([246.0, 291.0],
+                                  [("Stanley Sorey", {246.0: 5}, 5),
+                                   ("Shirley Sorey", {291.0: 6}, 6)])})
+        self.assertEqual(self.problems_of(pd, "operator_cell_ambiguous_match"),
+                         [{"kind": "operator_cell_ambiguous_match",
+                           "page": 2, "candidate": "ley Sorey",
+                           "matched": ["Shirley Sorey", "Stanley Sorey"]}])
+
+    def test_operator_rows_synth_row_with_multipage_merge(self):
+        # mode 3, Lee's case: the pages' candidate rows are garbage
+        # (office=None, so they are dropped local rows), the operator row
+        # carries its own ballot identity and cells keyed by position across
+        # two pages; the printed-TOTAL gate measures it like a parsed row.
+        manifest = dict(self.MANIFEST, operator_rows=[{
+            "key": "hydesmith", "office": "U.S. Senate", "district": "",
+            "seat": None, "candidate": "Cindy Hyde-Smith", "party": "REP",
+            "cells": {"2": {"0": 300, "1": 400, "2": 900},
+                      "3": {"0": 200, "1": 900}}}])
+        pd = self.county(manifest, {
+            "2": self.parsed_page([246.0, 291.0, 333.0],
+                                  [("junk fragment", {246.0: 1}, None)],
+                                  office=None),
+            "3": self.parsed_page([246.0, 291.0], [])})
+        senate = [r for r in pd["candidate_rows"]
+                  if r["candidate"] == "Cindy Hyde-Smith"]
+        self.assertEqual(len(senate), 1)
+        (row,) = senate
+        self.assertEqual(row["office"], "U.S. Senate")
+        self.assertEqual(row["party"], "REP")
+        self.assertEqual(row["cells"], {"P1": 300, "P2": 400, "P3": 200})
+        self.assertEqual(row["total"], 900)
+        self.assertEqual(row["pages"], [2, 3])
+        self.assertEqual(len(pd["candidate_rows"]), 1)
+        # the layer junk row stayed exactly where the normal rules put it
+        self.assertEqual([d["candidate"] for d in pd["dropped_local_rows"]],
+                         ["junk fragment"])
+        self.assertEqual(len(pd["operator_cells_applied"]), 5)
+        (rec,) = [r for r in pd["operator_cells_applied"]
+                  if r["page"] == 3 and r["precinct"] == "TOTAL"]
+        self.assertEqual(rec["new"], 900)
+        problems = ex.run_gates(pd)
+        self.assertEqual(problems["total_mismatches"], [])
+        self.assertEqual(problems["structure"], [])
+        self.assertEqual(problems["manifest"], [])
+        self.assertEqual(problems["party"], [])
+
+    def test_operator_rows_mode_three_ballot_order_after_previous_race(self):
+        # a synthetic Circuit row first-referenced on page 4 sorts after the
+        # rows the document printed at or before page 4 (page 2's stream)
+        # and its multi-page merge keeps one row
+        page2 = self.parsed_page([246.0, 291.0, 333.0],
+                                 [("Scott Colom", {246.0: 400, 291.0: 500},
+                                   900)])
+        pd = self.county(
+            dict(self.MANIFEST, pages={"2": ["P1", "P2", "TOTAL"],
+                                       "4": ["P1", "P2", "TOTAL"]},
+                 operator_rows=[{
+                     "key": "sorey", "office": "Circuit Court",
+                     "district": "13", "seat": 2,
+                     "candidate": "Stanley Sorey", "party": "",
+                     "cells": {"4": {"0": 100, "1": 200, "2": 300}}}]),
+            {"2": page2})
+        self.assertEqual([r["candidate"] for r in pd["candidate_rows"]],
+                         ["Scott Colom", "Stanley Sorey"])
+        (sorey,) = [r for r in pd["candidate_rows"]
+                    if r["candidate"] == "Stanley Sorey"]
+        self.assertEqual(sorey["cells"], {"P1": 100, "P2": 200})
+        self.assertEqual(sorey["total"], 300)
+        self.assertEqual(ex.run_gates(pd)["total_mismatches"], [])
+
+    def test_operator_rows_name_partial_match_merges_into_parsed_row(self):
+        # mode 2 with a partial layer name: 'ley Sorey' is 'Stanley Sorey'
+        # cut at the head; the cell lands in the parsed row
+        page2 = self.parsed_page([246.0, 291.0, 333.0],
+                                 [("ley Sorey", {246.0: 37}, None)],
+                                 office="Circuit Court", district="13",
+                                 seat=2)
+        pd = self.county(
+            dict(self.MANIFEST,
+                 pages={"2": ["Rose Hill", "Stringer", "TOTAL"]},
+                 operator_rows=[{
+                     "key": "sorey", "office": "Circuit Court",
+                     "district": "13", "seat": 2,
+                     "candidate": "Stanley Sorey", "party": "",
+                     "cells": {"2": {"0": 414, "1": 523, "2": 937}}}]),
+            {"2": page2},)
+        (row,) = pd["candidate_rows"]
+        self.assertEqual(row["candidate"], "ley Sorey")
+        self.assertEqual(row["cells"], {"Rose Hill": 414, "Stringer": 523})
+        self.assertEqual(row["total"], 937)
+        self.assertEqual(pd["operator_cells_applied"][0]["matched_layer"],
+                         "ley Sorey")
+        self.assertEqual(ex.run_gates(pd)["total_mismatches"], [])
+
+    def test_operator_rows_missing_metadata_is_loud(self):
+        manifest = dict(self.MANIFEST, operator_rows=[{
+            "key": "x", "candidate": "Cindy Hyde-Smith",
+            "cells": {"2": {"0": 300, "2": 900}}}])
+        pd = self.county(manifest, {
+            "2": self.parsed_page([246.0, 291.0], [])})
+        self.assertEqual(self.problems_of(pd, "operator_row_missing_metadata"),
+                         [{"kind": "operator_row_missing_metadata",
+                           "key": "x",
+                           "missing": ["office"], "pages": [2]}])
+        self.assertEqual(pd["candidate_rows"], [])
+        self.assertNotEqual(ex.run_gates(pd)["manifest"], [])
+
+    def test_operator_rows_race_collision_is_loud(self):
+        # a parsed row holds the Circuit 13 Place 2 race under a distinct
+        # identity: a synthetic twin would double-count the seat
+        pd = self.county(
+            dict(self.MANIFEST, operator_rows=[{
+                "key": "sorey", "office": "Circuit Court", "district": "13",
+                "seat": 2, "candidate": "Stanley Sorey",
+                "cells": {"2": {"0": 414}}}]),
+            {"2": self.parsed_page([246.0],
+                                   [("Someone Else", {246.0: 5}, 5)],
+                                   office="Circuit Court", district="13",
+                                   seat=2)})
+        (problem,) = self.problems_of(pd, "operator_row_race_collision")
+        self.assertEqual(problem["race"], ["Circuit Court", "13", 2])
+        self.assertEqual(problem["parsed"], ["Someone Else"])
+        self.assertEqual([r["candidate"] for r in pd["candidate_rows"]],
+                         ["Someone Else"])
+        self.assertEqual(pd["operator_cells_applied"], [])
+
+    def test_operator_rows_position_out_of_range_is_loud(self):
+        manifest = dict(self.MANIFEST, operator_rows=[{
+            "key": "x", "office": "U.S. Senate", "district": "",
+            "candidate": "Cindy Hyde-Smith", "party": "REP",
+            "cells": {"2": {"7": 300, "2": 900}}}])
+        pd = self.county(manifest, {
+            "2": self.parsed_page([246.0, 291.0, 333.0], []),
+            "3": self.parsed_page([246.0, 291.0], [])})
+        self.assertEqual(
+            self.problems_of(pd, "operator_cell_position_out_of_range"),
+            [{"kind": "operator_cell_position_out_of_range",
+              "mechanism": "operator_rows", "page": 2, "position": 7,
+              "labels": 3, "key": "x", "candidate": "Cindy Hyde-Smith"}])
+        (row,) = pd["candidate_rows"]
+        self.assertEqual(row["total"], 900)
+        self.assertEqual([p["kind"] for p in ex.run_gates(pd)["manifest"]],
+                         ["operator_cell_position_out_of_range"])
+
+    def test_operator_rows_unknown_precinct_is_loud(self):
+        pd = self.county(
+            dict(self.MANIFEST, operator_rows=[{
+                "key": "x", "office": "U.S. Senate", "district": "",
+                "candidate": "Cindy Hyde-Smith", "party": "REP",
+                "cells": {"2": {"0": 300}}}]),
+            {"3": self.parsed_page([246.0], [])})
+        self.assertEqual([p["kind"] for p in pd["structure_problems"]],
+                         ["operator_cell_unknown_precinct"])
+        self.assertNotEqual(ex.run_gates(pd)["structure"], [])
+
+    def test_end_to_end_garbage_layer_with_operator_rows_gates_clean(self):
+        # the real workflow shape: a county whose only parseable page yields
+        # junk rows; the operator supplies two full rows from renders with
+        # printed totals; gates clean, CSV writes the operator values.
+        import csv as _csv
+        import tempfile
+        manifest = dict(self.MANIFEST, pages={"2": ["P1", "P2", "TOTAL"]},
+                        operator_rows=[
+            {"key": "colom", "office": "U.S. Senate", "district": "",
+             "candidate": "Scott Colom", "party": "DEM",
+             "cells": {"2": {"0": 29, "1": 300, "2": 329}}},
+            {"key": "hydesmith", "office": "U.S. Senate", "district": "",
+             "candidate": "Cindy Hyde-Smith", "party": "REP",
+             "cells": {"2": {"0": 5, "1": 7, "2": 12}}}])
+        junk = self.parsed_page([246.0, 291.0, 333.0],
+                                [("garbage name 9", {246.0: 9}, None)],
+                                office=None)
+        pd = self.county(manifest, {"2": junk})
+        problems = ex.run_gates(pd)
+        self.assertEqual(problems["total_mismatches"], [])
+        self.assertEqual(problems["manifest"], [])
+        self.assertEqual(problems["structure"], [])
+        tmpdir = tempfile.mkdtemp()
+        self.addCleanup(lambda: __import__("shutil").rmtree(tmpdir))
+        out = os.path.join(tmpdir, "synth__precinct.csv")
+        ex.write_precinct_csv(pd, out)
+        with open(out) as fh:
+            rows = list(_csv.DictReader(fh))
+        by = {(r["candidate"], r["precinct"]): int(r["votes"]) for r in rows}
+        self.assertEqual(by[("Scott Colom", "P1")], 29)
+        self.assertEqual(by[("Cindy Hyde-Smith", "P2")], 7)
+        # the junk layer row never became data
+        self.assertEqual({r["candidate"] for r in rows},
+                         {"Scott Colom", "Cindy Hyde-Smith"})
+
+    def test_operator_supply_pages_skip_extraction_of_missing_pages(self):
+        manifest = dict(self.MANIFEST, pages={"2": ["P1", "P2", "TOTAL"],
+                                              "3": ["P3", "TOTAL"]},
+                        operator_supply_pages=["3"],
+                        operator_rows=[{
+                            "key": "sorey", "office": "Circuit Court",
+                            "district": "13", "seat": 2,
+                            "candidate": "Stanley Sorey", "party": "",
+                            "cells": {"2": {"0": 414, "1": 523, "2": 937},
+                                      "3": {"1": 937}}}])
+        pd = self.county(manifest, {"2": self.parsed_page([246.0], [])})
+        # page 3's absence is a scope decision, not a page_missing gate
+        self.assertEqual(
+            [p for p in pd["manifest_problems"] if p["kind"] == "page_missing"],
+            [])
+        self.assertEqual(pd["operator_supply_pages"],
+                         [{"page": 3, "labels": ["P3", "TOTAL"]}])
+        # its cells re-key through the page's own declared labels
+        self.assertEqual(
+            sorted((r["page"], r["precinct"])
+                   for r in pd["operator_cells_applied"]),
+            [(2, "P1"), (2, "P2"), (2, "TOTAL"), (3, "TOTAL")])
+        (row,) = pd["candidate_rows"]
+        self.assertEqual(row["cells"], {"P1": 414, "P2": 523})
+        self.assertEqual(row["total"], 937)
+        self.assertEqual(ex.run_gates(pd)["total_mismatches"], [])
+
+    def test_unreferenced_operator_supply_page_is_loud(self):
+        import tempfile
+        manifest = dict(self.MANIFEST, operator_supply_pages=["3"],
+                        operator_rows=[{
+                            "key": "x", "office": "U.S. Senate",
+                            "district": "", "candidate": "Cindy Hyde-Smith",
+                            "party": "REP", "cells": {"2": {"0": 1, "2": 100}}}],
+                        pages={"2": ["P1", "P2", "TOTAL"],
+                               "3": ["P3", "TOTAL"]})
+        path = os.path.join(self._tmpdir(), "m.json")
+        with open(path, "w") as fh:
+            json.dump(manifest, fh)
+        _, problems = ex.load_manifest(path)
+        self.assertEqual(
+            [p for p in problems if p["kind"] == "manifest_shape"],
+            [{"kind": "manifest_shape", "key": "operator_supply_pages",
+              "problem": "page 3 is declared operator-supplied but no "
+                         "operator_cells/operator_rows entry supplies it; "
+                         "its declared labels would silently produce "
+                         "nothing"}])
+
+    def _tmpdir(self):
+        import tempfile
+        tmp = tempfile.mkdtemp()
+        self.addCleanup(lambda: __import__("shutil").rmtree(tmp, True))
+        return tmp
+
+    def test_load_shape_validation(self):
+        import tempfile
+        path = os.path.join(self._tmpdir(), "m.json")
+        for extra, expected in (
+                ({"operator_cells": ["2"]},
+                 "must be a dict of page -> {candidate: {column index: "
+                 "value}, got list"),
+                ({"operator_cells": {"2": {"A": "nope"}}},
+                 "must be a dict of column index -> value"),
+                ({"operator_rows": {"2": {}}},
+                 "must be a list of row objects, got dict"),
+                ({"operator_rows": [{"key": "", "cells": {}}]},
+                 "needs a non-empty 'key'"),
+                ({"operator_rows": [{"key": "x", "candidate": "A",
+                                     "cells": {}}]},
+                 "carries no int (or digit-string) cell values"),
+                ({"operator_cells": {"9": {"A": {"0": 1}}}},
+                 "page 9 not declared under pages"),
+                ({"operator_rows": [{"key": "x", "candidate": "A",
+                                     "cells": {"9": {"0": 1}}}]},
+                 "page 9 not declared under pages")):
+            manifest = dict(self.MANIFEST)
+            manifest.update(extra)
+            with open(path, "w") as fh:
+                json.dump(manifest, fh)
+            _, problems = ex.load_manifest(path)
+            shapes = [p for p in problems if p["kind"] == "manifest_shape"]
+            self.assertEqual(len(shapes), 1, (extra, problems))
+            self.assertIn(expected, shapes[0]["problem"],
+                          (extra, shapes[0]))
+
+    def test_digit_string_values_accepted(self):
+        manifest = dict(self.MANIFEST, operator_cells={
+            "2": {"A": {"0": "9", "1": 6}}})
+        pd = self.county(manifest, {
+            "2": self.parsed_page([246.0, 291.0],
+                                  [("A", {246.0: 5}, 5)])})
+        (row,) = pd["candidate_rows"]
+        self.assertEqual(row["cells"], {"P1": 9, "P2": 6})
+
+
 class CliSummaryTests(unittest.TestCase):
     """The CLI summary line reports the skipped-local-page count alongside
     the dropped-local-row count (Task 8 mechanics)."""
@@ -2579,10 +2961,13 @@ class CliSummaryTests(unittest.TestCase):
         summary = [l for l in lines if l.startswith("Union: ")][0]
         self.assertIn("2 local rows dropped", summary, summary)
         self.assertIn("0 skipped local pages", summary, summary)
+        self.assertIn("0 operator-supplied pages", summary, summary)
+        self.assertIn("0 operator cells applied", summary, summary)
         self.assertIn("0 gate problem(s)", summary, summary)
         m = re.match(
             r"^Union: (\d+) candidate rows, (\d+) precincts, "
             r"(\d+) local rows dropped, (\d+) skipped local pages, "
+            r"(\d+) operator-supplied pages, (\d+) operator cells applied, "
             r"(\d+) gate problem\(s\)$", summary)
         self.assertIsNotNone(m, summary)
 

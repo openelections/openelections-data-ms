@@ -1124,6 +1124,43 @@ MANIFEST_OPTIONAL_LIST_KEYS = ("local_only_pages", "carry_pages")
 # applied replacement faces the row's printed-TOTAL gate like any other cell.
 MANIFEST_REPAIRS_KEY = "cell_token_repairs"
 
+# Optional keys for operator-supplied cells (cells an OCR-corrupted text
+# layer cannot deliver; values read from the page renders and arithmetic-
+# checked against the printed county TOTAL). Both apply AFTER manifest
+# alignment: they key cells by that page's 0-based column-order index in the
+# manifest's left-to-right label order (a TOTAL column is referenced by its
+# position index like any other), so they bind to the same normalized
+# positions the labels do.
+#
+#   "operator_cells": {"<page>": {"<candidate name>": {"<index>": value}}}
+#     Page-scoped repairs into rows ALREADY PARSED from that page: the named
+#     row's parsed cell at that column position is replaced, a missed cell is
+#     added. A candidate key matching no merged row from that page is a LOUD
+#     manifest problem -- never silent.
+#
+#   "operator_rows": [<row>]
+#     Identity-supplied rows for pages whose layer parses no usable candidate
+#     row at all (row label garbage). Each entry carries the ballot identity
+#     (key/office/district/seat/candidate/party) and cells per page. A parsed
+#     row with the same identity receives the cells (mode 2: merge/override);
+#     when no parsed row matches, the entry's own metadata defines a
+#     synthetic candidate row whose cells come from the entry across pages
+#     (mode 3, Lee's case) -- a parsed row under the same
+#     (office, district, seat) that did NOT match is a LOUD collision,
+#     because silently adding a synthetic twin would double-count the seat.
+#     Operator rows face the printed-TOTAL gate like parsed rows.
+#
+#   "operator_supply_pages": [<page>]
+#     Pages whose text-layer parse is not used at all (Jasper p4/p5: no grid
+#     survives) -- never extracted, never a page_missing/column_count gate
+#     problem, the scope decision is the operator's. Their declared labels
+#     remain the position index the operator read against. Every such page
+#     must be referenced by at least one operator cells/rows entry: a
+#     supplied page with no operator content would silently produce nothing.
+MANIFEST_OPERATOR_CELLS_KEY = "operator_cells"
+MANIFEST_OPERATOR_ROWS_KEY = "operator_rows"
+MANIFEST_SUPPLY_KEY = "operator_supply_pages"
+
 
 def manifest_numbers(manifest, key):
     """Int page numbers declared under manifest[key] (list of page strings or
@@ -1274,6 +1311,144 @@ def load_manifest(path):
                     "problem": "page "
                                + ", ".join(str(m) for m in missing)
                                + " not declared under pages"})
+    if MANIFEST_OPERATOR_CELLS_KEY in manifest:
+        bad = None
+        cells = manifest[MANIFEST_OPERATOR_CELLS_KEY]
+        if not isinstance(cells, dict) or isinstance(cells, list):
+            bad = ("must be a dict of page -> {candidate: {column index: "
+                   f"value}}, got {type(cells).__name__}")
+        else:
+            for page_key, candidates in cells.items():
+                if not isinstance(candidates, dict) \
+                        or isinstance(candidates, list):
+                    bad = f"page {page_key!r}'s entries must be a dict of " \
+                          "candidate name -> {column index: value}"
+                    break
+                for name, page_cells in candidates.items():
+                    if not isinstance(page_cells, dict) \
+                            or isinstance(page_cells, list):
+                        bad = (f"page {page_key!r}'s {name!r} must be a "
+                               "dict of column index -> value")
+                        break
+                    if not operator_cell_values(page_cells):
+                        bad = (f"page {page_key!r}'s {name!r} carries no "
+                               "int (or digit-string) cell values")
+                        break
+                if bad:
+                    break
+        if bad:
+            problems.append({"kind": "manifest_shape",
+                             "key": MANIFEST_OPERATOR_CELLS_KEY,
+                             "problem": bad})
+        elif not pages_shape_bad:
+            missing = undeclared_pages(
+                int(str(k)) for k in cells
+                if str(k).strip() and str(k).isdigit())
+            if missing:
+                problems.append({
+                    "kind": "manifest_shape",
+                    "key": MANIFEST_OPERATOR_CELLS_KEY,
+                    "problem": "page "
+                               + ", ".join(str(m) for m in missing)
+                               + " not declared under pages"})
+    if MANIFEST_OPERATOR_ROWS_KEY in manifest:
+        bad = None
+        rows = manifest[MANIFEST_OPERATOR_ROWS_KEY]
+        if not isinstance(rows, list) or isinstance(rows, (str, bytes)):
+            bad = f"must be a list of row objects, got {type(rows).__name__}"
+        else:
+            for i, entry in enumerate(rows):
+                if not isinstance(entry, dict):
+                    bad = f"row {i} must be an object"
+                    break
+                if not isinstance(entry.get("key"), str) \
+                        or not entry.get("key", "").strip():
+                    bad = f"row {i} needs a non-empty 'key'"
+                    break
+                if not isinstance(entry.get("candidate"), str) \
+                        or not entry.get("candidate", "").strip():
+                    bad = f"row {i} ({entry.get('key')!r}) needs a " \
+                          "non-empty 'candidate'"
+                    break
+                page_cells = entry.get("cells")
+                if not isinstance(page_cells, dict) \
+                        or isinstance(page_cells, list):
+                    bad = f"row {i} ({entry.get('key')!r}) needs a dict of " \
+                          "page -> {column index: value} under 'cells'"
+                    break
+                if not any(operator_cell_values(pc)
+                           for pc in page_cells.values()
+                           if isinstance(pc, dict) and not isinstance(pc, list)):
+                    bad = f"row {i} ({entry.get('key')!r}) carries no int " \
+                          "(or digit-string) cell values"
+                    break
+        if bad:
+            problems.append({"kind": "manifest_shape",
+                             "key": MANIFEST_OPERATOR_ROWS_KEY, "problem": bad})
+        elif not pages_shape_bad:
+            referenced = {
+                int(str(k)) for entry in rows
+                for k in (entry.get("cells") or {})
+                if isinstance(entry, dict) and str(k).strip().isdigit()}
+            missing = undeclared_pages(referenced)
+            if missing:
+                problems.append({
+                    "kind": "manifest_shape",
+                    "key": MANIFEST_OPERATOR_ROWS_KEY,
+                    "problem": "page "
+                               + ", ".join(str(m) for m in missing)
+                               + " not declared under pages"})
+    if MANIFEST_SUPPLY_KEY in manifest:
+        bad = None
+        if not isinstance(manifest[MANIFEST_SUPPLY_KEY], list) \
+                or isinstance(manifest[MANIFEST_SUPPLY_KEY], (str, bytes)):
+            bad = ("must be a list of page numbers, got "
+                   f"{type(manifest[MANIFEST_SUPPLY_KEY]).__name__}")
+        elif any(not isinstance(n, (str, int)) or isinstance(n, bool)
+                 for n in manifest[MANIFEST_SUPPLY_KEY]):
+            bad = "entries must be page numbers (string or int)"
+        if bad:
+            problems.append({"kind": "manifest_shape",
+                             "key": MANIFEST_SUPPLY_KEY, "problem": bad})
+        elif not pages_shape_bad:
+            supply = manifest_numbers(manifest, MANIFEST_SUPPLY_KEY)
+            missing = undeclared_pages(supply)
+            if missing:
+                problems.append({
+                    "kind": "manifest_shape",
+                    "key": MANIFEST_SUPPLY_KEY,
+                    "problem": "page "
+                               + ", ".join(str(m) for m in missing)
+                               + " not declared under pages"})
+            elif any(key in manifest
+                     for key in (MANIFEST_OPERATOR_CELLS_KEY,
+                                 MANIFEST_OPERATOR_ROWS_KEY)):
+                # a supplied page no operator entry references would
+                # silently produce nothing
+                referenced = set()
+                for page_key in operator_cell_entries(manifest):
+                    try:
+                        referenced.add(int(str(page_key)))
+                    except ValueError:
+                        continue
+                for entry in operator_row_entries(manifest):
+                    cells = entry.get("cells")
+                    if not isinstance(cells, dict):
+                        continue
+                    for page_key in cells:
+                        try:
+                            referenced.add(int(str(page_key)))
+                        except ValueError:
+                            continue
+                for num in sorted(supply - referenced):
+                    problems.append({
+                        "kind": "manifest_shape",
+                        "key": MANIFEST_SUPPLY_KEY,
+                        "problem": f"page {num} is declared "
+                                   "operator-supplied but no "
+                                   "operator_cells/operator_rows entry "
+                                   "supplies it; its declared labels "
+                                   "would silently produce nothing"})
     return manifest, problems
 
 
@@ -1292,24 +1467,67 @@ def page_token_repairs(manifest, number):
     return page_repairs
 
 
+def operator_cell_entries(manifest):
+    """The manifest's cell_token_repairs-analog map of per-page, per-candidate
+    operator-read cells, or {} (tolerant reader: load_manifest records the
+    shape problem and the gates hold the county)."""
+    entries = manifest.get(MANIFEST_OPERATOR_CELLS_KEY) \
+        if isinstance(manifest, dict) else None
+    return entries if isinstance(entries, dict) else {}
+
+
+def operator_row_entries(manifest):
+    """The manifest's identity-supplied operator rows (list), or [] (tolerant
+    reader; see operator_cell_entries)."""
+    entries = manifest.get(MANIFEST_OPERATOR_ROWS_KEY) \
+        if isinstance(manifest, dict) else None
+    if not isinstance(entries, list) or isinstance(entries, (str, bytes)):
+        return []
+    return [entry for entry in entries if isinstance(entry, dict)]
+
+
+def operator_cell_values(cells):
+    """(position index, int value) pairs for one operator entry's cell map,
+    skipping shape-bad entries (load_manifest records them)."""
+    if not isinstance(cells, dict):
+        return []
+    out = []
+    for key, value in cells.items():
+        try:
+            idx = int(str(key))
+        except (TypeError, ValueError):
+            continue
+        if isinstance(value, bool) or not isinstance(value, (int, str)):
+            continue
+        try:
+            val = int(value)
+        except (TypeError, ValueError):
+            continue
+        out.append((idx, val))
+    return out
+
+
 def narrow_retry_numbers(manifest):
     """Manifest-declared TABLE page numbers a min_columns=2 retry may target:
-    keys present in manifest["pages"], minus the local-only pages. A narrow
-    page's data lines carry too few numeric tokens for find_table_top's
-    default (Warren p4/p7: Porters Chapel + TOTAL); the retry is bounded to
-    declared pages so an undeclared page's prose can never table-top."""
+    keys present in manifest["pages"], minus the local-only and the
+    operator-supply pages. A narrow page's data lines carry too few numeric
+    tokens for find_table_top's default (Warren p4/p7: Porters Chapel +
+    TOTAL); the retry is bounded to declared pages so an undeclared page's
+    prose can never table-top."""
     pages = manifest.get("pages")
     if not isinstance(pages, dict):
         return set()
     local_only = manifest_numbers(manifest, "local_only_pages")
+    operator_supply = manifest_numbers(manifest, MANIFEST_SUPPLY_KEY)
     out = set()
     for key in pages:
         try:
             n = int(str(key))
         except ValueError:
             continue
-        if n not in local_only:
-            out.add(n)
+        if n in local_only or n in operator_supply:
+            continue
+        out.add(n)
     return out
 
 
@@ -1409,6 +1627,68 @@ def normalize_page_labels(labels, total_label):
     return names, total_pos, problems
 
 
+def _name_border_relation(a, b):
+    """True when two name keys relate the way a layer row relates to the
+    print name an operator read:
+
+    * equality;
+    * word-boundary prefix -- the layer glued trailing tokens onto the name
+      ('stanley sorey nonpartlsan' for 'Stanley Sorey');
+    * word-boundary suffix ('lee jr.' for the tail of 'Roy Noble Lee Jr.');
+    * leading truncation: the shorter 2+-token name is the tail of the
+      longer one, cut inside a token each time ('ley sorey' for 'Stanley
+      Sorey' -- the layer lost 'Stan'). One-token short names never relate
+      this way (the 'ann' inside 'Joanne' coincidence), and no bare
+      substring ('orey') ever does."""
+    if a == b:
+        return True
+    if b.startswith(a + " ") or b.endswith(" " + a):
+        return True
+    if a.startswith(b + " ") or a.endswith(" " + b):
+        return True
+    return (_tail_truncation(a, b) or _tail_truncation(b, a))
+
+
+def _tail_truncation(longer, shorter):
+    """True when `shorter` (2+ tokens) is `longer` cut short at the head:
+    aligned at the tail, the first shorter token is a PROPER suffix of the
+    matching longer token and the remaining tokens are equal."""
+    lt, st = longer.split(" "), shorter.split(" ")
+    if len(st) < 2 or len(st) > len(lt):
+        return False
+    k = len(lt) - len(st)
+    if not (len(lt[k]) > len(st[0]) and lt[k].endswith(st[0])):
+        return False
+    return st[1:] == lt[k + 1:]
+
+
+def operator_match_rows(name, rows):
+    """The candidate rows matching one operator row identity, by name.
+
+    Exact name_key equality first; when nothing matches exactly, the
+    word-boundary relation (_name_border_relation) against name_key -- an
+    operator row met with partial layer names or a glued-on party token.
+    Only rows are passed in that the caller already scoped (a page's merged
+    rows, or all of them for the mode-3 race check)."""
+    wanted = name_key(name)
+    if not wanted:
+        return []
+    exact = [row for row in rows
+             if name_key(row.get("candidate") or "") == wanted]
+    if exact:
+        return exact
+    return [row for row in rows
+            if _name_border_relation(wanted, name_key(row.get("candidate")
+                                                      or ""))]
+
+
+def _operator_positional_labels(manifest_pages, pno):
+    """A declared page's manifest labels (list), or None."""
+    labels = manifest_pages.get(str(pno)) \
+        if isinstance(manifest_pages, dict) else None
+    return labels if isinstance(labels, list) else None
+
+
 def parse_county_from_pages(pages, county, manifest):
     """Assemble a county from pre-extracted table pages (Amendment A).
 
@@ -1465,18 +1745,32 @@ def parse_county_from_pages(pages, county, manifest):
     pd["skipped_local_pages"] ({page, labels, reason}) and, unlike a
     declared TABLE page that fails extraction, is never reported as
     "page_missing". Their absence is therefore never a gate problem: the
-    declaration itself is the scope decision.
+    declaration itself is the scope decision. Operator-supply pages
+    (manifest["operator_supply_pages"]) skip the same way -- their scope
+    decision is that the text layer is not used, with the in-scope data
+    arriving through the operator cells/rows entries; each is recorded under
+    pd["operator_supply_pages"].
+
+    Operator cells/rows (manifest["operator_cells"]/"operator_rows") apply
+    AFTER the alignment and merge: each referenced (page, position index)
+    maps through that page's manifest labels to a normalized precinct name
+    (or the TOTAL marker), then overrides/adds that cell in the matched or
+    operator-defined row. Every application is recorded in
+    pd["operator_cells_applied"] ({page, mechanism, key, candidate, column,
+    precinct, old, new}); rows keep facing the printed-TOTAL gate.
     """
     if isinstance(manifest, str):
         manifest, mproblems = load_manifest(manifest)
     else:
         mproblems = []
     local_only = manifest_numbers(manifest, "local_only_pages")
+    operator_supply = manifest_numbers(manifest, MANIFEST_SUPPLY_KEY)
     manifest_problems = list(mproblems)
     structure_problems = []
     conflicts = []
     dropped_local_rows = []
     skipped_local_pages = []
+    operator_supply_records = []
     total_label = manifest.get("total_label") or TOTAL_NAME
     # A recorded-bad pages shape degrades to page_unlabeled for every
     # extracted page plus the manifest_shape record -- loud but never an
@@ -1498,7 +1792,7 @@ def parse_county_from_pages(pages, county, manifest):
     alignments = {}
     for key in sorted(pages, key=sort_key):
         pno = page_no(key)
-        if pno in local_only:
+        if pno in local_only or pno in operator_supply:
             continue  # declared out of scope: recorded below, never assembled
         if pno is None or key not in manifest_pages:
             manifest_problems.append({"kind": "page_unlabeled", "page": str(key)})
@@ -1522,12 +1816,16 @@ def parse_county_from_pages(pages, county, manifest):
                     by_center[center] = TOTAL_NAME
             elif center is not None:
                 by_center[center] = names[pos] if pos < len(names) else None
-        alignments[pno] = {"names_by_center": by_center}
+        alignments[pno] = {"names_by_center": by_center, "names": names,
+                           "total_pos": total_pos, "labels": labels}
     for key in sorted(manifest_pages, key=sort_key):
         if page_no(key) in local_only:
             skipped_local_pages.append({"page": page_no(key),
                                         "labels": manifest_pages[key] or [],
                                         "reason": "local_only"})
+        elif page_no(key) in operator_supply:
+            operator_supply_records.append({"page": page_no(key),
+                                            "labels": manifest_pages[key] or []})
         elif key not in pages:
             manifest_problems.append({"kind": "page_missing", "page": page_no(key)})
 
@@ -1737,6 +2035,185 @@ def parse_county_from_pages(pages, county, manifest):
         elif last_context_kind == "unknown":
             end_context = None
         last_carry_used = first_carry_used
+
+    # ---- operator cells / operator rows (applied after the alignment) ----
+    #
+    # Every entry's cells key on that page's 0-based column-order index in
+    # the manifest's label order (a TOTAL column by its position like any
+    # other), which resolves through the page's manifest labels to the same
+    # normalized precinct names the parsed cells carry. Every application is
+    # recorded; rows keep facing the printed-TOTAL gate.
+    operator_applied = []
+
+    def operator_labels_for(pno):
+        al = alignments.get(pno)
+        if al is not None:
+            return al["labels"], al["names"], al["total_pos"]
+        labels = _operator_positional_labels(manifest_pages, pno)
+        if labels is None:
+            return None, None, None
+        names, total_pos, _ = normalize_page_labels(labels, total_label)
+        return labels, names, total_pos
+
+    def apply_operator_cells(mechanism, identity, target, pno, page_cells):
+        """One entry's (position index -> value) map into one row."""
+        labels, names, total_pos = operator_labels_for(pno)
+        if names is None:
+            manifest_problems.append(
+                {"kind": "operator_cell_no_labels", "mechanism": mechanism,
+                 "page": pno, **identity})
+            return
+        for idx, value in operator_cell_values(page_cells):
+            if idx < 0 or idx >= len(names):
+                manifest_problems.append(
+                    {"kind": "operator_cell_position_out_of_range",
+                     "mechanism": mechanism, "page": pno, "position": idx,
+                     "labels": len(names), **identity})
+                continue
+            label = labels[idx] if labels and idx < len(labels) else str(idx)
+            name = None if idx == total_pos else names[idx]
+            if name is None and idx != total_pos:
+                manifest_problems.append(
+                    {"kind": "operator_cell_unlabeled_position",
+                     "mechanism": mechanism, "page": pno, "position": idx,
+                     "label": label, **identity})
+                continue
+            if name == TOTAL_NAME or (idx == total_pos and name is None):
+                # a TOTAL-column cell: the operator read of the printed
+                # county total becomes the row's total (recorded either way)
+                old = target.get("total")
+                if old is not None and old != value:
+                    conflicts.append(
+                        {"kind": "duplicate_total", "pages": target["pages"],
+                         "candidate": target.get("candidate"),
+                         "values": [old, value]})
+                target["total"] = value
+                precinct = TOTAL_NAME
+            else:
+                old = target["cells"].get(name)
+                if name not in all_names:
+                    structure_problems.append(
+                        {"kind": "operator_cell_unknown_precinct",
+                         "page": pno, "precinct": name,
+                         "candidate": target.get("candidate"),
+                         "value": value})
+                elif old is not None and old != value:
+                    conflicts.append(
+                        {"kind": "conflicting_cells", "page": pno,
+                         "candidate": target.get("candidate"),
+                         "precinct": name, "values": [old, value]})
+                target["cells"][name] = value
+                precinct = name
+            operator_applied.append(
+                dict(identity, page=pno, mechanism=mechanism, column=label,
+                     precinct=precinct, old=old, new=value))
+
+    op_cells = operator_cell_entries(manifest)
+    for pno_key in sorted(op_cells, key=sort_key):
+        pno = page_no(pno_key)
+        if pno is None:
+            continue  # non-numeric page key: recorded as a shape problem
+        # page-scoped and name-matched ONLY: the named row must be among the
+        # merged rows this page produced -- repairs never create rows
+        page_rows = [merged[k] for k in order
+                     if pno in (merged[k].get("pages") or [])]
+        for name in sorted(op_cells[pno_key]):
+            matches = operator_match_rows(name, page_rows)
+            entry_identity = {"key": name, "candidate": name}
+            if len(matches) == 1 \
+                    and name_key(matches[0]["candidate"] or "") \
+                    != name_key(name):
+                entry_identity["matched_layer"] = matches[0]["candidate"]
+            if len(matches) > 1:
+                manifest_problems.append(
+                    {"kind": "operator_cell_ambiguous_match",
+                     "page": pno, "candidate": name,
+                     "matched": sorted(m["candidate"] for m in matches)})
+                continue
+            if not matches:
+                manifest_problems.append(
+                    {"kind": "operator_cell_no_row", "page": pno,
+                     "candidate": name})
+                continue
+            apply_operator_cells("operator_cells", entry_identity,
+                                 matches[0], pno, op_cells[pno_key][name])
+    synthetic_keys = set()
+    for entry in operator_row_entries(manifest):
+        key = entry.get("key")
+        candidate = (entry.get("candidate") or "").strip()
+        office = entry.get("office")
+        district = entry.get("district")
+        seat = entry.get("seat")
+        cells_by_page = (entry.get("cells")
+                         if isinstance(entry.get("cells"), dict) else {})
+        identity = {"key": key, "candidate": candidate or entry.get("candidate")}
+        mkey = (office, district, seat, name_key(candidate))
+        target = merged.get(mkey)
+        matched_layer = None
+        if target is None:
+            # mode 2 with a partial layer name: the same race's parsed rows
+            race_rows = [merged[k] for k in order
+                         if k not in synthetic_keys
+                         and (merged[k].get("office"), merged[k].get("district"),
+                              merged[k].get("seat")) == (office, district, seat)]
+            matches = operator_match_rows(candidate, race_rows)
+            if len(matches) > 1:
+                manifest_problems.append(
+                    {"kind": "operator_cell_ambiguous_match", "key": key,
+                     "candidate": candidate,
+                     "matched": sorted(m["candidate"] for m in matches)})
+                continue
+            if matches:
+                target = matches[0]
+                matched_layer = target["candidate"]
+        if target is None:
+            referenced = [p for p in (page_no(k) for k in cells_by_page)
+                          if p is not None]
+            missing_meta = [f for f in ("candidate", "office")
+                            if not str(entry.get(f) or "").strip()]
+            if missing_meta:
+                manifest_problems.append(
+                    {"kind": "operator_row_missing_metadata", "key": key,
+                     "missing": missing_meta, "pages": sorted(referenced)})
+                continue
+            races = sorted(merged[k]["candidate"] for k in order
+                           if k not in synthetic_keys
+                           and (merged[k].get("office"), merged[k].get("district"),
+                                merged[k].get("seat")) == (office, district, seat))
+            if races:
+                manifest_problems.append(
+                    {"kind": "operator_row_race_collision", "key": key,
+                     "candidate": candidate,
+                     "race": [office, district, seat], "parsed": races})
+                continue
+            row = {"kind": "candidate", "office": office, "district": district,
+                   "seat": seat,
+                   "candidate": NAME_WS_RE.sub(" ", candidate).strip(),
+                   "party": (entry.get("party")
+                             if isinstance(entry.get("party"), str) else None),
+                   "total": None, "cells": {}, "orphan_cells": {},
+                   "pages": sorted(set(referenced)),
+                   "page": min(referenced) if referenced else None}
+            # ballot order: the operator row belongs after the rows the
+            # document printed at or before its own first referenced page
+            insert_at = 0
+            if row["page"] is not None:
+                for pos, mkey_seen in enumerate(order):
+                    if (merged[mkey_seen].get("page") or 0) <= row["page"]:
+                        insert_at = pos + 1
+            merged[mkey] = row
+            synthetic_keys.add(mkey)
+            order.insert(insert_at, mkey)
+            target = row
+        for pno_key in sorted(cells_by_page, key=sort_key):
+            pno = page_no(pno_key)
+            if pno is None:
+                continue
+            entry_identity = dict(identity)
+            if matched_layer is not None:
+                entry_identity["matched_layer"] = matched_layer
+            apply_operator_cells("operator_rows", entry_identity, target, pno,
+                                 cells_by_page[pno_key])
     candidate_rows = [merged[k] for k in order]
     for row in candidate_rows:
         missing = [n for n in all_names if n not in row["cells"]]
@@ -1749,6 +2226,8 @@ def parse_county_from_pages(pages, county, manifest):
             "candidate_rows": candidate_rows,
             "dropped_local_rows": dropped_local_rows,
             "skipped_local_pages": skipped_local_pages,
+            "operator_supply_pages": operator_supply_records,
+            "operator_cells_applied": operator_applied,
             "conflicts": conflicts,
             "manifest_problems": manifest_problems,
             "structure_problems": structure_problems,
@@ -1788,11 +2267,15 @@ def parse_county_pdf(pdf_path, county, manifest_path, fuzzy=False):
     from natural_pdf import PDF  # lazy
     manifest, mproblems = load_manifest(manifest_path)
     local_only = manifest_numbers(manifest, "local_only_pages")
+    operator_supply = manifest_numbers(manifest, MANIFEST_SUPPLY_KEY)
     pdf = PDF(str(pdf_path))
     pages = {}
     for i, page in enumerate(pdf.pages, start=1):
-        if i in local_only:
-            continue  # manifest-declared out of scope; recorded at assembly
+        if i in local_only or i in operator_supply:
+            # manifest-declared out of scope; recorded at assembly. Operator-
+            # supply pages' in-scope data arrives through the operator
+            # entries, keyed on their declared labels.
+            continue
         page_repairs = page_token_repairs(manifest, i)
         tp = None
         for min_columns, authoritative in extraction_floors(manifest, i):
@@ -2058,6 +2541,10 @@ def main(argv=None):
           f"{len(pd['precinct_names'])} precincts, "
           f"{len(pd.get('dropped_local_rows', []))} local rows dropped, "
           f"{len(pd.get('skipped_local_pages', []))} skipped local pages, "
+          f"{len(pd.get('operator_supply_pages', []))} operator-supplied "
+          f"pages, "
+          f"{len(pd.get('operator_cells_applied', []))} operator cells "
+          f"applied, "
           f"{n_bad} gate problem(s)")
     if n_bad == 0:
         write_precinct_csv(pd, args.out)
