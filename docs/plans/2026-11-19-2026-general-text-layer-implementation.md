@@ -1597,3 +1597,12 @@ Approved after three fix rounds. Final shape:
   disambiguate beyond in-page heuristics; (b) conflict records use two
   spellings (`page` within-page, `pages` cross-page) — Task 9's report must
   handle both; (c) `PLAUSIBLE_NAME_RE` is Title-Case-only by design.
+
+## Task 6 re-review carry (2026-11-19, into Task 8/9)
+
+- One-line docstring fix at src/extract_2026_general_text_pdf.py:1436: the
+  final-(label,district) uniqueness gate does NOT catch total seat loss
+  (both races of a two-place race losing seats collapse to one identity);
+  correct the overclaim. The natural automated catcher for total seat loss
+  is Task 9's cross-county roster gate comparing at (office, district)
+  family level; record the residual there.
