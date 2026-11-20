@@ -191,9 +191,10 @@ def run_batch(sources_dir, only=None, cache_dir=DEFAULT_CACHE_DIR,
         record = run_county(job, allow_gate_failures=allow_gate_failures)
         status[county] = record
         save_status(status_path, status)
-        problems = record["problems"]
+        problems = record["problems"] if isinstance(record["problems"], dict) \
+            else list(record["problems"])
         if record["state"] == "ERROR":
-            (first,) = (problems if problems else [])
+            first = problems[0]
             detail = ", ".join(f"{k}={v}" for k, v in first.items()
                                if k != "kind")
             print(f"{county}: {record['state']} "
@@ -261,9 +262,9 @@ def main(argv=None):
     if all_passed and not roster_problems:
         print("Done: all counties PASSED, roster gate clean.")
         return 0
-    print("FAILED: not every county passed cleanly and the roster gate is "
-          "not clean (gate problems, diagnosis-only writes, or roster "
-          "problems); see the prints above and status.json.")
+    print("FAILED: the batch is not clean (gate problems, diagnosis-only "
+          "writes, or roster problems); see the prints above and "
+          "status.json.")
     return 1
 
 

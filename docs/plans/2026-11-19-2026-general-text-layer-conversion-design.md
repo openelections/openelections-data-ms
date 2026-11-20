@@ -91,8 +91,9 @@ statewide general recap PDF is available in the sources repo.
 - Header: `county,precinct,office,district,candidate,party,votes` (2024/2026
   per-county precedent; no winner column, no TOTAL rows — totals are
   verification-only).
-- Sorted by precinct, office, candidate; precinct names stripped of
-  "Precinct", leading zeros, stray quotes.
+- Sorted by precinct (case-insensitive), candidates in printed ballot order
+  within each precinct; precinct names stripped of "Precinct", leading
+  zeros, stray quotes.
 
 ## Amendment A (2026-11-19): hybrid header sourcing
 

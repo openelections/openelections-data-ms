@@ -222,6 +222,9 @@ def stack_text(items, step):
 def total_col(headers):
     """x center of the column whose header reads TOTAL (fuzzy allowed).
 
+    Non-load-bearing utility since Amendment A (the operator manifest
+    designates the TOTAL column); retained for cross-checks.
+
     Every column is scored (SequenceMatcher ratio against "TOTAL", case and
     blank insensitive) and the best ratio at or above the 0.6 threshold
     wins; equal ratios tie-break to the smaller center. Scoring all columns
