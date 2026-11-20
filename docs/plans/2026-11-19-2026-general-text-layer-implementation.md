@@ -615,6 +615,8 @@ Co-Authored-By: Claude <noreply@anthropic.com>"
 
 ### Task 4: Page extraction (labels band, numeric row assignment)
 
+> **Amendment A pointer:** header sourcing per Amendment A — `extract_table_page` no longer reads headers from geometry (no `vertical_headers` call; returns column centers only). The Task 4 sketch below carries the pre-amendment call shape and `assertTrue(all(precinct_names.values()))` assertion; implement the Amendment-A contract instead (centers + row stream + cells; header names arrive in Task 5 from the operator vision manifest).
+
 **Files:**
 - Modify: `src/extract_2026_general_text_pdf.py`
 - Test: `test/test_2026_general_text_parser.py`
