@@ -1708,3 +1708,29 @@ Approved. Carries into Task 8's window (test hygiene first):
    row's printed total proves it).
 6. Carry: three blank lines after `_repair_label`; re-inline of
    `LABEL_REPAIRS.get(tok, tok)` at src:945 should reuse `_repair_label`.
+
+## Task 8 close-out (2026-11-20, final re-review)
+
+Approved after three stages. All four counties produce gated CSVs that
+regenerate byte-identically: Union (360 rows), Warren (253), Lee (561,
+17 operator rows), Jasper (143, 11 operator rows). The adjudicated Sullivan
+cell (283) is traceable via operator_provenance and the resolved
+discrepancies report. 182 tests green.
+
+Task 9 opening carries (quality review):
+1. Non-numeric `cell_token_repairs` page key crashes load_manifest (the one
+   sibling that still raises) — record as manifest_shape, mirroring
+   page_min_columns.
+2. `operator_cells`/`operator_rows` non-numeric page keys are silently
+   dropped while the comment claims otherwise — record as manifest_shape.
+3. `operator_labels_for` can bind operator cells to local_only page labels —
+   return None for local_only and prefer supply alignments; pin with a test.
+4. State the unconditional precinct-universe union truthfully in the two
+   comments + pin the novel-label gain case.
+5. Three stale pre-conversion Jasper doc references (parse_county_pdf
+   docstring, constants comment, JasperTextLayerTests docstring).
+6. Lee carry_pages is inert for a fully operator-supplied county — drop it
+   and note the vestigial status (regeneration stays byte-identical).
+7. Register `operator_provenance` as a free-text convention in the constants
+   block (unread by the parser).
+8. Merge the duplicate extraction_floors test pair.
