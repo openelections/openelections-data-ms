@@ -286,5 +286,220 @@ class LabelTests(unittest.TestCase):
             self.assertEqual(ex.precinct_norm(name), expected, name)
 
 
+class CellAssignmentTests(unittest.TestCase):
+    def test_row_band_assignment(self):
+        rows = [{"kind": "candidate", "candidate": "A", "top": 200.0, "bottom": 212.0},
+                {"kind": "office", "office": "X", "top": 240.0, "bottom": 250.0}]
+        numwords = [w("188", 246.0, 205.0), w("7", 291.0, 206.0)]
+        centers = [246.0, 291.0]
+        cells = ex.assign_cells(rows, numwords, centers)
+        self.assertEqual(cells, {(0, 246.0): 188, (0, 291.0): 7})
+
+    def test_no_cell_below_last_row(self):
+        rows = [{"kind": "candidate", "candidate": "A", "top": 200.0, "bottom": 212.0}]
+        cells = ex.assign_cells(rows, [w("5", 246.0, 260.0)], [246.0])
+        self.assertEqual(cells, {})
+
+    def test_digit_words_left_of_columns_ignored(self):
+        rows = [{"kind": "candidate", "candidate": "A", "top": 200.0, "bottom": 212.0}]
+        cells = ex.assign_cells(rows, [w("3", 100.0, 205.0)], [246.0])
+        self.assertEqual(cells, {})
+
+
+class LabelRowTests(unittest.TestCase):
+    def make_lines(self, line_specs):
+        """line_specs: list of (text, top) pairs rendered as label-band words."""
+        words = []
+        for i, (text, top) in enumerate(line_specs):
+            x = 45.0
+            for tok in text.split(" "):
+                words.append(w(tok, x, top + (i % 1)))
+                x += len(tok) * 5 + 4
+        return words
+
+    def run_rows(self, line_specs, label_x_max=240.0, fuzzy=False):
+        return ex.label_rows(ex.lines_from_words(self.make_lines(line_specs)),
+                             table_top=150.0, label_x_max=label_x_max, fuzzy=fuzzy)
+
+    def test_office_then_candidates_with_party_lines(self):
+        rows = self.run_rows([
+            ("United States-Senate", 160.0),
+            ("Scott Colom", 170.0), ("Democrat", 178.0),
+            ("Cindy Hyde-Smith", 188.0), ("Republican", 196.0),
+        ])
+        self.assertEqual([r["kind"] for r in rows][:2], ["office", "candidate"])
+        office = rows[0]
+        self.assertEqual(office["office"], "U.S. Senate")
+        cand = [r for r in rows if r["kind"] == "candidate"]
+        self.assertEqual(cand[0]["candidate"], "Scott Colom")
+        self.assertEqual(cand[0]["party"], "DEM")
+        self.assertEqual(cand[1]["party"], "REP")
+        self.assertEqual(cand[1]["district"], "")  # Senate district not applicable
+
+    def test_noise_and_furniture_skipped(self):
+        rows = self.run_rows([
+            ("Page : 2", 160.0),
+            ("United States-Senate", 170.0),
+            ("Johnny Baucom", 180.0), ("Libertarian", 188.0),
+        ])
+        kinds = [r["kind"] for r in rows]
+        self.assertEqual(kinds.count("office"), 1)
+        cand = [r for r in rows if r["kind"] == "candidate"]
+        self.assertEqual(len(cand), 1)
+        self.assertEqual(cand[0]["party"], "LIB")
+
+    def test_wrapped_office_label_continues(self):
+        rows = self.run_rows([
+            ("US House Of Rep 01-1st Congressional", 160.0),
+            ("District", 168.0),
+            ("Trent Kelly", 178.0), ("Republican", 186.0),
+        ])
+        offices = [r for r in rows if r["kind"] == "office"]
+        self.assertEqual(len(offices), 1)
+        self.assertEqual((offices[0]["office"], offices[0]["district"]), ("U.S. House", "1"))
+        cand = [r for r in rows if r["kind"] == "candidate"]
+        self.assertEqual([c["candidate"] for c in cand], ["Trent Kelly"])
+        # "District" must not survive as a candidate row
+        self.assertNotIn("District", [c["candidate"] for c in cand])
+
+    def test_candidate_row_is_anchored_after_party(self):
+        rows = self.run_rows([
+            ("United States-Senate", 160.0),
+            ("Cindy Hyde-Smith", 170.0),
+            ("Scott Colom", 190.0), ("Democrat", 198.0),
+        ])
+        cand = [r for r in rows if r["kind"] == "candidate"]
+        self.assertEqual(cand[0]["candidate"], "Cindy Hyde-Smith")
+        self.assertIsNone(cand[0]["party"])  # trailing candidate without party word
+
+    def test_trailing_party_token_belongs_to_this_line(self):
+        # Real Union p2 geometry: the party word prints right of the name, in
+        # its own column, on the candidate's OWN line. It must be stripped and
+        # attached to the row built from this line -- not forwarded to the
+        # candidate above it, and not left polluting the name.
+        rows = self.run_rows([
+            ("United States-Senate", 160.0),
+            ("Amy Jones Republican", 170.0),
+            ("Bob Smith", 180.0),
+        ])
+        cands = [r for r in rows if r["kind"] == "candidate"]
+        self.assertEqual([(c["candidate"], c["party"]) for c in cands],
+                         [("Amy Jones", "REP"), ("Bob Smith", None)])
+
+    def test_label_repairs_fix_printed_names(self):
+        # Union's invisible-Tesseract layer misreads printed tokens ("Scott
+        # Colom" -> "Coiom", "Democrat" -> "Democra"); the mangled party token
+        # still strips via PARTY_WORDS and the name comes back repaired.
+        rows = self.run_rows([("Scott Coiom Democra", 160.0)])
+        cand = rows[0]
+        self.assertEqual((cand["candidate"], cand["party"]), ("Scott Colom", "DEM"))
+
+    def test_continuation_refuses_candidate_name_lines(self):
+        # The office regexes match by prefix, so without the wrap-vocabulary
+        # gate the first candidate under a self-contained Court header would
+        # be swallowed: the merged text "Court Of Appeals 01-District 1
+        # Position 1 <name>" still parses as the same office.
+        rows = self.run_rows([
+            ("Court Of Appeals 01-District 1 Position 1", 160.0),
+            ("Derek Dewayne Hopson Jr. Nonpartisan", 170.0),
+            ("John Weddle", 180.0),
+        ])
+        offices = [r for r in rows if r["kind"] == "office"]
+        self.assertEqual((offices[0]["office"], offices[0]["district"], offices[0]["seat"]),
+                         ("Court of Appeals", "1", 1))
+        cands = [r for r in rows if r["kind"] == "candidate"]
+        self.assertEqual([c["candidate"] for c in cands],
+                         ["Derek Dewayne Hopson Jr.", "John Weddle"])
+        self.assertEqual(cands[0]["party"], "")  # Nonpartisan -> blank party
+
+    def test_office_header_above_table_top_kept_fragments_skipped(self):
+        # Real Union p2: the Senate header prints 23pt above the first data
+        # row, below the certification blurb and the vertical-name-stack
+        # fragments. Above the table top only office labels classify; blurb
+        # text and stack bleed ("he County", "o") must never become candidates.
+        band_words = []
+
+        def band_line(text, top):
+            x = 45.0
+            for tok in text.split(" "):
+                band_words.append(w(tok, x, top))
+                x += len(tok) * 5 + 4
+
+        band_line("he County", 40.0)
+        band_line("o", 60.0)
+        band_line("United States-Senate", 140.0)
+        band_line("Scott Colom", 151.0)
+        band_line("Democrat", 158.0)
+        rows = ex.label_rows(ex.lines_from_words(band_words),
+                             table_top=150.0, label_x_max=240.0)
+        offices = [r for r in rows if r["kind"] == "office"]
+        self.assertEqual(len(offices), 1)
+        self.assertEqual(offices[0]["office"], "U.S. Senate")
+        cands = [r for r in rows if r["kind"] == "candidate"]
+        self.assertEqual([(c["candidate"], c["party"]) for c in cands],
+                         [("Scott Colom", "DEM")])
+
+
+class GridCentersTests(unittest.TestCase):
+    def test_qualifier_clusters_drop_outside_anchor_span(self):
+        # Union p2: Position/Place qualifier digits form two phantom
+        # ~45pt-pitch clusters LEFT of the grid. The first data line's own
+        # cells bound the real columns, so the phantoms drop even though they
+        # have 4 members -- the span overlap, not cluster size, is what
+        # removes them.
+        anchor = [w("18", 287.5, 208.0), w("15", 333.8, 208.0), w("7", 380.0, 208.0)]
+        digits = anchor + [
+            w("188", 282.2, 231.0), w("5", 292.3, 252.0),    # column 1
+            w("164", 328.5, 231.0), w("170", 331.0, 252.0),  # column 2
+            w("8", 378.0, 231.0), w("9", 382.0, 252.0),      # column 3
+            w("1", 195.8, 364.0), w("1", 211.0, 477.6),      # qualifier cluster A (4 members)
+            w("1", 246.0, 364.0), w("2", 245.9, 431.8),      # qualifier cluster B (4 members)
+        ]
+        centers = ex.grid_centers(digits, anchor)
+        self.assertEqual(len(centers), 3)
+        self.assertLess(min(centers), 290.0)
+
+    def test_grid_centers_empty_inputs(self):
+        self.assertEqual(ex.grid_centers([], [w("5", 246.0, 200.0)]), [])
+        self.assertEqual(ex.grid_centers([w("5", 246.0, 200.0)], []), [])
+
+
+@unittest.skipUnless(SOURCES_PRESENT, "sources checkout not present")
+class UnionPage2Tests(unittest.TestCase):
+    @classmethod
+    def setUpClass(cls):
+        from natural_pdf import PDF
+        cls.pdf = PDF(os.path.join(SOURCES_DIR, "Union_County_2026_general.pdf"))
+        cls.tp = ex.extract_table_page(cls.pdf.pages[1], fuzzy=False)
+
+    def test_page_detected_with_columns(self):
+        self.assertIsNotNone(self.tp)
+        self.assertGreaterEqual(len(self.tp["precinct_centers"]), 10)
+
+    def test_office_stream_includes_all_sections(self):
+        offices = {r["office"] for r in self.tp["rows"] if r["kind"] == "office"}
+        self.assertIn("U.S. Senate", offices)
+        self.assertIn("U.S. House", offices)
+        self.assertIn("Court of Appeals", offices)
+
+    def test_senate_roster_with_parties(self):
+        senate = [r for r in self.tp["rows"] if r["kind"] == "candidate"
+                  and r["office"] == "U.S. Senate"]
+        self.assertEqual(
+            {(r["candidate"], r["party"]) for r in senate},
+            {("Scott Colom", "DEM"), ("Cindy Hyde-Smith", "REP"), ("Ty Pinkins", "IND")})
+
+    def test_cells_attached_to_rows(self):
+        cands = [r for r in self.tp["rows"] if r["kind"] == "candidate"]
+        hyde = [r for r in cands if r["candidate"] == "Cindy Hyde-Smith"]
+        self.assertTrue(hyde and hyde[0]["cells"], "no votes attached")
+        vals = set(hyde[0]["cells"].values())
+        self.assertIn(188, vals)
+        self.assertIn(164, vals)
+        for cand in cands:
+            for col in cand["cells"]:
+                self.assertIn(col, self.tp["precinct_centers"])
+
+
 if __name__ == "__main__":
     unittest.main()

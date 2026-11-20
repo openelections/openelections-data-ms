@@ -364,3 +364,222 @@ def precinct_norm(name):
     if m:
         return m.group(1)
     return name
+
+
+# ---- page extraction (recap table pages) --------------------------------
+#
+# Amendment A: header sourcing is an operator-vision job (Task 5). Nothing
+# here reads precinct names out of geometry -- extract_table_page returns the
+# detected column centers plus a labeled row stream with numeric cells keyed
+# by column center, and a later stage binds centers to names.
+
+LABEL_BAND = 6.0        # label words sit at least this far left of column 1
+ROW_PITCH_FALLBACK = 9.0
+COL_TOL = 18.0          # max |x0 - column center| for a cell to attach
+MIN_CLUSTER_MEMBERS = 3  # drop 1-2-member x clusters (footer digits, noise)
+
+# Qualifier words that may make up a wrapped office-header line ("US House Of
+# Rep 01-1st Congressional" + "District"), with their digit runs ("01-1st").
+# The vocabulary gate guards the continuation branch: the office regexes match
+# by prefix, so merged text keeps parsing after candidate names are appended
+# ("...Position 1 Derek Dewayne Hopson Jr. Nonpartisan" still matches the
+# Court pattern). Proper noun tokens never gate-pass, so the first candidate
+# row under a self-contained header is never swallowed.
+WRAP_WORDS = ("district", "position", "place", "congressional", "court",
+              "appeals", "chancery", "circuit")
+
+# Invisible-Tesseract text-layer misreads of PRINTED candidate names, keyed on
+# the observed mangle -- the same mechanism as PARTY_WORDS's mangled keys.
+# Union's print says "Scott Colom" / "John Weddle" (verified against the
+# rendered page; the OCR layer reads "Coiom" / "weddie"). Applied to label
+# words only, never to numeric handling or office patterns.
+LABEL_REPAIRS = {"Coiom": "Colom", "weddie": "Weddle"}
+
+
+def _is_wrap_token(token, fuzzy=False):
+    """True for a token that may appear on a wrapped office-label line:
+    a qualifier word (exact or, for the mangled OCR layers, near-exact),
+    a digit run, or a punctuation-only filler."""
+    letters = re.sub(r"[^A-Za-z]", "", token).lower()
+    if not letters:
+        return True  # "-", ":" -- carries no name identity
+    if re.search(r"\d", token):
+        return True  # "01-1st", "3", "District 2"
+    if letters in WRAP_WORDS:
+        return True
+    if len(letters) <= 14:
+        return any(_fuzzy_eq(letters, word, 0.75) for word in WRAP_WORDS)
+    return False
+
+
+def grid_centers(digits, anchor_digits, min_members=MIN_CLUSTER_MEMBERS):
+    """x centers of the crosstab columns among `digits`' x clusters.
+
+    The table's first data line carries one cell in every column, so its own
+    numeric tokens (`anchor_digits`) bound the grid's x span. A cluster is a
+    real column when it has >= min_members members AND its x range overlaps
+    that span. Office-header qualifier digits (Position/Place values, which
+    print just right of the label band, x ~195-250 on Union p2) form two
+    phantom ~45pt-pitch clusters left of the first column that overlap
+    nothing on the first data line, so they drop without a special case."""
+    if not digits or not anchor_digits:
+        return []
+    anchor_lo = min(x["x0"] for x in anchor_digits)
+    anchor_hi = max(x["x0"] for x in anchor_digits)
+    centers = []
+    for cl in cluster_xs([(x["x0"], x) for x in digits], gap=COLUMN_GAP):
+        if len(cl["items"]) < min_members:
+            continue
+        lo = min(x for x, _ in cl["items"])
+        hi = max(x for x, _ in cl["items"])
+        if hi >= anchor_lo and lo <= anchor_hi:
+            centers.append(cl["center"])
+    return sorted(centers)
+
+
+def extract_table_page(page, fuzzy=False):
+    """Parse one recap table page (Amendment A contract).
+
+    Returns {"precinct_centers": [x...], "table_top": float, "rows": [...]}
+    with rows = label_rows(...), each candidate row's "cells" filled from the
+    numeric grid. Does NOT resolve header labels (the operator manifest does
+    that in Task 5); does NOT call vertical_headers."""
+    words = [{"text": x.text, "x0": x.x0, "x1": x.x1, "top": x.top, "bottom": x.bottom}
+             for x in page.words]
+    lines = lines_from_words(words)
+    table_top = find_table_top(lines)
+    if table_top is None:
+        return None  # cover page
+
+    def band_words(lo, hi):
+        return [x for ln in lines if lo <= ln["top"] < hi for x in ln["words"]]
+
+    digits = [x for x in band_words(table_top - ROW_PITCH_FALLBACK, float("inf"))
+              if looks_numeric(x["text"], fuzzy)]
+    # The first data line anchors the grid; a +-ROW_PITCH_FALLBACK window
+    # keeps cells that y-jitter split onto a follow-on line inside the anchor.
+    anchor_digits = [x for x in
+                     band_words(table_top - ROW_PITCH_FALLBACK,
+                                table_top + ROW_PITCH_FALLBACK)
+                     if looks_numeric(x["text"], fuzzy)]
+    centers = grid_centers(digits, anchor_digits)
+    if not centers:
+        return None  # numeric grid lost; caller treats the page as unused
+
+    label_x_max = min(centers) - LABEL_BAND
+    rows = label_rows(lines, table_top, label_x_max, fuzzy)
+    cells = assign_cells(rows, [x for x in digits if x["x0"] >= label_x_max],
+                         centers, fuzzy)
+    for (r_idx, col), val in cells.items():
+        rows[r_idx]["cells"][col] = val
+    return {"precinct_centers": centers, "table_top": table_top, "rows": rows}
+
+
+def label_rows(lines, table_top, label_x_max, fuzzy=False):
+    """Build the candidate/office row stream from the label band.
+
+    Lines strictly above `table_top` carry nothing but the section's office
+    header: the certification blurb and vertical-name-stack fragments sit
+    there too and parse as nothing, so any line above the first data row that
+    is not an office label is skipped outright. Below it the classification
+    order is: office header (parse_office), wrapped continuation of the
+    just-opened header (only when every token is qualifier vocabulary),
+    page furniture (is_noise), a standalone party word attached to the
+    candidate above it, a trailing party token attached to THIS line's own
+    candidate (real recap pages print the party right of the name, in its own
+    column, on the same line), else a candidate row.
+
+    Row dicts carry top/bottom so assign_cells can band them; office rows
+    also carry "raw", the exact label text consumed so a continuation joins
+    faithfully. Candidate "candidate" text gets LABEL_REPAIRS applied to its
+    words (the party token is identified on the raw text before repair)."""
+    rows = []
+    current_office = None
+    last_candidate = None
+    for ln in lines:
+        label_words = [x for x in ln["words"] if x["x0"] < label_x_max]
+        if not label_words:
+            continue
+        above_table = ln["top"] < table_top
+        text = " ".join(x["text"] for x in label_words)
+        # 1) office header?
+        office = parse_office(text, fuzzy)
+        if office is None and current_office is not None and last_candidate is None:
+            # 2) wrapped continuation of the just-opened office header
+            tokens = text.split(" ")
+            if all(_is_wrap_token(tok, fuzzy) for tok in tokens):
+                merged = current_office["raw"] + " " + text
+                office = parse_office(merged, fuzzy)
+                if office is not None:
+                    o, d, seat = office
+                    current_office.update(office=o, district=d, seat=seat,
+                                          raw=merged,
+                                          bottom=max(x["bottom"] for x in label_words))
+                    continue
+        if office is not None:
+            o, d, seat = office
+            current_office = {"kind": "office", "office": o, "district": d,
+                              "seat": seat, "raw": text,
+                              "top": ln["top"],
+                              "bottom": max(x["bottom"] for x in label_words)}
+            rows.append(current_office)
+            last_candidate = None
+            continue
+        if above_table:
+            continue  # only the office header lives above the first data row
+        if is_noise(text, fuzzy):
+            continue
+        # 3) standalone party word -> attach to the candidate above (if any);
+        #    with no candidate above it the word is furniture, not a name
+        if len(label_words) == 1:
+            pk = party_of(label_words[0]["text"], fuzzy)
+            if pk is not None:
+                if last_candidate is not None:
+                    last_candidate["party"] = pk
+                    last_candidate["bottom"] = max(last_candidate["bottom"],
+                                                   max(x["bottom"] for x in label_words))
+                continue
+        # 4) trailing party token on the candidate's own line: it belongs to
+        #    the candidate being built from this line, so strip it from the
+        #    name instead of forwarding the line's text to the last candidate
+        tokens = text.split(" ")
+        party = None
+        if len(tokens) > 1:
+            pk = party_of(tokens[-1], fuzzy)
+            if pk is not None:
+                party = pk
+                tokens = tokens[:-1]
+        cand = {"kind": "candidate",
+                "office": current_office["office"] if current_office else None,
+                "district": current_office["district"] if current_office else None,
+                "seat": current_office["seat"] if current_office else None,
+                "candidate": " ".join(LABEL_REPAIRS.get(tok, tok) for tok in tokens),
+                "party": party,
+                "top": ln["top"], "bottom": max(x["bottom"] for x in label_words),
+                "cells": {}}
+        rows.append(cand)
+        last_candidate = cand
+    return rows
+
+
+def assign_cells(rows, numeric_words, centers, fuzzy=False):
+    """Map (row_index, column_center) -> votes by row y-band overlap.
+
+    A numeric word attaches to the candidate row whose y band contains its
+    vertical center, and to the nearest column center within COL_TOL."""
+    out = {}
+    for word in numeric_words:
+        col = min(centers, key=lambda c: abs(c - word["x0"]))
+        if abs(col - word["x0"]) > COL_TOL:
+            continue
+        cleaned = digit_clean(word["text"], fuzzy)
+        if not DIGIT_RE.match(cleaned):
+            continue
+        mid = (word["top"] + word["bottom"]) / 2.0
+        for i, row in enumerate(rows):
+            if row["kind"] != "candidate":
+                continue
+            if row["top"] - 3 <= mid < row["bottom"] + 6:
+                out[(i, col)] = int(cleaned)
+                break
+    return out
