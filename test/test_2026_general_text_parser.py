@@ -3628,7 +3628,9 @@ class BatchRunnerTests(unittest.TestCase):
         self.assertEqual(batch.COUNTIES,
                          ["Union", "Warren", "Jasper", "Lee", "Issaquena",
                           "Sharkey", "Noxubee", "Quitman", "Benton",
-                          "Claiborne", "Humphreys"])
+                          "Claiborne", "Humphreys",
+                          "Adams", "Attala", "Carroll", "Chickasaw",
+                          "Choctaw"])
         job = batch.county_job("Union", "sources/here")
         self.assertEqual(batch.manifest_path("Union"),
                          Path("2026/header-reads/20261103__ms__general__"
@@ -3647,6 +3649,35 @@ class BatchRunnerTests(unittest.TestCase):
             self.assertIn(county.lower(),
                           batch.manifest_path(county).name)
             self.assertIn(county.lower(), batch.precinct_csv_path(county).name)
+
+    def test_county_pdf_resolves_nonuniform_sos_names(self):
+        # the SoS naming is not uniform: some counties carry no "County"
+        # (Adams, Choctaw), so the mapping tries both spellings, then the
+        # checkout's unique county-prefixed file; no match at all returns
+        # the conventional (absent) spelling for run_county to flag
+        import tempfile
+        tmp = tempfile.TemporaryDirectory()
+        self.addCleanup(tmp.cleanup)
+        base = Path(tmp.name) / "2026" / "general"
+        base.mkdir(parents=True)
+        (base / "Union_County_2026_general.pdf").touch()
+        (base / "Adams_2026_general.pdf").touch()
+        (base / "Choctaw_County_2026_general.pdf").touch()
+        self.assertEqual(batch.county_pdf(tmp.name, "Union").name,
+                         "Union_County_2026_general.pdf")
+        self.assertEqual(batch.county_pdf(tmp.name, "Adams").name,
+                         "Adams_2026_general.pdf")
+        self.assertEqual(batch.county_pdf(tmp.name, "Choctaw").name,
+                         "Choctaw_County_2026_general.pdf")
+        # the prefix fallback covers any other spelling variance
+        (base / "FooBar_2026_general.pdf").touch()
+        self.assertEqual(batch.county_pdf(tmp.name, "FooBar").name,
+                         "FooBar_2026_general.pdf")
+        # a county with no file at all keeps the old source_missing shape
+        no_match = batch.county_pdf(tmp.name, "Yoknapatawpha")
+        self.assertEqual(no_match.name,
+                         "Yoknapatawpha_County_2026_general.pdf")
+        self.assertFalse(no_match.exists())
 
     def test_only_subset_selection(self):
         # None = the full county list, canonical order

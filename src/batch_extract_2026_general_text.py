@@ -52,7 +52,8 @@ DATE = "20261103"
 # general-election PDFs is the scanned-phase's remaining work.
 COUNTIES = ["Union", "Warren", "Jasper", "Lee", "Issaquena",
             "Sharkey", "Noxubee", "Quitman", "Benton", "Claiborne",
-            "Humphreys"]
+            "Humphreys",
+            "Adams", "Attala", "Carroll", "Chickasaw", "Choctaw"]
 
 SOURCES_SUBDIR = "2026/general"
 MANIFEST_DIR = Path("2026/header-reads")
@@ -65,9 +66,26 @@ def county_slug(county):
 
 
 def county_pdf(sources_dir, county):
-    """The county's recap PDF in the sources checkout (the file mapping holds
-    only where the SoS naming does; all five of these counties follow it)."""
-    return Path(sources_dir) / SOURCES_SUBDIR / f"{county}_County_2026_general.pdf"
+    """The county's recap PDF in the sources checkout.
+
+    The SoS naming is not uniform ("Union_County_2026_general.pdf" but
+    "Adams_2026_general.pdf" and "Choctaw_2026_general.pdf" carry no
+    "County"), so the mapping tries the two spellings and falls back to the
+    checkout's unique file whose name opens with the county word. With no
+    match at all it returns the conventional spelling -- absent, so
+    run_county's source-exists check records the county as ERROR
+    source_missing and the batch moves on instead of crashing."""
+    base = Path(sources_dir) / SOURCES_SUBDIR
+    for name in (f"{county}_County_2026_general.pdf",
+                 f"{county}_2026_general.pdf"):
+        if (base / name).exists():
+            return base / name
+    matches = sorted(p for p in (base.iterdir() if base.is_dir() else [])
+                     if p.name.lower().startswith(county.lower())
+                     and p.name.lower().endswith(".pdf"))
+    if len(matches) == 1:
+        return matches[0]
+    return base / f"{county}_County_2026_general.pdf"
 
 
 def manifest_path(county):
