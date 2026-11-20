@@ -93,8 +93,9 @@ generation run unchanged. Pipeline additions needed first (small):
   print one row block late on a continuation page (Benton p3 — seat pairing
   adjudicated against the printed boxes).
 - Tier 1 (5 pp): the bulk (~40 counties).
-  **Status: first ten CONVERTED** (Adams, Attala, Carroll, Chickasaw,
-  Choctaw; then Coahoma, Copiah, Covington, Franklin, George — see
+  **Status: first fifteen CONVERTED** (Adams, Attala, Carroll, Chickasaw,
+  Choctaw; Coahoma, Copiah, Covington, Franklin, George; Greene, Grenada,
+  Holmes, Kemper, Lafayette — see
   `2026/20261103-general-text-layer-notes.md`, Tier-1 sections). They
   establish the five-page sheet anatomy (cert page, then two tables each
   split into column groups, TOTAL column only on each table's second page),

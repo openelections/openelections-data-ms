@@ -1,11 +1,11 @@
 # 2026 general — text-layer conversion notes (2026-11-20, Task 9)
 
-Twenty-one counties of the 2026-11-03 Mississippi general election are converted
+Twenty-six counties of the 2026-11-03 Mississippi general election are converted
 from the SoS "Official Recapitulation" county PDFs with the text-layer
 pipeline (`src/extract_2026_general_text_pdf.py`, `src/batch_extract_2026_general_text.py`)
-— four with usable text layers, seventeen pure image scans run operator-vision
-(Issaquena the pilot, the six 3-page counties, then ten Tier-1 five-page
-counties in two batches, sections below), all riding the same pipeline and
+— four with usable text layers, twenty-two pure image scans run operator-vision
+(Issaquena the pilot, the six 3-page counties, then fifteen Tier-1 five-page
+counties in three batches, sections below), all riding the same pipeline and
 batch runner:
 
 | county | rows x precincts | CSV data rows | operator cells applied | how the manifest drives it |
@@ -31,6 +31,11 @@ batch runner:
 | Covington (scan) | 12 x 15 | 180 | 192 (10 table-A rows x 15+TOTAL, 2 table-B rows x 15+TOTAL) | whole grid operator-read; ROTATE_90; two 800-dpi digit repairs |
 | Franklin (scan) | 12 x 14 | 168 | 180 (10 table-A rows x 14+TOTAL, 2 table-B rows x 14+TOTAL) | whole grid operator-read; ROTATE_270; Hampton carry; no Circuit 6-1 section |
 | George (scan) | 16 x 21 | 336 | 352 (11 table-A rows x 21+TOTAL, 5 table-B rows x 21+TOTAL) | whole grid operator-read; landscape-genuine; Chancery 16 has FOUR Places |
+| Greene (scan) | 12 x 13 | 156 | 168 (10 table-A rows x 13+TOTAL, 2 table-B rows x 13+TOTAL) | whole grid operator-read; ROTATE_270; Tiebauer carry |
+| Grenada (scan) | 16 x 13 | 208 | 190 (10 table-A rows x 13+TOTAL, 6 table-B rows x 13+TOTAL; CoA 1 X-celled) | whole grid operator-read; ROTATE_270; Chancery 3 both candidates carry |
+| Holmes (scan) | 13 x 16 | 208 | 221 (11 table-A rows x 16+TOTAL, 2 table-B rows x 16+TOTAL) | whole grid operator-read; landscape-genuine; NO local sections print |
+| Kemper (scan) | 10 x 14 | 140 | 150 (10 table-A rows x 14+TOTAL) | whole grid operator-read; landscape-genuine; all-local table B declared local_only |
+| Lafayette (scan) | 19 x 18 | 342 | 361 (11 table-A rows x 18+TOTAL, 8 table-B rows x 18+TOTAL) | whole grid operator-read; ROTATE_90; Benton late-header shape |
 
 Every per-county CSV regenerates byte-identical from its manifest at every
 Task 9 boundary (`cmp` verified).
@@ -101,30 +106,31 @@ CSV is withheld otherwise — `main()` never writes past a held gate). The
 batch stage then re-parses every county and runs the cross-county roster
 gate (`check_roster_shared_races`): every (office, district) race two or
 more counties print must carry the identical (candidate, party) roster —
-U.S. Senate (all twenty-one), U.S. House 1 (Chickasaw, Choctaw, Benton, Lee
-and Union), House 2 (nine counties), House 3 (Covington, Jasper and
-Noxubee), Court of Appeals 1 (five counties), Court of Appeals 2 Place 1,
-Court of Appeals 4 Position 2 (Adams, Copiah, Covington and Franklin —
-David McCarty identical), Chancery Court Places 1-4 district 1 (Lee +
-Union), Chancery 2 (Jasper + Covington: Roy Noble Lee Jr. / Gerald M.
-Martin / David Shoemake, identical), Chancery 4 (Adams + Franklin — the
-Halford/Hampton contested section, identical), Chancery 6 (Attala +
-Choctaw), Chancery 7 (Quitman + Coahoma: Catherine Farris-Carter,
-identical), Chancery 15 (Claiborne + Copiah: Joseph Durr / Price Henley,
-identical), Circuit 5 (Attala, Carroll, Choctaw), Circuit 13 (Jasper +
-Covington: Matthew G. Sullivan / Stanley Sorey, identical). All identical
-rosters read clean. The twenty-one-county batch carries exactly six
-advisory records and zero blocking ones: four `roster_subset` chains
-(Circuit Court 9; Circuit Court 3; Circuit 11: Coahoma's roster adds W.
-Hunter Nowell Place 1 to Quitman's; Circuit 6: Franklin prints no Place 1
-section because no Franklin precinct is in Drake's sub-district) and two
+U.S. Senate (all twenty-six), U.S. House 1 (six counties), House 2
+(eleven counties), House 3 (four counties), House 4 (George + Greene,
+identical), Court of Appeals 1 (seven counties, identical), Court of
+Appeals 2 Place 1 (eleven counties), Court of Appeals 4 Position 2 (four
+counties, identical), Court of Appeals 5 Position 1 (George + Greene,
+identical), Chancery Court Places 1-4 district 1 (Lee + Union), Chancery 2
+(Jasper + Covington), Chancery 3 (Carroll + Grenada), Chancery 4 (Adams +
+Franklin), Chancery 6 (Attala + Choctaw + Kemper), Chancery 7 (Quitman +
+Coahoma), Chancery 15 (Claiborne + Copiah), Chancery 18 (Benton +
+Lafayette -- the contested Place 1 plus the Place 2 candidates, rosters
+identical), Circuit 5 (four counties, identical), Circuit 13 (Jasper +
+Covington), Circuit 18 (George + Greene, identical), Circuit 22
+(Humphreys + Holmes, identical). All identical rosters read clean. The
+twenty-six-county batch carries exactly six advisory records and zero
+blocking ones: four `roster_subset` chains (Circuit Court 9; Circuit
+Court 3; Circuit 11: Coahoma's roster adds W. Hunter Nowell Place 1 to
+Quitman's; Circuit 6: Franklin prints no Place 1 section because no
+Franklin precinct is in Drake's sub-district) and two
 `roster_divergence_accepted` records (Chancery Court 9 and Chancery Court
 14 — disjoint place partitions).
 
-All twenty-one per-county files are gated on internal PDF reconciliation
+All twenty-six per-county files are gated on internal PDF reconciliation
 only and have **not** been checked against official county totals; when a
 2026 general statewide recap PDF becomes available, build the official
-county CSV and re-verify all twenty-one.
+county CSV and re-verify all twenty-six.
 
 ## Scan-county pilot: Issaquena
 
@@ -308,9 +314,10 @@ declared under `accepted_roster_divergences` in Chickasaw's manifest.
 Chickasaw's Circuit 3 pairing prints EXACTLY Union's: Place 1 Gray
 Tollison, Place 2 (Bart M. Adams, Shirley C. Byers, Steven Patrick Jubera),
 Place 3 Kent E. Smith — and its family roster is identical to Union's, so
-the roster gate adds no record. Benton's P1={Whitwell} sheet is now the
-one deviant print of three independent counties, which is what the
-per-county-as-printed source-fidelity disposition expects.
+the roster gate adds no record. (Lafayette's sheet, converted in the next
+batch, turned out to print Benton's pairing — see the third Tier-1
+section: the Circuit 3 seat divergence is a two-versus-two print
+difference, still per-county as printed.)
 
 **Judicial districts crossing county lines in this batch** (all read
 clean as identical rosters): Court of Appeals 1 gains Chickasaw and
@@ -387,13 +394,68 @@ also opens the U.S. House District 4 family (Mike Ezell / Jeffrey Hulum
 III / Carl Boyanton) and Court of Appeals 5 Position 1 (Anthony 'Tony'
 Lawrence), each waiting on later tiers (Harrison, Forrest) to complete.
 
-The remaining 61 scan counties follow the same operator-read route (tier
+## Scan-county phase: Greene, Grenada, Holmes, Kemper, Lafayette (Tier 1's third five)
+
+Five more five-page sheets, 1054 CSV data rows, 70 more rows refereed
+against printed TOTALs (199 Tier-1 rows total), `run_gates` 0 problems per
+county, the twenty-six-county batch exit 0 with the same six advisory
+roster records.
+
+**Lafayette prints Benton's late-header shape, not Union's — the Circuit 3
+seat divergence is two-versus-two.** Lafayette's table B opens with
+Shackelford/Watts (Chancery 18 Place 2's carried rows, no header above)
+and then the p4 header boxes label the row blocks ABOVE them (identically
+to Benton's p3 print): Circuit 3 pairs as Place 1 = Bob Whitwell, Place 2
+= Gray Tollison, Place 3 = the Adams/Byers/Jubera block with Kent E.
+Smith's row continuing past the mid-block Place 3 header. So the
+Union/Chickasaw pairing (P1 Tollison, no Whitwell) and the Benton/Lafayette
+pairing (P1 Whitwell) are TWO INDEPENDENT PRINTS EACH of the same Circuit
+3 section list — the per-county-as-printed disposition stands, the
+seat-blind family roster reads identical across all four Circuit 3
+counties, and the existing roster_subset record is unchanged. Chancery 18's
+rosters (Hicks/Liddy seat 1, Shackelford/Watts seat 2) also read identical
+across Benton and Lafayette, both by seat.
+
+**The gate caught an all-local table B.** Kemper's p4/p5 carry ONLY the
+local School Board 5 section, so no operator cells exist for them — the
+manifest-shape gate refused the run ("page 4 is declared operator-supplied
+but no operator_cells/operator_rows entry supplies it") until the pages
+were re-declared `local_only_pages` like a scan county's all-local tail.
+The gate's supply-page coverage check works exactly as designed: an
+operator-supply page that would silently produce nothing holds the county.
+
+**Grenada carries BOTH Court of Appeals districts.** Its CoA 1 sections
+print X position marks with values in only two precinct columns (Mt. Nebo
+Young and Geeslin Friendship — the county's D1 sub-district), while the
+CoA 2 row (McDonald) covers the rest (X at Mt. Nebo only; the
+arithmetic-confirmed clipped Geeslin cell reads 38). The CoA 1 family
+roster reads identical across seven counties; the X-celled rows' blanks
+become 0 under each row's own printed TOTAL.
+
+**Holmes' sheet carries NO local sections at all** — the five pages end at
+Circuit 22's two rows (its election commissioners' signatures are on p1),
+the first county whose recap prints only the state offices; recorded per
+the source-fidelity convention in the manifest's local_note. Circuit 22's
+roster (Tim Howard / Akillie Malone Oliver) reads identical against
+Humphreys'. Holmes also prints the first 'Chancery Court 11 Place 3'
+variant label form (Places 1 and 3 on the ballot, no Place 2 section).
+
+**Carry rows this batch:** Greene's Eric Tiebauer (the Circuit 18 Place 1
+section split between its candidates — Thompson in table A, Tiebauer in
+table B) and Grenada's Chancery 3 Place 1 carry BOTH candidates (Miller +
+Westfaul) from the p3-bottom header. Greene's Circuit 18 roster reads
+identical against George's, which independently cross-confirms George's
+table-B transcription; Grenada's Chancery 3 roster reads identical against
+Carroll's, its Circuit 5 roster against the four Circuit 5 counties, and
+Kemper's Chancery 6 roster matches Attala/Choctaw (third county).
+
+The remaining 56 scan counties follow the same operator-read route (tier
 order in `2026/20261103-general-scan-counties-assessment.md`; Hinds last).
 
 ## Next phase
 
-The remaining 61 county PDFs (82 in
-`~/code/openelections-sources-ms/2026/general/` minus the twenty-one converted so
+The remaining 56 county PDFs (82 in
+`~/code/openelections-sources-ms/2026/general/` minus the twenty-six converted so
 far) are scanned images, taken in the assessment's tier order. The Issaquena
 pilot shows the operator-read route works end to end; whether PaddleOCR-VL
 via the AI Studio cloud endpoint (whole-PDF async job, per-page markdown,
