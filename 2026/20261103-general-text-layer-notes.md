@@ -2,7 +2,9 @@
 
 Four counties of the 2026-11-03 Mississippi general election are converted
 from the SoS "Official Recapitulation" county PDFs with the text-layer
-pipeline (`src/extract_2026_general_text_pdf.py`, `src/batch_extract_2026_general_text.py`):
+pipeline (`src/extract_2026_general_text_pdf.py`, `src/batch_extract_2026_general_text.py`)
+— plus the first scan-county pilot (Issaquena, section below), whose CSV
+and operator manifest ride the same pipeline and batch runner:
 
 | county | rows x precincts | CSV data rows | operator cells applied | how the manifest drives it |
 | --- | --- | --- | --- | --- |
@@ -10,6 +12,7 @@ pipeline (`src/extract_2026_general_text_pdf.py`, `src/batch_extract_2026_genera
 | Warren | 11 x 23 | 253 | 0 | layer grid parses; operator headers, carried pages, 5 cell-token repairs |
 | Jasper | 11 x 13 | 143 | 154 (11 rows x 13 vote cells + 1 printed TOTAL each) | whole grid operator-read |
 | Lee | 17 x 33 | 561 | 578 (17 rows x 33 vote cells across three 11-column groups + 17 printed TOTAL reads) | whole grid operator-read |
+| Issaquena (scan pilot) | 10 x 5 | 50 | 60 (10 rows x 5 vote cells + 1 printed TOTAL each) | whole grid operator-read; raw portrait render |
 
 Every per-county CSV regenerates byte-identical from its manifest at every
 Task 9 boundary (`cmp` verified).
@@ -82,20 +85,62 @@ roster gate (`check_roster_shared_races`): every (office, district) race two
 or more counties print must carry the identical (candidate, party) roster —
 U.S. Senate (all four), U.S. House 1 and Court of Appeals Position 1/2
 (Lee + Union), Chancery Court Places 1-4 district 1 (Lee + Union). All
-identified, all clean: 0 roster problems.
+identified, all clean: 0 roster problems. The Issaquena pilot then adds the
+gate's first advisory `roster_subset` record (Circuit District 9 against
+Warren) — with the five-county batch, a family whose rosters form a strict
+subset chain records advisory rather than blocking ("Scan-county pilot:
+Issaquena" below).
 
 These four per-county files are gated on internal PDF reconciliation only and
 have **not** been checked against official county totals; when a 2026 general
 statewide recap PDF becomes available, build the official county CSV and
-re-verify all four.
+re-verify all four. The Issaquena pilot sits in the same position: gated on
+its manifest's printed TOTALs, awaiting the same official cross-check.
+
+## Scan-county pilot: Issaquena
+
+The first county of the 78-scan phase (the assessment's Tier-0 pilot; no OCR
+run — the operator reads as a vision model, PaddleOCR-VL deferred): a pure
+image scan with zero embedded text characters, converted wholesale by an
+operator-vision read of the rendered pages. The sheet is 3 pages: p1 the
+certification banner/signature block, p2 one portrait crosstab carrying the
+whole grid (5 precincts + the printed TOTAL column, banner printed on the
+sheet itself), p3 all-local rows (Election Commissioner Districts 1/2/5 — out
+of scope; p1 and p3 are the declared `local_only_pages`, the run's 2 skipped
+local pages; a local Tax Assessor Collector section on p2 prints no candidate
+rows beside it). The raw portrait render reads directly — no transpose needed
+for p2 (p1's signature block runs the other way, skipped regardless).
+
+Shape: 10 candidate rows x 5 precincts = 50 data rows, 60 operator cells (10
+rows x 6 cells: 5 precinct cells + 1 printed TOTAL each; every row's cell sum
+equals its printed TOTAL exactly). Races: U.S. Senate (Colom/Hyde-Smith/
+Pinkins), U.S. House 2 (Eller/Bennie G. Thompson/Foster), Court of Appeals 2
+Place 1 (McDonald), Chancery Court 9-2 (Barnes, Lawson), Circuit Court 9-1
+(Terrett). `run_gates`: 0 problems; the CSV regenerates byte-identical from
+its manifest at the --force batch.
+
+**Circuit D9 roster_subset adjudication.** The cross-county roster gate's
+first advisory record: Warren's Circuit District 9 ballot carries Place 1
+(Toni Walker Terrett) and Place 2 (M. James 'Jim' Chaney Jr.); Issaquena's
+sheet prints only the Place 1 section — no P2 section appears on it at all.
+Issaquena's roster is a strict subset of Warren's, so the refined gate
+classifies the family as `roster_subset` (advisory: printed and stored in
+status.json, but not blocking) rather than a `roster_mismatch`; every other
+shared race reads identical rosters. Warren's Place 2 rows stay Warren's own.
+
+The remaining 77 scan counties follow the same operator-read route (tier
+order in `2026/20261103-general-scan-counties-assessment.md`; Hinds last).
 
 ## Next phase
 
-The remaining 78 county PDFs (82 in
-`~/code/openelections-sources-ms/2026/general/` minus these four) are scanned
-images: per `CLAUDE.md`, convert them with PaddleOCR-VL via the AI Studio
-cloud endpoint (whole-PDF async job, per-page markdown, pattern from
-`openelections-data-al`), reusing this pipeline's gates and manifest shape —
-token repairs and operator rows referee whatever the OCR markdown still
-misreads, and `batch_extract_2026_general_text.py`'s status.json/resume and
-roster-gate shape carries over to the scan phase's runner.
+The remaining 77 county PDFs (82 in
+`~/code/openelections-sources-ms/2026/general/` minus the five converted so
+far) are scanned images, taken in the assessment's tier order. The Issaquena
+pilot shows the operator-read route works end to end; whether PaddleOCR-VL
+via the AI Studio cloud endpoint (whole-PDF async job, per-page markdown,
+pattern from `openelections-data-al`) joins the ladder is deferred until
+operator-only costs force it, reusing this pipeline's gates and manifest
+shape — token repairs and operator rows referee whatever an OCR/visual read
+still misreads, and `batch_extract_2026_general_text.py`'s
+status.json/resume and roster-gate shape (with its advisory roster_subset
+class) carries over to the scan phase's runner.
