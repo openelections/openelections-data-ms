@@ -1688,3 +1688,23 @@ tests); (b) Jasper/Lee's fuzzed pages should be re-checked against the
 cell height floor and the X-filler rule (both are relative, page-anchored);
 (c) the cross-county roster gate should compare at the (office, district)
 family level to catch total seat loss (docstring residual above).
+
+## Task 7 execution record additions (re-review, 2026-11-19)
+
+Approved. Carries into Task 8's window (test hygiene first):
+
+1. `WarrenCountyTests` lacks the `skipUnless(SOURCES_PRESENT)` decorator —
+   on machines without the sources checkout it errors instead of skipping.
+2. A stale mid-file `if __name__ == "__main__": unittest.main()` block at
+   test line ~1750 makes direct execution run only 110 of 126 tests
+   (the 16 newest are defined after it). Delete it; keep the final block.
+3. `skipped_local_pages` is invisible in the CLI summary (add the count);
+   the diagnostic-run output quoted in the record predates final main().
+4. `local_only_pages`/`carry_pages`/`narrow` declarations: validation should
+   require listed numbers to be declared `pages` keys (a typo changes
+   behavior silently).
+5. Warren manifest `local_note`: X cells in the scoped Chaney row read as
+   column-position evidence only, never a value (and become 0 only when the
+   row's printed total proves it).
+6. Carry: three blank lines after `_repair_label`; re-inline of
+   `LABEL_REPAIRS.get(tok, tok)` at src:945 should reuse `_repair_label`.
