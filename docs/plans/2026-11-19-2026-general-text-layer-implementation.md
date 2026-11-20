@@ -1606,3 +1606,85 @@ Approved after three fix rounds. Final shape:
   correct the overclaim. The natural automated catcher for total seat loss
   is Task 9's cross-county roster gate comparing at (office, district)
   family level; record the residual there.
+
+
+## Task 7 execution record (2026-11-19, Warren end-to-end)
+
+Warren produced 11 candidate rows x 23 precincts (253 row-per-result rows),
+every candidate's precinct cells summing exactly to the county's printed
+total. All work below is render-verified and pinned in
+`test/test_2026_general_text_parser.py` (126 tests, stdlib unittest).
+
+First run against the committed header manifest, after items 1-4, verbatim:
+
+    ! total_mismatches: {'office': 'U.S. Senate', 'candidate': 'Scott Colom', 'party': 'DEM', 'sum': 13815, 'printed_total': 8576}
+    ! total_mismatches: {'office': 'U.S. House', 'candidate': 'Ron Eller', 'party': 'REP', 'sum': 8902, 'printed_total': 6519}
+    ! total_mismatches: {'office': 'U.S. House', 'candidate': 'Bennie G. Thompson', 'party': 'DEM', 'sum': 7825, 'printed_total': 8309}
+    ! total_mismatches: {'office': 'Chancery Court', 'candidate': 'Penny B. Lawson', 'party': '', 'sum': 7301, 'printed_total': 7918}
+    ! structure: {'kind': 'missing_precinct_cells', 'candidate': 'Bennie G. Thompson', 'precincts': ['Calvary Old 27']}
+    ! structure: {'kind': 'missing_precinct_cells', 'candidate': 'Penny B. Lawson', 'precincts': ['Lee Rd Fire']}
+    ! conflicts: {'kind': 'duplicate_cell', 'page': 3, 'candidate': 'Ron Eller', 'precinct': 'American Legion', 'kept': 76, 'overwritten': 1}
+    Warren: 10 candidate rows, 23 precincts, 0 local rows dropped, 2 skipped local pages, 7 gate problem(s)
+
+Diagnoses (all render-verified against cache/2026-general-text/w_z_*.png):
+
+1. **p3's invisible overlay glyph layer corrupts four cell tokens.**
+   Helvetica/Times-Italic runs decode wrongly while the render prints clean
+   values: '5821' prints 582 and '2731' prints 273 (an invisible '1' glyph
+   merges into the right-aligned cell), 'AO.' prints 484 (Times-Italic
+   glyphs render "484" and decode "AO."), '617!' prints 617 (the '!' glyph
+   prints as the column rule). A page-scoped, operator-manifest cell repair
+   map (`cell_token_repairs`) applies exact replacements only to tokens
+   already in a numeric column on the declared page; a malformed replacement
+   is ignored and the printed-TOTAL gate flags whatever remains.
+   p6's '7491' (= Chaney's printed 749) is the same class there.
+2. **The stray ghost '1' fired the recorded conflict** (Eller's American
+   Legion '76' overwritten by a 1.7pt Times-Roman '1'). A cell height floor
+   (0.5 x the page anchor's own digit height; relative, not absolute) drops
+   numeric words far below the page's data size before the grid forms.
+3. **Warren p5/p6/p7 are NOT local-only.** They are the second 23-precinct
+   table (same column split: p5 = cols 1-11, p6 = cols 12-22, p7 =
+   'Porters Chapel' + TOTAL) whose LEADING row block is the continuation of
+   the Circuit Court 9-2 section that p2/p3/p4 end with: M. James 'Jim'
+   Chaney Jr. prints at the top of p5/p6/p7, ahead of the local zone's
+   first header box, and p7 carries his printed county total (10545 =
+   3630 + 6201 + 714). The manifest was revised:
+   `local_only_pages` removed, `carry_pages: ["5","6","7"]` declared, p7's
+   labels added; the local zone's rows still drop via unknown_header ->
+   dropped_local_rows (19 rows recorded, incl. p7's 'i' remnant).
+4. **X cells are column positions.** Columns whose members are mostly X
+   (the local-zone tails) had no numeric cluster to seed them; X words now
+   attach to the nearest NUMERIC cluster within COL_TOL *without moving its
+   center* (an X glyph sits ~10pt right of its column's right-aligned
+   digits, and a shifted center would drag the label band over the cells).
+   X never becomes a votes value; blanks are 0 only when the row's own
+   printed total proves it.
+5. **Office-label repairs** (LABEL_REPAIRS extended to office words, all
+   render-verified): 'states-senatel' -> 'States-Senate' (p2/p4's
+   "United states-senatel"), 'ancery' -> 'Chancery' (p4's left-clipped
+   label; the render prints the full label), 'iM.' -> 'M.' (p7's invisible
+   junk glyph merged into the first name word).
+6. **name_key** (shared by the assembly merge key and the writer's
+   _merge_key) folds only the observed variants: the mid-dot
+   ('Cindy  Hyde·Smith ' on p3) and the initial's comma ('Bennie G,
+   Thompson' on p3); whitespace collapses everywhere; the writer's candidate
+   spelling is the single-spaced first occurrence (repo files carry no
+   doubled spaces).
+7. **p6 carried-row vs junk:** the carry exists to attribute data, so a
+   carried page's NO-CELL row drops to dropped_local_rows instead of
+   entering the carried race (p7's lone 'i' remnant; Chaney keeps the
+   carry).
+8. Item 5's boundary answer: p2/p3/p4 and p5/p6/p7 each REPRINT all their
+   office headers (operator strips), so p3->p4 are per-page continuations,
+   NOT repeat-group members; no carry is needed (or exercised) at that
+   boundary, and the task's manifest-declared-group need landed where the
+   real ambiguity is: p4->p5 (carry_pages).
+9. Docstring fix (Task 6 carry) landed at the
+   final-(label,district)-uniqueness gate of write_precinct_csv.
+
+Carries into Task 8/9: (a) Union's 2-char X words and the X-filler grid
+change did not move Union's cluster counts (pinned by its integration
+tests); (b) Jasper/Lee's fuzzed pages should be re-checked against the
+cell height floor and the X-filler rule (both are relative, page-anchored);
+(c) the cross-county roster gate should compare at the (office, district)
+family level to catch total seat loss (docstring residual above).

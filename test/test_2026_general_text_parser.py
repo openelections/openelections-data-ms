@@ -1393,5 +1393,772 @@ class PartyCheckTests(unittest.TestCase):
         self.assertEqual(problems["manifest"], [])
 
 
+
+
+def fake_page(word_specs):
+    """Attribute-duck-typed stand-in for a natural_pdf page. word_specs: list
+    of (text, x0, top) or (text, x0, top, height); x1 derives from len(text)."""
+    class _Word:
+        def __init__(self, text, x0, top, height):
+            self.text, self.x0, self.top = text, x0, top
+            self.x1 = x0 + len(text) * 5
+            self.bottom = top + height
+
+    class _Page:
+        def __init__(self, words):
+            self.words = words
+
+    return _Page([_Word(spec[0], spec[1], spec[2],
+                        spec[3] if len(spec) > 3 else 8.0)
+                  for spec in word_specs])
+
+
+class OfficeLabelRepairTests(unittest.TestCase):
+    """Task 7 item 1: the text layer mangles OFFICE labels too; render-verified
+    LABEL_REPAIRS entries repair them before parse_office (fuzzy stays off --
+    Warren's reliable digits must never be fuzzy-cleaned)."""
+
+    def make_lines(self, line_specs):
+        words = []
+        for text, top in line_specs:
+            x = 45.0
+            for tok in text.split(" "):
+                words.append(w(tok, x, top))
+                x += len(tok) * 5 + 4
+        return words
+
+    def run_rows(self, line_specs):
+        return ex.label_rows(ex.lines_from_words(self.make_lines(line_specs)),
+                             table_top=150.0, label_x_max=280.0)
+
+    def test_senate_mangle_repairs_at_fuzzy_off(self):
+        # Warren p2/p4's text layer reads the printed "United States-Senate"
+        # (operator strip render) as "United states-senatel"; parse_office
+        # refused it at fuzzy=False. The repair restores the printed truth.
+        self.assertIsNone(ex.parse_office("United states-senatel"))
+        rows = self.run_rows([
+            ("United states-senatel", 160.0),
+            ("Scott Colom", 170.0), ("Democrat", 178.0),
+        ])
+        self.assertEqual((rows[0]["kind"], rows[0]["office"],
+                          rows[0]["district"], rows[0]["seat"]),
+                         ("office", "U.S. Senate", "", None))
+        self.assertEqual((rows[1]["candidate"], rows[1]["office"]),
+                         ("Scott Colom", "U.S. Senate"))
+
+    def test_chancery_clip_repairs(self):
+        # Warren p4's label lost its first two characters in the text layer
+        # ("ancery Court 9-2-..."); the rendered page prints the full
+        # "Chancery Court 9-2-Chancery District 9-2" (p2/p3 carry the same
+        # label). Without the repair p4's two Chancery candidates drop.
+        rows = self.run_rows([
+            ("ancery Court 9-2-Chancery District 9-2", 160.0),
+            ("Vicki  Roach  Barnes", 170.0), ("Nonpartisan", 178.0),
+        ])
+        self.assertEqual((rows[0]["office"], rows[0]["district"],
+                          rows[0]["seat"]), ("Chancery Court", "9", 2))
+        self.assertEqual(rows[1]["office"], "Chancery Court")
+
+    def test_leading_junk_glyph_repair(self):
+        # Warren p7's label band merges an invisible junk glyph into the first
+        # name word ("iM. James 'Jim' Chaney Jr."); the rendered strip reads
+        # "M. James 'Jim' Chaney Jr.". Without the repair the p7 copy of the
+        # candidate cannot merge with p5/p6's rows of the same person.
+        rows = self.run_rows([
+            ("iM.  James 'Jim' Chaney Jr.", 160.0), ("Nonpartisan", 168.0),
+        ])
+        # label_rows preserves the line's own word spacing (the assembly
+        # collapses it); the repair removes only the rogue leading glyph.
+        self.assertEqual(rows[0]["candidate"], "M.  James 'Jim' Chaney Jr.")
+        self.assertEqual(rows[0]["candidate"][0], "M")
+        self.assertEqual(ex.name_key(rows[0]["candidate"]),
+                         ex.name_key("M. James 'Jim' Chaney Jr."))
+
+    def test_repair_map_stays_minimal_and_render_verified(self):
+        # Pin the whole map: one entry per render-verified observed mangle
+        # (Union Task 4, Warren Task 7). New entries join only with a render
+        # read; an unrelated fold would risk silent corruption.
+        self.assertEqual(ex.LABEL_REPAIRS,
+                         {"Coiom": "Colom", "weddie": "Weddle",
+                          "states-senatel": "States-Senate",
+                          "ancery": "Chancery", "iM.": "M."})
+
+
+class NameKeyTests(unittest.TestCase):
+    """Task 7 item 2: one merge key for candidate names across the label
+    variants the Warren text layer renders. Each fold is tied to an observed
+    variant; whitespace collapse + lowering stay."""
+
+    def test_mid_dot_folds_to_hyphen(self):
+        # p3 prints "Cindy  Hyde·Smith " (mid dot, doubled spaces); p2/p4
+        # print "Cindy Hyde-Smith" -- one candidate, one key.
+        self.assertEqual(ex.name_key("Cindy  Hyde\u00b7Smith "),
+                         ex.name_key("Cindy Hyde-Smith"))
+        self.assertEqual(ex.name_key("Cindy  Hyde\u00b7Smith "),
+                         "cindy hyde-smith")
+
+    def test_initial_comma_folds_to_period(self):
+        # p3 prints "Bennie G, Thompson" vs p2/p4 "Bennie G. Thompson".
+        self.assertEqual(ex.name_key("Bennie G, Thompson"),
+                         ex.name_key("Bennie G. Thompson"))
+
+    def test_no_arbitrary_folds(self):
+        # Only the observed variants fold: a missing stop stays a distinct
+        # key, as does any other punctuation.
+        self.assertNotEqual(ex.name_key("Bennie G Thompson"),
+                            ex.name_key("Bennie G. Thompson"))
+        self.assertNotEqual(ex.name_key("Bennie G/ Thompson"),
+                            ex.name_key("Bennie G. Thompson"))
+        self.assertEqual(ex.name_key("M. James 'Jim' Chaney Jr."),
+                         "m. james 'jim' chaney jr.")
+
+    def test_shared_between_merge_and_writer(self):
+        # The assembly's merge key and the CSV writer's ballot-order index
+        # must fold identically, or the writer splits one candidate into two
+        # positions exactly as the Task 6 review flagged.
+        mk = {"office": "U.S. Senate", "district": "", "seat": None,
+              "candidate": "Cindy  Hyde\u00b7Smith "}
+        norm = {"office": "U.S. Senate", "district": "", "seat": None,
+                "candidate": "Cindy Hyde-Smith"}
+        self.assertEqual(ex._merge_key(mk), ex._merge_key(norm))
+
+    def test_assembly_merges_variant_spellings(self):
+        # The p2/p3 shape: the same candidate renders with doubled spaces and
+        # the mid-dot variant on the second page; both pages' cells land on
+        # one merged row and the first (ballot-order) spelling wins.
+        def page(name, cells):
+            return {"precinct_centers": [246.0, 291.0], "table_top": 200.0,
+                    "rows": [{"kind": "office", "office": "U.S. Senate",
+                              "district": "", "seat": None},
+                             {"kind": "candidate", "candidate": name,
+                              "party": "REP", "office": "U.S. Senate",
+                              "district": "", "seat": None,
+                              "top": 210.0, "bottom": 218.0, "cells": cells}],
+                    "conflicts": []}
+
+        pd = ex.parse_county_from_pages(
+            {"2": page("Cindy Hyde-Smith", {246.0: 1, 291.0: 2}),
+             "3": page("Cindy  Hyde\u00b7Smith ", {246.0: 3, 291.0: 4})},
+            "Warren", {"pages": {"2": ["Ridgeway", "Bovina"],
+                                 "3": ["Ridgeway", "Bovina"]}})
+        self.assertEqual(len(pd["candidate_rows"]), 1)
+        row = pd["candidate_rows"][0]
+        self.assertEqual(row["candidate"], "Cindy Hyde-Smith")
+        self.assertEqual(row["cells"], {"Ridgeway": 1, "Bovina": 2})
+        self.assertEqual(row["pages"], [2, 3])
+
+    def test_assembly_normalizes_whitespace(self):
+        # The word layer keeps doubled internal spaces and a trailing space
+        # ("Ron  Eller "); the CSV name is single-spaced, per the repo's data
+        # (no doubled spaces in any committed county file).
+        p = {"precinct_centers": [246.0], "table_top": 200.0,
+             "rows": [{"kind": "office", "office": "U.S. House",
+                       "district": "2", "seat": None},
+                      {"kind": "candidate", "candidate": "Ron  Eller ",
+                       "party": "REP", "office": "U.S. House",
+                       "district": "2", "seat": None,
+                       "top": 210.0, "bottom": 218.0, "cells": {246.0: 1}}],
+             "conflicts": []}
+        pd = ex.parse_county_from_pages(
+            {"2": p}, "Warren", {"pages": {"2": ["P1"]}})
+        self.assertEqual([r["candidate"] for r in pd["candidate_rows"]],
+                         ["Ron Eller"])
+        self.assertEqual(ex._merge_key({"office": "U.S. House",
+                                        "district": "2", "seat": None,
+                                        "candidate": "Ron Eller"}),
+                         ex._merge_key({"office": "U.S. House",
+                                        "district": "2", "seat": None,
+                                        "candidate": "Ron  Eller "}))
+
+
+class NarrowPageRetryTests(unittest.TestCase):
+    """Task 7 item 3: manifest-declared narrow pages (Warren p4/p7 carry only
+    Porters Chapel + TOTAL; their data lines hold two numeric tokens) get a
+    min_columns=2 retry for table-top detection -- but only on pages the
+    manifest declares as table pages."""
+
+    def page(self):
+        words = [
+            ("The County Election Commission will", 252.0, 40.0),
+            ("prepare three (3) Official", 252.0, 44.0),
+            ("Recapitulation Sheets containing the", 252.0, 48.0),
+            ("vote of the entire", 252.0, 52.0),
+            ("401 MISSISSIPPI ST. JACKSON", 250.0, 54.0),
+            ("General MS 39201, file one copy", 125.0, 58.0),
+            ("Votes cast in the County of Warren,", 40.0, 90.0),
+            ("on the 3rd day of November 2026", 40.0, 94.0),
+            ("United States-Senate", 150.0, 181.0),
+        ]
+        for name, party, top in (("Scott Colom", "Democrat", 205.0),
+                                 ("Cindy Hyde-Smith", "Republican", 226.0),
+                                 ("Ty Pinkins", "Independent", 247.0)):
+            words += [(name, 40.0, top), (party, 150.0, top)]
+        words += [("324", 282.6, 205.1), ("8576", 323.4, 205.1),
+                  ("445", 282.2, 226.1), ("6272", 322.3, 226.1),
+                  ("21", 287.9, 247.1), ("393", 326.9, 247.1)]
+        return fake_page(words)
+
+    def words_as_dicts(self, page):
+        return [{"text": wd.text, "x0": wd.x0, "x1": wd.x1,
+                 "top": wd.top, "bottom": wd.bottom} for wd in page.words]
+
+    def test_default_refuses_narrow_page(self):
+        page = self.page()
+        self.assertIsNone(ex.find_table_top(
+            ex.lines_from_words(self.words_as_dicts(page)), min_columns=3))
+        self.assertIsNone(ex.extract_table_page(page, False))
+
+    def test_real_prose_shapes_do_not_table_top_at_two(self):
+        # The false-top risk under min_columns=2 is guarded by the real page's
+        # prose shapes: the certification blurb's stop-adjacent tokens
+        # ("(3)", "39201,") and each line's single clean number never reach
+        # two clean numeric tokens in two x clusters.
+        lines = ex.lines_from_words(self.words_as_dicts(self.page()))
+        self.assertEqual(ex.find_table_top(lines, min_columns=2), 205.0)
+        tp = ex.extract_table_page(self.page(), False, min_columns=2)
+        self.assertIsNotNone(tp)
+        # each center is its column's mean cell x0 (324/445/21 -> 284.2)
+        self.assertEqual([round(c, 1) for c in tp["precinct_centers"]],
+                         [284.2, 324.2])
+        self.assertEqual(
+            [(r["kind"], r.get("office"), r.get("candidate"), r.get("party"))
+             for r in tp["rows"]],
+            [("office", "U.S. Senate", None, None),
+             ("candidate", "U.S. Senate", "Scott Colom", "DEM"),
+             ("candidate", "U.S. Senate", "Cindy Hyde-Smith", "REP"),
+             ("candidate", "U.S. Senate", "Ty Pinkins", "IND")])
+        cands = [r for r in tp["rows"] if r["kind"] == "candidate"]
+        self.assertEqual(len(cands[0]["cells"]), 2)
+
+    def test_prose_two_clean_numbers_would_table_top(self):
+        # Documented limitation (min_columns=3 has the same prose note): a
+        # prose line carrying two genuine clean numbers in two x clusters is
+        # read as the table top. The pinned guarantee is limited to the real
+        # recap prose shapes (test above); the count gate + roster checks
+        # catch a false top downstream.
+        words = []
+        for text, top in (("Statewide Election", 40.0),
+                          ("Management System 5 and 7 copies", 44.0)):
+            x = 40.0
+            for tok in text.split(" "):
+                words.append(w(tok, x, top))
+                x += len(tok) * 5 + 4
+        self.assertEqual(
+            ex.find_table_top(ex.lines_from_words(words), min_columns=2), 44.0)
+
+    def test_retry_policy_from_manifest(self):
+        # Retry ONLY manifest-declared table pages, never local-only pages or
+        # undeclared pages (Warren p5/p6 carry no TOTAL; p1 is the cover).
+        manifest = {"pages": {"2": ["P1", "TOTAL"], "3": ["P1", "TOTAL"],
+                              "4": ["Porters Chapel", "TOTAL"],
+                              "5": ["P1"], "6": ["P1"]},
+                    "local_only_pages": ["5", "6"]}
+        self.assertEqual(ex.narrow_retry_numbers(manifest), {2, 3, 4})
+        self.assertNotIn(7, ex.narrow_retry_numbers(manifest))  # undeclared
+        self.assertEqual(ex.narrow_retry_numbers({"pages": {"2": ["P1"]}}),
+                         {2})
+        self.assertEqual(ex.narrow_retry_numbers({"pages": {}}), set())
+        # a shape-bad local_only_pages does not crash the reader (the load
+        # records the shape problem and holds the county at the gates)
+        self.assertEqual(ex.narrow_retry_numbers(
+            {"pages": {"2": ["P1"]}, "local_only_pages": "2"}), {2})
+
+
+class LocalOnlyPageTests(unittest.TestCase):
+    """Task 7 item 4: manifest-declared local-only pages are skipped entirely
+    (out of scope per the no-local-offices convention), recorded, never
+    gated, and never read as missing."""
+
+    def tmp_manifest(self, pages, extra=None):
+        import tempfile
+        tmp = tempfile.TemporaryDirectory()
+        self.addCleanup(tmp.cleanup)
+        manifest = {"county": "Synth", "source": "x.pdf",
+                    "election_date": "2026-11-03", "read_by": "operator-vision",
+                    "date": "2026-11-19", "total_label": "TOTAL",
+                    "pages": pages}
+        if extra:
+            manifest.update(extra)
+        path = os.path.join(tmp.name, "m.json")
+        with open(path, "w") as fh:
+            json.dump(manifest, fh)
+        return path
+
+    @staticmethod
+    def page(p1, total):
+        return {"precinct_centers": [246.0, 291.0], "table_top": 200.0,
+                "rows": [{"kind": "candidate", "candidate": "A",
+                          "party": "DEM", "office": "U.S. Senate",
+                          "district": "", "seat": None,
+                          "top": 200.0, "bottom": 208.0,
+                          "cells": {246.0: p1, 291.0: total}}],
+                "conflicts": []}
+
+    def test_declared_local_page_not_assembled(self):
+        pd = ex.parse_county_from_pages(
+            {"2": self.page(5, 5), "5": self.page(9, 9)},
+            "Synth", self.tmp_manifest({"2": ["P1", "TOTAL"],
+                                        "5": ["P1", "TOTAL"]},
+                                       {"local_only_pages": ["5"]}))
+        self.assertEqual(
+            pd["skipped_local_pages"],
+            [{"page": 5, "labels": ["P1", "TOTAL"], "reason": "local_only"}])
+        self.assertEqual([(r["candidate"], r["total"])
+                          for r in pd["candidate_rows"]], [("A", 5)])
+        self.assertEqual(pd["precinct_names"], ["P1"])
+        self.assertEqual(ex.run_gates(pd)["manifest"], [])
+
+    def test_declared_local_page_absent_not_missing(self):
+        # A local-only page absent from the extraction is the declared state;
+        # "page_missing" stays reserved for a declared TABLE page that failed
+        # extraction (next test).
+        probs = ex.run_gates(ex.parse_county_from_pages(
+            {"2": self.page(5, 5)}, "Synth",
+            self.tmp_manifest({"2": ["P1", "TOTAL"], "5": ["P1", "TOTAL"]},
+                              {"local_only_pages": ["5"]})))
+        self.assertEqual(probs["manifest"], [])
+
+    def test_declared_table_page_absent_is_missing(self):
+        probs = ex.run_gates(ex.parse_county_from_pages(
+            {"2": self.page(5, 5)}, "Synth",
+            self.tmp_manifest({"2": ["P1", "TOTAL"], "3": ["P1", "TOTAL"]})))
+        self.assertEqual([p["kind"] for p in probs["manifest"]],
+                         ["page_missing"])
+        self.assertEqual(probs["manifest"][0]["page"], 3)
+
+    def test_bad_shapes_degrade(self):
+        path = self.tmp_manifest(
+            {"2": ["P1", "TOTAL"]},
+            {"local_only_pages": "5", "carry_pages": 5})
+        manifest, problems = ex.load_manifest(path)
+        kinds = {(p["kind"], p.get("key")) for p in problems}
+        self.assertIn(("manifest_shape", "local_only_pages"), kinds)
+        self.assertIn(("manifest_shape", "carry_pages"), kinds)
+        # and the assembly degrades to nothing skipped, never a crash
+        pd = ex.parse_county_from_pages(
+            {"2": self.page(5, 5)}, "Synth", path)
+        self.assertEqual(pd["skipped_local_pages"], [])
+
+    def test_county_manifest_without_key_is_clean(self):
+        pd = ex.parse_county_from_pages(
+            {"2": self.page(5, 5)}, "Synth",
+            {"total_label": "TOTAL", "pages": {"2": ["P1", "TOTAL"]}})
+        self.assertEqual(pd["skipped_local_pages"], [])
+        self.assertEqual(pd["candidate_rows"][0]["candidate"], "A")
+
+
+if __name__ == "__main__":
+    unittest.main()
+
+
+class CellHeightFloorTests(unittest.TestCase):
+    """Task 7 evidence: Warren carries an invisible overlay glyph layer; its
+    digit-looking runs are ~1.7pt tall against ~8.6pt data digits. p3's Eller
+    row fired a recorded conflict because the stray "1" overwrote the real
+    "76" cell. The floor is relative to each page's own anchor digits."""
+
+    def ghost_page(self, ghost_height):
+        # three rows x three columns; row 2's col-2 area carries the ghost
+        words = [
+            ("Scott Colom", 45.0, 205.0), ("Democrat", 150.0, 205.0),
+            ("449", 282.6, 205.1), ("582", 329.6, 205.1), ("778", 375.4, 205.1),
+            ("Ron Eller", 45.0, 226.0), ("Republican", 150.0, 226.0),
+            ("273", 283.1, 226.5), ("76", 334.7, 226.5), ("143", 376.3, 226.5),
+            ("1", 345.6, 227.0, ghost_height),
+            ("Ty Pinkins", 45.0, 247.0), ("Independent", 150.0, 247.0),
+            ("18", 288.7, 247.1), ("14", 335.2, 247.1), ("17", 381.3, 247.1),
+        ]
+        return fake_page(words)
+
+    def test_ghost_word_never_attaches(self):
+        # 1.7pt ghost in Eller's band: dropped before the grid, so no
+        # conflict fires and the row keeps its printed cells.
+        tp = ex.extract_table_page(self.ghost_page(1.7), False)
+        self.assertIsNotNone(tp)
+        eller = [r for r in tp["rows"] if r.get("candidate") == "Ron Eller"][0]
+        self.assertEqual(len(eller["cells"]), 3)
+        self.assertEqual(tp["conflicts"], [])
+        col2 = tp["precinct_centers"][1]
+        self.assertEqual(eller["cells"].get(col2), 76)
+
+    def test_full_height_single_digit_is_a_real_cell(self):
+        # the floor is relative, not absolute: on a page whose anchor digits
+        # are small, same-height single-digit cells all keep attaching.
+        words = [
+            ("Scott Colom", 45.0, 205.0), ("Democrat", 150.0, 205.0),
+            ("4", 282.6, 205.1, 2.0), ("7", 329.6, 205.1, 2.0),
+            ("5", 375.4, 205.1, 2.0),
+            ("Ron Eller", 45.0, 226.0), ("Republican", 150.0, 226.0),
+            ("2", 283.1, 226.5, 2.0), ("1", 329.6, 226.5, 2.0),
+            ("9", 375.4, 226.5, 2.0),
+            ("Ty Pinkins", 45.0, 247.0), ("Independent", 150.0, 247.0),
+            ("3", 282.6, 247.1, 2.0), ("9", 329.6, 247.1, 2.0),
+            ("2", 375.4, 247.1, 2.0),
+        ]
+        tp = ex.extract_table_page(fake_page(words), False)
+        self.assertIsNotNone(tp)
+        eller = [r for r in tp["rows"] if r.get("candidate") == "Ron Eller"][0]
+        self.assertEqual(eller["cells"][tp["precinct_centers"][1]], 1)
+
+    def test_x_cells_belong_to_grid_columns(self):
+        # Recap X cells are column positions: a column whose members are
+        # mostly X (Warren p5-p7's local-zone tails) stays detectable -- one
+        # numeric cell plus X glyphs is enough -- and X never becomes a
+        # votes value; the row's own printed total proves blanks 0 at
+        # assembly instead.
+        words = [
+            ("Scott Colom", 45.0, 205.0), ("Democrat", 150.0, 205.0),
+            ("X", 293.0, 205.1, 9.5), ("582", 329.6, 205.1), ("778", 375.4, 205.1),
+            ("19", 417.8, 205.1),
+            ("Ron Eller", 45.0, 226.0), ("Republican", 150.0, 226.0),
+            ("X", 293.0, 226.5, 9.5), ("273", 329.9, 226.5), ("76", 375.3, 226.5),
+            ("143", 417.8, 226.5), ("11", 451.0, 226.5),
+            ("Ty Pinkins", 45.0, 247.0), ("Independent", 150.0, 247.0),
+            ("18", 288.7, 247.1), ("16", 331.2, 247.1), ("17", 381.3, 247.1),
+            ("9", 418.1, 247.1), ("7", 450.6, 247.1),
+        ]
+        tp = ex.extract_table_page(fake_page(words), False)
+        self.assertIsNotNone(tp)
+        # col 1's only numeric cell is row 3's "18"; X glyphs keep the
+        # column alive for rows 1-2 without becoming values
+        self.assertEqual(len(tp["precinct_centers"]), 4)
+        colom = [r for r in tp["rows"] if r.get("candidate") == "Scott Colom"][0]
+        eller = [r for r in tp["rows"] if r.get("candidate") == "Ron Eller"][0]
+        self.assertNotIn(tp["precinct_centers"][0], colom["cells"])
+        self.assertNotIn(tp["precinct_centers"][0], eller["cells"])
+        self.assertEqual(eller["cells"][tp["precinct_centers"][1]], 273)
+        pinkins = [r for r in tp["rows"]
+                   if r.get("candidate") == "Ty Pinkins"][0]
+        self.assertEqual(pinkins["cells"][tp["precinct_centers"][0]], 18)
+
+
+class CellTokenRepairTests(unittest.TestCase):
+    """Task 7 evidence: Warren's text layer also mangles cell tokens -- a
+    phantom glyph inside a right-aligned cell, and a broken ToUnicode decode
+    (Times-Italic glyphs print "484", decode "AO."). Per page, the operator
+    manifest carries EXACT render-verified repairs applied only to tokens
+    already bound to a numeric column, and only for that county's declared
+    pages; each repair then faces the row's printed-TOTAL gate."""
+
+    def page(self):
+        # p3's shape in miniature: a phantom-digit token ("5821" for the
+        # printed 582), a decode-broken small-glyph token ("AO." for 484),
+        # and a trailing-junk token ("617!" for 617).
+        return fake_page([
+            ("Scott Colom", 45.0, 205.0), ("Democrat", 150.0, 205.0),
+            ("449", 282.6, 205.1), ("5821", 329.6, 205.1),
+            ("AO.", 375.4, 205.1, 4.7), ("17", 417.8, 205.1),
+            ("Ron Eller", 45.0, 226.0), ("Republican", 150.0, 226.0),
+            ("273", 283.1, 226.5), ("76", 329.9, 226.5),
+            ("617!", 376.3, 226.5), ("143", 417.8, 226.5),
+            ("Ty Pinkins", 45.0, 247.0), ("Independent", 150.0, 247.0),
+            ("18", 282.6, 247.1), ("77", 330.1, 247.1), ("16", 376.5, 247.1),
+            ("33", 418.1, 247.1),
+            ("Deborah A.", 45.0, 268.0), ("Nonpartisan", 150.0, 268.0),
+            ("21", 292.0, 268.1), ("14", 336.2, 268.1), ("55", 377.0, 268.1),
+            ("9", 418.3, 268.1),
+            ("Bennie Foster", 45.0, 289.0), ("Independent", 150.0, 289.0),
+            ("2", 292.6, 289.1), ("10", 335.6, 289.1), ("12", 376.9, 289.1),
+            ("4", 418.5, 289.1),
+        ])
+
+    def test_repairs_apply_in_numeric_columns_only(self):
+        tp = ex.extract_table_page(
+            self.page(), False,
+            token_repairs={"5821": "582", "AO.": "484", "617!": "617"})
+        self.assertIsNotNone(tp)
+        colom = [r for r in tp["rows"] if r.get("candidate") == "Scott Colom"][0]
+        eller = [r for r in tp["rows"] if r.get("candidate") == "Ron Eller"][0]
+        self.assertEqual(colom["cells"][tp["precinct_centers"][1]], 582)
+        self.assertEqual(colom["cells"][tp["precinct_centers"][2]], 484)
+        self.assertEqual(eller["cells"][tp["precinct_centers"][2]], 617)
+        # every token with no repair entry keeps its own value
+        self.assertEqual(colom["cells"][tp["precinct_centers"][3]], 17)
+
+    def test_without_repairs_the_mangles_are_lost_or_wrong(self):
+        # what the repair saves the county from: the phantom digit rides in
+        # as the printed value (5821), and the decode-broken tokens are
+        # missing cells that the total gate then flags.
+        tp = ex.extract_table_page(self.page(), False)
+        colom = [r for r in tp["rows"] if r.get("candidate") == "Scott Colom"][0]
+        eller = [r for r in tp["rows"] if r.get("candidate") == "Ron Eller"][0]
+        self.assertEqual(colom["cells"].get(tp["precinct_centers"][1]), 5821)
+        self.assertNotIn(tp["precinct_centers"][2], colom["cells"])
+        self.assertNotIn(tp["precinct_centers"][2], eller["cells"])
+
+    def test_non_digit_repair_value_is_ignored(self):
+        # a replacement that is not a clean digit run is ignored and the
+        # mangled token keeps its own (wrong) shape -- caught by the row's
+        # printed-TOTAL gate, never silently "fixed"
+        tp = ex.extract_table_page(
+            self.page(), False, token_repairs={"5821": "58,2"})
+        colom = [r for r in tp["rows"] if r.get("candidate") == "Scott Colom"][0]
+        self.assertEqual(colom["cells"].get(tp["precinct_centers"][1]), 5821)
+
+    def test_manifest_plumbing(self):
+        manifest = {"cell_token_repairs": {"3": {"5821": "582"},
+                                           "6": {"7491": "749"}}}
+        self.assertEqual(ex.page_token_repairs(manifest, 3), {"5821": "582"})
+        self.assertEqual(ex.page_token_repairs(manifest, 6), {"7491": "749"})
+        self.assertEqual(ex.page_token_repairs(manifest, 4), {})
+        self.assertEqual(ex.page_token_repairs({}, 3), {})
+
+    def test_manifest_shape_validation(self):
+        for bad in ("x", {"2": "not-a-dict"}, {"2": {"A": 5}}):
+            manifest = {"county": "X", "source": "s", "total_label": "TOTAL",
+                        "pages": {"2": ["P1", "TOTAL"]},
+                        "cell_token_repairs": bad}
+            import tempfile
+            import json
+            tmp = tempfile.TemporaryDirectory()
+            self.addCleanup(tmp.cleanup)
+            path = os.path.join(tmp.name, "m.json")
+            with open(path, "w") as fh:
+                json.dump(manifest, fh)
+            self.assertIn(
+                ("manifest_shape", "cell_token_repairs"),
+                {(p["kind"], p.get("key")) for p in ex.load_manifest(path)[1]})
+
+
+class CarriedOpenPageTests(unittest.TestCase):
+    """Task 7 evidence: the Circuit Court 9-2 header prints at the end of
+    p2/p3/p4 and its row (M. James 'Jim' Chaney Jr.) prints at the TOP of the
+    next page group (p5 cols 1-11, p6 cols 12-22, p7 Porters Chapel + TOTAL),
+    ahead of the local zone's first header box. No in-page heuristic can
+    distinguish "opening rows continue the previous section" from "opening
+    rows are local-zone furniture"; the manifest declares the carried pages."""
+
+    @staticmethod
+    def row(name, cells, top, total=None, office=None):
+        return {"kind": "candidate", "candidate": name, "party": "",
+                "office": office and office[0], "district": office and office[1],
+                "seat": office and office[2],
+                "top": top, "bottom": top + 8.0, "total": total,
+                "cells": cells or {}}
+
+    @staticmethod
+    def table(rows):
+        return {"precinct_centers": [246.0, 291.0], "table_top": 200.0,
+                "rows": list(rows), "conflicts": []}
+
+    def pages(self):
+        local_header = {"kind": "unknown_header", "text": "Local Judge"}
+        opener = {"kind": "office", "office": "Circuit Court", "district": "9",
+                  "seat": 2}
+        return {
+            "4": self.table([opener,
+                             self.row("Toni Walker Terrett",
+                                      {246.0: 1, 291.0: 1}, 210.0, 2,
+                                      office=("Circuit Court", "9", 2))]),
+            "5": self.table([self.row("M. James Chaney", {246.0: 4}, 182.0),
+                             local_header,
+                             self.row("Local A", {246.0: 9}, 229.0, 9)]),
+            "6": self.table([self.row("M.  James Chaney ",
+                                      {246.0: 0, 291.0: 3}, 182.0),
+                             local_header,
+                             self.row("Local B", {246.0: 9}, 229.0, 9)]),
+            "7": self.table([self.row("M. James Chaney", {246.0: 0}, 182.0,
+                                      total=7),
+                             local_header,
+                             self.row("Local C", {246.0: 9}, 229.0, 9)]),
+        }
+
+    def manifest(self, extra=None):
+        m = {"pages": {"4": ["P1", "TOTAL"],
+                       "5": ["P3", "P4"], "6": ["P5", "P6"],
+                       "7": ["P7", "TOTAL"]}}
+        if extra:
+            m.update(extra)
+        return m
+
+    def test_declared_carry_pages_keep_the_group_row_stream(self):
+        pd = ex.parse_county_from_pages(
+            self.pages(), "Warren",
+            self.manifest({"carry_pages": ["5", "6", "7"]}))
+        chaney = [r for r in pd["candidate_rows"]
+                  if r["candidate"] == "M. James Chaney"]
+        self.assertEqual(len(chaney), 1)
+        row = chaney[0]
+        # carried context: the section p4 ended on, refreshed through the
+        # group's pages (p6/p7 keep it although p5 ended under the local
+        # zone's header box)
+        self.assertEqual((row["office"], row["district"], row["seat"]),
+                         ("Circuit Court", "9", 2))
+        self.assertEqual(row["pages"], [5, 6, 7])
+        self.assertEqual(row["total"], 7)
+        # P1/P2/P4 are the printed 0s the row's own total proves
+        self.assertEqual(row["cells"], {"P1": 0, "P3": 4, "P4": 0,
+                                        "P5": 0, "P6": 3, "P7": 0})
+        # the local rows still drop by design, recorded whole
+        self.assertEqual([(d["candidate"], d["page"])
+                          for d in pd["dropped_local_rows"]],
+                         [("Local A", 5), ("Local B", 6), ("Local C", 7)])
+        self.assertEqual(ex.run_gates(pd)["manifest"], [])
+
+    def test_without_declaration_the_local_zone_rule_applies(self):
+        # For pages NOT declared carried, the Task 5 boundary rule stands:
+        # opening rows ahead of an in-stream local header never inherit the
+        # prior page's end context (they drop to dropped_local_rows instead)
+        # -- which is exactly why the declaration had to exist.
+        pd = ex.parse_county_from_pages(self.pages(), "Warren",
+                                        self.manifest())
+        self.assertEqual([r["candidate"] for r in pd["candidate_rows"]],
+                         ["Toni Walker Terrett"])
+        self.assertEqual([(d["candidate"], d["page"])
+                          for d in pd["dropped_local_rows"]],
+                         [("M. James Chaney", 5), ("Local A", 5),
+                          ("M.  James Chaney ", 6), ("Local B", 6),
+                          ("M. James Chaney", 7), ("Local C", 7)])
+
+
+class CarriedGroupJunkRowTests(unittest.TestCase):
+    """Task 7 evidence: Warren p7 prints an invisible-layer remnant -- a lone
+    \'i\' word (Helvetica 5.0, 2.5pt wide) after the carried Circuit 9-2 row
+    and before the local section header; the rendered page prints nothing
+    there. The carry exists to attribute data, so a carried page's zero-cell
+    row is never roster data: it drops to dropped_local_rows (recorded whole)."""
+
+    @staticmethod
+    def table(rows):
+        return {"precinct_centers": [246.0, 291.0], "table_top": 200.0,
+                "rows": list(rows), "conflicts": []}
+
+    def carried_pages(self, extra_row=None):
+        opener = {"kind": "office", "office": "Circuit Court", "district": "9",
+                  "seat": 2}
+        local_header = {"kind": "unknown_header", "text": "Local Judge"}
+        # p4/p5 carry the section's own office at capture (their pages have
+        # the header row); p6 is the carried continuation: no header, its
+        # opener row(s) print with office=None
+        chaney_p = {"kind": "candidate", "candidate": "M. James Chaney",
+                    "party": "", "office": "Circuit Court", "district": "9",
+                    "seat": 2, "top": 182.0, "bottom": 190.0, "total": 6,
+                    "cells": {246.0: 6}}
+        junk = {"kind": "candidate", "candidate": "i", "party": None,
+                "office": None, "district": None, "seat": None,
+                "top": 194.5, "bottom": 199.5, "total": None, "cells": {}}
+        local = {"kind": "candidate", "candidate": "Local A", "party": "",
+                 "office": None, "district": None, "seat": None,
+                 "top": 229.0, "bottom": 237.0, "total": 9,
+                 "cells": {246.0: 9}}
+        chaney_c = dict(chaney_p, office=None, district=None, seat=None,
+                        total=6)
+        rows = [chaney_c] + ([junk] if extra_row else []) + [local_header,
+                                                             local]
+        return {"4": self.table([opener, chaney_p]),
+                "5": self.table([opener, chaney_p]),
+                "6": self.table(rows if extra_row else
+                                [chaney_c, local_header, local])}
+
+    def test_zero_cell_row_is_not_carried_data(self):
+        # the junk word sits between the carried row and the local header on
+        # p6: it must not enter the carried race, which keeps Chaney's
+        # carried group intact (1 carried row, not 2)
+        pd = ex.parse_county_from_pages(
+            self.carried_pages(extra_row=True), "Warren",
+            {"pages": {"4": ["P1"], "5": ["P2"],
+                       "6": ["P3", "TOTAL"]},
+             "carry_pages": ["4", "5", "6"]})
+        self.assertEqual([(r["candidate"], r["office"])
+                          for r in pd["candidate_rows"]],
+                         [("M. James Chaney", "Circuit Court")])
+        self.assertEqual([(d["candidate"], d["page"])
+                          for d in pd["dropped_local_rows"]],
+                         [("i", 6), ("Local A", 6)])
+        self.assertEqual(pd["candidate_rows"][0]["cells"],
+                         {"P1": 6, "P2": 6, "P3": 6})
+
+
+class WarrenCountyTests(unittest.TestCase):
+    """Task 7 end-to-end on the real Warren PDF under the corrected manifest:
+    structure, per-candidate printed totals, roster, and the cross-county
+    Senate roster against Union's committed CSV."""
+
+    @classmethod
+    def setUpClass(cls):
+        cls.pd = ex.parse_county_pdf(
+            os.path.join(SOURCES_DIR, "Warren_County_2026_general.pdf"),
+            "Warren",
+            manifest_path=os.path.join(REPO, "2026/header-reads/"
+                                       "20261103__ms__general__warren__headers.json"))
+        cls.totals = {"Scott Colom": 8576, "Cindy Hyde-Smith": 6272,
+                      "Ty Pinkins": 393, "Ron Eller": 6519,
+                      "Bennie G. Thompson": 8309, "Bennie Foster": 412,
+                      "Deborah A. McDonald": 12927, "Vicki Roach Barnes": 6482,
+                      "Penny B. Lawson": 7918, "Toni Walker Terrett": 2985,
+                      "M. James 'Jim' Chaney Jr.": 10545}
+
+    def test_gates_clean(self):
+        problems = ex.run_gates(self.pd)
+        self.assertEqual(problems["total_mismatches"], [])
+        self.assertEqual(problems["structure"], [])
+        self.assertEqual(problems["conflicts"], [])
+        self.assertEqual(problems["manifest"], [])
+        self.assertEqual(problems["party"], [])
+
+    def test_no_in_scope_row_silently_lost(self):
+        names = {r["candidate"] for r in self.pd["candidate_rows"]}
+        self.assertEqual(names, {
+            "Scott Colom", "Cindy Hyde-Smith", "Ty Pinkins", "Ron Eller",
+            "Bennie G. Thompson", "Bennie Foster", "Deborah A. McDonald",
+            "Vicki Roach Barnes", "Penny B. Lawson", "Toni Walker Terrett",
+            "M. James 'Jim' Chaney Jr."})
+        self.assertEqual(len(self.pd["candidate_rows"]), 11)
+        # the second table group's other rows are local-zone candidates,
+        # recorded whole (raw text, no office) rather than merged or gated --
+        # Union precedent; NO variant of the carried Circuit 9-2 row drops.
+        dropped = self.pd["dropped_local_rows"]
+        # 19 rows: 18 of the 27 possible (local-name x page) rows reach
+        # dropped_local_rows (the three JCJ-zone names are absorbed by the
+        # bounded fragment run behind their header on each page, out-of-scope
+        # data either way) + Warren p7's invisible 'i' remnant, which the
+        # carry correctly refuses to treat as carried data
+        self.assertEqual(len(dropped), 19)
+        self.assertEqual([d["candidate"] for d in dropped
+                          if d["page"] == 7 and d["cells"] == {}], ["i"])
+        self.assertTrue(all(d["office"] is None for d in dropped))
+        self.assertFalse(any("Chaney" in d["candidate"] for d in dropped))
+
+    def test_full_cells_and_printed_totals(self):
+        for row in self.pd["candidate_rows"]:
+            self.assertEqual(len(row["cells"]), 23, row["candidate"])
+            self.assertEqual(sum(row["cells"].values()), row["total"],
+                             row["candidate"])
+            self.assertEqual(row["total"], self.totals[row["candidate"]])
+        self.assertEqual(sorted(self.pd["precinct_names"]), sorted([
+            "Ridgeway", "Bovina", "Gibson", "Oakland", "Medgar Foundation",
+            "Elizabeth Circle", "Kings", "Spring Hill", "Auditorium",
+            "Eagle Lake Methodist", "International Paper", "Calvary Indiana",
+            "American Legion", "Travelers Rest", "Plumbers & Pipefitters",
+            "Immanuel", "Goodrum", "Yokena", "Elks Lodge", "Calvary Old 27",
+            "Life", "Lee Rd Fire", "Porters Chapel"]))
+
+    def test_roster_offices_districts_parties(self):
+        roster = {(r["office"], r["district"], r.get("seat"), r["party"])
+                  for r in self.pd["candidate_rows"]}
+        self.assertEqual(roster, {
+            ("U.S. Senate", "", None, "DEM"), ("U.S. Senate", "", None, "REP"),
+            ("U.S. Senate", "", None, "IND"),
+            ("U.S. House", "2", None, "REP"), ("U.S. House", "2", None, "DEM"),
+            ("U.S. House", "2", None, "IND"),
+            ("Court of Appeals", "2", 1, ""), ("Chancery Court", "9", 2, ""),
+            ("Circuit Court", "9", 1, ""), ("Circuit Court", "9", 2, "")})
+        # two seats of Circuit Court district 9 on one ballot -> Place labels
+        self.assertEqual(ex.multi_seat_keys(self.pd), {("Circuit Court", "9")})
+
+    def test_senate_roster_matches_union_csv(self):
+        import csv
+        union = os.path.join(REPO, "2026/counties/"
+                             "20261103__ms__general__union__precinct.csv")
+        with open(union) as fh:
+            rows = list(csv.DictReader(fh))
+        union_roster = {(r["candidate"], r["party"])
+                        for r in rows if r["office"] == "U.S. Senate"}
+        warren = {(r["candidate"], r["party"])
+                  for r in self.pd["candidate_rows"]
+                  if r["office"] == "U.S. Senate"}
+        self.assertEqual(warren, union_roster)
+
+
 if __name__ == "__main__":
     unittest.main()

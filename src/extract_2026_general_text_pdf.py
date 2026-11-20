@@ -244,6 +244,29 @@ def _fuzzy_eq(a, b, ratio):
     return difflib.SequenceMatcher(None, a.upper(), b.upper()).ratio() >= ratio
 
 
+# Candidate-name merge folds, keyed on the variants the text layers actually
+# render (Task 7: Warren p3 prints "Cindy  Hyde·Smith " with a unicode mid dot
+# where p2/p4 print the hyphen, and "Bennie G, Thompson" with a comma where
+# p2/p4 print the period for an initial's stop). Whitespace collapse and
+# lowering always apply; nothing else folds.
+NAME_PUNCT_FOLDS = ((("·",), "-"), ((",",), "."))
+NAME_WS_RE = re.compile(r"\s+")
+
+
+def name_key(name):
+    """Merge key for a candidate name: punctuation folds tied to observed
+    label variants (NAME_PUNCT_FOLDS) + whitespace collapse + lowercase.
+
+    Shared by the assembly's merge key (parse_county_from_pages) and the CSV
+    writer's ballot-order index (_merge_key) so both fold identically -- a
+    split key would present one candidate as two rows/positions."""
+    folded = name or ""
+    for chars, replacement in NAME_PUNCT_FOLDS:
+        for ch in chars:
+            folded = folded.replace(ch, replacement)
+    return NAME_WS_RE.sub(" ", folded).strip().lower()
+
+
 def parse_office(label, fuzzy=False):
     """Office header label -> (office, district, seat) or None.
 
@@ -489,12 +512,36 @@ def is_unparsed_header(text):
             or bool(re.search(r"\d\s*$", t)))
 
 
-# Invisible-Tesseract text-layer misreads of PRINTED candidate names, keyed on
-# the observed mangle -- the same mechanism as PARTY_WORDS's mangled keys.
-# Union's print says "Scott Colom" / "John Weddle" (verified against the
-# rendered page; the OCR layer reads "Coiom" / "weddie"). Applied to label
-# words only, never to numeric handling or office patterns.
-LABEL_REPAIRS = {"Coiom": "Colom", "weddie": "Weddle"}
+# Invisible text-layer misreads of PRINTED label words, keyed on the observed
+# mangle -- the same mechanism as PARTY_WORDS's mangled keys. Applied to
+# candidate name words AND to office-header label words before parse_office,
+# never to numeric handling. New entries join only from a render-verified
+# read of the printed page ("Amendment A: operator vision is the truth"):
+#
+# - Union p2: print says "Scott Colom" / "John Weddle"; layer reads
+#   "Coiom" / "weddie" (Task 4, render-verified).
+# - Warren p2/p4: print says "United States-Senate" (rendered strip, 400 dpi);
+#   the born-digital layer reads "United states-senatel" -- lowercase + a
+#   trailing 'l' glyph. parse_office refused it at fuzzy=False, so p2's whole
+#   Senate section folded into the page's previous context (and p4's opening
+#   rows relied on a cross-page carry).
+# - Warren p4: print says "Chancery Court 9-2-..."; the layer lost the label's
+#   first two characters at the page's left edge ("ancery Court ..."), and
+#   without this, is_unparsed_header would have swallowed the section's two
+#   nonpartisan candidates into the local-row drop.
+# - Warren p7: an invisible junk glyph merged into the first name word
+#   ("iM. James 'Jim' Chaney Jr."); the print reads "M. James ..." -- without
+#   the repair the p7 copy never merges with p5/p6 same-candidate rows.
+LABEL_REPAIRS = {"Coiom": "Colom", "weddie": "Weddle",
+                 "states-senatel": "States-Senate",
+                 "ancery": "Chancery", "iM.": "M."}
+
+
+def _repair_label(text):
+    """LABEL_REPAIRS applied word-wise to a label line's text (candidate
+    names and office headers alike)."""
+    return " ".join(LABEL_REPAIRS.get(tok, tok) for tok in text.split(" "))
+
 
 
 def _is_wrap_token(token):
@@ -513,16 +560,28 @@ def _is_wrap_token(token):
     return False
 
 
-def grid_centers(digits, anchor_digits, min_members=MIN_CLUSTER_MEMBERS):
+def grid_centers(digits, anchor_digits, min_members=MIN_CLUSTER_MEMBERS,
+                 filler_words=()):
     """x centers of the crosstab columns among `digits`' x clusters.
 
     The table's first data line carries one cell in every column, so its own
     numeric tokens (`anchor_digits`) bound the grid's x span. A cluster is a
-    real column when it has >= min_members members AND its x range overlaps
-    that span. Office-header qualifier digits (Position/Place values, which
-    print just right of the label band, x ~195-250 on Union p2) form two
-    phantom ~45pt-pitch clusters left of the first column that overlap
-    nothing on the first data line, so they drop without a special case.
+    real column when -- after `filler_words` attach -- it has >= min_members
+    members AND its x range overlaps that span. Office-header qualifier
+    digits (Position/Place values, which print just right of the label band,
+    x ~195-250 on Union p2) form two phantom ~45pt-pitch clusters left of the
+    first column that overlap nothing on the first data line, so they drop
+    without a special case.
+
+    `filler_words` are the recap's printed X cells: they join the NEAREST
+    numeric cluster within COL_TOL without moving its center (an X glyph
+    sits ~10pt right of its column's right-aligned digits, so counting X
+    glyphs into the cluster's x mean would drag the column center toward the
+    label band). They carry column-position evidence only; X never becomes a
+    votes value, and columns whose members are mostly X (Warren's local-zone
+    tails, p7's "Porters Chapel") stay detectable. A column with NO numeric
+    member at all still has no cluster seed and stays undetected -- the
+    column-count gate reports the loss loudly.
 
     The anchor-span rule is a FILTER on the clustered digits, not a lossless
     detector: `digits` only reaches back to table_top - TABLE_TOP_Y_WINDOW,
@@ -534,19 +593,60 @@ def grid_centers(digits, anchor_digits, min_members=MIN_CLUSTER_MEMBERS):
         return []
     anchor_lo = min(x["x0"] for x in anchor_digits)
     anchor_hi = max(x["x0"] for x in anchor_digits)
-    centers = []
+    seeds = []
     for cl in cluster_xs([(x["x0"], x) for x in digits], gap=COLUMN_GAP):
-        if len(cl["items"]) < min_members:
+        # the center stays the numeric members' mean: the right-aligned
+        # digits define the column, and a shifted center would drag the
+        # label-band boundary into the cells
+        seeds.append({"center": cl["center"], "items": list(cl["items"])})
+    for word in filler_words:
+        # nearest-seed attachment, same tolerance as assign_cells
+        best = min(seeds, key=lambda s: abs(s["center"] - word["x0"]))
+        if abs(best["center"] - word["x0"]) <= COL_TOL:
+            best["items"].append((word["x0"], word))
+    out = []
+    for seed in seeds:
+        if len(seed["items"]) < min_members:
             continue
-        lo = min(x for x, _ in cl["items"])
-        hi = max(x for x, _ in cl["items"])
+        lo = min(x for x, _ in seed["items"])
+        hi = max(x for x, _ in seed["items"])
         if hi >= anchor_lo and lo <= anchor_hi:
-            centers.append(cl["center"])
-    return sorted(centers)
+            out.append(seed["center"])
+    return sorted(out)
 
 
-def extract_table_page(page, fuzzy=False):
+X_CELL_WORDS = frozenset({"X", "x"})
+# A grid word must not be a scrap of an overlay glyph run: below this share
+# of the page's anchor-digit height the token is invisible junk (Warren p3's
+# Times-Roman 1.7pt "1" against 8.6pt data digits -- a stray that used to
+# overwrite Eller's real "76" cell and fire a conflict). Real cells sit at
+# the page's own digit height (ratio ~1.0); the floor is anchored on the
+# page's FIRST data line so no absolute size is assumed.
+CELL_HEIGHT_FLOOR = 0.5
+
+
+def extract_table_page(page, fuzzy=False, min_columns=3, token_repairs=None):
     """Parse one recap table page (Amendment A contract).
+
+    `min_columns` is find_table_top's threshold; the default 3 holds for
+    every standard page, and the manifest-driven retry in parse_county_pdf
+    re-extracts a declared page with 2 when its narrow tail (Warren p4/p7:
+    only "Porters Chapel" + TOTAL, so a data line carries two numeric
+    tokens) leaves find_table_top at None. Under 2, a prose line carrying
+    two CLEAN numeric tokens in two x clusters would be read as the table
+    top -- the real recap prose does not shape that way (the blurb's tokens
+    are "(3)", "39201," or a single "401"), and the column-count gate plus
+    the row-sum gate hold the county back if it ever does.
+
+    `token_repairs` are the operator manifest's render-verified replacements
+    for mangled cell tokens on this page, applied in assign_cells to tokens
+    already bound to a numeric column (Warren p3/p6; see
+    CellTokenRepairTests). The grid itself is built from numeric tokens AND
+    the recap's printed X cells (X marks a blank/zero-recap position whose
+    neighbors never vote): p5-p7's local-zone tails are X-heavy, and a
+    column read only from numeric words would lose it (Warren p5 col10,
+    p7 col "Porters Chapel"). X words never become values -- a blank is 0
+    only when the row's own printed total proves it at assembly.
 
     Returns {"precinct_centers": [x...], "table_top": float, "rows": [...],
     "conflicts": [...]} with rows = label_rows(...) and each candidate row's
@@ -560,28 +660,59 @@ def extract_table_page(page, fuzzy=False):
     NOT call vertical_headers.
 
     Returns None in two cases: a non-table page (find_table_top finds no
-    numeric-grid line -- the cover page), or a table page whose column
-    clusters all drop (no cluster with >= MIN_CLUSTER_MEMBERS members
-    overlapping the first data line -- see grid_centers)."""
+    numeric-grid line at this min_columns -- the cover page), or a table
+    page whose column clusters all drop (no cluster with >=
+    MIN_CLUSTER_MEMBERS members overlapping the first data line -- see
+    grid_centers)."""
     words = [{"text": x.text, "x0": x.x0, "x1": x.x1, "top": x.top, "bottom": x.bottom}
              for x in page.words]
     lines = lines_from_words(words)
-    table_top = find_table_top(lines)
+    table_top = find_table_top(lines, min_columns=min_columns)
     if table_top is None:
         return None  # not a table page (cover page)
 
     def band_words(lo, hi):
         return [x for ln in lines if lo <= ln["top"] < hi for x in ln["words"]]
 
-    digits = [x for x in band_words(table_top - TABLE_TOP_Y_WINDOW, float("inf"))
-              if looks_numeric(x["text"], fuzzy)]
+    def prepared_text(word):
+        # the manifest's render-verified replacement wins over the token it
+        # repairs -- including tokens that already read digit-shaped (p3's
+        # phantom '1' rides inside '5821') -- but only when the replacement
+        # is itself a clean digit run; a malformed replacement is ignored
+        # (the token keeps its own shape, and the printed-TOTAL gate flags
+        # whatever it produces).
+        if not token_repairs:
+            return word["text"]
+        replacement = token_repairs.get(word["text"])
+        if (replacement is not None and DIGIT_RE.match(replacement)):
+            return replacement
+        return word["text"]
+
+    def cell_shaped(x):
+        # cell-selection sees the repaired token ('AO.' counts as the 484 it
+        # prints); label words and prose never reach this test.
+        return (looks_numeric(prepared_text(x), fuzzy)
+                or x["text"].strip() in X_CELL_WORDS)
+
+    band_lo = table_top - TABLE_TOP_Y_WINDOW
+    anchor_words = [x for x in band_words(band_lo, table_top + TABLE_TOP_Y_WINDOW)
+                    if cell_shaped(x)]
+    # A grid word must clear the page's own digit height (see
+    # CELL_HEIGHT_FLOOR): the anchor's data cells set the scale.
+    heights = [x["bottom"] - x["top"] for x in anchor_words]
+    min_height = (CELL_HEIGHT_FLOOR * sorted(heights)[len(heights) // 2]
+                  if heights else 0.0)
+    band = band_words(band_lo, float("inf"))
+    x_cells = [x for x in band if x["text"].strip() in X_CELL_WORDS
+               and x["bottom"] - x["top"] >= min_height]
+    digits = [x for x in band if cell_shaped(x)
+              and x["text"].strip() not in X_CELL_WORDS
+              and x["bottom"] - x["top"] >= min_height]
     # The first data line anchors the grid; a +-TABLE_TOP_Y_WINDOW window
     # keeps cells that y-jitter split onto a follow-on line inside the anchor.
-    anchor_digits = [x for x in
-                     band_words(table_top - TABLE_TOP_Y_WINDOW,
-                                table_top + TABLE_TOP_Y_WINDOW)
-                     if looks_numeric(x["text"], fuzzy)]
-    centers = grid_centers(digits, anchor_digits)
+    anchor_digits = [x for x in anchor_words
+                     if x["bottom"] - x["top"] >= min_height]
+    centers = grid_centers(digits, anchor_digits, filler_words=x_cells)
     if not centers:
         return None  # numeric grid lost; caller treats the page as unused
 
@@ -593,7 +724,8 @@ def extract_table_page(page, fuzzy=False):
     rows = label_rows(lines, table_top, label_x_max, fuzzy)
     conflicts = []
     cells = assign_cells(rows, [x for x in digits if x["x0"] >= label_x_max],
-                         centers, fuzzy, conflicts=conflicts)
+                         centers, fuzzy, conflicts=conflicts,
+                         token_repairs=token_repairs)
     for (r_idx, col), val in cells.items():
         rows[r_idx]["cells"][col] = val
     return {"precinct_centers": centers, "table_top": table_top, "rows": rows,
@@ -667,10 +799,11 @@ def label_rows(lines, table_top, label_x_max, fuzzy=False):
     Row dicts carry top/bottom so assign_cells can band them; office rows
     carry "raw" (the exact label text consumed so a continuation joins
     faithfully) and an empty "cells" map (dict-shape symmetry with
-    candidate rows). Candidate "candidate" text gets LABEL_REPAIRS applied
-    to its words (the party token is identified on the raw text before
-    repair); a header joined from a held-back fragment gets the completing
-    line's top."""
+    candidate rows). LABEL_REPAIRS applies word-wise to the classification
+    text of every label line (candidate names AND office headers: Warren
+    p2/p4's "United states-senatel" and p4's left-clipped "ancery Court ..."
+    are office-label mangles); a header joined from a held-back fragment
+    gets the completing line's top."""
     rows = []
     current_office = None
     last_candidate = None
@@ -682,7 +815,7 @@ def label_rows(lines, table_top, label_x_max, fuzzy=False):
         if not label_words:
             continue
         above_table = ln["top"] < table_top
-        text = " ".join(x["text"] for x in label_words)
+        text = _repair_label(" ".join(x["text"] for x in label_words))
         # 1) office header, alone or joined from a split first fragment
         office = parse_office(text, fuzzy)
         if office is None and pending_header is not None:
@@ -819,8 +952,16 @@ def label_rows(lines, table_top, label_x_max, fuzzy=False):
     return rows
 
 
-def assign_cells(rows, numeric_words, centers, fuzzy=False, conflicts=None):
+def assign_cells(rows, numeric_words, centers, fuzzy=False, conflicts=None,
+                 token_repairs=None):
     """Map (row_index, column_center) -> votes by row y-band overlap.
+
+    `fuzzy` repairs digit-shaped OCR confusions; `token_repairs` (an
+    operator-manifest map of mangled token -> printed value, render-verified
+    per page) applies first and only here, to tokens already chosen because
+    they sit in a numeric column -- label text and prose never see it, and
+    a replacement that fails the digit shape is ignored (the cell drops and
+    the row's printed-TOTAL gate flags the loss).
 
     A numeric word attaches to the candidate row whose y band contains its
     vertical center -- band = [row top - CELL_BAND_TOP, row bottom +
@@ -852,7 +993,16 @@ def assign_cells(rows, numeric_words, centers, fuzzy=False, conflicts=None):
         col = min(centers, key=lambda c: abs(c - word["x0"]))
         if abs(col - word["x0"]) > COL_TOL:
             continue
-        cleaned = digit_clean(word["text"], fuzzy)
+        raw = word["text"]
+        cleaned = digit_clean(raw, fuzzy)
+        # the manifest's render-verified replacement wins over the token it
+        # repairs -- INCLUDING tokens that already read digit-shaped (p3's
+        # phantom '1' rides inside '5821'); a replacement that is not
+        # itself a clean digit run is ignored, and the original token's
+        # own fate decides.
+        replacement = (token_repairs or {}).get(raw)
+        if replacement is not None and DIGIT_RE.match(replacement):
+            cleaned = replacement
         if not DIGIT_RE.match(cleaned):
             continue
         mid = (word["top"] + word["bottom"]) / 2.0
@@ -879,6 +1029,44 @@ TOTAL_NAME = "TOTAL"
 
 MANIFEST_REQUIRED_KEYS = ("county", "source", "total_label", "pages")
 
+# Optional manifest keys mapping page lists to behavior:
+#   local_only_pages: pages the operator declares out of scope (local-race
+#     recap pages; the no-local-offices convention keeps them unextracted
+#     and unassembled, recorded under pd["skipped_local_pages"]).
+#   carry_pages: pages whose FIRST rows continue the section the previous
+#     page ended on instead of opening a new one -- the manifest-declared
+#     answer to an ambiguity no in-page heuristic can settle (Warren p5/p6/p7:
+#     the Circuit Court 9-2 row prints at the top of the next page group,
+#     ahead of the local zone's first header box).
+MANIFEST_OPTIONAL_LIST_KEYS = ("local_only_pages", "carry_pages")
+
+# Optional manifest key for cell-token repairs, keyed per page:
+#   "cell_token_repairs": {"<page>": {"<mangled token>": "<printed value>"}}
+# Only tokens already bound to a numeric column pass through it (Task 7's
+# evidence: Warren p3's phantom '1' glyph rides inside '5821'/'2731' and the
+# page's Times-Italic glyphs print "484" while decoding "AO."), and every
+# applied replacement faces the row's printed-TOTAL gate like any other cell.
+MANIFEST_REPAIRS_KEY = "cell_token_repairs"
+
+
+def manifest_numbers(manifest, key):
+    """Int page numbers declared under manifest[key] (list of page strings or
+    ints). A missing or shape-bad value degrades to an empty set -- the shape
+    problem is load_manifest's record, this is only the tolerant reader."""
+    entries = manifest.get(key) if isinstance(manifest, dict) else None
+    if not isinstance(entries, list) or isinstance(entries, (str, bytes)):
+        return set()
+    out = set()
+    for entry in entries:
+        if isinstance(entry, int) and not isinstance(entry, bool):
+            out.add(entry)
+            continue
+        try:
+            out.add(int(str(entry)))
+        except (TypeError, ValueError):
+            continue
+    return out
+
 
 def load_manifest(path):
     """Load + validate an operator header manifest. Returns (manifest, problems).
@@ -886,10 +1074,12 @@ def load_manifest(path):
     `pages` maps 1-based page-number strings to that page's header labels
     left-to-right (exactly one entry equals `total_label` where the page
     carries a TOTAL column) and must be a dict of label-lists of strings;
-    `total_label` must be a non-empty string. Label truncations are the
-    operator's to resolve; problems here are only missing required keys and
-    {"kind": "manifest_shape", "key": ...} shape errors -- alignment
-    problems are the assembly's (see normalize_page_labels / run_gates)."""
+    `total_label` must be a non-empty string; each of local_only_pages /
+    carry_pages, when present, must be a list of page numbers. Label
+    truncations are the operator's to resolve; problems here are only
+    missing required keys and {"kind": "manifest_shape", "key": ...} shape
+    errors -- alignment problems are the assembly's (see
+    normalize_page_labels / run_gates)."""
     with open(path) as fh:
         manifest = json.load(fh)
     problems = [{"kind": "manifest_missing_key", "key": key}
@@ -909,11 +1099,74 @@ def load_manifest(path):
              for label in (labels or [])):
         problems.append({"kind": "manifest_shape", "key": "pages",
                          "problem": "every manifest label must be a string"})
+    for key in MANIFEST_OPTIONAL_LIST_KEYS:
+        if key in manifest and (not isinstance(manifest[key], list)
+                                or isinstance(manifest[key], (str, bytes))):
+            problems.append({"kind": "manifest_shape", "key": key,
+                             "problem": f"{key} must be a list of page "
+                                        "numbers, got "
+                                        f"{type(manifest[key]).__name__}"})
+        elif (key in manifest
+              and any(not isinstance(n, (str, int)) for n in manifest[key])):
+            problems.append({"kind": "manifest_shape", "key": key,
+                             "problem": f"{key} entries must be page "
+                                        "numbers (string or int)"})
+    repairs = manifest.get(MANIFEST_REPAIRS_KEY)
+    if MANIFEST_REPAIRS_KEY in manifest:
+        bad = None
+        if not isinstance(repairs, dict) or isinstance(repairs, list):
+            bad = ("must be a dict of page -> {mangled token: printed value},"
+                   f" got {type(repairs).__name__}")
+        elif any(not isinstance(m, dict) for m in repairs.values()):
+            bad = "every page's repairs must be a dict of token -> value"
+        elif any(not isinstance(tok, str) or not isinstance(val, str)
+                 for page_repairs in repairs.values()
+                 for tok, val in page_repairs.items()):
+            bad = "every repair must map a mangled token string to a value string"
+        if bad:
+            problems.append({"kind": "manifest_shape",
+                             "key": MANIFEST_REPAIRS_KEY, "problem": bad})
     total_label = manifest.get("total_label")
     if not isinstance(total_label, str) or not total_label.strip():
         problems.append({"kind": "manifest_shape", "key": "total_label",
                          "problem": "total_label must be a non-empty string"})
     return manifest, problems
+
+
+def page_token_repairs(manifest, number):
+    """The manifest's render-verified cell-token repairs for one page
+    (manifest["cell_token_repairs"]["<number>"]), or {} -- a shape-bad or
+    absent declaration degrades to no repairs; load_manifest records the
+    shape problem and the gates hold the county at write time."""
+    repairs = manifest.get(MANIFEST_REPAIRS_KEY) \
+        if isinstance(manifest, dict) else None
+    if not isinstance(repairs, dict):
+        return {}
+    page_repairs = repairs.get(str(number))
+    if not isinstance(page_repairs, dict):
+        return {}
+    return page_repairs
+
+
+def narrow_retry_numbers(manifest):
+    """Manifest-declared TABLE page numbers a min_columns=2 retry may target:
+    keys present in manifest["pages"], minus the local-only pages. A narrow
+    page's data lines carry too few numeric tokens for find_table_top's
+    default (Warren p4/p7: Porters Chapel + TOTAL); the retry is bounded to
+    declared pages so an undeclared page's prose can never table-top."""
+    pages = manifest.get("pages")
+    if not isinstance(pages, dict):
+        return set()
+    local_only = manifest_numbers(manifest, "local_only_pages")
+    out = set()
+    for key in pages:
+        try:
+            n = int(str(key))
+        except ValueError:
+            continue
+        if n not in local_only:
+            out.add(n)
+    return out
 
 
 def normalize_page_labels(labels, total_label):
@@ -1007,15 +1260,26 @@ def parse_county_from_pages(pages, county, manifest):
     TOTAL: a blank body cell is a 0 only when the row's recorded total equals
     the sum of its present cells (the source's own arithmetic proves the
     blanks); otherwise the cells stay missing and run_gates flags them.
+
+    Local-only pages: manifest["local_only_pages"] pages the operator
+    declares out of scope (local-race recaps under the no-local-offices
+    convention) are SKIPPED -- never extracted by parse_county_pdf, and not
+    assembled if a caller hands them in; each is recorded under
+    pd["skipped_local_pages"] ({page, labels, reason}) and, unlike a
+    declared TABLE page that fails extraction, is never reported as
+    "page_missing". Their absence is therefore never a gate problem: the
+    declaration itself is the scope decision.
     """
     if isinstance(manifest, str):
         manifest, mproblems = load_manifest(manifest)
     else:
         mproblems = []
+    local_only = manifest_numbers(manifest, "local_only_pages")
     manifest_problems = list(mproblems)
     structure_problems = []
     conflicts = []
     dropped_local_rows = []
+    skipped_local_pages = []
     total_label = manifest.get("total_label") or TOTAL_NAME
     # A recorded-bad pages shape degrades to page_unlabeled for every
     # extracted page plus the manifest_shape record -- loud but never an
@@ -1037,6 +1301,8 @@ def parse_county_from_pages(pages, county, manifest):
     alignments = {}
     for key in sorted(pages, key=sort_key):
         pno = page_no(key)
+        if pno in local_only:
+            continue  # declared out of scope: recorded below, never assembled
         if pno is None or key not in manifest_pages:
             manifest_problems.append({"kind": "page_unlabeled", "page": str(key)})
             continue
@@ -1061,7 +1327,11 @@ def parse_county_from_pages(pages, county, manifest):
                 by_center[center] = names[pos] if pos < len(names) else None
         alignments[pno] = {"names_by_center": by_center}
     for key in sorted(manifest_pages, key=sort_key):
-        if key not in pages:
+        if page_no(key) in local_only:
+            skipped_local_pages.append({"page": page_no(key),
+                                        "labels": manifest_pages[key] or [],
+                                        "reason": "local_only"})
+        elif key not in pages:
             manifest_problems.append({"kind": "page_missing", "page": page_no(key)})
 
     all_names = sorted({name for al in alignments.values()
@@ -1091,6 +1361,7 @@ def parse_county_from_pages(pages, county, manifest):
     pending = None        # carry value decided at this page's boundary
     end_context = None    # office context in force at the end of the last page
     last_carry_used = None  # carry the previous page actually applied
+    carry_numbers = manifest_numbers(manifest, "carry_pages")
     first_page = True
     for key in sorted(pages, key=sort_key):
         pno = page_no(key)
@@ -1106,6 +1377,19 @@ def parse_county_from_pages(pages, county, manifest):
                 break
         if first_page:
             pending = None
+        elif pno in carry_numbers:
+            # manifest-declared carried opening: this page's FIRST rows
+            # continue the section the previous page ended on, and the carry
+            # refreshes exactly as a repeating group's does -- even though a
+            # local-race header sits inside the page's stream after them
+            # (Warren p5/p6/p7: Circuit Court 9-2's row prints at the top of
+            # the next page group, ahead of the local zone's first header
+            # box). No in-page signal distinguishes "opening rows continue a
+            # section" from "opening rows are local-zone furniture", so the
+            # operator declares the pages; undeclared pages keep the rule
+            # below.
+            pending = last_carry_used if last_carry_used is not None \
+                else end_context
         elif (first_context_pos is not None
               and rows[first_context_pos].get("kind") == "unknown_header"
               and first_context_pos < len(rows) - 1):
@@ -1143,8 +1427,16 @@ def parse_county_from_pages(pages, county, manifest):
                 continue
             office, district, seat = (row.get("office"), row.get("district"),
                                       row.get("seat"))
-            if office is None and not own_context and pending is not None:
-                office, district, seat = pending  # cross-page carry
+            if (office is None and not own_context and pending is not None
+                    and row.get("cells")):
+                # cross-page carry. The carry attributes DATA (a repeating
+                # group's continuation rows, Union p5's Malski, Warren p5-p7's
+                # Circuit 9-2 row): a row that captured no cell has nothing
+                # to attribute and is not roster data -- invisible-layer
+                # remnants of exactly this shape (Warren p7 prints a lone
+                # 'i' word whose neighbors rows carry the data) drop to
+                # dropped_local_rows instead of entering the carried race.
+                office, district, seat = pending
                 if first_carry_used is None:
                     first_carry_used = pending
             if office is None:
@@ -1185,11 +1477,17 @@ def parse_county_from_pages(pages, county, manifest):
                     conflicts.append({"kind": "conflicting_cells", "page": pno,
                                       "candidate": row.get("candidate"),
                                       "precinct": target, "values": [first, val]})
-            name_key = re.sub(r"\s+", " ", row.get("candidate") or "").strip().lower()
-            entries.append((idx, (office, district, seat, name_key),
+            # the merged row's candidate spelling: the word layer keeps the
+            # print's jitter ("Ron  Eller " -- doubled internal spaces, a
+            # trailing space from the party-token split) so the candidate
+            # name is normalized once here; name_key (shared with the writer)
+            # additionally folds the punctuation variants the text layers
+            # render.
+            cand_name = NAME_WS_RE.sub(" ", row.get("candidate") or "").strip()
+            entries.append((idx, (office, district, seat, name_key(cand_name)),
                             {"kind": "candidate", "office": office,
                              "district": district, "seat": seat,
-                             "candidate": row.get("candidate"),
+                             "candidate": cand_name,
                              "party": row.get("party"), "cells": cells,
                              "total": total, "orphan_cells": orphans,
                              "page": pno}))
@@ -1253,6 +1551,7 @@ def parse_county_from_pages(pages, county, manifest):
             "precinct_names": all_names,
             "candidate_rows": candidate_rows,
             "dropped_local_rows": dropped_local_rows,
+            "skipped_local_pages": skipped_local_pages,
             "conflicts": conflicts,
             "manifest_problems": manifest_problems,
             "structure_problems": structure_problems,
@@ -1264,18 +1563,39 @@ def parse_county_from_pages(pages, county, manifest):
 def parse_county_pdf(pdf_path, county, manifest_path, fuzzy=False):
     """Whole-county parse under an operator header manifest (Amendment A).
 
-    Extracts every table page (natural_pdf stays lazily imported so the
-    module imports without it), assembles them through
+    Extracts the manifest's table pages (natural_pdf stays lazily imported
+    so the module imports without it), assembles them through
     parse_county_from_pages (the manifest is used ONLY there), and prepends
     the manifest load problems. Returns parse_county_from_pages' dict plus
     pd["page_count"]. Raises ValueError when the PDF yields no table pages
-    at all (gate results on an empty parse would look vacuously clean)."""
+    at all (gate results on an empty parse would look vacuously clean).
+
+    Two manifest-driven behaviors scope what is extracted, both bound to
+    pages the manifest declares so undeclared pages can never shape the
+    parse:
+
+    * local-only pages (manifest["local_only_pages"]) are never extracted:
+      the operator declares them out of scope, and their absence is not a
+      gate problem (see parse_county_from_pages' skipped_local_pages);
+    * a declared table page that find_table_top's default 3-column floor
+      drops gets ONE retry at min_columns=2 (narrow_retry_numbers): Warren
+      p4/p7 print only "Porters Chapel" + TOTAL, so a data line carries two
+      numeric tokens; the retry never touches undeclared or local-only
+      pages."""
     from natural_pdf import PDF  # lazy
     manifest, mproblems = load_manifest(manifest_path)
+    local_only = manifest_numbers(manifest, "local_only_pages")
+    may_narrow_retry = narrow_retry_numbers(manifest)
     pdf = PDF(str(pdf_path))
     pages = {}
     for i, page in enumerate(pdf.pages, start=1):
-        tp = extract_table_page(page, fuzzy)
+        if i in local_only:
+            continue  # manifest-declared out of scope; recorded at assembly
+        page_repairs = page_token_repairs(manifest, i)
+        tp = extract_table_page(page, fuzzy, token_repairs=page_repairs)
+        if tp is None and i in may_narrow_retry:
+            tp = extract_table_page(page, fuzzy, min_columns=2,
+                                    token_repairs=page_repairs)
         if tp is not None:
             pages[str(i)] = tp
     if not pages:
@@ -1403,10 +1723,11 @@ def multi_seat_keys(pd):
 
 def _merge_key(row):
     """Ballot-order identity: same tuple parse_county_from_pages merges on
-    (its name_key collapses internal whitespace before lowering) -- so the
-    index built from it is each merged candidate row's first-seen position."""
+    (name_key -- the shared fold map, punctuation variants included) -- so
+    the index built from it is each merged candidate row's first-seen
+    position."""
     return (row["office"], row["district"], row.get("seat"),
-            re.sub(r"\s+", " ", row.get("candidate") or "").strip().lower())
+            name_key(row.get("candidate")))
 
 
 def write_precinct_csv(pd, out_path):
@@ -1433,9 +1754,12 @@ def write_precinct_csv(pd, out_path):
     * a row inside such a key without a seat number (a lost seat-carry
       fragment -- Task 3/R1's fuzzy seat-equality carry on Jasper/Lee),
     * two distinct (office, district, seat) races resolving to ONE final
-      (label, district), which additionally catches a total seat loss or a
-      qualifier folded into the office name on one page of an otherwise
-      seat-carrying race."""
+      (label, district), which additionally catches a qualifier folded into
+      the office name (or a seat/district drift) on one page of an otherwise
+      seat-carrying race. It does NOT catch total seat loss -- both races of
+      a two-place race could each lose their qualifier and still write one
+      bare label each; that residual is Task 9's cross-county roster gate
+      comparing at the (office, district) family level."""
     import csv
     multi = multi_seat_keys(pd)
     order_index = {}
