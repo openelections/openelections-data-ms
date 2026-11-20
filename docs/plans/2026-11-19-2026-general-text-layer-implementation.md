@@ -1734,3 +1734,21 @@ Task 9 opening carries (quality review):
 7. Register `operator_provenance` as a free-text convention in the constants
    block (unread by the parser).
 8. Merge the duplicate extraction_floors test pair.
+
+## Task 9 close-out (2026-11-20, final re-review)
+
+Approved after one fix round (92c699b): shared `page_number` guard+parse in
+all manifest key-blocks (every bad key recorded, no crash); vacuous `--only`
+refused (exit 2, status.json untouched); diagnosis-writes recorded honestly
+(`written_with_gate_failures`, excluded from all_passed); the notes report's
+arithmetic phrasing fixed; roster-gate blind spots documented. 198 tests
+green; all four CSVs regenerate byte-identical through the batch runner.
+
+Carried quality notes (no action required): runner FAILED-summary sentence
+reads as AND but the condition is an OR (one-line reword candidate);
+`(first,) = ...` idiom; resume skips a diagnosis-write county as cached
+PASSED (status record discloses it); `select_counties` test-only; loader
+accepts non-ASCII digit glyph page keys via the pages-map loop (meets
+loudly downstream); `verifier.py`'s static office/party whitelists
+false-positive on the 2026 judicial labels (`Chancery Court Place N`,
+`Court of Appeals Position N`) — expected when re-running it on these files.
