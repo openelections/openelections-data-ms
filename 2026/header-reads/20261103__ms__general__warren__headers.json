@@ -9,6 +9,7 @@
   "truncation_note": "Medgar Foundation, Eagle Lake Methodist, International Paper are page-edge truncations in the 2026 general recap; full names taken from the same county's 2026 primary precinct file (20260310__ms__primary__warren__precinct.csv), whose printed names match every truncated prefix. Yokena verified by 600 dpi zoom (matches the 2024 general spelling as well); 'Life' is complete (narrow column).",
   "local_note": "p5/p6 carry only local-office rows (County Court Judge, etc.), which are out of scope per the no-local-offices convention; they are recorded for completeness. Some local cells print 'X' (non-numeric).",
   "total_label": "TOTAL",
+  "local_only_pages": ["5", "6"],
   "pages": {
     "2": ["Ridgeway", "Bovina", "Gibson", "Oakland", "Medgar Foundation", "Elizabeth Circle", "Kings", "Spring Hill", "Auditorium", "Eagle Lake Methodist", "International Paper"],
     "3": ["Calvary Indiana", "American Legion", "Travelers Rest", "Plumbers & Pipefitters", "Immanuel", "Goodrum", "Yokena", "Elks Lodge", "Calvary Old 27", "Life", "Lee Rd Fire"],
