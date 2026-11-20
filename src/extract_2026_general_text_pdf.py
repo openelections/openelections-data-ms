@@ -543,7 +543,6 @@ def _repair_label(text):
     return " ".join(LABEL_REPAIRS.get(tok, tok) for tok in text.split(" "))
 
 
-
 def _is_wrap_token(token):
     """True for a token that may appear on a wrapped office-label line:
     a qualifier word (exact or, for the mangled OCR layers, near-exact),
@@ -942,7 +941,7 @@ def label_rows(lines, table_top, label_x_max, fuzzy=False):
                 "office": current_office["office"] if current_office else None,
                 "district": current_office["district"] if current_office else None,
                 "seat": current_office["seat"] if current_office else None,
-                "candidate": " ".join(LABEL_REPAIRS.get(tok, tok) for tok in tokens),
+                "candidate": _repair_label(" ".join(tokens)),
                 "party": party,
                 "top": ln["top"], "bottom": max(x["bottom"] for x in label_words),
                 "cells": {}}
@@ -1075,17 +1074,22 @@ def load_manifest(path):
     left-to-right (exactly one entry equals `total_label` where the page
     carries a TOTAL column) and must be a dict of label-lists of strings;
     `total_label` must be a non-empty string; each of local_only_pages /
-    carry_pages, when present, must be a list of page numbers. Label
-    truncations are the operator's to resolve; problems here are only
-    missing required keys and {"kind": "manifest_shape", "key": ...} shape
-    errors -- alignment problems are the assembly's (see
-    normalize_page_labels / run_gates)."""
+    carry_pages, when present, must be a list of page numbers, and every
+    entry -- in those two lists and in every cell_token_repairs page key --
+    must reference a page the manifest declares under `pages` (a declaration
+    naming an undeclared page cannot bind to anything and is recorded as a
+    {"kind": "manifest_shape"} problem; the tolerant readers ignore it, the
+    gates hold the county at write time). Label truncations are the
+    operator's to resolve; problems here are only missing required keys and
+    {"kind": "manifest_shape", "key": ...} shape errors -- alignment
+    problems are the assembly's (see normalize_page_labels / run_gates)."""
     with open(path) as fh:
         manifest = json.load(fh)
     problems = [{"kind": "manifest_missing_key", "key": key}
                 for key in MANIFEST_REQUIRED_KEYS if key not in manifest]
     page_map = manifest.get("pages")
-    if not isinstance(page_map, dict):
+    pages_shape_bad = not isinstance(page_map, dict)
+    if pages_shape_bad:
         problems.append({"kind": "manifest_shape", "key": "pages",
                          "problem": "pages must be a dict of "
                                     "page-number -> label-list, got "
@@ -1112,6 +1116,26 @@ def load_manifest(path):
                              "problem": f"{key} entries must be page "
                                         "numbers (string or int)"})
     repairs = manifest.get(MANIFEST_REPAIRS_KEY)
+    declared = set()
+    if not pages_shape_bad:
+        for key in page_map:
+            try:
+                declared.add(int(str(key)))
+            except ValueError:
+                continue
+
+    def undeclared_pages(numbers):
+        return [n for n in numbers if int(n) not in declared]
+
+    for key in MANIFEST_OPTIONAL_LIST_KEYS:
+        if pages_shape_bad or key not in manifest:
+            continue
+        missing = undeclared_pages(manifest_numbers(manifest, key))
+        if missing:
+            problems.append({"kind": "manifest_shape", "key": key,
+                             "problem": "page "
+                                        + ", ".join(str(m) for m in missing)
+                                        + " not declared under pages"})
     if MANIFEST_REPAIRS_KEY in manifest:
         bad = None
         if not isinstance(repairs, dict) or isinstance(repairs, list):
@@ -1126,6 +1150,15 @@ def load_manifest(path):
         if bad:
             problems.append({"kind": "manifest_shape",
                              "key": MANIFEST_REPAIRS_KEY, "problem": bad})
+        elif not pages_shape_bad:
+            missing = undeclared_pages(
+                int(str(k)) for k in repairs if str(k).strip())
+            if missing:
+                problems.append({
+                    "kind": "manifest_shape", "key": MANIFEST_REPAIRS_KEY,
+                    "problem": "page "
+                               + ", ".join(str(m) for m in missing)
+                               + " not declared under pages"})
     total_label = manifest.get("total_label")
     if not isinstance(total_label, str) or not total_label.strip():
         problems.append({"kind": "manifest_shape", "key": "total_label",
@@ -1846,6 +1879,7 @@ def main(argv=None):
     print(f"{args.county}: {len(pd['candidate_rows'])} candidate rows, "
           f"{len(pd['precinct_names'])} precincts, "
           f"{len(pd.get('dropped_local_rows', []))} local rows dropped, "
+          f"{len(pd.get('skipped_local_pages', []))} skipped local pages, "
           f"{n_bad} gate problem(s)")
     if n_bad == 0:
         write_precinct_csv(pd, args.out)

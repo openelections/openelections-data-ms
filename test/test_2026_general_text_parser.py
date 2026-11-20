@@ -3,8 +3,10 @@
 Pure-function tests run everywhere. Integration tests read the real PDFs in
 ~/code/openelections-sources-ms/ and are skipped when that checkout is absent.
 """
+import io
 import json
 import os
+import re
 import sys
 import unittest
 from pathlib import Path
@@ -1747,10 +1749,6 @@ class LocalOnlyPageTests(unittest.TestCase):
         self.assertEqual(pd["candidate_rows"][0]["candidate"], "A")
 
 
-if __name__ == "__main__":
-    unittest.main()
-
-
 class CellHeightFloorTests(unittest.TestCase):
     """Task 7 evidence: Warren carries an invisible overlay glyph layer; its
     digit-looking runs are ~1.7pt tall against ~8.6pt data digits. p3's Eller
@@ -2069,6 +2067,7 @@ class CarriedGroupJunkRowTests(unittest.TestCase):
                          {"P1": 6, "P2": 6, "P3": 6})
 
 
+@unittest.skipUnless(SOURCES_PRESENT, "sources checkout not present")
 class WarrenCountyTests(unittest.TestCase):
     """Task 7 end-to-end on the real Warren PDF under the corrected manifest:
     structure, per-candidate printed totals, roster, and the cross-county
@@ -2158,6 +2157,153 @@ class WarrenCountyTests(unittest.TestCase):
                   for r in self.pd["candidate_rows"]
                   if r["office"] == "U.S. Senate"}
         self.assertEqual(warren, union_roster)
+
+
+class SuiteHygieneTests(unittest.TestCase):
+    """Task 7 re-review carries: structural pins for the test file itself.
+
+    The integration classes must skip (not error) on machines without the
+    sources checkout, and direct execution must collect every test class.
+    """
+
+    INTEGRATION_CLASSES = ("UnionPage2Tests", "UnionCountyTests",
+                           "WarrenCountyTests")
+
+    def test_integration_classes_skip_without_sources(self):
+        with open(__file__, encoding="utf-8") as fh:
+            lines = fh.read().splitlines()
+        for name in self.INTEGRATION_CLASSES:
+            idx = next(i for i, l in enumerate(lines)
+                       if l.startswith(f"class {name}("))
+            self.assertTrue(
+                lines[idx - 1].strip().startswith(
+                    "@unittest.skipUnless(SOURCES_PRESENT"),
+                f"{name} must be decorated @unittest.skipUnless so a machine "
+                f"without the sources checkout skips it instead of erroring "
+                f"(line {idx})")
+
+    def test_single_trailing_main_block(self):
+        with open(__file__, encoding="utf-8") as fh:
+            source = fh.read()
+        block = 'if __name__ == "__main__":\n    unittest.main()'
+        self.assertEqual(1, source.count(block),
+                         "the stale mid-file __main__ block makes direct "
+                         "execution run only the tests defined above it")
+        self.assertLess(source.rindex("\nclass "),
+                        source.index(block),
+                        "the __main__ block must come after every test class")
+
+
+class ManifestDeclarationTests(unittest.TestCase):
+    """Task 8 mechanics: carry_pages / local_only_pages / cell_token_repairs
+    declarations must reference pages the manifest declares under "pages" --
+    a declaration naming an undeclared page cannot bind to anything and is
+    recorded as a manifest_shape problem (it degrades harmlessly: the
+    tolerant readers ignore it, the gates hold the county at write time)."""
+
+    BASE = {"county": "Synth", "source": "x.pdf",
+            "election_date": "2026-11-03", "read_by": "operator-vision",
+            "date": "2026-11-19", "total_label": "TOTAL",
+            "pages": {"2": ["P1", "TOTAL"]}}
+
+    def setUp(self):
+        import tempfile
+        tmp = tempfile.TemporaryDirectory()
+        self.addCleanup(tmp.cleanup)
+        self._tmpdir = tmp.name
+
+    def path(self, extra):
+        manifest = dict(self.BASE)
+        manifest.update(extra)
+        path = os.path.join(self._tmpdir, "m.json")
+        with open(path, "w") as fh:
+            json.dump(manifest, fh)
+        return path
+
+    def page(self, p1, total):
+        return {"precinct_centers": [246.0, 291.0], "table_top": 200.0,
+                "rows": [{"kind": "candidate", "candidate": "A",
+                          "party": "DEM", "office": "U.S. Senate",
+                          "district": "", "seat": None,
+                          "top": 200.0, "bottom": 208.0,
+                          "cells": {246.0: p1, 291.0: total}}],
+                "conflicts": []}
+
+    def test_undeclared_carry_page_recorded(self):
+        manifest, problems = ex.load_manifest(self.path({"carry_pages": ["9"]}))
+        self.assertEqual([p for p in problems
+                          if p["kind"] == "manifest_shape"
+                          and p["key"] == "carry_pages"],
+                         [{"kind": "manifest_shape", "key": "carry_pages",
+                           "problem": "page 9 not declared under pages"}])
+
+    def test_undeclared_local_only_page_recorded(self):
+        manifest, problems = ex.load_manifest(
+            self.path({"local_only_pages": ["5"]}))
+        self.assertEqual([p for p in problems
+                          if p["kind"] == "manifest_shape"
+                          and p["key"] == "local_only_pages"],
+                         [{"kind": "manifest_shape", "key": "local_only_pages",
+                           "problem": "page 5 not declared under pages"}])
+
+    def test_undeclared_repair_page_recorded(self):
+        manifest, problems = ex.load_manifest(
+            self.path({"cell_token_repairs": {"4": {"AO.": "484"}}}))
+        self.assertEqual([p for p in problems
+                          if p["kind"] == "manifest_shape"
+                          and p["key"] == "cell_token_repairs"],
+                         [{"kind": "manifest_shape", "key": "cell_token_repairs",
+                           "problem": "page 4 not declared under pages"}])
+
+    def test_declared_pages_stay_clean(self):
+        manifest, problems = ex.load_manifest(
+            self.path({"local_only_pages": ["2"],
+                       "carry_pages": [2],
+                       "cell_token_repairs": {"2": {"AO.": "484"}}}))
+        self.assertEqual([p for p in problems
+                          if p.get("kind") == "manifest_shape"], [])
+
+    def test_degrades_harmlessly_through_the_assembly(self):
+        pd = ex.parse_county_from_pages(
+            {"2": self.page(5, 5)}, "Synth",
+            self.path({"local_only_pages": ["5"], "carry_pages": ["5"],
+                       "cell_token_repairs": {"5": {"AO.": "484"}}}))
+        self.assertEqual(pd["manifest_problems"][0]["kind"], "manifest_shape")
+        self.assertEqual(pd["candidate_rows"][0]["candidate"], "A")
+        self.assertEqual(ex.run_gates(pd)["total_mismatches"], [])
+
+
+class CliSummaryTests(unittest.TestCase):
+    """The CLI summary line reports the skipped-local-page count alongside
+    the dropped-local-row count (Task 8 mechanics)."""
+
+    @unittest.skipUnless(SOURCES_PRESENT, "sources checkout not present")
+    def test_summary_line_includes_skipped_local_pages(self):
+        import contextlib
+        import tempfile
+        tmp = tempfile.TemporaryDirectory()
+        self.addCleanup(tmp.cleanup)
+        out = os.path.join(tmp.name, "union.csv")
+        stdout = io.StringIO()
+        with contextlib.redirect_stdout(stdout):
+            rc = ex.main([os.path.join(SOURCES_DIR,
+                                       "Union_County_2026_general.pdf"),
+                          "--county", "Union",
+                          "--manifest", os.path.join(
+                              REPO, "2026/header-reads/"
+                              "20261103__ms__general__union__headers.json"),
+                          "--out", out])
+        self.assertEqual(rc, 0)
+        lines = stdout.getvalue().splitlines()
+        summary = [l for l in lines if l.startswith("Union: ")][0]
+        self.assertIn("2 local rows dropped", summary, summary)
+        self.assertIn("0 skipped local pages", summary, summary)
+        self.assertIn("0 gate problem(s)", summary, summary)
+        m = re.match(
+            r"^Union: (\d+) candidate rows, (\d+) precincts, "
+            r"(\d+) local rows dropped, (\d+) skipped local pages, "
+            r"(\d+) gate problem\(s\)$", summary)
+        self.assertIsNotNone(m, summary)
 
 
 if __name__ == "__main__":
