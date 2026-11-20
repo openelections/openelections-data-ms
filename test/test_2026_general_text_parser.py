@@ -268,6 +268,29 @@ class LabelTests(unittest.TestCase):
         self.assertEqual(ex.parse_office("Chancery Court 3- Chancery Destrict 3", fuzzy=True),
                          ("Chancery Court", "3", None))
 
+    def test_judicial_family_parsing(self):
+        # Real label spellings (Warren p2/p3; Union p4/p5). The double-dash
+        # family pairs district-place twice ("Court 9-2-... District 9-2");
+        # the place is the second number of the first pair, or the Place
+        # slot when one prints.
+        self.assertEqual(ex.parse_office("Chancery Court 9-2-Chancery District 9-2"),
+                         ("Chancery Court", "9", 2))
+        self.assertEqual(ex.parse_office("Circuit Court 9-1-Circuit District 9-1"),
+                         ("Circuit Court", "9", 1))
+        self.assertEqual(ex.parse_office("Circuit Court 9-2-Circuit District 9-2"),
+                         ("Circuit Court", "9", 2))
+        self.assertEqual(ex.parse_office("Circuit Court 3-Circuit District 03 Place 1"),
+                         ("Circuit Court", "3", 1))
+        self.assertEqual(ex.parse_office("Circuit Court 3-Circuit District 03 Place 3"),
+                         ("Circuit Court", "3", 3))
+        self.assertEqual(ex.parse_office("Circuit Court 3-Circuit District 03"),  # no place
+                         ("Circuit Court", "3", None))
+
+    def test_judicial_family_fuzzy_rescue(self):
+        # OCR-layer mangles, same digit-fallback logic as the Chancery branch.
+        self.assertEqual(ex.parse_office("Circult Court 3-Circult Destrict 03 Place 1",
+                                         fuzzy=True), ("Circuit Court", "3", 1))
+
     def test_office_empty_label_is_none(self):
         self.assertIsNone(ex.parse_office(""))
 
@@ -305,21 +328,37 @@ class CellAssignmentTests(unittest.TestCase):
         cells = ex.assign_cells(rows, [w("3", 100.0, 205.0)], [246.0])
         self.assertEqual(cells, {})
 
+    def test_conflict_last_wins_recorded(self):
+        # Two numeric words claim the same (row, column) within one band:
+        # the LAST word wins, and the overwrite is reported. Real Warren p3
+        # fires this (row 5 / Ron Eller: '76' and '1' both band onto the same
+        # column at 333.12) -- before the conflicts list it was silent.
+        rows = [{"kind": "candidate", "candidate": "A", "top": 200.0, "bottom": 212.0}]
+        conflicts = []
+        cells = ex.assign_cells(rows, [w("76", 328.0, 205.0), w("1", 338.0, 205.5)],
+                                [333.12], conflicts=conflicts)
+        self.assertEqual(cells, {(0, 333.12): 1})
+        self.assertEqual(conflicts, [[0, 333.12, 76, 1]])
+
 
 class LabelRowTests(unittest.TestCase):
     def make_lines(self, line_specs):
         """line_specs: list of (text, top) pairs rendered as label-band words."""
         words = []
-        for i, (text, top) in enumerate(line_specs):
+        for text, top in line_specs:
             x = 45.0
             for tok in text.split(" "):
-                words.append(w(tok, x, top + (i % 1)))
+                words.append(w(tok, x, top))
                 x += len(tok) * 5 + 4
         return words
 
     def run_rows(self, line_specs, label_x_max=240.0, fuzzy=False):
         return ex.label_rows(ex.lines_from_words(self.make_lines(line_specs)),
                              table_top=150.0, label_x_max=label_x_max, fuzzy=fuzzy)
+
+    def run_rows_at(self, line_specs, table_top, label_x_max=240.0, fuzzy=False):
+        return ex.label_rows(ex.lines_from_words(self.make_lines(line_specs)),
+                             table_top=table_top, label_x_max=label_x_max, fuzzy=fuzzy)
 
     def test_office_then_candidates_with_party_lines(self):
         rows = self.run_rows([
@@ -440,6 +479,82 @@ class LabelRowTests(unittest.TestCase):
                          [("Scott Colom", "DEM")])
 
 
+    def test_judicial_headers_become_offices(self):
+        # A double-dash judicial label flows exactly like the other families:
+        # header row, then its candidates carry THAT office (Warren p2:
+        # Vicki Roach Barnes / Penny B. Lawson ran under Chancery 9-2 before
+        # the fix wrongly attributed them to Court of Appeals).
+        rows = self.run_rows([
+            ("Chancery Court 9-2-Chancery District 9-2", 160.0),
+            ("Vicki  Roach  Barnes  Nonpartisan", 170.0),   # Warren p2 word spacing
+            ("Toni Walker Terrett Nonpartisan", 180.0),
+        ])
+        offices = [r for r in rows if r["kind"] == "office"]
+        self.assertEqual((offices[0]["office"], offices[0]["district"], offices[0]["seat"]),
+                         ("Chancery Court", "9", 2))
+        cands = [r for r in rows if r["kind"] == "candidate"]
+        # "Vicki  Roach  Barnes " keeps Warren p2's raw word spacing (doubled
+        # internal spaces, trailing space from the party-token split);
+        # normalization is Task 5/6's job.
+        self.assertEqual([(c["candidate"], c["office"], c["party"]) for c in cands],
+                         [("Vicki  Roach  Barnes ", "Chancery Court", ""),
+                          ("Toni Walker Terrett", "Chancery Court", "")])
+
+    def test_local_race_headers_not_candidates(self):
+        # Warren p5/p6 local-race section: labels the office parser does not
+        # know must surface as unknown_header rows -- never as candidates
+        # inheriting the previous (or no) office.
+        rows = self.run_rows([
+            ("Warren County-County Court Judge", 160.0),
+            ("Election Commission I-Election Commissioner", 168.0),
+            ("District 1", 176.0),
+            ("JCJ District Central-Justice Court Judge", 184.0),
+            ("Vicki Roach Barnes", 192.0), ("Democrat", 198.0),
+        ])
+        unknown = [r for r in rows if r["kind"] == "unknown_header"]
+        self.assertEqual([r["text"] for r in unknown],
+                         ["Warren County-County Court Judge",
+                          "Election Commission I-Election Commissioner",
+                          "District 1",
+                          "JCJ District Central-Justice Court Judge"])
+        cands = [r for r in rows if r["kind"] == "candidate"]
+        self.assertEqual([(c["candidate"], c["party"]) for c in cands],
+                         [("Vicki Roach Barnes", "DEM")])
+        self.assertNotIn("office", unknown[0])  # no office attribution
+
+    def test_candidate_lines_never_unknown_header(self):
+        # The catch-all must not reach into name territory: a candidate with a
+        # dash but no header keyword, and one whose name merely CONTAINS a
+        # keyword inside a word ("Courtney"), stay candidates.
+        rows = self.run_rows([
+            ("Cindy Hyde-Smith Republican", 160.0),
+            ("Courtney Smith Nonpartisan", 170.0),
+        ])
+        kinds = {r["kind"] for r in rows}
+        self.assertEqual(kinds, {"candidate"})
+        cands = [r for r in rows if r["kind"] == "candidate"]
+        self.assertEqual([(c["candidate"], c["party"]) for c in cands],
+                         [("Cindy Hyde-Smith", "REP"), ("Courtney Smith", "")])
+
+    def test_wrapped_office_label_split_before_of(self):
+        # A header may print before its "Of" (I6: "Court" / "Of Appeals
+        # 01-District 3 Position 2"). Split headers print in header territory
+        # above the first data row, so the fragment that alone parses as
+        # nothing is held back and joins the next label line.
+        rows = self.run_rows_at([
+            ("Court", 180.0),
+            ("Of Appeals 01-District 3 Position 2", 188.0),
+            ("Johnny Baucom", 198.0), ("Libertarian", 205.0),
+        ], table_top=194.0)
+        offices = [r for r in rows if r["kind"] == "office"]
+        self.assertEqual(len(offices), 1)
+        self.assertEqual((offices[0]["office"], offices[0]["district"], offices[0]["seat"]),
+                         ("Court of Appeals", "3", 2))
+        cands = [r for r in rows if r["kind"] == "candidate"]
+        self.assertEqual([(c["candidate"], c["party"]) for c in cands],
+                         [("Johnny Baucom", "LIB")])
+
+
 class GridCentersTests(unittest.TestCase):
     def test_qualifier_clusters_drop_outside_anchor_span(self):
         # Union p2: Position/Place qualifier digits form two phantom
@@ -499,6 +614,15 @@ class UnionPage2Tests(unittest.TestCase):
         for cand in cands:
             for col in cand["cells"]:
                 self.assertIn(col, self.tp["precinct_centers"])
+
+    def test_court_roster_names_repaired(self):
+        # Union p2's Court of Appeals Position 1 roster, with the printed
+        # name spelled out of the mangled text layer ("John weddie" ->
+        # "John Weddle", verified against the rendered page).
+        court1 = [r for r in self.tp["rows"] if r["kind"] == "candidate"
+                  and r["office"] == "Court of Appeals" and r["seat"] == 1]
+        self.assertEqual([(r["candidate"], r["party"]) for r in court1],
+                         [("Derek Dewayne Hopson Jr.", ""), ("John Weddle", "")])
 
 
 if __name__ == "__main__":

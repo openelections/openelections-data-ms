@@ -111,7 +111,11 @@ def cluster_xs(pairs, gap=COLUMN_GAP):
 
 
 def column_centers(digit_words, gap=COLUMN_GAP):
-    """Distinct x0 centers of numeric columns, ascending."""
+    """Distinct x0 centers of numeric columns, ascending.
+
+    Non-load-bearing utility (superseded in the live path by grid_centers,
+    which additionally filters clusters against the first data line's own
+    span); its tests still pin the clustering math both paths share."""
     clusters = cluster_xs([(wd["x0"], wd) for wd in digit_words], gap=gap)
     return sorted(cl["center"] for cl in clusters)
 
@@ -270,6 +274,25 @@ def parse_office(label, fuzzy=False):
     if m:
         d = str(int(m.group(2)))
         return "Court of Appeals", d, int(m.group(3)) if m.group(3) else None
+    m = re.search(r"(Chancery|Circuit) Court 0*(\d+)(?:\s*-\s*0*(\d+))?\s*-\s*"
+                  r"\1 District 0*(\d+)(?:\s*-\s*0*(\d+))?(?:\s*Place\s*0*(\d+))?",
+                  label)
+    if m:
+        # Double-dash judicial labels: "Chancery Court 9-2-Chancery District
+        # 9-2" (Warren p2/p3), "Circuit Court 9-1-Circuit District 9-1" and
+        # the Place-suffixed "Circuit Court 3-Circuit District 03 Place 1"
+        # (Union p4/p5). The first number pair is district-place; the second
+        # pair / Place slot repeat it.
+        place = m.group(6) or m.group(3) or m.group(5)
+        return (f"{m.group(1)} Court", str(int(m.group(2))),
+                int(place) if place else None)
+    if not m and fuzzy and _fuzzy_eq(label[:15], "CIRCUIT COURT", 0.7):
+        digits = re.findall(r"\b(\d+)\b", label)
+        if digits:
+            district = digits[1] if len(digits) >= 2 else digits[0]
+            place = (int(digits[-1])
+                     if len(digits) >= 2 and digits[-1] != digits[1] else None)
+            return "Circuit Court", str(int(district)), place
     m = re.search(r"Chancery Court 0*(\d+)\s*-\s*Chancery District 0*(\d+)"
                   r"(?:\s*Place\s*0*(\d+))?", label)
     if not m and fuzzy and _fuzzy_eq(label[:15], "CHANCERY COURT", 0.7):
@@ -374,19 +397,56 @@ def precinct_norm(name):
 # by column center, and a later stage binds centers to names.
 
 LABEL_BAND = 6.0        # label words sit at least this far left of column 1
-ROW_PITCH_FALLBACK = 9.0
+TABLE_TOP_Y_WINDOW = 9.0
+# How far above the first data row's top the numeric scan still reaches: the
+# digits floor is table_top - TABLE_TOP_Y_WINDOW, and the anchor window is
+# symmetric. 9.0pt clears every line whose top anchors within one row pitch.
 COL_TOL = 18.0          # max |x0 - column center| for a cell to attach
 MIN_CLUSTER_MEMBERS = 3  # drop 1-2-member x clusters (footer digits, noise)
+CELL_BAND_TOP = 3.0     # a cell's mid may sit this far ABOVE its row's top
+CELL_BAND_BOTTOM = 6.0  # ... or this far BELOW its row's bottom
 
 # Qualifier words that may make up a wrapped office-header line ("US House Of
-# Rep 01-1st Congressional" + "District"), with their digit runs ("01-1st").
+# Rep 01-1st Congressional" + "District", or a split before the "Of": "Court"
+# + "Of Appeals 01-District 3 Position 2"), with their digit runs ("01-1st").
 # The vocabulary gate guards the continuation branch: the office regexes match
 # by prefix, so merged text keeps parsing after candidate names are appended
 # ("...Position 1 Derek Dewayne Hopson Jr. Nonpartisan" still matches the
 # Court pattern). Proper noun tokens never gate-pass, so the first candidate
 # row under a self-contained header is never swallowed.
 WRAP_WORDS = ("district", "position", "place", "congressional", "court",
-              "appeals", "chancery", "circuit")
+              "appeals", "chancery", "circuit", "of", "us", "rep", "house")
+
+# Race-header keywords for the unparseable-header catch-all: a label line the
+# office parser does not know but that carries one of these as a word, a
+# structural separator (a dash-like run or a trailing numeral) and a role-word
+# tail. Conservative on purpose -- keyword alone ("Court") is not enough, the
+# match is word-bounded ("Courtney Smith" stays a candidate), and the
+# certification blurb's "Election Commission will prepare..." lines end in
+# prose, not a role word, so the commission/election keywords cannot reach
+# them.
+HEADER_KEYWORDS_RE = re.compile(
+    r"\b(court|district|place|position|appeals|chancery|circuit|house|senate|"
+    r"commission|commissioner|judge|election|trustee)\b")
+HEADER_ROLE_TAIL_RE = re.compile(
+    r"(?:judge|trustee|commissioner|court|district|place|position|rep|house|"
+    r"senate|appeals|chancery|circuit|election|board)\W*$")
+
+
+def is_unparsed_header(text):
+    """True for a race-header label shape that parse_office does not
+    recognize (Warren p5's local-office labels: "Warren County-County Court
+    Judge", "Election Commission I-Election Commissioner" + its "District 1"
+    wrap, "School Board District 3-School Board Trustee")."""
+    t = text.lower()
+    if not HEADER_KEYWORDS_RE.search(t):
+        return False
+    if not re.search(r"[-–—·]", text) and not re.search(r"\d\s*\W*\s*$", t):
+        return False
+    # tail: a role word or a bare numeral ("District 1")
+    return (bool(HEADER_ROLE_TAIL_RE.search(t))
+            or bool(re.search(r"\d\s*$", t)))
+
 
 # Invisible-Tesseract text-layer misreads of PRINTED candidate names, keyed on
 # the observed mangle -- the same mechanism as PARTY_WORDS's mangled keys.
@@ -396,7 +456,7 @@ WRAP_WORDS = ("district", "position", "place", "congressional", "court",
 LABEL_REPAIRS = {"Coiom": "Colom", "weddie": "Weddle"}
 
 
-def _is_wrap_token(token, fuzzy=False):
+def _is_wrap_token(token):
     """True for a token that may appear on a wrapped office-label line:
     a qualifier word (exact or, for the mangled OCR layers, near-exact),
     a digit run, or a punctuation-only filler."""
@@ -421,7 +481,14 @@ def grid_centers(digits, anchor_digits, min_members=MIN_CLUSTER_MEMBERS):
     that span. Office-header qualifier digits (Position/Place values, which
     print just right of the label band, x ~195-250 on Union p2) form two
     phantom ~45pt-pitch clusters left of the first column that overlap
-    nothing on the first data line, so they drop without a special case."""
+    nothing on the first data line, so they drop without a special case.
+
+    The anchor-span rule is a FILTER on the clustered digits, not a lossless
+    detector: `digits` only reaches back to table_top - TABLE_TOP_Y_WINDOW,
+    so a column whose cells sit above that floor is unseen (Jasper p2's
+    first data line starts at x=464 and its left clusters -- 5-8 members --
+    drop). Starving a page of its real columns fails loud downstream in
+    Task 5's count gate (manifest entries == detected columns per page)."""
     if not digits or not anchor_digits:
         return []
     anchor_lo = min(x["x0"] for x in anchor_digits)
@@ -440,39 +507,54 @@ def grid_centers(digits, anchor_digits, min_members=MIN_CLUSTER_MEMBERS):
 def extract_table_page(page, fuzzy=False):
     """Parse one recap table page (Amendment A contract).
 
-    Returns {"precinct_centers": [x...], "table_top": float, "rows": [...]}
-    with rows = label_rows(...), each candidate row's "cells" filled from the
-    numeric grid. Does NOT resolve header labels (the operator manifest does
-    that in Task 5); does NOT call vertical_headers."""
+    Returns {"precinct_centers": [x...], "table_top": float, "rows": [...],
+    "conflicts": [...]} with rows = label_rows(...) and each candidate row's
+    "cells" filled from the numeric grid; "conflicts" records every
+    (row_index, column_center) attach that overwrote an earlier value as
+    [row_index, column_center, kept_value, overwritten_value] (assign_cells
+    is last-wins; Warren p3 fires this for real). Does NOT resolve header
+    labels (the operator manifest does that in Task 5); does NOT call
+    vertical_headers.
+
+    Returns None in two cases: a non-table page (find_table_top finds no
+    numeric-grid line -- the cover page), or a table page whose column
+    clusters all drop (no cluster with >= MIN_CLUSTER_MEMBERS members
+    overlapping the first data line -- see grid_centers)."""
     words = [{"text": x.text, "x0": x.x0, "x1": x.x1, "top": x.top, "bottom": x.bottom}
              for x in page.words]
     lines = lines_from_words(words)
     table_top = find_table_top(lines)
     if table_top is None:
-        return None  # cover page
+        return None  # not a table page (cover page)
 
     def band_words(lo, hi):
         return [x for ln in lines if lo <= ln["top"] < hi for x in ln["words"]]
 
-    digits = [x for x in band_words(table_top - ROW_PITCH_FALLBACK, float("inf"))
+    digits = [x for x in band_words(table_top - TABLE_TOP_Y_WINDOW, float("inf"))
               if looks_numeric(x["text"], fuzzy)]
-    # The first data line anchors the grid; a +-ROW_PITCH_FALLBACK window
+    # The first data line anchors the grid; a +-TABLE_TOP_Y_WINDOW window
     # keeps cells that y-jitter split onto a follow-on line inside the anchor.
     anchor_digits = [x for x in
-                     band_words(table_top - ROW_PITCH_FALLBACK,
-                                table_top + ROW_PITCH_FALLBACK)
+                     band_words(table_top - TABLE_TOP_Y_WINDOW,
+                                table_top + TABLE_TOP_Y_WINDOW)
                      if looks_numeric(x["text"], fuzzy)]
     centers = grid_centers(digits, anchor_digits)
     if not centers:
         return None  # numeric grid lost; caller treats the page as unused
 
+    # Measured on Union p2-p5 this leaves +1.9..+4.4pt between the band and
+    # the leftmost col-1 cell x0; one 4-digit cell would push a cell token
+    # into the label band (Task 8 de-risking candidate: derive the boundary
+    # from the party-column right edge instead of min(centers)).
     label_x_max = min(centers) - LABEL_BAND
     rows = label_rows(lines, table_top, label_x_max, fuzzy)
+    conflicts = []
     cells = assign_cells(rows, [x for x in digits if x["x0"] >= label_x_max],
-                         centers, fuzzy)
+                         centers, fuzzy, conflicts=conflicts)
     for (r_idx, col), val in cells.items():
         rows[r_idx]["cells"][col] = val
-    return {"precinct_centers": centers, "table_top": table_top, "rows": rows}
+    return {"precinct_centers": centers, "table_top": table_top, "rows": rows,
+            "conflicts": conflicts}
 
 
 def label_rows(lines, table_top, label_x_max, fuzzy=False):
@@ -482,32 +564,56 @@ def label_rows(lines, table_top, label_x_max, fuzzy=False):
     header: the certification blurb and vertical-name-stack fragments sit
     there too and parse as nothing, so any line above the first data row that
     is not an office label is skipped outright. Below it the classification
-    order is: office header (parse_office), wrapped continuation of the
-    just-opened header (only when every token is qualifier vocabulary),
-    page furniture (is_noise), a standalone party word attached to the
-    candidate above it, a trailing party token attached to THIS line's own
-    candidate (real recap pages print the party right of the name, in its own
-    column, on the same line), else a candidate row.
+    order is: office header (parse_office, alone or joined from a split first
+    fragment held back from header territory), wrapped continuation of the
+    just-opened header (only when every token is qualifier vocabulary), an
+    unparseable race header -> kind "unknown_header" (never a candidate, no
+    office attribution: Warren's double-dash judicial and local-office labels
+    that do not parse, so their candidates cannot wrongly inherit the previous
+    office; checked ahead of is_noise because Warren's "Election Commission
+    I-Election Commissioner" carries a noise anchor yet is a header), page
+    furniture (is_noise), a standalone party word attached to the candidate
+    above it, a trailing party token attached to THIS line's own candidate
+    (real recap pages print the party right of the name, in its own column,
+    on the same line), else a candidate row.
 
     Row dicts carry top/bottom so assign_cells can band them; office rows
-    also carry "raw", the exact label text consumed so a continuation joins
-    faithfully. Candidate "candidate" text gets LABEL_REPAIRS applied to its
-    words (the party token is identified on the raw text before repair)."""
+    carry "raw" (the exact label text consumed so a continuation joins
+    faithfully) and an empty "cells" map (dict-shape symmetry with
+    candidate rows). Candidate "candidate" text gets LABEL_REPAIRS applied
+    to its words (the party token is identified on the raw text before
+    repair); a header joined from a held-back fragment gets the completing
+    line's top."""
     rows = []
     current_office = None
     last_candidate = None
+    pending_header = None
     for ln in lines:
         label_words = [x for x in ln["words"] if x["x0"] < label_x_max]
         if not label_words:
             continue
         above_table = ln["top"] < table_top
         text = " ".join(x["text"] for x in label_words)
-        # 1) office header?
+        # 1) office header, alone or joined from a split first fragment
         office = parse_office(text, fuzzy)
+        if office is None and pending_header is not None:
+            joined_text = pending_header + " " + text
+            office = parse_office(joined_text, fuzzy)
+            if office is not None:
+                o, d, seat = office
+                current_office = {"kind": "office", "office": o, "district": d,
+                                  "seat": seat, "raw": joined_text,
+                                  "top": ln["top"],
+                                  "bottom": max(x["bottom"] for x in label_words),
+                                  "cells": {}}
+                rows.append(current_office)
+                last_candidate = None
+                pending_header = None
+                continue
         if office is None and current_office is not None and last_candidate is None:
             # 2) wrapped continuation of the just-opened office header
             tokens = text.split(" ")
-            if all(_is_wrap_token(tok, fuzzy) for tok in tokens):
+            if all(_is_wrap_token(tok) for tok in tokens):
                 merged = current_office["raw"] + " " + text
                 office = parse_office(merged, fuzzy)
                 if office is not None:
@@ -515,21 +621,39 @@ def label_rows(lines, table_top, label_x_max, fuzzy=False):
                     current_office.update(office=o, district=d, seat=seat,
                                           raw=merged,
                                           bottom=max(x["bottom"] for x in label_words))
+                    pending_header = None
                     continue
         if office is not None:
             o, d, seat = office
             current_office = {"kind": "office", "office": o, "district": d,
                               "seat": seat, "raw": text,
                               "top": ln["top"],
-                              "bottom": max(x["bottom"] for x in label_words)}
+                              "bottom": max(x["bottom"] for x in label_words),
+                              "cells": {}}
             rows.append(current_office)
             last_candidate = None
+            pending_header = None
             continue
         if above_table:
-            continue  # only the office header lives above the first data row
-        if is_noise(text, fuzzy):
+            # only the office header lives above the first data row; hold the
+            # line back as a possible split-header fragment
+            pending_header = text
             continue
-        # 3) standalone party word -> attach to the candidate above (if any);
+        # 3) unparseable race header -> unknown_header, never a candidate
+        #    (checked ahead of is_noise: Warren's "Election Commission
+        #    I-Election Commissioner" carries a noise anchor, and it is a
+        #    header, not furniture)
+        if is_unparsed_header(text):
+            rows.append({"kind": "unknown_header", "text": text,
+                         "top": ln["top"],
+                         "bottom": max(x["bottom"] for x in label_words)})
+            last_candidate = None
+            pending_header = None
+            continue
+        if is_noise(text, fuzzy):
+            pending_header = None
+            continue
+        # 4) standalone party word -> attach to the candidate above (if any);
         #    with no candidate above it the word is furniture, not a name
         if len(label_words) == 1:
             pk = party_of(label_words[0]["text"], fuzzy)
@@ -538,8 +662,9 @@ def label_rows(lines, table_top, label_x_max, fuzzy=False):
                     last_candidate["party"] = pk
                     last_candidate["bottom"] = max(last_candidate["bottom"],
                                                    max(x["bottom"] for x in label_words))
+                pending_header = None
                 continue
-        # 4) trailing party token on the candidate's own line: it belongs to
+        # 5) trailing party token on the candidate's own line: it belongs to
         #    the candidate being built from this line, so strip it from the
         #    name instead of forwarding the line's text to the last candidate
         tokens = text.split(" ")
@@ -559,14 +684,36 @@ def label_rows(lines, table_top, label_x_max, fuzzy=False):
                 "cells": {}}
         rows.append(cand)
         last_candidate = cand
+        pending_header = None
     return rows
 
 
-def assign_cells(rows, numeric_words, centers, fuzzy=False):
+def assign_cells(rows, numeric_words, centers, fuzzy=False, conflicts=None):
     """Map (row_index, column_center) -> votes by row y-band overlap.
 
     A numeric word attaches to the candidate row whose y band contains its
-    vertical center, and to the nearest column center within COL_TOL."""
+    vertical center -- band = [row top - CELL_BAND_TOP, row bottom +
+    CELL_BAND_BOTTOM) -- and to the nearest column center within COL_TOL.
+    Rows are tested in list order and the first candidate whose band
+    contains the mid wins (bands deliberately overlap: the single-row pitch
+    is ~20pt but cells can print in two y positions ~3-9pt apart within one
+    row -- "second printings" observed on Warren p2/p3 -- and a split
+    y-jitter line keeps a row's own cells on consecutive lines). The value
+    is an integer shape recheck on the cleaned text: digit_clean applies
+    its fuzzy substitutions ONLY to tokens already chosen because they sit
+    in a numeric column, so `fuzzy` repairs digit-shaped OCR confusions
+    ("5O" -> "50") without touching label text.
+
+    When two words claim the same (row_index, column_center) the LAST word
+    wins. That is silent unless the caller passes `conflicts` (a list), which
+    collects each overwrite as [row_index, column_center, kept_value,
+    overwritten_value] -- the record surfaces both true duplicates and
+    clusters that chained two real columns together (Warren p3 reports
+    row 5 / '76' vs '1' at column 333.12).
+
+    The result is keyed on `rows`' list indices, so the mapping only holds
+    while that list order does: callers merging or reordering rows must do
+    it before attaching cells."""
     out = {}
     for word in numeric_words:
         col = min(centers, key=lambda c: abs(c - word["x0"]))
@@ -579,7 +726,10 @@ def assign_cells(rows, numeric_words, centers, fuzzy=False):
         for i, row in enumerate(rows):
             if row["kind"] != "candidate":
                 continue
-            if row["top"] - 3 <= mid < row["bottom"] + 6:
-                out[(i, col)] = int(cleaned)
+            if row["top"] - CELL_BAND_TOP <= mid < row["bottom"] + CELL_BAND_BOTTOM:
+                val = int(cleaned)
+                if (i, col) in out and conflicts is not None:
+                    conflicts.append([i, col, out[(i, col)], val])
+                out[(i, col)] = val
                 break
     return out
