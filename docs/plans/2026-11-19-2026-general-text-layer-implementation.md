@@ -1538,3 +1538,20 @@ Task 5 carries (reviewer-verified on real pages):
 - **Fragment/garbage candidate rows** (unknown-header remnants, reversed
   digits) must be excluded or loudly flagged by the structure/roster gates
   before any CSV writes.
+
+## Task 4 re-review carries (2026-11-19, folded into Task 5's window)
+
+1. **N1 — Circuit fuzzy branch picks the wrong district run:** Jasper p2's
+   real label `'Circuit  Court  l3-Circuit Distrlct 13 Placo 1'` fuzzy-parses
+   as district "1" (digits[1]) while the no-place sibling keys "13".
+   Fix: district-first family → fuzzy branch uses `digits[0]` for the
+   district, place from the following run; pin with a test.
+2. **N2 — `unknown_header` leaves the previous office open:** Jasper p2/p3
+   judicial candidates inherit U.S. Senate in a second misattribution form,
+   and the stale continuation gate can rewrite a prior office's seat.
+   Fix: `current_office = None` in the unknown_header branch; cross-page
+   office-carry still applies (pending is established before the page and
+   unknown_header only clears in-page context). Pin with tests.
+3. Minor: pin the unknown_header-ahead-of-is_noise reordering (a standalone
+   party word after a dual-classified line must not attach) with a test;
+   note in the conflicts docstring that equal-value repeats are also logged.
