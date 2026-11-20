@@ -24,6 +24,7 @@ Usage:
         --county Union --out 2026/counties/20261103__ms__general__union__precinct.csv
 """
 
+import json
 import re
 import difflib  # SequenceMatcher fuzzy matching (TOTAL header, labels); stdlib only
 
@@ -606,16 +607,28 @@ def _next_label_band(lines, idx, label_x_max):
     return None
 
 
+FRAGMENT_CAP = 3  # consumed fragments per open local-race header, max
+
+# A lone token that reads like a plausible person name is never a consumable
+# fragment: garbage fragments garble the case ('LIstnCT', 'u.strica') or
+# carry digits. 'Bulger' after a local header stays a candidate.
+PLAUSIBLE_NAME_RE = re.compile(r"^[A-Z][a-z]+$")
+
+
 def _is_local_fragment(band_text, band_words, fuzzy):
     """True for a wrapped-fragment line that belongs to an open local-race
-    header block: a single non-party token (Union p4/p5's garbled 'LIstnCT' /
-    'u.strica' -- the block's third printed line), an all-qualifier line
-    (the shared wrap vocabulary), or a dash-less line carrying the local-race
-    vocabulary that is not itself a standalone header (the wrapped
-    'New Albany Municipal Separate School' half). A standalone party token is
-    never a fragment; it is furniture or the candidate above's party."""
+    header block: a single non-party token that is not a plausible person
+    name (Union p4/p5's garbled 'LIstnCT' / 'u.strica' -- the block's third
+    printed line), an all-qualifier line (the shared wrap vocabulary), or a
+    dash-less line carrying the local-race vocabulary that is not itself a
+    standalone header (the wrapped 'New Albany Municipal Separate School'
+    half). A standalone party token is never a fragment; it is furniture or
+    the candidate above's party."""
     if len(band_words) == 1:
-        return party_of(band_words[0]["text"], fuzzy) is None
+        token = band_words[0]["text"]
+        if party_of(token, fuzzy) is not None:
+            return False  # standalone party word: furniture, never a fragment
+        return not PLAUSIBLE_NAME_RE.match(token)
     tokens = band_text.split(" ")
     if all(_is_wrap_token(tok) for tok in tokens):
         return True
@@ -661,6 +674,7 @@ def label_rows(lines, table_top, label_x_max, fuzzy=False):
     last_candidate = None
     pending_header = None
     local_header = None  # open local-race unknown_header consuming fragments
+    local_fragments = 0  # fragments consumed into that header (cap FRAGMENT_CAP)
     for idx, ln in enumerate(lines):
         label_words = [x for x in ln["words"] if x["x0"] < label_x_max]
         if not label_words:
@@ -680,6 +694,7 @@ def label_rows(lines, table_top, label_x_max, fuzzy=False):
                                   "bottom": max(x["bottom"] for x in label_words),
                                   "cells": {}}
                 rows.append(current_office)
+                local_header = None  # a new office section closes the block
                 last_candidate = None
                 pending_header = None
                 continue
@@ -704,6 +719,7 @@ def label_rows(lines, table_top, label_x_max, fuzzy=False):
                               "bottom": max(x["bottom"] for x in label_words),
                               "cells": {}}
             rows.append(current_office)
+            local_header = None  # a new office section closes the block
             last_candidate = None
             pending_header = None
             continue
@@ -714,12 +730,14 @@ def label_rows(lines, table_top, label_x_max, fuzzy=False):
             continue
         # 3) wrapped local-race header block. While an unknown_header row is
         #    open, directly-following fragment lines (_is_local_fragment)
-        #    extend that header's text and are never candidate rows; another
-        #    header-shaped line opens its own row (Warren's "District 1"
-        #    stays its own header); anything else, above all the first
-        #    definite candidate line (name + inline trailing party token, or
-        #    a lone token whose next label line is a standalone party token),
-        #    closes the block and is classified normally below.
+        #    extend that header's text and are never candidate rows, up to
+        #    FRAGMENT_CAP consecutive fragments; another header-shaped line
+        #    opens its own row (Warren's "District 1" stays its own header),
+        #    a newly-opened OFFICE row closes the block, and anything else --
+        #    above all the first definite candidate line (name + inline
+        #    trailing party token, or a lone token whose next label line is a
+        #    standalone party token) -- closes the block and is classified
+        #    normally below.
         if local_header is not None:
             tokens = text.split(" ")
             next_band = _next_label_band(lines, idx, label_x_max) \
@@ -733,11 +751,14 @@ def label_rows(lines, table_top, label_x_max, fuzzy=False):
                 local_header = None  # fall through; classify normally
             elif is_unparsed_header(text):
                 pass  # another header line: its own unknown_header row below
+            elif local_fragments >= FRAGMENT_CAP:
+                local_header = None  # capped: classify normally below
             elif _is_local_fragment(text, label_words, fuzzy):
                 local_header["text"] += " " + text
                 local_header["bottom"] = max(
                     local_header["bottom"],
                     max(x["bottom"] for x in label_words))
+                local_fragments += 1
                 last_candidate = None
                 pending_header = None
                 continue
@@ -749,6 +770,7 @@ def label_rows(lines, table_top, label_x_max, fuzzy=False):
                    "bottom": max(x["bottom"] for x in label_words)}
             rows.append(row)
             local_header = row
+            local_fragments = 0  # a fresh header gets its own fragment budget
             # A local-office header closes the office context: candidates
             # under it carry NO office (N2), and the wrap-continuation gate
             # above must not reach back into the previous header and rewrite
@@ -861,14 +883,30 @@ def load_manifest(path):
 
     `pages` maps 1-based page-number strings to that page's header labels
     left-to-right (exactly one entry equals `total_label` where the page
-    carries a TOTAL column). Label truncations are the operator's to resolve;
-    problems here are only missing required keys -- alignment problems are
-    the assembly's (see normalize_page_labels / run_gates)."""
-    import json
+    carries a TOTAL column) and must be a dict of label-lists of strings;
+    `total_label` must be a non-empty string. Label truncations are the
+    operator's to resolve; problems here are only missing required keys and
+    {"kind": "manifest_shape", "key": ...} shape errors -- alignment
+    problems are the assembly's (see normalize_page_labels / run_gates)."""
     with open(path) as fh:
         manifest = json.load(fh)
     problems = [{"kind": "manifest_missing_key", "key": key}
                 for key in MANIFEST_REQUIRED_KEYS if key not in manifest]
+    page_map = manifest.get("pages")
+    if not isinstance(page_map, dict):
+        problems.append({"kind": "manifest_shape", "key": "pages",
+                         "problem": "pages must be a dict of "
+                                    "page-number -> label-list, got "
+                                    f"{type(page_map).__name__}"})
+    elif any(not isinstance(label, str)
+             for labels in page_map.values()
+             for label in (labels or [])):
+        problems.append({"kind": "manifest_shape", "key": "pages",
+                         "problem": "every manifest label must be a string"})
+    total_label = manifest.get("total_label")
+    if not isinstance(total_label, str) or not total_label.strip():
+        problems.append({"kind": "manifest_shape", "key": "total_label",
+                         "problem": "total_label must be a non-empty string"})
     return manifest, problems
 
 
@@ -937,25 +975,26 @@ def parse_county_from_pages(pages, county, manifest):
     label stream over disjoint column halves) merges by
     (office, district, seat, collapsed-name), preserving ballot order (the
     first page where the candidate appears); the first non-None party wins,
-    and "" (Nonpartisan) counts as a real party value.
+    and "" (Nonpartisan) counts as a real party value. Equal-value repeats
+    (the same value arriving twice for one (candidate, precinct)) are silent
+    corroboration at this stage -- a deliberate contrast with the geometry
+    layer, where every overwrite is logged as a conflict.
 
-    Cross-page office carry: a candidate printed whose office header was on
-    an earlier page must not lose its office. The carry value is a ROW-BLOCK
-    property, not a per-page one: the recap paginates as row blocks of
-    column halves (Union: p2/p3 = block 1, p4/p5 = block 2; each block
-    repeats the label stream on both halves), so BOTH halves' opening rows
-    belong to the section that was open when the block began. A row block
-    ends where the manifest labels carry the total marker (SEMS prints the
-    TOTAL column only on the last page of a block), and the next block's
-    opening carry is the previous block's end context: the pending
-    (office, district, seat) fills office=None candidate rows at the START
-    of a page, until that page's first office row or unknown_header row
-    appears (from then on the page's own context rules). unknown_header
-    clears in-page context only (N2); the end context is however cleared as
-    None when a page ENDS under an unknown_header, so a local section that
-    continues onto the next page does not hand its candidates a stale state
-    office. office=None rows are never dropped before the carry is applied;
-    rows still office-less afterwards (they sat under an unparseable
+    Cross-page office carry: the pending (office, district, seat) of the
+    previous page fills office=None candidate rows at the START of a page,
+    until that page's first office row or unknown_header row appears (from
+    then on the page's own context rules). The carry refreshes at EVERY page
+    boundary: its value is None on the first table page, None when the page's
+    first context row is a local-race unknown_header THAT SITS INSIDE the
+    page's row stream (the page opens into a local-race zone and must never
+    inherit the previous page's federal end context), the carry the previous
+    page itself CONSUMED at its start when that page opened with carried
+    rows (a repeating group's members share one row stream), else the
+    previous page's end context -- which a trailing unknown_header leaves as
+    None, so a local section that continues onto the next page does not hand
+    its candidates a stale state office.
+    office=None rows are never dropped before the carry is applied; rows
+    still office-less afterwards (they sat under an unparseable
     local-office header) are excluded BY DESIGN -- recorded in
     pd["dropped_local_rows"], never silently and never as a gate.
 
@@ -1011,9 +1050,7 @@ def parse_county_from_pages(pages, county, manifest):
                     by_center[center] = TOTAL_NAME
             elif center is not None:
                 by_center[center] = names[pos] if pos < len(names) else None
-        alignments[pno] = {"names_by_center": by_center,
-                           "total_center": total_center,
-                           "had_total": total_pos is not None}
+        alignments[pno] = {"names_by_center": by_center}
     for key in sorted(manifest_pages, key=sort_key):
         if key not in pages:
             manifest_problems.append({"kind": "page_missing", "page": page_no(key)})
@@ -1024,19 +1061,27 @@ def parse_county_from_pages(pages, county, manifest):
 
     merged = {}
     order = []
-    # Row-block office carry (Union's structure: ONE logical table paginated
-    # as row blocks of column halves -- p2/p3 = block 1, p4/p5 = block 2 --
-    # so a page's opening rows belong to the section that was open when the
-    # block began, on BOTH halves of the block). A row block ends at a page
-    # whose manifest labels carry the total marker (SEMS prints the TOTAL
-    # column only on the last page of a block); the next block's opening
-    # carry is the previous block's end context. A block cannot be detected
-    # when no page of it carries a total marker; such continuation pages
-    # keep the same block pending (or none), and their office=None openings
-    # drop as local rows -- recorded, never silent.
-    pending = None       # carry value for the current row block's pages
-    end_context = None   # office context in force at the end of the last page
-    prev_had_total = False
+    # Cross-page office carry. The carry refreshes at EVERY page boundary
+    # (Union's row-block halves and Warren's repeat-columns group both open
+    # pages whose section was printed on an earlier page): its value is the
+    # context the page's opening rows continue --
+    #   None on the first table page;
+    #   None when the page's first context row is a local-race unknown_header
+    #     that sits INSIDE the page's row stream (Warren p5/p6: the page's
+    #     opening rows precede the local zone's header box), so the page
+    #     must never inherit the previous page's federal end context;
+    #   the carry the PREVIOUS page itself consumed at its start, when that
+    #     page opened with carried rows -- a repeating group's members share
+    #     one row stream, so their office=None openings belong to the same
+    #     section (Union p5's Michael Malski keeps Chancery Court d1 place 2
+    #     even though p4 ended elsewhere);
+    #   else the previous page's end context (the section it was reading
+    #     when it ran out), which a trailing unknown_header leaves as None so
+    #     a local section continuing onto the next page is not handed a stale
+    #     state office.
+    pending = None        # carry value decided at this page's boundary
+    end_context = None    # office context in force at the end of the last page
+    last_carry_used = None  # carry the previous page actually applied
     first_page = True
     for key in sorted(pages, key=sort_key):
         pno = page_no(key)
@@ -1045,12 +1090,33 @@ def parse_county_from_pages(pages, county, manifest):
         tp = pages[key]
         rows = tp.get("rows") or []
         by_center = alignments[pno]["names_by_center"]
-        if first_page or prev_had_total:
-            pending = end_context if not first_page else None
+        first_context_pos = None
+        for pos, r in enumerate(rows):
+            if r.get("kind") in ("office", "unknown_header"):
+                first_context_pos = pos
+                break
+        if first_page:
+            pending = None
+        elif (first_context_pos is not None
+              and rows[first_context_pos].get("kind") == "unknown_header"
+              and first_context_pos < len(rows) - 1):
+            # a local-race header sits INSIDE this page's row stream (Warren
+            # p5/p6: the page's opening rows precede the local zone's header
+            # box): the page belongs to the local zone and its opening rows
+            # must never inherit the previous page's end context. A local
+            # header that is instead the page's LAST row closes the page, and
+            # the opening rows still carry normally (they precede the box,
+            # whose own candidates print on the next page).
+            pending = None
+        elif last_carry_used is not None:
+            pending = last_carry_used  # the group's row stream repeats
+        else:
+            pending = end_context
         first_page = False
         own_context = False
         last_context_kind = None  # "office" (with its triple) / "unknown"
         last_office = None
+        first_carry_used = None  # carry this page applied at its start
         entries = []  # (row index, merge key, assembled row) in row order
         for idx, row in enumerate(rows):
             kind = row.get("kind")
@@ -1070,13 +1136,22 @@ def parse_county_from_pages(pages, county, manifest):
                                       row.get("seat"))
             if office is None and not own_context and pending is not None:
                 office, district, seat = pending  # cross-page carry
+                if first_carry_used is None:
+                    first_carry_used = pending
             if office is None:
                 # under an unknown_header (or a page with no office at all):
                 # a local-office row, excluded by design and recorded whole:
-                # raw label text, party and whatever cells the page captured
-                # (float-keyed, never merged into any reconciled figure).
-                dropped_local_rows.append(dict(row, text=row.get("candidate"),
-                                               page=pno))
+                # raw label text, party and whatever cells the page captured,
+                # BEST-EFFORT re-keyed where the manifest alignment resolves
+                # a name (unmapped centers stay raw keys; the total-column
+                # capture keeps its TOTAL key) -- never merged into any
+                # reconciled figure.
+                dropped_local_rows.append(
+                    dict(row, text=row.get("candidate"),
+                         cells={by_center.get(center) or center: value
+                                for center, value
+                                in (row.get("cells") or {}).items()},
+                         page=pno))
                 continue
             cells = {}
             orphans = {}
@@ -1092,7 +1167,9 @@ def parse_county_from_pages(pages, county, manifest):
                                           "values": [total, val]})
                     continue
                 if target is None:
-                    orphans[center] = val
+                    # an unattachable cell: best-effort re-keyed where the
+                    # alignment resolves a name, else kept under its center
+                    orphans[by_center.get(center) or center] = val
                     continue
                 first = cells.setdefault(target, val)
                 if first != val:
@@ -1148,14 +1225,14 @@ def parse_county_from_pages(pages, county, manifest):
             if tgt["party"] is None and cand["party"] is not None:
                 tgt["party"] = cand["party"]
         # the page's end context: the section it was reading when it ran out
-        # (the NEXT row block's opening carry), or -- if the page ended under
-        # an unknown_header -- cleared, so a local section continuing onto
-        # the next page never inherits a stale state office.
+        # -- consumed by the NEXT page's boundary decision -- or, if the page
+        # ended under an unknown_header, None, so a local section continuing
+        # onto the next page is not handed a stale state office.
         if last_context_kind == "office":
             end_context = last_office
         elif last_context_kind == "unknown":
             end_context = None
-        prev_had_total = alignments[pno]["had_total"]
+        last_carry_used = first_carry_used
     candidate_rows = [merged[k] for k in order]
     for row in candidate_rows:
         missing = [n for n in all_names if n not in row["cells"]]
@@ -1214,8 +1291,11 @@ def run_gates(pd):
     assembly filled the blanks with 0 and this gate stays silent; anything
     else is flagged. {"kind": "missing_total"} -- a candidate with no total
     anywhere. {"kind": "orphan_cell"} -- a cell that could not be attached
-    to a labeled precinct column. {"kind": "empty_name"} -- a manifest
-    label that normalized to nothing.
+    to a labeled precinct column (reported under the assembly's best-effort
+    re-key: the aligned name when one resolved, else the raw column center).
+    {"kind": "empty_name"} -- a manifest label that normalized to nothing.
+    Local-office rows live OUTSIDE these lists: pd["dropped_local_rows"]
+    reports them directly, and the gates see only what remains.
 
     conflicts: every recorded disagreement, kept visible rather than fixed:
     within-page duplicate-cell overwrites threaded from extract_table_page
@@ -1253,10 +1333,11 @@ def run_gates(pd):
             problems["structure"].append(
                 {"kind": "missing_total", "office": office, "district": district,
                  "seat": seat, "candidate": cand_name, "party": party})
-        for center in sorted(row.get("orphan_cells") or {}):
+        for or_key in sorted(row.get("orphan_cells") or {}, key=str):
             problems["structure"].append(
                 {"kind": "orphan_cell", "candidate": cand_name, "party": party,
-                 "center": center, "value": row["orphan_cells"][center]})
+                 "precinct_or_center": or_key,
+                 "value": row["orphan_cells"][or_key]})
     problems["conflicts"].extend(pd.get("conflicts") or [])
     problems["manifest"].extend(pd.get("manifest_problems") or [])
     problems["structure"].extend(pd.get("structure_problems") or [])

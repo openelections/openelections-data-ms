@@ -3,6 +3,7 @@
 Pure-function tests run everywhere. Integration tests read the real PDFs in
 ~/code/openelections-sources-ms/ and are skipped when that checkout is absent.
 """
+import json
 import os
 import sys
 import unittest
@@ -638,7 +639,6 @@ class AssemblyTests(unittest.TestCase):
         return self._tmpdir
 
     def write_manifest(self, tmpdir, pages=None):
-        import json
         m = {"county": "Synth", "source": "x.pdf", "election_date": "2026-11-03",
              "read_by": "operator-vision", "date": "2026-11-19", "total_label": "TOTAL",
              "pages": pages or {"2": ["P1", "P2", "TOTAL"], "3": ["P1", "P2", "TOTAL"]}}
@@ -662,7 +662,7 @@ class AssemblyTests(unittest.TestCase):
 
         pd = ex.parse_county_from_pages({"2": tp([246.0, 291.0], 2),
                                          "3": tp([246.0, 291.0], 2)},
-                                        ["Synth"],
+                                        "Synth",
                                         self.write_manifest(self.tmpdir()))
         names = pd["precinct_names"]
         self.assertIn("P1", names)
@@ -680,14 +680,14 @@ class AssemblyTests(unittest.TestCase):
         probs = ex.run_gates(
             ex.parse_county_from_pages(
                 {"2": tp([246.0, 291.0, 337.0], [])},
-                ["Synth"],
+                "Synth",
                 self.write_manifest(self.tmpdir(), {"2": ["P1", "P2"]})))
         self.assertTrue(any(p["kind"] == "column_count" for p in probs["manifest"]))
         # two labels normalizing equal -> collision flagged
         probs2 = ex.run_gates(
             ex.parse_county_from_pages(
                 {"2": tp([246.0, 291.0], [])},
-                ["Synth"],
+                "Synth",
                 self.write_manifest(self.tmpdir(), {"2": ["P1", "P1 "]})))
         self.assertTrue(any(p["kind"] == "name_collision" for p in probs2["manifest"]))
 
@@ -707,7 +707,7 @@ class AssemblyTests(unittest.TestCase):
                                          "3": {"precinct_centers": [246.0, 291.0],
                                                "table_top": 200.0, "rows": p3_rows,
                                                "conflicts": []}},
-                                        ["Synth"],
+                                        "Synth",
                                         self.write_manifest(self.tmpdir(),
                                                             {"2": ["P1", "P2", "TOTAL"],
                                                              "3": ["P1", "P2", "TOTAL"]}))
@@ -728,7 +728,7 @@ class AssemblyTests(unittest.TestCase):
                        "rows": [cand_row(5)], "conflicts": []},
                  "3": {"precinct_centers": [246.0], "table_top": 200.0,
                        "rows": [cand_row(7)], "conflicts": []}},
-                ["Synth"],
+                "Synth",
                 self.write_manifest(self.tmpdir(), {"2": ["P1", "TOTAL"],
                                                     "3": ["P1", "TOTAL"]})))
         self.assertTrue(probs["conflicts"], probs)
@@ -748,17 +748,107 @@ class AssemblyTests(unittest.TestCase):
         labels = {"2": ["P1", "P2", "TOTAL"]}
         pd = ex.parse_county_from_pages(
             {"2": tp({246.0: 5, 337.0: 5}, [246.0, 291.0, 337.0])},
-            ["Synth"], self.write_manifest(self.tmpdir(), labels))
+            "Synth", self.write_manifest(self.tmpdir(), labels))
         self.assertEqual(pd["candidate_rows"][0]["cells"], {"P1": 5, "P2": 0})
         self.assertEqual(ex.run_gates(pd), {"total_mismatches": [], "structure": [],
                                             "conflicts": [], "manifest": []})
         probs = ex.run_gates(ex.parse_county_from_pages(
             {"2": tp({246.0: 5}, [246.0, 291.0, 337.0])},
-            ["Synth"], self.write_manifest(self.tmpdir(), labels)))
+            "Synth", self.write_manifest(self.tmpdir(), labels)))
         self.assertTrue(any(p["kind"] == "missing_total" for p in probs["structure"]),
                         probs)
         self.assertTrue(any(p["kind"] == "missing_precinct_cells"
                             for p in probs["structure"]), probs)
+
+
+class CarryBoundaryTests(unittest.TestCase):
+    """Review round: the office carry must refresh at EVERY page boundary
+    (not only after a total-marker page), while a page that opens into a
+    local section never inherits the previous page's federal context."""
+
+    def setUp(self):
+        import tempfile
+        tmp = tempfile.TemporaryDirectory()
+        self.addCleanup(tmp.cleanup)
+        self._tmpdir = tmp.name
+
+    def write_manifest(self, labels):
+        m = {"county": "Synth", "source": "x.pdf", "election_date": "2026-11-03",
+             "read_by": "operator-vision", "date": "2026-11-19", "total_label": "TOTAL",
+             "pages": labels}
+        path = os.path.join(self._tmpdir, "m.json")
+        with open(path, "w") as fh:
+            json.dump(m, fh)
+        return path
+
+    def test_carry_refreshes_on_every_page_boundary(self):
+        # A repeat-columns group whose pages carry NO total marker at all
+        # (the group's TOTAL column appears only on a later page): the carry
+        # must refresh at every boundary, so an office=None opening row on
+        # ANY page of the group carries the context its group began with --
+        # never dropped into dropped_local_rows while the gates stay quiet.
+        # Pages carry disjoint column groups, as the real recaps do.
+        def page(centers, cells_for_x, cells_for_y):
+            rows = [{"kind": "candidate", "candidate": "X", "party": "",
+                     "office": None, "district": None, "seat": None,
+                     "top": 210.0, "bottom": 218.0, "cells": cells_for_x}]
+            if cells_for_y is not None:
+                rows += [{"kind": "office", "office": "Office B", "district": "",
+                          "seat": None},
+                         {"kind": "candidate", "candidate": "Y", "party": "",
+                          "office": "Office B", "district": "", "seat": None,
+                          "top": 230.0, "bottom": 238.0, "cells": cells_for_y}]
+            return {"precinct_centers": centers, "table_top": 200.0,
+                    "rows": rows, "conflicts": []}
+        labels = {"2": ["P1", "P2"], "3": ["P3"], "4": ["P4"]}
+        pd = ex.parse_county_from_pages(
+            {"2": {"precinct_centers": [246.0, 291.0], "table_top": 200.0,
+                   "rows": [{"kind": "office", "office": "Office A",
+                             "district": "", "seat": None},
+                            {"kind": "candidate", "candidate": "X",
+                             "party": "", "office": "Office A",
+                             "district": "", "seat": None,
+                             "top": 210.0, "bottom": 218.0,
+                             "cells": {246.0: 1, 291.0: 2}}],
+                   "conflicts": []},
+             "3": page([246.0], {246.0: 3}, {246.0: 4}),
+             "4": page([246.0], {246.0: 5}, {246.0: 6})},
+            "Synth", self.write_manifest(labels))
+        self.assertEqual(pd["dropped_local_rows"], [])
+        by_name = {r["candidate"]: r for r in pd["candidate_rows"]}
+        self.assertEqual(by_name["X"]["office"], "Office A")
+        self.assertEqual(by_name["X"]["cells"],
+                         {"P1": 1, "P2": 2, "P3": 3, "P4": 5})
+        self.assertEqual(by_name["Y"]["office"], "Office B")
+        self.assertEqual(by_name["Y"]["cells"], {"P3": 4, "P4": 6})
+
+    def test_local_section_opener_never_carries_federal_context(self):
+        # Warren p5/p6's shape: a repeat group whose pages open with a
+        # local-race row and whose first header is an unknown_header -- the
+        # previous page's federal end context must not leak onto them.
+        def page(rows):
+            return {"precinct_centers": [246.0], "table_top": 200.0,
+                    "rows": rows, "conflicts": []}
+        pd = ex.parse_county_from_pages(
+            {"2": page([{"kind": "office", "office": "State Office",
+                         "district": "", "seat": None},
+                        {"kind": "candidate", "candidate": "W", "party": "",
+                         "office": "State Office", "district": "", "seat": None,
+                         "top": 210.0, "bottom": 218.0, "cells": {246.0: 1}}]),
+             "3": page([{"kind": "candidate", "candidate": "C", "party": "",
+                         "office": None, "district": None, "seat": None,
+                         "top": 210.0, "bottom": 218.0, "cells": {246.0: 2}},
+                        {"kind": "unknown_header", "text": "Local Judge"},
+                        {"kind": "candidate", "candidate": "S", "party": "",
+                         "office": None, "district": None, "seat": None,
+                         "top": 230.0, "bottom": 238.0, "cells": {246.0: 3}}])},
+            "Synth", self.write_manifest({"2": ["P1"], "3": ["P1"]}))
+        self.assertEqual([(r["candidate"], r["office"])
+                          for r in pd["candidate_rows"]],
+                         [("W", "State Office")])
+        self.assertEqual([(d["candidate"], d["page"], d["office"])
+                          for d in pd["dropped_local_rows"]],
+                         [("C", 3, None), ("S", 3, None)])
 
 
 class CarryPinTests(unittest.TestCase):
@@ -912,6 +1002,90 @@ class LocalHeaderTests(unittest.TestCase):
                          [("Bulger", "DEM", None),
                           ("Next Person", "REP", None)])
 
+    def test_fragment_consumption_capped_at_three(self):
+        # The run of consumed fragments per open header is bounded at 3:
+        # a 4th fragment-shaped line classifies normally (a candidate row)
+        # instead of extending the header forever.
+        rows = self.run_rows([
+            ("Warren County-County Court Judge", 160.0),
+            ("LIstnCT", 168.0), ("u.strica", 176.0), ("garb1", 184.0),
+            ("garb2", 192.0),
+        ])
+        self.assertEqual([r["text"] for r in rows if r["kind"] == "unknown_header"],
+                         ["Warren County-County Court Judge LIstnCT u.strica garb1"])
+        self.assertEqual([(c["candidate"], c["office"])
+                          for c in rows if c["kind"] == "candidate"],
+                         [("garb2", None)])
+
+    def test_new_office_row_closes_fragment_run(self):
+        # A newly-opened office section must close the local block: the
+        # armed header never swallows lines that follow a later office row.
+        rows = self.run_rows([
+            ("Warren County-County Court Judge", 160.0),
+            ("Chancery Court 9-2-Chancery District 9-2", 168.0),
+            ("LIstnCT", 176.0),
+        ])
+        self.assertEqual([r["text"] for r in rows if r["kind"] == "unknown_header"],
+                         ["Warren County-County Court Judge"])
+        self.assertEqual([(o["office"], o["district"])
+                          for o in rows if o["kind"] == "office"],
+                         [("Chancery Court", "9")])
+        self.assertEqual([(c["candidate"], c["office"])
+                          for c in rows if c["kind"] == "candidate"],
+                         [("LIstnCT", "Chancery Court")])
+
+    def test_lone_name_token_survives_after_local_header(self):
+        # The reviewer probe: a plausible single-token NAME after a local
+        # header is a candidate, never a garbage fragment -- only
+        # name-implausible tokens ('LIstnCT', 'u.strica') are consumable.
+        rows = self.run_rows([
+            ("Warren County-County Court Judge", 160.0),
+            ("Justice Court District 1", 168.0),
+            ("Bulger", 176.0),
+            ("Two Word", 184.0),
+        ])
+        self.assertEqual([u["text"] for u in rows if u["kind"] == "unknown_header"],
+                         ["Warren County-County Court Judge",
+                          "Justice Court District 1"])
+        self.assertEqual([(c["candidate"], c["office"])
+                          for c in rows if c["kind"] == "candidate"],
+                         [("Bulger", None), ("Two Word", None)])
+
+
+class ManifestShapeTests(unittest.TestCase):
+    """load_manifest shape validation: wrong shapes are recorded problems,
+    never deep TypeErrors."""
+
+    def setUp(self):
+        import tempfile
+        tmp = tempfile.TemporaryDirectory()
+        self.addCleanup(tmp.cleanup)
+        self._tmpdir = tmp.name
+
+    def write_manifest(self, manifest):
+        path = os.path.join(self._tmpdir, "m.json")
+        with open(path, "w") as fh:
+            json.dump(manifest, fh)
+        return path
+
+    def test_shape_failures_recorded(self):
+        for bad, key in (({"county": "X", "source": "s", "total_label": "TOTAL",
+                           "pages": ["P1", "TOTAL"]}, "pages"),
+                         ({"county": "X", "source": "s", "total_label": "  ",
+                           "pages": {"2": ["P1"]}}, "total_label"),
+                         ({"county": "X", "source": "s", "total_label": "TOTAL",
+                           "pages": {"2": ["P1", 5]}}, "pages")):
+            manifest, problems = ex.load_manifest(self.write_manifest(bad))
+            self.assertTrue(any(p.get("kind") == "manifest_shape"
+                                and p.get("key") == key for p in problems), problems)
+
+    def test_good_manifest_clean(self):
+        good = {"county": "X", "source": "s", "total_label": "TOTAL",
+                "pages": {"2": ["P1", "TOTAL"]}}
+        manifest, problems = ex.load_manifest(self.write_manifest(good))
+        self.assertEqual(problems, [])
+        self.assertEqual(manifest["pages"]["2"], ["P1", "TOTAL"])
+
 
 @unittest.skipUnless(SOURCES_PRESENT, "sources checkout not present")
 class UnionCountyTests(unittest.TestCase):
@@ -937,16 +1111,22 @@ class UnionCountyTests(unittest.TestCase):
 
     def test_school_rows_in_dropped_local_rows(self):
         # The New Albany local-race block routes through unknown_header; its
-        # only candidate rows are recorded whole (raw text + captured cells),
-        # never merged into any reconciled figure, and absent from
-        # candidate_rows.
+        # only candidate rows are recorded whole (raw text + captured cells,
+        # best-effort re-keyed where the manifest alignment resolves them,
+        # the TOTAL-column capture kept verbatim), never merged into any
+        # reconciled figure, and absent from candidate_rows.
         dropped = self.pd["dropped_local_rows"]
         self.assertEqual([d["candidate"] for d in dropped],
                          ["I David Rainey", "(David Rainey"])
         self.assertEqual([d["page"] for d in dropped], [4, 5])
         self.assertEqual([d["office"] for d in dropped], [None, None])
-        self.assertEqual([sorted(d["cells"].values()) for d in dropped],
-                         [[1, 1, 3261], [1, 76, 261, 891, 1301, 2691, 9161]])
+        self.assertEqual([d["cells"] for d in dropped],
+                         [{"Glenfield": 1, "Sportsplex": 1,
+                           "Central Maintenance": 3261},
+                          {"Beacon Hill": 261, "Hillcrest Church": 1,
+                           "Center": 76, "Watson Grove Church": 1301,
+                           "Keownville": 2691, "Pleasant Ridge": 891,
+                           "TOTAL": 9161}])
         names = {r["candidate"] for r in self.pd["candidate_rows"]}
         self.assertFalse(names & {"I David Rainey", "(David Rainey",
                                   "New Albany Added Territory-Added Territory",
