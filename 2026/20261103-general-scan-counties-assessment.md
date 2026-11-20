@@ -93,13 +93,15 @@ generation run unchanged. Pipeline additions needed first (small):
   print one row block late on a continuation page (Benton p3 — seat pairing
   adjudicated against the printed boxes).
 - Tier 1 (5 pp): the bulk (~40 counties).
-  **Status: first five CONVERTED** (Adams, Attala, Carroll, Chickasaw,
-  Choctaw — see `2026/20261103-general-text-layer-notes.md`, Tier-1
-  section). They establish the five-page sheet anatomy (cert page, then two
-  tables each split into column groups, TOTAL column only on each table's
-  second page), confirm the rotation triad per county, and carry four
-  section-continuation rows across the table-A/table-B boundary that the
-  manifests pin via operator_rows.
+  **Status: first ten CONVERTED** (Adams, Attala, Carroll, Chickasaw,
+  Choctaw; then Coahoma, Copiah, Covington, Franklin, George — see
+  `2026/20261103-general-text-layer-notes.md`, Tier-1 sections). They
+  establish the five-page sheet anatomy (cert page, then two tables each
+  split into column groups, TOTAL column only on each table's second page),
+  confirm the rotation triad per county, and carry six section-continuation
+  rows across the table-A/table-B boundary that the manifests pin via
+  operator_rows; Franklin additionally shows SEMS dropping a Place's whole
+  section when no county precinct votes in it (Circuit 6-1).
 - Tier 2 (7-10 pp): Alcorn, Clarke, Itawamba, Monroe, Pike, Bolivar, etc.
 - Tier 3 (13-16 pp): Hancock, Pearl River, DeSoto, Harrison, Madison, Rankin.
 - Tier 4: Hinds (51 pp — column groups x row blocks, several State House

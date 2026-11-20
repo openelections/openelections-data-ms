@@ -1,0 +1,337 @@
+county,precinct,office,district,candidate,party,votes
+George,Agricola,U.S. Senate,,Scott Colom,DEM,79
+George,Agricola,U.S. Senate,,Cindy Hyde-Smith,REP,752
+George,Agricola,U.S. Senate,,Ty Pinkins,IND,26
+George,Agricola,U.S. House,4,Mike Ezell,REP,765
+George,Agricola,U.S. House,4,Jeffrey Hulum III,DEM,68
+George,Agricola,U.S. House,4,Carl Boyanton,IND,27
+George,Agricola,Court of Appeals,5,Anthony 'Tony' Lawrence,,753
+George,Agricola,Chancery Court Place 1,16,D. Neil Harris Sr.,,457
+George,Agricola,Chancery Court Place 1,16,Jennifer Sekul Harris,,260
+George,Agricola,Chancery Court Place 1,16,Matthew Paul Pavlov,,62
+George,Agricola,Chancery Court Place 2,16,Ashlee Cole,,747
+George,Agricola,Chancery Court Place 3,16,Mark Maples,,781
+George,Agricola,Chancery Court Place 4,16,Kaleigh Nelson,,746
+George,Agricola,Circuit Court Place 1,18,Brad R. Thompson,,632
+George,Agricola,Circuit Court Place 1,18,Eric Tiebauer,,129
+George,Agricola,Circuit Court Place 2,18,Darryl A. Hurt Jr.,,761
+George,Barton,U.S. Senate,,Scott Colom,DEM,74
+George,Barton,U.S. Senate,,Cindy Hyde-Smith,REP,412
+George,Barton,U.S. Senate,,Ty Pinkins,IND,28
+George,Barton,U.S. House,4,Mike Ezell,REP,437
+George,Barton,U.S. House,4,Jeffrey Hulum III,DEM,63
+George,Barton,U.S. House,4,Carl Boyanton,IND,13
+George,Barton,Court of Appeals,5,Anthony 'Tony' Lawrence,,442
+George,Barton,Chancery Court Place 1,16,D. Neil Harris Sr.,,256
+George,Barton,Chancery Court Place 1,16,Jennifer Sekul Harris,,175
+George,Barton,Chancery Court Place 1,16,Matthew Paul Pavlov,,42
+George,Barton,Chancery Court Place 2,16,Ashlee Cole,,438
+George,Barton,Chancery Court Place 3,16,Mark Maples,,460
+George,Barton,Chancery Court Place 4,16,Kaleigh Nelson,,445
+George,Barton,Circuit Court Place 1,18,Brad R. Thompson,,384
+George,Barton,Circuit Court Place 1,18,Eric Tiebauer,,61
+George,Barton,Circuit Court Place 2,18,Darryl A. Hurt Jr.,,462
+George,Basin,U.S. Senate,,Scott Colom,DEM,141
+George,Basin,U.S. Senate,,Cindy Hyde-Smith,REP,487
+George,Basin,U.S. Senate,,Ty Pinkins,IND,18
+George,Basin,U.S. House,4,Mike Ezell,REP,504
+George,Basin,U.S. House,4,Jeffrey Hulum III,DEM,130
+George,Basin,U.S. House,4,Carl Boyanton,IND,14
+George,Basin,Court of Appeals,5,Anthony 'Tony' Lawrence,,553
+George,Basin,Chancery Court Place 1,16,D. Neil Harris Sr.,,305
+George,Basin,Chancery Court Place 1,16,Jennifer Sekul Harris,,216
+George,Basin,Chancery Court Place 1,16,Matthew Paul Pavlov,,57
+George,Basin,Chancery Court Place 2,16,Ashlee Cole,,538
+George,Basin,Chancery Court Place 3,16,Mark Maples,,592
+George,Basin,Chancery Court Place 4,16,Kaleigh Nelson,,545
+George,Basin,Circuit Court Place 1,18,Brad R. Thompson,,459
+George,Basin,Circuit Court Place 1,18,Eric Tiebauer,,103
+George,Basin,Circuit Court Place 2,18,Darryl A. Hurt Jr.,,586
+George,Benndale,U.S. Senate,,Scott Colom,DEM,98
+George,Benndale,U.S. Senate,,Cindy Hyde-Smith,REP,254
+George,Benndale,U.S. Senate,,Ty Pinkins,IND,15
+George,Benndale,U.S. House,4,Mike Ezell,REP,269
+George,Benndale,U.S. House,4,Jeffrey Hulum III,DEM,82
+George,Benndale,U.S. House,4,Carl Boyanton,IND,14
+George,Benndale,Court of Appeals,5,Anthony 'Tony' Lawrence,,291
+George,Benndale,Chancery Court Place 1,16,D. Neil Harris Sr.,,158
+George,Benndale,Chancery Court Place 1,16,Jennifer Sekul Harris,,118
+George,Benndale,Chancery Court Place 1,16,Matthew Paul Pavlov,,37
+George,Benndale,Chancery Court Place 2,16,Ashlee Cole,,276
+George,Benndale,Chancery Court Place 3,16,Mark Maples,,315
+George,Benndale,Chancery Court Place 4,16,Kaleigh Nelson,,276
+George,Benndale,Circuit Court Place 1,18,Brad R. Thompson,,251
+George,Benndale,Circuit Court Place 1,18,Eric Tiebauer,,47
+George,Benndale,Circuit Court Place 2,18,Darryl A. Hurt Jr.,,306
+George,Bexley,U.S. Senate,,Scott Colom,DEM,59
+George,Bexley,U.S. Senate,,Cindy Hyde-Smith,REP,202
+George,Bexley,U.S. Senate,,Ty Pinkins,IND,13
+George,Bexley,U.S. House,4,Mike Ezell,REP,218
+George,Bexley,U.S. House,4,Jeffrey Hulum III,DEM,51
+George,Bexley,U.S. House,4,Carl Boyanton,IND,3
+George,Bexley,Court of Appeals,5,Anthony 'Tony' Lawrence,,238
+George,Bexley,Chancery Court Place 1,16,D. Neil Harris Sr.,,135
+George,Bexley,Chancery Court Place 1,16,Jennifer Sekul Harris,,78
+George,Bexley,Chancery Court Place 1,16,Matthew Paul Pavlov,,26
+George,Bexley,Chancery Court Place 2,16,Ashlee Cole,,228
+George,Bexley,Chancery Court Place 3,16,Mark Maples,,252
+George,Bexley,Chancery Court Place 4,16,Kaleigh Nelson,,232
+George,Bexley,Circuit Court Place 1,18,Brad R. Thompson,,193
+George,Bexley,Circuit Court Place 1,18,Eric Tiebauer,,51
+George,Bexley,Circuit Court Place 2,18,Darryl A. Hurt Jr.,,251
+George,Broome,U.S. Senate,,Scott Colom,DEM,5
+George,Broome,U.S. Senate,,Cindy Hyde-Smith,REP,109
+George,Broome,U.S. Senate,,Ty Pinkins,IND,10
+George,Broome,U.S. House,4,Mike Ezell,REP,116
+George,Broome,U.S. House,4,Jeffrey Hulum III,DEM,4
+George,Broome,U.S. House,4,Carl Boyanton,IND,4
+George,Broome,Court of Appeals,5,Anthony 'Tony' Lawrence,,104
+George,Broome,Chancery Court Place 1,16,D. Neil Harris Sr.,,55
+George,Broome,Chancery Court Place 1,16,Jennifer Sekul Harris,,33
+George,Broome,Chancery Court Place 1,16,Matthew Paul Pavlov,,18
+George,Broome,Chancery Court Place 2,16,Ashlee Cole,,102
+George,Broome,Chancery Court Place 3,16,Mark Maples,,112
+George,Broome,Chancery Court Place 4,16,Kaleigh Nelson,,100
+George,Broome,Circuit Court Place 1,18,Brad R. Thompson,,85
+George,Broome,Circuit Court Place 1,18,Eric Tiebauer,,14
+George,Broome,Circuit Court Place 2,18,Darryl A. Hurt Jr.,,98
+George,Central,U.S. Senate,,Scott Colom,DEM,36
+George,Central,U.S. Senate,,Cindy Hyde-Smith,REP,167
+George,Central,U.S. Senate,,Ty Pinkins,IND,5
+George,Central,U.S. House,4,Mike Ezell,REP,174
+George,Central,U.S. House,4,Jeffrey Hulum III,DEM,30
+George,Central,U.S. House,4,Carl Boyanton,IND,5
+George,Central,Court of Appeals,5,Anthony 'Tony' Lawrence,,186
+George,Central,Chancery Court Place 1,16,D. Neil Harris Sr.,,119
+George,Central,Chancery Court Place 1,16,Jennifer Sekul Harris,,76
+George,Central,Chancery Court Place 1,16,Matthew Paul Pavlov,,5
+George,Central,Chancery Court Place 2,16,Ashlee Cole,,180
+George,Central,Chancery Court Place 3,16,Mark Maples,,192
+George,Central,Chancery Court Place 4,16,Kaleigh Nelson,,183
+George,Central,Circuit Court Place 1,18,Brad R. Thompson,,161
+George,Central,Circuit Court Place 1,18,Eric Tiebauer,,27
+George,Central,Circuit Court Place 2,18,Darryl A. Hurt Jr.,,192
+George,City Hall,U.S. Senate,,Scott Colom,DEM,90
+George,City Hall,U.S. Senate,,Cindy Hyde-Smith,REP,393
+George,City Hall,U.S. Senate,,Ty Pinkins,IND,16
+George,City Hall,U.S. House,4,Mike Ezell,REP,413
+George,City Hall,U.S. House,4,Jeffrey Hulum III,DEM,78
+George,City Hall,U.S. House,4,Carl Boyanton,IND,10
+George,City Hall,Court of Appeals,5,Anthony 'Tony' Lawrence,,430
+George,City Hall,Chancery Court Place 1,16,D. Neil Harris Sr.,,265
+George,City Hall,Chancery Court Place 1,16,Jennifer Sekul Harris,,146
+George,City Hall,Chancery Court Place 1,16,Matthew Paul Pavlov,,42
+George,City Hall,Chancery Court Place 2,16,Ashlee Cole,,427
+George,City Hall,Chancery Court Place 3,16,Mark Maples,,453
+George,City Hall,Chancery Court Place 4,16,Kaleigh Nelson,,426
+George,City Hall,Circuit Court Place 1,18,Brad R. Thompson,,377
+George,City Hall,Circuit Court Place 1,18,Eric Tiebauer,,61
+George,City Hall,Circuit Court Place 2,18,Darryl A. Hurt Jr.,,429
+George,Courthouse,U.S. Senate,,Scott Colom,DEM,34
+George,Courthouse,U.S. Senate,,Cindy Hyde-Smith,REP,118
+George,Courthouse,U.S. Senate,,Ty Pinkins,IND,6
+George,Courthouse,U.S. House,4,Mike Ezell,REP,125
+George,Courthouse,U.S. House,4,Jeffrey Hulum III,DEM,30
+George,Courthouse,U.S. House,4,Carl Boyanton,IND,5
+George,Courthouse,Court of Appeals,5,Anthony 'Tony' Lawrence,,140
+George,Courthouse,Chancery Court Place 1,16,D. Neil Harris Sr.,,93
+George,Courthouse,Chancery Court Place 1,16,Jennifer Sekul Harris,,56
+George,Courthouse,Chancery Court Place 1,16,Matthew Paul Pavlov,,7
+George,Courthouse,Chancery Court Place 2,16,Ashlee Cole,,141
+George,Courthouse,Chancery Court Place 3,16,Mark Maples,,147
+George,Courthouse,Chancery Court Place 4,16,Kaleigh Nelson,,141
+George,Courthouse,Circuit Court Place 1,18,Brad R. Thompson,,126
+George,Courthouse,Circuit Court Place 1,18,Eric Tiebauer,,20
+George,Courthouse,Circuit Court Place 2,18,Darryl A. Hurt Jr.,,145
+George,Davis,U.S. Senate,,Scott Colom,DEM,12
+George,Davis,U.S. Senate,,Cindy Hyde-Smith,REP,157
+George,Davis,U.S. Senate,,Ty Pinkins,IND,6
+George,Davis,U.S. House,4,Mike Ezell,REP,164
+George,Davis,U.S. House,4,Jeffrey Hulum III,DEM,9
+George,Davis,U.S. House,4,Carl Boyanton,IND,1
+George,Davis,Court of Appeals,5,Anthony 'Tony' Lawrence,,155
+George,Davis,Chancery Court Place 1,16,D. Neil Harris Sr.,,90
+George,Davis,Chancery Court Place 1,16,Jennifer Sekul Harris,,55
+George,Davis,Chancery Court Place 1,16,Matthew Paul Pavlov,,17
+George,Davis,Chancery Court Place 2,16,Ashlee Cole,,149
+George,Davis,Chancery Court Place 3,16,Mark Maples,,162
+George,Davis,Chancery Court Place 4,16,Kaleigh Nelson,,150
+George,Davis,Circuit Court Place 1,18,Brad R. Thompson,,138
+George,Davis,Circuit Court Place 1,18,Eric Tiebauer,,19
+George,Davis,Circuit Court Place 2,18,Darryl A. Hurt Jr.,,160
+George,Fairgrounds,U.S. Senate,,Scott Colom,DEM,12
+George,Fairgrounds,U.S. Senate,,Cindy Hyde-Smith,REP,100
+George,Fairgrounds,U.S. Senate,,Ty Pinkins,IND,4
+George,Fairgrounds,U.S. House,4,Mike Ezell,REP,106
+George,Fairgrounds,U.S. House,4,Jeffrey Hulum III,DEM,10
+George,Fairgrounds,U.S. House,4,Carl Boyanton,IND,0
+George,Fairgrounds,Court of Appeals,5,Anthony 'Tony' Lawrence,,104
+George,Fairgrounds,Chancery Court Place 1,16,D. Neil Harris Sr.,,59
+George,Fairgrounds,Chancery Court Place 1,16,Jennifer Sekul Harris,,42
+George,Fairgrounds,Chancery Court Place 1,16,Matthew Paul Pavlov,,7
+George,Fairgrounds,Chancery Court Place 2,16,Ashlee Cole,,105
+George,Fairgrounds,Chancery Court Place 3,16,Mark Maples,,110
+George,Fairgrounds,Chancery Court Place 4,16,Kaleigh Nelson,,104
+George,Fairgrounds,Circuit Court Place 1,18,Brad R. Thompson,,97
+George,Fairgrounds,Circuit Court Place 1,18,Eric Tiebauer,,12
+George,Fairgrounds,Circuit Court Place 2,18,Darryl A. Hurt Jr.,,107
+George,Howell,U.S. Senate,,Scott Colom,DEM,31
+George,Howell,U.S. Senate,,Cindy Hyde-Smith,REP,256
+George,Howell,U.S. Senate,,Ty Pinkins,IND,10
+George,Howell,U.S. House,4,Mike Ezell,REP,275
+George,Howell,U.S. House,4,Jeffrey Hulum III,DEM,21
+George,Howell,U.S. House,4,Carl Boyanton,IND,3
+George,Howell,Court of Appeals,5,Anthony 'Tony' Lawrence,,240
+George,Howell,Chancery Court Place 1,16,D. Neil Harris Sr.,,141
+George,Howell,Chancery Court Place 1,16,Jennifer Sekul Harris,,68
+George,Howell,Chancery Court Place 1,16,Matthew Paul Pavlov,,35
+George,Howell,Chancery Court Place 2,16,Ashlee Cole,,241
+George,Howell,Chancery Court Place 3,16,Mark Maples,,249
+George,Howell,Chancery Court Place 4,16,Kaleigh Nelson,,238
+George,Howell,Circuit Court Place 1,18,Brad R. Thompson,,196
+George,Howell,Circuit Court Place 1,18,Eric Tiebauer,,40
+George,Howell,Circuit Court Place 2,18,Darryl A. Hurt Jr.,,245
+George,Middle School,U.S. Senate,,Scott Colom,DEM,168
+George,Middle School,U.S. Senate,,Cindy Hyde-Smith,REP,139
+George,Middle School,U.S. Senate,,Ty Pinkins,IND,11
+George,Middle School,U.S. House,4,Mike Ezell,REP,155
+George,Middle School,U.S. House,4,Jeffrey Hulum III,DEM,152
+George,Middle School,U.S. House,4,Carl Boyanton,IND,11
+George,Middle School,Court of Appeals,5,Anthony 'Tony' Lawrence,,263
+George,Middle School,Chancery Court Place 1,16,D. Neil Harris Sr.,,151
+George,Middle School,Chancery Court Place 1,16,Jennifer Sekul Harris,,98
+George,Middle School,Chancery Court Place 1,16,Matthew Paul Pavlov,,38
+George,Middle School,Chancery Court Place 2,16,Ashlee Cole,,233
+George,Middle School,Chancery Court Place 3,16,Mark Maples,,289
+George,Middle School,Chancery Court Place 4,16,Kaleigh Nelson,,254
+George,Middle School,Circuit Court Place 1,18,Brad R. Thompson,,215
+George,Middle School,Circuit Court Place 1,18,Eric Tiebauer,,52
+George,Middle School,Circuit Court Place 2,18,Darryl A. Hurt Jr.,,285
+George,Movella,U.S. Senate,,Scott Colom,DEM,16
+George,Movella,U.S. Senate,,Cindy Hyde-Smith,REP,193
+George,Movella,U.S. Senate,,Ty Pinkins,IND,5
+George,Movella,U.S. House,4,Mike Ezell,REP,197
+George,Movella,U.S. House,4,Jeffrey Hulum III,DEM,14
+George,Movella,U.S. House,4,Carl Boyanton,IND,5
+George,Movella,Court of Appeals,5,Anthony 'Tony' Lawrence,,183
+George,Movella,Chancery Court Place 1,16,D. Neil Harris Sr.,,101
+George,Movella,Chancery Court Place 1,16,Jennifer Sekul Harris,,72
+George,Movella,Chancery Court Place 1,16,Matthew Paul Pavlov,,16
+George,Movella,Chancery Court Place 2,16,Ashlee Cole,,186
+George,Movella,Chancery Court Place 3,16,Mark Maples,,188
+George,Movella,Chancery Court Place 4,16,Kaleigh Nelson,,180
+George,Movella,Circuit Court Place 1,18,Brad R. Thompson,,145
+George,Movella,Circuit Court Place 1,18,Eric Tiebauer,,35
+George,Movella,Circuit Court Place 2,18,Darryl A. Hurt Jr.,,186
+George,Multi Mart,U.S. Senate,,Scott Colom,DEM,35
+George,Multi Mart,U.S. Senate,,Cindy Hyde-Smith,REP,118
+George,Multi Mart,U.S. Senate,,Ty Pinkins,IND,6
+George,Multi Mart,U.S. House,4,Mike Ezell,REP,131
+George,Multi Mart,U.S. House,4,Jeffrey Hulum III,DEM,28
+George,Multi Mart,U.S. House,4,Carl Boyanton,IND,0
+George,Multi Mart,Court of Appeals,5,Anthony 'Tony' Lawrence,,144
+George,Multi Mart,Chancery Court Place 1,16,D. Neil Harris Sr.,,81
+George,Multi Mart,Chancery Court Place 1,16,Jennifer Sekul Harris,,48
+George,Multi Mart,Chancery Court Place 1,16,Matthew Paul Pavlov,,17
+George,Multi Mart,Chancery Court Place 2,16,Ashlee Cole,,139
+George,Multi Mart,Chancery Court Place 3,16,Mark Maples,,148
+George,Multi Mart,Chancery Court Place 4,16,Kaleigh Nelson,,145
+George,Multi Mart,Circuit Court Place 1,18,Brad R. Thompson,,135
+George,Multi Mart,Circuit Court Place 1,18,Eric Tiebauer,,15
+George,Multi Mart,Circuit Court Place 2,18,Darryl A. Hurt Jr.,,153
+George,Rocky Creek,U.S. Senate,,Scott Colom,DEM,80
+George,Rocky Creek,U.S. Senate,,Cindy Hyde-Smith,REP,672
+George,Rocky Creek,U.S. Senate,,Ty Pinkins,IND,32
+George,Rocky Creek,U.S. House,4,Mike Ezell,REP,694
+George,Rocky Creek,U.S. House,4,Jeffrey Hulum III,DEM,73
+George,Rocky Creek,U.S. House,4,Carl Boyanton,IND,18
+George,Rocky Creek,Court of Appeals,5,Anthony 'Tony' Lawrence,,691
+George,Rocky Creek,Chancery Court Place 1,16,D. Neil Harris Sr.,,472
+George,Rocky Creek,Chancery Court Place 1,16,Jennifer Sekul Harris,,195
+George,Rocky Creek,Chancery Court Place 1,16,Matthew Paul Pavlov,,61
+George,Rocky Creek,Chancery Court Place 2,16,Ashlee Cole,,705
+George,Rocky Creek,Chancery Court Place 3,16,Mark Maples,,735
+George,Rocky Creek,Chancery Court Place 4,16,Kaleigh Nelson,,699
+George,Rocky Creek,Circuit Court Place 1,18,Brad R. Thompson,,649
+George,Rocky Creek,Circuit Court Place 1,18,Eric Tiebauer,,84
+George,Rocky Creek,Circuit Court Place 2,18,Darryl A. Hurt Jr.,,737
+George,Salem,U.S. Senate,,Scott Colom,DEM,22
+George,Salem,U.S. Senate,,Cindy Hyde-Smith,REP,41
+George,Salem,U.S. Senate,,Ty Pinkins,IND,1
+George,Salem,U.S. House,4,Mike Ezell,REP,45
+George,Salem,U.S. House,4,Jeffrey Hulum III,DEM,19
+George,Salem,U.S. House,4,Carl Boyanton,IND,0
+George,Salem,Court of Appeals,5,Anthony 'Tony' Lawrence,,48
+George,Salem,Chancery Court Place 1,16,D. Neil Harris Sr.,,34
+George,Salem,Chancery Court Place 1,16,Jennifer Sekul Harris,,19
+George,Salem,Chancery Court Place 1,16,Matthew Paul Pavlov,,6
+George,Salem,Chancery Court Place 2,16,Ashlee Cole,,42
+George,Salem,Chancery Court Place 3,16,Mark Maples,,52
+George,Salem,Chancery Court Place 4,16,Kaleigh Nelson,,45
+George,Salem,Circuit Court Place 1,18,Brad R. Thompson,,42
+George,Salem,Circuit Court Place 1,18,Eric Tiebauer,,11
+George,Salem,Circuit Court Place 2,18,Darryl A. Hurt Jr.,,51
+George,Shady Grove,U.S. Senate,,Scott Colom,DEM,51
+George,Shady Grove,U.S. Senate,,Cindy Hyde-Smith,REP,350
+George,Shady Grove,U.S. Senate,,Ty Pinkins,IND,17
+George,Shady Grove,U.S. House,4,Mike Ezell,REP,370
+George,Shady Grove,U.S. House,4,Jeffrey Hulum III,DEM,39
+George,Shady Grove,U.S. House,4,Carl Boyanton,IND,11
+George,Shady Grove,Court of Appeals,5,Anthony 'Tony' Lawrence,,359
+George,Shady Grove,Chancery Court Place 1,16,D. Neil Harris Sr.,,200
+George,Shady Grove,Chancery Court Place 1,16,Jennifer Sekul Harris,,135
+George,Shady Grove,Chancery Court Place 1,16,Matthew Paul Pavlov,,44
+George,Shady Grove,Chancery Court Place 2,16,Ashlee Cole,,357
+George,Shady Grove,Chancery Court Place 3,16,Mark Maples,,379
+George,Shady Grove,Chancery Court Place 4,16,Kaleigh Nelson,,365
+George,Shady Grove,Circuit Court Place 1,18,Brad R. Thompson,,319
+George,Shady Grove,Circuit Court Place 1,18,Eric Tiebauer,,54
+George,Shady Grove,Circuit Court Place 2,18,Darryl A. Hurt Jr.,,381
+George,Shipman,U.S. Senate,,Scott Colom,DEM,30
+George,Shipman,U.S. Senate,,Cindy Hyde-Smith,REP,194
+George,Shipman,U.S. Senate,,Ty Pinkins,IND,4
+George,Shipman,U.S. House,4,Mike Ezell,REP,201
+George,Shipman,U.S. House,4,Jeffrey Hulum III,DEM,23
+George,Shipman,U.S. House,4,Carl Boyanton,IND,3
+George,Shipman,Court of Appeals,5,Anthony 'Tony' Lawrence,,168
+George,Shipman,Chancery Court Place 1,16,D. Neil Harris Sr.,,125
+George,Shipman,Chancery Court Place 1,16,Jennifer Sekul Harris,,53
+George,Shipman,Chancery Court Place 1,16,Matthew Paul Pavlov,,7
+George,Shipman,Chancery Court Place 2,16,Ashlee Cole,,168
+George,Shipman,Chancery Court Place 3,16,Mark Maples,,190
+George,Shipman,Chancery Court Place 4,16,Kaleigh Nelson,,166
+George,Shipman,Circuit Court Place 1,18,Brad R. Thompson,,148
+George,Shipman,Circuit Court Place 1,18,Eric Tiebauer,,36
+George,Shipman,Circuit Court Place 2,18,Darryl A. Hurt Jr.,,185
+George,Twin Creek,U.S. Senate,,Scott Colom,DEM,44
+George,Twin Creek,U.S. Senate,,Cindy Hyde-Smith,REP,164
+George,Twin Creek,U.S. Senate,,Ty Pinkins,IND,9
+George,Twin Creek,U.S. House,4,Mike Ezell,REP,177
+George,Twin Creek,U.S. House,4,Jeffrey Hulum III,DEM,35
+George,Twin Creek,U.S. House,4,Carl Boyanton,IND,6
+George,Twin Creek,Court of Appeals,5,Anthony 'Tony' Lawrence,,180
+George,Twin Creek,Chancery Court Place 1,16,D. Neil Harris Sr.,,101
+George,Twin Creek,Chancery Court Place 1,16,Jennifer Sekul Harris,,72
+George,Twin Creek,Chancery Court Place 1,16,Matthew Paul Pavlov,,17
+George,Twin Creek,Chancery Court Place 2,16,Ashlee Cole,,177
+George,Twin Creek,Chancery Court Place 3,16,Mark Maples,,190
+George,Twin Creek,Chancery Court Place 4,16,Kaleigh Nelson,,180
+George,Twin Creek,Circuit Court Place 1,18,Brad R. Thompson,,151
+George,Twin Creek,Circuit Court Place 1,18,Eric Tiebauer,,31
+George,Twin Creek,Circuit Court Place 2,18,Darryl A. Hurt Jr.,,185
+George,Ward,U.S. Senate,,Scott Colom,DEM,23
+George,Ward,U.S. Senate,,Cindy Hyde-Smith,REP,199
+George,Ward,U.S. Senate,,Ty Pinkins,IND,8
+George,Ward,U.S. House,4,Mike Ezell,REP,207
+George,Ward,U.S. House,4,Jeffrey Hulum III,DEM,17
+George,Ward,U.S. House,4,Carl Boyanton,IND,6
+George,Ward,Court of Appeals,5,Anthony 'Tony' Lawrence,,204
+George,Ward,Chancery Court Place 1,16,D. Neil Harris Sr.,,131
+George,Ward,Chancery Court Place 1,16,Jennifer Sekul Harris,,61
+George,Ward,Chancery Court Place 1,16,Matthew Paul Pavlov,,20
+George,Ward,Chancery Court Place 2,16,Ashlee Cole,,198
+George,Ward,Chancery Court Place 3,16,Mark Maples,,201
+George,Ward,Chancery Court Place 4,16,Kaleigh Nelson,,198
+George,Ward,Circuit Court Place 1,18,Brad R. Thompson,,183
+George,Ward,Circuit Court Place 1,18,Eric Tiebauer,,20
+George,Ward,Circuit Court Place 2,18,Darryl A. Hurt Jr.,,199
