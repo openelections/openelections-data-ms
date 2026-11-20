@@ -1150,15 +1150,21 @@ MANIFEST_REPAIRS_KEY = "cell_token_repairs"
 #     because silently adding a synthetic twin would double-count the seat.
 #     Operator rows face the printed-TOTAL gate like parsed rows.
 #
+#   "operator_provenance" (on an operator_rows row)
+#     Free-text operator provenance/annotation on operator_rows rows, unread
+#     by the parser (Jasper's Sullivan row carries the Holders-cell
+#     adjudication pointer).
+#
 #   "operator_supply_pages": [<page>]
-#     Pages whose text-layer parse is not used at all (Jasper p4/p5, then all
+#     Pages whose text-layer parse is not used at all (Jasper p2-p5, then all
 #     of Lee's p2-p9: no usable grid survives) -- never extracted, never a
 #     page_missing/column_count gate problem, the scope decision is the
 #     operator's. Their declared labels remain the position index the
-#     operator read against, and they join the county's precinct universe by
-#     that same positional reading (an all-supply county has no layer
-#     alignment to name its precincts; a partially-supplied county's supply
-#     pages repeat the layer column groups, so nothing changes there). Every
+#     operator read against, and they join the county's precinct universe
+#     UNCONDITIONALLY by that same positional reading (an all-supply county
+#     has no layer alignment to name its precincts; a partially-supplied
+#     county's manifest may repeat the layer column groups -- the observed
+#     instance -- but the labels join by position, not by repetition). Every
 #     such page must be referenced by at least one operator cells/rows
 #     entry: a supplied page with no operator content would silently
 #     produce nothing. A county whose in-scope pages are all supplied is a
@@ -1195,11 +1201,13 @@ def load_manifest(path):
     carries a TOTAL column) and must be a dict of label-lists of strings;
     `total_label` must be a non-empty string; each of local_only_pages /
     carry_pages, when present, must be a list of page numbers, and every
-    entry -- in those two lists and in every cell_token_repairs page key --
-    must reference a page the manifest declares under `pages` (a declaration
-    naming an undeclared page cannot bind to anything and is recorded as a
-    {"kind": "manifest_shape"} problem; the tolerant readers ignore it, the
-    gates hold the county at write time). Label truncations are the
+    entry -- in those two lists and in every cell_token_repairs and
+    operator_cells/operator_rows page key -- must reference a page the
+    manifest declares under `pages`, and a page key that is not an integer
+    (repairs, operator_cells, operator_rows) is recorded too (neither can
+    bind to anything, so each is a {"kind": "manifest_shape"} problem; the
+    tolerant readers ignore it, the gates hold the county at write time).
+    Label truncations are the
     operator's to resolve; problems here are only missing required keys and
     {"kind": "manifest_shape", "key": ...} shape errors -- alignment
     problems are the assembly's (see normalize_page_labels / run_gates)."""
@@ -1271,8 +1279,15 @@ def load_manifest(path):
             problems.append({"kind": "manifest_shape",
                              "key": MANIFEST_REPAIRS_KEY, "problem": bad})
         elif not pages_shape_bad:
+            # a page key that is not an integer cannot bind to a page either:
+            # recorded like the sibling blocks record theirs, never crashed on
+            # and never silently dropped
+            for k in (str(k) for k in repairs if not str(k).strip().isdigit()):
+                problems.append({
+                    "kind": "manifest_shape", "key": MANIFEST_REPAIRS_KEY,
+                    "problem": f"page key {k!r} is not a page number"})
             missing = undeclared_pages(
-                int(str(k)) for k in repairs if str(k).strip())
+                int(str(k)) for k in repairs if str(k).strip().isdigit())
             if missing:
                 problems.append({
                     "kind": "manifest_shape", "key": MANIFEST_REPAIRS_KEY,
@@ -1347,9 +1362,15 @@ def load_manifest(path):
                              "key": MANIFEST_OPERATOR_CELLS_KEY,
                              "problem": bad})
         elif not pages_shape_bad:
+            # a page key that is not an integer cannot bind to a page either:
+            # recorded, never dropped silently
+            for k in (str(k) for k in cells if not str(k).strip().isdigit()):
+                problems.append({
+                    "kind": "manifest_shape",
+                    "key": MANIFEST_OPERATOR_CELLS_KEY,
+                    "problem": f"page key {k!r} is not a page number"})
             missing = undeclared_pages(
-                int(str(k)) for k in cells
-                if str(k).strip() and str(k).isdigit())
+                int(str(k)) for k in cells if str(k).strip().isdigit())
             if missing:
                 problems.append({
                     "kind": "manifest_shape",
@@ -1392,6 +1413,15 @@ def load_manifest(path):
             problems.append({"kind": "manifest_shape",
                              "key": MANIFEST_OPERATOR_ROWS_KEY, "problem": bad})
         elif not pages_shape_bad:
+            # a cells page key that is not an integer cannot bind to a page
+            # either: recorded, never dropped silently
+            for k in sorted({str(k) for entry in rows
+                             for k in (entry.get("cells") or {})
+                             if not str(k).strip().isdigit()}):
+                problems.append({
+                    "kind": "manifest_shape",
+                    "key": MANIFEST_OPERATOR_ROWS_KEY,
+                    "problem": f"page key {k!r} is not a page number"})
             referenced = {
                 int(str(k)) for entry in rows
                 for k in (entry.get("cells") or {})
@@ -1614,9 +1644,10 @@ def extraction_floors(manifest, number):
     one, and the declared attempt is authoritative: its result REPLACES the
     default pass's whenever it yields a table. The declared floor is the
     operator's render-checked statement about where this page's table top
-    sits (Jasper p3's min3 top lands on Guest's row, losing the four rows
-    above it; min2 reaches the page's true first data line), so the wider
-    view wins. A declared floor of 3 equals the default pass and adds
+    sits (Jasper p3 motivated the key: its min3 top landed on Guest's row,
+    losing the four rows above it, while min2 reached the page's true first
+    data line), so the wider view wins. A declared floor of 3 equals the
+    default pass and adds
     nothing -- it is an explicit floor pin, so such pages give up the
     fallback retry-at-2 too; a floor below 2 is a load-time shape problem
     that degrades to the default behavior."""
@@ -1802,7 +1833,11 @@ def parse_county_from_pages(pages, county, manifest):
     AFTER the alignment and merge: each referenced (page, position index)
     maps through that page's manifest labels to a normalized precinct name
     (or the TOTAL marker), then overrides/adds that cell in the matched or
-    operator-defined row. Every application is recorded in
+    operator-defined row. Pages the assembly aligned -- a layer page or an
+    operator-supply one -- key through their recorded alignment; a page the
+    layer failed to extract keeps the positional fallback (its manifest
+    labels), but a LOCAL-ONLY page binds nothing (loud
+    operator_cell_no_labels). Every application is recorded in
     pd["operator_cells_applied"] ({page, mechanism, key, candidate, column,
     precinct, old, new}); rows keep facing the printed-TOTAL gate.
     """
@@ -1892,10 +1927,13 @@ def parse_county_from_pages(pages, county, manifest):
             manifest_problems.append({"kind": "page_missing", "page": page_no(key)})
 
     # The precinct universe: the aligned layer pages' labels PLUS every
-    # operator-supply page's declared labels. An all-supply county has no
-    # layer alignment at all and is named here; a partially-supplied
-    # county's supply pages repeat the layer column groups, so the union
-    # adds nothing there.
+    # operator-supply page's declared labels -- an UNCONDITIONAL union, since
+    # a supply page's labels are a legitimate positional reading of the
+    # county whatever the layer pages aligned to (an all-supply county has no
+    # layer alignment at all and is named here). The observed partially-
+    # supplied county happens to repeat the layer column groups, so that
+    # union adds nothing in practice -- but the labels join by position, not
+    # by repetition.
     all_names = sorted({name for al in alignments.values()
                         for name in al["names_by_center"].values()
                         if name and name != TOTAL_NAME}
@@ -2115,9 +2153,21 @@ def parse_county_from_pages(pages, county, manifest):
     operator_applied = []
 
     def operator_labels_for(pno):
-        al = alignments.get(pno)
+        # the labels an operator entry's cells key into come from an assembly
+        # alignment when one exists -- an aligned layer page's, or an
+        # operator-supply page's (both read positionally into the precinct
+        # universe above). A LOCAL-ONLY page is out of scope and binds
+        # nothing even though its declaration still carries labels (which can
+        # repeat another page's real names): (None, None, None) makes
+        # apply_operator_cells record operator_cell_no_labels instead. Any
+        # other declared page keeps the positional fallback in order of
+        # declaration (a page the layer failed to extract may still carry
+        # operator cells -- the mode-3 ballot-order case).
+        al = alignments.get(pno) or supply_alignments.get(pno)
         if al is not None:
             return al["labels"], al["names"], al["total_pos"]
+        if pno in local_only:
+            return None, None, None
         labels = _operator_positional_labels(manifest_pages, pno)
         if labels is None:
             return None, None, None
@@ -2335,10 +2385,12 @@ def parse_county_pdf(pdf_path, county, manifest_path, fuzzy=False):
       pages.
 
     A third binding, page_min_columns (extraction_floors), lets the operator
-    declare per page that a second attempt at a different floor replaces the
-    default pass: Jasper p3's min3 top lands on Guest's row and loses the
-    four rows above it, so the manifest declares page 3's floor 2 and the
-    min2 pass -- whose top is the page's true first data line -- wins."""
+    declare per page which extraction floors run for it: after the default
+    pass, an attempt at the declared floor runs and is authoritative -- its
+    result replaces the default's whenever that floor yields a table (the
+    declared floor is the operator's render-checked statement about where
+    the page's table top actually sits; a declared 2 is the narrow-retry
+    floor, so no duplicate attempt is appended)."""
     from natural_pdf import PDF  # lazy
     manifest, mproblems = load_manifest(manifest_path)
     local_only = manifest_numbers(manifest, "local_only_pages")

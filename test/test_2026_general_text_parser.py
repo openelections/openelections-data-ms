@@ -770,7 +770,9 @@ class PageMinColumnsTests(unittest.TestCase):
     def test_extraction_floors_declared_low_is_authoritative(self):
         # Jasper p3: the operator declares min2, so the declared pass runs
         # after the default one and its result replaces it when it yields a
-        # table
+        # table; the full floor sequence also shows the narrow retry folded
+        # INTO the declared pass (a declared 2 IS the retry floor, so no
+        # duplicate non-authoritative attempt is appended)
         self.assertEqual(
             ex.extraction_floors(
                 self.mdict({"page_min_columns": {"3": 2}}), 3),
@@ -781,12 +783,6 @@ class PageMinColumnsTests(unittest.TestCase):
             ex.extraction_floors(
                 self.mdict({"page_min_columns": {"3": 4}}), 3),
             [(3, False), (4, True)])
-
-    def test_declared_floor_two_suppresses_duplicate_narrow_retry(self):
-        self.assertEqual(
-            ex.extraction_floors(
-                self.mdict({"page_min_columns": {"3": 2}}), 3),
-            [(3, False), (2, True)])
 
 
 @unittest.skipUnless(SOURCES_PRESENT, "sources checkout not present")
@@ -839,9 +835,10 @@ class UnionPage2Tests(unittest.TestCase):
 class JasperTextLayerTests(unittest.TestCase):
     """Fix 1 + Fix 2 pins on the real OCR-noisy Jasper pages: the widened
     three-data-line anchor recovers p2's five left columns (11 real centers,
-    the x~246 '1'-debris phantom still excluded), and the declared
-    page_min_columns floor 2 moves p3's table top from Guest's row (y=308)
-    up to the page's true first data line (Colom's row, y=200)."""
+    the x~246 '1'-debris phantom still excluded), and the min_columns=2
+    extract_table_page pass -- the lever a page_min_columns declaration pulls
+    -- moves p3's table top from Guest's row (y=308) up to the page's true
+    first data line (Colom's row, y=200)."""
 
     JASPER = os.path.join(SOURCES_DIR, "Jasper_County_2026_general.pdf")
 
@@ -2633,6 +2630,18 @@ class ManifestDeclarationTests(unittest.TestCase):
                          [{"kind": "manifest_shape", "key": "cell_token_repairs",
                            "problem": "page 4 not declared under pages"}])
 
+    def test_non_numeric_repair_page_key_recorded(self):
+        # a page key that is not a page number cannot bind to anything either;
+        # it is recorded, never crashed on and never silently dropped
+        manifest, problems = ex.load_manifest(
+            self.path({"cell_token_repairs": {"bogus": {"3.3.3": "283"}}}))
+        self.assertEqual(
+            [p for p in problems
+             if p["kind"] == "manifest_shape"
+             and p["key"] == "cell_token_repairs"],
+            [{"kind": "manifest_shape", "key": "cell_token_repairs",
+              "problem": "page key 'bogus' is not a page number"}])
+
     def test_declared_pages_stay_clean(self):
         manifest, problems = ex.load_manifest(
             self.path({"local_only_pages": ["2"],
@@ -2690,8 +2699,90 @@ class OperatorManifestTests(unittest.TestCase):
     def county(self, manifest, pages):
         return ex.parse_county_from_pages(pages, "Synth", manifest)
 
+    def county_through_load(self, manifest, pages):
+        """Like county(), but the manifest reaches the assembly as a PATH, so
+        load_manifest's shape records are prepended too (the real workflow)."""
+        path = os.path.join(self._tmpdir(), "m.json")
+        with open(path, "w") as fh:
+            json.dump(manifest, fh)
+        return ex.parse_county_from_pages(pages, "Synth", path)
+
     def problems_of(self, pd, kind):
         return [p for p in pd["manifest_problems"] if p["kind"] == kind]
+
+    def shapes_of(self, pd, key):
+        return [p for p in ex.run_gates(pd)["manifest"]
+                if p.get("kind") == "manifest_shape" and p.get("key") == key]
+
+    def test_operator_cells_non_numeric_page_key_is_recorded(self):
+        # a healthy parse plus a non-numeric operator_cells page key: the key
+        # cannot bind to a page, so it is RECORDED, never dropped silently and
+        # never an exception; the numeric entries apply as usual
+        manifest = dict(self.MANIFEST, operator_cells={
+            "bogus": {"A": {"0": 7}},
+            "2": {"A": {"0": 9}}})
+        pd = self.county_through_load(
+            manifest,
+            {"2": self.parsed_page([246.0, 291.0], [("A", {246.0: 5}, 5)])})
+        self.assertEqual(self.shapes_of(pd, "operator_cells"),
+                         [{"kind": "manifest_shape",
+                           "key": "operator_cells",
+                           "problem": "page key 'bogus' is not a page "
+                                      "number"}])
+        (row,) = pd["candidate_rows"]
+        self.assertEqual(row["cells"], {"P1": 9})
+        self.assertEqual(self.problems_of(pd, "operator_cell_no_row"), [])
+
+    def test_operator_rows_non_numeric_page_key_is_recorded(self):
+        # same recording for an operator_rows entry whose only page key is
+        # non-numeric: loud, and its cells cannot land
+        manifest = dict(self.MANIFEST, operator_rows=[{
+            "key": "hyde", "office": "U.S. Senate", "district": "",
+            "seat": None, "candidate": "Cindy Hyde-Smith", "party": "REP",
+            "cells": {"bogus": {"0": 7},
+                      "2": {"0": 300, "1": 400, "2": 700}}}])
+        pd = self.county_through_load(
+            manifest, {"2": self.parsed_page([246.0, 291.0], [])})
+        self.assertEqual(self.shapes_of(pd, "operator_rows"),
+                         [{"kind": "manifest_shape",
+                           "key": "operator_rows",
+                           "problem": "page key 'bogus' is not a page "
+                                      "number"}])
+        (row,) = pd["candidate_rows"]
+        self.assertEqual(row["cells"], {"P1": 300, "P2": 400})
+        self.assertEqual(len(pd["operator_cells_applied"]), 3)
+
+    def test_operator_rows_never_bind_a_local_only_page(self):
+        # the probe: page 3 is declared local-only but its manifest labels
+        # REPEAT page 2's real labels; a mode-2 operator entry keyed to page
+        # 3 must not land on them -- a local-only page is out of scope, and
+        # binding its repeated labels would attach cells nobody printed
+        manifest = dict(
+            self.MANIFEST,
+            pages={"2": ["P1", "P2", "TOTAL"], "3": ["P1", "P2", "TOTAL"]},
+            local_only_pages=["3"],
+            operator_rows=[{
+                "key": "hyde", "office": "U.S. Senate", "district": "",
+                "seat": None, "candidate": "Cindy Hyde-Smith", "party": "REP",
+                "cells": {"3": {"0": 300, "1": 400, "2": 700}}}])
+        pd = self.county(
+            manifest,
+            {"2": self.parsed_page([246.0, 291.0],
+                                   [("Cindy Hyde-Smith", {246.0: 5}, 5)])})
+        (row,) = [r for r in pd["candidate_rows"]
+                  if r["candidate"] == "Cindy Hyde-Smith"]
+        # loud: the page's labels exist but were never read into an assembly
+        # alignment, so the cells have nothing to bind to
+        self.assertEqual(self.problems_of(pd, "operator_cell_no_labels"),
+                         [{"kind": "operator_cell_no_labels",
+                           "mechanism": "operator_rows", "page": 3,
+                           "key": "hyde", "candidate": "Cindy Hyde-Smith"}])
+        self.assertEqual(pd["operator_cells_applied"], [])
+        # the parsed cell is unchanged; P2 is the aligned page's label whose
+        # blank the row's own total (5) proves to be 0
+        self.assertEqual(row["cells"], {"P1": 5, "P2": 0})
+        self.assertIn("operator_cell_no_labels",
+                      [p.get("kind") for p in ex.run_gates(pd)["manifest"]])
 
     def test_operator_cells_override_parsed_cells(self):
         manifest = dict(self.MANIFEST, operator_cells={
@@ -3113,6 +3204,42 @@ class FullySuppliedCountyTests(unittest.TestCase):
                   "conflicts": []}
         pd = ex.parse_county_from_pages({"2": parsed}, "Synth", manifest)
         self.assertEqual(pd["precinct_names"], ["P1", "P2"])
+        problems = ex.run_gates(pd)
+        for kind in ("total_mismatches", "structure", "conflicts",
+                     "manifest", "party"):
+            self.assertEqual(problems[kind], [])
+
+    def test_supply_labels_novel_precinct_joins_the_universe(self):
+        # the union with the supply labels is UNCONDITIONAL: a partially-
+        # supplied county whose supply page declares a label no layer page
+        # aligns (that page group's own columns) gains that precinct from the
+        # operator's positional reading
+        manifest = dict(self.MANIFEST,
+                        pages={"2": ["P1", "P2", "TOTAL"],
+                               "3": ["P1", "P9", "TOTAL"]},
+                        operator_supply_pages=["3"],
+                        operator_rows=[{
+                            "key": "sorey", "office": "Circuit Court",
+                            "district": "13", "seat": 2,
+                            "candidate": "Stanley Sorey", "party": "",
+                            "cells": {"3": {"1": 937, "2": 937}}}])
+        parsed = {"precinct_centers": [246.0, 291.0, 333.0],
+                  "table_top": 200.0,
+                  "rows": [{"kind": "office", "office": "U.S. Senate",
+                            "district": "", "seat": None},
+                           {"kind": "candidate", "candidate": "Scott Colom",
+                            "party": "DEM", "office": "U.S. Senate",
+                            "district": "", "seat": None,
+                            "top": 200.0, "bottom": 208.0,
+                            "cells": {246.0: 400, 291.0: 500}, "total": 900}],
+                  "conflicts": []}
+        pd = ex.parse_county_from_pages({"2": parsed}, "Synth", manifest)
+        # P9 exists in no layer alignment and still joins; both rows can key
+        # into it
+        self.assertEqual(pd["precinct_names"], ["P1", "P2", "P9"])
+        (sorey,) = [r for r in pd["candidate_rows"]
+                    if r["candidate"] == "Stanley Sorey"]
+        self.assertEqual(sorey["cells"]["P9"], 937)
         problems = ex.run_gates(pd)
         for kind in ("total_mismatches", "structure", "conflicts",
                      "manifest", "party"):
