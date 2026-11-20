@@ -438,25 +438,49 @@ WRAP_WORDS = ("district", "position", "place", "congressional", "court",
 # match is word-bounded ("Courtney Smith" stays a candidate), and the
 # certification blurb's "Election Commission will prepare..." lines end in
 # prose, not a role word, so the commission/election keywords cannot reach
-# them.
+# them. The SEMS local-race vocabulary (county/municipal sections: school
+# districts, municipal added territory, justice court, consolidated races)
+# extends both the keyword and the tail sets -- real Union p4/p5 strings:
+# "New Albany Added Territory-Added Territory", "New Albany Municipal
+# Separate School District" (+ its garbled wrapped line 'LIstnCT'/'u.strica').
+LOCAL_RACE_WORDS = ("school", "municipal", "territory", "justice",
+                    "consolidated")
 HEADER_KEYWORDS_RE = re.compile(
     r"\b(court|district|place|position|appeals|chancery|circuit|house|senate|"
-    r"commission|commissioner|judge|election|trustee)\b")
-HEADER_ROLE_TAIL_RE = re.compile(
+    r"commission|commissioner|judge|election|trustee|school|municipal|"
+    r"territory|justice|consolidated)\b")
+EXISTING_ROLE_TAIL_RE = re.compile(
     r"(?:judge|trustee|commissioner|court|district|place|position|rep|house|"
     r"senate|appeals|chancery|circuit|election|board)\W*$")
+HEADER_ROLE_TAIL_RE = re.compile(
+    r"(?:judge|trustee|commissioner|court|district|place|position|rep|house|"
+    r"senate|appeals|chancery|circuit|election|board|school|municipal|"
+    r"territory|justice|consolidated)\W*$")
 
 
 def is_unparsed_header(text):
     """True for a race-header label shape that parse_office does not
     recognize (Warren p5's local-office labels: "Warren County-County Court
     Judge", "Election Commission I-Election Commissioner" + its "District 1"
-    wrap, "School Board District 3-School Board Trustee")."""
+    wrap, "School Board District 3-School Board Trustee"; Union p4/p5's
+    "New Albany Added Territory-Added Territory" and the one-line municipal
+    form "New Albany Municipal Separate School District").
+
+    The dash-less municipal/school shape qualifies only with a LOCAL_RACE
+    keyword plus a PRE-EXISTING role tail, so a candidate merely named like
+    the vocabulary ("John Justice") stays a candidate; a dash-less line
+    whose tail is itself only local-race vocabulary ("New Albany Municipal
+    Separate School", the wrapped first half of that header) is NOT a
+    standalone header here -- it is consumed as a wrapped fragment by the
+    label_rows local-header runner."""
     t = text.lower()
     if not HEADER_KEYWORDS_RE.search(t):
         return False
     if not re.search(r"[-–—·]", text) and not re.search(r"\d\s*\W*\s*$", t):
-        return False
+        if not any(re.search(rf"\b{word}\b", t) for word in LOCAL_RACE_WORDS):
+            return False
+        if not EXISTING_ROLE_TAIL_RE.search(t):
+            return False
     # tail: a role word or a bare numeral ("District 1")
     return (bool(HEADER_ROLE_TAIL_RE.search(t))
             or bool(re.search(r"\d\s*$", t)))
@@ -573,6 +597,33 @@ def extract_table_page(page, fuzzy=False):
             "conflicts": conflicts}
 
 
+def _next_label_band(lines, idx, label_x_max):
+    """The first label band AFTER `lines[idx]` (for lookahead), or None."""
+    for later in lines[idx + 1:]:
+        band = [x for x in later["words"] if x["x0"] < label_x_max]
+        if band:
+            return band
+    return None
+
+
+def _is_local_fragment(band_text, band_words, fuzzy):
+    """True for a wrapped-fragment line that belongs to an open local-race
+    header block: a single non-party token (Union p4/p5's garbled 'LIstnCT' /
+    'u.strica' -- the block's third printed line), an all-qualifier line
+    (the shared wrap vocabulary), or a dash-less line carrying the local-race
+    vocabulary that is not itself a standalone header (the wrapped
+    'New Albany Municipal Separate School' half). A standalone party token is
+    never a fragment; it is furniture or the candidate above's party."""
+    if len(band_words) == 1:
+        return party_of(band_words[0]["text"], fuzzy) is None
+    tokens = band_text.split(" ")
+    if all(_is_wrap_token(tok) for tok in tokens):
+        return True
+    t = band_text.lower()
+    return (any(re.search(rf"\b{word}\b", t) for word in LOCAL_RACE_WORDS)
+            and not is_unparsed_header(band_text))
+
+
 def label_rows(lines, table_top, label_x_max, fuzzy=False):
     """Build the candidate/office row stream from the label band.
 
@@ -582,16 +633,21 @@ def label_rows(lines, table_top, label_x_max, fuzzy=False):
     is not an office label is skipped outright. Below it the classification
     order is: office header (parse_office, alone or joined from a split first
     fragment held back from header territory), wrapped continuation of the
-    just-opened header (only when every token is qualifier vocabulary), an
-    unparseable race header -> kind "unknown_header" (never a candidate, no
-    office attribution: Warren's double-dash judicial and local-office labels
-    that do not parse, so their candidates cannot wrongly inherit the previous
-    office; checked ahead of is_noise because Warren's "Election Commission
-    I-Election Commissioner" carries a noise anchor yet is a header), page
-    furniture (is_noise), a standalone party word attached to the candidate
-    above it, a trailing party token attached to THIS line's own candidate
-    (real recap pages print the party right of the name, in its own column,
-    on the same line), else a candidate row.
+    just-opened header (only when every token is qualifier vocabulary), the
+    local-race header block (an unparseable race header -> kind
+    "unknown_header", never a candidate, no office attribution: Warren's
+    double-dash judicial and local-office labels and Union's municipal/school
+    section; checked ahead of is_noise because Warren's "Election Commission
+    I-Election Commissioner" carries a noise anchor yet is a header -- and,
+    while such a header is open, directly-following wrapped-fragment lines
+    (_is_local_fragment) extend the header's text instead of becoming
+    candidate rows; the block closes at the first definite candidate line: a
+    name with an inline trailing party token, or a lone token whose next
+    label line is a standalone party token), page furniture (is_noise), a
+    standalone party word attached to the candidate above it, a trailing
+    party token attached to THIS line's own candidate (real recap pages
+    print the party right of the name, in its own column, on the same line),
+    else a candidate row.
 
     Row dicts carry top/bottom so assign_cells can band them; office rows
     carry "raw" (the exact label text consumed so a continuation joins
@@ -604,7 +660,8 @@ def label_rows(lines, table_top, label_x_max, fuzzy=False):
     current_office = None
     last_candidate = None
     pending_header = None
-    for ln in lines:
+    local_header = None  # open local-race unknown_header consuming fragments
+    for idx, ln in enumerate(lines):
         label_words = [x for x in ln["words"] if x["x0"] < label_x_max]
         if not label_words:
             continue
@@ -655,14 +712,43 @@ def label_rows(lines, table_top, label_x_max, fuzzy=False):
             # line back as a possible split-header fragment
             pending_header = text
             continue
-        # 3) unparseable race header -> unknown_header, never a candidate
-        #    (checked ahead of is_noise: Warren's "Election Commission
-        #    I-Election Commissioner" carries a noise anchor, and it is a
-        #    header, not furniture)
+        # 3) wrapped local-race header block. While an unknown_header row is
+        #    open, directly-following fragment lines (_is_local_fragment)
+        #    extend that header's text and are never candidate rows; another
+        #    header-shaped line opens its own row (Warren's "District 1"
+        #    stays its own header); anything else, above all the first
+        #    definite candidate line (name + inline trailing party token, or
+        #    a lone token whose next label line is a standalone party token),
+        #    closes the block and is classified normally below.
+        if local_header is not None:
+            tokens = text.split(" ")
+            next_band = _next_label_band(lines, idx, label_x_max) \
+                if len(label_words) == 1 else None
+            definite = ((len(tokens) > 1
+                         and party_of(tokens[-1], fuzzy) is not None)
+                        or (next_band is not None and len(next_band) == 1
+                            and party_of(next_band[0]["text"], fuzzy)
+                            is not None))
+            if definite:
+                local_header = None  # fall through; classify normally
+            elif is_unparsed_header(text):
+                pass  # another header line: its own unknown_header row below
+            elif _is_local_fragment(text, label_words, fuzzy):
+                local_header["text"] += " " + text
+                local_header["bottom"] = max(
+                    local_header["bottom"],
+                    max(x["bottom"] for x in label_words))
+                last_candidate = None
+                pending_header = None
+                continue
+            else:
+                local_header = None  # unrecognised line closes the block
         if is_unparsed_header(text):
-            rows.append({"kind": "unknown_header", "text": text,
-                         "top": ln["top"],
-                         "bottom": max(x["bottom"] for x in label_words)})
+            row = {"kind": "unknown_header", "text": text,
+                   "top": ln["top"],
+                   "bottom": max(x["bottom"] for x in label_words)}
+            rows.append(row)
+            local_header = row
             # A local-office header closes the office context: candidates
             # under it carry NO office (N2), and the wrap-continuation gate
             # above must not reach back into the previous header and rewrite
@@ -986,8 +1072,11 @@ def parse_county_from_pages(pages, county, manifest):
                 office, district, seat = pending  # cross-page carry
             if office is None:
                 # under an unknown_header (or a page with no office at all):
-                # a local-office row, excluded by design and recorded whole.
-                dropped_local_rows.append(dict(row, page=pno))
+                # a local-office row, excluded by design and recorded whole:
+                # raw label text, party and whatever cells the page captured
+                # (float-keyed, never merged into any reconciled figure).
+                dropped_local_rows.append(dict(row, text=row.get("candidate"),
+                                               page=pno))
                 continue
             cells = {}
             orphans = {}

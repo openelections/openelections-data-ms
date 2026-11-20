@@ -839,6 +839,80 @@ class CarryPinTests(unittest.TestCase):
                          [("Cindy Hyde-Smith", "REP", "U.S. Senate")])
 
 
+class LocalHeaderTests(unittest.TestCase):
+    """SEMS local-race headers (school/municipal/territory/justice/
+    consolidated vocabulary) and their wrapped fragments."""
+
+    def make_lines(self, line_specs):
+        words = []
+        for text, top in line_specs:
+            x = 45.0
+            for tok in text.split(" "):
+                words.append(w(tok, x, top))
+                x += len(tok) * 5 + 4
+        return words
+
+    def run_rows(self, line_specs):
+        return ex.label_rows(ex.lines_from_words(self.make_lines(line_specs)),
+                             table_top=150.0, label_x_max=240.0)
+
+    def test_local_race_vocabulary_classifies_header(self):
+        # Real Union p4/p5 dashes-shape, and the one-line municipal form:
+        # both are headers, never candidates. A candidate named like the
+        # vocabulary ('John Justice') stays a candidate.
+        self.assertTrue(ex.is_unparsed_header(
+            "New Albany Added Territory-Added Territory"))
+        self.assertTrue(ex.is_unparsed_header(
+            "New Albany Municipal Separate School District"))
+        self.assertTrue(ex.is_unparsed_header("Consolidated School District 2"))
+        self.assertFalse(ex.is_unparsed_header("John Justice"))
+        self.assertFalse(ex.is_unparsed_header("John Justice Republican"))
+        self.assertFalse(ex.is_unparsed_header("Courtney Smith Nonpartisan"))
+        self.assertFalse(ex.is_unparsed_header(
+            "New Albany Municipal Separate School"))  # dash-less, no role tail
+
+    def test_wrapped_local_header_consumes_fragments(self):
+        # Real Union p4 bottom, in printed y-order: the header's first line,
+        # its wrapped "New Albany Municipal Separate School" line, the garbled
+        # third line ("District" read as 'LIstnCT'), then the definite
+        # candidate line with its inline party token. The fragments extend
+        # the header's text and never become candidate rows.
+        rows = self.run_rows([
+            ("Circuit Court 3-Circuit District 03 Place 3", 160.0),
+            ("Kent E. Smith", 170.0),
+            ("New Albany Added Territory-Added Territory", 178.0),
+            ("New Albany Municipal Separate School", 186.0),
+            ("LIstnCT", 194.0),
+            ("I David Rainey Nonpartisan1", 202.0),
+        ])
+        unknowns = [r for r in rows if r["kind"] == "unknown_header"]
+        self.assertEqual(len(unknowns), 1)
+        self.assertEqual(unknowns[0]["text"],
+                         "New Albany Added Territory-Added Territory"
+                         " New Albany Municipal Separate School LIstnCT")
+        cands = [r for r in rows if r["kind"] == "candidate"]
+        self.assertEqual([(c["candidate"], c["office"], c["party"]) for c in cands],
+                         [("Kent E. Smith", "Circuit Court", None),
+                          ("I David Rainey", None, "")])
+
+    def test_fragment_run_stops_at_party_token_lines(self):
+        # A lone token followed by a standalone party token is a candidate
+        # name, not a garbage fragment; the consumption must stop for it.
+        rows = self.run_rows([
+            ("Warren County-County Court Judge", 160.0),
+            ("Bulger", 168.0),
+            ("Democrat", 176.0),
+            ("Next Person Republican", 184.0),
+        ])
+        unknowns = [r for r in rows if r["kind"] == "unknown_header"]
+        self.assertEqual([u["text"] for u in unknowns],
+                         ["Warren County-County Court Judge"])
+        cands = [r for r in rows if r["kind"] == "candidate"]
+        self.assertEqual([(c["candidate"], c["party"], c["office"]) for c in cands],
+                         [("Bulger", "DEM", None),
+                          ("Next Person", "REP", None)])
+
+
 @unittest.skipUnless(SOURCES_PRESENT, "sources checkout not present")
 class UnionCountyTests(unittest.TestCase):
     @classmethod
@@ -860,6 +934,25 @@ class UnionCountyTests(unittest.TestCase):
         for r in self.pd["candidate_rows"]:
             self.assertEqual(len(r["cells"]), 20, r["candidate"])
             self.assertEqual(sum(r["cells"].values()), r["total"])
+
+    def test_school_rows_in_dropped_local_rows(self):
+        # The New Albany local-race block routes through unknown_header; its
+        # only candidate rows are recorded whole (raw text + captured cells),
+        # never merged into any reconciled figure, and absent from
+        # candidate_rows.
+        dropped = self.pd["dropped_local_rows"]
+        self.assertEqual([d["candidate"] for d in dropped],
+                         ["I David Rainey", "(David Rainey"])
+        self.assertEqual([d["page"] for d in dropped], [4, 5])
+        self.assertEqual([d["office"] for d in dropped], [None, None])
+        self.assertEqual([sorted(d["cells"].values()) for d in dropped],
+                         [[1, 1, 3261], [1, 76, 261, 891, 1301, 2691, 9161]])
+        names = {r["candidate"] for r in self.pd["candidate_rows"]}
+        self.assertFalse(names & {"I David Rainey", "(David Rainey",
+                                  "New Albany Added Territory-Added Territory",
+                                  "New Albany Municipal Separate School",
+                                  "LIstnCT", "u.strica"})
+        self.assertEqual(len(self.pd["candidate_rows"]), 18)
 
     def test_row_block_merging(self):
         by_name = {r["candidate"]: r for r in self.pd["candidate_rows"]}
