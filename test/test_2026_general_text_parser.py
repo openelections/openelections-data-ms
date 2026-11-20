@@ -15,6 +15,7 @@ REPO = Path(__file__).resolve().parents[1]
 sys.path.insert(0, str(REPO / "src"))
 
 import extract_2026_general_text_pdf as ex  # noqa: E402
+import batch_extract_2026_general_text as batch  # noqa: E402
 
 SOURCES_DIR = os.path.expanduser("~/code/openelections-sources-ms/2026/general")
 SOURCES_PRESENT = os.path.isdir(SOURCES_DIR)
@@ -3451,6 +3452,126 @@ class LeeCountyTests(unittest.TestCase):
         with self.assertRaises(ValueError) as caught:
             ex.parse_county_pdf(self.LEE, "Lee", manifest_path=path)
         self.assertIn("no table pages found", str(caught.exception))
+
+
+class RosterGateTests(unittest.TestCase):
+    """Task 9's cross-county roster gate (the batch stage): every (office,
+    district) race printed in 2+ counties must carry the IDENTICAL
+    (candidate, party) roster in each of them. This is the natural catcher
+    for a total seat loss -- one county's whole seat missing while another
+    county that shares the race reads complete -- which no per-county gate
+    can see."""
+
+    @staticmethod
+    def pd_of(rows):
+        return {"precinct_names": ["P1"], "candidate_rows": rows}
+
+    @staticmethod
+    def row(office, district, candidate, party, seat=None):
+        return {"kind": "candidate", "office": office, "district": district,
+                "seat": seat, "candidate": candidate, "party": party,
+                "total": 1, "cells": {"P1": 1}}
+
+    def test_shared_race_roster_mismatch_flags(self):
+        # a synthetic family-level mismatch: both counties share U.S. House
+        # 1, but Union's roster lost a candidate (a whole seat)
+        problems = ex.check_roster_shared_races({
+            "Union": self.pd_of([
+                self.row("U.S. House", "1", "Trent Kelly", "REP"),
+                self.row("U.S. House", "1", "Cliff Johnson", "DEM")]),
+            "Lee": self.pd_of([
+                self.row("U.S. House", "1", "Trent Kelly", "REP"),
+                self.row("U.S. House", "1", "Cliff Johnson", "DEM"),
+                self.row("U.S. House", "1", "Johnny Baucom", "LIB")]),
+        })
+        (problem,) = problems
+        self.assertEqual(problem["kind"], "roster_mismatch")
+        self.assertEqual(problem["race"], ["U.S. House", "1"])
+        self.assertEqual(problem["rosters"], [
+            {"county": "Lee",
+             "candidates": [["Cliff Johnson", "DEM"], ["Johnny Baucom", "LIB"],
+                            ["Trent Kelly", "REP"]]},
+            {"county": "Union",
+             "candidates": [["Cliff Johnson", "DEM"], ["Trent Kelly", "REP"]]},
+        ])
+
+    def test_shared_race_with_a_party_drift_flags(self):
+        # same names, one county's party read differs
+        problems = ex.check_roster_shared_races({
+            "Union": self.pd_of([self.row("U.S. Senate", "", "X", "REP")]),
+            "Warren": self.pd_of([self.row("U.S. Senate", "", "X", "IND")]),
+        })
+        (problem,) = problems
+        self.assertEqual(problem["race"], ["U.S. Senate", ""])
+        self.assertEqual(
+            sorted((r["county"], sorted(map(tuple, r["candidates"])))
+                   for r in problem["rosters"]),
+            [("Union", [("X", "REP")]), ("Warren", [("X", "IND")])])
+
+    def test_identical_shared_rosters_and_unshared_races_stay_silent(self):
+        problems = ex.check_roster_shared_races({
+            "Union": self.pd_of([
+                self.row("U.S. Senate", "", "X", "REP"),
+                # a race only Union prints: no cross-county comparison
+                self.row("Chancery Court", "1", "Y", "", seat=1)]),
+            "Warren": self.pd_of([
+                self.row("U.S. Senate", "", "X", "REP"),
+                self.row("U.S. House", "2", "Z", "DEM")]),
+        })
+        self.assertEqual(problems, [])
+
+    def test_missing_and_empty_parses_are_tolerated(self):
+        self.assertEqual(ex.check_roster_shared_races({}), [])
+        self.assertEqual(
+            ex.check_roster_shared_races({"Union": {"candidate_rows": []}}),
+            [])
+
+
+class BatchRunnerTests(unittest.TestCase):
+    """The batch runner's county constants and file mapping (pure), and its
+    failure shape on a county whose source PDF is absent."""
+
+    def test_county_list_and_file_mapping(self):
+        self.assertEqual(batch.TEXT_LAYER_COUNTIES,
+                         ["Union", "Warren", "Jasper", "Lee"])
+        job = batch.county_job("Union", "sources/here")
+        self.assertEqual(batch.manifest_path("Union"),
+                         Path("2026/header-reads/20261103__ms__general__"
+                              "union__headers.json"))
+        self.assertEqual(batch.precinct_csv_path("Union"),
+                         Path("2026/counties/20261103__ms__general__"
+                              "union__precinct.csv"))
+        self.assertEqual(batch.county_pdf("sources/here", "Union"),
+                         Path("sources/here/2026/general/"
+                              "Union_County_2026_general.pdf"))
+        self.assertEqual(job["manifest"], batch.manifest_path("Union"))
+        self.assertEqual(job["out_csv"], batch.precinct_csv_path("Union"))
+        self.assertEqual(job["pdf"], batch.county_pdf("sources/here", "Union"))
+        # every county's mapping points at the committed lowercase names
+        for county in batch.TEXT_LAYER_COUNTIES:
+            self.assertIn(county.lower(),
+                          batch.manifest_path(county).name)
+            self.assertIn(county.lower(), batch.precinct_csv_path(county).name)
+
+    def test_only_subset_selection(self):
+        # None = the full county list, canonical order
+        self.assertEqual(batch.select_counties(None),
+                         batch.TEXT_LAYER_COUNTIES)
+        # canonical order regardless of input order; unknown/misspelled
+        # names dropped
+        self.assertEqual(batch.select_counties(["Lee", "Union"]),
+                         ["Union", "Lee"])
+        self.assertEqual(batch.select_counties(["Neshoba"]), [])
+
+    def test_run_county_reports_error_on_missing_source(self):
+        import tempfile
+        tmp = tempfile.TemporaryDirectory()
+        self.addCleanup(tmp.cleanup)
+        job = batch.county_job("Union", str(tmp.name))
+        record = batch.run_county(job)
+        self.assertEqual(record["state"], "ERROR")
+        self.assertEqual(record["problems"], [{"kind": "source_missing",
+                                               "pdf": str(job["pdf"])}])
 
 
 class CliSummaryTests(unittest.TestCase):

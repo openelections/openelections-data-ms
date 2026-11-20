@@ -2511,6 +2511,54 @@ def run_gates(pd):
     return problems
 
 
+def check_roster_shared_races(county_parses):
+    """Cross-county roster gate (the batch stage; the run_gates docstring
+    deliberately leaves this here): every (office, district) race that 2+
+    counties' parse dicts carry must carry the IDENTICAL (candidate, party)
+    roster in each of them.
+
+    county_parses: {county: parse_county_pdf/parse_county_from_pages dict}.
+
+    A mismatched shared race is a whole-seat loss on one side (one county's
+    two-candidate Court of Appeals pair, the other's single read), a party
+    misread, or a candidate-name reading that diverged -- shapes no
+    per-county gate can see, because every row's own arithmetic can be exact
+    while a seat's row is missing everywhere in one county. Records are
+    {"kind": "roster_mismatch", "race": [office, district],
+    "rosters": [{"county", "candidates": [[candidate, party], ...]}]} with
+    counties in name order and candidates sorted for a stable diff. Races a
+    single county prints are beyond this gate's reach; empty/absent parses
+    are tolerated (an empty parse is not a clean roster -- whether a county
+    may parse at all stays the per-county gates' problem)."""
+    rosters = {}
+    for county, pd in (county_parses or {}).items():
+        for row in (pd.get("candidate_rows") or []):
+            office, district = row.get("office"), row.get("district")
+            candidate, party = row.get("candidate"), row.get("party")
+            if not str(candidate or "").strip():
+                continue  # a name-less row is no roster member
+            rosters.setdefault(
+                (office, district), {}).setdefault(
+                county, set()).add((str(candidate), "" if party is None
+                                    else str(party)))
+    problems = []
+    for race in sorted(rosters, key=str):
+        by_county = rosters[race]
+        if len(by_county) < 2:
+            continue
+        if len({frozenset(r) for r in by_county.values()}) <= 1:
+            continue
+        problems.append({
+            "kind": "roster_mismatch",
+            "race": [race[0], race[1]],
+            "rosters": [{"county": county,
+                         "candidates": sorted(
+                             ([c, p] for c, p in by_county[county]),
+                             key=lambda cp: (cp[0], cp[1]))}
+                        for county in sorted(by_county)]})
+    return problems
+
+
 # The repo's row-per-result layout (2024/2026 precedent: no winner column --
 # winners live in the county/statewide stage, and TOTAL rows are
 # verification-only, never written).
