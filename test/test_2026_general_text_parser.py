@@ -877,36 +877,53 @@ class JasperTextLayerTests(unittest.TestCase):
         self.assertEqual(widened["rows"][0]["kind"], "office")
         self.assertEqual(widened["rows"][1].get("candidate"), "Scott colom Demo")
 
-    def test_page_min_columns_floor_assembles_p3_fully(self):
-        # through parse_county_pdf: a temp manifest overlaying the committed
-        # draft with page_min_columns {"3": 2}; page 3's alignment then binds
-        # its three labels to three detected columns (no column_count miss)
-        import json as _json
-        import tempfile
-        with open(os.path.join(REPO, "2026/header-reads/"
-                              "20261103__ms__general__jasper__headers.json")
-                  ) as fh:
-            manifest = _json.load(fh)
-        manifest["page_min_columns"] = {"3": 2}
-        tmp = tempfile.TemporaryDirectory()
-        self.addCleanup(tmp.cleanup)
-        path = os.path.join(tmp.name, "overlay.json")
-        with open(path, "w") as fh:
-            _json.dump(manifest, fh)
-        pd = ex.parse_county_pdf(self.JASPER, "Jasper", manifest_path=path)
-        aligned = pd["alignments"].get("3") or {}
-        self.assertEqual(len(aligned.get("names_by_center") or {}), 3)
-        self.assertIn("TOTAL", set((aligned.get("names_by_center") or {}).values()))
-        p2 = pd["alignments"].get("2") or {}
-        self.assertEqual(len(p2.get("names_by_center") or {}), 11)
-        # the not-yet-finalized pages: p4's text layer yields no grid at all
-        # (page_missing), p5's a single junk cluster (column_count) -- both
-        # resolved by the operator-supply finalization, not by these fixes
-        count_problems = [p for p in pd["manifest_problems"]
-                          if p["kind"] == "column_count"]
-        self.assertEqual([p["page"] for p in count_problems], [5])
-        self.assertEqual([p["page"] for p in pd["manifest_problems"]
-                          if p["kind"] == "page_missing"], [4])
+    def test_finalized_manifest_assembles_p2_p3_and_supplies_p4_p5(self):
+        # through parse_county_pdf under the committed finalized manifest:
+        # p2 binds its 11 labels to 11 detected columns (widened anchor),
+        # p3 its 3 labels (page_min_columns floor 2), and p4/p5 are
+        # operator-supply pages -- never a column_count or page_missing
+        # problem -- whose Sorey row arrives entirely through operator_rows
+        pd = ex.parse_county_pdf(
+            self.JASPER, "Jasper",
+            manifest_path=os.path.join(REPO, "2026/header-reads/"
+                                       "20261103__ms__general__jasper__headers.json"))
+        p2 = (pd["alignments"].get("2") or {}).get("names_by_center") or {}
+        self.assertEqual(len(p2), 11)
+        self.assertNotIn("TOTAL", p2.values())
+        p3 = (pd["alignments"].get("3") or {}).get("names_by_center") or {}
+        self.assertEqual(len(p3), 3)
+        self.assertEqual(set(p3.values()), {"Rose Hill", "Stringer", "TOTAL"})
+        self.assertEqual(
+            [p for p in pd["manifest_problems"]
+             if p["kind"] in ("column_count", "page_missing")], [])
+        # the operator row: 13 cells keyed by the p4/p5 label positions,
+        # total from the p5 TOTAL position (index 2)
+        self.assertEqual([r["page"] for r in pd["operator_supply_pages"]],
+                         [4, 5])
+        (sorey, *rest) = [r for r in pd["candidate_rows"]
+                          if r["candidate"] == "Stanley Sorey"]
+        self.assertEqual(rest, [])
+        self.assertEqual((sorey["office"], sorey["district"], sorey["seat"]),
+                         ("Circuit Court", "13", 2))
+        self.assertEqual(sorey["party"], "")
+        self.assertEqual(sorey["cells"], {
+            "Antioch": 193, "Bay Springs Beat 3": 526,
+            "Bay Springs Beat 4": 428, "Claiborne": 240,
+            "Heidelberg": 746, "Holders": 280, "Louin": 372,
+            "Montrose": 169, "Moss": 233, "Moss East": 172,
+            "Paulding": 649, "Rose Hill": 414, "Stringer": 523})
+        self.assertEqual(sorey["total"], 4945)
+        self.assertEqual(sum(sorey["cells"].values()), sorey["total"])
+        # 14 applications = 13 vote cells (11 on p4, 2 on p5) + the p5 TOTAL
+        # cell read, which is the row's printed total, not an extra vote
+        self.assertEqual(len(pd["operator_cells_applied"]), 14)
+        self.assertEqual(
+            [r["precinct"] for r in pd["operator_cells_applied"]
+             if r["page"] == 5],
+            ["Rose Hill", "Stringer", "TOTAL"])
+        self.assertEqual(
+            sorted(r["mechanism"] for r in pd["operator_cells_applied"]),
+            ["operator_rows"] * 14)
 
 
 class AssemblyTests(unittest.TestCase):
