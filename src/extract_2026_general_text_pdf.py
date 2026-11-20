@@ -19,7 +19,7 @@ Usage:
 """
 
 import re
-import difflib  # total_col fuzzy header match; stdlib only
+import difflib  # SequenceMatcher fuzzy matching (TOTAL header, labels); stdlib only
 
 DIGIT_RE = re.compile(r"^-?\d+$")
 
@@ -227,9 +227,6 @@ def total_col(headers):
     return None if best is None else best[1]
 
 
-FUZZY_RATIO = 0.72
-
-
 def _fuzzy_eq(a, b, ratio):
     return difflib.SequenceMatcher(None, a.upper(), b.upper()).ratio() >= ratio
 
@@ -239,8 +236,12 @@ def parse_office(label, fuzzy=False):
 
     `seat` is the printed position/place qualifier when the ballot carries
     one (court-of-appeals positions, chancery places); None otherwise.
-    Fuzzy tolerance is for the OCR-derived text layers (Jasper/Lee), whose
-    confusions look like "US House 0f Rep 02- Znd Congresslonal Dlstrlct".
+    U.S. Senate returns "" for district: the race is not districted, and ""
+    (blank) is the repo convention for a race that carries no district --
+    parse_2024_general_statewide.parse_office does the same. Fuzzy
+    tolerance is for the OCR-derived text layers (Jasper/Lee), whose
+    confusions look like "US House 0f Fep 02- Znd Congresslonal Dlstrlct"
+    / "Court O Appeals 01-Dlstrlct 3 Posltlon 2".
     """
     label = re.sub(r"\s+", " ", label).strip()
     if (_fuzzy_eq(label, "United States-Senate", 0.8 if fuzzy else 1.0)
@@ -248,8 +249,8 @@ def parse_office(label, fuzzy=False):
         return "U.S. Senate", "", None
     # The printed label says "Of" (letter O; Union p2) but the OCR-derived
     # layers render that word both ways: "of"/"Of" or "0f".
-    m = re.search(r"US House [O0][fF] Rep 0*(\d+)", label)
-    if not m and fuzzy and _fuzzy_eq(label, "US HOUSE OF REP", 0.7):
+    m = re.search(r"US House [O0][fF] Rep 0*([1-9]\d*)", label)
+    if not m and fuzzy and _fuzzy_eq(label[:17], "US HOUSE OF REP", 0.7):
         digits = re.findall(r"\b0*(\d)\b", label)
         if digits:
             return "U.S. House", str(int(digits[0])), None
@@ -257,30 +258,54 @@ def parse_office(label, fuzzy=False):
         return "U.S. House", str(int(m.group(1))), None
     m = re.search(r"Court [O0][fF] Appeals 0*(\d+)-District 0*(\d+)"
                   r"(?:\s*Position\s*0*(\d+))?", label)
-    if not m and fuzzy and _fuzzy_eq(label, "COURT OF APPEALS", 0.7):
-        digits = re.findall(r"\b(\d+)", label)
-        if len(digits) >= 2:
-            return ("Court of Appeals", str(int(digits[0])),
-                    int(digits[-1]) if digits[-1] != digits[0] else None)
+    if not m and fuzzy and _fuzzy_eq(label[:18], "COURT OF APPEALS", 0.7):
+        # Leading digit run is the district's place number ("01-"); the
+        # District number follows, then an optional Position.
+        digits = re.findall(r"\b(\d+)\b", label)
+        if digits:
+            district = digits[1] if len(digits) >= 2 else digits[0]
+            seat = (int(digits[-1])
+                    if len(digits) >= 2 and digits[-1] != digits[1] else None)
+            return "Court of Appeals", str(int(district)), seat
     if m:
         d = str(int(m.group(2)))
         return "Court of Appeals", d, int(m.group(3)) if m.group(3) else None
-    m = re.search(r"Chancery Court 0*(\d+)-Chancery District 0*(\d+)"
+    m = re.search(r"Chancery Court 0*(\d+)\s*-\s*Chancery District 0*(\d+)"
                   r"(?:\s*Place\s*0*(\d+))?", label)
+    if not m and fuzzy and _fuzzy_eq(label[:15], "CHANCERY COURT", 0.7):
+        digits = re.findall(r"\b(\d+)\b", label)
+        if digits:
+            district = digits[1] if len(digits) >= 2 else digits[0]
+            place = (int(digits[-1])
+                     if len(digits) >= 2 and digits[-1] != digits[1] else None)
+            return "Chancery Court", str(int(district)), place
     if m:
         d = str(int(m.group(2)))
         return "Chancery Court", d, int(m.group(3)) if m.group(3) else None
-    m = re.search(r"[S5]t[aeirl]*[te] Senate 0*(\d+)", label)
-    if m:
-        return "State Senate", str(int(m.group(1))), None
-    m = re.search(r"[S5]t[aeirl]*[te] House 0*(\d+)", label)
-    if m:
-        return "State House", str(int(m.group(1))), None
     return None
+
+
+# Party -> code map for standalone party tokens. "" is the Nonpartisan
+# value (blank party per repo convention, parse_2024_general_statewide
+# precedent); OCR-derived layers mangle the spelled words, hence the
+# pre-mangled keys.
+PARTY_WORDS = {
+    "Democrat": "DEM", "Democratic": "DEM", "Democra": "DEM",
+    "Republican": "REP", "Republlcan": "REP",
+    "Libertarian": "LIB", "Llbertarlan": "LIB",
+    "Constitution": "CON", "Constitutlon": "CON",
+    "Independent": "IND", "Independen": "IND", "Independlent": "IND",
+    "Nonpartisan": "", "Nonpartlsan": "",
+}
 
 
 def party_of(text, fuzzy=False):
     """Party code for a standalone party token, or None if not a party word.
+
+    Returns a code ("DEM"/"REP"/"LIB"/"CON"/"IND"), "" when the token is a
+    Nonpartisan one (blank party per repo convention), and None when the
+    text is not a party word at all -- call sites must therefore test
+    `is not None` and may not treat "" and None alike.
 
     The tolerant path is ALWAYS active (not gated on `fuzzy`): party tokens
     on the OCR-derived text layers are mangled the same way labels are, and
@@ -290,19 +315,13 @@ def party_of(text, fuzzy=False):
     token = re.sub(r"[^A-Za-z]", "", text).strip()
     if not token:
         return None
-    known = {
-        "Democrat": "DEM", "Democratic": "DEM", "Democra": "DEM",
-        "Republican": "REP", "Republlcan": "REP",
-        "Libertarian": "LIB", "Llbertarlan": "LIB",
-        "Constitution": "CON", "Constitutlon": "CON",
-        "Independent": "IND", "Independen": "IND", "Independlent": "IND",
-        "Nonpartisan": "", "Nonpartlsan": "",
-    }
-    if token in known:
-        return known[token]
-    for word, code in known.items():
-        if difflib.SequenceMatcher(None, token.upper(), word.upper()).ratio() >= 0.75:
-            return code
+    if token in PARTY_WORDS:
+        return PARTY_WORDS[token]
+    if len(token) <= 14:  # no party word is longer than 12 characters
+        for word, code in PARTY_WORDS.items():
+            if difflib.SequenceMatcher(None, token.upper(),
+                                       word.upper()).ratio() >= 0.75:
+                return code
     return None
 
 
@@ -334,10 +353,11 @@ def is_noise(text, fuzzy=False):
 
 def precinct_norm(name):
     """OpenElections precinct-name conventions: no 'Precinct' suffix, no
-    leading zeros on pure numbered precincts, no surrounding quotes or stray
-    trailing commas; internal content (including commas) is preserved."""
-    name = (name or "").strip().strip('"').strip()
-    name = re.sub(r",\s*$", "", name)
+    leading zeros on pure numbered precincts, no surrounding quotes
+    (straight or curly) or stray trailing commas/whitespace; internal
+    content (including commas) is preserved."""
+    name = (name or "").strip().strip('"“”').strip()
+    name = re.sub(r"[,\s]+$", "", name)
     name = re.sub(r"\s+", " ", name)
     name = re.sub(r"\s+precinct\s*$", "", name, flags=re.IGNORECASE)
     m = re.match(r"^0*(\d+)$", name)

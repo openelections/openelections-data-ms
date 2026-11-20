@@ -247,6 +247,44 @@ class LabelTests(unittest.TestCase):
         for name, expected in cases:
             self.assertEqual(ex.precinct_norm(name), expected, name)
 
+    def test_office_fuzzy_prefix_fallback(self):
+        # A full-label ratio vs "US HOUSE OF REP"/"COURT OF APPEALS" never
+        # reaches 0.7 on real-length labels; the fallback must compare the
+        # label's leading characters instead, and the Court fallback must
+        # take the DISTRICT digit run (leading number is the place number).
+        # Fixtures use the OCR-layer mangles observed on these scans: letter
+        # O where the district's leading zero prints, "Fep" for "Rep",
+        # "Posltlon" for "Position".
+        self.assertEqual(ex.parse_office("Court O Appeals 01-Dlstrlct 3 Posltlon 2",
+                                         fuzzy=True), ("Court of Appeals", "3", 2))
+        self.assertEqual(ex.parse_office("US House 0f Fep 02- Znd Congresslonal Dlstrlct",
+                                         fuzzy=True), ("U.S. House", "2", None))
+
+    def test_chancery_recovery(self):
+        # Space after the hyphen defeats the strict pattern's old "-" anchor,
+        # and "Destrict" needs a fuzzy branch symmetric to the Court one.
+        self.assertEqual(ex.parse_office("Chancery Court 3- Chancery District 3 Place 2"),
+                         ("Chancery Court", "3", 2))
+        self.assertEqual(ex.parse_office("Chancery Court 3- Chancery Destrict 3", fuzzy=True),
+                         ("Chancery Court", "3", None))
+
+    def test_office_empty_label_is_none(self):
+        self.assertIsNone(ex.parse_office(""))
+
+    def test_party_none_guards(self):
+        # A Nonpartisan mangle returns "" (blank party), not-a-party text
+        # returns None; call sites must test `is not None`.
+        self.assertEqual(ex.party_of("Nonpartlsan"), "")
+        self.assertIsNone(ex.party_of(""))
+        self.assertIsNone(ex.party_of(" "))
+        self.assertIsNone(ex.party_of("Ty Pinkins"))
+
+    def test_precinct_norm_edges(self):
+        cases = [('"“Airport”"', "Airport"), ("Bellemont,,", "Bellemont"),
+                 ("Chunky Precinct 3", "Chunky Precinct 3"), ("5 Precinct", "5")]
+        for name, expected in cases:
+            self.assertEqual(ex.precinct_norm(name), expected, name)
+
 
 if __name__ == "__main__":
     unittest.main()
