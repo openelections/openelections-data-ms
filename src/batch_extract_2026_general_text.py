@@ -12,16 +12,22 @@ A roster_subset record -- one county's roster strictly contains every other
 county's, the legitimate sub-district spread where a judicial place prints
 on only part of the district's ballots -- is printed but ADVISORY: it does
 not block the batch. A roster_mismatch (candidates that differ on both
-sides) is blocking.
+sides) is blocking, EXCEPT where a county's manifest declares the race
+under accepted_roster_divergences ({office, district, note}): a printed
+ballot structure like Chancery District 9, whose Places partition across
+the district's counties so no county prints the full roster. The record is
+downgraded to an advisory roster_divergence_accepted (original rosters
+kept on the record as evidence) and printed, not blocking.
 
 State is tracked in <cache-dir>/status.json (resumable: a county already
 PASSED is skipped unless --force; the roster stage always re-runs, since a
 roster gate is only meaningful across the whole set).
 
 Exit: 0 only when every selected county PASSED clean and the roster gate
-carried no blocking record (advisory roster_subset records are reported in
-the same status.json roster_gate section, inside that one pass); anything
-else exits 1 (a refused vacuous --only exits 2 without touching status.json).
+carried no blocking record (advisory roster records -- roster_subset and
+the accepted-roster_divergence kind -- are reported in the same status.json
+roster_gate section, inside that one pass); anything else exits 1 (a
+refused vacuous --only exits 2 without touching status.json).
 
 Usage:
     uv run python src/batch_extract_2026_general_text.py \
@@ -42,9 +48,11 @@ DATE = "20261103"
 
 # The counties parsing through this pipeline so far -- a usable text layer
 # (Union, Warren) or an operator manifest supplying the grid wholesale
-# (Jasper, Lee, and the scanned pilot Issaquena); everything else of the 82
+# (Jasper, Lee, and the scan counties run so far); everything else of the 82
 # general-election PDFs is the scanned-phase's remaining work.
-COUNTIES = ["Union", "Warren", "Jasper", "Lee", "Issaquena"]
+COUNTIES = ["Union", "Warren", "Jasper", "Lee", "Issaquena",
+            "Sharkey", "Noxubee", "Quitman", "Benton", "Claiborne",
+            "Humphreys"]
 
 SOURCES_SUBDIR = "2026/general"
 MANIFEST_DIR = Path("2026/header-reads")
@@ -178,19 +186,83 @@ def save_status(status_path, status):
 
 def blocking_roster_problems(roster_problems):
     """The roster-gate records that block the batch: every record except the
-    advisory roster_subset kind (a re-parse exception inside the roster
-    stage blocks too -- it is no subset shape). Printed either way."""
+    advisory kinds -- roster_subset (a re-parse of the legitimate
+    sub-district spread) and roster_divergence_accepted (a mismatch whose
+    race a county manifest declares as printed-ballot structure; see
+    apply_accepted_divergences). A re-parse exception inside the roster
+    stage blocks too. Printed either way."""
     return [problem for problem in (roster_problems or [])
-            if problem.get("kind") != "roster_subset"]
+            if problem.get("kind") not in ("roster_subset",
+                                           "roster_divergence_accepted")]
+
+
+ACCEPTED_DIVERGENCES_KEY = "accepted_roster_divergences"
+
+
+def accepted_divergences(counties):
+    """The (office, district) races a county manifest declares as accepted
+    cross-county roster divergences (manifest[ACCEPTED_DIVERGENCES_KEY],
+    entries {office, district, note}).
+
+    Shape: {(office, district): {"counties": [...], "note": str}} -- the
+    counties whose manifests accept the race. A missing manifest or a
+    missing/malformed key contributes nothing (a malformed ENTRY is
+    tolerated too: the declaration is advisory evidence about a race the
+    roster gate already flagged, so it cannot add gate problems)."""
+    out = {}
+    for county in counties:
+        path = manifest_path(county)
+        if not Path(path).exists():
+            continue
+        entries = json.loads(Path(path).read_text()).get(
+            ACCEPTED_DIVERGENCES_KEY)
+        if not isinstance(entries, list):
+            continue
+        for entry in entries:
+            if not isinstance(entry, dict):
+                continue
+            office = str(entry.get("office") or "").strip()
+            district = str(entry.get("district") or "").strip()
+            if not office:
+                continue
+            record = out.setdefault((office, district),
+                                    {"counties": [], "note": ""})
+            if county not in record["counties"]:
+                record["counties"].append(county)
+            if entry.get("note"):
+                record["note"] = str(entry["note"])
+    return out
+
+
+def apply_accepted_divergences(roster_problems, accepted):
+    """Downgrade a roster_mismatch whose race a county manifest accepts into
+    an advisory roster_divergence_accepted record: kind replaced, the
+    original rosters kept on the record as evidence, accepted_by and note
+    attached. Every other record passes through unchanged."""
+    downgraded = []
+    for problem in roster_problems or []:
+        if (problem.get("kind") == "roster_mismatch"
+                and problem.get("race")):
+            record = accepted.get((problem["race"][0], problem["race"][1]))
+            if record:
+                downgraded.append(dict(problem,
+                                       kind="roster_divergence_accepted",
+                                       accepted_by=list(record["counties"]),
+                                       note=record["note"]))
+                continue
+        downgraded.append(problem)
+    return downgraded
 
 
 def run_batch(sources_dir, only=None, cache_dir=DEFAULT_CACHE_DIR,
               force=False, allow_gate_failures=False):
     """Run the selected counties, then the roster gate over their parses.
     Returns (status, roster_problems, all_passed), the roster problems
-    carrying both kinds: the caller gates the exit on
-    blocking_roster_problems(roster_problems), leaving roster_subset records
-    advisory. A vacuous --only refuses to run at all (the runner would
+    carrying every kind (the advisory ones already downgraded/kept): the
+    caller gates the exit on blocking_roster_problems(roster_problems),
+    leaving the advisory kinds (roster_subset and the
+    apply_accepted_divergences-downgraded roster_divergence_accepted)
+    non-blocking. A vacuous --only refuses to run at all (the runner would
     otherwise print success and overwrite status.json's roster section with
     an empty county set)."""
     selected, unknown = only_split(only)
@@ -242,10 +314,13 @@ def run_batch(sources_dir, only=None, cache_dir=DEFAULT_CACHE_DIR,
                 {"county": county, "kind": "exception",
                  "error_type": type(e).__name__, "error": str(e)})
     roster_problems = county_problems + ex.check_roster_shared_races(parses)
+    roster_problems = apply_accepted_divergences(
+        roster_problems, accepted_divergences(selected))
     n_blocking = len(blocking_roster_problems(roster_problems))
     print(f"roster gate: {n_blocking} blocking problem(s), "
-          f"{len(roster_problems) - n_blocking} advisory roster_subset "
-          f"record(s), across {len(parses)} county parses")
+          f"{len(roster_problems) - n_blocking} advisory record(s) "
+          f"(roster_subset and roster_divergence_accepted), "
+          f"across {len(parses)} county parses")
     for problem in roster_problems:
         print(f"  ! {problem['kind']}: "
               f"{problem.get('race') or problem.get('county')}")
@@ -284,13 +359,13 @@ def main(argv=None):
         force=args.force, allow_gate_failures=args.allow_gate_failures)
     blocking = blocking_roster_problems(roster_problems)
     if all_passed and not blocking:
-        # advisory roster_subset records are part of a clean run: printed
-        # above, stored in status.json, and reported here rather than
-        # blocking the exit
+        # advisory roster records (subsets and accepted divergences) are
+        # part of a clean run: printed above, stored in status.json, and
+        # reported here rather than blocking the exit
         advisories = len(roster_problems) - len(blocking)
         if advisories:
             print(f"Done: all counties PASSED, roster gate clean "
-                  f"({advisories} advisory roster_subset record(s)).")
+                  f"({advisories} advisory roster record(s)).")
         else:
             print("Done: all counties PASSED, roster gate clean.")
         return 0

@@ -3626,7 +3626,9 @@ class BatchRunnerTests(unittest.TestCase):
 
     def test_county_list_and_file_mapping(self):
         self.assertEqual(batch.COUNTIES,
-                         ["Union", "Warren", "Jasper", "Lee", "Issaquena"])
+                         ["Union", "Warren", "Jasper", "Lee", "Issaquena",
+                          "Sharkey", "Noxubee", "Quitman", "Benton",
+                          "Claiborne", "Humphreys"])
         job = batch.county_job("Union", "sources/here")
         self.assertEqual(batch.manifest_path("Union"),
                          Path("2026/header-reads/20261103__ms__general__"
@@ -3681,6 +3683,114 @@ class BatchRunnerTests(unittest.TestCase):
             batch.blocking_roster_problems([exception, advisory]),
             [exception])
 
+    def test_blocking_roster_problems_exempt_the_accepted_kind(self):
+        # the apply_accepted_divergences downgrade is advisory too: it
+        # carries the original rosters as evidence but never blocks
+        accepted = {"kind": "roster_divergence_accepted",
+                    "race": ["Chancery Court", "9"],
+                    "rosters": [{"county": "Humphreys",
+                                 "candidates": [["Bennie L. Richard", ""]]},
+                                {"county": "Sharkey",
+                                 "candidates": [["Penny B. Lawson", ""]]}],
+                    "accepted_by": ["Humphreys"],
+                    "note": "disjoint place partition"}
+        mismatch = {"kind": "roster_mismatch", "race": ["U.S. House", "1"],
+                    "rosters": []}
+        self.assertEqual(
+            batch.blocking_roster_problems([accepted, mismatch]),
+            [mismatch])
+
+    def test_accepted_divergences_read_county_manifests(self):
+        # the manifest-declared accepted divergences, keyed (office,
+        # district); malformed keys and entries contribute nothing, and a
+        # county without the key contributes nothing
+        import tempfile
+
+        def fake_manifest_path(county):
+            return Path(tmp.name) / f"{county}.json"
+
+        tmp = tempfile.TemporaryDirectory()
+        self.addCleanup(tmp.cleanup)
+        orig_path = batch.manifest_path
+        self.addCleanup(setattr, batch, "manifest_path", orig_path)
+        batch.manifest_path = fake_manifest_path
+        good = {"county": "Humphreys", "source": "x", "total_label": "TOTAL",
+                "pages": {"1": []},
+                "accepted_roster_divergences": [
+                    {"office": "Chancery Court", "district": "9",
+                     "note": "disjoint place partition"}]}
+        (Path(tmp.name) / "Humphreys.json").write_text(json.dumps(good))
+        (Path(tmp.name) / "Benton.json").write_text(
+            json.dumps({"county": "Benton", "source": "x",
+                        "total_label": "TOTAL", "pages": {"1": []}}))
+        bad_key = {"county": "Noxubee", "source": "x",
+                   "total_label": "TOTAL", "pages": {"1": []},
+                   "accepted_roster_divergences": "nope"}
+        (Path(tmp.name) / "Noxubee.json").write_text(json.dumps(bad_key))
+        bad_entry = {"county": "Quitman", "source": "x",
+                     "total_label": "TOTAL", "pages": {"1": []},
+                     "accepted_roster_divergences": [
+                         # an entry without an office contributes nothing...
+                         {"district": "9"},
+                         # ...a non-dict entry contributes nothing, but an
+                         # office-only entry IS a declaration
+                         ["Chancery Court", "9"],
+                         {"office": "Chancery Court", "district": "15"}]}
+        (Path(tmp.name) / "Quitman.json").write_text(json.dumps(bad_entry))
+        unknown = batch.accepted_divergences(["Neshoba"])
+        self.assertEqual(unknown, {})
+        got = batch.accepted_divergences(
+            ["Humphreys", "Benton", "Noxubee", "Quitman", "Neshoba"])
+        self.assertEqual(got, {("Chancery Court", "9"):
+                               {"counties": ["Humphreys"],
+                                "note": "disjoint place partition"},
+                               ("Chancery Court", "15"):
+                               {"counties": ["Quitman"], "note": ""}})
+        # a second accepting county joins the same race's record
+        (Path(tmp.name) / "Warren.json").write_text(json.dumps(
+            {"accepted_roster_divergences": [
+                {"office": "Chancery Court", "district": "9"}]}))
+        got = batch.accepted_divergences(["Humphreys", "Warren"])
+        self.assertEqual(got[("Chancery Court", "9")]["counties"],
+                         ["Humphreys", "Warren"])
+        # the note stays the declared rationale (Warren's entry carries none
+        # and must not erase Humphreys')
+        self.assertEqual(got[("Chancery Court", "9")]["note"],
+                         "disjoint place partition")
+
+    def test_apply_accepted_divergences_downgrades_only_matching_mismatches(
+            self):
+        mismatch = {"kind": "roster_mismatch", "race": ["Chancery Court", "9"],
+                    "rosters": [{"county": "Humphreys",
+                                 "candidates": [["Bennie L. Richard", ""]]}]}
+        other = {"kind": "roster_mismatch", "race": ["U.S. House", "1"],
+                 "rosters": []}
+        subset = {"kind": "roster_subset", "race": ["Circuit Court", "9"],
+                  "rosters": []}
+        accepted = {("Chancery Court", "9"):
+                    {"counties": ["Humphreys"], "note": "partition"}}
+        out = batch.apply_accepted_divergences(
+            [subset, mismatch, other], accepted)
+        self.assertEqual(out[0], subset)  # nothing to accept: unchanged
+        self.assertEqual(out[2], other)   # an unaccepted race stays blocking
+        self.assertEqual(out[1]["kind"], "roster_divergence_accepted")
+        self.assertEqual(out[1]["accepted_by"], ["Humphreys"])
+        self.assertEqual(out[1]["note"], "partition")
+        # the original rosters stay on the record as evidence
+        self.assertEqual(out[1]["rosters"], mismatch["rosters"])
+        self.assertEqual(out[1]["race"], ["Chancery Court", "9"])
+
+    def test_humphreys_manifest_declares_the_chancery_9_divergence(self):
+        # the committed adjudication: Humphreys' portion of Chancery
+        # District 9 elects Place 1, the delta counties' Place 2, so the
+        # seat-blind family gate's mismatch is accepted as printed
+        # ballot structure
+        declared = batch.accepted_divergences(["Humphreys"])
+        self.assertIn(("Chancery Court", "9"), declared)
+        self.assertEqual(declared[("Chancery Court", "9")]["counties"],
+                         ["Humphreys"])
+        self.assertTrue(declared[("Chancery Court", "9")]["note"])
+
     def test_roster_subset_advisory_exits_clean_mismatch_blocks(self):
         # main()'s exit contract over a stubbed run_batch: an advisory
         # roster_subset record prints (loud) but exits 0, while the same
@@ -3721,7 +3831,6 @@ class BatchRunnerTests(unittest.TestCase):
             if expected_rc == 0:
                 # the advisory record is printed, not swallowed, and the
                 # run reads as a success
-                self.assertIn("roster_subset", stdout.getvalue())
                 self.assertIn("advisory", stdout.getvalue())
                 self.assertNotIn("FAILED", stdout.getvalue())
             else:

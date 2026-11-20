@@ -83,6 +83,15 @@ generation run unchanged. Pipeline additions needed first (small):
 - Tier 0 pilots: Issaquena (3 pp), Sharkey (3), Noxubee (3), Quitman (3),
   Benton (3), Claiborne (3), Humphreys (3) — smallest grids; Issaquena's
   page-2-only layout exercises the single-page fast path.
+  **Status: all seven CONVERTED** (see
+  `2026/20261103-general-text-layer-notes.md`, scan-county sections). The
+  conversion pinned the per-county orientations (Sharkey/Benton ROTATE_270,
+  Noxubee/Humphreys ROTATE_90, Quitman/Claiborne landscape-genuine raw) and
+  found two tier-0 lessons for the rest of the phase: a page declared
+  local-only must still be checked for continuation rows (Quitman's Circuit
+  11-3 row started on p3 under the local zone), and section header boxes can
+  print one row block late on a continuation page (Benton p3 — seat pairing
+  adjudicated against the printed boxes).
 - Tier 1 (5 pp): the bulk (~40 counties).
 - Tier 2 (7-10 pp): Alcorn, Clarke, Itawamba, Monroe, Pike, Bolivar, etc.
 - Tier 3 (13-16 pp): Hancock, Pearl River, DeSoto, Harrison, Madison, Rankin.
