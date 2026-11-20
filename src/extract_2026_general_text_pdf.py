@@ -1151,12 +1151,18 @@ MANIFEST_REPAIRS_KEY = "cell_token_repairs"
 #     Operator rows face the printed-TOTAL gate like parsed rows.
 #
 #   "operator_supply_pages": [<page>]
-#     Pages whose text-layer parse is not used at all (Jasper p4/p5: no grid
-#     survives) -- never extracted, never a page_missing/column_count gate
-#     problem, the scope decision is the operator's. Their declared labels
-#     remain the position index the operator read against. Every such page
-#     must be referenced by at least one operator cells/rows entry: a
-#     supplied page with no operator content would silently produce nothing.
+#     Pages whose text-layer parse is not used at all (Jasper p4/p5, then all
+#     of Lee's p2-p9: no usable grid survives) -- never extracted, never a
+#     page_missing/column_count gate problem, the scope decision is the
+#     operator's. Their declared labels remain the position index the
+#     operator read against, and they join the county's precinct universe by
+#     that same positional reading (an all-supply county has no layer
+#     alignment to name its precincts; a partially-supplied county's supply
+#     pages repeat the layer column groups, so nothing changes there). Every
+#     such page must be referenced by at least one operator cells/rows
+#     entry: a supplied page with no operator content would silently
+#     produce nothing. A county whose in-scope pages are all supplied is a
+#     legitimate parse shape (see no_table_pages_reason).
 MANIFEST_OPERATOR_CELLS_KEY = "operator_cells"
 MANIFEST_OPERATOR_ROWS_KEY = "operator_rows"
 MANIFEST_SUPPLY_KEY = "operator_supply_pages"
@@ -1531,6 +1537,45 @@ def narrow_retry_numbers(manifest):
     return out
 
 
+def no_table_pages_reason(manifest, table_pages, path):
+    """The ValueError message for a parse that extracted no table pages at
+    all, or None when an empty layer table-page set is legitimate and the
+    assembly can still produce the county.
+
+    Empty is legitimate exactly when every page the manifest DECLARES that
+    is not local-only is an operator_supply page AND the manifest carries
+    operator entries to supply them (operator_rows or operator_cells): the
+    operator's grid is the county (pd["pages_used"] is simply empty; the
+    precinct universe comes from the supply pages' declared labels). Two
+    shapes still raise, because the assembly would be empty and every gate
+    on it would look vacuously clean:
+
+    * the manifest declares an in-scope, non-skipped table page that extraction
+      attempted and yielded nothing (a scanned PDF, a mis-scoped page), and
+    * every in-scope page is skipped but no operator entries exist to supply
+      it.
+    """
+    if table_pages:
+        return None
+    entries = bool(operator_cell_entries(manifest)
+                   or operator_row_entries(manifest))
+    declared = manifest.get("pages") if isinstance(manifest, dict) else None
+    extractable = set()
+    local_only = manifest_numbers(manifest, "local_only_pages")
+    operator_supply = manifest_numbers(manifest, MANIFEST_SUPPLY_KEY)
+    for key in (declared or {}):
+        try:
+            num = int(str(key))
+        except ValueError:
+            continue
+        if num in local_only or num in operator_supply:
+            continue
+        extractable.add(num)
+    if extractable or not entries:
+        return f"no table pages found in {path}"
+    return None
+
+
 MANIFEST_MIN_COLUMNS_KEY = "page_min_columns"
 # find_table_top's floors below this would read prose as the table top; the
 # one-retry-at-2 floor is the limit for pages whose narrow tail (Warren p4/p7)
@@ -1749,7 +1794,9 @@ def parse_county_from_pages(pages, county, manifest):
     (manifest["operator_supply_pages"]) skip the same way -- their scope
     decision is that the text layer is not used, with the in-scope data
     arriving through the operator cells/rows entries; each is recorded under
-    pd["operator_supply_pages"].
+    pd["operator_supply_pages"], and their declared labels join the county's
+    precinct universe positionally (an all-supply county has no layer
+    alignment to name its precincts -- Lee is such a county).
 
     Operator cells/rows (manifest["operator_cells"]/"operator_rows") apply
     AFTER the alignment and merge: each referenced (page, position index)
@@ -1818,20 +1865,42 @@ def parse_county_from_pages(pages, county, manifest):
                 by_center[center] = names[pos] if pos < len(names) else None
         alignments[pno] = {"names_by_center": by_center, "names": names,
                            "total_pos": total_pos, "labels": labels}
+    supply_alignments = {}
     for key in sorted(manifest_pages, key=sort_key):
-        if page_no(key) in local_only:
+        pno = page_no(key)
+        if pno in local_only:
             skipped_local_pages.append({"page": page_no(key),
                                         "labels": manifest_pages[key] or [],
                                         "reason": "local_only"})
-        elif page_no(key) in operator_supply:
+        elif pno in operator_supply:
+            labels = manifest_pages[key] or []
             operator_supply_records.append({"page": page_no(key),
-                                            "labels": manifest_pages[key] or []})
+                                            "labels": labels})
+            # an operator-supply page's labels are position-indexed the same
+            # way: they name the precinct universe the operator's cells key
+            # into (an all-supply county has no layer alignment for them),
+            # and their label problems are recorded like an alignment's
+            names, total_pos, label_problems = normalize_page_labels(
+                labels, total_label)
+            for pr in label_problems:
+                pr.setdefault("page", pno)
+                (structure_problems if pr["kind"] == "empty_name"
+                 else manifest_problems).append(pr)
+            supply_alignments[pno] = {"names": names, "total_pos": total_pos,
+                                      "labels": labels}
         elif key not in pages:
             manifest_problems.append({"kind": "page_missing", "page": page_no(key)})
 
+    # The precinct universe: the aligned layer pages' labels PLUS every
+    # operator-supply page's declared labels. An all-supply county has no
+    # layer alignment at all and is named here; a partially-supplied
+    # county's supply pages repeat the layer column groups, so the union
+    # adds nothing there.
     all_names = sorted({name for al in alignments.values()
                         for name in al["names_by_center"].values()
-                        if name and name != TOTAL_NAME})
+                        if name and name != TOTAL_NAME}
+                       | {name for supply in supply_alignments.values()
+                          for name in supply["names"] if name})
 
     merged = {}
     order = []
@@ -2243,8 +2312,14 @@ def parse_county_pdf(pdf_path, county, manifest_path, fuzzy=False):
     so the module imports without it), assembles them through
     parse_county_from_pages (the manifest is used ONLY there), and prepends
     the manifest load problems. Returns parse_county_from_pages' dict plus
-    pd["page_count"]. Raises ValueError when the PDF yields no table pages
-    at all (gate results on an empty parse would look vacuously clean).
+    pd["page_count"]. Raises ValueError only for the empty-extraction shapes
+    no_table_pages_reason distinguishes -- a PDF whose declared in-scope
+    table pages all yielded nothing, or an all-skipped manifest with no
+    operator entries (gate results on an empty parse would look vacuously
+    clean). A county whose in-scope pages are ALL operator_supply_pages and
+    whose manifest carries operator entries parses with an empty layer
+    table-page set (Lee: the operator grid is the county,
+    pd["pages_used"] == []).
 
     Two manifest-driven behaviors scope what is extracted, both bound to
     pages the manifest declares so undeclared pages can never shape the
@@ -2292,8 +2367,13 @@ def parse_county_pdf(pdf_path, county, manifest_path, fuzzy=False):
                 tp = attempt
         if tp is not None:
             pages[str(i)] = tp
-    if not pages:
-        raise ValueError(f"no table pages found in {pdf_path}")
+    reason = no_table_pages_reason(manifest, pages, pdf_path)
+    if reason:
+        # a fully operator-supplied county (every in-scope page skipped, the
+        # manifest carrying operator entries) parses with an empty layer
+        # table-page set; see no_table_pages_reason for the shapes that stay
+        # a hard error
+        raise ValueError(reason)
     pd = parse_county_from_pages(pages, county, manifest)
     pd["manifest_problems"] = mproblems + pd["manifest_problems"]
     pd["page_count"] = len(pdf.pages)

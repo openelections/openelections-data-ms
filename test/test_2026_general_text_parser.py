@@ -2881,7 +2881,12 @@ class OperatorManifestTests(unittest.TestCase):
                    for r in pd["operator_cells_applied"]),
             [(2, "P1"), (2, "P2"), (2, "TOTAL"), (3, "TOTAL")])
         (row,) = pd["candidate_rows"]
-        self.assertEqual(row["cells"], {"P1": 414, "P2": 523})
+        # the supply page's own label P3 is now a real precinct of the
+        # county: the row's printed total (937) equals the sum of its
+        # supplied cells, which proves the blank 0 by the standing
+        # blank-is-zero rule (and a body cell read on this page would
+        # re-key instead of raising operator_cell_unknown_precinct)
+        self.assertEqual(row["cells"], {"P1": 414, "P2": 523, "P3": 0})
         self.assertEqual(row["total"], 937)
         self.assertEqual(ex.run_gates(pd)["total_mismatches"], [])
 
@@ -2951,6 +2956,295 @@ class OperatorManifestTests(unittest.TestCase):
                                   [("A", {246.0: 5}, 5)])})
         (row,) = pd["candidate_rows"]
         self.assertEqual(row["cells"], {"P1": 9, "P2": 6})
+
+
+class FullySuppliedCountyTests(unittest.TestCase):
+    """A county whose in-scope pages are ALL operator_supply_pages parses
+    from the operator entries alone: the layer table-page set is empty by
+    the operator's declaration, so the precinct universe comes from the
+    supply pages' declared labels and the old "no table pages found" guard
+    relaxes to the shapes an empty extraction can be distinguished into.
+    Lee is the real instance (its 13 pages are all local-only or
+    operator-supplied; all 17 in-scope rows are operator_rows)."""
+
+    MANIFEST = {"county": "Synth", "source": "x.pdf",
+                "election_date": "2026-11-03", "read_by": "operator-vision",
+                "date": "2026-11-19", "total_label": "TOTAL",
+                "pages": {"2": ["P1", "P2", "TOTAL"]}}
+
+    ROW = {"key": "hyde", "office": "U.S. Senate", "district": "",
+           "seat": None, "candidate": "Cindy Hyde-Smith", "party": "REP",
+           "cells": {"2": {"0": 300, "1": 400, "2": 700}}}
+
+    def test_fully_supplied_county_parses_with_clean_gates(self):
+        manifest = dict(self.MANIFEST, operator_supply_pages=["2"],
+                        operator_rows=[dict(self.ROW)])
+        pd = ex.parse_county_from_pages({}, "Synth", manifest)
+        (row,) = pd["candidate_rows"]
+        self.assertEqual(row["cells"], {"P1": 300, "P2": 400})
+        self.assertEqual(row["total"], 700)
+        # the precinct universe is the supply page's declared labels
+        self.assertEqual(pd["precinct_names"], ["P1", "P2"])
+        self.assertEqual(pd["pages_used"], [])
+        self.assertEqual(pd["operator_supply_pages"],
+                         [{"page": 2, "labels": ["P1", "P2", "TOTAL"]}])
+        problems = ex.run_gates(pd)
+        for kind in ("total_mismatches", "structure", "conflicts",
+                     "manifest", "party"):
+            self.assertEqual(problems[kind], [])
+
+    def test_supplied_cell_lands_in_the_supply_precinct_universe(self):
+        # the operator cell re-key must recognize the supply page's OWN
+        # labels (an all-supply county has no aligned layer center for them)
+        manifest = dict(self.MANIFEST, operator_supply_pages=["2"],
+                        operator_rows=[dict(self.ROW)])
+        pd = ex.parse_county_from_pages({}, "Synth", manifest)
+        self.assertEqual([p["kind"] for p in pd["structure_problems"]], [])
+        self.assertEqual(len(pd["operator_cells_applied"]), 3)
+        (rec,) = [r for r in pd["operator_cells_applied"]
+                  if r["precinct"] == "P1"]
+        self.assertEqual((rec["page"], rec["mechanism"], rec["old"], rec["new"]),
+                         (2, "operator_rows", None, 300))
+
+    def test_supply_labels_repeating_layer_labels_add_no_precinct(self):
+        # partially-supplied county behaves exactly as today: the supply
+        # page's labels repeat the layer pages' column groups, so the union
+        # adds nothing and a healthy parse stays gate-clean with no
+        # invented precinct cells
+        manifest = dict(self.MANIFEST,
+                        pages={"2": ["P1", "P2", "TOTAL"],
+                               "3": ["P1", "TOTAL"]},
+                        operator_supply_pages=["3"],
+                        operator_rows=[{
+                            "key": "sorey", "office": "Circuit Court",
+                            "district": "13", "seat": 2,
+                            "candidate": "Stanley Sorey", "party": "",
+                            "cells": {"2": {"0": 414, "1": 523, "2": 937},
+                                      "3": {"1": 937}}}])
+        parsed = {"precinct_centers": [246.0, 291.0, 333.0],
+                  "table_top": 200.0,
+                  "rows": [{"kind": "office", "office": "U.S. Senate",
+                            "district": "", "seat": None},
+                           {"kind": "candidate", "candidate": "Scott Colom",
+                            "party": "DEM", "office": "U.S. Senate",
+                            "district": "", "seat": None,
+                            "top": 200.0, "bottom": 208.0,
+                            "cells": {246.0: 400, 291.0: 500}, "total": 900}],
+                  "conflicts": []}
+        pd = ex.parse_county_from_pages({"2": parsed}, "Synth", manifest)
+        self.assertEqual(pd["precinct_names"], ["P1", "P2"])
+        problems = ex.run_gates(pd)
+        for kind in ("total_mismatches", "structure", "conflicts",
+                     "manifest", "party"):
+            self.assertEqual(problems[kind], [])
+
+    def test_guard_silent_when_the_empty_set_is_supplied(self):
+        manifest = dict(self.MANIFEST, operator_supply_pages=["2"],
+                        operator_rows=[dict(self.ROW)])
+        self.assertIsNone(ex.no_table_pages_reason(manifest, {}, "x.pdf"))
+        # operator_cells entries count as operator entries too: the guard's
+        # job is the vacuously-clean empty parse, and rows supplied through
+        # it stay loud through the gates
+        cells_manifest = dict(self.MANIFEST, operator_supply_pages=["2"],
+                              operator_cells={"2": {"A": {"0": 1, "2": 100}}})
+        self.assertIsNone(
+            ex.no_table_pages_reason(cells_manifest, {}, "x.pdf"))
+
+    def test_guard_raises_when_nothing_supplies_the_county(self):
+        # every in-scope page skipped but no operator entries: an empty
+        # parse's gate results would look vacuously clean
+        manifest = dict(self.MANIFEST, operator_supply_pages=["2"])
+        self.assertEqual(ex.no_table_pages_reason(manifest, {}, "x.pdf"),
+                         "no table pages found in x.pdf")
+        # ... and so when the operator declared every page local-only
+        only_local = dict(self.MANIFEST, local_only_pages=["2"])
+        self.assertEqual(only_local.get("operator_supply_pages"), None)
+        self.assertEqual(ex.no_table_pages_reason(only_local, {}, "x.pdf"),
+                         "no table pages found in x.pdf")
+
+    def test_guard_raises_when_a_declared_table_page_yielded_nothing(self):
+        # a declared in-scope table page existed and extraction produced
+        # nothing: a real failure whatever the operator entries say
+        manifest = dict(self.MANIFEST, operator_rows=[dict(self.ROW)])
+        self.assertEqual(ex.no_table_pages_reason(manifest, {}, "x.pdf"),
+                         "no table pages found in x.pdf")
+        mixed = dict(self.MANIFEST, pages={"2": ["P1", "P2", "TOTAL"],
+                                           "3": ["P1", "TOTAL"]},
+                     operator_supply_pages=["3"],
+                     operator_rows=[dict(self.ROW)])
+        self.assertEqual(ex.no_table_pages_reason(mixed, {}, "x.pdf"),
+                         "no table pages found in x.pdf")
+
+    def test_guard_not_involved_once_any_table_page_extracted(self):
+        # partial extraction is the page_missing/column_count gates'
+        # business; the guard only judges the total absence
+        manifest = dict(self.MANIFEST, operator_rows=[dict(self.ROW)])
+        self.assertIsNone(
+            ex.no_table_pages_reason(manifest, {"2": {}}, "x.pdf"))
+
+
+class LeeCountyTests(unittest.TestCase):
+    """The fully operator-supplied county: Lee's OCR text layer yields no
+    parseable candidate rows at all (its digits are letter debris), so all
+    17 in-scope rows arrive through operator_rows keyed on pages 2-9's
+    declared labels -- 33 precincts + printed county totals, every row
+    judged by the printed-TOTAL gate."""
+
+    LEE = os.path.join(SOURCES_DIR, "Lee_County_2026_general.pdf")
+    MANIFEST = os.path.join(REPO, "2026/header-reads/"
+                            "20261103__ms__general__lee__headers.json")
+
+    @classmethod
+    def setUpClass(cls):
+        if not SOURCES_PRESENT:
+            raise unittest.SkipTest("sources checkout not present")
+        cls.pd = ex.parse_county_pdf(cls.LEE, "Lee", manifest_path=cls.MANIFEST)
+        cls.totals = {"Scott Colom": 10524, "Cindy Hyde-Smith": 14772,
+                      "Ty Pinkins": 505, "Johnny Baucom": 339,
+                      "Cliff Johnson": 9762, "Trent Kelly": 15631,
+                      "Derek Dewayne Hopson Jr.": 7806, "John Weddle": 15273,
+                      "Donna M. Barnes": 20041, "Brad Tennison": 19996,
+                      "Michael Malski": 19874, "Jacqueline Mask": 20386,
+                      "Stephen T. Bailey": 19551, "John R. White": 19461,
+                      "Josh Wise": 19439, "Kelly L. Mims": 20134,
+                      "Michael P. 'Chip' Mills Jr.": 19538}
+
+    def test_parse_gates_clean(self):
+        problems = ex.run_gates(self.pd)
+        for kind in ("total_mismatches", "structure", "conflicts",
+                     "manifest", "party"):
+            self.assertEqual(problems[kind], [])
+
+    def test_operator_grid_shape(self):
+        # every in-scope page is either local-only or operator-supplied, so
+        # no layer page is extracted and the operator grid carries the county
+        self.assertEqual(self.pd["pages_used"], [])
+        self.assertEqual(
+            [r["page"] for r in self.pd["operator_supply_pages"]],
+            [2, 3, 4, 5, 6, 7, 8, 9])
+        self.assertEqual(
+            [r["page"] for r in self.pd["skipped_local_pages"]],
+            [1, 10, 11, 12, 13])
+        self.assertEqual(self.pd["dropped_local_rows"], [])
+        # 17 rows x (11 + 11 + 11 vote cells + 1 total cell) = 17 x 34
+        self.assertEqual(len(self.pd["operator_cells_applied"]), 578)
+        self.assertEqual(len(self.pd["candidate_rows"]), 17)
+        self.assertEqual(len(self.pd["precinct_names"]), 33)
+
+    def test_printed_totals_and_full_precinct_cells(self):
+        for row in self.pd["candidate_rows"]:
+            self.assertEqual(len(row["cells"]), 33, row["candidate"])
+            self.assertEqual(sum(row["cells"].values()), row["total"],
+                             row["candidate"])
+            self.assertEqual(row["total"], self.totals[row["candidate"]],
+                             row["candidate"])
+        self.assertEqual(sorted(self.pd["precinct_names"]), sorted([
+            "Pratts", "Baldwyn", "Guntown", "Friendship", "Unity", "Auburn",
+            "Oak Hill", "Veterans", "Tupelo 1", "Cedar Hill", "Tupelo 2",
+            "Beech Springs", "Birmingham Ridge", "Euclatubba", "Saltillo",
+            "Belden", "TFM #5", "Tupelo 3", "Palmetto", "Pleasant Grove",
+            "Old Union", "Verona", "Tupelo 4 North", "Tupelo 4 South",
+            "Brewer", "Shannon", "Richmond", "Plantersville", "Tupelo 5",
+            "Eggville", "Mooreville", "Nettleton", "Gilvo"]))
+
+    def test_roster_offices_districts_parties(self):
+        roster = {(r["office"], r["district"], r.get("seat"), r["party"])
+                  for r in self.pd["candidate_rows"]}
+        self.assertEqual(roster, {
+            ("U.S. Senate", "", None, "DEM"),
+            ("U.S. Senate", "", None, "REP"),
+            ("U.S. Senate", "", None, "IND"),
+            ("U.S. House", "1", None, "LIB"),
+            ("U.S. House", "1", None, "DEM"),
+            ("U.S. House", "1", None, "REP"),
+            ("Court of Appeals", "1", 1, ""), ("Court of Appeals", "1", 2, ""),
+            ("Chancery Court", "1", 1, ""), ("Chancery Court", "1", 2, ""),
+            ("Chancery Court", "1", 3, ""), ("Chancery Court", "1", 4, ""),
+            ("Circuit Court", "1", 1, ""), ("Circuit Court", "1", 2, ""),
+            ("Circuit Court", "1", 3, ""), ("Circuit Court", "1", 4, "")})
+        self.assertEqual(ex.multi_seat_keys(self.pd), {
+            ("Court of Appeals", "1"), ("Chancery Court", "1"),
+            ("Circuit Court", "1")})
+
+    def test_ballot_order_block_one_then_block_two(self):
+        self.assertEqual([r["candidate"] for r in self.pd["candidate_rows"]], [
+            "Scott Colom", "Cindy Hyde-Smith", "Ty Pinkins", "Johnny Baucom",
+            "Cliff Johnson", "Trent Kelly", "Derek Dewayne Hopson Jr.",
+            "John Weddle", "Donna M. Barnes", "Brad Tennison",
+            "Michael Malski", "Jacqueline Mask", "Stephen T. Bailey",
+            "John R. White", "Josh Wise", "Kelly L. Mims",
+            "Michael P. 'Chip' Mills Jr."])
+        self.assertEqual(len({ex._merge_key(r)
+                              for r in self.pd["candidate_rows"]}), 17)
+
+    def test_written_csv_shape_labels_and_dup_free(self):
+        import csv as _csv
+        import tempfile
+        tmp = tempfile.mkdtemp()
+        self.addCleanup(lambda: __import__("shutil").rmtree(tmp, True))
+        out = os.path.join(tmp, "lee__precinct.csv")
+        ex.write_precinct_csv(self.pd, out)
+        with open(out) as fh:
+            rows = list(_csv.DictReader(fh))
+        # 17 candidates x 33 precincts
+        self.assertEqual(len(rows), 17 * 33)
+        self.assertEqual(len({(r["precinct"], r["office"], r["candidate"])
+                              for r in rows}), len(rows))
+        first = sorted({r["precinct"] for r in rows},
+                       key=lambda p: p.lower())[0]
+        self.assertEqual(first, "Auburn")
+        # ballot order within a precinct: operator_rows insertion order, the
+        # Suffixed office labels carry the printed qualifiers
+        self.assertEqual([(r["office"], r["district"], r["party"])
+                          for r in rows if r["precinct"] == "Auburn"], [
+            ("U.S. Senate", "", "DEM"), ("U.S. Senate", "", "REP"),
+            ("U.S. Senate", "", "IND"), ("U.S. House", "1", "LIB"),
+            ("U.S. House", "1", "DEM"), ("U.S. House", "1", "REP"),
+            ("Court of Appeals Position 1", "1", ""),
+            ("Court of Appeals Position 1", "1", ""),
+            ("Court of Appeals Position 2", "1", ""),
+            ("Chancery Court Place 1", "1", ""),
+            ("Chancery Court Place 2", "1", ""),
+            ("Chancery Court Place 3", "1", ""),
+            ("Chancery Court Place 4", "1", ""),
+            ("Circuit Court Place 1", "1", ""),
+            ("Circuit Court Place 2", "1", ""),
+            ("Circuit Court Place 3", "1", ""),
+            ("Circuit Court Place 4", "1", "")])
+
+    def test_senate_roster_matches_union_and_warren_csvs(self):
+        import csv as _csv
+        roster = self.senate_roster_of("20261103__ms__general__union__precinct.csv")
+        self.assertEqual(roster, self.senate_roster_of(
+            "20261103__ms__general__warren__precinct.csv"))
+        mine = {(r["candidate"], r["party"]) for r in self.pd["candidate_rows"]
+                if r["office"] == "U.S. Senate"}
+        self.assertEqual(mine, roster)
+
+    def senate_roster_of(self, name):
+        import csv as _csv
+        path = os.path.join(REPO, "2026/counties", name)
+        with open(path) as fh:
+            rows = list(_csv.DictReader(fh))
+        return {(r["candidate"], r["party"]) for r in rows
+                if r["office"] == "U.S. Senate"}
+
+    def test_all_skipped_pages_with_no_operator_entries_still_raises(self):
+        # the guard's other half, on the real PDF: the same page set with
+        # nothing to supply it stays a hard error
+        import shutil
+        import tempfile
+        with open(self.MANIFEST) as fh:
+            manifest = json.load(fh)
+        manifest.pop("operator_rows", None)
+        tmp = tempfile.mkdtemp()
+        self.addCleanup(lambda: shutil.rmtree(tmp, True))
+        path = os.path.join(tmp, "lee_no_operator.json")
+        with open(path, "w") as fh:
+            json.dump(manifest, fh)
+        with self.assertRaises(ValueError) as caught:
+            ex.parse_county_pdf(self.LEE, "Lee", manifest_path=path)
+        self.assertIn("no table pages found", str(caught.exception))
 
 
 class CliSummaryTests(unittest.TestCase):
