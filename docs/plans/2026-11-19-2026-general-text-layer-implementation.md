@@ -1472,3 +1472,20 @@ recorded so a future reader of this plan is not misled by its sketch:
    building the name-by-center map (single canonicalization point); the
    structure gate gains an assert that no normalized name is empty and a
    collision check that no two distinct manifest labels normalize equal.
+
+## Task 3 re-review carries (2026-11-19, into Task 8's fix window)
+
+1. **R1 — seat-vs-district equality guard drops the seat on fuzzy pages:**
+   ("Court Of Appeals 02-Dlstrlct 2 Posltlon 2", fuzzy=True) → seat None
+   because `digits[-1] != digits[1]` treats position 2 == district 2 as
+   ambiguous. Cleaner rule for the fixed label family (place, district,
+   optional position): `seat = int(digits[2]) if len(digits) >= 3 else None`
+   — drop the equality guard in both the Court and Chancery fuzzy branches;
+   pin with tests ("...02-Dlstrlct 2 Posltlon 2" → ("Court of Appeals",
+   "2", 2); Chancery 2/2/2 → ("Chancery Court", "2", 2)).
+2. **M2 — `is_noise` tolerant anchors cover only 6 of 16 NOISE_PREFIXES:**
+   mangled "We, the undersigned" / "In testimony whereof" / "The County
+   Election Commission" lines can survive on Jasper/Lee (mostly mitigated by
+   the geometry exclusion of the certification region). Fold the
+   `{p[:10] for p in NOISE_PREFIXES}` anchor extension into Task 8, plus a
+   plan-record note that this is a known limitation until then.
