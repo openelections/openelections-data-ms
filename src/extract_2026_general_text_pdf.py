@@ -225,3 +225,122 @@ def total_col(headers):
         if best is None or ratio > best[0] or (ratio == best[0] and center < best[1]):
             best = (ratio, center)
     return None if best is None else best[1]
+
+
+FUZZY_RATIO = 0.72
+
+
+def _fuzzy_eq(a, b, ratio):
+    return difflib.SequenceMatcher(None, a.upper(), b.upper()).ratio() >= ratio
+
+
+def parse_office(label, fuzzy=False):
+    """Office header label -> (office, district, seat) or None.
+
+    `seat` is the printed position/place qualifier when the ballot carries
+    one (court-of-appeals positions, chancery places); None otherwise.
+    Fuzzy tolerance is for the OCR-derived text layers (Jasper/Lee), whose
+    confusions look like "US House 0f Rep 02- Znd Congresslonal Dlstrlct".
+    """
+    label = re.sub(r"\s+", " ", label).strip()
+    if (_fuzzy_eq(label, "United States-Senate", 0.8 if fuzzy else 1.0)
+            or label == "United States - Senate"):
+        return "U.S. Senate", "", None
+    # The printed label says "Of" (letter O; Union p2) but the OCR-derived
+    # layers render that word both ways: "of"/"Of" or "0f".
+    m = re.search(r"US House [O0][fF] Rep 0*(\d+)", label)
+    if not m and fuzzy and _fuzzy_eq(label, "US HOUSE OF REP", 0.7):
+        digits = re.findall(r"\b0*(\d)\b", label)
+        if digits:
+            return "U.S. House", str(int(digits[0])), None
+    if m:
+        return "U.S. House", str(int(m.group(1))), None
+    m = re.search(r"Court [O0][fF] Appeals 0*(\d+)-District 0*(\d+)"
+                  r"(?:\s*Position\s*0*(\d+))?", label)
+    if not m and fuzzy and _fuzzy_eq(label, "COURT OF APPEALS", 0.7):
+        digits = re.findall(r"\b(\d+)", label)
+        if len(digits) >= 2:
+            return ("Court of Appeals", str(int(digits[0])),
+                    int(digits[-1]) if digits[-1] != digits[0] else None)
+    if m:
+        d = str(int(m.group(2)))
+        return "Court of Appeals", d, int(m.group(3)) if m.group(3) else None
+    m = re.search(r"Chancery Court 0*(\d+)-Chancery District 0*(\d+)"
+                  r"(?:\s*Place\s*0*(\d+))?", label)
+    if m:
+        d = str(int(m.group(2)))
+        return "Chancery Court", d, int(m.group(3)) if m.group(3) else None
+    m = re.search(r"[S5]t[aeirl]*[te] Senate 0*(\d+)", label)
+    if m:
+        return "State Senate", str(int(m.group(1))), None
+    m = re.search(r"[S5]t[aeirl]*[te] House 0*(\d+)", label)
+    if m:
+        return "State House", str(int(m.group(1))), None
+    return None
+
+
+def party_of(text, fuzzy=False):
+    """Party code for a standalone party token, or None if not a party word.
+
+    The tolerant path is ALWAYS active (not gated on `fuzzy`): party tokens
+    on the OCR-derived text layers are mangled the same way labels are, and
+    a false positive here costs only a wrong party code caught later by the
+    roster gate, while a missed party word would silently blank the column.
+    """
+    token = re.sub(r"[^A-Za-z]", "", text).strip()
+    if not token:
+        return None
+    known = {
+        "Democrat": "DEM", "Democratic": "DEM", "Democra": "DEM",
+        "Republican": "REP", "Republlcan": "REP",
+        "Libertarian": "LIB", "Llbertarlan": "LIB",
+        "Constitution": "CON", "Constitutlon": "CON",
+        "Independent": "IND", "Independen": "IND", "Independlent": "IND",
+        "Nonpartisan": "", "Nonpartlsan": "",
+    }
+    if token in known:
+        return known[token]
+    for word, code in known.items():
+        if difflib.SequenceMatcher(None, token.upper(), word.upper()).ratio() >= 0.75:
+            return code
+    return None
+
+
+NOISE_PREFIXES = (
+    "page :", "page:", "statewide election", "votes cast", "official recapitulation",
+    "the county election commission", "we, the undersigned", "in testimony whereof",
+    "district 1 - election", "district 2 - election", "district 3 - election",
+    "district 4 - election", "district 5 - election", "county of ", "ms 39201",
+)
+
+
+def is_noise(text, fuzzy=False):
+    """True for certification-blurb lines and page furniture, False for
+    candidate/office labels. Tolerant matching is always on (same rationale
+    as party_of) but anchors on the line's leading few characters only, so a
+    candidate named "Pages ..." does not match."""
+    t = re.sub(r"\s+", " ", text).strip().lower()
+    if not t:
+        return True
+    if any(t.startswith(p) for p in NOISE_PREFIXES):
+        return True
+    leading = t[:10]
+    for p in ("page", "statewide", "official", "votes cast", "recapitulation",
+              "election commission"):
+        if difflib.SequenceMatcher(None, leading, p[:10].ljust(10)).ratio() >= 0.75:
+            return True
+    return False
+
+
+def precinct_norm(name):
+    """OpenElections precinct-name conventions: no 'Precinct' suffix, no
+    leading zeros on pure numbered precincts, no surrounding quotes or stray
+    trailing commas; internal content (including commas) is preserved."""
+    name = (name or "").strip().strip('"').strip()
+    name = re.sub(r",\s*$", "", name)
+    name = re.sub(r"\s+", " ", name)
+    name = re.sub(r"\s+precinct\s*$", "", name, flags=re.IGNORECASE)
+    m = re.match(r"^0*(\d+)$", name)
+    if m:
+        return m.group(1)
+    return name

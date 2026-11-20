@@ -198,5 +198,55 @@ class VerticalStackTests(unittest.TestCase):
         self.assertEqual(ex.total_col({700.0: "TOTAL", 246.0: "TOTAL"}), 246.0)
 
 
+class LabelTests(unittest.TestCase):
+    def test_office_parsing(self):
+        cases = [
+            ("United States-Senate", ("U.S. Senate", "", None)),
+            ("US House Of Rep 01-1st Congressional District", ("U.S. House", "1", None)),
+            ("Court Of Appeals 01-District 1 Position 1",
+             ("Court of Appeals", "1", 1)),
+            ("Court Of Appeals 01-District 1 Position 2",
+             ("Court of Appeals", "1", 2)),
+            ("Chancery Court 1-Chancery District 1 Place 1",
+             ("Chancery Court", "1", 1)),
+        ]
+        for label, expected in cases:
+            self.assertEqual(ex.parse_office(label), expected, label)
+
+    def test_office_fuzzy_on_noisy_text(self):
+        self.assertEqual(ex.parse_office("US House 0f Rep 02- Znd Congresslonal Dlstrlct",
+                                         fuzzy=True), ("U.S. House", "2", None))
+        self.assertIsNone(ex.parse_office("Statew1de Electlon Management System"))
+
+    def test_party_parsing(self):
+        self.assertEqual(ex.party_of("Democrat"), "DEM")
+        self.assertEqual(ex.party_of("Republican"), "REP")
+        self.assertEqual(ex.party_of("Libertarian"), "LIB")
+        self.assertEqual(ex.party_of("Independen"), "IND")
+        self.assertEqual(ex.party_of("Independlent"), "IND")
+        self.assertEqual(ex.party_of("Nonpartisan"), "")
+        self.assertIsNone(ex.party_of("Chunky"))
+
+    def test_noise_lines(self):
+        noise = [
+            "Page : 2", "Statewide Election Management System",
+            "Votes cast in the County of Union, Mississippi on",
+            "Official Recapitulation 2026 Federal General Election",
+            "District 3 - Election Commissioner",
+        ]
+        for line in noise:
+            self.assertTrue(ex.is_noise(line), line)
+        self.assertFalse(ex.is_noise("Johnny Baucom Libertarian"))
+        self.assertFalse(ex.is_noise("Pages Worrell"))
+
+    def test_precinct_normalization(self):
+        cases = [("01", "1"), ("Chunky", "Chunky"),
+                 ("Dist. 1, Bellemont Precinct", "Dist. 1, Bellemont"),
+                 ('"Airport"', "Airport"), ("Noxubee  12", "Noxubee 12"),
+                 ("Bellemont,", "Bellemont")]
+        for name, expected in cases:
+            self.assertEqual(ex.precinct_norm(name), expected, name)
+
+
 if __name__ == "__main__":
     unittest.main()
