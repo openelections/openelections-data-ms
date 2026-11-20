@@ -559,18 +559,76 @@ def _is_wrap_token(token):
     return False
 
 
+ANCHOR_DATA_LINES = 3
+
+
+def multi_line_anchor_digits(lines, table_top, looks_like_cell,
+                             is_header_line=None, max_lines=ANCHOR_DATA_LINES):
+    """Clean digit tokens of up to the first `max_lines` data lines.
+
+    `lines` are lines_from_words' dicts; a data line is one at or below
+    `table_top` (the line find_table_top fired on, or one of the y-jitter
+    follow-on lines the window lets in) that carries at least one token the
+    caller's predicate accepts (looks_numeric over clean digit tokens -- the
+    same shape test the anchor window uses) and is not a race-header line.
+
+    `is_header_line` (called with the line's text) excludes office-label
+    lines: their printed qualifier digits ("Place 3", "Position 1") sit just
+    right of the label band and would widen the span over the Position/Place
+    phantom clusters (Union p4 reprints its Chancery header mid-table:
+    'Chancery Court 1-Chancery District 1 Place 3'; the caller classifies
+    with parse_office + is_unparsed_header + is_noise). Lines without a
+    cell-shaped token are skipped too, so a jitter pair line whose only
+    words are label fragments (Jasper p2's 'Scott Colom 71.') neither
+    widens the span nor consumes a slot. The list is concatenated:
+    grid_centers computes its span as min/max x0 over every token, i.e. the
+    union of the lines' spans.
+
+    Why: extract_table_page anchors the grid's x span on the first data
+    line's own cells, but an OCR text layer can misread or drop cells on
+    that one line -- Jasper p2's carries only 3 clean digits (x 464..745),
+    which dropped the table's five left clusters (c285..c423). The next data
+    lines carry the same columns' cells (x 281.5..745.5), so the union binds
+    the whole grid while staying clear of the x~246 '1'-debris phantom: no
+    early data line reaches that far left. The cap keeps the anchor a span
+    measurement over the table's opening rows -- never over arbitrary
+    body/fragment lines further down.
+    """
+    out = []
+    lines_collected = 0
+    for ln in lines:
+        if (ln["top"] < table_top
+                or (is_header_line is not None and is_header_line(ln["text"]))):
+            continue
+        tokens = [x for x in ln["words"] if looks_like_cell(x)]
+        if not tokens:
+            continue
+        out.extend(tokens)
+        lines_collected += 1
+        if lines_collected >= max_lines:
+            break
+    return out
+
+
 def grid_centers(digits, anchor_digits, min_members=MIN_CLUSTER_MEMBERS,
                  filler_words=()):
     """x centers of the crosstab columns among `digits`' x clusters.
 
-    The table's first data line carries one cell in every column, so its own
-    numeric tokens (`anchor_digits`) bound the grid's x span. A cluster is a
+    Every data line carries one cell in every column, so the numeric tokens
+    of the table's first data lines (`anchor_digits`) bound the grid's x
+    span. extract_table_page widens that reference to the clean digit tokens
+    of up to the first THREE data lines (multi_line_anchor_digits): their
+    union span still drops every cluster that no early data line touches,
+    while columns whose first-line cell the layer misread keep their span
+    evidence (Jasper p2's first data line carries only 3 clean OCR digits,
+    x 464..745; lines 2-3 carry the left cells, x 281..745). A cluster is a
     real column when -- after `filler_words` attach -- it has >= min_members
     members AND its x range overlaps that span. Office-header qualifier
     digits (Position/Place values, which print just right of the label band,
     x ~195-250 on Union p2) form two phantom ~45pt-pitch clusters left of the
-    first column that overlap nothing on the first data line, so they drop
-    without a special case.
+    first column that overlap nothing on the first data lines, so they drop
+    without a special case -- Jasper p2's x~246 '1'-debris phantom drops the
+    same way (no early data line reaches x <= 246).
 
     `filler_words` are the recap's printed X cells: they join the NEAREST
     numeric cluster within COL_TOL without moving its center (an X glyph
@@ -584,10 +642,9 @@ def grid_centers(digits, anchor_digits, min_members=MIN_CLUSTER_MEMBERS,
 
     The anchor-span rule is a FILTER on the clustered digits, not a lossless
     detector: `digits` only reaches back to table_top - TABLE_TOP_Y_WINDOW,
-    so a column whose cells sit above that floor is unseen (Jasper p2's
-    first data line starts at x=464 and its left clusters -- 5-8 members --
-    drop). Starving a page of its real columns fails loud downstream in
-    Task 5's count gate (manifest entries == detected columns per page)."""
+    so a column whose cells sit above that floor is unseen. Starving a page
+    of its real columns fails loud downstream in Task 5's count gate
+    (manifest entries == detected columns per page)."""
     if not digits or not anchor_digits:
         return []
     anchor_lo = min(x["x0"] for x in anchor_digits)
@@ -711,6 +768,26 @@ def extract_table_page(page, fuzzy=False, min_columns=3, token_repairs=None):
     # keeps cells that y-jitter split onto a follow-on line inside the anchor.
     anchor_digits = [x for x in anchor_words
                      if x["bottom"] - x["top"] >= min_height]
+    # Widened to the clean digit tokens of up to the first THREE data lines
+    # (see multi_line_anchor_digits / grid_centers): a text layer that reads
+    # only part of that one line's cells (Jasper p2: 3 clean digits,
+    # x 464..745) must not starve the grid of the columns its neighbors'
+    # cells prove (x 281.5..745.5). Race-header lines are excluded up front:
+    # their qualifier digits are exactly the Position/Place phantom geometry
+    # (Union p4's mid-table Chancery header reprint).
+    def is_header_line(text):
+        return (parse_office(text, fuzzy) is not None
+                or is_unparsed_header(text)
+                or is_noise(text, fuzzy))
+
+    anchor_digits.extend(
+        d for d in multi_line_anchor_digits(
+            lines, table_top,
+            looks_like_cell=lambda wd: (looks_numeric(prepared_text(wd), fuzzy)
+                                        and wd["text"].strip()
+                                        not in X_CELL_WORDS),
+            is_header_line=is_header_line)
+        if d["bottom"] - d["top"] >= min_height)
     centers = grid_centers(digits, anchor_digits, filler_words=x_cells)
     if not centers:
         return None  # numeric grid lost; caller treats the page as unused
@@ -1163,6 +1240,40 @@ def load_manifest(path):
     if not isinstance(total_label, str) or not total_label.strip():
         problems.append({"kind": "manifest_shape", "key": "total_label",
                          "problem": "total_label must be a non-empty string"})
+    if MANIFEST_MIN_COLUMNS_KEY in manifest:
+        bad = None
+        overrides = manifest[MANIFEST_MIN_COLUMNS_KEY]
+        if not isinstance(overrides, dict) or isinstance(overrides, list):
+            bad = ("must be a dict of page -> floor (int >= "
+                   f"{MIN_TABLE_TOP_FLOOR}), got {type(overrides).__name__}")
+        else:
+            for key, value in overrides.items():
+                try:
+                    page = int(str(key))
+                except ValueError:
+                    bad = f"page key {key!r} is not a page number"
+                    break
+                if isinstance(value, bool) or not isinstance(value, int):
+                    bad = (f"page {page}'s floor must be an int >= "
+                           f"{MIN_TABLE_TOP_FLOOR}, got {value!r}")
+                    break
+                if value < MIN_TABLE_TOP_FLOOR:
+                    bad = (f"page {page}'s floor must be an int >= "
+                           f"{MIN_TABLE_TOP_FLOOR}, got {value!r}")
+                    break
+        if bad:
+            problems.append({"kind": "manifest_shape",
+                             "key": MANIFEST_MIN_COLUMNS_KEY, "problem": bad})
+        elif not pages_shape_bad:
+            missing = undeclared_pages(
+                int(str(k)) for k in overrides if str(k).strip())
+            if missing:
+                problems.append({
+                    "kind": "manifest_shape",
+                    "key": MANIFEST_MIN_COLUMNS_KEY,
+                    "problem": "page "
+                               + ", ".join(str(m) for m in missing)
+                               + " not declared under pages"})
     return manifest, problems
 
 
@@ -1200,6 +1311,59 @@ def narrow_retry_numbers(manifest):
         if n not in local_only:
             out.add(n)
     return out
+
+
+MANIFEST_MIN_COLUMNS_KEY = "page_min_columns"
+# find_table_top's floors below this would read prose as the table top; the
+# one-retry-at-2 floor is the limit for pages whose narrow tail (Warren p4/p7)
+# needs it.
+MIN_TABLE_TOP_FLOOR = 2
+
+
+def page_min_columns(manifest, number):
+    """The manifest's declared find_table_top floor for one page
+    (manifest["page_min_columns"]["<number>"] as an int >= 2), or None.
+
+    A absent/shape-bad declaration degrades to None -- the shape problem is
+    load_manifest's record, and the page keeps the default extraction
+    behavior (gates hold the county at write time)."""
+    overrides = manifest.get(MANIFEST_MIN_COLUMNS_KEY) \
+        if isinstance(manifest, dict) else None
+    if not isinstance(overrides, dict):
+        return None
+    value = overrides.get(str(number))
+    if isinstance(value, bool) or not isinstance(value, int):
+        return None
+    return value
+
+
+def extraction_floors(manifest, number):
+    """The min_columns attempts parse_county_pdf walks for one page, in try
+    order: [(min_columns, authoritative), ...].
+
+    [(3, False)] is the default: extract at find_table_top's usual floor,
+    and -- for a manifest-declared TABLE page -- fall back to one
+    non-authoritative retry at 2 on failure (narrow_retry_numbers), the
+    pre-page_min_columns behavior kept verbatim for pages without the key.
+
+    A page whose manifest declares page_min_columns (an int >= 2, bounded to
+    declared pages) gets a SECOND attempt at that floor after the default
+    one, and the declared attempt is authoritative: its result REPLACES the
+    default pass's whenever it yields a table. The declared floor is the
+    operator's render-checked statement about where this page's table top
+    sits (Jasper p3's min3 top lands on Guest's row, losing the four rows
+    above it; min2 reaches the page's true first data line), so the wider
+    view wins. A declared floor of 3 equals the default pass and adds
+    nothing -- it is an explicit floor pin, so such pages give up the
+    fallback retry-at-2 too; a floor below 2 is a load-time shape problem
+    that degrades to the default behavior."""
+    floors = [(3, False)]
+    declared = page_min_columns(manifest, number)
+    if declared is not None and declared != 3:
+        floors.append((declared, True))
+    elif declared is None and number in narrow_retry_numbers(manifest):
+        floors.append((MIN_TABLE_TOP_FLOOR, False))
+    return floors
 
 
 def normalize_page_labels(labels, total_label):
@@ -1614,21 +1778,35 @@ def parse_county_pdf(pdf_path, county, manifest_path, fuzzy=False):
       drops gets ONE retry at min_columns=2 (narrow_retry_numbers): Warren
       p4/p7 print only "Porters Chapel" + TOTAL, so a data line carries two
       numeric tokens; the retry never touches undeclared or local-only
-      pages."""
+      pages.
+
+    A third binding, page_min_columns (extraction_floors), lets the operator
+    declare per page that a second attempt at a different floor replaces the
+    default pass: Jasper p3's min3 top lands on Guest's row and loses the
+    four rows above it, so the manifest declares page 3's floor 2 and the
+    min2 pass -- whose top is the page's true first data line -- wins."""
     from natural_pdf import PDF  # lazy
     manifest, mproblems = load_manifest(manifest_path)
     local_only = manifest_numbers(manifest, "local_only_pages")
-    may_narrow_retry = narrow_retry_numbers(manifest)
     pdf = PDF(str(pdf_path))
     pages = {}
     for i, page in enumerate(pdf.pages, start=1):
         if i in local_only:
             continue  # manifest-declared out of scope; recorded at assembly
         page_repairs = page_token_repairs(manifest, i)
-        tp = extract_table_page(page, fuzzy, token_repairs=page_repairs)
-        if tp is None and i in may_narrow_retry:
-            tp = extract_table_page(page, fuzzy, min_columns=2,
-                                    token_repairs=page_repairs)
+        tp = None
+        for min_columns, authoritative in extraction_floors(manifest, i):
+            if tp is not None and not authoritative:
+                break  # narrower non-authoritative floors only fill failure
+            attempt = extract_table_page(page, fuzzy, min_columns=min_columns,
+                                         token_repairs=page_repairs)
+            if attempt is None:
+                continue
+            if authoritative:
+                tp = attempt  # the operator-declared floor view wins
+                break
+            if tp is None:
+                tp = attempt
         if tp is not None:
             pages[str(i)] = tp
     if not pages:

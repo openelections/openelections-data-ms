@@ -581,6 +581,213 @@ class GridCentersTests(unittest.TestCase):
         self.assertEqual(ex.grid_centers([], [w("5", 246.0, 200.0)]), [])
         self.assertEqual(ex.grid_centers([w("5", 246.0, 200.0)], []), [])
 
+    def test_widened_anchor_binds_grid_span_over_three_data_lines(self):
+        # Jasper p2 shape: the FIRST data line carries only 3 clean OCR digits
+        # (x 464..745), so the one-line anchor dropped the five left clusters
+        # (x 281..429). Widening the anchor reference to the first THREE data
+        # lines' clean digit spans -- their union bounds the grid -- recovers
+        # them; the x~246 '1'-debris cluster (3 members around fragment lines,
+        # y 353/490/523) still drops because no data line reaches that far
+        # left (span lo stays at 281.5).
+        line1 = [w("8", 464.0, 200.3), w("101", 601.2, 201.1),
+                 w("602", 735.8, 199.1)]
+        line2 = [w("152", 510.5, 221.1), w("217", 735.5, 220.8)]
+        line3 = [w("156", 281.5, 222.2), w("1281", 464.8, 222.3)]
+        body = line1 + line2 + line3 + [
+            # five left-column clusters, 3+ members each
+            w("3", 291.2, 243.9), w("155", 286.2, 289.6), w("1", 288.0, 331.0),
+            w("39", 327.2, 288.8), w("11", 332.6, 243.5), w("251", 331.1, 287.1),
+            w("281", 373.0, 288.5), w("1", 378.7, 244.7), w("220", 380.9, 309.6),
+            w("22", 418.7, 288.1), w("7", 428.8, 242.8), w("127", 419.4, 309.3),
+            w("1", 470.2, 244.8), w("139", 464.8, 309.3), w("1", 474.5, 251.9),
+            w("1", 511.0, 244.5), w("1", 508.5, 262.0), w("11", 513.0, 242.4),
+            w("233", 737.0, 242.5), w("9", 739.0, 242.1),
+            # the junk '1'-debris cluster, x ~246 (three members)
+            w("1", 245.9, 353.7), w("1", 246.0, 490.1), w("1", 246.2, 523.4),
+        ]
+        centers = ex.grid_centers(body, line1 + line2 + line3)
+        self.assertEqual(len(centers), 7)
+        self.assertGreater(min(centers), 280.0)
+        self.assertFalse(any(abs(c - 246.0) < 10.0 for c in centers))
+        # contrast: the OLD one-line anchor loses the left five
+        self.assertEqual(len(ex.grid_centers(body, line1)), 3)
+
+
+class MultiLineAnchorTests(unittest.TestCase):
+    """Fix 1: multi_line_anchor_digits collects the clean digit tokens of up
+    to the first THREE data lines (y >= table_top) -- not just the table's
+    first line -- so grid_centers' span check measures the widened union."""
+
+    LINES_WORDS = [
+        ("United States-Senate", 150.0, 176.8),
+        ("8", 464.0, 200.3), ("101", 601.2, 202.3), ("602", 735.8, 200.4),
+        ("Scott Colom", 42.8, 208.4),                    # no clean digits
+        ("156", 281.5, 220.3), ("1281", 464.8, 220.4),   # 2nd collecting line
+        ("230", 326.9, 240.3), ("152", 510.5, 240.3),    # 3rd collecting line
+        ("1", 245.9, 353.7),                             # beyond the cap
+        ("1", 246.0, 490.1),
+    ]
+
+    def lines(self):
+        return ex.lines_from_words([w(*spec) for spec in self.LINES_WORDS])
+
+    def test_collects_first_three_lines_with_clean_digits(self):
+        digits = ex.multi_line_anchor_digits(
+            self.lines(), 199.14299999999997,
+            lambda wd: ex.looks_numeric(wd["text"]))
+        self.assertEqual([(d["text"], round(d["x0"], 1)) for d in digits],
+                         [("8", 464.0), ("101", 601.2), ("602", 735.8),
+                          ("156", 281.5), ("1281", 464.8),
+                          ("230", 326.9), ("152", 510.5)])
+        # the y-jitter pair line without clean digits and the capped-out
+        # later fragment '1's never enter the anchor
+        self.assertEqual(len(digits), 7)
+
+    def test_no_data_line_with_digits_yields_nothing(self):
+        lines = ex.lines_from_words([w("cover page", 40.0, 30.0)])
+        self.assertEqual(ex.multi_line_anchor_digits(
+            lines, 200.0, lambda wd: ex.looks_numeric(wd["text"])), [])
+
+    def test_office_header_lines_never_widen_the_anchor(self):
+        # Union p4 reprints its Chancery header mid-table; its qualifier
+        # digits ('1' at 208.3, '3' at 242.6) are the Position/Place phantom
+        # geometry and must not widen the span over them.
+        words = [
+            w("171", 279.6, 185.8), w("158", 325.7, 185.8),
+            w("Chancery Court", 45.6, 206.6), w("1-Chancery", 118.3, 206.6),
+            w("District", 172.1, 206.6), w("1", 208.3, 206.6),
+            w("Place", 216.2, 206.6), w("3", 242.6, 206.6),
+            w("169", 279.6, 231.6), w("156", 325.7, 231.6),
+        ]
+        lines = ex.lines_from_words(words)
+        digits = ex.multi_line_anchor_digits(
+            lines, 185.52839999999998,
+            lambda wd: ex.looks_numeric(wd["text"]),
+            is_header_line=lambda text: (
+                ex.parse_office(text) is not None
+                or ex.is_unparsed_header(text)
+                or ex.is_noise(text)))
+        xs = sorted(d["x0"] for d in digits)
+        self.assertEqual(xs, [279.6, 279.6, 325.7, 325.7])
+
+    def test_unknown_header_lines_never_widen_the_anchor(self):
+        # Warren's unparseable local-office labels route through
+        # is_unparsed_header; 'District 1' carries a bare qualifier numeral.
+        words = [
+            w("5", 292.3, 205.0), w("7", 333.4, 205.0),
+            w("Election Commission", 45.0, 240.0),
+            w("I-Election Commissioner", 130.0, 240.0),
+            w("District 1", 60.0, 260.0),
+            w("9", 292.0, 292.0),
+        ]
+        lines = ex.lines_from_words(words)
+        digits = ex.multi_line_anchor_digits(
+            lines, 205.0, lambda wd: ex.looks_numeric(wd["text"]),
+            is_header_line=lambda text: (
+                ex.parse_office(text) is not None
+                or ex.is_unparsed_header(text)
+                or ex.is_noise(text)))
+        self.assertEqual([(d["text"], round(d["x0"], 1)) for d in digits],
+                         [("5", 292.3), ("7", 333.4), ("9", 292.0)])
+
+    def test_stops_before_the_cap_when_lines_run_out(self):
+        words = [w("Row", 42.0, 210.0), w("5", 292.3, 210.0)]
+        digits = ex.multi_line_anchor_digits(ex.lines_from_words(words), 210.0,
+                                             lambda wd: ex.looks_numeric(wd["text"]))
+        self.assertEqual([d["text"] for d in digits], ["5"])
+
+
+class PageMinColumnsTests(unittest.TestCase):
+    """Fix 2: the manifest key page_min_columns declares, per table page, the
+    floor parse_county_pdf's table-top retry may drop to (Jasper p3: min2, so
+    the top reaches the first candidate row the min3 default loses) -- bounded
+    to declared pages, min value 2, and pages without the key keep the
+    previous behavior exactly."""
+
+    BASE = {"county": "Synth", "source": "x.pdf", "total_label": "TOTAL",
+            "pages": {"3": ["Rose Hill", "Stringer", "TOTAL"]}}
+
+    def setUp(self):
+        import tempfile
+        tmp = tempfile.TemporaryDirectory()
+        self.addCleanup(tmp.cleanup)
+        self._tmpdir = tmp.name
+
+    def manifest(self, extra):
+        """Write a BASE+extra manifest to disk; load_manifest validates a PATH."""
+        m = dict(self.BASE)
+        m.update(extra)
+        path = os.path.join(self._tmpdir, "m.json")
+        with open(path, "w") as fh:
+            json.dump(m, fh)
+        return path
+
+    def mdict(self, extra):
+        m = dict(self.BASE)
+        m.update(extra)
+        return m
+
+    def test_reader_and_default(self):
+        self.assertEqual(ex.page_min_columns(self.BASE, 3), None)
+        self.assertEqual(ex.page_min_columns(
+            self.BASE, None), None)
+        self.assertEqual(ex.page_min_columns(
+            {"pages": self.BASE["pages"], "page_min_columns": {"3": 2}}, 3), 2)
+
+    def test_load_requires_int_at_least_two(self):
+        _, problems = ex.load_manifest(self.manifest(
+            {"page_min_columns": {"3": 1}}))
+        self.assertTrue(any(p["kind"] == "manifest_shape"
+                            and p["key"] == "page_min_columns"
+                            and ">= 2" in p["problem"] for p in problems),
+                        problems)
+        _, problems = ex.load_manifest(self.manifest(
+            {"page_min_columns": {"3": "x"}}))
+        self.assertTrue(any(p["kind"] == "manifest_shape"
+                            and p["key"] == "page_min_columns" for p in problems),
+                        problems)
+
+    def test_load_requires_declared_page(self):
+        _, problems = ex.load_manifest(self.manifest(
+            {"page_min_columns": {"7": 2}}))
+        self.assertEqual([p for p in problems if p["kind"] == "manifest_shape"],
+                         [{"kind": "manifest_shape",
+                           "key": "page_min_columns",
+                           "problem": "page 7 not declared under pages"}])
+        _, problems = ex.load_manifest(self.manifest(
+            {"page_min_columns": {"3": 2}}))
+        self.assertEqual([p for p in problems if p["kind"] == "manifest_shape"], [])
+
+    def test_extraction_floors_keeps_default_behavior(self):
+        # a declared page without page_min_columns: floor 3, then the
+        # existing one narrow retry at 2 (non-authoritative) -- unchanged
+        self.assertEqual(ex.extraction_floors(self.BASE, 3),
+                         [(3, False), (2, False)])
+        # undeclared pages: the default floor only
+        undeclared = ex.extraction_floors({"pages": {"3": ["P1"]}}, 9)
+        self.assertEqual(undeclared, [(3, False)])
+
+    def test_extraction_floors_declared_low_is_authoritative(self):
+        # Jasper p3: the operator declares min2, so the declared pass runs
+        # after the default one and its result replaces it when it yields a
+        # table
+        self.assertEqual(
+            ex.extraction_floors(
+                self.mdict({"page_min_columns": {"3": 2}}), 3),
+            [(3, False), (2, True)])
+
+    def test_declared_high_floor_runs_instead_after_default(self):
+        self.assertEqual(
+            ex.extraction_floors(
+                self.mdict({"page_min_columns": {"3": 4}}), 3),
+            [(3, False), (4, True)])
+
+    def test_declared_floor_two_suppresses_duplicate_narrow_retry(self):
+        self.assertEqual(
+            ex.extraction_floors(
+                self.mdict({"page_min_columns": {"3": 2}}), 3),
+            [(3, False), (2, True)])
+
 
 @unittest.skipUnless(SOURCES_PRESENT, "sources checkout not present")
 class UnionPage2Tests(unittest.TestCase):
@@ -626,6 +833,80 @@ class UnionPage2Tests(unittest.TestCase):
                   and r["office"] == "Court of Appeals" and r["seat"] == 1]
         self.assertEqual([(r["candidate"], r["party"]) for r in court1],
                          [("Derek Dewayne Hopson Jr.", ""), ("John Weddle", "")])
+
+
+@unittest.skipUnless(SOURCES_PRESENT, "sources checkout not present")
+class JasperTextLayerTests(unittest.TestCase):
+    """Fix 1 + Fix 2 pins on the real OCR-noisy Jasper pages: the widened
+    three-data-line anchor recovers p2's five left columns (11 real centers,
+    the x~246 '1'-debris phantom still excluded), and the declared
+    page_min_columns floor 2 moves p3's table top from Guest's row (y=308)
+    up to the page's true first data line (Colom's row, y=200)."""
+
+    JASPER = os.path.join(SOURCES_DIR, "Jasper_County_2026_general.pdf")
+
+    @classmethod
+    def setUpClass(cls):
+        from natural_pdf import PDF
+        cls.pdf = PDF(cls.JASPER)
+
+    def test_p2_grid_recovers_the_eleven_real_columns(self):
+        tp = ex.extract_table_page(self.pdf.pages[1], fuzzy=False)
+        self.assertIsNotNone(tp)
+        self.assertEqual([round(c, 1) for c in tp["precinct_centers"]],
+                         [285.2, 328.3, 376.4, 423.0, 467.9, 511.8, 559.8,
+                          608.4, 652.8, 695.4, 738.2])
+        # the x~246 '1'-debris cluster (3 members around fragment lines) is
+        # not a column: none of the early data lines reaches x <= 246
+        self.assertFalse(any(abs(c - 246.0) < 10.0
+                             for c in tp["precinct_centers"]))
+        # and the office-header qualifier digits stay out: 11 columns, not 13
+        self.assertEqual(len(tp["precinct_centers"]), 11)
+
+    def test_p3_min_two_reaches_the_true_first_data_line(self):
+        default = ex.extract_table_page(self.pdf.pages[2], fuzzy=False)
+        self.assertEqual(round(default["table_top"], 1), 308.2)  # Guest's row
+        widened = ex.extract_table_page(self.pdf.pages[2], fuzzy=False,
+                                        min_columns=2)
+        self.assertIsNotNone(widened)
+        self.assertEqual(round(widened["table_top"], 3), 200.296)
+        self.assertEqual([round(c, 1) for c in widened["precinct_centers"]],
+                         [283.1, 331.6, 369.5])
+        # the recovered view reaches the rows the min3 top lost: Colom's
+        # row leads the stream
+        self.assertEqual(widened["rows"][0]["kind"], "office")
+        self.assertEqual(widened["rows"][1].get("candidate"), "Scott colom Demo")
+
+    def test_page_min_columns_floor_assembles_p3_fully(self):
+        # through parse_county_pdf: a temp manifest overlaying the committed
+        # draft with page_min_columns {"3": 2}; page 3's alignment then binds
+        # its three labels to three detected columns (no column_count miss)
+        import json as _json
+        import tempfile
+        with open(os.path.join(REPO, "2026/header-reads/"
+                              "20261103__ms__general__jasper__headers.json")
+                  ) as fh:
+            manifest = _json.load(fh)
+        manifest["page_min_columns"] = {"3": 2}
+        tmp = tempfile.TemporaryDirectory()
+        self.addCleanup(tmp.cleanup)
+        path = os.path.join(tmp.name, "overlay.json")
+        with open(path, "w") as fh:
+            _json.dump(manifest, fh)
+        pd = ex.parse_county_pdf(self.JASPER, "Jasper", manifest_path=path)
+        aligned = pd["alignments"].get("3") or {}
+        self.assertEqual(len(aligned.get("names_by_center") or {}), 3)
+        self.assertIn("TOTAL", set((aligned.get("names_by_center") or {}).values()))
+        p2 = pd["alignments"].get("2") or {}
+        self.assertEqual(len(p2.get("names_by_center") or {}), 11)
+        # the not-yet-finalized pages: p4's text layer yields no grid at all
+        # (page_missing), p5's a single junk cluster (column_count) -- both
+        # resolved by the operator-supply finalization, not by these fixes
+        count_problems = [p for p in pd["manifest_problems"]
+                          if p["kind"] == "column_count"]
+        self.assertEqual([p["page"] for p in count_problems], [5])
+        self.assertEqual([p["page"] for p in pd["manifest_problems"]
+                          if p["kind"] == "page_missing"], [4])
 
 
 class AssemblyTests(unittest.TestCase):
