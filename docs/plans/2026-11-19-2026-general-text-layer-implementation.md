@@ -615,6 +615,8 @@ Co-Authored-By: Claude <noreply@anthropic.com>"
 
 ### Task 4: Page extraction (labels band, numeric row assignment)
 
+> **Amendment A pointer:** header sourcing per Amendment A — `extract_table_page` no longer reads headers from geometry (no `vertical_headers` call; returns column centers only). The Task 4 sketch below carries the pre-amendment call shape and `assertTrue(all(precinct_names.values()))` assertion; implement the Amendment-A contract instead (centers + row stream + cells; header names arrive in Task 5 from the operator vision manifest).
+
 **Files:**
 - Modify: `src/extract_2026_general_text_pdf.py`
 - Test: `test/test_2026_general_text_parser.py`
@@ -1395,3 +1397,358 @@ Co-Authored-By: Claude <noreply@anthropic.com>"
 **Step 7: Report back**
 
 Summarize: counties converted, gate results, any county left unconverted + why, and the not-yet-officially-verified flag. Note the remaining 78 scanned counties are the next phase (PaddleOCR).
+
+---
+
+## Amendment A (2026-11-19): hybrid header sourcing (applies to Tasks 4-9)
+
+Real-file probing (Task 2 code review) invalidated the plan's core premise
+that rotated header stacks are deterministically readable. Verified findings:
+
+- Union: all chars `GlyphLessFont` (invisible Tesseract OCR layer); rotated
+  glyphs almost entirely absent (26 fragments for ~120 rendered glyphs); no
+  "TOTAL" string anywhere in the text layer.
+- Warren/Jasper/Lee: Helvetica text, but rotated header glyph runs extract as
+  broken garbage (no usable Unicode mapping) — e.g. Warren's right-column
+  strip reads `L.. QJ C. I\J ..`.
+- Reliable from the text layer: candidate/office row labels and the numeric
+  grid (Union p2: table top ~208, 14 column clusters at ~45pt pitch).
+
+User-approved replacement approach for header sourcing:
+
+1. The deterministic parser no longer reads headers from char geometry.
+   `extract_table_page` returns row streams + numeric cells keyed by column
+   center, plus each page's detected column centers; `vertical_headers` stays
+   only as a non-load-bearing utility (with `max_top` required to prevent
+   body-digit soup).
+2. **Operator vision read (new step):** for each county, render every table
+   page's header strip to a PNG (pdfplumber `page.crop(...).to_image()` or
+   pypdfium2 at ~300 DPI), read it as a vision model (the operator — Claude),
+   and write `2026/header-reads/20261103__ms__general__<county>__headers.json`:
+
+```json
+{"county": "Union", "source": "Union_County_2026_general.pdf",
+ "pages": {"2": [{"label": "Beaumont", "rough_x": 246}, ...]},
+ "total_label": "TOTAL", "read_by": "operator-vision", "date": "2026-11-19"}
+```
+
+   (labels in left-to-right order per page; `rough_x` from the image is
+   advisory only — alignment is by column count + nearest center). The file is
+   committed with the county's CSV. TOTAL is identified by the manifest label
+   (`total_label`), not `total_col`.
+3. `parse_county_pdf(pdf_path, county, manifest_path)` loads the manifest and
+   aligns page labels to detected centers (count gate: manifest entries ==
+   detected columns on every page; nearest-center assignment; fail loudly on
+   mismatch). Add `align_manifest_headers()` + tests to Task 5.
+4. All downstream gates unchanged: row sums vs the manifest-designated TOTAL
+   column; roster consistency across counties; structure gates.
+5. Task 6/7/8 execution order per county becomes: manifest vision read first,
+   then the CLI run gates against it. The notes report (Task 9) documents
+   this procedure and each manifest's provenance.
+6. **Task 9 sketch update (Task 6 CLI review, 2026-11-19):** the manifest is
+   now first-class everywhere — the Task 9 wrapper sketch above predates
+   Task 6's CLI. Its `ex.main([...])` call must add
+   `["--manifest", f"2026/header-reads/{DATE}__ms__general__{county.lower()}__headers.json"]`
+   (the flag is required), and the cross-county roster call must pass the
+   manifest per county, matching `parse_county_pdf(pdf_path, county,
+   manifest_path, fuzzy=False)`:
+
+   ```python
+   parsed = [ex.parse_county_pdf(str(sources / status[c]["pdf"]), c,
+                                 f"2026/header-reads/{DATE}__ms__general__"
+                                 f"{c.lower()}__headers.json",
+                                 fuzzy=c in ("Jasper", "Lee"))
+             for c, s in status.items() if s.get("state") == "PASSED"]
+   ```
+
+## Task 3 execution record (2026-11-19, disclosed deviations + decisions)
+
+Spec reviews are run per task; the following deviations were judged and
+recorded so a future reader of this plan is not misled by its sketch:
+
+1. **`[O0][fF]` instead of `0[fF]`** in the US-House and Court-of-Appeals
+   strict patterns — the spec's own non-fuzzy fixtures ("US House **Of**
+   Rep 01...", "Court **Of** Appeals 01...") cannot match a zero-only
+   pattern; letter-O is what the real PDFs print. Approved as necessary.
+2. **Noise fixture swap**: the spec's `"nn Prpclncts"` noise line is
+   unsatisfiable for any implementation of the spec's own anchor set; the
+   test pins `"District 3 - Election Commissioner"` instead (a real
+   mid-table furniture line).
+3. **The spec's generic fuzzy last-resort canon loop was dropped** as inert
+   (only its Senate canon could return a value, redundant with the 0.8
+   Senate branch).
+4. **Speculative State Senate/State House patterns were deleted** in the
+   fix commit — adjudicated unmatchable as written (`[S5]t[aeirl]*[te]`
+   cannot consume "State"), and zero legislative label lines exist in these
+   PDFs. If a real legislative label ever appears (Task 8+), fix against
+   observed text.
+5. **`precinct_norm` wiring decision (was I3 in review):** Task 5's header
+   alignment normalizes each manifest label with `precinct_norm` when
+   building the name-by-center map (single canonicalization point); the
+   structure gate gains an assert that no normalized name is empty and a
+   collision check that no two distinct manifest labels normalize equal.
+
+## Task 3 re-review carries (2026-11-19, into Task 8's fix window)
+
+1. **R1 — seat-vs-district equality guard drops the seat on fuzzy pages:**
+   ("Court Of Appeals 02-Dlstrlct 2 Posltlon 2", fuzzy=True) → seat None
+   because `digits[-1] != digits[1]` treats position 2 == district 2 as
+   ambiguous. Cleaner rule for the fixed label family (place, district,
+   optional position): `seat = int(digits[2]) if len(digits) >= 3 else None`
+   — drop the equality guard in both the Court and Chancery fuzzy branches;
+   pin with tests ("...02-Dlstrlct 2 Posltlon 2" → ("Court of Appeals",
+   "2", 2); Chancery 2/2/2 → ("Chancery Court", "2", 2)).
+2. **M2 — `is_noise` tolerant anchors cover only 6 of 16 NOISE_PREFIXES:**
+   mangled "We, the undersigned" / "In testimony whereof" / "The County
+   Election Commission" lines can survive on Jasper/Lee (mostly mitigated by
+   the geometry exclusion of the certification region). Fold the
+   `{p[:10] for p in NOISE_PREFIXES}` anchor extension into Task 8, plus a
+   plan-record note that this is a known limitation until then.
+
+## Task 4 execution record (2026-11-19) and Task 5 carries
+
+Verified real-geometry corrections (all five independently confirmed by the
+spec reviewer against Union's own pages):
+
+1. **Party tokens print inline** on the candidate's own line (right of the
+   name), not as separate sub-band lines — the parser strips and attaches
+   them to the same row; the synthetic standalone-party-line path is kept
+   for parity.
+2. **Office labels sit up to ~23.3pt above the detected table top** (Senate
+   header on Union p2) — classification above `table_top` is office-only.
+3. **Position/Place qualifiers create phantom column clusters** (Union p2:
+   x≈203.4/245.6 with 4 members each) — `grid_centers` keeps only clusters
+   overlapping the first data line's digit span; 11 real columns, not 14.
+4. **Wrap-continuation is gated on qualifier vocabulary** (every token must
+   be a qualifier word) because office regexes match by prefix and would
+   otherwise re-open the same office on candidate lines.
+5. **`LABEL_REPAIRS` = operator-supervised OCR-denoise map** applied to
+   candidate-label words only (Union's invisible layer misreads 'Coiom'
+   county-wide; rendered prints "Colom"). Growth discipline: entries are
+   added only from render-verified reads; the notes report documents the
+   final map. Mechanism judged acceptable under Amendment A's
+   operator-vision-is-truth principle.
+
+Fix-commit adjudications: `parse_office` gains the **Circuit Court** family
+(Union: `Circuit Court 3-Circuit District 03 Place N`) and Warren's
+**double-dash judicial family** (`Chancery Court 9-2-Chancery District
+9-2`); genuinely-unparseable headerish lines become `kind="unknown_header"`
+(no office attribution). `extract_table_page` returns a `conflicts` record
+for duplicate-cell overwrites (last-wins pinned) so Task 5's gates can
+escalate loudly.
+
+Task 5 carries (reviewer-verified on real pages):
+
+- **Office context must carry across pages** — Union p4/p5 begin with
+  candidates whose office header was printed on the prior page ('Michael
+  Malski' carries 11 attached cells with office=None). `parse_county_pdf`
+  must attach carried office context and must never drop such rows.
+- **Union p4/p5 look like a second printing of the same table**: fragment
+  rows ('LIstnCT', 'I David Rainey' with 3 captured cells) and
+  interleaved/doubled text with reversed digit tokens ('XI', '01',
+  '7581'). Task 5 must (a) group pages by column structure, (b) reconcile
+  groups against each other and the TOTAL column via the gates, (c) flag
+  conflicts rather than silently merging; the operator decides when groups
+  disagree.
+- **Fragment/garbage candidate rows** (unknown-header remnants, reversed
+  digits) must be excluded or loudly flagged by the structure/roster gates
+  before any CSV writes.
+
+## Task 4 re-review carries (2026-11-19, folded into Task 5's window)
+
+1. **N1 — Circuit fuzzy branch picks the wrong district run:** Jasper p2's
+   real label `'Circuit  Court  l3-Circuit Distrlct 13 Placo 1'` fuzzy-parses
+   as district "1" (digits[1]) while the no-place sibling keys "13".
+   Fix: district-first family → fuzzy branch uses `digits[0]` for the
+   district, place from the following run; pin with a test.
+2. **N2 — `unknown_header` leaves the previous office open:** Jasper p2/p3
+   judicial candidates inherit U.S. Senate in a second misattribution form,
+   and the stale continuation gate can rewrite a prior office's seat.
+   Fix: `current_office = None` in the unknown_header branch; cross-page
+   office-carry still applies (pending is established before the page and
+   unknown_header only clears in-page context). Pin with tests.
+3. Minor: pin the unknown_header-ahead-of-is_noise reordering (a standalone
+   party word after a dual-classified line must not attach) with a test;
+   note in the conflicts docstring that equal-value repeats are also logged.
+
+## Task 5 execution record (2026-11-19)
+
+Approved after three fix rounds. Final shape:
+
+- Assembly is manifest-driven: positional center↔label zip, `precinct_norm`
+  canonicalization with empty-name/collision gates, per-candidate TOTAL
+  capture keyed on the manifest's total-label column, cross-page merge by
+  (office, district, seat, name) preserving ballot order.
+- Office carry refreshed at every page boundary with an adjudicated
+  three-way boundary rule validated against the real pages (Union p5 keeps
+  its consumed carry; Warren's local-section openers never inherit federal
+  context). Dead total-marker block detection removed.
+- Fragment consumption bounded (cap 3, closed by new office rows, lone
+  tokens must be name-implausible garble to be consumed).
+- Manifest validation records key/shape/label-list/total_label problems;
+  bad `pages` shapes degrade to recorded problems, never crash.
+- Union end-to-end: 18 candidates × 20 cells, sums == printed totals, gates
+  all clean; the physically-clipped local school race routes to
+  `dropped_local_rows` (2 rows) and is excluded per the no-local-offices
+  convention.
+- Carries into Task 7: (a) the boundary residual — for repeat groups whose
+  members are not stream-aligned (Warren p3→p4), confirm repeat-group vs
+  continuation with the real pages; only a manifest-declared group can
+  disambiguate beyond in-page heuristics; (b) conflict records use two
+  spellings (`page` within-page, `pages` cross-page) — Task 9's report must
+  handle both; (c) `PLAUSIBLE_NAME_RE` is Title-Case-only by design.
+
+## Task 6 re-review carry (2026-11-19, into Task 8/9)
+
+- One-line docstring fix at src/extract_2026_general_text_pdf.py:1436: the
+  final-(label,district) uniqueness gate does NOT catch total seat loss
+  (both races of a two-place race losing seats collapse to one identity);
+  correct the overclaim. The natural automated catcher for total seat loss
+  is Task 9's cross-county roster gate comparing at (office, district)
+  family level; record the residual there.
+
+
+## Task 7 execution record (2026-11-19, Warren end-to-end)
+
+Warren produced 11 candidate rows x 23 precincts (253 row-per-result rows),
+every candidate's precinct cells summing exactly to the county's printed
+total. All work below is render-verified and pinned in
+`test/test_2026_general_text_parser.py` (126 tests, stdlib unittest).
+
+First run against the committed header manifest, after items 1-4, verbatim:
+
+    ! total_mismatches: {'office': 'U.S. Senate', 'candidate': 'Scott Colom', 'party': 'DEM', 'sum': 13815, 'printed_total': 8576}
+    ! total_mismatches: {'office': 'U.S. House', 'candidate': 'Ron Eller', 'party': 'REP', 'sum': 8902, 'printed_total': 6519}
+    ! total_mismatches: {'office': 'U.S. House', 'candidate': 'Bennie G. Thompson', 'party': 'DEM', 'sum': 7825, 'printed_total': 8309}
+    ! total_mismatches: {'office': 'Chancery Court', 'candidate': 'Penny B. Lawson', 'party': '', 'sum': 7301, 'printed_total': 7918}
+    ! structure: {'kind': 'missing_precinct_cells', 'candidate': 'Bennie G. Thompson', 'precincts': ['Calvary Old 27']}
+    ! structure: {'kind': 'missing_precinct_cells', 'candidate': 'Penny B. Lawson', 'precincts': ['Lee Rd Fire']}
+    ! conflicts: {'kind': 'duplicate_cell', 'page': 3, 'candidate': 'Ron Eller', 'precinct': 'American Legion', 'kept': 76, 'overwritten': 1}
+    Warren: 10 candidate rows, 23 precincts, 0 local rows dropped, 2 skipped local pages, 7 gate problem(s)
+
+Diagnoses (all render-verified against cache/2026-general-text/w_z_*.png):
+
+1. **p3's invisible overlay glyph layer corrupts four cell tokens.**
+   Helvetica/Times-Italic runs decode wrongly while the render prints clean
+   values: '5821' prints 582 and '2731' prints 273 (an invisible '1' glyph
+   merges into the right-aligned cell), 'AO.' prints 484 (Times-Italic
+   glyphs render "484" and decode "AO."), '617!' prints 617 (the '!' glyph
+   prints as the column rule). A page-scoped, operator-manifest cell repair
+   map (`cell_token_repairs`) applies exact replacements only to tokens
+   already in a numeric column on the declared page; a malformed replacement
+   is ignored and the printed-TOTAL gate flags whatever remains.
+   p6's '7491' (= Chaney's printed 749) is the same class there.
+2. **The stray ghost '1' fired the recorded conflict** (Eller's American
+   Legion '76' overwritten by a 1.7pt Times-Roman '1'). A cell height floor
+   (0.5 x the page anchor's own digit height; relative, not absolute) drops
+   numeric words far below the page's data size before the grid forms.
+3. **Warren p5/p6/p7 are NOT local-only.** They are the second 23-precinct
+   table (same column split: p5 = cols 1-11, p6 = cols 12-22, p7 =
+   'Porters Chapel' + TOTAL) whose LEADING row block is the continuation of
+   the Circuit Court 9-2 section that p2/p3/p4 end with: M. James 'Jim'
+   Chaney Jr. prints at the top of p5/p6/p7, ahead of the local zone's
+   first header box, and p7 carries his printed county total (10545 =
+   3630 + 6201 + 714). The manifest was revised:
+   `local_only_pages` removed, `carry_pages: ["5","6","7"]` declared, p7's
+   labels added; the local zone's rows still drop via unknown_header ->
+   dropped_local_rows (19 rows recorded, incl. p7's 'i' remnant).
+4. **X cells are column positions.** Columns whose members are mostly X
+   (the local-zone tails) had no numeric cluster to seed them; X words now
+   attach to the nearest NUMERIC cluster within COL_TOL *without moving its
+   center* (an X glyph sits ~10pt right of its column's right-aligned
+   digits, and a shifted center would drag the label band over the cells).
+   X never becomes a votes value; blanks are 0 only when the row's own
+   printed total proves it.
+5. **Office-label repairs** (LABEL_REPAIRS extended to office words, all
+   render-verified): 'states-senatel' -> 'States-Senate' (p2/p4's
+   "United states-senatel"), 'ancery' -> 'Chancery' (p4's left-clipped
+   label; the render prints the full label), 'iM.' -> 'M.' (p7's invisible
+   junk glyph merged into the first name word).
+6. **name_key** (shared by the assembly merge key and the writer's
+   _merge_key) folds only the observed variants: the mid-dot
+   ('Cindy  Hyde·Smith ' on p3) and the initial's comma ('Bennie G,
+   Thompson' on p3); whitespace collapses everywhere; the writer's candidate
+   spelling is the single-spaced first occurrence (repo files carry no
+   doubled spaces).
+7. **p6 carried-row vs junk:** the carry exists to attribute data, so a
+   carried page's NO-CELL row drops to dropped_local_rows instead of
+   entering the carried race (p7's lone 'i' remnant; Chaney keeps the
+   carry).
+8. Item 5's boundary answer: p2/p3/p4 and p5/p6/p7 each REPRINT all their
+   office headers (operator strips), so p3->p4 are per-page continuations,
+   NOT repeat-group members; no carry is needed (or exercised) at that
+   boundary, and the task's manifest-declared-group need landed where the
+   real ambiguity is: p4->p5 (carry_pages).
+9. Docstring fix (Task 6 carry) landed at the
+   final-(label,district)-uniqueness gate of write_precinct_csv.
+
+Carries into Task 8/9: (a) Union's 2-char X words and the X-filler grid
+change did not move Union's cluster counts (pinned by its integration
+tests); (b) Jasper/Lee's fuzzed pages should be re-checked against the
+cell height floor and the X-filler rule (both are relative, page-anchored);
+(c) the cross-county roster gate should compare at the (office, district)
+family level to catch total seat loss (docstring residual above).
+
+## Task 7 execution record additions (re-review, 2026-11-19)
+
+Approved. Carries into Task 8's window (test hygiene first):
+
+1. `WarrenCountyTests` lacks the `skipUnless(SOURCES_PRESENT)` decorator —
+   on machines without the sources checkout it errors instead of skipping.
+2. A stale mid-file `if __name__ == "__main__": unittest.main()` block at
+   test line ~1750 makes direct execution run only 110 of 126 tests
+   (the 16 newest are defined after it). Delete it; keep the final block.
+3. `skipped_local_pages` is invisible in the CLI summary (add the count);
+   the diagnostic-run output quoted in the record predates final main().
+4. `local_only_pages`/`carry_pages`/`narrow` declarations: validation should
+   require listed numbers to be declared `pages` keys (a typo changes
+   behavior silently).
+5. Warren manifest `local_note`: X cells in the scoped Chaney row read as
+   column-position evidence only, never a value (and become 0 only when the
+   row's printed total proves it).
+6. Carry: three blank lines after `_repair_label`; re-inline of
+   `LABEL_REPAIRS.get(tok, tok)` at src:945 should reuse `_repair_label`.
+
+## Task 8 close-out (2026-11-20, final re-review)
+
+Approved after three stages. All four counties produce gated CSVs that
+regenerate byte-identically: Union (360 rows), Warren (253), Lee (561,
+17 operator rows), Jasper (143, 11 operator rows). The adjudicated Sullivan
+cell (283) is traceable via operator_provenance and the resolved
+discrepancies report. 182 tests green.
+
+Task 9 opening carries (quality review):
+1. Non-numeric `cell_token_repairs` page key crashes load_manifest (the one
+   sibling that still raises) — record as manifest_shape, mirroring
+   page_min_columns.
+2. `operator_cells`/`operator_rows` non-numeric page keys are silently
+   dropped while the comment claims otherwise — record as manifest_shape.
+3. `operator_labels_for` can bind operator cells to local_only page labels —
+   return None for local_only and prefer supply alignments; pin with a test.
+4. State the unconditional precinct-universe union truthfully in the two
+   comments + pin the novel-label gain case.
+5. Three stale pre-conversion Jasper doc references (parse_county_pdf
+   docstring, constants comment, JasperTextLayerTests docstring).
+6. Lee carry_pages is inert for a fully operator-supplied county — drop it
+   and note the vestigial status (regeneration stays byte-identical).
+7. Register `operator_provenance` as a free-text convention in the constants
+   block (unread by the parser).
+8. Merge the duplicate extraction_floors test pair.
+
+## Task 9 close-out (2026-11-20, final re-review)
+
+Approved after one fix round (92c699b): shared `page_number` guard+parse in
+all manifest key-blocks (every bad key recorded, no crash); vacuous `--only`
+refused (exit 2, status.json untouched); diagnosis-writes recorded honestly
+(`written_with_gate_failures`, excluded from all_passed); the notes report's
+arithmetic phrasing fixed; roster-gate blind spots documented. 198 tests
+green; all four CSVs regenerate byte-identical through the batch runner.
+
+Carried quality notes (no action required): runner FAILED-summary sentence
+reads as AND but the condition is an OR (one-line reword candidate);
+`(first,) = ...` idiom; resume skips a diagnosis-write county as cached
+PASSED (status record discloses it); `select_counties` test-only; loader
+accepts non-ASCII digit glyph page keys via the pages-map loop (meets
+loudly downstream); `verifier.py`'s static office/party whitelists
+false-positive on the 2026 judicial labels (`Chancery Court Place N`,
+`Court of Appeals Position N`) — expected when re-running it on these files.

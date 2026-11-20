@@ -1,0 +1,17 @@
+{
+  "county": "Union",
+  "source": "Union_County_2026_general.pdf",
+  "election_date": "2026-11-03",
+  "read_by": "operator-vision",
+  "date": "2026-11-19",
+  "procedure": "Header strips rendered with pdfplumber page.crop(...).to_image(resolution=300) from prose_end=130 to find_table_top()+36; ambiguous cells zoomed at 600 dpi. Labels read left-to-right per page.",
+  "structure_note": "One logical 21-column table (20 precincts + TOTAL) paginated as row-blocks with column-halves: p2/p3 = row block 1 (p2 = columns 1-11, p3 = columns 12-20 + TOTAL), p4/p5 = row block 2 (p4 = columns 1-11, p5 = columns 12-20 + TOTAL). Column sets repeat; row sums reconcile across halves (e.g. Malski 4343+3286=7629).",
+  "truncation_note": "King's Chapel, Central Maintenance, Hillcrest Church, Pleasant Ridge: page-edge/clipping truncations in the 2026 general recap; full names taken from the same county's 2026 primary precinct file (20260310__ms__primary__union__precinct.csv), whose printed names match every truncated prefix (Central Maintenance also in the 2024 general Union file).",
+  "total_label": "TOTAL",
+  "pages": {
+    "2": ["Macedonia", "Blythe", "Myrtle", "Glenfield", "Pinedale", "West Union", "Sportsplex", "Ingomar", "King's Chapel", "Courthouse", "Central Maintenance"],
+    "3": ["Beacon Hill", "Blue Springs", "Hillcrest Church", "Center", "Ellistown Baptist Church", "Watson Grove Church", "Keownville", "Pleasant Ridge", "Jericho", "TOTAL"],
+    "4": ["Macedonia", "Blythe", "Myrtle", "Glenfield", "Pinedale", "West Union", "Sportsplex", "Ingomar", "King's Chapel", "Courthouse", "Central Maintenance"],
+    "5": ["Beacon Hill", "Blue Springs", "Hillcrest Church", "Center", "Ellistown Baptist Church", "Watson Grove Church", "Keownville", "Pleasant Ridge", "Jericho", "TOTAL"]
+  }
+}

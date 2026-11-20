@@ -91,8 +91,36 @@ statewide general recap PDF is available in the sources repo.
 - Header: `county,precinct,office,district,candidate,party,votes` (2024/2026
   per-county precedent; no winner column, no TOTAL rows — totals are
   verification-only).
-- Sorted by precinct, office, candidate; precinct names stripped of
-  "Precinct", leading zeros, stray quotes.
+- Sorted by precinct (case-insensitive), candidates in printed ballot order
+  within each precinct; precinct names stripped of "Precinct", leading
+  zeros, stray quotes.
+
+## Amendment A (2026-11-19): hybrid header sourcing
+
+Real-file probing invalidated one core assumption: the rotated header strip
+(precinct names + the TOTAL label) is not recoverable from the text layers.
+
+- Union: every char is `GlyphLessFont` — an invisible Tesseract OCR layer that
+  skipped nearly all rotated glyphs (26 fragment chars for ~120 rendered
+  glyphs); no "TOTAL" anywhere in the layer.
+- Warren / Jasper / Lee: born-Helvetica text, but the rotated header glyph
+  runs extract as broken garbage (e.g. Warren's right column strip reads
+  `L.. QJ C. I\J ..`), i.e. glyph encoding without a usable Unicode mapping.
+
+What remains reliably extractable: candidate/office row labels, and the
+numeric grid (14 well-separated column clusters on Union p2).
+
+Revised approach (user-approved): **hybrid**. The deterministic parser keeps
+labels, the numeric grid, and all gates. For each table page, the header strip
+is rendered to a PNG and read by the operator (Claude acting as a vision
+model — no external model or OCR service). The read is recorded as a
+committed JSON manifest per county at `2026/header-reads/20261103__ms__general__<county>__headers.json`
+mapping each table page's ordered header labels (including which label is
+TOTAL). The pipeline validates every manifest against the parsed grid
+(count equality, nearest-center alignment) and keeps all other gates.
+`vertical_headers` stays in the module as a non-load-bearing cross-check
+utility; column alignment is manifest-driven, and the TOTAL column is
+identified by the manifest label, not by `total_col`.
 
 ## Out of scope (later phases)
 

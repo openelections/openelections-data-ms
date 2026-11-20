@@ -1,0 +1,562 @@
+county,precinct,office,district,candidate,party,votes
+Lee,Auburn,U.S. Senate,,Scott Colom,DEM,99
+Lee,Auburn,U.S. Senate,,Cindy Hyde-Smith,REP,479
+Lee,Auburn,U.S. Senate,,Ty Pinkins,IND,6
+Lee,Auburn,U.S. House,1,Johnny Baucom,LIB,4
+Lee,Auburn,U.S. House,1,Cliff Johnson,DEM,89
+Lee,Auburn,U.S. House,1,Trent Kelly,REP,491
+Lee,Auburn,Court of Appeals Position 1,1,Derek Dewayne Hopson Jr.,,136
+Lee,Auburn,Court of Appeals Position 1,1,John Weddle,,401
+Lee,Auburn,Court of Appeals Position 2,1,Donna M. Barnes,,465
+Lee,Auburn,Chancery Court Place 1,1,Brad Tennison,,473
+Lee,Auburn,Chancery Court Place 2,1,Michael Malski,,468
+Lee,Auburn,Chancery Court Place 3,1,Jacqueline Mask,,484
+Lee,Auburn,Chancery Court Place 4,1,Stephen T. Bailey,,463
+Lee,Auburn,Circuit Court Place 1,1,John R. White,,467
+Lee,Auburn,Circuit Court Place 2,1,Josh Wise,,464
+Lee,Auburn,Circuit Court Place 3,1,Kelly L. Mims,,485
+Lee,Auburn,Circuit Court Place 4,1,Michael P. 'Chip' Mills Jr.,,462
+Lee,Baldwyn,U.S. Senate,,Scott Colom,DEM,300
+Lee,Baldwyn,U.S. Senate,,Cindy Hyde-Smith,REP,225
+Lee,Baldwyn,U.S. Senate,,Ty Pinkins,IND,7
+Lee,Baldwyn,U.S. House,1,Johnny Baucom,LIB,15
+Lee,Baldwyn,U.S. House,1,Cliff Johnson,DEM,271
+Lee,Baldwyn,U.S. House,1,Trent Kelly,REP,246
+Lee,Baldwyn,Court of Appeals Position 1,1,Derek Dewayne Hopson Jr.,,220
+Lee,Baldwyn,Court of Appeals Position 1,1,John Weddle,,293
+Lee,Baldwyn,Court of Appeals Position 2,1,Donna M. Barnes,,512
+Lee,Baldwyn,Chancery Court Place 1,1,Brad Tennison,,514
+Lee,Baldwyn,Chancery Court Place 2,1,Michael Malski,,502
+Lee,Baldwyn,Chancery Court Place 3,1,Jacqueline Mask,,512
+Lee,Baldwyn,Chancery Court Place 4,1,Stephen T. Bailey,,400
+Lee,Baldwyn,Circuit Court Place 1,1,John R. White,,400
+Lee,Baldwyn,Circuit Court Place 2,1,Josh Wise,,392
+Lee,Baldwyn,Circuit Court Place 3,1,Kelly L. Mims,,402
+Lee,Baldwyn,Circuit Court Place 4,1,Michael P. 'Chip' Mills Jr.,,397
+Lee,Beech Springs,U.S. Senate,,Scott Colom,DEM,185
+Lee,Beech Springs,U.S. Senate,,Cindy Hyde-Smith,REP,191
+Lee,Beech Springs,U.S. Senate,,Ty Pinkins,IND,8
+Lee,Beech Springs,U.S. House,1,Johnny Baucom,LIB,10
+Lee,Beech Springs,U.S. House,1,Cliff Johnson,DEM,157
+Lee,Beech Springs,U.S. House,1,Trent Kelly,REP,213
+Lee,Beech Springs,Court of Appeals Position 1,1,Derek Dewayne Hopson Jr.,,109
+Lee,Beech Springs,Court of Appeals Position 1,1,John Weddle,,220
+Lee,Beech Springs,Court of Appeals Position 2,1,Donna M. Barnes,,279
+Lee,Beech Springs,Chancery Court Place 1,1,Brad Tennison,,281
+Lee,Beech Springs,Chancery Court Place 2,1,Michael Malski,,276
+Lee,Beech Springs,Chancery Court Place 3,1,Jacqueline Mask,,287
+Lee,Beech Springs,Chancery Court Place 4,1,Stephen T. Bailey,,269
+Lee,Beech Springs,Circuit Court Place 1,1,John R. White,,268
+Lee,Beech Springs,Circuit Court Place 2,1,Josh Wise,,269
+Lee,Beech Springs,Circuit Court Place 3,1,Kelly L. Mims,,286
+Lee,Beech Springs,Circuit Court Place 4,1,Michael P. 'Chip' Mills Jr.,,269
+Lee,Belden,U.S. Senate,,Scott Colom,DEM,107
+Lee,Belden,U.S. Senate,,Cindy Hyde-Smith,REP,297
+Lee,Belden,U.S. Senate,,Ty Pinkins,IND,6
+Lee,Belden,U.S. House,1,Johnny Baucom,LIB,3
+Lee,Belden,U.S. House,1,Cliff Johnson,DEM,100
+Lee,Belden,U.S. House,1,Trent Kelly,REP,304
+Lee,Belden,Court of Appeals Position 1,1,Derek Dewayne Hopson Jr.,,81
+Lee,Belden,Court of Appeals Position 1,1,John Weddle,,291
+Lee,Belden,Court of Appeals Position 2,1,Donna M. Barnes,,315
+Lee,Belden,Chancery Court Place 1,1,Brad Tennison,,318
+Lee,Belden,Chancery Court Place 2,1,Michael Malski,,313
+Lee,Belden,Chancery Court Place 3,1,Jacqueline Mask,,323
+Lee,Belden,Chancery Court Place 4,1,Stephen T. Bailey,,312
+Lee,Belden,Circuit Court Place 1,1,John R. White,,308
+Lee,Belden,Circuit Court Place 2,1,Josh Wise,,305
+Lee,Belden,Circuit Court Place 3,1,Kelly L. Mims,,324
+Lee,Belden,Circuit Court Place 4,1,Michael P. 'Chip' Mills Jr.,,308
+Lee,Birmingham Ridge,U.S. Senate,,Scott Colom,DEM,168
+Lee,Birmingham Ridge,U.S. Senate,,Cindy Hyde-Smith,REP,766
+Lee,Birmingham Ridge,U.S. Senate,,Ty Pinkins,IND,23
+Lee,Birmingham Ridge,U.S. House,1,Johnny Baucom,LIB,14
+Lee,Birmingham Ridge,U.S. House,1,Cliff Johnson,DEM,154
+Lee,Birmingham Ridge,U.S. House,1,Trent Kelly,REP,791
+Lee,Birmingham Ridge,Court of Appeals Position 1,1,Derek Dewayne Hopson Jr.,,171
+Lee,Birmingham Ridge,Court of Appeals Position 1,1,John Weddle,,717
+Lee,Birmingham Ridge,Court of Appeals Position 2,1,Donna M. Barnes,,762
+Lee,Birmingham Ridge,Chancery Court Place 1,1,Brad Tennison,,765
+Lee,Birmingham Ridge,Chancery Court Place 2,1,Michael Malski,,748
+Lee,Birmingham Ridge,Chancery Court Place 3,1,Jacqueline Mask,,778
+Lee,Birmingham Ridge,Chancery Court Place 4,1,Stephen T. Bailey,,772
+Lee,Birmingham Ridge,Circuit Court Place 1,1,John R. White,,767
+Lee,Birmingham Ridge,Circuit Court Place 2,1,Josh Wise,,758
+Lee,Birmingham Ridge,Circuit Court Place 3,1,Kelly L. Mims,,785
+Lee,Birmingham Ridge,Circuit Court Place 4,1,Michael P. 'Chip' Mills Jr.,,774
+Lee,Brewer,U.S. Senate,,Scott Colom,DEM,147
+Lee,Brewer,U.S. Senate,,Cindy Hyde-Smith,REP,318
+Lee,Brewer,U.S. Senate,,Ty Pinkins,IND,7
+Lee,Brewer,U.S. House,1,Johnny Baucom,LIB,6
+Lee,Brewer,U.S. House,1,Cliff Johnson,DEM,128
+Lee,Brewer,U.S. House,1,Trent Kelly,REP,338
+Lee,Brewer,Court of Appeals Position 1,1,Derek Dewayne Hopson Jr.,,115
+Lee,Brewer,Court of Appeals Position 1,1,John Weddle,,321
+Lee,Brewer,Court of Appeals Position 2,1,Donna M. Barnes,,372
+Lee,Brewer,Chancery Court Place 1,1,Brad Tennison,,369
+Lee,Brewer,Chancery Court Place 2,1,Michael Malski,,368
+Lee,Brewer,Chancery Court Place 3,1,Jacqueline Mask,,380
+Lee,Brewer,Chancery Court Place 4,1,Stephen T. Bailey,,357
+Lee,Brewer,Circuit Court Place 1,1,John R. White,,357
+Lee,Brewer,Circuit Court Place 2,1,Josh Wise,,353
+Lee,Brewer,Circuit Court Place 3,1,Kelly L. Mims,,368
+Lee,Brewer,Circuit Court Place 4,1,Michael P. 'Chip' Mills Jr.,,354
+Lee,Cedar Hill,U.S. Senate,,Scott Colom,DEM,145
+Lee,Cedar Hill,U.S. Senate,,Cindy Hyde-Smith,REP,663
+Lee,Cedar Hill,U.S. Senate,,Ty Pinkins,IND,16
+Lee,Cedar Hill,U.S. House,1,Johnny Baucom,LIB,8
+Lee,Cedar Hill,U.S. House,1,Cliff Johnson,DEM,133
+Lee,Cedar Hill,U.S. House,1,Trent Kelly,REP,681
+Lee,Cedar Hill,Court of Appeals Position 1,1,Derek Dewayne Hopson Jr.,,137
+Lee,Cedar Hill,Court of Appeals Position 1,1,John Weddle,,615
+Lee,Cedar Hill,Court of Appeals Position 2,1,Donna M. Barnes,,629
+Lee,Cedar Hill,Chancery Court Place 1,1,Brad Tennison,,626
+Lee,Cedar Hill,Chancery Court Place 2,1,Michael Malski,,621
+Lee,Cedar Hill,Chancery Court Place 3,1,Jacqueline Mask,,637
+Lee,Cedar Hill,Chancery Court Place 4,1,Stephen T. Bailey,,630
+Lee,Cedar Hill,Circuit Court Place 1,1,John R. White,,628
+Lee,Cedar Hill,Circuit Court Place 2,1,Josh Wise,,618
+Lee,Cedar Hill,Circuit Court Place 3,1,Kelly L. Mims,,642
+Lee,Cedar Hill,Circuit Court Place 4,1,Michael P. 'Chip' Mills Jr.,,628
+Lee,Eggville,U.S. Senate,,Scott Colom,DEM,46
+Lee,Eggville,U.S. Senate,,Cindy Hyde-Smith,REP,363
+Lee,Eggville,U.S. Senate,,Ty Pinkins,IND,8
+Lee,Eggville,U.S. House,1,Johnny Baucom,LIB,7
+Lee,Eggville,U.S. House,1,Cliff Johnson,DEM,38
+Lee,Eggville,U.S. House,1,Trent Kelly,REP,372
+Lee,Eggville,Court of Appeals Position 1,1,Derek Dewayne Hopson Jr.,,64
+Lee,Eggville,Court of Appeals Position 1,1,John Weddle,,310
+Lee,Eggville,Court of Appeals Position 2,1,Donna M. Barnes,,309
+Lee,Eggville,Chancery Court Place 1,1,Brad Tennison,,314
+Lee,Eggville,Chancery Court Place 2,1,Michael Malski,,312
+Lee,Eggville,Chancery Court Place 3,1,Jacqueline Mask,,316
+Lee,Eggville,Chancery Court Place 4,1,Stephen T. Bailey,,303
+Lee,Eggville,Circuit Court Place 1,1,John R. White,,305
+Lee,Eggville,Circuit Court Place 2,1,Josh Wise,,301
+Lee,Eggville,Circuit Court Place 3,1,Kelly L. Mims,,315
+Lee,Eggville,Circuit Court Place 4,1,Michael P. 'Chip' Mills Jr.,,301
+Lee,Euclatubba,U.S. Senate,,Scott Colom,DEM,25
+Lee,Euclatubba,U.S. Senate,,Cindy Hyde-Smith,REP,189
+Lee,Euclatubba,U.S. Senate,,Ty Pinkins,IND,6
+Lee,Euclatubba,U.S. House,1,Johnny Baucom,LIB,2
+Lee,Euclatubba,U.S. House,1,Cliff Johnson,DEM,22
+Lee,Euclatubba,U.S. House,1,Trent Kelly,REP,195
+Lee,Euclatubba,Court of Appeals Position 1,1,Derek Dewayne Hopson Jr.,,27
+Lee,Euclatubba,Court of Appeals Position 1,1,John Weddle,,183
+Lee,Euclatubba,Court of Appeals Position 2,1,Donna M. Barnes,,193
+Lee,Euclatubba,Chancery Court Place 1,1,Brad Tennison,,195
+Lee,Euclatubba,Chancery Court Place 2,1,Michael Malski,,191
+Lee,Euclatubba,Chancery Court Place 3,1,Jacqueline Mask,,195
+Lee,Euclatubba,Chancery Court Place 4,1,Stephen T. Bailey,,198
+Lee,Euclatubba,Circuit Court Place 1,1,John R. White,,197
+Lee,Euclatubba,Circuit Court Place 2,1,Josh Wise,,195
+Lee,Euclatubba,Circuit Court Place 3,1,Kelly L. Mims,,199
+Lee,Euclatubba,Circuit Court Place 4,1,Michael P. 'Chip' Mills Jr.,,198
+Lee,Friendship,U.S. Senate,,Scott Colom,DEM,8
+Lee,Friendship,U.S. Senate,,Cindy Hyde-Smith,REP,100
+Lee,Friendship,U.S. Senate,,Ty Pinkins,IND,3
+Lee,Friendship,U.S. House,1,Johnny Baucom,LIB,1
+Lee,Friendship,U.S. House,1,Cliff Johnson,DEM,4
+Lee,Friendship,U.S. House,1,Trent Kelly,REP,106
+Lee,Friendship,Court of Appeals Position 1,1,Derek Dewayne Hopson Jr.,,26
+Lee,Friendship,Court of Appeals Position 1,1,John Weddle,,78
+Lee,Friendship,Court of Appeals Position 2,1,Donna M. Barnes,,100
+Lee,Friendship,Chancery Court Place 1,1,Brad Tennison,,100
+Lee,Friendship,Chancery Court Place 2,1,Michael Malski,,98
+Lee,Friendship,Chancery Court Place 3,1,Jacqueline Mask,,102
+Lee,Friendship,Chancery Court Place 4,1,Stephen T. Bailey,,100
+Lee,Friendship,Circuit Court Place 1,1,John R. White,,101
+Lee,Friendship,Circuit Court Place 2,1,Josh Wise,,100
+Lee,Friendship,Circuit Court Place 3,1,Kelly L. Mims,,100
+Lee,Friendship,Circuit Court Place 4,1,Michael P. 'Chip' Mills Jr.,,100
+Lee,Gilvo,U.S. Senate,,Scott Colom,DEM,25
+Lee,Gilvo,U.S. Senate,,Cindy Hyde-Smith,REP,139
+Lee,Gilvo,U.S. Senate,,Ty Pinkins,IND,9
+Lee,Gilvo,U.S. House,1,Johnny Baucom,LIB,0
+Lee,Gilvo,U.S. House,1,Cliff Johnson,DEM,23
+Lee,Gilvo,U.S. House,1,Trent Kelly,REP,149
+Lee,Gilvo,Court of Appeals Position 1,1,Derek Dewayne Hopson Jr.,,35
+Lee,Gilvo,Court of Appeals Position 1,1,John Weddle,,124
+Lee,Gilvo,Court of Appeals Position 2,1,Donna M. Barnes,,133
+Lee,Gilvo,Chancery Court Place 1,1,Brad Tennison,,131
+Lee,Gilvo,Chancery Court Place 2,1,Michael Malski,,135
+Lee,Gilvo,Chancery Court Place 3,1,Jacqueline Mask,,136
+Lee,Gilvo,Chancery Court Place 4,1,Stephen T. Bailey,,129
+Lee,Gilvo,Circuit Court Place 1,1,John R. White,,129
+Lee,Gilvo,Circuit Court Place 2,1,Josh Wise,,129
+Lee,Gilvo,Circuit Court Place 3,1,Kelly L. Mims,,133
+Lee,Gilvo,Circuit Court Place 4,1,Michael P. 'Chip' Mills Jr.,,132
+Lee,Guntown,U.S. Senate,,Scott Colom,DEM,303
+Lee,Guntown,U.S. Senate,,Cindy Hyde-Smith,REP,496
+Lee,Guntown,U.S. Senate,,Ty Pinkins,IND,30
+Lee,Guntown,U.S. House,1,Johnny Baucom,LIB,18
+Lee,Guntown,U.S. House,1,Cliff Johnson,DEM,278
+Lee,Guntown,U.S. House,1,Trent Kelly,REP,529
+Lee,Guntown,Court of Appeals Position 1,1,Derek Dewayne Hopson Jr.,,237
+Lee,Guntown,Court of Appeals Position 1,1,John Weddle,,522
+Lee,Guntown,Court of Appeals Position 2,1,Donna M. Barnes,,667
+Lee,Guntown,Chancery Court Place 1,1,Brad Tennison,,676
+Lee,Guntown,Chancery Court Place 2,1,Michael Malski,,674
+Lee,Guntown,Chancery Court Place 3,1,Jacqueline Mask,,688
+Lee,Guntown,Chancery Court Place 4,1,Stephen T. Bailey,,670
+Lee,Guntown,Circuit Court Place 1,1,John R. White,,668
+Lee,Guntown,Circuit Court Place 2,1,Josh Wise,,660
+Lee,Guntown,Circuit Court Place 3,1,Kelly L. Mims,,684
+Lee,Guntown,Circuit Court Place 4,1,Michael P. 'Chip' Mills Jr.,,669
+Lee,Mooreville,U.S. Senate,,Scott Colom,DEM,163
+Lee,Mooreville,U.S. Senate,,Cindy Hyde-Smith,REP,814
+Lee,Mooreville,U.S. Senate,,Ty Pinkins,IND,25
+Lee,Mooreville,U.S. House,1,Johnny Baucom,LIB,11
+Lee,Mooreville,U.S. House,1,Cliff Johnson,DEM,134
+Lee,Mooreville,U.S. House,1,Trent Kelly,REP,859
+Lee,Mooreville,Court of Appeals Position 1,1,Derek Dewayne Hopson Jr.,,188
+Lee,Mooreville,Court of Appeals Position 1,1,John Weddle,,735
+Lee,Mooreville,Court of Appeals Position 2,1,Donna M. Barnes,,831
+Lee,Mooreville,Chancery Court Place 1,1,Brad Tennison,,835
+Lee,Mooreville,Chancery Court Place 2,1,Michael Malski,,830
+Lee,Mooreville,Chancery Court Place 3,1,Jacqueline Mask,,849
+Lee,Mooreville,Chancery Court Place 4,1,Stephen T. Bailey,,825
+Lee,Mooreville,Circuit Court Place 1,1,John R. White,,821
+Lee,Mooreville,Circuit Court Place 2,1,Josh Wise,,821
+Lee,Mooreville,Circuit Court Place 3,1,Kelly L. Mims,,847
+Lee,Mooreville,Circuit Court Place 4,1,Michael P. 'Chip' Mills Jr.,,825
+Lee,Nettleton,U.S. Senate,,Scott Colom,DEM,270
+Lee,Nettleton,U.S. Senate,,Cindy Hyde-Smith,REP,703
+Lee,Nettleton,U.S. Senate,,Ty Pinkins,IND,18
+Lee,Nettleton,U.S. House,1,Johnny Baucom,LIB,10
+Lee,Nettleton,U.S. House,1,Cliff Johnson,DEM,261
+Lee,Nettleton,U.S. House,1,Trent Kelly,REP,714
+Lee,Nettleton,Court of Appeals Position 1,1,Derek Dewayne Hopson Jr.,,260
+Lee,Nettleton,Court of Appeals Position 1,1,John Weddle,,630
+Lee,Nettleton,Court of Appeals Position 2,1,Donna M. Barnes,,787
+Lee,Nettleton,Chancery Court Place 1,1,Brad Tennison,,788
+Lee,Nettleton,Chancery Court Place 2,1,Michael Malski,,797
+Lee,Nettleton,Chancery Court Place 3,1,Jacqueline Mask,,811
+Lee,Nettleton,Chancery Court Place 4,1,Stephen T. Bailey,,773
+Lee,Nettleton,Circuit Court Place 1,1,John R. White,,765
+Lee,Nettleton,Circuit Court Place 2,1,Josh Wise,,767
+Lee,Nettleton,Circuit Court Place 3,1,Kelly L. Mims,,801
+Lee,Nettleton,Circuit Court Place 4,1,Michael P. 'Chip' Mills Jr.,,776
+Lee,Oak Hill,U.S. Senate,,Scott Colom,DEM,90
+Lee,Oak Hill,U.S. Senate,,Cindy Hyde-Smith,REP,335
+Lee,Oak Hill,U.S. Senate,,Ty Pinkins,IND,23
+Lee,Oak Hill,U.S. House,1,Johnny Baucom,LIB,8
+Lee,Oak Hill,U.S. House,1,Cliff Johnson,DEM,81
+Lee,Oak Hill,U.S. House,1,Trent Kelly,REP,359
+Lee,Oak Hill,Court of Appeals Position 1,1,Derek Dewayne Hopson Jr.,,104
+Lee,Oak Hill,Court of Appeals Position 1,1,John Weddle,,314
+Lee,Oak Hill,Court of Appeals Position 2,1,Donna M. Barnes,,375
+Lee,Oak Hill,Chancery Court Place 1,1,Brad Tennison,,374
+Lee,Oak Hill,Chancery Court Place 2,1,Michael Malski,,375
+Lee,Oak Hill,Chancery Court Place 3,1,Jacqueline Mask,,382
+Lee,Oak Hill,Chancery Court Place 4,1,Stephen T. Bailey,,362
+Lee,Oak Hill,Circuit Court Place 1,1,John R. White,,363
+Lee,Oak Hill,Circuit Court Place 2,1,Josh Wise,,358
+Lee,Oak Hill,Circuit Court Place 3,1,Kelly L. Mims,,372
+Lee,Oak Hill,Circuit Court Place 4,1,Michael P. 'Chip' Mills Jr.,,364
+Lee,Old Union,U.S. Senate,,Scott Colom,DEM,151
+Lee,Old Union,U.S. Senate,,Cindy Hyde-Smith,REP,141
+Lee,Old Union,U.S. Senate,,Ty Pinkins,IND,4
+Lee,Old Union,U.S. House,1,Johnny Baucom,LIB,1
+Lee,Old Union,U.S. House,1,Cliff Johnson,DEM,145
+Lee,Old Union,U.S. House,1,Trent Kelly,REP,151
+Lee,Old Union,Court of Appeals Position 1,1,Derek Dewayne Hopson Jr.,,121
+Lee,Old Union,Court of Appeals Position 1,1,John Weddle,,133
+Lee,Old Union,Court of Appeals Position 2,1,Donna M. Barnes,,210
+Lee,Old Union,Chancery Court Place 1,1,Brad Tennison,,208
+Lee,Old Union,Chancery Court Place 2,1,Michael Malski,,208
+Lee,Old Union,Chancery Court Place 3,1,Jacqueline Mask,,225
+Lee,Old Union,Chancery Court Place 4,1,Stephen T. Bailey,,216
+Lee,Old Union,Circuit Court Place 1,1,John R. White,,212
+Lee,Old Union,Circuit Court Place 2,1,Josh Wise,,209
+Lee,Old Union,Circuit Court Place 3,1,Kelly L. Mims,,224
+Lee,Old Union,Circuit Court Place 4,1,Michael P. 'Chip' Mills Jr.,,215
+Lee,Palmetto,U.S. Senate,,Scott Colom,DEM,169
+Lee,Palmetto,U.S. Senate,,Cindy Hyde-Smith,REP,250
+Lee,Palmetto,U.S. Senate,,Ty Pinkins,IND,16
+Lee,Palmetto,U.S. House,1,Johnny Baucom,LIB,8
+Lee,Palmetto,U.S. House,1,Cliff Johnson,DEM,163
+Lee,Palmetto,U.S. House,1,Trent Kelly,REP,262
+Lee,Palmetto,Court of Appeals Position 1,1,Derek Dewayne Hopson Jr.,,135
+Lee,Palmetto,Court of Appeals Position 1,1,John Weddle,,248
+Lee,Palmetto,Court of Appeals Position 2,1,Donna M. Barnes,,322
+Lee,Palmetto,Chancery Court Place 1,1,Brad Tennison,,326
+Lee,Palmetto,Chancery Court Place 2,1,Michael Malski,,323
+Lee,Palmetto,Chancery Court Place 3,1,Jacqueline Mask,,328
+Lee,Palmetto,Chancery Court Place 4,1,Stephen T. Bailey,,321
+Lee,Palmetto,Circuit Court Place 1,1,John R. White,,314
+Lee,Palmetto,Circuit Court Place 2,1,Josh Wise,,313
+Lee,Palmetto,Circuit Court Place 3,1,Kelly L. Mims,,341
+Lee,Palmetto,Circuit Court Place 4,1,Michael P. 'Chip' Mills Jr.,,312
+Lee,Plantersville,U.S. Senate,,Scott Colom,DEM,333
+Lee,Plantersville,U.S. Senate,,Cindy Hyde-Smith,REP,235
+Lee,Plantersville,U.S. Senate,,Ty Pinkins,IND,6
+Lee,Plantersville,U.S. House,1,Johnny Baucom,LIB,10
+Lee,Plantersville,U.S. House,1,Cliff Johnson,DEM,309
+Lee,Plantersville,U.S. House,1,Trent Kelly,REP,252
+Lee,Plantersville,Court of Appeals Position 1,1,Derek Dewayne Hopson Jr.,,236
+Lee,Plantersville,Court of Appeals Position 1,1,John Weddle,,250
+Lee,Plantersville,Court of Appeals Position 2,1,Donna M. Barnes,,377
+Lee,Plantersville,Chancery Court Place 1,1,Brad Tennison,,369
+Lee,Plantersville,Chancery Court Place 2,1,Michael Malski,,366
+Lee,Plantersville,Chancery Court Place 3,1,Jacqueline Mask,,384
+Lee,Plantersville,Chancery Court Place 4,1,Stephen T. Bailey,,351
+Lee,Plantersville,Circuit Court Place 1,1,John R. White,,361
+Lee,Plantersville,Circuit Court Place 2,1,Josh Wise,,354
+Lee,Plantersville,Circuit Court Place 3,1,Kelly L. Mims,,403
+Lee,Plantersville,Circuit Court Place 4,1,Michael P. 'Chip' Mills Jr.,,351
+Lee,Pleasant Grove,U.S. Senate,,Scott Colom,DEM,459
+Lee,Pleasant Grove,U.S. Senate,,Cindy Hyde-Smith,REP,182
+Lee,Pleasant Grove,U.S. Senate,,Ty Pinkins,IND,3
+Lee,Pleasant Grove,U.S. House,1,Johnny Baucom,LIB,5
+Lee,Pleasant Grove,U.S. House,1,Cliff Johnson,DEM,432
+Lee,Pleasant Grove,U.S. House,1,Trent Kelly,REP,199
+Lee,Pleasant Grove,Court of Appeals Position 1,1,Derek Dewayne Hopson Jr.,,362
+Lee,Pleasant Grove,Court of Appeals Position 1,1,John Weddle,,208
+Lee,Pleasant Grove,Court of Appeals Position 2,1,Donna M. Barnes,,479
+Lee,Pleasant Grove,Chancery Court Place 1,1,Brad Tennison,,470
+Lee,Pleasant Grove,Chancery Court Place 2,1,Michael Malski,,464
+Lee,Pleasant Grove,Chancery Court Place 3,1,Jacqueline Mask,,484
+Lee,Pleasant Grove,Chancery Court Place 4,1,Stephen T. Bailey,,476
+Lee,Pleasant Grove,Circuit Court Place 1,1,John R. White,,474
+Lee,Pleasant Grove,Circuit Court Place 2,1,Josh Wise,,474
+Lee,Pleasant Grove,Circuit Court Place 3,1,Kelly L. Mims,,479
+Lee,Pleasant Grove,Circuit Court Place 4,1,Michael P. 'Chip' Mills Jr.,,468
+Lee,Pratts,U.S. Senate,,Scott Colom,DEM,29
+Lee,Pratts,U.S. Senate,,Cindy Hyde-Smith,REP,241
+Lee,Pratts,U.S. Senate,,Ty Pinkins,IND,3
+Lee,Pratts,U.S. House,1,Johnny Baucom,LIB,1
+Lee,Pratts,U.S. House,1,Cliff Johnson,DEM,25
+Lee,Pratts,U.S. House,1,Trent Kelly,REP,247
+Lee,Pratts,Court of Appeals Position 1,1,Derek Dewayne Hopson Jr.,,50
+Lee,Pratts,Court of Appeals Position 1,1,John Weddle,,203
+Lee,Pratts,Court of Appeals Position 2,1,Donna M. Barnes,,228
+Lee,Pratts,Chancery Court Place 1,1,Brad Tennison,,229
+Lee,Pratts,Chancery Court Place 2,1,Michael Malski,,229
+Lee,Pratts,Chancery Court Place 3,1,Jacqueline Mask,,228
+Lee,Pratts,Chancery Court Place 4,1,Stephen T. Bailey,,226
+Lee,Pratts,Circuit Court Place 1,1,John R. White,,227
+Lee,Pratts,Circuit Court Place 2,1,Josh Wise,,225
+Lee,Pratts,Circuit Court Place 3,1,Kelly L. Mims,,231
+Lee,Pratts,Circuit Court Place 4,1,Michael P. 'Chip' Mills Jr.,,227
+Lee,Richmond,U.S. Senate,,Scott Colom,DEM,60
+Lee,Richmond,U.S. Senate,,Cindy Hyde-Smith,REP,217
+Lee,Richmond,U.S. Senate,,Ty Pinkins,IND,9
+Lee,Richmond,U.S. House,1,Johnny Baucom,LIB,4
+Lee,Richmond,U.S. House,1,Cliff Johnson,DEM,56
+Lee,Richmond,U.S. House,1,Trent Kelly,REP,226
+Lee,Richmond,Court of Appeals Position 1,1,Derek Dewayne Hopson Jr.,,57
+Lee,Richmond,Court of Appeals Position 1,1,John Weddle,,213
+Lee,Richmond,Court of Appeals Position 2,1,Donna M. Barnes,,250
+Lee,Richmond,Chancery Court Place 1,1,Brad Tennison,,250
+Lee,Richmond,Chancery Court Place 2,1,Michael Malski,,241
+Lee,Richmond,Chancery Court Place 3,1,Jacqueline Mask,,251
+Lee,Richmond,Chancery Court Place 4,1,Stephen T. Bailey,,246
+Lee,Richmond,Circuit Court Place 1,1,John R. White,,243
+Lee,Richmond,Circuit Court Place 2,1,Josh Wise,,242
+Lee,Richmond,Circuit Court Place 3,1,Kelly L. Mims,,249
+Lee,Richmond,Circuit Court Place 4,1,Michael P. 'Chip' Mills Jr.,,246
+Lee,Saltillo,U.S. Senate,,Scott Colom,DEM,468
+Lee,Saltillo,U.S. Senate,,Cindy Hyde-Smith,REP,988
+Lee,Saltillo,U.S. Senate,,Ty Pinkins,IND,28
+Lee,Saltillo,U.S. House,1,Johnny Baucom,LIB,19
+Lee,Saltillo,U.S. House,1,Cliff Johnson,DEM,428
+Lee,Saltillo,U.S. House,1,Trent Kelly,REP,1037
+Lee,Saltillo,Court of Appeals Position 1,1,Derek Dewayne Hopson Jr.,,371
+Lee,Saltillo,Court of Appeals Position 1,1,John Weddle,,1001
+Lee,Saltillo,Court of Appeals Position 2,1,Donna M. Barnes,,1252
+Lee,Saltillo,Chancery Court Place 1,1,Brad Tennison,,1254
+Lee,Saltillo,Chancery Court Place 2,1,Michael Malski,,1246
+Lee,Saltillo,Chancery Court Place 3,1,Jacqueline Mask,,1267
+Lee,Saltillo,Chancery Court Place 4,1,Stephen T. Bailey,,1253
+Lee,Saltillo,Circuit Court Place 1,1,John R. White,,1249
+Lee,Saltillo,Circuit Court Place 2,1,Josh Wise,,1241
+Lee,Saltillo,Circuit Court Place 3,1,Kelly L. Mims,,1273
+Lee,Saltillo,Circuit Court Place 4,1,Michael P. 'Chip' Mills Jr.,,1259
+Lee,Shannon,U.S. Senate,,Scott Colom,DEM,229
+Lee,Shannon,U.S. Senate,,Cindy Hyde-Smith,REP,130
+Lee,Shannon,U.S. Senate,,Ty Pinkins,IND,4
+Lee,Shannon,U.S. House,1,Johnny Baucom,LIB,2
+Lee,Shannon,U.S. House,1,Cliff Johnson,DEM,216
+Lee,Shannon,U.S. House,1,Trent Kelly,REP,140
+Lee,Shannon,Court of Appeals Position 1,1,Derek Dewayne Hopson Jr.,,167
+Lee,Shannon,Court of Appeals Position 1,1,John Weddle,,139
+Lee,Shannon,Court of Appeals Position 2,1,Donna M. Barnes,,223
+Lee,Shannon,Chancery Court Place 1,1,Brad Tennison,,226
+Lee,Shannon,Chancery Court Place 2,1,Michael Malski,,232
+Lee,Shannon,Chancery Court Place 3,1,Jacqueline Mask,,240
+Lee,Shannon,Chancery Court Place 4,1,Stephen T. Bailey,,219
+Lee,Shannon,Circuit Court Place 1,1,John R. White,,219
+Lee,Shannon,Circuit Court Place 2,1,Josh Wise,,214
+Lee,Shannon,Circuit Court Place 3,1,Kelly L. Mims,,237
+Lee,Shannon,Circuit Court Place 4,1,Michael P. 'Chip' Mills Jr.,,215
+Lee,TFM #5,U.S. Senate,,Scott Colom,DEM,1166
+Lee,TFM #5,U.S. Senate,,Cindy Hyde-Smith,REP,2299
+Lee,TFM #5,U.S. Senate,,Ty Pinkins,IND,60
+Lee,TFM #5,U.S. House,1,Johnny Baucom,LIB,30
+Lee,TFM #5,U.S. House,1,Cliff Johnson,DEM,1066
+Lee,TFM #5,U.S. House,1,Trent Kelly,REP,2433
+Lee,TFM #5,Court of Appeals Position 1,1,Derek Dewayne Hopson Jr.,,787
+Lee,TFM #5,Court of Appeals Position 1,1,John Weddle,,2443
+Lee,TFM #5,Court of Appeals Position 2,1,Donna M. Barnes,,2861
+Lee,TFM #5,Chancery Court Place 1,1,Brad Tennison,,2873
+Lee,TFM #5,Chancery Court Place 2,1,Michael Malski,,2841
+Lee,TFM #5,Chancery Court Place 3,1,Jacqueline Mask,,2910
+Lee,TFM #5,Chancery Court Place 4,1,Stephen T. Bailey,,2835
+Lee,TFM #5,Circuit Court Place 1,1,John R. White,,2814
+Lee,TFM #5,Circuit Court Place 2,1,Josh Wise,,2861
+Lee,TFM #5,Circuit Court Place 3,1,Kelly L. Mims,,2919
+Lee,TFM #5,Circuit Court Place 4,1,Michael P. 'Chip' Mills Jr.,,2849
+Lee,Tupelo 1,U.S. Senate,,Scott Colom,DEM,314
+Lee,Tupelo 1,U.S. Senate,,Cindy Hyde-Smith,REP,491
+Lee,Tupelo 1,U.S. Senate,,Ty Pinkins,IND,16
+Lee,Tupelo 1,U.S. House,1,Johnny Baucom,LIB,12
+Lee,Tupelo 1,U.S. House,1,Cliff Johnson,DEM,264
+Lee,Tupelo 1,U.S. House,1,Trent Kelly,REP,551
+Lee,Tupelo 1,Court of Appeals Position 1,1,Derek Dewayne Hopson Jr.,,165
+Lee,Tupelo 1,Court of Appeals Position 1,1,John Weddle,,574
+Lee,Tupelo 1,Court of Appeals Position 2,1,Donna M. Barnes,,671
+Lee,Tupelo 1,Chancery Court Place 1,1,Brad Tennison,,659
+Lee,Tupelo 1,Chancery Court Place 2,1,Michael Malski,,672
+Lee,Tupelo 1,Chancery Court Place 3,1,Jacqueline Mask,,681
+Lee,Tupelo 1,Chancery Court Place 4,1,Stephen T. Bailey,,639
+Lee,Tupelo 1,Circuit Court Place 1,1,John R. White,,640
+Lee,Tupelo 1,Circuit Court Place 2,1,Josh Wise,,653
+Lee,Tupelo 1,Circuit Court Place 3,1,Kelly L. Mims,,664
+Lee,Tupelo 1,Circuit Court Place 4,1,Michael P. 'Chip' Mills Jr.,,655
+Lee,Tupelo 2,U.S. Senate,,Scott Colom,DEM,828
+Lee,Tupelo 2,U.S. Senate,,Cindy Hyde-Smith,REP,876
+Lee,Tupelo 2,U.S. Senate,,Ty Pinkins,IND,31
+Lee,Tupelo 2,U.S. House,1,Johnny Baucom,LIB,35
+Lee,Tupelo 2,U.S. House,1,Cliff Johnson,DEM,755
+Lee,Tupelo 2,U.S. House,1,Trent Kelly,REP,942
+Lee,Tupelo 2,Court of Appeals Position 1,1,Derek Dewayne Hopson Jr.,,539
+Lee,Tupelo 2,Court of Appeals Position 1,1,John Weddle,,1026
+Lee,Tupelo 2,Court of Appeals Position 2,1,Donna M. Barnes,,1393
+Lee,Tupelo 2,Chancery Court Place 1,1,Brad Tennison,,1395
+Lee,Tupelo 2,Chancery Court Place 2,1,Michael Malski,,1394
+Lee,Tupelo 2,Chancery Court Place 3,1,Jacqueline Mask,,1417
+Lee,Tupelo 2,Chancery Court Place 4,1,Stephen T. Bailey,,1379
+Lee,Tupelo 2,Circuit Court Place 1,1,John R. White,,1372
+Lee,Tupelo 2,Circuit Court Place 2,1,Josh Wise,,1376
+Lee,Tupelo 2,Circuit Court Place 3,1,Kelly L. Mims,,1426
+Lee,Tupelo 2,Circuit Court Place 4,1,Michael P. 'Chip' Mills Jr.,,1383
+Lee,Tupelo 3,U.S. Senate,,Scott Colom,DEM,1053
+Lee,Tupelo 3,U.S. Senate,,Cindy Hyde-Smith,REP,943
+Lee,Tupelo 3,U.S. Senate,,Ty Pinkins,IND,34
+Lee,Tupelo 3,U.S. House,1,Johnny Baucom,LIB,25
+Lee,Tupelo 3,U.S. House,1,Cliff Johnson,DEM,992
+Lee,Tupelo 3,U.S. House,1,Trent Kelly,REP,1006
+Lee,Tupelo 3,Court of Appeals Position 1,1,Derek Dewayne Hopson Jr.,,727
+Lee,Tupelo 3,Court of Appeals Position 1,1,John Weddle,,1080
+Lee,Tupelo 3,Court of Appeals Position 2,1,Donna M. Barnes,,1574
+Lee,Tupelo 3,Chancery Court Place 1,1,Brad Tennison,,1555
+Lee,Tupelo 3,Chancery Court Place 2,1,Michael Malski,,1563
+Lee,Tupelo 3,Chancery Court Place 3,1,Jacqueline Mask,,1585
+Lee,Tupelo 3,Chancery Court Place 4,1,Stephen T. Bailey,,1506
+Lee,Tupelo 3,Circuit Court Place 1,1,John R. White,,1511
+Lee,Tupelo 3,Circuit Court Place 2,1,Josh Wise,,1513
+Lee,Tupelo 3,Circuit Court Place 3,1,Kelly L. Mims,,1539
+Lee,Tupelo 3,Circuit Court Place 4,1,Michael P. 'Chip' Mills Jr.,,1502
+Lee,Tupelo 4 North,U.S. Senate,,Scott Colom,DEM,1040
+Lee,Tupelo 4 North,U.S. Senate,,Cindy Hyde-Smith,REP,159
+Lee,Tupelo 4 North,U.S. Senate,,Ty Pinkins,IND,18
+Lee,Tupelo 4 North,U.S. House,1,Johnny Baucom,LIB,16
+Lee,Tupelo 4 North,U.S. House,1,Cliff Johnson,DEM,992
+Lee,Tupelo 4 North,U.S. House,1,Trent Kelly,REP,195
+Lee,Tupelo 4 North,Court of Appeals Position 1,1,Derek Dewayne Hopson Jr.,,678
+Lee,Tupelo 4 North,Court of Appeals Position 1,1,John Weddle,,333
+Lee,Tupelo 4 North,Court of Appeals Position 2,1,Donna M. Barnes,,804
+Lee,Tupelo 4 North,Chancery Court Place 1,1,Brad Tennison,,781
+Lee,Tupelo 4 North,Chancery Court Place 2,1,Michael Malski,,776
+Lee,Tupelo 4 North,Chancery Court Place 3,1,Jacqueline Mask,,804
+Lee,Tupelo 4 North,Chancery Court Place 4,1,Stephen T. Bailey,,767
+Lee,Tupelo 4 North,Circuit Court Place 1,1,John R. White,,758
+Lee,Tupelo 4 North,Circuit Court Place 2,1,Josh Wise,,764
+Lee,Tupelo 4 North,Circuit Court Place 3,1,Kelly L. Mims,,783
+Lee,Tupelo 4 North,Circuit Court Place 4,1,Michael P. 'Chip' Mills Jr.,,761
+Lee,Tupelo 4 South,U.S. Senate,,Scott Colom,DEM,790
+Lee,Tupelo 4 South,U.S. Senate,,Cindy Hyde-Smith,REP,60
+Lee,Tupelo 4 South,U.S. Senate,,Ty Pinkins,IND,7
+Lee,Tupelo 4 South,U.S. House,1,Johnny Baucom,LIB,7
+Lee,Tupelo 4 South,U.S. House,1,Cliff Johnson,DEM,776
+Lee,Tupelo 4 South,U.S. House,1,Trent Kelly,REP,71
+Lee,Tupelo 4 South,Court of Appeals Position 1,1,Derek Dewayne Hopson Jr.,,521
+Lee,Tupelo 4 South,Court of Appeals Position 1,1,John Weddle,,169
+Lee,Tupelo 4 South,Court of Appeals Position 2,1,Donna M. Barnes,,552
+Lee,Tupelo 4 South,Chancery Court Place 1,1,Brad Tennison,,538
+Lee,Tupelo 4 South,Chancery Court Place 2,1,Michael Malski,,539
+Lee,Tupelo 4 South,Chancery Court Place 3,1,Jacqueline Mask,,551
+Lee,Tupelo 4 South,Chancery Court Place 4,1,Stephen T. Bailey,,511
+Lee,Tupelo 4 South,Circuit Court Place 1,1,John R. White,,496
+Lee,Tupelo 4 South,Circuit Court Place 2,1,Josh Wise,,497
+Lee,Tupelo 4 South,Circuit Court Place 3,1,Kelly L. Mims,,524
+Lee,Tupelo 4 South,Circuit Court Place 4,1,Michael P. 'Chip' Mills Jr.,,502
+Lee,Tupelo 5,U.S. Senate,,Scott Colom,DEM,369
+Lee,Tupelo 5,U.S. Senate,,Cindy Hyde-Smith,REP,178
+Lee,Tupelo 5,U.S. Senate,,Ty Pinkins,IND,11
+Lee,Tupelo 5,U.S. House,1,Johnny Baucom,LIB,8
+Lee,Tupelo 5,U.S. House,1,Cliff Johnson,DEM,346
+Lee,Tupelo 5,U.S. House,1,Trent Kelly,REP,199
+Lee,Tupelo 5,Court of Appeals Position 1,1,Derek Dewayne Hopson Jr.,,253
+Lee,Tupelo 5,Court of Appeals Position 1,1,John Weddle,,229
+Lee,Tupelo 5,Court of Appeals Position 2,1,Donna M. Barnes,,420
+Lee,Tupelo 5,Chancery Court Place 1,1,Brad Tennison,,411
+Lee,Tupelo 5,Chancery Court Place 2,1,Michael Malski,,405
+Lee,Tupelo 5,Chancery Court Place 3,1,Jacqueline Mask,,419
+Lee,Tupelo 5,Chancery Court Place 4,1,Stephen T. Bailey,,415
+Lee,Tupelo 5,Circuit Court Place 1,1,John R. White,,417
+Lee,Tupelo 5,Circuit Court Place 2,1,Josh Wise,,411
+Lee,Tupelo 5,Circuit Court Place 3,1,Kelly L. Mims,,424
+Lee,Tupelo 5,Circuit Court Place 4,1,Michael P. 'Chip' Mills Jr.,,414
+Lee,Unity,U.S. Senate,,Scott Colom,DEM,52
+Lee,Unity,U.S. Senate,,Cindy Hyde-Smith,REP,532
+Lee,Unity,U.S. Senate,,Ty Pinkins,IND,20
+Lee,Unity,U.S. House,1,Johnny Baucom,LIB,7
+Lee,Unity,U.S. House,1,Cliff Johnson,DEM,49
+Lee,Unity,U.S. House,1,Trent Kelly,REP,548
+Lee,Unity,Court of Appeals Position 1,1,Derek Dewayne Hopson Jr.,,99
+Lee,Unity,Court of Appeals Position 1,1,John Weddle,,456
+Lee,Unity,Court of Appeals Position 2,1,Donna M. Barnes,,506
+Lee,Unity,Chancery Court Place 1,1,Brad Tennison,,515
+Lee,Unity,Chancery Court Place 2,1,Michael Malski,,506
+Lee,Unity,Chancery Court Place 3,1,Jacqueline Mask,,514
+Lee,Unity,Chancery Court Place 4,1,Stephen T. Bailey,,500
+Lee,Unity,Circuit Court Place 1,1,John R. White,,500
+Lee,Unity,Circuit Court Place 2,1,Josh Wise,,499
+Lee,Unity,Circuit Court Place 3,1,Kelly L. Mims,,507
+Lee,Unity,Circuit Court Place 4,1,Michael P. 'Chip' Mills Jr.,,503
+Lee,Verona,U.S. Senate,,Scott Colom,DEM,544
+Lee,Verona,U.S. Senate,,Cindy Hyde-Smith,REP,92
+Lee,Verona,U.S. Senate,,Ty Pinkins,IND,5
+Lee,Verona,U.S. House,1,Johnny Baucom,LIB,12
+Lee,Verona,U.S. House,1,Cliff Johnson,DEM,511
+Lee,Verona,U.S. House,1,Trent Kelly,REP,106
+Lee,Verona,Court of Appeals Position 1,1,Derek Dewayne Hopson Jr.,,336
+Lee,Verona,Court of Appeals Position 1,1,John Weddle,,150
+Lee,Verona,Court of Appeals Position 2,1,Donna M. Barnes,,347
+Lee,Verona,Chancery Court Place 1,1,Brad Tennison,,340
+Lee,Verona,Chancery Court Place 2,1,Michael Malski,,331
+Lee,Verona,Chancery Court Place 3,1,Jacqueline Mask,,362
+Lee,Verona,Chancery Court Place 4,1,Stephen T. Bailey,,320
+Lee,Verona,Circuit Court Place 1,1,John R. White,,306
+Lee,Verona,Circuit Court Place 2,1,Josh Wise,,302
+Lee,Verona,Circuit Court Place 3,1,Kelly L. Mims,,324
+Lee,Verona,Circuit Court Place 4,1,Michael P. 'Chip' Mills Jr.,,306
+Lee,Veterans,U.S. Senate,,Scott Colom,DEM,389
+Lee,Veterans,U.S. Senate,,Cindy Hyde-Smith,REP,680
+Lee,Veterans,U.S. Senate,,Ty Pinkins,IND,35
+Lee,Veterans,U.S. House,1,Johnny Baucom,LIB,20
+Lee,Veterans,U.S. House,1,Cliff Johnson,DEM,364
+Lee,Veterans,U.S. House,1,Trent Kelly,REP,719
+Lee,Veterans,Court of Appeals Position 1,1,Derek Dewayne Hopson Jr.,,292
+Lee,Veterans,Court of Appeals Position 1,1,John Weddle,,664
+Lee,Veterans,Court of Appeals Position 2,1,Donna M. Barnes,,843
+Lee,Veterans,Chancery Court Place 1,1,Brad Tennison,,838
+Lee,Veterans,Chancery Court Place 2,1,Michael Malski,,830
+Lee,Veterans,Chancery Court Place 3,1,Jacqueline Mask,,856
+Lee,Veterans,Chancery Court Place 4,1,Stephen T. Bailey,,808
+Lee,Veterans,Circuit Court Place 1,1,John R. White,,804
+Lee,Veterans,Circuit Court Place 2,1,Josh Wise,,801
+Lee,Veterans,Circuit Court Place 3,1,Kelly L. Mims,,844
+Lee,Veterans,Circuit Court Place 4,1,Michael P. 'Chip' Mills Jr.,,813
