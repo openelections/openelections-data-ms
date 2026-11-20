@@ -1445,6 +1445,21 @@ User-approved replacement approach for header sourcing:
 5. Task 6/7/8 execution order per county becomes: manifest vision read first,
    then the CLI run gates against it. The notes report (Task 9) documents
    this procedure and each manifest's provenance.
+6. **Task 9 sketch update (Task 6 CLI review, 2026-11-19):** the manifest is
+   now first-class everywhere — the Task 9 wrapper sketch above predates
+   Task 6's CLI. Its `ex.main([...])` call must add
+   `["--manifest", f"2026/header-reads/{DATE}__ms__general__{county.lower()}__headers.json"]`
+   (the flag is required), and the cross-county roster call must pass the
+   manifest per county, matching `parse_county_pdf(pdf_path, county,
+   manifest_path, fuzzy=False)`:
+
+   ```python
+   parsed = [ex.parse_county_pdf(str(sources / status[c]["pdf"]), c,
+                                 f"2026/header-reads/{DATE}__ms__general__"
+                                 f"{c.lower()}__headers.json",
+                                 fuzzy=c in ("Jasper", "Lee"))
+             for c, s in status.items() if s.get("state") == "PASSED"]
+   ```
 
 ## Task 3 execution record (2026-11-19, disclosed deviations + decisions)
 
