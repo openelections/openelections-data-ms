@@ -1074,10 +1074,32 @@ class ManifestShapeTests(unittest.TestCase):
                          ({"county": "X", "source": "s", "total_label": "  ",
                            "pages": {"2": ["P1"]}}, "total_label"),
                          ({"county": "X", "source": "s", "total_label": "TOTAL",
-                           "pages": {"2": ["P1", 5]}}, "pages")):
+                           "pages": {"2": ["P1", 5]}}, "pages"),
+                         ({"county": "X", "source": "s", "total_label": "TOTAL",
+                           "pages": {"2": "P1"}}, "pages")):
             manifest, problems = ex.load_manifest(self.write_manifest(bad))
             self.assertTrue(any(p.get("kind") == "manifest_shape"
                                 and p.get("key") == key for p in problems), problems)
+
+    def test_bad_pages_shape_degrades_without_crash(self):
+        # A recorded-bad pages shape must degrade to page_unlabeled records
+        # plus the manifest_shape record -- loud but never an exception
+        # (the page-missing loop used to raise TypeError on list items).
+        tp = {"precinct_centers": [246.0], "table_top": 200.0,
+              "rows": [{"kind": "candidate", "candidate": "A", "party": "",
+                        "office": "U.S. Senate", "district": "", "seat": None,
+                        "top": 210.0, "bottom": 218.0, "cells": {246.0: 5}}],
+              "conflicts": []}
+        bad_pages = (["P1", "TOTAL"], [["2", ["P1"]], ["3", ["P1"]]],
+                     {"2": "P1"})
+        for pages_value in bad_pages:
+            manifest = {"county": "X", "source": "s", "total_label": "TOTAL",
+                        "pages": pages_value}
+            path = self.write_manifest(manifest)
+            pd = ex.parse_county_from_pages({"2": tp, "3": tp}, "X", path)
+            probs = ex.run_gates(pd)
+            self.assertTrue(any(p["kind"] == "manifest_shape"
+                                for p in probs["manifest"]), probs)
 
     def test_good_manifest_clean(self):
         good = {"county": "X", "source": "s", "total_label": "TOTAL",

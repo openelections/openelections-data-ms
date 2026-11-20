@@ -898,6 +898,10 @@ def load_manifest(path):
                          "problem": "pages must be a dict of "
                                     "page-number -> label-list, got "
                                     f"{type(page_map).__name__}"})
+    elif any(not isinstance(labels, list)
+             for labels in page_map.values()):
+        problems.append({"kind": "manifest_shape", "key": "pages",
+                         "problem": "every page's labels must be a list"})
     elif any(not isinstance(label, str)
              for labels in page_map.values()
              for label in (labels or [])):
@@ -1011,7 +1015,12 @@ def parse_county_from_pages(pages, county, manifest):
     conflicts = []
     dropped_local_rows = []
     total_label = manifest.get("total_label") or TOTAL_NAME
-    manifest_pages = manifest.get("pages") or {}
+    # A recorded-bad pages shape degrades to page_unlabeled for every
+    # extracted page plus the manifest_shape record -- loud but never an
+    # exception (a list value here used to reach the page-missing loop and
+    # raise TypeError on its list items).
+    manifest_pages = manifest.get("pages") \
+        if isinstance(manifest.get("pages"), dict) else {}
 
     def page_no(key):
         try:
@@ -1041,12 +1050,10 @@ def parse_county_from_pages(pages, county, manifest):
             (structure_problems if pr["kind"] == "empty_name"
              else manifest_problems).append(pr)
         by_center = {}
-        total_center = None
         for pos in range(max(len(labels), len(centers))):
             center = centers[pos] if pos < len(centers) else None
             if pos == total_pos:
                 if center is not None:
-                    total_center = center
                     by_center[center] = TOTAL_NAME
             elif center is not None:
                 by_center[center] = names[pos] if pos < len(names) else None
