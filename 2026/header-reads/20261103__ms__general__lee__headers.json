@@ -1,0 +1,30 @@
+{
+  "county": "Lee",
+  "source": "Lee_County_2026_general.pdf",
+  "election_date": "2026-11-03",
+  "read_by": "operator-vision (DRAFT - render-driven re-read by Task 8 execution, pending operator verification)",
+  "date": "2026-11-19",
+  "procedure": "Row streams and column stacks read from full-table renders of p2-p13 (cache/2026-general-text/header-strips/lee_p*_zone.png, 220 dpi) plus 700 dpi header zooms (lee_p2_headers) and the p2 cell crop (lee_p2_table). Labels read left-to-right per page; race sections re-verified wherever they repeat across column groups.",
+  "draft": true,
+  "extraction_note": "Phase C gate runs under THIS text layer fail with 0 candidate rows (cache/2026-general-text/lee_gate_fuzzyoff.txt, lee_gate_fuzzyon.txt): the layer reads almost no digits (1-7 junk x clusters per page against 11 real columns; the 251 dropped rows are letter debris), so no manifest mechanism can supply the cells - extraction requires a re-read (operator vision sweep or PaddleOCR) before this county can produce a CSV. The printed document is self-consistent: e.g. Cindy Hyde-Smith's p2+p3+p4 cells sum exactly to the printed TOTAL 14772, and p1 is an undeclared certification cover whose fabricated one-cluster extraction yields the page_unlabeled gate record. With the draft labels in place, p2-p9's failures reduce to column_count mismatches only - the row-block/carry structure above is ready for a re-extraction of the printed values.",
+  "structure_note": "Rolling multi-row-block column-split table (34 columns = 33 precincts + TOTAL), the Union/Warren scheme at 3 column groups per row block: p2+p3+p4 are row block 1's column pages and p5 is its TOTAL page (11 columns each: A/B/C groups repeat on p6/p7/p8 with p9 as the second block's TOTAL page). Row block 1 races: U.S. Senate (Scott Colom, Cindy Hyde-Smith, Ty Pinkins), US House Of Rep 01-1st Congressional District (Johnny Baucom LIB, Cliff Johnson DEM, Trent Kelly REP), Court Of Appeals 01-District 1 Position 1 (Derek Dewayne Hopson Jr., John Weddle, Nonpartisan), Position 2 (Donna M. Barnes, sole candidate), Chancery Court 1-Chancery District 1 Place 1 (Brad Tennison) - each section reprints fully on p2/p3/p4 with p5 carrying only the TOTAL cells. Row block 2 (p6 group A, p7 group B, p8 group C, p9 TOTAL): Chancery Court 1 Place 2 (Michael Malski, whose row prints at the TOP of p6/p7/p8/p9 ahead of the block's first header box - carry_pages declares those), Chancery Court 1 Place 3 (Jacqueline Mask), Place 4 (Stephen T. Bailey), Circuit Court 1-Circuit District 01 Place 1 (John R. White), Place 2 (Josh Wise), Place 3 (Kelly L. Mims), Place 4 (Michael P. 'Chip' Mills Jr.). p13 is the local block's final TOTAL page. Render-verified printed county totals on p5/p9: Colom 10524, Hyde-Smith 14772, Pinkins 505, Baucom 339, Johnson 9762, Kelly 15631, Hopson 7806, Weddle 15273, Barnes 20041, Tennison 19996, Malski 19874, Mask 20386, Bailey 19551, White 19461, Wise 19439, Mims 20134, Mills 19538.",
+  "truncation_note": "No page-edge truncations on this document; every column name matches the county's 2026 primary/2024 general precinct lists (render-verified on the p2/p3/p4/p6 renders; 'TFM #5' and 'Veterans' read complete).",
+  "local_note": "p10-p13 are the THIRD row block and are local-races pages (Lee-COUNTY COURT JUDGE POSITION 1: Staci Shumpert Bevill + Stephen P. Spencer; POSITION 2: same two; School District SC5-School District 5 trustee: Ashley Dawe Beane; X-heavy cells), declared local_only_pages - p9's final County Court header opens that block and p13 closes it. p1 is the certification cover page (signatures, no table); it is undeclared because this PDF's text layer fabricates a one-cluster 'table' on p1.",
+  "total_label": "TOTAL",
+  "carry_pages": ["6", "7", "8", "9"],
+  "local_only_pages": ["10", "11", "12", "13"],
+  "pages": {
+    "2": ["Pratts", "Baldwyn", "Guntown", "Friendship", "Unity", "Auburn", "Oak Hill", "Veterans", "Tupelo 1", "Cedar Hill", "Tupelo 2"],
+    "3": ["Beech Springs", "Birmingham Ridge", "Euclatubba", "Saltillo", "Belden", "TFM #5", "Tupelo 3", "Palmetto", "Pleasant Grove", "Old Union", "Verona"],
+    "4": ["Tupelo 4 North", "Tupelo 4 South", "Brewer", "Shannon", "Richmond", "Plantersville", "Tupelo 5", "Eggville", "Mooreville", "Nettleton", "Gilvo"],
+    "5": ["TOTAL"],
+    "6": ["Pratts", "Baldwyn", "Guntown", "Friendship", "Unity", "Auburn", "Oak Hill", "Veterans", "Tupelo 1", "Cedar Hill", "Tupelo 2"],
+    "7": ["Beech Springs", "Birmingham Ridge", "Euclatubba", "Saltillo", "Belden", "TFM #5", "Tupelo 3", "Palmetto", "Pleasant Grove", "Old Union", "Verona"],
+    "8": ["Tupelo 4 North", "Tupelo 4 South", "Brewer", "Shannon", "Richmond", "Plantersville", "Tupelo 5", "Eggville", "Mooreville", "Nettleton", "Gilvo"],
+    "9": ["TOTAL"],
+    "10": ["Pratts", "Baldwyn", "Guntown", "Friendship", "Unity", "Auburn", "Oak Hill", "Veterans", "Tupelo 1", "Cedar Hill", "Tupelo 2"],
+    "11": ["Beech Springs", "Birmingham Ridge", "Euclatubba", "Saltillo", "Belden", "TFM #5", "Tupelo 3", "Palmetto", "Pleasant Grove", "Old Union", "Verona"],
+    "12": ["Tupelo 4 North", "Tupelo 4 South", "Brewer", "Shannon", "Richmond", "Plantersville", "Tupelo 5", "Eggville", "Mooreville", "Nettleton", "Gilvo"],
+    "13": ["TOTAL"]
+  }
+}
