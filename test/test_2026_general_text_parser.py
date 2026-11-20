@@ -877,29 +877,79 @@ class JasperTextLayerTests(unittest.TestCase):
         self.assertEqual(widened["rows"][0]["kind"], "office")
         self.assertEqual(widened["rows"][1].get("candidate"), "Scott colom Demo")
 
-    def test_finalized_manifest_assembles_p2_p3_and_supplies_p4_p5(self):
+    def test_finalized_manifest_supplies_the_whole_grid(self):
         # through parse_county_pdf under the committed finalized manifest:
-        # p2 binds its 11 labels to 11 detected columns (widened anchor),
-        # p3 its 3 labels (page_min_columns floor 2), and p4/p5 are
-        # operator-supply pages -- never a column_count or page_missing
-        # problem -- whose Sorey row arrives entirely through operator_rows
+        # every in-scope page (p2-p5) is operator-supplied -- the OCR layer's
+        # digit tokens are corrupt beyond token repair on all of them -- so
+        # the county parses with an empty layer table-page set and all 11
+        # rows arrive through operator_rows keyed on the declared labels
         pd = ex.parse_county_pdf(
             self.JASPER, "Jasper",
             manifest_path=os.path.join(REPO, "2026/header-reads/"
                                        "20261103__ms__general__jasper__headers.json"))
-        p2 = (pd["alignments"].get("2") or {}).get("names_by_center") or {}
-        self.assertEqual(len(p2), 11)
-        self.assertNotIn("TOTAL", p2.values())
-        p3 = (pd["alignments"].get("3") or {}).get("names_by_center") or {}
-        self.assertEqual(len(p3), 3)
-        self.assertEqual(set(p3.values()), {"Rose Hill", "Stringer", "TOTAL"})
+        self.assertEqual(pd["pages_used"], [])
+        self.assertEqual([r["page"] for r in pd["operator_supply_pages"]],
+                         [2, 3, 4, 5])
         self.assertEqual(
             [p for p in pd["manifest_problems"]
              if p["kind"] in ("column_count", "page_missing")], [])
-        # the operator row: 13 cells keyed by the p4/p5 label positions,
-        # total from the p5 TOTAL position (index 2)
-        self.assertEqual([r["page"] for r in pd["operator_supply_pages"]],
-                         [4, 5])
+        # 13 precincts: the p2 column group plus Rose Hill and Stringer
+        self.assertEqual(len(pd["precinct_names"]), 13)
+        self.assertEqual(
+            sorted(pd["precinct_names"]),
+            sorted(["Antioch", "Bay Springs Beat 3", "Bay Springs Beat 4",
+                    "Claiborne", "Heidelberg", "Holders", "Louin", "Montrose",
+                    "Moss", "Moss East", "Paulding", "Rose Hill", "Stringer"]))
+        problems = ex.run_gates(pd)
+        for kind in ("total_mismatches", "structure", "conflicts",
+                     "manifest", "party"):
+            self.assertEqual(problems[kind], [])
+        # ballot order: operator_rows insertion order (block 1 then the
+        # Circuit 13 section), 154 applications = 11 rows x (13 vote cells
+        # + 1 printed-TOTAL cell read)
+        self.assertEqual([r["candidate"] for r in pd["candidate_rows"]], [
+            "Scott Colom", "Cindy Hyde-Smith", "Ty Pinkins",
+            "Michael A. Chiaradio", "Michael Guest", "Erik Klehle",
+            "Roy Noble Lee Jr.", "Gerald M. Martin", "David Shoemake",
+            "Matthew G. Sullivan", "Stanley Sorey"])
+        self.assertEqual(len(pd["operator_cells_applied"]), 154)
+        roster = {(r["office"], r["district"], r.get("seat"), r["party"])
+                  for r in pd["candidate_rows"]}
+        self.assertEqual(roster, {
+            ("U.S. Senate", "", None, "DEM"),
+            ("U.S. Senate", "", None, "REP"),
+            ("U.S. Senate", "", None, "IND"),
+            ("U.S. House", "3", None, "DEM"),
+            ("U.S. House", "3", None, "REP"),
+            ("U.S. House", "3", None, "LIB"),
+            ("Chancery Court", "2", 1, ""), ("Chancery Court", "2", 2, ""),
+            ("Chancery Court", "2", 3, ""),
+            ("Circuit Court", "13", 1, ""), ("Circuit Court", "13", 2, "")})
+        self.assertEqual(ex.multi_seat_keys(pd), {("Chancery Court", "2"),
+                                                  ("Circuit Court", "13")})
+        # Sullivan's adjudicated Holders cell (printed 283; the prior
+        # phase's grid read 280 -- see
+        # 2026/20261103__ms__general__jasper__discrepancies.md)
+        (sullivan, *rest) = [r for r in pd["candidate_rows"]
+                             if r["candidate"] == "Matthew G. Sullivan"]
+        self.assertEqual(rest, [])
+        self.assertEqual(sullivan["cells"]["Holders"], 283)
+        # printed totals: every row's 13 precinct cells sum to its printed
+        # county TOTAL (p3/p5 TOTAL columns)
+        totals = {"Scott Colom": 3488, "Cindy Hyde-Smith": 2609,
+                  "Ty Pinkins": 108, "Michael A. Chiaradio": 3383,
+                  "Michael Guest": 2736, "Erik Klehle": 51,
+                  "Roy Noble Lee Jr.": 4951, "Gerald M. Martin": 4952,
+                  "David Shoemake": 4970, "Matthew G. Sullivan": 4984,
+                  "Stanley Sorey": 4945}
+        for row in pd["candidate_rows"]:
+            self.assertEqual(len(row["cells"]), 13, row["candidate"])
+            self.assertEqual(sum(row["cells"].values()), row["total"],
+                             row["candidate"])
+            self.assertEqual(row["total"], totals[row["candidate"]],
+                             row["candidate"])
+        # Sorey's row is unmoved: identity and cells keyed on the p4/p5
+        # label positions, total from the p5 TOTAL position (index 2)
         (sorey, *rest) = [r for r in pd["candidate_rows"]
                           if r["candidate"] == "Stanley Sorey"]
         self.assertEqual(rest, [])
@@ -913,17 +963,46 @@ class JasperTextLayerTests(unittest.TestCase):
             "Montrose": 169, "Moss": 233, "Moss East": 172,
             "Paulding": 649, "Rose Hill": 414, "Stringer": 523})
         self.assertEqual(sorey["total"], 4945)
-        self.assertEqual(sum(sorey["cells"].values()), sorey["total"])
-        # 14 applications = 13 vote cells (11 on p4, 2 on p5) + the p5 TOTAL
-        # cell read, which is the row's printed total, not an extra vote
-        self.assertEqual(len(pd["operator_cells_applied"]), 14)
+
+    def test_written_csv_shape_labels_and_dup_free(self):
+        import csv as _csv
+        import tempfile
+        pd = ex.parse_county_pdf(
+            self.JASPER, "Jasper",
+            manifest_path=os.path.join(REPO, "2026/header-reads/"
+                                       "20261103__ms__general__jasper__headers.json"))
+        tmp = tempfile.mkdtemp()
+        self.addCleanup(lambda: __import__("shutil").rmtree(tmp, True))
+        out = os.path.join(tmp, "jasper__precinct.csv")
+        ex.write_precinct_csv(pd, out)
+        with open(out) as fh:
+            rows = list(_csv.DictReader(fh))
+        # 11 candidates x 13 precincts
+        self.assertEqual(len(rows), 143)
+        self.assertEqual(len({(r["precinct"], r["office"], r["candidate"])
+                              for r in rows}), len(rows))
+        self.assertEqual(sorted({r["precinct"] for r in rows},
+                                key=lambda p: p.lower())[0], "Antioch")
+        self.assertEqual([(r["office"], r["district"], r["party"])
+                          for r in rows if r["precinct"] == "Antioch"], [
+            ("U.S. Senate", "", "DEM"), ("U.S. Senate", "", "REP"),
+            ("U.S. Senate", "", "IND"), ("U.S. House", "3", "DEM"),
+            ("U.S. House", "3", "REP"), ("U.S. House", "3", "LIB"),
+            ("Chancery Court Place 1", "2", ""),
+            ("Chancery Court Place 2", "2", ""),
+            ("Chancery Court Place 3", "2", ""),
+            ("Circuit Court Place 1", "13", ""),
+            ("Circuit Court Place 2", "13", "")])
+        import csv as _csv2
+        union = os.path.join(REPO, "2026/counties/"
+                             "20261103__ms__general__union__precinct.csv")
+        with open(union) as fh:
+            union_rows = list(_csv2.DictReader(fh))
         self.assertEqual(
-            [r["precinct"] for r in pd["operator_cells_applied"]
-             if r["page"] == 5],
-            ["Rose Hill", "Stringer", "TOTAL"])
-        self.assertEqual(
-            sorted(r["mechanism"] for r in pd["operator_cells_applied"]),
-            ["operator_rows"] * 14)
+            {(r["candidate"], r["party"]) for r in pd["candidate_rows"]
+             if r["office"] == "U.S. Senate"},
+            {(r["candidate"], r["party"]) for r in union_rows
+             if r["office"] == "U.S. Senate"})
 
 
 class AssemblyTests(unittest.TestCase):

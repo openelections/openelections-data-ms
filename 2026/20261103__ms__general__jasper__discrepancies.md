@@ -1,6 +1,14 @@
 # Jasper 2026 general — operator-grid discrepancy report (2026-11-19, Task 8)
 
-Status: **operator adjudication requested.** Item 3's plan was to convert the
+Status: **RESOLVED-BY-PRINT (adjudicated 2026-11-19).** The coordinator read
+the render directly (`jas_p2_sullivan_b.png`: 242 | 765 | 283 | 369 | 170,
+unambiguous) and the printed-TOTAL referee agrees (only 283 yields
+Σ = 4984); the adjudicated value 283 is in the manifest's Sullivan
+`operator_rows` entry, and the county CSV was generated from the whole-grid
+conversion. The report below is the pre-adjudication evidence, kept as the
+record of why the cell changed.
+
+The original plan was to convert the
 whole Jasper grid to `operator_rows` (the p2/p3 layer digits are corrupt
 beyond token repairs) and generate the CSV. Before writing any manifest rows,
 every page strip was re-rendered and each row's cross-page cell sum was
