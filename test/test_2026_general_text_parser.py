@@ -2643,6 +2643,29 @@ class ManifestDeclarationTests(unittest.TestCase):
             [{"kind": "manifest_shape", "key": "cell_token_repairs",
               "problem": "page key 'bogus' is not a page number"}])
 
+    def test_non_decimal_digit_page_keys_recorded(self):
+        # '²'.isdigit() is True while int('²') raises: the page-key guards and
+        # the parse must share one helper, so a superscript glyph records a
+        # manifest_shape problem in every block -- every bad key, never a
+        # crash and never a silent drop
+        manifest, problems = ex.load_manifest(self.path({
+            "cell_token_repairs": {"²": {"3.3.3": "283"},
+                                   "bogus": {"AO.": "484"}},
+            "operator_cells": {"²": {"A": {"0": 7}}},
+            "operator_rows": [{"key": "h", "candidate": "Cindy Hyde-Smith",
+                               "office": "U.S. Senate",
+                               "cells": {"²": {"0": 1}}}],
+        }))
+        for key, count in (("cell_token_repairs", 2),
+                           ("operator_cells", 1),
+                           ("operator_rows", 1)):
+            records = [p for p in problems
+                       if p["kind"] == "manifest_shape" and p["key"] == key]
+            self.assertEqual(len(records), count, (key, problems))
+            self.assertTrue(
+                all("is not a page number" in p["problem"] for p in records),
+                (key, records))
+
     def test_declared_pages_stay_clean(self):
         manifest, problems = ex.load_manifest(
             self.path({"local_only_pages": ["2"],
@@ -3563,6 +3586,33 @@ class BatchRunnerTests(unittest.TestCase):
                          ["Union", "Lee"])
         self.assertEqual(batch.select_counties(["Neshoba"]), [])
 
+    def test_only_split_reports_unknown_names(self):
+        self.assertEqual(batch.only_split(["Lee", "Neshoba"]),
+                         (["Lee"], ["Neshoba"]))
+        self.assertEqual(batch.only_split(None),
+                         (batch.TEXT_LAYER_COUNTIES, []))
+        self.assertEqual(batch.only_split([]),
+                         (batch.TEXT_LAYER_COUNTIES, []))
+        self.assertEqual(batch.only_split(["Neshoba", "nesoba"]),
+                         ([], ["Neshoba", "nesoba"]))
+
+    def test_main_refuses_vacuous_only_without_touching_status(self):
+        # a typo'd --only must not run a vacuous batch, print success, and
+        # clobber status.json's roster section with an empty county set
+        import tempfile
+        tmp = tempfile.TemporaryDirectory()
+        self.addCleanup(tmp.cleanup)
+        cache_dir = os.path.join(tmp.name, "cache")
+        rc = batch.main(["--sources-dir", str(tmp.name), "--only", "Neshoba",
+                         "--cache-dir", cache_dir])
+        self.assertEqual(rc, 2)
+        self.assertFalse(os.path.exists(
+            os.path.join(cache_dir, "status.json")))
+
+    def test_run_batch_refuses_vacuous_only(self):
+        with self.assertRaises(ValueError):
+            batch.run_batch("irrelevant", only=["Neshoba"])
+
     def test_run_county_reports_error_on_missing_source(self):
         import tempfile
         tmp = tempfile.TemporaryDirectory()
@@ -3572,6 +3622,45 @@ class BatchRunnerTests(unittest.TestCase):
         self.assertEqual(record["state"], "ERROR")
         self.assertEqual(record["problems"], [{"kind": "source_missing",
                                                "pdf": str(job["pdf"])}])
+
+    @unittest.skipUnless(SOURCES_PRESENT, "sources checkout not present")
+    def test_run_county_diagnosis_write_is_recorded(self):
+        # under --allow-gate-failures main() returns 0 for a diagnosis-only
+        # write: the record must say that, not read clean and forever
+        # resumable -- problems stay in the PASSED record and all_passed/exit
+        # reads them as a not-clean run (main()'s prints are captured)
+        import contextlib
+        import io as _io
+        import json as _json
+        import tempfile
+        quiet = contextlib.redirect_stdout(_io.StringIO())
+        quiet.__enter__()
+        self.addCleanup(quiet.__exit__, None, None, None)
+        base = os.path.join(REPO, "2026/header-reads/"
+                            "20261103__ms__general__union__headers.json")
+        with open(base) as fh:
+            manifest = _json.load(fh)
+        # one extra label on p2: a column_count gate problem, so main()
+        # holds the CSV normally and writes it diagnosis-only under the flag
+        manifest["pages"]["2"] = manifest["pages"]["2"] + ["ZZ Unaligned"]
+        tmp = tempfile.TemporaryDirectory()
+        self.addCleanup(tmp.cleanup)
+        bad_manifest = os.path.join(tmp.name, "broken__headers.json")
+        with open(bad_manifest, "w") as fh:
+            _json.dump(manifest, fh)
+        job = batch.county_job("Union", os.path.dirname(os.path.dirname(
+            SOURCES_DIR)))  # the sources checkout root
+        job["manifest"] = bad_manifest
+        job["out_csv"] = os.path.join(tmp.name, "union__precinct.csv")
+        record = batch.run_county(job, allow_gate_failures=True)
+        self.assertEqual(record["state"], "PASSED")
+        self.assertTrue(record["written_with_gate_failures"])
+        self.assertTrue(record["problems"])
+        # without the flag the same county is held, never clean-passed
+        held = batch.run_county(job)
+        self.assertEqual(held["state"], "FAILED")
+        self.assertNotIn("written_with_gate_failures", held)
+        self.assertEqual(held["problems"], record["problems"])
 
 
 class CliSummaryTests(unittest.TestCase):

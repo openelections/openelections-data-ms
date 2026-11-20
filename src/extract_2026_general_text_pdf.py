@@ -1174,6 +1174,18 @@ MANIFEST_OPERATOR_ROWS_KEY = "operator_rows"
 MANIFEST_SUPPLY_KEY = "operator_supply_pages"
 
 
+def page_number(value):
+    """int(value) for a page-number-shaped manifest key, else None.
+
+    str.isdigit() alone is not a page-number test ('²'.isdigit() is True
+    while int('²') raises) and int() is not a guard, so every page-key
+    block's guard AND parse share this one helper."""
+    try:
+        return int(str(value))
+    except (TypeError, ValueError):
+        return None
+
+
 def manifest_numbers(manifest, key):
     """Int page numbers declared under manifest[key] (list of page strings or
     ints). A missing or shape-bad value degrades to an empty set -- the shape
@@ -1247,10 +1259,9 @@ def load_manifest(path):
     declared = set()
     if not pages_shape_bad:
         for key in page_map:
-            try:
-                declared.add(int(str(key)))
-            except ValueError:
-                continue
+            page = page_number(key)
+            if page is not None:
+                declared.add(page)
 
     def undeclared_pages(numbers):
         return [n for n in numbers if int(n) not in declared]
@@ -1278,22 +1289,25 @@ def load_manifest(path):
         if bad:
             problems.append({"kind": "manifest_shape",
                              "key": MANIFEST_REPAIRS_KEY, "problem": bad})
-        elif not pages_shape_bad:
-            # a page key that is not an integer cannot bind to a page either:
-            # recorded like the sibling blocks record theirs, never crashed on
-            # and never silently dropped
-            for k in (str(k) for k in repairs if not str(k).strip().isdigit()):
-                problems.append({
-                    "kind": "manifest_shape", "key": MANIFEST_REPAIRS_KEY,
-                    "problem": f"page key {k!r} is not a page number"})
-            missing = undeclared_pages(
-                int(str(k)) for k in repairs if str(k).strip().isdigit())
-            if missing:
-                problems.append({
-                    "kind": "manifest_shape", "key": MANIFEST_REPAIRS_KEY,
-                    "problem": "page "
-                               + ", ".join(str(m) for m in missing)
-                               + " not declared under pages"})
+        else:
+            # a page key that is not a page number cannot bind to a page
+            # either: every such key is recorded, never crashed on and never
+            # silently dropped
+            numbers = {k: page_number(k) for k in repairs}
+            for k, number in numbers.items():
+                if number is None:
+                    problems.append({
+                        "kind": "manifest_shape", "key": MANIFEST_REPAIRS_KEY,
+                        "problem": f"page key {k!r} is not a page number"})
+            if not pages_shape_bad:
+                missing = undeclared_pages(
+                    n for n in numbers.values() if n is not None)
+                if missing:
+                    problems.append({
+                        "kind": "manifest_shape", "key": MANIFEST_REPAIRS_KEY,
+                        "problem": "page "
+                                   + ", ".join(str(m) for m in missing)
+                                   + " not declared under pages"})
     total_label = manifest.get("total_label")
     if not isinstance(total_label, str) or not total_label.strip():
         problems.append({"kind": "manifest_shape", "key": "total_label",
@@ -1305,26 +1319,32 @@ def load_manifest(path):
             bad = ("must be a dict of page -> floor (int >= "
                    f"{MIN_TABLE_TOP_FLOOR}), got {type(overrides).__name__}")
         else:
+            # every bad key and every bad floor is recorded, uniformly with
+            # the page-keyed operator blocks
             for key, value in overrides.items():
-                try:
-                    page = int(str(key))
-                except ValueError:
-                    bad = f"page key {key!r} is not a page number"
-                    break
-                if isinstance(value, bool) or not isinstance(value, int):
-                    bad = (f"page {page}'s floor must be an int >= "
-                           f"{MIN_TABLE_TOP_FLOOR}, got {value!r}")
-                    break
-                if value < MIN_TABLE_TOP_FLOOR:
-                    bad = (f"page {page}'s floor must be an int >= "
-                           f"{MIN_TABLE_TOP_FLOOR}, got {value!r}")
-                    break
+                page = page_number(key)
+                if page is None:
+                    problems.append({
+                        "kind": "manifest_shape",
+                        "key": MANIFEST_MIN_COLUMNS_KEY,
+                        "problem": f"page key {key!r} is not a page "
+                                   "number"})
+                    continue
+                if isinstance(value, bool) or not isinstance(value, int) \
+                        or value < MIN_TABLE_TOP_FLOOR:
+                    problems.append({
+                        "kind": "manifest_shape",
+                        "key": MANIFEST_MIN_COLUMNS_KEY,
+                        "problem": f"page {page}'s floor must be an int "
+                                   f">= {MIN_TABLE_TOP_FLOOR}, got "
+                                   f"{value!r}"})
         if bad:
             problems.append({"kind": "manifest_shape",
                              "key": MANIFEST_MIN_COLUMNS_KEY, "problem": bad})
         elif not pages_shape_bad:
             missing = undeclared_pages(
-                int(str(k)) for k in overrides if str(k).strip())
+                n for n in (page_number(k) for k in overrides)
+                if n is not None)
             if missing:
                 problems.append({
                     "kind": "manifest_shape",
@@ -1361,23 +1381,26 @@ def load_manifest(path):
             problems.append({"kind": "manifest_shape",
                              "key": MANIFEST_OPERATOR_CELLS_KEY,
                              "problem": bad})
-        elif not pages_shape_bad:
-            # a page key that is not an integer cannot bind to a page either:
-            # recorded, never dropped silently
-            for k in (str(k) for k in cells if not str(k).strip().isdigit()):
-                problems.append({
-                    "kind": "manifest_shape",
-                    "key": MANIFEST_OPERATOR_CELLS_KEY,
-                    "problem": f"page key {k!r} is not a page number"})
-            missing = undeclared_pages(
-                int(str(k)) for k in cells if str(k).strip().isdigit())
-            if missing:
-                problems.append({
-                    "kind": "manifest_shape",
-                    "key": MANIFEST_OPERATOR_CELLS_KEY,
-                    "problem": "page "
-                               + ", ".join(str(m) for m in missing)
-                               + " not declared under pages"})
+        else:
+            # a page key that is not a page number cannot bind to a page
+            # either: every such key is recorded, never dropped silently
+            numbers = {k: page_number(k) for k in cells}
+            for k, number in numbers.items():
+                if number is None:
+                    problems.append({
+                        "kind": "manifest_shape",
+                        "key": MANIFEST_OPERATOR_CELLS_KEY,
+                        "problem": f"page key {k!r} is not a page number"})
+            if not pages_shape_bad:
+                missing = undeclared_pages(
+                    n for n in numbers.values() if n is not None)
+                if missing:
+                    problems.append({
+                        "kind": "manifest_shape",
+                        "key": MANIFEST_OPERATOR_CELLS_KEY,
+                        "problem": "page "
+                                   + ", ".join(str(m) for m in missing)
+                                   + " not declared under pages"})
     if MANIFEST_OPERATOR_ROWS_KEY in manifest:
         bad = None
         rows = manifest[MANIFEST_OPERATOR_ROWS_KEY]
@@ -1412,28 +1435,29 @@ def load_manifest(path):
         if bad:
             problems.append({"kind": "manifest_shape",
                              "key": MANIFEST_OPERATOR_ROWS_KEY, "problem": bad})
-        elif not pages_shape_bad:
-            # a cells page key that is not an integer cannot bind to a page
-            # either: recorded, never dropped silently
-            for k in sorted({str(k) for entry in rows
-                             for k in (entry.get("cells") or {})
-                             if not str(k).strip().isdigit()}):
-                problems.append({
-                    "kind": "manifest_shape",
-                    "key": MANIFEST_OPERATOR_ROWS_KEY,
-                    "problem": f"page key {k!r} is not a page number"})
-            referenced = {
-                int(str(k)) for entry in rows
-                for k in (entry.get("cells") or {})
-                if isinstance(entry, dict) and str(k).strip().isdigit()}
-            missing = undeclared_pages(referenced)
-            if missing:
-                problems.append({
-                    "kind": "manifest_shape",
-                    "key": MANIFEST_OPERATOR_ROWS_KEY,
-                    "problem": "page "
-                               + ", ".join(str(m) for m in missing)
-                               + " not declared under pages"})
+        else:
+            # a cells page key that is not a page number cannot bind to a
+            # page either: every such key is recorded, never dropped silently
+            numbers = []  # (key, page or None) per cells key, encounter order
+            for entry in rows:
+                for k in (entry.get("cells") or {}):
+                    numbers.append((k, page_number(k)))
+            for k, number in numbers:
+                if number is None:
+                    problems.append({
+                        "kind": "manifest_shape",
+                        "key": MANIFEST_OPERATOR_ROWS_KEY,
+                        "problem": f"page key {k!r} is not a page number"})
+            if not pages_shape_bad:
+                missing = undeclared_pages(
+                    {n for _, n in numbers if n is not None})
+                if missing:
+                    problems.append({
+                        "kind": "manifest_shape",
+                        "key": MANIFEST_OPERATOR_ROWS_KEY,
+                        "problem": "page "
+                                   + ", ".join(str(m) for m in missing)
+                                   + " not declared under pages"})
     if MANIFEST_SUPPLY_KEY in manifest:
         bad = None
         if not isinstance(manifest[MANIFEST_SUPPLY_KEY], list) \
@@ -2529,7 +2553,13 @@ def check_roster_shared_races(county_parses):
     counties in name order and candidates sorted for a stable diff. Races a
     single county prints are beyond this gate's reach; empty/absent parses
     are tolerated (an empty parse is not a clean roster -- whether a county
-    may parse at all stays the per-county gates' problem)."""
+    may parse at all stays the per-county gates' problem).
+
+    Known blind spots, accepted for a gate that judges families: the
+    (office, district) key is SEAT-BLIND, so a seat swap carrying an
+    identical (candidate, party) set reads clean, and a None party is
+    normalized to "" (the nonpartisan marker) rather than flagged -- unknown
+    parties stay the per-county party gate's problem."""
     rosters = {}
     for county, pd in (county_parses or {}).items():
         for row in (pd.get("candidate_rows") or []):

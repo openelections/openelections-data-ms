@@ -4,10 +4,10 @@ the deterministic text-layer pipeline (Union, Warren, Jasper, Lee).
 Per county this hands the county's PDF, operator header manifest and output
 CSV to extract_2026_general_text_pdf.main() -- the same gates and CSV writer
 the single-county invocation uses, so the runner adds no parsing of its own.
-After all four counties it re-loads the four parse dicts and runs the
-cross-county roster gate (check_roster_shared_races): every (office,
-district) race two or more converted counties print must carry the identical
-(candidate, party) roster in each.
+After all four counties it re-parses each one and runs the cross-county
+roster gate (check_roster_shared_races): every (office, district) race two
+or more converted counties print must carry the identical (candidate,
+party) roster in each.
 
 State is tracked in <cache-dir>/status.json (resumable: a county already
 PASSED is skipped unless --force; the roster stage always re-runs, since a
@@ -68,24 +68,45 @@ def county_job(county, sources_dir):
             "out_csv": precinct_csv_path(county)}
 
 
+def only_split(only):
+    """(counties to run in canonical order, unknown --only names).
+
+    Unknown names cannot have a manifest, so they are dropped -- loudly: the
+    caller prints them, and a selection that leaves ZERO counties is refused
+    outright (a vacuous batch would print success, exit 0 and overwrite
+    status.json's roster section with an empty county set)."""
+    if not only:
+        return list(TEXT_LAYER_COUNTIES), []
+    wanted = {c.lower() for c in TEXT_LAYER_COUNTIES}
+    return ([c for c in TEXT_LAYER_COUNTIES if c.lower() in
+             {n.lower() for n in only}],
+            [n for n in only if n.lower() not in wanted])
+
+
 def select_counties(only):
     """The county list to run: the canonical list when --only is absent;
-    otherwise its members in canonical order -- unknown names, which cannot
-    have a manifest, are dropped."""
-    if not only:
-        return list(TEXT_LAYER_COUNTIES)
-    wanted = [c.lower() for c in only]
-    return [c for c in TEXT_LAYER_COUNTIES if c.lower() in wanted]
+    otherwise its members in canonical order (unknown names dropped)."""
+    return only_split(only)[0]
+
+
+def _derive_gate_problems(job, county):
+    """The county's gate problems from a fresh parse (raises on a broken
+    parse; callers record that as an ERROR)."""
+    pd = ex.parse_county_pdf(job["pdf"], county, job["manifest"])
+    return ex.run_gates(pd)
 
 
 def run_county(job, allow_gate_failures=False):
     """One county through the module's main(); returns the status record
     {county, state: PASSED|FAILED|ERROR, problems: [...]}.
 
-    PASSED means main() returned 0 (its gates clean, CSV written); FAILED
-    means it held the CSV back -- the county is re-parsed so the record
-    carries the gate problems that held it; ERROR means the run itself
-    broke (missing source, an exception). main()'s own prints carry the
+    PASSED means main() returned 0 (its gates clean and the CSV written);
+    FAILED means main() held the CSV back -- the county is re-parsed so the
+    record carries the gate problems that held it; ERROR means the run
+    itself broke (missing source, an exception). Under --allow-gate-failures
+    main() returns 0 for a DIAGNOSIS-ONLY write too, so a record carrying
+    non-empty problems is marked "written_with_gate_failures" -- it must
+    never read as a clean, resumable pass. main()'s own prints carry the
     per-problem lines."""
     county = job["county"]
     if not Path(job["pdf"]).exists():
@@ -103,12 +124,26 @@ def run_county(job, allow_gate_failures=False):
                               "error_type": type(e).__name__,
                               "error": str(e)}]}
     if rc == 0:
-        return {"county": county, "state": "PASSED", "problems": []}
+        record = {"county": county, "state": "PASSED", "problems": []}
+        if allow_gate_failures:
+            # the 0 could be a clean pass or a diagnosis-only write: the
+            # record says which, so all_passed/exit reflects reality
+            try:
+                problems = _derive_gate_problems(job, county)
+            except Exception as e:
+                return {"county": county, "state": "ERROR",
+                        "problems": [{"kind": "exception",
+                                      "error_type": type(e).__name__,
+                                      "error": str(e)}]}
+            gated = {kind: items for kind, items in problems.items() if items}
+            if gated:
+                record["written_with_gate_failures"] = True
+                record["problems"] = gated
+        return record
     # the gates held the CSV: re-derive the problems so the status record
     # carries them (main() prints them; status.json keeps them queryable)
     try:
-        pd = ex.parse_county_pdf(job["pdf"], county, job["manifest"])
-        problems = ex.run_gates(pd)
+        problems = _derive_gate_problems(job, county)
     except Exception as e:
         return {"county": county, "state": "ERROR",
                 "problems": [{"kind": "exception",
@@ -133,10 +168,20 @@ def save_status(status_path, status):
 def run_batch(sources_dir, only=None, cache_dir=DEFAULT_CACHE_DIR,
               force=False, allow_gate_failures=False):
     """Run the selected counties, then the roster gate over their parses.
-    Returns (status, roster_problems, all_passed)."""
+    Returns (status, roster_problems, all_passed). A vacuous --only refuses
+    to run at all (the runner would otherwise print success and overwrite
+    status.json's roster section with an empty county set)."""
+    selected, unknown = only_split(only)
+    if unknown:
+        print(f"! unknown county name(s), dropped from the run: "
+              f"{', '.join(unknown)}")
+    if only and not selected:
+        raise ValueError(
+            "--only selected zero counties (unknown name(s): "
+            f"{', '.join(unknown)}); nothing to run")
     status_path = Path(cache_dir) / "status.json"
     status = load_status(status_path)
-    for county in select_counties(only):
+    for county in selected:
         job = county_job(county, sources_dir)
         previous = status.get(county) or {}
         if not force and previous.get("state") == "PASSED":
@@ -147,15 +192,24 @@ def run_batch(sources_dir, only=None, cache_dir=DEFAULT_CACHE_DIR,
         status[county] = record
         save_status(status_path, status)
         problems = record["problems"]
+        if record["state"] == "ERROR":
+            (first,) = (problems if problems else [])
+            detail = ", ".join(f"{k}={v}" for k, v in first.items()
+                               if k != "kind")
+            print(f"{county}: {record['state']} "
+                  f"({first['kind']}: {detail})")
+            continue
         n_bad = (sum(len(v) for v in problems.values())
                  if isinstance(problems, dict) else len(problems))
-        print(f"{county}: {record['state']} ({n_bad} problem(s))")
+        diagnosis = " -- CSV written with gate failures (diagnosis only)" \
+            if record.get("written_with_gate_failures") else ""
+        print(f"{county}: {record['state']}{diagnosis} ({n_bad} problem(s))")
 
     # the roster gate is only meaningful across the whole set: it always
     # re-runs, over every selected county's fresh parse
     county_problems = []
     parses = {}
-    for county in select_counties(only):
+    for county in selected:
         job = county_job(county, sources_dir)
         try:
             parses[county] = ex.parse_county_pdf(job["pdf"], county,
@@ -175,8 +229,11 @@ def run_batch(sources_dir, only=None, cache_dir=DEFAULT_CACHE_DIR,
     status["roster_gate"] = {"problems": roster_problems,
                              "counties": sorted(parses)}
     save_status(status_path, status)
+    # a diagnosis-only write is not a clean pass: it must not count here
     all_passed = all((status.get(c) or {}).get("state") == "PASSED"
-                     for c in select_counties(only))
+                     and not (status.get(c) or {}).get(
+                         "written_with_gate_failures")
+                     for c in selected)
     return status, roster_problems, all_passed
 
 
@@ -192,14 +249,21 @@ def main(argv=None):
     ap.add_argument("--allow-gate-failures", action="store_true",
                     help="pass the module's diagnosis-only flag through")
     args = ap.parse_args(argv)
+    selected, unknown = only_split(args.only)
+    if args.only and unknown and not selected:
+        print(f"! unknown county name(s) for --only: {', '.join(unknown)}")
+        print("Nothing to run: --only selected zero counties; status.json "
+              "not written.")
+        return 2
     _, roster_problems, all_passed = run_batch(
         args.sources_dir, only=args.only, cache_dir=args.cache_dir,
         force=args.force, allow_gate_failures=args.allow_gate_failures)
     if all_passed and not roster_problems:
         print("Done: all counties PASSED, roster gate clean.")
         return 0
-    print("FAILED: the gates or the roster gate held a county back; see the "
-          "prints above and status.json.")
+    print("FAILED: not every county passed cleanly and the roster gate is "
+          "not clean (gate problems, diagnosis-only writes, or roster "
+          "problems); see the prints above and status.json.")
     return 1
 
 

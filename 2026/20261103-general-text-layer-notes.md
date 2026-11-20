@@ -9,7 +9,7 @@ pipeline (`src/extract_2026_general_text_pdf.py`, `src/batch_extract_2026_genera
 | Union | 18 x 20 | 360 | 0 | layer grid parses; operator supplies header labels only |
 | Warren | 11 x 23 | 253 | 0 | layer grid parses; operator headers, carried pages, 5 cell-token repairs |
 | Jasper | 11 x 13 | 143 | 154 (11 rows x 13 vote cells + 1 printed TOTAL each) | whole grid operator-read |
-| Lee | 17 x 33 | 561 | 578 (17 rows x 3 column groups + 1 printed TOTAL each) | whole grid operator-read |
+| Lee | 17 x 33 | 561 | 578 (17 rows x 33 vote cells across three 11-column groups + 17 printed TOTAL reads) | whole grid operator-read |
 
 Every per-county CSV regenerates byte-identical from its manifest at every
 Task 9 boundary (`cmp` verified).
@@ -77,7 +77,7 @@ Each county passed the pipeline's internal reconciliation: per-candidate
 precinct cells sum to the manifest-designated printed TOTAL column, every
 label/center alignment is exact, and `run_gates` reports zero problems (the
 CSV is withheld otherwise — `main()` never writes past a held gate). The
-batch stage then re-loads all four parse dicts and runs the cross-county
+batch stage then re-parses all four counties and runs the cross-county
 roster gate (`check_roster_shared_races`): every (office, district) race two
 or more counties print must carry the identical (candidate, party) roster —
 U.S. Senate (all four), U.S. House 1 and Court of Appeals Position 1/2
