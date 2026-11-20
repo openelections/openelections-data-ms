@@ -1,17 +1,27 @@
-"""Batch runner for the four 2026 Mississippi general counties converted to
-the deterministic text-layer pipeline (Union, Warren, Jasper, Lee).
+"""Batch runner for the 2026 Mississippi general counties converted to the
+deterministic pipeline (Union, Warren, Jasper, Lee -- usable text layers or
+operator-supplied grids -- plus the scan-county pilot Issaquena).
 
 Per county this hands the county's PDF, operator header manifest and output
 CSV to extract_2026_general_text_pdf.main() -- the same gates and CSV writer
 the single-county invocation uses, so the runner adds no parsing of its own.
-After all four counties it re-parses each one and runs the cross-county
-roster gate (check_roster_shared_races): every (office, district) race two
-or more converted counties print must carry the identical (candidate,
-party) roster in each.
+After all counties it re-parses each one and runs the cross-county roster
+gate (check_roster_shared_races): every (office, district) race two or more
+converted counties print must carry one (candidate, party) family roster.
+A roster_subset record -- one county's roster strictly contains every other
+county's, the legitimate sub-district spread where a judicial place prints
+on only part of the district's ballots -- is printed but ADVISORY: it does
+not block the batch. A roster_mismatch (candidates that differ on both
+sides) is blocking.
 
 State is tracked in <cache-dir>/status.json (resumable: a county already
 PASSED is skipped unless --force; the roster stage always re-runs, since a
 roster gate is only meaningful across the whole set).
+
+Exit: 0 only when every selected county PASSED clean and the roster gate
+carried no blocking record (advisory roster_subset records are reported in
+the same status.json roster_gate section, inside that one pass); anything
+else exits 1 (a refused vacuous --only exits 2 without touching status.json).
 
 Usage:
     uv run python src/batch_extract_2026_general_text.py \
@@ -30,10 +40,11 @@ import extract_2026_general_text_pdf as ex  # noqa: E402
 
 DATE = "20261103"
 
-# The four counties whose recap PDFs carry a usable text layer (or whose
-# operator manifests supply the grid wholesale); everything else is the
-# scanned PaddleOCR-VL phase's work.
-TEXT_LAYER_COUNTIES = ["Union", "Warren", "Jasper", "Lee"]
+# The counties parsing through this pipeline so far -- a usable text layer
+# (Union, Warren) or an operator manifest supplying the grid wholesale
+# (Jasper, Lee, and the scanned pilot Issaquena); everything else of the 82
+# general-election PDFs is the scanned-phase's remaining work.
+COUNTIES = ["Union", "Warren", "Jasper", "Lee", "Issaquena"]
 
 SOURCES_SUBDIR = "2026/general"
 MANIFEST_DIR = Path("2026/header-reads")
@@ -47,7 +58,7 @@ def county_slug(county):
 
 def county_pdf(sources_dir, county):
     """The county's recap PDF in the sources checkout (the file mapping holds
-    only where the SoS naming does; all four of these counties follow it)."""
+    only where the SoS naming does; all five of these counties follow it)."""
     return Path(sources_dir) / SOURCES_SUBDIR / f"{county}_County_2026_general.pdf"
 
 
@@ -76,9 +87,9 @@ def only_split(only):
     outright (a vacuous batch would print success, exit 0 and overwrite
     status.json's roster section with an empty county set)."""
     if not only:
-        return list(TEXT_LAYER_COUNTIES), []
-    wanted = {c.lower() for c in TEXT_LAYER_COUNTIES}
-    return ([c for c in TEXT_LAYER_COUNTIES if c.lower() in
+        return list(COUNTIES), []
+    wanted = {c.lower() for c in COUNTIES}
+    return ([c for c in COUNTIES if c.lower() in
              {n.lower() for n in only}],
             [n for n in only if n.lower() not in wanted])
 
@@ -165,12 +176,23 @@ def save_status(status_path, status):
     Path(status_path).write_text(json.dumps(status, indent=2, sort_keys=True))
 
 
+def blocking_roster_problems(roster_problems):
+    """The roster-gate records that block the batch: every record except the
+    advisory roster_subset kind (a re-parse exception inside the roster
+    stage blocks too -- it is no subset shape). Printed either way."""
+    return [problem for problem in (roster_problems or [])
+            if problem.get("kind") != "roster_subset"]
+
+
 def run_batch(sources_dir, only=None, cache_dir=DEFAULT_CACHE_DIR,
               force=False, allow_gate_failures=False):
     """Run the selected counties, then the roster gate over their parses.
-    Returns (status, roster_problems, all_passed). A vacuous --only refuses
-    to run at all (the runner would otherwise print success and overwrite
-    status.json's roster section with an empty county set)."""
+    Returns (status, roster_problems, all_passed), the roster problems
+    carrying both kinds: the caller gates the exit on
+    blocking_roster_problems(roster_problems), leaving roster_subset records
+    advisory. A vacuous --only refuses to run at all (the runner would
+    otherwise print success and overwrite status.json's roster section with
+    an empty county set)."""
     selected, unknown = only_split(only)
     if unknown:
         print(f"! unknown county name(s), dropped from the run: "
@@ -220,8 +242,10 @@ def run_batch(sources_dir, only=None, cache_dir=DEFAULT_CACHE_DIR,
                 {"county": county, "kind": "exception",
                  "error_type": type(e).__name__, "error": str(e)})
     roster_problems = county_problems + ex.check_roster_shared_races(parses)
-    print(f"roster gate: {len(roster_problems)} problem(s) across "
-          f"{len(parses)} county parses")
+    n_blocking = len(blocking_roster_problems(roster_problems))
+    print(f"roster gate: {n_blocking} blocking problem(s), "
+          f"{len(roster_problems) - n_blocking} advisory roster_subset "
+          f"record(s), across {len(parses)} county parses")
     for problem in roster_problems:
         print(f"  ! {problem['kind']}: "
               f"{problem.get('race') or problem.get('county')}")
@@ -242,8 +266,7 @@ def main(argv=None):
     ap = argparse.ArgumentParser(description=__doc__)
     ap.add_argument("--sources-dir", required=True)
     ap.add_argument("--only", nargs="*", metavar="COUNTY",
-                    help="restrict to these counties (subset of "
-                         "TEXT_LAYER_COUNTIES)")
+                    help="restrict to these counties (subset of COUNTIES)")
     ap.add_argument("--cache-dir", default=DEFAULT_CACHE_DIR)
     ap.add_argument("--force", action="store_true",
                     help="re-run counties already PASSED in status.json")
@@ -259,12 +282,21 @@ def main(argv=None):
     _, roster_problems, all_passed = run_batch(
         args.sources_dir, only=args.only, cache_dir=args.cache_dir,
         force=args.force, allow_gate_failures=args.allow_gate_failures)
-    if all_passed and not roster_problems:
-        print("Done: all counties PASSED, roster gate clean.")
+    blocking = blocking_roster_problems(roster_problems)
+    if all_passed and not blocking:
+        # advisory roster_subset records are part of a clean run: printed
+        # above, stored in status.json, and reported here rather than
+        # blocking the exit
+        advisories = len(roster_problems) - len(blocking)
+        if advisories:
+            print(f"Done: all counties PASSED, roster gate clean "
+                  f"({advisories} advisory roster_subset record(s)).")
+        else:
+            print("Done: all counties PASSED, roster gate clean.")
         return 0
     print("FAILED: the batch is not clean (gate problems, diagnosis-only "
-          "writes, or roster problems); see the prints above and "
-          "status.json.")
+          "writes, or blocking roster problems; roster_subset records are "
+          "advisory only); see the prints above and status.json.")
     return 1
 
 

@@ -2541,17 +2541,26 @@ def run_gates(pd):
 def check_roster_shared_races(county_parses):
     """Cross-county roster gate (the batch stage; the run_gates docstring
     deliberately leaves this here): every (office, district) race that 2+
-    counties' parse dicts carry must carry the IDENTICAL (candidate, party)
-    roster in each of them.
+    counties' parse dicts carry must carry ONE (candidate, party) family
+    roster. Identical rosters in every county of a family read clean; one
+    county's roster STRICTLY CONTAINING every other county's is the
+    legitimate sub-district spread -- a place/seat whose section prints on
+    the larger county's ballot only (judicial districts are the usual case:
+    Warren's Circuit 9 ballot carries Place 2, Issaquena's prints only
+    Place 1) -- and is recorded as an ADVISORY "roster_subset", printed by
+    the runner but never blocking the batch. Any other divergence (rosters
+    with no county carrying the union: candidates that differ on both
+    sides, a party misread between incomparable sets) is a blocking
+    "roster_mismatch".
 
     county_parses: {county: parse_county_pdf/parse_county_from_pages dict}.
 
-    A mismatched shared race is a whole-seat loss on one side (one county's
+    A diverged shared race is a whole-seat loss on one side (one county's
     two-candidate Court of Appeals pair, the other's single read), a party
     misread, or a candidate-name reading that diverged -- shapes no
     per-county gate can see, because every row's own arithmetic can be exact
     while a seat's row is missing everywhere in one county. Records are
-    {"kind": "roster_mismatch", "race": [office, district],
+    {"kind": "roster_subset" | "roster_mismatch", "race": [office, district],
     "rosters": [{"county", "candidates": [[candidate, party], ...]}]} with
     counties in name order and candidates sorted for a stable diff. Races a
     single county prints are beyond this gate's reach; empty/absent parses
@@ -2581,8 +2590,16 @@ def check_roster_shared_races(county_parses):
             continue
         if len({frozenset(r) for r in by_county.values()}) <= 1:
             continue
+        # every set sits inside the family's union by construction; the
+        # spread is a subset spread only when one county's roster IS that
+        # union (a maximum the others hang below) -- otherwise two
+        # counties' rosters are incomparable and the union is a chimera
+        # no one county ever printed
+        union = frozenset().union(*by_county.values())
+        full = any(r == union for r in by_county.values())
+        shrunk = any(len(r) < len(union) for r in by_county.values())
         problems.append({
-            "kind": "roster_mismatch",
+            "kind": "roster_subset" if full and shrunk else "roster_mismatch",
             "race": [race[0], race[1]],
             "rosters": [{"county": county,
                          "candidates": sorted(

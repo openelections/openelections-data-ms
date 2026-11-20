@@ -3479,11 +3479,15 @@ class LeeCountyTests(unittest.TestCase):
 
 class RosterGateTests(unittest.TestCase):
     """Task 9's cross-county roster gate (the batch stage): every (office,
-    district) race printed in 2+ counties must carry the IDENTICAL
-    (candidate, party) roster in each of them. This is the natural catcher
-    for a total seat loss -- one county's whole seat missing while another
-    county that shares the race reads complete -- which no per-county gate
-    can see."""
+    district) race printed in 2+ counties must carry ONE family roster.
+    Identical (candidate, party) rosters read clean; a strict-subset spread
+    (one county's roster contains every other county's -- the legitimate
+    sub-district shape where a judicial place prints on the larger county's
+    ballot only) is the ADVISORY roster_subset kind; any other divergence
+    (candidates that differ on both sides) is the blocking roster_mismatch.
+    This is the natural catcher for a total seat loss -- one county's whole
+    seat missing while another county that shares the race reads complete --
+    which no per-county gate can see."""
 
     @staticmethod
     def pd_of(rows):
@@ -3495,9 +3499,11 @@ class RosterGateTests(unittest.TestCase):
                 "seat": seat, "candidate": candidate, "party": party,
                 "total": 1, "cells": {"P1": 1}}
 
-    def test_shared_race_roster_mismatch_flags(self):
-        # a synthetic family-level mismatch: both counties share U.S. House
-        # 1, but Union's roster lost a candidate (a whole seat)
+    def test_whole_seat_spread_records_the_advisory_subset_kind(self):
+        # a whole-seat difference is the subset shape by construction (the
+        # smaller county lost the seat wholesale): the record is loud -- same
+        # "race"/"rosters" shape, counties in name order, candidates sorted
+        # for a stable diff -- but advisory
         problems = ex.check_roster_shared_races({
             "Union": self.pd_of([
                 self.row("U.S. House", "1", "Trent Kelly", "REP"),
@@ -3508,7 +3514,7 @@ class RosterGateTests(unittest.TestCase):
                 self.row("U.S. House", "1", "Johnny Baucom", "LIB")]),
         })
         (problem,) = problems
-        self.assertEqual(problem["kind"], "roster_mismatch")
+        self.assertEqual(problem["kind"], "roster_subset")
         self.assertEqual(problem["race"], ["U.S. House", "1"])
         self.assertEqual(problem["rosters"], [
             {"county": "Lee",
@@ -3518,13 +3524,75 @@ class RosterGateTests(unittest.TestCase):
              "candidates": [["Cliff Johnson", "DEM"], ["Trent Kelly", "REP"]]},
         ])
 
+    def test_strict_subset_spread_is_advisory_roster_subset(self):
+        # the real Warren/Issaquena shape: both ballot Circuit D9 Place 1,
+        # but only Warren's carries Place 2 -- Issaquena's roster is a
+        # strict subset, so the spread is recorded loud (same record shape)
+        # but with the advisory kind
+        problems = ex.check_roster_shared_races({
+            "Warren": self.pd_of([
+                self.row("Circuit Court", "9", "M. James 'Jim' Chaney Jr.", ""),
+                self.row("Circuit Court", "9", "Toni Walker Terrett", "")]),
+            "Issaquena": self.pd_of([
+                self.row("Circuit Court", "9", "Toni Walker Terrett", "")]),
+        })
+        (problem,) = problems
+        self.assertEqual(problem["kind"], "roster_subset")
+        self.assertEqual(problem["race"], ["Circuit Court", "9"])
+        self.assertEqual(problem["rosters"], [
+            {"county": "Issaquena",
+             "candidates": [["Toni Walker Terrett", ""]]},
+            {"county": "Warren",
+             "candidates": [["M. James 'Jim' Chaney Jr.", ""],
+                            ["Toni Walker Terrett", ""]]},
+        ])
+
+    def test_three_county_chain_yields_one_roster_subset_record(self):
+        # {A} {A,B} {A,B,C}: every roster sits below the largest county's,
+        # and a strict subset exists, so the whole chain is ONE advisory
+        # record, not three
+        problems = ex.check_roster_shared_races({
+            "Adams": self.pd_of([
+                self.row("Court of Appeals", "4", "A", "")]),
+            "Amite": self.pd_of([
+                self.row("Court of Appeals", "4", "A", ""),
+                self.row("Court of Appeals", "4", "B", "")]),
+            "Wilkinson": self.pd_of([
+                self.row("Court of Appeals", "4", "A", ""),
+                self.row("Court of Appeals", "4", "B", ""),
+                self.row("Court of Appeals", "4", "C", "")]),
+        })
+        (problem,) = problems
+        self.assertEqual(problem["kind"], "roster_subset")
+        self.assertEqual(problem["race"], ["Court of Appeals", "4"])
+        self.assertEqual([r["county"] for r in problem["rosters"]],
+                         ["Adams", "Amite", "Wilkinson"])
+        self.assertEqual(problem["rosters"][2]["candidates"],
+                         [["A", ""], ["B", ""], ["C", ""]])
+
+    def test_incomparable_rosters_still_block_as_roster_mismatch(self):
+        # candidates differ on both sides -- neither roster is a subset of
+        # the other, so the advisory kind cannot apply
+        problems = ex.check_roster_shared_races({
+            "Union": self.pd_of([
+                self.row("U.S. House", "1", "Trent Kelly", "REP"),
+                self.row("U.S. House", "1", "Cliff Johnson", "DEM")]),
+            "Warren": self.pd_of([
+                self.row("U.S. House", "1", "Trent Kelly", "REP"),
+                self.row("U.S. House", "1", "Johnny Baucom", "LIB")]),
+        })
+        (problem,) = problems
+        self.assertEqual(problem["kind"], "roster_mismatch")
+
     def test_shared_race_with_a_party_drift_flags(self):
-        # same names, one county's party read differs
+        # same names, one county's party read differs: incomparable
+        # singletons, so the blocking kind
         problems = ex.check_roster_shared_races({
             "Union": self.pd_of([self.row("U.S. Senate", "", "X", "REP")]),
             "Warren": self.pd_of([self.row("U.S. Senate", "", "X", "IND")]),
         })
         (problem,) = problems
+        self.assertEqual(problem["kind"], "roster_mismatch")
         self.assertEqual(problem["race"], ["U.S. Senate", ""])
         self.assertEqual(
             sorted((r["county"], sorted(map(tuple, r["candidates"])))
@@ -3551,12 +3619,14 @@ class RosterGateTests(unittest.TestCase):
 
 
 class BatchRunnerTests(unittest.TestCase):
-    """The batch runner's county constants and file mapping (pure), and its
-    failure shape on a county whose source PDF is absent."""
+    """The batch runner's county constants and file mapping (pure), its
+    failure shape on a county whose source PDF is absent, and the roster
+    gate's exit contract: advisory roster_subset records print but never
+    block; a roster_mismatch keeps the batch failing."""
 
     def test_county_list_and_file_mapping(self):
-        self.assertEqual(batch.TEXT_LAYER_COUNTIES,
-                         ["Union", "Warren", "Jasper", "Lee"])
+        self.assertEqual(batch.COUNTIES,
+                         ["Union", "Warren", "Jasper", "Lee", "Issaquena"])
         job = batch.county_job("Union", "sources/here")
         self.assertEqual(batch.manifest_path("Union"),
                          Path("2026/header-reads/20261103__ms__general__"
@@ -3571,15 +3641,14 @@ class BatchRunnerTests(unittest.TestCase):
         self.assertEqual(job["out_csv"], batch.precinct_csv_path("Union"))
         self.assertEqual(job["pdf"], batch.county_pdf("sources/here", "Union"))
         # every county's mapping points at the committed lowercase names
-        for county in batch.TEXT_LAYER_COUNTIES:
+        for county in batch.COUNTIES:
             self.assertIn(county.lower(),
                           batch.manifest_path(county).name)
             self.assertIn(county.lower(), batch.precinct_csv_path(county).name)
 
     def test_only_subset_selection(self):
         # None = the full county list, canonical order
-        self.assertEqual(batch.select_counties(None),
-                         batch.TEXT_LAYER_COUNTIES)
+        self.assertEqual(batch.select_counties(None), batch.COUNTIES)
         # canonical order regardless of input order; unknown/misspelled
         # names dropped
         self.assertEqual(batch.select_counties(["Lee", "Union"]),
@@ -3589,12 +3658,74 @@ class BatchRunnerTests(unittest.TestCase):
     def test_only_split_reports_unknown_names(self):
         self.assertEqual(batch.only_split(["Lee", "Neshoba"]),
                          (["Lee"], ["Neshoba"]))
-        self.assertEqual(batch.only_split(None),
-                         (batch.TEXT_LAYER_COUNTIES, []))
-        self.assertEqual(batch.only_split([]),
-                         (batch.TEXT_LAYER_COUNTIES, []))
+        self.assertEqual(batch.only_split(None), (batch.COUNTIES, []))
+        self.assertEqual(batch.only_split([]), (batch.COUNTIES, []))
         self.assertEqual(batch.only_split(["Neshoba", "nesoba"]),
                          ([], ["Neshoba", "nesoba"]))
+
+    def test_blocking_roster_problems_exempt_the_advisory_kind(self):
+        # the runner's classification: only roster_subset records are
+        # advisory; every other roster-gate record (mismatch, a re-parse
+        # exception) blocks
+        advisory = {"kind": "roster_subset", "race": ["Circuit Court", "9"],
+                    "rosters": []}
+        mismatch = {"kind": "roster_mismatch", "race": ["U.S. House", "1"],
+                    "rosters": []}
+        exception = {"county": "Issaquena", "kind": "exception"}
+        self.assertEqual(batch.blocking_roster_problems([]), [])
+        self.assertEqual(batch.blocking_roster_problems([advisory]), [])
+        self.assertEqual(batch.blocking_roster_problems([mismatch, advisory]),
+                         [mismatch])
+        # a failed re-parse inside the roster stage blocks too
+        self.assertEqual(
+            batch.blocking_roster_problems([exception, advisory]),
+            [exception])
+
+    def test_roster_subset_advisory_exits_clean_mismatch_blocks(self):
+        # main()'s exit contract over a stubbed run_batch: an advisory
+        # roster_subset record prints (loud) but exits 0, while the same
+        # run's roster_mismatch shape fails
+        import contextlib
+        import io as _io
+
+        advisory_run = ({"Union": {"state": "PASSED", "problems": []}},
+                        [{"kind": "roster_subset",
+                          "race": ["Circuit Court", "9"],
+                          "rosters": [{"county": "Issaquena",
+                                       "candidates": [["X", ""]]},
+                                      {"county": "Warren",
+                                       "candidates": [["X", ""], ["Y", ""]]}]}],
+                        True)
+        mismatch_run = ({"Union": {"state": "PASSED", "problems": []}},
+                        [{"kind": "roster_mismatch",
+                          "race": ["U.S. House", "1"], "rosters": []}],
+                        True)
+        for label, roster_problems, expected_rc in (
+                ("advisory", advisory_run, 0),
+                ("mismatch", mismatch_run, 1)):
+            def stub(sources_dir, only=None, cache_dir=None, force=False,
+                     allow_gate_failures=False, _r=roster_problems):
+                return _r
+            orig = batch.run_batch
+            batch.run_batch = stub
+            self.addCleanup(setattr, batch, "run_batch", orig)
+            import tempfile
+            tmp = tempfile.TemporaryDirectory()
+            self.addCleanup(tmp.cleanup)
+            stdout = _io.StringIO()
+            with contextlib.redirect_stdout(stdout):
+                rc = batch.main(["--sources-dir", "sources/here",
+                                 "--cache-dir", tmp.name])
+            self.assertEqual(rc, expected_rc,
+                             f"{label}: exit {rc}, expected {expected_rc}")
+            if expected_rc == 0:
+                # the advisory record is printed, not swallowed, and the
+                # run reads as a success
+                self.assertIn("roster_subset", stdout.getvalue())
+                self.assertIn("advisory", stdout.getvalue())
+                self.assertNotIn("FAILED", stdout.getvalue())
+            else:
+                self.assertIn("FAILED", stdout.getvalue())
 
     def test_main_refuses_vacuous_only_without_touching_status(self):
         # a typo'd --only must not run a vacuous batch, print success, and
