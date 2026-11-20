@@ -1489,3 +1489,52 @@ recorded so a future reader of this plan is not misled by its sketch:
    the geometry exclusion of the certification region). Fold the
    `{p[:10] for p in NOISE_PREFIXES}` anchor extension into Task 8, plus a
    plan-record note that this is a known limitation until then.
+
+## Task 4 execution record (2026-11-19) and Task 5 carries
+
+Verified real-geometry corrections (all five independently confirmed by the
+spec reviewer against Union's own pages):
+
+1. **Party tokens print inline** on the candidate's own line (right of the
+   name), not as separate sub-band lines — the parser strips and attaches
+   them to the same row; the synthetic standalone-party-line path is kept
+   for parity.
+2. **Office labels sit up to ~23.3pt above the detected table top** (Senate
+   header on Union p2) — classification above `table_top` is office-only.
+3. **Position/Place qualifiers create phantom column clusters** (Union p2:
+   x≈203.4/245.6 with 4 members each) — `grid_centers` keeps only clusters
+   overlapping the first data line's digit span; 11 real columns, not 14.
+4. **Wrap-continuation is gated on qualifier vocabulary** (every token must
+   be a qualifier word) because office regexes match by prefix and would
+   otherwise re-open the same office on candidate lines.
+5. **`LABEL_REPAIRS` = operator-supervised OCR-denoise map** applied to
+   candidate-label words only (Union's invisible layer misreads 'Coiom'
+   county-wide; rendered prints "Colom"). Growth discipline: entries are
+   added only from render-verified reads; the notes report documents the
+   final map. Mechanism judged acceptable under Amendment A's
+   operator-vision-is-truth principle.
+
+Fix-commit adjudications: `parse_office` gains the **Circuit Court** family
+(Union: `Circuit Court 3-Circuit District 03 Place N`) and Warren's
+**double-dash judicial family** (`Chancery Court 9-2-Chancery District
+9-2`); genuinely-unparseable headerish lines become `kind="unknown_header"`
+(no office attribution). `extract_table_page` returns a `conflicts` record
+for duplicate-cell overwrites (last-wins pinned) so Task 5's gates can
+escalate loudly.
+
+Task 5 carries (reviewer-verified on real pages):
+
+- **Office context must carry across pages** — Union p4/p5 begin with
+  candidates whose office header was printed on the prior page ('Michael
+  Malski' carries 11 attached cells with office=None). `parse_county_pdf`
+  must attach carried office context and must never drop such rows.
+- **Union p4/p5 look like a second printing of the same table**: fragment
+  rows ('LIstnCT', 'I David Rainey' with 3 captured cells) and
+  interleaved/doubled text with reversed digit tokens ('XI', '01',
+  '7581'). Task 5 must (a) group pages by column structure, (b) reconcile
+  groups against each other and the TOTAL column via the gates, (c) flag
+  conflicts rather than silently merging; the operator decides when groups
+  disagree.
+- **Fragment/garbage candidate rows** (unknown-header remnants, reversed
+  digits) must be excluded or loudly flagged by the structure/roster gates
+  before any CSV writes.
