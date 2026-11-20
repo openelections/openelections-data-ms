@@ -3,10 +3,16 @@ general election county recapitulation PDFs that carry an embedded text layer.
 
 Rebuilds the SEMS "Official Recapitulation" crosstab (candidate rows x
 precinct columns) from natural_pdf word/char geometry -- no OCR, no vision
-models. Internal gates decide whether a county's CSV may be written:
+models. Header labels are never read from geometry (Amendment A): an
+operator-vision manifest per county names each page's columns, and a later
+assembly stage binds the detected column centers to those names. Internal
+gates decide whether a county's CSV may be written:
 
-1. per-candidate precinct sums equal the PDF's own TOTAL column,
-2. structure: header columns match body columns on every table page,
+1. per-candidate precinct cells sum to the manifest-designated TOTAL column,
+2. structure/manifest alignment: label counts match detected columns on every
+   page, names normalize uniquely and non-empty, every candidate carries a
+   total, and blank body cells reconcile to the row's own total before they
+   read as 0,
 3. roster consistency across counties sharing a race (batch stage).
 
 natural_pdf is imported lazily: the pure geometry/label functions must stay
@@ -287,11 +293,19 @@ def parse_office(label, fuzzy=False):
         return (f"{m.group(1)} Court", str(int(m.group(2))),
                 int(place) if place else None)
     if not m and fuzzy and _fuzzy_eq(label[:15], "CIRCUIT COURT", 0.7):
+        # District-first family: "Circuit Court <d>-Circuit District <d>
+        # Place <p>". The OCR layer hides the leading "1" of "13" inside the
+        # 'l3' token (Jasper p2), so the surviving digit runs are 13 / 1 --
+        # the district is digits[0] and the place is the next run that is
+        # not a repeat of the district number itself.
         digits = re.findall(r"\b(\d+)\b", label)
         if digits:
-            district = digits[1] if len(digits) >= 2 else digits[0]
-            place = (int(digits[-1])
-                     if len(digits) >= 2 and digits[-1] != digits[1] else None)
+            district = digits[0]
+            place = None
+            for run in digits[1:]:
+                if int(run) != int(district):
+                    place = int(run)
+                    break
             return "Circuit Court", str(int(district)), place
     m = re.search(r"Chancery Court 0*(\d+)\s*-\s*Chancery District 0*(\d+)"
                   r"(?:\s*Place\s*0*(\d+))?", label)
@@ -512,9 +526,11 @@ def extract_table_page(page, fuzzy=False):
     "cells" filled from the numeric grid; "conflicts" records every
     (row_index, column_center) attach that overwrote an earlier value as
     [row_index, column_center, kept_value, overwritten_value] (assign_cells
-    is last-wins; Warren p3 fires this for real). Does NOT resolve header
-    labels (the operator manifest does that in Task 5); does NOT call
-    vertical_headers.
+    is last-wins; Warren p3 fires this for real). Equal-value repeats are
+    logged too -- two words reading the same cell value still overwrite one
+    another, and the record is the caller's only trace of it. Does NOT
+    resolve header labels (the operator manifest does that in Task 5); does
+    NOT call vertical_headers.
 
     Returns None in two cases: a non-table page (find_table_top finds no
     numeric-grid line -- the cover page), or a table page whose column
@@ -647,6 +663,11 @@ def label_rows(lines, table_top, label_x_max, fuzzy=False):
             rows.append({"kind": "unknown_header", "text": text,
                          "top": ln["top"],
                          "bottom": max(x["bottom"] for x in label_words)})
+            # A local-office header closes the office context: candidates
+            # under it carry NO office (N2), and the wrap-continuation gate
+            # above must not reach back into the previous header and rewrite
+            # its district/seat.
+            current_office = None
             last_candidate = None
             pending_header = None
             continue
@@ -707,7 +728,9 @@ def assign_cells(rows, numeric_words, centers, fuzzy=False, conflicts=None):
     When two words claim the same (row_index, column_center) the LAST word
     wins. That is silent unless the caller passes `conflicts` (a list), which
     collects each overwrite as [row_index, column_center, kept_value,
-    overwritten_value] -- the record surfaces both true duplicates and
+    overwritten_value] -- equal-value repeats are logged as well (two words
+    agreeing on a cell still overwrite one another) -- the record surfaces
+    both true duplicates and
     clusters that chained two real columns together (Warren p3 reports
     row 5 / '76' vs '1' at column 333.12).
 
@@ -733,3 +756,419 @@ def assign_cells(rows, numeric_words, centers, fuzzy=False, conflicts=None):
                 out[(i, col)] = val
                 break
     return out
+
+
+# ---- county assembly (Amendment A: manifest-driven) -----------------------
+#
+# Header labels are the operator vision manifest's: each page's labels zip
+# positionally against the page's ascending column centers, the total-label
+# column becomes the candidate's total, and merged rows, cross-page office
+# carry and the gates below decide whether a county parse is trustworthy.
+
+TOTAL_NAME = "TOTAL"
+
+MANIFEST_REQUIRED_KEYS = ("county", "source", "total_label", "pages")
+
+
+def load_manifest(path):
+    """Load + validate an operator header manifest. Returns (manifest, problems).
+
+    `pages` maps 1-based page-number strings to that page's header labels
+    left-to-right (exactly one entry equals `total_label` where the page
+    carries a TOTAL column). Label truncations are the operator's to resolve;
+    problems here are only missing required keys -- alignment problems are
+    the assembly's (see normalize_page_labels / run_gates)."""
+    import json
+    with open(path) as fh:
+        manifest = json.load(fh)
+    problems = [{"kind": "manifest_missing_key", "key": key}
+                for key in MANIFEST_REQUIRED_KEYS if key not in manifest]
+    return manifest, problems
+
+
+def normalize_page_labels(labels, total_label):
+    """One page's left-to-right manifest labels -> (names, total_pos, problems).
+
+    names is POSITIONAL (one entry per label): precinct_norm(label) for body
+    columns, None where the label is the TOTAL marker or normalizes empty.
+    total_pos is the first label equal to `total_label` (compared
+    case-insensitively after stripping), or None when the page has no TOTAL
+    column. problems flags {"kind": "empty_name"} (a body label that
+    normalizes to nothing: the column's cells will be orphans), a second
+    {"kind": "total_label_repeated"} marker, and {"kind": "name_collision"}
+    -- any two of THIS page's labels whose normalized forms are equal
+    ('P1' vs 'P1 ', or a repeated spelling). The same name repeated across
+    PAGES is normal; collisions are checked per page only. Callers add the
+    page number to every record they forward.
+    """
+    names = []
+    total_pos = None
+    problems = []
+    wanted = (total_label or "").strip().upper()
+    for pos, label in enumerate(labels):
+        if (label or "").strip().upper() == wanted:
+            if total_pos is None:
+                total_pos = pos
+            else:
+                problems.append({"kind": "total_label_repeated", "pos": pos,
+                                 "label": label})
+            names.append(None)
+            continue
+        name = precinct_norm(label or "")
+        names.append(name or None)
+        if not name:
+            problems.append({"kind": "empty_name", "pos": pos, "label": label})
+    by_norm = {}
+    for pos, label in enumerate(labels):
+        if names[pos] is not None:
+            by_norm.setdefault(names[pos], []).append(label)
+    for name, spellings in by_norm.items():
+        if len(spellings) > 1:
+            problems.append({"kind": "name_collision", "name": name,
+                             "labels": sorted(spellings)})
+    return names, total_pos, problems
+
+
+def parse_county_from_pages(pages, county, manifest):
+    """Assemble a county from pre-extracted table pages (Amendment A).
+
+    pages: {"<1-based page number>": extract_table_page result dict}; pages
+    the extractor dropped (cover page, lost grid) are simply absent.
+    manifest: the loaded manifest dict, or a path to one (loaded here so
+    callers can hand over a written file).
+
+    Alignment is positional: each page's ascending precinct_centers zip
+    against the manifest's left-to-right labels; a count mismatch is a
+    {"kind": "column_count"} manifest problem (the pair still zips over the
+    longer side so nothing is thrown away silently). Body cells re-key from
+    column center to the normalized precinct NAME at the same position, and
+    the cell in the manifest's total-label column becomes the row's total.
+    A (candidate, precinct) cell that arrives twice with different values is
+    a real data conflict: recorded ({"kind": "conflicting_cells"}) and kept
+    as the first value in ballot order.
+
+    Merging: a candidate row printed on several pages (row blocks repeat the
+    label stream over disjoint column halves) merges by
+    (office, district, seat, collapsed-name), preserving ballot order (the
+    first page where the candidate appears); the first non-None party wins,
+    and "" (Nonpartisan) counts as a real party value.
+
+    Cross-page office carry: a candidate printed whose office header was on
+    an earlier page must not lose its office. The carry value is a ROW-BLOCK
+    property, not a per-page one: the recap paginates as row blocks of
+    column halves (Union: p2/p3 = block 1, p4/p5 = block 2; each block
+    repeats the label stream on both halves), so BOTH halves' opening rows
+    belong to the section that was open when the block began. A row block
+    ends where the manifest labels carry the total marker (SEMS prints the
+    TOTAL column only on the last page of a block), and the next block's
+    opening carry is the previous block's end context: the pending
+    (office, district, seat) fills office=None candidate rows at the START
+    of a page, until that page's first office row or unknown_header row
+    appears (from then on the page's own context rules). unknown_header
+    clears in-page context only (N2); the end context is however cleared as
+    None when a page ENDS under an unknown_header, so a local section that
+    continues onto the next page does not hand its candidates a stale state
+    office. office=None rows are never dropped before the carry is applied;
+    rows still office-less afterwards (they sat under an unparseable
+    local-office header) are excluded BY DESIGN -- recorded in
+    pd["dropped_local_rows"], never silently and never as a gate.
+
+    TOTAL: a blank body cell is a 0 only when the row's recorded total equals
+    the sum of its present cells (the source's own arithmetic proves the
+    blanks); otherwise the cells stay missing and run_gates flags them.
+    """
+    if isinstance(manifest, str):
+        manifest, mproblems = load_manifest(manifest)
+    else:
+        mproblems = []
+    manifest_problems = list(mproblems)
+    structure_problems = []
+    conflicts = []
+    dropped_local_rows = []
+    total_label = manifest.get("total_label") or TOTAL_NAME
+    manifest_pages = manifest.get("pages") or {}
+
+    def page_no(key):
+        try:
+            return int(str(key))
+        except ValueError:
+            return None
+
+    def sort_key(key):
+        n = page_no(key)
+        return (n is None, n or 0, str(key))
+
+    alignments = {}
+    for key in sorted(pages, key=sort_key):
+        pno = page_no(key)
+        if pno is None or key not in manifest_pages:
+            manifest_problems.append({"kind": "page_unlabeled", "page": str(key)})
+            continue
+        tp = pages[key]
+        labels = manifest_pages[key] or []
+        centers = list(tp.get("precinct_centers") or [])
+        if len(centers) != len(labels):
+            manifest_problems.append({"kind": "column_count", "page": pno,
+                                      "labels": len(labels), "centers": len(centers)})
+        names, total_pos, label_problems = normalize_page_labels(labels, total_label)
+        for pr in label_problems:
+            pr.setdefault("page", pno)
+            (structure_problems if pr["kind"] == "empty_name"
+             else manifest_problems).append(pr)
+        by_center = {}
+        total_center = None
+        for pos in range(max(len(labels), len(centers))):
+            center = centers[pos] if pos < len(centers) else None
+            if pos == total_pos:
+                if center is not None:
+                    total_center = center
+                    by_center[center] = TOTAL_NAME
+            elif center is not None:
+                by_center[center] = names[pos] if pos < len(names) else None
+        alignments[pno] = {"names_by_center": by_center,
+                           "total_center": total_center,
+                           "had_total": total_pos is not None}
+    for key in sorted(manifest_pages, key=sort_key):
+        if key not in pages:
+            manifest_problems.append({"kind": "page_missing", "page": page_no(key)})
+
+    all_names = sorted({name for al in alignments.values()
+                        for name in al["names_by_center"].values()
+                        if name and name != TOTAL_NAME})
+
+    merged = {}
+    order = []
+    # Row-block office carry (Union's structure: ONE logical table paginated
+    # as row blocks of column halves -- p2/p3 = block 1, p4/p5 = block 2 --
+    # so a page's opening rows belong to the section that was open when the
+    # block began, on BOTH halves of the block). A row block ends at a page
+    # whose manifest labels carry the total marker (SEMS prints the TOTAL
+    # column only on the last page of a block); the next block's opening
+    # carry is the previous block's end context. A block cannot be detected
+    # when no page of it carries a total marker; such continuation pages
+    # keep the same block pending (or none), and their office=None openings
+    # drop as local rows -- recorded, never silent.
+    pending = None       # carry value for the current row block's pages
+    end_context = None   # office context in force at the end of the last page
+    prev_had_total = False
+    first_page = True
+    for key in sorted(pages, key=sort_key):
+        pno = page_no(key)
+        if pno not in alignments:
+            continue  # unlabeled page: flagged above, not assembled
+        tp = pages[key]
+        rows = tp.get("rows") or []
+        by_center = alignments[pno]["names_by_center"]
+        if first_page or prev_had_total:
+            pending = end_context if not first_page else None
+        first_page = False
+        own_context = False
+        last_context_kind = None  # "office" (with its triple) / "unknown"
+        last_office = None
+        entries = []  # (row index, merge key, assembled row) in row order
+        for idx, row in enumerate(rows):
+            kind = row.get("kind")
+            if kind == "office":
+                own_context = True
+                last_context_kind = "office"
+                last_office = (row.get("office"), row.get("district"),
+                               row.get("seat"))
+                continue
+            if kind == "unknown_header":
+                own_context = True
+                last_context_kind = "unknown"
+                continue
+            if kind != "candidate":
+                continue
+            office, district, seat = (row.get("office"), row.get("district"),
+                                      row.get("seat"))
+            if office is None and not own_context and pending is not None:
+                office, district, seat = pending  # cross-page carry
+            if office is None:
+                # under an unknown_header (or a page with no office at all):
+                # a local-office row, excluded by design and recorded whole.
+                dropped_local_rows.append(dict(row, page=pno))
+                continue
+            cells = {}
+            orphans = {}
+            total = row.get("total")
+            for center, val in (row.get("cells") or {}).items():
+                target = by_center.get(center)
+                if target == TOTAL_NAME:
+                    if total is None:
+                        total = val
+                    elif total != val:
+                        conflicts.append({"kind": "duplicate_total", "page": pno,
+                                          "candidate": row.get("candidate"),
+                                          "values": [total, val]})
+                    continue
+                if target is None:
+                    orphans[center] = val
+                    continue
+                first = cells.setdefault(target, val)
+                if first != val:
+                    conflicts.append({"kind": "conflicting_cells", "page": pno,
+                                      "candidate": row.get("candidate"),
+                                      "precinct": target, "values": [first, val]})
+            name_key = re.sub(r"\s+", " ", row.get("candidate") or "").strip().lower()
+            entries.append((idx, (office, district, seat, name_key),
+                            {"kind": "candidate", "office": office,
+                             "district": district, "seat": seat,
+                             "candidate": row.get("candidate"),
+                             "party": row.get("party"), "cells": cells,
+                             "total": total, "orphan_cells": orphans,
+                             "page": pno}))
+        # thread this page's duplicate-cell overwrites into the county record
+        by_index = {idx: entry for idx, _, entry in entries}
+        for idx, col, kept, over in tp.get("conflicts") or []:
+            entry = by_index.get(idx)
+            if entry is None:
+                continue  # cells only ever attach to candidate rows
+            conflicts.append({"kind": "duplicate_cell", "page": pno,
+                              "candidate": entry["candidate"],
+                              "precinct": by_center.get(col, col),
+                              "kept": kept, "overwritten": over})
+        for _, mkey, cand in entries:
+            if mkey not in merged:
+                cand["pages"] = [pno]
+                merged[mkey] = cand
+                order.append(mkey)
+                continue
+            tgt = merged[mkey]
+            pages_seen = sorted(set(tgt["pages"]) | {pno})
+            tgt["pages"] = pages_seen
+            for pname, val in cand["cells"].items():
+                if pname in tgt["cells"]:
+                    if tgt["cells"][pname] != val:
+                        conflicts.append({"kind": "conflicting_cells",
+                                          "candidate": tgt["candidate"],
+                                          "precinct": pname, "pages": pages_seen,
+                                          "values": [tgt["cells"][pname], val]})
+                    # agreement keeps the first-seen value
+                else:
+                    tgt["cells"][pname] = val
+            for o_center, o_val in cand["orphan_cells"].items():
+                tgt["orphan_cells"][o_center] = o_val
+            if tgt["total"] is None and cand["total"] is not None:
+                tgt["total"] = cand["total"]
+            elif (tgt["total"] is not None and cand["total"] is not None
+                  and tgt["total"] != cand["total"]):
+                conflicts.append({"kind": "duplicate_total", "pages": pages_seen,
+                                  "candidate": tgt["candidate"],
+                                  "values": [tgt["total"], cand["total"]]})
+            if tgt["party"] is None and cand["party"] is not None:
+                tgt["party"] = cand["party"]
+        # the page's end context: the section it was reading when it ran out
+        # (the NEXT row block's opening carry), or -- if the page ended under
+        # an unknown_header -- cleared, so a local section continuing onto
+        # the next page never inherits a stale state office.
+        if last_context_kind == "office":
+            end_context = last_office
+        elif last_context_kind == "unknown":
+            end_context = None
+        prev_had_total = alignments[pno]["had_total"]
+    candidate_rows = [merged[k] for k in order]
+    for row in candidate_rows:
+        missing = [n for n in all_names if n not in row["cells"]]
+        if (row["total"] is not None and missing
+                and sum(row["cells"].values()) == row["total"]):
+            for name in missing:
+                row["cells"][name] = 0  # blanks proven zero by the row's total
+    return {"county": county,
+            "precinct_names": all_names,
+            "candidate_rows": candidate_rows,
+            "dropped_local_rows": dropped_local_rows,
+            "conflicts": conflicts,
+            "manifest_problems": manifest_problems,
+            "structure_problems": structure_problems,
+            "alignments": {str(pno): al for pno, al in sorted(alignments.items())},
+            "pages_used": [page_no(key) for key in sorted(pages, key=sort_key)
+                           if page_no(key) in alignments]}
+
+
+def parse_county_pdf(pdf_path, county, manifest_path, fuzzy=False):
+    """Whole-county parse under an operator header manifest (Amendment A).
+
+    Extracts every table page (natural_pdf stays lazily imported so the
+    module imports without it), assembles them through
+    parse_county_from_pages (the manifest is used ONLY there), and prepends
+    the manifest load problems. Returns parse_county_from_pages' dict plus
+    pd["page_count"]. Raises ValueError when the PDF yields no table pages
+    at all (gate results on an empty parse would look vacuously clean)."""
+    from natural_pdf import PDF  # lazy
+    manifest, mproblems = load_manifest(manifest_path)
+    pdf = PDF(str(pdf_path))
+    pages = {}
+    for i, page in enumerate(pdf.pages, start=1):
+        tp = extract_table_page(page, fuzzy)
+        if tp is not None:
+            pages[str(i)] = tp
+    if not pages:
+        raise ValueError(f"no table pages found in {pdf_path}")
+    pd = parse_county_from_pages(pages, county, manifest)
+    pd["manifest_problems"] = mproblems + pd["manifest_problems"]
+    pd["page_count"] = len(pdf.pages)
+    return pd
+
+
+def run_gates(pd):
+    """Gate results -> {"total_mismatches", "structure", "conflicts",
+    "manifest"}.
+
+    total_mismatches: a candidate whose precinct cells do not sum to its own
+    printed total (a present total is authoritative; no total here is a
+    structure miss, not a mismatch).
+
+    structure: {"kind": "missing_precinct_cells"} -- a candidate lacks cells
+    for real precincts. A BLANK body cell is legitimate only when the row's
+    printed total equals the sum of its present cells, in which case the
+    assembly filled the blanks with 0 and this gate stays silent; anything
+    else is flagged. {"kind": "missing_total"} -- a candidate with no total
+    anywhere. {"kind": "orphan_cell"} -- a cell that could not be attached
+    to a labeled precinct column. {"kind": "empty_name"} -- a manifest
+    label that normalized to nothing.
+
+    conflicts: every recorded disagreement, kept visible rather than fixed:
+    within-page duplicate-cell overwrites threaded from extract_table_page
+    (last-wins there; equal-value repeats included), assembly-time
+    (candidate, precinct) value disagreements across pages/entries, and
+    duplicate totals.
+
+    manifest: load/alignment problems -- missing manifest keys, per-page
+    column-count mismatches, name collisions, repeated total markers, and
+    manifest/extracted pages that failed to pair up.
+
+    Roster consistency across counties stays with the batch stage (Task 9)
+    and is deliberately not re-derived here."""
+    problems = {"total_mismatches": [], "structure": [], "conflicts": [],
+                "manifest": []}
+    names = pd.get("precinct_names") or []
+    for row in pd.get("candidate_rows") or []:
+        cells = row.get("cells") or {}
+        total = row.get("total")
+        office, district = row.get("office"), row.get("district")
+        seat, cand_name = row.get("seat"), row.get("candidate")
+        party = row.get("party")
+        if total is not None and sum(cells.values()) != total:
+            problems["total_mismatches"].append(
+                {"office": office, "district": district, "candidate": cand_name,
+                 "party": party, "sum": sum(cells.values()),
+                 "printed_total": total})
+        missing = [n for n in names if n not in cells]
+        if missing:
+            problems["structure"].append(
+                {"kind": "missing_precinct_cells", "office": office,
+                 "district": district, "seat": seat, "candidate": cand_name,
+                 "party": party, "precincts": missing})
+        if total is None:
+            problems["structure"].append(
+                {"kind": "missing_total", "office": office, "district": district,
+                 "seat": seat, "candidate": cand_name, "party": party})
+        for center in sorted(row.get("orphan_cells") or {}):
+            problems["structure"].append(
+                {"kind": "orphan_cell", "candidate": cand_name, "party": party,
+                 "center": center, "value": row["orphan_cells"][center]})
+    problems["conflicts"].extend(pd.get("conflicts") or [])
+    problems["manifest"].extend(pd.get("manifest_problems") or [])
+    problems["structure"].extend(pd.get("structure_problems") or [])
+    return problems

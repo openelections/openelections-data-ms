@@ -625,5 +625,263 @@ class UnionPage2Tests(unittest.TestCase):
                          [("Derek Dewayne Hopson Jr.", ""), ("John Weddle", "")])
 
 
+class AssemblyTests(unittest.TestCase):
+    """Task 5: manifest-driven county assembly, TOTAL capture, gates."""
+
+    def setUp(self):
+        import tempfile
+        tmp = tempfile.TemporaryDirectory()
+        self.addCleanup(tmp.cleanup)
+        self._tmpdir = tmp.name
+
+    def tmpdir(self):
+        return self._tmpdir
+
+    def write_manifest(self, tmpdir, pages=None):
+        import json
+        m = {"county": "Synth", "source": "x.pdf", "election_date": "2026-11-03",
+             "read_by": "operator-vision", "date": "2026-11-19", "total_label": "TOTAL",
+             "pages": pages or {"2": ["P1", "P2", "TOTAL"], "3": ["P1", "P2", "TOTAL"]}}
+        path = os.path.join(tmpdir, "m.json")
+        with open(path, "w") as fh:
+            json.dump(m, fh)
+        return path
+
+    def test_manifest_validation_and_alignment(self):
+        # Two table pages whose ascending centers zip positionally with the
+        # manifest's left-to-right labels; body cells re-key to precinct NAMES.
+        def tp(center_xs, n_rows):
+            rows = [{"kind": "candidate", "candidate": f"cand{i}", "party": "DEM",
+                     "office": "U.S. Senate", "district": "", "seat": None,
+                     "top": 200.0 + i, "bottom": 210.0 + i,
+                     "cells": {c: 1 for c in center_xs}} for i in range(n_rows)]
+            return {"precinct_centers": center_xs, "table_top": 200.0,
+                    "rows": [{"kind": "office", "office": "U.S. Senate",
+                              "district": "", "seat": None}] + rows,
+                    "conflicts": []}
+
+        pd = ex.parse_county_from_pages({"2": tp([246.0, 291.0], 2),
+                                         "3": tp([246.0, 291.0], 2)},
+                                        ["Synth"],
+                                        self.write_manifest(self.tmpdir()))
+        names = pd["precinct_names"]
+        self.assertIn("P1", names)
+        self.assertIn("P2", names)
+        self.assertNotIn("TOTAL", names)
+        for r in pd["candidate_rows"]:
+            self.assertEqual(sorted(r["cells"]), ["P1", "P2"])
+            self.assertIn("total", r)
+
+    def test_count_mismatch_and_collision_flagged(self):
+        def tp(center_xs, rows):
+            return {"precinct_centers": center_xs, "table_top": 200.0,
+                    "rows": rows, "conflicts": []}
+        # 3 centers vs 2 labels -> manifest gate flags the page
+        probs = ex.run_gates(
+            ex.parse_county_from_pages(
+                {"2": tp([246.0, 291.0, 337.0], [])},
+                ["Synth"],
+                self.write_manifest(self.tmpdir(), {"2": ["P1", "P2"]})))
+        self.assertTrue(any(p["kind"] == "column_count" for p in probs["manifest"]))
+        # two labels normalizing equal -> collision flagged
+        probs2 = ex.run_gates(
+            ex.parse_county_from_pages(
+                {"2": tp([246.0, 291.0], [])},
+                ["Synth"],
+                self.write_manifest(self.tmpdir(), {"2": ["P1", "P1 "]})))
+        self.assertTrue(any(p["kind"] == "name_collision" for p in probs2["manifest"]))
+
+    def test_office_carry_across_pages(self):
+        # page 3 opens with an office=None candidate under the p2 office row:
+        # pending (office, district, seat) from the previous page must fill it.
+        p2_rows = [{"kind": "office", "office": "Chancery Court", "district": "1",
+                    "seat": 2, "raw": "Chancery Court 1-Chancery District 1 Place 2"}]
+        p3_rows = [{"kind": "candidate", "candidate": "Malski", "party": "",
+                    "office": None, "district": None, "seat": None,
+                    "top": 200.0, "bottom": 208.0, "cells": {246.0: 5, 291.0: 6},
+                    "total": 11},
+                   {"kind": "unknown_header", "raw": "Justice Court x"}]
+        pd = ex.parse_county_from_pages({"2": {"precinct_centers": [246.0, 291.0],
+                                               "table_top": 200.0, "rows": p2_rows,
+                                               "conflicts": []},
+                                         "3": {"precinct_centers": [246.0, 291.0],
+                                               "table_top": 200.0, "rows": p3_rows,
+                                               "conflicts": []}},
+                                        ["Synth"],
+                                        self.write_manifest(self.tmpdir(),
+                                                            {"2": ["P1", "P2", "TOTAL"],
+                                                             "3": ["P1", "P2", "TOTAL"]}))
+        malski = [r for r in pd["candidate_rows"] if r["candidate"] == "Malski"]
+        self.assertEqual((malski[0]["office"], malski[0]["district"], malski[0]["seat"]),
+                         ("Chancery Court", "1", 2))
+        self.assertEqual(malski[0]["total"], 11)
+
+    def test_cross_page_cell_conflict_flagged_and_missing_total(self):
+        # same candidate + same precinct on two pages with DIFFERENT values
+        def cand_row(value, name="A"):
+            return {"kind": "candidate", "candidate": name, "party": "DEM",
+                    "office": "U.S. Senate", "district": "", "seat": None,
+                    "top": 200.0, "bottom": 208.0, "cells": {246.0: value}}
+        probs = ex.run_gates(
+            ex.parse_county_from_pages(
+                {"2": {"precinct_centers": [246.0], "table_top": 200.0,
+                       "rows": [cand_row(5)], "conflicts": []},
+                 "3": {"precinct_centers": [246.0], "table_top": 200.0,
+                       "rows": [cand_row(7)], "conflicts": []}},
+                ["Synth"],
+                self.write_manifest(self.tmpdir(), {"2": ["P1", "TOTAL"],
+                                                    "3": ["P1", "TOTAL"]})))
+        self.assertTrue(probs["conflicts"], probs)
+        self.assertTrue(any(p["kind"] == "missing_total"
+                            for p in probs["structure"]), probs)
+
+    def test_blank_cells_zero_only_when_total_reconciles(self):
+        # A missing body cell is a 0 only when the row's own printed total
+        # equals the sum of its present cells; with no total at all the row
+        # is flagged (missing_total), never silently zero-filled.
+        def tp(cell_map, centers):
+            return {"precinct_centers": centers, "table_top": 200.0,
+                    "rows": [{"kind": "candidate", "candidate": "A", "party": "DEM",
+                              "office": "U.S. Senate", "district": "", "seat": None,
+                              "top": 200.0, "bottom": 208.0, "cells": cell_map}],
+                    "conflicts": []}
+        labels = {"2": ["P1", "P2", "TOTAL"]}
+        pd = ex.parse_county_from_pages(
+            {"2": tp({246.0: 5, 337.0: 5}, [246.0, 291.0, 337.0])},
+            ["Synth"], self.write_manifest(self.tmpdir(), labels))
+        self.assertEqual(pd["candidate_rows"][0]["cells"], {"P1": 5, "P2": 0})
+        self.assertEqual(ex.run_gates(pd), {"total_mismatches": [], "structure": [],
+                                            "conflicts": [], "manifest": []})
+        probs = ex.run_gates(ex.parse_county_from_pages(
+            {"2": tp({246.0: 5}, [246.0, 291.0, 337.0])},
+            ["Synth"], self.write_manifest(self.tmpdir(), labels)))
+        self.assertTrue(any(p["kind"] == "missing_total" for p in probs["structure"]),
+                        probs)
+        self.assertTrue(any(p["kind"] == "missing_precinct_cells"
+                            for p in probs["structure"]), probs)
+
+
+class CarryPinTests(unittest.TestCase):
+    """Task 4 re-review carries (N1, N2) and the minor ordering pin."""
+
+    def make_lines(self, line_specs):
+        words = []
+        for text, top in line_specs:
+            x = 45.0
+            for tok in text.split(" "):
+                words.append(w(tok, x, top))
+                x += len(tok) * 5 + 4
+        return words
+
+    def run_rows(self, line_specs):
+        return ex.label_rows(ex.lines_from_words(self.make_lines(line_specs)),
+                             table_top=150.0, label_x_max=240.0)
+
+    def test_circuit_fuzzy_branch_is_district_first(self):
+        # N1: Jasper p2's real mangled label is the district-first family
+        # ("Circuit Court <d>-Circuit District <d> Place <p>"); the OCR mangle
+        # hides the leading "1" of "13" inside the 'l3' token, so the digit
+        # runs arrive as 13 / 1 and the old digits[1] reading keyed "1".
+        self.assertEqual(ex.parse_office("Circuit  Court  l3-Circuit Distrlct 13 Placo 1",
+                                         fuzzy=True), ("Circuit Court", "13", 1))
+        # the place-less sibling keeps the district, no place (Jasper p3)
+        self.assertEqual(ex.parse_office("circuit l3-circuit Distrlct 13 place Court",
+                                         fuzzy=True), ("Circuit Court", "13", None))
+        # district-first must not break the district-repeat-with-place family
+        self.assertEqual(ex.parse_office("Circult Court 3-Circult Destrict 03 Place 1",
+                                         fuzzy=True), ("Circuit Court", "3", 1))
+
+    def test_unknown_header_clears_office_context(self):
+        # N2: candidates after an unparseable local header carry NO office
+        # (never the stale one); the wrap-shaped line after it stays a header.
+        rows = self.run_rows([
+            ("Court Of Appeals 01-District 1 Position 1", 160.0),
+            ("Derek Dewayne Hopson Jr.", 170.0),
+            ("Warren County-County Court Judge", 178.0),
+            ("District 2", 186.0),
+            ("Vicki Roach Barnes", 194.0),
+        ])
+        self.assertEqual([(o["office"], o["district"], o["seat"])
+                          for o in rows if o["kind"] == "office"],
+                         [("Court of Appeals", "1", 1)])
+        self.assertEqual([r["text"] for r in rows if r["kind"] == "unknown_header"],
+                         ["Warren County-County Court Judge", "District 2"])
+        self.assertEqual([(c["candidate"], c["office"], c["district"], c["seat"])
+                          for c in rows if c["kind"] == "candidate"],
+                         [("Derek Dewayne Hopson Jr.", "Court of Appeals", "1", 1),
+                          ("Vicki Roach Barnes", None, None, None)])
+
+    def test_unknown_header_closes_stale_continuation(self):
+        # A wrap-shaped line directly after the local header must not join the
+        # still-open previous office and rewrite its district/seat.
+        rows = self.run_rows([
+            ("Court Of Appeals 01-District 1 Position 1", 160.0),
+            ("Warren County-County Court Judge", 168.0),
+            ("Position 2", 176.0),
+        ])
+        self.assertEqual([(o["office"], o["district"], o["seat"])
+                          for o in rows if o["kind"] == "office"],
+                         [("Court of Appeals", "1", 1)])
+        self.assertEqual([r["kind"] for r in rows],
+                         ["office", "unknown_header", "unknown_header"])
+
+    def test_standalone_party_after_unknown_header_not_attached(self):
+        # A standalone party word after a dual-classified (unknown_header)
+        # line must not attach to the earlier candidate.
+        rows = self.run_rows([
+            ("United States-Senate", 160.0),
+            ("Cindy Hyde-Smith Republican", 170.0),
+            ("Warren County-County Court Judge", 178.0),
+            ("Democrat", 186.0),
+        ])
+        self.assertEqual([(c["candidate"], c["party"], c["office"])
+                          for c in rows if c["kind"] == "candidate"],
+                         [("Cindy Hyde-Smith", "REP", "U.S. Senate")])
+
+
+@unittest.skipUnless(SOURCES_PRESENT, "sources checkout not present")
+class UnionCountyTests(unittest.TestCase):
+    @classmethod
+    def setUpClass(cls):
+        cls.pd = ex.parse_county_pdf(
+            os.path.join(SOURCES_DIR, "Union_County_2026_general.pdf"),
+            "Union",
+            manifest_path=os.path.join(REPO, "2026/header-reads/"
+                                       "20261103__ms__general__union__headers.json"))
+        cls.problems = ex.run_gates(cls.pd)
+
+    def test_gates_clean(self):
+        self.assertEqual(self.problems["total_mismatches"], [])
+        self.assertEqual(self.problems["manifest"], [])
+        self.assertEqual(self.problems["structure"], [])
+        self.assertEqual(self.problems["conflicts"], [])
+
+    def test_all_candidates_have_full_cells_and_total(self):
+        for r in self.pd["candidate_rows"]:
+            self.assertEqual(len(r["cells"]), 20, r["candidate"])
+            self.assertEqual(sum(r["cells"].values()), r["total"])
+
+    def test_row_block_merging(self):
+        by_name = {r["candidate"]: r for r in self.pd["candidate_rows"]}
+        self.assertEqual(by_name["Scott Colom"]["total"], 2055)
+        self.assertEqual(by_name["Cindy Hyde-Smith"]["total"], 6761)
+        self.assertEqual(by_name["Michael Malski"]["total"], 7629)
+        self.assertEqual(by_name["Michael Malski"]["office"], "Chancery Court")
+        malski = by_name["Michael Malski"]
+        self.assertEqual(sum(malski["cells"].values()), 7629)
+
+    def test_races_office_stream(self):
+        offices = {(r["office"], r["district"]) for r in self.pd["candidate_rows"]
+                   if r["office"] is not None}
+        self.assertIn("U.S. Senate", {o for o, _ in offices})
+        self.assertIn("Chancery Court", {o for o, _ in offices})
+        self.assertIn("Circuit Court", {o for o, _ in offices})
+        house = [r for r in self.pd["candidate_rows"] if r["office"] == "U.S. House"]
+        self.assertEqual({(r["candidate"], r["party"])
+                          for r in house if r["district"] == "1"},
+                         {("Johnny Baucom", "LIB"), ("Cliff Johnson", "DEM"),
+                          ("Trent Kelly", "REP")})
+
+
 if __name__ == "__main__":
     unittest.main()
