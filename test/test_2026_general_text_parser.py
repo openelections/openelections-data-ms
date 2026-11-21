@@ -292,6 +292,10 @@ class LabelTests(unittest.TestCase):
                          ("Circuit Court", "3", 3))
         self.assertEqual(ex.parse_office("Circuit Court 3-Circuit District 03"),  # no place
                          ("Circuit Court", "3", None))
+        # Pike p5/p6/p7's sub-place family repeats the court's own name
+        # instead of a District mention: "Circuit Court 6-3-Circuit Court 6-3".
+        self.assertEqual(ex.parse_office("Circuit Court 6-3-Circuit Court 6-3"),
+                         ("Circuit Court", "6", 3))
 
     def test_judicial_family_fuzzy_rescue(self):
         # OCR-layer mangles, same digit-fallback logic as the Chancery branch.
@@ -3654,7 +3658,7 @@ class BatchRunnerTests(unittest.TestCase):
                           "Yalobusha", "Tallahatchie", "Marshall",
                           "Forrest", "Jones", "Lauderdale",
                           "Bolivar", "Itawamba", "Jackson",
-                          "Monroe"])
+                          "Monroe", "Pike"])
         job = batch.county_job("Union", "sources/here")
         self.assertEqual(batch.manifest_path("Union"),
                          Path("2026/header-reads/20261103__ms__general__"

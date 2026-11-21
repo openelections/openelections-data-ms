@@ -321,6 +321,13 @@ def parse_office(label, fuzzy=False):
         place = m.group(6) or m.group(3) or m.group(5)
         return (f"{m.group(1)} Court", str(int(m.group(2))),
                 int(place) if place else None)
+    m = re.search(r"(Chancery|Circuit) Court 0*(\d+)\s*-\s*0*(\d+)\s*-\s*"
+                  r"\1 Court 0*(\d+)\s*-\s*0*(\d+)", label)
+    if m:
+        # Pike p5/p7's sub-place family repeats the court's own name where
+        # the other double-dash labels mention "District": "Circuit Court
+        # 6-3-Circuit Court 6-3". Both halves carry district-place.
+        return (f"{m.group(1)} Court", str(int(m.group(2))), int(m.group(3)))
     if not m and fuzzy and _fuzzy_eq(label[:15], "CIRCUIT COURT", 0.7):
         # District-first family: "Circuit Court <d>-Circuit District <d>
         # Place <p>". The OCR layer hides the leading "1" of "13" inside the
