@@ -1,0 +1,571 @@
+county,precinct,office,district,candidate,party,votes
+Jones,ANTIOCH,U.S. Senate,,Scott Colom,DEM,26
+Jones,ANTIOCH,U.S. Senate,,Cindy Hyde-Smith,REP,177
+Jones,ANTIOCH,U.S. Senate,,Ty Pinkins,IND,15
+Jones,ANTIOCH,U.S. House,4,Mike Ezell,REP,193
+Jones,ANTIOCH,U.S. House,4,Jeffrey Hulum III,DEM,19
+Jones,ANTIOCH,U.S. House,4,Carl Boyanton,IND,6
+Jones,ANTIOCH,Court of Appeals,4,David McCarty,,0
+Jones,ANTIOCH,Chancery Court Place 1,19,Jerry D. Sharp,,209
+Jones,ANTIOCH,U.S. House,3,Michael A. Chiaradio,DEM,0
+Jones,ANTIOCH,U.S. House,3,Michael Guest,REP,0
+Jones,ANTIOCH,U.S. House,3,Erik Klehle,LIB,0
+Jones,ANTIOCH,Chancery Court Place 2,19,Kathryn Dickerson Clay,,207
+Jones,ANTIOCH,Circuit Court Place 1,18,Brad R. Thompson,,187
+Jones,ANTIOCH,Circuit Court Place 1,18,Eric Tiebauer,,26
+Jones,ANTIOCH,Circuit Court Place 2,18,Darryl A. Hurt Jr.,,209
+Jones,BIG CREEK,U.S. Senate,,Scott Colom,DEM,24
+Jones,BIG CREEK,U.S. Senate,,Cindy Hyde-Smith,REP,266
+Jones,BIG CREEK,U.S. Senate,,Ty Pinkins,IND,16
+Jones,BIG CREEK,U.S. House,4,Mike Ezell,REP,283
+Jones,BIG CREEK,U.S. House,4,Jeffrey Hulum III,DEM,17
+Jones,BIG CREEK,U.S. House,4,Carl Boyanton,IND,6
+Jones,BIG CREEK,Court of Appeals,4,David McCarty,,278
+Jones,BIG CREEK,Chancery Court Place 1,19,Jerry D. Sharp,,287
+Jones,BIG CREEK,U.S. House,3,Michael A. Chiaradio,DEM,0
+Jones,BIG CREEK,U.S. House,3,Michael Guest,REP,0
+Jones,BIG CREEK,U.S. House,3,Erik Klehle,LIB,0
+Jones,BIG CREEK,Chancery Court Place 2,19,Kathryn Dickerson Clay,,279
+Jones,BIG CREEK,Circuit Court Place 1,18,Brad R. Thompson,,265
+Jones,BIG CREEK,Circuit Court Place 1,18,Eric Tiebauer,,30
+Jones,BIG CREEK,Circuit Court Place 2,18,Darryl A. Hurt Jr.,,281
+Jones,BLACKWELL,U.S. Senate,,Scott Colom,DEM,10
+Jones,BLACKWELL,U.S. Senate,,Cindy Hyde-Smith,REP,175
+Jones,BLACKWELL,U.S. Senate,,Ty Pinkins,IND,11
+Jones,BLACKWELL,U.S. House,4,Mike Ezell,REP,192
+Jones,BLACKWELL,U.S. House,4,Jeffrey Hulum III,DEM,5
+Jones,BLACKWELL,U.S. House,4,Carl Boyanton,IND,2
+Jones,BLACKWELL,Court of Appeals,4,David McCarty,,186
+Jones,BLACKWELL,Chancery Court Place 1,19,Jerry D. Sharp,,185
+Jones,BLACKWELL,U.S. House,3,Michael A. Chiaradio,DEM,0
+Jones,BLACKWELL,U.S. House,3,Michael Guest,REP,0
+Jones,BLACKWELL,U.S. House,3,Erik Klehle,LIB,0
+Jones,BLACKWELL,Chancery Court Place 2,19,Kathryn Dickerson Clay,,189
+Jones,BLACKWELL,Circuit Court Place 1,18,Brad R. Thompson,,182
+Jones,BLACKWELL,Circuit Court Place 1,18,Eric Tiebauer,,13
+Jones,BLACKWELL,Circuit Court Place 2,18,Darryl A. Hurt Jr.,,188
+Jones,CALHOUN,U.S. Senate,,Scott Colom,DEM,106
+Jones,CALHOUN,U.S. Senate,,Cindy Hyde-Smith,REP,862
+Jones,CALHOUN,U.S. Senate,,Ty Pinkins,IND,33
+Jones,CALHOUN,U.S. House,4,Mike Ezell,REP,895
+Jones,CALHOUN,U.S. House,4,Jeffrey Hulum III,DEM,86
+Jones,CALHOUN,U.S. House,4,Carl Boyanton,IND,19
+Jones,CALHOUN,Court of Appeals,4,David McCarty,,935
+Jones,CALHOUN,Chancery Court Place 1,19,Jerry D. Sharp,,944
+Jones,CALHOUN,U.S. House,3,Michael A. Chiaradio,DEM,0
+Jones,CALHOUN,U.S. House,3,Michael Guest,REP,0
+Jones,CALHOUN,U.S. House,3,Erik Klehle,LIB,0
+Jones,CALHOUN,Chancery Court Place 2,19,Kathryn Dickerson Clay,,940
+Jones,CALHOUN,Circuit Court Place 1,18,Brad R. Thompson,,871
+Jones,CALHOUN,Circuit Court Place 1,18,Eric Tiebauer,,95
+Jones,CALHOUN,Circuit Court Place 2,18,Darryl A. Hurt Jr.,,938
+Jones,CENTERVILLE,U.S. Senate,,Scott Colom,DEM,4
+Jones,CENTERVILLE,U.S. Senate,,Cindy Hyde-Smith,REP,76
+Jones,CENTERVILLE,U.S. Senate,,Ty Pinkins,IND,2
+Jones,CENTERVILLE,U.S. House,4,Mike Ezell,REP,77
+Jones,CENTERVILLE,U.S. House,4,Jeffrey Hulum III,DEM,3
+Jones,CENTERVILLE,U.S. House,4,Carl Boyanton,IND,2
+Jones,CENTERVILLE,Court of Appeals,4,David McCarty,,70
+Jones,CENTERVILLE,Chancery Court Place 1,19,Jerry D. Sharp,,72
+Jones,CENTERVILLE,U.S. House,3,Michael A. Chiaradio,DEM,0
+Jones,CENTERVILLE,U.S. House,3,Michael Guest,REP,0
+Jones,CENTERVILLE,U.S. House,3,Erik Klehle,LIB,0
+Jones,CENTERVILLE,Chancery Court Place 2,19,Kathryn Dickerson Clay,,71
+Jones,CENTERVILLE,Circuit Court Place 1,18,Brad R. Thompson,,68
+Jones,CENTERVILLE,Circuit Court Place 1,18,Eric Tiebauer,,9
+Jones,CENTERVILLE,Circuit Court Place 2,18,Darryl A. Hurt Jr.,,71
+Jones,CURRIE,U.S. Senate,,Scott Colom,DEM,152
+Jones,CURRIE,U.S. Senate,,Cindy Hyde-Smith,REP,8
+Jones,CURRIE,U.S. Senate,,Ty Pinkins,IND,3
+Jones,CURRIE,U.S. House,4,Mike Ezell,REP,11
+Jones,CURRIE,U.S. House,4,Jeffrey Hulum III,DEM,146
+Jones,CURRIE,U.S. House,4,Carl Boyanton,IND,4
+Jones,CURRIE,Court of Appeals,4,David McCarty,,130
+Jones,CURRIE,Chancery Court Place 1,19,Jerry D. Sharp,,135
+Jones,CURRIE,U.S. House,3,Michael A. Chiaradio,DEM,0
+Jones,CURRIE,U.S. House,3,Michael Guest,REP,0
+Jones,CURRIE,U.S. House,3,Erik Klehle,LIB,0
+Jones,CURRIE,Chancery Court Place 2,19,Kathryn Dickerson Clay,,132
+Jones,CURRIE,Circuit Court Place 1,18,Brad R. Thompson,,80
+Jones,CURRIE,Circuit Court Place 1,18,Eric Tiebauer,,62
+Jones,CURRIE,Circuit Court Place 2,18,Darryl A. Hurt Jr.,,131
+Jones,ERATA,U.S. Senate,,Scott Colom,DEM,188
+Jones,ERATA,U.S. Senate,,Cindy Hyde-Smith,REP,123
+Jones,ERATA,U.S. Senate,,Ty Pinkins,IND,13
+Jones,ERATA,U.S. House,4,Mike Ezell,REP,143
+Jones,ERATA,U.S. House,4,Jeffrey Hulum III,DEM,173
+Jones,ERATA,U.S. House,4,Carl Boyanton,IND,7
+Jones,ERATA,Court of Appeals,4,David McCarty,,0
+Jones,ERATA,Chancery Court Place 1,19,Jerry D. Sharp,,283
+Jones,ERATA,U.S. House,3,Michael A. Chiaradio,DEM,0
+Jones,ERATA,U.S. House,3,Michael Guest,REP,0
+Jones,ERATA,U.S. House,3,Erik Klehle,LIB,0
+Jones,ERATA,Chancery Court Place 2,19,Kathryn Dickerson Clay,,273
+Jones,ERATA,Circuit Court Place 1,18,Brad R. Thompson,,197
+Jones,ERATA,Circuit Court Place 1,18,Eric Tiebauer,,107
+Jones,ERATA,Circuit Court Place 2,18,Darryl A. Hurt Jr.,,278
+Jones,FIRST ASSEMBLY OF GOD,U.S. Senate,,Scott Colom,DEM,375
+Jones,FIRST ASSEMBLY OF GOD,U.S. Senate,,Cindy Hyde-Smith,REP,189
+Jones,FIRST ASSEMBLY OF GOD,U.S. Senate,,Ty Pinkins,IND,18
+Jones,FIRST ASSEMBLY OF GOD,U.S. House,4,Mike Ezell,REP,217
+Jones,FIRST ASSEMBLY OF GOD,U.S. House,4,Jeffrey Hulum III,DEM,354
+Jones,FIRST ASSEMBLY OF GOD,U.S. House,4,Carl Boyanton,IND,11
+Jones,FIRST ASSEMBLY OF GOD,Court of Appeals,4,David McCarty,,483
+Jones,FIRST ASSEMBLY OF GOD,Chancery Court Place 1,19,Jerry D. Sharp,,489
+Jones,FIRST ASSEMBLY OF GOD,U.S. House,3,Michael A. Chiaradio,DEM,0
+Jones,FIRST ASSEMBLY OF GOD,U.S. House,3,Michael Guest,REP,0
+Jones,FIRST ASSEMBLY OF GOD,U.S. House,3,Erik Klehle,LIB,0
+Jones,FIRST ASSEMBLY OF GOD,Chancery Court Place 2,19,Kathryn Dickerson Clay,,489
+Jones,FIRST ASSEMBLY OF GOD,Circuit Court Place 1,18,Brad R. Thompson,,403
+Jones,FIRST ASSEMBLY OF GOD,Circuit Court Place 1,18,Eric Tiebauer,,139
+Jones,FIRST ASSEMBLY OF GOD,Circuit Court Place 2,18,Darryl A. Hurt Jr.,,490
+Jones,GEORGE HARRISON,U.S. Senate,,Scott Colom,DEM,207
+Jones,GEORGE HARRISON,U.S. Senate,,Cindy Hyde-Smith,REP,502
+Jones,GEORGE HARRISON,U.S. Senate,,Ty Pinkins,IND,36
+Jones,GEORGE HARRISON,U.S. House,4,Mike Ezell,REP,537
+Jones,GEORGE HARRISON,U.S. House,4,Jeffrey Hulum III,DEM,183
+Jones,GEORGE HARRISON,U.S. House,4,Carl Boyanton,IND,22
+Jones,GEORGE HARRISON,Court of Appeals,4,David McCarty,,645
+Jones,GEORGE HARRISON,Chancery Court Place 1,19,Jerry D. Sharp,,660
+Jones,GEORGE HARRISON,U.S. House,3,Michael A. Chiaradio,DEM,0
+Jones,GEORGE HARRISON,U.S. House,3,Michael Guest,REP,0
+Jones,GEORGE HARRISON,U.S. House,3,Erik Klehle,LIB,0
+Jones,GEORGE HARRISON,Chancery Court Place 2,19,Kathryn Dickerson Clay,,651
+Jones,GEORGE HARRISON,Circuit Court Place 1,18,Brad R. Thompson,,585
+Jones,GEORGE HARRISON,Circuit Court Place 1,18,Eric Tiebauer,,113
+Jones,GEORGE HARRISON,Circuit Court Place 2,18,Darryl A. Hurt Jr.,,657
+Jones,GITANO,U.S. Senate,,Scott Colom,DEM,47
+Jones,GITANO,U.S. Senate,,Cindy Hyde-Smith,REP,136
+Jones,GITANO,U.S. Senate,,Ty Pinkins,IND,5
+Jones,GITANO,U.S. House,4,Mike Ezell,REP,142
+Jones,GITANO,U.S. House,4,Jeffrey Hulum III,DEM,41
+Jones,GITANO,U.S. House,4,Carl Boyanton,IND,4
+Jones,GITANO,Court of Appeals,4,David McCarty,,176
+Jones,GITANO,Chancery Court Place 1,19,Jerry D. Sharp,,174
+Jones,GITANO,U.S. House,3,Michael A. Chiaradio,DEM,0
+Jones,GITANO,U.S. House,3,Michael Guest,REP,0
+Jones,GITANO,U.S. House,3,Erik Klehle,LIB,0
+Jones,GITANO,Chancery Court Place 2,19,Kathryn Dickerson Clay,,172
+Jones,GITANO,Circuit Court Place 1,18,Brad R. Thompson,,148
+Jones,GITANO,Circuit Court Place 1,18,Eric Tiebauer,,30
+Jones,GITANO,Circuit Court Place 2,18,Darryl A. Hurt Jr.,,173
+Jones,GLADE,U.S. Senate,,Scott Colom,DEM,68
+Jones,GLADE,U.S. Senate,,Cindy Hyde-Smith,REP,426
+Jones,GLADE,U.S. Senate,,Ty Pinkins,IND,27
+Jones,GLADE,U.S. House,4,Mike Ezell,REP,453
+Jones,GLADE,U.S. House,4,Jeffrey Hulum III,DEM,59
+Jones,GLADE,U.S. House,4,Carl Boyanton,IND,11
+Jones,GLADE,Court of Appeals,4,David McCarty,,0
+Jones,GLADE,Chancery Court Place 1,19,Jerry D. Sharp,,486
+Jones,GLADE,U.S. House,3,Michael A. Chiaradio,DEM,0
+Jones,GLADE,U.S. House,3,Michael Guest,REP,0
+Jones,GLADE,U.S. House,3,Erik Klehle,LIB,0
+Jones,GLADE,Chancery Court Place 2,19,Kathryn Dickerson Clay,,482
+Jones,GLADE,Circuit Court Place 1,18,Brad R. Thompson,,438
+Jones,GLADE,Circuit Court Place 1,18,Eric Tiebauer,,63
+Jones,GLADE,Circuit Court Place 2,18,Darryl A. Hurt Jr.,,481
+Jones,HEBRON,U.S. Senate,,Scott Colom,DEM,285
+Jones,HEBRON,U.S. Senate,,Cindy Hyde-Smith,REP,138
+Jones,HEBRON,U.S. Senate,,Ty Pinkins,IND,10
+Jones,HEBRON,U.S. House,4,Mike Ezell,REP,158
+Jones,HEBRON,U.S. House,4,Jeffrey Hulum III,DEM,267
+Jones,HEBRON,U.S. House,4,Carl Boyanton,IND,8
+Jones,HEBRON,Court of Appeals,4,David McCarty,,377
+Jones,HEBRON,Chancery Court Place 1,19,Jerry D. Sharp,,379
+Jones,HEBRON,U.S. House,3,Michael A. Chiaradio,DEM,0
+Jones,HEBRON,U.S. House,3,Michael Guest,REP,0
+Jones,HEBRON,U.S. House,3,Erik Klehle,LIB,0
+Jones,HEBRON,Chancery Court Place 2,19,Kathryn Dickerson Clay,,374
+Jones,HEBRON,Circuit Court Place 1,18,Brad R. Thompson,,304
+Jones,HEBRON,Circuit Court Place 1,18,Eric Tiebauer,,100
+Jones,HEBRON,Circuit Court Place 2,18,Darryl A. Hurt Jr.,,377
+Jones,JOHNSON,U.S. Senate,,Scott Colom,DEM,30
+Jones,JOHNSON,U.S. Senate,,Cindy Hyde-Smith,REP,303
+Jones,JOHNSON,U.S. Senate,,Ty Pinkins,IND,13
+Jones,JOHNSON,U.S. House,4,Mike Ezell,REP,316
+Jones,JOHNSON,U.S. House,4,Jeffrey Hulum III,DEM,24
+Jones,JOHNSON,U.S. House,4,Carl Boyanton,IND,10
+Jones,JOHNSON,Court of Appeals,4,David McCarty,,325
+Jones,JOHNSON,Chancery Court Place 1,19,Jerry D. Sharp,,325
+Jones,JOHNSON,U.S. House,3,Michael A. Chiaradio,DEM,0
+Jones,JOHNSON,U.S. House,3,Michael Guest,REP,0
+Jones,JOHNSON,U.S. House,3,Erik Klehle,LIB,0
+Jones,JOHNSON,Chancery Court Place 2,19,Kathryn Dickerson Clay,,325
+Jones,JOHNSON,Circuit Court Place 1,18,Brad R. Thompson,,299
+Jones,JOHNSON,Circuit Court Place 1,18,Eric Tiebauer,,37
+Jones,JOHNSON,Circuit Court Place 2,18,Darryl A. Hurt Jr.,,325
+Jones,LANDRUM,U.S. Senate,,Scott Colom,DEM,23
+Jones,LANDRUM,U.S. Senate,,Cindy Hyde-Smith,REP,172
+Jones,LANDRUM,U.S. Senate,,Ty Pinkins,IND,7
+Jones,LANDRUM,U.S. House,4,Mike Ezell,REP,179
+Jones,LANDRUM,U.S. House,4,Jeffrey Hulum III,DEM,20
+Jones,LANDRUM,U.S. House,4,Carl Boyanton,IND,3
+Jones,LANDRUM,Court of Appeals,4,David McCarty,,0
+Jones,LANDRUM,Chancery Court Place 1,19,Jerry D. Sharp,,187
+Jones,LANDRUM,U.S. House,3,Michael A. Chiaradio,DEM,0
+Jones,LANDRUM,U.S. House,3,Michael Guest,REP,0
+Jones,LANDRUM,U.S. House,3,Erik Klehle,LIB,0
+Jones,LANDRUM,Chancery Court Place 2,19,Kathryn Dickerson Clay,,183
+Jones,LANDRUM,Circuit Court Place 1,18,Brad R. Thompson,,175
+Jones,LANDRUM,Circuit Court Place 1,18,Eric Tiebauer,,22
+Jones,LANDRUM,Circuit Court Place 2,18,Darryl A. Hurt Jr.,,183
+Jones,LT ELLIS CENTER,U.S. Senate,,Scott Colom,DEM,1105
+Jones,LT ELLIS CENTER,U.S. Senate,,Cindy Hyde-Smith,REP,37
+Jones,LT ELLIS CENTER,U.S. Senate,,Ty Pinkins,IND,12
+Jones,LT ELLIS CENTER,U.S. House,4,Mike Ezell,REP,74
+Jones,LT ELLIS CENTER,U.S. House,4,Jeffrey Hulum III,DEM,1052
+Jones,LT ELLIS CENTER,U.S. House,4,Carl Boyanton,IND,20
+Jones,LT ELLIS CENTER,Court of Appeals,4,David McCarty,,911
+Jones,LT ELLIS CENTER,Chancery Court Place 1,19,Jerry D. Sharp,,926
+Jones,LT ELLIS CENTER,U.S. House,3,Michael A. Chiaradio,DEM,0
+Jones,LT ELLIS CENTER,U.S. House,3,Michael Guest,REP,0
+Jones,LT ELLIS CENTER,U.S. House,3,Erik Klehle,LIB,0
+Jones,LT ELLIS CENTER,Chancery Court Place 2,19,Kathryn Dickerson Clay,,902
+Jones,LT ELLIS CENTER,Circuit Court Place 1,18,Brad R. Thompson,,497
+Jones,LT ELLIS CENTER,Circuit Court Place 1,18,Eric Tiebauer,,528
+Jones,LT ELLIS CENTER,Circuit Court Place 2,18,Darryl A. Hurt Jr.,,911
+Jones,MAGNOLIA CENTER,U.S. Senate,,Scott Colom,DEM,941
+Jones,MAGNOLIA CENTER,U.S. Senate,,Cindy Hyde-Smith,REP,162
+Jones,MAGNOLIA CENTER,U.S. Senate,,Ty Pinkins,IND,15
+Jones,MAGNOLIA CENTER,U.S. House,4,Mike Ezell,REP,192
+Jones,MAGNOLIA CENTER,U.S. House,4,Jeffrey Hulum III,DEM,900
+Jones,MAGNOLIA CENTER,U.S. House,4,Carl Boyanton,IND,27
+Jones,MAGNOLIA CENTER,Court of Appeals,4,David McCarty,,947
+Jones,MAGNOLIA CENTER,Chancery Court Place 1,19,Jerry D. Sharp,,952
+Jones,MAGNOLIA CENTER,U.S. House,3,Michael A. Chiaradio,DEM,0
+Jones,MAGNOLIA CENTER,U.S. House,3,Michael Guest,REP,0
+Jones,MAGNOLIA CENTER,U.S. House,3,Erik Klehle,LIB,0
+Jones,MAGNOLIA CENTER,Chancery Court Place 2,19,Kathryn Dickerson Clay,,944
+Jones,MAGNOLIA CENTER,Circuit Court Place 1,18,Brad R. Thompson,,606
+Jones,MAGNOLIA CENTER,Circuit Court Place 1,18,Eric Tiebauer,,417
+Jones,MAGNOLIA CENTER,Circuit Court Place 2,18,Darryl A. Hurt Jr.,,940
+Jones,MATTHEWS,U.S. Senate,,Scott Colom,DEM,29
+Jones,MATTHEWS,U.S. Senate,,Cindy Hyde-Smith,REP,253
+Jones,MATTHEWS,U.S. Senate,,Ty Pinkins,IND,7
+Jones,MATTHEWS,U.S. House,4,Mike Ezell,REP,0
+Jones,MATTHEWS,U.S. House,4,Jeffrey Hulum III,DEM,0
+Jones,MATTHEWS,U.S. House,4,Carl Boyanton,IND,0
+Jones,MATTHEWS,Court of Appeals,4,David McCarty,,276
+Jones,MATTHEWS,Chancery Court Place 1,19,Jerry D. Sharp,,278
+Jones,MATTHEWS,U.S. House,3,Michael A. Chiaradio,DEM,25
+Jones,MATTHEWS,U.S. House,3,Michael Guest,REP,261
+Jones,MATTHEWS,U.S. House,3,Erik Klehle,LIB,4
+Jones,MATTHEWS,Chancery Court Place 2,19,Kathryn Dickerson Clay,,280
+Jones,MATTHEWS,Circuit Court Place 1,18,Brad R. Thompson,,253
+Jones,MATTHEWS,Circuit Court Place 1,18,Eric Tiebauer,,35
+Jones,MATTHEWS,Circuit Court Place 2,18,Darryl A. Hurt Jr.,,279
+Jones,MERCHANTS PARK,U.S. Senate,,Scott Colom,DEM,79
+Jones,MERCHANTS PARK,U.S. Senate,,Cindy Hyde-Smith,REP,429
+Jones,MERCHANTS PARK,U.S. Senate,,Ty Pinkins,IND,14
+Jones,MERCHANTS PARK,U.S. House,4,Mike Ezell,REP,449
+Jones,MERCHANTS PARK,U.S. House,4,Jeffrey Hulum III,DEM,65
+Jones,MERCHANTS PARK,U.S. House,4,Carl Boyanton,IND,10
+Jones,MERCHANTS PARK,Court of Appeals,4,David McCarty,,494
+Jones,MERCHANTS PARK,Chancery Court Place 1,19,Jerry D. Sharp,,498
+Jones,MERCHANTS PARK,U.S. House,3,Michael A. Chiaradio,DEM,0
+Jones,MERCHANTS PARK,U.S. House,3,Michael Guest,REP,0
+Jones,MERCHANTS PARK,U.S. House,3,Erik Klehle,LIB,0
+Jones,MERCHANTS PARK,Chancery Court Place 2,19,Kathryn Dickerson Clay,,495
+Jones,MERCHANTS PARK,Circuit Court Place 1,18,Brad R. Thompson,,455
+Jones,MERCHANTS PARK,Circuit Court Place 1,18,Eric Tiebauer,,46
+Jones,MERCHANTS PARK,Circuit Court Place 2,18,Darryl A. Hurt Jr.,,494
+Jones,MOSELLE,U.S. Senate,,Scott Colom,DEM,234
+Jones,MOSELLE,U.S. Senate,,Cindy Hyde-Smith,REP,402
+Jones,MOSELLE,U.S. Senate,,Ty Pinkins,IND,24
+Jones,MOSELLE,U.S. House,4,Mike Ezell,REP,429
+Jones,MOSELLE,U.S. House,4,Jeffrey Hulum III,DEM,219
+Jones,MOSELLE,U.S. House,4,Carl Boyanton,IND,13
+Jones,MOSELLE,Court of Appeals,4,David McCarty,,565
+Jones,MOSELLE,Chancery Court Place 1,19,Jerry D. Sharp,,576
+Jones,MOSELLE,U.S. House,3,Michael A. Chiaradio,DEM,0
+Jones,MOSELLE,U.S. House,3,Michael Guest,REP,0
+Jones,MOSELLE,U.S. House,3,Erik Klehle,LIB,0
+Jones,MOSELLE,Chancery Court Place 2,19,Kathryn Dickerson Clay,,572
+Jones,MOSELLE,Circuit Court Place 1,18,Brad R. Thompson,,485
+Jones,MOSELLE,Circuit Court Place 1,18,Eric Tiebauer,,112
+Jones,MOSELLE,Circuit Court Place 2,18,Darryl A. Hurt Jr.,,571
+Jones,MYRICK,U.S. Senate,,Scott Colom,DEM,60
+Jones,MYRICK,U.S. Senate,,Cindy Hyde-Smith,REP,533
+Jones,MYRICK,U.S. Senate,,Ty Pinkins,IND,32
+Jones,MYRICK,U.S. House,4,Mike Ezell,REP,565
+Jones,MYRICK,U.S. House,4,Jeffrey Hulum III,DEM,44
+Jones,MYRICK,U.S. House,4,Carl Boyanton,IND,18
+Jones,MYRICK,Court of Appeals,4,David McCarty,,0
+Jones,MYRICK,Chancery Court Place 1,19,Jerry D. Sharp,,574
+Jones,MYRICK,U.S. House,3,Michael A. Chiaradio,DEM,0
+Jones,MYRICK,U.S. House,3,Michael Guest,REP,0
+Jones,MYRICK,U.S. House,3,Erik Klehle,LIB,0
+Jones,MYRICK,Chancery Court Place 2,19,Kathryn Dickerson Clay,,574
+Jones,MYRICK,Circuit Court Place 1,18,Brad R. Thompson,,523
+Jones,MYRICK,Circuit Court Place 1,18,Eric Tiebauer,,79
+Jones,MYRICK,Circuit Court Place 2,18,Darryl A. Hurt Jr.,,570
+Jones,NORTH LAUREL,U.S. Senate,,Scott Colom,DEM,796
+Jones,NORTH LAUREL,U.S. Senate,,Cindy Hyde-Smith,REP,698
+Jones,NORTH LAUREL,U.S. Senate,,Ty Pinkins,IND,41
+Jones,NORTH LAUREL,U.S. House,4,Mike Ezell,REP,761
+Jones,NORTH LAUREL,U.S. House,4,Jeffrey Hulum III,DEM,726
+Jones,NORTH LAUREL,U.S. House,4,Carl Boyanton,IND,44
+Jones,NORTH LAUREL,Court of Appeals,4,David McCarty,,1312
+Jones,NORTH LAUREL,Chancery Court Place 1,19,Jerry D. Sharp,,1317
+Jones,NORTH LAUREL,U.S. House,3,Michael A. Chiaradio,DEM,0
+Jones,NORTH LAUREL,U.S. House,3,Michael Guest,REP,0
+Jones,NORTH LAUREL,U.S. House,3,Erik Klehle,LIB,0
+Jones,NORTH LAUREL,Chancery Court Place 2,19,Kathryn Dickerson Clay,,1308
+Jones,NORTH LAUREL,Circuit Court Place 1,18,Brad R. Thompson,,1042
+Jones,NORTH LAUREL,Circuit Court Place 1,18,Eric Tiebauer,,365
+Jones,NORTH LAUREL,Circuit Court Place 2,18,Darryl A. Hurt Jr.,,1302
+Jones,OAK PARK ALUMNI BLDG,U.S. Senate,,Scott Colom,DEM,382
+Jones,OAK PARK ALUMNI BLDG,U.S. Senate,,Cindy Hyde-Smith,REP,6
+Jones,OAK PARK ALUMNI BLDG,U.S. Senate,,Ty Pinkins,IND,3
+Jones,OAK PARK ALUMNI BLDG,U.S. House,4,Mike Ezell,REP,11
+Jones,OAK PARK ALUMNI BLDG,U.S. House,4,Jeffrey Hulum III,DEM,374
+Jones,OAK PARK ALUMNI BLDG,U.S. House,4,Carl Boyanton,IND,8
+Jones,OAK PARK ALUMNI BLDG,Court of Appeals,4,David McCarty,,315
+Jones,OAK PARK ALUMNI BLDG,Chancery Court Place 1,19,Jerry D. Sharp,,313
+Jones,OAK PARK ALUMNI BLDG,U.S. House,3,Michael A. Chiaradio,DEM,0
+Jones,OAK PARK ALUMNI BLDG,U.S. House,3,Michael Guest,REP,0
+Jones,OAK PARK ALUMNI BLDG,U.S. House,3,Erik Klehle,LIB,0
+Jones,OAK PARK ALUMNI BLDG,Chancery Court Place 2,19,Kathryn Dickerson Clay,,304
+Jones,OAK PARK ALUMNI BLDG,Circuit Court Place 1,18,Brad R. Thompson,,176
+Jones,OAK PARK ALUMNI BLDG,Circuit Court Place 1,18,Eric Tiebauer,,171
+Jones,OAK PARK ALUMNI BLDG,Circuit Court Place 2,18,Darryl A. Hurt Jr.,,308
+Jones,OVETT,U.S. Senate,,Scott Colom,DEM,45
+Jones,OVETT,U.S. Senate,,Cindy Hyde-Smith,REP,325
+Jones,OVETT,U.S. Senate,,Ty Pinkins,IND,27
+Jones,OVETT,U.S. House,4,Mike Ezell,REP,353
+Jones,OVETT,U.S. House,4,Jeffrey Hulum III,DEM,33
+Jones,OVETT,U.S. House,4,Carl Boyanton,IND,14
+Jones,OVETT,Court of Appeals,4,David McCarty,,372
+Jones,OVETT,Chancery Court Place 1,19,Jerry D. Sharp,,373
+Jones,OVETT,U.S. House,3,Michael A. Chiaradio,DEM,0
+Jones,OVETT,U.S. House,3,Michael Guest,REP,0
+Jones,OVETT,U.S. House,3,Erik Klehle,LIB,0
+Jones,OVETT,Chancery Court Place 2,19,Kathryn Dickerson Clay,,371
+Jones,OVETT,Circuit Court Place 1,18,Brad R. Thompson,,342
+Jones,OVETT,Circuit Court Place 1,18,Eric Tiebauer,,45
+Jones,OVETT,Circuit Court Place 2,18,Darryl A. Hurt Jr.,,372
+Jones,PARKVIEW BAPTIST CHURCH,U.S. Senate,,Scott Colom,DEM,278
+Jones,PARKVIEW BAPTIST CHURCH,U.S. Senate,,Cindy Hyde-Smith,REP,244
+Jones,PARKVIEW BAPTIST CHURCH,U.S. Senate,,Ty Pinkins,IND,12
+Jones,PARKVIEW BAPTIST CHURCH,U.S. House,4,Mike Ezell,REP,271
+Jones,PARKVIEW BAPTIST CHURCH,U.S. House,4,Jeffrey Hulum III,DEM,246
+Jones,PARKVIEW BAPTIST CHURCH,U.S. House,4,Carl Boyanton,IND,14
+Jones,PARKVIEW BAPTIST CHURCH,Court of Appeals,4,David McCarty,,455
+Jones,PARKVIEW BAPTIST CHURCH,Chancery Court Place 1,19,Jerry D. Sharp,,452
+Jones,PARKVIEW BAPTIST CHURCH,U.S. House,3,Michael A. Chiaradio,DEM,0
+Jones,PARKVIEW BAPTIST CHURCH,U.S. House,3,Michael Guest,REP,0
+Jones,PARKVIEW BAPTIST CHURCH,U.S. House,3,Erik Klehle,LIB,0
+Jones,PARKVIEW BAPTIST CHURCH,Chancery Court Place 2,19,Kathryn Dickerson Clay,,451
+Jones,PARKVIEW BAPTIST CHURCH,Circuit Court Place 1,18,Brad R. Thompson,,362
+Jones,PARKVIEW BAPTIST CHURCH,Circuit Court Place 1,18,Eric Tiebauer,,115
+Jones,PARKVIEW BAPTIST CHURCH,Circuit Court Place 2,18,Darryl A. Hurt Jr.,,451
+Jones,PINE GROVE,U.S. Senate,,Scott Colom,DEM,46
+Jones,PINE GROVE,U.S. Senate,,Cindy Hyde-Smith,REP,367
+Jones,PINE GROVE,U.S. Senate,,Ty Pinkins,IND,33
+Jones,PINE GROVE,U.S. House,4,Mike Ezell,REP,399
+Jones,PINE GROVE,U.S. House,4,Jeffrey Hulum III,DEM,34
+Jones,PINE GROVE,U.S. House,4,Carl Boyanton,IND,17
+Jones,PINE GROVE,Court of Appeals,4,David McCarty,,419
+Jones,PINE GROVE,Chancery Court Place 1,19,Jerry D. Sharp,,423
+Jones,PINE GROVE,U.S. House,3,Michael A. Chiaradio,DEM,0
+Jones,PINE GROVE,U.S. House,3,Michael Guest,REP,0
+Jones,PINE GROVE,U.S. House,3,Erik Klehle,LIB,0
+Jones,PINE GROVE,Chancery Court Place 2,19,Kathryn Dickerson Clay,,415
+Jones,PINE GROVE,Circuit Court Place 1,18,Brad R. Thompson,,386
+Jones,PINE GROVE,Circuit Court Place 1,18,Eric Tiebauer,,53
+Jones,PINE GROVE,Circuit Court Place 2,18,Darryl A. Hurt Jr.,,416
+Jones,PLEASANT RIDGE,U.S. Senate,,Scott Colom,DEM,38
+Jones,PLEASANT RIDGE,U.S. Senate,,Cindy Hyde-Smith,REP,322
+Jones,PLEASANT RIDGE,U.S. Senate,,Ty Pinkins,IND,9
+Jones,PLEASANT RIDGE,U.S. House,4,Mike Ezell,REP,332
+Jones,PLEASANT RIDGE,U.S. House,4,Jeffrey Hulum III,DEM,28
+Jones,PLEASANT RIDGE,U.S. House,4,Carl Boyanton,IND,9
+Jones,PLEASANT RIDGE,Court of Appeals,4,David McCarty,,351
+Jones,PLEASANT RIDGE,Chancery Court Place 1,19,Jerry D. Sharp,,355
+Jones,PLEASANT RIDGE,U.S. House,3,Michael A. Chiaradio,DEM,0
+Jones,PLEASANT RIDGE,U.S. House,3,Michael Guest,REP,0
+Jones,PLEASANT RIDGE,U.S. House,3,Erik Klehle,LIB,0
+Jones,PLEASANT RIDGE,Chancery Court Place 2,19,Kathryn Dickerson Clay,,350
+Jones,PLEASANT RIDGE,Circuit Court Place 1,18,Brad R. Thompson,,340
+Jones,PLEASANT RIDGE,Circuit Court Place 1,18,Eric Tiebauer,,25
+Jones,PLEASANT RIDGE,Circuit Court Place 2,18,Darryl A. Hurt Jr.,,352
+Jones,POWERS,U.S. Senate,,Scott Colom,DEM,189
+Jones,POWERS,U.S. Senate,,Cindy Hyde-Smith,REP,432
+Jones,POWERS,U.S. Senate,,Ty Pinkins,IND,22
+Jones,POWERS,U.S. House,4,Mike Ezell,REP,455
+Jones,POWERS,U.S. House,4,Jeffrey Hulum III,DEM,171
+Jones,POWERS,U.S. House,4,Carl Boyanton,IND,17
+Jones,POWERS,Court of Appeals,4,David McCarty,,0
+Jones,POWERS,Chancery Court Place 1,19,Jerry D. Sharp,,589
+Jones,POWERS,U.S. House,3,Michael A. Chiaradio,DEM,0
+Jones,POWERS,U.S. House,3,Michael Guest,REP,0
+Jones,POWERS,U.S. House,3,Erik Klehle,LIB,0
+Jones,POWERS,Chancery Court Place 2,19,Kathryn Dickerson Clay,,581
+Jones,POWERS,Circuit Court Place 1,18,Brad R. Thompson,,490
+Jones,POWERS,Circuit Court Place 1,18,Eric Tiebauer,,123
+Jones,POWERS,Circuit Court Place 2,18,Darryl A. Hurt Jr.,,572
+Jones,RAINEY,U.S. Senate,,Scott Colom,DEM,68
+Jones,RAINEY,U.S. Senate,,Cindy Hyde-Smith,REP,538
+Jones,RAINEY,U.S. Senate,,Ty Pinkins,IND,25
+Jones,RAINEY,U.S. House,4,Mike Ezell,REP,559
+Jones,RAINEY,U.S. House,4,Jeffrey Hulum III,DEM,54
+Jones,RAINEY,U.S. House,4,Carl Boyanton,IND,19
+Jones,RAINEY,Court of Appeals,4,David McCarty,,589
+Jones,RAINEY,Chancery Court Place 1,19,Jerry D. Sharp,,591
+Jones,RAINEY,U.S. House,3,Michael A. Chiaradio,DEM,0
+Jones,RAINEY,U.S. House,3,Michael Guest,REP,0
+Jones,RAINEY,U.S. House,3,Erik Klehle,LIB,0
+Jones,RAINEY,Chancery Court Place 2,19,Kathryn Dickerson Clay,,586
+Jones,RAINEY,Circuit Court Place 1,18,Brad R. Thompson,,550
+Jones,RAINEY,Circuit Court Place 1,18,Eric Tiebauer,,59
+Jones,RAINEY,Circuit Court Place 2,18,Darryl A. Hurt Jr.,,588
+Jones,RUSTIN,U.S. Senate,,Scott Colom,DEM,32
+Jones,RUSTIN,U.S. Senate,,Cindy Hyde-Smith,REP,268
+Jones,RUSTIN,U.S. Senate,,Ty Pinkins,IND,16
+Jones,RUSTIN,U.S. House,4,Mike Ezell,REP,285
+Jones,RUSTIN,U.S. House,4,Jeffrey Hulum III,DEM,24
+Jones,RUSTIN,U.S. House,4,Carl Boyanton,IND,8
+Jones,RUSTIN,Court of Appeals,4,David McCarty,,0
+Jones,RUSTIN,Chancery Court Place 1,19,Jerry D. Sharp,,301
+Jones,RUSTIN,U.S. House,3,Michael A. Chiaradio,DEM,0
+Jones,RUSTIN,U.S. House,3,Michael Guest,REP,0
+Jones,RUSTIN,U.S. House,3,Erik Klehle,LIB,0
+Jones,RUSTIN,Chancery Court Place 2,19,Kathryn Dickerson Clay,,300
+Jones,RUSTIN,Circuit Court Place 1,18,Brad R. Thompson,,273
+Jones,RUSTIN,Circuit Court Place 1,18,Eric Tiebauer,,40
+Jones,RUSTIN,Circuit Court Place 2,18,Darryl A. Hurt Jr.,,301
+Jones,SAND HILL,U.S. Senate,,Scott Colom,DEM,12
+Jones,SAND HILL,U.S. Senate,,Cindy Hyde-Smith,REP,115
+Jones,SAND HILL,U.S. Senate,,Ty Pinkins,IND,13
+Jones,SAND HILL,U.S. House,4,Mike Ezell,REP,124
+Jones,SAND HILL,U.S. House,4,Jeffrey Hulum III,DEM,10
+Jones,SAND HILL,U.S. House,4,Carl Boyanton,IND,7
+Jones,SAND HILL,Court of Appeals,4,David McCarty,,134
+Jones,SAND HILL,Chancery Court Place 1,19,Jerry D. Sharp,,136
+Jones,SAND HILL,U.S. House,3,Michael A. Chiaradio,DEM,0
+Jones,SAND HILL,U.S. House,3,Michael Guest,REP,0
+Jones,SAND HILL,U.S. House,3,Erik Klehle,LIB,0
+Jones,SAND HILL,Chancery Court Place 2,19,Kathryn Dickerson Clay,,132
+Jones,SAND HILL,Circuit Court Place 1,18,Brad R. Thompson,,131
+Jones,SAND HILL,Circuit Court Place 1,18,Eric Tiebauer,,6
+Jones,SAND HILL,Circuit Court Place 2,18,Darryl A. Hurt Jr.,,133
+Jones,SANDERSVILLE,U.S. Senate,,Scott Colom,DEM,95
+Jones,SANDERSVILLE,U.S. Senate,,Cindy Hyde-Smith,REP,262
+Jones,SANDERSVILLE,U.S. Senate,,Ty Pinkins,IND,23
+Jones,SANDERSVILLE,U.S. House,4,Mike Ezell,REP,0
+Jones,SANDERSVILLE,U.S. House,4,Jeffrey Hulum III,DEM,0
+Jones,SANDERSVILLE,U.S. House,4,Carl Boyanton,IND,0
+Jones,SANDERSVILLE,Court of Appeals,4,David McCarty,,0
+Jones,SANDERSVILLE,Chancery Court Place 1,19,Jerry D. Sharp,,355
+Jones,SANDERSVILLE,U.S. House,3,Michael A. Chiaradio,DEM,90
+Jones,SANDERSVILLE,U.S. House,3,Michael Guest,REP,286
+Jones,SANDERSVILLE,U.S. House,3,Erik Klehle,LIB,7
+Jones,SANDERSVILLE,Chancery Court Place 2,19,Kathryn Dickerson Clay,,351
+Jones,SANDERSVILLE,Circuit Court Place 1,18,Brad R. Thompson,,294
+Jones,SANDERSVILLE,Circuit Court Place 1,18,Eric Tiebauer,,74
+Jones,SANDERSVILLE,Circuit Court Place 2,18,Darryl A. Hurt Jr.,,357
+Jones,SHADY GROVE,U.S. Senate,,Scott Colom,DEM,417
+Jones,SHADY GROVE,U.S. Senate,,Cindy Hyde-Smith,REP,719
+Jones,SHADY GROVE,U.S. Senate,,Ty Pinkins,IND,25
+Jones,SHADY GROVE,U.S. House,4,Mike Ezell,REP,0
+Jones,SHADY GROVE,U.S. House,4,Jeffrey Hulum III,DEM,0
+Jones,SHADY GROVE,U.S. House,4,Carl Boyanton,IND,0
+Jones,SHADY GROVE,Court of Appeals,4,David McCarty,,0
+Jones,SHADY GROVE,Chancery Court Place 1,19,Jerry D. Sharp,,1059
+Jones,SHADY GROVE,U.S. House,3,Michael A. Chiaradio,DEM,383
+Jones,SHADY GROVE,U.S. House,3,Michael Guest,REP,752
+Jones,SHADY GROVE,U.S. House,3,Erik Klehle,LIB,22
+Jones,SHADY GROVE,Chancery Court Place 2,19,Kathryn Dickerson Clay,,1040
+Jones,SHADY GROVE,Circuit Court Place 1,18,Brad R. Thompson,,875
+Jones,SHADY GROVE,Circuit Court Place 1,18,Eric Tiebauer,,231
+Jones,SHADY GROVE,Circuit Court Place 2,18,Darryl A. Hurt Jr.,,1035
+Jones,SHARON,U.S. Senate,,Scott Colom,DEM,441
+Jones,SHARON,U.S. Senate,,Cindy Hyde-Smith,REP,643
+Jones,SHARON,U.S. Senate,,Ty Pinkins,IND,35
+Jones,SHARON,U.S. House,4,Mike Ezell,REP,0
+Jones,SHARON,U.S. House,4,Jeffrey Hulum III,DEM,0
+Jones,SHARON,U.S. House,4,Carl Boyanton,IND,0
+Jones,SHARON,Court of Appeals,4,David McCarty,,0
+Jones,SHARON,Chancery Court Place 1,19,Jerry D. Sharp,,1017
+Jones,SHARON,U.S. House,3,Michael A. Chiaradio,DEM,407
+Jones,SHARON,U.S. House,3,Michael Guest,REP,690
+Jones,SHARON,U.S. House,3,Erik Klehle,LIB,11
+Jones,SHARON,Chancery Court Place 2,19,Kathryn Dickerson Clay,,991
+Jones,SHARON,Circuit Court Place 1,18,Brad R. Thompson,,832
+Jones,SHARON,Circuit Court Place 1,18,Eric Tiebauer,,224
+Jones,SHARON,Circuit Court Place 2,18,Darryl A. Hurt Jr.,,989
+Jones,SHELTON,U.S. Senate,,Scott Colom,DEM,166
+Jones,SHELTON,U.S. Senate,,Cindy Hyde-Smith,REP,262
+Jones,SHELTON,U.S. Senate,,Ty Pinkins,IND,10
+Jones,SHELTON,U.S. House,4,Mike Ezell,REP,284
+Jones,SHELTON,U.S. House,4,Jeffrey Hulum III,DEM,150
+Jones,SHELTON,U.S. House,4,Carl Boyanton,IND,3
+Jones,SHELTON,Court of Appeals,4,David McCarty,,366
+Jones,SHELTON,Chancery Court Place 1,19,Jerry D. Sharp,,374
+Jones,SHELTON,U.S. House,3,Michael A. Chiaradio,DEM,0
+Jones,SHELTON,U.S. House,3,Michael Guest,REP,0
+Jones,SHELTON,U.S. House,3,Erik Klehle,LIB,0
+Jones,SHELTON,Chancery Court Place 2,19,Kathryn Dickerson Clay,,372
+Jones,SHELTON,Circuit Court Place 1,18,Brad R. Thompson,,324
+Jones,SHELTON,Circuit Court Place 1,18,Eric Tiebauer,,56
+Jones,SHELTON,Circuit Court Place 2,18,Darryl A. Hurt Jr.,,369
+Jones,SOSO,U.S. Senate,,Scott Colom,DEM,302
+Jones,SOSO,U.S. Senate,,Cindy Hyde-Smith,REP,305
+Jones,SOSO,U.S. Senate,,Ty Pinkins,IND,17
+Jones,SOSO,U.S. House,4,Mike Ezell,REP,329
+Jones,SOSO,U.S. House,4,Jeffrey Hulum III,DEM,285
+Jones,SOSO,U.S. House,4,Carl Boyanton,IND,11
+Jones,SOSO,Court of Appeals,4,David McCarty,,520
+Jones,SOSO,Chancery Court Place 1,19,Jerry D. Sharp,,533
+Jones,SOSO,U.S. House,3,Michael A. Chiaradio,DEM,0
+Jones,SOSO,U.S. House,3,Michael Guest,REP,0
+Jones,SOSO,U.S. House,3,Erik Klehle,LIB,0
+Jones,SOSO,Chancery Court Place 2,19,Kathryn Dickerson Clay,,532
+Jones,SOSO,Circuit Court Place 1,18,Brad R. Thompson,,479
+Jones,SOSO,Circuit Court Place 1,18,Eric Tiebauer,,85
+Jones,SOSO,Circuit Court Place 2,18,Darryl A. Hurt Jr.,,527
+Jones,SPRINGHILL/MAULDIN,U.S. Senate,,Scott Colom,DEM,186
+Jones,SPRINGHILL/MAULDIN,U.S. Senate,,Cindy Hyde-Smith,REP,613
+Jones,SPRINGHILL/MAULDIN,U.S. Senate,,Ty Pinkins,IND,14
+Jones,SPRINGHILL/MAULDIN,U.S. House,4,Mike Ezell,REP,632
+Jones,SPRINGHILL/MAULDIN,U.S. House,4,Jeffrey Hulum III,DEM,171
+Jones,SPRINGHILL/MAULDIN,U.S. House,4,Carl Boyanton,IND,10
+Jones,SPRINGHILL/MAULDIN,Court of Appeals,4,David McCarty,,0
+Jones,SPRINGHILL/MAULDIN,Chancery Court Place 1,19,Jerry D. Sharp,,749
+Jones,SPRINGHILL/MAULDIN,U.S. House,3,Michael A. Chiaradio,DEM,0
+Jones,SPRINGHILL/MAULDIN,U.S. House,3,Michael Guest,REP,0
+Jones,SPRINGHILL/MAULDIN,U.S. House,3,Erik Klehle,LIB,0
+Jones,SPRINGHILL/MAULDIN,Chancery Court Place 2,19,Kathryn Dickerson Clay,,737
+Jones,SPRINGHILL/MAULDIN,Circuit Court Place 1,18,Brad R. Thompson,,680
+Jones,SPRINGHILL/MAULDIN,Circuit Court Place 1,18,Eric Tiebauer,,105
+Jones,SPRINGHILL/MAULDIN,Circuit Court Place 2,18,Darryl A. Hurt Jr.,,734
+Jones,TUCKERS,U.S. Senate,,Scott Colom,DEM,47
+Jones,TUCKERS,U.S. Senate,,Cindy Hyde-Smith,REP,378
+Jones,TUCKERS,U.S. Senate,,Ty Pinkins,IND,22
+Jones,TUCKERS,U.S. House,4,Mike Ezell,REP,403
+Jones,TUCKERS,U.S. House,4,Jeffrey Hulum III,DEM,27
+Jones,TUCKERS,U.S. House,4,Carl Boyanton,IND,17
+Jones,TUCKERS,Court of Appeals,4,David McCarty,,0
+Jones,TUCKERS,Chancery Court Place 1,19,Jerry D. Sharp,,423
+Jones,TUCKERS,U.S. House,3,Michael A. Chiaradio,DEM,0
+Jones,TUCKERS,U.S. House,3,Michael Guest,REP,0
+Jones,TUCKERS,U.S. House,3,Erik Klehle,LIB,0
+Jones,TUCKERS,Chancery Court Place 2,19,Kathryn Dickerson Clay,,418
+Jones,TUCKERS,Circuit Court Place 1,18,Brad R. Thompson,,380
+Jones,TUCKERS,Circuit Court Place 1,18,Eric Tiebauer,,53
+Jones,TUCKERS,Circuit Court Place 2,18,Darryl A. Hurt Jr.,,419
+Jones,UNION,U.S. Senate,,Scott Colom,DEM,43
+Jones,UNION,U.S. Senate,,Cindy Hyde-Smith,REP,416
+Jones,UNION,U.S. Senate,,Ty Pinkins,IND,17
+Jones,UNION,U.S. House,4,Mike Ezell,REP,425
+Jones,UNION,U.S. House,4,Jeffrey Hulum III,DEM,38
+Jones,UNION,U.S. House,4,Carl Boyanton,IND,12
+Jones,UNION,Court of Appeals,4,David McCarty,,444
+Jones,UNION,Chancery Court Place 1,19,Jerry D. Sharp,,452
+Jones,UNION,U.S. House,3,Michael A. Chiaradio,DEM,0
+Jones,UNION,U.S. House,3,Michael Guest,REP,0
+Jones,UNION,U.S. House,3,Erik Klehle,LIB,0
+Jones,UNION,Chancery Court Place 2,19,Kathryn Dickerson Clay,,442
+Jones,UNION,Circuit Court Place 1,18,Brad R. Thompson,,403
+Jones,UNION,Circuit Court Place 1,18,Eric Tiebauer,,47
+Jones,UNION,Circuit Court Place 2,18,Darryl A. Hurt Jr.,,443
