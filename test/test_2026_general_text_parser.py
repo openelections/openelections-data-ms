@@ -3641,7 +3641,7 @@ class BatchRunnerTests(unittest.TestCase):
                           "Calhoun", "Jefferson", "Jefferson Davis",
                           "Wilkinson", "Alcorn", "Amite", "Clarke",
                           "Lamar", "Leflore",
-                          "Lincoln", "Marion"])
+                          "Lincoln", "Marion", "Neshoba"])
         job = batch.county_job("Union", "sources/here")
         self.assertEqual(batch.manifest_path("Union"),
                          Path("2026/header-reads/20261103__ms__general__"
@@ -3703,15 +3703,15 @@ class BatchRunnerTests(unittest.TestCase):
         # names dropped
         self.assertEqual(batch.select_counties(["Lee", "Union"]),
                          ["Union", "Lee"])
-        self.assertEqual(batch.select_counties(["Neshoba"]), [])
+        self.assertEqual(batch.select_counties(["Yoknapatawpha"]), [])
 
     def test_only_split_reports_unknown_names(self):
-        self.assertEqual(batch.only_split(["Lee", "Neshoba"]),
-                         (["Lee"], ["Neshoba"]))
+        self.assertEqual(batch.only_split(["Lee", "Yoknapatawpha"]),
+                         (["Lee"], ["Yoknapatawpha"]))
         self.assertEqual(batch.only_split(None), (batch.COUNTIES, []))
         self.assertEqual(batch.only_split([]), (batch.COUNTIES, []))
-        self.assertEqual(batch.only_split(["Neshoba", "nesoba"]),
-                         ([], ["Neshoba", "nesoba"]))
+        self.assertEqual(batch.only_split(["Yoknapatawpha", "nesoba"]),
+                         ([], ["Yoknapatawpha", "nesoba"]))
 
     def test_blocking_roster_problems_exempt_the_advisory_kind(self):
         # the runner's classification: only roster_subset records are
@@ -3891,7 +3891,7 @@ class BatchRunnerTests(unittest.TestCase):
         tmp = tempfile.TemporaryDirectory()
         self.addCleanup(tmp.cleanup)
         cache_dir = os.path.join(tmp.name, "cache")
-        rc = batch.main(["--sources-dir", str(tmp.name), "--only", "Neshoba",
+        rc = batch.main(["--sources-dir", str(tmp.name), "--only", "Yoknapatawpha",
                          "--cache-dir", cache_dir])
         self.assertEqual(rc, 2)
         self.assertFalse(os.path.exists(
@@ -3899,7 +3899,7 @@ class BatchRunnerTests(unittest.TestCase):
 
     def test_run_batch_refuses_vacuous_only(self):
         with self.assertRaises(ValueError):
-            batch.run_batch("irrelevant", only=["Neshoba"])
+            batch.run_batch("irrelevant", only=["Yoknapatawpha"])
 
     def test_run_county_reports_error_on_missing_source(self):
         import tempfile
