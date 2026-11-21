@@ -1,0 +1,590 @@
+county,precinct,office,district,candidate,party,votes
+Jackson,Big Point,U.S. Senate,,Scott Colom,DEM,123
+Jackson,Big Point,U.S. Senate,,Cindy Hyde-Smith,REP,908
+Jackson,Big Point,U.S. Senate,,Ty Pinkins,IND,39
+Jackson,Big Point,U.S. House,4,Mike Ezell,REP,935
+Jackson,Big Point,U.S. House,4,Jeffrey Hulum III,DEM,106
+Jackson,Big Point,U.S. House,4,Carl Boyanton,IND,33
+Jackson,Big Point,Court of Appeals,5,Anthony 'Tony' Lawrence,,944
+Jackson,Big Point,Chancery Court Place 1,16,D. Neil Harris Sr.,,508
+Jackson,Big Point,Chancery Court Place 1,16,Jennifer Sekul Harris,,359
+Jackson,Big Point,Chancery Court Place 1,16,Matthew Paul Pavlov,,111
+Jackson,Big Point,Chancery Court Place 2,16,Ashlee Cole,,944
+Jackson,Big Point,Chancery Court Place 3,16,Mark Maples,,946
+Jackson,Big Point,Chancery Court Place 4,16,Kaleigh Nelson,,936
+Jackson,Big Point,Circuit Court Place 1,19,Matthew Lachaussee,,635
+Jackson,Big Point,Circuit Court Place 1,19,Justin Lovorn,,359
+Jackson,Big Point,Circuit Court Place 2,19,Kathy King Jackson,,745
+Jackson,Big Point,Circuit Court Place 2,19,Leilani 'Lani' Tynes,,268
+Jackson,Big Point,Circuit Court Place 3,19,Calvin Taylor,,950
+Jackson,Big Point,Circuit Court Place 4,19,George Huffman,,925
+Jackson,Carterville,U.S. Senate,,Scott Colom,DEM,19
+Jackson,Carterville,U.S. Senate,,Cindy Hyde-Smith,REP,242
+Jackson,Carterville,U.S. Senate,,Ty Pinkins,IND,14
+Jackson,Carterville,U.S. House,4,Mike Ezell,REP,248
+Jackson,Carterville,U.S. House,4,Jeffrey Hulum III,DEM,14
+Jackson,Carterville,U.S. House,4,Carl Boyanton,IND,11
+Jackson,Carterville,Court of Appeals,5,Anthony 'Tony' Lawrence,,240
+Jackson,Carterville,Chancery Court Place 1,16,D. Neil Harris Sr.,,117
+Jackson,Carterville,Chancery Court Place 1,16,Jennifer Sekul Harris,,95
+Jackson,Carterville,Chancery Court Place 1,16,Matthew Paul Pavlov,,35
+Jackson,Carterville,Chancery Court Place 2,16,Ashlee Cole,,236
+Jackson,Carterville,Chancery Court Place 3,16,Mark Maples,,244
+Jackson,Carterville,Chancery Court Place 4,16,Kaleigh Nelson,,233
+Jackson,Carterville,Circuit Court Place 1,19,Matthew Lachaussee,,145
+Jackson,Carterville,Circuit Court Place 1,19,Justin Lovorn,,104
+Jackson,Carterville,Circuit Court Place 2,19,Kathy King Jackson,,181
+Jackson,Carterville,Circuit Court Place 2,19,Leilani 'Lani' Tynes,,67
+Jackson,Carterville,Circuit Court Place 3,19,Calvin Taylor,,241
+Jackson,Carterville,Circuit Court Place 4,19,George Huffman,,235
+Jackson,East Central,U.S. Senate,,Scott Colom,DEM,388
+Jackson,East Central,U.S. Senate,,Cindy Hyde-Smith,REP,2543
+Jackson,East Central,U.S. Senate,,Ty Pinkins,IND,85
+Jackson,East Central,U.S. House,4,Mike Ezell,REP,2617
+Jackson,East Central,U.S. House,4,Jeffrey Hulum III,DEM,333
+Jackson,East Central,U.S. House,4,Carl Boyanton,IND,67
+Jackson,East Central,Court of Appeals,5,Anthony 'Tony' Lawrence,,2645
+Jackson,East Central,Chancery Court Place 1,16,D. Neil Harris Sr.,,1460
+Jackson,East Central,Chancery Court Place 1,16,Jennifer Sekul Harris,,960
+Jackson,East Central,Chancery Court Place 1,16,Matthew Paul Pavlov,,321
+Jackson,East Central,Chancery Court Place 2,16,Ashlee Cole,,2640
+Jackson,East Central,Chancery Court Place 3,16,Mark Maples,,2681
+Jackson,East Central,Chancery Court Place 4,16,Kaleigh Nelson,,2631
+Jackson,East Central,Circuit Court Place 1,19,Matthew Lachaussee,,1956
+Jackson,East Central,Circuit Court Place 1,19,Justin Lovorn,,827
+Jackson,East Central,Circuit Court Place 2,19,Kathy King Jackson,,2069
+Jackson,East Central,Circuit Court Place 2,19,Leilani 'Lani' Tynes,,722
+Jackson,East Central,Circuit Court Place 3,19,Calvin Taylor,,2668
+Jackson,East Central,Circuit Court Place 4,19,George Huffman,,2591
+Jackson,Eastlawn,U.S. Senate,,Scott Colom,DEM,407
+Jackson,Eastlawn,U.S. Senate,,Cindy Hyde-Smith,REP,790
+Jackson,Eastlawn,U.S. Senate,,Ty Pinkins,IND,34
+Jackson,Eastlawn,U.S. House,4,Mike Ezell,REP,860
+Jackson,Eastlawn,U.S. House,4,Jeffrey Hulum III,DEM,346
+Jackson,Eastlawn,U.S. House,4,Carl Boyanton,IND,29
+Jackson,Eastlawn,Court of Appeals,5,Anthony 'Tony' Lawrence,,1081
+Jackson,Eastlawn,Chancery Court Place 1,16,D. Neil Harris Sr.,,532
+Jackson,Eastlawn,Chancery Court Place 1,16,Jennifer Sekul Harris,,475
+Jackson,Eastlawn,Chancery Court Place 1,16,Matthew Paul Pavlov,,123
+Jackson,Eastlawn,Chancery Court Place 2,16,Ashlee Cole,,1001
+Jackson,Eastlawn,Chancery Court Place 3,16,Mark Maples,,1068
+Jackson,Eastlawn,Chancery Court Place 4,16,Kaleigh Nelson,,1054
+Jackson,Eastlawn,Circuit Court Place 1,19,Matthew Lachaussee,,713
+Jackson,Eastlawn,Circuit Court Place 1,19,Justin Lovorn,,445
+Jackson,Eastlawn,Circuit Court Place 2,19,Kathy King Jackson,,818
+Jackson,Eastlawn,Circuit Court Place 2,19,Leilani 'Lani' Tynes,,318
+Jackson,Eastlawn,Circuit Court Place 3,19,Calvin Taylor,,1083
+Jackson,Eastlawn,Circuit Court Place 4,19,George Huffman,,1050
+Jackson,Escatawpa,U.S. Senate,,Scott Colom,DEM,578
+Jackson,Escatawpa,U.S. Senate,,Cindy Hyde-Smith,REP,926
+Jackson,Escatawpa,U.S. Senate,,Ty Pinkins,IND,39
+Jackson,Escatawpa,U.S. House,4,Mike Ezell,REP,975
+Jackson,Escatawpa,U.S. House,4,Jeffrey Hulum III,DEM,537
+Jackson,Escatawpa,U.S. House,4,Carl Boyanton,IND,25
+Jackson,Escatawpa,Court of Appeals,5,Anthony 'Tony' Lawrence,,1290
+Jackson,Escatawpa,Chancery Court Place 1,16,D. Neil Harris Sr.,,675
+Jackson,Escatawpa,Chancery Court Place 1,16,Jennifer Sekul Harris,,504
+Jackson,Escatawpa,Chancery Court Place 1,16,Matthew Paul Pavlov,,168
+Jackson,Escatawpa,Chancery Court Place 2,16,Ashlee Cole,,1180
+Jackson,Escatawpa,Chancery Court Place 3,16,Mark Maples,,1270
+Jackson,Escatawpa,Chancery Court Place 4,16,Kaleigh Nelson,,1244
+Jackson,Escatawpa,Circuit Court Place 1,19,Matthew Lachaussee,,837
+Jackson,Escatawpa,Circuit Court Place 1,19,Justin Lovorn,,518
+Jackson,Escatawpa,Circuit Court Place 2,19,Kathy King Jackson,,948
+Jackson,Escatawpa,Circuit Court Place 2,19,Leilani 'Lani' Tynes,,420
+Jackson,Escatawpa,Circuit Court Place 3,19,Calvin Taylor,,1281
+Jackson,Escatawpa,Circuit Court Place 4,19,George Huffman,,1241
+Jackson,Fair,U.S. Senate,,Scott Colom,DEM,1235
+Jackson,Fair,U.S. Senate,,Cindy Hyde-Smith,REP,413
+Jackson,Fair,U.S. Senate,,Ty Pinkins,IND,34
+Jackson,Fair,U.S. House,4,Mike Ezell,REP,479
+Jackson,Fair,U.S. House,4,Jeffrey Hulum III,DEM,1137
+Jackson,Fair,U.S. House,4,Carl Boyanton,IND,50
+Jackson,Fair,Court of Appeals,5,Anthony 'Tony' Lawrence,,1221
+Jackson,Fair,Chancery Court Place 1,16,D. Neil Harris Sr.,,660
+Jackson,Fair,Chancery Court Place 1,16,Jennifer Sekul Harris,,500
+Jackson,Fair,Chancery Court Place 1,16,Matthew Paul Pavlov,,176
+Jackson,Fair,Chancery Court Place 2,16,Ashlee Cole,,999
+Jackson,Fair,Chancery Court Place 3,16,Mark Maples,,1177
+Jackson,Fair,Chancery Court Place 4,16,Kaleigh Nelson,,1147
+Jackson,Fair,Circuit Court Place 1,19,Matthew Lachaussee,,779
+Jackson,Fair,Circuit Court Place 1,19,Justin Lovorn,,557
+Jackson,Fair,Circuit Court Place 2,19,Kathy King Jackson,,832
+Jackson,Fair,Circuit Court Place 2,19,Leilani 'Lani' Tynes,,553
+Jackson,Fair,Circuit Court Place 3,19,Calvin Taylor,,1285
+Jackson,Fair,Circuit Court Place 4,19,George Huffman,,1177
+Jackson,Fontainebleau,U.S. Senate,,Scott Colom,DEM,1073
+Jackson,Fontainebleau,U.S. Senate,,Cindy Hyde-Smith,REP,1240
+Jackson,Fontainebleau,U.S. Senate,,Ty Pinkins,IND,63
+Jackson,Fontainebleau,U.S. House,4,Mike Ezell,REP,1311
+Jackson,Fontainebleau,U.S. House,4,Jeffrey Hulum III,DEM,977
+Jackson,Fontainebleau,U.S. House,4,Carl Boyanton,IND,87
+Jackson,Fontainebleau,Court of Appeals,5,Anthony 'Tony' Lawrence,,1910
+Jackson,Fontainebleau,Chancery Court Place 1,16,D. Neil Harris Sr.,,687
+Jackson,Fontainebleau,Chancery Court Place 1,16,Jennifer Sekul Harris,,1123
+Jackson,Fontainebleau,Chancery Court Place 1,16,Matthew Paul Pavlov,,266
+Jackson,Fontainebleau,Chancery Court Place 2,16,Ashlee Cole,,1802
+Jackson,Fontainebleau,Chancery Court Place 3,16,Mark Maples,,1896
+Jackson,Fontainebleau,Chancery Court Place 4,16,Kaleigh Nelson,,1864
+Jackson,Fontainebleau,Circuit Court Place 1,19,Matthew Lachaussee,,948
+Jackson,Fontainebleau,Circuit Court Place 1,19,Justin Lovorn,,1093
+Jackson,Fontainebleau,Circuit Court Place 2,19,Kathy King Jackson,,918
+Jackson,Fontainebleau,Circuit Court Place 2,19,Leilani 'Lani' Tynes,,1131
+Jackson,Fontainebleau,Circuit Court Place 3,19,Calvin Taylor,,1889
+Jackson,Fontainebleau,Circuit Court Place 4,19,George Huffman,,1871
+Jackson,Gautier North,U.S. Senate,,Scott Colom,DEM,616
+Jackson,Gautier North,U.S. Senate,,Cindy Hyde-Smith,REP,553
+Jackson,Gautier North,U.S. Senate,,Ty Pinkins,IND,42
+Jackson,Gautier North,U.S. House,4,Mike Ezell,REP,587
+Jackson,Gautier North,U.S. House,4,Jeffrey Hulum III,DEM,575
+Jackson,Gautier North,U.S. House,4,Carl Boyanton,IND,47
+Jackson,Gautier North,Court of Appeals,5,Anthony 'Tony' Lawrence,,944
+Jackson,Gautier North,Chancery Court Place 1,16,D. Neil Harris Sr.,,437
+Jackson,Gautier North,Chancery Court Place 1,16,Jennifer Sekul Harris,,459
+Jackson,Gautier North,Chancery Court Place 1,16,Matthew Paul Pavlov,,130
+Jackson,Gautier North,Chancery Court Place 2,16,Ashlee Cole,,866
+Jackson,Gautier North,Chancery Court Place 3,16,Mark Maples,,914
+Jackson,Gautier North,Chancery Court Place 4,16,Kaleigh Nelson,,912
+Jackson,Gautier North,Circuit Court Place 1,19,Matthew Lachaussee,,567
+Jackson,Gautier North,Circuit Court Place 1,19,Justin Lovorn,,427
+Jackson,Gautier North,Circuit Court Place 2,19,Kathy King Jackson,,609
+Jackson,Gautier North,Circuit Court Place 2,19,Leilani 'Lani' Tynes,,413
+Jackson,Gautier North,Circuit Court Place 3,19,Calvin Taylor,,949
+Jackson,Gautier North,Circuit Court Place 4,19,George Huffman,,894
+Jackson,Gautier South,U.S. Senate,,Scott Colom,DEM,1045
+Jackson,Gautier South,U.S. Senate,,Cindy Hyde-Smith,REP,854
+Jackson,Gautier South,U.S. Senate,,Ty Pinkins,IND,39
+Jackson,Gautier South,U.S. House,4,Mike Ezell,REP,945
+Jackson,Gautier South,U.S. House,4,Jeffrey Hulum III,DEM,928
+Jackson,Gautier South,U.S. House,4,Carl Boyanton,IND,53
+Jackson,Gautier South,Court of Appeals,5,Anthony 'Tony' Lawrence,,1528
+Jackson,Gautier South,Chancery Court Place 1,16,D. Neil Harris Sr.,,721
+Jackson,Gautier South,Chancery Court Place 1,16,Jennifer Sekul Harris,,733
+Jackson,Gautier South,Chancery Court Place 1,16,Matthew Paul Pavlov,,210
+Jackson,Gautier South,Chancery Court Place 2,16,Ashlee Cole,,1398
+Jackson,Gautier South,Chancery Court Place 3,16,Mark Maples,,1485
+Jackson,Gautier South,Chancery Court Place 4,16,Kaleigh Nelson,,1465
+Jackson,Gautier South,Circuit Court Place 1,19,Matthew Lachaussee,,865
+Jackson,Gautier South,Circuit Court Place 1,19,Justin Lovorn,,781
+Jackson,Gautier South,Circuit Court Place 2,19,Kathy King Jackson,,1004
+Jackson,Gautier South,Circuit Court Place 2,19,Leilani 'Lani' Tynes,,646
+Jackson,Gautier South,Circuit Court Place 3,19,Calvin Taylor,,1538
+Jackson,Gautier South,Circuit Court Place 4,19,George Huffman,,1454
+Jackson,Grace Baptist Church,U.S. Senate,,Scott Colom,DEM,659
+Jackson,Grace Baptist Church,U.S. Senate,,Cindy Hyde-Smith,REP,802
+Jackson,Grace Baptist Church,U.S. Senate,,Ty Pinkins,IND,41
+Jackson,Grace Baptist Church,U.S. House,4,Mike Ezell,REP,856
+Jackson,Grace Baptist Church,U.S. House,4,Jeffrey Hulum III,DEM,599
+Jackson,Grace Baptist Church,U.S. House,4,Carl Boyanton,IND,48
+Jackson,Grace Baptist Church,Court of Appeals,5,Anthony 'Tony' Lawrence,,1190
+Jackson,Grace Baptist Church,Chancery Court Place 1,16,D. Neil Harris Sr.,,487
+Jackson,Grace Baptist Church,Chancery Court Place 1,16,Jennifer Sekul Harris,,670
+Jackson,Grace Baptist Church,Chancery Court Place 1,16,Matthew Paul Pavlov,,177
+Jackson,Grace Baptist Church,Chancery Court Place 2,16,Ashlee Cole,,1165
+Jackson,Grace Baptist Church,Chancery Court Place 3,16,Mark Maples,,1163
+Jackson,Grace Baptist Church,Chancery Court Place 4,16,Kaleigh Nelson,,1159
+Jackson,Grace Baptist Church,Circuit Court Place 1,19,Matthew Lachaussee,,742
+Jackson,Grace Baptist Church,Circuit Court Place 1,19,Justin Lovorn,,533
+Jackson,Grace Baptist Church,Circuit Court Place 2,19,Kathy King Jackson,,570
+Jackson,Grace Baptist Church,Circuit Court Place 2,19,Leilani 'Lani' Tynes,,725
+Jackson,Grace Baptist Church,Circuit Court Place 3,19,Calvin Taylor,,1171
+Jackson,Grace Baptist Church,Circuit Court Place 4,19,George Huffman,,1155
+Jackson,Gulf Park Estates,U.S. Senate,,Scott Colom,DEM,626
+Jackson,Gulf Park Estates,U.S. Senate,,Cindy Hyde-Smith,REP,873
+Jackson,Gulf Park Estates,U.S. Senate,,Ty Pinkins,IND,43
+Jackson,Gulf Park Estates,U.S. House,4,Mike Ezell,REP,905
+Jackson,Gulf Park Estates,U.S. House,4,Jeffrey Hulum III,DEM,568
+Jackson,Gulf Park Estates,U.S. House,4,Carl Boyanton,IND,71
+Jackson,Gulf Park Estates,Court of Appeals,5,Anthony 'Tony' Lawrence,,1259
+Jackson,Gulf Park Estates,Chancery Court Place 1,16,D. Neil Harris Sr.,,434
+Jackson,Gulf Park Estates,Chancery Court Place 1,16,Jennifer Sekul Harris,,738
+Jackson,Gulf Park Estates,Chancery Court Place 1,16,Matthew Paul Pavlov,,204
+Jackson,Gulf Park Estates,Chancery Court Place 2,16,Ashlee Cole,,1226
+Jackson,Gulf Park Estates,Chancery Court Place 3,16,Mark Maples,,1231
+Jackson,Gulf Park Estates,Chancery Court Place 4,16,Kaleigh Nelson,,1231
+Jackson,Gulf Park Estates,Circuit Court Place 1,19,Matthew Lachaussee,,708
+Jackson,Gulf Park Estates,Circuit Court Place 1,19,Justin Lovorn,,596
+Jackson,Gulf Park Estates,Circuit Court Place 2,19,Kathy King Jackson,,627
+Jackson,Gulf Park Estates,Circuit Court Place 2,19,Leilani 'Lani' Tynes,,692
+Jackson,Gulf Park Estates,Circuit Court Place 3,19,Calvin Taylor,,1230
+Jackson,Gulf Park Estates,Circuit Court Place 4,19,George Huffman,,1210
+Jackson,Hickory Hills,U.S. Senate,,Scott Colom,DEM,449
+Jackson,Hickory Hills,U.S. Senate,,Cindy Hyde-Smith,REP,564
+Jackson,Hickory Hills,U.S. Senate,,Ty Pinkins,IND,26
+Jackson,Hickory Hills,U.S. House,4,Mike Ezell,REP,598
+Jackson,Hickory Hills,U.S. House,4,Jeffrey Hulum III,DEM,419
+Jackson,Hickory Hills,U.S. House,4,Carl Boyanton,IND,25
+Jackson,Hickory Hills,Court of Appeals,5,Anthony 'Tony' Lawrence,,850
+Jackson,Hickory Hills,Chancery Court Place 1,16,D. Neil Harris Sr.,,387
+Jackson,Hickory Hills,Chancery Court Place 1,16,Jennifer Sekul Harris,,377
+Jackson,Hickory Hills,Chancery Court Place 1,16,Matthew Paul Pavlov,,142
+Jackson,Hickory Hills,Chancery Court Place 2,16,Ashlee Cole,,803
+Jackson,Hickory Hills,Chancery Court Place 3,16,Mark Maples,,832
+Jackson,Hickory Hills,Chancery Court Place 4,16,Kaleigh Nelson,,825
+Jackson,Hickory Hills,Circuit Court Place 1,19,Matthew Lachaussee,,528
+Jackson,Hickory Hills,Circuit Court Place 1,19,Justin Lovorn,,377
+Jackson,Hickory Hills,Circuit Court Place 2,19,Kathy King Jackson,,573
+Jackson,Hickory Hills,Circuit Court Place 2,19,Leilani 'Lani' Tynes,,333
+Jackson,Hickory Hills,Circuit Court Place 3,19,Calvin Taylor,,837
+Jackson,Hickory Hills,Circuit Court Place 4,19,George Huffman,,826
+Jackson,Hwy 57,U.S. Senate,,Scott Colom,DEM,21
+Jackson,Hwy 57,U.S. Senate,,Cindy Hyde-Smith,REP,233
+Jackson,Hwy 57,U.S. Senate,,Ty Pinkins,IND,9
+Jackson,Hwy 57,U.S. House,4,Mike Ezell,REP,238
+Jackson,Hwy 57,U.S. House,4,Jeffrey Hulum III,DEM,17
+Jackson,Hwy 57,U.S. House,4,Carl Boyanton,IND,7
+Jackson,Hwy 57,Court of Appeals,5,Anthony 'Tony' Lawrence,,224
+Jackson,Hwy 57,Chancery Court Place 1,16,D. Neil Harris Sr.,,102
+Jackson,Hwy 57,Chancery Court Place 1,16,Jennifer Sekul Harris,,112
+Jackson,Hwy 57,Chancery Court Place 1,16,Matthew Paul Pavlov,,19
+Jackson,Hwy 57,Chancery Court Place 2,16,Ashlee Cole,,222
+Jackson,Hwy 57,Chancery Court Place 3,16,Mark Maples,,222
+Jackson,Hwy 57,Chancery Court Place 4,16,Kaleigh Nelson,,220
+Jackson,Hwy 57,Circuit Court Place 1,19,Matthew Lachaussee,,133
+Jackson,Hwy 57,Circuit Court Place 1,19,Justin Lovorn,,95
+Jackson,Hwy 57,Circuit Court Place 2,19,Kathy King Jackson,,164
+Jackson,Hwy 57,Circuit Court Place 2,19,Leilani 'Lani' Tynes,,68
+Jackson,Hwy 57,Circuit Court Place 3,19,Calvin Taylor,,221
+Jackson,Hwy 57,Circuit Court Place 4,19,George Huffman,,217
+Jackson,Ingalls Avenue Baptist Church,U.S. Senate,,Scott Colom,DEM,384
+Jackson,Ingalls Avenue Baptist Church,U.S. Senate,,Cindy Hyde-Smith,REP,622
+Jackson,Ingalls Avenue Baptist Church,U.S. Senate,,Ty Pinkins,IND,38
+Jackson,Ingalls Avenue Baptist Church,U.S. House,4,Mike Ezell,REP,682
+Jackson,Ingalls Avenue Baptist Church,U.S. House,4,Jeffrey Hulum III,DEM,327
+Jackson,Ingalls Avenue Baptist Church,U.S. House,4,Carl Boyanton,IND,31
+Jackson,Ingalls Avenue Baptist Church,Court of Appeals,5,Anthony 'Tony' Lawrence,,832
+Jackson,Ingalls Avenue Baptist Church,Chancery Court Place 1,16,D. Neil Harris Sr.,,451
+Jackson,Ingalls Avenue Baptist Church,Chancery Court Place 1,16,Jennifer Sekul Harris,,338
+Jackson,Ingalls Avenue Baptist Church,Chancery Court Place 1,16,Matthew Paul Pavlov,,101
+Jackson,Ingalls Avenue Baptist Church,Chancery Court Place 2,16,Ashlee Cole,,756
+Jackson,Ingalls Avenue Baptist Church,Chancery Court Place 3,16,Mark Maples,,795
+Jackson,Ingalls Avenue Baptist Church,Chancery Court Place 4,16,Kaleigh Nelson,,772
+Jackson,Ingalls Avenue Baptist Church,Circuit Court Place 1,19,Matthew Lachaussee,,566
+Jackson,Ingalls Avenue Baptist Church,Circuit Court Place 1,19,Justin Lovorn,,364
+Jackson,Ingalls Avenue Baptist Church,Circuit Court Place 2,19,Kathy King Jackson,,687
+Jackson,Ingalls Avenue Baptist Church,Circuit Court Place 2,19,Leilani 'Lani' Tynes,,222
+Jackson,Ingalls Avenue Baptist Church,Circuit Court Place 3,19,Calvin Taylor,,822
+Jackson,Ingalls Avenue Baptist Church,Circuit Court Place 4,19,George Huffman,,765
+Jackson,Jefferson Street,U.S. Senate,,Scott Colom,DEM,895
+Jackson,Jefferson Street,U.S. Senate,,Cindy Hyde-Smith,REP,228
+Jackson,Jefferson Street,U.S. Senate,,Ty Pinkins,IND,21
+Jackson,Jefferson Street,U.S. House,4,Mike Ezell,REP,278
+Jackson,Jefferson Street,U.S. House,4,Jeffrey Hulum III,DEM,830
+Jackson,Jefferson Street,U.S. House,4,Carl Boyanton,IND,24
+Jackson,Jefferson Street,Court of Appeals,5,Anthony 'Tony' Lawrence,,819
+Jackson,Jefferson Street,Chancery Court Place 1,16,D. Neil Harris Sr.,,426
+Jackson,Jefferson Street,Chancery Court Place 1,16,Jennifer Sekul Harris,,344
+Jackson,Jefferson Street,Chancery Court Place 1,16,Matthew Paul Pavlov,,143
+Jackson,Jefferson Street,Chancery Court Place 2,16,Ashlee Cole,,665
+Jackson,Jefferson Street,Chancery Court Place 3,16,Mark Maples,,802
+Jackson,Jefferson Street,Chancery Court Place 4,16,Kaleigh Nelson,,778
+Jackson,Jefferson Street,Circuit Court Place 1,19,Matthew Lachaussee,,572
+Jackson,Jefferson Street,Circuit Court Place 1,19,Justin Lovorn,,331
+Jackson,Jefferson Street,Circuit Court Place 2,19,Kathy King Jackson,,596
+Jackson,Jefferson Street,Circuit Court Place 2,19,Leilani 'Lani' Tynes,,334
+Jackson,Jefferson Street,Circuit Court Place 3,19,Calvin Taylor,,873
+Jackson,Jefferson Street,Circuit Court Place 4,19,George Huffman,,799
+Jackson,Larue,U.S. Senate,,Scott Colom,DEM,27
+Jackson,Larue,U.S. Senate,,Cindy Hyde-Smith,REP,156
+Jackson,Larue,U.S. Senate,,Ty Pinkins,IND,9
+Jackson,Larue,U.S. House,4,Mike Ezell,REP,164
+Jackson,Larue,U.S. House,4,Jeffrey Hulum III,DEM,20
+Jackson,Larue,U.S. House,4,Carl Boyanton,IND,8
+Jackson,Larue,Court of Appeals,5,Anthony 'Tony' Lawrence,,177
+Jackson,Larue,Chancery Court Place 1,16,D. Neil Harris Sr.,,65
+Jackson,Larue,Chancery Court Place 1,16,Jennifer Sekul Harris,,102
+Jackson,Larue,Chancery Court Place 1,16,Matthew Paul Pavlov,,19
+Jackson,Larue,Chancery Court Place 2,16,Ashlee Cole,,175
+Jackson,Larue,Chancery Court Place 3,16,Mark Maples,,171
+Jackson,Larue,Chancery Court Place 4,16,Kaleigh Nelson,,176
+Jackson,Larue,Circuit Court Place 1,19,Matthew Lachaussee,,86
+Jackson,Larue,Circuit Court Place 1,19,Justin Lovorn,,95
+Jackson,Larue,Circuit Court Place 2,19,Kathy King Jackson,,118
+Jackson,Larue,Circuit Court Place 2,19,Leilani 'Lani' Tynes,,66
+Jackson,Larue,Circuit Court Place 3,19,Calvin Taylor,,175
+Jackson,Larue,Circuit Court Place 4,19,George Huffman,,173
+Jackson,Latimer,U.S. Senate,,Scott Colom,DEM,579
+Jackson,Latimer,U.S. Senate,,Cindy Hyde-Smith,REP,1289
+Jackson,Latimer,U.S. Senate,,Ty Pinkins,IND,74
+Jackson,Latimer,U.S. House,4,Mike Ezell,REP,1349
+Jackson,Latimer,U.S. House,4,Jeffrey Hulum III,DEM,515
+Jackson,Latimer,U.S. House,4,Carl Boyanton,IND,78
+Jackson,Latimer,Court of Appeals,5,Anthony 'Tony' Lawrence,,1604
+Jackson,Latimer,Chancery Court Place 1,16,D. Neil Harris Sr.,,527
+Jackson,Latimer,Chancery Court Place 1,16,Jennifer Sekul Harris,,939
+Jackson,Latimer,Chancery Court Place 1,16,Matthew Paul Pavlov,,260
+Jackson,Latimer,Chancery Court Place 2,16,Ashlee Cole,,1558
+Jackson,Latimer,Chancery Court Place 3,16,Mark Maples,,1583
+Jackson,Latimer,Chancery Court Place 4,16,Kaleigh Nelson,,1549
+Jackson,Latimer,Circuit Court Place 1,19,Matthew Lachaussee,,826
+Jackson,Latimer,Circuit Court Place 1,19,Justin Lovorn,,823
+Jackson,Latimer,Circuit Court Place 2,19,Kathy King Jackson,,917
+Jackson,Latimer,Circuit Court Place 2,19,Leilani 'Lani' Tynes,,763
+Jackson,Latimer,Circuit Court Place 3,19,Calvin Taylor,,1548
+Jackson,Latimer,Circuit Court Place 4,19,George Huffman,,1541
+Jackson,North Pascagoula,U.S. Senate,,Scott Colom,DEM,73
+Jackson,North Pascagoula,U.S. Senate,,Cindy Hyde-Smith,REP,220
+Jackson,North Pascagoula,U.S. Senate,,Ty Pinkins,IND,7
+Jackson,North Pascagoula,U.S. House,4,Mike Ezell,REP,242
+Jackson,North Pascagoula,U.S. House,4,Jeffrey Hulum III,DEM,52
+Jackson,North Pascagoula,U.S. House,4,Carl Boyanton,IND,6
+Jackson,North Pascagoula,Court of Appeals,5,Anthony 'Tony' Lawrence,,284
+Jackson,North Pascagoula,Chancery Court Place 1,16,D. Neil Harris Sr.,,152
+Jackson,North Pascagoula,Chancery Court Place 1,16,Jennifer Sekul Harris,,96
+Jackson,North Pascagoula,Chancery Court Place 1,16,Matthew Paul Pavlov,,38
+Jackson,North Pascagoula,Chancery Court Place 2,16,Ashlee Cole,,262
+Jackson,North Pascagoula,Chancery Court Place 3,16,Mark Maples,,276
+Jackson,North Pascagoula,Chancery Court Place 4,16,Kaleigh Nelson,,274
+Jackson,North Pascagoula,Circuit Court Place 1,19,Matthew Lachaussee,,186
+Jackson,North Pascagoula,Circuit Court Place 1,19,Justin Lovorn,,110
+Jackson,North Pascagoula,Circuit Court Place 2,19,Kathy King Jackson,,227
+Jackson,North Pascagoula,Circuit Court Place 2,19,Leilani 'Lani' Tynes,,68
+Jackson,North Pascagoula,Circuit Court Place 3,19,Calvin Taylor,,282
+Jackson,North Pascagoula,Circuit Court Place 4,19,George Huffman,,270
+Jackson,North Vancleave,U.S. Senate,,Scott Colom,DEM,231
+Jackson,North Vancleave,U.S. Senate,,Cindy Hyde-Smith,REP,937
+Jackson,North Vancleave,U.S. Senate,,Ty Pinkins,IND,48
+Jackson,North Vancleave,U.S. House,4,Mike Ezell,REP,988
+Jackson,North Vancleave,U.S. House,4,Jeffrey Hulum III,DEM,193
+Jackson,North Vancleave,U.S. House,4,Carl Boyanton,IND,38
+Jackson,North Vancleave,Court of Appeals,5,Anthony 'Tony' Lawrence,,1033
+Jackson,North Vancleave,Chancery Court Place 1,16,D. Neil Harris Sr.,,483
+Jackson,North Vancleave,Chancery Court Place 1,16,Jennifer Sekul Harris,,510
+Jackson,North Vancleave,Chancery Court Place 1,16,Matthew Paul Pavlov,,122
+Jackson,North Vancleave,Chancery Court Place 2,16,Ashlee Cole,,1034
+Jackson,North Vancleave,Chancery Court Place 3,16,Mark Maples,,1041
+Jackson,North Vancleave,Chancery Court Place 4,16,Kaleigh Nelson,,1030
+Jackson,North Vancleave,Circuit Court Place 1,19,Matthew Lachaussee,,622
+Jackson,North Vancleave,Circuit Court Place 1,19,Justin Lovorn,,462
+Jackson,North Vancleave,Circuit Court Place 2,19,Kathy King Jackson,,713
+Jackson,North Vancleave,Circuit Court Place 2,19,Leilani 'Lani' Tynes,,385
+Jackson,North Vancleave,Circuit Court Place 3,19,Calvin Taylor,,1042
+Jackson,North Vancleave,Circuit Court Place 4,19,George Huffman,,1024
+Jackson,Orange Grove,U.S. Senate,,Scott Colom,DEM,108
+Jackson,Orange Grove,U.S. Senate,,Cindy Hyde-Smith,REP,453
+Jackson,Orange Grove,U.S. Senate,,Ty Pinkins,IND,14
+Jackson,Orange Grove,U.S. House,4,Mike Ezell,REP,472
+Jackson,Orange Grove,U.S. House,4,Jeffrey Hulum III,DEM,89
+Jackson,Orange Grove,U.S. House,4,Carl Boyanton,IND,15
+Jackson,Orange Grove,Court of Appeals,5,Anthony 'Tony' Lawrence,,501
+Jackson,Orange Grove,Chancery Court Place 1,16,D. Neil Harris Sr.,,303
+Jackson,Orange Grove,Chancery Court Place 1,16,Jennifer Sekul Harris,,151
+Jackson,Orange Grove,Chancery Court Place 1,16,Matthew Paul Pavlov,,62
+Jackson,Orange Grove,Chancery Court Place 2,16,Ashlee Cole,,480
+Jackson,Orange Grove,Chancery Court Place 3,16,Mark Maples,,503
+Jackson,Orange Grove,Chancery Court Place 4,16,Kaleigh Nelson,,487
+Jackson,Orange Grove,Circuit Court Place 1,19,Matthew Lachaussee,,378
+Jackson,Orange Grove,Circuit Court Place 1,19,Justin Lovorn,,134
+Jackson,Orange Grove,Circuit Court Place 2,19,Kathy King Jackson,,371
+Jackson,Orange Grove,Circuit Court Place 2,19,Leilani 'Lani' Tynes,,149
+Jackson,Orange Grove,Circuit Court Place 3,19,Calvin Taylor,,507
+Jackson,Orange Grove,Circuit Court Place 4,19,George Huffman,,491
+Jackson,OS Civic Ctr,U.S. Senate,,Scott Colom,DEM,892
+Jackson,OS Civic Ctr,U.S. Senate,,Cindy Hyde-Smith,REP,1087
+Jackson,OS Civic Ctr,U.S. Senate,,Ty Pinkins,IND,39
+Jackson,OS Civic Ctr,U.S. House,4,Mike Ezell,REP,1166
+Jackson,OS Civic Ctr,U.S. House,4,Jeffrey Hulum III,DEM,783
+Jackson,OS Civic Ctr,U.S. House,4,Carl Boyanton,IND,66
+Jackson,OS Civic Ctr,Court of Appeals,5,Anthony 'Tony' Lawrence,,1663
+Jackson,OS Civic Ctr,Chancery Court Place 1,16,D. Neil Harris Sr.,,692
+Jackson,OS Civic Ctr,Chancery Court Place 1,16,Jennifer Sekul Harris,,889
+Jackson,OS Civic Ctr,Chancery Court Place 1,16,Matthew Paul Pavlov,,276
+Jackson,OS Civic Ctr,Chancery Court Place 2,16,Ashlee Cole,,1648
+Jackson,OS Civic Ctr,Chancery Court Place 3,16,Mark Maples,,1650
+Jackson,OS Civic Ctr,Chancery Court Place 4,16,Kaleigh Nelson,,1636
+Jackson,OS Civic Ctr,Circuit Court Place 1,19,Matthew Lachaussee,,901
+Jackson,OS Civic Ctr,Circuit Court Place 1,19,Justin Lovorn,,875
+Jackson,OS Civic Ctr,Circuit Court Place 2,19,Kathy King Jackson,,652
+Jackson,OS Civic Ctr,Circuit Court Place 2,19,Leilani 'Lani' Tynes,,1149
+Jackson,OS Civic Ctr,Circuit Court Place 3,19,Calvin Taylor,,1654
+Jackson,OS Civic Ctr,Circuit Court Place 4,19,George Huffman,,1644
+Jackson,OS Senior Center,U.S. Senate,,Scott Colom,DEM,88
+Jackson,OS Senior Center,U.S. Senate,,Cindy Hyde-Smith,REP,110
+Jackson,OS Senior Center,U.S. Senate,,Ty Pinkins,IND,8
+Jackson,OS Senior Center,U.S. House,4,Mike Ezell,REP,129
+Jackson,OS Senior Center,U.S. House,4,Jeffrey Hulum III,DEM,68
+Jackson,OS Senior Center,U.S. House,4,Carl Boyanton,IND,9
+Jackson,OS Senior Center,Court of Appeals,5,Anthony 'Tony' Lawrence,,172
+Jackson,OS Senior Center,Chancery Court Place 1,16,D. Neil Harris Sr.,,58
+Jackson,OS Senior Center,Chancery Court Place 1,16,Jennifer Sekul Harris,,101
+Jackson,OS Senior Center,Chancery Court Place 1,16,Matthew Paul Pavlov,,40
+Jackson,OS Senior Center,Chancery Court Place 2,16,Ashlee Cole,,168
+Jackson,OS Senior Center,Chancery Court Place 3,16,Mark Maples,,164
+Jackson,OS Senior Center,Chancery Court Place 4,16,Kaleigh Nelson,,162
+Jackson,OS Senior Center,Circuit Court Place 1,19,Matthew Lachaussee,,106
+Jackson,OS Senior Center,Circuit Court Place 1,19,Justin Lovorn,,72
+Jackson,OS Senior Center,Circuit Court Place 2,19,Kathy King Jackson,,74
+Jackson,OS Senior Center,Circuit Court Place 2,19,Leilani 'Lani' Tynes,,104
+Jackson,OS Senior Center,Circuit Court Place 3,19,Calvin Taylor,,162
+Jackson,OS Senior Center,Circuit Court Place 4,19,George Huffman,,162
+Jackson,Pelican Landing,U.S. Senate,,Scott Colom,DEM,758
+Jackson,Pelican Landing,U.S. Senate,,Cindy Hyde-Smith,REP,100
+Jackson,Pelican Landing,U.S. Senate,,Ty Pinkins,IND,17
+Jackson,Pelican Landing,U.S. House,4,Mike Ezell,REP,117
+Jackson,Pelican Landing,U.S. House,4,Jeffrey Hulum III,DEM,716
+Jackson,Pelican Landing,U.S. House,4,Carl Boyanton,IND,25
+Jackson,Pelican Landing,Court of Appeals,5,Anthony 'Tony' Lawrence,,626
+Jackson,Pelican Landing,Chancery Court Place 1,16,D. Neil Harris Sr.,,346
+Jackson,Pelican Landing,Chancery Court Place 1,16,Jennifer Sekul Harris,,234
+Jackson,Pelican Landing,Chancery Court Place 1,16,Matthew Paul Pavlov,,90
+Jackson,Pelican Landing,Chancery Court Place 2,16,Ashlee Cole,,467
+Jackson,Pelican Landing,Chancery Court Place 3,16,Mark Maples,,592
+Jackson,Pelican Landing,Chancery Court Place 4,16,Kaleigh Nelson,,577
+Jackson,Pelican Landing,Circuit Court Place 1,19,Matthew Lachaussee,,339
+Jackson,Pelican Landing,Circuit Court Place 1,19,Justin Lovorn,,339
+Jackson,Pelican Landing,Circuit Court Place 2,19,Kathy King Jackson,,408
+Jackson,Pelican Landing,Circuit Court Place 2,19,Leilani 'Lani' Tynes,,266
+Jackson,Pelican Landing,Circuit Court Place 3,19,Calvin Taylor,,640
+Jackson,Pelican Landing,Circuit Court Place 4,19,George Huffman,,580
+Jackson,Presbyterian,U.S. Senate,,Scott Colom,DEM,221
+Jackson,Presbyterian,U.S. Senate,,Cindy Hyde-Smith,REP,561
+Jackson,Presbyterian,U.S. Senate,,Ty Pinkins,IND,32
+Jackson,Presbyterian,U.S. House,4,Mike Ezell,REP,622
+Jackson,Presbyterian,U.S. House,4,Jeffrey Hulum III,DEM,167
+Jackson,Presbyterian,U.S. House,4,Carl Boyanton,IND,28
+Jackson,Presbyterian,Court of Appeals,5,Anthony 'Tony' Lawrence,,750
+Jackson,Presbyterian,Chancery Court Place 1,16,D. Neil Harris Sr.,,374
+Jackson,Presbyterian,Chancery Court Place 1,16,Jennifer Sekul Harris,,299
+Jackson,Presbyterian,Chancery Court Place 1,16,Matthew Paul Pavlov,,85
+Jackson,Presbyterian,Chancery Court Place 2,16,Ashlee Cole,,680
+Jackson,Presbyterian,Chancery Court Place 3,16,Mark Maples,,740
+Jackson,Presbyterian,Chancery Court Place 4,16,Kaleigh Nelson,,727
+Jackson,Presbyterian,Circuit Court Place 1,19,Matthew Lachaussee,,540
+Jackson,Presbyterian,Circuit Court Place 1,19,Justin Lovorn,,238
+Jackson,Presbyterian,Circuit Court Place 2,19,Kathy King Jackson,,569
+Jackson,Presbyterian,Circuit Court Place 2,19,Leilani 'Lani' Tynes,,208
+Jackson,Presbyterian,Circuit Court Place 3,19,Calvin Taylor,,738
+Jackson,Presbyterian,Circuit Court Place 4,19,George Huffman,,724
+Jackson,Ryan Youth Center,U.S. Senate,,Scott Colom,DEM,518
+Jackson,Ryan Youth Center,U.S. Senate,,Cindy Hyde-Smith,REP,562
+Jackson,Ryan Youth Center,U.S. Senate,,Ty Pinkins,IND,24
+Jackson,Ryan Youth Center,U.S. House,4,Mike Ezell,REP,614
+Jackson,Ryan Youth Center,U.S. House,4,Jeffrey Hulum III,DEM,444
+Jackson,Ryan Youth Center,U.S. House,4,Carl Boyanton,IND,39
+Jackson,Ryan Youth Center,Court of Appeals,5,Anthony 'Tony' Lawrence,,879
+Jackson,Ryan Youth Center,Chancery Court Place 1,16,D. Neil Harris Sr.,,399
+Jackson,Ryan Youth Center,Chancery Court Place 1,16,Jennifer Sekul Harris,,473
+Jackson,Ryan Youth Center,Chancery Court Place 1,16,Matthew Paul Pavlov,,135
+Jackson,Ryan Youth Center,Chancery Court Place 2,16,Ashlee Cole,,878
+Jackson,Ryan Youth Center,Chancery Court Place 3,16,Mark Maples,,845
+Jackson,Ryan Youth Center,Chancery Court Place 4,16,Kaleigh Nelson,,824
+Jackson,Ryan Youth Center,Circuit Court Place 1,19,Matthew Lachaussee,,506
+Jackson,Ryan Youth Center,Circuit Court Place 1,19,Justin Lovorn,,441
+Jackson,Ryan Youth Center,Circuit Court Place 2,19,Kathy King Jackson,,355
+Jackson,Ryan Youth Center,Circuit Court Place 2,19,Leilani 'Lani' Tynes,,635
+Jackson,Ryan Youth Center,Circuit Court Place 3,19,Calvin Taylor,,856
+Jackson,Ryan Youth Center,Circuit Court Place 4,19,George Huffman,,838
+Jackson,South Vancleave,U.S. Senate,,Scott Colom,DEM,221
+Jackson,South Vancleave,U.S. Senate,,Cindy Hyde-Smith,REP,1292
+Jackson,South Vancleave,U.S. Senate,,Ty Pinkins,IND,54
+Jackson,South Vancleave,U.S. House,4,Mike Ezell,REP,1320
+Jackson,South Vancleave,U.S. House,4,Jeffrey Hulum III,DEM,187
+Jackson,South Vancleave,U.S. House,4,Carl Boyanton,IND,55
+Jackson,South Vancleave,Court of Appeals,5,Anthony 'Tony' Lawrence,,1323
+Jackson,South Vancleave,Chancery Court Place 1,16,D. Neil Harris Sr.,,590
+Jackson,South Vancleave,Chancery Court Place 1,16,Jennifer Sekul Harris,,679
+Jackson,South Vancleave,Chancery Court Place 1,16,Matthew Paul Pavlov,,169
+Jackson,South Vancleave,Chancery Court Place 2,16,Ashlee Cole,,1336
+Jackson,South Vancleave,Chancery Court Place 3,16,Mark Maples,,1334
+Jackson,South Vancleave,Chancery Court Place 4,16,Kaleigh Nelson,,1312
+Jackson,South Vancleave,Circuit Court Place 1,19,Matthew Lachaussee,,765
+Jackson,South Vancleave,Circuit Court Place 1,19,Justin Lovorn,,624
+Jackson,South Vancleave,Circuit Court Place 2,19,Kathy King Jackson,,862
+Jackson,South Vancleave,Circuit Court Place 2,19,Leilani 'Lani' Tynes,,536
+Jackson,South Vancleave,Circuit Court Place 3,19,Calvin Taylor,,1327
+Jackson,South Vancleave,Circuit Court Place 4,19,George Huffman,,1298
+Jackson,St Martin,U.S. Senate,,Scott Colom,DEM,473
+Jackson,St Martin,U.S. Senate,,Cindy Hyde-Smith,REP,578
+Jackson,St Martin,U.S. Senate,,Ty Pinkins,IND,32
+Jackson,St Martin,U.S. House,4,Mike Ezell,REP,617
+Jackson,St Martin,U.S. House,4,Jeffrey Hulum III,DEM,436
+Jackson,St Martin,U.S. House,4,Carl Boyanton,IND,28
+Jackson,St Martin,Court of Appeals,5,Anthony 'Tony' Lawrence,,866
+Jackson,St Martin,Chancery Court Place 1,16,D. Neil Harris Sr.,,292
+Jackson,St Martin,Chancery Court Place 1,16,Jennifer Sekul Harris,,500
+Jackson,St Martin,Chancery Court Place 1,16,Matthew Paul Pavlov,,160
+Jackson,St Martin,Chancery Court Place 2,16,Ashlee Cole,,842
+Jackson,St Martin,Chancery Court Place 3,16,Mark Maples,,861
+Jackson,St Martin,Chancery Court Place 4,16,Kaleigh Nelson,,858
+Jackson,St Martin,Circuit Court Place 1,19,Matthew Lachaussee,,500
+Jackson,St Martin,Circuit Court Place 1,19,Justin Lovorn,,403
+Jackson,St Martin,Circuit Court Place 2,19,Kathy King Jackson,,474
+Jackson,St Martin,Circuit Court Place 2,19,Leilani 'Lani' Tynes,,454
+Jackson,St Martin,Circuit Court Place 3,19,Calvin Taylor,,865
+Jackson,St Martin,Circuit Court Place 4,19,George Huffman,,858
+Jackson,St. Paul United Methodist Church,U.S. Senate,,Scott Colom,DEM,615
+Jackson,St. Paul United Methodist Church,U.S. Senate,,Cindy Hyde-Smith,REP,273
+Jackson,St. Paul United Methodist Church,U.S. Senate,,Ty Pinkins,IND,19
+Jackson,St. Paul United Methodist Church,U.S. House,4,Mike Ezell,REP,305
+Jackson,St. Paul United Methodist Church,U.S. House,4,Jeffrey Hulum III,DEM,567
+Jackson,St. Paul United Methodist Church,U.S. House,4,Carl Boyanton,IND,23
+Jackson,St. Paul United Methodist Church,Court of Appeals,5,Anthony 'Tony' Lawrence,,722
+Jackson,St. Paul United Methodist Church,Chancery Court Place 1,16,D. Neil Harris Sr.,,368
+Jackson,St. Paul United Methodist Church,Chancery Court Place 1,16,Jennifer Sekul Harris,,297
+Jackson,St. Paul United Methodist Church,Chancery Court Place 1,16,Matthew Paul Pavlov,,82
+Jackson,St. Paul United Methodist Church,Chancery Court Place 2,16,Ashlee Cole,,598
+Jackson,St. Paul United Methodist Church,Chancery Court Place 3,16,Mark Maples,,685
+Jackson,St. Paul United Methodist Church,Chancery Court Place 4,16,Kaleigh Nelson,,673
+Jackson,St. Paul United Methodist Church,Circuit Court Place 1,19,Matthew Lachaussee,,508
+Jackson,St. Paul United Methodist Church,Circuit Court Place 1,19,Justin Lovorn,,256
+Jackson,St. Paul United Methodist Church,Circuit Court Place 2,19,Kathy King Jackson,,512
+Jackson,St. Paul United Methodist Church,Circuit Court Place 2,19,Leilani 'Lani' Tynes,,260
+Jackson,St. Paul United Methodist Church,Circuit Court Place 3,19,Calvin Taylor,,705
+Jackson,St. Paul United Methodist Church,Circuit Court Place 4,19,George Huffman,,661
+Jackson,Sue Ellen,U.S. Senate,,Scott Colom,DEM,1182
+Jackson,Sue Ellen,U.S. Senate,,Cindy Hyde-Smith,REP,23
+Jackson,Sue Ellen,U.S. Senate,,Ty Pinkins,IND,16
+Jackson,Sue Ellen,U.S. House,4,Mike Ezell,REP,54
+Jackson,Sue Ellen,U.S. House,4,Jeffrey Hulum III,DEM,1113
+Jackson,Sue Ellen,U.S. House,4,Carl Boyanton,IND,35
+Jackson,Sue Ellen,Court of Appeals,5,Anthony 'Tony' Lawrence,,814
+Jackson,Sue Ellen,Chancery Court Place 1,16,D. Neil Harris Sr.,,454
+Jackson,Sue Ellen,Chancery Court Place 1,16,Jennifer Sekul Harris,,318
+Jackson,Sue Ellen,Chancery Court Place 1,16,Matthew Paul Pavlov,,122
+Jackson,Sue Ellen,Chancery Court Place 2,16,Ashlee Cole,,550
+Jackson,Sue Ellen,Chancery Court Place 3,16,Mark Maples,,765
+Jackson,Sue Ellen,Chancery Court Place 4,16,Kaleigh Nelson,,726
+Jackson,Sue Ellen,Circuit Court Place 1,19,Matthew Lachaussee,,522
+Jackson,Sue Ellen,Circuit Court Place 1,19,Justin Lovorn,,350
+Jackson,Sue Ellen,Circuit Court Place 2,19,Kathy King Jackson,,557
+Jackson,Sue Ellen,Circuit Court Place 2,19,Leilani 'Lani' Tynes,,376
+Jackson,Sue Ellen,Circuit Court Place 3,19,Calvin Taylor,,846
+Jackson,Sue Ellen,Circuit Court Place 4,19,George Huffman,,756
+Jackson,Villa Maria,U.S. Senate,,Scott Colom,DEM,123
+Jackson,Villa Maria,U.S. Senate,,Cindy Hyde-Smith,REP,196
+Jackson,Villa Maria,U.S. Senate,,Ty Pinkins,IND,8
+Jackson,Villa Maria,U.S. House,4,Mike Ezell,REP,208
+Jackson,Villa Maria,U.S. House,4,Jeffrey Hulum III,DEM,105
+Jackson,Villa Maria,U.S. House,4,Carl Boyanton,IND,12
+Jackson,Villa Maria,Court of Appeals,5,Anthony 'Tony' Lawrence,,244
+Jackson,Villa Maria,Chancery Court Place 1,16,D. Neil Harris Sr.,,107
+Jackson,Villa Maria,Chancery Court Place 1,16,Jennifer Sekul Harris,,126
+Jackson,Villa Maria,Chancery Court Place 1,16,Matthew Paul Pavlov,,46
+Jackson,Villa Maria,Chancery Court Place 2,16,Ashlee Cole,,236
+Jackson,Villa Maria,Chancery Court Place 3,16,Mark Maples,,239
+Jackson,Villa Maria,Chancery Court Place 4,16,Kaleigh Nelson,,228
+Jackson,Villa Maria,Circuit Court Place 1,19,Matthew Lachaussee,,139
+Jackson,Villa Maria,Circuit Court Place 1,19,Justin Lovorn,,121
+Jackson,Villa Maria,Circuit Court Place 2,19,Kathy King Jackson,,94
+Jackson,Villa Maria,Circuit Court Place 2,19,Leilani 'Lani' Tynes,,189
+Jackson,Villa Maria,Circuit Court Place 3,19,Calvin Taylor,,243
+Jackson,Villa Maria,Circuit Court Place 4,19,George Huffman,,234
+Jackson,West Jackson,U.S. Senate,,Scott Colom,DEM,1075
+Jackson,West Jackson,U.S. Senate,,Cindy Hyde-Smith,REP,1241
+Jackson,West Jackson,U.S. Senate,,Ty Pinkins,IND,66
+Jackson,West Jackson,U.S. House,4,Mike Ezell,REP,1328
+Jackson,West Jackson,U.S. House,4,Jeffrey Hulum III,DEM,972
+Jackson,West Jackson,U.S. House,4,Carl Boyanton,IND,84
+Jackson,West Jackson,Court of Appeals,5,Anthony 'Tony' Lawrence,,1901
+Jackson,West Jackson,Chancery Court Place 1,16,D. Neil Harris Sr.,,703
+Jackson,West Jackson,Chancery Court Place 1,16,Jennifer Sekul Harris,,1080
+Jackson,West Jackson,Chancery Court Place 1,16,Matthew Paul Pavlov,,300
+Jackson,West Jackson,Chancery Court Place 2,16,Ashlee Cole,,1841
+Jackson,West Jackson,Chancery Court Place 3,16,Mark Maples,,1865
+Jackson,West Jackson,Chancery Court Place 4,16,Kaleigh Nelson,,1856
+Jackson,West Jackson,Circuit Court Place 1,19,Matthew Lachaussee,,1067
+Jackson,West Jackson,Circuit Court Place 1,19,Justin Lovorn,,934
+Jackson,West Jackson,Circuit Court Place 2,19,Kathy King Jackson,,996
+Jackson,West Jackson,Circuit Court Place 2,19,Leilani 'Lani' Tynes,,1025
+Jackson,West Jackson,Circuit Court Place 3,19,Calvin Taylor,,1880
+Jackson,West Jackson,Circuit Court Place 4,19,George Huffman,,1846
