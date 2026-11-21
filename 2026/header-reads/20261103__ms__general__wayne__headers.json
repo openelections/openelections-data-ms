@@ -1,0 +1,549 @@
+{
+  "county": "Wayne",
+  "source": "Wayne_County_2026_general.pdf",
+  "election_date": "2026-11-03",
+  "read_by": "operator-vision",
+  "date": "2026-11-21",
+  "procedure": "Pages rendered with pdfplumber page.to_image(resolution=220); the seven pages are LANDSCAPE-GENUINE (raw ~2420x1870 renders read upright directly, no transpose -- cache/2026-scan-assessment/tier1/wayne/). Every in-scope row's cross-page cell sum equals its printed TOTAL exactly (11/11).",
+  "structure_note": "Same 7-page shape ('2026 GENERAL ELECTION' banner): p1 the certification/signature page; p2+p3 = table A's two 11-column groups over the county's 22 precincts (Beat Four/.../Matherville/Coyt, then Mozingo/.../Yellow Creek); p4 = table A's TOTAL-only tail page; p5+p6 = table B's two groups; p7 = table B's TOTAL-only tail. The section boundary fell cleanly (Circuit 18 Place 2's section opens table B with its own header, after Place 1's rows complete table A; no carry). Races: U.S. Senate; US House Of Rep 04-4th Congressional District (Mike Ezell, Jeffrey Hulum III, Carl Boyanton -- the House 4 roster, names identical); Court Of Appeals 05-District 5 Position 1 (Anthony 'Tony' Lawrence -- the CoA 5 roster; his row prints X position marks in Big Rock, Chappalal/Diamond, Eucutta, Hiwannee and Matherville/Coyt, values elsewhere); Chancery Court 19-Chancery District 19 Place 1 (Jerry D. Sharp) and Place 2 (Kathryn Dickerson Clay) -- the same Chancery 19 roster Greene prints, names identical; Circuit Court 18-Circuit District 18 Place 1 (Brad R. Thompson) and Place 2 (Darryl A. Hurt Jr.) with Eric Tiebauer UNLABELED between them -- he is Circuit 18 Place 1's SECOND candidate (the SEMS row-block split cut Place 1's section between its two candidates exactly as Greene's sheet printed: Brad R. Thompson's row completes table A and Eric Tiebauer's row starts table B ahead of the Place 2 section with no header repeat). Printed totals: Colom 3117, Hyde-Smith 3774, Pinkins 182, Ezell 4062, Hulum 2871, Boyanton 126, Lawrence 4968, Jerry D. Sharp 6023, Clay 6096, Brad R. Thompson 3380, Tiebauer 3241, Hurt 5999.",
+  "operator_rows_note": "All 12 in-scope rows supplied by operator_rows in ballot order; table-A rows carry p2+p3 cells + the p4 printed TOTAL; Tiebauer's and Hurt's rows carry p5+p6 cells + the p7 printed TOTAL. Lawrence's X-celled row supplies only the numeric cells plus the printed TOTAL: p2's six numeric cells sum 1929 and p3's ten sum 3039, together 4968 = the printed TOTAL -- the X-marked blanks (Big Rock, Chappalal/Diamond, Eucutta, Hiwannee, Matherville/Coyt on p5; Yellow Creek on p3's row) become 0 under the row's own printed TOTAL, the established X-cell rule. No other X cells print in any in-scope row.",
+  "truncation_note": "No truncations; the twenty-two precinct headers print complete (Beat Four, Big Rock, Buckatunna, Chappalal/Diamond, Chicora, Clara, Corinth, Denham, Eucutta, Hiwannee, 'Matherville/Coyt', Mozingo, Pleasant Grove, State Line, Strengthford, 'Waynesboro City 1' .. 'Waynesboro City 5', Winchester, 'Yellow Creek' -- the sheet's own forms kept verbatim).",
+  "local_note": "p5-p7 carry the local 'School Board 5-School Board Beat 5' row (Robert Dean, X-celled outside Waynesboro City 2/4 and State Line) -- local, out of scope, contributing no parse rows on operator-supply pages. Chancery 19's two Places, CoA 5's single printed seat and Circuit 18's two printed seats write their matching labels (CoA 5 bare like the other counties', Chancery 19 and Circuit 18 Place-qualified matching Greene's/George's).",
+  "total_label": "TOTAL",
+  "local_only_pages": [
+    "1"
+  ],
+  "operator_supply_pages": [
+    "2",
+    "3",
+    "4",
+    "5",
+    "6",
+    "7"
+  ],
+  "pages": {
+    "1": [],
+    "2": [
+      "Beat Four",
+      "Big Rock",
+      "Buckatunna",
+      "Chappalal/Diamond",
+      "Chicora",
+      "Clara",
+      "Corinth",
+      "Denham",
+      "Eucutta",
+      "Hiwannee",
+      "Matherville/Coyt"
+    ],
+    "3": [
+      "Mozingo",
+      "Pleasant Grove",
+      "State Line",
+      "Strengthford",
+      "Waynesboro City 1",
+      "Waynesboro City 2",
+      "Waynesboro City 3",
+      "Waynesboro City 4",
+      "Waynesboro City 5",
+      "Winchester",
+      "Yellow Creek"
+    ],
+    "4": [
+      "TOTAL"
+    ],
+    "5": [
+      "Beat Four",
+      "Big Rock",
+      "Buckatunna",
+      "Chappalal/Diamond",
+      "Chicora",
+      "Clara",
+      "Corinth",
+      "Denham",
+      "Eucutta",
+      "Hiwannee",
+      "Matherville/Coyt"
+    ],
+    "6": [
+      "Mozingo",
+      "Pleasant Grove",
+      "State Line",
+      "Strengthford",
+      "Waynesboro City 1",
+      "Waynesboro City 2",
+      "Waynesboro City 3",
+      "Waynesboro City 4",
+      "Waynesboro City 5",
+      "Winchester",
+      "Yellow Creek"
+    ],
+    "7": [
+      "TOTAL"
+    ]
+  },
+  "operator_rows": [
+    {
+      "key": "colom",
+      "office": "U.S. Senate",
+      "district": "",
+      "seat": null,
+      "candidate": "Scott Colom",
+      "party": "DEM",
+      "cells": {
+        "2": {
+          "0": 76,
+          "1": 57,
+          "2": 270,
+          "3": 147,
+          "4": 49,
+          "5": 46,
+          "6": 9,
+          "7": 69,
+          "8": 40,
+          "9": 166,
+          "10": 36
+        },
+        "3": {
+          "0": 58,
+          "1": 97,
+          "2": 225,
+          "3": 10,
+          "4": 408,
+          "5": 433,
+          "6": 204,
+          "7": 187,
+          "8": 147,
+          "9": 229,
+          "10": 154
+        },
+        "4": {
+          "0": 3117
+        }
+      }
+    },
+    {
+      "key": "hyde",
+      "office": "U.S. Senate",
+      "district": "",
+      "seat": null,
+      "candidate": "Cindy Hyde-Smith",
+      "party": "REP",
+      "cells": {
+        "2": {
+          "0": 350,
+          "1": 62,
+          "2": 151,
+          "3": 59,
+          "4": 132,
+          "5": 712,
+          "6": 144,
+          "7": 206,
+          "8": 99,
+          "9": 56,
+          "10": 65
+        },
+        "3": {
+          "0": 164,
+          "1": 192,
+          "2": 222,
+          "3": 104,
+          "4": 8,
+          "5": 223,
+          "6": 356,
+          "7": 52,
+          "8": 65,
+          "9": 143,
+          "10": 209
+        },
+        "4": {
+          "0": 3774
+        }
+      }
+    },
+    {
+      "key": "pinkins",
+      "office": "U.S. Senate",
+      "district": "",
+      "seat": null,
+      "candidate": "Ty Pinkins",
+      "party": "IND",
+      "cells": {
+        "2": {
+          "0": 9,
+          "1": 5,
+          "2": 13,
+          "3": 5,
+          "4": 11,
+          "5": 31,
+          "6": 7,
+          "7": 13,
+          "8": 6,
+          "9": 4,
+          "10": 1
+        },
+        "3": {
+          "0": 5,
+          "1": 5,
+          "2": 11,
+          "3": 7,
+          "4": 7,
+          "5": 12,
+          "6": 12,
+          "7": 5,
+          "8": 1,
+          "9": 8,
+          "10": 4
+        },
+        "4": {
+          "0": 182
+        }
+      }
+    },
+    {
+      "key": "ezell",
+      "office": "U.S. House",
+      "district": "4",
+      "seat": null,
+      "candidate": "Mike Ezell",
+      "party": "REP",
+      "cells": {
+        "2": {
+          "0": 360,
+          "1": 68,
+          "2": 172,
+          "3": 68,
+          "4": 140,
+          "5": 743,
+          "6": 150,
+          "7": 222,
+          "8": 105,
+          "9": 69,
+          "10": 69
+        },
+        "3": {
+          "0": 176,
+          "1": 200,
+          "2": 250,
+          "3": 111,
+          "4": 27,
+          "5": 250,
+          "6": 372,
+          "7": 61,
+          "8": 77,
+          "9": 153,
+          "10": 219
+        },
+        "4": {
+          "0": 4062
+        }
+      }
+    },
+    {
+      "key": "hulum",
+      "office": "U.S. House",
+      "district": "4",
+      "seat": null,
+      "candidate": "Jeffrey Hulum III",
+      "party": "DEM",
+      "cells": {
+        "2": {
+          "0": 67,
+          "1": 56,
+          "2": 252,
+          "3": 140,
+          "4": 41,
+          "5": 31,
+          "6": 4,
+          "7": 61,
+          "8": 36,
+          "9": 153,
+          "10": 32
+        },
+        "3": {
+          "0": 47,
+          "1": 91,
+          "2": 201,
+          "3": 8,
+          "4": 388,
+          "5": 403,
+          "6": 190,
+          "7": 176,
+          "8": 130,
+          "9": 222,
+          "10": 142
+        },
+        "4": {
+          "0": 2871
+        }
+      }
+    },
+    {
+      "key": "boyanton",
+      "office": "U.S. House",
+      "district": "4",
+      "seat": null,
+      "candidate": "Carl Boyanton",
+      "party": "IND",
+      "cells": {
+        "2": {
+          "0": 8,
+          "1": 1,
+          "2": 8,
+          "3": 2,
+          "4": 9,
+          "5": 17,
+          "6": 6,
+          "7": 3,
+          "8": 4,
+          "9": 4,
+          "10": 0
+        },
+        "3": {
+          "0": 4,
+          "1": 3,
+          "2": 8,
+          "3": 3,
+          "4": 7,
+          "5": 11,
+          "6": 8,
+          "7": 5,
+          "8": 4,
+          "9": 5,
+          "10": 6
+        },
+        "4": {
+          "0": 126
+        }
+      }
+    },
+    {
+      "key": "lawrence",
+      "office": "Court of Appeals",
+      "district": "5",
+      "seat": 1,
+      "candidate": "Anthony 'Tony' Lawrence",
+      "party": "",
+      "cells": {
+        "2": {
+          "0": 384,
+          "2": 320,
+          "4": 154,
+          "5": 692,
+          "6": 143,
+          "7": 236
+        },
+        "3": {
+          "0": 197,
+          "1": 262,
+          "2": 367,
+          "3": 105,
+          "4": 346,
+          "5": 565,
+          "6": 496,
+          "7": 215,
+          "8": 182,
+          "9": 304
+        },
+        "4": {
+          "0": 4968
+        }
+      }
+    },
+    {
+      "key": "sharp",
+      "office": "Chancery Court",
+      "district": "19",
+      "seat": 1,
+      "candidate": "Jerry D. Sharp",
+      "party": "",
+      "cells": {
+        "2": {
+          "0": 382,
+          "1": 107,
+          "2": 322,
+          "3": 175,
+          "4": 156,
+          "5": 695,
+          "6": 143,
+          "7": 239,
+          "8": 132,
+          "9": 188,
+          "10": 83
+        },
+        "3": {
+          "0": 201,
+          "1": 266,
+          "2": 382,
+          "3": 109,
+          "4": 350,
+          "5": 573,
+          "6": 492,
+          "7": 216,
+          "8": 181,
+          "9": 307,
+          "10": 324
+        },
+        "4": {
+          "0": 6023
+        }
+      }
+    },
+    {
+      "key": "clay",
+      "office": "Chancery Court",
+      "district": "19",
+      "seat": 2,
+      "candidate": "Kathryn Dickerson Clay",
+      "party": "",
+      "cells": {
+        "2": {
+          "0": 386,
+          "1": 112,
+          "2": 327,
+          "3": 176,
+          "4": 164,
+          "5": 697,
+          "6": 143,
+          "7": 251,
+          "8": 139,
+          "9": 190,
+          "10": 75
+        },
+        "3": {
+          "0": 204,
+          "1": 264,
+          "2": 389,
+          "3": 111,
+          "4": 354,
+          "5": 579,
+          "6": 502,
+          "7": 218,
+          "8": 183,
+          "9": 313,
+          "10": 319
+        },
+        "4": {
+          "0": 6096
+        }
+      }
+    },
+    {
+      "key": "bthompson",
+      "office": "Circuit Court",
+      "district": "18",
+      "seat": 1,
+      "candidate": "Brad R. Thompson",
+      "party": "",
+      "cells": {
+        "2": {
+          "0": 254,
+          "1": 62,
+          "2": 179,
+          "3": 83,
+          "4": 97,
+          "5": 470,
+          "6": 104,
+          "7": 149,
+          "8": 75,
+          "9": 89,
+          "10": 35
+        },
+        "3": {
+          "0": 129,
+          "1": 175,
+          "2": 210,
+          "3": 75,
+          "4": 135,
+          "5": 277,
+          "6": 272,
+          "7": 96,
+          "8": 82,
+          "9": 167,
+          "10": 165
+        },
+        "4": {
+          "0": 3380
+        }
+      }
+    },
+    {
+      "key": "tiebauer",
+      "office": "Circuit Court",
+      "district": "18",
+      "seat": 1,
+      "candidate": "Eric Tiebauer",
+      "party": "",
+      "cells": {
+        "5": {
+          "0": 159,
+          "1": 59,
+          "2": 212,
+          "3": 105,
+          "4": 83,
+          "5": 269,
+          "6": 41,
+          "7": 121,
+          "8": 62,
+          "9": 120,
+          "10": 56
+        },
+        "6": {
+          "0": 83,
+          "1": 105,
+          "2": 206,
+          "3": 43,
+          "4": 258,
+          "5": 358,
+          "6": 272,
+          "7": 141,
+          "8": 117,
+          "9": 194,
+          "10": 177
+        },
+        "7": {
+          "0": 3241
+        }
+      }
+    },
+    {
+      "key": "hurt",
+      "office": "Circuit Court",
+      "district": "18",
+      "seat": 2,
+      "candidate": "Darryl A. Hurt Jr.",
+      "party": "",
+      "cells": {
+        "5": {
+          "0": 386,
+          "1": 112,
+          "2": 313,
+          "3": 177,
+          "4": 155,
+          "5": 683,
+          "6": 143,
+          "7": 241,
+          "8": 133,
+          "9": 193,
+          "10": 81
+        },
+        "6": {
+          "0": 199,
+          "1": 266,
+          "2": 378,
+          "3": 107,
+          "4": 343,
+          "5": 575,
+          "6": 491,
+          "7": 214,
+          "8": 180,
+          "9": 310,
+          "10": 319
+        },
+        "7": {
+          "0": 5999
+        }
+      }
+    }
+  ]
+}
