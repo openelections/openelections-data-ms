@@ -3639,7 +3639,8 @@ class BatchRunnerTests(unittest.TestCase):
                           "Newton",
                           "Perry", "Smith", "Stone", "Sunflower", "Tate",
                           "Calhoun", "Jefferson", "Jefferson Davis",
-                          "Wilkinson", "Alcorn", "Amite"])
+                          "Wilkinson", "Alcorn", "Amite", "Clarke",
+                          "Lamar"])
         job = batch.county_job("Union", "sources/here")
         self.assertEqual(batch.manifest_path("Union"),
                          Path("2026/header-reads/20261103__ms__general__"
