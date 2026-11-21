@@ -64,7 +64,7 @@ COUNTIES = ["Union", "Warren", "Jasper", "Lee", "Issaquena",
             "Pontotoc", "Prentiss", "Scott", "Simpson",
             "Tippah",
             "Tishomingo", "Wayne", "Yazoo",
-            "Clay", "Oktibbeha", "Panola"]
+            "Clay", "Oktibbeha", "Panola", "Tunica", "Walthall"]
 
 SOURCES_SUBDIR = "2026/general"
 MANIFEST_DIR = Path("2026/header-reads")
@@ -76,18 +76,21 @@ def county_slug(county):
     return county.lower().replace(" ", "_")
 
 
-def county_pdf(sources_dir, county):
+def county_pdf(sources_dir, county, manifest=None):
     """The county's recap PDF in the sources checkout.
 
     The SoS naming is not uniform ("Union_County_2026_general.pdf" but
     "Adams_2026_general.pdf" and "Choctaw_2026_general.pdf" carry no
-    "County"), so the mapping tries the two spellings and falls back to the
-    checkout's unique file whose name opens with the county name,
-    underscores and spaces treated alike ("Jefferson_Davis_..." resolves
-    for the two-word "Jefferson Davis"). With no match at all it returns
-    the conventional spelling -- absent, so run_county's source-exists
-    check records the county as ERROR source_missing and the batch moves
-    on instead of crashing."""
+    "County"), so the mapping tries the two spellings, then the checkout's
+    unique file whose name opens with the county name, underscores and
+    spaces treated alike ("Jefferson_Davis_..." resolves for the two-word
+    "Jefferson Davis"), and finally the county manifest's own "source"
+    filename -- the operator-read manifests record the actual file spelling
+    for every SoS-naming quirk (Walthall ships as one-L "Walthal_County")
+    -- when the spelled names and prefix fallback missed. With no match at
+    all it returns the conventional spelling -- absent, so run_county's
+    source-exists check records the county as ERROR source_missing and the
+    batch moves on instead of crashing."""
     base = Path(sources_dir) / SOURCES_SUBDIR
     for name in (f"{county}_County_2026_general.pdf",
                  f"{county}_2026_general.pdf"):
@@ -100,6 +103,13 @@ def county_pdf(sources_dir, county):
         and p.name.lower().endswith(".pdf"))
     if len(matches) == 1:
         return matches[0]
+    if manifest is not None and Path(manifest).exists():
+        try:
+            source = json.loads(Path(manifest).read_text()).get("source")
+        except (json.JSONDecodeError, OSError):
+            source = None
+        if isinstance(source, str) and source.endswith(".pdf")                 and (base / source).exists():
+            return base / source
     return base / f"{county}_County_2026_general.pdf"
 
 
@@ -114,9 +124,10 @@ def precinct_csv_path(county):
 def county_job(county, sources_dir):
     """One county's file mapping (pure): the PDF to read, the manifest to
     honor, the CSV to write."""
+    manifest = manifest_path(county)
     return {"county": county,
-            "pdf": county_pdf(sources_dir, county),
-            "manifest": manifest_path(county),
+            "pdf": county_pdf(sources_dir, county, manifest),
+            "manifest": manifest,
             "out_csv": precinct_csv_path(county)}
 
 

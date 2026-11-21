@@ -3648,7 +3648,8 @@ class BatchRunnerTests(unittest.TestCase):
                           "Pontotoc", "Prentiss", "Scott",
                           "Simpson", "Tippah",
                           "Tishomingo", "Wayne", "Yazoo",
-                          "Clay", "Oktibbeha", "Panola"])
+                          "Clay", "Oktibbeha", "Panola", "Tunica",
+                          "Walthall"])
         job = batch.county_job("Union", "sources/here")
         self.assertEqual(batch.manifest_path("Union"),
                          Path("2026/header-reads/20261103__ms__general__"
@@ -3702,6 +3703,27 @@ class BatchRunnerTests(unittest.TestCase):
         self.assertEqual(no_match.name,
                          "Yoknapatawpha_County_2026_general.pdf")
         self.assertFalse(no_match.exists())
+
+    def test_county_pdf_honors_the_manifest_source_key(self):
+        # the operator-read manifests record each county's actual source
+        # filename (an SoS-side spelling like one-L "Walthal"); the
+        # mapping honors it when the conventional spellings missed
+        import json
+        import tempfile
+        tmp = tempfile.TemporaryDirectory()
+        self.addCleanup(tmp.cleanup)
+        base = Path(tmp.name) / "2026" / "general"
+        base.mkdir(parents=True)
+        (base / "Walthal_County_2026_general.pdf").touch()
+        manifest = Path(tmp.name) / "walthall.json"
+        manifest.write_text(json.dumps({"county": "Walthall", "source":
+                            "Walthal_County_2026_general.pdf"}))
+        self.assertEqual(batch.county_pdf(tmp.name, "Walthall", manifest).name,
+                         "Walthal_County_2026_general.pdf")
+        # a manifest naming a missing file contributes nothing
+        bad = Path(tmp.name) / "bad.json"
+        bad.write_text(json.dumps({"source": "Missing_2026_general.pdf"}))
+        self.assertFalse(batch.county_pdf(tmp.name, "Walthall", bad).exists())
 
     def test_only_subset_selection(self):
         # None = the full county list, canonical order
