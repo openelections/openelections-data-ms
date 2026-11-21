@@ -70,7 +70,7 @@ COUNTIES = ["Union", "Warren", "Jasper", "Lee", "Issaquena",
             "Forrest", "Jones", "Lauderdale",
             "Bolivar", "Itawamba", "Jackson",
             "Monroe", "Pike",
-            "Hancock"]
+            "Hancock", "Pearl River"]
 
 SOURCES_SUBDIR = "2026/general"
 MANIFEST_DIR = Path("2026/header-reads")
