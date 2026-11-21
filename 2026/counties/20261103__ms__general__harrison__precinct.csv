@@ -1,0 +1,834 @@
+county,precinct,office,district,candidate,party,votes
+Harrison,Advance,U.S. Senate,,Scott Colom,DEM,131
+Harrison,Advance,U.S. Senate,,Cindy Hyde-Smith,REP,572
+Harrison,Advance,U.S. Senate,,Ty Pinkins,IND,36
+Harrison,Advance,U.S. House,4,Mike Ezell,REP,599
+Harrison,Advance,U.S. House,4,Jeffrey Hulum III,DEM,109
+Harrison,Advance,U.S. House,4,Carl Boyanton,IND,30
+Harrison,Advance,Court of Appeals,5,Anthony 'Tony' Lawrence,,599
+Harrison,Advance,Chancery Court Place 1,8,Jim Persons,,600
+Harrison,Advance,Chancery Court Place 2,8,Jennifer T. Schloegel,,598
+Harrison,Advance,Chancery Court Place 3,8,Margaret Alfonso,,598
+Harrison,Advance,Chancery Court Place 4,8,Haley Necaise Broom,,522
+Harrison,Advance,Chancery Court Place 4,8,Stephen J. Maggio,,137
+Harrison,Advance,Chancery Court Place 4,8,Frances 'Fran' Yeatts,,32
+Harrison,Advance,Circuit Court Place 1,2,Lisa P. Dodson,,605
+Harrison,Advance,Circuit Court Place 2,2,Chris Schmidt,,602
+Harrison,Advance,Circuit Court Place 3,2,Larry Bourgeois,,601
+Harrison,Advance,Circuit Court Place 4,2,Randi Peresich Mueller,,596
+Harrison,Bay Central,U.S. Senate,,Scott Colom,DEM,1094
+Harrison,Bay Central,U.S. Senate,,Cindy Hyde-Smith,REP,1425
+Harrison,Bay Central,U.S. Senate,,Ty Pinkins,IND,70
+Harrison,Bay Central,U.S. House,4,Mike Ezell,REP,1511
+Harrison,Bay Central,U.S. House,4,Jeffrey Hulum III,DEM,980
+Harrison,Bay Central,U.S. House,4,Carl Boyanton,IND,99
+Harrison,Bay Central,Court of Appeals,5,Anthony 'Tony' Lawrence,,2084
+Harrison,Bay Central,Chancery Court Place 1,8,Jim Persons,,2059
+Harrison,Bay Central,Chancery Court Place 2,8,Jennifer T. Schloegel,,2106
+Harrison,Bay Central,Chancery Court Place 3,8,Margaret Alfonso,,2093
+Harrison,Bay Central,Chancery Court Place 4,8,Haley Necaise Broom,,1629
+Harrison,Bay Central,Chancery Court Place 4,8,Stephen J. Maggio,,548
+Harrison,Bay Central,Chancery Court Place 4,8,Frances 'Fran' Yeatts,,159
+Harrison,Bay Central,Circuit Court Place 1,2,Lisa P. Dodson,,2070
+Harrison,Bay Central,Circuit Court Place 2,2,Chris Schmidt,,2035
+Harrison,Bay Central,Circuit Court Place 3,2,Larry Bourgeois,,2018
+Harrison,Bay Central,Circuit Court Place 4,2,Randi Peresich Mueller,,2036
+Harrison,Bayou View,U.S. Senate,,Scott Colom,DEM,342
+Harrison,Bayou View,U.S. Senate,,Cindy Hyde-Smith,REP,871
+Harrison,Bayou View,U.S. Senate,,Ty Pinkins,IND,38
+Harrison,Bayou View,U.S. House,4,Mike Ezell,REP,917
+Harrison,Bayou View,U.S. House,4,Jeffrey Hulum III,DEM,294
+Harrison,Bayou View,U.S. House,4,Carl Boyanton,IND,38
+Harrison,Bayou View,Court of Appeals,5,Anthony 'Tony' Lawrence,,1081
+Harrison,Bayou View,Chancery Court Place 1,8,Jim Persons,,1095
+Harrison,Bayou View,Chancery Court Place 2,8,Jennifer T. Schloegel,,1103
+Harrison,Bayou View,Chancery Court Place 3,8,Margaret Alfonso,,1103
+Harrison,Bayou View,Chancery Court Place 4,8,Haley Necaise Broom,,782
+Harrison,Bayou View,Chancery Court Place 4,8,Stephen J. Maggio,,375
+Harrison,Bayou View,Chancery Court Place 4,8,Frances 'Fran' Yeatts,,40
+Harrison,Bayou View,Circuit Court Place 1,2,Lisa P. Dodson,,1103
+Harrison,Bayou View,Circuit Court Place 2,2,Chris Schmidt,,1089
+Harrison,Bayou View,Circuit Court Place 3,2,Larry Bourgeois,,1092
+Harrison,Bayou View,Circuit Court Place 4,2,Randi Peresich Mueller,,1084
+Harrison,Biloxi # 11,U.S. Senate,,Scott Colom,DEM,1086
+Harrison,Biloxi # 11,U.S. Senate,,Cindy Hyde-Smith,REP,1173
+Harrison,Biloxi # 11,U.S. Senate,,Ty Pinkins,IND,66
+Harrison,Biloxi # 11,U.S. House,4,Mike Ezell,REP,1262
+Harrison,Biloxi # 11,U.S. House,4,Jeffrey Hulum III,DEM,989
+Harrison,Biloxi # 11,U.S. House,4,Carl Boyanton,IND,72
+Harrison,Biloxi # 11,Court of Appeals,5,Anthony 'Tony' Lawrence,,1800
+Harrison,Biloxi # 11,Chancery Court Place 1,8,Jim Persons,,1800
+Harrison,Biloxi # 11,Chancery Court Place 2,8,Jennifer T. Schloegel,,1836
+Harrison,Biloxi # 11,Chancery Court Place 3,8,Margaret Alfonso,,1820
+Harrison,Biloxi # 11,Chancery Court Place 4,8,Haley Necaise Broom,,1331
+Harrison,Biloxi # 11,Chancery Court Place 4,8,Stephen J. Maggio,,558
+Harrison,Biloxi # 11,Chancery Court Place 4,8,Frances 'Fran' Yeatts,,150
+Harrison,Biloxi # 11,Circuit Court Place 1,2,Lisa P. Dodson,,1793
+Harrison,Biloxi # 11,Circuit Court Place 2,2,Chris Schmidt,,1777
+Harrison,Biloxi # 11,Circuit Court Place 3,2,Larry Bourgeois,,1757
+Harrison,Biloxi # 11,Circuit Court Place 4,2,Randi Peresich Mueller,,1761
+Harrison,Biloxi # 8,U.S. Senate,,Scott Colom,DEM,590
+Harrison,Biloxi # 8,U.S. Senate,,Cindy Hyde-Smith,REP,511
+Harrison,Biloxi # 8,U.S. Senate,,Ty Pinkins,IND,37
+Harrison,Biloxi # 8,U.S. House,4,Mike Ezell,REP,557
+Harrison,Biloxi # 8,U.S. House,4,Jeffrey Hulum III,DEM,543
+Harrison,Biloxi # 8,U.S. House,4,Carl Boyanton,IND,29
+Harrison,Biloxi # 8,Court of Appeals,5,Anthony 'Tony' Lawrence,,868
+Harrison,Biloxi # 8,Chancery Court Place 1,8,Jim Persons,,871
+Harrison,Biloxi # 8,Chancery Court Place 2,8,Jennifer T. Schloegel,,877
+Harrison,Biloxi # 8,Chancery Court Place 3,8,Margaret Alfonso,,876
+Harrison,Biloxi # 8,Chancery Court Place 4,8,Haley Necaise Broom,,596
+Harrison,Biloxi # 8,Chancery Court Place 4,8,Stephen J. Maggio,,252
+Harrison,Biloxi # 8,Chancery Court Place 4,8,Frances 'Fran' Yeatts,,119
+Harrison,Biloxi # 8,Circuit Court Place 1,2,Lisa P. Dodson,,866
+Harrison,Biloxi # 8,Circuit Court Place 2,2,Chris Schmidt,,850
+Harrison,Biloxi # 8,Circuit Court Place 3,2,Larry Bourgeois,,838
+Harrison,Biloxi # 8,Circuit Court Place 4,2,Randi Peresich Mueller,,838
+Harrison,Biloxi 10,U.S. Senate,,Scott Colom,DEM,608
+Harrison,Biloxi 10,U.S. Senate,,Cindy Hyde-Smith,REP,464
+Harrison,Biloxi 10,U.S. Senate,,Ty Pinkins,IND,39
+Harrison,Biloxi 10,U.S. House,4,Mike Ezell,REP,507
+Harrison,Biloxi 10,U.S. House,4,Jeffrey Hulum III,DEM,564
+Harrison,Biloxi 10,U.S. House,4,Carl Boyanton,IND,37
+Harrison,Biloxi 10,Court of Appeals,5,Anthony 'Tony' Lawrence,,869
+Harrison,Biloxi 10,Chancery Court Place 1,8,Jim Persons,,851
+Harrison,Biloxi 10,Chancery Court Place 2,8,Jennifer T. Schloegel,,865
+Harrison,Biloxi 10,Chancery Court Place 3,8,Margaret Alfonso,,859
+Harrison,Biloxi 10,Chancery Court Place 4,8,Haley Necaise Broom,,575
+Harrison,Biloxi 10,Chancery Court Place 4,8,Stephen J. Maggio,,288
+Harrison,Biloxi 10,Chancery Court Place 4,8,Frances 'Fran' Yeatts,,97
+Harrison,Biloxi 10,Circuit Court Place 1,2,Lisa P. Dodson,,845
+Harrison,Biloxi 10,Circuit Court Place 2,2,Chris Schmidt,,839
+Harrison,Biloxi 10,Circuit Court Place 3,2,Larry Bourgeois,,834
+Harrison,Biloxi 10,Circuit Court Place 4,2,Randi Peresich Mueller,,830
+Harrison,Biloxi Central,U.S. Senate,,Scott Colom,DEM,398
+Harrison,Biloxi Central,U.S. Senate,,Cindy Hyde-Smith,REP,353
+Harrison,Biloxi Central,U.S. Senate,,Ty Pinkins,IND,17
+Harrison,Biloxi Central,U.S. House,4,Mike Ezell,REP,386
+Harrison,Biloxi Central,U.S. House,4,Jeffrey Hulum III,DEM,355
+Harrison,Biloxi Central,U.S. House,4,Carl Boyanton,IND,23
+Harrison,Biloxi Central,Court of Appeals,5,Anthony 'Tony' Lawrence,,567
+Harrison,Biloxi Central,Chancery Court Place 1,8,Jim Persons,,561
+Harrison,Biloxi Central,Chancery Court Place 2,8,Jennifer T. Schloegel,,573
+Harrison,Biloxi Central,Chancery Court Place 3,8,Margaret Alfonso,,583
+Harrison,Biloxi Central,Chancery Court Place 4,8,Haley Necaise Broom,,398
+Harrison,Biloxi Central,Chancery Court Place 4,8,Stephen J. Maggio,,175
+Harrison,Biloxi Central,Chancery Court Place 4,8,Frances 'Fran' Yeatts,,72
+Harrison,Biloxi Central,Circuit Court Place 1,2,Lisa P. Dodson,,560
+Harrison,Biloxi Central,Circuit Court Place 2,2,Chris Schmidt,,550
+Harrison,Biloxi Central,Circuit Court Place 3,2,Larry Bourgeois,,545
+Harrison,Biloxi Central,Circuit Court Place 4,2,Randi Peresich Mueller,,550
+Harrison,County Farm/Gulf Haven,U.S. Senate,,Scott Colom,DEM,514
+Harrison,County Farm/Gulf Haven,U.S. Senate,,Cindy Hyde-Smith,REP,997
+Harrison,County Farm/Gulf Haven,U.S. Senate,,Ty Pinkins,IND,56
+Harrison,County Farm/Gulf Haven,U.S. House,4,Mike Ezell,REP,1037
+Harrison,County Farm/Gulf Haven,U.S. House,4,Jeffrey Hulum III,DEM,477
+Harrison,County Farm/Gulf Haven,U.S. House,4,Carl Boyanton,IND,56
+Harrison,County Farm/Gulf Haven,Court of Appeals,5,Anthony 'Tony' Lawrence,,1269
+Harrison,County Farm/Gulf Haven,Chancery Court Place 1,8,Jim Persons,,1270
+Harrison,County Farm/Gulf Haven,Chancery Court Place 2,8,Jennifer T. Schloegel,,1286
+Harrison,County Farm/Gulf Haven,Chancery Court Place 3,8,Margaret Alfonso,,1266
+Harrison,County Farm/Gulf Haven,Chancery Court Place 4,8,Haley Necaise Broom,,1085
+Harrison,County Farm/Gulf Haven,Chancery Court Place 4,8,Stephen J. Maggio,,278
+Harrison,County Farm/Gulf Haven,Chancery Court Place 4,8,Frances 'Fran' Yeatts,,63
+Harrison,County Farm/Gulf Haven,Circuit Court Place 1,2,Lisa P. Dodson,,1261
+Harrison,County Farm/Gulf Haven,Circuit Court Place 2,2,Chris Schmidt,,1253
+Harrison,County Farm/Gulf Haven,Circuit Court Place 3,2,Larry Bourgeois,,1245
+Harrison,County Farm/Gulf Haven,Circuit Court Place 4,2,Randi Peresich Mueller,,1237
+Harrison,Dellisle,U.S. Senate,,Scott Colom,DEM,570
+Harrison,Dellisle,U.S. Senate,,Cindy Hyde-Smith,REP,647
+Harrison,Dellisle,U.S. Senate,,Ty Pinkins,IND,37
+Harrison,Dellisle,U.S. House,4,Mike Ezell,REP,680
+Harrison,Dellisle,U.S. House,4,Jeffrey Hulum III,DEM,526
+Harrison,Dellisle,U.S. House,4,Carl Boyanton,IND,43
+Harrison,Dellisle,Court of Appeals,5,Anthony 'Tony' Lawrence,,947
+Harrison,Dellisle,Chancery Court Place 1,8,Jim Persons,,957
+Harrison,Dellisle,Chancery Court Place 2,8,Jennifer T. Schloegel,,957
+Harrison,Dellisle,Chancery Court Place 3,8,Margaret Alfonso,,953
+Harrison,Dellisle,Chancery Court Place 4,8,Haley Necaise Broom,,661
+Harrison,Dellisle,Chancery Court Place 4,8,Stephen J. Maggio,,421
+Harrison,Dellisle,Chancery Court Place 4,8,Frances 'Fran' Yeatts,,57
+Harrison,Dellisle,Circuit Court Place 1,2,Lisa P. Dodson,,961
+Harrison,Dellisle,Circuit Court Place 2,2,Chris Schmidt,,954
+Harrison,Dellisle,Circuit Court Place 3,2,Larry Bourgeois,,936
+Harrison,Dellisle,Circuit Court Place 4,2,Randi Peresich Mueller,,938
+Harrison,E Orange Grove,U.S. Senate,,Scott Colom,DEM,621
+Harrison,E Orange Grove,U.S. Senate,,Cindy Hyde-Smith,REP,405
+Harrison,E Orange Grove,U.S. Senate,,Ty Pinkins,IND,35
+Harrison,E Orange Grove,U.S. House,4,Mike Ezell,REP,442
+Harrison,E Orange Grove,U.S. House,4,Jeffrey Hulum III,DEM,592
+Harrison,E Orange Grove,U.S. House,4,Carl Boyanton,IND,28
+Harrison,E Orange Grove,Court of Appeals,5,Anthony 'Tony' Lawrence,,807
+Harrison,E Orange Grove,Chancery Court Place 1,8,Jim Persons,,805
+Harrison,E Orange Grove,Chancery Court Place 2,8,Jennifer T. Schloegel,,827
+Harrison,E Orange Grove,Chancery Court Place 3,8,Margaret Alfonso,,816
+Harrison,E Orange Grove,Chancery Court Place 4,8,Haley Necaise Broom,,555
+Harrison,E Orange Grove,Chancery Court Place 4,8,Stephen J. Maggio,,268
+Harrison,E Orange Grove,Chancery Court Place 4,8,Frances 'Fran' Yeatts,,97
+Harrison,E Orange Grove,Circuit Court Place 1,2,Lisa P. Dodson,,813
+Harrison,E Orange Grove,Circuit Court Place 2,2,Chris Schmidt,,798
+Harrison,E Orange Grove,Circuit Court Place 3,2,Larry Bourgeois,,785
+Harrison,E Orange Grove,Circuit Court Place 4,2,Randi Peresich Mueller,,784
+Harrison,E Pass Christian,U.S. Senate,,Scott Colom,DEM,622
+Harrison,E Pass Christian,U.S. Senate,,Cindy Hyde-Smith,REP,625
+Harrison,E Pass Christian,U.S. Senate,,Ty Pinkins,IND,22
+Harrison,E Pass Christian,U.S. House,4,Mike Ezell,REP,659
+Harrison,E Pass Christian,U.S. House,4,Jeffrey Hulum III,DEM,577
+Harrison,E Pass Christian,U.S. House,4,Carl Boyanton,IND,34
+Harrison,E Pass Christian,Court of Appeals,5,Anthony 'Tony' Lawrence,,961
+Harrison,E Pass Christian,Chancery Court Place 1,8,Jim Persons,,945
+Harrison,E Pass Christian,Chancery Court Place 2,8,Jennifer T. Schloegel,,962
+Harrison,E Pass Christian,Chancery Court Place 3,8,Margaret Alfonso,,970
+Harrison,E Pass Christian,Chancery Court Place 4,8,Haley Necaise Broom,,630
+Harrison,E Pass Christian,Chancery Court Place 4,8,Stephen J. Maggio,,459
+Harrison,E Pass Christian,Chancery Court Place 4,8,Frances 'Fran' Yeatts,,64
+Harrison,E Pass Christian,Circuit Court Place 1,2,Lisa P. Dodson,,951
+Harrison,E Pass Christian,Circuit Court Place 2,2,Chris Schmidt,,965
+Harrison,E Pass Christian,Circuit Court Place 3,2,Larry Bourgeois,,931
+Harrison,E Pass Christian,Circuit Court Place 4,2,Randi Peresich Mueller,,927
+Harrison,East Biloxi,U.S. Senate,,Scott Colom,DEM,680
+Harrison,East Biloxi,U.S. Senate,,Cindy Hyde-Smith,REP,193
+Harrison,East Biloxi,U.S. Senate,,Ty Pinkins,IND,15
+Harrison,East Biloxi,U.S. House,4,Mike Ezell,REP,210
+Harrison,East Biloxi,U.S. House,4,Jeffrey Hulum III,DEM,666
+Harrison,East Biloxi,U.S. House,4,Carl Boyanton,IND,15
+Harrison,East Biloxi,Court of Appeals,5,Anthony 'Tony' Lawrence,,518
+Harrison,East Biloxi,Chancery Court Place 1,8,Jim Persons,,510
+Harrison,East Biloxi,Chancery Court Place 2,8,Jennifer T. Schloegel,,521
+Harrison,East Biloxi,Chancery Court Place 3,8,Margaret Alfonso,,522
+Harrison,East Biloxi,Chancery Court Place 4,8,Haley Necaise Broom,,386
+Harrison,East Biloxi,Chancery Court Place 4,8,Stephen J. Maggio,,182
+Harrison,East Biloxi,Chancery Court Place 4,8,Frances 'Fran' Yeatts,,88
+Harrison,East Biloxi,Circuit Court Place 1,2,Lisa P. Dodson,,483
+Harrison,East Biloxi,Circuit Court Place 2,2,Chris Schmidt,,492
+Harrison,East Biloxi,Circuit Court Place 3,2,Larry Bourgeois,,481
+Harrison,East Biloxi,Circuit Court Place 4,2,Randi Peresich Mueller,,482
+Harrison,East Handsboro,U.S. Senate,,Scott Colom,DEM,380
+Harrison,East Handsboro,U.S. Senate,,Cindy Hyde-Smith,REP,460
+Harrison,East Handsboro,U.S. Senate,,Ty Pinkins,IND,26
+Harrison,East Handsboro,U.S. House,4,Mike Ezell,REP,479
+Harrison,East Handsboro,U.S. House,4,Jeffrey Hulum III,DEM,357
+Harrison,East Handsboro,U.S. House,4,Carl Boyanton,IND,30
+Harrison,East Handsboro,Court of Appeals,5,Anthony 'Tony' Lawrence,,669
+Harrison,East Handsboro,Chancery Court Place 1,8,Jim Persons,,670
+Harrison,East Handsboro,Chancery Court Place 2,8,Jennifer T. Schloegel,,691
+Harrison,East Handsboro,Chancery Court Place 3,8,Margaret Alfonso,,678
+Harrison,East Handsboro,Chancery Court Place 4,8,Haley Necaise Broom,,459
+Harrison,East Handsboro,Chancery Court Place 4,8,Stephen J. Maggio,,254
+Harrison,East Handsboro,Chancery Court Place 4,8,Frances 'Fran' Yeatts,,48
+Harrison,East Handsboro,Circuit Court Place 1,2,Lisa P. Dodson,,671
+Harrison,East Handsboro,Circuit Court Place 2,2,Chris Schmidt,,654
+Harrison,East Handsboro,Circuit Court Place 3,2,Larry Bourgeois,,654
+Harrison,East Handsboro,Circuit Court Place 4,2,Randi Peresich Mueller,,651
+Harrison,East Long Beach,U.S. Senate,,Scott Colom,DEM,459
+Harrison,East Long Beach,U.S. Senate,,Cindy Hyde-Smith,REP,916
+Harrison,East Long Beach,U.S. Senate,,Ty Pinkins,IND,52
+Harrison,East Long Beach,U.S. House,4,Mike Ezell,REP,966
+Harrison,East Long Beach,U.S. House,4,Jeffrey Hulum III,DEM,415
+Harrison,East Long Beach,U.S. House,4,Carl Boyanton,IND,42
+Harrison,East Long Beach,Court of Appeals,5,Anthony 'Tony' Lawrence,,1147
+Harrison,East Long Beach,Chancery Court Place 1,8,Jim Persons,,1152
+Harrison,East Long Beach,Chancery Court Place 2,8,Jennifer T. Schloegel,,1163
+Harrison,East Long Beach,Chancery Court Place 3,8,Margaret Alfonso,,1157
+Harrison,East Long Beach,Chancery Court Place 4,8,Haley Necaise Broom,,833
+Harrison,East Long Beach,Chancery Court Place 4,8,Stephen J. Maggio,,391
+Harrison,East Long Beach,Chancery Court Place 4,8,Frances 'Fran' Yeatts,,87
+Harrison,East Long Beach,Circuit Court Place 1,2,Lisa P. Dodson,,1127
+Harrison,East Long Beach,Circuit Court Place 2,2,Chris Schmidt,,1126
+Harrison,East Long Beach,Circuit Court Place 3,2,Larry Bourgeois,,1118
+Harrison,East Long Beach,Circuit Court Place 4,2,Randi Peresich Mueller,,1114
+Harrison,East Miss City,U.S. Senate,,Scott Colom,DEM,703
+Harrison,East Miss City,U.S. Senate,,Cindy Hyde-Smith,REP,847
+Harrison,East Miss City,U.S. Senate,,Ty Pinkins,IND,38
+Harrison,East Miss City,U.S. House,4,Mike Ezell,REP,886
+Harrison,East Miss City,U.S. House,4,Jeffrey Hulum III,DEM,659
+Harrison,East Miss City,U.S. House,4,Carl Boyanton,IND,39
+Harrison,East Miss City,Court of Appeals,5,Anthony 'Tony' Lawrence,,1201
+Harrison,East Miss City,Chancery Court Place 1,8,Jim Persons,,1201
+Harrison,East Miss City,Chancery Court Place 2,8,Jennifer T. Schloegel,,1228
+Harrison,East Miss City,Chancery Court Place 3,8,Margaret Alfonso,,1205
+Harrison,East Miss City,Chancery Court Place 4,8,Haley Necaise Broom,,844
+Harrison,East Miss City,Chancery Court Place 4,8,Stephen J. Maggio,,423
+Harrison,East Miss City,Chancery Court Place 4,8,Frances 'Fran' Yeatts,,95
+Harrison,East Miss City,Circuit Court Place 1,2,Lisa P. Dodson,,1174
+Harrison,East Miss City,Circuit Court Place 2,2,Chris Schmidt,,1148
+Harrison,East Miss City,Circuit Court Place 3,2,Larry Bourgeois,,1141
+Harrison,East Miss City,Circuit Court Place 4,2,Randi Peresich Mueller,,1149
+Harrison,East North Gulfport,U.S. Senate,,Scott Colom,DEM,417
+Harrison,East North Gulfport,U.S. Senate,,Cindy Hyde-Smith,REP,17
+Harrison,East North Gulfport,U.S. Senate,,Ty Pinkins,IND,6
+Harrison,East North Gulfport,U.S. House,4,Mike Ezell,REP,24
+Harrison,East North Gulfport,U.S. House,4,Jeffrey Hulum III,DEM,406
+Harrison,East North Gulfport,U.S. House,4,Carl Boyanton,IND,7
+Harrison,East North Gulfport,Court of Appeals,5,Anthony 'Tony' Lawrence,,267
+Harrison,East North Gulfport,Chancery Court Place 1,8,Jim Persons,,268
+Harrison,East North Gulfport,Chancery Court Place 2,8,Jennifer T. Schloegel,,278
+Harrison,East North Gulfport,Chancery Court Place 3,8,Margaret Alfonso,,267
+Harrison,East North Gulfport,Chancery Court Place 4,8,Haley Necaise Broom,,174
+Harrison,East North Gulfport,Chancery Court Place 4,8,Stephen J. Maggio,,117
+Harrison,East North Gulfport,Chancery Court Place 4,8,Frances 'Fran' Yeatts,,48
+Harrison,East North Gulfport,Circuit Court Place 1,2,Lisa P. Dodson,,268
+Harrison,East North Gulfport,Circuit Court Place 2,2,Chris Schmidt,,252
+Harrison,East North Gulfport,Circuit Court Place 3,2,Larry Bourgeois,,254
+Harrison,East North Gulfport,Circuit Court Place 4,2,Randi Peresich Mueller,,253
+Harrison,Gulfport # 13,U.S. Senate,,Scott Colom,DEM,721
+Harrison,Gulfport # 13,U.S. Senate,,Cindy Hyde-Smith,REP,99
+Harrison,Gulfport # 13,U.S. Senate,,Ty Pinkins,IND,13
+Harrison,Gulfport # 13,U.S. House,4,Mike Ezell,REP,109
+Harrison,Gulfport # 13,U.S. House,4,Jeffrey Hulum III,DEM,701
+Harrison,Gulfport # 13,U.S. House,4,Carl Boyanton,IND,17
+Harrison,Gulfport # 13,Court of Appeals,5,Anthony 'Tony' Lawrence,,526
+Harrison,Gulfport # 13,Chancery Court Place 1,8,Jim Persons,,508
+Harrison,Gulfport # 13,Chancery Court Place 2,8,Jennifer T. Schloegel,,537
+Harrison,Gulfport # 13,Chancery Court Place 3,8,Margaret Alfonso,,528
+Harrison,Gulfport # 13,Chancery Court Place 4,8,Haley Necaise Broom,,308
+Harrison,Gulfport # 13,Chancery Court Place 4,8,Stephen J. Maggio,,219
+Harrison,Gulfport # 13,Chancery Court Place 4,8,Frances 'Fran' Yeatts,,94
+Harrison,Gulfport # 13,Circuit Court Place 1,2,Lisa P. Dodson,,525
+Harrison,Gulfport # 13,Circuit Court Place 2,2,Chris Schmidt,,506
+Harrison,Gulfport # 13,Circuit Court Place 3,2,Larry Bourgeois,,503
+Harrison,Gulfport # 13,Circuit Court Place 4,2,Randi Peresich Mueller,,498
+Harrison,Gulfport # 14,U.S. Senate,,Scott Colom,DEM,877
+Harrison,Gulfport # 14,U.S. Senate,,Cindy Hyde-Smith,REP,49
+Harrison,Gulfport # 14,U.S. Senate,,Ty Pinkins,IND,7
+Harrison,Gulfport # 14,U.S. House,4,Mike Ezell,REP,57
+Harrison,Gulfport # 14,U.S. House,4,Jeffrey Hulum III,DEM,865
+Harrison,Gulfport # 14,U.S. House,4,Carl Boyanton,IND,9
+Harrison,Gulfport # 14,Court of Appeals,5,Anthony 'Tony' Lawrence,,617
+Harrison,Gulfport # 14,Chancery Court Place 1,8,Jim Persons,,593
+Harrison,Gulfport # 14,Chancery Court Place 2,8,Jennifer T. Schloegel,,638
+Harrison,Gulfport # 14,Chancery Court Place 3,8,Margaret Alfonso,,638
+Harrison,Gulfport # 14,Chancery Court Place 4,8,Haley Necaise Broom,,373
+Harrison,Gulfport # 14,Chancery Court Place 4,8,Stephen J. Maggio,,276
+Harrison,Gulfport # 14,Chancery Court Place 4,8,Frances 'Fran' Yeatts,,106
+Harrison,Gulfport # 14,Circuit Court Place 1,2,Lisa P. Dodson,,601
+Harrison,Gulfport # 14,Circuit Court Place 2,2,Chris Schmidt,,583
+Harrison,Gulfport # 14,Circuit Court Place 3,2,Larry Bourgeois,,573
+Harrison,Gulfport # 14,Circuit Court Place 4,2,Randi Peresich Mueller,,570
+Harrison,Gulfport # 16,U.S. Senate,,Scott Colom,DEM,495
+Harrison,Gulfport # 16,U.S. Senate,,Cindy Hyde-Smith,REP,65
+Harrison,Gulfport # 16,U.S. Senate,,Ty Pinkins,IND,4
+Harrison,Gulfport # 16,U.S. House,4,Mike Ezell,REP,70
+Harrison,Gulfport # 16,U.S. House,4,Jeffrey Hulum III,DEM,484
+Harrison,Gulfport # 16,U.S. House,4,Carl Boyanton,IND,7
+Harrison,Gulfport # 16,Court of Appeals,5,Anthony 'Tony' Lawrence,,459
+Harrison,Gulfport # 16,Chancery Court Place 1,8,Jim Persons,,453
+Harrison,Gulfport # 16,Chancery Court Place 2,8,Jennifer T. Schloegel,,468
+Harrison,Gulfport # 16,Chancery Court Place 3,8,Margaret Alfonso,,461
+Harrison,Gulfport # 16,Chancery Court Place 4,8,Haley Necaise Broom,,273
+Harrison,Gulfport # 16,Chancery Court Place 4,8,Stephen J. Maggio,,158
+Harrison,Gulfport # 16,Chancery Court Place 4,8,Frances 'Fran' Yeatts,,81
+Harrison,Gulfport # 16,Circuit Court Place 1,2,Lisa P. Dodson,,468
+Harrison,Gulfport # 16,Circuit Court Place 2,2,Chris Schmidt,,459
+Harrison,Gulfport # 16,Circuit Court Place 3,2,Larry Bourgeois,,458
+Harrison,Gulfport # 16,Circuit Court Place 4,2,Randi Peresich Mueller,,453
+Harrison,Gulfport # 3,U.S. Senate,,Scott Colom,DEM,302
+Harrison,Gulfport # 3,U.S. Senate,,Cindy Hyde-Smith,REP,33
+Harrison,Gulfport # 3,U.S. Senate,,Ty Pinkins,IND,3
+Harrison,Gulfport # 3,U.S. House,4,Mike Ezell,REP,38
+Harrison,Gulfport # 3,U.S. House,4,Jeffrey Hulum III,DEM,296
+Harrison,Gulfport # 3,U.S. House,4,Carl Boyanton,IND,4
+Harrison,Gulfport # 3,Court of Appeals,5,Anthony 'Tony' Lawrence,,206
+Harrison,Gulfport # 3,Chancery Court Place 1,8,Jim Persons,,203
+Harrison,Gulfport # 3,Chancery Court Place 2,8,Jennifer T. Schloegel,,207
+Harrison,Gulfport # 3,Chancery Court Place 3,8,Margaret Alfonso,,210
+Harrison,Gulfport # 3,Chancery Court Place 4,8,Haley Necaise Broom,,139
+Harrison,Gulfport # 3,Chancery Court Place 4,8,Stephen J. Maggio,,89
+Harrison,Gulfport # 3,Chancery Court Place 4,8,Frances 'Fran' Yeatts,,36
+Harrison,Gulfport # 3,Circuit Court Place 1,2,Lisa P. Dodson,,205
+Harrison,Gulfport # 3,Circuit Court Place 2,2,Chris Schmidt,,190
+Harrison,Gulfport # 3,Circuit Court Place 3,2,Larry Bourgeois,,188
+Harrison,Gulfport # 3,Circuit Court Place 4,2,Randi Peresich Mueller,,187
+Harrison,Gulfport # 8,U.S. Senate,,Scott Colom,DEM,496
+Harrison,Gulfport # 8,U.S. Senate,,Cindy Hyde-Smith,REP,124
+Harrison,Gulfport # 8,U.S. Senate,,Ty Pinkins,IND,19
+Harrison,Gulfport # 8,U.S. House,4,Mike Ezell,REP,153
+Harrison,Gulfport # 8,U.S. House,4,Jeffrey Hulum III,DEM,467
+Harrison,Gulfport # 8,U.S. House,4,Carl Boyanton,IND,14
+Harrison,Gulfport # 8,Court of Appeals,5,Anthony 'Tony' Lawrence,,421
+Harrison,Gulfport # 8,Chancery Court Place 1,8,Jim Persons,,414
+Harrison,Gulfport # 8,Chancery Court Place 2,8,Jennifer T. Schloegel,,427
+Harrison,Gulfport # 8,Chancery Court Place 3,8,Margaret Alfonso,,428
+Harrison,Gulfport # 8,Chancery Court Place 4,8,Haley Necaise Broom,,255
+Harrison,Gulfport # 8,Chancery Court Place 4,8,Stephen J. Maggio,,192
+Harrison,Gulfport # 8,Chancery Court Place 4,8,Frances 'Fran' Yeatts,,58
+Harrison,Gulfport # 8,Circuit Court Place 1,2,Lisa P. Dodson,,401
+Harrison,Gulfport # 8,Circuit Court Place 2,2,Chris Schmidt,,400
+Harrison,Gulfport # 8,Circuit Court Place 3,2,Larry Bourgeois,,399
+Harrison,Gulfport # 8,Circuit Court Place 4,2,Randi Peresich Mueller,,390
+Harrison,Howard Creek,U.S. Senate,,Scott Colom,DEM,772
+Harrison,Howard Creek,U.S. Senate,,Cindy Hyde-Smith,REP,1507
+Harrison,Howard Creek,U.S. Senate,,Ty Pinkins,IND,81
+Harrison,Howard Creek,U.S. House,4,Mike Ezell,REP,1559
+Harrison,Howard Creek,U.S. House,4,Jeffrey Hulum III,DEM,709
+Harrison,Howard Creek,U.S. House,4,Carl Boyanton,IND,89
+Harrison,Howard Creek,Court of Appeals,5,Anthony 'Tony' Lawrence,,1898
+Harrison,Howard Creek,Chancery Court Place 1,8,Jim Persons,,1884
+Harrison,Howard Creek,Chancery Court Place 2,8,Jennifer T. Schloegel,,1904
+Harrison,Howard Creek,Chancery Court Place 3,8,Margaret Alfonso,,1873
+Harrison,Howard Creek,Chancery Court Place 4,8,Haley Necaise Broom,,1355
+Harrison,Howard Creek,Chancery Court Place 4,8,Stephen J. Maggio,,554
+Harrison,Howard Creek,Chancery Court Place 4,8,Frances 'Fran' Yeatts,,165
+Harrison,Howard Creek,Circuit Court Place 1,2,Lisa P. Dodson,,1889
+Harrison,Howard Creek,Circuit Court Place 2,2,Chris Schmidt,,1863
+Harrison,Howard Creek,Circuit Court Place 3,2,Larry Bourgeois,,1867
+Harrison,Howard Creek,Circuit Court Place 4,2,Randi Peresich Mueller,,1845
+Harrison,Ladner,U.S. Senate,,Scott Colom,DEM,194
+Harrison,Ladner,U.S. Senate,,Cindy Hyde-Smith,REP,600
+Harrison,Ladner,U.S. Senate,,Ty Pinkins,IND,29
+Harrison,Ladner,U.S. House,4,Mike Ezell,REP,624
+Harrison,Ladner,U.S. House,4,Jeffrey Hulum III,DEM,174
+Harrison,Ladner,U.S. House,4,Carl Boyanton,IND,27
+Harrison,Ladner,Court of Appeals,5,Anthony 'Tony' Lawrence,,670
+Harrison,Ladner,Chancery Court Place 1,8,Jim Persons,,671
+Harrison,Ladner,Chancery Court Place 2,8,Jennifer T. Schloegel,,676
+Harrison,Ladner,Chancery Court Place 3,8,Margaret Alfonso,,681
+Harrison,Ladner,Chancery Court Place 4,8,Haley Necaise Broom,,578
+Harrison,Ladner,Chancery Court Place 4,8,Stephen J. Maggio,,167
+Harrison,Ladner,Chancery Court Place 4,8,Frances 'Fran' Yeatts,,25
+Harrison,Ladner,Circuit Court Place 1,2,Lisa P. Dodson,,679
+Harrison,Ladner,Circuit Court Place 2,2,Chris Schmidt,,669
+Harrison,Ladner,Circuit Court Place 3,2,Larry Bourgeois,,663
+Harrison,Ladner,Circuit Court Place 4,2,Randi Peresich Mueller,,657
+Harrison,Long Beach # 5,U.S. Senate,,Scott Colom,DEM,817
+Harrison,Long Beach # 5,U.S. Senate,,Cindy Hyde-Smith,REP,1525
+Harrison,Long Beach # 5,U.S. Senate,,Ty Pinkins,IND,117
+Harrison,Long Beach # 5,U.S. House,4,Mike Ezell,REP,1644
+Harrison,Long Beach # 5,U.S. House,4,Jeffrey Hulum III,DEM,727
+Harrison,Long Beach # 5,U.S. House,4,Carl Boyanton,IND,91
+Harrison,Long Beach # 5,Court of Appeals,5,Anthony 'Tony' Lawrence,,2027
+Harrison,Long Beach # 5,Chancery Court Place 1,8,Jim Persons,,2034
+Harrison,Long Beach # 5,Chancery Court Place 2,8,Jennifer T. Schloegel,,2067
+Harrison,Long Beach # 5,Chancery Court Place 3,8,Margaret Alfonso,,2059
+Harrison,Long Beach # 5,Chancery Court Place 4,8,Haley Necaise Broom,,1515
+Harrison,Long Beach # 5,Chancery Court Place 4,8,Stephen J. Maggio,,669
+Harrison,Long Beach # 5,Chancery Court Place 4,8,Frances 'Fran' Yeatts,,107
+Harrison,Long Beach # 5,Circuit Court Place 1,2,Lisa P. Dodson,,2037
+Harrison,Long Beach # 5,Circuit Court Place 2,2,Chris Schmidt,,2019
+Harrison,Long Beach # 5,Circuit Court Place 3,2,Larry Bourgeois,,2014
+Harrison,Long Beach # 5,Circuit Court Place 4,2,Randi Peresich Mueller,,1995
+Harrison,Lyman,U.S. Senate,,Scott Colom,DEM,1347
+Harrison,Lyman,U.S. Senate,,Cindy Hyde-Smith,REP,1869
+Harrison,Lyman,U.S. Senate,,Ty Pinkins,IND,125
+Harrison,Lyman,U.S. House,4,Mike Ezell,REP,1958
+Harrison,Lyman,U.S. House,4,Jeffrey Hulum III,DEM,1283
+Harrison,Lyman,U.S. House,4,Carl Boyanton,IND,98
+Harrison,Lyman,Court of Appeals,5,Anthony 'Tony' Lawrence,,2709
+Harrison,Lyman,Chancery Court Place 1,8,Jim Persons,,2702
+Harrison,Lyman,Chancery Court Place 2,8,Jennifer T. Schloegel,,2742
+Harrison,Lyman,Chancery Court Place 3,8,Margaret Alfonso,,2716
+Harrison,Lyman,Chancery Court Place 4,8,Haley Necaise Broom,,2113
+Harrison,Lyman,Chancery Court Place 4,8,Stephen J. Maggio,,729
+Harrison,Lyman,Chancery Court Place 4,8,Frances 'Fran' Yeatts,,210
+Harrison,Lyman,Circuit Court Place 1,2,Lisa P. Dodson,,2706
+Harrison,Lyman,Circuit Court Place 2,2,Chris Schmidt,,2663
+Harrison,Lyman,Circuit Court Place 3,2,Larry Bourgeois,,2661
+Harrison,Lyman,Circuit Court Place 4,2,Randi Peresich Mueller,,2645
+Harrison,Magnolia Grove,U.S. Senate,,Scott Colom,DEM,481
+Harrison,Magnolia Grove,U.S. Senate,,Cindy Hyde-Smith,REP,67
+Harrison,Magnolia Grove,U.S. Senate,,Ty Pinkins,IND,6
+Harrison,Magnolia Grove,U.S. House,4,Mike Ezell,REP,80
+Harrison,Magnolia Grove,U.S. House,4,Jeffrey Hulum III,DEM,469
+Harrison,Magnolia Grove,U.S. House,4,Carl Boyanton,IND,3
+Harrison,Magnolia Grove,Court of Appeals,5,Anthony 'Tony' Lawrence,,368
+Harrison,Magnolia Grove,Chancery Court Place 1,8,Jim Persons,,355
+Harrison,Magnolia Grove,Chancery Court Place 2,8,Jennifer T. Schloegel,,362
+Harrison,Magnolia Grove,Chancery Court Place 3,8,Margaret Alfonso,,360
+Harrison,Magnolia Grove,Chancery Court Place 4,8,Haley Necaise Broom,,225
+Harrison,Magnolia Grove,Chancery Court Place 4,8,Stephen J. Maggio,,166
+Harrison,Magnolia Grove,Chancery Court Place 4,8,Frances 'Fran' Yeatts,,62
+Harrison,Magnolia Grove,Circuit Court Place 1,2,Lisa P. Dodson,,347
+Harrison,Magnolia Grove,Circuit Court Place 2,2,Chris Schmidt,,339
+Harrison,Magnolia Grove,Circuit Court Place 3,2,Larry Bourgeois,,331
+Harrison,Magnolia Grove,Circuit Court Place 4,2,Randi Peresich Mueller,,335
+Harrison,New Hope,U.S. Senate,,Scott Colom,DEM,793
+Harrison,New Hope,U.S. Senate,,Cindy Hyde-Smith,REP,605
+Harrison,New Hope,U.S. Senate,,Ty Pinkins,IND,25
+Harrison,New Hope,U.S. House,4,Mike Ezell,REP,637
+Harrison,New Hope,U.S. House,4,Jeffrey Hulum III,DEM,759
+Harrison,New Hope,U.S. House,4,Carl Boyanton,IND,27
+Harrison,New Hope,Court of Appeals,5,Anthony 'Tony' Lawrence,,1025
+Harrison,New Hope,Chancery Court Place 1,8,Jim Persons,,1023
+Harrison,New Hope,Chancery Court Place 2,8,Jennifer T. Schloegel,,1047
+Harrison,New Hope,Chancery Court Place 3,8,Margaret Alfonso,,1051
+Harrison,New Hope,Chancery Court Place 4,8,Haley Necaise Broom,,777
+Harrison,New Hope,Chancery Court Place 4,8,Stephen J. Maggio,,333
+Harrison,New Hope,Chancery Court Place 4,8,Frances 'Fran' Yeatts,,116
+Harrison,New Hope,Circuit Court Place 1,2,Lisa P. Dodson,,1042
+Harrison,New Hope,Circuit Court Place 2,2,Chris Schmidt,,1013
+Harrison,New Hope,Circuit Court Place 3,2,Larry Bourgeois,,1010
+Harrison,New Hope,Circuit Court Place 4,2,Randi Peresich Mueller,,999
+Harrison,New Popps Ferry,U.S. Senate,,Scott Colom,DEM,414
+Harrison,New Popps Ferry,U.S. Senate,,Cindy Hyde-Smith,REP,451
+Harrison,New Popps Ferry,U.S. Senate,,Ty Pinkins,IND,23
+Harrison,New Popps Ferry,U.S. House,4,Mike Ezell,REP,496
+Harrison,New Popps Ferry,U.S. House,4,Jeffrey Hulum III,DEM,372
+Harrison,New Popps Ferry,U.S. House,4,Carl Boyanton,IND,21
+Harrison,New Popps Ferry,Court of Appeals,5,Anthony 'Tony' Lawrence,,701
+Harrison,New Popps Ferry,Chancery Court Place 1,8,Jim Persons,,691
+Harrison,New Popps Ferry,Chancery Court Place 2,8,Jennifer T. Schloegel,,700
+Harrison,New Popps Ferry,Chancery Court Place 3,8,Margaret Alfonso,,687
+Harrison,New Popps Ferry,Chancery Court Place 4,8,Haley Necaise Broom,,516
+Harrison,New Popps Ferry,Chancery Court Place 4,8,Stephen J. Maggio,,180
+Harrison,New Popps Ferry,Chancery Court Place 4,8,Frances 'Fran' Yeatts,,69
+Harrison,New Popps Ferry,Circuit Court Place 1,2,Lisa P. Dodson,,686
+Harrison,New Popps Ferry,Circuit Court Place 2,2,Chris Schmidt,,675
+Harrison,New Popps Ferry,Circuit Court Place 3,2,Larry Bourgeois,,675
+Harrison,New Popps Ferry,Circuit Court Place 4,2,Randi Peresich Mueller,,678
+Harrison,North Bay,U.S. Senate,,Scott Colom,DEM,1522
+Harrison,North Bay,U.S. Senate,,Cindy Hyde-Smith,REP,1650
+Harrison,North Bay,U.S. Senate,,Ty Pinkins,IND,95
+Harrison,North Bay,U.S. House,4,Mike Ezell,REP,1736
+Harrison,North Bay,U.S. House,4,Jeffrey Hulum III,DEM,1424
+Harrison,North Bay,U.S. House,4,Carl Boyanton,IND,105
+Harrison,North Bay,Court of Appeals,5,Anthony 'Tony' Lawrence,,2628
+Harrison,North Bay,Chancery Court Place 1,8,Jim Persons,,2587
+Harrison,North Bay,Chancery Court Place 2,8,Jennifer T. Schloegel,,2639
+Harrison,North Bay,Chancery Court Place 3,8,Margaret Alfonso,,2605
+Harrison,North Bay,Chancery Court Place 4,8,Haley Necaise Broom,,1876
+Harrison,North Bay,Chancery Court Place 4,8,Stephen J. Maggio,,700
+Harrison,North Bay,Chancery Court Place 4,8,Frances 'Fran' Yeatts,,304
+Harrison,North Bay,Circuit Court Place 1,2,Lisa P. Dodson,,2612
+Harrison,North Bay,Circuit Court Place 2,2,Chris Schmidt,,2569
+Harrison,North Bay,Circuit Court Place 3,2,Larry Bourgeois,,2569
+Harrison,North Bay,Circuit Court Place 4,2,Randi Peresich Mueller,,2552
+Harrison,North Bel-Aire,U.S. Senate,,Scott Colom,DEM,1905
+Harrison,North Bel-Aire,U.S. Senate,,Cindy Hyde-Smith,REP,680
+Harrison,North Bel-Aire,U.S. Senate,,Ty Pinkins,IND,66
+Harrison,North Bel-Aire,U.S. House,4,Mike Ezell,REP,742
+Harrison,North Bel-Aire,U.S. House,4,Jeffrey Hulum III,DEM,1856
+Harrison,North Bel-Aire,U.S. House,4,Carl Boyanton,IND,42
+Harrison,North Bel-Aire,Court of Appeals,5,Anthony 'Tony' Lawrence,,1802
+Harrison,North Bel-Aire,Chancery Court Place 1,8,Jim Persons,,1807
+Harrison,North Bel-Aire,Chancery Court Place 2,8,Jennifer T. Schloegel,,1852
+Harrison,North Bel-Aire,Chancery Court Place 3,8,Margaret Alfonso,,1847
+Harrison,North Bel-Aire,Chancery Court Place 4,8,Haley Necaise Broom,,1253
+Harrison,North Bel-Aire,Chancery Court Place 4,8,Stephen J. Maggio,,680
+Harrison,North Bel-Aire,Chancery Court Place 4,8,Frances 'Fran' Yeatts,,254
+Harrison,North Bel-Aire,Circuit Court Place 1,2,Lisa P. Dodson,,1821
+Harrison,North Bel-Aire,Circuit Court Place 2,2,Chris Schmidt,,1767
+Harrison,North Bel-Aire,Circuit Court Place 3,2,Larry Bourgeois,,1762
+Harrison,North Bel-Aire,Circuit Court Place 4,2,Randi Peresich Mueller,,1746
+Harrison,Northwood Hills,U.S. Senate,,Scott Colom,DEM,377
+Harrison,Northwood Hills,U.S. Senate,,Cindy Hyde-Smith,REP,257
+Harrison,Northwood Hills,U.S. Senate,,Ty Pinkins,IND,19
+Harrison,Northwood Hills,U.S. House,4,Mike Ezell,REP,274
+Harrison,Northwood Hills,U.S. House,4,Jeffrey Hulum III,DEM,366
+Harrison,Northwood Hills,U.S. House,4,Carl Boyanton,IND,15
+Harrison,Northwood Hills,Court of Appeals,5,Anthony 'Tony' Lawrence,,489
+Harrison,Northwood Hills,Chancery Court Place 1,8,Jim Persons,,481
+Harrison,Northwood Hills,Chancery Court Place 2,8,Jennifer T. Schloegel,,495
+Harrison,Northwood Hills,Chancery Court Place 3,8,Margaret Alfonso,,495
+Harrison,Northwood Hills,Chancery Court Place 4,8,Haley Necaise Broom,,311
+Harrison,Northwood Hills,Chancery Court Place 4,8,Stephen J. Maggio,,193
+Harrison,Northwood Hills,Chancery Court Place 4,8,Frances 'Fran' Yeatts,,56
+Harrison,Northwood Hills,Circuit Court Place 1,2,Lisa P. Dodson,,480
+Harrison,Northwood Hills,Circuit Court Place 2,2,Chris Schmidt,,473
+Harrison,Northwood Hills,Circuit Court Place 3,2,Larry Bourgeois,,472
+Harrison,Northwood Hills,Circuit Court Place 4,2,Randi Peresich Mueller,,470
+Harrison,Outside Long Beach,U.S. Senate,,Scott Colom,DEM,44
+Harrison,Outside Long Beach,U.S. Senate,,Cindy Hyde-Smith,REP,199
+Harrison,Outside Long Beach,U.S. Senate,,Ty Pinkins,IND,21
+Harrison,Outside Long Beach,U.S. House,4,Mike Ezell,REP,213
+Harrison,Outside Long Beach,U.S. House,4,Jeffrey Hulum III,DEM,42
+Harrison,Outside Long Beach,U.S. House,4,Carl Boyanton,IND,11
+Harrison,Outside Long Beach,Court of Appeals,5,Anthony 'Tony' Lawrence,,225
+Harrison,Outside Long Beach,Chancery Court Place 1,8,Jim Persons,,224
+Harrison,Outside Long Beach,Chancery Court Place 2,8,Jennifer T. Schloegel,,232
+Harrison,Outside Long Beach,Chancery Court Place 3,8,Margaret Alfonso,,230
+Harrison,Outside Long Beach,Chancery Court Place 4,8,Haley Necaise Broom,,171
+Harrison,Outside Long Beach,Chancery Court Place 4,8,Stephen J. Maggio,,68
+Harrison,Outside Long Beach,Chancery Court Place 4,8,Frances 'Fran' Yeatts,,7
+Harrison,Outside Long Beach,Circuit Court Place 1,2,Lisa P. Dodson,,225
+Harrison,Outside Long Beach,Circuit Court Place 2,2,Chris Schmidt,,226
+Harrison,Outside Long Beach,Circuit Court Place 3,2,Larry Bourgeois,,223
+Harrison,Outside Long Beach,Circuit Court Place 4,2,Randi Peresich Mueller,,220
+Harrison,Peace,U.S. Senate,,Scott Colom,DEM,312
+Harrison,Peace,U.S. Senate,,Cindy Hyde-Smith,REP,1142
+Harrison,Peace,U.S. Senate,,Ty Pinkins,IND,53
+Harrison,Peace,U.S. House,4,Mike Ezell,REP,1181
+Harrison,Peace,U.S. House,4,Jeffrey Hulum III,DEM,281
+Harrison,Peace,U.S. House,4,Carl Boyanton,IND,42
+Harrison,Peace,Court of Appeals,5,Anthony 'Tony' Lawrence,,1282
+Harrison,Peace,Chancery Court Place 1,8,Jim Persons,,1294
+Harrison,Peace,Chancery Court Place 2,8,Jennifer T. Schloegel,,1302
+Harrison,Peace,Chancery Court Place 3,8,Margaret Alfonso,,1290
+Harrison,Peace,Chancery Court Place 4,8,Haley Necaise Broom,,989
+Harrison,Peace,Chancery Court Place 4,8,Stephen J. Maggio,,320
+Harrison,Peace,Chancery Court Place 4,8,Frances 'Fran' Yeatts,,89
+Harrison,Peace,Circuit Court Place 1,2,Lisa P. Dodson,,1271
+Harrison,Peace,Circuit Court Place 2,2,Chris Schmidt,,1266
+Harrison,Peace,Circuit Court Place 3,2,Larry Bourgeois,,1259
+Harrison,Peace,Circuit Court Place 4,2,Randi Peresich Mueller,,1262
+Harrison,Pineville,U.S. Senate,,Scott Colom,DEM,277
+Harrison,Pineville,U.S. Senate,,Cindy Hyde-Smith,REP,827
+Harrison,Pineville,U.S. Senate,,Ty Pinkins,IND,37
+Harrison,Pineville,U.S. House,4,Mike Ezell,REP,858
+Harrison,Pineville,U.S. House,4,Jeffrey Hulum III,DEM,254
+Harrison,Pineville,U.S. House,4,Carl Boyanton,IND,34
+Harrison,Pineville,Court of Appeals,5,Anthony 'Tony' Lawrence,,916
+Harrison,Pineville,Chancery Court Place 1,8,Jim Persons,,925
+Harrison,Pineville,Chancery Court Place 2,8,Jennifer T. Schloegel,,931
+Harrison,Pineville,Chancery Court Place 3,8,Margaret Alfonso,,928
+Harrison,Pineville,Chancery Court Place 4,8,Haley Necaise Broom,,622
+Harrison,Pineville,Chancery Court Place 4,8,Stephen J. Maggio,,398
+Harrison,Pineville,Chancery Court Place 4,8,Frances 'Fran' Yeatts,,49
+Harrison,Pineville,Circuit Court Place 1,2,Lisa P. Dodson,,915
+Harrison,Pineville,Circuit Court Place 2,2,Chris Schmidt,,937
+Harrison,Pineville,Circuit Court Place 3,2,Larry Bourgeois,,917
+Harrison,Pineville,Circuit Court Place 4,2,Randi Peresich Mueller,,905
+Harrison,Poplar Head,U.S. Senate,,Scott Colom,DEM,59
+Harrison,Poplar Head,U.S. Senate,,Cindy Hyde-Smith,REP,267
+Harrison,Poplar Head,U.S. Senate,,Ty Pinkins,IND,4
+Harrison,Poplar Head,U.S. House,4,Mike Ezell,REP,273
+Harrison,Poplar Head,U.S. House,4,Jeffrey Hulum III,DEM,49
+Harrison,Poplar Head,U.S. House,4,Carl Boyanton,IND,9
+Harrison,Poplar Head,Court of Appeals,5,Anthony 'Tony' Lawrence,,281
+Harrison,Poplar Head,Chancery Court Place 1,8,Jim Persons,,285
+Harrison,Poplar Head,Chancery Court Place 2,8,Jennifer T. Schloegel,,293
+Harrison,Poplar Head,Chancery Court Place 3,8,Margaret Alfonso,,285
+Harrison,Poplar Head,Chancery Court Place 4,8,Haley Necaise Broom,,225
+Harrison,Poplar Head,Chancery Court Place 4,8,Stephen J. Maggio,,70
+Harrison,Poplar Head,Chancery Court Place 4,8,Frances 'Fran' Yeatts,,12
+Harrison,Poplar Head,Circuit Court Place 1,2,Lisa P. Dodson,,282
+Harrison,Poplar Head,Circuit Court Place 2,2,Chris Schmidt,,278
+Harrison,Poplar Head,Circuit Court Place 3,2,Larry Bourgeois,,280
+Harrison,Poplar Head,Circuit Court Place 4,2,Randi Peresich Mueller,,279
+Harrison,Riceville,U.S. Senate,,Scott Colom,DEM,16
+Harrison,Riceville,U.S. Senate,,Cindy Hyde-Smith,REP,120
+Harrison,Riceville,U.S. Senate,,Ty Pinkins,IND,5
+Harrison,Riceville,U.S. House,4,Mike Ezell,REP,123
+Harrison,Riceville,U.S. House,4,Jeffrey Hulum III,DEM,14
+Harrison,Riceville,U.S. House,4,Carl Boyanton,IND,4
+Harrison,Riceville,Court of Appeals,5,Anthony 'Tony' Lawrence,,115
+Harrison,Riceville,Chancery Court Place 1,8,Jim Persons,,115
+Harrison,Riceville,Chancery Court Place 2,8,Jennifer T. Schloegel,,115
+Harrison,Riceville,Chancery Court Place 3,8,Margaret Alfonso,,116
+Harrison,Riceville,Chancery Court Place 4,8,Haley Necaise Broom,,108
+Harrison,Riceville,Chancery Court Place 4,8,Stephen J. Maggio,,24
+Harrison,Riceville,Chancery Court Place 4,8,Frances 'Fran' Yeatts,,4
+Harrison,Riceville,Circuit Court Place 1,2,Lisa P. Dodson,,118
+Harrison,Riceville,Circuit Court Place 2,2,Chris Schmidt,,115
+Harrison,Riceville,Circuit Court Place 3,2,Larry Bourgeois,,116
+Harrison,Riceville,Circuit Court Place 4,2,Randi Peresich Mueller,,116
+Harrison,Saucier,U.S. Senate,,Scott Colom,DEM,193
+Harrison,Saucier,U.S. Senate,,Cindy Hyde-Smith,REP,608
+Harrison,Saucier,U.S. Senate,,Ty Pinkins,IND,36
+Harrison,Saucier,U.S. House,4,Mike Ezell,REP,641
+Harrison,Saucier,U.S. House,4,Jeffrey Hulum III,DEM,177
+Harrison,Saucier,U.S. House,4,Carl Boyanton,IND,20
+Harrison,Saucier,Court of Appeals,5,Anthony 'Tony' Lawrence,,670
+Harrison,Saucier,Chancery Court Place 1,8,Jim Persons,,683
+Harrison,Saucier,Chancery Court Place 2,8,Jennifer T. Schloegel,,694
+Harrison,Saucier,Chancery Court Place 3,8,Margaret Alfonso,,688
+Harrison,Saucier,Chancery Court Place 4,8,Haley Necaise Broom,,566
+Harrison,Saucier,Chancery Court Place 4,8,Stephen J. Maggio,,171
+Harrison,Saucier,Chancery Court Place 4,8,Frances 'Fran' Yeatts,,41
+Harrison,Saucier,Circuit Court Place 1,2,Lisa P. Dodson,,694
+Harrison,Saucier,Circuit Court Place 2,2,Chris Schmidt,,675
+Harrison,Saucier,Circuit Court Place 3,2,Larry Bourgeois,,674
+Harrison,Saucier,Circuit Court Place 4,2,Randi Peresich Mueller,,671
+Harrison,South Bel-Aire,U.S. Senate,,Scott Colom,DEM,853
+Harrison,South Bel-Aire,U.S. Senate,,Cindy Hyde-Smith,REP,277
+Harrison,South Bel-Aire,U.S. Senate,,Ty Pinkins,IND,25
+Harrison,South Bel-Aire,U.S. House,4,Mike Ezell,REP,299
+Harrison,South Bel-Aire,U.S. House,4,Jeffrey Hulum III,DEM,832
+Harrison,South Bel-Aire,U.S. House,4,Carl Boyanton,IND,19
+Harrison,South Bel-Aire,Court of Appeals,5,Anthony 'Tony' Lawrence,,760
+Harrison,South Bel-Aire,Chancery Court Place 1,8,Jim Persons,,761
+Harrison,South Bel-Aire,Chancery Court Place 2,8,Jennifer T. Schloegel,,791
+Harrison,South Bel-Aire,Chancery Court Place 3,8,Margaret Alfonso,,790
+Harrison,South Bel-Aire,Chancery Court Place 4,8,Haley Necaise Broom,,553
+Harrison,South Bel-Aire,Chancery Court Place 4,8,Stephen J. Maggio,,253
+Harrison,South Bel-Aire,Chancery Court Place 4,8,Frances 'Fran' Yeatts,,114
+Harrison,South Bel-Aire,Circuit Court Place 1,2,Lisa P. Dodson,,766
+Harrison,South Bel-Aire,Circuit Court Place 2,2,Chris Schmidt,,731
+Harrison,South Bel-Aire,Circuit Court Place 3,2,Larry Bourgeois,,730
+Harrison,South Bel-Aire,Circuit Court Place 4,2,Randi Peresich Mueller,,728
+Harrison,Stonewall,U.S. Senate,,Scott Colom,DEM,603
+Harrison,Stonewall,U.S. Senate,,Cindy Hyde-Smith,REP,729
+Harrison,Stonewall,U.S. Senate,,Ty Pinkins,IND,46
+Harrison,Stonewall,U.S. House,4,Mike Ezell,REP,757
+Harrison,Stonewall,U.S. House,4,Jeffrey Hulum III,DEM,577
+Harrison,Stonewall,U.S. House,4,Carl Boyanton,IND,41
+Harrison,Stonewall,Court of Appeals,5,Anthony 'Tony' Lawrence,,1092
+Harrison,Stonewall,Chancery Court Place 1,8,Jim Persons,,1079
+Harrison,Stonewall,Chancery Court Place 2,8,Jennifer T. Schloegel,,1088
+Harrison,Stonewall,Chancery Court Place 3,8,Margaret Alfonso,,1097
+Harrison,Stonewall,Chancery Court Place 4,8,Haley Necaise Broom,,768
+Harrison,Stonewall,Chancery Court Place 4,8,Stephen J. Maggio,,316
+Harrison,Stonewall,Chancery Court Place 4,8,Frances 'Fran' Yeatts,,129
+Harrison,Stonewall,Circuit Court Place 1,2,Lisa P. Dodson,,1079
+Harrison,Stonewall,Circuit Court Place 2,2,Chris Schmidt,,1064
+Harrison,Stonewall,Circuit Court Place 3,2,Larry Bourgeois,,1066
+Harrison,Stonewall,Circuit Court Place 4,2,Randi Peresich Mueller,,1054
+Harrison,Vidalia,U.S. Senate,,Scott Colom,DEM,47
+Harrison,Vidalia,U.S. Senate,,Cindy Hyde-Smith,REP,299
+Harrison,Vidalia,U.S. Senate,,Ty Pinkins,IND,19
+Harrison,Vidalia,U.S. House,4,Mike Ezell,REP,304
+Harrison,Vidalia,U.S. House,4,Jeffrey Hulum III,DEM,40
+Harrison,Vidalia,U.S. House,4,Carl Boyanton,IND,20
+Harrison,Vidalia,Court of Appeals,5,Anthony 'Tony' Lawrence,,308
+Harrison,Vidalia,Chancery Court Place 1,8,Jim Persons,,303
+Harrison,Vidalia,Chancery Court Place 2,8,Jennifer T. Schloegel,,302
+Harrison,Vidalia,Chancery Court Place 3,8,Margaret Alfonso,,307
+Harrison,Vidalia,Chancery Court Place 4,8,Haley Necaise Broom,,267
+Harrison,Vidalia,Chancery Court Place 4,8,Stephen J. Maggio,,71
+Harrison,Vidalia,Chancery Court Place 4,8,Frances 'Fran' Yeatts,,6
+Harrison,Vidalia,Circuit Court Place 1,2,Lisa P. Dodson,,302
+Harrison,Vidalia,Circuit Court Place 2,2,Chris Schmidt,,295
+Harrison,Vidalia,Circuit Court Place 3,2,Larry Bourgeois,,298
+Harrison,Vidalia,Circuit Court Place 4,2,Randi Peresich Mueller,,297
+Harrison,W Pass Christian,U.S. Senate,,Scott Colom,DEM,367
+Harrison,W Pass Christian,U.S. Senate,,Cindy Hyde-Smith,REP,573
+Harrison,W Pass Christian,U.S. Senate,,Ty Pinkins,IND,22
+Harrison,W Pass Christian,U.S. House,4,Mike Ezell,REP,594
+Harrison,W Pass Christian,U.S. House,4,Jeffrey Hulum III,DEM,340
+Harrison,W Pass Christian,U.S. House,4,Carl Boyanton,IND,25
+Harrison,W Pass Christian,Court of Appeals,5,Anthony 'Tony' Lawrence,,758
+Harrison,W Pass Christian,Chancery Court Place 1,8,Jim Persons,,752
+Harrison,W Pass Christian,Chancery Court Place 2,8,Jennifer T. Schloegel,,754
+Harrison,W Pass Christian,Chancery Court Place 3,8,Margaret Alfonso,,759
+Harrison,W Pass Christian,Chancery Court Place 4,8,Haley Necaise Broom,,509
+Harrison,W Pass Christian,Chancery Court Place 4,8,Stephen J. Maggio,,303
+Harrison,W Pass Christian,Chancery Court Place 4,8,Frances 'Fran' Yeatts,,53
+Harrison,W Pass Christian,Circuit Court Place 1,2,Lisa P. Dodson,,747
+Harrison,W Pass Christian,Circuit Court Place 2,2,Chris Schmidt,,748
+Harrison,W Pass Christian,Circuit Court Place 3,2,Larry Bourgeois,,729
+Harrison,W Pass Christian,Circuit Court Place 4,2,Randi Peresich Mueller,,729
+Harrison,West Handsboro,U.S. Senate,,Scott Colom,DEM,387
+Harrison,West Handsboro,U.S. Senate,,Cindy Hyde-Smith,REP,873
+Harrison,West Handsboro,U.S. Senate,,Ty Pinkins,IND,35
+Harrison,West Handsboro,U.S. House,4,Mike Ezell,REP,900
+Harrison,West Handsboro,U.S. House,4,Jeffrey Hulum III,DEM,356
+Harrison,West Handsboro,U.S. House,4,Carl Boyanton,IND,35
+Harrison,West Handsboro,Court of Appeals,5,Anthony 'Tony' Lawrence,,1082
+Harrison,West Handsboro,Chancery Court Place 1,8,Jim Persons,,1095
+Harrison,West Handsboro,Chancery Court Place 2,8,Jennifer T. Schloegel,,1109
+Harrison,West Handsboro,Chancery Court Place 3,8,Margaret Alfonso,,1104
+Harrison,West Handsboro,Chancery Court Place 4,8,Haley Necaise Broom,,814
+Harrison,West Handsboro,Chancery Court Place 4,8,Stephen J. Maggio,,348
+Harrison,West Handsboro,Chancery Court Place 4,8,Frances 'Fran' Yeatts,,50
+Harrison,West Handsboro,Circuit Court Place 1,2,Lisa P. Dodson,,1105
+Harrison,West Handsboro,Circuit Court Place 2,2,Chris Schmidt,,1093
+Harrison,West Handsboro,Circuit Court Place 3,2,Larry Bourgeois,,1105
+Harrison,West Handsboro,Circuit Court Place 4,2,Randi Peresich Mueller,,1097
+Harrison,West Lizana,U.S. Senate,,Scott Colom,DEM,82
+Harrison,West Lizana,U.S. Senate,,Cindy Hyde-Smith,REP,396
+Harrison,West Lizana,U.S. Senate,,Ty Pinkins,IND,22
+Harrison,West Lizana,U.S. House,4,Mike Ezell,REP,410
+Harrison,West Lizana,U.S. House,4,Jeffrey Hulum III,DEM,71
+Harrison,West Lizana,U.S. House,4,Carl Boyanton,IND,18
+Harrison,West Lizana,Court of Appeals,5,Anthony 'Tony' Lawrence,,422
+Harrison,West Lizana,Chancery Court Place 1,8,Jim Persons,,419
+Harrison,West Lizana,Chancery Court Place 2,8,Jennifer T. Schloegel,,427
+Harrison,West Lizana,Chancery Court Place 3,8,Margaret Alfonso,,426
+Harrison,West Lizana,Chancery Court Place 4,8,Haley Necaise Broom,,401
+Harrison,West Lizana,Chancery Court Place 4,8,Stephen J. Maggio,,73
+Harrison,West Lizana,Chancery Court Place 4,8,Frances 'Fran' Yeatts,,11
+Harrison,West Lizana,Circuit Court Place 1,2,Lisa P. Dodson,,419
+Harrison,West Lizana,Circuit Court Place 2,2,Chris Schmidt,,425
+Harrison,West Lizana,Circuit Court Place 3,2,Larry Bourgeois,,419
+Harrison,West Lizana,Circuit Court Place 4,2,Randi Peresich Mueller,,418
+Harrison,West Long Beach,U.S. Senate,,Scott Colom,DEM,664
+Harrison,West Long Beach,U.S. Senate,,Cindy Hyde-Smith,REP,931
+Harrison,West Long Beach,U.S. Senate,,Ty Pinkins,IND,60
+Harrison,West Long Beach,U.S. House,4,Mike Ezell,REP,989
+Harrison,West Long Beach,U.S. House,4,Jeffrey Hulum III,DEM,601
+Harrison,West Long Beach,U.S. House,4,Carl Boyanton,IND,64
+Harrison,West Long Beach,Court of Appeals,5,Anthony 'Tony' Lawrence,,1303
+Harrison,West Long Beach,Chancery Court Place 1,8,Jim Persons,,1306
+Harrison,West Long Beach,Chancery Court Place 2,8,Jennifer T. Schloegel,,1320
+Harrison,West Long Beach,Chancery Court Place 3,8,Margaret Alfonso,,1306
+Harrison,West Long Beach,Chancery Court Place 4,8,Haley Necaise Broom,,969
+Harrison,West Long Beach,Chancery Court Place 4,8,Stephen J. Maggio,,437
+Harrison,West Long Beach,Chancery Court Place 4,8,Frances 'Fran' Yeatts,,83
+Harrison,West Long Beach,Circuit Court Place 1,2,Lisa P. Dodson,,1299
+Harrison,West Long Beach,Circuit Court Place 2,2,Chris Schmidt,,1284
+Harrison,West Long Beach,Circuit Court Place 3,2,Larry Bourgeois,,1269
+Harrison,West Long Beach,Circuit Court Place 4,2,Randi Peresich Mueller,,1268
+Harrison,West Mississippi City,U.S. Senate,,Scott Colom,DEM,670
+Harrison,West Mississippi City,U.S. Senate,,Cindy Hyde-Smith,REP,729
+Harrison,West Mississippi City,U.S. Senate,,Ty Pinkins,IND,48
+Harrison,West Mississippi City,U.S. House,4,Mike Ezell,REP,771
+Harrison,West Mississippi City,U.S. House,4,Jeffrey Hulum III,DEM,610
+Harrison,West Mississippi City,U.S. House,4,Carl Boyanton,IND,63
+Harrison,West Mississippi City,Court of Appeals,5,Anthony 'Tony' Lawrence,,1088
+Harrison,West Mississippi City,Chancery Court Place 1,8,Jim Persons,,1076
+Harrison,West Mississippi City,Chancery Court Place 2,8,Jennifer T. Schloegel,,1128
+Harrison,West Mississippi City,Chancery Court Place 3,8,Margaret Alfonso,,1107
+Harrison,West Mississippi City,Chancery Court Place 4,8,Haley Necaise Broom,,758
+Harrison,West Mississippi City,Chancery Court Place 4,8,Stephen J. Maggio,,414
+Harrison,West Mississippi City,Chancery Court Place 4,8,Frances 'Fran' Yeatts,,92
+Harrison,West Mississippi City,Circuit Court Place 1,2,Lisa P. Dodson,,1093
+Harrison,West Mississippi City,Circuit Court Place 2,2,Chris Schmidt,,1071
+Harrison,West Mississippi City,Circuit Court Place 3,2,Larry Bourgeois,,1053
+Harrison,West Mississippi City,Circuit Court Place 4,2,Randi Peresich Mueller,,1046
+Harrison,West North Gpt,U.S. Senate,,Scott Colom,DEM,844
+Harrison,West North Gpt,U.S. Senate,,Cindy Hyde-Smith,REP,22
+Harrison,West North Gpt,U.S. Senate,,Ty Pinkins,IND,10
+Harrison,West North Gpt,U.S. House,4,Mike Ezell,REP,25
+Harrison,West North Gpt,U.S. House,4,Jeffrey Hulum III,DEM,835
+Harrison,West North Gpt,U.S. House,4,Carl Boyanton,IND,8
+Harrison,West North Gpt,Court of Appeals,5,Anthony 'Tony' Lawrence,,533
+Harrison,West North Gpt,Chancery Court Place 1,8,Jim Persons,,526
+Harrison,West North Gpt,Chancery Court Place 2,8,Jennifer T. Schloegel,,555
+Harrison,West North Gpt,Chancery Court Place 3,8,Margaret Alfonso,,556
+Harrison,West North Gpt,Chancery Court Place 4,8,Haley Necaise Broom,,334
+Harrison,West North Gpt,Chancery Court Place 4,8,Stephen J. Maggio,,220
+Harrison,West North Gpt,Chancery Court Place 4,8,Frances 'Fran' Yeatts,,112
+Harrison,West North Gpt,Circuit Court Place 1,2,Lisa P. Dodson,,542
+Harrison,West North Gpt,Circuit Court Place 2,2,Chris Schmidt,,528
+Harrison,West North Gpt,Circuit Court Place 3,2,Larry Bourgeois,,523
+Harrison,West North Gpt,Circuit Court Place 4,2,Randi Peresich Mueller,,509
+Harrison,West Orange Grove,U.S. Senate,,Scott Colom,DEM,1444
+Harrison,West Orange Grove,U.S. Senate,,Cindy Hyde-Smith,REP,1140
+Harrison,West Orange Grove,U.S. Senate,,Ty Pinkins,IND,66
+Harrison,West Orange Grove,U.S. House,4,Mike Ezell,REP,1210
+Harrison,West Orange Grove,U.S. House,4,Jeffrey Hulum III,DEM,1380
+Harrison,West Orange Grove,U.S. House,4,Carl Boyanton,IND,55
+Harrison,West Orange Grove,Court of Appeals,5,Anthony 'Tony' Lawrence,,2057
+Harrison,West Orange Grove,Chancery Court Place 1,8,Jim Persons,,2044
+Harrison,West Orange Grove,Chancery Court Place 2,8,Jennifer T. Schloegel,,2080
+Harrison,West Orange Grove,Chancery Court Place 3,8,Margaret Alfonso,,2064
+Harrison,West Orange Grove,Chancery Court Place 4,8,Haley Necaise Broom,,1520
+Harrison,West Orange Grove,Chancery Court Place 4,8,Stephen J. Maggio,,623
+Harrison,West Orange Grove,Chancery Court Place 4,8,Frances 'Fran' Yeatts,,196
+Harrison,West Orange Grove,Circuit Court Place 1,2,Lisa P. Dodson,,2057
+Harrison,West Orange Grove,Circuit Court Place 2,2,Chris Schmidt,,2028
+Harrison,West Orange Grove,Circuit Court Place 3,2,Larry Bourgeois,,2015
+Harrison,West Orange Grove,Circuit Court Place 4,2,Randi Peresich Mueller,,2009
+Harrison,Westside,U.S. Senate,,Scott Colom,DEM,241
+Harrison,Westside,U.S. Senate,,Cindy Hyde-Smith,REP,304
+Harrison,Westside,U.S. Senate,,Ty Pinkins,IND,17
+Harrison,Westside,U.S. House,4,Mike Ezell,REP,315
+Harrison,Westside,U.S. House,4,Jeffrey Hulum III,DEM,229
+Harrison,Westside,U.S. House,4,Carl Boyanton,IND,19
+Harrison,Westside,Court of Appeals,5,Anthony 'Tony' Lawrence,,410
+Harrison,Westside,Chancery Court Place 1,8,Jim Persons,,419
+Harrison,Westside,Chancery Court Place 2,8,Jennifer T. Schloegel,,432
+Harrison,Westside,Chancery Court Place 3,8,Margaret Alfonso,,422
+Harrison,Westside,Chancery Court Place 4,8,Haley Necaise Broom,,255
+Harrison,Westside,Chancery Court Place 4,8,Stephen J. Maggio,,199
+Harrison,Westside,Chancery Court Place 4,8,Frances 'Fran' Yeatts,,38
+Harrison,Westside,Circuit Court Place 1,2,Lisa P. Dodson,,418
+Harrison,Westside,Circuit Court Place 2,2,Chris Schmidt,,406
+Harrison,Westside,Circuit Court Place 3,2,Larry Bourgeois,,401
+Harrison,Westside,Circuit Court Place 4,2,Randi Peresich Mueller,,399
+Harrison,White Plains,U.S. Senate,,Scott Colom,DEM,305
+Harrison,White Plains,U.S. Senate,,Cindy Hyde-Smith,REP,553
+Harrison,White Plains,U.S. Senate,,Ty Pinkins,IND,26
+Harrison,White Plains,U.S. House,4,Mike Ezell,REP,584
+Harrison,White Plains,U.S. House,4,Jeffrey Hulum III,DEM,278
+Harrison,White Plains,U.S. House,4,Carl Boyanton,IND,26
+Harrison,White Plains,Court of Appeals,5,Anthony 'Tony' Lawrence,,707
+Harrison,White Plains,Chancery Court Place 1,8,Jim Persons,,703
+Harrison,White Plains,Chancery Court Place 2,8,Jennifer T. Schloegel,,710
+Harrison,White Plains,Chancery Court Place 3,8,Margaret Alfonso,,701
+Harrison,White Plains,Chancery Court Place 4,8,Haley Necaise Broom,,502
+Harrison,White Plains,Chancery Court Place 4,8,Stephen J. Maggio,,191
+Harrison,White Plains,Chancery Court Place 4,8,Frances 'Fran' Yeatts,,75
+Harrison,White Plains,Circuit Court Place 1,2,Lisa P. Dodson,,704
+Harrison,White Plains,Circuit Court Place 2,2,Chris Schmidt,,687
+Harrison,White Plains,Circuit Court Place 3,2,Larry Bourgeois,,681
+Harrison,White Plains,Circuit Court Place 4,2,Randi Peresich Mueller,,686
