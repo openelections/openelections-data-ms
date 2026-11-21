@@ -57,7 +57,9 @@ COUNTIES = ["Union", "Warren", "Jasper", "Lee", "Issaquena",
             "Coahoma", "Copiah", "Covington", "Franklin", "George",
             "Greene", "Grenada", "Holmes", "Kemper", "Lafayette",
             "Lawrence", "Leake", "Lowndes", "Montgomery", "Newton",
-            "Perry", "Smith", "Stone", "Sunflower", "Tate"]
+            "Perry", "Smith", "Stone", "Sunflower", "Tate",
+            "Calhoun", "Jefferson", "Jefferson Davis", "Wilkinson",
+            "Alcorn"]
 
 SOURCES_SUBDIR = "2026/general"
 MANIFEST_DIR = Path("2026/header-reads")
@@ -75,18 +77,22 @@ def county_pdf(sources_dir, county):
     The SoS naming is not uniform ("Union_County_2026_general.pdf" but
     "Adams_2026_general.pdf" and "Choctaw_2026_general.pdf" carry no
     "County"), so the mapping tries the two spellings and falls back to the
-    checkout's unique file whose name opens with the county word. With no
-    match at all it returns the conventional spelling -- absent, so
-    run_county's source-exists check records the county as ERROR
-    source_missing and the batch moves on instead of crashing."""
+    checkout's unique file whose name opens with the county name,
+    underscores and spaces treated alike ("Jefferson_Davis_..." resolves
+    for the two-word "Jefferson Davis"). With no match at all it returns
+    the conventional spelling -- absent, so run_county's source-exists
+    check records the county as ERROR source_missing and the batch moves
+    on instead of crashing."""
     base = Path(sources_dir) / SOURCES_SUBDIR
     for name in (f"{county}_County_2026_general.pdf",
                  f"{county}_2026_general.pdf"):
         if (base / name).exists():
             return base / name
-    matches = sorted(p for p in (base.iterdir() if base.is_dir() else [])
-                     if p.name.lower().startswith(county.lower())
-                     and p.name.lower().endswith(".pdf"))
+    wanted = county.lower()
+    matches = sorted(
+        p for p in (base.iterdir() if base.is_dir() else [])
+        if p.name.lower().replace("_", " ").startswith(wanted)
+        and p.name.lower().endswith(".pdf"))
     if len(matches) == 1:
         return matches[0]
     return base / f"{county}_County_2026_general.pdf"

@@ -1,12 +1,12 @@
 # 2026 general — text-layer conversion notes (2026-11-20, Task 9)
 
-Thirty-six counties of the 2026-11-03 Mississippi general election are converted
+Forty-one counties of the 2026-11-03 Mississippi general election are converted
 from the SoS "Official Recapitulation" county PDFs with the text-layer
 pipeline (`src/extract_2026_general_text_pdf.py`, `src/batch_extract_2026_general_text.py`)
-— four with usable text layers, thirty-two pure image scans run operator-vision
-(Issaquena the pilot, the six 3-page counties, then twenty-five Tier-1 five-page
-counties in five batches, sections below), all riding the same pipeline and
-batch runner:
+— four with usable text layers, thirty-seven pure image scans run operator-vision
+(Issaquena the pilot, the six 3-page counties, twenty-five Tier-1 five-page
+counties, Alcorn the first Tier-2 seven-page county), all riding the same
+pipeline and batch runner:
 
 | county | rows x precincts | CSV data rows | operator cells applied | how the manifest drives it |
 | --- | --- | --- | --- | --- |
@@ -46,6 +46,11 @@ batch runner:
 | Stone (scan) | 15 x 15 | 225 | 240 (11 table-A rows x 15+TOTAL, 4 Circuit 2 rows x 15+TOTAL) | whole grid operator-read; ROTATE_90; Chancery 13 == Perry; Circuit 2 has FOUR Places |
 | Sunflower (scan) | 12 x 17 | 204 | 182 (10 table-A rows x 17+TOTAL, 3 X-celled Circuit 4 rows) | whole grid operator-read; landscape-genuine; Chancery 7 P2 accepted; Circuit 4 three places |
 | Tate (scan) | 15 x 19 | 285 | 300 (11 table-A rows x 19+TOTAL, 4 table-B rows x 19+TOTAL) | whole grid operator-read; landscape-genuine; Chancery 3 == x4; NO local sections |
+| Calhoun (scan) | 19 x 10 | 190 | 209 (11 p2 rows x 10+TOTAL, 8 p3 rows x 10+TOTAL) | single-table + table B; per-page rotations differ (p2 r90 / p3 r270); full late-header p3 |
+| Jefferson (scan) | 12 x 12 | 144 | 156 (10 table-A rows x 12+TOTAL, Hampton + Harris-Irving x 12+TOTAL) | whole grid operator-read; ROTATE_90; Hampton split x3 |
+| Jefferson Davis (scan) | 14 x 17 | 238 | 252 (10 table-A rows x 17+TOTAL, 4 Circuit 14 rows x 17+TOTAL) | whole grid operator-read; landscape-genuine; Circuit 14 == Copiah/Lawrence |
+| Wilkinson (scan) | 12 x 9 | 108 | 120 (10 p2 rows x 9+TOTAL, Hampton + Drake p3) | single-table + 2-row table B; Chancery 4 == x4, Circuit 6-1 only |
+| Alcorn (scan, Tier 2) | 17 x 17 | 289 | 306 (10 table-A rows x 17+TOTAL, 7 table-B rows x 17+TOTAL) | 7-page sheet; streak-crossed East Corinth column repaired by TOTAL arithmetic; Chancery 1/Circuit 1 == Lee |
 
 Every per-county CSV regenerates byte-identical from its manifest at every
 Task 9 boundary (`cmp` verified).
@@ -541,14 +546,71 @@ whose every row's TOTAL arithmetic referees exactly. Holmes-style
 no-locals sheet: Tate's five pages print no local sections at all
 (recorded per source fidelity).
 
-The remaining 46 scan counties follow the same operator-read route (tier
-order below; the two same-named 5-page Jefferson files and the two
-3-page Tier-0 stragglers Calhoun/Wilkinson still pending, Hinds last).
+## Scan-county phase: Calhoun, Jefferson, Jefferson Davis, Wilkinson, Alcorn (the stragglers + Tier 2's first county)
+
+The "Jefferson pair" resolved: the SoS ships **Jefferson_County** and
+**Jefferson_Davis_County** files (the earlier sweep's `split("_")[0]` merged
+both into "Jefferson"); the county "Jefferson Davis" uses the 2024-general
+file's slug (`jefferson_davis`) and `county_pdf` now matches county names
+across the underscore/space boundary (unit-tested). Three more 5-page sheets
+plus the two 3-page stragglers (both single-table p2 + small table B), then
+Alcorn — the first of the 7-page Tier-2 sheets. 1009 CSV data rows, 77 more
+rows refereed against printed TOTALs (403 Tier-1 rows total), `run_gates` 0
+problems per county, the forty-one-county batch exit 0 with eight advisory
+roster records.
+
+**The Circuit 3 pairing is now three-versus-two.** Calhoun's p3 prints the
+FULL Benton late-header shape (Shackelford/Watts atop the page above the
+Chancery 18 Place 2 box; Whitwell/Tollison above Place 1/Place 2's boxes;
+the Place 3 box between Jubera and Smith) — pairing Circuit 3 as
+P1=Whitwell, P2=Tollison, P3={Adams/Byers/Jubera/Smith}, exactly Benton's
+and Lafayette's print. The seat-blind family roster is identical across all
+five Circuit 3 counties, so the roster_subset record is unchanged. Also
+Calhoun's own rotation QUIRK: p2 reads upright after ROTATE_90 but p3 after
+ROTATE_270 (the two sheets scanned in opposite rotations), recorded in the
+manifest.
+
+**The Hampton split is now four counties.** Wilkinson's p3 opens with
+Ashunda Hampton's continuation row exactly as Adams/Franklin/Jefferson
+print it (Halford's row completing table A), and it also opens the
+inverse-omission case: Wilkinson prints Circuit 6-1 only (Carmen Brooks
+Drake; no Place 2 section because no Wilkinson precinct is in Blackwell's
+sub-district — the roster gate records the subset against Adams' printed
+union). The Chancery 4 roster (Davis P1, Wayne Smith P2, Halford/Hampton
+P3) now reads identical across FOUR counties; Circuit 14 gains Jefferson
+Davis (Taylor P1 / Brendon Adams-Matt Kitchens-Albert Turnage P2, identical
+to Copiah and Lawrence); Chancery 2 reaches five counties (Roy Noble Lee
+Jr. / Gerald M. Martin / David Shoemake); CoA 4 reaches seven counties.
+
+**Streak-damaged cells repaired by TOTAL arithmetic (Alcorn).** Alcorn's
+scan streak crosses the East Corinth column of p2, eating each cell's final
+glyph (Kelly's row — which verifies cleanly — prints "63[0]" in the 800 dpi
+strip). Seven rows failed the first-pass TOTAL check; the failing cell in
+each was the streaked East Corinth cell, and its true value is the one that
+makes the row's cross-page cell sum equal its printed TOTAL: Colom 308,
+Hyde-Smith 600, Baucom 8, Johnson 280, D. Barnes 707, Brad Tennison 710
+(plus Baucom's streak-crossed Wenasoga cell 8 on p3). The pipeline gate
+subsequently caught ONE bad repair — Pinkins' row, whose first-pass East
+value of 15 was in fact correct (a first-pass addition slip, not a bad
+glyph — the gate refused to write until it was reverted), demonstrating the
+repair-then-arithmetic workflow self-corrects end to end. All 17 rows now
+sum exactly.
+
+**Alcorn's judicial families complete the northern shared rosters:**
+Chancery 1 (Brad Tennison P1 / Michael Malski P2 / Jacqueline Mask P3 /
+Stephen T. Bailey P4) and Circuit 1 (John R. White P1 / Josh Wise P2 /
+Kelly L. Mims P3 / Michael P. 'Chip' Mills Jr. P4) read identical against
+Lee (and Chancery 1 against Union), CoA 1 reaches ten counties. The 7-page
+sheet's extra pair of pages (p6/p7) carries only the local School Board 5
+row's two column groups — declared local_only pages like Kemper's tail.
+
+The remaining 41 scan counties follow the same operator-read route (tier
+order below; seven-page Tier-2 counties next, Hinds last).
 
 ## Next phase
 
-The remaining 46 county PDFs (82 in
-`~/code/openelections-sources-ms/2026/general/` minus the thirty-six converted so
+The remaining 41 county PDFs (82 in
+`~/code/openelections-sources-ms/2026/general/` minus the forty-one converted so
 far) are scanned images, taken in the assessment's tier order. The Issaquena
 pilot shows the operator-read route works end to end; whether PaddleOCR-VL
 via the AI Studio cloud endpoint (whole-PDF async job, per-page markdown,

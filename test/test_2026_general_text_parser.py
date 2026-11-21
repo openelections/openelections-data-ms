@@ -3637,7 +3637,9 @@ class BatchRunnerTests(unittest.TestCase):
                           "Lafayette",
                           "Lawrence", "Leake", "Lowndes", "Montgomery",
                           "Newton",
-                          "Perry", "Smith", "Stone", "Sunflower", "Tate"])
+                          "Perry", "Smith", "Stone", "Sunflower", "Tate",
+                          "Calhoun", "Jefferson", "Jefferson Davis",
+                          "Wilkinson", "Alcorn"])
         job = batch.county_job("Union", "sources/here")
         self.assertEqual(batch.manifest_path("Union"),
                          Path("2026/header-reads/20261103__ms__general__"
@@ -3653,9 +3655,10 @@ class BatchRunnerTests(unittest.TestCase):
         self.assertEqual(job["pdf"], batch.county_pdf("sources/here", "Union"))
         # every county's mapping points at the committed lowercase names
         for county in batch.COUNTIES:
-            self.assertIn(county.lower(),
+            self.assertIn(batch.county_slug(county),
                           batch.manifest_path(county).name)
-            self.assertIn(county.lower(), batch.precinct_csv_path(county).name)
+            self.assertIn(batch.county_slug(county),
+                          batch.precinct_csv_path(county).name)
 
     def test_county_pdf_resolves_nonuniform_sos_names(self):
         # the SoS naming is not uniform: some counties carry no "County"
@@ -3680,6 +3683,11 @@ class BatchRunnerTests(unittest.TestCase):
         (base / "FooBar_2026_general.pdf").touch()
         self.assertEqual(batch.county_pdf(tmp.name, "FooBar").name,
                          "FooBar_2026_general.pdf")
+        # the two-word county resolves across the underscore/space boundary
+        (base / "Jefferson_Davis_County_2026_general.pdf").touch()
+        self.assertEqual(
+            batch.county_pdf(tmp.name, "Jefferson Davis").name,
+            "Jefferson_Davis_County_2026_general.pdf")
         # a county with no file at all keeps the old source_missing shape
         no_match = batch.county_pdf(tmp.name, "Yoknapatawpha")
         self.assertEqual(no_match.name,
