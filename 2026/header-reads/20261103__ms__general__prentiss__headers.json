@@ -1,0 +1,543 @@
+{
+  "county": "Prentiss",
+  "source": "Prentiss_County_2026_general.pdf",
+  "election_date": "2026-11-03",
+  "read_by": "operator-vision",
+  "date": "2026-11-21",
+  "procedure": "Pages rendered with pdfplumber page.to_image(resolution=220-1200); the seven pages are PORTRAIT sheets whose rotated landscape tables read upright after PIL ROTATE_90 ('Federal General Election' banner -- cache/2026-scan-assessment/tier1/prentiss/). RE-VERIFICATION NOTE: three first-pass TOTAL reads were wrong and the 800-1200 dpi zooms are the print's authority -- Colom's p3 printed TOTAL reads 1888 (first-pass 1838), Hyde-Smith's 5381 (5331), and Pinkins' row reads 17/12 with printed TOTAL 177; with the corrected totals and the as-read cells every row's cross-page cell sum equals its printed TOTAL exactly (17/17 -- Pinkins 148+29 = 177). No cells were repaired in this county.",
+  "structure_note": "Same 7-page shape: p1 the certification/signature page; p2+p3 = table A's two column groups over the county's 13 precincts (Ag-Ctr/Thrasher/'Tuscumbia-New Candler', then 'West Booneville'/Wheeler + TOTAL), ending at 'Chancery Court 1-Chancery District 1 Place 2''s header; p4+p5 = table B over the same column split (the Place 2 carry row starting p4, then Chancery 1 Place 3-4, Circuit 1 Places 1-4, and local rows); p6+p7 = the remaining local rows' two column groups (declared local_only). Races: U.S. Senate; US House Of Rep 01-1st Congressional District (Johnny Baucom, Cliff Johnson, Trent Kelly -- the House 1 roster, names identical); Court Of Appeals 01-District 1 Position 1 (Derek Dewayne Hopson Jr., John Weddle) and Position 2 (Donna M. Barnes) -- the same CoA 1 roster, names identical; Chancery Court 1-Chancery District 1 Place 1 (Brad Tennison), Place 2 (Michael Malski), Place 3 (Jacqueline Mask), Place 4 (Stephen T. Bailey) -- the same Chancery 1 roster five counties print, names identical; Circuit Court 1-Circuit District 01 Place 1 (John R. White), Place 2 (Josh Wise), Place 3 (Kelly L. Mims), Place 4 (Michael P. 'Chip' Mills Jr.) -- the same Circuit 1 roster, names identical. Printed totals: Colom 1888, Hyde-Smith 5381, Pinkins 177, Baucom 87, Johnson 1676, Kelly 5673, Hopson 1806, Weddle 4922, D. Barnes 6173, Brad Tennison 6459, Malski 6143, Mask 6173, Bailey 6053, White 6183, Wise 6042, Mims 6102, Mills 6071.",
+  "operator_rows_note": "All 17 in-scope rows supplied by operator_rows in ballot order; table-A rows carry p2 + p3 cells + the p3 printed TOTAL; the Place 2-4 and Circuit rows carry p4 + p5 cells + the p5 printed TOTAL. No X cells print in any in-scope row.",
+  "truncation_note": "No truncations; the thirteen precinct headers print complete ('Ag-Ctr/Thrasher', Baldwyn, Blackland, Cairo, 'Cross Roads', East Booneville, 'Hills Chapel- New Hope', Marietta, 'New Site', 'North Booneville/Sunflower', 'Tuscumbia-New Candler', 'West Booneville', Wheeler -- the sheet's own hyphenated forms kept verbatim).",
+  "local_note": "p6/p7 carry the remaining local rows ('Constable District 3-Constable District 3': Taylor Walker; 'Election Commissioner 03-Election Commissioner 03': Cadley B. Burns) with their tails -- local, out of scope, declared local_only. p5 also ends with the local 'School Board 5-School Board' rows (Mallory King, Paula H. Stennett), contributing no parse rows on operator-supply pages. Chancery 1's four Places and Circuit 1's four Places print in-county, so the families write Place-qualified labels (matching the other Chancery 1 and Circuit 1 counties).",
+  "total_label": "TOTAL",
+  "local_only_pages": [
+    "1",
+    "6",
+    "7"
+  ],
+  "operator_supply_pages": [
+    "2",
+    "3",
+    "4",
+    "5"
+  ],
+  "pages": {
+    "1": [],
+    "2": [
+      "Ag-Ctr/Thrasher",
+      "Baldwyn",
+      "Blackland",
+      "Cairo",
+      "Cross Roads",
+      "East Booneville",
+      "Hills Chapel- New Hope",
+      "Marietta",
+      "New Site",
+      "North Booneville/Sunflower",
+      "Tuscumbia-New Candler"
+    ],
+    "3": [
+      "West Booneville",
+      "Wheeler",
+      "TOTAL"
+    ],
+    "4": [
+      "Ag-Ctr/Thrasher",
+      "Baldwyn",
+      "Blackland",
+      "Cairo",
+      "Cross Roads",
+      "East Booneville",
+      "Hills Chapel- New Hope",
+      "Marietta",
+      "New Site",
+      "North Booneville/Sunflower",
+      "Tuscumbia-New Candler"
+    ],
+    "5": [
+      "West Booneville",
+      "Wheeler",
+      "TOTAL"
+    ],
+    "6": [],
+    "7": []
+  },
+  "operator_rows": [
+    {
+      "key": "colom",
+      "office": "U.S. Senate",
+      "district": "",
+      "seat": null,
+      "candidate": "Scott Colom",
+      "party": "DEM",
+      "cells": {
+        "2": {
+          "0": 229,
+          "1": 447,
+          "2": 42,
+          "3": 40,
+          "4": 50,
+          "5": 169,
+          "6": 70,
+          "7": 57,
+          "8": 38,
+          "9": 324,
+          "10": 56
+        },
+        "3": {
+          "0": 238,
+          "1": 128,
+          "2": 1888
+        }
+      }
+    },
+    {
+      "key": "hyde",
+      "office": "U.S. Senate",
+      "district": "",
+      "seat": null,
+      "candidate": "Cindy Hyde-Smith",
+      "party": "REP",
+      "cells": {
+        "2": {
+          "0": 785,
+          "1": 483,
+          "2": 237,
+          "3": 226,
+          "4": 310,
+          "5": 376,
+          "6": 549,
+          "7": 351,
+          "8": 326,
+          "9": 202,
+          "10": 302
+        },
+        "3": {
+          "0": 859,
+          "1": 375,
+          "2": 5381
+        }
+      }
+    },
+    {
+      "key": "pinkins",
+      "office": "U.S. Senate",
+      "district": "",
+      "seat": null,
+      "candidate": "Ty Pinkins",
+      "party": "IND",
+      "cells": {
+        "2": {
+          "0": 20,
+          "1": 14,
+          "2": 6,
+          "3": 9,
+          "4": 10,
+          "5": 15,
+          "6": 25,
+          "7": 14,
+          "8": 11,
+          "9": 13,
+          "10": 11
+        },
+        "3": {
+          "0": 17,
+          "1": 12,
+          "2": 177
+        }
+      }
+    },
+    {
+      "key": "baucom",
+      "office": "U.S. House",
+      "district": "1",
+      "seat": null,
+      "candidate": "Johnny Baucom",
+      "party": "LIB",
+      "cells": {
+        "2": {
+          "0": 8,
+          "1": 11,
+          "2": 5,
+          "3": 5,
+          "4": 3,
+          "5": 6,
+          "6": 16,
+          "7": 5,
+          "8": 2,
+          "9": 6,
+          "10": 4
+        },
+        "3": {
+          "0": 13,
+          "1": 3,
+          "2": 87
+        }
+      }
+    },
+    {
+      "key": "johnson",
+      "office": "U.S. House",
+      "district": "1",
+      "seat": null,
+      "candidate": "Cliff Johnson",
+      "party": "DEM",
+      "cells": {
+        "2": {
+          "0": 209,
+          "1": 399,
+          "2": 32,
+          "3": 35,
+          "4": 46,
+          "5": 155,
+          "6": 56,
+          "7": 48,
+          "8": 27,
+          "9": 303,
+          "10": 50
+        },
+        "3": {
+          "0": 203,
+          "1": 113,
+          "2": 1676
+        }
+      }
+    },
+    {
+      "key": "kelly",
+      "office": "U.S. House",
+      "district": "1",
+      "seat": null,
+      "candidate": "Trent Kelly",
+      "party": "REP",
+      "cells": {
+        "2": {
+          "0": 817,
+          "1": 521,
+          "2": 249,
+          "3": 234,
+          "4": 321,
+          "5": 400,
+          "6": 573,
+          "7": 371,
+          "8": 345,
+          "9": 228,
+          "10": 315
+        },
+        "3": {
+          "0": 899,
+          "1": 400,
+          "2": 5673
+        }
+      }
+    },
+    {
+      "key": "hopson",
+      "office": "Court of Appeals",
+      "district": "1",
+      "seat": 1,
+      "candidate": "Derek Dewayne Hopson Jr.",
+      "party": "",
+      "cells": {
+        "2": {
+          "0": 204,
+          "1": 300,
+          "2": 47,
+          "3": 64,
+          "4": 85,
+          "5": 145,
+          "6": 139,
+          "7": 75,
+          "8": 71,
+          "9": 207,
+          "10": 97
+        },
+        "3": {
+          "0": 239,
+          "1": 133,
+          "2": 1806
+        }
+      }
+    },
+    {
+      "key": "weddle",
+      "office": "Court of Appeals",
+      "district": "1",
+      "seat": 1,
+      "candidate": "John Weddle",
+      "party": "",
+      "cells": {
+        "2": {
+          "0": 747,
+          "1": 508,
+          "2": 202,
+          "3": 176,
+          "4": 255,
+          "5": 361,
+          "6": 439,
+          "7": 307,
+          "8": 275,
+          "9": 280,
+          "10": 238
+        },
+        "3": {
+          "0": 789,
+          "1": 345,
+          "2": 4922
+        }
+      }
+    },
+    {
+      "key": "dbarnes",
+      "office": "Court of Appeals",
+      "district": "1",
+      "seat": 2,
+      "candidate": "Donna M. Barnes",
+      "party": "",
+      "cells": {
+        "2": {
+          "0": 901,
+          "1": 727,
+          "2": 209,
+          "3": 218,
+          "4": 311,
+          "5": 476,
+          "6": 535,
+          "7": 348,
+          "8": 319,
+          "9": 424,
+          "10": 313
+        },
+        "3": {
+          "0": 959,
+          "1": 433,
+          "2": 6173
+        }
+      }
+    },
+    {
+      "key": "tennison",
+      "office": "Chancery Court",
+      "district": "1",
+      "seat": 1,
+      "candidate": "Brad Tennison",
+      "party": "",
+      "cells": {
+        "2": {
+          "0": 948,
+          "1": 730,
+          "2": 224,
+          "3": 238,
+          "4": 322,
+          "5": 500,
+          "6": 560,
+          "7": 368,
+          "8": 324,
+          "9": 453,
+          "10": 337
+        },
+        "3": {
+          "0": 1007,
+          "1": 448,
+          "2": 6459
+        }
+      }
+    },
+    {
+      "key": "malski",
+      "office": "Chancery Court",
+      "district": "1",
+      "seat": 2,
+      "candidate": "Michael Malski",
+      "party": "",
+      "cells": {
+        "4": {
+          "0": 903,
+          "1": 715,
+          "2": 211,
+          "3": 218,
+          "4": 309,
+          "5": 476,
+          "6": 528,
+          "7": 350,
+          "8": 313,
+          "9": 425,
+          "10": 313
+        },
+        "5": {
+          "0": 953,
+          "1": 429,
+          "2": 6143
+        }
+      }
+    },
+    {
+      "key": "mask",
+      "office": "Chancery Court",
+      "district": "1",
+      "seat": 3,
+      "candidate": "Jacqueline Mask",
+      "party": "",
+      "cells": {
+        "4": {
+          "0": 903,
+          "1": 730,
+          "2": 209,
+          "3": 217,
+          "4": 314,
+          "5": 473,
+          "6": 532,
+          "7": 349,
+          "8": 316,
+          "9": 421,
+          "10": 313
+        },
+        "5": {
+          "0": 964,
+          "1": 432,
+          "2": 6173
+        }
+      }
+    },
+    {
+      "key": "bailey",
+      "office": "Chancery Court",
+      "district": "1",
+      "seat": 4,
+      "candidate": "Stephen T. Bailey",
+      "party": "",
+      "cells": {
+        "4": {
+          "0": 899,
+          "1": 696,
+          "2": 200,
+          "3": 220,
+          "4": 298,
+          "5": 466,
+          "6": 513,
+          "7": 348,
+          "8": 314,
+          "9": 408,
+          "10": 315
+        },
+        "5": {
+          "0": 945,
+          "1": 431,
+          "2": 6053
+        }
+      }
+    },
+    {
+      "key": "white",
+      "office": "Circuit Court",
+      "district": "1",
+      "seat": 1,
+      "candidate": "John R. White",
+      "party": "",
+      "cells": {
+        "4": {
+          "0": 928,
+          "1": 702,
+          "2": 206,
+          "3": 232,
+          "4": 304,
+          "5": 471,
+          "6": 529,
+          "7": 355,
+          "8": 317,
+          "9": 424,
+          "10": 321
+        },
+        "5": {
+          "0": 960,
+          "1": 434,
+          "2": 6183
+        }
+      }
+    },
+    {
+      "key": "wise",
+      "office": "Circuit Court",
+      "district": "1",
+      "seat": 2,
+      "candidate": "Josh Wise",
+      "party": "",
+      "cells": {
+        "4": {
+          "0": 906,
+          "1": 687,
+          "2": 201,
+          "3": 219,
+          "4": 299,
+          "5": 465,
+          "6": 516,
+          "7": 350,
+          "8": 311,
+          "9": 403,
+          "10": 311
+        },
+        "5": {
+          "0": 944,
+          "1": 430,
+          "2": 6042
+        }
+      }
+    },
+    {
+      "key": "mims",
+      "office": "Circuit Court",
+      "district": "1",
+      "seat": 3,
+      "candidate": "Kelly L. Mims",
+      "party": "",
+      "cells": {
+        "4": {
+          "0": 911,
+          "1": 706,
+          "2": 201,
+          "3": 221,
+          "4": 297,
+          "5": 472,
+          "6": 522,
+          "7": 357,
+          "8": 313,
+          "9": 412,
+          "10": 318
+        },
+        "5": {
+          "0": 945,
+          "1": 427,
+          "2": 6102
+        }
+      }
+    },
+    {
+      "key": "mills",
+      "office": "Circuit Court",
+      "district": "1",
+      "seat": 4,
+      "candidate": "Michael P. 'Chip' Mills Jr.",
+      "party": "",
+      "cells": {
+        "4": {
+          "0": 904,
+          "1": 696,
+          "2": 202,
+          "3": 218,
+          "4": 297,
+          "5": 466,
+          "6": 521,
+          "7": 353,
+          "8": 315,
+          "9": 413,
+          "10": 311
+        },
+        "5": {
+          "0": 943,
+          "1": 432,
+          "2": 6071
+        }
+      }
+    }
+  ]
+}
