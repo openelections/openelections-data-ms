@@ -213,6 +213,9 @@ class LabelTests(unittest.TestCase):
              ("Court of Appeals", "1", 2)),
             ("Chancery Court 1-Chancery District 1 Place 1",
              ("Chancery Court", "1", 1)),
+            ("State House Of Rep 77-District 77", ("State House", "77", None)),
+            ("State House Of Rep 70-District 70", ("State House", "70", None)),
+            ("State Senate 39-District 39", ("State Senate", "39", None)),
         ]
         for label, expected in cases:
             self.assertEqual(ex.parse_office(label), expected, label)
@@ -3642,7 +3645,8 @@ class BatchRunnerTests(unittest.TestCase):
                           "Wilkinson", "Alcorn", "Amite", "Clarke",
                           "Lamar", "Leflore",
                           "Lincoln", "Marion", "Neshoba",
-                          "Pontotoc", "Prentiss"])
+                          "Pontotoc", "Prentiss", "Scott",
+                          "Simpson"])
         job = batch.county_job("Union", "sources/here")
         self.assertEqual(batch.manifest_path("Union"),
                          Path("2026/header-reads/20261103__ms__general__"

@@ -1,0 +1,353 @@
+county,precinct,office,district,candidate,party,votes
+Simpson,Bowie,U.S. Senate,,Scott Colom,DEM,74
+Simpson,Bowie,U.S. Senate,,Cindy Hyde-Smith,REP,131
+Simpson,Bowie,U.S. Senate,,Ty Pinkins,IND,10
+Simpson,Bowie,U.S. House,3,Michael A. Chiaradio,DEM,70
+Simpson,Bowie,U.S. House,3,Michael Guest,REP,138
+Simpson,Bowie,U.S. House,3,Erik Klehle,LIB,4
+Simpson,Bowie,State House,77,Christopher 'Chris' Dunn,IND,0
+Simpson,Bowie,State House,77,Dianne McNair Gaddis,IND,0
+Simpson,Bowie,State House,77,Melissa C. Sullivan,IND,0
+Simpson,Bowie,State House,77,Craig T. Williams,IND,0
+Simpson,Bowie,Court of Appeals,4,David McCarty,,167
+Simpson,Bowie,Chancery Court Place 1,2,Roy Noble Lee Jr.,,167
+Simpson,Bowie,Chancery Court Place 2,2,Gerald M. Martin,,168
+Simpson,Bowie,Chancery Court Place 3,2,David Shoemake,,165
+Simpson,Bowie,Circuit Court Place 1,13,Matthew G. Sullivan,,166
+Simpson,Bowie,Circuit Court Place 2,13,Stanley Sorey,,166
+Simpson,Braxton,U.S. Senate,,Scott Colom,DEM,34
+Simpson,Braxton,U.S. Senate,,Cindy Hyde-Smith,REP,337
+Simpson,Braxton,U.S. Senate,,Ty Pinkins,IND,12
+Simpson,Braxton,U.S. House,3,Michael A. Chiaradio,DEM,34
+Simpson,Braxton,U.S. House,3,Michael Guest,REP,348
+Simpson,Braxton,U.S. House,3,Erik Klehle,LIB,2
+Simpson,Braxton,State House,77,Christopher 'Chris' Dunn,IND,147
+Simpson,Braxton,State House,77,Dianne McNair Gaddis,IND,23
+Simpson,Braxton,State House,77,Melissa C. Sullivan,IND,190
+Simpson,Braxton,State House,77,Craig T. Williams,IND,13
+Simpson,Braxton,Court of Appeals,4,David McCarty,,340
+Simpson,Braxton,Chancery Court Place 1,2,Roy Noble Lee Jr.,,338
+Simpson,Braxton,Chancery Court Place 2,2,Gerald M. Martin,,337
+Simpson,Braxton,Chancery Court Place 3,2,David Shoemake,,335
+Simpson,Braxton,Circuit Court Place 1,13,Matthew G. Sullivan,,339
+Simpson,Braxton,Circuit Court Place 2,13,Stanley Sorey,,332
+Simpson,Bridgeport,U.S. Senate,,Scott Colom,DEM,181
+Simpson,Bridgeport,U.S. Senate,,Cindy Hyde-Smith,REP,76
+Simpson,Bridgeport,U.S. Senate,,Ty Pinkins,IND,3
+Simpson,Bridgeport,U.S. House,3,Michael A. Chiaradio,DEM,174
+Simpson,Bridgeport,U.S. House,3,Michael Guest,REP,85
+Simpson,Bridgeport,U.S. House,3,Erik Klehle,LIB,2
+Simpson,Bridgeport,State House,77,Christopher 'Chris' Dunn,IND,0
+Simpson,Bridgeport,State House,77,Dianne McNair Gaddis,IND,0
+Simpson,Bridgeport,State House,77,Melissa C. Sullivan,IND,0
+Simpson,Bridgeport,State House,77,Craig T. Williams,IND,0
+Simpson,Bridgeport,Court of Appeals,4,David McCarty,,196
+Simpson,Bridgeport,Chancery Court Place 1,2,Roy Noble Lee Jr.,,200
+Simpson,Bridgeport,Chancery Court Place 2,2,Gerald M. Martin,,198
+Simpson,Bridgeport,Chancery Court Place 3,2,David Shoemake,,197
+Simpson,Bridgeport,Circuit Court Place 1,13,Matthew G. Sullivan,,198
+Simpson,Bridgeport,Circuit Court Place 2,13,Stanley Sorey,,198
+Simpson,D'Lo,U.S. Senate,,Scott Colom,DEM,30
+Simpson,D'Lo,U.S. Senate,,Cindy Hyde-Smith,REP,175
+Simpson,D'Lo,U.S. Senate,,Ty Pinkins,IND,2
+Simpson,D'Lo,U.S. House,3,Michael A. Chiaradio,DEM,23
+Simpson,D'Lo,U.S. House,3,Michael Guest,REP,184
+Simpson,D'Lo,U.S. House,3,Erik Klehle,LIB,0
+Simpson,D'Lo,State House,77,Christopher 'Chris' Dunn,IND,61
+Simpson,D'Lo,State House,77,Dianne McNair Gaddis,IND,10
+Simpson,D'Lo,State House,77,Melissa C. Sullivan,IND,116
+Simpson,D'Lo,State House,77,Craig T. Williams,IND,15
+Simpson,D'Lo,Court of Appeals,4,David McCarty,,179
+Simpson,D'Lo,Chancery Court Place 1,2,Roy Noble Lee Jr.,,181
+Simpson,D'Lo,Chancery Court Place 2,2,Gerald M. Martin,,181
+Simpson,D'Lo,Chancery Court Place 3,2,David Shoemake,,181
+Simpson,D'Lo,Circuit Court Place 1,13,Matthew G. Sullivan,,178
+Simpson,D'Lo,Circuit Court Place 2,13,Stanley Sorey,,178
+Simpson,Dry Creek,U.S. Senate,,Scott Colom,DEM,58
+Simpson,Dry Creek,U.S. Senate,,Cindy Hyde-Smith,REP,363
+Simpson,Dry Creek,U.S. Senate,,Ty Pinkins,IND,7
+Simpson,Dry Creek,U.S. House,3,Michael A. Chiaradio,DEM,49
+Simpson,Dry Creek,U.S. House,3,Michael Guest,REP,378
+Simpson,Dry Creek,U.S. House,3,Erik Klehle,LIB,2
+Simpson,Dry Creek,State House,77,Christopher 'Chris' Dunn,IND,219
+Simpson,Dry Creek,State House,77,Dianne McNair Gaddis,IND,23
+Simpson,Dry Creek,State House,77,Melissa C. Sullivan,IND,175
+Simpson,Dry Creek,State House,77,Craig T. Williams,IND,7
+Simpson,Dry Creek,Court of Appeals,4,David McCarty,,390
+Simpson,Dry Creek,Chancery Court Place 1,2,Roy Noble Lee Jr.,,384
+Simpson,Dry Creek,Chancery Court Place 2,2,Gerald M. Martin,,386
+Simpson,Dry Creek,Chancery Court Place 3,2,David Shoemake,,385
+Simpson,Dry Creek,Circuit Court Place 1,13,Matthew G. Sullivan,,390
+Simpson,Dry Creek,Circuit Court Place 2,13,Stanley Sorey,,381
+Simpson,Fork Church,U.S. Senate,,Scott Colom,DEM,184
+Simpson,Fork Church,U.S. Senate,,Cindy Hyde-Smith,REP,71
+Simpson,Fork Church,U.S. Senate,,Ty Pinkins,IND,3
+Simpson,Fork Church,U.S. House,3,Michael A. Chiaradio,DEM,174
+Simpson,Fork Church,U.S. House,3,Michael Guest,REP,83
+Simpson,Fork Church,U.S. House,3,Erik Klehle,LIB,1
+Simpson,Fork Church,State House,77,Christopher 'Chris' Dunn,IND,0
+Simpson,Fork Church,State House,77,Dianne McNair Gaddis,IND,0
+Simpson,Fork Church,State House,77,Melissa C. Sullivan,IND,0
+Simpson,Fork Church,State House,77,Craig T. Williams,IND,0
+Simpson,Fork Church,Court of Appeals,4,David McCarty,,196
+Simpson,Fork Church,Chancery Court Place 1,2,Roy Noble Lee Jr.,,196
+Simpson,Fork Church,Chancery Court Place 2,2,Gerald M. Martin,,196
+Simpson,Fork Church,Chancery Court Place 3,2,David Shoemake,,197
+Simpson,Fork Church,Circuit Court Place 1,13,Matthew G. Sullivan,,200
+Simpson,Fork Church,Circuit Court Place 2,13,Stanley Sorey,,193
+Simpson,Harrisville,U.S. Senate,,Scott Colom,DEM,78
+Simpson,Harrisville,U.S. Senate,,Cindy Hyde-Smith,REP,356
+Simpson,Harrisville,U.S. Senate,,Ty Pinkins,IND,11
+Simpson,Harrisville,U.S. House,3,Michael A. Chiaradio,DEM,60
+Simpson,Harrisville,U.S. House,3,Michael Guest,REP,377
+Simpson,Harrisville,U.S. House,3,Erik Klehle,LIB,3
+Simpson,Harrisville,State House,77,Christopher 'Chris' Dunn,IND,133
+Simpson,Harrisville,State House,77,Dianne McNair Gaddis,IND,29
+Simpson,Harrisville,State House,77,Melissa C. Sullivan,IND,224
+Simpson,Harrisville,State House,77,Craig T. Williams,IND,31
+Simpson,Harrisville,Court of Appeals,4,David McCarty,,381
+Simpson,Harrisville,Chancery Court Place 1,2,Roy Noble Lee Jr.,,377
+Simpson,Harrisville,Chancery Court Place 2,2,Gerald M. Martin,,376
+Simpson,Harrisville,Chancery Court Place 3,2,David Shoemake,,379
+Simpson,Harrisville,Circuit Court Place 1,13,Matthew G. Sullivan,,372
+Simpson,Harrisville,Circuit Court Place 2,13,Stanley Sorey,,367
+Simpson,Jupiter,U.S. Senate,,Scott Colom,DEM,316
+Simpson,Jupiter,U.S. Senate,,Cindy Hyde-Smith,REP,156
+Simpson,Jupiter,U.S. Senate,,Ty Pinkins,IND,3
+Simpson,Jupiter,U.S. House,3,Michael A. Chiaradio,DEM,283
+Simpson,Jupiter,U.S. House,3,Michael Guest,REP,181
+Simpson,Jupiter,U.S. House,3,Erik Klehle,LIB,6
+Simpson,Jupiter,State House,77,Christopher 'Chris' Dunn,IND,80
+Simpson,Jupiter,State House,77,Dianne McNair Gaddis,IND,163
+Simpson,Jupiter,State House,77,Melissa C. Sullivan,IND,165
+Simpson,Jupiter,State House,77,Craig T. Williams,IND,30
+Simpson,Jupiter,Court of Appeals,4,David McCarty,,347
+Simpson,Jupiter,Chancery Court Place 1,2,Roy Noble Lee Jr.,,341
+Simpson,Jupiter,Chancery Court Place 2,2,Gerald M. Martin,,340
+Simpson,Jupiter,Chancery Court Place 3,2,David Shoemake,,342
+Simpson,Jupiter,Circuit Court Place 1,13,Matthew G. Sullivan,,325
+Simpson,Jupiter,Circuit Court Place 2,13,Stanley Sorey,,322
+Simpson,Magee 1,U.S. Senate,,Scott Colom,DEM,420
+Simpson,Magee 1,U.S. Senate,,Cindy Hyde-Smith,REP,83
+Simpson,Magee 1,U.S. Senate,,Ty Pinkins,IND,3
+Simpson,Magee 1,U.S. House,3,Michael A. Chiaradio,DEM,399
+Simpson,Magee 1,U.S. House,3,Michael Guest,REP,104
+Simpson,Magee 1,U.S. House,3,Erik Klehle,LIB,1
+Simpson,Magee 1,State House,77,Christopher 'Chris' Dunn,IND,72
+Simpson,Magee 1,State House,77,Dianne McNair Gaddis,IND,122
+Simpson,Magee 1,State House,77,Melissa C. Sullivan,IND,44
+Simpson,Magee 1,State House,77,Craig T. Williams,IND,5
+Simpson,Magee 1,Court of Appeals,4,David McCarty,,357
+Simpson,Magee 1,Chancery Court Place 1,2,Roy Noble Lee Jr.,,362
+Simpson,Magee 1,Chancery Court Place 2,2,Gerald M. Martin,,356
+Simpson,Magee 1,Chancery Court Place 3,2,David Shoemake,,367
+Simpson,Magee 1,Circuit Court Place 1,13,Matthew G. Sullivan,,364
+Simpson,Magee 1,Circuit Court Place 2,13,Stanley Sorey,,352
+Simpson,Magee 2,U.S. Senate,,Scott Colom,DEM,200
+Simpson,Magee 2,U.S. Senate,,Cindy Hyde-Smith,REP,489
+Simpson,Magee 2,U.S. Senate,,Ty Pinkins,IND,24
+Simpson,Magee 2,U.S. House,3,Michael A. Chiaradio,DEM,192
+Simpson,Magee 2,U.S. House,3,Michael Guest,REP,515
+Simpson,Magee 2,U.S. House,3,Erik Klehle,LIB,9
+Simpson,Magee 2,State House,77,Christopher 'Chris' Dunn,IND,199
+Simpson,Magee 2,State House,77,Dianne McNair Gaddis,IND,91
+Simpson,Magee 2,State House,77,Melissa C. Sullivan,IND,126
+Simpson,Magee 2,State House,77,Craig T. Williams,IND,6
+Simpson,Magee 2,Court of Appeals,4,David McCarty,,621
+Simpson,Magee 2,Chancery Court Place 1,2,Roy Noble Lee Jr.,,623
+Simpson,Magee 2,Chancery Court Place 2,2,Gerald M. Martin,,620
+Simpson,Magee 2,Chancery Court Place 3,2,David Shoemake,,628
+Simpson,Magee 2,Circuit Court Place 1,13,Matthew G. Sullivan,,593
+Simpson,Magee 2,Circuit Court Place 2,13,Stanley Sorey,,576
+Simpson,Magee 4,U.S. Senate,,Scott Colom,DEM,253
+Simpson,Magee 4,U.S. Senate,,Cindy Hyde-Smith,REP,717
+Simpson,Magee 4,U.S. Senate,,Ty Pinkins,IND,18
+Simpson,Magee 4,U.S. House,3,Michael A. Chiaradio,DEM,218
+Simpson,Magee 4,U.S. House,3,Michael Guest,REP,756
+Simpson,Magee 4,U.S. House,3,Erik Klehle,LIB,10
+Simpson,Magee 4,State House,77,Christopher 'Chris' Dunn,IND,454
+Simpson,Magee 4,State House,77,Dianne McNair Gaddis,IND,123
+Simpson,Magee 4,State House,77,Melissa C. Sullivan,IND,377
+Simpson,Magee 4,State House,77,Craig T. Williams,IND,21
+Simpson,Magee 4,Court of Appeals,4,David McCarty,,867
+Simpson,Magee 4,Chancery Court Place 1,2,Roy Noble Lee Jr.,,863
+Simpson,Magee 4,Chancery Court Place 2,2,Gerald M. Martin,,871
+Simpson,Magee 4,Chancery Court Place 3,2,David Shoemake,,863
+Simpson,Magee 4,Circuit Court Place 1,13,Matthew G. Sullivan,,859
+Simpson,Magee 4,Circuit Court Place 2,13,Stanley Sorey,,854
+Simpson,Martinville,U.S. Senate,,Scott Colom,DEM,74
+Simpson,Martinville,U.S. Senate,,Cindy Hyde-Smith,REP,248
+Simpson,Martinville,U.S. Senate,,Ty Pinkins,IND,8
+Simpson,Martinville,U.S. House,3,Michael A. Chiaradio,DEM,63
+Simpson,Martinville,U.S. House,3,Michael Guest,REP,260
+Simpson,Martinville,U.S. House,3,Erik Klehle,LIB,7
+Simpson,Martinville,State House,77,Christopher 'Chris' Dunn,IND,132
+Simpson,Martinville,State House,77,Dianne McNair Gaddis,IND,55
+Simpson,Martinville,State House,77,Melissa C. Sullivan,IND,130
+Simpson,Martinville,State House,77,Craig T. Williams,IND,10
+Simpson,Martinville,Court of Appeals,4,David McCarty,,289
+Simpson,Martinville,Chancery Court Place 1,2,Roy Noble Lee Jr.,,286
+Simpson,Martinville,Chancery Court Place 2,2,Gerald M. Martin,,286
+Simpson,Martinville,Chancery Court Place 3,2,David Shoemake,,290
+Simpson,Martinville,Circuit Court Place 1,13,Matthew G. Sullivan,,292
+Simpson,Martinville,Circuit Court Place 2,13,Stanley Sorey,,289
+Simpson,Mendenhall 1,U.S. Senate,,Scott Colom,DEM,120
+Simpson,Mendenhall 1,U.S. Senate,,Cindy Hyde-Smith,REP,54
+Simpson,Mendenhall 1,U.S. Senate,,Ty Pinkins,IND,4
+Simpson,Mendenhall 1,U.S. House,3,Michael A. Chiaradio,DEM,113
+Simpson,Mendenhall 1,U.S. House,3,Michael Guest,REP,62
+Simpson,Mendenhall 1,U.S. House,3,Erik Klehle,LIB,2
+Simpson,Mendenhall 1,State House,77,Christopher 'Chris' Dunn,IND,37
+Simpson,Mendenhall 1,State House,77,Dianne McNair Gaddis,IND,72
+Simpson,Mendenhall 1,State House,77,Melissa C. Sullivan,IND,49
+Simpson,Mendenhall 1,State House,77,Craig T. Williams,IND,12
+Simpson,Mendenhall 1,Court of Appeals,4,David McCarty,,127
+Simpson,Mendenhall 1,Chancery Court Place 1,2,Roy Noble Lee Jr.,,126
+Simpson,Mendenhall 1,Chancery Court Place 2,2,Gerald M. Martin,,124
+Simpson,Mendenhall 1,Chancery Court Place 3,2,David Shoemake,,124
+Simpson,Mendenhall 1,Circuit Court Place 1,13,Matthew G. Sullivan,,127
+Simpson,Mendenhall 1,Circuit Court Place 2,13,Stanley Sorey,,125
+Simpson,Mendenhall 3,U.S. Senate,,Scott Colom,DEM,147
+Simpson,Mendenhall 3,U.S. Senate,,Cindy Hyde-Smith,REP,429
+Simpson,Mendenhall 3,U.S. Senate,,Ty Pinkins,IND,13
+Simpson,Mendenhall 3,U.S. House,3,Michael A. Chiaradio,DEM,124
+Simpson,Mendenhall 3,U.S. House,3,Michael Guest,REP,449
+Simpson,Mendenhall 3,U.S. House,3,Erik Klehle,LIB,17
+Simpson,Mendenhall 3,State House,77,Christopher 'Chris' Dunn,IND,128
+Simpson,Mendenhall 3,State House,77,Dianne McNair Gaddis,IND,72
+Simpson,Mendenhall 3,State House,77,Melissa C. Sullivan,IND,360
+Simpson,Mendenhall 3,State House,77,Craig T. Williams,IND,21
+Simpson,Mendenhall 3,Court of Appeals,4,David McCarty,,510
+Simpson,Mendenhall 3,Chancery Court Place 1,2,Roy Noble Lee Jr.,,508
+Simpson,Mendenhall 3,Chancery Court Place 2,2,Gerald M. Martin,,510
+Simpson,Mendenhall 3,Chancery Court Place 3,2,David Shoemake,,509
+Simpson,Mendenhall 3,Circuit Court Place 1,13,Matthew G. Sullivan,,515
+Simpson,Mendenhall 3,Circuit Court Place 2,13,Stanley Sorey,,510
+Simpson,Merit,U.S. Senate,,Scott Colom,DEM,57
+Simpson,Merit,U.S. Senate,,Cindy Hyde-Smith,REP,362
+Simpson,Merit,U.S. Senate,,Ty Pinkins,IND,9
+Simpson,Merit,U.S. House,3,Michael A. Chiaradio,DEM,52
+Simpson,Merit,U.S. House,3,Michael Guest,REP,374
+Simpson,Merit,U.S. House,3,Erik Klehle,LIB,3
+Simpson,Merit,State House,77,Christopher 'Chris' Dunn,IND,96
+Simpson,Merit,State House,77,Dianne McNair Gaddis,IND,22
+Simpson,Merit,State House,77,Melissa C. Sullivan,IND,289
+Simpson,Merit,State House,77,Craig T. Williams,IND,19
+Simpson,Merit,Court of Appeals,4,David McCarty,,366
+Simpson,Merit,Chancery Court Place 1,2,Roy Noble Lee Jr.,,365
+Simpson,Merit,Chancery Court Place 2,2,Gerald M. Martin,,369
+Simpson,Merit,Chancery Court Place 3,2,David Shoemake,,375
+Simpson,Merit,Circuit Court Place 1,13,Matthew G. Sullivan,,375
+Simpson,Merit,Circuit Court Place 2,13,Stanley Sorey,,364
+Simpson,New Hope,U.S. Senate,,Scott Colom,DEM,111
+Simpson,New Hope,U.S. Senate,,Cindy Hyde-Smith,REP,85
+Simpson,New Hope,U.S. Senate,,Ty Pinkins,IND,3
+Simpson,New Hope,U.S. House,3,Michael A. Chiaradio,DEM,102
+Simpson,New Hope,U.S. House,3,Michael Guest,REP,92
+Simpson,New Hope,U.S. House,3,Erik Klehle,LIB,2
+Simpson,New Hope,State House,77,Christopher 'Chris' Dunn,IND,0
+Simpson,New Hope,State House,77,Dianne McNair Gaddis,IND,0
+Simpson,New Hope,State House,77,Melissa C. Sullivan,IND,0
+Simpson,New Hope,State House,77,Craig T. Williams,IND,0
+Simpson,New Hope,Court of Appeals,4,David McCarty,,171
+Simpson,New Hope,Chancery Court Place 1,2,Roy Noble Lee Jr.,,174
+Simpson,New Hope,Chancery Court Place 2,2,Gerald M. Martin,,174
+Simpson,New Hope,Chancery Court Place 3,2,David Shoemake,,178
+Simpson,New Hope,Circuit Court Place 1,13,Matthew G. Sullivan,,174
+Simpson,New Hope,Circuit Court Place 2,13,Stanley Sorey,,173
+Simpson,Oak Grove,U.S. Senate,,Scott Colom,DEM,237
+Simpson,Oak Grove,U.S. Senate,,Cindy Hyde-Smith,REP,192
+Simpson,Oak Grove,U.S. Senate,,Ty Pinkins,IND,9
+Simpson,Oak Grove,U.S. House,3,Michael A. Chiaradio,DEM,229
+Simpson,Oak Grove,U.S. House,3,Michael Guest,REP,203
+Simpson,Oak Grove,U.S. House,3,Erik Klehle,LIB,7
+Simpson,Oak Grove,State House,77,Christopher 'Chris' Dunn,IND,24
+Simpson,Oak Grove,State House,77,Dianne McNair Gaddis,IND,20
+Simpson,Oak Grove,State House,77,Melissa C. Sullivan,IND,42
+Simpson,Oak Grove,State House,77,Craig T. Williams,IND,4
+Simpson,Oak Grove,Court of Appeals,4,David McCarty,,322
+Simpson,Oak Grove,Chancery Court Place 1,2,Roy Noble Lee Jr.,,323
+Simpson,Oak Grove,Chancery Court Place 2,2,Gerald M. Martin,,320
+Simpson,Oak Grove,Chancery Court Place 3,2,David Shoemake,,323
+Simpson,Oak Grove,Circuit Court Place 1,13,Matthew G. Sullivan,,312
+Simpson,Oak Grove,Circuit Court Place 2,13,Stanley Sorey,,298
+Simpson,Pearl,U.S. Senate,,Scott Colom,DEM,80
+Simpson,Pearl,U.S. Senate,,Cindy Hyde-Smith,REP,230
+Simpson,Pearl,U.S. Senate,,Ty Pinkins,IND,7
+Simpson,Pearl,U.S. House,3,Michael A. Chiaradio,DEM,75
+Simpson,Pearl,U.S. House,3,Michael Guest,REP,237
+Simpson,Pearl,U.S. House,3,Erik Klehle,LIB,6
+Simpson,Pearl,State House,77,Christopher 'Chris' Dunn,IND,79
+Simpson,Pearl,State House,77,Dianne McNair Gaddis,IND,14
+Simpson,Pearl,State House,77,Melissa C. Sullivan,IND,112
+Simpson,Pearl,State House,77,Craig T. Williams,IND,15
+Simpson,Pearl,Court of Appeals,4,David McCarty,,252
+Simpson,Pearl,Chancery Court Place 1,2,Roy Noble Lee Jr.,,248
+Simpson,Pearl,Chancery Court Place 2,2,Gerald M. Martin,,250
+Simpson,Pearl,Chancery Court Place 3,2,David Shoemake,,251
+Simpson,Pearl,Circuit Court Place 1,13,Matthew G. Sullivan,,250
+Simpson,Pearl,Circuit Court Place 2,13,Stanley Sorey,,250
+Simpson,Pinola,U.S. Senate,,Scott Colom,DEM,100
+Simpson,Pinola,U.S. Senate,,Cindy Hyde-Smith,REP,149
+Simpson,Pinola,U.S. Senate,,Ty Pinkins,IND,11
+Simpson,Pinola,U.S. House,3,Michael A. Chiaradio,DEM,92
+Simpson,Pinola,U.S. House,3,Michael Guest,REP,154
+Simpson,Pinola,U.S. House,3,Erik Klehle,LIB,10
+Simpson,Pinola,State House,77,Christopher 'Chris' Dunn,IND,60
+Simpson,Pinola,State House,77,Dianne McNair Gaddis,IND,60
+Simpson,Pinola,State House,77,Melissa C. Sullivan,IND,123
+Simpson,Pinola,State House,77,Craig T. Williams,IND,7
+Simpson,Pinola,Court of Appeals,4,David McCarty,,219
+Simpson,Pinola,Chancery Court Place 1,2,Roy Noble Lee Jr.,,220
+Simpson,Pinola,Chancery Court Place 2,2,Gerald M. Martin,,217
+Simpson,Pinola,Chancery Court Place 3,2,David Shoemake,,218
+Simpson,Pinola,Circuit Court Place 1,13,Matthew G. Sullivan,,219
+Simpson,Pinola,Circuit Court Place 2,13,Stanley Sorey,,219
+Simpson,Saratoga,U.S. Senate,,Scott Colom,DEM,122
+Simpson,Saratoga,U.S. Senate,,Cindy Hyde-Smith,REP,82
+Simpson,Saratoga,U.S. Senate,,Ty Pinkins,IND,1
+Simpson,Saratoga,U.S. House,3,Michael A. Chiaradio,DEM,119
+Simpson,Saratoga,U.S. House,3,Michael Guest,REP,82
+Simpson,Saratoga,U.S. House,3,Erik Klehle,LIB,2
+Simpson,Saratoga,State House,77,Christopher 'Chris' Dunn,IND,0
+Simpson,Saratoga,State House,77,Dianne McNair Gaddis,IND,0
+Simpson,Saratoga,State House,77,Melissa C. Sullivan,IND,0
+Simpson,Saratoga,State House,77,Craig T. Williams,IND,0
+Simpson,Saratoga,Court of Appeals,4,David McCarty,,161
+Simpson,Saratoga,Chancery Court Place 1,2,Roy Noble Lee Jr.,,159
+Simpson,Saratoga,Chancery Court Place 2,2,Gerald M. Martin,,160
+Simpson,Saratoga,Chancery Court Place 3,2,David Shoemake,,159
+Simpson,Saratoga,Circuit Court Place 1,13,Matthew G. Sullivan,,161
+Simpson,Saratoga,Circuit Court Place 2,13,Stanley Sorey,,158
+Simpson,Shivers,U.S. Senate,,Scott Colom,DEM,135
+Simpson,Shivers,U.S. Senate,,Cindy Hyde-Smith,REP,135
+Simpson,Shivers,U.S. Senate,,Ty Pinkins,IND,1
+Simpson,Shivers,U.S. House,3,Michael A. Chiaradio,DEM,127
+Simpson,Shivers,U.S. House,3,Michael Guest,REP,141
+Simpson,Shivers,U.S. House,3,Erik Klehle,LIB,3
+Simpson,Shivers,State House,77,Christopher 'Chris' Dunn,IND,23
+Simpson,Shivers,State House,77,Dianne McNair Gaddis,IND,6
+Simpson,Shivers,State House,77,Melissa C. Sullivan,IND,46
+Simpson,Shivers,State House,77,Craig T. Williams,IND,0
+Simpson,Shivers,Court of Appeals,4,David McCarty,,210
+Simpson,Shivers,Chancery Court Place 1,2,Roy Noble Lee Jr.,,204
+Simpson,Shivers,Chancery Court Place 2,2,Gerald M. Martin,,207
+Simpson,Shivers,Chancery Court Place 3,2,David Shoemake,,211
+Simpson,Shivers,Circuit Court Place 1,13,Matthew G. Sullivan,,211
+Simpson,Shivers,Circuit Court Place 2,13,Stanley Sorey,,198
+Simpson,Weathersby,U.S. Senate,,Scott Colom,DEM,392
+Simpson,Weathersby,U.S. Senate,,Cindy Hyde-Smith,REP,59
+Simpson,Weathersby,U.S. Senate,,Ty Pinkins,IND,6
+Simpson,Weathersby,U.S. House,3,Michael A. Chiaradio,DEM,365
+Simpson,Weathersby,U.S. House,3,Michael Guest,REP,84
+Simpson,Weathersby,U.S. House,3,Erik Klehle,LIB,5
+Simpson,Weathersby,State House,77,Christopher 'Chris' Dunn,IND,104
+Simpson,Weathersby,State House,77,Dianne McNair Gaddis,IND,271
+Simpson,Weathersby,State House,77,Melissa C. Sullivan,IND,60
+Simpson,Weathersby,State House,77,Craig T. Williams,IND,9
+Simpson,Weathersby,Court of Appeals,4,David McCarty,,322
+Simpson,Weathersby,Chancery Court Place 1,2,Roy Noble Lee Jr.,,319
+Simpson,Weathersby,Chancery Court Place 2,2,Gerald M. Martin,,316
+Simpson,Weathersby,Chancery Court Place 3,2,David Shoemake,,328
+Simpson,Weathersby,Circuit Court Place 1,13,Matthew G. Sullivan,,329
+Simpson,Weathersby,Circuit Court Place 2,13,Stanley Sorey,,314

@@ -348,6 +348,17 @@ def parse_office(label, fuzzy=False):
     if m:
         d = str(int(m.group(2)))
         return "Chancery Court", d, int(m.group(3)) if m.group(3) else None
+    # The state-legislative sections (Simpson's "State House Of Rep
+    # 77-District 77", the Hinds-style House districts the assessment
+    # flagged): the label carries the district number twice (the same
+    # district-place double form the judicial labels use) and no Place
+    # slot. Office names match the repo's historic files' ("State
+    # House", "State Senate").
+    m = re.search(r"State (Senate|House)"
+                  r"(?:\s+[O0][fF]\s*Rep)?\s+0*(\d+)"
+                  r"(?:\s*-\s*[Dd]istrict\s*0*(\d+))?", label)
+    if m:
+        return f"State {m.group(1)}", str(int(m.group(2))), None
     return None
 
 
