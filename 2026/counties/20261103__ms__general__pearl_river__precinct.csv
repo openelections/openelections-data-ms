@@ -179,21 +179,21 @@ Pearl River,NICHOLSON 4,Circuit Court Place 1,15,Brad A. Touchstone,,730
 Pearl River,NICHOLSON 4,Circuit Court Place 2,15,Ryan Bruhl,,391
 Pearl River,NICHOLSON 4,Circuit Court Place 2,15,Prentiss G. Harrell,,425
 Pearl River,NICHOLSON 4,Circuit Court Place 3,15,Richelle Lumpkin,,747
-Pearl River,"PIC/HAWL,NH 5",U.S. Senate,,Scott Colom,DEM,428
-Pearl River,"PIC/HAWL,NH 5",U.S. Senate,,Cindy Hyde-Smith,REP,1495
-Pearl River,"PIC/HAWL,NH 5",U.S. Senate,,Ty Pinkins,IND,61
-Pearl River,"PIC/HAWL,NH 5",U.S. House,4,Mike Ezell,REP,1509
-Pearl River,"PIC/HAWL,NH 5",U.S. House,4,Jeffrey Hulum III,DEM,402
-Pearl River,"PIC/HAWL,NH 5",U.S. House,4,Carl Boyanton,IND,68
-Pearl River,"PIC/HAWL,NH 5",Court of Appeals,5,Anthony 'Tony' Lawrence,,1580
-Pearl River,"PIC/HAWL,NH 5",Chancery Court Place 1,10,Renee McBride Porter,,1583
-Pearl River,"PIC/HAWL,NH 5",Chancery Court Place 2,10,Rhea Hudson Sheldon,,1567
-Pearl River,"PIC/HAWL,NH 5",Chancery Court Place 3,10,Tara Kellar,,1615
-Pearl River,"PIC/HAWL,NH 5",Chancery Court Place 4,10,Chad Smith,,1577
-Pearl River,"PIC/HAWL,NH 5",Circuit Court Place 1,15,Brad A. Touchstone,,1568
-Pearl River,"PIC/HAWL,NH 5",Circuit Court Place 2,15,Ryan Bruhl,,921
-Pearl River,"PIC/HAWL,NH 5",Circuit Court Place 2,15,Prentiss G. Harrell,,819
-Pearl River,"PIC/HAWL,NH 5",Circuit Court Place 3,15,Richelle Lumpkin,,1613
+Pearl River,PIC/HAWL/NH 5,U.S. Senate,,Scott Colom,DEM,428
+Pearl River,PIC/HAWL/NH 5,U.S. Senate,,Cindy Hyde-Smith,REP,1495
+Pearl River,PIC/HAWL/NH 5,U.S. Senate,,Ty Pinkins,IND,61
+Pearl River,PIC/HAWL/NH 5,U.S. House,4,Mike Ezell,REP,1509
+Pearl River,PIC/HAWL/NH 5,U.S. House,4,Jeffrey Hulum III,DEM,402
+Pearl River,PIC/HAWL/NH 5,U.S. House,4,Carl Boyanton,IND,68
+Pearl River,PIC/HAWL/NH 5,Court of Appeals,5,Anthony 'Tony' Lawrence,,1580
+Pearl River,PIC/HAWL/NH 5,Chancery Court Place 1,10,Renee McBride Porter,,1583
+Pearl River,PIC/HAWL/NH 5,Chancery Court Place 2,10,Rhea Hudson Sheldon,,1567
+Pearl River,PIC/HAWL/NH 5,Chancery Court Place 3,10,Tara Kellar,,1615
+Pearl River,PIC/HAWL/NH 5,Chancery Court Place 4,10,Chad Smith,,1577
+Pearl River,PIC/HAWL/NH 5,Circuit Court Place 1,15,Brad A. Touchstone,,1568
+Pearl River,PIC/HAWL/NH 5,Circuit Court Place 2,15,Ryan Bruhl,,921
+Pearl River,PIC/HAWL/NH 5,Circuit Court Place 2,15,Prentiss G. Harrell,,819
+Pearl River,PIC/HAWL/NH 5,Circuit Court Place 3,15,Richelle Lumpkin,,1613
 Pearl River,PICAYUNE 2,U.S. Senate,,Scott Colom,DEM,226
 Pearl River,PICAYUNE 2,U.S. Senate,,Cindy Hyde-Smith,REP,771
 Pearl River,PICAYUNE 2,U.S. Senate,,Ty Pinkins,IND,52
@@ -209,36 +209,36 @@ Pearl River,PICAYUNE 2,Circuit Court Place 1,15,Brad A. Touchstone,,806
 Pearl River,PICAYUNE 2,Circuit Court Place 2,15,Ryan Bruhl,,492
 Pearl River,PICAYUNE 2,Circuit Court Place 2,15,Prentiss G. Harrell,,414
 Pearl River,PICAYUNE 2,Circuit Court Place 3,15,Richelle Lumpkin,,841
-Pearl River,PICAYUNE-1 EASTSIDE,U.S. Senate,,Scott Colom,DEM,362
-Pearl River,PICAYUNE-1 EASTSIDE,U.S. Senate,,Cindy Hyde-Smith,REP,237
-Pearl River,PICAYUNE-1 EASTSIDE,U.S. Senate,,Ty Pinkins,IND,15
-Pearl River,PICAYUNE-1 EASTSIDE,U.S. House,4,Mike Ezell,REP,244
-Pearl River,PICAYUNE-1 EASTSIDE,U.S. House,4,Jeffrey Hulum III,DEM,346
-Pearl River,PICAYUNE-1 EASTSIDE,U.S. House,4,Carl Boyanton,IND,20
-Pearl River,PICAYUNE-1 EASTSIDE,Court of Appeals,5,Anthony 'Tony' Lawrence,,410
-Pearl River,PICAYUNE-1 EASTSIDE,Chancery Court Place 1,10,Renee McBride Porter,,417
-Pearl River,PICAYUNE-1 EASTSIDE,Chancery Court Place 2,10,Rhea Hudson Sheldon,,403
-Pearl River,PICAYUNE-1 EASTSIDE,Chancery Court Place 3,10,Tara Kellar,,430
-Pearl River,PICAYUNE-1 EASTSIDE,Chancery Court Place 4,10,Chad Smith,,409
-Pearl River,PICAYUNE-1 EASTSIDE,Circuit Court Place 1,15,Brad A. Touchstone,,407
-Pearl River,PICAYUNE-1 EASTSIDE,Circuit Court Place 2,15,Ryan Bruhl,,217
-Pearl River,PICAYUNE-1 EASTSIDE,Circuit Court Place 2,15,Prentiss G. Harrell,,269
-Pearl River,PICAYUNE-1 EASTSIDE,Circuit Court Place 3,15,Richelle Lumpkin,,429
-Pearl River,PICAYUNE-1 SOUTHSIDE,U.S. Senate,,Scott Colom,DEM,836
-Pearl River,PICAYUNE-1 SOUTHSIDE,U.S. Senate,,Cindy Hyde-Smith,REP,138
-Pearl River,PICAYUNE-1 SOUTHSIDE,U.S. Senate,,Ty Pinkins,IND,20
-Pearl River,PICAYUNE-1 SOUTHSIDE,U.S. House,4,Mike Ezell,REP,165
-Pearl River,PICAYUNE-1 SOUTHSIDE,U.S. House,4,Jeffrey Hulum III,DEM,798
-Pearl River,PICAYUNE-1 SOUTHSIDE,U.S. House,4,Carl Boyanton,IND,26
-Pearl River,PICAYUNE-1 SOUTHSIDE,Court of Appeals,5,Anthony 'Tony' Lawrence,,650
-Pearl River,PICAYUNE-1 SOUTHSIDE,Chancery Court Place 1,10,Renee McBride Porter,,647
-Pearl River,PICAYUNE-1 SOUTHSIDE,Chancery Court Place 2,10,Rhea Hudson Sheldon,,634
-Pearl River,PICAYUNE-1 SOUTHSIDE,Chancery Court Place 3,10,Tara Kellar,,663
-Pearl River,PICAYUNE-1 SOUTHSIDE,Chancery Court Place 4,10,Chad Smith,,634
-Pearl River,PICAYUNE-1 SOUTHSIDE,Circuit Court Place 1,15,Brad A. Touchstone,,631
-Pearl River,PICAYUNE-1 SOUTHSIDE,Circuit Court Place 2,15,Ryan Bruhl,,267
-Pearl River,PICAYUNE-1 SOUTHSIDE,Circuit Court Place 2,15,Prentiss G. Harrell,,481
-Pearl River,PICAYUNE-1 SOUTHSIDE,Circuit Court Place 3,15,Richelle Lumpkin,,649
+Pearl River,PICAYUNE 1 EASTSIDE,U.S. Senate,,Scott Colom,DEM,362
+Pearl River,PICAYUNE 1 EASTSIDE,U.S. Senate,,Cindy Hyde-Smith,REP,237
+Pearl River,PICAYUNE 1 EASTSIDE,U.S. Senate,,Ty Pinkins,IND,15
+Pearl River,PICAYUNE 1 EASTSIDE,U.S. House,4,Mike Ezell,REP,244
+Pearl River,PICAYUNE 1 EASTSIDE,U.S. House,4,Jeffrey Hulum III,DEM,346
+Pearl River,PICAYUNE 1 EASTSIDE,U.S. House,4,Carl Boyanton,IND,20
+Pearl River,PICAYUNE 1 EASTSIDE,Court of Appeals,5,Anthony 'Tony' Lawrence,,410
+Pearl River,PICAYUNE 1 EASTSIDE,Chancery Court Place 1,10,Renee McBride Porter,,417
+Pearl River,PICAYUNE 1 EASTSIDE,Chancery Court Place 2,10,Rhea Hudson Sheldon,,403
+Pearl River,PICAYUNE 1 EASTSIDE,Chancery Court Place 3,10,Tara Kellar,,430
+Pearl River,PICAYUNE 1 EASTSIDE,Chancery Court Place 4,10,Chad Smith,,409
+Pearl River,PICAYUNE 1 EASTSIDE,Circuit Court Place 1,15,Brad A. Touchstone,,407
+Pearl River,PICAYUNE 1 EASTSIDE,Circuit Court Place 2,15,Ryan Bruhl,,217
+Pearl River,PICAYUNE 1 EASTSIDE,Circuit Court Place 2,15,Prentiss G. Harrell,,269
+Pearl River,PICAYUNE 1 EASTSIDE,Circuit Court Place 3,15,Richelle Lumpkin,,429
+Pearl River,PICAYUNE 1 SOUTHSIDE,U.S. Senate,,Scott Colom,DEM,836
+Pearl River,PICAYUNE 1 SOUTHSIDE,U.S. Senate,,Cindy Hyde-Smith,REP,138
+Pearl River,PICAYUNE 1 SOUTHSIDE,U.S. Senate,,Ty Pinkins,IND,20
+Pearl River,PICAYUNE 1 SOUTHSIDE,U.S. House,4,Mike Ezell,REP,165
+Pearl River,PICAYUNE 1 SOUTHSIDE,U.S. House,4,Jeffrey Hulum III,DEM,798
+Pearl River,PICAYUNE 1 SOUTHSIDE,U.S. House,4,Carl Boyanton,IND,26
+Pearl River,PICAYUNE 1 SOUTHSIDE,Court of Appeals,5,Anthony 'Tony' Lawrence,,650
+Pearl River,PICAYUNE 1 SOUTHSIDE,Chancery Court Place 1,10,Renee McBride Porter,,647
+Pearl River,PICAYUNE 1 SOUTHSIDE,Chancery Court Place 2,10,Rhea Hudson Sheldon,,634
+Pearl River,PICAYUNE 1 SOUTHSIDE,Chancery Court Place 3,10,Tara Kellar,,663
+Pearl River,PICAYUNE 1 SOUTHSIDE,Chancery Court Place 4,10,Chad Smith,,634
+Pearl River,PICAYUNE 1 SOUTHSIDE,Circuit Court Place 1,15,Brad A. Touchstone,,631
+Pearl River,PICAYUNE 1 SOUTHSIDE,Circuit Court Place 2,15,Ryan Bruhl,,267
+Pearl River,PICAYUNE 1 SOUTHSIDE,Circuit Court Place 2,15,Prentiss G. Harrell,,481
+Pearl River,PICAYUNE 1 SOUTHSIDE,Circuit Court Place 3,15,Richelle Lumpkin,,649
 Pearl River,PINE GROVE 4,U.S. Senate,,Scott Colom,DEM,77
 Pearl River,PINE GROVE 4,U.S. Senate,,Cindy Hyde-Smith,REP,442
 Pearl River,PINE GROVE 4,U.S. Senate,,Ty Pinkins,IND,32
@@ -374,21 +374,21 @@ Pearl River,STEEP HOLLOW 3,Circuit Court Place 1,15,Brad A. Touchstone,,504
 Pearl River,STEEP HOLLOW 3,Circuit Court Place 2,15,Ryan Bruhl,,320
 Pearl River,STEEP HOLLOW 3,Circuit Court Place 2,15,Prentiss G. Harrell,,249
 Pearl River,STEEP HOLLOW 3,Circuit Court Place 3,15,Richelle Lumpkin,,514
-Pearl River,SYCANORE 5,U.S. Senate,,Scott Colom,DEM,85
-Pearl River,SYCANORE 5,U.S. Senate,,Cindy Hyde-Smith,REP,437
-Pearl River,SYCANORE 5,U.S. Senate,,Ty Pinkins,IND,18
-Pearl River,SYCANORE 5,U.S. House,4,Mike Ezell,REP,449
-Pearl River,SYCANORE 5,U.S. House,4,Jeffrey Hulum III,DEM,71
-Pearl River,SYCANORE 5,U.S. House,4,Carl Boyanton,IND,22
-Pearl River,SYCANORE 5,Court of Appeals,5,Anthony 'Tony' Lawrence,,447
-Pearl River,SYCANORE 5,Chancery Court Place 1,10,Renee McBride Porter,,445
-Pearl River,SYCANORE 5,Chancery Court Place 2,10,Rhea Hudson Sheldon,,445
-Pearl River,SYCANORE 5,Chancery Court Place 3,10,Tara Kellar,,447
-Pearl River,SYCANORE 5,Chancery Court Place 4,10,Chad Smith,,444
-Pearl River,SYCANORE 5,Circuit Court Place 1,15,Brad A. Touchstone,,441
-Pearl River,SYCANORE 5,Circuit Court Place 2,15,Ryan Bruhl,,257
-Pearl River,SYCANORE 5,Circuit Court Place 2,15,Prentiss G. Harrell,,239
-Pearl River,SYCANORE 5,Circuit Court Place 3,15,Richelle Lumpkin,,458
+Pearl River,SYCAMORE 5,U.S. Senate,,Scott Colom,DEM,85
+Pearl River,SYCAMORE 5,U.S. Senate,,Cindy Hyde-Smith,REP,437
+Pearl River,SYCAMORE 5,U.S. Senate,,Ty Pinkins,IND,18
+Pearl River,SYCAMORE 5,U.S. House,4,Mike Ezell,REP,449
+Pearl River,SYCAMORE 5,U.S. House,4,Jeffrey Hulum III,DEM,71
+Pearl River,SYCAMORE 5,U.S. House,4,Carl Boyanton,IND,22
+Pearl River,SYCAMORE 5,Court of Appeals,5,Anthony 'Tony' Lawrence,,447
+Pearl River,SYCAMORE 5,Chancery Court Place 1,10,Renee McBride Porter,,445
+Pearl River,SYCAMORE 5,Chancery Court Place 2,10,Rhea Hudson Sheldon,,445
+Pearl River,SYCAMORE 5,Chancery Court Place 3,10,Tara Kellar,,447
+Pearl River,SYCAMORE 5,Chancery Court Place 4,10,Chad Smith,,444
+Pearl River,SYCAMORE 5,Circuit Court Place 1,15,Brad A. Touchstone,,441
+Pearl River,SYCAMORE 5,Circuit Court Place 2,15,Ryan Bruhl,,257
+Pearl River,SYCAMORE 5,Circuit Court Place 2,15,Prentiss G. Harrell,,239
+Pearl River,SYCAMORE 5,Circuit Court Place 3,15,Richelle Lumpkin,,458
 Pearl River,WHITESAND 1,U.S. Senate,,Scott Colom,DEM,163
 Pearl River,WHITESAND 1,U.S. Senate,,Cindy Hyde-Smith,REP,101
 Pearl River,WHITESAND 1,U.S. Senate,,Ty Pinkins,IND,7
